@@ -99,6 +99,7 @@
 * [2024-05-01, 08:03:08](https://news.ycombinator.com/item?id=40220699) - [Show HN: I've build a stupidly simple invoicing for freelancers and contractors](https://onigiri.one/)
 * [2024-05-01, 07:56:31](https://news.ycombinator.com/item?id=40220648) - [Most clean power purchasing strategies do little to cut emissions](https://research.princeton.edu/news/buyer-beware-most-clean-power-purchasing-strategies-do-little-cut-emissions)
 * [2024-05-01, 07:45:30](https://news.ycombinator.com/item?id=40220578) - [Astronauts could run round 'Wall of Death' to keep fit on moon, say scientists](https://www.theguardian.com/science/2024/may/01/astronauts-could-run-round-wall-of-death-to-keep-fit-on-moon-say-scientists)
+* [2024-05-01, 07:39:09](https://news.ycombinator.com/item?id=40220542) - [Fast, simple, hard real time allocator for Rust](https://github.com/pcwalton/offset-allocator)
 * [2024-05-01, 06:52:41](https://news.ycombinator.com/item?id=40220309) - [The drinking fountain button is tragically misunderstood](https://www.theverge.com/24144774/drinking-fountain-bubbler-button-of-the-month)
 * [2024-05-01, 05:59:01](https://news.ycombinator.com/item?id=40220004) - [What if dreaming is the whole point of sleep?](https://www.theguardian.com/books/2024/apr/22/the-big-idea-what-if-dreaming-is-the-whole-point-of-sleepp)
 * [2024-05-01, 05:31:37](https://news.ycombinator.com/item?id=40219823) - [Paul Auster has died](https://www.nytimes.com/2024/04/30/books/paul-auster-dead.html)
