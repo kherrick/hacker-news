@@ -1,22 +1,32 @@
 [
   [
     [
+      "2024-05-02, 12:47:27",
+      "https://news.ycombinator.com/item?id=40235557"
+    ],
+    [
+      "Shutterstock Enters into Definitive Agreement to Acquire Envato",
+      "https://investor.shutterstock.com/news-releases/news-release-details/shutterstock-enters-definitive-agreement-acquire-envato"
+    ]
+  ],
+  [
+    [
+      "2024-05-02, 12:23:50",
+      "https://news.ycombinator.com/item?id=40235342"
+    ],
+    [
+      "MouseEvent: buttons property",
+      "https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent/buttons"
+    ]
+  ],
+  [
+    [
       "2024-05-02, 12:07:02",
       "https://news.ycombinator.com/item?id=40235193"
     ],
     [
       "Recovering the master key from RAM to break Android's file-based encryption",
       "https://www.sciencedirect.com/science/article/pii/S266628172100007X"
-    ]
-  ],
-  [
-    [
-      "2024-05-02, 12:00:21",
-      "https://news.ycombinator.com/item?id=40235138"
-    ],
-    [
-      "Search.chatgpt.com domain and SSL cert have been created",
-      "https://search.chatgpt.com"
     ]
   ],
   [
@@ -41,12 +51,22 @@
   ],
   [
     [
-      "2024-05-02, 11:58:00",
-      "https://news.ycombinator.com/item?id=40235114"
+      "2024-05-02, 09:49:35",
+      "https://news.ycombinator.com/item?id=40234383"
     ],
     [
-      "America's Booziest and Driest Counties",
-      "https://intoxistates.com/"
+      "Teranoptia – a typeface that allows you to imagine chimeric creatures",
+      "https://www.tunera.xyz/fonts/teranoptia/"
+    ]
+  ],
+  [
+    [
+      "2024-05-02, 09:24:28",
+      "https://news.ycombinator.com/item?id=40234254"
+    ],
+    [
+      "Dissecting LockBit v3 Ransomware",
+      "https://blog.calif.io/p/dissecting-lockbit-v3-ransomware"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2024-05-02, 01:49:27",
-      "https://news.ycombinator.com/item?id=40231919"
-    ],
-    [
-      "Fast Fourier Transform in Rust",
-      "https://github.com/QuState/PhastFT"
-    ]
-  ],
-  [
-    [
       "2024-05-02, 01:31:30",
       "https://news.ycombinator.com/item?id=40231790"
     ],
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2024-05-01, 07:45:30",
-      "https://news.ycombinator.com/item?id=40220578"
-    ],
-    [
-      "Astronauts could run round 'Wall of Death' to keep fit on moon, say scientists",
-      "https://www.theguardian.com/science/2024/may/01/astronauts-could-run-round-wall-of-death-to-keep-fit-on-moon-say-scientists"
-    ]
-  ],
-  [
-    [
       "2024-05-01, 07:39:09",
       "https://news.ycombinator.com/item?id=40220542"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2024-04-29, 23:19:08",
-      "https://news.ycombinator.com/item?id=40205333"
+      "2024-04-30, 20:39:59",
+      "https://news.ycombinator.com/item?id=40216057"
     ],
     [
-      "Meter-scale distance manipulation of diverse objects with jet-induced airflow",
-      "https://onlinelibrary.wiley.com/doi/10.1002/aisy.202400174"
+      "Printing Music with CSS Grid",
+      "https://cruncher.ch/blog/printing-music-with-css-grid/"
     ]
   ],
   [
