@@ -6,6 +6,7 @@
 
 * [2024-05-02, 12:47:27](https://news.ycombinator.com/item?id=40235557) - [Shutterstock Enters into Definitive Agreement to Acquire Envato](https://investor.shutterstock.com/news-releases/news-release-details/shutterstock-enters-definitive-agreement-acquire-envato)
 * [2024-05-02, 12:23:50](https://news.ycombinator.com/item?id=40235342) - [MouseEvent: buttons property](https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent/buttons)
+* [2024-05-02, 12:08:38](https://news.ycombinator.com/item?id=40235206) - [OpenAI working on web search product](https://searchengineland.com/open-ai-search-product-437563)
 * [2024-05-02, 12:07:02](https://news.ycombinator.com/item?id=40235193) - [Recovering the master key from RAM to break Android's file-based encryption](https://www.sciencedirect.com/science/article/pii/S266628172100007X)
 * [2024-05-02, 12:00:21](https://news.ycombinator.com/item?id=40235138) - [Search.chatgpt.com domain and SSL cert have been created](https://search.chatgpt.com)
 * [2024-05-02, 12:00:06](https://news.ycombinator.com/item?id=40235134) - [Optery (YC W22) – Engineering Tech Lead with Django and Python Experience (Remote)](https://www.ycombinator.com/companies/optery/jobs/Jwe23jD-engineering-tech-lead-full-time-contract)
