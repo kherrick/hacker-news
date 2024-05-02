@@ -97,6 +97,7 @@
 * [2024-05-01, 09:29:32](https://news.ycombinator.com/item?id=40221154) - [LLMs Can't Do Probability](https://brainsteam.co.uk/2024/05/01/llms-cant-do-probability/)
 * [2024-05-01, 09:22:23](https://news.ycombinator.com/item?id=40221108) - [Jeff Barr acknowledges S3 unauthorized request billing issue](https://old.reddit.com/r/aws/comments/1ch1ir4/jeff_barr_acknowledges_s3_unauthorized_request/)
 * [2024-05-01, 08:28:18](https://news.ycombinator.com/item?id=40220851) - [Better and Faster Large Language Models via Multi-Token Prediction](https://arxiv.org/abs/2404.19737)
+* [2024-05-01, 08:05:56](https://news.ycombinator.com/item?id=40220722) - [Jane Street is big. Like, big](https://www.ft.com/content/54671865-4c7f-4692-a879-867ef68f0bde)
 * [2024-05-01, 08:03:08](https://news.ycombinator.com/item?id=40220699) - [Show HN: I've build a stupidly simple invoicing for freelancers and contractors](https://onigiri.one/)
 * [2024-05-01, 07:56:31](https://news.ycombinator.com/item?id=40220648) - [Most clean power purchasing strategies do little to cut emissions](https://research.princeton.edu/news/buyer-beware-most-clean-power-purchasing-strategies-do-little-cut-emissions)
 * [2024-05-01, 07:45:30](https://news.ycombinator.com/item?id=40220578) - [Astronauts could run round 'Wall of Death' to keep fit on moon, say scientists](https://www.theguardian.com/science/2024/may/01/astronauts-could-run-round-wall-of-death-to-keep-fit-on-moon-say-scientists)
