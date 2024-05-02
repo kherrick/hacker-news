@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-02, 03:20:26](https://news.ycombinator.com/item?id=40232364) - [NSA: Tales of the Krypt (KRYPTOS Society news letters 1994-2003)[pdf]](https://www.governmentattic.org/53docs/NSAkryptosSocNwsltrs1994-2003.pdf)
+* [2024-05-02, 03:02:49](https://news.ycombinator.com/item?id=40232298) - [Live Nation/Ticketmaster is buying Congress](https://pluralistic.net/2024/04/30/nix-fix-the-tix/)
+* [2024-05-02, 02:37:06](https://news.ycombinator.com/item?id=40232177) - [Video Feedback Device Perfected, Practice #2:Spirals Made of Spirals](https://www.youtube.com/watch?v=CT7WTwoJt4o)
 * [2024-05-02, 02:06:30](https://news.ycombinator.com/item?id=40231999) - [Hawaiian scientist is working with distilleries to save native sugarcane](https://www.theguardian.com/us-news/ng-interactive/2024/apr/24/hawaii-native-sugarcane-rum)
 * [2024-05-02, 01:31:30](https://news.ycombinator.com/item?id=40231790) - [Ask HN: How do people create those sleek looking demos for startups?](https://news.ycombinator.com/item?id=40231790)
 * [2024-05-02, 01:06:54](https://news.ycombinator.com/item?id=40231630) - [ESpeak-ng: speech synthesizer with more than one hundred languages and accents](https://github.com/espeak-ng/espeak-ng)
@@ -13,13 +16,11 @@
 * [2024-05-01, 21:01:08](https://news.ycombinator.com/item?id=40229360) - [Mux (YC W16) is hiring a Senior Product Designer that's excited about devtools](https://mux.com/jobs?j=product-designer)
 * [2024-05-01, 18:26:33](https://news.ycombinator.com/item?id=40227208) - [New startup sells coffee through SSH](https://www.terminal.shop/)
 * [2024-05-01, 18:10:03](https://news.ycombinator.com/item?id=40226976) - [Show HN: FileKitty – Combine and label text files for LLM prompt contexts](https://github.com/banagale/FileKitty)
-* [2024-05-01, 16:08:43](https://news.ycombinator.com/item?id=40225228) - [2024 Verizon Data Breach Investigation Report [pdf]](https://www.verizon.com/business/resources/T5be/reports/2024-dbir-data-breach-investigations-report.pdf)
 * [2024-05-01, 15:42:12](https://news.ycombinator.com/item?id=40224864) - [Evolving the Go Standard Library with math/rand/v2](https://go.dev/blog/randv2)
 * [2024-05-01, 15:00:54](https://news.ycombinator.com/item?id=40224213) - [Ask HN: Who is hiring? (May 2024)](https://news.ycombinator.com/item?id=40224213)
 * [2024-05-01, 15:00:52](https://news.ycombinator.com/item?id=40224210) - [Ask HN: Who wants to be hired? (May 2024)](https://news.ycombinator.com/item?id=40224210)
 * [2024-05-01, 14:12:36](https://news.ycombinator.com/item?id=40223510) - [Show HN: Maps and Splats – Mashup of 3D tile maps with Gaussian Splats](https://maps-and-splats.glitch.me/)
 * [2024-05-01, 14:08:48](https://news.ycombinator.com/item?id=40223457) - [New findings point to an Earth-like environment on ancient Mars](https://discover.lanl.gov/news/0501-ancient-mars/)
-* [2024-05-01, 10:04:47](https://news.ycombinator.com/item?id=40221345) - [Invisible Stitch: Generating Smooth 3D Scenes with Depth Inpainting](https://research.paulengstler.com/invisible-stitch/)
 * [2024-05-01, 03:30:47](https://news.ycombinator.com/item?id=40219205) - [Kolmogorov-Arnold Networks](https://github.com/KindXiaoming/pykan)
 * [2024-04-30, 20:39:59](https://news.ycombinator.com/item?id=40216057) - [Printing Music with CSS Grid](https://cruncher.ch/blog/printing-music-with-css-grid/)
 * [2024-04-30, 19:11:54](https://news.ycombinator.com/item?id=40214995) - [A pivot point in Maya history: fire-burning event at Ucanal](https://www.cambridge.org/core/journals/antiquity/article/pivot-point-in-maya-history-fireburning-event-at-kanwitznal-ucanal-and-the-making-of-a-new-era-of-political-rule/564F837E84443D408CD844424B7F6952)
@@ -29,7 +30,6 @@
 * [2024-04-29, 22:13:21](https://news.ycombinator.com/item?id=40204738) - [Researchers detect a new molecule in space](https://phys.org/news/2024-04-molecule-space.html)
 * [2024-04-29, 14:30:27](https://news.ycombinator.com/item?id=40198788) - [How A NASA Probe Solved a Scorching Solar Mystery](https://www.quantamagazine.org/how-a-nasa-probe-solved-a-scorching-solar-mystery-20240429/)
 * [2024-04-29, 09:37:42](https://news.ycombinator.com/item?id=40196333) - [500 Byte Images: The Haiku Vector Icon Format (2016)](http://blog.leahhanson.us/post/recursecenter2016/haiku_icons.html)
-* [2024-04-29, 07:45:44](https://news.ycombinator.com/item?id=40195624) - [An alternative to cursor pagination](https://medium.com/@ramsi.candra/an-alternative-to-cursor-pagination-147074287ca4)
 
 ## [Archives](archives/index.md)
 
