@@ -1,6 +1,46 @@
 [
   [
     [
+      "2024-05-02, 00:57:22",
+      "https://news.ycombinator.com/item?id=40231563"
+    ],
+    [
+      "Cognition: A New Antisyntax Language Redefining Metaprogramming",
+      "https://ret2pop.nullring.xyz/blog/cognition.html"
+    ]
+  ],
+  [
+    [
+      "2024-05-02, 00:50:13",
+      "https://news.ycombinator.com/item?id=40231515"
+    ],
+    [
+      "mRNA Cancer Vaccine Reprograms Immune System to Tackle Glioblastoma in 48 Hours",
+      "https://www.insideprecisionmedicine.com/topics/oncology/mrna-cancer-vaccine-reprograms-immune-system-to-tackle-glioblastoma/"
+    ]
+  ],
+  [
+    [
+      "2024-05-02, 00:41:24",
+      "https://news.ycombinator.com/item?id=40231452"
+    ],
+    [
+      "Mongoose IM 6.2.1 – Erlang Solutions robust, scalable and efficient XMPP server",
+      "https://github.com/esl/MongooseIM/releases/tag/6.2.1"
+    ]
+  ],
+  [
+    [
+      "2024-05-01, 23:44:23",
+      "https://news.ycombinator.com/item?id=40231010"
+    ],
+    [
+      "Meteorologists awed by rare type of tornado (anti-cyclonic)",
+      "https://www.cnn.com/2024/05/01/weather/oklahoma-tornado-rare-climate/index.html"
+    ]
+  ],
+  [
+    [
       "2024-05-01, 23:41:24",
       "https://news.ycombinator.com/item?id=40230988"
     ],
@@ -41,6 +81,16 @@
   ],
   [
     [
+      "2024-05-01, 20:23:17",
+      "https://news.ycombinator.com/item?id=40228864"
+    ],
+    [
+      "German \"Grundgesetz\" (basic law/constitution) as Git repository",
+      "https://github.com/c3e/grundgesetz"
+    ]
+  ],
+  [
+    [
       "2024-05-01, 18:26:33",
       "https://news.ycombinator.com/item?id=40227208"
     ],
@@ -57,26 +107,6 @@
     [
       "Show HN: FileKitty – Combine and label text files for LLM prompt contexts",
       "https://github.com/banagale/FileKitty"
-    ]
-  ],
-  [
-    [
-      "2024-05-01, 18:02:59",
-      "https://news.ycombinator.com/item?id=40226897"
-    ],
-    [
-      "Ask HN: Guidelines for making clear architecture diagrams",
-      "https://news.ycombinator.com/item?id=40226897"
-    ]
-  ],
-  [
-    [
-      "2024-05-01, 17:33:31",
-      "https://news.ycombinator.com/item?id=40226478"
-    ],
-    [
-      "Eight Feet Jolted a $180M Real Estate Deal",
-      "https://www.nytimes.com/interactive/2024/04/19/realestate/st-francis-college-brooklyn.html"
     ]
   ],
   [
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2024-04-30, 22:54:16",
-      "https://news.ycombinator.com/item?id=40217453"
-    ],
-    [
-      "The Rabbit R1 is probably running Android and is powered by an Android app",
-      "https://www.androidauthority.com/rabbit-r1-is-an-android-app-3438805/"
-    ]
-  ],
-  [
-    [
       "2024-04-30, 20:39:59",
       "https://news.ycombinator.com/item?id=40216057"
     ],
@@ -221,36 +241,6 @@
   ],
   [
     [
-      "2024-04-30, 17:43:12",
-      "https://news.ycombinator.com/item?id=40213731"
-    ],
-    [
-      "The File Filesystem (2021)",
-      "https://mgree.github.io/ffs/"
-    ]
-  ],
-  [
-    [
-      "2024-04-30, 14:54:45",
-      "https://news.ycombinator.com/item?id=40211655"
-    ],
-    [
-      "Pyinfra: Automate Infrastructure Using Python",
-      "https://pyinfra.com/"
-    ]
-  ],
-  [
-    [
-      "2024-04-30, 13:11:16",
-      "https://news.ycombinator.com/item?id=40210627"
-    ],
-    [
-      "Show HN: I made a CLI tool to create web extensions with no build configuration",
-      "https://github.com/cezaraugusto/extension.js"
-    ]
-  ],
-  [
-    [
       "2024-04-30, 05:47:04",
       "https://news.ycombinator.com/item?id=40207607"
     ],
@@ -267,6 +257,16 @@
     [
       "Meter-scale distance manipulation of diverse objects with jet-induced airflow",
       "https://onlinelibrary.wiley.com/doi/10.1002/aisy.202400174"
+    ]
+  ],
+  [
+    [
+      "2024-04-29, 22:13:21",
+      "https://news.ycombinator.com/item?id=40204738"
+    ],
+    [
+      "Researchers detect a new molecule in space",
+      "https://phys.org/news/2024-04-molecule-space.html"
     ]
   ],
   [
