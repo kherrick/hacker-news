@@ -114,6 +114,7 @@
 * [2024-04-30, 03:05:38](https://news.ycombinator.com/item?id=40206825) - [A few facts about POSIX](https://vorakl.com/articles/posix/)
 * [2024-04-30, 02:51:50](https://news.ycombinator.com/item?id=40206770) - [Save the Web by Being Nice](https://sheep.horse/2024/4/save_the_web_by_being_nice.html)
 * [2024-04-30, 02:49:59](https://news.ycombinator.com/item?id=40206763) - [Codapi – Interactive code examples for documentation, education and fun](https://github.com/nalgeon/codapi)
+* [2024-04-30, 02:49:23](https://news.ycombinator.com/item?id=40206760) - [Implementing Your Own Garbage Collector in Java](https://coderoasis.com/custom-java-garbage-collector/)
 * [2024-04-30, 02:48:43](https://news.ycombinator.com/item?id=40206752) - [Why SQLite Uses Bytecode](https://sqlite.org/draft/whybytecode.html)
 * [2024-04-30, 02:45:16](https://news.ycombinator.com/item?id=40206729) - [RISC-V support in Android just got a big setback](https://www.androidauthority.com/android-drop-risc-v-kernel-3438330/)
 * [2024-04-30, 01:47:37](https://news.ycombinator.com/item?id=40206421) - [Electromigration Concerns Grow in Advanced Packages](https://semiengineering.com/electromigration-concerns-grow-in-advanced-packages/)
