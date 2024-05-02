@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-02](index.md)
 
+* [2024-05-02, 12:47:27](https://news.ycombinator.com/item?id=40235557) - [Shutterstock Enters into Definitive Agreement to Acquire Envato](https://investor.shutterstock.com/news-releases/news-release-details/shutterstock-enters-definitive-agreement-acquire-envato)
+* [2024-05-02, 12:23:50](https://news.ycombinator.com/item?id=40235342) - [MouseEvent: buttons property](https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent/buttons)
 * [2024-05-02, 12:07:02](https://news.ycombinator.com/item?id=40235193) - [Recovering the master key from RAM to break Android's file-based encryption](https://www.sciencedirect.com/science/article/pii/S266628172100007X)
 * [2024-05-02, 12:00:21](https://news.ycombinator.com/item?id=40235138) - [Search.chatgpt.com domain and SSL cert have been created](https://search.chatgpt.com)
 * [2024-05-02, 12:00:06](https://news.ycombinator.com/item?id=40235134) - [Optery (YC W22) – Engineering Tech Lead with Django and Python Experience (Remote)](https://www.ycombinator.com/companies/optery/jobs/Jwe23jD-engineering-tech-lead-full-time-contract)
@@ -11,6 +13,7 @@
 * [2024-05-02, 11:58:00](https://news.ycombinator.com/item?id=40235114) - [America's Booziest and Driest Counties](https://intoxistates.com/)
 * [2024-05-02, 11:22:32](https://news.ycombinator.com/item?id=40234878) - [Another Boeing-Linked Whistleblower Has Died](https://time.com/6973635/boeing-spirit-aerosystems-whistleblower-josh-dean-dead/)
 * [2024-05-02, 09:57:35](https://news.ycombinator.com/item?id=40234428) - [Are young people smarter than adults? Research shows differences diminishing](https://theconversation.com/are-young-people-smarter-than-older-adults-my-research-shows-cognitive-differences-between-generations-are-diminishing-229132)
+* [2024-05-02, 09:49:35](https://news.ycombinator.com/item?id=40234383) - [Teranoptia – a typeface that allows you to imagine chimeric creatures](https://www.tunera.xyz/fonts/teranoptia/)
 * [2024-05-02, 09:25:17](https://news.ycombinator.com/item?id=40234260) - [I'm closing up shop on my Mastodon for the foreseeable future](https://vkc.sh/its-not-you-its-me-taking-a-break-from-mastodon/)
 * [2024-05-02, 09:24:28](https://news.ycombinator.com/item?id=40234254) - [Dissecting LockBit v3 Ransomware](https://blog.calif.io/p/dissecting-lockbit-v3-ransomware)
 * [2024-05-02, 08:37:32](https://news.ycombinator.com/item?id=40233990) - [Key Consciousness Connections Uncovered](https://neurosciencenews.com/consciousness-neuroimaging-brain-26017/)
