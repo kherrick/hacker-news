@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-05-02, 21:00:28",
+      "https://news.ycombinator.com/item?id=40241322"
+    ],
+    [
+      "Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring",
+      "https://skio.com/careers/"
+    ]
+  ],
+  [
+    [
       "2024-05-02, 20:19:43",
       "https://news.ycombinator.com/item?id=40240948"
     ],
     [
       "Desert greening is transforming dust and sand into farmable soil (2023)",
       "https://www.freethink.com/energy/desertification-desert-greening"
+    ]
+  ],
+  [
+    [
+      "2024-05-02, 20:12:33",
+      "https://news.ycombinator.com/item?id=40240886"
+    ],
+    [
+      "Pter: TUI and GUI for Todo.txt",
+      "https://github.com/vonshednob/pter"
     ]
   ],
   [
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=40240724"
     ],
     [
-      "Building a Rocket Engine from Scratch",
+      "Building a rocket engine from scratch",
       "https://blog.ablspacesystems.com/p/building-e2"
     ]
   ],
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=40240037"
     ],
     [
-      "Microsoft bans U.S. police departments from using enterprise AI tool",
+      "Microsoft bans U.S. police from using enterprise AI tool for facial recognition",
       "https://techcrunch.com/2024/05/02/microsoft-bans-u-s-police-departments-from-using-enterprise-ai-tool/"
     ]
   ],
@@ -97,16 +117,6 @@
     [
       "Show HN: Hacker Search – A semantic search engine for Hacker News",
       "https://hackersearch.net"
-    ]
-  ],
-  [
-    [
-      "2024-05-02, 17:00:25",
-      "https://news.ycombinator.com/item?id=40238501"
-    ],
-    [
-      "Artie (YC S23) Is Hiring a Chief of Staff in SF",
-      "https://www.ycombinator.com/companies/artie/jobs/uEUgImG-chief-of-staff"
     ]
   ],
   [
@@ -221,6 +231,16 @@
   ],
   [
     [
+      "2024-05-02, 07:52:14",
+      "https://news.ycombinator.com/item?id=40233746"
+    ],
+    [
+      "A recent security incident involving Dropbox Sign",
+      "https://sign.dropbox.com/blog/a-recent-security-incident-involving-dropbox-sign"
+    ]
+  ],
+  [
+    [
       "2024-05-02, 07:50:34",
       "https://news.ycombinator.com/item?id=40233736"
     ],
@@ -277,26 +297,6 @@
     [
       "Whistleblower Josh Dean of Boeing supplier Spirit AeroSystems has died",
       "https://www.seattletimes.com/business/whistleblower-josh-dean-of-boeing-supplier-spirit-aerosystems-has-died/"
-    ]
-  ],
-  [
-    [
-      "2024-05-01, 08:14:18",
-      "https://news.ycombinator.com/item?id=40220769"
-    ],
-    [
-      "How to Solve It (With Raycasting)",
-      "https://alicegg.tech//2024/05/01/how-to-solve-it.html"
-    ]
-  ],
-  [
-    [
-      "2024-04-29, 18:08:43",
-      "https://news.ycombinator.com/item?id=40201865"
-    ],
-    [
-      "A smooth and sharp image interpolation you probably haven't heard of",
-      "https://wordsandbuttons.online/a_smooth_and_sharp_image_interpolation.html"
     ]
   ]
 ]
