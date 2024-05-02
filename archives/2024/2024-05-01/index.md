@@ -15,6 +15,7 @@
 * [2024-05-01, 22:44:12](https://news.ycombinator.com/item?id=40230558) - [The Adwaita Icon Theme no longer follows the FDO spec, breaking e.g. KDE apps](https://cullmann.io/posts/kate-and-icons/)
 * [2024-05-01, 22:33:50](https://news.ycombinator.com/item?id=40230448) - [We can have a different web](https://www.citationneeded.news/we-can-have-a-different-web/)
 * [2024-05-01, 22:24:22](https://news.ycombinator.com/item?id=40230354) - [Choosing the Right Audit Trail Approach in Ruby](https://blog.bemi.io/audit-trail-in-ruby/)
+* [2024-05-01, 21:30:06](https://news.ycombinator.com/item?id=40229747) - [Count Binface](https://www.countbinface.com)
 * [2024-05-01, 21:21:56](https://news.ycombinator.com/item?id=40229633) - [McDonald's and other big brands warn that low-income consumers starting to crack](https://www.cnbc.com/2024/04/30/companies-from-mcdonalds-to-3m-warn-inflation-is-squeezing-consumers.html)
 * [2024-05-01, 21:21:00](https://news.ycombinator.com/item?id=40229619) - [Impressive Sora Demo Wasn't Made with Sora](https://futurism.com/the-byte/openai-sora-demo)
 * [2024-05-01, 21:16:28](https://news.ycombinator.com/item?id=40229549) - [Ask HN: Modern Day Equivalent to HyperCard?](https://news.ycombinator.com/item?id=40229549)
