@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-02, 16:37:59](https://news.ycombinator.com/item?id=40238219) - [A lawsuit argues Meta is required by law to let you control your own feed](https://www.wired.com/story/meta-section-230-users-algorithm/)
 * [2024-05-02, 16:35:07](https://news.ycombinator.com/item?id=40238175) - [Second Boeing whistleblower dies after raising concerns about 737 MAX](https://www.independent.co.uk/news/world/americas/boeing-whistleblower-dies-second-b2538563.html)
 * [2024-05-02, 16:10:49](https://news.ycombinator.com/item?id=40237883) - [Real-time AI using scalable non-expert crowdsourcing in colorectal surgery](https://www.nature.com/articles/s41746-024-01095-8)
 * [2024-05-02, 16:09:05](https://news.ycombinator.com/item?id=40237855) - [Wild orangutan seen healing his wound with a plant](https://www.bbc.co.uk/news/science-environment-68942123)
@@ -15,12 +16,12 @@
 * [2024-05-02, 07:58:38](https://news.ycombinator.com/item?id=40233784) - [The Snapdragon 855's iGPU](https://chipsandcheese.com/2024/05/01/inside-the-snapdragon-855s-igpu/)
 * [2024-05-02, 07:52:14](https://news.ycombinator.com/item?id=40233746) - [A recent security incident involving Dropbox Sign](https://sign.dropbox.com/blog/a-recent-security-incident-involving-dropbox-sign)
 * [2024-05-02, 05:38:42](https://news.ycombinator.com/item?id=40233029) - [The fishy death of Red Lobster](https://www.businessinsider.com/red-lobster-endless-shrimp-bankruptcy-private-equity-debt-real-estate-2024-5)
+* [2024-05-02, 04:41:51](https://news.ycombinator.com/item?id=40232755) - [AI Photo Geolocation](https://geospy.ai/)
 * [2024-05-02, 04:29:01](https://news.ycombinator.com/item?id=40232706) - [Scientists Find a Fast Way to Describe Quantum Systems](https://www.quantamagazine.org/scientists-find-a-fast-way-to-describe-quantum-systems-20240501/)
 * [2024-05-02, 03:46:11](https://news.ycombinator.com/item?id=40232492) - [How did Ancient Greek music sound?](https://twitter.com/classicstudies/status/1652226935718658051)
 * [2024-05-02, 03:40:18](https://news.ycombinator.com/item?id=40232466) - [A Knight's Tale](https://blogs.bl.uk/digitisedmanuscripts/2024/04/a-knights-tale.html)
 * [2024-05-02, 02:35:32](https://news.ycombinator.com/item?id=40232171) - [A blue mineral that grows on buried bodies and confuses archaeologists (2016)](https://www.atlasobscura.com/articles/vivianite-blue-human-remains)
 * [2024-05-02, 02:03:31](https://news.ycombinator.com/item?id=40231988) - [From 0 to glTF with WebGPU: Basic Materials and Textures](https://www.willusher.io/graphics/2024/04/28/0-to-gltf-basic-materials)
-* [2024-05-02, 01:31:30](https://news.ycombinator.com/item?id=40231790) - [Ask HN: How do people create those sleek looking demos for startups?](https://news.ycombinator.com/item?id=40231790)
 * [2024-05-02, 01:06:54](https://news.ycombinator.com/item?id=40231630) - [ESpeak-ng: speech synthesizer with more than one hundred languages and accents](https://github.com/espeak-ng/espeak-ng)
 * [2024-05-02, 00:57:22](https://news.ycombinator.com/item?id=40231563) - [Cognition: A new antisyntax language redefining metaprogramming](https://ret2pop.nullring.xyz/blog/cognition.html)
 * [2024-05-01, 23:41:24](https://news.ycombinator.com/item?id=40230988) - [Horizontal running inside circular walls of Moon settlements](https://royalsocietypublishing.org/doi/10.1098/rsos.231906)
@@ -28,7 +29,6 @@
 * [2024-05-01, 08:14:18](https://news.ycombinator.com/item?id=40220769) - [How to Solve It (With Raycasting)](https://alicegg.tech//2024/05/01/how-to-solve-it.html)
 * [2024-05-01, 08:05:56](https://news.ycombinator.com/item?id=40220722) - [Takeaways from the Jane Street bond prospectus](https://www.ft.com/content/54671865-4c7f-4692-a879-867ef68f0bde)
 * [2024-05-01, 07:39:09](https://news.ycombinator.com/item?id=40220542) - [Fast, simple, hard real time allocator for Rust](https://github.com/pcwalton/offset-allocator)
-* [2024-04-29, 22:45:11](https://news.ycombinator.com/item?id=40205012) - [The Scientific Method Part 5: Illusions, Delusions, and Dreams](http://blog.rongarret.info/2024/04/the-scientific-method-part-5-illusions.html)
 * [2024-04-29, 18:08:43](https://news.ycombinator.com/item?id=40201865) - [A smooth and sharp image interpolation you probably haven't heard of](https://wordsandbuttons.online/a_smooth_and_sharp_image_interpolation.html)
 
 ## [Archives](archives/index.md)
