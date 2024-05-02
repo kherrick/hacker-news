@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-02](index.md)
 
+* [2024-05-02, 06:20:39](https://news.ycombinator.com/item?id=40233248) - [Just got doxxed to within 15 miles by a vision model, from only a single photo](https://twitter.com/arithmoquine/status/1785834410312454389)
 * [2024-05-02, 03:42:01](https://news.ycombinator.com/item?id=40232472) - [How to Use SQLite as a NoSQL Store](https://rodydavis.com/sqlite/nosql)
 * [2024-05-02, 03:20:26](https://news.ycombinator.com/item?id=40232364) - [NSA: Tales of the Krypt (KRYPTOS Society news letters 1994-2003)[pdf]](https://www.governmentattic.org/53docs/NSAkryptosSocNwsltrs1994-2003.pdf)
 * [2024-05-02, 03:05:51](https://news.ycombinator.com/item?id=40232311) - [Limited Run Games selling burned CD-R games which don't work](https://twitter.com/Voultar/status/1785760704663896230)
