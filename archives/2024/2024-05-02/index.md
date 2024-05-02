@@ -4,9 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-05-02](index.md)
 
+* [2024-05-02, 17:01:00](https://news.ycombinator.com/item?id=40238509) - [Show HN: Hacker Search – A semantic search engine for Hacker News](https://hackersearch.net)
+* [2024-05-02, 17:00:25](https://news.ycombinator.com/item?id=40238501) - [Artie (YC S23) Is Hiring a Chief of Staff in SF](https://www.ycombinator.com/companies/artie/jobs/uEUgImG-chief-of-staff)
+* [2024-05-02, 16:46:00](https://news.ycombinator.com/item?id=40238314) - [Disinformation is on the rise. How does it work?](https://www.economist.com/science-and-technology/2024/05/01/disinformation-is-on-the-rise-how-does-it-work)
+* [2024-05-02, 16:45:47](https://news.ycombinator.com/item?id=40238310) - [Improperly trusting ContentProvider-provided filename](https://developer.android.com/privacy-and-security/risks/untrustworthy-contentprovider-provided-filename)
+* [2024-05-02, 16:40:00](https://news.ycombinator.com/item?id=40238247) - [How Much Is Enough to Retire Early (Fire) in San Francisco?](https://andrenader.substack.com/p/enough-to-fire-in-san-francisco)
 * [2024-05-02, 16:37:59](https://news.ycombinator.com/item?id=40238219) - [A lawsuit argues Meta is required by law to let you control your own feed](https://www.wired.com/story/meta-section-230-users-algorithm/)
 * [2024-05-02, 16:35:07](https://news.ycombinator.com/item?id=40238175) - [Second Boeing whistleblower dies after raising concerns about 737 MAX](https://www.independent.co.uk/news/world/americas/boeing-whistleblower-dies-second-b2538563.html)
 * [2024-05-02, 16:10:49](https://news.ycombinator.com/item?id=40237883) - [Real-time AI using scalable non-expert crowdsourcing in colorectal surgery](https://www.nature.com/articles/s41746-024-01095-8)
+* [2024-05-02, 16:10:18](https://news.ycombinator.com/item?id=40237872) - [The reality of Kotlin's LSP and Tooling situation](https://old.reddit.com/r/Kotlin/comments/1chxk38/jetbrains_not_making_or_supporting_an_editor/)
 * [2024-05-02, 16:09:05](https://news.ycombinator.com/item?id=40237855) - [Wild orangutan seen healing his wound with a plant](https://www.bbc.co.uk/news/science-environment-68942123)
 * [2024-05-02, 16:00:43](https://news.ycombinator.com/item?id=40237745) - [Online Cryptography Course by Dan Boneh](https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/)
 * [2024-05-02, 15:33:13](https://news.ycombinator.com/item?id=40237409) - [Google paid Apple $20B in 2022 alone for default status](https://nypost.com/2024/05/02/business/google-paid-apple-20b-in-2022-alone-for-default-status-docs/)
