@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-02](index.md)
 
+* [2024-05-02, 19:55:59](https://news.ycombinator.com/item?id=40240737) - [Got an old Raspberry Pi spare? Try RISC OS. It is, something else](https://www.theregister.com/2024/05/02/rool_530_is_here/)
+* [2024-05-02, 19:54:48](https://news.ycombinator.com/item?id=40240724) - [Building a Rocket Engine from Scratch](https://blog.ablspacesystems.com/p/building-e2)
 * [2024-05-02, 19:35:29](https://news.ycombinator.com/item?id=40240522) - [Will Cambridge support free speech? - Peter Singer on expelled Dr Cofnas](https://www.koreaherald.com/view.php?ud=20240415050845)
 * [2024-05-02, 18:51:31](https://news.ycombinator.com/item?id=40240037) - [Microsoft bans U.S. police departments from using enterprise AI tool](https://techcrunch.com/2024/05/02/microsoft-bans-u-s-police-departments-from-using-enterprise-ai-tool/)
 * [2024-05-02, 18:44:18](https://news.ycombinator.com/item?id=40239955) - [Asteroid that broke up over Berlin was fastest-spinning one ever seen](https://www.newscientist.com/article/2428473-asteroid-that-broke-up-over-berlin-was-fastest-spinning-one-ever-seen/)
