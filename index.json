@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=40239164"
     ],
     [
-      "Making a 3D Modeler, in C, in a Week",
+      "Making a 3D modeler in C in a week",
       "https://danielchasehooper.com/posts/shapeup/"
     ]
   ],
@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2024-05-02, 14:47:17",
+      "https://news.ycombinator.com/item?id=40236923"
+    ],
+    [
+      "Delimited Generators – A more natural API for JS generators",
+      "http://axisofeval.blogspot.com/2024/05/delimited-generators.html"
+    ]
+  ],
+  [
+    [
       "2024-05-02, 14:36:18",
       "https://news.ycombinator.com/item?id=40236797"
     ],
@@ -201,12 +211,12 @@
   ],
   [
     [
-      "2024-05-02, 05:38:42",
-      "https://news.ycombinator.com/item?id=40233029"
+      "2024-05-02, 07:50:34",
+      "https://news.ycombinator.com/item?id=40233736"
     ],
     [
-      "The fishy death of Red Lobster",
-      "https://www.businessinsider.com/red-lobster-endless-shrimp-bankruptcy-private-equity-debt-real-estate-2024-5"
+      "The world's loudest Lisp program to the rescue",
+      "https://blog.funcall.org//lisp%20psychoacoustics/2024/05/01/worlds-loudest-lisp-program/"
     ]
   ],
   [
@@ -241,6 +251,16 @@
   ],
   [
     [
+      "2024-05-02, 00:25:45",
+      "https://news.ycombinator.com/item?id=40231332"
+    ],
+    [
+      "Hacking on PostgreSQL is hard",
+      "http://rhaas.blogspot.com/2024/05/hacking-on-postgresql-is-really-hard.html"
+    ]
+  ],
+  [
+    [
       "2024-05-01, 23:17:39",
       "https://news.ycombinator.com/item?id=40230790"
     ],
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2024-05-01, 08:43:33",
-      "https://news.ycombinator.com/item?id=40220926"
-    ],
-    [
-      "Ask HN: Best stack for building a desktop app?",
-      "https://news.ycombinator.com/item?id=40220926"
-    ]
-  ],
-  [
-    [
       "2024-05-01, 08:14:18",
       "https://news.ycombinator.com/item?id=40220769"
     ],
     [
       "How to Solve It (With Raycasting)",
       "https://alicegg.tech//2024/05/01/how-to-solve-it.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-01, 08:05:56",
-      "https://news.ycombinator.com/item?id=40220722"
-    ],
-    [
-      "Takeaways from the Jane Street bond prospectus",
-      "https://www.ft.com/content/54671865-4c7f-4692-a879-867ef68f0bde"
     ]
   ],
   [
