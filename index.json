@@ -21,22 +21,12 @@
   ],
   [
     [
-      "2024-05-01, 22:45:16",
-      "https://news.ycombinator.com/item?id=40230569"
+      "2024-05-01, 21:16:28",
+      "https://news.ycombinator.com/item?id=40229549"
     ],
     [
-      "'My country would disappear'",
-      "https://www.theguardian.com/australia-news/2024/apr/29/torres-strait-island-elders-climate-change-class-action"
-    ]
-  ],
-  [
-    [
-      "2024-05-01, 22:44:12",
-      "https://news.ycombinator.com/item?id=40230558"
-    ],
-    [
-      "The Adwaita Icon Theme no longer follows the FDO spec, breaking e.g. KDE apps",
-      "https://cullmann.io/posts/kate-and-icons/"
+      "Ask HN: Modern Day Equivalent to HyperCard?",
+      "https://news.ycombinator.com/item?id=40229549"
     ]
   ],
   [
@@ -71,22 +61,22 @@
   ],
   [
     [
+      "2024-05-01, 18:02:59",
+      "https://news.ycombinator.com/item?id=40226897"
+    ],
+    [
+      "Ask HN: Guidelines for making clear architecture diagrams",
+      "https://news.ycombinator.com/item?id=40226897"
+    ]
+  ],
+  [
+    [
       "2024-05-01, 17:33:31",
       "https://news.ycombinator.com/item?id=40226478"
     ],
     [
       "Eight Feet Jolted a $180M Real Estate Deal",
       "https://www.nytimes.com/interactive/2024/04/19/realestate/st-francis-college-brooklyn.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-01, 17:05:37",
-      "https://news.ycombinator.com/item?id=40226094"
-    ],
-    [
-      "Presence of gas on exoplanet 'only produced by life'",
-      "https://www.earth.com/news/planet-k2-18-b-studied-again-confirm-presence-dms-gas-only-produced-by-life/"
     ]
   ],
   [
@@ -117,16 +107,6 @@
     [
       "Ask HN: Who is hiring? (May 2024)",
       "https://news.ycombinator.com/item?id=40224213"
-    ]
-  ],
-  [
-    [
-      "2024-05-01, 15:00:53",
-      "https://news.ycombinator.com/item?id=40224211"
-    ],
-    [
-      "Ask HN: Freelancer? Seeking freelancer? (May 2024)",
-      "https://news.ycombinator.com/item?id=40224211"
     ]
   ],
   [
@@ -191,16 +171,6 @@
   ],
   [
     [
-      "2024-05-01, 09:29:32",
-      "https://news.ycombinator.com/item?id=40221154"
-    ],
-    [
-      "LLMs can't do probability",
-      "https://brainsteam.co.uk/2024/05/01/llms-cant-do-probability/"
-    ]
-  ],
-  [
-    [
       "2024-05-01, 05:31:37",
       "https://news.ycombinator.com/item?id=40219823"
     ],
@@ -241,12 +211,22 @@
   ],
   [
     [
-      "2024-04-30, 17:29:18",
-      "https://news.ycombinator.com/item?id=40213562"
+      "2024-04-30, 19:11:54",
+      "https://news.ycombinator.com/item?id=40214995"
     ],
     [
-      "Show HN: I made an app that helps you find where to stream movies and TV shows",
-      "https://whereto.stream"
+      "A pivot point in Maya history: fire-burning event at Ucanal",
+      "https://www.cambridge.org/core/journals/antiquity/article/pivot-point-in-maya-history-fireburning-event-at-kanwitznal-ucanal-and-the-making-of-a-new-era-of-political-rule/564F837E84443D408CD844424B7F6952"
+    ]
+  ],
+  [
+    [
+      "2024-04-30, 17:43:12",
+      "https://news.ycombinator.com/item?id=40213731"
+    ],
+    [
+      "The File Filesystem (2021)",
+      "https://mgree.github.io/ffs/"
     ]
   ],
   [
@@ -261,12 +241,32 @@
   ],
   [
     [
+      "2024-04-30, 13:11:16",
+      "https://news.ycombinator.com/item?id=40210627"
+    ],
+    [
+      "Show HN: I made a CLI tool to create web extensions with no build configuration",
+      "https://github.com/cezaraugusto/extension.js"
+    ]
+  ],
+  [
+    [
       "2024-04-30, 05:47:04",
       "https://news.ycombinator.com/item?id=40207607"
     ],
     [
       "Not all Graphs are Trees",
       "https://buttondown.email/jaffray/archive/not-all-graphs-are-trees/"
+    ]
+  ],
+  [
+    [
+      "2024-04-29, 23:19:08",
+      "https://news.ycombinator.com/item?id=40205333"
+    ],
+    [
+      "Meter-scale distance manipulation of diverse objects with jet-induced airflow",
+      "https://onlinelibrary.wiley.com/doi/10.1002/aisy.202400174"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=40195624"
     ],
     [
-      "An Alternative to Cursor Pagination",
+      "An alternative to cursor pagination",
       "https://medium.com/@ramsi.candra/an-alternative-to-cursor-pagination-147074287ca4"
     ]
   ]
