@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-02](index.md)
 
+* [2024-05-02, 20:41:44](https://news.ycombinator.com/item?id=40241142) - [Modern Linux on the Desktop in 2023](https://crepererum.net/linux-2023/)
 * [2024-05-02, 19:55:59](https://news.ycombinator.com/item?id=40240737) - [Got an old Raspberry Pi spare? Try RISC OS. It is, something else](https://www.theregister.com/2024/05/02/rool_530_is_here/)
 * [2024-05-02, 19:54:48](https://news.ycombinator.com/item?id=40240724) - [Building a Rocket Engine from Scratch](https://blog.ablspacesystems.com/p/building-e2)
 * [2024-05-02, 19:35:29](https://news.ycombinator.com/item?id=40240522) - [Will Cambridge support free speech? - Peter Singer on expelled Dr Cofnas](https://www.koreaherald.com/view.php?ud=20240415050845)

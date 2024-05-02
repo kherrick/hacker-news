@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-02, 20:41:44](https://news.ycombinator.com/item?id=40241142) - [Modern Linux on the Desktop in 2023](https://crepererum.net/linux-2023/)
 * [2024-05-02, 19:55:59](https://news.ycombinator.com/item?id=40240737) - [Got an old Raspberry Pi spare? Try RISC OS. It is, something else](https://www.theregister.com/2024/05/02/rool_530_is_here/)
 * [2024-05-02, 19:54:48](https://news.ycombinator.com/item?id=40240724) - [Building a Rocket Engine from Scratch](https://blog.ablspacesystems.com/p/building-e2)
 * [2024-05-02, 18:51:31](https://news.ycombinator.com/item?id=40240037) - [Microsoft bans U.S. police departments from using enterprise AI tool](https://techcrunch.com/2024/05/02/microsoft-bans-u-s-police-departments-from-using-enterprise-ai-tool/)
@@ -15,7 +16,6 @@
 * [2024-05-02, 16:15:54](https://news.ycombinator.com/item?id=40237947) - [To save it, eat it](https://longnow.org/ideas/to-save-it-eat-it/)
 * [2024-05-02, 16:06:34](https://news.ycombinator.com/item?id=40237826) - [Umbra: A Disk-Based System with In-Memory Performance [pdf]](https://www.cidrdb.org/cidr2020/papers/p29-neumann-cidr20.pdf)
 * [2024-05-02, 16:00:43](https://news.ycombinator.com/item?id=40237745) - [Online Cryptography Course (2017)](https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/)
-* [2024-05-02, 15:44:51](https://news.ycombinator.com/item?id=40237546) - [Show HN: SpRAG – Open-source RAG implementation for challenging real-world tasks](https://github.com/SuperpoweredAI/spRAG)
 * [2024-05-02, 15:21:46](https://news.ycombinator.com/item?id=40237305) - [Show HN: An Open Source project for enhancing AI Agents in taking action](https://github.com/npi-ai/npi)
 * [2024-05-02, 14:47:17](https://news.ycombinator.com/item?id=40236923) - [Delimited Generators – A more natural API for JS generators](http://axisofeval.blogspot.com/2024/05/delimited-generators.html)
 * [2024-05-02, 14:36:18](https://news.ycombinator.com/item?id=40236797) - [Show HN: An extension to track your Wikipedia adventures](https://chromewebstore.google.com/detail/wiki-journey/lehenbcbjcnkhkikgopniimobmmdcfog)
