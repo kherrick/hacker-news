@@ -19,6 +19,8 @@
 * [2024-05-02, 04:41:51](https://news.ycombinator.com/item?id=40232755) - [AI Photo Geolocation](https://geospy.ai/)
 * [2024-05-02, 04:29:01](https://news.ycombinator.com/item?id=40232706) - [Scientists Find a Fast Way to Describe Quantum Systems](https://www.quantamagazine.org/scientists-find-a-fast-way-to-describe-quantum-systems-20240501/)
 * [2024-05-02, 03:42:01](https://news.ycombinator.com/item?id=40232472) - [How to Use SQLite as a NoSQL Store](https://rodydavis.com/sqlite/nosql)
+* [2024-05-02, 03:32:39](https://news.ycombinator.com/item?id=40232423) - [Volcker's Announcement of Anti-Inflation Measures](https://www.federalreservehistory.org/essays/anti-inflation-measures)
+* [2024-05-02, 03:23:23](https://news.ycombinator.com/item?id=40232375) - [The Stripper Index: An unorthodox recession measurement](https://theamericangenius.com/tech-news/the-stripper-index-recession/)
 * [2024-05-02, 03:20:26](https://news.ycombinator.com/item?id=40232364) - [NSA: Tales of the Krypt (KRYPTOS Society news letters 1994-2003)[pdf]](https://www.governmentattic.org/53docs/NSAkryptosSocNwsltrs1994-2003.pdf)
 * [2024-05-02, 03:05:51](https://news.ycombinator.com/item?id=40232311) - [Limited Run Games selling burned CD-R games which don't work](https://twitter.com/Voultar/status/1785760704663896230)
 * [2024-05-02, 03:02:49](https://news.ycombinator.com/item?id=40232298) - [Live Nation/Ticketmaster is buying Congress](https://pluralistic.net/2024/04/30/nix-fix-the-tix/)
