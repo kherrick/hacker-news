@@ -36,6 +36,7 @@
 * [2024-04-29, 18:38:15](https://news.ycombinator.com/item?id=40202183) - [30% of Children Ages 5-7 Are on TikTok](https://www.honest-broker.com/p/30-of-children-ages-5-7-are-on-tiktok)
 * [2024-04-29, 18:23:08](https://news.ycombinator.com/item?id=40202027) - [Liu Cixin's War of the Worlds](https://www.newyorker.com/magazine/2019/06/24/liu-cixins-war-of-the-worlds)
 * [2024-04-29, 18:14:02](https://news.ycombinator.com/item?id=40201920) - [\"So that a truncated partial download doesn't end up executing half a script\"](https://tailscale.com/install.sh)
+* [2024-04-29, 18:08:43](https://news.ycombinator.com/item?id=40201865) - [A smooth and sharp image interpolation you probably haven't heard of](https://wordsandbuttons.online/a_smooth_and_sharp_image_interpolation.html)
 * [2024-04-29, 18:05:18](https://news.ycombinator.com/item?id=40201818) - [Debugging Tech Journalism](https://asteriskmag.com/issues/06/debugging-tech-journalism)
 * [2024-04-29, 18:05:00](https://news.ycombinator.com/item?id=40201815) - [P vs. NP and the Computational Complexity Zoo (2014) [video]](https://www.youtube.com/watch?v=YX40hbAHx3s)
 * [2024-04-29, 17:58:22](https://news.ycombinator.com/item?id=40201729) - [Tour of CLIPS (2022)](https://ryjo.codes/tour-of-clips.html)

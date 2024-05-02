@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-02](index.md)
 
+* [2024-05-02, 09:57:35](https://news.ycombinator.com/item?id=40234428) - [Are young people smarter than adults? Research shows differences diminishing](https://theconversation.com/are-young-people-smarter-than-older-adults-my-research-shows-cognitive-differences-between-generations-are-diminishing-229132)
+* [2024-05-02, 09:25:17](https://news.ycombinator.com/item?id=40234260) - [I'm closing up shop on my Mastodon for the foreseeable future](https://vkc.sh/its-not-you-its-me-taking-a-break-from-mastodon/)
 * [2024-05-02, 09:24:28](https://news.ycombinator.com/item?id=40234254) - [Dissecting LockBit v3 Ransomware](https://blog.calif.io/p/dissecting-lockbit-v3-ransomware)
 * [2024-05-02, 08:37:32](https://news.ycombinator.com/item?id=40233990) - [Key Consciousness Connections Uncovered](https://neurosciencenews.com/consciousness-neuroimaging-brain-26017/)
 * [2024-05-02, 08:11:27](https://news.ycombinator.com/item?id=40233841) - [Tesla slashes its summer internship program](https://fortune.com/2024/05/01/tesla-slashes-summer-internship-program/)
@@ -14,6 +16,8 @@
 * [2024-05-02, 06:13:02](https://news.ycombinator.com/item?id=40233213) - [Whistle­blow­er who accused Boeing supplier of ignoring defects dies](https://www.aljazeera.com/economy/2024/5/2/whistleblower-joshua-dean-ex-worker-at-boeing-supplier-dies)
 * [2024-05-02, 05:38:42](https://news.ycombinator.com/item?id=40233029) - [The Fishy Death of Red Lobster](https://www.businessinsider.com/red-lobster-endless-shrimp-bankruptcy-private-equity-debt-real-estate-2024-5)
 * [2024-05-02, 05:11:25](https://news.ycombinator.com/item?id=40232903) - [Why I'm Resigning from the Intercept](https://www.kenklippenstein.com/p/why-im-resigning-from-the-intercept)
+* [2024-05-02, 04:41:51](https://news.ycombinator.com/item?id=40232755) - [AI Photo Geolocation](https://geospy.ai/)
+* [2024-05-02, 04:29:01](https://news.ycombinator.com/item?id=40232706) - [Scientists Find a Fast Way to Describe Quantum Systems](https://www.quantamagazine.org/scientists-find-a-fast-way-to-describe-quantum-systems-20240501/)
 * [2024-05-02, 03:42:01](https://news.ycombinator.com/item?id=40232472) - [How to Use SQLite as a NoSQL Store](https://rodydavis.com/sqlite/nosql)
 * [2024-05-02, 03:20:26](https://news.ycombinator.com/item?id=40232364) - [NSA: Tales of the Krypt (KRYPTOS Society news letters 1994-2003)[pdf]](https://www.governmentattic.org/53docs/NSAkryptosSocNwsltrs1994-2003.pdf)
 * [2024-05-02, 03:05:51](https://news.ycombinator.com/item?id=40232311) - [Limited Run Games selling burned CD-R games which don't work](https://twitter.com/Voultar/status/1785760704663896230)
