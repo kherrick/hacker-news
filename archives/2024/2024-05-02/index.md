@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-02](index.md)
 
+* [2024-05-02, 18:02:54](https://news.ycombinator.com/item?id=40239389) - [Tesla's wafer-sized Dojo processor is in production – 25 chips combined into one](https://www.tomshardware.com/tech-industry/teslas-dojo-system-on-wafer-is-in-production-a-serious-processor-for-serious-ai-workloads)
+* [2024-05-02, 18:00:30](https://news.ycombinator.com/item?id=40239336) - [Pet parrots prefer live video-calls](https://phys.org/news/2024-05-pet-parrots-video-pre-videos.html)
 * [2024-05-02, 17:48:14](https://news.ycombinator.com/item?id=40239164) - [Making a 3D Modeler, in C, in a Week](https://danielchasehooper.com/posts/shapeup/)
 * [2024-05-02, 17:38:01](https://news.ycombinator.com/item?id=40239029) - [Piccolo – A Stackless Lua Interpreter](https://kyju.org/blog/piccolo-a-stackless-lua-interpreter/)
 * [2024-05-02, 17:36:15](https://news.ycombinator.com/item?id=40239005) - [The U.S. may be missing human cases of bird flu, scientists say](https://text.npr.org/1248538298)
@@ -30,6 +32,7 @@
 * [2024-05-02, 16:02:23](https://news.ycombinator.com/item?id=40237777) - [Quitting a high-status job at Microsoft for freedom](https://www.rydoo.com/cfo-corner/accepting-no-longer-cfo/)
 * [2024-05-02, 16:00:43](https://news.ycombinator.com/item?id=40237745) - [Online Cryptography Course by Dan Boneh](https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/)
 * [2024-05-02, 15:33:13](https://news.ycombinator.com/item?id=40237409) - [Google paid Apple $20B in 2022 alone for default status](https://nypost.com/2024/05/02/business/google-paid-apple-20b-in-2022-alone-for-default-status-docs/)
+* [2024-05-02, 15:30:04](https://news.ycombinator.com/item?id=40237375) - [Show HN: I built a 100% free startup idea generator](https://supalaunch.com/tools/startup-idea-generator)
 * [2024-05-02, 15:11:53](https://news.ycombinator.com/item?id=40237221) - [Back in Stock? The State of Russia's Defense Industry After Two Years of the War](https://www.csis.org/analysis/back-stock-state-russias-defense-industry-after-two-years-war)
 * [2024-05-02, 15:02:35](https://news.ycombinator.com/item?id=40237116) - [Federal frenzy to patch gaping Gitlab account takeover hole](https://www.theregister.com/2024/05/02/critical_gitlab_vulnerability/)
 * [2024-05-02, 14:42:37](https://news.ycombinator.com/item?id=40236880) - [Iran charges journalists after BBC report on teen protester's death](https://www.bbc.com/news/articles/cnd6k8ggzn2o)
