@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-05-02](index.md)
 
+* [2024-05-02, 15:33:13](https://news.ycombinator.com/item?id=40237409) - [Google paid Apple $20B in 2022 alone for default status](https://nypost.com/2024/05/02/business/google-paid-apple-20b-in-2022-alone-for-default-status-docs/)
 * [2024-05-02, 15:11:53](https://news.ycombinator.com/item?id=40237221) - [Back in Stock? The State of Russia's Defense Industry After Two Years of the War](https://www.csis.org/analysis/back-stock-state-russias-defense-industry-after-two-years-war)
 * [2024-05-02, 14:42:37](https://news.ycombinator.com/item?id=40236880) - [Iran charges journalists after BBC report on teen protester's death](https://www.bbc.com/news/articles/cnd6k8ggzn2o)
+* [2024-05-02, 14:41:21](https://news.ycombinator.com/item?id=40236859) - [The AI That Plugs Your Product on Reddit in Conversations](https://replyguy.com/)
 * [2024-05-02, 14:36:18](https://news.ycombinator.com/item?id=40236797) - [Show HN: An extension to track your Wikipedia adventures](https://chromewebstore.google.com/detail/wiki-journey/lehenbcbjcnkhkikgopniimobmmdcfog)
 * [2024-05-02, 14:34:56](https://news.ycombinator.com/item?id=40236776) - [Microsoft Preview: Zero Trust DNS (Ztdns)](https://techcommunity.microsoft.com/t5/networking-blog/announcing-zero-trust-dns-private-preview/ba-p/4110366)
 * [2024-05-02, 14:21:59](https://news.ycombinator.com/item?id=40236637) - [Show HN: I built a tool for repeatable checklists](https://steplist.app/)
