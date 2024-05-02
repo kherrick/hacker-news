@@ -25,6 +25,7 @@
 * [2024-05-02, 03:05:51](https://news.ycombinator.com/item?id=40232311) - [Limited Run Games selling burned CD-R games which don't work](https://twitter.com/Voultar/status/1785760704663896230)
 * [2024-05-02, 03:02:49](https://news.ycombinator.com/item?id=40232298) - [Live Nation/Ticketmaster is buying Congress](https://pluralistic.net/2024/04/30/nix-fix-the-tix/)
 * [2024-05-02, 02:37:06](https://news.ycombinator.com/item?id=40232177) - [Video Feedback Device Perfected, Practice #2:Spirals Made of Spirals](https://www.youtube.com/watch?v=CT7WTwoJt4o)
+* [2024-05-02, 02:35:32](https://news.ycombinator.com/item?id=40232171) - [The Vivid Blue Mineral That Grows on Buried Bodies and Confuses Archaeologists](https://www.atlasobscura.com/articles/vivianite-blue-human-remains)
 * [2024-05-02, 02:23:42](https://news.ycombinator.com/item?id=40232107) - [Take-Two Interactive Shuts Down Kerbal Space Program Studio Intercept Games](https://www.bloomberg.com/news/articles/2024-05-01/take-two-interactive-shuts-down-two-game-studios)
 * [2024-05-02, 02:06:30](https://news.ycombinator.com/item?id=40231999) - [Hawaiian scientist is working with distilleries to save native sugarcane](https://www.theguardian.com/us-news/ng-interactive/2024/apr/24/hawaii-native-sugarcane-rum)
 * [2024-05-02, 02:03:31](https://news.ycombinator.com/item?id=40231988) - [From 0 to glTF with WebGPU: Basic Materials and Textures](https://www.willusher.io/graphics/2024/04/28/0-to-gltf-basic-materials)
