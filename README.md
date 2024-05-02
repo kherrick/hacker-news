@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-02, 21:24:42](https://news.ycombinator.com/item?id=40241525) - [They thought they were joining an accelerator – instead they lost their startups](https://techcrunch.com/2024/05/02/they-thought-they-were-joining-an-accelerator-instead-they-lost-their-startups/)
 * [2024-05-02, 21:00:28](https://news.ycombinator.com/item?id=40241322) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2024-05-02, 20:25:32](https://news.ycombinator.com/item?id=40241002) - [Pseudo Graceful Process Termination Through Code Injection](https://sigma-star.at/blog/2024/02/exit0-code-injection/)
 * [2024-05-02, 20:19:43](https://news.ycombinator.com/item?id=40240948) - [Desert greening is transforming dust and sand into farmable soil (2023)](https://www.freethink.com/energy/desertification-desert-greening)
@@ -13,15 +14,13 @@
 * [2024-05-02, 17:21:43](https://news.ycombinator.com/item?id=40238788) - [Pleasure or pain? He maps the neural circuits that decide](https://www.quantamagazine.org/pleasure-or-pain-he-maps-the-neural-circuits-that-decide-20240416/)
 * [2024-05-02, 17:01:00](https://news.ycombinator.com/item?id=40238509) - [Show HN: Hacker Search – A semantic search engine for Hacker News](https://hackersearch.net)
 * [2024-05-02, 16:34:35](https://news.ycombinator.com/item?id=40238170) - [Rust: Box Is a Unique Type](https://blog.nilstrieb.dev/posts/box-is-a-unique-type/)
-* [2024-05-02, 16:15:54](https://news.ycombinator.com/item?id=40237947) - [To save it, eat it](https://longnow.org/ideas/to-save-it-eat-it/)
+* [2024-05-02, 16:15:54](https://news.ycombinator.com/item?id=40237947) - [Gene banks aren’t enough to save the world’s food](https://longnow.org/ideas/to-save-it-eat-it/)
 * [2024-05-02, 16:06:34](https://news.ycombinator.com/item?id=40237826) - [Umbra: A Disk-Based System with In-Memory Performance [pdf]](https://www.cidrdb.org/cidr2020/papers/p29-neumann-cidr20.pdf)
 * [2024-05-02, 16:00:43](https://news.ycombinator.com/item?id=40237745) - [Online Cryptography Course (2017)](https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/)
-* [2024-05-02, 15:44:51](https://news.ycombinator.com/item?id=40237546) - [Show HN: SpRAG – Open-source RAG implementation for challenging real-world tasks](https://github.com/SuperpoweredAI/spRAG)
 * [2024-05-02, 15:21:46](https://news.ycombinator.com/item?id=40237305) - [Show HN: An Open Source project for enhancing AI Agents in taking action](https://github.com/npi-ai/npi)
 * [2024-05-02, 14:47:17](https://news.ycombinator.com/item?id=40236923) - [Delimited Generators – A more natural API for JS generators](http://axisofeval.blogspot.com/2024/05/delimited-generators.html)
 * [2024-05-02, 14:36:18](https://news.ycombinator.com/item?id=40236797) - [Show HN: An extension to track your Wikipedia adventures](https://chromewebstore.google.com/detail/wiki-journey/lehenbcbjcnkhkikgopniimobmmdcfog)
 * [2024-05-02, 14:04:10](https://news.ycombinator.com/item?id=40236462) - [Professor Megalow's Dinosaur Bones: Richard Owen and Victorian literature](https://publicdomainreview.org/essay/richard-owen-and-victorian-literature)
-* [2024-05-02, 13:25:44](https://news.ycombinator.com/item?id=40235968) - [Backblaze Drive Stats for Q1 2024](https://www.backblaze.com/blog/backblaze-drive-stats-for-q1-2024/)
 * [2024-05-02, 09:49:35](https://news.ycombinator.com/item?id=40234383) - [Teranoptia – a typeface that allows you to imagine chimeric creatures](https://www.tunera.xyz/fonts/teranoptia/)
 * [2024-05-02, 07:58:38](https://news.ycombinator.com/item?id=40233784) - [The Snapdragon 855's iGPU](https://chipsandcheese.com/2024/05/01/inside-the-snapdragon-855s-igpu/)
 * [2024-05-02, 07:52:14](https://news.ycombinator.com/item?id=40233746) - [A recent security incident involving Dropbox Sign](https://sign.dropbox.com/blog/a-recent-security-incident-involving-dropbox-sign)
@@ -30,6 +29,7 @@
 * [2024-05-02, 03:40:18](https://news.ycombinator.com/item?id=40232466) - [A knight's tale](https://blogs.bl.uk/digitisedmanuscripts/2024/04/a-knights-tale.html)
 * [2024-05-02, 02:35:32](https://news.ycombinator.com/item?id=40232171) - [A blue mineral that grows on buried bodies and confuses archaeologists (2016)](https://www.atlasobscura.com/articles/vivianite-blue-human-remains)
 * [2024-05-02, 00:25:45](https://news.ycombinator.com/item?id=40231332) - [Hacking on PostgreSQL is hard](http://rhaas.blogspot.com/2024/05/hacking-on-postgresql-is-really-hard.html)
+* [2024-05-01, 13:14:11](https://news.ycombinator.com/item?id=40222722) - [Johnson and Johnson to pay $6.5B to resolve talc ovarian cancer lawsuits in U.S.](https://www.cnbc.com/2024/05/01/johnson-johnson-will-pay-6point5-billion-to-resolve-nearly-all-talc-ovarian-cancer-lawsuits-in-us.html)
 
 ## [Archives](archives/index.md)
 
