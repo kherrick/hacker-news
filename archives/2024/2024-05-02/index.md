@@ -6,6 +6,7 @@
 
 * [2024-05-02, 21:00:28](https://news.ycombinator.com/item?id=40241322) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2024-05-02, 20:41:44](https://news.ycombinator.com/item?id=40241142) - [Modern Linux on the Desktop in 2023](https://crepererum.net/linux-2023/)
+* [2024-05-02, 20:25:32](https://news.ycombinator.com/item?id=40241002) - [Pseudo Graceful Process Termination Through Code Injection](https://sigma-star.at/blog/2024/02/exit0-code-injection/)
 * [2024-05-02, 20:19:43](https://news.ycombinator.com/item?id=40240948) - [Desert greening is transforming dust and sand into farmable soil (2023)](https://www.freethink.com/energy/desertification-desert-greening)
 * [2024-05-02, 20:12:33](https://news.ycombinator.com/item?id=40240886) - [Pter: TUI and GUI for Todo.txt](https://github.com/vonshednob/pter)
 * [2024-05-02, 19:55:59](https://news.ycombinator.com/item?id=40240737) - [Got an old Raspberry Pi spare? Try RISC OS. It is, something else](https://www.theregister.com/2024/05/02/rool_530_is_here/)

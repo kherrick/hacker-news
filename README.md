@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-02, 21:00:28](https://news.ycombinator.com/item?id=40241322) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+* [2024-05-02, 20:25:32](https://news.ycombinator.com/item?id=40241002) - [Pseudo Graceful Process Termination Through Code Injection](https://sigma-star.at/blog/2024/02/exit0-code-injection/)
 * [2024-05-02, 20:19:43](https://news.ycombinator.com/item?id=40240948) - [Desert greening is transforming dust and sand into farmable soil (2023)](https://www.freethink.com/energy/desertification-desert-greening)
-* [2024-05-02, 20:12:33](https://news.ycombinator.com/item?id=40240886) - [Pter: TUI and GUI for Todo.txt](https://github.com/vonshednob/pter)
 * [2024-05-02, 19:55:59](https://news.ycombinator.com/item?id=40240737) - [Got an old Raspberry Pi spare? Try RISC OS. It is, something else](https://www.theregister.com/2024/05/02/rool_530_is_here/)
 * [2024-05-02, 19:54:48](https://news.ycombinator.com/item?id=40240724) - [Building a rocket engine from scratch](https://blog.ablspacesystems.com/p/building-e2)
 * [2024-05-02, 18:51:31](https://news.ycombinator.com/item?id=40240037) - [Microsoft bans U.S. police from using enterprise AI tool for facial recognition](https://techcrunch.com/2024/05/02/microsoft-bans-u-s-police-departments-from-using-enterprise-ai-tool/)
@@ -16,6 +16,7 @@
 * [2024-05-02, 16:15:54](https://news.ycombinator.com/item?id=40237947) - [To save it, eat it](https://longnow.org/ideas/to-save-it-eat-it/)
 * [2024-05-02, 16:06:34](https://news.ycombinator.com/item?id=40237826) - [Umbra: A Disk-Based System with In-Memory Performance [pdf]](https://www.cidrdb.org/cidr2020/papers/p29-neumann-cidr20.pdf)
 * [2024-05-02, 16:00:43](https://news.ycombinator.com/item?id=40237745) - [Online Cryptography Course (2017)](https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/)
+* [2024-05-02, 15:44:51](https://news.ycombinator.com/item?id=40237546) - [Show HN: SpRAG – Open-source RAG implementation for challenging real-world tasks](https://github.com/SuperpoweredAI/spRAG)
 * [2024-05-02, 15:21:46](https://news.ycombinator.com/item?id=40237305) - [Show HN: An Open Source project for enhancing AI Agents in taking action](https://github.com/npi-ai/npi)
 * [2024-05-02, 14:47:17](https://news.ycombinator.com/item?id=40236923) - [Delimited Generators – A more natural API for JS generators](http://axisofeval.blogspot.com/2024/05/delimited-generators.html)
 * [2024-05-02, 14:36:18](https://news.ycombinator.com/item?id=40236797) - [Show HN: An extension to track your Wikipedia adventures](https://chromewebstore.google.com/detail/wiki-journey/lehenbcbjcnkhkikgopniimobmmdcfog)
@@ -29,7 +30,6 @@
 * [2024-05-02, 03:40:18](https://news.ycombinator.com/item?id=40232466) - [A knight's tale](https://blogs.bl.uk/digitisedmanuscripts/2024/04/a-knights-tale.html)
 * [2024-05-02, 02:35:32](https://news.ycombinator.com/item?id=40232171) - [A blue mineral that grows on buried bodies and confuses archaeologists (2016)](https://www.atlasobscura.com/articles/vivianite-blue-human-remains)
 * [2024-05-02, 00:25:45](https://news.ycombinator.com/item?id=40231332) - [Hacking on PostgreSQL is hard](http://rhaas.blogspot.com/2024/05/hacking-on-postgresql-is-really-hard.html)
-* [2024-05-01, 23:17:39](https://news.ycombinator.com/item?id=40230790) - [Whistleblower Josh Dean of Boeing supplier Spirit AeroSystems has died](https://www.seattletimes.com/business/whistleblower-josh-dean-of-boeing-supplier-spirit-aerosystems-has-died/)
 
 ## [Archives](archives/index.md)
 
