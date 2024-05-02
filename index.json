@@ -1,12 +1,32 @@
 [
   [
     [
-      "2024-05-02, 14:41:21",
-      "https://news.ycombinator.com/item?id=40236859"
+      "2024-05-02, 16:10:49",
+      "https://news.ycombinator.com/item?id=40237883"
     ],
     [
-      "The AI That Plugs Your Product on Reddit in Conversations",
-      "https://replyguy.com/"
+      "Real-time AI using scalable non-expert crowdsourcing in colorectal surgery",
+      "https://www.nature.com/articles/s41746-024-01095-8"
+    ]
+  ],
+  [
+    [
+      "2024-05-02, 16:00:43",
+      "https://news.ycombinator.com/item?id=40237745"
+    ],
+    [
+      "Online Cryptography Course by Dan Boneh",
+      "https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/"
+    ]
+  ],
+  [
+    [
+      "2024-05-02, 15:02:35",
+      "https://news.ycombinator.com/item?id=40237116"
+    ],
+    [
+      "Federal frenzy to patch gaping Gitlab account takeover hole",
+      "https://www.theregister.com/2024/05/02/critical_gitlab_vulnerability/"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2024-05-02, 01:05:55",
-      "https://news.ycombinator.com/item?id=40231624"
-    ],
-    [
-      "Uno: Create Beautiful Cross Platform .NET Apps Faster",
-      "https://platform.uno/"
-    ]
-  ],
-  [
-    [
       "2024-05-02, 00:57:22",
       "https://news.ycombinator.com/item?id=40231563"
     ],
@@ -267,16 +277,6 @@
     [
       "Fast, simple, hard real time allocator for Rust",
       "https://github.com/pcwalton/offset-allocator"
-    ]
-  ],
-  [
-    [
-      "2024-05-01, 03:30:47",
-      "https://news.ycombinator.com/item?id=40219205"
-    ],
-    [
-      "Kolmogorov-Arnold Networks",
-      "https://github.com/KindXiaoming/pykan"
     ]
   ],
   [
