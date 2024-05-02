@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-02](index.md)
 
+* [2024-05-02, 14:21:59](https://news.ycombinator.com/item?id=40236637) - [Show HN: I built a tool for repeatable checklists](https://steplist.app/)
+* [2024-05-02, 14:20:11](https://news.ycombinator.com/item?id=40236615) - [Bards and Sages Publishing closure due to \"AI-generated trash\"](https://www.bardsandsages.com/closure-announcement.html)
 * [2024-05-02, 14:04:10](https://news.ycombinator.com/item?id=40236462) - [Professor Megalow's Dinosaur Bones: Richard Owen and Victorian Literature](https://publicdomainreview.org/essay/richard-owen-and-victorian-literature)
 * [2024-05-02, 13:59:31](https://news.ycombinator.com/item?id=40236414) - [Johnson and Johnson announces $6.5B settlement over ovarian cancer allegations](https://www.axios.com/2024/05/01/johnson-johnson-talc-baby-powder-settlement-ovarian-cancer)
 * [2024-05-02, 13:20:25](https://news.ycombinator.com/item?id=40235916) - [Second Boeing Whistleblower Dies Suddenly](https://www.newsweek.com/boeing-whistleblower-joshua-dean-dies-sudden-illness-1896401)
@@ -16,6 +18,8 @@
 * [2024-05-02, 11:59:26](https://news.ycombinator.com/item?id=40235129) - [Full Body Scans for the People](https://www.nytimes.com/2024/04/27/business/dealbook/daniel-ek-neko-health.html)
 * [2024-05-02, 11:58:00](https://news.ycombinator.com/item?id=40235114) - [America's Booziest and Driest Counties](https://intoxistates.com/)
 * [2024-05-02, 11:22:32](https://news.ycombinator.com/item?id=40234878) - [Another Boeing-Linked Whistleblower Has Died](https://time.com/6973635/boeing-spirit-aerosystems-whistleblower-josh-dean-dead/)
+* [2024-05-02, 11:11:09](https://news.ycombinator.com/item?id=40234822) - [Scientists forewarn timing of 'triple whammy extinction'](https://www.wionews.com/science/scientists-forewarn-timing-of-triple-whammy-extinction-that-will-eradicate-humankind-716974)
+* [2024-05-02, 11:08:21](https://news.ycombinator.com/item?id=40234803) - [A safer alternative for an explosive reaction used for more than 100 years](https://phys.org/news/2024-04-scientists-safer-alternative-explosive-reaction.html)
 * [2024-05-02, 09:57:35](https://news.ycombinator.com/item?id=40234428) - [Are young people smarter than adults? Research shows differences diminishing](https://theconversation.com/are-young-people-smarter-than-older-adults-my-research-shows-cognitive-differences-between-generations-are-diminishing-229132)
 * [2024-05-02, 09:49:35](https://news.ycombinator.com/item?id=40234383) - [Teranoptia – a typeface that allows you to imagine chimeric creatures](https://www.tunera.xyz/fonts/teranoptia/)
 * [2024-05-02, 09:25:17](https://news.ycombinator.com/item?id=40234260) - [I'm closing up shop on my Mastodon for the foreseeable future](https://vkc.sh/its-not-you-its-me-taking-a-break-from-mastodon/)
