@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-02, 20:41:44](https://news.ycombinator.com/item?id=40241142) - [Modern Linux on the Desktop in 2023](https://crepererum.net/linux-2023/)
+* [2024-05-02, 20:19:43](https://news.ycombinator.com/item?id=40240948) - [Desert greening is transforming dust and sand into farmable soil (2023)](https://www.freethink.com/energy/desertification-desert-greening)
 * [2024-05-02, 19:55:59](https://news.ycombinator.com/item?id=40240737) - [Got an old Raspberry Pi spare? Try RISC OS. It is, something else](https://www.theregister.com/2024/05/02/rool_530_is_here/)
 * [2024-05-02, 19:54:48](https://news.ycombinator.com/item?id=40240724) - [Building a Rocket Engine from Scratch](https://blog.ablspacesystems.com/p/building-e2)
 * [2024-05-02, 18:51:31](https://news.ycombinator.com/item?id=40240037) - [Microsoft bans U.S. police departments from using enterprise AI tool](https://techcrunch.com/2024/05/02/microsoft-bans-u-s-police-departments-from-using-enterprise-ai-tool/)
@@ -8,7 +8,6 @@
 * [2024-05-02, 18:00:30](https://news.ycombinator.com/item?id=40239336) - [Pet parrots prefer live video-calls](https://phys.org/news/2024-05-pet-parrots-video-pre-videos.html)
 * [2024-05-02, 17:48:14](https://news.ycombinator.com/item?id=40239164) - [Making a 3D modeler in C in a week](https://danielchasehooper.com/posts/shapeup/)
 * [2024-05-02, 17:38:01](https://news.ycombinator.com/item?id=40239029) - [Piccolo – A Stackless Lua Interpreter](https://kyju.org/blog/piccolo-a-stackless-lua-interpreter/)
-* [2024-05-02, 17:30:09](https://news.ycombinator.com/item?id=40238911) - [Ask HN: Are there any open source forks of nomad and consul?](https://news.ycombinator.com/item?id=40238911)
 * [2024-05-02, 17:21:43](https://news.ycombinator.com/item?id=40238788) - [Pleasure or pain? He maps the neural circuits that decide](https://www.quantamagazine.org/pleasure-or-pain-he-maps-the-neural-circuits-that-decide-20240416/)
 * [2024-05-02, 17:01:00](https://news.ycombinator.com/item?id=40238509) - [Show HN: Hacker Search – A semantic search engine for Hacker News](https://hackersearch.net)
 * [2024-05-02, 17:00:25](https://news.ycombinator.com/item?id=40238501) - [Artie (YC S23) Is Hiring a Chief of Staff in SF](https://www.ycombinator.com/companies/artie/jobs/uEUgImG-chief-of-staff)
@@ -19,6 +18,7 @@
 * [2024-05-02, 15:21:46](https://news.ycombinator.com/item?id=40237305) - [Show HN: An Open Source project for enhancing AI Agents in taking action](https://github.com/npi-ai/npi)
 * [2024-05-02, 14:47:17](https://news.ycombinator.com/item?id=40236923) - [Delimited Generators – A more natural API for JS generators](http://axisofeval.blogspot.com/2024/05/delimited-generators.html)
 * [2024-05-02, 14:36:18](https://news.ycombinator.com/item?id=40236797) - [Show HN: An extension to track your Wikipedia adventures](https://chromewebstore.google.com/detail/wiki-journey/lehenbcbjcnkhkikgopniimobmmdcfog)
+* [2024-05-02, 14:04:10](https://news.ycombinator.com/item?id=40236462) - [Professor Megalow's Dinosaur Bones: Richard Owen and Victorian literature](https://publicdomainreview.org/essay/richard-owen-and-victorian-literature)
 * [2024-05-02, 13:25:44](https://news.ycombinator.com/item?id=40235968) - [Backblaze Drive Stats for Q1 2024](https://www.backblaze.com/blog/backblaze-drive-stats-for-q1-2024/)
 * [2024-05-02, 09:49:35](https://news.ycombinator.com/item?id=40234383) - [Teranoptia – a typeface that allows you to imagine chimeric creatures](https://www.tunera.xyz/fonts/teranoptia/)
 * [2024-05-02, 07:58:38](https://news.ycombinator.com/item?id=40233784) - [The Snapdragon 855's iGPU](https://chipsandcheese.com/2024/05/01/inside-the-snapdragon-855s-igpu/)
