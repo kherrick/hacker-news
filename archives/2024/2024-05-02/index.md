@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-05-02](index.md)
 
+* [2024-05-02, 07:58:48](https://news.ycombinator.com/item?id=40233786) - [Typewise (YC S22) is hiring a Full-Stack Engineer for AI writing assistant](https://www.ycombinator.com/companies/typewise/jobs/U40CJ60-senior-full-stack-engineer-f-m-x)
 * [2024-05-02, 06:20:39](https://news.ycombinator.com/item?id=40233248) - [Just got doxxed to within 15 miles by a vision model, from only a single photo](https://twitter.com/arithmoquine/status/1785834410312454389)
 * [2024-05-02, 06:13:02](https://news.ycombinator.com/item?id=40233213) - [Whistle­blow­er who accused Boeing supplier of ignoring defects dies](https://www.aljazeera.com/economy/2024/5/2/whistleblower-joshua-dean-ex-worker-at-boeing-supplier-dies)
 * [2024-05-02, 05:38:42](https://news.ycombinator.com/item?id=40233029) - [The Fishy Death of Red Lobster](https://www.businessinsider.com/red-lobster-endless-shrimp-bankruptcy-private-equity-debt-real-estate-2024-5)
+* [2024-05-02, 05:11:25](https://news.ycombinator.com/item?id=40232903) - [Why I'm Resigning from the Intercept](https://www.kenklippenstein.com/p/why-im-resigning-from-the-intercept)
 * [2024-05-02, 03:42:01](https://news.ycombinator.com/item?id=40232472) - [How to Use SQLite as a NoSQL Store](https://rodydavis.com/sqlite/nosql)
 * [2024-05-02, 03:20:26](https://news.ycombinator.com/item?id=40232364) - [NSA: Tales of the Krypt (KRYPTOS Society news letters 1994-2003)[pdf]](https://www.governmentattic.org/53docs/NSAkryptosSocNwsltrs1994-2003.pdf)
 * [2024-05-02, 03:05:51](https://news.ycombinator.com/item?id=40232311) - [Limited Run Games selling burned CD-R games which don't work](https://twitter.com/Voultar/status/1785760704663896230)
