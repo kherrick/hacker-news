@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-05-02](index.md)
 
+* [2024-05-02, 17:48:14](https://news.ycombinator.com/item?id=40239164) - [Making a 3D Modeler, in C, in a Week](https://danielchasehooper.com/posts/shapeup/)
+* [2024-05-02, 17:38:01](https://news.ycombinator.com/item?id=40239029) - [Piccolo – A Stackless Lua Interpreter](https://kyju.org/blog/piccolo-a-stackless-lua-interpreter/)
 * [2024-05-02, 17:36:15](https://news.ycombinator.com/item?id=40239005) - [The U.S. may be missing human cases of bird flu, scientists say](https://text.npr.org/1248538298)
 * [2024-05-02, 17:32:17](https://news.ycombinator.com/item?id=40238949) - [Stealing your Telegram account in 10 seconds flat](https://lyra.horse/blog/2024/05/stealing-your-telegram-account-in-10-seconds-flat/)
 * [2024-05-02, 17:30:09](https://news.ycombinator.com/item?id=40238911) - [Ask HN: Are there any open source forks of nomad and consul?](https://news.ycombinator.com/item?id=40238911)
 * [2024-05-02, 17:27:39](https://news.ycombinator.com/item?id=40238871) - [Orangutan was seen treating his wound with a medicinal plant](https://www.nbcnews.com/science/science-news/orangutan-treated-own-wound-medicinal-plant-rcna150230)
+* [2024-05-02, 17:21:43](https://news.ycombinator.com/item?id=40238788) - [Pleasure or Pain? He Maps the Neural Circuits That Decide](https://www.quantamagazine.org/pleasure-or-pain-he-maps-the-neural-circuits-that-decide-20240416/)
 * [2024-05-02, 17:02:18](https://news.ycombinator.com/item?id=40238530) - [Open-Source Obsidian Alternative](https://logseq.com/)
 * [2024-05-02, 17:01:00](https://news.ycombinator.com/item?id=40238509) - [Show HN: Hacker Search – A semantic search engine for Hacker News](https://hackersearch.net)
 * [2024-05-02, 17:00:25](https://news.ycombinator.com/item?id=40238501) - [Artie (YC S23) Is Hiring a Chief of Staff in SF](https://www.ycombinator.com/companies/artie/jobs/uEUgImG-chief-of-staff)
@@ -18,6 +21,7 @@
 * [2024-05-02, 16:37:59](https://news.ycombinator.com/item?id=40238219) - [A lawsuit argues Meta is required by law to let you control your own feed](https://www.wired.com/story/meta-section-230-users-algorithm/)
 * [2024-05-02, 16:35:07](https://news.ycombinator.com/item?id=40238175) - [Second Boeing whistleblower dies after raising concerns about 737 MAX](https://www.independent.co.uk/news/world/americas/boeing-whistleblower-dies-second-b2538563.html)
 * [2024-05-02, 16:34:35](https://news.ycombinator.com/item?id=40238170) - [Rust: Box Is a Unique Type](https://blog.nilstrieb.dev/posts/box-is-a-unique-type/)
+* [2024-05-02, 16:19:05](https://news.ycombinator.com/item?id=40237984) - [Longevity of Recordable CDs, DVDs and Blu-Rays (2020)](https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes/longevity-recordable-cds-dvds.html)
 * [2024-05-02, 16:14:28](https://news.ycombinator.com/item?id=40237932) - [Changes to iOS App Distribution Fees in the EU](https://developer.apple.com/news/?id=d0z8d8rx)
 * [2024-05-02, 16:10:49](https://news.ycombinator.com/item?id=40237883) - [Real-time AI using scalable non-expert crowdsourcing in colorectal surgery](https://www.nature.com/articles/s41746-024-01095-8)
 * [2024-05-02, 16:10:18](https://news.ycombinator.com/item?id=40237872) - [The reality of Kotlin's LSP and Tooling situation](https://old.reddit.com/r/Kotlin/comments/1chxk38/jetbrains_not_making_or_supporting_an_editor/)
