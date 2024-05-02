@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-02, 02:06:30](https://news.ycombinator.com/item?id=40231999) - [Hawaiian scientist is working with distilleries to save native sugarcane](https://www.theguardian.com/us-news/ng-interactive/2024/apr/24/hawaii-native-sugarcane-rum)
+* [2024-05-02, 01:31:30](https://news.ycombinator.com/item?id=40231790) - [Ask HN: How do people create those sleek looking demos for startups?](https://news.ycombinator.com/item?id=40231790)
 * [2024-05-02, 01:06:54](https://news.ycombinator.com/item?id=40231630) - [ESpeak-ng: speech synthesizer with more than one hundred languages and accents](https://github.com/espeak-ng/espeak-ng)
 * [2024-05-02, 00:57:22](https://news.ycombinator.com/item?id=40231563) - [Cognition: A New Antisyntax Language Redefining Metaprogramming](https://ret2pop.nullring.xyz/blog/cognition.html)
 * [2024-05-02, 00:50:13](https://news.ycombinator.com/item?id=40231515) - [mRNA Cancer Vaccine Reprograms Immune System to Tackle Glioblastoma in 48 Hours](https://www.insideprecisionmedicine.com/topics/oncology/mrna-cancer-vaccine-reprograms-immune-system-to-tackle-glioblastoma/)
@@ -18,7 +19,6 @@
 * [2024-05-01, 15:00:52](https://news.ycombinator.com/item?id=40224210) - [Ask HN: Who wants to be hired? (May 2024)](https://news.ycombinator.com/item?id=40224210)
 * [2024-05-01, 14:12:36](https://news.ycombinator.com/item?id=40223510) - [Show HN: Maps and Splats – Mashup of 3D tile maps with Gaussian Splats](https://maps-and-splats.glitch.me/)
 * [2024-05-01, 14:08:48](https://news.ycombinator.com/item?id=40223457) - [New findings point to an Earth-like environment on ancient Mars](https://discover.lanl.gov/news/0501-ancient-mars/)
-* [2024-05-01, 12:00:10](https://news.ycombinator.com/item?id=40222051) - [Show HN: I'm 16 and building an AI based startup called Factful with friends](https://factful.io/)
 * [2024-05-01, 10:04:47](https://news.ycombinator.com/item?id=40221345) - [Invisible Stitch: Generating Smooth 3D Scenes with Depth Inpainting](https://research.paulengstler.com/invisible-stitch/)
 * [2024-05-01, 03:30:47](https://news.ycombinator.com/item?id=40219205) - [Kolmogorov-Arnold Networks](https://github.com/KindXiaoming/pykan)
 * [2024-04-30, 20:39:59](https://news.ycombinator.com/item?id=40216057) - [Printing Music with CSS Grid](https://cruncher.ch/blog/printing-music-with-css-grid/)

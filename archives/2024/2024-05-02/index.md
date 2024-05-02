@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-02](index.md)
 
 * [2024-05-02, 02:06:30](https://news.ycombinator.com/item?id=40231999) - [Hawaiian scientist is working with distilleries to save native sugarcane](https://www.theguardian.com/us-news/ng-interactive/2024/apr/24/hawaii-native-sugarcane-rum)
+* [2024-05-02, 01:31:30](https://news.ycombinator.com/item?id=40231790) - [Ask HN: How do people create those sleek looking demos for startups?](https://news.ycombinator.com/item?id=40231790)
 * [2024-05-02, 01:06:54](https://news.ycombinator.com/item?id=40231630) - [ESpeak-ng: speech synthesizer with more than one hundred languages and accents](https://github.com/espeak-ng/espeak-ng)
 * [2024-05-02, 00:57:22](https://news.ycombinator.com/item?id=40231563) - [Cognition: A New Antisyntax Language Redefining Metaprogramming](https://ret2pop.nullring.xyz/blog/cognition.html)
 * [2024-05-02, 00:50:13](https://news.ycombinator.com/item?id=40231515) - [mRNA Cancer Vaccine Reprograms Immune System to Tackle Glioblastoma in 48 Hours](https://www.insideprecisionmedicine.com/topics/oncology/mrna-cancer-vaccine-reprograms-immune-system-to-tackle-glioblastoma/)
