@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-02](index.md)
 
+* [2024-05-02, 23:05:57](https://news.ycombinator.com/item?id=40242335) - [Google's Synonym Extraction Methods](https://www.mattcutts.com/blog/google-synonyms/)
+* [2024-05-02, 23:00:37](https://news.ycombinator.com/item?id=40242303) - [Former Burning Man headquarters building sells at 90% discount](https://sfist.com/2024/04/23/empty-office-building-at-sixth-and-market-which-last-sold-for-62-million-now-sells-for-just-6-5-million/)
 * [2024-05-02, 22:47:05](https://news.ycombinator.com/item?id=40242224) - [The life and times of an Abstract Syntax Tree](https://blog.trailofbits.com/2024/05/02/the-life-and-times-of-an-abstract-syntax-tree/)
 * [2024-05-02, 22:33:16](https://news.ycombinator.com/item?id=40242114) - [Louis Rossmann: YouTube's Legal Team sent me a letter [video]](https://www.youtube.com/watch?v=dqTYg6vnQvw)
 * [2024-05-02, 22:25:04](https://news.ycombinator.com/item?id=40242055) - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4360841006)
