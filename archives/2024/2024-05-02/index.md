@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-02](index.md)
 
+* [2024-05-02, 17:27:39](https://news.ycombinator.com/item?id=40238871) - [Orangutan was seen treating his wound with a medicinal plant](https://www.nbcnews.com/science/science-news/orangutan-treated-own-wound-medicinal-plant-rcna150230)
 * [2024-05-02, 17:01:00](https://news.ycombinator.com/item?id=40238509) - [Show HN: Hacker Search – A semantic search engine for Hacker News](https://hackersearch.net)
 * [2024-05-02, 17:00:25](https://news.ycombinator.com/item?id=40238501) - [Artie (YC S23) Is Hiring a Chief of Staff in SF](https://www.ycombinator.com/companies/artie/jobs/uEUgImG-chief-of-staff)
 * [2024-05-02, 16:46:00](https://news.ycombinator.com/item?id=40238314) - [Disinformation is on the rise. How does it work?](https://www.economist.com/science-and-technology/2024/05/01/disinformation-is-on-the-rise-how-does-it-work)
