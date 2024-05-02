@@ -33,6 +33,7 @@
 * [2024-04-30, 19:02:26](https://news.ycombinator.com/item?id=40214871) - [Microsoft Maintains Go Fork for FIPS 140-2 Support](https://github.com/microsoft/go)
 * [2024-04-30, 19:00:36](https://news.ycombinator.com/item?id=40214839) - [Finnair pauses some Estonia flights due to GPS interference](https://www.reuters.com/world/europe/finnair-pauses-flights-tartu-estonia-amid-gps-interference-2024-04-29/)
 * [2024-04-30, 18:54:22](https://news.ycombinator.com/item?id=40214763) - [Arti: A Tor Implementation in Rust](https://tpo.pages.torproject.net/core/arti/)
+* [2024-04-30, 18:52:07](https://news.ycombinator.com/item?id=40214736) - [Passkey Implementation: Misconceptions, pitfalls and unknown unknowns](https://www.corbado.com/blog/passkey-implementation-pitfalls-misconceptions-unknowns)
 * [2024-04-30, 18:48:32](https://news.ycombinator.com/item?id=40214692) - [Rama is a testament to the power of Clojure](https://blog.redplanetlabs.com/2024/04/30/rama-is-a-testament-to-the-power-of-clojure/)
 * [2024-04-30, 18:48:10](https://news.ycombinator.com/item?id=40214686) - [Android Studio IDE launches free AI features](https://developer.android.com/gemini-in-android)
 * [2024-04-30, 18:36:19](https://news.ycombinator.com/item?id=40214525) - [How ECMO Is Redefining Death](https://www.newyorker.com/science/annals-of-medicine/how-ecmo-is-redefining-death)

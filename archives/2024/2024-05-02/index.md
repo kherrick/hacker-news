@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-05-02](index.md)
 
+* [2024-05-02, 22:25:04](https://news.ycombinator.com/item?id=40242055) - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4360841006)
 * [2024-05-02, 21:47:25](https://news.ycombinator.com/item?id=40241734) - [Second Boeing Whistleblower Dies in Less Than Two Months](https://www.newshub.co.nz/home/world/2024/05/whistleblower-josh-dean-of-boeing-supplier-spirit-aerosystems-dies-of-sudden-illness.html)
 * [2024-05-02, 21:24:42](https://news.ycombinator.com/item?id=40241525) - [They thought they were joining an accelerator – instead they lost their startups](https://techcrunch.com/2024/05/02/they-thought-they-were-joining-an-accelerator-instead-they-lost-their-startups/)
 * [2024-05-02, 21:00:28](https://news.ycombinator.com/item?id=40241322) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2024-05-02, 20:41:44](https://news.ycombinator.com/item?id=40241142) - [Modern Linux on the Desktop in 2023](https://crepererum.net/linux-2023/)
+* [2024-05-02, 20:31:19](https://news.ycombinator.com/item?id=40241057) - [Hobby's algorithm for aesthetic Bézier splines](https://www.jakelow.com/blog/hobby-curves)
 * [2024-05-02, 20:25:32](https://news.ycombinator.com/item?id=40241002) - [Pseudo Graceful Process Termination Through Code Injection](https://sigma-star.at/blog/2024/02/exit0-code-injection/)
 * [2024-05-02, 20:19:43](https://news.ycombinator.com/item?id=40240948) - [Desert greening is transforming dust and sand into farmable soil (2023)](https://www.freethink.com/energy/desertification-desert-greening)
 * [2024-05-02, 20:12:33](https://news.ycombinator.com/item?id=40240886) - [Pter: TUI and GUI for Todo.txt](https://github.com/vonshednob/pter)
@@ -36,6 +38,7 @@
 * [2024-05-02, 16:37:59](https://news.ycombinator.com/item?id=40238219) - [A lawsuit argues Meta is required by law to let you control your own feed](https://www.wired.com/story/meta-section-230-users-algorithm/)
 * [2024-05-02, 16:35:07](https://news.ycombinator.com/item?id=40238175) - [Second Boeing whistleblower dies after raising concerns about 737 MAX](https://www.independent.co.uk/news/world/americas/boeing-whistleblower-dies-second-b2538563.html)
 * [2024-05-02, 16:34:35](https://news.ycombinator.com/item?id=40238170) - [Rust: Box Is a Unique Type](https://blog.nilstrieb.dev/posts/box-is-a-unique-type/)
+* [2024-05-02, 16:29:47](https://news.ycombinator.com/item?id=40238118) - [Oh Frick Go Back: GUI Tool to Removes Ads from Various Places Around Windows 11](https://github.com/xM4ddy/OFGB)
 * [2024-05-02, 16:19:05](https://news.ycombinator.com/item?id=40237984) - [Longevity of Recordable CDs, DVDs and Blu-Rays (2020)](https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes/longevity-recordable-cds-dvds.html)
 * [2024-05-02, 16:15:54](https://news.ycombinator.com/item?id=40237947) - [To Save It, Eat It](https://longnow.org/ideas/to-save-it-eat-it/)
 * [2024-05-02, 16:14:28](https://news.ycombinator.com/item?id=40237932) - [Changes to iOS App Distribution Fees in the EU](https://developer.apple.com/news/?id=d0z8d8rx)
