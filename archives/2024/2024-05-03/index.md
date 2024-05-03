@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-05-03](index.md)
 
+* [2024-05-03, 11:23:42](https://news.ycombinator.com/item?id=40246398) - [How to Make More Money Renting a GPU Than Nvidia Makes Selling It](https://www.nextplatform.com/2024/05/02/how-to-make-more-money-renting-a-gpu-than-nvidia-makes-selling-it/)
 * [2024-05-03, 10:40:28](https://news.ycombinator.com/item?id=40246171) - [Deletion of user account (€ 19,90)](https://www.soflow.com/eu/product/deletion-of-user-account/)
 * [2024-05-03, 10:13:38](https://news.ycombinator.com/item?id=40246021) - [Starlink geofence appears to have some gaping holes](https://www.theregister.com/2024/05/03/spacex_roaming_lockdown/)
+* [2024-05-03, 10:02:31](https://news.ycombinator.com/item?id=40245940) - [Why Rust cannot replace C++](https://medium.com/@pepitoscrespo/why-rust-cannot-replace-c-but-quite-the-contrary-5577e1f5af0a)
 * [2024-05-03, 09:47:07](https://news.ycombinator.com/item?id=40245843) - [Auckland is built atop a labyrinth of underground caves](https://www.bbc.com/future/article/20240501-the-new-zealand-city-with-a-labyrinth-of-underground-caves)
 * [2024-05-03, 09:06:28](https://news.ycombinator.com/item?id=40245637) - [How to Use JSON Path](https://bump.sh/blog/how-to-use-json-path)
 * [2024-05-03, 09:00:51](https://news.ycombinator.com/item?id=40245601) - [Woodworking as an Escape from the Absurdity of Software](https://alinpanaitiu.com/blog/woodworking-escape-from-software-absurdity/)
 * [2024-05-03, 08:40:58](https://news.ycombinator.com/item?id=40245509) - [Apple announces $110B share buyback after quarterly profit and revenue drop](https://www.thenationalnews.com/business/markets/2024/05/02/apple-announces-110bn-share-buyback-after-quarterly-profit-and-revenue-drop/)
+* [2024-05-03, 08:08:19](https://news.ycombinator.com/item?id=40245348) - [I can fix this PC, boss, but I'll need to play games for hours to do it](https://www.theregister.com/2024/05/03/on_call/)
 * [2024-05-03, 07:01:00](https://news.ycombinator.com/item?id=40244962) - [Raycast (YC W20) is hiring Rust engineer (Remote, Europe, €104k – €160k)](https://www.raycast.com/jobs/software-engineer-rust)
 * [2024-05-03, 06:17:56](https://news.ycombinator.com/item?id=40244681) - [Google's Med-Gemini AI Outperforms GPT-4 in Healthcare](https://www.forbes.com/sites/talpatalon/2024/05/01/med-geminis-lions-roar/)
 * [2024-05-03, 04:50:56](https://news.ycombinator.com/item?id=40244165) - ['I will never go back': Ontario doctor says new AI notetaking saved her job](https://globalnews.ca/news/10463535/ontario-family-doctor-artificial-intelligence-notes/)
