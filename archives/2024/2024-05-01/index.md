@@ -98,6 +98,7 @@
 * [2024-05-01, 10:01:53](https://news.ycombinator.com/item?id=40221327) - [Paul Auster How I Became a Writer](https://channel.louisiana.dk/video/paul-auster-how-i-became-writer)
 * [2024-05-01, 09:29:32](https://news.ycombinator.com/item?id=40221154) - [LLMs Can't Do Probability](https://brainsteam.co.uk/2024/05/01/llms-cant-do-probability/)
 * [2024-05-01, 09:22:23](https://news.ycombinator.com/item?id=40221108) - [Jeff Barr acknowledges S3 unauthorized request billing issue](https://old.reddit.com/r/aws/comments/1ch1ir4/jeff_barr_acknowledges_s3_unauthorized_request/)
+* [2024-05-01, 09:15:12](https://news.ycombinator.com/item?id=40221067) - [The Nature of Code (2nd Edition)](https://natureofcode.com/introduction/)
 * [2024-05-01, 08:43:33](https://news.ycombinator.com/item?id=40220926) - [Ask HN: Best stack for building a desktop app?](https://news.ycombinator.com/item?id=40220926)
 * [2024-05-01, 08:28:18](https://news.ycombinator.com/item?id=40220851) - [Better and Faster Large Language Models via Multi-Token Prediction](https://arxiv.org/abs/2404.19737)
 * [2024-05-01, 08:14:18](https://news.ycombinator.com/item?id=40220769) - [How to Solve It (With Raycasting)](https://alicegg.tech//2024/05/01/how-to-solve-it.html)
