@@ -99,6 +99,7 @@
 * [2024-05-02, 07:58:38](https://news.ycombinator.com/item?id=40233784) - [The Snapdragon 855's iGPU](https://chipsandcheese.com/2024/05/01/inside-the-snapdragon-855s-igpu/)
 * [2024-05-02, 07:52:14](https://news.ycombinator.com/item?id=40233746) - [Dropbox Sign Has Been Hacked](https://sign.dropbox.com/blog/a-recent-security-incident-involving-dropbox-sign)
 * [2024-05-02, 07:50:34](https://news.ycombinator.com/item?id=40233736) - [The world's loudest Lisp program to the rescue](https://blog.funcall.org//lisp%20psychoacoustics/2024/05/01/worlds-loudest-lisp-program/)
+* [2024-05-02, 07:39:09](https://news.ycombinator.com/item?id=40233679) - [Losing My Hands](https://jxnl.co/writing/2024/04/29/losing-my-hands/)
 * [2024-05-02, 06:20:39](https://news.ycombinator.com/item?id=40233248) - [Just got doxxed to within 15 miles by a vision model, from only a single photo](https://twitter.com/arithmoquine/status/1785834410312454389)
 * [2024-05-02, 06:13:02](https://news.ycombinator.com/item?id=40233213) - [Whistle­blow­er who accused Boeing supplier of ignoring defects dies](https://www.aljazeera.com/economy/2024/5/2/whistleblower-joshua-dean-ex-worker-at-boeing-supplier-dies)
 * [2024-05-02, 05:38:42](https://news.ycombinator.com/item?id=40233029) - [The Fishy Death of Red Lobster](https://www.businessinsider.com/red-lobster-endless-shrimp-bankruptcy-private-equity-debt-real-estate-2024-5)
