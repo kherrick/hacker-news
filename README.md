@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-03, 07:01:00](https://news.ycombinator.com/item?id=40244962) - [Raycast (YC W20) is hiring Rust engineer (Remote, Europe, €104k – €160k)](https://www.raycast.com/jobs/software-engineer-rust)
-* [2024-05-03, 06:17:56](https://news.ycombinator.com/item?id=40244681) - [Google's Med-Gemini AI Outperforms GPT-4 in Healthcare](https://www.forbes.com/sites/talpatalon/2024/05/01/med-geminis-lions-roar/)
 * [2024-05-03, 04:00:29](https://news.ycombinator.com/item?id=40243895) - [Thirteen year old singularity bug fixed](https://github.com/tgstation/tgstation/pull/83005)
 * [2024-05-03, 03:08:32](https://news.ycombinator.com/item?id=40243630) - [Hyundai is spending $1B to keep self-driving startup Motional alive](https://techcrunch.com/2024/05/02/hyundai-is-spending-close-to-1-billion-to-keep-self-driving-startup-motional-alive/)
 * [2024-05-03, 01:58:33](https://news.ycombinator.com/item?id=40243242) - [Georgia Tech/Meta Create Open Dataset to Advance AI for Carbon Capture](https://news.gatech.edu/news/2024/05/02/georgia-tech-and-meta-create-massive-open-dataset-advance-ai-solutions-carbon)
 * [2024-05-03, 01:58:21](https://news.ycombinator.com/item?id=40243238) - [Cardio fitness is a strong, consistent predictor of morbidity and mortality](https://bjsm.bmj.com/content/58/10/556)
 * [2024-05-03, 01:44:30](https://news.ycombinator.com/item?id=40243168) - [I'm writing a new vector search SQLite Extension](https://alexgarcia.xyz/blog/2024/building-new-vector-search-sqlite/index.html)
+* [2024-05-03, 01:10:32](https://news.ycombinator.com/item?id=40243015) - [Collapsing Sheets of Spacetime Could Explain Dark Matter and Why Universe 'Hums'](https://www.scientificamerican.com/article/collapsing-sheets-of-spacetime-could-explain-dark-matter-and-why-the/)
 * [2024-05-03, 01:10:32](https://news.ycombinator.com/item?id=40243014) - [Dressmaking CAD](https://xn--6xw240d.net/)
 * [2024-05-02, 23:56:08](https://news.ycombinator.com/item?id=40242639) - [Stirling PDF: Self-hosted, web-based PDF manipulation tool](https://github.com/Stirling-Tools/Stirling-PDF)
 * [2024-05-02, 23:17:40](https://news.ycombinator.com/item?id=40242410) - [A Single Div](https://a.singlediv.com/)
