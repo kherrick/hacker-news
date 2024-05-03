@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-03](index.md)
 
+* [2024-05-03, 22:12:46](https://news.ycombinator.com/item?id=40252965) - [China's quiet energy revolution: the switch from nuclear to renewable energy](https://johnmenadue.com/chinas-quiet-energy-revolution-the-switch-from-nuclear-to-renewable-energy/)
 * [2024-05-03, 21:32:32](https://news.ycombinator.com/item?id=40252619) - [Microsoft ties executive pay to security after multiple failures and breaches](https://arstechnica.com/information-technology/2024/05/microsoft-ties-executive-pay-to-security-following-multiple-failures-and-breaches/)
 * [2024-05-03, 21:20:57](https://news.ycombinator.com/item?id=40252525) - [Discord Applying Forced Arbitration - opt-out before it is too late!](https://bsky.app/profile/silverwuffamute.bsky.social/post/3kqbd476nvk2i)
 * [2024-05-03, 21:06:05](https://news.ycombinator.com/item?id=40252393) - [Mega-warehouses heap more pollution on hard-hit Illinois neighborhoods](https://www.theguardian.com/us-news/2024/apr/24/illinois-mega-warehouses-air-quality-pollution-inequality)

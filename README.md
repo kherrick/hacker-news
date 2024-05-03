@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-03, 22:12:46](https://news.ycombinator.com/item?id=40252965) - [China's quiet energy revolution: the switch from nuclear to renewable energy](https://johnmenadue.com/chinas-quiet-energy-revolution-the-switch-from-nuclear-to-renewable-energy/)
 * [2024-05-03, 21:32:32](https://news.ycombinator.com/item?id=40252619) - [Microsoft ties executive pay to security after multiple failures and breaches](https://arstechnica.com/information-technology/2024/05/microsoft-ties-executive-pay-to-security-following-multiple-failures-and-breaches/)
 * [2024-05-03, 21:20:57](https://news.ycombinator.com/item?id=40252525) - [Discord Applying Forced Arbitration - opt-out before it is too late!](https://bsky.app/profile/silverwuffamute.bsky.social/post/3kqbd476nvk2i)
 * [2024-05-03, 21:06:05](https://news.ycombinator.com/item?id=40252393) - [Mega-warehouses heap more pollution on hard-hit Illinois neighborhoods](https://www.theguardian.com/us-news/2024/apr/24/illinois-mega-warehouses-air-quality-pollution-inequality)
@@ -23,7 +24,6 @@
 * [2024-05-03, 09:29:58](https://news.ycombinator.com/item?id=40245769) - [A Minimal Model for Biological Evolution and Other Adaptive Processes](https://writings.stephenwolfram.com/2024/05/why-does-biological-evolution-work-a-minimal-model-for-biological-evolution-and-other-adaptive-processes/)
 * [2024-05-03, 09:06:28](https://news.ycombinator.com/item?id=40245637) - [How to Use JSON Path](https://bump.sh/blog/how-to-use-json-path)
 * [2024-05-03, 09:00:51](https://news.ycombinator.com/item?id=40245601) - [Woodworking as an escape from the absurdity of software](https://alinpanaitiu.com/blog/woodworking-escape-from-software-absurdity/)
-* [2024-05-03, 07:16:55](https://news.ycombinator.com/item?id=40245050) - [Show HN: I built a site to share code boilerplates](https://boilermate.site/hot)
 * [2024-05-03, 01:44:30](https://news.ycombinator.com/item?id=40243168) - [I’m writing a new vector search SQLite Extension](https://alexgarcia.xyz/blog/2024/building-new-vector-search-sqlite/index.html)
 * [2024-05-02, 10:10:26](https://news.ycombinator.com/item?id=40234490) - [Visiting the most expensive nuclear station](https://www.samdumitriu.com/p/visiting-the-worlds-most-expensive)
 * [2024-05-01, 15:47:15](https://news.ycombinator.com/item?id=40224937) - [TORAX is a differentiable tokamak core transport simulator](https://github.com/google-deepmind/torax)
