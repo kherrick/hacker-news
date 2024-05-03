@@ -47,6 +47,7 @@
 * [2024-04-30, 17:42:30](https://news.ycombinator.com/item?id=40213718) - [Good enough is good enough](https://ep2013.europython.eu/conference/talks/good-enough-is-good-enough)
 * [2024-04-30, 17:40:19](https://news.ycombinator.com/item?id=40213683) - [The California man who hid for 6 months in a secret room inside Circuit City](https://www.sfgate.com/bayarea/article/california-man-hid-months-secret-room-circuit-city-19422415.php)
 * [2024-04-30, 17:32:00](https://news.ycombinator.com/item?id=40213591) - [US drug control agency will move to reclassify marijuana](https://apnews.com/article/marijuana-biden-dea-criminal-justice-pot-f833a8dae6ceb31a8658a5d65832a3b8)
+* [2024-04-30, 17:31:52](https://news.ycombinator.com/item?id=40213588) - [Fire for Water: A tribe in California is helping to reshape fire management](https://www.biographic.com/fire-for-water/)
 * [2024-04-30, 17:30:33](https://news.ycombinator.com/item?id=40213570) - [Show HN: Polytomic Connect – API for two-way ETL and data syncs with customers](https://news.ycombinator.com/item?id=40213570)
 * [2024-04-30, 17:29:18](https://news.ycombinator.com/item?id=40213562) - [Show HN: I made an app that helps you find where to stream movies and TV shows](https://whereto.stream)
 * [2024-04-30, 17:28:45](https://news.ycombinator.com/item?id=40213559) - [Desire for loud car predicted by being a man: higher psychopathy and sadism](https://cipp.ug.edu.pl/A-desire-for-a-loud-car-with-a-modified-muffler-is-predicted-by-being-a-man-and-higher,162006,0,2.html)

@@ -9,6 +9,7 @@
 * [2024-05-03, 04:00:29](https://news.ycombinator.com/item?id=40243895) - [Thirteen year old singularity bug fixed](https://github.com/tgstation/tgstation/pull/83005)
 * [2024-05-03, 03:08:32](https://news.ycombinator.com/item?id=40243630) - [Hyundai is spending $1B to keep self-driving startup Motional alive](https://techcrunch.com/2024/05/02/hyundai-is-spending-close-to-1-billion-to-keep-self-driving-startup-motional-alive/)
 * [2024-05-03, 01:58:33](https://news.ycombinator.com/item?id=40243242) - [Georgia Tech/Meta Create Open Dataset to Advance AI for Carbon Capture](https://news.gatech.edu/news/2024/05/02/georgia-tech-and-meta-create-massive-open-dataset-advance-ai-solutions-carbon)
+* [2024-05-03, 01:58:21](https://news.ycombinator.com/item?id=40243238) - [Cardio fitness is a strong, consistent predictor of morbidity and mortality](https://bjsm.bmj.com/content/58/10/556)
 * [2024-05-03, 01:44:30](https://news.ycombinator.com/item?id=40243168) - [I'm writing a new vector search SQLite Extension](https://alexgarcia.xyz/blog/2024/building-new-vector-search-sqlite/index.html)
 * [2024-05-03, 01:10:32](https://news.ycombinator.com/item?id=40243014) - [Dressmaking CAD](https://xn--6xw240d.net/)
 * [2024-05-02, 23:56:08](https://news.ycombinator.com/item?id=40242639) - [Stirling PDF: Self-hosted, web-based PDF manipulation tool](https://github.com/Stirling-Tools/Stirling-PDF)
@@ -17,8 +18,6 @@
 * [2024-05-02, 22:47:05](https://news.ycombinator.com/item?id=40242224) - [The life and times of an Abstract Syntax Tree](https://blog.trailofbits.com/2024/05/02/the-life-and-times-of-an-abstract-syntax-tree/)
 * [2024-05-02, 21:44:24](https://news.ycombinator.com/item?id=40241694) - [TSMC Jumps into Silicon Photonics, Lays Out Roadmap for 12.8 Tbps Interconnect](https://www.anandtech.com/show/21373/tsmc-adds-silicon-photonics-coupe-roadmap-128tbps-on-package)
 * [2024-05-02, 21:24:42](https://news.ycombinator.com/item?id=40241525) - [They thought they were joining an accelerator – instead they lost their startups](https://techcrunch.com/2024/05/02/they-thought-they-were-joining-an-accelerator-instead-they-lost-their-startups/)
-* [2024-05-02, 20:31:19](https://news.ycombinator.com/item?id=40241057) - [Hobby's algorithm for aesthetic Bézier splines](https://www.jakelow.com/blog/hobby-curves)
-* [2024-05-02, 20:25:32](https://news.ycombinator.com/item?id=40241002) - [Pseudo Graceful Process Termination Through Code Injection](https://sigma-star.at/blog/2024/02/exit0-code-injection/)
 * [2024-05-02, 19:54:48](https://news.ycombinator.com/item?id=40240724) - [Building a rocket engine from scratch](https://blog.ablspacesystems.com/p/building-e2)
 * [2024-05-02, 17:48:14](https://news.ycombinator.com/item?id=40239164) - [Making a 3D modeler in C in a week](https://danielchasehooper.com/posts/shapeup/)
 * [2024-05-02, 17:38:01](https://news.ycombinator.com/item?id=40239029) - [Piccolo – A Stackless Lua Interpreter](https://kyju.org/blog/piccolo-a-stackless-lua-interpreter/)
@@ -30,6 +29,7 @@
 * [2024-05-02, 06:22:48](https://news.ycombinator.com/item?id=40233259) - [Goodyear Inflatoplane](https://en.wikipedia.org/wiki/Goodyear_Inflatoplane)
 * [2024-05-01, 06:08:54](https://news.ycombinator.com/item?id=40220072) - [Every map of China is wrong](https://medium.com/@anastasia.bizyayeva/every-map-of-china-is-wrong-bc2bce145db2)
 * [2024-04-30, 18:52:07](https://news.ycombinator.com/item?id=40214736) - [Passkey Implementation: Misconceptions, pitfalls and unknown unknowns](https://www.corbado.com/blog/passkey-implementation-pitfalls-misconceptions-unknowns)
+* [2024-04-30, 17:31:52](https://news.ycombinator.com/item?id=40213588) - [Fire for Water: A tribe in California is helping to reshape fire management](https://www.biographic.com/fire-for-water/)
 
 ## [Archives](archives/index.md)
 
