@@ -55,6 +55,7 @@
 * [2024-05-01, 16:08:43](https://news.ycombinator.com/item?id=40225228) - [2024 Verizon Data Breach Investigation Report [pdf]](https://www.verizon.com/business/resources/T5be/reports/2024-dbir-data-breach-investigations-report.pdf)
 * [2024-05-01, 15:51:55](https://news.ycombinator.com/item?id=40225002) - [Harvard applications drop 5% after year of turmoil on the Ivy League campus](https://www.cbsnews.com/news/harvard-applications-down-5-percent-claudine-gay/)
 * [2024-05-01, 15:50:27](https://news.ycombinator.com/item?id=40224986) - [Rat cells grown in mice brains](https://www.sciencenews.org/article/rat-cell-mice-brains-chimera-sniff-cookie)
+* [2024-05-01, 15:47:15](https://news.ycombinator.com/item?id=40224937) - [TORAX is a differentiable tokamak core transport simulator](https://github.com/google-deepmind/torax)
 * [2024-05-01, 15:42:12](https://news.ycombinator.com/item?id=40224864) - [Evolving the Go Standard Library with math/rand/v2](https://go.dev/blog/randv2)
 * [2024-05-01, 15:28:53](https://news.ycombinator.com/item?id=40224659) - [Claude AI launches on iOS (Android coming soon)](https://www.anthropic.com/news/team-plan-and-ios)
 * [2024-05-01, 15:23:06](https://news.ycombinator.com/item?id=40224578) - [Are We Modules Yet?](https://arewemodulesyet.org/)

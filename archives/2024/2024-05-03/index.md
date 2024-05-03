@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-05-03](index.md)
 
+* [2024-05-03, 19:38:02](https://news.ycombinator.com/item?id=40251463) - [\"We live and we die. We control nothing beyond that.\"](https://americandreaming.substack.com/p/we-live-and-we-die-we-control-nothing)
 * [2024-05-03, 18:27:40](https://news.ycombinator.com/item?id=40250724) - [Why It's Hard to Get Hired Despite Glowing Jobs Reports](https://www.wsj.com/lifestyle/careers/us-job-market-white-collar-workers-f453f0b5)
 * [2024-05-03, 18:23:02](https://news.ycombinator.com/item?id=40250672) - [Firefox Power User Keeps 7,400 Browser Tabs Open for 2 Years](https://www.pcmag.com/news/firefox-power-user-keeps-7400-plus-browser-tabs-open-for-2-years)
 * [2024-05-03, 18:11:25](https://news.ycombinator.com/item?id=40250557) - [Show HN: BandMatch – \"Tinder\" but for finding musicians to create bands/collab](https://bandmatch.app)
 * [2024-05-03, 18:07:17](https://news.ycombinator.com/item?id=40250525) - [SATO: Stable Text-to-Motion Framework](https://sato-team.github.io/Stable-Text-to-Motion-Framework/)
+* [2024-05-03, 18:06:53](https://news.ycombinator.com/item?id=40250519) - [How hard can generating 1024-bit primes be?](https://glitchcomet.com/articles/1024-bit-primes/)
 * [2024-05-03, 18:04:50](https://news.ycombinator.com/item?id=40250503) - [VR can motivate people to donate to refugee crises regardless of politics](https://phys.org/news/2024-04-virtual-reality-people-donate-refugee.html)
 * [2024-05-03, 17:41:33](https://news.ycombinator.com/item?id=40250245) - [Palantir CEO suggests drone striking business rivals](https://www.politico.com/news/2024/05/01/alex-karp-hill-summit-trump-00155571)
 * [2024-05-03, 17:39:59](https://news.ycombinator.com/item?id=40250226) - [An Oil Price-Fixing Conspiracy Caused 27% of All Inflation in 2021](https://www.thebignewsletter.com/p/an-oil-price-fixing-conspiracy-caused)
