@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-03](index.md)
 
+* [2024-05-03, 07:01:00](https://news.ycombinator.com/item?id=40244962) - [Raycast (YC W20) is hiring Rust engineer (Remote, Europe, €104k – €160k)](https://www.raycast.com/jobs/software-engineer-rust)
+* [2024-05-03, 06:17:56](https://news.ycombinator.com/item?id=40244681) - [Google's Med-Gemini AI Outperforms GPT-4 in Healthcare](https://www.forbes.com/sites/talpatalon/2024/05/01/med-geminis-lions-roar/)
 * [2024-05-03, 04:50:56](https://news.ycombinator.com/item?id=40244165) - ['I will never go back': Ontario doctor says new AI notetaking saved her job](https://globalnews.ca/news/10463535/ontario-family-doctor-artificial-intelligence-notes/)
 * [2024-05-03, 04:35:46](https://news.ycombinator.com/item?id=40244075) - [Extremist Militias Are Coordinating in More Than 100 Facebook Groups](https://www.wired.com/story/extremist-militias-are-coordinating-on-facebook/)
 * [2024-05-03, 03:08:32](https://news.ycombinator.com/item?id=40243630) - [Hyundai is spending $1B to keep self-driving startup Motional alive](https://techcrunch.com/2024/05/02/hyundai-is-spending-close-to-1-billion-to-keep-self-driving-startup-motional-alive/)
