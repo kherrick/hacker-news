@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-03, 15:39:42](https://news.ycombinator.com/item?id=40248924) - [Palantir CEO Alex Karp jokes about drone-striking rivals](https://www.politico.com/news/2024/05/01/alex-karp-hill-summit-trump-00155571)
 * [2024-05-03, 15:22:17](https://news.ycombinator.com/item?id=40248721) - [Manta Ray Uncrewed Underwater Vehicle Prototype Completes In-Water Testing](https://www.darpa.mil/news-events/2024-05-01)
 * [2024-05-03, 15:14:16](https://news.ycombinator.com/item?id=40248627) - [Lithium-free sodium batteries exit the lab and enter US production](https://newatlas.com/energy/natron-sodium-ion-battery-production-startt/)
 * [2024-05-03, 15:05:59](https://news.ycombinator.com/item?id=40248514) - [I Spent 24 Hours with GitHub Copilot Workspaces](https://every.to/chain-of-thought/i-spent-24-hours-with-github-copilot-workspaces)
@@ -24,6 +23,7 @@
 * [2024-05-03, 01:58:33](https://news.ycombinator.com/item?id=40243242) - [Georgia Tech, Meta create open dataset to advance solutions for carbon capture](https://news.gatech.edu/news/2024/05/02/georgia-tech-and-meta-create-massive-open-dataset-advance-ai-solutions-carbon)
 * [2024-05-03, 01:44:30](https://news.ycombinator.com/item?id=40243168) - [I’m writing a new vector search SQLite Extension](https://alexgarcia.xyz/blog/2024/building-new-vector-search-sqlite/index.html)
 * [2024-05-03, 01:10:32](https://news.ycombinator.com/item?id=40243014) - [Dressmaking CAD](https://xn--6xw240d.net/)
+* [2024-05-02, 23:17:40](https://news.ycombinator.com/item?id=40242410) - [A Single Div](https://a.singlediv.com/)
 * [2024-05-02, 17:48:14](https://news.ycombinator.com/item?id=40239164) - [Making a 3D modeler in C in a week](https://danielchasehooper.com/posts/shapeup/)
 * [2024-05-02, 08:35:03](https://news.ycombinator.com/item?id=40233979) - [00Key a 75% Keyboard](https://github.com/ZeroZeroOne-dev/00Key)
 * [2024-05-02, 06:22:48](https://news.ycombinator.com/item?id=40233259) - [Goodyear Inflatoplane](https://en.wikipedia.org/wiki/Goodyear_Inflatoplane)
