@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-03](index.md)
 
+* [2024-05-03, 10:40:28](https://news.ycombinator.com/item?id=40246171) - [Deletion of user account (€ 19,90)](https://www.soflow.com/eu/product/deletion-of-user-account/)
+* [2024-05-03, 10:13:38](https://news.ycombinator.com/item?id=40246021) - [Starlink geofence appears to have some gaping holes](https://www.theregister.com/2024/05/03/spacex_roaming_lockdown/)
 * [2024-05-03, 09:47:07](https://news.ycombinator.com/item?id=40245843) - [Auckland is built atop a labyrinth of underground caves](https://www.bbc.com/future/article/20240501-the-new-zealand-city-with-a-labyrinth-of-underground-caves)
 * [2024-05-03, 09:06:28](https://news.ycombinator.com/item?id=40245637) - [How to Use JSON Path](https://bump.sh/blog/how-to-use-json-path)
 * [2024-05-03, 09:00:51](https://news.ycombinator.com/item?id=40245601) - [Woodworking as an Escape from the Absurdity of Software](https://alinpanaitiu.com/blog/woodworking-escape-from-software-absurdity/)
