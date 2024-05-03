@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-03, 04:35:46](https://news.ycombinator.com/item?id=40244075) - [Extremist Militias Are Coordinating in More Than 100 Facebook Groups](https://www.wired.com/story/extremist-militias-are-coordinating-on-facebook/)
 * [2024-05-03, 03:08:32](https://news.ycombinator.com/item?id=40243630) - [Hyundai is spending $1B to keep self-driving startup Motional alive](https://techcrunch.com/2024/05/02/hyundai-is-spending-close-to-1-billion-to-keep-self-driving-startup-motional-alive/)
 * [2024-05-03, 03:02:18](https://news.ycombinator.com/item?id=40243598) - [Ask HN: I have been unable to land a job in two years, does anybody](https://news.ycombinator.com/item?id=40243598)
 * [2024-05-03, 01:58:33](https://news.ycombinator.com/item?id=40243242) - [Georgia Tech/Meta Create Open Dataset to Advance AI for Carbon Capture](https://news.gatech.edu/news/2024/05/02/georgia-tech-and-meta-create-massive-open-dataset-advance-ai-solutions-carbon)
@@ -16,6 +15,7 @@
 * [2024-05-02, 21:24:42](https://news.ycombinator.com/item?id=40241525) - [They thought they were joining an accelerator – instead they lost their startups](https://techcrunch.com/2024/05/02/they-thought-they-were-joining-an-accelerator-instead-they-lost-their-startups/)
 * [2024-05-02, 20:31:19](https://news.ycombinator.com/item?id=40241057) - [Hobby's algorithm for aesthetic Bézier splines](https://www.jakelow.com/blog/hobby-curves)
 * [2024-05-02, 20:25:32](https://news.ycombinator.com/item?id=40241002) - [Pseudo Graceful Process Termination Through Code Injection](https://sigma-star.at/blog/2024/02/exit0-code-injection/)
+* [2024-05-02, 19:55:59](https://news.ycombinator.com/item?id=40240737) - [Got an old Raspberry Pi spare? Try RISC OS. It is, something else](https://www.theregister.com/2024/05/02/rool_530_is_here/)
 * [2024-05-02, 19:54:48](https://news.ycombinator.com/item?id=40240724) - [Building a rocket engine from scratch](https://blog.ablspacesystems.com/p/building-e2)
 * [2024-05-02, 17:48:14](https://news.ycombinator.com/item?id=40239164) - [Making a 3D modeler in C in a week](https://danielchasehooper.com/posts/shapeup/)
 * [2024-05-02, 17:38:01](https://news.ycombinator.com/item?id=40239029) - [Piccolo – A Stackless Lua Interpreter](https://kyju.org/blog/piccolo-a-stackless-lua-interpreter/)
