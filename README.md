@@ -9,7 +9,6 @@
 * [2024-05-03, 13:46:41](https://news.ycombinator.com/item?id=40247604) - [DNS traffic can leak outside the VPN tunnel on Android](https://mullvad.net/en/blog/dns-traffic-can-leak-outside-the-vpn-tunnel-on-android)
 * [2024-05-03, 13:37:30](https://news.ycombinator.com/item?id=40247528) - [Blue-Recorder, a Simple Screen Recorder Written in Rust](https://github.com/xlmnxp/blue-recorder)
 * [2024-05-03, 13:26:38](https://news.ycombinator.com/item?id=40247421) - [Unique volumes of Brothers Grimm fairy tales discovered in Poland](https://english.nv.ua/life/27-unique-volumes-of-grimm-brothers-fairy-tales-were-found-in-poland-50415035.html)
-* [2024-05-03, 13:23:59](https://news.ycombinator.com/item?id=40247399) - [PoC to demonstrate root permission hijacking by exploiting “systemd-run”](https://twitter.com/hackerfantastic/status/1785495587514638559)
 * [2024-05-03, 13:06:19](https://news.ycombinator.com/item?id=40247254) - [The most important cryptography papers](https://evervault.com/papers)
 * [2024-05-03, 12:36:26](https://news.ycombinator.com/item?id=40246984) - [Creating a low-cost EV charging station with Arduino](https://blog.arduino.cc/2024/04/23/creating-a-low-cost-ev-charging-station-with-arduino/)
 * [2024-05-03, 12:20:37](https://news.ycombinator.com/item?id=40246841) - [Experimental blog that is only available to read through a feed reader](https://theunderground.blog/)
@@ -29,6 +28,7 @@
 * [2024-05-02, 08:35:03](https://news.ycombinator.com/item?id=40233979) - [00Key a 75% Keyboard](https://github.com/ZeroZeroOne-dev/00Key)
 * [2024-05-02, 06:22:48](https://news.ycombinator.com/item?id=40233259) - [Goodyear Inflatoplane](https://en.wikipedia.org/wiki/Goodyear_Inflatoplane)
 * [2024-05-01, 09:15:12](https://news.ycombinator.com/item?id=40221067) - [The Nature of Code (2nd Edition)](https://natureofcode.com/introduction/)
+* [2024-04-30, 23:05:12](https://news.ycombinator.com/item?id=40217554) - [A Mathematical Theory of Communication [pdf]](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
 * [2024-04-30, 17:31:52](https://news.ycombinator.com/item?id=40213588) - [Fire for Water: A tribe in California is helping to reshape fire management](https://www.biographic.com/fire-for-water/)
 
 ## [Archives](archives/index.md)
