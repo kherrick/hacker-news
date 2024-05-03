@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2024-05-03, 22:47:13",
-      "https://news.ycombinator.com/item?id=40253195"
+      "2024-05-03, 22:30:31",
+      "https://news.ycombinator.com/item?id=40253079"
     ],
     [
-      "The Canadian State Is Euthanizing Its Poor and Disabled",
-      "https://jacobin.com/2024/05/canada-euthanasia-poor-disabled-health-care"
+      "Snowflake's tech is not worth $50B dollars",
+      "https://old.reddit.com/r/wallstreetbets/comments/1cirikp/snowflake_isnt_worth_50_billion_dollars/"
     ]
   ],
   [
@@ -37,6 +37,16 @@
     [
       "Microsoft ties executive pay to security after multiple failures and breaches",
       "https://arstechnica.com/information-technology/2024/05/microsoft-ties-executive-pay-to-security-following-multiple-failures-and-breaches/"
+    ]
+  ],
+  [
+    [
+      "2024-05-03, 21:26:46",
+      "https://news.ycombinator.com/item?id=40252569"
+    ],
+    [
+      "Show HN: I built a free in-browser Llama 3 chatbot powered by WebGPU",
+      "https://github.com/abi/secret-llama"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "A portable Common Lisp toolkit for building inspectors",
       "https://github.com/aartaka/trivial-inspect"
-    ]
-  ],
-  [
-    [
-      "2024-05-03, 09:06:28",
-      "https://news.ycombinator.com/item?id=40245637"
-    ],
-    [
-      "How to Use JSON Path",
-      "https://bump.sh/blog/how-to-use-json-path"
     ]
   ],
   [
