@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-03](index.md)
 
+* [2024-05-03, 04:35:46](https://news.ycombinator.com/item?id=40244075) - [Extremist Militias Are Coordinating in More Than 100 Facebook Groups](https://www.wired.com/story/extremist-militias-are-coordinating-on-facebook/)
 * [2024-05-03, 03:08:32](https://news.ycombinator.com/item?id=40243630) - [Hyundai is spending $1B to keep self-driving startup Motional alive](https://techcrunch.com/2024/05/02/hyundai-is-spending-close-to-1-billion-to-keep-self-driving-startup-motional-alive/)
 * [2024-05-03, 01:58:33](https://news.ycombinator.com/item?id=40243242) - [Georgia Tech/Meta Create Open Dataset to Advance AI for Carbon Capture](https://news.gatech.edu/news/2024/05/02/georgia-tech-and-meta-create-massive-open-dataset-advance-ai-solutions-carbon)
 * [2024-05-03, 01:58:21](https://news.ycombinator.com/item?id=40243238) - [Cardio fitness is a strong, consistent predictor of morbidity and mortality](https://bjsm.bmj.com/content/58/10/556)
