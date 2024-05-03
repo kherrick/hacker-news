@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-03, 17:41:33](https://news.ycombinator.com/item?id=40250245) - [Palantir CEO suggests drone striking business rivals](https://www.politico.com/news/2024/05/01/alex-karp-hill-summit-trump-00155571)
+* [2024-05-03, 18:11:25](https://news.ycombinator.com/item?id=40250557) - [Show HN: BandMatch – \"Tinder\" but for finding musicians to create bands/collab](https://bandmatch.app)
 * [2024-05-03, 17:06:29](https://news.ycombinator.com/item?id=40249876) - [CO2 removal 'gap' shows countries 'lack progress' for 1.5C warming limit](https://www.carbonbrief.org/co2-removal-gap-shows-countries-lack-progress-for-1-5c-warming-limit/)
 * [2024-05-03, 17:00:23](https://news.ycombinator.com/item?id=40249808) - [Legion Health (YC S21) Is Hiring](https://www.ycombinator.com/companies/legion-health/jobs/2Ug8ABL-founding-engineer)
 * [2024-05-03, 16:48:47](https://news.ycombinator.com/item?id=40249696) - [DrEureka: Language Model Guided SIM-to-Real Transfer](https://eureka-research.github.io/dr-eureka/)
@@ -15,7 +15,6 @@
 * [2024-05-03, 13:46:41](https://news.ycombinator.com/item?id=40247604) - [DNS traffic can leak outside the VPN tunnel on Android](https://mullvad.net/en/blog/dns-traffic-can-leak-outside-the-vpn-tunnel-on-android)
 * [2024-05-03, 13:37:30](https://news.ycombinator.com/item?id=40247528) - [Blue-Recorder, a Simple Screen Recorder Written in Rust](https://github.com/xlmnxp/blue-recorder)
 * [2024-05-03, 13:26:38](https://news.ycombinator.com/item?id=40247421) - [Unique volumes of Brothers Grimm fairy tales discovered in Poland](https://english.nv.ua/life/27-unique-volumes-of-grimm-brothers-fairy-tales-were-found-in-poland-50415035.html)
-* [2024-05-03, 12:20:37](https://news.ycombinator.com/item?id=40246841) - [Experimental blog that is only available to read through a feed reader](https://theunderground.blog/)
 * [2024-05-03, 11:30:05](https://news.ycombinator.com/item?id=40246445) - [Show HN: ScriX – Chrome extension summarizing speech into bullet points](https://chromewebstore.google.com/detail/scrix-audio-to-text-trans/aapbilffnkjhifbaejfmcjjcpdpadjfm)
 * [2024-05-03, 10:43:50](https://news.ycombinator.com/item?id=40246185) - [A portable Common Lisp toolkit for building inspectors](https://github.com/aartaka/trivial-inspect)
 * [2024-05-03, 10:02:42](https://news.ycombinator.com/item?id=40245942) - [Fifty Years of the Personal Computer Operating System](https://medium.com/chmcore/fifty-years-of-the-personal-computer-operating-system-185b1dc59231)
@@ -25,6 +24,7 @@
 * [2024-05-03, 07:16:55](https://news.ycombinator.com/item?id=40245050) - [Show HN: I built a site to share code boilerplates](https://boilermate.site/hot)
 * [2024-05-03, 04:50:56](https://news.ycombinator.com/item?id=40244165) - [Ontario family doctor says new AI notetaking saved her job](https://globalnews.ca/news/10463535/ontario-family-doctor-artificial-intelligence-notes/)
 * [2024-05-03, 01:44:30](https://news.ycombinator.com/item?id=40243168) - [I’m writing a new vector search SQLite Extension](https://alexgarcia.xyz/blog/2024/building-new-vector-search-sqlite/index.html)
+* [2024-05-02, 17:48:14](https://news.ycombinator.com/item?id=40239164) - [Making a 3D modeler in C in a week](https://danielchasehooper.com/posts/shapeup/)
 * [2024-05-02, 06:22:48](https://news.ycombinator.com/item?id=40233259) - [Goodyear Inflatoplane](https://en.wikipedia.org/wiki/Goodyear_Inflatoplane)
 * [2024-05-02, 05:09:35](https://news.ycombinator.com/item?id=40232896) - [Godot 4.3 Dev Snapshot 6 Updates](https://godotengine.org/article/dev-snapshot-godot-4-3-dev-6/)
 * [2024-05-01, 09:15:12](https://news.ycombinator.com/item?id=40221067) - [The Nature of Code (2nd Edition)](https://natureofcode.com/introduction/)
