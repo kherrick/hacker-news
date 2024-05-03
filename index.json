@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-05-03, 12:36:26",
+      "https://news.ycombinator.com/item?id=40246984"
+    ],
+    [
+      "Creating a low-cost EV charging station with Arduino",
+      "https://blog.arduino.cc/2024/04/23/creating-a-low-cost-ev-charging-station-with-arduino/"
+    ]
+  ],
+  [
+    [
+      "2024-05-03, 12:20:37",
+      "https://news.ycombinator.com/item?id=40246841"
+    ],
+    [
+      "Experimental blog that is only available to read through a feed reader",
+      "https://theunderground.blog/"
+    ]
+  ],
+  [
+    [
       "2024-05-03, 12:00:03",
       "https://news.ycombinator.com/item?id=40246682"
     ],
@@ -21,16 +41,6 @@
   ],
   [
     [
-      "2024-05-03, 10:40:28",
-      "https://news.ycombinator.com/item?id=40246171"
-    ],
-    [
-      "Deletion of user account",
-      "https://www.soflow.com/eu/product/deletion-of-user-account/"
-    ]
-  ],
-  [
-    [
       "2024-05-03, 10:13:38",
       "https://news.ycombinator.com/item?id=40246021"
     ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=40245843"
     ],
     [
-      "Auckland is built atop a labyrinth of underground caves",
+      "Auckland, New Zealand: A city with a labyrinth of underground caves",
       "https://www.bbc.com/future/article/20240501-the-new-zealand-city-with-a-labyrinth-of-underground-caves"
     ]
   ],
@@ -71,22 +81,22 @@
   ],
   [
     [
-      "2024-05-03, 08:40:58",
-      "https://news.ycombinator.com/item?id=40245509"
-    ],
-    [
-      "Apple announces $110B share buyback after quarterly profit and revenue drop",
-      "https://www.thenationalnews.com/business/markets/2024/05/02/apple-announces-110bn-share-buyback-after-quarterly-profit-and-revenue-drop/"
-    ]
-  ],
-  [
-    [
       "2024-05-03, 08:08:19",
       "https://news.ycombinator.com/item?id=40245348"
     ],
     [
       "I can fix this PC, boss, but I'll need to play games for hours to do it",
       "https://www.theregister.com/2024/05/03/on_call/"
+    ]
+  ],
+  [
+    [
+      "2024-05-03, 07:16:55",
+      "https://news.ycombinator.com/item?id=40245050"
+    ],
+    [
+      "Show HN: I built a site to share code boilerplates",
+      "https://boilermate.site/hot"
     ]
   ],
   [
@@ -101,21 +111,11 @@
   ],
   [
     [
-      "2024-05-03, 03:08:32",
-      "https://news.ycombinator.com/item?id=40243630"
-    ],
-    [
-      "Hyundai is spending $1B to keep self-driving startup Motional alive",
-      "https://techcrunch.com/2024/05/02/hyundai-is-spending-close-to-1-billion-to-keep-self-driving-startup-motional-alive/"
-    ]
-  ],
-  [
-    [
       "2024-05-03, 01:58:33",
       "https://news.ycombinator.com/item?id=40243242"
     ],
     [
-      "Georgia Tech/Meta Create Open Dataset to Advance AI for Carbon Capture",
+      "Georgia Tech, Meta create open dataset to advance solutions for carbon capture",
       "https://news.gatech.edu/news/2024/05/02/georgia-tech-and-meta-create-massive-open-dataset-advance-ai-solutions-carbon"
     ]
   ],
@@ -165,7 +165,7 @@
       "https://news.ycombinator.com/item?id=40242335"
     ],
     [
-      "Google's Synonym Extraction Methods (2010)",
+      "More info about synonyms at Google (2010)",
       "https://www.mattcutts.com/blog/google-synonyms/"
     ]
   ],
