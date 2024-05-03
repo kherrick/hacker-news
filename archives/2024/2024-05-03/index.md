@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-05-03](index.md)
 
+* [2024-05-03, 17:06:29](https://news.ycombinator.com/item?id=40249876) - [CO2 removal 'gap' shows countries 'lack progress' for 1.5C warming limit](https://www.carbonbrief.org/co2-removal-gap-shows-countries-lack-progress-for-1-5c-warming-limit/)
 * [2024-05-03, 17:00:23](https://news.ycombinator.com/item?id=40249808) - [Legion Health (YC S21) Is Hiring](https://www.ycombinator.com/companies/legion-health/jobs/2Ug8ABL-founding-engineer)
 * [2024-05-03, 16:48:47](https://news.ycombinator.com/item?id=40249696) - [DrEureka: Language Model Guided SIM-to-Real Transfer](https://eureka-research.github.io/dr-eureka/)
 * [2024-05-03, 15:39:42](https://news.ycombinator.com/item?id=40248924) - [Palantir CEO Alex Karp jokes about drone-striking rivals](https://www.politico.com/news/2024/05/01/alex-karp-hill-summit-trump-00155571)
 * [2024-05-03, 15:36:36](https://news.ycombinator.com/item?id=40248889) - [The labour arbitrage theory of dev tool popularity](https://www.baldurbjarnason.com/2024/react-electron-llms-labour-arbitrage/)
 * [2024-05-03, 15:22:17](https://news.ycombinator.com/item?id=40248721) - [Manta Ray Uncrewed Underwater Vehicle Prototype Completes In-Water Testing](https://www.darpa.mil/news-events/2024-05-01)
 * [2024-05-03, 15:14:16](https://news.ycombinator.com/item?id=40248627) - [Lithium-free sodium batteries exit the lab and enter US production](https://newatlas.com/energy/natron-sodium-ion-battery-production-startt/)
+* [2024-05-03, 15:07:06](https://news.ycombinator.com/item?id=40248530) - [What You Need to Know about Modern CSS (Spring 2024 Edition)](https://frontendmasters.com/blog/what-you-need-to-know-about-modern-css-spring-2024-edition/)
 * [2024-05-03, 15:05:59](https://news.ycombinator.com/item?id=40248514) - [I Spent 24 Hours with GitHub Copilot Workspaces](https://every.to/chain-of-thought/i-spent-24-hours-with-github-copilot-workspaces)
 * [2024-05-03, 14:39:49](https://news.ycombinator.com/item?id=40248217) - [Lowercase – A simple way to take and share notes](https://www.lowercase.app/)
 * [2024-05-03, 14:12:14](https://news.ycombinator.com/item?id=40247877) - [Airbus A340, built to rule long-haul travel. Now it's vanishing](https://www.cnn.com/travel/the-a340-vanishing/index.html)
