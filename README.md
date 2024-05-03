@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-03, 21:00:24](https://news.ycombinator.com/item?id=40252334) - [Finley (YC W21) is hiring securitization and structured finance professionals](https://jobs.lever.co/FinleyTechnologies/70462b30-c31a-4db3-932a-0abb96ec5566)
+* [2024-05-03, 20:36:29](https://news.ycombinator.com/item?id=40252107) - [Why is Firefox called Firefox?](https://lunduke.locals.com/post/5577706/why-is-firefox-called-firefox)
 * [2024-05-03, 20:31:43](https://news.ycombinator.com/item?id=40252053) - [Show HN: Lightsaber Battle – May the Fourth Be with You](https://www.lightsabercursor.com/)
 * [2024-05-03, 19:25:22](https://news.ycombinator.com/item?id=40251317) - [Karate physics: How your hand can break concrete without breaking itself](https://daily.jstor.org/the-physics-of-karate/)
 * [2024-05-03, 18:11:25](https://news.ycombinator.com/item?id=40250557) - [Show HN: BandMatch – \"Tinder\" but for finding musicians to create bands/collab](https://bandmatch.app)
@@ -9,7 +10,6 @@
 * [2024-05-03, 17:39:59](https://news.ycombinator.com/item?id=40250226) - [Evidence of price-fixing in the oil industry?](https://www.thebignewsletter.com/p/an-oil-price-fixing-conspiracy-caused)
 * [2024-05-03, 17:25:26](https://news.ycombinator.com/item?id=40250056) - [As private equity dominates wheelchair market, users wait months for repairs](https://www.statnews.com/2024/05/01/wheelchair-repair-delay-numotion-national-seating-mobility/)
 * [2024-05-03, 16:48:47](https://news.ycombinator.com/item?id=40249696) - [DrEureka: Language Model Guided SIM-to-Real Transfer](https://eureka-research.github.io/dr-eureka/)
-* [2024-05-03, 16:27:50](https://news.ycombinator.com/item?id=40249474) - [Perimeter – Open-Source Real-Time Strategy Game](https://github.com/KD-lab-Open-Source/Perimeter)
 * [2024-05-03, 15:14:16](https://news.ycombinator.com/item?id=40248627) - [Lithium-free sodium batteries exit the lab and enter US production](https://newatlas.com/energy/natron-sodium-ion-battery-production-startt/)
 * [2024-05-03, 15:07:06](https://news.ycombinator.com/item?id=40248530) - [What You Need to Know about Modern CSS (Spring 2024 Edition)](https://frontendmasters.com/blog/what-you-need-to-know-about-modern-css-spring-2024-edition/)
 * [2024-05-03, 14:39:49](https://news.ycombinator.com/item?id=40248217) - [Lowercase – A simple way to take and share notes](https://www.lowercase.app/)
