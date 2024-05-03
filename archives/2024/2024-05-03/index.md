@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-03](index.md)
 
+* [2024-05-03, 20:04:37](https://news.ycombinator.com/item?id=40251777) - [At Microsoft, years of security debt come crashing down](https://www.osnews.com/story/139528/at-microsoft-years-of-security-debt-come-crashing-down/)
 * [2024-05-03, 19:50:45](https://news.ycombinator.com/item?id=40251625) - [Ask HN: The Problem with \"AI Startups\"?](https://news.ycombinator.com/item?id=40251625)
 * [2024-05-03, 19:38:02](https://news.ycombinator.com/item?id=40251463) - [\"We live and we die. We control nothing beyond that.\"](https://americandreaming.substack.com/p/we-live-and-we-die-we-control-nothing)
 * [2024-05-03, 19:25:22](https://news.ycombinator.com/item?id=40251317) - [Karate physics: How your hand can break concrete without breaking itself](https://daily.jstor.org/the-physics-of-karate/)
