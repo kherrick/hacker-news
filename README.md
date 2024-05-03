@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-03, 21:32:32](https://news.ycombinator.com/item?id=40252619) - [Microsoft ties executive pay to security after multiple failures and breaches](https://arstechnica.com/information-technology/2024/05/microsoft-ties-executive-pay-to-security-following-multiple-failures-and-breaches/)
 * [2024-05-03, 21:20:57](https://news.ycombinator.com/item?id=40252525) - [Discord Applying Forced Arbitration - opt-out before it is too late!](https://bsky.app/profile/silverwuffamute.bsky.social/post/3kqbd476nvk2i)
 * [2024-05-03, 21:00:24](https://news.ycombinator.com/item?id=40252334) - [Finley (YC W21) is hiring securitization and structured finance professionals](https://jobs.lever.co/FinleyTechnologies/70462b30-c31a-4db3-932a-0abb96ec5566)
-* [2024-05-03, 20:36:29](https://news.ycombinator.com/item?id=40252107) - [Why is Firefox called Firefox?](https://lunduke.locals.com/post/5577706/why-is-firefox-called-firefox)
 * [2024-05-03, 20:31:43](https://news.ycombinator.com/item?id=40252053) - [Show HN: Lightsaber Battle – May the Fourth Be with You](https://www.lightsabercursor.com/)
 * [2024-05-03, 19:25:22](https://news.ycombinator.com/item?id=40251317) - [Karate physics: How your hand can break concrete without breaking itself (2021)](https://daily.jstor.org/the-physics-of-karate/)
 * [2024-05-03, 18:11:25](https://news.ycombinator.com/item?id=40250557) - [Show HN: BandMatch – \"Tinder\" but for finding musicians to create bands/collab](https://bandmatch.app)
