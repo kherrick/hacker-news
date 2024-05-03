@@ -94,6 +94,7 @@
 * [2024-05-02, 09:25:17](https://news.ycombinator.com/item?id=40234260) - [I'm closing up shop on my Mastodon for the foreseeable future](https://vkc.sh/its-not-you-its-me-taking-a-break-from-mastodon/)
 * [2024-05-02, 09:24:28](https://news.ycombinator.com/item?id=40234254) - [Dissecting LockBit v3 Ransomware](https://blog.calif.io/p/dissecting-lockbit-v3-ransomware)
 * [2024-05-02, 08:37:32](https://news.ycombinator.com/item?id=40233990) - [Key Consciousness Connections Uncovered](https://neurosciencenews.com/consciousness-neuroimaging-brain-26017/)
+* [2024-05-02, 08:35:03](https://news.ycombinator.com/item?id=40233979) - [00Key a 75% Keyboard](https://github.com/ZeroZeroOne-dev/00Key)
 * [2024-05-02, 08:11:27](https://news.ycombinator.com/item?id=40233841) - [Tesla slashes its summer internship program](https://fortune.com/2024/05/01/tesla-slashes-summer-internship-program/)
 * [2024-05-02, 07:58:48](https://news.ycombinator.com/item?id=40233786) - [Typewise (YC S22) is hiring a Full-Stack Engineer for AI writing assistant](https://www.ycombinator.com/companies/typewise/jobs/U40CJ60-senior-full-stack-engineer-f-m-x)
 * [2024-05-02, 07:58:38](https://news.ycombinator.com/item?id=40233784) - [The Snapdragon 855's iGPU](https://chipsandcheese.com/2024/05/01/inside-the-snapdragon-855s-igpu/)
