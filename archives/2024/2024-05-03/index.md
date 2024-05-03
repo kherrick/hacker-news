@@ -7,6 +7,7 @@
 * [2024-05-03, 12:36:26](https://news.ycombinator.com/item?id=40246984) - [Creating a low-cost EV charging station with Arduino](https://blog.arduino.cc/2024/04/23/creating-a-low-cost-ev-charging-station-with-arduino/)
 * [2024-05-03, 12:20:37](https://news.ycombinator.com/item?id=40246841) - [Experimental blog that is only available to read through a feed reader](https://theunderground.blog/)
 * [2024-05-03, 12:00:03](https://news.ycombinator.com/item?id=40246682) - [Ribbon Health (YC S17) Is Hiring a Data Acquisition Tech Lead](https://www.ribbonhealth.com/open-roles?gh_jid=5118848004)
+* [2024-05-03, 11:36:20](https://news.ycombinator.com/item?id=40246477) - [Bank scammers using genuine push notifications to trick their victims](https://shkspr.mobi/blog/2024/05/bank-scammers-using-genuine-push-notifications-to-trick-their-victims/)
 * [2024-05-03, 11:23:42](https://news.ycombinator.com/item?id=40246398) - [How to Make More Money Renting a GPU Than Nvidia Makes Selling It](https://www.nextplatform.com/2024/05/02/how-to-make-more-money-renting-a-gpu-than-nvidia-makes-selling-it/)
 * [2024-05-03, 10:40:28](https://news.ycombinator.com/item?id=40246171) - [Deletion of user account (€ 19,90)](https://www.soflow.com/eu/product/deletion-of-user-account/)
 * [2024-05-03, 10:13:38](https://news.ycombinator.com/item?id=40246021) - [Starlink geofence appears to have some gaping holes](https://www.theregister.com/2024/05/03/spacex_roaming_lockdown/)
