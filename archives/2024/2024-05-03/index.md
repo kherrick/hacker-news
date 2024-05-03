@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-03](index.md)
 
+* [2024-05-03, 23:12:52](https://news.ycombinator.com/item?id=40253352) - [Texas A&M Qatar campus to close by 2028](https://www.qatar.tamu.edu/news-and-events/news/2024/02/09/texas-a-and-m-qatar-campus-to-close-by-2028/)
+* [2024-05-03, 22:47:13](https://news.ycombinator.com/item?id=40253195) - [The Canadian State Is Euthanizing Its Poor and Disabled](https://jacobin.com/2024/05/canada-euthanasia-poor-disabled-health-care)
 * [2024-05-03, 22:12:46](https://news.ycombinator.com/item?id=40252965) - [China's quiet energy revolution: the switch from nuclear to renewable energy](https://johnmenadue.com/chinas-quiet-energy-revolution-the-switch-from-nuclear-to-renewable-energy/)
 * [2024-05-03, 21:32:32](https://news.ycombinator.com/item?id=40252619) - [Microsoft ties executive pay to security after multiple failures and breaches](https://arstechnica.com/information-technology/2024/05/microsoft-ties-executive-pay-to-security-following-multiple-failures-and-breaches/)
 * [2024-05-03, 21:20:57](https://news.ycombinator.com/item?id=40252525) - [Discord Applying Forced Arbitration - opt-out before it is too late!](https://bsky.app/profile/silverwuffamute.bsky.social/post/3kqbd476nvk2i)
