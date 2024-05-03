@@ -6,6 +6,7 @@
 
 * [2024-05-02, 23:56:08](https://news.ycombinator.com/item?id=40242639) - [Stirling PDF: Self-hosted, web-based PDF manipulation tool](https://github.com/Stirling-Tools/Stirling-PDF)
 * [2024-05-02, 23:17:40](https://news.ycombinator.com/item?id=40242410) - [A Single Div](https://a.singlediv.com/)
+* [2024-05-02, 23:13:19](https://news.ycombinator.com/item?id=40242379) - [You receive a call on your phone. The caller says they're from your bank](https://mastodon.social/@Edent/112372412442888807)
 * [2024-05-02, 23:05:57](https://news.ycombinator.com/item?id=40242335) - [Google's Synonym Extraction Methods](https://www.mattcutts.com/blog/google-synonyms/)
 * [2024-05-02, 23:00:37](https://news.ycombinator.com/item?id=40242303) - [Former Burning Man headquarters building sells at 90% discount](https://sfist.com/2024/04/23/empty-office-building-at-sixth-and-market-which-last-sold-for-62-million-now-sells-for-just-6-5-million/)
 * [2024-05-02, 22:58:52](https://news.ycombinator.com/item?id=40242297) - [An analysis of the rabbit R1 APK](https://www.emergetools.com/deep-dives/rabbit-r1)
