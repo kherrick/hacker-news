@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-02](index.md)
 
+* [2024-05-02, 23:56:08](https://news.ycombinator.com/item?id=40242639) - [Stirling PDF: Self-hosted, web-based PDF manipulation tool](https://github.com/Stirling-Tools/Stirling-PDF)
 * [2024-05-02, 23:17:40](https://news.ycombinator.com/item?id=40242410) - [A Single Div](https://a.singlediv.com/)
 * [2024-05-02, 23:05:57](https://news.ycombinator.com/item?id=40242335) - [Google's Synonym Extraction Methods](https://www.mattcutts.com/blog/google-synonyms/)
 * [2024-05-02, 23:00:37](https://news.ycombinator.com/item?id=40242303) - [Former Burning Man headquarters building sells at 90% discount](https://sfist.com/2024/04/23/empty-office-building-at-sixth-and-market-which-last-sold-for-62-million-now-sells-for-just-6-5-million/)
