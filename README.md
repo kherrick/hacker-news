@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-03, 09:47:07](https://news.ycombinator.com/item?id=40245843) - [Auckland is built atop a labyrinth of underground caves](https://www.bbc.com/future/article/20240501-the-new-zealand-city-with-a-labyrinth-of-underground-caves)
 * [2024-05-03, 09:06:28](https://news.ycombinator.com/item?id=40245637) - [How to Use JSON Path](https://bump.sh/blog/how-to-use-json-path)
 * [2024-05-03, 09:00:51](https://news.ycombinator.com/item?id=40245601) - [Woodworking as an Escape from the Absurdity of Software](https://alinpanaitiu.com/blog/woodworking-escape-from-software-absurdity/)
 * [2024-05-03, 07:01:00](https://news.ycombinator.com/item?id=40244962) - [Raycast (YC W20) is hiring Rust engineer (Remote, Europe, €104k – €160k)](https://www.raycast.com/jobs/software-engineer-rust)
@@ -21,7 +22,6 @@
 * [2024-05-02, 19:54:48](https://news.ycombinator.com/item?id=40240724) - [Building a rocket engine from scratch](https://blog.ablspacesystems.com/p/building-e2)
 * [2024-05-02, 17:48:14](https://news.ycombinator.com/item?id=40239164) - [Making a 3D modeler in C in a week](https://danielchasehooper.com/posts/shapeup/)
 * [2024-05-02, 17:38:01](https://news.ycombinator.com/item?id=40239029) - [Piccolo – A Stackless Lua Interpreter](https://kyju.org/blog/piccolo-a-stackless-lua-interpreter/)
-* [2024-05-02, 16:15:54](https://news.ycombinator.com/item?id=40237947) - [Gene banks aren’t enough to save the world’s food](https://longnow.org/ideas/to-save-it-eat-it/)
 * [2024-05-02, 10:45:26](https://news.ycombinator.com/item?id=40234682) - [Silk Helped the Armies of Genghis Khan Conquer Asia](https://lithub.com/how-silk-helped-the-armies-of-genghis-khan-conquer-asia/)
 * [2024-05-02, 09:49:35](https://news.ycombinator.com/item?id=40234383) - [Teranoptia – a typeface that allows you to imagine chimeric creatures](https://www.tunera.xyz/fonts/teranoptia/)
 * [2024-05-02, 07:50:34](https://news.ycombinator.com/item?id=40233736) - [The world's loudest Lisp program to the rescue](https://blog.funcall.org//lisp%20psychoacoustics/2024/05/01/worlds-loudest-lisp-program/)
