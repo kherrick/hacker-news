@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-03, 15:22:17](https://news.ycombinator.com/item?id=40248721) - [Manta Ray Uncrewed Underwater Vehicle Prototype Completes In-Water Testing](https://www.darpa.mil/news-events/2024-05-01)
 * [2024-05-03, 15:14:16](https://news.ycombinator.com/item?id=40248627) - [Lithium-free sodium batteries exit the lab and enter US production](https://newatlas.com/energy/natron-sodium-ion-battery-production-startt/)
 * [2024-05-03, 14:39:49](https://news.ycombinator.com/item?id=40248217) - [Lowercase – A simple way to take and share notes](https://www.lowercase.app/)
 * [2024-05-03, 14:12:14](https://news.ycombinator.com/item?id=40247877) - [The Airbus A340 was built to rule long-haul travel, but now it’s vanishing](https://www.cnn.com/travel/the-a340-vanishing/index.html)
@@ -23,7 +24,6 @@
 * [2024-05-03, 01:58:33](https://news.ycombinator.com/item?id=40243242) - [Georgia Tech, Meta create open dataset to advance solutions for carbon capture](https://news.gatech.edu/news/2024/05/02/georgia-tech-and-meta-create-massive-open-dataset-advance-ai-solutions-carbon)
 * [2024-05-03, 01:44:30](https://news.ycombinator.com/item?id=40243168) - [I’m writing a new vector search SQLite Extension](https://alexgarcia.xyz/blog/2024/building-new-vector-search-sqlite/index.html)
 * [2024-05-03, 01:10:32](https://news.ycombinator.com/item?id=40243014) - [Dressmaking CAD](https://xn--6xw240d.net/)
-* [2024-05-02, 23:56:08](https://news.ycombinator.com/item?id=40242639) - [Stirling PDF: Self-hosted, web-based PDF manipulation tool](https://github.com/Stirling-Tools/Stirling-PDF)
 * [2024-05-02, 23:17:40](https://news.ycombinator.com/item?id=40242410) - [A Single Div](https://a.singlediv.com/)
 * [2024-05-02, 17:48:14](https://news.ycombinator.com/item?id=40239164) - [Making a 3D modeler in C in a week](https://danielchasehooper.com/posts/shapeup/)
 * [2024-05-02, 08:35:03](https://news.ycombinator.com/item?id=40233979) - [00Key a 75% Keyboard](https://github.com/ZeroZeroOne-dev/00Key)
