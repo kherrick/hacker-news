@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-03](index.md)
 
+* [2024-05-03, 01:58:33](https://news.ycombinator.com/item?id=40243242) - [Georgia Tech/Meta Create Open Dataset to Advance AI for Carbon Capture](https://news.gatech.edu/news/2024/05/02/georgia-tech-and-meta-create-massive-open-dataset-advance-ai-solutions-carbon)
 * [2024-05-03, 01:58:21](https://news.ycombinator.com/item?id=40243238) - [Cardio fitness is a strong, consistent predictor of morbidity and mortality](https://bjsm.bmj.com/content/58/10/556)
 * [2024-05-03, 01:44:30](https://news.ycombinator.com/item?id=40243168) - [I'm writing a new vector search SQLite Extension](https://alexgarcia.xyz/blog/2024/building-new-vector-search-sqlite/index.html)
 * [2024-05-03, 01:29:28](https://news.ycombinator.com/item?id=40243106) - [Stdx – The Missing Batteries of Rust](https://github.com/brson/stdx)
