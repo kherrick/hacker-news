@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-03, 09:06:28](https://news.ycombinator.com/item?id=40245637) - [How to Use JSON Path](https://bump.sh/blog/how-to-use-json-path)
+* [2024-05-03, 09:00:51](https://news.ycombinator.com/item?id=40245601) - [Woodworking as an Escape from the Absurdity of Software](https://alinpanaitiu.com/blog/woodworking-escape-from-software-absurdity/)
 * [2024-05-03, 07:01:00](https://news.ycombinator.com/item?id=40244962) - [Raycast (YC W20) is hiring Rust engineer (Remote, Europe, €104k – €160k)](https://www.raycast.com/jobs/software-engineer-rust)
 * [2024-05-03, 04:00:29](https://news.ycombinator.com/item?id=40243895) - [Thirteen year old singularity bug fixed](https://github.com/tgstation/tgstation/pull/83005)
 * [2024-05-03, 03:08:32](https://news.ycombinator.com/item?id=40243630) - [Hyundai is spending $1B to keep self-driving startup Motional alive](https://techcrunch.com/2024/05/02/hyundai-is-spending-close-to-1-billion-to-keep-self-driving-startup-motional-alive/)
@@ -25,8 +26,7 @@
 * [2024-05-02, 09:49:35](https://news.ycombinator.com/item?id=40234383) - [Teranoptia – a typeface that allows you to imagine chimeric creatures](https://www.tunera.xyz/fonts/teranoptia/)
 * [2024-05-02, 07:50:34](https://news.ycombinator.com/item?id=40233736) - [The world's loudest Lisp program to the rescue](https://blog.funcall.org//lisp%20psychoacoustics/2024/05/01/worlds-loudest-lisp-program/)
 * [2024-05-02, 07:39:09](https://news.ycombinator.com/item?id=40233679) - [Losing My Hands](https://jxnl.co/writing/2024/04/29/losing-my-hands/)
-* [2024-05-02, 03:46:11](https://news.ycombinator.com/item?id=40232492) - [How did Ancient Greek music sound?](https://www.youtube.com/watch?v=4hOK7bU0S1Y)
-* [2024-05-01, 10:01:53](https://news.ycombinator.com/item?id=40221327) - [Paul Auster: How I Became a Writer (2014) [video]](https://channel.louisiana.dk/video/paul-auster-how-i-became-writer)
+* [2024-05-02, 06:22:48](https://news.ycombinator.com/item?id=40233259) - [Goodyear Inflatoplane](https://en.wikipedia.org/wiki/Goodyear_Inflatoplane)
 * [2024-05-01, 06:08:54](https://news.ycombinator.com/item?id=40220072) - [Every map of China is wrong](https://medium.com/@anastasia.bizyayeva/every-map-of-china-is-wrong-bc2bce145db2)
 * [2024-05-01, 00:04:07](https://news.ycombinator.com/item?id=40217998) - [Show HN: Browser-based web design platform with code import and CSS filters](https://demo.gocodestudio.com/studio/)
 * [2024-04-30, 18:52:07](https://news.ycombinator.com/item?id=40214736) - [Passkey Implementation: Misconceptions, pitfalls and unknown unknowns](https://www.corbado.com/blog/passkey-implementation-pitfalls-misconceptions-unknowns)
