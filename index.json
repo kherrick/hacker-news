@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-03, 11:23:42",
+      "https://news.ycombinator.com/item?id=40246398"
+    ],
+    [
+      "How to Make More Money Renting a GPU Than Nvidia Makes Selling It",
+      "https://www.nextplatform.com/2024/05/02/how-to-make-more-money-renting-a-gpu-than-nvidia-makes-selling-it/"
+    ]
+  ],
+  [
+    [
       "2024-05-03, 10:40:28",
       "https://news.ycombinator.com/item?id=40246171"
     ],
@@ -17,6 +27,16 @@
     [
       "Starlink geofence appears to have some gaping holes",
       "https://www.theregister.com/2024/05/03/spacex_roaming_lockdown/"
+    ]
+  ],
+  [
+    [
+      "2024-05-03, 10:02:31",
+      "https://news.ycombinator.com/item?id=40245940"
+    ],
+    [
+      "Why Rust cannot replace C++",
+      "https://medium.com/@pepitoscrespo/why-rust-cannot-replace-c-but-quite-the-contrary-5577e1f5af0a"
     ]
   ],
   [
@@ -51,6 +71,26 @@
   ],
   [
     [
+      "2024-05-03, 08:40:58",
+      "https://news.ycombinator.com/item?id=40245509"
+    ],
+    [
+      "Apple announces $110B share buyback after quarterly profit and revenue drop",
+      "https://www.thenationalnews.com/business/markets/2024/05/02/apple-announces-110bn-share-buyback-after-quarterly-profit-and-revenue-drop/"
+    ]
+  ],
+  [
+    [
+      "2024-05-03, 08:08:19",
+      "https://news.ycombinator.com/item?id=40245348"
+    ],
+    [
+      "I can fix this PC, boss, but I'll need to play games for hours to do it",
+      "https://www.theregister.com/2024/05/03/on_call/"
+    ]
+  ],
+  [
+    [
       "2024-05-03, 07:01:00",
       "https://news.ycombinator.com/item?id=40244962"
     ],
@@ -71,32 +111,12 @@
   ],
   [
     [
-      "2024-05-03, 03:08:32",
-      "https://news.ycombinator.com/item?id=40243630"
-    ],
-    [
-      "Hyundai is spending $1B to keep self-driving startup Motional alive",
-      "https://techcrunch.com/2024/05/02/hyundai-is-spending-close-to-1-billion-to-keep-self-driving-startup-motional-alive/"
-    ]
-  ],
-  [
-    [
       "2024-05-03, 01:58:33",
       "https://news.ycombinator.com/item?id=40243242"
     ],
     [
       "Georgia Tech/Meta Create Open Dataset to Advance AI for Carbon Capture",
       "https://news.gatech.edu/news/2024/05/02/georgia-tech-and-meta-create-massive-open-dataset-advance-ai-solutions-carbon"
-    ]
-  ],
-  [
-    [
-      "2024-05-03, 01:58:21",
-      "https://news.ycombinator.com/item?id=40243238"
-    ],
-    [
-      "Cardio fitness is a strong, consistent predictor of morbidity and mortality",
-      "https://bjsm.bmj.com/content/58/10/556"
     ]
   ],
   [
@@ -197,26 +217,6 @@
     [
       "Making a 3D modeler in C in a week",
       "https://danielchasehooper.com/posts/shapeup/"
-    ]
-  ],
-  [
-    [
-      "2024-05-02, 17:38:01",
-      "https://news.ycombinator.com/item?id=40239029"
-    ],
-    [
-      "Piccolo – A Stackless Lua Interpreter",
-      "https://kyju.org/blog/piccolo-a-stackless-lua-interpreter/"
-    ]
-  ],
-  [
-    [
-      "2024-05-02, 16:15:54",
-      "https://news.ycombinator.com/item?id=40237947"
-    ],
-    [
-      "Gene banks aren’t enough to save the world’s food",
-      "https://longnow.org/ideas/to-save-it-eat-it/"
     ]
   ],
   [
