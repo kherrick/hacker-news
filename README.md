@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-03, 17:00:23](https://news.ycombinator.com/item?id=40249808) - [Legion Health (YC S21) Is Hiring](https://www.ycombinator.com/companies/legion-health/jobs/2Ug8ABL-founding-engineer)
+* [2024-05-03, 16:48:47](https://news.ycombinator.com/item?id=40249696) - [DrEureka: Language Model Guided SIM-to-Real Transfer](https://eureka-research.github.io/dr-eureka/)
 * [2024-05-03, 15:36:36](https://news.ycombinator.com/item?id=40248889) - [The labour arbitrage theory of dev tool popularity](https://www.baldurbjarnason.com/2024/react-electron-llms-labour-arbitrage/)
 * [2024-05-03, 15:22:17](https://news.ycombinator.com/item?id=40248721) - [Manta Ray Uncrewed Underwater Vehicle Prototype Completes In-Water Testing](https://www.darpa.mil/news-events/2024-05-01)
 * [2024-05-03, 15:14:16](https://news.ycombinator.com/item?id=40248627) - [Lithium-free sodium batteries exit the lab and enter US production](https://newatlas.com/energy/natron-sodium-ion-battery-production-startt/)
@@ -11,9 +13,7 @@
 * [2024-05-03, 13:37:30](https://news.ycombinator.com/item?id=40247528) - [Blue-Recorder, a Simple Screen Recorder Written in Rust](https://github.com/xlmnxp/blue-recorder)
 * [2024-05-03, 13:26:38](https://news.ycombinator.com/item?id=40247421) - [Unique volumes of Brothers Grimm fairy tales discovered in Poland](https://english.nv.ua/life/27-unique-volumes-of-grimm-brothers-fairy-tales-were-found-in-poland-50415035.html)
 * [2024-05-03, 13:06:19](https://news.ycombinator.com/item?id=40247254) - [The most important cryptography papers](https://evervault.com/papers)
-* [2024-05-03, 12:36:26](https://news.ycombinator.com/item?id=40246984) - [Creating a low-cost EV charging station with Arduino](https://blog.arduino.cc/2024/04/23/creating-a-low-cost-ev-charging-station-with-arduino/)
 * [2024-05-03, 12:20:37](https://news.ycombinator.com/item?id=40246841) - [Experimental blog that is only available to read through a feed reader](https://theunderground.blog/)
-* [2024-05-03, 12:00:03](https://news.ycombinator.com/item?id=40246682) - [Ribbon Health (YC S17) Is Hiring a Data Acquisition Tech Lead](https://www.ribbonhealth.com/open-roles?gh_jid=5118848004)
 * [2024-05-03, 11:30:05](https://news.ycombinator.com/item?id=40246445) - [Show HN: ScriX – Chrome extension summarizing speech into bullet points](https://chromewebstore.google.com/detail/scrix-audio-to-text-trans/aapbilffnkjhifbaejfmcjjcpdpadjfm)
 * [2024-05-03, 09:29:58](https://news.ycombinator.com/item?id=40245769) - [A Minimal Model for Biological Evolution and Other Adaptive Processes](https://writings.stephenwolfram.com/2024/05/why-does-biological-evolution-work-a-minimal-model-for-biological-evolution-and-other-adaptive-processes/)
 * [2024-05-03, 09:06:28](https://news.ycombinator.com/item?id=40245637) - [How to Use JSON Path](https://bump.sh/blog/how-to-use-json-path)
