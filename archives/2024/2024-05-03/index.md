@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-03](index.md)
 
+* [2024-05-03, 18:27:40](https://news.ycombinator.com/item?id=40250724) - [Why It's Hard to Get Hired Despite Glowing Jobs Reports](https://www.wsj.com/lifestyle/careers/us-job-market-white-collar-workers-f453f0b5)
 * [2024-05-03, 18:11:25](https://news.ycombinator.com/item?id=40250557) - [Show HN: BandMatch – \"Tinder\" but for finding musicians to create bands/collab](https://bandmatch.app)
+* [2024-05-03, 18:07:17](https://news.ycombinator.com/item?id=40250525) - [SATO: Stable Text-to-Motion Framework](https://sato-team.github.io/Stable-Text-to-Motion-Framework/)
 * [2024-05-03, 17:41:33](https://news.ycombinator.com/item?id=40250245) - [Palantir CEO suggests drone striking business rivals](https://www.politico.com/news/2024/05/01/alex-karp-hill-summit-trump-00155571)
 * [2024-05-03, 17:39:59](https://news.ycombinator.com/item?id=40250226) - [An Oil Price-Fixing Conspiracy Caused 27% of All Inflation in 2021](https://www.thebignewsletter.com/p/an-oil-price-fixing-conspiracy-caused)
 * [2024-05-03, 17:06:29](https://news.ycombinator.com/item?id=40249876) - [CO2 removal 'gap' shows countries 'lack progress' for 1.5C warming limit](https://www.carbonbrief.org/co2-removal-gap-shows-countries-lack-progress-for-1-5c-warming-limit/)
