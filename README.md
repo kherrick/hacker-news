@@ -2,7 +2,6 @@
 
 * [2024-05-03, 04:50:56](https://news.ycombinator.com/item?id=40244165) - ['I will never go back': Ontario doctor says new AI notetaking saved her job](https://globalnews.ca/news/10463535/ontario-family-doctor-artificial-intelligence-notes/)
 * [2024-05-03, 03:08:32](https://news.ycombinator.com/item?id=40243630) - [Hyundai is spending $1B to keep self-driving startup Motional alive](https://techcrunch.com/2024/05/02/hyundai-is-spending-close-to-1-billion-to-keep-self-driving-startup-motional-alive/)
-* [2024-05-03, 03:02:18](https://news.ycombinator.com/item?id=40243598) - [Ask HN: I have been unable to land a job in two years, does anybody](https://news.ycombinator.com/item?id=40243598)
 * [2024-05-03, 01:58:33](https://news.ycombinator.com/item?id=40243242) - [Georgia Tech/Meta Create Open Dataset to Advance AI for Carbon Capture](https://news.gatech.edu/news/2024/05/02/georgia-tech-and-meta-create-massive-open-dataset-advance-ai-solutions-carbon)
 * [2024-05-03, 01:58:21](https://news.ycombinator.com/item?id=40243238) - [Cardio fitness is a strong, consistent predictor of morbidity and mortality](https://bjsm.bmj.com/content/58/10/556)
 * [2024-05-03, 01:44:30](https://news.ycombinator.com/item?id=40243168) - [I'm writing a new vector search SQLite Extension](https://alexgarcia.xyz/blog/2024/building-new-vector-search-sqlite/index.html)
@@ -20,6 +19,7 @@
 * [2024-05-02, 17:48:14](https://news.ycombinator.com/item?id=40239164) - [Making a 3D modeler in C in a week](https://danielchasehooper.com/posts/shapeup/)
 * [2024-05-02, 17:38:01](https://news.ycombinator.com/item?id=40239029) - [Piccolo – A Stackless Lua Interpreter](https://kyju.org/blog/piccolo-a-stackless-lua-interpreter/)
 * [2024-05-02, 17:21:43](https://news.ycombinator.com/item?id=40238788) - [Pleasure or pain? He maps the neural circuits that decide](https://www.quantamagazine.org/pleasure-or-pain-he-maps-the-neural-circuits-that-decide-20240416/)
+* [2024-05-02, 16:34:35](https://news.ycombinator.com/item?id=40238170) - [Rust: Box Is a Unique Type](https://blog.nilstrieb.dev/posts/box-is-a-unique-type/)
 * [2024-05-02, 16:15:54](https://news.ycombinator.com/item?id=40237947) - [Gene banks aren’t enough to save the world’s food](https://longnow.org/ideas/to-save-it-eat-it/)
 * [2024-05-02, 16:09:05](https://news.ycombinator.com/item?id=40237855) - [Wild orangutan seen healing his wound with a plant](https://www.bbc.co.uk/news/science-environment-68942123)
 * [2024-05-02, 16:00:43](https://news.ycombinator.com/item?id=40237745) - [Online Cryptography Course (2017)](https://crypto.stanford.edu/~dabo/courses/OnlineCrypto/)
