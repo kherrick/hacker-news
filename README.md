@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-03, 01:58:21](https://news.ycombinator.com/item?id=40243238) - [Cardio fitness is a strong, consistent predictor of morbidity and mortality](https://bjsm.bmj.com/content/58/10/556)
+* [2024-05-03, 01:44:30](https://news.ycombinator.com/item?id=40243168) - [I'm writing a new vector search SQLite Extension](https://alexgarcia.xyz/blog/2024/building-new-vector-search-sqlite/index.html)
 * [2024-05-03, 01:10:32](https://news.ycombinator.com/item?id=40243015) - [Collapsing Sheets of Spacetime Could Explain Dark Matter and Why Universe 'Hums'](https://www.scientificamerican.com/article/collapsing-sheets-of-spacetime-could-explain-dark-matter-and-why-the/)
 * [2024-05-03, 01:05:30](https://news.ycombinator.com/item?id=40242990) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=40242990)
 * [2024-05-03, 00:08:01](https://news.ycombinator.com/item?id=40242692) - [Vanguard just went live and LoL players are claiming it's bricking their PCs](https://dotesports.com/league-of-legends/news/vanguard-just-went-live-and-lol-players-are-already-claiming-its-bricking-their-pcs)
@@ -27,7 +28,6 @@
 * [2024-05-02, 07:50:34](https://news.ycombinator.com/item?id=40233736) - [The world's loudest Lisp program to the rescue](https://blog.funcall.org//lisp%20psychoacoustics/2024/05/01/worlds-loudest-lisp-program/)
 * [2024-05-02, 03:46:11](https://news.ycombinator.com/item?id=40232492) - [How did Ancient Greek music sound?](https://www.youtube.com/watch?v=4hOK7bU0S1Y)
 * [2024-05-02, 03:40:18](https://news.ycombinator.com/item?id=40232466) - [A knight's tale](https://blogs.bl.uk/digitisedmanuscripts/2024/04/a-knights-tale.html)
-* [2024-05-02, 00:25:45](https://news.ycombinator.com/item?id=40231332) - [Hacking on PostgreSQL is hard](http://rhaas.blogspot.com/2024/05/hacking-on-postgresql-is-really-hard.html)
 * [2024-05-01, 06:08:54](https://news.ycombinator.com/item?id=40220072) - [Every map of China is wrong](https://medium.com/@anastasia.bizyayeva/every-map-of-china-is-wrong-bc2bce145db2)
 * [2024-04-30, 18:52:07](https://news.ycombinator.com/item?id=40214736) - [Passkey Implementation: Misconceptions, pitfalls and unknown unknowns](https://www.corbado.com/blog/passkey-implementation-pitfalls-misconceptions-unknowns)
 
