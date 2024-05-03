@@ -106,6 +106,7 @@
 * [2024-05-02, 06:13:02](https://news.ycombinator.com/item?id=40233213) - [Whistle­blow­er who accused Boeing supplier of ignoring defects dies](https://www.aljazeera.com/economy/2024/5/2/whistleblower-joshua-dean-ex-worker-at-boeing-supplier-dies)
 * [2024-05-02, 05:38:42](https://news.ycombinator.com/item?id=40233029) - [The Fishy Death of Red Lobster](https://www.businessinsider.com/red-lobster-endless-shrimp-bankruptcy-private-equity-debt-real-estate-2024-5)
 * [2024-05-02, 05:11:25](https://news.ycombinator.com/item?id=40232903) - [Why I'm Resigning from the Intercept](https://www.kenklippenstein.com/p/why-im-resigning-from-the-intercept)
+* [2024-05-02, 05:09:35](https://news.ycombinator.com/item?id=40232896) - [Godot 4.3 Dev Snapshot 6 Updates](https://godotengine.org/article/dev-snapshot-godot-4-3-dev-6/)
 * [2024-05-02, 04:41:51](https://news.ycombinator.com/item?id=40232755) - [AI Photo Geolocation](https://geospy.ai/)
 * [2024-05-02, 04:29:01](https://news.ycombinator.com/item?id=40232706) - [Scientists Find a Fast Way to Describe Quantum Systems](https://www.quantamagazine.org/scientists-find-a-fast-way-to-describe-quantum-systems-20240501/)
 * [2024-05-02, 03:46:11](https://news.ycombinator.com/item?id=40232492) - [How did Ancient Greek music sound?](https://www.youtube.com/watch?v=4hOK7bU0S1Y)

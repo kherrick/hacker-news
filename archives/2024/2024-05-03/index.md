@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-03](index.md)
 
 * [2024-05-03, 15:39:42](https://news.ycombinator.com/item?id=40248924) - [Palantir CEO Alex Karp jokes about drone-striking rivals](https://www.politico.com/news/2024/05/01/alex-karp-hill-summit-trump-00155571)
+* [2024-05-03, 15:36:36](https://news.ycombinator.com/item?id=40248889) - [The labour arbitrage theory of dev tool popularity](https://www.baldurbjarnason.com/2024/react-electron-llms-labour-arbitrage/)
 * [2024-05-03, 15:22:17](https://news.ycombinator.com/item?id=40248721) - [Manta Ray Uncrewed Underwater Vehicle Prototype Completes In-Water Testing](https://www.darpa.mil/news-events/2024-05-01)
 * [2024-05-03, 15:14:16](https://news.ycombinator.com/item?id=40248627) - [Lithium-free sodium batteries exit the lab and enter US production](https://newatlas.com/energy/natron-sodium-ion-battery-production-startt/)
 * [2024-05-03, 15:05:59](https://news.ycombinator.com/item?id=40248514) - [I Spent 24 Hours with GitHub Copilot Workspaces](https://every.to/chain-of-thought/i-spent-24-hours-with-github-copilot-workspaces)
