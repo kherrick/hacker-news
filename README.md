@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-03, 15:39:42](https://news.ycombinator.com/item?id=40248924) - [Palantir CEO Alex Karp jokes about drone-striking rivals](https://www.politico.com/news/2024/05/01/alex-karp-hill-summit-trump-00155571)
 * [2024-05-03, 15:22:17](https://news.ycombinator.com/item?id=40248721) - [Manta Ray Uncrewed Underwater Vehicle Prototype Completes In-Water Testing](https://www.darpa.mil/news-events/2024-05-01)
 * [2024-05-03, 15:14:16](https://news.ycombinator.com/item?id=40248627) - [Lithium-free sodium batteries exit the lab and enter US production](https://newatlas.com/energy/natron-sodium-ion-battery-production-startt/)
 * [2024-05-03, 15:05:59](https://news.ycombinator.com/item?id=40248514) - [I Spent 24 Hours with GitHub Copilot Workspaces](https://every.to/chain-of-thought/i-spent-24-hours-with-github-copilot-workspaces)
 * [2024-05-03, 14:39:49](https://news.ycombinator.com/item?id=40248217) - [Lowercase – A simple way to take and share notes](https://www.lowercase.app/)
-* [2024-05-03, 14:12:14](https://news.ycombinator.com/item?id=40247877) - [The Airbus A340 was built to rule long-haul travel, but now it’s vanishing](https://www.cnn.com/travel/the-a340-vanishing/index.html)
 * [2024-05-03, 14:11:49](https://news.ycombinator.com/item?id=40247871) - [CSS Text Box Trim](https://github.com/jantimon/text-box-trim-examples)
 * [2024-05-03, 13:50:56](https://news.ycombinator.com/item?id=40247662) - [Mexico’s Floating Gardens Are an Ancient Wonder of Sustainable Farming](https://reasonstobecheerful.world/mexico-chinampas-floating-gardens-sustainable-farming/)
 * [2024-05-03, 13:46:41](https://news.ycombinator.com/item?id=40247604) - [DNS traffic can leak outside the VPN tunnel on Android](https://mullvad.net/en/blog/dns-traffic-can-leak-outside-the-vpn-tunnel-on-android)
