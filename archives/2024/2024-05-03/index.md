@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-05-03](index.md)
 
+* [2024-05-03, 14:12:14](https://news.ycombinator.com/item?id=40247877) - [Airbus A340, built to rule long-haul travel. Now it's vanishing](https://www.cnn.com/travel/the-a340-vanishing/index.html)
 * [2024-05-03, 13:50:56](https://news.ycombinator.com/item?id=40247662) - [Mexico's Floating Gardens Are an Ancient Wonder of Sustainable Farming](https://reasonstobecheerful.world/mexico-chinampas-floating-gardens-sustainable-farming/)
 * [2024-05-03, 13:46:41](https://news.ycombinator.com/item?id=40247604) - [DNS traffic can leak outside the VPN tunnel on Android](https://mullvad.net/en/blog/dns-traffic-can-leak-outside-the-vpn-tunnel-on-android)
+* [2024-05-03, 13:37:30](https://news.ycombinator.com/item?id=40247528) - [Blue-Recorder, a Simple Screen Recorder Written in Rust](https://github.com/xlmnxp/blue-recorder)
 * [2024-05-03, 13:31:06](https://news.ycombinator.com/item?id=40247474) - [Globalization was supposed to align the values. They're diverging](https://bigthink.com/the-present/worlds-values-diverging/)
+* [2024-05-03, 13:26:38](https://news.ycombinator.com/item?id=40247421) - [27 Unique volumes of Grimm brothers' fairy tales found in Poland](https://english.nv.ua/life/27-unique-volumes-of-grimm-brothers-fairy-tales-were-found-in-poland-50415035.html)
 * [2024-05-03, 13:23:59](https://news.ycombinator.com/item?id=40247399) - [PoC to demonstrate root permission hijacking by exploiting \"systemd-run\"](https://twitter.com/hackerfantastic/status/1785495587514638559)
 * [2024-05-03, 13:05:39](https://news.ycombinator.com/item?id=40247249) - [Some scientists can't stop using AI to write research papers](https://www.theregister.com/2024/05/03/ai_scientific_articles/)
 * [2024-05-03, 13:01:27](https://news.ycombinator.com/item?id=40247218) - [AI engineers report burnout, rushed rollouts as 'rat race' to stay competitive](https://www.cnbc.com/2024/05/03/ai-engineers-face-burnout-as-rat-race-to-stay-competitive-hits-tech.html)
