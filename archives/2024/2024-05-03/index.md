@@ -6,6 +6,7 @@
 
 * [2024-05-03, 15:22:17](https://news.ycombinator.com/item?id=40248721) - [Manta Ray Uncrewed Underwater Vehicle Prototype Completes In-Water Testing](https://www.darpa.mil/news-events/2024-05-01)
 * [2024-05-03, 15:14:16](https://news.ycombinator.com/item?id=40248627) - [Lithium-free sodium batteries exit the lab and enter US production](https://newatlas.com/energy/natron-sodium-ion-battery-production-startt/)
+* [2024-05-03, 15:05:59](https://news.ycombinator.com/item?id=40248514) - [I Spent 24 Hours with GitHub Copilot Workspaces](https://every.to/chain-of-thought/i-spent-24-hours-with-github-copilot-workspaces)
 * [2024-05-03, 14:39:49](https://news.ycombinator.com/item?id=40248217) - [Lowercase – A simple way to take and share notes](https://www.lowercase.app/)
 * [2024-05-03, 14:12:14](https://news.ycombinator.com/item?id=40247877) - [Airbus A340, built to rule long-haul travel. Now it's vanishing](https://www.cnn.com/travel/the-a340-vanishing/index.html)
 * [2024-05-03, 14:11:49](https://news.ycombinator.com/item?id=40247871) - [CSS Text Box Trim](https://github.com/jantimon/text-box-trim-examples)
@@ -29,6 +30,7 @@
 * [2024-05-03, 10:13:38](https://news.ycombinator.com/item?id=40246021) - [Starlink geofence appears to have some gaping holes](https://www.theregister.com/2024/05/03/spacex_roaming_lockdown/)
 * [2024-05-03, 10:02:31](https://news.ycombinator.com/item?id=40245940) - [Why Rust cannot replace C++](https://medium.com/@pepitoscrespo/why-rust-cannot-replace-c-but-quite-the-contrary-5577e1f5af0a)
 * [2024-05-03, 09:47:07](https://news.ycombinator.com/item?id=40245843) - [Auckland is built atop a labyrinth of underground caves](https://www.bbc.com/future/article/20240501-the-new-zealand-city-with-a-labyrinth-of-underground-caves)
+* [2024-05-03, 09:29:58](https://news.ycombinator.com/item?id=40245769) - [A Minimal Model for Biological Evolution and Other Adaptive Processes](https://writings.stephenwolfram.com/2024/05/why-does-biological-evolution-work-a-minimal-model-for-biological-evolution-and-other-adaptive-processes/)
 * [2024-05-03, 09:06:28](https://news.ycombinator.com/item?id=40245637) - [How to Use JSON Path](https://bump.sh/blog/how-to-use-json-path)
 * [2024-05-03, 09:00:51](https://news.ycombinator.com/item?id=40245601) - [Woodworking as an Escape from the Absurdity of Software](https://alinpanaitiu.com/blog/woodworking-escape-from-software-absurdity/)
 * [2024-05-03, 08:40:58](https://news.ycombinator.com/item?id=40245509) - [Apple announces $110B share buyback after quarterly profit and revenue drop](https://www.thenationalnews.com/business/markets/2024/05/02/apple-announces-110bn-share-buyback-after-quarterly-profit-and-revenue-drop/)
