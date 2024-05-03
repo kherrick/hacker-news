@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-03, 19:38:02](https://news.ycombinator.com/item?id=40251463) - [\"We live and we die. We control nothing beyond that.\"](https://americandreaming.substack.com/p/we-live-and-we-die-we-control-nothing)
+* [2024-05-03, 19:50:45](https://news.ycombinator.com/item?id=40251625) - [Ask HN: The Problem with \"AI Startups\"?](https://news.ycombinator.com/item?id=40251625)
+* [2024-05-03, 19:25:22](https://news.ycombinator.com/item?id=40251317) - [Karate physics: How your hand can break concrete without breaking itself](https://daily.jstor.org/the-physics-of-karate/)
 * [2024-05-03, 18:11:25](https://news.ycombinator.com/item?id=40250557) - [Show HN: BandMatch – \"Tinder\" but for finding musicians to create bands/collab](https://bandmatch.app)
 * [2024-05-03, 18:07:17](https://news.ycombinator.com/item?id=40250525) - [SATO: Stable Text-to-Motion Framework](https://sato-team.github.io/Stable-Text-to-Motion-Framework/)
 * [2024-05-03, 18:06:53](https://news.ycombinator.com/item?id=40250519) - [How hard can generating 1024-bit primes be?](https://glitchcomet.com/articles/1024-bit-primes/)
@@ -23,7 +24,6 @@
 * [2024-05-03, 09:06:28](https://news.ycombinator.com/item?id=40245637) - [How to Use JSON Path](https://bump.sh/blog/how-to-use-json-path)
 * [2024-05-03, 09:00:51](https://news.ycombinator.com/item?id=40245601) - [Woodworking as an escape from the absurdity of software](https://alinpanaitiu.com/blog/woodworking-escape-from-software-absurdity/)
 * [2024-05-03, 07:16:55](https://news.ycombinator.com/item?id=40245050) - [Show HN: I built a site to share code boilerplates](https://boilermate.site/hot)
-* [2024-05-03, 04:50:56](https://news.ycombinator.com/item?id=40244165) - [Ontario family doctor says new AI notetaking saved her job](https://globalnews.ca/news/10463535/ontario-family-doctor-artificial-intelligence-notes/)
 * [2024-05-03, 01:44:30](https://news.ycombinator.com/item?id=40243168) - [I’m writing a new vector search SQLite Extension](https://alexgarcia.xyz/blog/2024/building-new-vector-search-sqlite/index.html)
 * [2024-05-02, 08:27:17](https://news.ycombinator.com/item?id=40233933) - [The User Is on Their Own](https://www.selfawaresoup.com/notes/2024/05/01/the-user-is-on-their-own/)
 * [2024-05-01, 15:47:15](https://news.ycombinator.com/item?id=40224937) - [TORAX is a differentiable tokamak core transport simulator](https://github.com/google-deepmind/torax)

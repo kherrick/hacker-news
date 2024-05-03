@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-03](index.md)
 
+* [2024-05-03, 19:50:45](https://news.ycombinator.com/item?id=40251625) - [Ask HN: The Problem with \"AI Startups\"?](https://news.ycombinator.com/item?id=40251625)
 * [2024-05-03, 19:38:02](https://news.ycombinator.com/item?id=40251463) - [\"We live and we die. We control nothing beyond that.\"](https://americandreaming.substack.com/p/we-live-and-we-die-we-control-nothing)
+* [2024-05-03, 19:25:22](https://news.ycombinator.com/item?id=40251317) - [Karate physics: How your hand can break concrete without breaking itself](https://daily.jstor.org/the-physics-of-karate/)
 * [2024-05-03, 18:27:40](https://news.ycombinator.com/item?id=40250724) - [Why It's Hard to Get Hired Despite Glowing Jobs Reports](https://www.wsj.com/lifestyle/careers/us-job-market-white-collar-workers-f453f0b5)
 * [2024-05-03, 18:23:02](https://news.ycombinator.com/item?id=40250672) - [Firefox Power User Keeps 7,400 Browser Tabs Open for 2 Years](https://www.pcmag.com/news/firefox-power-user-keeps-7400-plus-browser-tabs-open-for-2-years)
 * [2024-05-03, 18:11:25](https://news.ycombinator.com/item?id=40250557) - [Show HN: BandMatch – \"Tinder\" but for finding musicians to create bands/collab](https://bandmatch.app)
