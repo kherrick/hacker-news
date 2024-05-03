@@ -11,6 +11,7 @@
 * [2024-05-03, 21:32:32](https://news.ycombinator.com/item?id=40252619) - [Microsoft ties executive pay to security after multiple failures and breaches](https://arstechnica.com/information-technology/2024/05/microsoft-ties-executive-pay-to-security-following-multiple-failures-and-breaches/)
 * [2024-05-03, 21:26:46](https://news.ycombinator.com/item?id=40252569) - [Show HN: I built a free in-browser Llama 3 chatbot powered by WebGPU](https://github.com/abi/secret-llama)
 * [2024-05-03, 21:20:57](https://news.ycombinator.com/item?id=40252525) - [Discord Applying Forced Arbitration - opt-out before it is too late!](https://bsky.app/profile/silverwuffamute.bsky.social/post/3kqbd476nvk2i)
+* [2024-05-03, 21:17:01](https://news.ycombinator.com/item?id=40252481) - [Wine 9.8 (Dev) – Run Windows Applications on Linux, BSD, Solaris and macOS](https://gitlab.winehq.org/wine/wine/-/releases/wine-9.8)
 * [2024-05-03, 21:06:05](https://news.ycombinator.com/item?id=40252393) - [Mega-warehouses heap more pollution on hard-hit Illinois neighborhoods](https://www.theguardian.com/us-news/2024/apr/24/illinois-mega-warehouses-air-quality-pollution-inequality)
 * [2024-05-03, 21:00:24](https://news.ycombinator.com/item?id=40252334) - [Finley (YC W21) is hiring securitization and structured finance professionals](https://jobs.lever.co/FinleyTechnologies/70462b30-c31a-4db3-932a-0abb96ec5566)
 * [2024-05-03, 20:36:29](https://news.ycombinator.com/item?id=40252107) - [Why is Firefox called Firefox?](https://lunduke.locals.com/post/5577706/why-is-firefox-called-firefox)
