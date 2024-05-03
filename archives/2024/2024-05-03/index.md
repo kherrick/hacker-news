@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-03](index.md)
 
+* [2024-05-03, 12:36:26](https://news.ycombinator.com/item?id=40246984) - [Creating a low-cost EV charging station with Arduino](https://blog.arduino.cc/2024/04/23/creating-a-low-cost-ev-charging-station-with-arduino/)
+* [2024-05-03, 12:20:37](https://news.ycombinator.com/item?id=40246841) - [Experimental blog that is only available to read through a feed reader](https://theunderground.blog/)
 * [2024-05-03, 12:00:03](https://news.ycombinator.com/item?id=40246682) - [Ribbon Health (YC S17) Is Hiring a Data Acquisition Tech Lead](https://www.ribbonhealth.com/open-roles?gh_jid=5118848004)
 * [2024-05-03, 11:23:42](https://news.ycombinator.com/item?id=40246398) - [How to Make More Money Renting a GPU Than Nvidia Makes Selling It](https://www.nextplatform.com/2024/05/02/how-to-make-more-money-renting-a-gpu-than-nvidia-makes-selling-it/)
 * [2024-05-03, 10:40:28](https://news.ycombinator.com/item?id=40246171) - [Deletion of user account (€ 19,90)](https://www.soflow.com/eu/product/deletion-of-user-account/)
@@ -14,6 +16,7 @@
 * [2024-05-03, 09:00:51](https://news.ycombinator.com/item?id=40245601) - [Woodworking as an Escape from the Absurdity of Software](https://alinpanaitiu.com/blog/woodworking-escape-from-software-absurdity/)
 * [2024-05-03, 08:40:58](https://news.ycombinator.com/item?id=40245509) - [Apple announces $110B share buyback after quarterly profit and revenue drop](https://www.thenationalnews.com/business/markets/2024/05/02/apple-announces-110bn-share-buyback-after-quarterly-profit-and-revenue-drop/)
 * [2024-05-03, 08:08:19](https://news.ycombinator.com/item?id=40245348) - [I can fix this PC, boss, but I'll need to play games for hours to do it](https://www.theregister.com/2024/05/03/on_call/)
+* [2024-05-03, 07:16:55](https://news.ycombinator.com/item?id=40245050) - [Show HN: I built a site to share code boilerplates](https://boilermate.site/hot)
 * [2024-05-03, 07:01:00](https://news.ycombinator.com/item?id=40244962) - [Raycast (YC W20) is hiring Rust engineer (Remote, Europe, €104k – €160k)](https://www.raycast.com/jobs/software-engineer-rust)
 * [2024-05-03, 06:17:56](https://news.ycombinator.com/item?id=40244681) - [Google's Med-Gemini AI Outperforms GPT-4 in Healthcare](https://www.forbes.com/sites/talpatalon/2024/05/01/med-geminis-lions-roar/)
 * [2024-05-03, 04:50:56](https://news.ycombinator.com/item?id=40244165) - ['I will never go back': Ontario doctor says new AI notetaking saved her job](https://globalnews.ca/news/10463535/ontario-family-doctor-artificial-intelligence-notes/)
