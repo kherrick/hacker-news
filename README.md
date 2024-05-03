@@ -2,6 +2,7 @@
 
 * [2024-05-03, 04:35:46](https://news.ycombinator.com/item?id=40244075) - [Extremist Militias Are Coordinating in More Than 100 Facebook Groups](https://www.wired.com/story/extremist-militias-are-coordinating-on-facebook/)
 * [2024-05-03, 03:08:32](https://news.ycombinator.com/item?id=40243630) - [Hyundai is spending $1B to keep self-driving startup Motional alive](https://techcrunch.com/2024/05/02/hyundai-is-spending-close-to-1-billion-to-keep-self-driving-startup-motional-alive/)
+* [2024-05-03, 03:02:18](https://news.ycombinator.com/item?id=40243598) - [Ask HN: I have been unable to land a job in two years, does anybody](https://news.ycombinator.com/item?id=40243598)
 * [2024-05-03, 01:58:33](https://news.ycombinator.com/item?id=40243242) - [Georgia Tech/Meta Create Open Dataset to Advance AI for Carbon Capture](https://news.gatech.edu/news/2024/05/02/georgia-tech-and-meta-create-massive-open-dataset-advance-ai-solutions-carbon)
 * [2024-05-03, 01:58:21](https://news.ycombinator.com/item?id=40243238) - [Cardio fitness is a strong, consistent predictor of morbidity and mortality](https://bjsm.bmj.com/content/58/10/556)
 * [2024-05-03, 01:44:30](https://news.ycombinator.com/item?id=40243168) - [I'm writing a new vector search SQLite Extension](https://alexgarcia.xyz/blog/2024/building-new-vector-search-sqlite/index.html)
@@ -10,7 +11,6 @@
 * [2024-05-02, 23:17:40](https://news.ycombinator.com/item?id=40242410) - [A Single Div](https://a.singlediv.com/)
 * [2024-05-02, 23:13:19](https://news.ycombinator.com/item?id=40242379) - [You receive a call on your phone. The caller says they're from your bank](https://mastodon.social/@Edent/112372412442888807)
 * [2024-05-02, 23:05:57](https://news.ycombinator.com/item?id=40242335) - [Google's Synonym Extraction Methods (2010)](https://www.mattcutts.com/blog/google-synonyms/)
-* [2024-05-02, 22:58:52](https://news.ycombinator.com/item?id=40242297) - [An analysis of the rabbit R1 APK](https://www.emergetools.com/deep-dives/rabbit-r1)
 * [2024-05-02, 22:47:05](https://news.ycombinator.com/item?id=40242224) - [The life and times of an Abstract Syntax Tree](https://blog.trailofbits.com/2024/05/02/the-life-and-times-of-an-abstract-syntax-tree/)
 * [2024-05-02, 21:44:24](https://news.ycombinator.com/item?id=40241694) - [TSMC Jumps into Silicon Photonics, Lays Out Roadmap for 12.8 Tbps Interconnect](https://www.anandtech.com/show/21373/tsmc-adds-silicon-photonics-coupe-roadmap-128tbps-on-package)
 * [2024-05-02, 21:24:42](https://news.ycombinator.com/item?id=40241525) - [They thought they were joining an accelerator – instead they lost their startups](https://techcrunch.com/2024/05/02/they-thought-they-were-joining-an-accelerator-instead-they-lost-their-startups/)
