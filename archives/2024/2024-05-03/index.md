@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-03](index.md)
 
+* [2024-05-03, 20:31:43](https://news.ycombinator.com/item?id=40252053) - [Show HN: Lightsaber Battle – May the Fourth Be with You](https://www.lightsabercursor.com/)
 * [2024-05-03, 20:04:37](https://news.ycombinator.com/item?id=40251777) - [At Microsoft, years of security debt come crashing down](https://www.osnews.com/story/139528/at-microsoft-years-of-security-debt-come-crashing-down/)
 * [2024-05-03, 19:50:45](https://news.ycombinator.com/item?id=40251625) - [Ask HN: The Problem with \"AI Startups\"?](https://news.ycombinator.com/item?id=40251625)
 * [2024-05-03, 19:47:55](https://news.ycombinator.com/item?id=40251589) - [DoorDash won't let you tip NYC drivers without the app](https://www.theverge.com/2024/5/3/24148152/doordash-drivers-nyc-tipping-minimum-wage)
