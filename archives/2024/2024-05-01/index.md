@@ -107,6 +107,7 @@
 * [2024-05-01, 07:45:30](https://news.ycombinator.com/item?id=40220578) - [Astronauts could run round 'Wall of Death' to keep fit on moon, say scientists](https://www.theguardian.com/science/2024/may/01/astronauts-could-run-round-wall-of-death-to-keep-fit-on-moon-say-scientists)
 * [2024-05-01, 07:39:09](https://news.ycombinator.com/item?id=40220542) - [Fast, simple, hard real time allocator for Rust](https://github.com/pcwalton/offset-allocator)
 * [2024-05-01, 06:52:41](https://news.ycombinator.com/item?id=40220309) - [The drinking fountain button is tragically misunderstood](https://www.theverge.com/24144774/drinking-fountain-bubbler-button-of-the-month)
+* [2024-05-01, 06:08:54](https://news.ycombinator.com/item?id=40220072) - [Every map of China is wrong](https://medium.com/@anastasia.bizyayeva/every-map-of-china-is-wrong-bc2bce145db2)
 * [2024-05-01, 05:59:01](https://news.ycombinator.com/item?id=40220004) - [What if dreaming is the whole point of sleep?](https://www.theguardian.com/books/2024/apr/22/the-big-idea-what-if-dreaming-is-the-whole-point-of-sleepp)
 * [2024-05-01, 05:31:37](https://news.ycombinator.com/item?id=40219823) - [Paul Auster has died](https://www.nytimes.com/2024/04/30/books/paul-auster-dead.html)
 * [2024-05-01, 05:26:24](https://news.ycombinator.com/item?id=40219804) - [A Strong U.S. Dollar Weighs on the World](https://www.nytimes.com/2024/04/29/business/a-strong-us-dollar-weighs-on-the-world.html)

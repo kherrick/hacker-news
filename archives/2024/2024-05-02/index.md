@@ -6,6 +6,7 @@
 
 * [2024-05-02, 23:05:57](https://news.ycombinator.com/item?id=40242335) - [Google's Synonym Extraction Methods](https://www.mattcutts.com/blog/google-synonyms/)
 * [2024-05-02, 23:00:37](https://news.ycombinator.com/item?id=40242303) - [Former Burning Man headquarters building sells at 90% discount](https://sfist.com/2024/04/23/empty-office-building-at-sixth-and-market-which-last-sold-for-62-million-now-sells-for-just-6-5-million/)
+* [2024-05-02, 22:58:52](https://news.ycombinator.com/item?id=40242297) - [An analysis of the rabbit R1 APK](https://www.emergetools.com/deep-dives/rabbit-r1)
 * [2024-05-02, 22:47:05](https://news.ycombinator.com/item?id=40242224) - [The life and times of an Abstract Syntax Tree](https://blog.trailofbits.com/2024/05/02/the-life-and-times-of-an-abstract-syntax-tree/)
 * [2024-05-02, 22:39:18](https://news.ycombinator.com/item?id=40242157) - [Warrantless FBI searches of American communications drop 50 percent](https://www.theverge.com/2024/5/2/24147263/fbi-fisa-section-702-searches-transparency-report)
 * [2024-05-02, 22:33:16](https://news.ycombinator.com/item?id=40242114) - [Louis Rossmann: YouTube's Legal Team sent me a letter [video]](https://www.youtube.com/watch?v=dqTYg6vnQvw)
