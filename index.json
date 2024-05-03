@@ -1,26 +1,6 @@
 [
   [
     [
-      "2024-05-03, 23:12:52",
-      "https://news.ycombinator.com/item?id=40253352"
-    ],
-    [
-      "Texas A&M Qatar campus to close by 2028",
-      "https://www.qatar.tamu.edu/news-and-events/news/2024/02/09/texas-a-and-m-qatar-campus-to-close-by-2028/"
-    ]
-  ],
-  [
-    [
-      "2024-05-03, 22:30:31",
-      "https://news.ycombinator.com/item?id=40253079"
-    ],
-    [
-      "Snowflake's tech is not worth $50B dollars",
-      "https://old.reddit.com/r/wallstreetbets/comments/1cirikp/snowflake_isnt_worth_50_billion_dollars/"
-    ]
-  ],
-  [
-    [
       "2024-05-03, 22:12:46",
       "https://news.ycombinator.com/item?id=40252965"
     ],
@@ -57,6 +37,16 @@
     [
       "Discord Applying Forced Arbitration - opt-out before it is too late!",
       "https://bsky.app/profile/silverwuffamute.bsky.social/post/3kqbd476nvk2i"
+    ]
+  ],
+  [
+    [
+      "2024-05-03, 21:17:01",
+      "https://news.ycombinator.com/item?id=40252481"
+    ],
+    [
+      "Wine 9.8 (Dev) – Run Windows Applications on Linux, BSD, Solaris and macOS",
+      "https://gitlab.winehq.org/wine/wine/-/releases/wine-9.8"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "A portable Common Lisp toolkit for building inspectors",
       "https://github.com/aartaka/trivial-inspect"
+    ]
+  ],
+  [
+    [
+      "2024-05-03, 09:06:28",
+      "https://news.ycombinator.com/item?id=40245637"
+    ],
+    [
+      "How to Use JSON Path",
+      "https://bump.sh/blog/how-to-use-json-path"
     ]
   ],
   [
