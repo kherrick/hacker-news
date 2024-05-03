@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-03](index.md)
 
+* [2024-05-03, 15:14:16](https://news.ycombinator.com/item?id=40248627) - [Lithium-free sodium batteries exit the lab and enter US production](https://newatlas.com/energy/natron-sodium-ion-battery-production-startt/)
 * [2024-05-03, 14:39:49](https://news.ycombinator.com/item?id=40248217) - [Lowercase – A simple way to take and share notes](https://www.lowercase.app/)
 * [2024-05-03, 14:12:14](https://news.ycombinator.com/item?id=40247877) - [Airbus A340, built to rule long-haul travel. Now it's vanishing](https://www.cnn.com/travel/the-a340-vanishing/index.html)
 * [2024-05-03, 14:11:49](https://news.ycombinator.com/item?id=40247871) - [CSS Text Box Trim](https://github.com/jantimon/text-box-trim-examples)

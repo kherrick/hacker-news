@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-03, 15:14:16](https://news.ycombinator.com/item?id=40248627) - [Lithium-free sodium batteries exit the lab and enter US production](https://newatlas.com/energy/natron-sodium-ion-battery-production-startt/)
 * [2024-05-03, 14:39:49](https://news.ycombinator.com/item?id=40248217) - [Lowercase – A simple way to take and share notes](https://www.lowercase.app/)
 * [2024-05-03, 14:12:14](https://news.ycombinator.com/item?id=40247877) - [The Airbus A340 was built to rule long-haul travel, but now it’s vanishing](https://www.cnn.com/travel/the-a340-vanishing/index.html)
 * [2024-05-03, 14:11:49](https://news.ycombinator.com/item?id=40247871) - [CSS Text Box Trim](https://github.com/jantimon/text-box-trim-examples)
@@ -12,7 +13,6 @@
 * [2024-05-03, 12:36:26](https://news.ycombinator.com/item?id=40246984) - [Creating a low-cost EV charging station with Arduino](https://blog.arduino.cc/2024/04/23/creating-a-low-cost-ev-charging-station-with-arduino/)
 * [2024-05-03, 12:20:37](https://news.ycombinator.com/item?id=40246841) - [Experimental blog that is only available to read through a feed reader](https://theunderground.blog/)
 * [2024-05-03, 12:00:03](https://news.ycombinator.com/item?id=40246682) - [Ribbon Health (YC S17) Is Hiring a Data Acquisition Tech Lead](https://www.ribbonhealth.com/open-roles?gh_jid=5118848004)
-* [2024-05-03, 11:52:13](https://news.ycombinator.com/item?id=40246601) - [The highest observatory in the world just opened in Chile](https://www.theverge.com/2024/5/2/24146743/university-of-tokyo-atacama-observatory-telescope-highest-altitude-infrared)
 * [2024-05-03, 11:30:05](https://news.ycombinator.com/item?id=40246445) - [Show HN: ScriX – Chrome extension summarizing speech into bullet points](https://chromewebstore.google.com/detail/scrix-audio-to-text-trans/aapbilffnkjhifbaejfmcjjcpdpadjfm)
 * [2024-05-03, 11:23:42](https://news.ycombinator.com/item?id=40246398) - [How to Make More Money Renting a GPU Than Nvidia Makes Selling It](https://www.nextplatform.com/2024/05/02/how-to-make-more-money-renting-a-gpu-than-nvidia-makes-selling-it/)
 * [2024-05-03, 09:06:28](https://news.ycombinator.com/item?id=40245637) - [How to Use JSON Path](https://bump.sh/blog/how-to-use-json-path)
