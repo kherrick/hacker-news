@@ -16,6 +16,8 @@
 * [2024-05-03, 13:06:19](https://news.ycombinator.com/item?id=40247254) - [The most important cryptography papers](https://evervault.com/papers)
 * [2024-05-03, 12:20:37](https://news.ycombinator.com/item?id=40246841) - [Experimental blog that is only available to read through a feed reader](https://theunderground.blog/)
 * [2024-05-03, 11:30:05](https://news.ycombinator.com/item?id=40246445) - [Show HN: ScriX – Chrome extension summarizing speech into bullet points](https://chromewebstore.google.com/detail/scrix-audio-to-text-trans/aapbilffnkjhifbaejfmcjjcpdpadjfm)
+* [2024-05-03, 10:43:50](https://news.ycombinator.com/item?id=40246185) - [A portable Common Lisp toolkit for building inspectors](https://github.com/aartaka/trivial-inspect)
+* [2024-05-03, 10:02:42](https://news.ycombinator.com/item?id=40245942) - [Fifty Years of the Personal Computer Operating System](https://medium.com/chmcore/fifty-years-of-the-personal-computer-operating-system-185b1dc59231)
 * [2024-05-03, 09:29:58](https://news.ycombinator.com/item?id=40245769) - [A Minimal Model for Biological Evolution and Other Adaptive Processes](https://writings.stephenwolfram.com/2024/05/why-does-biological-evolution-work-a-minimal-model-for-biological-evolution-and-other-adaptive-processes/)
 * [2024-05-03, 09:06:28](https://news.ycombinator.com/item?id=40245637) - [How to Use JSON Path](https://bump.sh/blog/how-to-use-json-path)
 * [2024-05-03, 09:00:51](https://news.ycombinator.com/item?id=40245601) - [Woodworking as an escape from the absurdity of software](https://alinpanaitiu.com/blog/woodworking-escape-from-software-absurdity/)
@@ -23,13 +25,11 @@
 * [2024-05-03, 07:16:55](https://news.ycombinator.com/item?id=40245050) - [Show HN: I built a site to share code boilerplates](https://boilermate.site/hot)
 * [2024-05-03, 04:50:56](https://news.ycombinator.com/item?id=40244165) - [Ontario family doctor says new AI notetaking saved her job](https://globalnews.ca/news/10463535/ontario-family-doctor-artificial-intelligence-notes/)
 * [2024-05-03, 01:44:30](https://news.ycombinator.com/item?id=40243168) - [I’m writing a new vector search SQLite Extension](https://alexgarcia.xyz/blog/2024/building-new-vector-search-sqlite/index.html)
-* [2024-05-02, 17:48:14](https://news.ycombinator.com/item?id=40239164) - [Making a 3D modeler in C in a week](https://danielchasehooper.com/posts/shapeup/)
-* [2024-05-02, 08:35:03](https://news.ycombinator.com/item?id=40233979) - [00Key a 75% Keyboard](https://github.com/ZeroZeroOne-dev/00Key)
 * [2024-05-02, 06:22:48](https://news.ycombinator.com/item?id=40233259) - [Goodyear Inflatoplane](https://en.wikipedia.org/wiki/Goodyear_Inflatoplane)
 * [2024-05-02, 05:09:35](https://news.ycombinator.com/item?id=40232896) - [Godot 4.3 Dev Snapshot 6 Updates](https://godotengine.org/article/dev-snapshot-godot-4-3-dev-6/)
 * [2024-05-01, 09:15:12](https://news.ycombinator.com/item?id=40221067) - [The Nature of Code (2nd Edition)](https://natureofcode.com/introduction/)
 * [2024-04-30, 23:05:12](https://news.ycombinator.com/item?id=40217554) - [A Mathematical Theory of Communication [pdf]](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
-* [2024-04-30, 17:31:52](https://news.ycombinator.com/item?id=40213588) - [Fire for Water: A tribe in California is helping to reshape fire management](https://www.biographic.com/fire-for-water/)
+* [2024-04-30, 22:42:27](https://news.ycombinator.com/item?id=40217336) - [Ask HN: Delaware C-Corp Governing Law Jurisdiction](https://news.ycombinator.com/item?id=40217336)
 
 ## [Archives](archives/index.md)
 
