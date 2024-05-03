@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-05-03](index.md)
 
+* [2024-05-03, 13:50:56](https://news.ycombinator.com/item?id=40247662) - [Mexico's Floating Gardens Are an Ancient Wonder of Sustainable Farming](https://reasonstobecheerful.world/mexico-chinampas-floating-gardens-sustainable-farming/)
 * [2024-05-03, 13:46:41](https://news.ycombinator.com/item?id=40247604) - [DNS traffic can leak outside the VPN tunnel on Android](https://mullvad.net/en/blog/dns-traffic-can-leak-outside-the-vpn-tunnel-on-android)
 * [2024-05-03, 13:31:06](https://news.ycombinator.com/item?id=40247474) - [Globalization was supposed to align the values. They're diverging](https://bigthink.com/the-present/worlds-values-diverging/)
 * [2024-05-03, 13:23:59](https://news.ycombinator.com/item?id=40247399) - [PoC to demonstrate root permission hijacking by exploiting \"systemd-run\"](https://twitter.com/hackerfantastic/status/1785495587514638559)
+* [2024-05-03, 13:05:39](https://news.ycombinator.com/item?id=40247249) - [Some scientists can't stop using AI to write research papers](https://www.theregister.com/2024/05/03/ai_scientific_articles/)
+* [2024-05-03, 13:01:27](https://news.ycombinator.com/item?id=40247218) - [AI engineers report burnout, rushed rollouts as 'rat race' to stay competitive](https://www.cnbc.com/2024/05/03/ai-engineers-face-burnout-as-rat-race-to-stay-competitive-hits-tech.html)
 * [2024-05-03, 12:36:26](https://news.ycombinator.com/item?id=40246984) - [Creating a low-cost EV charging station with Arduino](https://blog.arduino.cc/2024/04/23/creating-a-low-cost-ev-charging-station-with-arduino/)
 * [2024-05-03, 12:20:37](https://news.ycombinator.com/item?id=40246841) - [Experimental blog that is only available to read through a feed reader](https://theunderground.blog/)
 * [2024-05-03, 12:00:03](https://news.ycombinator.com/item?id=40246682) - [Ribbon Health (YC S17) Is Hiring a Data Acquisition Tech Lead](https://www.ribbonhealth.com/open-roles?gh_jid=5118848004)
