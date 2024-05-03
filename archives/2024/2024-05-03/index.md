@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-03](index.md)
 
+* [2024-05-03, 14:39:49](https://news.ycombinator.com/item?id=40248217) - [Lowercase – A simple way to take and share notes](https://www.lowercase.app/)
 * [2024-05-03, 14:12:14](https://news.ycombinator.com/item?id=40247877) - [Airbus A340, built to rule long-haul travel. Now it's vanishing](https://www.cnn.com/travel/the-a340-vanishing/index.html)
+* [2024-05-03, 14:11:49](https://news.ycombinator.com/item?id=40247871) - [CSS Text Box Trim](https://github.com/jantimon/text-box-trim-examples)
 * [2024-05-03, 13:50:56](https://news.ycombinator.com/item?id=40247662) - [Mexico's Floating Gardens Are an Ancient Wonder of Sustainable Farming](https://reasonstobecheerful.world/mexico-chinampas-floating-gardens-sustainable-farming/)
 * [2024-05-03, 13:46:41](https://news.ycombinator.com/item?id=40247604) - [DNS traffic can leak outside the VPN tunnel on Android](https://mullvad.net/en/blog/dns-traffic-can-leak-outside-the-vpn-tunnel-on-android)
 * [2024-05-03, 13:37:30](https://news.ycombinator.com/item?id=40247528) - [Blue-Recorder, a Simple Screen Recorder Written in Rust](https://github.com/xlmnxp/blue-recorder)
