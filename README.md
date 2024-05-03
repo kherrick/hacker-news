@@ -2,6 +2,7 @@
 
 * [2024-05-03, 21:32:32](https://news.ycombinator.com/item?id=40252619) - [Microsoft ties executive pay to security after multiple failures and breaches](https://arstechnica.com/information-technology/2024/05/microsoft-ties-executive-pay-to-security-following-multiple-failures-and-breaches/)
 * [2024-05-03, 21:20:57](https://news.ycombinator.com/item?id=40252525) - [Discord Applying Forced Arbitration - opt-out before it is too late!](https://bsky.app/profile/silverwuffamute.bsky.social/post/3kqbd476nvk2i)
+* [2024-05-03, 21:06:05](https://news.ycombinator.com/item?id=40252393) - [Mega-warehouses heap more pollution on hard-hit Illinois neighborhoods](https://www.theguardian.com/us-news/2024/apr/24/illinois-mega-warehouses-air-quality-pollution-inequality)
 * [2024-05-03, 21:00:24](https://news.ycombinator.com/item?id=40252334) - [Finley (YC W21) is hiring securitization and structured finance professionals](https://jobs.lever.co/FinleyTechnologies/70462b30-c31a-4db3-932a-0abb96ec5566)
 * [2024-05-03, 20:31:43](https://news.ycombinator.com/item?id=40252053) - [Show HN: Lightsaber Battle – May the Fourth Be with You](https://www.lightsabercursor.com/)
 * [2024-05-03, 19:25:22](https://news.ycombinator.com/item?id=40251317) - [Karate physics: How your hand can break concrete without breaking itself (2021)](https://daily.jstor.org/the-physics-of-karate/)
@@ -25,7 +26,6 @@
 * [2024-05-03, 07:16:55](https://news.ycombinator.com/item?id=40245050) - [Show HN: I built a site to share code boilerplates](https://boilermate.site/hot)
 * [2024-05-03, 01:44:30](https://news.ycombinator.com/item?id=40243168) - [I’m writing a new vector search SQLite Extension](https://alexgarcia.xyz/blog/2024/building-new-vector-search-sqlite/index.html)
 * [2024-05-02, 10:10:26](https://news.ycombinator.com/item?id=40234490) - [Visiting the most expensive nuclear station](https://www.samdumitriu.com/p/visiting-the-worlds-most-expensive)
-* [2024-05-02, 08:27:17](https://news.ycombinator.com/item?id=40233933) - [The User Is on Their Own](https://www.selfawaresoup.com/notes/2024/05/01/the-user-is-on-their-own/)
 * [2024-05-01, 15:47:15](https://news.ycombinator.com/item?id=40224937) - [TORAX is a differentiable tokamak core transport simulator](https://github.com/google-deepmind/torax)
 * [2024-05-01, 09:15:12](https://news.ycombinator.com/item?id=40221067) - [The Nature of Code (2nd Edition)](https://natureofcode.com/introduction/)
 * [2024-04-30, 23:05:12](https://news.ycombinator.com/item?id=40217554) - [A Mathematical Theory of Communication [pdf]](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
