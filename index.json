@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2024-05-03, 04:00:29",
+      "https://news.ycombinator.com/item?id=40243895"
+    ],
+    [
+      "Thirteen year old singularity bug fixed",
+      "https://github.com/tgstation/tgstation/pull/83005"
+    ]
+  ],
+  [
+    [
       "2024-05-03, 03:08:32",
       "https://news.ycombinator.com/item?id=40243630"
     ],
@@ -197,16 +207,6 @@
     [
       "Pleasure or pain? He maps the neural circuits that decide",
       "https://www.quantamagazine.org/pleasure-or-pain-he-maps-the-neural-circuits-that-decide-20240416/"
-    ]
-  ],
-  [
-    [
-      "2024-05-02, 16:34:35",
-      "https://news.ycombinator.com/item?id=40238170"
-    ],
-    [
-      "Rust: Box Is a Unique Type",
-      "https://blog.nilstrieb.dev/posts/box-is-a-unique-type/"
     ]
   ],
   [
