@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-05-03, 13:46:41",
+      "https://news.ycombinator.com/item?id=40247604"
+    ],
+    [
+      "DNS traffic can leak outside the VPN tunnel on Android",
+      "https://mullvad.net/en/blog/dns-traffic-can-leak-outside-the-vpn-tunnel-on-android"
+    ]
+  ],
+  [
+    [
       "2024-05-03, 13:31:06",
       "https://news.ycombinator.com/item?id=40247474"
     ],
     [
       "Globalization was supposed to align the values. They're diverging",
       "https://bigthink.com/the-present/worlds-values-diverging/"
+    ]
+  ],
+  [
+    [
+      "2024-05-03, 13:23:59",
+      "https://news.ycombinator.com/item?id=40247399"
+    ],
+    [
+      "PoC to demonstrate root permission hijacking by exploiting \"systemd-run\"",
+      "https://twitter.com/hackerfantastic/status/1785495587514638559"
     ]
   ],
   [
@@ -47,6 +67,16 @@
     [
       "Bank scammers using genuine push notifications to trick their victims",
       "https://shkspr.mobi/blog/2024/05/bank-scammers-using-genuine-push-notifications-to-trick-their-victims/"
+    ]
+  ],
+  [
+    [
+      "2024-05-03, 11:30:05",
+      "https://news.ycombinator.com/item?id=40246445"
+    ],
+    [
+      "Show HN: ScriX – Chrome extension summarizing speech into bullet points",
+      "https://chromewebstore.google.com/detail/scrix-audio-to-text-trans/aapbilffnkjhifbaejfmcjjcpdpadjfm"
     ]
   ],
   [
@@ -107,16 +137,6 @@
     [
       "Firefox Webserial Addon",
       "https://github.com/kuba2k2/firefox-webserial"
-    ]
-  ],
-  [
-    [
-      "2024-05-03, 08:08:19",
-      "https://news.ycombinator.com/item?id=40245348"
-    ],
-    [
-      "I can fix this PC, boss, but I'll need to play games for hours to do it",
-      "https://www.theregister.com/2024/05/03/on_call/"
     ]
   ],
   [
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2024-05-02, 09:49:35",
-      "https://news.ycombinator.com/item?id=40234383"
-    ],
-    [
-      "Teranoptia – a typeface that allows you to imagine chimeric creatures",
-      "https://www.tunera.xyz/fonts/teranoptia/"
-    ]
-  ],
-  [
-    [
       "2024-05-02, 07:50:34",
       "https://news.ycombinator.com/item?id=40233736"
     ],
@@ -287,16 +297,6 @@
     [
       "Every map of China is wrong",
       "https://medium.com/@anastasia.bizyayeva/every-map-of-china-is-wrong-bc2bce145db2"
-    ]
-  ],
-  [
-    [
-      "2024-04-30, 17:31:52",
-      "https://news.ycombinator.com/item?id=40213588"
-    ],
-    [
-      "Fire for Water: A tribe in California is helping to reshape fire management",
-      "https://www.biographic.com/fire-for-water/"
     ]
   ]
 ]
