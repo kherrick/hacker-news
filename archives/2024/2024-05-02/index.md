@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-02](index.md)
 
+* [2024-05-02, 23:17:40](https://news.ycombinator.com/item?id=40242410) - [A Single Div](https://a.singlediv.com/)
 * [2024-05-02, 23:05:57](https://news.ycombinator.com/item?id=40242335) - [Google's Synonym Extraction Methods](https://www.mattcutts.com/blog/google-synonyms/)
 * [2024-05-02, 23:00:37](https://news.ycombinator.com/item?id=40242303) - [Former Burning Man headquarters building sells at 90% discount](https://sfist.com/2024/04/23/empty-office-building-at-sixth-and-market-which-last-sold-for-62-million-now-sells-for-just-6-5-million/)
 * [2024-05-02, 22:58:52](https://news.ycombinator.com/item?id=40242297) - [An analysis of the rabbit R1 APK](https://www.emergetools.com/deep-dives/rabbit-r1)
@@ -85,6 +86,7 @@
 * [2024-05-02, 11:22:32](https://news.ycombinator.com/item?id=40234878) - [Another Boeing-Linked Whistleblower Has Died](https://time.com/6973635/boeing-spirit-aerosystems-whistleblower-josh-dean-dead/)
 * [2024-05-02, 11:11:09](https://news.ycombinator.com/item?id=40234822) - [Scientists forewarn timing of 'triple whammy extinction'](https://www.wionews.com/science/scientists-forewarn-timing-of-triple-whammy-extinction-that-will-eradicate-humankind-716974)
 * [2024-05-02, 11:08:21](https://news.ycombinator.com/item?id=40234803) - [A safer alternative for an explosive reaction used for more than 100 years](https://phys.org/news/2024-04-scientists-safer-alternative-explosive-reaction.html)
+* [2024-05-02, 10:45:26](https://news.ycombinator.com/item?id=40234682) - [Silk Helped the Armies of Genghis Khan Conquer Asia](https://lithub.com/how-silk-helped-the-armies-of-genghis-khan-conquer-asia/)
 * [2024-05-02, 09:57:35](https://news.ycombinator.com/item?id=40234428) - [Are young people smarter than adults? Research shows differences diminishing](https://theconversation.com/are-young-people-smarter-than-older-adults-my-research-shows-cognitive-differences-between-generations-are-diminishing-229132)
 * [2024-05-02, 09:49:35](https://news.ycombinator.com/item?id=40234383) - [Teranoptia – a typeface that allows you to imagine chimeric creatures](https://www.tunera.xyz/fonts/teranoptia/)
 * [2024-05-02, 09:25:17](https://news.ycombinator.com/item?id=40234260) - [I'm closing up shop on my Mastodon for the foreseeable future](https://vkc.sh/its-not-you-its-me-taking-a-break-from-mastodon/)
