@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-04](index.md)
 
+* [2024-05-04, 22:39:24](https://news.ycombinator.com/item?id=40260881) - [Multi-million dollar Cheyenne supercomputer auction ends with $480,085 bid](https://www.tomshardware.com/tech-industry/supercomputers/multi-million-dollar-cheyenne-supercomputer-auction-ends-with-480085-bid)
 * [2024-05-04, 21:23:37](https://news.ycombinator.com/item?id=40260394) - [New mRNA cancer vaccine triggers fierce immune response to fight brain tumor](https://medicalxpress.com/news/2024-05-mrna-cancer-vaccine-triggers-fierce.html)
 * [2024-05-04, 21:18:53](https://news.ycombinator.com/item?id=40260361) - [Humans now share the web equally with bots](https://www.independent.co.uk/tech/dead-internet-web-bots-humans-b2530324.html)
 * [2024-05-04, 21:16:35](https://news.ycombinator.com/item?id=40260347) - [Rebel 'Star Wars' Fans Saved the Original Movies](https://www.nytimes.com/2024/05/03/arts/star-wars-films-george-lucas.html)
