@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-04](index.md)
 
+* [2024-05-04, 17:52:53](https://news.ycombinator.com/item?id=40259196) - [Does the American Diabetes Association work for patients or companies?](https://www.theguardian.com/global/commentisfree/2024/may/02/american-diabetes-association-lawsuit)
 * [2024-05-04, 17:36:21](https://news.ycombinator.com/item?id=40259100) - [OpenAI Bought Chatgpt.com](https://chatgpt.com)
 * [2024-05-04, 17:03:59](https://news.ycombinator.com/item?id=40258921) - [Tyson Foods Is Dumping Pounds of Pollutants into American Waterways](https://cleantechnica.com/2024/05/04/tyson-foods-is-dumping-millions-of-pounds-of-pollutants-into-american-waterways/)
 * [2024-05-04, 17:00:50](https://news.ycombinator.com/item?id=40258899) - [Motion (YC W20) is hiring senior software engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)

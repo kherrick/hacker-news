@@ -86,6 +86,7 @@
 * [2024-05-02, 11:59:26](https://news.ycombinator.com/item?id=40235129) - [Full Body Scans for the People](https://www.nytimes.com/2024/04/27/business/dealbook/daniel-ek-neko-health.html)
 * [2024-05-02, 11:58:00](https://news.ycombinator.com/item?id=40235114) - [America's Booziest and Driest Counties](https://intoxistates.com/)
 * [2024-05-02, 11:22:32](https://news.ycombinator.com/item?id=40234878) - [Another Boeing-Linked Whistleblower Has Died](https://time.com/6973635/boeing-spirit-aerosystems-whistleblower-josh-dean-dead/)
+* [2024-05-02, 11:20:49](https://news.ycombinator.com/item?id=40234871) - [Am radio law opposed by tech and auto industries is close to passing](https://arstechnica.com/cars/2024/05/am-radio-is-a-lifeline-lawmakers-say-tech-and-auto-industries-disagree/)
 * [2024-05-02, 11:11:09](https://news.ycombinator.com/item?id=40234822) - [Scientists forewarn timing of 'triple whammy extinction'](https://www.wionews.com/science/scientists-forewarn-timing-of-triple-whammy-extinction-that-will-eradicate-humankind-716974)
 * [2024-05-02, 11:08:21](https://news.ycombinator.com/item?id=40234803) - [A safer alternative for an explosive reaction used for more than 100 years](https://phys.org/news/2024-04-scientists-safer-alternative-explosive-reaction.html)
 * [2024-05-02, 10:45:26](https://news.ycombinator.com/item?id=40234682) - [Silk Helped the Armies of Genghis Khan Conquer Asia](https://lithub.com/how-silk-helped-the-armies-of-genghis-khan-conquer-asia/)

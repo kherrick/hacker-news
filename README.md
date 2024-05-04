@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-04, 17:52:53](https://news.ycombinator.com/item?id=40259196) - [Does the American Diabetes Association work for patients or companies?](https://www.theguardian.com/global/commentisfree/2024/may/02/american-diabetes-association-lawsuit)
 * [2024-05-04, 17:36:21](https://news.ycombinator.com/item?id=40259100) - [OpenAI Bought Chatgpt.com](https://chatgpt.com)
 * [2024-05-04, 17:00:50](https://news.ycombinator.com/item?id=40258899) - [Motion (YC W20) is hiring senior software engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
 * [2024-05-04, 16:47:17](https://news.ycombinator.com/item?id=40258804) - [Porting HPC Applications to AMD Instinct MI300A Using Unified Memory and OpenMP](https://arxiv.org/abs/2405.00436)
@@ -16,7 +17,6 @@
 * [2024-05-03, 18:11:25](https://news.ycombinator.com/item?id=40250557) - [Show HN: BandMatch – “Tinder” but for finding musicians to create bands/collab](https://bandmatch.app)
 * [2024-05-03, 18:07:17](https://news.ycombinator.com/item?id=40250525) - [SATO: Stable Text-to-Motion Framework](https://sato-team.github.io/Stable-Text-to-Motion-Framework/)
 * [2024-05-03, 18:06:53](https://news.ycombinator.com/item?id=40250519) - [How hard can generating 1024-bit primes be?](https://glitchcomet.com/articles/1024-bit-primes/)
-* [2024-05-03, 15:22:17](https://news.ycombinator.com/item?id=40248721) - [Manta Ray UUV prototype completes in-water testing](https://www.darpa.mil/news-events/2024-05-01)
 * [2024-05-03, 15:13:37](https://news.ycombinator.com/item?id=40248619) - [AI copilots are changing how coding is taught](https://spectrum.ieee.org/ai-coding)
 * [2024-05-03, 13:46:41](https://news.ycombinator.com/item?id=40247604) - [DNS traffic can leak outside the VPN tunnel on Android](https://mullvad.net/en/blog/dns-traffic-can-leak-outside-the-vpn-tunnel-on-android)
 * [2024-05-03, 13:26:38](https://news.ycombinator.com/item?id=40247421) - [Unique volumes of Brothers Grimm fairy tales discovered in Poland](https://english.nv.ua/life/27-unique-volumes-of-grimm-brothers-fairy-tales-were-found-in-poland-50415035.html)
@@ -25,7 +25,7 @@
 * [2024-05-03, 01:44:30](https://news.ycombinator.com/item?id=40243168) - [I’m writing a new vector search SQLite Extension](https://alexgarcia.xyz/blog/2024/building-new-vector-search-sqlite/index.html)
 * [2024-05-02, 17:48:14](https://news.ycombinator.com/item?id=40239164) - [Making a 3D modeler in C in a week](https://danielchasehooper.com/posts/shapeup/)
 * [2024-05-02, 12:07:02](https://news.ycombinator.com/item?id=40235193) - [Recovering the master key from RAM to break Android's file-based encryption (2021)](https://www.sciencedirect.com/science/article/pii/S266628172100007X)
-* [2024-05-01, 15:47:15](https://news.ycombinator.com/item?id=40224937) - [TORAX is a differentiable tokamak core transport simulator](https://github.com/google-deepmind/torax)
+* [2024-05-02, 11:20:49](https://news.ycombinator.com/item?id=40234871) - [Am radio law opposed by tech and auto industries is close to passing](https://arstechnica.com/cars/2024/05/am-radio-is-a-lifeline-lawmakers-say-tech-and-auto-industries-disagree/)
 * [2024-05-01, 09:45:01](https://news.ycombinator.com/item?id=40221235) - [Understanding Open Podcast Prefix Project (OP3) with John Spurlock](https://blog.castopod.org/understanding-op3-with-john-spurlock/)
 * [2024-05-01, 09:39:40](https://news.ycombinator.com/item?id=40221210) - [Ask HN: How to handle user file uploads?](https://news.ycombinator.com/item?id=40221210)
 * [2024-05-01, 09:15:12](https://news.ycombinator.com/item?id=40221067) - [The Nature of Code (2nd Edition)](https://natureofcode.com/introduction/)
