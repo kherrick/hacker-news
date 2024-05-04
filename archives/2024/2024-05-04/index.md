@@ -13,6 +13,7 @@
 * [2024-05-04, 15:22:14](https://news.ycombinator.com/item?id=40258315) - [Spotify getting into enterprise IT tools](https://techcrunch.com/2024/04/30/spotifys-getting-serious-about-its-enterprise-and-dev-tools-business-play/)
 * [2024-05-04, 15:21:15](https://news.ycombinator.com/item?id=40258308) - [Big data reveals true climate impact of worldwide air travel](https://norwegianscitechnews.com/2024/04/big-data-reveals-true-climate-impact-of-worldwide-air-travel/)
 * [2024-05-04, 15:15:48](https://news.ycombinator.com/item?id=40258273) - [Was the Stone Age the Wood Age?](https://www.nytimes.com/2024/05/04/science/archaeology-neanderthals-wood.html)
+* [2024-05-04, 14:42:44](https://news.ycombinator.com/item?id=40258037) - [How to Build a $20B Semiconductor Fab](https://www.construction-physics.com/p/how-to-build-a-20-billion-semiconductor)
 * [2024-05-04, 14:17:01](https://news.ycombinator.com/item?id=40257843) - [The Mirror Fusion Test Facility (2023)](https://www.beautifulpublicdata.com/the-mirror-fusion-test-facility/)
 * [2024-05-04, 13:53:49](https://news.ycombinator.com/item?id=40257689) - [Cancer vaccines are having a renaissance](https://www.technologyreview.com/2024/05/03/1092026/cancer-vaccines-are-having-a-renaissance/)
 * [2024-05-04, 13:51:58](https://news.ycombinator.com/item?id=40257677) - [In praise of idleness – Bertrand Russell](https://libcom.org/article/praise-idleness-bertrand-russell)
