@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-05-04, 04:12:20",
-      "https://news.ycombinator.com/item?id=40254746"
-    ],
-    [
-      "Bay Area restaurants react to new Calif. law with anger, shock",
-      "https://www.sfgate.com/food/article/sf-restaurants-junk-fees-law-19436419.php"
-    ]
-  ],
-  [
-    [
       "2024-05-04, 03:30:11",
       "https://news.ycombinator.com/item?id=40254573"
     ],
@@ -21,32 +11,22 @@
   ],
   [
     [
-      "2024-05-04, 03:00:55",
-      "https://news.ycombinator.com/item?id=40254472"
-    ],
-    [
-      "Japan ministry asks Line, Yahoo operator to shed Naver influence",
-      "https://asia.nikkei.com/Business/Technology/Japan-ministry-asks-Line-Yahoo-operator-to-shed-Naver-influence"
-    ]
-  ],
-  [
-    [
       "2024-05-04, 02:38:31",
       "https://news.ycombinator.com/item?id=40254384"
     ],
     [
-      "I hate online Lorem Ipsum Generator so I made my own",
+      "Show HN: I hate online Lorem Ipsum Generator so I made my own",
       "https://news.ycombinator.com/item?id=40254384"
     ]
   ],
   [
     [
-      "2024-05-04, 02:13:06",
-      "https://news.ycombinator.com/item?id=40254259"
+      "2024-05-04, 02:32:32",
+      "https://news.ycombinator.com/item?id=40254354"
     ],
     [
-      "Rustc_codegen_GCC: Progress Report #32",
-      "https://blog.antoyo.xyz/rustc_codegen_gcc-progress-report-32"
+      "SVB agrees to sell venture capital arm for $340M",
+      "https://www.axios.com/2024/05/03/svb-venture-capital-arm"
     ]
   ],
   [
@@ -65,7 +45,7 @@
       "https://news.ycombinator.com/item?id=40254054"
     ],
     [
-      "Insects and Other Animals Have Consciousness",
+      "Insects and other animals have consciousness",
       "https://nautil.us/insects-and-other-animals-have-consciousness-571584/"
     ]
   ],
@@ -75,7 +55,7 @@
       "https://news.ycombinator.com/item?id=40254047"
     ],
     [
-      "I Never Stopped Learning from Daniel Dennett",
+      "I never stopped learning from Daniel Dennett",
       "https://nautil.us/i-never-stopped-learning-from-daniel-dennett-569904/"
     ]
   ],
@@ -85,7 +65,7 @@
       "https://news.ycombinator.com/item?id=40253868"
     ],
     [
-      "How long should you sit vs. stand? New research reveals the perfect mix",
+      "How much time should you spend sitting versus standing?",
       "https://theconversation.com/how-much-time-should-you-spend-sitting-versus-standing-new-research-reveals-the-perfect-mix-for-optimal-health-228894"
     ]
   ],
@@ -107,16 +87,6 @@
     [
       "Show HN: I built a free in-browser Llama 3 chatbot powered by WebGPU",
       "https://github.com/abi/secret-llama"
-    ]
-  ],
-  [
-    [
-      "2024-05-03, 21:20:57",
-      "https://news.ycombinator.com/item?id=40252525"
-    ],
-    [
-      "Discord Applying Forced Arbitration - opt-out before it is too late!",
-      "https://bsky.app/profile/silverwuffamute.bsky.social/post/3kqbd476nvk2i"
     ]
   ],
   [
@@ -145,7 +115,7 @@
       "https://news.ycombinator.com/item?id=40251317"
     ],
     [
-      "Karate physics: How your hand can break concrete without breaking itself (2021)",
+      "The Physics of Karate (2021)",
       "https://daily.jstor.org/the-physics-of-karate/"
     ]
   ],
@@ -181,16 +151,6 @@
   ],
   [
     [
-      "2024-05-03, 17:25:26",
-      "https://news.ycombinator.com/item?id=40250056"
-    ],
-    [
-      "As private equity dominates wheelchair market, users wait months for repairs",
-      "https://www.statnews.com/2024/05/01/wheelchair-repair-delay-numotion-national-seating-mobility/"
-    ]
-  ],
-  [
-    [
       "2024-05-03, 16:48:47",
       "https://news.ycombinator.com/item?id=40249696"
     ],
@@ -207,6 +167,16 @@
     [
       "Manta Ray UUV prototype completes in-water testing",
       "https://www.darpa.mil/news-events/2024-05-01"
+    ]
+  ],
+  [
+    [
+      "2024-05-03, 15:14:16",
+      "https://news.ycombinator.com/item?id=40248627"
+    ],
+    [
+      "Lithium-free sodium batteries exit the lab and enter US production",
+      "https://newatlas.com/energy/natron-sodium-ion-battery-production-startt/"
     ]
   ],
   [
@@ -261,6 +231,16 @@
   ],
   [
     [
+      "2024-05-03, 10:43:50",
+      "https://news.ycombinator.com/item?id=40246185"
+    ],
+    [
+      "A portable Common Lisp toolkit for building inspectors",
+      "https://github.com/aartaka/trivial-inspect"
+    ]
+  ],
+  [
+    [
       "2024-05-02, 08:27:17",
       "https://news.ycombinator.com/item?id=40233933"
     ],
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2024-05-01, 09:15:12",
+      "https://news.ycombinator.com/item?id=40221067"
+    ],
+    [
+      "The Nature of Code (2nd Edition)",
+      "https://natureofcode.com/introduction/"
+    ]
+  ],
+  [
+    [
       "2024-05-01, 05:58:57",
       "https://news.ycombinator.com/item?id=40220002"
     ],
     [
       "A Clock in the Forest",
       "https://www.noemamag.com/a-clock-in-the-forest/"
+    ]
+  ],
+  [
+    [
+      "2024-04-30, 23:05:12",
+      "https://news.ycombinator.com/item?id=40217554"
+    ],
+    [
+      "A Mathematical Theory of Communication [pdf]",
+      "https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf"
     ]
   ]
 ]
