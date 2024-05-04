@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-05-04, 21:23:37",
-      "https://news.ycombinator.com/item?id=40260394"
+      "2024-05-04, 22:39:24",
+      "https://news.ycombinator.com/item?id=40260881"
     ],
     [
-      "New mRNA cancer vaccine triggers fierce immune response to fight brain tumor",
-      "https://medicalxpress.com/news/2024-05-mrna-cancer-vaccine-triggers-fierce.html"
+      "Multi-million dollar Cheyenne supercomputer auction ends with $480,085 bid",
+      "https://www.tomshardware.com/tech-industry/supercomputers/multi-million-dollar-cheyenne-supercomputer-auction-ends-with-480085-bid"
     ]
   ],
   [
@@ -27,16 +27,6 @@
     [
       "Streak (YC S11) is hiring a staff UI engineer",
       "https://www.streak.com/careers/staff-ui-engineer"
-    ]
-  ],
-  [
-    [
-      "2024-05-04, 20:56:36",
-      "https://news.ycombinator.com/item?id=40260213"
-    ],
-    [
-      "Highly Pathogenic Avian Influenza A(H5N1) Virus Infection in a Dairy Farm Worker",
-      "https://www.nejm.org/doi/full/10.1056/NEJMc2405371"
     ]
   ],
   [
@@ -115,7 +105,7 @@
       "https://news.ycombinator.com/item?id=40258037"
     ],
     [
-      "How to Build a $20B Semiconductor Fab",
+      "How to build a $20B semiconductor fab",
       "https://www.construction-physics.com/p/how-to-build-a-20-billion-semiconductor"
     ]
   ],
@@ -191,12 +181,22 @@
   ],
   [
     [
-      "2024-05-04, 05:57:45",
-      "https://news.ycombinator.com/item?id=40255249"
+      "2024-05-04, 01:23:36",
+      "https://news.ycombinator.com/item?id=40254047"
     ],
     [
-      "How big is the Flutter team?",
-      "https://ln.hixie.ch/?start=1714717681"
+      "I never stopped learning from Daniel Dennett",
+      "https://nautil.us/i-never-stopped-learning-from-daniel-dennett-569904/"
+    ]
+  ],
+  [
+    [
+      "2024-05-03, 15:22:17",
+      "https://news.ycombinator.com/item?id=40248721"
+    ],
+    [
+      "Manta Ray UUV prototype completes in-water testing",
+      "https://www.darpa.mil/news-events/2024-05-01"
     ]
   ],
   [
@@ -211,22 +211,12 @@
   ],
   [
     [
-      "2024-05-03, 09:47:07",
-      "https://news.ycombinator.com/item?id=40245843"
+      "2024-05-03, 09:14:19",
+      "https://news.ycombinator.com/item?id=40245686"
     ],
     [
-      "Auckland, New Zealand: A city with a labyrinth of underground caves",
-      "https://www.bbc.com/future/article/20240501-the-new-zealand-city-with-a-labyrinth-of-underground-caves"
-    ]
-  ],
-  [
-    [
-      "2024-05-03, 06:42:24",
-      "https://news.ycombinator.com/item?id=40244854"
-    ],
-    [
-      "Ask HN: Why isn't it easy to compile dlls inline?",
-      "https://news.ycombinator.com/item?id=40244854"
+      "Figma’s Journey to TypeScript",
+      "https://www.figma.com/blog/figmas-journey-to-typescript-compiling-away-our-custom-programming-language/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Opera for Beginners",
       "http://www.taleofgenji.org/opera_for_beginners.html"
+    ]
+  ],
+  [
+    [
+      "2024-05-01, 15:47:15",
+      "https://news.ycombinator.com/item?id=40224937"
+    ],
+    [
+      "TORAX is a differentiable tokamak core transport simulator",
+      "https://github.com/google-deepmind/torax"
     ]
   ],
   [
