@@ -5,6 +5,7 @@
 * [2024-05-04, 12:13:19](https://news.ycombinator.com/item?id=40257064) - [Vulture shortage threatens Zoroastrian burial rites](https://www.theguardian.com/world/article/2024/may/04/vulture-shortage-threatens-zoroastrian-burial-rites-india-iran-pakistan)
 * [2024-05-04, 12:00:28](https://news.ycombinator.com/item?id=40256991) - [Trayd (YC S23) Is Hiring Technical Customer Success Associate](https://www.ycombinator.com/companies/trayd/jobs/mWFq6En-technical-customer-success-associate)
 * [2024-05-04, 11:36:48](https://news.ycombinator.com/item?id=40256868) - [I don't want to fill out your contact form](https://adamjones.me/blog/dont-use-contact-forms/)
+* [2024-05-04, 09:27:45](https://news.ycombinator.com/item?id=40256173) - [The Matrix: A Bayesian learning model for LLMs](https://arxiv.org/abs/2402.03175)
 * [2024-05-04, 01:23:36](https://news.ycombinator.com/item?id=40254047) - [I never stopped learning from Daniel Dennett](https://nautil.us/i-never-stopped-learning-from-daniel-dennett-569904/)
 * [2024-05-04, 00:23:24](https://news.ycombinator.com/item?id=40253774) - [Show HN: Bloom – A shadcn like UI library for Elixir and Phoenix](https://bloom-ui.fly.dev/)
 * [2024-05-03, 21:26:46](https://news.ycombinator.com/item?id=40252569) - [Show HN: I built a free in-browser Llama 3 chatbot powered by WebGPU](https://github.com/abi/secret-llama)
@@ -28,7 +29,6 @@
 * [2024-05-01, 09:39:40](https://news.ycombinator.com/item?id=40221210) - [Ask HN: How to handle user file uploads?](https://news.ycombinator.com/item?id=40221210)
 * [2024-05-01, 09:15:12](https://news.ycombinator.com/item?id=40221067) - [The Nature of Code (2nd Edition)](https://natureofcode.com/introduction/)
 * [2024-05-01, 05:58:57](https://news.ycombinator.com/item?id=40220002) - [A Clock in the Forest](https://www.noemamag.com/a-clock-in-the-forest/)
-* [2024-05-01, 04:02:33](https://news.ycombinator.com/item?id=40219386) - [Resistance Against Git Merge Hell](https://www.tugberkugurlu.com/archive/resistance-against-london-tube-map-commit-history-a-k-a--git-merge-hell)
 * [2024-04-30, 23:05:12](https://news.ycombinator.com/item?id=40217554) - [A Mathematical Theory of Communication [pdf]](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
 
 ## [Archives](archives/index.md)

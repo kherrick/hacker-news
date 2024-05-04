@@ -19,6 +19,7 @@
 * [2024-05-04, 10:52:59](https://news.ycombinator.com/item?id=40256591) - [Georgia rocked by protests as government pushes Putin-style 'foreign agent' bill](https://www.cnn.com/2024/05/03/europe/georgia-russia-foreign-agent-europe-intl/index.html)
 * [2024-05-04, 10:49:21](https://news.ycombinator.com/item?id=40256574) - [UEFI, BIOS, and other confusing x86 PC (firmware) terms](https://utcc.utoronto.ca/~cks/space/blog/tech/UEFIAndBIOSAndOtherPCTerms)
 * [2024-05-04, 09:52:18](https://news.ycombinator.com/item?id=40256280) - [Worst-ever job interviews: 'We had to crawl and moo'](https://www.bbc.co.uk/news/articles/c4n1j9lvrdeo)
+* [2024-05-04, 09:27:45](https://news.ycombinator.com/item?id=40256173) - [The Matrix: A Bayesian learning model for LLMs](https://arxiv.org/abs/2402.03175)
 * [2024-05-04, 09:11:33](https://news.ycombinator.com/item?id=40256096) - [PHP Doesn't Suck Anymore](https://developerjoy.co/blog/php-doesnt-suck-anymore)
 * [2024-05-04, 08:49:20](https://news.ycombinator.com/item?id=40256017) - [Are recruiters better than a coin flip at judging resumes? Here's the data](https://interviewing.io/blog/are-recruiters-better-than-a-coin-flip-at-judging-resumes)
 * [2024-05-04, 08:37:59](https://news.ycombinator.com/item?id=40255969) - [Microsoft overhaul treats security as 'top priority' after a series of failures](https://www.theverge.com/2024/5/3/24147883/microsoft-security-priority-executive-compensation-goals)
