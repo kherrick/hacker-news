@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-04, 06:36:30](https://news.ycombinator.com/item?id=40255439) - [Holding all men responsible for a violent minority has failed to keep women safe](https://www.smh.com.au/politics/federal/holding-all-men-responsible-for-a-violent-minority-has-failed-to-keep-women-safe-20240501-p5fo82.html)
 * [2024-05-04, 05:50:16](https://news.ycombinator.com/item?id=40255209) - [A love letter to bicycle maintenance and repair](https://tegowerk.eu/posts/bicycle-repair/)
 * [2024-05-04, 04:10:11](https://news.ycombinator.com/item?id=40254733) - [Tesla retreat from EV charging leaves growth of U.S. network in doubt](https://www.washingtonpost.com/business/2024/05/03/tesla-charging-us-network/)
 * [2024-05-04, 03:37:57](https://news.ycombinator.com/item?id=40254602) - [Nintendo blitzes GitHub with over 8k emulator-related DMCA takedowns](https://www.engadget.com/nintendo-blitzes-github-with-over-8000-emulator-related-dmca-takedowns-200021877.html)
@@ -28,7 +29,6 @@
 * [2024-05-01, 15:47:15](https://news.ycombinator.com/item?id=40224937) - [TORAX is a differentiable tokamak core transport simulator](https://github.com/google-deepmind/torax)
 * [2024-05-01, 09:15:12](https://news.ycombinator.com/item?id=40221067) - [The Nature of Code (2nd Edition)](https://natureofcode.com/introduction/)
 * [2024-05-01, 05:58:57](https://news.ycombinator.com/item?id=40220002) - [A Clock in the Forest](https://www.noemamag.com/a-clock-in-the-forest/)
-* [2024-04-30, 23:05:12](https://news.ycombinator.com/item?id=40217554) - [A Mathematical Theory of Communication [pdf]](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
 * [2024-04-30, 20:18:49](https://news.ycombinator.com/item?id=40215795) - [Fairytales much older than previously thought, say researchers (2016)](https://www.theguardian.com/books/2016/jan/20/fairytales-much-older-than-previously-thought-say-researchers)
 
 ## [Archives](archives/index.md)
