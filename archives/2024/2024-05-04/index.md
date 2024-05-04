@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-04](index.md)
 
+* [2024-05-04, 17:03:59](https://news.ycombinator.com/item?id=40258921) - [Tyson Foods Is Dumping Pounds of Pollutants into American Waterways](https://cleantechnica.com/2024/05/04/tyson-foods-is-dumping-millions-of-pounds-of-pollutants-into-american-waterways/)
+* [2024-05-04, 17:00:50](https://news.ycombinator.com/item?id=40258899) - [Motion (YC W20) is hiring senior software engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
 * [2024-05-04, 16:01:03](https://news.ycombinator.com/item?id=40258556) - [NASA Audit Identifies Significant Issues with Orion Heat Shield](https://payloadspace.com/nasa-audit-identifies-significant-issues-with-orion-heat-shield/)
 * [2024-05-04, 15:22:14](https://news.ycombinator.com/item?id=40258315) - [Spotify getting into enterprise IT tools](https://techcrunch.com/2024/04/30/spotifys-getting-serious-about-its-enterprise-and-dev-tools-business-play/)
 * [2024-05-04, 15:21:15](https://news.ycombinator.com/item?id=40258308) - [Big data reveals true climate impact of worldwide air travel](https://norwegianscitechnews.com/2024/04/big-data-reveals-true-climate-impact-of-worldwide-air-travel/)
