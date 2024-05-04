@@ -17,4 +17,5 @@
 * [2024-05-04, 01:23:36](https://news.ycombinator.com/item?id=40254047) - [I Never Stopped Learning from Daniel Dennett](https://nautil.us/i-never-stopped-learning-from-daniel-dennett-569904/)
 * [2024-05-04, 00:43:03](https://news.ycombinator.com/item?id=40253868) - [How long should you sit vs. stand? New research reveals the perfect mix](https://theconversation.com/how-much-time-should-you-spend-sitting-versus-standing-new-research-reveals-the-perfect-mix-for-optimal-health-228894)
 * [2024-05-04, 00:32:45](https://news.ycombinator.com/item?id=40253831) - [Value of one of S.F.'s biggest buildings plunges by 80% after Uber, Block leave](https://www.sfchronicle.com/sf/article/s-f-office-building-value-19438429.php)
+* [2024-05-04, 00:23:24](https://news.ycombinator.com/item?id=40253774) - [Show HN: Bloom – A shadcn like UI library for Elixir and Phoenix](https://bloom-ui.fly.dev/)
 * [2024-05-04, 00:01:21](https://news.ycombinator.com/item?id=40253637) - [People with gas and propane stoves breathe more unhealthy nitrogen dioxide](https://news.stanford.edu/2024/05/03/people-gas-propane-stoves-breathe-unhealthy-nitrogen-dioxide/)
