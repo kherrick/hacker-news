@@ -10,6 +10,7 @@
 * [2024-05-04, 17:36:21](https://news.ycombinator.com/item?id=40259100) - [OpenAI Bought Chatgpt.com](https://chatgpt.com)
 * [2024-05-04, 17:03:59](https://news.ycombinator.com/item?id=40258921) - [Tyson Foods Is Dumping Pounds of Pollutants into American Waterways](https://cleantechnica.com/2024/05/04/tyson-foods-is-dumping-millions-of-pounds-of-pollutants-into-american-waterways/)
 * [2024-05-04, 17:00:50](https://news.ycombinator.com/item?id=40258899) - [Motion (YC W20) is hiring senior software engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
+* [2024-05-04, 16:56:33](https://news.ycombinator.com/item?id=40258867) - [State Farm announces major change affecting tens of thousands households in CA](https://finance.yahoo.com/news/state-farm-announces-major-insurance-150000813.html)
 * [2024-05-04, 16:47:17](https://news.ycombinator.com/item?id=40258804) - [Porting HPC Applications to AMD Instinct MI300A Using Unified Memory and OpenMP](https://arxiv.org/abs/2405.00436)
 * [2024-05-04, 16:01:03](https://news.ycombinator.com/item?id=40258556) - [NASA Audit Identifies Significant Issues with Orion Heat Shield](https://payloadspace.com/nasa-audit-identifies-significant-issues-with-orion-heat-shield/)
 * [2024-05-04, 15:22:14](https://news.ycombinator.com/item?id=40258315) - [Spotify getting into enterprise IT tools](https://techcrunch.com/2024/04/30/spotifys-getting-serious-about-its-enterprise-and-dev-tools-business-play/)
