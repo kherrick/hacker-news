@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-04, 09:11:33",
+      "https://news.ycombinator.com/item?id=40256096"
+    ],
+    [
+      "PHP Doesn't Suck Anymore",
+      "https://developerjoy.co/blog/php-doesnt-suck-anymore"
+    ]
+  ],
+  [
+    [
       "2024-05-04, 05:50:16",
       "https://news.ycombinator.com/item?id=40255209"
     ],
@@ -217,16 +227,6 @@
     [
       "I’m writing a new vector search SQLite Extension",
       "https://alexgarcia.xyz/blog/2024/building-new-vector-search-sqlite/index.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-02, 17:48:14",
-      "https://news.ycombinator.com/item?id=40239164"
-    ],
-    [
-      "Making a 3D modeler in C in a week",
-      "https://danielchasehooper.com/posts/shapeup/"
     ]
   ],
   [
