@@ -17,6 +17,7 @@
 * [2024-05-03, 20:36:29](https://news.ycombinator.com/item?id=40252107) - [Why is Firefox called Firefox?](https://lunduke.locals.com/post/5577706/why-is-firefox-called-firefox)
 * [2024-05-03, 20:31:43](https://news.ycombinator.com/item?id=40252053) - [Show HN: Lightsaber Battle – May the Fourth Be with You](https://www.lightsabercursor.com/)
 * [2024-05-03, 20:04:37](https://news.ycombinator.com/item?id=40251777) - [At Microsoft, years of security debt come crashing down](https://www.osnews.com/story/139528/at-microsoft-years-of-security-debt-come-crashing-down/)
+* [2024-05-03, 20:01:41](https://news.ycombinator.com/item?id=40251747) - [StructLM: Towards Building Generalist Models for Structured Knowledge Grounding](https://arxiv.org/abs/2402.16671)
 * [2024-05-03, 19:50:45](https://news.ycombinator.com/item?id=40251625) - [Ask HN: The Problem with \"AI Startups\"?](https://news.ycombinator.com/item?id=40251625)
 * [2024-05-03, 19:47:55](https://news.ycombinator.com/item?id=40251589) - [DoorDash won't let you tip NYC drivers without the app](https://www.theverge.com/2024/5/3/24148152/doordash-drivers-nyc-tipping-minimum-wage)
 * [2024-05-03, 19:38:02](https://news.ycombinator.com/item?id=40251463) - [\"We live and we die. We control nothing beyond that.\"](https://americandreaming.substack.com/p/we-live-and-we-die-we-control-nothing)
