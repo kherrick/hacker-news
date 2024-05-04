@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-04](index.md)
 
+* [2024-05-04, 15:22:14](https://news.ycombinator.com/item?id=40258315) - [Spotify getting into enterprise IT tools](https://techcrunch.com/2024/04/30/spotifys-getting-serious-about-its-enterprise-and-dev-tools-business-play/)
 * [2024-05-04, 14:17:01](https://news.ycombinator.com/item?id=40257843) - [The Mirror Fusion Test Facility (2023)](https://www.beautifulpublicdata.com/the-mirror-fusion-test-facility/)
 * [2024-05-04, 13:53:49](https://news.ycombinator.com/item?id=40257689) - [Cancer vaccines are having a renaissance](https://www.technologyreview.com/2024/05/03/1092026/cancer-vaccines-are-having-a-renaissance/)
 * [2024-05-04, 13:42:02](https://news.ycombinator.com/item?id=40257601) - [CBMC: C bounded model checker (2021)](http://www.cprover.org/cbmc/)
