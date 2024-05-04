@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2024-05-04, 11:55:35",
+      "https://news.ycombinator.com/item?id=40256974"
+    ],
+    [
+      "Is robotics about to have its own ChatGPT moment?",
+      "https://www.technologyreview.com/2024/04/11/1090718/household-robots-ai-data-robotics/"
+    ]
+  ],
+  [
+    [
+      "2024-05-04, 11:17:22",
+      "https://news.ycombinator.com/item?id=40256754"
+    ],
+    [
+      "Phillipine court bans growth of transgenic golden rice",
+      "https://www.science.org/content/article/what-philippine-court-ruling-means-transgenic-golden-rice-once-hailed-dietary"
+    ]
+  ],
+  [
+    [
       "2024-05-04, 11:07:44",
       "https://news.ycombinator.com/item?id=40256680"
     ],
@@ -27,26 +47,6 @@
     [
       "UEFI, BIOS, and other confusing x86 PC (firmware) terms",
       "https://utcc.utoronto.ca/~cks/space/blog/tech/UEFIAndBIOSAndOtherPCTerms"
-    ]
-  ],
-  [
-    [
-      "2024-05-04, 03:19:30",
-      "https://news.ycombinator.com/item?id=40254535"
-    ],
-    [
-      "Essential Things to Do After Installing Ubuntu 23.04 Lunar Lobster",
-      "https://averagelinuxuser.com/ubuntu-23-04-after-install/"
-    ]
-  ],
-  [
-    [
-      "2024-05-04, 02:48:55",
-      "https://news.ycombinator.com/item?id=40254421"
-    ],
-    [
-      "How to explore your scientific values and develop a vision for your field",
-      "https://www.thetransmitter.org/craft-and-careers/how-to-explore-your-scientific-values-and-develop-a-vision-for-your-field/"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2024-05-02, 23:56:08",
-      "https://news.ycombinator.com/item?id=40242639"
-    ],
-    [
-      "Stirling PDF: Self-hosted, web-based PDF manipulation tool",
-      "https://github.com/Stirling-Tools/Stirling-PDF"
-    ]
-  ],
-  [
-    [
       "2024-05-02, 17:48:14",
       "https://news.ycombinator.com/item?id=40239164"
     ],
@@ -267,6 +257,16 @@
     [
       "TORAX is a differentiable tokamak core transport simulator",
       "https://github.com/google-deepmind/torax"
+    ]
+  ],
+  [
+    [
+      "2024-05-01, 09:45:01",
+      "https://news.ycombinator.com/item?id=40221235"
+    ],
+    [
+      "Understanding Open Podcast Prefix Project (OP3) with John Spurlock",
+      "https://blog.castopod.org/understanding-op3-with-john-spurlock/"
     ]
   ],
   [
