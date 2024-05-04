@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-04](index.md)
 
+* [2024-05-04, 20:22:54](https://news.ycombinator.com/item?id=40260035) - [Show HN: Dillo 3.1.0 released after 9 years](https://dillo-browser.github.io/latest.html)
 * [2024-05-04, 19:18:37](https://news.ycombinator.com/item?id=40259680) - [He Lost $36B in a Week. Now Bill Hwang Is Fighting to Avoid Prison](https://www.bloomberg.com/news/features/2024-05-01/bill-hwang-fights-prison-time-after-hastening-credit-suisse-collapse)
 * [2024-05-04, 17:52:53](https://news.ycombinator.com/item?id=40259196) - [Does the American Diabetes Association work for patients or companies?](https://www.theguardian.com/global/commentisfree/2024/may/02/american-diabetes-association-lawsuit)
 * [2024-05-04, 17:36:21](https://news.ycombinator.com/item?id=40259100) - [OpenAI Bought Chatgpt.com](https://chatgpt.com)
@@ -38,6 +39,7 @@
 * [2024-05-04, 08:37:59](https://news.ycombinator.com/item?id=40255969) - [Microsoft overhaul treats security as 'top priority' after a series of failures](https://www.theverge.com/2024/5/3/24147883/microsoft-security-priority-executive-compensation-goals)
 * [2024-05-04, 06:36:30](https://news.ycombinator.com/item?id=40255439) - [Holding all men responsible for a violent minority has failed to keep women safe](https://www.smh.com.au/politics/federal/holding-all-men-responsible-for-a-violent-minority-has-failed-to-keep-women-safe-20240501-p5fo82.html)
 * [2024-05-04, 06:10:49](https://news.ycombinator.com/item?id=40255307) - [ReCAPTCHA is broken for [some|most|all] Windows users](https://bugzilla.mozilla.org/show_bug.cgi?id=1894735)
+* [2024-05-04, 05:57:45](https://news.ycombinator.com/item?id=40255249) - [How big is the Flutter team?](https://ln.hixie.ch/?start=1714717681)
 * [2024-05-04, 05:50:16](https://news.ycombinator.com/item?id=40255209) - [A love letter to bicycle maintenance and repair](https://tegowerk.eu/posts/bicycle-repair/)
 * [2024-05-04, 04:41:08](https://news.ycombinator.com/item?id=40254891) - [Show HN: I created a 100% automated YouTube shorts channel using AI tools](https://thesolofoundernewsletter.com/p/special-edition-created-100-automated-youtube-shorts-channel-using-free-ai-tools-python)
 * [2024-05-04, 04:12:20](https://news.ycombinator.com/item?id=40254746) - [Bay Area restaurants react to new Calif. law with anger, shock](https://www.sfgate.com/food/article/sf-restaurants-junk-fees-law-19436419.php)

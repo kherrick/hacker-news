@@ -32,6 +32,7 @@
 * [2024-05-01, 19:09:08](https://news.ycombinator.com/item?id=40227853) - [T-Mobile Completes Acquisition of Mint Mobile](https://www.t-mobile.com/news/business/t-mobile-closes-acquisition-mint-and-ultra-mobile)
 * [2024-05-01, 19:08:05](https://news.ycombinator.com/item?id=40227836) - [Stasi in the West](https://www.nakedcapitalism.com/2024/05/stasi-in-the-west.html)
 * [2024-05-01, 19:00:46](https://news.ycombinator.com/item?id=40227736) - [The AWS S3 Denial of Wallet Amplification Attack](https://blog.limbus-medtec.com/the-aws-s3-denial-of-wallet-amplification-attack-bc5a97cc041d?gi=67ac052cc1ce)
+* [2024-05-01, 18:49:54](https://news.ycombinator.com/item?id=40227584) - [Opera for Beginners](http://www.taleofgenji.org/opera_for_beginners.html)
 * [2024-05-01, 18:45:39](https://news.ycombinator.com/item?id=40227502) - [Fed Says Inflation Progress Has Stalled, Extends Wait-and-See Stance](https://www.wsj.com/economy/central-banking/fed-says-inflation-progress-has-stalled-and-extends-wait-and-see-rate-stance-51b74bbf)
 * [2024-05-01, 18:42:46](https://news.ycombinator.com/item?id=40227462) - [Israel tells U.S. retaliation would loom over Palestinians if ICC issues warrant](https://www.axios.com/2024/05/01/us-israel-palestinian-authority-icc-arrest-warrant)
 * [2024-05-01, 18:31:52](https://news.ycombinator.com/item?id=40227292) - [R/Java bans Kevin Bourrillion because he mentioned another programming language](https://twitter.com/kevinb9n/status/1785066830966690126)

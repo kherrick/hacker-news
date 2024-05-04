@@ -10,6 +10,7 @@
 * [2024-05-03, 22:47:13](https://news.ycombinator.com/item?id=40253195) - [The Canadian State Is Euthanizing Its Poor and Disabled](https://jacobin.com/2024/05/canada-euthanasia-poor-disabled-health-care)
 * [2024-05-03, 22:30:31](https://news.ycombinator.com/item?id=40253079) - [Snowflake's tech is not worth $50B dollars](https://old.reddit.com/r/wallstreetbets/comments/1cirikp/snowflake_isnt_worth_50_billion_dollars/)
 * [2024-05-03, 22:12:46](https://news.ycombinator.com/item?id=40252965) - [China's quiet energy revolution: the switch from nuclear to renewable energy](https://johnmenadue.com/chinas-quiet-energy-revolution-the-switch-from-nuclear-to-renewable-energy/)
+* [2024-05-03, 22:07:34](https://news.ycombinator.com/item?id=40252933) - [Make your own stargazing binoculars](https://www.analogsky.co/magic)
 * [2024-05-03, 21:32:32](https://news.ycombinator.com/item?id=40252619) - [Microsoft ties executive pay to security after multiple failures and breaches](https://arstechnica.com/information-technology/2024/05/microsoft-ties-executive-pay-to-security-following-multiple-failures-and-breaches/)
 * [2024-05-03, 21:26:46](https://news.ycombinator.com/item?id=40252569) - [Show HN: I built a free in-browser Llama 3 chatbot powered by WebGPU](https://github.com/abi/secret-llama)
 * [2024-05-03, 21:20:57](https://news.ycombinator.com/item?id=40252525) - [Discord Applying Forced Arbitration - opt-out before it is too late!](https://bsky.app/profile/silverwuffamute.bsky.social/post/3kqbd476nvk2i)
