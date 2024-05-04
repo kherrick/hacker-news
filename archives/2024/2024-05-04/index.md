@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-05-04](index.md)
 
+* [2024-05-04, 13:13:33](https://news.ycombinator.com/item?id=40257420) - [StarCoder2-Instruct: Transparent Self-Alignment for Code Generation](https://github.com/bigcode-project/starcoder2-self-align)
 * [2024-05-04, 12:00:28](https://news.ycombinator.com/item?id=40256991) - [Trayd (YC S23) Is Hiring Technical Customer Success Associate](https://www.ycombinator.com/companies/trayd/jobs/mWFq6En-technical-customer-success-associate)
 * [2024-05-04, 11:55:35](https://news.ycombinator.com/item?id=40256974) - [Is robotics about to have its own ChatGPT moment?](https://www.technologyreview.com/2024/04/11/1090718/household-robots-ai-data-robotics/)
+* [2024-05-04, 11:36:48](https://news.ycombinator.com/item?id=40256868) - [I don't want to fill out your contact form](https://adamjones.me/blog/dont-use-contact-forms/)
 * [2024-05-04, 11:17:22](https://news.ycombinator.com/item?id=40256754) - [Phillipine court bans growth of transgenic golden rice](https://www.science.org/content/article/what-philippine-court-ruling-means-transgenic-golden-rice-once-hailed-dietary)
 * [2024-05-04, 11:07:44](https://news.ycombinator.com/item?id=40256680) - [FreeBSD Status Report: First Quarter 2024](https://www.freebsd.org/status/report-2024-01-2024-03/)
 * [2024-05-04, 10:55:13](https://news.ycombinator.com/item?id=40256600) - [At some point, JavaScript got good](https://jonbeebe.net/2024/05/javascript-got-good/)
