@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-04](index.md)
 
+* [2024-05-04, 04:12:20](https://news.ycombinator.com/item?id=40254746) - [Bay Area restaurants react to new Calif. law with anger, shock](https://www.sfgate.com/food/article/sf-restaurants-junk-fees-law-19436419.php)
 * [2024-05-04, 03:30:11](https://news.ycombinator.com/item?id=40254573) - [I joined landlord groups to persuade them to be better people to their tenants](https://www.thisisalot.com/unhinged-opinions/i-joined-a-bunch-of-landlord-groups-to-subtly-manipulate-them-into-being-better-people/118/)
 * [2024-05-04, 03:00:55](https://news.ycombinator.com/item?id=40254472) - [Japan ministry asks Line, Yahoo operator to shed Naver influence](https://asia.nikkei.com/Business/Technology/Japan-ministry-asks-Line-Yahoo-operator-to-shed-Naver-influence)
 * [2024-05-04, 02:38:31](https://news.ycombinator.com/item?id=40254384) - [I hate online Lorem Ipsum Generator so I made my own](https://news.ycombinator.com/item?id=40254384)
