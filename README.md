@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-04, 04:10:11](https://news.ycombinator.com/item?id=40254733) - [Tesla retreat from EV charging leaves growth of U.S. network in doubt](https://www.washingtonpost.com/business/2024/05/03/tesla-charging-us-network/)
 * [2024-05-04, 03:37:57](https://news.ycombinator.com/item?id=40254602) - [Nintendo blitzes GitHub with over 8k emulator-related DMCA takedowns](https://www.engadget.com/nintendo-blitzes-github-with-over-8000-emulator-related-dmca-takedowns-200021877.html)
 * [2024-05-04, 03:30:11](https://news.ycombinator.com/item?id=40254573) - [I joined landlord groups to persuade them to be better people to their tenants](https://www.thisisalot.com/unhinged-opinions/i-joined-a-bunch-of-landlord-groups-to-subtly-manipulate-them-into-being-better-people/118/)
 * [2024-05-04, 02:38:31](https://news.ycombinator.com/item?id=40254384) - [Show HN: I hate online Lorem Ipsum Generator so I made my own](https://news.ycombinator.com/item?id=40254384)
@@ -8,7 +9,6 @@
 * [2024-05-04, 01:23:36](https://news.ycombinator.com/item?id=40254047) - [I never stopped learning from Daniel Dennett](https://nautil.us/i-never-stopped-learning-from-daniel-dennett-569904/)
 * [2024-05-04, 00:43:03](https://news.ycombinator.com/item?id=40253868) - [How much time should you spend sitting versus standing?](https://theconversation.com/how-much-time-should-you-spend-sitting-versus-standing-new-research-reveals-the-perfect-mix-for-optimal-health-228894)
 * [2024-05-04, 00:23:24](https://news.ycombinator.com/item?id=40253774) - [Show HN: Bloom – A shadcn like UI library for Elixir and Phoenix](https://bloom-ui.fly.dev/)
-* [2024-05-04, 00:01:21](https://news.ycombinator.com/item?id=40253637) - [People with gas and propane stoves breathe more unhealthy nitrogen dioxide](https://news.stanford.edu/2024/05/03/people-gas-propane-stoves-breathe-unhealthy-nitrogen-dioxide/)
 * [2024-05-03, 21:26:46](https://news.ycombinator.com/item?id=40252569) - [Show HN: I built a free in-browser Llama 3 chatbot powered by WebGPU](https://github.com/abi/secret-llama)
 * [2024-05-03, 21:00:24](https://news.ycombinator.com/item?id=40252334) - [Finley (YC W21) is hiring securitization and structured finance professionals](https://jobs.lever.co/FinleyTechnologies/70462b30-c31a-4db3-932a-0abb96ec5566)
 * [2024-05-03, 20:01:41](https://news.ycombinator.com/item?id=40251747) - [StructLM: Towards Building Generalist Models for Structured Knowledge Grounding](https://arxiv.org/abs/2402.16671)
