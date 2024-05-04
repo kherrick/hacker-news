@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-04, 16:01:03](https://news.ycombinator.com/item?id=40258556) - [NASA Audit Identifies Significant Issues with Orion Heat Shield](https://payloadspace.com/nasa-audit-identifies-significant-issues-with-orion-heat-shield/)
 * [2024-05-04, 15:22:14](https://news.ycombinator.com/item?id=40258315) - [Spotify getting into enterprise IT tools](https://techcrunch.com/2024/04/30/spotifys-getting-serious-about-its-enterprise-and-dev-tools-business-play/)
 * [2024-05-04, 15:21:15](https://news.ycombinator.com/item?id=40258308) - [Big data reveals true climate impact of worldwide air travel](https://norwegianscitechnews.com/2024/04/big-data-reveals-true-climate-impact-of-worldwide-air-travel/)
 * [2024-05-04, 15:15:48](https://news.ycombinator.com/item?id=40258273) - [Was the Stone Age the Wood Age?](https://www.nytimes.com/2024/05/04/science/archaeology-neanderthals-wood.html)
@@ -16,6 +15,7 @@
 * [2024-05-03, 18:11:25](https://news.ycombinator.com/item?id=40250557) - [Show HN: BandMatch – “Tinder” but for finding musicians to create bands/collab](https://bandmatch.app)
 * [2024-05-03, 18:07:17](https://news.ycombinator.com/item?id=40250525) - [SATO: Stable Text-to-Motion Framework](https://sato-team.github.io/Stable-Text-to-Motion-Framework/)
 * [2024-05-03, 18:06:53](https://news.ycombinator.com/item?id=40250519) - [How hard can generating 1024-bit primes be?](https://glitchcomet.com/articles/1024-bit-primes/)
+* [2024-05-03, 15:22:17](https://news.ycombinator.com/item?id=40248721) - [Manta Ray UUV prototype completes in-water testing](https://www.darpa.mil/news-events/2024-05-01)
 * [2024-05-03, 15:13:37](https://news.ycombinator.com/item?id=40248619) - [AI copilots are changing how coding is taught](https://spectrum.ieee.org/ai-coding)
 * [2024-05-03, 13:46:41](https://news.ycombinator.com/item?id=40247604) - [DNS traffic can leak outside the VPN tunnel on Android](https://mullvad.net/en/blog/dns-traffic-can-leak-outside-the-vpn-tunnel-on-android)
 * [2024-05-03, 13:26:38](https://news.ycombinator.com/item?id=40247421) - [Unique volumes of Brothers Grimm fairy tales discovered in Poland](https://english.nv.ua/life/27-unique-volumes-of-grimm-brothers-fairy-tales-were-found-in-poland-50415035.html)
