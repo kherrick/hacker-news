@@ -6,6 +6,7 @@
 
 * [2024-05-03, 23:40:27](https://news.ycombinator.com/item?id=40253514) - [Bountysource Stole at Least $17,000 from Open Source Developers](https://boehs.org/node/bountysource)
 * [2024-05-03, 23:12:52](https://news.ycombinator.com/item?id=40253352) - [Texas A&M Qatar campus to close by 2028](https://www.qatar.tamu.edu/news-and-events/news/2024/02/09/texas-a-and-m-qatar-campus-to-close-by-2028/)
+* [2024-05-03, 22:54:22](https://news.ycombinator.com/item?id=40253245) - [How the Kindness of Sega Saved Nvidia from Going Under](https://www.timeextension.com/features/flashback-how-the-kindness-of-sega-saved-nvidia-from-going-under)
 * [2024-05-03, 22:47:13](https://news.ycombinator.com/item?id=40253195) - [The Canadian State Is Euthanizing Its Poor and Disabled](https://jacobin.com/2024/05/canada-euthanasia-poor-disabled-health-care)
 * [2024-05-03, 22:30:31](https://news.ycombinator.com/item?id=40253079) - [Snowflake's tech is not worth $50B dollars](https://old.reddit.com/r/wallstreetbets/comments/1cirikp/snowflake_isnt_worth_50_billion_dollars/)
 * [2024-05-03, 22:12:46](https://news.ycombinator.com/item?id=40252965) - [China's quiet energy revolution: the switch from nuclear to renewable energy](https://johnmenadue.com/chinas-quiet-energy-revolution-the-switch-from-nuclear-to-renewable-energy/)

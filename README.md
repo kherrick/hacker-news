@@ -7,7 +7,7 @@
 * [2024-05-04, 01:23:36](https://news.ycombinator.com/item?id=40254047) - [I never stopped learning from Daniel Dennett](https://nautil.us/i-never-stopped-learning-from-daniel-dennett-569904/)
 * [2024-05-04, 00:43:03](https://news.ycombinator.com/item?id=40253868) - [How much time should you spend sitting versus standing?](https://theconversation.com/how-much-time-should-you-spend-sitting-versus-standing-new-research-reveals-the-perfect-mix-for-optimal-health-228894)
 * [2024-05-04, 00:23:24](https://news.ycombinator.com/item?id=40253774) - [Show HN: Bloom – A shadcn like UI library for Elixir and Phoenix](https://bloom-ui.fly.dev/)
-* [2024-05-04, 00:01:21](https://news.ycombinator.com/item?id=40253637) - [People with gas and propane stoves breathe more unhealthy nitrogen dioxide](https://news.stanford.edu/2024/05/03/people-gas-propane-stoves-breathe-unhealthy-nitrogen-dioxide/)
+* [2024-05-03, 22:54:22](https://news.ycombinator.com/item?id=40253245) - [How the Kindness of Sega Saved Nvidia from Going Under](https://www.timeextension.com/features/flashback-how-the-kindness-of-sega-saved-nvidia-from-going-under)
 * [2024-05-03, 21:26:46](https://news.ycombinator.com/item?id=40252569) - [Show HN: I built a free in-browser Llama 3 chatbot powered by WebGPU](https://github.com/abi/secret-llama)
 * [2024-05-03, 21:00:24](https://news.ycombinator.com/item?id=40252334) - [Finley (YC W21) is hiring securitization and structured finance professionals](https://jobs.lever.co/FinleyTechnologies/70462b30-c31a-4db3-932a-0abb96ec5566)
 * [2024-05-03, 20:01:41](https://news.ycombinator.com/item?id=40251747) - [StructLM: Towards Building Generalist Models for Structured Knowledge Grounding](https://arxiv.org/abs/2402.16671)
