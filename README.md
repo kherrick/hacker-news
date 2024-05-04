@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-04, 22:49:21](https://news.ycombinator.com/item?id=40260936) - [Cathinone and Psilocybin in Cicada Pathogens (2019)](https://www.sciencedirect.com/science/article/pii/S1754504819300352)
 * [2024-05-04, 22:48:59](https://news.ycombinator.com/item?id=40260935) - [When a politician sues a blog to unmask its anonymous commenter](https://yro.slashdot.org/story/24/05/04/0316216/when-a-politician-sues-a-blog-to-unmask-its-anonymous-commenter)
 * [2024-05-04, 22:39:24](https://news.ycombinator.com/item?id=40260881) - [Multi-million dollar Cheyenne supercomputer auction ends with $480,085 bid](https://www.tomshardware.com/tech-industry/supercomputers/multi-million-dollar-cheyenne-supercomputer-auction-ends-with-480085-bid)
 * [2024-05-04, 21:03:55](https://news.ycombinator.com/item?id=40260259) - [Show HN: gpudeploy.com – \"Airbnb\" for GPUs](https://www.gpudeploy.com)
@@ -23,7 +24,6 @@
 * [2024-05-04, 07:19:39](https://news.ycombinator.com/item?id=40255634) - [A Debate about Words](https://dstrohmaier.com/A-Debatte-about-Words/)
 * [2024-05-03, 23:37:59](https://news.ycombinator.com/item?id=40253494) - [Art and Memory](https://www.lrb.co.uk/the-paper/v46/n09/julian-barnes/diary)
 * [2024-05-03, 01:44:30](https://news.ycombinator.com/item?id=40243168) - [I’m writing a new vector search SQLite Extension](https://alexgarcia.xyz/blog/2024/building-new-vector-search-sqlite/index.html)
-* [2024-05-02, 17:48:14](https://news.ycombinator.com/item?id=40239164) - [Making a 3D modeler in C in a week](https://danielchasehooper.com/posts/shapeup/)
 * [2024-05-02, 14:04:10](https://news.ycombinator.com/item?id=40236462) - [Professor Megalow's Dinosaur Bones: Richard Owen and Victorian literature](https://publicdomainreview.org/essay/richard-owen-and-victorian-literature)
 * [2024-05-02, 12:24:13](https://news.ycombinator.com/item?id=40235345) - [The business of wallets](https://www.bitsaboutmoney.com/archive/the-business-of-wallets/)
 * [2024-05-01, 18:49:54](https://news.ycombinator.com/item?id=40227584) - [Opera for Beginners](http://www.taleofgenji.org/opera_for_beginners.html)
