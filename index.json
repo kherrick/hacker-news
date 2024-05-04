@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-04, 03:00:55",
+      "https://news.ycombinator.com/item?id=40254472"
+    ],
+    [
+      "Japan ministry asks Line, Yahoo operator to shed Naver influence",
+      "https://asia.nikkei.com/Business/Technology/Japan-ministry-asks-Line-Yahoo-operator-to-shed-Naver-influence"
+    ]
+  ],
+  [
+    [
       "2024-05-04, 02:38:31",
       "https://news.ycombinator.com/item?id=40254384"
     ],
@@ -11,22 +21,22 @@
   ],
   [
     [
-      "2024-05-04, 02:32:32",
-      "https://news.ycombinator.com/item?id=40254354"
-    ],
-    [
-      "SVB agrees to sell venture capital arm for $340M",
-      "https://www.axios.com/2024/05/03/svb-venture-capital-arm"
-    ]
-  ],
-  [
-    [
       "2024-05-04, 02:13:06",
       "https://news.ycombinator.com/item?id=40254259"
     ],
     [
       "Rustc_codegen_GCC: Progress Report #32",
       "https://blog.antoyo.xyz/rustc_codegen_gcc-progress-report-32"
+    ]
+  ],
+  [
+    [
+      "2024-05-04, 01:30:32",
+      "https://news.ycombinator.com/item?id=40254080"
+    ],
+    [
+      "My secret life as an 11-year-old BBS sysop (2022)",
+      "https://arstechnica.com/information-technology/2022/12/my-secret-life-as-an-11-year-old-bbs-sysop/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "A portable Common Lisp toolkit for building inspectors",
       "https://github.com/aartaka/trivial-inspect"
-    ]
-  ],
-  [
-    [
-      "2024-05-03, 01:44:30",
-      "https://news.ycombinator.com/item?id=40243168"
-    ],
-    [
-      "I’m writing a new vector search SQLite Extension",
-      "https://alexgarcia.xyz/blog/2024/building-new-vector-search-sqlite/index.html"
     ]
   ],
   [
