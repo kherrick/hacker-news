@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-04, 05:50:16](https://news.ycombinator.com/item?id=40255209) - [A love letter to bicycle maintenance and repair](https://tegowerk.eu/posts/bicycle-repair/)
+* [2024-05-04, 04:10:11](https://news.ycombinator.com/item?id=40254733) - [Tesla retreat from EV charging leaves growth of U.S. network in doubt](https://www.washingtonpost.com/business/2024/05/03/tesla-charging-us-network/)
 * [2024-05-04, 03:37:57](https://news.ycombinator.com/item?id=40254602) - [Nintendo blitzes GitHub with over 8k emulator-related DMCA takedowns](https://www.engadget.com/nintendo-blitzes-github-with-over-8000-emulator-related-dmca-takedowns-200021877.html)
 * [2024-05-04, 02:38:31](https://news.ycombinator.com/item?id=40254384) - [Show HN: I hate online Lorem Ipsum Generator so I made my own](https://news.ycombinator.com/item?id=40254384)
 * [2024-05-04, 01:30:32](https://news.ycombinator.com/item?id=40254080) - [My secret life as an 11-year-old BBS sysop (2022)](https://arstechnica.com/information-technology/2022/12/my-secret-life-as-an-11-year-old-bbs-sysop/)
@@ -18,7 +19,6 @@
 * [2024-05-03, 16:48:47](https://news.ycombinator.com/item?id=40249696) - [DrEureka: Language Model Guided SIM-to-Real Transfer](https://eureka-research.github.io/dr-eureka/)
 * [2024-05-03, 15:22:17](https://news.ycombinator.com/item?id=40248721) - [Manta Ray UUV prototype completes in-water testing](https://www.darpa.mil/news-events/2024-05-01)
 * [2024-05-03, 15:13:37](https://news.ycombinator.com/item?id=40248619) - [AI copilots are changing how coding is taught](https://spectrum.ieee.org/ai-coding)
-* [2024-05-03, 14:39:49](https://news.ycombinator.com/item?id=40248217) - [Lowercase – A simple way to take and share notes](https://www.lowercase.app/)
 * [2024-05-03, 13:46:41](https://news.ycombinator.com/item?id=40247604) - [DNS traffic can leak outside the VPN tunnel on Android](https://mullvad.net/en/blog/dns-traffic-can-leak-outside-the-vpn-tunnel-on-android)
 * [2024-05-03, 13:26:38](https://news.ycombinator.com/item?id=40247421) - [Unique volumes of Brothers Grimm fairy tales discovered in Poland](https://english.nv.ua/life/27-unique-volumes-of-grimm-brothers-fairy-tales-were-found-in-poland-50415035.html)
 * [2024-05-03, 10:43:50](https://news.ycombinator.com/item?id=40246185) - [A portable Common Lisp toolkit for building inspectors](https://github.com/aartaka/trivial-inspect)
