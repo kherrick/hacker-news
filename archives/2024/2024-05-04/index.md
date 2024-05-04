@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-04](index.md)
 
+* [2024-05-04, 05:50:16](https://news.ycombinator.com/item?id=40255209) - [A love letter to bicycle maintenance and repair](https://tegowerk.eu/posts/bicycle-repair/)
 * [2024-05-04, 04:41:08](https://news.ycombinator.com/item?id=40254891) - [Show HN: I created a 100% automated YouTube shorts channel using AI tools](https://thesolofoundernewsletter.com/p/special-edition-created-100-automated-youtube-shorts-channel-using-free-ai-tools-python)
 * [2024-05-04, 04:12:20](https://news.ycombinator.com/item?id=40254746) - [Bay Area restaurants react to new Calif. law with anger, shock](https://www.sfgate.com/food/article/sf-restaurants-junk-fees-law-19436419.php)
 * [2024-05-04, 04:10:11](https://news.ycombinator.com/item?id=40254733) - [Tesla retreat from EV charging leaves growth of U.S. network in doubt](https://www.washingtonpost.com/business/2024/05/03/tesla-charging-us-network/)
