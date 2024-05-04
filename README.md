@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-04, 19:18:37](https://news.ycombinator.com/item?id=40259680) - [He Lost $36B in a Week. Now Bill Hwang Is Fighting to Avoid Prison](https://www.bloomberg.com/news/features/2024-05-01/bill-hwang-fights-prison-time-after-hastening-credit-suisse-collapse)
 * [2024-05-04, 17:52:53](https://news.ycombinator.com/item?id=40259196) - [Does the American Diabetes Association work for patients or companies?](https://www.theguardian.com/global/commentisfree/2024/may/02/american-diabetes-association-lawsuit)
 * [2024-05-04, 17:00:50](https://news.ycombinator.com/item?id=40258899) - [Motion (YC W20) is hiring senior software engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
 * [2024-05-04, 16:47:17](https://news.ycombinator.com/item?id=40258804) - [Porting HPC Applications to AMD Instinct MI300A Using Unified Memory and OpenMP](https://arxiv.org/abs/2405.00436)
-* [2024-05-04, 15:22:14](https://news.ycombinator.com/item?id=40258315) - [Spotify getting into enterprise IT tools](https://techcrunch.com/2024/04/30/spotifys-getting-serious-about-its-enterprise-and-dev-tools-business-play/)
 * [2024-05-04, 15:15:48](https://news.ycombinator.com/item?id=40258273) - [Was the Stone Age the Wood Age?](https://www.nytimes.com/2024/05/04/science/archaeology-neanderthals-wood.html)
 * [2024-05-04, 14:42:44](https://news.ycombinator.com/item?id=40258037) - [How to Build a $20B Semiconductor Fab](https://www.construction-physics.com/p/how-to-build-a-20-billion-semiconductor)
 * [2024-05-04, 14:17:01](https://news.ycombinator.com/item?id=40257843) - [The Mirror Fusion Test Facility (2023)](https://www.beautifulpublicdata.com/the-mirror-fusion-test-facility/)
