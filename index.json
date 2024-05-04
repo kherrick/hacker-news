@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-05-04, 21:01:58",
+      "https://news.ycombinator.com/item?id=40260251"
+    ],
+    [
+      "Personalized mRNA vaccine boosts melanoma immunotherapy",
+      "https://www.nature.com/articles/d41591-024-00006-4"
+    ]
+  ],
+  [
+    [
+      "2024-05-04, 21:00:49",
+      "https://news.ycombinator.com/item?id=40260245"
+    ],
+    [
+      "Streak (YC S11) is hiring a staff UI engineer",
+      "https://www.streak.com/careers/staff-ui-engineer"
+    ]
+  ],
+  [
+    [
       "2024-05-04, 20:22:54",
       "https://news.ycombinator.com/item?id=40260035"
     ],
@@ -31,12 +51,12 @@
   ],
   [
     [
-      "2024-05-04, 17:00:50",
-      "https://news.ycombinator.com/item?id=40258899"
+      "2024-05-04, 17:50:53",
+      "https://news.ycombinator.com/item?id=40259185"
     ],
     [
-      "Motion (YC W20) is hiring senior software engineers",
-      "https://jobs.ashbyhq.com/motion?utm_source=hn"
+      "Verified Rust for low-level systems code",
+      "https://github.com/verus-lang/verus"
     ]
   ],
   [
@@ -95,8 +115,8 @@
       "https://news.ycombinator.com/item?id=40257677"
     ],
     [
-      "In praise of idleness – Bertrand Russell",
-      "https://libcom.org/article/praise-idleness-bertrand-russell"
+      "In Praise of Idleness (1932)",
+      "https://harpers.org/archive/1932/10/in-praise-of-idleness/"
     ]
   ],
   [
@@ -141,72 +161,42 @@
   ],
   [
     [
-      "2024-05-04, 05:57:45",
-      "https://news.ycombinator.com/item?id=40255249"
+      "2024-05-04, 07:22:46",
+      "https://news.ycombinator.com/item?id=40255649"
     ],
     [
-      "How big is the Flutter team?",
-      "https://ln.hixie.ch/?start=1714717681"
+      "CookingSense: A Culinary Knowledgebase with Multidisciplinary Assertions",
+      "https://arxiv.org/abs/2405.00523"
     ]
   ],
   [
     [
-      "2024-05-03, 21:26:46",
-      "https://news.ycombinator.com/item?id=40252569"
+      "2024-05-04, 07:14:14",
+      "https://news.ycombinator.com/item?id=40255611"
     ],
     [
-      "Show HN: I built a free in-browser Llama 3 chatbot powered by WebGPU",
-      "https://github.com/abi/secret-llama"
+      "Plotille: Plot in the terminal using Braille dots",
+      "https://github.com/tammoippen/plotille"
     ]
   ],
   [
     [
-      "2024-05-03, 19:25:22",
-      "https://news.ycombinator.com/item?id=40251317"
+      "2024-05-04, 01:23:36",
+      "https://news.ycombinator.com/item?id=40254047"
     ],
     [
-      "The Physics of Karate (2021)",
-      "https://daily.jstor.org/the-physics-of-karate/"
+      "I never stopped learning from Daniel Dennett",
+      "https://nautil.us/i-never-stopped-learning-from-daniel-dennett-569904/"
     ]
   ],
   [
     [
-      "2024-05-03, 18:11:25",
-      "https://news.ycombinator.com/item?id=40250557"
+      "2024-05-03, 15:22:17",
+      "https://news.ycombinator.com/item?id=40248721"
     ],
     [
-      "Show HN: BandMatch – “Tinder” but for finding musicians to create bands/collab",
-      "https://bandmatch.app"
-    ]
-  ],
-  [
-    [
-      "2024-05-03, 18:07:17",
-      "https://news.ycombinator.com/item?id=40250525"
-    ],
-    [
-      "SATO: Stable Text-to-Motion Framework",
-      "https://sato-team.github.io/Stable-Text-to-Motion-Framework/"
-    ]
-  ],
-  [
-    [
-      "2024-05-03, 18:06:53",
-      "https://news.ycombinator.com/item?id=40250519"
-    ],
-    [
-      "How hard can generating 1024-bit primes be?",
-      "https://glitchcomet.com/articles/1024-bit-primes/"
-    ]
-  ],
-  [
-    [
-      "2024-05-03, 15:13:37",
-      "https://news.ycombinator.com/item?id=40248619"
-    ],
-    [
-      "AI copilots are changing how coding is taught",
-      "https://spectrum.ieee.org/ai-coding"
+      "Manta Ray UUV prototype completes in-water testing",
+      "https://www.darpa.mil/news-events/2024-05-01"
     ]
   ],
   [
@@ -221,12 +211,12 @@
   ],
   [
     [
-      "2024-05-03, 13:26:38",
-      "https://news.ycombinator.com/item?id=40247421"
+      "2024-05-03, 09:14:19",
+      "https://news.ycombinator.com/item?id=40245686"
     ],
     [
-      "Unique volumes of Brothers Grimm fairy tales discovered in Poland",
-      "https://english.nv.ua/life/27-unique-volumes-of-grimm-brothers-fairy-tales-were-found-in-poland-50415035.html"
+      "Figma’s Journey to TypeScript",
+      "https://www.figma.com/blog/figmas-journey-to-typescript-compiling-away-our-custom-programming-language/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Opera for Beginners",
       "http://www.taleofgenji.org/opera_for_beginners.html"
+    ]
+  ],
+  [
+    [
+      "2024-05-01, 15:47:15",
+      "https://news.ycombinator.com/item?id=40224937"
+    ],
+    [
+      "TORAX is a differentiable tokamak core transport simulator",
+      "https://github.com/google-deepmind/torax"
     ]
   ],
   [
