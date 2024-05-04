@@ -99,6 +99,7 @@
 * [2024-05-01, 10:04:47](https://news.ycombinator.com/item?id=40221345) - [Invisible Stitch: Generating Smooth 3D Scenes with Depth Inpainting](https://research.paulengstler.com/invisible-stitch/)
 * [2024-05-01, 10:02:48](https://news.ycombinator.com/item?id=40221331) - [Show HN: I built this AI supported career product, so you don´t get rejected](https://interviewtraininggermany.com/course/transformative-action-process)
 * [2024-05-01, 10:01:53](https://news.ycombinator.com/item?id=40221327) - [Paul Auster How I Became a Writer](https://channel.louisiana.dk/video/paul-auster-how-i-became-writer)
+* [2024-05-01, 09:45:01](https://news.ycombinator.com/item?id=40221235) - [Understanding Open Podcast Prefix Project (OP3) with John Spurlock](https://blog.castopod.org/understanding-op3-with-john-spurlock/)
 * [2024-05-01, 09:39:40](https://news.ycombinator.com/item?id=40221210) - [Ask HN: How to handle user file uploads?](https://news.ycombinator.com/item?id=40221210)
 * [2024-05-01, 09:29:32](https://news.ycombinator.com/item?id=40221154) - [LLMs Can't Do Probability](https://brainsteam.co.uk/2024/05/01/llms-cant-do-probability/)
 * [2024-05-01, 09:22:23](https://news.ycombinator.com/item?id=40221108) - [Jeff Barr acknowledges S3 unauthorized request billing issue](https://old.reddit.com/r/aws/comments/1ch1ir4/jeff_barr_acknowledges_s3_unauthorized_request/)
