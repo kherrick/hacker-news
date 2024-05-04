@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-05-04, 04:10:11",
-      "https://news.ycombinator.com/item?id=40254733"
-    ],
-    [
-      "Tesla retreat from EV charging leaves growth of U.S. network in doubt",
-      "https://www.washingtonpost.com/business/2024/05/03/tesla-charging-us-network/"
-    ]
-  ],
-  [
-    [
       "2024-05-04, 03:37:57",
       "https://news.ycombinator.com/item?id=40254602"
     ],
@@ -161,16 +151,6 @@
   ],
   [
     [
-      "2024-05-03, 16:48:47",
-      "https://news.ycombinator.com/item?id=40249696"
-    ],
-    [
-      "DrEureka: Language Model Guided SIM-to-Real Transfer",
-      "https://eureka-research.github.io/dr-eureka/"
-    ]
-  ],
-  [
-    [
       "2024-05-03, 15:22:17",
       "https://news.ycombinator.com/item?id=40248721"
     ],
@@ -221,22 +201,32 @@
   ],
   [
     [
-      "2024-05-03, 10:43:50",
-      "https://news.ycombinator.com/item?id=40246185"
-    ],
-    [
-      "A portable Common Lisp toolkit for building inspectors",
-      "https://github.com/aartaka/trivial-inspect"
-    ]
-  ],
-  [
-    [
       "2024-05-03, 09:14:19",
       "https://news.ycombinator.com/item?id=40245686"
     ],
     [
       "Figma's Journey to TypeScript",
       "https://www.figma.com/blog/figmas-journey-to-typescript-compiling-away-our-custom-programming-language/"
+    ]
+  ],
+  [
+    [
+      "2024-05-03, 06:12:01",
+      "https://news.ycombinator.com/item?id=40244653"
+    ],
+    [
+      "Folding and One Straight Cut Suffice [pdf]",
+      "https://www.imsc.res.in/~hbar/PDFs_2017/Paper_by_Demaine_Demaine_Lubiw.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-05-03, 01:44:30",
+      "https://news.ycombinator.com/item?id=40243168"
+    ],
+    [
+      "I’m writing a new vector search SQLite Extension",
+      "https://alexgarcia.xyz/blog/2024/building-new-vector-search-sqlite/index.html"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "A Clock in the Forest",
       "https://www.noemamag.com/a-clock-in-the-forest/"
+    ]
+  ],
+  [
+    [
+      "2024-04-30, 23:05:12",
+      "https://news.ycombinator.com/item?id=40217554"
+    ],
+    [
+      "A Mathematical Theory of Communication [pdf]",
+      "https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf"
     ]
   ],
   [
