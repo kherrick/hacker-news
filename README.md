@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-04, 22:48:59](https://news.ycombinator.com/item?id=40260935) - [When a politician sues a blog to unmask its anonymous commenter](https://yro.slashdot.org/story/24/05/04/0316216/when-a-politician-sues-a-blog-to-unmask-its-anonymous-commenter)
 * [2024-05-04, 22:39:24](https://news.ycombinator.com/item?id=40260881) - [Multi-million dollar Cheyenne supercomputer auction ends with $480,085 bid](https://www.tomshardware.com/tech-industry/supercomputers/multi-million-dollar-cheyenne-supercomputer-auction-ends-with-480085-bid)
 * [2024-05-04, 21:03:55](https://news.ycombinator.com/item?id=40260259) - [Show HN: gpudeploy.com – \"Airbnb\" for GPUs](https://www.gpudeploy.com)
 * [2024-05-04, 21:00:49](https://news.ycombinator.com/item?id=40260245) - [Streak (YC S11) is hiring a staff UI engineer](https://www.streak.com/careers/staff-ui-engineer)
@@ -21,7 +22,6 @@
 * [2024-05-04, 07:22:46](https://news.ycombinator.com/item?id=40255649) - [CookingSense: A Culinary Knowledgebase with Multidisciplinary Assertions](https://arxiv.org/abs/2405.00523)
 * [2024-05-04, 07:19:39](https://news.ycombinator.com/item?id=40255634) - [A Debate about Words](https://dstrohmaier.com/A-Debatte-about-Words/)
 * [2024-05-03, 23:37:59](https://news.ycombinator.com/item?id=40253494) - [Art and Memory](https://www.lrb.co.uk/the-paper/v46/n09/julian-barnes/diary)
-* [2024-05-03, 13:46:41](https://news.ycombinator.com/item?id=40247604) - [DNS traffic can leak outside the VPN tunnel on Android](https://mullvad.net/en/blog/dns-traffic-can-leak-outside-the-vpn-tunnel-on-android)
 * [2024-05-03, 01:44:30](https://news.ycombinator.com/item?id=40243168) - [I’m writing a new vector search SQLite Extension](https://alexgarcia.xyz/blog/2024/building-new-vector-search-sqlite/index.html)
 * [2024-05-02, 17:48:14](https://news.ycombinator.com/item?id=40239164) - [Making a 3D modeler in C in a week](https://danielchasehooper.com/posts/shapeup/)
 * [2024-05-02, 14:04:10](https://news.ycombinator.com/item?id=40236462) - [Professor Megalow's Dinosaur Bones: Richard Owen and Victorian literature](https://publicdomainreview.org/essay/richard-owen-and-victorian-literature)
@@ -29,7 +29,7 @@
 * [2024-05-01, 18:49:54](https://news.ycombinator.com/item?id=40227584) - [Opera for Beginners](http://www.taleofgenji.org/opera_for_beginners.html)
 * [2024-05-01, 09:39:40](https://news.ycombinator.com/item?id=40221210) - [Ask HN: How to handle user file uploads?](https://news.ycombinator.com/item?id=40221210)
 * [2024-05-01, 09:15:12](https://news.ycombinator.com/item?id=40221067) - [The Nature of Code (2nd Edition)](https://natureofcode.com/introduction/)
-* [2024-04-30, 23:05:12](https://news.ycombinator.com/item?id=40217554) - [A Mathematical Theory of Communication [pdf]](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
+* [2024-05-01, 08:01:14](https://news.ycombinator.com/item?id=40220691) - [Archaeology team discovers a 7k-year-old settlement in Serbia](https://phys.org/news/2024-04-archaeology-team-year-settlement-serbia.html)
 
 ## [Archives](archives/index.md)
 

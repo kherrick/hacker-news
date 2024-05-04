@@ -111,6 +111,7 @@
 * [2024-05-01, 08:14:18](https://news.ycombinator.com/item?id=40220769) - [How to Solve It (With Raycasting)](https://alicegg.tech//2024/05/01/how-to-solve-it.html)
 * [2024-05-01, 08:05:56](https://news.ycombinator.com/item?id=40220722) - [Jane Street is big. Like, big](https://www.ft.com/content/54671865-4c7f-4692-a879-867ef68f0bde)
 * [2024-05-01, 08:03:08](https://news.ycombinator.com/item?id=40220699) - [Show HN: I've build a stupidly simple invoicing for freelancers and contractors](https://onigiri.one/)
+* [2024-05-01, 08:01:14](https://news.ycombinator.com/item?id=40220691) - [Archaeology team discovers a 7k-year-old settlement in Serbia](https://phys.org/news/2024-04-archaeology-team-year-settlement-serbia.html)
 * [2024-05-01, 07:56:31](https://news.ycombinator.com/item?id=40220648) - [Most clean power purchasing strategies do little to cut emissions](https://research.princeton.edu/news/buyer-beware-most-clean-power-purchasing-strategies-do-little-cut-emissions)
 * [2024-05-01, 07:45:30](https://news.ycombinator.com/item?id=40220578) - [Astronauts could run round 'Wall of Death' to keep fit on moon, say scientists](https://www.theguardian.com/science/2024/may/01/astronauts-could-run-round-wall-of-death-to-keep-fit-on-moon-say-scientists)
 * [2024-05-01, 07:39:09](https://news.ycombinator.com/item?id=40220542) - [Fast, simple, hard real time allocator for Rust](https://github.com/pcwalton/offset-allocator)
