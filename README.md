@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-04, 09:11:33](https://news.ycombinator.com/item?id=40256096) - [PHP Doesn't Suck Anymore](https://developerjoy.co/blog/php-doesnt-suck-anymore)
 * [2024-05-04, 05:50:16](https://news.ycombinator.com/item?id=40255209) - [A love letter to bicycle maintenance and repair](https://tegowerk.eu/posts/bicycle-repair/)
 * [2024-05-04, 03:37:57](https://news.ycombinator.com/item?id=40254602) - [Nintendo blitzes GitHub with over 8k emulator-related DMCA takedowns](https://www.engadget.com/nintendo-blitzes-github-with-over-8000-emulator-related-dmca-takedowns-200021877.html)
 * [2024-05-04, 01:30:32](https://news.ycombinator.com/item?id=40254080) - [My secret life as an 11-year-old BBS sysop (2022)](https://arstechnica.com/information-technology/2022/12/my-secret-life-as-an-11-year-old-bbs-sysop/)
@@ -22,7 +23,6 @@
 * [2024-05-03, 09:14:19](https://news.ycombinator.com/item?id=40245686) - [Figma's Journey to TypeScript](https://www.figma.com/blog/figmas-journey-to-typescript-compiling-away-our-custom-programming-language/)
 * [2024-05-03, 06:12:01](https://news.ycombinator.com/item?id=40244653) - [Folding and One Straight Cut Suffice [pdf]](https://www.imsc.res.in/~hbar/PDFs_2017/Paper_by_Demaine_Demaine_Lubiw.pdf)
 * [2024-05-03, 01:44:30](https://news.ycombinator.com/item?id=40243168) - [I’m writing a new vector search SQLite Extension](https://alexgarcia.xyz/blog/2024/building-new-vector-search-sqlite/index.html)
-* [2024-05-02, 17:48:14](https://news.ycombinator.com/item?id=40239164) - [Making a 3D modeler in C in a week](https://danielchasehooper.com/posts/shapeup/)
 * [2024-05-01, 16:21:59](https://news.ycombinator.com/item?id=40225410) - [Are Japanese anime robots isometric or allometric?](https://jgeekstudies.org/2024/04/26/are-japanese-anime-robots-isometric-or-allometric/)
 * [2024-05-01, 15:47:15](https://news.ycombinator.com/item?id=40224937) - [TORAX is a differentiable tokamak core transport simulator](https://github.com/google-deepmind/torax)
 * [2024-05-01, 09:39:40](https://news.ycombinator.com/item?id=40221210) - [Ask HN: How to handle user file uploads?](https://news.ycombinator.com/item?id=40221210)

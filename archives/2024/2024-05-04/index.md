@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-04](index.md)
 
+* [2024-05-04, 09:11:33](https://news.ycombinator.com/item?id=40256096) - [PHP Doesn't Suck Anymore](https://developerjoy.co/blog/php-doesnt-suck-anymore)
 * [2024-05-04, 06:36:30](https://news.ycombinator.com/item?id=40255439) - [Holding all men responsible for a violent minority has failed to keep women safe](https://www.smh.com.au/politics/federal/holding-all-men-responsible-for-a-violent-minority-has-failed-to-keep-women-safe-20240501-p5fo82.html)
 * [2024-05-04, 05:50:16](https://news.ycombinator.com/item?id=40255209) - [A love letter to bicycle maintenance and repair](https://tegowerk.eu/posts/bicycle-repair/)
 * [2024-05-04, 04:41:08](https://news.ycombinator.com/item?id=40254891) - [Show HN: I created a 100% automated YouTube shorts channel using AI tools](https://thesolofoundernewsletter.com/p/special-edition-created-100-automated-youtube-shorts-channel-using-free-ai-tools-python)
