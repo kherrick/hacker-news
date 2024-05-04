@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-04](index.md)
 
+* [2024-05-04, 13:22:16](https://news.ycombinator.com/item?id=40257470) - [Rising Tide Rents and Robber Baron Rents](https://www.oreilly.com/radar/rising-tide-rents-and-robber-baron-rents/)
 * [2024-05-04, 13:13:33](https://news.ycombinator.com/item?id=40257420) - [StarCoder2-Instruct: Transparent Self-Alignment for Code Generation](https://github.com/bigcode-project/starcoder2-self-align)
+* [2024-05-04, 12:13:19](https://news.ycombinator.com/item?id=40257064) - ['Our culture is dying': vulture shortage threatens Zoroastrian burial rites](https://www.theguardian.com/world/article/2024/may/04/vulture-shortage-threatens-zoroastrian-burial-rites-india-iran-pakistan)
 * [2024-05-04, 12:00:28](https://news.ycombinator.com/item?id=40256991) - [Trayd (YC S23) Is Hiring Technical Customer Success Associate](https://www.ycombinator.com/companies/trayd/jobs/mWFq6En-technical-customer-success-associate)
 * [2024-05-04, 11:55:35](https://news.ycombinator.com/item?id=40256974) - [Is robotics about to have its own ChatGPT moment?](https://www.technologyreview.com/2024/04/11/1090718/household-robots-ai-data-robotics/)
 * [2024-05-04, 11:36:48](https://news.ycombinator.com/item?id=40256868) - [I don't want to fill out your contact form](https://adamjones.me/blog/dont-use-contact-forms/)

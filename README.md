@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-04, 13:22:16](https://news.ycombinator.com/item?id=40257470) - [Rising Tide Rents and Robber Baron Rents](https://www.oreilly.com/radar/rising-tide-rents-and-robber-baron-rents/)
 * [2024-05-04, 13:13:33](https://news.ycombinator.com/item?id=40257420) - [StarCoder2-Instruct: Transparent Self-Alignment for Code Generation](https://github.com/bigcode-project/starcoder2-self-align)
+* [2024-05-04, 12:13:19](https://news.ycombinator.com/item?id=40257064) - ['Our culture is dying': vulture shortage threatens Zoroastrian burial rites](https://www.theguardian.com/world/article/2024/may/04/vulture-shortage-threatens-zoroastrian-burial-rites-india-iran-pakistan)
 * [2024-05-04, 12:00:28](https://news.ycombinator.com/item?id=40256991) - [Trayd (YC S23) Is Hiring Technical Customer Success Associate](https://www.ycombinator.com/companies/trayd/jobs/mWFq6En-technical-customer-success-associate)
 * [2024-05-04, 11:36:48](https://news.ycombinator.com/item?id=40256868) - [I don't want to fill out your contact form](https://adamjones.me/blog/dont-use-contact-forms/)
 * [2024-05-04, 11:17:22](https://news.ycombinator.com/item?id=40256754) - [Phillipine court bans growth of transgenic golden rice](https://www.science.org/content/article/what-philippine-court-ruling-means-transgenic-golden-rice-once-hailed-dietary)
@@ -21,14 +23,12 @@
 * [2024-05-03, 09:00:51](https://news.ycombinator.com/item?id=40245601) - [Woodworking as an escape from the absurdity of software](https://alinpanaitiu.com/blog/woodworking-escape-from-software-absurdity/)
 * [2024-05-03, 06:12:01](https://news.ycombinator.com/item?id=40244653) - [Folding and One Straight Cut Suffice [pdf] (1999)](https://www.imsc.res.in/~hbar/PDFs_2017/Paper_by_Demaine_Demaine_Lubiw.pdf)
 * [2024-05-03, 01:44:30](https://news.ycombinator.com/item?id=40243168) - [I’m writing a new vector search SQLite Extension](https://alexgarcia.xyz/blog/2024/building-new-vector-search-sqlite/index.html)
-* [2024-05-02, 23:56:08](https://news.ycombinator.com/item?id=40242639) - [Stirling PDF: Self-hosted, web-based PDF manipulation tool](https://github.com/Stirling-Tools/Stirling-PDF)
 * [2024-05-02, 17:48:14](https://news.ycombinator.com/item?id=40239164) - [Making a 3D modeler in C in a week](https://danielchasehooper.com/posts/shapeup/)
 * [2024-05-01, 16:21:59](https://news.ycombinator.com/item?id=40225410) - [Are Japanese anime robots isometric or allometric?](https://jgeekstudies.org/2024/04/26/are-japanese-anime-robots-isometric-or-allometric/)
 * [2024-05-01, 15:47:15](https://news.ycombinator.com/item?id=40224937) - [TORAX is a differentiable tokamak core transport simulator](https://github.com/google-deepmind/torax)
 * [2024-05-01, 09:45:01](https://news.ycombinator.com/item?id=40221235) - [Understanding Open Podcast Prefix Project (OP3) with John Spurlock](https://blog.castopod.org/understanding-op3-with-john-spurlock/)
 * [2024-05-01, 09:15:12](https://news.ycombinator.com/item?id=40221067) - [The Nature of Code (2nd Edition)](https://natureofcode.com/introduction/)
 * [2024-05-01, 05:58:57](https://news.ycombinator.com/item?id=40220002) - [A Clock in the Forest](https://www.noemamag.com/a-clock-in-the-forest/)
-* [2024-05-01, 04:02:33](https://news.ycombinator.com/item?id=40219386) - [Resistance against London tube map commit history (a.k.a. git merge hell) (2015)](https://www.tugberkugurlu.com/archive/resistance-against-london-tube-map-commit-history-a-k-a--git-merge-hell)
 * [2024-04-30, 23:05:12](https://news.ycombinator.com/item?id=40217554) - [A Mathematical Theory of Communication [pdf]](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
 
 ## [Archives](archives/index.md)
