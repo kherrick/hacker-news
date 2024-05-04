@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-04, 08:49:20](https://news.ycombinator.com/item?id=40256017) - [Are recruiters better than a coin flip at judging resumes? Here's the data](https://interviewing.io/blog/are-recruiters-better-than-a-coin-flip-at-judging-resumes)
 * [2024-05-04, 01:30:32](https://news.ycombinator.com/item?id=40254080) - [My secret life as an 11-year-old BBS sysop (2022)](https://arstechnica.com/information-technology/2022/12/my-secret-life-as-an-11-year-old-bbs-sysop/)
 * [2024-05-04, 01:25:15](https://news.ycombinator.com/item?id=40254054) - [Insects and other animals have consciousness](https://nautil.us/insects-and-other-animals-have-consciousness-571584/)
 * [2024-05-04, 01:23:36](https://news.ycombinator.com/item?id=40254047) - [I never stopped learning from Daniel Dennett](https://nautil.us/i-never-stopped-learning-from-daniel-dennett-569904/)
@@ -26,7 +27,6 @@
 * [2024-05-02, 06:22:48](https://news.ycombinator.com/item?id=40233259) - [Goodyear Inflatoplane](https://en.wikipedia.org/wiki/Goodyear_Inflatoplane)
 * [2024-05-01, 16:21:59](https://news.ycombinator.com/item?id=40225410) - [Are Japanese anime robots isometric or allometric?](https://jgeekstudies.org/2024/04/26/are-japanese-anime-robots-isometric-or-allometric/)
 * [2024-05-01, 15:47:15](https://news.ycombinator.com/item?id=40224937) - [TORAX is a differentiable tokamak core transport simulator](https://github.com/google-deepmind/torax)
-* [2024-05-01, 13:04:24](https://news.ycombinator.com/item?id=40222593) - [Rare editions of Pushkin are vanishing from libraries around Europe](https://www.nytimes.com/2024/05/01/books/booksupdate/rare-books-pushkin-disappearance.html)
 * [2024-05-01, 09:15:12](https://news.ycombinator.com/item?id=40221067) - [The Nature of Code (2nd Edition)](https://natureofcode.com/introduction/)
 * [2024-05-01, 05:58:57](https://news.ycombinator.com/item?id=40220002) - [A Clock in the Forest](https://www.noemamag.com/a-clock-in-the-forest/)
 * [2024-04-30, 23:05:12](https://news.ycombinator.com/item?id=40217554) - [A Mathematical Theory of Communication [pdf]](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
