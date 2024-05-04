@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-05-04](index.md)
 
+* [2024-05-04, 21:18:53](https://news.ycombinator.com/item?id=40260361) - [Humans now share the web equally with bots](https://www.independent.co.uk/tech/dead-internet-web-bots-humans-b2530324.html)
+* [2024-05-04, 21:16:35](https://news.ycombinator.com/item?id=40260347) - [Rebel 'Star Wars' Fans Saved the Original Movies](https://www.nytimes.com/2024/05/03/arts/star-wars-films-george-lucas.html)
 * [2024-05-04, 21:01:58](https://news.ycombinator.com/item?id=40260251) - [Personalized mRNA vaccine boosts melanoma immunotherapy](https://www.nature.com/articles/d41591-024-00006-4)
 * [2024-05-04, 21:00:49](https://news.ycombinator.com/item?id=40260245) - [Streak (YC S11) is hiring a staff UI engineer](https://www.streak.com/careers/staff-ui-engineer)
+* [2024-05-04, 20:56:36](https://news.ycombinator.com/item?id=40260213) - [Highly Pathogenic Avian Influenza A(H5N1) Virus Infection in a Dairy Farm Worker](https://www.nejm.org/doi/full/10.1056/NEJMc2405371)
+* [2024-05-04, 20:43:41](https://news.ycombinator.com/item?id=40260143) - [Near-collapse of the geomagnetic field may have contributed to life on Earth](https://www.nature.com/articles/s43247-024-01360-4)
 * [2024-05-04, 20:22:54](https://news.ycombinator.com/item?id=40260035) - [Show HN: Dillo 3.1.0 released after 9 years](https://dillo-browser.github.io/latest.html)
 * [2024-05-04, 19:18:37](https://news.ycombinator.com/item?id=40259680) - [He Lost $36B in a Week. Now Bill Hwang Is Fighting to Avoid Prison](https://www.bloomberg.com/news/features/2024-05-01/bill-hwang-fights-prison-time-after-hastening-credit-suisse-collapse)
 * [2024-05-04, 17:52:53](https://news.ycombinator.com/item?id=40259196) - [Does the American Diabetes Association work for patients or companies?](https://www.theguardian.com/global/commentisfree/2024/may/02/american-diabetes-association-lawsuit)
