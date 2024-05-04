@@ -22,7 +22,6 @@
 * [2024-05-04, 09:27:45](https://news.ycombinator.com/item?id=40256173) - [The Matrix: A Bayesian learning model for LLMs](https://arxiv.org/abs/2402.03175)
 * [2024-05-04, 07:22:46](https://news.ycombinator.com/item?id=40255649) - [CookingSense: A Culinary Knowledgebase with Multidisciplinary Assertions](https://arxiv.org/abs/2405.00523)
 * [2024-05-04, 07:14:14](https://news.ycombinator.com/item?id=40255611) - [Plotille: Plot in the terminal using Braille dots](https://github.com/tammoippen/plotille)
-* [2024-05-04, 04:09:02](https://news.ycombinator.com/item?id=40254729) - [Websites Every Aspiring Programmer Should Visit at Least Once](https://cscrunch.com/content/websites-every-aspiring-programmer-should-visit-least-once)
 * [2024-05-03, 09:47:07](https://news.ycombinator.com/item?id=40245843) - [Auckland, New Zealand: A city with a labyrinth of underground caves](https://www.bbc.com/future/article/20240501-the-new-zealand-city-with-a-labyrinth-of-underground-caves)
 * [2024-05-03, 06:12:01](https://news.ycombinator.com/item?id=40244653) - [Folding and One Straight Cut Suffice [pdf] (1999)](https://www.imsc.res.in/~hbar/PDFs_2017/Paper_by_Demaine_Demaine_Lubiw.pdf)
 * [2024-05-03, 01:44:30](https://news.ycombinator.com/item?id=40243168) - [I’m writing a new vector search SQLite Extension](https://alexgarcia.xyz/blog/2024/building-new-vector-search-sqlite/index.html)
@@ -30,6 +29,7 @@
 * [2024-05-01, 18:49:54](https://news.ycombinator.com/item?id=40227584) - [Opera for Beginners](http://www.taleofgenji.org/opera_for_beginners.html)
 * [2024-05-01, 09:39:40](https://news.ycombinator.com/item?id=40221210) - [Ask HN: How to handle user file uploads?](https://news.ycombinator.com/item?id=40221210)
 * [2024-05-01, 09:15:12](https://news.ycombinator.com/item?id=40221067) - [The Nature of Code (2nd Edition)](https://natureofcode.com/introduction/)
+* [2024-04-30, 23:05:12](https://news.ycombinator.com/item?id=40217554) - [A Mathematical Theory of Communication [pdf]](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
 
 ## [Archives](archives/index.md)
 
