@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-05-04, 13:13:33",
-      "https://news.ycombinator.com/item?id=40257420"
-    ],
-    [
-      "StarCoder2-Instruct: Transparent Self-Alignment for Code Generation",
-      "https://github.com/bigcode-project/starcoder2-self-align"
-    ]
-  ],
-  [
-    [
       "2024-05-04, 12:13:19",
       "https://news.ycombinator.com/item?id=40257064"
     ],
@@ -201,16 +191,6 @@
   ],
   [
     [
-      "2024-05-03, 09:00:51",
-      "https://news.ycombinator.com/item?id=40245601"
-    ],
-    [
-      "Woodworking as an escape from the absurdity of software",
-      "https://alinpanaitiu.com/blog/woodworking-escape-from-software-absurdity/"
-    ]
-  ],
-  [
-    [
       "2024-05-03, 06:12:01",
       "https://news.ycombinator.com/item?id=40244653"
     ],
@@ -251,6 +231,16 @@
   ],
   [
     [
+      "2024-05-01, 10:00:01",
+      "https://news.ycombinator.com/item?id=40221310"
+    ],
+    [
+      "Rust-Written Redox OS Gets USB Keyboards and Mice Working",
+      "https://www.phoronix.com/news/Redox-OS-April-2024"
+    ]
+  ],
+  [
+    [
       "2024-05-01, 09:45:01",
       "https://news.ycombinator.com/item?id=40221235"
     ],
@@ -287,6 +277,16 @@
     [
       "A Clock in the Forest",
       "https://www.noemamag.com/a-clock-in-the-forest/"
+    ]
+  ],
+  [
+    [
+      "2024-05-01, 04:02:33",
+      "https://news.ycombinator.com/item?id=40219386"
+    ],
+    [
+      "Resistance Against Git Merge Hell",
+      "https://www.tugberkugurlu.com/archive/resistance-against-london-tube-map-commit-history-a-k-a--git-merge-hell"
     ]
   ],
   [
