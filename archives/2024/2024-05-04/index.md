@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-05-04](index.md)
 
+* [2024-05-04, 12:00:28](https://news.ycombinator.com/item?id=40256991) - [Trayd (YC S23) Is Hiring Technical Customer Success Associate](https://www.ycombinator.com/companies/trayd/jobs/mWFq6En-technical-customer-success-associate)
+* [2024-05-04, 11:07:44](https://news.ycombinator.com/item?id=40256680) - [FreeBSD Status Report: First Quarter 2024](https://www.freebsd.org/status/report-2024-01-2024-03/)
 * [2024-05-04, 10:52:59](https://news.ycombinator.com/item?id=40256591) - [Georgia rocked by protests as government pushes Putin-style 'foreign agent' bill](https://www.cnn.com/2024/05/03/europe/georgia-russia-foreign-agent-europe-intl/index.html)
+* [2024-05-04, 10:49:21](https://news.ycombinator.com/item?id=40256574) - [UEFI, BIOS, and other confusing x86 PC (firmware) terms](https://utcc.utoronto.ca/~cks/space/blog/tech/UEFIAndBIOSAndOtherPCTerms)
 * [2024-05-04, 09:52:18](https://news.ycombinator.com/item?id=40256280) - [Worst-ever job interviews: 'We had to crawl and moo'](https://www.bbc.co.uk/news/articles/c4n1j9lvrdeo)
 * [2024-05-04, 09:11:33](https://news.ycombinator.com/item?id=40256096) - [PHP Doesn't Suck Anymore](https://developerjoy.co/blog/php-doesnt-suck-anymore)
 * [2024-05-04, 08:49:20](https://news.ycombinator.com/item?id=40256017) - [Are recruiters better than a coin flip at judging resumes? Here's the data](https://interviewing.io/blog/are-recruiters-better-than-a-coin-flip-at-judging-resumes)
@@ -16,7 +19,9 @@
 * [2024-05-04, 04:10:11](https://news.ycombinator.com/item?id=40254733) - [Tesla retreat from EV charging leaves growth of U.S. network in doubt](https://www.washingtonpost.com/business/2024/05/03/tesla-charging-us-network/)
 * [2024-05-04, 03:37:57](https://news.ycombinator.com/item?id=40254602) - [Nintendo blitzes GitHub with over 8k emulator-related DMCA takedowns](https://www.engadget.com/nintendo-blitzes-github-with-over-8000-emulator-related-dmca-takedowns-200021877.html)
 * [2024-05-04, 03:30:11](https://news.ycombinator.com/item?id=40254573) - [I joined landlord groups to persuade them to be better people to their tenants](https://www.thisisalot.com/unhinged-opinions/i-joined-a-bunch-of-landlord-groups-to-subtly-manipulate-them-into-being-better-people/118/)
+* [2024-05-04, 03:19:30](https://news.ycombinator.com/item?id=40254535) - [Essential Things to Do After Installing Ubuntu 23.04 Lunar Lobster](https://averagelinuxuser.com/ubuntu-23-04-after-install/)
 * [2024-05-04, 03:00:55](https://news.ycombinator.com/item?id=40254472) - [Japan ministry asks Line, Yahoo operator to shed Naver influence](https://asia.nikkei.com/Business/Technology/Japan-ministry-asks-Line-Yahoo-operator-to-shed-Naver-influence)
+* [2024-05-04, 02:48:55](https://news.ycombinator.com/item?id=40254421) - [How to explore your scientific values and develop a vision for your field](https://www.thetransmitter.org/craft-and-careers/how-to-explore-your-scientific-values-and-develop-a-vision-for-your-field/)
 * [2024-05-04, 02:38:31](https://news.ycombinator.com/item?id=40254384) - [I hate online Lorem Ipsum Generator so I made my own](https://news.ycombinator.com/item?id=40254384)
 * [2024-05-04, 02:32:32](https://news.ycombinator.com/item?id=40254354) - [SVB agrees to sell venture capital arm for $340M](https://www.axios.com/2024/05/03/svb-venture-capital-arm)
 * [2024-05-04, 02:13:06](https://news.ycombinator.com/item?id=40254259) - [Rustc_codegen_GCC: Progress Report #32](https://blog.antoyo.xyz/rustc_codegen_gcc-progress-report-32)
