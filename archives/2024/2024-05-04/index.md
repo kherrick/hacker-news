@@ -10,6 +10,7 @@
 * [2024-05-04, 02:32:32](https://news.ycombinator.com/item?id=40254354) - [SVB agrees to sell venture capital arm for $340M](https://www.axios.com/2024/05/03/svb-venture-capital-arm)
 * [2024-05-04, 02:13:06](https://news.ycombinator.com/item?id=40254259) - [Rustc_codegen_GCC: Progress Report #32](https://blog.antoyo.xyz/rustc_codegen_gcc-progress-report-32)
 * [2024-05-04, 01:30:32](https://news.ycombinator.com/item?id=40254080) - [My secret life as an 11-year-old BBS sysop (2022)](https://arstechnica.com/information-technology/2022/12/my-secret-life-as-an-11-year-old-bbs-sysop/)
+* [2024-05-04, 01:25:15](https://news.ycombinator.com/item?id=40254054) - [Insects and Other Animals Have Consciousness](https://nautil.us/insects-and-other-animals-have-consciousness-571584/)
 * [2024-05-04, 01:23:36](https://news.ycombinator.com/item?id=40254047) - [I Never Stopped Learning from Daniel Dennett](https://nautil.us/i-never-stopped-learning-from-daniel-dennett-569904/)
 * [2024-05-04, 00:43:03](https://news.ycombinator.com/item?id=40253868) - [How long should you sit vs. stand? New research reveals the perfect mix](https://theconversation.com/how-much-time-should-you-spend-sitting-versus-standing-new-research-reveals-the-perfect-mix-for-optimal-health-228894)
 * [2024-05-04, 00:32:45](https://news.ycombinator.com/item?id=40253831) - [Value of one of S.F.'s biggest buildings plunges by 80% after Uber, Block leave](https://www.sfchronicle.com/sf/article/s-f-office-building-value-19438429.php)
