@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-05-04, 21:18:53",
+      "https://news.ycombinator.com/item?id=40260361"
+    ],
+    [
+      "Humans now share the web equally with bots",
+      "https://www.independent.co.uk/tech/dead-internet-web-bots-humans-b2530324.html"
+    ]
+  ],
+  [
+    [
+      "2024-05-04, 21:16:35",
+      "https://news.ycombinator.com/item?id=40260347"
+    ],
+    [
+      "Rebel 'Star Wars' Fans Saved the Original Movies",
+      "https://www.nytimes.com/2024/05/03/arts/star-wars-films-george-lucas.html"
+    ]
+  ],
+  [
+    [
       "2024-05-04, 21:01:58",
       "https://news.ycombinator.com/item?id=40260251"
     ],
@@ -17,6 +37,26 @@
     [
       "Streak (YC S11) is hiring a staff UI engineer",
       "https://www.streak.com/careers/staff-ui-engineer"
+    ]
+  ],
+  [
+    [
+      "2024-05-04, 20:56:36",
+      "https://news.ycombinator.com/item?id=40260213"
+    ],
+    [
+      "Highly Pathogenic Avian Influenza A(H5N1) Virus Infection in a Dairy Farm Worker",
+      "https://www.nejm.org/doi/full/10.1056/NEJMc2405371"
+    ]
+  ],
+  [
+    [
+      "2024-05-04, 20:43:41",
+      "https://news.ycombinator.com/item?id=40260143"
+    ],
+    [
+      "Near-collapse of the geomagnetic field may have contributed to life on Earth",
+      "https://www.nature.com/articles/s43247-024-01360-4"
     ]
   ],
   [
@@ -191,32 +231,12 @@
   ],
   [
     [
-      "2024-05-03, 15:22:17",
-      "https://news.ycombinator.com/item?id=40248721"
+      "2024-05-03, 09:47:07",
+      "https://news.ycombinator.com/item?id=40245843"
     ],
     [
-      "Manta Ray UUV prototype completes in-water testing",
-      "https://www.darpa.mil/news-events/2024-05-01"
-    ]
-  ],
-  [
-    [
-      "2024-05-03, 13:46:41",
-      "https://news.ycombinator.com/item?id=40247604"
-    ],
-    [
-      "DNS traffic can leak outside the VPN tunnel on Android",
-      "https://mullvad.net/en/blog/dns-traffic-can-leak-outside-the-vpn-tunnel-on-android"
-    ]
-  ],
-  [
-    [
-      "2024-05-03, 09:14:19",
-      "https://news.ycombinator.com/item?id=40245686"
-    ],
-    [
-      "Figma’s Journey to TypeScript",
-      "https://www.figma.com/blog/figmas-journey-to-typescript-compiling-away-our-custom-programming-language/"
+      "Auckland, New Zealand: A city with a labyrinth of underground caves",
+      "https://www.bbc.com/future/article/20240501-the-new-zealand-city-with-a-labyrinth-of-underground-caves"
     ]
   ],
   [
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2024-05-01, 15:47:15",
-      "https://news.ycombinator.com/item?id=40224937"
-    ],
-    [
-      "TORAX is a differentiable tokamak core transport simulator",
-      "https://github.com/google-deepmind/torax"
-    ]
-  ],
-  [
-    [
       "2024-05-01, 09:39:40",
       "https://news.ycombinator.com/item?id=40221210"
     ],
@@ -287,16 +297,6 @@
     [
       "The Nature of Code (2nd Edition)",
       "https://natureofcode.com/introduction/"
-    ]
-  ],
-  [
-    [
-      "2024-04-30, 23:05:12",
-      "https://news.ycombinator.com/item?id=40217554"
-    ],
-    [
-      "A Mathematical Theory of Communication [pdf]",
-      "https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf"
     ]
   ]
 ]
