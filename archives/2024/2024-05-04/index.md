@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-04](index.md)
 
 * [2024-05-04, 14:17:01](https://news.ycombinator.com/item?id=40257843) - [The Mirror Fusion Test Facility (2023)](https://www.beautifulpublicdata.com/the-mirror-fusion-test-facility/)
+* [2024-05-04, 13:53:49](https://news.ycombinator.com/item?id=40257689) - [Cancer vaccines are having a renaissance](https://www.technologyreview.com/2024/05/03/1092026/cancer-vaccines-are-having-a-renaissance/)
 * [2024-05-04, 13:22:16](https://news.ycombinator.com/item?id=40257470) - [Rising Tide Rents and Robber Baron Rents](https://www.oreilly.com/radar/rising-tide-rents-and-robber-baron-rents/)
 * [2024-05-04, 13:13:33](https://news.ycombinator.com/item?id=40257420) - [StarCoder2-Instruct: Transparent Self-Alignment for Code Generation](https://github.com/bigcode-project/starcoder2-self-align)
 * [2024-05-04, 12:13:19](https://news.ycombinator.com/item?id=40257064) - ['Our culture is dying': vulture shortage threatens Zoroastrian burial rites](https://www.theguardian.com/world/article/2024/may/04/vulture-shortage-threatens-zoroastrian-burial-rites-india-iran-pakistan)
