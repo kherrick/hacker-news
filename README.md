@@ -23,7 +23,7 @@
 * [2024-05-03, 13:46:41](https://news.ycombinator.com/item?id=40247604) - [DNS traffic can leak outside the VPN tunnel on Android](https://mullvad.net/en/blog/dns-traffic-can-leak-outside-the-vpn-tunnel-on-android)
 * [2024-05-03, 13:26:38](https://news.ycombinator.com/item?id=40247421) - [Unique volumes of Brothers Grimm fairy tales discovered in Poland](https://english.nv.ua/life/27-unique-volumes-of-grimm-brothers-fairy-tales-were-found-in-poland-50415035.html)
 * [2024-05-03, 10:43:50](https://news.ycombinator.com/item?id=40246185) - [A portable Common Lisp toolkit for building inspectors](https://github.com/aartaka/trivial-inspect)
-* [2024-05-03, 01:44:30](https://news.ycombinator.com/item?id=40243168) - [I’m writing a new vector search SQLite Extension](https://alexgarcia.xyz/blog/2024/building-new-vector-search-sqlite/index.html)
+* [2024-05-03, 09:14:19](https://news.ycombinator.com/item?id=40245686) - [Figma's Journey to TypeScript](https://www.figma.com/blog/figmas-journey-to-typescript-compiling-away-our-custom-programming-language/)
 * [2024-05-02, 08:27:17](https://news.ycombinator.com/item?id=40233933) - [The user is on their own](https://www.selfawaresoup.com/notes/2024/05/01/the-user-is-on-their-own/)
 * [2024-05-01, 16:21:59](https://news.ycombinator.com/item?id=40225410) - [Are Japanese anime robots isometric or allometric?](https://jgeekstudies.org/2024/04/26/are-japanese-anime-robots-isometric-or-allometric/)
 * [2024-05-01, 15:47:15](https://news.ycombinator.com/item?id=40224937) - [TORAX is a differentiable tokamak core transport simulator](https://github.com/google-deepmind/torax)
