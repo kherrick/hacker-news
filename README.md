@@ -5,7 +5,9 @@
 * [2024-05-04, 21:01:58](https://news.ycombinator.com/item?id=40260251) - [Personalized mRNA vaccine boosts melanoma immunotherapy](https://www.nature.com/articles/d41591-024-00006-4)
 * [2024-05-04, 21:00:49](https://news.ycombinator.com/item?id=40260245) - [Streak (YC S11) is hiring a staff UI engineer](https://www.streak.com/careers/staff-ui-engineer)
 * [2024-05-04, 20:56:36](https://news.ycombinator.com/item?id=40260213) - [Highly Pathogenic Avian Influenza A(H5N1) Virus Infection in a Dairy Farm Worker](https://www.nejm.org/doi/full/10.1056/NEJMc2405371)
+* [2024-05-04, 20:49:38](https://news.ycombinator.com/item?id=40260179) - [Microsoft plans to lock down Windows DNS like never before](https://arstechnica.com/security/2024/05/microsoft-plans-to-lock-down-windows-dns-like-never-before-heres-how/)
 * [2024-05-04, 20:43:41](https://news.ycombinator.com/item?id=40260143) - [Near-collapse of the geomagnetic field may have contributed to life on Earth](https://www.nature.com/articles/s43247-024-01360-4)
+* [2024-05-04, 20:31:48](https://news.ycombinator.com/item?id=40260081) - [Ryzen 9 7950X3D surfaces with 192MB L3 cache](https://www.tomshardware.com/pc-components/cpus/ryzen-9-7950x3d-surfaces-with-192mb-l3-cache-64mb-more-than-retail-cpu)
 * [2024-05-04, 20:22:54](https://news.ycombinator.com/item?id=40260035) - [Show HN: Dillo 3.1.0 released after 9 years](https://dillo-browser.github.io/latest.html)
 * [2024-05-04, 19:18:37](https://news.ycombinator.com/item?id=40259680) - [He Lost $36B in a Week. Now Bill Hwang Is Fighting to Avoid Prison](https://www.bloomberg.com/news/features/2024-05-01/bill-hwang-fights-prison-time-after-hastening-credit-suisse-collapse)
 * [2024-05-04, 17:52:53](https://news.ycombinator.com/item?id=40259196) - [Does the American Diabetes Association work for patients or companies?](https://www.theguardian.com/global/commentisfree/2024/may/02/american-diabetes-association-lawsuit)
@@ -18,7 +20,6 @@
 * [2024-05-04, 13:42:02](https://news.ycombinator.com/item?id=40257601) - [CBMC: C bounded model checker (2021)](http://www.cprover.org/cbmc/)
 * [2024-05-04, 13:28:13](https://news.ycombinator.com/item?id=40257510) - [The Hidden-Pregnancy Experiment: Could I Hide My Pregnancy from My Phone?](https://www.newyorker.com/culture/the-weekend-essay/the-hidden-pregnancy-experiment)
 * [2024-05-04, 12:13:19](https://news.ycombinator.com/item?id=40257064) - [Vulture shortage threatens Zoroastrian burial rites](https://www.theguardian.com/world/article/2024/may/04/vulture-shortage-threatens-zoroastrian-burial-rites-india-iran-pakistan)
-* [2024-05-04, 11:36:48](https://news.ycombinator.com/item?id=40256868) - [I don't want to fill out your contact form](https://adamjones.me/blog/dont-use-contact-forms/)
 * [2024-05-04, 09:27:45](https://news.ycombinator.com/item?id=40256173) - [The Matrix: A Bayesian learning model for LLMs](https://arxiv.org/abs/2402.03175)
 * [2024-05-04, 07:22:46](https://news.ycombinator.com/item?id=40255649) - [CookingSense: A Culinary Knowledgebase with Multidisciplinary Assertions](https://arxiv.org/abs/2405.00523)
 * [2024-05-04, 07:14:14](https://news.ycombinator.com/item?id=40255611) - [Plotille: Plot in the terminal using Braille dots](https://github.com/tammoippen/plotille)
@@ -29,7 +30,6 @@
 * [2024-05-01, 18:49:54](https://news.ycombinator.com/item?id=40227584) - [Opera for Beginners](http://www.taleofgenji.org/opera_for_beginners.html)
 * [2024-05-01, 09:39:40](https://news.ycombinator.com/item?id=40221210) - [Ask HN: How to handle user file uploads?](https://news.ycombinator.com/item?id=40221210)
 * [2024-05-01, 09:15:12](https://news.ycombinator.com/item?id=40221067) - [The Nature of Code (2nd Edition)](https://natureofcode.com/introduction/)
-* [2024-04-30, 23:05:12](https://news.ycombinator.com/item?id=40217554) - [A Mathematical Theory of Communication [pdf]](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
 
 ## [Archives](archives/index.md)
 
