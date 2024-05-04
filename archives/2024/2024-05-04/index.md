@@ -8,6 +8,7 @@
 * [2024-05-04, 11:55:35](https://news.ycombinator.com/item?id=40256974) - [Is robotics about to have its own ChatGPT moment?](https://www.technologyreview.com/2024/04/11/1090718/household-robots-ai-data-robotics/)
 * [2024-05-04, 11:17:22](https://news.ycombinator.com/item?id=40256754) - [Phillipine court bans growth of transgenic golden rice](https://www.science.org/content/article/what-philippine-court-ruling-means-transgenic-golden-rice-once-hailed-dietary)
 * [2024-05-04, 11:07:44](https://news.ycombinator.com/item?id=40256680) - [FreeBSD Status Report: First Quarter 2024](https://www.freebsd.org/status/report-2024-01-2024-03/)
+* [2024-05-04, 10:55:13](https://news.ycombinator.com/item?id=40256600) - [At some point, JavaScript got good](https://jonbeebe.net/2024/05/javascript-got-good/)
 * [2024-05-04, 10:52:59](https://news.ycombinator.com/item?id=40256591) - [Georgia rocked by protests as government pushes Putin-style 'foreign agent' bill](https://www.cnn.com/2024/05/03/europe/georgia-russia-foreign-agent-europe-intl/index.html)
 * [2024-05-04, 10:49:21](https://news.ycombinator.com/item?id=40256574) - [UEFI, BIOS, and other confusing x86 PC (firmware) terms](https://utcc.utoronto.ca/~cks/space/blog/tech/UEFIAndBIOSAndOtherPCTerms)
 * [2024-05-04, 09:52:18](https://news.ycombinator.com/item?id=40256280) - [Worst-ever job interviews: 'We had to crawl and moo'](https://www.bbc.co.uk/news/articles/c4n1j9lvrdeo)

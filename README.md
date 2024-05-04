@@ -2,6 +2,7 @@
 
 * [2024-05-04, 12:00:28](https://news.ycombinator.com/item?id=40256991) - [Trayd (YC S23) Is Hiring Technical Customer Success Associate](https://www.ycombinator.com/companies/trayd/jobs/mWFq6En-technical-customer-success-associate)
 * [2024-05-04, 11:17:22](https://news.ycombinator.com/item?id=40256754) - [Phillipine court bans growth of transgenic golden rice](https://www.science.org/content/article/what-philippine-court-ruling-means-transgenic-golden-rice-once-hailed-dietary)
+* [2024-05-04, 10:55:13](https://news.ycombinator.com/item?id=40256600) - [At some point, JavaScript got good](https://jonbeebe.net/2024/05/javascript-got-good/)
 * [2024-05-04, 01:25:15](https://news.ycombinator.com/item?id=40254054) - [Insects and other animals have consciousness](https://nautil.us/insects-and-other-animals-have-consciousness-571584/)
 * [2024-05-04, 01:23:36](https://news.ycombinator.com/item?id=40254047) - [I never stopped learning from Daniel Dennett](https://nautil.us/i-never-stopped-learning-from-daniel-dennett-569904/)
 * [2024-05-04, 00:23:24](https://news.ycombinator.com/item?id=40253774) - [Show HN: Bloom – A shadcn like UI library for Elixir and Phoenix](https://bloom-ui.fly.dev/)
@@ -21,7 +22,6 @@
 * [2024-05-03, 01:44:30](https://news.ycombinator.com/item?id=40243168) - [I’m writing a new vector search SQLite Extension](https://alexgarcia.xyz/blog/2024/building-new-vector-search-sqlite/index.html)
 * [2024-05-02, 23:56:08](https://news.ycombinator.com/item?id=40242639) - [Stirling PDF: Self-hosted, web-based PDF manipulation tool](https://github.com/Stirling-Tools/Stirling-PDF)
 * [2024-05-02, 17:48:14](https://news.ycombinator.com/item?id=40239164) - [Making a 3D modeler in C in a week](https://danielchasehooper.com/posts/shapeup/)
-* [2024-05-02, 09:49:35](https://news.ycombinator.com/item?id=40234383) - [Teranoptia – a typeface that allows you to imagine chimeric creatures](https://www.tunera.xyz/fonts/teranoptia/)
 * [2024-05-02, 06:22:48](https://news.ycombinator.com/item?id=40233259) - [Goodyear Inflatoplane](https://en.wikipedia.org/wiki/Goodyear_Inflatoplane)
 * [2024-05-01, 16:21:59](https://news.ycombinator.com/item?id=40225410) - [Are Japanese anime robots isometric or allometric?](https://jgeekstudies.org/2024/04/26/are-japanese-anime-robots-isometric-or-allometric/)
 * [2024-05-01, 15:47:15](https://news.ycombinator.com/item?id=40224937) - [TORAX is a differentiable tokamak core transport simulator](https://github.com/google-deepmind/torax)
