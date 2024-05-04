@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-03](index.md)
 
 * [2024-05-03, 23:40:27](https://news.ycombinator.com/item?id=40253514) - [Bountysource Stole at Least $17,000 from Open Source Developers](https://boehs.org/node/bountysource)
+* [2024-05-03, 23:37:59](https://news.ycombinator.com/item?id=40253494) - [Art and Memory](https://www.lrb.co.uk/the-paper/v46/n09/julian-barnes/diary)
 * [2024-05-03, 23:12:52](https://news.ycombinator.com/item?id=40253352) - [Texas A&M Qatar campus to close by 2028](https://www.qatar.tamu.edu/news-and-events/news/2024/02/09/texas-a-and-m-qatar-campus-to-close-by-2028/)
 * [2024-05-03, 22:54:22](https://news.ycombinator.com/item?id=40253245) - [How the Kindness of Sega Saved Nvidia from Going Under](https://www.timeextension.com/features/flashback-how-the-kindness-of-sega-saved-nvidia-from-going-under)
 * [2024-05-03, 22:47:13](https://news.ycombinator.com/item?id=40253195) - [The Canadian State Is Euthanizing Its Poor and Disabled](https://jacobin.com/2024/05/canada-euthanasia-poor-disabled-health-care)

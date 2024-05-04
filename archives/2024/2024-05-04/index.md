@@ -56,6 +56,7 @@
 * [2024-05-04, 08:49:20](https://news.ycombinator.com/item?id=40256017) - [Are recruiters better than a coin flip at judging resumes? Here's the data](https://interviewing.io/blog/are-recruiters-better-than-a-coin-flip-at-judging-resumes)
 * [2024-05-04, 08:37:59](https://news.ycombinator.com/item?id=40255969) - [Microsoft overhaul treats security as 'top priority' after a series of failures](https://www.theverge.com/2024/5/3/24147883/microsoft-security-priority-executive-compensation-goals)
 * [2024-05-04, 07:22:46](https://news.ycombinator.com/item?id=40255649) - [CookingSense: A Culinary Knowledgebase with Multidisciplinary Assertions](https://arxiv.org/abs/2405.00523)
+* [2024-05-04, 07:19:39](https://news.ycombinator.com/item?id=40255634) - [A Debate about Words](https://dstrohmaier.com/A-Debatte-about-Words/)
 * [2024-05-04, 07:14:14](https://news.ycombinator.com/item?id=40255611) - [Plotille: Plot in the terminal using Braille dots](https://github.com/tammoippen/plotille)
 * [2024-05-04, 06:36:30](https://news.ycombinator.com/item?id=40255439) - [Holding all men responsible for a violent minority has failed to keep women safe](https://www.smh.com.au/politics/federal/holding-all-men-responsible-for-a-violent-minority-has-failed-to-keep-women-safe-20240501-p5fo82.html)
 * [2024-05-04, 06:10:49](https://news.ycombinator.com/item?id=40255307) - [ReCAPTCHA is broken for [some|most|all] Windows users](https://bugzilla.mozilla.org/show_bug.cgi?id=1894735)

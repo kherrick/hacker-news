@@ -78,6 +78,7 @@
 * [2024-05-02, 13:20:25](https://news.ycombinator.com/item?id=40235916) - [Second Boeing Whistleblower Dies Suddenly](https://www.newsweek.com/boeing-whistleblower-joshua-dean-dies-sudden-illness-1896401)
 * [2024-05-02, 13:16:50](https://news.ycombinator.com/item?id=40235874) - [Nurses Say Hospital Adoption of Half-Cooked 'AI' Is Reckless](https://www.techdirt.com/2024/05/02/nurses-say-hospital-adoption-of-half-cooked-ai-is-reckless/)
 * [2024-05-02, 12:47:27](https://news.ycombinator.com/item?id=40235557) - [Shutterstock Enters into Definitive Agreement to Acquire Envato](https://investor.shutterstock.com/news-releases/news-release-details/shutterstock-enters-definitive-agreement-acquire-envato)
+* [2024-05-02, 12:24:13](https://news.ycombinator.com/item?id=40235345) - [The business of wallets](https://www.bitsaboutmoney.com/archive/the-business-of-wallets/)
 * [2024-05-02, 12:23:50](https://news.ycombinator.com/item?id=40235342) - [MouseEvent: buttons property](https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent/buttons)
 * [2024-05-02, 12:08:38](https://news.ycombinator.com/item?id=40235206) - [OpenAI working on web search product](https://searchengineland.com/open-ai-search-product-437563)
 * [2024-05-02, 12:07:02](https://news.ycombinator.com/item?id=40235193) - [Recovering the master key from RAM to break Android's file-based encryption](https://www.sciencedirect.com/science/article/pii/S266628172100007X)
