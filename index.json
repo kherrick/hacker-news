@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-05-04, 16:01:03",
+      "https://news.ycombinator.com/item?id=40258556"
+    ],
+    [
+      "NASA Audit Identifies Significant Issues with Orion Heat Shield",
+      "https://payloadspace.com/nasa-audit-identifies-significant-issues-with-orion-heat-shield/"
+    ]
+  ],
+  [
+    [
       "2024-05-04, 15:22:14",
       "https://news.ycombinator.com/item?id=40258315"
     ],
     [
       "Spotify getting into enterprise IT tools",
       "https://techcrunch.com/2024/04/30/spotifys-getting-serious-about-its-enterprise-and-dev-tools-business-play/"
+    ]
+  ],
+  [
+    [
+      "2024-05-04, 15:21:15",
+      "https://news.ycombinator.com/item?id=40258308"
+    ],
+    [
+      "Big data reveals true climate impact of worldwide air travel",
+      "https://norwegianscitechnews.com/2024/04/big-data-reveals-true-climate-impact-of-worldwide-air-travel/"
+    ]
+  ],
+  [
+    [
+      "2024-05-04, 15:15:48",
+      "https://news.ycombinator.com/item?id=40258273"
+    ],
+    [
+      "Was the Stone Age the Wood Age?",
+      "https://www.nytimes.com/2024/05/04/science/archaeology-neanderthals-wood.html"
     ]
   ],
   [
@@ -81,32 +111,12 @@
   ],
   [
     [
-      "2024-05-04, 00:23:24",
-      "https://news.ycombinator.com/item?id=40253774"
-    ],
-    [
-      "Show HN: Bloom – A shadcn like UI library for Elixir and Phoenix",
-      "https://bloom-ui.fly.dev/"
-    ]
-  ],
-  [
-    [
       "2024-05-03, 21:26:46",
       "https://news.ycombinator.com/item?id=40252569"
     ],
     [
       "Show HN: I built a free in-browser Llama 3 chatbot powered by WebGPU",
       "https://github.com/abi/secret-llama"
-    ]
-  ],
-  [
-    [
-      "2024-05-03, 20:01:41",
-      "https://news.ycombinator.com/item?id=40251747"
-    ],
-    [
-      "StructLM: Towards Building Generalist Models for Structured Knowledge Grounding",
-      "https://arxiv.org/abs/2402.16671"
     ]
   ],
   [
@@ -151,32 +161,12 @@
   ],
   [
     [
-      "2024-05-03, 15:22:17",
-      "https://news.ycombinator.com/item?id=40248721"
-    ],
-    [
-      "Manta Ray UUV prototype completes in-water testing",
-      "https://www.darpa.mil/news-events/2024-05-01"
-    ]
-  ],
-  [
-    [
       "2024-05-03, 15:13:37",
       "https://news.ycombinator.com/item?id=40248619"
     ],
     [
       "AI copilots are changing how coding is taught",
       "https://spectrum.ieee.org/ai-coding"
-    ]
-  ],
-  [
-    [
-      "2024-05-03, 14:39:49",
-      "https://news.ycombinator.com/item?id=40248217"
-    ],
-    [
-      "Lowercase – A simple way to take and share notes",
-      "https://www.lowercase.app/"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Making a 3D modeler in C in a week",
       "https://danielchasehooper.com/posts/shapeup/"
+    ]
+  ],
+  [
+    [
+      "2024-05-02, 12:07:02",
+      "https://news.ycombinator.com/item?id=40235193"
+    ],
+    [
+      "Recovering the master key from RAM to break Android's file-based encryption (2021)",
+      "https://www.sciencedirect.com/science/article/pii/S266628172100007X"
     ]
   ],
   [
