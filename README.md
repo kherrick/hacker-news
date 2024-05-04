@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-04, 03:00:55](https://news.ycombinator.com/item?id=40254472) - [Japan ministry asks Line, Yahoo operator to shed Naver influence](https://asia.nikkei.com/Business/Technology/Japan-ministry-asks-Line-Yahoo-operator-to-shed-Naver-influence)
 * [2024-05-04, 02:38:31](https://news.ycombinator.com/item?id=40254384) - [I hate online Lorem Ipsum Generator so I made my own](https://news.ycombinator.com/item?id=40254384)
-* [2024-05-04, 02:32:32](https://news.ycombinator.com/item?id=40254354) - [SVB agrees to sell venture capital arm for $340M](https://www.axios.com/2024/05/03/svb-venture-capital-arm)
 * [2024-05-04, 02:13:06](https://news.ycombinator.com/item?id=40254259) - [Rustc_codegen_GCC: Progress Report #32](https://blog.antoyo.xyz/rustc_codegen_gcc-progress-report-32)
+* [2024-05-04, 01:30:32](https://news.ycombinator.com/item?id=40254080) - [My secret life as an 11-year-old BBS sysop (2022)](https://arstechnica.com/information-technology/2022/12/my-secret-life-as-an-11-year-old-bbs-sysop/)
 * [2024-05-04, 00:43:03](https://news.ycombinator.com/item?id=40253868) - [How long should you sit vs. stand? New research reveals the perfect mix](https://theconversation.com/how-much-time-should-you-spend-sitting-versus-standing-new-research-reveals-the-perfect-mix-for-optimal-health-228894)
 * [2024-05-04, 00:32:45](https://news.ycombinator.com/item?id=40253831) - [Value of one of S.F.'s biggest buildings plunges by 80% after Uber, Block leave](https://www.sfchronicle.com/sf/article/s-f-office-building-value-19438429.php)
 * [2024-05-03, 21:26:46](https://news.ycombinator.com/item?id=40252569) - [Show HN: I built a free in-browser Llama 3 chatbot powered by WebGPU](https://github.com/abi/secret-llama)
@@ -24,7 +25,6 @@
 * [2024-05-03, 13:37:30](https://news.ycombinator.com/item?id=40247528) - [Blue-Recorder, a Simple Screen Recorder Written in Rust](https://github.com/xlmnxp/blue-recorder)
 * [2024-05-03, 13:26:38](https://news.ycombinator.com/item?id=40247421) - [Unique volumes of Brothers Grimm fairy tales discovered in Poland](https://english.nv.ua/life/27-unique-volumes-of-grimm-brothers-fairy-tales-were-found-in-poland-50415035.html)
 * [2024-05-03, 10:43:50](https://news.ycombinator.com/item?id=40246185) - [A portable Common Lisp toolkit for building inspectors](https://github.com/aartaka/trivial-inspect)
-* [2024-05-03, 01:44:30](https://news.ycombinator.com/item?id=40243168) - [I’m writing a new vector search SQLite Extension](https://alexgarcia.xyz/blog/2024/building-new-vector-search-sqlite/index.html)
 * [2024-05-02, 08:27:17](https://news.ycombinator.com/item?id=40233933) - [The user is on their own](https://www.selfawaresoup.com/notes/2024/05/01/the-user-is-on-their-own/)
 * [2024-05-01, 16:21:59](https://news.ycombinator.com/item?id=40225410) - [Are Japanese anime robots isometric or allometric?](https://jgeekstudies.org/2024/04/26/are-japanese-anime-robots-isometric-or-allometric/)
 * [2024-05-01, 15:47:15](https://news.ycombinator.com/item?id=40224937) - [TORAX is a differentiable tokamak core transport simulator](https://github.com/google-deepmind/torax)
