@@ -1,12 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-04, 03:30:11](https://news.ycombinator.com/item?id=40254573) - [I joined landlord groups to persuade them to be better people to their tenants](https://www.thisisalot.com/unhinged-opinions/i-joined-a-bunch-of-landlord-groups-to-subtly-manipulate-them-into-being-better-people/118/)
 * [2024-05-04, 02:38:31](https://news.ycombinator.com/item?id=40254384) - [I hate online Lorem Ipsum Generator so I made my own](https://news.ycombinator.com/item?id=40254384)
-* [2024-05-04, 02:32:32](https://news.ycombinator.com/item?id=40254354) - [SVB agrees to sell venture capital arm for $340M](https://www.axios.com/2024/05/03/svb-venture-capital-arm)
 * [2024-05-04, 02:13:06](https://news.ycombinator.com/item?id=40254259) - [Rustc_codegen_GCC: Progress Report #32](https://blog.antoyo.xyz/rustc_codegen_gcc-progress-report-32)
 * [2024-05-04, 01:30:32](https://news.ycombinator.com/item?id=40254080) - [My secret life as an 11-year-old BBS sysop (2022)](https://arstechnica.com/information-technology/2022/12/my-secret-life-as-an-11-year-old-bbs-sysop/)
 * [2024-05-04, 01:23:36](https://news.ycombinator.com/item?id=40254047) - [I Never Stopped Learning from Daniel Dennett](https://nautil.us/i-never-stopped-learning-from-daniel-dennett-569904/)
 * [2024-05-04, 00:43:03](https://news.ycombinator.com/item?id=40253868) - [How long should you sit vs. stand? New research reveals the perfect mix](https://theconversation.com/how-much-time-should-you-spend-sitting-versus-standing-new-research-reveals-the-perfect-mix-for-optimal-health-228894)
-* [2024-05-04, 00:01:21](https://news.ycombinator.com/item?id=40253637) - [People with gas and propane stoves breathe more unhealthy nitrogen dioxide](https://news.stanford.edu/2024/05/03/people-gas-propane-stoves-breathe-unhealthy-nitrogen-dioxide/)
 * [2024-05-03, 21:26:46](https://news.ycombinator.com/item?id=40252569) - [Show HN: I built a free in-browser Llama 3 chatbot powered by WebGPU](https://github.com/abi/secret-llama)
 * [2024-05-03, 21:20:57](https://news.ycombinator.com/item?id=40252525) - [Discord Applying Forced Arbitration - opt-out before it is too late!](https://bsky.app/profile/silverwuffamute.bsky.social/post/3kqbd476nvk2i)
 * [2024-05-03, 21:00:24](https://news.ycombinator.com/item?id=40252334) - [Finley (YC W21) is hiring securitization and structured finance professionals](https://jobs.lever.co/FinleyTechnologies/70462b30-c31a-4db3-932a-0abb96ec5566)
@@ -29,6 +28,7 @@
 * [2024-05-01, 16:21:59](https://news.ycombinator.com/item?id=40225410) - [Are Japanese anime robots isometric or allometric?](https://jgeekstudies.org/2024/04/26/are-japanese-anime-robots-isometric-or-allometric/)
 * [2024-05-01, 15:47:15](https://news.ycombinator.com/item?id=40224937) - [TORAX is a differentiable tokamak core transport simulator](https://github.com/google-deepmind/torax)
 * [2024-05-01, 09:15:12](https://news.ycombinator.com/item?id=40221067) - [The Nature of Code (2nd Edition)](https://natureofcode.com/introduction/)
+* [2024-05-01, 05:58:57](https://news.ycombinator.com/item?id=40220002) - [A Clock in the Forest](https://www.noemamag.com/a-clock-in-the-forest/)
 * [2024-04-30, 23:05:12](https://news.ycombinator.com/item?id=40217554) - [A Mathematical Theory of Communication [pdf]](https://people.math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf)
 
 ## [Archives](archives/index.md)
