@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-04](index.md)
 
+* [2024-05-04, 04:41:08](https://news.ycombinator.com/item?id=40254891) - [Show HN: I created a 100% automated YouTube shorts channel using AI tools](https://thesolofoundernewsletter.com/p/special-edition-created-100-automated-youtube-shorts-channel-using-free-ai-tools-python)
 * [2024-05-04, 04:12:20](https://news.ycombinator.com/item?id=40254746) - [Bay Area restaurants react to new Calif. law with anger, shock](https://www.sfgate.com/food/article/sf-restaurants-junk-fees-law-19436419.php)
 * [2024-05-04, 03:37:57](https://news.ycombinator.com/item?id=40254602) - [Nintendo blitzes GitHub with over 8k emulator-related DMCA takedowns](https://www.engadget.com/nintendo-blitzes-github-with-over-8000-emulator-related-dmca-takedowns-200021877.html)
 * [2024-05-04, 03:30:11](https://news.ycombinator.com/item?id=40254573) - [I joined landlord groups to persuade them to be better people to their tenants](https://www.thisisalot.com/unhinged-opinions/i-joined-a-bunch-of-landlord-groups-to-subtly-manipulate-them-into-being-better-people/118/)

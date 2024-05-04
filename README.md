@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-04, 04:41:08](https://news.ycombinator.com/item?id=40254891) - [Show HN: I created a 100% automated YouTube shorts channel using AI tools](https://thesolofoundernewsletter.com/p/special-edition-created-100-automated-youtube-shorts-channel-using-free-ai-tools-python)
 * [2024-05-04, 03:37:57](https://news.ycombinator.com/item?id=40254602) - [Nintendo blitzes GitHub with over 8k emulator-related DMCA takedowns](https://www.engadget.com/nintendo-blitzes-github-with-over-8000-emulator-related-dmca-takedowns-200021877.html)
 * [2024-05-04, 03:30:11](https://news.ycombinator.com/item?id=40254573) - [I joined landlord groups to persuade them to be better people to their tenants](https://www.thisisalot.com/unhinged-opinions/i-joined-a-bunch-of-landlord-groups-to-subtly-manipulate-them-into-being-better-people/118/)
 * [2024-05-04, 02:38:31](https://news.ycombinator.com/item?id=40254384) - [Show HN: I hate online Lorem Ipsum Generator so I made my own](https://news.ycombinator.com/item?id=40254384)
@@ -16,7 +17,6 @@
 * [2024-05-03, 18:06:53](https://news.ycombinator.com/item?id=40250519) - [How hard can generating 1024-bit primes be?](https://glitchcomet.com/articles/1024-bit-primes/)
 * [2024-05-03, 16:48:47](https://news.ycombinator.com/item?id=40249696) - [DrEureka: Language Model Guided SIM-to-Real Transfer](https://eureka-research.github.io/dr-eureka/)
 * [2024-05-03, 15:22:17](https://news.ycombinator.com/item?id=40248721) - [Manta Ray UUV prototype completes in-water testing](https://www.darpa.mil/news-events/2024-05-01)
-* [2024-05-03, 15:14:16](https://news.ycombinator.com/item?id=40248627) - [Lithium-free sodium batteries exit the lab and enter US production](https://newatlas.com/energy/natron-sodium-ion-battery-production-startt/)
 * [2024-05-03, 15:13:37](https://news.ycombinator.com/item?id=40248619) - [AI copilots are changing how coding is taught](https://spectrum.ieee.org/ai-coding)
 * [2024-05-03, 14:39:49](https://news.ycombinator.com/item?id=40248217) - [Lowercase – A simple way to take and share notes](https://www.lowercase.app/)
 * [2024-05-03, 14:11:49](https://news.ycombinator.com/item?id=40247871) - [CSS Text Box Trim](https://github.com/jantimon/text-box-trim-examples)
