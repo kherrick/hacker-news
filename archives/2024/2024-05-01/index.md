@@ -52,6 +52,7 @@
 * [2024-05-01, 16:54:03](https://news.ycombinator.com/item?id=40225905) - [Apple's 'incredibly private' Safari is not so private in Europe](https://www.theregister.com/2024/04/30/apple_safari_europe_tracking/)
 * [2024-05-01, 16:39:09](https://news.ycombinator.com/item?id=40225674) - [Paul Auster, American author of The New York Trilogy, dies aged 77](https://www.theguardian.com/books/2024/may/01/paul-auster-dies-aged-77-death-american-author-new-york-trilogy)
 * [2024-05-01, 16:24:23](https://news.ycombinator.com/item?id=40225442) - [The BASIC programming language turns 60](https://arstechnica.com/gadgets/2024/05/the-basic-programming-language-turns-60/)
+* [2024-05-01, 16:21:59](https://news.ycombinator.com/item?id=40225410) - [Are Japanese anime robots isometric or allometric?](https://jgeekstudies.org/2024/04/26/are-japanese-anime-robots-isometric-or-allometric/)
 * [2024-05-01, 16:08:43](https://news.ycombinator.com/item?id=40225228) - [2024 Verizon Data Breach Investigation Report [pdf]](https://www.verizon.com/business/resources/T5be/reports/2024-dbir-data-breach-investigations-report.pdf)
 * [2024-05-01, 15:51:55](https://news.ycombinator.com/item?id=40225002) - [Harvard applications drop 5% after year of turmoil on the Ivy League campus](https://www.cbsnews.com/news/harvard-applications-down-5-percent-claudine-gay/)
 * [2024-05-01, 15:50:27](https://news.ycombinator.com/item?id=40224986) - [Rat cells grown in mice brains](https://www.sciencenews.org/article/rat-cell-mice-brains-chimera-sniff-cookie)
