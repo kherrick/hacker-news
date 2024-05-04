@@ -79,6 +79,7 @@
 * [2024-05-03, 08:08:19](https://news.ycombinator.com/item?id=40245348) - [I can fix this PC, boss, but I'll need to play games for hours to do it](https://www.theregister.com/2024/05/03/on_call/)
 * [2024-05-03, 07:16:55](https://news.ycombinator.com/item?id=40245050) - [Show HN: I built a site to share code boilerplates](https://boilermate.site/hot)
 * [2024-05-03, 07:01:00](https://news.ycombinator.com/item?id=40244962) - [Raycast (YC W20) is hiring Rust engineer (Remote, Europe, €104k – €160k)](https://www.raycast.com/jobs/software-engineer-rust)
+* [2024-05-03, 06:42:24](https://news.ycombinator.com/item?id=40244854) - [Ask HN: Why isn't it easy to compile dlls inline?](https://news.ycombinator.com/item?id=40244854)
 * [2024-05-03, 06:17:56](https://news.ycombinator.com/item?id=40244681) - [Google's Med-Gemini AI Outperforms GPT-4 in Healthcare](https://www.forbes.com/sites/talpatalon/2024/05/01/med-geminis-lions-roar/)
 * [2024-05-03, 06:12:01](https://news.ycombinator.com/item?id=40244653) - [Folding and One Straight Cut Suffice [pdf]](https://www.imsc.res.in/~hbar/PDFs_2017/Paper_by_Demaine_Demaine_Lubiw.pdf)
 * [2024-05-03, 04:50:56](https://news.ycombinator.com/item?id=40244165) - ['I will never go back': Ontario doctor says new AI notetaking saved her job](https://globalnews.ca/news/10463535/ontario-family-doctor-artificial-intelligence-notes/)
