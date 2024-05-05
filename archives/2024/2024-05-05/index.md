@@ -15,6 +15,7 @@
 * [2024-05-05, 03:29:33](https://news.ycombinator.com/item?id=40262059) - [Elegant Wind Turbine Blades Made of Wood Can Outperform Composites](https://cleantechnica.com/2024/05/03/elegant-wind-turbine-blades-made-of-wood-can-outperform-composites/)
 * [2024-05-05, 03:10:08](https://news.ycombinator.com/item?id=40261985) - [Ghosts in the Machine 2 [video]](https://www.youtube.com/watch?v=V6hu83yVMlU)
 * [2024-05-05, 03:03:49](https://news.ycombinator.com/item?id=40261965) - [Sequoia: Serving exact Llama2-70B on an RTX4090 with 1/2 s per token](https://infini-ai-lab.github.io/Sequoia-Page/)
+* [2024-05-05, 02:52:27](https://news.ycombinator.com/item?id=40261926) - [Digital Telecommunication in HF band - WWWAN - World-Wide Wireless Area Network](https://pretalx.sysmocom.de/osmodevcon2024/talk/BBZBGM/)
 * [2024-05-05, 02:38:44](https://news.ycombinator.com/item?id=40261884) - [2 years after UK poop-engulfed beaches became national scandals, it's even worse](https://www.cnn.com/england-uk-sewage-poop-beach/index.html)
 * [2024-05-05, 01:46:38](https://news.ycombinator.com/item?id=40261705) - [How to Move the Largest Camera from California Lab to Andes Mountaintop](https://www.scientificamerican.com/article/how-to-move-the-worlds-largest-camera-from-a-california-lab-to-an-andes/)
 * [2024-05-05, 01:39:05](https://news.ycombinator.com/item?id=40261681) - [Automated integer hash function discovery](https://github.com/skeeto/hash-prospector)
