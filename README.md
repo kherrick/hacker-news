@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-05, 19:50:59](https://news.ycombinator.com/item?id=40267639) - [Israel shuts down local Al Jazeera offices in 'dark day for the media'](https://www.theguardian.com/world/article/2024/may/05/israel-shuts-down-local-al-jazeera-offices-in-dark-day-for-the-media)
+* [2024-05-05, 19:54:46](https://news.ycombinator.com/item?id=40267675) - [Bollards: Why and What](https://josh.works/bollards)
+* [2024-05-05, 19:50:59](https://news.ycombinator.com/item?id=40267639) - [Israel shuts down local Al Jazeera offices](https://www.theguardian.com/world/article/2024/may/05/israel-shuts-down-local-al-jazeera-offices-in-dark-day-for-the-media)
 * [2024-05-05, 18:47:46](https://news.ycombinator.com/item?id=40267182) - [Designing furniture using the CSS grid (2023)](https://alnvdl.github.io/2023/01/07/designing-furniture-using-the-css-grid.html)
 * [2024-05-05, 18:45:04](https://news.ycombinator.com/item?id=40267164) - [Flying planes with a JavaScript autopilot (2023)](https://pomax.github.io/are-we-flying/)
 * [2024-05-05, 18:32:09](https://news.ycombinator.com/item?id=40267072) - [Recruiters are going analog to fight the AI application overload](https://www.wired.com/story/recruiters-ai-application-overload/)
@@ -26,7 +27,6 @@
 * [2024-05-04, 22:59:45](https://news.ycombinator.com/item?id=40260985) - [The robustness of some fossil leaf venation networks to simulated damage](https://royalsocietypublishing.org/doi/10.1098/rsos.240086)
 * [2024-05-03, 17:16:22](https://news.ycombinator.com/item?id=40249968) - [Turning AirPods into a fitness tracker](https://richarddas.com/blog/turning-airpods-into-fitness-trackers-to-fight-cancer/)
 * [2024-05-03, 11:23:58](https://news.ycombinator.com/item?id=40246400) - [Interview with Marian Rejewski, the first person to crack Enigma [video]](https://www.flyingpenguin.com/?p=56989)
-* [2024-05-03, 09:05:37](https://news.ycombinator.com/item?id=40245626) - [Agricultural IoT system sends power through the soil](https://spectrum.ieee.org/smart-agriculture)
 * [2024-05-03, 06:24:23](https://news.ycombinator.com/item?id=40244729) - [Map Machine: Python renderer for OpenStreetMap with custom icons](https://github.com/enzet/map-machine)
 * [2024-05-03, 05:25:59](https://news.ycombinator.com/item?id=40244356) - [Beware of the Turing tar-pit (2004)](http://weblog.raganwald.com/2004/10/beware-of-turing-tar-pit.html)
 * [2024-05-02, 20:48:43](https://news.ycombinator.com/item?id=40241200) - [Befreak is a purely reversible two-dimensional programming language (2003)](http://tunes.org/~iepos/befreak.html)
