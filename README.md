@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-05, 08:04:38](https://news.ycombinator.com/item?id=40263100) - [They Live](https://en.wikipedia.org/wiki/They_Live)
+* [2024-05-05, 07:38:47](https://news.ycombinator.com/item?id=40263017) - [Rusty.hpp: A Borrow Checker and Memory Ownership System for C++20](https://github.com/Jaysmito101/rusty.hpp)
 * [2024-05-05, 07:14:26](https://news.ycombinator.com/item?id=40262921) - [MIT abandons use of DEI statements](https://whyevolutionistrue.com/2024/05/04/mit-abandons-use-of-dei-statements/)
 * [2024-05-05, 07:07:56](https://news.ycombinator.com/item?id=40262883) - [Council Bans Apostrophes on Street Signs to Avoid Database Issues](https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-68942321)
 * [2024-05-05, 07:00:07](https://news.ycombinator.com/item?id=40262846) - [Emerge (YC W21) is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
@@ -13,7 +14,6 @@
 * [2024-05-05, 02:52:27](https://news.ycombinator.com/item?id=40261926) - [Digital Telecommunication in HF band - WWWAN - World-Wide Wireless Area Network](https://pretalx.sysmocom.de/osmodevcon2024/talk/BBZBGM/)
 * [2024-05-05, 01:39:05](https://news.ycombinator.com/item?id=40261681) - [Automated integer hash function discovery](https://github.com/skeeto/hash-prospector)
 * [2024-05-05, 01:01:05](https://news.ycombinator.com/item?id=40261550) - [Understanding Stein's Paradox (2021)](https://joe-antognini.github.io/machine-learning/steins-paradox)
-* [2024-05-05, 00:36:57](https://news.ycombinator.com/item?id=40261451) - [Preliminary Macintosh Business Plan (12 July 1981) [pdf]](http://archive.computerhistory.org/resources/text/2009/102712692.05.01acc.pdf)
 * [2024-05-04, 23:06:24](https://news.ycombinator.com/item?id=40261023) - [Hymn for Walpurgisnacht](https://themillions.com/2024/04/hymn-for-walpurgisnacht.html)
 * [2024-05-04, 23:02:30](https://news.ycombinator.com/item?id=40261001) - [Vera Rubin's primary mirror gets its first reflective coating](https://www.universetoday.com/166842/vera-rubins-primary-mirror-gets-its-first-reflective-coating/)
 * [2024-05-04, 21:03:55](https://news.ycombinator.com/item?id=40260259) - [Show HN: gpudeploy.com – \"Airbnb\" for GPUs](https://www.gpudeploy.com)

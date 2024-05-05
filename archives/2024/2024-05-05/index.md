@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-05](index.md)
 
 * [2024-05-05, 08:04:38](https://news.ycombinator.com/item?id=40263100) - [They Live](https://en.wikipedia.org/wiki/They_Live)
+* [2024-05-05, 07:38:47](https://news.ycombinator.com/item?id=40263017) - [Rusty.hpp: A Borrow Checker and Memory Ownership System for C++20](https://github.com/Jaysmito101/rusty.hpp)
 * [2024-05-05, 07:14:26](https://news.ycombinator.com/item?id=40262921) - [MIT abandons use of DEI statements](https://whyevolutionistrue.com/2024/05/04/mit-abandons-use-of-dei-statements/)
 * [2024-05-05, 07:07:56](https://news.ycombinator.com/item?id=40262883) - [Council Bans Apostrophes on Street Signs to Avoid Database Issues](https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-68942321)
 * [2024-05-05, 07:00:07](https://news.ycombinator.com/item?id=40262846) - [Emerge (YC W21) is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
