@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-05-05](index.md)
 
+* [2024-05-05, 09:02:33](https://news.ycombinator.com/item?id=40263289) - [Helldivers 2 Removed from Purchase on Steam in over 150 Countries](https://www.thegamer.com/helldivers-2-delisted-on-steam-100-plus-countries-without-psn-due-to-psn-sign-in-requirement-controversy/)
+* [2024-05-05, 08:22:09](https://news.ycombinator.com/item?id=40263150) - [StoryDiffusion – Using StoryDiffusion Online](https://storydiffusion.net/)
 * [2024-05-05, 08:04:38](https://news.ycombinator.com/item?id=40263100) - [They Live](https://en.wikipedia.org/wiki/They_Live)
+* [2024-05-05, 07:42:13](https://news.ycombinator.com/item?id=40263027) - [Show HN: I built a website to share files and messages without any server](https://neighbor-share.vercel.app/)
 * [2024-05-05, 07:38:47](https://news.ycombinator.com/item?id=40263017) - [Rusty.hpp: A Borrow Checker and Memory Ownership System for C++20](https://github.com/Jaysmito101/rusty.hpp)
 * [2024-05-05, 07:14:26](https://news.ycombinator.com/item?id=40262921) - [MIT abandons use of DEI statements](https://whyevolutionistrue.com/2024/05/04/mit-abandons-use-of-dei-statements/)
 * [2024-05-05, 07:07:56](https://news.ycombinator.com/item?id=40262883) - [Council Bans Apostrophes on Street Signs to Avoid Database Issues](https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-68942321)
