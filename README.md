@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-05, 23:12:28](https://news.ycombinator.com/item?id=40269489) - [Deep Reinforcement Learning: Zero to Hero](https://github.com/alessiodm/drl-zh)
-* [2024-05-05, 23:11:54](https://news.ycombinator.com/item?id=40269480) - [The Sam Altman Playbook: Fear, the Denial of Uncertainties, and Hype](https://garymarcus.substack.com/p/the-sam-altman-playbook)
 * [2024-05-05, 20:48:37](https://news.ycombinator.com/item?id=40268204) - [\"Meta spent almost as much as the Manhattan Project on GPUs in today's dollars\"](https://twitter.com/emollick/status/1786213463456448900)
 * [2024-05-05, 19:54:46](https://news.ycombinator.com/item?id=40267675) - [Bollards: Why and What](https://josh.works/bollards)
 * [2024-05-05, 19:53:48](https://news.ycombinator.com/item?id=40267666) - [Social engineering takeovers of open source projects](https://openssf.org/blog/2024/04/15/open-source-security-openssf-and-openjs-foundations-issue-alert-for-social-engineering-takeovers-of-open-source-projects/)
@@ -27,6 +26,7 @@
 * [2024-05-04, 23:01:37](https://news.ycombinator.com/item?id=40260996) - [Variations on the theme of silence](https://commonreader.wustl.edu/c/variations-on-the-theme-of-silence/)
 * [2024-05-03, 17:16:22](https://news.ycombinator.com/item?id=40249968) - [Turning AirPods into a fitness tracker](https://richarddas.com/blog/turning-airpods-into-fitness-trackers-to-fight-cancer/)
 * [2024-05-03, 11:23:58](https://news.ycombinator.com/item?id=40246400) - [Interview with Marian Rejewski, the first person to crack Enigma (1974) [video]](https://www.flyingpenguin.com/?p=56989)
+* [2024-05-03, 07:51:52](https://news.ycombinator.com/item?id=40245261) - [Using a LLM to compress text](https://o565.com/llm-text-compression/)
 * [2024-05-03, 06:24:23](https://news.ycombinator.com/item?id=40244729) - [Map Machine: Python renderer for OpenStreetMap with custom icons](https://github.com/enzet/map-machine)
 * [2024-05-03, 05:25:59](https://news.ycombinator.com/item?id=40244356) - [Beware of the Turing tar-pit (2004)](http://weblog.raganwald.com/2004/10/beware-of-turing-tar-pit.html)
 * [2024-05-03, 04:40:43](https://news.ycombinator.com/item?id=40244097) - [Data Science at the Command Line, 2nd Edition (2021)](https://jeroenjanssens.com/dsatcl/)
