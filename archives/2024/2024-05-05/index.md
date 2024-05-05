@@ -32,6 +32,7 @@
 * [2024-05-05, 03:38:59](https://news.ycombinator.com/item?id=40262093) - [Boeing faces 10 more whistleblowers after sudden death of two](https://www.hindustantimes.com/world-news/us-news/is-boeing-in-big-trouble-worlds-largest-aerospace-firm-faces-10-more-whistleblowers-after-sudden-death-of-two-101714838675908.html)
 * [2024-05-05, 03:36:13](https://news.ycombinator.com/item?id=40262082) - [Google Fit dev APIs shutdown set, fate of Android, Wear OS apps go unannounced](https://9to5google.com/2024/05/04/google-fit-api-shutdown/)
 * [2024-05-05, 03:29:33](https://news.ycombinator.com/item?id=40262059) - [Elegant Wind Turbine Blades Made of Wood Can Outperform Composites](https://cleantechnica.com/2024/05/03/elegant-wind-turbine-blades-made-of-wood-can-outperform-composites/)
+* [2024-05-05, 03:28:09](https://news.ycombinator.com/item?id=40262056) - [The Guide to Git I Never Had](https://glasskube.dev/guides/git/)
 * [2024-05-05, 03:10:08](https://news.ycombinator.com/item?id=40261985) - [Ghosts in the Machine 2 [video]](https://www.youtube.com/watch?v=V6hu83yVMlU)
 * [2024-05-05, 03:03:49](https://news.ycombinator.com/item?id=40261965) - [Sequoia: Serving exact Llama2-70B on an RTX4090 with 1/2 s per token](https://infini-ai-lab.github.io/Sequoia-Page/)
 * [2024-05-05, 02:52:27](https://news.ycombinator.com/item?id=40261926) - [Digital Telecommunication in HF band - WWWAN - World-Wide Wireless Area Network](https://pretalx.sysmocom.de/osmodevcon2024/talk/BBZBGM/)
