@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-05-05, 12:00:26",
-      "https://news.ycombinator.com/item?id=40264192"
-    ],
-    [
-      "Fern (YC W23) Is Hiring a Back End Engineer in NYC",
-      "https://www.ycombinator.com/companies/fern/jobs/9mMCMnY-backend-engineer"
-    ]
-  ],
-  [
-    [
       "2024-05-05, 11:58:46",
       "https://news.ycombinator.com/item?id=40264182"
     ],
@@ -47,16 +37,6 @@
     [
       "Take a look at traefik, even if you don't use containers",
       "https://j6b72.de/article/why-you-should-take-a-look-at-traefik/"
-    ]
-  ],
-  [
-    [
-      "2024-05-05, 11:16:19",
-      "https://news.ycombinator.com/item?id=40263975"
-    ],
-    [
-      "Rabbit R1 can be run on a Android device",
-      "https://www.androidauthority.com/rabbit-r1-bespoke-android-3439760/"
     ]
   ],
   [
@@ -91,11 +71,21 @@
   ],
   [
     [
+      "2024-05-05, 07:00:07",
+      "https://news.ycombinator.com/item?id=40262846"
+    ],
+    [
+      "Emerge (YC W21) is hiring senior engineers to automate dead code deletion",
+      "https://www.emergetools.com/careers"
+    ]
+  ],
+  [
+    [
       "2024-05-05, 06:47:40",
       "https://news.ycombinator.com/item?id=40262779"
     ],
     [
-      "Xmake: A modern C/C++ build tool",
+      "Xmake: A cross-platform build utility based on Lua",
       "https://github.com/xmake-io/xmake"
     ]
   ],
@@ -107,16 +97,6 @@
     [
       "New scanning electron microscope tech sees magnetic field with 100nm resolution",
       "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4812984"
-    ]
-  ],
-  [
-    [
-      "2024-05-05, 05:06:01",
-      "https://news.ycombinator.com/item?id=40262396"
-    ],
-    [
-      "Zebra remains on the loose in Washington state, officials close trailheads",
-      "https://apnews.com/article/zebra-missing-washington-state-2f46a5c4e344f385ba11e3ad2ae41c87"
     ]
   ],
   [
@@ -147,6 +127,16 @@
     [
       "Cylon: JavaScript framework for robotics, drones, and the Internet of Things",
       "https://github.com/hybridgroup/cylon"
+    ]
+  ],
+  [
+    [
+      "2024-05-05, 03:28:09",
+      "https://news.ycombinator.com/item?id=40262056"
+    ],
+    [
+      "The Guide to Git I Never Had",
+      "https://glasskube.dev/guides/git/"
     ]
   ],
   [
@@ -221,6 +211,16 @@
   ],
   [
     [
+      "2024-05-04, 20:22:54",
+      "https://news.ycombinator.com/item?id=40260035"
+    ],
+    [
+      "Show HN: Dillo 3.1.0 released after 9 years",
+      "https://dillo-browser.github.io/latest.html"
+    ]
+  ],
+  [
+    [
       "2024-05-04, 17:50:53",
       "https://news.ycombinator.com/item?id=40259185"
     ],
@@ -237,6 +237,16 @@
     [
       "How to build a $20B semiconductor fab",
       "https://www.construction-physics.com/p/how-to-build-a-20-billion-semiconductor"
+    ]
+  ],
+  [
+    [
+      "2024-05-04, 14:17:01",
+      "https://news.ycombinator.com/item?id=40257843"
+    ],
+    [
+      "The Mirror Fusion Test Facility (2023)",
+      "https://www.beautifulpublicdata.com/the-mirror-fusion-test-facility/"
     ]
   ],
   [
@@ -265,18 +275,8 @@
       "https://news.ycombinator.com/item?id=40234584"
     ],
     [
-      "Rewriting the Technical Interview",
+      "Rewriting the Technical Interview (2020)",
       "https://aphyr.com/posts/353-rewriting-the-technical-interview"
-    ]
-  ],
-  [
-    [
-      "2024-05-02, 09:57:55",
-      "https://news.ycombinator.com/item?id=40234430"
-    ],
-    [
-      "Got a spare Pi 1/2/3? Try RISC OS Open 5.30 It is, literally, something else",
-      "https://www.theregister.com/2024/05/02/rool_530_is_here/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=40233938"
     ],
     [
-      "Computers Reduce Efficiency: Case Studies of the Solow Paradox",
+      "Computers Reduce Efficiency: Case Studies of the Solow Paradox (2023)",
       "https://scottlocklin.wordpress.com/2023/11/21/computers-reduce-efficiency-case-studies-of-the-solow-paradox/"
     ]
   ]
