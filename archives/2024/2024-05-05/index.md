@@ -6,6 +6,7 @@
 
 * [2024-05-05, 19:54:46](https://news.ycombinator.com/item?id=40267675) - [Bollards: Why and What](https://josh.works/bollards)
 * [2024-05-05, 19:50:59](https://news.ycombinator.com/item?id=40267639) - [Israel shuts down local Al Jazeera offices in 'dark day for the media'](https://www.theguardian.com/world/article/2024/may/05/israel-shuts-down-local-al-jazeera-offices-in-dark-day-for-the-media)
+* [2024-05-05, 19:30:08](https://news.ycombinator.com/item?id=40267473) - [German government: Cyberattacks originate from Russian military intelligence](https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2024/05/schutzmassnahmen-cyberangriffe.html)
 * [2024-05-05, 18:47:46](https://news.ycombinator.com/item?id=40267182) - [Designing furniture using the CSS grid (2023)](https://alnvdl.github.io/2023/01/07/designing-furniture-using-the-css-grid.html)
 * [2024-05-05, 18:45:04](https://news.ycombinator.com/item?id=40267164) - [Flying planes with a JavaScript autopilot (2023)](https://pomax.github.io/are-we-flying/)
 * [2024-05-05, 18:32:09](https://news.ycombinator.com/item?id=40267072) - [Recruiters are going analog to fight the AI application overload](https://www.wired.com/story/recruiters-ai-application-overload/)
