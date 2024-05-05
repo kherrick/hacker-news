@@ -1,11 +1,21 @@
 [
   [
     [
+      "2024-05-05, 17:20:26",
+      "https://news.ycombinator.com/item?id=40266492"
+    ],
+    [
+      "Good Ideas in Computer Science",
+      "https://danielchasehooper.com/posts/good-ideas-in-cs/"
+    ]
+  ],
+  [
+    [
       "2024-05-05, 17:17:07",
       "https://news.ycombinator.com/item?id=40266464"
     ],
     [
-      "Simplicity Is an Advantage but Sadly Complexity Sells Better",
+      "Simplicity Is an Advantage but Sadly Complexity Sells Better (2022)",
       "https://eugeneyan.com/writing/simplicity/"
     ]
   ],
@@ -21,42 +31,12 @@
   ],
   [
     [
-      "2024-05-05, 16:36:38",
-      "https://news.ycombinator.com/item?id=40266122"
-    ],
-    [
-      "Al Jazeera condemns Israeli government decision to shut down channel",
-      "https://www.aljazeera.com/news/2024/5/5/netanyahu-government-votes-to-close-al-jazeera-channel-in-israel"
-    ]
-  ],
-  [
-    [
-      "2024-05-05, 16:33:20",
-      "https://news.ycombinator.com/item?id=40266096"
-    ],
-    [
-      "How to style React applications while the world burns around us",
-      "https://herbcaudill.com/words/20201007-style-react-app"
-    ]
-  ],
-  [
-    [
       "2024-05-05, 16:21:33",
       "https://news.ycombinator.com/item?id=40266015"
     ],
     [
       "ESP32-S3 has (a few) SIMD instructions",
       "https://bitbanksoftware.blogspot.com/2024/01/surprise-esp32-s3-has-few-simd.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-05, 15:46:03",
-      "https://news.ycombinator.com/item?id=40265703"
-    ],
-    [
-      "Aberdeenshire memorial inscriptions records removed from Ancestry",
-      "http://scottishgenes.blogspot.com/2024/05/aberdeenshire-memorial-inscriptions.html"
     ]
   ],
   [
@@ -87,16 +67,6 @@
     [
       "Recruiters Are Going Analog to Fight the AI Application Overload",
       "https://www.wired.com/story/recruiters-ai-application-overload/"
-    ]
-  ],
-  [
-    [
-      "2024-05-05, 13:16:00",
-      "https://news.ycombinator.com/item?id=40264669"
-    ],
-    [
-      "First 'tooth regrowth medicine' to be tested in Japan from Sept. 2024",
-      "https://mainichi.jp/english/articles/20240503/p2a/00m/0sc/012000c"
     ]
   ],
   [
@@ -167,6 +137,16 @@
     [
       "Rusty.hpp: A Borrow Checker and Memory Ownership System for C++20",
       "https://github.com/Jaysmito101/rusty.hpp"
+    ]
+  ],
+  [
+    [
+      "2024-05-05, 07:07:56",
+      "https://news.ycombinator.com/item?id=40262883"
+    ],
+    [
+      "Council Bans Apostrophes on Street Signs to Avoid Database Issues",
+      "https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-68942321"
     ]
   ],
   [
@@ -281,12 +261,32 @@
   ],
   [
     [
+      "2024-05-04, 20:22:54",
+      "https://news.ycombinator.com/item?id=40260035"
+    ],
+    [
+      "Show HN: Dillo 3.1.0 released after 9 years",
+      "https://dillo-browser.github.io/latest.html"
+    ]
+  ],
+  [
+    [
       "2024-05-04, 17:50:53",
       "https://news.ycombinator.com/item?id=40259185"
     ],
     [
       "Verified Rust for low-level systems code",
       "https://github.com/verus-lang/verus"
+    ]
+  ],
+  [
+    [
+      "2024-05-03, 09:05:37",
+      "https://news.ycombinator.com/item?id=40245626"
+    ],
+    [
+      "Agricultural IoT System Sends Power Through the Soil",
+      "https://spectrum.ieee.org/smart-agriculture"
     ]
   ],
   [
