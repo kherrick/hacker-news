@@ -94,6 +94,7 @@
 * [2024-05-02, 10:45:26](https://news.ycombinator.com/item?id=40234682) - [Silk Helped the Armies of Genghis Khan Conquer Asia](https://lithub.com/how-silk-helped-the-armies-of-genghis-khan-conquer-asia/)
 * [2024-05-02, 10:10:26](https://news.ycombinator.com/item?id=40234490) - [Visiting the most expensive nuclear station](https://www.samdumitriu.com/p/visiting-the-worlds-most-expensive)
 * [2024-05-02, 09:57:35](https://news.ycombinator.com/item?id=40234428) - [Are young people smarter than adults? Research shows differences diminishing](https://theconversation.com/are-young-people-smarter-than-older-adults-my-research-shows-cognitive-differences-between-generations-are-diminishing-229132)
+* [2024-05-02, 09:52:40](https://news.ycombinator.com/item?id=40234398) - [Robert Haas: Hacking on PostgreSQL Is Hard](http://rhaas.blogspot.com/2024/05/hacking-on-postgresql-is-really-hard.html)
 * [2024-05-02, 09:49:35](https://news.ycombinator.com/item?id=40234383) - [Teranoptia – a typeface that allows you to imagine chimeric creatures](https://www.tunera.xyz/fonts/teranoptia/)
 * [2024-05-02, 09:25:17](https://news.ycombinator.com/item?id=40234260) - [I'm closing up shop on my Mastodon for the foreseeable future](https://vkc.sh/its-not-you-its-me-taking-a-break-from-mastodon/)
 * [2024-05-02, 09:24:28](https://news.ycombinator.com/item?id=40234254) - [Dissecting LockBit v3 Ransomware](https://blog.calif.io/p/dissecting-lockbit-v3-ransomware)
