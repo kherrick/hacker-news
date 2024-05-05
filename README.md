@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-05, 05:14:08](https://news.ycombinator.com/item?id=40262438) - [Pivot podcast host Scott Galloway: 'Tech bros conflate luck with talent'](https://www.theguardian.com/books/article/2024/may/04/scott-galloway-algebra-of-wealth-pivot-elon-musk)
 * [2024-05-05, 04:22:05](https://news.ycombinator.com/item?id=40262226) - [Megaconstellations like SpaceX's could weaken Earth's magnetic field, atmosphere](https://www.livescience.com/space/space-exploration/controversial-paper-claims-satellite-megaconstellations-like-spacexs-could-weaken-earths-magnetic-field-and-cause-atmospheric-stripping-should-we-be-worried)
 * [2024-05-05, 04:13:56](https://news.ycombinator.com/item?id=40262190) - [Judge mulls sanctions over Google's \"shocking\" destruction of internal chats](https://arstechnica.com/tech-policy/2024/05/judge-mulls-sanctions-over-googles-shocking-destruction-of-internal-chats/)
 * [2024-05-05, 03:46:04](https://news.ycombinator.com/item?id=40262115) - [Cylon: JavaScript framework for robotics, drones, and the Internet of Things](https://github.com/hybridgroup/cylon)
@@ -8,7 +9,6 @@
 * [2024-05-05, 02:38:44](https://news.ycombinator.com/item?id=40261884) - [2 years after UK poop-engulfed beaches became national scandals, it's even worse](https://www.cnn.com/england-uk-sewage-poop-beach/index.html)
 * [2024-05-05, 01:46:38](https://news.ycombinator.com/item?id=40261705) - [Moving the largest camera from California lab to Andes mountaintop](https://www.scientificamerican.com/article/how-to-move-the-worlds-largest-camera-from-a-california-lab-to-an-andes/)
 * [2024-05-05, 01:39:05](https://news.ycombinator.com/item?id=40261681) - [Automated integer hash function discovery](https://github.com/skeeto/hash-prospector)
-* [2024-05-05, 01:29:53](https://news.ycombinator.com/item?id=40261647) - [Why US renters are taking corporate landlords to court](https://www.cnbc.com/2024/02/03/realpage-antitrust-lawsuits-allege-collusion-among-corporate-landlords.html)
 * [2024-05-05, 01:01:05](https://news.ycombinator.com/item?id=40261550) - [Understanding Stein's Paradox (2021)](https://joe-antognini.github.io/machine-learning/steins-paradox)
 * [2024-05-05, 00:36:57](https://news.ycombinator.com/item?id=40261451) - [Preliminary Macintosh Business Plan (12 July 1981) [pdf]](http://archive.computerhistory.org/resources/text/2009/102712692.05.01acc.pdf)
 * [2024-05-05, 00:25:59](https://news.ycombinator.com/item?id=40261408) - [Dick Rutan, pilot of the first nonstop around-the-world flight, has died](https://www.independent.co.uk/news/ap-voyager-ronald-reagan-california-idaho-b2539832.html)
