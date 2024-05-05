@@ -6,6 +6,7 @@
 
 * [2024-05-05, 04:22:05](https://news.ycombinator.com/item?id=40262226) - [Megaconstellations like SpaceX's could weaken Earth's magnetic field, atmosphere](https://www.livescience.com/space/space-exploration/controversial-paper-claims-satellite-megaconstellations-like-spacexs-could-weaken-earths-magnetic-field-and-cause-atmospheric-stripping-should-we-be-worried)
 * [2024-05-05, 04:13:56](https://news.ycombinator.com/item?id=40262190) - [Judge mulls sanctions over Google's \"shocking\" destruction of internal chats](https://arstechnica.com/tech-policy/2024/05/judge-mulls-sanctions-over-googles-shocking-destruction-of-internal-chats/)
+* [2024-05-05, 03:46:04](https://news.ycombinator.com/item?id=40262115) - [Cylon: JavaScript framework for robotics, drones, and the Internet of Things](https://github.com/hybridgroup/cylon)
 * [2024-05-05, 03:38:59](https://news.ycombinator.com/item?id=40262093) - [Boeing faces 10 more whistleblowers after sudden death of two](https://www.hindustantimes.com/world-news/us-news/is-boeing-in-big-trouble-worlds-largest-aerospace-firm-faces-10-more-whistleblowers-after-sudden-death-of-two-101714838675908.html)
 * [2024-05-05, 03:29:33](https://news.ycombinator.com/item?id=40262059) - [Elegant Wind Turbine Blades Made of Wood Can Outperform Composites](https://cleantechnica.com/2024/05/03/elegant-wind-turbine-blades-made-of-wood-can-outperform-composites/)
 * [2024-05-05, 03:10:08](https://news.ycombinator.com/item?id=40261985) - [Ghosts in the Machine 2 [video]](https://www.youtube.com/watch?v=V6hu83yVMlU)
