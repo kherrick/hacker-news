@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-05](index.md)
 
+* [2024-05-05, 18:32:09](https://news.ycombinator.com/item?id=40267072) - [Recruiters are going analog to fight the AI application overload](https://www.wired.com/story/recruiters-ai-application-overload/)
 * [2024-05-05, 18:05:31](https://news.ycombinator.com/item?id=40266845) - [Monitoring energy usage with smart plugs, Prometheus and Grafana](https://ounapuu.ee/posts/2024/05/02/smartplugs/)
+* [2024-05-05, 17:58:13](https://news.ycombinator.com/item?id=40266791) - [Infini-Gram: Scaling unbounded n-gram language models to a trillion tokens](https://arxiv.org/abs/2401.17377)
 * [2024-05-05, 17:40:36](https://news.ycombinator.com/item?id=40266635) - [Stereogram Tutorial (2020)](https://www.ime.usp.br/~otuyama/stereogram/basic/index.html)
 * [2024-05-05, 17:20:26](https://news.ycombinator.com/item?id=40266492) - [Good Ideas in Computer Science](https://danielchasehooper.com/posts/good-ideas-in-cs/)
 * [2024-05-05, 17:17:07](https://news.ycombinator.com/item?id=40266464) - [Simplicity Is an Advantage but Sadly Complexity Sells Better](https://eugeneyan.com/writing/simplicity/)
@@ -30,6 +32,7 @@
 * [2024-05-05, 11:31:17](https://news.ycombinator.com/item?id=40264042) - [Take a look at traefik, even if you don't use containers](https://j6b72.de/article/why-you-should-take-a-look-at-traefik/)
 * [2024-05-05, 11:16:19](https://news.ycombinator.com/item?id=40263975) - [Rabbit R1 can be run on a Android device](https://www.androidauthority.com/rabbit-r1-bespoke-android-3439760/)
 * [2024-05-05, 09:44:28](https://news.ycombinator.com/item?id=40263479) - [Debian 64-bit-time transition](https://wiki.debian.org/ReleaseGoals/64bit-time)
+* [2024-05-05, 09:28:59](https://news.ycombinator.com/item?id=40263394) - [Decoding UTF8 with parallel extract](https://nrk.neocities.org/articles/utf8-pext)
 * [2024-05-05, 09:02:33](https://news.ycombinator.com/item?id=40263289) - [Helldivers 2 Removed from Purchase on Steam in over 150 Countries](https://www.thegamer.com/helldivers-2-delisted-on-steam-100-plus-countries-without-psn-due-to-psn-sign-in-requirement-controversy/)
 * [2024-05-05, 08:39:29](https://news.ycombinator.com/item?id=40263194) - [Flags Are Not Languages](https://www.flagsarenotlanguages.com/blog/)
 * [2024-05-05, 08:31:24](https://news.ycombinator.com/item?id=40263168) - [US prepares to exempt AUKUS nations from ITAR](https://www.naval-technology.com/news/us-prepares-to-scrap-itar-for-aukus-nations/)
