@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-05-05](index.md)
 
+* [2024-05-05, 12:30:44](https://news.ycombinator.com/item?id=40264352) - [Machine unlearning: ML model minus the information to be unlearned](https://ai.stanford.edu/~kzliu/blog/unlearning)
 * [2024-05-05, 12:00:26](https://news.ycombinator.com/item?id=40264192) - [Fern (YC W23) Is Hiring a Back End Engineer in NYC](https://www.ycombinator.com/companies/fern/jobs/9mMCMnY-backend-engineer)
 * [2024-05-05, 11:58:46](https://news.ycombinator.com/item?id=40264182) - [A Visual History of Windows Icons: From Windows 1 to 11 (2011)](https://www.howtogeek.com/733912/a-visual-history-of-windows-icons-from-windows-1-to-11/)
+* [2024-05-05, 11:31:17](https://news.ycombinator.com/item?id=40264042) - [Take a look at traefik, even if you don't use containers](https://j6b72.de/article/why-you-should-take-a-look-at-traefik/)
 * [2024-05-05, 11:16:19](https://news.ycombinator.com/item?id=40263975) - [Rabbit R1 can be run on a Android device](https://www.androidauthority.com/rabbit-r1-bespoke-android-3439760/)
 * [2024-05-05, 09:44:28](https://news.ycombinator.com/item?id=40263479) - [Debian 64-bit-time transition](https://wiki.debian.org/ReleaseGoals/64bit-time)
 * [2024-05-05, 09:02:33](https://news.ycombinator.com/item?id=40263289) - [Helldivers 2 Removed from Purchase on Steam in over 150 Countries](https://www.thegamer.com/helldivers-2-delisted-on-steam-100-plus-countries-without-psn-due-to-psn-sign-in-requirement-controversy/)
