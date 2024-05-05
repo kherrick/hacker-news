@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-05, 12:00:26",
+      "https://news.ycombinator.com/item?id=40264192"
+    ],
+    [
+      "Fern (YC W23) Is Hiring a Back End Engineer in NYC",
+      "https://www.ycombinator.com/companies/fern/jobs/9mMCMnY-backend-engineer"
+    ]
+  ],
+  [
+    [
       "2024-05-05, 09:44:28",
       "https://news.ycombinator.com/item?id=40263479"
     ],
@@ -47,16 +57,6 @@
     [
       "Rusty.hpp: A Borrow Checker and Memory Ownership System for C++20",
       "https://github.com/Jaysmito101/rusty.hpp"
-    ]
-  ],
-  [
-    [
-      "2024-05-05, 07:00:07",
-      "https://news.ycombinator.com/item?id=40262846"
-    ],
-    [
-      "Emerge (YC W21) is hiring senior engineers to automate dead code deletion",
-      "https://www.emergetools.com/careers"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2024-05-04, 16:47:17",
-      "https://news.ycombinator.com/item?id=40258804"
-    ],
-    [
-      "Porting HPC Applications to AMD Instinct MI300A Using Unified Memory and OpenMP",
-      "https://arxiv.org/abs/2405.00436"
-    ]
-  ],
-  [
-    [
       "2024-05-04, 14:42:44",
       "https://news.ycombinator.com/item?id=40258037"
     ],
@@ -247,6 +237,16 @@
     [
       "Drink Me: (Ab)Using a LLM to Compress Text",
       "https://o565.com/llm-text-compression/"
+    ]
+  ],
+  [
+    [
+      "2024-05-03, 04:58:03",
+      "https://news.ycombinator.com/item?id=40244205"
+    ],
+    [
+      "A year of publishing the MDN Blog",
+      "https://developer.mozilla.org/en-US/blog/mdn-blog-one-year-on/"
     ]
   ],
   [
