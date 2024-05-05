@@ -84,3 +84,4 @@
 * [2024-05-05, 00:25:59](https://news.ycombinator.com/item?id=40261408) - [Dick Rutan, who flew nonstop around the world, is dead at 85](https://www.independent.co.uk/news/ap-voyager-ronald-reagan-california-idaho-b2539832.html)
 * [2024-05-05, 00:23:01](https://news.ycombinator.com/item?id=40261402) - [Winged lions through time and space](https://languagelog.ldc.upenn.edu/nll/?p=63820)
 * [2024-05-05, 00:06:20](https://news.ycombinator.com/item?id=40261337) - [China sends a probe to get samples from the less-explored far side of the moon](https://phys.org/news/2024-05-china-probe-samples-explored-side.html)
+* [2024-05-05, 00:03:48](https://news.ycombinator.com/item?id=40261319) - [A mostly complete guide to React rendering behavior (2020)](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
