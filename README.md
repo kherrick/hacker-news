@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-05, 07:00:07](https://news.ycombinator.com/item?id=40262846) - [Emerge (YC W21) is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
+* [2024-05-05, 06:47:40](https://news.ycombinator.com/item?id=40262779) - [Xmake: A modern C/C++ build tool](https://github.com/xmake-io/xmake)
 * [2024-05-05, 04:26:10](https://news.ycombinator.com/item?id=40262236) - [Time-Based CSS Animations](https://yuanchuan.dev/time-based-css-animations)
 * [2024-05-05, 04:13:56](https://news.ycombinator.com/item?id=40262190) - [Judge mulls sanctions over Google's \"shocking\" destruction of internal chats](https://arstechnica.com/tech-policy/2024/05/judge-mulls-sanctions-over-googles-shocking-destruction-of-internal-chats/)
 * [2024-05-05, 03:46:04](https://news.ycombinator.com/item?id=40262115) - [Cylon: JavaScript framework for robotics, drones, and the Internet of Things](https://github.com/hybridgroup/cylon)
 * [2024-05-05, 03:36:13](https://news.ycombinator.com/item?id=40262082) - [Google Fit dev APIs shutdown set, fate of Android, Wear OS apps go unannounced](https://9to5google.com/2024/05/04/google-fit-api-shutdown/)
-* [2024-05-05, 03:29:33](https://news.ycombinator.com/item?id=40262059) - [Elegant Wind Turbine Blades Made of Wood Can Outperform Composites](https://cleantechnica.com/2024/05/03/elegant-wind-turbine-blades-made-of-wood-can-outperform-composites/)
 * [2024-05-05, 03:03:49](https://news.ycombinator.com/item?id=40261965) - [SEQUOIA: Exact Llama2-70B on an RTX4090 with half-second per-token latency](https://infini-ai-lab.github.io/Sequoia-Page/)
 * [2024-05-05, 02:52:27](https://news.ycombinator.com/item?id=40261926) - [Digital Telecommunication in HF band - WWWAN - World-Wide Wireless Area Network](https://pretalx.sysmocom.de/osmodevcon2024/talk/BBZBGM/)
 * [2024-05-05, 01:46:38](https://news.ycombinator.com/item?id=40261705) - [Moving the largest camera from California lab to Andes mountaintop](https://www.scientificamerican.com/article/how-to-move-the-worlds-largest-camera-from-a-california-lab-to-an-andes/)
