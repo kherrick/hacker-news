@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-04](index.md)
 
+* [2024-05-04, 23:02:30](https://news.ycombinator.com/item?id=40261001) - [Vera Rubin's primary mirror gets its first reflective coating](https://www.universetoday.com/166842/vera-rubins-primary-mirror-gets-its-first-reflective-coating/)
+* [2024-05-04, 22:59:45](https://news.ycombinator.com/item?id=40260984) - [Love to see the night sky on Mars? This is what it would be like to stargaze](https://www.skyatnightmagazine.com/space-science/what-does-night-sky-look-like-mars)
 * [2024-05-04, 22:49:21](https://news.ycombinator.com/item?id=40260936) - [Cathinone and Psilocybin in Cicada Pathogens (2019)](https://www.sciencedirect.com/science/article/pii/S1754504819300352)
 * [2024-05-04, 22:48:59](https://news.ycombinator.com/item?id=40260935) - [When a politician sues a blog to unmask its anonymous commenter](https://yro.slashdot.org/story/24/05/04/0316216/when-a-politician-sues-a-blog-to-unmask-its-anonymous-commenter)
 * [2024-05-04, 22:39:24](https://news.ycombinator.com/item?id=40260881) - [Multi-million dollar Cheyenne supercomputer auction ends with $480,085 bid](https://www.tomshardware.com/tech-industry/supercomputers/multi-million-dollar-cheyenne-supercomputer-auction-ends-with-480085-bid)
@@ -42,6 +44,7 @@
 * [2024-05-04, 13:42:02](https://news.ycombinator.com/item?id=40257601) - [CBMC: C bounded model checker (2021)](http://www.cprover.org/cbmc/)
 * [2024-05-04, 13:28:13](https://news.ycombinator.com/item?id=40257510) - [The Hidden-Pregnancy Experiment: Could I Hide My Pregnancy from My Phone?](https://www.newyorker.com/culture/the-weekend-essay/the-hidden-pregnancy-experiment)
 * [2024-05-04, 13:22:16](https://news.ycombinator.com/item?id=40257470) - [Rising Tide Rents and Robber Baron Rents](https://www.oreilly.com/radar/rising-tide-rents-and-robber-baron-rents/)
+* [2024-05-04, 13:21:33](https://news.ycombinator.com/item?id=40257463) - [U.S. vs. Google: As landmark monopoly trial closes, here's what to look for](https://www.npr.org/2024/05/02/1248152695/google-doj-monopoly-trial-antitrust-closing-arguments)
 * [2024-05-04, 13:13:33](https://news.ycombinator.com/item?id=40257420) - [StarCoder2-Instruct: Transparent Self-Alignment for Code Generation](https://github.com/bigcode-project/starcoder2-self-align)
 * [2024-05-04, 12:13:19](https://news.ycombinator.com/item?id=40257064) - ['Our culture is dying': vulture shortage threatens Zoroastrian burial rites](https://www.theguardian.com/world/article/2024/may/04/vulture-shortage-threatens-zoroastrian-burial-rites-india-iran-pakistan)
 * [2024-05-04, 12:00:28](https://news.ycombinator.com/item?id=40256991) - [Trayd (YC S23) Is Hiring Technical Customer Success Associate](https://www.ycombinator.com/companies/trayd/jobs/mWFq6En-technical-customer-success-associate)

@@ -78,6 +78,7 @@
 * [2024-05-03, 08:40:58](https://news.ycombinator.com/item?id=40245509) - [Apple announces $110B share buyback after quarterly profit and revenue drop](https://www.thenationalnews.com/business/markets/2024/05/02/apple-announces-110bn-share-buyback-after-quarterly-profit-and-revenue-drop/)
 * [2024-05-03, 08:30:57](https://news.ycombinator.com/item?id=40245463) - [Firefox Webserial Addon](https://github.com/kuba2k2/firefox-webserial)
 * [2024-05-03, 08:08:19](https://news.ycombinator.com/item?id=40245348) - [I can fix this PC, boss, but I'll need to play games for hours to do it](https://www.theregister.com/2024/05/03/on_call/)
+* [2024-05-03, 07:51:52](https://news.ycombinator.com/item?id=40245261) - [Drink Me: (Ab)Using a LLM to Compress Text](https://o565.com/llm-text-compression/)
 * [2024-05-03, 07:16:55](https://news.ycombinator.com/item?id=40245050) - [Show HN: I built a site to share code boilerplates](https://boilermate.site/hot)
 * [2024-05-03, 07:01:00](https://news.ycombinator.com/item?id=40244962) - [Raycast (YC W20) is hiring Rust engineer (Remote, Europe, €104k – €160k)](https://www.raycast.com/jobs/software-engineer-rust)
 * [2024-05-03, 06:42:24](https://news.ycombinator.com/item?id=40244854) - [Ask HN: Why isn't it easy to compile dlls inline?](https://news.ycombinator.com/item?id=40244854)
