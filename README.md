@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-05, 04:13:56](https://news.ycombinator.com/item?id=40262190) - [Judge mulls sanctions over Google's \"shocking\" destruction of internal chats](https://arstechnica.com/tech-policy/2024/05/judge-mulls-sanctions-over-googles-shocking-destruction-of-internal-chats/)
+* [2024-05-05, 03:29:33](https://news.ycombinator.com/item?id=40262059) - [Elegant Wind Turbine Blades Made of Wood Can Outperform Composites](https://cleantechnica.com/2024/05/03/elegant-wind-turbine-blades-made-of-wood-can-outperform-composites/)
 * [2024-05-05, 03:10:08](https://news.ycombinator.com/item?id=40261985) - [Ghosts in the Machine 2 [video]](https://www.youtube.com/watch?v=V6hu83yVMlU)
 * [2024-05-05, 03:03:49](https://news.ycombinator.com/item?id=40261965) - [SEQUOIA: Exact Llama2-70B on an RTX4090 with half-second per-token latency](https://infini-ai-lab.github.io/Sequoia-Page/)
 * [2024-05-05, 02:38:44](https://news.ycombinator.com/item?id=40261884) - [2 years after UK poop-engulfed beaches became national scandals, it's even worse](https://www.cnn.com/england-uk-sewage-poop-beach/index.html)
@@ -22,7 +23,6 @@
 * [2024-05-04, 15:15:48](https://news.ycombinator.com/item?id=40258273) - [Was the Stone Age the Wood Age?](https://www.nytimes.com/2024/05/04/science/archaeology-neanderthals-wood.html)
 * [2024-05-04, 14:42:44](https://news.ycombinator.com/item?id=40258037) - [How to build a $20B semiconductor fab](https://www.construction-physics.com/p/how-to-build-a-20-billion-semiconductor)
 * [2024-05-04, 14:17:01](https://news.ycombinator.com/item?id=40257843) - [The Mirror Fusion Test Facility (2023)](https://www.beautifulpublicdata.com/the-mirror-fusion-test-facility/)
-* [2024-05-04, 13:51:58](https://news.ycombinator.com/item?id=40257677) - [In Praise of Idleness (1932)](https://harpers.org/archive/1932/10/in-praise-of-idleness/)
 * [2024-05-04, 13:42:02](https://news.ycombinator.com/item?id=40257601) - [CBMC: C bounded model checker (2021)](http://www.cprover.org/cbmc/)
 * [2024-05-04, 09:27:45](https://news.ycombinator.com/item?id=40256173) - [The Matrix: A Bayesian learning model for LLMs](https://arxiv.org/abs/2402.03175)
 * [2024-05-03, 23:37:59](https://news.ycombinator.com/item?id=40253494) - [Art and Memory](https://www.lrb.co.uk/the-paper/v46/n09/julian-barnes/diary)
