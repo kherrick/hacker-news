@@ -21,12 +21,12 @@
   ],
   [
     [
-      "2024-05-05, 08:22:09",
-      "https://news.ycombinator.com/item?id=40263150"
+      "2024-05-05, 08:31:24",
+      "https://news.ycombinator.com/item?id=40263168"
     ],
     [
-      "StoryDiffusion – Using StoryDiffusion Online",
-      "https://storydiffusion.net/"
+      "US prepares to exempt AUKUS nations from ITAR",
+      "https://www.naval-technology.com/news/us-prepares-to-scrap-itar-for-aukus-nations/"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2024-05-04, 16:47:17",
+      "https://news.ycombinator.com/item?id=40258804"
+    ],
+    [
+      "Porting HPC Applications to AMD Instinct MI300A Using Unified Memory and OpenMP",
+      "https://arxiv.org/abs/2405.00436"
+    ]
+  ],
+  [
+    [
       "2024-05-04, 14:42:44",
       "https://news.ycombinator.com/item?id=40258037"
     ],
@@ -237,16 +247,6 @@
     [
       "The Mirror Fusion Test Facility (2023)",
       "https://www.beautifulpublicdata.com/the-mirror-fusion-test-facility/"
-    ]
-  ],
-  [
-    [
-      "2024-05-04, 13:42:02",
-      "https://news.ycombinator.com/item?id=40257601"
-    ],
-    [
-      "CBMC: C bounded model checker (2021)",
-      "http://www.cprover.org/cbmc/"
     ]
   ],
   [
