@@ -6,6 +6,7 @@
 
 * [2024-05-05, 09:02:33](https://news.ycombinator.com/item?id=40263289) - [Helldivers 2 Removed from Purchase on Steam in over 150 Countries](https://www.thegamer.com/helldivers-2-delisted-on-steam-100-plus-countries-without-psn-due-to-psn-sign-in-requirement-controversy/)
 * [2024-05-05, 08:39:29](https://news.ycombinator.com/item?id=40263194) - [Flags Are Not Languages](https://www.flagsarenotlanguages.com/blog/)
+* [2024-05-05, 08:31:24](https://news.ycombinator.com/item?id=40263168) - [US prepares to exempt AUKUS nations from ITAR](https://www.naval-technology.com/news/us-prepares-to-scrap-itar-for-aukus-nations/)
 * [2024-05-05, 08:22:09](https://news.ycombinator.com/item?id=40263150) - [StoryDiffusion – Using StoryDiffusion Online](https://storydiffusion.net/)
 * [2024-05-05, 08:04:38](https://news.ycombinator.com/item?id=40263100) - [They Live](https://en.wikipedia.org/wiki/They_Live)
 * [2024-05-05, 07:42:13](https://news.ycombinator.com/item?id=40263027) - [Show HN: I built a website to share files and messages without any server](https://neighbor-share.vercel.app/)
