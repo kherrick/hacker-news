@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-05](index.md)
 
+* [2024-05-05, 21:14:52](https://news.ycombinator.com/item?id=40268463) - [Alan Kay on Donald Knuth](https://twitter.com/fermatslibrary/status/1787105220268380448/photo/1)
 * [2024-05-05, 20:36:25](https://news.ycombinator.com/item?id=40268090) - [C Isn't a Hangover; Rust Isn't a Hangover Cure](https://crashoverride.com/blog/c-isnt-a-hangover-rust-isnt-a-hangover-cure)
 * [2024-05-05, 20:02:06](https://news.ycombinator.com/item?id=40267729) - [The Hill: The Pentagon is lying about UFOs](https://thehill.com/opinion/national-security/4632952-the-pentagon-is-lying-about-ufos/)
 * [2024-05-05, 19:54:46](https://news.ycombinator.com/item?id=40267675) - [Bollards: Why and What](https://josh.works/bollards)

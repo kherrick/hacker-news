@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-05, 20:36:25](https://news.ycombinator.com/item?id=40268090) - [C Isn't a Hangover; Rust Isn't a Hangover Cure](https://crashoverride.com/blog/c-isnt-a-hangover-rust-isnt-a-hangover-cure)
+* [2024-05-05, 21:14:52](https://news.ycombinator.com/item?id=40268463) - [Alan Kay on Donald Knuth](https://twitter.com/fermatslibrary/status/1787105220268380448/photo/1)
 * [2024-05-05, 20:02:06](https://news.ycombinator.com/item?id=40267729) - [The Hill: The Pentagon is lying about UFOs](https://thehill.com/opinion/national-security/4632952-the-pentagon-is-lying-about-ufos/)
 * [2024-05-05, 19:54:46](https://news.ycombinator.com/item?id=40267675) - [Bollards: Why and What](https://josh.works/bollards)
 * [2024-05-05, 19:53:48](https://news.ycombinator.com/item?id=40267666) - [Alert for Social Engineering Takeovers of Open Source Projects](https://openssf.org/blog/2024/04/15/open-source-security-openssf-and-openjs-foundations-issue-alert-for-social-engineering-takeovers-of-open-source-projects/)
@@ -11,7 +11,6 @@
 * [2024-05-05, 18:45:04](https://news.ycombinator.com/item?id=40267164) - [Flying planes in Microsoft Flight Simulator with a JavaScript autopilot (2023)](https://pomax.github.io/are-we-flying/)
 * [2024-05-05, 18:05:31](https://news.ycombinator.com/item?id=40266845) - [Monitoring energy usage with smart plugs, Prometheus and Grafana](https://ounapuu.ee/posts/2024/05/02/smartplugs/)
 * [2024-05-05, 17:58:13](https://news.ycombinator.com/item?id=40266791) - [Infini-Gram: Scaling unbounded n-gram language models to a trillion tokens](https://arxiv.org/abs/2401.17377)
-* [2024-05-05, 17:56:55](https://news.ycombinator.com/item?id=40266784) - [Ansible is a Lisp?](https://astrid.tech/2024/05/01/0/ansible-is-a-lisp/)
 * [2024-05-05, 17:50:12](https://news.ycombinator.com/item?id=40266728) - [Microsoft CTO: Thoughts on OpenAI (2019)](https://twitter.com/techemails/status/1787176471146156193)
 * [2024-05-05, 17:40:36](https://news.ycombinator.com/item?id=40266635) - [Stereogram Tutorial (2020)](https://www.ime.usp.br/~otuyama/stereogram/basic/index.html)
 * [2024-05-05, 17:07:27](https://news.ycombinator.com/item?id=40266382) - [Dick Rutan, co-pilot of historic round-the-world flight, has died](https://www.theguardian.com/world/article/2024/may/04/dick-rutan-pilot-dies-aged-85)
@@ -23,6 +22,7 @@
 * [2024-05-05, 09:28:59](https://news.ycombinator.com/item?id=40263394) - [Decoding UTF8 with parallel extract](https://nrk.neocities.org/articles/utf8-pext)
 * [2024-05-05, 07:14:26](https://news.ycombinator.com/item?id=40262921) - [MIT abandons requirement of DEI statements for hiring and promotions](https://whyevolutionistrue.com/2024/05/04/mit-abandons-use-of-dei-statements/)
 * [2024-05-05, 07:07:56](https://news.ycombinator.com/item?id=40262883) - [North Yorkshire Council to phase out apostrophe use on street signs](https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-68942321)
+* [2024-05-05, 06:47:40](https://news.ycombinator.com/item?id=40262779) - [Xmake: A cross-platform build utility based on Lua](https://github.com/xmake-io/xmake)
 * [2024-05-04, 23:01:37](https://news.ycombinator.com/item?id=40260996) - [Variations on the theme of silence](https://commonreader.wustl.edu/c/variations-on-the-theme-of-silence/)
 * [2024-05-03, 17:16:22](https://news.ycombinator.com/item?id=40249968) - [Turning AirPods into a fitness tracker](https://richarddas.com/blog/turning-airpods-into-fitness-trackers-to-fight-cancer/)
 * [2024-05-03, 11:23:58](https://news.ycombinator.com/item?id=40246400) - [Interview with Marian Rejewski, the first person to crack Enigma [video]](https://www.flyingpenguin.com/?p=56989)
