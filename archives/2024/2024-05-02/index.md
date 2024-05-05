@@ -93,6 +93,7 @@
 * [2024-05-02, 11:08:21](https://news.ycombinator.com/item?id=40234803) - [A safer alternative for an explosive reaction used for more than 100 years](https://phys.org/news/2024-04-scientists-safer-alternative-explosive-reaction.html)
 * [2024-05-02, 10:45:26](https://news.ycombinator.com/item?id=40234682) - [Silk Helped the Armies of Genghis Khan Conquer Asia](https://lithub.com/how-silk-helped-the-armies-of-genghis-khan-conquer-asia/)
 * [2024-05-02, 10:10:26](https://news.ycombinator.com/item?id=40234490) - [Visiting the most expensive nuclear station](https://www.samdumitriu.com/p/visiting-the-worlds-most-expensive)
+* [2024-05-02, 09:57:55](https://news.ycombinator.com/item?id=40234430) - [Got a spare Pi 1/2/3? Try RISC OS Open 5.30 It is, literally, something else](https://www.theregister.com/2024/05/02/rool_530_is_here/)
 * [2024-05-02, 09:57:35](https://news.ycombinator.com/item?id=40234428) - [Are young people smarter than adults? Research shows differences diminishing](https://theconversation.com/are-young-people-smarter-than-older-adults-my-research-shows-cognitive-differences-between-generations-are-diminishing-229132)
 * [2024-05-02, 09:52:40](https://news.ycombinator.com/item?id=40234398) - [Robert Haas: Hacking on PostgreSQL Is Hard](http://rhaas.blogspot.com/2024/05/hacking-on-postgresql-is-really-hard.html)
 * [2024-05-02, 09:49:35](https://news.ycombinator.com/item?id=40234383) - [Teranoptia – a typeface that allows you to imagine chimeric creatures](https://www.tunera.xyz/fonts/teranoptia/)
