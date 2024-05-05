@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-05-05, 20:36:25",
-      "https://news.ycombinator.com/item?id=40268090"
+      "2024-05-05, 21:14:52",
+      "https://news.ycombinator.com/item?id=40268463"
     ],
     [
-      "C Isn't a Hangover; Rust Isn't a Hangover Cure",
-      "https://crashoverride.com/blog/c-isnt-a-hangover-rust-isnt-a-hangover-cure"
+      "Alan Kay on Donald Knuth",
+      "https://twitter.com/fermatslibrary/status/1787105220268380448/photo/1"
     ]
   ],
   [
@@ -107,16 +107,6 @@
     [
       "Infini-Gram: Scaling unbounded n-gram language models to a trillion tokens",
       "https://arxiv.org/abs/2401.17377"
-    ]
-  ],
-  [
-    [
-      "2024-05-05, 17:56:55",
-      "https://news.ycombinator.com/item?id=40266784"
-    ],
-    [
-      "Ansible is a Lisp?",
-      "https://astrid.tech/2024/05/01/0/ansible-is-a-lisp/"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "North Yorkshire Council to phase out apostrophe use on street signs",
       "https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-68942321"
+    ]
+  ],
+  [
+    [
+      "2024-05-05, 06:47:40",
+      "https://news.ycombinator.com/item?id=40262779"
+    ],
+    [
+      "Xmake: A cross-platform build utility based on Lua",
+      "https://github.com/xmake-io/xmake"
     ]
   ],
   [
