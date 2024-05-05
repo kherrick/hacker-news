@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2024-05-05, 11:31:17",
-      "https://news.ycombinator.com/item?id=40264042"
-    ],
-    [
-      "Take a look at traefik, even if you don't use containers",
-      "https://j6b72.de/article/why-you-should-take-a-look-at-traefik/"
-    ]
-  ],
-  [
-    [
       "2024-05-05, 09:28:59",
       "https://news.ycombinator.com/item?id=40263394"
     ],
@@ -175,7 +165,7 @@
       "https://news.ycombinator.com/item?id=40262921"
     ],
     [
-      "MIT abandons use of DEI statements",
+      "MIT abandons requirement of DEI statements for hiring and promotions",
       "https://whyevolutionistrue.com/2024/05/04/mit-abandons-use-of-dei-statements/"
     ]
   ],
@@ -197,6 +187,16 @@
     [
       "Xmake: A cross-platform build utility based on Lua",
       "https://github.com/xmake-io/xmake"
+    ]
+  ],
+  [
+    [
+      "2024-05-05, 04:26:10",
+      "https://news.ycombinator.com/item?id=40262236"
+    ],
+    [
+      "Time-Based CSS Animations",
+      "https://yuanchuan.dev/time-based-css-animations"
     ]
   ],
   [
