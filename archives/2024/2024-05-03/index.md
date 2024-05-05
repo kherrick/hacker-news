@@ -81,6 +81,7 @@
 * [2024-05-03, 07:51:52](https://news.ycombinator.com/item?id=40245261) - [Drink Me: (Ab)Using a LLM to Compress Text](https://o565.com/llm-text-compression/)
 * [2024-05-03, 07:16:55](https://news.ycombinator.com/item?id=40245050) - [Show HN: I built a site to share code boilerplates](https://boilermate.site/hot)
 * [2024-05-03, 07:01:00](https://news.ycombinator.com/item?id=40244962) - [Raycast (YC W20) is hiring Rust engineer (Remote, Europe, €104k – €160k)](https://www.raycast.com/jobs/software-engineer-rust)
+* [2024-05-03, 06:52:38](https://news.ycombinator.com/item?id=40244909) - [Foray into Fourier](https://roughly-understood.com/posts/foray-into-fourier/)
 * [2024-05-03, 06:42:24](https://news.ycombinator.com/item?id=40244854) - [Ask HN: Why isn't it easy to compile dlls inline?](https://news.ycombinator.com/item?id=40244854)
 * [2024-05-03, 06:17:56](https://news.ycombinator.com/item?id=40244681) - [Google's Med-Gemini AI Outperforms GPT-4 in Healthcare](https://www.forbes.com/sites/talpatalon/2024/05/01/med-geminis-lions-roar/)
 * [2024-05-03, 06:12:01](https://news.ycombinator.com/item?id=40244653) - [Folding and One Straight Cut Suffice [pdf]](https://www.imsc.res.in/~hbar/PDFs_2017/Paper_by_Demaine_Demaine_Lubiw.pdf)
