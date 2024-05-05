@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-05, 18:47:46](https://news.ycombinator.com/item?id=40267182) - [Designing furniture using the CSS grid (2023)](https://alnvdl.github.io/2023/01/07/designing-furniture-using-the-css-grid.html)
+* [2024-05-05, 18:45:04](https://news.ycombinator.com/item?id=40267164) - [Flying planes with a JavaScript autopilot (2023)](https://pomax.github.io/are-we-flying/)
 * [2024-05-05, 18:32:09](https://news.ycombinator.com/item?id=40267072) - [Recruiters are going analog to fight the AI application overload](https://www.wired.com/story/recruiters-ai-application-overload/)
 * [2024-05-05, 18:05:31](https://news.ycombinator.com/item?id=40266845) - [Monitoring energy usage with smart plugs, Prometheus and Grafana](https://ounapuu.ee/posts/2024/05/02/smartplugs/)
 * [2024-05-05, 17:58:13](https://news.ycombinator.com/item?id=40266791) - [Infini-Gram: Scaling unbounded n-gram language models to a trillion tokens](https://arxiv.org/abs/2401.17377)
 * [2024-05-05, 17:56:55](https://news.ycombinator.com/item?id=40266784) - [Ansible Is a Lisp](https://astrid.tech/2024/05/01/0/ansible-is-a-lisp/)
-* [2024-05-05, 17:50:12](https://news.ycombinator.com/item?id=40266728) - [Microsoft CTO: \"Thoughts on OpenAI\" (2019)](https://twitter.com/techemails/status/1787176471146156193)
+* [2024-05-05, 17:50:12](https://news.ycombinator.com/item?id=40266728) - [Microsoft CTO: Thoughts on OpenAI (2019)](https://twitter.com/techemails/status/1787176471146156193)
 * [2024-05-05, 17:40:36](https://news.ycombinator.com/item?id=40266635) - [Stereogram Tutorial (2020)](https://www.ime.usp.br/~otuyama/stereogram/basic/index.html)
 * [2024-05-05, 17:17:07](https://news.ycombinator.com/item?id=40266464) - [Simplicity is an advantage but sadly complexity sells better (2022)](https://eugeneyan.com/writing/simplicity/)
 * [2024-05-05, 17:07:27](https://news.ycombinator.com/item?id=40266382) - [Dick Rutan, co-pilot of historic round-the-world flight, has died](https://www.theguardian.com/world/article/2024/may/04/dick-rutan-pilot-dies-aged-85)
@@ -28,7 +29,6 @@
 * [2024-05-03, 09:05:37](https://news.ycombinator.com/item?id=40245626) - [Agricultural IoT system sends power through the soil](https://spectrum.ieee.org/smart-agriculture)
 * [2024-05-03, 06:24:23](https://news.ycombinator.com/item?id=40244729) - [Map Machine: Python renderer for OpenStreetMap with custom icons](https://github.com/enzet/map-machine)
 * [2024-05-03, 05:25:59](https://news.ycombinator.com/item?id=40244356) - [Beware of the Turing tar-pit (2004)](http://weblog.raganwald.com/2004/10/beware-of-turing-tar-pit.html)
-* [2024-05-03, 04:40:43](https://news.ycombinator.com/item?id=40244097) - [Data Science at the Command Line, 2nd Edition (2021)](https://jeroenjanssens.com/dsatcl/)
 * [2024-05-02, 20:48:43](https://news.ycombinator.com/item?id=40241200) - [Befreak is a purely reversible two-dimensional programming language (2003)](http://tunes.org/~iepos/befreak.html)
 
 ## [Archives](archives/index.md)
