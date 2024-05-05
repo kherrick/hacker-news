@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-05, 08:04:38](https://news.ycombinator.com/item?id=40263100) - [They Live](https://en.wikipedia.org/wiki/They_Live)
+* [2024-05-05, 07:14:26](https://news.ycombinator.com/item?id=40262921) - [MIT abandons use of DEI statements](https://whyevolutionistrue.com/2024/05/04/mit-abandons-use-of-dei-statements/)
 * [2024-05-05, 07:00:07](https://news.ycombinator.com/item?id=40262846) - [Emerge (YC W21) is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
 * [2024-05-05, 06:47:40](https://news.ycombinator.com/item?id=40262779) - [Xmake: A modern C/C++ build tool](https://github.com/xmake-io/xmake)
 * [2024-05-05, 04:26:10](https://news.ycombinator.com/item?id=40262236) - [Time-Based CSS Animations](https://yuanchuan.dev/time-based-css-animations)
@@ -8,7 +10,6 @@
 * [2024-05-05, 03:36:13](https://news.ycombinator.com/item?id=40262082) - [Google Fit dev APIs shutdown set, fate of Android, Wear OS apps go unannounced](https://9to5google.com/2024/05/04/google-fit-api-shutdown/)
 * [2024-05-05, 03:03:49](https://news.ycombinator.com/item?id=40261965) - [SEQUOIA: Exact Llama2-70B on an RTX4090 with half-second per-token latency](https://infini-ai-lab.github.io/Sequoia-Page/)
 * [2024-05-05, 02:52:27](https://news.ycombinator.com/item?id=40261926) - [Digital Telecommunication in HF band - WWWAN - World-Wide Wireless Area Network](https://pretalx.sysmocom.de/osmodevcon2024/talk/BBZBGM/)
-* [2024-05-05, 01:46:38](https://news.ycombinator.com/item?id=40261705) - [Moving the largest camera from California lab to Andes mountaintop](https://www.scientificamerican.com/article/how-to-move-the-worlds-largest-camera-from-a-california-lab-to-an-andes/)
 * [2024-05-05, 01:39:05](https://news.ycombinator.com/item?id=40261681) - [Automated integer hash function discovery](https://github.com/skeeto/hash-prospector)
 * [2024-05-05, 01:01:05](https://news.ycombinator.com/item?id=40261550) - [Understanding Stein's Paradox (2021)](https://joe-antognini.github.io/machine-learning/steins-paradox)
 * [2024-05-05, 00:36:57](https://news.ycombinator.com/item?id=40261451) - [Preliminary Macintosh Business Plan (12 July 1981) [pdf]](http://archive.computerhistory.org/resources/text/2009/102712692.05.01acc.pdf)
@@ -26,7 +27,6 @@
 * [2024-05-04, 13:42:02](https://news.ycombinator.com/item?id=40257601) - [CBMC: C bounded model checker (2021)](http://www.cprover.org/cbmc/)
 * [2024-05-04, 09:27:45](https://news.ycombinator.com/item?id=40256173) - [The Matrix: A Bayesian learning model for LLMs](https://arxiv.org/abs/2402.03175)
 * [2024-05-03, 07:51:52](https://news.ycombinator.com/item?id=40245261) - [Drink Me: (Ab)Using a LLM to Compress Text](https://o565.com/llm-text-compression/)
-* [2024-05-02, 14:04:10](https://news.ycombinator.com/item?id=40236462) - [Professor Megalow's Dinosaur Bones: Richard Owen and Victorian literature](https://publicdomainreview.org/essay/richard-owen-and-victorian-literature)
 * [2024-05-02, 12:24:13](https://news.ycombinator.com/item?id=40235345) - [The business of wallets](https://www.bitsaboutmoney.com/archive/the-business-of-wallets/)
 * [2024-05-02, 11:20:49](https://news.ycombinator.com/item?id=40234871) - [AM radio law opposed by tech and auto industries is close to passing](https://arstechnica.com/cars/2024/05/am-radio-is-a-lifeline-lawmakers-say-tech-and-auto-industries-disagree/)
 * [2024-05-02, 08:28:11](https://news.ycombinator.com/item?id=40233938) - [Computers Reduce Efficiency: Case Studies of the Solow Paradox](https://scottlocklin.wordpress.com/2023/11/21/computers-reduce-efficiency-case-studies-of-the-solow-paradox/)
