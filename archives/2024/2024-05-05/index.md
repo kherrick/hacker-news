@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-05](index.md)
 
 * [2024-05-05, 09:02:33](https://news.ycombinator.com/item?id=40263289) - [Helldivers 2 Removed from Purchase on Steam in over 150 Countries](https://www.thegamer.com/helldivers-2-delisted-on-steam-100-plus-countries-without-psn-due-to-psn-sign-in-requirement-controversy/)
+* [2024-05-05, 08:39:29](https://news.ycombinator.com/item?id=40263194) - [Flags Are Not Languages](https://www.flagsarenotlanguages.com/blog/)
 * [2024-05-05, 08:22:09](https://news.ycombinator.com/item?id=40263150) - [StoryDiffusion – Using StoryDiffusion Online](https://storydiffusion.net/)
 * [2024-05-05, 08:04:38](https://news.ycombinator.com/item?id=40263100) - [They Live](https://en.wikipedia.org/wiki/They_Live)
 * [2024-05-05, 07:42:13](https://news.ycombinator.com/item?id=40263027) - [Show HN: I built a website to share files and messages without any server](https://neighbor-share.vercel.app/)
@@ -13,6 +14,7 @@
 * [2024-05-05, 07:07:56](https://news.ycombinator.com/item?id=40262883) - [Council Bans Apostrophes on Street Signs to Avoid Database Issues](https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-68942321)
 * [2024-05-05, 07:00:07](https://news.ycombinator.com/item?id=40262846) - [Emerge (YC W21) is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
 * [2024-05-05, 06:47:40](https://news.ycombinator.com/item?id=40262779) - [Xmake: A modern C/C++ build tool](https://github.com/xmake-io/xmake)
+* [2024-05-05, 06:05:55](https://news.ycombinator.com/item?id=40262643) - [New scanning electron microscope tech sees magnetic field with 100nm resolution](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4812984)
 * [2024-05-05, 05:14:08](https://news.ycombinator.com/item?id=40262438) - [Pivot podcast host Scott Galloway: 'Tech bros conflate luck with talent'](https://www.theguardian.com/books/article/2024/may/04/scott-galloway-algebra-of-wealth-pivot-elon-musk)
 * [2024-05-05, 04:26:10](https://news.ycombinator.com/item?id=40262236) - [Time-Based CSS Animations](https://yuanchuan.dev/time-based-css-animations)
 * [2024-05-05, 04:22:05](https://news.ycombinator.com/item?id=40262226) - [Megaconstellations like SpaceX's could weaken Earth's magnetic field, atmosphere](https://www.livescience.com/space/space-exploration/controversial-paper-claims-satellite-megaconstellations-like-spacexs-could-weaken-earths-magnetic-field-and-cause-atmospheric-stripping-should-we-be-worried)
