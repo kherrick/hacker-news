@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-05](index.md)
 
+* [2024-05-05, 20:36:25](https://news.ycombinator.com/item?id=40268090) - [C Isn't a Hangover; Rust Isn't a Hangover Cure](https://crashoverride.com/blog/c-isnt-a-hangover-rust-isnt-a-hangover-cure)
+* [2024-05-05, 20:02:06](https://news.ycombinator.com/item?id=40267729) - [The Hill: The Pentagon is lying about UFOs](https://thehill.com/opinion/national-security/4632952-the-pentagon-is-lying-about-ufos/)
 * [2024-05-05, 19:54:46](https://news.ycombinator.com/item?id=40267675) - [Bollards: Why and What](https://josh.works/bollards)
 * [2024-05-05, 19:53:48](https://news.ycombinator.com/item?id=40267666) - [Alert for Social Engineering Takeovers of Open Source Projects](https://openssf.org/blog/2024/04/15/open-source-security-openssf-and-openjs-foundations-issue-alert-for-social-engineering-takeovers-of-open-source-projects/)
 * [2024-05-05, 19:50:59](https://news.ycombinator.com/item?id=40267639) - [Israel shuts down local Al Jazeera offices in 'dark day for the media'](https://www.theguardian.com/world/article/2024/may/05/israel-shuts-down-local-al-jazeera-offices-in-dark-day-for-the-media)

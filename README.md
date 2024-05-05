@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-05, 20:36:25](https://news.ycombinator.com/item?id=40268090) - [C Isn't a Hangover; Rust Isn't a Hangover Cure](https://crashoverride.com/blog/c-isnt-a-hangover-rust-isnt-a-hangover-cure)
+* [2024-05-05, 20:02:06](https://news.ycombinator.com/item?id=40267729) - [The Hill: The Pentagon is lying about UFOs](https://thehill.com/opinion/national-security/4632952-the-pentagon-is-lying-about-ufos/)
 * [2024-05-05, 19:54:46](https://news.ycombinator.com/item?id=40267675) - [Bollards: Why and What](https://josh.works/bollards)
 * [2024-05-05, 19:53:48](https://news.ycombinator.com/item?id=40267666) - [Alert for Social Engineering Takeovers of Open Source Projects](https://openssf.org/blog/2024/04/15/open-source-security-openssf-and-openjs-foundations-issue-alert-for-social-engineering-takeovers-of-open-source-projects/)
 * [2024-05-05, 19:50:59](https://news.ycombinator.com/item?id=40267639) - [Israel shuts down local Al Jazeera offices](https://www.theguardian.com/world/article/2024/may/05/israel-shuts-down-local-al-jazeera-offices-in-dark-day-for-the-media)
@@ -21,9 +23,7 @@
 * [2024-05-05, 09:28:59](https://news.ycombinator.com/item?id=40263394) - [Decoding UTF8 with parallel extract](https://nrk.neocities.org/articles/utf8-pext)
 * [2024-05-05, 07:14:26](https://news.ycombinator.com/item?id=40262921) - [MIT abandons requirement of DEI statements for hiring and promotions](https://whyevolutionistrue.com/2024/05/04/mit-abandons-use-of-dei-statements/)
 * [2024-05-05, 07:07:56](https://news.ycombinator.com/item?id=40262883) - [North Yorkshire Council to phase out apostrophe use on street signs](https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-68942321)
-* [2024-05-05, 06:47:40](https://news.ycombinator.com/item?id=40262779) - [Xmake: A cross-platform build utility based on Lua](https://github.com/xmake-io/xmake)
 * [2024-05-04, 23:01:37](https://news.ycombinator.com/item?id=40260996) - [Variations on the theme of silence](https://commonreader.wustl.edu/c/variations-on-the-theme-of-silence/)
-* [2024-05-04, 22:59:45](https://news.ycombinator.com/item?id=40260985) - [The robustness of some fossil leaf venation networks to simulated damage](https://royalsocietypublishing.org/doi/10.1098/rsos.240086)
 * [2024-05-03, 17:16:22](https://news.ycombinator.com/item?id=40249968) - [Turning AirPods into a fitness tracker](https://richarddas.com/blog/turning-airpods-into-fitness-trackers-to-fight-cancer/)
 * [2024-05-03, 11:23:58](https://news.ycombinator.com/item?id=40246400) - [Interview with Marian Rejewski, the first person to crack Enigma [video]](https://www.flyingpenguin.com/?p=56989)
 * [2024-05-03, 06:24:23](https://news.ycombinator.com/item?id=40244729) - [Map Machine: Python renderer for OpenStreetMap with custom icons](https://github.com/enzet/map-machine)
