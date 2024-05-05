@@ -3,6 +3,7 @@
 * [2024-05-05, 04:13:56](https://news.ycombinator.com/item?id=40262190) - [Judge mulls sanctions over Google's \"shocking\" destruction of internal chats](https://arstechnica.com/tech-policy/2024/05/judge-mulls-sanctions-over-googles-shocking-destruction-of-internal-chats/)
 * [2024-05-05, 03:10:08](https://news.ycombinator.com/item?id=40261985) - [Ghosts in the Machine 2 [video]](https://www.youtube.com/watch?v=V6hu83yVMlU)
 * [2024-05-05, 03:03:49](https://news.ycombinator.com/item?id=40261965) - [SEQUOIA: Exact Llama2-70B on an RTX4090 with half-second per-token latency](https://infini-ai-lab.github.io/Sequoia-Page/)
+* [2024-05-05, 02:38:44](https://news.ycombinator.com/item?id=40261884) - [2 years after UK poop-engulfed beaches became national scandals, it's even worse](https://www.cnn.com/england-uk-sewage-poop-beach/index.html)
 * [2024-05-05, 01:46:38](https://news.ycombinator.com/item?id=40261705) - [Moving the largest camera from California lab to Andes mountaintop](https://www.scientificamerican.com/article/how-to-move-the-worlds-largest-camera-from-a-california-lab-to-an-andes/)
 * [2024-05-05, 01:39:05](https://news.ycombinator.com/item?id=40261681) - [Automated integer hash function discovery](https://github.com/skeeto/hash-prospector)
 * [2024-05-05, 01:29:53](https://news.ycombinator.com/item?id=40261647) - [Why US renters are taking corporate landlords to court](https://www.cnbc.com/2024/02/03/realpage-antitrust-lawsuits-allege-collusion-among-corporate-landlords.html)
@@ -23,13 +24,12 @@
 * [2024-05-04, 14:17:01](https://news.ycombinator.com/item?id=40257843) - [The Mirror Fusion Test Facility (2023)](https://www.beautifulpublicdata.com/the-mirror-fusion-test-facility/)
 * [2024-05-04, 13:51:58](https://news.ycombinator.com/item?id=40257677) - [In Praise of Idleness (1932)](https://harpers.org/archive/1932/10/in-praise-of-idleness/)
 * [2024-05-04, 13:42:02](https://news.ycombinator.com/item?id=40257601) - [CBMC: C bounded model checker (2021)](http://www.cprover.org/cbmc/)
-* [2024-05-04, 12:13:19](https://news.ycombinator.com/item?id=40257064) - [Vulture shortage threatens Zoroastrian burial rites](https://www.theguardian.com/world/article/2024/may/04/vulture-shortage-threatens-zoroastrian-burial-rites-india-iran-pakistan)
 * [2024-05-04, 09:27:45](https://news.ycombinator.com/item?id=40256173) - [The Matrix: A Bayesian learning model for LLMs](https://arxiv.org/abs/2402.03175)
-* [2024-05-04, 07:22:46](https://news.ycombinator.com/item?id=40255649) - [CookingSense: A Culinary Knowledgebase with Multidisciplinary Assertions](https://arxiv.org/abs/2405.00523)
 * [2024-05-03, 23:37:59](https://news.ycombinator.com/item?id=40253494) - [Art and Memory](https://www.lrb.co.uk/the-paper/v46/n09/julian-barnes/diary)
 * [2024-05-03, 07:51:52](https://news.ycombinator.com/item?id=40245261) - [Drink Me: (Ab)Using a LLM to Compress Text](https://o565.com/llm-text-compression/)
 * [2024-05-02, 14:04:10](https://news.ycombinator.com/item?id=40236462) - [Professor Megalow's Dinosaur Bones: Richard Owen and Victorian literature](https://publicdomainreview.org/essay/richard-owen-and-victorian-literature)
 * [2024-05-02, 12:24:13](https://news.ycombinator.com/item?id=40235345) - [The business of wallets](https://www.bitsaboutmoney.com/archive/the-business-of-wallets/)
+* [2024-05-02, 11:20:49](https://news.ycombinator.com/item?id=40234871) - [AM radio law opposed by tech and auto industries is close to passing](https://arstechnica.com/cars/2024/05/am-radio-is-a-lifeline-lawmakers-say-tech-and-auto-industries-disagree/)
 
 ## [Archives](archives/index.md)
 

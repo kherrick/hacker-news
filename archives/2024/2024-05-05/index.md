@@ -8,6 +8,7 @@
 * [2024-05-05, 03:38:59](https://news.ycombinator.com/item?id=40262093) - [Boeing faces 10 more whistleblowers after sudden death of two](https://www.hindustantimes.com/world-news/us-news/is-boeing-in-big-trouble-worlds-largest-aerospace-firm-faces-10-more-whistleblowers-after-sudden-death-of-two-101714838675908.html)
 * [2024-05-05, 03:10:08](https://news.ycombinator.com/item?id=40261985) - [Ghosts in the Machine 2 [video]](https://www.youtube.com/watch?v=V6hu83yVMlU)
 * [2024-05-05, 03:03:49](https://news.ycombinator.com/item?id=40261965) - [Sequoia: Serving exact Llama2-70B on an RTX4090 with 1/2 s per token](https://infini-ai-lab.github.io/Sequoia-Page/)
+* [2024-05-05, 02:38:44](https://news.ycombinator.com/item?id=40261884) - [2 years after UK poop-engulfed beaches became national scandals, it's even worse](https://www.cnn.com/england-uk-sewage-poop-beach/index.html)
 * [2024-05-05, 01:46:38](https://news.ycombinator.com/item?id=40261705) - [How to Move the Largest Camera from California Lab to Andes Mountaintop](https://www.scientificamerican.com/article/how-to-move-the-worlds-largest-camera-from-a-california-lab-to-an-andes/)
 * [2024-05-05, 01:39:05](https://news.ycombinator.com/item?id=40261681) - [Automated integer hash function discovery](https://github.com/skeeto/hash-prospector)
 * [2024-05-05, 01:29:53](https://news.ycombinator.com/item?id=40261647) - [Why US renters are taking corporate landlords to court](https://www.cnbc.com/2024/02/03/realpage-antitrust-lawsuits-allege-collusion-among-corporate-landlords.html)
