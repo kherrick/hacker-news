@@ -8,6 +8,7 @@
 * [2024-05-05, 17:17:07](https://news.ycombinator.com/item?id=40266464) - [Simplicity Is an Advantage but Sadly Complexity Sells Better](https://eugeneyan.com/writing/simplicity/)
 * [2024-05-05, 17:07:27](https://news.ycombinator.com/item?id=40266382) - [Dick Rutan, co-pilot of historic round-the-world flight, dies aged 85](https://www.theguardian.com/world/article/2024/may/04/dick-rutan-pilot-dies-aged-85)
 * [2024-05-05, 17:00:48](https://news.ycombinator.com/item?id=40266333) - [Infisical Is Hiring Software Engineers to Build Open-Source Security DevTools](https://infisical.com/careers)
+* [2024-05-05, 16:43:46](https://news.ycombinator.com/item?id=40266178) - [My Home Server Journey – From Raspberry Pi to Ryzen](https://blog.viktorpetersson.com/2024/05/04/home-server-journey.html)
 * [2024-05-05, 16:36:38](https://news.ycombinator.com/item?id=40266122) - [Al Jazeera condemns Israeli government decision to shut down channel](https://www.aljazeera.com/news/2024/5/5/netanyahu-government-votes-to-close-al-jazeera-channel-in-israel)
 * [2024-05-05, 16:33:20](https://news.ycombinator.com/item?id=40266096) - [How to style React applications while the world burns around us](https://herbcaudill.com/words/20201007-style-react-app)
 * [2024-05-05, 16:21:33](https://news.ycombinator.com/item?id=40266015) - [ESP32-S3 has (a few) SIMD instructions](https://bitbanksoftware.blogspot.com/2024/01/surprise-esp32-s3-has-few-simd.html)

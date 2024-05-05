@@ -27,6 +27,7 @@
 * [2024-05-04, 20:22:54](https://news.ycombinator.com/item?id=40260035) - [Show HN: Dillo 3.1.0 released after 9 years](https://dillo-browser.github.io/latest.html)
 * [2024-05-04, 19:45:24](https://news.ycombinator.com/item?id=40259832) - [Explosively pumped flux compression generator](https://en.wikipedia.org/wiki/Explosively_pumped_flux_compression_generator)
 * [2024-05-04, 19:18:37](https://news.ycombinator.com/item?id=40259680) - [He Lost $36B in a Week. Now Bill Hwang Is Fighting to Avoid Prison](https://www.bloomberg.com/news/features/2024-05-01/bill-hwang-fights-prison-time-after-hastening-credit-suisse-collapse)
+* [2024-05-04, 18:48:27](https://news.ycombinator.com/item?id=40259505) - [YC’s founder-matching service helped medical records AI startup Hona](https://techcrunch.com/2024/05/03/y-combinator-founder-matching-tool-hona-medical-ai-startup/)
 * [2024-05-04, 17:52:53](https://news.ycombinator.com/item?id=40259196) - [Does the American Diabetes Association work for patients or companies?](https://www.theguardian.com/global/commentisfree/2024/may/02/american-diabetes-association-lawsuit)
 * [2024-05-04, 17:50:53](https://news.ycombinator.com/item?id=40259185) - [Verified Rust for low-level systems code](https://github.com/verus-lang/verus)
 * [2024-05-04, 17:36:21](https://news.ycombinator.com/item?id=40259100) - [OpenAI Bought Chatgpt.com](https://chatgpt.com)
