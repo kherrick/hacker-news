@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-05-05, 18:32:09",
+      "https://news.ycombinator.com/item?id=40267072"
+    ],
+    [
+      "Recruiters are going analog to fight the AI application overload",
+      "https://www.wired.com/story/recruiters-ai-application-overload/"
+    ]
+  ],
+  [
+    [
       "2024-05-05, 18:05:31",
       "https://news.ycombinator.com/item?id=40266845"
     ],
     [
       "Monitoring energy usage with smart plugs, Prometheus and Grafana",
       "https://ounapuu.ee/posts/2024/05/02/smartplugs/"
+    ]
+  ],
+  [
+    [
+      "2024-05-05, 17:58:13",
+      "https://news.ycombinator.com/item?id=40266791"
+    ],
+    [
+      "Infini-Gram: Scaling unbounded n-gram language models to a trillion tokens",
+      "https://arxiv.org/abs/2401.17377"
     ]
   ],
   [
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=40266333"
     ],
     [
-      "Infisical Is Hiring Software Engineers to Build Open-Source Security DevTools",
+      "Infisical (YC W23) is hiring engineers to build open-source security devtools",
       "https://infisical.com/careers"
     ]
   ],
@@ -71,11 +91,21 @@
   ],
   [
     [
+      "2024-05-05, 15:10:25",
+      "https://news.ycombinator.com/item?id=40265456"
+    ],
+    [
+      "Let insects eat your plants",
+      "https://www.bbc.com/future/article/20240503-why-you-should-let-insects-eat-your-plants"
+    ]
+  ],
+  [
+    [
       "2024-05-05, 12:30:44",
       "https://news.ycombinator.com/item?id=40264352"
     ],
     [
-      "Machine unlearning: ML model minus the information to be unlearned",
+      "Machine Unlearning in 2024",
       "https://ai.stanford.edu/~kzliu/blog/unlearning"
     ]
   ],
@@ -101,22 +131,32 @@
   ],
   [
     [
+      "2024-05-05, 09:28:59",
+      "https://news.ycombinator.com/item?id=40263394"
+    ],
+    [
+      "Decoding UTF8 with parallel extract",
+      "https://nrk.neocities.org/articles/utf8-pext"
+    ]
+  ],
+  [
+    [
+      "2024-05-05, 06:47:40",
+      "https://news.ycombinator.com/item?id=40262779"
+    ],
+    [
+      "Xmake: A cross-platform build utility based on Lua",
+      "https://github.com/xmake-io/xmake"
+    ]
+  ],
+  [
+    [
       "2024-05-05, 04:26:10",
       "https://news.ycombinator.com/item?id=40262236"
     ],
     [
       "Time-Based CSS Animations",
       "https://yuanchuan.dev/time-based-css-animations"
-    ]
-  ],
-  [
-    [
-      "2024-05-05, 03:46:04",
-      "https://news.ycombinator.com/item?id=40262115"
-    ],
-    [
-      "Cylon: JavaScript framework for robotics, drones, and the Internet of Things",
-      "https://github.com/hybridgroup/cylon"
     ]
   ],
   [
@@ -131,32 +171,12 @@
   ],
   [
     [
-      "2024-05-05, 00:23:01",
-      "https://news.ycombinator.com/item?id=40261402"
-    ],
-    [
-      "Winged lions through time and space",
-      "https://languagelog.ldc.upenn.edu/nll/?p=63820"
-    ]
-  ],
-  [
-    [
       "2024-05-04, 23:04:59",
       "https://news.ycombinator.com/item?id=40261014"
     ],
     [
       "What makes a translation great?",
       "https://scroll.in/article/876969/what-makes-a-translation-great-ten-literary-translators-from-across-the-world-weigh-in"
-    ]
-  ],
-  [
-    [
-      "2024-05-04, 23:01:37",
-      "https://news.ycombinator.com/item?id=40260996"
-    ],
-    [
-      "Variations on the theme of silence",
-      "https://commonreader.wustl.edu/c/variations-on-the-theme-of-silence/"
     ]
   ],
   [
@@ -177,26 +197,6 @@
     [
       "YC’s founder-matching service helped medical records AI startup Hona",
       "https://techcrunch.com/2024/05/03/y-combinator-founder-matching-tool-hona-medical-ai-startup/"
-    ]
-  ],
-  [
-    [
-      "2024-05-04, 07:14:14",
-      "https://news.ycombinator.com/item?id=40255611"
-    ],
-    [
-      "Plotille: Plot in the terminal using Braille dots",
-      "https://github.com/tammoippen/plotille"
-    ]
-  ],
-  [
-    [
-      "2024-05-03, 21:48:43",
-      "https://news.ycombinator.com/item?id=40252784"
-    ],
-    [
-      "Speeding up ELF relocations for store-based systems",
-      "https://fzakaria.com/2024/05/03/speeding-up-elf-relocations-for-store-based-systems.html"
     ]
   ],
   [
@@ -231,22 +231,32 @@
   ],
   [
     [
-      "2024-05-03, 12:45:17",
-      "https://news.ycombinator.com/item?id=40247062"
-    ],
-    [
-      "Building a social network from scratch on a whiteboard",
-      "https://xeiaso.net/talks/2024/shashin/"
-    ]
-  ],
-  [
-    [
       "2024-05-03, 11:23:58",
       "https://news.ycombinator.com/item?id=40246400"
     ],
     [
       "Interview with Marian Rejewski, the first person to crack Enigma [video]",
       "https://www.flyingpenguin.com/?p=56989"
+    ]
+  ],
+  [
+    [
+      "2024-05-03, 09:05:37",
+      "https://news.ycombinator.com/item?id=40245626"
+    ],
+    [
+      "Agricultural IoT system sends power through the soil",
+      "https://spectrum.ieee.org/smart-agriculture"
+    ]
+  ],
+  [
+    [
+      "2024-05-03, 07:51:52",
+      "https://news.ycombinator.com/item?id=40245261"
+    ],
+    [
+      "Using a LLM to compress text",
+      "https://o565.com/llm-text-compression/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Data Science at the Command Line, 2nd Edition (2021)",
       "https://jeroenjanssens.com/dsatcl/"
-    ]
-  ],
-  [
-    [
-      "2024-05-02, 20:53:47",
-      "https://news.ycombinator.com/item?id=40241256"
-    ],
-    [
-      "The Sisyphean struggle and the new era of data infrastructure",
-      "https://jack-vanlightly.com/blog/2024/3/26/the-sisyphean-struggle-and-the-new-era-of-data-infrastructure"
     ]
   ],
   [
