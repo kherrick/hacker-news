@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-05, 15:25:19](https://news.ycombinator.com/item?id=40265552) - [Small Things](https://rishad.substack.com/p/small-things)
+* [2024-05-05, 15:18:36](https://news.ycombinator.com/item?id=40265505) - [Tech's proposed utopian communities don't seem to be for everyone](https://www.sfchronicle.com/bayarea/justinphillips/article/city-campus-san-francisco-tech-diversity-19435406.php)
 * [2024-05-05, 12:30:44](https://news.ycombinator.com/item?id=40264352) - [Machine unlearning: ML model minus the information to be unlearned](https://ai.stanford.edu/~kzliu/blog/unlearning)
 * [2024-05-05, 12:28:30](https://news.ycombinator.com/item?id=40264337) - [A History of C Compilers – Part 1: Performance, Portability and Freedom](https://thechipletter.substack.com/p/a-history-of-c-compilers-part-1-performance)
 * [2024-05-05, 11:31:17](https://news.ycombinator.com/item?id=40264042) - [Take a look at traefik, even if you don't use containers](https://j6b72.de/article/why-you-should-take-a-look-at-traefik/)
@@ -23,9 +25,7 @@
 * [2024-05-04, 20:56:02](https://news.ycombinator.com/item?id=40260210) - [Atari's Mike Jang](https://arcadeblogger.com/2024/02/13/ataris-mike-jang/)
 * [2024-05-04, 20:22:54](https://news.ycombinator.com/item?id=40260035) - [Show HN: Dillo 3.1.0 released after 9 years](https://dillo-browser.github.io/latest.html)
 * [2024-05-04, 17:50:53](https://news.ycombinator.com/item?id=40259185) - [Verified Rust for low-level systems code](https://github.com/verus-lang/verus)
-* [2024-05-04, 16:47:17](https://news.ycombinator.com/item?id=40258804) - [Porting HPC Applications to AMD Instinct MI300A Using Unified Memory and OpenMP](https://arxiv.org/abs/2405.00436)
 * [2024-05-04, 14:42:44](https://news.ycombinator.com/item?id=40258037) - [How to build a $20B semiconductor fab](https://www.construction-physics.com/p/how-to-build-a-20-billion-semiconductor)
-* [2024-05-04, 14:17:01](https://news.ycombinator.com/item?id=40257843) - [The Mirror Fusion Test Facility (2023)](https://www.beautifulpublicdata.com/the-mirror-fusion-test-facility/)
 * [2024-05-03, 04:58:03](https://news.ycombinator.com/item?id=40244205) - [A year of publishing the MDN Blog](https://developer.mozilla.org/en-US/blog/mdn-blog-one-year-on/)
 * [2024-05-02, 11:20:49](https://news.ycombinator.com/item?id=40234871) - [AM radio law opposed by tech and auto industries is close to passing](https://arstechnica.com/cars/2024/05/am-radio-is-a-lifeline-lawmakers-say-tech-and-auto-industries-disagree/)
 * [2024-05-02, 10:26:41](https://news.ycombinator.com/item?id=40234584) - [Rewriting the Technical Interview (2020)](https://aphyr.com/posts/353-rewriting-the-technical-interview)
