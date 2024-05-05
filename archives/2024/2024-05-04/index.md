@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-05-04](index.md)
 
+* [2024-05-04, 23:06:24](https://news.ycombinator.com/item?id=40261023) - [Hymn for Walpurgisnacht](https://themillions.com/2024/04/hymn-for-walpurgisnacht.html)
 * [2024-05-04, 23:02:30](https://news.ycombinator.com/item?id=40261001) - [Vera Rubin's primary mirror gets its first reflective coating](https://www.universetoday.com/166842/vera-rubins-primary-mirror-gets-its-first-reflective-coating/)
 * [2024-05-04, 22:59:45](https://news.ycombinator.com/item?id=40260984) - [Love to see the night sky on Mars? This is what it would be like to stargaze](https://www.skyatnightmagazine.com/space-science/what-does-night-sky-look-like-mars)
+* [2024-05-04, 22:56:09](https://news.ycombinator.com/item?id=40260971) - [Exploring the enigma of database vacuuming](https://dineshgowda.com/posts/exploring-the-enigma-of-database-vacuuming/)
 * [2024-05-04, 22:49:21](https://news.ycombinator.com/item?id=40260936) - [Cathinone and Psilocybin in Cicada Pathogens (2019)](https://www.sciencedirect.com/science/article/pii/S1754504819300352)
 * [2024-05-04, 22:48:59](https://news.ycombinator.com/item?id=40260935) - [When a politician sues a blog to unmask its anonymous commenter](https://yro.slashdot.org/story/24/05/04/0316216/when-a-politician-sues-a-blog-to-unmask-its-anonymous-commenter)
 * [2024-05-04, 22:39:24](https://news.ycombinator.com/item?id=40260881) - [Multi-million dollar Cheyenne supercomputer auction ends with $480,085 bid](https://www.tomshardware.com/tech-industry/supercomputers/multi-million-dollar-cheyenne-supercomputer-auction-ends-with-480085-bid)
