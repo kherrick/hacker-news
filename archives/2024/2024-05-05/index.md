@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-05](index.md)
 
+* [2024-05-05, 15:46:03](https://news.ycombinator.com/item?id=40265703) - [Ancestry caught stealing records a second time from local genealogy groups](http://scottishgenes.blogspot.com/2024/05/aberdeenshire-memorial-inscriptions.html)
 * [2024-05-05, 15:25:19](https://news.ycombinator.com/item?id=40265552) - [Small Things](https://rishad.substack.com/p/small-things)
 * [2024-05-05, 15:18:36](https://news.ycombinator.com/item?id=40265505) - [Tech's proposed utopian communities don't seem to be for everyone](https://www.sfchronicle.com/bayarea/justinphillips/article/city-campus-san-francisco-tech-diversity-19435406.php)
 * [2024-05-05, 15:10:25](https://news.ycombinator.com/item?id=40265456) - [Let insects eat your plants](https://www.bbc.com/future/article/20240503-why-you-should-let-insects-eat-your-plants)

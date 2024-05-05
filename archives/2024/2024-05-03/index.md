@@ -74,6 +74,7 @@
 * [2024-05-03, 09:29:58](https://news.ycombinator.com/item?id=40245769) - [A Minimal Model for Biological Evolution and Other Adaptive Processes](https://writings.stephenwolfram.com/2024/05/why-does-biological-evolution-work-a-minimal-model-for-biological-evolution-and-other-adaptive-processes/)
 * [2024-05-03, 09:14:19](https://news.ycombinator.com/item?id=40245686) - [Figma's Journey to TypeScript](https://www.figma.com/blog/figmas-journey-to-typescript-compiling-away-our-custom-programming-language/)
 * [2024-05-03, 09:06:28](https://news.ycombinator.com/item?id=40245637) - [How to Use JSON Path](https://bump.sh/blog/how-to-use-json-path)
+* [2024-05-03, 09:05:37](https://news.ycombinator.com/item?id=40245626) - [Agricultural IoT System Sends Power Through the Soil](https://spectrum.ieee.org/smart-agriculture)
 * [2024-05-03, 09:00:51](https://news.ycombinator.com/item?id=40245601) - [Woodworking as an Escape from the Absurdity of Software](https://alinpanaitiu.com/blog/woodworking-escape-from-software-absurdity/)
 * [2024-05-03, 08:40:58](https://news.ycombinator.com/item?id=40245509) - [Apple announces $110B share buyback after quarterly profit and revenue drop](https://www.thenationalnews.com/business/markets/2024/05/02/apple-announces-110bn-share-buyback-after-quarterly-profit-and-revenue-drop/)
 * [2024-05-03, 08:30:57](https://news.ycombinator.com/item?id=40245463) - [Firefox Webserial Addon](https://github.com/kuba2k2/firefox-webserial)
