@@ -7,6 +7,7 @@
 * [2024-05-05, 18:32:09](https://news.ycombinator.com/item?id=40267072) - [Recruiters are going analog to fight the AI application overload](https://www.wired.com/story/recruiters-ai-application-overload/)
 * [2024-05-05, 18:05:31](https://news.ycombinator.com/item?id=40266845) - [Monitoring energy usage with smart plugs, Prometheus and Grafana](https://ounapuu.ee/posts/2024/05/02/smartplugs/)
 * [2024-05-05, 17:58:13](https://news.ycombinator.com/item?id=40266791) - [Infini-Gram: Scaling unbounded n-gram language models to a trillion tokens](https://arxiv.org/abs/2401.17377)
+* [2024-05-05, 17:56:55](https://news.ycombinator.com/item?id=40266784) - [Ansible Is a Lisp](https://astrid.tech/2024/05/01/0/ansible-is-a-lisp/)
 * [2024-05-05, 17:50:12](https://news.ycombinator.com/item?id=40266728) - [Microsoft CTO: \"Thoughts on OpenAI\" (2019)](https://twitter.com/techemails/status/1787176471146156193)
 * [2024-05-05, 17:40:36](https://news.ycombinator.com/item?id=40266635) - [Stereogram Tutorial (2020)](https://www.ime.usp.br/~otuyama/stereogram/basic/index.html)
 * [2024-05-05, 17:20:26](https://news.ycombinator.com/item?id=40266492) - [Good Ideas in Computer Science](https://danielchasehooper.com/posts/good-ideas-in-cs/)
