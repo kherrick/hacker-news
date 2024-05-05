@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-05, 03:38:59](https://news.ycombinator.com/item?id=40262093) - [Boeing faces 10 more whistleblowers after sudden death of two](https://www.hindustantimes.com/world-news/us-news/is-boeing-in-big-trouble-worlds-largest-aerospace-firm-faces-10-more-whistleblowers-after-sudden-death-of-two-101714838675908.html)
 * [2024-05-05, 03:10:08](https://news.ycombinator.com/item?id=40261985) - [Ghosts in the Machine 2 [video]](https://www.youtube.com/watch?v=V6hu83yVMlU)
 * [2024-05-05, 03:03:49](https://news.ycombinator.com/item?id=40261965) - [SEQUOIA: Exact Llama2-70B on an RTX4090 with half-second per-token latency](https://infini-ai-lab.github.io/Sequoia-Page/)
 * [2024-05-05, 01:46:38](https://news.ycombinator.com/item?id=40261705) - [Moving the largest camera from California lab to Andes mountaintop](https://www.scientificamerican.com/article/how-to-move-the-worlds-largest-camera-from-a-california-lab-to-an-andes/)
@@ -24,7 +25,6 @@
 * [2024-05-04, 13:42:02](https://news.ycombinator.com/item?id=40257601) - [CBMC: C bounded model checker (2021)](http://www.cprover.org/cbmc/)
 * [2024-05-04, 12:13:19](https://news.ycombinator.com/item?id=40257064) - [Vulture shortage threatens Zoroastrian burial rites](https://www.theguardian.com/world/article/2024/may/04/vulture-shortage-threatens-zoroastrian-burial-rites-india-iran-pakistan)
 * [2024-05-04, 09:27:45](https://news.ycombinator.com/item?id=40256173) - [The Matrix: A Bayesian learning model for LLMs](https://arxiv.org/abs/2402.03175)
-* [2024-05-04, 07:19:39](https://news.ycombinator.com/item?id=40255634) - [A Debate about Words](https://dstrohmaier.com/A-Debatte-about-Words/)
 * [2024-05-03, 23:37:59](https://news.ycombinator.com/item?id=40253494) - [Art and Memory](https://www.lrb.co.uk/the-paper/v46/n09/julian-barnes/diary)
 * [2024-05-03, 09:47:07](https://news.ycombinator.com/item?id=40245843) - [Auckland: A city with a labyrinth of underground caves](https://www.bbc.com/future/article/20240501-the-new-zealand-city-with-a-labyrinth-of-underground-caves)
 * [2024-05-03, 07:51:52](https://news.ycombinator.com/item?id=40245261) - [Drink Me: (Ab)Using a LLM to Compress Text](https://o565.com/llm-text-compression/)
