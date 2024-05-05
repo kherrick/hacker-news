@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-05, 12:30:44",
+      "https://news.ycombinator.com/item?id=40264352"
+    ],
+    [
+      "Machine unlearning: ML model minus the information to be unlearned",
+      "https://ai.stanford.edu/~kzliu/blog/unlearning"
+    ]
+  ],
+  [
+    [
       "2024-05-05, 12:00:26",
       "https://news.ycombinator.com/item?id=40264192"
     ],
@@ -17,6 +27,16 @@
     [
       "A Visual History of Windows Icons: From Windows 1 to 11 (2011)",
       "https://www.howtogeek.com/733912/a-visual-history-of-windows-icons-from-windows-1-to-11/"
+    ]
+  ],
+  [
+    [
+      "2024-05-05, 11:31:17",
+      "https://news.ycombinator.com/item?id=40264042"
+    ],
+    [
+      "Take a look at traefik, even if you don't use containers",
+      "https://j6b72.de/article/why-you-should-take-a-look-at-traefik/"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "Helldivers 2 Removed from Purchase on Steam in over 150 Countries",
       "https://www.thegamer.com/helldivers-2-delisted-on-steam-100-plus-countries-without-psn-due-to-psn-sign-in-requirement-controversy/"
-    ]
-  ],
-  [
-    [
-      "2024-05-05, 08:04:38",
-      "https://news.ycombinator.com/item?id=40263100"
-    ],
-    [
-      "They Live",
-      "https://en.wikipedia.org/wiki/They_Live"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2024-05-04, 20:22:54",
-      "https://news.ycombinator.com/item?id=40260035"
-    ],
-    [
-      "Show HN: Dillo 3.1.0 released after 9 years",
-      "https://dillo-browser.github.io/latest.html"
-    ]
-  ],
-  [
-    [
       "2024-05-04, 17:50:53",
       "https://news.ycombinator.com/item?id=40259185"
     ],
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2024-05-04, 14:17:01",
-      "https://news.ycombinator.com/item?id=40257843"
-    ],
-    [
-      "The Mirror Fusion Test Facility (2023)",
-      "https://www.beautifulpublicdata.com/the-mirror-fusion-test-facility/"
-    ]
-  ],
-  [
-    [
       "2024-05-03, 04:58:03",
       "https://news.ycombinator.com/item?id=40244205"
     ],
@@ -267,6 +257,16 @@
     [
       "AM radio law opposed by tech and auto industries is close to passing",
       "https://arstechnica.com/cars/2024/05/am-radio-is-a-lifeline-lawmakers-say-tech-and-auto-industries-disagree/"
+    ]
+  ],
+  [
+    [
+      "2024-05-02, 10:26:41",
+      "https://news.ycombinator.com/item?id=40234584"
+    ],
+    [
+      "Rewriting the Technical Interview",
+      "https://aphyr.com/posts/353-rewriting-the-technical-interview"
     ]
   ],
   [
