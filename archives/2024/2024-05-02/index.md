@@ -21,6 +21,7 @@
 * [2024-05-02, 21:24:42](https://news.ycombinator.com/item?id=40241525) - [They thought they were joining an accelerator – instead they lost their startups](https://techcrunch.com/2024/05/02/they-thought-they-were-joining-an-accelerator-instead-they-lost-their-startups/)
 * [2024-05-02, 21:00:28](https://news.ycombinator.com/item?id=40241322) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2024-05-02, 20:53:47](https://news.ycombinator.com/item?id=40241256) - [The Sisyphean struggle and the new era of data infrastructure](https://jack-vanlightly.com/blog/2024/3/26/the-sisyphean-struggle-and-the-new-era-of-data-infrastructure)
+* [2024-05-02, 20:48:43](https://news.ycombinator.com/item?id=40241200) - [Befreak is a purely reversible two-dimensional programming language (2003)](http://tunes.org/~iepos/befreak.html)
 * [2024-05-02, 20:41:44](https://news.ycombinator.com/item?id=40241142) - [Modern Linux on the Desktop in 2023](https://crepererum.net/linux-2023/)
 * [2024-05-02, 20:31:19](https://news.ycombinator.com/item?id=40241057) - [Hobby's algorithm for aesthetic Bézier splines](https://www.jakelow.com/blog/hobby-curves)
 * [2024-05-02, 20:25:32](https://news.ycombinator.com/item?id=40241002) - [Pseudo Graceful Process Termination Through Code Injection](https://sigma-star.at/blog/2024/02/exit0-code-injection/)

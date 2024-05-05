@@ -5,7 +5,10 @@
 ### [Archives](../../index.md) for [2024-05-04](index.md)
 
 * [2024-05-04, 23:06:24](https://news.ycombinator.com/item?id=40261023) - [Hymn for Walpurgisnacht](https://themillions.com/2024/04/hymn-for-walpurgisnacht.html)
+* [2024-05-04, 23:04:59](https://news.ycombinator.com/item?id=40261014) - [What makes a translation great?](https://scroll.in/article/876969/what-makes-a-translation-great-ten-literary-translators-from-across-the-world-weigh-in)
 * [2024-05-04, 23:02:30](https://news.ycombinator.com/item?id=40261001) - [Vera Rubin's primary mirror gets its first reflective coating](https://www.universetoday.com/166842/vera-rubins-primary-mirror-gets-its-first-reflective-coating/)
+* [2024-05-04, 23:01:37](https://news.ycombinator.com/item?id=40260996) - [Variations on the theme of silence](https://commonreader.wustl.edu/c/variations-on-the-theme-of-silence/)
+* [2024-05-04, 22:59:45](https://news.ycombinator.com/item?id=40260985) - [The robustness of some fossil leaf venation networks to simulated damage](https://royalsocietypublishing.org/doi/10.1098/rsos.240086)
 * [2024-05-04, 22:59:45](https://news.ycombinator.com/item?id=40260984) - [Love to see the night sky on Mars? This is what it would be like to stargaze](https://www.skyatnightmagazine.com/space-science/what-does-night-sky-look-like-mars)
 * [2024-05-04, 22:56:09](https://news.ycombinator.com/item?id=40260971) - [Exploring the enigma of database vacuuming](https://dineshgowda.com/posts/exploring-the-enigma-of-database-vacuuming/)
 * [2024-05-04, 22:49:21](https://news.ycombinator.com/item?id=40260936) - [Cathinone and Psilocybin in Cicada Pathogens (2019)](https://www.sciencedirect.com/science/article/pii/S1754504819300352)

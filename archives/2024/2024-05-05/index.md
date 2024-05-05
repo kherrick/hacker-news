@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-05](index.md)
 
+* [2024-05-05, 18:05:31](https://news.ycombinator.com/item?id=40266845) - [Monitoring energy usage with smart plugs, Prometheus and Grafana](https://ounapuu.ee/posts/2024/05/02/smartplugs/)
+* [2024-05-05, 17:40:36](https://news.ycombinator.com/item?id=40266635) - [Stereogram Tutorial (2020)](https://www.ime.usp.br/~otuyama/stereogram/basic/index.html)
 * [2024-05-05, 17:20:26](https://news.ycombinator.com/item?id=40266492) - [Good Ideas in Computer Science](https://danielchasehooper.com/posts/good-ideas-in-cs/)
 * [2024-05-05, 17:17:07](https://news.ycombinator.com/item?id=40266464) - [Simplicity Is an Advantage but Sadly Complexity Sells Better](https://eugeneyan.com/writing/simplicity/)
 * [2024-05-05, 17:07:27](https://news.ycombinator.com/item?id=40266382) - [Dick Rutan, co-pilot of historic round-the-world flight, dies aged 85](https://www.theguardian.com/world/article/2024/may/04/dick-rutan-pilot-dies-aged-85)
