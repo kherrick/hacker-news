@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2024-05-05, 01:39:05",
+      "https://news.ycombinator.com/item?id=40261681"
+    ],
+    [
+      "Automated integer hash function discovery",
+      "https://github.com/skeeto/hash-prospector"
+    ]
+  ],
+  [
+    [
+      "2024-05-05, 01:29:53",
+      "https://news.ycombinator.com/item?id=40261647"
+    ],
+    [
+      "Why US renters are taking corporate landlords to court",
+      "https://www.cnbc.com/2024/02/03/realpage-antitrust-lawsuits-allege-collusion-among-corporate-landlords.html"
+    ]
+  ],
+  [
+    [
       "2024-05-05, 00:36:57",
       "https://news.ycombinator.com/item?id=40261451"
     ],
@@ -27,6 +47,16 @@
     [
       "Dick Rutan, pilot of the first nonstop around-the-world flight, has died",
       "https://www.independent.co.uk/news/ap-voyager-ronald-reagan-california-idaho-b2539832.html"
+    ]
+  ],
+  [
+    [
+      "2024-05-05, 00:06:20",
+      "https://news.ycombinator.com/item?id=40261337"
+    ],
+    [
+      "China sends a probe to get samples from the less-explored far side of the moon",
+      "https://phys.org/news/2024-05-china-probe-samples-explored-side.html"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2024-05-04, 13:21:33",
-      "https://news.ycombinator.com/item?id=40257463"
-    ],
-    [
-      "U.S. vs. Google: As landmark monopoly trial closes, here's what to look for",
-      "https://www.npr.org/2024/05/02/1248152695/google-doj-monopoly-trial-antitrust-closing-arguments"
-    ]
-  ],
-  [
-    [
       "2024-05-04, 12:13:19",
       "https://news.ycombinator.com/item?id=40257064"
     ],
@@ -247,26 +267,6 @@
     [
       "Drink Me: (Ab)Using a LLM to Compress Text",
       "https://o565.com/llm-text-compression/"
-    ]
-  ],
-  [
-    [
-      "2024-05-03, 01:44:30",
-      "https://news.ycombinator.com/item?id=40243168"
-    ],
-    [
-      "I’m writing a new vector search SQLite Extension",
-      "https://alexgarcia.xyz/blog/2024/building-new-vector-search-sqlite/index.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-02, 21:41:41",
-      "https://news.ycombinator.com/item?id=40241669"
-    ],
-    [
-      "Where the Cameos Are",
-      "https://jacobbrazeal.wordpress.com/2024/04/30/optimizing-for-accidental-robert-picardo/"
     ]
   ],
   [
