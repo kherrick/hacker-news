@@ -2,6 +2,7 @@
 
 * [2024-05-05, 17:20:26](https://news.ycombinator.com/item?id=40266492) - [Good Ideas in Computer Science](https://danielchasehooper.com/posts/good-ideas-in-cs/)
 * [2024-05-05, 17:17:07](https://news.ycombinator.com/item?id=40266464) - [Simplicity Is an Advantage but Sadly Complexity Sells Better (2022)](https://eugeneyan.com/writing/simplicity/)
+* [2024-05-05, 17:07:27](https://news.ycombinator.com/item?id=40266382) - [Dick Rutan, co-pilot of historic round-the-world flight, dies aged 85](https://www.theguardian.com/world/article/2024/may/04/dick-rutan-pilot-dies-aged-85)
 * [2024-05-05, 17:00:48](https://news.ycombinator.com/item?id=40266333) - [Infisical Is Hiring Software Engineers to Build Open-Source Security DevTools](https://infisical.com/careers)
 * [2024-05-05, 16:21:33](https://news.ycombinator.com/item?id=40266015) - [ESP32-S3 has (a few) SIMD instructions](https://bitbanksoftware.blogspot.com/2024/01/surprise-esp32-s3-has-few-simd.html)
 * [2024-05-05, 15:43:51](https://news.ycombinator.com/item?id=40265678) - [The Runners Who Went So Hard They Were Never the Same](https://www.outsideonline.com/podcast/overtraining-syndrome-science/)
@@ -12,7 +13,6 @@
 * [2024-05-05, 11:31:17](https://news.ycombinator.com/item?id=40264042) - [Take a look at traefik, even if you don't use containers](https://j6b72.de/article/why-you-should-take-a-look-at-traefik/)
 * [2024-05-05, 09:44:28](https://news.ycombinator.com/item?id=40263479) - [Debian 64-bit-time transition](https://wiki.debian.org/ReleaseGoals/64bit-time)
 * [2024-05-05, 08:31:24](https://news.ycombinator.com/item?id=40263168) - [US prepares to exempt AUKUS nations from ITAR](https://www.naval-technology.com/news/us-prepares-to-scrap-itar-for-aukus-nations/)
-* [2024-05-05, 07:42:13](https://news.ycombinator.com/item?id=40263027) - [Show HN: I built a website to share files and messages without any server](https://neighbor-share.vercel.app/)
 * [2024-05-05, 07:38:47](https://news.ycombinator.com/item?id=40263017) - [Rusty.hpp: A Borrow Checker and Memory Ownership System for C++20](https://github.com/Jaysmito101/rusty.hpp)
 * [2024-05-05, 07:07:56](https://news.ycombinator.com/item?id=40262883) - [Council Bans Apostrophes on Street Signs to Avoid Database Issues](https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-68942321)
 * [2024-05-05, 06:47:40](https://news.ycombinator.com/item?id=40262779) - [Xmake: A cross-platform build utility based on Lua](https://github.com/xmake-io/xmake)
@@ -26,10 +26,10 @@
 * [2024-05-04, 21:24:34](https://news.ycombinator.com/item?id=40260399) - [Superfest – The almost unbreakable East German Glass (2021)](https://digitalcosmonaut.com/superfest-ceverit-glass-ddr/)
 * [2024-05-04, 21:03:55](https://news.ycombinator.com/item?id=40260259) - [Show HN: gpudeploy.com – \"Airbnb\" for GPUs](https://www.gpudeploy.com)
 * [2024-05-04, 20:56:02](https://news.ycombinator.com/item?id=40260210) - [Atari's Mike Jang](https://arcadeblogger.com/2024/02/13/ataris-mike-jang/)
-* [2024-05-04, 20:22:54](https://news.ycombinator.com/item?id=40260035) - [Show HN: Dillo 3.1.0 released after 9 years](https://dillo-browser.github.io/latest.html)
 * [2024-05-04, 17:50:53](https://news.ycombinator.com/item?id=40259185) - [Verified Rust for low-level systems code](https://github.com/verus-lang/verus)
-* [2024-05-03, 09:05:37](https://news.ycombinator.com/item?id=40245626) - [Agricultural IoT System Sends Power Through the Soil](https://spectrum.ieee.org/smart-agriculture)
-* [2024-05-02, 10:26:41](https://news.ycombinator.com/item?id=40234584) - [Rewriting the Technical Interview (2020)](https://aphyr.com/posts/353-rewriting-the-technical-interview)
+* [2024-05-03, 21:48:43](https://news.ycombinator.com/item?id=40252784) - [Speeding up ELF relocations for store-based systems](https://fzakaria.com/2024/05/03/speeding-up-elf-relocations-for-store-based-systems.html)
+* [2024-05-03, 17:50:06](https://news.ycombinator.com/item?id=40250335) - [Deniable Encryption](https://ayende.com/blog/200993-C/deniable-encryption)
+* [2024-05-03, 17:16:22](https://news.ycombinator.com/item?id=40249968) - [Turning AirPods into a fitness tracker](https://richarddas.com/blog/turning-airpods-into-fitness-trackers-to-fight-cancer/)
 
 ## [Archives](archives/index.md)
 
