@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-05, 21:14:52](https://news.ycombinator.com/item?id=40268463) - [Alan Kay on Donald Knuth](https://twitter.com/fermatslibrary/status/1787105220268380448/photo/1)
+* [2024-05-05, 23:11:54](https://news.ycombinator.com/item?id=40269480) - [The Sam Altman Playbook: Fear, the Denial of Uncertainties, and Hype](https://garymarcus.substack.com/p/the-sam-altman-playbook)
 * [2024-05-05, 20:48:37](https://news.ycombinator.com/item?id=40268204) - [\"Meta spent almost as much as the Manhattan Project on GPUs in today's dollars\"](https://twitter.com/emollick/status/1786213463456448900)
 * [2024-05-05, 19:54:46](https://news.ycombinator.com/item?id=40267675) - [Bollards: Why and What](https://josh.works/bollards)
 * [2024-05-05, 19:53:48](https://news.ycombinator.com/item?id=40267666) - [Social engineering takeovers of open source projects](https://openssf.org/blog/2024/04/15/open-source-security-openssf-and-openjs-foundations-issue-alert-for-social-engineering-takeovers-of-open-source-projects/)
