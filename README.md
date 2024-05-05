@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-05, 19:50:59](https://news.ycombinator.com/item?id=40267639) - [Israel shuts down local Al Jazeera offices in 'dark day for the media'](https://www.theguardian.com/world/article/2024/may/05/israel-shuts-down-local-al-jazeera-offices-in-dark-day-for-the-media)
 * [2024-05-05, 18:47:46](https://news.ycombinator.com/item?id=40267182) - [Designing furniture using the CSS grid (2023)](https://alnvdl.github.io/2023/01/07/designing-furniture-using-the-css-grid.html)
 * [2024-05-05, 18:45:04](https://news.ycombinator.com/item?id=40267164) - [Flying planes with a JavaScript autopilot (2023)](https://pomax.github.io/are-we-flying/)
 * [2024-05-05, 18:32:09](https://news.ycombinator.com/item?id=40267072) - [Recruiters are going analog to fight the AI application overload](https://www.wired.com/story/recruiters-ai-application-overload/)
@@ -20,7 +21,6 @@
 * [2024-05-05, 07:14:26](https://news.ycombinator.com/item?id=40262921) - [MIT abandons requirement of DEI statements for hiring and promotions](https://whyevolutionistrue.com/2024/05/04/mit-abandons-use-of-dei-statements/)
 * [2024-05-05, 07:07:56](https://news.ycombinator.com/item?id=40262883) - [North Yorkshire Council to phase out apostrophe use on street signs](https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-68942321)
 * [2024-05-05, 06:47:40](https://news.ycombinator.com/item?id=40262779) - [Xmake: A cross-platform build utility based on Lua](https://github.com/xmake-io/xmake)
-* [2024-05-05, 04:26:10](https://news.ycombinator.com/item?id=40262236) - [Time-Based CSS Animations](https://yuanchuan.dev/time-based-css-animations)
 * [2024-05-04, 23:04:59](https://news.ycombinator.com/item?id=40261014) - [What makes a translation great?](https://scroll.in/article/876969/what-makes-a-translation-great-ten-literary-translators-from-across-the-world-weigh-in)
 * [2024-05-04, 23:01:37](https://news.ycombinator.com/item?id=40260996) - [Variations on the theme of silence](https://commonreader.wustl.edu/c/variations-on-the-theme-of-silence/)
 * [2024-05-04, 22:59:45](https://news.ycombinator.com/item?id=40260985) - [The robustness of some fossil leaf venation networks to simulated damage](https://royalsocietypublishing.org/doi/10.1098/rsos.240086)
