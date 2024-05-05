@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-05, 04:22:05](https://news.ycombinator.com/item?id=40262226) - [Megaconstellations like SpaceX's could weaken Earth's magnetic field, atmosphere](https://www.livescience.com/space/space-exploration/controversial-paper-claims-satellite-megaconstellations-like-spacexs-could-weaken-earths-magnetic-field-and-cause-atmospheric-stripping-should-we-be-worried)
 * [2024-05-05, 04:13:56](https://news.ycombinator.com/item?id=40262190) - [Judge mulls sanctions over Google's \"shocking\" destruction of internal chats](https://arstechnica.com/tech-policy/2024/05/judge-mulls-sanctions-over-googles-shocking-destruction-of-internal-chats/)
 * [2024-05-05, 03:29:33](https://news.ycombinator.com/item?id=40262059) - [Elegant Wind Turbine Blades Made of Wood Can Outperform Composites](https://cleantechnica.com/2024/05/03/elegant-wind-turbine-blades-made-of-wood-can-outperform-composites/)
 * [2024-05-05, 03:10:08](https://news.ycombinator.com/item?id=40261985) - [Ghosts in the Machine 2 [video]](https://www.youtube.com/watch?v=V6hu83yVMlU)
@@ -27,7 +28,6 @@
 * [2024-05-04, 09:27:45](https://news.ycombinator.com/item?id=40256173) - [The Matrix: A Bayesian learning model for LLMs](https://arxiv.org/abs/2402.03175)
 * [2024-05-03, 23:37:59](https://news.ycombinator.com/item?id=40253494) - [Art and Memory](https://www.lrb.co.uk/the-paper/v46/n09/julian-barnes/diary)
 * [2024-05-03, 07:51:52](https://news.ycombinator.com/item?id=40245261) - [Drink Me: (Ab)Using a LLM to Compress Text](https://o565.com/llm-text-compression/)
-* [2024-05-02, 14:04:10](https://news.ycombinator.com/item?id=40236462) - [Professor Megalow's Dinosaur Bones: Richard Owen and Victorian literature](https://publicdomainreview.org/essay/richard-owen-and-victorian-literature)
 * [2024-05-02, 12:24:13](https://news.ycombinator.com/item?id=40235345) - [The business of wallets](https://www.bitsaboutmoney.com/archive/the-business-of-wallets/)
 * [2024-05-02, 11:20:49](https://news.ycombinator.com/item?id=40234871) - [AM radio law opposed by tech and auto industries is close to passing](https://arstechnica.com/cars/2024/05/am-radio-is-a-lifeline-lawmakers-say-tech-and-auto-industries-disagree/)
 
