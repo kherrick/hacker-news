@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-05, 05:14:08](https://news.ycombinator.com/item?id=40262438) - [Pivot podcast host Scott Galloway: 'Tech bros conflate luck with talent'](https://www.theguardian.com/books/article/2024/may/04/scott-galloway-algebra-of-wealth-pivot-elon-musk)
+* [2024-05-05, 04:26:10](https://news.ycombinator.com/item?id=40262236) - [Time-Based CSS Animations](https://yuanchuan.dev/time-based-css-animations)
 * [2024-05-05, 04:22:05](https://news.ycombinator.com/item?id=40262226) - [Megaconstellations like SpaceX's could weaken Earth's magnetic field, atmosphere](https://www.livescience.com/space/space-exploration/controversial-paper-claims-satellite-megaconstellations-like-spacexs-could-weaken-earths-magnetic-field-and-cause-atmospheric-stripping-should-we-be-worried)
 * [2024-05-05, 04:13:56](https://news.ycombinator.com/item?id=40262190) - [Judge mulls sanctions over Google's \"shocking\" destruction of internal chats](https://arstechnica.com/tech-policy/2024/05/judge-mulls-sanctions-over-googles-shocking-destruction-of-internal-chats/)
 * [2024-05-05, 03:46:04](https://news.ycombinator.com/item?id=40262115) - [Cylon: JavaScript framework for robotics, drones, and the Internet of Things](https://github.com/hybridgroup/cylon)
@@ -11,7 +12,6 @@
 * [2024-05-05, 01:39:05](https://news.ycombinator.com/item?id=40261681) - [Automated integer hash function discovery](https://github.com/skeeto/hash-prospector)
 * [2024-05-05, 01:01:05](https://news.ycombinator.com/item?id=40261550) - [Understanding Stein's Paradox (2021)](https://joe-antognini.github.io/machine-learning/steins-paradox)
 * [2024-05-05, 00:36:57](https://news.ycombinator.com/item?id=40261451) - [Preliminary Macintosh Business Plan (12 July 1981) [pdf]](http://archive.computerhistory.org/resources/text/2009/102712692.05.01acc.pdf)
-* [2024-05-05, 00:25:59](https://news.ycombinator.com/item?id=40261408) - [Dick Rutan, pilot of the first nonstop around-the-world flight, has died](https://www.independent.co.uk/news/ap-voyager-ronald-reagan-california-idaho-b2539832.html)
 * [2024-05-04, 23:06:24](https://news.ycombinator.com/item?id=40261023) - [Hymn for Walpurgisnacht](https://themillions.com/2024/04/hymn-for-walpurgisnacht.html)
 * [2024-05-04, 23:02:30](https://news.ycombinator.com/item?id=40261001) - [Vera Rubin's primary mirror gets its first reflective coating](https://www.universetoday.com/166842/vera-rubins-primary-mirror-gets-its-first-reflective-coating/)
 * [2024-05-04, 21:24:34](https://news.ycombinator.com/item?id=40260399) - [Superfest – The almost unbreakable East German Glass](https://digitalcosmonaut.com/superfest-ceverit-glass-ddr/)
