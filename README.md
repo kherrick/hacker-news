@@ -23,12 +23,12 @@
 * [2024-05-04, 21:24:34](https://news.ycombinator.com/item?id=40260399) - [Superfest – The almost unbreakable East German Glass (2021)](https://digitalcosmonaut.com/superfest-ceverit-glass-ddr/)
 * [2024-05-04, 21:03:55](https://news.ycombinator.com/item?id=40260259) - [Show HN: gpudeploy.com – \"Airbnb\" for GPUs](https://www.gpudeploy.com)
 * [2024-05-04, 20:56:02](https://news.ycombinator.com/item?id=40260210) - [Atari's Mike Jang](https://arcadeblogger.com/2024/02/13/ataris-mike-jang/)
+* [2024-05-04, 20:22:54](https://news.ycombinator.com/item?id=40260035) - [Show HN: Dillo 3.1.0 released after 9 years](https://dillo-browser.github.io/latest.html)
 * [2024-05-04, 17:50:53](https://news.ycombinator.com/item?id=40259185) - [Verified Rust for low-level systems code](https://github.com/verus-lang/verus)
 * [2024-05-04, 14:42:44](https://news.ycombinator.com/item?id=40258037) - [How to build a $20B semiconductor fab](https://www.construction-physics.com/p/how-to-build-a-20-billion-semiconductor)
 * [2024-05-03, 04:58:03](https://news.ycombinator.com/item?id=40244205) - [A year of publishing the MDN Blog](https://developer.mozilla.org/en-US/blog/mdn-blog-one-year-on/)
 * [2024-05-02, 11:20:49](https://news.ycombinator.com/item?id=40234871) - [AM radio law opposed by tech and auto industries is close to passing](https://arstechnica.com/cars/2024/05/am-radio-is-a-lifeline-lawmakers-say-tech-and-auto-industries-disagree/)
 * [2024-05-02, 10:26:41](https://news.ycombinator.com/item?id=40234584) - [Rewriting the Technical Interview (2020)](https://aphyr.com/posts/353-rewriting-the-technical-interview)
-* [2024-05-02, 09:52:40](https://news.ycombinator.com/item?id=40234398) - [Hacking on PostgreSQL Is Hard](http://rhaas.blogspot.com/2024/05/hacking-on-postgresql-is-really-hard.html)
 * [2024-05-02, 08:28:11](https://news.ycombinator.com/item?id=40233938) - [Computers Reduce Efficiency: Case Studies of the Solow Paradox (2023)](https://scottlocklin.wordpress.com/2023/11/21/computers-reduce-efficiency-case-studies-of-the-solow-paradox/)
 
 ## [Archives](archives/index.md)
