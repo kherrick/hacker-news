@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-05, 23:12:28](https://news.ycombinator.com/item?id=40269489) - [Deep Reinforcement Learning: Zero to Hero](https://github.com/alessiodm/drl-zh)
 * [2024-05-05, 23:11:54](https://news.ycombinator.com/item?id=40269480) - [The Sam Altman Playbook: Fear, the Denial of Uncertainties, and Hype](https://garymarcus.substack.com/p/the-sam-altman-playbook)
 * [2024-05-05, 20:48:37](https://news.ycombinator.com/item?id=40268204) - [\"Meta spent almost as much as the Manhattan Project on GPUs in today's dollars\"](https://twitter.com/emollick/status/1786213463456448900)
 * [2024-05-05, 19:54:46](https://news.ycombinator.com/item?id=40267675) - [Bollards: Why and What](https://josh.works/bollards)
@@ -21,7 +22,6 @@
 * [2024-05-05, 07:14:26](https://news.ycombinator.com/item?id=40262921) - [MIT abandons requirement of DEI statements for hiring and promotions](https://whyevolutionistrue.com/2024/05/04/mit-abandons-use-of-dei-statements/)
 * [2024-05-05, 07:07:56](https://news.ycombinator.com/item?id=40262883) - [North Yorkshire Council to phase out apostrophe use on street signs](https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-68942321)
 * [2024-05-05, 06:47:40](https://news.ycombinator.com/item?id=40262779) - [Xmake: A cross-platform build utility based on Lua](https://github.com/xmake-io/xmake)
-* [2024-05-05, 04:26:10](https://news.ycombinator.com/item?id=40262236) - [Time-Based CSS Animations](https://yuanchuan.dev/time-based-css-animations)
 * [2024-05-05, 00:23:01](https://news.ycombinator.com/item?id=40261402) - [Winged lions through time and space](https://languagelog.ldc.upenn.edu/nll/?p=63820)
 * [2024-05-05, 00:03:48](https://news.ycombinator.com/item?id=40261319) - [A mostly complete guide to React rendering behavior (2020)](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
 * [2024-05-04, 23:01:37](https://news.ycombinator.com/item?id=40260996) - [Variations on the theme of silence](https://commonreader.wustl.edu/c/variations-on-the-theme-of-silence/)
