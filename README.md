@@ -1,14 +1,15 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-05, 15:46:03](https://news.ycombinator.com/item?id=40265703) - [Ancestry caught stealing records a second time from local genealogy groups](http://scottishgenes.blogspot.com/2024/05/aberdeenshire-memorial-inscriptions.html)
+* [2024-05-05, 15:49:14](https://news.ycombinator.com/item?id=40265736) - [Randy Travis's New Song Recreates His Voice with AI Technology](https://www.rollingstone.com/music/music-country/randy-travis-releases-ai-song-1235014871/)
+* [2024-05-05, 15:46:03](https://news.ycombinator.com/item?id=40265703) - [Aberdeenshire memorial inscriptions records removed from Ancestry](http://scottishgenes.blogspot.com/2024/05/aberdeenshire-memorial-inscriptions.html)
 * [2024-05-05, 15:25:19](https://news.ycombinator.com/item?id=40265552) - [Small Things](https://rishad.substack.com/p/small-things)
 * [2024-05-05, 15:10:25](https://news.ycombinator.com/item?id=40265456) - [Let insects eat your plants](https://www.bbc.com/future/article/20240503-why-you-should-let-insects-eat-your-plants)
+* [2024-05-05, 15:05:22](https://news.ycombinator.com/item?id=40265420) - [Recruiters Are Going Analog to Fight the AI Application Overload](https://www.wired.com/story/recruiters-ai-application-overload/)
 * [2024-05-05, 13:16:00](https://news.ycombinator.com/item?id=40264669) - [First 'tooth regrowth medicine' to be tested in Japan from Sept. 2024](https://mainichi.jp/english/articles/20240503/p2a/00m/0sc/012000c)
 * [2024-05-05, 12:30:44](https://news.ycombinator.com/item?id=40264352) - [Machine unlearning: ML model minus the information to be unlearned](https://ai.stanford.edu/~kzliu/blog/unlearning)
 * [2024-05-05, 12:28:30](https://news.ycombinator.com/item?id=40264337) - [A History of C Compilers – Part 1: Performance, Portability and Freedom](https://thechipletter.substack.com/p/a-history-of-c-compilers-part-1-performance)
 * [2024-05-05, 11:31:17](https://news.ycombinator.com/item?id=40264042) - [Take a look at traefik, even if you don't use containers](https://j6b72.de/article/why-you-should-take-a-look-at-traefik/)
 * [2024-05-05, 09:44:28](https://news.ycombinator.com/item?id=40263479) - [Debian 64-bit-time transition](https://wiki.debian.org/ReleaseGoals/64bit-time)
-* [2024-05-05, 08:39:29](https://news.ycombinator.com/item?id=40263194) - [Flags Are Not Languages](https://www.flagsarenotlanguages.com/blog/)
 * [2024-05-05, 07:42:13](https://news.ycombinator.com/item?id=40263027) - [Show HN: I built a website to share files and messages without any server](https://neighbor-share.vercel.app/)
 * [2024-05-05, 07:38:47](https://news.ycombinator.com/item?id=40263017) - [Rusty.hpp: A Borrow Checker and Memory Ownership System for C++20](https://github.com/Jaysmito101/rusty.hpp)
 * [2024-05-05, 07:00:07](https://news.ycombinator.com/item?id=40262846) - [Emerge (YC W21) is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
@@ -29,7 +30,6 @@
 * [2024-05-03, 04:58:03](https://news.ycombinator.com/item?id=40244205) - [A year of publishing the MDN Blog](https://developer.mozilla.org/en-US/blog/mdn-blog-one-year-on/)
 * [2024-05-02, 11:20:49](https://news.ycombinator.com/item?id=40234871) - [AM radio law opposed by tech and auto industries is close to passing](https://arstechnica.com/cars/2024/05/am-radio-is-a-lifeline-lawmakers-say-tech-and-auto-industries-disagree/)
 * [2024-05-02, 10:26:41](https://news.ycombinator.com/item?id=40234584) - [Rewriting the Technical Interview (2020)](https://aphyr.com/posts/353-rewriting-the-technical-interview)
-* [2024-05-02, 08:28:11](https://news.ycombinator.com/item?id=40233938) - [Computers Reduce Efficiency: Case Studies of the Solow Paradox (2023)](https://scottlocklin.wordpress.com/2023/11/21/computers-reduce-efficiency-case-studies-of-the-solow-paradox/)
 
 ## [Archives](archives/index.md)
 
