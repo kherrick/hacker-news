@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-05](index.md)
 
+* [2024-05-05, 16:36:38](https://news.ycombinator.com/item?id=40266122) - [Al Jazeera condemns Israeli government decision to shut down channel](https://www.aljazeera.com/news/2024/5/5/netanyahu-government-votes-to-close-al-jazeera-channel-in-israel)
 * [2024-05-05, 15:49:14](https://news.ycombinator.com/item?id=40265736) - [Randy Travis's New Song Recreates His Voice with AI Technology](https://www.rollingstone.com/music/music-country/randy-travis-releases-ai-song-1235014871/)
 * [2024-05-05, 15:46:03](https://news.ycombinator.com/item?id=40265703) - [Ancestry caught stealing records a second time from local genealogy groups](http://scottishgenes.blogspot.com/2024/05/aberdeenshire-memorial-inscriptions.html)
 * [2024-05-05, 15:25:19](https://news.ycombinator.com/item?id=40265552) - [Small Things](https://rishad.substack.com/p/small-things)

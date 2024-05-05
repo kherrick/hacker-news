@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-05, 16:36:38](https://news.ycombinator.com/item?id=40266122) - [Al Jazeera condemns Israeli government decision to shut down channel](https://www.aljazeera.com/news/2024/5/5/netanyahu-government-votes-to-close-al-jazeera-channel-in-israel)
 * [2024-05-05, 15:46:03](https://news.ycombinator.com/item?id=40265703) - [Aberdeenshire memorial inscriptions records removed from Ancestry](http://scottishgenes.blogspot.com/2024/05/aberdeenshire-memorial-inscriptions.html)
 * [2024-05-05, 15:25:19](https://news.ycombinator.com/item?id=40265552) - [Small Things](https://rishad.substack.com/p/small-things)
 * [2024-05-05, 15:10:25](https://news.ycombinator.com/item?id=40265456) - [Let insects eat your plants](https://www.bbc.com/future/article/20240503-why-you-should-let-insects-eat-your-plants)
@@ -11,7 +12,6 @@
 * [2024-05-05, 09:44:28](https://news.ycombinator.com/item?id=40263479) - [Debian 64-bit-time transition](https://wiki.debian.org/ReleaseGoals/64bit-time)
 * [2024-05-05, 07:42:13](https://news.ycombinator.com/item?id=40263027) - [Show HN: I built a website to share files and messages without any server](https://neighbor-share.vercel.app/)
 * [2024-05-05, 07:38:47](https://news.ycombinator.com/item?id=40263017) - [Rusty.hpp: A Borrow Checker and Memory Ownership System for C++20](https://github.com/Jaysmito101/rusty.hpp)
-* [2024-05-05, 07:07:56](https://news.ycombinator.com/item?id=40262883) - [Council Bans Apostrophes on Street Signs to Avoid Database Issues](https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-68942321)
 * [2024-05-05, 07:00:07](https://news.ycombinator.com/item?id=40262846) - [Emerge (YC W21) is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
 * [2024-05-05, 06:47:40](https://news.ycombinator.com/item?id=40262779) - [Xmake: A cross-platform build utility based on Lua](https://github.com/xmake-io/xmake)
 * [2024-05-05, 06:05:55](https://news.ycombinator.com/item?id=40262643) - [New scanning electron microscope tech sees magnetic field with 100nm resolution](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4812984)
