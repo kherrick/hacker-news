@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-05-05](index.md)
 
+* [2024-05-05, 17:17:07](https://news.ycombinator.com/item?id=40266464) - [Simplicity Is an Advantage but Sadly Complexity Sells Better](https://eugeneyan.com/writing/simplicity/)
 * [2024-05-05, 17:00:48](https://news.ycombinator.com/item?id=40266333) - [Infisical Is Hiring Software Engineers to Build Open-Source Security DevTools](https://infisical.com/careers)
 * [2024-05-05, 16:36:38](https://news.ycombinator.com/item?id=40266122) - [Al Jazeera condemns Israeli government decision to shut down channel](https://www.aljazeera.com/news/2024/5/5/netanyahu-government-votes-to-close-al-jazeera-channel-in-israel)
 * [2024-05-05, 16:33:20](https://news.ycombinator.com/item?id=40266096) - [How to style React applications while the world burns around us](https://herbcaudill.com/words/20201007-style-react-app)
 * [2024-05-05, 16:21:33](https://news.ycombinator.com/item?id=40266015) - [ESP32-S3 has (a few) SIMD instructions](https://bitbanksoftware.blogspot.com/2024/01/surprise-esp32-s3-has-few-simd.html)
 * [2024-05-05, 15:49:14](https://news.ycombinator.com/item?id=40265736) - [Randy Travis's New Song Recreates His Voice with AI Technology](https://www.rollingstone.com/music/music-country/randy-travis-releases-ai-song-1235014871/)
 * [2024-05-05, 15:46:03](https://news.ycombinator.com/item?id=40265703) - [Ancestry caught stealing records a second time from local genealogy groups](http://scottishgenes.blogspot.com/2024/05/aberdeenshire-memorial-inscriptions.html)
+* [2024-05-05, 15:43:51](https://news.ycombinator.com/item?id=40265678) - [The Runners Who Went So Hard They Were Never the Same](https://www.outsideonline.com/podcast/overtraining-syndrome-science/)
 * [2024-05-05, 15:25:19](https://news.ycombinator.com/item?id=40265552) - [Small Things](https://rishad.substack.com/p/small-things)
 * [2024-05-05, 15:18:36](https://news.ycombinator.com/item?id=40265505) - [Tech's proposed utopian communities don't seem to be for everyone](https://www.sfchronicle.com/bayarea/justinphillips/article/city-campus-san-francisco-tech-diversity-19435406.php)
 * [2024-05-05, 15:10:25](https://news.ycombinator.com/item?id=40265456) - [Let insects eat your plants](https://www.bbc.com/future/article/20240503-why-you-should-let-insects-eat-your-plants)
