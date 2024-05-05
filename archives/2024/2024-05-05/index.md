@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-05](index.md)
 
+* [2024-05-05, 04:13:56](https://news.ycombinator.com/item?id=40262190) - [Judge mulls sanctions over Google's \"shocking\" destruction of internal chats](https://arstechnica.com/tech-policy/2024/05/judge-mulls-sanctions-over-googles-shocking-destruction-of-internal-chats/)
 * [2024-05-05, 03:38:59](https://news.ycombinator.com/item?id=40262093) - [Boeing faces 10 more whistleblowers after sudden death of two](https://www.hindustantimes.com/world-news/us-news/is-boeing-in-big-trouble-worlds-largest-aerospace-firm-faces-10-more-whistleblowers-after-sudden-death-of-two-101714838675908.html)
 * [2024-05-05, 03:10:08](https://news.ycombinator.com/item?id=40261985) - [Ghosts in the Machine 2 [video]](https://www.youtube.com/watch?v=V6hu83yVMlU)
 * [2024-05-05, 03:03:49](https://news.ycombinator.com/item?id=40261965) - [Sequoia: Serving exact Llama2-70B on an RTX4090 with 1/2 s per token](https://infini-ai-lab.github.io/Sequoia-Page/)
