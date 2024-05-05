@@ -2,6 +2,7 @@
 
 * [2024-05-05, 08:04:38](https://news.ycombinator.com/item?id=40263100) - [They Live](https://en.wikipedia.org/wiki/They_Live)
 * [2024-05-05, 07:14:26](https://news.ycombinator.com/item?id=40262921) - [MIT abandons use of DEI statements](https://whyevolutionistrue.com/2024/05/04/mit-abandons-use-of-dei-statements/)
+* [2024-05-05, 07:07:56](https://news.ycombinator.com/item?id=40262883) - [Council Bans Apostrophes on Street Signs to Avoid Database Issues](https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-68942321)
 * [2024-05-05, 07:00:07](https://news.ycombinator.com/item?id=40262846) - [Emerge (YC W21) is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
 * [2024-05-05, 06:47:40](https://news.ycombinator.com/item?id=40262779) - [Xmake: A modern C/C++ build tool](https://github.com/xmake-io/xmake)
 * [2024-05-05, 04:26:10](https://news.ycombinator.com/item?id=40262236) - [Time-Based CSS Animations](https://yuanchuan.dev/time-based-css-animations)
@@ -15,7 +16,6 @@
 * [2024-05-05, 00:36:57](https://news.ycombinator.com/item?id=40261451) - [Preliminary Macintosh Business Plan (12 July 1981) [pdf]](http://archive.computerhistory.org/resources/text/2009/102712692.05.01acc.pdf)
 * [2024-05-04, 23:06:24](https://news.ycombinator.com/item?id=40261023) - [Hymn for Walpurgisnacht](https://themillions.com/2024/04/hymn-for-walpurgisnacht.html)
 * [2024-05-04, 23:02:30](https://news.ycombinator.com/item?id=40261001) - [Vera Rubin's primary mirror gets its first reflective coating](https://www.universetoday.com/166842/vera-rubins-primary-mirror-gets-its-first-reflective-coating/)
-* [2024-05-04, 21:24:34](https://news.ycombinator.com/item?id=40260399) - [Superfest – The almost unbreakable East German Glass](https://digitalcosmonaut.com/superfest-ceverit-glass-ddr/)
 * [2024-05-04, 21:03:55](https://news.ycombinator.com/item?id=40260259) - [Show HN: gpudeploy.com – \"Airbnb\" for GPUs](https://www.gpudeploy.com)
 * [2024-05-04, 20:56:02](https://news.ycombinator.com/item?id=40260210) - [Atari's Mike Jang](https://arcadeblogger.com/2024/02/13/ataris-mike-jang/)
 * [2024-05-04, 20:22:54](https://news.ycombinator.com/item?id=40260035) - [Show HN: Dillo 3.1.0 released after 9 years](https://dillo-browser.github.io/latest.html)
