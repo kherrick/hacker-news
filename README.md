@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-05, 15:49:14](https://news.ycombinator.com/item?id=40265736) - [Randy Travis's New Song Recreates His Voice with AI Technology](https://www.rollingstone.com/music/music-country/randy-travis-releases-ai-song-1235014871/)
 * [2024-05-05, 15:46:03](https://news.ycombinator.com/item?id=40265703) - [Aberdeenshire memorial inscriptions records removed from Ancestry](http://scottishgenes.blogspot.com/2024/05/aberdeenshire-memorial-inscriptions.html)
 * [2024-05-05, 15:25:19](https://news.ycombinator.com/item?id=40265552) - [Small Things](https://rishad.substack.com/p/small-things)
 * [2024-05-05, 15:10:25](https://news.ycombinator.com/item?id=40265456) - [Let insects eat your plants](https://www.bbc.com/future/article/20240503-why-you-should-let-insects-eat-your-plants)
+* [2024-05-05, 15:05:22](https://news.ycombinator.com/item?id=40265420) - [Recruiters Are Going Analog to Fight the AI Application Overload](https://www.wired.com/story/recruiters-ai-application-overload/)
 * [2024-05-05, 13:16:00](https://news.ycombinator.com/item?id=40264669) - [First 'tooth regrowth medicine' to be tested in Japan from Sept. 2024](https://mainichi.jp/english/articles/20240503/p2a/00m/0sc/012000c)
 * [2024-05-05, 12:30:44](https://news.ycombinator.com/item?id=40264352) - [Machine unlearning: ML model minus the information to be unlearned](https://ai.stanford.edu/~kzliu/blog/unlearning)
 * [2024-05-05, 12:28:30](https://news.ycombinator.com/item?id=40264337) - [A History of C Compilers – Part 1: Performance, Portability and Freedom](https://thechipletter.substack.com/p/a-history-of-c-compilers-part-1-performance)
