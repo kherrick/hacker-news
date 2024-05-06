@@ -59,6 +59,7 @@
 * [2024-05-03, 13:26:38](https://news.ycombinator.com/item?id=40247421) - [27 Unique volumes of Grimm brothers' fairy tales found in Poland](https://english.nv.ua/life/27-unique-volumes-of-grimm-brothers-fairy-tales-were-found-in-poland-50415035.html)
 * [2024-05-03, 13:23:59](https://news.ycombinator.com/item?id=40247399) - [PoC to demonstrate root permission hijacking by exploiting \"systemd-run\"](https://twitter.com/hackerfantastic/status/1785495587514638559)
 * [2024-05-03, 13:20:57](https://news.ycombinator.com/item?id=40247373) - [Identifiers are better off without meaning](https://varoa.net/2024/05/01/identifiers-are-better-off-without-meaning.html)
+* [2024-05-03, 13:08:24](https://news.ycombinator.com/item?id=40247270) - [Show HN: Rispose.com – A free tool to embed OpenAI Assistants on any website](https://rispose.com)
 * [2024-05-03, 13:06:19](https://news.ycombinator.com/item?id=40247254) - [The most important cryptography papers](https://evervault.com/papers)
 * [2024-05-03, 13:05:39](https://news.ycombinator.com/item?id=40247249) - [Some scientists can't stop using AI to write research papers](https://www.theregister.com/2024/05/03/ai_scientific_articles/)
 * [2024-05-03, 13:01:27](https://news.ycombinator.com/item?id=40247218) - [AI engineers report burnout, rushed rollouts as 'rat race' to stay competitive](https://www.cnbc.com/2024/05/03/ai-engineers-face-burnout-as-rat-race-to-stay-competitive-hits-tech.html)
