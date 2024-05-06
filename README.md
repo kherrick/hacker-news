@@ -8,6 +8,7 @@
 * [2024-05-06, 17:57:39](https://news.ycombinator.com/item?id=40277469) - [Results of the Grand C++ Error Explosion Competition (2014)](https://tgceec.tumblr.com/post/74534916370/results-of-the-grand-c-error-explosion)
 * [2024-05-06, 17:00:42](https://news.ycombinator.com/item?id=40276768) - [Show HN: Peerdb Streams – Simple, native Postgres change data capture](https://news.ycombinator.com/item?id=40276768)
 * [2024-05-06, 16:56:08](https://news.ycombinator.com/item?id=40276714) - [German public broadcasters open source their streaming platforms](https://www.heise.de/en/news/ARD-und-ZDF-wollen-ihren-Streaming-Code-als-Open-Source-anbieten-9709177.html)
+* [2024-05-06, 16:40:30](https://news.ycombinator.com/item?id=40276550) - [Thorn in a HaizeStack test for evaluating long-context adversarial robustness](https://github.com/haizelabs/thorn-in-haizestack)
 * [2024-05-06, 16:27:49](https://news.ycombinator.com/item?id=40276442) - [Spending an afternoon in the Sizewell control-room simulator](https://www.bentasker.co.uk/posts/blog/general/an-afternoon-in-sizewell-b-control-room-simulator.html)
 * [2024-05-06, 16:24:09](https://news.ycombinator.com/item?id=40276399) - [Quantum gravity gets a new test](https://physics.aps.org/articles/v17/65)
 * [2024-05-06, 15:48:09](https://news.ycombinator.com/item?id=40275997) - [Clojure: Managing throughput with virtual threads](https://andersmurphy.com/2024/05/06/clojure-managing-throughput-with-virtual-threads.html)
@@ -27,7 +28,6 @@
 * [2024-05-05, 16:09:54](https://news.ycombinator.com/item?id=40265904) - [Visiting the annual Braun collectors fair](https://arslan.io/2024/05/05/braun-borse-2024/)
 * [2024-05-05, 12:01:01](https://news.ycombinator.com/item?id=40264194) - [A bug that spoke Russian and crashed my app](https://imzaldih.com/en/post/bug-spoke-russian-crashed-app/)
 * [2024-05-05, 07:45:46](https://news.ycombinator.com/item?id=40263042) - [The VGA Attribute Controller Is Weird](http://www.os2museum.com/wp/learn-something-old-every-day-part-x-the-vga-attribute-controller-is-weird/)
-* [2024-05-05, 06:02:02](https://news.ycombinator.com/item?id=40262626) - [A High-Level Technical Overview of Homomorphic Encryption](https://www.jeremykun.com/2024/05/04/fhe-overview/)
 * [2024-05-05, 05:42:51](https://news.ycombinator.com/item?id=40262543) - [With PowerPC, Windows CE and the WiiN-Pad Slate, Everyone's a WiiN-Er](http://oldvcr.blogspot.com/2024/05/with-powerpc-windows-ce-and-wiin-pad.html)
 * [2024-05-03, 21:48:43](https://news.ycombinator.com/item?id=40252784) - [Speeding up ELF relocations for store-based systems](https://fzakaria.com/2024/05/03/speeding-up-elf-relocations-for-store-based-systems.html)
 
