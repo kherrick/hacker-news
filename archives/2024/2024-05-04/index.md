@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-04](index.md)
 
 * [2024-05-04, 23:56:47](https://news.ycombinator.com/item?id=40261279) - [Show HN: Kubernates in Node.js](https://github.com/Megapixel99/nodejs-k8s)
+* [2024-05-04, 23:53:57](https://news.ycombinator.com/item?id=40261267) - [About Project Azorian](https://www.cia.gov/legacy/museum/exhibit/project-azorian/)
 * [2024-05-04, 23:06:24](https://news.ycombinator.com/item?id=40261023) - [Hymn for Walpurgisnacht](https://themillions.com/2024/04/hymn-for-walpurgisnacht.html)
 * [2024-05-04, 23:04:59](https://news.ycombinator.com/item?id=40261014) - [What makes a translation great?](https://scroll.in/article/876969/what-makes-a-translation-great-ten-literary-translators-from-across-the-world-weigh-in)
 * [2024-05-04, 23:02:30](https://news.ycombinator.com/item?id=40261001) - [Vera Rubin's primary mirror gets its first reflective coating](https://www.universetoday.com/166842/vera-rubins-primary-mirror-gets-its-first-reflective-coating/)
