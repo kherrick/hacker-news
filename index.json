@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-05-06, 13:50:10",
+      "https://news.ycombinator.com/item?id=40274662"
+    ],
+    [
+      "A fourteen-day free trial ain’t gonna cut it",
+      "https://keygen.sh/blog/your-14-day-free-trial-aint-gonna-cut-it/"
+    ]
+  ],
+  [
+    [
       "2024-05-06, 13:25:34",
       "https://news.ycombinator.com/item?id=40274371"
     ],
     [
       "Stack Overflow and OpenAI are partnering",
       "https://stackoverflow.co/company/press/archive/openai-partnership/"
+    ]
+  ],
+  [
+    [
+      "2024-05-06, 13:04:06",
+      "https://news.ycombinator.com/item?id=40274158"
+    ],
+    [
+      "How I Think About Debt",
+      "https://collabfund.com/blog/how-i-think-about-debt/"
     ]
   ],
   [
@@ -51,32 +71,12 @@
   ],
   [
     [
-      "2024-05-06, 07:39:52",
-      "https://news.ycombinator.com/item?id=40272186"
-    ],
-    [
-      "A Useful Productivity Measure for Software Engineering?",
-      "https://www.jamesshore.com/v2/blog/2024/a-useful-productivity-measure"
-    ]
-  ],
-  [
-    [
       "2024-05-06, 06:21:41",
       "https://news.ycombinator.com/item?id=40271706"
     ],
     [
       "Show HN: Supertone Shift – AI powered Real-time voice changer",
       "https://product.supertone.ai/shift"
-    ]
-  ],
-  [
-    [
-      "2024-05-06, 04:55:14",
-      "https://news.ycombinator.com/item?id=40271242"
-    ],
-    [
-      "Lix is a modern, delicious implementation of the Nix package manager",
-      "https://lix.systems/"
     ]
   ],
   [
@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2024-05-05, 17:17:07",
+      "https://news.ycombinator.com/item?id=40266464"
+    ],
+    [
+      "Simplicity is an advantage but sadly complexity sells better (2022)",
+      "https://eugeneyan.com/writing/simplicity/"
+    ]
+  ],
+  [
+    [
       "2024-05-05, 16:21:33",
       "https://news.ycombinator.com/item?id=40266015"
     ],
@@ -247,16 +257,6 @@
     [
       "Swift's native Clocks are inefficient",
       "https://wadetregaskis.com/swifts-native-clocks-are-very-inefficient/"
-    ]
-  ],
-  [
-    [
-      "2024-05-05, 06:20:35",
-      "https://news.ycombinator.com/item?id=40262680"
-    ],
-    [
-      "Building Containers from Scratch: Layers",
-      "https://depot.dev/blog/building-container-layers-from-scratch"
     ]
   ],
   [
