@@ -2,6 +2,7 @@
 
 * [2024-05-06, 12:01:03](https://news.ycombinator.com/item?id=40273598) - [NYU professors who defended vaping didn't disclose ties to Juul](https://www.statnews.com/2024/05/06/juul-vaping-advocates-nyu-professors-non-disclosed-conflict-interest/)
 * [2024-05-06, 12:00:11](https://news.ycombinator.com/item?id=40273587) - [Fern (YC W23) Is Hiring a Customer-Centric Software Engineer](https://www.ycombinator.com/companies/fern/jobs/KmSsgCu-deployed-engineer)
+* [2024-05-06, 11:42:41](https://news.ycombinator.com/item?id=40273470) - [Show HN: A free site to explore and discover 6k plants](https://www.getanyplant.com/plants)
 * [2024-05-06, 07:39:52](https://news.ycombinator.com/item?id=40272186) - [A Useful Productivity Measure for Software Engineering?](https://www.jamesshore.com/v2/blog/2024/a-useful-productivity-measure)
 * [2024-05-06, 06:21:41](https://news.ycombinator.com/item?id=40271706) - [Show HN: Supertone Shift – AI powered Real-time voice changer](https://product.supertone.ai/shift)
 * [2024-05-06, 05:55:06](https://news.ycombinator.com/item?id=40271548) - [Testing a new version of Stack Overflow Jobs](https://meta.stackexchange.com/questions/399440/testing-a-new-version-of-stack-overflow-jobs)
@@ -24,11 +25,10 @@
 * [2024-05-05, 10:28:17](https://news.ycombinator.com/item?id=40263711) - [A company is building a giant compressed-air battery in the Australian outback](https://www.wired.com/story/hydrostor-compressed-air-battery-california-australia-energy-climate/)
 * [2024-05-05, 09:28:59](https://news.ycombinator.com/item?id=40263394) - [Decoding UTF8 with parallel extract](https://nrk.neocities.org/articles/utf8-pext)
 * [2024-05-05, 07:10:36](https://news.ycombinator.com/item?id=40262897) - [Swift's native Clocks are inefficient](https://wadetregaskis.com/swifts-native-clocks-are-very-inefficient/)
+* [2024-05-05, 06:20:35](https://news.ycombinator.com/item?id=40262680) - [Building Containers from Scratch: Layers](https://depot.dev/blog/building-container-layers-from-scratch)
 * [2024-05-05, 06:02:02](https://news.ycombinator.com/item?id=40262626) - [A High-Level Technical Overview of Homomorphic Encryption](https://www.jeremykun.com/2024/05/04/fhe-overview/)
 * [2024-05-05, 05:42:51](https://news.ycombinator.com/item?id=40262543) - [With PowerPC, Windows CE and the WiiN-Pad Slate, Everyone's a WiiN-Er](http://oldvcr.blogspot.com/2024/05/with-powerpc-windows-ce-and-wiin-pad.html)
-* [2024-05-03, 17:16:22](https://news.ycombinator.com/item?id=40249968) - [Turning AirPods into a fitness tracker](https://richarddas.com/blog/turning-airpods-into-fitness-trackers-to-fight-cancer/)
 * [2024-05-03, 11:23:58](https://news.ycombinator.com/item?id=40246400) - [Interview with Marian Rejewski, the first person to crack Enigma (1974) [video]](https://www.flyingpenguin.com/?p=56989)
-* [2024-05-03, 06:24:23](https://news.ycombinator.com/item?id=40244729) - [Map Machine: Python renderer for OpenStreetMap with custom icons](https://github.com/enzet/map-machine)
 * [2024-05-03, 04:40:43](https://news.ycombinator.com/item?id=40244097) - [Data Science at the Command Line, 2nd Edition (2021)](https://jeroenjanssens.com/dsatcl/)
 
 ## [Archives](archives/index.md)
