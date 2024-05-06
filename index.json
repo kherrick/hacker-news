@@ -1,22 +1,12 @@
 [
   [
     [
-      "2024-05-06, 11:42:41",
-      "https://news.ycombinator.com/item?id=40273469"
+      "2024-05-06, 12:00:11",
+      "https://news.ycombinator.com/item?id=40273587"
     ],
     [
-      "Sony overturns Helldivers 2 PSN requirement following backlash",
-      "https://www.eurogamer.net/sony-overturns-helldivers-2-psn-requirement-following-backlash"
-    ]
-  ],
-  [
-    [
-      "2024-05-06, 11:39:24",
-      "https://news.ycombinator.com/item?id=40273454"
-    ],
-    [
-      "Ask HN: People that use jq extensively, I'd like to talk to you",
-      "https://news.ycombinator.com/item?id=40273454"
+      "Fern (YC W23) Is Hiring a Customer-Centric Software Engineer",
+      "https://www.ycombinator.com/companies/fern/jobs/KmSsgCu-deployed-engineer"
     ]
   ],
   [
@@ -51,16 +41,6 @@
   ],
   [
     [
-      "2024-05-06, 05:40:02",
-      "https://news.ycombinator.com/item?id=40271457"
-    ],
-    [
-      "How LLMs Work, Explained Without Math",
-      "https://blog.miguelgrinberg.com/post/how-llms-work-explained-without-math"
-    ]
-  ],
-  [
-    [
       "2024-05-06, 02:27:06",
       "https://news.ycombinator.com/item?id=40270586"
     ],
@@ -77,16 +57,6 @@
     [
       "BlackHole: macOS Audio Loopback Driver",
       "https://github.com/ExistentialAudio/BlackHole"
-    ]
-  ],
-  [
-    [
-      "2024-05-05, 23:46:21",
-      "https://news.ycombinator.com/item?id=40269680"
-    ],
-    [
-      "X.org on NetBSD – The State of Things",
-      "https://blog.netbsd.org/tnf/entry/x_org_on_netbsd_the"
     ]
   ],
   [
@@ -121,12 +91,12 @@
   ],
   [
     [
-      "2024-05-05, 19:53:48",
-      "https://news.ycombinator.com/item?id=40267666"
+      "2024-05-05, 19:50:59",
+      "https://news.ycombinator.com/item?id=40267639"
     ],
     [
-      "Social engineering takeovers of open source projects",
-      "https://openssf.org/blog/2024/04/15/open-source-security-openssf-and-openjs-foundations-issue-alert-for-social-engineering-takeovers-of-open-source-projects/"
+      "Israel shuts down local Al Jazeera offices",
+      "https://www.theguardian.com/world/article/2024/may/05/israel-shuts-down-local-al-jazeera-offices-in-dark-day-for-the-media"
     ]
   ],
   [
@@ -221,6 +191,16 @@
   ],
   [
     [
+      "2024-05-05, 11:30:04",
+      "https://news.ycombinator.com/item?id=40264033"
+    ],
+    [
+      "Vintage Style Mandelbrot Map",
+      "https://www.mandelmap.com"
+    ]
+  ],
+  [
+    [
       "2024-05-05, 10:28:17",
       "https://news.ycombinator.com/item?id=40263711"
     ],
@@ -287,6 +267,26 @@
     [
       "Interview with Marian Rejewski, the first person to crack Enigma (1974) [video]",
       "https://www.flyingpenguin.com/?p=56989"
+    ]
+  ],
+  [
+    [
+      "2024-05-03, 09:05:37",
+      "https://news.ycombinator.com/item?id=40245626"
+    ],
+    [
+      "Agricultural IoT system sends power through the soil",
+      "https://spectrum.ieee.org/smart-agriculture"
+    ]
+  ],
+  [
+    [
+      "2024-05-03, 06:24:23",
+      "https://news.ycombinator.com/item?id=40244729"
+    ],
+    [
+      "Map Machine: Python renderer for OpenStreetMap with custom icons",
+      "https://github.com/enzet/map-machine"
     ]
   ],
   [
