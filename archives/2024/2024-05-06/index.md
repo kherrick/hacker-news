@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-05-06](index.md)
 
+* [2024-05-06, 11:42:41](https://news.ycombinator.com/item?id=40273469) - [Sony overturns Helldivers 2 PSN requirement following backlash](https://www.eurogamer.net/sony-overturns-helldivers-2-psn-requirement-following-backlash)
+* [2024-05-06, 11:39:24](https://news.ycombinator.com/item?id=40273454) - [Ask HN: People that use jq extensively, I'd like to talk to you](https://news.ycombinator.com/item?id=40273454)
+* [2024-05-06, 11:02:42](https://news.ycombinator.com/item?id=40273243) - [Preview Builds of the Zed Editor Now Available for Linux](https://zed.dev/releases/preview)
+* [2024-05-06, 07:39:52](https://news.ycombinator.com/item?id=40272186) - [A Useful Productivity Measure for Software Engineering?](https://www.jamesshore.com/v2/blog/2024/a-useful-productivity-measure)
 * [2024-05-06, 07:17:59](https://news.ycombinator.com/item?id=40272045) - [LeRobot: Machine Learning for Real-World Robotics in PyTorch](https://github.com/huggingface/lerobot)
 * [2024-05-06, 06:21:41](https://news.ycombinator.com/item?id=40271706) - [Show HN: Supertone Shift – AI powered Real-time voice changer](https://product.supertone.ai/shift)
 * [2024-05-06, 05:40:02](https://news.ycombinator.com/item?id=40271457) - [How LLMs Work, Explained Without Math – Miguel Grinberg](https://blog.miguelgrinberg.com/post/how-llms-work-explained-without-math)
