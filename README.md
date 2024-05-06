@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-06, 13:25:34](https://news.ycombinator.com/item?id=40274371) - [Stack Overflow and OpenAI are partnering](https://stackoverflow.co/company/press/archive/openai-partnership/)
 * [2024-05-06, 12:01:03](https://news.ycombinator.com/item?id=40273598) - [NYU professors who defended vaping didn't disclose ties to Juul](https://www.statnews.com/2024/05/06/juul-vaping-advocates-nyu-professors-non-disclosed-conflict-interest/)
 * [2024-05-06, 12:00:11](https://news.ycombinator.com/item?id=40273587) - [Fern (YC W23) Is Hiring a Customer-Centric Software Engineer](https://www.ycombinator.com/companies/fern/jobs/KmSsgCu-deployed-engineer)
 * [2024-05-06, 11:42:41](https://news.ycombinator.com/item?id=40273470) - [Show HN: A free site to explore and discover 6k plants](https://www.getanyplant.com/plants)
@@ -18,7 +19,6 @@
 * [2024-05-05, 18:45:04](https://news.ycombinator.com/item?id=40267164) - [Flying planes in Microsoft Flight Simulator with a JavaScript autopilot (2023)](https://pomax.github.io/are-we-flying/)
 * [2024-05-05, 18:05:31](https://news.ycombinator.com/item?id=40266845) - [Monitoring energy usage with smart plugs, Prometheus and Grafana](https://ounapuu.ee/posts/2024/05/02/smartplugs/)
 * [2024-05-05, 17:58:13](https://news.ycombinator.com/item?id=40266791) - [Infini-Gram: Scaling unbounded n-gram language models to a trillion tokens](https://arxiv.org/abs/2401.17377)
-* [2024-05-05, 17:17:07](https://news.ycombinator.com/item?id=40266464) - [Simplicity is an advantage but sadly complexity sells better (2022)](https://eugeneyan.com/writing/simplicity/)
 * [2024-05-05, 16:21:33](https://news.ycombinator.com/item?id=40266015) - [ESP32-S3 has a few SIMD instructions](https://bitbanksoftware.blogspot.com/2024/01/surprise-esp32-s3-has-few-simd.html)
 * [2024-05-05, 12:30:44](https://news.ycombinator.com/item?id=40264352) - [Machine Unlearning in 2024](https://ai.stanford.edu/~kzliu/blog/unlearning)
 * [2024-05-05, 11:31:17](https://news.ycombinator.com/item?id=40264042) - [Take a look at Traefik, even if you don't use containers](https://j6b72.de/article/why-you-should-take-a-look-at-traefik/)
