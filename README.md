@@ -19,6 +19,7 @@
 * [2024-05-05, 17:50:12](https://news.ycombinator.com/item?id=40266728) - [Microsoft CTO: Thoughts on OpenAI (2019)](https://twitter.com/techemails/status/1787176471146156193)
 * [2024-05-05, 17:17:07](https://news.ycombinator.com/item?id=40266464) - [Simplicity is an advantage but sadly complexity sells better (2022)](https://eugeneyan.com/writing/simplicity/)
 * [2024-05-05, 16:21:33](https://news.ycombinator.com/item?id=40266015) - [ESP32-S3 has a few SIMD instructions](https://bitbanksoftware.blogspot.com/2024/01/surprise-esp32-s3-has-few-simd.html)
+* [2024-05-05, 15:25:19](https://news.ycombinator.com/item?id=40265552) - [Small Things](https://rishad.substack.com/p/small-things)
 * [2024-05-05, 12:30:44](https://news.ycombinator.com/item?id=40264352) - [Machine Unlearning in 2024](https://ai.stanford.edu/~kzliu/blog/unlearning)
 * [2024-05-05, 11:31:17](https://news.ycombinator.com/item?id=40264042) - [Take a look at Traefik, even if you don't use containers](https://j6b72.de/article/why-you-should-take-a-look-at-traefik/)
 * [2024-05-05, 10:28:17](https://news.ycombinator.com/item?id=40263711) - [Giant Compressed-Air Battery in the Australian Outback](https://www.wired.com/story/hydrostor-compressed-air-battery-california-australia-energy-climate/)
@@ -29,7 +30,6 @@
 * [2024-05-03, 11:23:58](https://news.ycombinator.com/item?id=40246400) - [Interview with Marian Rejewski, the first person to crack Enigma (1974) [video]](https://www.flyingpenguin.com/?p=56989)
 * [2024-05-03, 06:24:23](https://news.ycombinator.com/item?id=40244729) - [Map Machine: Python renderer for OpenStreetMap with custom icons](https://github.com/enzet/map-machine)
 * [2024-05-03, 04:40:43](https://news.ycombinator.com/item?id=40244097) - [Data Science at the Command Line, 2nd Edition (2021)](https://jeroenjanssens.com/dsatcl/)
-* [2024-05-02, 20:48:43](https://news.ycombinator.com/item?id=40241200) - [Befreak is a purely reversible two-dimensional programming language (2003)](http://tunes.org/~iepos/befreak.html)
 
 ## [Archives](archives/index.md)
 
