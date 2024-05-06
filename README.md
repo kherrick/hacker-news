@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-06, 06:21:41](https://news.ycombinator.com/item?id=40271706) - [Show HN: Supertone Shift – AI powered Real-time voice changer](https://product.supertone.ai/shift)
+* [2024-05-06, 05:40:02](https://news.ycombinator.com/item?id=40271457) - [How LLMs Work, Explained Without Math – Miguel Grinberg](https://blog.miguelgrinberg.com/post/how-llms-work-explained-without-math)
 * [2024-05-06, 02:27:06](https://news.ycombinator.com/item?id=40270586) - [Remnants of a legendary typeface have been rescued from the Thames](https://news.artnet.com/art-world/doves-typeface-2454807)
 * [2024-05-05, 23:46:21](https://news.ycombinator.com/item?id=40269680) - [X.org on NetBSD – The State of Things](https://blog.netbsd.org/tnf/entry/x_org_on_netbsd_the)
 * [2024-05-05, 23:32:20](https://news.ycombinator.com/item?id=40269592) - [Drug resistant bacteria found on ISS mutating to become functionally distinct](https://www.nasa.gov/centers-and-facilities/ames/ames-science/ames-space-biosciences/multi-drug-resistant-bacteria-found-on-iss-mutating-to-become-functionally-distinct/)
 * [2024-05-05, 23:12:28](https://news.ycombinator.com/item?id=40269489) - [Deep Reinforcement Learning: Zero to Hero](https://github.com/alessiodm/drl-zh)
-* [2024-05-05, 20:48:37](https://news.ycombinator.com/item?id=40268204) - [“Meta spent almost as much as the Manhattan Project on GPUs in today's dollars”](https://twitter.com/emollick/status/1786213463456448900)
 * [2024-05-05, 19:54:46](https://news.ycombinator.com/item?id=40267675) - [Bollards: Why and What](https://josh.works/bollards)
 * [2024-05-05, 19:53:48](https://news.ycombinator.com/item?id=40267666) - [Social engineering takeovers of open source projects](https://openssf.org/blog/2024/04/15/open-source-security-openssf-and-openjs-foundations-issue-alert-for-social-engineering-takeovers-of-open-source-projects/)
 * [2024-05-05, 19:50:59](https://news.ycombinator.com/item?id=40267639) - [Israel shuts down local Al Jazeera offices](https://www.theguardian.com/world/article/2024/may/05/israel-shuts-down-local-al-jazeera-offices-in-dark-day-for-the-media)
@@ -28,7 +28,7 @@
 * [2024-05-05, 00:03:48](https://news.ycombinator.com/item?id=40261319) - [A mostly complete guide to React rendering behavior (2020)](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
 * [2024-05-03, 17:16:22](https://news.ycombinator.com/item?id=40249968) - [Turning AirPods into a fitness tracker](https://richarddas.com/blog/turning-airpods-into-fitness-trackers-to-fight-cancer/)
 * [2024-05-03, 11:23:58](https://news.ycombinator.com/item?id=40246400) - [Interview with Marian Rejewski, the first person to crack Enigma (1974) [video]](https://www.flyingpenguin.com/?p=56989)
-* [2024-05-03, 07:51:52](https://news.ycombinator.com/item?id=40245261) - [Using a LLM to compress text](https://o565.com/llm-text-compression/)
+* [2024-05-03, 06:24:23](https://news.ycombinator.com/item?id=40244729) - [Map Machine: Python renderer for OpenStreetMap with custom icons](https://github.com/enzet/map-machine)
 * [2024-05-03, 04:40:43](https://news.ycombinator.com/item?id=40244097) - [Data Science at the Command Line, 2nd Edition (2021)](https://jeroenjanssens.com/dsatcl/)
 
 ## [Archives](archives/index.md)
