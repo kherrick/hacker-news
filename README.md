@@ -3,6 +3,7 @@
 * [2024-05-06, 12:01:03](https://news.ycombinator.com/item?id=40273598) - [NYU professors who defended vaping didn't disclose ties to Juul](https://www.statnews.com/2024/05/06/juul-vaping-advocates-nyu-professors-non-disclosed-conflict-interest/)
 * [2024-05-06, 12:00:11](https://news.ycombinator.com/item?id=40273587) - [Fern (YC W23) Is Hiring a Customer-Centric Software Engineer](https://www.ycombinator.com/companies/fern/jobs/KmSsgCu-deployed-engineer)
 * [2024-05-06, 11:42:41](https://news.ycombinator.com/item?id=40273470) - [Show HN: A free site to explore and discover 6k plants](https://www.getanyplant.com/plants)
+* [2024-05-06, 09:45:24](https://news.ycombinator.com/item?id=40272875) - [Pure-PyTorch Implementation of Kolmogorov-Arnold Network (Kan)](https://github.com/Blealtan/efficient-kan)
 * [2024-05-06, 07:39:52](https://news.ycombinator.com/item?id=40272186) - [A Useful Productivity Measure for Software Engineering?](https://www.jamesshore.com/v2/blog/2024/a-useful-productivity-measure)
 * [2024-05-06, 06:21:41](https://news.ycombinator.com/item?id=40271706) - [Show HN: Supertone Shift – AI powered Real-time voice changer](https://product.supertone.ai/shift)
 * [2024-05-06, 04:55:14](https://news.ycombinator.com/item?id=40271242) - [Lix is a modern, delicious implementation of the Nix package manager](https://lix.systems/)
@@ -28,7 +29,6 @@
 * [2024-05-05, 06:02:02](https://news.ycombinator.com/item?id=40262626) - [A High-Level Technical Overview of Homomorphic Encryption](https://www.jeremykun.com/2024/05/04/fhe-overview/)
 * [2024-05-05, 05:42:51](https://news.ycombinator.com/item?id=40262543) - [With PowerPC, Windows CE and the WiiN-Pad Slate, Everyone's a WiiN-Er](http://oldvcr.blogspot.com/2024/05/with-powerpc-windows-ce-and-wiin-pad.html)
 * [2024-05-03, 11:23:58](https://news.ycombinator.com/item?id=40246400) - [Interview with Marian Rejewski, the first person to crack Enigma (1974) [video]](https://www.flyingpenguin.com/?p=56989)
-* [2024-05-03, 06:24:23](https://news.ycombinator.com/item?id=40244729) - [Map Machine: Python renderer for OpenStreetMap with custom icons](https://github.com/enzet/map-machine)
 * [2024-05-03, 04:40:43](https://news.ycombinator.com/item?id=40244097) - [Data Science at the Command Line, 2nd Edition (2021)](https://jeroenjanssens.com/dsatcl/)
 
 ## [Archives](archives/index.md)
