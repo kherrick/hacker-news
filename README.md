@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-06, 18:29:21](https://news.ycombinator.com/item?id=40277895) - [Gas and propane stoves linked to 50k cases of childhood asthma, study finds](https://www.nbcnews.com/health/kids-health/gas-stoves-linked-childhood-asthma-study-rcna150241)
 * [2024-05-06, 18:07:21](https://news.ycombinator.com/item?id=40277610) - [MIT 6.S191: Recurrent Neural Networks, Transformers, and Attention [video]](https://www.youtube.com/watch?v=dqoEU9Ac3ek)
 * [2024-05-06, 18:04:59](https://news.ycombinator.com/item?id=40277581) - [Volcanoes and Us (2015) [video]](https://www.youtube.com/watch?v=GlNhaAV5NZ4)
 * [2024-05-06, 17:57:39](https://news.ycombinator.com/item?id=40277469) - [Results of the Grand C++ Error Explosion Competition](https://tgceec.tumblr.com/post/74534916370/results-of-the-grand-c-error-explosion)
-* [2024-05-06, 17:18:43](https://news.ycombinator.com/item?id=40276957) - [Patagonia's New Study Finds Fleece Jackets Are a Serious Pollutant (2016)](https://www.outsideonline.com/outdoor-gear/gear-news/patagonias-new-study-finds-fleece-jackets-are-serious-pollutant/)
 * [2024-05-06, 17:13:21](https://news.ycombinator.com/item?id=40276887) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-05-06, 17:00:42](https://news.ycombinator.com/item?id=40276768) - [Show HN: Peerdb Streams – Simple, native Postgres change data capture](https://news.ycombinator.com/item?id=40276768)
 * [2024-05-06, 16:56:08](https://news.ycombinator.com/item?id=40276714) - [German public broadcasters open source their streaming platforms](https://www.heise.de/en/news/ARD-und-ZDF-wollen-ihren-Streaming-Code-als-Open-Source-anbieten-9709177.html)

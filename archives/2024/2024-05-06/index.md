@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-06](index.md)
 
+* [2024-05-06, 18:29:21](https://news.ycombinator.com/item?id=40277895) - [Gas and propane stoves linked to 50k cases of childhood asthma, study finds](https://www.nbcnews.com/health/kids-health/gas-stoves-linked-childhood-asthma-study-rcna150241)
 * [2024-05-06, 18:07:21](https://news.ycombinator.com/item?id=40277610) - [MIT 6.S191: Recurrent Neural Networks, Transformers, and Attention [video]](https://www.youtube.com/watch?v=dqoEU9Ac3ek)
 * [2024-05-06, 18:04:59](https://news.ycombinator.com/item?id=40277581) - [Volcanoes and Us (2015) [video]](https://www.youtube.com/watch?v=GlNhaAV5NZ4)
 * [2024-05-06, 17:57:39](https://news.ycombinator.com/item?id=40277469) - [Results of the Grand C++ Error Explosion Competition](https://tgceec.tumblr.com/post/74534916370/results-of-the-grand-c-error-explosion)
