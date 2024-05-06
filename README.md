@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-06, 23:03:34](https://news.ycombinator.com/item?id=40280490) - [Caniemail.com (like caniuse but for email content)](https://www.caniemail.com/)
-* [2024-05-06, 22:31:09](https://news.ycombinator.com/item?id=40280253) - [Teens who discovered new way to prove Pythagoras' theorem uncover more proofs](https://www.theguardian.com/us-news/article/2024/may/06/pythagoras-theorem-proof-new-orleans-teens)
 * [2024-05-06, 21:42:42](https://news.ycombinator.com/item?id=40279823) - [More than 100 arrested in Spain in $900k WhatsApp scheme](https://therecord.media/spain-arrests-whatsapp-impersonation-scams)
 * [2024-05-06, 21:19:55](https://news.ycombinator.com/item?id=40279632) - [Attackers Can Decloak Routing-Based VPNs](https://www.leviathansecurity.com/blog/tunnelvision)
 * [2024-05-06, 21:03:54](https://news.ycombinator.com/item?id=40279499) - [An infinite canvas for code exploration](https://territory.dev)
 * [2024-05-06, 21:00:31](https://news.ycombinator.com/item?id=40279464) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-05-06, 20:45:57](https://news.ycombinator.com/item?id=40279305) - [TOTP Authenticator for PalmOS](https://www.nkorth.com/palm/apps/#totp-authenticator)
+* [2024-05-06, 19:18:08](https://news.ycombinator.com/item?id=40278439) - [The Clowder Project: an online resource for category theory and mathematics](https://www.clowderproject.com/)
 * [2024-05-06, 18:02:59](https://news.ycombinator.com/item?id=40277547) - [New way to have complex discussions](https://cq2.co/blog/the-best-way-to-have-complex-discussions)
 * [2024-05-06, 17:57:39](https://news.ycombinator.com/item?id=40277469) - [Results of the Grand C++ Error Explosion Competition (2014)](https://tgceec.tumblr.com/post/74534916370/results-of-the-grand-c-error-explosion)
 * [2024-05-06, 17:00:42](https://news.ycombinator.com/item?id=40276768) - [Show HN: Peerdb Streams – Simple, native Postgres change data capture](https://news.ycombinator.com/item?id=40276768)
