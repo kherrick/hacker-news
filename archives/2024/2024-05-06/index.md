@@ -4,8 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-05-06](index.md)
 
+* [2024-05-06, 16:54:01](https://news.ycombinator.com/item?id=40276687) - [Ask HN: How to do simple heartbeat monitoring?](https://news.ycombinator.com/item?id=40276687)
+* [2024-05-06, 16:40:30](https://news.ycombinator.com/item?id=40276550) - [Thorn in a HaizeStack test for evaluating long-context adversarial robustness](https://github.com/haizelabs/thorn-in-haizestack)
 * [2024-05-06, 16:31:41](https://news.ycombinator.com/item?id=40276468) - [Riot Games' anti-cheat software will require TPM, Secure Boot on Windows 11](https://arstechnica.com/gaming/2021/09/riot-games-anti-cheat-software-will-require-tpm-secure-boot-on-windows-11/)
+* [2024-05-06, 16:31:05](https://news.ycombinator.com/item?id=40276465) - [Largest model railway launches inductive Formula 1 circuit [video]](https://www.youtube.com/watch?v=1fikd9NfsSA)
+* [2024-05-06, 16:29:03](https://news.ycombinator.com/item?id=40276451) - [Artifact Attestations–now in public beta](https://github.blog/2024-05-02-introducing-artifact-attestations-now-in-public-beta/)
+* [2024-05-06, 15:47:07](https://news.ycombinator.com/item?id=40275986) - [Balsamic vinegar is likely fake](https://www.bbc.com/travel/article/20231024-why-your-balsamic-vinegar-is-likely-fake)
 * [2024-05-06, 15:24:30](https://news.ycombinator.com/item?id=40275759) - [Evaluating bias and noise induced by the U.S. Census Bureau's privacy protection](https://www.science.org/doi/10.1126/sciadv.adl2524)
+* [2024-05-06, 15:15:06](https://news.ycombinator.com/item?id=40275639) - [Large Language Models Are Poor Medical Coders](https://ai.nejm.org/doi/full/10.1056/AIdbp2300040)
 * [2024-05-06, 14:39:41](https://news.ycombinator.com/item?id=40275235) - [Robinhood Crypto Gets Wells Notice from US SEC](https://www.reuters.com/business/finance/robinhood-crypto-gets-wells-notice-us-sec-2024-05-06/)
 * [2024-05-06, 14:17:28](https://news.ycombinator.com/item?id=40274980) - [Teens come up with trigonometry proof for Pythagorean Theorem](https://www.cbsnews.com/news/teens-come-up-with-trigonometry-proof-for-pythagorean-theorem-60-minutes-transcript/)
 * [2024-05-06, 14:04:32](https://news.ycombinator.com/item?id=40274832) - [Video: John Maynard Smith Interviewed by Richard Dawkins](https://www.youtube.com/playlist?list=PLVV0r6CmEsFzJSvAc4MBuUP_GrjO1lLHp)
@@ -21,6 +27,7 @@
 * [2024-05-06, 11:42:41](https://news.ycombinator.com/item?id=40273469) - [Sony overturns Helldivers 2 PSN requirement following backlash](https://www.eurogamer.net/sony-overturns-helldivers-2-psn-requirement-following-backlash)
 * [2024-05-06, 11:39:24](https://news.ycombinator.com/item?id=40273454) - [Ask HN: People that use jq extensively, I'd like to talk to you](https://news.ycombinator.com/item?id=40273454)
 * [2024-05-06, 11:02:42](https://news.ycombinator.com/item?id=40273243) - [Preview Builds of the Zed Editor Now Available for Linux](https://zed.dev/releases/preview)
+* [2024-05-06, 10:50:19](https://news.ycombinator.com/item?id=40273177) - [Ask HN: Interesting TUIs (text user interfaces), maybe forgotten ones?](https://news.ycombinator.com/item?id=40273177)
 * [2024-05-06, 09:45:24](https://news.ycombinator.com/item?id=40272875) - [Pure-PyTorch Implementation of Kolmogorov-Arnold Network (Kan)](https://github.com/Blealtan/efficient-kan)
 * [2024-05-06, 07:39:52](https://news.ycombinator.com/item?id=40272186) - [A Useful Productivity Measure for Software Engineering?](https://www.jamesshore.com/v2/blog/2024/a-useful-productivity-measure)
 * [2024-05-06, 07:17:59](https://news.ycombinator.com/item?id=40272045) - [LeRobot: Machine Learning for Real-World Robotics in PyTorch](https://github.com/huggingface/lerobot)
