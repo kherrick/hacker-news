@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-05-06, 05:40:02",
+      "https://news.ycombinator.com/item?id=40271457"
+    ],
+    [
+      "How LLMs Work, Explained Without Math – Miguel Grinberg",
+      "https://blog.miguelgrinberg.com/post/how-llms-work-explained-without-math"
+    ]
+  ],
+  [
+    [
       "2024-05-06, 02:27:06",
       "https://news.ycombinator.com/item?id=40270586"
     ],
@@ -47,16 +57,6 @@
     [
       "Deep Reinforcement Learning: Zero to Hero",
       "https://github.com/alessiodm/drl-zh"
-    ]
-  ],
-  [
-    [
-      "2024-05-05, 20:48:37",
-      "https://news.ycombinator.com/item?id=40268204"
-    ],
-    [
-      "“Meta spent almost as much as the Manhattan Project on GPUs in today's dollars”",
-      "https://twitter.com/emollick/status/1786213463456448900"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2024-05-03, 07:51:52",
-      "https://news.ycombinator.com/item?id=40245261"
+      "2024-05-03, 06:24:23",
+      "https://news.ycombinator.com/item?id=40244729"
     ],
     [
-      "Using a LLM to compress text",
-      "https://o565.com/llm-text-compression/"
+      "Map Machine: Python renderer for OpenStreetMap with custom icons",
+      "https://github.com/enzet/map-machine"
     ]
   ],
   [
