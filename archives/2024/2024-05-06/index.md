@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-06](index.md)
 
+* [2024-05-06, 21:19:55](https://news.ycombinator.com/item?id=40279632) - [Attackers Can Decloak Routing-Based VPNs](https://www.leviathansecurity.com/blog/tunnelvision)
 * [2024-05-06, 21:00:31](https://news.ycombinator.com/item?id=40279464) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
+* [2024-05-06, 20:45:57](https://news.ycombinator.com/item?id=40279305) - [TOTP Authenticator for PalmOS](https://www.nkorth.com/palm/apps/#totp-authenticator)
 * [2024-05-06, 20:40:15](https://news.ycombinator.com/item?id=40279254) - [Columbia University Cancels Commencement Ceremony After Protests](https://www.wsj.com/us-news/education/columbia-university-cancels-graduation-student-protests-8f865f7f)
 * [2024-05-06, 20:13:41](https://news.ycombinator.com/item?id=40278974) - [Increased Age-Adjusted Cancer Mortality After Third mRNA Vaccine Dose in Japan](https://www.cureus.com/articles/196275-increased-age-adjusted-cancer-mortality-after-the-third-mrna-lipid-nanoparticle-vaccine-dose-during-the-covid-19-pandemic-in-japan)
 * [2024-05-06, 20:06:53](https://news.ycombinator.com/item?id=40278915) - [VC Says Half of Google Staff Do 'No Real Work'](https://www.businessinsider.com/andreessen-horowitz-david-ulevitch-comments-google-employees-managers-fake-work-2024-5)
