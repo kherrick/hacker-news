@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-06](index.md)
 
+* [2024-05-06, 07:17:59](https://news.ycombinator.com/item?id=40272045) - [LeRobot: Machine Learning for Real-World Robotics in PyTorch](https://github.com/huggingface/lerobot)
 * [2024-05-06, 06:21:41](https://news.ycombinator.com/item?id=40271706) - [Show HN: Supertone Shift – AI powered Real-time voice changer](https://product.supertone.ai/shift)
 * [2024-05-06, 05:40:02](https://news.ycombinator.com/item?id=40271457) - [How LLMs Work, Explained Without Math – Miguel Grinberg](https://blog.miguelgrinberg.com/post/how-llms-work-explained-without-math)
 * [2024-05-06, 04:18:59](https://news.ycombinator.com/item?id=40271104) - [Helldivers 2 PSN account linking update will not be moving forward](https://twitter.com/PlayStation/status/1787331667616829929)
