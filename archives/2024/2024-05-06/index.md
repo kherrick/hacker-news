@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-06](index.md)
 
+* [2024-05-06, 12:01:03](https://news.ycombinator.com/item?id=40273598) - [NYU professors who defended vaping didn't disclose ties to Juul](https://www.statnews.com/2024/05/06/juul-vaping-advocates-nyu-professors-non-disclosed-conflict-interest/)
 * [2024-05-06, 12:00:11](https://news.ycombinator.com/item?id=40273587) - [Fern (YC W23) Is Hiring a Customer-Centric Software Engineer](https://www.ycombinator.com/companies/fern/jobs/KmSsgCu-deployed-engineer)
 * [2024-05-06, 11:42:41](https://news.ycombinator.com/item?id=40273469) - [Sony overturns Helldivers 2 PSN requirement following backlash](https://www.eurogamer.net/sony-overturns-helldivers-2-psn-requirement-following-backlash)
 * [2024-05-06, 11:39:24](https://news.ycombinator.com/item?id=40273454) - [Ask HN: People that use jq extensively, I'd like to talk to you](https://news.ycombinator.com/item?id=40273454)

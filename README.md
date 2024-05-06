@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-06, 12:01:03](https://news.ycombinator.com/item?id=40273598) - [NYU professors who defended vaping didn't disclose ties to Juul](https://www.statnews.com/2024/05/06/juul-vaping-advocates-nyu-professors-non-disclosed-conflict-interest/)
 * [2024-05-06, 12:00:11](https://news.ycombinator.com/item?id=40273587) - [Fern (YC W23) Is Hiring a Customer-Centric Software Engineer](https://www.ycombinator.com/companies/fern/jobs/KmSsgCu-deployed-engineer)
-* [2024-05-06, 11:02:42](https://news.ycombinator.com/item?id=40273243) - [Preview Builds of the Zed Editor Now Available for Linux](https://zed.dev/releases/preview)
 * [2024-05-06, 07:39:52](https://news.ycombinator.com/item?id=40272186) - [A Useful Productivity Measure for Software Engineering?](https://www.jamesshore.com/v2/blog/2024/a-useful-productivity-measure)
 * [2024-05-06, 06:21:41](https://news.ycombinator.com/item?id=40271706) - [Show HN: Supertone Shift – AI powered Real-time voice changer](https://product.supertone.ai/shift)
 * [2024-05-06, 02:27:06](https://news.ycombinator.com/item?id=40270586) - [Remnants of a legendary typeface have been rescued from the Thames](https://news.artnet.com/art-world/doves-typeface-2454807)
