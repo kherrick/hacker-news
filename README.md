@@ -15,6 +15,7 @@
 * [2024-05-05, 17:58:13](https://news.ycombinator.com/item?id=40266791) - [Infini-Gram: Scaling unbounded n-gram language models to a trillion tokens](https://arxiv.org/abs/2401.17377)
 * [2024-05-05, 17:50:12](https://news.ycombinator.com/item?id=40266728) - [Microsoft CTO: Thoughts on OpenAI (2019)](https://twitter.com/techemails/status/1787176471146156193)
 * [2024-05-05, 17:17:07](https://news.ycombinator.com/item?id=40266464) - [Simplicity is an advantage but sadly complexity sells better (2022)](https://eugeneyan.com/writing/simplicity/)
+* [2024-05-05, 17:00:48](https://news.ycombinator.com/item?id=40266333) - [Infisical (YC W23) is hiring engineers to build open-source security devtools](https://infisical.com/careers)
 * [2024-05-05, 16:21:33](https://news.ycombinator.com/item?id=40266015) - [ESP32-S3 has a few SIMD instructions](https://bitbanksoftware.blogspot.com/2024/01/surprise-esp32-s3-has-few-simd.html)
 * [2024-05-05, 12:30:44](https://news.ycombinator.com/item?id=40264352) - [Machine Unlearning in 2024](https://ai.stanford.edu/~kzliu/blog/unlearning)
 * [2024-05-05, 12:28:30](https://news.ycombinator.com/item?id=40264337) - [A History of C Compilers – Part 1: Performance, Portability and Freedom](https://thechipletter.substack.com/p/a-history-of-c-compilers-part-1-performance)
@@ -28,7 +29,6 @@
 * [2024-05-05, 00:03:48](https://news.ycombinator.com/item?id=40261319) - [A mostly complete guide to React rendering behavior (2020)](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
 * [2024-05-03, 17:16:22](https://news.ycombinator.com/item?id=40249968) - [Turning AirPods into a fitness tracker](https://richarddas.com/blog/turning-airpods-into-fitness-trackers-to-fight-cancer/)
 * [2024-05-03, 11:23:58](https://news.ycombinator.com/item?id=40246400) - [Interview with Marian Rejewski, the first person to crack Enigma (1974) [video]](https://www.flyingpenguin.com/?p=56989)
-* [2024-05-03, 07:51:52](https://news.ycombinator.com/item?id=40245261) - [Using a LLM to compress text](https://o565.com/llm-text-compression/)
 * [2024-05-03, 04:40:43](https://news.ycombinator.com/item?id=40244097) - [Data Science at the Command Line, 2nd Edition (2021)](https://jeroenjanssens.com/dsatcl/)
 
 ## [Archives](archives/index.md)
