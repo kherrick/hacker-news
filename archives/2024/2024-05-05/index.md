@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-05](index.md)
 
+* [2024-05-05, 23:46:21](https://news.ycombinator.com/item?id=40269680) - [X.org on NetBSD – The State of Things](https://blog.netbsd.org/tnf/entry/x_org_on_netbsd_the)
 * [2024-05-05, 23:12:28](https://news.ycombinator.com/item?id=40269489) - [Deep Reinforcement Learning: Zero to Hero](https://github.com/alessiodm/drl-zh)
 * [2024-05-05, 23:11:54](https://news.ycombinator.com/item?id=40269480) - [The Sam Altman Playbook: Fear, the Denial of Uncertainties, and Hype](https://garymarcus.substack.com/p/the-sam-altman-playbook)
 * [2024-05-05, 21:14:52](https://news.ycombinator.com/item?id=40268463) - [Alan Kay on Donald Knuth](https://twitter.com/fermatslibrary/status/1787105220268380448/photo/1)
@@ -23,6 +24,7 @@
 * [2024-05-05, 17:58:13](https://news.ycombinator.com/item?id=40266791) - [Infini-Gram: Scaling unbounded n-gram language models to a trillion tokens](https://arxiv.org/abs/2401.17377)
 * [2024-05-05, 17:56:55](https://news.ycombinator.com/item?id=40266784) - [Ansible Is a Lisp](https://astrid.tech/2024/05/01/0/ansible-is-a-lisp/)
 * [2024-05-05, 17:50:12](https://news.ycombinator.com/item?id=40266728) - [Microsoft CTO: \"Thoughts on OpenAI\" (2019)](https://twitter.com/techemails/status/1787176471146156193)
+* [2024-05-05, 17:45:37](https://news.ycombinator.com/item?id=40266682) - [What's bad about this habit (2009) [pdf]](https://www.ehu.eus/aitor/irakas/mes/Reference/mermin.pdf)
 * [2024-05-05, 17:40:36](https://news.ycombinator.com/item?id=40266635) - [Stereogram Tutorial (2020)](https://www.ime.usp.br/~otuyama/stereogram/basic/index.html)
 * [2024-05-05, 17:20:26](https://news.ycombinator.com/item?id=40266492) - [Good Ideas in Computer Science](https://danielchasehooper.com/posts/good-ideas-in-cs/)
 * [2024-05-05, 17:17:07](https://news.ycombinator.com/item?id=40266464) - [Simplicity Is an Advantage but Sadly Complexity Sells Better](https://eugeneyan.com/writing/simplicity/)
