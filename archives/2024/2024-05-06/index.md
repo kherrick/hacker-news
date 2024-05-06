@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-06](index.md)
 
+* [2024-05-06, 21:00:31](https://news.ycombinator.com/item?id=40279464) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-05-06, 20:40:15](https://news.ycombinator.com/item?id=40279254) - [Columbia University Cancels Commencement Ceremony After Protests](https://www.wsj.com/us-news/education/columbia-university-cancels-graduation-student-protests-8f865f7f)
 * [2024-05-06, 20:13:41](https://news.ycombinator.com/item?id=40278974) - [Increased Age-Adjusted Cancer Mortality After Third mRNA Vaccine Dose in Japan](https://www.cureus.com/articles/196275-increased-age-adjusted-cancer-mortality-after-the-third-mrna-lipid-nanoparticle-vaccine-dose-during-the-covid-19-pandemic-in-japan)
 * [2024-05-06, 20:06:53](https://news.ycombinator.com/item?id=40278915) - [VC Says Half of Google Staff Do 'No Real Work'](https://www.businessinsider.com/andreessen-horowitz-david-ulevitch-comments-google-employees-managers-fake-work-2024-5)
@@ -28,6 +29,7 @@
 * [2024-05-06, 16:29:03](https://news.ycombinator.com/item?id=40276451) - [Artifact Attestations–now in public beta](https://github.blog/2024-05-02-introducing-artifact-attestations-now-in-public-beta/)
 * [2024-05-06, 16:27:49](https://news.ycombinator.com/item?id=40276442) - [Spending an afternoon in the Sizewell control-room simulator](https://www.bentasker.co.uk/posts/blog/general/an-afternoon-in-sizewell-b-control-room-simulator.html)
 * [2024-05-06, 16:27:26](https://news.ycombinator.com/item?id=40276438) - [Pokémon Go players are altering public map data to catch rare Pokémon](https://arstechnica.com/gaming/2024/05/pokemon-go-players-are-altering-public-map-data-to-catch-rare-pokemon/)
+* [2024-05-06, 16:24:09](https://news.ycombinator.com/item?id=40276399) - [Quantum gravity gets a new test](https://physics.aps.org/articles/v17/65)
 * [2024-05-06, 15:49:59](https://news.ycombinator.com/item?id=40276012) - [How to escape Honda's privacy hell](https://sherwood.news/tech/how-to-opt-out-of-the-privacy-nightmare-that-comes-factory-installed-in-new/)
 * [2024-05-06, 15:48:09](https://news.ycombinator.com/item?id=40275997) - [Clojure: Managing throughput with virtual threads](https://andersmurphy.com/2024/05/06/clojure-managing-throughput-with-virtual-threads.html)
 * [2024-05-06, 15:47:07](https://news.ycombinator.com/item?id=40275986) - [Balsamic vinegar is likely fake](https://www.bbc.com/travel/article/20231024-why-your-balsamic-vinegar-is-likely-fake)
