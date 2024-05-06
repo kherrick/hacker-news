@@ -91,22 +91,22 @@
   ],
   [
     [
-      "2024-05-06, 15:49:59",
-      "https://news.ycombinator.com/item?id=40276012"
-    ],
-    [
-      "How to escape Honda's privacy hell",
-      "https://sherwood.news/tech/how-to-opt-out-of-the-privacy-nightmare-that-comes-factory-installed-in-new/"
-    ]
-  ],
-  [
-    [
       "2024-05-06, 15:48:09",
       "https://news.ycombinator.com/item?id=40275997"
     ],
     [
       "Clojure: Managing throughput with virtual threads",
       "https://andersmurphy.com/2024/05/06/clojure-managing-throughput-with-virtual-threads.html"
+    ]
+  ],
+  [
+    [
+      "2024-05-06, 15:45:50",
+      "https://news.ycombinator.com/item?id=40275973"
+    ],
+    [
+      "Nukefix: Simulating your nuclear weapons program",
+      "http://www.nukefix.org/nukepix.html"
     ]
   ],
   [
@@ -147,6 +147,16 @@
     [
       "A fourteen-day free trial ain’t gonna cut it",
       "https://keygen.sh/blog/your-14-day-free-trial-aint-gonna-cut-it/"
+    ]
+  ],
+  [
+    [
+      "2024-05-06, 13:04:06",
+      "https://news.ycombinator.com/item?id=40274158"
+    ],
+    [
+      "How I think about debt",
+      "https://collabfund.com/blog/how-i-think-about-debt/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Show HN: Rispose.com – A free tool to embed OpenAI Assistants on any website",
       "https://rispose.com"
-    ]
-  ],
-  [
-    [
-      "2024-05-03, 12:45:17",
-      "https://news.ycombinator.com/item?id=40247062"
-    ],
-    [
-      "Building a social network from scratch on a whiteboard",
-      "https://xeiaso.net/talks/2024/shashin/"
     ]
   ]
 ]
