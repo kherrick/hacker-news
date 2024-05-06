@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-06](index.md)
 
+* [2024-05-06, 17:18:43](https://news.ycombinator.com/item?id=40276957) - [Patagonia's New Study Finds Fleece Jackets Are a Serious Pollutant (2016)](https://www.outsideonline.com/outdoor-gear/gear-news/patagonias-new-study-finds-fleece-jackets-are-serious-pollutant/)
 * [2024-05-06, 17:13:21](https://news.ycombinator.com/item?id=40276887) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-05-06, 16:56:08](https://news.ycombinator.com/item?id=40276714) - [German public broadcasters open source their streaming platforms](https://www.heise.de/en/news/ARD-und-ZDF-wollen-ihren-Streaming-Code-als-Open-Source-anbieten-9709177.html)
 * [2024-05-06, 16:54:01](https://news.ycombinator.com/item?id=40276687) - [Ask HN: How to do simple heartbeat monitoring?](https://news.ycombinator.com/item?id=40276687)
