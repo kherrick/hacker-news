@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-06, 16:31:41",
+      "https://news.ycombinator.com/item?id=40276468"
+    ],
+    [
+      "Riot Games' anti-cheat software will require TPM, Secure Boot on Windows 11",
+      "https://arstechnica.com/gaming/2021/09/riot-games-anti-cheat-software-will-require-tpm-secure-boot-on-windows-11/"
+    ]
+  ],
+  [
+    [
       "2024-05-06, 15:24:30",
       "https://news.ycombinator.com/item?id=40275759"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=40274777"
     ],
     [
-      "JTAG Hacking with a Raspberry Pi – Introducing the PiFex",
+      "PiFex: JTAG Hacking with a Raspberry Pi",
       "https://voidstarsec.com/blog/jtag-pifex"
     ]
   ],
@@ -121,6 +131,26 @@
   ],
   [
     [
+      "2024-05-05, 20:26:58",
+      "https://news.ycombinator.com/item?id=40267989"
+    ],
+    [
+      "Quitaversary",
+      "https://johnnydecimal.com/20-29-communication/22-blog/22.00.0036-quitaversary/"
+    ]
+  ],
+  [
+    [
+      "2024-05-05, 19:54:46",
+      "https://news.ycombinator.com/item?id=40267675"
+    ],
+    [
+      "Bollards: Why and What",
+      "https://josh.works/bollards"
+    ]
+  ],
+  [
+    [
       "2024-05-05, 19:40:41",
       "https://news.ycombinator.com/item?id=40267559"
     ],
@@ -137,26 +167,6 @@
     [
       "Designing furniture using the CSS grid (2023)",
       "https://alnvdl.github.io/2023/01/07/designing-furniture-using-the-css-grid.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-05, 18:45:04",
-      "https://news.ycombinator.com/item?id=40267164"
-    ],
-    [
-      "Flying planes in Microsoft Flight Simulator with a JavaScript autopilot (2023)",
-      "https://pomax.github.io/are-we-flying/"
-    ]
-  ],
-  [
-    [
-      "2024-05-05, 18:05:31",
-      "https://news.ycombinator.com/item?id=40266845"
-    ],
-    [
-      "Monitoring energy usage with smart plugs, Prometheus and Grafana",
-      "https://ounapuu.ee/posts/2024/05/02/smartplugs/"
     ]
   ],
   [
@@ -191,22 +201,32 @@
   ],
   [
     [
-      "2024-05-05, 12:30:44",
-      "https://news.ycombinator.com/item?id=40264352"
+      "2024-05-05, 16:09:54",
+      "https://news.ycombinator.com/item?id=40265904"
     ],
     [
-      "Machine Unlearning in 2024",
-      "https://ai.stanford.edu/~kzliu/blog/unlearning"
+      "Visiting the annual Braun collectors fair",
+      "https://arslan.io/2024/05/05/braun-borse-2024/"
     ]
   ],
   [
     [
-      "2024-05-05, 11:31:17",
-      "https://news.ycombinator.com/item?id=40264042"
+      "2024-05-05, 15:54:20",
+      "https://news.ycombinator.com/item?id=40265774"
     ],
     [
-      "Take a look at Traefik, even if you don't use containers",
-      "https://j6b72.de/article/why-you-should-take-a-look-at-traefik/"
+      "Histograms worked",
+      "https://brandur.org/fragments/histograms-worked"
+    ]
+  ],
+  [
+    [
+      "2024-05-05, 15:23:20",
+      "https://news.ycombinator.com/item?id=40265537"
+    ],
+    [
+      "Faster sorted array intersections",
+      "https://softwaredoug.com/blog/2024/05/05/faster-intersect"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "About Project Azorian",
       "https://www.cia.gov/legacy/museum/exhibit/project-azorian/"
-    ]
-  ],
-  [
-    [
-      "2024-05-03, 11:23:58",
-      "https://news.ycombinator.com/item?id=40246400"
-    ],
-    [
-      "Interview with Marian Rejewski, the first person to crack Enigma (1974) [video]",
-      "https://www.flyingpenguin.com/?p=56989"
-    ]
-  ],
-  [
-    [
-      "2024-05-03, 04:40:43",
-      "https://news.ycombinator.com/item?id=40244097"
-    ],
-    [
-      "Data Science at the Command Line, 2nd Edition (2021)",
-      "https://jeroenjanssens.com/dsatcl/"
     ]
   ]
 ]
