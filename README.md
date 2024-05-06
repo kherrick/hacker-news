@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-06, 04:18:59](https://news.ycombinator.com/item?id=40271104) - [Helldivers 2 PSN account linking update will not be moving forward](https://twitter.com/PlayStation/status/1787331667616829929)
 * [2024-05-06, 02:27:06](https://news.ycombinator.com/item?id=40270586) - [Remnants of a Legendary Typeface Have Been Rescued from the River Thames](https://news.artnet.com/art-world/doves-typeface-2454807)
-* [2024-05-06, 00:45:26](https://news.ycombinator.com/item?id=40270029) - [Habeck files: German government deception about the nuclear phase-out](https://www.planet-today.com/2024/04/the-secret-habeck-files-how-german.html)
 * [2024-05-05, 23:46:21](https://news.ycombinator.com/item?id=40269680) - [X.org on NetBSD – The State of Things](https://blog.netbsd.org/tnf/entry/x_org_on_netbsd_the)
 * [2024-05-05, 23:32:20](https://news.ycombinator.com/item?id=40269592) - [Drug resistant bacteria found on ISS mutating to become functionally distinct](https://www.nasa.gov/centers-and-facilities/ames/ames-science/ames-space-biosciences/multi-drug-resistant-bacteria-found-on-iss-mutating-to-become-functionally-distinct/)
 * [2024-05-05, 23:12:28](https://news.ycombinator.com/item?id=40269489) - [Deep Reinforcement Learning: Zero to Hero](https://github.com/alessiodm/drl-zh)
