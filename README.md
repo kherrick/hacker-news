@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-06, 21:51:59](https://news.ycombinator.com/item?id=40279926) - [Framework Laptop EC Driver Being Prepared for Linux](https://www.phoronix.com/news/Framework-Laptop-EC-Driver)
+* [2024-05-06, 21:42:42](https://news.ycombinator.com/item?id=40279823) - [More than 100 arrested in Spain in $900k WhatsApp scheme](https://therecord.media/spain-arrests-whatsapp-impersonation-scams)
 * [2024-05-06, 21:19:55](https://news.ycombinator.com/item?id=40279632) - [Attackers Can Decloak Routing-Based VPNs](https://www.leviathansecurity.com/blog/tunnelvision)
+* [2024-05-06, 21:03:54](https://news.ycombinator.com/item?id=40279499) - [An infinite canvas for code exploration](https://territory.dev)
 * [2024-05-06, 21:00:31](https://news.ycombinator.com/item?id=40279464) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-05-06, 20:45:57](https://news.ycombinator.com/item?id=40279305) - [TOTP Authenticator for PalmOS](https://www.nkorth.com/palm/apps/#totp-authenticator)
 * [2024-05-06, 18:04:59](https://news.ycombinator.com/item?id=40277581) - [Volcanoes and Us (2015) [video]](https://www.youtube.com/watch?v=GlNhaAV5NZ4)
@@ -27,7 +28,6 @@
 * [2024-05-05, 16:09:54](https://news.ycombinator.com/item?id=40265904) - [Visiting the annual Braun collectors fair](https://arslan.io/2024/05/05/braun-borse-2024/)
 * [2024-05-05, 12:01:01](https://news.ycombinator.com/item?id=40264194) - [A bug that spoke Russian and crashed my app](https://imzaldih.com/en/post/bug-spoke-russian-crashed-app/)
 * [2024-05-05, 07:45:46](https://news.ycombinator.com/item?id=40263042) - [The VGA Attribute Controller Is Weird](http://www.os2museum.com/wp/learn-something-old-every-day-part-x-the-vga-attribute-controller-is-weird/)
-* [2024-05-05, 06:02:02](https://news.ycombinator.com/item?id=40262626) - [A High-Level Technical Overview of Homomorphic Encryption](https://www.jeremykun.com/2024/05/04/fhe-overview/)
 * [2024-05-05, 05:42:51](https://news.ycombinator.com/item?id=40262543) - [With PowerPC, Windows CE and the WiiN-Pad Slate, Everyone's a WiiN-Er](http://oldvcr.blogspot.com/2024/05/with-powerpc-windows-ce-and-wiin-pad.html)
 * [2024-05-03, 21:48:43](https://news.ycombinator.com/item?id=40252784) - [Speeding up ELF relocations for store-based systems](https://fzakaria.com/2024/05/03/speeding-up-elf-relocations-for-store-based-systems.html)
 
