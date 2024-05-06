@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-06, 21:46:16](https://news.ycombinator.com/item?id=40279864) - [Boeing faces new probe over 787 inspection doubts](https://www.bbc.com/news/business-68966894)
+* [2024-05-06, 23:03:34](https://news.ycombinator.com/item?id=40280490) - [Caniemail.com (like caniuse but for email content)](https://www.caniemail.com/)
+* [2024-05-06, 22:31:09](https://news.ycombinator.com/item?id=40280253) - [Teens who discovered new way to prove Pythagoras' theorem uncover more proofs](https://www.theguardian.com/us-news/article/2024/may/06/pythagoras-theorem-proof-new-orleans-teens)
 * [2024-05-06, 21:42:42](https://news.ycombinator.com/item?id=40279823) - [More than 100 arrested in Spain in $900k WhatsApp scheme](https://therecord.media/spain-arrests-whatsapp-impersonation-scams)
 * [2024-05-06, 21:19:55](https://news.ycombinator.com/item?id=40279632) - [Attackers Can Decloak Routing-Based VPNs](https://www.leviathansecurity.com/blog/tunnelvision)
 * [2024-05-06, 21:03:54](https://news.ycombinator.com/item?id=40279499) - [An infinite canvas for code exploration](https://territory.dev)
@@ -23,7 +24,6 @@
 * [2024-05-06, 10:50:48](https://news.ycombinator.com/item?id=40273180) - [Color Concepts 101 (2001) [pdf]](https://developers.hp.com/system/files/Color_Concepts_101_0.pdf)
 * [2024-05-06, 08:50:28](https://news.ycombinator.com/item?id=40272577) - [World Food Atlas: Discover local dishes and ingredients](https://www.tasteatlas.com/map)
 * [2024-05-06, 07:39:52](https://news.ycombinator.com/item?id=40272186) - [A useful productivity measure?](https://www.jamesshore.com/v2/blog/2024/a-useful-productivity-measure)
-* [2024-05-06, 04:52:21](https://news.ycombinator.com/item?id=40271232) - [Ask HN: How do you switch between multiple programming languages while coding?](https://news.ycombinator.com/item?id=40271232)
 * [2024-05-06, 01:16:26](https://news.ycombinator.com/item?id=40270219) - [BlackHole: macOS Audio Loopback Driver](https://github.com/ExistentialAudio/BlackHole)
 * [2024-05-05, 18:12:57](https://news.ycombinator.com/item?id=40266922) - [Understanding UMAP (2019)](https://pair-code.github.io/understanding-umap/)
 * [2024-05-05, 16:09:54](https://news.ycombinator.com/item?id=40265904) - [Visiting the annual Braun collectors fair](https://arslan.io/2024/05/05/braun-borse-2024/)

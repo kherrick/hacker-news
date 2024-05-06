@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-06](index.md)
 
+* [2024-05-06, 23:03:34](https://news.ycombinator.com/item?id=40280490) - [Caniemail.com (like caniuse but for email content)](https://www.caniemail.com/)
+* [2024-05-06, 22:31:09](https://news.ycombinator.com/item?id=40280253) - [Teens who discovered new way to prove Pythagoras' theorem uncover more proofs](https://www.theguardian.com/us-news/article/2024/may/06/pythagoras-theorem-proof-new-orleans-teens)
 * [2024-05-06, 21:51:59](https://news.ycombinator.com/item?id=40279926) - [Framework Laptop EC Driver Being Prepared for Linux](https://www.phoronix.com/news/Framework-Laptop-EC-Driver)
 * [2024-05-06, 21:46:16](https://news.ycombinator.com/item?id=40279864) - [Boeing faces new probe over 787 inspection doubts](https://www.bbc.com/news/business-68966894)
 * [2024-05-06, 21:42:42](https://news.ycombinator.com/item?id=40279823) - [More than 100 arrested in Spain in $900k WhatsApp scheme](https://therecord.media/spain-arrests-whatsapp-impersonation-scams)
