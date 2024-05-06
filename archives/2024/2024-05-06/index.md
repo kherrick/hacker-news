@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-06](index.md)
 
+* [2024-05-06, 16:31:41](https://news.ycombinator.com/item?id=40276468) - [Riot Games' anti-cheat software will require TPM, Secure Boot on Windows 11](https://arstechnica.com/gaming/2021/09/riot-games-anti-cheat-software-will-require-tpm-secure-boot-on-windows-11/)
 * [2024-05-06, 15:24:30](https://news.ycombinator.com/item?id=40275759) - [Evaluating bias and noise induced by the U.S. Census Bureau's privacy protection](https://www.science.org/doi/10.1126/sciadv.adl2524)
 * [2024-05-06, 14:39:41](https://news.ycombinator.com/item?id=40275235) - [Robinhood Crypto Gets Wells Notice from US SEC](https://www.reuters.com/business/finance/robinhood-crypto-gets-wells-notice-us-sec-2024-05-06/)
 * [2024-05-06, 14:17:28](https://news.ycombinator.com/item?id=40274980) - [Teens come up with trigonometry proof for Pythagorean Theorem](https://www.cbsnews.com/news/teens-come-up-with-trigonometry-proof-for-pythagorean-theorem-60-minutes-transcript/)
