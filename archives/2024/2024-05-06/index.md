@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-06](index.md)
 
+* [2024-05-06, 15:24:30](https://news.ycombinator.com/item?id=40275759) - [Evaluating bias and noise induced by the U.S. Census Bureau's privacy protection](https://www.science.org/doi/10.1126/sciadv.adl2524)
 * [2024-05-06, 14:17:28](https://news.ycombinator.com/item?id=40274980) - [Teens come up with trigonometry proof for Pythagorean Theorem](https://www.cbsnews.com/news/teens-come-up-with-trigonometry-proof-for-pythagorean-theorem-60-minutes-transcript/)
 * [2024-05-06, 14:04:32](https://news.ycombinator.com/item?id=40274832) - [Video: John Maynard Smith Interviewed by Richard Dawkins](https://www.youtube.com/playlist?list=PLVV0r6CmEsFzJSvAc4MBuUP_GrjO1lLHp)
 * [2024-05-06, 13:59:42](https://news.ycombinator.com/item?id=40274777) - [JTAG Hacking with a Raspberry Pi – Introducing the PiFex](https://voidstarsec.com/blog/jtag-pifex)
