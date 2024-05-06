@@ -50,6 +50,7 @@
 * [2024-05-05, 12:00:26](https://news.ycombinator.com/item?id=40264192) - [Fern (YC W23) Is Hiring a Back End Engineer in NYC](https://www.ycombinator.com/companies/fern/jobs/9mMCMnY-backend-engineer)
 * [2024-05-05, 11:58:46](https://news.ycombinator.com/item?id=40264182) - [A Visual History of Windows Icons: From Windows 1 to 11 (2011)](https://www.howtogeek.com/733912/a-visual-history-of-windows-icons-from-windows-1-to-11/)
 * [2024-05-05, 11:31:17](https://news.ycombinator.com/item?id=40264042) - [Take a look at traefik, even if you don't use containers](https://j6b72.de/article/why-you-should-take-a-look-at-traefik/)
+* [2024-05-05, 11:30:04](https://news.ycombinator.com/item?id=40264033) - [Vintage Style Mandelbrot Map](https://www.mandelmap.com)
 * [2024-05-05, 11:16:19](https://news.ycombinator.com/item?id=40263975) - [Rabbit R1 can be run on a Android device](https://www.androidauthority.com/rabbit-r1-bespoke-android-3439760/)
 * [2024-05-05, 10:28:17](https://news.ycombinator.com/item?id=40263711) - [Giant Compressed-Air Battery in the Australian Outback](https://www.wired.com/story/hydrostor-compressed-air-battery-california-australia-energy-climate/)
 * [2024-05-05, 09:44:28](https://news.ycombinator.com/item?id=40263479) - [Debian 64-bit-time transition](https://wiki.debian.org/ReleaseGoals/64bit-time)
