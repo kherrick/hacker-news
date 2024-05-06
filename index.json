@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-06, 01:06:46",
+      "https://news.ycombinator.com/item?id=40270161"
+    ],
+    [
+      "Shibboleth",
+      "https://www.newyorker.com/news/essay/shibboleth-the-role-of-words-in-the-campus-protests"
+    ]
+  ],
+  [
+    [
       "2024-05-05, 23:46:21",
       "https://news.ycombinator.com/item?id=40269680"
     ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=40268204"
     ],
     [
-      "\"Meta spent almost as much as the Manhattan Project on GPUs in today's dollars\"",
+      "“Meta spent almost as much as the Manhattan Project on GPUs in today's dollars”",
       "https://twitter.com/emollick/status/1786213463456448900"
     ]
   ],
@@ -237,16 +247,6 @@
     [
       "The robustness of some fossil leaf venation networks to simulated damage",
       "https://royalsocietypublishing.org/doi/10.1098/rsos.240086"
-    ]
-  ],
-  [
-    [
-      "2024-05-04, 07:14:14",
-      "https://news.ycombinator.com/item?id=40255611"
-    ],
-    [
-      "Plotille: Plot in the terminal using Braille dots",
-      "https://github.com/tammoippen/plotille"
     ]
   ],
   [
