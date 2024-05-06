@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-06, 07:17:59](https://news.ycombinator.com/item?id=40272045) - [LeRobot: Machine Learning for Real-World Robotics in PyTorch](https://github.com/huggingface/lerobot)
 * [2024-05-06, 06:21:41](https://news.ycombinator.com/item?id=40271706) - [Show HN: Supertone Shift – AI powered Real-time voice changer](https://product.supertone.ai/shift)
 * [2024-05-06, 05:40:02](https://news.ycombinator.com/item?id=40271457) - [How LLMs Work, Explained Without Math](https://blog.miguelgrinberg.com/post/how-llms-work-explained-without-math)
 * [2024-05-06, 02:27:06](https://news.ycombinator.com/item?id=40270586) - [Remnants of a legendary typeface have been rescued from the Thames](https://news.artnet.com/art-world/doves-typeface-2454807)
@@ -10,6 +9,7 @@
 * [2024-05-05, 23:12:28](https://news.ycombinator.com/item?id=40269489) - [Deep Reinforcement Learning: Zero to Hero](https://github.com/alessiodm/drl-zh)
 * [2024-05-05, 19:54:46](https://news.ycombinator.com/item?id=40267675) - [Bollards: Why and What](https://josh.works/bollards)
 * [2024-05-05, 19:53:48](https://news.ycombinator.com/item?id=40267666) - [Social engineering takeovers of open source projects](https://openssf.org/blog/2024/04/15/open-source-security-openssf-and-openjs-foundations-issue-alert-for-social-engineering-takeovers-of-open-source-projects/)
+* [2024-05-05, 19:50:59](https://news.ycombinator.com/item?id=40267639) - [Israel shuts down local Al Jazeera offices](https://www.theguardian.com/world/article/2024/may/05/israel-shuts-down-local-al-jazeera-offices-in-dark-day-for-the-media)
 * [2024-05-05, 19:40:41](https://news.ycombinator.com/item?id=40267559) - [TheDesk desktop environment](https://github.com/theCheeseboard/thedesk)
 * [2024-05-05, 18:47:46](https://news.ycombinator.com/item?id=40267182) - [Designing furniture using the CSS grid (2023)](https://alnvdl.github.io/2023/01/07/designing-furniture-using-the-css-grid.html)
 * [2024-05-05, 18:45:04](https://news.ycombinator.com/item?id=40267164) - [Flying planes in Microsoft Flight Simulator with a JavaScript autopilot (2023)](https://pomax.github.io/are-we-flying/)
