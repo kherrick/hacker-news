@@ -11,6 +11,7 @@
 * [2024-05-06, 13:25:34](https://news.ycombinator.com/item?id=40274371) - [Stack Overflow and OpenAI are partnering](https://stackoverflow.co/company/press/archive/openai-partnership/)
 * [2024-05-06, 13:04:06](https://news.ycombinator.com/item?id=40274158) - [How I Think About Debt](https://collabfund.com/blog/how-i-think-about-debt/)
 * [2024-05-06, 12:26:37](https://news.ycombinator.com/item?id=40273824) - [Anduril Announces Pulsar Family of AI-Enabled Electromagnetic Warfare Systems](https://www.anduril.com/article/anduril-announces-pulsar/)
+* [2024-05-06, 12:21:07](https://news.ycombinator.com/item?id=40273780) - [Daniel Dennett: 'Where Am I?'](https://thereader.mitpress.mit.edu/daniel-dennett-where-am-i/)
 * [2024-05-06, 12:01:03](https://news.ycombinator.com/item?id=40273598) - [NYU professors who defended vaping didn't disclose ties to Juul](https://www.statnews.com/2024/05/06/juul-vaping-advocates-nyu-professors-non-disclosed-conflict-interest/)
 * [2024-05-06, 12:00:11](https://news.ycombinator.com/item?id=40273587) - [Fern (YC W23) Is Hiring a Customer-Centric Software Engineer](https://www.ycombinator.com/companies/fern/jobs/KmSsgCu-deployed-engineer)
 * [2024-05-06, 11:42:41](https://news.ycombinator.com/item?id=40273470) - [Show HN: A free site to explore and discover 6k plants](https://www.getanyplant.com/plants)
