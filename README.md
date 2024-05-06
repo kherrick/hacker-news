@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-06, 03:36:02](https://news.ycombinator.com/item?id=40270911) - [Show HN: CodeCopilot AI – Local Llama3,Optimize Your Dev Workflows,Happy Coding](https://codecopilotai.com)
 * [2024-05-06, 02:27:06](https://news.ycombinator.com/item?id=40270586) - [Remnants of a Legendary Typeface Have Been Rescued from the River Thames](https://news.artnet.com/art-world/doves-typeface-2454807)
 * [2024-05-05, 23:46:21](https://news.ycombinator.com/item?id=40269680) - [X.org on NetBSD – The State of Things](https://blog.netbsd.org/tnf/entry/x_org_on_netbsd_the)
 * [2024-05-05, 23:32:20](https://news.ycombinator.com/item?id=40269592) - [Drug resistant bacteria found on ISS mutating to become functionally distinct](https://www.nasa.gov/centers-and-facilities/ames/ames-science/ames-space-biosciences/multi-drug-resistant-bacteria-found-on-iss-mutating-to-become-functionally-distinct/)
@@ -29,6 +28,7 @@
 * [2024-05-05, 00:03:48](https://news.ycombinator.com/item?id=40261319) - [A mostly complete guide to React rendering behavior (2020)](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
 * [2024-05-03, 17:16:22](https://news.ycombinator.com/item?id=40249968) - [Turning AirPods into a fitness tracker](https://richarddas.com/blog/turning-airpods-into-fitness-trackers-to-fight-cancer/)
 * [2024-05-03, 11:23:58](https://news.ycombinator.com/item?id=40246400) - [Interview with Marian Rejewski, the first person to crack Enigma (1974) [video]](https://www.flyingpenguin.com/?p=56989)
+* [2024-05-03, 07:51:52](https://news.ycombinator.com/item?id=40245261) - [Using a LLM to compress text](https://o565.com/llm-text-compression/)
 * [2024-05-03, 04:40:43](https://news.ycombinator.com/item?id=40244097) - [Data Science at the Command Line, 2nd Edition (2021)](https://jeroenjanssens.com/dsatcl/)
 
 ## [Archives](archives/index.md)
