@@ -31,11 +31,21 @@
   ],
   [
     [
+      "2024-05-06, 18:02:59",
+      "https://news.ycombinator.com/item?id=40277547"
+    ],
+    [
+      "New way to have complex discussions",
+      "https://cq2.co/blog/the-best-way-to-have-complex-discussions"
+    ]
+  ],
+  [
+    [
       "2024-05-06, 17:57:39",
       "https://news.ycombinator.com/item?id=40277469"
     ],
     [
-      "Results of the Grand C++ Error Explosion Competition",
+      "Results of the Grand C++ Error Explosion Competition (2014)",
       "https://tgceec.tumblr.com/post/74534916370/results-of-the-grand-c-error-explosion"
     ]
   ],
@@ -77,16 +87,6 @@
     [
       "Ask HN: How to do simple heartbeat monitoring?",
       "https://news.ycombinator.com/item?id=40276687"
-    ]
-  ],
-  [
-    [
-      "2024-05-06, 16:40:30",
-      "https://news.ycombinator.com/item?id=40276550"
-    ],
-    [
-      "Thorn in a HaizeStack test for evaluating long-context adversarial robustness",
-      "https://github.com/haizelabs/thorn-in-haizestack"
     ]
   ],
   [
@@ -271,22 +271,22 @@
   ],
   [
     [
+      "2024-05-05, 06:02:02",
+      "https://news.ycombinator.com/item?id=40262626"
+    ],
+    [
+      "A High-Level Technical Overview of Homomorphic Encryption",
+      "https://www.jeremykun.com/2024/05/04/fhe-overview/"
+    ]
+  ],
+  [
+    [
       "2024-05-05, 05:42:51",
       "https://news.ycombinator.com/item?id=40262543"
     ],
     [
       "With PowerPC, Windows CE and the WiiN-Pad Slate, Everyone's a WiiN-Er",
       "http://oldvcr.blogspot.com/2024/05/with-powerpc-windows-ce-and-wiin-pad.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-04, 23:56:47",
-      "https://news.ycombinator.com/item?id=40261279"
-    ],
-    [
-      "Show HN: Kubernates in Node.js",
-      "https://github.com/Megapixel99/nodejs-k8s"
     ]
   ],
   [
