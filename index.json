@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-05-06, 21:19:55",
+      "https://news.ycombinator.com/item?id=40279632"
+    ],
+    [
+      "Attackers Can Decloak Routing-Based VPNs",
+      "https://www.leviathansecurity.com/blog/tunnelvision"
+    ]
+  ],
+  [
+    [
       "2024-05-06, 21:00:31",
       "https://news.ycombinator.com/item?id=40279464"
     ],
     [
       "Continue (YC S23) is hiring a founding engineer in San Francisco",
       "https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer"
+    ]
+  ],
+  [
+    [
+      "2024-05-06, 20:45:57",
+      "https://news.ycombinator.com/item?id=40279305"
+    ],
+    [
+      "TOTP Authenticator for PalmOS",
+      "https://www.nkorth.com/palm/apps/#totp-authenticator"
     ]
   ],
   [
@@ -61,16 +81,6 @@
   ],
   [
     [
-      "2024-05-06, 16:40:30",
-      "https://news.ycombinator.com/item?id=40276550"
-    ],
-    [
-      "Thorn in a HaizeStack test for evaluating long-context adversarial robustness",
-      "https://github.com/haizelabs/thorn-in-haizestack"
-    ]
-  ],
-  [
-    [
       "2024-05-06, 16:27:49",
       "https://news.ycombinator.com/item?id=40276442"
     ],
@@ -87,16 +97,6 @@
     [
       "Quantum gravity gets a new test",
       "https://physics.aps.org/articles/v17/65"
-    ]
-  ],
-  [
-    [
-      "2024-05-06, 16:12:15",
-      "https://news.ycombinator.com/item?id=40276273"
-    ],
-    [
-      "Alzheimer's disease may be inherited more often than previously known",
-      "https://www.cnn.com/2024/05/06/health/alzheimers-apoe4-gene-risk/index.html"
     ]
   ],
   [
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2024-05-05, 18:12:57",
+      "https://news.ycombinator.com/item?id=40266922"
+    ],
+    [
+      "Understanding UMAP (2019)",
+      "https://pair-code.github.io/understanding-umap/"
+    ]
+  ],
+  [
+    [
       "2024-05-05, 16:09:54",
       "https://news.ycombinator.com/item?id=40265904"
     ],
@@ -277,16 +287,6 @@
     [
       "With PowerPC, Windows CE and the WiiN-Pad Slate, Everyone's a WiiN-Er",
       "http://oldvcr.blogspot.com/2024/05/with-powerpc-windows-ce-and-wiin-pad.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-04, 23:53:57",
-      "https://news.ycombinator.com/item?id=40261267"
-    ],
-    [
-      "Project AZORIAN",
-      "https://www.cia.gov/legacy/museum/exhibit/project-azorian/"
     ]
   ],
   [
