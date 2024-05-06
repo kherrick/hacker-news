@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-06, 21:51:59](https://news.ycombinator.com/item?id=40279926) - [Framework Laptop EC Driver Being Prepared for Linux](https://www.phoronix.com/news/Framework-Laptop-EC-Driver)
 * [2024-05-06, 21:19:55](https://news.ycombinator.com/item?id=40279632) - [Attackers Can Decloak Routing-Based VPNs](https://www.leviathansecurity.com/blog/tunnelvision)
 * [2024-05-06, 21:00:31](https://news.ycombinator.com/item?id=40279464) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-05-06, 20:45:57](https://news.ycombinator.com/item?id=40279305) - [TOTP Authenticator for PalmOS](https://www.nkorth.com/palm/apps/#totp-authenticator)
@@ -14,7 +15,6 @@
 * [2024-05-06, 15:45:50](https://news.ycombinator.com/item?id=40275973) - [Nukefix: Simulating your nuclear weapons program](http://www.nukefix.org/nukepix.html)
 * [2024-05-06, 15:24:30](https://news.ycombinator.com/item?id=40275759) - [Evaluating bias and noise induced by the U.S. Census Bureau's privacy protection](https://www.science.org/doi/10.1126/sciadv.adl2524)
 * [2024-05-06, 13:59:42](https://news.ycombinator.com/item?id=40274777) - [PiFex: JTAG Hacking with a Raspberry Pi](https://voidstarsec.com/blog/jtag-pifex)
-* [2024-05-06, 13:50:10](https://news.ycombinator.com/item?id=40274662) - [A fourteen-day free trial ain’t gonna cut it](https://keygen.sh/blog/your-14-day-free-trial-aint-gonna-cut-it/)
 * [2024-05-06, 13:04:06](https://news.ycombinator.com/item?id=40274158) - [How I think about debt](https://collabfund.com/blog/how-i-think-about-debt/)
 * [2024-05-06, 12:05:34](https://news.ycombinator.com/item?id=40273651) - [Alternative clouds are booming as companies seek cheaper access to GPUs](https://techcrunch.com/2024/05/05/coreweaves-1-1b-raise-shows-the-market-for-alternative-clouds-is-booming/)
 * [2024-05-06, 11:42:41](https://news.ycombinator.com/item?id=40273470) - [Show HN: A free site to explore and discover 6k plants](https://www.getanyplant.com/plants)
