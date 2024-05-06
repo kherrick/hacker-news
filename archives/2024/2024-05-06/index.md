@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-06](index.md)
 
+* [2024-05-06, 14:17:28](https://news.ycombinator.com/item?id=40274980) - [Teens come up with trigonometry proof for Pythagorean Theorem](https://www.cbsnews.com/news/teens-come-up-with-trigonometry-proof-for-pythagorean-theorem-60-minutes-transcript/)
+* [2024-05-06, 14:04:32](https://news.ycombinator.com/item?id=40274832) - [Video: John Maynard Smith Interviewed by Richard Dawkins](https://www.youtube.com/playlist?list=PLVV0r6CmEsFzJSvAc4MBuUP_GrjO1lLHp)
 * [2024-05-06, 13:50:10](https://news.ycombinator.com/item?id=40274662) - [A fourteen-day free trial ain’t gonna cut it](https://keygen.sh/blog/your-14-day-free-trial-aint-gonna-cut-it/)
 * [2024-05-06, 13:25:34](https://news.ycombinator.com/item?id=40274371) - [Stack Overflow and OpenAI are partnering](https://stackoverflow.co/company/press/archive/openai-partnership/)
 * [2024-05-06, 13:04:06](https://news.ycombinator.com/item?id=40274158) - [How I Think About Debt](https://collabfund.com/blog/how-i-think-about-debt/)
