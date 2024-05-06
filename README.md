@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-06, 20:40:15](https://news.ycombinator.com/item?id=40279254) - [Columbia University Cancels Commencement Ceremony After Protests](https://www.wsj.com/us-news/education/columbia-university-cancels-graduation-student-protests-8f865f7f)
 * [2024-05-06, 18:33:33](https://news.ycombinator.com/item?id=40277933) - [Ask HN: What Nonfiction Books Do You Keep Rereading?](https://news.ycombinator.com/item?id=40277933)
 * [2024-05-06, 18:04:59](https://news.ycombinator.com/item?id=40277581) - [Volcanoes and Us (2015) [video]](https://www.youtube.com/watch?v=GlNhaAV5NZ4)
 * [2024-05-06, 18:02:59](https://news.ycombinator.com/item?id=40277547) - [New way to have complex discussions](https://cq2.co/blog/the-best-way-to-have-complex-discussions)
@@ -20,7 +21,6 @@
 * [2024-05-06, 10:50:48](https://news.ycombinator.com/item?id=40273180) - [Color Concepts 101 (2001) [pdf]](https://developers.hp.com/system/files/Color_Concepts_101_0.pdf)
 * [2024-05-06, 08:50:28](https://news.ycombinator.com/item?id=40272577) - [World Food Atlas: Discover local dishes and ingredients](https://www.tasteatlas.com/map)
 * [2024-05-06, 07:39:52](https://news.ycombinator.com/item?id=40272186) - [A useful productivity measure?](https://www.jamesshore.com/v2/blog/2024/a-useful-productivity-measure)
-* [2024-05-06, 05:55:06](https://news.ycombinator.com/item?id=40271548) - [Testing a new version of Stack Overflow Jobs](https://meta.stackexchange.com/questions/399440/testing-a-new-version-of-stack-overflow-jobs)
 * [2024-05-06, 02:27:06](https://news.ycombinator.com/item?id=40270586) - [Remnants of a legendary typeface have been rescued from the Thames](https://news.artnet.com/art-world/doves-typeface-2454807)
 * [2024-05-06, 01:16:26](https://news.ycombinator.com/item?id=40270219) - [BlackHole: macOS Audio Loopback Driver](https://github.com/ExistentialAudio/BlackHole)
 * [2024-05-05, 16:09:54](https://news.ycombinator.com/item?id=40265904) - [Visiting the annual Braun collectors fair](https://arslan.io/2024/05/05/braun-borse-2024/)

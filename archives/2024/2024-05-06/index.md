@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-06](index.md)
 
+* [2024-05-06, 20:40:15](https://news.ycombinator.com/item?id=40279254) - [Columbia University Cancels Commencement Ceremony After Protests](https://www.wsj.com/us-news/education/columbia-university-cancels-graduation-student-protests-8f865f7f)
 * [2024-05-06, 20:13:41](https://news.ycombinator.com/item?id=40278974) - [Increased Age-Adjusted Cancer Mortality After Third mRNA Vaccine Dose in Japan](https://www.cureus.com/articles/196275-increased-age-adjusted-cancer-mortality-after-the-third-mrna-lipid-nanoparticle-vaccine-dose-during-the-covid-19-pandemic-in-japan)
 * [2024-05-06, 20:06:53](https://news.ycombinator.com/item?id=40278915) - [VC Says Half of Google Staff Do 'No Real Work'](https://www.businessinsider.com/andreessen-horowitz-david-ulevitch-comments-google-employees-managers-fake-work-2024-5)
 * [2024-05-06, 19:37:22](https://news.ycombinator.com/item?id=40278656) - [T2 Linux 24.5 Released for 25 architectures](https://t2sde.org/releases/24.5.html)
