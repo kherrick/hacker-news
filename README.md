@@ -9,12 +9,13 @@
 * [2024-05-06, 16:40:30](https://news.ycombinator.com/item?id=40276550) - [Thorn in a HaizeStack test for evaluating long-context adversarial robustness](https://github.com/haizelabs/thorn-in-haizestack)
 * [2024-05-06, 16:27:49](https://news.ycombinator.com/item?id=40276442) - [Spending an afternoon in the Sizewell control-room simulator](https://www.bentasker.co.uk/posts/blog/general/an-afternoon-in-sizewell-b-control-room-simulator.html)
 * [2024-05-06, 16:27:26](https://news.ycombinator.com/item?id=40276438) - [Pokémon Go players are altering public map data to catch rare Pokémon](https://arstechnica.com/gaming/2024/05/pokemon-go-players-are-altering-public-map-data-to-catch-rare-pokemon/)
-* [2024-05-06, 15:49:59](https://news.ycombinator.com/item?id=40276012) - [How to escape Honda's privacy hell](https://sherwood.news/tech/how-to-opt-out-of-the-privacy-nightmare-that-comes-factory-installed-in-new/)
 * [2024-05-06, 15:48:09](https://news.ycombinator.com/item?id=40275997) - [Clojure: Managing throughput with virtual threads](https://andersmurphy.com/2024/05/06/clojure-managing-throughput-with-virtual-threads.html)
+* [2024-05-06, 15:45:50](https://news.ycombinator.com/item?id=40275973) - [Nukefix: Simulating your nuclear weapons program](http://www.nukefix.org/nukepix.html)
 * [2024-05-06, 15:45:46](https://news.ycombinator.com/item?id=40275969) - [Show HN: Touvlo – Technical Interviewing for Hardware Engineers (By Humans)](https://touvlo.co)
 * [2024-05-06, 15:24:30](https://news.ycombinator.com/item?id=40275759) - [Evaluating bias and noise induced by the U.S. Census Bureau's privacy protection](https://www.science.org/doi/10.1126/sciadv.adl2524)
 * [2024-05-06, 13:59:42](https://news.ycombinator.com/item?id=40274777) - [PiFex: JTAG Hacking with a Raspberry Pi](https://voidstarsec.com/blog/jtag-pifex)
 * [2024-05-06, 13:50:10](https://news.ycombinator.com/item?id=40274662) - [A fourteen-day free trial ain’t gonna cut it](https://keygen.sh/blog/your-14-day-free-trial-aint-gonna-cut-it/)
+* [2024-05-06, 13:04:06](https://news.ycombinator.com/item?id=40274158) - [How I think about debt](https://collabfund.com/blog/how-i-think-about-debt/)
 * [2024-05-06, 12:21:07](https://news.ycombinator.com/item?id=40273780) - [Daniel Dennett: 'Where Am I?'](https://thereader.mitpress.mit.edu/daniel-dennett-where-am-i/)
 * [2024-05-06, 12:05:34](https://news.ycombinator.com/item?id=40273651) - [Alternative clouds are booming as companies seek cheaper access to GPUs](https://techcrunch.com/2024/05/05/coreweaves-1-1b-raise-shows-the-market-for-alternative-clouds-is-booming/)
 * [2024-05-06, 11:42:41](https://news.ycombinator.com/item?id=40273470) - [Show HN: A free site to explore and discover 6k plants](https://www.getanyplant.com/plants)
@@ -29,7 +30,6 @@
 * [2024-05-04, 23:56:47](https://news.ycombinator.com/item?id=40261279) - [Show HN: Kubernates in Node.js](https://github.com/Megapixel99/nodejs-k8s)
 * [2024-05-04, 23:53:57](https://news.ycombinator.com/item?id=40261267) - [Project AZORIAN](https://www.cia.gov/legacy/museum/exhibit/project-azorian/)
 * [2024-05-03, 13:08:24](https://news.ycombinator.com/item?id=40247270) - [Show HN: Rispose.com – A free tool to embed OpenAI Assistants on any website](https://rispose.com)
-* [2024-05-03, 12:45:17](https://news.ycombinator.com/item?id=40247062) - [Building a social network from scratch on a whiteboard](https://xeiaso.net/talks/2024/shashin/)
 
 ## [Archives](archives/index.md)
 
