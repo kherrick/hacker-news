@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-06, 19:18:24](https://news.ycombinator.com/item?id=40278444) - [Reply Guys](https://notes.ghed.in/posts/2024/reply-guys/)
 * [2024-05-06, 18:04:59](https://news.ycombinator.com/item?id=40277581) - [Volcanoes and Us (2015) [video]](https://www.youtube.com/watch?v=GlNhaAV5NZ4)
 * [2024-05-06, 18:02:59](https://news.ycombinator.com/item?id=40277547) - [New way to have complex discussions](https://cq2.co/blog/the-best-way-to-have-complex-discussions)
 * [2024-05-06, 17:57:39](https://news.ycombinator.com/item?id=40277469) - [Results of the Grand C++ Error Explosion Competition (2014)](https://tgceec.tumblr.com/post/74534916370/results-of-the-grand-c-error-explosion)
@@ -27,6 +26,7 @@
 * [2024-05-05, 16:09:54](https://news.ycombinator.com/item?id=40265904) - [Visiting the annual Braun collectors fair](https://arslan.io/2024/05/05/braun-borse-2024/)
 * [2024-05-05, 12:01:01](https://news.ycombinator.com/item?id=40264194) - [A bug that spoke Russian and crashed my app](https://imzaldih.com/en/post/bug-spoke-russian-crashed-app/)
 * [2024-05-05, 07:45:46](https://news.ycombinator.com/item?id=40263042) - [The VGA Attribute Controller Is Weird](http://www.os2museum.com/wp/learn-something-old-every-day-part-x-the-vga-attribute-controller-is-weird/)
+* [2024-05-05, 06:02:02](https://news.ycombinator.com/item?id=40262626) - [A High-Level Technical Overview of Homomorphic Encryption](https://www.jeremykun.com/2024/05/04/fhe-overview/)
 * [2024-05-05, 05:42:51](https://news.ycombinator.com/item?id=40262543) - [With PowerPC, Windows CE and the WiiN-Pad Slate, Everyone's a WiiN-Er](http://oldvcr.blogspot.com/2024/05/with-powerpc-windows-ce-and-wiin-pad.html)
 * [2024-05-04, 23:53:57](https://news.ycombinator.com/item?id=40261267) - [Project AZORIAN](https://www.cia.gov/legacy/museum/exhibit/project-azorian/)
 * [2024-05-03, 21:48:43](https://news.ycombinator.com/item?id=40252784) - [Speeding up ELF relocations for store-based systems](https://fzakaria.com/2024/05/03/speeding-up-elf-relocations-for-store-based-systems.html)
