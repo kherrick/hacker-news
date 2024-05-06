@@ -6,8 +6,10 @@
 
 * [2024-05-06, 17:18:43](https://news.ycombinator.com/item?id=40276957) - [Patagonia's New Study Finds Fleece Jackets Are a Serious Pollutant (2016)](https://www.outsideonline.com/outdoor-gear/gear-news/patagonias-new-study-finds-fleece-jackets-are-serious-pollutant/)
 * [2024-05-06, 17:13:21](https://news.ycombinator.com/item?id=40276887) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+* [2024-05-06, 17:00:42](https://news.ycombinator.com/item?id=40276768) - [Show HN: Peerdb Streams – Simple, native Postgres change data capture](https://news.ycombinator.com/item?id=40276768)
 * [2024-05-06, 16:56:08](https://news.ycombinator.com/item?id=40276714) - [German public broadcasters open source their streaming platforms](https://www.heise.de/en/news/ARD-und-ZDF-wollen-ihren-Streaming-Code-als-Open-Source-anbieten-9709177.html)
 * [2024-05-06, 16:54:01](https://news.ycombinator.com/item?id=40276687) - [Ask HN: How to do simple heartbeat monitoring?](https://news.ycombinator.com/item?id=40276687)
+* [2024-05-06, 16:46:31](https://news.ycombinator.com/item?id=40276606) - [Stop Expecting Tech Companies to Provide 'Consequences' for Criminal Behavior](https://www.techdirt.com/2024/05/06/stop-expecting-tech-companies-to-provide-consequences-for-criminal-behavior-thats-not-their-job/)
 * [2024-05-06, 16:40:30](https://news.ycombinator.com/item?id=40276550) - [Thorn in a HaizeStack test for evaluating long-context adversarial robustness](https://github.com/haizelabs/thorn-in-haizestack)
 * [2024-05-06, 16:31:41](https://news.ycombinator.com/item?id=40276468) - [Riot Games' anti-cheat software will require TPM, Secure Boot on Windows 11](https://arstechnica.com/gaming/2021/09/riot-games-anti-cheat-software-will-require-tpm-secure-boot-on-windows-11/)
 * [2024-05-06, 16:31:05](https://news.ycombinator.com/item?id=40276465) - [Largest model railway launches inductive Formula 1 circuit [video]](https://www.youtube.com/watch?v=1fikd9NfsSA)
