@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-06, 20:13:41](https://news.ycombinator.com/item?id=40278974) - [Increased Age-Adjusted Cancer Mortality After Third mRNA Vaccine Dose in Japan](https://www.cureus.com/articles/196275-increased-age-adjusted-cancer-mortality-after-the-third-mrna-lipid-nanoparticle-vaccine-dose-during-the-covid-19-pandemic-in-japan)
 * [2024-05-06, 20:06:53](https://news.ycombinator.com/item?id=40278915) - [VC Says Half of Google Staff Do 'No Real Work'](https://www.businessinsider.com/andreessen-horowitz-david-ulevitch-comments-google-employees-managers-fake-work-2024-5)
 * [2024-05-06, 19:37:22](https://news.ycombinator.com/item?id=40278656) - [T2 Linux 24.5 Released for 25 architectures](https://t2sde.org/releases/24.5.html)
 * [2024-05-06, 18:33:33](https://news.ycombinator.com/item?id=40277933) - [Ask HN: What Nonfiction Books Do You Keep Rereading?](https://news.ycombinator.com/item?id=40277933)
@@ -26,7 +27,6 @@
 * [2024-05-05, 16:09:54](https://news.ycombinator.com/item?id=40265904) - [Visiting the annual Braun collectors fair](https://arslan.io/2024/05/05/braun-borse-2024/)
 * [2024-05-05, 12:01:01](https://news.ycombinator.com/item?id=40264194) - [A bug that spoke Russian and crashed my app](https://imzaldih.com/en/post/bug-spoke-russian-crashed-app/)
 * [2024-05-05, 07:45:46](https://news.ycombinator.com/item?id=40263042) - [The VGA Attribute Controller Is Weird](http://www.os2museum.com/wp/learn-something-old-every-day-part-x-the-vga-attribute-controller-is-weird/)
-* [2024-05-05, 06:02:02](https://news.ycombinator.com/item?id=40262626) - [A High-Level Technical Overview of Homomorphic Encryption](https://www.jeremykun.com/2024/05/04/fhe-overview/)
 * [2024-05-05, 05:42:51](https://news.ycombinator.com/item?id=40262543) - [With PowerPC, Windows CE and the WiiN-Pad Slate, Everyone's a WiiN-Er](http://oldvcr.blogspot.com/2024/05/with-powerpc-windows-ce-and-wiin-pad.html)
 * [2024-05-04, 23:53:57](https://news.ycombinator.com/item?id=40261267) - [Project AZORIAN](https://www.cia.gov/legacy/museum/exhibit/project-azorian/)
 * [2024-05-03, 21:48:43](https://news.ycombinator.com/item?id=40252784) - [Speeding up ELF relocations for store-based systems](https://fzakaria.com/2024/05/03/speeding-up-elf-relocations-for-store-based-systems.html)
