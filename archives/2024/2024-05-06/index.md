@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-05-06](index.md)
 
+* [2024-05-06, 20:06:53](https://news.ycombinator.com/item?id=40278915) - [VC Says Half of Google Staff Do 'No Real Work'](https://www.businessinsider.com/andreessen-horowitz-david-ulevitch-comments-google-employees-managers-fake-work-2024-5)
+* [2024-05-06, 19:37:22](https://news.ycombinator.com/item?id=40278656) - [T2 Linux 24.5 Released for 25 architectures](https://t2sde.org/releases/24.5.html)
 * [2024-05-06, 19:18:24](https://news.ycombinator.com/item?id=40278444) - [Reply Guys](https://notes.ghed.in/posts/2024/reply-guys/)
+* [2024-05-06, 18:33:33](https://news.ycombinator.com/item?id=40277933) - [Ask HN: What Nonfiction Books Do You Keep Rereading?](https://news.ycombinator.com/item?id=40277933)
 * [2024-05-06, 18:29:21](https://news.ycombinator.com/item?id=40277895) - [Gas and propane stoves linked to 50k cases of childhood asthma, study finds](https://www.nbcnews.com/health/kids-health/gas-stoves-linked-childhood-asthma-study-rcna150241)
 * [2024-05-06, 18:20:00](https://news.ycombinator.com/item?id=40277791) - [OpenAI API Partnership with Stack Overflow](https://openai.com/index/api-partnership-with-stack-overflow)
 * [2024-05-06, 18:07:21](https://news.ycombinator.com/item?id=40277610) - [MIT 6.S191: Recurrent Neural Networks, Transformers, and Attention [video]](https://www.youtube.com/watch?v=dqoEU9Ac3ek)
