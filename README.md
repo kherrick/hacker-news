@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-07, 22:52:07](https://news.ycombinator.com/item?id=40292452) - [Unix forking the universe by running IBM's free online quantum computer](https://parel.es/blog/quantum-dice)
 * [2024-05-07, 22:15:05](https://news.ycombinator.com/item?id=40292181) - [Decker: A fantastic reincarnation of HyperCard with 1-bit graphics](https://www.beyondloom.com/decker/index.html)
 * [2024-05-07, 21:16:36](https://news.ycombinator.com/item?id=40291598) - [IBM Granite: A Family of Open Foundation Models for Code Intelligence](https://github.com/ibm-granite/granite-code-models)
 * [2024-05-07, 21:07:33](https://news.ycombinator.com/item?id=40291490) - [Jolie, the service-oriented programming language](https://www.jolie-lang.org/index.html)
@@ -23,7 +24,6 @@
 * [2024-05-06, 23:46:49](https://news.ycombinator.com/item?id=40280760) - [A Rosetta Stone for Mathematics: André Weil's 1940 letter](https://www.quantamagazine.org/a-rosetta-stone-for-mathematics-20240506/)
 * [2024-05-06, 10:50:19](https://news.ycombinator.com/item?id=40273177) - [Ask HN: Interesting TUIs (text user interfaces), maybe forgotten ones?](https://news.ycombinator.com/item?id=40273177)
 * [2024-05-06, 10:42:03](https://news.ycombinator.com/item?id=40273121) - [Conical Slicing: A different angle of 3D printing](https://www.cnckitchen.com/blog/conical-slicing-a-different-angle-of-3d-printing)
-* [2024-05-06, 10:35:00](https://news.ycombinator.com/item?id=40273086) - [Refactor: Utilities for refactoring and upgrading Ruby code based on ASTs](https://github.com/baweaver/refactor)
 * [2024-05-06, 01:35:59](https://news.ycombinator.com/item?id=40270309) - [Defending the city: An overview of defensive tactics](https://mwi.westpoint.edu/defending-the-city-an-overview-of-defensive-tactics-from-the-modern-history-of-urban-warfare/)
 * [2024-05-05, 23:57:32](https://news.ycombinator.com/item?id=40269754) - [Book people think they know why 9-year-olds stop reading for fun](https://slate.com/culture/2024/05/kids-reading-fun-books-decline-by-nine-crisis.html)
 * [2024-05-05, 18:03:26](https://news.ycombinator.com/item?id=40266831) - [Coding interviews are stupid (ish)](https://darrenkopp.com/posts/2024/05/01/coding-interviews-are-stupid)
