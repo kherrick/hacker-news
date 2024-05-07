@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-05-07](index.md)
 
+* [2024-05-07, 15:18:01](https://news.ycombinator.com/item?id=40286739) - [Theranos fraudster Elizabeth Holmes has prison sentence reduced again](https://www.theguardian.com/us-news/article/2024/may/07/elizabeth-holmes-prison-sentence)
 * [2024-05-07, 14:41:38](https://news.ycombinator.com/item?id=40286085) - [Apple Unveils New iPad Pro](https://www.apple.com/newsroom/2024/05/apple-unveils-stunning-new-ipad-pro-with-m4-chip-and-apple-pencil-pro/)
 * [2024-05-07, 14:39:08](https://news.ycombinator.com/item?id=40286052) - [Final Cut Pro transforms video creation with Live Multicam, new AI features](https://www.apple.com/newsroom/2024/05/final-cut-pro-transforms-video-creation-with-live-multicam-on-ipad-and-new-ai-features-on-mac/)
 * [2024-05-07, 14:39:04](https://news.ycombinator.com/item?id=40286051) - [Apple unveils the redesigned 11-inch and all-new 13-inch iPad Air](https://www.apple.com/newsroom/2024/05/apple-unveils-the-redesigned-11-inch-and-all-new-13-inch-ipad-air-with-m2/)
 * [2024-05-07, 14:37:32](https://news.ycombinator.com/item?id=40286029) - [Apple Introduces M4 Chip](https://www.apple.com/newsroom/2024/05/apple-introduces-m4-chip/)
 * [2024-05-07, 14:29:24](https://news.ycombinator.com/item?id=40285915) - [Japan is not a xenophobic country](https://www.noahpinion.blog/p/japan-is-not-a-xenophobic-country)
+* [2024-05-07, 14:20:00](https://news.ycombinator.com/item?id=40285779) - [Apple announces new iPad Pro: OLED display, M4 chip, thinner redesigned chassis](https://9to5mac.com/2024/05/07/apple-announces-new-ipad-pro-oled-display-thinnest-apple-product-ever/)
 * [2024-05-07, 14:08:05](https://news.ycombinator.com/item?id=40285628) - [The Rise of the Forever Renter Class](https://ofdollarsanddata.com/the-forever-renter-class/)
 * [2024-05-07, 14:02:25](https://news.ycombinator.com/item?id=40285571) - [Rethinking string encoding: a 37.5% space efficient encoding than UTF-8 in Fury](https://fury.apache.org/blog/fury_meta_string_37_5_percent_space_efficient_encoding_than_utf8/)
 * [2024-05-07, 13:57:20](https://news.ycombinator.com/item?id=40285521) - [Use Rails](https://jmduke.com/posts/microblog/rails/)
@@ -20,6 +22,7 @@
 * [2024-05-07, 13:03:10](https://news.ycombinator.com/item?id=40284963) - [Jack Dorsey Leaves Bluesky Board and Calls X 'Freedom Technology'](https://www.msn.com/en-ph/money/technology/jack-dorsey-leaves-bluesky-board-calls-x-freedom-technology/ar-BB1lSjbe)
 * [2024-05-07, 12:46:14](https://news.ycombinator.com/item?id=40284823) - [Cold Brew Coffee in 3 Minutes Using Acoustic Cavitation](https://www.unsw.edu.au/newsroom/news/2024/05/Ultrasonic_cold_brew_coffee_ready_under_three_minutes)
 * [2024-05-07, 12:18:31](https://news.ycombinator.com/item?id=40284593) - [Elevate – Free Tailwind Business Template](https://github.com/spacemadev/elevate-free-tailwind-business-template)
+* [2024-05-07, 12:01:46](https://news.ycombinator.com/item?id=40284495) - [Homemade liquid nitrogen generator using Joule Thomson ThrottlinG](http://homemadeliquidnitrogen.com/)
 * [2024-05-07, 12:01:12](https://news.ycombinator.com/item?id=40284492) - [PermitFlow (YC W22) Is Hiring Software Engineers](https://jobs.ashbyhq.com/permitflow)
 * [2024-05-07, 11:41:50](https://news.ycombinator.com/item?id=40284389) - [Boeing faces new US investigation into 'missed' 787 inspections](https://www.theguardian.com/business/article/2024/may/07/boeing-us-investigation-787-inspections-faa)
 * [2024-05-07, 11:36:01](https://news.ycombinator.com/item?id=40284358) - [1950s Sci-Fi Style Computers, Powered by a Z80, Built in Holland](https://lunduke.locals.com/post/5588902/1950s-sci-fi-style-computers-powered-by-a-z80-built-in-holland)
