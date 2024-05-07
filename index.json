@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-05-07, 18:43:27",
-      "https://news.ycombinator.com/item?id=40289842"
-    ],
-    [
-      "How rich is too rich? Limitarianism: The Case Against Extreme Wealth",
-      "https://www.nature.com/articles/d41586-024-01276-1"
-    ]
-  ],
-  [
-    [
       "2024-05-07, 18:06:29",
       "https://news.ycombinator.com/item?id=40289323"
     ],
@@ -117,6 +107,16 @@
     [
       "Instructlab AI CLI",
       "https://github.com/instructlab/instructlab"
+    ]
+  ],
+  [
+    [
+      "2024-05-07, 14:02:25",
+      "https://news.ycombinator.com/item?id=40285571"
+    ],
+    [
+      "Meta String: A more space-efficient string encoding than UTF-8 in Fury",
+      "https://fury.apache.org/blog/fury_meta_string_37_5_percent_space_efficient_encoding_than_utf8/"
     ]
   ],
   [
