@@ -11,7 +11,7 @@
 * [2024-05-07, 07:07:34](https://news.ycombinator.com/item?id=40283139) - [GCC 14.1](https://gcc.gnu.org/gcc-14/)
 * [2024-05-07, 06:10:55](https://news.ycombinator.com/item?id=40282856) - [We've been put in the vibe space](https://vickiboykis.com/2024/05/06/weve-been-put-in-the-vibe-space/)
 * [2024-05-07, 00:50:11](https://news.ycombinator.com/item?id=40281139) - [How Python asyncio works: recreating it from scratch](https://jacobpadilla.com/articles/recreating-asyncio)
-* [2024-05-06, 23:34:58](https://news.ycombinator.com/item?id=40280689) - [Proton Mail discloses user data leading to arrest in Spain](https://restoreprivacy.com/protonmail-discloses-user-data-leading-to-arrest-in-spain/)
+* [2024-05-07, 00:01:44](https://news.ycombinator.com/item?id=40280875) - [Faster XML Stream Processing in Go (2019)](https://eli.thegreenplace.net/2019/faster-xml-stream-processing-in-go/)
 * [2024-05-06, 23:03:34](https://news.ycombinator.com/item?id=40280490) - [Caniemail.com – like caniuse but for email content](https://www.caniemail.com/)
 * [2024-05-06, 21:19:55](https://news.ycombinator.com/item?id=40279632) - [Attackers can decloak routing-based VPNs](https://www.leviathansecurity.com/blog/tunnelvision)
 * [2024-05-06, 21:03:54](https://news.ycombinator.com/item?id=40279499) - [An infinite canvas for code exploration](https://territory.dev)
