@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-07](index.md)
 
+* [2024-05-07, 21:24:18](https://news.ycombinator.com/item?id=40291672) - [Nintendo to announce new console by end of fiscal year](https://twitter.com/nintendocoltd/status/1787736518762881197)
 * [2024-05-07, 21:07:33](https://news.ycombinator.com/item?id=40291490) - [Jolie, the service-oriented programming language](https://www.jolie-lang.org/index.html)
 * [2024-05-07, 20:09:04](https://news.ycombinator.com/item?id=40290903) - [AI Doesn't Threaten Humanity. Its Owners Do](https://www.scientificamerican.com/article/ai-doesnt-threaten-humanity-its-owners-do/)
 * [2024-05-07, 20:02:58](https://news.ycombinator.com/item?id=40290833) - [Boeing Starliner crewed mission postponed shortly before launch](https://phys.org/news/2024-05-boeing-starliner-crewed-mission-postponed.html)
