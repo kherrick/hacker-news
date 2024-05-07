@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-07](index.md)
 
+* [2024-05-07, 13:32:50](https://news.ycombinator.com/item?id=40285244) - [Show HN: Visual debugger for Rails system tests](https://github.com/stepful/cyperful)
 * [2024-05-07, 13:07:07](https://news.ycombinator.com/item?id=40284994) - [Raspberry Pi Connect](https://www.raspberrypi.com/news/raspberry-pi-connect/)
+* [2024-05-07, 13:03:10](https://news.ycombinator.com/item?id=40284963) - [Jack Dorsey Leaves Bluesky Board and Calls X 'Freedom Technology'](https://www.msn.com/en-ph/money/technology/jack-dorsey-leaves-bluesky-board-calls-x-freedom-technology/ar-BB1lSjbe)
 * [2024-05-07, 12:01:12](https://news.ycombinator.com/item?id=40284492) - [PermitFlow (YC W22) Is Hiring Software Engineers](https://jobs.ashbyhq.com/permitflow)
 * [2024-05-07, 11:41:50](https://news.ycombinator.com/item?id=40284389) - [Boeing faces new US investigation into 'missed' 787 inspections](https://www.theguardian.com/business/article/2024/may/07/boeing-us-investigation-787-inspections-faa)
 * [2024-05-07, 11:36:01](https://news.ycombinator.com/item?id=40284358) - [1950s Sci-Fi Style Computers, Powered by a Z80, Built in Holland](https://lunduke.locals.com/post/5588902/1950s-sci-fi-style-computers-powered-by-a-z80-built-in-holland)
