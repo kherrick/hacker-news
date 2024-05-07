@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-07](index.md)
 
 * [2024-05-07, 14:08:05](https://news.ycombinator.com/item?id=40285628) - [The Rise of the Forever Renter Class](https://ofdollarsanddata.com/the-forever-renter-class/)
+* [2024-05-07, 13:57:20](https://news.ycombinator.com/item?id=40285521) - [Use Rails](https://jmduke.com/posts/microblog/rails/)
 * [2024-05-07, 13:53:45](https://news.ycombinator.com/item?id=40285476) - [Microsoft closes several large Bethesda affiliated game studios](https://www.ign.com/articles/microsoft-closes-redfall-developer-arkane-austin-hifi-rush-developer-tango-gameworks-and-more-in-devastating-cuts-at-bethesda)
 * [2024-05-07, 13:37:41](https://news.ycombinator.com/item?id=40285288) - [Cybertruck Owner Breaks His Finger Trying to Show Vehicle Is Safe](https://gizmodo.com/cybertruck-video-breaks-finger-safe-stick-elon-musk-1851460112)
 * [2024-05-07, 13:32:50](https://news.ycombinator.com/item?id=40285244) - [Show HN: Visual debugger for Rails system tests](https://github.com/stepful/cyperful)
@@ -21,6 +22,7 @@
 * [2024-05-07, 10:54:57](https://news.ycombinator.com/item?id=40284147) - [Caniwebview.com – Like Caniuse but for Webviews](https://caniwebview.com/)
 * [2024-05-07, 10:47:46](https://news.ycombinator.com/item?id=40284111) - [Novel attack against virtually all VPN apps neuters their entire purpose](https://arstechnica.com/security/2024/05/novel-attack-against-virtually-all-vpn-apps-neuters-their-entire-purpose/)
 * [2024-05-07, 10:42:38](https://news.ycombinator.com/item?id=40284091) - [Google Fit APIs get shut down in 2025, might break fitness devices](https://arstechnica.com/gadgets/2024/05/google-fit-apis-get-shut-down-in-2025-might-break-fitness-devices/)
+* [2024-05-07, 10:26:36](https://news.ycombinator.com/item?id=40284020) - [Multiplayer Zork on Telnet](https://multizork.icculus.org/)
 * [2024-05-07, 09:40:48](https://news.ycombinator.com/item?id=40283808) - [My husband has become a Vim peasant – please advise](https://old.reddit.com/r/emacs/comments/1ck8w2g/my_husband_has_become_a_vim_peasant_please_advise/)
 * [2024-05-07, 08:29:27](https://news.ycombinator.com/item?id=40283482) - [CodeCrafters (YC S22) Is Hiring Asia-Based SDRs / BDRs](https://www.ycombinator.com/companies/codecrafters/jobs/7ljWFvU-sdr-for-enterprise-influencer-partnerships-manager)
 * [2024-05-07, 07:07:34](https://news.ycombinator.com/item?id=40283139) - [GCC 14.1 Release](https://gcc.gnu.org/gcc-14/)

@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-07, 14:08:05](https://news.ycombinator.com/item?id=40285628) - [The Rise of the Forever Renter Class](https://ofdollarsanddata.com/the-forever-renter-class/)
+* [2024-05-07, 13:57:20](https://news.ycombinator.com/item?id=40285521) - [Use Rails](https://jmduke.com/posts/microblog/rails/)
 * [2024-05-07, 13:53:45](https://news.ycombinator.com/item?id=40285476) - [Microsoft closes several large Bethesda affiliated game studios](https://www.ign.com/articles/microsoft-closes-redfall-developer-arkane-austin-hifi-rush-developer-tango-gameworks-and-more-in-devastating-cuts-at-bethesda)
-* [2024-05-07, 13:37:41](https://news.ycombinator.com/item?id=40285288) - [Cybertruck Owner Breaks His Finger Trying to Show Vehicle Is Safe](https://gizmodo.com/cybertruck-video-breaks-finger-safe-stick-elon-musk-1851460112)
 * [2024-05-07, 13:32:50](https://news.ycombinator.com/item?id=40285244) - [Show HN: Visual debugger for Rails system tests](https://github.com/stepful/cyperful)
 * [2024-05-07, 13:07:07](https://news.ycombinator.com/item?id=40284994) - [Raspberry Pi Connect](https://www.raspberrypi.com/news/raspberry-pi-connect/)
 * [2024-05-07, 12:46:14](https://news.ycombinator.com/item?id=40284823) - [Cold Brew Coffee in 3 Minutes Using Acoustic Cavitation](https://www.unsw.edu.au/newsroom/news/2024/05/Ultrasonic_cold_brew_coffee_ready_under_three_minutes)
@@ -13,6 +13,7 @@
 * [2024-05-07, 10:58:32](https://news.ycombinator.com/item?id=40284164) - [Dotfiles: Unofficial Guide to Dotfiles on GitHub](https://dotfiles.github.io/)
 * [2024-05-07, 10:54:57](https://news.ycombinator.com/item?id=40284147) - [Caniwebview.com – Like Caniuse but for Webviews](https://caniwebview.com/)
 * [2024-05-07, 10:47:46](https://news.ycombinator.com/item?id=40284111) - [Novel attack against virtually all VPN apps neuters their entire purpose](https://arstechnica.com/security/2024/05/novel-attack-against-virtually-all-vpn-apps-neuters-their-entire-purpose/)
+* [2024-05-07, 10:26:36](https://news.ycombinator.com/item?id=40284020) - [Multiplayer Zork on Telnet](https://multizork.icculus.org/)
 * [2024-05-07, 07:07:34](https://news.ycombinator.com/item?id=40283139) - [GCC 14.1](https://gcc.gnu.org/gcc-14/)
 * [2024-05-07, 06:10:55](https://news.ycombinator.com/item?id=40282856) - [We've been put in the vibe space](https://vickiboykis.com/2024/05/06/weve-been-put-in-the-vibe-space/)
 * [2024-05-07, 00:50:11](https://news.ycombinator.com/item?id=40281139) - [How Python asyncio works: recreating it from scratch](https://jacobpadilla.com/articles/recreating-asyncio)
@@ -27,7 +28,6 @@
 * [2024-05-06, 11:54:25](https://news.ycombinator.com/item?id=40273534) - [Design docs at Google (2020)](https://www.industrialempathy.com/posts/design-docs-at-google/)
 * [2024-05-06, 11:02:56](https://news.ycombinator.com/item?id=40273245) - [Decompiling Hyper-V Manager to rebuild it from source](https://awakecoding.com/posts/decompiling-hyper-v-manager-to-rebuild-it-from-source/)
 * [2024-05-06, 10:32:28](https://news.ycombinator.com/item?id=40273071) - [What Is in a Rust Allocator?](https://blog.sulami.xyz/posts/what-is-in-a-rust-allocator/)
-* [2024-05-05, 16:09:54](https://news.ycombinator.com/item?id=40265904) - [Visiting the annual Braun collectors fair](https://arslan.io/2024/05/05/braun-borse-2024/)
 * [2024-05-05, 11:40:20](https://news.ycombinator.com/item?id=40264091) - [A book Stanley Kubrick didn’t want anyone to read is being published](https://www.theguardian.com/film/2024/apr/21/stanley-kubrick-director-book-block-flaws-films-published)
 * [2024-05-05, 08:08:13](https://news.ycombinator.com/item?id=40263109) - [A 100x speedup with unsafe Python](https://yosefk.com/blog/a-100x-speedup-with-unsafe-python.html)
 
