@@ -86,6 +86,7 @@
 * [2024-05-05, 05:14:08](https://news.ycombinator.com/item?id=40262438) - [Pivot podcast host Scott Galloway: 'Tech bros conflate luck with talent'](https://www.theguardian.com/books/article/2024/may/04/scott-galloway-algebra-of-wealth-pivot-elon-musk)
 * [2024-05-05, 05:06:01](https://news.ycombinator.com/item?id=40262396) - [Zebra remains on the loose in Washington state, officials close trailheads](https://apnews.com/article/zebra-missing-washington-state-2f46a5c4e344f385ba11e3ad2ae41c87)
 * [2024-05-05, 04:48:44](https://news.ycombinator.com/item?id=40262323) - [Smart Antennas Shape Satellite Internet Tech to Come](https://spectrum.ieee.org/satellite-antenna-metasurface)
+* [2024-05-05, 04:39:44](https://news.ycombinator.com/item?id=40262289) - [Frank Stella, Towering Artist and Master of Reinvention, Dies at 87](https://www.nytimes.com/2024/05/04/arts/frank-stella-dead.html)
 * [2024-05-05, 04:26:10](https://news.ycombinator.com/item?id=40262236) - [Time-Based CSS Animations](https://yuanchuan.dev/time-based-css-animations)
 * [2024-05-05, 04:22:05](https://news.ycombinator.com/item?id=40262226) - [Megaconstellations like SpaceX's could weaken Earth's magnetic field, atmosphere](https://www.livescience.com/space/space-exploration/controversial-paper-claims-satellite-megaconstellations-like-spacexs-could-weaken-earths-magnetic-field-and-cause-atmospheric-stripping-should-we-be-worried)
 * [2024-05-05, 04:20:06](https://news.ycombinator.com/item?id=40262221) - [The new fintech stack is open source?](https://notes.mtb.xyz/p/fintech-stack-open-source)
