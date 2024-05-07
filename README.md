@@ -2,6 +2,7 @@
 
 * [2024-05-07, 22:52:07](https://news.ycombinator.com/item?id=40292452) - [Unix forking the universe by running IBM's free online quantum computer](https://parel.es/blog/quantum-dice)
 * [2024-05-07, 22:15:05](https://news.ycombinator.com/item?id=40292181) - [Decker: A fantastic reincarnation of HyperCard with 1-bit graphics](https://www.beyondloom.com/decker/index.html)
+* [2024-05-07, 22:01:12](https://news.ycombinator.com/item?id=40292047) - [Qt and C++ Trivial Relocation (Part 1)](https://www.kdab.com/qt-and-trivial-relocation-part-1/)
 * [2024-05-07, 21:16:36](https://news.ycombinator.com/item?id=40291598) - [IBM Granite: A Family of Open Foundation Models for Code Intelligence](https://github.com/ibm-granite/granite-code-models)
 * [2024-05-07, 21:07:33](https://news.ycombinator.com/item?id=40291490) - [Jolie, the service-oriented programming language](https://www.jolie-lang.org/index.html)
 * [2024-05-07, 19:41:25](https://news.ycombinator.com/item?id=40290596) - [ScrapeGraphAI: Web scraping using LLM and direct graph logic](https://scrapegraph-doc.onrender.com/)
@@ -29,7 +30,6 @@
 * [2024-05-05, 18:03:26](https://news.ycombinator.com/item?id=40266831) - [Coding interviews are stupid (ish)](https://darrenkopp.com/posts/2024/05/01/coding-interviews-are-stupid)
 * [2024-05-05, 10:47:36](https://news.ycombinator.com/item?id=40263819) - [Deterministic Quoting: Making LLMs safer for healthcare](https://mattyyeung.github.io/deterministic-quoting)
 * [2024-05-05, 06:58:41](https://news.ycombinator.com/item?id=40262837) - [PDEP-13: The Pandas Logical Type System](https://github.com/pandas-dev/pandas/blob/8a246978e9812a2448f43d0df24a82d51e850d53/web/pandas/pdeps/0013-logical-type-system.md)
-* [2024-05-04, 18:48:27](https://news.ycombinator.com/item?id=40259505) - [YC’s founder-matching service helped medical records AI startup Hona](https://techcrunch.com/2024/05/03/y-combinator-founder-matching-tool-hona-medical-ai-startup/)
 
 ## [Archives](archives/index.md)
 
