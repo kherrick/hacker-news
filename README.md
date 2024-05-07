@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-07, 04:19:13](https://news.ycombinator.com/item?id=40282290) - [Google begins enforcement of site reputation abuse policy](https://searchengineland.com/google-begins-enforcement-of-site-reputation-abuse-policy-with-portions-of-sites-being-delisted-440294)
-* [2024-05-07, 03:05:17](https://news.ycombinator.com/item?id=40281936) - [Spacecraft Takes Close Up Video of the Sun, Revealing Otherworldly Hellscape](https://futurism.com/the-byte/spacecraft-close-up-video-sun)
 * [2024-05-07, 01:32:23](https://news.ycombinator.com/item?id=40281340) - [New black hole visualization takes viewers beyond the brink](https://phys.org/news/2024-05-black-hole-visualization-viewers-brink.html)
 * [2024-05-07, 01:26:10](https://news.ycombinator.com/item?id=40281314) - [Utilities for refactoring and upgrading Ruby code based on ASTs](https://github.com/baweaver/refactor)
 * [2024-05-07, 01:18:19](https://news.ycombinator.com/item?id=40281272) - [Boeing Starliner's first crewed mission scrubbed](https://techcrunch.com/2024/05/06/boeing-starliners-first-crewed-mission-scrubbed/)
@@ -24,6 +23,7 @@
 * [2024-05-06, 13:59:42](https://news.ycombinator.com/item?id=40274777) - [PiFex: JTAG Hacking with a Raspberry Pi](https://voidstarsec.com/blog/jtag-pifex)
 * [2024-05-06, 12:43:42](https://news.ycombinator.com/item?id=40273968) - [Secure Randomness in Go 1.22](https://go.dev/blog/chacha8rand?hn=1)
 * [2024-05-06, 11:54:25](https://news.ycombinator.com/item?id=40273534) - [Design docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/)
+* [2024-05-06, 11:02:56](https://news.ycombinator.com/item?id=40273245) - [Decompiling Hyper-V Manager to rebuild it from source](https://awakecoding.com/posts/decompiling-hyper-v-manager-to-rebuild-it-from-source/)
 * [2024-05-06, 08:50:28](https://news.ycombinator.com/item?id=40272577) - [World Food Atlas: Discover local dishes and ingredients](https://www.tasteatlas.com/map)
 * [2024-05-06, 00:24:39](https://news.ycombinator.com/item?id=40269911) - [Array.shift Optimizations in Firefox's JavaScript Engine (2020)](https://lannonbr.com/blog/2020-01-27-shift-optimizations/)
 * [2024-05-05, 16:09:54](https://news.ycombinator.com/item?id=40265904) - [Visiting the annual Braun collectors fair](https://arslan.io/2024/05/05/braun-borse-2024/)

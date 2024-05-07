@@ -70,6 +70,7 @@
 * [2024-05-06, 11:42:41](https://news.ycombinator.com/item?id=40273469) - [Sony overturns Helldivers 2 PSN requirement following backlash](https://www.eurogamer.net/sony-overturns-helldivers-2-psn-requirement-following-backlash)
 * [2024-05-06, 11:40:47](https://news.ycombinator.com/item?id=40273464) - [The Picard Principle: It is possible to commit no mistakes and still lose](https://effectiviology.com/picard-principle/)
 * [2024-05-06, 11:39:24](https://news.ycombinator.com/item?id=40273454) - [Ask HN: People that use jq extensively, I'd like to talk to you](https://news.ycombinator.com/item?id=40273454)
+* [2024-05-06, 11:02:56](https://news.ycombinator.com/item?id=40273245) - [Decompiling Hyper-V Manager to rebuild it from source](https://awakecoding.com/posts/decompiling-hyper-v-manager-to-rebuild-it-from-source/)
 * [2024-05-06, 11:02:42](https://news.ycombinator.com/item?id=40273243) - [Preview Builds of the Zed Editor Now Available for Linux](https://zed.dev/releases/preview)
 * [2024-05-06, 10:50:48](https://news.ycombinator.com/item?id=40273180) - [Color Concepts 101 (2001) [pdf]](https://developers.hp.com/system/files/Color_Concepts_101_0.pdf)
 * [2024-05-06, 10:50:19](https://news.ycombinator.com/item?id=40273177) - [Ask HN: Interesting TUIs (text user interfaces), maybe forgotten ones?](https://news.ycombinator.com/item?id=40273177)
