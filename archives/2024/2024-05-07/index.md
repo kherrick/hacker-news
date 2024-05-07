@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-07](index.md)
 
+* [2024-05-07, 20:09:04](https://news.ycombinator.com/item?id=40290903) - [AI Doesn't Threaten Humanity. Its Owners Do](https://www.scientificamerican.com/article/ai-doesnt-threaten-humanity-its-owners-do/)
 * [2024-05-07, 20:02:58](https://news.ycombinator.com/item?id=40290833) - [Boeing Starliner crewed mission postponed shortly before launch](https://phys.org/news/2024-05-boeing-starliner-crewed-mission-postponed.html)
 * [2024-05-07, 19:41:25](https://news.ycombinator.com/item?id=40290596) - [ScrapeGraphAI: Web scraping using LLM and direct graph logic](https://scrapegraph-doc.onrender.com/)
 * [2024-05-07, 18:43:27](https://news.ycombinator.com/item?id=40289842) - [How rich is too rich? Limitarianism: The Case Against Extreme Wealth](https://www.nature.com/articles/d41586-024-01276-1)
