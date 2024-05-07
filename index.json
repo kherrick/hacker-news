@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-05-07, 09:40:48",
-      "https://news.ycombinator.com/item?id=40283808"
-    ],
-    [
-      "My husband has become a Vim peasant – please advise",
-      "https://old.reddit.com/r/emacs/comments/1ck8w2g/my_husband_has_become_a_vim_peasant_please_advise/"
-    ]
-  ],
-  [
-    [
       "2024-05-07, 08:29:27",
       "https://news.ycombinator.com/item?id=40283482"
     ],
@@ -247,6 +237,16 @@
     [
       "Decompiling Hyper-V Manager to rebuild it from source",
       "https://awakecoding.com/posts/decompiling-hyper-v-manager-to-rebuild-it-from-source/"
+    ]
+  ],
+  [
+    [
+      "2024-05-06, 10:32:28",
+      "https://news.ycombinator.com/item?id=40273071"
+    ],
+    [
+      "What Is in a Rust Allocator?",
+      "https://blog.sulami.xyz/posts/what-is-in-a-rust-allocator/"
     ]
   ],
   [
