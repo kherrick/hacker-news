@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2024-05-07, 02:11:20",
-      "https://news.ycombinator.com/item?id=40281588"
+      "2024-05-07, 02:00:18",
+      "https://news.ycombinator.com/item?id=40281516"
     ],
     [
-      "Google, Meta 'break' Apple's device fingerprinting rules",
-      "https://www.theregister.com/2024/05/07/apple_fingerprinting_rules/"
+      "Kan: Kolmogorov-Arnold Networks",
+      "https://arxiv.org/abs/2404.19756"
     ]
   ],
   [
@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=40281139"
     ],
     [
-      "How Python Asyncio Works: Recreating It from Scratch",
+      "How Python asyncio works: recreating it from scratch",
       "https://jacobpadilla.com/articles/recreating-asyncio"
     ]
   ],
@@ -65,8 +65,18 @@
       "https://news.ycombinator.com/item?id=40280875"
     ],
     [
-      "Eli Bendersky: Faster XML Stream Processing in Go (2019)",
+      "Faster XML Stream Processing in Go (2019)",
       "https://eli.thegreenplace.net/2019/faster-xml-stream-processing-in-go/"
+    ]
+  ],
+  [
+    [
+      "2024-05-06, 23:34:58",
+      "https://news.ycombinator.com/item?id=40280689"
+    ],
+    [
+      "Proton Mail discloses user data leading to arrest in Spain",
+      "https://restoreprivacy.com/protonmail-discloses-user-data-leading-to-arrest-in-spain/"
     ]
   ],
   [
@@ -87,16 +97,6 @@
     [
       "How do birds flock? Research reveals previously unknown aerodynamic phenomenon",
       "https://www.nyu.edu/about/news-publications/news/2024/april/how-do-birds-flock--researchers-do-the-math-to-reveal-previously.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-06, 22:13:41",
-      "https://news.ycombinator.com/item?id=40280119"
-    ],
-    [
-      "Apple Should End Their Google Search Partnership (2023)",
-      "https://www.magiclasso.co/insights/apple-google-search-partnership/"
     ]
   ],
   [
@@ -215,7 +215,7 @@
       "https://news.ycombinator.com/item?id=40273534"
     ],
     [
-      "Design Docs at Google",
+      "Design docs at Google",
       "https://www.industrialempathy.com/posts/design-docs-at-google/"
     ]
   ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=40262289"
     ],
     [
-      "Frank Stella, Towering Artist and Master of Reinvention, Dies at 87",
+      "Frank Stella has died",
       "https://www.nytimes.com/2024/05/04/arts/frank-stella-dead.html"
     ]
   ],
