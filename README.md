@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-07, 22:15:05](https://news.ycombinator.com/item?id=40292181) - [Decker: A fantastic reincarnation of HyperCard with 1-bit graphics](https://www.beyondloom.com/decker/index.html)
 * [2024-05-07, 21:16:36](https://news.ycombinator.com/item?id=40291598) - [IBM Granite: A Family of Open Foundation Models for Code Intelligence](https://github.com/ibm-granite/granite-code-models)
 * [2024-05-07, 21:07:33](https://news.ycombinator.com/item?id=40291490) - [Jolie, the service-oriented programming language](https://www.jolie-lang.org/index.html)
 * [2024-05-07, 19:41:25](https://news.ycombinator.com/item?id=40290596) - [ScrapeGraphAI: Web scraping using LLM and direct graph logic](https://scrapegraph-doc.onrender.com/)
@@ -21,7 +22,6 @@
 * [2024-05-07, 11:08:56](https://news.ycombinator.com/item?id=40284219) - [Pyspread – Pythonic Spreadsheet](https://pyspread.gitlab.io/)
 * [2024-05-07, 06:24:59](https://news.ycombinator.com/item?id=40282923) - [Gradient descent visualization](https://github.com/lilipads/gradient_descent_viz)
 * [2024-05-06, 23:46:49](https://news.ycombinator.com/item?id=40280760) - [A Rosetta Stone for Mathematics: André Weil's 1940 letter](https://www.quantamagazine.org/a-rosetta-stone-for-mathematics-20240506/)
-* [2024-05-06, 19:12:53](https://news.ycombinator.com/item?id=40278376) - [US ICBM Launch Center Virtual Tour](https://www.aerospaceutah.org/virtual-tours/ICBM/index.htm)
 * [2024-05-06, 10:50:19](https://news.ycombinator.com/item?id=40273177) - [Ask HN: Interesting TUIs (text user interfaces), maybe forgotten ones?](https://news.ycombinator.com/item?id=40273177)
 * [2024-05-06, 10:42:03](https://news.ycombinator.com/item?id=40273121) - [Conical Slicing: A different angle of 3D printing](https://www.cnckitchen.com/blog/conical-slicing-a-different-angle-of-3d-printing)
 * [2024-05-06, 10:35:00](https://news.ycombinator.com/item?id=40273086) - [Refactor: Utilities for refactoring and upgrading Ruby code based on ASTs](https://github.com/baweaver/refactor)
