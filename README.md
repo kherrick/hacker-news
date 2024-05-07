@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-07, 18:06:29](https://news.ycombinator.com/item?id=40289323) - [The Grateful Dead's Wall of Sound](https://audioacademy.in/the-grateful-deads-wall-of-sound/)
+* [2024-05-07, 17:50:21](https://news.ycombinator.com/item?id=40289120) - [Show HN: Convert your Containerfile to a bootable OS](https://github.com/containers/podman-desktop-extension-bootc)
 * [2024-05-07, 15:36:05](https://news.ycombinator.com/item?id=40287020) - [Road resurfacing during the daytime without stopping traffic [video]](https://www.youtube.com/watch?v=ymyIEGRw4-U)
 * [2024-05-07, 15:31:48](https://news.ycombinator.com/item?id=40286959) - [Linux When?](https://zed.dev/blog/zed-decoded-linux-when)
 * [2024-05-07, 15:30:31](https://news.ycombinator.com/item?id=40286942) - [J.G. Ballard predicted the rise of social media (2016)](https://www.openculture.com/2016/03/j-g-ballard-predicted-the-rise-of-social-media-and-youtube-celebrity-in-1977.html)
@@ -28,7 +29,6 @@
 * [2024-05-06, 01:35:59](https://news.ycombinator.com/item?id=40270309) - [Defending the city: An overview of defensive tactics](https://mwi.westpoint.edu/defending-the-city-an-overview-of-defensive-tactics-from-the-modern-history-of-urban-warfare/)
 * [2024-05-05, 23:57:32](https://news.ycombinator.com/item?id=40269754) - [Book people think they know why 9-year-olds stop reading for fun](https://slate.com/culture/2024/05/kids-reading-fun-books-decline-by-nine-crisis.html)
 * [2024-05-05, 18:03:26](https://news.ycombinator.com/item?id=40266831) - [Coding interviews are stupid (ish)](https://darrenkopp.com/posts/2024/05/01/coding-interviews-are-stupid)
-* [2024-05-05, 16:28:06](https://news.ycombinator.com/item?id=40266057) - [Show HN: Wanderer – an open-source trail database](https://github.com/Flomp/wanderer)
 * [2024-05-05, 10:47:36](https://news.ycombinator.com/item?id=40263819) - [Deterministic Quoting: Making LLMs safer for healthcare](https://mattyyeung.github.io/deterministic-quoting)
 
 ## [Archives](archives/index.md)
