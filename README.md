@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-07, 18:43:27](https://news.ycombinator.com/item?id=40289842) - [How rich is too rich? Limitarianism: The Case Against Extreme Wealth](https://www.nature.com/articles/d41586-024-01276-1)
 * [2024-05-07, 18:06:29](https://news.ycombinator.com/item?id=40289323) - [The Grateful Dead's Wall of Sound](https://audioacademy.in/the-grateful-deads-wall-of-sound/)
 * [2024-05-07, 17:50:21](https://news.ycombinator.com/item?id=40289120) - [Show HN: Convert your Containerfile to a bootable OS](https://github.com/containers/podman-desktop-extension-bootc)
 * [2024-05-07, 17:38:32](https://news.ycombinator.com/item?id=40288947) - [Facebook just updated its relationship status with Web Components](https://www.mux.com/blog/facebook-just-updated-it-s-relationship-status-with-web-components)
 * [2024-05-07, 16:25:40](https://news.ycombinator.com/item?id=40287785) - [Confronting ableism to build a more inclusive web](https://assistivlabs.com/articles/confronting-ableism-to-build-a-more-inclusive-web)
 * [2024-05-07, 15:36:05](https://news.ycombinator.com/item?id=40287020) - [Road resurfacing during the daytime without stopping traffic [video]](https://www.youtube.com/watch?v=ymyIEGRw4-U)
-* [2024-05-07, 15:31:48](https://news.ycombinator.com/item?id=40286959) - [Linux When?](https://zed.dev/blog/zed-decoded-linux-when)
 * [2024-05-07, 15:30:31](https://news.ycombinator.com/item?id=40286942) - [J.G. Ballard predicted the rise of social media (2016)](https://www.openculture.com/2016/03/j-g-ballard-predicted-the-rise-of-social-media-and-youtube-celebrity-in-1977.html)
 * [2024-05-07, 15:17:48](https://news.ycombinator.com/item?id=40286734) - [LPCAMM2 is a modular, repairable, upgradeable memory standard for laptops](https://www.ifixit.com/News/95078/lpcamm2-memory-is-finally-here)
 * [2024-05-07, 15:12:56](https://news.ycombinator.com/item?id=40286632) - [SecureDrop Protocol](https://securedrop.org/news/introducing-securedrop-protocol/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-07](index.md)
 
+* [2024-05-07, 18:43:27](https://news.ycombinator.com/item?id=40289842) - [How rich is too rich? Limitarianism: The Case Against Extreme Wealth](https://www.nature.com/articles/d41586-024-01276-1)
 * [2024-05-07, 18:06:29](https://news.ycombinator.com/item?id=40289323) - [The Grateful Dead's Wall of Sound](https://audioacademy.in/the-grateful-deads-wall-of-sound/)
 * [2024-05-07, 17:50:21](https://news.ycombinator.com/item?id=40289120) - [Show HN: Convert your Containerfile to a bootable OS](https://github.com/containers/podman-desktop-extension-bootc)
 * [2024-05-07, 17:38:32](https://news.ycombinator.com/item?id=40288947) - [Facebook just updated its relationship status with Web Components](https://www.mux.com/blog/facebook-just-updated-it-s-relationship-status-with-web-components)
