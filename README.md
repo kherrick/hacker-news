@@ -17,7 +17,6 @@
 * [2024-05-07, 10:58:20](https://news.ycombinator.com/item?id=40284162) - [The greatest resume I've ever seen](https://newsletter.goodtechthings.com/p/the-greatest-resume-ive-ever-seen)
 * [2024-05-07, 10:54:57](https://news.ycombinator.com/item?id=40284147) - [Caniwebview.com – Like Caniuse but for Webviews](https://caniwebview.com/)
 * [2024-05-07, 10:47:46](https://news.ycombinator.com/item?id=40284111) - [Novel attack against virtually all VPN apps neuters their entire purpose](https://arstechnica.com/security/2024/05/novel-attack-against-virtually-all-vpn-apps-neuters-their-entire-purpose/)
-* [2024-05-07, 07:07:34](https://news.ycombinator.com/item?id=40283139) - [GCC 14.1](https://gcc.gnu.org/gcc-14/)
 * [2024-05-07, 06:10:55](https://news.ycombinator.com/item?id=40282856) - [We've been put in the vibe space](https://vickiboykis.com/2024/05/06/weve-been-put-in-the-vibe-space/)
 * [2024-05-07, 00:50:11](https://news.ycombinator.com/item?id=40281139) - [How Python asyncio works: recreating it from scratch](https://jacobpadilla.com/articles/recreating-asyncio)
 * [2024-05-06, 23:03:34](https://news.ycombinator.com/item?id=40280490) - [Caniemail.com – like caniuse but for email content](https://www.caniemail.com/)
@@ -30,6 +29,7 @@
 * [2024-05-06, 11:02:56](https://news.ycombinator.com/item?id=40273245) - [Decompiling Hyper-V Manager to rebuild it from source](https://awakecoding.com/posts/decompiling-hyper-v-manager-to-rebuild-it-from-source/)
 * [2024-05-06, 10:32:28](https://news.ycombinator.com/item?id=40273071) - [What Is in a Rust Allocator?](https://blog.sulami.xyz/posts/what-is-in-a-rust-allocator/)
 * [2024-05-05, 11:40:20](https://news.ycombinator.com/item?id=40264091) - [A book Stanley Kubrick didn’t want anyone to read is being published](https://www.theguardian.com/film/2024/apr/21/stanley-kubrick-director-book-block-flaws-films-published)
+* [2024-05-05, 08:08:13](https://news.ycombinator.com/item?id=40263109) - [A 100x speedup with unsafe Python](https://yosefk.com/blog/a-100x-speedup-with-unsafe-python.html)
 
 ## [Archives](archives/index.md)
 
