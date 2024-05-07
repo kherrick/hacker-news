@@ -7,6 +7,7 @@
 * [2024-05-07, 18:06:29](https://news.ycombinator.com/item?id=40289323) - [The Grateful Dead's Wall of Sound](https://audioacademy.in/the-grateful-deads-wall-of-sound/)
 * [2024-05-07, 17:50:21](https://news.ycombinator.com/item?id=40289120) - [Show HN: Convert your Containerfile to a bootable OS](https://github.com/containers/podman-desktop-extension-bootc)
 * [2024-05-07, 17:38:32](https://news.ycombinator.com/item?id=40288947) - [Facebook just updated its relationship status with Web Components](https://www.mux.com/blog/facebook-just-updated-it-s-relationship-status-with-web-components)
+* [2024-05-07, 16:25:40](https://news.ycombinator.com/item?id=40287785) - [Confronting ableism to build a more inclusive web](https://assistivlabs.com/articles/confronting-ableism-to-build-a-more-inclusive-web)
 * [2024-05-07, 15:41:52](https://news.ycombinator.com/item?id=40287103) - [The Curious Case of Eriogonum Tiehmii](https://www.uvm.edu/cals/plantbiology/curious-case-eriogonum-tiehmii)
 * [2024-05-07, 15:37:07](https://news.ycombinator.com/item?id=40287035) - [Conjoined twins who refused to be 'fixed'](https://www.theatlantic.com/health/archive/2024/05/schappell-twins-conjoined-disabled-transgender/678316/)
 * [2024-05-07, 15:36:05](https://news.ycombinator.com/item?id=40287020) - [Road resurfacing during the daytime without stopping traffic [video]](https://www.youtube.com/watch?v=ymyIEGRw4-U)
