@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-06](index.md)
 
+* [2024-05-06, 23:34:58](https://news.ycombinator.com/item?id=40280689) - [Proton Mail Discloses User Data Leading to Arrest in Spain](https://restoreprivacy.com/protonmail-discloses-user-data-leading-to-arrest-in-spain/)
 * [2024-05-06, 23:03:34](https://news.ycombinator.com/item?id=40280490) - [Caniemail.com (like caniuse but for email content)](https://www.caniemail.com/)
 * [2024-05-06, 22:31:09](https://news.ycombinator.com/item?id=40280253) - [Teens who discovered new way to prove Pythagoras' theorem uncover more proofs](https://www.theguardian.com/us-news/article/2024/may/06/pythagoras-theorem-proof-new-orleans-teens)
 * [2024-05-06, 21:51:59](https://news.ycombinator.com/item?id=40279926) - [Framework Laptop EC Driver Being Prepared for Linux](https://www.phoronix.com/news/Framework-Laptop-EC-Driver)
