@@ -2,10 +2,10 @@
 
 * [2024-05-07, 18:06:29](https://news.ycombinator.com/item?id=40289323) - [The Grateful Dead's Wall of Sound](https://audioacademy.in/the-grateful-deads-wall-of-sound/)
 * [2024-05-07, 17:50:21](https://news.ycombinator.com/item?id=40289120) - [Show HN: Convert your Containerfile to a bootable OS](https://github.com/containers/podman-desktop-extension-bootc)
+* [2024-05-07, 17:38:32](https://news.ycombinator.com/item?id=40288947) - [Facebook just updated its relationship status with Web Components](https://www.mux.com/blog/facebook-just-updated-it-s-relationship-status-with-web-components)
 * [2024-05-07, 15:36:05](https://news.ycombinator.com/item?id=40287020) - [Road resurfacing during the daytime without stopping traffic [video]](https://www.youtube.com/watch?v=ymyIEGRw4-U)
 * [2024-05-07, 15:31:48](https://news.ycombinator.com/item?id=40286959) - [Linux When?](https://zed.dev/blog/zed-decoded-linux-when)
 * [2024-05-07, 15:30:31](https://news.ycombinator.com/item?id=40286942) - [J.G. Ballard predicted the rise of social media (2016)](https://www.openculture.com/2016/03/j-g-ballard-predicted-the-rise-of-social-media-and-youtube-celebrity-in-1977.html)
-* [2024-05-07, 15:29:09](https://news.ycombinator.com/item?id=40286923) - [Giant batteries are transforming the way the U.S. uses electricity](https://www.nytimes.com/interactive/2024/05/07/climate/battery-electricity-solar-california-texas.html)
 * [2024-05-07, 15:17:48](https://news.ycombinator.com/item?id=40286734) - [LPCAMM2 is a modular, repairable, upgradeable memory standard for laptops](https://www.ifixit.com/News/95078/lpcamm2-memory-is-finally-here)
 * [2024-05-07, 15:12:56](https://news.ycombinator.com/item?id=40286632) - [SecureDrop Protocol](https://securedrop.org/news/introducing-securedrop-protocol/)
 * [2024-05-07, 14:59:51](https://news.ycombinator.com/item?id=40286403) - [How not to change PostgreSQL column type](https://notso.boringsql.com/posts/how-not-to-change-postgresql-column-type/)
@@ -28,8 +28,8 @@
 * [2024-05-06, 01:35:59](https://news.ycombinator.com/item?id=40270309) - [Defending the city: An overview of defensive tactics](https://mwi.westpoint.edu/defending-the-city-an-overview-of-defensive-tactics-from-the-modern-history-of-urban-warfare/)
 * [2024-05-05, 23:57:32](https://news.ycombinator.com/item?id=40269754) - [Book people think they know why 9-year-olds stop reading for fun](https://slate.com/culture/2024/05/kids-reading-fun-books-decline-by-nine-crisis.html)
 * [2024-05-05, 18:03:26](https://news.ycombinator.com/item?id=40266831) - [Coding interviews are stupid (ish)](https://darrenkopp.com/posts/2024/05/01/coding-interviews-are-stupid)
-* [2024-05-05, 16:28:06](https://news.ycombinator.com/item?id=40266057) - [Show HN: Wanderer – an open-source trail database](https://github.com/Flomp/wanderer)
 * [2024-05-05, 10:47:36](https://news.ycombinator.com/item?id=40263819) - [Deterministic Quoting: Making LLMs safer for healthcare](https://mattyyeung.github.io/deterministic-quoting)
+* [2024-05-04, 18:48:27](https://news.ycombinator.com/item?id=40259505) - [YC’s founder-matching service helped medical records AI startup Hona](https://techcrunch.com/2024/05/03/y-combinator-founder-matching-tool-hona-medical-ai-startup/)
 
 ## [Archives](archives/index.md)
 
