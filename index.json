@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2024-05-07, 14:02:25",
-      "https://news.ycombinator.com/item?id=40285571"
-    ],
-    [
-      "Rethinking string encoding: a 37.5% space efficient encoding than UTF-8 in Fury",
-      "https://fury.apache.org/blog/fury_meta_string_37_5_percent_space_efficient_encoding_than_utf8/"
-    ]
-  ],
-  [
-    [
       "2024-05-07, 13:32:50",
       "https://news.ycombinator.com/item?id=40285244"
     ],
@@ -287,6 +277,16 @@
     [
       "Coding interviews are stupid (ish)",
       "https://darrenkopp.com/posts/2024/05/01/coding-interviews-are-stupid"
+    ]
+  ],
+  [
+    [
+      "2024-05-05, 16:28:06",
+      "https://news.ycombinator.com/item?id=40266057"
+    ],
+    [
+      "Show HN: Wanderer – an open-source trail database",
+      "https://github.com/Flomp/wanderer"
     ]
   ],
   [
