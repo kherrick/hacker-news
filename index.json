@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-05-07, 21:35:04",
-      "https://news.ycombinator.com/item?id=40291780"
-    ],
-    [
-      "Intent-tuned LLM router that selects the best LLM for a user query",
-      "https://github.com/pulzeai-oss/knn-router/tree/main/deploy/pulze-intent-v0.1"
-    ]
-  ],
-  [
-    [
       "2024-05-07, 21:16:36",
       "https://news.ycombinator.com/item?id=40291598"
     ],
@@ -131,12 +121,12 @@
   ],
   [
     [
-      "2024-05-07, 14:02:25",
-      "https://news.ycombinator.com/item?id=40285571"
+      "2024-05-07, 14:34:49",
+      "https://news.ycombinator.com/item?id=40285986"
     ],
     [
-      "Meta String: A more space-efficient string encoding than UTF-8 in Fury",
-      "https://fury.apache.org/blog/fury_meta_string_37_5_percent_space_efficient_encoding_than_utf8/"
+      "Instructlab AI CLI",
+      "https://github.com/instructlab/instructlab"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Deterministic Quoting: Making LLMs safer for healthcare",
       "https://mattyyeung.github.io/deterministic-quoting"
+    ]
+  ],
+  [
+    [
+      "2024-05-05, 06:58:41",
+      "https://news.ycombinator.com/item?id=40262837"
+    ],
+    [
+      "PDEP-13: The Pandas Logical Type System",
+      "https://github.com/pandas-dev/pandas/blob/8a246978e9812a2448f43d0df24a82d51e850d53/web/pandas/pdeps/0013-logical-type-system.md"
     ]
   ],
   [
