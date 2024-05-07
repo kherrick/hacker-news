@@ -74,6 +74,7 @@
 * [2024-05-06, 11:02:42](https://news.ycombinator.com/item?id=40273243) - [Preview Builds of the Zed Editor Now Available for Linux](https://zed.dev/releases/preview)
 * [2024-05-06, 10:50:48](https://news.ycombinator.com/item?id=40273180) - [Color Concepts 101 (2001) [pdf]](https://developers.hp.com/system/files/Color_Concepts_101_0.pdf)
 * [2024-05-06, 10:50:19](https://news.ycombinator.com/item?id=40273177) - [Ask HN: Interesting TUIs (text user interfaces), maybe forgotten ones?](https://news.ycombinator.com/item?id=40273177)
+* [2024-05-06, 10:32:28](https://news.ycombinator.com/item?id=40273071) - [What Is in a Rust Allocator?](https://blog.sulami.xyz/posts/what-is-in-a-rust-allocator/)
 * [2024-05-06, 09:45:24](https://news.ycombinator.com/item?id=40272875) - [Pure-PyTorch Implementation of Kolmogorov-Arnold Network (Kan)](https://github.com/Blealtan/efficient-kan)
 * [2024-05-06, 08:50:28](https://news.ycombinator.com/item?id=40272577) - [World Food Atlas: Discover local dishes and ingredients](https://www.tasteatlas.com/map)
 * [2024-05-06, 07:39:52](https://news.ycombinator.com/item?id=40272186) - [A Useful Productivity Measure for Software Engineering?](https://www.jamesshore.com/v2/blog/2024/a-useful-productivity-measure)
