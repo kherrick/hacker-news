@@ -25,11 +25,11 @@
 * [2024-05-06, 21:41:33](https://news.ycombinator.com/item?id=40279813) - [High performance array programming in Petalisp](https://zenodo.org/records/11062314)
 * [2024-05-06, 20:29:09](https://news.ycombinator.com/item?id=40279129) - [Lila: A Lil Interpreter in Posix Awk](https://beyondloom.com/blog/lila.html)
 * [2024-05-06, 19:12:53](https://news.ycombinator.com/item?id=40278376) - [US ICBM Launch Center Virtual Tour](https://www.aerospaceutah.org/virtual-tours/ICBM/index.htm)
+* [2024-05-06, 12:43:42](https://news.ycombinator.com/item?id=40273968) - [Secure Randomness in Go 1.22](https://go.dev/blog/chacha8rand?hn=1)
 * [2024-05-06, 10:50:19](https://news.ycombinator.com/item?id=40273177) - [Ask HN: Interesting TUIs (text user interfaces), maybe forgotten ones?](https://news.ycombinator.com/item?id=40273177)
 * [2024-05-06, 01:35:59](https://news.ycombinator.com/item?id=40270309) - [Defending the city: An overview of defensive tactics](https://mwi.westpoint.edu/defending-the-city-an-overview-of-defensive-tactics-from-the-modern-history-of-urban-warfare/)
 * [2024-05-05, 23:57:32](https://news.ycombinator.com/item?id=40269754) - [Book people think they know why 9-year-olds stop reading for fun](https://slate.com/culture/2024/05/kids-reading-fun-books-decline-by-nine-crisis.html)
 * [2024-05-05, 16:28:53](https://news.ycombinator.com/item?id=40266062) - [Advance in light-based computing shows capabilities for future smart cameras](https://newsroom.ucla.edu/releases/light-based-computing-advance-capabilities-future-smart-cameras)
-* [2024-05-05, 16:28:06](https://news.ycombinator.com/item?id=40266057) - [Show HN: Wanderer – an open-source trail database](https://github.com/Flomp/wanderer)
 
 ## [Archives](archives/index.md)
 
