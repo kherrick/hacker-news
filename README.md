@@ -23,7 +23,7 @@
 * [2024-05-06, 15:45:50](https://news.ycombinator.com/item?id=40275973) - [Nukefix: Simulating your nuclear weapons program](http://www.nukefix.org/nukepix.html)
 * [2024-05-06, 13:59:42](https://news.ycombinator.com/item?id=40274777) - [PiFex: JTAG Hacking with a Raspberry Pi](https://voidstarsec.com/blog/jtag-pifex)
 * [2024-05-06, 12:43:42](https://news.ycombinator.com/item?id=40273968) - [Secure Randomness in Go 1.22](https://go.dev/blog/chacha8rand?hn=1)
-* [2024-05-06, 11:54:25](https://news.ycombinator.com/item?id=40273534) - [Design docs at Google](https://www.industrialempathy.com/posts/design-docs-at-google/)
+* [2024-05-06, 11:54:25](https://news.ycombinator.com/item?id=40273534) - [Design docs at Google (2020)](https://www.industrialempathy.com/posts/design-docs-at-google/)
 * [2024-05-06, 11:02:56](https://news.ycombinator.com/item?id=40273245) - [Decompiling Hyper-V Manager to rebuild it from source](https://awakecoding.com/posts/decompiling-hyper-v-manager-to-rebuild-it-from-source/)
 * [2024-05-06, 08:50:28](https://news.ycombinator.com/item?id=40272577) - [World Food Atlas: Discover local dishes and ingredients](https://www.tasteatlas.com/map)
 * [2024-05-06, 00:24:39](https://news.ycombinator.com/item?id=40269911) - [Array.shift Optimizations in Firefox's JavaScript Engine (2020)](https://lannonbr.com/blog/2020-01-27-shift-optimizations/)
