@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-07](index.md)
 
 * [2024-05-07, 13:32:50](https://news.ycombinator.com/item?id=40285244) - [Show HN: Visual debugger for Rails system tests](https://github.com/stepful/cyperful)
+* [2024-05-07, 13:29:49](https://news.ycombinator.com/item?id=40285211) - [Can Turning Office Towers into Apartments Save Downtowns?](https://www.newyorker.com/magazine/2024/05/06/can-turning-office-towers-into-apartments-save-downtowns)
 * [2024-05-07, 13:07:07](https://news.ycombinator.com/item?id=40284994) - [Raspberry Pi Connect](https://www.raspberrypi.com/news/raspberry-pi-connect/)
 * [2024-05-07, 13:03:10](https://news.ycombinator.com/item?id=40284963) - [Jack Dorsey Leaves Bluesky Board and Calls X 'Freedom Technology'](https://www.msn.com/en-ph/money/technology/jack-dorsey-leaves-bluesky-board-calls-x-freedom-technology/ar-BB1lSjbe)
 * [2024-05-07, 12:01:12](https://news.ycombinator.com/item?id=40284492) - [PermitFlow (YC W22) Is Hiring Software Engineers](https://jobs.ashbyhq.com/permitflow)
