@@ -80,6 +80,7 @@
 * [2024-05-06, 10:50:48](https://news.ycombinator.com/item?id=40273180) - [Color Concepts 101 (2001) [pdf]](https://developers.hp.com/system/files/Color_Concepts_101_0.pdf)
 * [2024-05-06, 10:50:19](https://news.ycombinator.com/item?id=40273177) - [Ask HN: Interesting TUIs (text user interfaces), maybe forgotten ones?](https://news.ycombinator.com/item?id=40273177)
 * [2024-05-06, 10:42:03](https://news.ycombinator.com/item?id=40273121) - [Conical Slicing: A different angle of 3D printing](https://www.cnckitchen.com/blog/conical-slicing-a-different-angle-of-3d-printing)
+* [2024-05-06, 10:35:00](https://news.ycombinator.com/item?id=40273086) - [Refactor: Utilities for refactoring and upgrading Ruby code based on ASTs](https://github.com/baweaver/refactor)
 * [2024-05-06, 10:32:28](https://news.ycombinator.com/item?id=40273071) - [What Is in a Rust Allocator?](https://blog.sulami.xyz/posts/what-is-in-a-rust-allocator/)
 * [2024-05-06, 10:12:18](https://news.ycombinator.com/item?id=40272980) - [Symmetry](http://theprogrammersparadox.blogspot.com/2024/05/symmetry.html)
 * [2024-05-06, 09:45:24](https://news.ycombinator.com/item?id=40272875) - [Pure-PyTorch Implementation of Kolmogorov-Arnold Network (Kan)](https://github.com/Blealtan/efficient-kan)
