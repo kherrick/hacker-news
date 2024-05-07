@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-07, 00:01:44",
+      "https://news.ycombinator.com/item?id=40280875"
+    ],
+    [
+      "Eli Bendersky: Faster XML Stream Processing in Go",
+      "https://eli.thegreenplace.net/2019/faster-xml-stream-processing-in-go/"
+    ]
+  ],
+  [
+    [
       "2024-05-06, 23:03:34",
       "https://news.ycombinator.com/item?id=40280490"
     ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2024-05-06, 12:05:34",
-      "https://news.ycombinator.com/item?id=40273651"
-    ],
-    [
-      "Alternative clouds are booming as companies seek cheaper access to GPUs",
-      "https://techcrunch.com/2024/05/05/coreweaves-1-1b-raise-shows-the-market-for-alternative-clouds-is-booming/"
-    ]
-  ],
-  [
-    [
       "2024-05-06, 11:42:41",
       "https://news.ycombinator.com/item?id=40273470"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2024-05-05, 07:45:46",
-      "https://news.ycombinator.com/item?id=40263042"
+      "2024-05-05, 08:08:13",
+      "https://news.ycombinator.com/item?id=40263109"
     ],
     [
-      "The VGA Attribute Controller Is Weird",
-      "http://www.os2museum.com/wp/learn-something-old-every-day-part-x-the-vga-attribute-controller-is-weird/"
+      "A 100x speedup with unsafe Python",
+      "https://yosefk.com/blog/a-100x-speedup-with-unsafe-python.html"
     ]
   ],
   [
