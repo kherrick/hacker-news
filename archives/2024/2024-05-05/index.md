@@ -83,6 +83,7 @@
 * [2024-05-05, 07:10:36](https://news.ycombinator.com/item?id=40262897) - [Swift's native Clocks are inefficient](https://wadetregaskis.com/swifts-native-clocks-are-very-inefficient/)
 * [2024-05-05, 07:07:56](https://news.ycombinator.com/item?id=40262883) - [Council Bans Apostrophes on Street Signs to Avoid Database Issues](https://www.bbc.co.uk/news/uk-england-york-north-yorkshire-68942321)
 * [2024-05-05, 07:00:07](https://news.ycombinator.com/item?id=40262846) - [Emerge (YC W21) is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
+* [2024-05-05, 06:58:41](https://news.ycombinator.com/item?id=40262837) - [PDEP-13: The Pandas Logical Type System](https://github.com/pandas-dev/pandas/blob/8a246978e9812a2448f43d0df24a82d51e850d53/web/pandas/pdeps/0013-logical-type-system.md)
 * [2024-05-05, 06:47:40](https://news.ycombinator.com/item?id=40262779) - [Xmake: A modern C/C++ build tool](https://github.com/xmake-io/xmake)
 * [2024-05-05, 06:20:35](https://news.ycombinator.com/item?id=40262680) - [Building Containers from Scratch: Layers](https://depot.dev/blog/building-container-layers-from-scratch)
 * [2024-05-05, 06:05:55](https://news.ycombinator.com/item?id=40262643) - [New scanning electron microscope tech sees magnetic field with 100nm resolution](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4812984)

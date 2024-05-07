@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-07, 22:15:05](https://news.ycombinator.com/item?id=40292181) - [Decker: A fantastic reincarnation of HyperCard with 1-bit graphics](https://www.beyondloom.com/decker/index.html)
-* [2024-05-07, 21:35:04](https://news.ycombinator.com/item?id=40291780) - [Intent-tuned LLM router that selects the best LLM for a user query](https://github.com/pulzeai-oss/knn-router/tree/main/deploy/pulze-intent-v0.1)
 * [2024-05-07, 21:16:36](https://news.ycombinator.com/item?id=40291598) - [IBM Granite: A Family of Open Foundation Models for Code Intelligence](https://github.com/ibm-granite/granite-code-models)
 * [2024-05-07, 21:07:33](https://news.ycombinator.com/item?id=40291490) - [Jolie, the service-oriented programming language](https://www.jolie-lang.org/index.html)
 * [2024-05-07, 19:41:25](https://news.ycombinator.com/item?id=40290596) - [ScrapeGraphAI: Web scraping using LLM and direct graph logic](https://scrapegraph-doc.onrender.com/)
@@ -13,7 +12,7 @@
 * [2024-05-07, 15:17:48](https://news.ycombinator.com/item?id=40286734) - [LPCAMM2 is a modular, repairable, upgradeable memory standard for laptops](https://www.ifixit.com/News/95078/lpcamm2-memory-is-finally-here)
 * [2024-05-07, 15:12:56](https://news.ycombinator.com/item?id=40286632) - [SecureDrop Protocol](https://securedrop.org/news/introducing-securedrop-protocol/)
 * [2024-05-07, 14:37:32](https://news.ycombinator.com/item?id=40286029) - [Apple introduces M4 chip](https://www.apple.com/newsroom/2024/05/apple-introduces-m4-chip/)
-* [2024-05-07, 14:02:25](https://news.ycombinator.com/item?id=40285571) - [Meta String: A more space-efficient string encoding than UTF-8 in Fury](https://fury.apache.org/blog/fury_meta_string_37_5_percent_space_efficient_encoding_than_utf8/)
+* [2024-05-07, 14:34:49](https://news.ycombinator.com/item?id=40285986) - [Instructlab AI CLI](https://github.com/instructlab/instructlab)
 * [2024-05-07, 13:32:50](https://news.ycombinator.com/item?id=40285244) - [Show HN: Visual debugger for Rails system tests](https://github.com/stepful/cyperful)
 * [2024-05-07, 13:29:49](https://news.ycombinator.com/item?id=40285211) - [Can turning office towers into apartments save downtowns?](https://www.newyorker.com/magazine/2024/05/06/can-turning-office-towers-into-apartments-save-downtowns)
 * [2024-05-07, 12:46:14](https://news.ycombinator.com/item?id=40284823) - [Cold brew coffee in 3 minutes using acoustic cavitation](https://www.unsw.edu.au/newsroom/news/2024/05/Ultrasonic_cold_brew_coffee_ready_under_three_minutes)
@@ -29,6 +28,7 @@
 * [2024-05-05, 23:57:32](https://news.ycombinator.com/item?id=40269754) - [Book people think they know why 9-year-olds stop reading for fun](https://slate.com/culture/2024/05/kids-reading-fun-books-decline-by-nine-crisis.html)
 * [2024-05-05, 18:03:26](https://news.ycombinator.com/item?id=40266831) - [Coding interviews are stupid (ish)](https://darrenkopp.com/posts/2024/05/01/coding-interviews-are-stupid)
 * [2024-05-05, 10:47:36](https://news.ycombinator.com/item?id=40263819) - [Deterministic Quoting: Making LLMs safer for healthcare](https://mattyyeung.github.io/deterministic-quoting)
+* [2024-05-05, 06:58:41](https://news.ycombinator.com/item?id=40262837) - [PDEP-13: The Pandas Logical Type System](https://github.com/pandas-dev/pandas/blob/8a246978e9812a2448f43d0df24a82d51e850d53/web/pandas/pdeps/0013-logical-type-system.md)
 * [2024-05-04, 18:48:27](https://news.ycombinator.com/item?id=40259505) - [YC’s founder-matching service helped medical records AI startup Hona](https://techcrunch.com/2024/05/03/y-combinator-founder-matching-tool-hona-medical-ai-startup/)
 
 ## [Archives](archives/index.md)
