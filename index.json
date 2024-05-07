@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-07, 04:19:13",
+      "https://news.ycombinator.com/item?id=40282290"
+    ],
+    [
+      "Google begins enforcement of site reputation abuse policy",
+      "https://searchengineland.com/google-begins-enforcement-of-site-reputation-abuse-policy-with-portions-of-sites-being-delisted-440294"
+    ]
+  ],
+  [
+    [
       "2024-05-07, 03:05:17",
       "https://news.ycombinator.com/item?id=40281936"
     ],
@@ -67,16 +77,6 @@
     [
       "Faster XML Stream Processing in Go (2019)",
       "https://eli.thegreenplace.net/2019/faster-xml-stream-processing-in-go/"
-    ]
-  ],
-  [
-    [
-      "2024-05-06, 23:34:58",
-      "https://news.ycombinator.com/item?id=40280689"
-    ],
-    [
-      "Proton Mail discloses user data leading to arrest in Spain",
-      "https://restoreprivacy.com/protonmail-discloses-user-data-leading-to-arrest-in-spain/"
     ]
   ],
   [
@@ -211,22 +211,22 @@
   ],
   [
     [
+      "2024-05-06, 12:43:42",
+      "https://news.ycombinator.com/item?id=40273968"
+    ],
+    [
+      "Secure Randomness in Go 1.22",
+      "https://go.dev/blog/chacha8rand?hn=1"
+    ]
+  ],
+  [
+    [
       "2024-05-06, 11:54:25",
       "https://news.ycombinator.com/item?id=40273534"
     ],
     [
       "Design docs at Google",
       "https://www.industrialempathy.com/posts/design-docs-at-google/"
-    ]
-  ],
-  [
-    [
-      "2024-05-06, 11:42:41",
-      "https://news.ycombinator.com/item?id=40273470"
-    ],
-    [
-      "Show HN: A free site to explore and discover 6k plants",
-      "https://www.getanyplant.com/plants"
     ]
   ],
   [
