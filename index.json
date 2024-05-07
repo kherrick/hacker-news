@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-05-07, 15:37:07",
-      "https://news.ycombinator.com/item?id=40287035"
-    ],
-    [
-      "Conjoined twins who refused to be 'fixed'",
-      "https://www.theatlantic.com/health/archive/2024/05/schappell-twins-conjoined-disabled-transgender/678316/"
-    ]
-  ],
-  [
-    [
       "2024-05-07, 15:36:05",
       "https://news.ycombinator.com/item?id=40287020"
     ],
@@ -71,6 +61,16 @@
   ],
   [
     [
+      "2024-05-07, 15:12:56",
+      "https://news.ycombinator.com/item?id=40286632"
+    ],
+    [
+      "SecureDrop Protocol",
+      "https://securedrop.org/news/introducing-securedrop-protocol/"
+    ]
+  ],
+  [
+    [
       "2024-05-07, 14:41:38",
       "https://news.ycombinator.com/item?id=40286085"
     ],
@@ -91,22 +91,32 @@
   ],
   [
     [
+      "2024-05-07, 14:34:49",
+      "https://news.ycombinator.com/item?id=40285986"
+    ],
+    [
+      "Instructlab AI CLI",
+      "https://github.com/instructlab/instructlab"
+    ]
+  ],
+  [
+    [
+      "2024-05-07, 14:08:05",
+      "https://news.ycombinator.com/item?id=40285628"
+    ],
+    [
+      "The Rise of the Forever Renter Class",
+      "https://ofdollarsanddata.com/the-forever-renter-class/"
+    ]
+  ],
+  [
+    [
       "2024-05-07, 14:02:25",
       "https://news.ycombinator.com/item?id=40285571"
     ],
     [
       "Rethinking string encoding: a 37.5% space efficient encoding than UTF-8 in Fury",
       "https://fury.apache.org/blog/fury_meta_string_37_5_percent_space_efficient_encoding_than_utf8/"
-    ]
-  ],
-  [
-    [
-      "2024-05-07, 13:57:20",
-      "https://news.ycombinator.com/item?id=40285521"
-    ],
-    [
-      "Use Rails",
-      "https://jmduke.com/posts/microblog/rails/"
     ]
   ],
   [
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2024-05-07, 13:07:07",
-      "https://news.ycombinator.com/item?id=40284994"
-    ],
-    [
-      "Raspberry Pi Connect",
-      "https://www.raspberrypi.com/news/raspberry-pi-connect/"
-    ]
-  ],
-  [
-    [
       "2024-05-07, 12:46:14",
       "https://news.ycombinator.com/item?id=40284823"
     ],
@@ -171,12 +171,12 @@
   ],
   [
     [
-      "2024-05-07, 11:41:50",
-      "https://news.ycombinator.com/item?id=40284389"
+      "2024-05-07, 11:24:08",
+      "https://news.ycombinator.com/item?id=40284291"
     ],
     [
-      "Boeing faces new US investigation into 'missed' 787 inspections",
-      "https://www.theguardian.com/business/article/2024/may/07/boeing-us-investigation-787-inspections-faa"
+      "Hackers discover how to reprogram NES Tetris from within the game",
+      "https://arstechnica.com/gaming/2024/05/hackers-discover-how-to-reprogram-nes-tetris-from-within-the-game/"
     ]
   ],
   [
@@ -185,7 +185,7 @@
       "https://news.ycombinator.com/item?id=40284219"
     ],
     [
-      "Pyspread – The Most Pythonic Spreadsheet",
+      "Pyspread – Pythonic Spreadsheet",
       "https://pyspread.gitlab.io/"
     ]
   ],
@@ -201,32 +201,32 @@
   ],
   [
     [
-      "2024-05-07, 10:58:20",
-      "https://news.ycombinator.com/item?id=40284162"
+      "2024-05-07, 06:24:59",
+      "https://news.ycombinator.com/item?id=40282923"
     ],
     [
-      "The greatest resume I've ever seen",
-      "https://newsletter.goodtechthings.com/p/the-greatest-resume-ive-ever-seen"
+      "Gradient descent visualization",
+      "https://github.com/lilipads/gradient_descent_viz"
     ]
   ],
   [
     [
-      "2024-05-07, 10:54:57",
-      "https://news.ycombinator.com/item?id=40284147"
+      "2024-05-06, 21:41:33",
+      "https://news.ycombinator.com/item?id=40279813"
     ],
     [
-      "Caniwebview.com – Like Caniuse but for Webviews",
-      "https://caniwebview.com/"
+      "High performance array programming in Petalisp",
+      "https://zenodo.org/records/11062314"
     ]
   ],
   [
     [
-      "2024-05-07, 00:50:11",
-      "https://news.ycombinator.com/item?id=40281139"
+      "2024-05-06, 20:29:09",
+      "https://news.ycombinator.com/item?id=40279129"
     ],
     [
-      "How Python asyncio works: recreating it from scratch",
-      "https://jacobpadilla.com/articles/recreating-asyncio"
+      "Lila: A Lil Interpreter in Posix Awk",
+      "https://beyondloom.com/blog/lila.html"
     ]
   ],
   [
@@ -251,52 +251,52 @@
   ],
   [
     [
-      "2024-05-06, 11:54:25",
-      "https://news.ycombinator.com/item?id=40273534"
+      "2024-05-06, 10:50:19",
+      "https://news.ycombinator.com/item?id=40273177"
     ],
     [
-      "Design docs at Google (2020)",
-      "https://www.industrialempathy.com/posts/design-docs-at-google/"
+      "Ask HN: Interesting TUIs (text user interfaces), maybe forgotten ones?",
+      "https://news.ycombinator.com/item?id=40273177"
     ]
   ],
   [
     [
-      "2024-05-06, 10:32:28",
-      "https://news.ycombinator.com/item?id=40273071"
+      "2024-05-06, 01:35:59",
+      "https://news.ycombinator.com/item?id=40270309"
     ],
     [
-      "What Is in a Rust Allocator?",
-      "https://blog.sulami.xyz/posts/what-is-in-a-rust-allocator/"
+      "Defending the city: An overview of defensive tactics",
+      "https://mwi.westpoint.edu/defending-the-city-an-overview-of-defensive-tactics-from-the-modern-history-of-urban-warfare/"
     ]
   ],
   [
     [
-      "2024-05-05, 18:03:26",
-      "https://news.ycombinator.com/item?id=40266831"
+      "2024-05-05, 23:57:32",
+      "https://news.ycombinator.com/item?id=40269754"
     ],
     [
-      "Coding interviews are stupid (ish)",
-      "https://darrenkopp.com/posts/2024/05/01/coding-interviews-are-stupid"
+      "Book people think they know why 9-year-olds stop reading for fun",
+      "https://slate.com/culture/2024/05/kids-reading-fun-books-decline-by-nine-crisis.html"
     ]
   ],
   [
     [
-      "2024-05-05, 11:40:20",
-      "https://news.ycombinator.com/item?id=40264091"
+      "2024-05-05, 16:28:53",
+      "https://news.ycombinator.com/item?id=40266062"
     ],
     [
-      "A book Stanley Kubrick didn’t want anyone to read is being published",
-      "https://www.theguardian.com/film/2024/apr/21/stanley-kubrick-director-book-block-flaws-films-published"
+      "Advance in light-based computing shows capabilities for future smart cameras",
+      "https://newsroom.ucla.edu/releases/light-based-computing-advance-capabilities-future-smart-cameras"
     ]
   ],
   [
     [
-      "2024-05-04, 23:04:59",
-      "https://news.ycombinator.com/item?id=40261014"
+      "2024-05-05, 16:28:06",
+      "https://news.ycombinator.com/item?id=40266057"
     ],
     [
-      "What makes a translation great?",
-      "https://scroll.in/article/876969/what-makes-a-translation-great-ten-literary-translators-from-across-the-world-weigh-in"
+      "Show HN: Wanderer – an open-source trail database",
+      "https://github.com/Flomp/wanderer"
     ]
   ]
 ]
