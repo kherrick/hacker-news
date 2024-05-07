@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-07, 21:24:18](https://news.ycombinator.com/item?id=40291672) - [Nintendo to announce new console by end of fiscal year](https://twitter.com/nintendocoltd/status/1787736518762881197)
+* [2024-05-07, 21:16:36](https://news.ycombinator.com/item?id=40291598) - [IBM Granite: A Family of Open Foundation Models for Code Intelligence](https://github.com/ibm-granite/granite-code-models)
 * [2024-05-07, 21:07:33](https://news.ycombinator.com/item?id=40291490) - [Jolie, the service-oriented programming language](https://www.jolie-lang.org/index.html)
 * [2024-05-07, 19:41:25](https://news.ycombinator.com/item?id=40290596) - [ScrapeGraphAI: Web scraping using LLM and direct graph logic](https://scrapegraph-doc.onrender.com/)
 * [2024-05-07, 18:06:29](https://news.ycombinator.com/item?id=40289323) - [The Grateful Dead's Wall of Sound](https://audioacademy.in/the-grateful-deads-wall-of-sound/)
