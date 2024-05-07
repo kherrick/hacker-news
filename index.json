@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-07, 10:47:46",
+      "https://news.ycombinator.com/item?id=40284111"
+    ],
+    [
+      "Novel attack against virtually all VPN apps neuters their entire purpose",
+      "https://arstechnica.com/security/2024/05/novel-attack-against-virtually-all-vpn-apps-neuters-their-entire-purpose/"
+    ]
+  ],
+  [
+    [
       "2024-05-07, 10:42:38",
       "https://news.ycombinator.com/item?id=40284091"
     ],
@@ -167,16 +177,6 @@
     [
       "Show HN: Peerdb Streams – Simple, native Postgres change data capture",
       "https://news.ycombinator.com/item?id=40276768"
-    ]
-  ],
-  [
-    [
-      "2024-05-06, 15:48:09",
-      "https://news.ycombinator.com/item?id=40275997"
-    ],
-    [
-      "Clojure: Managing throughput with virtual threads",
-      "https://andersmurphy.com/2024/05/06/clojure-managing-throughput-with-virtual-threads.html"
     ]
   ],
   [
