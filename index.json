@@ -1,12 +1,32 @@
 [
   [
     [
-      "2024-05-07, 14:29:24",
-      "https://news.ycombinator.com/item?id=40285915"
+      "2024-05-07, 14:39:08",
+      "https://news.ycombinator.com/item?id=40286052"
     ],
     [
-      "Japan is not a xenophobic country",
-      "https://www.noahpinion.blog/p/japan-is-not-a-xenophobic-country"
+      "Final Cut Pro transforms video creation with Live Multicam, new AI features",
+      "https://www.apple.com/newsroom/2024/05/final-cut-pro-transforms-video-creation-with-live-multicam-on-ipad-and-new-ai-features-on-mac/"
+    ]
+  ],
+  [
+    [
+      "2024-05-07, 14:39:04",
+      "https://news.ycombinator.com/item?id=40286051"
+    ],
+    [
+      "Apple unveils the redesigned 11-inch and all-new 13-inch iPad Air",
+      "https://www.apple.com/newsroom/2024/05/apple-unveils-the-redesigned-11-inch-and-all-new-13-inch-ipad-air-with-m2/"
+    ]
+  ],
+  [
+    [
+      "2024-05-07, 14:37:32",
+      "https://news.ycombinator.com/item?id=40286029"
+    ],
+    [
+      "Apple Introduces M4 Chip",
+      "https://www.apple.com/newsroom/2024/05/apple-introduces-m4-chip/"
     ]
   ],
   [
@@ -17,6 +37,16 @@
     [
       "The Rise of the Forever Renter Class",
       "https://ofdollarsanddata.com/the-forever-renter-class/"
+    ]
+  ],
+  [
+    [
+      "2024-05-07, 14:02:25",
+      "https://news.ycombinator.com/item?id=40285571"
+    ],
+    [
+      "Rethinking string encoding: a 37.5% space efficient encoding than UTF-8 in Fury",
+      "https://fury.apache.org/blog/fury_meta_string_37_5_percent_space_efficient_encoding_than_utf8/"
     ]
   ],
   [
@@ -71,16 +101,6 @@
   ],
   [
     [
-      "2024-05-07, 12:18:31",
-      "https://news.ycombinator.com/item?id=40284593"
-    ],
-    [
-      "Elevate – Free Tailwind Business Template",
-      "https://github.com/spacemadev/elevate-free-tailwind-business-template"
-    ]
-  ],
-  [
-    [
       "2024-05-07, 12:01:12",
       "https://news.ycombinator.com/item?id=40284492"
     ],
@@ -117,6 +137,16 @@
     [
       "Dotfiles: Unofficial Guide to Dotfiles on GitHub",
       "https://dotfiles.github.io/"
+    ]
+  ],
+  [
+    [
+      "2024-05-07, 10:58:20",
+      "https://news.ycombinator.com/item?id=40284162"
+    ],
+    [
+      "The greatest resume I've ever seen",
+      "https://newsletter.goodtechthings.com/p/the-greatest-resume-ive-ever-seen"
     ]
   ],
   [
@@ -211,26 +241,6 @@
   ],
   [
     [
-      "2024-05-06, 18:02:59",
-      "https://news.ycombinator.com/item?id=40277547"
-    ],
-    [
-      "The best way to have complex discussions?",
-      "https://cq2.co/blog/the-best-way-to-have-complex-discussions"
-    ]
-  ],
-  [
-    [
-      "2024-05-06, 17:57:39",
-      "https://news.ycombinator.com/item?id=40277469"
-    ],
-    [
-      "Results of the Grand C++ Error Explosion Competition (2014)",
-      "https://tgceec.tumblr.com/post/74534916370/results-of-the-grand-c-error-explosion"
-    ]
-  ],
-  [
-    [
       "2024-05-06, 15:45:41",
       "https://news.ycombinator.com/item?id=40275966"
     ],
@@ -287,16 +297,6 @@
     [
       "A book Stanley Kubrick didn’t want anyone to read is being published",
       "https://www.theguardian.com/film/2024/apr/21/stanley-kubrick-director-book-block-flaws-films-published"
-    ]
-  ],
-  [
-    [
-      "2024-05-05, 08:08:13",
-      "https://news.ycombinator.com/item?id=40263109"
-    ],
-    [
-      "A 100x speedup with unsafe Python",
-      "https://yosefk.com/blog/a-100x-speedup-with-unsafe-python.html"
     ]
   ]
 ]
