@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-05-07, 21:35:04",
+      "https://news.ycombinator.com/item?id=40291780"
+    ],
+    [
+      "Intent-tuned LLM router that selects the best LLM for a user query",
+      "https://github.com/pulzeai-oss/knn-router/tree/main/deploy/pulze-intent-v0.1"
+    ]
+  ],
+  [
+    [
       "2024-05-07, 21:16:36",
       "https://news.ycombinator.com/item?id=40291598"
     ],
@@ -117,16 +127,6 @@
     [
       "Apple introduces M4 chip",
       "https://www.apple.com/newsroom/2024/05/apple-introduces-m4-chip/"
-    ]
-  ],
-  [
-    [
-      "2024-05-07, 14:34:49",
-      "https://news.ycombinator.com/item?id=40285986"
-    ],
-    [
-      "Instructlab AI CLI",
-      "https://github.com/instructlab/instructlab"
     ]
   ],
   [
