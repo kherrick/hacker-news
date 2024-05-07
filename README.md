@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-07, 18:43:27](https://news.ycombinator.com/item?id=40289842) - [How rich is too rich? Limitarianism: The Case Against Extreme Wealth](https://www.nature.com/articles/d41586-024-01276-1)
 * [2024-05-07, 18:06:29](https://news.ycombinator.com/item?id=40289323) - [The Grateful Dead's Wall of Sound](https://audioacademy.in/the-grateful-deads-wall-of-sound/)
 * [2024-05-07, 17:50:21](https://news.ycombinator.com/item?id=40289120) - [Show HN: Convert your Containerfile to a bootable OS](https://github.com/containers/podman-desktop-extension-bootc)
 * [2024-05-07, 17:38:32](https://news.ycombinator.com/item?id=40288947) - [Facebook just updated its relationship status with Web Components](https://www.mux.com/blog/facebook-just-updated-it-s-relationship-status-with-web-components)
@@ -12,6 +11,7 @@
 * [2024-05-07, 14:59:51](https://news.ycombinator.com/item?id=40286403) - [How not to change PostgreSQL column type](https://notso.boringsql.com/posts/how-not-to-change-postgresql-column-type/)
 * [2024-05-07, 14:37:32](https://news.ycombinator.com/item?id=40286029) - [Apple introduces M4 chip](https://www.apple.com/newsroom/2024/05/apple-introduces-m4-chip/)
 * [2024-05-07, 14:34:49](https://news.ycombinator.com/item?id=40285986) - [Instructlab AI CLI](https://github.com/instructlab/instructlab)
+* [2024-05-07, 14:02:25](https://news.ycombinator.com/item?id=40285571) - [Meta String: A more space-efficient string encoding than UTF-8 in Fury](https://fury.apache.org/blog/fury_meta_string_37_5_percent_space_efficient_encoding_than_utf8/)
 * [2024-05-07, 13:32:50](https://news.ycombinator.com/item?id=40285244) - [Show HN: Visual debugger for Rails system tests](https://github.com/stepful/cyperful)
 * [2024-05-07, 13:29:49](https://news.ycombinator.com/item?id=40285211) - [Can turning office towers into apartments save downtowns?](https://www.newyorker.com/magazine/2024/05/06/can-turning-office-towers-into-apartments-save-downtowns)
 * [2024-05-07, 12:46:14](https://news.ycombinator.com/item?id=40284823) - [Cold brew coffee in 3 minutes using acoustic cavitation](https://www.unsw.edu.au/newsroom/news/2024/05/Ultrasonic_cold_brew_coffee_ready_under_three_minutes)
