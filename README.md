@@ -26,7 +26,7 @@
 * [2024-05-06, 08:50:28](https://news.ycombinator.com/item?id=40272577) - [World Food Atlas: Discover local dishes and ingredients](https://www.tasteatlas.com/map)
 * [2024-05-06, 07:39:52](https://news.ycombinator.com/item?id=40272186) - [A useful productivity measure?](https://www.jamesshore.com/v2/blog/2024/a-useful-productivity-measure)
 * [2024-05-05, 16:09:54](https://news.ycombinator.com/item?id=40265904) - [Visiting the annual Braun collectors fair](https://arslan.io/2024/05/05/braun-borse-2024/)
-* [2024-05-05, 11:40:20](https://news.ycombinator.com/item?id=40264091) - [The book Kubrick tried to kill](https://www.theguardian.com/film/2024/apr/21/stanley-kubrick-director-book-block-flaws-films-published)
+* [2024-05-05, 11:40:20](https://news.ycombinator.com/item?id=40264091) - [A book Stanley Kubrick didn’t want anyone to read is being published](https://www.theguardian.com/film/2024/apr/21/stanley-kubrick-director-book-block-flaws-films-published)
 * [2024-05-05, 08:08:13](https://news.ycombinator.com/item?id=40263109) - [A 100x speedup with unsafe Python](https://yosefk.com/blog/a-100x-speedup-with-unsafe-python.html)
 * [2024-05-05, 04:39:44](https://news.ycombinator.com/item?id=40262289) - [Frank Stella, Towering Artist and Master of Reinvention, Dies at 87](https://www.nytimes.com/2024/05/04/arts/frank-stella-dead.html)
 * [2024-05-04, 23:04:59](https://news.ycombinator.com/item?id=40261014) - [What makes a translation great?](https://scroll.in/article/876969/what-makes-a-translation-great-ten-literary-translators-from-across-the-world-weigh-in)
