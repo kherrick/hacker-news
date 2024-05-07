@@ -55,6 +55,7 @@
 * [2024-05-05, 12:01:01](https://news.ycombinator.com/item?id=40264194) - [A bug that spoke Russian and crashed my app](https://imzaldih.com/en/post/bug-spoke-russian-crashed-app/)
 * [2024-05-05, 12:00:26](https://news.ycombinator.com/item?id=40264192) - [Fern (YC W23) Is Hiring a Back End Engineer in NYC](https://www.ycombinator.com/companies/fern/jobs/9mMCMnY-backend-engineer)
 * [2024-05-05, 11:58:46](https://news.ycombinator.com/item?id=40264182) - [A Visual History of Windows Icons: From Windows 1 to 11 (2011)](https://www.howtogeek.com/733912/a-visual-history-of-windows-icons-from-windows-1-to-11/)
+* [2024-05-05, 11:40:20](https://news.ycombinator.com/item?id=40264091) - [The book Kubrick tried to kill](https://www.theguardian.com/film/2024/apr/21/stanley-kubrick-director-book-block-flaws-films-published)
 * [2024-05-05, 11:31:17](https://news.ycombinator.com/item?id=40264042) - [Take a look at traefik, even if you don't use containers](https://j6b72.de/article/why-you-should-take-a-look-at-traefik/)
 * [2024-05-05, 11:30:04](https://news.ycombinator.com/item?id=40264033) - [Vintage Style Mandelbrot Map](https://www.mandelmap.com)
 * [2024-05-05, 11:16:19](https://news.ycombinator.com/item?id=40263975) - [Rabbit R1 can be run on a Android device](https://www.androidauthority.com/rabbit-r1-bespoke-android-3439760/)
