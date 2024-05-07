@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-07, 11:23:07](https://news.ycombinator.com/item?id=40284286) - [Microsoft Working on 'Far Larger' In-House AI Model](https://www.pymnts.com/artificial-intelligence-2/2024/report-microsoft-working-on-far-larger-in-house-ai-model/)
+* [2024-05-07, 10:58:32](https://news.ycombinator.com/item?id=40284164) - [Dotfiles: Unofficial Guide to Dotfiles on GitHub](https://dotfiles.github.io/)
 * [2024-05-07, 10:54:57](https://news.ycombinator.com/item?id=40284147) - [Caniwebview.com – Like Caniuse but for Webviews](https://caniwebview.com/)
 * [2024-05-07, 10:47:46](https://news.ycombinator.com/item?id=40284111) - [Novel attack against virtually all VPN apps neuters their entire purpose](https://arstechnica.com/security/2024/05/novel-attack-against-virtually-all-vpn-apps-neuters-their-entire-purpose/)
 * [2024-05-07, 10:42:38](https://news.ycombinator.com/item?id=40284091) - [Google Fit APIs get shut down in 2025, might break fitness devices](https://arstechnica.com/gadgets/2024/05/google-fit-apis-get-shut-down-in-2025-might-break-fitness-devices/)
@@ -11,7 +12,6 @@
 * [2024-05-07, 00:01:44](https://news.ycombinator.com/item?id=40280875) - [Faster XML Stream Processing in Go (2019)](https://eli.thegreenplace.net/2019/faster-xml-stream-processing-in-go/)
 * [2024-05-06, 23:34:58](https://news.ycombinator.com/item?id=40280689) - [Proton Mail discloses user data leading to arrest in Spain](https://restoreprivacy.com/protonmail-discloses-user-data-leading-to-arrest-in-spain/)
 * [2024-05-06, 23:03:34](https://news.ycombinator.com/item?id=40280490) - [Caniemail.com – like caniuse but for email content](https://www.caniemail.com/)
-* [2024-05-06, 22:19:22](https://news.ycombinator.com/item?id=40280161) - [How do birds flock? Research reveals previously unknown aerodynamic phenomenon](https://www.nyu.edu/about/news-publications/news/2024/april/how-do-birds-flock--researchers-do-the-math-to-reveal-previously.html)
 * [2024-05-06, 21:19:55](https://news.ycombinator.com/item?id=40279632) - [Attackers can decloak routing-based VPNs](https://www.leviathansecurity.com/blog/tunnelvision)
 * [2024-05-06, 21:03:54](https://news.ycombinator.com/item?id=40279499) - [An infinite canvas for code exploration](https://territory.dev)
 * [2024-05-06, 20:45:57](https://news.ycombinator.com/item?id=40279305) - [TOTP Authenticator for PalmOS](https://www.nkorth.com/palm/apps/#totp-authenticator)
