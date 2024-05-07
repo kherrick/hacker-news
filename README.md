@@ -11,7 +11,6 @@
 * [2024-05-07, 14:59:51](https://news.ycombinator.com/item?id=40286403) - [How not to change PostgreSQL column type](https://notso.boringsql.com/posts/how-not-to-change-postgresql-column-type/)
 * [2024-05-07, 14:37:32](https://news.ycombinator.com/item?id=40286029) - [Apple introduces M4 chip](https://www.apple.com/newsroom/2024/05/apple-introduces-m4-chip/)
 * [2024-05-07, 14:34:49](https://news.ycombinator.com/item?id=40285986) - [Instructlab AI CLI](https://github.com/instructlab/instructlab)
-* [2024-05-07, 14:02:25](https://news.ycombinator.com/item?id=40285571) - [Rethinking string encoding: a 37.5% space efficient encoding than UTF-8 in Fury](https://fury.apache.org/blog/fury_meta_string_37_5_percent_space_efficient_encoding_than_utf8/)
 * [2024-05-07, 13:32:50](https://news.ycombinator.com/item?id=40285244) - [Show HN: Visual debugger for Rails system tests](https://github.com/stepful/cyperful)
 * [2024-05-07, 13:29:49](https://news.ycombinator.com/item?id=40285211) - [Can turning office towers into apartments save downtowns?](https://www.newyorker.com/magazine/2024/05/06/can-turning-office-towers-into-apartments-save-downtowns)
 * [2024-05-07, 12:46:14](https://news.ycombinator.com/item?id=40284823) - [Cold brew coffee in 3 minutes using acoustic cavitation](https://www.unsw.edu.au/newsroom/news/2024/05/Ultrasonic_cold_brew_coffee_ready_under_three_minutes)
@@ -29,6 +28,7 @@
 * [2024-05-06, 01:35:59](https://news.ycombinator.com/item?id=40270309) - [Defending the city: An overview of defensive tactics](https://mwi.westpoint.edu/defending-the-city-an-overview-of-defensive-tactics-from-the-modern-history-of-urban-warfare/)
 * [2024-05-05, 23:57:32](https://news.ycombinator.com/item?id=40269754) - [Book people think they know why 9-year-olds stop reading for fun](https://slate.com/culture/2024/05/kids-reading-fun-books-decline-by-nine-crisis.html)
 * [2024-05-05, 18:03:26](https://news.ycombinator.com/item?id=40266831) - [Coding interviews are stupid (ish)](https://darrenkopp.com/posts/2024/05/01/coding-interviews-are-stupid)
+* [2024-05-05, 16:28:06](https://news.ycombinator.com/item?id=40266057) - [Show HN: Wanderer – an open-source trail database](https://github.com/Flomp/wanderer)
 * [2024-05-05, 10:47:36](https://news.ycombinator.com/item?id=40263819) - [Deterministic Quoting: Making LLMs safer for healthcare](https://mattyyeung.github.io/deterministic-quoting)
 
 ## [Archives](archives/index.md)
