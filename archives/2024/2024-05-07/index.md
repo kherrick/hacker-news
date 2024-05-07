@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-07](index.md)
 
 * [2024-05-07, 22:15:05](https://news.ycombinator.com/item?id=40292181) - [Decker: A fantastic reincarnation of HyperCard with 1-bit graphics](https://www.beyondloom.com/decker/index.html)
+* [2024-05-07, 21:35:04](https://news.ycombinator.com/item?id=40291780) - [Intent-tuned LLM router that selects the best LLM for a user query](https://github.com/pulzeai-oss/knn-router/tree/main/deploy/pulze-intent-v0.1)
 * [2024-05-07, 21:24:18](https://news.ycombinator.com/item?id=40291672) - [Nintendo to announce new console by end of fiscal year](https://twitter.com/nintendocoltd/status/1787736518762881197)
 * [2024-05-07, 21:16:36](https://news.ycombinator.com/item?id=40291598) - [IBM Granite: A Family of Open Foundation Models for Code Intelligence](https://github.com/ibm-granite/granite-code-models)
 * [2024-05-07, 21:07:33](https://news.ycombinator.com/item?id=40291490) - [Jolie, the service-oriented programming language](https://www.jolie-lang.org/index.html)
