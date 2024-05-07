@@ -88,3 +88,4 @@
 * [2024-05-06, 01:16:26](https://news.ycombinator.com/item?id=40270219) - [BlackHole: macOS Audio Loopback Driver](https://github.com/ExistentialAudio/BlackHole)
 * [2024-05-06, 01:06:46](https://news.ycombinator.com/item?id=40270161) - [Shibboleth](https://www.newyorker.com/news/essay/shibboleth-the-role-of-words-in-the-campus-protests)
 * [2024-05-06, 00:45:26](https://news.ycombinator.com/item?id=40270029) - [Habeck files: German government deception about the nuclear phase-out](https://www.planet-today.com/2024/04/the-secret-habeck-files-how-german.html)
+* [2024-05-06, 00:24:39](https://news.ycombinator.com/item?id=40269911) - [Array.shift Optimizations in Firefox's JavaScript Engine (2020)](https://lannonbr.com/blog/2020-01-27-shift-optimizations/)
