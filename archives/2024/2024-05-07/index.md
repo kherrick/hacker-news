@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-07](index.md)
 
+* [2024-05-07, 13:53:45](https://news.ycombinator.com/item?id=40285476) - [Microsoft closes several large Bethesda affiliated game studios](https://www.ign.com/articles/microsoft-closes-redfall-developer-arkane-austin-hifi-rush-developer-tango-gameworks-and-more-in-devastating-cuts-at-bethesda)
+* [2024-05-07, 13:37:41](https://news.ycombinator.com/item?id=40285288) - [Cybertruck Owner Breaks His Finger Trying to Show Vehicle Is Safe](https://gizmodo.com/cybertruck-video-breaks-finger-safe-stick-elon-musk-1851460112)
 * [2024-05-07, 13:32:50](https://news.ycombinator.com/item?id=40285244) - [Show HN: Visual debugger for Rails system tests](https://github.com/stepful/cyperful)
 * [2024-05-07, 13:29:49](https://news.ycombinator.com/item?id=40285211) - [Can Turning Office Towers into Apartments Save Downtowns?](https://www.newyorker.com/magazine/2024/05/06/can-turning-office-towers-into-apartments-save-downtowns)
 * [2024-05-07, 13:07:07](https://news.ycombinator.com/item?id=40284994) - [Raspberry Pi Connect](https://www.raspberrypi.com/news/raspberry-pi-connect/)
