@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-05-07, 12:01:12",
+      "https://news.ycombinator.com/item?id=40284492"
+    ],
+    [
+      "PermitFlow (YC W22) Is Hiring Software Engineers",
+      "https://jobs.ashbyhq.com/permitflow"
+    ]
+  ],
+  [
+    [
+      "2024-05-07, 11:41:50",
+      "https://news.ycombinator.com/item?id=40284389"
+    ],
+    [
+      "Boeing faces new US investigation into 'missed' 787 inspections",
+      "https://www.theguardian.com/business/article/2024/may/07/boeing-us-investigation-787-inspections-faa"
+    ]
+  ],
+  [
+    [
       "2024-05-07, 11:23:07",
       "https://news.ycombinator.com/item?id=40284286"
     ],
     [
       "Microsoft Working on 'Far Larger' In-House AI Model",
       "https://www.pymnts.com/artificial-intelligence-2/2024/report-microsoft-working-on-far-larger-in-house-ai-model/"
+    ]
+  ],
+  [
+    [
+      "2024-05-07, 11:08:56",
+      "https://news.ycombinator.com/item?id=40284219"
+    ],
+    [
+      "Pyspread – The Most Pythonic Spreadsheet",
+      "https://pyspread.gitlab.io/"
     ]
   ],
   [
@@ -51,16 +81,6 @@
   ],
   [
     [
-      "2024-05-07, 08:29:27",
-      "https://news.ycombinator.com/item?id=40283482"
-    ],
-    [
-      "CodeCrafters (YC S22) Is Hiring Asia-Based SDRs / BDRs",
-      "https://www.ycombinator.com/companies/codecrafters/jobs/7ljWFvU-sdr-for-enterprise-influencer-partnerships-manager"
-    ]
-  ],
-  [
-    [
       "2024-05-07, 07:07:34",
       "https://news.ycombinator.com/item?id=40283139"
     ],
@@ -87,16 +107,6 @@
     [
       "How Python asyncio works: recreating it from scratch",
       "https://jacobpadilla.com/articles/recreating-asyncio"
-    ]
-  ],
-  [
-    [
-      "2024-05-07, 00:01:44",
-      "https://news.ycombinator.com/item?id=40280875"
-    ],
-    [
-      "Faster XML Stream Processing in Go (2019)",
-      "https://eli.thegreenplace.net/2019/faster-xml-stream-processing-in-go/"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Results of the Grand C++ Error Explosion Competition (2014)",
       "https://tgceec.tumblr.com/post/74534916370/results-of-the-grand-c-error-explosion"
-    ]
-  ],
-  [
-    [
-      "2024-05-06, 15:45:50",
-      "https://news.ycombinator.com/item?id=40275973"
-    ],
-    [
-      "Nukefix: Simulating your nuclear weapons program",
-      "http://www.nukefix.org/nukepix.html"
     ]
   ],
   [
