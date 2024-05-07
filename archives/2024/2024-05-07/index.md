@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-07](index.md)
 
+* [2024-05-07, 09:40:48](https://news.ycombinator.com/item?id=40283808) - [My husband has become a Vim peasant – please advise](https://old.reddit.com/r/emacs/comments/1ck8w2g/my_husband_has_become_a_vim_peasant_please_advise/)
 * [2024-05-07, 08:29:27](https://news.ycombinator.com/item?id=40283482) - [CodeCrafters (YC S22) Is Hiring Asia-Based SDRs / BDRs](https://www.ycombinator.com/companies/codecrafters/jobs/7ljWFvU-sdr-for-enterprise-influencer-partnerships-manager)
 * [2024-05-07, 07:07:34](https://news.ycombinator.com/item?id=40283139) - [GCC 14.1 Release](https://gcc.gnu.org/gcc-14/)
 * [2024-05-07, 06:10:55](https://news.ycombinator.com/item?id=40282856) - [We've been put in the vibe space](https://vickiboykis.com/2024/05/06/weve-been-put-in-the-vibe-space/)
