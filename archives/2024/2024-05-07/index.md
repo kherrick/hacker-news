@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-07](index.md)
 
+* [2024-05-07, 07:07:34](https://news.ycombinator.com/item?id=40283139) - [GCC 14.1 Release](https://gcc.gnu.org/gcc-14/)
+* [2024-05-07, 06:10:55](https://news.ycombinator.com/item?id=40282856) - [We've been put in the vibe space](https://vickiboykis.com/2024/05/06/weve-been-put-in-the-vibe-space/)
 * [2024-05-07, 04:19:13](https://news.ycombinator.com/item?id=40282290) - [Google begins enforcement of site reputation abuse policy](https://searchengineland.com/google-begins-enforcement-of-site-reputation-abuse-policy-with-portions-of-sites-being-delisted-440294)
 * [2024-05-07, 03:05:17](https://news.ycombinator.com/item?id=40281936) - [Spacecraft Takes Close Up Video of the Sun, Revealing Otherworldly Hellscape](https://futurism.com/the-byte/spacecraft-close-up-video-sun)
 * [2024-05-07, 02:11:20](https://news.ycombinator.com/item?id=40281588) - [Google, Meta 'break' Apple's device fingerprinting rules](https://www.theregister.com/2024/05/07/apple_fingerprinting_rules/)

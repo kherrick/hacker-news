@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-07, 07:07:34](https://news.ycombinator.com/item?id=40283139) - [GCC 14.1 Release](https://gcc.gnu.org/gcc-14/)
+* [2024-05-07, 06:10:55](https://news.ycombinator.com/item?id=40282856) - [We've been put in the vibe space](https://vickiboykis.com/2024/05/06/weve-been-put-in-the-vibe-space/)
 * [2024-05-07, 04:19:13](https://news.ycombinator.com/item?id=40282290) - [Google begins enforcement of site reputation abuse policy](https://searchengineland.com/google-begins-enforcement-of-site-reputation-abuse-policy-with-portions-of-sites-being-delisted-440294)
 * [2024-05-07, 01:32:23](https://news.ycombinator.com/item?id=40281340) - [New black hole visualization takes viewers beyond the brink](https://phys.org/news/2024-05-black-hole-visualization-viewers-brink.html)
-* [2024-05-07, 01:26:10](https://news.ycombinator.com/item?id=40281314) - [Utilities for refactoring and upgrading Ruby code based on ASTs](https://github.com/baweaver/refactor)
 * [2024-05-07, 01:18:19](https://news.ycombinator.com/item?id=40281272) - [Boeing Starliner's first crewed mission scrubbed](https://techcrunch.com/2024/05/06/boeing-starliners-first-crewed-mission-scrubbed/)
 * [2024-05-07, 00:50:11](https://news.ycombinator.com/item?id=40281139) - [How Python asyncio works: recreating it from scratch](https://jacobpadilla.com/articles/recreating-asyncio)
 * [2024-05-07, 00:01:44](https://news.ycombinator.com/item?id=40280875) - [Faster XML Stream Processing in Go (2019)](https://eli.thegreenplace.net/2019/faster-xml-stream-processing-in-go/)
@@ -29,7 +30,6 @@
 * [2024-05-05, 16:09:54](https://news.ycombinator.com/item?id=40265904) - [Visiting the annual Braun collectors fair](https://arslan.io/2024/05/05/braun-borse-2024/)
 * [2024-05-05, 11:40:20](https://news.ycombinator.com/item?id=40264091) - [A book Stanley Kubrick didn’t want anyone to read is being published](https://www.theguardian.com/film/2024/apr/21/stanley-kubrick-director-book-block-flaws-films-published)
 * [2024-05-05, 08:08:13](https://news.ycombinator.com/item?id=40263109) - [A 100x speedup with unsafe Python](https://yosefk.com/blog/a-100x-speedup-with-unsafe-python.html)
-* [2024-05-05, 04:39:44](https://news.ycombinator.com/item?id=40262289) - [Frank Stella has died](https://www.nytimes.com/2024/05/04/arts/frank-stella-dead.html)
 
 ## [Archives](archives/index.md)
 
