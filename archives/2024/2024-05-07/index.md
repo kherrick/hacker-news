@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-07](index.md)
 
+* [2024-05-07, 03:05:17](https://news.ycombinator.com/item?id=40281936) - [Spacecraft Takes Close Up Video of the Sun, Revealing Otherworldly Hellscape](https://futurism.com/the-byte/spacecraft-close-up-video-sun)
 * [2024-05-07, 02:11:20](https://news.ycombinator.com/item?id=40281588) - [Google, Meta 'break' Apple's device fingerprinting rules](https://www.theregister.com/2024/05/07/apple_fingerprinting_rules/)
 * [2024-05-07, 01:32:23](https://news.ycombinator.com/item?id=40281340) - [New black hole visualization takes viewers beyond the brink](https://phys.org/news/2024-05-black-hole-visualization-viewers-brink.html)
 * [2024-05-07, 01:26:10](https://news.ycombinator.com/item?id=40281314) - [Utilities for refactoring and upgrading Ruby code based on ASTs](https://github.com/baweaver/refactor)
