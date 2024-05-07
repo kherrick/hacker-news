@@ -1,42 +1,12 @@
 [
   [
     [
-      "2024-05-07, 15:18:01",
-      "https://news.ycombinator.com/item?id=40286739"
-    ],
-    [
-      "Theranos fraudster Elizabeth Holmes has prison sentence reduced again",
-      "https://www.theguardian.com/us-news/article/2024/may/07/elizabeth-holmes-prison-sentence"
-    ]
-  ],
-  [
-    [
       "2024-05-07, 14:41:38",
       "https://news.ycombinator.com/item?id=40286085"
     ],
     [
-      "Apple Unveils New iPad Pro",
+      "New iPad Pro with M4 chip and Apple Pencil Pro",
       "https://www.apple.com/newsroom/2024/05/apple-unveils-stunning-new-ipad-pro-with-m4-chip-and-apple-pencil-pro/"
-    ]
-  ],
-  [
-    [
-      "2024-05-07, 14:39:08",
-      "https://news.ycombinator.com/item?id=40286052"
-    ],
-    [
-      "Final Cut Pro transforms video creation with Live Multicam, new AI features",
-      "https://www.apple.com/newsroom/2024/05/final-cut-pro-transforms-video-creation-with-live-multicam-on-ipad-and-new-ai-features-on-mac/"
-    ]
-  ],
-  [
-    [
-      "2024-05-07, 14:39:04",
-      "https://news.ycombinator.com/item?id=40286051"
-    ],
-    [
-      "Apple unveils the redesigned 11-inch and all-new 13-inch iPad Air",
-      "https://www.apple.com/newsroom/2024/05/apple-unveils-the-redesigned-11-inch-and-all-new-13-inch-ipad-air-with-m2/"
     ]
   ],
   [
@@ -45,18 +15,8 @@
       "https://news.ycombinator.com/item?id=40286029"
     ],
     [
-      "Apple Introduces M4 Chip",
+      "Apple introduces M4 chip",
       "https://www.apple.com/newsroom/2024/05/apple-introduces-m4-chip/"
-    ]
-  ],
-  [
-    [
-      "2024-05-07, 14:20:00",
-      "https://news.ycombinator.com/item?id=40285779"
-    ],
-    [
-      "Apple announces new iPad Pro: OLED display, M4 chip, thinner redesigned chassis",
-      "https://9to5mac.com/2024/05/07/apple-announces-new-ipad-pro-oled-display-thinnest-apple-product-ever/"
     ]
   ],
   [
@@ -101,12 +61,32 @@
   ],
   [
     [
+      "2024-05-07, 13:29:49",
+      "https://news.ycombinator.com/item?id=40285211"
+    ],
+    [
+      "Can turning office towers into apartments save downtowns?",
+      "https://www.newyorker.com/magazine/2024/05/06/can-turning-office-towers-into-apartments-save-downtowns"
+    ]
+  ],
+  [
+    [
       "2024-05-07, 13:07:07",
       "https://news.ycombinator.com/item?id=40284994"
     ],
     [
       "Raspberry Pi Connect",
       "https://www.raspberrypi.com/news/raspberry-pi-connect/"
+    ]
+  ],
+  [
+    [
+      "2024-05-07, 12:48:09",
+      "https://news.ycombinator.com/item?id=40284839"
+    ],
+    [
+      "Podman Desktop 1.10: 1M downloads and counting",
+      "https://podman-desktop.io/blog/podman-desktop-release-1.10"
     ]
   ],
   [
@@ -281,6 +261,16 @@
   ],
   [
     [
+      "2024-05-05, 18:03:26",
+      "https://news.ycombinator.com/item?id=40266831"
+    ],
+    [
+      "Coding interviews are stupid (ish)",
+      "https://darrenkopp.com/posts/2024/05/01/coding-interviews-are-stupid"
+    ]
+  ],
+  [
+    [
       "2024-05-05, 11:40:20",
       "https://news.ycombinator.com/item?id=40264091"
     ],
@@ -297,6 +287,16 @@
     [
       "A 100x speedup with unsafe Python",
       "https://yosefk.com/blog/a-100x-speedup-with-unsafe-python.html"
+    ]
+  ],
+  [
+    [
+      "2024-05-04, 23:04:59",
+      "https://news.ycombinator.com/item?id=40261014"
+    ],
+    [
+      "What makes a translation great?",
+      "https://scroll.in/article/876969/what-makes-a-translation-great-ten-literary-translators-from-across-the-world-weigh-in"
     ]
   ]
 ]
