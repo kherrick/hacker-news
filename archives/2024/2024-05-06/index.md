@@ -26,6 +26,7 @@
 * [2024-05-06, 18:33:33](https://news.ycombinator.com/item?id=40277933) - [Ask HN: What Nonfiction Books Do You Keep Rereading?](https://news.ycombinator.com/item?id=40277933)
 * [2024-05-06, 18:29:21](https://news.ycombinator.com/item?id=40277895) - [Gas and propane stoves linked to 50k cases of childhood asthma, study finds](https://www.nbcnews.com/health/kids-health/gas-stoves-linked-childhood-asthma-study-rcna150241)
 * [2024-05-06, 18:20:00](https://news.ycombinator.com/item?id=40277791) - [OpenAI API Partnership with Stack Overflow](https://openai.com/index/api-partnership-with-stack-overflow)
+* [2024-05-06, 18:17:23](https://news.ycombinator.com/item?id=40277753) - [Async Channels for Swift Concurrency](https://github.com/gh123man/Async-Channels)
 * [2024-05-06, 18:07:21](https://news.ycombinator.com/item?id=40277610) - [MIT 6.S191: Recurrent Neural Networks, Transformers, and Attention [video]](https://www.youtube.com/watch?v=dqoEU9Ac3ek)
 * [2024-05-06, 18:04:59](https://news.ycombinator.com/item?id=40277581) - [Volcanoes and Us (2015) [video]](https://www.youtube.com/watch?v=GlNhaAV5NZ4)
 * [2024-05-06, 18:02:59](https://news.ycombinator.com/item?id=40277547) - [New way to have complex discussions](https://cq2.co/blog/the-best-way-to-have-complex-discussions)

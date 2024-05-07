@@ -14,6 +14,7 @@
 * [2024-05-06, 21:03:54](https://news.ycombinator.com/item?id=40279499) - [An infinite canvas for code exploration](https://territory.dev)
 * [2024-05-06, 21:00:31](https://news.ycombinator.com/item?id=40279464) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-05-06, 20:45:57](https://news.ycombinator.com/item?id=40279305) - [TOTP Authenticator for PalmOS](https://www.nkorth.com/palm/apps/#totp-authenticator)
+* [2024-05-06, 18:17:23](https://news.ycombinator.com/item?id=40277753) - [Async Channels for Swift Concurrency](https://github.com/gh123man/Async-Channels)
 * [2024-05-06, 18:02:59](https://news.ycombinator.com/item?id=40277547) - [The best way to have complex discussions?](https://cq2.co/blog/the-best-way-to-have-complex-discussions)
 * [2024-05-06, 17:57:39](https://news.ycombinator.com/item?id=40277469) - [Results of the Grand C++ Error Explosion Competition (2014)](https://tgceec.tumblr.com/post/74534916370/results-of-the-grand-c-error-explosion)
 * [2024-05-06, 17:00:42](https://news.ycombinator.com/item?id=40276768) - [Show HN: Peerdb Streams – Simple, native Postgres change data capture](https://news.ycombinator.com/item?id=40276768)
@@ -29,7 +30,6 @@
 * [2024-05-05, 11:40:20](https://news.ycombinator.com/item?id=40264091) - [A book Stanley Kubrick didn’t want anyone to read is being published](https://www.theguardian.com/film/2024/apr/21/stanley-kubrick-director-book-block-flaws-films-published)
 * [2024-05-05, 08:08:13](https://news.ycombinator.com/item?id=40263109) - [A 100x speedup with unsafe Python](https://yosefk.com/blog/a-100x-speedup-with-unsafe-python.html)
 * [2024-05-05, 04:39:44](https://news.ycombinator.com/item?id=40262289) - [Frank Stella has died](https://www.nytimes.com/2024/05/04/arts/frank-stella-dead.html)
-* [2024-05-04, 23:04:59](https://news.ycombinator.com/item?id=40261014) - [What makes a translation great?](https://scroll.in/article/876969/what-makes-a-translation-great-ten-literary-translators-from-across-the-world-weigh-in)
 
 ## [Archives](archives/index.md)
 
