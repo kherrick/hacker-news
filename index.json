@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-07, 15:18:01",
+      "https://news.ycombinator.com/item?id=40286739"
+    ],
+    [
+      "Theranos fraudster Elizabeth Holmes has prison sentence reduced again",
+      "https://www.theguardian.com/us-news/article/2024/may/07/elizabeth-holmes-prison-sentence"
+    ]
+  ],
+  [
+    [
       "2024-05-07, 14:41:38",
       "https://news.ycombinator.com/item?id=40286085"
     ],
@@ -41,12 +51,12 @@
   ],
   [
     [
-      "2024-05-07, 14:08:05",
-      "https://news.ycombinator.com/item?id=40285628"
+      "2024-05-07, 14:20:00",
+      "https://news.ycombinator.com/item?id=40285779"
     ],
     [
-      "The Rise of the Forever Renter Class",
-      "https://ofdollarsanddata.com/the-forever-renter-class/"
+      "Apple announces new iPad Pro: OLED display, M4 chip, thinner redesigned chassis",
+      "https://9to5mac.com/2024/05/07/apple-announces-new-ipad-pro-oled-display-thinnest-apple-product-ever/"
     ]
   ],
   [
@@ -105,8 +115,18 @@
       "https://news.ycombinator.com/item?id=40284823"
     ],
     [
-      "Cold Brew Coffee in 3 Minutes Using Acoustic Cavitation",
+      "Cold brew coffee in 3 minutes using acoustic cavitation",
       "https://www.unsw.edu.au/newsroom/news/2024/05/Ultrasonic_cold_brew_coffee_ready_under_three_minutes"
+    ]
+  ],
+  [
+    [
+      "2024-05-07, 12:01:46",
+      "https://news.ycombinator.com/item?id=40284495"
+    ],
+    [
+      "Homemade liquid nitrogen generator using Joule Thomson ThrottlinG",
+      "http://homemadeliquidnitrogen.com/"
     ]
   ],
   [
@@ -181,6 +201,16 @@
   ],
   [
     [
+      "2024-05-07, 07:07:34",
+      "https://news.ycombinator.com/item?id=40283139"
+    ],
+    [
+      "GCC 14.1",
+      "https://gcc.gnu.org/gcc-14/"
+    ]
+  ],
+  [
+    [
       "2024-05-07, 06:10:55",
       "https://news.ycombinator.com/item?id=40282856"
     ],
@@ -207,36 +237,6 @@
     [
       "Caniemail.com – like caniuse but for email content",
       "https://www.caniemail.com/"
-    ]
-  ],
-  [
-    [
-      "2024-05-06, 21:19:55",
-      "https://news.ycombinator.com/item?id=40279632"
-    ],
-    [
-      "Attackers can decloak routing-based VPNs",
-      "https://www.leviathansecurity.com/blog/tunnelvision"
-    ]
-  ],
-  [
-    [
-      "2024-05-06, 21:03:54",
-      "https://news.ycombinator.com/item?id=40279499"
-    ],
-    [
-      "An infinite canvas for code exploration",
-      "https://territory.dev"
-    ]
-  ],
-  [
-    [
-      "2024-05-06, 20:45:57",
-      "https://news.ycombinator.com/item?id=40279305"
-    ],
-    [
-      "TOTP Authenticator for PalmOS",
-      "https://www.nkorth.com/palm/apps/#totp-authenticator"
     ]
   ],
   [
