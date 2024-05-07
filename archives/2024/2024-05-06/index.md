@@ -50,6 +50,7 @@
 * [2024-05-06, 15:47:07](https://news.ycombinator.com/item?id=40275986) - [Balsamic vinegar is likely fake](https://www.bbc.com/travel/article/20231024-why-your-balsamic-vinegar-is-likely-fake)
 * [2024-05-06, 15:45:50](https://news.ycombinator.com/item?id=40275973) - [Nukefix: Simulating your nuclear weapons program](http://www.nukefix.org/nukepix.html)
 * [2024-05-06, 15:45:46](https://news.ycombinator.com/item?id=40275969) - [Show HN: Touvlo – Technical Interviewing for Hardware Engineers (By Humans)](https://touvlo.co)
+* [2024-05-06, 15:45:41](https://news.ycombinator.com/item?id=40275966) - [Making light 'feel' a magnetic field like an electron would](https://phys.org/news/2024-04-magnetic-field-electron.html)
 * [2024-05-06, 15:24:30](https://news.ycombinator.com/item?id=40275759) - [Evaluating bias and noise induced by the U.S. Census Bureau's privacy protection](https://www.science.org/doi/10.1126/sciadv.adl2524)
 * [2024-05-06, 15:15:06](https://news.ycombinator.com/item?id=40275639) - [Large Language Models Are Poor Medical Coders](https://ai.nejm.org/doi/full/10.1056/AIdbp2300040)
 * [2024-05-06, 14:39:41](https://news.ycombinator.com/item?id=40275235) - [Robinhood Crypto Gets Wells Notice from US SEC](https://www.reuters.com/business/finance/robinhood-crypto-gets-wells-notice-us-sec-2024-05-06/)

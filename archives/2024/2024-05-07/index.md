@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-05-07](index.md)
 
+* [2024-05-07, 14:08:05](https://news.ycombinator.com/item?id=40285628) - [The Rise of the Forever Renter Class](https://ofdollarsanddata.com/the-forever-renter-class/)
 * [2024-05-07, 13:53:45](https://news.ycombinator.com/item?id=40285476) - [Microsoft closes several large Bethesda affiliated game studios](https://www.ign.com/articles/microsoft-closes-redfall-developer-arkane-austin-hifi-rush-developer-tango-gameworks-and-more-in-devastating-cuts-at-bethesda)
 * [2024-05-07, 13:37:41](https://news.ycombinator.com/item?id=40285288) - [Cybertruck Owner Breaks His Finger Trying to Show Vehicle Is Safe](https://gizmodo.com/cybertruck-video-breaks-finger-safe-stick-elon-musk-1851460112)
 * [2024-05-07, 13:32:50](https://news.ycombinator.com/item?id=40285244) - [Show HN: Visual debugger for Rails system tests](https://github.com/stepful/cyperful)
 * [2024-05-07, 13:29:49](https://news.ycombinator.com/item?id=40285211) - [Can Turning Office Towers into Apartments Save Downtowns?](https://www.newyorker.com/magazine/2024/05/06/can-turning-office-towers-into-apartments-save-downtowns)
 * [2024-05-07, 13:07:07](https://news.ycombinator.com/item?id=40284994) - [Raspberry Pi Connect](https://www.raspberrypi.com/news/raspberry-pi-connect/)
 * [2024-05-07, 13:03:10](https://news.ycombinator.com/item?id=40284963) - [Jack Dorsey Leaves Bluesky Board and Calls X 'Freedom Technology'](https://www.msn.com/en-ph/money/technology/jack-dorsey-leaves-bluesky-board-calls-x-freedom-technology/ar-BB1lSjbe)
+* [2024-05-07, 12:46:14](https://news.ycombinator.com/item?id=40284823) - [Cold Brew Coffee in 3 Minutes Using Acoustic Cavitation](https://www.unsw.edu.au/newsroom/news/2024/05/Ultrasonic_cold_brew_coffee_ready_under_three_minutes)
 * [2024-05-07, 12:01:12](https://news.ycombinator.com/item?id=40284492) - [PermitFlow (YC W22) Is Hiring Software Engineers](https://jobs.ashbyhq.com/permitflow)
 * [2024-05-07, 11:41:50](https://news.ycombinator.com/item?id=40284389) - [Boeing faces new US investigation into 'missed' 787 inspections](https://www.theguardian.com/business/article/2024/may/07/boeing-us-investigation-787-inspections-faa)
 * [2024-05-07, 11:36:01](https://news.ycombinator.com/item?id=40284358) - [1950s Sci-Fi Style Computers, Powered by a Z80, Built in Holland](https://lunduke.locals.com/post/5588902/1950s-sci-fi-style-computers-powered-by-a-z80-built-in-holland)
