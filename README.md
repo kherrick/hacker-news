@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-07, 10:42:38](https://news.ycombinator.com/item?id=40284091) - [Google Fit APIs get shut down in 2025, might break fitness devices](https://arstechnica.com/gadgets/2024/05/google-fit-apis-get-shut-down-in-2025-might-break-fitness-devices/)
 * [2024-05-07, 08:29:27](https://news.ycombinator.com/item?id=40283482) - [CodeCrafters (YC S22) Is Hiring Asia-Based SDRs / BDRs](https://www.ycombinator.com/companies/codecrafters/jobs/7ljWFvU-sdr-for-enterprise-influencer-partnerships-manager)
 * [2024-05-07, 07:07:34](https://news.ycombinator.com/item?id=40283139) - [GCC 14.1](https://gcc.gnu.org/gcc-14/)
 * [2024-05-07, 06:10:55](https://news.ycombinator.com/item?id=40282856) - [We've been put in the vibe space](https://vickiboykis.com/2024/05/06/weve-been-put-in-the-vibe-space/)
-* [2024-05-07, 04:19:13](https://news.ycombinator.com/item?id=40282290) - [Google begins enforcement of site reputation abuse policy](https://searchengineland.com/google-begins-enforcement-of-site-reputation-abuse-policy-with-portions-of-sites-being-delisted-440294)
 * [2024-05-07, 01:26:10](https://news.ycombinator.com/item?id=40281314) - [Utilities for refactoring and upgrading Ruby code based on ASTs](https://github.com/baweaver/refactor)
 * [2024-05-07, 00:50:11](https://news.ycombinator.com/item?id=40281139) - [How Python asyncio works: recreating it from scratch](https://jacobpadilla.com/articles/recreating-asyncio)
 * [2024-05-07, 00:01:44](https://news.ycombinator.com/item?id=40280875) - [Faster XML Stream Processing in Go (2019)](https://eli.thegreenplace.net/2019/faster-xml-stream-processing-in-go/)
