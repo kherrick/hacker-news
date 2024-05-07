@@ -20,6 +20,7 @@
 * [2024-05-07, 13:29:49](https://news.ycombinator.com/item?id=40285211) - [Can Turning Office Towers into Apartments Save Downtowns?](https://www.newyorker.com/magazine/2024/05/06/can-turning-office-towers-into-apartments-save-downtowns)
 * [2024-05-07, 13:07:07](https://news.ycombinator.com/item?id=40284994) - [Raspberry Pi Connect](https://www.raspberrypi.com/news/raspberry-pi-connect/)
 * [2024-05-07, 13:03:10](https://news.ycombinator.com/item?id=40284963) - [Jack Dorsey Leaves Bluesky Board and Calls X 'Freedom Technology'](https://www.msn.com/en-ph/money/technology/jack-dorsey-leaves-bluesky-board-calls-x-freedom-technology/ar-BB1lSjbe)
+* [2024-05-07, 12:48:09](https://news.ycombinator.com/item?id=40284839) - [Podman Desktop 1.10: 1M downloads and counting](https://podman-desktop.io/blog/podman-desktop-release-1.10)
 * [2024-05-07, 12:46:14](https://news.ycombinator.com/item?id=40284823) - [Cold Brew Coffee in 3 Minutes Using Acoustic Cavitation](https://www.unsw.edu.au/newsroom/news/2024/05/Ultrasonic_cold_brew_coffee_ready_under_three_minutes)
 * [2024-05-07, 12:18:31](https://news.ycombinator.com/item?id=40284593) - [Elevate – Free Tailwind Business Template](https://github.com/spacemadev/elevate-free-tailwind-business-template)
 * [2024-05-07, 12:01:46](https://news.ycombinator.com/item?id=40284495) - [Homemade liquid nitrogen generator using Joule Thomson ThrottlinG](http://homemadeliquidnitrogen.com/)
