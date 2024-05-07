@@ -4,7 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-05-07](index.md)
 
+* [2024-05-07, 15:41:52](https://news.ycombinator.com/item?id=40287103) - [The Curious Case of Eriogonum Tiehmii](https://www.uvm.edu/cals/plantbiology/curious-case-eriogonum-tiehmii)
+* [2024-05-07, 15:37:07](https://news.ycombinator.com/item?id=40287035) - [Conjoined twins who refused to be 'fixed'](https://www.theatlantic.com/health/archive/2024/05/schappell-twins-conjoined-disabled-transgender/678316/)
+* [2024-05-07, 15:36:05](https://news.ycombinator.com/item?id=40287020) - [Road resurfacing during the daytime without stopping traffic [video]](https://www.youtube.com/watch?v=ymyIEGRw4-U)
+* [2024-05-07, 15:31:48](https://news.ycombinator.com/item?id=40286959) - [Linux When?](https://zed.dev/blog/zed-decoded-linux-when)
+* [2024-05-07, 15:30:31](https://news.ycombinator.com/item?id=40286942) - [J.G. Ballard predicted the rise of social media (2016)](https://www.openculture.com/2016/03/j-g-ballard-predicted-the-rise-of-social-media-and-youtube-celebrity-in-1977.html)
+* [2024-05-07, 15:29:09](https://news.ycombinator.com/item?id=40286923) - [Giant batteries are transforming the way the U.S. uses electricity](https://www.nytimes.com/interactive/2024/05/07/climate/battery-electricity-solar-california-texas.html)
 * [2024-05-07, 15:18:01](https://news.ycombinator.com/item?id=40286739) - [Theranos fraudster Elizabeth Holmes has prison sentence reduced again](https://www.theguardian.com/us-news/article/2024/may/07/elizabeth-holmes-prison-sentence)
+* [2024-05-07, 15:17:48](https://news.ycombinator.com/item?id=40286734) - [LPCAMM2 is a modular, repairable, upgradeable memory standard for laptops](https://www.ifixit.com/News/95078/lpcamm2-memory-is-finally-here)
 * [2024-05-07, 14:41:38](https://news.ycombinator.com/item?id=40286085) - [Apple Unveils New iPad Pro](https://www.apple.com/newsroom/2024/05/apple-unveils-stunning-new-ipad-pro-with-m4-chip-and-apple-pencil-pro/)
 * [2024-05-07, 14:39:08](https://news.ycombinator.com/item?id=40286052) - [Final Cut Pro transforms video creation with Live Multicam, new AI features](https://www.apple.com/newsroom/2024/05/final-cut-pro-transforms-video-creation-with-live-multicam-on-ipad-and-new-ai-features-on-mac/)
 * [2024-05-07, 14:39:04](https://news.ycombinator.com/item?id=40286051) - [Apple unveils the redesigned 11-inch and all-new 13-inch iPad Air](https://www.apple.com/newsroom/2024/05/apple-unveils-the-redesigned-11-inch-and-all-new-13-inch-ipad-air-with-m2/)
