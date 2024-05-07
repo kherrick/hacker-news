@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2024-05-07, 14:34:49",
-      "https://news.ycombinator.com/item?id=40285986"
-    ],
-    [
-      "Instructlab AI CLI",
-      "https://github.com/instructlab/instructlab"
-    ]
-  ],
-  [
-    [
       "2024-05-07, 13:32:50",
       "https://news.ycombinator.com/item?id=40285244"
     ],
@@ -237,6 +227,16 @@
     [
       "Conical Slicing: A different angle of 3D printing",
       "https://www.cnckitchen.com/blog/conical-slicing-a-different-angle-of-3d-printing"
+    ]
+  ],
+  [
+    [
+      "2024-05-06, 10:35:00",
+      "https://news.ycombinator.com/item?id=40273086"
+    ],
+    [
+      "Refactor: Utilities for refactoring and upgrading Ruby code based on ASTs",
+      "https://github.com/baweaver/refactor"
     ]
   ],
   [
