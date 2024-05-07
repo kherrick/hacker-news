@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-05-07](index.md)
 
+* [2024-05-07, 12:01:12](https://news.ycombinator.com/item?id=40284492) - [PermitFlow (YC W22) Is Hiring Software Engineers](https://jobs.ashbyhq.com/permitflow)
+* [2024-05-07, 11:41:50](https://news.ycombinator.com/item?id=40284389) - [Boeing faces new US investigation into 'missed' 787 inspections](https://www.theguardian.com/business/article/2024/may/07/boeing-us-investigation-787-inspections-faa)
 * [2024-05-07, 11:23:07](https://news.ycombinator.com/item?id=40284286) - [Microsoft Working on 'Far Larger' In-House AI Model](https://www.pymnts.com/artificial-intelligence-2/2024/report-microsoft-working-on-far-larger-in-house-ai-model/)
+* [2024-05-07, 11:08:56](https://news.ycombinator.com/item?id=40284219) - [Pyspread – The Most Pythonic Spreadsheet](https://pyspread.gitlab.io/)
 * [2024-05-07, 10:58:32](https://news.ycombinator.com/item?id=40284164) - [Dotfiles: Unofficial Guide to Dotfiles on GitHub](https://dotfiles.github.io/)
 * [2024-05-07, 10:54:57](https://news.ycombinator.com/item?id=40284147) - [Caniwebview.com – Like Caniuse but for Webviews](https://caniwebview.com/)
 * [2024-05-07, 10:47:46](https://news.ycombinator.com/item?id=40284111) - [Novel attack against virtually all VPN apps neuters their entire purpose](https://arstechnica.com/security/2024/05/novel-attack-against-virtually-all-vpn-apps-neuters-their-entire-purpose/)
