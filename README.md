@@ -2,12 +2,12 @@
 
 * [2024-05-07, 04:19:13](https://news.ycombinator.com/item?id=40282290) - [Google begins enforcement of site reputation abuse policy](https://searchengineland.com/google-begins-enforcement-of-site-reputation-abuse-policy-with-portions-of-sites-being-delisted-440294)
 * [2024-05-07, 03:05:17](https://news.ycombinator.com/item?id=40281936) - [Spacecraft Takes Close Up Video of the Sun, Revealing Otherworldly Hellscape](https://futurism.com/the-byte/spacecraft-close-up-video-sun)
-* [2024-05-07, 02:00:18](https://news.ycombinator.com/item?id=40281516) - [Kan: Kolmogorov-Arnold Networks](https://arxiv.org/abs/2404.19756)
 * [2024-05-07, 01:32:23](https://news.ycombinator.com/item?id=40281340) - [New black hole visualization takes viewers beyond the brink](https://phys.org/news/2024-05-black-hole-visualization-viewers-brink.html)
 * [2024-05-07, 01:26:10](https://news.ycombinator.com/item?id=40281314) - [Utilities for refactoring and upgrading Ruby code based on ASTs](https://github.com/baweaver/refactor)
 * [2024-05-07, 01:18:19](https://news.ycombinator.com/item?id=40281272) - [Boeing Starliner's first crewed mission scrubbed](https://techcrunch.com/2024/05/06/boeing-starliners-first-crewed-mission-scrubbed/)
 * [2024-05-07, 00:50:11](https://news.ycombinator.com/item?id=40281139) - [How Python asyncio works: recreating it from scratch](https://jacobpadilla.com/articles/recreating-asyncio)
 * [2024-05-07, 00:01:44](https://news.ycombinator.com/item?id=40280875) - [Faster XML Stream Processing in Go (2019)](https://eli.thegreenplace.net/2019/faster-xml-stream-processing-in-go/)
+* [2024-05-06, 23:34:58](https://news.ycombinator.com/item?id=40280689) - [Proton Mail discloses user data leading to arrest in Spain](https://restoreprivacy.com/protonmail-discloses-user-data-leading-to-arrest-in-spain/)
 * [2024-05-06, 23:03:34](https://news.ycombinator.com/item?id=40280490) - [Caniemail.com – like caniuse but for email content](https://www.caniemail.com/)
 * [2024-05-06, 22:19:22](https://news.ycombinator.com/item?id=40280161) - [How do birds flock? Research reveals previously unknown aerodynamic phenomenon](https://www.nyu.edu/about/news-publications/news/2024/april/how-do-birds-flock--researchers-do-the-math-to-reveal-previously.html)
 * [2024-05-06, 21:19:55](https://news.ycombinator.com/item?id=40279632) - [Attackers can decloak routing-based VPNs](https://www.leviathansecurity.com/blog/tunnelvision)
