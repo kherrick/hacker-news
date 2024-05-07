@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-07, 02:11:20](https://news.ycombinator.com/item?id=40281588) - [Google, Meta 'break' Apple's device fingerprinting rules](https://www.theregister.com/2024/05/07/apple_fingerprinting_rules/)
+* [2024-05-07, 01:32:23](https://news.ycombinator.com/item?id=40281340) - [New black hole visualization takes viewers beyond the brink](https://phys.org/news/2024-05-black-hole-visualization-viewers-brink.html)
 * [2024-05-07, 01:18:34](https://news.ycombinator.com/item?id=40281274) - [Vets fret as private equity snaps up clinics, pet care companies](https://stateline.org/2024/03/29/vets-fret-as-private-equity-snaps-up-clinics-pet-care-companies/)
 * [2024-05-07, 01:18:19](https://news.ycombinator.com/item?id=40281272) - [Boeing Starliner's first crewed mission scrubbed](https://techcrunch.com/2024/05/06/boeing-starliners-first-crewed-mission-scrubbed/)
 * [2024-05-07, 00:01:44](https://news.ycombinator.com/item?id=40280875) - [Eli Bendersky: Faster XML Stream Processing in Go](https://eli.thegreenplace.net/2019/faster-xml-stream-processing-in-go/)
@@ -13,7 +15,6 @@
 * [2024-05-06, 18:02:59](https://news.ycombinator.com/item?id=40277547) - [The best way to have complex discussions?](https://cq2.co/blog/the-best-way-to-have-complex-discussions)
 * [2024-05-06, 17:57:39](https://news.ycombinator.com/item?id=40277469) - [Results of the Grand C++ Error Explosion Competition (2014)](https://tgceec.tumblr.com/post/74534916370/results-of-the-grand-c-error-explosion)
 * [2024-05-06, 17:00:42](https://news.ycombinator.com/item?id=40276768) - [Show HN: Peerdb Streams – Simple, native Postgres change data capture](https://news.ycombinator.com/item?id=40276768)
-* [2024-05-06, 16:56:08](https://news.ycombinator.com/item?id=40276714) - [German public broadcasters open source their streaming platforms](https://www.heise.de/en/news/ARD-und-ZDF-wollen-ihren-Streaming-Code-als-Open-Source-anbieten-9709177.html)
 * [2024-05-06, 16:27:49](https://news.ycombinator.com/item?id=40276442) - [Spending an afternoon in the Sizewell control-room simulator](https://www.bentasker.co.uk/posts/blog/general/an-afternoon-in-sizewell-b-control-room-simulator.html)
 * [2024-05-06, 16:24:09](https://news.ycombinator.com/item?id=40276399) - [Quantum gravity gets a new test](https://physics.aps.org/articles/v17/65)
 * [2024-05-06, 15:48:09](https://news.ycombinator.com/item?id=40275997) - [Clojure: Managing throughput with virtual threads](https://andersmurphy.com/2024/05/06/clojure-managing-throughput-with-virtual-threads.html)
@@ -24,7 +25,6 @@
 * [2024-05-06, 10:50:48](https://news.ycombinator.com/item?id=40273180) - [Color Concepts 101 (2001) [pdf]](https://developers.hp.com/system/files/Color_Concepts_101_0.pdf)
 * [2024-05-06, 08:50:28](https://news.ycombinator.com/item?id=40272577) - [World Food Atlas: Discover local dishes and ingredients](https://www.tasteatlas.com/map)
 * [2024-05-06, 07:39:52](https://news.ycombinator.com/item?id=40272186) - [A useful productivity measure?](https://www.jamesshore.com/v2/blog/2024/a-useful-productivity-measure)
-* [2024-05-06, 01:16:26](https://news.ycombinator.com/item?id=40270219) - [BlackHole: macOS Audio Loopback Driver](https://github.com/ExistentialAudio/BlackHole)
 * [2024-05-05, 18:12:57](https://news.ycombinator.com/item?id=40266922) - [Understanding UMAP (2019)](https://pair-code.github.io/understanding-umap/)
 * [2024-05-05, 17:40:36](https://news.ycombinator.com/item?id=40266635) - [Stereogram Tutorial (2020)](https://www.ime.usp.br/~otuyama/stereogram/basic/index.html)
 * [2024-05-05, 16:09:54](https://news.ycombinator.com/item?id=40265904) - [Visiting the annual Braun collectors fair](https://arslan.io/2024/05/05/braun-borse-2024/)
