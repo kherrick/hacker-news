@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-08, 15:07:10](https://news.ycombinator.com/item?id=40298927) - [AlphaFold 3 predicts the structure and interactions of all of life's molecules](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/)
-* [2024-05-08, 14:49:34](https://news.ycombinator.com/item?id=40298714) - [3 reasons people are moving from Windows 11 back to Windows 10](https://www.xda-developers.com/reasons-people-moving-windows-11-back-to-windows-10/)
 * [2024-05-08, 14:09:29](https://news.ycombinator.com/item?id=40298304) - [Just a Bunch of Scanners (JBOS?)](https://sprocketfox.io/xssfox/2024/05/08/jbos/)
 * [2024-05-08, 13:50:26](https://news.ycombinator.com/item?id=40298119) - [Odigos (YC W23) Is Hiring Lead DevRel Engineer](https://www.ycombinator.com/companies/keyval/jobs/MOo8djB-lead-devrel-engineer)
 * [2024-05-08, 13:34:34](https://news.ycombinator.com/item?id=40297946) - [TimesFM (Time Series Foundation Model) for time-series forecasting](https://github.com/google-research/timesfm)
@@ -23,6 +22,7 @@
 * [2024-05-07, 10:53:00](https://news.ycombinator.com/item?id=40284144) - [How to Build a Suburb (1995)](http://archive.wilsonquarterly.com/essays/how-build-suburb)
 * [2024-05-07, 10:19:12](https://news.ycombinator.com/item?id=40283988) - [Creating a honey garden in Venice](https://worldsensorium.com/judi-harvest-creating-a-honey-garden-in-venice/)
 * [2024-05-07, 09:31:44](https://news.ycombinator.com/item?id=40283752) - [Using AirPods as a Morse Transmitter](https://github.com/EtherDream/headphone-morse-transmitter)
+* [2024-05-07, 08:27:56](https://news.ycombinator.com/item?id=40283474) - [An operating system for the web](https://jasongullickson.com/an-operating-system-for-the-web.html)
 * [2024-05-07, 07:57:44](https://news.ycombinator.com/item?id=40283364) - [SteerMouse](https://plentycom.jp/en/steermouse/index.html)
 * [2024-05-07, 07:09:41](https://news.ycombinator.com/item?id=40283148) - [A library to assist writing memory-unsafe code in \"pure\" Python](https://github.com/DavidBuchanan314/unsafe-python)
 * [2024-05-07, 05:34:07](https://news.ycombinator.com/item?id=40282671) - [The Waning Reign of the Muskrat](https://hakaimagazine.com/features/the-magnificent-lives-and-quiet-loss-of-muskrats/)
