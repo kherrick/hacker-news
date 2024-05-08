@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-05-08, 12:57:03",
-      "https://news.ycombinator.com/item?id=40297592"
-    ],
-    [
-      "Podman Desktop launches GUI for running local LLMs",
-      "https://github.com/containers/podman-desktop-extension-ai-lab"
-    ]
-  ],
-  [
-    [
       "2024-05-08, 12:48:19",
       "https://news.ycombinator.com/item?id=40297502"
     ],
@@ -57,6 +47,16 @@
     [
       "Zimtohrli: A New Psychoacoustic Perceptual Metric for Audio Compression",
       "https://github.com/google/zimtohrli"
+    ]
+  ],
+  [
+    [
+      "2024-05-08, 12:04:02",
+      "https://news.ycombinator.com/item?id=40297043"
+    ],
+    [
+      "Tracexec: TUI for tracing execve and pre-exec behavior",
+      "https://github.com/kxxt/tracexec"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2024-05-07, 04:48:25",
-      "https://news.ycombinator.com/item?id=40282451"
-    ],
-    [
-      "Mishaps in Redshift Temporary Tables",
-      "https://selectfromwhereand.com/posts/redshift_temp_tables/"
-    ]
-  ],
-  [
-    [
       "2024-05-06, 20:02:18",
       "https://news.ycombinator.com/item?id=40278874"
     ],
@@ -297,6 +287,16 @@
     [
       "Pair Your Compilers at the ABI Café",
       "https://faultlore.com/blah/abi-puns/"
+    ]
+  ],
+  [
+    [
+      "2024-05-05, 18:03:26",
+      "https://news.ycombinator.com/item?id=40266831"
+    ],
+    [
+      "Coding interviews are stupid (ish)",
+      "https://darrenkopp.com/posts/2024/05/01/coding-interviews-are-stupid"
     ]
   ]
 ]
