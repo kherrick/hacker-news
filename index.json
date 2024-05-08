@@ -1,22 +1,22 @@
 [
   [
     [
-      "2024-05-08, 17:24:39",
-      "https://news.ycombinator.com/item?id=40300641"
-    ],
-    [
-      "Environmental Changes Are Fueling Human, Animal and Plant Diseases, Study Finds",
-      "https://www.nytimes.com/2024/05/08/health/environment-climate-health.html"
-    ]
-  ],
-  [
-    [
       "2024-05-08, 17:13:07",
       "https://news.ycombinator.com/item?id=40300509"
     ],
     [
       "OpenAI: Model Spec",
       "https://cdn.openai.com/spec/model-spec-2024-05-08.html"
+    ]
+  ],
+  [
+    [
+      "2024-05-08, 17:09:17",
+      "https://news.ycombinator.com/item?id=40300454"
+    ],
+    [
+      "Development Notes from xkcd's \"Machine\"",
+      "https://chromakode.com/post/xkcd-machine/"
     ]
   ],
   [
@@ -57,16 +57,6 @@
     [
       "Psql-describe: \\d ported to JavaScript",
       "https://github.com/neondatabase/psql-describe"
-    ]
-  ],
-  [
-    [
-      "2024-05-08, 15:33:37",
-      "https://news.ycombinator.com/item?id=40299271"
-    ],
-    [
-      "New capacitor with 19-times energy density",
-      "https://www.livescience.com/technology/electronics/ev-batteries-could-last-much-longer-thanks-to-new-capacitor-with-19-times-power-density-that-scientists-created-by-mistake"
     ]
   ],
   [
@@ -177,6 +167,16 @@
     [
       "XLSTM: Extended Long Short-Term Memory",
       "https://arxiv.org/abs/2405.04517"
+    ]
+  ],
+  [
+    [
+      "2024-05-07, 21:16:36",
+      "https://news.ycombinator.com/item?id=40291598"
+    ],
+    [
+      "IBM Granite: A Family of Open Foundation Models for Code Intelligence",
+      "https://github.com/ibm-granite/granite-code-models"
     ]
   ],
   [
