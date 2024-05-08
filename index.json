@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2024-05-07, 11:08:56",
-      "https://news.ycombinator.com/item?id=40284219"
-    ],
-    [
-      "Pyspread – Pythonic Spreadsheet",
-      "https://pyspread.gitlab.io/"
-    ]
-  ],
-  [
-    [
       "2024-05-07, 10:36:02",
       "https://news.ycombinator.com/item?id=40284063"
     ],
@@ -247,6 +237,16 @@
     [
       "Defense Against AI-Guided Traffic Analysis (Daita)",
       "https://mullvad.net/en/blog/introducing-defense-against-ai-guided-traffic-analysis-daita"
+    ]
+  ],
+  [
+    [
+      "2024-05-07, 07:09:41",
+      "https://news.ycombinator.com/item?id=40283148"
+    ],
+    [
+      "A library to assist writing memory-unsafe code in \"pure\" Python",
+      "https://github.com/DavidBuchanan314/unsafe-python"
     ]
   ],
   [
