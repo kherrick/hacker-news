@@ -23,6 +23,7 @@
 * [2024-05-06, 20:29:09](https://news.ycombinator.com/item?id=40279129) - [Lila: A Lil Interpreter in Posix Awk](https://beyondloom.com/blog/lila.html)
 * [2024-05-06, 20:13:41](https://news.ycombinator.com/item?id=40278974) - [Increased Age-Adjusted Cancer Mortality After Third mRNA Vaccine Dose in Japan](https://www.cureus.com/articles/196275-increased-age-adjusted-cancer-mortality-after-the-third-mrna-lipid-nanoparticle-vaccine-dose-during-the-covid-19-pandemic-in-japan)
 * [2024-05-06, 20:06:53](https://news.ycombinator.com/item?id=40278915) - [VC Says Half of Google Staff Do 'No Real Work'](https://www.businessinsider.com/andreessen-horowitz-david-ulevitch-comments-google-employees-managers-fake-work-2024-5)
+* [2024-05-06, 20:02:18](https://news.ycombinator.com/item?id=40278874) - [Common Google XSS](https://matan-h.com/common-google-xss)
 * [2024-05-06, 19:37:22](https://news.ycombinator.com/item?id=40278656) - [T2 Linux 24.5 Released for 25 architectures](https://t2sde.org/releases/24.5.html)
 * [2024-05-06, 19:18:24](https://news.ycombinator.com/item?id=40278444) - [Reply Guys](https://notes.ghed.in/posts/2024/reply-guys/)
 * [2024-05-06, 19:18:08](https://news.ycombinator.com/item?id=40278439) - [The Clowder Project: an online resource for category theory and mathematics](https://www.clowderproject.com/)
