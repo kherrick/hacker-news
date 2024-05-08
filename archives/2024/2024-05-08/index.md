@@ -23,6 +23,7 @@
 * [2024-05-08, 20:15:03](https://news.ycombinator.com/item?id=40302366) - [Fortran popularity rises with numerical and scientific computing – InfoWorld](https://www.infoworld.com/article/3715346/fortran-popularity-rises-with-numerical-and-scientific-computing.html)
 * [2024-05-08, 20:03:28](https://news.ycombinator.com/item?id=40302264) - [Epic vs. Apple judge thinks Apple's being shady about buttons and links](https://www.theverge.com/2024/5/8/24152194/epic-apple-anti-steering-injunction-button-style)
 * [2024-05-08, 19:55:07](https://news.ycombinator.com/item?id=40302201) - [Consistency LLM: converting LLMs to parallel decoders accelerates inference 3.5x](https://hao-ai-lab.github.io/blogs/cllm/)
+* [2024-05-08, 19:54:58](https://news.ycombinator.com/item?id=40302200) - [Breathwork supports emergence of altered states of consciousness](https://www.researchsquare.com/article/rs-3976380/v1)
 * [2024-05-08, 17:24:39](https://news.ycombinator.com/item?id=40300641) - [Environmental Changes Are Fueling Human, Animal and Plant Diseases, Study Finds](https://www.nytimes.com/2024/05/08/health/environment-climate-health.html)
 * [2024-05-08, 17:13:07](https://news.ycombinator.com/item?id=40300509) - [OpenAI: Model Spec](https://cdn.openai.com/spec/model-spec-2024-05-08.html)
 * [2024-05-08, 17:11:18](https://news.ycombinator.com/item?id=40300482) - [OpenAI: Model Spec](https://openai.com/index/introducing-the-model-spec)
