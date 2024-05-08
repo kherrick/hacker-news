@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-08](index.md)
 
+* [2024-05-08, 13:13:22](https://news.ycombinator.com/item?id=40297748) - ['Underwater bicycle' propels swimmers forward at superhuman speed](https://newatlas.com/marine/seabike-swimming-propeller/)
+* [2024-05-08, 12:56:34](https://news.ycombinator.com/item?id=40297590) - [New Strategy Could Lead to Universal, Long-Lasting Flu Shot](https://today.duke.edu/2024/05/new-strategy-could-lead-universal-long-lasting-flu-shot)
+* [2024-05-08, 12:29:42](https://news.ycombinator.com/item?id=40297273) - [They Used Resume Spammers to Apply for 120 Jobs. Chaos Ensued](https://www.businessinsider.com/job-applications-hiring-ai-bots-spam-resume-cover-letter-2024-3)
 * [2024-05-08, 12:02:50](https://news.ycombinator.com/item?id=40297027) - [StackOverflow is banning accounts that delete answers in protest against OpenAI](https://m.benui.ca/@ben/112396505994216742)
 * [2024-05-08, 11:49:06](https://news.ycombinator.com/item?id=40296926) - [40 years later, a game for the ZX Spectrum will be again broadcast over FM radio](https://www.racunalniski-muzej.si/en/40-years-later-a-game-for-the-zx-spectrum-will-be-once-again-broadcast-over-fm-radio/)
 * [2024-05-08, 11:27:23](https://news.ycombinator.com/item?id=40296744) - [Who Wants to Be a Thousandaire? (2011)](https://www.damninteresting.com/who-wants-to-be-a-thousandaire/)
