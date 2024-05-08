@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-05-08, 03:09:29",
+      "https://news.ycombinator.com/item?id=40293974"
+    ],
+    [
+      "Show HN: Serverless collaborative notion-level note editor using CRDT in GO",
+      "https://github.com/notebox/nbfm"
+    ]
+  ],
+  [
+    [
+      "2024-05-08, 01:55:53",
+      "https://news.ycombinator.com/item?id=40293614"
+    ],
+    [
+      "US Revokes Intel, Qualcomm Licenses to Sell Chips to Huawei",
+      "https://www.msn.com/en-us/money/other/us-revokes-intel-qualcomm-licenses-to-sell-chips-to-huawei/ar-BB1lZqJO"
+    ]
+  ],
+  [
+    [
       "2024-05-08, 01:38:49",
       "https://news.ycombinator.com/item?id=40293505"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2024-05-07, 13:32:50",
-      "https://news.ycombinator.com/item?id=40285244"
-    ],
-    [
-      "Show HN: Visual debugger for Rails system tests",
-      "https://github.com/stepful/cyperful"
-    ]
-  ],
-  [
-    [
       "2024-05-07, 13:29:49",
       "https://news.ycombinator.com/item?id=40285211"
     ],
@@ -207,16 +217,6 @@
     [
       "A Rosetta Stone for Mathematics: André Weil's 1940 letter",
       "https://www.quantamagazine.org/a-rosetta-stone-for-mathematics-20240506/"
-    ]
-  ],
-  [
-    [
-      "2024-05-06, 16:40:30",
-      "https://news.ycombinator.com/item?id=40276550"
-    ],
-    [
-      "Thorn in a HaizeStack test for evaluating long-context adversarial robustness",
-      "https://github.com/haizelabs/thorn-in-haizestack"
     ]
   ],
   [
