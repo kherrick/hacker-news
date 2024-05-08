@@ -87,6 +87,7 @@
 * [2024-05-06, 10:12:18](https://news.ycombinator.com/item?id=40272980) - [Symmetry](http://theprogrammersparadox.blogspot.com/2024/05/symmetry.html)
 * [2024-05-06, 09:45:24](https://news.ycombinator.com/item?id=40272875) - [Pure-PyTorch Implementation of Kolmogorov-Arnold Network (Kan)](https://github.com/Blealtan/efficient-kan)
 * [2024-05-06, 08:50:28](https://news.ycombinator.com/item?id=40272577) - [World Food Atlas: Discover local dishes and ingredients](https://www.tasteatlas.com/map)
+* [2024-05-06, 08:40:02](https://news.ycombinator.com/item?id=40272514) - [How to Use the Foreign Function API in Java 22 to Call C Libraries](https://ifesunmola.com/how-to-use-the-foreign-function-api-in-java-22-to-call-c-libraries/)
 * [2024-05-06, 08:09:38](https://news.ycombinator.com/item?id=40272339) - [Show HN: AI climbing coach – visualize how to climb any route based on your body](https://climbing.ai/)
 * [2024-05-06, 07:39:52](https://news.ycombinator.com/item?id=40272186) - [A Useful Productivity Measure for Software Engineering?](https://www.jamesshore.com/v2/blog/2024/a-useful-productivity-measure)
 * [2024-05-06, 07:17:59](https://news.ycombinator.com/item?id=40272045) - [LeRobot: Machine Learning for Real-World Robotics in PyTorch](https://github.com/huggingface/lerobot)

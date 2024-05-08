@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-08](index.md)
 
+* [2024-05-08, 16:24:00](https://news.ycombinator.com/item?id=40299899) - [AstraZeneca to Withdraw Covid-19 Vaccine Worldwide Amid Concerns over TTS Risk](https://www.tftc.io/astrazeneca-withdraws-covid-vaccine-vaxzevria-global-markets/)
+* [2024-05-08, 16:16:13](https://news.ycombinator.com/item?id=40299792) - [Tech firms must tame toxic algorithms to protect children online](https://www.ofcom.org.uk/news-centre/2024/tech-firms-must-tame-toxic-algorithms-to-protect-children-online)
 * [2024-05-08, 16:10:33](https://news.ycombinator.com/item?id=40299721) - [Half of Google's white-collar staff 'does no real work,' Silicon Valley VC says](https://qz.com/google-white-collar-staff-andreessen-horowitz-1851460910)
 * [2024-05-08, 15:54:54](https://news.ycombinator.com/item?id=40299556) - [Launch HN: Baselit (YC W23) – Automatically Reduce Snowflake Costs](https://news.ycombinator.com/item?id=40299556)
 * [2024-05-08, 15:33:37](https://news.ycombinator.com/item?id=40299271) - [New capacitor with 19-times energy density](https://www.livescience.com/technology/electronics/ev-batteries-could-last-much-longer-thanks-to-new-capacitor-with-19-times-power-density-that-scientists-created-by-mistake)
