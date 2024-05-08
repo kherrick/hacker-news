@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2024-05-07, 13:32:50",
+      "https://news.ycombinator.com/item?id=40285244"
+    ],
+    [
+      "Show HN: Visual debugger for Rails system tests",
+      "https://github.com/stepful/cyperful"
+    ]
+  ],
+  [
+    [
       "2024-05-07, 13:29:49",
       "https://news.ycombinator.com/item?id=40285211"
     ],
@@ -227,16 +237,6 @@
     [
       "Arena-based parsers",
       "https://iliabylich.github.io/arena-based-parsers/"
-    ]
-  ],
-  [
-    [
-      "2024-05-06, 12:43:42",
-      "https://news.ycombinator.com/item?id=40273968"
-    ],
-    [
-      "Secure Randomness in Go 1.22",
-      "https://go.dev/blog/chacha8rand?hn=1"
     ]
   ],
   [
