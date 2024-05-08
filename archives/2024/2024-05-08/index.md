@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-08](index.md)
 
+* [2024-05-08, 14:38:19](https://news.ycombinator.com/item?id=40298608) - [Signal's Katherine Maher Problem](https://www.city-journal.org/article/signals-katherine-maher-problem)
+* [2024-05-08, 14:33:00](https://news.ycombinator.com/item?id=40298552) - [Canada's Bill S-210: The Push for Widespread Age Verification](https://www.michaelgeist.ca/2024/01/bill-s-210-is-just-the-beginning-how-a-canadian-digital-lobby-group-is-promoting-a-standard-to-foster-widespread-adoption-of-age-verification-technologies-in-canada/)
 * [2024-05-08, 13:50:26](https://news.ycombinator.com/item?id=40298119) - [Odigos (YC W23) Is Hiring Lead DevRel Engineer](https://www.ycombinator.com/companies/keyval/jobs/MOo8djB-lead-devrel-engineer)
 * [2024-05-08, 13:34:34](https://news.ycombinator.com/item?id=40297946) - [TimesFM (Time Series Foundation Model) for time-series forecasting](https://github.com/google-research/timesfm)
 * [2024-05-08, 13:13:22](https://news.ycombinator.com/item?id=40297748) - ['Underwater bicycle' propels swimmers forward at superhuman speed](https://newatlas.com/marine/seabike-swimming-propeller/)

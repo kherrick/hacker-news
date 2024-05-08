@@ -1,11 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-08, 14:38:19](https://news.ycombinator.com/item?id=40298608) - [Signal's Katherine Maher Problem](https://www.city-journal.org/article/signals-katherine-maher-problem)
+* [2024-05-08, 14:33:00](https://news.ycombinator.com/item?id=40298552) - [Canada's Bill S-210: The Push for Widespread Age Verification](https://www.michaelgeist.ca/2024/01/bill-s-210-is-just-the-beginning-how-a-canadian-digital-lobby-group-is-promoting-a-standard-to-foster-widespread-adoption-of-age-verification-technologies-in-canada/)
 * [2024-05-08, 13:50:26](https://news.ycombinator.com/item?id=40298119) - [Odigos (YC W23) Is Hiring Lead DevRel Engineer](https://www.ycombinator.com/companies/keyval/jobs/MOo8djB-lead-devrel-engineer)
 * [2024-05-08, 13:34:34](https://news.ycombinator.com/item?id=40297946) - [TimesFM (Time Series Foundation Model) for time-series forecasting](https://github.com/google-research/timesfm)
 * [2024-05-08, 13:13:22](https://news.ycombinator.com/item?id=40297748) - ['Underwater bicycle' propels swimmers forward at superhuman speed](https://newatlas.com/marine/seabike-swimming-propeller/)
 * [2024-05-08, 12:48:19](https://news.ycombinator.com/item?id=40297502) - [Pulley system composition – a systematic approach (2020)](https://www.kiipeilytuomas.fi/articles-in-english/pulley-system-composition-a-systematic-approach/)
 * [2024-05-08, 12:30:17](https://news.ycombinator.com/item?id=40297280) - [Zimtohrli: A New Psychoacoustic Perceptual Metric for Audio Compression](https://github.com/google/zimtohrli)
-* [2024-05-08, 12:04:02](https://news.ycombinator.com/item?id=40297043) - [Tracexec: TUI for tracing execve and pre-exec behavior](https://github.com/kxxt/tracexec)
+* [2024-05-08, 12:04:02](https://news.ycombinator.com/item?id=40297043) - [Show HN: Tracexec – TUI for tracing execve and pre-exec behavior](https://github.com/kxxt/tracexec)
 * [2024-05-08, 11:49:06](https://news.ycombinator.com/item?id=40296926) - [40 years later, a game for the ZX Spectrum will be again broadcast over FM radio](https://www.racunalniski-muzej.si/en/40-years-later-a-game-for-the-zx-spectrum-will-be-once-again-broadcast-over-fm-radio/)
 * [2024-05-08, 11:27:23](https://news.ycombinator.com/item?id=40296744) - [Who Wants to Be a Thousandaire? (2011)](https://www.damninteresting.com/who-wants-to-be-a-thousandaire/)
 * [2024-05-08, 10:42:02](https://news.ycombinator.com/item?id=40296429) - [Ointers: A library for representing pointers where bits have been stolen (2021)](https://github.com/irrustible/ointers)
@@ -15,7 +17,6 @@
 * [2024-05-08, 01:38:49](https://news.ycombinator.com/item?id=40293505) - [Needle: A DFA Based Regex Library That Compiles to JVM ByteCode](https://justinblank.com/experiments/needle.html)
 * [2024-05-07, 21:16:36](https://news.ycombinator.com/item?id=40291598) - [IBM Granite: A Family of Open Foundation Models for Code Intelligence](https://github.com/ibm-granite/granite-code-models)
 * [2024-05-07, 18:06:29](https://news.ycombinator.com/item?id=40289323) - [The Grateful Dead's Wall of Sound](https://audioacademy.in/the-grateful-deads-wall-of-sound/)
-* [2024-05-07, 17:50:21](https://news.ycombinator.com/item?id=40289120) - [Show HN: Convert your Containerfile to a bootable OS](https://github.com/containers/podman-desktop-extension-bootc)
 * [2024-05-07, 15:36:05](https://news.ycombinator.com/item?id=40287020) - [Road resurfacing during the daytime without stopping traffic [video]](https://www.youtube.com/watch?v=ymyIEGRw4-U)
 * [2024-05-07, 15:17:48](https://news.ycombinator.com/item?id=40286734) - [LPCAMM2 is a modular, repairable, upgradeable memory standard for laptops](https://www.ifixit.com/News/95078/lpcamm2-memory-is-finally-here)
 * [2024-05-07, 14:37:32](https://news.ycombinator.com/item?id=40286029) - [Apple introduces M4 chip](https://www.apple.com/newsroom/2024/05/apple-introduces-m4-chip/)
@@ -29,7 +30,6 @@
 * [2024-05-06, 15:59:11](https://news.ycombinator.com/item?id=40276112) - [Arena-based parsers](https://iliabylich.github.io/arena-based-parsers/)
 * [2024-05-06, 15:45:46](https://news.ycombinator.com/item?id=40275969) - [Show HN: Touvlo – Technical Interviewing for Hardware Engineers (By Humans)](https://touvlo.co)
 * [2024-05-06, 06:35:04](https://news.ycombinator.com/item?id=40271797) - [Pair Your Compilers at the ABI Café](https://faultlore.com/blah/abi-puns/)
-* [2024-05-05, 18:03:26](https://news.ycombinator.com/item?id=40266831) - [Coding interviews are stupid (ish)](https://darrenkopp.com/posts/2024/05/01/coding-interviews-are-stupid)
 
 ## [Archives](archives/index.md)
 
