@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-05-08, 14:38:19",
+      "https://news.ycombinator.com/item?id=40298608"
+    ],
+    [
+      "Signal's Katherine Maher Problem",
+      "https://www.city-journal.org/article/signals-katherine-maher-problem"
+    ]
+  ],
+  [
+    [
+      "2024-05-08, 14:33:00",
+      "https://news.ycombinator.com/item?id=40298552"
+    ],
+    [
+      "Canada's Bill S-210: The Push for Widespread Age Verification",
+      "https://www.michaelgeist.ca/2024/01/bill-s-210-is-just-the-beginning-how-a-canadian-digital-lobby-group-is-promoting-a-standard-to-foster-widespread-adoption-of-age-verification-technologies-in-canada/"
+    ]
+  ],
+  [
+    [
       "2024-05-08, 13:50:26",
       "https://news.ycombinator.com/item?id=40298119"
     ],
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=40297043"
     ],
     [
-      "Tracexec: TUI for tracing execve and pre-exec behavior",
+      "Show HN: Tracexec – TUI for tracing execve and pre-exec behavior",
       "https://github.com/kxxt/tracexec"
     ]
   ],
@@ -147,16 +167,6 @@
     [
       "The Grateful Dead's Wall of Sound",
       "https://audioacademy.in/the-grateful-deads-wall-of-sound/"
-    ]
-  ],
-  [
-    [
-      "2024-05-07, 17:50:21",
-      "https://news.ycombinator.com/item?id=40289120"
-    ],
-    [
-      "Show HN: Convert your Containerfile to a bootable OS",
-      "https://github.com/containers/podman-desktop-extension-bootc"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Pair Your Compilers at the ABI Café",
       "https://faultlore.com/blah/abi-puns/"
-    ]
-  ],
-  [
-    [
-      "2024-05-05, 18:03:26",
-      "https://news.ycombinator.com/item?id=40266831"
-    ],
-    [
-      "Coding interviews are stupid (ish)",
-      "https://darrenkopp.com/posts/2024/05/01/coding-interviews-are-stupid"
     ]
   ]
 ]
