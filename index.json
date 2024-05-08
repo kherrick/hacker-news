@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-08, 05:28:43",
+      "https://news.ycombinator.com/item?id=40294650"
+    ],
+    [
+      "XLSTM: Extended Long Short-Term Memory",
+      "https://arxiv.org/abs/2405.04517"
+    ]
+  ],
+  [
+    [
       "2024-05-08, 05:25:04",
       "https://news.ycombinator.com/item?id=40294630"
     ],
@@ -287,16 +297,6 @@
     [
       "Coding interviews are stupid (ish)",
       "https://darrenkopp.com/posts/2024/05/01/coding-interviews-are-stupid"
-    ]
-  ],
-  [
-    [
-      "2024-05-05, 06:58:41",
-      "https://news.ycombinator.com/item?id=40262837"
-    ],
-    [
-      "PDEP-13: The Pandas Logical Type System",
-      "https://github.com/pandas-dev/pandas/blob/8a246978e9812a2448f43d0df24a82d51e850d53/web/pandas/pdeps/0013-logical-type-system.md"
     ]
   ]
 ]
