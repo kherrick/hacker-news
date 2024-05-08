@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-05-08, 08:31:28",
-      "https://news.ycombinator.com/item?id=40295661"
-    ],
-    [
-      "Hyperworlds – Web Replacement Projects",
-      "https://hyperworlds.org/"
-    ]
-  ],
-  [
-    [
       "2024-05-08, 08:26:50",
       "https://news.ycombinator.com/item?id=40295624"
     ],
@@ -151,6 +141,16 @@
   ],
   [
     [
+      "2024-05-07, 17:50:21",
+      "https://news.ycombinator.com/item?id=40289120"
+    ],
+    [
+      "Show HN: Convert your Containerfile to a bootable OS",
+      "https://github.com/containers/podman-desktop-extension-bootc"
+    ]
+  ],
+  [
+    [
       "2024-05-07, 15:36:05",
       "https://news.ycombinator.com/item?id=40287020"
     ],
@@ -221,22 +221,12 @@
   ],
   [
     [
-      "2024-05-07, 10:36:02",
-      "https://news.ycombinator.com/item?id=40284063"
+      "2024-05-07, 11:08:56",
+      "https://news.ycombinator.com/item?id=40284219"
     ],
     [
-      "Object Linking and Embedding",
-      "https://en.wikipedia.org/wiki/Object_Linking_and_Embedding"
-    ]
-  ],
-  [
-    [
-      "2024-05-07, 10:10:26",
-      "https://news.ycombinator.com/item?id=40283953"
-    ],
-    [
-      "Overwhelm Yourself with as Many Tools as Possible (Why Not?)",
-      "https://www.sungho.blog/p/overwhelm-yourself-with-as-many-tools-as-possible"
+      "Pyspread – Pythonic Spreadsheet",
+      "https://pyspread.gitlab.io/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Arena-based parsers",
       "https://iliabylich.github.io/arena-based-parsers/"
+    ]
+  ],
+  [
+    [
+      "2024-05-05, 18:03:26",
+      "https://news.ycombinator.com/item?id=40266831"
+    ],
+    [
+      "Coding interviews are stupid (ish)",
+      "https://darrenkopp.com/posts/2024/05/01/coding-interviews-are-stupid"
     ]
   ]
 ]
