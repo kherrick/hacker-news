@@ -30,6 +30,7 @@
 * [2024-05-08, 14:09:29](https://news.ycombinator.com/item?id=40298304) - [Just a Bunch of Scanners (JBOS?)](https://sprocketfox.io/xssfox/2024/05/08/jbos/)
 * [2024-05-08, 13:50:26](https://news.ycombinator.com/item?id=40298119) - [Odigos (YC W23) Is Hiring Lead DevRel Engineer](https://www.ycombinator.com/companies/keyval/jobs/MOo8djB-lead-devrel-engineer)
 * [2024-05-08, 13:34:34](https://news.ycombinator.com/item?id=40297946) - [TimesFM (Time Series Foundation Model) for time-series forecasting](https://github.com/google-research/timesfm)
+* [2024-05-08, 13:32:35](https://news.ycombinator.com/item?id=40297927) - [Encore: Distributed systems runtime for TypeScript, written in Rust](https://encore.dev/blog/encore-for-typescript)
 * [2024-05-08, 13:13:22](https://news.ycombinator.com/item?id=40297748) - ['Underwater bicycle' propels swimmers forward at superhuman speed](https://newatlas.com/marine/seabike-swimming-propeller/)
 * [2024-05-08, 12:57:03](https://news.ycombinator.com/item?id=40297592) - [Podman Desktop launches GUI for running local LLMs](https://github.com/containers/podman-desktop-extension-ai-lab)
 * [2024-05-08, 12:56:34](https://news.ycombinator.com/item?id=40297590) - [New Strategy Could Lead to Universal, Long-Lasting Flu Shot](https://today.duke.edu/2024/05/new-strategy-could-lead-universal-long-lasting-flu-shot)
