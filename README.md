@@ -24,12 +24,12 @@
 * [2024-05-07, 11:08:56](https://news.ycombinator.com/item?id=40284219) - [Pyspread – Pythonic Spreadsheet](https://pyspread.gitlab.io/)
 * [2024-05-07, 10:36:02](https://news.ycombinator.com/item?id=40284063) - [Object Linking and Embedding](https://en.wikipedia.org/wiki/Object_Linking_and_Embedding)
 * [2024-05-07, 09:38:21](https://news.ycombinator.com/item?id=40283799) - [Defense Against AI-Guided Traffic Analysis (Daita)](https://mullvad.net/en/blog/introducing-defense-against-ai-guided-traffic-analysis-daita)
+* [2024-05-07, 07:57:44](https://news.ycombinator.com/item?id=40283364) - [SteerMouse](https://plentycom.jp/en/steermouse/index.html)
 * [2024-05-07, 07:09:41](https://news.ycombinator.com/item?id=40283148) - [A library to assist writing memory-unsafe code in \"pure\" Python](https://github.com/DavidBuchanan314/unsafe-python)
 * [2024-05-07, 06:24:59](https://news.ycombinator.com/item?id=40282923) - [Gradient descent visualization](https://github.com/lilipads/gradient_descent_viz)
 * [2024-05-07, 04:48:25](https://news.ycombinator.com/item?id=40282451) - [Mishaps in Redshift Temporary Tables](https://selectfromwhereand.com/posts/redshift_temp_tables/)
 * [2024-05-06, 20:02:18](https://news.ycombinator.com/item?id=40278874) - [Common Google XSS](https://matan-h.com/common-google-xss)
 * [2024-05-06, 15:59:11](https://news.ycombinator.com/item?id=40276112) - [Arena-based parsers](https://iliabylich.github.io/arena-based-parsers/)
-* [2024-05-05, 18:03:26](https://news.ycombinator.com/item?id=40266831) - [Coding interviews are stupid (ish)](https://darrenkopp.com/posts/2024/05/01/coding-interviews-are-stupid)
 
 ## [Archives](archives/index.md)
 

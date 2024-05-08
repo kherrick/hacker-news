@@ -66,6 +66,7 @@
 * [2024-05-07, 09:40:48](https://news.ycombinator.com/item?id=40283808) - [My husband has become a Vim peasant – please advise](https://old.reddit.com/r/emacs/comments/1ck8w2g/my_husband_has_become_a_vim_peasant_please_advise/)
 * [2024-05-07, 09:38:21](https://news.ycombinator.com/item?id=40283799) - [Defense Against AI-Guided Traffic Analysis (Daita)](https://mullvad.net/en/blog/introducing-defense-against-ai-guided-traffic-analysis-daita)
 * [2024-05-07, 08:29:27](https://news.ycombinator.com/item?id=40283482) - [CodeCrafters (YC S22) Is Hiring Asia-Based SDRs / BDRs](https://www.ycombinator.com/companies/codecrafters/jobs/7ljWFvU-sdr-for-enterprise-influencer-partnerships-manager)
+* [2024-05-07, 07:57:44](https://news.ycombinator.com/item?id=40283364) - [SteerMouse](https://plentycom.jp/en/steermouse/index.html)
 * [2024-05-07, 07:09:41](https://news.ycombinator.com/item?id=40283148) - [A library to assist writing memory-unsafe code in \"pure\" Python](https://github.com/DavidBuchanan314/unsafe-python)
 * [2024-05-07, 07:07:34](https://news.ycombinator.com/item?id=40283139) - [GCC 14.1 Release](https://gcc.gnu.org/gcc-14/)
 * [2024-05-07, 06:24:59](https://news.ycombinator.com/item?id=40282923) - [Gradient descent visualization](https://github.com/lilipads/gradient_descent_viz)
