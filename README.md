@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-08, 12:02:50](https://news.ycombinator.com/item?id=40297027) - [StackOverflow is banning accounts that delete answers in protest against OpenAI](https://m.benui.ca/@ben/112396505994216742)
 * [2024-05-08, 11:49:06](https://news.ycombinator.com/item?id=40296926) - [40 years later, a game for the ZX Spectrum will be again broadcast over FM radio](https://www.racunalniski-muzej.si/en/40-years-later-a-game-for-the-zx-spectrum-will-be-once-again-broadcast-over-fm-radio/)
 * [2024-05-08, 11:27:23](https://news.ycombinator.com/item?id=40296744) - [Who Wants to Be a Thousandaire? (2011)](https://www.damninteresting.com/who-wants-to-be-a-thousandaire/)
 * [2024-05-08, 10:42:02](https://news.ycombinator.com/item?id=40296429) - [Ointers: A library for representing pointers where bits have been stolen (2021)](https://github.com/irrustible/ointers)
@@ -14,6 +13,7 @@
 * [2024-05-08, 01:38:49](https://news.ycombinator.com/item?id=40293505) - [Needle: A DFA Based Regex Library That Compiles to JVM ByteCode](https://justinblank.com/experiments/needle.html)
 * [2024-05-07, 22:15:05](https://news.ycombinator.com/item?id=40292181) - [Decker: A reincarnation of HyperCard with 1-bit graphics](https://www.beyondloom.com/decker/index.html)
 * [2024-05-07, 21:16:36](https://news.ycombinator.com/item?id=40291598) - [IBM Granite: A Family of Open Foundation Models for Code Intelligence](https://github.com/ibm-granite/granite-code-models)
+* [2024-05-07, 19:41:25](https://news.ycombinator.com/item?id=40290596) - [ScrapeGraphAI: Web scraping using LLM and direct graph logic](https://scrapegraph-doc.onrender.com/)
 * [2024-05-07, 18:06:29](https://news.ycombinator.com/item?id=40289323) - [The Grateful Dead's Wall of Sound](https://audioacademy.in/the-grateful-deads-wall-of-sound/)
 * [2024-05-07, 15:36:05](https://news.ycombinator.com/item?id=40287020) - [Road resurfacing during the daytime without stopping traffic [video]](https://www.youtube.com/watch?v=ymyIEGRw4-U)
 * [2024-05-07, 15:17:48](https://news.ycombinator.com/item?id=40286734) - [LPCAMM2 is a modular, repairable, upgradeable memory standard for laptops](https://www.ifixit.com/News/95078/lpcamm2-memory-is-finally-here)
