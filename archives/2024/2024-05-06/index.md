@@ -28,6 +28,7 @@
 * [2024-05-06, 19:18:24](https://news.ycombinator.com/item?id=40278444) - [Reply Guys](https://notes.ghed.in/posts/2024/reply-guys/)
 * [2024-05-06, 19:18:08](https://news.ycombinator.com/item?id=40278439) - [The Clowder Project: an online resource for category theory and mathematics](https://www.clowderproject.com/)
 * [2024-05-06, 19:12:53](https://news.ycombinator.com/item?id=40278376) - [US ICBM Launch Center Virtual Tour](https://www.aerospaceutah.org/virtual-tours/ICBM/index.htm)
+* [2024-05-06, 18:34:30](https://news.ycombinator.com/item?id=40277945) - [Adumbra: A lightweight Java library for bitmap steganography](https://github.com/galliumdata/adumbra)
 * [2024-05-06, 18:33:33](https://news.ycombinator.com/item?id=40277933) - [Ask HN: What Nonfiction Books Do You Keep Rereading?](https://news.ycombinator.com/item?id=40277933)
 * [2024-05-06, 18:29:21](https://news.ycombinator.com/item?id=40277895) - [Gas and propane stoves linked to 50k cases of childhood asthma, study finds](https://www.nbcnews.com/health/kids-health/gas-stoves-linked-childhood-asthma-study-rcna150241)
 * [2024-05-06, 18:20:00](https://news.ycombinator.com/item?id=40277791) - [OpenAI API Partnership with Stack Overflow](https://openai.com/index/api-partnership-with-stack-overflow)
