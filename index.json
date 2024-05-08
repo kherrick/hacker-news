@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=40300509"
     ],
     [
-      "OpenAI: Model Spec",
+      "Model Spec",
       "https://cdn.openai.com/spec/model-spec-2024-05-08.html"
     ]
   ],
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=40300023"
     ],
     [
-      "Steve Albini, Storied Producer and Icon of the Rock Underground, Dies at 61",
+      "Steve Albini has died",
       "https://pitchfork.com/news/steve-albini-storied-producer-and-icon-of-the-rock-underground-dies-at-61/"
     ]
   ],
@@ -57,6 +57,16 @@
     [
       "Psql-describe: \\d ported to JavaScript",
       "https://github.com/neondatabase/psql-describe"
+    ]
+  ],
+  [
+    [
+      "2024-05-08, 15:54:54",
+      "https://news.ycombinator.com/item?id=40299556"
+    ],
+    [
+      "Launch HN: Baselit (YC W23) – Automatically Reduce Snowflake Costs",
+      "https://news.ycombinator.com/item?id=40299556"
     ]
   ],
   [
@@ -95,7 +105,7 @@
       "https://news.ycombinator.com/item?id=40297946"
     ],
     [
-      "TimesFM (Time Series Foundation Model) for time-series forecasting",
+      "TimesFM: Time Series Foundation Model for time-series forecasting",
       "https://github.com/google-research/timesfm"
     ]
   ],
@@ -171,26 +181,6 @@
   ],
   [
     [
-      "2024-05-07, 21:16:36",
-      "https://news.ycombinator.com/item?id=40291598"
-    ],
-    [
-      "IBM Granite: A Family of Open Foundation Models for Code Intelligence",
-      "https://github.com/ibm-granite/granite-code-models"
-    ]
-  ],
-  [
-    [
-      "2024-05-07, 12:01:46",
-      "https://news.ycombinator.com/item?id=40284495"
-    ],
-    [
-      "Homemade liquid nitrogen generator Joule Thomson throttle (2013)",
-      "http://homemadeliquidnitrogen.com/"
-    ]
-  ],
-  [
-    [
       "2024-05-07, 11:09:23",
       "https://news.ycombinator.com/item?id=40284225"
     ],
@@ -257,6 +247,16 @@
     [
       "The Waning Reign of the Muskrat",
       "https://hakaimagazine.com/features/the-magnificent-lives-and-quiet-loss-of-muskrats/"
+    ]
+  ],
+  [
+    [
+      "2024-05-06, 12:20:19",
+      "https://news.ycombinator.com/item?id=40273772"
+    ],
+    [
+      "Cmkr – a modern build system based on CMake and TOML",
+      "https://github.com/build-cpp/cmkr"
     ]
   ],
   [
