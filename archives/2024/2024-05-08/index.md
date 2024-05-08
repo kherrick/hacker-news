@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-08](index.md)
 
+* [2024-05-08, 21:16:53](https://news.ycombinator.com/item?id=40302792) - [Stack Overflow Upset over Users Deleting Answers After OpenAI Partnership](https://build5nines.com/stack-overflow-upset-over-users-deleting-answers-after-openai-partnership/)
+* [2024-05-08, 21:04:51](https://news.ycombinator.com/item?id=40302698) - [I'm puzzled how anyone trusts ChatGPT for code](https://news.ycombinator.com/item?id=40302698)
 * [2024-05-08, 21:03:04](https://news.ycombinator.com/item?id=40302683) - [A Portal Connecting NYC to Dublin Opens in Flatiron Today](https://secretnyc.co/the-portal-connecting-nyc-to-dublin/)
 * [2024-05-08, 21:00:26](https://news.ycombinator.com/item?id=40302665) - [Empirical Health (YC S23) is hiring engineering leads in NYC](https://www.ycombinator.com/companies/empirical-health/jobs/1PW3OFe-engineering-lead)
 * [2024-05-08, 20:15:03](https://news.ycombinator.com/item?id=40302366) - [Fortran popularity rises with numerical and scientific computing – InfoWorld](https://www.infoworld.com/article/3715346/fortran-popularity-rises-with-numerical-and-scientific-computing.html)
@@ -11,6 +13,7 @@
 * [2024-05-08, 19:55:07](https://news.ycombinator.com/item?id=40302201) - [Consistency LLM: converting LLMs to parallel decoders accelerates inference 3.5x](https://hao-ai-lab.github.io/blogs/cllm/)
 * [2024-05-08, 17:24:39](https://news.ycombinator.com/item?id=40300641) - [Environmental Changes Are Fueling Human, Animal and Plant Diseases, Study Finds](https://www.nytimes.com/2024/05/08/health/environment-climate-health.html)
 * [2024-05-08, 17:13:07](https://news.ycombinator.com/item?id=40300509) - [OpenAI: Model Spec](https://cdn.openai.com/spec/model-spec-2024-05-08.html)
+* [2024-05-08, 17:11:18](https://news.ycombinator.com/item?id=40300482) - [OpenAI: Model Spec](https://openai.com/index/introducing-the-model-spec)
 * [2024-05-08, 17:09:17](https://news.ycombinator.com/item?id=40300454) - [Development Notes from xkcd's \"Machine\"](https://chromakode.com/post/xkcd-machine/)
 * [2024-05-08, 17:00:25](https://news.ycombinator.com/item?id=40300358) - [Bun (YC S19) Is Hiring Systems Engineers in San Francisco](https://apply.workable.com/oven/j/A7A1388873/)
 * [2024-05-08, 16:41:12](https://news.ycombinator.com/item?id=40300126) - [Show HN: I built a non-linear UI for ChatGPT](https://www.grafychat.com)
