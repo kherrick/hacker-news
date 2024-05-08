@@ -10,6 +10,7 @@
 * [2024-05-08, 12:02:50](https://news.ycombinator.com/item?id=40297027) - [StackOverflow is banning accounts that delete answers in protest against OpenAI](https://m.benui.ca/@ben/112396505994216742)
 * [2024-05-08, 11:49:06](https://news.ycombinator.com/item?id=40296926) - [40 years later, a game for the ZX Spectrum will be again broadcast over FM radio](https://www.racunalniski-muzej.si/en/40-years-later-a-game-for-the-zx-spectrum-will-be-once-again-broadcast-over-fm-radio/)
 * [2024-05-08, 11:27:23](https://news.ycombinator.com/item?id=40296744) - [Who Wants to Be a Thousandaire? (2011)](https://www.damninteresting.com/who-wants-to-be-a-thousandaire/)
+* [2024-05-08, 11:00:55](https://news.ycombinator.com/item?id=40296577) - [FTX Has Billions More Than Needed to Pay Bankruptcy Victims](https://www.bloomberg.com/news/articles/2024-05-07/ftx-has-billions-more-than-needed-to-repay-bankruptcy-victims)
 * [2024-05-08, 10:54:37](https://news.ycombinator.com/item?id=40296518) - [Are You an Anarchist? The Answer May Surprise You by David Graeber](https://theanarchistlibrary.org/library/david-graeber-are-you-an-anarchist-the-answer-may-surprise-you)
 * [2024-05-08, 10:42:02](https://news.ycombinator.com/item?id=40296429) - [What do you call a Rust pointer we stole the high bits off? An ointer. (2021)](https://github.com/irrustible/ointers)
 * [2024-05-08, 08:43:05](https://news.ycombinator.com/item?id=40295725) - [The oceans have broken temperature records every day over the past year](https://www.bbc.co.uk/news/science-environment-68921215)
