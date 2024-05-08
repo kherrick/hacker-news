@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-08](index.md)
 
+* [2024-05-08, 21:33:11](https://news.ycombinator.com/item?id=40302901) - [Neuralink Prime Study Progress Update – User Experience](https://neuralink.com/blog/prime-study-progress-update-user-experience/)
 * [2024-05-08, 21:16:53](https://news.ycombinator.com/item?id=40302792) - [Stack Overflow Upset over Users Deleting Answers After OpenAI Partnership](https://build5nines.com/stack-overflow-upset-over-users-deleting-answers-after-openai-partnership/)
+* [2024-05-08, 21:09:20](https://news.ycombinator.com/item?id=40302731) - [English learners can now practice speaking on Google Search](https://research.google/blog/english-learners-can-now-practice-speaking-on-search/)
 * [2024-05-08, 21:04:51](https://news.ycombinator.com/item?id=40302698) - [I'm puzzled how anyone trusts ChatGPT for code](https://news.ycombinator.com/item?id=40302698)
 * [2024-05-08, 21:03:04](https://news.ycombinator.com/item?id=40302683) - [A Portal Connecting NYC to Dublin Opens in Flatiron Today](https://secretnyc.co/the-portal-connecting-nyc-to-dublin/)
 * [2024-05-08, 21:00:26](https://news.ycombinator.com/item?id=40302665) - [Empirical Health (YC S23) is hiring engineering leads in NYC](https://www.ycombinator.com/companies/empirical-health/jobs/1PW3OFe-engineering-lead)

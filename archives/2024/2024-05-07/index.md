@@ -68,6 +68,7 @@
 * [2024-05-07, 10:26:36](https://news.ycombinator.com/item?id=40284020) - [Multiplayer Zork on Telnet](https://multizork.icculus.org/)
 * [2024-05-07, 10:19:12](https://news.ycombinator.com/item?id=40283988) - [Creating a honey garden in Venice](https://worldsensorium.com/judi-harvest-creating-a-honey-garden-in-venice/)
 * [2024-05-07, 10:17:59](https://news.ycombinator.com/item?id=40283981) - [A Comprehensive Introduction to CDNs](https://00f.net/2024/05/07/what-is-a-cdn/)
+* [2024-05-07, 10:10:33](https://news.ycombinator.com/item?id=40283954) - [Industrial Design Student Work: \"How Long Should Objects Last?\"](https://www.core77.com/posts/132088/Fantastic-Industrial-Design-Student-Work-How-Long-Should-Objects-Last)
 * [2024-05-07, 10:10:26](https://news.ycombinator.com/item?id=40283953) - [Overwhelm Yourself with as Many Tools as Possible (Why Not?)](https://www.sungho.blog/p/overwhelm-yourself-with-as-many-tools-as-possible)
 * [2024-05-07, 09:40:48](https://news.ycombinator.com/item?id=40283808) - [My husband has become a Vim peasant – please advise](https://old.reddit.com/r/emacs/comments/1ck8w2g/my_husband_has_become_a_vim_peasant_please_advise/)
 * [2024-05-07, 09:38:21](https://news.ycombinator.com/item?id=40283799) - [Defense Against AI-Guided Traffic Analysis (Daita)](https://mullvad.net/en/blog/introducing-defense-against-ai-guided-traffic-analysis-daita)
