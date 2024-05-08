@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-08, 01:38:49](https://news.ycombinator.com/item?id=40293505) - [Needle: A DFA Based Regex Library That Compiles to JVM ByteCode](https://justinblank.com/experiments/needle.html)
 * [2024-05-08, 01:14:14](https://news.ycombinator.com/item?id=40293368) - [Product Roadmap](https://bsky.social/about/blog/05-07-2024-product-roadmap)
 * [2024-05-07, 22:52:07](https://news.ycombinator.com/item?id=40292452) - [Unix forking the universe by running IBM's free online quantum computer](https://parel.es/blog/quantum-dice)
 * [2024-05-07, 22:15:05](https://news.ycombinator.com/item?id=40292181) - [Decker: A fantastic reincarnation of HyperCard with 1-bit graphics](https://www.beyondloom.com/decker/index.html)
@@ -14,7 +15,6 @@
 * [2024-05-07, 15:17:48](https://news.ycombinator.com/item?id=40286734) - [LPCAMM2 is a modular, repairable, upgradeable memory standard for laptops](https://www.ifixit.com/News/95078/lpcamm2-memory-is-finally-here)
 * [2024-05-07, 15:12:56](https://news.ycombinator.com/item?id=40286632) - [SecureDrop Protocol](https://securedrop.org/news/introducing-securedrop-protocol/)
 * [2024-05-07, 14:37:32](https://news.ycombinator.com/item?id=40286029) - [Apple introduces M4 chip](https://www.apple.com/newsroom/2024/05/apple-introduces-m4-chip/)
-* [2024-05-07, 13:32:50](https://news.ycombinator.com/item?id=40285244) - [Show HN: Visual debugger for Rails system tests](https://github.com/stepful/cyperful)
 * [2024-05-07, 13:29:49](https://news.ycombinator.com/item?id=40285211) - [Can turning office towers into apartments save downtowns?](https://www.newyorker.com/magazine/2024/05/06/can-turning-office-towers-into-apartments-save-downtowns)
 * [2024-05-07, 12:46:14](https://news.ycombinator.com/item?id=40284823) - [Cold brew coffee in 3 minutes using acoustic cavitation](https://www.unsw.edu.au/newsroom/news/2024/05/Ultrasonic_cold_brew_coffee_ready_under_three_minutes)
 * [2024-05-07, 11:24:08](https://news.ycombinator.com/item?id=40284291) - [Hackers discover how to reprogram NES Tetris from within the game](https://arstechnica.com/gaming/2024/05/hackers-discover-how-to-reprogram-nes-tetris-from-within-the-game/)
