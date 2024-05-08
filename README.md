@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-08, 21:37:57](https://news.ycombinator.com/item?id=40302947) - [Dell responds to return-to-office resistance with VPN, badge tracking](https://arstechnica.com/information-technology/2024/05/dell-to-monitor-worker-vpn-use-badge-swipes-to-enforce-office-policy/)
+* [2024-05-08, 22:45:08](https://news.ycombinator.com/item?id=40303476) - [Google Is Staring Down Its First Serious Threats in Years](https://nymag.com/intelligencer/article/google-is-staring-down-its-first-serious-threats-in-years.html)
+* [2024-05-08, 22:33:03](https://news.ycombinator.com/item?id=40303400) - [Stack Overflow bans users en masse for rebelling against OpenAI partnership](https://www.tomshardware.com/tech-industry/artificial-intelligence/stack-overflow-bans-users-en-masse-for-rebelling-against-openai-partnership-users-banned-for-deleting-answers-to-prevent-them-being-used-to-train-chatgpt)
 * [2024-05-08, 21:09:20](https://news.ycombinator.com/item?id=40302731) - [English learners can now practice speaking on Google Search](https://research.google/blog/english-learners-can-now-practice-speaking-on-search/)
 * [2024-05-08, 21:08:32](https://news.ycombinator.com/item?id=40302724) - [A Scientific Run-Down of Coffee Blooming](https://www.seriouseats.com/perfect-coffee-bubbles-signs-sounds-6824133)
 * [2024-05-08, 21:03:04](https://news.ycombinator.com/item?id=40302683) - [A Portal Connecting NYC to Dublin Opens in Flatiron Today](https://secretnyc.co/the-portal-connecting-nyc-to-dublin/)
@@ -15,7 +16,6 @@
 * [2024-05-08, 15:07:10](https://news.ycombinator.com/item?id=40298927) - [AlphaFold 3 predicts the structure and interactions of life's molecules](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/)
 * [2024-05-08, 13:34:34](https://news.ycombinator.com/item?id=40297946) - [TimesFM: Time Series Foundation Model for time-series forecasting](https://github.com/google-research/timesfm)
 * [2024-05-08, 13:13:22](https://news.ycombinator.com/item?id=40297748) - ['Underwater bicycle' propels swimmers forward at superhuman speed](https://newatlas.com/marine/seabike-swimming-propeller/)
-* [2024-05-08, 12:48:19](https://news.ycombinator.com/item?id=40297502) - [Pulley system composition – a systematic approach (2020)](https://www.kiipeilytuomas.fi/articles-in-english/pulley-system-composition-a-systematic-approach/)
 * [2024-05-08, 12:30:17](https://news.ycombinator.com/item?id=40297280) - [Zimtohrli: A New Psychoacoustic Perceptual Metric for Audio Compression](https://github.com/google/zimtohrli)
 * [2024-05-08, 10:42:02](https://news.ycombinator.com/item?id=40296429) - [Ointers: A library for representing pointers where bits have been stolen (2021)](https://github.com/irrustible/ointers)
 * [2024-05-07, 10:10:33](https://news.ycombinator.com/item?id=40283954) - [Industrial Design Student Work: \"How Long Should Objects Last?\"](https://www.core77.com/posts/132088/Fantastic-Industrial-Design-Student-Work-How-Long-Should-Objects-Last)

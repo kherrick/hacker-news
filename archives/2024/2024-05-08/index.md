@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-08](index.md)
 
+* [2024-05-08, 22:45:08](https://news.ycombinator.com/item?id=40303476) - [Google Is Staring Down Its First Serious Threats in Years](https://nymag.com/intelligencer/article/google-is-staring-down-its-first-serious-threats-in-years.html)
+* [2024-05-08, 22:33:03](https://news.ycombinator.com/item?id=40303400) - [Stack Overflow bans users en masse for rebelling against OpenAI partnership](https://www.tomshardware.com/tech-industry/artificial-intelligence/stack-overflow-bans-users-en-masse-for-rebelling-against-openai-partnership-users-banned-for-deleting-answers-to-prevent-them-being-used-to-train-chatgpt)
 * [2024-05-08, 22:17:24](https://news.ycombinator.com/item?id=40303288) - [Underhanded Dotfiles](https://github.com/ayust/underhanded/blob/master/.bashrc)
 * [2024-05-08, 21:53:42](https://news.ycombinator.com/item?id=40303073) - [Building Your First Browser Game with Three.js and React: Part 1](https://rherault.dev/articles/create-3d-game-part-1)
 * [2024-05-08, 21:42:52](https://news.ycombinator.com/item?id=40302991) - [Apple: Sorry, your Mac app is a copycat of your iOS app. So you're rejected](https://twitter.com/WildCat_io/status/1788323646278168858)
