@@ -69,6 +69,7 @@
 * [2024-05-06, 12:43:42](https://news.ycombinator.com/item?id=40273968) - [Secure Randomness in Go 1.22](https://go.dev/blog/chacha8rand?hn=1)
 * [2024-05-06, 12:26:37](https://news.ycombinator.com/item?id=40273824) - [Anduril Announces Pulsar Family of AI-Enabled Electromagnetic Warfare Systems](https://www.anduril.com/article/anduril-announces-pulsar/)
 * [2024-05-06, 12:21:07](https://news.ycombinator.com/item?id=40273780) - [Daniel Dennett: 'Where Am I?'](https://thereader.mitpress.mit.edu/daniel-dennett-where-am-i/)
+* [2024-05-06, 12:20:19](https://news.ycombinator.com/item?id=40273772) - [Cmkr – a modern build system based on CMake and TOML](https://github.com/build-cpp/cmkr)
 * [2024-05-06, 12:05:34](https://news.ycombinator.com/item?id=40273651) - [Alternative clouds are booming as companies seek cheaper access to GPUs](https://techcrunch.com/2024/05/05/coreweaves-1-1b-raise-shows-the-market-for-alternative-clouds-is-booming/)
 * [2024-05-06, 12:01:03](https://news.ycombinator.com/item?id=40273598) - [NYU professors who defended vaping didn't disclose ties to Juul](https://www.statnews.com/2024/05/06/juul-vaping-advocates-nyu-professors-non-disclosed-conflict-interest/)
 * [2024-05-06, 12:00:11](https://news.ycombinator.com/item?id=40273587) - [Fern (YC W23) Is Hiring a Customer-Centric Software Engineer](https://www.ycombinator.com/companies/fern/jobs/KmSsgCu-deployed-engineer)
