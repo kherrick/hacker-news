@@ -67,6 +67,7 @@
 * [2024-05-05, 10:28:17](https://news.ycombinator.com/item?id=40263711) - [Giant Compressed-Air Battery in the Australian Outback](https://www.wired.com/story/hydrostor-compressed-air-battery-california-australia-energy-climate/)
 * [2024-05-05, 09:44:28](https://news.ycombinator.com/item?id=40263479) - [Debian 64-bit-time transition](https://wiki.debian.org/ReleaseGoals/64bit-time)
 * [2024-05-05, 09:28:59](https://news.ycombinator.com/item?id=40263394) - [Decoding UTF8 with parallel extract](https://nrk.neocities.org/articles/utf8-pext)
+* [2024-05-05, 09:23:54](https://news.ycombinator.com/item?id=40263377) - [The Bloody History of 'Deadline'](https://www.merriam-webster.com/wordplay/your-deadline-wont-kill-you)
 * [2024-05-05, 09:02:33](https://news.ycombinator.com/item?id=40263289) - [Helldivers 2 Removed from Purchase on Steam in over 150 Countries](https://www.thegamer.com/helldivers-2-delisted-on-steam-100-plus-countries-without-psn-due-to-psn-sign-in-requirement-controversy/)
 * [2024-05-05, 08:39:29](https://news.ycombinator.com/item?id=40263194) - [Flags Are Not Languages](https://www.flagsarenotlanguages.com/blog/)
 * [2024-05-05, 08:31:24](https://news.ycombinator.com/item?id=40263168) - [US prepares to exempt AUKUS nations from ITAR](https://www.naval-technology.com/news/us-prepares-to-scrap-itar-for-aukus-nations/)

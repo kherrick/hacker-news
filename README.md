@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-08, 15:07:10](https://news.ycombinator.com/item?id=40298927) - [AlphaFold 3 predicts the structure and interactions of all of life's molecules](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/)
+* [2024-05-08, 14:58:05](https://news.ycombinator.com/item?id=40298808) - [Ask HN: Any one still using MySQL?](https://news.ycombinator.com/item?id=40298808)
+* [2024-05-08, 14:49:34](https://news.ycombinator.com/item?id=40298714) - [3 reasons people are moving from Windows 11 back to Windows 10](https://www.xda-developers.com/reasons-people-moving-windows-11-back-to-windows-10/)
 * [2024-05-08, 14:33:00](https://news.ycombinator.com/item?id=40298552) - [A Canadian lobby group is promoting \"widespread adoption of age verification\"](https://www.michaelgeist.ca/2024/01/bill-s-210-is-just-the-beginning-how-a-canadian-digital-lobby-group-is-promoting-a-standard-to-foster-widespread-adoption-of-age-verification-technologies-in-canada/)
-* [2024-05-08, 14:26:19](https://news.ycombinator.com/item?id=40298486) - [Tesla is being investigated for securities and wire fraud for self-driving claim](https://www.theverge.com/2024/5/8/24151881/tesla-justice-investigation-securities-wire-fraud-self-driving)
 * [2024-05-08, 14:09:29](https://news.ycombinator.com/item?id=40298304) - [Just a Bunch of Scanners (JBOS?)](https://sprocketfox.io/xssfox/2024/05/08/jbos/)
 * [2024-05-08, 13:50:26](https://news.ycombinator.com/item?id=40298119) - [Odigos (YC W23) Is Hiring Lead DevRel Engineer](https://www.ycombinator.com/companies/keyval/jobs/MOo8djB-lead-devrel-engineer)
 * [2024-05-08, 13:34:34](https://news.ycombinator.com/item?id=40297946) - [TimesFM (Time Series Foundation Model) for time-series forecasting](https://github.com/google-research/timesfm)
@@ -21,15 +22,14 @@
 * [2024-05-07, 11:09:23](https://news.ycombinator.com/item?id=40284225) - [The Birth of Parquet](https://sympathetic.ink/2024/01/24/Chapter-1-The-birth-of-Parquet.html)
 * [2024-05-07, 10:53:00](https://news.ycombinator.com/item?id=40284144) - [How to Build a Suburb (1995)](http://archive.wilsonquarterly.com/essays/how-build-suburb)
 * [2024-05-07, 10:19:12](https://news.ycombinator.com/item?id=40283988) - [Creating a honey garden in Venice](https://worldsensorium.com/judi-harvest-creating-a-honey-garden-in-venice/)
-* [2024-05-07, 10:17:59](https://news.ycombinator.com/item?id=40283981) - [A Comprehensive Introduction to CDNs](https://00f.net/2024/05/07/what-is-a-cdn/)
 * [2024-05-07, 09:31:44](https://news.ycombinator.com/item?id=40283752) - [Using AirPods as a Morse Transmitter](https://github.com/EtherDream/headphone-morse-transmitter)
-* [2024-05-07, 08:27:56](https://news.ycombinator.com/item?id=40283474) - [An operating system for the web](https://jasongullickson.com/an-operating-system-for-the-web.html)
 * [2024-05-07, 07:57:44](https://news.ycombinator.com/item?id=40283364) - [SteerMouse](https://plentycom.jp/en/steermouse/index.html)
 * [2024-05-07, 05:34:07](https://news.ycombinator.com/item?id=40282671) - [The Waning Reign of the Muskrat](https://hakaimagazine.com/features/the-magnificent-lives-and-quiet-loss-of-muskrats/)
 * [2024-05-06, 20:02:18](https://news.ycombinator.com/item?id=40278874) - [Common Google XSS](https://matan-h.com/common-google-xss)
 * [2024-05-06, 19:18:08](https://news.ycombinator.com/item?id=40278439) - [The Clowder Project: an online resource for category theory and mathematics](https://www.clowderproject.com/)
 * [2024-05-06, 08:09:38](https://news.ycombinator.com/item?id=40272339) - [Show HN: AI climbing coach – visualize how to climb any route based on your body](https://climbing.ai/)
 * [2024-05-06, 06:35:04](https://news.ycombinator.com/item?id=40271797) - [Pair Your Compilers at the ABI Café](https://faultlore.com/blah/abi-puns/)
+* [2024-05-05, 09:23:54](https://news.ycombinator.com/item?id=40263377) - [The Bloody History of 'Deadline'](https://www.merriam-webster.com/wordplay/your-deadline-wont-kill-you)
 
 ## [Archives](archives/index.md)
 
