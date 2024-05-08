@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-08, 03:40:18](https://news.ycombinator.com/item?id=40294107) - [Neighbors Are Retiring in Their 30s. Why Can't You?](https://www.nytimes.com/2024/05/07/magazine/retire-early-saving.html)
 * [2024-05-08, 03:09:29](https://news.ycombinator.com/item?id=40293974) - [Show HN: Serverless collaborative notion-level note editor using CRDT in GO](https://github.com/notebox/nbfm)
 * [2024-05-08, 01:55:53](https://news.ycombinator.com/item?id=40293614) - [US Revokes Intel, Qualcomm Licenses to Sell Chips to Huawei](https://www.msn.com/en-us/money/other/us-revokes-intel-qualcomm-licenses-to-sell-chips-to-huawei/ar-BB1lZqJO)
 * [2024-05-08, 01:38:49](https://news.ycombinator.com/item?id=40293505) - [Needle: A DFA Based Regex Library That Compiles to JVM ByteCode](https://justinblank.com/experiments/needle.html)
@@ -21,9 +22,8 @@
 * [2024-05-07, 11:24:08](https://news.ycombinator.com/item?id=40284291) - [Hackers discover how to reprogram NES Tetris from within the game](https://arstechnica.com/gaming/2024/05/hackers-discover-how-to-reprogram-nes-tetris-from-within-the-game/)
 * [2024-05-07, 11:08:56](https://news.ycombinator.com/item?id=40284219) - [Pyspread – Pythonic Spreadsheet](https://pyspread.gitlab.io/)
 * [2024-05-07, 06:24:59](https://news.ycombinator.com/item?id=40282923) - [Gradient descent visualization](https://github.com/lilipads/gradient_descent_viz)
-* [2024-05-06, 23:46:49](https://news.ycombinator.com/item?id=40280760) - [A Rosetta Stone for Mathematics: André Weil's 1940 letter](https://www.quantamagazine.org/a-rosetta-stone-for-mathematics-20240506/)
+* [2024-05-07, 05:27:38](https://news.ycombinator.com/item?id=40282641) - [The Antisocial Network: How the 90s Internet Died Like Diaryland (2014)](https://www.vice.com/en/article/jp5vdg/the-antisocial-network-how-the-90s-internet-died-like-diaryland)
 * [2024-05-06, 15:59:11](https://news.ycombinator.com/item?id=40276112) - [Arena-based parsers](https://iliabylich.github.io/arena-based-parsers/)
-* [2024-05-06, 12:43:42](https://news.ycombinator.com/item?id=40273968) - [Secure Randomness in Go 1.22](https://go.dev/blog/chacha8rand?hn=1)
 * [2024-05-06, 10:50:19](https://news.ycombinator.com/item?id=40273177) - [Ask HN: Interesting TUIs (text user interfaces), maybe forgotten ones?](https://news.ycombinator.com/item?id=40273177)
 * [2024-05-06, 10:42:03](https://news.ycombinator.com/item?id=40273121) - [Conical Slicing: A different angle of 3D printing](https://www.cnckitchen.com/blog/conical-slicing-a-different-angle-of-3d-printing)
 * [2024-05-06, 00:24:39](https://news.ycombinator.com/item?id=40269911) - [Array.shift Optimizations in Firefox's JavaScript Engine (2020)](https://lannonbr.com/blog/2020-01-27-shift-optimizations/)
