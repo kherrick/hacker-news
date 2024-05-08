@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-08, 05:28:43](https://news.ycombinator.com/item?id=40294650) - [XLSTM: Extended Long Short-Term Memory](https://arxiv.org/abs/2405.04517)
 * [2024-05-08, 05:25:04](https://news.ycombinator.com/item?id=40294630) - [U.S. Rules Apple Illegally Interrogated Staff and Confiscated Union Flyers](https://www.forbes.com/sites/antoniopequenoiv/2024/05/06/us-labor-board-rules-apple-illegally-interrogated-staff-and-confiscated-union-flyers/)
 * [2024-05-08, 05:12:58](https://news.ycombinator.com/item?id=40294555) - [The C++ Iceberg](https://fouronnes.github.io/cppiceberg/)
 * [2024-05-08, 03:09:29](https://news.ycombinator.com/item?id=40293974) - [Show HN: Serverless collaborative notion-level note editor using CRDT in GO](https://github.com/notebox/nbfm)
@@ -29,7 +30,6 @@
 * [2024-05-06, 10:42:03](https://news.ycombinator.com/item?id=40273121) - [Conical Slicing: A different angle of 3D printing](https://www.cnckitchen.com/blog/conical-slicing-a-different-angle-of-3d-printing)
 * [2024-05-05, 23:57:32](https://news.ycombinator.com/item?id=40269754) - [Book people think they know why 9-year-olds stop reading for fun](https://slate.com/culture/2024/05/kids-reading-fun-books-decline-by-nine-crisis.html)
 * [2024-05-05, 18:03:26](https://news.ycombinator.com/item?id=40266831) - [Coding interviews are stupid (ish)](https://darrenkopp.com/posts/2024/05/01/coding-interviews-are-stupid)
-* [2024-05-05, 06:58:41](https://news.ycombinator.com/item?id=40262837) - [PDEP-13: The Pandas Logical Type System](https://github.com/pandas-dev/pandas/blob/8a246978e9812a2448f43d0df24a82d51e850d53/web/pandas/pdeps/0013-logical-type-system.md)
 
 ## [Archives](archives/index.md)
 

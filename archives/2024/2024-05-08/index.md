@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-08](index.md)
 
+* [2024-05-08, 05:28:43](https://news.ycombinator.com/item?id=40294650) - [XLSTM: Extended Long Short-Term Memory](https://arxiv.org/abs/2405.04517)
 * [2024-05-08, 05:25:04](https://news.ycombinator.com/item?id=40294630) - [U.S. Rules Apple Illegally Interrogated Staff and Confiscated Union Flyers](https://www.forbes.com/sites/antoniopequenoiv/2024/05/06/us-labor-board-rules-apple-illegally-interrogated-staff-and-confiscated-union-flyers/)
 * [2024-05-08, 05:12:58](https://news.ycombinator.com/item?id=40294555) - [The C++ Iceberg](https://fouronnes.github.io/cppiceberg/)
 * [2024-05-08, 03:40:18](https://news.ycombinator.com/item?id=40294107) - [Neighbors Are Retiring in Their 30s. Why Can't You?](https://www.nytimes.com/2024/05/07/magazine/retire-early-saving.html)
