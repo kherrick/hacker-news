@@ -1,22 +1,22 @@
 [
   [
     [
-      "2024-05-08, 14:38:19",
-      "https://news.ycombinator.com/item?id=40298608"
-    ],
-    [
-      "Signal's Katherine Maher Problem",
-      "https://www.city-journal.org/article/signals-katherine-maher-problem"
-    ]
-  ],
-  [
-    [
       "2024-05-08, 14:33:00",
       "https://news.ycombinator.com/item?id=40298552"
     ],
     [
       "Canada's Bill S-210: The Push for Widespread Age Verification",
       "https://www.michaelgeist.ca/2024/01/bill-s-210-is-just-the-beginning-how-a-canadian-digital-lobby-group-is-promoting-a-standard-to-foster-widespread-adoption-of-age-verification-technologies-in-canada/"
+    ]
+  ],
+  [
+    [
+      "2024-05-08, 14:26:19",
+      "https://news.ycombinator.com/item?id=40298486"
+    ],
+    [
+      "Tesla is being investigated for securities and wire fraud for self-driving claim",
+      "https://www.theverge.com/2024/5/8/24151881/tesla-justice-investigation-securities-wire-fraud-self-driving"
     ]
   ],
   [
@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2024-05-07, 21:14:50",
+      "https://news.ycombinator.com/item?id=40291577"
+    ],
+    [
+      "Misconceptions about SB 1047",
+      "https://asteriskmag.com/issues/06/why-is-everyone-suddenly-furious-about-ai-regulation"
+    ]
+  ],
+  [
+    [
       "2024-05-07, 18:06:29",
       "https://news.ycombinator.com/item?id=40289323"
     ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2024-05-07, 11:24:08",
-      "https://news.ycombinator.com/item?id=40284291"
-    ],
-    [
-      "Hackers discover how to reprogram NES Tetris from within the game",
-      "https://arstechnica.com/gaming/2024/05/hackers-discover-how-to-reprogram-nes-tetris-from-within-the-game/"
-    ]
-  ],
-  [
-    [
       "2024-05-07, 09:38:21",
       "https://news.ycombinator.com/item?id=40283799"
     ],
@@ -247,16 +247,6 @@
     [
       "A library to assist writing memory-unsafe code in \"pure\" Python",
       "https://github.com/DavidBuchanan314/unsafe-python"
-    ]
-  ],
-  [
-    [
-      "2024-05-07, 06:24:59",
-      "https://news.ycombinator.com/item?id=40282923"
-    ],
-    [
-      "Gradient descent visualization",
-      "https://github.com/lilipads/gradient_descent_viz"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Show HN: Touvlo – Technical Interviewing for Hardware Engineers (By Humans)",
       "https://touvlo.co"
+    ]
+  ],
+  [
+    [
+      "2024-05-06, 08:09:38",
+      "https://news.ycombinator.com/item?id=40272339"
+    ],
+    [
+      "Show HN: AI climbing coach – visualize how to climb any route based on your body",
+      "https://climbing.ai/"
     ]
   ],
   [
