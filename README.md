@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-08, 21:42:52](https://news.ycombinator.com/item?id=40302991) - [Apple: Sorry, your Mac app is a copycat of your iOS app. So you're rejected](https://twitter.com/WildCat_io/status/1788323646278168858)
 * [2024-05-08, 21:33:11](https://news.ycombinator.com/item?id=40302901) - [Neuralink Prime Study Progress Update – User Experience](https://neuralink.com/blog/prime-study-progress-update-user-experience/)
 * [2024-05-08, 21:16:53](https://news.ycombinator.com/item?id=40302792) - [Stack Overflow Upset over Users Deleting Answers After OpenAI Partnership](https://build5nines.com/stack-overflow-upset-over-users-deleting-answers-after-openai-partnership/)
 * [2024-05-08, 21:09:20](https://news.ycombinator.com/item?id=40302731) - [English learners can now practice speaking on Google Search](https://research.google/blog/english-learners-can-now-practice-speaking-on-search/)
@@ -29,7 +30,6 @@
 * [2024-05-06, 08:40:02](https://news.ycombinator.com/item?id=40272514) - [How to Use the Foreign Function API in Java 22 to Call C Libraries](https://ifesunmola.com/how-to-use-the-foreign-function-api-in-java-22-to-call-c-libraries/)
 * [2024-05-06, 08:09:38](https://news.ycombinator.com/item?id=40272339) - [Show HN: AI climbing coach – visualize how to climb any route based on your body](https://climbing.ai/)
 * [2024-05-06, 06:35:04](https://news.ycombinator.com/item?id=40271797) - [Pair Your Compilers at the ABI Café](https://faultlore.com/blah/abi-puns/)
-* [2024-05-05, 09:23:54](https://news.ycombinator.com/item?id=40263377) - [The Bloody History of 'Deadline'](https://www.merriam-webster.com/wordplay/your-deadline-wont-kill-you)
 
 ## [Archives](archives/index.md)
 
