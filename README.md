@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-08, 10:54:37](https://news.ycombinator.com/item?id=40296518) - [Are You an Anarchist? The Answer May Surprise You by David Graeber](https://theanarchistlibrary.org/library/david-graeber-are-you-an-anarchist-the-answer-may-surprise-you)
 * [2024-05-08, 10:42:02](https://news.ycombinator.com/item?id=40296429) - [What do you call a Rust pointer we stole the high bits off? An ointer. (2021)](https://github.com/irrustible/ointers)
 * [2024-05-08, 08:31:28](https://news.ycombinator.com/item?id=40295661) - [Hyperworlds – Web Replacement Projects](https://hyperworlds.org/)
 * [2024-05-08, 08:26:50](https://news.ycombinator.com/item?id=40295624) - [The search for easier safe systems programming](https://www.sophiajt.com/search-for-easier-safe-systems-programming/)
@@ -21,7 +22,6 @@
 * [2024-05-07, 13:29:49](https://news.ycombinator.com/item?id=40285211) - [Can turning office towers into apartments save downtowns?](https://www.newyorker.com/magazine/2024/05/06/can-turning-office-towers-into-apartments-save-downtowns)
 * [2024-05-07, 12:46:14](https://news.ycombinator.com/item?id=40284823) - [Cold brew coffee in 3 minutes using acoustic cavitation](https://www.unsw.edu.au/newsroom/news/2024/05/Ultrasonic_cold_brew_coffee_ready_under_three_minutes)
 * [2024-05-07, 11:24:08](https://news.ycombinator.com/item?id=40284291) - [Hackers discover how to reprogram NES Tetris from within the game](https://arstechnica.com/gaming/2024/05/hackers-discover-how-to-reprogram-nes-tetris-from-within-the-game/)
-* [2024-05-07, 11:08:56](https://news.ycombinator.com/item?id=40284219) - [Pyspread – Pythonic Spreadsheet](https://pyspread.gitlab.io/)
 * [2024-05-07, 10:36:02](https://news.ycombinator.com/item?id=40284063) - [Object Linking and Embedding](https://en.wikipedia.org/wiki/Object_Linking_and_Embedding)
 * [2024-05-07, 09:38:21](https://news.ycombinator.com/item?id=40283799) - [Defense Against AI-Guided Traffic Analysis (Daita)](https://mullvad.net/en/blog/introducing-defense-against-ai-guided-traffic-analysis-daita)
 * [2024-05-07, 07:57:44](https://news.ycombinator.com/item?id=40283364) - [SteerMouse](https://plentycom.jp/en/steermouse/index.html)

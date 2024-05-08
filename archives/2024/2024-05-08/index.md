@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-08](index.md)
 
+* [2024-05-08, 10:54:37](https://news.ycombinator.com/item?id=40296518) - [Are You an Anarchist? The Answer May Surprise You by David Graeber](https://theanarchistlibrary.org/library/david-graeber-are-you-an-anarchist-the-answer-may-surprise-you)
 * [2024-05-08, 10:42:02](https://news.ycombinator.com/item?id=40296429) - [What do you call a Rust pointer we stole the high bits off? An ointer. (2021)](https://github.com/irrustible/ointers)
 * [2024-05-08, 08:43:05](https://news.ycombinator.com/item?id=40295725) - [The oceans have broken temperature records every day over the past year](https://www.bbc.co.uk/news/science-environment-68921215)
 * [2024-05-08, 08:31:28](https://news.ycombinator.com/item?id=40295661) - [Hyperworlds – Web Replacement Projects](https://hyperworlds.org/)
