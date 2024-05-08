@@ -11,6 +11,7 @@
 * [2024-05-08, 16:31:01](https://news.ycombinator.com/item?id=40299991) - [Tesla bought over $2M worth of Lidar from Luminar](https://www.theverge.com/2024/5/7/24151497/tesla-lidar-luminar-elon-musk-sensor-autonomous)
 * [2024-05-08, 16:24:00](https://news.ycombinator.com/item?id=40299899) - [AstraZeneca to Withdraw Covid-19 Vaccine Worldwide Amid Concerns over TTS Risk](https://www.tftc.io/astrazeneca-withdraws-covid-vaccine-vaxzevria-global-markets/)
 * [2024-05-08, 16:16:13](https://news.ycombinator.com/item?id=40299792) - [Tech firms must tame toxic algorithms to protect children online](https://www.ofcom.org.uk/news-centre/2024/tech-firms-must-tame-toxic-algorithms-to-protect-children-online)
+* [2024-05-08, 16:14:23](https://news.ycombinator.com/item?id=40299761) - [Psql-describe: \\d ported to JavaScript](https://github.com/neondatabase/psql-describe)
 * [2024-05-08, 16:10:33](https://news.ycombinator.com/item?id=40299721) - [Half of Google's white-collar staff 'does no real work,' Silicon Valley VC says](https://qz.com/google-white-collar-staff-andreessen-horowitz-1851460910)
 * [2024-05-08, 16:02:59](https://news.ycombinator.com/item?id=40299645) - [Rifle-Armed Robot Dogs Now Being Tested by Marine Special Operators](https://www.twz.com/sea/rifle-armed-robot-dogs-now-being-tested-by-marine-special-operators)
 * [2024-05-08, 15:54:54](https://news.ycombinator.com/item?id=40299556) - [Launch HN: Baselit (YC W23) – Automatically Reduce Snowflake Costs](https://news.ycombinator.com/item?id=40299556)
