@@ -7,7 +7,7 @@
 * [2024-05-08, 16:33:23](https://news.ycombinator.com/item?id=40300023) - [Steve Albini, Storied Producer and Icon of the Rock Underground, Dies at 61](https://pitchfork.com/news/steve-albini-storied-producer-and-icon-of-the-rock-underground-dies-at-61/)
 * [2024-05-08, 16:14:23](https://news.ycombinator.com/item?id=40299761) - [Psql-describe: \\d ported to JavaScript](https://github.com/neondatabase/psql-describe)
 * [2024-05-08, 15:19:40](https://news.ycombinator.com/item?id=40299091) - [Show HN: I made a better Perplexity for developers](https://devv.ai)
-* [2024-05-08, 15:07:10](https://news.ycombinator.com/item?id=40298927) - [AlphaFold 3 predicts the structure and interactions of all of life's molecules](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/)
+* [2024-05-08, 15:07:10](https://news.ycombinator.com/item?id=40298927) - [AlphaFold 3 predicts the structure and interactions of life's molecules](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/)
 * [2024-05-08, 14:09:29](https://news.ycombinator.com/item?id=40298304) - [Just a Bunch of Scanners (JBOS?)](https://sprocketfox.io/xssfox/2024/05/08/jbos/)
 * [2024-05-08, 13:34:34](https://news.ycombinator.com/item?id=40297946) - [TimesFM (Time Series Foundation Model) for time-series forecasting](https://github.com/google-research/timesfm)
 * [2024-05-08, 13:13:22](https://news.ycombinator.com/item?id=40297748) - ['Underwater bicycle' propels swimmers forward at superhuman speed](https://newatlas.com/marine/seabike-swimming-propeller/)
