@@ -79,6 +79,7 @@
 * [2024-05-07, 07:07:34](https://news.ycombinator.com/item?id=40283139) - [GCC 14.1 Release](https://gcc.gnu.org/gcc-14/)
 * [2024-05-07, 06:24:59](https://news.ycombinator.com/item?id=40282923) - [Gradient descent visualization](https://github.com/lilipads/gradient_descent_viz)
 * [2024-05-07, 06:10:55](https://news.ycombinator.com/item?id=40282856) - [We've been put in the vibe space](https://vickiboykis.com/2024/05/06/weve-been-put-in-the-vibe-space/)
+* [2024-05-07, 05:40:42](https://news.ycombinator.com/item?id=40282706) - [Japanese Trade Publications Helped Japan Form a New Graphic Identity (2023)](https://www.collectorsweekly.com/articles/how-a-rare-set-of-japanese-trade-publications-helped-japan-form-a-new-graphic-identity/)
 * [2024-05-07, 05:34:07](https://news.ycombinator.com/item?id=40282671) - [The Waning Reign of the Muskrat](https://hakaimagazine.com/features/the-magnificent-lives-and-quiet-loss-of-muskrats/)
 * [2024-05-07, 05:27:38](https://news.ycombinator.com/item?id=40282641) - [The Antisocial Network: How the 90s Internet Died Like Diaryland (2014)](https://www.vice.com/en/article/jp5vdg/the-antisocial-network-how-the-90s-internet-died-like-diaryland)
 * [2024-05-07, 04:48:25](https://news.ycombinator.com/item?id=40282451) - [Mishaps in Redshift Temporary Tables](https://selectfromwhereand.com/posts/redshift_temp_tables/)
