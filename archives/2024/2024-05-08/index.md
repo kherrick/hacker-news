@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-05-08](index.md)
 
+* [2024-05-08, 17:00:25](https://news.ycombinator.com/item?id=40300358) - [Bun (YC S19) Is Hiring Systems Engineers in San Francisco](https://apply.workable.com/oven/j/A7A1388873/)
 * [2024-05-08, 16:41:12](https://news.ycombinator.com/item?id=40300126) - [Show HN: I built a non-linear UI for ChatGPT](https://www.grafychat.com)
 * [2024-05-08, 16:33:23](https://news.ycombinator.com/item?id=40300023) - [Steve Albini, Storied Producer and Icon of the Rock Underground, Dies at 61](https://pitchfork.com/news/steve-albini-storied-producer-and-icon-of-the-rock-underground-dies-at-61/)
+* [2024-05-08, 16:32:10](https://news.ycombinator.com/item?id=40300009) - [Beautiful Ugly Websites](https://productidentity.co/p/beautiful-ugly-websites)
+* [2024-05-08, 16:31:01](https://news.ycombinator.com/item?id=40299991) - [Tesla bought over $2M worth of Lidar from Luminar](https://www.theverge.com/2024/5/7/24151497/tesla-lidar-luminar-elon-musk-sensor-autonomous)
 * [2024-05-08, 16:24:00](https://news.ycombinator.com/item?id=40299899) - [AstraZeneca to Withdraw Covid-19 Vaccine Worldwide Amid Concerns over TTS Risk](https://www.tftc.io/astrazeneca-withdraws-covid-vaccine-vaxzevria-global-markets/)
 * [2024-05-08, 16:16:13](https://news.ycombinator.com/item?id=40299792) - [Tech firms must tame toxic algorithms to protect children online](https://www.ofcom.org.uk/news-centre/2024/tech-firms-must-tame-toxic-algorithms-to-protect-children-online)
 * [2024-05-08, 16:10:33](https://news.ycombinator.com/item?id=40299721) - [Half of Google's white-collar staff 'does no real work,' Silicon Valley VC says](https://qz.com/google-white-collar-staff-andreessen-horowitz-1851460910)
