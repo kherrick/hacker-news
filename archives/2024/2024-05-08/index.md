@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-08](index.md)
 
+* [2024-05-08, 23:30:05](https://news.ycombinator.com/item?id=40303787) - [Trailer Park Residents Are Forming Cooperatives](https://jacobin.com/2024/05/trailer-park-cooperatives-roc-usa/)
 * [2024-05-08, 22:45:08](https://news.ycombinator.com/item?id=40303476) - [Google Is Staring Down Its First Serious Threats in Years](https://nymag.com/intelligencer/article/google-is-staring-down-its-first-serious-threats-in-years.html)
 * [2024-05-08, 22:33:03](https://news.ycombinator.com/item?id=40303400) - [Stack Overflow bans users en masse for rebelling against OpenAI partnership](https://www.tomshardware.com/tech-industry/artificial-intelligence/stack-overflow-bans-users-en-masse-for-rebelling-against-openai-partnership-users-banned-for-deleting-answers-to-prevent-them-being-used-to-train-chatgpt)
 * [2024-05-08, 22:22:08](https://news.ycombinator.com/item?id=40303336) - [Show HN: SimBricks – Modular Full-System Simulation for HW-SW Systems](https://simbricks.github.io/)
