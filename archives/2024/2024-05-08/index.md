@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-08](index.md)
 
+* [2024-05-08, 22:17:24](https://news.ycombinator.com/item?id=40303288) - [Underhanded Dotfiles](https://github.com/ayust/underhanded/blob/master/.bashrc)
 * [2024-05-08, 21:53:42](https://news.ycombinator.com/item?id=40303073) - [Building Your First Browser Game with Three.js and React: Part 1](https://rherault.dev/articles/create-3d-game-part-1)
 * [2024-05-08, 21:42:52](https://news.ycombinator.com/item?id=40302991) - [Apple: Sorry, your Mac app is a copycat of your iOS app. So you're rejected](https://twitter.com/WildCat_io/status/1788323646278168858)
 * [2024-05-08, 21:33:11](https://news.ycombinator.com/item?id=40302901) - [Neuralink Prime Study Progress Update – User Experience](https://neuralink.com/blog/prime-study-progress-update-user-experience/)
