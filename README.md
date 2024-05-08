@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-08, 10:42:02](https://news.ycombinator.com/item?id=40296429) - [What do you call a Rust pointer we stole the high bits off? An ointer. (2021)](https://github.com/irrustible/ointers)
 * [2024-05-08, 08:31:28](https://news.ycombinator.com/item?id=40295661) - [Hyperworlds – Web Replacement Projects](https://hyperworlds.org/)
 * [2024-05-08, 08:26:50](https://news.ycombinator.com/item?id=40295624) - [The search for easier safe systems programming](https://www.sophiajt.com/search-for-easier-safe-systems-programming/)
 * [2024-05-08, 06:27:59](https://news.ycombinator.com/item?id=40294957) - [Fly.io Infra log: week-by-week record of what the team does](https://fly.io/infra-log/)
@@ -28,7 +29,6 @@
 * [2024-05-07, 04:48:25](https://news.ycombinator.com/item?id=40282451) - [Mishaps in Redshift Temporary Tables](https://selectfromwhereand.com/posts/redshift_temp_tables/)
 * [2024-05-06, 20:02:18](https://news.ycombinator.com/item?id=40278874) - [Common Google XSS](https://matan-h.com/common-google-xss)
 * [2024-05-06, 15:59:11](https://news.ycombinator.com/item?id=40276112) - [Arena-based parsers](https://iliabylich.github.io/arena-based-parsers/)
-* [2024-05-06, 10:42:03](https://news.ycombinator.com/item?id=40273121) - [Conical Slicing: A different angle of 3D printing](https://www.cnckitchen.com/blog/conical-slicing-a-different-angle-of-3d-printing)
 * [2024-05-05, 18:03:26](https://news.ycombinator.com/item?id=40266831) - [Coding interviews are stupid (ish)](https://darrenkopp.com/posts/2024/05/01/coding-interviews-are-stupid)
 
 ## [Archives](archives/index.md)
