@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-05-08, 13:13:22",
+      "https://news.ycombinator.com/item?id=40297748"
+    ],
+    [
+      "'Underwater bicycle' propels swimmers forward at superhuman speed",
+      "https://newatlas.com/marine/seabike-swimming-propeller/"
+    ]
+  ],
+  [
+    [
+      "2024-05-08, 12:56:34",
+      "https://news.ycombinator.com/item?id=40297590"
+    ],
+    [
+      "New Strategy Could Lead to Universal, Long-Lasting Flu Shot",
+      "https://today.duke.edu/2024/05/new-strategy-could-lead-universal-long-lasting-flu-shot"
+    ]
+  ],
+  [
+    [
+      "2024-05-08, 12:29:42",
+      "https://news.ycombinator.com/item?id=40297273"
+    ],
+    [
+      "They Used Resume Spammers to Apply for 120 Jobs. Chaos Ensued",
+      "https://www.businessinsider.com/job-applications-hiring-ai-bots-spam-resume-cover-letter-2024-3"
+    ]
+  ],
+  [
+    [
       "2024-05-08, 11:49:06",
       "https://news.ycombinator.com/item?id=40296926"
     ],
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2024-05-07, 19:41:25",
-      "https://news.ycombinator.com/item?id=40290596"
-    ],
-    [
-      "ScrapeGraphAI: Web scraping using LLM and direct graph logic",
-      "https://scrapegraph-doc.onrender.com/"
-    ]
-  ],
-  [
-    [
       "2024-05-07, 18:06:29",
       "https://news.ycombinator.com/item?id=40289323"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2024-05-07, 15:12:56",
-      "https://news.ycombinator.com/item?id=40286632"
-    ],
-    [
-      "SecureDrop Protocol",
-      "https://securedrop.org/news/introducing-securedrop-protocol/"
-    ]
-  ],
-  [
-    [
       "2024-05-07, 14:37:32",
       "https://news.ycombinator.com/item?id=40286029"
     ],
@@ -217,16 +227,6 @@
     [
       "Hackers discover how to reprogram NES Tetris from within the game",
       "https://arstechnica.com/gaming/2024/05/hackers-discover-how-to-reprogram-nes-tetris-from-within-the-game/"
-    ]
-  ],
-  [
-    [
-      "2024-05-07, 11:08:56",
-      "https://news.ycombinator.com/item?id=40284219"
-    ],
-    [
-      "Pyspread – Pythonic Spreadsheet",
-      "https://pyspread.gitlab.io/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2024-05-05, 18:03:26",
-      "https://news.ycombinator.com/item?id=40266831"
+      "2024-05-06, 15:45:46",
+      "https://news.ycombinator.com/item?id=40275969"
     ],
     [
-      "Coding interviews are stupid (ish)",
-      "https://darrenkopp.com/posts/2024/05/01/coding-interviews-are-stupid"
+      "Show HN: Touvlo – Technical Interviewing for Hardware Engineers (By Humans)",
+      "https://touvlo.co"
     ]
   ]
 ]
