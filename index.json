@@ -61,32 +61,12 @@
   ],
   [
     [
-      "2024-05-08, 06:27:59",
-      "https://news.ycombinator.com/item?id=40294957"
-    ],
-    [
-      "Fly.io Infra log: week-by-week record of what the team does",
-      "https://fly.io/infra-log/"
-    ]
-  ],
-  [
-    [
       "2024-05-08, 05:28:43",
       "https://news.ycombinator.com/item?id=40294650"
     ],
     [
       "XLSTM: Extended Long Short-Term Memory",
       "https://arxiv.org/abs/2405.04517"
-    ]
-  ],
-  [
-    [
-      "2024-05-08, 05:25:04",
-      "https://news.ycombinator.com/item?id=40294630"
-    ],
-    [
-      "U.S. Rules Apple Illegally Interrogated Staff and Confiscated Union Flyers",
-      "https://www.forbes.com/sites/antoniopequenoiv/2024/05/06/us-labor-board-rules-apple-illegally-interrogated-staff-and-confiscated-union-flyers/"
     ]
   ],
   [
@@ -117,16 +97,6 @@
     [
       "Needle: A DFA Based Regex Library That Compiles to JVM ByteCode",
       "https://justinblank.com/experiments/needle.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-07, 22:15:05",
-      "https://news.ycombinator.com/item?id=40292181"
-    ],
-    [
-      "Decker: A reincarnation of HyperCard with 1-bit graphics",
-      "https://www.beyondloom.com/decker/index.html"
     ]
   ],
   [
@@ -191,6 +161,16 @@
   ],
   [
     [
+      "2024-05-07, 15:12:56",
+      "https://news.ycombinator.com/item?id=40286632"
+    ],
+    [
+      "SecureDrop Protocol",
+      "https://securedrop.org/news/introducing-securedrop-protocol/"
+    ]
+  ],
+  [
+    [
       "2024-05-07, 14:37:32",
       "https://news.ycombinator.com/item?id=40286029"
     ],
@@ -227,6 +207,16 @@
     [
       "Hackers discover how to reprogram NES Tetris from within the game",
       "https://arstechnica.com/gaming/2024/05/hackers-discover-how-to-reprogram-nes-tetris-from-within-the-game/"
+    ]
+  ],
+  [
+    [
+      "2024-05-07, 11:08:56",
+      "https://news.ycombinator.com/item?id=40284219"
+    ],
+    [
+      "Pyspread – Pythonic Spreadsheet",
+      "https://pyspread.gitlab.io/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Show HN: Touvlo – Technical Interviewing for Hardware Engineers (By Humans)",
       "https://touvlo.co"
+    ]
+  ],
+  [
+    [
+      "2024-05-05, 18:03:26",
+      "https://news.ycombinator.com/item?id=40266831"
+    ],
+    [
+      "Coding interviews are stupid (ish)",
+      "https://darrenkopp.com/posts/2024/05/01/coding-interviews-are-stupid"
     ]
   ]
 ]
