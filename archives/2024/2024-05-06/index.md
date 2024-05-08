@@ -49,6 +49,7 @@
 * [2024-05-06, 16:27:26](https://news.ycombinator.com/item?id=40276438) - [Pokémon Go players are altering public map data to catch rare Pokémon](https://arstechnica.com/gaming/2024/05/pokemon-go-players-are-altering-public-map-data-to-catch-rare-pokemon/)
 * [2024-05-06, 16:24:09](https://news.ycombinator.com/item?id=40276399) - [Quantum gravity gets a new test](https://physics.aps.org/articles/v17/65)
 * [2024-05-06, 16:12:15](https://news.ycombinator.com/item?id=40276273) - [Alzheimer's disease may be inherited more often than previously known](https://www.cnn.com/2024/05/06/health/alzheimers-apoe4-gene-risk/index.html)
+* [2024-05-06, 15:59:11](https://news.ycombinator.com/item?id=40276112) - [Arena-based parsers](https://iliabylich.github.io/arena-based-parsers/)
 * [2024-05-06, 15:49:59](https://news.ycombinator.com/item?id=40276012) - [How to escape Honda's privacy hell](https://sherwood.news/tech/how-to-opt-out-of-the-privacy-nightmare-that-comes-factory-installed-in-new/)
 * [2024-05-06, 15:48:09](https://news.ycombinator.com/item?id=40275997) - [Clojure: Managing throughput with virtual threads](https://andersmurphy.com/2024/05/06/clojure-managing-throughput-with-virtual-threads.html)
 * [2024-05-06, 15:47:07](https://news.ycombinator.com/item?id=40275986) - [Balsamic vinegar is likely fake](https://www.bbc.com/travel/article/20231024-why-your-balsamic-vinegar-is-likely-fake)
