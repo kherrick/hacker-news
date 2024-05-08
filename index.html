@@ -134,18 +134,18 @@
             <a
               class="item"
               href="https://cdn.openai.com/spec/model-spec-2024-05-08.html"
-              >OpenAI: Model Spec</a
+              >Model Spec</a
             >
           </h3>
           <section>
             <h4>
               <span>2024-05-08 @ 17:13:07</span
               ><span class="points-container"
-                >Points: <span class="points">87</span></span
+                >Points: <span class="points">90</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40300509"
                   >Comments</a
-                ><span class="descendants">: 46</span></span
+                ><span class="descendants">: 48</span></span
               >
             </h4>
           </section>
@@ -160,7 +160,7 @@
             <h4>
               <span>2024-05-08 @ 17:09:17</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40300454"
                   >Comments</a
@@ -194,7 +194,7 @@
             <h4>
               <span>2024-05-08 @ 16:41:12</span
               ><span class="points-container"
-                >Points: <span class="points">73</span></span
+                >Points: <span class="points">83</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40300126"
                   >Comments</a
@@ -230,19 +230,18 @@
             <a
               class="item"
               href="https://pitchfork.com/news/steve-albini-storied-producer-and-icon-of-the-rock-underground-dies-at-61/"
-              >Steve Albini, Storied Producer and Icon of the Rock Underground,
-              Dies at 61</a
+              >Steve Albini has died</a
             >
           </h3>
           <section>
             <h4>
               <span>2024-05-08 @ 16:33:23</span
               ><span class="points-container"
-                >Points: <span class="points">140</span></span
+                >Points: <span class="points">153</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40300023"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 44</span></span
               >
             </h4>
           </section>
@@ -266,6 +265,112 @@
             </h4>
           </section>
         </section>
+        <section id="40299556">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=40299556"
+              >Launch HN: Baselit (YC W23) – Automatically Reduce Snowflake
+              Costs</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-05-08 @ 15:54:54</span
+              ><span class="points-container"
+                >Points: <span class="points">13</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40299556"
+                  >Comments</a
+                ><span class="descendants">: 9</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://baselit.ai/">https://baselit.ai/</a>), a tool
+              that automatically optimizes Snowflake costs. Here’s a demo video:
+              <a href="https://www.youtube.com/watch?v=Ls6VRzBQ-pQ"
+                >https://www.youtube.com/watch?v=Ls6VRzBQ-pQ</a
+              >.
+              <p>
+                Snowflake is one of the most widely used data warehouses today.
+                It abstracts out the underlying compute infrastructure into
+                “warehouses” for the user - compute units with t-shirt sizes
+                (X-Small, Small, Medium etc.). In general, if you want to lower
+                your data processing costs, the only thing you can do is to just
+                process less data (i.e. query optimization). But Snowflake’s
+                warehouse abstraction allows an extra dimension along which you
+                can optimize - by minimizing the compute you need to process
+                that same data (i.e. warehouse optimization). Baselit automates
+                Snowflake warehouse optimization for you.
+              </p>
+              <p>
+                While we were working on another idea last year (AI for SQL
+                generation), users frequently shared with us how Snowflake costs
+                had become a top concern, and cost optimization was now their
+                business priority. Every few months, they would manually look
+                for opportunities to cut down on costs (removing workloads or
+                optimizing queries) - a time consuming process. We decided to
+                build a solution that could automate cost optimization, and
+                complement the manual effort of data teams.
+              </p>
+              <p>There are two key components of Baselit:</p>
+              <p>
+                1. Automated agents that cut down on warehouse idle time. This
+                happens in one of two ways: cache optimization (when to suspend
+                a warehouse vs letting it run idle) and cluster optimization
+                (optimal spin down of clusters).
+              </p>
+              <p>
+                You can easily find out how much these agents can save you.
+                Here’s a SQL query that you can run on your Snowflake, and it
+                will calculate your savings -
+                <a href="https://baselit.ai/docs/savings-estimate"
+                  >https://baselit.ai/docs/savings-estimate</a
+                >
+              </p>
+              <p>
+                2. Autoscaler that lets you create custom scaling policies for
+                multi-cluster warehouses based on SLAs. Snowflake’s default
+                policies (Economy and Standard) are not cost optimal in most
+                cases, and they don’t give you any control.
+              </p>
+              <p>
+                One use case for Autoscaler is that it helps you efficiently
+                merge several warehouses into one multi-cluster warehouse - with
+                a custom scaling policy that is optimal for a particular type of
+                workload. In Autoscaler, you can set a parameter called “Allowed
+                Queuing Time” that controls how fast a new cluster should spin
+                up. For e.g. if you want to merge transformation workloads, you
+                might want to set a higher queuing time. Baselit will slow down
+                the cluster spin up, ensuring all clusters are running at a high
+                utilization, and you’ll see a reduction in costs.
+              </p>
+              <p>
+                We’ve built a bunch of other features that help in optimizing
+                Snowflake costs: a dbt optimization feature that automatically
+                picks the right warehouse size for dbt models through constant
+                experimentation, a “cost lineage”, spend views by
+                teams/roles/users, and automatic recommendations from scanning
+                Snowflake metadata.
+              </p>
+              <p>
+                Due to the nature of our product (access to Snowflake metadata
+                required), we haven’t made Baselit self-serve yet. We invite you
+                to run our savings query (<a
+                  href="https://baselit.ai/docs/savings-estimate"
+                  >https://baselit.ai/docs/savings-estimate</a
+                >) and find out your potential savings. And if you’d like to
+                know more about any of our features and get a live demo, you can
+                book one at this link -
+                <a href="https://calendly.com/baselit-sahil/baselit-demo"
+                  >https://calendly.com/baselit-sahil/baselit-demo</a
+                >
+              </p>
+              <p>
+                We’d love to read your feedback and ideas on Snowflake
+                optimization!
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="40299091">
           <h3>
             <a class="item" href="https://devv.ai"
@@ -276,11 +381,11 @@
             <h4>
               <span>2024-05-08 @ 15:19:40</span
               ><span class="points-container"
-                >Points: <span class="points">103</span></span
+                >Points: <span class="points">106</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40299091"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
             <div class="text">
@@ -423,11 +528,11 @@
             <h4>
               <span>2024-05-08 @ 15:07:10</span
               ><span class="points-container"
-                >Points: <span class="points">465</span></span
+                >Points: <span class="points">480</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40298927"
                   >Comments</a
-                ><span class="descendants">: 217</span></span
+                ><span class="descendants">: 227</span></span
               >
             </h4>
           </section>
@@ -456,7 +561,7 @@
         <section id="40297946">
           <h3>
             <a class="item" href="https://github.com/google-research/timesfm"
-              >TimesFM (Time Series Foundation Model) for time-series
+              >TimesFM: Time Series Foundation Model for time-series
               forecasting</a
             >
           </h3>
@@ -464,11 +569,11 @@
             <h4>
               <span>2024-05-08 @ 13:34:34</span
               ><span class="points-container"
-                >Points: <span class="points">137</span></span
+                >Points: <span class="points">141</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40297946"
                   >Comments</a
-                ><span class="descendants">: 40</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
@@ -486,11 +591,11 @@
             <h4>
               <span>2024-05-08 @ 13:13:22</span
               ><span class="points-container"
-                >Points: <span class="points">257</span></span
+                >Points: <span class="points">266</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40297748"
                   >Comments</a
-                ><span class="descendants">: 146</span></span
+                ><span class="descendants">: 149</span></span
               >
             </h4>
           </section>
@@ -547,7 +652,7 @@
             <h4>
               <span>2024-05-08 @ 12:04:02</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">31</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40297043"
                   >Comments</a
@@ -575,11 +680,11 @@
             <h4>
               <span>2024-05-08 @ 11:27:23</span
               ><span class="points-container"
-                >Points: <span class="points">183</span></span
+                >Points: <span class="points">185</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40296744"
                   >Comments</a
-                ><span class="descendants">: 109</span></span
+                ><span class="descendants">: 110</span></span
               >
             </h4>
           </section>
@@ -614,53 +719,11 @@
             <h4>
               <span>2024-05-08 @ 05:28:43</span
               ><span class="points-container"
-                >Points: <span class="points">158</span></span
+                >Points: <span class="points">160</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40294650"
                   >Comments</a
                 ><span class="descendants">: 56</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="40291598">
-          <h3>
-            <a
-              class="item"
-              href="https://github.com/ibm-granite/granite-code-models"
-              >IBM Granite: A Family of Open Foundation Models for Code
-              Intelligence</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-05-07 @ 21:16:36</span
-              ><span class="points-container"
-                >Points: <span class="points">225</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40291598"
-                  >Comments</a
-                ><span class="descendants">: 61</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="40284495">
-          <h3>
-            <a class="item" href="http://homemadeliquidnitrogen.com/"
-              >Homemade liquid nitrogen generator Joule Thomson throttle
-              (2013)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-05-07 @ 12:01:46</span
-              ><span class="points-container"
-                >Points: <span class="points">60</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40284495"
-                  >Comments</a
-                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -677,11 +740,11 @@
             <h4>
               <span>2024-05-07 @ 11:09:23</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40284225"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
@@ -719,11 +782,11 @@
             <h4>
               <span>2024-05-07 @ 09:31:44</span
               ><span class="points-container"
-                >Points: <span class="points">70</span></span
+                >Points: <span class="points">72</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40283752"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -740,11 +803,11 @@
             <h4>
               <span>2024-05-07 @ 08:27:56</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">44</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40283474"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -763,7 +826,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40283364"
                   >Comments</a
-                ><span class="descendants">: 38</span></span
+                ><span class="descendants">: 40</span></span
               >
             </h4>
           </section>
@@ -781,7 +844,7 @@
             <h4>
               <span>2024-05-07 @ 05:40:42</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">13</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40282706"
                   >Comments</a
@@ -802,11 +865,30 @@
             <h4>
               <span>2024-05-07 @ 05:34:07</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40282671"
                   >Comments</a
                 ><span class="descendants">: 12</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="40273772">
+          <h3>
+            <a class="item" href="https://github.com/build-cpp/cmkr"
+              >Cmkr – a modern build system based on CMake and TOML</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-05-06 @ 12:20:19</span
+              ><span class="points-container"
+                >Points: <span class="points">4</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40273772"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -824,7 +906,7 @@
             <h4>
               <span>2024-05-06 @ 08:40:02</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40272514"
                   >Comments</a
@@ -844,11 +926,11 @@
             <h4>
               <span>2024-05-06 @ 08:09:38</span
               ><span class="points-container"
-                >Points: <span class="points">100</span></span
+                >Points: <span class="points">104</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40272339"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
             <div class="text">
@@ -875,7 +957,7 @@
             <h4>
               <span>2024-05-06 @ 06:35:04</span
               ><span class="points-container"
-                >Points: <span class="points">64</span></span
+                >Points: <span class="points">65</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40271797"
                   >Comments</a
@@ -896,7 +978,7 @@
             <h4>
               <span>2024-05-05 @ 09:23:54</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40263377"
                   >Comments</a
