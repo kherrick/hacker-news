@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-08, 05:25:04",
+      "https://news.ycombinator.com/item?id=40294630"
+    ],
+    [
+      "U.S. Rules Apple Illegally Interrogated Staff and Confiscated Union Flyers",
+      "https://www.forbes.com/sites/antoniopequenoiv/2024/05/06/us-labor-board-rules-apple-illegally-interrogated-staff-and-confiscated-union-flyers/"
+    ]
+  ],
+  [
+    [
       "2024-05-08, 03:40:18",
       "https://news.ycombinator.com/item?id=40294107"
     ],
@@ -61,16 +71,6 @@
   ],
   [
     [
-      "2024-05-07, 22:52:07",
-      "https://news.ycombinator.com/item?id=40292452"
-    ],
-    [
-      "Unix forking the universe by running IBM's free online quantum computer",
-      "https://parel.es/blog/quantum-dice"
-    ]
-  ],
-  [
-    [
       "2024-05-07, 22:15:05",
       "https://news.ycombinator.com/item?id=40292181"
     ],
@@ -127,6 +127,16 @@
     [
       "Show HN: Convert your Containerfile to a bootable OS",
       "https://github.com/containers/podman-desktop-extension-bootc"
+    ]
+  ],
+  [
+    [
+      "2024-05-07, 17:38:32",
+      "https://news.ycombinator.com/item?id=40288947"
+    ],
+    [
+      "Facebook just updated its relationship status with Web Components",
+      "https://www.mux.com/blog/facebook-just-updated-it-s-relationship-status-with-web-components"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Conical Slicing: A different angle of 3D printing",
       "https://www.cnckitchen.com/blog/conical-slicing-a-different-angle-of-3d-printing"
-    ]
-  ],
-  [
-    [
-      "2024-05-06, 00:24:39",
-      "https://news.ycombinator.com/item?id=40269911"
-    ],
-    [
-      "Array.shift Optimizations in Firefox's JavaScript Engine (2020)",
-      "https://lannonbr.com/blog/2020-01-27-shift-optimizations/"
     ]
   ],
   [
