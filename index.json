@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-05-08, 12:02:50",
-      "https://news.ycombinator.com/item?id=40297027"
-    ],
-    [
-      "StackOverflow is banning accounts that delete answers in protest against OpenAI",
-      "https://m.benui.ca/@ben/112396505994216742"
-    ]
-  ],
-  [
-    [
       "2024-05-08, 11:49:06",
       "https://news.ycombinator.com/item?id=40296926"
     ],
@@ -137,6 +127,16 @@
     [
       "IBM Granite: A Family of Open Foundation Models for Code Intelligence",
       "https://github.com/ibm-granite/granite-code-models"
+    ]
+  ],
+  [
+    [
+      "2024-05-07, 19:41:25",
+      "https://news.ycombinator.com/item?id=40290596"
+    ],
+    [
+      "ScrapeGraphAI: Web scraping using LLM and direct graph logic",
+      "https://scrapegraph-doc.onrender.com/"
     ]
   ],
   [
