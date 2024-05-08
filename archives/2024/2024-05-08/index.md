@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-08](index.md)
 
 * [2024-05-08, 05:25:04](https://news.ycombinator.com/item?id=40294630) - [U.S. Rules Apple Illegally Interrogated Staff and Confiscated Union Flyers](https://www.forbes.com/sites/antoniopequenoiv/2024/05/06/us-labor-board-rules-apple-illegally-interrogated-staff-and-confiscated-union-flyers/)
+* [2024-05-08, 05:12:58](https://news.ycombinator.com/item?id=40294555) - [The C++ Iceberg](https://fouronnes.github.io/cppiceberg/)
 * [2024-05-08, 03:40:18](https://news.ycombinator.com/item?id=40294107) - [Neighbors Are Retiring in Their 30s. Why Can't You?](https://www.nytimes.com/2024/05/07/magazine/retire-early-saving.html)
 * [2024-05-08, 03:09:29](https://news.ycombinator.com/item?id=40293974) - [Show HN: Serverless collaborative notion-level note editor using CRDT in GO](https://github.com/notebox/nbfm)
 * [2024-05-08, 03:02:22](https://news.ycombinator.com/item?id=40293943) - [Why Use ECC Memory](https://danluu.com/why-ecc/)
