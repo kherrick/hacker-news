@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-08](index.md)
 
+* [2024-05-08, 21:03:04](https://news.ycombinator.com/item?id=40302683) - [A Portal Connecting NYC to Dublin Opens in Flatiron Today](https://secretnyc.co/the-portal-connecting-nyc-to-dublin/)
+* [2024-05-08, 21:00:26](https://news.ycombinator.com/item?id=40302665) - [Empirical Health (YC S23) is hiring engineering leads in NYC](https://www.ycombinator.com/companies/empirical-health/jobs/1PW3OFe-engineering-lead)
 * [2024-05-08, 20:15:03](https://news.ycombinator.com/item?id=40302366) - [Fortran popularity rises with numerical and scientific computing – InfoWorld](https://www.infoworld.com/article/3715346/fortran-popularity-rises-with-numerical-and-scientific-computing.html)
 * [2024-05-08, 20:03:28](https://news.ycombinator.com/item?id=40302264) - [Epic vs. Apple judge thinks Apple's being shady about buttons and links](https://www.theverge.com/2024/5/8/24152194/epic-apple-anti-steering-injunction-button-style)
 * [2024-05-08, 19:55:07](https://news.ycombinator.com/item?id=40302201) - [Consistency LLM: converting LLMs to parallel decoders accelerates inference 3.5x](https://hao-ai-lab.github.io/blogs/cllm/)
