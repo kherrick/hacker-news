@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-08, 13:50:26](https://news.ycombinator.com/item?id=40298119) - [Odigos (YC W23) Is Hiring Lead DevRel Engineer](https://www.ycombinator.com/companies/keyval/jobs/MOo8djB-lead-devrel-engineer)
 * [2024-05-08, 13:13:22](https://news.ycombinator.com/item?id=40297748) - ['Underwater bicycle' propels swimmers forward at superhuman speed](https://newatlas.com/marine/seabike-swimming-propeller/)
 * [2024-05-08, 11:49:06](https://news.ycombinator.com/item?id=40296926) - [40 years later, a game for the ZX Spectrum will be again broadcast over FM radio](https://www.racunalniski-muzej.si/en/40-years-later-a-game-for-the-zx-spectrum-will-be-once-again-broadcast-over-fm-radio/)
 * [2024-05-08, 11:27:23](https://news.ycombinator.com/item?id=40296744) - [Who Wants to Be a Thousandaire? (2011)](https://www.damninteresting.com/who-wants-to-be-a-thousandaire/)
-* [2024-05-08, 11:00:55](https://news.ycombinator.com/item?id=40296577) - [FTX Has Billions More Than Needed to Pay Bankruptcy Victims](https://www.bloomberg.com/news/articles/2024-05-07/ftx-has-billions-more-than-needed-to-repay-bankruptcy-victims)
 * [2024-05-08, 10:42:02](https://news.ycombinator.com/item?id=40296429) - [Ointers: A library for representing pointers where bits have been stolen (2021)](https://github.com/irrustible/ointers)
 * [2024-05-08, 08:26:50](https://news.ycombinator.com/item?id=40295624) - [The search for easier safe systems programming](https://www.sophiajt.com/search-for-easier-safe-systems-programming/)
 * [2024-05-08, 06:27:59](https://news.ycombinator.com/item?id=40294957) - [Fly.io Infra log: week-by-week record of what the team does](https://fly.io/infra-log/)

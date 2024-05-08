@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-08](index.md)
 
+* [2024-05-08, 13:50:26](https://news.ycombinator.com/item?id=40298119) - [Odigos (YC W23) Is Hiring Lead DevRel Engineer](https://www.ycombinator.com/companies/keyval/jobs/MOo8djB-lead-devrel-engineer)
 * [2024-05-08, 13:13:22](https://news.ycombinator.com/item?id=40297748) - ['Underwater bicycle' propels swimmers forward at superhuman speed](https://newatlas.com/marine/seabike-swimming-propeller/)
 * [2024-05-08, 12:56:34](https://news.ycombinator.com/item?id=40297590) - [New Strategy Could Lead to Universal, Long-Lasting Flu Shot](https://today.duke.edu/2024/05/new-strategy-could-lead-universal-long-lasting-flu-shot)
 * [2024-05-08, 12:29:42](https://news.ycombinator.com/item?id=40297273) - [They Used Resume Spammers to Apply for 120 Jobs. Chaos Ensued](https://www.businessinsider.com/job-applications-hiring-ai-bots-spam-resume-cover-letter-2024-3)
