@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-05-08](index.md)
 
+* [2024-05-08, 16:10:33](https://news.ycombinator.com/item?id=40299721) - [Half of Google's white-collar staff 'does no real work,' Silicon Valley VC says](https://qz.com/google-white-collar-staff-andreessen-horowitz-1851460910)
+* [2024-05-08, 15:54:54](https://news.ycombinator.com/item?id=40299556) - [Launch HN: Baselit (YC W23) – Automatically Reduce Snowflake Costs](https://news.ycombinator.com/item?id=40299556)
+* [2024-05-08, 15:33:37](https://news.ycombinator.com/item?id=40299271) - [New capacitor with 19-times energy density](https://www.livescience.com/technology/electronics/ev-batteries-could-last-much-longer-thanks-to-new-capacitor-with-19-times-power-density-that-scientists-created-by-mistake)
+* [2024-05-08, 15:33:16](https://news.ycombinator.com/item?id=40299267) - [U.S. libraries are battling high prices for better e-book access](https://www.axios.com/2024/05/06/library-librarians-e-books-license-policies)
+* [2024-05-08, 15:19:40](https://news.ycombinator.com/item?id=40299091) - [Show HN: I made a better Perplexity for developers](https://devv.ai)
 * [2024-05-08, 15:07:10](https://news.ycombinator.com/item?id=40298927) - [AlphaFold 3 predicts the structure and interactions of all of life's molecules](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/)
 * [2024-05-08, 14:58:05](https://news.ycombinator.com/item?id=40298808) - [Ask HN: Any one still using MySQL?](https://news.ycombinator.com/item?id=40298808)
 * [2024-05-08, 14:49:34](https://news.ycombinator.com/item?id=40298714) - [3 reasons people are moving from Windows 11 back to Windows 10](https://www.xda-developers.com/reasons-people-moving-windows-11-back-to-windows-10/)
