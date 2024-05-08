@@ -12,6 +12,7 @@
 * [2024-05-08, 12:48:19](https://news.ycombinator.com/item?id=40297502) - [Pulley system composition – a systematic approach (2020)](https://www.kiipeilytuomas.fi/articles-in-english/pulley-system-composition-a-systematic-approach/)
 * [2024-05-08, 12:30:17](https://news.ycombinator.com/item?id=40297280) - [Zimtohrli: A New Psychoacoustic Perceptual Metric for Audio Compression](https://github.com/google/zimtohrli)
 * [2024-05-08, 12:29:42](https://news.ycombinator.com/item?id=40297273) - [They Used Resume Spammers to Apply for 120 Jobs. Chaos Ensued](https://www.businessinsider.com/job-applications-hiring-ai-bots-spam-resume-cover-letter-2024-3)
+* [2024-05-08, 12:04:02](https://news.ycombinator.com/item?id=40297043) - [Tracexec: TUI for tracing execve and pre-exec behavior](https://github.com/kxxt/tracexec)
 * [2024-05-08, 12:02:50](https://news.ycombinator.com/item?id=40297027) - [StackOverflow is banning accounts that delete answers in protest against OpenAI](https://m.benui.ca/@ben/112396505994216742)
 * [2024-05-08, 11:49:06](https://news.ycombinator.com/item?id=40296926) - [40 years later, a game for the ZX Spectrum will be again broadcast over FM radio](https://www.racunalniski-muzej.si/en/40-years-later-a-game-for-the-zx-spectrum-will-be-once-again-broadcast-over-fm-radio/)
 * [2024-05-08, 11:27:23](https://news.ycombinator.com/item?id=40296744) - [Who Wants to Be a Thousandaire? (2011)](https://www.damninteresting.com/who-wants-to-be-a-thousandaire/)

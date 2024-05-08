@@ -3,9 +3,9 @@
 * [2024-05-08, 13:50:26](https://news.ycombinator.com/item?id=40298119) - [Odigos (YC W23) Is Hiring Lead DevRel Engineer](https://www.ycombinator.com/companies/keyval/jobs/MOo8djB-lead-devrel-engineer)
 * [2024-05-08, 13:34:34](https://news.ycombinator.com/item?id=40297946) - [TimesFM (Time Series Foundation Model) for time-series forecasting](https://github.com/google-research/timesfm)
 * [2024-05-08, 13:13:22](https://news.ycombinator.com/item?id=40297748) - ['Underwater bicycle' propels swimmers forward at superhuman speed](https://newatlas.com/marine/seabike-swimming-propeller/)
-* [2024-05-08, 12:57:03](https://news.ycombinator.com/item?id=40297592) - [Podman Desktop launches GUI for running local LLMs](https://github.com/containers/podman-desktop-extension-ai-lab)
 * [2024-05-08, 12:48:19](https://news.ycombinator.com/item?id=40297502) - [Pulley system composition – a systematic approach (2020)](https://www.kiipeilytuomas.fi/articles-in-english/pulley-system-composition-a-systematic-approach/)
 * [2024-05-08, 12:30:17](https://news.ycombinator.com/item?id=40297280) - [Zimtohrli: A New Psychoacoustic Perceptual Metric for Audio Compression](https://github.com/google/zimtohrli)
+* [2024-05-08, 12:04:02](https://news.ycombinator.com/item?id=40297043) - [Tracexec: TUI for tracing execve and pre-exec behavior](https://github.com/kxxt/tracexec)
 * [2024-05-08, 11:49:06](https://news.ycombinator.com/item?id=40296926) - [40 years later, a game for the ZX Spectrum will be again broadcast over FM radio](https://www.racunalniski-muzej.si/en/40-years-later-a-game-for-the-zx-spectrum-will-be-once-again-broadcast-over-fm-radio/)
 * [2024-05-08, 11:27:23](https://news.ycombinator.com/item?id=40296744) - [Who Wants to Be a Thousandaire? (2011)](https://www.damninteresting.com/who-wants-to-be-a-thousandaire/)
 * [2024-05-08, 10:42:02](https://news.ycombinator.com/item?id=40296429) - [Ointers: A library for representing pointers where bits have been stolen (2021)](https://github.com/irrustible/ointers)
@@ -25,11 +25,11 @@
 * [2024-05-07, 09:38:21](https://news.ycombinator.com/item?id=40283799) - [Defense Against AI-Guided Traffic Analysis (Daita)](https://mullvad.net/en/blog/introducing-defense-against-ai-guided-traffic-analysis-daita)
 * [2024-05-07, 07:09:41](https://news.ycombinator.com/item?id=40283148) - [A library to assist writing memory-unsafe code in \"pure\" Python](https://github.com/DavidBuchanan314/unsafe-python)
 * [2024-05-07, 06:24:59](https://news.ycombinator.com/item?id=40282923) - [Gradient descent visualization](https://github.com/lilipads/gradient_descent_viz)
-* [2024-05-07, 04:48:25](https://news.ycombinator.com/item?id=40282451) - [Mishaps in Redshift Temporary Tables](https://selectfromwhereand.com/posts/redshift_temp_tables/)
 * [2024-05-06, 20:02:18](https://news.ycombinator.com/item?id=40278874) - [Common Google XSS](https://matan-h.com/common-google-xss)
 * [2024-05-06, 15:59:11](https://news.ycombinator.com/item?id=40276112) - [Arena-based parsers](https://iliabylich.github.io/arena-based-parsers/)
 * [2024-05-06, 15:45:46](https://news.ycombinator.com/item?id=40275969) - [Show HN: Touvlo – Technical Interviewing for Hardware Engineers (By Humans)](https://touvlo.co)
 * [2024-05-06, 06:35:04](https://news.ycombinator.com/item?id=40271797) - [Pair Your Compilers at the ABI Café](https://faultlore.com/blah/abi-puns/)
+* [2024-05-05, 18:03:26](https://news.ycombinator.com/item?id=40266831) - [Coding interviews are stupid (ish)](https://darrenkopp.com/posts/2024/05/01/coding-interviews-are-stupid)
 
 ## [Archives](archives/index.md)
 
