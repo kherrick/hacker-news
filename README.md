@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-08, 06:47:20](https://news.ycombinator.com/item?id=40295072) - [Creating AI-Enhanced Document Management with the GenAI Stack](https://www.docker.com/blog/creating-ai-enhanced-document-management-with-the-genai-stack/)
+* [2024-05-08, 06:27:59](https://news.ycombinator.com/item?id=40294957) - [Fly.io Infra log: week-by-week record of what the team does](https://fly.io/infra-log/)
 * [2024-05-08, 05:28:43](https://news.ycombinator.com/item?id=40294650) - [XLSTM: Extended Long Short-Term Memory](https://arxiv.org/abs/2405.04517)
 * [2024-05-08, 05:25:04](https://news.ycombinator.com/item?id=40294630) - [U.S. Rules Apple Illegally Interrogated Staff and Confiscated Union Flyers](https://www.forbes.com/sites/antoniopequenoiv/2024/05/06/us-labor-board-rules-apple-illegally-interrogated-staff-and-confiscated-union-flyers/)
 * [2024-05-08, 05:12:58](https://news.ycombinator.com/item?id=40294555) - [The C++ Iceberg](https://fouronnes.github.io/cppiceberg/)
 * [2024-05-08, 03:09:29](https://news.ycombinator.com/item?id=40293974) - [Show HN: Serverless collaborative notion-level note editor using CRDT in GO](https://github.com/notebox/nbfm)
 * [2024-05-08, 03:02:22](https://news.ycombinator.com/item?id=40293943) - [Why use ECC? (2015)](https://danluu.com/why-ecc/)
-* [2024-05-08, 01:55:53](https://news.ycombinator.com/item?id=40293614) - [US Revokes Intel, Qualcomm Licenses to Sell Chips to Huawei](https://www.bloomberg.com/news/articles/2024-05-07/us-revokes-intel-qualcomm-licenses-to-sell-chips-to-huawei)
 * [2024-05-08, 01:38:49](https://news.ycombinator.com/item?id=40293505) - [Needle: A DFA Based Regex Library That Compiles to JVM ByteCode](https://justinblank.com/experiments/needle.html)
 * [2024-05-07, 22:15:05](https://news.ycombinator.com/item?id=40292181) - [Decker: A reincarnation of HyperCard with 1-bit graphics](https://www.beyondloom.com/decker/index.html)
 * [2024-05-07, 21:16:36](https://news.ycombinator.com/item?id=40291598) - [IBM Granite: A Family of Open Foundation Models for Code Intelligence](https://github.com/ibm-granite/granite-code-models)
@@ -27,7 +28,6 @@
 * [2024-05-07, 05:27:38](https://news.ycombinator.com/item?id=40282641) - [The Antisocial Network: How the 90s Internet Died Like Diaryland (2014)](https://www.vice.com/en/article/jp5vdg/the-antisocial-network-how-the-90s-internet-died-like-diaryland)
 * [2024-05-06, 20:02:18](https://news.ycombinator.com/item?id=40278874) - [Common Google XSS](https://matan-h.com/common-google-xss)
 * [2024-05-06, 15:59:11](https://news.ycombinator.com/item?id=40276112) - [Arena-based parsers](https://iliabylich.github.io/arena-based-parsers/)
-* [2024-05-06, 10:50:19](https://news.ycombinator.com/item?id=40273177) - [Ask HN: Interesting TUIs (text user interfaces), maybe forgotten ones?](https://news.ycombinator.com/item?id=40273177)
 * [2024-05-06, 10:42:03](https://news.ycombinator.com/item?id=40273121) - [Conical Slicing: A different angle of 3D printing](https://www.cnckitchen.com/blog/conical-slicing-a-different-angle-of-3d-printing)
 * [2024-05-05, 18:03:26](https://news.ycombinator.com/item?id=40266831) - [Coding interviews are stupid (ish)](https://darrenkopp.com/posts/2024/05/01/coding-interviews-are-stupid)
 
