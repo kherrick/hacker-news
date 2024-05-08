@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-08](index.md)
 
+* [2024-05-08, 16:33:23](https://news.ycombinator.com/item?id=40300023) - [Steve Albini, Storied Producer and Icon of the Rock Underground, Dies at 61](https://pitchfork.com/news/steve-albini-storied-producer-and-icon-of-the-rock-underground-dies-at-61/)
 * [2024-05-08, 16:24:00](https://news.ycombinator.com/item?id=40299899) - [AstraZeneca to Withdraw Covid-19 Vaccine Worldwide Amid Concerns over TTS Risk](https://www.tftc.io/astrazeneca-withdraws-covid-vaccine-vaxzevria-global-markets/)
 * [2024-05-08, 16:16:13](https://news.ycombinator.com/item?id=40299792) - [Tech firms must tame toxic algorithms to protect children online](https://www.ofcom.org.uk/news-centre/2024/tech-firms-must-tame-toxic-algorithms-to-protect-children-online)
 * [2024-05-08, 16:10:33](https://news.ycombinator.com/item?id=40299721) - [Half of Google's white-collar staff 'does no real work,' Silicon Valley VC says](https://qz.com/google-white-collar-staff-andreessen-horowitz-1851460910)

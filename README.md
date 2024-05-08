@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-08, 16:24:00](https://news.ycombinator.com/item?id=40299899) - [AstraZeneca to Withdraw Covid-19 Vaccine Worldwide Amid Concerns over TTS Risk](https://www.tftc.io/astrazeneca-withdraws-covid-vaccine-vaxzevria-global-markets/)
+* [2024-05-08, 16:33:23](https://news.ycombinator.com/item?id=40300023) - [Steve Albini, Storied Producer and Icon of the Rock Underground, Dies at 61](https://pitchfork.com/news/steve-albini-storied-producer-and-icon-of-the-rock-underground-dies-at-61/)
 * [2024-05-08, 16:16:13](https://news.ycombinator.com/item?id=40299792) - [Tech firms must tame toxic algorithms to protect children online](https://www.ofcom.org.uk/news-centre/2024/tech-firms-must-tame-toxic-algorithms-to-protect-children-online)
-* [2024-05-08, 16:10:33](https://news.ycombinator.com/item?id=40299721) - [Half of Google's white-collar staff 'does no real work,' Silicon Valley VC says](https://qz.com/google-white-collar-staff-andreessen-horowitz-1851460910)
 * [2024-05-08, 15:33:37](https://news.ycombinator.com/item?id=40299271) - [New capacitor with 19-times energy density](https://www.livescience.com/technology/electronics/ev-batteries-could-last-much-longer-thanks-to-new-capacitor-with-19-times-power-density-that-scientists-created-by-mistake)
 * [2024-05-08, 15:33:16](https://news.ycombinator.com/item?id=40299267) - [U.S. libraries are battling high prices for better e-book access](https://www.axios.com/2024/05/06/library-librarians-e-books-license-policies)
 * [2024-05-08, 15:19:40](https://news.ycombinator.com/item?id=40299091) - [Show HN: I made a better Perplexity for developers](https://devv.ai)
@@ -17,6 +16,7 @@
 * [2024-05-08, 11:27:23](https://news.ycombinator.com/item?id=40296744) - [Who Wants to Be a Thousandaire? (2011)](https://www.damninteresting.com/who-wants-to-be-a-thousandaire/)
 * [2024-05-08, 10:42:02](https://news.ycombinator.com/item?id=40296429) - [Ointers: A library for representing pointers where bits have been stolen (2021)](https://github.com/irrustible/ointers)
 * [2024-05-08, 05:28:43](https://news.ycombinator.com/item?id=40294650) - [XLSTM: Extended Long Short-Term Memory](https://arxiv.org/abs/2405.04517)
+* [2024-05-07, 21:16:36](https://news.ycombinator.com/item?id=40291598) - [IBM Granite: A Family of Open Foundation Models for Code Intelligence](https://github.com/ibm-granite/granite-code-models)
 * [2024-05-07, 15:36:05](https://news.ycombinator.com/item?id=40287020) - [Road resurfacing during the daytime without stopping traffic [video]](https://www.youtube.com/watch?v=ymyIEGRw4-U)
 * [2024-05-07, 12:01:46](https://news.ycombinator.com/item?id=40284495) - [Homemade liquid nitrogen generator Joule Thomson throttle (2013)](http://homemadeliquidnitrogen.com/)
 * [2024-05-07, 11:09:23](https://news.ycombinator.com/item?id=40284225) - [The Birth of Parquet](https://sympathetic.ink/2024/01/24/Chapter-1-The-birth-of-Parquet.html)
