@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=40293368"
     ],
     [
-      "Bluesky Product Roadmap",
+      "Product Roadmap",
       "https://bsky.social/about/blog/05-07-2024-product-roadmap"
     ]
   ],
@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2024-05-07, 13:32:50",
-      "https://news.ycombinator.com/item?id=40285244"
-    ],
-    [
-      "Show HN: Visual debugger for Rails system tests",
-      "https://github.com/stepful/cyperful"
-    ]
-  ],
-  [
-    [
       "2024-05-07, 13:29:49",
       "https://news.ycombinator.com/item?id=40285211"
     ],
@@ -217,6 +207,16 @@
     [
       "Thorn in a HaizeStack test for evaluating long-context adversarial robustness",
       "https://github.com/haizelabs/thorn-in-haizestack"
+    ]
+  ],
+  [
+    [
+      "2024-05-06, 15:59:11",
+      "https://news.ycombinator.com/item?id=40276112"
+    ],
+    [
+      "Arena-based parsers",
+      "https://iliabylich.github.io/arena-based-parsers/"
     ]
   ],
   [
