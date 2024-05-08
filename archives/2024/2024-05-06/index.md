@@ -90,6 +90,7 @@
 * [2024-05-06, 07:39:52](https://news.ycombinator.com/item?id=40272186) - [A Useful Productivity Measure for Software Engineering?](https://www.jamesshore.com/v2/blog/2024/a-useful-productivity-measure)
 * [2024-05-06, 07:17:59](https://news.ycombinator.com/item?id=40272045) - [LeRobot: Machine Learning for Real-World Robotics in PyTorch](https://github.com/huggingface/lerobot)
 * [2024-05-06, 06:36:53](https://news.ycombinator.com/item?id=40271808) - [A collection of compiler optimizations with brief descriptions and examples](https://compileroptimizations.com/index.html)
+* [2024-05-06, 06:35:04](https://news.ycombinator.com/item?id=40271797) - [Pair Your Compilers at the ABI Café](https://faultlore.com/blah/abi-puns/)
 * [2024-05-06, 06:21:41](https://news.ycombinator.com/item?id=40271706) - [Show HN: Supertone Shift – AI powered Real-time voice changer](https://product.supertone.ai/shift)
 * [2024-05-06, 05:55:06](https://news.ycombinator.com/item?id=40271548) - [Testing a new version of Stack Overflow Jobs](https://meta.stackexchange.com/questions/399440/testing-a-new-version-of-stack-overflow-jobs)
 * [2024-05-06, 05:40:02](https://news.ycombinator.com/item?id=40271457) - [How LLMs Work, Explained Without Math – Miguel Grinberg](https://blog.miguelgrinberg.com/post/how-llms-work-explained-without-math)

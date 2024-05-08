@@ -5,8 +5,12 @@
 ### [Archives](../../index.md) for [2024-05-08](index.md)
 
 * [2024-05-08, 13:50:26](https://news.ycombinator.com/item?id=40298119) - [Odigos (YC W23) Is Hiring Lead DevRel Engineer](https://www.ycombinator.com/companies/keyval/jobs/MOo8djB-lead-devrel-engineer)
+* [2024-05-08, 13:34:34](https://news.ycombinator.com/item?id=40297946) - [TimesFM (Time Series Foundation Model) for time-series forecasting](https://github.com/google-research/timesfm)
 * [2024-05-08, 13:13:22](https://news.ycombinator.com/item?id=40297748) - ['Underwater bicycle' propels swimmers forward at superhuman speed](https://newatlas.com/marine/seabike-swimming-propeller/)
+* [2024-05-08, 12:57:03](https://news.ycombinator.com/item?id=40297592) - [Podman Desktop launches GUI for running local LLMs](https://github.com/containers/podman-desktop-extension-ai-lab)
 * [2024-05-08, 12:56:34](https://news.ycombinator.com/item?id=40297590) - [New Strategy Could Lead to Universal, Long-Lasting Flu Shot](https://today.duke.edu/2024/05/new-strategy-could-lead-universal-long-lasting-flu-shot)
+* [2024-05-08, 12:48:19](https://news.ycombinator.com/item?id=40297502) - [Pulley system composition – a systematic approach (2020)](https://www.kiipeilytuomas.fi/articles-in-english/pulley-system-composition-a-systematic-approach/)
+* [2024-05-08, 12:30:17](https://news.ycombinator.com/item?id=40297280) - [Zimtohrli: A New Psychoacoustic Perceptual Metric for Audio Compression](https://github.com/google/zimtohrli)
 * [2024-05-08, 12:29:42](https://news.ycombinator.com/item?id=40297273) - [They Used Resume Spammers to Apply for 120 Jobs. Chaos Ensued](https://www.businessinsider.com/job-applications-hiring-ai-bots-spam-resume-cover-letter-2024-3)
 * [2024-05-08, 12:02:50](https://news.ycombinator.com/item?id=40297027) - [StackOverflow is banning accounts that delete answers in protest against OpenAI](https://m.benui.ca/@ben/112396505994216742)
 * [2024-05-08, 11:49:06](https://news.ycombinator.com/item?id=40296926) - [40 years later, a game for the ZX Spectrum will be again broadcast over FM radio](https://www.racunalniski-muzej.si/en/40-years-later-a-game-for-the-zx-spectrum-will-be-once-again-broadcast-over-fm-radio/)
