@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-08, 01:38:49",
+      "https://news.ycombinator.com/item?id=40293505"
+    ],
+    [
+      "Needle: A DFA Based Regex Library That Compiles to JVM ByteCode",
+      "https://justinblank.com/experiments/needle.html"
+    ]
+  ],
+  [
+    [
       "2024-05-08, 01:14:14",
       "https://news.ycombinator.com/item?id=40293368"
     ],
@@ -137,16 +147,6 @@
     [
       "Apple introduces M4 chip",
       "https://www.apple.com/newsroom/2024/05/apple-introduces-m4-chip/"
-    ]
-  ],
-  [
-    [
-      "2024-05-07, 13:32:50",
-      "https://news.ycombinator.com/item?id=40285244"
-    ],
-    [
-      "Show HN: Visual debugger for Rails system tests",
-      "https://github.com/stepful/cyperful"
     ]
   ],
   [
