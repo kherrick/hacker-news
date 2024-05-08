@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-05-08, 15:07:10",
+      "https://news.ycombinator.com/item?id=40298927"
+    ],
+    [
+      "AlphaFold 3 predicts the structure and interactions of all of life's molecules",
+      "https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/"
+    ]
+  ],
+  [
+    [
+      "2024-05-08, 14:33:00",
+      "https://news.ycombinator.com/item?id=40298552"
+    ],
+    [
+      "A Canadian lobby group is promoting \"widespread adoption of age verification\"",
+      "https://www.michaelgeist.ca/2024/01/bill-s-210-is-just-the-beginning-how-a-canadian-digital-lobby-group-is-promoting-a-standard-to-foster-widespread-adoption-of-age-verification-technologies-in-canada/"
+    ]
+  ],
+  [
+    [
       "2024-05-08, 14:26:19",
       "https://news.ycombinator.com/item?id=40298486"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2024-05-08, 01:38:49",
-      "https://news.ycombinator.com/item?id=40293505"
-    ],
-    [
-      "Needle: A DFA Based Regex Library That Compiles to JVM ByteCode",
-      "https://justinblank.com/experiments/needle.html"
-    ]
-  ],
-  [
-    [
       "2024-05-07, 21:16:36",
       "https://news.ycombinator.com/item?id=40291598"
     ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2024-05-07, 18:06:29",
-      "https://news.ycombinator.com/item?id=40289323"
-    ],
-    [
-      "The Grateful Dead's Wall of Sound (2019)",
-      "https://audioacademy.in/the-grateful-deads-wall-of-sound/"
-    ]
-  ],
-  [
-    [
       "2024-05-07, 15:36:05",
       "https://news.ycombinator.com/item?id=40287020"
     ],
@@ -171,12 +171,12 @@
   ],
   [
     [
-      "2024-05-07, 14:37:32",
-      "https://news.ycombinator.com/item?id=40286029"
+      "2024-05-07, 12:01:46",
+      "https://news.ycombinator.com/item?id=40284495"
     ],
     [
-      "Apple introduces M4 chip",
-      "https://www.apple.com/newsroom/2024/05/apple-introduces-m4-chip/"
+      "Homemade liquid nitrogen generator Joule Thomson throttle (2013)",
+      "http://homemadeliquidnitrogen.com/"
     ]
   ],
   [
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2024-05-07, 07:09:41",
-      "https://news.ycombinator.com/item?id=40283148"
+      "2024-05-07, 07:57:44",
+      "https://news.ycombinator.com/item?id=40283364"
     ],
     [
-      "A library to assist writing memory-unsafe code in \"pure\" Python",
-      "https://github.com/DavidBuchanan314/unsafe-python"
+      "SteerMouse",
+      "https://plentycom.jp/en/steermouse/index.html"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2024-05-06, 15:59:11",
-      "https://news.ycombinator.com/item?id=40276112"
+      "2024-05-06, 19:18:08",
+      "https://news.ycombinator.com/item?id=40278439"
     ],
     [
-      "Arena-based parsers",
-      "https://iliabylich.github.io/arena-based-parsers/"
+      "The Clowder Project: an online resource for category theory and mathematics",
+      "https://www.clowderproject.com/"
     ]
   ],
   [
