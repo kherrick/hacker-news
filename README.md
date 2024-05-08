@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-08, 01:38:49](https://news.ycombinator.com/item?id=40293505) - [Needle: A DFA Based Regex Library That Compiles to JVM ByteCode](https://justinblank.com/experiments/needle.html)
-* [2024-05-08, 01:14:14](https://news.ycombinator.com/item?id=40293368) - [Product Roadmap](https://bsky.social/about/blog/05-07-2024-product-roadmap)
 * [2024-05-07, 22:52:07](https://news.ycombinator.com/item?id=40292452) - [Unix forking the universe by running IBM's free online quantum computer](https://parel.es/blog/quantum-dice)
 * [2024-05-07, 22:15:05](https://news.ycombinator.com/item?id=40292181) - [Decker: A fantastic reincarnation of HyperCard with 1-bit graphics](https://www.beyondloom.com/decker/index.html)
 * [2024-05-07, 22:01:12](https://news.ycombinator.com/item?id=40292047) - [Qt and C++ Trivial Relocation (Part 1)](https://www.kdab.com/qt-and-trivial-relocation-part-1/)
@@ -24,6 +23,7 @@
 * [2024-05-06, 23:46:49](https://news.ycombinator.com/item?id=40280760) - [A Rosetta Stone for Mathematics: André Weil's 1940 letter](https://www.quantamagazine.org/a-rosetta-stone-for-mathematics-20240506/)
 * [2024-05-06, 16:40:30](https://news.ycombinator.com/item?id=40276550) - [Thorn in a HaizeStack test for evaluating long-context adversarial robustness](https://github.com/haizelabs/thorn-in-haizestack)
 * [2024-05-06, 15:59:11](https://news.ycombinator.com/item?id=40276112) - [Arena-based parsers](https://iliabylich.github.io/arena-based-parsers/)
+* [2024-05-06, 12:43:42](https://news.ycombinator.com/item?id=40273968) - [Secure Randomness in Go 1.22](https://go.dev/blog/chacha8rand?hn=1)
 * [2024-05-06, 10:50:19](https://news.ycombinator.com/item?id=40273177) - [Ask HN: Interesting TUIs (text user interfaces), maybe forgotten ones?](https://news.ycombinator.com/item?id=40273177)
 * [2024-05-06, 10:42:03](https://news.ycombinator.com/item?id=40273121) - [Conical Slicing: A different angle of 3D printing](https://www.cnckitchen.com/blog/conical-slicing-a-different-angle-of-3d-printing)
 * [2024-05-06, 00:24:39](https://news.ycombinator.com/item?id=40269911) - [Array.shift Optimizations in Firefox's JavaScript Engine (2020)](https://lannonbr.com/blog/2020-01-27-shift-optimizations/)
