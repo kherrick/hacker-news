@@ -71,6 +71,7 @@
 * [2024-05-07, 06:24:59](https://news.ycombinator.com/item?id=40282923) - [Gradient descent visualization](https://github.com/lilipads/gradient_descent_viz)
 * [2024-05-07, 06:10:55](https://news.ycombinator.com/item?id=40282856) - [We've been put in the vibe space](https://vickiboykis.com/2024/05/06/weve-been-put-in-the-vibe-space/)
 * [2024-05-07, 05:27:38](https://news.ycombinator.com/item?id=40282641) - [The Antisocial Network: How the 90s Internet Died Like Diaryland (2014)](https://www.vice.com/en/article/jp5vdg/the-antisocial-network-how-the-90s-internet-died-like-diaryland)
+* [2024-05-07, 04:48:25](https://news.ycombinator.com/item?id=40282451) - [Mishaps in Redshift Temporary Tables](https://selectfromwhereand.com/posts/redshift_temp_tables/)
 * [2024-05-07, 04:19:13](https://news.ycombinator.com/item?id=40282290) - [Google begins enforcement of site reputation abuse policy](https://searchengineland.com/google-begins-enforcement-of-site-reputation-abuse-policy-with-portions-of-sites-being-delisted-440294)
 * [2024-05-07, 03:05:17](https://news.ycombinator.com/item?id=40281936) - [Spacecraft Takes Close Up Video of the Sun, Revealing Otherworldly Hellscape](https://futurism.com/the-byte/spacecraft-close-up-video-sun)
 * [2024-05-07, 02:11:20](https://news.ycombinator.com/item?id=40281588) - [Google, Meta 'break' Apple's device fingerprinting rules](https://www.theregister.com/2024/05/07/apple_fingerprinting_rules/)
