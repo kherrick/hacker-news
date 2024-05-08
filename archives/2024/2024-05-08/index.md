@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-08](index.md)
 
+* [2024-05-08, 15:07:10](https://news.ycombinator.com/item?id=40298927) - [AlphaFold 3 predicts the structure and interactions of all of life's molecules](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/)
 * [2024-05-08, 14:38:19](https://news.ycombinator.com/item?id=40298608) - [Signal's Katherine Maher Problem](https://www.city-journal.org/article/signals-katherine-maher-problem)
 * [2024-05-08, 14:33:00](https://news.ycombinator.com/item?id=40298552) - [Canada's Bill S-210: The Push for Widespread Age Verification](https://www.michaelgeist.ca/2024/01/bill-s-210-is-just-the-beginning-how-a-canadian-digital-lobby-group-is-promoting-a-standard-to-foster-widespread-adoption-of-age-verification-technologies-in-canada/)
 * [2024-05-08, 14:26:19](https://news.ycombinator.com/item?id=40298486) - [Tesla is being investigated for securities and wire fraud for self-driving claim](https://www.theverge.com/2024/5/8/24151881/tesla-justice-investigation-securities-wire-fraud-self-driving)
