@@ -103,6 +103,7 @@
 * [2024-05-06, 04:55:14](https://news.ycombinator.com/item?id=40271242) - [Lix is a modern, delicious implementation of the Nix package manager](https://lix.systems/)
 * [2024-05-06, 04:52:21](https://news.ycombinator.com/item?id=40271232) - [Ask HN: How do you switch between multiple programming languages while coding?](https://news.ycombinator.com/item?id=40271232)
 * [2024-05-06, 04:18:59](https://news.ycombinator.com/item?id=40271104) - [Helldivers 2 PSN account linking update will not be moving forward](https://twitter.com/PlayStation/status/1787331667616829929)
+* [2024-05-06, 04:02:40](https://news.ycombinator.com/item?id=40271043) - [Toddler Proofing Systemd-Boot](https://wonky.computer/post/toddler-proofing-systemd-boot/)
 * [2024-05-06, 03:36:02](https://news.ycombinator.com/item?id=40270911) - [Show HN: CodeCopilot AI – Local Llama3,Optimize Your Dev Workflows,Happy Coding](https://codecopilotai.com)
 * [2024-05-06, 03:27:21](https://news.ycombinator.com/item?id=40270872) - [Increased productivity with a self hosted CRM](https://growcrm.io/)
 * [2024-05-06, 02:27:06](https://news.ycombinator.com/item?id=40270586) - [Remnants of a Legendary Typeface Have Been Rescued from the River Thames](https://news.artnet.com/art-world/doves-typeface-2454807)
