@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-09](index.md)
 
+* [2024-05-09, 16:24:38](https://news.ycombinator.com/item?id=40309840) - [Familial Transmission of Personality Is Higher Than Shown in Typical Studies](https://osf.io/preprints/psyarxiv/7ygp6)
 * [2024-05-09, 16:20:15](https://news.ycombinator.com/item?id=40309786) - [High prices are not the main cause of low fertility rates in cities](https://twitter.com/MoreBirths/status/1787926538538680514)
 * [2024-05-09, 16:06:14](https://news.ycombinator.com/item?id=40309618) - [Behind the Ivy Intifada](https://www.compactmag.com/article/behind-the-ivy-intifada/)
 * [2024-05-09, 16:05:01](https://news.ycombinator.com/item?id=40309597) - [Neuralink's First Human Brain-Chip Implant Appeared Flawless,There Was a Problem](https://www.wsj.com/tech/neuralinks-first-brain-chip-implant-in-a-human-appeared-flawless-there-was-a-problem-637f1adc)

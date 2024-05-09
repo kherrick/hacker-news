@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-09, 16:24:38](https://news.ycombinator.com/item?id=40309840) - [Familial Transmission of Personality Is Higher Than Shown in Typical Studies](https://osf.io/preprints/psyarxiv/7ygp6)
 * [2024-05-09, 16:20:15](https://news.ycombinator.com/item?id=40309786) - [High prices are not the main cause of low fertility rates in cities](https://twitter.com/MoreBirths/status/1787926538538680514)
-* [2024-05-09, 16:06:14](https://news.ycombinator.com/item?id=40309618) - [Behind the Ivy Intifada](https://www.compactmag.com/article/behind-the-ivy-intifada/)
 * [2024-05-09, 16:01:44](https://news.ycombinator.com/item?id=40309558) - [AI comes for YouTube's thumbnail industry](https://restofworld.org/2023/youtube-thumbnail-ai/)
 * [2024-05-09, 15:49:47](https://news.ycombinator.com/item?id=40309448) - [Show HN: An open source alternative to some of Slack AI's premium features](https://github.com/meetbryce/open-source-slack-ai)
 * [2024-05-09, 15:38:48](https://news.ycombinator.com/item?id=40309342) - [Launch HN: Muddy (YC S19) – Multiplayer browser for getting work done](https://news.ycombinator.com/item?id=40309342)
