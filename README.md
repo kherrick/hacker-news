@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-09, 19:22:25](https://news.ycombinator.com/item?id=40311982) - [NASA's Proposed Plasma Rocket Would Get Us to Mars in 2 Months](https://gizmodo.com/nasa-pulsed-plasma-rocket-advanced-concept-mars-1851463831)
-* [2024-05-09, 19:06:18](https://news.ycombinator.com/item?id=40311823) - [Palantir Supplies Israel with New Tools Since Hamas War Started](https://www.bloomberg.com/news/articles/2024-01-10/palantir-supplying-israel-with-new-tools-since-hamas-war-started)
 * [2024-05-09, 18:11:46](https://news.ycombinator.com/item?id=40311110) - [DNSecure – a configuration tool of DoT and DoH for iOS and iPadOS](https://github.com/kkebo/DNSecure)
 * [2024-05-09, 17:54:49](https://news.ycombinator.com/item?id=40310896) - [It's always TCP_NODELAY](https://brooker.co.za/blog/2024/05/09/nagle.html)
 * [2024-05-09, 17:00:54](https://news.ycombinator.com/item?id=40310278) - [Freshpaint (YC S19) is hiring software engineers to protect patient privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
@@ -23,6 +22,7 @@
 * [2024-05-09, 11:29:32](https://news.ycombinator.com/item?id=40307089) - [Show HN: Browser-based knitting (pattern) software](https://github.com/alefore/knit)
 * [2024-05-09, 09:08:06](https://news.ycombinator.com/item?id=40306463) - [Xilinx HBM2 Internals (2023)](https://lovehindpa.ws/posts/xilinx-hbm2/)
 * [2024-05-09, 08:40:27](https://news.ycombinator.com/item?id=40306352) - [UTC, Tai, and Unix Time (2001)](https://cr.yp.to/proto/utctai.html)
+* [2024-05-08, 23:14:28](https://news.ycombinator.com/item?id=40303661) - [Opening Windows in Linux with sockets, bare hands and 200 lines of C](https://hereket.com/posts/from-scratch-x11-windowing/)
 * [2024-05-08, 19:55:07](https://news.ycombinator.com/item?id=40302201) - [Consistency LLM: converting LLMs to parallel decoders accelerates inference 3.5x](https://hao-ai-lab.github.io/blogs/cllm/)
 * [2024-05-08, 15:07:10](https://news.ycombinator.com/item?id=40298927) - [AlphaFold 3 predicts the structure and interactions of life's molecules](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/)
 * [2024-05-08, 12:41:28](https://news.ycombinator.com/item?id=40297423) - [Symbolica Computer Algebra System](https://symbolica.io/)
