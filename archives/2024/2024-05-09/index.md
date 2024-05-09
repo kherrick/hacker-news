@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-09](index.md)
 
+* [2024-05-09, 09:05:31](https://news.ycombinator.com/item?id=40306449) - [Libyear](https://libyear.com/)
 * [2024-05-09, 07:00:03](https://news.ycombinator.com/item?id=40305947) - [CodeStory (YC S23) Is Hiring a Founding Engineer for Building AI-Native IDE](https://www.workatastartup.com/companies/codestory)
 * [2024-05-09, 06:04:49](https://news.ycombinator.com/item?id=40305692) - [Disaster Recovery with ZFS and Zrepl](https://chromakode.com/post/zfs-recovery-with-zrepl/)
 * [2024-05-09, 05:55:06](https://news.ycombinator.com/item?id=40305658) - [Match looks to Hinge as Tinder fails](https://techcrunch.com/2024/05/08/match-looks-to-hinge-as-tinder-fails-q1-2024/)

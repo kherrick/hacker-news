@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-09, 09:05:31](https://news.ycombinator.com/item?id=40306449) - [Libyear](https://libyear.com/)
 * [2024-05-09, 07:00:03](https://news.ycombinator.com/item?id=40305947) - [CodeStory (YC S23) Is Hiring a Founding Engineer for Building AI-Native IDE](https://www.workatastartup.com/companies/codestory)
 * [2024-05-09, 01:39:27](https://news.ycombinator.com/item?id=40304453) - [The Time I Lied to the CTO and Saved the Day](https://GrumpyOldDev.com/post/the-one-where-i-lie-to-the-cto/)
 * [2024-05-08, 23:14:28](https://news.ycombinator.com/item?id=40303661) - [Opening Windows in Linux with sockets, bare hands and 200 lines of C](https://hereket.com/posts/from-scratch-x11-windowing/)
@@ -29,7 +30,6 @@
 * [2024-05-06, 11:51:30](https://news.ycombinator.com/item?id=40273516) - [Radius Full Page Display](https://32by32.com/radius-full-page-display/)
 * [2024-05-06, 08:40:02](https://news.ycombinator.com/item?id=40272514) - [How to Use the Foreign Function API in Java 22 to Call C Libraries](https://ifesunmola.com/how-to-use-the-foreign-function-api-in-java-22-to-call-c-libraries/)
 * [2024-05-06, 08:09:38](https://news.ycombinator.com/item?id=40272339) - [Show HN: AI climbing coach – visualize how to climb any route based on your body](https://climbing.ai/)
-* [2024-05-06, 06:35:04](https://news.ycombinator.com/item?id=40271797) - [Pair Your Compilers at the ABI Café](https://faultlore.com/blah/abi-puns/)
 
 ## [Archives](archives/index.md)
 
