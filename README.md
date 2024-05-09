@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-09, 19:06:18](https://news.ycombinator.com/item?id=40311823) - [Palantir Supplies Israel with New Tools Since Hamas War Started](https://www.bloomberg.com/news/articles/2024-01-10/palantir-supplying-israel-with-new-tools-since-hamas-war-started)
+* [2024-05-09, 18:59:48](https://news.ycombinator.com/item?id=40311724) - [OpenAI destroyed a trove of books used to train AI models](https://www.businessinsider.com/openai-destroyed-ai-training-datasets-lawsuit-authors-books-copyright-2024-5)
 * [2024-05-09, 18:50:20](https://news.ycombinator.com/item?id=40311615) - [Evidence on the presence and history of assortative mating](https://www.nature.com/articles/s41467-024-46939-9)
 * [2024-05-09, 17:54:49](https://news.ycombinator.com/item?id=40310896) - [It's always TCP_NODELAY. Every damn time](https://brooker.co.za/blog/2024/05/09/nagle.html)
 * [2024-05-09, 17:00:54](https://news.ycombinator.com/item?id=40310278) - [Freshpaint (YC S19) is hiring software engineers to protect patient privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
@@ -11,7 +13,6 @@
 * [2024-05-09, 15:49:47](https://news.ycombinator.com/item?id=40309448) - [Show HN: An open source alternative to some of Slack AI's premium features](https://github.com/meetbryce/open-source-slack-ai)
 * [2024-05-09, 15:38:48](https://news.ycombinator.com/item?id=40309342) - [Launch HN: Muddy (YC S19) – Multiplayer browser for getting work done](https://news.ycombinator.com/item?id=40309342)
 * [2024-05-09, 14:56:43](https://news.ycombinator.com/item?id=40308884) - [A Brief History of the First Planetarium](https://spectrum.ieee.org/planetarium-history)
-* [2024-05-09, 13:53:06](https://news.ycombinator.com/item?id=40308261) - [Microsoft PlayReady – Complete Client Identity Compromise](https://seclists.org/fulldisclosure/2024/May/5)
 * [2024-05-09, 13:32:04](https://news.ycombinator.com/item?id=40308044) - [VideoPrism: A foundational visual encoder for video understanding](https://research.google/blog/videoprism-a-foundational-visual-encoder-for-video-understanding/)
 * [2024-05-09, 13:08:05](https://news.ycombinator.com/item?id=40307832) - [No \"Zero-Shot\" Without Exponential Data](https://arxiv.org/abs/2404.04125)
 * [2024-05-09, 12:31:04](https://news.ycombinator.com/item?id=40307519) - [Show HN: Exploring HN by mapping and analyzing 40M posts and comments for fun](https://blog.wilsonl.in/hackerverse/)
@@ -22,7 +23,6 @@
 * [2024-05-09, 11:29:32](https://news.ycombinator.com/item?id=40307089) - [Show HN: Browser-based knitting (pattern) software](https://github.com/alefore/knit)
 * [2024-05-09, 09:08:06](https://news.ycombinator.com/item?id=40306463) - [Xilinx HBM2 Internals (2023)](https://lovehindpa.ws/posts/xilinx-hbm2/)
 * [2024-05-09, 08:40:27](https://news.ycombinator.com/item?id=40306352) - [UTC, Tai, and Unix Time (2001)](https://cr.yp.to/proto/utctai.html)
-* [2024-05-08, 23:14:28](https://news.ycombinator.com/item?id=40303661) - [Opening Windows in Linux with sockets, bare hands and 200 lines of C](https://hereket.com/posts/from-scratch-x11-windowing/)
 * [2024-05-08, 19:55:07](https://news.ycombinator.com/item?id=40302201) - [Consistency LLM: converting LLMs to parallel decoders accelerates inference 3.5x](https://hao-ai-lab.github.io/blogs/cllm/)
 * [2024-05-08, 15:07:10](https://news.ycombinator.com/item?id=40298927) - [AlphaFold 3 predicts the structure and interactions of life's molecules](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/)
 * [2024-05-08, 12:41:28](https://news.ycombinator.com/item?id=40297423) - [Symbolica Computer Algebra System](https://symbolica.io/)
