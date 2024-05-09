@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-05-09](index.md)
 
+* [2024-05-09, 16:20:15](https://news.ycombinator.com/item?id=40309786) - [High prices are not the main cause of low fertility rates in cities](https://twitter.com/MoreBirths/status/1787926538538680514)
+* [2024-05-09, 16:06:14](https://news.ycombinator.com/item?id=40309618) - [Behind the Ivy Intifada](https://www.compactmag.com/article/behind-the-ivy-intifada/)
 * [2024-05-09, 16:05:01](https://news.ycombinator.com/item?id=40309597) - [Neuralink's First Human Brain-Chip Implant Appeared Flawless,There Was a Problem](https://www.wsj.com/tech/neuralinks-first-brain-chip-implant-in-a-human-appeared-flawless-there-was-a-problem-637f1adc)
 * [2024-05-09, 16:04:37](https://news.ycombinator.com/item?id=40309594) - [The new REPL in Python 3.13](https://treyhunner.com/2024/05/my-favorite-python-3-dot-13-feature/)
+* [2024-05-09, 16:01:44](https://news.ycombinator.com/item?id=40309558) - [AI comes for YouTube's thumbnail industry](https://restofworld.org/2023/youtube-thumbnail-ai/)
 * [2024-05-09, 15:49:47](https://news.ycombinator.com/item?id=40309448) - [Show HN: An open source alternative to some of Slack AI's premium features](https://github.com/meetbryce/open-source-slack-ai)
 * [2024-05-09, 15:38:48](https://news.ycombinator.com/item?id=40309342) - [Launch HN: Muddy (YC S19) – Multiplayer browser for getting work done](https://news.ycombinator.com/item?id=40309342)
 * [2024-05-09, 15:30:11](https://news.ycombinator.com/item?id=40309247) - [Children 'piled up and shot': new details emerge of ethnic cleansing in Darfur](https://www.theguardian.com/world/article/2024/may/09/darfur-atrocities-ethnic-cleansing-human-rights-watch-report-rsf-sudan)
