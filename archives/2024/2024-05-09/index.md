@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-09](index.md)
 
+* [2024-05-09, 17:54:36](https://news.ycombinator.com/item?id=40310893) - [Dear Tim Cook: Be a Decent Human Being and Delete This Revolting Apple Ad](https://www.rogerebert.com/mzs/dear-tim-cook-be-a-decent-human-being-and-delete-this-horrible-violent-depressing-ad-for-your-product)
 * [2024-05-09, 17:09:02](https://news.ycombinator.com/item?id=40310358) - [The Woman Who Showed President Biden ChatGPT](https://www.wired.com/story/arati-prabhakar-ostp-biden-science-tech-adviser/)
 * [2024-05-09, 17:00:54](https://news.ycombinator.com/item?id=40310278) - [Freshpaint (YC S19) is hiring software engineers to protect patient privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 * [2024-05-09, 16:59:30](https://news.ycombinator.com/item?id=40310257) - [Andrew Huberman's Claims About Cannabis Annoy Drug Experts](https://www.rollingstone.com/culture/culture-features/andrew-huberman-cannabis-misinformation-slammed-by-experts-1235016613/)

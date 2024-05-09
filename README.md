@@ -1,11 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-09, 17:54:36](https://news.ycombinator.com/item?id=40310893) - [Dear Tim Cook: Be a Decent Human Being and Delete This Revolting Apple Ad](https://www.rogerebert.com/mzs/dear-tim-cook-be-a-decent-human-being-and-delete-this-horrible-violent-depressing-ad-for-your-product)
 * [2024-05-09, 17:09:02](https://news.ycombinator.com/item?id=40310358) - [The Woman Who Showed President Biden ChatGPT](https://www.wired.com/story/arati-prabhakar-ostp-biden-science-tech-adviser/)
 * [2024-05-09, 17:00:54](https://news.ycombinator.com/item?id=40310278) - [Freshpaint (YC S19) is hiring software engineers to protect patient privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
-* [2024-05-09, 16:59:30](https://news.ycombinator.com/item?id=40310257) - [Andrew Huberman's Claims About Cannabis Annoy Drug Experts](https://www.rollingstone.com/culture/culture-features/andrew-huberman-cannabis-misinformation-slammed-by-experts-1235016613/)
 * [2024-05-09, 16:56:55](https://news.ycombinator.com/item?id=40310228) - [Leaked Deck Reveals How OpenAI Is Pitching Publisher Partnerships](https://www.adweek.com/media/openai-preferred-publisher-program-deck/)
 * [2024-05-09, 16:56:41](https://news.ycombinator.com/item?id=40310226) - [Buckets of Parquet Files Are Awful](https://scratchdata.com/blog/bucketful-of-parquet/)
-* [2024-05-09, 16:52:27](https://news.ycombinator.com/item?id=40310170) - [Tesla Quietly Removes All U.S. Job Postings](https://gizmodo.com/tesla-hiring-freeze-job-postings-elon-musk-layoffs-1851464758)
 * [2024-05-09, 16:34:17](https://news.ycombinator.com/item?id=40309957) - [Leaked FBI Email Reportedly Shows Desperation to Justify Warrantless Wiretaps](https://gizmodo.com/leaked-fbi-email-warrantless-wiretaps-section-702-1851464520)
 * [2024-05-09, 16:24:38](https://news.ycombinator.com/item?id=40309840) - [Familial Transmission of Personality Is Higher Than Shown in Typical Studies](https://osf.io/preprints/psyarxiv/7ygp6)
 * [2024-05-09, 16:19:32](https://news.ycombinator.com/item?id=40309780) - [Shane Legg: Machine Super Intelligence [pdf]](https://www.vetta.org/documents/Machine_Super_Intelligence.pdf)
@@ -29,6 +28,7 @@
 * [2024-05-08, 19:55:07](https://news.ycombinator.com/item?id=40302201) - [Consistency LLM: converting LLMs to parallel decoders accelerates inference 3.5x](https://hao-ai-lab.github.io/blogs/cllm/)
 * [2024-05-08, 15:07:10](https://news.ycombinator.com/item?id=40298927) - [AlphaFold 3 predicts the structure and interactions of life's molecules](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/)
 * [2024-05-08, 11:25:49](https://news.ycombinator.com/item?id=40296734) - [Logarithmic Scales](https://briefer.cloud/blog/posts/logarithms/)
+* [2024-05-07, 15:56:41](https://news.ycombinator.com/item?id=40287341) - [Temporal Python – A durable, distributed asyncio event loop (2023)](https://temporal.io/blog/durable-distributed-asyncio-event-loop)
 * [2024-05-04, 23:06:24](https://news.ycombinator.com/item?id=40261023) - [Hymn for Walpurgisnacht](https://themillions.com/2024/04/hymn-for-walpurgisnacht.html)
 
 ## [Archives](archives/index.md)
