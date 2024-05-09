@@ -10,6 +10,7 @@
 * [2024-05-09, 13:28:24](https://news.ycombinator.com/item?id=40308009) - [Walkthrough of a Minimal Vision Transformer (ViT)](https://dmicz.github.io/machine-learning/minvit/)
 * [2024-05-09, 13:27:27](https://news.ycombinator.com/item?id=40307996) - [New AI Tools Predict How Life's Building Blocks Assemble](https://www.quantamagazine.org/new-ai-tools-predict-how-lifes-building-blocks-assemble-20240508/)
 * [2024-05-09, 13:15:41](https://news.ycombinator.com/item?id=40307902) - [New UUID formats have been approved](https://www.ietf.org/archive/id/draft-peabody-dispatch-new-uuid-format-01.html)
+* [2024-05-09, 13:00:18](https://news.ycombinator.com/item?id=40307769) - [Apple's M4 45% faster than M2, 25% faster than M3; Beats Snapdragon X Elite](https://wccftech.com/apple-m4-multi-score-faster-than-m3-and-m2/)
 * [2024-05-09, 12:31:04](https://news.ycombinator.com/item?id=40307519) - [Show HN: Exploring HN by mapping and analyzing 40M posts and comments for fun](https://blog.wilsonl.in/hackerverse/)
 * [2024-05-09, 12:23:52](https://news.ycombinator.com/item?id=40307468) - [FDA recalls defective iOS app that injured over 200 insulin pump users](https://www.theverge.com/2024/5/9/24152633/fda-recall-tandem-diabetes-care-insulin-pump-mobile-app)
 * [2024-05-09, 12:21:53](https://news.ycombinator.com/item?id=40307454) - [Show HN: An SQS Alternative on Postgres](https://github.com/tembo-io/pgmq)
