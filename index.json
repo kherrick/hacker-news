@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-09, 06:04:49",
+      "https://news.ycombinator.com/item?id=40305692"
+    ],
+    [
+      "Disaster Recovery with ZFS and Zrepl",
+      "https://chromakode.com/post/zfs-recovery-with-zrepl/"
+    ]
+  ],
+  [
+    [
       "2024-05-09, 03:27:12",
       "https://news.ycombinator.com/item?id=40305033"
     ],
@@ -197,16 +207,6 @@
     [
       "Show HN: Tegon: AI-first open source alternative to Jira and Linear",
       "https://github.com/tegonhq/tegon"
-    ]
-  ],
-  [
-    [
-      "2024-05-07, 19:08:11",
-      "https://news.ycombinator.com/item?id=40290171"
-    ],
-    [
-      "Temporal Fuzzing I: Memory Models (2021)",
-      "https://www.reitzen.com/post/temporal-fuzzing-01/"
     ]
   ],
   [
