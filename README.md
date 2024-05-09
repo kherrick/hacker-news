@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-09, 02:10:00](https://news.ycombinator.com/item?id=40304601) - [A look inside illegal drone deliveries at B.C.'s prisons](https://www.vancouverisawesome.com/highlights/watch-a-look-inside-illegal-drone-deliveries-at-bcs-prisons-8706734)
+* [2024-05-09, 01:59:39](https://news.ycombinator.com/item?id=40304549) - [How Ahrefs Gets a Billion Dollar-Worth Infrastructure with a 90% Discount](https://tech.ahrefs.com/how-ahrefs-gets-a-billion-dollar-worth-infrastructure-with-a-90-discount-5edd473b2399)
 * [2024-05-09, 01:39:27](https://news.ycombinator.com/item?id=40304453) - [The Time I Lied to the CTO and Saved the Day](https://GrumpyOldDev.com/post/the-one-where-i-lie-to-the-cto/)
 * [2024-05-08, 23:14:28](https://news.ycombinator.com/item?id=40303661) - [Opening Windows in Linux with sockets, bare hands and 200 lines of C](https://hereket.com/posts/from-scratch-x11-windowing/)
 * [2024-05-08, 22:22:22](https://news.ycombinator.com/item?id=40303338) - [Securing Git Repositories with Gittuf](https://lwn.net/SubscriberLink/972467/595a68b99f57a87d/)
@@ -20,7 +21,6 @@
 * [2024-05-08, 12:48:19](https://news.ycombinator.com/item?id=40297502) - [Pulley system composition – a systematic approach (2020)](https://www.kiipeilytuomas.fi/articles-in-english/pulley-system-composition-a-systematic-approach/)
 * [2024-05-08, 12:30:17](https://news.ycombinator.com/item?id=40297280) - [Zimtohrli: A New Psychoacoustic Perceptual Metric for Audio Compression](https://github.com/google/zimtohrli)
 * [2024-05-07, 19:08:11](https://news.ycombinator.com/item?id=40290171) - [Temporal Fuzzing I: Memory Models (2021)](https://www.reitzen.com/post/temporal-fuzzing-01/)
-* [2024-05-07, 14:37:32](https://news.ycombinator.com/item?id=40286029) - [Apple introduces M4 chip](https://www.apple.com/newsroom/2024/05/apple-introduces-m4-chip/)
 * [2024-05-07, 10:10:33](https://news.ycombinator.com/item?id=40283954) - [Industrial Design Student Work: \"How Long Should Objects Last?\"](https://www.core77.com/posts/132088/Fantastic-Industrial-Design-Student-Work-How-Long-Should-Objects-Last)
 * [2024-05-07, 09:31:44](https://news.ycombinator.com/item?id=40283752) - [Using AirPods as a Morse Transmitter](https://github.com/EtherDream/headphone-morse-transmitter)
 * [2024-05-07, 05:40:42](https://news.ycombinator.com/item?id=40282706) - [Japanese Trade Publications Helped Japan Form a New Graphic Identity (2023)](https://www.collectorsweekly.com/articles/how-a-rare-set-of-japanese-trade-publications-helped-japan-form-a-new-graphic-identity/)
