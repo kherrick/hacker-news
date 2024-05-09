@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-09, 22:43:02](https://news.ycombinator.com/item?id=40313690) - [No Country Should Be Making Speech Rules for the World](https://www.eff.org/deeplinks/2024/05/no-country-should-be-making-speech-rules-world)
 * [2024-05-09, 21:36:06](https://news.ycombinator.com/item?id=40313193) - [Cubic millimetre of brain mapped in spectacular detail](https://www.nature.com/articles/d41586-024-01387-9)
 * [2024-05-09, 21:28:43](https://news.ycombinator.com/item?id=40313143) - [Sioyek is a PDF viewer with a focus on textbooks and research papers](https://github.com/ahrm/sioyek)
 * [2024-05-09, 20:58:45](https://news.ycombinator.com/item?id=40312895) - [Protobuf Editions are here: don't panic](https://buf.build/blog/protobuf-editions-are-here)
 * [2024-05-09, 20:14:39](https://news.ycombinator.com/item?id=40312500) - [Being Green: A new book marvels at the strangeness of plants](https://slate.com/culture/2024/05/light-eaters-zoe-schlanger-book-plant-intelligence.html)
+* [2024-05-09, 20:11:21](https://news.ycombinator.com/item?id=40312469) - [How bad are satellite megaconstellations for astronomy?](https://www.leonarddavid.com/blinded-by-the-light-megaconstellation-clash-with-astronomical-peer-groups/)
 * [2024-05-09, 20:07:30](https://news.ycombinator.com/item?id=40312434) - [The history of 'OK' (2023)](https://people.howstuffworks.com/history-ok.htm)
-* [2024-05-09, 19:22:25](https://news.ycombinator.com/item?id=40311982) - [NASA's Proposed Plasma Rocket Would Get Us to Mars in 2 Months](https://gizmodo.com/nasa-pulsed-plasma-rocket-advanced-concept-mars-1851463831)
 * [2024-05-09, 18:11:46](https://news.ycombinator.com/item?id=40311110) - [DNSecure – a configuration tool of DoT and DoH for iOS and iPadOS](https://github.com/kkebo/DNSecure)
 * [2024-05-09, 17:54:49](https://news.ycombinator.com/item?id=40310896) - [It's always TCP_NODELAY](https://brooker.co.za/blog/2024/05/09/nagle.html)
 * [2024-05-09, 17:00:54](https://news.ycombinator.com/item?id=40310278) - [Freshpaint (YC S19) is hiring software engineers to protect patient privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
@@ -27,7 +28,6 @@
 * [2024-05-08, 19:55:07](https://news.ycombinator.com/item?id=40302201) - [Consistency LLM: converting LLMs to parallel decoders accelerates inference 3.5x](https://hao-ai-lab.github.io/blogs/cllm/)
 * [2024-05-08, 12:41:28](https://news.ycombinator.com/item?id=40297423) - [Symbolica Computer Algebra System](https://symbolica.io/)
 * [2024-05-08, 11:25:49](https://news.ycombinator.com/item?id=40296734) - [Logarithmic Scales](https://briefer.cloud/blog/posts/logarithms/)
-* [2024-05-08, 01:22:21](https://news.ycombinator.com/item?id=40293403) - [Putting a Wet Towel on a Tesla Supercharger Handle Gets Faster Charging Speeds](https://insideevs.com/news/718718/tesla-supercharger-wet-towel-improve-charging-speed/)
 * [2024-05-07, 15:56:41](https://news.ycombinator.com/item?id=40287341) - [Temporal Python – A durable, distributed asyncio event loop (2023)](https://temporal.io/blog/durable-distributed-asyncio-event-loop)
 * [2024-05-04, 23:06:24](https://news.ycombinator.com/item?id=40261023) - [Hymn for Walpurgisnacht](https://themillions.com/2024/04/hymn-for-walpurgisnacht.html)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-09](index.md)
 
+* [2024-05-09, 22:43:02](https://news.ycombinator.com/item?id=40313690) - [No Country Should Be Making Speech Rules for the World](https://www.eff.org/deeplinks/2024/05/no-country-should-be-making-speech-rules-world)
 * [2024-05-09, 21:36:06](https://news.ycombinator.com/item?id=40313193) - [Cubic millimetre of brain mapped in spectacular detail](https://www.nature.com/articles/d41586-024-01387-9)
 * [2024-05-09, 21:32:20](https://news.ycombinator.com/item?id=40313171) - [Google Cloud accidentally deletes customer's account](https://www.theregister.com/2024/05/09/unisuper_google_cloud_outage_caused/)
 * [2024-05-09, 21:28:43](https://news.ycombinator.com/item?id=40313143) - [Sioyek is a PDF viewer with a focus on textbooks and research papers](https://github.com/ahrm/sioyek)
