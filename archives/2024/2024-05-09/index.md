@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-09](index.md)
 
+* [2024-05-09, 21:36:06](https://news.ycombinator.com/item?id=40313193) - [Cubic millimetre of brain mapped in spectacular detail](https://www.nature.com/articles/d41586-024-01387-9)
+* [2024-05-09, 21:32:20](https://news.ycombinator.com/item?id=40313171) - [Google Cloud accidentally deletes customer's account](https://www.theregister.com/2024/05/09/unisuper_google_cloud_outage_caused/)
+* [2024-05-09, 21:28:43](https://news.ycombinator.com/item?id=40313143) - [Sioyek is a PDF viewer with a focus on textbooks and research papers](https://github.com/ahrm/sioyek)
 * [2024-05-09, 20:16:40](https://news.ycombinator.com/item?id=40312518) - [California's electricity rates will shift to a fixed fee based on income](https://calmatters.org/housing/2024/05/californians-electricity-rates/)
 * [2024-05-09, 20:11:21](https://news.ycombinator.com/item?id=40312469) - [How bad are satellite megaconstellations for astronomy?](https://www.leonarddavid.com/blinded-by-the-light-megaconstellation-clash-with-astronomical-peer-groups/)
 * [2024-05-09, 19:22:25](https://news.ycombinator.com/item?id=40311982) - [NASA's Proposed Plasma Rocket Would Get Us to Mars in 2 Months](https://gizmodo.com/nasa-pulsed-plasma-rocket-advanced-concept-mars-1851463831)
