@@ -2,8 +2,8 @@
 
 * [2024-05-09, 17:00:54](https://news.ycombinator.com/item?id=40310278) - [Freshpaint (YC S19) is hiring software engineers to protect patient privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 * [2024-05-09, 16:59:30](https://news.ycombinator.com/item?id=40310257) - [Andrew Huberman's Claims About Cannabis Annoy Drug Experts](https://www.rollingstone.com/culture/culture-features/andrew-huberman-cannabis-misinformation-slammed-by-experts-1235016613/)
-* [2024-05-09, 16:56:07](https://news.ycombinator.com/item?id=40310220) - [Hertz Charged Member $277 for Not Filling Gas Tank on a Tesla, Won't Remove Fees](https://viewfromthewing.com/hertz-charged-presidents-circle-member-277-for-not-filling-gas-tank-on-a-tesla-wont-remove-fees/)
 * [2024-05-09, 16:52:27](https://news.ycombinator.com/item?id=40310170) - [Tesla Quietly Removes All U.S. Job Postings](https://gizmodo.com/tesla-hiring-freeze-job-postings-elon-musk-layoffs-1851464758)
+* [2024-05-09, 16:45:50](https://news.ycombinator.com/item?id=40310098) - [Developing Palo Alto is worth $1T](https://www.bensouthwood.co.uk/p/developing-palo-alto-is-worth-1-trillion)
 * [2024-05-09, 16:34:17](https://news.ycombinator.com/item?id=40309957) - [Leaked FBI Email Reportedly Shows Desperation to Justify Warrantless Wiretaps](https://gizmodo.com/leaked-fbi-email-warrantless-wiretaps-section-702-1851464520)
 * [2024-05-09, 16:24:38](https://news.ycombinator.com/item?id=40309840) - [Familial Transmission of Personality Is Higher Than Shown in Typical Studies](https://osf.io/preprints/psyarxiv/7ygp6)
 * [2024-05-09, 16:17:14](https://news.ycombinator.com/item?id=40309759) - [ESP32 Drum Synth Machine](https://github.com/zircothc/DRUM_2004_V1)
@@ -14,7 +14,7 @@
 * [2024-05-09, 13:53:06](https://news.ycombinator.com/item?id=40308261) - [Microsoft PlayReady – Complete Client Identity Compromise](https://seclists.org/fulldisclosure/2024/May/5)
 * [2024-05-09, 13:32:04](https://news.ycombinator.com/item?id=40308044) - [VideoPrism: A foundational visual encoder for video understanding](https://research.google/blog/videoprism-a-foundational-visual-encoder-for-video-understanding/)
 * [2024-05-09, 13:08:05](https://news.ycombinator.com/item?id=40307832) - [No \"Zero-Shot\" Without Exponential Data](https://arxiv.org/abs/2404.04125)
-* [2024-05-09, 12:31:04](https://news.ycombinator.com/item?id=40307519) - [Exploring HN by mapping and analyzing 40M posts and comments for fun](https://blog.wilsonl.in/hackerverse/)
+* [2024-05-09, 12:31:04](https://news.ycombinator.com/item?id=40307519) - [Show HN: Exploring HN by mapping and analyzing 40M posts and comments for fun](https://blog.wilsonl.in/hackerverse/)
 * [2024-05-09, 12:21:53](https://news.ycombinator.com/item?id=40307454) - [Show HN: An SQS Alternative on Postgres](https://github.com/tembo-io/pgmq)
 * [2024-05-09, 12:02:17](https://news.ycombinator.com/item?id=40307301) - [Show HN: Timmerse.com (YC W22) Easily create immersive real-time interactions](https://timmerse.com/)
 * [2024-05-09, 11:38:14](https://news.ycombinator.com/item?id=40307138) - [Deaf girl is cured in world first gene therapy trial](https://www.independent.co.uk/news/health/deaf-cure-girl-gene-therapy-b2541735.html)

@@ -8,6 +8,7 @@
 * [2024-05-09, 16:59:30](https://news.ycombinator.com/item?id=40310257) - [Andrew Huberman's Claims About Cannabis Annoy Drug Experts](https://www.rollingstone.com/culture/culture-features/andrew-huberman-cannabis-misinformation-slammed-by-experts-1235016613/)
 * [2024-05-09, 16:56:07](https://news.ycombinator.com/item?id=40310220) - [Hertz Charged Member $277 for Not Filling Gas Tank on a Tesla, Won't Remove Fees](https://viewfromthewing.com/hertz-charged-presidents-circle-member-277-for-not-filling-gas-tank-on-a-tesla-wont-remove-fees/)
 * [2024-05-09, 16:52:27](https://news.ycombinator.com/item?id=40310170) - [Tesla Quietly Removes All U.S. Job Postings](https://gizmodo.com/tesla-hiring-freeze-job-postings-elon-musk-layoffs-1851464758)
+* [2024-05-09, 16:45:50](https://news.ycombinator.com/item?id=40310098) - [Developing Palo Alto is worth $1T](https://www.bensouthwood.co.uk/p/developing-palo-alto-is-worth-1-trillion)
 * [2024-05-09, 16:34:17](https://news.ycombinator.com/item?id=40309957) - [Leaked FBI Email Reportedly Shows Desperation to Justify Warrantless Wiretaps](https://gizmodo.com/leaked-fbi-email-warrantless-wiretaps-section-702-1851464520)
 * [2024-05-09, 16:24:38](https://news.ycombinator.com/item?id=40309840) - [Familial Transmission of Personality Is Higher Than Shown in Typical Studies](https://osf.io/preprints/psyarxiv/7ygp6)
 * [2024-05-09, 16:20:15](https://news.ycombinator.com/item?id=40309786) - [High prices are not the main cause of low fertility rates in cities](https://twitter.com/MoreBirths/status/1787926538538680514)
