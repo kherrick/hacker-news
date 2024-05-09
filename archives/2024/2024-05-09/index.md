@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-05-09](index.md)
 
+* [2024-05-09, 10:39:02](https://news.ycombinator.com/item?id=40306837) - [Tesla is under a federal wire fraud probe for misleading investors](https://arstechnica.com/cars/2024/05/teslas-self-driving-claims-subject-to-federal-securities-and-wire-fraud-probe/)
+* [2024-05-09, 09:36:05](https://news.ycombinator.com/item?id=40306576) - [For You, but Forever Alone: How TikTok's Algorithm Fuels Loneliness](https://arnabg.substack.com/p/the-loneliness-epidemic)
 * [2024-05-09, 09:15:28](https://news.ycombinator.com/item?id=40306490) - [In software architecture you have to recognize when you're adding a rocket stage](https://toot.cat/@plexus/112403882840794498)
+* [2024-05-09, 09:08:06](https://news.ycombinator.com/item?id=40306463) - [Xilinx HBM2 Internals](https://lovehindpa.ws/posts/xilinx-hbm2/)
 * [2024-05-09, 09:05:31](https://news.ycombinator.com/item?id=40306449) - [Libyear](https://libyear.com/)
 * [2024-05-09, 08:40:27](https://news.ycombinator.com/item?id=40306352) - [UTC, Tai, and Unix Time](https://cr.yp.to/proto/utctai.html)
 * [2024-05-09, 08:09:54](https://news.ycombinator.com/item?id=40306249) - [Tracking Illicit Brazilian Beef from the Amazon to Your Burger](https://e360.yale.edu/features/marcel-gomes-interview)
