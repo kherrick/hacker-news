@@ -6,6 +6,8 @@
 
 * [2024-05-09, 15:10:55](https://news.ycombinator.com/item?id=40309026) - [OpenAI Is Readying a Search Product to Rival Google, Perplexity](https://www.bloomberg.com/news/articles/2024-05-07/openai-is-readying-an-ai-search-product-to-rival-google-perplexity)
 * [2024-05-09, 15:01:30](https://news.ycombinator.com/item?id=40308934) - [Microsoft says it needs games like Hi-Fi Rush the day after killing its studio](https://www.theverge.com/2024/5/8/24152137/xbox-hi-fi-rush-tango-gameworks-matt-booty)
+* [2024-05-09, 14:56:52](https://news.ycombinator.com/item?id=40308886) - [How NASA Is Hacking Voyager 1 Back to Life](https://spectrum.ieee.org/voyager-1)
+* [2024-05-09, 14:56:43](https://news.ycombinator.com/item?id=40308884) - [A Brief History of the First Planetarium](https://spectrum.ieee.org/planetarium-history)
 * [2024-05-09, 14:53:55](https://news.ycombinator.com/item?id=40308856) - [Apple faces celebrity backlash over piano crushing](https://www.bbc.com/news/articles/cld0rxlqgggo)
 * [2024-05-09, 14:35:25](https://news.ycombinator.com/item?id=40308657) - [How Bad Are Ultraprocessed Foods, Really?](https://www.nytimes.com/2024/05/06/well/eat/ultraprocessed-foods-harmful-health.html)
 * [2024-05-09, 14:27:04](https://news.ycombinator.com/item?id=40308571) - [Breaking Signal Messenger's Post-Compromise Security Through a Malicious Device [pdf]](https://eprint.iacr.org/2021/626.pdf)
