@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-09, 13:15:41](https://news.ycombinator.com/item?id=40307902) - [New UUID formats have been approved](https://www.ietf.org/archive/id/draft-peabody-dispatch-new-uuid-format-01.html)
 * [2024-05-09, 12:23:52](https://news.ycombinator.com/item?id=40307468) - [FDA recalls defective iOS app that injured over 200 insulin pump users](https://www.theverge.com/2024/5/9/24152633/fda-recall-tandem-diabetes-care-insulin-pump-mobile-app)
 * [2024-05-09, 11:31:27](https://news.ycombinator.com/item?id=40307098) - [Algebraic Data Types for C99](https://github.com/Hirrolot/datatype99)
 * [2024-05-09, 11:29:32](https://news.ycombinator.com/item?id=40307089) - [Show HN: Browser-based knitting (pattern) software](https://github.com/alefore/knit)
@@ -15,7 +16,6 @@
 * [2024-05-08, 22:22:08](https://news.ycombinator.com/item?id=40303336) - [Show HN: SimBricks – Modular Full-System Simulation for HW-SW Systems](https://simbricks.github.io/)
 * [2024-05-08, 19:55:07](https://news.ycombinator.com/item?id=40302201) - [Consistency LLM: converting LLMs to parallel decoders accelerates inference 3.5x](https://hao-ai-lab.github.io/blogs/cllm/)
 * [2024-05-08, 19:54:58](https://news.ycombinator.com/item?id=40302200) - [Breathwork supports emergence of altered states of consciousness](https://www.researchsquare.com/article/rs-3976380/v1)
-* [2024-05-08, 17:11:18](https://news.ycombinator.com/item?id=40300482) - [OpenAI: Model Spec](https://openai.com/index/introducing-the-model-spec)
 * [2024-05-08, 17:09:17](https://news.ycombinator.com/item?id=40300454) - [Development Notes from xkcd's \"Machine\"](https://chromakode.com/post/xkcd-machine/)
 * [2024-05-08, 16:41:12](https://news.ycombinator.com/item?id=40300126) - [Show HN: I built a non-linear UI for ChatGPT](https://www.grafychat.com)
 * [2024-05-08, 16:14:23](https://news.ycombinator.com/item?id=40299761) - [Bringing psql’s \\d to your web browser](https://neon.tech/blog/bringing-psqls-d-to-your-web-browser)

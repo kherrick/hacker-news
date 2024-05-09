@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-09](index.md)
 
+* [2024-05-09, 13:15:41](https://news.ycombinator.com/item?id=40307902) - [New UUID formats have been approved](https://www.ietf.org/archive/id/draft-peabody-dispatch-new-uuid-format-01.html)
 * [2024-05-09, 12:23:52](https://news.ycombinator.com/item?id=40307468) - [FDA recalls defective iOS app that injured over 200 insulin pump users](https://www.theverge.com/2024/5/9/24152633/fda-recall-tandem-diabetes-care-insulin-pump-mobile-app)
 * [2024-05-09, 12:09:32](https://news.ycombinator.com/item?id=40307355) - [Stack Overflow Community Is Not Happy with the OpenAI Deal](https://favtutor.com/articles/stack-overflow-community-not-happy-openai/)
 * [2024-05-09, 11:31:27](https://news.ycombinator.com/item?id=40307098) - [Algebraic Data Types for C99](https://github.com/Hirrolot/datatype99)
