@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-09, 04:10:54](https://news.ycombinator.com/item?id=40305234) - [Brain Worms: A Scientific Inquiry](https://www.theatlantic.com/health/archive/2024/05/robert-kennedy-brain-worms-neurocysticercosis/678331/)
 * [2024-05-09, 03:02:02](https://news.ycombinator.com/item?id=40304901) - [Shell sold carbon credits for carbon that was never captured](https://www.cbc.ca/news/climate/shell-greenpeace-quest-1.7196792)
 * [2024-05-09, 01:39:27](https://news.ycombinator.com/item?id=40304453) - [The Time I Lied to the CTO and Saved the Day](https://GrumpyOldDev.com/post/the-one-where-i-lie-to-the-cto/)
 * [2024-05-08, 23:14:28](https://news.ycombinator.com/item?id=40303661) - [Opening Windows in Linux with sockets, bare hands and 200 lines of C](https://hereket.com/posts/from-scratch-x11-windowing/)
@@ -13,6 +12,7 @@
 * [2024-05-08, 17:11:18](https://news.ycombinator.com/item?id=40300482) - [OpenAI: Model Spec](https://openai.com/index/introducing-the-model-spec)
 * [2024-05-08, 17:09:17](https://news.ycombinator.com/item?id=40300454) - [Development Notes from xkcd's \"Machine\"](https://chromakode.com/post/xkcd-machine/)
 * [2024-05-08, 16:41:12](https://news.ycombinator.com/item?id=40300126) - [Show HN: I built a non-linear UI for ChatGPT](https://www.grafychat.com)
+* [2024-05-08, 16:33:23](https://news.ycombinator.com/item?id=40300023) - [Steve Albini has died](https://pitchfork.com/news/steve-albini-storied-producer-and-icon-of-the-rock-underground-dies-at-61/)
 * [2024-05-08, 15:54:54](https://news.ycombinator.com/item?id=40299556) - [Launch HN: Baselit (YC W23) – Automatically Reduce Snowflake Costs](https://news.ycombinator.com/item?id=40299556)
 * [2024-05-08, 15:07:10](https://news.ycombinator.com/item?id=40298927) - [AlphaFold 3 predicts the structure and interactions of life's molecules](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/)
 * [2024-05-08, 13:34:34](https://news.ycombinator.com/item?id=40297946) - [TimesFM: Time Series Foundation Model for time-series forecasting](https://github.com/google-research/timesfm)
