@@ -1,12 +1,42 @@
 [
   [
     [
-      "2024-05-09, 15:11:32",
-      "https://news.ycombinator.com/item?id=40309028"
+      "2024-05-09, 16:05:01",
+      "https://news.ycombinator.com/item?id=40309597"
     ],
     [
-      "Syncing Postgres Partitions to Parquet in S3 in Crunchy Bridge for Analytics",
-      "https://www.crunchydata.com/blog/syncing-postgres-partitions-to-your-data-lake-in-bridge-for-analytics"
+      "Neuralink's First Human Brain-Chip Implant Appeared Flawless,There Was a Problem",
+      "https://www.wsj.com/tech/neuralinks-first-brain-chip-implant-in-a-human-appeared-flawless-there-was-a-problem-637f1adc"
+    ]
+  ],
+  [
+    [
+      "2024-05-09, 16:04:37",
+      "https://news.ycombinator.com/item?id=40309594"
+    ],
+    [
+      "The new REPL in Python 3.13",
+      "https://treyhunner.com/2024/05/my-favorite-python-3-dot-13-feature/"
+    ]
+  ],
+  [
+    [
+      "2024-05-09, 15:49:47",
+      "https://news.ycombinator.com/item?id=40309448"
+    ],
+    [
+      "Show HN: An open source alternative to some of Slack AI's premium features",
+      "https://github.com/meetbryce/open-source-slack-ai"
+    ]
+  ],
+  [
+    [
+      "2024-05-09, 15:38:48",
+      "https://news.ycombinator.com/item?id=40309342"
+    ],
+    [
+      "Launch HN: Muddy (YC S19) – Multiplayer browser for getting work done",
+      "https://news.ycombinator.com/item?id=40309342"
     ]
   ],
   [
@@ -17,16 +47,6 @@
     [
       "A Brief History of the First Planetarium",
       "https://spectrum.ieee.org/planetarium-history"
-    ]
-  ],
-  [
-    [
-      "2024-05-09, 14:43:25",
-      "https://news.ycombinator.com/item?id=40308740"
-    ],
-    [
-      "PostgreSQL 16.3, 15.7, 14.12, 13.15, and 12.19 Released",
-      "https://www.postgresql.org/about/news/postgresql-163-157-1412-1315-and-1219-released-2858/"
     ]
   ],
   [
@@ -77,6 +97,16 @@
     [
       "Show HN: An SQS Alternative on Postgres",
       "https://github.com/tembo-io/pgmq"
+    ]
+  ],
+  [
+    [
+      "2024-05-09, 12:02:17",
+      "https://news.ycombinator.com/item?id=40307301"
+    ],
+    [
+      "Show HN: Timmerse.com (YC W22) Easily create immersive real-time interactions",
+      "https://timmerse.com/"
     ]
   ],
   [
@@ -201,26 +231,6 @@
   ],
   [
     [
-      "2024-05-08, 19:54:58",
-      "https://news.ycombinator.com/item?id=40302200"
-    ],
-    [
-      "Breathwork supports emergence of altered states of consciousness",
-      "https://www.researchsquare.com/article/rs-3976380/v1"
-    ]
-  ],
-  [
-    [
-      "2024-05-08, 17:09:17",
-      "https://news.ycombinator.com/item?id=40300454"
-    ],
-    [
-      "Development Notes from xkcd's \"Machine\"",
-      "https://chromakode.com/post/xkcd-machine/"
-    ]
-  ],
-  [
-    [
       "2024-05-08, 15:07:10",
       "https://news.ycombinator.com/item?id=40298927"
     ],
@@ -271,32 +281,22 @@
   ],
   [
     [
-      "2024-05-07, 10:10:33",
-      "https://news.ycombinator.com/item?id=40283954"
-    ],
-    [
-      "Industrial Design Student Work: \"How Long Should Objects Last?\"",
-      "https://www.core77.com/posts/132088/Fantastic-Industrial-Design-Student-Work-How-Long-Should-Objects-Last"
-    ]
-  ],
-  [
-    [
-      "2024-05-06, 08:40:02",
-      "https://news.ycombinator.com/item?id=40272514"
-    ],
-    [
-      "How to Use the Foreign Function API in Java 22 to Call C Libraries",
-      "https://ifesunmola.com/how-to-use-the-foreign-function-api-in-java-22-to-call-c-libraries/"
-    ]
-  ],
-  [
-    [
       "2024-05-06, 08:09:38",
       "https://news.ycombinator.com/item?id=40272339"
     ],
     [
       "Show HN: AI climbing coach – visualize how to climb any route based on your body",
       "https://climbing.ai/"
+    ]
+  ],
+  [
+    [
+      "2024-05-04, 23:06:24",
+      "https://news.ycombinator.com/item?id=40261023"
+    ],
+    [
+      "Hymn for Walpurgisnacht",
+      "https://themillions.com/2024/04/hymn-for-walpurgisnacht.html"
     ]
   ]
 ]
