@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-05-09, 19:06:18",
-      "https://news.ycombinator.com/item?id=40311823"
-    ],
-    [
-      "Palantir Supplies Israel with New Tools Since Hamas War Started",
-      "https://www.bloomberg.com/news/articles/2024-01-10/palantir-supplying-israel-with-new-tools-since-hamas-war-started"
-    ]
-  ],
-  [
-    [
       "2024-05-09, 18:59:48",
       "https://news.ycombinator.com/item?id=40311724"
     ],
@@ -227,6 +217,16 @@
     [
       "UTC, Tai, and Unix Time (2001)",
       "https://cr.yp.to/proto/utctai.html"
+    ]
+  ],
+  [
+    [
+      "2024-05-08, 23:14:28",
+      "https://news.ycombinator.com/item?id=40303661"
+    ],
+    [
+      "Opening Windows in Linux with sockets, bare hands and 200 lines of C",
+      "https://hereket.com/posts/from-scratch-x11-windowing/"
     ]
   ],
   [
