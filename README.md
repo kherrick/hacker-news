@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-09, 11:18:23](https://news.ycombinator.com/item?id=40307015) - [Autopsy Cardiac Findings in 2 Adolescents Following Second Covid-19 Vaccine Dose](https://meridian.allenpress.com/aplm/article/146/8/925/477788/Autopsy-Histopathologic-Cardiac-Findings-in-2)
 * [2024-05-09, 10:39:02](https://news.ycombinator.com/item?id=40306837) - [Tesla is under a federal wire fraud probe for misleading investors](https://arstechnica.com/cars/2024/05/teslas-self-driving-claims-subject-to-federal-securities-and-wire-fraud-probe/)
-* [2024-05-09, 09:36:05](https://news.ycombinator.com/item?id=40306576) - [For You, but Forever Alone: How TikTok's Algorithm Fuels Loneliness](https://arnabg.substack.com/p/the-loneliness-epidemic)
+* [2024-05-09, 10:23:18](https://news.ycombinator.com/item?id=40306767) - [Iran sentences renowned director, Mohammad Rasoulof, to 8 years in prison](https://www.cnn.com/2024/05/09/middleeast/iran-rasoulof-prison-sentence-flogging-intl/index.html)
 * [2024-05-09, 09:15:28](https://news.ycombinator.com/item?id=40306490) - [In software architecture you have to recognize when you're adding a rocket stage](https://toot.cat/@plexus/112403882840794498)
 * [2024-05-09, 09:08:06](https://news.ycombinator.com/item?id=40306463) - [Xilinx HBM2 Internals](https://lovehindpa.ws/posts/xilinx-hbm2/)
 * [2024-05-09, 09:05:31](https://news.ycombinator.com/item?id=40306449) - [Libyear](https://libyear.com/)
@@ -15,7 +16,6 @@
 * [2024-05-08, 22:22:08](https://news.ycombinator.com/item?id=40303336) - [Show HN: SimBricks – Modular Full-System Simulation for HW-SW Systems](https://simbricks.github.io/)
 * [2024-05-08, 19:55:07](https://news.ycombinator.com/item?id=40302201) - [Consistency LLM: converting LLMs to parallel decoders accelerates inference 3.5x](https://hao-ai-lab.github.io/blogs/cllm/)
 * [2024-05-08, 19:54:58](https://news.ycombinator.com/item?id=40302200) - [Breathwork supports emergence of altered states of consciousness](https://www.researchsquare.com/article/rs-3976380/v1)
-* [2024-05-08, 17:11:18](https://news.ycombinator.com/item?id=40300482) - [OpenAI: Model Spec](https://openai.com/index/introducing-the-model-spec)
 * [2024-05-08, 17:09:17](https://news.ycombinator.com/item?id=40300454) - [Development Notes from xkcd's \"Machine\"](https://chromakode.com/post/xkcd-machine/)
 * [2024-05-08, 16:41:12](https://news.ycombinator.com/item?id=40300126) - [Show HN: I built a non-linear UI for ChatGPT](https://www.grafychat.com)
 * [2024-05-08, 16:14:23](https://news.ycombinator.com/item?id=40299761) - [Bringing psql’s \\d to your web browser](https://neon.tech/blog/bringing-psqls-d-to-your-web-browser)

@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-09](index.md)
 
+* [2024-05-09, 11:18:23](https://news.ycombinator.com/item?id=40307015) - [Autopsy Cardiac Findings in 2 Adolescents Following Second Covid-19 Vaccine Dose](https://meridian.allenpress.com/aplm/article/146/8/925/477788/Autopsy-Histopathologic-Cardiac-Findings-in-2)
 * [2024-05-09, 10:39:02](https://news.ycombinator.com/item?id=40306837) - [Tesla is under a federal wire fraud probe for misleading investors](https://arstechnica.com/cars/2024/05/teslas-self-driving-claims-subject-to-federal-securities-and-wire-fraud-probe/)
+* [2024-05-09, 10:23:18](https://news.ycombinator.com/item?id=40306767) - [Iran sentences renowned director, Mohammad Rasoulof, to 8 years in prison](https://www.cnn.com/2024/05/09/middleeast/iran-rasoulof-prison-sentence-flogging-intl/index.html)
 * [2024-05-09, 09:36:05](https://news.ycombinator.com/item?id=40306576) - [For You, but Forever Alone: How TikTok's Algorithm Fuels Loneliness](https://arnabg.substack.com/p/the-loneliness-epidemic)
 * [2024-05-09, 09:15:28](https://news.ycombinator.com/item?id=40306490) - [In software architecture you have to recognize when you're adding a rocket stage](https://toot.cat/@plexus/112403882840794498)
 * [2024-05-09, 09:08:06](https://news.ycombinator.com/item?id=40306463) - [Xilinx HBM2 Internals](https://lovehindpa.ws/posts/xilinx-hbm2/)
