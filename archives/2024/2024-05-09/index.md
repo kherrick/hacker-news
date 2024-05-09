@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-05-09](index.md)
 
+* [2024-05-09, 13:53:06](https://news.ycombinator.com/item?id=40308261) - [Microsoft PlayReady – Complete Client Identity Compromise](https://seclists.org/fulldisclosure/2024/May/5)
 * [2024-05-09, 13:33:33](https://news.ycombinator.com/item?id=40308063) - [Microsoft employees spent years fighting the tech giant's oil ties](https://grist.org/accountability/microsoft-employees-spent-years-fighting-the-tech-giants-oil-ties-now-theyre-speaking-out/)
+* [2024-05-09, 13:32:04](https://news.ycombinator.com/item?id=40308044) - [VideoPrism: A foundational visual encoder for video understanding](https://research.google/blog/videoprism-a-foundational-visual-encoder-for-video-understanding/)
+* [2024-05-09, 13:28:24](https://news.ycombinator.com/item?id=40308009) - [Walkthrough of a Minimal Vision Transformer (ViT)](https://dmicz.github.io/machine-learning/minvit/)
+* [2024-05-09, 13:27:27](https://news.ycombinator.com/item?id=40307996) - [New AI Tools Predict How Life's Building Blocks Assemble](https://www.quantamagazine.org/new-ai-tools-predict-how-lifes-building-blocks-assemble-20240508/)
 * [2024-05-09, 13:15:41](https://news.ycombinator.com/item?id=40307902) - [New UUID formats have been approved](https://www.ietf.org/archive/id/draft-peabody-dispatch-new-uuid-format-01.html)
 * [2024-05-09, 12:31:04](https://news.ycombinator.com/item?id=40307519) - [Show HN: Exploring HN by mapping and analyzing 40M posts and comments for fun](https://blog.wilsonl.in/hackerverse/)
 * [2024-05-09, 12:23:52](https://news.ycombinator.com/item?id=40307468) - [FDA recalls defective iOS app that injured over 200 insulin pump users](https://www.theverge.com/2024/5/9/24152633/fda-recall-tandem-diabetes-care-insulin-pump-mobile-app)
