@@ -8,6 +8,7 @@
 * [2024-05-09, 12:31:04](https://news.ycombinator.com/item?id=40307519) - [Show HN: Exploring HN by mapping and analyzing 40M posts and comments for fun](https://blog.wilsonl.in/hackerverse/)
 * [2024-05-09, 12:23:52](https://news.ycombinator.com/item?id=40307468) - [FDA recalls defective iOS app that injured over 200 insulin pump users](https://www.theverge.com/2024/5/9/24152633/fda-recall-tandem-diabetes-care-insulin-pump-mobile-app)
 * [2024-05-09, 12:20:12](https://news.ycombinator.com/item?id=40307441) - [The deep ocean photographer that captured a 'living fossil'](https://www.bbc.com/future/article/20240507-the-deep-ocean-photographer-that-captured-a-living-fossil)
+* [2024-05-09, 12:12:03](https://news.ycombinator.com/item?id=40307375) - [OpenAI Is 'Exploring' How to Responsibly Generate AI Porn](https://www.wired.com/story/openai-is-exploring-how-to-responsibly-generate-ai-porn/)
 * [2024-05-09, 12:09:32](https://news.ycombinator.com/item?id=40307355) - [Stack Overflow Community Is Not Happy with the OpenAI Deal](https://favtutor.com/articles/stack-overflow-community-not-happy-openai/)
 * [2024-05-09, 11:31:27](https://news.ycombinator.com/item?id=40307098) - [Algebraic Data Types for C99](https://github.com/Hirrolot/datatype99)
 * [2024-05-09, 11:29:32](https://news.ycombinator.com/item?id=40307089) - [Show HN: Browser-based knitting (pattern) software](https://github.com/alefore/knit)
