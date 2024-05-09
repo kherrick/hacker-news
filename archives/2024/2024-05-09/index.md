@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-09](index.md)
 
+* [2024-05-09, 15:30:11](https://news.ycombinator.com/item?id=40309247) - [Children 'piled up and shot': new details emerge of ethnic cleansing in Darfur](https://www.theguardian.com/world/article/2024/may/09/darfur-atrocities-ethnic-cleansing-human-rights-watch-report-rsf-sudan)
+* [2024-05-09, 15:11:32](https://news.ycombinator.com/item?id=40309028) - [Syncing Postgres Partitions to Parquet in S3 in Crunchy Bridge for Analytics](https://www.crunchydata.com/blog/syncing-postgres-partitions-to-your-data-lake-in-bridge-for-analytics)
 * [2024-05-09, 15:10:55](https://news.ycombinator.com/item?id=40309026) - [OpenAI Is Readying a Search Product to Rival Google, Perplexity](https://www.bloomberg.com/news/articles/2024-05-07/openai-is-readying-an-ai-search-product-to-rival-google-perplexity)
 * [2024-05-09, 15:01:30](https://news.ycombinator.com/item?id=40308934) - [Microsoft says it needs games like Hi-Fi Rush the day after killing its studio](https://www.theverge.com/2024/5/8/24152137/xbox-hi-fi-rush-tango-gameworks-matt-booty)
 * [2024-05-09, 14:56:52](https://news.ycombinator.com/item?id=40308886) - [How NASA Is Hacking Voyager 1 Back to Life](https://spectrum.ieee.org/voyager-1)
