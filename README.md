@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-09, 11:31:27](https://news.ycombinator.com/item?id=40307098) - [Algebraic Data Types for C99](https://github.com/Hirrolot/datatype99)
+* [2024-05-09, 11:29:32](https://news.ycombinator.com/item?id=40307089) - [Show HN: Browser-based knitting (pattern) software](https://github.com/alefore/knit)
 * [2024-05-09, 11:28:53](https://news.ycombinator.com/item?id=40307084) - [Boeing 737 crashes during take-off in Senegal](https://www.bbc.co.uk/news/articles/ce5ljpnggp4o)
 * [2024-05-09, 11:04:46](https://news.ycombinator.com/item?id=40306941) - [Dell responds to return-to-office resistance with VPN, badge tracking](https://arstechnica.com/information-technology/2024/05/dell-to-monitor-worker-vpn-use-badge-swipes-to-enforce-office-policy/)
-* [2024-05-09, 10:39:02](https://news.ycombinator.com/item?id=40306837) - [Tesla is under a federal wire fraud probe for misleading investors](https://arstechnica.com/cars/2024/05/teslas-self-driving-claims-subject-to-federal-securities-and-wire-fraud-probe/)
 * [2024-05-09, 09:15:28](https://news.ycombinator.com/item?id=40306490) - [In software architecture you have to recognize when you're adding a rocket stage](https://toot.cat/@plexus/112403882840794498)
 * [2024-05-09, 09:08:06](https://news.ycombinator.com/item?id=40306463) - [Xilinx HBM2 Internals](https://lovehindpa.ws/posts/xilinx-hbm2/)
 * [2024-05-09, 09:05:31](https://news.ycombinator.com/item?id=40306449) - [Libyear](https://libyear.com/)
@@ -26,7 +27,6 @@
 * [2024-05-07, 15:56:41](https://news.ycombinator.com/item?id=40287341) - [Temporal Python – A durable, distributed asyncio event loop (2023)](https://temporal.io/blog/durable-distributed-asyncio-event-loop)
 * [2024-05-07, 11:09:23](https://news.ycombinator.com/item?id=40284225) - [The Birth of Parquet](https://sympathetic.ink/2024/01/24/Chapter-1-The-birth-of-Parquet.html)
 * [2024-05-07, 10:10:33](https://news.ycombinator.com/item?id=40283954) - [Industrial Design Student Work: \"How Long Should Objects Last?\"](https://www.core77.com/posts/132088/Fantastic-Industrial-Design-Student-Work-How-Long-Should-Objects-Last)
-* [2024-05-07, 05:34:07](https://news.ycombinator.com/item?id=40282671) - [The Waning Reign of the Muskrat](https://hakaimagazine.com/features/the-magnificent-lives-and-quiet-loss-of-muskrats/)
 * [2024-05-06, 11:51:30](https://news.ycombinator.com/item?id=40273516) - [Radius Full Page Display](https://32by32.com/radius-full-page-display/)
 * [2024-05-06, 08:40:02](https://news.ycombinator.com/item?id=40272514) - [How to Use the Foreign Function API in Java 22 to Call C Libraries](https://ifesunmola.com/how-to-use-the-foreign-function-api-in-java-22-to-call-c-libraries/)
 * [2024-05-06, 08:09:38](https://news.ycombinator.com/item?id=40272339) - [Show HN: AI climbing coach – visualize how to climb any route based on your body](https://climbing.ai/)

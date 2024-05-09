@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-09](index.md)
 
+* [2024-05-09, 11:31:27](https://news.ycombinator.com/item?id=40307098) - [Algebraic Data Types for C99](https://github.com/Hirrolot/datatype99)
+* [2024-05-09, 11:29:32](https://news.ycombinator.com/item?id=40307089) - [Show HN: Browser-based knitting (pattern) software](https://github.com/alefore/knit)
 * [2024-05-09, 11:28:53](https://news.ycombinator.com/item?id=40307084) - [Boeing 737 crashes during take-off in Senegal](https://www.bbc.co.uk/news/articles/ce5ljpnggp4o)
 * [2024-05-09, 11:18:23](https://news.ycombinator.com/item?id=40307015) - [Autopsy Cardiac Findings in 2 Adolescents Following Second Covid-19 Vaccine Dose](https://meridian.allenpress.com/aplm/article/146/8/925/477788/Autopsy-Histopathologic-Cardiac-Findings-in-2)
 * [2024-05-09, 11:04:46](https://news.ycombinator.com/item?id=40306941) - [Dell responds to return-to-office resistance with VPN, badge tracking](https://arstechnica.com/information-technology/2024/05/dell-to-monitor-worker-vpn-use-badge-swipes-to-enforce-office-policy/)
