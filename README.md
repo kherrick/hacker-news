@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-09, 03:02:02](https://news.ycombinator.com/item?id=40304901) - [Shell sold carbon credits for carbon that was never captured](https://www.cbc.ca/news/climate/shell-greenpeace-quest-1.7196792)
 * [2024-05-09, 02:10:00](https://news.ycombinator.com/item?id=40304601) - [A look inside illegal drone deliveries at B.C.'s prisons](https://www.vancouverisawesome.com/highlights/watch-a-look-inside-illegal-drone-deliveries-at-bcs-prisons-8706734)
 * [2024-05-09, 01:59:39](https://news.ycombinator.com/item?id=40304549) - [How Ahrefs Gets a Billion Dollar-Worth Infrastructure with a 90% Discount](https://tech.ahrefs.com/how-ahrefs-gets-a-billion-dollar-worth-infrastructure-with-a-90-discount-5edd473b2399)
 * [2024-05-09, 01:39:27](https://news.ycombinator.com/item?id=40304453) - [The Time I Lied to the CTO and Saved the Day](https://GrumpyOldDev.com/post/the-one-where-i-lie-to-the-cto/)
@@ -29,7 +30,6 @@
 * [2024-05-06, 11:51:30](https://news.ycombinator.com/item?id=40273516) - [Radius Full Page Display](https://32by32.com/radius-full-page-display/)
 * [2024-05-06, 08:40:02](https://news.ycombinator.com/item?id=40272514) - [How to Use the Foreign Function API in Java 22 to Call C Libraries](https://ifesunmola.com/how-to-use-the-foreign-function-api-in-java-22-to-call-c-libraries/)
 * [2024-05-06, 08:09:38](https://news.ycombinator.com/item?id=40272339) - [Show HN: AI climbing coach – visualize how to climb any route based on your body](https://climbing.ai/)
-* [2024-05-06, 06:35:04](https://news.ycombinator.com/item?id=40271797) - [Pair Your Compilers at the ABI Café](https://faultlore.com/blah/abi-puns/)
 
 ## [Archives](archives/index.md)
 
