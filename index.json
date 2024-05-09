@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-05-09, 22:42:09",
+      "https://news.ycombinator.com/item?id=40313680"
+    ],
+    [
+      "Dell Has Been Hacked",
+      "https://news.ycombinator.com/item?id=40313680"
+    ]
+  ],
+  [
+    [
       "2024-05-09, 22:11:41",
       "https://news.ycombinator.com/item?id=40313451"
     ],
@@ -161,22 +171,22 @@
   ],
   [
     [
-      "2024-05-09, 14:56:43",
-      "https://news.ycombinator.com/item?id=40308884"
-    ],
-    [
-      "A Brief History of the First Planetarium",
-      "https://spectrum.ieee.org/planetarium-history"
-    ]
-  ],
-  [
-    [
       "2024-05-09, 13:32:04",
       "https://news.ycombinator.com/item?id=40308044"
     ],
     [
       "VideoPrism: A foundational visual encoder for video understanding",
       "https://research.google/blog/videoprism-a-foundational-visual-encoder-for-video-understanding/"
+    ]
+  ],
+  [
+    [
+      "2024-05-09, 13:08:05",
+      "https://news.ycombinator.com/item?id=40307832"
+    ],
+    [
+      "No \"Zero-Shot\" Without Exponential Data",
+      "https://arxiv.org/abs/2404.04125"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Logarithmic Scales",
       "https://briefer.cloud/blog/posts/logarithms/"
-    ]
-  ],
-  [
-    [
-      "2024-05-07, 15:56:41",
-      "https://news.ycombinator.com/item?id=40287341"
-    ],
-    [
-      "Temporal Python – A durable, distributed asyncio event loop (2023)",
-      "https://temporal.io/blog/durable-distributed-asyncio-event-loop"
     ]
   ],
   [
