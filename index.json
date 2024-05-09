@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-09, 14:27:04",
+      "https://news.ycombinator.com/item?id=40308571"
+    ],
+    [
+      "Breaking Signal Messenger's Post-Compromise Security Through a Malicious Device [pdf]",
+      "https://eprint.iacr.org/2021/626.pdf"
+    ]
+  ],
+  [
+    [
       "2024-05-09, 13:53:06",
       "https://news.ycombinator.com/item?id=40308261"
     ],
@@ -31,32 +41,12 @@
   ],
   [
     [
-      "2024-05-09, 13:00:18",
-      "https://news.ycombinator.com/item?id=40307769"
-    ],
-    [
-      "Apple's M4 45% faster than M2, 25% faster than M3; Beats Snapdragon X Elite",
-      "https://wccftech.com/apple-m4-multi-score-faster-than-m3-and-m2/"
-    ]
-  ],
-  [
-    [
       "2024-05-09, 12:31:04",
       "https://news.ycombinator.com/item?id=40307519"
     ],
     [
       "Exploring HN by mapping and analyzing 40M posts and comments for fun",
       "https://blog.wilsonl.in/hackerverse/"
-    ]
-  ],
-  [
-    [
-      "2024-05-09, 12:23:52",
-      "https://news.ycombinator.com/item?id=40307468"
-    ],
-    [
-      "FDA recalls defective iOS app that injured over 200 insulin pump users",
-      "https://www.theverge.com/2024/5/9/24152633/fda-recall-tandem-diabetes-care-insulin-pump-mobile-app"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "Show HN: I built a non-linear UI for ChatGPT",
       "https://www.grafychat.com"
+    ]
+  ],
+  [
+    [
+      "2024-05-08, 16:14:23",
+      "https://news.ycombinator.com/item?id=40299761"
+    ],
+    [
+      "Bringing psql’s \\d to your web browser",
+      "https://neon.tech/blog/bringing-psqls-d-to-your-web-browser"
     ]
   ],
   [
