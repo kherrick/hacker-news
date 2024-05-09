@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2024-05-09, 16:56:41",
+      "https://news.ycombinator.com/item?id=40310226"
+    ],
+    [
+      "Buckets of Parquet Files Are Awful",
+      "https://scratchdata.com/blog/bucketful-of-parquet/"
+    ]
+  ],
+  [
+    [
       "2024-05-09, 16:52:27",
       "https://news.ycombinator.com/item?id=40310170"
     ],
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=40309780"
     ],
     [
-      "Machine Super Intelligence [pdf]",
+      "Shane Legg: Machine Super Intelligence [pdf]",
       "https://www.vetta.org/documents/Machine_Super_Intelligence.pdf"
     ]
   ],
@@ -271,22 +281,12 @@
   ],
   [
     [
-      "2024-05-08, 12:41:28",
-      "https://news.ycombinator.com/item?id=40297423"
+      "2024-05-08, 11:25:49",
+      "https://news.ycombinator.com/item?id=40296734"
     ],
     [
-      "Symbolica Computer Algebra System",
-      "https://symbolica.io/"
-    ]
-  ],
-  [
-    [
-      "2024-05-07, 15:56:41",
-      "https://news.ycombinator.com/item?id=40287341"
-    ],
-    [
-      "Temporal Python – A durable, distributed asyncio event loop (2023)",
-      "https://temporal.io/blog/durable-distributed-asyncio-event-loop"
+      "Logarithmic Scales",
+      "https://briefer.cloud/blog/posts/logarithms/"
     ]
   ],
   [
