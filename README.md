@@ -17,6 +17,7 @@
 * [2024-05-08, 15:07:10](https://news.ycombinator.com/item?id=40298927) - [AlphaFold 3 predicts the structure and interactions of life's molecules](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/)
 * [2024-05-08, 13:34:34](https://news.ycombinator.com/item?id=40297946) - [TimesFM: Time Series Foundation Model for time-series forecasting](https://github.com/google-research/timesfm)
 * [2024-05-08, 13:13:22](https://news.ycombinator.com/item?id=40297748) - ['Underwater bicycle' propels swimmers forward at superhuman speed](https://newatlas.com/marine/seabike-swimming-propeller/)
+* [2024-05-08, 12:48:19](https://news.ycombinator.com/item?id=40297502) - [Pulley system composition – a systematic approach (2020)](https://www.kiipeilytuomas.fi/articles-in-english/pulley-system-composition-a-systematic-approach/)
 * [2024-05-08, 12:30:17](https://news.ycombinator.com/item?id=40297280) - [Zimtohrli: A New Psychoacoustic Perceptual Metric for Audio Compression](https://github.com/google/zimtohrli)
 * [2024-05-07, 19:08:11](https://news.ycombinator.com/item?id=40290171) - [Temporal Fuzzing I: Memory Models (2021)](https://www.reitzen.com/post/temporal-fuzzing-01/)
 * [2024-05-07, 14:37:32](https://news.ycombinator.com/item?id=40286029) - [Apple introduces M4 chip](https://www.apple.com/newsroom/2024/05/apple-introduces-m4-chip/)
@@ -29,7 +30,6 @@
 * [2024-05-06, 08:40:02](https://news.ycombinator.com/item?id=40272514) - [How to Use the Foreign Function API in Java 22 to Call C Libraries](https://ifesunmola.com/how-to-use-the-foreign-function-api-in-java-22-to-call-c-libraries/)
 * [2024-05-06, 08:09:38](https://news.ycombinator.com/item?id=40272339) - [Show HN: AI climbing coach – visualize how to climb any route based on your body](https://climbing.ai/)
 * [2024-05-06, 06:35:04](https://news.ycombinator.com/item?id=40271797) - [Pair Your Compilers at the ABI Café](https://faultlore.com/blah/abi-puns/)
-* [2024-05-05, 09:23:54](https://news.ycombinator.com/item?id=40263377) - [The Bloody History of 'Deadline'](https://www.merriam-webster.com/wordplay/your-deadline-wont-kill-you)
 
 ## [Archives](archives/index.md)
 
