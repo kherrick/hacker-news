@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-05-09](index.md)
 
+* [2024-05-09, 12:09:32](https://news.ycombinator.com/item?id=40307355) - [Stack Overflow Community Is Not Happy with the OpenAI Deal](https://favtutor.com/articles/stack-overflow-community-not-happy-openai/)
 * [2024-05-09, 11:31:27](https://news.ycombinator.com/item?id=40307098) - [Algebraic Data Types for C99](https://github.com/Hirrolot/datatype99)
 * [2024-05-09, 11:29:32](https://news.ycombinator.com/item?id=40307089) - [Show HN: Browser-based knitting (pattern) software](https://github.com/alefore/knit)
 * [2024-05-09, 11:28:53](https://news.ycombinator.com/item?id=40307084) - [Boeing 737 crashes during take-off in Senegal](https://www.bbc.co.uk/news/articles/ce5ljpnggp4o)
 * [2024-05-09, 11:18:23](https://news.ycombinator.com/item?id=40307015) - [Autopsy Cardiac Findings in 2 Adolescents Following Second Covid-19 Vaccine Dose](https://meridian.allenpress.com/aplm/article/146/8/925/477788/Autopsy-Histopathologic-Cardiac-Findings-in-2)
 * [2024-05-09, 11:04:46](https://news.ycombinator.com/item?id=40306941) - [Dell responds to return-to-office resistance with VPN, badge tracking](https://arstechnica.com/information-technology/2024/05/dell-to-monitor-worker-vpn-use-badge-swipes-to-enforce-office-policy/)
+* [2024-05-09, 11:00:38](https://news.ycombinator.com/item?id=40306926) - [Pyrrhic Victory](https://en.wikipedia.org/wiki/Pyrrhic_victory)
 * [2024-05-09, 10:39:02](https://news.ycombinator.com/item?id=40306837) - [Tesla is under a federal wire fraud probe for misleading investors](https://arstechnica.com/cars/2024/05/teslas-self-driving-claims-subject-to-federal-securities-and-wire-fraud-probe/)
 * [2024-05-09, 10:23:18](https://news.ycombinator.com/item?id=40306767) - [Iran sentences renowned director, Mohammad Rasoulof, to 8 years in prison](https://www.cnn.com/2024/05/09/middleeast/iran-rasoulof-prison-sentence-flogging-intl/index.html)
 * [2024-05-09, 09:36:05](https://news.ycombinator.com/item?id=40306576) - [For You, but Forever Alone: How TikTok's Algorithm Fuels Loneliness](https://arnabg.substack.com/p/the-loneliness-epidemic)
