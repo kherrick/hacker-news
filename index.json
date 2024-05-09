@@ -1,32 +1,12 @@
 [
   [
     [
-      "2024-05-09, 15:30:11",
-      "https://news.ycombinator.com/item?id=40309247"
-    ],
-    [
-      "Children 'piled up and shot': new details emerge of ethnic cleansing in Darfur",
-      "https://www.theguardian.com/world/article/2024/may/09/darfur-atrocities-ethnic-cleansing-human-rights-watch-report-rsf-sudan"
-    ]
-  ],
-  [
-    [
       "2024-05-09, 15:11:32",
       "https://news.ycombinator.com/item?id=40309028"
     ],
     [
       "Syncing Postgres Partitions to Parquet in S3 in Crunchy Bridge for Analytics",
       "https://www.crunchydata.com/blog/syncing-postgres-partitions-to-your-data-lake-in-bridge-for-analytics"
-    ]
-  ],
-  [
-    [
-      "2024-05-09, 14:56:52",
-      "https://news.ycombinator.com/item?id=40308886"
-    ],
-    [
-      "How NASA Is Hacking Voyager 1 Back to Life",
-      "https://spectrum.ieee.org/voyager-1"
     ]
   ],
   [
@@ -117,16 +97,6 @@
     [
       "Show HN: Browser-based knitting (pattern) software",
       "https://github.com/alefore/knit"
-    ]
-  ],
-  [
-    [
-      "2024-05-09, 11:28:30",
-      "https://news.ycombinator.com/item?id=40307078"
-    ],
-    [
-      "Test Failures Should Be Actionable",
-      "https://testing.googleblog.com/2024/05/test-failures-should-be-actionable.html"
     ]
   ],
   [
@@ -231,6 +201,26 @@
   ],
   [
     [
+      "2024-05-08, 16:41:12",
+      "https://news.ycombinator.com/item?id=40300126"
+    ],
+    [
+      "Show HN: I built a non-linear UI for ChatGPT",
+      "https://www.grafychat.com"
+    ]
+  ],
+  [
+    [
+      "2024-05-08, 16:14:23",
+      "https://news.ycombinator.com/item?id=40299761"
+    ],
+    [
+      "Bringing psql’s \\d to your web browser",
+      "https://neon.tech/blog/bringing-psqls-d-to-your-web-browser"
+    ]
+  ],
+  [
+    [
       "2024-05-08, 15:07:10",
       "https://news.ycombinator.com/item?id=40298927"
     ],
@@ -267,6 +257,16 @@
     [
       "Temporal Python – A durable, distributed asyncio event loop (2023)",
       "https://temporal.io/blog/durable-distributed-asyncio-event-loop"
+    ]
+  ],
+  [
+    [
+      "2024-05-07, 11:09:23",
+      "https://news.ycombinator.com/item?id=40284225"
+    ],
+    [
+      "The Birth of Parquet",
+      "https://sympathetic.ink/2024/01/24/Chapter-1-The-birth-of-Parquet.html"
     ]
   ],
   [
