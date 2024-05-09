@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-05-09, 02:10:00",
-      "https://news.ycombinator.com/item?id=40304601"
-    ],
-    [
-      "A look inside illegal drone deliveries at B.C.'s prisons",
-      "https://www.vancouverisawesome.com/highlights/watch-a-look-inside-illegal-drone-deliveries-at-bcs-prisons-8706734"
-    ]
-  ],
-  [
-    [
       "2024-05-09, 01:39:27",
       "https://news.ycombinator.com/item?id=40304453"
     ],
@@ -141,16 +131,6 @@
   ],
   [
     [
-      "2024-05-08, 16:33:23",
-      "https://news.ycombinator.com/item?id=40300023"
-    ],
-    [
-      "Steve Albini has died",
-      "https://pitchfork.com/news/steve-albini-storied-producer-and-icon-of-the-rock-underground-dies-at-61/"
-    ]
-  ],
-  [
-    [
       "2024-05-08, 15:54:54",
       "https://news.ycombinator.com/item?id=40299556"
     ],
@@ -211,12 +191,32 @@
   ],
   [
     [
+      "2024-05-07, 19:52:08",
+      "https://news.ycombinator.com/item?id=40290735"
+    ],
+    [
+      "Show HN: Tegon: AI-first open source alternative to Jira and Linear",
+      "https://github.com/tegonhq/tegon"
+    ]
+  ],
+  [
+    [
       "2024-05-07, 19:08:11",
       "https://news.ycombinator.com/item?id=40290171"
     ],
     [
       "Temporal Fuzzing I: Memory Models (2021)",
       "https://www.reitzen.com/post/temporal-fuzzing-01/"
+    ]
+  ],
+  [
+    [
+      "2024-05-07, 15:56:41",
+      "https://news.ycombinator.com/item?id=40287341"
+    ],
+    [
+      "Temporal Python – A durable, distributed asyncio event loop (2023)",
+      "https://temporal.io/blog/durable-distributed-asyncio-event-loop"
     ]
   ],
   [
