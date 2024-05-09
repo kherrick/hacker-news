@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-05-09, 18:31:26",
-      "https://news.ycombinator.com/item?id=40311345"
-    ],
-    [
-      "Amtrak no longer living hand to mouth after being funding-starved for decades",
-      "https://fortune.com/2024/05/06/amtrak-infrastructure-biden-transportation-railroads-travel-stephen-gardner-federal-goverment/"
-    ]
-  ],
-  [
-    [
       "2024-05-09, 17:54:49",
       "https://news.ycombinator.com/item?id=40310896"
     ],
@@ -21,12 +11,12 @@
   ],
   [
     [
-      "2024-05-09, 17:09:02",
-      "https://news.ycombinator.com/item?id=40310358"
+      "2024-05-09, 17:13:59",
+      "https://news.ycombinator.com/item?id=40310402"
     ],
     [
-      "The Woman Who Showed President Biden ChatGPT",
-      "https://www.wired.com/story/arati-prabhakar-ostp-biden-science-tech-adviser/"
+      "Sean Baxter: Safe C++ [video]",
+      "https://www.youtube.com/watch?v=5Q1awoAwBgQ"
     ]
   ],
   [
@@ -51,22 +41,12 @@
   ],
   [
     [
-      "2024-05-09, 16:56:41",
-      "https://news.ycombinator.com/item?id=40310226"
+      "2024-05-09, 16:52:27",
+      "https://news.ycombinator.com/item?id=40310170"
     ],
     [
-      "Buckets of Parquet Files Are Awful",
-      "https://scratchdata.com/blog/bucketful-of-parquet/"
-    ]
-  ],
-  [
-    [
-      "2024-05-09, 16:34:17",
-      "https://news.ycombinator.com/item?id=40309957"
-    ],
-    [
-      "Leaked FBI Email Reportedly Shows Desperation to Justify Warrantless Wiretaps",
-      "https://gizmodo.com/leaked-fbi-email-warrantless-wiretaps-section-702-1851464520"
+      "Tesla Quietly Removes All U.S. Job Postings",
+      "https://gizmodo.com/tesla-hiring-freeze-job-postings-elon-musk-layoffs-1851464758"
     ]
   ],
   [
@@ -111,16 +91,6 @@
   ],
   [
     [
-      "2024-05-09, 16:12:06",
-      "https://news.ycombinator.com/item?id=40309685"
-    ],
-    [
-      "Blade Runner",
-      "https://www.filfre.net/2024/05/blade-runner/"
-    ]
-  ],
-  [
-    [
       "2024-05-09, 15:49:47",
       "https://news.ycombinator.com/item?id=40309448"
     ],
@@ -147,6 +117,16 @@
     [
       "A Brief History of the First Planetarium",
       "https://spectrum.ieee.org/planetarium-history"
+    ]
+  ],
+  [
+    [
+      "2024-05-09, 13:53:06",
+      "https://news.ycombinator.com/item?id=40308261"
+    ],
+    [
+      "Microsoft PlayReady – Complete Client Identity Compromise",
+      "https://seclists.org/fulldisclosure/2024/May/5"
     ]
   ],
   [
@@ -251,6 +231,16 @@
   ],
   [
     [
+      "2024-05-08, 23:14:28",
+      "https://news.ycombinator.com/item?id=40303661"
+    ],
+    [
+      "Opening Windows in Linux with sockets, bare hands and 200 lines of C",
+      "https://hereket.com/posts/from-scratch-x11-windowing/"
+    ]
+  ],
+  [
+    [
       "2024-05-08, 19:55:07",
       "https://news.ycombinator.com/item?id=40302201"
     ],
@@ -267,6 +257,16 @@
     [
       "AlphaFold 3 predicts the structure and interactions of life's molecules",
       "https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/"
+    ]
+  ],
+  [
+    [
+      "2024-05-08, 12:41:28",
+      "https://news.ycombinator.com/item?id=40297423"
+    ],
+    [
+      "Symbolica Computer Algebra System",
+      "https://symbolica.io/"
     ]
   ],
   [
