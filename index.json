@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-05-09, 18:59:48",
-      "https://news.ycombinator.com/item?id=40311724"
+      "2024-05-09, 19:22:25",
+      "https://news.ycombinator.com/item?id=40311982"
     ],
     [
-      "OpenAI destroyed a trove of books used to train AI models",
-      "https://www.businessinsider.com/openai-destroyed-ai-training-datasets-lawsuit-authors-books-copyright-2024-5"
+      "NASA's Proposed Plasma Rocket Would Get Us to Mars in 2 Months",
+      "https://gizmodo.com/nasa-pulsed-plasma-rocket-advanced-concept-mars-1851463831"
+    ]
+  ],
+  [
+    [
+      "2024-05-09, 19:06:18",
+      "https://news.ycombinator.com/item?id=40311823"
+    ],
+    [
+      "Palantir Supplies Israel with New Tools Since Hamas War Started",
+      "https://www.bloomberg.com/news/articles/2024-01-10/palantir-supplying-israel-with-new-tools-since-hamas-war-started"
     ]
   ],
   [
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=40310896"
     ],
     [
-      "It's always TCP_NODELAY. Every damn time",
+      "It's always TCP_NODELAY",
       "https://brooker.co.za/blog/2024/05/09/nagle.html"
     ]
   ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=40310228"
     ],
     [
-      "Leaked Deck Reveals How OpenAI Is Pitching Publisher Partnerships",
+      "Leaked deck reveals how OpenAI is pitching publisher partnerships",
       "https://www.adweek.com/media/openai-preferred-publisher-program-deck/"
     ]
   ],
@@ -217,16 +227,6 @@
     [
       "UTC, Tai, and Unix Time (2001)",
       "https://cr.yp.to/proto/utctai.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-08, 23:14:28",
-      "https://news.ycombinator.com/item?id=40303661"
-    ],
-    [
-      "Opening Windows in Linux with sockets, bare hands and 200 lines of C",
-      "https://hereket.com/posts/from-scratch-x11-windowing/"
     ]
   ],
   [
