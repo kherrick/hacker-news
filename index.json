@@ -1,12 +1,52 @@
 [
   [
     [
+      "2024-05-09, 13:53:06",
+      "https://news.ycombinator.com/item?id=40308261"
+    ],
+    [
+      "Microsoft PlayReady – Complete Client Identity Compromise",
+      "https://seclists.org/fulldisclosure/2024/May/5"
+    ]
+  ],
+  [
+    [
       "2024-05-09, 13:33:33",
       "https://news.ycombinator.com/item?id=40308063"
     ],
     [
       "Microsoft employees spent years fighting the tech giant's oil ties",
       "https://grist.org/accountability/microsoft-employees-spent-years-fighting-the-tech-giants-oil-ties-now-theyre-speaking-out/"
+    ]
+  ],
+  [
+    [
+      "2024-05-09, 13:32:04",
+      "https://news.ycombinator.com/item?id=40308044"
+    ],
+    [
+      "VideoPrism: A foundational visual encoder for video understanding",
+      "https://research.google/blog/videoprism-a-foundational-visual-encoder-for-video-understanding/"
+    ]
+  ],
+  [
+    [
+      "2024-05-09, 13:28:24",
+      "https://news.ycombinator.com/item?id=40308009"
+    ],
+    [
+      "Walkthrough of a Minimal Vision Transformer (ViT)",
+      "https://dmicz.github.io/machine-learning/minvit/"
+    ]
+  ],
+  [
+    [
+      "2024-05-09, 13:27:27",
+      "https://news.ycombinator.com/item?id=40307996"
+    ],
+    [
+      "New AI Tools Predict How Life's Building Blocks Assemble",
+      "https://www.quantamagazine.org/new-ai-tools-predict-how-lifes-building-blocks-assemble-20240508/"
     ]
   ],
   [
@@ -141,16 +181,6 @@
   ],
   [
     [
-      "2024-05-08, 22:22:08",
-      "https://news.ycombinator.com/item?id=40303336"
-    ],
-    [
-      "Show HN: SimBricks – Modular Full-System Simulation for HW-SW Systems",
-      "https://simbricks.github.io/"
-    ]
-  ],
-  [
-    [
       "2024-05-08, 19:55:07",
       "https://news.ycombinator.com/item?id=40302201"
     ],
@@ -187,16 +217,6 @@
     [
       "Show HN: I built a non-linear UI for ChatGPT",
       "https://www.grafychat.com"
-    ]
-  ],
-  [
-    [
-      "2024-05-08, 16:14:23",
-      "https://news.ycombinator.com/item?id=40299761"
-    ],
-    [
-      "Bringing psql’s \\d to your web browser",
-      "https://neon.tech/blog/bringing-psqls-d-to-your-web-browser"
     ]
   ],
   [
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2024-05-07, 11:09:23",
-      "https://news.ycombinator.com/item?id=40284225"
-    ],
-    [
-      "The Birth of Parquet",
-      "https://sympathetic.ink/2024/01/24/Chapter-1-The-birth-of-Parquet.html"
-    ]
-  ],
-  [
-    [
       "2024-05-07, 10:10:33",
       "https://news.ycombinator.com/item?id=40283954"
     ],
     [
       "Industrial Design Student Work: \"How Long Should Objects Last?\"",
       "https://www.core77.com/posts/132088/Fantastic-Industrial-Design-Student-Work-How-Long-Should-Objects-Last"
-    ]
-  ],
-  [
-    [
-      "2024-05-06, 11:51:30",
-      "https://news.ycombinator.com/item?id=40273516"
-    ],
-    [
-      "Radius Full Page Display",
-      "https://32by32.com/radius-full-page-display/"
     ]
   ],
   [
