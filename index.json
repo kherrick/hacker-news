@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-05-09, 14:43:25",
+      "https://news.ycombinator.com/item?id=40308740"
+    ],
+    [
+      "PostgreSQL 16.3, 15.7, 14.12, 13.15, and 12.19 Released",
+      "https://www.postgresql.org/about/news/postgresql-163-157-1412-1315-and-1219-released-2858/"
+    ]
+  ],
+  [
+    [
       "2024-05-09, 13:53:06",
       "https://news.ycombinator.com/item?id=40308261"
     ],
@@ -67,6 +77,16 @@
     [
       "Show HN: An SQS Alternative on Postgres",
       "https://github.com/tembo-io/pgmq"
+    ]
+  ],
+  [
+    [
+      "2024-05-09, 11:38:14",
+      "https://news.ycombinator.com/item?id=40307138"
+    ],
+    [
+      "Deaf girl is cured in world first gene therapy trial",
+      "https://www.independent.co.uk/news/health/deaf-cure-girl-gene-therapy-b2541735.html"
     ]
   ],
   [
@@ -201,26 +221,6 @@
   ],
   [
     [
-      "2024-05-08, 16:41:12",
-      "https://news.ycombinator.com/item?id=40300126"
-    ],
-    [
-      "Show HN: I built a non-linear UI for ChatGPT",
-      "https://www.grafychat.com"
-    ]
-  ],
-  [
-    [
-      "2024-05-08, 16:14:23",
-      "https://news.ycombinator.com/item?id=40299761"
-    ],
-    [
-      "Bringing psql’s \\d to your web browser",
-      "https://neon.tech/blog/bringing-psqls-d-to-your-web-browser"
-    ]
-  ],
-  [
-    [
       "2024-05-08, 15:07:10",
       "https://news.ycombinator.com/item?id=40298927"
     ],
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2024-05-08, 12:41:28",
+      "https://news.ycombinator.com/item?id=40297423"
+    ],
+    [
+      "Symbolica Computer Algebra System",
+      "https://symbolica.io/"
+    ]
+  ],
+  [
+    [
       "2024-05-07, 19:52:08",
       "https://news.ycombinator.com/item?id=40290735"
     ],
@@ -257,16 +267,6 @@
     [
       "Temporal Python – A durable, distributed asyncio event loop (2023)",
       "https://temporal.io/blog/durable-distributed-asyncio-event-loop"
-    ]
-  ],
-  [
-    [
-      "2024-05-07, 11:09:23",
-      "https://news.ycombinator.com/item?id=40284225"
-    ],
-    [
-      "The Birth of Parquet",
-      "https://sympathetic.ink/2024/01/24/Chapter-1-The-birth-of-Parquet.html"
     ]
   ],
   [
