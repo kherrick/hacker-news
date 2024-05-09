@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-09](index.md)
 
+* [2024-05-09, 15:10:55](https://news.ycombinator.com/item?id=40309026) - [OpenAI Is Readying a Search Product to Rival Google, Perplexity](https://www.bloomberg.com/news/articles/2024-05-07/openai-is-readying-an-ai-search-product-to-rival-google-perplexity)
+* [2024-05-09, 15:01:30](https://news.ycombinator.com/item?id=40308934) - [Microsoft says it needs games like Hi-Fi Rush the day after killing its studio](https://www.theverge.com/2024/5/8/24152137/xbox-hi-fi-rush-tango-gameworks-matt-booty)
+* [2024-05-09, 14:53:55](https://news.ycombinator.com/item?id=40308856) - [Apple faces celebrity backlash over piano crushing](https://www.bbc.com/news/articles/cld0rxlqgggo)
 * [2024-05-09, 14:35:25](https://news.ycombinator.com/item?id=40308657) - [How Bad Are Ultraprocessed Foods, Really?](https://www.nytimes.com/2024/05/06/well/eat/ultraprocessed-foods-harmful-health.html)
 * [2024-05-09, 14:27:04](https://news.ycombinator.com/item?id=40308571) - [Breaking Signal Messenger's Post-Compromise Security Through a Malicious Device [pdf]](https://eprint.iacr.org/2021/626.pdf)
 * [2024-05-09, 13:53:06](https://news.ycombinator.com/item?id=40308261) - [Microsoft PlayReady – Complete Client Identity Compromise](https://seclists.org/fulldisclosure/2024/May/5)
@@ -12,6 +15,7 @@
 * [2024-05-09, 13:28:24](https://news.ycombinator.com/item?id=40308009) - [Walkthrough of a Minimal Vision Transformer (ViT)](https://dmicz.github.io/machine-learning/minvit/)
 * [2024-05-09, 13:27:27](https://news.ycombinator.com/item?id=40307996) - [New AI Tools Predict How Life's Building Blocks Assemble](https://www.quantamagazine.org/new-ai-tools-predict-how-lifes-building-blocks-assemble-20240508/)
 * [2024-05-09, 13:15:41](https://news.ycombinator.com/item?id=40307902) - [New UUID formats have been approved](https://www.ietf.org/archive/id/draft-peabody-dispatch-new-uuid-format-01.html)
+* [2024-05-09, 13:08:05](https://news.ycombinator.com/item?id=40307832) - [No \"Zero-Shot\" Without Exponential Data](https://arxiv.org/abs/2404.04125)
 * [2024-05-09, 13:00:18](https://news.ycombinator.com/item?id=40307769) - [Apple's M4 45% faster than M2, 25% faster than M3; Beats Snapdragon X Elite](https://wccftech.com/apple-m4-multi-score-faster-than-m3-and-m2/)
 * [2024-05-09, 12:31:04](https://news.ycombinator.com/item?id=40307519) - [Show HN: Exploring HN by mapping and analyzing 40M posts and comments for fun](https://blog.wilsonl.in/hackerverse/)
 * [2024-05-09, 12:23:52](https://news.ycombinator.com/item?id=40307468) - [FDA recalls defective iOS app that injured over 200 insulin pump users](https://www.theverge.com/2024/5/9/24152633/fda-recall-tandem-diabetes-care-insulin-pump-mobile-app)
