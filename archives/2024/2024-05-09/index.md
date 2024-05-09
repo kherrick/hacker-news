@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-09](index.md)
 
+* [2024-05-09, 12:23:52](https://news.ycombinator.com/item?id=40307468) - [FDA recalls defective iOS app that injured over 200 insulin pump users](https://www.theverge.com/2024/5/9/24152633/fda-recall-tandem-diabetes-care-insulin-pump-mobile-app)
 * [2024-05-09, 12:09:32](https://news.ycombinator.com/item?id=40307355) - [Stack Overflow Community Is Not Happy with the OpenAI Deal](https://favtutor.com/articles/stack-overflow-community-not-happy-openai/)
 * [2024-05-09, 11:31:27](https://news.ycombinator.com/item?id=40307098) - [Algebraic Data Types for C99](https://github.com/Hirrolot/datatype99)
 * [2024-05-09, 11:29:32](https://news.ycombinator.com/item?id=40307089) - [Show HN: Browser-based knitting (pattern) software](https://github.com/alefore/knit)
@@ -26,6 +27,7 @@
 * [2024-05-09, 04:10:54](https://news.ycombinator.com/item?id=40305234) - [Brain Worms: A Scientific Inquiry](https://www.theatlantic.com/health/archive/2024/05/robert-kennedy-brain-worms-neurocysticercosis/678331/)
 * [2024-05-09, 03:27:12](https://news.ycombinator.com/item?id=40305033) - [An Unusual Furniture Design Niche: Behind-the-Sofa Consoles](https://www.core77.com/posts/132116/An-Unusual-Furniture-Design-Niche-Behind-the-Sofa-Consoles)
 * [2024-05-09, 03:02:02](https://news.ycombinator.com/item?id=40304901) - [Shell sold carbon credits for carbon that was never captured](https://www.cbc.ca/news/climate/shell-greenpeace-quest-1.7196792)
+* [2024-05-09, 02:33:51](https://news.ycombinator.com/item?id=40304717) - [Sony Wearable Thermal Device](https://www.sony.com.hk/reonpocket/en/)
 * [2024-05-09, 02:24:20](https://news.ycombinator.com/item?id=40304674) - [Neuralink's first in-human brain implant has experienced a problem, company says](https://www.cnbc.com/2024/05/08/neuralinks-first-in-human-brain-implant-has-experienced-a-problem-company-says-.html)
 * [2024-05-09, 02:10:00](https://news.ycombinator.com/item?id=40304601) - [A look inside illegal drone deliveries at B.C.'s prisons](https://www.vancouverisawesome.com/highlights/watch-a-look-inside-illegal-drone-deliveries-at-bcs-prisons-8706734)
 * [2024-05-09, 01:59:39](https://news.ycombinator.com/item?id=40304549) - [How Ahrefs Gets a Billion Dollar-Worth Infrastructure with a 90% Discount](https://tech.ahrefs.com/how-ahrefs-gets-a-billion-dollar-worth-infrastructure-with-a-90-discount-5edd473b2399)
