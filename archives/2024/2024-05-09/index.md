@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-09](index.md)
 
+* [2024-05-09, 14:27:04](https://news.ycombinator.com/item?id=40308571) - [Breaking Signal Messenger's Post-Compromise Security Through a Malicious Device [pdf]](https://eprint.iacr.org/2021/626.pdf)
 * [2024-05-09, 13:53:06](https://news.ycombinator.com/item?id=40308261) - [Microsoft PlayReady – Complete Client Identity Compromise](https://seclists.org/fulldisclosure/2024/May/5)
 * [2024-05-09, 13:33:33](https://news.ycombinator.com/item?id=40308063) - [Microsoft employees spent years fighting the tech giant's oil ties](https://grist.org/accountability/microsoft-employees-spent-years-fighting-the-tech-giants-oil-ties-now-theyre-speaking-out/)
 * [2024-05-09, 13:32:04](https://news.ycombinator.com/item?id=40308044) - [VideoPrism: A foundational visual encoder for video understanding](https://research.google/blog/videoprism-a-foundational-visual-encoder-for-video-understanding/)
