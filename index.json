@@ -1,6 +1,46 @@
 [
   [
     [
+      "2024-05-09, 17:00:54",
+      "https://news.ycombinator.com/item?id=40310278"
+    ],
+    [
+      "Freshpaint (YC S19) is hiring software engineers to protect patient privacy",
+      "https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn"
+    ]
+  ],
+  [
+    [
+      "2024-05-09, 16:59:30",
+      "https://news.ycombinator.com/item?id=40310257"
+    ],
+    [
+      "Andrew Huberman's Claims About Cannabis Annoy Drug Experts",
+      "https://www.rollingstone.com/culture/culture-features/andrew-huberman-cannabis-misinformation-slammed-by-experts-1235016613/"
+    ]
+  ],
+  [
+    [
+      "2024-05-09, 16:56:07",
+      "https://news.ycombinator.com/item?id=40310220"
+    ],
+    [
+      "Hertz Charged Member $277 for Not Filling Gas Tank on a Tesla, Won't Remove Fees",
+      "https://viewfromthewing.com/hertz-charged-presidents-circle-member-277-for-not-filling-gas-tank-on-a-tesla-wont-remove-fees/"
+    ]
+  ],
+  [
+    [
+      "2024-05-09, 16:52:27",
+      "https://news.ycombinator.com/item?id=40310170"
+    ],
+    [
+      "Tesla Quietly Removes All U.S. Job Postings",
+      "https://gizmodo.com/tesla-hiring-freeze-job-postings-elon-musk-layoffs-1851464758"
+    ]
+  ],
+  [
+    [
       "2024-05-09, 16:34:17",
       "https://news.ycombinator.com/item?id=40309957"
     ],
@@ -17,6 +57,26 @@
     [
       "Familial Transmission of Personality Is Higher Than Shown in Typical Studies",
       "https://osf.io/preprints/psyarxiv/7ygp6"
+    ]
+  ],
+  [
+    [
+      "2024-05-09, 16:17:14",
+      "https://news.ycombinator.com/item?id=40309759"
+    ],
+    [
+      "ESP32 Drum Synth Machine",
+      "https://github.com/zircothc/DRUM_2004_V1"
+    ]
+  ],
+  [
+    [
+      "2024-05-09, 16:14:47",
+      "https://news.ycombinator.com/item?id=40309719"
+    ],
+    [
+      "Show HN: Ellipsis – Automated PR reviews and bug fixes",
+      "https://www.ellipsis.dev/"
     ]
   ],
   [
@@ -71,16 +131,6 @@
   ],
   [
     [
-      "2024-05-09, 13:21:03",
-      "https://news.ycombinator.com/item?id=40307950"
-    ],
-    [
-      "Show HN: LLM-UI – A library for building LLM UIs",
-      "https://llm-ui.com/"
-    ]
-  ],
-  [
-    [
       "2024-05-09, 13:08:05",
       "https://news.ycombinator.com/item?id=40307832"
     ],
@@ -131,16 +181,6 @@
   ],
   [
     [
-      "2024-05-09, 11:33:49",
-      "https://news.ycombinator.com/item?id=40307108"
-    ],
-    [
-      "What I mean when I say that machine learning in Elixir is production-ready",
-      "https://cigrainger.com/elixirconf-eu-2024-keynote/"
-    ]
-  ],
-  [
-    [
       "2024-05-09, 11:31:27",
       "https://news.ycombinator.com/item?id=40307098"
     ],
@@ -181,16 +221,6 @@
   ],
   [
     [
-      "2024-05-09, 07:00:03",
-      "https://news.ycombinator.com/item?id=40305947"
-    ],
-    [
-      "CodeStory (YC S23) Is Hiring a Founding Engineer for Building AI-Native IDE",
-      "https://www.workatastartup.com/companies/codestory"
-    ]
-  ],
-  [
-    [
       "2024-05-08, 23:14:28",
       "https://news.ycombinator.com/item?id=40303661"
     ],
@@ -221,16 +251,6 @@
   ],
   [
     [
-      "2024-05-08, 17:09:17",
-      "https://news.ycombinator.com/item?id=40300454"
-    ],
-    [
-      "Development Notes from xkcd's \"Machine\"",
-      "https://chromakode.com/post/xkcd-machine/"
-    ]
-  ],
-  [
-    [
       "2024-05-08, 15:07:10",
       "https://news.ycombinator.com/item?id=40298927"
     ],
@@ -241,32 +261,12 @@
   ],
   [
     [
-      "2024-05-08, 13:34:34",
-      "https://news.ycombinator.com/item?id=40297946"
-    ],
-    [
-      "TimesFM: Time Series Foundation Model for time-series forecasting",
-      "https://github.com/google-research/timesfm"
-    ]
-  ],
-  [
-    [
       "2024-05-08, 12:41:28",
       "https://news.ycombinator.com/item?id=40297423"
     ],
     [
       "Symbolica Computer Algebra System",
       "https://symbolica.io/"
-    ]
-  ],
-  [
-    [
-      "2024-05-07, 19:52:08",
-      "https://news.ycombinator.com/item?id=40290735"
-    ],
-    [
-      "Show HN: Tegon: AI-first open source alternative to Jira and Linear",
-      "https://github.com/tegonhq/tegon"
     ]
   ],
   [
