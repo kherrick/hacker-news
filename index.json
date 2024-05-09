@@ -71,12 +71,32 @@
   ],
   [
     [
+      "2024-05-09, 12:21:53",
+      "https://news.ycombinator.com/item?id=40307454"
+    ],
+    [
+      "Show HN: An SQS Alternative on Postgres",
+      "https://github.com/tembo-io/pgmq"
+    ]
+  ],
+  [
+    [
       "2024-05-09, 12:20:12",
       "https://news.ycombinator.com/item?id=40307441"
     ],
     [
       "The deep ocean photographer that captured a 'living fossil'",
       "https://www.bbc.com/future/article/20240507-the-deep-ocean-photographer-that-captured-a-living-fossil"
+    ]
+  ],
+  [
+    [
+      "2024-05-09, 11:33:49",
+      "https://news.ycombinator.com/item?id=40307108"
+    ],
+    [
+      "What I mean when I say that machine learning in Elixir is production-ready",
+      "https://cigrainger.com/elixirconf-eu-2024-keynote/"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2024-05-08, 16:41:12",
-      "https://news.ycombinator.com/item?id=40300126"
-    ],
-    [
-      "Show HN: I built a non-linear UI for ChatGPT",
-      "https://www.grafychat.com"
-    ]
-  ],
-  [
-    [
       "2024-05-08, 15:07:10",
       "https://news.ycombinator.com/item?id=40298927"
     ],
@@ -237,16 +247,6 @@
     [
       "TimesFM: Time Series Foundation Model for time-series forecasting",
       "https://github.com/google-research/timesfm"
-    ]
-  ],
-  [
-    [
-      "2024-05-08, 12:41:28",
-      "https://news.ycombinator.com/item?id=40297423"
-    ],
-    [
-      "Symbolica Computer Algebra System",
-      "https://symbolica.io/"
     ]
   ],
   [
