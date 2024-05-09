@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-09](index.md)
 
+* [2024-05-09, 18:50:20](https://news.ycombinator.com/item?id=40311615) - [Evidence on the presence and history of assortative mating](https://www.nature.com/articles/s41467-024-46939-9)
 * [2024-05-09, 18:31:26](https://news.ycombinator.com/item?id=40311345) - [Amtrak no longer living hand to mouth after being funding-starved for decades](https://fortune.com/2024/05/06/amtrak-infrastructure-biden-transportation-railroads-travel-stephen-gardner-federal-goverment/)
 * [2024-05-09, 17:54:49](https://news.ycombinator.com/item?id=40310896) - [It's always TCP_NODELAY. Every damn time](https://brooker.co.za/blog/2024/05/09/nagle.html)
 * [2024-05-09, 17:54:36](https://news.ycombinator.com/item?id=40310893) - [Dear Tim Cook: Be a Decent Human Being and Delete This Revolting Apple Ad](https://www.rogerebert.com/mzs/dear-tim-cook-be-a-decent-human-being-and-delete-this-horrible-violent-depressing-ad-for-your-product)

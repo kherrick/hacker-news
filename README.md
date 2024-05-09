@@ -1,14 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-09, 18:50:20](https://news.ycombinator.com/item?id=40311615) - [Evidence on the presence and history of assortative mating](https://www.nature.com/articles/s41467-024-46939-9)
 * [2024-05-09, 17:54:49](https://news.ycombinator.com/item?id=40310896) - [It's always TCP_NODELAY. Every damn time](https://brooker.co.za/blog/2024/05/09/nagle.html)
-* [2024-05-09, 17:13:59](https://news.ycombinator.com/item?id=40310402) - [Sean Baxter: Safe C++ [video]](https://www.youtube.com/watch?v=5Q1awoAwBgQ)
 * [2024-05-09, 17:00:54](https://news.ycombinator.com/item?id=40310278) - [Freshpaint (YC S19) is hiring software engineers to protect patient privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 * [2024-05-09, 16:56:55](https://news.ycombinator.com/item?id=40310228) - [Leaked Deck Reveals How OpenAI Is Pitching Publisher Partnerships](https://www.adweek.com/media/openai-preferred-publisher-program-deck/)
 * [2024-05-09, 16:24:38](https://news.ycombinator.com/item?id=40309840) - [Familial Transmission of Personality Is Higher Than Shown in Typical Studies](https://osf.io/preprints/psyarxiv/7ygp6)
 * [2024-05-09, 16:19:32](https://news.ycombinator.com/item?id=40309780) - [Shane Legg: Machine Super Intelligence (2008) [pdf]](https://www.vetta.org/documents/Machine_Super_Intelligence.pdf)
 * [2024-05-09, 16:17:14](https://news.ycombinator.com/item?id=40309759) - [ESP32 Drum Synth Machine](https://github.com/zircothc/DRUM_2004_V1)
 * [2024-05-09, 16:14:47](https://news.ycombinator.com/item?id=40309719) - [Show HN: Ellipsis – Automated PR reviews and bug fixes](https://www.ellipsis.dev/)
-* [2024-05-09, 16:12:06](https://news.ycombinator.com/item?id=40309685) - [Blade Runner](https://www.filfre.net/2024/05/blade-runner/)
 * [2024-05-09, 15:49:47](https://news.ycombinator.com/item?id=40309448) - [Show HN: An open source alternative to some of Slack AI's premium features](https://github.com/meetbryce/open-source-slack-ai)
 * [2024-05-09, 15:38:48](https://news.ycombinator.com/item?id=40309342) - [Launch HN: Muddy (YC S19) – Multiplayer browser for getting work done](https://news.ycombinator.com/item?id=40309342)
 * [2024-05-09, 14:56:43](https://news.ycombinator.com/item?id=40308884) - [A Brief History of the First Planetarium](https://spectrum.ieee.org/planetarium-history)
@@ -29,6 +28,7 @@
 * [2024-05-08, 12:41:28](https://news.ycombinator.com/item?id=40297423) - [Symbolica Computer Algebra System](https://symbolica.io/)
 * [2024-05-08, 11:25:49](https://news.ycombinator.com/item?id=40296734) - [Logarithmic Scales](https://briefer.cloud/blog/posts/logarithms/)
 * [2024-05-07, 15:56:41](https://news.ycombinator.com/item?id=40287341) - [Temporal Python – A durable, distributed asyncio event loop (2023)](https://temporal.io/blog/durable-distributed-asyncio-event-loop)
+* [2024-05-07, 15:17:03](https://news.ycombinator.com/item?id=40286716) - [History of Information and Media](https://www.historyofinformation.com/index.php)
 * [2024-05-04, 23:06:24](https://news.ycombinator.com/item?id=40261023) - [Hymn for Walpurgisnacht](https://themillions.com/2024/04/hymn-for-walpurgisnacht.html)
 
 ## [Archives](archives/index.md)

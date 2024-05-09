@@ -32,6 +32,7 @@
 * [2024-05-07, 15:29:09](https://news.ycombinator.com/item?id=40286923) - [Giant batteries are transforming the way the U.S. uses electricity](https://www.nytimes.com/interactive/2024/05/07/climate/battery-electricity-solar-california-texas.html)
 * [2024-05-07, 15:18:01](https://news.ycombinator.com/item?id=40286739) - [Theranos fraudster Elizabeth Holmes has prison sentence reduced again](https://www.theguardian.com/us-news/article/2024/may/07/elizabeth-holmes-prison-sentence)
 * [2024-05-07, 15:17:48](https://news.ycombinator.com/item?id=40286734) - [LPCAMM2 is a modular, repairable, upgradeable memory standard for laptops](https://www.ifixit.com/News/95078/lpcamm2-memory-is-finally-here)
+* [2024-05-07, 15:17:03](https://news.ycombinator.com/item?id=40286716) - [History of Information and Media](https://www.historyofinformation.com/index.php)
 * [2024-05-07, 15:12:56](https://news.ycombinator.com/item?id=40286632) - [SecureDrop Protocol](https://securedrop.org/news/introducing-securedrop-protocol/)
 * [2024-05-07, 14:59:51](https://news.ycombinator.com/item?id=40286403) - [How not to change PostgreSQL column type](https://notso.boringsql.com/posts/how-not-to-change-postgresql-column-type/)
 * [2024-05-07, 14:41:38](https://news.ycombinator.com/item?id=40286085) - [Apple Unveils New iPad Pro](https://www.apple.com/newsroom/2024/05/apple-unveils-stunning-new-ipad-pro-with-m4-chip-and-apple-pencil-pro/)
