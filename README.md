@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-09, 09:15:28](https://news.ycombinator.com/item?id=40306490) - [In software architecture you have to recognize when you're adding a rocket stage](https://toot.cat/@plexus/112403882840794498)
 * [2024-05-09, 09:05:31](https://news.ycombinator.com/item?id=40306449) - [Libyear](https://libyear.com/)
 * [2024-05-09, 08:40:27](https://news.ycombinator.com/item?id=40306352) - [UTC, Tai, and Unix Time](https://cr.yp.to/proto/utctai.html)
 * [2024-05-09, 08:09:54](https://news.ycombinator.com/item?id=40306249) - [Tracking Illicit Brazilian Beef from the Amazon to Your Burger](https://e360.yale.edu/features/marcel-gomes-interview)
@@ -24,7 +25,6 @@
 * [2024-05-07, 15:56:41](https://news.ycombinator.com/item?id=40287341) - [Temporal Python – A durable, distributed asyncio event loop (2023)](https://temporal.io/blog/durable-distributed-asyncio-event-loop)
 * [2024-05-07, 11:09:23](https://news.ycombinator.com/item?id=40284225) - [The Birth of Parquet](https://sympathetic.ink/2024/01/24/Chapter-1-The-birth-of-Parquet.html)
 * [2024-05-07, 10:10:33](https://news.ycombinator.com/item?id=40283954) - [Industrial Design Student Work: \"How Long Should Objects Last?\"](https://www.core77.com/posts/132088/Fantastic-Industrial-Design-Student-Work-How-Long-Should-Objects-Last)
-* [2024-05-07, 09:31:44](https://news.ycombinator.com/item?id=40283752) - [Using AirPods as a Morse Transmitter](https://github.com/EtherDream/headphone-morse-transmitter)
 * [2024-05-07, 05:40:42](https://news.ycombinator.com/item?id=40282706) - [Japanese Trade Publications Helped Japan Form a New Graphic Identity (2023)](https://www.collectorsweekly.com/articles/how-a-rare-set-of-japanese-trade-publications-helped-japan-form-a-new-graphic-identity/)
 * [2024-05-07, 05:34:07](https://news.ycombinator.com/item?id=40282671) - [The Waning Reign of the Muskrat](https://hakaimagazine.com/features/the-magnificent-lives-and-quiet-loss-of-muskrats/)
 * [2024-05-06, 11:51:30](https://news.ycombinator.com/item?id=40273516) - [Radius Full Page Display](https://32by32.com/radius-full-page-display/)
