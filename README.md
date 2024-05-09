@@ -2,7 +2,7 @@
 
 * [2024-05-09, 19:22:25](https://news.ycombinator.com/item?id=40311982) - [NASA's Proposed Plasma Rocket Would Get Us to Mars in 2 Months](https://gizmodo.com/nasa-pulsed-plasma-rocket-advanced-concept-mars-1851463831)
 * [2024-05-09, 19:06:18](https://news.ycombinator.com/item?id=40311823) - [Palantir Supplies Israel with New Tools Since Hamas War Started](https://www.bloomberg.com/news/articles/2024-01-10/palantir-supplying-israel-with-new-tools-since-hamas-war-started)
-* [2024-05-09, 18:50:20](https://news.ycombinator.com/item?id=40311615) - [Evidence on the presence and history of assortative mating](https://www.nature.com/articles/s41467-024-46939-9)
+* [2024-05-09, 18:11:46](https://news.ycombinator.com/item?id=40311110) - [DNSecure – a configuration tool of DoT and DoH for iOS and iPadOS](https://github.com/kkebo/DNSecure)
 * [2024-05-09, 17:54:49](https://news.ycombinator.com/item?id=40310896) - [It's always TCP_NODELAY](https://brooker.co.za/blog/2024/05/09/nagle.html)
 * [2024-05-09, 17:00:54](https://news.ycombinator.com/item?id=40310278) - [Freshpaint (YC S19) is hiring software engineers to protect patient privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 * [2024-05-09, 16:56:55](https://news.ycombinator.com/item?id=40310228) - [Leaked deck reveals how OpenAI is pitching publisher partnerships](https://www.adweek.com/media/openai-preferred-publisher-program-deck/)
