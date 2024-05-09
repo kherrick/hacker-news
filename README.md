@@ -5,7 +5,7 @@
 * [2024-05-09, 09:15:28](https://news.ycombinator.com/item?id=40306490) - [In software architecture you have to recognize when you're adding a rocket stage](https://toot.cat/@plexus/112403882840794498)
 * [2024-05-09, 09:08:06](https://news.ycombinator.com/item?id=40306463) - [Xilinx HBM2 Internals](https://lovehindpa.ws/posts/xilinx-hbm2/)
 * [2024-05-09, 09:05:31](https://news.ycombinator.com/item?id=40306449) - [Libyear](https://libyear.com/)
-* [2024-05-09, 08:40:27](https://news.ycombinator.com/item?id=40306352) - [UTC, Tai, and Unix Time](https://cr.yp.to/proto/utctai.html)
+* [2024-05-09, 08:40:27](https://news.ycombinator.com/item?id=40306352) - [UTC, Tai, and Unix Time (2001)](https://cr.yp.to/proto/utctai.html)
 * [2024-05-09, 08:09:54](https://news.ycombinator.com/item?id=40306249) - [Tracking Illicit Brazilian Beef from the Amazon to Your Burger](https://e360.yale.edu/features/marcel-gomes-interview)
 * [2024-05-09, 07:00:03](https://news.ycombinator.com/item?id=40305947) - [CodeStory (YC S23) Is Hiring a Founding Engineer for Building AI-Native IDE](https://www.workatastartup.com/companies/codestory)
 * [2024-05-09, 01:39:27](https://news.ycombinator.com/item?id=40304453) - [The Time I Lied to the CTO and Saved the Day](https://GrumpyOldDev.com/post/the-one-where-i-lie-to-the-cto/)
