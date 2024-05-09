@@ -1,26 +1,6 @@
 [
   [
     [
-      "2024-05-09, 22:50:05",
-      "https://news.ycombinator.com/item?id=40313733"
-    ],
-    [
-      "Apple apologizes for iPad 'Crush' ad that 'missed the mark'",
-      "https://www.theverge.com/2024/5/9/24153113/apple-ipad-ad-crushing-apology"
-    ]
-  ],
-  [
-    [
-      "2024-05-09, 22:43:02",
-      "https://news.ycombinator.com/item?id=40313690"
-    ],
-    [
-      "No Country Should Be Making Speech Rules for the World",
-      "https://www.eff.org/deeplinks/2024/05/no-country-should-be-making-speech-rules-world"
-    ]
-  ],
-  [
-    [
       "2024-05-09, 22:11:41",
       "https://news.ycombinator.com/item?id=40313451"
     ],
@@ -161,6 +141,16 @@
   ],
   [
     [
+      "2024-05-09, 14:56:43",
+      "https://news.ycombinator.com/item?id=40308884"
+    ],
+    [
+      "A Brief History of the First Planetarium",
+      "https://spectrum.ieee.org/planetarium-history"
+    ]
+  ],
+  [
+    [
       "2024-05-09, 13:32:04",
       "https://news.ycombinator.com/item?id=40308044"
     ],
@@ -251,12 +241,32 @@
   ],
   [
     [
+      "2024-05-08, 23:14:28",
+      "https://news.ycombinator.com/item?id=40303661"
+    ],
+    [
+      "Opening Windows in Linux with sockets, bare hands and 200 lines of C",
+      "https://hereket.com/posts/from-scratch-x11-windowing/"
+    ]
+  ],
+  [
+    [
       "2024-05-08, 19:55:07",
       "https://news.ycombinator.com/item?id=40302201"
     ],
     [
       "Consistency LLM: converting LLMs to parallel decoders accelerates inference 3.5x",
       "https://hao-ai-lab.github.io/blogs/cllm/"
+    ]
+  ],
+  [
+    [
+      "2024-05-08, 12:41:28",
+      "https://news.ycombinator.com/item?id=40297423"
+    ],
+    [
+      "Symbolica Computer Algebra System",
+      "https://symbolica.io/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Temporal Python – A durable, distributed asyncio event loop (2023)",
       "https://temporal.io/blog/durable-distributed-asyncio-event-loop"
-    ]
-  ],
-  [
-    [
-      "2024-05-06, 04:02:40",
-      "https://news.ycombinator.com/item?id=40271043"
-    ],
-    [
-      "Toddler Proofing Systemd-Boot",
-      "https://wonky.computer/post/toddler-proofing-systemd-boot/"
     ]
   ],
   [
