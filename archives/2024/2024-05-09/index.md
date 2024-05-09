@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-09](index.md)
 
+* [2024-05-09, 04:10:54](https://news.ycombinator.com/item?id=40305234) - [Brain Worms: A Scientific Inquiry](https://www.theatlantic.com/health/archive/2024/05/robert-kennedy-brain-worms-neurocysticercosis/678331/)
 * [2024-05-09, 03:02:02](https://news.ycombinator.com/item?id=40304901) - [Shell sold carbon credits for carbon that was never captured](https://www.cbc.ca/news/climate/shell-greenpeace-quest-1.7196792)
 * [2024-05-09, 02:24:20](https://news.ycombinator.com/item?id=40304674) - [Neuralink's first in-human brain implant has experienced a problem, company says](https://www.cnbc.com/2024/05/08/neuralinks-first-in-human-brain-implant-has-experienced-a-problem-company-says-.html)
 * [2024-05-09, 02:10:00](https://news.ycombinator.com/item?id=40304601) - [A look inside illegal drone deliveries at B.C.'s prisons](https://www.vancouverisawesome.com/highlights/watch-a-look-inside-illegal-drone-deliveries-at-bcs-prisons-8706734)
