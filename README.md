@@ -1,10 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-09, 02:24:20](https://news.ycombinator.com/item?id=40304674) - [Neuralink's first in-human brain implant has experienced a problem, company says](https://www.cnbc.com/2024/05/08/neuralinks-first-in-human-brain-implant-has-experienced-a-problem-company-says-.html)
 * [2024-05-09, 02:10:00](https://news.ycombinator.com/item?id=40304601) - [A look inside illegal drone deliveries at B.C.'s prisons](https://www.vancouverisawesome.com/highlights/watch-a-look-inside-illegal-drone-deliveries-at-bcs-prisons-8706734)
-* [2024-05-09, 01:59:29](https://news.ycombinator.com/item?id=40304547) - [A dystopian iPad commercial has X ripping Apple for crushing instruments and art](https://ftw.usatoday.com/2024/05/apple-ipad-pro-commercial-bad)
 * [2024-05-09, 01:39:27](https://news.ycombinator.com/item?id=40304453) - [The Time I Lied to the CTO and Saved the Day](https://GrumpyOldDev.com/post/the-one-where-i-lie-to-the-cto/)
-* [2024-05-09, 00:42:40](https://news.ycombinator.com/item?id=40304152) - [Study: Ultra-processed food consumption association with all cause mortality](https://www.bmj.com/content/385/bmj-2023-078476)
 * [2024-05-08, 23:14:28](https://news.ycombinator.com/item?id=40303661) - [Opening Windows in Linux with sockets, bare hands and 200 lines of C](https://hereket.com/posts/from-scratch-x11-windowing/)
 * [2024-05-08, 22:22:22](https://news.ycombinator.com/item?id=40303338) - [Securing Git Repositories with Gittuf](https://lwn.net/SubscriberLink/972467/595a68b99f57a87d/)
 * [2024-05-08, 22:22:08](https://news.ycombinator.com/item?id=40303336) - [Show HN: SimBricks – Modular Full-System Simulation for HW-SW Systems](https://simbricks.github.io/)
@@ -20,7 +17,9 @@
 * [2024-05-08, 13:34:34](https://news.ycombinator.com/item?id=40297946) - [TimesFM: Time Series Foundation Model for time-series forecasting](https://github.com/google-research/timesfm)
 * [2024-05-08, 13:13:22](https://news.ycombinator.com/item?id=40297748) - ['Underwater bicycle' propels swimmers forward at superhuman speed](https://newatlas.com/marine/seabike-swimming-propeller/)
 * [2024-05-08, 12:30:17](https://news.ycombinator.com/item?id=40297280) - [Zimtohrli: A New Psychoacoustic Perceptual Metric for Audio Compression](https://github.com/google/zimtohrli)
+* [2024-05-08, 10:42:02](https://news.ycombinator.com/item?id=40296429) - [Ointers: A library for representing pointers where bits have been stolen (2021)](https://github.com/irrustible/ointers)
 * [2024-05-07, 19:08:11](https://news.ycombinator.com/item?id=40290171) - [Temporal Fuzzing I: Memory Models (2021)](https://www.reitzen.com/post/temporal-fuzzing-01/)
+* [2024-05-07, 14:37:32](https://news.ycombinator.com/item?id=40286029) - [Apple introduces M4 chip](https://www.apple.com/newsroom/2024/05/apple-introduces-m4-chip/)
 * [2024-05-07, 10:10:33](https://news.ycombinator.com/item?id=40283954) - [Industrial Design Student Work: \"How Long Should Objects Last?\"](https://www.core77.com/posts/132088/Fantastic-Industrial-Design-Student-Work-How-Long-Should-Objects-Last)
 * [2024-05-07, 09:31:44](https://news.ycombinator.com/item?id=40283752) - [Using AirPods as a Morse Transmitter](https://github.com/EtherDream/headphone-morse-transmitter)
 * [2024-05-07, 05:40:42](https://news.ycombinator.com/item?id=40282706) - [Japanese Trade Publications Helped Japan Form a New Graphic Identity (2023)](https://www.collectorsweekly.com/articles/how-a-rare-set-of-japanese-trade-publications-helped-japan-form-a-new-graphic-identity/)
@@ -30,6 +29,7 @@
 * [2024-05-06, 11:51:30](https://news.ycombinator.com/item?id=40273516) - [Radius Full Page Display](https://32by32.com/radius-full-page-display/)
 * [2024-05-06, 08:40:02](https://news.ycombinator.com/item?id=40272514) - [How to Use the Foreign Function API in Java 22 to Call C Libraries](https://ifesunmola.com/how-to-use-the-foreign-function-api-in-java-22-to-call-c-libraries/)
 * [2024-05-06, 08:09:38](https://news.ycombinator.com/item?id=40272339) - [Show HN: AI climbing coach – visualize how to climb any route based on your body](https://climbing.ai/)
+* [2024-05-06, 06:35:04](https://news.ycombinator.com/item?id=40271797) - [Pair Your Compilers at the ABI Café](https://faultlore.com/blah/abi-puns/)
 
 ## [Archives](archives/index.md)
 
