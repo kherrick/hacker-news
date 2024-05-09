@@ -6,6 +6,7 @@
 
 * [2024-05-09, 22:50:05](https://news.ycombinator.com/item?id=40313733) - [Apple apologizes for iPad 'Crush' ad that 'missed the mark'](https://www.theverge.com/2024/5/9/24153113/apple-ipad-ad-crushing-apology)
 * [2024-05-09, 22:43:02](https://news.ycombinator.com/item?id=40313690) - [No Country Should Be Making Speech Rules for the World](https://www.eff.org/deeplinks/2024/05/no-country-should-be-making-speech-rules-world)
+* [2024-05-09, 22:42:09](https://news.ycombinator.com/item?id=40313680) - [Dell Has Been Hacked](https://news.ycombinator.com/item?id=40313680)
 * [2024-05-09, 22:11:41](https://news.ycombinator.com/item?id=40313451) - [The World Has (Probably) Passed Peak Pollution](https://www.sustainabilitybynumbers.com/p/peak-pollution)
 * [2024-05-09, 21:36:06](https://news.ycombinator.com/item?id=40313193) - [Cubic millimetre of brain mapped in spectacular detail](https://www.nature.com/articles/d41586-024-01387-9)
 * [2024-05-09, 21:32:20](https://news.ycombinator.com/item?id=40313171) - [Google Cloud accidentally deletes customer's account](https://www.theregister.com/2024/05/09/unisuper_google_cloud_outage_caused/)
