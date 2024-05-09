@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-09](index.md)
 
+* [2024-05-09, 16:34:17](https://news.ycombinator.com/item?id=40309957) - [Leaked FBI Email Reportedly Shows Desperation to Justify Warrantless Wiretaps](https://gizmodo.com/leaked-fbi-email-warrantless-wiretaps-section-702-1851464520)
 * [2024-05-09, 16:24:38](https://news.ycombinator.com/item?id=40309840) - [Familial Transmission of Personality Is Higher Than Shown in Typical Studies](https://osf.io/preprints/psyarxiv/7ygp6)
 * [2024-05-09, 16:20:15](https://news.ycombinator.com/item?id=40309786) - [High prices are not the main cause of low fertility rates in cities](https://twitter.com/MoreBirths/status/1787926538538680514)
 * [2024-05-09, 16:06:14](https://news.ycombinator.com/item?id=40309618) - [Behind the Ivy Intifada](https://www.compactmag.com/article/behind-the-ivy-intifada/)
@@ -27,6 +28,7 @@
 * [2024-05-09, 13:32:04](https://news.ycombinator.com/item?id=40308044) - [VideoPrism: A foundational visual encoder for video understanding](https://research.google/blog/videoprism-a-foundational-visual-encoder-for-video-understanding/)
 * [2024-05-09, 13:28:24](https://news.ycombinator.com/item?id=40308009) - [Walkthrough of a Minimal Vision Transformer (ViT)](https://dmicz.github.io/machine-learning/minvit/)
 * [2024-05-09, 13:27:27](https://news.ycombinator.com/item?id=40307996) - [New AI Tools Predict How Life's Building Blocks Assemble](https://www.quantamagazine.org/new-ai-tools-predict-how-lifes-building-blocks-assemble-20240508/)
+* [2024-05-09, 13:21:03](https://news.ycombinator.com/item?id=40307950) - [Show HN: LLM-UI – A library for building LLM UIs](https://llm-ui.com/)
 * [2024-05-09, 13:15:41](https://news.ycombinator.com/item?id=40307902) - [New UUID formats have been approved](https://www.ietf.org/archive/id/draft-peabody-dispatch-new-uuid-format-01.html)
 * [2024-05-09, 13:08:05](https://news.ycombinator.com/item?id=40307832) - [No \"Zero-Shot\" Without Exponential Data](https://arxiv.org/abs/2404.04125)
 * [2024-05-09, 13:00:18](https://news.ycombinator.com/item?id=40307769) - [Apple's M4 45% faster than M2, 25% faster than M3; Beats Snapdragon X Elite](https://wccftech.com/apple-m4-multi-score-faster-than-m3-and-m2/)
