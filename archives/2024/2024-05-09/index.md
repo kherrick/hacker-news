@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-09](index.md)
 
+* [2024-05-09, 18:31:26](https://news.ycombinator.com/item?id=40311345) - [Amtrak no longer living hand to mouth after being funding-starved for decades](https://fortune.com/2024/05/06/amtrak-infrastructure-biden-transportation-railroads-travel-stephen-gardner-federal-goverment/)
+* [2024-05-09, 17:54:49](https://news.ycombinator.com/item?id=40310896) - [It's always TCP_NODELAY. Every damn time](https://brooker.co.za/blog/2024/05/09/nagle.html)
 * [2024-05-09, 17:54:36](https://news.ycombinator.com/item?id=40310893) - [Dear Tim Cook: Be a Decent Human Being and Delete This Revolting Apple Ad](https://www.rogerebert.com/mzs/dear-tim-cook-be-a-decent-human-being-and-delete-this-horrible-violent-depressing-ad-for-your-product)
 * [2024-05-09, 17:09:02](https://news.ycombinator.com/item?id=40310358) - [The Woman Who Showed President Biden ChatGPT](https://www.wired.com/story/arati-prabhakar-ostp-biden-science-tech-adviser/)
 * [2024-05-09, 17:00:54](https://news.ycombinator.com/item?id=40310278) - [Freshpaint (YC S19) is hiring software engineers to protect patient privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
