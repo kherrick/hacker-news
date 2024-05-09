@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-09](index.md)
 
+* [2024-05-09, 17:09:02](https://news.ycombinator.com/item?id=40310358) - [The Woman Who Showed President Biden ChatGPT](https://www.wired.com/story/arati-prabhakar-ostp-biden-science-tech-adviser/)
 * [2024-05-09, 17:00:54](https://news.ycombinator.com/item?id=40310278) - [Freshpaint (YC S19) is hiring software engineers to protect patient privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 * [2024-05-09, 16:59:30](https://news.ycombinator.com/item?id=40310257) - [Andrew Huberman's Claims About Cannabis Annoy Drug Experts](https://www.rollingstone.com/culture/culture-features/andrew-huberman-cannabis-misinformation-slammed-by-experts-1235016613/)
 * [2024-05-09, 16:56:07](https://news.ycombinator.com/item?id=40310220) - [Hertz Charged Member $277 for Not Filling Gas Tank on a Tesla, Won't Remove Fees](https://viewfromthewing.com/hertz-charged-presidents-circle-member-277-for-not-filling-gas-tank-on-a-tesla-wont-remove-fees/)
@@ -12,8 +13,10 @@
 * [2024-05-09, 16:34:17](https://news.ycombinator.com/item?id=40309957) - [Leaked FBI Email Reportedly Shows Desperation to Justify Warrantless Wiretaps](https://gizmodo.com/leaked-fbi-email-warrantless-wiretaps-section-702-1851464520)
 * [2024-05-09, 16:24:38](https://news.ycombinator.com/item?id=40309840) - [Familial Transmission of Personality Is Higher Than Shown in Typical Studies](https://osf.io/preprints/psyarxiv/7ygp6)
 * [2024-05-09, 16:20:15](https://news.ycombinator.com/item?id=40309786) - [High prices are not the main cause of low fertility rates in cities](https://twitter.com/MoreBirths/status/1787926538538680514)
+* [2024-05-09, 16:19:32](https://news.ycombinator.com/item?id=40309780) - [Machine Super Intelligence [pdf]](https://www.vetta.org/documents/Machine_Super_Intelligence.pdf)
 * [2024-05-09, 16:17:14](https://news.ycombinator.com/item?id=40309759) - [ESP32 Drum Synth Machine](https://github.com/zircothc/DRUM_2004_V1)
 * [2024-05-09, 16:14:47](https://news.ycombinator.com/item?id=40309719) - [Show HN: Ellipsis – Automated PR reviews and bug fixes](https://www.ellipsis.dev/)
+* [2024-05-09, 16:12:06](https://news.ycombinator.com/item?id=40309685) - [Blade Runner](https://www.filfre.net/2024/05/blade-runner/)
 * [2024-05-09, 16:06:14](https://news.ycombinator.com/item?id=40309618) - [Behind the Ivy Intifada](https://www.compactmag.com/article/behind-the-ivy-intifada/)
 * [2024-05-09, 16:05:01](https://news.ycombinator.com/item?id=40309597) - [Neuralink's First Human Brain-Chip Implant Appeared Flawless,There Was a Problem](https://www.wsj.com/tech/neuralinks-first-brain-chip-implant-in-a-human-appeared-flawless-there-was-a-problem-637f1adc)
 * [2024-05-09, 16:04:37](https://news.ycombinator.com/item?id=40309594) - [The new REPL in Python 3.13](https://treyhunner.com/2024/05/my-favorite-python-3-dot-13-feature/)
