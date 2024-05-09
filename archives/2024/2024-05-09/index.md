@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-09](index.md)
 
+* [2024-05-09, 06:04:49](https://news.ycombinator.com/item?id=40305692) - [Disaster Recovery with ZFS and Zrepl](https://chromakode.com/post/zfs-recovery-with-zrepl/)
 * [2024-05-09, 05:55:06](https://news.ycombinator.com/item?id=40305658) - [Match looks to Hinge as Tinder fails](https://techcrunch.com/2024/05/08/match-looks-to-hinge-as-tinder-fails-q1-2024/)
 * [2024-05-09, 05:45:32](https://news.ycombinator.com/item?id=40305614) - [Ask HN: Feels like Search results is weird on Google, You too?](https://news.ycombinator.com/item?id=40305614)
 * [2024-05-09, 04:10:54](https://news.ycombinator.com/item?id=40305234) - [Brain Worms: A Scientific Inquiry](https://www.theatlantic.com/health/archive/2024/05/robert-kennedy-brain-worms-neurocysticercosis/678331/)
