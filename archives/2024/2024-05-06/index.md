@@ -6,6 +6,7 @@
 
 * [2024-05-06, 23:46:49](https://news.ycombinator.com/item?id=40280760) - [A Rosetta Stone for Mathematics: André Weil's 1940 letter](https://www.quantamagazine.org/a-rosetta-stone-for-mathematics-20240506/)
 * [2024-05-06, 23:44:56](https://news.ycombinator.com/item?id=40280747) - [QUAMELEON: QUAntum Materials Engineering using eLEctrOmagNetic fields](https://www.darpa.mil/ARC/QUAMELEON)
+* [2024-05-06, 23:41:45](https://news.ycombinator.com/item?id=40280726) - [How enterprise software is like baby clothing](https://twitter.com/random_walker/status/1182635589604171776)
 * [2024-05-06, 23:34:58](https://news.ycombinator.com/item?id=40280689) - [Proton Mail Discloses User Data Leading to Arrest in Spain](https://restoreprivacy.com/protonmail-discloses-user-data-leading-to-arrest-in-spain/)
 * [2024-05-06, 23:03:34](https://news.ycombinator.com/item?id=40280490) - [Caniemail.com (like caniuse but for email content)](https://www.caniemail.com/)
 * [2024-05-06, 22:31:09](https://news.ycombinator.com/item?id=40280253) - [Teens who discovered new way to prove Pythagoras' theorem uncover more proofs](https://www.theguardian.com/us-news/article/2024/may/06/pythagoras-theorem-proof-new-orleans-teens)

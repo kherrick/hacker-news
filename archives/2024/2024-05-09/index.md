@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-05-09](index.md)
+
+* [2024-05-09, 00:17:22](https://news.ycombinator.com/item?id=40304023) - [Taxpayers Are About to Subsidize a Lot More Sports Stadiums](https://www.theatlantic.com/ideas/archive/2024/05/sports-stadium-subsidies-taxpayer-funding/678319/)
