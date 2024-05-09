@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-05-09](index.md)
 
+* [2024-05-09, 16:05:01](https://news.ycombinator.com/item?id=40309597) - [Neuralink's First Human Brain-Chip Implant Appeared Flawless,There Was a Problem](https://www.wsj.com/tech/neuralinks-first-brain-chip-implant-in-a-human-appeared-flawless-there-was-a-problem-637f1adc)
+* [2024-05-09, 16:04:37](https://news.ycombinator.com/item?id=40309594) - [The new REPL in Python 3.13](https://treyhunner.com/2024/05/my-favorite-python-3-dot-13-feature/)
+* [2024-05-09, 15:49:47](https://news.ycombinator.com/item?id=40309448) - [Show HN: An open source alternative to some of Slack AI's premium features](https://github.com/meetbryce/open-source-slack-ai)
+* [2024-05-09, 15:38:48](https://news.ycombinator.com/item?id=40309342) - [Launch HN: Muddy (YC S19) – Multiplayer browser for getting work done](https://news.ycombinator.com/item?id=40309342)
 * [2024-05-09, 15:30:11](https://news.ycombinator.com/item?id=40309247) - [Children 'piled up and shot': new details emerge of ethnic cleansing in Darfur](https://www.theguardian.com/world/article/2024/may/09/darfur-atrocities-ethnic-cleansing-human-rights-watch-report-rsf-sudan)
 * [2024-05-09, 15:11:32](https://news.ycombinator.com/item?id=40309028) - [Syncing Postgres Partitions to Parquet in S3 in Crunchy Bridge for Analytics](https://www.crunchydata.com/blog/syncing-postgres-partitions-to-your-data-lake-in-bridge-for-analytics)
 * [2024-05-09, 15:10:55](https://news.ycombinator.com/item?id=40309026) - [OpenAI Is Readying a Search Product to Rival Google, Perplexity](https://www.bloomberg.com/news/articles/2024-05-07/openai-is-readying-an-ai-search-product-to-rival-google-perplexity)
@@ -28,6 +32,7 @@
 * [2024-05-09, 12:20:12](https://news.ycombinator.com/item?id=40307441) - [The deep ocean photographer that captured a 'living fossil'](https://www.bbc.com/future/article/20240507-the-deep-ocean-photographer-that-captured-a-living-fossil)
 * [2024-05-09, 12:12:03](https://news.ycombinator.com/item?id=40307375) - [OpenAI Is 'Exploring' How to Responsibly Generate AI Porn](https://www.wired.com/story/openai-is-exploring-how-to-responsibly-generate-ai-porn/)
 * [2024-05-09, 12:09:32](https://news.ycombinator.com/item?id=40307355) - [Stack Overflow Community Is Not Happy with the OpenAI Deal](https://favtutor.com/articles/stack-overflow-community-not-happy-openai/)
+* [2024-05-09, 12:02:17](https://news.ycombinator.com/item?id=40307301) - [Show HN: Timmerse.com (YC W22) Easily create immersive real-time interactions](https://timmerse.com/)
 * [2024-05-09, 11:38:14](https://news.ycombinator.com/item?id=40307138) - [Deaf girl is cured in world first gene therapy trial](https://www.independent.co.uk/news/health/deaf-cure-girl-gene-therapy-b2541735.html)
 * [2024-05-09, 11:33:49](https://news.ycombinator.com/item?id=40307108) - [What I mean when I say that machine learning in Elixir is production-ready](https://cigrainger.com/elixirconf-eu-2024-keynote/)
 * [2024-05-09, 11:31:27](https://news.ycombinator.com/item?id=40307098) - [Algebraic Data Types for C99](https://github.com/Hirrolot/datatype99)
