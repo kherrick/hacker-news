@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-09, 21:36:06](https://news.ycombinator.com/item?id=40313193) - [Cubic millimetre of brain mapped in spectacular detail](https://www.nature.com/articles/d41586-024-01387-9)
-* [2024-05-09, 21:32:20](https://news.ycombinator.com/item?id=40313171) - [Google Cloud accidentally deletes customer's account](https://www.theregister.com/2024/05/09/unisuper_google_cloud_outage_caused/)
 * [2024-05-09, 21:28:43](https://news.ycombinator.com/item?id=40313143) - [Sioyek is a PDF viewer with a focus on textbooks and research papers](https://github.com/ahrm/sioyek)
+* [2024-05-09, 21:24:33](https://news.ycombinator.com/item?id=40313111) - [Unpoly is what Hotwire should have been](https://randomwik.org/posts/unpoly-is-what-hotwire-should-have-been/)
 * [2024-05-09, 20:14:39](https://news.ycombinator.com/item?id=40312500) - [Being Green: A new book marvels at the strangeness of plants](https://slate.com/culture/2024/05/light-eaters-zoe-schlanger-book-plant-intelligence.html)
 * [2024-05-09, 20:11:21](https://news.ycombinator.com/item?id=40312469) - [How bad are satellite megaconstellations for astronomy?](https://www.leonarddavid.com/blinded-by-the-light-megaconstellation-clash-with-astronomical-peer-groups/)
 * [2024-05-09, 20:07:30](https://news.ycombinator.com/item?id=40312434) - [The Ridiculous History of 'OK'](https://people.howstuffworks.com/history-ok.htm)
