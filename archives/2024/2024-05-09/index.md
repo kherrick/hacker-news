@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-09](index.md)
 
+* [2024-05-09, 14:35:25](https://news.ycombinator.com/item?id=40308657) - [How Bad Are Ultraprocessed Foods, Really?](https://www.nytimes.com/2024/05/06/well/eat/ultraprocessed-foods-harmful-health.html)
 * [2024-05-09, 14:27:04](https://news.ycombinator.com/item?id=40308571) - [Breaking Signal Messenger's Post-Compromise Security Through a Malicious Device [pdf]](https://eprint.iacr.org/2021/626.pdf)
 * [2024-05-09, 13:53:06](https://news.ycombinator.com/item?id=40308261) - [Microsoft PlayReady – Complete Client Identity Compromise](https://seclists.org/fulldisclosure/2024/May/5)
 * [2024-05-09, 13:33:33](https://news.ycombinator.com/item?id=40308063) - [Microsoft employees spent years fighting the tech giant's oil ties](https://grist.org/accountability/microsoft-employees-spent-years-fighting-the-tech-giants-oil-ties-now-theyre-speaking-out/)
@@ -22,6 +23,7 @@
 * [2024-05-09, 11:31:27](https://news.ycombinator.com/item?id=40307098) - [Algebraic Data Types for C99](https://github.com/Hirrolot/datatype99)
 * [2024-05-09, 11:29:32](https://news.ycombinator.com/item?id=40307089) - [Show HN: Browser-based knitting (pattern) software](https://github.com/alefore/knit)
 * [2024-05-09, 11:28:53](https://news.ycombinator.com/item?id=40307084) - [Boeing 737 crashes during take-off in Senegal](https://www.bbc.co.uk/news/articles/ce5ljpnggp4o)
+* [2024-05-09, 11:28:30](https://news.ycombinator.com/item?id=40307078) - [Test Failures Should Be Actionable](https://testing.googleblog.com/2024/05/test-failures-should-be-actionable.html)
 * [2024-05-09, 11:18:23](https://news.ycombinator.com/item?id=40307015) - [Autopsy Cardiac Findings in 2 Adolescents Following Second Covid-19 Vaccine Dose](https://meridian.allenpress.com/aplm/article/146/8/925/477788/Autopsy-Histopathologic-Cardiac-Findings-in-2)
 * [2024-05-09, 11:04:46](https://news.ycombinator.com/item?id=40306941) - [Dell responds to return-to-office resistance with VPN, badge tracking](https://arstechnica.com/information-technology/2024/05/dell-to-monitor-worker-vpn-use-badge-swipes-to-enforce-office-policy/)
 * [2024-05-09, 11:00:38](https://news.ycombinator.com/item?id=40306926) - [Pyrrhic Victory](https://en.wikipedia.org/wiki/Pyrrhic_victory)
