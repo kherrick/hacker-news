@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-09](index.md)
 
+* [2024-05-09, 20:16:40](https://news.ycombinator.com/item?id=40312518) - [California's electricity rates will shift to a fixed fee based on income](https://calmatters.org/housing/2024/05/californians-electricity-rates/)
+* [2024-05-09, 20:11:21](https://news.ycombinator.com/item?id=40312469) - [How bad are satellite megaconstellations for astronomy?](https://www.leonarddavid.com/blinded-by-the-light-megaconstellation-clash-with-astronomical-peer-groups/)
 * [2024-05-09, 19:22:25](https://news.ycombinator.com/item?id=40311982) - [NASA's Proposed Plasma Rocket Would Get Us to Mars in 2 Months](https://gizmodo.com/nasa-pulsed-plasma-rocket-advanced-concept-mars-1851463831)
 * [2024-05-09, 19:06:18](https://news.ycombinator.com/item?id=40311823) - [Palantir Supplies Israel with New Tools Since Hamas War Started](https://www.bloomberg.com/news/articles/2024-01-10/palantir-supplying-israel-with-new-tools-since-hamas-war-started)
 * [2024-05-09, 18:59:48](https://news.ycombinator.com/item?id=40311724) - [OpenAI destroyed a trove of books used to train AI models](https://www.businessinsider.com/openai-destroyed-ai-training-datasets-lawsuit-authors-books-copyright-2024-5)

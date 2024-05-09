@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-09, 20:16:40](https://news.ycombinator.com/item?id=40312518) - [California's electricity rates will shift to a fixed fee based on income](https://calmatters.org/housing/2024/05/californians-electricity-rates/)
+* [2024-05-09, 20:11:21](https://news.ycombinator.com/item?id=40312469) - [How bad are satellite megaconstellations for astronomy?](https://www.leonarddavid.com/blinded-by-the-light-megaconstellation-clash-with-astronomical-peer-groups/)
 * [2024-05-09, 19:22:25](https://news.ycombinator.com/item?id=40311982) - [NASA's Proposed Plasma Rocket Would Get Us to Mars in 2 Months](https://gizmodo.com/nasa-pulsed-plasma-rocket-advanced-concept-mars-1851463831)
 * [2024-05-09, 18:11:46](https://news.ycombinator.com/item?id=40311110) - [DNSecure – a configuration tool of DoT and DoH for iOS and iPadOS](https://github.com/kkebo/DNSecure)
 * [2024-05-09, 17:54:49](https://news.ycombinator.com/item?id=40310896) - [It's always TCP_NODELAY](https://brooker.co.za/blog/2024/05/09/nagle.html)
@@ -9,7 +11,6 @@
 * [2024-05-09, 16:19:32](https://news.ycombinator.com/item?id=40309780) - [Shane Legg: Machine Super Intelligence (2008) [pdf]](https://www.vetta.org/documents/Machine_Super_Intelligence.pdf)
 * [2024-05-09, 16:17:14](https://news.ycombinator.com/item?id=40309759) - [ESP32 Drum Synth Machine](https://github.com/zircothc/DRUM_2004_V1)
 * [2024-05-09, 16:14:47](https://news.ycombinator.com/item?id=40309719) - [Show HN: Ellipsis – Automated PR reviews and bug fixes](https://www.ellipsis.dev/)
-* [2024-05-09, 15:49:47](https://news.ycombinator.com/item?id=40309448) - [Show HN: An open source alternative to some of Slack AI's premium features](https://github.com/meetbryce/open-source-slack-ai)
 * [2024-05-09, 15:38:48](https://news.ycombinator.com/item?id=40309342) - [Launch HN: Muddy (YC S19) – Multiplayer browser for getting work done](https://news.ycombinator.com/item?id=40309342)
 * [2024-05-09, 14:56:43](https://news.ycombinator.com/item?id=40308884) - [A Brief History of the First Planetarium](https://spectrum.ieee.org/planetarium-history)
 * [2024-05-09, 13:32:04](https://news.ycombinator.com/item?id=40308044) - [VideoPrism: A foundational visual encoder for video understanding](https://research.google/blog/videoprism-a-foundational-visual-encoder-for-video-understanding/)
@@ -25,7 +26,6 @@
 * [2024-05-08, 23:14:28](https://news.ycombinator.com/item?id=40303661) - [Opening Windows in Linux with sockets, bare hands and 200 lines of C](https://hereket.com/posts/from-scratch-x11-windowing/)
 * [2024-05-08, 19:55:07](https://news.ycombinator.com/item?id=40302201) - [Consistency LLM: converting LLMs to parallel decoders accelerates inference 3.5x](https://hao-ai-lab.github.io/blogs/cllm/)
 * [2024-05-08, 15:07:10](https://news.ycombinator.com/item?id=40298927) - [AlphaFold 3 predicts the structure and interactions of life's molecules](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/)
-* [2024-05-08, 12:41:28](https://news.ycombinator.com/item?id=40297423) - [Symbolica Computer Algebra System](https://symbolica.io/)
 * [2024-05-08, 11:25:49](https://news.ycombinator.com/item?id=40296734) - [Logarithmic Scales](https://briefer.cloud/blog/posts/logarithms/)
 * [2024-05-07, 15:56:41](https://news.ycombinator.com/item?id=40287341) - [Temporal Python – A durable, distributed asyncio event loop (2023)](https://temporal.io/blog/durable-distributed-asyncio-event-loop)
 * [2024-05-07, 15:17:03](https://news.ycombinator.com/item?id=40286716) - [History of Information and Media](https://www.historyofinformation.com/index.php)
