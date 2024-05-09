@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-05-09, 22:42:09",
-      "https://news.ycombinator.com/item?id=40313680"
-    ],
-    [
-      "Dell Has Been Hacked",
-      "https://news.ycombinator.com/item?id=40313680"
-    ]
-  ],
-  [
-    [
       "2024-05-09, 22:11:41",
       "https://news.ycombinator.com/item?id=40313451"
     ],
@@ -277,6 +267,16 @@
     [
       "Logarithmic Scales",
       "https://briefer.cloud/blog/posts/logarithms/"
+    ]
+  ],
+  [
+    [
+      "2024-05-07, 15:56:41",
+      "https://news.ycombinator.com/item?id=40287341"
+    ],
+    [
+      "Temporal Python – A durable, distributed asyncio event loop (2023)",
+      "https://temporal.io/blog/durable-distributed-asyncio-event-loop"
     ]
   ],
   [
