@@ -1,14 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-10, 18:13:31](https://news.ycombinator.com/item?id=40322082) - [Wookieepedia: Wiki encyclopedia on the Star Wars universe](https://starwars.fandom.com/wiki/Main_Page)
 * [2024-05-10, 18:05:04](https://news.ycombinator.com/item?id=40321974) - [200+ People With Diabetes Injured After Software Drained Insulin Pump Batteries](https://www.cnn.com/2024/05/08/health/tandem-insulin-pump-app-recall/index.html)
 * [2024-05-10, 17:55:08](https://news.ycombinator.com/item?id=40321867) - [Spider-Man (Neversoft) Decompilation Project Progress Checkpoint – May 2024](https://krystalgamer.github.io/spidey-decomp-status-may/)
 * [2024-05-10, 17:50:52](https://news.ycombinator.com/item?id=40321821) - [Coronal mass ejection impact imminent, Two more earth-directed CMEs](https://www.spaceweatherlive.com/en/news/view/533/20240510-cme-impact-imminent-two-more-earth-directed-cmes.html)
-* [2024-05-10, 17:44:44](https://news.ycombinator.com/item?id=40321738) - [OpenAI demo some ChatGPT and GPT-4 updates on 13 May](https://openai.com/)
 * [2024-05-10, 17:35:39](https://news.ycombinator.com/item?id=40321635) - [GhostStripe attack haunts self-driving cars by making them ignore road signs](https://www.theregister.com/2024/05/10/baidu_apollo_hack/)
 * [2024-05-10, 16:32:41](https://news.ycombinator.com/item?id=40320900) - [A Skeptic's Take on Beaming Power to Earth from Space](https://spectrum.ieee.org/space-based-solar-power-2667878868)
 * [2024-05-10, 15:51:01](https://news.ycombinator.com/item?id=40320406) - [Jim Simons has died](https://www.simonsfoundation.org/2024/05/10/simons-foundation-co-founder-mathematician-and-investor-jim-simons-dies-at-86/)
 * [2024-05-10, 15:28:49](https://news.ycombinator.com/item?id=40320154) - [Is AI lying to me? Scientists warn of growing capacity for deception](https://www.theguardian.com/technology/article/2024/may/10/is-ai-lying-to-me-scientists-warn-of-growing-capacity-for-deception)
-* [2024-05-10, 13:35:42](https://news.ycombinator.com/item?id=40318804) - [OpenBSD Desktop](https://x61.ar/log/2024/05/06052024135732-openbsd_desktop.html)
 * [2024-05-10, 13:27:20](https://news.ycombinator.com/item?id=40318714) - [Superfile – A fancy, pretty terminal file manager](https://github.com/MHNightCat/superfile)
 * [2024-05-10, 13:08:38](https://news.ycombinator.com/item?id=40318542) - [Show HN: A web debugger an ex-Cloudflare team has been working on for 4 years](https://news.ycombinator.com/item?id=40318542)
 * [2024-05-10, 13:08:23](https://news.ycombinator.com/item?id=40318538) - [The API database architecture – Stop writing HTTP-GET endpoints](https://www.fabianzeindl.com/posts/the-api-database-architecture)
@@ -28,6 +27,7 @@
 * [2024-05-08, 13:03:12](https://news.ycombinator.com/item?id=40297642) - [Logicola 3](https://medium.com/@malikpiara/introducing-logicola-3-1aa4047ee335)
 * [2024-05-08, 05:30:03](https://news.ycombinator.com/item?id=40294660) - [Show HN: A simple 2D fluid and gravity simulation with WASM and WebGL](https://aestuans.github.io/blob/)
 * [2024-05-07, 20:23:29](https://news.ycombinator.com/item?id=40291012) - [Sound-suppressing silk can create quiet spaces](https://news.mit.edu/2024/sound-suppressing-silk-can-create-quiet-spaces-0507)
+* [2024-05-06, 04:06:09](https://news.ycombinator.com/item?id=40271057) - [Laudatio Turiae](https://en.wikipedia.org/wiki/Laudatio_Turiae)
 * [2024-05-05, 16:12:30](https://news.ycombinator.com/item?id=40265928) - [I was at the clapperboard for Orson Welles' drunk wine commercial (2021)](https://melmagazine.com/en-us/story/orson-welles-drunk-wine-commercial)
 * [2024-05-04, 17:01:25](https://news.ycombinator.com/item?id=40258903) - [Deno KV internals: building a database for the modern web](https://deno.com/blog/building-deno-kv)
 
