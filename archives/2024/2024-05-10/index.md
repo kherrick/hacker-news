@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-05-10](index.md)
 
+* [2024-05-10, 04:43:01](https://news.ycombinator.com/item?id=40315551) - [Polestar eliminates the rear window in latest electric car](https://www.dezeen.com/2024/02/06/polestar-4-eliminiates-rear-window/)
 * [2024-05-10, 04:19:52](https://news.ycombinator.com/item?id=40315480) - [Apple to Power AI Features with M2 Ultra Servers](https://www.macrumors.com/2024/05/09/apple-to-power-ai-features-with-m2-ultra-servers/)
 * [2024-05-10, 04:05:29](https://news.ycombinator.com/item?id=40315434) - [Player-Driven Emergence in LLM-Driven Game Narrative](https://arxiv.org/abs/2404.17027)
+* [2024-05-10, 03:58:42](https://news.ycombinator.com/item?id=40315400) - [Object oriented design patterns in the Linux kernel](https://lwn.net/Articles/444910/)
 * [2024-05-10, 03:56:38](https://news.ycombinator.com/item?id=40315394) - [NOAA Forecasts Solar Storm (G4)](https://www.swpc.noaa.gov/news/media-advisory-noaa-forecasts-severe-solar-storm-media-availability-scheduled-friday-may-10)
 * [2024-05-10, 03:33:11](https://news.ycombinator.com/item?id=40315274) - [The Most Backdoor-Looking Bug I've Ever Seen](https://words.filippo.io/dispatches/telegram-ecdh/)
+* [2024-05-10, 02:46:11](https://news.ycombinator.com/item?id=40315022) - [Energy-Efficient Llama 2 Inference on FPGAs via High Level Synthesis](https://arxiv.org/abs/2405.00738)
 * [2024-05-10, 02:45:35](https://news.ycombinator.com/item?id=40315018) - [Is the Backlash to Universities Becoming Real?](https://www.tabletmag.com/sections/news/articles/backlash-universities-real-dei-richard-hanania)
 * [2024-05-10, 02:30:07](https://news.ycombinator.com/item?id=40314960) - [The Ukraine war is driving rapid innovation in drone technology](https://www.understandingai.org/p/the-ukraine-war-is-driving-rapid)
 * [2024-05-10, 02:19:26](https://news.ycombinator.com/item?id=40314913) - [Fobos SDR: 14-bit, 100 kHz to 6 GHz SDR, up to 50-MHz bandwidth, receive only](https://rigexpert.com/products/software-defined-radio-sdr/fobos-sdr/)
