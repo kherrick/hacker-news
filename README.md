@@ -6,7 +6,6 @@
 * [2024-05-10, 04:43:01](https://news.ycombinator.com/item?id=40315551) - [Polestar eliminates the rear window in latest electric car](https://www.dezeen.com/2024/02/06/polestar-4-eliminiates-rear-window/)
 * [2024-05-10, 04:05:29](https://news.ycombinator.com/item?id=40315434) - [Player-Driven Emergence in LLM-Driven Game Narrative](https://arxiv.org/abs/2404.17027)
 * [2024-05-10, 03:58:42](https://news.ycombinator.com/item?id=40315400) - [Object oriented design patterns in the Linux kernel (2011)](https://lwn.net/Articles/444910/)
-* [2024-05-10, 03:33:11](https://news.ycombinator.com/item?id=40315274) - [The most backdoor-looking bug I've ever seen (2021)](https://words.filippo.io/dispatches/telegram-ecdh/)
 * [2024-05-10, 02:46:11](https://news.ycombinator.com/item?id=40315022) - [Energy-Efficient Llama 2 Inference on FPGAs via High Level Synthesis](https://arxiv.org/abs/2405.00738)
 * [2024-05-10, 00:16:39](https://news.ycombinator.com/item?id=40314285) - [Weapons in Space Technology, Politics, and the Rise and Fall of SDI](https://direct.mit.edu/books/oa-monograph/5770/Weapons-in-SpaceTechnology-Politics-and-the-Rise)
 * [2024-05-10, 00:09:11](https://news.ycombinator.com/item?id=40314236) - [CS388: Natural Language Processing](https://www.cs.utexas.edu/~gdurrett/courses/online-course/materials.html)
@@ -21,7 +20,7 @@
 * [2024-05-09, 12:31:04](https://news.ycombinator.com/item?id=40307519) - [Show HN: Exploring HN by mapping and analyzing 40M posts and comments for fun](https://blog.wilsonl.in/hackerverse/)
 * [2024-05-09, 12:21:53](https://news.ycombinator.com/item?id=40307454) - [Show HN: An SQS Alternative on Postgres](https://github.com/tembo-io/pgmq)
 * [2024-05-08, 13:03:12](https://news.ycombinator.com/item?id=40297642) - [Logicola 3](https://medium.com/@malikpiara/introducing-logicola-3-1aa4047ee335)
-* [2024-05-08, 11:07:50](https://news.ycombinator.com/item?id=40296619) - [Estimating Pi with Kafka streams](https://fredrikmeyer.net/2024/05/06/estimating-pi-kafka.html)
+* [2024-05-08, 06:03:18](https://news.ycombinator.com/item?id=40294808) - [Radient – vectorize many data types, not just text](https://github.com/fzliu/radient)
 * [2024-05-07, 23:49:50](https://news.ycombinator.com/item?id=40292853) - [RTK Experiments](https://n1vux.github.io/articles/Geodetic/RTK-experiments.html)
 * [2024-05-07, 20:23:29](https://news.ycombinator.com/item?id=40291012) - [Sound-suppressing silk can create quiet spaces](https://news.mit.edu/2024/sound-suppressing-silk-can-create-quiet-spaces-0507)
 * [2024-05-07, 19:12:15](https://news.ycombinator.com/item?id=40290228) - [Medieval Icelanders were likely hunting blue whales long industrial technology](https://hakaimagazine.com/features/how-viking-age-hunters-took-down-the-biggest-animal-on-earth/)
@@ -30,6 +29,7 @@
 * [2024-05-06, 12:59:16](https://news.ycombinator.com/item?id=40274113) - [Weaver: An ergonomic CLI parsing library for Roc lang](https://sammohr.dev/blog/announcing-weaver)
 * [2024-05-06, 08:26:04](https://news.ycombinator.com/item?id=40272439) - [Grace Version Control System](https://github.com/ScottArbeit/Grace)
 * [2024-05-05, 16:12:30](https://news.ycombinator.com/item?id=40265928) - [I was at the clapperboard for Orson Welles' drunk wine commercial (2021)](https://melmagazine.com/en-us/story/orson-welles-drunk-wine-commercial)
+* [2024-05-05, 15:05:05](https://news.ycombinator.com/item?id=40265413) - [In-Car Hydration and Urination Systems for Race Car Drivers](https://www.core77.com/posts/132061/In-Car-Hydration-and-Urination-Systems-for-Race-Car-Drivers)
 
 ## [Archives](archives/index.md)
 

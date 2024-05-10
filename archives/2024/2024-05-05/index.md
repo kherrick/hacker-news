@@ -53,6 +53,7 @@
 * [2024-05-05, 15:18:36](https://news.ycombinator.com/item?id=40265505) - [Tech's proposed utopian communities don't seem to be for everyone](https://www.sfchronicle.com/bayarea/justinphillips/article/city-campus-san-francisco-tech-diversity-19435406.php)
 * [2024-05-05, 15:10:25](https://news.ycombinator.com/item?id=40265456) - [Let insects eat your plants](https://www.bbc.com/future/article/20240503-why-you-should-let-insects-eat-your-plants)
 * [2024-05-05, 15:05:22](https://news.ycombinator.com/item?id=40265420) - [Recruiters Are Going Analog to Fight the AI Application Overload](https://www.wired.com/story/recruiters-ai-application-overload/)
+* [2024-05-05, 15:05:05](https://news.ycombinator.com/item?id=40265413) - [In-Car Hydration and Urination Systems for Race Car Drivers](https://www.core77.com/posts/132061/In-Car-Hydration-and-Urination-Systems-for-Race-Car-Drivers)
 * [2024-05-05, 14:42:00](https://news.ycombinator.com/item?id=40265242) - [Occupy Wall Street](https://en.wikipedia.org/wiki/Occupy_Wall_Street)
 * [2024-05-05, 13:16:00](https://news.ycombinator.com/item?id=40264669) - [First 'tooth regrowth medicine' to be tested in Japan from Sept. 2024](https://mainichi.jp/english/articles/20240503/p2a/00m/0sc/012000c)
 * [2024-05-05, 12:30:44](https://news.ycombinator.com/item?id=40264352) - [Machine unlearning: ML model minus the information to be unlearned](https://ai.stanford.edu/~kzliu/blog/unlearning)
