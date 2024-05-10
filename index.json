@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-05-10, 09:06:05",
+      "https://news.ycombinator.com/item?id=40316814"
+    ],
+    [
+      "Trip C++Now 2024 – think-cell",
+      "https://www.think-cell.com/en/career/devblog/trip-report-cpp-now-2024"
+    ]
+  ],
+  [
+    [
       "2024-05-10, 09:01:05",
       "https://news.ycombinator.com/item?id=40316788"
     ],
     [
       "Is the largest root of a random polynomial more likely to be real than complex?",
       "https://mathoverflow.net/questions/470951/is-the-largest-root-of-a-random-polynomial-more-likely-to-be-real-than-complex"
+    ]
+  ],
+  [
+    [
+      "2024-05-10, 08:34:24",
+      "https://news.ycombinator.com/item?id=40316629"
+    ],
+    [
+      "Personal AGI – Pushing GPT-4-turbo beyond all limits",
+      "https://www.techsistence.com/p/personal-agi-pushing-gpt-4-turbo"
     ]
   ],
   [
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=40316030"
     ],
     [
-      "I Accidentally Uncovered a Nationwide Scam Run by Fake Hosts on Airbnb",
+      "I Accidentally Uncovered a Nationwide Scam Run by Fake Hosts on Airbnb (2019)",
       "https://www.vice.com/en/article/43k7z3/nationwide-fake-host-scam-on-airbnb"
     ]
   ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-05-09, 12:21:53",
-      "https://news.ycombinator.com/item?id=40307454"
-    ],
-    [
-      "Show HN: An SQS Alternative on Postgres",
-      "https://github.com/tembo-io/pgmq"
-    ]
-  ],
-  [
-    [
       "2024-05-09, 11:31:27",
       "https://news.ycombinator.com/item?id=40307098"
     ],
@@ -257,16 +267,6 @@
     [
       "The poetic science of how cicadas sing",
       "https://www.themarginalian.org/2024/05/05/cicadas/"
-    ]
-  ],
-  [
-    [
-      "2024-05-06, 12:59:16",
-      "https://news.ycombinator.com/item?id=40274113"
-    ],
-    [
-      "Weaver: An ergonomic CLI parsing library for Roc lang",
-      "https://sammohr.dev/blog/announcing-weaver"
     ]
   ],
   [
