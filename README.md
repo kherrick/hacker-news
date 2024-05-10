@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-10, 14:04:19](https://news.ycombinator.com/item?id=40319140) - [Apple to Power AI Features with M2 Ultra Servers](https://www.macrumors.com/2024/05/09/apple-to-power-ai-features-with-m2-ultra-servers/)
-* [2024-05-10, 13:47:07](https://news.ycombinator.com/item?id=40318930) - [The Emotional Support Animal Racket](https://www.astralcodexten.com/p/the-emotional-support-animal-racket)
+* [2024-05-10, 13:27:20](https://news.ycombinator.com/item?id=40318714) - [Superfile – A fancy, pretty terminal file manager](https://github.com/MHNightCat/superfile)
 * [2024-05-10, 13:08:38](https://news.ycombinator.com/item?id=40318542) - [Show HN: A web debugger an ex-Cloudflare team has been working on for 4 years](https://news.ycombinator.com/item?id=40318542)
 * [2024-05-10, 12:52:27](https://news.ycombinator.com/item?id=40318356) - [SWPC issues first G4 geomagnetic storm watch since 2005](https://www.swpc.noaa.gov/news/swpc-issues-its-first-g4-watch-2005)
 * [2024-05-10, 12:14:27](https://news.ycombinator.com/item?id=40318025) - [Unbearable hours, threats of being fired: The abuse of migrant interns in Japan](https://observers.france24.com/en/asia-pacific/20220419-unbearable-hours-threats-of-being-fired-the-abuse-of-migrant-interns-in-japan)
