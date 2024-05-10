@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-05-10, 02:00:17",
-      "https://news.ycombinator.com/item?id=40314845"
-    ],
-    [
-      "Webb Hints at Possible Atmosphere Surrounding Rocky Exoplanet",
-      "https://science.nasa.gov/missions/webb/nasas-webb-hints-at-possible-atmosphere-surrounding-rocky-exoplanet/"
-    ]
-  ],
-  [
-    [
       "2024-05-10, 00:16:39",
       "https://news.ycombinator.com/item?id=40314285"
     ],
@@ -131,16 +121,6 @@
   ],
   [
     [
-      "2024-05-09, 18:11:46",
-      "https://news.ycombinator.com/item?id=40311110"
-    ],
-    [
-      "DNSecure – a configuration tool of DoT and DoH for iOS and iPadOS",
-      "https://github.com/kkebo/DNSecure"
-    ]
-  ],
-  [
-    [
       "2024-05-09, 17:54:49",
       "https://news.ycombinator.com/item?id=40310896"
     ],
@@ -157,16 +137,6 @@
     [
       "Freshpaint (YC S19) is hiring software engineers to protect patient privacy",
       "https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn"
-    ]
-  ],
-  [
-    [
-      "2024-05-09, 16:19:32",
-      "https://news.ycombinator.com/item?id=40309780"
-    ],
-    [
-      "Shane Legg: Machine Super Intelligence (2008) [pdf]",
-      "https://www.vetta.org/documents/Machine_Super_Intelligence.pdf"
     ]
   ],
   [
@@ -197,6 +167,16 @@
     [
       "Launch HN: Muddy (YC S19) – Multiplayer browser for getting work done",
       "https://news.ycombinator.com/item?id=40309342"
+    ]
+  ],
+  [
+    [
+      "2024-05-09, 13:32:04",
+      "https://news.ycombinator.com/item?id=40308044"
+    ],
+    [
+      "VideoPrism: A foundational visual encoder for video understanding",
+      "https://research.google/blog/videoprism-a-foundational-visual-encoder-for-video-understanding/"
     ]
   ],
   [
@@ -237,6 +217,26 @@
     [
       "Algebraic Data Types for C99",
       "https://github.com/Hirrolot/datatype99"
+    ]
+  ],
+  [
+    [
+      "2024-05-09, 11:29:32",
+      "https://news.ycombinator.com/item?id=40307089"
+    ],
+    [
+      "Show HN: Browser-based knitting (pattern) software",
+      "https://github.com/alefore/knit"
+    ]
+  ],
+  [
+    [
+      "2024-05-09, 09:08:06",
+      "https://news.ycombinator.com/item?id=40306463"
+    ],
+    [
+      "Xilinx HBM2 Internals (2023)",
+      "https://lovehindpa.ws/posts/xilinx-hbm2/"
     ]
   ],
   [
