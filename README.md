@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-10, 06:31:34](https://news.ycombinator.com/item?id=40315970) - [Roman Tyrian purple snail dye found in UK for first time](https://www.bbc.com/news/articles/cjje132jvygo)
-* [2024-05-10, 04:43:01](https://news.ycombinator.com/item?id=40315551) - [Polestar eliminates the rear window in latest electric car](https://www.dezeen.com/2024/02/06/polestar-4-eliminiates-rear-window/)
 * [2024-05-10, 04:05:29](https://news.ycombinator.com/item?id=40315434) - [Player-Driven Emergence in LLM-Driven Game Narrative](https://arxiv.org/abs/2404.17027)
 * [2024-05-10, 03:58:42](https://news.ycombinator.com/item?id=40315400) - [Object oriented design patterns in the Linux kernel](https://lwn.net/Articles/444910/)
 * [2024-05-10, 03:33:11](https://news.ycombinator.com/item?id=40315274) - [The most backdoor-looking bug I've ever seen (2021)](https://words.filippo.io/dispatches/telegram-ecdh/)
@@ -11,6 +10,7 @@
 * [2024-05-10, 00:01:16](https://news.ycombinator.com/item?id=40314188) - [Chips and Cheese State of the Union](https://chipsandcheese.com/2024/05/09/chips-and-cheese-state-of-the-union/)
 * [2024-05-09, 23:02:14](https://news.ycombinator.com/item?id=40313798) - [Wprs – rootless remote desktop for Wayland (and X11, via XWayland) applications](https://github.com/wayland-transpositor/wprs)
 * [2024-05-09, 21:28:43](https://news.ycombinator.com/item?id=40313143) - [Sioyek is a PDF viewer with a focus on textbooks and research papers](https://github.com/ahrm/sioyek)
+* [2024-05-09, 20:14:39](https://news.ycombinator.com/item?id=40312500) - [Being Green: A new book marvels at the strangeness of plants](https://slate.com/culture/2024/05/light-eaters-zoe-schlanger-book-plant-intelligence.html)
 * [2024-05-09, 17:54:49](https://news.ycombinator.com/item?id=40310896) - [It's always TCP_NODELAY](https://brooker.co.za/blog/2024/05/09/nagle.html)
 * [2024-05-09, 17:00:54](https://news.ycombinator.com/item?id=40310278) - [Freshpaint (YC S19) is hiring software engineers to protect patient privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 * [2024-05-09, 16:17:14](https://news.ycombinator.com/item?id=40309759) - [ESP32 Drum Synth Machine](https://github.com/zircothc/DRUM_2004_V1)
@@ -28,7 +28,7 @@
 * [2024-05-06, 19:19:12](https://news.ycombinator.com/item?id=40278459) - [The poetic science of how cicadas sing](https://www.themarginalian.org/2024/05/05/cicadas/)
 * [2024-05-06, 14:48:02](https://news.ycombinator.com/item?id=40275328) - [Selling 'Ghost in the Shell'](https://animationobsessive.substack.com/p/selling-ghost-in-the-shell)
 * [2024-05-06, 12:59:16](https://news.ycombinator.com/item?id=40274113) - [Weaver: An ergonomic CLI parsing library for Roc lang](https://sammohr.dev/blog/announcing-weaver)
-* [2024-05-05, 16:12:30](https://news.ycombinator.com/item?id=40265928) - [I was at the clapperboard for Orson Welles' drunk wine commercial](https://melmagazine.com/en-us/story/orson-welles-drunk-wine-commercial)
+* [2024-05-05, 16:12:30](https://news.ycombinator.com/item?id=40265928) - [I was at the clapperboard for Orson Welles' drunk wine commercial (2021)](https://melmagazine.com/en-us/story/orson-welles-drunk-wine-commercial)
 * [2024-05-05, 00:13:44](https://news.ycombinator.com/item?id=40261378) - [In medieval England, leprosy spread btwn red squirrels/people, genome evidence](https://phys.org/news/2024-05-medieval-england-leprosy-red-squirrels.html)
 
 ## [Archives](archives/index.md)
