@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-10](index.md)
 
+* [2024-05-10, 18:05:04](https://news.ycombinator.com/item?id=40321974) - [200+ People With Diabetes Injured After Software Drained Insulin Pump Batteries](https://www.cnn.com/2024/05/08/health/tandem-insulin-pump-app-recall/index.html)
 * [2024-05-10, 17:55:08](https://news.ycombinator.com/item?id=40321867) - [Spider-Man (Neversoft) Decompilation Project Progress Checkpoint – May 2024](https://krystalgamer.github.io/spidey-decomp-status-may/)
 * [2024-05-10, 17:50:52](https://news.ycombinator.com/item?id=40321821) - [Coronal mass ejection impact imminent, Two more earth-directed CMEs](https://www.spaceweatherlive.com/en/news/view/533/20240510-cme-impact-imminent-two-more-earth-directed-cmes.html)
 * [2024-05-10, 17:44:44](https://news.ycombinator.com/item?id=40321738) - [OpenAI demo some ChatGPT and GPT-4 updates on 13 May](https://openai.com/)

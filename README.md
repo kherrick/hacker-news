@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-10, 18:05:04](https://news.ycombinator.com/item?id=40321974) - [200+ People With Diabetes Injured After Software Drained Insulin Pump Batteries](https://www.cnn.com/2024/05/08/health/tandem-insulin-pump-app-recall/index.html)
 * [2024-05-10, 17:55:08](https://news.ycombinator.com/item?id=40321867) - [Spider-Man (Neversoft) Decompilation Project Progress Checkpoint – May 2024](https://krystalgamer.github.io/spidey-decomp-status-may/)
 * [2024-05-10, 17:50:52](https://news.ycombinator.com/item?id=40321821) - [Coronal mass ejection impact imminent, Two more earth-directed CMEs](https://www.spaceweatherlive.com/en/news/view/533/20240510-cme-impact-imminent-two-more-earth-directed-cmes.html)
 * [2024-05-10, 17:44:44](https://news.ycombinator.com/item?id=40321738) - [OpenAI demo some ChatGPT and GPT-4 updates on 13 May](https://openai.com/)
 * [2024-05-10, 17:35:39](https://news.ycombinator.com/item?id=40321635) - [GhostStripe attack haunts self-driving cars by making them ignore road signs](https://www.theregister.com/2024/05/10/baidu_apollo_hack/)
-* [2024-05-10, 16:59:06](https://news.ycombinator.com/item?id=40321230) - [The surging demand for data is guzzling Virginia's water](https://grist.org/technology/surging-demand-data-guzzling-water-ai/)
 * [2024-05-10, 16:32:41](https://news.ycombinator.com/item?id=40320900) - [A Skeptic's Take on Beaming Power to Earth from Space](https://spectrum.ieee.org/space-based-solar-power-2667878868)
 * [2024-05-10, 15:51:01](https://news.ycombinator.com/item?id=40320406) - [Jim Simons has died](https://www.simonsfoundation.org/2024/05/10/simons-foundation-co-founder-mathematician-and-investor-jim-simons-dies-at-86/)
 * [2024-05-10, 15:28:49](https://news.ycombinator.com/item?id=40320154) - [Is AI lying to me? Scientists warn of growing capacity for deception](https://www.theguardian.com/technology/article/2024/may/10/is-ai-lying-to-me-scientists-warn-of-growing-capacity-for-deception)
