@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-10, 15:51:01](https://news.ycombinator.com/item?id=40320406) - [Jim Simons has died](https://www.simonsfoundation.org/2024/05/10/simons-foundation-co-founder-mathematician-and-investor-jim-simons-dies-at-86/)
-* [2024-05-10, 15:34:04](https://news.ycombinator.com/item?id=40320207) - [Stack Overflow simply bans folks who don't want their advice used to train AI](https://www.theregister.com/2024/05/09/stack_overflow_banning_users_who/)
 * [2024-05-10, 15:29:46](https://news.ycombinator.com/item?id=40320166) - [KeePassXC Debian maintainer has removed all network features](https://fosstodon.org/@keepassxc/112417353193348720)
 * [2024-05-10, 15:28:49](https://news.ycombinator.com/item?id=40320154) - [Is AI lying to me? Scientists warn of growing capacity for deception](https://www.theguardian.com/technology/article/2024/may/10/is-ai-lying-to-me-scientists-warn-of-growing-capacity-for-deception)
 * [2024-05-10, 13:35:42](https://news.ycombinator.com/item?id=40318804) - [OpenBSD Desktop](https://x61.ar/log/2024/05/06052024135732-openbsd_desktop.html)
 * [2024-05-10, 13:27:20](https://news.ycombinator.com/item?id=40318714) - [Superfile – A fancy, pretty terminal file manager](https://github.com/MHNightCat/superfile)
 * [2024-05-10, 13:08:38](https://news.ycombinator.com/item?id=40318542) - [Show HN: A web debugger an ex-Cloudflare team has been working on for 4 years](https://news.ycombinator.com/item?id=40318542)
+* [2024-05-10, 13:08:23](https://news.ycombinator.com/item?id=40318538) - [The API database architecture – Stop writing HTTP-GET endpoints](https://www.fabianzeindl.com/posts/the-api-database-architecture)
 * [2024-05-10, 13:02:54](https://news.ycombinator.com/item?id=40318487) - [Swipos-GIS/GEO, nationwide GNSS RTK correction for centimeter accurate location](https://www.swisstopo.admin.ch/en/swipos-gisgeo-for-rtk-and-postprocessing-applications)
 * [2024-05-10, 12:52:27](https://news.ycombinator.com/item?id=40318356) - [SWPC issues first G4 geomagnetic storm watch since 2005](https://www.swpc.noaa.gov/news/swpc-issues-its-first-g4-watch-2005)
 * [2024-05-10, 11:41:12](https://news.ycombinator.com/item?id=40317740) - [Popover API](https://developer.mozilla.org/en-US/docs/Web/API/Popover_API)

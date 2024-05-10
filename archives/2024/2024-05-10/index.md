@@ -15,6 +15,7 @@
 * [2024-05-10, 13:35:42](https://news.ycombinator.com/item?id=40318804) - [OpenBSD Desktop](https://x61.ar/log/2024/05/06052024135732-openbsd_desktop.html)
 * [2024-05-10, 13:27:20](https://news.ycombinator.com/item?id=40318714) - [Superfile – A fancy, pretty terminal file manager](https://github.com/MHNightCat/superfile)
 * [2024-05-10, 13:08:38](https://news.ycombinator.com/item?id=40318542) - [Show HN: A web debugger an ex-Cloudflare team has been working on for 4 years](https://news.ycombinator.com/item?id=40318542)
+* [2024-05-10, 13:08:23](https://news.ycombinator.com/item?id=40318538) - [The API database architecture – Stop writing HTTP-GET endpoints](https://www.fabianzeindl.com/posts/the-api-database-architecture)
 * [2024-05-10, 13:02:54](https://news.ycombinator.com/item?id=40318487) - [Swipos-GIS/GEO, nationwide GNSS RTK correction for centimeter accurate location](https://www.swisstopo.admin.ch/en/swipos-gisgeo-for-rtk-and-postprocessing-applications)
 * [2024-05-10, 13:00:18](https://news.ycombinator.com/item?id=40318456) - [California says restaurants must bake all of their add-on fees into menu prices](https://www.npr.org/2024/05/10/1249930674/california-restaurants-fees)
 * [2024-05-10, 12:56:17](https://news.ycombinator.com/item?id=40318404) - [The next union organizing wave is at Apple](https://www.cnn.com/2024/05/10/business/apple-labor-unions-stores-retail-strike/index.html)
