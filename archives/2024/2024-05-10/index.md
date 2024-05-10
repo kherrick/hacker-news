@@ -7,6 +7,7 @@
 * [2024-05-10, 21:59:03](https://news.ycombinator.com/item?id=40324179) - [Most of Europe is glowing pink under the aurora](https://www.foto-webcam.eu/webcam/lucknerhaus/)
 * [2024-05-10, 21:57:11](https://news.ycombinator.com/item?id=40324166) - [Recompilation: A New Way to Keep N64 Games Alive [video]](https://www.youtube.com/watch?v=ywWwUuWRgsM)
 * [2024-05-10, 21:32:47](https://news.ycombinator.com/item?id=40323981) - [I Used Resume Spammers to Apply for 120 Jobs. Chaos Ensued](https://www.businessinsider.com/job-applications-hiring-ai-bots-spam-resume-cover-letter-2024-3)
+* [2024-05-10, 21:04:56](https://news.ycombinator.com/item?id=40323785) - [One Minute Park](https://oneminutepark.tv/)
 * [2024-05-10, 20:23:47](https://news.ycombinator.com/item?id=40323424) - [A (G4) geomagnetic storm is likely this weekend](https://www.swpc.noaa.gov/news/severe-geomagnetic-storming-likely-continue)
 * [2024-05-10, 20:16:06](https://news.ycombinator.com/item?id=40323372) - [UK Government AI Saftey Institute Launches Inspect](https://ukgovernmentbeis.github.io/inspect_ai/)
 * [2024-05-10, 19:55:04](https://news.ycombinator.com/item?id=40323186) - [Tell HN: CNN in Atlanta is currently on diesel power from geomagnetic storm](https://news.ycombinator.com/item?id=40323186)
