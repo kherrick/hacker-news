@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-10, 09:01:05](https://news.ycombinator.com/item?id=40316788) - [Is the largest root of a random polynomial more likely to be real than complex?](https://mathoverflow.net/questions/470951/is-the-largest-root-of-a-random-polynomial-more-likely-to-be-real-than-complex)
 * [2024-05-10, 07:00:38](https://news.ycombinator.com/item?id=40316121) - [Bloop (YC S21) Is Hiring AI Engineers. Devin for Legacy Code (London, Onsite)](https://www.ycombinator.com/companies/bloop/jobs/iCrEllp-ai-engineer)
 * [2024-05-10, 06:41:22](https://news.ycombinator.com/item?id=40316030) - [I Accidentally Uncovered a Nationwide Scam Run by Fake Hosts on Airbnb](https://www.vice.com/en/article/43k7z3/nationwide-fake-host-scam-on-airbnb)
 * [2024-05-10, 06:38:44](https://news.ycombinator.com/item?id=40316010) - [Elvish, expressive programming language and a versatile interactive shell](https://elv.sh)
@@ -9,7 +10,6 @@
 * [2024-05-10, 02:46:11](https://news.ycombinator.com/item?id=40315022) - [Energy-Efficient Llama 2 Inference on FPGAs via High Level Synthesis](https://arxiv.org/abs/2405.00738)
 * [2024-05-10, 00:16:39](https://news.ycombinator.com/item?id=40314285) - [Weapons in Space Technology, Politics, and the Rise and Fall of SDI](https://direct.mit.edu/books/oa-monograph/5770/Weapons-in-SpaceTechnology-Politics-and-the-Rise)
 * [2024-05-10, 00:09:11](https://news.ycombinator.com/item?id=40314236) - [CS388: Natural Language Processing](https://www.cs.utexas.edu/~gdurrett/courses/online-course/materials.html)
-* [2024-05-10, 00:01:16](https://news.ycombinator.com/item?id=40314188) - [Chips and Cheese State of the Union](https://chipsandcheese.com/2024/05/09/chips-and-cheese-state-of-the-union/)
 * [2024-05-09, 23:02:14](https://news.ycombinator.com/item?id=40313798) - [Wprs – rootless remote desktop for Wayland (and X11, via XWayland) applications](https://github.com/wayland-transpositor/wprs)
 * [2024-05-09, 22:50:05](https://news.ycombinator.com/item?id=40313733) - [Apple apologizes for iPad 'Crush' ad that 'missed the mark'](https://www.theverge.com/2024/5/9/24153113/apple-ipad-ad-crushing-apology)
 * [2024-05-09, 21:28:43](https://news.ycombinator.com/item?id=40313143) - [Sioyek is a PDF viewer with a focus on textbooks and research papers](https://github.com/ahrm/sioyek)
