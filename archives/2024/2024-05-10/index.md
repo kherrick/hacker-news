@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-05-10](index.md)
 
+* [2024-05-10, 12:14:27](https://news.ycombinator.com/item?id=40318025) - [Unbearable hours, threats of being fired: The abuse of migrant interns in Japan](https://observers.france24.com/en/asia-pacific/20220419-unbearable-hours-threats-of-being-fired-the-abuse-of-migrant-interns-in-japan)
+* [2024-05-10, 12:02:19](https://news.ycombinator.com/item?id=40317912) - [DKIM, SPF, SpamAssassin Email Validator](https://dkimvalidator.com/)
+* [2024-05-10, 11:59:35](https://news.ycombinator.com/item?id=40317885) - [Boeing 737 catches fire and skids off the runway in Senegal](https://apnews.com/article/senegal-dakar-plane-crash-boeing-ca40060696eaedfb69324d9110a55c60)
+* [2024-05-10, 11:59:22](https://news.ycombinator.com/item?id=40317883) - [A fragment of human cerebral cortex reconstructed at nanoscale resolution](https://www.science.org/doi/10.1126/science.adk4858)
+* [2024-05-10, 11:41:12](https://news.ycombinator.com/item?id=40317740) - [Popover API](https://developer.mozilla.org/en-US/docs/Web/API/Popover_API)
+* [2024-05-10, 11:22:23](https://news.ycombinator.com/item?id=40317627) - [Apple M4 benchmarks suggest it is new single-core performance champ](https://www.tomshardware.com/pc-components/cpus/apple-m4-scores-suggest-it-is-the-new-single-core-performance-champ-beating-intels-core-i9-14900ks-incredible-results-of-3800-posted)
 * [2024-05-10, 09:06:05](https://news.ycombinator.com/item?id=40316814) - [Trip C++Now 2024 – think-cell](https://www.think-cell.com/en/career/devblog/trip-report-cpp-now-2024)
 * [2024-05-10, 09:01:05](https://news.ycombinator.com/item?id=40316788) - [Is the largest root of a random polynomial more likely to be real than complex?](https://mathoverflow.net/questions/470951/is-the-largest-root-of-a-random-polynomial-more-likely-to-be-real-than-complex)
 * [2024-05-10, 08:34:24](https://news.ycombinator.com/item?id=40316629) - [Personal AGI – Pushing GPT-4-turbo beyond all limits](https://www.techsistence.com/p/personal-agi-pushing-gpt-4-turbo)
