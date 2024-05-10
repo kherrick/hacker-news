@@ -35,7 +35,7 @@
       "https://news.ycombinator.com/item?id=40313451"
     ],
     [
-      "The World Has (Probably) Passed Peak Pollution",
+      "The world has probably passed peak pollution",
       "https://www.sustainabilitybynumbers.com/p/peak-pollution"
     ]
   ],
@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2024-05-09, 13:08:05",
-      "https://news.ycombinator.com/item?id=40307832"
-    ],
-    [
-      "No \"Zero-Shot\" Without Exponential Data",
-      "https://arxiv.org/abs/2404.04125"
-    ]
-  ],
-  [
-    [
       "2024-05-09, 12:31:04",
       "https://news.ycombinator.com/item?id=40307519"
     ],
@@ -287,6 +277,16 @@
     [
       "Temporal Python – A durable, distributed asyncio event loop (2023)",
       "https://temporal.io/blog/durable-distributed-asyncio-event-loop"
+    ]
+  ],
+  [
+    [
+      "2024-05-06, 08:26:04",
+      "https://news.ycombinator.com/item?id=40272439"
+    ],
+    [
+      "Grace Version Control System",
+      "https://github.com/ScottArbeit/Grace"
     ]
   ],
   [
