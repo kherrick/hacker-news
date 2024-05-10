@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-10](index.md)
 
+* [2024-05-10, 17:55:08](https://news.ycombinator.com/item?id=40321867) - [Spider-Man (Neversoft) Decompilation Project Progress Checkpoint – May 2024](https://krystalgamer.github.io/spidey-decomp-status-may/)
+* [2024-05-10, 17:50:52](https://news.ycombinator.com/item?id=40321821) - [Coronal mass ejection impact imminent, Two more earth-directed CMEs](https://www.spaceweatherlive.com/en/news/view/533/20240510-cme-impact-imminent-two-more-earth-directed-cmes.html)
+* [2024-05-10, 17:44:44](https://news.ycombinator.com/item?id=40321738) - [OpenAI demo some ChatGPT and GPT-4 updates on 13 May](https://openai.com/)
 * [2024-05-10, 17:35:39](https://news.ycombinator.com/item?id=40321635) - [GhostStripe attack haunts self-driving cars by making them ignore road signs](https://www.theregister.com/2024/05/10/baidu_apollo_hack/)
 * [2024-05-10, 17:13:03](https://news.ycombinator.com/item?id=40321399) - [Richest Americans Now Pay Less Tax Than Working Class in Historical First](https://www.newsweek.com/richest-americans-pay-less-tax-working-class-1897047)
 * [2024-05-10, 16:59:06](https://news.ycombinator.com/item?id=40321230) - [The surging demand for data is guzzling Virginia's water](https://grist.org/technology/surging-demand-data-guzzling-water-ai/)
@@ -48,6 +51,7 @@
 * [2024-05-10, 03:58:42](https://news.ycombinator.com/item?id=40315400) - [Object oriented design patterns in the Linux kernel](https://lwn.net/Articles/444910/)
 * [2024-05-10, 03:56:38](https://news.ycombinator.com/item?id=40315394) - [NOAA Forecasts Solar Storm (G4)](https://www.swpc.noaa.gov/news/media-advisory-noaa-forecasts-severe-solar-storm-media-availability-scheduled-friday-may-10)
 * [2024-05-10, 03:33:11](https://news.ycombinator.com/item?id=40315274) - [The Most Backdoor-Looking Bug I've Ever Seen](https://words.filippo.io/dispatches/telegram-ecdh/)
+* [2024-05-10, 02:48:47](https://news.ycombinator.com/item?id=40315032) - [Serial to Parallel Port Converter](http://www.bramblyhill.com/admin/Pages/page/Membership-Card-Serial-Adapter.aspx)
 * [2024-05-10, 02:46:11](https://news.ycombinator.com/item?id=40315022) - [Energy-Efficient Llama 2 Inference on FPGAs via High Level Synthesis](https://arxiv.org/abs/2405.00738)
 * [2024-05-10, 02:45:35](https://news.ycombinator.com/item?id=40315018) - [Is the Backlash to Universities Becoming Real?](https://www.tabletmag.com/sections/news/articles/backlash-universities-real-dei-richard-hanania)
 * [2024-05-10, 02:30:07](https://news.ycombinator.com/item?id=40314960) - [The Ukraine war is driving rapid innovation in drone technology](https://www.understandingai.org/p/the-ukraine-war-is-driving-rapid)
