@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-10, 20:16:06](https://news.ycombinator.com/item?id=40323372) - [UK Government AI Saftey Institute Launches Inspect](https://ukgovernmentbeis.github.io/inspect_ai/)
+* [2024-05-10, 19:55:04](https://news.ycombinator.com/item?id=40323186) - [Tell HN: CNN in Atlanta is currently on diesel power from geomagnetic storm](https://news.ycombinator.com/item?id=40323186)
 * [2024-05-10, 19:51:46](https://news.ycombinator.com/item?id=40323155) - [Meta Kills a Crucial Transparency Tool at the Worst Possible Time](https://www.wired.com/story/meta-kills-crucial-transparency-tool-worst-possible-time/)
 * [2024-05-10, 17:55:08](https://news.ycombinator.com/item?id=40321867) - [Spider-Man (Neversoft) Decompilation Project Progress Checkpoint – May 2024](https://krystalgamer.github.io/spidey-decomp-status-may/)
 * [2024-05-10, 17:51:11](https://news.ycombinator.com/item?id=40321824) - [An informal comparison of the three major implementations of std:string](https://devblogs.microsoft.com/oldnewthing/20240510-00/?p=109742)
-* [2024-05-10, 17:50:52](https://news.ycombinator.com/item?id=40321821) - [Coronal mass ejection impact imminent, Two more earth-directed CMEs](https://www.spaceweatherlive.com/en/news/view/533/20240510-cme-impact-imminent-two-more-earth-directed-cmes.html)
 * [2024-05-10, 15:51:01](https://news.ycombinator.com/item?id=40320406) - [Jim Simons has died](https://www.simonsfoundation.org/2024/05/10/simons-foundation-co-founder-mathematician-and-investor-jim-simons-dies-at-86/)
 * [2024-05-10, 13:27:20](https://news.ycombinator.com/item?id=40318714) - [Superfile – A fancy, pretty terminal file manager](https://github.com/MHNightCat/superfile)
 * [2024-05-10, 13:08:38](https://news.ycombinator.com/item?id=40318542) - [Show HN: A web debugger an ex-Cloudflare team has been working on for 4 years](https://news.ycombinator.com/item?id=40318542)
@@ -17,7 +17,6 @@
 * [2024-05-10, 06:40:14](https://news.ycombinator.com/item?id=40316021) - [Hexagonal Tiling Honeycomb](https://johncarlosbaez.wordpress.com/2024/05/04/hexagonal-tiling-honeycomb/)
 * [2024-05-10, 06:31:34](https://news.ycombinator.com/item?id=40315970) - [Roman Tyrian purple snail dye found in UK for first time](https://www.bbc.com/news/articles/cjje132jvygo)
 * [2024-05-10, 02:48:47](https://news.ycombinator.com/item?id=40315032) - [Serial to Parallel Port Converter](http://www.bramblyhill.com/admin/Pages/page/Membership-Card-Serial-Adapter.aspx)
-* [2024-05-10, 00:09:11](https://news.ycombinator.com/item?id=40314236) - [CS388: Natural Language Processing](https://www.cs.utexas.edu/~gdurrett/courses/online-course/materials.html)
 * [2024-05-09, 22:50:05](https://news.ycombinator.com/item?id=40313733) - [Apple apologizes for iPad 'Crush' ad that 'missed the mark'](https://www.theverge.com/2024/5/9/24153113/apple-ipad-ad-crushing-apology)
 * [2024-05-09, 22:11:41](https://news.ycombinator.com/item?id=40313451) - [The world has probably passed peak pollution](https://www.sustainabilitybynumbers.com/p/peak-pollution)
 * [2024-05-09, 21:47:13](https://news.ycombinator.com/item?id=40313264) - [Life-like particle system](https://ventrella.com/Clusters/)
@@ -29,6 +28,7 @@
 * [2024-05-07, 19:12:15](https://news.ycombinator.com/item?id=40290228) - [Medieval Icelanders were likely hunting blue whales before industrial technology](https://hakaimagazine.com/features/how-viking-age-hunters-took-down-the-biggest-animal-on-earth/)
 * [2024-05-06, 04:06:09](https://news.ycombinator.com/item?id=40271057) - [Laudatio Turiae](https://en.wikipedia.org/wiki/Laudatio_Turiae)
 * [2024-05-05, 16:12:30](https://news.ycombinator.com/item?id=40265928) - [I was at the clapperboard for Orson Welles' drunk wine commercial (2021)](https://melmagazine.com/en-us/story/orson-welles-drunk-wine-commercial)
+* [2024-05-05, 14:51:44](https://news.ycombinator.com/item?id=40265312) - [Some Projects I Might Not Finish That's OK](https://aaronstrick.com/posts/wip-projects)
 * [2024-05-04, 17:01:25](https://news.ycombinator.com/item?id=40258903) - [Deno KV internals: building a database for the modern web](https://deno.com/blog/building-deno-kv)
 
 ## [Archives](archives/index.md)
