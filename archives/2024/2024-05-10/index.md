@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-05-10](index.md)
 
+* [2024-05-10, 15:51:01](https://news.ycombinator.com/item?id=40320406) - [Jim Simons has died](https://www.simonsfoundation.org/2024/05/10/simons-foundation-co-founder-mathematician-and-investor-jim-simons-dies-at-86/)
+* [2024-05-10, 15:34:04](https://news.ycombinator.com/item?id=40320207) - [Stack Overflow simply bans folks who don't want their advice used to train AI](https://www.theregister.com/2024/05/09/stack_overflow_banning_users_who/)
+* [2024-05-10, 15:29:46](https://news.ycombinator.com/item?id=40320166) - [KeePassXC Debian maintainer has removed all network features](https://fosstodon.org/@keepassxc/112417353193348720)
+* [2024-05-10, 15:28:49](https://news.ycombinator.com/item?id=40320154) - [Is AI lying to me? Scientists warn of growing capacity for deception](https://www.theguardian.com/technology/article/2024/may/10/is-ai-lying-to-me-scientists-warn-of-growing-capacity-for-deception)
 * [2024-05-10, 15:11:04](https://news.ycombinator.com/item?id=40319961) - [Apple’s “Let Loose” iPad event was shot on iPhone with Panavision lenses](https://prolost.com/blog/panavision-iphone)
 * [2024-05-10, 14:15:20](https://news.ycombinator.com/item?id=40319298) - [AI already uses as much energy as a small country. It's only the beginning](https://www.vox.com/climate/2024/3/28/24111721/ai-uses-a-lot-of-energy-experts-expect-it-to-double-in-just-a-few-years)
 * [2024-05-10, 14:04:19](https://news.ycombinator.com/item?id=40319140) - [Apple to Power AI Features with M2 Ultra Servers](https://www.macrumors.com/2024/05/09/apple-to-power-ai-features-with-m2-ultra-servers/)
