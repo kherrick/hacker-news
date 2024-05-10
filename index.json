@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-05-10, 02:45:35",
-      "https://news.ycombinator.com/item?id=40315018"
-    ],
-    [
-      "Is the Backlash to Universities Becoming Real?",
-      "https://www.tabletmag.com/sections/news/articles/backlash-universities-real-dei-richard-hanania"
-    ]
-  ],
-  [
-    [
       "2024-05-10, 02:30:07",
       "https://news.ycombinator.com/item?id=40314960"
     ],
@@ -21,12 +11,12 @@
   ],
   [
     [
-      "2024-05-10, 02:08:15",
-      "https://news.ycombinator.com/item?id=40314878"
+      "2024-05-10, 02:19:26",
+      "https://news.ycombinator.com/item?id=40314913"
     ],
     [
-      "No One Knows What Universities Are For",
-      "https://www.theatlantic.com/ideas/archive/2024/05/bureaucratic-bloat-eating-american-universities-inside/678324/"
+      "Fobos SDR: 14-bit, 100 kHz to 6 GHz SDR, up to 50-MHz bandwidth, receive only",
+      "https://rigexpert.com/products/software-defined-radio-sdr/fobos-sdr/"
     ]
   ],
   [
@@ -77,16 +67,6 @@
     [
       "Wprs – rootless remote desktop for Wayland (and X11, via XWayland) applications",
       "https://github.com/wayland-transpositor/wprs"
-    ]
-  ],
-  [
-    [
-      "2024-05-09, 23:00:55",
-      "https://news.ycombinator.com/item?id=40313792"
-    ],
-    [
-      "A Record of Old Kashgar",
-      "https://chinabooksreview.com/2024/05/09/a-record-of-old-kashgar/"
     ]
   ],
   [
@@ -201,6 +181,16 @@
   ],
   [
     [
+      "2024-05-09, 13:32:04",
+      "https://news.ycombinator.com/item?id=40308044"
+    ],
+    [
+      "VideoPrism: A foundational visual encoder for video understanding",
+      "https://research.google/blog/videoprism-a-foundational-visual-encoder-for-video-understanding/"
+    ]
+  ],
+  [
+    [
       "2024-05-09, 12:31:04",
       "https://news.ycombinator.com/item?id=40307519"
     ],
@@ -247,6 +237,16 @@
     [
       "Show HN: Browser-based knitting (pattern) software",
       "https://github.com/alefore/knit"
+    ]
+  ],
+  [
+    [
+      "2024-05-09, 09:08:06",
+      "https://news.ycombinator.com/item?id=40306463"
+    ],
+    [
+      "Xilinx HBM2 Internals (2023)",
+      "https://lovehindpa.ws/posts/xilinx-hbm2/"
     ]
   ],
   [
