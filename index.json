@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2024-05-10, 02:00:17",
+      "https://news.ycombinator.com/item?id=40314845"
+    ],
+    [
+      "Webb Hints at Possible Atmosphere Surrounding Rocky Exoplanet",
+      "https://science.nasa.gov/missions/webb/nasas-webb-hints-at-possible-atmosphere-surrounding-rocky-exoplanet/"
+    ]
+  ],
+  [
+    [
       "2024-05-10, 00:16:39",
       "https://news.ycombinator.com/item?id=40314285"
     ],
@@ -57,6 +67,16 @@
     [
       "Wprs – rootless remote desktop for Wayland (and X11, via XWayland) applications",
       "https://github.com/wayland-transpositor/wprs"
+    ]
+  ],
+  [
+    [
+      "2024-05-09, 23:00:55",
+      "https://news.ycombinator.com/item?id=40313792"
+    ],
+    [
+      "A Record of Old Kashgar",
+      "https://chinabooksreview.com/2024/05/09/a-record-of-old-kashgar/"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2024-05-09, 11:29:32",
-      "https://news.ycombinator.com/item?id=40307089"
-    ],
-    [
-      "Show HN: Browser-based knitting (pattern) software",
-      "https://github.com/alefore/knit"
-    ]
-  ],
-  [
-    [
       "2024-05-09, 09:08:06",
       "https://news.ycombinator.com/item?id=40306463"
     ],
@@ -247,16 +257,6 @@
     [
       "UTC, Tai, and Unix Time (2001)",
       "https://cr.yp.to/proto/utctai.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-08, 19:55:07",
-      "https://news.ycombinator.com/item?id=40302201"
-    ],
-    [
-      "Consistency LLM: converting LLMs to parallel decoders accelerates inference 3.5x",
-      "https://hao-ai-lab.github.io/blogs/cllm/"
     ]
   ],
   [
