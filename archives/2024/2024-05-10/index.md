@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-10](index.md)
 
+* [2024-05-10, 13:00:18](https://news.ycombinator.com/item?id=40318456) - [California says restaurants must bake all of their add-on fees into menu prices](https://www.npr.org/2024/05/10/1249930674/california-restaurants-fees)
 * [2024-05-10, 12:52:27](https://news.ycombinator.com/item?id=40318356) - [SWPC issues first G4 geomagnetic storm watch since 2005](https://www.swpc.noaa.gov/news/swpc-issues-its-first-g4-watch-2005)
 * [2024-05-10, 12:33:04](https://news.ycombinator.com/item?id=40318206) - [Apple Joins the SeL4 Foundation](https://sel4.systems/news/#member-apple)
 * [2024-05-10, 12:14:27](https://news.ycombinator.com/item?id=40318025) - [Unbearable hours, threats of being fired: The abuse of migrant interns in Japan](https://observers.france24.com/en/asia-pacific/20220419-unbearable-hours-threats-of-being-fired-the-abuse-of-migrant-interns-in-japan)
