@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=40315274"
     ],
     [
-      "The Most Backdoor-Looking Bug I've Ever Seen",
+      "The most backdoor-looking bug I've ever seen (2021)",
       "https://words.filippo.io/dispatches/telegram-ecdh/"
     ]
   ],
@@ -117,16 +117,6 @@
     [
       "A Record of Old Kashgar",
       "https://chinabooksreview.com/2024/05/09/a-record-of-old-kashgar/"
-    ]
-  ],
-  [
-    [
-      "2024-05-09, 22:56:55",
-      "https://news.ycombinator.com/item?id=40313769"
-    ],
-    [
-      "C2PA from the Attacker's Perspective",
-      "https://www.hackerfactor.com/blog/index.php?/archives/1031-C2PA-from-the-Attackers-Perspective.html"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Algebraic Data Types for C99",
       "https://github.com/Hirrolot/datatype99"
+    ]
+  ],
+  [
+    [
+      "2024-05-09, 09:08:06",
+      "https://news.ycombinator.com/item?id=40306463"
+    ],
+    [
+      "Xilinx HBM2 Internals (2023)",
+      "https://lovehindpa.ws/posts/xilinx-hbm2/"
     ]
   ],
   [
