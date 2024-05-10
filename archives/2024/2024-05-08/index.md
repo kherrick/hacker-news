@@ -31,6 +31,7 @@
 * [2024-05-08, 19:55:07](https://news.ycombinator.com/item?id=40302201) - [Consistency LLM: converting LLMs to parallel decoders accelerates inference 3.5x](https://hao-ai-lab.github.io/blogs/cllm/)
 * [2024-05-08, 19:54:58](https://news.ycombinator.com/item?id=40302200) - [Breathwork supports emergence of altered states of consciousness](https://www.researchsquare.com/article/rs-3976380/v1)
 * [2024-05-08, 17:24:39](https://news.ycombinator.com/item?id=40300641) - [Environmental Changes Are Fueling Human, Animal and Plant Diseases, Study Finds](https://www.nytimes.com/2024/05/08/health/environment-climate-health.html)
+* [2024-05-08, 17:14:16](https://news.ycombinator.com/item?id=40300523) - [HiFi-DRAM: Enabling High-Fidelity DRAM Research by Uncovering Sense Amplifiers](https://comsec.ethz.ch/research/dram/hifi-dram/)
 * [2024-05-08, 17:13:07](https://news.ycombinator.com/item?id=40300509) - [OpenAI: Model Spec](https://cdn.openai.com/spec/model-spec-2024-05-08.html)
 * [2024-05-08, 17:11:18](https://news.ycombinator.com/item?id=40300482) - [OpenAI: Model Spec](https://openai.com/index/introducing-the-model-spec)
 * [2024-05-08, 17:09:17](https://news.ycombinator.com/item?id=40300454) - [Development Notes from xkcd's \"Machine\"](https://chromakode.com/post/xkcd-machine/)
