@@ -1,36 +1,6 @@
 [
   [
     [
-      "2024-05-10, 02:30:07",
-      "https://news.ycombinator.com/item?id=40314960"
-    ],
-    [
-      "The Ukraine war is driving rapid innovation in drone technology",
-      "https://www.understandingai.org/p/the-ukraine-war-is-driving-rapid"
-    ]
-  ],
-  [
-    [
-      "2024-05-10, 02:19:26",
-      "https://news.ycombinator.com/item?id=40314913"
-    ],
-    [
-      "Fobos SDR: 14-bit, 100 kHz to 6 GHz SDR, up to 50-MHz bandwidth, receive only",
-      "https://rigexpert.com/products/software-defined-radio-sdr/fobos-sdr/"
-    ]
-  ],
-  [
-    [
-      "2024-05-10, 02:06:07",
-      "https://news.ycombinator.com/item?id=40314870"
-    ],
-    [
-      "Google Photos testing 'Collections' redesign that buries your library",
-      "https://9to5google.com/2024/05/08/google-photos-library-collections-testing/"
-    ]
-  ],
-  [
-    [
       "2024-05-10, 02:00:17",
       "https://news.ycombinator.com/item?id=40314845"
     ],
@@ -67,6 +37,16 @@
     [
       "Wprs – rootless remote desktop for Wayland (and X11, via XWayland) applications",
       "https://github.com/wayland-transpositor/wprs"
+    ]
+  ],
+  [
+    [
+      "2024-05-09, 23:00:55",
+      "https://news.ycombinator.com/item?id=40313792"
+    ],
+    [
+      "A Record of Old Kashgar",
+      "https://chinabooksreview.com/2024/05/09/a-record-of-old-kashgar/"
     ]
   ],
   [
@@ -281,6 +261,16 @@
   ],
   [
     [
+      "2024-05-07, 15:56:41",
+      "https://news.ycombinator.com/item?id=40287341"
+    ],
+    [
+      "Temporal Python – A durable, distributed asyncio event loop (2023)",
+      "https://temporal.io/blog/durable-distributed-asyncio-event-loop"
+    ]
+  ],
+  [
+    [
       "2024-05-06, 08:26:04",
       "https://news.ycombinator.com/item?id=40272439"
     ],
@@ -297,6 +287,16 @@
     [
       "In medieval England, leprosy spread btwn red squirrels/people, genome evidence",
       "https://phys.org/news/2024-05-medieval-england-leprosy-red-squirrels.html"
+    ]
+  ],
+  [
+    [
+      "2024-05-04, 23:06:24",
+      "https://news.ycombinator.com/item?id=40261023"
+    ],
+    [
+      "Hymn for Walpurgisnacht",
+      "https://themillions.com/2024/04/hymn-for-walpurgisnacht.html"
     ]
   ]
 ]
