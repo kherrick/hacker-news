@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-10, 22:38:54](https://news.ycombinator.com/item?id=40324434) - [Atrazine, an endocrine-disrupting herbicide banned in EU, is widely used in US](https://usrtk.org/pesticides/atrazine/)
 * [2024-05-10, 21:59:03](https://news.ycombinator.com/item?id=40324179) - [Most of Europe is glowing pink under the aurora](https://www.foto-webcam.eu/webcam/lucknerhaus/)
-* [2024-05-10, 21:57:11](https://news.ycombinator.com/item?id=40324166) - [Recompilation: A New Way to Keep N64 Games Alive [video]](https://www.youtube.com/watch?v=ywWwUuWRgsM)
 * [2024-05-10, 21:42:49](https://news.ycombinator.com/item?id=40324064) - [Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations?](https://arxiv.org/abs/2405.05904)
 * [2024-05-10, 21:04:56](https://news.ycombinator.com/item?id=40323785) - [One Minute Park](https://oneminutepark.tv/)
 * [2024-05-10, 17:55:08](https://news.ycombinator.com/item?id=40321867) - [Spider-Man (Neversoft) Decompilation Project Progress Checkpoint – May 2024](https://krystalgamer.github.io/spidey-decomp-status-may/)
@@ -14,7 +14,7 @@
 * [2024-05-10, 13:08:38](https://news.ycombinator.com/item?id=40318542) - [Show HN: A web debugger an ex-Cloudflare team has been working on for 4 years](https://news.ycombinator.com/item?id=40318542)
 * [2024-05-10, 13:08:23](https://news.ycombinator.com/item?id=40318538) - [The API database architecture – Stop writing HTTP-GET endpoints](https://www.fabianzeindl.com/posts/the-api-database-architecture)
 * [2024-05-10, 13:02:54](https://news.ycombinator.com/item?id=40318487) - [Swipos-GIS/GEO, nationwide GNSS RTK correction for centimeter accurate location](https://www.swisstopo.admin.ch/en/swipos-gisgeo-for-rtk-and-postprocessing-applications)
-* [2024-05-10, 12:23:21](https://news.ycombinator.com/item?id=40318123) - [Food labels and the lies they tell us about ‘best before’ expiration dates](https://www.vox.com/22559293/food-waste-expiration-label-best-before)
+* [2024-05-10, 12:23:21](https://news.ycombinator.com/item?id=40318123) - [Food labels and the lies they tell us about ‘best before’ expiration dates (2021)](https://www.vox.com/22559293/food-waste-expiration-label-best-before)
 * [2024-05-10, 09:01:05](https://news.ycombinator.com/item?id=40316788) - [Is the largest root of a random real polynomial more likely real or complex?](https://mathoverflow.net/questions/470951/is-the-largest-root-of-a-random-polynomial-more-likely-to-be-real-than-complex)
 * [2024-05-10, 06:43:36](https://news.ycombinator.com/item?id=40316039) - [Tine Text Editor](https://github.com/travisdoor/tine)
 * [2024-05-10, 06:40:14](https://news.ycombinator.com/item?id=40316021) - [Hexagonal Tiling Honeycomb](https://johncarlosbaez.wordpress.com/2024/05/04/hexagonal-tiling-honeycomb/)
