@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-10](index.md)
 
 * [2024-05-10, 18:39:12](https://news.ycombinator.com/item?id=40322388) - [Taking Apple to Court: Their mistake wiped out our $33,680 MRR mobile business](https://old.reddit.com/r/iOSProgramming/comments/1cor2t5/taking_on_apple_in_court_their_mistake_wiped_out/)
+* [2024-05-10, 18:30:34](https://news.ycombinator.com/item?id=40322302) - [Climate protesters storm Tesla gigafactory in Europe](https://www.wired.com/story/climate-protestors-storm-teslas-europe-gigafactory/)
 * [2024-05-10, 18:13:31](https://news.ycombinator.com/item?id=40322082) - [Wookieepedia: Wiki encyclopedia on the Star Wars universe](https://starwars.fandom.com/wiki/Main_Page)
 * [2024-05-10, 18:05:04](https://news.ycombinator.com/item?id=40321974) - [200+ People With Diabetes Injured After Software Drained Insulin Pump Batteries](https://www.cnn.com/2024/05/08/health/tandem-insulin-pump-app-recall/index.html)
 * [2024-05-10, 17:58:15](https://news.ycombinator.com/item?id=40321901) - [ElevenLabs Music](https://twitter.com/elevenlabsio/status/1788628171044053386)
