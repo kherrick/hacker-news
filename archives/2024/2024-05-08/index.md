@@ -30,6 +30,7 @@
 * [2024-05-08, 20:03:28](https://news.ycombinator.com/item?id=40302264) - [Epic vs. Apple judge thinks Apple's being shady about buttons and links](https://www.theverge.com/2024/5/8/24152194/epic-apple-anti-steering-injunction-button-style)
 * [2024-05-08, 19:55:07](https://news.ycombinator.com/item?id=40302201) - [Consistency LLM: converting LLMs to parallel decoders accelerates inference 3.5x](https://hao-ai-lab.github.io/blogs/cllm/)
 * [2024-05-08, 19:54:58](https://news.ycombinator.com/item?id=40302200) - [Breathwork supports emergence of altered states of consciousness](https://www.researchsquare.com/article/rs-3976380/v1)
+* [2024-05-08, 18:17:45](https://news.ycombinator.com/item?id=40301310) - [Show HN: I created 3,800+ Open Source React Icons (Beautiful, Rounded Style)](https://github.com/hugeicons/hugeicons-react)
 * [2024-05-08, 17:24:39](https://news.ycombinator.com/item?id=40300641) - [Environmental Changes Are Fueling Human, Animal and Plant Diseases, Study Finds](https://www.nytimes.com/2024/05/08/health/environment-climate-health.html)
 * [2024-05-08, 17:14:16](https://news.ycombinator.com/item?id=40300523) - [HiFi-DRAM: Enabling High-Fidelity DRAM Research by Uncovering Sense Amplifiers](https://comsec.ethz.ch/research/dram/hifi-dram/)
 * [2024-05-08, 17:13:07](https://news.ycombinator.com/item?id=40300509) - [OpenAI: Model Spec](https://cdn.openai.com/spec/model-spec-2024-05-08.html)
