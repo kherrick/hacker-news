@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-10, 04:05:29](https://news.ycombinator.com/item?id=40315434) - [Player-Driven Emergence in LLM-Driven Game Narrative](https://arxiv.org/abs/2404.17027)
+* [2024-05-10, 03:56:38](https://news.ycombinator.com/item?id=40315394) - [NOAA Forecasts Solar Storm (G4)](https://www.swpc.noaa.gov/news/media-advisory-noaa-forecasts-severe-solar-storm-media-availability-scheduled-friday-may-10)
 * [2024-05-10, 02:00:17](https://news.ycombinator.com/item?id=40314845) - [Webb Hints at Possible Atmosphere Surrounding Rocky Exoplanet](https://science.nasa.gov/missions/webb/nasas-webb-hints-at-possible-atmosphere-surrounding-rocky-exoplanet/)
 * [2024-05-10, 00:16:39](https://news.ycombinator.com/item?id=40314285) - [Weapons in Space Technology, Politics, and the Rise and Fall of SDI](https://direct.mit.edu/books/oa-monograph/5770/Weapons-in-SpaceTechnology-Politics-and-the-Rise)
 * [2024-05-10, 00:09:11](https://news.ycombinator.com/item?id=40314236) - [CS388: Natural Language Processing](https://www.cs.utexas.edu/~gdurrett/courses/online-course/materials.html)
@@ -27,9 +29,7 @@
 * [2024-05-08, 11:25:49](https://news.ycombinator.com/item?id=40296734) - [Logarithmic Scales](https://briefer.cloud/blog/posts/logarithms/)
 * [2024-05-07, 23:49:50](https://news.ycombinator.com/item?id=40292853) - [RTK Experiments](https://n1vux.github.io/articles/Geodetic/RTK-experiments.html)
 * [2024-05-07, 19:12:15](https://news.ycombinator.com/item?id=40290228) - [Viking-Age Hunters Took Down the Biggest Animal on Earth](https://hakaimagazine.com/features/how-viking-age-hunters-took-down-the-biggest-animal-on-earth/)
-* [2024-05-07, 15:56:41](https://news.ycombinator.com/item?id=40287341) - [Temporal Python – A durable, distributed asyncio event loop (2023)](https://temporal.io/blog/durable-distributed-asyncio-event-loop)
 * [2024-05-05, 00:13:44](https://news.ycombinator.com/item?id=40261378) - [In medieval England, leprosy spread btwn red squirrels/people, genome evidence](https://phys.org/news/2024-05-medieval-england-leprosy-red-squirrels.html)
-* [2024-05-04, 23:06:24](https://news.ycombinator.com/item?id=40261023) - [Hymn for Walpurgisnacht](https://themillions.com/2024/04/hymn-for-walpurgisnacht.html)
 
 ## [Archives](archives/index.md)
 
