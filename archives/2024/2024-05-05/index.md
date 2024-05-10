@@ -90,6 +90,7 @@
 * [2024-05-05, 06:47:40](https://news.ycombinator.com/item?id=40262779) - [Xmake: A modern C/C++ build tool](https://github.com/xmake-io/xmake)
 * [2024-05-05, 06:20:35](https://news.ycombinator.com/item?id=40262680) - [Building Containers from Scratch: Layers](https://depot.dev/blog/building-container-layers-from-scratch)
 * [2024-05-05, 06:05:55](https://news.ycombinator.com/item?id=40262643) - [New scanning electron microscope tech sees magnetic field with 100nm resolution](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4812984)
+* [2024-05-05, 06:05:31](https://news.ycombinator.com/item?id=40262642) - [Searching for Lost Cities](https://www.archaeology.org/issues/550-2405/features/12281-lost-cities-ancient-world)
 * [2024-05-05, 06:02:02](https://news.ycombinator.com/item?id=40262626) - [A High-Level Technical Overview of Homomorphic Encryption](https://www.jeremykun.com/2024/05/04/fhe-overview/)
 * [2024-05-05, 05:42:51](https://news.ycombinator.com/item?id=40262543) - [With PowerPC, Windows CE and the WiiN-Pad Slate, Everyone's a WiiN-Er](http://oldvcr.blogspot.com/2024/05/with-powerpc-windows-ce-and-wiin-pad.html)
 * [2024-05-05, 05:14:08](https://news.ycombinator.com/item?id=40262438) - [Pivot podcast host Scott Galloway: 'Tech bros conflate luck with talent'](https://www.theguardian.com/books/article/2024/may/04/scott-galloway-algebra-of-wealth-pivot-elon-musk)
