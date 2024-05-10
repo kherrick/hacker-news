@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-10, 18:39:12](https://news.ycombinator.com/item?id=40322388) - [Taking Apple to Court: Their mistake wiped out our $33,680 MRR mobile business](https://old.reddit.com/r/iOSProgramming/comments/1cor2t5/taking_on_apple_in_court_their_mistake_wiped_out/)
+* [2024-05-10, 17:58:15](https://news.ycombinator.com/item?id=40321901) - [ElevenLabs Music](https://twitter.com/elevenlabsio/status/1788628171044053386)
 * [2024-05-10, 17:55:08](https://news.ycombinator.com/item?id=40321867) - [Spider-Man (Neversoft) Decompilation Project Progress Checkpoint – May 2024](https://krystalgamer.github.io/spidey-decomp-status-may/)
 * [2024-05-10, 17:50:52](https://news.ycombinator.com/item?id=40321821) - [Coronal mass ejection impact imminent, Two more earth-directed CMEs](https://www.spaceweatherlive.com/en/news/view/533/20240510-cme-impact-imminent-two-more-earth-directed-cmes.html)
-* [2024-05-10, 17:35:39](https://news.ycombinator.com/item?id=40321635) - [GhostStripe attack haunts self-driving cars by making them ignore road signs](https://www.theregister.com/2024/05/10/baidu_apollo_hack/)
 * [2024-05-10, 16:32:41](https://news.ycombinator.com/item?id=40320900) - [A Skeptic's Take on Beaming Power to Earth from Space](https://spectrum.ieee.org/space-based-solar-power-2667878868)
 * [2024-05-10, 15:51:01](https://news.ycombinator.com/item?id=40320406) - [Jim Simons has died](https://www.simonsfoundation.org/2024/05/10/simons-foundation-co-founder-mathematician-and-investor-jim-simons-dies-at-86/)
 * [2024-05-10, 13:27:20](https://news.ycombinator.com/item?id=40318714) - [Superfile – A fancy, pretty terminal file manager](https://github.com/MHNightCat/superfile)
@@ -19,6 +18,7 @@
 * [2024-05-10, 06:40:14](https://news.ycombinator.com/item?id=40316021) - [Hexagonal Tiling Honeycomb](https://johncarlosbaez.wordpress.com/2024/05/04/hexagonal-tiling-honeycomb/)
 * [2024-05-10, 06:31:34](https://news.ycombinator.com/item?id=40315970) - [Roman Tyrian purple snail dye found in UK for first time](https://www.bbc.com/news/articles/cjje132jvygo)
 * [2024-05-10, 02:48:47](https://news.ycombinator.com/item?id=40315032) - [Serial to Parallel Port Converter](http://www.bramblyhill.com/admin/Pages/page/Membership-Card-Serial-Adapter.aspx)
+* [2024-05-10, 00:09:11](https://news.ycombinator.com/item?id=40314236) - [CS388: Natural Language Processing](https://www.cs.utexas.edu/~gdurrett/courses/online-course/materials.html)
 * [2024-05-09, 22:50:05](https://news.ycombinator.com/item?id=40313733) - [Apple apologizes for iPad 'Crush' ad that 'missed the mark'](https://www.theverge.com/2024/5/9/24153113/apple-ipad-ad-crushing-apology)
 * [2024-05-09, 22:11:41](https://news.ycombinator.com/item?id=40313451) - [The world has probably passed peak pollution](https://www.sustainabilitybynumbers.com/p/peak-pollution)
 * [2024-05-09, 21:47:13](https://news.ycombinator.com/item?id=40313264) - [Life-like particle system](https://ventrella.com/Clusters/)
@@ -26,8 +26,8 @@
 * [2024-05-08, 13:03:12](https://news.ycombinator.com/item?id=40297642) - [Logicola 3](https://medium.com/@malikpiara/introducing-logicola-3-1aa4047ee335)
 * [2024-05-08, 05:30:03](https://news.ycombinator.com/item?id=40294660) - [Show HN: A simple 2D fluid and gravity simulation with WASM and WebGL](https://aestuans.github.io/blob/)
 * [2024-05-07, 20:23:29](https://news.ycombinator.com/item?id=40291012) - [Sound-suppressing silk can create quiet spaces](https://news.mit.edu/2024/sound-suppressing-silk-can-create-quiet-spaces-0507)
+* [2024-05-07, 19:12:15](https://news.ycombinator.com/item?id=40290228) - [Medieval Icelanders were likely hunting blue whales before industrial technology](https://hakaimagazine.com/features/how-viking-age-hunters-took-down-the-biggest-animal-on-earth/)
 * [2024-05-06, 04:06:09](https://news.ycombinator.com/item?id=40271057) - [Laudatio Turiae](https://en.wikipedia.org/wiki/Laudatio_Turiae)
-* [2024-05-05, 22:12:20](https://news.ycombinator.com/item?id=40269000) - [Time in a Box](https://daily.jstor.org/time-in-a-box/)
 * [2024-05-05, 16:12:30](https://news.ycombinator.com/item?id=40265928) - [I was at the clapperboard for Orson Welles' drunk wine commercial (2021)](https://melmagazine.com/en-us/story/orson-welles-drunk-wine-commercial)
 * [2024-05-04, 17:01:25](https://news.ycombinator.com/item?id=40258903) - [Deno KV internals: building a database for the modern web](https://deno.com/blog/building-deno-kv)
 
