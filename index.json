@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2024-05-10, 06:38:44",
-      "https://news.ycombinator.com/item?id=40316010"
-    ],
-    [
-      "Elvish, expressive programming language and a versatile interactive shell",
-      "https://elv.sh"
-    ]
-  ],
-  [
-    [
       "2024-05-10, 06:31:34",
       "https://news.ycombinator.com/item?id=40315970"
     ],
@@ -297,6 +287,16 @@
     [
       "I was at the clapperboard for Orson Welles' drunk wine commercial (2021)",
       "https://melmagazine.com/en-us/story/orson-welles-drunk-wine-commercial"
+    ]
+  ],
+  [
+    [
+      "2024-05-04, 17:01:25",
+      "https://news.ycombinator.com/item?id=40258903"
+    ],
+    [
+      "Deno KV internals: building a database for the modern web",
+      "https://deno.com/blog/building-deno-kv"
     ]
   ]
 ]
