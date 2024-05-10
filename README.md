@@ -25,9 +25,9 @@
 * [2024-05-09, 09:08:06](https://news.ycombinator.com/item?id=40306463) - [Xilinx HBM2 Internals (2023)](https://lovehindpa.ws/posts/xilinx-hbm2/)
 * [2024-05-09, 08:40:27](https://news.ycombinator.com/item?id=40306352) - [UTC, Tai, and Unix Time (2001)](https://cr.yp.to/proto/utctai.html)
 * [2024-05-08, 11:25:49](https://news.ycombinator.com/item?id=40296734) - [Logarithmic Scales](https://briefer.cloud/blog/posts/logarithms/)
+* [2024-05-07, 23:49:50](https://news.ycombinator.com/item?id=40292853) - [RTK Experiments](https://n1vux.github.io/articles/Geodetic/RTK-experiments.html)
 * [2024-05-07, 19:12:15](https://news.ycombinator.com/item?id=40290228) - [Viking-Age Hunters Took Down the Biggest Animal on Earth](https://hakaimagazine.com/features/how-viking-age-hunters-took-down-the-biggest-animal-on-earth/)
 * [2024-05-07, 15:56:41](https://news.ycombinator.com/item?id=40287341) - [Temporal Python – A durable, distributed asyncio event loop (2023)](https://temporal.io/blog/durable-distributed-asyncio-event-loop)
-* [2024-05-06, 08:26:04](https://news.ycombinator.com/item?id=40272439) - [Grace Version Control System](https://github.com/ScottArbeit/Grace)
 * [2024-05-05, 00:13:44](https://news.ycombinator.com/item?id=40261378) - [In medieval England, leprosy spread btwn red squirrels/people, genome evidence](https://phys.org/news/2024-05-medieval-england-leprosy-red-squirrels.html)
 * [2024-05-04, 23:06:24](https://news.ycombinator.com/item?id=40261023) - [Hymn for Walpurgisnacht](https://themillions.com/2024/04/hymn-for-walpurgisnacht.html)
 
