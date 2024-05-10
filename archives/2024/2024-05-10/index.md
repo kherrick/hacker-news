@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-10](index.md)
 
+* [2024-05-10, 14:15:20](https://news.ycombinator.com/item?id=40319298) - [AI already uses as much energy as a small country. It's only the beginning](https://www.vox.com/climate/2024/3/28/24111721/ai-uses-a-lot-of-energy-experts-expect-it-to-double-in-just-a-few-years)
 * [2024-05-10, 14:04:19](https://news.ycombinator.com/item?id=40319140) - [Apple to Power AI Features with M2 Ultra Servers](https://www.macrumors.com/2024/05/09/apple-to-power-ai-features-with-m2-ultra-servers/)
 * [2024-05-10, 13:47:07](https://news.ycombinator.com/item?id=40318930) - [The Emotional Support Animal Racket](https://www.astralcodexten.com/p/the-emotional-support-animal-racket)
 * [2024-05-10, 13:27:20](https://news.ycombinator.com/item?id=40318714) - [Superfile – A fancy, pretty terminal file manager](https://github.com/MHNightCat/superfile)

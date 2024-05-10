@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-10, 14:15:20](https://news.ycombinator.com/item?id=40319298) - [AI already uses as much energy as a small country. It's only the beginning](https://www.vox.com/climate/2024/3/28/24111721/ai-uses-a-lot-of-energy-experts-expect-it-to-double-in-just-a-few-years)
 * [2024-05-10, 14:04:19](https://news.ycombinator.com/item?id=40319140) - [Apple to Power AI Features with M2 Ultra Servers](https://www.macrumors.com/2024/05/09/apple-to-power-ai-features-with-m2-ultra-servers/)
 * [2024-05-10, 13:27:20](https://news.ycombinator.com/item?id=40318714) - [Superfile – A fancy, pretty terminal file manager](https://github.com/MHNightCat/superfile)
 * [2024-05-10, 13:08:38](https://news.ycombinator.com/item?id=40318542) - [Show HN: A web debugger an ex-Cloudflare team has been working on for 4 years](https://news.ycombinator.com/item?id=40318542)
@@ -14,7 +15,6 @@
 * [2024-05-10, 06:31:34](https://news.ycombinator.com/item?id=40315970) - [Roman Tyrian purple snail dye found in UK for first time](https://www.bbc.com/news/articles/cjje132jvygo)
 * [2024-05-10, 04:05:29](https://news.ycombinator.com/item?id=40315434) - [Player-Driven Emergence in LLM-Driven Game Narrative](https://arxiv.org/abs/2404.17027)
 * [2024-05-10, 03:58:42](https://news.ycombinator.com/item?id=40315400) - [Object oriented design patterns in the Linux kernel (2011)](https://lwn.net/Articles/444910/)
-* [2024-05-10, 02:46:11](https://news.ycombinator.com/item?id=40315022) - [Energy-Efficient Llama 2 Inference on FPGAs via High Level Synthesis](https://arxiv.org/abs/2405.00738)
 * [2024-05-10, 00:16:39](https://news.ycombinator.com/item?id=40314285) - [Weapons in Space Technology, Politics, and the Rise and Fall of SDI](https://direct.mit.edu/books/oa-monograph/5770/Weapons-in-SpaceTechnology-Politics-and-the-Rise)
 * [2024-05-10, 00:09:11](https://news.ycombinator.com/item?id=40314236) - [CS388: Natural Language Processing](https://www.cs.utexas.edu/~gdurrett/courses/online-course/materials.html)
 * [2024-05-09, 23:02:14](https://news.ycombinator.com/item?id=40313798) - [Wprs – rootless remote desktop for Wayland (and X11, via XWayland) applications](https://github.com/wayland-transpositor/wprs)
