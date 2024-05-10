@@ -6,6 +6,7 @@
 
 * [2024-05-10, 21:59:03](https://news.ycombinator.com/item?id=40324179) - [Most of Europe is glowing pink under the aurora](https://www.foto-webcam.eu/webcam/lucknerhaus/)
 * [2024-05-10, 21:57:11](https://news.ycombinator.com/item?id=40324166) - [Recompilation: A New Way to Keep N64 Games Alive [video]](https://www.youtube.com/watch?v=ywWwUuWRgsM)
+* [2024-05-10, 21:42:49](https://news.ycombinator.com/item?id=40324064) - [Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations?](https://arxiv.org/abs/2405.05904)
 * [2024-05-10, 21:32:47](https://news.ycombinator.com/item?id=40323981) - [I Used Resume Spammers to Apply for 120 Jobs. Chaos Ensued](https://www.businessinsider.com/job-applications-hiring-ai-bots-spam-resume-cover-letter-2024-3)
 * [2024-05-10, 21:04:56](https://news.ycombinator.com/item?id=40323785) - [One Minute Park](https://oneminutepark.tv/)
 * [2024-05-10, 20:23:47](https://news.ycombinator.com/item?id=40323424) - [A (G4) geomagnetic storm is likely this weekend](https://www.swpc.noaa.gov/news/severe-geomagnetic-storming-likely-continue)
