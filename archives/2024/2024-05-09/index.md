@@ -21,6 +21,7 @@
 * [2024-05-09, 20:14:39](https://news.ycombinator.com/item?id=40312500) - [Being Green: A new book marvels at the strangeness of plants](https://slate.com/culture/2024/05/light-eaters-zoe-schlanger-book-plant-intelligence.html)
 * [2024-05-09, 20:11:21](https://news.ycombinator.com/item?id=40312469) - [How bad are satellite megaconstellations for astronomy?](https://www.leonarddavid.com/blinded-by-the-light-megaconstellation-clash-with-astronomical-peer-groups/)
 * [2024-05-09, 20:07:30](https://news.ycombinator.com/item?id=40312434) - [The Ridiculous History of 'OK'](https://people.howstuffworks.com/history-ok.htm)
+* [2024-05-09, 19:43:11](https://news.ycombinator.com/item?id=40312192) - [Cylindrical Slide Rules](https://americanhistory.si.edu/collections/object-groups/slide-rules/cylindrical-slide-rules)
 * [2024-05-09, 19:22:25](https://news.ycombinator.com/item?id=40311982) - [NASA's Proposed Plasma Rocket Would Get Us to Mars in 2 Months](https://gizmodo.com/nasa-pulsed-plasma-rocket-advanced-concept-mars-1851463831)
 * [2024-05-09, 19:06:18](https://news.ycombinator.com/item?id=40311823) - [Palantir Supplies Israel with New Tools Since Hamas War Started](https://www.bloomberg.com/news/articles/2024-01-10/palantir-supplying-israel-with-new-tools-since-hamas-war-started)
 * [2024-05-09, 18:59:48](https://news.ycombinator.com/item?id=40311724) - [OpenAI destroyed a trove of books used to train AI models](https://www.businessinsider.com/openai-destroyed-ai-training-datasets-lawsuit-authors-books-copyright-2024-5)
