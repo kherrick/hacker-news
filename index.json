@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2024-05-10, 13:08:23",
+      "https://news.ycombinator.com/item?id=40318538"
+    ],
+    [
+      "The API database architecture – Stop writing HTTP-GET endpoints",
+      "https://www.fabianzeindl.com/posts/the-api-database-architecture"
+    ]
+  ],
+  [
+    [
       "2024-05-10, 13:02:54",
       "https://news.ycombinator.com/item?id=40318487"
     ],
@@ -137,16 +147,6 @@
     [
       "Food labels and the lies they tell us about ‘best before’ expiration dates",
       "https://www.vox.com/22559293/food-waste-expiration-label-best-before"
-    ]
-  ],
-  [
-    [
-      "2024-05-10, 11:41:12",
-      "https://news.ycombinator.com/item?id=40317740"
-    ],
-    [
-      "Popover API",
-      "https://developer.mozilla.org/en-US/docs/Web/API/Popover_API"
     ]
   ],
   [
