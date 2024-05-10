@@ -19,7 +19,6 @@
 * [2024-05-09, 16:14:47](https://news.ycombinator.com/item?id=40309719) - [Show HN: Ellipsis – Automated PR reviews and bug fixes](https://www.ellipsis.dev/)
 * [2024-05-09, 15:38:48](https://news.ycombinator.com/item?id=40309342) - [Launch HN: Muddy (YC S19) – Multiplayer browser for getting work done](https://news.ycombinator.com/item?id=40309342)
 * [2024-05-09, 12:31:04](https://news.ycombinator.com/item?id=40307519) - [Show HN: Exploring HN by mapping and analyzing 40M posts and comments for fun](https://blog.wilsonl.in/hackerverse/)
-* [2024-05-09, 12:21:53](https://news.ycombinator.com/item?id=40307454) - [Show HN: An SQS Alternative on Postgres](https://github.com/tembo-io/pgmq)
 * [2024-05-09, 11:31:27](https://news.ycombinator.com/item?id=40307098) - [Algebraic Data Types for C99](https://github.com/Hirrolot/datatype99)
 * [2024-05-08, 17:14:16](https://news.ycombinator.com/item?id=40300523) - [HiFi-DRAM: Enabling High-Fidelity DRAM Research by Uncovering Sense Amplifiers](https://comsec.ethz.ch/research/dram/hifi-dram/)
 * [2024-05-08, 16:06:42](https://news.ycombinator.com/item?id=40299681) - [Computer models suggest modern plate tectonics due to blobs left by collision](https://phys.org/news/2024-05-modern-plate-tectonics-due-blobs.html)
@@ -30,6 +29,7 @@
 * [2024-05-06, 19:19:12](https://news.ycombinator.com/item?id=40278459) - [The poetic science of how cicadas sing](https://www.themarginalian.org/2024/05/05/cicadas/)
 * [2024-05-06, 08:26:04](https://news.ycombinator.com/item?id=40272439) - [Grace Version Control System](https://github.com/ScottArbeit/Grace)
 * [2024-05-05, 16:12:30](https://news.ycombinator.com/item?id=40265928) - [I was at the clapperboard for Orson Welles' drunk wine commercial (2021)](https://melmagazine.com/en-us/story/orson-welles-drunk-wine-commercial)
+* [2024-05-05, 14:54:44](https://news.ycombinator.com/item?id=40265332) - [With PowerPC, Windows CE and the WiiN-Pad Slate, Everyone's a WiiN-Er](http://oldvcr.blogspot.com/2024/05/with-powerpc-windows-ce-and-wiin-pad.html)
 
 ## [Archives](archives/index.md)
 
