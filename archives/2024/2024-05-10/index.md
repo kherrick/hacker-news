@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-10](index.md)
 
+* [2024-05-10, 18:39:12](https://news.ycombinator.com/item?id=40322388) - [Taking Apple to Court: Their mistake wiped out our $33,680 MRR mobile business](https://old.reddit.com/r/iOSProgramming/comments/1cor2t5/taking_on_apple_in_court_their_mistake_wiped_out/)
 * [2024-05-10, 18:13:31](https://news.ycombinator.com/item?id=40322082) - [Wookieepedia: Wiki encyclopedia on the Star Wars universe](https://starwars.fandom.com/wiki/Main_Page)
 * [2024-05-10, 18:05:04](https://news.ycombinator.com/item?id=40321974) - [200+ People With Diabetes Injured After Software Drained Insulin Pump Batteries](https://www.cnn.com/2024/05/08/health/tandem-insulin-pump-app-recall/index.html)
 * [2024-05-10, 17:55:08](https://news.ycombinator.com/item?id=40321867) - [Spider-Man (Neversoft) Decompilation Project Progress Checkpoint – May 2024](https://krystalgamer.github.io/spidey-decomp-status-may/)
@@ -26,6 +27,7 @@
 * [2024-05-10, 13:08:38](https://news.ycombinator.com/item?id=40318542) - [Show HN: A web debugger an ex-Cloudflare team has been working on for 4 years](https://news.ycombinator.com/item?id=40318542)
 * [2024-05-10, 13:08:23](https://news.ycombinator.com/item?id=40318538) - [The API database architecture – Stop writing HTTP-GET endpoints](https://www.fabianzeindl.com/posts/the-api-database-architecture)
 * [2024-05-10, 13:02:54](https://news.ycombinator.com/item?id=40318487) - [Swipos-GIS/GEO, nationwide GNSS RTK correction for centimeter accurate location](https://www.swisstopo.admin.ch/en/swipos-gisgeo-for-rtk-and-postprocessing-applications)
+* [2024-05-10, 13:01:44](https://news.ycombinator.com/item?id=40318468) - [Show HN: Meemaw – Trustless and grandma-friendly wallet as a service](https://github.com/getmeemaw/meemaw)
 * [2024-05-10, 13:00:18](https://news.ycombinator.com/item?id=40318456) - [California says restaurants must bake all of their add-on fees into menu prices](https://www.npr.org/2024/05/10/1249930674/california-restaurants-fees)
 * [2024-05-10, 12:56:17](https://news.ycombinator.com/item?id=40318404) - [The next union organizing wave is at Apple](https://www.cnn.com/2024/05/10/business/apple-labor-unions-stores-retail-strike/index.html)
 * [2024-05-10, 12:52:27](https://news.ycombinator.com/item?id=40318356) - [SWPC issues first G4 geomagnetic storm watch since 2005](https://www.swpc.noaa.gov/news/swpc-issues-its-first-g4-watch-2005)
