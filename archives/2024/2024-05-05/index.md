@@ -42,6 +42,7 @@
 * [2024-05-05, 16:28:06](https://news.ycombinator.com/item?id=40266057) - [Show HN: Wanderer – an open-source trail database](https://github.com/Flomp/wanderer)
 * [2024-05-05, 16:21:33](https://news.ycombinator.com/item?id=40266015) - [ESP32-S3 has (a few) SIMD instructions](https://bitbanksoftware.blogspot.com/2024/01/surprise-esp32-s3-has-few-simd.html)
 * [2024-05-05, 16:17:53](https://news.ycombinator.com/item?id=40265986) - [The Trouble with Soho](https://www.edwest.co.uk/p/the-trouble-with-soho)
+* [2024-05-05, 16:12:30](https://news.ycombinator.com/item?id=40265928) - [I was at the clapperboard for Orson Welles' drunk wine commercial](https://melmagazine.com/en-us/story/orson-welles-drunk-wine-commercial)
 * [2024-05-05, 16:09:54](https://news.ycombinator.com/item?id=40265904) - [Visiting the annual Braun collectors fair](https://arslan.io/2024/05/05/braun-borse-2024/)
 * [2024-05-05, 15:54:20](https://news.ycombinator.com/item?id=40265774) - [Histograms worked](https://brandur.org/fragments/histograms-worked)
 * [2024-05-05, 15:49:14](https://news.ycombinator.com/item?id=40265736) - [Randy Travis's New Song Recreates His Voice with AI Technology](https://www.rollingstone.com/music/music-country/randy-travis-releases-ai-song-1235014871/)

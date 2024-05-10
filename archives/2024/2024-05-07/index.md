@@ -14,6 +14,7 @@
 * [2024-05-07, 21:16:36](https://news.ycombinator.com/item?id=40291598) - [IBM Granite: A Family of Open Foundation Models for Code Intelligence](https://github.com/ibm-granite/granite-code-models)
 * [2024-05-07, 21:14:50](https://news.ycombinator.com/item?id=40291577) - [Misconceptions about SB 1047](https://asteriskmag.com/issues/06/why-is-everyone-suddenly-furious-about-ai-regulation)
 * [2024-05-07, 21:07:33](https://news.ycombinator.com/item?id=40291490) - [Jolie, the service-oriented programming language](https://www.jolie-lang.org/index.html)
+* [2024-05-07, 20:23:29](https://news.ycombinator.com/item?id=40291012) - [Sound-suppressing silk can create quiet spaces](https://news.mit.edu/2024/sound-suppressing-silk-can-create-quiet-spaces-0507)
 * [2024-05-07, 20:09:04](https://news.ycombinator.com/item?id=40290903) - [AI Doesn't Threaten Humanity. Its Owners Do](https://www.scientificamerican.com/article/ai-doesnt-threaten-humanity-its-owners-do/)
 * [2024-05-07, 20:02:58](https://news.ycombinator.com/item?id=40290833) - [Boeing Starliner crewed mission postponed shortly before launch](https://phys.org/news/2024-05-boeing-starliner-crewed-mission-postponed.html)
 * [2024-05-07, 19:52:08](https://news.ycombinator.com/item?id=40290735) - [Show HN: Tegon: AI-first open source alternative to Jira and Linear](https://github.com/tegonhq/tegon)
