@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-10, 21:59:03](https://news.ycombinator.com/item?id=40324179) - [Most of Europe is glowing pink under the aurora](https://www.foto-webcam.eu/webcam/lucknerhaus/)
+* [2024-05-10, 21:57:11](https://news.ycombinator.com/item?id=40324166) - [Recompilation: A New Way to Keep N64 Games Alive [video]](https://www.youtube.com/watch?v=ywWwUuWRgsM)
 * [2024-05-10, 17:55:08](https://news.ycombinator.com/item?id=40321867) - [Spider-Man (Neversoft) Decompilation Project Progress Checkpoint – May 2024](https://krystalgamer.github.io/spidey-decomp-status-may/)
 * [2024-05-10, 17:51:11](https://news.ycombinator.com/item?id=40321824) - [An informal comparison of the three major implementations of std:string](https://devblogs.microsoft.com/oldnewthing/20240510-00/?p=109742)
 * [2024-05-10, 15:51:01](https://news.ycombinator.com/item?id=40320406) - [Jim Simons has died](https://www.simonsfoundation.org/2024/05/10/simons-foundation-co-founder-mathematician-and-investor-jim-simons-dies-at-86/)
@@ -15,7 +16,6 @@
 * [2024-05-10, 06:40:14](https://news.ycombinator.com/item?id=40316021) - [Hexagonal Tiling Honeycomb](https://johncarlosbaez.wordpress.com/2024/05/04/hexagonal-tiling-honeycomb/)
 * [2024-05-10, 06:31:34](https://news.ycombinator.com/item?id=40315970) - [Roman Tyrian purple snail dye found in UK for first time](https://www.bbc.com/news/articles/cjje132jvygo)
 * [2024-05-10, 02:48:47](https://news.ycombinator.com/item?id=40315032) - [Serial to Parallel Port Converter](http://www.bramblyhill.com/admin/Pages/page/Membership-Card-Serial-Adapter.aspx)
-* [2024-05-10, 00:09:11](https://news.ycombinator.com/item?id=40314236) - [CS388: Natural Language Processing](https://www.cs.utexas.edu/~gdurrett/courses/online-course/materials.html)
 * [2024-05-09, 22:50:05](https://news.ycombinator.com/item?id=40313733) - [Apple apologizes for iPad 'Crush' ad that 'missed the mark'](https://www.theverge.com/2024/5/9/24153113/apple-ipad-ad-crushing-apology)
 * [2024-05-09, 22:33:44](https://news.ycombinator.com/item?id=40313613) - [Nasa’s Roman Mission Will Hunt for Primordial Black Holes](https://www.nasa.gov/missions/roman-space-telescope/how-nasas-roman-mission-will-hunt-for-primordial-black-holes/)
 * [2024-05-09, 22:11:41](https://news.ycombinator.com/item?id=40313451) - [The world has probably passed peak pollution](https://www.sustainabilitybynumbers.com/p/peak-pollution)
