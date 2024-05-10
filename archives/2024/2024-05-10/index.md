@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-10](index.md)
 
+* [2024-05-10, 04:19:52](https://news.ycombinator.com/item?id=40315480) - [Apple to Power AI Features with M2 Ultra Servers](https://www.macrumors.com/2024/05/09/apple-to-power-ai-features-with-m2-ultra-servers/)
 * [2024-05-10, 04:05:29](https://news.ycombinator.com/item?id=40315434) - [Player-Driven Emergence in LLM-Driven Game Narrative](https://arxiv.org/abs/2404.17027)
 * [2024-05-10, 03:56:38](https://news.ycombinator.com/item?id=40315394) - [NOAA Forecasts Solar Storm (G4)](https://www.swpc.noaa.gov/news/media-advisory-noaa-forecasts-severe-solar-storm-media-availability-scheduled-friday-may-10)
 * [2024-05-10, 02:45:35](https://news.ycombinator.com/item?id=40315018) - [Is the Backlash to Universities Becoming Real?](https://www.tabletmag.com/sections/news/articles/backlash-universities-real-dei-richard-hanania)

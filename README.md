@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-10, 04:19:52](https://news.ycombinator.com/item?id=40315480) - [Apple to Power AI Features with M2 Ultra Servers](https://www.macrumors.com/2024/05/09/apple-to-power-ai-features-with-m2-ultra-servers/)
 * [2024-05-10, 04:05:29](https://news.ycombinator.com/item?id=40315434) - [Player-Driven Emergence in LLM-Driven Game Narrative](https://arxiv.org/abs/2404.17027)
 * [2024-05-10, 03:56:38](https://news.ycombinator.com/item?id=40315394) - [NOAA Forecasts Solar Storm (G4)](https://www.swpc.noaa.gov/news/media-advisory-noaa-forecasts-severe-solar-storm-media-availability-scheduled-friday-may-10)
-* [2024-05-10, 02:00:17](https://news.ycombinator.com/item?id=40314845) - [Webb Hints at Possible Atmosphere Surrounding Rocky Exoplanet](https://science.nasa.gov/missions/webb/nasas-webb-hints-at-possible-atmosphere-surrounding-rocky-exoplanet/)
 * [2024-05-10, 00:16:39](https://news.ycombinator.com/item?id=40314285) - [Weapons in Space Technology, Politics, and the Rise and Fall of SDI](https://direct.mit.edu/books/oa-monograph/5770/Weapons-in-SpaceTechnology-Politics-and-the-Rise)
 * [2024-05-10, 00:09:11](https://news.ycombinator.com/item?id=40314236) - [CS388: Natural Language Processing](https://www.cs.utexas.edu/~gdurrett/courses/online-course/materials.html)
 * [2024-05-09, 23:02:14](https://news.ycombinator.com/item?id=40313798) - [Wprs – rootless remote desktop for Wayland (and X11, via XWayland) applications](https://github.com/wayland-transpositor/wprs)
