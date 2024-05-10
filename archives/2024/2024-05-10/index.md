@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-10](index.md)
 
+* [2024-05-10, 21:59:03](https://news.ycombinator.com/item?id=40324179) - [Most of Europe is glowing pink under the aurora](https://www.foto-webcam.eu/webcam/lucknerhaus/)
 * [2024-05-10, 21:32:47](https://news.ycombinator.com/item?id=40323981) - [I Used Resume Spammers to Apply for 120 Jobs. Chaos Ensued](https://www.businessinsider.com/job-applications-hiring-ai-bots-spam-resume-cover-letter-2024-3)
 * [2024-05-10, 20:23:47](https://news.ycombinator.com/item?id=40323424) - [A (G4) geomagnetic storm is likely this weekend](https://www.swpc.noaa.gov/news/severe-geomagnetic-storming-likely-continue)
 * [2024-05-10, 20:16:06](https://news.ycombinator.com/item?id=40323372) - [UK Government AI Saftey Institute Launches Inspect](https://ukgovernmentbeis.github.io/inspect_ai/)
