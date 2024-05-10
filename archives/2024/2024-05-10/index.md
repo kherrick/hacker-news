@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-10](index.md)
 
 * [2024-05-10, 17:35:39](https://news.ycombinator.com/item?id=40321635) - [GhostStripe attack haunts self-driving cars by making them ignore road signs](https://www.theregister.com/2024/05/10/baidu_apollo_hack/)
+* [2024-05-10, 17:13:03](https://news.ycombinator.com/item?id=40321399) - [Richest Americans Now Pay Less Tax Than Working Class in Historical First](https://www.newsweek.com/richest-americans-pay-less-tax-working-class-1897047)
 * [2024-05-10, 16:59:06](https://news.ycombinator.com/item?id=40321230) - [The surging demand for data is guzzling Virginia's water](https://grist.org/technology/surging-demand-data-guzzling-water-ai/)
 * [2024-05-10, 16:32:41](https://news.ycombinator.com/item?id=40320900) - [A Skeptic's Take on Beaming Power to Earth from Space](https://spectrum.ieee.org/space-based-solar-power-2667878868)
 * [2024-05-10, 15:51:01](https://news.ycombinator.com/item?id=40320406) - [Jim Simons has died](https://www.simonsfoundation.org/2024/05/10/simons-foundation-co-founder-mathematician-and-investor-jim-simons-dies-at-86/)

@@ -9,6 +9,7 @@
 * [2024-05-05, 23:32:20](https://news.ycombinator.com/item?id=40269592) - [Drug resistant bacteria found on ISS mutating to become functionally distinct](https://www.nasa.gov/centers-and-facilities/ames/ames-science/ames-space-biosciences/multi-drug-resistant-bacteria-found-on-iss-mutating-to-become-functionally-distinct/)
 * [2024-05-05, 23:12:28](https://news.ycombinator.com/item?id=40269489) - [Deep Reinforcement Learning: Zero to Hero](https://github.com/alessiodm/drl-zh)
 * [2024-05-05, 23:11:54](https://news.ycombinator.com/item?id=40269480) - [The Sam Altman Playbook: Fear, the Denial of Uncertainties, and Hype](https://garymarcus.substack.com/p/the-sam-altman-playbook)
+* [2024-05-05, 22:12:20](https://news.ycombinator.com/item?id=40269000) - [Time in a Box](https://daily.jstor.org/time-in-a-box/)
 * [2024-05-05, 21:14:52](https://news.ycombinator.com/item?id=40268463) - [Alan Kay on Donald Knuth](https://twitter.com/fermatslibrary/status/1787105220268380448/photo/1)
 * [2024-05-05, 20:48:37](https://news.ycombinator.com/item?id=40268204) - [\"Meta spent almost as much as the Manhattan Project on GPUs in today's dollars\"](https://twitter.com/emollick/status/1786213463456448900)
 * [2024-05-05, 20:36:25](https://news.ycombinator.com/item?id=40268090) - [C Isn't a Hangover; Rust Isn't a Hangover Cure](https://crashoverride.com/blog/c-isnt-a-hangover-rust-isnt-a-hangover-cure)
