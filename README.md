@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-10, 19:51:46](https://news.ycombinator.com/item?id=40323155) - [Meta Kills a Crucial Transparency Tool at the Worst Possible Time](https://www.wired.com/story/meta-kills-crucial-transparency-tool-worst-possible-time/)
+* [2024-05-10, 20:23:47](https://news.ycombinator.com/item?id=40323424) - [A (G4) geomagnetic storm is likely this weekend](https://www.swpc.noaa.gov/news/severe-geomagnetic-storming-likely-continue)
 * [2024-05-10, 17:55:08](https://news.ycombinator.com/item?id=40321867) - [Spider-Man (Neversoft) Decompilation Project Progress Checkpoint – May 2024](https://krystalgamer.github.io/spidey-decomp-status-may/)
 * [2024-05-10, 17:51:11](https://news.ycombinator.com/item?id=40321824) - [An informal comparison of the three major implementations of std:string](https://devblogs.microsoft.com/oldnewthing/20240510-00/?p=109742)
 * [2024-05-10, 17:50:52](https://news.ycombinator.com/item?id=40321821) - [Coronal mass ejection impact imminent, Two more earth-directed CMEs](https://www.spaceweatherlive.com/en/news/view/533/20240510-cme-impact-imminent-two-more-earth-directed-cmes.html)
