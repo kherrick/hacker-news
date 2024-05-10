@@ -45,6 +45,7 @@
 * [2024-05-08, 16:14:23](https://news.ycombinator.com/item?id=40299761) - [Psql-describe: \\d ported to JavaScript](https://github.com/neondatabase/psql-describe)
 * [2024-05-08, 16:14:23](https://news.ycombinator.com/item?id=40299761) - [Bringing psql’s \\d to your web browser](https://neon.tech/blog/bringing-psqls-d-to-your-web-browser)
 * [2024-05-08, 16:10:33](https://news.ycombinator.com/item?id=40299721) - [Half of Google's white-collar staff 'does no real work,' Silicon Valley VC says](https://qz.com/google-white-collar-staff-andreessen-horowitz-1851460910)
+* [2024-05-08, 16:06:42](https://news.ycombinator.com/item?id=40299681) - [Computer models suggest modern plate tectonics due to blobs left by collision](https://phys.org/news/2024-05-modern-plate-tectonics-due-blobs.html)
 * [2024-05-08, 16:02:59](https://news.ycombinator.com/item?id=40299645) - [Rifle-Armed Robot Dogs Now Being Tested by Marine Special Operators](https://www.twz.com/sea/rifle-armed-robot-dogs-now-being-tested-by-marine-special-operators)
 * [2024-05-08, 15:54:54](https://news.ycombinator.com/item?id=40299556) - [Launch HN: Baselit (YC W23) – Automatically Reduce Snowflake Costs](https://news.ycombinator.com/item?id=40299556)
 * [2024-05-08, 15:33:37](https://news.ycombinator.com/item?id=40299271) - [New capacitor with 19-times energy density](https://www.livescience.com/technology/electronics/ev-batteries-could-last-much-longer-thanks-to-new-capacitor-with-19-times-power-density-that-scientists-created-by-mistake)

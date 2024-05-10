@@ -2,7 +2,6 @@
 
 * [2024-05-10, 09:06:05](https://news.ycombinator.com/item?id=40316814) - [Trip C++Now 2024 – think-cell](https://www.think-cell.com/en/career/devblog/trip-report-cpp-now-2024)
 * [2024-05-10, 09:01:05](https://news.ycombinator.com/item?id=40316788) - [Is the largest root of a random polynomial more likely to be real than complex?](https://mathoverflow.net/questions/470951/is-the-largest-root-of-a-random-polynomial-more-likely-to-be-real-than-complex)
-* [2024-05-10, 08:34:24](https://news.ycombinator.com/item?id=40316629) - [Personal AGI – Pushing GPT-4-turbo beyond all limits](https://www.techsistence.com/p/personal-agi-pushing-gpt-4-turbo)
 * [2024-05-10, 07:00:38](https://news.ycombinator.com/item?id=40316121) - [Bloop (YC S21) Is Hiring AI Engineers. Devin for Legacy Code (London, Onsite)](https://www.ycombinator.com/companies/bloop/jobs/iCrEllp-ai-engineer)
 * [2024-05-10, 06:41:22](https://news.ycombinator.com/item?id=40316030) - [I Accidentally Uncovered a Nationwide Scam Run by Fake Hosts on Airbnb (2019)](https://www.vice.com/en/article/43k7z3/nationwide-fake-host-scam-on-airbnb)
 * [2024-05-10, 06:38:44](https://news.ycombinator.com/item?id=40316010) - [Elvish, expressive programming language and a versatile interactive shell](https://elv.sh)
@@ -22,6 +21,7 @@
 * [2024-05-09, 12:31:04](https://news.ycombinator.com/item?id=40307519) - [Show HN: Exploring HN by mapping and analyzing 40M posts and comments for fun](https://blog.wilsonl.in/hackerverse/)
 * [2024-05-09, 11:31:27](https://news.ycombinator.com/item?id=40307098) - [Algebraic Data Types for C99](https://github.com/Hirrolot/datatype99)
 * [2024-05-08, 17:14:16](https://news.ycombinator.com/item?id=40300523) - [HiFi-DRAM: Enabling High-Fidelity DRAM Research by Uncovering Sense Amplifiers](https://comsec.ethz.ch/research/dram/hifi-dram/)
+* [2024-05-08, 16:06:42](https://news.ycombinator.com/item?id=40299681) - [Computer models suggest modern plate tectonics due to blobs left by collision](https://phys.org/news/2024-05-modern-plate-tectonics-due-blobs.html)
 * [2024-05-08, 13:03:12](https://news.ycombinator.com/item?id=40297642) - [Logicola 3](https://medium.com/@malikpiara/introducing-logicola-3-1aa4047ee335)
 * [2024-05-08, 06:03:18](https://news.ycombinator.com/item?id=40294808) - [Radient – vectorize many data types, not just text](https://github.com/fzliu/radient)
 * [2024-05-07, 20:23:29](https://news.ycombinator.com/item?id=40291012) - [Sound-suppressing silk can create quiet spaces](https://news.mit.edu/2024/sound-suppressing-silk-can-create-quiet-spaces-0507)
