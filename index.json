@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-10, 14:15:20",
+      "https://news.ycombinator.com/item?id=40319298"
+    ],
+    [
+      "AI already uses as much energy as a small country. It's only the beginning",
+      "https://www.vox.com/climate/2024/3/28/24111721/ai-uses-a-lot-of-energy-experts-expect-it-to-double-in-just-a-few-years"
+    ]
+  ],
+  [
+    [
       "2024-05-10, 14:04:19",
       "https://news.ycombinator.com/item?id=40319140"
     ],
@@ -137,16 +147,6 @@
     [
       "Object oriented design patterns in the Linux kernel (2011)",
       "https://lwn.net/Articles/444910/"
-    ]
-  ],
-  [
-    [
-      "2024-05-10, 02:46:11",
-      "https://news.ycombinator.com/item?id=40315022"
-    ],
-    [
-      "Energy-Efficient Llama 2 Inference on FPGAs via High Level Synthesis",
-      "https://arxiv.org/abs/2405.00738"
     ]
   ],
   [
