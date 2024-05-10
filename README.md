@@ -15,7 +15,6 @@
 * [2024-05-10, 07:00:38](https://news.ycombinator.com/item?id=40316121) - [Bloop (YC S21) Is Hiring AI Engineers. Devin for Legacy Code (London, Onsite)](https://www.ycombinator.com/companies/bloop/jobs/iCrEllp-ai-engineer)
 * [2024-05-10, 06:43:36](https://news.ycombinator.com/item?id=40316039) - [Tine Text Editor](https://github.com/travisdoor/tine)
 * [2024-05-10, 06:40:14](https://news.ycombinator.com/item?id=40316021) - [Hexagonal Tiling Honeycomb](https://johncarlosbaez.wordpress.com/2024/05/04/hexagonal-tiling-honeycomb/)
-* [2024-05-10, 06:38:44](https://news.ycombinator.com/item?id=40316010) - [Elvish, expressive programming language and a versatile interactive shell](https://elv.sh)
 * [2024-05-10, 06:31:34](https://news.ycombinator.com/item?id=40315970) - [Roman Tyrian purple snail dye found in UK for first time](https://www.bbc.com/news/articles/cjje132jvygo)
 * [2024-05-10, 04:05:29](https://news.ycombinator.com/item?id=40315434) - [Player-Driven Emergence in LLM-Driven Game Narrative](https://arxiv.org/abs/2404.17027)
 * [2024-05-10, 00:09:11](https://news.ycombinator.com/item?id=40314236) - [CS388: Natural Language Processing](https://www.cs.utexas.edu/~gdurrett/courses/online-course/materials.html)
@@ -30,6 +29,7 @@
 * [2024-05-07, 20:23:29](https://news.ycombinator.com/item?id=40291012) - [Sound-suppressing silk can create quiet spaces](https://news.mit.edu/2024/sound-suppressing-silk-can-create-quiet-spaces-0507)
 * [2024-05-07, 19:12:15](https://news.ycombinator.com/item?id=40290228) - [Medieval Icelanders were likely hunting blue whales before industrial technology](https://hakaimagazine.com/features/how-viking-age-hunters-took-down-the-biggest-animal-on-earth/)
 * [2024-05-05, 16:12:30](https://news.ycombinator.com/item?id=40265928) - [I was at the clapperboard for Orson Welles' drunk wine commercial (2021)](https://melmagazine.com/en-us/story/orson-welles-drunk-wine-commercial)
+* [2024-05-04, 17:01:25](https://news.ycombinator.com/item?id=40258903) - [Deno KV internals: building a database for the modern web](https://deno.com/blog/building-deno-kv)
 
 ## [Archives](archives/index.md)
 

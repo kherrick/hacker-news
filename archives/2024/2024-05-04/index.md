@@ -37,6 +37,7 @@
 * [2024-05-04, 17:50:53](https://news.ycombinator.com/item?id=40259185) - [Verified Rust for low-level systems code](https://github.com/verus-lang/verus)
 * [2024-05-04, 17:36:21](https://news.ycombinator.com/item?id=40259100) - [OpenAI Bought Chatgpt.com](https://chatgpt.com)
 * [2024-05-04, 17:03:59](https://news.ycombinator.com/item?id=40258921) - [Tyson Foods Is Dumping Pounds of Pollutants into American Waterways](https://cleantechnica.com/2024/05/04/tyson-foods-is-dumping-millions-of-pounds-of-pollutants-into-american-waterways/)
+* [2024-05-04, 17:01:25](https://news.ycombinator.com/item?id=40258903) - [Deno KV internals: building a database for the modern web](https://deno.com/blog/building-deno-kv)
 * [2024-05-04, 17:00:50](https://news.ycombinator.com/item?id=40258899) - [Motion (YC W20) is hiring senior software engineers](https://jobs.ashbyhq.com/motion?utm_source=hn)
 * [2024-05-04, 16:56:33](https://news.ycombinator.com/item?id=40258867) - [State Farm announces major change affecting tens of thousands households in CA](https://finance.yahoo.com/news/state-farm-announces-major-insurance-150000813.html)
 * [2024-05-04, 16:47:17](https://news.ycombinator.com/item?id=40258804) - [Porting HPC Applications to AMD Instinct MI300A Using Unified Memory and OpenMP](https://arxiv.org/abs/2405.00436)
