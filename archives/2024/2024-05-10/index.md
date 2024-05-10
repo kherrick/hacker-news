@@ -6,6 +6,7 @@
 
 * [2024-05-10, 02:45:35](https://news.ycombinator.com/item?id=40315018) - [Is the Backlash to Universities Becoming Real?](https://www.tabletmag.com/sections/news/articles/backlash-universities-real-dei-richard-hanania)
 * [2024-05-10, 02:30:07](https://news.ycombinator.com/item?id=40314960) - [The Ukraine war is driving rapid innovation in drone technology](https://www.understandingai.org/p/the-ukraine-war-is-driving-rapid)
+* [2024-05-10, 02:19:26](https://news.ycombinator.com/item?id=40314913) - [Fobos SDR: 14-bit, 100 kHz to 6 GHz SDR, up to 50-MHz bandwidth, receive only](https://rigexpert.com/products/software-defined-radio-sdr/fobos-sdr/)
 * [2024-05-10, 02:11:38](https://news.ycombinator.com/item?id=40314885) - [Huawei breaks free from Google ecosystem with homegrown HarmonyOS](https://asia.nikkei.com/Business/China-tech/Huawei-breaks-free-from-Google-ecosystem-with-homegrown-OS)
 * [2024-05-10, 02:08:15](https://news.ycombinator.com/item?id=40314878) - [No One Knows What Universities Are For](https://www.theatlantic.com/ideas/archive/2024/05/bureaucratic-bloat-eating-american-universities-inside/678324/)
 * [2024-05-10, 02:06:07](https://news.ycombinator.com/item?id=40314870) - [Google Photos testing 'Collections' redesign that buries your library](https://9to5google.com/2024/05/08/google-photos-library-collections-testing/)
