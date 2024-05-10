@@ -25,9 +25,9 @@
 * [2024-05-08, 16:06:42](https://news.ycombinator.com/item?id=40299681) - [Computer models suggest modern plate tectonics due to blobs left by collision](https://phys.org/news/2024-05-modern-plate-tectonics-due-blobs.html)
 * [2024-05-08, 13:03:12](https://news.ycombinator.com/item?id=40297642) - [Logicola 3](https://medium.com/@malikpiara/introducing-logicola-3-1aa4047ee335)
 * [2024-05-08, 06:03:18](https://news.ycombinator.com/item?id=40294808) - [Radient – vectorize many data types, not just text](https://github.com/fzliu/radient)
+* [2024-05-08, 05:30:03](https://news.ycombinator.com/item?id=40294660) - [Show HN: A simple 2D fluid and gravity simulation with WASM and WebGL](https://aestuans.github.io/blob/)
 * [2024-05-07, 20:23:29](https://news.ycombinator.com/item?id=40291012) - [Sound-suppressing silk can create quiet spaces](https://news.mit.edu/2024/sound-suppressing-silk-can-create-quiet-spaces-0507)
 * [2024-05-07, 19:12:15](https://news.ycombinator.com/item?id=40290228) - [Medieval Icelanders were likely hunting blue whales long industrial technology](https://hakaimagazine.com/features/how-viking-age-hunters-took-down-the-biggest-animal-on-earth/)
-* [2024-05-06, 08:26:04](https://news.ycombinator.com/item?id=40272439) - [Grace Version Control System](https://github.com/ScottArbeit/Grace)
 * [2024-05-05, 16:12:30](https://news.ycombinator.com/item?id=40265928) - [I was at the clapperboard for Orson Welles' drunk wine commercial (2021)](https://melmagazine.com/en-us/story/orson-welles-drunk-wine-commercial)
 * [2024-05-05, 14:54:44](https://news.ycombinator.com/item?id=40265332) - [With PowerPC, Windows CE and the WiiN-Pad Slate, Everyone's a WiiN-Er](http://oldvcr.blogspot.com/2024/05/with-powerpc-windows-ce-and-wiin-pad.html)
 

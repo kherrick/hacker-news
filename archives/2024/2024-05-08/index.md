@@ -84,6 +84,7 @@
 * [2024-05-08, 06:47:20](https://news.ycombinator.com/item?id=40295072) - [Creating AI-Enhanced Document Management with the GenAI Stack](https://www.docker.com/blog/creating-ai-enhanced-document-management-with-the-genai-stack/)
 * [2024-05-08, 06:27:59](https://news.ycombinator.com/item?id=40294957) - [Fly.io Infra log: week-by-week record of what the team does](https://fly.io/infra-log/)
 * [2024-05-08, 06:03:18](https://news.ycombinator.com/item?id=40294808) - [Radient – vectorize many data types, not just text](https://github.com/fzliu/radient)
+* [2024-05-08, 05:30:03](https://news.ycombinator.com/item?id=40294660) - [Show HN: A simple 2D fluid and gravity simulation with WASM and WebGL](https://aestuans.github.io/blob/)
 * [2024-05-08, 05:28:43](https://news.ycombinator.com/item?id=40294650) - [XLSTM: Extended Long Short-Term Memory](https://arxiv.org/abs/2405.04517)
 * [2024-05-08, 05:25:04](https://news.ycombinator.com/item?id=40294630) - [U.S. Rules Apple Illegally Interrogated Staff and Confiscated Union Flyers](https://www.forbes.com/sites/antoniopequenoiv/2024/05/06/us-labor-board-rules-apple-illegally-interrogated-staff-and-confiscated-union-flyers/)
 * [2024-05-08, 05:12:58](https://news.ycombinator.com/item?id=40294555) - [The C++ Iceberg](https://fouronnes.github.io/cppiceberg/)
