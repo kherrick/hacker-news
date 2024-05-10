@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-10, 07:00:38](https://news.ycombinator.com/item?id=40316121) - [Bloop (YC S21) Is Hiring AI Engineers. Devin for Legacy Code (London, Onsite)](https://www.ycombinator.com/companies/bloop/jobs/iCrEllp-ai-engineer)
+* [2024-05-10, 06:41:22](https://news.ycombinator.com/item?id=40316030) - [I Accidentally Uncovered a Nationwide Scam Run by Fake Hosts on Airbnb](https://www.vice.com/en/article/43k7z3/nationwide-fake-host-scam-on-airbnb)
 * [2024-05-10, 06:38:44](https://news.ycombinator.com/item?id=40316010) - [Elvish, expressive programming language and a versatile interactive shell](https://elv.sh)
 * [2024-05-10, 06:31:34](https://news.ycombinator.com/item?id=40315970) - [Roman Tyrian purple snail dye found in UK for first time](https://www.bbc.com/news/articles/cjje132jvygo)
 * [2024-05-10, 04:05:29](https://news.ycombinator.com/item?id=40315434) - [Player-Driven Emergence in LLM-Driven Game Narrative](https://arxiv.org/abs/2404.17027)
@@ -28,7 +29,6 @@
 * [2024-05-06, 12:59:16](https://news.ycombinator.com/item?id=40274113) - [Weaver: An ergonomic CLI parsing library for Roc lang](https://sammohr.dev/blog/announcing-weaver)
 * [2024-05-06, 08:26:04](https://news.ycombinator.com/item?id=40272439) - [Grace Version Control System](https://github.com/ScottArbeit/Grace)
 * [2024-05-05, 16:12:30](https://news.ycombinator.com/item?id=40265928) - [I was at the clapperboard for Orson Welles' drunk wine commercial (2021)](https://melmagazine.com/en-us/story/orson-welles-drunk-wine-commercial)
-* [2024-05-05, 15:05:05](https://news.ycombinator.com/item?id=40265413) - [In-Car Hydration and Urination Systems for Race Car Drivers](https://www.core77.com/posts/132061/In-Car-Hydration-and-Urination-Systems-for-Race-Car-Drivers)
 * [2024-05-05, 06:05:31](https://news.ycombinator.com/item?id=40262642) - [Searching for Lost Cities](https://www.archaeology.org/issues/550-2405/features/12281-lost-cities-ancient-world)
 
 ## [Archives](archives/index.md)

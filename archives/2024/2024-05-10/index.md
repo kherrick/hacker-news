@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-10](index.md)
 
 * [2024-05-10, 07:00:38](https://news.ycombinator.com/item?id=40316121) - [Bloop (YC S21) Is Hiring AI Engineers. Devin for Legacy Code (London, Onsite)](https://www.ycombinator.com/companies/bloop/jobs/iCrEllp-ai-engineer)
+* [2024-05-10, 06:41:22](https://news.ycombinator.com/item?id=40316030) - [I Accidentally Uncovered a Nationwide Scam Run by Fake Hosts on Airbnb](https://www.vice.com/en/article/43k7z3/nationwide-fake-host-scam-on-airbnb)
 * [2024-05-10, 06:38:44](https://news.ycombinator.com/item?id=40316010) - [Elvish, expressive programming language and a versatile interactive shell](https://elv.sh)
 * [2024-05-10, 06:31:34](https://news.ycombinator.com/item?id=40315970) - [Roman Tyrian purple snail dye found in UK for first time](https://www.bbc.com/news/articles/cjje132jvygo)
 * [2024-05-10, 06:05:40](https://news.ycombinator.com/item?id=40315860) - [Boeing whistleblower says he was pressured to hide defects](https://thehill.com/business/4652759-boeing-whistleblower-says-he-was-pressured-to-hide-defects/)
