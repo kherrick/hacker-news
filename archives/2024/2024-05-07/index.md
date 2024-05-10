@@ -17,6 +17,7 @@
 * [2024-05-07, 20:02:58](https://news.ycombinator.com/item?id=40290833) - [Boeing Starliner crewed mission postponed shortly before launch](https://phys.org/news/2024-05-boeing-starliner-crewed-mission-postponed.html)
 * [2024-05-07, 19:52:08](https://news.ycombinator.com/item?id=40290735) - [Show HN: Tegon: AI-first open source alternative to Jira and Linear](https://github.com/tegonhq/tegon)
 * [2024-05-07, 19:41:25](https://news.ycombinator.com/item?id=40290596) - [ScrapeGraphAI: Web scraping using LLM and direct graph logic](https://scrapegraph-doc.onrender.com/)
+* [2024-05-07, 19:12:15](https://news.ycombinator.com/item?id=40290228) - [Viking-Age Hunters Took Down the Biggest Animal on Earth](https://hakaimagazine.com/features/how-viking-age-hunters-took-down-the-biggest-animal-on-earth/)
 * [2024-05-07, 19:08:11](https://news.ycombinator.com/item?id=40290171) - [Temporal Fuzzing I: Memory Models (2021)](https://www.reitzen.com/post/temporal-fuzzing-01/)
 * [2024-05-07, 18:43:27](https://news.ycombinator.com/item?id=40289842) - [How rich is too rich? Limitarianism: The Case Against Extreme Wealth](https://www.nature.com/articles/d41586-024-01276-1)
 * [2024-05-07, 18:06:29](https://news.ycombinator.com/item?id=40289323) - [The Grateful Dead's Wall of Sound](https://audioacademy.in/the-grateful-deads-wall-of-sound/)

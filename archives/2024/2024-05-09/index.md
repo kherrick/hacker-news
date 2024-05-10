@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-09](index.md)
 
+* [2024-05-09, 23:02:14](https://news.ycombinator.com/item?id=40313798) - [Wprs – rootless remote desktop for Wayland (and X11, via XWayland) applications](https://github.com/wayland-transpositor/wprs)
+* [2024-05-09, 22:56:55](https://news.ycombinator.com/item?id=40313769) - [C2PA from the Attacker's Perspective](https://www.hackerfactor.com/blog/index.php?/archives/1031-C2PA-from-the-Attackers-Perspective.html)
 * [2024-05-09, 22:50:05](https://news.ycombinator.com/item?id=40313733) - [Apple apologizes for iPad 'Crush' ad that 'missed the mark'](https://www.theverge.com/2024/5/9/24153113/apple-ipad-ad-crushing-apology)
 * [2024-05-09, 22:43:02](https://news.ycombinator.com/item?id=40313690) - [No Country Should Be Making Speech Rules for the World](https://www.eff.org/deeplinks/2024/05/no-country-should-be-making-speech-rules-world)
 * [2024-05-09, 22:42:09](https://news.ycombinator.com/item?id=40313680) - [Dell Has Been Hacked](https://news.ycombinator.com/item?id=40313680)
