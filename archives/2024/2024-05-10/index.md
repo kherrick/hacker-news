@@ -14,6 +14,7 @@
 * [2024-05-10, 09:01:05](https://news.ycombinator.com/item?id=40316788) - [Is the largest root of a random polynomial more likely to be real than complex?](https://mathoverflow.net/questions/470951/is-the-largest-root-of-a-random-polynomial-more-likely-to-be-real-than-complex)
 * [2024-05-10, 08:34:24](https://news.ycombinator.com/item?id=40316629) - [Personal AGI – Pushing GPT-4-turbo beyond all limits](https://www.techsistence.com/p/personal-agi-pushing-gpt-4-turbo)
 * [2024-05-10, 07:00:38](https://news.ycombinator.com/item?id=40316121) - [Bloop (YC S21) Is Hiring AI Engineers. Devin for Legacy Code (London, Onsite)](https://www.ycombinator.com/companies/bloop/jobs/iCrEllp-ai-engineer)
+* [2024-05-10, 06:43:36](https://news.ycombinator.com/item?id=40316039) - [Tine Text Editor](https://github.com/travisdoor/tine)
 * [2024-05-10, 06:41:22](https://news.ycombinator.com/item?id=40316030) - [I Accidentally Uncovered a Nationwide Scam Run by Fake Hosts on Airbnb](https://www.vice.com/en/article/43k7z3/nationwide-fake-host-scam-on-airbnb)
 * [2024-05-10, 06:38:44](https://news.ycombinator.com/item?id=40316010) - [Elvish, expressive programming language and a versatile interactive shell](https://elv.sh)
 * [2024-05-10, 06:31:34](https://news.ycombinator.com/item?id=40315970) - [Roman Tyrian purple snail dye found in UK for first time](https://www.bbc.com/news/articles/cjje132jvygo)
