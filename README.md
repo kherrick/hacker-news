@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-10, 19:51:46](https://news.ycombinator.com/item?id=40323155) - [Meta Kills a Crucial Transparency Tool at the Worst Possible Time](https://www.wired.com/story/meta-kills-crucial-transparency-tool-worst-possible-time/)
 * [2024-05-10, 17:55:08](https://news.ycombinator.com/item?id=40321867) - [Spider-Man (Neversoft) Decompilation Project Progress Checkpoint – May 2024](https://krystalgamer.github.io/spidey-decomp-status-may/)
 * [2024-05-10, 17:51:11](https://news.ycombinator.com/item?id=40321824) - [An informal comparison of the three major implementations of std:string](https://devblogs.microsoft.com/oldnewthing/20240510-00/?p=109742)
 * [2024-05-10, 17:50:52](https://news.ycombinator.com/item?id=40321821) - [Coronal mass ejection impact imminent, Two more earth-directed CMEs](https://www.spaceweatherlive.com/en/news/view/533/20240510-cme-impact-imminent-two-more-earth-directed-cmes.html)
@@ -19,7 +20,6 @@
 * [2024-05-09, 22:50:05](https://news.ycombinator.com/item?id=40313733) - [Apple apologizes for iPad 'Crush' ad that 'missed the mark'](https://www.theverge.com/2024/5/9/24153113/apple-ipad-ad-crushing-apology)
 * [2024-05-09, 22:11:41](https://news.ycombinator.com/item?id=40313451) - [The world has probably passed peak pollution](https://www.sustainabilitybynumbers.com/p/peak-pollution)
 * [2024-05-09, 21:47:13](https://news.ycombinator.com/item?id=40313264) - [Life-like particle system](https://ventrella.com/Clusters/)
-* [2024-05-09, 21:36:06](https://news.ycombinator.com/item?id=40313193) - [Cubic millimetre of brain mapped in spectacular detail](https://www.nature.com/articles/d41586-024-01387-9)
 * [2024-05-09, 19:43:11](https://news.ycombinator.com/item?id=40312192) - [Cylindrical Slide Rules](https://americanhistory.si.edu/collections/object-groups/slide-rules/cylindrical-slide-rules)
 * [2024-05-09, 17:54:49](https://news.ycombinator.com/item?id=40310896) - [It's always TCP_NODELAY](https://brooker.co.za/blog/2024/05/09/nagle.html)
 * [2024-05-08, 18:17:45](https://news.ycombinator.com/item?id=40301310) - [Show HN: I created 3,800+ Open Source React Icons (Beautiful, Rounded Style)](https://github.com/hugeicons/hugeicons-react)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-10](index.md)
 
+* [2024-05-10, 19:51:46](https://news.ycombinator.com/item?id=40323155) - [Meta Kills a Crucial Transparency Tool at the Worst Possible Time](https://www.wired.com/story/meta-kills-crucial-transparency-tool-worst-possible-time/)
 * [2024-05-10, 18:39:12](https://news.ycombinator.com/item?id=40322388) - [Taking Apple to Court: Their mistake wiped out our $33,680 MRR mobile business](https://old.reddit.com/r/iOSProgramming/comments/1cor2t5/taking_on_apple_in_court_their_mistake_wiped_out/)
 * [2024-05-10, 18:30:34](https://news.ycombinator.com/item?id=40322302) - [Climate protesters storm Tesla gigafactory in Europe](https://www.wired.com/story/climate-protestors-storm-teslas-europe-gigafactory/)
 * [2024-05-10, 18:16:18](https://news.ycombinator.com/item?id=40322114) - [What Software Engineers Need to Know About AI Jobs](https://spectrum.ieee.org/ai-jobs)
