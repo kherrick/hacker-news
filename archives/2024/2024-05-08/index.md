@@ -33,6 +33,7 @@
 * [2024-05-08, 18:17:45](https://news.ycombinator.com/item?id=40301310) - [Show HN: I created 3,800+ Open Source React Icons (Beautiful, Rounded Style)](https://github.com/hugeicons/hugeicons-react)
 * [2024-05-08, 17:24:39](https://news.ycombinator.com/item?id=40300641) - [Environmental Changes Are Fueling Human, Animal and Plant Diseases, Study Finds](https://www.nytimes.com/2024/05/08/health/environment-climate-health.html)
 * [2024-05-08, 17:14:16](https://news.ycombinator.com/item?id=40300523) - [HiFi-DRAM: Enabling High-Fidelity DRAM Research by Uncovering Sense Amplifiers](https://comsec.ethz.ch/research/dram/hifi-dram/)
+* [2024-05-08, 17:13:26](https://news.ycombinator.com/item?id=40300515) - [New mirror that can be flexibly shaped improves X-ray microscopes](https://phys.org/news/2024-05-mirror-flexibly-ray-microscopes.html)
 * [2024-05-08, 17:13:07](https://news.ycombinator.com/item?id=40300509) - [OpenAI: Model Spec](https://cdn.openai.com/spec/model-spec-2024-05-08.html)
 * [2024-05-08, 17:11:18](https://news.ycombinator.com/item?id=40300482) - [OpenAI: Model Spec](https://openai.com/index/introducing-the-model-spec)
 * [2024-05-08, 17:09:17](https://news.ycombinator.com/item?id=40300454) - [Development Notes from xkcd's \"Machine\"](https://chromakode.com/post/xkcd-machine/)
