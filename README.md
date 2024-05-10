@@ -20,6 +20,7 @@
 * [2024-05-09, 23:02:14](https://news.ycombinator.com/item?id=40313798) - [Wprs – rootless remote desktop for Wayland (and X11, via XWayland) applications](https://github.com/wayland-transpositor/wprs)
 * [2024-05-09, 22:50:05](https://news.ycombinator.com/item?id=40313733) - [Apple apologizes for iPad 'Crush' ad that 'missed the mark'](https://www.theverge.com/2024/5/9/24153113/apple-ipad-ad-crushing-apology)
 * [2024-05-09, 21:47:13](https://news.ycombinator.com/item?id=40313264) - [Life-like particle system](https://ventrella.com/Clusters/)
+* [2024-05-09, 21:36:06](https://news.ycombinator.com/item?id=40313193) - [Cubic millimetre of brain mapped in spectacular detail](https://www.nature.com/articles/d41586-024-01387-9)
 * [2024-05-09, 21:28:43](https://news.ycombinator.com/item?id=40313143) - [Sioyek is a PDF viewer with a focus on textbooks and research papers](https://github.com/ahrm/sioyek)
 * [2024-05-09, 17:54:49](https://news.ycombinator.com/item?id=40310896) - [It's always TCP_NODELAY](https://brooker.co.za/blog/2024/05/09/nagle.html)
 * [2024-05-09, 15:38:48](https://news.ycombinator.com/item?id=40309342) - [Launch HN: Muddy (YC S19) – Multiplayer browser for getting work done](https://news.ycombinator.com/item?id=40309342)
@@ -28,7 +29,6 @@
 * [2024-05-08, 06:03:18](https://news.ycombinator.com/item?id=40294808) - [Radient – vectorize many data types, not just text](https://github.com/fzliu/radient)
 * [2024-05-08, 05:30:03](https://news.ycombinator.com/item?id=40294660) - [Show HN: A simple 2D fluid and gravity simulation with WASM and WebGL](https://aestuans.github.io/blob/)
 * [2024-05-07, 20:23:29](https://news.ycombinator.com/item?id=40291012) - [Sound-suppressing silk can create quiet spaces](https://news.mit.edu/2024/sound-suppressing-silk-can-create-quiet-spaces-0507)
-* [2024-05-07, 19:12:15](https://news.ycombinator.com/item?id=40290228) - [Medieval Icelanders were likely hunting blue whales long industrial technology](https://hakaimagazine.com/features/how-viking-age-hunters-took-down-the-biggest-animal-on-earth/)
 * [2024-05-05, 16:12:30](https://news.ycombinator.com/item?id=40265928) - [I was at the clapperboard for Orson Welles' drunk wine commercial (2021)](https://melmagazine.com/en-us/story/orson-welles-drunk-wine-commercial)
 
 ## [Archives](archives/index.md)
