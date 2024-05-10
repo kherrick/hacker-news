@@ -11,6 +11,7 @@
 * [2024-05-10, 18:05:04](https://news.ycombinator.com/item?id=40321974) - [200+ People With Diabetes Injured After Software Drained Insulin Pump Batteries](https://www.cnn.com/2024/05/08/health/tandem-insulin-pump-app-recall/index.html)
 * [2024-05-10, 17:58:15](https://news.ycombinator.com/item?id=40321901) - [ElevenLabs Music](https://twitter.com/elevenlabsio/status/1788628171044053386)
 * [2024-05-10, 17:55:08](https://news.ycombinator.com/item?id=40321867) - [Spider-Man (Neversoft) Decompilation Project Progress Checkpoint – May 2024](https://krystalgamer.github.io/spidey-decomp-status-may/)
+* [2024-05-10, 17:51:11](https://news.ycombinator.com/item?id=40321824) - [An informal comparison of the three major implementations of std:string](https://devblogs.microsoft.com/oldnewthing/20240510-00/?p=109742)
 * [2024-05-10, 17:50:52](https://news.ycombinator.com/item?id=40321821) - [Coronal mass ejection impact imminent, Two more earth-directed CMEs](https://www.spaceweatherlive.com/en/news/view/533/20240510-cme-impact-imminent-two-more-earth-directed-cmes.html)
 * [2024-05-10, 17:44:44](https://news.ycombinator.com/item?id=40321738) - [OpenAI demo some ChatGPT and GPT-4 updates on 13 May](https://openai.com/)
 * [2024-05-10, 17:35:39](https://news.ycombinator.com/item?id=40321635) - [GhostStripe attack haunts self-driving cars by making them ignore road signs](https://www.theregister.com/2024/05/10/baidu_apollo_hack/)
