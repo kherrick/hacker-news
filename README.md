@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-10, 02:30:07](https://news.ycombinator.com/item?id=40314960) - [The Ukraine war is driving rapid innovation in drone technology](https://www.understandingai.org/p/the-ukraine-war-is-driving-rapid)
 * [2024-05-10, 02:08:15](https://news.ycombinator.com/item?id=40314878) - [No One Knows What Universities Are For](https://www.theatlantic.com/ideas/archive/2024/05/bureaucratic-bloat-eating-american-universities-inside/678324/)
 * [2024-05-10, 02:06:07](https://news.ycombinator.com/item?id=40314870) - [Google Photos testing 'Collections' redesign that buries your library](https://9to5google.com/2024/05/08/google-photos-library-collections-testing/)
 * [2024-05-10, 02:00:17](https://news.ycombinator.com/item?id=40314845) - [Webb Hints at Possible Atmosphere Surrounding Rocky Exoplanet](https://science.nasa.gov/missions/webb/nasas-webb-hints-at-possible-atmosphere-surrounding-rocky-exoplanet/)
@@ -19,7 +20,6 @@
 * [2024-05-09, 16:17:14](https://news.ycombinator.com/item?id=40309759) - [ESP32 Drum Synth Machine](https://github.com/zircothc/DRUM_2004_V1)
 * [2024-05-09, 16:14:47](https://news.ycombinator.com/item?id=40309719) - [Show HN: Ellipsis – Automated PR reviews and bug fixes](https://www.ellipsis.dev/)
 * [2024-05-09, 15:38:48](https://news.ycombinator.com/item?id=40309342) - [Launch HN: Muddy (YC S19) – Multiplayer browser for getting work done](https://news.ycombinator.com/item?id=40309342)
-* [2024-05-09, 13:32:04](https://news.ycombinator.com/item?id=40308044) - [VideoPrism: A foundational visual encoder for video understanding](https://research.google/blog/videoprism-a-foundational-visual-encoder-for-video-understanding/)
 * [2024-05-09, 12:31:04](https://news.ycombinator.com/item?id=40307519) - [Show HN: Exploring HN by mapping and analyzing 40M posts and comments for fun](https://blog.wilsonl.in/hackerverse/)
 * [2024-05-09, 12:21:53](https://news.ycombinator.com/item?id=40307454) - [Show HN: An SQS Alternative on Postgres](https://github.com/tembo-io/pgmq)
 * [2024-05-09, 11:38:14](https://news.ycombinator.com/item?id=40307138) - [Deaf girl is cured in world first gene therapy trial](https://www.independent.co.uk/news/health/deaf-cure-girl-gene-therapy-b2541735.html)
