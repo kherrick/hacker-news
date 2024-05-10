@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-10](index.md)
 
+* [2024-05-10, 12:33:04](https://news.ycombinator.com/item?id=40318206) - [Apple Joins the SeL4 Foundation](https://sel4.systems/news/#member-apple)
 * [2024-05-10, 12:14:27](https://news.ycombinator.com/item?id=40318025) - [Unbearable hours, threats of being fired: The abuse of migrant interns in Japan](https://observers.france24.com/en/asia-pacific/20220419-unbearable-hours-threats-of-being-fired-the-abuse-of-migrant-interns-in-japan)
 * [2024-05-10, 12:02:19](https://news.ycombinator.com/item?id=40317912) - [DKIM, SPF, SpamAssassin Email Validator](https://dkimvalidator.com/)
 * [2024-05-10, 11:59:35](https://news.ycombinator.com/item?id=40317885) - [Boeing 737 catches fire and skids off the runway in Senegal](https://apnews.com/article/senegal-dakar-plane-crash-boeing-ca40060696eaedfb69324d9110a55c60)
