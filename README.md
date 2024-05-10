@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-10, 05:21:08](https://news.ycombinator.com/item?id=40315707) - [AI content firm creates fake writers for  ai articles](https://futurism.com/advon-ai-content)
 * [2024-05-10, 04:43:01](https://news.ycombinator.com/item?id=40315551) - [Polestar eliminates the rear window in latest electric car](https://www.dezeen.com/2024/02/06/polestar-4-eliminiates-rear-window/)
 * [2024-05-10, 04:05:29](https://news.ycombinator.com/item?id=40315434) - [Player-Driven Emergence in LLM-Driven Game Narrative](https://arxiv.org/abs/2404.17027)
 * [2024-05-10, 03:58:42](https://news.ycombinator.com/item?id=40315400) - [Object oriented design patterns in the Linux kernel](https://lwn.net/Articles/444910/)
@@ -28,7 +27,8 @@
 * [2024-05-09, 09:08:06](https://news.ycombinator.com/item?id=40306463) - [Xilinx HBM2 Internals (2023)](https://lovehindpa.ws/posts/xilinx-hbm2/)
 * [2024-05-08, 11:25:49](https://news.ycombinator.com/item?id=40296734) - [Logarithmic Scales](https://briefer.cloud/blog/posts/logarithms/)
 * [2024-05-07, 23:49:50](https://news.ycombinator.com/item?id=40292853) - [RTK Experiments](https://n1vux.github.io/articles/Geodetic/RTK-experiments.html)
-* [2024-05-07, 19:12:15](https://news.ycombinator.com/item?id=40290228) - [Viking-Age Hunters Took Down the Biggest Animal on Earth](https://hakaimagazine.com/features/how-viking-age-hunters-took-down-the-biggest-animal-on-earth/)
+* [2024-05-07, 19:12:15](https://news.ycombinator.com/item?id=40290228) - [Medieval Icelanders were likely hunting blue whales long industrial technology](https://hakaimagazine.com/features/how-viking-age-hunters-took-down-the-biggest-animal-on-earth/)
+* [2024-05-06, 12:59:16](https://news.ycombinator.com/item?id=40274113) - [Weaver: An ergonomic CLI parsing library for Roc lang](https://sammohr.dev/blog/announcing-weaver)
 * [2024-05-05, 00:13:44](https://news.ycombinator.com/item?id=40261378) - [In medieval England, leprosy spread btwn red squirrels/people, genome evidence](https://phys.org/news/2024-05-medieval-england-leprosy-red-squirrels.html)
 
 ## [Archives](archives/index.md)

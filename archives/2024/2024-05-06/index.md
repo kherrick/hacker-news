@@ -68,6 +68,7 @@
 * [2024-05-06, 13:50:10](https://news.ycombinator.com/item?id=40274662) - [A fourteen-day free trial ain’t gonna cut it](https://keygen.sh/blog/your-14-day-free-trial-aint-gonna-cut-it/)
 * [2024-05-06, 13:25:34](https://news.ycombinator.com/item?id=40274371) - [Stack Overflow and OpenAI are partnering](https://stackoverflow.co/company/press/archive/openai-partnership/)
 * [2024-05-06, 13:04:06](https://news.ycombinator.com/item?id=40274158) - [How I Think About Debt](https://collabfund.com/blog/how-i-think-about-debt/)
+* [2024-05-06, 12:59:16](https://news.ycombinator.com/item?id=40274113) - [Weaver: An ergonomic CLI parsing library for Roc lang](https://sammohr.dev/blog/announcing-weaver)
 * [2024-05-06, 12:43:42](https://news.ycombinator.com/item?id=40273968) - [Secure Randomness in Go 1.22](https://go.dev/blog/chacha8rand?hn=1)
 * [2024-05-06, 12:26:37](https://news.ycombinator.com/item?id=40273824) - [Anduril Announces Pulsar Family of AI-Enabled Electromagnetic Warfare Systems](https://www.anduril.com/article/anduril-announces-pulsar/)
 * [2024-05-06, 12:21:07](https://news.ycombinator.com/item?id=40273780) - [Daniel Dennett: 'Where Am I?'](https://thereader.mitpress.mit.edu/daniel-dennett-where-am-i/)
