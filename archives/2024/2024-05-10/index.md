@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-10](index.md)
 
+* [2024-05-10, 14:04:19](https://news.ycombinator.com/item?id=40319140) - [Apple to Power AI Features with M2 Ultra Servers](https://www.macrumors.com/2024/05/09/apple-to-power-ai-features-with-m2-ultra-servers/)
 * [2024-05-10, 13:47:07](https://news.ycombinator.com/item?id=40318930) - [The Emotional Support Animal Racket](https://www.astralcodexten.com/p/the-emotional-support-animal-racket)
 * [2024-05-10, 13:08:38](https://news.ycombinator.com/item?id=40318542) - [Show HN: A web debugger an ex-Cloudflare team has been working on for 4 years](https://news.ycombinator.com/item?id=40318542)
 * [2024-05-10, 13:00:18](https://news.ycombinator.com/item?id=40318456) - [California says restaurants must bake all of their add-on fees into menu prices](https://www.npr.org/2024/05/10/1249930674/california-restaurants-fees)

@@ -1,11 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-10, 14:04:19](https://news.ycombinator.com/item?id=40319140) - [Apple to Power AI Features with M2 Ultra Servers](https://www.macrumors.com/2024/05/09/apple-to-power-ai-features-with-m2-ultra-servers/)
 * [2024-05-10, 13:47:07](https://news.ycombinator.com/item?id=40318930) - [The Emotional Support Animal Racket](https://www.astralcodexten.com/p/the-emotional-support-animal-racket)
 * [2024-05-10, 13:08:38](https://news.ycombinator.com/item?id=40318542) - [Show HN: A web debugger an ex-Cloudflare team has been working on for 4 years](https://news.ycombinator.com/item?id=40318542)
-* [2024-05-10, 12:56:17](https://news.ycombinator.com/item?id=40318404) - [The next union organizing wave is at Apple](https://www.cnn.com/2024/05/10/business/apple-labor-unions-stores-retail-strike/index.html)
 * [2024-05-10, 12:52:27](https://news.ycombinator.com/item?id=40318356) - [SWPC issues first G4 geomagnetic storm watch since 2005](https://www.swpc.noaa.gov/news/swpc-issues-its-first-g4-watch-2005)
 * [2024-05-10, 12:14:27](https://news.ycombinator.com/item?id=40318025) - [Unbearable hours, threats of being fired: The abuse of migrant interns in Japan](https://observers.france24.com/en/asia-pacific/20220419-unbearable-hours-threats-of-being-fired-the-abuse-of-migrant-interns-in-japan)
-* [2024-05-10, 11:59:22](https://news.ycombinator.com/item?id=40317883) - [A fragment of human cerebral cortex reconstructed at nanoscale resolution](https://www.science.org/doi/10.1126/science.adk4858)
 * [2024-05-10, 11:41:12](https://news.ycombinator.com/item?id=40317740) - [Popover API](https://developer.mozilla.org/en-US/docs/Web/API/Popover_API)
 * [2024-05-10, 09:06:05](https://news.ycombinator.com/item?id=40316814) - [Trip C++Now 2024 – think-cell](https://www.think-cell.com/en/career/devblog/trip-report-cpp-now-2024)
 * [2024-05-10, 09:01:05](https://news.ycombinator.com/item?id=40316788) - [Is the largest root of a random polynomial more likely to be real than complex?](https://mathoverflow.net/questions/470951/is-the-largest-root-of-a-random-polynomial-more-likely-to-be-real-than-complex)
@@ -15,6 +14,7 @@
 * [2024-05-10, 06:31:34](https://news.ycombinator.com/item?id=40315970) - [Roman Tyrian purple snail dye found in UK for first time](https://www.bbc.com/news/articles/cjje132jvygo)
 * [2024-05-10, 04:05:29](https://news.ycombinator.com/item?id=40315434) - [Player-Driven Emergence in LLM-Driven Game Narrative](https://arxiv.org/abs/2404.17027)
 * [2024-05-10, 03:58:42](https://news.ycombinator.com/item?id=40315400) - [Object oriented design patterns in the Linux kernel (2011)](https://lwn.net/Articles/444910/)
+* [2024-05-10, 02:46:11](https://news.ycombinator.com/item?id=40315022) - [Energy-Efficient Llama 2 Inference on FPGAs via High Level Synthesis](https://arxiv.org/abs/2405.00738)
 * [2024-05-10, 00:16:39](https://news.ycombinator.com/item?id=40314285) - [Weapons in Space Technology, Politics, and the Rise and Fall of SDI](https://direct.mit.edu/books/oa-monograph/5770/Weapons-in-SpaceTechnology-Politics-and-the-Rise)
 * [2024-05-10, 00:09:11](https://news.ycombinator.com/item?id=40314236) - [CS388: Natural Language Processing](https://www.cs.utexas.edu/~gdurrett/courses/online-course/materials.html)
 * [2024-05-09, 23:02:14](https://news.ycombinator.com/item?id=40313798) - [Wprs – rootless remote desktop for Wayland (and X11, via XWayland) applications](https://github.com/wayland-transpositor/wprs)
@@ -28,8 +28,8 @@
 * [2024-05-08, 05:30:03](https://news.ycombinator.com/item?id=40294660) - [Show HN: A simple 2D fluid and gravity simulation with WASM and WebGL](https://aestuans.github.io/blob/)
 * [2024-05-07, 20:23:29](https://news.ycombinator.com/item?id=40291012) - [Sound-suppressing silk can create quiet spaces](https://news.mit.edu/2024/sound-suppressing-silk-can-create-quiet-spaces-0507)
 * [2024-05-07, 19:12:15](https://news.ycombinator.com/item?id=40290228) - [Medieval Icelanders were likely hunting blue whales long industrial technology](https://hakaimagazine.com/features/how-viking-age-hunters-took-down-the-biggest-animal-on-earth/)
+* [2024-05-06, 08:26:04](https://news.ycombinator.com/item?id=40272439) - [Grace Version Control System](https://github.com/ScottArbeit/Grace)
 * [2024-05-05, 16:12:30](https://news.ycombinator.com/item?id=40265928) - [I was at the clapperboard for Orson Welles' drunk wine commercial (2021)](https://melmagazine.com/en-us/story/orson-welles-drunk-wine-commercial)
-* [2024-05-05, 14:54:44](https://news.ycombinator.com/item?id=40265332) - [With PowerPC, Windows CE and the WiiN-Pad Slate, Everyone's a WiiN-Er](http://oldvcr.blogspot.com/2024/05/with-powerpc-windows-ce-and-wiin-pad.html)
 
 ## [Archives](archives/index.md)
 
