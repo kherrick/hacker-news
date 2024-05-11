@@ -1,12 +1,32 @@
 [
   [
     [
-      "2024-05-11, 14:12:47",
-      "https://news.ycombinator.com/item?id=40328188"
+      "2024-05-11, 14:51:59",
+      "https://news.ycombinator.com/item?id=40328445"
     ],
     [
-      "The right to data portability in the fair data economy (2023)",
-      "https://helda.helsinki.fi/server/api/core/bitstreams/c77e8c70-f3d7-47e2-bd54-4872d9e5d15f/content"
+      "Rejected from YC. Reason: Because I don't have a cofounder",
+      "https://twitter.com/richiemcilroy/status/1788996498081951848"
+    ]
+  ],
+  [
+    [
+      "2024-05-11, 14:40:04",
+      "https://news.ycombinator.com/item?id=40328385"
+    ],
+    [
+      "Former NFL Star Rob Gronkowski to Pay $1.9M to Settle Crypto Investor Suit",
+      "https://www.coindesk.com/policy/2024/05/07/former-nfl-star-rob-gronkowski-to-pay-19m-to-settle-crypto-investor-suit/"
+    ]
+  ],
+  [
+    [
+      "2024-05-11, 14:18:08",
+      "https://news.ycombinator.com/item?id=40328235"
+    ],
+    [
+      "G5 Conditions Reached yet Again",
+      "https://www.swpc.noaa.gov/news/g5-conditions-reached-yet-again"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "Unix Viruses 25th Anniversary Edition",
       "https://tmpout.sh/3/03.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-11, 07:56:30",
-      "https://news.ycombinator.com/item?id=40326706"
-    ],
-    [
-      "Jetson One",
-      "https://jetson.com/jetson-one"
     ]
   ],
   [
@@ -131,6 +141,16 @@
   ],
   [
     [
+      "2024-05-10, 21:04:56",
+      "https://news.ycombinator.com/item?id=40323785"
+    ],
+    [
+      "One Minute Park",
+      "https://oneminutepark.tv/"
+    ]
+  ],
+  [
+    [
       "2024-05-10, 17:50:52",
       "https://news.ycombinator.com/item?id=40321821"
     ],
@@ -147,16 +167,6 @@
     [
       "Jim Simons has died",
       "https://www.simonsfoundation.org/2024/05/10/simons-foundation-co-founder-mathematician-and-investor-jim-simons-dies-at-86/"
-    ]
-  ],
-  [
-    [
-      "2024-05-10, 13:27:20",
-      "https://news.ycombinator.com/item?id=40318714"
-    ],
-    [
-      "Superfile – A fancy, pretty terminal file manager",
-      "https://github.com/MHNightCat/superfile"
     ]
   ],
   [
@@ -191,12 +201,12 @@
   ],
   [
     [
-      "2024-05-10, 09:01:05",
-      "https://news.ycombinator.com/item?id=40316788"
+      "2024-05-10, 08:47:05",
+      "https://news.ycombinator.com/item?id=40316704"
     ],
     [
-      "Is the largest root of a random real polynomial more likely real than complex?",
-      "https://mathoverflow.net/questions/470951/is-the-largest-root-of-a-random-polynomial-more-likely-to-be-real-than-complex"
+      "Fedora Asahi Remix 40 is a big step forward for Linux on Macs",
+      "https://arstechnica.com/gadgets/2024/05/fedora-asahi-remix-40-is-another-big-step-forward-for-linux-on-apple-silicon-macs/"
     ]
   ],
   [
@@ -251,22 +261,22 @@
   ],
   [
     [
-      "2024-05-09, 21:47:13",
-      "https://news.ycombinator.com/item?id=40313264"
-    ],
-    [
-      "Life-like particle system",
-      "https://ventrella.com/Clusters/"
-    ]
-  ],
-  [
-    [
       "2024-05-09, 21:36:06",
       "https://news.ycombinator.com/item?id=40313193"
     ],
     [
       "Cubic millimetre of brain mapped at nanoscale resolution",
       "https://www.nature.com/articles/d41586-024-01387-9"
+    ]
+  ],
+  [
+    [
+      "2024-05-08, 17:13:26",
+      "https://news.ycombinator.com/item?id=40300515"
+    ],
+    [
+      "New mirror that can be flexibly shaped improves X-ray microscopes",
+      "https://phys.org/news/2024-05-mirror-flexibly-ray-microscopes.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Selling 'Ghost in the Shell'",
       "https://animationobsessive.substack.com/p/selling-ghost-in-the-shell"
-    ]
-  ],
-  [
-    [
-      "2024-05-04, 17:01:25",
-      "https://news.ycombinator.com/item?id=40258903"
-    ],
-    [
-      "Deno KV internals: building a database for the modern web",
-      "https://deno.com/blog/building-deno-kv"
     ]
   ]
 ]
