@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-11, 22:47:56](https://news.ycombinator.com/item?id=40331105) - [Corporate America Never Quit Forced Labor](https://www.bloomberg.com/news/features/2024-05-11/us-prison-labor-powers-billions-in-corporate-government-revenue)
 * [2024-05-11, 22:18:28](https://news.ycombinator.com/item?id=40330997) - [Social Security now expected to run short on funds in 2035, one year later](https://www.cnbc.com/2024/05/06/social-security-expected-to-run-short-on-funds-in-2035-government-says.html)
-* [2024-05-11, 22:07:51](https://news.ycombinator.com/item?id=40330932) - [Canadians have been exposed to potentially toxic chemicals](https://www.ctvnews.ca/canada/millions-of-canadians-have-been-exposed-to-potentially-toxic-chemicals-and-they-re-not-going-anywhere-1.6878917)
 * [2024-05-11, 22:07:09](https://news.ycombinator.com/item?id=40330930) - [Billions in Dirty Money Flies Under the Radar at Busiest Airports](https://www.wsj.com/business/airlines/heathrow-dubai-airports-billions-dirty-money-9f49cc7f)
 * [2024-05-11, 21:37:09](https://news.ycombinator.com/item?id=40330801) - [Oberon by Examples](https://github.com/vishapoberon/oberonbyexample)
 * [2024-05-11, 21:01:14](https://news.ycombinator.com/item?id=40330610) - [Fathom (YC W21) is hiring a TPM to prototype new AI features](https://www.ycombinator.com/companies/fathom/jobs/r4HKk2W-product-manager-ai)
