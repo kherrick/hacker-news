@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-11](index.md)
 
+* [2024-05-11, 14:39:58](https://news.ycombinator.com/item?id=40328384) - [Sam Altman's nuclear energy company Oklo plunges 54% in NYSE debut](https://www.cnbc.com/2024/05/10/sam-altman-takes-nuclear-startup-oklo-public-to-power-ai-ambitions.html)
 * [2024-05-11, 13:36:27](https://news.ycombinator.com/item?id=40327951) - [A Joint Statement from UniSuper and Google Cloud CEO, Thomas Kurian](https://www.unisuper.com.au/about-us/media-centre/2024/a-joint-statement-from-unisuper-and-google-cloud)
 * [2024-05-11, 13:19:25](https://news.ycombinator.com/item?id=40327872) - [Supreme Court: There's No 'Time Limit' on Copyright Infringement Claims](https://torrentfreak.com/supreme-court-theres-no-time-limit-on-copyright-infringement-claims-240510/)
 * [2024-05-11, 13:15:58](https://news.ycombinator.com/item?id=40327857) - [Nvidia Open GPU Linux Kernel Driver Soon Be the Default for Turing, Newer GPUs](https://www.phoronix.com/news/NVIDIA-R560-Open-Default)
@@ -11,6 +12,7 @@
 * [2024-05-11, 13:03:31](https://news.ycombinator.com/item?id=40327782) - [Kardashev Scale](https://en.wikipedia.org/wiki/Kardashev_scale)
 * [2024-05-11, 12:34:41](https://news.ycombinator.com/item?id=40327687) - [Americans are choking on surging fast-food prices. \"I can't justify the expense\"](https://www.cbsnews.com/news/mcdonalds-price-increases-fast-food-cost-popeyes-wendys/)
 * [2024-05-11, 12:19:00](https://news.ycombinator.com/item?id=40327631) - [PeaZip: Open-source file compression and encryption software](https://peazip.github.io/)
+* [2024-05-11, 11:46:28](https://news.ycombinator.com/item?id=40327523) - [The Tennessee Valley Authority](https://en.wikipedia.org/wiki/Tennessee_Valley_Authority)
 * [2024-05-11, 10:41:22](https://news.ycombinator.com/item?id=40327307) - [People who won't give up floppy disks](https://www.bbc.com/future/article/20240510-floppy-disks-why-some-people-are-still-in-love-with-this-obsolete-computer-storage-technology)
 * [2024-05-11, 10:35:19](https://news.ycombinator.com/item?id=40327279) - [Multidirectional joint distribution neurons reducing to KAN](https://arxiv.org/abs/2405.05097)
 * [2024-05-11, 10:21:03](https://news.ycombinator.com/item?id=40327236) - [Unix Viruses 25th Anniversary Edition](https://tmpout.sh/3/03.html)
