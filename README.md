@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-11, 04:03:07](https://news.ycombinator.com/item?id=40325876) - [Apple finalizing deal with OpenAI to bring ChatGPT features to iOS 18](https://9to5mac.com/2024/05/10/ios-18-chatgpt-features-apple-openai/)
 * [2024-05-11, 02:52:31](https://news.ycombinator.com/item?id=40325674) - [Verizon and T-Mobile are trying to gobble up US Cellular](https://www.theverge.com/business/2024/5/9/24153201/verizon-t-mobile-buy-us-cellular-spectrum)
 * [2024-05-10, 21:59:03](https://news.ycombinator.com/item?id=40324179) - [Most of Europe is glowing pink under the aurora](https://www.foto-webcam.eu/webcam/lucknerhaus/)
 * [2024-05-10, 21:04:56](https://news.ycombinator.com/item?id=40323785) - [One Minute Park](https://oneminutepark.tv/)
@@ -11,6 +10,7 @@
 * [2024-05-10, 15:29:46](https://news.ycombinator.com/item?id=40320166) - [KeePassXC Debian maintainer has removed all network features](https://fosstodon.org/@keepassxc/112417353193348720)
 * [2024-05-10, 13:27:20](https://news.ycombinator.com/item?id=40318714) - [Superfile – A fancy, pretty terminal file manager](https://github.com/MHNightCat/superfile)
 * [2024-05-10, 13:08:38](https://news.ycombinator.com/item?id=40318542) - [Show HN: A web debugger an ex-Cloudflare team has been working on for 4 years](https://news.ycombinator.com/item?id=40318542)
+* [2024-05-10, 13:08:23](https://news.ycombinator.com/item?id=40318538) - [The API database architecture – Stop writing HTTP-GET endpoints](https://www.fabianzeindl.com/posts/the-api-database-architecture)
 * [2024-05-10, 13:02:54](https://news.ycombinator.com/item?id=40318487) - [Swipos-GIS/GEO, nationwide GNSS RTK correction for centimeter accurate location](https://www.swisstopo.admin.ch/en/swipos-gisgeo-for-rtk-and-postprocessing-applications)
 * [2024-05-10, 12:23:21](https://news.ycombinator.com/item?id=40318123) - [Food labels and the lies they tell us about ‘best before’ expiration dates (2021)](https://www.vox.com/22559293/food-waste-expiration-label-best-before)
 * [2024-05-10, 10:53:30](https://news.ycombinator.com/item?id=40317401) - [Evaluating Eye Tracking Systems for Computer Input (2012)](https://www.yorku.ca/mack/cogain.html)
