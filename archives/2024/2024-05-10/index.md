@@ -6,6 +6,7 @@
 
 * [2024-05-10, 22:39:13](https://news.ycombinator.com/item?id=40324439) - [Tesla has pulled all job openings](https://www.tesla.com/careers/search)
 * [2024-05-10, 22:38:54](https://news.ycombinator.com/item?id=40324434) - [Atrazine, an endocrine-disrupting herbicide banned in EU, is widely used in US](https://usrtk.org/pesticides/atrazine/)
+* [2024-05-10, 22:22:59](https://news.ycombinator.com/item?id=40324326) - [The Plastic Chemicals Hiding in Your Food: What Our Tests Found](https://www.consumerreports.org/health/food-contaminants/the-plastic-chemicals-hiding-in-your-food-a7358224781/)
 * [2024-05-10, 21:59:03](https://news.ycombinator.com/item?id=40324179) - [Most of Europe is glowing pink under the aurora](https://www.foto-webcam.eu/webcam/lucknerhaus/)
 * [2024-05-10, 21:57:11](https://news.ycombinator.com/item?id=40324166) - [Recompilation: A New Way to Keep N64 Games Alive [video]](https://www.youtube.com/watch?v=ywWwUuWRgsM)
 * [2024-05-10, 21:42:49](https://news.ycombinator.com/item?id=40324064) - [Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations?](https://arxiv.org/abs/2405.05904)
@@ -28,6 +29,7 @@
 * [2024-05-10, 17:44:44](https://news.ycombinator.com/item?id=40321738) - [OpenAI demo some ChatGPT and GPT-4 updates on 13 May](https://openai.com/)
 * [2024-05-10, 17:35:39](https://news.ycombinator.com/item?id=40321635) - [GhostStripe attack haunts self-driving cars by making them ignore road signs](https://www.theregister.com/2024/05/10/baidu_apollo_hack/)
 * [2024-05-10, 17:13:03](https://news.ycombinator.com/item?id=40321399) - [Richest Americans Now Pay Less Tax Than Working Class in Historical First](https://www.newsweek.com/richest-americans-pay-less-tax-working-class-1897047)
+* [2024-05-10, 17:09:51](https://news.ycombinator.com/item?id=40321362) - [Show HN: Jacinda, a functional Awk (text stream processing on the comamnd-line)](https://hackage.haskell.org/package/jacinda)
 * [2024-05-10, 16:59:06](https://news.ycombinator.com/item?id=40321230) - [The surging demand for data is guzzling Virginia's water](https://grist.org/technology/surging-demand-data-guzzling-water-ai/)
 * [2024-05-10, 16:32:41](https://news.ycombinator.com/item?id=40320900) - [A Skeptic's Take on Beaming Power to Earth from Space](https://spectrum.ieee.org/space-based-solar-power-2667878868)
 * [2024-05-10, 15:51:01](https://news.ycombinator.com/item?id=40320406) - [Jim Simons has died](https://www.simonsfoundation.org/2024/05/10/simons-foundation-co-founder-mathematician-and-investor-jim-simons-dies-at-86/)
@@ -65,6 +67,7 @@
 * [2024-05-10, 06:38:44](https://news.ycombinator.com/item?id=40316010) - [Elvish, expressive programming language and a versatile interactive shell](https://elv.sh)
 * [2024-05-10, 06:31:34](https://news.ycombinator.com/item?id=40315970) - [Roman Tyrian purple snail dye found in UK for first time](https://www.bbc.com/news/articles/cjje132jvygo)
 * [2024-05-10, 06:05:40](https://news.ycombinator.com/item?id=40315860) - [Boeing whistleblower says he was pressured to hide defects](https://thehill.com/business/4652759-boeing-whistleblower-says-he-was-pressured-to-hide-defects/)
+* [2024-05-10, 06:02:11](https://news.ycombinator.com/item?id=40315850) - [Writing C code in Java/Clojure: GraalVM specific programming (2021)](https://yyhh.org/blog/2021/02/writing-c-code-in-javaclojure-graalvm-specific-programming/)
 * [2024-05-10, 05:21:08](https://news.ycombinator.com/item?id=40315707) - [AI content firm creates fake writers for  ai articles](https://futurism.com/advon-ai-content)
 * [2024-05-10, 04:43:01](https://news.ycombinator.com/item?id=40315551) - [Polestar eliminates the rear window in latest electric car](https://www.dezeen.com/2024/02/06/polestar-4-eliminiates-rear-window/)
 * [2024-05-10, 04:19:52](https://news.ycombinator.com/item?id=40315480) - [Apple to Power AI Features with M2 Ultra Servers](https://www.macrumors.com/2024/05/09/apple-to-power-ai-features-with-m2-ultra-servers/)
