@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-05-11, 10:35:19",
-      "https://news.ycombinator.com/item?id=40327279"
-    ],
-    [
-      "Multidirectional joint distribution neurons reducing to KAN",
-      "https://arxiv.org/abs/2405.05097"
-    ]
-  ],
-  [
-    [
       "2024-05-11, 10:21:03",
       "https://news.ycombinator.com/item?id=40327236"
     ],
@@ -241,16 +231,6 @@
   ],
   [
     [
-      "2024-05-09, 22:50:05",
-      "https://news.ycombinator.com/item?id=40313733"
-    ],
-    [
-      "Apple apologizes for iPad 'Crush' ad that 'missed the mark'",
-      "https://www.theverge.com/2024/5/9/24153113/apple-ipad-ad-crushing-apology"
-    ]
-  ],
-  [
-    [
       "2024-05-09, 22:33:44",
       "https://news.ycombinator.com/item?id=40313613"
     ],
@@ -267,6 +247,16 @@
     [
       "Cubic millimetre of brain mapped at nanoscale resolution",
       "https://www.nature.com/articles/d41586-024-01387-9"
+    ]
+  ],
+  [
+    [
+      "2024-05-09, 17:54:49",
+      "https://news.ycombinator.com/item?id=40310896"
+    ],
+    [
+      "It's always TCP_NODELAY",
+      "https://brooker.co.za/blog/2024/05/09/nagle.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Selling 'Ghost in the Shell'",
       "https://animationobsessive.substack.com/p/selling-ghost-in-the-shell"
+    ]
+  ],
+  [
+    [
+      "2024-05-04, 17:01:25",
+      "https://news.ycombinator.com/item?id=40258903"
+    ],
+    [
+      "Deno KV internals: building a database for the modern web",
+      "https://deno.com/blog/building-deno-kv"
     ]
   ]
 ]
