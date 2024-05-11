@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-05-11](index.md)
 
+* [2024-05-11, 14:51:59](https://news.ycombinator.com/item?id=40328445) - [Rejected from YC. Reason: Because I don't have a cofounder](https://twitter.com/richiemcilroy/status/1788996498081951848)
+* [2024-05-11, 14:40:04](https://news.ycombinator.com/item?id=40328385) - [Former NFL Star Rob Gronkowski to Pay $1.9M to Settle Crypto Investor Suit](https://www.coindesk.com/policy/2024/05/07/former-nfl-star-rob-gronkowski-to-pay-19m-to-settle-crypto-investor-suit/)
 * [2024-05-11, 14:39:58](https://news.ycombinator.com/item?id=40328384) - [Sam Altman's nuclear energy company Oklo plunges 54% in NYSE debut](https://www.cnbc.com/2024/05/10/sam-altman-takes-nuclear-startup-oklo-public-to-power-ai-ambitions.html)
+* [2024-05-11, 14:18:08](https://news.ycombinator.com/item?id=40328235) - [G5 Conditions Reached yet Again](https://www.swpc.noaa.gov/news/g5-conditions-reached-yet-again)
 * [2024-05-11, 14:12:47](https://news.ycombinator.com/item?id=40328188) - [The right to data portability in the fair data economy (2023)](https://helda.helsinki.fi/server/api/core/bitstreams/c77e8c70-f3d7-47e2-bd54-4872d9e5d15f/content)
 * [2024-05-11, 13:36:27](https://news.ycombinator.com/item?id=40327951) - [A Joint Statement from UniSuper and Google Cloud CEO, Thomas Kurian](https://www.unisuper.com.au/about-us/media-centre/2024/a-joint-statement-from-unisuper-and-google-cloud)
 * [2024-05-11, 13:19:25](https://news.ycombinator.com/item?id=40327872) - [Supreme Court: There's No 'Time Limit' on Copyright Infringement Claims](https://torrentfreak.com/supreme-court-theres-no-time-limit-on-copyright-infringement-claims-240510/)
