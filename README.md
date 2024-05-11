@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-11, 13:03:31](https://news.ycombinator.com/item?id=40327782) - [Kardashev Scale](https://en.wikipedia.org/wiki/Kardashev_scale)
+* [2024-05-11, 12:34:41](https://news.ycombinator.com/item?id=40327687) - [Americans are choking on surging fast-food prices. \"I can't justify the expense\"](https://www.cbsnews.com/news/mcdonalds-price-increases-fast-food-cost-popeyes-wendys/)
 * [2024-05-11, 12:19:00](https://news.ycombinator.com/item?id=40327631) - [PeaZip: Open-source file compression and encryption software](https://peazip.github.io/)
 * [2024-05-11, 10:41:22](https://news.ycombinator.com/item?id=40327307) - [People who won't give up floppy disks](https://www.bbc.com/future/article/20240510-floppy-disks-why-some-people-are-still-in-love-with-this-obsolete-computer-storage-technology)
 * [2024-05-11, 10:35:19](https://news.ycombinator.com/item?id=40327279) - [Multidirectional joint distribution neurons reducing to KAN](https://arxiv.org/abs/2405.05097)
@@ -13,7 +14,6 @@
 * [2024-05-11, 06:03:58](https://news.ycombinator.com/item?id=40326305) - [The Derivative of a Number (2014)](https://rjlipton.com/2014/08/19/the-derivative-of-a-number/)
 * [2024-05-11, 05:51:18](https://news.ycombinator.com/item?id=40326269) - [Thread: Tech we can’t use or teach?](https://overengineer.dev/blog/2024/05/10/thread/)
 * [2024-05-10, 21:59:03](https://news.ycombinator.com/item?id=40324179) - [Most of Europe is glowing pink under the aurora](https://www.foto-webcam.eu/webcam/lucknerhaus/)
-* [2024-05-10, 21:04:56](https://news.ycombinator.com/item?id=40323785) - [One Minute Park](https://oneminutepark.tv/)
 * [2024-05-10, 17:50:52](https://news.ycombinator.com/item?id=40321821) - [Coronal mass ejection impact imminent, two more earth-directed CMEs](https://www.spaceweatherlive.com/en/news/view/533/20240510-cme-impact-imminent-two-more-earth-directed-cmes.html)
 * [2024-05-10, 15:51:01](https://news.ycombinator.com/item?id=40320406) - [Jim Simons has died](https://www.simonsfoundation.org/2024/05/10/simons-foundation-co-founder-mathematician-and-investor-jim-simons-dies-at-86/)
 * [2024-05-10, 13:27:20](https://news.ycombinator.com/item?id=40318714) - [Superfile – A fancy, pretty terminal file manager](https://github.com/MHNightCat/superfile)
