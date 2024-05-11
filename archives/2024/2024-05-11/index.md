@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-11](index.md)
 
+* [2024-05-11, 08:26:58](https://news.ycombinator.com/item?id=40326815) - [Avoiding the soft delete anti-pattern](https://www.cultured.systems/2024/04/24/Soft-delete/)
 * [2024-05-11, 08:05:36](https://news.ycombinator.com/item?id=40326738) - [London's history-making beavers are adapting to life in the capital](https://www.bigissue.com/news/environment/beavers-london-ealing-environment-uk-rewilding/)
 * [2024-05-11, 07:00:20](https://news.ycombinator.com/item?id=40326507) - [Bitmovin (YC S15) Is Hiring Interns in Sales, Engineering, HR in Austria](https://bitmovin.com/careers/)
 * [2024-05-11, 06:03:58](https://news.ycombinator.com/item?id=40326305) - [The Derivative of a Number](https://rjlipton.com/2014/08/19/the-derivative-of-a-number/)
