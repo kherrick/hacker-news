@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-11](index.md)
 
+* [2024-05-11, 21:01:14](https://news.ycombinator.com/item?id=40330610) - [Fathom (YC W21) is hiring a TPM to prototype new AI features](https://www.ycombinator.com/companies/fathom/jobs/r4HKk2W-product-manager-ai)
+* [2024-05-11, 20:52:04](https://news.ycombinator.com/item?id=40330570) - [Scotland suddenly has a lot of mosquitoes](https://www.popsci.com/science/mosquitoes-scotland/)
+* [2024-05-11, 20:43:56](https://news.ycombinator.com/item?id=40330531) - [Woman found living in Michigan grocery store sign for months](https://www.nbcnews.com/news/us-news/woman-found-living-michigan-grocery-store-sign-complete-computer-keuri-rcna151750)
 * [2024-05-11, 20:21:54](https://news.ycombinator.com/item?id=40330411) - [Staggering 19x Energy Jump in Capacitors May Start the End for Batteries](https://www.popularmechanics.com/science/a60732620/capacitor-energy-storage-breakthrough/)
 * [2024-05-11, 19:02:03](https://news.ycombinator.com/item?id=40329989) - [Kolmogorov-Arnold Networks: MLP vs. Kan, Math, Universal Approximation Theorem [video]](https://www.youtube.com/watch?v=-PFIkkwWdnM)
 * [2024-05-11, 18:25:27](https://news.ycombinator.com/item?id=40329777) - [All of the bases in DNA and RNA have now been found in meteorites](https://sciinsider.com/2024/05/04/groundbreaking-discovery-dna-and-rna-bases-found-in-meteorites-what-this-means-for-life-beyond-earth-will-blow-your-mind/)
