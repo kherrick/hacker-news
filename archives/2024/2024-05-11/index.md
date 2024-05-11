@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-11](index.md)
 
 * [2024-05-11, 15:59:58](https://news.ycombinator.com/item?id=40328927) - [Apple Closes in on Deal with OpenAI to Put ChatGPT on iPhone](https://www.bloomberg.com/news/articles/2024-05-11/apple-closes-in-on-deal-with-openai-to-put-chatgpt-on-iphone)
+* [2024-05-11, 15:18:32](https://news.ycombinator.com/item?id=40328616) - [Metabolism of autism reveals developmental origins](https://medicalxpress.com/news/2024-05-metabolism-autism-reveals-developmental.html)
 * [2024-05-11, 14:51:59](https://news.ycombinator.com/item?id=40328445) - [Rejected from YC. Reason: Because I don't have a cofounder](https://twitter.com/richiemcilroy/status/1788996498081951848)
 * [2024-05-11, 14:40:04](https://news.ycombinator.com/item?id=40328385) - [Former NFL Star Rob Gronkowski to Pay $1.9M to Settle Crypto Investor Suit](https://www.coindesk.com/policy/2024/05/07/former-nfl-star-rob-gronkowski-to-pay-19m-to-settle-crypto-investor-suit/)
 * [2024-05-11, 14:39:58](https://news.ycombinator.com/item?id=40328384) - [Sam Altman's nuclear energy company Oklo plunges 54% in NYSE debut](https://www.cnbc.com/2024/05/10/sam-altman-takes-nuclear-startup-oklo-public-to-power-ai-ambitions.html)
