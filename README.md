@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-11, 17:02:04](https://news.ycombinator.com/item?id=40329300) - [Obesity Rates by Gender and Country](https://twitter.com/simongerman600/status/1788909369301639651)
 * [2024-05-11, 17:01:14](https://news.ycombinator.com/item?id=40329293) - [Trellis (YC W24) is hiring Founding Eng to build ETL for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/biNfViG-founding-engineers-full-time)
 * [2024-05-11, 16:42:45](https://news.ycombinator.com/item?id=40329173) - [System Analysis and Programming (1966)](https://www.scientificamerican.com/article/system-analysis-and-programming-christopher-strachey/)
 * [2024-05-11, 16:28:45](https://news.ycombinator.com/item?id=40329083) - [Radio astronomers bypass Earth's atmosphere with new calibration technique](https://phys.org/news/2024-04-radio-astronomers-bypass-disturbing-earth.html)
@@ -20,15 +21,14 @@
 * [2024-05-10, 13:08:38](https://news.ycombinator.com/item?id=40318542) - [Show HN: A web debugger an ex-Cloudflare team has been working on for 4 years](https://news.ycombinator.com/item?id=40318542)
 * [2024-05-10, 11:22:34](https://news.ycombinator.com/item?id=40317629) - [You Can Hear the Temperature of Water](https://www.nytimes.com/2024/05/09/science/hot-water-sound-cold.html)
 * [2024-05-10, 10:49:18](https://news.ycombinator.com/item?id=40317375) - [ENIAC Simulator](http://zuse-z1.zib.de/simulations/eniac/)
-* [2024-05-10, 10:25:24](https://news.ycombinator.com/item?id=40317221) - [100 Years of IBM](http://www.tikalon.com/blog/blog.php?article=2024/IBM_100)
 * [2024-05-10, 08:59:13](https://news.ycombinator.com/item?id=40316780) - [Making Sense of Acquire-Release Semantics](https://davekilian.com/acquire-release.html)
+* [2024-05-10, 08:16:07](https://news.ycombinator.com/item?id=40316537) - [What are third places? How do I find one?](https://www.vox.com/the-highlight/24119312/how-to-find-a-third-place-cafe-bar-gym-loneliness-connection)
 * [2024-05-10, 07:41:22](https://news.ycombinator.com/item?id=40316319) - [The Foundation of a Generic Theorem Prover (1989) [pdf]](https://arxiv.org/pdf/cs/9301105)
 * [2024-05-10, 06:35:59](https://news.ycombinator.com/item?id=40315990) - [Pyramid3D Real-time Graphics Processor (1997) [pdf]](https://vgamuseum.info/images/doc/unreleased/pyramid3d/tritechpyramid3dpresentation.pdf)
 * [2024-05-10, 05:25:26](https://news.ycombinator.com/item?id=40315724) - [Unix and Multics (2019)](https://www.multicians.org/unix.html)
 * [2024-05-10, 05:14:14](https://news.ycombinator.com/item?id=40315686) - [So We've Got a Memory Leak](https://stevenharman.net/so-we-have-a-memory-leak)
 * [2024-05-09, 22:33:44](https://news.ycombinator.com/item?id=40313613) - [Nasa’s Roman Mission Will Hunt for Primordial Black Holes](https://www.nasa.gov/missions/roman-space-telescope/how-nasas-roman-mission-will-hunt-for-primordial-black-holes/)
 * [2024-05-09, 21:36:06](https://news.ycombinator.com/item?id=40313193) - [Cubic millimetre of brain mapped at nanoscale resolution](https://www.nature.com/articles/d41586-024-01387-9)
-* [2024-05-08, 17:13:26](https://news.ycombinator.com/item?id=40300515) - [New mirror that can be flexibly shaped improves X-ray microscopes](https://phys.org/news/2024-05-mirror-flexibly-ray-microscopes.html)
 * [2024-05-06, 14:48:02](https://news.ycombinator.com/item?id=40275328) - [Selling 'Ghost in the Shell'](https://animationobsessive.substack.com/p/selling-ghost-in-the-shell)
 
 ## [Archives](archives/index.md)

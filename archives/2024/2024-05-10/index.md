@@ -70,6 +70,7 @@
 * [2024-05-10, 08:59:13](https://news.ycombinator.com/item?id=40316780) - [Making Sense of Acquire-Release Semantics](https://davekilian.com/acquire-release.html)
 * [2024-05-10, 08:47:05](https://news.ycombinator.com/item?id=40316704) - [Fedora Asahi Remix 40 is a big step forward for Linux on Macs](https://arstechnica.com/gadgets/2024/05/fedora-asahi-remix-40-is-another-big-step-forward-for-linux-on-apple-silicon-macs/)
 * [2024-05-10, 08:34:24](https://news.ycombinator.com/item?id=40316629) - [Personal AGI – Pushing GPT-4-turbo beyond all limits](https://www.techsistence.com/p/personal-agi-pushing-gpt-4-turbo)
+* [2024-05-10, 08:16:07](https://news.ycombinator.com/item?id=40316537) - [What are third places? How do I find one?](https://www.vox.com/the-highlight/24119312/how-to-find-a-third-place-cafe-bar-gym-loneliness-connection)
 * [2024-05-10, 07:41:22](https://news.ycombinator.com/item?id=40316319) - [The Foundation of a Generic Theorem Prover (1989) [pdf]](https://arxiv.org/pdf/cs/9301105)
 * [2024-05-10, 07:00:38](https://news.ycombinator.com/item?id=40316121) - [Bloop (YC S21) Is Hiring AI Engineers. Devin for Legacy Code (London, Onsite)](https://www.ycombinator.com/companies/bloop/jobs/iCrEllp-ai-engineer)
 * [2024-05-10, 06:43:36](https://news.ycombinator.com/item?id=40316039) - [Tine Text Editor](https://github.com/travisdoor/tine)
