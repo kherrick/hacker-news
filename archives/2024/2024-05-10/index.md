@@ -65,6 +65,7 @@
 * [2024-05-10, 10:58:52](https://news.ycombinator.com/item?id=40317455) - [Plastic Scanner](https://plasticscanner.com/)
 * [2024-05-10, 10:53:30](https://news.ycombinator.com/item?id=40317401) - [Evaluating Eye Tracking Systems for Computer Input (2012)](https://www.yorku.ca/mack/cogain.html)
 * [2024-05-10, 10:49:18](https://news.ycombinator.com/item?id=40317375) - [ENIAC Simulator](http://zuse-z1.zib.de/simulations/eniac/)
+* [2024-05-10, 10:42:03](https://news.ycombinator.com/item?id=40317325) - [BCPL evolved from CPL. (2021) [pdf]](https://www.cl.cam.ac.uk/~mr10/cpl2bcpl.pdf)
 * [2024-05-10, 10:25:24](https://news.ycombinator.com/item?id=40317221) - [100 Years of IBM](http://www.tikalon.com/blog/blog.php?article=2024/IBM_100)
 * [2024-05-10, 09:13:27](https://news.ycombinator.com/item?id=40316848) - [Touchscreens](https://www.explainthatstuff.com/touchscreens.html)
 * [2024-05-10, 09:06:05](https://news.ycombinator.com/item?id=40316814) - [Trip C++Now 2024 – think-cell](https://www.think-cell.com/en/career/devblog/trip-report-cpp-now-2024)
