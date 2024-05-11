@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-11, 21:24:37](https://news.ycombinator.com/item?id=40330731) - [Rolling Coal](https://en.wikipedia.org/wiki/Rolling_coal)
 * [2024-05-11, 21:01:14](https://news.ycombinator.com/item?id=40330610) - [Fathom (YC W21) is hiring a TPM to prototype new AI features](https://www.ycombinator.com/companies/fathom/jobs/r4HKk2W-product-manager-ai)
 * [2024-05-11, 20:52:04](https://news.ycombinator.com/item?id=40330570) - [Scotland suddenly has a lot of mosquitoes](https://www.popsci.com/science/mosquitoes-scotland/)
 * [2024-05-11, 20:32:41](https://news.ycombinator.com/item?id=40330463) - [Billionaire Khosla Loses Bid to End California Beach Access Suit](https://www.bloomberg.com/news/articles/2024-05-11/billionaire-khosla-loses-bid-to-end-california-beach-access-suit)
@@ -8,7 +9,6 @@
 * [2024-05-11, 17:16:08](https://news.ycombinator.com/item?id=40329388) - [Immersive Math](http://immersivemath.com/ila/index.html)
 * [2024-05-11, 16:42:45](https://news.ycombinator.com/item?id=40329173) - [System Analysis and Programming (1966)](https://www.scientificamerican.com/article/system-analysis-and-programming-christopher-strachey/)
 * [2024-05-11, 15:02:33](https://news.ycombinator.com/item?id=40328520) - [Mouse Support for Playdate](https://blog.gingerbeardman.com/2024/05/11/mouse-support-for-playdate/)
-* [2024-05-11, 14:36:21](https://news.ycombinator.com/item?id=40328359) - [Area Lights: Mathematical Fondations](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-lighting/introduction-to-lighting-area-lights-theory.html)
 * [2024-05-11, 12:19:00](https://news.ycombinator.com/item?id=40327631) - [PeaZip: Open-source file compression and encryption software](https://peazip.github.io/)
 * [2024-05-11, 10:21:03](https://news.ycombinator.com/item?id=40327236) - [Unix Viruses 25th Anniversary Edition](https://tmpout.sh/3/03.html)
 * [2024-05-11, 07:31:23](https://news.ycombinator.com/item?id=40326615) - [Show HN: Wag, MFA and Enrollment for WireGuard](https://github.com/NHAS/wag)

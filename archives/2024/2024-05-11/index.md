@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-11](index.md)
 
+* [2024-05-11, 21:24:37](https://news.ycombinator.com/item?id=40330731) - [Rolling Coal](https://en.wikipedia.org/wiki/Rolling_coal)
 * [2024-05-11, 21:01:14](https://news.ycombinator.com/item?id=40330610) - [Fathom (YC W21) is hiring a TPM to prototype new AI features](https://www.ycombinator.com/companies/fathom/jobs/r4HKk2W-product-manager-ai)
 * [2024-05-11, 20:52:04](https://news.ycombinator.com/item?id=40330570) - [Scotland suddenly has a lot of mosquitoes](https://www.popsci.com/science/mosquitoes-scotland/)
 * [2024-05-11, 20:43:56](https://news.ycombinator.com/item?id=40330531) - [Woman found living in Michigan grocery store sign for months](https://www.nbcnews.com/news/us-news/woman-found-living-michigan-grocery-store-sign-complete-computer-keuri-rcna151750)
