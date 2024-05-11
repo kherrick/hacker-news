@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-05-11, 04:03:07",
-      "https://news.ycombinator.com/item?id=40325876"
-    ],
-    [
-      "Apple finalizing deal with OpenAI to bring ChatGPT features to iOS 18",
-      "https://9to5mac.com/2024/05/10/ios-18-chatgpt-features-apple-openai/"
-    ]
-  ],
-  [
-    [
       "2024-05-11, 02:52:31",
       "https://news.ycombinator.com/item?id=40325674"
     ],
@@ -107,6 +97,16 @@
     [
       "Show HN: A web debugger an ex-Cloudflare team has been working on for 4 years",
       "https://news.ycombinator.com/item?id=40318542"
+    ]
+  ],
+  [
+    [
+      "2024-05-10, 13:08:23",
+      "https://news.ycombinator.com/item?id=40318538"
+    ],
+    [
+      "The API database architecture – Stop writing HTTP-GET endpoints",
+      "https://www.fabianzeindl.com/posts/the-api-database-architecture"
     ]
   ],
   [
