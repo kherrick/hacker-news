@@ -2,7 +2,6 @@
 
 * [2024-05-11, 13:19:25](https://news.ycombinator.com/item?id=40327872) - [Supreme Court: There's No 'Time Limit' on Copyright Infringement Claims](https://torrentfreak.com/supreme-court-theres-no-time-limit-on-copyright-infringement-claims-240510/)
 * [2024-05-11, 13:15:58](https://news.ycombinator.com/item?id=40327857) - [Nvidia Open GPU Linux Kernel Driver Soon Be the Default for Turing, Newer GPUs](https://www.phoronix.com/news/NVIDIA-R560-Open-Default)
-* [2024-05-11, 13:08:34](https://news.ycombinator.com/item?id=40327812) - [Ask HN: Should HN black bar become community driven?](https://news.ycombinator.com/item?id=40327812)
 * [2024-05-11, 13:03:31](https://news.ycombinator.com/item?id=40327782) - [Kardashev Scale](https://en.wikipedia.org/wiki/Kardashev_scale)
 * [2024-05-11, 12:19:00](https://news.ycombinator.com/item?id=40327631) - [PeaZip: Open-source file compression and encryption software](https://peazip.github.io/)
 * [2024-05-11, 10:41:22](https://news.ycombinator.com/item?id=40327307) - [People who won't give up floppy disks](https://www.bbc.com/future/article/20240510-floppy-disks-why-some-people-are-still-in-love-with-this-obsolete-computer-storage-technology)
@@ -20,6 +19,7 @@
 * [2024-05-10, 13:27:20](https://news.ycombinator.com/item?id=40318714) - [Superfile – A fancy, pretty terminal file manager](https://github.com/MHNightCat/superfile)
 * [2024-05-10, 13:08:38](https://news.ycombinator.com/item?id=40318542) - [Show HN: A web debugger an ex-Cloudflare team has been working on for 4 years](https://news.ycombinator.com/item?id=40318542)
 * [2024-05-10, 11:22:34](https://news.ycombinator.com/item?id=40317629) - [You Can Hear the Temperature of Water](https://www.nytimes.com/2024/05/09/science/hot-water-sound-cold.html)
+* [2024-05-10, 10:58:52](https://news.ycombinator.com/item?id=40317455) - [Plastic Scanner](https://plasticscanner.com/)
 * [2024-05-10, 10:49:18](https://news.ycombinator.com/item?id=40317375) - [ENIAC Simulator](http://zuse-z1.zib.de/simulations/eniac/)
 * [2024-05-10, 07:41:22](https://news.ycombinator.com/item?id=40316319) - [The Foundation of a Generic Theorem Prover (1989) [pdf]](https://arxiv.org/pdf/cs/9301105)
 * [2024-05-10, 06:35:59](https://news.ycombinator.com/item?id=40315990) - [Pyramid3D Real-time Graphics Processor (1997) [pdf]](https://vgamuseum.info/images/doc/unreleased/pyramid3d/tritechpyramid3dpresentation.pdf)

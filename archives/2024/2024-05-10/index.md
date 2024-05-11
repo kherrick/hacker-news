@@ -60,6 +60,7 @@
 * [2024-05-10, 11:22:34](https://news.ycombinator.com/item?id=40317629) - [You Can Hear the Temperature of Water](https://www.nytimes.com/2024/05/09/science/hot-water-sound-cold.html)
 * [2024-05-10, 11:22:23](https://news.ycombinator.com/item?id=40317627) - [Apple M4 benchmarks suggest it is new single-core performance champ](https://www.tomshardware.com/pc-components/cpus/apple-m4-scores-suggest-it-is-the-new-single-core-performance-champ-beating-intels-core-i9-14900ks-incredible-results-of-3800-posted)
 * [2024-05-10, 11:06:50](https://news.ycombinator.com/item?id=40317515) - [Astrophysics Data System](https://ui.adsabs.harvard.edu:443/classic-form/)
+* [2024-05-10, 10:58:52](https://news.ycombinator.com/item?id=40317455) - [Plastic Scanner](https://plasticscanner.com/)
 * [2024-05-10, 10:53:30](https://news.ycombinator.com/item?id=40317401) - [Evaluating Eye Tracking Systems for Computer Input (2012)](https://www.yorku.ca/mack/cogain.html)
 * [2024-05-10, 10:49:18](https://news.ycombinator.com/item?id=40317375) - [ENIAC Simulator](http://zuse-z1.zib.de/simulations/eniac/)
 * [2024-05-10, 10:25:24](https://news.ycombinator.com/item?id=40317221) - [100 Years of IBM](http://www.tikalon.com/blog/blog.php?article=2024/IBM_100)
