@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-05-11](index.md)
 
+* [2024-05-11, 10:21:03](https://news.ycombinator.com/item?id=40327236) - [Unix Viruses 25th Anniversary Edition](https://tmpout.sh/3/03.html)
 * [2024-05-11, 08:26:58](https://news.ycombinator.com/item?id=40326815) - [Avoiding the soft delete anti-pattern](https://www.cultured.systems/2024/04/24/Soft-delete/)
 * [2024-05-11, 08:05:36](https://news.ycombinator.com/item?id=40326738) - [London's history-making beavers are adapting to life in the capital](https://www.bigissue.com/news/environment/beavers-london-ealing-environment-uk-rewilding/)
 * [2024-05-11, 07:31:23](https://news.ycombinator.com/item?id=40326615) - [Show HN: Wag, MFA and Enrollment for WireGuard](https://github.com/NHAS/wag)
+* [2024-05-11, 07:18:39](https://news.ycombinator.com/item?id=40326563) - [Why the CORDIC algorithm lives rent-free in my head](https://github.com/francisrstokes/githublog/blob/main/2024/5/10/cordic.md)
 * [2024-05-11, 07:00:20](https://news.ycombinator.com/item?id=40326507) - [Bitmovin (YC S15) Is Hiring Interns in Sales, Engineering, HR in Austria](https://bitmovin.com/careers/)
 * [2024-05-11, 06:03:58](https://news.ycombinator.com/item?id=40326305) - [The Derivative of a Number](https://rjlipton.com/2014/08/19/the-derivative-of-a-number/)
 * [2024-05-11, 05:51:18](https://news.ycombinator.com/item?id=40326269) - [Thread – the tech we can't use or teach](https://overengineer.dev/blog/2024/05/10/thread/)
