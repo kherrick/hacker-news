@@ -4,7 +4,6 @@
 * [2024-05-11, 13:15:58](https://news.ycombinator.com/item?id=40327857) - [Nvidia Open GPU Linux Kernel Driver Soon Be the Default for Turing, Newer GPUs](https://www.phoronix.com/news/NVIDIA-R560-Open-Default)
 * [2024-05-11, 13:08:34](https://news.ycombinator.com/item?id=40327812) - [Ask HN: Should HN black bar become community driven?](https://news.ycombinator.com/item?id=40327812)
 * [2024-05-11, 13:03:31](https://news.ycombinator.com/item?id=40327782) - [Kardashev Scale](https://en.wikipedia.org/wiki/Kardashev_scale)
-* [2024-05-11, 12:34:41](https://news.ycombinator.com/item?id=40327687) - [Americans are choking on surging fast-food prices. \"I can't justify the expense\"](https://www.cbsnews.com/news/mcdonalds-price-increases-fast-food-cost-popeyes-wendys/)
 * [2024-05-11, 12:19:00](https://news.ycombinator.com/item?id=40327631) - [PeaZip: Open-source file compression and encryption software](https://peazip.github.io/)
 * [2024-05-11, 10:41:22](https://news.ycombinator.com/item?id=40327307) - [People who won't give up floppy disks](https://www.bbc.com/future/article/20240510-floppy-disks-why-some-people-are-still-in-love-with-this-obsolete-computer-storage-technology)
 * [2024-05-11, 10:35:19](https://news.ycombinator.com/item?id=40327279) - [Multidirectional joint distribution neurons reducing to KAN](https://arxiv.org/abs/2405.05097)
@@ -28,6 +27,7 @@
 * [2024-05-10, 05:14:14](https://news.ycombinator.com/item?id=40315686) - [So We've Got a Memory Leak](https://stevenharman.net/so-we-have-a-memory-leak)
 * [2024-05-09, 22:33:44](https://news.ycombinator.com/item?id=40313613) - [Nasa’s Roman Mission Will Hunt for Primordial Black Holes](https://www.nasa.gov/missions/roman-space-telescope/how-nasas-roman-mission-will-hunt-for-primordial-black-holes/)
 * [2024-05-09, 21:47:13](https://news.ycombinator.com/item?id=40313264) - [Life-like particle system](https://ventrella.com/Clusters/)
+* [2024-05-07, 23:04:30](https://news.ycombinator.com/item?id=40292537) - [Seeking Ideas for Preschool/School Projects](https://news.ycombinator.com/item?id=40292537)
 * [2024-05-06, 14:48:02](https://news.ycombinator.com/item?id=40275328) - [Selling 'Ghost in the Shell'](https://animationobsessive.substack.com/p/selling-ghost-in-the-shell)
 * [2024-05-04, 17:01:25](https://news.ycombinator.com/item?id=40258903) - [Deno KV internals: building a database for the modern web](https://deno.com/blog/building-deno-kv)
 
