@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-11, 04:03:07](https://news.ycombinator.com/item?id=40325876) - [Apple finalizing deal with OpenAI to bring ChatGPT features to iOS 18](https://9to5mac.com/2024/05/10/ios-18-chatgpt-features-apple-openai/)
 * [2024-05-11, 02:52:31](https://news.ycombinator.com/item?id=40325674) - [Verizon and T-Mobile are trying to gobble up US Cellular](https://www.theverge.com/business/2024/5/9/24153201/verizon-t-mobile-buy-us-cellular-spectrum)
-* [2024-05-11, 02:23:04](https://news.ycombinator.com/item?id=40325569) - [Ten years of neuroscience at Google yields maps of human brain](https://research.google/blog/ten-years-of-neuroscience-at-google-yields-maps-of-human-brain/)
 * [2024-05-10, 21:59:03](https://news.ycombinator.com/item?id=40324179) - [Most of Europe is glowing pink under the aurora](https://www.foto-webcam.eu/webcam/lucknerhaus/)
 * [2024-05-10, 21:04:56](https://news.ycombinator.com/item?id=40323785) - [One Minute Park](https://oneminutepark.tv/)
 * [2024-05-10, 17:50:52](https://news.ycombinator.com/item?id=40321821) - [Coronal mass ejection impact imminent, two more earth-directed CMEs](https://www.spaceweatherlive.com/en/news/view/533/20240510-cme-impact-imminent-two-more-earth-directed-cmes.html)
