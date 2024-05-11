@@ -57,6 +57,7 @@
 * [2024-05-10, 11:59:35](https://news.ycombinator.com/item?id=40317885) - [Boeing 737 catches fire and skids off the runway in Senegal](https://apnews.com/article/senegal-dakar-plane-crash-boeing-ca40060696eaedfb69324d9110a55c60)
 * [2024-05-10, 11:59:22](https://news.ycombinator.com/item?id=40317883) - [A fragment of human cerebral cortex reconstructed at nanoscale resolution](https://www.science.org/doi/10.1126/science.adk4858)
 * [2024-05-10, 11:41:12](https://news.ycombinator.com/item?id=40317740) - [Popover API](https://developer.mozilla.org/en-US/docs/Web/API/Popover_API)
+* [2024-05-10, 11:22:34](https://news.ycombinator.com/item?id=40317629) - [You Can Hear the Temperature of Water](https://www.nytimes.com/2024/05/09/science/hot-water-sound-cold.html)
 * [2024-05-10, 11:22:23](https://news.ycombinator.com/item?id=40317627) - [Apple M4 benchmarks suggest it is new single-core performance champ](https://www.tomshardware.com/pc-components/cpus/apple-m4-scores-suggest-it-is-the-new-single-core-performance-champ-beating-intels-core-i9-14900ks-incredible-results-of-3800-posted)
 * [2024-05-10, 11:06:50](https://news.ycombinator.com/item?id=40317515) - [Astrophysics Data System](https://ui.adsabs.harvard.edu:443/classic-form/)
 * [2024-05-10, 10:53:30](https://news.ycombinator.com/item?id=40317401) - [Evaluating Eye Tracking Systems for Computer Input (2012)](https://www.yorku.ca/mack/cogain.html)
