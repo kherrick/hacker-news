@@ -66,6 +66,7 @@
 * [2024-05-10, 10:25:24](https://news.ycombinator.com/item?id=40317221) - [100 Years of IBM](http://www.tikalon.com/blog/blog.php?article=2024/IBM_100)
 * [2024-05-10, 09:13:27](https://news.ycombinator.com/item?id=40316848) - [Touchscreens](https://www.explainthatstuff.com/touchscreens.html)
 * [2024-05-10, 09:06:05](https://news.ycombinator.com/item?id=40316814) - [Trip C++Now 2024 – think-cell](https://www.think-cell.com/en/career/devblog/trip-report-cpp-now-2024)
+* [2024-05-10, 09:03:46](https://news.ycombinator.com/item?id=40316800) - [Animal Well Released](https://www.animalwell.net)
 * [2024-05-10, 09:01:05](https://news.ycombinator.com/item?id=40316788) - [Is the largest root of a random polynomial more likely to be real than complex?](https://mathoverflow.net/questions/470951/is-the-largest-root-of-a-random-polynomial-more-likely-to-be-real-than-complex)
 * [2024-05-10, 08:59:13](https://news.ycombinator.com/item?id=40316780) - [Making Sense of Acquire-Release Semantics](https://davekilian.com/acquire-release.html)
 * [2024-05-10, 08:47:05](https://news.ycombinator.com/item?id=40316704) - [Fedora Asahi Remix 40 is a big step forward for Linux on Macs](https://arstechnica.com/gadgets/2024/05/fedora-asahi-remix-40-is-another-big-step-forward-for-linux-on-apple-silicon-macs/)

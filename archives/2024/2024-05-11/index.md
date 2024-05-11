@@ -7,6 +7,7 @@
 * [2024-05-11, 19:02:03](https://news.ycombinator.com/item?id=40329989) - [Kolmogorov-Arnold Networks: MLP vs. Kan, Math, Universal Approximation Theorem [video]](https://www.youtube.com/watch?v=-PFIkkwWdnM)
 * [2024-05-11, 18:25:27](https://news.ycombinator.com/item?id=40329777) - [All of the bases in DNA and RNA have now been found in meteorites](https://sciinsider.com/2024/05/04/groundbreaking-discovery-dna-and-rna-bases-found-in-meteorites-what-this-means-for-life-beyond-earth-will-blow-your-mind/)
 * [2024-05-11, 18:08:18](https://news.ycombinator.com/item?id=40329675) - [Vision Transformers Need Registers](https://openreview.net/forum?id=2dnO3LLiJ1)
+* [2024-05-11, 17:50:01](https://news.ycombinator.com/item?id=40329577) - [Berlin Tesla activists say civil disobedience is only option](https://www.dw.com/en/berlin-tesla-activists-say-civil-disobedience-is-only-option/a-69054007)
 * [2024-05-11, 17:16:08](https://news.ycombinator.com/item?id=40329388) - [Immersive Math](http://immersivemath.com/ila/index.html)
 * [2024-05-11, 17:02:04](https://news.ycombinator.com/item?id=40329300) - [Obesity Rates by Gender and Country](https://twitter.com/simongerman600/status/1788909369301639651)
 * [2024-05-11, 17:01:14](https://news.ycombinator.com/item?id=40329293) - [Trellis (YC W24) is hiring Founding Eng to build ETL for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/biNfViG-founding-engineers-full-time)
