@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-11](index.md)
 
+* [2024-05-11, 19:02:03](https://news.ycombinator.com/item?id=40329989) - [Kolmogorov-Arnold Networks: MLP vs. Kan, Math, Universal Approximation Theorem [video]](https://www.youtube.com/watch?v=-PFIkkwWdnM)
+* [2024-05-11, 18:25:27](https://news.ycombinator.com/item?id=40329777) - [All of the bases in DNA and RNA have now been found in meteorites](https://sciinsider.com/2024/05/04/groundbreaking-discovery-dna-and-rna-bases-found-in-meteorites-what-this-means-for-life-beyond-earth-will-blow-your-mind/)
 * [2024-05-11, 18:08:18](https://news.ycombinator.com/item?id=40329675) - [Vision Transformers Need Registers](https://openreview.net/forum?id=2dnO3LLiJ1)
 * [2024-05-11, 17:16:08](https://news.ycombinator.com/item?id=40329388) - [Immersive Math](http://immersivemath.com/ila/index.html)
 * [2024-05-11, 17:02:04](https://news.ycombinator.com/item?id=40329300) - [Obesity Rates by Gender and Country](https://twitter.com/simongerman600/status/1788909369301639651)
