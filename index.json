@@ -1,22 +1,12 @@
 [
   [
     [
-      "2024-05-10, 22:39:13",
-      "https://news.ycombinator.com/item?id=40324439"
+      "2024-05-10, 22:22:59",
+      "https://news.ycombinator.com/item?id=40324326"
     ],
     [
-      "Tesla has pulled all job openings",
-      "https://www.tesla.com/careers/search"
-    ]
-  ],
-  [
-    [
-      "2024-05-10, 22:38:54",
-      "https://news.ycombinator.com/item?id=40324434"
-    ],
-    [
-      "Atrazine, an endocrine-disrupting herbicide banned in EU, is widely used in US",
-      "https://usrtk.org/pesticides/atrazine/"
+      "The Plastic Chemicals Hiding in Your Food: What Our Tests Found",
+      "https://www.consumerreports.org/health/food-contaminants/the-plastic-chemicals-hiding-in-your-food-a7358224781/"
     ]
   ],
   [
@@ -67,6 +57,16 @@
     [
       "Coronal mass ejection impact imminent, two more earth-directed CMEs",
       "https://www.spaceweatherlive.com/en/news/view/533/20240510-cme-impact-imminent-two-more-earth-directed-cmes.html"
+    ]
+  ],
+  [
+    [
+      "2024-05-10, 17:09:51",
+      "https://news.ycombinator.com/item?id=40321362"
+    ],
+    [
+      "Show HN: Jacinda, a functional Awk (text stream processing on the comamnd-line)",
+      "https://hackage.haskell.org/package/jacinda"
     ]
   ],
   [
@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2024-05-10, 11:41:12",
+      "https://news.ycombinator.com/item?id=40317740"
+    ],
+    [
+      "Popover API",
+      "https://developer.mozilla.org/en-US/docs/Web/API/Popover_API"
+    ]
+  ],
+  [
+    [
       "2024-05-10, 09:01:05",
       "https://news.ycombinator.com/item?id=40316788"
     ],
@@ -187,6 +197,16 @@
     [
       "Roman Tyrian purple snail dye found in UK for first time",
       "https://www.bbc.com/news/articles/cjje132jvygo"
+    ]
+  ],
+  [
+    [
+      "2024-05-10, 06:02:11",
+      "https://news.ycombinator.com/item?id=40315850"
+    ],
+    [
+      "Writing C code in Java/Clojure: GraalVM specific programming (2021)",
+      "https://yyhh.org/blog/2021/02/writing-c-code-in-javaclojure-graalvm-specific-programming/"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2024-05-09, 01:02:47",
-      "https://news.ycombinator.com/item?id=40304255"
-    ],
-    [
-      "Xona Space Systems Closes $19M Series A to Build Ultra-Accurate GPS Alternative",
-      "https://techcrunch.com/2024/05/08/xona-space-systems-closes-19m-series-a-to-build-out-ultra-accurate-gps-alternative/"
-    ]
-  ],
-  [
-    [
       "2024-05-08, 17:13:26",
       "https://news.ycombinator.com/item?id=40300515"
     ],
@@ -257,16 +267,6 @@
     [
       "Show HN: A simple 2D fluid and gravity simulation with WASM and WebGL",
       "https://aestuans.github.io/blob/"
-    ]
-  ],
-  [
-    [
-      "2024-05-07, 22:52:07",
-      "https://news.ycombinator.com/item?id=40292452"
-    ],
-    [
-      "Unix forking the universe by running IBM's free online quantum computer",
-      "https://parel.es/blog/quantum-dice"
     ]
   ],
   [
