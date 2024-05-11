@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-11](index.md)
 
+* [2024-05-11, 17:01:14](https://news.ycombinator.com/item?id=40329293) - [Trellis (YC W24) is hiring Founding Eng to build ETL for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/biNfViG-founding-engineers-full-time)
+* [2024-05-11, 16:42:45](https://news.ycombinator.com/item?id=40329173) - [System Analysis and Programming (1966)](https://www.scientificamerican.com/article/system-analysis-and-programming-christopher-strachey/)
 * [2024-05-11, 16:28:45](https://news.ycombinator.com/item?id=40329083) - [Radio astronomers bypass Earth's atmosphere with new calibration technique](https://phys.org/news/2024-04-radio-astronomers-bypass-disturbing-earth.html)
 * [2024-05-11, 16:01:32](https://news.ycombinator.com/item?id=40328935) - [Serving Netflix Video at 400Gb/S on FreeBSD [pdf]](https://people.freebsd.org/~gallatin/talks/euro2021.pdf)
 * [2024-05-11, 15:59:58](https://news.ycombinator.com/item?id=40328927) - [Apple Closes in on Deal with OpenAI to Put ChatGPT on iPhone](https://www.bloomberg.com/news/articles/2024-05-11/apple-closes-in-on-deal-with-openai-to-put-chatgpt-on-iphone)
