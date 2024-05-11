@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2024-05-11](index.md)
 
 * [2024-05-11, 22:47:56](https://news.ycombinator.com/item?id=40331105) - [Corporate America Never Quit Forced Labor](https://www.bloomberg.com/news/features/2024-05-11/us-prison-labor-powers-billions-in-corporate-government-revenue)
+* [2024-05-11, 22:37:49](https://news.ycombinator.com/item?id=40331074) - [Was the Fusion Drive a good idea?](https://eclecticlight.co/2024/04/26/was-the-fusion-drive-a-good-idea/)
 * [2024-05-11, 22:18:28](https://news.ycombinator.com/item?id=40330997) - [Social Security now expected to run short on funds in 2035, one year later](https://www.cnbc.com/2024/05/06/social-security-expected-to-run-short-on-funds-in-2035-government-says.html)
+* [2024-05-11, 22:08:42](https://news.ycombinator.com/item?id=40330942) - [Is dark matter's main rival theory dead?](https://theconversation.com/is-dark-matters-main-rival-theory-dead-theres-bad-news-from-the-cassini-spacecraft-and-other-recent-tests-228826)
 * [2024-05-11, 22:07:51](https://news.ycombinator.com/item?id=40330932) - [Canadians have been exposed to potentially toxic chemicals](https://www.ctvnews.ca/canada/millions-of-canadians-have-been-exposed-to-potentially-toxic-chemicals-and-they-re-not-going-anywhere-1.6878917)
 * [2024-05-11, 22:07:09](https://news.ycombinator.com/item?id=40330930) - [Billions in Dirty Money Flies Under the Radar at Busiest Airports](https://www.wsj.com/business/airlines/heathrow-dubai-airports-billions-dirty-money-9f49cc7f)
 * [2024-05-11, 21:41:21](https://news.ycombinator.com/item?id=40330816) - [Flatpak – a security nightmare – 2 years later (2020)](https://flatkill.org/2020/)
