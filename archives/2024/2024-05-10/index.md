@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-10](index.md)
 
+* [2024-05-10, 22:57:04](https://news.ycombinator.com/item?id=40324534) - [I before E except after C, except …](https://jawj.github.io/wordtools/#!/pattern/~(%5E%7C%5B%5Ec%5D)ei/freq/desc/1)
 * [2024-05-10, 22:39:13](https://news.ycombinator.com/item?id=40324439) - [Tesla has pulled all job openings](https://www.tesla.com/careers/search)
 * [2024-05-10, 22:38:54](https://news.ycombinator.com/item?id=40324434) - [Atrazine, an endocrine-disrupting herbicide banned in EU, is widely used in US](https://usrtk.org/pesticides/atrazine/)
 * [2024-05-10, 22:22:59](https://news.ycombinator.com/item?id=40324326) - [The Plastic Chemicals Hiding in Your Food: What Our Tests Found](https://www.consumerreports.org/health/food-contaminants/the-plastic-chemicals-hiding-in-your-food-a7358224781/)
