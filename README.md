@@ -2,7 +2,6 @@
 
 * [2024-05-11, 16:28:45](https://news.ycombinator.com/item?id=40329083) - [Radio astronomers bypass Earth's atmosphere with new calibration technique](https://phys.org/news/2024-04-radio-astronomers-bypass-disturbing-earth.html)
 * [2024-05-11, 16:01:32](https://news.ycombinator.com/item?id=40328935) - [Serving Netflix Video at 400Gb/S on FreeBSD [pdf]](https://people.freebsd.org/~gallatin/talks/euro2021.pdf)
-* [2024-05-11, 15:59:58](https://news.ycombinator.com/item?id=40328927) - [Apple Closes in on Deal with OpenAI to Put ChatGPT on iPhone](https://www.bloomberg.com/news/articles/2024-05-11/apple-closes-in-on-deal-with-openai-to-put-chatgpt-on-iphone)
 * [2024-05-11, 15:18:32](https://news.ycombinator.com/item?id=40328616) - [Metabolism of autism reveals developmental origins](https://medicalxpress.com/news/2024-05-metabolism-autism-reveals-developmental.html)
 * [2024-05-11, 14:37:26](https://news.ycombinator.com/item?id=40328368) - [Japan team uses Fugaku supercomputer to develop language model for AI](https://www.japantimes.co.jp/news/2024/05/11/japan/ai-fugaku-language-model-japanese/)
 * [2024-05-11, 12:19:00](https://news.ycombinator.com/item?id=40327631) - [PeaZip: Open-source file compression and encryption software](https://peazip.github.io/)
@@ -17,6 +16,7 @@
 * [2024-05-10, 21:59:03](https://news.ycombinator.com/item?id=40324179) - [Most of Europe is glowing pink under the aurora](https://www.foto-webcam.eu/webcam/lucknerhaus/)
 * [2024-05-10, 21:04:56](https://news.ycombinator.com/item?id=40323785) - [One Minute Park](https://oneminutepark.tv/)
 * [2024-05-10, 17:50:52](https://news.ycombinator.com/item?id=40321821) - [Coronal mass ejection impact imminent, two more earth-directed CMEs](https://www.spaceweatherlive.com/en/news/view/533/20240510-cme-impact-imminent-two-more-earth-directed-cmes.html)
+* [2024-05-10, 17:09:51](https://news.ycombinator.com/item?id=40321362) - [Show HN: Jacinda, a functional Awk (text stream processing on the comamnd-line)](https://hackage.haskell.org/package/jacinda)
 * [2024-05-10, 15:51:01](https://news.ycombinator.com/item?id=40320406) - [Jim Simons has died](https://www.simonsfoundation.org/2024/05/10/simons-foundation-co-founder-mathematician-and-investor-jim-simons-dies-at-86/)
 * [2024-05-10, 13:08:38](https://news.ycombinator.com/item?id=40318542) - [Show HN: A web debugger an ex-Cloudflare team has been working on for 4 years](https://news.ycombinator.com/item?id=40318542)
 * [2024-05-10, 11:22:34](https://news.ycombinator.com/item?id=40317629) - [You Can Hear the Temperature of Water](https://www.nytimes.com/2024/05/09/science/hot-water-sound-cold.html)
