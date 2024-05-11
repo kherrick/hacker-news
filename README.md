@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-11, 08:05:36](https://news.ycombinator.com/item?id=40326738) - [London's history-making beavers are adapting to life in the capital](https://www.bigissue.com/news/environment/beavers-london-ealing-environment-uk-rewilding/)
+* [2024-05-11, 07:31:23](https://news.ycombinator.com/item?id=40326615) - [Show HN: Wag, MFA and Enrollment for WireGuard](https://github.com/NHAS/wag)
 * [2024-05-11, 07:00:20](https://news.ycombinator.com/item?id=40326507) - [Bitmovin (YC S15) Is Hiring Interns in Sales, Engineering, HR in Austria](https://bitmovin.com/careers/)
 * [2024-05-11, 06:03:58](https://news.ycombinator.com/item?id=40326305) - [The Derivative of a Number](https://rjlipton.com/2014/08/19/the-derivative-of-a-number/)
 * [2024-05-11, 05:51:18](https://news.ycombinator.com/item?id=40326269) - [Thread: Tech we can’t use or teach?](https://overengineer.dev/blog/2024/05/10/thread/)
@@ -14,7 +15,6 @@
 * [2024-05-10, 13:27:20](https://news.ycombinator.com/item?id=40318714) - [Superfile – A fancy, pretty terminal file manager](https://github.com/MHNightCat/superfile)
 * [2024-05-10, 13:08:38](https://news.ycombinator.com/item?id=40318542) - [Show HN: A web debugger an ex-Cloudflare team has been working on for 4 years](https://news.ycombinator.com/item?id=40318542)
 * [2024-05-10, 12:23:21](https://news.ycombinator.com/item?id=40318123) - [Food labels and the lies they tell us about ‘best before’ expiration dates (2021)](https://www.vox.com/22559293/food-waste-expiration-label-best-before)
-* [2024-05-10, 10:25:24](https://news.ycombinator.com/item?id=40317221) - [100 Years of IBM](http://www.tikalon.com/blog/blog.php?article=2024/IBM_100)
 * [2024-05-10, 09:01:05](https://news.ycombinator.com/item?id=40316788) - [Is the largest root of a random real polynomial more likely real than complex?](https://mathoverflow.net/questions/470951/is-the-largest-root-of-a-random-polynomial-more-likely-to-be-real-than-complex)
 * [2024-05-10, 06:35:59](https://news.ycombinator.com/item?id=40315990) - [Pyramid3D Real-time Graphics Processor (1997) [pdf]](https://vgamuseum.info/images/doc/unreleased/pyramid3d/tritechpyramid3dpresentation.pdf)
 * [2024-05-10, 06:31:34](https://news.ycombinator.com/item?id=40315970) - [Roman Tyrian purple snail dye found in UK for first time](https://www.bbc.com/news/articles/cjje132jvygo)
