@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-11, 08:05:36",
+      "https://news.ycombinator.com/item?id=40326738"
+    ],
+    [
+      "London's history-making beavers are adapting to life in the capital",
+      "https://www.bigissue.com/news/environment/beavers-london-ealing-environment-uk-rewilding/"
+    ]
+  ],
+  [
+    [
       "2024-05-11, 07:00:20",
       "https://news.ycombinator.com/item?id=40326507"
     ],
@@ -121,42 +131,12 @@
   ],
   [
     [
-      "2024-05-10, 13:02:54",
-      "https://news.ycombinator.com/item?id=40318487"
-    ],
-    [
-      "Swipos-GIS/GEO, nationwide GNSS RTK correction for centimeter accurate location",
-      "https://www.swisstopo.admin.ch/en/swipos-gisgeo-for-rtk-and-postprocessing-applications"
-    ]
-  ],
-  [
-    [
       "2024-05-10, 12:23:21",
       "https://news.ycombinator.com/item?id=40318123"
     ],
     [
       "Food labels and the lies they tell us about ‘best before’ expiration dates (2021)",
       "https://www.vox.com/22559293/food-waste-expiration-label-best-before"
-    ]
-  ],
-  [
-    [
-      "2024-05-10, 11:06:50",
-      "https://news.ycombinator.com/item?id=40317515"
-    ],
-    [
-      "Astrophysics Data System",
-      "https://ui.adsabs.harvard.edu:443/classic-form/"
-    ]
-  ],
-  [
-    [
-      "2024-05-10, 10:53:30",
-      "https://news.ycombinator.com/item?id=40317401"
-    ],
-    [
-      "Evaluating Eye Tracking Systems for Computer Input (2012)",
-      "https://www.yorku.ca/mack/cogain.html"
     ]
   ],
   [
@@ -175,8 +155,38 @@
       "https://news.ycombinator.com/item?id=40316788"
     ],
     [
-      "Is the largest root of a random real polynomial more likely real or complex?",
+      "Is the largest root of a random real polynomial more likely real than complex?",
       "https://mathoverflow.net/questions/470951/is-the-largest-root-of-a-random-polynomial-more-likely-to-be-real-than-complex"
+    ]
+  ],
+  [
+    [
+      "2024-05-10, 06:40:29",
+      "https://news.ycombinator.com/item?id=40316023"
+    ],
+    [
+      "Spherical Parallel Manipulator [video]",
+      "https://www.youtube.com/watch?v=6yx700AdzLI"
+    ]
+  ],
+  [
+    [
+      "2024-05-10, 06:37:01",
+      "https://news.ycombinator.com/item?id=40315996"
+    ],
+    [
+      "Homelab Cable Television Setup [video]",
+      "https://www.youtube.com/watch?v=W7m7OW2xrJE"
+    ]
+  ],
+  [
+    [
+      "2024-05-10, 06:35:59",
+      "https://news.ycombinator.com/item?id=40315990"
+    ],
+    [
+      "Pyramid3D Real-time Graphics Processor (1997) [pdf]",
+      "https://vgamuseum.info/images/doc/unreleased/pyramid3d/tritechpyramid3dpresentation.pdf"
     ]
   ],
   [
@@ -187,6 +197,26 @@
     [
       "Roman Tyrian purple snail dye found in UK for first time",
       "https://www.bbc.com/news/articles/cjje132jvygo"
+    ]
+  ],
+  [
+    [
+      "2024-05-10, 05:25:26",
+      "https://news.ycombinator.com/item?id=40315724"
+    ],
+    [
+      "Unix and Multics",
+      "https://www.multicians.org/unix.html"
+    ]
+  ],
+  [
+    [
+      "2024-05-10, 05:14:14",
+      "https://news.ycombinator.com/item?id=40315686"
+    ],
+    [
+      "So We've Got a Memory Leak",
+      "https://stevenharman.net/so-we-have-a-memory-leak"
     ]
   ],
   [
@@ -211,22 +241,12 @@
   ],
   [
     [
-      "2024-05-09, 21:36:06",
-      "https://news.ycombinator.com/item?id=40313193"
+      "2024-05-08, 21:34:10",
+      "https://news.ycombinator.com/item?id=40302909"
     ],
     [
-      "Cubic millimetre of brain mapped at nanoscale resolution",
-      "https://www.nature.com/articles/d41586-024-01387-9"
-    ]
-  ],
-  [
-    [
-      "2024-05-09, 19:43:11",
-      "https://news.ycombinator.com/item?id=40312192"
-    ],
-    [
-      "Cylindrical Slide Rules",
-      "https://americanhistory.si.edu/collections/object-groups/slide-rules/cylindrical-slide-rules"
+      "Stunningly Preserved Ancient Roman Glassware Turns Up in a French Burial Site",
+      "https://news.artnet.com/art-world/ancient-roman-glassware-found-in-nimes-2469649"
     ]
   ],
   [
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2024-05-06, 19:19:12",
-      "https://news.ycombinator.com/item?id=40278459"
-    ],
-    [
-      "The poetic science of how cicadas sing",
-      "https://www.themarginalian.org/2024/05/05/cicadas/"
-    ]
-  ],
-  [
-    [
       "2024-05-06, 14:48:02",
       "https://news.ycombinator.com/item?id=40275328"
     ],
     [
       "Selling 'Ghost in the Shell'",
       "https://animationobsessive.substack.com/p/selling-ghost-in-the-shell"
-    ]
-  ],
-  [
-    [
-      "2024-05-06, 04:06:09",
-      "https://news.ycombinator.com/item?id=40271057"
-    ],
-    [
-      "Laudatio Turiae",
-      "https://en.wikipedia.org/wiki/Laudatio_Turiae"
     ]
   ],
   [
