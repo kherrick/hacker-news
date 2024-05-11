@@ -28,7 +28,7 @@
 * [2024-05-10, 05:14:14](https://news.ycombinator.com/item?id=40315686) - [So We've Got a Memory Leak](https://stevenharman.net/so-we-have-a-memory-leak)
 * [2024-05-09, 22:33:44](https://news.ycombinator.com/item?id=40313613) - [Nasa’s Roman Mission Will Hunt for Primordial Black Holes](https://www.nasa.gov/missions/roman-space-telescope/how-nasas-roman-mission-will-hunt-for-primordial-black-holes/)
 * [2024-05-09, 21:47:13](https://news.ycombinator.com/item?id=40313264) - [Life-like particle system](https://ventrella.com/Clusters/)
-* [2024-05-04, 19:45:24](https://news.ycombinator.com/item?id=40259832) - [Explosively pumped flux compression generator](https://en.wikipedia.org/wiki/Explosively_pumped_flux_compression_generator)
+* [2024-05-06, 14:48:02](https://news.ycombinator.com/item?id=40275328) - [Selling 'Ghost in the Shell'](https://animationobsessive.substack.com/p/selling-ghost-in-the-shell)
 * [2024-05-04, 17:01:25](https://news.ycombinator.com/item?id=40258903) - [Deno KV internals: building a database for the modern web](https://deno.com/blog/building-deno-kv)
 
 ## [Archives](archives/index.md)
