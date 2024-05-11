@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-11](index.md)
 
+* [2024-05-11, 22:07:09](https://news.ycombinator.com/item?id=40330930) - [Billions in Dirty Money Flies Under the Radar at Busiest Airports](https://www.wsj.com/business/airlines/heathrow-dubai-airports-billions-dirty-money-9f49cc7f)
 * [2024-05-11, 21:41:21](https://news.ycombinator.com/item?id=40330816) - [Flatpak – a security nightmare – 2 years later (2020)](https://flatkill.org/2020/)
 * [2024-05-11, 21:24:37](https://news.ycombinator.com/item?id=40330731) - [Rolling Coal](https://en.wikipedia.org/wiki/Rolling_coal)
 * [2024-05-11, 21:17:56](https://news.ycombinator.com/item?id=40330692) - [Astronomers Are on the Hunt for Dyson Spheres](https://www.universetoday.com/166921/astronomers-are-on-the-hunt-for-dyson-spheres/)
