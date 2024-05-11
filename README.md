@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-11, 02:52:31](https://news.ycombinator.com/item?id=40325674) - [Verizon and T-Mobile are trying to gobble up US Cellular](https://www.theverge.com/business/2024/5/9/24153201/verizon-t-mobile-buy-us-cellular-spectrum)
 * [2024-05-10, 21:59:03](https://news.ycombinator.com/item?id=40324179) - [Most of Europe is glowing pink under the aurora](https://www.foto-webcam.eu/webcam/lucknerhaus/)
 * [2024-05-10, 21:04:56](https://news.ycombinator.com/item?id=40323785) - [One Minute Park](https://oneminutepark.tv/)
 * [2024-05-10, 17:50:52](https://news.ycombinator.com/item?id=40321821) - [Coronal mass ejection impact imminent, two more earth-directed CMEs](https://www.spaceweatherlive.com/en/news/view/533/20240510-cme-impact-imminent-two-more-earth-directed-cmes.html)
@@ -18,7 +19,6 @@
 * [2024-05-10, 06:43:36](https://news.ycombinator.com/item?id=40316039) - [Tine Text Editor](https://github.com/travisdoor/tine)
 * [2024-05-10, 06:31:34](https://news.ycombinator.com/item?id=40315970) - [Roman Tyrian purple snail dye found in UK for first time](https://www.bbc.com/news/articles/cjje132jvygo)
 * [2024-05-10, 06:02:11](https://news.ycombinator.com/item?id=40315850) - [Writing C code in Java/Clojure: GraalVM specific programming (2021)](https://yyhh.org/blog/2021/02/writing-c-code-in-javaclojure-graalvm-specific-programming/)
-* [2024-05-10, 02:48:47](https://news.ycombinator.com/item?id=40315032) - [Serial to Parallel Port Converter](http://www.bramblyhill.com/admin/Pages/page/Membership-Card-Serial-Adapter.aspx)
 * [2024-05-09, 22:33:44](https://news.ycombinator.com/item?id=40313613) - [Nasa’s Roman Mission Will Hunt for Primordial Black Holes](https://www.nasa.gov/missions/roman-space-telescope/how-nasas-roman-mission-will-hunt-for-primordial-black-holes/)
 * [2024-05-09, 21:47:13](https://news.ycombinator.com/item?id=40313264) - [Life-like particle system](https://ventrella.com/Clusters/)
 * [2024-05-09, 21:36:06](https://news.ycombinator.com/item?id=40313193) - [Cubic millimetre of brain mapped at nanoscale resolution](https://www.nature.com/articles/d41586-024-01387-9)
