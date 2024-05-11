@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-11](index.md)
 
+* [2024-05-11, 13:36:27](https://news.ycombinator.com/item?id=40327951) - [A Joint Statement from UniSuper and Google Cloud CEO, Thomas Kurian](https://www.unisuper.com.au/about-us/media-centre/2024/a-joint-statement-from-unisuper-and-google-cloud)
 * [2024-05-11, 13:19:25](https://news.ycombinator.com/item?id=40327872) - [Supreme Court: There's No 'Time Limit' on Copyright Infringement Claims](https://torrentfreak.com/supreme-court-theres-no-time-limit-on-copyright-infringement-claims-240510/)
 * [2024-05-11, 13:15:58](https://news.ycombinator.com/item?id=40327857) - [Nvidia Open GPU Linux Kernel Driver Soon Be the Default for Turing, Newer GPUs](https://www.phoronix.com/news/NVIDIA-R560-Open-Default)
 * [2024-05-11, 13:08:34](https://news.ycombinator.com/item?id=40327812) - [Ask HN: Should HN black bar become community driven?](https://news.ycombinator.com/item?id=40327812)
