@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-11, 21:41:21](https://news.ycombinator.com/item?id=40330816) - [Flatpak – a security nightmare – 2 years later (2020)](https://flatkill.org/2020/)
+* [2024-05-11, 21:17:56](https://news.ycombinator.com/item?id=40330692) - [Astronomers Are on the Hunt for Dyson Spheres](https://www.universetoday.com/166921/astronomers-are-on-the-hunt-for-dyson-spheres/)
 * [2024-05-11, 21:01:14](https://news.ycombinator.com/item?id=40330610) - [Fathom (YC W21) is hiring a TPM to prototype new AI features](https://www.ycombinator.com/companies/fathom/jobs/r4HKk2W-product-manager-ai)
 * [2024-05-11, 18:28:58](https://news.ycombinator.com/item?id=40329793) - [Show HN: Project Random – Random, obscure content from around the web](https://0xbeef.co.uk/random)
 * [2024-05-11, 18:08:18](https://news.ycombinator.com/item?id=40329675) - [Vision Transformers Need Registers](https://openreview.net/forum?id=2dnO3LLiJ1)
@@ -13,7 +15,6 @@
 * [2024-05-11, 07:18:39](https://news.ycombinator.com/item?id=40326563) - [Why the CORDIC algorithm lives rent-free in my head](https://github.com/francisrstokes/githublog/blob/main/2024/5/10/cordic.md)
 * [2024-05-11, 06:19:00](https://news.ycombinator.com/item?id=40326362) - [The Emacs Window Management Almanac](https://karthinks.com/software/emacs-window-management-almanac/)
 * [2024-05-11, 06:03:58](https://news.ycombinator.com/item?id=40326305) - [The derivative of a number (2014)](https://rjlipton.com/2014/08/19/the-derivative-of-a-number/)
-* [2024-05-11, 05:51:18](https://news.ycombinator.com/item?id=40326269) - [Thread: Tech we can’t use or teach?](https://overengineer.dev/blog/2024/05/10/thread/)
 * [2024-05-11, 02:16:55](https://news.ycombinator.com/item?id=40325542) - [Adam Curtis on the dangers of self-expression (2017)](https://thecreativeindependent.com/people/adam-curtis-on-the-dangers-of-self-expression/)
 * [2024-05-10, 21:59:03](https://news.ycombinator.com/item?id=40324179) - [Most of Europe is glowing pink under the aurora](https://www.foto-webcam.eu/webcam/lucknerhaus/)
 * [2024-05-10, 11:22:34](https://news.ycombinator.com/item?id=40317629) - [Why you can hear the temperature of water](https://www.nytimes.com/2024/05/09/science/hot-water-sound-cold.html)
@@ -27,7 +28,6 @@
 * [2024-05-10, 05:25:26](https://news.ycombinator.com/item?id=40315724) - [Unix and Multics (2019)](https://www.multicians.org/unix.html)
 * [2024-05-10, 05:14:14](https://news.ycombinator.com/item?id=40315686) - [So We've Got a Memory Leak](https://stevenharman.net/so-we-have-a-memory-leak)
 * [2024-05-09, 22:33:44](https://news.ycombinator.com/item?id=40313613) - [Nasa’s Roman Mission Will Hunt for Primordial Black Holes](https://www.nasa.gov/missions/roman-space-telescope/how-nasas-roman-mission-will-hunt-for-primordial-black-holes/)
-* [2024-05-09, 21:36:06](https://news.ycombinator.com/item?id=40313193) - [Cubic millimetre of brain mapped at nanoscale resolution](https://www.nature.com/articles/d41586-024-01387-9)
 * [2024-05-07, 23:04:30](https://news.ycombinator.com/item?id=40292537) - [Ask HN: Seeking ideas for preschool/school projects](https://news.ycombinator.com/item?id=40292537)
 * [2024-05-06, 14:48:02](https://news.ycombinator.com/item?id=40275328) - [Selling 'Ghost in the Shell'](https://animationobsessive.substack.com/p/selling-ghost-in-the-shell)
 
