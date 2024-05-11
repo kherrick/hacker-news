@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-11, 18:08:18](https://news.ycombinator.com/item?id=40329675) - [Vision Transformers Need Registers](https://openreview.net/forum?id=2dnO3LLiJ1)
 * [2024-05-11, 17:16:08](https://news.ycombinator.com/item?id=40329388) - [Immersive Math](http://immersivemath.com/ila/index.html)
 * [2024-05-11, 17:01:14](https://news.ycombinator.com/item?id=40329293) - [Trellis (YC W24) is hiring Founding Eng to build ETL for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/biNfViG-founding-engineers-full-time)
 * [2024-05-11, 16:42:45](https://news.ycombinator.com/item?id=40329173) - [System Analysis and Programming (1966)](https://www.scientificamerican.com/article/system-analysis-and-programming-christopher-strachey/)
@@ -14,11 +15,9 @@
 * [2024-05-11, 06:19:00](https://news.ycombinator.com/item?id=40326362) - [The Emacs Window Management Almanac](https://karthinks.com/software/emacs-window-management-almanac/)
 * [2024-05-11, 06:03:58](https://news.ycombinator.com/item?id=40326305) - [The derivative of a number (2014)](https://rjlipton.com/2014/08/19/the-derivative-of-a-number/)
 * [2024-05-11, 05:51:18](https://news.ycombinator.com/item?id=40326269) - [Thread: Tech we can’t use or teach?](https://overengineer.dev/blog/2024/05/10/thread/)
+* [2024-05-11, 02:16:55](https://news.ycombinator.com/item?id=40325542) - [Adam Curtis on the dangers of self-expression (2017)](https://thecreativeindependent.com/people/adam-curtis-on-the-dangers-of-self-expression/)
 * [2024-05-10, 21:59:03](https://news.ycombinator.com/item?id=40324179) - [Most of Europe is glowing pink under the aurora](https://www.foto-webcam.eu/webcam/lucknerhaus/)
-* [2024-05-10, 21:04:56](https://news.ycombinator.com/item?id=40323785) - [One Minute Park](https://oneminutepark.tv/)
-* [2024-05-10, 17:50:52](https://news.ycombinator.com/item?id=40321821) - [Coronal mass ejection impact imminent, two more earth-directed CMEs](https://www.spaceweatherlive.com/en/news/view/533/20240510-cme-impact-imminent-two-more-earth-directed-cmes.html)
-* [2024-05-10, 15:51:01](https://news.ycombinator.com/item?id=40320406) - [Jim Simons has died](https://www.simonsfoundation.org/2024/05/10/simons-foundation-co-founder-mathematician-and-investor-jim-simons-dies-at-86/)
-* [2024-05-10, 11:22:34](https://news.ycombinator.com/item?id=40317629) - [You can hear the temperature of water](https://www.nytimes.com/2024/05/09/science/hot-water-sound-cold.html)
+* [2024-05-10, 11:22:34](https://news.ycombinator.com/item?id=40317629) - [Why you can hear the temperature of water](https://www.nytimes.com/2024/05/09/science/hot-water-sound-cold.html)
 * [2024-05-10, 10:49:18](https://news.ycombinator.com/item?id=40317375) - [ENIAC Simulator](http://zuse-z1.zib.de/simulations/eniac/)
 * [2024-05-10, 08:59:13](https://news.ycombinator.com/item?id=40316780) - [Making Sense of Acquire-Release Semantics](https://davekilian.com/acquire-release.html)
 * [2024-05-10, 08:16:07](https://news.ycombinator.com/item?id=40316537) - [What are third places? How do I find one?](https://www.vox.com/the-highlight/24119312/how-to-find-a-third-place-cafe-bar-gym-loneliness-connection)
@@ -29,6 +28,7 @@
 * [2024-05-10, 05:14:14](https://news.ycombinator.com/item?id=40315686) - [So We've Got a Memory Leak](https://stevenharman.net/so-we-have-a-memory-leak)
 * [2024-05-09, 22:33:44](https://news.ycombinator.com/item?id=40313613) - [Nasa’s Roman Mission Will Hunt for Primordial Black Holes](https://www.nasa.gov/missions/roman-space-telescope/how-nasas-roman-mission-will-hunt-for-primordial-black-holes/)
 * [2024-05-09, 21:36:06](https://news.ycombinator.com/item?id=40313193) - [Cubic millimetre of brain mapped at nanoscale resolution](https://www.nature.com/articles/d41586-024-01387-9)
+* [2024-05-07, 23:04:30](https://news.ycombinator.com/item?id=40292537) - [Ask HN: Seeking ideas for preschool/school projects](https://news.ycombinator.com/item?id=40292537)
 * [2024-05-06, 14:48:02](https://news.ycombinator.com/item?id=40275328) - [Selling 'Ghost in the Shell'](https://animationobsessive.substack.com/p/selling-ghost-in-the-shell)
 
 ## [Archives](archives/index.md)
