@@ -59,6 +59,7 @@
 * [2024-05-10, 11:41:12](https://news.ycombinator.com/item?id=40317740) - [Popover API](https://developer.mozilla.org/en-US/docs/Web/API/Popover_API)
 * [2024-05-10, 11:22:34](https://news.ycombinator.com/item?id=40317629) - [You Can Hear the Temperature of Water](https://www.nytimes.com/2024/05/09/science/hot-water-sound-cold.html)
 * [2024-05-10, 11:22:23](https://news.ycombinator.com/item?id=40317627) - [Apple M4 benchmarks suggest it is new single-core performance champ](https://www.tomshardware.com/pc-components/cpus/apple-m4-scores-suggest-it-is-the-new-single-core-performance-champ-beating-intels-core-i9-14900ks-incredible-results-of-3800-posted)
+* [2024-05-10, 11:09:39](https://news.ycombinator.com/item?id=40317537) - [When Is a Counter-Strike Player Good?](https://two-wrongs.com/when-is-counter-strike-player-good)
 * [2024-05-10, 11:06:50](https://news.ycombinator.com/item?id=40317515) - [Astrophysics Data System](https://ui.adsabs.harvard.edu:443/classic-form/)
 * [2024-05-10, 11:04:07](https://news.ycombinator.com/item?id=40317499) - [SK Logic in Egglog](http://www.chriswarbo.net/blog/2024-02-25-sk_logic_in_egglog_1.html)
 * [2024-05-10, 10:58:52](https://news.ycombinator.com/item?id=40317455) - [Plastic Scanner](https://plasticscanner.com/)
