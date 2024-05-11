@@ -6,6 +6,7 @@
 
 * [2024-05-07, 23:49:50](https://news.ycombinator.com/item?id=40292853) - [RTK Experiments](https://n1vux.github.io/articles/Geodetic/RTK-experiments.html)
 * [2024-05-07, 23:26:39](https://news.ycombinator.com/item?id=40292684) - [Nintendo made $10.8B in FY24 with mobile and IP income up 81.6%](https://www.pocketgamer.biz/news/83949/nintendo-made-108-billion-in-fy24-with-mobile-and-ip-income-up-816/)
+* [2024-05-07, 23:04:30](https://news.ycombinator.com/item?id=40292537) - [Seeking Ideas for Preschool/School Projects](https://news.ycombinator.com/item?id=40292537)
 * [2024-05-07, 22:52:07](https://news.ycombinator.com/item?id=40292452) - [Unix forking the universe by running IBM's free online quantum computer](https://parel.es/blog/quantum-dice)
 * [2024-05-07, 22:15:05](https://news.ycombinator.com/item?id=40292181) - [Decker: A fantastic reincarnation of HyperCard with 1-bit graphics](https://www.beyondloom.com/decker/index.html)
 * [2024-05-07, 22:01:12](https://news.ycombinator.com/item?id=40292047) - [Qt and C++ Trivial Relocation (Part 1)](https://www.kdab.com/qt-and-trivial-relocation-part-1/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-11](index.md)
 
+* [2024-05-11, 07:00:20](https://news.ycombinator.com/item?id=40326507) - [Bitmovin (YC S15) Is Hiring Interns in Sales, Engineering, HR in Austria](https://bitmovin.com/careers/)
 * [2024-05-11, 06:03:58](https://news.ycombinator.com/item?id=40326305) - [The Derivative of a Number](https://rjlipton.com/2014/08/19/the-derivative-of-a-number/)
 * [2024-05-11, 05:51:18](https://news.ycombinator.com/item?id=40326269) - [Thread – the tech we can't use or teach](https://overengineer.dev/blog/2024/05/10/thread/)
 * [2024-05-11, 04:48:02](https://news.ycombinator.com/item?id=40326024) - [Roberta Williams – King's Quest 40th Anniversary [video]](https://www.youtube.com/watch?v=JNiqcSUrAOo)
