@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-11, 04:48:02](https://news.ycombinator.com/item?id=40326024) - [Roberta Williams – King's Quest 40th Anniversary [video]](https://www.youtube.com/watch?v=JNiqcSUrAOo)
+* [2024-05-11, 04:17:36](https://news.ycombinator.com/item?id=40325924) - [Jack Dorsey, Bluesky, decentralised social networks and the common crowd](https://davidgerard.co.uk/blockchain/2024/05/10/jack-dorsey-bluesky-decentralised-social-networks-and-the-very-common-crowd/)
 * [2024-05-11, 02:16:55](https://news.ycombinator.com/item?id=40325542) - [Adam Curtis on the dangers of self-expression (2017)](https://thecreativeindependent.com/people/adam-curtis-on-the-dangers-of-self-expression/)
 * [2024-05-10, 21:59:03](https://news.ycombinator.com/item?id=40324179) - [Most of Europe is glowing pink under the aurora](https://www.foto-webcam.eu/webcam/lucknerhaus/)
 * [2024-05-10, 21:04:56](https://news.ycombinator.com/item?id=40323785) - [One Minute Park](https://oneminutepark.tv/)
@@ -24,7 +25,6 @@
 * [2024-05-09, 21:36:06](https://news.ycombinator.com/item?id=40313193) - [Cubic millimetre of brain mapped at nanoscale resolution](https://www.nature.com/articles/d41586-024-01387-9)
 * [2024-05-09, 19:43:11](https://news.ycombinator.com/item?id=40312192) - [Cylindrical Slide Rules](https://americanhistory.si.edu/collections/object-groups/slide-rules/cylindrical-slide-rules)
 * [2024-05-08, 17:13:26](https://news.ycombinator.com/item?id=40300515) - [New mirror that can be flexibly shaped improves X-ray microscopes](https://phys.org/news/2024-05-mirror-flexibly-ray-microscopes.html)
-* [2024-05-08, 13:03:12](https://news.ycombinator.com/item?id=40297642) - [Logicola 3](https://medium.com/@malikpiara/introducing-logicola-3-1aa4047ee335)
 * [2024-05-08, 05:30:03](https://news.ycombinator.com/item?id=40294660) - [Show HN: A simple 2D fluid and gravity simulation with WASM and WebGL](https://aestuans.github.io/blob/)
 * [2024-05-06, 19:19:12](https://news.ycombinator.com/item?id=40278459) - [The poetic science of how cicadas sing](https://www.themarginalian.org/2024/05/05/cicadas/)
 * [2024-05-06, 04:06:09](https://news.ycombinator.com/item?id=40271057) - [Laudatio Turiae](https://en.wikipedia.org/wiki/Laudatio_Turiae)
