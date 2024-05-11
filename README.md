@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-11, 04:03:07](https://news.ycombinator.com/item?id=40325876) - [Apple finalizing deal with OpenAI to bring ChatGPT features to iOS 18](https://9to5mac.com/2024/05/10/ios-18-chatgpt-features-apple-openai/)
+* [2024-05-11, 03:35:36](https://news.ycombinator.com/item?id=40325784) - [Detroit Makes the Same Mistake on EVs It Did with Japan](https://www.bloomberg.com/opinion/articles/2024-02-19/chinese-evs-detroit-makes-the-same-mistake-it-did-with-japan-in-the-1970s)
 * [2024-05-11, 02:52:31](https://news.ycombinator.com/item?id=40325674) - [Verizon and T-Mobile are trying to gobble up US Cellular](https://www.theverge.com/business/2024/5/9/24153201/verizon-t-mobile-buy-us-cellular-spectrum)
 * [2024-05-10, 21:59:03](https://news.ycombinator.com/item?id=40324179) - [Most of Europe is glowing pink under the aurora](https://www.foto-webcam.eu/webcam/lucknerhaus/)
 * [2024-05-10, 21:04:56](https://news.ycombinator.com/item?id=40323785) - [One Minute Park](https://oneminutepark.tv/)
@@ -24,7 +25,6 @@
 * [2024-05-09, 21:36:06](https://news.ycombinator.com/item?id=40313193) - [Cubic millimetre of brain mapped at nanoscale resolution](https://www.nature.com/articles/d41586-024-01387-9)
 * [2024-05-09, 19:43:11](https://news.ycombinator.com/item?id=40312192) - [Cylindrical Slide Rules](https://americanhistory.si.edu/collections/object-groups/slide-rules/cylindrical-slide-rules)
 * [2024-05-08, 17:13:26](https://news.ycombinator.com/item?id=40300515) - [New mirror that can be flexibly shaped improves X-ray microscopes](https://phys.org/news/2024-05-mirror-flexibly-ray-microscopes.html)
-* [2024-05-08, 13:03:12](https://news.ycombinator.com/item?id=40297642) - [Logicola 3](https://medium.com/@malikpiara/introducing-logicola-3-1aa4047ee335)
 * [2024-05-08, 05:30:03](https://news.ycombinator.com/item?id=40294660) - [Show HN: A simple 2D fluid and gravity simulation with WASM and WebGL](https://aestuans.github.io/blob/)
 * [2024-05-06, 19:19:12](https://news.ycombinator.com/item?id=40278459) - [The poetic science of how cicadas sing](https://www.themarginalian.org/2024/05/05/cicadas/)
 * [2024-05-06, 04:06:09](https://news.ycombinator.com/item?id=40271057) - [Laudatio Turiae](https://en.wikipedia.org/wiki/Laudatio_Turiae)
