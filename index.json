@@ -11,26 +11,6 @@
   ],
   [
     [
-      "2024-05-11, 14:40:04",
-      "https://news.ycombinator.com/item?id=40328385"
-    ],
-    [
-      "Former NFL Star Rob Gronkowski to Pay $1.9M to Settle Crypto Investor Suit",
-      "https://www.coindesk.com/policy/2024/05/07/former-nfl-star-rob-gronkowski-to-pay-19m-to-settle-crypto-investor-suit/"
-    ]
-  ],
-  [
-    [
-      "2024-05-11, 14:18:08",
-      "https://news.ycombinator.com/item?id=40328235"
-    ],
-    [
-      "G5 Conditions Reached yet Again",
-      "https://www.swpc.noaa.gov/news/g5-conditions-reached-yet-again"
-    ]
-  ],
-  [
-    [
       "2024-05-11, 12:19:00",
       "https://news.ycombinator.com/item?id=40327631"
     ],
@@ -161,12 +141,32 @@
   ],
   [
     [
+      "2024-05-10, 17:09:51",
+      "https://news.ycombinator.com/item?id=40321362"
+    ],
+    [
+      "Show HN: Jacinda, a functional Awk (text stream processing on the comamnd-line)",
+      "https://hackage.haskell.org/package/jacinda"
+    ]
+  ],
+  [
+    [
       "2024-05-10, 15:51:01",
       "https://news.ycombinator.com/item?id=40320406"
     ],
     [
       "Jim Simons has died",
       "https://www.simonsfoundation.org/2024/05/10/simons-foundation-co-founder-mathematician-and-investor-jim-simons-dies-at-86/"
+    ]
+  ],
+  [
+    [
+      "2024-05-10, 13:27:20",
+      "https://news.ycombinator.com/item?id=40318714"
+    ],
+    [
+      "Superfile – A fancy, pretty terminal file manager",
+      "https://github.com/MHNightCat/superfile"
     ]
   ],
   [
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=40315724"
     ],
     [
-      "Unix and Multics",
+      "Unix and Multics (2019)",
       "https://www.multicians.org/unix.html"
     ]
   ],
