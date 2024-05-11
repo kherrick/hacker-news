@@ -2,7 +2,8 @@
 
 * [2024-05-11, 21:01:14](https://news.ycombinator.com/item?id=40330610) - [Fathom (YC W21) is hiring a TPM to prototype new AI features](https://www.ycombinator.com/companies/fathom/jobs/r4HKk2W-product-manager-ai)
 * [2024-05-11, 20:52:04](https://news.ycombinator.com/item?id=40330570) - [Scotland suddenly has a lot of mosquitoes](https://www.popsci.com/science/mosquitoes-scotland/)
-* [2024-05-11, 20:43:56](https://news.ycombinator.com/item?id=40330531) - [Woman found living in Michigan grocery store sign for months](https://www.nbcnews.com/news/us-news/woman-found-living-michigan-grocery-store-sign-complete-computer-keuri-rcna151750)
+* [2024-05-11, 20:32:41](https://news.ycombinator.com/item?id=40330463) - [Billionaire Khosla Loses Bid to End California Beach Access Suit](https://www.bloomberg.com/news/articles/2024-05-11/billionaire-khosla-loses-bid-to-end-california-beach-access-suit)
+* [2024-05-11, 20:12:26](https://news.ycombinator.com/item?id=40330362) - [Some 787 Production Test Records Were Falsified, Boeing Says](https://aviationweek.com/air-transport/some-787-production-test-records-were-falsified-boeing-says)
 * [2024-05-11, 18:08:18](https://news.ycombinator.com/item?id=40329675) - [Vision Transformers Need Registers](https://openreview.net/forum?id=2dnO3LLiJ1)
 * [2024-05-11, 17:16:08](https://news.ycombinator.com/item?id=40329388) - [Immersive Math](http://immersivemath.com/ila/index.html)
 * [2024-05-11, 16:42:45](https://news.ycombinator.com/item?id=40329173) - [System Analysis and Programming (1966)](https://www.scientificamerican.com/article/system-analysis-and-programming-christopher-strachey/)
@@ -14,7 +15,6 @@
 * [2024-05-11, 07:18:39](https://news.ycombinator.com/item?id=40326563) - [Why the CORDIC algorithm lives rent-free in my head](https://github.com/francisrstokes/githublog/blob/main/2024/5/10/cordic.md)
 * [2024-05-11, 06:19:00](https://news.ycombinator.com/item?id=40326362) - [The Emacs Window Management Almanac](https://karthinks.com/software/emacs-window-management-almanac/)
 * [2024-05-11, 06:03:58](https://news.ycombinator.com/item?id=40326305) - [The derivative of a number (2014)](https://rjlipton.com/2014/08/19/the-derivative-of-a-number/)
-* [2024-05-11, 05:51:18](https://news.ycombinator.com/item?id=40326269) - [Thread: Tech we can’t use or teach?](https://overengineer.dev/blog/2024/05/10/thread/)
 * [2024-05-11, 02:16:55](https://news.ycombinator.com/item?id=40325542) - [Adam Curtis on the dangers of self-expression (2017)](https://thecreativeindependent.com/people/adam-curtis-on-the-dangers-of-self-expression/)
 * [2024-05-10, 21:59:03](https://news.ycombinator.com/item?id=40324179) - [Most of Europe is glowing pink under the aurora](https://www.foto-webcam.eu/webcam/lucknerhaus/)
 * [2024-05-10, 11:22:34](https://news.ycombinator.com/item?id=40317629) - [Why you can hear the temperature of water](https://www.nytimes.com/2024/05/09/science/hot-water-sound-cold.html)
