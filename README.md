@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-12, 00:48:38](https://news.ycombinator.com/item?id=40331594) - [Ancient Egyptian Stone-Drilling (1983)](https://www.penn.museum/sites/expedition/ancient-egyptian-stone-drilling/)
 * [2024-05-12, 00:23:35](https://news.ycombinator.com/item?id=40331476) - [Charlieplexing](https://en.wikipedia.org/wiki/Charlieplexing)
-* [2024-05-11, 23:26:36](https://news.ycombinator.com/item?id=40331246) - [Sydney's tree wars: Greed and harbour views fuel vandalism](https://www.bbc.com/news/world-australia-68871869)
 * [2024-05-11, 22:07:09](https://news.ycombinator.com/item?id=40330930) - [Billions in Dirty Money Flies Under the Radar at Busiest Airports](https://www.wsj.com/business/airlines/heathrow-dubai-airports-billions-dirty-money-9f49cc7f)
 * [2024-05-11, 21:01:14](https://news.ycombinator.com/item?id=40330610) - [Fathom (YC W21) is hiring a TPM to prototype new AI features](https://www.ycombinator.com/companies/fathom/jobs/r4HKk2W-product-manager-ai)
 * [2024-05-11, 18:08:18](https://news.ycombinator.com/item?id=40329675) - [Vision Transformers Need Registers](https://openreview.net/forum?id=2dnO3LLiJ1)
@@ -19,17 +19,17 @@
 * [2024-05-10, 21:59:03](https://news.ycombinator.com/item?id=40324179) - [Most of Europe is glowing pink under the aurora](https://www.foto-webcam.eu/webcam/lucknerhaus/)
 * [2024-05-10, 12:09:29](https://news.ycombinator.com/item?id=40317970) - [The global tree restoration potential (Bastin et al., 2019)](https://www.science.org/doi/10.1126/science.aax0848)
 * [2024-05-10, 11:22:34](https://news.ycombinator.com/item?id=40317629) - [Why you can hear the temperature of water](https://www.nytimes.com/2024/05/09/science/hot-water-sound-cold.html)
-* [2024-05-10, 11:09:39](https://news.ycombinator.com/item?id=40317537) - [When Is a Counter-Strike Player Good?](https://two-wrongs.com/when-is-counter-strike-player-good)
 * [2024-05-10, 10:49:18](https://news.ycombinator.com/item?id=40317375) - [ENIAC Simulator](http://zuse-z1.zib.de/simulations/eniac/)
 * [2024-05-10, 10:42:03](https://news.ycombinator.com/item?id=40317325) - [BCPL evolved from CPL. (2021) [pdf]](https://www.cl.cam.ac.uk/~mr10/cpl2bcpl.pdf)
-* [2024-05-10, 09:46:05](https://news.ycombinator.com/item?id=40317020) - [The future of logistics is in the neighbourhood](https://packsmith.io/)
 * [2024-05-10, 08:59:13](https://news.ycombinator.com/item?id=40316780) - [Making Sense of Acquire-Release Semantics](https://davekilian.com/acquire-release.html)
 * [2024-05-10, 07:45:31](https://news.ycombinator.com/item?id=40316345) - [100k Stars](https://stars.chromeexperiments.com/)
 * [2024-05-10, 07:41:22](https://news.ycombinator.com/item?id=40316319) - [The Foundation of a Generic Theorem Prover (1989) [pdf]](https://arxiv.org/pdf/cs/9301105)
 * [2024-05-10, 06:35:59](https://news.ycombinator.com/item?id=40315990) - [Pyramid3D Real-time Graphics Processor (1997) [pdf]](https://vgamuseum.info/images/doc/unreleased/pyramid3d/tritechpyramid3dpresentation.pdf)
 * [2024-05-10, 05:25:26](https://news.ycombinator.com/item?id=40315724) - [Unix and Multics (2019)](https://www.multicians.org/unix.html)
 * [2024-05-10, 05:14:14](https://news.ycombinator.com/item?id=40315686) - [So We've Got a Memory Leak](https://stevenharman.net/so-we-have-a-memory-leak)
+* [2024-05-09, 22:33:44](https://news.ycombinator.com/item?id=40313613) - [Nasa’s Roman Mission Will Hunt for Primordial Black Holes](https://www.nasa.gov/missions/roman-space-telescope/how-nasas-roman-mission-will-hunt-for-primordial-black-holes/)
 * [2024-05-09, 21:36:06](https://news.ycombinator.com/item?id=40313193) - [Cubic millimetre of brain mapped at nanoscale resolution](https://www.nature.com/articles/d41586-024-01387-9)
+* [2024-05-06, 14:48:02](https://news.ycombinator.com/item?id=40275328) - [Selling 'Ghost in the Shell'](https://animationobsessive.substack.com/p/selling-ghost-in-the-shell)
 
 ## [Archives](archives/index.md)
 
