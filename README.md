@@ -7,7 +7,6 @@
 * [2024-05-12, 10:32:46](https://news.ycombinator.com/item?id=40333380) - [There's Not Enough Power for America's High-Tech Ambitions](https://www.wsj.com/business/energy-oil/data-centers-energy-georgia-development-7a5352e9)
 * [2024-05-12, 10:32:09](https://news.ycombinator.com/item?id=40333375) - [Garbage Collectors Are Scary](https://www.enyo.de/fw/notes/garbage-collectors-are-scary.html)
 * [2024-05-12, 10:15:14](https://news.ycombinator.com/item?id=40333330) - [Roll A Lisp In C – Reading (2020)](https://swatson555.github.io/posts/2020-01-18-make-a-lisp-1.html)
-* [2024-05-12, 09:44:13](https://news.ycombinator.com/item?id=40333242) - [Brazil's catastrophic weather spawns spate of conspiracy theories](https://phys.org/news/2024-05-brazil-catastrophic-weather-spawns-spate.html)
 * [2024-05-12, 09:15:55](https://news.ycombinator.com/item?id=40333159) - [ENIAC programmer Jean Bartik's Amazon book review](https://www.amazon.com/gp/aw/review/0802713483/R3K2DSB6UE1X7H)
 * [2024-05-12, 06:46:08](https://news.ycombinator.com/item?id=40332651) - [Automatically Detecting Under-Trained Tokens in Large Language Models](https://arxiv.org/abs/2405.05417)
 * [2024-05-12, 02:35:03](https://news.ycombinator.com/item?id=40331968) - [Show HN: Open-Source Video Editor Web App](https://news.ycombinator.com/item?id=40331968)
@@ -28,6 +27,7 @@
 * [2024-05-11, 06:27:41](https://news.ycombinator.com/item?id=40326398) - [Flatcar: OS Innovation with Systemd-Sysext](https://www.flatcar.org/blog/2024/04/os-innovation-with-systemd-sysext/)
 * [2024-05-11, 06:26:58](https://news.ycombinator.com/item?id=40326391) - [Show HN: Multilspy – Cross platform framework to develop Language Server Clients](https://github.com/microsoft/monitors4codegen)
 * [2024-05-10, 21:59:03](https://news.ycombinator.com/item?id=40324179) - [Most of Europe is glowing pink under the aurora](https://www.foto-webcam.eu/webcam/lucknerhaus/)
+* [2024-05-10, 14:43:39](https://news.ycombinator.com/item?id=40319635) - [Show HN: A WireGuard Powered Remote Shell](https://github.com/noisysockets/nsh)
 * [2024-05-10, 08:59:13](https://news.ycombinator.com/item?id=40316780) - [Making Sense of Acquire-Release Semantics](https://davekilian.com/acquire-release.html)
 * [2024-05-10, 07:45:31](https://news.ycombinator.com/item?id=40316345) - [100k Stars](https://stars.chromeexperiments.com/)
 
