@@ -77,6 +77,7 @@
 * [2024-05-11, 06:27:41](https://news.ycombinator.com/item?id=40326398) - [Flatcar: OS Innovation with Systemd-Sysext](https://www.flatcar.org/blog/2024/04/os-innovation-with-systemd-sysext/)
 * [2024-05-11, 06:26:58](https://news.ycombinator.com/item?id=40326391) - [Show HN: Multilspy – Cross platform framework to develop Language Server Clients](https://github.com/microsoft/monitors4codegen)
 * [2024-05-11, 06:19:00](https://news.ycombinator.com/item?id=40326362) - [The Emacs Window Management Almanac](https://karthinks.com/software/emacs-window-management-almanac/)
+* [2024-05-11, 06:05:24](https://news.ycombinator.com/item?id=40326313) - [Assembly](https://assembly.louve.systems/)
 * [2024-05-11, 06:03:58](https://news.ycombinator.com/item?id=40326305) - [The Derivative of a Number](https://rjlipton.com/2014/08/19/the-derivative-of-a-number/)
 * [2024-05-11, 05:51:18](https://news.ycombinator.com/item?id=40326269) - [Thread – the tech we can't use or teach](https://overengineer.dev/blog/2024/05/10/thread/)
 * [2024-05-11, 04:48:02](https://news.ycombinator.com/item?id=40326024) - [Roberta Williams – King's Quest 40th Anniversary [video]](https://www.youtube.com/watch?v=JNiqcSUrAOo)
