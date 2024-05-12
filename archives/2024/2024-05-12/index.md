@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-05-12](index.md)
 
+* [2024-05-12, 19:14:39](https://news.ycombinator.com/item?id=40336756) - [Show HN: I created an app for you to be a more unpredictable romantic partner](https://www.lovefuel.app)
+* [2024-05-12, 19:14:01](https://news.ycombinator.com/item?id=40336749) - [Japan and the Lost Generation's Looming Pension Crisis (2023)](https://www.nippon.com/en/in-depth/a08702/)
 * [2024-05-12, 18:55:39](https://news.ycombinator.com/item?id=40336609) - [Professional Corner-Cutting](https://blog.ometer.com/2016/05/04/professional-corner-cutting/)
 * [2024-05-12, 18:55:12](https://news.ycombinator.com/item?id=40336607) - [Becoming an Amateur Polyglot](https://www.lesswrong.com/posts/BPpeBH8brSCRvZajs/how-to-be-an-amateur-polyglot)
 * [2024-05-12, 18:46:00](https://news.ycombinator.com/item?id=40336538) - [$7.5B investment in EV charging has only produced 7 stations in two years](https://www.washingtonpost.com/climate-solutions/2024/03/28/ev-charging-stations-slow-rollout/)
 * [2024-05-12, 18:10:44](https://news.ycombinator.com/item?id=40336312) - [Germany may introduce conscription for all 18-year-olds](https://www.telegraph.co.uk/world-news/2024/05/11/germany-considering-conscription-for-all-18-year-olds/)
+* [2024-05-12, 18:10:20](https://news.ycombinator.com/item?id=40336310) - [FCC explicitly prohibits fast lanes, closing possible net neutrality loophole](https://arstechnica.com/tech-policy/2024/05/fcc-explicitly-prohibits-fast-lanes-closing-possible-net-neutrality-loophole/)
 * [2024-05-12, 18:07:59](https://news.ycombinator.com/item?id=40336293) - [Patient Dies Weeks After Kidney Transplant from Genetically Modified Pig](https://www.nytimes.com/2024/05/12/health/richard-slayman-death-pig-kidney-transplant.html)
 * [2024-05-12, 18:06:25](https://news.ycombinator.com/item?id=40336282) - [Creepy Study Suggests AI Is the Reason We've Never Found Aliens](https://www.sciencealert.com/creepy-study-suggests-ai-is-the-reason-weve-never-found-aliens)
 * [2024-05-12, 18:03:45](https://news.ycombinator.com/item?id=40336266) - [The Age of Rage: Why Are People Are So Angry?](https://greyenlightenment.com/2024/05/11/the-age-of-rage-why-are-peopel-are-so-angry/)
