@@ -71,6 +71,7 @@
 * [2024-05-11, 07:31:23](https://news.ycombinator.com/item?id=40326615) - [Show HN: Wag, MFA and Enrollment for WireGuard](https://github.com/NHAS/wag)
 * [2024-05-11, 07:18:39](https://news.ycombinator.com/item?id=40326563) - [Why the CORDIC algorithm lives rent-free in my head](https://github.com/francisrstokes/githublog/blob/main/2024/5/10/cordic.md)
 * [2024-05-11, 07:06:31](https://news.ycombinator.com/item?id=40326524) - [DIY YouTuber Builds His Own 256-Core RISC-V Megacluster at 14.7 GHz 1-Core Freq](https://wccftech.com/diy-youtuber-builds-256-core-risc-v-megacluster-14-7-ghz-single-core-frequency/)
+* [2024-05-11, 07:05:14](https://news.ycombinator.com/item?id=40326521) - [Geomagnetically Induced Currents (Wikipedia)](https://en.wikipedia.org/wiki/Geomagnetically_induced_current)
 * [2024-05-11, 07:00:20](https://news.ycombinator.com/item?id=40326507) - [Bitmovin (YC S15) Is Hiring Interns in Sales, Engineering, HR in Austria](https://bitmovin.com/careers/)
 * [2024-05-11, 06:55:21](https://news.ycombinator.com/item?id=40326492) - [Binius: Highly efficient proofs over binary fields](https://vitalik.eth.link/general/2024/04/29/binius.html)
 * [2024-05-11, 06:49:22](https://news.ycombinator.com/item?id=40326474) - [Smoking Is Awesome [video]](https://www.youtube.com/watch?v=_rBPwu2uS-w)

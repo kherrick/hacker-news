@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-12](index.md)
 
+* [2024-05-12, 21:03:02](https://news.ycombinator.com/item?id=40337555) - [Eventual (YC W22) Is Hiring Software Engineers to Build a Query Engine in Rust](https://jobs.ashbyhq.com/eventualcomputing?utm_source=Ox4R0k6rPN)
+* [2024-05-12, 20:13:37](https://news.ycombinator.com/item?id=40337241) - [Parallel garbage collection for SBCL (2023)](https://zenodo.org/records/7816398)
 * [2024-05-12, 19:49:05](https://news.ycombinator.com/item?id=40337036) - [The Alternative Implementation Problem](https://pointersgonewild.com/2024/04/20/the-alternative-implementation-problem/)
 * [2024-05-12, 19:14:39](https://news.ycombinator.com/item?id=40336756) - [Show HN: I created an app for you to be a more unpredictable romantic partner](https://www.lovefuel.app)
 * [2024-05-12, 19:14:01](https://news.ycombinator.com/item?id=40336749) - [Japan and the Lost Generation's Looming Pension Crisis (2023)](https://www.nippon.com/en/in-depth/a08702/)
@@ -15,6 +17,7 @@
 * [2024-05-12, 18:07:59](https://news.ycombinator.com/item?id=40336293) - [Patient Dies Weeks After Kidney Transplant from Genetically Modified Pig](https://www.nytimes.com/2024/05/12/health/richard-slayman-death-pig-kidney-transplant.html)
 * [2024-05-12, 18:06:25](https://news.ycombinator.com/item?id=40336282) - [Creepy Study Suggests AI Is the Reason We've Never Found Aliens](https://www.sciencealert.com/creepy-study-suggests-ai-is-the-reason-weve-never-found-aliens)
 * [2024-05-12, 18:03:45](https://news.ycombinator.com/item?id=40336266) - [The Age of Rage: Why Are People Are So Angry?](https://greyenlightenment.com/2024/05/11/the-age-of-rage-why-are-peopel-are-so-angry/)
+* [2024-05-12, 17:55:40](https://news.ycombinator.com/item?id=40336217) - [Show HN: Insteadofvery.com](https://insteadofvery.com)
 * [2024-05-12, 17:33:28](https://news.ycombinator.com/item?id=40336095) - [Page Dewarping (2016)](https://mzucker.github.io/2016/08/15/page-dewarping.html)
 * [2024-05-12, 17:31:11](https://news.ycombinator.com/item?id=40336074) - [Physicists arrange atoms in close proximity to explore exotic states of matter](https://phys.org/news/2024-05-physicists-atoms-proximity-paving-exploring.html)
 * [2024-05-12, 17:20:24](https://news.ycombinator.com/item?id=40336009) - [Carrington Event](https://en.wikipedia.org/wiki/Carrington_Event)
