@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-12, 02:35:03](https://news.ycombinator.com/item?id=40331968) - [Show HN: Open-Source Video Editor Web App](https://news.ycombinator.com/item?id=40331968)
-* [2024-05-12, 02:25:13](https://news.ycombinator.com/item?id=40331949) - [Tesla Owners Are Putting Wet Towels on Superchargers for Higher Charging Speeds](https://insideevs.com/news/718718/tesla-supercharger-wet-towel-improve-charging-speed/)
 * [2024-05-12, 02:00:23](https://news.ycombinator.com/item?id=40331886) - [Virtualizing the 6502 on a 6502 with 6o6](http://oldvcr.blogspot.com/2024/04/virtualizing-6502-with-6o6-and.html)
 * [2024-05-12, 01:52:08](https://news.ycombinator.com/item?id=40331850) - [Show NH: \"data-to-paper\" - autonomous stepwise LLM-driven research](https://github.com/Technion-Kishony-lab/data-to-paper)
 * [2024-05-12, 00:48:38](https://news.ycombinator.com/item?id=40331594) - [Ancient Egyptian Stone-Drilling (1983)](https://www.penn.museum/sites/expedition/ancient-egyptian-stone-drilling/)
@@ -22,14 +21,15 @@
 * [2024-05-11, 02:16:55](https://news.ycombinator.com/item?id=40325542) - [Adam Curtis on the dangers of self-expression (2017)](https://thecreativeindependent.com/people/adam-curtis-on-the-dangers-of-self-expression/)
 * [2024-05-10, 21:59:03](https://news.ycombinator.com/item?id=40324179) - [Most of Europe is glowing pink under the aurora](https://www.foto-webcam.eu/webcam/lucknerhaus/)
 * [2024-05-10, 12:09:29](https://news.ycombinator.com/item?id=40317970) - [The global tree restoration potential (Bastin et al., 2019)](https://www.science.org/doi/10.1126/science.aax0848)
-* [2024-05-10, 12:07:17](https://news.ycombinator.com/item?id=40317951) - [Link rel=\"alternate\" type=\"text/plain\"](https://shkspr.mobi/blog/2024/05/link-relalternate-typetext-plain/)
 * [2024-05-10, 11:22:34](https://news.ycombinator.com/item?id=40317629) - [Why you can hear the temperature of water](https://www.nytimes.com/2024/05/09/science/hot-water-sound-cold.html)
 * [2024-05-10, 10:42:03](https://news.ycombinator.com/item?id=40317325) - [BCPL evolved from CPL. (2021) [pdf]](https://www.cl.cam.ac.uk/~mr10/cpl2bcpl.pdf)
 * [2024-05-10, 08:59:13](https://news.ycombinator.com/item?id=40316780) - [Making Sense of Acquire-Release Semantics](https://davekilian.com/acquire-release.html)
 * [2024-05-10, 07:45:31](https://news.ycombinator.com/item?id=40316345) - [100k Stars](https://stars.chromeexperiments.com/)
 * [2024-05-10, 06:40:29](https://news.ycombinator.com/item?id=40316023) - [Spherical Parallel Manipulator [video]](https://www.youtube.com/watch?v=6yx700AdzLI)
+* [2024-05-10, 06:35:59](https://news.ycombinator.com/item?id=40315990) - [Pyramid3D Real-time Graphics Processor (1997) [pdf]](https://vgamuseum.info/images/doc/unreleased/pyramid3d/tritechpyramid3dpresentation.pdf)
 * [2024-05-10, 05:25:26](https://news.ycombinator.com/item?id=40315724) - [Unix and Multics (2019)](https://www.multicians.org/unix.html)
 * [2024-05-10, 05:14:14](https://news.ycombinator.com/item?id=40315686) - [So We've Got a Memory Leak](https://stevenharman.net/so-we-have-a-memory-leak)
+* [2024-05-09, 21:36:06](https://news.ycombinator.com/item?id=40313193) - [Cubic millimetre of brain mapped at nanoscale resolution](https://www.nature.com/articles/d41586-024-01387-9)
 
 ## [Archives](archives/index.md)
 
