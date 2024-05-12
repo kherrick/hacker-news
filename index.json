@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-05-12, 12:49:55",
+      "https://news.ycombinator.com/item?id=40334011"
+    ],
+    [
+      "RAG with PostgreSQL",
+      "https://pgdash.io/blog/rag-with-postgresql.html?p"
+    ]
+  ],
+  [
+    [
       "2024-05-12, 12:01:21",
       "https://news.ycombinator.com/item?id=40333733"
     ],
@@ -197,16 +207,6 @@
     [
       "An unexpected detour into partially symbolic, sparsity-expoiting autodiff",
       "https://dansblog.netlify.app/posts/2024-05-08-laplace/laplace"
-    ]
-  ],
-  [
-    [
-      "2024-05-11, 07:31:23",
-      "https://news.ycombinator.com/item?id=40326615"
-    ],
-    [
-      "Show HN: Wag, MFA and Enrollment for WireGuard",
-      "https://github.com/NHAS/wag"
     ]
   ],
   [
