@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-12, 12:13:16](https://news.ycombinator.com/item?id=40333800) - [Tesla FSD head to head against Mercedes Driver Assist on the same road [video]](https://www.youtube.com/watch?v=h3WiY_4kgkE)
 * [2024-05-12, 12:01:21](https://news.ycombinator.com/item?id=40333733) - [UpCodes (YC S17) is hiring remote SWEs, PMs to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
 * [2024-05-12, 11:08:20](https://news.ycombinator.com/item?id=40333471) - [23% of bachelor's degrees and 43% of master's degrees have a negative ROI](https://reason.com/2024/05/10/nearly-half-of-all-masters-degrees-arent-worth-getting/)
 * [2024-05-12, 11:02:35](https://news.ycombinator.com/item?id=40333459) - [Energy, not compute, will be the #1 bottleneck to AI progress – Mark Zuckerberg [video]](https://www.youtube.com/watch?v=i-o5YbNfmh0)
@@ -22,6 +21,7 @@
 * [2024-05-11, 12:19:00](https://news.ycombinator.com/item?id=40327631) - [PeaZip: Open-source file compression and encryption software](https://peazip.github.io/)
 * [2024-05-11, 11:59:23](https://news.ycombinator.com/item?id=40327566) - [Running CHIP-8 on an HP 48 calculator (2020)](https://tobiasvl.github.io/blog/chip-8-hp-48/)
 * [2024-05-11, 11:50:18](https://news.ycombinator.com/item?id=40327532) - [The Software Behind Silicon](https://www.acquired.fm/episodes/the-software-behind-silicon-with-synopsys-founder-aart-de-geus-and-ceo-sassine-ghazi)
+* [2024-05-11, 07:31:23](https://news.ycombinator.com/item?id=40326615) - [Show HN: Wag, MFA and Enrollment for WireGuard](https://github.com/NHAS/wag)
 * [2024-05-11, 07:18:39](https://news.ycombinator.com/item?id=40326563) - [Why the CORDIC algorithm lives rent-free in my head](https://github.com/francisrstokes/githublog/blob/main/2024/5/10/cordic.md)
 * [2024-05-11, 06:55:21](https://news.ycombinator.com/item?id=40326492) - [Binius: Highly efficient proofs over binary fields](https://vitalik.eth.link/general/2024/04/29/binius.html)
 * [2024-05-11, 06:27:41](https://news.ycombinator.com/item?id=40326398) - [Flatcar: OS Innovation with Systemd-Sysext](https://www.flatcar.org/blog/2024/04/os-innovation-with-systemd-sysext/)
