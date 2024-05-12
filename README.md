@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-12, 07:06:47](https://news.ycombinator.com/item?id=40332702) - [AI Ruined Quora](https://jonn.substack.com/p/how-ai-ruined-quora)
 * [2024-05-12, 06:01:17](https://news.ycombinator.com/item?id=40332525) - [Farewell, Chuck E. Cheese Animatronic Band](https://www.nytimes.com/2024/05/11/business/chuck-e-cheese-animatronic-band.html)
 * [2024-05-12, 03:25:35](https://news.ycombinator.com/item?id=40332094) - [Roger Corman Dead: King of B Movies was 98](https://variety.com/2024/film/news/roger-corman-dead-producer-independent-b-movie-1235999591/)
 * [2024-05-12, 02:35:03](https://news.ycombinator.com/item?id=40331968) - [Show HN: Open-Source Video Editor Web App](https://news.ycombinator.com/item?id=40331968)
@@ -29,7 +30,6 @@
 * [2024-05-10, 07:45:31](https://news.ycombinator.com/item?id=40316345) - [100k Stars](https://stars.chromeexperiments.com/)
 * [2024-05-10, 05:25:26](https://news.ycombinator.com/item?id=40315724) - [Unix and Multics (2019)](https://www.multicians.org/unix.html)
 * [2024-05-10, 05:14:14](https://news.ycombinator.com/item?id=40315686) - [So We've Got a Memory Leak](https://stevenharman.net/so-we-have-a-memory-leak)
-* [2024-05-09, 21:36:06](https://news.ycombinator.com/item?id=40313193) - [Cubic millimetre of brain mapped at nanoscale resolution](https://www.nature.com/articles/d41586-024-01387-9)
 
 ## [Archives](archives/index.md)
 
