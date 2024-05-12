@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-12, 22:19:10](https://news.ycombinator.com/item?id=40338003) - [How Airline Lobbyists Just Got Humiliated](https://www.thebignewsletter.com/p/how-airline-lobbyists-just-got-humiliated)
 * [2024-05-12, 22:05:58](https://news.ycombinator.com/item?id=40337936) - [GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
+* [2024-05-12, 22:05:30](https://news.ycombinator.com/item?id=40337933) - [I built an online PDF management platform using open-source software](https://www.pdfequips.com/)
 * [2024-05-12, 21:41:30](https://news.ycombinator.com/item?id=40337814) - [CPU DB, a complete database of processors for researchers and hobbyists alike](http://cpudb.stanford.edu/)
 * [2024-05-12, 21:03:02](https://news.ycombinator.com/item?id=40337555) - [Eventual (YC W22) Is Hiring Software Engineers to Build a Query Engine in Rust](https://jobs.ashbyhq.com/eventualcomputing?utm_source=Ox4R0k6rPN)
 * [2024-05-12, 20:28:55](https://news.ycombinator.com/item?id=40337345) - [Tech startup connects to two satellites in orbit from Earth via Bluetooth](https://www.techradar.com/pro/tech-startup-connects-to-two-satellites-in-orbit-from-earth-via-bluetooth-using-off-the-shelf-chip-and-a-software-update)
@@ -24,12 +24,12 @@
 * [2024-05-11, 18:31:38](https://news.ycombinator.com/item?id=40329804) - [Solving Recurrence Relations](https://win-vector.com/2024/05/09/solving-recurrence-relations/)
 * [2024-05-11, 14:32:58](https://news.ycombinator.com/item?id=40328338) - [Parsing PNG Images in Mojo](https://fnands.com/blog/2024/mojo-png-parsing/)
 * [2024-05-11, 12:26:03](https://news.ycombinator.com/item?id=40327652) - [Pattern Forms](https://wiki.c2.com/?PatternForms)
-* [2024-05-11, 08:36:53](https://news.ycombinator.com/item?id=40326855) - [An unexpected detour into partially symbolic, sparsity-expoiting autodiff](https://dansblog.netlify.app/posts/2024-05-08-laplace/laplace)
 * [2024-05-11, 06:27:41](https://news.ycombinator.com/item?id=40326398) - [Flatcar: OS Innovation with Systemd-Sysext](https://www.flatcar.org/blog/2024/04/os-innovation-with-systemd-sysext/)
 * [2024-05-11, 06:05:24](https://news.ycombinator.com/item?id=40326313) - [Assembly](https://assembly.louve.systems/)
 * [2024-05-10, 18:28:07](https://news.ycombinator.com/item?id=40322267) - [Scientists Find an 'Alphabet' in Whale Songs](https://www.nytimes.com/2024/05/07/science/whale-song-alphabet.html)
 * [2024-05-10, 18:18:41](https://news.ycombinator.com/item?id=40322137) - [Peter Jackson on how Tolkien stopped a Beatles LOTR film (2021)](https://www.bbc.com/news/entertainment-arts-59387182)
 * [2024-05-10, 14:43:39](https://news.ycombinator.com/item?id=40319635) - [Show HN: A WireGuard Powered Remote Shell](https://github.com/noisysockets/nsh)
+* [2024-05-10, 10:21:23](https://news.ycombinator.com/item?id=40317196) - [Memory Management Every Developer Should Know](https://webdeveloper.beehiiv.com/p/memory-management-every-programmer-know)
 
 ## [Archives](archives/index.md)
 

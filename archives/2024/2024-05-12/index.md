@@ -6,6 +6,7 @@
 
 * [2024-05-12, 22:19:10](https://news.ycombinator.com/item?id=40338003) - [Airline Lobbyists Just Got Humiliated](https://www.thebignewsletter.com/p/how-airline-lobbyists-just-got-humiliated)
 * [2024-05-12, 22:05:58](https://news.ycombinator.com/item?id=40337936) - [GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
+* [2024-05-12, 22:05:30](https://news.ycombinator.com/item?id=40337933) - [I built an online PDF management platform using open-source software](https://www.pdfequips.com/)
 * [2024-05-12, 21:41:30](https://news.ycombinator.com/item?id=40337814) - [CPU DB, a complete database of processors for researchers and hobbyists alike](http://cpudb.stanford.edu/)
 * [2024-05-12, 21:03:02](https://news.ycombinator.com/item?id=40337555) - [Eventual (YC W22) Is Hiring Software Engineers to Build a Query Engine in Rust](https://jobs.ashbyhq.com/eventualcomputing?utm_source=Ox4R0k6rPN)
 * [2024-05-12, 20:35:31](https://news.ycombinator.com/item?id=40337380) - [Study found corporate recruiters have a bias against ex-entrepreneurs](https://fortune.com/2024/05/12/entrepreneur-founder-startup-hiring-interview-bias-recruiter-jobs/)
