@@ -22,12 +22,12 @@
 * [2024-05-11, 02:16:55](https://news.ycombinator.com/item?id=40325542) - [Adam Curtis on the dangers of self-expression (2017)](https://thecreativeindependent.com/people/adam-curtis-on-the-dangers-of-self-expression/)
 * [2024-05-10, 21:59:03](https://news.ycombinator.com/item?id=40324179) - [Most of Europe is glowing pink under the aurora](https://www.foto-webcam.eu/webcam/lucknerhaus/)
 * [2024-05-10, 12:09:29](https://news.ycombinator.com/item?id=40317970) - [The global tree restoration potential (Bastin et al., 2019)](https://www.science.org/doi/10.1126/science.aax0848)
+* [2024-05-10, 12:07:17](https://news.ycombinator.com/item?id=40317951) - [Link rel=\"alternate\" type=\"text/plain\"](https://shkspr.mobi/blog/2024/05/link-relalternate-typetext-plain/)
 * [2024-05-10, 11:22:34](https://news.ycombinator.com/item?id=40317629) - [Why you can hear the temperature of water](https://www.nytimes.com/2024/05/09/science/hot-water-sound-cold.html)
 * [2024-05-10, 10:42:03](https://news.ycombinator.com/item?id=40317325) - [BCPL evolved from CPL. (2021) [pdf]](https://www.cl.cam.ac.uk/~mr10/cpl2bcpl.pdf)
 * [2024-05-10, 08:59:13](https://news.ycombinator.com/item?id=40316780) - [Making Sense of Acquire-Release Semantics](https://davekilian.com/acquire-release.html)
 * [2024-05-10, 07:45:31](https://news.ycombinator.com/item?id=40316345) - [100k Stars](https://stars.chromeexperiments.com/)
 * [2024-05-10, 06:40:29](https://news.ycombinator.com/item?id=40316023) - [Spherical Parallel Manipulator [video]](https://www.youtube.com/watch?v=6yx700AdzLI)
-* [2024-05-10, 06:35:59](https://news.ycombinator.com/item?id=40315990) - [Pyramid3D Real-time Graphics Processor (1997) [pdf]](https://vgamuseum.info/images/doc/unreleased/pyramid3d/tritechpyramid3dpresentation.pdf)
 * [2024-05-10, 05:25:26](https://news.ycombinator.com/item?id=40315724) - [Unix and Multics (2019)](https://www.multicians.org/unix.html)
 * [2024-05-10, 05:14:14](https://news.ycombinator.com/item?id=40315686) - [So We've Got a Memory Leak](https://stevenharman.net/so-we-have-a-memory-leak)
 

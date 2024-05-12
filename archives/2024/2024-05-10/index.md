@@ -54,6 +54,7 @@
 * [2024-05-10, 12:23:21](https://news.ycombinator.com/item?id=40318123) - [Food labels and the lies they tell us about ‘best before’ expiration dates](https://www.vox.com/22559293/food-waste-expiration-label-best-before)
 * [2024-05-10, 12:14:27](https://news.ycombinator.com/item?id=40318025) - [Unbearable hours, threats of being fired: The abuse of migrant interns in Japan](https://observers.france24.com/en/asia-pacific/20220419-unbearable-hours-threats-of-being-fired-the-abuse-of-migrant-interns-in-japan)
 * [2024-05-10, 12:09:29](https://news.ycombinator.com/item?id=40317970) - [The global tree restoration potential (Bastin et al., 2019)](https://www.science.org/doi/10.1126/science.aax0848)
+* [2024-05-10, 12:07:17](https://news.ycombinator.com/item?id=40317951) - [Link rel=\"alternate\" type=\"text/plain\"](https://shkspr.mobi/blog/2024/05/link-relalternate-typetext-plain/)
 * [2024-05-10, 12:02:19](https://news.ycombinator.com/item?id=40317912) - [DKIM, SPF, SpamAssassin Email Validator](https://dkimvalidator.com/)
 * [2024-05-10, 11:59:35](https://news.ycombinator.com/item?id=40317885) - [Boeing 737 catches fire and skids off the runway in Senegal](https://apnews.com/article/senegal-dakar-plane-crash-boeing-ca40060696eaedfb69324d9110a55c60)
 * [2024-05-10, 11:59:22](https://news.ycombinator.com/item?id=40317883) - [A fragment of human cerebral cortex reconstructed at nanoscale resolution](https://www.science.org/doi/10.1126/science.adk4858)
