@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-05-12, 14:25:14",
-      "https://news.ycombinator.com/item?id=40334726"
-    ],
-    [
-      "New Doctors Are Avoiding Residencies in States with Abortion Restrictions",
-      "https://kffhealthnews.org/news/article/medical-students-residents-spurning-abortion-ban-states/"
-    ]
-  ],
-  [
-    [
       "2024-05-12, 13:42:40",
       "https://news.ycombinator.com/item?id=40334391"
     ],
@@ -47,26 +37,6 @@
     [
       "Garbage Collectors Are Scary",
       "https://www.enyo.de/fw/notes/garbage-collectors-are-scary.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-12, 10:15:14",
-      "https://news.ycombinator.com/item?id=40333330"
-    ],
-    [
-      "Roll A Lisp In C – Reading (2020)",
-      "https://swatson555.github.io/posts/2020-01-18-make-a-lisp-1.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-12, 09:15:55",
-      "https://news.ycombinator.com/item?id=40333159"
-    ],
-    [
-      "ENIAC programmer Jean Bartik's Amazon book review",
-      "https://www.amazon.com/gp/aw/review/0802713483/R3K2DSB6UE1X7H"
     ]
   ],
   [
@@ -211,12 +181,22 @@
   ],
   [
     [
-      "2024-05-11, 10:37:46",
-      "https://news.ycombinator.com/item?id=40327293"
+      "2024-05-11, 08:36:53",
+      "https://news.ycombinator.com/item?id=40326855"
     ],
     [
-      "Cosine Similarity",
-      "https://algebrica.org/cosine-similarity/"
+      "An unexpected detour into partially symbolic, sparsity-expoiting autodiff",
+      "https://dansblog.netlify.app/posts/2024-05-08-laplace/laplace"
+    ]
+  ],
+  [
+    [
+      "2024-05-11, 07:31:23",
+      "https://news.ycombinator.com/item?id=40326615"
+    ],
+    [
+      "Show HN: Wag, MFA and Enrollment for WireGuard",
+      "https://github.com/NHAS/wag"
     ]
   ],
   [
@@ -247,6 +227,16 @@
     [
       "Flatcar: OS Innovation with Systemd-Sysext",
       "https://www.flatcar.org/blog/2024/04/os-innovation-with-systemd-sysext/"
+    ]
+  ],
+  [
+    [
+      "2024-05-11, 06:19:00",
+      "https://news.ycombinator.com/item?id=40326362"
+    ],
+    [
+      "The Emacs Window Management Almanac",
+      "https://karthinks.com/software/emacs-window-management-almanac/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "100k Stars",
       "https://stars.chromeexperiments.com/"
+    ]
+  ],
+  [
+    [
+      "2024-05-10, 05:25:26",
+      "https://news.ycombinator.com/item?id=40315724"
+    ],
+    [
+      "Unix and Multics (2019)",
+      "https://www.multicians.org/unix.html"
     ]
   ]
 ]
