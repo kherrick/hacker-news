@@ -1,22 +1,22 @@
 [
   [
     [
-      "2024-05-12, 22:19:10",
-      "https://news.ycombinator.com/item?id=40338003"
-    ],
-    [
-      "How Airline Lobbyists Just Got Humiliated",
-      "https://www.thebignewsletter.com/p/how-airline-lobbyists-just-got-humiliated"
-    ]
-  ],
-  [
-    [
       "2024-05-12, 22:05:58",
       "https://news.ycombinator.com/item?id=40337936"
     ],
     [
       "GPUs Go Brrr",
       "https://hazyresearch.stanford.edu/blog/2024-05-12-tk"
+    ]
+  ],
+  [
+    [
+      "2024-05-12, 22:05:30",
+      "https://news.ycombinator.com/item?id=40337933"
+    ],
+    [
+      "I built an online PDF management platform using open-source software",
+      "https://www.pdfequips.com/"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2024-05-11, 08:36:53",
-      "https://news.ycombinator.com/item?id=40326855"
-    ],
-    [
-      "An unexpected detour into partially symbolic, sparsity-expoiting autodiff",
-      "https://dansblog.netlify.app/posts/2024-05-08-laplace/laplace"
-    ]
-  ],
-  [
-    [
       "2024-05-11, 06:27:41",
       "https://news.ycombinator.com/item?id=40326398"
     ],
@@ -297,6 +287,16 @@
     [
       "Show HN: A WireGuard Powered Remote Shell",
       "https://github.com/noisysockets/nsh"
+    ]
+  ],
+  [
+    [
+      "2024-05-10, 10:21:23",
+      "https://news.ycombinator.com/item?id=40317196"
+    ],
+    [
+      "Memory Management Every Developer Should Know",
+      "https://webdeveloper.beehiiv.com/p/memory-management-every-programmer-know"
     ]
   ]
 ]
