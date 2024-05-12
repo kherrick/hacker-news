@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-12, 23:09:08",
+      "https://news.ycombinator.com/item?id=40338275"
+    ],
+    [
+      "Show HN: I made an open-source Loom alternative",
+      "https://Cap.so"
+    ]
+  ],
+  [
+    [
       "2024-05-12, 23:06:08",
       "https://news.ycombinator.com/item?id=40338259"
     ],
@@ -31,16 +41,6 @@
   ],
   [
     [
-      "2024-05-12, 21:41:30",
-      "https://news.ycombinator.com/item?id=40337814"
-    ],
-    [
-      "CPU DB, a complete database of processors for researchers and hobbyists alike",
-      "http://cpudb.stanford.edu/"
-    ]
-  ],
-  [
-    [
       "2024-05-12, 21:03:02",
       "https://news.ycombinator.com/item?id=40337555"
     ],
@@ -67,16 +67,6 @@
     [
       "The Alternative Implementation Problem",
       "https://pointersgonewild.com/2024/04/20/the-alternative-implementation-problem/"
-    ]
-  ],
-  [
-    [
-      "2024-05-12, 19:36:33",
-      "https://news.ycombinator.com/item?id=40336919"
-    ],
-    [
-      "lms: LM Studio CLI",
-      "https://github.com/lmstudio-ai/lms"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Pattern Forms",
       "https://wiki.c2.com/?PatternForms"
+    ]
+  ],
+  [
+    [
+      "2024-05-11, 08:36:53",
+      "https://news.ycombinator.com/item?id=40326855"
+    ],
+    [
+      "An unexpected detour into partially symbolic, sparsity-expoiting autodiff",
+      "https://dansblog.netlify.app/posts/2024-05-08-laplace/laplace"
     ]
   ],
   [
