@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-12, 02:35:03](https://news.ycombinator.com/item?id=40331968) - [Show HN: Open-Source Video Editor Web App](https://news.ycombinator.com/item?id=40331968)
+* [2024-05-12, 02:25:13](https://news.ycombinator.com/item?id=40331949) - [Tesla Owners Are Putting Wet Towels on Superchargers for Higher Charging Speeds](https://insideevs.com/news/718718/tesla-supercharger-wet-towel-improve-charging-speed/)
 * [2024-05-12, 02:00:23](https://news.ycombinator.com/item?id=40331886) - [Virtualizing the 6502 on a 6502 with 6o6](http://oldvcr.blogspot.com/2024/04/virtualizing-6502-with-6o6-and.html)
 * [2024-05-12, 01:52:08](https://news.ycombinator.com/item?id=40331850) - [Show NH: \"data-to-paper\" - autonomous stepwise LLM-driven research](https://github.com/Technion-Kishony-lab/data-to-paper)
 * [2024-05-12, 00:48:38](https://news.ycombinator.com/item?id=40331594) - [Ancient Egyptian Stone-Drilling (1983)](https://www.penn.museum/sites/expedition/ancient-egyptian-stone-drilling/)
 * [2024-05-12, 00:23:35](https://news.ycombinator.com/item?id=40331476) - [Charlieplexing](https://en.wikipedia.org/wiki/Charlieplexing)
-* [2024-05-11, 22:07:09](https://news.ycombinator.com/item?id=40330930) - [Billions in Dirty Money Flies Under the Radar at Busiest Airports](https://www.wsj.com/business/airlines/heathrow-dubai-airports-billions-dirty-money-9f49cc7f)
 * [2024-05-11, 21:12:57](https://news.ycombinator.com/item?id=40330667) - [Citation Needed – Wikimedia Foundation's Experimental LLM/RAG Chrome Extension](https://chromewebstore.google.com/detail/wikipedia-citation-needed/kecnjhdipdihkibljeicopdcoinghmhj)
 * [2024-05-11, 21:01:14](https://news.ycombinator.com/item?id=40330610) - [Fathom (YC W21) is hiring a TPM to prototype new AI features](https://www.ycombinator.com/companies/fathom/jobs/r4HKk2W-product-manager-ai)
 * [2024-05-11, 18:08:18](https://news.ycombinator.com/item?id=40329675) - [Vision Transformers Need Registers](https://openreview.net/forum?id=2dnO3LLiJ1)
