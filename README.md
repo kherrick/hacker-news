@@ -23,7 +23,7 @@
 * [2024-05-12, 02:00:23](https://news.ycombinator.com/item?id=40331886) - [Virtualizing the 6502 on a 6502 with 6o6](http://oldvcr.blogspot.com/2024/04/virtualizing-6502-with-6o6-and.html)
 * [2024-05-11, 18:31:38](https://news.ycombinator.com/item?id=40329804) - [Solving Recurrence Relations](https://win-vector.com/2024/05/09/solving-recurrence-relations/)
 * [2024-05-11, 14:32:58](https://news.ycombinator.com/item?id=40328338) - [Parsing PNG Images in Mojo](https://fnands.com/blog/2024/mojo-png-parsing/)
-* [2024-05-11, 11:50:18](https://news.ycombinator.com/item?id=40327532) - [The Software Behind Silicon](https://www.acquired.fm/episodes/the-software-behind-silicon-with-synopsys-founder-aart-de-geus-and-ceo-sassine-ghazi)
+* [2024-05-11, 12:26:03](https://news.ycombinator.com/item?id=40327652) - [Pattern Forms](https://wiki.c2.com/?PatternForms)
 * [2024-05-11, 08:36:53](https://news.ycombinator.com/item?id=40326855) - [An unexpected detour into partially symbolic, sparsity-expoiting autodiff](https://dansblog.netlify.app/posts/2024-05-08-laplace/laplace)
 * [2024-05-11, 06:27:41](https://news.ycombinator.com/item?id=40326398) - [Flatcar: OS Innovation with Systemd-Sysext](https://www.flatcar.org/blog/2024/04/os-innovation-with-systemd-sysext/)
 * [2024-05-11, 06:05:24](https://news.ycombinator.com/item?id=40326313) - [Assembly](https://assembly.louve.systems/)

@@ -54,6 +54,7 @@
 * [2024-05-11, 13:08:34](https://news.ycombinator.com/item?id=40327812) - [Ask HN: Should HN black bar become community driven?](https://news.ycombinator.com/item?id=40327812)
 * [2024-05-11, 13:03:31](https://news.ycombinator.com/item?id=40327782) - [Kardashev Scale](https://en.wikipedia.org/wiki/Kardashev_scale)
 * [2024-05-11, 12:34:41](https://news.ycombinator.com/item?id=40327687) - [Americans are choking on surging fast-food prices. \"I can't justify the expense\"](https://www.cbsnews.com/news/mcdonalds-price-increases-fast-food-cost-popeyes-wendys/)
+* [2024-05-11, 12:26:03](https://news.ycombinator.com/item?id=40327652) - [Pattern Forms](https://wiki.c2.com/?PatternForms)
 * [2024-05-11, 12:19:00](https://news.ycombinator.com/item?id=40327631) - [PeaZip: Open-source file compression and encryption software](https://peazip.github.io/)
 * [2024-05-11, 12:13:39](https://news.ycombinator.com/item?id=40327608) - [Comparison of Data Lake Table Formats (2022)](https://www.dremio.com/blog/comparison-of-data-lake-table-formats-apache-iceberg-apache-hudi-and-delta-lake/)
 * [2024-05-11, 11:59:23](https://news.ycombinator.com/item?id=40327566) - [Running CHIP-8 on an HP 48 calculator (2020)](https://tobiasvl.github.io/blog/chip-8-hp-48/)
