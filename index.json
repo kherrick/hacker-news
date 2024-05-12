@@ -1,21 +1,11 @@
 [
   [
     [
-      "2024-05-12, 18:10:44",
-      "https://news.ycombinator.com/item?id=40336312"
-    ],
-    [
-      "Germany may introduce conscription for all 18-year-olds",
-      "https://www.telegraph.co.uk/world-news/2024/05/11/germany-considering-conscription-for-all-18-year-olds/"
-    ]
-  ],
-  [
-    [
       "2024-05-12, 18:07:59",
       "https://news.ycombinator.com/item?id=40336293"
     ],
     [
-      "Patient Dies Weeks After Kidney Transplant from Genetically Modified Pig",
+      "Patient dies weeks after kidney transplant from genetically modified pig",
       "https://www.nytimes.com/2024/05/12/health/richard-slayman-death-pig-kidney-transplant.html"
     ]
   ],
@@ -181,16 +171,6 @@
   ],
   [
     [
-      "2024-05-12, 01:52:08",
-      "https://news.ycombinator.com/item?id=40331850"
-    ],
-    [
-      "Show NH: \"data-to-paper\" - autonomous stepwise LLM-driven research",
-      "https://github.com/Technion-Kishony-lab/data-to-paper"
-    ]
-  ],
-  [
-    [
       "2024-05-12, 00:48:38",
       "https://news.ycombinator.com/item?id=40331594"
     ],
@@ -211,12 +191,22 @@
   ],
   [
     [
-      "2024-05-11, 17:16:08",
-      "https://news.ycombinator.com/item?id=40329388"
+      "2024-05-11, 18:31:38",
+      "https://news.ycombinator.com/item?id=40329804"
     ],
     [
-      "Immersive Linear Algebra (2015)",
-      "http://immersivemath.com/ila/index.html"
+      "Solving Recurrence Relations",
+      "https://win-vector.com/2024/05/09/solving-recurrence-relations/"
+    ]
+  ],
+  [
+    [
+      "2024-05-11, 14:32:58",
+      "https://news.ycombinator.com/item?id=40328338"
+    ],
+    [
+      "Parsing PNG Images in Mojo",
+      "https://fnands.com/blog/2024/mojo-png-parsing/"
     ]
   ],
   [
@@ -251,6 +241,16 @@
   ],
   [
     [
+      "2024-05-11, 08:26:58",
+      "https://news.ycombinator.com/item?id=40326815"
+    ],
+    [
+      "Avoiding the soft delete anti-pattern",
+      "https://www.cultured.systems/2024/04/24/Soft-delete/"
+    ]
+  ],
+  [
+    [
       "2024-05-11, 07:18:39",
       "https://news.ycombinator.com/item?id=40326563"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2024-05-10, 18:18:41",
+      "https://news.ycombinator.com/item?id=40322137"
+    ],
+    [
+      "Peter Jackson on how Tolkien stopped a Beatles LOTR film",
+      "https://www.bbc.com/news/entertainment-arts-59387182"
+    ]
+  ],
+  [
+    [
       "2024-05-10, 14:43:39",
       "https://news.ycombinator.com/item?id=40319635"
     ],
     [
       "Show HN: A WireGuard Powered Remote Shell",
       "https://github.com/noisysockets/nsh"
-    ]
-  ],
-  [
-    [
-      "2024-05-10, 07:45:31",
-      "https://news.ycombinator.com/item?id=40316345"
-    ],
-    [
-      "100k Stars",
-      "https://stars.chromeexperiments.com/"
     ]
   ]
 ]
