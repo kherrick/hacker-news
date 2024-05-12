@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-12, 17:19:34](https://news.ycombinator.com/item?id=40336005) - [Signal's Katherine Maher Problem](https://www.city-journal.org/article/signals-katherine-maher-problem)
 * [2024-05-12, 17:06:55](https://news.ycombinator.com/item?id=40335921) - [Learning K programming: idiom by idiom [pdf]](http://nsl.com/papers/idioms_K3.pdf)
 * [2024-05-12, 17:00:25](https://news.ycombinator.com/item?id=40335885) - [Sweep (YC S23) is hiring a Founding Engineers to build a code generation bot](https://www.ycombinator.com/companies/sweep/jobs/8dUn406-founding-engineer-2-ml)
 * [2024-05-12, 16:24:05](https://news.ycombinator.com/item?id=40335608) - [Homoiconic Python](https://aljamal.substack.com/p/homoiconic-python)
@@ -29,6 +28,7 @@
 * [2024-05-10, 21:59:03](https://news.ycombinator.com/item?id=40324179) - [Most of Europe is glowing pink under the aurora](https://www.foto-webcam.eu/webcam/lucknerhaus/)
 * [2024-05-10, 18:28:07](https://news.ycombinator.com/item?id=40322267) - [Scientists Find an 'Alphabet' in Whale Songs](https://www.nytimes.com/2024/05/07/science/whale-song-alphabet.html)
 * [2024-05-10, 14:43:39](https://news.ycombinator.com/item?id=40319635) - [Show HN: A WireGuard Powered Remote Shell](https://github.com/noisysockets/nsh)
+* [2024-05-10, 08:59:13](https://news.ycombinator.com/item?id=40316780) - [Making Sense of Acquire-Release Semantics](https://davekilian.com/acquire-release.html)
 * [2024-05-10, 07:45:31](https://news.ycombinator.com/item?id=40316345) - [100k Stars](https://stars.chromeexperiments.com/)
 
 ## [Archives](archives/index.md)
