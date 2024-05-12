@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-12](index.md)
 
+* [2024-05-12, 09:44:13](https://news.ycombinator.com/item?id=40333242) - [Brazil's catastrophic weather spawns spate of conspiracy theories](https://phys.org/news/2024-05-brazil-catastrophic-weather-spawns-spate.html)
 * [2024-05-12, 08:26:05](https://news.ycombinator.com/item?id=40332993) - [The \"Chain of Thought\" Delusions](https://twitter.com/rao2z/status/1760133260385177784)
 * [2024-05-12, 08:24:57](https://news.ycombinator.com/item?id=40332992) - [llIlI.lI: a URL shortener using only I/l to encode domains](https://llili.li/)
 * [2024-05-12, 07:06:47](https://news.ycombinator.com/item?id=40332702) - [AI Ruined Quora](https://jonn.substack.com/p/how-ai-ruined-quora)
