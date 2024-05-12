@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-12, 19:14:39](https://news.ycombinator.com/item?id=40336756) - [Show HN: I created an app for you to be a more unpredictable romantic partner](https://www.lovefuel.app)
+* [2024-05-12, 19:49:05](https://news.ycombinator.com/item?id=40337036) - [The Alternative Implementation Problem](https://pointersgonewild.com/2024/04/20/the-alternative-implementation-problem/)
 * [2024-05-12, 18:55:39](https://news.ycombinator.com/item?id=40336609) - [Professional Corner-Cutting](https://blog.ometer.com/2016/05/04/professional-corner-cutting/)
 * [2024-05-12, 18:55:12](https://news.ycombinator.com/item?id=40336607) - [Becoming an Amateur Polyglot](https://www.lesswrong.com/posts/BPpeBH8brSCRvZajs/how-to-be-an-amateur-polyglot)
 * [2024-05-12, 18:07:59](https://news.ycombinator.com/item?id=40336293) - [Patient dies weeks after kidney transplant from genetically modified pig](https://www.nytimes.com/2024/05/12/health/richard-slayman-death-pig-kidney-transplant.html)

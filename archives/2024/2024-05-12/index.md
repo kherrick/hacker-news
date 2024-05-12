@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-12](index.md)
 
+* [2024-05-12, 19:49:05](https://news.ycombinator.com/item?id=40337036) - [The Alternative Implementation Problem](https://pointersgonewild.com/2024/04/20/the-alternative-implementation-problem/)
 * [2024-05-12, 19:14:39](https://news.ycombinator.com/item?id=40336756) - [Show HN: I created an app for you to be a more unpredictable romantic partner](https://www.lovefuel.app)
 * [2024-05-12, 19:14:01](https://news.ycombinator.com/item?id=40336749) - [Japan and the Lost Generation's Looming Pension Crisis (2023)](https://www.nippon.com/en/in-depth/a08702/)
 * [2024-05-12, 18:55:39](https://news.ycombinator.com/item?id=40336609) - [Professional Corner-Cutting](https://blog.ometer.com/2016/05/04/professional-corner-cutting/)
