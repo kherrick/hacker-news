@@ -4,14 +4,17 @@
 
 ### [Archives](../../index.md) for [2024-05-12](index.md)
 
+* [2024-05-12, 18:10:44](https://news.ycombinator.com/item?id=40336312) - [Germany may introduce conscription for all 18-year-olds](https://www.telegraph.co.uk/world-news/2024/05/11/germany-considering-conscription-for-all-18-year-olds/)
 * [2024-05-12, 18:07:59](https://news.ycombinator.com/item?id=40336293) - [Patient Dies Weeks After Kidney Transplant from Genetically Modified Pig](https://www.nytimes.com/2024/05/12/health/richard-slayman-death-pig-kidney-transplant.html)
 * [2024-05-12, 18:03:45](https://news.ycombinator.com/item?id=40336266) - [The Age of Rage: Why Are People Are So Angry?](https://greyenlightenment.com/2024/05/11/the-age-of-rage-why-are-peopel-are-so-angry/)
 * [2024-05-12, 17:31:11](https://news.ycombinator.com/item?id=40336074) - [Physicists arrange atoms in close proximity to explore exotic states of matter](https://phys.org/news/2024-05-physicists-atoms-proximity-paving-exploring.html)
+* [2024-05-12, 17:20:24](https://news.ycombinator.com/item?id=40336009) - [Carrington Event](https://en.wikipedia.org/wiki/Carrington_Event)
 * [2024-05-12, 17:19:34](https://news.ycombinator.com/item?id=40336005) - [Signal's Katherine Maher Problem](https://www.city-journal.org/article/signals-katherine-maher-problem)
 * [2024-05-12, 17:06:55](https://news.ycombinator.com/item?id=40335921) - [Learning K programming: idiom by idiom [pdf]](http://nsl.com/papers/idioms_K3.pdf)
 * [2024-05-12, 17:00:25](https://news.ycombinator.com/item?id=40335885) - [Sweep (YC S23) is hiring a Founding Engineers to build a code generation bot](https://www.ycombinator.com/companies/sweep/jobs/8dUn406-founding-engineer-2-ml)
 * [2024-05-12, 16:24:05](https://news.ycombinator.com/item?id=40335608) - [Homoiconic Python](https://aljamal.substack.com/p/homoiconic-python)
 * [2024-05-12, 16:23:04](https://news.ycombinator.com/item?id=40335599) - [Yi 1.5](https://github.com/01-ai/Yi-1.5)
+* [2024-05-12, 15:27:23](https://news.ycombinator.com/item?id=40335209) - [Brain Uses Quantum Effects, New Study Finds](http://backreaction.blogspot.com/2024/05/brain-really-uses-quantum-effects-new.html)
 * [2024-05-12, 15:26:45](https://news.ycombinator.com/item?id=40335203) - [Ultraviolet Superradiance from Networks of Tryptophan in Biological Systems](https://pubs.acs.org/doi/10.1021/acs.jpcb.3c07936)
 * [2024-05-12, 15:20:48](https://news.ycombinator.com/item?id=40335172) - [Super Mario 64's unopenable door has been opened [video]](https://www.youtube.com/watch?v=EmqFoojMeD8)
 * [2024-05-12, 15:20:39](https://news.ycombinator.com/item?id=40335170) - [Whole-body magnetic resonance imaging at 0.05 Tesla](https://www.science.org/doi/10.1126/science.adm7168)
