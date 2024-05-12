@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-12](index.md)
 
+* [2024-05-12, 13:01:42](https://news.ycombinator.com/item?id=40334102) - [America is in the midst of an extraordinary startup boom](https://www.economist.com/finance-and-economics/2024/05/12/america-is-in-the-midst-of-an-extraordinary-startup-boom)
+* [2024-05-12, 12:47:10](https://news.ycombinator.com/item?id=40333991) - [Google gave investors a $70B buyback,and laid off 12,000 people](https://twitter.com/DanPriceSeattle/status/1788965895832039913)
 * [2024-05-12, 12:13:16](https://news.ycombinator.com/item?id=40333800) - [Tesla FSD head to head against Mercedes Driver Assist on the same road [video]](https://www.youtube.com/watch?v=h3WiY_4kgkE)
 * [2024-05-12, 12:01:21](https://news.ycombinator.com/item?id=40333733) - [UpCodes (YC S17) is hiring remote SWEs, PMs to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
 * [2024-05-12, 11:08:20](https://news.ycombinator.com/item?id=40333471) - [23% of bachelor's degrees and 43% of master's degrees have a negative ROI](https://reason.com/2024/05/10/nearly-half-of-all-masters-degrees-arent-worth-getting/)
