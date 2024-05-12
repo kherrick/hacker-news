@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-12, 13:42:40](https://news.ycombinator.com/item?id=40334391) - [Solar Storm Knocks Out Farmers' Tractor GPS Systems During Peak Planting Season](https://www.404media.co/solar-storm-knocks-out-tractor-gps-systems-during-peak-planting-season/)
 * [2024-05-12, 13:01:42](https://news.ycombinator.com/item?id=40334102) - [America is in the midst of an extraordinary startup boom](https://www.economist.com/finance-and-economics/2024/05/12/america-is-in-the-midst-of-an-extraordinary-startup-boom)
 * [2024-05-12, 12:48:33](https://news.ycombinator.com/item?id=40334002) - [Stack Exchange Data Dump [Archive]](https://archive.org/details/stackexchange)
 * [2024-05-12, 12:01:47](https://news.ycombinator.com/item?id=40333738) - [Alibaba's Yitian 710 is quickest server CPU but it is based on Arm](https://www.techradar.com/pro/chinese-server-cpu-beats-microsoft-google-and-aws-rivals-to-grab-performance-crown-alibabas-yitian-710-is-quickest-server-cpu-but-it-is-based-on-arm-rather-than-risc-and-x86-is-likely-to-be-the-overall-speed-champion)
 * [2024-05-12, 12:01:21](https://news.ycombinator.com/item?id=40333733) - [UpCodes (YC S17) is hiring remote SWEs, PMs to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
 * [2024-05-12, 11:17:45](https://news.ycombinator.com/item?id=40333500) - [Show HN: es6_maps, new Elixir syntax feature via runtime compiler hacking](https://github.com/kzemek/es6_maps)
-* [2024-05-12, 10:32:46](https://news.ycombinator.com/item?id=40333380) - [There's Not Enough Power for America's High-Tech Ambitions](https://www.wsj.com/business/energy-oil/data-centers-energy-georgia-development-7a5352e9)
 * [2024-05-12, 10:32:09](https://news.ycombinator.com/item?id=40333375) - [Garbage Collectors Are Scary](https://www.enyo.de/fw/notes/garbage-collectors-are-scary.html)
 * [2024-05-12, 10:15:14](https://news.ycombinator.com/item?id=40333330) - [Roll A Lisp In C – Reading (2020)](https://swatson555.github.io/posts/2020-01-18-make-a-lisp-1.html)
 * [2024-05-12, 09:15:55](https://news.ycombinator.com/item?id=40333159) - [ENIAC programmer Jean Bartik's Amazon book review](https://www.amazon.com/gp/aw/review/0802713483/R3K2DSB6UE1X7H)
