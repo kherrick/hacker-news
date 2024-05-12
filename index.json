@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-05-12, 18:10:20",
-      "https://news.ycombinator.com/item?id=40336310"
-    ],
-    [
-      "FCC explicitly prohibits fast lanes, closing possible net neutrality loophole",
-      "https://arstechnica.com/tech-policy/2024/05/fcc-explicitly-prohibits-fast-lanes-closing-possible-net-neutrality-loophole/"
-    ]
-  ],
-  [
-    [
       "2024-05-12, 18:07:59",
       "https://news.ycombinator.com/item?id=40336293"
     ],
@@ -191,6 +181,16 @@
   ],
   [
     [
+      "2024-05-12, 02:17:10",
+      "https://news.ycombinator.com/item?id=40331928"
+    ],
+    [
+      "Emoji History: The Missing Years",
+      "https://blog.gingerbeardman.com/2024/05/10/emoji-history-the-missing-years/"
+    ]
+  ],
+  [
+    [
       "2024-05-12, 02:00:23",
       "https://news.ycombinator.com/item?id=40331886"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2024-05-11, 08:26:58",
-      "https://news.ycombinator.com/item?id=40326815"
-    ],
-    [
-      "Avoiding the soft delete anti-pattern",
-      "https://www.cultured.systems/2024/04/24/Soft-delete/"
-    ]
-  ],
-  [
-    [
       "2024-05-11, 06:27:41",
       "https://news.ycombinator.com/item?id=40326398"
     ],
     [
       "Flatcar: OS Innovation with Systemd-Sysext",
       "https://www.flatcar.org/blog/2024/04/os-innovation-with-systemd-sysext/"
+    ]
+  ],
+  [
+    [
+      "2024-05-11, 06:05:24",
+      "https://news.ycombinator.com/item?id=40326313"
+    ],
+    [
+      "Assembly",
+      "https://assembly.louve.systems/"
     ]
   ],
   [
