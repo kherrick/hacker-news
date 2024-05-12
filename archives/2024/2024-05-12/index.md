@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-12](index.md)
 
 * [2024-05-12, 21:03:02](https://news.ycombinator.com/item?id=40337555) - [Eventual (YC W22) Is Hiring Software Engineers to Build a Query Engine in Rust](https://jobs.ashbyhq.com/eventualcomputing?utm_source=Ox4R0k6rPN)
+* [2024-05-12, 20:28:55](https://news.ycombinator.com/item?id=40337345) - [Tech startup connects to two satellites in orbit from Earth via Bluetooth](https://www.techradar.com/pro/tech-startup-connects-to-two-satellites-in-orbit-from-earth-via-bluetooth-using-off-the-shelf-chip-and-a-software-update)
 * [2024-05-12, 20:13:37](https://news.ycombinator.com/item?id=40337241) - [Parallel garbage collection for SBCL (2023)](https://zenodo.org/records/7816398)
 * [2024-05-12, 19:49:05](https://news.ycombinator.com/item?id=40337036) - [The Alternative Implementation Problem](https://pointersgonewild.com/2024/04/20/the-alternative-implementation-problem/)
 * [2024-05-12, 19:14:39](https://news.ycombinator.com/item?id=40336756) - [Show HN: I created an app for you to be a more unpredictable romantic partner](https://www.lovefuel.app)

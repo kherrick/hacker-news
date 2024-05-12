@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-12, 21:03:02](https://news.ycombinator.com/item?id=40337555) - [Eventual (YC W22) Is Hiring Software Engineers to Build a Query Engine in Rust](https://jobs.ashbyhq.com/eventualcomputing?utm_source=Ox4R0k6rPN)
+* [2024-05-12, 20:28:55](https://news.ycombinator.com/item?id=40337345) - [Tech startup connects to two satellites in orbit from Earth via Bluetooth](https://www.techradar.com/pro/tech-startup-connects-to-two-satellites-in-orbit-from-earth-via-bluetooth-using-off-the-shelf-chip-and-a-software-update)
 * [2024-05-12, 20:13:37](https://news.ycombinator.com/item?id=40337241) - [Parallel garbage collection for SBCL (2023)](https://zenodo.org/records/7816398)
 * [2024-05-12, 19:49:05](https://news.ycombinator.com/item?id=40337036) - [The Alternative Implementation Problem](https://pointersgonewild.com/2024/04/20/the-alternative-implementation-problem/)
 * [2024-05-12, 18:55:39](https://news.ycombinator.com/item?id=40336609) - [Professional Corner-Cutting (2016)](https://blog.ometer.com/2016/05/04/professional-corner-cutting/)
@@ -24,7 +25,6 @@
 * [2024-05-11, 18:31:38](https://news.ycombinator.com/item?id=40329804) - [Solving Recurrence Relations](https://win-vector.com/2024/05/09/solving-recurrence-relations/)
 * [2024-05-11, 14:32:58](https://news.ycombinator.com/item?id=40328338) - [Parsing PNG Images in Mojo](https://fnands.com/blog/2024/mojo-png-parsing/)
 * [2024-05-11, 08:36:53](https://news.ycombinator.com/item?id=40326855) - [An unexpected detour into partially symbolic, sparsity-expoiting autodiff](https://dansblog.netlify.app/posts/2024-05-08-laplace/laplace)
-* [2024-05-11, 07:05:14](https://news.ycombinator.com/item?id=40326521) - [Geomagnetically Induced Currents (Wikipedia)](https://en.wikipedia.org/wiki/Geomagnetically_induced_current)
 * [2024-05-11, 06:27:41](https://news.ycombinator.com/item?id=40326398) - [Flatcar: OS Innovation with Systemd-Sysext](https://www.flatcar.org/blog/2024/04/os-innovation-with-systemd-sysext/)
 * [2024-05-11, 06:05:24](https://news.ycombinator.com/item?id=40326313) - [Assembly](https://assembly.louve.systems/)
 * [2024-05-10, 18:28:07](https://news.ycombinator.com/item?id=40322267) - [Scientists Find an 'Alphabet' in Whale Songs](https://www.nytimes.com/2024/05/07/science/whale-song-alphabet.html)
