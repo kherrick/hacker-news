@@ -9,6 +9,7 @@
 * [2024-05-12, 20:28:55](https://news.ycombinator.com/item?id=40337345) - [Tech startup connects to two satellites in orbit from Earth via Bluetooth](https://www.techradar.com/pro/tech-startup-connects-to-two-satellites-in-orbit-from-earth-via-bluetooth-using-off-the-shelf-chip-and-a-software-update)
 * [2024-05-12, 20:13:37](https://news.ycombinator.com/item?id=40337241) - [Parallel garbage collection for SBCL (2023)](https://zenodo.org/records/7816398)
 * [2024-05-12, 19:49:05](https://news.ycombinator.com/item?id=40337036) - [The Alternative Implementation Problem](https://pointersgonewild.com/2024/04/20/the-alternative-implementation-problem/)
+* [2024-05-12, 19:40:46](https://news.ycombinator.com/item?id=40336953) - [Jean Michel Jarre and Brian May Starmus Concert Livestream [video]](https://www.youtube.com/watch?v=GzjG95rB96Q)
 * [2024-05-12, 19:14:39](https://news.ycombinator.com/item?id=40336756) - [Show HN: I created an app for you to be a more unpredictable romantic partner](https://www.lovefuel.app)
 * [2024-05-12, 19:14:01](https://news.ycombinator.com/item?id=40336749) - [Japan and the Lost Generation's Looming Pension Crisis (2023)](https://www.nippon.com/en/in-depth/a08702/)
 * [2024-05-12, 18:55:39](https://news.ycombinator.com/item?id=40336609) - [Professional Corner-Cutting](https://blog.ometer.com/2016/05/04/professional-corner-cutting/)
