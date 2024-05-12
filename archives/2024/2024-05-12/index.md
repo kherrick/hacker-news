@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-12](index.md)
 
+* [2024-05-12, 15:20:48](https://news.ycombinator.com/item?id=40335172) - [Super Mario 64's unopenable door has been opened [video]](https://www.youtube.com/watch?v=EmqFoojMeD8)
 * [2024-05-12, 14:25:14](https://news.ycombinator.com/item?id=40334726) - [New Doctors Are Avoiding Residencies in States with Abortion Restrictions](https://kffhealthnews.org/news/article/medical-students-residents-spurning-abortion-ban-states/)
 * [2024-05-12, 13:42:40](https://news.ycombinator.com/item?id=40334391) - [Solar Storm Knocks Out Farmers' Tractor GPS Systems During Peak Planting Season](https://www.404media.co/solar-storm-knocks-out-tractor-gps-systems-during-peak-planting-season/)
 * [2024-05-12, 13:01:42](https://news.ycombinator.com/item?id=40334102) - [America is in the midst of an extraordinary startup boom](https://www.economist.com/finance-and-economics/2024/05/12/america-is-in-the-midst-of-an-extraordinary-startup-boom)
@@ -21,6 +22,7 @@
 * [2024-05-12, 10:32:09](https://news.ycombinator.com/item?id=40333375) - [Garbage Collectors Are Scary](https://www.enyo.de/fw/notes/garbage-collectors-are-scary.html)
 * [2024-05-12, 10:15:14](https://news.ycombinator.com/item?id=40333330) - [Roll A Lisp In C – Reading (2020)](https://swatson555.github.io/posts/2020-01-18-make-a-lisp-1.html)
 * [2024-05-12, 09:44:13](https://news.ycombinator.com/item?id=40333242) - [Brazil's catastrophic weather spawns spate of conspiracy theories](https://phys.org/news/2024-05-brazil-catastrophic-weather-spawns-spate.html)
+* [2024-05-12, 09:19:35](https://news.ycombinator.com/item?id=40333169) - [16 years of CVE-2008-0166 – Debian OpenSSL Bug](https://16years.secvuln.info/)
 * [2024-05-12, 09:15:55](https://news.ycombinator.com/item?id=40333159) - [ENIAC programmer Jean Bartik's Amazon book review](https://www.amazon.com/gp/aw/review/0802713483/R3K2DSB6UE1X7H)
 * [2024-05-12, 08:26:05](https://news.ycombinator.com/item?id=40332993) - [The \"Chain of Thought\" Delusions](https://twitter.com/rao2z/status/1760133260385177784)
 * [2024-05-12, 08:24:57](https://news.ycombinator.com/item?id=40332992) - [llIlI.lI: a URL shortener using only I/l to encode domains](https://llili.li/)
