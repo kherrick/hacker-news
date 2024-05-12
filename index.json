@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-05-12, 17:19:34",
+      "https://news.ycombinator.com/item?id=40336005"
+    ],
+    [
+      "Signal's Katherine Maher Problem",
+      "https://www.city-journal.org/article/signals-katherine-maher-problem"
+    ]
+  ],
+  [
+    [
+      "2024-05-12, 17:06:55",
+      "https://news.ycombinator.com/item?id=40335921"
+    ],
+    [
+      "Learning K programming: idiom by idiom [pdf]",
+      "http://nsl.com/papers/idioms_K3.pdf"
+    ]
+  ],
+  [
+    [
       "2024-05-12, 17:00:25",
       "https://news.ycombinator.com/item?id=40335885"
     ],
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2024-05-11, 07:06:31",
-      "https://news.ycombinator.com/item?id=40326524"
-    ],
-    [
-      "DIY YouTuber Builds His Own 256-Core RISC-V Megacluster at 14.7 GHz 1-Core Freq",
-      "https://wccftech.com/diy-youtuber-builds-256-core-risc-v-megacluster-14-7-ghz-single-core-frequency/"
-    ]
-  ],
-  [
-    [
       "2024-05-11, 06:55:21",
       "https://news.ycombinator.com/item?id=40326492"
     ],
@@ -277,16 +287,6 @@
     [
       "Show HN: A WireGuard Powered Remote Shell",
       "https://github.com/noisysockets/nsh"
-    ]
-  ],
-  [
-    [
-      "2024-05-10, 08:59:13",
-      "https://news.ycombinator.com/item?id=40316780"
-    ],
-    [
-      "Making Sense of Acquire-Release Semantics",
-      "https://davekilian.com/acquire-release.html"
     ]
   ],
   [
