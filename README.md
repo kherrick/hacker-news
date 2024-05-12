@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-12, 08:26:05](https://news.ycombinator.com/item?id=40332993) - [The \"Chain of Thought\" Delusions](https://twitter.com/rao2z/status/1760133260385177784)
 * [2024-05-12, 06:46:08](https://news.ycombinator.com/item?id=40332651) - [Automatically Detecting Under-Trained Tokens in Large Language Models](https://arxiv.org/abs/2405.05417)
 * [2024-05-12, 06:01:17](https://news.ycombinator.com/item?id=40332525) - [Farewell, Chuck E. Cheese Animatronic Band](https://www.nytimes.com/2024/05/11/business/chuck-e-cheese-animatronic-band.html)
 * [2024-05-12, 05:17:56](https://news.ycombinator.com/item?id=40332400) - [Scientists have figured out way to make algae-based plastic that decomposes](https://abcnews.go.com/US/scientists-figured-make-bio-based-plastic-completely-biodegrades/story?id=110032450)
@@ -29,7 +30,6 @@
 * [2024-05-10, 08:59:13](https://news.ycombinator.com/item?id=40316780) - [Making Sense of Acquire-Release Semantics](https://davekilian.com/acquire-release.html)
 * [2024-05-10, 07:45:31](https://news.ycombinator.com/item?id=40316345) - [100k Stars](https://stars.chromeexperiments.com/)
 * [2024-05-10, 05:25:26](https://news.ycombinator.com/item?id=40315724) - [Unix and Multics (2019)](https://www.multicians.org/unix.html)
-* [2024-05-09, 21:36:06](https://news.ycombinator.com/item?id=40313193) - [Cubic millimetre of brain mapped at nanoscale resolution](https://www.nature.com/articles/d41586-024-01387-9)
 
 ## [Archives](archives/index.md)
 
