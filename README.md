@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-12, 13:42:40](https://news.ycombinator.com/item?id=40334391) - [Solar Storm Knocks Out Farmers' Tractor GPS Systems During Peak Planting Season](https://www.404media.co/solar-storm-knocks-out-tractor-gps-systems-during-peak-planting-season/)
+* [2024-05-12, 12:49:55](https://news.ycombinator.com/item?id=40334011) - [RAG with PostgreSQL](https://pgdash.io/blog/rag-with-postgresql.html?p)
 * [2024-05-12, 12:01:21](https://news.ycombinator.com/item?id=40333733) - [UpCodes (YC S17) is hiring remote SWEs, PMs to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
 * [2024-05-12, 11:17:45](https://news.ycombinator.com/item?id=40333500) - [Show HN: es6_maps, new Elixir syntax feature via runtime compiler hacking](https://github.com/kzemek/es6_maps)
 * [2024-05-12, 10:42:02](https://news.ycombinator.com/item?id=40333408) - [Pražský Orloj: Prague astronomical clock simulator. (2022)](https://orloj.org/orloj/)
@@ -20,7 +21,6 @@
 * [2024-05-11, 11:59:23](https://news.ycombinator.com/item?id=40327566) - [Running CHIP-8 on an HP 48 calculator (2020)](https://tobiasvl.github.io/blog/chip-8-hp-48/)
 * [2024-05-11, 11:50:18](https://news.ycombinator.com/item?id=40327532) - [The Software Behind Silicon](https://www.acquired.fm/episodes/the-software-behind-silicon-with-synopsys-founder-aart-de-geus-and-ceo-sassine-ghazi)
 * [2024-05-11, 08:36:53](https://news.ycombinator.com/item?id=40326855) - [An unexpected detour into partially symbolic, sparsity-expoiting autodiff](https://dansblog.netlify.app/posts/2024-05-08-laplace/laplace)
-* [2024-05-11, 07:31:23](https://news.ycombinator.com/item?id=40326615) - [Show HN: Wag, MFA and Enrollment for WireGuard](https://github.com/NHAS/wag)
 * [2024-05-11, 07:18:39](https://news.ycombinator.com/item?id=40326563) - [Why the CORDIC algorithm lives rent-free in my head](https://github.com/francisrstokes/githublog/blob/main/2024/5/10/cordic.md)
 * [2024-05-11, 06:55:21](https://news.ycombinator.com/item?id=40326492) - [Binius: Highly efficient proofs over binary fields](https://vitalik.eth.link/general/2024/04/29/binius.html)
 * [2024-05-11, 06:27:41](https://news.ycombinator.com/item?id=40326398) - [Flatcar: OS Innovation with Systemd-Sysext](https://www.flatcar.org/blog/2024/04/os-innovation-with-systemd-sysext/)
