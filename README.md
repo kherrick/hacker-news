@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-12, 05:23:18](https://news.ycombinator.com/item?id=40332416) - [Can We Make Bicycles Sustainable Again?](https://solar.lowtechmagazine.com/2023/02/can-we-make-bicycles-sustainable-again/)
+* [2024-05-12, 06:01:17](https://news.ycombinator.com/item?id=40332525) - [Farewell, Chuck E. Cheese Animatronic Band](https://www.nytimes.com/2024/05/11/business/chuck-e-cheese-animatronic-band.html)
 * [2024-05-12, 02:35:03](https://news.ycombinator.com/item?id=40331968) - [Show HN: Open-Source Video Editor Web App](https://news.ycombinator.com/item?id=40331968)
 * [2024-05-12, 02:00:23](https://news.ycombinator.com/item?id=40331886) - [Virtualizing the 6502 on a 6502 with 6o6](http://oldvcr.blogspot.com/2024/04/virtualizing-6502-with-6o6-and.html)
 * [2024-05-12, 01:52:08](https://news.ycombinator.com/item?id=40331850) - [Show NH: \"data-to-paper\" - autonomous stepwise LLM-driven research](https://github.com/Technion-Kishony-lab/data-to-paper)
@@ -13,8 +13,8 @@
 * [2024-05-11, 17:16:08](https://news.ycombinator.com/item?id=40329388) - [Immersive Math](http://immersivemath.com/ila/index.html)
 * [2024-05-11, 16:42:45](https://news.ycombinator.com/item?id=40329173) - [System Analysis and Programming (1966)](https://www.scientificamerican.com/article/system-analysis-and-programming-christopher-strachey/)
 * [2024-05-11, 15:18:32](https://news.ycombinator.com/item?id=40328616) - [Metabolism of autism reveals developmental origins](https://medicalxpress.com/news/2024-05-metabolism-autism-reveals-developmental.html)
+* [2024-05-11, 15:02:33](https://news.ycombinator.com/item?id=40328520) - [Mouse Support for Playdate](https://blog.gingerbeardman.com/2024/05/11/mouse-support-for-playdate/)
 * [2024-05-11, 12:19:00](https://news.ycombinator.com/item?id=40327631) - [PeaZip: Open-source file compression and encryption software](https://peazip.github.io/)
-* [2024-05-11, 12:13:39](https://news.ycombinator.com/item?id=40327608) - [Comparison of Data Lake Table Formats (2022)](https://www.dremio.com/blog/comparison-of-data-lake-table-formats-apache-iceberg-apache-hudi-and-delta-lake/)
 * [2024-05-11, 07:31:23](https://news.ycombinator.com/item?id=40326615) - [Show HN: Wag, MFA and Enrollment for WireGuard](https://github.com/NHAS/wag)
 * [2024-05-11, 07:18:39](https://news.ycombinator.com/item?id=40326563) - [Why the CORDIC algorithm lives rent-free in my head](https://github.com/francisrstokes/githublog/blob/main/2024/5/10/cordic.md)
 * [2024-05-11, 06:55:21](https://news.ycombinator.com/item?id=40326492) - [Binius: Highly efficient proofs over binary fields](https://vitalik.eth.link/general/2024/04/29/binius.html)
