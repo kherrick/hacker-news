@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-12, 19:14:39](https://news.ycombinator.com/item?id=40336756) - [Show HN: I created an app for you to be a more unpredictable romantic partner](https://www.lovefuel.app)
-* [2024-05-12, 19:14:01](https://news.ycombinator.com/item?id=40336749) - [Japan and the Lost Generation's Looming Pension Crisis (2023)](https://www.nippon.com/en/in-depth/a08702/)
 * [2024-05-12, 18:55:39](https://news.ycombinator.com/item?id=40336609) - [Professional Corner-Cutting](https://blog.ometer.com/2016/05/04/professional-corner-cutting/)
 * [2024-05-12, 18:55:12](https://news.ycombinator.com/item?id=40336607) - [Becoming an Amateur Polyglot](https://www.lesswrong.com/posts/BPpeBH8brSCRvZajs/how-to-be-an-amateur-polyglot)
 * [2024-05-12, 18:10:20](https://news.ycombinator.com/item?id=40336310) - [FCC explicitly prohibits fast lanes, closing possible net neutrality loophole](https://arstechnica.com/tech-policy/2024/05/fcc-explicitly-prohibits-fast-lanes-closing-possible-net-neutrality-loophole/)
@@ -21,6 +20,7 @@
 * [2024-05-12, 06:46:08](https://news.ycombinator.com/item?id=40332651) - [Automatically Detecting Under-Trained Tokens in Large Language Models](https://arxiv.org/abs/2405.05417)
 * [2024-05-12, 02:35:03](https://news.ycombinator.com/item?id=40331968) - [Show HN: Open-Source Video Editor Web App](https://news.ycombinator.com/item?id=40331968)
 * [2024-05-12, 02:00:23](https://news.ycombinator.com/item?id=40331886) - [Virtualizing the 6502 on a 6502 with 6o6](http://oldvcr.blogspot.com/2024/04/virtualizing-6502-with-6o6-and.html)
+* [2024-05-12, 00:48:38](https://news.ycombinator.com/item?id=40331594) - [Ancient Egyptian Stone-Drilling (1983)](https://www.penn.museum/sites/expedition/ancient-egyptian-stone-drilling/)
 * [2024-05-11, 18:31:38](https://news.ycombinator.com/item?id=40329804) - [Solving Recurrence Relations](https://win-vector.com/2024/05/09/solving-recurrence-relations/)
 * [2024-05-11, 14:32:58](https://news.ycombinator.com/item?id=40328338) - [Parsing PNG Images in Mojo](https://fnands.com/blog/2024/mojo-png-parsing/)
 * [2024-05-11, 11:50:18](https://news.ycombinator.com/item?id=40327532) - [The Software Behind Silicon](https://www.acquired.fm/episodes/the-software-behind-silicon-with-synopsys-founder-aart-de-geus-and-ceo-sassine-ghazi)
