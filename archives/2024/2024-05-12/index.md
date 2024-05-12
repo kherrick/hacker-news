@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-12](index.md)
 
+* [2024-05-12, 14:25:14](https://news.ycombinator.com/item?id=40334726) - [New Doctors Are Avoiding Residencies in States with Abortion Restrictions](https://kffhealthnews.org/news/article/medical-students-residents-spurning-abortion-ban-states/)
 * [2024-05-12, 13:42:40](https://news.ycombinator.com/item?id=40334391) - [Solar Storm Knocks Out Farmers' Tractor GPS Systems During Peak Planting Season](https://www.404media.co/solar-storm-knocks-out-tractor-gps-systems-during-peak-planting-season/)
 * [2024-05-12, 13:01:42](https://news.ycombinator.com/item?id=40334102) - [America is in the midst of an extraordinary startup boom](https://www.economist.com/finance-and-economics/2024/05/12/america-is-in-the-midst-of-an-extraordinary-startup-boom)
 * [2024-05-12, 12:48:33](https://news.ycombinator.com/item?id=40334002) - [Stack Exchange Data Dump [Archive]](https://archive.org/details/stackexchange)
