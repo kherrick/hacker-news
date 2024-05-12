@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-12, 18:46:00",
+      "https://news.ycombinator.com/item?id=40336538"
+    ],
+    [
+      "$7.5B investment in EV charging has only produced 7 stations in two years",
+      "https://www.washingtonpost.com/climate-solutions/2024/03/28/ev-charging-stations-slow-rollout/"
+    ]
+  ],
+  [
+    [
       "2024-05-12, 18:07:59",
       "https://news.ycombinator.com/item?id=40336293"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2024-05-12, 17:31:11",
-      "https://news.ycombinator.com/item?id=40336074"
+      "2024-05-12, 18:06:25",
+      "https://news.ycombinator.com/item?id=40336282"
     ],
     [
-      "Physicists arrange atoms in close proximity to explore exotic states of matter",
-      "https://phys.org/news/2024-05-physicists-atoms-proximity-paving-exploring.html"
+      "Creepy Study Suggests AI Is the Reason We've Never Found Aliens",
+      "https://www.sciencealert.com/creepy-study-suggests-ai-is-the-reason-weve-never-found-aliens"
     ]
   ],
   [
@@ -67,6 +77,16 @@
     [
       "Yi 1.5",
       "https://github.com/01-ai/Yi-1.5"
+    ]
+  ],
+  [
+    [
+      "2024-05-12, 16:02:57",
+      "https://news.ycombinator.com/item?id=40335472"
+    ],
+    [
+      "Zero Feet: a proposal for a systems-free Lisp",
+      "https://applied-langua.ge/posts/zero-feet.html"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-05-11, 21:12:57",
-      "https://news.ycombinator.com/item?id=40330667"
-    ],
-    [
-      "Citation Needed – Wikimedia Foundation's Experimental LLM/RAG Chrome Extension",
-      "https://chromewebstore.google.com/detail/wikipedia-citation-needed/kecnjhdipdihkibljeicopdcoinghmhj"
-    ]
-  ],
-  [
-    [
       "2024-05-11, 18:31:38",
       "https://news.ycombinator.com/item?id=40329804"
     ],
@@ -247,16 +257,6 @@
     [
       "Avoiding the soft delete anti-pattern",
       "https://www.cultured.systems/2024/04/24/Soft-delete/"
-    ]
-  ],
-  [
-    [
-      "2024-05-11, 07:18:39",
-      "https://news.ycombinator.com/item?id=40326563"
-    ],
-    [
-      "Why the CORDIC algorithm lives rent-free in my head",
-      "https://github.com/francisrstokes/githublog/blob/main/2024/5/10/cordic.md"
     ]
   ],
   [
