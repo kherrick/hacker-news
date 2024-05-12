@@ -56,6 +56,7 @@
 * [2024-05-11, 12:13:39](https://news.ycombinator.com/item?id=40327608) - [Comparison of Data Lake Table Formats (2022)](https://www.dremio.com/blog/comparison-of-data-lake-table-formats-apache-iceberg-apache-hudi-and-delta-lake/)
 * [2024-05-11, 11:59:23](https://news.ycombinator.com/item?id=40327566) - [Running CHIP-8 on an HP 48 calculator (2020)](https://tobiasvl.github.io/blog/chip-8-hp-48/)
 * [2024-05-11, 11:52:52](https://news.ycombinator.com/item?id=40327543) - [Lessons learned reinventing the Python notebook](https://marimo.io/blog/lessons-learned)
+* [2024-05-11, 11:50:18](https://news.ycombinator.com/item?id=40327532) - [The Software Behind Silicon](https://www.acquired.fm/episodes/the-software-behind-silicon-with-synopsys-founder-aart-de-geus-and-ceo-sassine-ghazi)
 * [2024-05-11, 11:46:28](https://news.ycombinator.com/item?id=40327523) - [The Tennessee Valley Authority](https://en.wikipedia.org/wiki/Tennessee_Valley_Authority)
 * [2024-05-11, 10:41:22](https://news.ycombinator.com/item?id=40327307) - [People who won't give up floppy disks](https://www.bbc.com/future/article/20240510-floppy-disks-why-some-people-are-still-in-love-with-this-obsolete-computer-storage-technology)
 * [2024-05-11, 10:35:19](https://news.ycombinator.com/item?id=40327279) - [Multidirectional joint distribution neurons reducing to KAN](https://arxiv.org/abs/2405.05097)

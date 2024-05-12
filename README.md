@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-12, 11:08:20](https://news.ycombinator.com/item?id=40333471) - [23% of bachelor's degrees and 43% of master's degrees have a negative ROI](https://reason.com/2024/05/10/nearly-half-of-all-masters-degrees-arent-worth-getting/)
-* [2024-05-12, 10:40:25](https://news.ycombinator.com/item?id=40333400) - [Woman Made Her Home Inside a Grocery Store's Rooftop Sign, Police Say](https://www.nytimes.com/2024/05/11/us/family-fare-michigan-woman-sign.html)
 * [2024-05-12, 10:32:46](https://news.ycombinator.com/item?id=40333380) - [There's Not Enough Power for America's High-Tech Ambitions](https://www.wsj.com/business/energy-oil/data-centers-energy-georgia-development-7a5352e9)
 * [2024-05-12, 10:32:09](https://news.ycombinator.com/item?id=40333375) - [Garbage Collectors Are Scary](https://www.enyo.de/fw/notes/garbage-collectors-are-scary.html)
 * [2024-05-12, 10:15:14](https://news.ycombinator.com/item?id=40333330) - [Roll A Lisp In C – Reading (2020)](https://swatson555.github.io/posts/2020-01-18-make-a-lisp-1.html)
@@ -22,6 +21,7 @@
 * [2024-05-11, 16:42:45](https://news.ycombinator.com/item?id=40329173) - [System Analysis and Programming (1966)](https://www.scientificamerican.com/article/system-analysis-and-programming-christopher-strachey/)
 * [2024-05-11, 12:19:00](https://news.ycombinator.com/item?id=40327631) - [PeaZip: Open-source file compression and encryption software](https://peazip.github.io/)
 * [2024-05-11, 11:59:23](https://news.ycombinator.com/item?id=40327566) - [Running CHIP-8 on an HP 48 calculator (2020)](https://tobiasvl.github.io/blog/chip-8-hp-48/)
+* [2024-05-11, 11:50:18](https://news.ycombinator.com/item?id=40327532) - [The Software Behind Silicon](https://www.acquired.fm/episodes/the-software-behind-silicon-with-synopsys-founder-aart-de-geus-and-ceo-sassine-ghazi)
 * [2024-05-11, 07:31:23](https://news.ycombinator.com/item?id=40326615) - [Show HN: Wag, MFA and Enrollment for WireGuard](https://github.com/NHAS/wag)
 * [2024-05-11, 07:18:39](https://news.ycombinator.com/item?id=40326563) - [Why the CORDIC algorithm lives rent-free in my head](https://github.com/francisrstokes/githublog/blob/main/2024/5/10/cordic.md)
 * [2024-05-11, 06:55:21](https://news.ycombinator.com/item?id=40326492) - [Binius: Highly efficient proofs over binary fields](https://vitalik.eth.link/general/2024/04/29/binius.html)
