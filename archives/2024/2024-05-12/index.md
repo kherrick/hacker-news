@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-12](index.md)
 
+* [2024-05-12, 23:09:08](https://news.ycombinator.com/item?id=40338275) - [Show HN: I made an open-source Loom alternative](https://Cap.so)
 * [2024-05-12, 23:06:08](https://news.ycombinator.com/item?id=40338259) - [\"'We Cannot in Good Conscience Encourage You to Pursue Our Profession\"](https://www.indiewire.com/news/breaking-news/art-directors-guild-ending-production-design-initiative-program-1235002230/)
 * [2024-05-12, 22:19:10](https://news.ycombinator.com/item?id=40338003) - [Airline Lobbyists Just Got Humiliated](https://www.thebignewsletter.com/p/how-airline-lobbyists-just-got-humiliated)
 * [2024-05-12, 22:05:58](https://news.ycombinator.com/item?id=40337936) - [GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
