@@ -5,7 +5,10 @@
 ### [Archives](../../index.md) for [2024-05-12](index.md)
 
 * [2024-05-12, 17:00:25](https://news.ycombinator.com/item?id=40335885) - [Sweep (YC S23) is hiring a Founding Engineers to build a code generation bot](https://www.ycombinator.com/companies/sweep/jobs/8dUn406-founding-engineer-2-ml)
+* [2024-05-12, 16:24:05](https://news.ycombinator.com/item?id=40335608) - [Homoiconic Python](https://aljamal.substack.com/p/homoiconic-python)
+* [2024-05-12, 15:26:45](https://news.ycombinator.com/item?id=40335203) - [Ultraviolet Superradiance from Networks of Tryptophan in Biological Systems](https://pubs.acs.org/doi/10.1021/acs.jpcb.3c07936)
 * [2024-05-12, 15:20:48](https://news.ycombinator.com/item?id=40335172) - [Super Mario 64's unopenable door has been opened [video]](https://www.youtube.com/watch?v=EmqFoojMeD8)
+* [2024-05-12, 15:20:39](https://news.ycombinator.com/item?id=40335170) - [Whole-body magnetic resonance imaging at 0.05 Tesla](https://www.science.org/doi/10.1126/science.adm7168)
 * [2024-05-12, 14:25:14](https://news.ycombinator.com/item?id=40334726) - [New Doctors Are Avoiding Residencies in States with Abortion Restrictions](https://kffhealthnews.org/news/article/medical-students-residents-spurning-abortion-ban-states/)
 * [2024-05-12, 13:42:40](https://news.ycombinator.com/item?id=40334391) - [Solar Storm Knocks Out Farmers' Tractor GPS Systems During Peak Planting Season](https://www.404media.co/solar-storm-knocks-out-tractor-gps-systems-during-peak-planting-season/)
 * [2024-05-12, 13:01:42](https://news.ycombinator.com/item?id=40334102) - [America is in the midst of an extraordinary startup boom](https://www.economist.com/finance-and-economics/2024/05/12/america-is-in-the-midst-of-an-extraordinary-startup-boom)
