@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-05-12, 17:19:34",
-      "https://news.ycombinator.com/item?id=40336005"
-    ],
-    [
-      "Signal's Katherine Maher Problem",
-      "https://www.city-journal.org/article/signals-katherine-maher-problem"
-    ]
-  ],
-  [
-    [
       "2024-05-12, 17:06:55",
       "https://news.ycombinator.com/item?id=40335921"
     ],
@@ -287,6 +277,16 @@
     [
       "Show HN: A WireGuard Powered Remote Shell",
       "https://github.com/noisysockets/nsh"
+    ]
+  ],
+  [
+    [
+      "2024-05-10, 08:59:13",
+      "https://news.ycombinator.com/item?id=40316780"
+    ],
+    [
+      "Making Sense of Acquire-Release Semantics",
+      "https://davekilian.com/acquire-release.html"
     ]
   ],
   [
