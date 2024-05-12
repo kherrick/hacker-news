@@ -33,6 +33,7 @@
 * [2024-05-10, 17:09:51](https://news.ycombinator.com/item?id=40321362) - [Show HN: Jacinda, a functional Awk (text stream processing on the comamnd-line)](https://hackage.haskell.org/package/jacinda)
 * [2024-05-10, 16:59:06](https://news.ycombinator.com/item?id=40321230) - [The surging demand for data is guzzling Virginia's water](https://grist.org/technology/surging-demand-data-guzzling-water-ai/)
 * [2024-05-10, 16:32:41](https://news.ycombinator.com/item?id=40320900) - [A Skeptic's Take on Beaming Power to Earth from Space](https://spectrum.ieee.org/space-based-solar-power-2667878868)
+* [2024-05-10, 16:14:39](https://news.ycombinator.com/item?id=40320667) - [Ask HN: What distributed file system would you use in 2024?](https://news.ycombinator.com/item?id=40320667)
 * [2024-05-10, 15:51:01](https://news.ycombinator.com/item?id=40320406) - [Jim Simons has died](https://www.simonsfoundation.org/2024/05/10/simons-foundation-co-founder-mathematician-and-investor-jim-simons-dies-at-86/)
 * [2024-05-10, 15:34:04](https://news.ycombinator.com/item?id=40320207) - [Stack Overflow simply bans folks who don't want their advice used to train AI](https://www.theregister.com/2024/05/09/stack_overflow_banning_users_who/)
 * [2024-05-10, 15:29:46](https://news.ycombinator.com/item?id=40320166) - [KeePassXC Debian maintainer has removed all network features](https://fosstodon.org/@keepassxc/112417353193348720)
