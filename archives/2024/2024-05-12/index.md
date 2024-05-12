@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-12](index.md)
 
+* [2024-05-12, 17:19:34](https://news.ycombinator.com/item?id=40336005) - [Signal's Katherine Maher Problem](https://www.city-journal.org/article/signals-katherine-maher-problem)
+* [2024-05-12, 17:06:55](https://news.ycombinator.com/item?id=40335921) - [Learning K programming: idiom by idiom [pdf]](http://nsl.com/papers/idioms_K3.pdf)
 * [2024-05-12, 17:00:25](https://news.ycombinator.com/item?id=40335885) - [Sweep (YC S23) is hiring a Founding Engineers to build a code generation bot](https://www.ycombinator.com/companies/sweep/jobs/8dUn406-founding-engineer-2-ml)
 * [2024-05-12, 16:24:05](https://news.ycombinator.com/item?id=40335608) - [Homoiconic Python](https://aljamal.substack.com/p/homoiconic-python)
 * [2024-05-12, 15:26:45](https://news.ycombinator.com/item?id=40335203) - [Ultraviolet Superradiance from Networks of Tryptophan in Biological Systems](https://pubs.acs.org/doi/10.1021/acs.jpcb.3c07936)

@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-12, 17:19:34](https://news.ycombinator.com/item?id=40336005) - [Signal's Katherine Maher Problem](https://www.city-journal.org/article/signals-katherine-maher-problem)
+* [2024-05-12, 17:06:55](https://news.ycombinator.com/item?id=40335921) - [Learning K programming: idiom by idiom [pdf]](http://nsl.com/papers/idioms_K3.pdf)
 * [2024-05-12, 17:00:25](https://news.ycombinator.com/item?id=40335885) - [Sweep (YC S23) is hiring a Founding Engineers to build a code generation bot](https://www.ycombinator.com/companies/sweep/jobs/8dUn406-founding-engineer-2-ml)
 * [2024-05-12, 16:24:05](https://news.ycombinator.com/item?id=40335608) - [Homoiconic Python](https://aljamal.substack.com/p/homoiconic-python)
 * [2024-05-12, 15:26:45](https://news.ycombinator.com/item?id=40335203) - [Ultraviolet Superradiance from Networks of Tryptophan in Biological Systems](https://pubs.acs.org/doi/10.1021/acs.jpcb.3c07936)
@@ -22,13 +24,11 @@
 * [2024-05-11, 11:50:18](https://news.ycombinator.com/item?id=40327532) - [The Software Behind Silicon](https://www.acquired.fm/episodes/the-software-behind-silicon-with-synopsys-founder-aart-de-geus-and-ceo-sassine-ghazi)
 * [2024-05-11, 08:36:53](https://news.ycombinator.com/item?id=40326855) - [An unexpected detour into partially symbolic, sparsity-expoiting autodiff](https://dansblog.netlify.app/posts/2024-05-08-laplace/laplace)
 * [2024-05-11, 07:18:39](https://news.ycombinator.com/item?id=40326563) - [Why the CORDIC algorithm lives rent-free in my head](https://github.com/francisrstokes/githublog/blob/main/2024/5/10/cordic.md)
-* [2024-05-11, 07:06:31](https://news.ycombinator.com/item?id=40326524) - [DIY YouTuber Builds His Own 256-Core RISC-V Megacluster at 14.7 GHz 1-Core Freq](https://wccftech.com/diy-youtuber-builds-256-core-risc-v-megacluster-14-7-ghz-single-core-frequency/)
 * [2024-05-11, 06:55:21](https://news.ycombinator.com/item?id=40326492) - [Binius: Highly efficient proofs over binary fields](https://vitalik.eth.link/general/2024/04/29/binius.html)
 * [2024-05-11, 06:27:41](https://news.ycombinator.com/item?id=40326398) - [Flatcar: OS Innovation with Systemd-Sysext](https://www.flatcar.org/blog/2024/04/os-innovation-with-systemd-sysext/)
 * [2024-05-10, 21:59:03](https://news.ycombinator.com/item?id=40324179) - [Most of Europe is glowing pink under the aurora](https://www.foto-webcam.eu/webcam/lucknerhaus/)
 * [2024-05-10, 18:28:07](https://news.ycombinator.com/item?id=40322267) - [Scientists Find an 'Alphabet' in Whale Songs](https://www.nytimes.com/2024/05/07/science/whale-song-alphabet.html)
 * [2024-05-10, 14:43:39](https://news.ycombinator.com/item?id=40319635) - [Show HN: A WireGuard Powered Remote Shell](https://github.com/noisysockets/nsh)
-* [2024-05-10, 08:59:13](https://news.ycombinator.com/item?id=40316780) - [Making Sense of Acquire-Release Semantics](https://davekilian.com/acquire-release.html)
 * [2024-05-10, 07:45:31](https://news.ycombinator.com/item?id=40316345) - [100k Stars](https://stars.chromeexperiments.com/)
 
 ## [Archives](archives/index.md)
