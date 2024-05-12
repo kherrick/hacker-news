@@ -7,7 +7,6 @@
 * [2024-05-12, 02:00:23](https://news.ycombinator.com/item?id=40331886) - [Virtualizing the 6502 on a 6502 with 6o6](http://oldvcr.blogspot.com/2024/04/virtualizing-6502-with-6o6-and.html)
 * [2024-05-12, 01:52:08](https://news.ycombinator.com/item?id=40331850) - [Show NH: \"data-to-paper\" - autonomous stepwise LLM-driven research](https://github.com/Technion-Kishony-lab/data-to-paper)
 * [2024-05-12, 00:48:38](https://news.ycombinator.com/item?id=40331594) - [Ancient Egyptian Stone-Drilling (1983)](https://www.penn.museum/sites/expedition/ancient-egyptian-stone-drilling/)
-* [2024-05-12, 00:23:35](https://news.ycombinator.com/item?id=40331476) - [Charlieplexing](https://en.wikipedia.org/wiki/Charlieplexing)
 * [2024-05-11, 21:12:57](https://news.ycombinator.com/item?id=40330667) - [Citation Needed – Wikimedia Foundation's Experimental LLM/RAG Chrome Extension](https://chromewebstore.google.com/detail/wikipedia-citation-needed/kecnjhdipdihkibljeicopdcoinghmhj)
 * [2024-05-11, 21:01:14](https://news.ycombinator.com/item?id=40330610) - [Fathom (YC W21) is hiring a TPM to prototype new AI features](https://www.ycombinator.com/companies/fathom/jobs/r4HKk2W-product-manager-ai)
 * [2024-05-11, 20:48:17](https://news.ycombinator.com/item?id=40330555) - [Show HN: Attempt to bring a cinematic experience in 256 bytes (WASM)](https://github.com/ilmenit/sizecoding/blob/main/Encounter/Encounter.md)
@@ -30,6 +29,7 @@
 * [2024-05-10, 07:45:31](https://news.ycombinator.com/item?id=40316345) - [100k Stars](https://stars.chromeexperiments.com/)
 * [2024-05-10, 05:25:26](https://news.ycombinator.com/item?id=40315724) - [Unix and Multics (2019)](https://www.multicians.org/unix.html)
 * [2024-05-10, 05:14:14](https://news.ycombinator.com/item?id=40315686) - [So We've Got a Memory Leak](https://stevenharman.net/so-we-have-a-memory-leak)
+* [2024-05-09, 21:36:06](https://news.ycombinator.com/item?id=40313193) - [Cubic millimetre of brain mapped at nanoscale resolution](https://www.nature.com/articles/d41586-024-01387-9)
 
 ## [Archives](archives/index.md)
 
