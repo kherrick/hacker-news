@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-12, 11:08:20](https://news.ycombinator.com/item?id=40333471) - [23% of bachelor's degrees and 43% of master's degrees have a negative ROI](https://reason.com/2024/05/10/nearly-half-of-all-masters-degrees-arent-worth-getting/)
+* [2024-05-12, 10:32:09](https://news.ycombinator.com/item?id=40333375) - [Garbage Collectors Are Scary](https://www.enyo.de/fw/notes/garbage-collectors-are-scary.html)
 * [2024-05-12, 10:15:14](https://news.ycombinator.com/item?id=40333330) - [Roll A Lisp In C – Reading (2020)](https://swatson555.github.io/posts/2020-01-18-make-a-lisp-1.html)
 * [2024-05-12, 09:44:13](https://news.ycombinator.com/item?id=40333242) - [Brazil's catastrophic weather spawns spate of conspiracy theories](https://phys.org/news/2024-05-brazil-catastrophic-weather-spawns-spate.html)
 * [2024-05-12, 08:26:05](https://news.ycombinator.com/item?id=40332993) - [The \"Chain of Thought\" Delusions](https://twitter.com/rao2z/status/1760133260385177784)
 * [2024-05-12, 06:46:08](https://news.ycombinator.com/item?id=40332651) - [Automatically Detecting Under-Trained Tokens in Large Language Models](https://arxiv.org/abs/2405.05417)
 * [2024-05-12, 06:01:17](https://news.ycombinator.com/item?id=40332525) - [Farewell, Chuck E. Cheese Animatronic Band](https://www.nytimes.com/2024/05/11/business/chuck-e-cheese-animatronic-band.html)
-* [2024-05-12, 05:17:56](https://news.ycombinator.com/item?id=40332400) - [Scientists have figured out way to make algae-based plastic that decomposes](https://abcnews.go.com/US/scientists-figured-make-bio-based-plastic-completely-biodegrades/story?id=110032450)
 * [2024-05-12, 03:25:35](https://news.ycombinator.com/item?id=40332094) - [Roger Corman Dead: King of B Movies was 98](https://variety.com/2024/film/news/roger-corman-dead-producer-independent-b-movie-1235999591/)
 * [2024-05-12, 02:35:03](https://news.ycombinator.com/item?id=40331968) - [Show HN: Open-Source Video Editor Web App](https://news.ycombinator.com/item?id=40331968)
 * [2024-05-12, 02:17:10](https://news.ycombinator.com/item?id=40331928) - [Emoji History: The Missing Years](https://blog.gingerbeardman.com/2024/05/10/emoji-history-the-missing-years/)
@@ -29,7 +30,6 @@
 * [2024-05-10, 21:59:03](https://news.ycombinator.com/item?id=40324179) - [Most of Europe is glowing pink under the aurora](https://www.foto-webcam.eu/webcam/lucknerhaus/)
 * [2024-05-10, 08:59:13](https://news.ycombinator.com/item?id=40316780) - [Making Sense of Acquire-Release Semantics](https://davekilian.com/acquire-release.html)
 * [2024-05-10, 07:45:31](https://news.ycombinator.com/item?id=40316345) - [100k Stars](https://stars.chromeexperiments.com/)
-* [2024-05-10, 05:25:26](https://news.ycombinator.com/item?id=40315724) - [Unix and Multics (2019)](https://www.multicians.org/unix.html)
 
 ## [Archives](archives/index.md)
 
