@@ -62,6 +62,7 @@
 * [2024-05-11, 10:37:46](https://news.ycombinator.com/item?id=40327293) - [Cosine Similarity](https://algebrica.org/cosine-similarity/)
 * [2024-05-11, 10:35:19](https://news.ycombinator.com/item?id=40327279) - [Multidirectional joint distribution neurons reducing to KAN](https://arxiv.org/abs/2405.05097)
 * [2024-05-11, 10:21:03](https://news.ycombinator.com/item?id=40327236) - [Unix Viruses 25th Anniversary Edition](https://tmpout.sh/3/03.html)
+* [2024-05-11, 08:36:53](https://news.ycombinator.com/item?id=40326855) - [An unexpected detour into partially symbolic, sparsity-expoiting autodiff](https://dansblog.netlify.app/posts/2024-05-08-laplace/laplace)
 * [2024-05-11, 08:26:58](https://news.ycombinator.com/item?id=40326815) - [Avoiding the soft delete anti-pattern](https://www.cultured.systems/2024/04/24/Soft-delete/)
 * [2024-05-11, 08:05:36](https://news.ycombinator.com/item?id=40326738) - [London's history-making beavers are adapting to life in the capital](https://www.bigissue.com/news/environment/beavers-london-ealing-environment-uk-rewilding/)
 * [2024-05-11, 07:56:30](https://news.ycombinator.com/item?id=40326706) - [Jetson One](https://jetson.com/jetson-one)
