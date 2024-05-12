@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-12](index.md)
 
 * [2024-05-12, 07:06:47](https://news.ycombinator.com/item?id=40332702) - [AI Ruined Quora](https://jonn.substack.com/p/how-ai-ruined-quora)
+* [2024-05-12, 06:46:08](https://news.ycombinator.com/item?id=40332651) - [Automatically Detecting Under-Trained Tokens in Large Language Models](https://arxiv.org/abs/2405.05417)
 * [2024-05-12, 06:01:17](https://news.ycombinator.com/item?id=40332525) - [Farewell, Chuck E. Cheese Animatronic Band](https://www.nytimes.com/2024/05/11/business/chuck-e-cheese-animatronic-band.html)
 * [2024-05-12, 05:23:18](https://news.ycombinator.com/item?id=40332416) - [Can We Make Bicycles Sustainable Again?](https://solar.lowtechmagazine.com/2023/02/can-we-make-bicycles-sustainable-again/)
 * [2024-05-12, 03:25:35](https://news.ycombinator.com/item?id=40332094) - [Roger Corman Dead: King of B Movies was 98](https://variety.com/2024/film/news/roger-corman-dead-producer-independent-b-movie-1235999591/)
