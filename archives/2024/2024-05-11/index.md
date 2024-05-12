@@ -59,6 +59,7 @@
 * [2024-05-11, 11:50:18](https://news.ycombinator.com/item?id=40327532) - [The Software Behind Silicon](https://www.acquired.fm/episodes/the-software-behind-silicon-with-synopsys-founder-aart-de-geus-and-ceo-sassine-ghazi)
 * [2024-05-11, 11:46:28](https://news.ycombinator.com/item?id=40327523) - [The Tennessee Valley Authority](https://en.wikipedia.org/wiki/Tennessee_Valley_Authority)
 * [2024-05-11, 10:41:22](https://news.ycombinator.com/item?id=40327307) - [People who won't give up floppy disks](https://www.bbc.com/future/article/20240510-floppy-disks-why-some-people-are-still-in-love-with-this-obsolete-computer-storage-technology)
+* [2024-05-11, 10:37:46](https://news.ycombinator.com/item?id=40327293) - [Cosine Similarity](https://algebrica.org/cosine-similarity/)
 * [2024-05-11, 10:35:19](https://news.ycombinator.com/item?id=40327279) - [Multidirectional joint distribution neurons reducing to KAN](https://arxiv.org/abs/2405.05097)
 * [2024-05-11, 10:21:03](https://news.ycombinator.com/item?id=40327236) - [Unix Viruses 25th Anniversary Edition](https://tmpout.sh/3/03.html)
 * [2024-05-11, 08:26:58](https://news.ycombinator.com/item?id=40326815) - [Avoiding the soft delete anti-pattern](https://www.cultured.systems/2024/04/24/Soft-delete/)
