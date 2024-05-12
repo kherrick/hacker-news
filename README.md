@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-11, 22:37:49](https://news.ycombinator.com/item?id=40331074) - [Was the Fusion Drive a good idea?](https://eclecticlight.co/2024/04/26/was-the-fusion-drive-a-good-idea/)
+* [2024-05-12, 00:11:32](https://news.ycombinator.com/item?id=40331435) - [Home ownership is not the boon to older Americans that it once was](https://www.nytimes.com/2024/04/20/health/seniors-home-equity-mortgages.html)
 * [2024-05-11, 22:08:42](https://news.ycombinator.com/item?id=40330942) - [Is dark matter's main rival theory dead?](https://theconversation.com/is-dark-matters-main-rival-theory-dead-theres-bad-news-from-the-cassini-spacecraft-and-other-recent-tests-228826)
 * [2024-05-11, 22:07:09](https://news.ycombinator.com/item?id=40330930) - [Billions in Dirty Money Flies Under the Radar at Busiest Airports](https://www.wsj.com/business/airlines/heathrow-dubai-airports-billions-dirty-money-9f49cc7f)
 * [2024-05-11, 21:01:14](https://news.ycombinator.com/item?id=40330610) - [Fathom (YC W21) is hiring a TPM to prototype new AI features](https://www.ycombinator.com/companies/fathom/jobs/r4HKk2W-product-manager-ai)
