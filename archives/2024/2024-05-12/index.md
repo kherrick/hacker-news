@@ -8,6 +8,7 @@
 * [2024-05-12, 12:47:10](https://news.ycombinator.com/item?id=40333991) - [Google gave investors a $70B buyback,and laid off 12,000 people](https://twitter.com/DanPriceSeattle/status/1788965895832039913)
 * [2024-05-12, 12:13:16](https://news.ycombinator.com/item?id=40333800) - [Tesla FSD head to head against Mercedes Driver Assist on the same road [video]](https://www.youtube.com/watch?v=h3WiY_4kgkE)
 * [2024-05-12, 12:01:21](https://news.ycombinator.com/item?id=40333733) - [UpCodes (YC S17) is hiring remote SWEs, PMs to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
+* [2024-05-12, 11:17:45](https://news.ycombinator.com/item?id=40333500) - [Show HN: es6_maps, new Elixir syntax feature via runtime compiler hacking](https://github.com/kzemek/es6_maps)
 * [2024-05-12, 11:08:20](https://news.ycombinator.com/item?id=40333471) - [23% of bachelor's degrees and 43% of master's degrees have a negative ROI](https://reason.com/2024/05/10/nearly-half-of-all-masters-degrees-arent-worth-getting/)
 * [2024-05-12, 11:02:35](https://news.ycombinator.com/item?id=40333459) - [Energy, not compute, will be the #1 bottleneck to AI progress – Mark Zuckerberg [video]](https://www.youtube.com/watch?v=i-o5YbNfmh0)
 * [2024-05-12, 10:40:25](https://news.ycombinator.com/item?id=40333400) - [Woman Made Her Home Inside a Grocery Store's Rooftop Sign, Police Say](https://www.nytimes.com/2024/05/11/us/family-fare-michigan-woman-sign.html)
