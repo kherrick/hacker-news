@@ -4,12 +4,16 @@
 
 ### [Archives](../../index.md) for [2024-05-12](index.md)
 
+* [2024-05-12, 12:13:16](https://news.ycombinator.com/item?id=40333800) - [Tesla FSD head to head against Mercedes Driver Assist on the same road [video]](https://www.youtube.com/watch?v=h3WiY_4kgkE)
+* [2024-05-12, 12:01:21](https://news.ycombinator.com/item?id=40333733) - [UpCodes (YC S17) is hiring remote SWEs, PMs to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
 * [2024-05-12, 11:08:20](https://news.ycombinator.com/item?id=40333471) - [23% of bachelor's degrees and 43% of master's degrees have a negative ROI](https://reason.com/2024/05/10/nearly-half-of-all-masters-degrees-arent-worth-getting/)
+* [2024-05-12, 11:02:35](https://news.ycombinator.com/item?id=40333459) - [Energy, not compute, will be the #1 bottleneck to AI progress – Mark Zuckerberg [video]](https://www.youtube.com/watch?v=i-o5YbNfmh0)
 * [2024-05-12, 10:40:25](https://news.ycombinator.com/item?id=40333400) - [Woman Made Her Home Inside a Grocery Store's Rooftop Sign, Police Say](https://www.nytimes.com/2024/05/11/us/family-fare-michigan-woman-sign.html)
 * [2024-05-12, 10:32:46](https://news.ycombinator.com/item?id=40333380) - [There's Not Enough Power for America's High-Tech Ambitions](https://www.wsj.com/business/energy-oil/data-centers-energy-georgia-development-7a5352e9)
 * [2024-05-12, 10:32:09](https://news.ycombinator.com/item?id=40333375) - [Garbage Collectors Are Scary](https://www.enyo.de/fw/notes/garbage-collectors-are-scary.html)
 * [2024-05-12, 10:15:14](https://news.ycombinator.com/item?id=40333330) - [Roll A Lisp In C – Reading (2020)](https://swatson555.github.io/posts/2020-01-18-make-a-lisp-1.html)
 * [2024-05-12, 09:44:13](https://news.ycombinator.com/item?id=40333242) - [Brazil's catastrophic weather spawns spate of conspiracy theories](https://phys.org/news/2024-05-brazil-catastrophic-weather-spawns-spate.html)
+* [2024-05-12, 09:15:55](https://news.ycombinator.com/item?id=40333159) - [ENIAC programmer Jean Bartik's Amazon book review](https://www.amazon.com/gp/aw/review/0802713483/R3K2DSB6UE1X7H)
 * [2024-05-12, 08:26:05](https://news.ycombinator.com/item?id=40332993) - [The \"Chain of Thought\" Delusions](https://twitter.com/rao2z/status/1760133260385177784)
 * [2024-05-12, 08:24:57](https://news.ycombinator.com/item?id=40332992) - [llIlI.lI: a URL shortener using only I/l to encode domains](https://llili.li/)
 * [2024-05-12, 07:06:47](https://news.ycombinator.com/item?id=40332702) - [AI Ruined Quora](https://jonn.substack.com/p/how-ai-ruined-quora)
