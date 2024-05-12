@@ -54,6 +54,7 @@
 * [2024-05-11, 12:34:41](https://news.ycombinator.com/item?id=40327687) - [Americans are choking on surging fast-food prices. \"I can't justify the expense\"](https://www.cbsnews.com/news/mcdonalds-price-increases-fast-food-cost-popeyes-wendys/)
 * [2024-05-11, 12:19:00](https://news.ycombinator.com/item?id=40327631) - [PeaZip: Open-source file compression and encryption software](https://peazip.github.io/)
 * [2024-05-11, 12:13:39](https://news.ycombinator.com/item?id=40327608) - [Comparison of Data Lake Table Formats (2022)](https://www.dremio.com/blog/comparison-of-data-lake-table-formats-apache-iceberg-apache-hudi-and-delta-lake/)
+* [2024-05-11, 11:59:23](https://news.ycombinator.com/item?id=40327566) - [Running CHIP-8 on an HP 48 calculator (2020)](https://tobiasvl.github.io/blog/chip-8-hp-48/)
 * [2024-05-11, 11:52:52](https://news.ycombinator.com/item?id=40327543) - [Lessons learned reinventing the Python notebook](https://marimo.io/blog/lessons-learned)
 * [2024-05-11, 11:46:28](https://news.ycombinator.com/item?id=40327523) - [The Tennessee Valley Authority](https://en.wikipedia.org/wiki/Tennessee_Valley_Authority)
 * [2024-05-11, 10:41:22](https://news.ycombinator.com/item?id=40327307) - [People who won't give up floppy disks](https://www.bbc.com/future/article/20240510-floppy-disks-why-some-people-are-still-in-love-with-this-obsolete-computer-storage-technology)
