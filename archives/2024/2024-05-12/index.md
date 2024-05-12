@@ -17,6 +17,7 @@
 * [2024-05-12, 11:17:45](https://news.ycombinator.com/item?id=40333500) - [Show HN: es6_maps, new Elixir syntax feature via runtime compiler hacking](https://github.com/kzemek/es6_maps)
 * [2024-05-12, 11:08:20](https://news.ycombinator.com/item?id=40333471) - [23% of bachelor's degrees and 43% of master's degrees have a negative ROI](https://reason.com/2024/05/10/nearly-half-of-all-masters-degrees-arent-worth-getting/)
 * [2024-05-12, 11:02:35](https://news.ycombinator.com/item?id=40333459) - [Energy, not compute, will be the #1 bottleneck to AI progress – Mark Zuckerberg [video]](https://www.youtube.com/watch?v=i-o5YbNfmh0)
+* [2024-05-12, 10:42:02](https://news.ycombinator.com/item?id=40333408) - [Pražský Orloj: Prague astronomical clock simulator. (2022)](https://orloj.org/orloj/)
 * [2024-05-12, 10:40:25](https://news.ycombinator.com/item?id=40333400) - [Woman Made Her Home Inside a Grocery Store's Rooftop Sign, Police Say](https://www.nytimes.com/2024/05/11/us/family-fare-michigan-woman-sign.html)
 * [2024-05-12, 10:32:46](https://news.ycombinator.com/item?id=40333380) - [There's Not Enough Power for America's High-Tech Ambitions](https://www.wsj.com/business/energy-oil/data-centers-energy-georgia-development-7a5352e9)
 * [2024-05-12, 10:32:09](https://news.ycombinator.com/item?id=40333375) - [Garbage Collectors Are Scary](https://www.enyo.de/fw/notes/garbage-collectors-are-scary.html)

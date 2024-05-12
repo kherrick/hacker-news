@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-12, 15:20:48](https://news.ycombinator.com/item?id=40335172) - [Super Mario 64's unopenable door has been opened [video]](https://www.youtube.com/watch?v=EmqFoojMeD8)
 * [2024-05-12, 13:42:40](https://news.ycombinator.com/item?id=40334391) - [Solar Storm Knocks Out Farmers' Tractor GPS Systems During Peak Planting Season](https://www.404media.co/solar-storm-knocks-out-tractor-gps-systems-during-peak-planting-season/)
 * [2024-05-12, 12:01:21](https://news.ycombinator.com/item?id=40333733) - [UpCodes (YC S17) is hiring remote SWEs, PMs to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
 * [2024-05-12, 11:17:45](https://news.ycombinator.com/item?id=40333500) - [Show HN: es6_maps, new Elixir syntax feature via runtime compiler hacking](https://github.com/kzemek/es6_maps)
+* [2024-05-12, 10:42:02](https://news.ycombinator.com/item?id=40333408) - [Pražský Orloj: Prague astronomical clock simulator. (2022)](https://orloj.org/orloj/)
 * [2024-05-12, 09:19:35](https://news.ycombinator.com/item?id=40333169) - [16 years of CVE-2008-0166 – Debian OpenSSL Bug](https://16years.secvuln.info/)
 * [2024-05-12, 06:46:08](https://news.ycombinator.com/item?id=40332651) - [Automatically Detecting Under-Trained Tokens in Large Language Models](https://arxiv.org/abs/2405.05417)
 * [2024-05-12, 02:35:03](https://news.ycombinator.com/item?id=40331968) - [Show HN: Open-Source Video Editor Web App](https://news.ycombinator.com/item?id=40331968)
