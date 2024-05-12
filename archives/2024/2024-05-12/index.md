@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-12](index.md)
 
 * [2024-05-12, 03:05:30](https://news.ycombinator.com/item?id=40332040) - [The Rabbit R1 Walked So That Cake Could Run.](https://cake.computer/)
+* [2024-05-12, 02:35:03](https://news.ycombinator.com/item?id=40331968) - [Show HN: Open-Source Video Editor Web App](https://news.ycombinator.com/item?id=40331968)
 * [2024-05-12, 02:31:40](https://news.ycombinator.com/item?id=40331958) - [Jellyfin 10.9.0](https://jellyfin.org/posts/jellyfin-release-10.9.0/)
 * [2024-05-12, 02:00:23](https://news.ycombinator.com/item?id=40331886) - [Virtualizing the 6502 on a 6502 with 6o6](http://oldvcr.blogspot.com/2024/04/virtualizing-6502-with-6o6-and.html)
 * [2024-05-12, 01:52:08](https://news.ycombinator.com/item?id=40331850) - [Show NH: \"data-to-paper\" - autonomous stepwise LLM-driven research](https://github.com/Technion-Kishony-lab/data-to-paper)
