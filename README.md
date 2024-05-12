@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-12, 18:07:59](https://news.ycombinator.com/item?id=40336293) - [Patient Dies Weeks After Kidney Transplant from Genetically Modified Pig](https://www.nytimes.com/2024/05/12/health/richard-slayman-death-pig-kidney-transplant.html)
 * [2024-05-12, 18:03:45](https://news.ycombinator.com/item?id=40336266) - [The Age of Rage: Why Are People Are So Angry?](https://greyenlightenment.com/2024/05/11/the-age-of-rage-why-are-peopel-are-so-angry/)
-* [2024-05-12, 17:31:11](https://news.ycombinator.com/item?id=40336074) - [Physicists arrange atoms in close proximity to explore exotic states of matter](https://phys.org/news/2024-05-physicists-atoms-proximity-paving-exploring.html)
 * [2024-05-12, 17:06:55](https://news.ycombinator.com/item?id=40335921) - [Learning K programming: idiom by idiom [pdf]](http://nsl.com/papers/idioms_K3.pdf)
 * [2024-05-12, 17:00:25](https://news.ycombinator.com/item?id=40335885) - [Sweep (YC S23) is hiring a Founding Engineers to build a code generation bot](https://www.ycombinator.com/companies/sweep/jobs/8dUn406-founding-engineer-2-ml)
 * [2024-05-12, 16:24:05](https://news.ycombinator.com/item?id=40335608) - [Homoiconic Python](https://aljamal.substack.com/p/homoiconic-python)
