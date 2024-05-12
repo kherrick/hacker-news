@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-12](index.md)
 
+* [2024-05-12, 05:23:18](https://news.ycombinator.com/item?id=40332416) - [Can We Make Bicycles Sustainable Again?](https://solar.lowtechmagazine.com/2023/02/can-we-make-bicycles-sustainable-again/)
 * [2024-05-12, 03:25:35](https://news.ycombinator.com/item?id=40332094) - [Roger Corman Dead: King of B Movies was 98](https://variety.com/2024/film/news/roger-corman-dead-producer-independent-b-movie-1235999591/)
 * [2024-05-12, 03:05:30](https://news.ycombinator.com/item?id=40332040) - [The Rabbit R1 Walked So That Cake Could Run.](https://cake.computer/)
 * [2024-05-12, 02:35:03](https://news.ycombinator.com/item?id=40331968) - [Show HN: Open-Source Video Editor Web App](https://news.ycombinator.com/item?id=40331968)
