@@ -2,6 +2,7 @@
 
 * [2024-05-13, 23:14:14](https://news.ycombinator.com/item?id=40349690) - [Australian man says border force made him hand over phone passcode](https://www.theguardian.com/australia-news/article/2024/may/14/australian-man-says-border-force-made-him-hand-over-phone-passcode-by-threatening-to-keep-device-indefinitely)
 * [2024-05-13, 22:33:01](https://news.ycombinator.com/item?id=40349347) - [Not an iPad Pro Review: Why iPadOS Still Doesn't Get the Basics Right](https://www.macstories.net/stories/not-an-ipad-pro-review/)
+* [2024-05-13, 22:26:41](https://news.ycombinator.com/item?id=40349288) - [In 2017, the feds said Tesla Autopilot cut crashes 40%–that was bogus](https://arstechnica.com/cars/2019/02/in-2017-the-feds-said-tesla-autopilot-cut-crashes-40-that-was-bogus/)
 * [2024-05-13, 22:12:55](https://news.ycombinator.com/item?id=40349145) - [Towards Accurate and Efficient Document Analytics with Large Language Models](https://arxiv.org/abs/2405.04674)
 * [2024-05-13, 21:54:53](https://news.ycombinator.com/item?id=40348957) - [Intel announces the Aurora supercomputer has broken the exascale barrier](https://www.intel.com/content/www/us/en/newsroom/news/intel-powered-aurora-supercomputer-breaks-exascale-barrier.html)
 * [2024-05-13, 21:14:54](https://news.ycombinator.com/item?id=40348531) - [Unitree G1 Humanoid Agent](https://www.unitree.com/g1/)
@@ -11,7 +12,6 @@
 * [2024-05-13, 20:24:57](https://news.ycombinator.com/item?id=40347981) - [Meteor Lake's E-Cores: Crestmont Makes Incremental Progress](https://chipsandcheese.com/2024/05/13/meteor-lakes-e-cores-crestmont-makes-incremental-progress/)
 * [2024-05-13, 20:01:37](https://news.ycombinator.com/item?id=40347677) - [Photography Laws in Germany (2023)](https://allaboutberlin.com/guides/photography-laws-germany)
 * [2024-05-13, 20:00:30](https://news.ycombinator.com/item?id=40347662) - [DOS game \"F-15 Strike Eagle II\" reverse engineering/reconstruction war stories](https://neuviemeporte.github.io/category/f15-se2.html)
-* [2024-05-13, 19:57:13](https://news.ycombinator.com/item?id=40347624) - [IBM open-sources its Granite AI models – and they mean business](https://www.zdnet.com/article/ibm-open-sources-its-granite-ai-models-and-they-mean-business/)
 * [2024-05-13, 19:03:55](https://news.ycombinator.com/item?id=40346995) - [Show HN: Pi-C.A.R.D, a Raspberry Pi Voice Assistant](https://github.com/nkasmanoff/pi-card)
 * [2024-05-13, 18:05:48](https://news.ycombinator.com/item?id=40346320) - [QBE – Compiler Back End](https://c9x.me/compile/)
 * [2024-05-13, 17:53:44](https://news.ycombinator.com/item?id=40346148) - [Language, OS and GUI -independent windowing API provided as a virtual filesystem](https://www.fornaxis.org/forge/)
