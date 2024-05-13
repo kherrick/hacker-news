@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-13, 21:01:49",
+      "https://news.ycombinator.com/item?id=40348371"
+    ],
+    [
+      "Release of Fugaku-LLM – a large language model trained on supercomputer Fugaku",
+      "https://www.fujitsu.com/global/about/resources/news/press-releases/2024/0510-01.html"
+    ]
+  ],
+  [
+    [
       "2024-05-13, 21:00:07",
       "https://news.ycombinator.com/item?id=40348356"
     ],
@@ -21,6 +31,16 @@
   ],
   [
     [
+      "2024-05-13, 20:52:33",
+      "https://news.ycombinator.com/item?id=40348276"
+    ],
+    [
+      "Dijkstra on real map data with raylib",
+      "https://github.com/uysalibov/gezgin"
+    ]
+  ],
+  [
+    [
       "2024-05-13, 19:57:13",
       "https://news.ycombinator.com/item?id=40347624"
     ],
@@ -31,42 +51,12 @@
   ],
   [
     [
-      "2024-05-13, 19:30:35",
-      "https://news.ycombinator.com/item?id=40347320"
-    ],
-    [
-      "Math problems with GPT-4o [video]",
-      "https://www.youtube.com/watch?v=_nSmkyDNulk"
-    ]
-  ],
-  [
-    [
       "2024-05-13, 19:03:55",
       "https://news.ycombinator.com/item?id=40346995"
     ],
     [
       "Show HN: Pi-C.A.R.D, a Raspberry Pi Voice Assistant",
       "https://github.com/nkasmanoff/pi-card"
-    ]
-  ],
-  [
-    [
-      "2024-05-13, 18:36:09",
-      "https://news.ycombinator.com/item?id=40346677"
-    ],
-    [
-      "Amazon's self-driving taxi Zoox under investigation by US after rear-end crashes",
-      "https://apnews.com/article/amazon-autonomous-vehicle-investigation-crashes-zoox-45c53600710407bc6f82b0a855c46e12"
-    ]
-  ],
-  [
-    [
-      "2024-05-13, 18:30:00",
-      "https://news.ycombinator.com/item?id=40346597"
-    ],
-    [
-      "Amazon S3 will no longer charge for several HTTP error codes",
-      "https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-s3-no-charge-http-error-codes/"
     ]
   ],
   [
@@ -97,16 +87,6 @@
     [
       "Apple and Google deliver support for unwanted tracking alerts in iOS and Android",
       "https://www.apple.com/ca/newsroom/2024/05/apple-and-google-deliver-support-for-unwanted-tracking-alerts-in-ios-and-android/"
-    ]
-  ],
-  [
-    [
-      "2024-05-13, 17:41:14",
-      "https://news.ycombinator.com/item?id=40345960"
-    ],
-    [
-      "GPT-4o",
-      "https://blog.samaltman.com/gpt-4o"
     ]
   ],
   [
@@ -147,6 +127,16 @@
     [
       "A global plastic treaty will only work if it caps production, modeling shows",
       "https://phys.org/news/2024-05-global-plastic-treaty-caps-production.html"
+    ]
+  ],
+  [
+    [
+      "2024-05-13, 16:43:21",
+      "https://news.ycombinator.com/item?id=40345250"
+    ],
+    [
+      "A list of open source games",
+      "https://github.com/bobeff/open-source-games"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "GNU LibreJS: blocks JavaScript traps",
       "https://www.gnu.org/software/librejs/"
+    ]
+  ],
+  [
+    [
+      "2024-05-12, 23:47:18",
+      "https://news.ycombinator.com/item?id=40338443"
+    ],
+    [
+      "MacRelix – Unix-like features for classic Mac OS",
+      "https://www.macrelix.org/"
     ]
   ],
   [
