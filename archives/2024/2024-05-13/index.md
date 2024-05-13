@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-13](index.md)
 
+* [2024-05-13, 15:31:00](https://news.ycombinator.com/item?id=40344452) - [Venture Capitalists Are Using Podcasts to Lure in Founders](https://www.vanityfair.com/news/story/venture-capitalists-using-podcasts-lure-founders)
 * [2024-05-13, 15:17:26](https://news.ycombinator.com/item?id=40344302) - [Falcon 2](https://www.tii.ae/news/falcon-2-uaes-technology-innovation-institute-releases-new-ai-model-series-outperforming-metas)
 * [2024-05-13, 14:05:13](https://news.ycombinator.com/item?id=40343538) - [Biggest CPU for the Bad System](https://old.reddit.com/r/sysadmin/comments/1cqn3qa/whats_the_biggest_cpu_core_physical_server_i_can/)
 * [2024-05-13, 13:47:37](https://news.ycombinator.com/item?id=40343333) - [Doom didn't kill the Amiga. Wolfenstein 3D did [video]](https://www.youtube.com/watch?v=wsADJa-23Sg)
