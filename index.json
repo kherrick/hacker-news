@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-05-13, 21:14:54",
+      "https://news.ycombinator.com/item?id=40348531"
+    ],
+    [
+      "Unitree G1 Humanoid Agent",
+      "https://www.unitree.com/g1/"
+    ]
+  ],
+  [
+    [
       "2024-05-13, 21:09:31",
       "https://news.ycombinator.com/item?id=40348459"
     ],
@@ -67,6 +77,16 @@
     [
       "Meteor Lake's E-Cores: Crestmont Makes Incremental Progress",
       "https://chipsandcheese.com/2024/05/13/meteor-lakes-e-cores-crestmont-makes-incremental-progress/"
+    ]
+  ],
+  [
+    [
+      "2024-05-13, 20:00:30",
+      "https://news.ycombinator.com/item?id=40347662"
+    ],
+    [
+      "DOS game \"F-15 Strike Eagle II\" reverse engineering/reconstruction war stories",
+      "https://neuviemeporte.github.io/category/f15-se2.html"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2024-05-13, 17:16:09",
-      "https://news.ycombinator.com/item?id=40345641"
-    ],
-    [
-      "A global plastic treaty will only work if it caps production, modeling shows",
-      "https://phys.org/news/2024-05-global-plastic-treaty-caps-production.html"
-    ]
-  ],
-  [
-    [
       "2024-05-13, 16:43:21",
       "https://news.ycombinator.com/item?id=40345250"
     ],
@@ -177,16 +187,6 @@
     [
       "Unix version control lore: what, ident",
       "https://dotat.at/@/2024-05-13-what-ident.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-13, 15:42:12",
-      "https://news.ycombinator.com/item?id=40344581"
-    ],
-    [
-      "GxHash is a fast and robust non-cryptographic hashing algorithm",
-      "https://github.com/ogxd/gxhash"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2024-05-12, 22:05:58",
+      "https://news.ycombinator.com/item?id=40337936"
+    ],
+    [
+      "GPUs Go Brrr",
+      "https://hazyresearch.stanford.edu/blog/2024-05-12-tk"
+    ]
+  ],
+  [
+    [
       "2024-05-12, 11:37:11",
       "https://news.ycombinator.com/item?id=40333584"
     ],
     [
       "Overbite Project: Why still use Gopher? What makes Gopher relevant?",
       "https://gopher.floodgap.com/overbite/relevance.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-12, 06:27:34",
-      "https://news.ycombinator.com/item?id=40332586"
-    ],
-    [
-      "A Slower Speed of Light (2012)",
-      "http://gamelab.mit.edu/games/a-slower-speed-of-light/"
     ]
   ]
 ]
