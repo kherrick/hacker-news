@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-13](index.md)
 
+* [2024-05-13, 14:05:13](https://news.ycombinator.com/item?id=40343538) - [Biggest CPU for the Bad System](https://old.reddit.com/r/sysadmin/comments/1cqn3qa/whats_the_biggest_cpu_core_physical_server_i_can/)
+* [2024-05-13, 13:47:37](https://news.ycombinator.com/item?id=40343333) - [Doom didn't kill the Amiga. Wolfenstein 3D did [video]](https://www.youtube.com/watch?v=wsADJa-23Sg)
 * [2024-05-13, 13:40:14](https://news.ycombinator.com/item?id=40343254) - [Micron Ships Crucial-Branded LPCAMM2 Memory Modules: 64GB of LPDDR5X for $330](https://www.anandtech.com/show/21390/micron-ships-crucialbranded-lpcamm2-memory-modules)
 * [2024-05-13, 13:17:31](https://news.ycombinator.com/item?id=40343006) - [Squarespace to Go Private in $6.9B All-Cash Transaction with Permira](https://investors.squarespace.com/news-events-financials/investor-news/news-details/2024/Squarespace-to-Go-Private-in-6.9B-All-Cash-Transaction-with-Permira/default.aspx)
 * [2024-05-13, 12:32:41](https://news.ycombinator.com/item?id=40342578) - [The USDA's gardening zones shifted, this map shows you what's changed](https://apps.npr.org/plant-hardiness-garden-map/)

@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-13, 14:05:13](https://news.ycombinator.com/item?id=40343538) - [Biggest CPU for the Bad System](https://old.reddit.com/r/sysadmin/comments/1cqn3qa/whats_the_biggest_cpu_core_physical_server_i_can/)
+* [2024-05-13, 13:47:37](https://news.ycombinator.com/item?id=40343333) - [Doom didn't kill the Amiga. Wolfenstein 3D did [video]](https://www.youtube.com/watch?v=wsADJa-23Sg)
 * [2024-05-13, 13:40:14](https://news.ycombinator.com/item?id=40343254) - [Micron Ships Crucial-Branded LPCAMM2 Memory Modules: 64GB of LPDDR5X for $330](https://www.anandtech.com/show/21390/micron-ships-crucialbranded-lpcamm2-memory-modules)
 * [2024-05-13, 13:17:31](https://news.ycombinator.com/item?id=40343006) - [Squarespace to Go Private in $6.9B All-Cash Transaction with Permira](https://investors.squarespace.com/news-events-financials/investor-news/news-details/2024/Squarespace-to-Go-Private-in-6.9B-All-Cash-Transaction-with-Permira/default.aspx)
 * [2024-05-13, 12:32:41](https://news.ycombinator.com/item?id=40342578) - [The USDA's gardening zones shifted, this map shows you what's changed](https://apps.npr.org/plant-hardiness-garden-map/)
@@ -13,7 +15,6 @@
 * [2024-05-13, 02:56:43](https://news.ycombinator.com/item?id=40339405) - [Show HN: CarCheck – Car Buying Checklist App](https://usefulchecklists.com/)
 * [2024-05-12, 23:47:18](https://news.ycombinator.com/item?id=40338443) - [MacRelix – Unix-like features for classic Mac OS](https://www.macrelix.org/)
 * [2024-05-12, 23:09:08](https://news.ycombinator.com/item?id=40338275) - [Show HN: I made an open-source Loom alternative](https://Cap.so)
-* [2024-05-12, 23:02:52](https://news.ycombinator.com/item?id=40338241) - [Did GitHub Copilot increase my productivity?](https://trace.yshui.dev/2024-05-copilot.html#did-github-copilot-really-increase-my-productivity)
 * [2024-05-12, 22:47:09](https://news.ycombinator.com/item?id=40338152) - [Feynman Symbolic Regression Database](https://space.mit.edu/home/tegmark/aifeynman.html)
 * [2024-05-12, 22:05:58](https://news.ycombinator.com/item?id=40337936) - [GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
 * [2024-05-12, 22:05:30](https://news.ycombinator.com/item?id=40337933) - [I built an online PDF management platform using open-source software](https://www.pdfequips.com/)
@@ -23,13 +24,12 @@
 * [2024-05-12, 17:33:28](https://news.ycombinator.com/item?id=40336095) - [Page Dewarping (2016)](https://mzucker.github.io/2016/08/15/page-dewarping.html)
 * [2024-05-12, 16:24:05](https://news.ycombinator.com/item?id=40335608) - [Homoiconic Python](https://aljamal.substack.com/p/homoiconic-python)
 * [2024-05-12, 16:02:57](https://news.ycombinator.com/item?id=40335472) - [Zero Feet: a proposal for a systems-free Lisp](https://applied-langua.ge/posts/zero-feet.html)
-* [2024-05-12, 15:20:39](https://news.ycombinator.com/item?id=40335170) - [Whole-body magnetic resonance imaging at 0.05 Tesla](https://www.science.org/doi/10.1126/science.adm7168)
+* [2024-05-12, 13:32:01](https://news.ycombinator.com/item?id=40334309) - [The Myth of Loss: Bitboys](https://hardforum.com/threads/bitboys.1973024/)
 * [2024-05-12, 11:11:50](https://news.ycombinator.com/item?id=40333481) - [Show HN: Making GNU Make a better Task Runner](https://github.com/mitjafelicijan/makext)
 * [2024-05-12, 10:17:49](https://news.ycombinator.com/item?id=40333342) - [When children become caregivers, who cares for them?](https://www.csmonitor.com/World/Making-a-difference/2024/0320/When-children-become-caregivers-who-cares-for-them)
 * [2024-05-12, 09:38:27](https://news.ycombinator.com/item?id=40333226) - [Song Maker](https://musiclab.chromeexperiments.com/Song-Maker)
 * [2024-05-12, 06:27:34](https://news.ycombinator.com/item?id=40332586) - [A Slower Speed of Light (2012)](http://gamelab.mit.edu/games/a-slower-speed-of-light/)
 * [2024-05-12, 05:59:14](https://news.ycombinator.com/item?id=40332515) - [Why Make Art in the Dark?](https://aeon.co/essays/why-did-our-ancestors-make-startling-art-in-dark-firelit-caves)
-* [2024-05-09, 23:00:55](https://news.ycombinator.com/item?id=40313792) - [A Record of Old Kashgar](https://chinabooksreview.com/2024/05/09/a-record-of-old-kashgar/)
 
 ## [Archives](archives/index.md)
 
