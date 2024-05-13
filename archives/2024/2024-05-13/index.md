@@ -16,6 +16,7 @@
 * [2024-05-13, 20:52:33](https://news.ycombinator.com/item?id=40348276) - [Dijkstra on real map data with raylib](https://github.com/uysalibov/gezgin)
 * [2024-05-13, 20:24:57](https://news.ycombinator.com/item?id=40347981) - [Meteor Lake's E-Cores: Crestmont Makes Incremental Progress](https://chipsandcheese.com/2024/05/13/meteor-lakes-e-cores-crestmont-makes-incremental-progress/)
 * [2024-05-13, 20:08:04](https://news.ycombinator.com/item?id=40347773) - [Encrypted services Apple, Proton and Wire helped police identify activist](https://techcrunch.com/2024/05/08/encrypted-services-apple-proton-and-wire-helped-spanish-police-identify-activist/)
+* [2024-05-13, 20:01:37](https://news.ycombinator.com/item?id=40347677) - [Photography Laws in Germany (2023)](https://allaboutberlin.com/guides/photography-laws-germany)
 * [2024-05-13, 20:00:30](https://news.ycombinator.com/item?id=40347662) - [DOS game \"F-15 Strike Eagle II\" reverse engineering/reconstruction war stories](https://neuviemeporte.github.io/category/f15-se2.html)
 * [2024-05-13, 19:57:13](https://news.ycombinator.com/item?id=40347624) - [IBM open-sources its Granite AI models – and they mean business](https://www.zdnet.com/article/ibm-open-sources-its-granite-ai-models-and-they-mean-business/)
 * [2024-05-13, 19:30:35](https://news.ycombinator.com/item?id=40347320) - [Math problems with GPT-4o [video]](https://www.youtube.com/watch?v=_nSmkyDNulk)
