@@ -6,6 +6,7 @@
 
 * [2024-05-13, 18:36:04](https://news.ycombinator.com/item?id=40346675) - [mRNA cancer vaccine triggers fierce immune response to fight brain tumors](https://ufhealth.org/news/2024/uf-developed-mrna-vaccine-triggers-fierce-immune-response-to-fight-malignant-brain-tumor)
 * [2024-05-13, 18:30:00](https://news.ycombinator.com/item?id=40346597) - [Amazon S3 will no longer charge for several HTTP error codes](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-s3-no-charge-http-error-codes/)
+* [2024-05-13, 17:53:44](https://news.ycombinator.com/item?id=40346148) - [Language, OS and GUI -independent windowing API provided as a virtual filesystem](https://www.fornaxis.org/forge/)
 * [2024-05-13, 17:29:10](https://news.ycombinator.com/item?id=40345790) - [Melinda Gates Resigns from Bill and Melinda Gates Foundation](https://www.seattletimes.com/seattle-news/melinda-french-gates-resigns-from-bill-melinda-gates-foundation/)
 * [2024-05-13, 17:28:45](https://news.ycombinator.com/item?id=40345785) - [GPT-4o and more tools to ChatGPT free users](https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free/)
 * [2024-05-13, 17:28:00](https://news.ycombinator.com/item?id=40345775) - [GPT-4o](https://openai.com/index/hello-gpt-4o/)
@@ -40,6 +41,7 @@
 * [2024-05-13, 13:58:51](https://news.ycombinator.com/item?id=40343460) - [GameStop shares soar 110% and are halted as trader 'Roaring Kitty' resurfaces](https://www.cnbc.com/2024/05/13/gme-jumps-as-trader-roaring-kitty-who-drove-meme-craze-posts-again.html)
 * [2024-05-13, 13:47:37](https://news.ycombinator.com/item?id=40343333) - [Doom didn't kill the Amiga. Wolfenstein 3D did [video]](https://www.youtube.com/watch?v=wsADJa-23Sg)
 * [2024-05-13, 13:40:14](https://news.ycombinator.com/item?id=40343254) - [Micron Ships Crucial-Branded LPCAMM2 Memory Modules: 64GB of LPDDR5X for $330](https://www.anandtech.com/show/21390/micron-ships-crucialbranded-lpcamm2-memory-modules)
+* [2024-05-13, 13:29:17](https://news.ycombinator.com/item?id=40343131) - [Pg_lakehouse: Query Any Data Lake from Postgres](https://github.com/paradedb/paradedb/tree/dev/pg_lakehouse)
 * [2024-05-13, 13:17:31](https://news.ycombinator.com/item?id=40343006) - [Squarespace to Go Private in $6.9B All-Cash Transaction with Permira](https://investors.squarespace.com/news-events-financials/investor-news/news-details/2024/Squarespace-to-Go-Private-in-6.9B-All-Cash-Transaction-with-Permira/default.aspx)
 * [2024-05-13, 12:32:41](https://news.ycombinator.com/item?id=40342578) - [The USDA's gardening zones shifted, this map shows you what's changed](https://apps.npr.org/plant-hardiness-garden-map/)
 * [2024-05-13, 12:31:03](https://news.ycombinator.com/item?id=40342557) - [Commercial Space Stations Approach Launch Phase](https://spectrum.ieee.org/space-station-orbital-reef)
