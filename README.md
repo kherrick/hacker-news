@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-13, 07:00:10](https://news.ycombinator.com/item?id=40340450) - [Meticulous (YC S21) Is Hiring to Eliminate E2E UI Tests](https://news.ycombinator.com/item?id=40340450)
-* [2024-05-13, 06:20:02](https://news.ycombinator.com/item?id=40340292) - [NPM package is-even has over 140k weekly downloads](https://www.npmjs.com/package/is-even)
 * [2024-05-13, 05:24:21](https://news.ycombinator.com/item?id=40340055) - [State actor blamed for cyberattack on B.C. government systems](https://www.cbc.ca/news/canada/british-columbia/bc-government-cyberattack-state-actor-1.7200735)
 * [2024-05-13, 05:12:54](https://news.ycombinator.com/item?id=40339998) - [GNU LibreJS: blocks JavaScript traps](https://www.gnu.org/software/librejs/)
 * [2024-05-13, 04:10:37](https://news.ycombinator.com/item?id=40339723) - [PicoMEM by FreddyV – All in One 8-Bit ISA Expansion Card](https://texelec.com/product/picomem/)
@@ -25,6 +24,7 @@
 * [2024-05-12, 11:11:50](https://news.ycombinator.com/item?id=40333481) - [Show HN: Making GNU Make a better Task Runner](https://github.com/mitjafelicijan/makext)
 * [2024-05-12, 09:48:35](https://news.ycombinator.com/item?id=40333254) - [Archie Search](https://archie.serialport.org/)
 * [2024-05-12, 06:27:34](https://news.ycombinator.com/item?id=40332586) - [A Slower Speed of Light (2012)](http://gamelab.mit.edu/games/a-slower-speed-of-light/)
+* [2024-05-12, 05:59:14](https://news.ycombinator.com/item?id=40332515) - [Why Make Art in the Dark?](https://aeon.co/essays/why-did-our-ancestors-make-startling-art-in-dark-firelit-caves)
 * [2024-05-11, 18:31:38](https://news.ycombinator.com/item?id=40329804) - [Solving Recurrence Relations](https://win-vector.com/2024/05/09/solving-recurrence-relations/)
 * [2024-05-11, 13:11:59](https://news.ycombinator.com/item?id=40327837) - [Dymaxion Car](https://en.wikipedia.org/wiki/Dymaxion_car)
 * [2024-05-11, 06:05:24](https://news.ycombinator.com/item?id=40326313) - [Assembly](https://assembly.louve.systems/)
