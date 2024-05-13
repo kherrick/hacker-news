@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-05-12](index.md)
 
+* [2024-05-12, 23:58:51](https://news.ycombinator.com/item?id=40338486) - [Vision Pro has the same effective resolution as Quest 3... Sometimes?](https://douevenknow.us/post/750217547284086784/apple-vision-pro-has-the-same-effective-resolution)
+* [2024-05-12, 23:47:18](https://news.ycombinator.com/item?id=40338443) - [MacRelix – Unix-like features for classic Mac OS](https://www.macrelix.org/)
 * [2024-05-12, 23:09:08](https://news.ycombinator.com/item?id=40338275) - [Show HN: I made an open-source Loom alternative](https://Cap.so)
 * [2024-05-12, 23:06:08](https://news.ycombinator.com/item?id=40338259) - [\"'We Cannot in Good Conscience Encourage You to Pursue Our Profession\"](https://www.indiewire.com/news/breaking-news/art-directors-guild-ending-production-design-initiative-program-1235002230/)
+* [2024-05-12, 23:02:52](https://news.ycombinator.com/item?id=40338241) - [Did GitHub Copilot increase my productivity?](https://trace.yshui.dev/2024-05-copilot.html#did-github-copilot-really-increase-my-productivity)
+* [2024-05-12, 22:47:09](https://news.ycombinator.com/item?id=40338152) - [Feynman Symbolic Regression Database](https://space.mit.edu/home/tegmark/aifeynman.html)
 * [2024-05-12, 22:19:10](https://news.ycombinator.com/item?id=40338003) - [Airline Lobbyists Just Got Humiliated](https://www.thebignewsletter.com/p/how-airline-lobbyists-just-got-humiliated)
 * [2024-05-12, 22:05:58](https://news.ycombinator.com/item?id=40337936) - [GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
 * [2024-05-12, 22:05:30](https://news.ycombinator.com/item?id=40337933) - [I built an online PDF management platform using open-source software](https://www.pdfequips.com/)
@@ -21,6 +25,7 @@
 * [2024-05-12, 19:14:01](https://news.ycombinator.com/item?id=40336749) - [Japan and the Lost Generation's Looming Pension Crisis (2023)](https://www.nippon.com/en/in-depth/a08702/)
 * [2024-05-12, 18:55:39](https://news.ycombinator.com/item?id=40336609) - [Professional Corner-Cutting](https://blog.ometer.com/2016/05/04/professional-corner-cutting/)
 * [2024-05-12, 18:55:12](https://news.ycombinator.com/item?id=40336607) - [Becoming an Amateur Polyglot](https://www.lesswrong.com/posts/BPpeBH8brSCRvZajs/how-to-be-an-amateur-polyglot)
+* [2024-05-12, 18:54:44](https://news.ycombinator.com/item?id=40336602) - [Styles of Furniture](https://blog.lostartpress.com/2024/05/05/the-styles-of-furniture/)
 * [2024-05-12, 18:46:00](https://news.ycombinator.com/item?id=40336538) - [$7.5B investment in EV charging has only produced 7 stations in two years](https://www.washingtonpost.com/climate-solutions/2024/03/28/ev-charging-stations-slow-rollout/)
 * [2024-05-12, 18:10:44](https://news.ycombinator.com/item?id=40336312) - [Germany may introduce conscription for all 18-year-olds](https://www.telegraph.co.uk/world-news/2024/05/11/germany-considering-conscription-for-all-18-year-olds/)
 * [2024-05-12, 18:10:20](https://news.ycombinator.com/item?id=40336310) - [FCC explicitly prohibits fast lanes, closing possible net neutrality loophole](https://arstechnica.com/tech-policy/2024/05/fcc-explicitly-prohibits-fast-lanes-closing-possible-net-neutrality-loophole/)
