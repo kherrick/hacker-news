@@ -74,6 +74,7 @@
 * [2024-05-12, 08:24:57](https://news.ycombinator.com/item?id=40332992) - [llIlI.lI: a URL shortener using only I/l to encode domains](https://llili.li/)
 * [2024-05-12, 07:06:47](https://news.ycombinator.com/item?id=40332702) - [AI Ruined Quora](https://jonn.substack.com/p/how-ai-ruined-quora)
 * [2024-05-12, 06:46:08](https://news.ycombinator.com/item?id=40332651) - [Automatically Detecting Under-Trained Tokens in Large Language Models](https://arxiv.org/abs/2405.05417)
+* [2024-05-12, 06:27:34](https://news.ycombinator.com/item?id=40332586) - [A Slower Speed of Light – MIT Game Lab](http://gamelab.mit.edu/games/a-slower-speed-of-light/)
 * [2024-05-12, 06:01:17](https://news.ycombinator.com/item?id=40332525) - [Farewell, Chuck E. Cheese Animatronic Band](https://www.nytimes.com/2024/05/11/business/chuck-e-cheese-animatronic-band.html)
 * [2024-05-12, 05:23:18](https://news.ycombinator.com/item?id=40332416) - [Can We Make Bicycles Sustainable Again?](https://solar.lowtechmagazine.com/2023/02/can-we-make-bicycles-sustainable-again/)
 * [2024-05-12, 05:17:56](https://news.ycombinator.com/item?id=40332400) - [Scientists have figured out way to make algae-based plastic that decomposes](https://abcnews.go.com/US/scientists-figured-make-bio-based-plastic-completely-biodegrades/story?id=110032450)
