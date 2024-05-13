@@ -25,6 +25,7 @@
 * [2024-05-12, 19:36:33](https://news.ycombinator.com/item?id=40336919) - [lms: LM Studio CLI](https://github.com/lmstudio-ai/lms)
 * [2024-05-12, 19:14:39](https://news.ycombinator.com/item?id=40336756) - [Show HN: I created an app for you to be a more unpredictable romantic partner](https://www.lovefuel.app)
 * [2024-05-12, 19:14:01](https://news.ycombinator.com/item?id=40336749) - [Japan and the Lost Generation's Looming Pension Crisis (2023)](https://www.nippon.com/en/in-depth/a08702/)
+* [2024-05-12, 18:55:58](https://news.ycombinator.com/item?id=40336610) - [What Can a Person Wear?](http://thekramerisnow.blogspot.com/2024/05/what-can-person-wear.html)
 * [2024-05-12, 18:55:39](https://news.ycombinator.com/item?id=40336609) - [Professional Corner-Cutting](https://blog.ometer.com/2016/05/04/professional-corner-cutting/)
 * [2024-05-12, 18:55:12](https://news.ycombinator.com/item?id=40336607) - [Becoming an Amateur Polyglot](https://www.lesswrong.com/posts/BPpeBH8brSCRvZajs/how-to-be-an-amateur-polyglot)
 * [2024-05-12, 18:55:02](https://news.ycombinator.com/item?id=40336605) - [Big Fridge](https://sherwood.news/business/the-hot-business-of-cold-storage/)

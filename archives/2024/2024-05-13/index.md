@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-05-13](index.md)
 
+* [2024-05-13, 16:09:04](https://news.ycombinator.com/item?id=40344868) - [Broad Public Support for Legal Abortion Persists 2 Years After Dobbs](https://www.pewresearch.org/politics/2024/05/13/broad-public-support-for-legal-abortion-persists-2-years-after-dobbs/)
+* [2024-05-13, 16:05:49](https://news.ycombinator.com/item?id=40344829) - [In-Flight Entertainment: Introducing Travel Mode for Meta Quest 2 and 3](https://www.meta.com/en-gb/blog/quest/travel-mode-lufthansa-airplane-flight-entertainment/)
+* [2024-05-13, 15:56:01](https://news.ycombinator.com/item?id=40344729) - [My Mother's Letters Should Belong to Me – Not a Company That Works with Prisons](https://truthout.org/articles/my-mothers-letters-should-belong-to-me-not-a-company-that-works-with-prisons/)
 * [2024-05-13, 15:39:50](https://news.ycombinator.com/item?id=40344554) - [The rage epidemic: is our modern world fuelling aggression?](https://www.theguardian.com/science/article/2024/may/12/road-rage-epidemic-peter-abbott-abuse-fury)
 * [2024-05-13, 15:31:00](https://news.ycombinator.com/item?id=40344452) - [Venture Capitalists Are Using Podcasts to Lure in Founders](https://www.vanityfair.com/news/story/venture-capitalists-using-podcasts-lure-founders)
+* [2024-05-13, 15:18:18](https://news.ycombinator.com/item?id=40344309) - [GameStop rockets, as 'Roaring Kitty' returns; shares halted](https://www.thestreet.com/investing/stocks/gamestop-shares-rocket-pounding-short-sellers-as-roaring-kitty-returns)
 * [2024-05-13, 15:17:26](https://news.ycombinator.com/item?id=40344302) - [Falcon 2](https://www.tii.ae/news/falcon-2-uaes-technology-innovation-institute-releases-new-ai-model-series-outperforming-metas)
 * [2024-05-13, 14:46:07](https://news.ycombinator.com/item?id=40343950) - [OpenAI Spring Update [video]](https://www.youtube.com/watch?v=DQacCB9tDaw)
 * [2024-05-13, 14:05:13](https://news.ycombinator.com/item?id=40343538) - [Biggest CPU for the Bad System](https://old.reddit.com/r/sysadmin/comments/1cqn3qa/whats_the_biggest_cpu_core_physical_server_i_can/)
