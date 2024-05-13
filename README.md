@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-13, 04:43:58](https://news.ycombinator.com/item?id=40339852) - [Ordered back to the office, top tech talent left instead, study finds](https://www.washingtonpost.com/business/2024/05/12/rto-microsoft-apple-spacex/)
 * [2024-05-13, 03:00:10](https://news.ycombinator.com/item?id=40339415) - [Fort Worth's tallest building sells for $12.3M, bought for $137.5M in 2021](https://www.foxbusiness.com/real-estate/fort-worths-tallest-building-sells-just-12-3m-auction-stunning-price-drop)
 * [2024-05-13, 02:56:43](https://news.ycombinator.com/item?id=40339405) - [Show HN: CarCheck – Car Buying Checklist App](https://usefulchecklists.com/)
 * [2024-05-13, 01:22:35](https://news.ycombinator.com/item?id=40338967) - [Open Source YouTube to MP3 Downloader](https://github.com/PackJC/YoutubeToMP3)
@@ -7,7 +8,6 @@
 * [2024-05-12, 23:47:18](https://news.ycombinator.com/item?id=40338443) - [MacRelix – Unix-like features for classic Mac OS](https://www.macrelix.org/)
 * [2024-05-12, 23:09:08](https://news.ycombinator.com/item?id=40338275) - [Show HN: I made an open-source Loom alternative](https://Cap.so)
 * [2024-05-12, 22:47:09](https://news.ycombinator.com/item?id=40338152) - [Feynman Symbolic Regression Database](https://space.mit.edu/home/tegmark/aifeynman.html)
-* [2024-05-12, 22:34:17](https://news.ycombinator.com/item?id=40338079) - [Cost of Living Index by Country 2024 – Numbeo](https://www.numbeo.com/cost-of-living/rankings_by_country.jsp)
 * [2024-05-12, 22:05:58](https://news.ycombinator.com/item?id=40337936) - [GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
 * [2024-05-12, 22:05:30](https://news.ycombinator.com/item?id=40337933) - [I built an online PDF management platform using open-source software](https://www.pdfequips.com/)
 * [2024-05-12, 21:41:30](https://news.ycombinator.com/item?id=40337815) - [Mindfulness interventions for teens decrease mindfulness, study finds](https://suchscience.net/mindfulness-interventions-for-teens-actually-decrease-mindfulness-new-study-finds/)
@@ -25,10 +25,10 @@
 * [2024-05-12, 06:39:41](https://news.ycombinator.com/item?id=40332631) - [Roger Corman, Giant of Independent Filmmaking, Dies at 98](https://www.hollywoodreporter.com/movies/movie-news/roger-corman-dead-independent-director-producer-king-of-the-b-1235896846/)
 * [2024-05-12, 06:27:34](https://news.ycombinator.com/item?id=40332586) - [A Slower Speed of Light – MIT Game Lab](http://gamelab.mit.edu/games/a-slower-speed-of-light/)
 * [2024-05-11, 18:31:38](https://news.ycombinator.com/item?id=40329804) - [Solving Recurrence Relations](https://win-vector.com/2024/05/09/solving-recurrence-relations/)
+* [2024-05-11, 13:11:59](https://news.ycombinator.com/item?id=40327837) - [Dymaxion Car](https://en.wikipedia.org/wiki/Dymaxion_car)
 * [2024-05-11, 12:26:03](https://news.ycombinator.com/item?id=40327652) - [Pattern Forms](https://wiki.c2.com/?PatternForms)
 * [2024-05-11, 06:05:24](https://news.ycombinator.com/item?id=40326313) - [Assembly](https://assembly.louve.systems/)
 * [2024-05-10, 18:28:07](https://news.ycombinator.com/item?id=40322267) - [Scientists Find an 'Alphabet' in Whale Songs](https://www.nytimes.com/2024/05/07/science/whale-song-alphabet.html)
-* [2024-05-10, 18:18:41](https://news.ycombinator.com/item?id=40322137) - [Peter Jackson on how Tolkien stopped a Beatles LOTR film (2021)](https://www.bbc.com/news/entertainment-arts-59387182)
 * [2024-05-09, 23:00:55](https://news.ycombinator.com/item?id=40313792) - [A Record of Old Kashgar](https://chinabooksreview.com/2024/05/09/a-record-of-old-kashgar/)
 
 ## [Archives](archives/index.md)
