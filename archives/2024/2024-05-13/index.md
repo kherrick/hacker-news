@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-05-13](index.md)
 
+* [2024-05-13, 19:03:55](https://news.ycombinator.com/item?id=40346995) - [Show HN: Pi-C.A.R.D, a Raspberry Pi Voice Assistant](https://github.com/nkasmanoff/pi-card)
 * [2024-05-13, 18:36:04](https://news.ycombinator.com/item?id=40346675) - [mRNA cancer vaccine triggers fierce immune response to fight brain tumors](https://ufhealth.org/news/2024/uf-developed-mrna-vaccine-triggers-fierce-immune-response-to-fight-malignant-brain-tumor)
 * [2024-05-13, 18:30:00](https://news.ycombinator.com/item?id=40346597) - [Amazon S3 will no longer charge for several HTTP error codes](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-s3-no-charge-http-error-codes/)
 * [2024-05-13, 17:53:44](https://news.ycombinator.com/item?id=40346148) - [Language, OS and GUI -independent windowing API provided as a virtual filesystem](https://www.fornaxis.org/forge/)
+* [2024-05-13, 17:46:28](https://news.ycombinator.com/item?id=40346024) - [Apple and Google deliver support for unwanted tracking alerts in iOS and Android](https://www.apple.com/ca/newsroom/2024/05/apple-and-google-deliver-support-for-unwanted-tracking-alerts-in-ios-and-android/)
 * [2024-05-13, 17:29:10](https://news.ycombinator.com/item?id=40345790) - [Melinda Gates Resigns from Bill and Melinda Gates Foundation](https://www.seattletimes.com/seattle-news/melinda-french-gates-resigns-from-bill-melinda-gates-foundation/)
 * [2024-05-13, 17:28:45](https://news.ycombinator.com/item?id=40345785) - [GPT-4o and more tools to ChatGPT free users](https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free/)
 * [2024-05-13, 17:28:00](https://news.ycombinator.com/item?id=40345775) - [GPT-4o](https://openai.com/index/hello-gpt-4o/)
