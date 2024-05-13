@@ -2,6 +2,7 @@
 
 * [2024-05-13, 11:15:47](https://news.ycombinator.com/item?id=40341877) - [Solar storms are disrupting farmer GPS systems](https://www.theverge.com/2024/5/12/24154779/solar-storms-farmer-gps-john-deer)
 * [2024-05-13, 10:49:58](https://news.ycombinator.com/item?id=40341716) - [Telegram has launched a pretty intense campaign to malign Signal as insecure](https://twitter.com/matthew_d_green/status/1789687898863792453)
+* [2024-05-13, 10:45:34](https://news.ycombinator.com/item?id=40341687) - [The Great Flattening](https://stratechery.com/2024/the-great-flattening/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI0L3RoZS1ncmVhdC1mbGF0dGVuaW5nLyJdfSwiZXhwIjoxNzE4MTg4NzMyLCJpYXQiOjE3MTU1OTY3MzIsImlzcyI6Imh0dHBzOi8vYXBpLnBhc3Nwb3J0Lm9ubGluZS9vYXV0aCIsInNjb3BlIjoiZmVlZDpyZWFkIGFydGljbGU6cmVhZCBhc3NldDpyZWFkIGNhdGVnb3J5OnJlYWQgZW50aXRsZW1lbnRzIiwic3ViIjoiV3NyTHlycjZxZW1WQWdFR0NqTW0zNCIsInVzZSI6ImFjY2VzcyJ9.NgkSZcz_OwkjW7TH6FNBKp7iHS1K6VPyf-xlU6tk1kEXbTuBZzP7kwYsU4WIEpXM4Ab-1DZxZhIus-1-1OtQ6HMi5DdJZqKYcCoARikBeSSkWFtPNGAVpBeOnWzYan2eSUrpGXeuKVq7g5aXv6zNDHoMqHuScb9jE7gFMIa4E3BdafrvjIQ0020M6tUQrm5jinP31XBSQrLUUU2cY_M6QjTn5Hh0CjLUUfNbrJz2yBuvC-egYBpyVersqGIHphD7ZDetF225mvWhhSMbpjeVPqXunJ__GjyFjB_Azlwy_k1exgM4wT0auYJe3jI7KGxWPu2gYm2ZlT8A5itGD0npgQ)
 * [2024-05-13, 08:18:47](https://news.ycombinator.com/item?id=40340901) - [Show HN: Boxwood – simple templating engine for JavaScript, in JavaScript](https://github.com/buxlabs/boxwood)
 * [2024-05-13, 07:33:57](https://news.ycombinator.com/item?id=40340642) - [Protecting your email address via SVG instead of JavaScript](https://rouninmedia.github.io/protecting-your-email-address-via-svg-instead-of-js/)
 * [2024-05-13, 07:00:10](https://news.ycombinator.com/item?id=40340450) - [Meticulous (YC S21) Is Hiring to Eliminate E2E UI Tests](https://news.ycombinator.com/item?id=40340450)
@@ -15,6 +16,7 @@
 * [2024-05-12, 22:05:58](https://news.ycombinator.com/item?id=40337936) - [GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
 * [2024-05-12, 22:05:30](https://news.ycombinator.com/item?id=40337933) - [I built an online PDF management platform using open-source software](https://www.pdfequips.com/)
 * [2024-05-12, 19:49:05](https://news.ycombinator.com/item?id=40337036) - [The Alternative Implementation Problem](https://pointersgonewild.com/2024/04/20/the-alternative-implementation-problem/)
+* [2024-05-12, 18:55:02](https://news.ycombinator.com/item?id=40336605) - [Big Fridge](https://sherwood.news/business/the-hot-business-of-cold-storage/)
 * [2024-05-12, 18:54:44](https://news.ycombinator.com/item?id=40336602) - [Styles of Furniture](https://blog.lostartpress.com/2024/05/05/the-styles-of-furniture/)
 * [2024-05-12, 17:33:28](https://news.ycombinator.com/item?id=40336095) - [Page Dewarping (2016)](https://mzucker.github.io/2016/08/15/page-dewarping.html)
 * [2024-05-12, 16:24:05](https://news.ycombinator.com/item?id=40335608) - [Homoiconic Python](https://aljamal.substack.com/p/homoiconic-python)
@@ -26,9 +28,7 @@
 * [2024-05-12, 06:27:34](https://news.ycombinator.com/item?id=40332586) - [A Slower Speed of Light (2012)](http://gamelab.mit.edu/games/a-slower-speed-of-light/)
 * [2024-05-12, 06:11:07](https://news.ycombinator.com/item?id=40332546) - [Calendar, Not Todos (2018)](https://deviparikh.medium.com/calendar-in-stead-of-to-do-lists-9ada86a512dd)
 * [2024-05-12, 05:59:14](https://news.ycombinator.com/item?id=40332515) - [Why Make Art in the Dark?](https://aeon.co/essays/why-did-our-ancestors-make-startling-art-in-dark-firelit-caves)
-* [2024-05-11, 18:31:38](https://news.ycombinator.com/item?id=40329804) - [Solving Recurrence Relations](https://win-vector.com/2024/05/09/solving-recurrence-relations/)
 * [2024-05-11, 13:11:59](https://news.ycombinator.com/item?id=40327837) - [Dymaxion Car](https://en.wikipedia.org/wiki/Dymaxion_car)
-* [2024-05-11, 06:05:24](https://news.ycombinator.com/item?id=40326313) - [Assembly](https://assembly.louve.systems/)
 * [2024-05-09, 23:00:55](https://news.ycombinator.com/item?id=40313792) - [A Record of Old Kashgar](https://chinabooksreview.com/2024/05/09/a-record-of-old-kashgar/)
 
 ## [Archives](archives/index.md)

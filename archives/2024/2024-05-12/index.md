@@ -27,6 +27,7 @@
 * [2024-05-12, 19:14:01](https://news.ycombinator.com/item?id=40336749) - [Japan and the Lost Generation's Looming Pension Crisis (2023)](https://www.nippon.com/en/in-depth/a08702/)
 * [2024-05-12, 18:55:39](https://news.ycombinator.com/item?id=40336609) - [Professional Corner-Cutting](https://blog.ometer.com/2016/05/04/professional-corner-cutting/)
 * [2024-05-12, 18:55:12](https://news.ycombinator.com/item?id=40336607) - [Becoming an Amateur Polyglot](https://www.lesswrong.com/posts/BPpeBH8brSCRvZajs/how-to-be-an-amateur-polyglot)
+* [2024-05-12, 18:55:02](https://news.ycombinator.com/item?id=40336605) - [Big Fridge](https://sherwood.news/business/the-hot-business-of-cold-storage/)
 * [2024-05-12, 18:54:44](https://news.ycombinator.com/item?id=40336602) - [Styles of Furniture](https://blog.lostartpress.com/2024/05/05/the-styles-of-furniture/)
 * [2024-05-12, 18:46:00](https://news.ycombinator.com/item?id=40336538) - [$7.5B investment in EV charging has only produced 7 stations in two years](https://www.washingtonpost.com/climate-solutions/2024/03/28/ev-charging-stations-slow-rollout/)
 * [2024-05-12, 18:10:44](https://news.ycombinator.com/item?id=40336312) - [Germany may introduce conscription for all 18-year-olds](https://www.telegraph.co.uk/world-news/2024/05/11/germany-considering-conscription-for-all-18-year-olds/)
