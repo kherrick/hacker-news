@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-13, 10:35:16](https://news.ycombinator.com/item?id=40341610) - [Bird flu in cattle: is cow's milk safe to drink?](https://www.bbc.com/future/article/20240510-bird-flu-in-cows-has-caused-concern-amongst-milk-drinkers-experts-say-its-still-safe-to-drink)
+* [2024-05-13, 10:14:03](https://news.ycombinator.com/item?id=40341518) - [Intel reduces latencies of chat LLM app using quantisation](https://community.intel.com/t5/Blogs/Tech-Innovation/Cloud/bg-p/blog-cloud/spr-xeon-gen-ai-ml-part3.html)
 * [2024-05-13, 10:02:24](https://news.ycombinator.com/item?id=40341454) - [Sleep does not help brain wash out toxins, study suggests](https://www.theguardian.com/science/article/2024/may/13/sleep-does-not-help-brain-wash-out-toxins-study-suggests)
 * [2024-05-13, 08:18:47](https://news.ycombinator.com/item?id=40340901) - [Show HN: Boxwood – simple templating engine for JavaScript, in JavaScript](https://github.com/buxlabs/boxwood)
-* [2024-05-13, 08:01:55](https://news.ycombinator.com/item?id=40340805) - [eu/acc](https://eu-acc.com/)
 * [2024-05-13, 07:33:57](https://news.ycombinator.com/item?id=40340642) - [Protecting your email address via SVG instead of JavaScript](https://rouninmedia.github.io/protecting-your-email-address-via-svg-instead-of-js/)
 * [2024-05-13, 07:00:10](https://news.ycombinator.com/item?id=40340450) - [Meticulous (YC S21) Is Hiring to Eliminate E2E UI Tests](https://news.ycombinator.com/item?id=40340450)
 * [2024-05-13, 06:26:46](https://news.ycombinator.com/item?id=40340316) - [The Death of a Mnemonist](https://www.historytoday.com/archive/months-past/death-mnemonist)
@@ -11,7 +12,6 @@
 * [2024-05-13, 02:56:43](https://news.ycombinator.com/item?id=40339405) - [Show HN: CarCheck – Car Buying Checklist App](https://usefulchecklists.com/)
 * [2024-05-12, 23:47:18](https://news.ycombinator.com/item?id=40338443) - [MacRelix – Unix-like features for classic Mac OS](https://www.macrelix.org/)
 * [2024-05-12, 23:09:08](https://news.ycombinator.com/item?id=40338275) - [Show HN: I made an open-source Loom alternative](https://Cap.so)
-* [2024-05-12, 23:02:52](https://news.ycombinator.com/item?id=40338241) - [Did GitHub Copilot increase my productivity?](https://trace.yshui.dev/2024-05-copilot.html#did-github-copilot-really-increase-my-productivity)
 * [2024-05-12, 22:47:09](https://news.ycombinator.com/item?id=40338152) - [Feynman Symbolic Regression Database](https://space.mit.edu/home/tegmark/aifeynman.html)
 * [2024-05-12, 22:05:58](https://news.ycombinator.com/item?id=40337936) - [GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
 * [2024-05-12, 22:05:30](https://news.ycombinator.com/item?id=40337933) - [I built an online PDF management platform using open-source software](https://www.pdfequips.com/)
