@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-13, 03:15:03](https://news.ycombinator.com/item?id=40339480) - [Elon Musk: Threat Or Menace? Part 5](https://blog.dshr.org/2024/05/elon-musk-threat-or-menace-part-5.html)
 * [2024-05-13, 03:00:10](https://news.ycombinator.com/item?id=40339415) - [Fort Worth's tallest building sells for $12.3M, bought for $137.5M in 2021](https://www.foxbusiness.com/real-estate/fort-worths-tallest-building-sells-just-12-3m-auction-stunning-price-drop)
 * [2024-05-13, 01:22:35](https://news.ycombinator.com/item?id=40338967) - [Open Source YouTube to MP3 Downloader](https://github.com/PackJC/YoutubeToMP3)
 * [2024-05-13, 00:04:14](https://news.ycombinator.com/item?id=40338517) - [The Star Destroyer and Imperial Military Doctrine](https://acoup.blog/2024/05/10/fireside-friday-may-10-2024/)
@@ -16,6 +15,7 @@
 * [2024-05-12, 18:55:39](https://news.ycombinator.com/item?id=40336609) - [Professional Corner-Cutting (2016)](https://blog.ometer.com/2016/05/04/professional-corner-cutting/)
 * [2024-05-12, 18:54:44](https://news.ycombinator.com/item?id=40336602) - [Styles of Furniture](https://blog.lostartpress.com/2024/05/05/the-styles-of-furniture/)
 * [2024-05-12, 17:33:28](https://news.ycombinator.com/item?id=40336095) - [Page Dewarping (2016)](https://mzucker.github.io/2016/08/15/page-dewarping.html)
+* [2024-05-12, 17:06:55](https://news.ycombinator.com/item?id=40335921) - [Learning K programming: idiom by idiom [pdf]](http://nsl.com/papers/idioms_K3.pdf)
 * [2024-05-12, 16:24:05](https://news.ycombinator.com/item?id=40335608) - [Homoiconic Python](https://aljamal.substack.com/p/homoiconic-python)
 * [2024-05-12, 16:23:04](https://news.ycombinator.com/item?id=40335599) - [Yi 1.5](https://github.com/01-ai/Yi-1.5)
 * [2024-05-12, 16:02:57](https://news.ycombinator.com/item?id=40335472) - [Zero Feet: a proposal for a systems-free Lisp](https://applied-langua.ge/posts/zero-feet.html)
