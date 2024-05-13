@@ -1,52 +1,12 @@
 [
   [
     [
-      "2024-05-13, 10:35:16",
-      "https://news.ycombinator.com/item?id=40341610"
-    ],
-    [
-      "Bird flu in cattle: is cow's milk safe to drink?",
-      "https://www.bbc.com/future/article/20240510-bird-flu-in-cows-has-caused-concern-amongst-milk-drinkers-experts-say-its-still-safe-to-drink"
-    ]
-  ],
-  [
-    [
-      "2024-05-13, 10:14:03",
-      "https://news.ycombinator.com/item?id=40341518"
-    ],
-    [
-      "Intel reduces latencies of chat LLM app using quantisation",
-      "https://community.intel.com/t5/Blogs/Tech-Innovation/Cloud/bg-p/blog-cloud/spr-xeon-gen-ai-ml-part3.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-13, 10:02:24",
-      "https://news.ycombinator.com/item?id=40341454"
-    ],
-    [
-      "Sleep does not help brain wash out toxins, study suggests",
-      "https://www.theguardian.com/science/article/2024/may/13/sleep-does-not-help-brain-wash-out-toxins-study-suggests"
-    ]
-  ],
-  [
-    [
       "2024-05-13, 08:18:47",
       "https://news.ycombinator.com/item?id=40340901"
     ],
     [
       "Show HN: Boxwood – simple templating engine for JavaScript, in JavaScript",
       "https://github.com/buxlabs/boxwood"
-    ]
-  ],
-  [
-    [
-      "2024-05-13, 08:01:55",
-      "https://news.ycombinator.com/item?id=40340805"
-    ],
-    [
-      "eu/acc",
-      "https://eu-acc.com/"
     ]
   ],
   [
@@ -77,16 +37,6 @@
     [
       "The Death of a Mnemonist",
       "https://www.historytoday.com/archive/months-past/death-mnemonist"
-    ]
-  ],
-  [
-    [
-      "2024-05-13, 05:24:21",
-      "https://news.ycombinator.com/item?id=40340055"
-    ],
-    [
-      "State actor blamed for cyberattack on B.C. government systems",
-      "https://www.cbc.ca/news/canada/british-columbia/bc-government-cyberattack-state-actor-1.7200735"
     ]
   ],
   [
@@ -131,6 +81,16 @@
   ],
   [
     [
+      "2024-05-12, 23:02:52",
+      "https://news.ycombinator.com/item?id=40338241"
+    ],
+    [
+      "Did GitHub Copilot increase my productivity?",
+      "https://trace.yshui.dev/2024-05-copilot.html#did-github-copilot-really-increase-my-productivity"
+    ]
+  ],
+  [
+    [
       "2024-05-12, 22:47:09",
       "https://news.ycombinator.com/item?id=40338152"
     ],
@@ -167,6 +127,16 @@
     [
       "The Alternative Implementation Problem",
       "https://pointersgonewild.com/2024/04/20/the-alternative-implementation-problem/"
+    ]
+  ],
+  [
+    [
+      "2024-05-12, 18:55:39",
+      "https://news.ycombinator.com/item?id=40336609"
+    ],
+    [
+      "Professional Corner-Cutting (2016)",
+      "https://blog.ometer.com/2016/05/04/professional-corner-cutting/"
     ]
   ],
   [
@@ -291,12 +261,42 @@
   ],
   [
     [
+      "2024-05-11, 18:31:38",
+      "https://news.ycombinator.com/item?id=40329804"
+    ],
+    [
+      "Solving Recurrence Relations",
+      "https://win-vector.com/2024/05/09/solving-recurrence-relations/"
+    ]
+  ],
+  [
+    [
       "2024-05-11, 13:11:59",
       "https://news.ycombinator.com/item?id=40327837"
     ],
     [
       "Dymaxion Car",
       "https://en.wikipedia.org/wiki/Dymaxion_car"
+    ]
+  ],
+  [
+    [
+      "2024-05-11, 06:05:24",
+      "https://news.ycombinator.com/item?id=40326313"
+    ],
+    [
+      "Assembly",
+      "https://assembly.louve.systems/"
+    ]
+  ],
+  [
+    [
+      "2024-05-09, 23:00:55",
+      "https://news.ycombinator.com/item?id=40313792"
+    ],
+    [
+      "A Record of Old Kashgar",
+      "https://chinabooksreview.com/2024/05/09/a-record-of-old-kashgar/"
     ]
   ]
 ]
