@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-13](index.md)
 
+* [2024-05-13, 17:28:45](https://news.ycombinator.com/item?id=40345785) - [GPT-4o and more tools to ChatGPT free users](https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free/)
+* [2024-05-13, 17:28:00](https://news.ycombinator.com/item?id=40345775) - [GPT-4o](https://openai.com/index/hello-gpt-4o/)
+* [2024-05-13, 17:09:46](https://news.ycombinator.com/item?id=40345552) - [Good, Kind, Caring People Became the Bad Guys](https://www.okdoomer.io/thebadguys/)
 * [2024-05-13, 17:08:23](https://news.ycombinator.com/item?id=40345526) - [OpenAI launches new AI model and desktop version of ChatGPT](https://www.cnbc.com/2024/05/13/openai-launches-new-ai-model-and-desktop-version-of-chatgpt.html)
 * [2024-05-13, 17:02:12](https://news.ycombinator.com/item?id=40345460) - [Activeloop (YC S18) Hiring a Senior C++ Engineer with Data Streaming Experience](https://www.notion.so/activeloop/Careers-Activeloop-9dad048520b6452e8954830d61250c5a)
 * [2024-05-13, 16:40:53](https://news.ycombinator.com/item?id=40345213) - [MIT 6.S191: Convolutional Neural Networks [video]](https://www.youtube.com/watch?v=2xqkSUhmmXU)
@@ -15,6 +18,7 @@
 * [2024-05-13, 16:06:30](https://news.ycombinator.com/item?id=40344837) - [Mojo: Ownership and lifetime checks deep dive with Chris Lattner [video]](https://www.youtube.com/watch?v=9ag0fPMmYPQ)
 * [2024-05-13, 16:05:49](https://news.ycombinator.com/item?id=40344829) - [In-Flight Entertainment: Introducing Travel Mode for Meta Quest 2 and 3](https://www.meta.com/en-gb/blog/quest/travel-mode-lufthansa-airplane-flight-entertainment/)
 * [2024-05-13, 15:56:01](https://news.ycombinator.com/item?id=40344729) - [My Mother's Letters Should Belong to Me – Not a Company That Works with Prisons](https://truthout.org/articles/my-mothers-letters-should-belong-to-me-not-a-company-that-works-with-prisons/)
+* [2024-05-13, 15:42:12](https://news.ycombinator.com/item?id=40344581) - [GxHash is a fast and robust non-cryptographic hashing algorithm](https://github.com/ogxd/gxhash)
 * [2024-05-13, 15:39:50](https://news.ycombinator.com/item?id=40344554) - [The rage epidemic: is our modern world fuelling aggression?](https://www.theguardian.com/science/article/2024/may/12/road-rage-epidemic-peter-abbott-abuse-fury)
 * [2024-05-13, 15:31:00](https://news.ycombinator.com/item?id=40344452) - [Venture Capitalists Are Using Podcasts to Lure in Founders](https://www.vanityfair.com/news/story/venture-capitalists-using-podcasts-lure-founders)
 * [2024-05-13, 15:30:39](https://news.ycombinator.com/item?id=40344448) - [RFC 9562: Universally Unique IDentifiers (May 2024)](https://www.rfc-editor.org/rfc/rfc9562.html)

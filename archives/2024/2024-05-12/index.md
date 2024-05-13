@@ -63,6 +63,7 @@
 * [2024-05-12, 12:13:16](https://news.ycombinator.com/item?id=40333800) - [Tesla FSD head to head against Mercedes Driver Assist on the same road [video]](https://www.youtube.com/watch?v=h3WiY_4kgkE)
 * [2024-05-12, 12:01:47](https://news.ycombinator.com/item?id=40333738) - [Alibaba's Yitian 710 is quickest server CPU but it is based on Arm](https://www.techradar.com/pro/chinese-server-cpu-beats-microsoft-google-and-aws-rivals-to-grab-performance-crown-alibabas-yitian-710-is-quickest-server-cpu-but-it-is-based-on-arm-rather-than-risc-and-x86-is-likely-to-be-the-overall-speed-champion)
 * [2024-05-12, 12:01:21](https://news.ycombinator.com/item?id=40333733) - [UpCodes (YC S17) is hiring remote SWEs, PMs to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
+* [2024-05-12, 11:37:11](https://news.ycombinator.com/item?id=40333584) - [Overbite Project: Why still use Gopher? What makes Gopher relevant?](https://gopher.floodgap.com/overbite/relevance.html)
 * [2024-05-12, 11:17:45](https://news.ycombinator.com/item?id=40333500) - [Show HN: es6_maps, new Elixir syntax feature via runtime compiler hacking](https://github.com/kzemek/es6_maps)
 * [2024-05-12, 11:11:50](https://news.ycombinator.com/item?id=40333481) - [Show HN: Making GNU Make a better Task Runner](https://github.com/mitjafelicijan/makext)
 * [2024-05-12, 11:08:20](https://news.ycombinator.com/item?id=40333471) - [23% of bachelor's degrees and 43% of master's degrees have a negative ROI](https://reason.com/2024/05/10/nearly-half-of-all-masters-degrees-arent-worth-getting/)
