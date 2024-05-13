@@ -8,6 +8,7 @@
 * [2024-05-13, 17:28:45](https://news.ycombinator.com/item?id=40345785) - [GPT-4o and more tools to ChatGPT free users](https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free/)
 * [2024-05-13, 17:28:00](https://news.ycombinator.com/item?id=40345775) - [GPT-4o](https://openai.com/index/hello-gpt-4o/)
 * [2024-05-13, 17:21:14](https://news.ycombinator.com/item?id=40345696) - [Show HN: An open source framework for voice assistants](https://github.com/pipecat-ai/pipecat)
+* [2024-05-13, 17:16:54](https://news.ycombinator.com/item?id=40345654) - [Deblur-GS: 3D Gaussian Splatting from Camera Motion Blurred Images](https://chaphlagical.icu/Deblur-GS/)
 * [2024-05-13, 17:16:09](https://news.ycombinator.com/item?id=40345641) - [A global plastic treaty will only work if it caps production, modeling shows](https://phys.org/news/2024-05-global-plastic-treaty-caps-production.html)
 * [2024-05-13, 17:14:50](https://news.ycombinator.com/item?id=40345627) - [Discord has been using ML to determine the gender and age of some of its users](https://twitter.com/DiscordPreviews/status/1790065494432608432)
 * [2024-05-13, 17:12:48](https://news.ycombinator.com/item?id=40345596) - [Raspberry Pi CM5 seen in the wild](https://twitter.com/xoseperez/status/1790031351443341357)

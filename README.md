@@ -2,10 +2,10 @@
 
 * [2024-05-13, 17:28:00](https://news.ycombinator.com/item?id=40345775) - [GPT-4o](https://openai.com/index/hello-gpt-4o/)
 * [2024-05-13, 17:21:14](https://news.ycombinator.com/item?id=40345696) - [Show HN: An open source framework for voice assistants](https://github.com/pipecat-ai/pipecat)
+* [2024-05-13, 17:16:54](https://news.ycombinator.com/item?id=40345654) - [Deblur-GS: 3D Gaussian Splatting from Camera Motion Blurred Images](https://chaphlagical.icu/Deblur-GS/)
 * [2024-05-13, 17:16:09](https://news.ycombinator.com/item?id=40345641) - [A global plastic treaty will only work if it caps production, modeling shows](https://phys.org/news/2024-05-global-plastic-treaty-caps-production.html)
 * [2024-05-13, 17:14:50](https://news.ycombinator.com/item?id=40345627) - [Discord has been using ML to determine the gender and age of some of its users](https://twitter.com/DiscordPreviews/status/1790065494432608432)
 * [2024-05-13, 17:12:48](https://news.ycombinator.com/item?id=40345596) - [Raspberry Pi CM5 seen in the wild](https://twitter.com/xoseperez/status/1790031351443341357)
-* [2024-05-13, 17:09:46](https://news.ycombinator.com/item?id=40345552) - [Good, Kind, Caring People Became the Bad Guys](https://www.okdoomer.io/thebadguys/)
 * [2024-05-13, 17:07:47](https://news.ycombinator.com/item?id=40345521) - [Space Junk Removal Is Not Going Smoothly (2021)](https://www.scientificamerican.com/article/space-junk-removal-is-not-going-smoothly/)
 * [2024-05-13, 17:02:12](https://news.ycombinator.com/item?id=40345460) - [Activeloop (YC S18) Hiring a Senior C++ Engineer with Data Streaming Experience](https://www.notion.so/activeloop/Careers-Activeloop-9dad048520b6452e8954830d61250c5a)
 * [2024-05-13, 16:18:36](https://news.ycombinator.com/item?id=40344960) - [Ruby 3.4, No More TypeError with **Nil as It Is Treated as an Empty Hash](https://blog.saeloun.com/2024/05/13/ruby-3-4-no-more-type-error-with-nil/)
