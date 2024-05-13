@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-13, 13:40:14](https://news.ycombinator.com/item?id=40343254) - [Micron Ships Crucial-Branded LPCAMM2 Memory Modules: 64GB of LPDDR5X for $330](https://www.anandtech.com/show/21390/micron-ships-crucialbranded-lpcamm2-memory-modules)
 * [2024-05-13, 13:17:31](https://news.ycombinator.com/item?id=40343006) - [Squarespace to Go Private in $6.9B All-Cash Transaction with Permira](https://investors.squarespace.com/news-events-financials/investor-news/news-details/2024/Squarespace-to-Go-Private-in-6.9B-All-Cash-Transaction-with-Permira/default.aspx)
 * [2024-05-13, 12:32:41](https://news.ycombinator.com/item?id=40342578) - [The USDA's gardening zones shifted, this map shows you what's changed](https://apps.npr.org/plant-hardiness-garden-map/)
-* [2024-05-13, 12:31:03](https://news.ycombinator.com/item?id=40342557) - [Commercial Space Stations Approach Launch Phase](https://spectrum.ieee.org/space-station-orbital-reef)
 * [2024-05-13, 12:00:32](https://news.ycombinator.com/item?id=40342299) - [MixRank (YC S11) Is Hiring Software Engineers and Founders Globally](https://news.ycombinator.com/item?id=40342299)
 * [2024-05-13, 11:49:28](https://news.ycombinator.com/item?id=40342188) - [It's an Age of Marvels](https://blog.plover.com/tech/its-an-age-of-marvels.html)
 * [2024-05-13, 11:38:15](https://news.ycombinator.com/item?id=40342075) - [The Worst Outcome Is a Mediocre Success](https://pivotal.substack.com/p/the-worst-outcome-is-a-mediocre-success)
