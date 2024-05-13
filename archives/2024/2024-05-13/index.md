@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-13](index.md)
 
+* [2024-05-13, 11:15:47](https://news.ycombinator.com/item?id=40341877) - [Solar storms are disrupting farmer GPS systems](https://www.theverge.com/2024/5/12/24154779/solar-storms-farmer-gps-john-deer)
+* [2024-05-13, 10:49:58](https://news.ycombinator.com/item?id=40341716) - [Telegram has launched a pretty intense campaign to malign Signal as insecure](https://twitter.com/matthew_d_green/status/1789687898863792453)
 * [2024-05-13, 10:35:16](https://news.ycombinator.com/item?id=40341610) - [Bird flu in cattle: is cow's milk safe to drink?](https://www.bbc.com/future/article/20240510-bird-flu-in-cows-has-caused-concern-amongst-milk-drinkers-experts-say-its-still-safe-to-drink)
 * [2024-05-13, 10:14:03](https://news.ycombinator.com/item?id=40341518) - [Intel reduces latencies of chat LLM app using quantisation](https://community.intel.com/t5/Blogs/Tech-Innovation/Cloud/bg-p/blog-cloud/spr-xeon-gen-ai-ml-part3.html)
 * [2024-05-13, 10:02:24](https://news.ycombinator.com/item?id=40341454) - [Sleep does not help brain wash out toxins, study suggests](https://www.theguardian.com/science/article/2024/may/13/sleep-does-not-help-brain-wash-out-toxins-study-suggests)
