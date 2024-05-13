@@ -55,6 +55,7 @@
 * [2024-05-12, 13:08:32](https://news.ycombinator.com/item?id=40334153) - [Temporal – Good Things Happen](https://recife.pfeodrippe.com/notebooks/recife/notebook/temporal.html)
 * [2024-05-12, 13:01:42](https://news.ycombinator.com/item?id=40334102) - [America is in the midst of an extraordinary startup boom](https://www.economist.com/finance-and-economics/2024/05/12/america-is-in-the-midst-of-an-extraordinary-startup-boom)
 * [2024-05-12, 12:49:55](https://news.ycombinator.com/item?id=40334011) - [RAG with PostgreSQL](https://pgdash.io/blog/rag-with-postgresql.html?p)
+* [2024-05-12, 12:48:36](https://news.ycombinator.com/item?id=40334003) - [The Art of Using a Paper Notebook in App Development](https://medium.com/@gmobile2022/the-art-of-using-a-paper-notebook-in-app-development-7de3bcc07b7e)
 * [2024-05-12, 12:48:33](https://news.ycombinator.com/item?id=40334002) - [Stack Exchange Data Dump [Archive]](https://archive.org/details/stackexchange)
 * [2024-05-12, 12:47:10](https://news.ycombinator.com/item?id=40333991) - [Google gave investors a $70B buyback,and laid off 12,000 people](https://twitter.com/DanPriceSeattle/status/1788965895832039913)
 * [2024-05-12, 12:31:07](https://news.ycombinator.com/item?id=40333901) - [Small reactors don't add up as a viable energy source](https://cosmosmagazine.com/science/engineering/small-reactors-dont-add-up/)
