@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-05-13](index.md)
 
+* [2024-05-13, 15:39:50](https://news.ycombinator.com/item?id=40344554) - [The rage epidemic: is our modern world fuelling aggression?](https://www.theguardian.com/science/article/2024/may/12/road-rage-epidemic-peter-abbott-abuse-fury)
 * [2024-05-13, 15:31:00](https://news.ycombinator.com/item?id=40344452) - [Venture Capitalists Are Using Podcasts to Lure in Founders](https://www.vanityfair.com/news/story/venture-capitalists-using-podcasts-lure-founders)
 * [2024-05-13, 15:17:26](https://news.ycombinator.com/item?id=40344302) - [Falcon 2](https://www.tii.ae/news/falcon-2-uaes-technology-innovation-institute-releases-new-ai-model-series-outperforming-metas)
+* [2024-05-13, 14:46:07](https://news.ycombinator.com/item?id=40343950) - [OpenAI Spring Update [video]](https://www.youtube.com/watch?v=DQacCB9tDaw)
 * [2024-05-13, 14:05:13](https://news.ycombinator.com/item?id=40343538) - [Biggest CPU for the Bad System](https://old.reddit.com/r/sysadmin/comments/1cqn3qa/whats_the_biggest_cpu_core_physical_server_i_can/)
+* [2024-05-13, 13:58:51](https://news.ycombinator.com/item?id=40343460) - [GameStop shares soar 110% and are halted as trader 'Roaring Kitty' resurfaces](https://www.cnbc.com/2024/05/13/gme-jumps-as-trader-roaring-kitty-who-drove-meme-craze-posts-again.html)
 * [2024-05-13, 13:47:37](https://news.ycombinator.com/item?id=40343333) - [Doom didn't kill the Amiga. Wolfenstein 3D did [video]](https://www.youtube.com/watch?v=wsADJa-23Sg)
 * [2024-05-13, 13:40:14](https://news.ycombinator.com/item?id=40343254) - [Micron Ships Crucial-Branded LPCAMM2 Memory Modules: 64GB of LPDDR5X for $330](https://www.anandtech.com/show/21390/micron-ships-crucialbranded-lpcamm2-memory-modules)
 * [2024-05-13, 13:17:31](https://news.ycombinator.com/item?id=40343006) - [Squarespace to Go Private in $6.9B All-Cash Transaction with Permira](https://investors.squarespace.com/news-events-financials/investor-news/news-details/2024/Squarespace-to-Go-Private-in-6.9B-All-Cash-Transaction-with-Permira/default.aspx)
