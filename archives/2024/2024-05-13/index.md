@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-05-13](index.md)
 
+* [2024-05-13, 17:08:23](https://news.ycombinator.com/item?id=40345526) - [OpenAI launches new AI model and desktop version of ChatGPT](https://www.cnbc.com/2024/05/13/openai-launches-new-ai-model-and-desktop-version-of-chatgpt.html)
 * [2024-05-13, 17:02:12](https://news.ycombinator.com/item?id=40345460) - [Activeloop (YC S18) Hiring a Senior C++ Engineer with Data Streaming Experience](https://www.notion.so/activeloop/Careers-Activeloop-9dad048520b6452e8954830d61250c5a)
 * [2024-05-13, 16:40:53](https://news.ycombinator.com/item?id=40345213) - [MIT 6.S191: Convolutional Neural Networks [video]](https://www.youtube.com/watch?v=2xqkSUhmmXU)
 * [2024-05-13, 16:33:54](https://news.ycombinator.com/item?id=40345139) - [Autonomous F-16 Fighters Are 'Roughly Even' with Human Pilots](https://nationalinterest.org/blog/buzz/autonomous-f-16-fighters-are-%E2%80%98roughly-even%E2%80%99-human-pilots-said-air-force-chief-210974)
 * [2024-05-13, 16:26:28](https://news.ycombinator.com/item?id=40345049) - [One bank's brilliant upgrade was another bank's crash](https://www.theregister.com/2024/05/13/who_me/)
+* [2024-05-13, 16:23:02](https://news.ycombinator.com/item?id=40345006) - [Decline of search engines hits research](https://www.timeshighereducation.com/blog/search-engines-are-failing-research-methods-classes-need-catch)
+* [2024-05-13, 16:17:20](https://news.ycombinator.com/item?id=40344946) - [Unix version control lore: what, ident – Tony Finch](https://dotat.at/@/2024-05-13-what-ident.html)
 * [2024-05-13, 16:09:04](https://news.ycombinator.com/item?id=40344868) - [Broad Public Support for Legal Abortion Persists 2 Years After Dobbs](https://www.pewresearch.org/politics/2024/05/13/broad-public-support-for-legal-abortion-persists-2-years-after-dobbs/)
 * [2024-05-13, 16:06:30](https://news.ycombinator.com/item?id=40344837) - [Mojo: Ownership and lifetime checks deep dive with Chris Lattner [video]](https://www.youtube.com/watch?v=9ag0fPMmYPQ)
 * [2024-05-13, 16:05:49](https://news.ycombinator.com/item?id=40344829) - [In-Flight Entertainment: Introducing Travel Mode for Meta Quest 2 and 3](https://www.meta.com/en-gb/blog/quest/travel-mode-lufthansa-airplane-flight-entertainment/)
