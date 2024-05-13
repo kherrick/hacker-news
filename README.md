@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-13, 07:00:10](https://news.ycombinator.com/item?id=40340450) - [Meticulous (YC S21) Is Hiring to Eliminate E2E UI Tests](https://news.ycombinator.com/item?id=40340450)
+* [2024-05-13, 06:20:02](https://news.ycombinator.com/item?id=40340292) - [NPM package is-even has over 140k weekly downloads](https://www.npmjs.com/package/is-even)
 * [2024-05-13, 05:24:21](https://news.ycombinator.com/item?id=40340055) - [State actor blamed for cyberattack on B.C. government systems](https://www.cbc.ca/news/canada/british-columbia/bc-government-cyberattack-state-actor-1.7200735)
 * [2024-05-13, 05:12:54](https://news.ycombinator.com/item?id=40339998) - [GNU LibreJS: blocks JavaScript traps](https://www.gnu.org/software/librejs/)
 * [2024-05-13, 04:10:37](https://news.ycombinator.com/item?id=40339723) - [PicoMEM by FreddyV – All in One 8-Bit ISA Expansion Card](https://texelec.com/product/picomem/)
@@ -12,7 +14,6 @@
 * [2024-05-12, 22:47:09](https://news.ycombinator.com/item?id=40338152) - [Feynman Symbolic Regression Database](https://space.mit.edu/home/tegmark/aifeynman.html)
 * [2024-05-12, 22:05:58](https://news.ycombinator.com/item?id=40337936) - [GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
 * [2024-05-12, 22:05:30](https://news.ycombinator.com/item?id=40337933) - [I built an online PDF management platform using open-source software](https://www.pdfequips.com/)
-* [2024-05-12, 21:03:02](https://news.ycombinator.com/item?id=40337555) - [Eventual (YC W22) Is Hiring Software Engineers to Build a Query Engine in Rust](https://jobs.ashbyhq.com/eventualcomputing?utm_source=Ox4R0k6rPN)
 * [2024-05-12, 19:49:05](https://news.ycombinator.com/item?id=40337036) - [The Alternative Implementation Problem](https://pointersgonewild.com/2024/04/20/the-alternative-implementation-problem/)
 * [2024-05-12, 18:55:39](https://news.ycombinator.com/item?id=40336609) - [Professional Corner-Cutting (2016)](https://blog.ometer.com/2016/05/04/professional-corner-cutting/)
 * [2024-05-12, 18:54:44](https://news.ycombinator.com/item?id=40336602) - [Styles of Furniture](https://blog.lostartpress.com/2024/05/05/the-styles-of-furniture/)
@@ -26,7 +27,6 @@
 * [2024-05-12, 06:27:34](https://news.ycombinator.com/item?id=40332586) - [A Slower Speed of Light (2012)](http://gamelab.mit.edu/games/a-slower-speed-of-light/)
 * [2024-05-11, 18:31:38](https://news.ycombinator.com/item?id=40329804) - [Solving Recurrence Relations](https://win-vector.com/2024/05/09/solving-recurrence-relations/)
 * [2024-05-11, 13:11:59](https://news.ycombinator.com/item?id=40327837) - [Dymaxion Car](https://en.wikipedia.org/wiki/Dymaxion_car)
-* [2024-05-11, 12:26:03](https://news.ycombinator.com/item?id=40327652) - [Pattern Forms](https://wiki.c2.com/?PatternForms)
 * [2024-05-11, 06:05:24](https://news.ycombinator.com/item?id=40326313) - [Assembly](https://assembly.louve.systems/)
 * [2024-05-10, 18:28:07](https://news.ycombinator.com/item?id=40322267) - [Scientists Find an 'Alphabet' in Whale Songs](https://www.nytimes.com/2024/05/07/science/whale-song-alphabet.html)
 * [2024-05-09, 23:00:55](https://news.ycombinator.com/item?id=40313792) - [A Record of Old Kashgar](https://chinabooksreview.com/2024/05/09/a-record-of-old-kashgar/)
