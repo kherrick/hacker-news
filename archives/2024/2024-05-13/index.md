@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-13](index.md)
 
+* [2024-05-13, 13:17:31](https://news.ycombinator.com/item?id=40343006) - [Squarespace to Go Private in $6.9B All-Cash Transaction with Permira](https://investors.squarespace.com/news-events-financials/investor-news/news-details/2024/Squarespace-to-Go-Private-in-6.9B-All-Cash-Transaction-with-Permira/default.aspx)
 * [2024-05-13, 12:32:41](https://news.ycombinator.com/item?id=40342578) - [The USDA's gardening zones shifted, this map shows you what's changed](https://apps.npr.org/plant-hardiness-garden-map/)
 * [2024-05-13, 12:31:03](https://news.ycombinator.com/item?id=40342557) - [Commercial Space Stations Approach Launch Phase](https://spectrum.ieee.org/space-station-orbital-reef)
 * [2024-05-13, 12:29:48](https://news.ycombinator.com/item?id=40342541) - [Outdoor time is good for kids' eyesight](https://text.npr.org/1250555639)

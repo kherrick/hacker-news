@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-13, 13:17:31](https://news.ycombinator.com/item?id=40343006) - [Squarespace to Go Private in $6.9B All-Cash Transaction with Permira](https://investors.squarespace.com/news-events-financials/investor-news/news-details/2024/Squarespace-to-Go-Private-in-6.9B-All-Cash-Transaction-with-Permira/default.aspx)
 * [2024-05-13, 12:32:41](https://news.ycombinator.com/item?id=40342578) - [The USDA's gardening zones shifted, this map shows you what's changed](https://apps.npr.org/plant-hardiness-garden-map/)
 * [2024-05-13, 12:31:03](https://news.ycombinator.com/item?id=40342557) - [Commercial Space Stations Approach Launch Phase](https://spectrum.ieee.org/space-station-orbital-reef)
 * [2024-05-13, 12:00:32](https://news.ycombinator.com/item?id=40342299) - [MixRank (YC S11) Is Hiring Software Engineers and Founders Globally](https://news.ycombinator.com/item?id=40342299)
 * [2024-05-13, 11:49:28](https://news.ycombinator.com/item?id=40342188) - [It's an Age of Marvels](https://blog.plover.com/tech/its-an-age-of-marvels.html)
 * [2024-05-13, 11:38:15](https://news.ycombinator.com/item?id=40342075) - [The Worst Outcome Is a Mediocre Success](https://pivotal.substack.com/p/the-worst-outcome-is-a-mediocre-success)
-* [2024-05-13, 11:15:47](https://news.ycombinator.com/item?id=40341877) - [Solar storms are disrupting farmer GPS systems](https://www.theverge.com/2024/5/12/24154779/solar-storms-farmer-gps-john-deer)
 * [2024-05-13, 08:18:47](https://news.ycombinator.com/item?id=40340901) - [Show HN: Boxwood – simple templating engine for JavaScript, in JavaScript](https://github.com/buxlabs/boxwood)
 * [2024-05-13, 07:33:57](https://news.ycombinator.com/item?id=40340642) - [Protecting your email address via SVG instead of JavaScript](https://rouninmedia.github.io/protecting-your-email-address-via-svg-instead-of-js/)
 * [2024-05-13, 06:26:46](https://news.ycombinator.com/item?id=40340316) - [The Death of a Mnemonist](https://www.historytoday.com/archive/months-past/death-mnemonist)
