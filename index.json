@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-05-13, 22:12:55",
+      "https://news.ycombinator.com/item?id=40349145"
+    ],
+    [
+      "Towards Accurate and Efficient Document Analytics with Large Language Models",
+      "https://arxiv.org/abs/2405.04674"
+    ]
+  ],
+  [
+    [
+      "2024-05-13, 21:54:53",
+      "https://news.ycombinator.com/item?id=40348957"
+    ],
+    [
+      "Intel announces the Aurora supercomputer has broken the exascale barrier",
+      "https://www.intel.com/content/www/us/en/newsroom/news/intel-powered-aurora-supercomputer-breaks-exascale-barrier.html"
+    ]
+  ],
+  [
+    [
       "2024-05-13, 21:28:13",
       "https://news.ycombinator.com/item?id=40348711"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2024-05-13, 16:43:21",
-      "https://news.ycombinator.com/item?id=40345250"
-    ],
-    [
-      "A list of open source games",
-      "https://github.com/bobeff/open-source-games"
-    ]
-  ],
-  [
-    [
       "2024-05-13, 16:17:20",
       "https://news.ycombinator.com/item?id=40344946"
     ],
@@ -277,16 +287,6 @@
     [
       "GNU LibreJS: blocks JavaScript traps",
       "https://www.gnu.org/software/librejs/"
-    ]
-  ],
-  [
-    [
-      "2024-05-12, 22:05:58",
-      "https://news.ycombinator.com/item?id=40337936"
-    ],
-    [
-      "GPUs Go Brrr",
-      "https://hazyresearch.stanford.edu/blog/2024-05-12-tk"
     ]
   ],
   [
