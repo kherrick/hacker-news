@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-13](index.md)
 
+* [2024-05-13, 22:12:55](https://news.ycombinator.com/item?id=40349145) - [Towards Accurate and Efficient Document Analytics with Large Language Models](https://arxiv.org/abs/2405.04674)
+* [2024-05-13, 21:54:53](https://news.ycombinator.com/item?id=40348957) - [Intel announces the Aurora supercomputer has broken the exascale barrier](https://www.intel.com/content/www/us/en/newsroom/news/intel-powered-aurora-supercomputer-breaks-exascale-barrier.html)
 * [2024-05-13, 21:28:13](https://news.ycombinator.com/item?id=40348711) - [Companies Say They're Using Microphone Audio to Target Ads [audio]](https://open.spotify.com/episode/5gdoHM1v4hyXOWKHWPSTFF)
 * [2024-05-13, 21:24:02](https://news.ycombinator.com/item?id=40348648) - [Tired of Makefiles](https://dmitryfrank.com/blog/2016/1211_i_am_tired_of_makefiles)
 * [2024-05-13, 21:14:54](https://news.ycombinator.com/item?id=40348531) - [Unitree G1 Humanoid Agent](https://www.unitree.com/g1/)
