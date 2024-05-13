@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-13, 17:29:10](https://news.ycombinator.com/item?id=40345790) - [Melinda Gates Resigns from Bill and Melinda Gates Foundation](https://www.seattletimes.com/seattle-news/melinda-french-gates-resigns-from-bill-melinda-gates-foundation/)
-* [2024-05-13, 17:28:45](https://news.ycombinator.com/item?id=40345785) - [GPT-4o and more tools to ChatGPT free users](https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free/)
 * [2024-05-13, 17:28:00](https://news.ycombinator.com/item?id=40345775) - [GPT-4o](https://openai.com/index/hello-gpt-4o/)
+* [2024-05-13, 17:14:50](https://news.ycombinator.com/item?id=40345627) - [Discord has been using ML to determine the gender and age of some of its users](https://twitter.com/DiscordPreviews/status/1790065494432608432)
 * [2024-05-13, 17:09:46](https://news.ycombinator.com/item?id=40345552) - [Good, Kind, Caring People Became the Bad Guys](https://www.okdoomer.io/thebadguys/)
 * [2024-05-13, 17:08:23](https://news.ycombinator.com/item?id=40345526) - [OpenAI launches new AI model and desktop version of ChatGPT](https://www.cnbc.com/2024/05/13/openai-launches-new-ai-model-and-desktop-version-of-chatgpt.html)
 * [2024-05-13, 17:02:12](https://news.ycombinator.com/item?id=40345460) - [Activeloop (YC S18) Hiring a Senior C++ Engineer with Data Streaming Experience](https://www.notion.so/activeloop/Careers-Activeloop-9dad048520b6452e8954830d61250c5a)
