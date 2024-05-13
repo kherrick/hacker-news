@@ -7,6 +7,7 @@
 * [2024-05-13, 03:15:03](https://news.ycombinator.com/item?id=40339480) - [Elon Musk: Threat Or Menace? Part 5](https://blog.dshr.org/2024/05/elon-musk-threat-or-menace-part-5.html)
 * [2024-05-13, 03:00:10](https://news.ycombinator.com/item?id=40339415) - [Fort Worth's tallest building sells for $12.3M, bought for $137.5M in 2021](https://www.foxbusiness.com/real-estate/fort-worths-tallest-building-sells-just-12-3m-auction-stunning-price-drop)
 * [2024-05-13, 02:59:38](https://news.ycombinator.com/item?id=40339412) - [You Can Set Up a Home Security Camera System Without Using the Cloud](https://lifehacker.com/tech/how-to-set-up-a-home-security-camera-system-without-using-the-cloud)
+* [2024-05-13, 02:56:43](https://news.ycombinator.com/item?id=40339405) - [Show HN: CarCheck – Car Buying Checklist App](https://usefulchecklists.com/)
 * [2024-05-13, 02:07:52](https://news.ycombinator.com/item?id=40339204) - [An introduction to advanced Rust traits and generics](https://www.shuttle.rs/blog/2024/04/18/using-traits-generics-rust)
 * [2024-05-13, 01:22:35](https://news.ycombinator.com/item?id=40338967) - [Open Source YouTube to MP3 Downloader](https://github.com/PackJC/YoutubeToMP3)
 * [2024-05-13, 01:15:39](https://news.ycombinator.com/item?id=40338929) - [M4 near 4000/15000 in Geekbench 6](https://browser.geekbench.com/v6/cpu/6063686)
