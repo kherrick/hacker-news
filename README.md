@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-13, 21:28:13](https://news.ycombinator.com/item?id=40348711) - [Companies Say They're Using Microphone Audio to Target Ads [audio]](https://open.spotify.com/episode/5gdoHM1v4hyXOWKHWPSTFF)
+* [2024-05-13, 21:28:13](https://news.ycombinator.com/item?id=40348711) - [Companies Say They're Using Microphone Audio to Target Ads [audio] (2023)](https://open.spotify.com/episode/5gdoHM1v4hyXOWKHWPSTFF)
+* [2024-05-13, 21:24:02](https://news.ycombinator.com/item?id=40348648) - [Tired of Makefiles](https://dmitryfrank.com/blog/2016/1211_i_am_tired_of_makefiles)
 * [2024-05-13, 21:09:31](https://news.ycombinator.com/item?id=40348459) - [New Earliest Emoji Sets from 1988 and 1990 Uncovered](https://blog.emojipedia.org/new-earliest-emoji-sets-from-1988-and-1990-uncovered/)
 * [2024-05-13, 21:01:49](https://news.ycombinator.com/item?id=40348371) - [Release of Fugaku-LLM – a large language model trained on supercomputer Fugaku](https://www.fujitsu.com/global/about/resources/news/press-releases/2024/0510-01.html)
 * [2024-05-13, 21:00:07](https://news.ycombinator.com/item?id=40348356) - [Svix (YC W21) Is Hiring a Product Marketing Manager (US Remote)](https://www.svix.com/careers/)
@@ -27,7 +28,6 @@
 * [2024-05-13, 07:33:57](https://news.ycombinator.com/item?id=40340642) - [Protecting your email address via SVG instead of JavaScript](https://rouninmedia.github.io/protecting-your-email-address-via-svg-instead-of-js/)
 * [2024-05-13, 06:05:09](https://news.ycombinator.com/item?id=40340220) - [Fifteen Fundamental Properties](https://camillovisini.com/writing/fifteen-fundamental-properties)
 * [2024-05-13, 05:12:54](https://news.ycombinator.com/item?id=40339998) - [GNU LibreJS: blocks JavaScript traps](https://www.gnu.org/software/librejs/)
-* [2024-05-12, 22:05:58](https://news.ycombinator.com/item?id=40337936) - [GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
 * [2024-05-12, 11:37:11](https://news.ycombinator.com/item?id=40333584) - [Overbite Project: Why still use Gopher? What makes Gopher relevant?](https://gopher.floodgap.com/overbite/relevance.html)
 * [2024-05-12, 06:27:34](https://news.ycombinator.com/item?id=40332586) - [A Slower Speed of Light (2012)](http://gamelab.mit.edu/games/a-slower-speed-of-light/)
 

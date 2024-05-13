@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-13](index.md)
 
 * [2024-05-13, 21:28:13](https://news.ycombinator.com/item?id=40348711) - [Companies Say They're Using Microphone Audio to Target Ads [audio]](https://open.spotify.com/episode/5gdoHM1v4hyXOWKHWPSTFF)
+* [2024-05-13, 21:24:02](https://news.ycombinator.com/item?id=40348648) - [Tired of Makefiles](https://dmitryfrank.com/blog/2016/1211_i_am_tired_of_makefiles)
 * [2024-05-13, 21:09:31](https://news.ycombinator.com/item?id=40348459) - [New Earliest Emoji Sets from 1988 and 1990 Uncovered](https://blog.emojipedia.org/new-earliest-emoji-sets-from-1988-and-1990-uncovered/)
 * [2024-05-13, 21:01:49](https://news.ycombinator.com/item?id=40348371) - [Release of Fugaku-LLM – a large language model trained on supercomputer Fugaku](https://www.fujitsu.com/global/about/resources/news/press-releases/2024/0510-01.html)
 * [2024-05-13, 21:00:07](https://news.ycombinator.com/item?id=40348356) - [Svix (YC W21) Is Hiring a Product Marketing Manager (US Remote)](https://www.svix.com/careers/)
