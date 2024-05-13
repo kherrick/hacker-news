@@ -59,6 +59,7 @@
 * [2024-05-12, 12:01:47](https://news.ycombinator.com/item?id=40333738) - [Alibaba's Yitian 710 is quickest server CPU but it is based on Arm](https://www.techradar.com/pro/chinese-server-cpu-beats-microsoft-google-and-aws-rivals-to-grab-performance-crown-alibabas-yitian-710-is-quickest-server-cpu-but-it-is-based-on-arm-rather-than-risc-and-x86-is-likely-to-be-the-overall-speed-champion)
 * [2024-05-12, 12:01:21](https://news.ycombinator.com/item?id=40333733) - [UpCodes (YC S17) is hiring remote SWEs, PMs to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
 * [2024-05-12, 11:17:45](https://news.ycombinator.com/item?id=40333500) - [Show HN: es6_maps, new Elixir syntax feature via runtime compiler hacking](https://github.com/kzemek/es6_maps)
+* [2024-05-12, 11:11:50](https://news.ycombinator.com/item?id=40333481) - [Show HN: Making GNU Make a better Task Runner](https://github.com/mitjafelicijan/makext)
 * [2024-05-12, 11:08:20](https://news.ycombinator.com/item?id=40333471) - [23% of bachelor's degrees and 43% of master's degrees have a negative ROI](https://reason.com/2024/05/10/nearly-half-of-all-masters-degrees-arent-worth-getting/)
 * [2024-05-12, 11:02:35](https://news.ycombinator.com/item?id=40333459) - [Energy, not compute, will be the #1 bottleneck to AI progress – Mark Zuckerberg [video]](https://www.youtube.com/watch?v=i-o5YbNfmh0)
 * [2024-05-12, 10:42:02](https://news.ycombinator.com/item?id=40333408) - [Pražský Orloj: Prague astronomical clock simulator. (2022)](https://orloj.org/orloj/)
