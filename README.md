@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-13, 23:14:14](https://news.ycombinator.com/item?id=40349690) - [Australian man says border force made him hand over phone passcode](https://www.theguardian.com/australia-news/article/2024/may/14/australian-man-says-border-force-made-him-hand-over-phone-passcode-by-threatening-to-keep-device-indefinitely)
 * [2024-05-13, 22:33:01](https://news.ycombinator.com/item?id=40349347) - [Not an iPad Pro Review: Why iPadOS Still Doesn't Get the Basics Right](https://www.macstories.net/stories/not-an-ipad-pro-review/)
 * [2024-05-13, 22:12:55](https://news.ycombinator.com/item?id=40349145) - [Towards Accurate and Efficient Document Analytics with Large Language Models](https://arxiv.org/abs/2405.04674)
 * [2024-05-13, 21:54:53](https://news.ycombinator.com/item?id=40348957) - [Intel announces the Aurora supercomputer has broken the exascale barrier](https://www.intel.com/content/www/us/en/newsroom/news/intel-powered-aurora-supercomputer-breaks-exascale-barrier.html)
@@ -28,7 +29,6 @@
 * [2024-05-13, 06:19:22](https://news.ycombinator.com/item?id=40340289) - [Head boy of Surrealism: How André Breton policed a movement for artistic freedom](https://www.the-tls.co.uk/articles/why-surrealism-matters-by-mark-polizzotti-book-review/)
 * [2024-05-13, 06:05:09](https://news.ycombinator.com/item?id=40340220) - [Fifteen Fundamental Properties](https://camillovisini.com/writing/fifteen-fundamental-properties)
 * [2024-05-12, 22:05:58](https://news.ycombinator.com/item?id=40337936) - [GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
-* [2024-05-12, 13:32:01](https://news.ycombinator.com/item?id=40334309) - [The Myth of Loss: Bitboys](https://hardforum.com/threads/bitboys.1973024/)
 * [2024-05-12, 11:37:11](https://news.ycombinator.com/item?id=40333584) - [Overbite Project: Why still use Gopher? What makes Gopher relevant?](https://gopher.floodgap.com/overbite/relevance.html)
 
 ## [Archives](archives/index.md)
