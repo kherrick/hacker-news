@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-05-13](index.md)
 
+* [2024-05-13, 21:01:49](https://news.ycombinator.com/item?id=40348371) - [Release of Fugaku-LLM – a large language model trained on supercomputer Fugaku](https://www.fujitsu.com/global/about/resources/news/press-releases/2024/0510-01.html)
 * [2024-05-13, 21:00:07](https://news.ycombinator.com/item?id=40348356) - [Svix (YC W21) Is Hiring a Product Marketing Manager (US Remote)](https://www.svix.com/careers/)
 * [2024-05-13, 20:56:39](https://news.ycombinator.com/item?id=40348325) - [UK police could get Ghostbusters-style backpack devices to halt ebike getaways](https://www.theguardian.com/uk-news/article/2024/may/13/uk-police-ghostbusters-style-backpack-devices-ebike-getaways)
+* [2024-05-13, 20:52:33](https://news.ycombinator.com/item?id=40348276) - [Dijkstra on real map data with raylib](https://github.com/uysalibov/gezgin)
 * [2024-05-13, 20:08:04](https://news.ycombinator.com/item?id=40347773) - [Encrypted services Apple, Proton and Wire helped police identify activist](https://techcrunch.com/2024/05/08/encrypted-services-apple-proton-and-wire-helped-spanish-police-identify-activist/)
 * [2024-05-13, 19:57:13](https://news.ycombinator.com/item?id=40347624) - [IBM open-sources its Granite AI models – and they mean business](https://www.zdnet.com/article/ibm-open-sources-its-granite-ai-models-and-they-mean-business/)
 * [2024-05-13, 19:30:35](https://news.ycombinator.com/item?id=40347320) - [Math problems with GPT-4o [video]](https://www.youtube.com/watch?v=_nSmkyDNulk)
@@ -31,6 +33,7 @@
 * [2024-05-13, 17:08:23](https://news.ycombinator.com/item?id=40345526) - [OpenAI launches new AI model and desktop version of ChatGPT](https://www.cnbc.com/2024/05/13/openai-launches-new-ai-model-and-desktop-version-of-chatgpt.html)
 * [2024-05-13, 17:07:47](https://news.ycombinator.com/item?id=40345521) - [Space Junk Removal Is Not Going Smoothly (2021)](https://www.scientificamerican.com/article/space-junk-removal-is-not-going-smoothly/)
 * [2024-05-13, 17:02:12](https://news.ycombinator.com/item?id=40345460) - [Activeloop (YC S18) Hiring a Senior C++ Engineer with Data Streaming Experience](https://www.notion.so/activeloop/Careers-Activeloop-9dad048520b6452e8954830d61250c5a)
+* [2024-05-13, 16:43:21](https://news.ycombinator.com/item?id=40345250) - [A list of open source games](https://github.com/bobeff/open-source-games)
 * [2024-05-13, 16:40:53](https://news.ycombinator.com/item?id=40345213) - [MIT 6.S191: Convolutional Neural Networks [video]](https://www.youtube.com/watch?v=2xqkSUhmmXU)
 * [2024-05-13, 16:37:32](https://news.ycombinator.com/item?id=40345171) - [Spring Update](https://openai.com/index/spring-update/)
 * [2024-05-13, 16:33:54](https://news.ycombinator.com/item?id=40345139) - [Autonomous F-16 Fighters Are 'Roughly Even' with Human Pilots](https://nationalinterest.org/blog/buzz/autonomous-f-16-fighters-are-%E2%80%98roughly-even%E2%80%99-human-pilots-said-air-force-chief-210974)
