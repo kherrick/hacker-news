@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-13](index.md)
 
+* [2024-05-13, 05:12:54](https://news.ycombinator.com/item?id=40339998) - [GNU LibreJS: blocks JavaScript traps](https://www.gnu.org/software/librejs/)
 * [2024-05-13, 04:43:58](https://news.ycombinator.com/item?id=40339852) - [Ordered back to the office, top tech talent left instead, study finds](https://www.washingtonpost.com/business/2024/05/12/rto-microsoft-apple-spacex/)
 * [2024-05-13, 04:10:37](https://news.ycombinator.com/item?id=40339723) - [PicoMEM by FreddyV – All in One 8-Bit ISA Expansion Card](https://texelec.com/product/picomem/)
 * [2024-05-13, 03:15:03](https://news.ycombinator.com/item?id=40339480) - [Elon Musk: Threat Or Menace? Part 5](https://blog.dshr.org/2024/05/elon-musk-threat-or-menace-part-5.html)
