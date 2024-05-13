@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-13](index.md)
 
+* [2024-05-13, 01:22:35](https://news.ycombinator.com/item?id=40338967) - [Open Source YouTube to MP3 Downloader](https://github.com/PackJC/YoutubeToMP3)
 * [2024-05-13, 01:15:39](https://news.ycombinator.com/item?id=40338929) - [M4 near 4000/15000 in Geekbench 6](https://browser.geekbench.com/v6/cpu/6063686)
 * [2024-05-13, 01:02:35](https://news.ycombinator.com/item?id=40338840) - [Hydrogen-powered aircraft has first commercial order](https://www.abc.net.au/news/2024-05-13/hydrogen-electric-powered-aviation-net-zero-target/103728122)
 * [2024-05-13, 01:01:08](https://news.ycombinator.com/item?id=40338828) - [North Yorkshire apostrophe fans demand road signs with nowt taken out](https://www.theguardian.com/uk-news/article/2024/may/05/north-yorkshires-dropped-apostrophe-for-street-signs-upsets-residents)

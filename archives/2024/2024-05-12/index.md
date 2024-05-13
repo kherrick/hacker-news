@@ -66,6 +66,7 @@
 * [2024-05-12, 10:32:46](https://news.ycombinator.com/item?id=40333380) - [There's Not Enough Power for America's High-Tech Ambitions](https://www.wsj.com/business/energy-oil/data-centers-energy-georgia-development-7a5352e9)
 * [2024-05-12, 10:32:09](https://news.ycombinator.com/item?id=40333375) - [Garbage Collectors Are Scary](https://www.enyo.de/fw/notes/garbage-collectors-are-scary.html)
 * [2024-05-12, 10:15:14](https://news.ycombinator.com/item?id=40333330) - [Roll A Lisp In C – Reading (2020)](https://swatson555.github.io/posts/2020-01-18-make-a-lisp-1.html)
+* [2024-05-12, 09:48:35](https://news.ycombinator.com/item?id=40333254) - [Archie Search](https://archie.serialport.org/)
 * [2024-05-12, 09:44:13](https://news.ycombinator.com/item?id=40333242) - [Brazil's catastrophic weather spawns spate of conspiracy theories](https://phys.org/news/2024-05-brazil-catastrophic-weather-spawns-spate.html)
 * [2024-05-12, 09:19:35](https://news.ycombinator.com/item?id=40333169) - [16 years of CVE-2008-0166 – Debian OpenSSL Bug](https://16years.secvuln.info/)
 * [2024-05-12, 09:15:55](https://news.ycombinator.com/item?id=40333159) - [ENIAC programmer Jean Bartik's Amazon book review](https://www.amazon.com/gp/aw/review/0802713483/R3K2DSB6UE1X7H)
