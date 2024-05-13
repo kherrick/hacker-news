@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-13](index.md)
 
+* [2024-05-13, 19:14:36](https://news.ycombinator.com/item?id=40347118) - [Google accidentally deleted a $125B pension fund's account](https://qz.com/google-cloud-pension-fund-unisuper-1851472990)
 * [2024-05-13, 19:03:55](https://news.ycombinator.com/item?id=40346995) - [Show HN: Pi-C.A.R.D, a Raspberry Pi Voice Assistant](https://github.com/nkasmanoff/pi-card)
 * [2024-05-13, 18:36:04](https://news.ycombinator.com/item?id=40346675) - [mRNA cancer vaccine triggers fierce immune response to fight brain tumors](https://ufhealth.org/news/2024/uf-developed-mrna-vaccine-triggers-fierce-immune-response-to-fight-malignant-brain-tumor)
 * [2024-05-13, 18:30:00](https://news.ycombinator.com/item?id=40346597) - [Amazon S3 will no longer charge for several HTTP error codes](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-s3-no-charge-http-error-codes/)
@@ -45,6 +46,7 @@
 * [2024-05-13, 13:40:14](https://news.ycombinator.com/item?id=40343254) - [Micron Ships Crucial-Branded LPCAMM2 Memory Modules: 64GB of LPDDR5X for $330](https://www.anandtech.com/show/21390/micron-ships-crucialbranded-lpcamm2-memory-modules)
 * [2024-05-13, 13:29:17](https://news.ycombinator.com/item?id=40343131) - [Pg_lakehouse: Query Any Data Lake from Postgres](https://github.com/paradedb/paradedb/tree/dev/pg_lakehouse)
 * [2024-05-13, 13:17:31](https://news.ycombinator.com/item?id=40343006) - [Squarespace to Go Private in $6.9B All-Cash Transaction with Permira](https://investors.squarespace.com/news-events-financials/investor-news/news-details/2024/Squarespace-to-Go-Private-in-6.9B-All-Cash-Transaction-with-Permira/default.aspx)
+* [2024-05-13, 13:00:49](https://news.ycombinator.com/item?id=40342843) - [2.4M person study: Internet use boosts, not hurts, well being](https://www.nature.com/articles/d41586-024-01410-z)
 * [2024-05-13, 12:32:41](https://news.ycombinator.com/item?id=40342578) - [The USDA's gardening zones shifted, this map shows you what's changed](https://apps.npr.org/plant-hardiness-garden-map/)
 * [2024-05-13, 12:31:03](https://news.ycombinator.com/item?id=40342557) - [Commercial Space Stations Approach Launch Phase](https://spectrum.ieee.org/space-station-orbital-reef)
 * [2024-05-13, 12:29:48](https://news.ycombinator.com/item?id=40342541) - [Outdoor time is good for kids' eyesight](https://text.npr.org/1250555639)
