@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-13, 19:03:55",
+      "https://news.ycombinator.com/item?id=40346995"
+    ],
+    [
+      "Show HN: Pi-C.A.R.D, a Raspberry Pi Voice Assistant",
+      "https://github.com/nkasmanoff/pi-card"
+    ]
+  ],
+  [
+    [
       "2024-05-13, 18:36:04",
       "https://news.ycombinator.com/item?id=40346675"
     ],
@@ -27,6 +37,16 @@
     [
       "Language, OS and GUI -independent windowing API provided as a virtual filesystem",
       "https://www.fornaxis.org/forge/"
+    ]
+  ],
+  [
+    [
+      "2024-05-13, 17:46:28",
+      "https://news.ycombinator.com/item?id=40346024"
+    ],
+    [
+      "Apple and Google deliver support for unwanted tracking alerts in iOS and Android",
+      "https://www.apple.com/ca/newsroom/2024/05/apple-and-google-deliver-support-for-unwanted-tracking-alerts-in-ios-and-android/"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-05-13, 08:18:47",
-      "https://news.ycombinator.com/item?id=40340901"
-    ],
-    [
-      "Show HN: Boxwood – simple templating engine for JavaScript, in JavaScript",
-      "https://github.com/buxlabs/boxwood"
-    ]
-  ],
-  [
-    [
       "2024-05-13, 07:33:57",
       "https://news.ycombinator.com/item?id=40340642"
     ],
@@ -247,16 +257,6 @@
     [
       "GPUs Go Brrr",
       "https://hazyresearch.stanford.edu/blog/2024-05-12-tk"
-    ]
-  ],
-  [
-    [
-      "2024-05-12, 22:05:30",
-      "https://news.ycombinator.com/item?id=40337933"
-    ],
-    [
-      "I built an online PDF management platform using open-source software",
-      "https://www.pdfequips.com/"
     ]
   ],
   [
