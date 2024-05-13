@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-13, 11:28:10](https://news.ycombinator.com/item?id=40341983) - [Statement on CVE-2024-27322](https://blog.r-project.org/2024/05/10/statement-on-cve-2024-27322/index.html)
 * [2024-05-13, 11:15:47](https://news.ycombinator.com/item?id=40341877) - [Solar storms are disrupting farmer GPS systems](https://www.theverge.com/2024/5/12/24154779/solar-storms-farmer-gps-john-deer)
 * [2024-05-13, 10:49:58](https://news.ycombinator.com/item?id=40341716) - [Telegram has launched a pretty intense campaign to malign Signal as insecure](https://twitter.com/matthew_d_green/status/1789687898863792453)
 * [2024-05-13, 10:45:34](https://news.ycombinator.com/item?id=40341687) - [The Great Flattening](https://stratechery.com/2024/the-great-flattening/?access_token=eyJhbGciOiJSUzI1NiIsImtpZCI6InN0cmF0ZWNoZXJ5LnBhc3Nwb3J0Lm9ubGluZSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJzdHJhdGVjaGVyeS5wYXNzcG9ydC5vbmxpbmUiLCJhenAiOiJIS0xjUzREd1Nod1AyWURLYmZQV00xIiwiZW50Ijp7InVyaSI6WyJodHRwczovL3N0cmF0ZWNoZXJ5LmNvbS8yMDI0L3RoZS1ncmVhdC1mbGF0dGVuaW5nLyJdfSwiZXhwIjoxNzE4MTg4NzMyLCJpYXQiOjE3MTU1OTY3MzIsImlzcyI6Imh0dHBzOi8vYXBpLnBhc3Nwb3J0Lm9ubGluZS9vYXV0aCIsInNjb3BlIjoiZmVlZDpyZWFkIGFydGljbGU6cmVhZCBhc3NldDpyZWFkIGNhdGVnb3J5OnJlYWQgZW50aXRsZW1lbnRzIiwic3ViIjoiV3NyTHlycjZxZW1WQWdFR0NqTW0zNCIsInVzZSI6ImFjY2VzcyJ9.NgkSZcz_OwkjW7TH6FNBKp7iHS1K6VPyf-xlU6tk1kEXbTuBZzP7kwYsU4WIEpXM4Ab-1DZxZhIus-1-1OtQ6HMi5DdJZqKYcCoARikBeSSkWFtPNGAVpBeOnWzYan2eSUrpGXeuKVq7g5aXv6zNDHoMqHuScb9jE7gFMIa4E3BdafrvjIQ0020M6tUQrm5jinP31XBSQrLUUU2cY_M6QjTn5Hh0CjLUUfNbrJz2yBuvC-egYBpyVersqGIHphD7ZDetF225mvWhhSMbpjeVPqXunJ__GjyFjB_Azlwy_k1exgM4wT0auYJe3jI7KGxWPu2gYm2ZlT8A5itGD0npgQ)
@@ -21,7 +22,6 @@
 * [2024-05-12, 17:33:28](https://news.ycombinator.com/item?id=40336095) - [Page Dewarping (2016)](https://mzucker.github.io/2016/08/15/page-dewarping.html)
 * [2024-05-12, 16:24:05](https://news.ycombinator.com/item?id=40335608) - [Homoiconic Python](https://aljamal.substack.com/p/homoiconic-python)
 * [2024-05-12, 16:02:57](https://news.ycombinator.com/item?id=40335472) - [Zero Feet: a proposal for a systems-free Lisp](https://applied-langua.ge/posts/zero-feet.html)
-* [2024-05-12, 15:20:39](https://news.ycombinator.com/item?id=40335170) - [Whole-body magnetic resonance imaging at 0.05 Tesla](https://www.science.org/doi/10.1126/science.adm7168)
 * [2024-05-12, 11:11:50](https://news.ycombinator.com/item?id=40333481) - [Show HN: Making GNU Make a better Task Runner](https://github.com/mitjafelicijan/makext)
 * [2024-05-12, 10:17:49](https://news.ycombinator.com/item?id=40333342) - [When children become caregivers, who cares for them?](https://www.csmonitor.com/World/Making-a-difference/2024/0320/When-children-become-caregivers-who-cares-for-them)
 * [2024-05-12, 09:38:27](https://news.ycombinator.com/item?id=40333226) - [Song Maker](https://musiclab.chromeexperiments.com/Song-Maker)
