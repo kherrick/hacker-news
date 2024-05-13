@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-13, 18:36:04](https://news.ycombinator.com/item?id=40346675) - [mRNA cancer vaccine triggers fierce immune response to fight brain tumors](https://ufhealth.org/news/2024/uf-developed-mrna-vaccine-triggers-fierce-immune-response-to-fight-malignant-brain-tumor)
+* [2024-05-13, 18:30:00](https://news.ycombinator.com/item?id=40346597) - [Amazon S3 will no longer charge for several HTTP error codes](https://aws.amazon.com/about-aws/whats-new/2024/05/amazon-s3-no-charge-http-error-codes/)
 * [2024-05-13, 17:28:00](https://news.ycombinator.com/item?id=40345775) - [GPT-4o](https://openai.com/index/hello-gpt-4o/)
 * [2024-05-13, 17:21:14](https://news.ycombinator.com/item?id=40345696) - [Show HN: An open source framework for voice assistants](https://github.com/pipecat-ai/pipecat)
 * [2024-05-13, 17:16:54](https://news.ycombinator.com/item?id=40345654) - [Deblur-GS: 3D Gaussian Splatting from Camera Motion Blurred Images](https://chaphlagical.icu/Deblur-GS/)
@@ -16,7 +18,6 @@
 * [2024-05-13, 13:17:31](https://news.ycombinator.com/item?id=40343006) - [Squarespace to Go Private in $6.9B All-Cash Transaction with Permira](https://investors.squarespace.com/news-events-financials/investor-news/news-details/2024/Squarespace-to-Go-Private-in-6.9B-All-Cash-Transaction-with-Permira/default.aspx)
 * [2024-05-13, 12:32:41](https://news.ycombinator.com/item?id=40342578) - [The USDA's gardening zones shifted, this map shows you what's changed](https://apps.npr.org/plant-hardiness-garden-map/)
 * [2024-05-13, 11:49:28](https://news.ycombinator.com/item?id=40342188) - [It’s an age of marvels](https://blog.plover.com/tech/its-an-age-of-marvels.html)
-* [2024-05-13, 11:38:15](https://news.ycombinator.com/item?id=40342075) - [The danger of the mediocre success when testing startup hypotheses (2023)](https://pivotal.substack.com/p/the-worst-outcome-is-a-mediocre-success)
 * [2024-05-13, 08:18:47](https://news.ycombinator.com/item?id=40340901) - [Show HN: Boxwood – simple templating engine for JavaScript, in JavaScript](https://github.com/buxlabs/boxwood)
 * [2024-05-13, 07:33:57](https://news.ycombinator.com/item?id=40340642) - [Protecting your email address via SVG instead of JavaScript](https://rouninmedia.github.io/protecting-your-email-address-via-svg-instead-of-js/)
 * [2024-05-13, 06:52:07](https://news.ycombinator.com/item?id=40340417) - [Just Here for the Comments: Lurking as Digital Literacy Practice](https://newbooksnetwork.com/just-here-for-the-comments)
@@ -25,7 +26,6 @@
 * [2024-05-12, 22:05:58](https://news.ycombinator.com/item?id=40337936) - [GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
 * [2024-05-12, 22:05:30](https://news.ycombinator.com/item?id=40337933) - [I built an online PDF management platform using open-source software](https://www.pdfequips.com/)
 * [2024-05-12, 19:49:05](https://news.ycombinator.com/item?id=40337036) - [The Alternative Implementation Problem](https://pointersgonewild.com/2024/04/20/the-alternative-implementation-problem/)
-* [2024-05-12, 18:55:02](https://news.ycombinator.com/item?id=40336605) - [Big Fridge](https://sherwood.news/business/the-hot-business-of-cold-storage/)
 * [2024-05-12, 17:33:28](https://news.ycombinator.com/item?id=40336095) - [Page Dewarping (2016)](https://mzucker.github.io/2016/08/15/page-dewarping.html)
 * [2024-05-12, 13:32:01](https://news.ycombinator.com/item?id=40334309) - [The Myth of Loss: Bitboys](https://hardforum.com/threads/bitboys.1973024/)
 * [2024-05-12, 11:37:11](https://news.ycombinator.com/item?id=40333584) - [Overbite Project: Why still use Gopher? What makes Gopher relevant?](https://gopher.floodgap.com/overbite/relevance.html)
