@@ -7,7 +7,7 @@
 * [2024-05-13, 12:32:41](https://news.ycombinator.com/item?id=40342578) - [The USDA's gardening zones shifted, this map shows you what's changed](https://apps.npr.org/plant-hardiness-garden-map/)
 * [2024-05-13, 12:00:32](https://news.ycombinator.com/item?id=40342299) - [MixRank (YC S11) Is Hiring Software Engineers and Founders Globally](https://news.ycombinator.com/item?id=40342299)
 * [2024-05-13, 11:49:28](https://news.ycombinator.com/item?id=40342188) - [It’s an age of marvels](https://blog.plover.com/tech/its-an-age-of-marvels.html)
-* [2024-05-13, 11:38:15](https://news.ycombinator.com/item?id=40342075) - [The Worst Outcome Is a Mediocre Success (2023)](https://pivotal.substack.com/p/the-worst-outcome-is-a-mediocre-success)
+* [2024-05-13, 11:38:15](https://news.ycombinator.com/item?id=40342075) - [The danger of the mediocre success when testing startup hypotheses (2023)](https://pivotal.substack.com/p/the-worst-outcome-is-a-mediocre-success)
 * [2024-05-13, 08:18:47](https://news.ycombinator.com/item?id=40340901) - [Show HN: Boxwood – simple templating engine for JavaScript, in JavaScript](https://github.com/buxlabs/boxwood)
 * [2024-05-13, 07:33:57](https://news.ycombinator.com/item?id=40340642) - [Protecting your email address via SVG instead of JavaScript](https://rouninmedia.github.io/protecting-your-email-address-via-svg-instead-of-js/)
 * [2024-05-13, 06:26:46](https://news.ycombinator.com/item?id=40340316) - [The Death of a Mnemonist](https://www.historytoday.com/archive/months-past/death-mnemonist)
