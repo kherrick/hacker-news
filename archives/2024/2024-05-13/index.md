@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-05-13](index.md)
 
+* [2024-05-13, 17:29:10](https://news.ycombinator.com/item?id=40345790) - [Melinda Gates Resigns from Bill and Melinda Gates Foundation](https://www.seattletimes.com/seattle-news/melinda-french-gates-resigns-from-bill-melinda-gates-foundation/)
 * [2024-05-13, 17:28:45](https://news.ycombinator.com/item?id=40345785) - [GPT-4o and more tools to ChatGPT free users](https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free/)
 * [2024-05-13, 17:28:00](https://news.ycombinator.com/item?id=40345775) - [GPT-4o](https://openai.com/index/hello-gpt-4o/)
 * [2024-05-13, 17:09:46](https://news.ycombinator.com/item?id=40345552) - [Good, Kind, Caring People Became the Bad Guys](https://www.okdoomer.io/thebadguys/)
 * [2024-05-13, 17:08:23](https://news.ycombinator.com/item?id=40345526) - [OpenAI launches new AI model and desktop version of ChatGPT](https://www.cnbc.com/2024/05/13/openai-launches-new-ai-model-and-desktop-version-of-chatgpt.html)
 * [2024-05-13, 17:02:12](https://news.ycombinator.com/item?id=40345460) - [Activeloop (YC S18) Hiring a Senior C++ Engineer with Data Streaming Experience](https://www.notion.so/activeloop/Careers-Activeloop-9dad048520b6452e8954830d61250c5a)
 * [2024-05-13, 16:40:53](https://news.ycombinator.com/item?id=40345213) - [MIT 6.S191: Convolutional Neural Networks [video]](https://www.youtube.com/watch?v=2xqkSUhmmXU)
+* [2024-05-13, 16:37:32](https://news.ycombinator.com/item?id=40345171) - [Spring Update](https://openai.com/index/spring-update/)
 * [2024-05-13, 16:33:54](https://news.ycombinator.com/item?id=40345139) - [Autonomous F-16 Fighters Are 'Roughly Even' with Human Pilots](https://nationalinterest.org/blog/buzz/autonomous-f-16-fighters-are-%E2%80%98roughly-even%E2%80%99-human-pilots-said-air-force-chief-210974)
 * [2024-05-13, 16:26:28](https://news.ycombinator.com/item?id=40345049) - [One bank's brilliant upgrade was another bank's crash](https://www.theregister.com/2024/05/13/who_me/)
 * [2024-05-13, 16:23:02](https://news.ycombinator.com/item?id=40345006) - [Decline of search engines hits research](https://www.timeshighereducation.com/blog/search-engines-are-failing-research-methods-classes-need-catch)
