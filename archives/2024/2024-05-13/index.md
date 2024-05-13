@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-13](index.md)
 
 * [2024-05-13, 20:08:04](https://news.ycombinator.com/item?id=40347773) - [Encrypted services Apple, Proton and Wire helped police identify activist](https://techcrunch.com/2024/05/08/encrypted-services-apple-proton-and-wire-helped-spanish-police-identify-activist/)
+* [2024-05-13, 19:57:13](https://news.ycombinator.com/item?id=40347624) - [IBM open-sources its Granite AI models – and they mean business](https://www.zdnet.com/article/ibm-open-sources-its-granite-ai-models-and-they-mean-business/)
 * [2024-05-13, 19:30:35](https://news.ycombinator.com/item?id=40347320) - [Math problems with GPT-4o [video]](https://www.youtube.com/watch?v=_nSmkyDNulk)
 * [2024-05-13, 19:14:36](https://news.ycombinator.com/item?id=40347118) - [Google accidentally deleted a $125B pension fund's account](https://qz.com/google-cloud-pension-fund-unisuper-1851472990)
 * [2024-05-13, 19:03:55](https://news.ycombinator.com/item?id=40346995) - [Show HN: Pi-C.A.R.D, a Raspberry Pi Voice Assistant](https://github.com/nkasmanoff/pi-card)
