@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-13](index.md)
 
+* [2024-05-13, 12:00:32](https://news.ycombinator.com/item?id=40342299) - [MixRank (YC S11) Is Hiring Software Engineers and Founders Globally](https://news.ycombinator.com/item?id=40342299)
+* [2024-05-13, 11:49:28](https://news.ycombinator.com/item?id=40342188) - [It's an Age of Marvels](https://blog.plover.com/tech/its-an-age-of-marvels.html)
+* [2024-05-13, 11:38:15](https://news.ycombinator.com/item?id=40342075) - [The Worst Outcome Is a Mediocre Success](https://pivotal.substack.com/p/the-worst-outcome-is-a-mediocre-success)
 * [2024-05-13, 11:28:10](https://news.ycombinator.com/item?id=40341983) - [Statement on CVE-2024-27322](https://blog.r-project.org/2024/05/10/statement-on-cve-2024-27322/index.html)
 * [2024-05-13, 11:15:47](https://news.ycombinator.com/item?id=40341877) - [Solar storms are disrupting farmer GPS systems](https://www.theverge.com/2024/5/12/24154779/solar-storms-farmer-gps-john-deer)
 * [2024-05-13, 10:49:58](https://news.ycombinator.com/item?id=40341716) - [Telegram has launched a pretty intense campaign to malign Signal as insecure](https://twitter.com/matthew_d_green/status/1789687898863792453)

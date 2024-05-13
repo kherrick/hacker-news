@@ -51,6 +51,7 @@
 * [2024-05-12, 15:20:39](https://news.ycombinator.com/item?id=40335170) - [Whole-body magnetic resonance imaging at 0.05 Tesla](https://www.science.org/doi/10.1126/science.adm7168)
 * [2024-05-12, 14:25:14](https://news.ycombinator.com/item?id=40334726) - [New Doctors Are Avoiding Residencies in States with Abortion Restrictions](https://kffhealthnews.org/news/article/medical-students-residents-spurning-abortion-ban-states/)
 * [2024-05-12, 13:42:40](https://news.ycombinator.com/item?id=40334391) - [Solar Storm Knocks Out Farmers' Tractor GPS Systems During Peak Planting Season](https://www.404media.co/solar-storm-knocks-out-tractor-gps-systems-during-peak-planting-season/)
+* [2024-05-12, 13:08:32](https://news.ycombinator.com/item?id=40334153) - [Temporal – Good Things Happen](https://recife.pfeodrippe.com/notebooks/recife/notebook/temporal.html)
 * [2024-05-12, 13:01:42](https://news.ycombinator.com/item?id=40334102) - [America is in the midst of an extraordinary startup boom](https://www.economist.com/finance-and-economics/2024/05/12/america-is-in-the-midst-of-an-extraordinary-startup-boom)
 * [2024-05-12, 12:49:55](https://news.ycombinator.com/item?id=40334011) - [RAG with PostgreSQL](https://pgdash.io/blog/rag-with-postgresql.html?p)
 * [2024-05-12, 12:48:33](https://news.ycombinator.com/item?id=40334002) - [Stack Exchange Data Dump [Archive]](https://archive.org/details/stackexchange)
