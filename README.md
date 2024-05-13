@@ -23,12 +23,12 @@
 * [2024-05-12, 15:27:23](https://news.ycombinator.com/item?id=40335209) - [Brain Uses Quantum Effects, New Study Finds [video]](http://backreaction.blogspot.com/2024/05/brain-really-uses-quantum-effects-new.html)
 * [2024-05-12, 15:20:39](https://news.ycombinator.com/item?id=40335170) - [Whole-body magnetic resonance imaging at 0.05 Tesla](https://www.science.org/doi/10.1126/science.adm7168)
 * [2024-05-12, 11:11:50](https://news.ycombinator.com/item?id=40333481) - [Show HN: Making GNU Make a better Task Runner](https://github.com/mitjafelicijan/makext)
+* [2024-05-12, 10:17:49](https://news.ycombinator.com/item?id=40333342) - [When children become caregivers, who cares for them?](https://www.csmonitor.com/World/Making-a-difference/2024/0320/When-children-become-caregivers-who-cares-for-them)
 * [2024-05-12, 09:38:27](https://news.ycombinator.com/item?id=40333226) - [Song Maker](https://musiclab.chromeexperiments.com/Song-Maker)
 * [2024-05-12, 06:27:34](https://news.ycombinator.com/item?id=40332586) - [A Slower Speed of Light (2012)](http://gamelab.mit.edu/games/a-slower-speed-of-light/)
 * [2024-05-12, 06:11:07](https://news.ycombinator.com/item?id=40332546) - [Calendar, Not Todos (2018)](https://deviparikh.medium.com/calendar-in-stead-of-to-do-lists-9ada86a512dd)
 * [2024-05-12, 05:59:14](https://news.ycombinator.com/item?id=40332515) - [Why Make Art in the Dark?](https://aeon.co/essays/why-did-our-ancestors-make-startling-art-in-dark-firelit-caves)
 * [2024-05-11, 13:11:59](https://news.ycombinator.com/item?id=40327837) - [Dymaxion Car](https://en.wikipedia.org/wiki/Dymaxion_car)
-* [2024-05-11, 06:05:24](https://news.ycombinator.com/item?id=40326313) - [Assembly](https://assembly.louve.systems/)
 * [2024-05-09, 23:00:55](https://news.ycombinator.com/item?id=40313792) - [A Record of Old Kashgar](https://chinabooksreview.com/2024/05/09/a-record-of-old-kashgar/)
 
 ## [Archives](archives/index.md)
