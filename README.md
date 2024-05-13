@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-13, 21:00:07](https://news.ycombinator.com/item?id=40348356) - [Svix (YC W21) Is Hiring a Product Marketing Manager (US Remote)](https://www.svix.com/careers/)
+* [2024-05-13, 20:56:39](https://news.ycombinator.com/item?id=40348325) - [UK police could get Ghostbusters-style backpack devices to halt ebike getaways](https://www.theguardian.com/uk-news/article/2024/may/13/uk-police-ghostbusters-style-backpack-devices-ebike-getaways)
 * [2024-05-13, 19:57:13](https://news.ycombinator.com/item?id=40347624) - [IBM open-sources its Granite AI models – and they mean business](https://www.zdnet.com/article/ibm-open-sources-its-granite-ai-models-and-they-mean-business/)
 * [2024-05-13, 19:30:35](https://news.ycombinator.com/item?id=40347320) - [Math problems with GPT-4o [video]](https://www.youtube.com/watch?v=_nSmkyDNulk)
 * [2024-05-13, 19:03:55](https://news.ycombinator.com/item?id=40346995) - [Show HN: Pi-C.A.R.D, a Raspberry Pi Voice Assistant](https://github.com/nkasmanoff/pi-card)
@@ -13,8 +15,6 @@
 * [2024-05-13, 17:21:14](https://news.ycombinator.com/item?id=40345696) - [Show HN: An open source framework for voice assistants](https://github.com/pipecat-ai/pipecat)
 * [2024-05-13, 17:16:54](https://news.ycombinator.com/item?id=40345654) - [Deblur-GS: 3D Gaussian splatting from camera motion blurred images](https://chaphlagical.icu/Deblur-GS/)
 * [2024-05-13, 17:16:09](https://news.ycombinator.com/item?id=40345641) - [A global plastic treaty will only work if it caps production, modeling shows](https://phys.org/news/2024-05-global-plastic-treaty-caps-production.html)
-* [2024-05-13, 17:12:48](https://news.ycombinator.com/item?id=40345596) - [Raspberry Pi CM5 seen in the wild](https://twitter.com/xoseperez/status/1790031351443341357)
-* [2024-05-13, 17:02:12](https://news.ycombinator.com/item?id=40345460) - [Activeloop (YC S18) Hiring a Senior C++ Engineer with Data Streaming Experience](https://www.notion.so/activeloop/Careers-Activeloop-9dad048520b6452e8954830d61250c5a)
 * [2024-05-13, 16:17:20](https://news.ycombinator.com/item?id=40344946) - [Unix version control lore: what, ident](https://dotat.at/@/2024-05-13-what-ident.html)
 * [2024-05-13, 15:42:12](https://news.ycombinator.com/item?id=40344581) - [GxHash is a fast and robust non-cryptographic hashing algorithm](https://github.com/ogxd/gxhash)
 * [2024-05-13, 15:17:26](https://news.ycombinator.com/item?id=40344302) - [Falcon 2](https://www.tii.ae/news/falcon-2-uaes-technology-innovation-institute-releases-new-ai-model-series-outperforming-metas)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-13](index.md)
 
+* [2024-05-13, 21:00:07](https://news.ycombinator.com/item?id=40348356) - [Svix (YC W21) Is Hiring a Product Marketing Manager (US Remote)](https://www.svix.com/careers/)
+* [2024-05-13, 20:56:39](https://news.ycombinator.com/item?id=40348325) - [UK police could get Ghostbusters-style backpack devices to halt ebike getaways](https://www.theguardian.com/uk-news/article/2024/may/13/uk-police-ghostbusters-style-backpack-devices-ebike-getaways)
 * [2024-05-13, 20:08:04](https://news.ycombinator.com/item?id=40347773) - [Encrypted services Apple, Proton and Wire helped police identify activist](https://techcrunch.com/2024/05/08/encrypted-services-apple-proton-and-wire-helped-spanish-police-identify-activist/)
 * [2024-05-13, 19:57:13](https://news.ycombinator.com/item?id=40347624) - [IBM open-sources its Granite AI models – and they mean business](https://www.zdnet.com/article/ibm-open-sources-its-granite-ai-models-and-they-mean-business/)
 * [2024-05-13, 19:30:35](https://news.ycombinator.com/item?id=40347320) - [Math problems with GPT-4o [video]](https://www.youtube.com/watch?v=_nSmkyDNulk)
