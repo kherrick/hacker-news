@@ -4,6 +4,7 @@
 * [2024-05-13, 10:14:03](https://news.ycombinator.com/item?id=40341518) - [Intel reduces latencies of chat LLM app using quantisation](https://community.intel.com/t5/Blogs/Tech-Innovation/Cloud/bg-p/blog-cloud/spr-xeon-gen-ai-ml-part3.html)
 * [2024-05-13, 10:02:24](https://news.ycombinator.com/item?id=40341454) - [Sleep does not help brain wash out toxins, study suggests](https://www.theguardian.com/science/article/2024/may/13/sleep-does-not-help-brain-wash-out-toxins-study-suggests)
 * [2024-05-13, 08:18:47](https://news.ycombinator.com/item?id=40340901) - [Show HN: Boxwood – simple templating engine for JavaScript, in JavaScript](https://github.com/buxlabs/boxwood)
+* [2024-05-13, 08:01:55](https://news.ycombinator.com/item?id=40340805) - [eu/acc](https://eu-acc.com/)
 * [2024-05-13, 07:33:57](https://news.ycombinator.com/item?id=40340642) - [Protecting your email address via SVG instead of JavaScript](https://rouninmedia.github.io/protecting-your-email-address-via-svg-instead-of-js/)
 * [2024-05-13, 07:00:10](https://news.ycombinator.com/item?id=40340450) - [Meticulous (YC S21) Is Hiring to Eliminate E2E UI Tests](https://news.ycombinator.com/item?id=40340450)
 * [2024-05-13, 06:26:46](https://news.ycombinator.com/item?id=40340316) - [The Death of a Mnemonist](https://www.historytoday.com/archive/months-past/death-mnemonist)
@@ -29,7 +30,6 @@
 * [2024-05-12, 06:11:07](https://news.ycombinator.com/item?id=40332546) - [Calendar, Not Todos (2018)](https://deviparikh.medium.com/calendar-in-stead-of-to-do-lists-9ada86a512dd)
 * [2024-05-12, 05:59:14](https://news.ycombinator.com/item?id=40332515) - [Why Make Art in the Dark?](https://aeon.co/essays/why-did-our-ancestors-make-startling-art-in-dark-firelit-caves)
 * [2024-05-11, 13:11:59](https://news.ycombinator.com/item?id=40327837) - [Dymaxion Car](https://en.wikipedia.org/wiki/Dymaxion_car)
-* [2024-05-09, 23:00:55](https://news.ycombinator.com/item?id=40313792) - [A Record of Old Kashgar](https://chinabooksreview.com/2024/05/09/a-record-of-old-kashgar/)
 
 ## [Archives](archives/index.md)
 
