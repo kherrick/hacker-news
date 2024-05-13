@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-05-13](index.md)
 
+* [2024-05-13, 17:02:12](https://news.ycombinator.com/item?id=40345460) - [Activeloop (YC S18) Hiring a Senior C++ Engineer with Data Streaming Experience](https://www.notion.so/activeloop/Careers-Activeloop-9dad048520b6452e8954830d61250c5a)
+* [2024-05-13, 16:40:53](https://news.ycombinator.com/item?id=40345213) - [MIT 6.S191: Convolutional Neural Networks [video]](https://www.youtube.com/watch?v=2xqkSUhmmXU)
 * [2024-05-13, 16:33:54](https://news.ycombinator.com/item?id=40345139) - [Autonomous F-16 Fighters Are 'Roughly Even' with Human Pilots](https://nationalinterest.org/blog/buzz/autonomous-f-16-fighters-are-%E2%80%98roughly-even%E2%80%99-human-pilots-said-air-force-chief-210974)
 * [2024-05-13, 16:26:28](https://news.ycombinator.com/item?id=40345049) - [One bank's brilliant upgrade was another bank's crash](https://www.theregister.com/2024/05/13/who_me/)
 * [2024-05-13, 16:09:04](https://news.ycombinator.com/item?id=40344868) - [Broad Public Support for Legal Abortion Persists 2 Years After Dobbs](https://www.pewresearch.org/politics/2024/05/13/broad-public-support-for-legal-abortion-persists-2-years-after-dobbs/)
+* [2024-05-13, 16:06:30](https://news.ycombinator.com/item?id=40344837) - [Mojo: Ownership and lifetime checks deep dive with Chris Lattner [video]](https://www.youtube.com/watch?v=9ag0fPMmYPQ)
 * [2024-05-13, 16:05:49](https://news.ycombinator.com/item?id=40344829) - [In-Flight Entertainment: Introducing Travel Mode for Meta Quest 2 and 3](https://www.meta.com/en-gb/blog/quest/travel-mode-lufthansa-airplane-flight-entertainment/)
 * [2024-05-13, 15:56:01](https://news.ycombinator.com/item?id=40344729) - [My Mother's Letters Should Belong to Me – Not a Company That Works with Prisons](https://truthout.org/articles/my-mothers-letters-should-belong-to-me-not-a-company-that-works-with-prisons/)
 * [2024-05-13, 15:39:50](https://news.ycombinator.com/item?id=40344554) - [The rage epidemic: is our modern world fuelling aggression?](https://www.theguardian.com/science/article/2024/may/12/road-rage-epidemic-peter-abbott-abuse-fury)
@@ -39,6 +42,7 @@
 * [2024-05-13, 07:00:10](https://news.ycombinator.com/item?id=40340450) - [Meticulous (YC S21) Is Hiring to Eliminate E2E UI Tests](https://news.ycombinator.com/item?id=40340450)
 * [2024-05-13, 06:26:46](https://news.ycombinator.com/item?id=40340316) - [The Death of a Mnemonist](https://www.historytoday.com/archive/months-past/death-mnemonist)
 * [2024-05-13, 06:20:02](https://news.ycombinator.com/item?id=40340292) - [NPM package is-even has over 140k weekly downloads](https://www.npmjs.com/package/is-even)
+* [2024-05-13, 06:11:38](https://news.ycombinator.com/item?id=40340248) - [Exploring GNU extensions in the Linux kernel](https://maskray.me/blog/2024-05-12-exploring-gnu-extensions-in-linux-kernel)
 * [2024-05-13, 05:24:21](https://news.ycombinator.com/item?id=40340055) - [State actor blamed for cyberattack on B.C. government systems](https://www.cbc.ca/news/canada/british-columbia/bc-government-cyberattack-state-actor-1.7200735)
 * [2024-05-13, 05:12:54](https://news.ycombinator.com/item?id=40339998) - [GNU LibreJS: blocks JavaScript traps](https://www.gnu.org/software/librejs/)
 * [2024-05-13, 04:43:58](https://news.ycombinator.com/item?id=40339852) - [Ordered back to the office, top tech talent left instead, study finds](https://www.washingtonpost.com/business/2024/05/12/rto-microsoft-apple-spacex/)
