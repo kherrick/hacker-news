@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-13](index.md)
 
 * [2024-05-13, 04:43:58](https://news.ycombinator.com/item?id=40339852) - [Ordered back to the office, top tech talent left instead, study finds](https://www.washingtonpost.com/business/2024/05/12/rto-microsoft-apple-spacex/)
+* [2024-05-13, 04:10:37](https://news.ycombinator.com/item?id=40339723) - [PicoMEM by FreddyV – All in One 8-Bit ISA Expansion Card](https://texelec.com/product/picomem/)
 * [2024-05-13, 03:15:03](https://news.ycombinator.com/item?id=40339480) - [Elon Musk: Threat Or Menace? Part 5](https://blog.dshr.org/2024/05/elon-musk-threat-or-menace-part-5.html)
 * [2024-05-13, 03:00:10](https://news.ycombinator.com/item?id=40339415) - [Fort Worth's tallest building sells for $12.3M, bought for $137.5M in 2021](https://www.foxbusiness.com/real-estate/fort-worths-tallest-building-sells-just-12-3m-auction-stunning-price-drop)
 * [2024-05-13, 02:59:38](https://news.ycombinator.com/item?id=40339412) - [You Can Set Up a Home Security Camera System Without Using the Cloud](https://lifehacker.com/tech/how-to-set-up-a-home-security-camera-system-without-using-the-cloud)
