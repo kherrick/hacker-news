@@ -91,6 +91,7 @@
 * [2024-05-13, 06:52:07](https://news.ycombinator.com/item?id=40340417) - [Just Here for the Comments: Lurking as Digital Literacy Practice](https://newbooksnetwork.com/just-here-for-the-comments)
 * [2024-05-13, 06:26:46](https://news.ycombinator.com/item?id=40340316) - [The Death of a Mnemonist](https://www.historytoday.com/archive/months-past/death-mnemonist)
 * [2024-05-13, 06:20:02](https://news.ycombinator.com/item?id=40340292) - [NPM package is-even has over 140k weekly downloads](https://www.npmjs.com/package/is-even)
+* [2024-05-13, 06:19:22](https://news.ycombinator.com/item?id=40340289) - [Head boy of Surrealism: How André Breton policed a movement for artistic freedom](https://www.the-tls.co.uk/articles/why-surrealism-matters-by-mark-polizzotti-book-review/)
 * [2024-05-13, 06:11:38](https://news.ycombinator.com/item?id=40340248) - [Exploring GNU extensions in the Linux kernel](https://maskray.me/blog/2024-05-12-exploring-gnu-extensions-in-linux-kernel)
 * [2024-05-13, 06:05:09](https://news.ycombinator.com/item?id=40340220) - [Fifteen Fundamental Properties](https://camillovisini.com/writing/fifteen-fundamental-properties)
 * [2024-05-13, 05:24:21](https://news.ycombinator.com/item?id=40340055) - [State actor blamed for cyberattack on B.C. government systems](https://www.cbc.ca/news/canada/british-columbia/bc-government-cyberattack-state-actor-1.7200735)
