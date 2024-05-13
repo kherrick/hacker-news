@@ -2,7 +2,6 @@
 
 * [2024-05-13, 21:01:49](https://news.ycombinator.com/item?id=40348371) - [Release of Fugaku-LLM – a large language model trained on supercomputer Fugaku](https://www.fujitsu.com/global/about/resources/news/press-releases/2024/0510-01.html)
 * [2024-05-13, 21:00:07](https://news.ycombinator.com/item?id=40348356) - [Svix (YC W21) Is Hiring a Product Marketing Manager (US Remote)](https://www.svix.com/careers/)
-* [2024-05-13, 20:56:39](https://news.ycombinator.com/item?id=40348325) - [UK police could get Ghostbusters-style backpack devices to halt ebike getaways](https://www.theguardian.com/uk-news/article/2024/may/13/uk-police-ghostbusters-style-backpack-devices-ebike-getaways)
 * [2024-05-13, 20:52:33](https://news.ycombinator.com/item?id=40348276) - [Dijkstra on real map data with raylib](https://github.com/uysalibov/gezgin)
 * [2024-05-13, 19:57:13](https://news.ycombinator.com/item?id=40347624) - [IBM open-sources its Granite AI models – and they mean business](https://www.zdnet.com/article/ibm-open-sources-its-granite-ai-models-and-they-mean-business/)
 * [2024-05-13, 19:03:55](https://news.ycombinator.com/item?id=40346995) - [Show HN: Pi-C.A.R.D, a Raspberry Pi Voice Assistant](https://github.com/nkasmanoff/pi-card)
@@ -29,6 +28,7 @@
 * [2024-05-12, 22:05:58](https://news.ycombinator.com/item?id=40337936) - [GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
 * [2024-05-12, 13:32:01](https://news.ycombinator.com/item?id=40334309) - [The Myth of Loss: Bitboys](https://hardforum.com/threads/bitboys.1973024/)
 * [2024-05-12, 11:37:11](https://news.ycombinator.com/item?id=40333584) - [Overbite Project: Why still use Gopher? What makes Gopher relevant?](https://gopher.floodgap.com/overbite/relevance.html)
+* [2024-05-12, 10:42:02](https://news.ycombinator.com/item?id=40333408) - [Pražský Orloj: Prague astronomical clock simulator. (2022)](https://orloj.org/orloj/)
 * [2024-05-12, 06:27:34](https://news.ycombinator.com/item?id=40332586) - [A Slower Speed of Light (2012)](http://gamelab.mit.edu/games/a-slower-speed-of-light/)
 
 ## [Archives](archives/index.md)
