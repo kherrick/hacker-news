@@ -24,12 +24,12 @@
 * [2024-05-13, 16:17:20](https://news.ycombinator.com/item?id=40344946) - [Unix version control lore: what, ident](https://dotat.at/@/2024-05-13-what-ident.html)
 * [2024-05-13, 12:56:34](https://news.ycombinator.com/item?id=40342803) - [Static Chess](https://www.val.town/v/maxm/staticChess)
 * [2024-05-13, 11:30:33](https://news.ycombinator.com/item?id=40342008) - [A Pattern Language](https://patternlanguage.cc/)
+* [2024-05-13, 10:52:38](https://news.ycombinator.com/item?id=40341733) - [Disney's Robots Use Rockets to Stick the Landing](https://spectrum.ieee.org/disney-robot-2668135204)
 * [2024-05-13, 10:12:44](https://news.ycombinator.com/item?id=40341508) - [Commodore 64 runs AI to generate images](https://www.tomshardware.com/tech-industry/artificial-intelligence/commodore-64-can-use-ai-to-generate-8x8-sprites-takes-20-minutes-for-90-iterations)
 * [2024-05-13, 08:39:30](https://news.ycombinator.com/item?id=40341037) - [Ask HN: Founders who offer free/OS and paid SaaS, how do you manage your code?](https://news.ycombinator.com/item?id=40341037)
 * [2024-05-13, 06:26:46](https://news.ycombinator.com/item?id=40340316) - [The Death of a Mnemonist](https://www.historytoday.com/archive/months-past/death-mnemonist)
 * [2024-05-13, 05:35:04](https://news.ycombinator.com/item?id=40340104) - [MSX Elite](https://thefoggiest.dev/2024/05/13/msx-elite)
 * [2024-05-12, 20:44:33](https://news.ycombinator.com/item?id=40337445) - [SEQUEL: A Structured English Query Language (1974)](https://dl.acm.org/doi/epdf/10.1145/800296.811515)
-* [2024-05-12, 11:37:11](https://news.ycombinator.com/item?id=40333584) - [Overbite Project: Why still use Gopher? What makes Gopher relevant?](https://gopher.floodgap.com/overbite/relevance.html)
 
 ## [Archives](archives/index.md)
 
