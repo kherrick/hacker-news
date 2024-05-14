@@ -84,6 +84,7 @@
 * [2024-05-13, 12:00:32](https://news.ycombinator.com/item?id=40342299) - [MixRank (YC S11) Is Hiring Software Engineers and Founders Globally](https://news.ycombinator.com/item?id=40342299)
 * [2024-05-13, 11:49:28](https://news.ycombinator.com/item?id=40342188) - [It's an Age of Marvels](https://blog.plover.com/tech/its-an-age-of-marvels.html)
 * [2024-05-13, 11:38:15](https://news.ycombinator.com/item?id=40342075) - [The Worst Outcome Is a Mediocre Success](https://pivotal.substack.com/p/the-worst-outcome-is-a-mediocre-success)
+* [2024-05-13, 11:31:25](https://news.ycombinator.com/item?id=40342012) - [Optimising the Fun Out of Video Games (2018)](https://henryvincent.uk/2018/09/13/optimising-the-fun-out-of-video-games/)
 * [2024-05-13, 11:30:33](https://news.ycombinator.com/item?id=40342008) - [Hypertext Version of a Pattern Language by Christopher Alexander](https://patternlanguage.cc/)
 * [2024-05-13, 11:28:10](https://news.ycombinator.com/item?id=40341983) - [Statement on CVE-2024-27322](https://blog.r-project.org/2024/05/10/statement-on-cve-2024-27322/index.html)
 * [2024-05-13, 11:15:47](https://news.ycombinator.com/item?id=40341877) - [Solar storms are disrupting farmer GPS systems](https://www.theverge.com/2024/5/12/24154779/solar-storms-farmer-gps-john-deer)
