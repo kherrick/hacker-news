@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-14](index.md)
 
+* [2024-05-14, 21:00:48](https://news.ycombinator.com/item?id=40360112) - [Dart 3.4 (WASM and Macros preview)](https://medium.com/dartlang/dart-3-4-bd8d23b4462a)
 * [2024-05-14, 20:48:14](https://news.ycombinator.com/item?id=40359993) - [NTSB Report on Contact of Containership with the Key Bridge and Bridge Collapse [pdf]](https://static01.nyt.com/newsgraphics/documenttools/6119296c8c79713a/0e214c46-full.pdf)
 * [2024-05-14, 20:46:49](https://news.ycombinator.com/item?id=40359976) - [Stone with ancient writing system unearthed in garden](https://www.bbc.co.uk/news/articles/c14kywyk0vro)
 * [2024-05-14, 20:38:10](https://news.ycombinator.com/item?id=40359893) - [Muse Retrospective](https://adamwiggins.com/muse-retrospective/)
@@ -66,6 +67,7 @@
 * [2024-05-14, 13:20:05](https://news.ycombinator.com/item?id=40354952) - [Wasp-193B, a giant planet with a density similar to that of cotton candy](https://www.exotic.uliege.be/cms/c_12662566/en/wasp-193b-a-giant-planet-with-a-density-similar-to-that-of-cotton-candy)
 * [2024-05-14, 13:19:33](https://news.ycombinator.com/item?id=40354946) - [Survey: 71% of Startup Founders Sacrifice Private Lives for Work](https://startupsmagazine.co.uk/article-71-startup-founders-sacrifice-private-lives-work)
 * [2024-05-14, 12:54:45](https://news.ycombinator.com/item?id=40354702) - [EU Commission Designates Booking as a Gatekeeper](https://ec.europa.eu/commission/presscorner/detail/fen/ip_24_2561)
+* [2024-05-14, 12:19:39](https://news.ycombinator.com/item?id=40354381) - [IBM and the Transformation of Corporate Design – CHM](https://computerhistory.org/blog/ibm-and-the-transformation-of-corporate-design/)
 * [2024-05-14, 12:14:01](https://news.ycombinator.com/item?id=40354344) - [AI Startup Co-Founded by David Sacks Officially Launches](https://www.bloomberg.com/news/articles/2024-05-14/david-sacks-ai-startup-glue-has-officially-launched)
 * [2024-05-14, 12:08:52](https://news.ycombinator.com/item?id=40354304) - [Google made a version of ChromeOS that runs on Pixel, including external monitor](https://9to5google.com/2024/05/13/google-pixel-8-android-chromeos-report/)
 * [2024-05-14, 12:04:11](https://news.ycombinator.com/item?id=40354268) - ['Has this guy ever made a movie before?' Coppola's battle to film Megalopolis](https://www.theguardian.com/film/article/2024/may/14/has-this-guy-ever-made-a-movie-before-francis-ford-coppola-40-year-battle-megalopolis)

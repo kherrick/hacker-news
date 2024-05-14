@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-14, 21:00:48](https://news.ycombinator.com/item?id=40360112) - [Dart 3.4 (WASM and Macros preview)](https://medium.com/dartlang/dart-3-4-bd8d23b4462a)
 * [2024-05-14, 20:48:14](https://news.ycombinator.com/item?id=40359993) - [Contact of Containership Dali with the Key Bridge and Subsequent Bridge Collapse [pdf]](https://static01.nyt.com/newsgraphics/documenttools/6119296c8c79713a/0e214c46-full.pdf)
 * [2024-05-14, 20:46:49](https://news.ycombinator.com/item?id=40359976) - [Stone with ancient writing system unearthed in garden](https://www.bbc.co.uk/news/articles/c14kywyk0vro)
 * [2024-05-14, 20:38:10](https://news.ycombinator.com/item?id=40359893) - [Muse Retrospective](https://adamwiggins.com/muse-retrospective/)
-* [2024-05-14, 20:37:22](https://news.ycombinator.com/item?id=40359886) - [Higher RAII and the seven arcane uses of linear types](https://verdagon.dev/blog/higher-raii-uses-linear-types)
 * [2024-05-14, 20:22:42](https://news.ycombinator.com/item?id=40359736) - [Most common PIN codes](https://informationisbeautiful.net/visualizations/most-common-pin-codes/)
 * [2024-05-14, 19:38:41](https://news.ycombinator.com/item?id=40359250) - ['Shake' Design Documents](https://digitalcomposting.wordpress.com/2024/05/14/shake-design-documents/)
 * [2024-05-14, 19:24:02](https://news.ycombinator.com/item?id=40359086) - [One malicious car could trick smart traffic control systems in the US](https://www.bleepingcomputer.com/news/technology/one-single-malicious-vehicle-can-block-smart-street-intersections-in-the-us/)
@@ -22,6 +22,7 @@
 * [2024-05-14, 15:56:30](https://news.ycombinator.com/item?id=40356581) - [The 1871 Samuel Morse Statue (2014)](http://daytoninmanhattan.blogspot.com/2014/06/the-1871-samuel-morse-statue-central.html)
 * [2024-05-14, 14:57:55](https://news.ycombinator.com/item?id=40355875) - [Optimizing ClickHouse: Tactics that worked for us](https://www.highlight.io/blog/lw5-clickhouse-performance-optimization)
 * [2024-05-14, 14:44:37](https://news.ycombinator.com/item?id=40355744) - [Show HN: Pico: An open-source Ngrok alternative built for production traffic](https://github.com/andydunstall/pico)
+* [2024-05-14, 12:19:39](https://news.ycombinator.com/item?id=40354381) - [IBM and the Transformation of Corporate Design – CHM](https://computerhistory.org/blog/ibm-and-the-transformation-of-corporate-design/)
 * [2024-05-14, 11:46:17](https://news.ycombinator.com/item?id=40354130) - [New gel breaks down alcohol in the body](https://ethz.ch/en/news-and-events/eth-news/news/2024/05/press-release-new-gel-breaks-down-alcohol-in-the-body.html)
 * [2024-05-14, 11:10:17](https://news.ycombinator.com/item?id=40353874) - [A Tale of Two Sieves (1996) [pdf]](https://www.ams.org/notices/199612/pomerance.pdf)
 * [2024-05-14, 10:28:32](https://news.ycombinator.com/item?id=40353615) - [What factors explain the nature of software?](https://tratt.net/laurie/blog/2024/what_factors_explain_the_nature_of_software.html)
@@ -29,7 +30,6 @@
 * [2024-05-13, 21:54:06](https://news.ycombinator.com/item?id=40348947) - [GPT-4o's Memory Breakthrough – Needle in a Needlestack](http://nian.llmonpy.ai/)
 * [2024-05-13, 12:51:06](https://news.ycombinator.com/item?id=40342750) - [Frank Ramsey: A genius by all tests for genius (2020)](https://www.hnn.us/article/frank-ramsey-a-genius-by-all-tests-for-genius)
 * [2024-05-13, 07:14:54](https://news.ycombinator.com/item?id=40340536) - [Timekeeping Before Clocks](https://worldhistory.substack.com/p/to-cut-and-hack-my-days)
-* [2024-05-13, 06:05:46](https://news.ycombinator.com/item?id=40340226) - [Pen Plotter Programming: The Basics (2017)](https://medium.com/@fogleman/pen-plotter-programming-the-basics-ec0407ab5929)
 
 ## [Archives](archives/index.md)
 
