@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-14](index.md)
 
 * [2024-05-14, 16:16:53](https://news.ycombinator.com/item?id=40356833) - [ChatGPT consumes 25 times more energy than Google](https://www.brusselstimes.com/1042696/chatgpt-consumes-25-times-more-energy-than-google)
+* [2024-05-14, 16:10:58](https://news.ycombinator.com/item?id=40356751) - [What happened to 3D midair plasma displays?](https://spectrum.ieee.org/femtosecond-lasers-create-3d-midair-plasma-displays-you-can-touch)
 * [2024-05-14, 15:57:56](https://news.ycombinator.com/item?id=40356599) - [The Collapse Is Coming? Will Humanity Adapt?](https://thereader.mitpress.mit.edu/the-collapse-is-coming-will-humanity-adapt/)
 * [2024-05-14, 15:56:30](https://news.ycombinator.com/item?id=40356581) - [The 1871 Samuel Morse Statue (2014)](http://daytoninmanhattan.blogspot.com/2014/06/the-1871-samuel-morse-statue-central.html)
 * [2024-05-14, 15:08:26](https://news.ycombinator.com/item?id=40355995) - [Tesla labour dispute triggers Nordic sympathy strikes](https://www.reuters.com/business/autos-transportation/tesla-labour-dispute-ignites-nordic-sympathy-strikes-2023-12-07/)

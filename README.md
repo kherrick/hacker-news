@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-14, 16:16:53](https://news.ycombinator.com/item?id=40356833) - [ChatGPT consumes 25 times more energy than Google](https://www.brusselstimes.com/1042696/chatgpt-consumes-25-times-more-energy-than-google)
+* [2024-05-14, 16:10:58](https://news.ycombinator.com/item?id=40356751) - [What happened to 3D midair plasma displays?](https://spectrum.ieee.org/femtosecond-lasers-create-3d-midair-plasma-displays-you-can-touch)
 * [2024-05-14, 15:56:30](https://news.ycombinator.com/item?id=40356581) - [The 1871 Samuel Morse Statue (2014)](http://daytoninmanhattan.blogspot.com/2014/06/the-1871-samuel-morse-statue-central.html)
 * [2024-05-14, 15:07:41](https://news.ycombinator.com/item?id=40355982) - [Firefox search update](https://blog.mozilla.org/en/products/firefox/firefox-search-update/)
 * [2024-05-14, 14:53:33](https://news.ycombinator.com/item?id=40355825) - [Silicon reverse engineering: The 8085's undocumented flags (2013)](https://www.righto.com/2013/02/looking-at-silicon-to-understanding.html)
