@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-14, 21:00:48](https://news.ycombinator.com/item?id=40360112) - [Dart 3.4: WASM and Macros preview](https://medium.com/dartlang/dart-3-4-bd8d23b4462a)
 * [2024-05-14, 20:48:14](https://news.ycombinator.com/item?id=40359993) - [Contact of Containership Dali with the Key Bridge and Subsequent Bridge Collapse [pdf]](https://static01.nyt.com/newsgraphics/documenttools/6119296c8c79713a/0e214c46-full.pdf)
 * [2024-05-14, 20:46:49](https://news.ycombinator.com/item?id=40359976) - [Stone with ancient writing system unearthed in garden](https://www.bbc.co.uk/news/articles/c14kywyk0vro)
 * [2024-05-14, 20:38:10](https://news.ycombinator.com/item?id=40359893) - [Muse Retrospective](https://adamwiggins.com/muse-retrospective/)
@@ -30,6 +29,7 @@
 * [2024-05-13, 21:54:06](https://news.ycombinator.com/item?id=40348947) - [GPT-4o's Memory Breakthrough – Needle in a Needlestack](http://nian.llmonpy.ai/)
 * [2024-05-13, 12:51:06](https://news.ycombinator.com/item?id=40342750) - [Frank Ramsey: A genius by all tests for genius (2020)](https://www.hnn.us/article/frank-ramsey-a-genius-by-all-tests-for-genius)
 * [2024-05-13, 07:14:54](https://news.ycombinator.com/item?id=40340536) - [Timekeeping Before Clocks](https://worldhistory.substack.com/p/to-cut-and-hack-my-days)
+* [2024-05-13, 06:05:46](https://news.ycombinator.com/item?id=40340226) - [Pen Plotter Programming: The Basics (2017)](https://medium.com/@fogleman/pen-plotter-programming-the-basics-ec0407ab5929)
 
 ## [Archives](archives/index.md)
 
