@@ -4,13 +4,17 @@
 
 ### [Archives](../../index.md) for [2024-05-14](index.md)
 
+* [2024-05-14, 15:57:56](https://news.ycombinator.com/item?id=40356599) - [The Collapse Is Coming? Will Humanity Adapt?](https://thereader.mitpress.mit.edu/the-collapse-is-coming-will-humanity-adapt/)
+* [2024-05-14, 15:56:30](https://news.ycombinator.com/item?id=40356581) - [The 1871 Samuel Morse Statue (2014)](http://daytoninmanhattan.blogspot.com/2014/06/the-1871-samuel-morse-statue-central.html)
 * [2024-05-14, 15:08:26](https://news.ycombinator.com/item?id=40355995) - [Tesla labour dispute triggers Nordic sympathy strikes](https://www.reuters.com/business/autos-transportation/tesla-labour-dispute-ignites-nordic-sympathy-strikes-2023-12-07/)
 * [2024-05-14, 15:07:41](https://news.ycombinator.com/item?id=40355982) - [Firefox to collect anonymized and categorized search data](https://blog.mozilla.org/en/products/firefox/firefox-search-update/)
 * [2024-05-14, 15:07:18](https://news.ycombinator.com/item?id=40355974) - [VMware Desktop Hypervisor Pro Apps Now Available for Personal Use](https://blogs.vmware.com/cloud-foundation/2024/05/14/vmware-desktop-hypervisor-pro-apps-now-available-for-personal-use/)
 * [2024-05-14, 14:54:15](https://news.ycombinator.com/item?id=40355835) - [Idefics2: A Powerful 8B Vision-Language Model for the Community](https://huggingface.co/blog/idefics2)
 * [2024-05-14, 14:53:33](https://news.ycombinator.com/item?id=40355825) - [Silicon reverse engineering: The 8085's undocumented flags (2013)](https://www.righto.com/2013/02/looking-at-silicon-to-understanding.html)
+* [2024-05-14, 14:44:37](https://news.ycombinator.com/item?id=40355744) - [Show HN: Pico: An open-source Ngrok alternative built for production traffic](https://github.com/andydunstall/pico)
 * [2024-05-14, 14:35:25](https://news.ycombinator.com/item?id=40355649) - [WebKit Features in Safari 17.5](https://webkit.org/blog/15383/webkit-features-in-safari-17-5/)
 * [2024-05-14, 14:26:04](https://news.ycombinator.com/item?id=40355563) - [AI-generated spam is starting to fill social media. Here's why](https://www.npr.org/2024/05/14/1251072726/ai-spam-images-facebook-linkedin-threads-meta)
+* [2024-05-14, 14:24:02](https://news.ycombinator.com/item?id=40355544) - [Active learning is more effective, but students don't think so](https://arstechnica.com/science/2019/09/college-students-think-they-learn-less-with-an-effective-teaching-method/)
 * [2024-05-14, 13:54:43](https://news.ycombinator.com/item?id=40355255) - [AWS CEO to Step Down](https://www.aboutamazon.com/news/company-news/leadership-update-aws-adam-selipsky-matt-garman)
 * [2024-05-14, 13:51:26](https://news.ycombinator.com/item?id=40355227) - [Blazingly Fast Linked Lists](https://dygalo.dev/blog/blazingly-fast-linked-lists/)
 * [2024-05-14, 13:39:30](https://news.ycombinator.com/item?id=40355126) - [Silicon Valley once chafed at dictatorships. Then came a Middle East gold rush](https://www.washingtonpost.com/technology/2024/05/14/middle-east-ai-tech-companies-saudi-arabia-uae/)
