@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-14](index.md)
 
+* [2024-05-14, 03:33:47](https://news.ycombinator.com/item?id=40351410) - [We managed to speed up our CI to save 168 days of execution time per month](https://developers.home-assistant.io/blog/2024/05/09/improving-ci-test-execution/)
 * [2024-05-14, 02:44:07](https://news.ycombinator.com/item?id=40351141) - [The First Nuclear Microreactor Company Listed in the USA](https://nanonuclearenergy.com/)
 * [2024-05-14, 02:10:39](https://news.ycombinator.com/item?id=40350954) - [A review on protein languauge models](https://www.apoorva-srinivasan.com/plms/)
 * [2024-05-14, 01:26:34](https://news.ycombinator.com/item?id=40350625) - [Truffle ISLISP](https://arvyy.github.io/islisp-truffle/)

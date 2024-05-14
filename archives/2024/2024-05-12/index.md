@@ -17,6 +17,7 @@
 * [2024-05-12, 21:41:30](https://news.ycombinator.com/item?id=40337815) - [Mindfulness interventions for teens decrease mindfulness, study finds](https://suchscience.net/mindfulness-interventions-for-teens-actually-decrease-mindfulness-new-study-finds/)
 * [2024-05-12, 21:41:30](https://news.ycombinator.com/item?id=40337814) - [CPU DB, a complete database of processors for researchers and hobbyists alike](http://cpudb.stanford.edu/)
 * [2024-05-12, 21:03:02](https://news.ycombinator.com/item?id=40337555) - [Eventual (YC W22) Is Hiring Software Engineers to Build a Query Engine in Rust](https://jobs.ashbyhq.com/eventualcomputing?utm_source=Ox4R0k6rPN)
+* [2024-05-12, 20:44:33](https://news.ycombinator.com/item?id=40337445) - [SEQUEL: A Structured English Query Language (1974)](https://dl.acm.org/doi/epdf/10.1145/800296.811515)
 * [2024-05-12, 20:35:31](https://news.ycombinator.com/item?id=40337380) - [Study found corporate recruiters have a bias against ex-entrepreneurs](https://fortune.com/2024/05/12/entrepreneur-founder-startup-hiring-interview-bias-recruiter-jobs/)
 * [2024-05-12, 20:28:55](https://news.ycombinator.com/item?id=40337345) - [Tech startup connects to two satellites in orbit from Earth via Bluetooth](https://www.techradar.com/pro/tech-startup-connects-to-two-satellites-in-orbit-from-earth-via-bluetooth-using-off-the-shelf-chip-and-a-software-update)
 * [2024-05-12, 20:13:37](https://news.ycombinator.com/item?id=40337241) - [Parallel garbage collection for SBCL (2023)](https://zenodo.org/records/7816398)
