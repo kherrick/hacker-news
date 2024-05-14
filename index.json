@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-05-14, 12:04:11",
-      "https://news.ycombinator.com/item?id=40354268"
+      "2024-05-14, 12:54:45",
+      "https://news.ycombinator.com/item?id=40354702"
     ],
     [
-      "'Has this guy ever made a movie before?' Coppola's battle to film Megalopolis",
-      "https://www.theguardian.com/film/article/2024/may/14/has-this-guy-ever-made-a-movie-before-francis-ford-coppola-40-year-battle-megalopolis"
+      "EU Commission Designates Booking as a Gatekeeper",
+      "https://ec.europa.eu/commission/presscorner/detail/fen/ip_24_2561"
     ]
   ],
   [
@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-05-14, 10:24:25",
-      "https://news.ycombinator.com/item?id=40353585"
-    ],
-    [
-      "Top doctor remains brain cancer-free after a year (of his own treatment)",
-      "https://www.bbc.co.uk/news/world-australia-69006713"
-    ]
-  ],
-  [
-    [
       "2024-05-14, 07:56:13",
       "https://news.ycombinator.com/item?id=40352686"
     ],
@@ -57,6 +47,16 @@
     [
       "Verilator: Open-Source SystemVerilog simulator and lint system",
       "https://github.com/verilator/verilator"
+    ]
+  ],
+  [
+    [
+      "2024-05-14, 03:33:47",
+      "https://news.ycombinator.com/item?id=40351410"
+    ],
+    [
+      "We managed to speed up our CI to save 168 days of execution time per month",
+      "https://developers.home-assistant.io/blog/2024/05/09/improving-ci-test-execution/"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2024-05-13, 11:31:25",
+      "https://news.ycombinator.com/item?id=40342012"
+    ],
+    [
+      "Optimising the Fun Out of Video Games (2018)",
+      "https://henryvincent.uk/2018/09/13/optimising-the-fun-out-of-video-games/"
+    ]
+  ],
+  [
+    [
       "2024-05-13, 11:30:33",
       "https://news.ycombinator.com/item?id=40342008"
     ],
@@ -277,16 +287,6 @@
     [
       "Pen Plotter Programming: The Basics (2017)",
       "https://medium.com/@fogleman/pen-plotter-programming-the-basics-ec0407ab5929"
-    ]
-  ],
-  [
-    [
-      "2024-05-13, 06:05:09",
-      "https://news.ycombinator.com/item?id=40340220"
-    ],
-    [
-      "Fifteen Fundamental Properties (2022)",
-      "https://camillovisini.com/writing/fifteen-fundamental-properties"
     ]
   ],
   [
