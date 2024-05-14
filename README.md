@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-14, 12:08:52](https://news.ycombinator.com/item?id=40354304) - [Google made a version of ChromeOS that runs on Pixel, including external monitor](https://9to5google.com/2024/05/13/google-pixel-8-android-chromeos-report/)
+* [2024-05-14, 12:14:01](https://news.ycombinator.com/item?id=40354344) - [AI Startup Co-Founded by David Sacks Officially Launches](https://www.bloomberg.com/news/articles/2024-05-14/david-sacks-ai-startup-glue-has-officially-launched)
 * [2024-05-14, 12:04:11](https://news.ycombinator.com/item?id=40354268) - ['Has this guy ever made a movie before?' Coppola's battle to film Megalopolis](https://www.theguardian.com/film/article/2024/may/14/has-this-guy-ever-made-a-movie-before-francis-ford-coppola-40-year-battle-megalopolis)
 * [2024-05-14, 12:00:15](https://news.ycombinator.com/item?id=40354241) - [Unriddle (YC S24) Is Hiring a Founding Engineer](https://www.workatastartup.com/jobs/66506)
 * [2024-05-14, 11:24:02](https://news.ycombinator.com/item?id=40353963) - [My VM is lighter (and safer) than your container (2017)](https://dl.acm.org/doi/10.1145/3132747.3132763)
@@ -20,6 +20,7 @@
 * [2024-05-13, 17:28:00](https://news.ycombinator.com/item?id=40345775) - [GPT-4o](https://openai.com/index/hello-gpt-4o/)
 * [2024-05-13, 17:21:14](https://news.ycombinator.com/item?id=40345696) - [Show HN: An open source framework for voice assistants](https://github.com/pipecat-ai/pipecat)
 * [2024-05-13, 17:16:54](https://news.ycombinator.com/item?id=40345654) - [Deblur-GS: 3D Gaussian splatting from camera motion blurred images](https://chaphlagical.icu/Deblur-GS/)
+* [2024-05-13, 16:17:20](https://news.ycombinator.com/item?id=40344946) - [Unix version control lore: what, ident](https://dotat.at/@/2024-05-13-what-ident.html)
 * [2024-05-13, 12:56:34](https://news.ycombinator.com/item?id=40342803) - [Static Chess](https://www.val.town/v/maxm/staticChess)
 * [2024-05-13, 11:30:33](https://news.ycombinator.com/item?id=40342008) - [A Pattern Language](https://patternlanguage.cc/)
 * [2024-05-13, 10:52:38](https://news.ycombinator.com/item?id=40341733) - [Disney's Robots Use Rockets to Stick the Landing](https://spectrum.ieee.org/disney-robot-2668135204)
@@ -29,7 +30,6 @@
 * [2024-05-13, 06:19:22](https://news.ycombinator.com/item?id=40340289) - [Why Surrealism Matters: Book review](https://www.the-tls.co.uk/articles/why-surrealism-matters-by-mark-polizzotti-book-review/)
 * [2024-05-13, 06:05:46](https://news.ycombinator.com/item?id=40340226) - [Pen Plotter Programming: The Basics (2017)](https://medium.com/@fogleman/pen-plotter-programming-the-basics-ec0407ab5929)
 * [2024-05-13, 05:35:04](https://news.ycombinator.com/item?id=40340104) - [MSX Elite](https://thefoggiest.dev/2024/05/13/msx-elite)
-* [2024-05-12, 11:37:11](https://news.ycombinator.com/item?id=40333584) - [Overbite Project: Why still use Gopher? What makes Gopher relevant?](https://gopher.floodgap.com/overbite/relevance.html)
 
 ## [Archives](archives/index.md)
 

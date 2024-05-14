@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-14](index.md)
 
+* [2024-05-14, 12:14:01](https://news.ycombinator.com/item?id=40354344) - [AI Startup Co-Founded by David Sacks Officially Launches](https://www.bloomberg.com/news/articles/2024-05-14/david-sacks-ai-startup-glue-has-officially-launched)
 * [2024-05-14, 12:08:52](https://news.ycombinator.com/item?id=40354304) - [Google made a version of ChromeOS that runs on Pixel, including external monitor](https://9to5google.com/2024/05/13/google-pixel-8-android-chromeos-report/)
 * [2024-05-14, 12:04:11](https://news.ycombinator.com/item?id=40354268) - ['Has this guy ever made a movie before?' Coppola's battle to film Megalopolis](https://www.theguardian.com/film/article/2024/may/14/has-this-guy-ever-made-a-movie-before-francis-ford-coppola-40-year-battle-megalopolis)
 * [2024-05-14, 12:00:15](https://news.ycombinator.com/item?id=40354241) - [Unriddle (YC S24) Is Hiring a Founding Engineer](https://www.workatastartup.com/jobs/66506)
