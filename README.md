@@ -25,10 +25,10 @@
 * [2024-05-13, 11:30:33](https://news.ycombinator.com/item?id=40342008) - [A Pattern Language](https://patternlanguage.cc/)
 * [2024-05-13, 10:52:38](https://news.ycombinator.com/item?id=40341733) - [Disney's Robots Use Rockets to Stick the Landing](https://spectrum.ieee.org/disney-robot-2668135204)
 * [2024-05-13, 10:12:44](https://news.ycombinator.com/item?id=40341508) - [Commodore 64 runs AI to generate images](https://www.tomshardware.com/tech-industry/artificial-intelligence/commodore-64-can-use-ai-to-generate-8x8-sprites-takes-20-minutes-for-90-iterations)
-* [2024-05-13, 08:39:30](https://news.ycombinator.com/item?id=40341037) - [Ask HN: Founders who offer free/OS and paid SaaS, how do you manage your code?](https://news.ycombinator.com/item?id=40341037)
 * [2024-05-13, 07:14:54](https://news.ycombinator.com/item?id=40340536) - [Timekeeping Before Clocks](https://worldhistory.substack.com/p/to-cut-and-hack-my-days)
 * [2024-05-13, 06:19:22](https://news.ycombinator.com/item?id=40340289) - [Why Surrealism Matters: Book review](https://www.the-tls.co.uk/articles/why-surrealism-matters-by-mark-polizzotti-book-review/)
 * [2024-05-13, 06:05:46](https://news.ycombinator.com/item?id=40340226) - [Pen Plotter Programming: The Basics (2017)](https://medium.com/@fogleman/pen-plotter-programming-the-basics-ec0407ab5929)
+* [2024-05-13, 06:05:09](https://news.ycombinator.com/item?id=40340220) - [Fifteen Fundamental Properties (2022)](https://camillovisini.com/writing/fifteen-fundamental-properties)
 * [2024-05-13, 05:35:04](https://news.ycombinator.com/item?id=40340104) - [MSX Elite](https://thefoggiest.dev/2024/05/13/msx-elite)
 
 ## [Archives](archives/index.md)
