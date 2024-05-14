@@ -13,6 +13,7 @@
 * [2024-05-13, 22:33:01](https://news.ycombinator.com/item?id=40349347) - [Not an iPad Pro Review: Why iPadOS Still Doesn't Get the Basics Right](https://www.macstories.net/stories/not-an-ipad-pro-review/)
 * [2024-05-13, 22:26:41](https://news.ycombinator.com/item?id=40349288) - [In 2017, the feds said Tesla Autopilot cut crashes 40%–that was bogus](https://arstechnica.com/cars/2019/02/in-2017-the-feds-said-tesla-autopilot-cut-crashes-40-that-was-bogus/)
 * [2024-05-13, 22:12:55](https://news.ycombinator.com/item?id=40349145) - [Towards Accurate and Efficient Document Analytics with Large Language Models](https://arxiv.org/abs/2405.04674)
+* [2024-05-13, 21:57:48](https://news.ycombinator.com/item?id=40348986) - [Which cognitive psychology findings are solid that I can use to help students?](https://matheducators.stackexchange.com/questions/27839/which-cognitive-psychology-findings-are-solid-that-i-can-use-to-help-my-student)
 * [2024-05-13, 21:54:53](https://news.ycombinator.com/item?id=40348957) - [Intel announces the Aurora supercomputer has broken the exascale barrier](https://www.intel.com/content/www/us/en/newsroom/news/intel-powered-aurora-supercomputer-breaks-exascale-barrier.html)
 * [2024-05-13, 21:28:13](https://news.ycombinator.com/item?id=40348711) - [Companies Say They're Using Microphone Audio to Target Ads [audio]](https://open.spotify.com/episode/5gdoHM1v4hyXOWKHWPSTFF)
 * [2024-05-13, 21:24:02](https://news.ycombinator.com/item?id=40348648) - [Tired of Makefiles](https://dmitryfrank.com/blog/2016/1211_i_am_tired_of_makefiles)
