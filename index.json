@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-05-14, 10:59:01",
-      "https://news.ycombinator.com/item?id=40353805"
+      "2024-05-14, 11:24:02",
+      "https://news.ycombinator.com/item?id=40353963"
     ],
     [
-      "Why are Google and Facebook free? The answer might be worse than you think",
-      "https://tuta.com/blog/google-facebook-free"
+      "My VM is lighter (and safer) than your container",
+      "https://dl.acm.org/doi/10.1145/3132747.3132763"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2024-05-13, 06:26:46",
-      "https://news.ycombinator.com/item?id=40340316"
-    ],
-    [
-      "The Death of a Mnemonist",
-      "https://www.historytoday.com/archive/months-past/death-mnemonist"
-    ]
-  ],
-  [
-    [
       "2024-05-13, 06:05:46",
       "https://news.ycombinator.com/item?id=40340226"
     ],
@@ -297,6 +287,16 @@
     [
       "SEQUEL: A Structured English Query Language (1974)",
       "https://dl.acm.org/doi/epdf/10.1145/800296.811515"
+    ]
+  ],
+  [
+    [
+      "2024-05-12, 11:37:11",
+      "https://news.ycombinator.com/item?id=40333584"
+    ],
+    [
+      "Overbite Project: Why still use Gopher? What makes Gopher relevant?",
+      "https://gopher.floodgap.com/overbite/relevance.html"
     ]
   ]
 ]
