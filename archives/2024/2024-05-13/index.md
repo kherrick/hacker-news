@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-05-13](index.md)
 
+* [2024-05-13, 23:44:19](https://news.ycombinator.com/item?id=40349913) - [IndexedDB as a Vector Database](https://paul.kinlan.me/idb-as-a-vector-database/)
+* [2024-05-13, 23:24:30](https://news.ycombinator.com/item?id=40349762) - [FDA: Do Not Use Cue Health's Covid-19 Tests Due to Risk of False Results](https://www.fda.gov/medical-devices/safety-communications/do-not-use-cue-healths-covid-19-tests-due-risk-false-results-fda-safety-communication)
 * [2024-05-13, 23:14:14](https://news.ycombinator.com/item?id=40349690) - [Australian man says border force made him hand over phone passcode](https://www.theguardian.com/australia-news/article/2024/may/14/australian-man-says-border-force-made-him-hand-over-phone-passcode-by-threatening-to-keep-device-indefinitely)
+* [2024-05-13, 23:09:44](https://news.ycombinator.com/item?id=40349658) - [Chatbots tell people what they want to hear](https://hub.jhu.edu/2024/05/13/chatbots-tell-people-what-they-want-to-hear/)
 * [2024-05-13, 22:33:01](https://news.ycombinator.com/item?id=40349347) - [Not an iPad Pro Review: Why iPadOS Still Doesn't Get the Basics Right](https://www.macstories.net/stories/not-an-ipad-pro-review/)
 * [2024-05-13, 22:26:41](https://news.ycombinator.com/item?id=40349288) - [In 2017, the feds said Tesla Autopilot cut crashes 40%–that was bogus](https://arstechnica.com/cars/2019/02/in-2017-the-feds-said-tesla-autopilot-cut-crashes-40-that-was-bogus/)
 * [2024-05-13, 22:12:55](https://news.ycombinator.com/item?id=40349145) - [Towards Accurate and Efficient Document Analytics with Large Language Models](https://arxiv.org/abs/2405.04674)
@@ -94,8 +97,10 @@
 * [2024-05-13, 06:26:46](https://news.ycombinator.com/item?id=40340316) - [The Death of a Mnemonist](https://www.historytoday.com/archive/months-past/death-mnemonist)
 * [2024-05-13, 06:20:02](https://news.ycombinator.com/item?id=40340292) - [NPM package is-even has over 140k weekly downloads](https://www.npmjs.com/package/is-even)
 * [2024-05-13, 06:19:22](https://news.ycombinator.com/item?id=40340289) - [Head boy of Surrealism: How André Breton policed a movement for artistic freedom](https://www.the-tls.co.uk/articles/why-surrealism-matters-by-mark-polizzotti-book-review/)
+* [2024-05-13, 06:18:12](https://news.ycombinator.com/item?id=40340285) - [Preserving the Wilderness Idea](https://hedgehogreview.com/issues/missing-character/articles/preserving-the-wilderness-idea)
 * [2024-05-13, 06:11:38](https://news.ycombinator.com/item?id=40340248) - [Exploring GNU extensions in the Linux kernel](https://maskray.me/blog/2024-05-12-exploring-gnu-extensions-in-linux-kernel)
 * [2024-05-13, 06:05:09](https://news.ycombinator.com/item?id=40340220) - [Fifteen Fundamental Properties](https://camillovisini.com/writing/fifteen-fundamental-properties)
+* [2024-05-13, 05:59:25](https://news.ycombinator.com/item?id=40340197) - [SQL co-creator embraces NoSQL](https://www.theregister.com/2024/05/10/sql_cocreator_nosql/)
 * [2024-05-13, 05:24:21](https://news.ycombinator.com/item?id=40340055) - [State actor blamed for cyberattack on B.C. government systems](https://www.cbc.ca/news/canada/british-columbia/bc-government-cyberattack-state-actor-1.7200735)
 * [2024-05-13, 05:12:54](https://news.ycombinator.com/item?id=40339998) - [GNU LibreJS: blocks JavaScript traps](https://www.gnu.org/software/librejs/)
 * [2024-05-13, 04:43:58](https://news.ycombinator.com/item?id=40339852) - [Ordered back to the office, top tech talent left instead, study finds](https://www.washingtonpost.com/business/2024/05/12/rto-microsoft-apple-spacex/)
