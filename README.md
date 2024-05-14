@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-14, 21:12:33](https://news.ycombinator.com/item?id=40360217) - [Firebase App Hosting](https://firebase.blog/posts/2024/05/introducing-app-hosting/)
 * [2024-05-14, 21:00:48](https://news.ycombinator.com/item?id=40360112) - [Dart 3.4 (WASM and Macros preview)](https://medium.com/dartlang/dart-3-4-bd8d23b4462a)
 * [2024-05-14, 20:48:14](https://news.ycombinator.com/item?id=40359993) - [Contact of Containership Dali with the Key Bridge and Subsequent Bridge Collapse [pdf]](https://static01.nyt.com/newsgraphics/documenttools/6119296c8c79713a/0e214c46-full.pdf)
 * [2024-05-14, 20:46:49](https://news.ycombinator.com/item?id=40359976) - [Stone with ancient writing system unearthed in garden](https://www.bbc.co.uk/news/articles/c14kywyk0vro)
@@ -15,7 +16,6 @@
 * [2024-05-14, 17:29:19](https://news.ycombinator.com/item?id=40357681) - [Model Explorer: intuitive and hierarchical visualization of model graphs](https://ai.google.dev/edge/model-explorer)
 * [2024-05-14, 17:23:30](https://news.ycombinator.com/item?id=40357611) - [Glance: A self-hosted dashboard that puts all your feeds in one place](https://github.com/glanceapp/glance)
 * [2024-05-14, 17:00:35](https://news.ycombinator.com/item?id=40357330) - [Linum (YC W23) is hiring a founding AI engineer to train text-to-video models](https://www.workatastartup.com/jobs/66397)
-* [2024-05-14, 16:55:58](https://news.ycombinator.com/item?id=40357271) - [VMware Fusion Pro: Now available free for personal use](https://blogs.vmware.com/teamfusion/2024/05/fusion-pro-now-available-free-for-personal-use.html)
 * [2024-05-14, 16:42:54](https://news.ycombinator.com/item?id=40357141) - [Sir, there's a cat in your mirror dimension](https://lcamtuf.substack.com/p/sir-theres-a-cat-in-your-mirror-dimension)
 * [2024-05-14, 16:42:38](https://news.ycombinator.com/item?id=40357139) - [Compiler Explorer](https://thechipletter.substack.com/p/compiler-explorer)
 * [2024-05-14, 16:10:58](https://news.ycombinator.com/item?id=40356751) - [Femtosecond lasers create 3D midair plasma displays you can touch](https://spectrum.ieee.org/femtosecond-lasers-create-3d-midair-plasma-displays-you-can-touch)
