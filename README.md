@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-14, 22:17:56](https://news.ycombinator.com/item?id=40360797) - [Google I/O AI announcements in 60 seconds](https://buttondown.email/ainews/archive/ainews-google-io-in-60-seconds/)
 * [2024-05-14, 20:48:14](https://news.ycombinator.com/item?id=40359993) - [Contact of Containership Dali with the Key Bridge and Subsequent Bridge Collapse [pdf]](https://static01.nyt.com/newsgraphics/documenttools/6119296c8c79713a/0e214c46-full.pdf)
 * [2024-05-14, 20:46:49](https://news.ycombinator.com/item?id=40359976) - [Stone with ancient writing system unearthed in garden](https://www.bbc.co.uk/news/articles/c14kywyk0vro)
 * [2024-05-14, 20:38:10](https://news.ycombinator.com/item?id=40359893) - [Muse Retrospective](https://adamwiggins.com/muse-retrospective/)
@@ -26,6 +25,7 @@
 * [2024-05-14, 10:15:13](https://news.ycombinator.com/item?id=40353529) - [Researchers find high levels of lead, mercury and arsenic in Beethoven's hair](https://www.smithsonianmag.com/smart-news/locks-of-beethovens-hair-are-unraveling-the-mysteries-of-his-deafness-and-illnesses-180984332/)
 * [2024-05-14, 01:59:59](https://news.ycombinator.com/item?id=40350892) - [The creator of 'Magic: The Gathering' knows where it all went wrong](https://defector.com/the-creator-of-magic-the-gathering-knows-exactly-where-it-all-went-wrong)
 * [2024-05-13, 21:54:06](https://news.ycombinator.com/item?id=40348947) - [GPT-4o's Memory Breakthrough – Needle in a Needlestack](http://nian.llmonpy.ai/)
+* [2024-05-13, 12:51:06](https://news.ycombinator.com/item?id=40342750) - [Frank Ramsey: A genius by all tests for genius (2020)](https://www.hnn.us/article/frank-ramsey-a-genius-by-all-tests-for-genius)
 * [2024-05-13, 12:15:36](https://news.ycombinator.com/item?id=40342438) - [Why everyone is heading back to the Moon](https://www.bloomberg.com/features/2024-moon-race-explained/)
 * [2024-05-13, 11:41:11](https://news.ycombinator.com/item?id=40342105) - [Prolog and Natural-Language Analysis (1987) [pdf]](http://www.mtome.com/Publications/PNLA/prolog-digital.pdf)
 * [2024-05-13, 07:14:54](https://news.ycombinator.com/item?id=40340536) - [Timekeeping Before Clocks](https://worldhistory.substack.com/p/to-cut-and-hack-my-days)
