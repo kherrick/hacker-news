@@ -1,8 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-14, 20:06:14](https://news.ycombinator.com/item?id=40359560) - [2023 summer warmth unparalleled over the past 2k years](https://www.nature.com/articles/s41586-024-07512-y)
 * [2024-05-14, 19:38:41](https://news.ycombinator.com/item?id=40359250) - ['Shake' Design Documents](https://digitalcomposting.wordpress.com/2024/05/14/shake-design-documents/)
-* [2024-05-14, 19:22:47](https://news.ycombinator.com/item?id=40359076) - [Ask HN: Disillusioned after AI?](https://news.ycombinator.com/item?id=40359076)
 * [2024-05-14, 19:22:39](https://news.ycombinator.com/item?id=40359073) - [Cold plunging might help heart health, new research suggests](https://around.uoregon.edu/content/cold-plunging-might-help-heart-health-new-research-suggests)
 * [2024-05-14, 19:18:28](https://news.ycombinator.com/item?id=40359019) - [Google is overhauling search results with AI overviews and Gemini organization](https://www.theverge.com/2024/5/14/24155321/google-search-ai-results-page-gemini-overview)
 * [2024-05-14, 18:40:50](https://news.ycombinator.com/item?id=40358588) - [The new APT 3.0 solver](https://blog.jak-linux.org/2024/05/14/solver3/)
@@ -26,6 +24,8 @@
 * [2024-05-14, 11:10:17](https://news.ycombinator.com/item?id=40353874) - [A Tale of Two Sieves (1996) [pdf]](https://www.ams.org/notices/199612/pomerance.pdf)
 * [2024-05-14, 10:28:32](https://news.ycombinator.com/item?id=40353615) - [What factors explain the nature of software?](https://tratt.net/laurie/blog/2024/what_factors_explain_the_nature_of_software.html)
 * [2024-05-14, 10:15:13](https://news.ycombinator.com/item?id=40353529) - [Researchers find high levels of lead, mercury and arsenic in Beethoven's hair](https://www.smithsonianmag.com/smart-news/locks-of-beethovens-hair-are-unraveling-the-mysteries-of-his-deafness-and-illnesses-180984332/)
+* [2024-05-14, 07:56:13](https://news.ycombinator.com/item?id=40352686) - [The notifier pattern for applications that use Postgres](https://brandur.org/notifier)
+* [2024-05-13, 21:54:06](https://news.ycombinator.com/item?id=40348947) - [GPT-4o's Memory Breakthrough – Needle in a Needlestack](http://nian.llmonpy.ai/)
 * [2024-05-13, 12:51:06](https://news.ycombinator.com/item?id=40342750) - [Frank Ramsey: A genius by all tests for genius (2020)](https://www.hnn.us/article/frank-ramsey-a-genius-by-all-tests-for-genius)
 * [2024-05-13, 10:52:38](https://news.ycombinator.com/item?id=40341733) - [Disney's robots use rockets to stick the landing](https://spectrum.ieee.org/disney-robot-2668135204)
 * [2024-05-13, 07:14:54](https://news.ycombinator.com/item?id=40340536) - [Timekeeping Before Clocks](https://worldhistory.substack.com/p/to-cut-and-hack-my-days)
