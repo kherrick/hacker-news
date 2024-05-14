@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-14](index.md)
 
+* [2024-05-14, 23:37:25](https://news.ycombinator.com/item?id=40361387) - [The Most Talented Person in the World](https://matt.sh/the-most-talented-person)
 * [2024-05-14, 23:01:26](https://news.ycombinator.com/item?id=40361128) - [Ilya Sutskever to leave OpenAI](https://twitter.com/ilyasut/status/1790517455628198322)
 * [2024-05-14, 22:17:56](https://news.ycombinator.com/item?id=40360797) - [Google I/O AI announcements in 60 seconds](https://buttondown.email/ainews/archive/ainews-google-io-in-60-seconds/)
 * [2024-05-14, 21:12:33](https://news.ycombinator.com/item?id=40360217) - [Firebase App Hosting](https://firebase.blog/posts/2024/05/introducing-app-hosting/)
