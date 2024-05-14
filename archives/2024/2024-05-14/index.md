@@ -6,6 +6,7 @@
 
 * [2024-05-14, 18:19:01](https://news.ycombinator.com/item?id=40358309) - [Glider – open-source eInk monitor with an emphasis on low latency](https://github.com/Modos-Labs/Glider)
 * [2024-05-14, 18:15:05](https://news.ycombinator.com/item?id=40358257) - [Project Astra](https://www.theverge.com/2024/5/14/24156296/google-ai-gemini-astra-assistant-live-io)
+* [2024-05-14, 18:00:59](https://news.ycombinator.com/item?id=40358071) - [Gemini Flash](https://deepmind.google/technologies/gemini/flash/)
 * [2024-05-14, 17:58:26](https://news.ycombinator.com/item?id=40358041) - [Veo](https://deepmind.google/technologies/veo/)
 * [2024-05-14, 17:39:10](https://news.ycombinator.com/item?id=40357784) - [Google announces Veo, their Sora competing text/image-to-video model](https://aitestkitchen.withgoogle.com/tools/video-fx)
 * [2024-05-14, 17:32:14](https://news.ycombinator.com/item?id=40357724) - [Alabama prisoners' organs vanish, and there's a whole lot of passing the buck](https://www.al.com/news/2024/02/archibald-alabama-prisoners-organs-vanish-and-theres-a-whole-lot-of-passing-the-buck-and-the-bodies.html)
