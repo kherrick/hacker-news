@@ -5,7 +5,10 @@
 ### [Archives](../../index.md) for [2024-05-14](index.md)
 
 * [2024-05-14, 19:38:41](https://news.ycombinator.com/item?id=40359250) - ['Shake' Design Documents](https://digitalcomposting.wordpress.com/2024/05/14/shake-design-documents/)
+* [2024-05-14, 19:29:38](https://news.ycombinator.com/item?id=40359141) - [Gemini 1.5 Pro updates, 1.5 Flash debut and 2 new Gemma models](https://blog.google/technology/developers/gemini-gemma-developer-updates-may-2024/)
+* [2024-05-14, 19:22:47](https://news.ycombinator.com/item?id=40359076) - [Ask HN: Disillusioned After AI](https://news.ycombinator.com/item?id=40359076)
 * [2024-05-14, 19:18:28](https://news.ycombinator.com/item?id=40359019) - [Google is redesigning its search engine – and it's AI all the way down](https://www.theverge.com/2024/5/14/24155321/google-search-ai-results-page-gemini-overview)
+* [2024-05-14, 18:58:32](https://news.ycombinator.com/item?id=40358777) - [Show HN: Fast AI model inference on the edge](https://www.anycores.com/)
 * [2024-05-14, 18:49:39](https://news.ycombinator.com/item?id=40358684) - [Google Gems](https://blog.google/products/gemini/google-gemini-update-may-2024/)
 * [2024-05-14, 18:40:50](https://news.ycombinator.com/item?id=40358588) - [The new APT 3.0 solver](https://blog.jak-linux.org/2024/05/14/solver3/)
 * [2024-05-14, 18:30:21](https://news.ycombinator.com/item?id=40358461) - [PaliGemma](https://ai.google.dev/gemma/docs/paligemma)
