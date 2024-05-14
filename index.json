@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-05-14, 15:57:56",
-      "https://news.ycombinator.com/item?id=40356599"
+      "2024-05-14, 16:16:53",
+      "https://news.ycombinator.com/item?id=40356833"
     ],
     [
-      "The Collapse Is Coming? Will Humanity Adapt?",
-      "https://thereader.mitpress.mit.edu/the-collapse-is-coming-will-humanity-adapt/"
+      "ChatGPT consumes 25 times more energy than Google",
+      "https://www.brusselstimes.com/1042696/chatgpt-consumes-25-times-more-energy-than-google"
     ]
   ],
   [
@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=40355982"
     ],
     [
-      "Firefox to collect anonymized and categorized search data",
+      "Firefox search update",
       "https://blog.mozilla.org/en/products/firefox/firefox-search-update/"
     ]
   ],
@@ -41,22 +41,22 @@
   ],
   [
     [
+      "2024-05-14, 14:51:02",
+      "https://news.ycombinator.com/item?id=40355804"
+    ],
+    [
+      "Learning from the Object-Oriented Mania",
+      "https://lemire.me/blog/2024/05/14/learning-from-the-object-oriented-mania/"
+    ]
+  ],
+  [
+    [
       "2024-05-14, 14:44:37",
       "https://news.ycombinator.com/item?id=40355744"
     ],
     [
       "Show HN: Pico: An open-source Ngrok alternative built for production traffic",
       "https://github.com/andydunstall/pico"
-    ]
-  ],
-  [
-    [
-      "2024-05-14, 14:24:02",
-      "https://news.ycombinator.com/item?id=40355544"
-    ],
-    [
-      "Active learning is more effective, but students don't think so",
-      "https://arstechnica.com/science/2019/09/college-students-think-they-learn-less-with-an-effective-teaching-method/"
     ]
   ],
   [
@@ -175,7 +175,7 @@
       "https://news.ycombinator.com/item?id=40347662"
     ],
     [
-      "DOS game ”F-15 Strike Eagle II” reverse engineering/reconstruction war stories",
+      "DOS game “F-15 Strike Eagle II” reverse engineering/reconstruction war stories",
       "https://neuviemeporte.github.io/category/f15-se2.html"
     ]
   ],
@@ -207,16 +207,6 @@
     [
       "GPT-4o",
       "https://openai.com/index/hello-gpt-4o/"
-    ]
-  ],
-  [
-    [
-      "2024-05-13, 17:21:14",
-      "https://news.ycombinator.com/item?id=40345696"
-    ],
-    [
-      "Show HN: An open source framework for voice assistants",
-      "https://github.com/pipecat-ai/pipecat"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Commodore 64 runs AI to generate images",
       "https://www.tomshardware.com/tech-industry/artificial-intelligence/commodore-64-can-use-ai-to-generate-8x8-sprites-takes-20-minutes-for-90-iterations"
+    ]
+  ],
+  [
+    [
+      "2024-05-13, 07:48:11",
+      "https://news.ycombinator.com/item?id=40340725"
+    ],
+    [
+      "The Guide to Haskell Strings",
+      "https://hasufell.github.io/posts/2024-05-07-ultimate-string-guide.html"
     ]
   ],
   [
