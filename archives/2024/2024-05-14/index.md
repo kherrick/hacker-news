@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-05-14](index.md)
 
+* [2024-05-14, 20:22:42](https://news.ycombinator.com/item?id=40359736) - [Most Common Pin Codes](https://informationisbeautiful.net/visualizations/most-common-pin-codes/)
 * [2024-05-14, 20:06:14](https://news.ycombinator.com/item?id=40359560) - [2023 summer warmth unparalleled over the past 2k years](https://www.nature.com/articles/s41586-024-07512-y)
 * [2024-05-14, 19:38:41](https://news.ycombinator.com/item?id=40359250) - ['Shake' Design Documents](https://digitalcomposting.wordpress.com/2024/05/14/shake-design-documents/)
 * [2024-05-14, 19:29:38](https://news.ycombinator.com/item?id=40359141) - [Gemini 1.5 Pro updates, 1.5 Flash debut and 2 new Gemma models](https://blog.google/technology/developers/gemini-gemma-developer-updates-may-2024/)
+* [2024-05-14, 19:24:02](https://news.ycombinator.com/item?id=40359086) - [One malicious car could trick smart traffic control systems in the US](https://www.bleepingcomputer.com/news/technology/one-single-malicious-vehicle-can-block-smart-street-intersections-in-the-us/)
 * [2024-05-14, 19:22:47](https://news.ycombinator.com/item?id=40359076) - [Ask HN: Disillusioned After AI](https://news.ycombinator.com/item?id=40359076)
 * [2024-05-14, 19:22:39](https://news.ycombinator.com/item?id=40359073) - [Cold plunging might help heart health, new research suggests](https://around.uoregon.edu/content/cold-plunging-might-help-heart-health-new-research-suggests)
 * [2024-05-14, 19:18:28](https://news.ycombinator.com/item?id=40359019) - [Google is redesigning its search engine – and it's AI all the way down](https://www.theverge.com/2024/5/14/24155321/google-search-ai-results-page-gemini-overview)
