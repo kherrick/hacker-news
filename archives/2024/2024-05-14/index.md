@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-05-14](index.md)
 
+* [2024-05-14, 17:58:26](https://news.ycombinator.com/item?id=40358041) - [Veo](https://deepmind.google/technologies/veo/)
+* [2024-05-14, 17:39:10](https://news.ycombinator.com/item?id=40357784) - [Google announces Veo, their Sora competing text/image-to-video model](https://aitestkitchen.withgoogle.com/tools/video-fx)
+* [2024-05-14, 17:32:14](https://news.ycombinator.com/item?id=40357724) - [Alabama prisoners' organs vanish, and there's a whole lot of passing the buck](https://www.al.com/news/2024/02/archibald-alabama-prisoners-organs-vanish-and-theres-a-whole-lot-of-passing-the-buck-and-the-bodies.html)
+* [2024-05-14, 17:31:01](https://news.ycombinator.com/item?id=40357706) - [We Closed Institutions That Housed Mentally Ill, Made It Harder to Receive Care](https://freddiedeboer.substack.com/p/we-closed-the-institutions-that-housed)
 * [2024-05-14, 17:29:19](https://news.ycombinator.com/item?id=40357681) - [Google Edge AI Model Explorer](https://github.com/google-ai-edge/model-explorer)
 * [2024-05-14, 17:28:26](https://news.ycombinator.com/item?id=40357671) - [Meta Is Shuttering Workplace, Its Enterprise Version of Facebook](https://finance.yahoo.com/news/meta-shuttering-workplace-enterprise-version-170030864.html)
 * [2024-05-14, 17:18:37](https://news.ycombinator.com/item?id=40357543) - [Disruptions Loom as 17 Air Traffic Controllers Balk at Job Relocation](https://www.nytimes.com/2024/05/14/us/politics/air-traffic-controllers-job-relocation.html)
@@ -11,6 +15,7 @@
 * [2024-05-14, 16:55:58](https://news.ycombinator.com/item?id=40357271) - [VMware Fusion Pro and Workstation Pro now free for all personal use](https://blogs.vmware.com/teamfusion/2024/05/fusion-pro-now-available-free-for-personal-use.html)
 * [2024-05-14, 16:50:58](https://news.ycombinator.com/item?id=40357237) - [Musk's SpaceX is quick to build in Texas, slow to pay its bills](https://www.reuters.com/technology/space/musks-spacex-is-quick-build-texas-slow-pay-its-bills-2024-05-13/)
 * [2024-05-14, 16:42:54](https://news.ycombinator.com/item?id=40357141) - [Sir, there's a cat in your mirror dimension](https://lcamtuf.substack.com/p/sir-theres-a-cat-in-your-mirror-dimension)
+* [2024-05-14, 16:42:38](https://news.ycombinator.com/item?id=40357139) - [Compiler Explorer](https://thechipletter.substack.com/p/compiler-explorer)
 * [2024-05-14, 16:37:43](https://news.ycombinator.com/item?id=40357072) - [The Economics of a Sweetgreen Salad](https://sherwood.news/business/the-economics-of-a-usd15-sweetgreen-salad/)
 * [2024-05-14, 16:16:53](https://news.ycombinator.com/item?id=40356833) - [ChatGPT consumes 25 times more energy than Google](https://www.brusselstimes.com/1042696/chatgpt-consumes-25-times-more-energy-than-google)
 * [2024-05-14, 16:10:58](https://news.ycombinator.com/item?id=40356751) - [What happened to 3D midair plasma displays?](https://spectrum.ieee.org/femtosecond-lasers-create-3d-midair-plasma-displays-you-can-touch)
