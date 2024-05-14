@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-14, 03:33:47",
+      "https://news.ycombinator.com/item?id=40351410"
+    ],
+    [
+      "We managed to speed up our CI to save 168 days of execution time per month",
+      "https://developers.home-assistant.io/blog/2024/05/09/improving-ci-test-execution/"
+    ]
+  ],
+  [
+    [
       "2024-05-14, 02:44:07",
       "https://news.ycombinator.com/item?id=40351141"
     ],
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2024-05-13, 18:05:48",
-      "https://news.ycombinator.com/item?id=40346320"
-    ],
-    [
-      "QBE – Compiler Back End",
-      "https://c9x.me/compile/"
-    ]
-  ],
-  [
-    [
       "2024-05-13, 17:46:28",
       "https://news.ycombinator.com/item?id=40346024"
     ],
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2024-05-13, 11:49:28",
-      "https://news.ycombinator.com/item?id=40342188"
-    ],
-    [
-      "It’s an age of marvels",
-      "https://blog.plover.com/tech/its-an-age-of-marvels.html"
-    ]
-  ],
-  [
-    [
       "2024-05-13, 11:30:33",
       "https://news.ycombinator.com/item?id=40342008"
     ],
@@ -287,6 +277,16 @@
     [
       "MSX Elite",
       "https://thefoggiest.dev/2024/05/13/msx-elite"
+    ]
+  ],
+  [
+    [
+      "2024-05-12, 20:44:33",
+      "https://news.ycombinator.com/item?id=40337445"
+    ],
+    [
+      "SEQUEL: A Structured English Query Language (1974)",
+      "https://dl.acm.org/doi/epdf/10.1145/800296.811515"
     ]
   ],
   [
