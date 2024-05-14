@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-14](index.md)
 
+* [2024-05-14, 07:05:38](https://news.ycombinator.com/item?id=40352426) - [Using ARG in a Dockerfile – beware the gotcha](https://qmacro.org/blog/posts/2024/05/13/using-arg-in-a-dockerfile-beware-the-gotcha/)
 * [2024-05-14, 05:41:46](https://news.ycombinator.com/item?id=40351971) - [Large Language Models in Containers Locally with Podman AI Lab](https://github.com/containers/podman-desktop-extension-ai-lab)
 * [2024-05-14, 03:33:47](https://news.ycombinator.com/item?id=40351410) - [We managed to speed up our CI to save 168 days of execution time per month](https://developers.home-assistant.io/blog/2024/05/09/improving-ci-test-execution/)
 * [2024-05-14, 02:44:07](https://news.ycombinator.com/item?id=40351141) - [The First Nuclear Microreactor Company Listed in the USA](https://nanonuclearenergy.com/)
