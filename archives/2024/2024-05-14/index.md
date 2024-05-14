@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-05-14](index.md)
 
 * [2024-05-14, 17:00:35](https://news.ycombinator.com/item?id=40357330) - [Linum (YC W23) is hiring a founding AI engineer to train text-to-video models](https://www.workatastartup.com/jobs/66397)
+* [2024-05-14, 16:55:58](https://news.ycombinator.com/item?id=40357271) - [VMware Fusion Pro and Workstation Pro now free for all personal use](https://blogs.vmware.com/teamfusion/2024/05/fusion-pro-now-available-free-for-personal-use.html)
+* [2024-05-14, 16:50:58](https://news.ycombinator.com/item?id=40357237) - [Musk's SpaceX is quick to build in Texas, slow to pay its bills](https://www.reuters.com/technology/space/musks-spacex-is-quick-build-texas-slow-pay-its-bills-2024-05-13/)
 * [2024-05-14, 16:42:54](https://news.ycombinator.com/item?id=40357141) - [Sir, there's a cat in your mirror dimension](https://lcamtuf.substack.com/p/sir-theres-a-cat-in-your-mirror-dimension)
 * [2024-05-14, 16:16:53](https://news.ycombinator.com/item?id=40356833) - [ChatGPT consumes 25 times more energy than Google](https://www.brusselstimes.com/1042696/chatgpt-consumes-25-times-more-energy-than-google)
 * [2024-05-14, 16:10:58](https://news.ycombinator.com/item?id=40356751) - [What happened to 3D midair plasma displays?](https://spectrum.ieee.org/femtosecond-lasers-create-3d-midair-plasma-displays-you-can-touch)
