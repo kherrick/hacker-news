@@ -23,7 +23,7 @@
 * [2024-05-13, 16:17:20](https://news.ycombinator.com/item?id=40344946) - [Unix version control lore: what, ident](https://dotat.at/@/2024-05-13-what-ident.html)
 * [2024-05-13, 13:29:17](https://news.ycombinator.com/item?id=40343131) - [Pg_lakehouse: Query Any Data Lake from Postgres](https://github.com/paradedb/paradedb/tree/dev/pg_lakehouse)
 * [2024-05-13, 12:56:34](https://news.ycombinator.com/item?id=40342803) - [Static Chess](https://www.val.town/v/maxm/staticChess)
-* [2024-05-13, 11:49:28](https://news.ycombinator.com/item?id=40342188) - [It’s an age of marvels](https://blog.plover.com/tech/its-an-age-of-marvels.html)
+* [2024-05-13, 11:30:33](https://news.ycombinator.com/item?id=40342008) - [Hypertext Version of a Pattern Language by Christopher Alexander](https://patternlanguage.cc/)
 * [2024-05-13, 09:33:53](https://news.ycombinator.com/item?id=40341297) - [Open Source Tool Changer for FDM 3D Printers](https://github.com/ankurv2k6/daksh-toolchanger-v2)
 * [2024-05-13, 08:39:30](https://news.ycombinator.com/item?id=40341037) - [Ask HN: Founders who offer free/OS and paid SaaS, how do you manage your code?](https://news.ycombinator.com/item?id=40341037)
 * [2024-05-13, 06:19:22](https://news.ycombinator.com/item?id=40340289) - [Why Surrealism Matters: Book review](https://www.the-tls.co.uk/articles/why-surrealism-matters-by-mark-polizzotti-book-review/)
