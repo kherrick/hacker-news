@@ -86,6 +86,7 @@
 * [2024-05-14, 09:06:43](https://news.ycombinator.com/item?id=40353102) - [Turn Your Android Tablet into an IDE with VSCode and Nix](https://www.50-nuances-octets.fr/en/posts/turn-android-tablet-into-ide-with-vscode-nix/)
 * [2024-05-14, 07:56:13](https://news.ycombinator.com/item?id=40352686) - [The Notifier Pattern for Applications That Use Postgres](https://brandur.org/notifier)
 * [2024-05-14, 07:05:38](https://news.ycombinator.com/item?id=40352426) - [Using ARG in a Dockerfile – beware the gotcha](https://qmacro.org/blog/posts/2024/05/13/using-arg-in-a-dockerfile-beware-the-gotcha/)
+* [2024-05-14, 06:42:52](https://news.ycombinator.com/item?id=40352295) - [DFS Channels in 5 GHz](https://www.wiisfi.com/#DFS)
 * [2024-05-14, 06:25:04](https://news.ycombinator.com/item?id=40352204) - [Claude is now available in Europe](https://www.anthropic.com/news/claude-europe)
 * [2024-05-14, 06:08:46](https://news.ycombinator.com/item?id=40352120) - [Verilator: Open-Source SystemVerilog simulator and lint system](https://github.com/verilator/verilator)
 * [2024-05-14, 05:56:13](https://news.ycombinator.com/item?id=40352050) - [LineageOS is the perfect minimal smartphone for non-tech savvy folk](https://blog.decryption.net.au/t/lineageos-is-the-perfect-minimal-smartphone-for-non-tech-savvy-folk/155)

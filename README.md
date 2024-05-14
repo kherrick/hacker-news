@@ -25,7 +25,7 @@
 * [2024-05-14, 11:46:17](https://news.ycombinator.com/item?id=40354130) - [New gel breaks down alcohol in the body](https://ethz.ch/en/news-and-events/eth-news/news/2024/05/press-release-new-gel-breaks-down-alcohol-in-the-body.html)
 * [2024-05-14, 11:10:17](https://news.ycombinator.com/item?id=40353874) - [A Tale of Two Sieves (1996) [pdf]](https://www.ams.org/notices/199612/pomerance.pdf)
 * [2024-05-14, 10:15:13](https://news.ycombinator.com/item?id=40353529) - [Researchers find high levels of lead, mercury and arsenic in Beethoven's hair](https://www.smithsonianmag.com/smart-news/locks-of-beethovens-hair-are-unraveling-the-mysteries-of-his-deafness-and-illnesses-180984332/)
-* [2024-05-14, 01:59:59](https://news.ycombinator.com/item?id=40350892) - [The creator of 'Magic: The Gathering' knows where it all went wrong](https://defector.com/the-creator-of-magic-the-gathering-knows-exactly-where-it-all-went-wrong)
+* [2024-05-14, 06:42:52](https://news.ycombinator.com/item?id=40352295) - [DFS Channels in 5 GHz](https://www.wiisfi.com/#DFS)
 * [2024-05-13, 21:54:06](https://news.ycombinator.com/item?id=40348947) - [GPT-4o's Memory Breakthrough – Needle in a Needlestack](http://nian.llmonpy.ai/)
 * [2024-05-13, 11:41:11](https://news.ycombinator.com/item?id=40342105) - [Prolog and Natural-Language Analysis (1987) [pdf]](http://www.mtome.com/Publications/PNLA/prolog-digital.pdf)
 * [2024-05-13, 07:14:54](https://news.ycombinator.com/item?id=40340536) - [Timekeeping Before Clocks](https://worldhistory.substack.com/p/to-cut-and-hack-my-days)
