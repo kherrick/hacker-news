@@ -1,11 +1,21 @@
 [
   [
     [
+      "2024-05-14, 19:38:41",
+      "https://news.ycombinator.com/item?id=40359250"
+    ],
+    [
+      "'Shake' Design Documents",
+      "https://digitalcomposting.wordpress.com/2024/05/14/shake-design-documents/"
+    ]
+  ],
+  [
+    [
       "2024-05-14, 19:18:28",
       "https://news.ycombinator.com/item?id=40359019"
     ],
     [
-      "Google is redesigning its search engine – and it's AI all the way down",
+      "Google is overhauling search results with AI overviews and Gemini organization",
       "https://www.theverge.com/2024/5/14/24155321/google-search-ai-results-page-gemini-overview"
     ]
   ],
@@ -51,6 +61,16 @@
   ],
   [
     [
+      "2024-05-14, 18:03:08",
+      "https://news.ycombinator.com/item?id=40358104"
+    ],
+    [
+      "Tesla Board Attempts to 'Ratify' Musk's Options Package Instead Granting New One",
+      "https://montanaskeptic.substack.com/p/why-did-the-tesla-board-attempt-to"
+    ]
+  ],
+  [
+    [
       "2024-05-14, 18:00:59",
       "https://news.ycombinator.com/item?id=40358071"
     ],
@@ -67,6 +87,16 @@
     [
       "Veo",
       "https://deepmind.google/technologies/veo/"
+    ]
+  ],
+  [
+    [
+      "2024-05-14, 17:52:04",
+      "https://news.ycombinator.com/item?id=40357967"
+    ],
+    [
+      "Local iOS/macOS phi-3-mini-4k-instruct",
+      "https://apps.apple.com/us/app/micro-llm/id6468129438"
     ]
   ],
   [
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2024-05-14, 17:28:26",
-      "https://news.ycombinator.com/item?id=40357671"
-    ],
-    [
-      "Meta Is Shuttering Workplace, Its Enterprise Version of Facebook",
-      "https://finance.yahoo.com/news/meta-shuttering-workplace-enterprise-version-170030864.html"
-    ]
-  ],
-  [
-    [
       "2024-05-14, 17:23:30",
       "https://news.ycombinator.com/item?id=40357611"
     ],
@@ -127,16 +147,6 @@
     [
       "Linum (YC W23) is hiring a founding AI engineer to train text-to-video models",
       "https://www.workatastartup.com/jobs/66397"
-    ]
-  ],
-  [
-    [
-      "2024-05-14, 16:55:58",
-      "https://news.ycombinator.com/item?id=40357271"
-    ],
-    [
-      "VMware Fusion Pro and Workstation Pro now free for all personal use",
-      "https://blogs.vmware.com/teamfusion/2024/05/fusion-pro-now-available-free-for-personal-use.html"
     ]
   ],
   [
@@ -185,7 +195,7 @@
       "https://news.ycombinator.com/item?id=40356296"
     ],
     [
-      "The First Convolutional-KANs",
+      "Convolutional-KANs",
       "https://github.com/AntonioTepsich/Convolutional-KANs"
     ]
   ],
@@ -205,7 +215,7 @@
       "https://news.ycombinator.com/item?id=40355227"
     ],
     [
-      "Blazingly fast linked lists",
+      "Fast linked lists",
       "https://dygalo.dev/blog/blazingly-fast-linked-lists/"
     ]
   ],
@@ -235,7 +245,7 @@
       "https://news.ycombinator.com/item?id=40352686"
     ],
     [
-      "The Notifier Pattern for Applications That Use Postgres",
+      "The notifier pattern for applications that use Postgres",
       "https://brandur.org/notifier"
     ]
   ],
@@ -255,7 +265,7 @@
       "https://news.ycombinator.com/item?id=40341733"
     ],
     [
-      "Disney's Robots Use Rockets to Stick the Landing",
+      "Disney's robots use rockets to stick the landing",
       "https://spectrum.ieee.org/disney-robot-2668135204"
     ]
   ],
@@ -275,18 +285,8 @@
       "https://news.ycombinator.com/item?id=40340725"
     ],
     [
-      "The Guide to Haskell Strings",
+      "Guide to Haskell strings",
       "https://hasufell.github.io/posts/2024-05-07-ultimate-string-guide.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-13, 07:14:54",
-      "https://news.ycombinator.com/item?id=40340536"
-    ],
-    [
-      "Timekeeping Before Clocks",
-      "https://worldhistory.substack.com/p/to-cut-and-hack-my-days"
     ]
   ],
   [
