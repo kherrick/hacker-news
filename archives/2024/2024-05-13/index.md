@@ -97,6 +97,7 @@
 * [2024-05-13, 10:12:44](https://news.ycombinator.com/item?id=40341508) - [Commodore 64 runs AI to generate images](https://www.tomshardware.com/tech-industry/artificial-intelligence/commodore-64-can-use-ai-to-generate-8x8-sprites-takes-20-minutes-for-90-iterations)
 * [2024-05-13, 10:02:24](https://news.ycombinator.com/item?id=40341454) - [Sleep does not help brain wash out toxins, study suggests](https://www.theguardian.com/science/article/2024/may/13/sleep-does-not-help-brain-wash-out-toxins-study-suggests)
 * [2024-05-13, 09:33:53](https://news.ycombinator.com/item?id=40341297) - [Open Source Tool Changer for FDM 3D Printers](https://github.com/ankurv2k6/daksh-toolchanger-v2)
+* [2024-05-13, 09:26:29](https://news.ycombinator.com/item?id=40341258) - [First Contact with Emulation](https://brainbaking.com/post/2024/05/fist-contact-with-emulation/)
 * [2024-05-13, 08:39:30](https://news.ycombinator.com/item?id=40341037) - [Ask HN: Founders who offer free/OS and paid SaaS, how do you manage your code?](https://news.ycombinator.com/item?id=40341037)
 * [2024-05-13, 08:39:28](https://news.ycombinator.com/item?id=40341036) - [YouTube's Secret Weapon to Win the TV Streaming Wars: Its Top Creators](https://www.hollywoodreporter.com/business/business-news/youtubes-secret-weapon-top-creators-1235894945/)
 * [2024-05-13, 08:18:47](https://news.ycombinator.com/item?id=40340901) - [Show HN: Boxwood – simple templating engine for JavaScript, in JavaScript](https://github.com/buxlabs/boxwood)
