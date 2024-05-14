@@ -21,6 +21,36 @@
   ],
   [
     [
+      "2024-05-14, 14:54:15",
+      "https://news.ycombinator.com/item?id=40355835"
+    ],
+    [
+      "Idefics2: A Powerful 8B Vision-Language Model for the Community",
+      "https://huggingface.co/blog/idefics2"
+    ]
+  ],
+  [
+    [
+      "2024-05-14, 14:53:33",
+      "https://news.ycombinator.com/item?id=40355825"
+    ],
+    [
+      "Silicon reverse engineering: The 8085's undocumented flags (2013)",
+      "https://www.righto.com/2013/02/looking-at-silicon-to-understanding.html"
+    ]
+  ],
+  [
+    [
+      "2024-05-14, 13:54:43",
+      "https://news.ycombinator.com/item?id=40355255"
+    ],
+    [
+      "AWS CEO to Step Down",
+      "https://www.aboutamazon.com/news/company-news/leadership-update-aws-adam-selipsky-matt-garman"
+    ]
+  ],
+  [
+    [
       "2024-05-14, 13:51:26",
       "https://news.ycombinator.com/item?id=40355227"
     ],
@@ -47,6 +77,16 @@
     [
       "Wasp-193B, a giant planet with a density similar to that of cotton candy",
       "https://www.exotic.uliege.be/cms/c_12662566/en/wasp-193b-a-giant-planet-with-a-density-similar-to-that-of-cotton-candy"
+    ]
+  ],
+  [
+    [
+      "2024-05-14, 13:19:33",
+      "https://news.ycombinator.com/item?id=40354946"
+    ],
+    [
+      "Survey: 71% of Startup Founders Sacrifice Private Lives for Work",
+      "https://startupsmagazine.co.uk/article-71-startup-founders-sacrifice-private-lives-work"
     ]
   ],
   [
@@ -111,16 +151,6 @@
   ],
   [
     [
-      "2024-05-14, 00:24:02",
-      "https://news.ycombinator.com/item?id=40350201"
-    ],
-    [
-      "Memory Consistency Models: A Tutorial",
-      "https://www.cs.utexas.edu/~bornholt/post/memory-models.html"
-    ]
-  ],
-  [
-    [
       "2024-05-13, 22:33:01",
       "https://news.ycombinator.com/item?id=40349347"
     ],
@@ -131,42 +161,12 @@
   ],
   [
     [
-      "2024-05-13, 22:11:17",
-      "https://news.ycombinator.com/item?id=40349124"
-    ],
-    [
-      "References are like jumps",
-      "https://without.boats/blog/references-are-like-jumps/"
-    ]
-  ],
-  [
-    [
-      "2024-05-13, 21:54:53",
-      "https://news.ycombinator.com/item?id=40348957"
-    ],
-    [
-      "Intel announces the Aurora supercomputer has broken the exascale barrier",
-      "https://www.intel.com/content/www/us/en/newsroom/news/intel-powered-aurora-supercomputer-breaks-exascale-barrier.html"
-    ]
-  ],
-  [
-    [
       "2024-05-13, 21:14:54",
       "https://news.ycombinator.com/item?id=40348531"
     ],
     [
       "Unitree G1 Humanoid Agent",
       "https://www.unitree.com/g1/"
-    ]
-  ],
-  [
-    [
-      "2024-05-13, 20:24:57",
-      "https://news.ycombinator.com/item?id=40347981"
-    ],
-    [
-      "Meteor Lake's E-Cores: Crestmont Makes Incremental Progress",
-      "https://chipsandcheese.com/2024/05/13/meteor-lakes-e-cores-crestmont-makes-incremental-progress/"
     ]
   ],
   [
@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2024-05-13, 17:21:14",
+      "https://news.ycombinator.com/item?id=40345696"
+    ],
+    [
+      "Show HN: An open source framework for voice assistants",
+      "https://github.com/pipecat-ai/pipecat"
+    ]
+  ],
+  [
+    [
       "2024-05-13, 12:56:34",
       "https://news.ycombinator.com/item?id=40342803"
     ],
@@ -227,16 +237,6 @@
     [
       "A Pattern Language",
       "https://patternlanguage.cc/"
-    ]
-  ],
-  [
-    [
-      "2024-05-13, 11:03:27",
-      "https://news.ycombinator.com/item?id=40341806"
-    ],
-    [
-      "Database Versioning with Lesli",
-      "https://www.lesli.dev/engines/lesli/database/versioning"
     ]
   ],
   [
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2024-05-13, 06:19:22",
-      "https://news.ycombinator.com/item?id=40340289"
-    ],
-    [
-      "Why Surrealism Matters: Book review",
-      "https://www.the-tls.co.uk/articles/why-surrealism-matters-by-mark-polizzotti-book-review/"
-    ]
-  ],
-  [
-    [
       "2024-05-13, 06:05:46",
       "https://news.ycombinator.com/item?id=40340226"
     ],
@@ -297,6 +287,16 @@
     [
       "MSX Elite",
       "https://thefoggiest.dev/2024/05/13/msx-elite"
+    ]
+  ],
+  [
+    [
+      "2024-05-12, 22:05:58",
+      "https://news.ycombinator.com/item?id=40337936"
+    ],
+    [
+      "GPUs Go Brrr",
+      "https://hazyresearch.stanford.edu/blog/2024-05-12-tk"
     ]
   ]
 ]
