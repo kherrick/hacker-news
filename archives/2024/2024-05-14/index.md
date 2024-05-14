@@ -6,6 +6,7 @@
 
 * [2024-05-14, 17:29:19](https://news.ycombinator.com/item?id=40357681) - [Google Edge AI Model Explorer](https://github.com/google-ai-edge/model-explorer)
 * [2024-05-14, 17:28:26](https://news.ycombinator.com/item?id=40357671) - [Meta Is Shuttering Workplace, Its Enterprise Version of Facebook](https://finance.yahoo.com/news/meta-shuttering-workplace-enterprise-version-170030864.html)
+* [2024-05-14, 17:18:37](https://news.ycombinator.com/item?id=40357543) - [Disruptions Loom as 17 Air Traffic Controllers Balk at Job Relocation](https://www.nytimes.com/2024/05/14/us/politics/air-traffic-controllers-job-relocation.html)
 * [2024-05-14, 17:00:35](https://news.ycombinator.com/item?id=40357330) - [Linum (YC W23) is hiring a founding AI engineer to train text-to-video models](https://www.workatastartup.com/jobs/66397)
 * [2024-05-14, 16:55:58](https://news.ycombinator.com/item?id=40357271) - [VMware Fusion Pro and Workstation Pro now free for all personal use](https://blogs.vmware.com/teamfusion/2024/05/fusion-pro-now-available-free-for-personal-use.html)
 * [2024-05-14, 16:50:58](https://news.ycombinator.com/item?id=40357237) - [Musk's SpaceX is quick to build in Texas, slow to pay its bills](https://www.reuters.com/technology/space/musks-spacex-is-quick-build-texas-slow-pay-its-bills-2024-05-13/)
