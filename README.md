@@ -4,7 +4,7 @@
 * [2024-05-14, 01:26:34](https://news.ycombinator.com/item?id=40350625) - [Truffle ISLISP](https://arvyy.github.io/islisp-truffle/)
 * [2024-05-14, 00:56:15](https://news.ycombinator.com/item?id=40350408) - [Upstreaming Linux kernel support for the Snapdragon X Elite](https://www.qualcomm.com/developer/blog/2024/05/upstreaming-linux-kernel-support-for-the-snapdragon-x-elite)
 * [2024-05-14, 00:24:02](https://news.ycombinator.com/item?id=40350201) - [Memory Consistency Models: A Tutorial](https://www.cs.utexas.edu/~bornholt/post/memory-models.html)
-* [2024-05-13, 22:46:23](https://news.ycombinator.com/item?id=40349456) - [Detectability of Solar Panels as a Technosignature](https://arxiv.org/abs/2405.04560)
+* [2024-05-13, 23:51:09](https://news.ycombinator.com/item?id=40349970) - [The Cult of the Haskell Programmer](https://www.wired.com/story/inside-the-cult-of-the-haskell-programmer/)
 * [2024-05-13, 22:12:55](https://news.ycombinator.com/item?id=40349145) - [Towards accurate and efficient document analytics with large language models](https://arxiv.org/abs/2405.04674)
 * [2024-05-13, 21:57:48](https://news.ycombinator.com/item?id=40348986) - [Which cognitive psychology findings are solid that I can use to help students?](https://matheducators.stackexchange.com/questions/27839/which-cognitive-psychology-findings-are-solid-that-i-can-use-to-help-my-student)
 * [2024-05-13, 21:14:54](https://news.ycombinator.com/item?id=40348531) - [Unitree G1 Humanoid Agent](https://www.unitree.com/g1/)
