@@ -1,11 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-14, 17:29:19](https://news.ycombinator.com/item?id=40357681) - [Google Edge AI Model Explorer](https://github.com/google-ai-edge/model-explorer)
+* [2024-05-14, 17:28:26](https://news.ycombinator.com/item?id=40357671) - [Meta Is Shuttering Workplace, Its Enterprise Version of Facebook](https://finance.yahoo.com/news/meta-shuttering-workplace-enterprise-version-170030864.html)
 * [2024-05-14, 17:00:35](https://news.ycombinator.com/item?id=40357330) - [Linum (YC W23) is hiring a founding AI engineer to train text-to-video models](https://www.workatastartup.com/jobs/66397)
 * [2024-05-14, 16:55:58](https://news.ycombinator.com/item?id=40357271) - [VMware Fusion Pro and Workstation Pro now free for all personal use](https://blogs.vmware.com/teamfusion/2024/05/fusion-pro-now-available-free-for-personal-use.html)
 * [2024-05-14, 16:42:54](https://news.ycombinator.com/item?id=40357141) - [Sir, there's a cat in your mirror dimension](https://lcamtuf.substack.com/p/sir-theres-a-cat-in-your-mirror-dimension)
 * [2024-05-14, 16:37:43](https://news.ycombinator.com/item?id=40357072) - [The Economics of a Sweetgreen Salad](https://sherwood.news/business/the-economics-of-a-usd15-sweetgreen-salad/)
 * [2024-05-14, 16:10:58](https://news.ycombinator.com/item?id=40356751) - [What happened to 3D midair plasma displays?](https://spectrum.ieee.org/femtosecond-lasers-create-3d-midair-plasma-displays-you-can-touch)
 * [2024-05-14, 15:56:30](https://news.ycombinator.com/item?id=40356581) - [The 1871 Samuel Morse Statue (2014)](http://daytoninmanhattan.blogspot.com/2014/06/the-1871-samuel-morse-statue-central.html)
+* [2024-05-14, 15:33:21](https://news.ycombinator.com/item?id=40356296) - [The First Convolutional-KANs](https://github.com/AntonioTepsich/Convolutional-KANs)
 * [2024-05-14, 15:07:41](https://news.ycombinator.com/item?id=40355982) - [Firefox search update](https://blog.mozilla.org/en/products/firefox/firefox-search-update/)
 * [2024-05-14, 14:44:37](https://news.ycombinator.com/item?id=40355744) - [Show HN: Pico: An open-source Ngrok alternative built for production traffic](https://github.com/andydunstall/pico)
 * [2024-05-14, 13:51:26](https://news.ycombinator.com/item?id=40355227) - [Blazingly fast linked lists](https://dygalo.dev/blog/blazingly-fast-linked-lists/)
@@ -17,8 +20,6 @@
 * [2024-05-14, 06:08:46](https://news.ycombinator.com/item?id=40352120) - [Verilator: Open-Source SystemVerilog simulator and lint system](https://github.com/verilator/verilator)
 * [2024-05-14, 02:10:39](https://news.ycombinator.com/item?id=40350954) - [A review on protein language models](https://www.apoorva-srinivasan.com/plms/)
 * [2024-05-14, 01:26:34](https://news.ycombinator.com/item?id=40350625) - [Truffle ISLISP](https://arvyy.github.io/islisp-truffle/)
-* [2024-05-13, 22:33:01](https://news.ycombinator.com/item?id=40349347) - [Not an iPad Pro Review: Why iPadOS Still Doesn't Get the Basics Right](https://www.macstories.net/stories/not-an-ipad-pro-review/)
-* [2024-05-13, 19:03:55](https://news.ycombinator.com/item?id=40346995) - [Show HN: Pi-C.A.R.D, a Raspberry Pi Voice Assistant](https://github.com/nkasmanoff/pi-card)
 * [2024-05-13, 17:46:28](https://news.ycombinator.com/item?id=40346024) - [Apple and Google deliver support for unwanted tracking alerts in iOS and Android](https://www.apple.com/ca/newsroom/2024/05/apple-and-google-deliver-support-for-unwanted-tracking-alerts-in-ios-and-android/)
 * [2024-05-13, 17:28:00](https://news.ycombinator.com/item?id=40345775) - [GPT-4o](https://openai.com/index/hello-gpt-4o/)
 * [2024-05-13, 12:56:34](https://news.ycombinator.com/item?id=40342803) - [Static Chess](https://www.val.town/v/maxm/staticChess)
@@ -29,7 +30,6 @@
 * [2024-05-13, 07:48:11](https://news.ycombinator.com/item?id=40340725) - [The Guide to Haskell Strings](https://hasufell.github.io/posts/2024-05-07-ultimate-string-guide.html)
 * [2024-05-13, 07:14:54](https://news.ycombinator.com/item?id=40340536) - [Timekeeping Before Clocks](https://worldhistory.substack.com/p/to-cut-and-hack-my-days)
 * [2024-05-13, 06:05:46](https://news.ycombinator.com/item?id=40340226) - [Pen Plotter Programming: The Basics (2017)](https://medium.com/@fogleman/pen-plotter-programming-the-basics-ec0407ab5929)
-* [2024-05-13, 05:35:04](https://news.ycombinator.com/item?id=40340104) - [MSX Elite](https://thefoggiest.dev/2024/05/13/msx-elite)
 
 ## [Archives](archives/index.md)
 

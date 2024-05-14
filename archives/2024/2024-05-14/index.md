@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-14](index.md)
 
+* [2024-05-14, 17:29:19](https://news.ycombinator.com/item?id=40357681) - [Google Edge AI Model Explorer](https://github.com/google-ai-edge/model-explorer)
+* [2024-05-14, 17:28:26](https://news.ycombinator.com/item?id=40357671) - [Meta Is Shuttering Workplace, Its Enterprise Version of Facebook](https://finance.yahoo.com/news/meta-shuttering-workplace-enterprise-version-170030864.html)
 * [2024-05-14, 17:00:35](https://news.ycombinator.com/item?id=40357330) - [Linum (YC W23) is hiring a founding AI engineer to train text-to-video models](https://www.workatastartup.com/jobs/66397)
 * [2024-05-14, 16:55:58](https://news.ycombinator.com/item?id=40357271) - [VMware Fusion Pro and Workstation Pro now free for all personal use](https://blogs.vmware.com/teamfusion/2024/05/fusion-pro-now-available-free-for-personal-use.html)
 * [2024-05-14, 16:50:58](https://news.ycombinator.com/item?id=40357237) - [Musk's SpaceX is quick to build in Texas, slow to pay its bills](https://www.reuters.com/technology/space/musks-spacex-is-quick-build-texas-slow-pay-its-bills-2024-05-13/)
@@ -13,6 +15,7 @@
 * [2024-05-14, 16:10:58](https://news.ycombinator.com/item?id=40356751) - [What happened to 3D midair plasma displays?](https://spectrum.ieee.org/femtosecond-lasers-create-3d-midair-plasma-displays-you-can-touch)
 * [2024-05-14, 15:57:56](https://news.ycombinator.com/item?id=40356599) - [The Collapse Is Coming? Will Humanity Adapt?](https://thereader.mitpress.mit.edu/the-collapse-is-coming-will-humanity-adapt/)
 * [2024-05-14, 15:56:30](https://news.ycombinator.com/item?id=40356581) - [The 1871 Samuel Morse Statue (2014)](http://daytoninmanhattan.blogspot.com/2014/06/the-1871-samuel-morse-statue-central.html)
+* [2024-05-14, 15:33:21](https://news.ycombinator.com/item?id=40356296) - [The First Convolutional-KANs](https://github.com/AntonioTepsich/Convolutional-KANs)
 * [2024-05-14, 15:08:26](https://news.ycombinator.com/item?id=40355995) - [Tesla labour dispute triggers Nordic sympathy strikes](https://www.reuters.com/business/autos-transportation/tesla-labour-dispute-ignites-nordic-sympathy-strikes-2023-12-07/)
 * [2024-05-14, 15:07:41](https://news.ycombinator.com/item?id=40355982) - [Firefox to collect anonymized and categorized search data](https://blog.mozilla.org/en/products/firefox/firefox-search-update/)
 * [2024-05-14, 15:07:18](https://news.ycombinator.com/item?id=40355974) - [VMware Desktop Hypervisor Pro Apps Now Available for Personal Use](https://blogs.vmware.com/cloud-foundation/2024/05/14/vmware-desktop-hypervisor-pro-apps-now-available-for-personal-use/)
