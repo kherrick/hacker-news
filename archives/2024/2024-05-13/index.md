@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-05-13](index.md)
 
+* [2024-05-13, 23:51:09](https://news.ycombinator.com/item?id=40349970) - [The Cult of the Haskell Programmer](https://www.wired.com/story/inside-the-cult-of-the-haskell-programmer/)
 * [2024-05-13, 23:44:19](https://news.ycombinator.com/item?id=40349913) - [IndexedDB as a Vector Database](https://paul.kinlan.me/idb-as-a-vector-database/)
 * [2024-05-13, 23:24:30](https://news.ycombinator.com/item?id=40349762) - [FDA: Do Not Use Cue Health's Covid-19 Tests Due to Risk of False Results](https://www.fda.gov/medical-devices/safety-communications/do-not-use-cue-healths-covid-19-tests-due-risk-false-results-fda-safety-communication)
 * [2024-05-13, 23:14:14](https://news.ycombinator.com/item?id=40349690) - [Australian man says border force made him hand over phone passcode](https://www.theguardian.com/australia-news/article/2024/may/14/australian-man-says-border-force-made-him-hand-over-phone-passcode-by-threatening-to-keep-device-indefinitely)
 * [2024-05-13, 23:09:44](https://news.ycombinator.com/item?id=40349658) - [Chatbots tell people what they want to hear](https://hub.jhu.edu/2024/05/13/chatbots-tell-people-what-they-want-to-hear/)
+* [2024-05-13, 22:46:23](https://news.ycombinator.com/item?id=40349456) - [Detectability of Solar Panels as a Technosignature](https://arxiv.org/abs/2405.04560)
 * [2024-05-13, 22:33:01](https://news.ycombinator.com/item?id=40349347) - [Not an iPad Pro Review: Why iPadOS Still Doesn't Get the Basics Right](https://www.macstories.net/stories/not-an-ipad-pro-review/)
 * [2024-05-13, 22:26:41](https://news.ycombinator.com/item?id=40349288) - [In 2017, the feds said Tesla Autopilot cut crashes 40%–that was bogus](https://arstechnica.com/cars/2019/02/in-2017-the-feds-said-tesla-autopilot-cut-crashes-40-that-was-bogus/)
 * [2024-05-13, 22:12:55](https://news.ycombinator.com/item?id=40349145) - [Towards Accurate and Efficient Document Analytics with Large Language Models](https://arxiv.org/abs/2405.04674)
