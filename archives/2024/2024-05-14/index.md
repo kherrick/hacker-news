@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-14](index.md)
 
+* [2024-05-14, 19:38:41](https://news.ycombinator.com/item?id=40359250) - ['Shake' Design Documents](https://digitalcomposting.wordpress.com/2024/05/14/shake-design-documents/)
 * [2024-05-14, 19:18:28](https://news.ycombinator.com/item?id=40359019) - [Google is redesigning its search engine – and it's AI all the way down](https://www.theverge.com/2024/5/14/24155321/google-search-ai-results-page-gemini-overview)
 * [2024-05-14, 18:49:39](https://news.ycombinator.com/item?id=40358684) - [Google Gems](https://blog.google/products/gemini/google-gemini-update-may-2024/)
 * [2024-05-14, 18:40:50](https://news.ycombinator.com/item?id=40358588) - [The new APT 3.0 solver](https://blog.jak-linux.org/2024/05/14/solver3/)
@@ -11,8 +12,10 @@
 * [2024-05-14, 18:25:21](https://news.ycombinator.com/item?id=40358405) - [Code reviews don't usually find bugs](https://www.aviator.co/blog/how-not-to-do-code-reviews/)
 * [2024-05-14, 18:19:01](https://news.ycombinator.com/item?id=40358309) - [Glider – open-source eInk monitor with an emphasis on low latency](https://github.com/Modos-Labs/Glider)
 * [2024-05-14, 18:15:05](https://news.ycombinator.com/item?id=40358257) - [Project Astra](https://www.theverge.com/2024/5/14/24156296/google-ai-gemini-astra-assistant-live-io)
+* [2024-05-14, 18:03:08](https://news.ycombinator.com/item?id=40358104) - [Tesla Board Attempts to 'Ratify' Musk's Options Package Instead Granting New One](https://montanaskeptic.substack.com/p/why-did-the-tesla-board-attempt-to)
 * [2024-05-14, 18:00:59](https://news.ycombinator.com/item?id=40358071) - [Gemini Flash](https://deepmind.google/technologies/gemini/flash/)
 * [2024-05-14, 17:58:26](https://news.ycombinator.com/item?id=40358041) - [Veo](https://deepmind.google/technologies/veo/)
+* [2024-05-14, 17:52:04](https://news.ycombinator.com/item?id=40357967) - [Local iOS/macOS phi-3-mini-4k-instruct](https://apps.apple.com/us/app/micro-llm/id6468129438)
 * [2024-05-14, 17:39:10](https://news.ycombinator.com/item?id=40357784) - [Google announces Veo, their Sora competing text/image-to-video model](https://aitestkitchen.withgoogle.com/tools/video-fx)
 * [2024-05-14, 17:32:14](https://news.ycombinator.com/item?id=40357724) - [Alabama prisoners' organs vanish, and there's a whole lot of passing the buck](https://www.al.com/news/2024/02/archibald-alabama-prisoners-organs-vanish-and-theres-a-whole-lot-of-passing-the-buck-and-the-bodies.html)
 * [2024-05-14, 17:31:01](https://news.ycombinator.com/item?id=40357706) - [We Closed Institutions That Housed Mentally Ill, Made It Harder to Receive Care](https://freddiedeboer.substack.com/p/we-closed-the-institutions-that-housed)
