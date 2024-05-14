@@ -9,7 +9,6 @@
 * [2024-05-14, 02:10:39](https://news.ycombinator.com/item?id=40350954) - [A review on protein language models](https://www.apoorva-srinivasan.com/plms/)
 * [2024-05-14, 01:26:34](https://news.ycombinator.com/item?id=40350625) - [Truffle ISLISP](https://arvyy.github.io/islisp-truffle/)
 * [2024-05-14, 00:56:15](https://news.ycombinator.com/item?id=40350408) - [Upstreaming Linux kernel support for the Snapdragon X Elite](https://www.qualcomm.com/developer/blog/2024/05/upstreaming-linux-kernel-support-for-the-snapdragon-x-elite)
-* [2024-05-14, 00:24:02](https://news.ycombinator.com/item?id=40350201) - [Memory Consistency Models: A Tutorial](https://www.cs.utexas.edu/~bornholt/post/memory-models.html)
 * [2024-05-13, 22:33:01](https://news.ycombinator.com/item?id=40349347) - [Not an iPad Pro Review: Why iPadOS Still Doesn't Get the Basics Right](https://www.macstories.net/stories/not-an-ipad-pro-review/)
 * [2024-05-13, 21:54:53](https://news.ycombinator.com/item?id=40348957) - [Intel announces the Aurora supercomputer has broken the exascale barrier](https://www.intel.com/content/www/us/en/newsroom/news/intel-powered-aurora-supercomputer-breaks-exascale-barrier.html)
 * [2024-05-13, 21:14:54](https://news.ycombinator.com/item?id=40348531) - [Unitree G1 Humanoid Agent](https://www.unitree.com/g1/)
@@ -30,6 +29,7 @@
 * [2024-05-13, 06:26:46](https://news.ycombinator.com/item?id=40340316) - [The Death of a Mnemonist](https://www.historytoday.com/archive/months-past/death-mnemonist)
 * [2024-05-13, 05:35:04](https://news.ycombinator.com/item?id=40340104) - [MSX Elite](https://thefoggiest.dev/2024/05/13/msx-elite)
 * [2024-05-12, 20:44:33](https://news.ycombinator.com/item?id=40337445) - [SEQUEL: A Structured English Query Language (1974)](https://dl.acm.org/doi/epdf/10.1145/800296.811515)
+* [2024-05-12, 11:37:11](https://news.ycombinator.com/item?id=40333584) - [Overbite Project: Why still use Gopher? What makes Gopher relevant?](https://gopher.floodgap.com/overbite/relevance.html)
 
 ## [Archives](archives/index.md)
 
