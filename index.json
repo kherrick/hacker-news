@@ -1,12 +1,42 @@
 [
   [
     [
-      "2024-05-13, 23:14:14",
-      "https://news.ycombinator.com/item?id=40349690"
+      "2024-05-14, 00:26:47",
+      "https://news.ycombinator.com/item?id=40350220"
     ],
     [
-      "Australian man says border force made him hand over phone passcode",
-      "https://www.theguardian.com/australia-news/article/2024/may/14/australian-man-says-border-force-made-him-hand-over-phone-passcode-by-threatening-to-keep-device-indefinitely"
+      "The Linux kernel giving CVEs to all bugfixes is sort of predictable",
+      "https://utcc.utoronto.ca/~cks/space/blog/linux/KernelBugfixCVEsAStory"
+    ]
+  ],
+  [
+    [
+      "2024-05-13, 23:44:19",
+      "https://news.ycombinator.com/item?id=40349913"
+    ],
+    [
+      "IndexedDB as a Vector Database",
+      "https://paul.kinlan.me/idb-as-a-vector-database/"
+    ]
+  ],
+  [
+    [
+      "2024-05-13, 23:24:30",
+      "https://news.ycombinator.com/item?id=40349762"
+    ],
+    [
+      "FDA: Do Not Use Cue Health's Covid-19 Tests Due to Risk of False Results",
+      "https://www.fda.gov/medical-devices/safety-communications/do-not-use-cue-healths-covid-19-tests-due-risk-false-results-fda-safety-communication"
+    ]
+  ],
+  [
+    [
+      "2024-05-13, 23:09:44",
+      "https://news.ycombinator.com/item?id=40349658"
+    ],
+    [
+      "Chatbots tell people what they want to hear",
+      "https://hub.jhu.edu/2024/05/13/chatbots-tell-people-what-they-want-to-hear/"
     ]
   ],
   [
@@ -15,7 +45,7 @@
       "https://news.ycombinator.com/item?id=40349288"
     ],
     [
-      "In 2017, the feds said Tesla Autopilot cut crashes 40%–that was bogus",
+      "In 2017, the feds said Tesla Autopilot cut crashes 40%–that was bogus (2019)",
       "https://arstechnica.com/cars/2019/02/in-2017-the-feds-said-tesla-autopilot-cut-crashes-40-that-was-bogus/"
     ]
   ],
@@ -25,7 +55,7 @@
       "https://news.ycombinator.com/item?id=40349145"
     ],
     [
-      "Towards Accurate and Efficient Document Analytics with Large Language Models",
+      "Towards accurate and efficient document analytics with large language models",
       "https://arxiv.org/abs/2405.04674"
     ]
   ],
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2024-05-13, 19:57:13",
-      "https://news.ycombinator.com/item?id=40347624"
-    ],
-    [
-      "IBM open-sources its Granite AI models – and they mean business",
-      "https://www.zdnet.com/article/ibm-open-sources-its-granite-ai-models-and-they-mean-business/"
-    ]
-  ],
-  [
-    [
       "2024-05-13, 19:03:55",
       "https://news.ycombinator.com/item?id=40346995"
     ],
@@ -137,16 +157,6 @@
     [
       "QBE – Compiler Back End",
       "https://c9x.me/compile/"
-    ]
-  ],
-  [
-    [
-      "2024-05-13, 17:53:44",
-      "https://news.ycombinator.com/item?id=40346148"
-    ],
-    [
-      "Language, OS and GUI -independent windowing API provided as a virtual filesystem",
-      "https://www.fornaxis.org/forge/"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2024-05-13, 15:17:26",
-      "https://news.ycombinator.com/item?id=40344302"
-    ],
-    [
-      "Falcon 2",
-      "https://www.tii.ae/news/falcon-2-uaes-technology-innovation-institute-releases-new-ai-model-series-outperforming-metas"
-    ]
-  ],
-  [
-    [
       "2024-05-13, 13:29:17",
       "https://news.ycombinator.com/item?id=40343131"
     ],
@@ -227,16 +227,6 @@
     [
       "Static Chess",
       "https://www.val.town/v/maxm/staticChess"
-    ]
-  ],
-  [
-    [
-      "2024-05-13, 12:32:41",
-      "https://news.ycombinator.com/item?id=40342578"
-    ],
-    [
-      "The USDA's gardening zones shifted, this map shows you what's changed",
-      "https://apps.npr.org/plant-hardiness-garden-map/"
     ]
   ],
   [
@@ -265,8 +255,18 @@
       "https://news.ycombinator.com/item?id=40340289"
     ],
     [
-      "Head boy of Surrealism: How André Breton policed a movement for artistic freedom",
+      "Why Surrealism Matters: Book review",
       "https://www.the-tls.co.uk/articles/why-surrealism-matters-by-mark-polizzotti-book-review/"
+    ]
+  ],
+  [
+    [
+      "2024-05-13, 06:18:12",
+      "https://news.ycombinator.com/item?id=40340285"
+    ],
+    [
+      "Preserving the Wilderness Idea",
+      "https://hedgehogreview.com/issues/missing-character/articles/preserving-the-wilderness-idea"
     ]
   ],
   [
@@ -275,18 +275,18 @@
       "https://news.ycombinator.com/item?id=40340220"
     ],
     [
-      "Fifteen Fundamental Properties",
+      "Fifteen Fundamental Properties (2022)",
       "https://camillovisini.com/writing/fifteen-fundamental-properties"
     ]
   ],
   [
     [
-      "2024-05-12, 22:05:58",
-      "https://news.ycombinator.com/item?id=40337936"
+      "2024-05-13, 05:59:25",
+      "https://news.ycombinator.com/item?id=40340197"
     ],
     [
-      "GPUs Go Brrr",
-      "https://hazyresearch.stanford.edu/blog/2024-05-12-tk"
+      "SQL co-creator embraces NoSQL",
+      "https://www.theregister.com/2024/05/10/sql_cocreator_nosql/"
     ]
   ],
   [
