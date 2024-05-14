@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-14, 01:26:34](https://news.ycombinator.com/item?id=40350625) - [Truffle ISLISP](https://arvyy.github.io/islisp-truffle/)
+* [2024-05-14, 00:56:15](https://news.ycombinator.com/item?id=40350408) - [Upstreaming Linux kernel support for the Snapdragon X Elite](https://www.qualcomm.com/developer/blog/2024/05/upstreaming-linux-kernel-support-for-the-snapdragon-x-elite)
 * [2024-05-13, 23:51:09](https://news.ycombinator.com/item?id=40349970) - [The Cult of the Haskell Programmer](https://www.wired.com/story/inside-the-cult-of-the-haskell-programmer/)
 * [2024-05-13, 22:46:23](https://news.ycombinator.com/item?id=40349456) - [Detectability of Solar Panels as a Technosignature](https://arxiv.org/abs/2405.04560)
 * [2024-05-13, 22:12:55](https://news.ycombinator.com/item?id=40349145) - [Towards accurate and efficient document analytics with large language models](https://arxiv.org/abs/2405.04674)
@@ -28,7 +29,6 @@
 * [2024-05-13, 06:18:12](https://news.ycombinator.com/item?id=40340285) - [Preserving the Wilderness Idea](https://hedgehogreview.com/issues/missing-character/articles/preserving-the-wilderness-idea)
 * [2024-05-13, 06:05:09](https://news.ycombinator.com/item?id=40340220) - [Fifteen Fundamental Properties (2022)](https://camillovisini.com/writing/fifteen-fundamental-properties)
 * [2024-05-12, 22:05:58](https://news.ycombinator.com/item?id=40337936) - [GPUs Go Brrr](https://hazyresearch.stanford.edu/blog/2024-05-12-tk)
-* [2024-05-12, 13:32:01](https://news.ycombinator.com/item?id=40334309) - [The Myth of Loss: Bitboys](https://hardforum.com/threads/bitboys.1973024/)
 * [2024-05-12, 11:37:11](https://news.ycombinator.com/item?id=40333584) - [Overbite Project: Why still use Gopher? What makes Gopher relevant?](https://gopher.floodgap.com/overbite/relevance.html)
 
 ## [Archives](archives/index.md)
