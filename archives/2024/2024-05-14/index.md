@@ -11,6 +11,7 @@
 * [2024-05-14, 12:00:15](https://news.ycombinator.com/item?id=40354241) - [Unriddle (YC S24) Is Hiring a Founding Engineer](https://www.workatastartup.com/jobs/66506)
 * [2024-05-14, 11:24:02](https://news.ycombinator.com/item?id=40353963) - [My VM is lighter (and safer) than your container](https://dl.acm.org/doi/10.1145/3132747.3132763)
 * [2024-05-14, 10:59:01](https://news.ycombinator.com/item?id=40353805) - [Why are Google and Facebook free? The answer might be worse than you think](https://tuta.com/blog/google-facebook-free)
+* [2024-05-14, 10:28:32](https://news.ycombinator.com/item?id=40353615) - [What Factors Explain the Nature of Software?](https://tratt.net/laurie/blog/2024/what_factors_explain_the_nature_of_software.html)
 * [2024-05-14, 10:24:25](https://news.ycombinator.com/item?id=40353585) - [Top doctor remains brain cancer-free after a year (of his own treatment)](https://www.bbc.co.uk/news/world-australia-69006713)
 * [2024-05-14, 09:06:43](https://news.ycombinator.com/item?id=40353102) - [Turn Your Android Tablet into an IDE with VSCode and Nix](https://www.50-nuances-octets.fr/en/posts/turn-android-tablet-into-ide-with-vscode-nix/)
 * [2024-05-14, 07:56:13](https://news.ycombinator.com/item?id=40352686) - [The Notifier Pattern for Applications That Use Postgres](https://brandur.org/notifier)
