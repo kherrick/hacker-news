@@ -1,21 +1,11 @@
 [
   [
     [
-      "2024-05-14, 21:12:33",
-      "https://news.ycombinator.com/item?id=40360217"
-    ],
-    [
-      "Firebase App Hosting",
-      "https://firebase.blog/posts/2024/05/introducing-app-hosting/"
-    ]
-  ],
-  [
-    [
       "2024-05-14, 21:00:48",
       "https://news.ycombinator.com/item?id=40360112"
     ],
     [
-      "Dart 3.4 (WASM and Macros preview)",
+      "Dart 3.4: WASM and Macros preview",
       "https://medium.com/dartlang/dart-3-4-bd8d23b4462a"
     ]
   ],
@@ -51,12 +41,12 @@
   ],
   [
     [
-      "2024-05-14, 20:22:42",
-      "https://news.ycombinator.com/item?id=40359736"
+      "2024-05-14, 20:37:22",
+      "https://news.ycombinator.com/item?id=40359886"
     ],
     [
-      "Most common PIN codes",
-      "https://informationisbeautiful.net/visualizations/most-common-pin-codes/"
+      "Higher RAII and the seven arcane uses of linear types",
+      "https://verdagon.dev/blog/higher-raii-uses-linear-types"
     ]
   ],
   [
@@ -161,6 +151,16 @@
   ],
   [
     [
+      "2024-05-14, 16:55:58",
+      "https://news.ycombinator.com/item?id=40357271"
+    ],
+    [
+      "VMware Fusion Pro: Now available free for personal use",
+      "https://blogs.vmware.com/teamfusion/2024/05/fusion-pro-now-available-free-for-personal-use.html"
+    ]
+  ],
+  [
+    [
       "2024-05-14, 16:42:54",
       "https://news.ycombinator.com/item?id=40357141"
     ],
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=40354381"
     ],
     [
-      "IBM and the Transformation of Corporate Design – CHM",
+      "IBM and the Transformation of Corporate Design",
       "https://computerhistory.org/blog/ibm-and-the-transformation-of-corporate-design/"
     ]
   ],
