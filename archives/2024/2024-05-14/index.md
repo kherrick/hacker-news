@@ -10,6 +10,7 @@
 * [2024-05-14, 20:46:49](https://news.ycombinator.com/item?id=40359976) - [Stone with ancient writing system unearthed in garden](https://www.bbc.co.uk/news/articles/c14kywyk0vro)
 * [2024-05-14, 20:38:10](https://news.ycombinator.com/item?id=40359893) - [Muse Retrospective](https://adamwiggins.com/muse-retrospective/)
 * [2024-05-14, 20:37:22](https://news.ycombinator.com/item?id=40359886) - [Higher RAII and the seven arcane uses of linear types](https://verdagon.dev/blog/higher-raii-uses-linear-types)
+* [2024-05-14, 20:22:42](https://news.ycombinator.com/item?id=40359736) - [Most common PIN codes (2012)](http://www.datagenetics.com/blog/september32012/index.html)
 * [2024-05-14, 20:22:42](https://news.ycombinator.com/item?id=40359736) - [Most Common Pin Codes](https://informationisbeautiful.net/visualizations/most-common-pin-codes/)
 * [2024-05-14, 20:06:14](https://news.ycombinator.com/item?id=40359560) - [2023 summer warmth unparalleled over the past 2k years](https://www.nature.com/articles/s41586-024-07512-y)
 * [2024-05-14, 19:38:41](https://news.ycombinator.com/item?id=40359250) - ['Shake' Design Documents](https://digitalcomposting.wordpress.com/2024/05/14/shake-design-documents/)
