@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-14, 12:14:01](https://news.ycombinator.com/item?id=40354344) - [AI Startup Co-Founded by David Sacks Officially Launches](https://www.bloomberg.com/news/articles/2024-05-14/david-sacks-ai-startup-glue-has-officially-launched)
 * [2024-05-14, 12:04:11](https://news.ycombinator.com/item?id=40354268) - ['Has this guy ever made a movie before?' Coppola's battle to film Megalopolis](https://www.theguardian.com/film/article/2024/may/14/has-this-guy-ever-made-a-movie-before-francis-ford-coppola-40-year-battle-megalopolis)
 * [2024-05-14, 12:00:15](https://news.ycombinator.com/item?id=40354241) - [Unriddle (YC S24) Is Hiring a Founding Engineer](https://www.workatastartup.com/jobs/66506)
 * [2024-05-14, 11:24:02](https://news.ycombinator.com/item?id=40353963) - [My VM is lighter (and safer) than your container (2017)](https://dl.acm.org/doi/10.1145/3132747.3132763)
@@ -29,6 +28,7 @@
 * [2024-05-13, 07:14:54](https://news.ycombinator.com/item?id=40340536) - [Timekeeping Before Clocks](https://worldhistory.substack.com/p/to-cut-and-hack-my-days)
 * [2024-05-13, 06:19:22](https://news.ycombinator.com/item?id=40340289) - [Why Surrealism Matters: Book review](https://www.the-tls.co.uk/articles/why-surrealism-matters-by-mark-polizzotti-book-review/)
 * [2024-05-13, 06:05:46](https://news.ycombinator.com/item?id=40340226) - [Pen Plotter Programming: The Basics (2017)](https://medium.com/@fogleman/pen-plotter-programming-the-basics-ec0407ab5929)
+* [2024-05-13, 06:05:09](https://news.ycombinator.com/item?id=40340220) - [Fifteen Fundamental Properties (2022)](https://camillovisini.com/writing/fifteen-fundamental-properties)
 * [2024-05-13, 05:35:04](https://news.ycombinator.com/item?id=40340104) - [MSX Elite](https://thefoggiest.dev/2024/05/13/msx-elite)
 
 ## [Archives](archives/index.md)
