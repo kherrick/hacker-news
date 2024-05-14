@@ -13,7 +13,7 @@
 * [2024-05-13, 21:54:53](https://news.ycombinator.com/item?id=40348957) - [Intel announces the Aurora supercomputer has broken the exascale barrier](https://www.intel.com/content/www/us/en/newsroom/news/intel-powered-aurora-supercomputer-breaks-exascale-barrier.html)
 * [2024-05-13, 21:14:54](https://news.ycombinator.com/item?id=40348531) - [Unitree G1 Humanoid Agent](https://www.unitree.com/g1/)
 * [2024-05-13, 20:24:57](https://news.ycombinator.com/item?id=40347981) - [Meteor Lake's E-Cores: Crestmont Makes Incremental Progress](https://chipsandcheese.com/2024/05/13/meteor-lakes-e-cores-crestmont-makes-incremental-progress/)
-* [2024-05-13, 20:00:30](https://news.ycombinator.com/item?id=40347662) - [DOS game \"F-15 Strike Eagle II\" reverse engineering/reconstruction war stories](https://neuviemeporte.github.io/category/f15-se2.html)
+* [2024-05-13, 20:00:30](https://news.ycombinator.com/item?id=40347662) - [DOS game ”F-15 Strike Eagle II” reverse engineering/reconstruction war stories](https://neuviemeporte.github.io/category/f15-se2.html)
 * [2024-05-13, 19:03:55](https://news.ycombinator.com/item?id=40346995) - [Show HN: Pi-C.A.R.D, a Raspberry Pi Voice Assistant](https://github.com/nkasmanoff/pi-card)
 * [2024-05-13, 17:46:28](https://news.ycombinator.com/item?id=40346024) - [Apple and Google deliver support for unwanted tracking alerts in iOS and Android](https://www.apple.com/ca/newsroom/2024/05/apple-and-google-deliver-support-for-unwanted-tracking-alerts-in-ios-and-android/)
 * [2024-05-13, 17:28:00](https://news.ycombinator.com/item?id=40345775) - [GPT-4o](https://openai.com/index/hello-gpt-4o/)
