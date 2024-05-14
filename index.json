@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-14, 09:06:43",
+      "https://news.ycombinator.com/item?id=40353102"
+    ],
+    [
+      "Turn Your Android Tablet into an IDE with VSCode and Nix",
+      "https://www.50-nuances-octets.fr/en/posts/turn-android-tablet-into-ide-with-vscode-nix/"
+    ]
+  ],
+  [
+    [
       "2024-05-14, 07:56:13",
       "https://news.ycombinator.com/item?id=40352686"
     ],
@@ -91,32 +101,12 @@
   ],
   [
     [
-      "2024-05-14, 00:24:02",
-      "https://news.ycombinator.com/item?id=40350201"
-    ],
-    [
-      "Memory Consistency Models: A Tutorial",
-      "https://www.cs.utexas.edu/~bornholt/post/memory-models.html"
-    ]
-  ],
-  [
-    [
       "2024-05-13, 22:33:01",
       "https://news.ycombinator.com/item?id=40349347"
     ],
     [
       "Not an iPad Pro Review: Why iPadOS Still Doesn't Get the Basics Right",
       "https://www.macstories.net/stories/not-an-ipad-pro-review/"
-    ]
-  ],
-  [
-    [
-      "2024-05-13, 21:57:48",
-      "https://news.ycombinator.com/item?id=40348986"
-    ],
-    [
-      "Which cognitive psychology findings are solid that I can use to help students?",
-      "https://matheducators.stackexchange.com/questions/27839/which-cognitive-psychology-findings-are-solid-that-i-can-use-to-help-my-student"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "SEQUEL: A Structured English Query Language (1974)",
       "https://dl.acm.org/doi/epdf/10.1145/800296.811515"
+    ]
+  ],
+  [
+    [
+      "2024-05-12, 11:37:11",
+      "https://news.ycombinator.com/item?id=40333584"
+    ],
+    [
+      "Overbite Project: Why still use Gopher? What makes Gopher relevant?",
+      "https://gopher.floodgap.com/overbite/relevance.html"
     ]
   ]
 ]
