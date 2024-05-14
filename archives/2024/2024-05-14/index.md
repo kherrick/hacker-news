@@ -8,3 +8,4 @@
 * [2024-05-14, 01:26:34](https://news.ycombinator.com/item?id=40350625) - [Truffle ISLISP](https://arvyy.github.io/islisp-truffle/)
 * [2024-05-14, 00:56:15](https://news.ycombinator.com/item?id=40350408) - [Upstreaming Linux kernel support for the Snapdragon X Elite](https://www.qualcomm.com/developer/blog/2024/05/upstreaming-linux-kernel-support-for-the-snapdragon-x-elite)
 * [2024-05-14, 00:26:47](https://news.ycombinator.com/item?id=40350220) - [The Linux kernel giving CVEs to all bugfixes is sort of predictable](https://utcc.utoronto.ca/~cks/space/blog/linux/KernelBugfixCVEsAStory)
+* [2024-05-14, 00:24:02](https://news.ycombinator.com/item?id=40350201) - [Memory Consistency Models: A Tutorial](https://www.cs.utexas.edu/~bornholt/post/memory-models.html)

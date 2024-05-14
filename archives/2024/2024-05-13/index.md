@@ -91,6 +91,7 @@
 * [2024-05-13, 10:35:16](https://news.ycombinator.com/item?id=40341610) - [Bird flu in cattle: is cow's milk safe to drink?](https://www.bbc.com/future/article/20240510-bird-flu-in-cows-has-caused-concern-amongst-milk-drinkers-experts-say-its-still-safe-to-drink)
 * [2024-05-13, 10:14:03](https://news.ycombinator.com/item?id=40341518) - [Intel reduces latencies of chat LLM app using quantisation](https://community.intel.com/t5/Blogs/Tech-Innovation/Cloud/bg-p/blog-cloud/spr-xeon-gen-ai-ml-part3.html)
 * [2024-05-13, 10:02:24](https://news.ycombinator.com/item?id=40341454) - [Sleep does not help brain wash out toxins, study suggests](https://www.theguardian.com/science/article/2024/may/13/sleep-does-not-help-brain-wash-out-toxins-study-suggests)
+* [2024-05-13, 09:33:53](https://news.ycombinator.com/item?id=40341297) - [Open Source Tool Changer for FDM 3D Printers](https://github.com/ankurv2k6/daksh-toolchanger-v2)
 * [2024-05-13, 08:39:30](https://news.ycombinator.com/item?id=40341037) - [Ask HN: Founders who offer free/OS and paid SaaS, how do you manage your code?](https://news.ycombinator.com/item?id=40341037)
 * [2024-05-13, 08:18:47](https://news.ycombinator.com/item?id=40340901) - [Show HN: Boxwood – simple templating engine for JavaScript, in JavaScript](https://github.com/buxlabs/boxwood)
 * [2024-05-13, 08:01:55](https://news.ycombinator.com/item?id=40340805) - [eu/acc](https://eu-acc.com/)
