@@ -1,52 +1,22 @@
 [
   [
     [
-      "2024-05-14, 00:26:47",
-      "https://news.ycombinator.com/item?id=40350220"
+      "2024-05-13, 23:51:09",
+      "https://news.ycombinator.com/item?id=40349970"
     ],
     [
-      "The Linux kernel giving CVEs to all bugfixes is sort of predictable",
-      "https://utcc.utoronto.ca/~cks/space/blog/linux/KernelBugfixCVEsAStory"
+      "The Cult of the Haskell Programmer",
+      "https://www.wired.com/story/inside-the-cult-of-the-haskell-programmer/"
     ]
   ],
   [
     [
-      "2024-05-13, 23:44:19",
-      "https://news.ycombinator.com/item?id=40349913"
+      "2024-05-13, 22:46:23",
+      "https://news.ycombinator.com/item?id=40349456"
     ],
     [
-      "IndexedDB as a Vector Database",
-      "https://paul.kinlan.me/idb-as-a-vector-database/"
-    ]
-  ],
-  [
-    [
-      "2024-05-13, 23:24:30",
-      "https://news.ycombinator.com/item?id=40349762"
-    ],
-    [
-      "FDA: Do Not Use Cue Health's Covid-19 Tests Due to Risk of False Results",
-      "https://www.fda.gov/medical-devices/safety-communications/do-not-use-cue-healths-covid-19-tests-due-risk-false-results-fda-safety-communication"
-    ]
-  ],
-  [
-    [
-      "2024-05-13, 23:09:44",
-      "https://news.ycombinator.com/item?id=40349658"
-    ],
-    [
-      "Chatbots tell people what they want to hear",
-      "https://hub.jhu.edu/2024/05/13/chatbots-tell-people-what-they-want-to-hear/"
-    ]
-  ],
-  [
-    [
-      "2024-05-13, 22:26:41",
-      "https://news.ycombinator.com/item?id=40349288"
-    ],
-    [
-      "In 2017, the feds said Tesla Autopilot cut crashes 40%–that was bogus (2019)",
-      "https://arstechnica.com/cars/2019/02/in-2017-the-feds-said-tesla-autopilot-cut-crashes-40-that-was-bogus/"
+      "Detectability of Solar Panels as a Technosignature",
+      "https://arxiv.org/abs/2405.04560"
     ]
   ],
   [
@@ -57,16 +27,6 @@
     [
       "Towards accurate and efficient document analytics with large language models",
       "https://arxiv.org/abs/2405.04674"
-    ]
-  ],
-  [
-    [
-      "2024-05-13, 21:54:53",
-      "https://news.ycombinator.com/item?id=40348957"
-    ],
-    [
-      "Intel announces the Aurora supercomputer has broken the exascale barrier",
-      "https://www.intel.com/content/www/us/en/newsroom/news/intel-powered-aurora-supercomputer-breaks-exascale-barrier.html"
     ]
   ],
   [
@@ -141,6 +101,16 @@
   ],
   [
     [
+      "2024-05-13, 19:57:13",
+      "https://news.ycombinator.com/item?id=40347624"
+    ],
+    [
+      "IBM open-sources its Granite AI models – and they mean business",
+      "https://www.zdnet.com/article/ibm-open-sources-its-granite-ai-models-and-they-mean-business/"
+    ]
+  ],
+  [
+    [
       "2024-05-13, 19:03:55",
       "https://news.ycombinator.com/item?id=40346995"
     ],
@@ -157,6 +127,16 @@
     [
       "QBE – Compiler Back End",
       "https://c9x.me/compile/"
+    ]
+  ],
+  [
+    [
+      "2024-05-13, 17:53:44",
+      "https://news.ycombinator.com/item?id=40346148"
+    ],
+    [
+      "Language, OS and GUI -independent windowing API provided as a virtual filesystem",
+      "https://www.fornaxis.org/forge/"
     ]
   ],
   [
@@ -231,6 +211,16 @@
   ],
   [
     [
+      "2024-05-13, 12:32:41",
+      "https://news.ycombinator.com/item?id=40342578"
+    ],
+    [
+      "The USDA's gardening zones shifted, this map shows you what's changed",
+      "https://apps.npr.org/plant-hardiness-garden-map/"
+    ]
+  ],
+  [
+    [
       "2024-05-13, 11:49:28",
       "https://news.ycombinator.com/item?id=40342188"
     ],
@@ -281,12 +271,22 @@
   ],
   [
     [
-      "2024-05-13, 05:59:25",
-      "https://news.ycombinator.com/item?id=40340197"
+      "2024-05-12, 22:05:58",
+      "https://news.ycombinator.com/item?id=40337936"
     ],
     [
-      "SQL co-creator embraces NoSQL",
-      "https://www.theregister.com/2024/05/10/sql_cocreator_nosql/"
+      "GPUs Go Brrr",
+      "https://hazyresearch.stanford.edu/blog/2024-05-12-tk"
+    ]
+  ],
+  [
+    [
+      "2024-05-12, 13:32:01",
+      "https://news.ycombinator.com/item?id=40334309"
+    ],
+    [
+      "The Myth of Loss: Bitboys",
+      "https://hardforum.com/threads/bitboys.1973024/"
     ]
   ],
   [
