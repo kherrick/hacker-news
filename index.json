@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-14, 01:26:34",
+      "https://news.ycombinator.com/item?id=40350625"
+    ],
+    [
+      "Truffle ISLISP",
+      "https://arvyy.github.io/islisp-truffle/"
+    ]
+  ],
+  [
+    [
       "2024-05-13, 23:51:09",
       "https://news.ycombinator.com/item?id=40349970"
     ],
@@ -27,6 +37,16 @@
     [
       "Towards accurate and efficient document analytics with large language models",
       "https://arxiv.org/abs/2405.04674"
+    ]
+  ],
+  [
+    [
+      "2024-05-13, 21:57:48",
+      "https://news.ycombinator.com/item?id=40348986"
+    ],
+    [
+      "Which cognitive psychology findings are solid that I can use to help students?",
+      "https://matheducators.stackexchange.com/questions/27839/which-cognitive-psychology-findings-are-solid-that-i-can-use-to-help-my-student"
     ]
   ],
   [
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2024-05-13, 19:57:13",
-      "https://news.ycombinator.com/item?id=40347624"
-    ],
-    [
-      "IBM open-sources its Granite AI models – and they mean business",
-      "https://www.zdnet.com/article/ibm-open-sources-its-granite-ai-models-and-they-mean-business/"
-    ]
-  ],
-  [
-    [
       "2024-05-13, 19:03:55",
       "https://news.ycombinator.com/item?id=40346995"
     ],
@@ -127,16 +137,6 @@
     [
       "QBE – Compiler Back End",
       "https://c9x.me/compile/"
-    ]
-  ],
-  [
-    [
-      "2024-05-13, 17:53:44",
-      "https://news.ycombinator.com/item?id=40346148"
-    ],
-    [
-      "Language, OS and GUI -independent windowing API provided as a virtual filesystem",
-      "https://www.fornaxis.org/forge/"
     ]
   ],
   [
