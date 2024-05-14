@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-14, 15:08:26](https://news.ycombinator.com/item?id=40355995) - [Tesla labour dispute triggers Nordic sympathy strikes](https://www.reuters.com/business/autos-transportation/tesla-labour-dispute-ignites-nordic-sympathy-strikes-2023-12-07/)
 * [2024-05-14, 15:07:41](https://news.ycombinator.com/item?id=40355982) - [Firefox to collect anonymized and categorized search data](https://blog.mozilla.org/en/products/firefox/firefox-search-update/)
 * [2024-05-14, 14:53:33](https://news.ycombinator.com/item?id=40355825) - [Silicon reverse engineering: The 8085's undocumented flags (2013)](https://www.righto.com/2013/02/looking-at-silicon-to-understanding.html)
 * [2024-05-14, 13:51:26](https://news.ycombinator.com/item?id=40355227) - [Blazingly fast linked lists](https://dygalo.dev/blog/blazingly-fast-linked-lists/)
@@ -24,6 +23,7 @@
 * [2024-05-13, 17:28:00](https://news.ycombinator.com/item?id=40345775) - [GPT-4o](https://openai.com/index/hello-gpt-4o/)
 * [2024-05-13, 12:56:34](https://news.ycombinator.com/item?id=40342803) - [Static Chess](https://www.val.town/v/maxm/staticChess)
 * [2024-05-13, 11:30:33](https://news.ycombinator.com/item?id=40342008) - [A Pattern Language](https://patternlanguage.cc/)
+* [2024-05-13, 11:03:27](https://news.ycombinator.com/item?id=40341806) - [Database Versioning with Lesli](https://www.lesli.dev/engines/lesli/database/versioning)
 * [2024-05-13, 10:52:38](https://news.ycombinator.com/item?id=40341733) - [Disney's Robots Use Rockets to Stick the Landing](https://spectrum.ieee.org/disney-robot-2668135204)
 * [2024-05-13, 10:12:44](https://news.ycombinator.com/item?id=40341508) - [Commodore 64 runs AI to generate images](https://www.tomshardware.com/tech-industry/artificial-intelligence/commodore-64-can-use-ai-to-generate-8x8-sprites-takes-20-minutes-for-90-iterations)
 * [2024-05-13, 07:14:54](https://news.ycombinator.com/item?id=40340536) - [Timekeeping Before Clocks](https://worldhistory.substack.com/p/to-cut-and-hack-my-days)
