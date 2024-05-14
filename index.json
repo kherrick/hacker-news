@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-14, 20:48:14",
+      "https://news.ycombinator.com/item?id=40359993"
+    ],
+    [
+      "NTSB Report on Contact of Containership with the Key Bridge and Bridge Collapse [pdf]",
+      "https://static01.nyt.com/newsgraphics/documenttools/6119296c8c79713a/0e214c46-full.pdf"
+    ]
+  ],
+  [
+    [
       "2024-05-14, 20:46:49",
       "https://news.ycombinator.com/item?id=40359976"
     ],
@@ -17,6 +27,16 @@
     [
       "Muse Retrospective",
       "https://adamwiggins.com/muse-retrospective/"
+    ]
+  ],
+  [
+    [
+      "2024-05-14, 20:37:22",
+      "https://news.ycombinator.com/item?id=40359886"
+    ],
+    [
+      "Higher RAII and the seven arcane uses of linear types",
+      "https://verdagon.dev/blog/higher-raii-uses-linear-types"
     ]
   ],
   [
@@ -181,12 +201,12 @@
   ],
   [
     [
-      "2024-05-14, 15:33:21",
-      "https://news.ycombinator.com/item?id=40356296"
+      "2024-05-14, 14:57:55",
+      "https://news.ycombinator.com/item?id=40355875"
     ],
     [
-      "Convolutional-KANs",
-      "https://github.com/AntonioTepsich/Convolutional-KANs"
+      "Optimizing ClickHouse: Tactics that worked for us",
+      "https://www.highlight.io/blog/lw5-clickhouse-performance-optimization"
     ]
   ],
   [
@@ -197,16 +217,6 @@
     [
       "Show HN: Pico: An open-source Ngrok alternative built for production traffic",
       "https://github.com/andydunstall/pico"
-    ]
-  ],
-  [
-    [
-      "2024-05-14, 13:24:43",
-      "https://news.ycombinator.com/item?id=40354988"
-    ],
-    [
-      "New work extends the thermodynamic theory of computation",
-      "https://www.santafe.edu/news-center/news/new-work-extends-the-thermodynamic-theory-of-computation"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Frank Ramsey: A genius by all tests for genius (2020)",
       "https://www.hnn.us/article/frank-ramsey-a-genius-by-all-tests-for-genius"
-    ]
-  ],
-  [
-    [
-      "2024-05-13, 10:52:38",
-      "https://news.ycombinator.com/item?id=40341733"
-    ],
-    [
-      "Disney's robots use rockets to stick the landing",
-      "https://spectrum.ieee.org/disney-robot-2668135204"
     ]
   ],
   [
