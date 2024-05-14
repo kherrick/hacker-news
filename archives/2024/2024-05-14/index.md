@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-05-14](index.md)
 
+* [2024-05-14, 20:48:14](https://news.ycombinator.com/item?id=40359993) - [NTSB Report on Contact of Containership with the Key Bridge and Bridge Collapse [pdf]](https://static01.nyt.com/newsgraphics/documenttools/6119296c8c79713a/0e214c46-full.pdf)
 * [2024-05-14, 20:46:49](https://news.ycombinator.com/item?id=40359976) - [Stone with ancient writing system unearthed in garden](https://www.bbc.co.uk/news/articles/c14kywyk0vro)
 * [2024-05-14, 20:38:10](https://news.ycombinator.com/item?id=40359893) - [Muse Retrospective](https://adamwiggins.com/muse-retrospective/)
+* [2024-05-14, 20:37:22](https://news.ycombinator.com/item?id=40359886) - [Higher RAII and the seven arcane uses of linear types](https://verdagon.dev/blog/higher-raii-uses-linear-types)
 * [2024-05-14, 20:22:42](https://news.ycombinator.com/item?id=40359736) - [Most Common Pin Codes](https://informationisbeautiful.net/visualizations/most-common-pin-codes/)
 * [2024-05-14, 20:06:14](https://news.ycombinator.com/item?id=40359560) - [2023 summer warmth unparalleled over the past 2k years](https://www.nature.com/articles/s41586-024-07512-y)
 * [2024-05-14, 19:38:41](https://news.ycombinator.com/item?id=40359250) - ['Shake' Design Documents](https://digitalcomposting.wordpress.com/2024/05/14/shake-design-documents/)
@@ -49,6 +51,7 @@
 * [2024-05-14, 15:08:26](https://news.ycombinator.com/item?id=40355995) - [Tesla labour dispute triggers Nordic sympathy strikes](https://www.reuters.com/business/autos-transportation/tesla-labour-dispute-ignites-nordic-sympathy-strikes-2023-12-07/)
 * [2024-05-14, 15:07:41](https://news.ycombinator.com/item?id=40355982) - [Firefox to collect anonymized and categorized search data](https://blog.mozilla.org/en/products/firefox/firefox-search-update/)
 * [2024-05-14, 15:07:18](https://news.ycombinator.com/item?id=40355974) - [VMware Desktop Hypervisor Pro Apps Now Available for Personal Use](https://blogs.vmware.com/cloud-foundation/2024/05/14/vmware-desktop-hypervisor-pro-apps-now-available-for-personal-use/)
+* [2024-05-14, 14:57:55](https://news.ycombinator.com/item?id=40355875) - [Optimizing ClickHouse: Tactics that worked for us](https://www.highlight.io/blog/lw5-clickhouse-performance-optimization)
 * [2024-05-14, 14:54:15](https://news.ycombinator.com/item?id=40355835) - [Idefics2: A Powerful 8B Vision-Language Model for the Community](https://huggingface.co/blog/idefics2)
 * [2024-05-14, 14:53:33](https://news.ycombinator.com/item?id=40355825) - [Silicon reverse engineering: The 8085's undocumented flags (2013)](https://www.righto.com/2013/02/looking-at-silicon-to-understanding.html)
 * [2024-05-14, 14:51:02](https://news.ycombinator.com/item?id=40355804) - [Learning from the Object-Oriented Mania](https://lemire.me/blog/2024/05/14/learning-from-the-object-oriented-mania/)
