@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-05-14, 07:56:13",
+      "https://news.ycombinator.com/item?id=40352686"
+    ],
+    [
+      "The Notifier Pattern for Applications That Use Postgres",
+      "https://brandur.org/notifier"
+    ]
+  ],
+  [
+    [
       "2024-05-14, 07:05:38",
       "https://news.ycombinator.com/item?id=40352426"
     ],
     [
       "Using ARG in a Dockerfile – beware the gotcha",
       "https://qmacro.org/blog/posts/2024/05/13/using-arg-in-a-dockerfile-beware-the-gotcha/"
+    ]
+  ],
+  [
+    [
+      "2024-05-14, 06:25:04",
+      "https://news.ycombinator.com/item?id=40352204"
+    ],
+    [
+      "Claude is now available in Europe",
+      "https://www.anthropic.com/news/claude-europe"
+    ]
+  ],
+  [
+    [
+      "2024-05-14, 06:08:46",
+      "https://news.ycombinator.com/item?id=40352120"
+    ],
+    [
+      "Verilator: Open-Source SystemVerilog simulator and lint system",
+      "https://github.com/verilator/verilator"
     ]
   ],
   [
@@ -191,26 +221,6 @@
   ],
   [
     [
-      "2024-05-13, 16:17:20",
-      "https://news.ycombinator.com/item?id=40344946"
-    ],
-    [
-      "Unix version control lore: what, ident",
-      "https://dotat.at/@/2024-05-13-what-ident.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-13, 13:29:17",
-      "https://news.ycombinator.com/item?id=40343131"
-    ],
-    [
-      "Pg_lakehouse: Query Any Data Lake from Postgres",
-      "https://github.com/paradedb/paradedb/tree/dev/pg_lakehouse"
-    ]
-  ],
-  [
-    [
       "2024-05-13, 12:56:34",
       "https://news.ycombinator.com/item?id=40342803"
     ],
@@ -287,16 +297,6 @@
     [
       "SEQUEL: A Structured English Query Language (1974)",
       "https://dl.acm.org/doi/epdf/10.1145/800296.811515"
-    ]
-  ],
-  [
-    [
-      "2024-05-12, 11:37:11",
-      "https://news.ycombinator.com/item?id=40333584"
-    ],
-    [
-      "Overbite Project: Why still use Gopher? What makes Gopher relevant?",
-      "https://gopher.floodgap.com/overbite/relevance.html"
     ]
   ]
 ]
