@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-05-14](index.md)
 
+* [2024-05-14, 19:18:28](https://news.ycombinator.com/item?id=40359019) - [Google is redesigning its search engine – and it's AI all the way down](https://www.theverge.com/2024/5/14/24155321/google-search-ai-results-page-gemini-overview)
 * [2024-05-14, 18:49:39](https://news.ycombinator.com/item?id=40358684) - [Google Gems](https://blog.google/products/gemini/google-gemini-update-may-2024/)
 * [2024-05-14, 18:40:50](https://news.ycombinator.com/item?id=40358588) - [The new APT 3.0 solver](https://blog.jak-linux.org/2024/05/14/solver3/)
+* [2024-05-14, 18:30:21](https://news.ycombinator.com/item?id=40358461) - [PaliGemma](https://ai.google.dev/gemma/docs/paligemma)
 * [2024-05-14, 18:25:21](https://news.ycombinator.com/item?id=40358405) - [Code reviews don't usually find bugs](https://www.aviator.co/blog/how-not-to-do-code-reviews/)
 * [2024-05-14, 18:19:01](https://news.ycombinator.com/item?id=40358309) - [Glider – open-source eInk monitor with an emphasis on low latency](https://github.com/Modos-Labs/Glider)
 * [2024-05-14, 18:15:05](https://news.ycombinator.com/item?id=40358257) - [Project Astra](https://www.theverge.com/2024/5/14/24156296/google-ai-gemini-astra-assistant-live-io)
@@ -14,6 +16,7 @@
 * [2024-05-14, 17:39:10](https://news.ycombinator.com/item?id=40357784) - [Google announces Veo, their Sora competing text/image-to-video model](https://aitestkitchen.withgoogle.com/tools/video-fx)
 * [2024-05-14, 17:32:14](https://news.ycombinator.com/item?id=40357724) - [Alabama prisoners' organs vanish, and there's a whole lot of passing the buck](https://www.al.com/news/2024/02/archibald-alabama-prisoners-organs-vanish-and-theres-a-whole-lot-of-passing-the-buck-and-the-bodies.html)
 * [2024-05-14, 17:31:01](https://news.ycombinator.com/item?id=40357706) - [We Closed Institutions That Housed Mentally Ill, Made It Harder to Receive Care](https://freddiedeboer.substack.com/p/we-closed-the-institutions-that-housed)
+* [2024-05-14, 17:29:19](https://news.ycombinator.com/item?id=40357681) - [Model Explorer: intuitive and hierarchical visualization of model graphs](https://ai.google.dev/edge/model-explorer)
 * [2024-05-14, 17:29:19](https://news.ycombinator.com/item?id=40357681) - [Google Edge AI Model Explorer](https://github.com/google-ai-edge/model-explorer)
 * [2024-05-14, 17:28:26](https://news.ycombinator.com/item?id=40357671) - [Meta Is Shuttering Workplace, Its Enterprise Version of Facebook](https://finance.yahoo.com/news/meta-shuttering-workplace-enterprise-version-170030864.html)
 * [2024-05-14, 17:23:30](https://news.ycombinator.com/item?id=40357611) - [Glance: A self-hosted dashboard that puts all your feeds in one place](https://github.com/glanceapp/glance)
