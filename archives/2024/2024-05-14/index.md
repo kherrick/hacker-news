@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-14](index.md)
 
+* [2024-05-14, 10:59:01](https://news.ycombinator.com/item?id=40353805) - [Why are Google and Facebook free? The answer might be worse than you think](https://tuta.com/blog/google-facebook-free)
 * [2024-05-14, 09:06:43](https://news.ycombinator.com/item?id=40353102) - [Turn Your Android Tablet into an IDE with VSCode and Nix](https://www.50-nuances-octets.fr/en/posts/turn-android-tablet-into-ide-with-vscode-nix/)
 * [2024-05-14, 07:56:13](https://news.ycombinator.com/item?id=40352686) - [The Notifier Pattern for Applications That Use Postgres](https://brandur.org/notifier)
 * [2024-05-14, 07:05:38](https://news.ycombinator.com/item?id=40352426) - [Using ARG in a Dockerfile – beware the gotcha](https://qmacro.org/blog/posts/2024/05/13/using-arg-in-a-dockerfile-beware-the-gotcha/)

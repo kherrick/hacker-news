@@ -107,6 +107,7 @@
 * [2024-05-13, 06:19:22](https://news.ycombinator.com/item?id=40340289) - [Head boy of Surrealism: How André Breton policed a movement for artistic freedom](https://www.the-tls.co.uk/articles/why-surrealism-matters-by-mark-polizzotti-book-review/)
 * [2024-05-13, 06:18:12](https://news.ycombinator.com/item?id=40340285) - [Preserving the Wilderness Idea](https://hedgehogreview.com/issues/missing-character/articles/preserving-the-wilderness-idea)
 * [2024-05-13, 06:11:38](https://news.ycombinator.com/item?id=40340248) - [Exploring GNU extensions in the Linux kernel](https://maskray.me/blog/2024-05-12-exploring-gnu-extensions-in-linux-kernel)
+* [2024-05-13, 06:05:46](https://news.ycombinator.com/item?id=40340226) - [Pen Plotter Programming: The Basics (2017)](https://medium.com/@fogleman/pen-plotter-programming-the-basics-ec0407ab5929)
 * [2024-05-13, 06:05:09](https://news.ycombinator.com/item?id=40340220) - [Fifteen Fundamental Properties](https://camillovisini.com/writing/fifteen-fundamental-properties)
 * [2024-05-13, 05:59:25](https://news.ycombinator.com/item?id=40340197) - [SQL co-creator embraces NoSQL](https://www.theregister.com/2024/05/10/sql_cocreator_nosql/)
 * [2024-05-13, 05:35:04](https://news.ycombinator.com/item?id=40340104) - [MSX Elite](https://thefoggiest.dev/2024/05/13/msx-elite)
