@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-14](index.md)
 
+* [2024-05-14, 15:08:26](https://news.ycombinator.com/item?id=40355995) - [Tesla labour dispute triggers Nordic sympathy strikes](https://www.reuters.com/business/autos-transportation/tesla-labour-dispute-ignites-nordic-sympathy-strikes-2023-12-07/)
+* [2024-05-14, 15:07:41](https://news.ycombinator.com/item?id=40355982) - [Firefox to collect anonymized and categorized search data](https://blog.mozilla.org/en/products/firefox/firefox-search-update/)
+* [2024-05-14, 14:53:33](https://news.ycombinator.com/item?id=40355825) - [Silicon reverse engineering: The 8085's undocumented flags (2013)](https://www.righto.com/2013/02/looking-at-silicon-to-understanding.html)
 * [2024-05-14, 14:35:25](https://news.ycombinator.com/item?id=40355649) - [WebKit Features in Safari 17.5](https://webkit.org/blog/15383/webkit-features-in-safari-17-5/)
 * [2024-05-14, 14:26:04](https://news.ycombinator.com/item?id=40355563) - [AI-generated spam is starting to fill social media. Here's why](https://www.npr.org/2024/05/14/1251072726/ai-spam-images-facebook-linkedin-threads-meta)
 * [2024-05-14, 13:51:26](https://news.ycombinator.com/item?id=40355227) - [Blazingly Fast Linked Lists](https://dygalo.dev/blog/blazingly-fast-linked-lists/)
