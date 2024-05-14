@@ -6,6 +6,8 @@
 
 * [2024-05-14, 13:51:26](https://news.ycombinator.com/item?id=40355227) - [Blazingly Fast Linked Lists](https://dygalo.dev/blog/blazingly-fast-linked-lists/)
 * [2024-05-14, 13:39:30](https://news.ycombinator.com/item?id=40355126) - [Silicon Valley once chafed at dictatorships. Then came a Middle East gold rush](https://www.washingtonpost.com/technology/2024/05/14/middle-east-ai-tech-companies-saudi-arabia-uae/)
+* [2024-05-14, 13:24:43](https://news.ycombinator.com/item?id=40354988) - [New work extends the thermodynamic theory of computation](https://www.santafe.edu/news-center/news/new-work-extends-the-thermodynamic-theory-of-computation)
+* [2024-05-14, 13:20:05](https://news.ycombinator.com/item?id=40354952) - [Wasp-193B, a giant planet with a density similar to that of cotton candy](https://www.exotic.uliege.be/cms/c_12662566/en/wasp-193b-a-giant-planet-with-a-density-similar-to-that-of-cotton-candy)
 * [2024-05-14, 12:54:45](https://news.ycombinator.com/item?id=40354702) - [EU Commission Designates Booking as a Gatekeeper](https://ec.europa.eu/commission/presscorner/detail/fen/ip_24_2561)
 * [2024-05-14, 12:14:01](https://news.ycombinator.com/item?id=40354344) - [AI Startup Co-Founded by David Sacks Officially Launches](https://www.bloomberg.com/news/articles/2024-05-14/david-sacks-ai-startup-glue-has-officially-launched)
 * [2024-05-14, 12:08:52](https://news.ycombinator.com/item?id=40354304) - [Google made a version of ChromeOS that runs on Pixel, including external monitor](https://9to5google.com/2024/05/13/google-pixel-8-android-chromeos-report/)
