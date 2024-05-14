@@ -1,22 +1,52 @@
 [
   [
     [
+      "2024-05-14, 12:08:52",
+      "https://news.ycombinator.com/item?id=40354304"
+    ],
+    [
+      "Google made a version of ChromeOS that runs on Pixel, including external monitor",
+      "https://9to5google.com/2024/05/13/google-pixel-8-android-chromeos-report/"
+    ]
+  ],
+  [
+    [
+      "2024-05-14, 12:04:11",
+      "https://news.ycombinator.com/item?id=40354268"
+    ],
+    [
+      "'Has this guy ever made a movie before?' Coppola's battle to film Megalopolis",
+      "https://www.theguardian.com/film/article/2024/may/14/has-this-guy-ever-made-a-movie-before-francis-ford-coppola-40-year-battle-megalopolis"
+    ]
+  ],
+  [
+    [
+      "2024-05-14, 12:00:15",
+      "https://news.ycombinator.com/item?id=40354241"
+    ],
+    [
+      "Unriddle (YC S24) Is Hiring a Founding Engineer",
+      "https://www.workatastartup.com/jobs/66506"
+    ]
+  ],
+  [
+    [
       "2024-05-14, 11:24:02",
       "https://news.ycombinator.com/item?id=40353963"
     ],
     [
-      "My VM is lighter (and safer) than your container",
+      "My VM is lighter (and safer) than your container (2017)",
       "https://dl.acm.org/doi/10.1145/3132747.3132763"
     ]
   ],
   [
     [
-      "2024-05-14, 09:06:43",
-      "https://news.ycombinator.com/item?id=40353102"
+      "2024-05-14, 10:24:25",
+      "https://news.ycombinator.com/item?id=40353585"
     ],
     [
-      "Turn Your Android Tablet into an IDE with VSCode and Nix",
-      "https://www.50-nuances-octets.fr/en/posts/turn-android-tablet-into-ide-with-vscode-nix/"
+      "Top doctor remains brain cancer-free after a year (of his own treatment)",
+      "https://www.bbc.co.uk/news/world-australia-69006713"
     ]
   ],
   [
@@ -31,42 +61,12 @@
   ],
   [
     [
-      "2024-05-14, 07:05:38",
-      "https://news.ycombinator.com/item?id=40352426"
-    ],
-    [
-      "Using ARG in a Dockerfile – beware the gotcha",
-      "https://qmacro.org/blog/posts/2024/05/13/using-arg-in-a-dockerfile-beware-the-gotcha/"
-    ]
-  ],
-  [
-    [
-      "2024-05-14, 06:25:04",
-      "https://news.ycombinator.com/item?id=40352204"
-    ],
-    [
-      "Claude is now available in Europe",
-      "https://www.anthropic.com/news/claude-europe"
-    ]
-  ],
-  [
-    [
       "2024-05-14, 06:08:46",
       "https://news.ycombinator.com/item?id=40352120"
     ],
     [
       "Verilator: Open-Source SystemVerilog simulator and lint system",
       "https://github.com/verilator/verilator"
-    ]
-  ],
-  [
-    [
-      "2024-05-14, 02:44:07",
-      "https://news.ycombinator.com/item?id=40351141"
-    ],
-    [
-      "The First Nuclear Microreactor Company Listed in the USA",
-      "https://nanonuclearenergy.com/"
     ]
   ],
   [
@@ -91,12 +91,12 @@
   ],
   [
     [
-      "2024-05-14, 00:56:15",
-      "https://news.ycombinator.com/item?id=40350408"
+      "2024-05-14, 00:24:02",
+      "https://news.ycombinator.com/item?id=40350201"
     ],
     [
-      "Upstreaming Linux kernel support for the Snapdragon X Elite",
-      "https://www.qualcomm.com/developer/blog/2024/05/upstreaming-linux-kernel-support-for-the-snapdragon-x-elite"
+      "Memory Consistency Models: A Tutorial",
+      "https://www.cs.utexas.edu/~bornholt/post/memory-models.html"
     ]
   ],
   [
@@ -127,16 +127,6 @@
     [
       "Unitree G1 Humanoid Agent",
       "https://www.unitree.com/g1/"
-    ]
-  ],
-  [
-    [
-      "2024-05-13, 21:00:07",
-      "https://news.ycombinator.com/item?id=40348356"
-    ],
-    [
-      "Svix (YC W21) Is Hiring a Product Marketing Manager (US Remote)",
-      "https://www.svix.com/careers/"
     ]
   ],
   [
@@ -261,6 +251,26 @@
   ],
   [
     [
+      "2024-05-13, 07:14:54",
+      "https://news.ycombinator.com/item?id=40340536"
+    ],
+    [
+      "Timekeeping Before Clocks",
+      "https://worldhistory.substack.com/p/to-cut-and-hack-my-days"
+    ]
+  ],
+  [
+    [
+      "2024-05-13, 06:19:22",
+      "https://news.ycombinator.com/item?id=40340289"
+    ],
+    [
+      "Why Surrealism Matters: Book review",
+      "https://www.the-tls.co.uk/articles/why-surrealism-matters-by-mark-polizzotti-book-review/"
+    ]
+  ],
+  [
+    [
       "2024-05-13, 06:05:46",
       "https://news.ycombinator.com/item?id=40340226"
     ],
@@ -277,16 +287,6 @@
     [
       "MSX Elite",
       "https://thefoggiest.dev/2024/05/13/msx-elite"
-    ]
-  ],
-  [
-    [
-      "2024-05-12, 20:44:33",
-      "https://news.ycombinator.com/item?id=40337445"
-    ],
-    [
-      "SEQUEL: A Structured English Query Language (1974)",
-      "https://dl.acm.org/doi/epdf/10.1145/800296.811515"
     ]
   ],
   [
