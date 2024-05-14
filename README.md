@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-14, 20:48:14](https://news.ycombinator.com/item?id=40359993) - [NTSB Report on Contact of Containership with the Key Bridge and Bridge Collapse [pdf]](https://static01.nyt.com/newsgraphics/documenttools/6119296c8c79713a/0e214c46-full.pdf)
+* [2024-05-14, 20:48:14](https://news.ycombinator.com/item?id=40359993) - [Contact of Containership Dali with the Key Bridge and Subsequent Bridge Collapse [pdf]](https://static01.nyt.com/newsgraphics/documenttools/6119296c8c79713a/0e214c46-full.pdf)
 * [2024-05-14, 20:46:49](https://news.ycombinator.com/item?id=40359976) - [Stone with ancient writing system unearthed in garden](https://www.bbc.co.uk/news/articles/c14kywyk0vro)
 * [2024-05-14, 20:38:10](https://news.ycombinator.com/item?id=40359893) - [Muse Retrospective](https://adamwiggins.com/muse-retrospective/)
 * [2024-05-14, 20:37:22](https://news.ycombinator.com/item?id=40359886) - [Higher RAII and the seven arcane uses of linear types](https://verdagon.dev/blog/higher-raii-uses-linear-types)
