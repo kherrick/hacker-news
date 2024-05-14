@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-14](index.md)
 
+* [2024-05-14, 16:16:53](https://news.ycombinator.com/item?id=40356833) - [ChatGPT consumes 25 times more energy than Google](https://www.brusselstimes.com/1042696/chatgpt-consumes-25-times-more-energy-than-google)
 * [2024-05-14, 15:57:56](https://news.ycombinator.com/item?id=40356599) - [The Collapse Is Coming? Will Humanity Adapt?](https://thereader.mitpress.mit.edu/the-collapse-is-coming-will-humanity-adapt/)
 * [2024-05-14, 15:56:30](https://news.ycombinator.com/item?id=40356581) - [The 1871 Samuel Morse Statue (2014)](http://daytoninmanhattan.blogspot.com/2014/06/the-1871-samuel-morse-statue-central.html)
 * [2024-05-14, 15:08:26](https://news.ycombinator.com/item?id=40355995) - [Tesla labour dispute triggers Nordic sympathy strikes](https://www.reuters.com/business/autos-transportation/tesla-labour-dispute-ignites-nordic-sympathy-strikes-2023-12-07/)
@@ -11,6 +12,7 @@
 * [2024-05-14, 15:07:18](https://news.ycombinator.com/item?id=40355974) - [VMware Desktop Hypervisor Pro Apps Now Available for Personal Use](https://blogs.vmware.com/cloud-foundation/2024/05/14/vmware-desktop-hypervisor-pro-apps-now-available-for-personal-use/)
 * [2024-05-14, 14:54:15](https://news.ycombinator.com/item?id=40355835) - [Idefics2: A Powerful 8B Vision-Language Model for the Community](https://huggingface.co/blog/idefics2)
 * [2024-05-14, 14:53:33](https://news.ycombinator.com/item?id=40355825) - [Silicon reverse engineering: The 8085's undocumented flags (2013)](https://www.righto.com/2013/02/looking-at-silicon-to-understanding.html)
+* [2024-05-14, 14:51:02](https://news.ycombinator.com/item?id=40355804) - [Learning from the Object-Oriented Mania](https://lemire.me/blog/2024/05/14/learning-from-the-object-oriented-mania/)
 * [2024-05-14, 14:44:37](https://news.ycombinator.com/item?id=40355744) - [Show HN: Pico: An open-source Ngrok alternative built for production traffic](https://github.com/andydunstall/pico)
 * [2024-05-14, 14:35:25](https://news.ycombinator.com/item?id=40355649) - [WebKit Features in Safari 17.5](https://webkit.org/blog/15383/webkit-features-in-safari-17-5/)
 * [2024-05-14, 14:26:04](https://news.ycombinator.com/item?id=40355563) - [AI-generated spam is starting to fill social media. Here's why](https://www.npr.org/2024/05/14/1251072726/ai-spam-images-facebook-linkedin-threads-meta)

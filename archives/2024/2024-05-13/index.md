@@ -103,6 +103,7 @@
 * [2024-05-13, 08:39:28](https://news.ycombinator.com/item?id=40341036) - [YouTube's Secret Weapon to Win the TV Streaming Wars: Its Top Creators](https://www.hollywoodreporter.com/business/business-news/youtubes-secret-weapon-top-creators-1235894945/)
 * [2024-05-13, 08:18:47](https://news.ycombinator.com/item?id=40340901) - [Show HN: Boxwood – simple templating engine for JavaScript, in JavaScript](https://github.com/buxlabs/boxwood)
 * [2024-05-13, 08:01:55](https://news.ycombinator.com/item?id=40340805) - [eu/acc](https://eu-acc.com/)
+* [2024-05-13, 07:48:11](https://news.ycombinator.com/item?id=40340725) - [The Guide to Haskell Strings](https://hasufell.github.io/posts/2024-05-07-ultimate-string-guide.html)
 * [2024-05-13, 07:33:57](https://news.ycombinator.com/item?id=40340642) - [Protecting your email address via SVG instead of JavaScript](https://rouninmedia.github.io/protecting-your-email-address-via-svg-instead-of-js/)
 * [2024-05-13, 07:14:54](https://news.ycombinator.com/item?id=40340536) - [Timekeeping Before Clocks](https://worldhistory.substack.com/p/to-cut-and-hack-my-days)
 * [2024-05-13, 07:00:10](https://news.ycombinator.com/item?id=40340450) - [Meticulous (YC S21) Is Hiring to Eliminate E2E UI Tests](https://news.ycombinator.com/item?id=40340450)
