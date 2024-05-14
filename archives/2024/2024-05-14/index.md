@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-14](index.md)
 
+* [2024-05-14, 14:35:25](https://news.ycombinator.com/item?id=40355649) - [WebKit Features in Safari 17.5](https://webkit.org/blog/15383/webkit-features-in-safari-17-5/)
+* [2024-05-14, 14:26:04](https://news.ycombinator.com/item?id=40355563) - [AI-generated spam is starting to fill social media. Here's why](https://www.npr.org/2024/05/14/1251072726/ai-spam-images-facebook-linkedin-threads-meta)
 * [2024-05-14, 13:51:26](https://news.ycombinator.com/item?id=40355227) - [Blazingly Fast Linked Lists](https://dygalo.dev/blog/blazingly-fast-linked-lists/)
 * [2024-05-14, 13:39:30](https://news.ycombinator.com/item?id=40355126) - [Silicon Valley once chafed at dictatorships. Then came a Middle East gold rush](https://www.washingtonpost.com/technology/2024/05/14/middle-east-ai-tech-companies-saudi-arabia-uae/)
 * [2024-05-14, 13:24:43](https://news.ycombinator.com/item?id=40354988) - [New work extends the thermodynamic theory of computation](https://www.santafe.edu/news-center/news/new-work-extends-the-thermodynamic-theory-of-computation)

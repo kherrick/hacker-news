@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-14, 13:51:26](https://news.ycombinator.com/item?id=40355227) - [Blazingly Fast Linked Lists](https://dygalo.dev/blog/blazingly-fast-linked-lists/)
-* [2024-05-14, 13:39:30](https://news.ycombinator.com/item?id=40355126) - [Silicon Valley once chafed at dictatorships. Then came a Middle East gold rush](https://www.washingtonpost.com/technology/2024/05/14/middle-east-ai-tech-companies-saudi-arabia-uae/)
+* [2024-05-14, 14:35:25](https://news.ycombinator.com/item?id=40355649) - [WebKit Features in Safari 17.5](https://webkit.org/blog/15383/webkit-features-in-safari-17-5/)
+* [2024-05-14, 14:26:04](https://news.ycombinator.com/item?id=40355563) - [AI-generated spam is starting to fill social media. Here's why](https://www.npr.org/2024/05/14/1251072726/ai-spam-images-facebook-linkedin-threads-meta)
+* [2024-05-14, 13:51:26](https://news.ycombinator.com/item?id=40355227) - [Blazingly fast linked lists](https://dygalo.dev/blog/blazingly-fast-linked-lists/)
 * [2024-05-14, 13:24:43](https://news.ycombinator.com/item?id=40354988) - [New work extends the thermodynamic theory of computation](https://www.santafe.edu/news-center/news/new-work-extends-the-thermodynamic-theory-of-computation)
 * [2024-05-14, 13:20:05](https://news.ycombinator.com/item?id=40354952) - [Wasp-193B, a giant planet with a density similar to that of cotton candy](https://www.exotic.uliege.be/cms/c_12662566/en/wasp-193b-a-giant-planet-with-a-density-similar-to-that-of-cotton-candy)
 * [2024-05-14, 12:00:15](https://news.ycombinator.com/item?id=40354241) - [Unriddle (YC S24) Is Hiring a Founding Engineer](https://www.workatastartup.com/jobs/66506)
@@ -28,7 +29,6 @@
 * [2024-05-13, 07:14:54](https://news.ycombinator.com/item?id=40340536) - [Timekeeping Before Clocks](https://worldhistory.substack.com/p/to-cut-and-hack-my-days)
 * [2024-05-13, 06:19:22](https://news.ycombinator.com/item?id=40340289) - [Why Surrealism Matters: Book review](https://www.the-tls.co.uk/articles/why-surrealism-matters-by-mark-polizzotti-book-review/)
 * [2024-05-13, 06:05:46](https://news.ycombinator.com/item?id=40340226) - [Pen Plotter Programming: The Basics (2017)](https://medium.com/@fogleman/pen-plotter-programming-the-basics-ec0407ab5929)
-* [2024-05-13, 06:05:09](https://news.ycombinator.com/item?id=40340220) - [Fifteen Fundamental Properties (2022)](https://camillovisini.com/writing/fifteen-fundamental-properties)
 * [2024-05-13, 05:35:04](https://news.ycombinator.com/item?id=40340104) - [MSX Elite](https://thefoggiest.dev/2024/05/13/msx-elite)
 
 ## [Archives](archives/index.md)
