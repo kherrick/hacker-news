@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-14, 15:07:41](https://news.ycombinator.com/item?id=40355982) - [Firefox to collect anonymized and categorized search data](https://blog.mozilla.org/en/products/firefox/firefox-search-update/)
-* [2024-05-14, 14:53:33](https://news.ycombinator.com/item?id=40355825) - [Silicon reverse engineering: The 8085's undocumented flags (2013)](https://www.righto.com/2013/02/looking-at-silicon-to-understanding.html)
+* [2024-05-14, 15:07:18](https://news.ycombinator.com/item?id=40355974) - [VMware Desktop Hypervisor Pro Apps Now Available for Personal Use](https://blogs.vmware.com/cloud-foundation/2024/05/14/vmware-desktop-hypervisor-pro-apps-now-available-for-personal-use/)
 * [2024-05-14, 13:51:26](https://news.ycombinator.com/item?id=40355227) - [Blazingly fast linked lists](https://dygalo.dev/blog/blazingly-fast-linked-lists/)
 * [2024-05-14, 13:24:43](https://news.ycombinator.com/item?id=40354988) - [New work extends the thermodynamic theory of computation](https://www.santafe.edu/news-center/news/new-work-extends-the-thermodynamic-theory-of-computation)
 * [2024-05-14, 13:20:05](https://news.ycombinator.com/item?id=40354952) - [Wasp-193B, a giant planet with a density similar to that of cotton candy](https://www.exotic.uliege.be/cms/c_12662566/en/wasp-193b-a-giant-planet-with-a-density-similar-to-that-of-cotton-candy)
