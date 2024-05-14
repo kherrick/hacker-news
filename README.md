@@ -4,6 +4,7 @@
 * [2024-05-14, 07:05:38](https://news.ycombinator.com/item?id=40352426) - [Using ARG in a Dockerfile – beware the gotcha](https://qmacro.org/blog/posts/2024/05/13/using-arg-in-a-dockerfile-beware-the-gotcha/)
 * [2024-05-14, 06:25:04](https://news.ycombinator.com/item?id=40352204) - [Claude is now available in Europe](https://www.anthropic.com/news/claude-europe)
 * [2024-05-14, 06:08:46](https://news.ycombinator.com/item?id=40352120) - [Verilator: Open-Source SystemVerilog simulator and lint system](https://github.com/verilator/verilator)
+* [2024-05-14, 05:56:13](https://news.ycombinator.com/item?id=40352050) - [LineageOS is the perfect minimal smartphone for non-tech savvy folk](https://blog.decryption.net.au/t/lineageos-is-the-perfect-minimal-smartphone-for-non-tech-savvy-folk/155)
 * [2024-05-14, 05:41:46](https://news.ycombinator.com/item?id=40351971) - [Large Language Models in Containers Locally with Podman AI Lab](https://github.com/containers/podman-desktop-extension-ai-lab)
 * [2024-05-14, 02:44:07](https://news.ycombinator.com/item?id=40351141) - [The First Nuclear Microreactor Company Listed in the USA](https://nanonuclearenergy.com/)
 * [2024-05-14, 02:10:39](https://news.ycombinator.com/item?id=40350954) - [A review on protein language models](https://www.apoorva-srinivasan.com/plms/)
@@ -27,7 +28,6 @@
 * [2024-05-13, 08:39:30](https://news.ycombinator.com/item?id=40341037) - [Ask HN: Founders who offer free/OS and paid SaaS, how do you manage your code?](https://news.ycombinator.com/item?id=40341037)
 * [2024-05-13, 08:39:28](https://news.ycombinator.com/item?id=40341036) - [YouTube's secret weapon to win the TV streaming wars: Its top creators](https://www.hollywoodreporter.com/business/business-news/youtubes-secret-weapon-top-creators-1235894945/)
 * [2024-05-13, 06:26:46](https://news.ycombinator.com/item?id=40340316) - [The Death of a Mnemonist](https://www.historytoday.com/archive/months-past/death-mnemonist)
-* [2024-05-13, 06:19:22](https://news.ycombinator.com/item?id=40340289) - [Why Surrealism Matters: Book review](https://www.the-tls.co.uk/articles/why-surrealism-matters-by-mark-polizzotti-book-review/)
 * [2024-05-13, 05:35:04](https://news.ycombinator.com/item?id=40340104) - [MSX Elite](https://thefoggiest.dev/2024/05/13/msx-elite)
 * [2024-05-12, 20:44:33](https://news.ycombinator.com/item?id=40337445) - [SEQUEL: A Structured English Query Language (1974)](https://dl.acm.org/doi/epdf/10.1145/800296.811515)
 
