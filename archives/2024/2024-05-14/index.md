@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-14](index.md)
 
+* [2024-05-14, 22:17:56](https://news.ycombinator.com/item?id=40360797) - [Google I/O AI announcements in 60 seconds](https://buttondown.email/ainews/archive/ainews-google-io-in-60-seconds/)
 * [2024-05-14, 21:12:33](https://news.ycombinator.com/item?id=40360217) - [Firebase App Hosting](https://firebase.blog/posts/2024/05/introducing-app-hosting/)
 * [2024-05-14, 21:00:48](https://news.ycombinator.com/item?id=40360112) - [Dart 3.4 (WASM and Macros preview)](https://medium.com/dartlang/dart-3-4-bd8d23b4462a)
 * [2024-05-14, 20:48:14](https://news.ycombinator.com/item?id=40359993) - [NTSB Report on Contact of Containership with the Key Bridge and Bridge Collapse [pdf]](https://static01.nyt.com/newsgraphics/documenttools/6119296c8c79713a/0e214c46-full.pdf)
@@ -91,6 +92,7 @@
 * [2024-05-14, 03:33:47](https://news.ycombinator.com/item?id=40351410) - [We managed to speed up our CI to save 168 days of execution time per month](https://developers.home-assistant.io/blog/2024/05/09/improving-ci-test-execution/)
 * [2024-05-14, 02:44:07](https://news.ycombinator.com/item?id=40351141) - [The First Nuclear Microreactor Company Listed in the USA](https://nanonuclearenergy.com/)
 * [2024-05-14, 02:10:39](https://news.ycombinator.com/item?id=40350954) - [A review on protein languauge models](https://www.apoorva-srinivasan.com/plms/)
+* [2024-05-14, 01:59:59](https://news.ycombinator.com/item?id=40350892) - [The creator of 'Magic: The Gathering' knows where it all went wrong](https://defector.com/the-creator-of-magic-the-gathering-knows-exactly-where-it-all-went-wrong)
 * [2024-05-14, 01:26:34](https://news.ycombinator.com/item?id=40350625) - [Truffle ISLISP](https://arvyy.github.io/islisp-truffle/)
 * [2024-05-14, 00:56:15](https://news.ycombinator.com/item?id=40350408) - [Upstreaming Linux kernel support for the Snapdragon X Elite](https://www.qualcomm.com/developer/blog/2024/05/upstreaming-linux-kernel-support-for-the-snapdragon-x-elite)
 * [2024-05-14, 00:26:47](https://news.ycombinator.com/item?id=40350220) - [The Linux kernel giving CVEs to all bugfixes is sort of predictable](https://utcc.utoronto.ca/~cks/space/blog/linux/KernelBugfixCVEsAStory)
