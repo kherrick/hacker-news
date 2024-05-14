@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-14, 10:59:01](https://news.ycombinator.com/item?id=40353805) - [Why are Google and Facebook free? The answer might be worse than you think](https://tuta.com/blog/google-facebook-free)
+* [2024-05-14, 11:24:02](https://news.ycombinator.com/item?id=40353963) - [My VM is lighter (and safer) than your container](https://dl.acm.org/doi/10.1145/3132747.3132763)
 * [2024-05-14, 09:06:43](https://news.ycombinator.com/item?id=40353102) - [Turn Your Android Tablet into an IDE with VSCode and Nix](https://www.50-nuances-octets.fr/en/posts/turn-android-tablet-into-ide-with-vscode-nix/)
 * [2024-05-14, 07:56:13](https://news.ycombinator.com/item?id=40352686) - [The Notifier Pattern for Applications That Use Postgres](https://brandur.org/notifier)
 * [2024-05-14, 07:05:38](https://news.ycombinator.com/item?id=40352426) - [Using ARG in a Dockerfile – beware the gotcha](https://qmacro.org/blog/posts/2024/05/13/using-arg-in-a-dockerfile-beware-the-gotcha/)
@@ -26,10 +26,10 @@
 * [2024-05-13, 10:52:38](https://news.ycombinator.com/item?id=40341733) - [Disney's Robots Use Rockets to Stick the Landing](https://spectrum.ieee.org/disney-robot-2668135204)
 * [2024-05-13, 10:12:44](https://news.ycombinator.com/item?id=40341508) - [Commodore 64 runs AI to generate images](https://www.tomshardware.com/tech-industry/artificial-intelligence/commodore-64-can-use-ai-to-generate-8x8-sprites-takes-20-minutes-for-90-iterations)
 * [2024-05-13, 08:39:30](https://news.ycombinator.com/item?id=40341037) - [Ask HN: Founders who offer free/OS and paid SaaS, how do you manage your code?](https://news.ycombinator.com/item?id=40341037)
-* [2024-05-13, 06:26:46](https://news.ycombinator.com/item?id=40340316) - [The Death of a Mnemonist](https://www.historytoday.com/archive/months-past/death-mnemonist)
 * [2024-05-13, 06:05:46](https://news.ycombinator.com/item?id=40340226) - [Pen Plotter Programming: The Basics (2017)](https://medium.com/@fogleman/pen-plotter-programming-the-basics-ec0407ab5929)
 * [2024-05-13, 05:35:04](https://news.ycombinator.com/item?id=40340104) - [MSX Elite](https://thefoggiest.dev/2024/05/13/msx-elite)
 * [2024-05-12, 20:44:33](https://news.ycombinator.com/item?id=40337445) - [SEQUEL: A Structured English Query Language (1974)](https://dl.acm.org/doi/epdf/10.1145/800296.811515)
+* [2024-05-12, 11:37:11](https://news.ycombinator.com/item?id=40333584) - [Overbite Project: Why still use Gopher? What makes Gopher relevant?](https://gopher.floodgap.com/overbite/relevance.html)
 
 ## [Archives](archives/index.md)
 

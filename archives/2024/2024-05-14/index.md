@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-14](index.md)
 
+* [2024-05-14, 11:24:02](https://news.ycombinator.com/item?id=40353963) - [My VM is lighter (and safer) than your container](https://dl.acm.org/doi/10.1145/3132747.3132763)
 * [2024-05-14, 10:59:01](https://news.ycombinator.com/item?id=40353805) - [Why are Google and Facebook free? The answer might be worse than you think](https://tuta.com/blog/google-facebook-free)
 * [2024-05-14, 09:06:43](https://news.ycombinator.com/item?id=40353102) - [Turn Your Android Tablet into an IDE with VSCode and Nix](https://www.50-nuances-octets.fr/en/posts/turn-android-tablet-into-ide-with-vscode-nix/)
 * [2024-05-14, 07:56:13](https://news.ycombinator.com/item?id=40352686) - [The Notifier Pattern for Applications That Use Postgres](https://brandur.org/notifier)
