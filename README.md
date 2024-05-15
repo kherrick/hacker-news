@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-15, 18:29:36](https://news.ycombinator.com/item?id=40370613) - [An Empirical Evaluation of Columnar Storage Formats [pdf]](https://www.vldb.org/pvldb/vol17/p148-zeng.pdf)
+* [2024-05-15, 17:12:05](https://news.ycombinator.com/item?id=40369668) - [Google Blog: Android's theft protection features keep your device and data safe](https://blog.google/products/android/android-theft-protection/)
 * [2024-05-15, 17:00:50](https://news.ycombinator.com/item?id=40369524) - [Ashby (YC W19) Is Hiring Technical EMs Who Love Coaching](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a)
 * [2024-05-15, 16:57:30](https://news.ycombinator.com/item?id=40369467) - [Jepsen: Datomic Pro 1.0.7075](https://jepsen.io/analyses/datomic-pro-1.0.7075)
 * [2024-05-15, 16:46:15](https://news.ycombinator.com/item?id=40369319) - [Show HN: Tarsier – Vision utilities for web interaction agents](https://github.com/reworkd/tarsier)
-* [2024-05-15, 16:42:49](https://news.ycombinator.com/item?id=40369258) - [Google opens up its smart home to everyone and will make Google TVs home hubs](https://www.theverge.com/2024/5/15/24157154/google-home-api-matter-smart-home-chromecast-google-tv)
 * [2024-05-15, 16:40:30](https://news.ycombinator.com/item?id=40369226) - [Three of the oldest stars in the universe found circling the Milky Way](https://news.mit.edu/2024/mit-researchers-discover-universes-oldest-stars-in-galactic-backyard-0514)
 * [2024-05-15, 16:29:47](https://news.ycombinator.com/item?id=40369084) - [Reasons not to take Lumina's anticavity probiotic](https://trevorklee.substack.com/p/please-dont-take-luminas-anticavity)
 * [2024-05-15, 16:24:03](https://news.ycombinator.com/item?id=40369021) - [Dragonfly: An optical telescope built from an array of off-the-shelf Canon lens](https://www.dunlap.utoronto.ca/instrumentation/dragonfly/)

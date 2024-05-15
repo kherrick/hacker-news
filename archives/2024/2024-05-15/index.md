@@ -9,6 +9,7 @@
 * [2024-05-15, 17:43:40](https://news.ycombinator.com/item?id=40370078) - [iPhone owners say the latest iOS update is resurfacing deleted nudes](https://www.theverge.com/2024/5/15/24157284/apple-iphone-ios-17-5-update-deleted-photos-voicemails)
 * [2024-05-15, 17:31:24](https://news.ycombinator.com/item?id=40369922) - [Why I'm Joining Mozilla as Executive Director](https://blog.mozilla.org/en/mozilla/why-im-joining-mozilla-as-executive-director/)
 * [2024-05-15, 17:16:27](https://news.ycombinator.com/item?id=40369730) - [A Woman Sees 100 Times More Colors Than the Average Person (2014)](https://www.popsci.com/article/science/woman-sees-100-times-more-colors-average-person/)
+* [2024-05-15, 17:12:05](https://news.ycombinator.com/item?id=40369668) - [Google Blog: Android's theft protection features keep your device and data safe](https://blog.google/products/android/android-theft-protection/)
 * [2024-05-15, 17:00:50](https://news.ycombinator.com/item?id=40369524) - [Ashby (YC W19) Is Hiring Technical EMs Who Love Coaching](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a)
 * [2024-05-15, 16:57:30](https://news.ycombinator.com/item?id=40369467) - [Jepsen: Datomic Pro 1.0.7075](https://jepsen.io/analyses/datomic-pro-1.0.7075)
 * [2024-05-15, 16:50:24](https://news.ycombinator.com/item?id=40369371) - [CPI for all items rises 3.6%; shelter and gasoline up](https://www.bls.gov/news.release/archives/cpi_05152024.htm)
