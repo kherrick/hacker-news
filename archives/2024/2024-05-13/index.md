@@ -89,6 +89,7 @@
 * [2024-05-13, 11:49:28](https://news.ycombinator.com/item?id=40342188) - [It's an Age of Marvels](https://blog.plover.com/tech/its-an-age-of-marvels.html)
 * [2024-05-13, 11:41:11](https://news.ycombinator.com/item?id=40342105) - [Prolog and Natural-Language Analysis (1987) [pdf]](http://www.mtome.com/Publications/PNLA/prolog-digital.pdf)
 * [2024-05-13, 11:38:15](https://news.ycombinator.com/item?id=40342075) - [The Worst Outcome Is a Mediocre Success](https://pivotal.substack.com/p/the-worst-outcome-is-a-mediocre-success)
+* [2024-05-13, 11:36:40](https://news.ycombinator.com/item?id=40342062) - [The power of interoperability: Why objects are inevitable (2013) [pdf]](https://www.cs.cmu.edu/~aldrich/papers/objects-essay.pdf)
 * [2024-05-13, 11:36:10](https://news.ycombinator.com/item?id=40342057) - [How Did Authorities Identify the Alleged Lockbit Boss?](https://krebsonsecurity.com/2024/05/how-did-authorities-identify-the-alleged-lockbit-boss/)
 * [2024-05-13, 11:31:25](https://news.ycombinator.com/item?id=40342012) - [Optimising the Fun Out of Video Games (2018)](https://henryvincent.uk/2018/09/13/optimising-the-fun-out-of-video-games/)
 * [2024-05-13, 11:30:33](https://news.ycombinator.com/item?id=40342008) - [Hypertext Version of a Pattern Language by Christopher Alexander](https://patternlanguage.cc/)
