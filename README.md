@@ -23,11 +23,11 @@
 * [2024-05-15, 12:58:46](https://news.ycombinator.com/item?id=40366323) - [I coded something dumb and I'm proud of it](https://plbrault.com/blog-posts/i-coded-something-dumb-and-im-proud-of-it-en/)
 * [2024-05-15, 12:48:19](https://news.ycombinator.com/item?id=40366204) - [Nearly all Nintendo 64 games can now be recompiled into native PC ports](https://www.tomshardware.com/video-games/nearly-all-nintendo-64-games-can-now-be-recompiled-into-native-pc-ports-to-add-proper-ray-tracing-ultrawide-high-fps-and-more)
 * [2024-05-15, 12:32:14](https://news.ycombinator.com/item?id=40366062) - [Raspberry Pi Ltd is considering an IPO](https://www.londonstockexchange.com/news-article/market-news/expected-intention-to-float/16470316)
-* [2024-05-15, 06:24:02](https://news.ycombinator.com/item?id=40363704) - [A low budget consumer hardware espionage implant (2018)](https://ha.cking.ch/s8_data_line_locator/)
 * [2024-05-14, 17:58:26](https://news.ycombinator.com/item?id=40358041) - [Veo](https://deepmind.google/technologies/veo/)
 * [2024-05-14, 11:10:17](https://news.ycombinator.com/item?id=40353874) - [A Tale of Two Sieves (1996) [pdf]](https://www.ams.org/notices/199612/pomerance.pdf)
 * [2024-05-14, 10:42:03](https://news.ycombinator.com/item?id=40353694) - [Speculating the entire x86-64 instruction set in seconds (2021)](https://blog.can.ac/2021/03/22/speculating-x86-64-isa-with-one-weird-trick/)
 * [2024-05-14, 10:21:15](https://news.ycombinator.com/item?id=40353557) - [Branded types for TypeScript](https://www.carlos-menezes.com/post/branded-types)
+* [2024-05-14, 07:31:50](https://news.ycombinator.com/item?id=40352557) - [When to Split Patches (For PostgreSQL)](http://peter.eisentraut.org/blog/2024/05/14/when-to-split-patches-for-postgresql)
 * [2024-05-13, 11:41:11](https://news.ycombinator.com/item?id=40342105) - [Prolog and Natural-Language Analysis (1987) [pdf]](http://www.mtome.com/Publications/PNLA/prolog-digital.pdf)
 * [2024-05-13, 05:47:34](https://news.ycombinator.com/item?id=40340161) - [More frequent, focused updates for Android Studio](https://android-developers.googleblog.com/2024/05/more-frequent-focused-updates-for-android-studio.html)
 
