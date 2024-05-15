@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-15, 06:32:18",
+      "https://news.ycombinator.com/item?id=40363744"
+    ],
+    [
+      "Translation of the Rust's core and alloc crates to Coq for formal verification",
+      "https://formal.land/blog/2024/04/26/translation-core-alloc-crates"
+    ]
+  ],
+  [
+    [
       "2024-05-15, 05:39:21",
       "https://news.ycombinator.com/item?id=40363455"
     ],
@@ -157,16 +167,6 @@
     [
       "Model Explorer: intuitive and hierarchical visualization of model graphs",
       "https://ai.google.dev/edge/model-explorer"
-    ]
-  ],
-  [
-    [
-      "2024-05-14, 17:23:30",
-      "https://news.ycombinator.com/item?id=40357611"
-    ],
-    [
-      "Glance: A self-hosted dashboard that puts all your feeds in one place",
-      "https://github.com/glanceapp/glance"
     ]
   ],
   [
