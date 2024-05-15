@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-05-15](index.md)
 
+* [2024-05-15, 13:13:23](https://news.ycombinator.com/item?id=40366474) - [The Volvo VNL, a heavy truck purpose-designed for North American roads](https://arstechnica.com/cars/2024/05/heres-how-volvo-is-making-its-long-haul-trucks-safer-more-efficient/)
+* [2024-05-15, 13:11:08](https://news.ycombinator.com/item?id=40366443) - [Proteins in blood could provide early cancer warning 'by more than seven years'](https://www.theguardian.com/society/article/2024/may/15/proteins-blood-cancer-warning-seven-years-study)
+* [2024-05-15, 12:41:24](https://news.ycombinator.com/item?id=40366137) - [How to get 7th graders to smoke](https://www.experimental-history.com/p/how-to-get-7th-graders-to-smoke)
+* [2024-05-15, 12:32:14](https://news.ycombinator.com/item?id=40366062) - [Raspberry Pi Ltd.: Potential IPO on the Main Market of the London Stock Exchange](https://www.londonstockexchange.com/news-article/market-news/expected-intention-to-float/16470316)
 * [2024-05-15, 12:13:58](https://news.ycombinator.com/item?id=40365882) - [Fastest rate of natural carbon dioxide rise over the last 50k years](https://today.oregonstate.edu/news/researchers-identify-fastest-rate-natural-carbon-dioxide-rise-over-last-50000-years)
+* [2024-05-15, 12:07:41](https://news.ycombinator.com/item?id=40365821) - [SMTP 550-5.7.1 Rejected Because of Virginia Redistricting](https://www.khanna.law/blog/smtp-550-571-redistricting)
 * [2024-05-15, 12:01:59](https://news.ycombinator.com/item?id=40365765) - [We gotta stop ignoring AI's hallucination problem](https://www.theverge.com/2024/5/15/24154808/ai-chatgpt-google-gemini-microsoft-copilot-hallucination-wrong)
 * [2024-05-15, 11:47:15](https://news.ycombinator.com/item?id=40365619) - [Tim Cook is running out of ideas](https://www.businessinsider.com/apple-tim-cook-running-out-of-ideas-iphone-ipad-sales-2024-5)
 * [2024-05-15, 10:55:46](https://news.ycombinator.com/item?id=40365226) - [Boeing Emails Handed over to Congress in January 2020](https://archive.org/details/boeingemailsocr)
