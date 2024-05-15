@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-15, 02:57:08](https://news.ycombinator.com/item?id=40362621) - [Parking Reform Legalized Most of the New Homes in Buffalo and Seattle](https://www.sightline.org/2023/04/13/parking-reform-legalized-most-of-the-new-homes-in-buffalo-and-seattle/)
 * [2024-05-15, 02:31:25](https://news.ycombinator.com/item?id=40362490) - [Romance author gets locked out of Google Docs for \"inappropriate\" content](https://www.dexerto.com/tech/romance-author-gets-locked-out-of-google-docs-for-inappropriate-content-2713004/)
 * [2024-05-15, 02:24:03](https://news.ycombinator.com/item?id=40362449) - [URLhaus: A database of malicious URLs used for malware distribution](https://urlhaus.abuse.ch/)
 * [2024-05-14, 23:37:25](https://news.ycombinator.com/item?id=40361387) - [The most talented person in the world](https://matt.sh/the-most-talented-person)
@@ -19,7 +20,6 @@
 * [2024-05-14, 17:23:30](https://news.ycombinator.com/item?id=40357611) - [Glance: A self-hosted dashboard that puts all your feeds in one place](https://github.com/glanceapp/glance)
 * [2024-05-14, 17:00:35](https://news.ycombinator.com/item?id=40357330) - [Linum (YC W23) is hiring a founding AI engineer to train text-to-video models](https://www.workatastartup.com/jobs/66397)
 * [2024-05-14, 16:42:54](https://news.ycombinator.com/item?id=40357141) - [Sir, there's a cat in your mirror dimension](https://lcamtuf.substack.com/p/sir-theres-a-cat-in-your-mirror-dimension)
-* [2024-05-14, 16:42:38](https://news.ycombinator.com/item?id=40357139) - [Compiler Explorer](https://thechipletter.substack.com/p/compiler-explorer)
 * [2024-05-14, 16:10:58](https://news.ycombinator.com/item?id=40356751) - [Femtosecond lasers create 3D midair plasma displays you can touch (2015)](https://spectrum.ieee.org/femtosecond-lasers-create-3d-midair-plasma-displays-you-can-touch)
 * [2024-05-14, 14:57:55](https://news.ycombinator.com/item?id=40355875) - [Optimizing ClickHouse: Tactics that worked for us](https://www.highlight.io/blog/lw5-clickhouse-performance-optimization)
 * [2024-05-14, 14:44:37](https://news.ycombinator.com/item?id=40355744) - [Show HN: Pico: An open-source Ngrok alternative built for production traffic](https://github.com/andydunstall/pico)
