@@ -2,6 +2,8 @@
 
 * [2024-05-15, 20:11:55](https://news.ycombinator.com/item?id=40371785) - [A 'plague' comes before the fall: lessons from Roman history](https://thebulletin.org/2024/05/a-plague-comes-before-the-fall-lessons-from-roman-history/)
 * [2024-05-15, 20:03:45](https://news.ycombinator.com/item?id=40371683) - [Haiku Activity and Contract Report, April 2024](https://www.haiku-os.org/blog/waddlesplash/2024-05-14-haiku_activity_contract_report_april_2024/)
+* [2024-05-15, 20:01:37](https://news.ycombinator.com/item?id=40371650) - [In medicine what's the difference between an -ectomy, an -ostomy, and an -otomy?](https://www.straightdope.com/21341781/in-medicine-what-s-the-difference-between-an-ectomy-an-ostomy-and-an-otomy)
+* [2024-05-15, 19:57:01](https://news.ycombinator.com/item?id=40371612) - [New exponent functions that make SiLU and SoftMax 2x faster, at full accuracy](https://github.com/ggerganov/llama.cpp/pull/7154)
 * [2024-05-15, 19:39:28](https://news.ycombinator.com/item?id=40371401) - [Project Gameface Launches on Android](https://developers.googleblog.com/en/project-gameface-launches-on-android/)
 * [2024-05-15, 19:24:47](https://news.ycombinator.com/item?id=40371237) - [PaliGemma: Open-Source Multimodal Model by Google](https://blog.roboflow.com/paligemma-multimodal-vision/)
 * [2024-05-15, 18:29:36](https://news.ycombinator.com/item?id=40370613) - [An Empirical Evaluation of Columnar Storage Formats [pdf]](https://www.vldb.org/pvldb/vol17/p148-zeng.pdf)
@@ -23,12 +25,10 @@
 * [2024-05-15, 12:32:14](https://news.ycombinator.com/item?id=40366062) - [Raspberry Pi Ltd is considering an IPO](https://www.londonstockexchange.com/news-article/market-news/expected-intention-to-float/16470316)
 * [2024-05-15, 06:32:18](https://news.ycombinator.com/item?id=40363744) - [Translation of Rust's core and alloc crates to Coq for formal verification](https://formal.land/blog/2024/04/26/translation-core-alloc-crates)
 * [2024-05-15, 06:24:02](https://news.ycombinator.com/item?id=40363704) - [A low budget consumer hardware espionage implant (2018)](https://ha.cking.ch/s8_data_line_locator/)
-* [2024-05-14, 17:58:26](https://news.ycombinator.com/item?id=40358041) - [Veo](https://deepmind.google/technologies/veo/)
+* [2024-05-14, 12:21:42](https://news.ycombinator.com/item?id=40354407) - [Bossware is a big legal risk](https://www.kolide.com/blog/your-company-s-bossware-could-get-you-in-legal-trouble)
 * [2024-05-14, 11:10:17](https://news.ycombinator.com/item?id=40353874) - [A Tale of Two Sieves (1996) [pdf]](https://www.ams.org/notices/199612/pomerance.pdf)
-* [2024-05-14, 11:06:07](https://news.ycombinator.com/item?id=40353842) - [Ancient Eastern European mega-sites: a social levelling concept?](https://www.cambridge.org/core/journals/antiquity/article/trypillia-megasites-a-social-levelling-concept/A0048EA63DA8D0B00A513BFD7C24A679)
 * [2024-05-14, 10:42:03](https://news.ycombinator.com/item?id=40353694) - [Speculating the entire x86-64 instruction set in seconds (2021)](https://blog.can.ac/2021/03/22/speculating-x86-64-isa-with-one-weird-trick/)
 * [2024-05-14, 10:21:15](https://news.ycombinator.com/item?id=40353557) - [Branded types for TypeScript](https://www.carlos-menezes.com/post/branded-types)
-* [2024-05-14, 07:14:36](https://news.ycombinator.com/item?id=40352472) - [The Flaw of Averages (2020)](https://causal.app/blog/forecasting-with-uncertainty)
 * [2024-05-13, 11:41:11](https://news.ycombinator.com/item?id=40342105) - [Prolog and Natural-Language Analysis (1987) [pdf]](http://www.mtome.com/Publications/PNLA/prolog-digital.pdf)
 
 ## [Archives](archives/index.md)
