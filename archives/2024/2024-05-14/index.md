@@ -80,6 +80,7 @@
 * [2024-05-14, 11:46:17](https://news.ycombinator.com/item?id=40354130) - [New gel breaks down alcohol in the body](https://ethz.ch/en/news-and-events/eth-news/news/2024/05/press-release-new-gel-breaks-down-alcohol-in-the-body.html)
 * [2024-05-14, 11:24:02](https://news.ycombinator.com/item?id=40353963) - [My VM is lighter (and safer) than your container](https://dl.acm.org/doi/10.1145/3132747.3132763)
 * [2024-05-14, 11:10:17](https://news.ycombinator.com/item?id=40353874) - [A Tale of Two Sieves (1996) [pdf]](https://www.ams.org/notices/199612/pomerance.pdf)
+* [2024-05-14, 11:06:07](https://news.ycombinator.com/item?id=40353842) - [Ancient Eastern European mega-sites: a social levelling concept?](https://www.cambridge.org/core/journals/antiquity/article/trypillia-megasites-a-social-levelling-concept/A0048EA63DA8D0B00A513BFD7C24A679)
 * [2024-05-14, 10:59:01](https://news.ycombinator.com/item?id=40353805) - [Why are Google and Facebook free? The answer might be worse than you think](https://tuta.com/blog/google-facebook-free)
 * [2024-05-14, 10:28:32](https://news.ycombinator.com/item?id=40353615) - [What Factors Explain the Nature of Software?](https://tratt.net/laurie/blog/2024/what_factors_explain_the_nature_of_software.html)
 * [2024-05-14, 10:27:32](https://news.ycombinator.com/item?id=40353605) - [HBase Deprecation at Pinterest](https://medium.com/pinterest-engineering/hbase-deprecation-at-pinterest-8a99e6c8e6b7)
