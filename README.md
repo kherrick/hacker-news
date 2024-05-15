@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-15, 06:32:18](https://news.ycombinator.com/item?id=40363744) - [Translation of the Rust's core and alloc crates to Coq for formal verification](https://formal.land/blog/2024/04/26/translation-core-alloc-crates)
 * [2024-05-15, 05:39:21](https://news.ycombinator.com/item?id=40363455) - [Born to run? Endurance running may have evolved to help humans chase down prey](https://www.science.org/content/article/born-run-early-endurance-running--may-have-evolved-help-humans-chase-down-prey)
 * [2024-05-15, 04:20:18](https://news.ycombinator.com/item?id=40363069) - [Department of Justice says Boeing may be criminally liable in 737 MAX crashes](https://www.usatoday.com/story/money/2024/05/14/boeing-department-of-justice-criminal-liability/73692655007/)
 * [2024-05-15, 04:03:40](https://news.ycombinator.com/item?id=40362992) - [Parseback: A pure-Lua introspection library for LuaJIT's FFI ctype objects](https://github.com/javierguerragiraldez/parseback)
@@ -16,7 +17,6 @@
 * [2024-05-14, 18:00:59](https://news.ycombinator.com/item?id=40358071) - [Gemini Flash](https://deepmind.google/technologies/gemini/flash/)
 * [2024-05-14, 17:58:26](https://news.ycombinator.com/item?id=40358041) - [Veo](https://deepmind.google/technologies/veo/)
 * [2024-05-14, 17:29:19](https://news.ycombinator.com/item?id=40357681) - [Model Explorer: intuitive and hierarchical visualization of model graphs](https://ai.google.dev/edge/model-explorer)
-* [2024-05-14, 17:23:30](https://news.ycombinator.com/item?id=40357611) - [Glance: A self-hosted dashboard that puts all your feeds in one place](https://github.com/glanceapp/glance)
 * [2024-05-14, 17:00:35](https://news.ycombinator.com/item?id=40357330) - [Linum (YC W23) is hiring a founding AI engineer to train text-to-video models](https://www.workatastartup.com/jobs/66397)
 * [2024-05-14, 16:42:54](https://news.ycombinator.com/item?id=40357141) - [Sir, there's a cat in your mirror dimension](https://lcamtuf.substack.com/p/sir-theres-a-cat-in-your-mirror-dimension)
 * [2024-05-14, 16:10:58](https://news.ycombinator.com/item?id=40356751) - [Femtosecond lasers create 3D midair plasma displays you can touch (2015)](https://spectrum.ieee.org/femtosecond-lasers-create-3d-midair-plasma-displays-you-can-touch)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-15](index.md)
 
+* [2024-05-15, 06:32:18](https://news.ycombinator.com/item?id=40363744) - [Translation of the Rust's core and alloc crates to Coq for formal verification](https://formal.land/blog/2024/04/26/translation-core-alloc-crates)
 * [2024-05-15, 05:39:21](https://news.ycombinator.com/item?id=40363455) - [Born to run? Endurance running may have evolved to help humans chase down prey](https://www.science.org/content/article/born-run-early-endurance-running--may-have-evolved-help-humans-chase-down-prey)
 * [2024-05-15, 04:50:01](https://news.ycombinator.com/item?id=40363213) - [New WiFi Vulnerability: The SSID Confusion Attack](https://www.top10vpn.com/research/wifi-vulnerability-ssid/)
 * [2024-05-15, 04:34:18](https://news.ycombinator.com/item?id=40363135) - [AI is the reason interviews are harder now](https://www.softwaredesign.ing/blog/ai-is-the-reason-interviews-are-harder-now)
