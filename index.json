@@ -1,11 +1,21 @@
 [
   [
     [
+      "2024-05-15, 03:37:46",
+      "https://news.ycombinator.com/item?id=40362848"
+    ],
+    [
+      "Air Quality Monitors Compared: AirGradient vs. Purple Air",
+      "https://www.airgradient.com/blog/airgradient-vs-purple-air/"
+    ]
+  ],
+  [
+    [
       "2024-05-15, 02:57:08",
       "https://news.ycombinator.com/item?id=40362621"
     ],
     [
-      "Parking Reform Legalized Most of the New Homes in Buffalo and Seattle",
+      "Parking reform legalized most of the new homes in Buffalo and Seattle (2023)",
       "https://www.sightline.org/2023/04/13/parking-reform-legalized-most-of-the-new-homes-in-buffalo-and-seattle/"
     ]
   ],
@@ -47,16 +57,6 @@
     [
       "Ilya Sutskever to leave OpenAI",
       "https://twitter.com/ilyasut/status/1790517455628198322"
-    ]
-  ],
-  [
-    [
-      "2024-05-14, 20:48:14",
-      "https://news.ycombinator.com/item?id=40359993"
-    ],
-    [
-      "Contact of Containership Dali with the Key Bridge and Subsequent Bridge Collapse [pdf]",
-      "https://static01.nyt.com/newsgraphics/documenttools/6119296c8c79713a/0e214c46-full.pdf"
     ]
   ],
   [
@@ -265,8 +265,8 @@
       "https://news.ycombinator.com/item?id=40352656"
     ],
     [
-      "OpenBSD – Demise of Nagle's Algorithm (RFC 896 – Congestion Control) Predicted",
-      "https://www.undeadly.org/cgi?action=article;sid=20240514075024"
+      "Add sysctl to disable Nagle's algorithm (RFC 896 – Congestion Control)",
+      "https://marc.info/?l=openbsd-tech&m=171562561424289"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2024-05-13, 11:41:11",
+      "https://news.ycombinator.com/item?id=40342105"
+    ],
+    [
+      "Prolog and Natural-Language Analysis (1987) [pdf]",
+      "http://www.mtome.com/Publications/PNLA/prolog-digital.pdf"
+    ]
+  ],
+  [
+    [
       "2024-05-13, 11:36:10",
       "https://news.ycombinator.com/item?id=40342057"
     ],
     [
       "How did authorities identify the alleged LockBit boss?",
       "https://krebsonsecurity.com/2024/05/how-did-authorities-identify-the-alleged-lockbit-boss/"
-    ]
-  ],
-  [
-    [
-      "2024-05-13, 06:11:38",
-      "https://news.ycombinator.com/item?id=40340248"
-    ],
-    [
-      "Exploring GNU extensions in the Linux kernel",
-      "https://maskray.me/blog/2024-05-12-exploring-gnu-extensions-in-linux-kernel"
     ]
   ]
 ]
