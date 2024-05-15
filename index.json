@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2024-05-15, 03:37:46",
-      "https://news.ycombinator.com/item?id=40362848"
-    ],
-    [
-      "Air Quality Monitors Compared: AirGradient vs. Purple Air",
-      "https://www.airgradient.com/blog/airgradient-vs-purple-air/"
-    ]
-  ],
-  [
-    [
       "2024-05-15, 02:24:03",
       "https://news.ycombinator.com/item?id=40362449"
     ],
@@ -227,6 +217,16 @@
     [
       "Femtosecond lasers create 3D midair plasma displays you can touch (2015)",
       "https://spectrum.ieee.org/femtosecond-lasers-create-3d-midair-plasma-displays-you-can-touch"
+    ]
+  ],
+  [
+    [
+      "2024-05-14, 14:57:55",
+      "https://news.ycombinator.com/item?id=40355875"
+    ],
+    [
+      "Optimizing ClickHouse: Tactics that worked for us",
+      "https://www.highlight.io/blog/lw5-clickhouse-performance-optimization"
     ]
   ],
   [
