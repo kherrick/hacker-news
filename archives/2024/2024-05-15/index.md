@@ -6,6 +6,7 @@
 
 * [2024-05-15, 07:54:38](https://news.ycombinator.com/item?id=40364210) - [Bicycle Rolling Resistance: Tire Rolling Resistance Tests and More](https://www.bicyclerollingresistance.com/)
 * [2024-05-15, 07:36:07](https://news.ycombinator.com/item?id=40364104) - [\"Is This Project Still Maintained?\"](https://www.hezmatt.org/~mpalmer/blog/2024/05/14/is-this-project-still-maintained.html)
+* [2024-05-15, 07:10:38](https://news.ycombinator.com/item?id=40363971) - [Notes on Japan](https://alexanderweichart.de/5_Archive/1.-Projects/Notes/Notes-on-Japan)
 * [2024-05-15, 07:01:16](https://news.ycombinator.com/item?id=40363911) - [Great Question (YC W21) Is Hiring Product Engineers (Rails/React)](https://www.ycombinator.com/companies/great-question/jobs/WIk0wNz-product-engineer-rails-react)
 * [2024-05-15, 06:48:45](https://news.ycombinator.com/item?id=40363836) - [A Philosophy of Software Design [pdf]](https://milkov.tech/assets/psd.pdf)
 * [2024-05-15, 06:32:18](https://news.ycombinator.com/item?id=40363744) - [Translation of the Rust's core and alloc crates to Coq for formal verification](https://formal.land/blog/2024/04/26/translation-core-alloc-crates)

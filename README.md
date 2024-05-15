@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-15, 07:54:38](https://news.ycombinator.com/item?id=40364210) - [Bicycle Rolling Resistance: Tire Rolling Resistance Tests and More](https://www.bicyclerollingresistance.com/)
+* [2024-05-15, 07:10:38](https://news.ycombinator.com/item?id=40363971) - [Notes on Japan](https://alexanderweichart.de/5_Archive/1.-Projects/Notes/Notes-on-Japan)
 * [2024-05-15, 07:01:16](https://news.ycombinator.com/item?id=40363911) - [Great Question (YC W21) Is Hiring Product Engineers (Rails/React)](https://www.ycombinator.com/companies/great-question/jobs/WIk0wNz-product-engineer-rails-react)
 * [2024-05-15, 06:32:18](https://news.ycombinator.com/item?id=40363744) - [Translation of the Rust's core and alloc crates to Coq for formal verification](https://formal.land/blog/2024/04/26/translation-core-alloc-crates)
 * [2024-05-15, 06:24:02](https://news.ycombinator.com/item?id=40363704) - [A low budget consumer hardware espionage implant: a GSM device hidden in](https://ha.cking.ch/s8_data_line_locator/)
@@ -18,7 +19,6 @@
 * [2024-05-14, 18:00:59](https://news.ycombinator.com/item?id=40358071) - [Gemini Flash](https://deepmind.google/technologies/gemini/flash/)
 * [2024-05-14, 17:58:26](https://news.ycombinator.com/item?id=40358041) - [Veo](https://deepmind.google/technologies/veo/)
 * [2024-05-14, 17:29:19](https://news.ycombinator.com/item?id=40357681) - [Model Explorer: intuitive and hierarchical visualization of model graphs](https://ai.google.dev/edge/model-explorer)
-* [2024-05-14, 17:23:30](https://news.ycombinator.com/item?id=40357611) - [Glance: A self-hosted dashboard that puts all your feeds in one place](https://github.com/glanceapp/glance)
 * [2024-05-14, 16:42:54](https://news.ycombinator.com/item?id=40357141) - [Sir, there's a cat in your mirror dimension](https://lcamtuf.substack.com/p/sir-theres-a-cat-in-your-mirror-dimension)
 * [2024-05-14, 16:10:58](https://news.ycombinator.com/item?id=40356751) - [Femtosecond lasers create 3D midair plasma displays you can touch (2015)](https://spectrum.ieee.org/femtosecond-lasers-create-3d-midair-plasma-displays-you-can-touch)
 * [2024-05-14, 14:57:55](https://news.ycombinator.com/item?id=40355875) - [Optimizing ClickHouse: Tactics that worked for us](https://www.highlight.io/blog/lw5-clickhouse-performance-optimization)
