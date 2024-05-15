@@ -2,7 +2,6 @@
 
 * [2024-05-15, 21:00:02](https://news.ycombinator.com/item?id=40372296) - [Making a Postgres query 1k times faster](https://mattermost.com/blog/making-a-postgres-query-1000-times-faster/)
 * [2024-05-15, 20:11:55](https://news.ycombinator.com/item?id=40371785) - [A 'plague' comes before the fall: lessons from Roman history](https://thebulletin.org/2024/05/a-plague-comes-before-the-fall-lessons-from-roman-history/)
-* [2024-05-15, 20:03:45](https://news.ycombinator.com/item?id=40371683) - [Haiku Activity and Contract Report, April 2024](https://www.haiku-os.org/blog/waddlesplash/2024-05-14-haiku_activity_contract_report_april_2024/)
 * [2024-05-15, 20:01:37](https://news.ycombinator.com/item?id=40371650) - [In medicine what's the difference between an -ectomy, an -ostomy, and an -otomy? (1986)](https://www.straightdope.com/21341781/in-medicine-what-s-the-difference-between-an-ectomy-an-ostomy-and-an-otomy)
 * [2024-05-15, 19:57:01](https://news.ycombinator.com/item?id=40371612) - [New exponent functions that make SiLU and SoftMax 2x faster, at full accuracy](https://github.com/ggerganov/llama.cpp/pull/7154)
 * [2024-05-15, 19:44:46](https://news.ycombinator.com/item?id=40371467) - [Show HN: I made a Mac app to search my images and videos locally with ML](https://desktopdocs.com)
@@ -30,6 +29,7 @@
 * [2024-05-14, 10:42:03](https://news.ycombinator.com/item?id=40353694) - [Speculating the entire x86-64 instruction set in seconds (2021)](https://blog.can.ac/2021/03/22/speculating-x86-64-isa-with-one-weird-trick/)
 * [2024-05-14, 10:21:15](https://news.ycombinator.com/item?id=40353557) - [Branded types for TypeScript](https://www.carlos-menezes.com/post/branded-types)
 * [2024-05-13, 11:41:11](https://news.ycombinator.com/item?id=40342105) - [Prolog and Natural-Language Analysis (1987) [pdf]](http://www.mtome.com/Publications/PNLA/prolog-digital.pdf)
+* [2024-05-13, 05:47:34](https://news.ycombinator.com/item?id=40340161) - [More frequent, focused updates for Android Studio](https://android-developers.googleblog.com/2024/05/more-frequent-focused-updates-for-android-studio.html)
 
 ## [Archives](archives/index.md)
 

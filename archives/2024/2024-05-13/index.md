@@ -122,6 +122,7 @@
 * [2024-05-13, 06:05:46](https://news.ycombinator.com/item?id=40340226) - [Pen Plotter Programming: The Basics (2017)](https://medium.com/@fogleman/pen-plotter-programming-the-basics-ec0407ab5929)
 * [2024-05-13, 06:05:09](https://news.ycombinator.com/item?id=40340220) - [Fifteen Fundamental Properties](https://camillovisini.com/writing/fifteen-fundamental-properties)
 * [2024-05-13, 05:59:25](https://news.ycombinator.com/item?id=40340197) - [SQL co-creator embraces NoSQL](https://www.theregister.com/2024/05/10/sql_cocreator_nosql/)
+* [2024-05-13, 05:47:34](https://news.ycombinator.com/item?id=40340161) - [More frequent, focused updates for Android Studio](https://android-developers.googleblog.com/2024/05/more-frequent-focused-updates-for-android-studio.html)
 * [2024-05-13, 05:35:04](https://news.ycombinator.com/item?id=40340104) - [MSX Elite](https://thefoggiest.dev/2024/05/13/msx-elite)
 * [2024-05-13, 05:24:21](https://news.ycombinator.com/item?id=40340055) - [State actor blamed for cyberattack on B.C. government systems](https://www.cbc.ca/news/canada/british-columbia/bc-government-cyberattack-state-actor-1.7200735)
 * [2024-05-13, 05:12:54](https://news.ycombinator.com/item?id=40339998) - [GNU LibreJS: blocks JavaScript traps](https://www.gnu.org/software/librejs/)
