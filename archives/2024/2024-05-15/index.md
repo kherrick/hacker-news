@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-15](index.md)
 
+* [2024-05-15, 17:16:27](https://news.ycombinator.com/item?id=40369730) - [A Woman Sees 100 Times More Colors Than the Average Person (2014)](https://www.popsci.com/article/science/woman-sees-100-times-more-colors-average-person/)
 * [2024-05-15, 17:00:50](https://news.ycombinator.com/item?id=40369524) - [Ashby (YC W19) Is Hiring Technical EMs Who Love Coaching](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a)
 * [2024-05-15, 16:50:24](https://news.ycombinator.com/item?id=40369371) - [CPI for all items rises 3.6%; shelter and gasoline up](https://www.bls.gov/news.release/archives/cpi_05152024.htm)
 * [2024-05-15, 16:46:15](https://news.ycombinator.com/item?id=40369319) - [Show HN: Tarsier – vision for text-only LLM web agents that beats GPT-4o](https://github.com/reworkd/tarsier)
@@ -13,6 +14,7 @@
 * [2024-05-15, 16:05:02](https://news.ycombinator.com/item?id=40368760) - [Viking 7B: open LLM for the Nordic languages trained on AMD GPUs](https://www.silo.ai//blog/viking-7b-the-first-open-llm-for-the-nordic-languages)
 * [2024-05-15, 16:03:24](https://news.ycombinator.com/item?id=40368729) - [Mike Krieger: I've joined AnthropicAI as their Chief Product Officer](https://www.threads.net/@mikeyk/post/C6_feeSr0Q4)
 * [2024-05-15, 16:02:16](https://news.ycombinator.com/item?id=40368710) - [Swiss vs. American Parenting: Differences According to a US Mom](https://www.businessinsider.com/swiss-vs-american-parenting-differences-independence-freedom-culture-shock-2024-5)
+* [2024-05-15, 15:57:56](https://news.ycombinator.com/item?id=40368644) - [I hid in a boat to avoid my leadership responsibilities](https://bootstoobig.substack.com/p/my-biggest-leadership-failure-so)
 * [2024-05-15, 15:44:01](https://news.ycombinator.com/item?id=40368439) - [Apple says the majority of Mac users also own an iPad](https://9to5mac.com/2024/05/15/majority-of-mac-users-also-own-ipad/)
 * [2024-05-15, 15:12:15](https://news.ycombinator.com/item?id=40368016) - [Adobe Photoshop Source Code](https://computerhistory.org/blog/adobe-photoshop-source-code/)
 * [2024-05-15, 15:11:20](https://news.ycombinator.com/item?id=40368008) - [Show HN: I wrote a symmetry game with a daily puzzle](https://www.hidden-mirrors.com)
@@ -20,6 +22,7 @@
 * [2024-05-15, 14:52:37](https://news.ycombinator.com/item?id=40367743) - [I'm Sticking with Native iOS Development](https://riveralabs.com/posts/native_ios_development/)
 * [2024-05-15, 14:45:30](https://news.ycombinator.com/item?id=40367642) - [The Beginning of the End of Private Cars in American Cities](https://thenewurbanorder.substack.com/p/the-beginning-of-the-end-of-private)
 * [2024-05-15, 14:33:32](https://news.ycombinator.com/item?id=40367488) - [Show HN: I made a Chrome extension to clean up your Gmail inbox locally](https://www.inboxpurge.com/)
+* [2024-05-15, 14:22:05](https://news.ycombinator.com/item?id=40367331) - [Apple announces new accessibility features, including Eye Tracking](https://www.apple.com/newsroom/2024/05/apple-announces-new-accessibility-features-including-eye-tracking/)
 * [2024-05-15, 14:08:05](https://news.ycombinator.com/item?id=40367160) - [Jan Leike Resigns from OpenAI](https://twitter.com/janleike/status/1790603862132596961)
 * [2024-05-15, 14:02:35](https://news.ycombinator.com/item?id=40367090) - [Show HN: Open-source BI and analytics for engineers](https://github.com/quarylabs/quary)
 * [2024-05-15, 13:52:19](https://news.ycombinator.com/item?id=40366962) - [The Worst Website in the Entire World](https://matduggan.com/the-worst-website-in-the-entire-world/)
