@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-05-15, 13:52:19",
+      "https://news.ycombinator.com/item?id=40366962"
+    ],
+    [
+      "The Worst Website in the Entire World",
+      "https://matduggan.com/the-worst-website-in-the-entire-world/"
+    ]
+  ],
+  [
+    [
+      "2024-05-15, 13:33:47",
+      "https://news.ycombinator.com/item?id=40366722"
+    ],
+    [
+      "Downranking won't stop Google's deepfake porn problem, victims say",
+      "https://arstechnica.com/tech-policy/2024/05/downranking-wont-stop-googles-deepfake-porn-problem-victims-say/"
+    ]
+  ],
+  [
+    [
       "2024-05-15, 13:13:23",
       "https://news.ycombinator.com/item?id=40366474"
     ],
@@ -85,7 +105,7 @@
       "https://news.ycombinator.com/item?id=40365153"
     ],
     [
-      "Gaussian Blue Noise",
+      "Gaussian Blue Noise (2022)",
       "https://arxiv.org/abs/2206.07798"
     ]
   ],
@@ -191,22 +211,12 @@
   ],
   [
     [
-      "2024-05-14, 18:19:01",
-      "https://news.ycombinator.com/item?id=40358309"
+      "2024-05-14, 18:40:50",
+      "https://news.ycombinator.com/item?id=40358588"
     ],
     [
-      "Glider – open-source eInk monitor with an emphasis on low latency",
-      "https://github.com/Modos-Labs/Glider"
-    ]
-  ],
-  [
-    [
-      "2024-05-14, 18:00:59",
-      "https://news.ycombinator.com/item?id=40358071"
-    ],
-    [
-      "Gemini Flash",
-      "https://deepmind.google/technologies/gemini/flash/"
+      "The new APT 3.0 solver",
+      "https://blog.jak-linux.org/2024/05/14/solver3/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Model Explorer: intuitive and hierarchical visualization of model graphs",
       "https://ai.google.dev/edge/model-explorer"
-    ]
-  ],
-  [
-    [
-      "2024-05-14, 16:10:58",
-      "https://news.ycombinator.com/item?id=40356751"
-    ],
-    [
-      "Femtosecond lasers create 3D midair plasma displays you can touch (2015)",
-      "https://spectrum.ieee.org/femtosecond-lasers-create-3d-midair-plasma-displays-you-can-touch"
     ]
   ],
   [
