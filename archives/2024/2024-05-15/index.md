@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-15](index.md)
 
+* [2024-05-15, 04:50:01](https://news.ycombinator.com/item?id=40363213) - [New WiFi Vulnerability: The SSID Confusion Attack](https://www.top10vpn.com/research/wifi-vulnerability-ssid/)
 * [2024-05-15, 04:34:18](https://news.ycombinator.com/item?id=40363135) - [AI is the reason interviews are harder now](https://www.softwaredesign.ing/blog/ai-is-the-reason-interviews-are-harder-now)
 * [2024-05-15, 04:20:18](https://news.ycombinator.com/item?id=40363069) - [Department of Justice says Boeing may be criminally liable in 737 MAX crashes](https://www.usatoday.com/story/money/2024/05/14/boeing-department-of-justice-criminal-liability/73692655007/)
 * [2024-05-15, 04:03:40](https://news.ycombinator.com/item?id=40362992) - [Parseback: A pure-Lua introspection library for LuaJIT's FFI ctype objects](https://github.com/javierguerragiraldez/parseback)
