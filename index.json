@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-05-15, 23:15:17",
+      "https://news.ycombinator.com/item?id=40373498"
+    ],
+    [
+      "Hysata electrolyzers produce cheapest hydrogen at 95% efficiency",
+      "https://hysata.com/news/hysata-announces-111m-usd-series-b-investment-round/"
+    ]
+  ],
+  [
+    [
       "2024-05-15, 21:02:50",
       "https://news.ycombinator.com/item?id=40372317"
     ],
     [
       "SSD death, tricky read-only filesystems, and systemd magic?",
       "https://rachelbythebay.com/w/2024/05/15/ro/"
+    ]
+  ],
+  [
+    [
+      "2024-05-15, 21:02:30",
+      "https://news.ycombinator.com/item?id=40372315"
+    ],
+    [
+      "Qualcomm's Oryon LLVM Patches",
+      "https://chipsandcheese.com/2024/05/15/qualcomms-oryon-llvm-patches/"
     ]
   ],
   [
@@ -21,12 +41,12 @@
   ],
   [
     [
-      "2024-05-15, 20:11:55",
-      "https://news.ycombinator.com/item?id=40371785"
+      "2024-05-15, 20:36:39",
+      "https://news.ycombinator.com/item?id=40372071"
     ],
     [
-      "A 'plague' comes before the fall: lessons from Roman history",
-      "https://thebulletin.org/2024/05/a-plague-comes-before-the-fall-lessons-from-roman-history/"
+      "It's 2024 and drought is optional",
+      "https://asteriskmag.com/issues/06/its-2024-and-drought-is-optional"
     ]
   ],
   [
@@ -77,16 +97,6 @@
     [
       "An Empirical Evaluation of Columnar Storage Formats [pdf]",
       "https://www.vldb.org/pvldb/vol17/p148-zeng.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-05-15, 18:04:30",
-      "https://news.ycombinator.com/item?id=40370323"
-    ],
-    [
-      "Merging Remix and React Router",
-      "https://remix.run/blog/merging-remix-and-react-router"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Raspberry Pi Ltd is considering an IPO",
       "https://www.londonstockexchange.com/news-article/market-news/expected-intention-to-float/16470316"
-    ]
-  ],
-  [
-    [
-      "2024-05-15, 06:32:18",
-      "https://news.ycombinator.com/item?id=40363744"
-    ],
-    [
-      "Translation of Rust's core and alloc crates to Coq for formal verification",
-      "https://formal.land/blog/2024/04/26/translation-core-alloc-crates"
     ]
   ],
   [
