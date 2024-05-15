@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-15, 04:03:40](https://news.ycombinator.com/item?id=40362992) - [Parseback: A pure-Lua introspection library for LuaJIT's FFI ctype objects](https://github.com/javierguerragiraldez/parseback)
 * [2024-05-15, 03:37:46](https://news.ycombinator.com/item?id=40362848) - [Air Quality Monitors Compared: AirGradient vs. Purple Air](https://www.airgradient.com/blog/airgradient-vs-purple-air/)
 * [2024-05-15, 02:57:08](https://news.ycombinator.com/item?id=40362621) - [Parking reform legalized most of the new homes in Buffalo and Seattle (2023)](https://www.sightline.org/2023/04/13/parking-reform-legalized-most-of-the-new-homes-in-buffalo-and-seattle/)
 * [2024-05-15, 02:31:25](https://news.ycombinator.com/item?id=40362490) - [Romance author gets locked out of Google Docs for \"inappropriate\" content](https://www.dexerto.com/tech/romance-author-gets-locked-out-of-google-docs-for-inappropriate-content-2713004/)
@@ -28,7 +29,6 @@
 * [2024-05-14, 10:15:13](https://news.ycombinator.com/item?id=40353529) - [Researchers find high levels of lead, mercury and arsenic in Beethoven's hair](https://www.smithsonianmag.com/smart-news/locks-of-beethovens-hair-are-unraveling-the-mysteries-of-his-deafness-and-illnesses-180984332/)
 * [2024-05-14, 07:51:04](https://news.ycombinator.com/item?id=40352656) - [Add sysctl to disable Nagle's algorithm (RFC 896 – Congestion Control)](https://marc.info/?l=openbsd-tech&m=171562561424289)
 * [2024-05-13, 21:54:06](https://news.ycombinator.com/item?id=40348947) - [GPT-4o's Memory Breakthrough – Needle in a Needlestack](http://nian.llmonpy.ai/)
-* [2024-05-13, 11:41:11](https://news.ycombinator.com/item?id=40342105) - [Prolog and Natural-Language Analysis (1987) [pdf]](http://www.mtome.com/Publications/PNLA/prolog-digital.pdf)
 * [2024-05-13, 11:36:10](https://news.ycombinator.com/item?id=40342057) - [How did authorities identify the alleged LockBit boss?](https://krebsonsecurity.com/2024/05/how-did-authorities-identify-the-alleged-lockbit-boss/)
 
 ## [Archives](archives/index.md)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-15](index.md)
 
+* [2024-05-15, 04:03:40](https://news.ycombinator.com/item?id=40362992) - [Parseback: A pure-Lua introspection library for LuaJIT's FFI ctype objects](https://github.com/javierguerragiraldez/parseback)
 * [2024-05-15, 03:37:46](https://news.ycombinator.com/item?id=40362848) - [Air Quality Monitors Compared: AirGradient vs. Purple Air](https://www.airgradient.com/blog/airgradient-vs-purple-air/)
 * [2024-05-15, 02:57:08](https://news.ycombinator.com/item?id=40362621) - [Parking Reform Legalized Most of the New Homes in Buffalo and Seattle](https://www.sightline.org/2023/04/13/parking-reform-legalized-most-of-the-new-homes-in-buffalo-and-seattle/)
 * [2024-05-15, 02:31:25](https://news.ycombinator.com/item?id=40362490) - [Romance author gets locked out of Google Docs for \"inappropriate\" content](https://www.dexerto.com/tech/romance-author-gets-locked-out-of-google-docs-for-inappropriate-content-2713004/)
