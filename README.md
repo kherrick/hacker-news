@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-15, 07:01:16](https://news.ycombinator.com/item?id=40363911) - [Great Question (YC W21) Is Hiring Product Engineers (Rails/React)](https://www.ycombinator.com/companies/great-question/jobs/WIk0wNz-product-engineer-rails-react)
+* [2024-05-15, 06:48:45](https://news.ycombinator.com/item?id=40363836) - [A Philosophy of Software Design [pdf]](https://milkov.tech/assets/psd.pdf)
 * [2024-05-15, 06:32:18](https://news.ycombinator.com/item?id=40363744) - [Translation of the Rust's core and alloc crates to Coq for formal verification](https://formal.land/blog/2024/04/26/translation-core-alloc-crates)
 * [2024-05-15, 06:24:02](https://news.ycombinator.com/item?id=40363704) - [A low budget consumer hardware espionage implant: a GSM device hidden in](https://ha.cking.ch/s8_data_line_locator/)
 * [2024-05-15, 05:50:45](https://news.ycombinator.com/item?id=40363517) - [Show HN: I built a math website the internet loved, I'm back with more features](https://teachyourselfmath.app/?page=1)
@@ -12,7 +13,6 @@
 * [2024-05-15, 02:57:08](https://news.ycombinator.com/item?id=40362621) - [Parking reform legalized most of the new homes in Buffalo and Seattle (2023)](https://www.sightline.org/2023/04/13/parking-reform-legalized-most-of-the-new-homes-in-buffalo-and-seattle/)
 * [2024-05-15, 02:24:03](https://news.ycombinator.com/item?id=40362449) - [URLhaus: A database of malicious URLs used for malware distribution](https://urlhaus.abuse.ch/)
 * [2024-05-15, 01:25:44](https://news.ycombinator.com/item?id=40362105) - [Strangely Curved Shapes Break 50-Year-Old Geometry Conjecture](https://www.quantamagazine.org/strangely-curved-shapes-break-50-year-old-geometry-conjecture-20240514/)
-* [2024-05-14, 23:37:25](https://news.ycombinator.com/item?id=40361387) - [The most talented person in the world](https://matt.sh/the-most-talented-person)
 * [2024-05-14, 23:01:26](https://news.ycombinator.com/item?id=40361128) - [Ilya Sutskever to leave OpenAI](https://twitter.com/ilyasut/status/1790517455628198322)
 * [2024-05-14, 20:46:49](https://news.ycombinator.com/item?id=40359976) - [Stone with ancient writing system unearthed in garden](https://www.bbc.co.uk/news/articles/c14kywyk0vro)
 * [2024-05-14, 18:40:50](https://news.ycombinator.com/item?id=40358588) - [The new APT 3.0 solver](https://blog.jak-linux.org/2024/05/14/solver3/)
