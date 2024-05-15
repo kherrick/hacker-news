@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-05-15](index.md)
 
+* [2024-05-15, 10:50:33](https://news.ycombinator.com/item?id=40365198) - [Oracle goes vegan: Dumps Terraform for OpenTofu](https://www.thestack.technology/oracle-dumps-terraform-for-opentofu/)
+* [2024-05-15, 10:42:03](https://news.ycombinator.com/item?id=40365153) - [Gaussian Blue Noise](https://arxiv.org/abs/2206.07798)
 * [2024-05-15, 10:33:09](https://news.ycombinator.com/item?id=40365126) - [Dell leak details next-gen Windows on Arm chips](https://www.theverge.com/2024/5/15/24157120/dell-windows-on-arm-leak-qualcomm-chips-battery-life)
+* [2024-05-15, 10:32:34](https://news.ycombinator.com/item?id=40365123) - [Germany solar power output jumps to record highs](https://www.reuters.com/business/energy/germany-solar-power-output-jumps-record-highs-maguire-2024-05-14/)
 * [2024-05-15, 08:55:22](https://news.ycombinator.com/item?id=40364617) - [Hot take on OpenAI's new GPT-4o – by Gary Marcus](https://garymarcus.substack.com/p/hot-take-on-openais-new-gpt-4o)
 * [2024-05-15, 07:54:38](https://news.ycombinator.com/item?id=40364210) - [Bicycle Rolling Resistance: Tire Rolling Resistance Tests and More](https://www.bicyclerollingresistance.com/)
 * [2024-05-15, 07:36:07](https://news.ycombinator.com/item?id=40364104) - [\"Is This Project Still Maintained?\"](https://www.hezmatt.org/~mpalmer/blog/2024/05/14/is-this-project-still-maintained.html)
