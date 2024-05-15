@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-05-15](index.md)
 
+* [2024-05-15, 15:12:15](https://news.ycombinator.com/item?id=40368016) - [Adobe Photoshop Source Code](https://computerhistory.org/blog/adobe-photoshop-source-code/)
 * [2024-05-15, 14:45:30](https://news.ycombinator.com/item?id=40367642) - [The Beginning of the End of Private Cars in American Cities](https://thenewurbanorder.substack.com/p/the-beginning-of-the-end-of-private)
 * [2024-05-15, 14:08:05](https://news.ycombinator.com/item?id=40367160) - [Jan Leike Resigns from OpenAI](https://twitter.com/janleike/status/1790603862132596961)
+* [2024-05-15, 14:02:35](https://news.ycombinator.com/item?id=40367090) - [Show HN: Open-source BI and analytics for engineers](https://github.com/quarylabs/quary)
 * [2024-05-15, 13:52:19](https://news.ycombinator.com/item?id=40366962) - [The Worst Website in the Entire World](https://matduggan.com/the-worst-website-in-the-entire-world/)
 * [2024-05-15, 13:43:36](https://news.ycombinator.com/item?id=40366867) - [What went wrong with UniSuper and Google Cloud?](https://danielcompton.net/google-cloud-unisuper)
 * [2024-05-15, 13:33:47](https://news.ycombinator.com/item?id=40366722) - [Downranking won't stop Google's deepfake porn problem, victims say](https://arstechnica.com/tech-policy/2024/05/downranking-wont-stop-googles-deepfake-porn-problem-victims-say/)

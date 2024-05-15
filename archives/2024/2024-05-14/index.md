@@ -85,6 +85,7 @@
 * [2024-05-14, 11:06:07](https://news.ycombinator.com/item?id=40353842) - [Ancient Eastern European mega-sites: a social levelling concept?](https://www.cambridge.org/core/journals/antiquity/article/trypillia-megasites-a-social-levelling-concept/A0048EA63DA8D0B00A513BFD7C24A679)
 * [2024-05-14, 10:59:01](https://news.ycombinator.com/item?id=40353805) - [Why are Google and Facebook free? The answer might be worse than you think](https://tuta.com/blog/google-facebook-free)
 * [2024-05-14, 10:42:03](https://news.ycombinator.com/item?id=40353694) - [Speculating the entire x86-64 instruction set in seconds (2021)](https://blog.can.ac/2021/03/22/speculating-x86-64-isa-with-one-weird-trick/)
+* [2024-05-14, 10:30:23](https://news.ycombinator.com/item?id=40353630) - [Prague Astronomical Clock Simulator (2022)](https://github.com/kshetline/prague-clock)
 * [2024-05-14, 10:28:32](https://news.ycombinator.com/item?id=40353615) - [What Factors Explain the Nature of Software?](https://tratt.net/laurie/blog/2024/what_factors_explain_the_nature_of_software.html)
 * [2024-05-14, 10:27:32](https://news.ycombinator.com/item?id=40353605) - [HBase Deprecation at Pinterest](https://medium.com/pinterest-engineering/hbase-deprecation-at-pinterest-8a99e6c8e6b7)
 * [2024-05-14, 10:24:25](https://news.ycombinator.com/item?id=40353585) - [Top doctor remains brain cancer-free after a year (of his own treatment)](https://www.bbc.co.uk/news/world-australia-69006713)
