@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-15](index.md)
 
 * [2024-05-15, 16:32:08](https://news.ycombinator.com/item?id=40369119) - [Starting emails with \"BEGIN PGP MESSAGE\" will fool the filter](https://nondeterministic.computer/@martin/112444389342113780)
+* [2024-05-15, 16:05:02](https://news.ycombinator.com/item?id=40368760) - [Viking 7B: open LLM for the Nordic languages trained on AMD GPUs](https://www.silo.ai//blog/viking-7b-the-first-open-llm-for-the-nordic-languages)
 * [2024-05-15, 16:02:16](https://news.ycombinator.com/item?id=40368710) - [Swiss vs. American Parenting: Differences According to a US Mom](https://www.businessinsider.com/swiss-vs-american-parenting-differences-independence-freedom-culture-shock-2024-5)
 * [2024-05-15, 15:44:01](https://news.ycombinator.com/item?id=40368439) - [Apple says the majority of Mac users also own an iPad](https://9to5mac.com/2024/05/15/majority-of-mac-users-also-own-ipad/)
 * [2024-05-15, 15:12:15](https://news.ycombinator.com/item?id=40368016) - [Adobe Photoshop Source Code](https://computerhistory.org/blog/adobe-photoshop-source-code/)
