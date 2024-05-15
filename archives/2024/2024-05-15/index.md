@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-15](index.md)
 
+* [2024-05-15, 10:55:46](https://news.ycombinator.com/item?id=40365226) - [Boeing Emails Handed over to Congress in January 2020](https://archive.org/details/boeingemailsocr)
 * [2024-05-15, 10:50:33](https://news.ycombinator.com/item?id=40365198) - [Oracle goes vegan: Dumps Terraform for OpenTofu](https://www.thestack.technology/oracle-dumps-terraform-for-opentofu/)
 * [2024-05-15, 10:42:03](https://news.ycombinator.com/item?id=40365153) - [Gaussian Blue Noise](https://arxiv.org/abs/2206.07798)
 * [2024-05-15, 10:33:09](https://news.ycombinator.com/item?id=40365126) - [Dell leak details next-gen Windows on Arm chips](https://www.theverge.com/2024/5/15/24157120/dell-windows-on-arm-leak-qualcomm-chips-battery-life)
