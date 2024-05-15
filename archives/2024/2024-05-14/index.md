@@ -87,6 +87,7 @@
 * [2024-05-14, 09:06:43](https://news.ycombinator.com/item?id=40353102) - [Turn Your Android Tablet into an IDE with VSCode and Nix](https://www.50-nuances-octets.fr/en/posts/turn-android-tablet-into-ide-with-vscode-nix/)
 * [2024-05-14, 07:56:13](https://news.ycombinator.com/item?id=40352686) - [The Notifier Pattern for Applications That Use Postgres](https://brandur.org/notifier)
 * [2024-05-14, 07:51:04](https://news.ycombinator.com/item?id=40352656) - [OpenBSD – Demise of Nagle's Algorithm (RFC 896 – Congestion Control) Predicted](https://www.undeadly.org/cgi?action=article;sid=20240514075024)
+* [2024-05-14, 07:51:04](https://news.ycombinator.com/item?id=40352656) - [Add sysctl to disable Nagle's algorithm (RFC 896 – Congestion Control)](https://marc.info/?l=openbsd-tech&m=171562561424289)
 * [2024-05-14, 07:05:38](https://news.ycombinator.com/item?id=40352426) - [Using ARG in a Dockerfile – beware the gotcha](https://qmacro.org/blog/posts/2024/05/13/using-arg-in-a-dockerfile-beware-the-gotcha/)
 * [2024-05-14, 06:42:52](https://news.ycombinator.com/item?id=40352295) - [DFS Channels in 5 GHz](https://www.wiisfi.com/#DFS)
 * [2024-05-14, 06:25:04](https://news.ycombinator.com/item?id=40352204) - [Claude is now available in Europe](https://www.anthropic.com/news/claude-europe)

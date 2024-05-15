@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-15, 02:57:08](https://news.ycombinator.com/item?id=40362621) - [Parking Reform Legalized Most of the New Homes in Buffalo and Seattle](https://www.sightline.org/2023/04/13/parking-reform-legalized-most-of-the-new-homes-in-buffalo-and-seattle/)
+* [2024-05-15, 03:37:46](https://news.ycombinator.com/item?id=40362848) - [Air Quality Monitors Compared: AirGradient vs. Purple Air](https://www.airgradient.com/blog/airgradient-vs-purple-air/)
+* [2024-05-15, 02:57:08](https://news.ycombinator.com/item?id=40362621) - [Parking reform legalized most of the new homes in Buffalo and Seattle (2023)](https://www.sightline.org/2023/04/13/parking-reform-legalized-most-of-the-new-homes-in-buffalo-and-seattle/)
 * [2024-05-15, 02:31:25](https://news.ycombinator.com/item?id=40362490) - [Romance author gets locked out of Google Docs for \"inappropriate\" content](https://www.dexerto.com/tech/romance-author-gets-locked-out-of-google-docs-for-inappropriate-content-2713004/)
 * [2024-05-15, 02:24:03](https://news.ycombinator.com/item?id=40362449) - [URLhaus: A database of malicious URLs used for malware distribution](https://urlhaus.abuse.ch/)
 * [2024-05-14, 23:37:25](https://news.ycombinator.com/item?id=40361387) - [The most talented person in the world](https://matt.sh/the-most-talented-person)
 * [2024-05-14, 23:01:26](https://news.ycombinator.com/item?id=40361128) - [Ilya Sutskever to leave OpenAI](https://twitter.com/ilyasut/status/1790517455628198322)
-* [2024-05-14, 20:48:14](https://news.ycombinator.com/item?id=40359993) - [Contact of Containership Dali with the Key Bridge and Subsequent Bridge Collapse [pdf]](https://static01.nyt.com/newsgraphics/documenttools/6119296c8c79713a/0e214c46-full.pdf)
 * [2024-05-14, 20:46:49](https://news.ycombinator.com/item?id=40359976) - [Stone with ancient writing system unearthed in garden](https://www.bbc.co.uk/news/articles/c14kywyk0vro)
 * [2024-05-14, 20:38:10](https://news.ycombinator.com/item?id=40359893) - [Muse Retrospective](https://adamwiggins.com/muse-retrospective/)
 * [2024-05-14, 20:37:22](https://news.ycombinator.com/item?id=40359886) - [Higher RAII and the seven arcane uses of linear types](https://verdagon.dev/blog/higher-raii-uses-linear-types)
@@ -26,10 +26,10 @@
 * [2024-05-14, 12:19:39](https://news.ycombinator.com/item?id=40354381) - [IBM and the Transformation of Corporate Design](https://computerhistory.org/blog/ibm-and-the-transformation-of-corporate-design/)
 * [2024-05-14, 11:46:17](https://news.ycombinator.com/item?id=40354130) - [New gel breaks down alcohol in the body](https://ethz.ch/en/news-and-events/eth-news/news/2024/05/press-release-new-gel-breaks-down-alcohol-in-the-body.html)
 * [2024-05-14, 10:15:13](https://news.ycombinator.com/item?id=40353529) - [Researchers find high levels of lead, mercury and arsenic in Beethoven's hair](https://www.smithsonianmag.com/smart-news/locks-of-beethovens-hair-are-unraveling-the-mysteries-of-his-deafness-and-illnesses-180984332/)
-* [2024-05-14, 07:51:04](https://news.ycombinator.com/item?id=40352656) - [OpenBSD – Demise of Nagle's Algorithm (RFC 896 – Congestion Control) Predicted](https://www.undeadly.org/cgi?action=article;sid=20240514075024)
+* [2024-05-14, 07:51:04](https://news.ycombinator.com/item?id=40352656) - [Add sysctl to disable Nagle's algorithm (RFC 896 – Congestion Control)](https://marc.info/?l=openbsd-tech&m=171562561424289)
 * [2024-05-13, 21:54:06](https://news.ycombinator.com/item?id=40348947) - [GPT-4o's Memory Breakthrough – Needle in a Needlestack](http://nian.llmonpy.ai/)
+* [2024-05-13, 11:41:11](https://news.ycombinator.com/item?id=40342105) - [Prolog and Natural-Language Analysis (1987) [pdf]](http://www.mtome.com/Publications/PNLA/prolog-digital.pdf)
 * [2024-05-13, 11:36:10](https://news.ycombinator.com/item?id=40342057) - [How did authorities identify the alleged LockBit boss?](https://krebsonsecurity.com/2024/05/how-did-authorities-identify-the-alleged-lockbit-boss/)
-* [2024-05-13, 06:11:38](https://news.ycombinator.com/item?id=40340248) - [Exploring GNU extensions in the Linux kernel](https://maskray.me/blog/2024-05-12-exploring-gnu-extensions-in-linux-kernel)
 
 ## [Archives](archives/index.md)
 
