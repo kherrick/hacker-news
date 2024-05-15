@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-05-15](index.md)
 
+* [2024-05-15, 16:32:08](https://news.ycombinator.com/item?id=40369119) - [Starting emails with \"BEGIN PGP MESSAGE\" will fool the filter](https://nondeterministic.computer/@martin/112444389342113780)
+* [2024-05-15, 16:02:16](https://news.ycombinator.com/item?id=40368710) - [Swiss vs. American Parenting: Differences According to a US Mom](https://www.businessinsider.com/swiss-vs-american-parenting-differences-independence-freedom-culture-shock-2024-5)
 * [2024-05-15, 15:44:01](https://news.ycombinator.com/item?id=40368439) - [Apple says the majority of Mac users also own an iPad](https://9to5mac.com/2024/05/15/majority-of-mac-users-also-own-ipad/)
 * [2024-05-15, 15:12:15](https://news.ycombinator.com/item?id=40368016) - [Adobe Photoshop Source Code](https://computerhistory.org/blog/adobe-photoshop-source-code/)
 * [2024-05-15, 15:11:20](https://news.ycombinator.com/item?id=40368008) - [Show HN: I wrote a symmetry game with a daily puzzle](https://www.hidden-mirrors.com)
+* [2024-05-15, 14:52:37](https://news.ycombinator.com/item?id=40367743) - [I'm Sticking with Native iOS Development](https://riveralabs.com/posts/native_ios_development/)
 * [2024-05-15, 14:45:30](https://news.ycombinator.com/item?id=40367642) - [The Beginning of the End of Private Cars in American Cities](https://thenewurbanorder.substack.com/p/the-beginning-of-the-end-of-private)
+* [2024-05-15, 14:33:32](https://news.ycombinator.com/item?id=40367488) - [Show HN: I made a Chrome extension to clean up your Gmail inbox locally](https://www.inboxpurge.com/)
 * [2024-05-15, 14:08:05](https://news.ycombinator.com/item?id=40367160) - [Jan Leike Resigns from OpenAI](https://twitter.com/janleike/status/1790603862132596961)
 * [2024-05-15, 14:02:35](https://news.ycombinator.com/item?id=40367090) - [Show HN: Open-source BI and analytics for engineers](https://github.com/quarylabs/quary)
 * [2024-05-15, 13:52:19](https://news.ycombinator.com/item?id=40366962) - [The Worst Website in the Entire World](https://matduggan.com/the-worst-website-in-the-entire-world/)
