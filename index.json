@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-15, 20:03:45",
+      "https://news.ycombinator.com/item?id=40371683"
+    ],
+    [
+      "Haiku Activity and Contract Report, April 2024",
+      "https://www.haiku-os.org/blog/waddlesplash/2024-05-14-haiku_activity_contract_report_april_2024/"
+    ]
+  ],
+  [
+    [
       "2024-05-15, 19:39:28",
       "https://news.ycombinator.com/item?id=40371401"
     ],
@@ -87,16 +97,6 @@
     [
       "Dragonfly: An optical telescope built from an array of off-the-shelf Canon lens",
       "https://www.dunlap.utoronto.ca/instrumentation/dragonfly/"
-    ]
-  ],
-  [
-    [
-      "2024-05-15, 16:05:02",
-      "https://news.ycombinator.com/item?id=40368760"
-    ],
-    [
-      "Viking 7B: open LLM for the Nordic languages trained on AMD GPUs",
-      "https://www.silo.ai//blog/viking-7b-the-first-open-llm-for-the-nordic-languages"
     ]
   ],
   [
@@ -225,7 +225,7 @@
       "https://news.ycombinator.com/item?id=40363704"
     ],
     [
-      "A low budget consumer hardware espionage implant: a GSM device hidden in (2018)",
+      "A low budget consumer hardware espionage implant (2018)",
       "https://ha.cking.ch/s8_data_line_locator/"
     ]
   ],
