@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-05-15, 07:01:16",
+      "https://news.ycombinator.com/item?id=40363911"
+    ],
+    [
+      "Great Question (YC W21) Is Hiring Product Engineers (Rails/React)",
+      "https://www.ycombinator.com/companies/great-question/jobs/WIk0wNz-product-engineer-rails-react"
+    ]
+  ],
+  [
+    [
       "2024-05-15, 06:32:18",
       "https://news.ycombinator.com/item?id=40363744"
     ],
     [
       "Translation of the Rust's core and alloc crates to Coq for formal verification",
       "https://formal.land/blog/2024/04/26/translation-core-alloc-crates"
+    ]
+  ],
+  [
+    [
+      "2024-05-15, 05:50:45",
+      "https://news.ycombinator.com/item?id=40363517"
+    ],
+    [
+      "Show HN: I built a math website the internet loved, I'm back with more features",
+      "https://teachyourselfmath.app/?page=1"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2024-05-14, 12:19:39",
-      "https://news.ycombinator.com/item?id=40354381"
-    ],
-    [
-      "IBM and the Transformation of Corporate Design",
-      "https://computerhistory.org/blog/ibm-and-the-transformation-of-corporate-design/"
-    ]
-  ],
-  [
-    [
       "2024-05-14, 11:46:17",
       "https://news.ycombinator.com/item?id=40354130"
     ],
@@ -257,16 +267,6 @@
     [
       "Researchers find high levels of lead, mercury and arsenic in Beethoven's hair",
       "https://www.smithsonianmag.com/smart-news/locks-of-beethovens-hair-are-unraveling-the-mysteries-of-his-deafness-and-illnesses-180984332/"
-    ]
-  ],
-  [
-    [
-      "2024-05-14, 07:51:04",
-      "https://news.ycombinator.com/item?id=40352656"
-    ],
-    [
-      "Add sysctl to disable Nagle's algorithm (RFC 896 – Congestion Control)",
-      "https://marc.info/?l=openbsd-tech&m=171562561424289"
     ]
   ],
   [
