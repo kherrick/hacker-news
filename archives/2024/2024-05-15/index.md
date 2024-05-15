@@ -9,6 +9,7 @@
 * [2024-05-15, 20:01:37](https://news.ycombinator.com/item?id=40371650) - [In medicine what's the difference between an -ectomy, an -ostomy, and an -otomy?](https://www.straightdope.com/21341781/in-medicine-what-s-the-difference-between-an-ectomy-an-ostomy-and-an-otomy)
 * [2024-05-15, 19:57:01](https://news.ycombinator.com/item?id=40371612) - [New exponent functions that make SiLU and SoftMax 2x faster, at full accuracy](https://github.com/ggerganov/llama.cpp/pull/7154)
 * [2024-05-15, 19:55:24](https://news.ycombinator.com/item?id=40371595) - [Stop Using Discord](https://usemumble.neocities.org/)
+* [2024-05-15, 19:44:46](https://news.ycombinator.com/item?id=40371467) - [Show HN: I made a Mac app to search my images and videos with AI](https://desktopdocs.com)
 * [2024-05-15, 19:39:28](https://news.ycombinator.com/item?id=40371401) - [Project Gameface Launches on Android](https://developers.googleblog.com/en/project-gameface-launches-on-android/)
 * [2024-05-15, 19:24:47](https://news.ycombinator.com/item?id=40371237) - [PaliGemma: Open-Source Multimodal Model by Google](https://blog.roboflow.com/paligemma-multimodal-vision/)
 * [2024-05-15, 18:47:41](https://news.ycombinator.com/item?id=40370816) - [I'm leaving OpenAI after 3½ yrs](https://twitter.com/E0M/status/1790814866695143696)
