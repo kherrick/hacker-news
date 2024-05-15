@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-15, 21:35:48](https://news.ycombinator.com/item?id=40372686) - [Plane, open-source Jira alternative, got to 100K+ Docker and 44K+ K8s deploys](https://plane.so/blog/streamlining-self-hosting-managing-100k-docker-44000-kubernetes-deploys-ease)
 * [2024-05-15, 21:02:50](https://news.ycombinator.com/item?id=40372317) - [SSD death, tricky read-only filesystems, and systemd magic?](https://rachelbythebay.com/w/2024/05/15/ro/)
 * [2024-05-15, 21:00:02](https://news.ycombinator.com/item?id=40372296) - [Making a Postgres query 1k times faster](https://mattermost.com/blog/making-a-postgres-query-1000-times-faster/)
 * [2024-05-15, 20:11:55](https://news.ycombinator.com/item?id=40371785) - [A 'plague' comes before the fall: lessons from Roman history](https://thebulletin.org/2024/05/a-plague-comes-before-the-fall-lessons-from-roman-history/)
@@ -9,6 +8,7 @@
 * [2024-05-15, 19:44:46](https://news.ycombinator.com/item?id=40371467) - [Show HN: I made a Mac app to search my images and videos locally with ML](https://desktopdocs.com)
 * [2024-05-15, 19:39:28](https://news.ycombinator.com/item?id=40371401) - [Project Gameface Launches on Android](https://developers.googleblog.com/en/project-gameface-launches-on-android/)
 * [2024-05-15, 18:29:36](https://news.ycombinator.com/item?id=40370613) - [An Empirical Evaluation of Columnar Storage Formats [pdf]](https://www.vldb.org/pvldb/vol17/p148-zeng.pdf)
+* [2024-05-15, 18:04:30](https://news.ycombinator.com/item?id=40370323) - [Merging Remix and React Router](https://remix.run/blog/merging-remix-and-react-router)
 * [2024-05-15, 17:12:05](https://news.ycombinator.com/item?id=40369668) - [Google Blog: Android's theft protection features keep your device and data safe](https://blog.google/products/android/android-theft-protection/)
 * [2024-05-15, 17:00:50](https://news.ycombinator.com/item?id=40369524) - [Ashby (YC W19) Is Hiring Technical EMs Who Love Coaching](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a)
 * [2024-05-15, 16:57:30](https://news.ycombinator.com/item?id=40369467) - [Jepsen: Datomic Pro 1.0.7075](https://jepsen.io/analyses/datomic-pro-1.0.7075)
@@ -23,13 +23,13 @@
 * [2024-05-15, 12:58:46](https://news.ycombinator.com/item?id=40366323) - [I coded something dumb and I'm proud of it](https://plbrault.com/blog-posts/i-coded-something-dumb-and-im-proud-of-it-en/)
 * [2024-05-15, 12:48:19](https://news.ycombinator.com/item?id=40366204) - [Nearly all Nintendo 64 games can now be recompiled into native PC ports](https://www.tomshardware.com/video-games/nearly-all-nintendo-64-games-can-now-be-recompiled-into-native-pc-ports-to-add-proper-ray-tracing-ultrawide-high-fps-and-more)
 * [2024-05-15, 12:32:14](https://news.ycombinator.com/item?id=40366062) - [Raspberry Pi Ltd is considering an IPO](https://www.londonstockexchange.com/news-article/market-news/expected-intention-to-float/16470316)
+* [2024-05-15, 06:32:18](https://news.ycombinator.com/item?id=40363744) - [Translation of Rust's core and alloc crates to Coq for formal verification](https://formal.land/blog/2024/04/26/translation-core-alloc-crates)
 * [2024-05-14, 17:58:26](https://news.ycombinator.com/item?id=40358041) - [Veo](https://deepmind.google/technologies/veo/)
 * [2024-05-14, 11:10:17](https://news.ycombinator.com/item?id=40353874) - [A Tale of Two Sieves (1996) [pdf]](https://www.ams.org/notices/199612/pomerance.pdf)
 * [2024-05-14, 10:42:03](https://news.ycombinator.com/item?id=40353694) - [Speculating the entire x86-64 instruction set in seconds (2021)](https://blog.can.ac/2021/03/22/speculating-x86-64-isa-with-one-weird-trick/)
 * [2024-05-14, 10:21:15](https://news.ycombinator.com/item?id=40353557) - [Branded types for TypeScript](https://www.carlos-menezes.com/post/branded-types)
 * [2024-05-14, 07:31:50](https://news.ycombinator.com/item?id=40352557) - [When to Split Patches (For PostgreSQL)](http://peter.eisentraut.org/blog/2024/05/14/when-to-split-patches-for-postgresql)
 * [2024-05-13, 11:41:11](https://news.ycombinator.com/item?id=40342105) - [Prolog and Natural-Language Analysis (1987) [pdf]](http://www.mtome.com/Publications/PNLA/prolog-digital.pdf)
-* [2024-05-13, 05:47:34](https://news.ycombinator.com/item?id=40340161) - [More frequent, focused updates for Android Studio](https://android-developers.googleblog.com/2024/05/more-frequent-focused-updates-for-android-studio.html)
 
 ## [Archives](archives/index.md)
 

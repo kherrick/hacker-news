@@ -18,6 +18,7 @@
 * [2024-05-15, 19:24:47](https://news.ycombinator.com/item?id=40371237) - [PaliGemma: Open-Source Multimodal Model by Google](https://blog.roboflow.com/paligemma-multimodal-vision/)
 * [2024-05-15, 18:47:41](https://news.ycombinator.com/item?id=40370816) - [I'm leaving OpenAI after 3½ yrs](https://twitter.com/E0M/status/1790814866695143696)
 * [2024-05-15, 18:29:36](https://news.ycombinator.com/item?id=40370613) - [An Empirical Evaluation of Columnar Storage Formats [pdf]](https://www.vldb.org/pvldb/vol17/p148-zeng.pdf)
+* [2024-05-15, 18:04:30](https://news.ycombinator.com/item?id=40370323) - [Merging Remix and React Router](https://remix.run/blog/merging-remix-and-react-router)
 * [2024-05-15, 17:43:40](https://news.ycombinator.com/item?id=40370078) - [iPhone owners say the latest iOS update is resurfacing deleted nudes](https://www.theverge.com/2024/5/15/24157284/apple-iphone-ios-17-5-update-deleted-photos-voicemails)
 * [2024-05-15, 17:31:24](https://news.ycombinator.com/item?id=40369922) - [Why I'm Joining Mozilla as Executive Director](https://blog.mozilla.org/en/mozilla/why-im-joining-mozilla-as-executive-director/)
 * [2024-05-15, 17:16:27](https://news.ycombinator.com/item?id=40369730) - [A Woman Sees 100 Times More Colors Than the Average Person (2014)](https://www.popsci.com/article/science/woman-sees-100-times-more-colors-average-person/)
