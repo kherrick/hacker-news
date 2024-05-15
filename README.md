@@ -18,6 +18,7 @@
 * [2024-05-14, 17:23:30](https://news.ycombinator.com/item?id=40357611) - [Glance: A self-hosted dashboard that puts all your feeds in one place](https://github.com/glanceapp/glance)
 * [2024-05-14, 17:00:35](https://news.ycombinator.com/item?id=40357330) - [Linum (YC W23) is hiring a founding AI engineer to train text-to-video models](https://www.workatastartup.com/jobs/66397)
 * [2024-05-14, 16:42:54](https://news.ycombinator.com/item?id=40357141) - [Sir, there's a cat in your mirror dimension](https://lcamtuf.substack.com/p/sir-theres-a-cat-in-your-mirror-dimension)
+* [2024-05-14, 16:42:38](https://news.ycombinator.com/item?id=40357139) - [Compiler Explorer](https://thechipletter.substack.com/p/compiler-explorer)
 * [2024-05-14, 16:10:58](https://news.ycombinator.com/item?id=40356751) - [Femtosecond lasers create 3D midair plasma displays you can touch (2015)](https://spectrum.ieee.org/femtosecond-lasers-create-3d-midair-plasma-displays-you-can-touch)
 * [2024-05-14, 15:56:30](https://news.ycombinator.com/item?id=40356581) - [The 1871 Samuel Morse Statue (2014)](http://daytoninmanhattan.blogspot.com/2014/06/the-1871-samuel-morse-statue-central.html)
 * [2024-05-14, 14:57:55](https://news.ycombinator.com/item?id=40355875) - [Optimizing ClickHouse: Tactics that worked for us](https://www.highlight.io/blog/lw5-clickhouse-performance-optimization)
@@ -28,7 +29,6 @@
 * [2024-05-13, 21:54:06](https://news.ycombinator.com/item?id=40348947) - [GPT-4o's Memory Breakthrough – Needle in a Needlestack](http://nian.llmonpy.ai/)
 * [2024-05-13, 11:41:11](https://news.ycombinator.com/item?id=40342105) - [Prolog and Natural-Language Analysis (1987) [pdf]](http://www.mtome.com/Publications/PNLA/prolog-digital.pdf)
 * [2024-05-13, 11:36:10](https://news.ycombinator.com/item?id=40342057) - [How Did Authorities Identify the Alleged Lockbit Boss?](https://krebsonsecurity.com/2024/05/how-did-authorities-identify-the-alleged-lockbit-boss/)
-* [2024-05-13, 07:14:54](https://news.ycombinator.com/item?id=40340536) - [Timekeeping Before Clocks](https://worldhistory.substack.com/p/to-cut-and-hack-my-days)
 * [2024-05-13, 06:11:38](https://news.ycombinator.com/item?id=40340248) - [Exploring GNU extensions in the Linux kernel](https://maskray.me/blog/2024-05-12-exploring-gnu-extensions-in-linux-kernel)
 
 ## [Archives](archives/index.md)
