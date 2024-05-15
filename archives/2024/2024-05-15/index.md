@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-15](index.md)
 
+* [2024-05-15, 17:31:24](https://news.ycombinator.com/item?id=40369922) - [Why I'm Joining Mozilla as Executive Director](https://blog.mozilla.org/en/mozilla/why-im-joining-mozilla-as-executive-director/)
 * [2024-05-15, 17:16:27](https://news.ycombinator.com/item?id=40369730) - [A Woman Sees 100 Times More Colors Than the Average Person (2014)](https://www.popsci.com/article/science/woman-sees-100-times-more-colors-average-person/)
 * [2024-05-15, 17:00:50](https://news.ycombinator.com/item?id=40369524) - [Ashby (YC W19) Is Hiring Technical EMs Who Love Coaching](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a)
 * [2024-05-15, 16:50:24](https://news.ycombinator.com/item?id=40369371) - [CPI for all items rises 3.6%; shelter and gasoline up](https://www.bls.gov/news.release/archives/cpi_05152024.htm)
@@ -11,9 +12,11 @@
 * [2024-05-15, 16:42:49](https://news.ycombinator.com/item?id=40369258) - [Google opens up its smart home to everyone and will make Google TVs home hubs](https://www.theverge.com/2024/5/15/24157154/google-home-api-matter-smart-home-chromecast-google-tv)
 * [2024-05-15, 16:32:08](https://news.ycombinator.com/item?id=40369119) - [Starting emails with \"BEGIN PGP MESSAGE\" will fool the filter](https://nondeterministic.computer/@martin/112444389342113780)
 * [2024-05-15, 16:29:47](https://news.ycombinator.com/item?id=40369084) - [Reasons not to take Lumina's anticavity probiotic](https://trevorklee.substack.com/p/please-dont-take-luminas-anticavity)
+* [2024-05-15, 16:24:03](https://news.ycombinator.com/item?id=40369021) - [Dragonfly: An optical telescope built from an array of off-the-shelf Canon lense](https://www.dunlap.utoronto.ca/instrumentation/dragonfly/)
 * [2024-05-15, 16:05:02](https://news.ycombinator.com/item?id=40368760) - [Viking 7B: open LLM for the Nordic languages trained on AMD GPUs](https://www.silo.ai//blog/viking-7b-the-first-open-llm-for-the-nordic-languages)
 * [2024-05-15, 16:03:24](https://news.ycombinator.com/item?id=40368729) - [Mike Krieger: I've joined AnthropicAI as their Chief Product Officer](https://www.threads.net/@mikeyk/post/C6_feeSr0Q4)
 * [2024-05-15, 16:02:16](https://news.ycombinator.com/item?id=40368710) - [Swiss vs. American Parenting: Differences According to a US Mom](https://www.businessinsider.com/swiss-vs-american-parenting-differences-independence-freedom-culture-shock-2024-5)
+* [2024-05-15, 16:00:34](https://news.ycombinator.com/item?id=40368685) - [Slovakian Prime Minister Robert Fico shot and gravely injured](https://www.washingtonpost.com/world/2024/05/15/robert-fico-shot-slovakia/)
 * [2024-05-15, 15:57:56](https://news.ycombinator.com/item?id=40368644) - [I hid in a boat to avoid my leadership responsibilities](https://bootstoobig.substack.com/p/my-biggest-leadership-failure-so)
 * [2024-05-15, 15:44:01](https://news.ycombinator.com/item?id=40368439) - [Apple says the majority of Mac users also own an iPad](https://9to5mac.com/2024/05/15/majority-of-mac-users-also-own-ipad/)
 * [2024-05-15, 15:12:15](https://news.ycombinator.com/item?id=40368016) - [Adobe Photoshop Source Code](https://computerhistory.org/blog/adobe-photoshop-source-code/)
