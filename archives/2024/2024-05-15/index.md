@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-15](index.md)
 
+* [2024-05-15, 08:55:22](https://news.ycombinator.com/item?id=40364617) - [Hot take on OpenAI's new GPT-4o – by Gary Marcus](https://garymarcus.substack.com/p/hot-take-on-openais-new-gpt-4o)
 * [2024-05-15, 07:54:38](https://news.ycombinator.com/item?id=40364210) - [Bicycle Rolling Resistance: Tire Rolling Resistance Tests and More](https://www.bicyclerollingresistance.com/)
 * [2024-05-15, 07:36:07](https://news.ycombinator.com/item?id=40364104) - [\"Is This Project Still Maintained?\"](https://www.hezmatt.org/~mpalmer/blog/2024/05/14/is-this-project-still-maintained.html)
 * [2024-05-15, 07:10:38](https://news.ycombinator.com/item?id=40363971) - [Notes on Japan](https://alexanderweichart.de/5_Archive/1.-Projects/Notes/Notes-on-Japan)

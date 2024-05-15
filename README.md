@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-15, 08:55:22](https://news.ycombinator.com/item?id=40364617) - [Hot take on OpenAI's new GPT-4o – by Gary Marcus](https://garymarcus.substack.com/p/hot-take-on-openais-new-gpt-4o)
 * [2024-05-15, 07:54:38](https://news.ycombinator.com/item?id=40364210) - [Bicycle Rolling Resistance: Tire Rolling Resistance Tests and More](https://www.bicyclerollingresistance.com/)
 * [2024-05-15, 07:10:38](https://news.ycombinator.com/item?id=40363971) - [Notes on Japan](https://alexanderweichart.de/5_Archive/1.-Projects/Notes/Notes-on-Japan)
 * [2024-05-15, 07:01:16](https://news.ycombinator.com/item?id=40363911) - [Great Question (YC W21) Is Hiring Product Engineers (Rails/React)](https://www.ycombinator.com/companies/great-question/jobs/WIk0wNz-product-engineer-rails-react)
@@ -15,7 +16,6 @@
 * [2024-05-14, 23:01:26](https://news.ycombinator.com/item?id=40361128) - [Ilya Sutskever to leave OpenAI](https://twitter.com/ilyasut/status/1790517455628198322)
 * [2024-05-14, 20:46:49](https://news.ycombinator.com/item?id=40359976) - [Stone with ancient writing system unearthed in garden](https://www.bbc.co.uk/news/articles/c14kywyk0vro)
 * [2024-05-14, 18:40:50](https://news.ycombinator.com/item?id=40358588) - [The new APT 3.0 solver](https://blog.jak-linux.org/2024/05/14/solver3/)
-* [2024-05-14, 18:30:21](https://news.ycombinator.com/item?id=40358461) - [PaliGemma](https://ai.google.dev/gemma/docs/paligemma)
 * [2024-05-14, 18:19:01](https://news.ycombinator.com/item?id=40358309) - [Glider – open-source eInk monitor with an emphasis on low latency](https://github.com/Modos-Labs/Glider)
 * [2024-05-14, 18:00:59](https://news.ycombinator.com/item?id=40358071) - [Gemini Flash](https://deepmind.google/technologies/gemini/flash/)
 * [2024-05-14, 17:58:26](https://news.ycombinator.com/item?id=40358041) - [Veo](https://deepmind.google/technologies/veo/)
