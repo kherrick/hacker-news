@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-05-15, 18:47:41",
-      "https://news.ycombinator.com/item?id=40370816"
+      "2024-05-15, 18:29:36",
+      "https://news.ycombinator.com/item?id=40370613"
     ],
     [
-      "I'm leaving OpenAI after 3½ yrs",
-      "https://twitter.com/E0M/status/1790814866695143696"
+      "An Empirical Evaluation of Columnar Storage Formats [pdf]",
+      "https://www.vldb.org/pvldb/vol17/p148-zeng.pdf"
     ]
   ],
   [
@@ -21,11 +21,21 @@
   ],
   [
     [
+      "2024-05-15, 16:57:30",
+      "https://news.ycombinator.com/item?id=40369467"
+    ],
+    [
+      "Jepsen: Datomic Pro 1.0.7075",
+      "https://jepsen.io/analyses/datomic-pro-1.0.7075"
+    ]
+  ],
+  [
+    [
       "2024-05-15, 16:46:15",
       "https://news.ycombinator.com/item?id=40369319"
     ],
     [
-      "Show HN: Tarsier – vision for text-only LLM web agents that beats GPT-4o",
+      "Show HN: Tarsier – Vision utilities for web interaction agents",
       "https://github.com/reworkd/tarsier"
     ]
   ],
@@ -257,16 +267,6 @@
     [
       "Speculating the entire x86-64 instruction set in seconds (2021)",
       "https://blog.can.ac/2021/03/22/speculating-x86-64-isa-with-one-weird-trick/"
-    ]
-  ],
-  [
-    [
-      "2024-05-14, 10:27:32",
-      "https://news.ycombinator.com/item?id=40353605"
-    ],
-    [
-      "HBase Deprecation at Pinterest",
-      "https://medium.com/pinterest-engineering/hbase-deprecation-at-pinterest-8a99e6c8e6b7"
     ]
   ],
   [
