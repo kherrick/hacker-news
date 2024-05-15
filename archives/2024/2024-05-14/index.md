@@ -94,6 +94,7 @@
 * [2024-05-14, 07:56:13](https://news.ycombinator.com/item?id=40352686) - [The Notifier Pattern for Applications That Use Postgres](https://brandur.org/notifier)
 * [2024-05-14, 07:51:04](https://news.ycombinator.com/item?id=40352656) - [OpenBSD – Demise of Nagle's Algorithm (RFC 896 – Congestion Control) Predicted](https://www.undeadly.org/cgi?action=article;sid=20240514075024)
 * [2024-05-14, 07:51:04](https://news.ycombinator.com/item?id=40352656) - [Add sysctl to disable Nagle's algorithm (RFC 896 – Congestion Control)](https://marc.info/?l=openbsd-tech&m=171562561424289)
+* [2024-05-14, 07:14:36](https://news.ycombinator.com/item?id=40352472) - [The Flaw of Averages (2020)](https://causal.app/blog/forecasting-with-uncertainty)
 * [2024-05-14, 07:05:38](https://news.ycombinator.com/item?id=40352426) - [Using ARG in a Dockerfile – beware the gotcha](https://qmacro.org/blog/posts/2024/05/13/using-arg-in-a-dockerfile-beware-the-gotcha/)
 * [2024-05-14, 06:42:52](https://news.ycombinator.com/item?id=40352295) - [DFS Channels in 5 GHz](https://www.wiisfi.com/#DFS)
 * [2024-05-14, 06:25:04](https://news.ycombinator.com/item?id=40352204) - [Claude is now available in Europe](https://www.anthropic.com/news/claude-europe)
