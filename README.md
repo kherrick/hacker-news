@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-15, 20:03:45](https://news.ycombinator.com/item?id=40371683) - [Haiku Activity and Contract Report, April 2024](https://www.haiku-os.org/blog/waddlesplash/2024-05-14-haiku_activity_contract_report_april_2024/)
 * [2024-05-15, 19:39:28](https://news.ycombinator.com/item?id=40371401) - [Project Gameface Launches on Android](https://developers.googleblog.com/en/project-gameface-launches-on-android/)
 * [2024-05-15, 19:24:47](https://news.ycombinator.com/item?id=40371237) - [PaliGemma: Open-Source Multimodal Model by Google](https://blog.roboflow.com/paligemma-multimodal-vision/)
 * [2024-05-15, 18:29:36](https://news.ycombinator.com/item?id=40370613) - [An Empirical Evaluation of Columnar Storage Formats [pdf]](https://www.vldb.org/pvldb/vol17/p148-zeng.pdf)
@@ -9,7 +10,6 @@
 * [2024-05-15, 16:46:15](https://news.ycombinator.com/item?id=40369319) - [Show HN: Tarsier – Vision utilities for web interaction agents](https://github.com/reworkd/tarsier)
 * [2024-05-15, 16:40:30](https://news.ycombinator.com/item?id=40369226) - [Three of the oldest stars in the universe found circling the Milky Way](https://news.mit.edu/2024/mit-researchers-discover-universes-oldest-stars-in-galactic-backyard-0514)
 * [2024-05-15, 16:24:03](https://news.ycombinator.com/item?id=40369021) - [Dragonfly: An optical telescope built from an array of off-the-shelf Canon lens](https://www.dunlap.utoronto.ca/instrumentation/dragonfly/)
-* [2024-05-15, 16:05:02](https://news.ycombinator.com/item?id=40368760) - [Viking 7B: open LLM for the Nordic languages trained on AMD GPUs](https://www.silo.ai//blog/viking-7b-the-first-open-llm-for-the-nordic-languages)
 * [2024-05-15, 15:48:39](https://news.ycombinator.com/item?id=40368509) - [Brain biopsies on 'vulnerable' patients at Mt Sinai set off alarm bells at FDA](https://www.statnews.com/2024/05/01/brain-biopsies-mount-sinai-fda-review/)
 * [2024-05-15, 15:12:15](https://news.ycombinator.com/item?id=40368016) - [Adobe Photoshop Source Code (2013)](https://computerhistory.org/blog/adobe-photoshop-source-code/)
 * [2024-05-15, 15:11:20](https://news.ycombinator.com/item?id=40368008) - [Show HN: I wrote a symmetry game with a daily puzzle](https://www.hidden-mirrors.com)
@@ -22,7 +22,7 @@
 * [2024-05-15, 12:32:14](https://news.ycombinator.com/item?id=40366062) - [Raspberry Pi Ltd is considering an IPO](https://www.londonstockexchange.com/news-article/market-news/expected-intention-to-float/16470316)
 * [2024-05-15, 10:50:33](https://news.ycombinator.com/item?id=40365198) - [Oracle dumps Terraform for OpenTofu](https://www.thestack.technology/oracle-dumps-terraform-for-opentofu/)
 * [2024-05-15, 06:32:18](https://news.ycombinator.com/item?id=40363744) - [Translation of Rust's core and alloc crates to Coq for formal verification](https://formal.land/blog/2024/04/26/translation-core-alloc-crates)
-* [2024-05-15, 06:24:02](https://news.ycombinator.com/item?id=40363704) - [A low budget consumer hardware espionage implant: a GSM device hidden in (2018)](https://ha.cking.ch/s8_data_line_locator/)
+* [2024-05-15, 06:24:02](https://news.ycombinator.com/item?id=40363704) - [A low budget consumer hardware espionage implant (2018)](https://ha.cking.ch/s8_data_line_locator/)
 * [2024-05-14, 17:58:26](https://news.ycombinator.com/item?id=40358041) - [Veo](https://deepmind.google/technologies/veo/)
 * [2024-05-14, 11:10:17](https://news.ycombinator.com/item?id=40353874) - [A Tale of Two Sieves (1996) [pdf]](https://www.ams.org/notices/199612/pomerance.pdf)
 * [2024-05-14, 11:06:07](https://news.ycombinator.com/item?id=40353842) - [Ancient Eastern European mega-sites: a social levelling concept?](https://www.cambridge.org/core/journals/antiquity/article/trypillia-megasites-a-social-levelling-concept/A0048EA63DA8D0B00A513BFD7C24A679)
