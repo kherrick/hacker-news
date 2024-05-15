@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-15, 23:15:17](https://news.ycombinator.com/item?id=40373498) - [Hysata electrolyzers produce cheapest hydrogen at 95% efficiency](https://hysata.com/news/hysata-announces-111m-usd-series-b-investment-round/)
+* [2024-05-15, 23:41:30](https://news.ycombinator.com/item?id=40373653) - [Ask HN: Are you still using your Vision Pro?](https://news.ycombinator.com/item?id=40373653)
+* [2024-05-15, 23:36:59](https://news.ycombinator.com/item?id=40373630) - [Lessons learned as a recruiter hiring developers the last decade](https://www.andrewstetsenko.com/lessons-learnt-as-a-tech-recruiter/)
 * [2024-05-15, 22:59:26](https://news.ycombinator.com/item?id=40373382) - [Doctor cancer free after novel glioblastoma self-treatment](https://nypost.com/2024/05/15/lifestyle/australian-doctor-richard-scolyer-cancer-free-year-after-terminal-diagnosis/)
 * [2024-05-15, 21:02:50](https://news.ycombinator.com/item?id=40372317) - [SSD death, tricky read-only filesystems, and systemd magic?](https://rachelbythebay.com/w/2024/05/15/ro/)
 * [2024-05-15, 21:02:30](https://news.ycombinator.com/item?id=40372315) - [Qualcomm's Oryon LLVM Patches](https://chipsandcheese.com/2024/05/15/qualcomms-oryon-llvm-patches/)
@@ -22,7 +23,6 @@
 * [2024-05-15, 14:22:05](https://news.ycombinator.com/item?id=40367331) - [Apple announces new accessibility features, including Eye Tracking](https://www.apple.com/newsroom/2024/05/apple-announces-new-accessibility-features-including-eye-tracking/)
 * [2024-05-15, 14:02:35](https://news.ycombinator.com/item?id=40367090) - [Show HN: Open-source BI and analytics for engineers](https://github.com/quarylabs/quary)
 * [2024-05-15, 13:11:08](https://news.ycombinator.com/item?id=40366443) - [Proteins in blood could provide early cancer warning 'by more than seven years'](https://www.theguardian.com/society/article/2024/may/15/proteins-blood-cancer-warning-seven-years-study)
-* [2024-05-15, 12:58:46](https://news.ycombinator.com/item?id=40366323) - [I coded something dumb and I'm proud of it](https://plbrault.com/blog-posts/i-coded-something-dumb-and-im-proud-of-it-en/)
 * [2024-05-15, 12:32:14](https://news.ycombinator.com/item?id=40366062) - [Raspberry Pi Ltd is considering an IPO](https://www.londonstockexchange.com/news-article/market-news/expected-intention-to-float/16470316)
 * [2024-05-14, 17:58:26](https://news.ycombinator.com/item?id=40358041) - [Veo](https://deepmind.google/technologies/veo/)
 * [2024-05-14, 11:10:17](https://news.ycombinator.com/item?id=40353874) - [A Tale of Two Sieves (1996) [pdf]](https://www.ams.org/notices/199612/pomerance.pdf)
