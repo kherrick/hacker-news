@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-15, 11:47:15](https://news.ycombinator.com/item?id=40365619) - [Tim Cook is running out of ideas](https://www.businessinsider.com/apple-tim-cook-running-out-of-ideas-iphone-ipad-sales-2024-5)
+* [2024-05-15, 12:13:58](https://news.ycombinator.com/item?id=40365882) - [Fastest rate of natural carbon dioxide rise over the last 50k years](https://today.oregonstate.edu/news/researchers-identify-fastest-rate-natural-carbon-dioxide-rise-over-last-50000-years)
+* [2024-05-15, 10:55:46](https://news.ycombinator.com/item?id=40365226) - [Boeing Emails Handed over to Congress in January 2020](https://archive.org/details/boeingemailsocr)
 * [2024-05-15, 10:50:33](https://news.ycombinator.com/item?id=40365198) - [Oracle goes vegan: Dumps Terraform for OpenTofu](https://www.thestack.technology/oracle-dumps-terraform-for-opentofu/)
 * [2024-05-15, 10:42:03](https://news.ycombinator.com/item?id=40365153) - [Gaussian Blue Noise](https://arxiv.org/abs/2206.07798)
-* [2024-05-15, 10:33:09](https://news.ycombinator.com/item?id=40365126) - [Dell leak details next-gen Windows on Arm chips](https://www.theverge.com/2024/5/15/24157120/dell-windows-on-arm-leak-qualcomm-chips-battery-life)
 * [2024-05-15, 08:52:59](https://news.ycombinator.com/item?id=40364604) - [Abstract Interpretation as a Programming Language](https://arxiv.org/abs/1309.5133)
 * [2024-05-15, 07:01:16](https://news.ycombinator.com/item?id=40363911) - [Great Question (YC W21) Is Hiring Product Engineers (Rails/React)](https://www.ycombinator.com/companies/great-question/jobs/WIk0wNz-product-engineer-rails-react)
 * [2024-05-15, 06:32:18](https://news.ycombinator.com/item?id=40363744) - [Translation of the Rust's core and alloc crates to Coq for formal verification](https://formal.land/blog/2024/04/26/translation-core-alloc-crates)
