@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-15](index.md)
 
+* [2024-05-15, 20:11:55](https://news.ycombinator.com/item?id=40371785) - [A 'plague' comes before the fall: lessons from Roman history](https://thebulletin.org/2024/05/a-plague-comes-before-the-fall-lessons-from-roman-history/)
 * [2024-05-15, 20:03:45](https://news.ycombinator.com/item?id=40371683) - [Haiku Activity and Contract Report, April 2024](https://www.haiku-os.org/blog/waddlesplash/2024-05-14-haiku_activity_contract_report_april_2024/)
+* [2024-05-15, 19:55:24](https://news.ycombinator.com/item?id=40371595) - [Stop Using Discord](https://usemumble.neocities.org/)
 * [2024-05-15, 19:39:28](https://news.ycombinator.com/item?id=40371401) - [Project Gameface Launches on Android](https://developers.googleblog.com/en/project-gameface-launches-on-android/)
 * [2024-05-15, 19:24:47](https://news.ycombinator.com/item?id=40371237) - [PaliGemma: Open-Source Multimodal Model by Google](https://blog.roboflow.com/paligemma-multimodal-vision/)
 * [2024-05-15, 18:47:41](https://news.ycombinator.com/item?id=40370816) - [I'm leaving OpenAI after 3½ yrs](https://twitter.com/E0M/status/1790814866695143696)
