@@ -26,8 +26,8 @@
 * [2024-05-14, 12:19:39](https://news.ycombinator.com/item?id=40354381) - [IBM and the Transformation of Corporate Design](https://computerhistory.org/blog/ibm-and-the-transformation-of-corporate-design/)
 * [2024-05-14, 11:46:17](https://news.ycombinator.com/item?id=40354130) - [New gel breaks down alcohol in the body](https://ethz.ch/en/news-and-events/eth-news/news/2024/05/press-release-new-gel-breaks-down-alcohol-in-the-body.html)
 * [2024-05-14, 10:15:13](https://news.ycombinator.com/item?id=40353529) - [Researchers find high levels of lead, mercury and arsenic in Beethoven's hair](https://www.smithsonianmag.com/smart-news/locks-of-beethovens-hair-are-unraveling-the-mysteries-of-his-deafness-and-illnesses-180984332/)
+* [2024-05-14, 07:51:04](https://news.ycombinator.com/item?id=40352656) - [OpenBSD – Demise of Nagle's Algorithm (RFC 896 – Congestion Control) Predicted](https://www.undeadly.org/cgi?action=article;sid=20240514075024)
 * [2024-05-13, 21:54:06](https://news.ycombinator.com/item?id=40348947) - [GPT-4o's Memory Breakthrough – Needle in a Needlestack](http://nian.llmonpy.ai/)
-* [2024-05-13, 11:41:11](https://news.ycombinator.com/item?id=40342105) - [Prolog and Natural-Language Analysis (1987) [pdf]](http://www.mtome.com/Publications/PNLA/prolog-digital.pdf)
 * [2024-05-13, 11:36:10](https://news.ycombinator.com/item?id=40342057) - [How did authorities identify the alleged LockBit boss?](https://krebsonsecurity.com/2024/05/how-did-authorities-identify-the-alleged-lockbit-boss/)
 * [2024-05-13, 06:11:38](https://news.ycombinator.com/item?id=40340248) - [Exploring GNU extensions in the Linux kernel](https://maskray.me/blog/2024-05-12-exploring-gnu-extensions-in-linux-kernel)
 
