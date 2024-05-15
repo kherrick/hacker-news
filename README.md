@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-15, 16:50:24](https://news.ycombinator.com/item?id=40369371) - [CPI for all items rises 3.6%; shelter and gasoline up](https://www.bls.gov/news.release/archives/cpi_05152024.htm)
 * [2024-05-15, 16:32:08](https://news.ycombinator.com/item?id=40369119) - [Starting emails with \"BEGIN PGP MESSAGE\" will fool the filter](https://nondeterministic.computer/@martin/112444389342113780)
+* [2024-05-15, 16:29:47](https://news.ycombinator.com/item?id=40369084) - [Reasons not to take Lumina's anticavity probiotic](https://trevorklee.substack.com/p/please-dont-take-luminas-anticavity)
 * [2024-05-15, 16:05:02](https://news.ycombinator.com/item?id=40368760) - [Viking 7B: open LLM for the Nordic languages trained on AMD GPUs](https://www.silo.ai//blog/viking-7b-the-first-open-llm-for-the-nordic-languages)
-* [2024-05-15, 16:02:16](https://news.ycombinator.com/item?id=40368710) - [Swiss vs. American Parenting: Differences According to a US Mom](https://www.businessinsider.com/swiss-vs-american-parenting-differences-independence-freedom-culture-shock-2024-5)
 * [2024-05-15, 15:12:15](https://news.ycombinator.com/item?id=40368016) - [Adobe Photoshop Source Code (2013)](https://computerhistory.org/blog/adobe-photoshop-source-code/)
 * [2024-05-15, 15:11:20](https://news.ycombinator.com/item?id=40368008) - [Show HN: I wrote a symmetry game with a daily puzzle](https://www.hidden-mirrors.com)
 * [2024-05-15, 14:52:37](https://news.ycombinator.com/item?id=40367743) - [I'm Sticking with Native iOS Development](https://riveralabs.com/posts/native_ios_development/)
@@ -25,7 +26,6 @@
 * [2024-05-15, 01:25:44](https://news.ycombinator.com/item?id=40362105) - [Strangely Curved Shapes Break 50-Year-Old Geometry Conjecture](https://www.quantamagazine.org/strangely-curved-shapes-break-50-year-old-geometry-conjecture-20240514/)
 * [2024-05-14, 23:01:26](https://news.ycombinator.com/item?id=40361128) - [Ilya Sutskever to leave OpenAI](https://twitter.com/ilyasut/status/1790517455628198322)
 * [2024-05-14, 17:58:26](https://news.ycombinator.com/item?id=40358041) - [Veo](https://deepmind.google/technologies/veo/)
-* [2024-05-14, 11:06:07](https://news.ycombinator.com/item?id=40353842) - [Ancient Eastern European mega-sites: a social levelling concept?](https://www.cambridge.org/core/journals/antiquity/article/trypillia-megasites-a-social-levelling-concept/A0048EA63DA8D0B00A513BFD7C24A679)
 * [2024-05-14, 10:42:03](https://news.ycombinator.com/item?id=40353694) - [Speculating the entire x86-64 instruction set in seconds (2021)](https://blog.can.ac/2021/03/22/speculating-x86-64-isa-with-one-weird-trick/)
 * [2024-05-14, 10:27:32](https://news.ycombinator.com/item?id=40353605) - [HBase Deprecation at Pinterest](https://medium.com/pinterest-engineering/hbase-deprecation-at-pinterest-8a99e6c8e6b7)
 * [2024-05-14, 07:14:36](https://news.ycombinator.com/item?id=40352472) - [The Flaw of Averages (2020)](https://causal.app/blog/forecasting-with-uncertainty)

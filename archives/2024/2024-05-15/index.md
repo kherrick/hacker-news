@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-15](index.md)
 
+* [2024-05-15, 16:50:24](https://news.ycombinator.com/item?id=40369371) - [CPI for all items rises 3.6%; shelter and gasoline up](https://www.bls.gov/news.release/archives/cpi_05152024.htm)
 * [2024-05-15, 16:32:08](https://news.ycombinator.com/item?id=40369119) - [Starting emails with \"BEGIN PGP MESSAGE\" will fool the filter](https://nondeterministic.computer/@martin/112444389342113780)
+* [2024-05-15, 16:29:47](https://news.ycombinator.com/item?id=40369084) - [Reasons not to take Lumina's anticavity probiotic](https://trevorklee.substack.com/p/please-dont-take-luminas-anticavity)
 * [2024-05-15, 16:05:02](https://news.ycombinator.com/item?id=40368760) - [Viking 7B: open LLM for the Nordic languages trained on AMD GPUs](https://www.silo.ai//blog/viking-7b-the-first-open-llm-for-the-nordic-languages)
 * [2024-05-15, 16:02:16](https://news.ycombinator.com/item?id=40368710) - [Swiss vs. American Parenting: Differences According to a US Mom](https://www.businessinsider.com/swiss-vs-american-parenting-differences-independence-freedom-culture-shock-2024-5)
 * [2024-05-15, 15:44:01](https://news.ycombinator.com/item?id=40368439) - [Apple says the majority of Mac users also own an iPad](https://9to5mac.com/2024/05/15/majority-of-mac-users-also-own-ipad/)
