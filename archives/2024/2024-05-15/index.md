@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-05-15](index.md)
 
+* [2024-05-15, 14:45:30](https://news.ycombinator.com/item?id=40367642) - [The Beginning of the End of Private Cars in American Cities](https://thenewurbanorder.substack.com/p/the-beginning-of-the-end-of-private)
 * [2024-05-15, 14:08:05](https://news.ycombinator.com/item?id=40367160) - [Jan Leike Resigns from OpenAI](https://twitter.com/janleike/status/1790603862132596961)
 * [2024-05-15, 13:52:19](https://news.ycombinator.com/item?id=40366962) - [The Worst Website in the Entire World](https://matduggan.com/the-worst-website-in-the-entire-world/)
 * [2024-05-15, 13:43:36](https://news.ycombinator.com/item?id=40366867) - [What went wrong with UniSuper and Google Cloud?](https://danielcompton.net/google-cloud-unisuper)
 * [2024-05-15, 13:33:47](https://news.ycombinator.com/item?id=40366722) - [Downranking won't stop Google's deepfake porn problem, victims say](https://arstechnica.com/tech-policy/2024/05/downranking-wont-stop-googles-deepfake-porn-problem-victims-say/)
+* [2024-05-15, 13:24:02](https://news.ycombinator.com/item?id=40366602) - [Accidentally breaking GitHub Actions with a shorthash collision](https://blog.teddykatz.com/2019/11/12/github-actions-dos.html)
 * [2024-05-15, 13:13:23](https://news.ycombinator.com/item?id=40366474) - [The Volvo VNL, a heavy truck purpose-designed for North American roads](https://arstechnica.com/cars/2024/05/heres-how-volvo-is-making-its-long-haul-trucks-safer-more-efficient/)
 * [2024-05-15, 13:11:08](https://news.ycombinator.com/item?id=40366443) - [Proteins in blood could provide early cancer warning 'by more than seven years'](https://www.theguardian.com/society/article/2024/may/15/proteins-blood-cancer-warning-seven-years-study)
 * [2024-05-15, 12:58:46](https://news.ycombinator.com/item?id=40366323) - [I Coded Something Dumb and I'm Proud of It](https://plbrault.com/blog-posts/i-coded-something-dumb-and-im-proud-of-it-en/)

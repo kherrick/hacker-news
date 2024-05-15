@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-15, 14:45:30](https://news.ycombinator.com/item?id=40367642) - [The Beginning of the End of Private Cars in American Cities](https://thenewurbanorder.substack.com/p/the-beginning-of-the-end-of-private)
 * [2024-05-15, 14:08:05](https://news.ycombinator.com/item?id=40367160) - [Jan Leike Resigns from OpenAI](https://twitter.com/janleike/status/1790603862132596961)
 * [2024-05-15, 13:52:19](https://news.ycombinator.com/item?id=40366962) - [The Worst Website in the Entire World](https://matduggan.com/the-worst-website-in-the-entire-world/)
 * [2024-05-15, 13:43:36](https://news.ycombinator.com/item?id=40366867) - [What went wrong with UniSuper and Google Cloud?](https://danielcompton.net/google-cloud-unisuper)
+* [2024-05-15, 13:24:02](https://news.ycombinator.com/item?id=40366602) - [Accidentally breaking GitHub Actions with a shorthash collision](https://blog.teddykatz.com/2019/11/12/github-actions-dos.html)
 * [2024-05-15, 13:13:23](https://news.ycombinator.com/item?id=40366474) - [The Volvo VNL, a heavy truck purpose-designed for North American roads](https://arstechnica.com/cars/2024/05/heres-how-volvo-is-making-its-long-haul-trucks-safer-more-efficient/)
 * [2024-05-15, 13:11:08](https://news.ycombinator.com/item?id=40366443) - [Proteins in blood could provide early cancer warning 'by more than seven years'](https://www.theguardian.com/society/article/2024/may/15/proteins-blood-cancer-warning-seven-years-study)
 * [2024-05-15, 12:58:46](https://news.ycombinator.com/item?id=40366323) - [I Coded Something Dumb and I'm Proud of It](https://plbrault.com/blog-posts/i-coded-something-dumb-and-im-proud-of-it-en/)
@@ -26,8 +28,6 @@
 * [2024-05-14, 11:06:07](https://news.ycombinator.com/item?id=40353842) - [Ancient Eastern European mega-sites: a social levelling concept?](https://www.cambridge.org/core/journals/antiquity/article/trypillia-megasites-a-social-levelling-concept/A0048EA63DA8D0B00A513BFD7C24A679)
 * [2024-05-14, 10:42:03](https://news.ycombinator.com/item?id=40353694) - [Speculating the entire x86-64 instruction set in seconds (2021)](https://blog.can.ac/2021/03/22/speculating-x86-64-isa-with-one-weird-trick/)
 * [2024-05-14, 10:27:32](https://news.ycombinator.com/item?id=40353605) - [HBase Deprecation at Pinterest](https://medium.com/pinterest-engineering/hbase-deprecation-at-pinterest-8a99e6c8e6b7)
-* [2024-05-14, 10:21:15](https://news.ycombinator.com/item?id=40353557) - [Branded Types for TypeScript](https://www.carlos-menezes.com/post/branded-types)
-* [2024-05-14, 10:15:13](https://news.ycombinator.com/item?id=40353529) - [Researchers find high levels of lead, mercury and arsenic in Beethoven's hair](https://www.smithsonianmag.com/smart-news/locks-of-beethovens-hair-are-unraveling-the-mysteries-of-his-deafness-and-illnesses-180984332/)
 * [2024-05-14, 07:14:36](https://news.ycombinator.com/item?id=40352472) - [The Flaw of Averages (2020)](https://causal.app/blog/forecasting-with-uncertainty)
 * [2024-05-13, 11:36:10](https://news.ycombinator.com/item?id=40342057) - [How did authorities identify the alleged LockBit boss?](https://krebsonsecurity.com/2024/05/how-did-authorities-identify-the-alleged-lockbit-boss/)
 
