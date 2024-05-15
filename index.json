@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-05-15, 14:45:30",
-      "https://news.ycombinator.com/item?id=40367642"
+      "2024-05-15, 15:12:15",
+      "https://news.ycombinator.com/item?id=40368016"
     ],
     [
-      "The Beginning of the End of Private Cars in American Cities",
-      "https://thenewurbanorder.substack.com/p/the-beginning-of-the-end-of-private"
+      "Adobe Photoshop Source Code",
+      "https://computerhistory.org/blog/adobe-photoshop-source-code/"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "Jan Leike Resigns from OpenAI",
       "https://twitter.com/janleike/status/1790603862132596961"
+    ]
+  ],
+  [
+    [
+      "2024-05-15, 14:02:35",
+      "https://news.ycombinator.com/item?id=40367090"
+    ],
+    [
+      "Show HN: Open-source BI and analytics for engineers",
+      "https://github.com/quarylabs/quary"
     ]
   ],
   [
@@ -201,32 +211,12 @@
   ],
   [
     [
-      "2024-05-15, 04:20:18",
-      "https://news.ycombinator.com/item?id=40363069"
-    ],
-    [
-      "Department of Justice says Boeing may be criminally liable in 737 MAX crashes",
-      "https://www.usatoday.com/story/money/2024/05/14/boeing-department-of-justice-criminal-liability/73692655007/"
-    ]
-  ],
-  [
-    [
       "2024-05-15, 02:24:03",
       "https://news.ycombinator.com/item?id=40362449"
     ],
     [
       "URLhaus: A database of malicious URLs used for malware distribution",
       "https://urlhaus.abuse.ch/"
-    ]
-  ],
-  [
-    [
-      "2024-05-15, 01:25:44",
-      "https://news.ycombinator.com/item?id=40362105"
-    ],
-    [
-      "Strangely Curved Shapes Break 50-Year-Old Geometry Conjecture",
-      "https://www.quantamagazine.org/strangely-curved-shapes-break-50-year-old-geometry-conjecture-20240514/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Speculating the entire x86-64 instruction set in seconds (2021)",
       "https://blog.can.ac/2021/03/22/speculating-x86-64-isa-with-one-weird-trick/"
+    ]
+  ],
+  [
+    [
+      "2024-05-14, 10:30:23",
+      "https://news.ycombinator.com/item?id=40353630"
+    ],
+    [
+      "Prague Astronomical Clock Simulator (2022)",
+      "https://github.com/kshetline/prague-clock"
     ]
   ],
   [
