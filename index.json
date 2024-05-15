@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-15, 21:35:48",
+      "https://news.ycombinator.com/item?id=40372686"
+    ],
+    [
+      "Plane, open-source Jira alternative, got to 100K+ Docker and 44K+ K8s deploys",
+      "https://plane.so/blog/streamlining-self-hosting-managing-100k-docker-44000-kubernetes-deploys-ease"
+    ]
+  ],
+  [
+    [
       "2024-05-15, 21:02:50",
       "https://news.ycombinator.com/item?id=40372317"
     ],
@@ -141,6 +151,16 @@
   ],
   [
     [
+      "2024-05-15, 15:48:39",
+      "https://news.ycombinator.com/item?id=40368509"
+    ],
+    [
+      "Brain biopsies on 'vulnerable' patients at Mt Sinai set off alarm bells at FDA",
+      "https://www.statnews.com/2024/05/01/brain-biopsies-mount-sinai-fda-review/"
+    ]
+  ],
+  [
+    [
       "2024-05-15, 15:12:15",
       "https://news.ycombinator.com/item?id=40368016"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-05-15, 12:58:46",
-      "https://news.ycombinator.com/item?id=40366323"
-    ],
-    [
-      "I coded something dumb and I'm proud of it",
-      "https://plbrault.com/blog-posts/i-coded-something-dumb-and-im-proud-of-it-en/"
-    ]
-  ],
-  [
-    [
       "2024-05-15, 12:48:19",
       "https://news.ycombinator.com/item?id=40366204"
     ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2024-05-15, 06:32:18",
-      "https://news.ycombinator.com/item?id=40363744"
-    ],
-    [
-      "Translation of Rust's core and alloc crates to Coq for formal verification",
-      "https://formal.land/blog/2024/04/26/translation-core-alloc-crates"
-    ]
-  ],
-  [
-    [
       "2024-05-15, 06:24:02",
       "https://news.ycombinator.com/item?id=40363704"
     ],
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2024-05-14, 12:21:42",
-      "https://news.ycombinator.com/item?id=40354407"
+      "2024-05-14, 17:58:26",
+      "https://news.ycombinator.com/item?id=40358041"
     ],
     [
-      "Bossware is a big legal risk",
-      "https://www.kolide.com/blog/your-company-s-bossware-could-get-you-in-legal-trouble"
+      "Veo",
+      "https://deepmind.google/technologies/veo/"
     ]
   ],
   [
