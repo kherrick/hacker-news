@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-15, 04:20:18",
+      "https://news.ycombinator.com/item?id=40363069"
+    ],
+    [
+      "Department of Justice says Boeing may be criminally liable in 737 MAX crashes",
+      "https://www.usatoday.com/story/money/2024/05/14/boeing-department-of-justice-criminal-liability/73692655007/"
+    ]
+  ],
+  [
+    [
       "2024-05-15, 04:03:40",
       "https://news.ycombinator.com/item?id=40362992"
     ],
@@ -27,16 +37,6 @@
     [
       "Parking reform legalized most of the new homes in Buffalo and Seattle (2023)",
       "https://www.sightline.org/2023/04/13/parking-reform-legalized-most-of-the-new-homes-in-buffalo-and-seattle/"
-    ]
-  ],
-  [
-    [
-      "2024-05-15, 02:31:25",
-      "https://news.ycombinator.com/item?id=40362490"
-    ],
-    [
-      "Romance author gets locked out of Google Docs for \"inappropriate\" content",
-      "https://www.dexerto.com/tech/romance-author-gets-locked-out-of-google-docs-for-inappropriate-content-2713004/"
     ]
   ],
   [
@@ -87,16 +87,6 @@
     [
       "Muse Retrospective",
       "https://adamwiggins.com/muse-retrospective/"
-    ]
-  ],
-  [
-    [
-      "2024-05-14, 20:37:22",
-      "https://news.ycombinator.com/item?id=40359886"
-    ],
-    [
-      "Higher RAII and the seven arcane uses of linear types",
-      "https://verdagon.dev/blog/higher-raii-uses-linear-types"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "GPT-4o's Memory Breakthrough – Needle in a Needlestack",
       "http://nian.llmonpy.ai/"
+    ]
+  ],
+  [
+    [
+      "2024-05-13, 11:36:40",
+      "https://news.ycombinator.com/item?id=40342062"
+    ],
+    [
+      "The power of interoperability: Why objects are inevitable (2013) [pdf]",
+      "https://www.cs.cmu.edu/~aldrich/papers/objects-essay.pdf"
     ]
   ],
   [
