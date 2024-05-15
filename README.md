@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-15, 04:34:18](https://news.ycombinator.com/item?id=40363135) - [AI is the reason interviews are harder now](https://www.softwaredesign.ing/blog/ai-is-the-reason-interviews-are-harder-now)
 * [2024-05-15, 04:20:18](https://news.ycombinator.com/item?id=40363069) - [Department of Justice says Boeing may be criminally liable in 737 MAX crashes](https://www.usatoday.com/story/money/2024/05/14/boeing-department-of-justice-criminal-liability/73692655007/)
 * [2024-05-15, 04:03:40](https://news.ycombinator.com/item?id=40362992) - [Parseback: A pure-Lua introspection library for LuaJIT's FFI ctype objects](https://github.com/javierguerragiraldez/parseback)
 * [2024-05-15, 03:37:46](https://news.ycombinator.com/item?id=40362848) - [Air Quality Monitors Compared: AirGradient vs. Purple Air](https://www.airgradient.com/blog/airgradient-vs-purple-air/)
@@ -9,7 +10,6 @@
 * [2024-05-14, 23:01:26](https://news.ycombinator.com/item?id=40361128) - [Ilya Sutskever to leave OpenAI](https://twitter.com/ilyasut/status/1790517455628198322)
 * [2024-05-14, 20:46:49](https://news.ycombinator.com/item?id=40359976) - [Stone with ancient writing system unearthed in garden](https://www.bbc.co.uk/news/articles/c14kywyk0vro)
 * [2024-05-14, 20:38:10](https://news.ycombinator.com/item?id=40359893) - [Muse Retrospective](https://adamwiggins.com/muse-retrospective/)
-* [2024-05-14, 19:38:41](https://news.ycombinator.com/item?id=40359250) - ['Shake' Design Documents](https://digitalcomposting.wordpress.com/2024/05/14/shake-design-documents/)
 * [2024-05-14, 19:24:02](https://news.ycombinator.com/item?id=40359086) - [One malicious car could trick smart traffic control systems in the US](https://www.bleepingcomputer.com/news/technology/one-single-malicious-vehicle-can-block-smart-street-intersections-in-the-us/)
 * [2024-05-14, 18:40:50](https://news.ycombinator.com/item?id=40358588) - [The new APT 3.0 solver](https://blog.jak-linux.org/2024/05/14/solver3/)
 * [2024-05-14, 18:30:21](https://news.ycombinator.com/item?id=40358461) - [PaliGemma](https://ai.google.dev/gemma/docs/paligemma)
