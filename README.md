@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-15, 19:39:28](https://news.ycombinator.com/item?id=40371401) - [Project Gameface Launches on Android](https://developers.googleblog.com/en/project-gameface-launches-on-android/)
 * [2024-05-15, 19:24:47](https://news.ycombinator.com/item?id=40371237) - [PaliGemma: Open-Source Multimodal Model by Google](https://blog.roboflow.com/paligemma-multimodal-vision/)
 * [2024-05-15, 18:29:36](https://news.ycombinator.com/item?id=40370613) - [An Empirical Evaluation of Columnar Storage Formats [pdf]](https://www.vldb.org/pvldb/vol17/p148-zeng.pdf)
 * [2024-05-15, 17:12:05](https://news.ycombinator.com/item?id=40369668) - [Google Blog: Android's theft protection features keep your device and data safe](https://blog.google/products/android/android-theft-protection/)
@@ -20,7 +21,6 @@
 * [2024-05-15, 12:48:19](https://news.ycombinator.com/item?id=40366204) - [Nearly all Nintendo 64 games can now be recompiled into native PC ports](https://www.tomshardware.com/video-games/nearly-all-nintendo-64-games-can-now-be-recompiled-into-native-pc-ports-to-add-proper-ray-tracing-ultrawide-high-fps-and-more)
 * [2024-05-15, 12:32:14](https://news.ycombinator.com/item?id=40366062) - [Raspberry Pi Ltd is considering an IPO](https://www.londonstockexchange.com/news-article/market-news/expected-intention-to-float/16470316)
 * [2024-05-15, 10:50:33](https://news.ycombinator.com/item?id=40365198) - [Oracle dumps Terraform for OpenTofu](https://www.thestack.technology/oracle-dumps-terraform-for-opentofu/)
-* [2024-05-15, 08:52:59](https://news.ycombinator.com/item?id=40364604) - [Abstract Interpretation as a Programming Language](https://arxiv.org/abs/1309.5133)
 * [2024-05-15, 06:32:18](https://news.ycombinator.com/item?id=40363744) - [Translation of Rust's core and alloc crates to Coq for formal verification](https://formal.land/blog/2024/04/26/translation-core-alloc-crates)
 * [2024-05-15, 06:24:02](https://news.ycombinator.com/item?id=40363704) - [A low budget consumer hardware espionage implant: a GSM device hidden in (2018)](https://ha.cking.ch/s8_data_line_locator/)
 * [2024-05-14, 17:58:26](https://news.ycombinator.com/item?id=40358041) - [Veo](https://deepmind.google/technologies/veo/)
