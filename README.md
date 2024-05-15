@@ -4,6 +4,7 @@
 * [2024-05-15, 17:00:50](https://news.ycombinator.com/item?id=40369524) - [Ashby (YC W19) Is Hiring Technical EMs Who Love Coaching](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a)
 * [2024-05-15, 16:46:15](https://news.ycombinator.com/item?id=40369319) - [Show HN: Tarsier – vision for text-only LLM web agents that beats GPT-4o](https://github.com/reworkd/tarsier)
 * [2024-05-15, 16:42:49](https://news.ycombinator.com/item?id=40369258) - [Google opens up its smart home to everyone and will make Google TVs home hubs](https://www.theverge.com/2024/5/15/24157154/google-home-api-matter-smart-home-chromecast-google-tv)
+* [2024-05-15, 16:40:30](https://news.ycombinator.com/item?id=40369226) - [Three of the Oldest Stars in the Universe Found Circling the Milky Way](https://news.mit.edu/2024/mit-researchers-discover-universes-oldest-stars-in-galactic-backyard-0514)
 * [2024-05-15, 16:29:47](https://news.ycombinator.com/item?id=40369084) - [Reasons not to take Lumina's anticavity probiotic](https://trevorklee.substack.com/p/please-dont-take-luminas-anticavity)
 * [2024-05-15, 16:24:03](https://news.ycombinator.com/item?id=40369021) - [Dragonfly: An optical telescope built from an array of off-the-shelf Canon lense](https://www.dunlap.utoronto.ca/instrumentation/dragonfly/)
 * [2024-05-15, 16:05:02](https://news.ycombinator.com/item?id=40368760) - [Viking 7B: open LLM for the Nordic languages trained on AMD GPUs](https://www.silo.ai//blog/viking-7b-the-first-open-llm-for-the-nordic-languages)
@@ -29,7 +30,6 @@
 * [2024-05-14, 10:21:15](https://news.ycombinator.com/item?id=40353557) - [Branded types for TypeScript](https://www.carlos-menezes.com/post/branded-types)
 * [2024-05-14, 07:14:36](https://news.ycombinator.com/item?id=40352472) - [The Flaw of Averages (2020)](https://causal.app/blog/forecasting-with-uncertainty)
 * [2024-05-13, 11:41:11](https://news.ycombinator.com/item?id=40342105) - [Prolog and Natural-Language Analysis (1987) [pdf]](http://www.mtome.com/Publications/PNLA/prolog-digital.pdf)
-* [2024-05-13, 11:36:10](https://news.ycombinator.com/item?id=40342057) - [How did authorities identify the alleged LockBit boss?](https://krebsonsecurity.com/2024/05/how-did-authorities-identify-the-alleged-lockbit-boss/)
 
 ## [Archives](archives/index.md)
 

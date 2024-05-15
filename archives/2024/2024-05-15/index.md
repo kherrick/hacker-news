@@ -11,6 +11,7 @@
 * [2024-05-15, 16:50:24](https://news.ycombinator.com/item?id=40369371) - [CPI for all items rises 3.6%; shelter and gasoline up](https://www.bls.gov/news.release/archives/cpi_05152024.htm)
 * [2024-05-15, 16:46:15](https://news.ycombinator.com/item?id=40369319) - [Show HN: Tarsier – vision for text-only LLM web agents that beats GPT-4o](https://github.com/reworkd/tarsier)
 * [2024-05-15, 16:42:49](https://news.ycombinator.com/item?id=40369258) - [Google opens up its smart home to everyone and will make Google TVs home hubs](https://www.theverge.com/2024/5/15/24157154/google-home-api-matter-smart-home-chromecast-google-tv)
+* [2024-05-15, 16:40:30](https://news.ycombinator.com/item?id=40369226) - [Three of the Oldest Stars in the Universe Found Circling the Milky Way](https://news.mit.edu/2024/mit-researchers-discover-universes-oldest-stars-in-galactic-backyard-0514)
 * [2024-05-15, 16:32:08](https://news.ycombinator.com/item?id=40369119) - [Starting emails with \"BEGIN PGP MESSAGE\" will fool the filter](https://nondeterministic.computer/@martin/112444389342113780)
 * [2024-05-15, 16:29:47](https://news.ycombinator.com/item?id=40369084) - [Reasons not to take Lumina's anticavity probiotic](https://trevorklee.substack.com/p/please-dont-take-luminas-anticavity)
 * [2024-05-15, 16:24:03](https://news.ycombinator.com/item?id=40369021) - [Dragonfly: An optical telescope built from an array of off-the-shelf Canon lense](https://www.dunlap.utoronto.ca/instrumentation/dragonfly/)
