@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-05-15](index.md)
 
+* [2024-05-15, 23:15:17](https://news.ycombinator.com/item?id=40373498) - [Hysata electrolyzers produce cheapest hydrogen at 95% efficiency](https://hysata.com/news/hysata-announces-111m-usd-series-b-investment-round/)
 * [2024-05-15, 21:35:48](https://news.ycombinator.com/item?id=40372686) - [Plane, open-source Jira alternative, got to 100K+ Docker and 44K+ K8s deploys](https://plane.so/blog/streamlining-self-hosting-managing-100k-docker-44000-kubernetes-deploys-ease)
 * [2024-05-15, 21:02:50](https://news.ycombinator.com/item?id=40372317) - [SSD death, tricky read-only filesystems, and systemd magic?](https://rachelbythebay.com/w/2024/05/15/ro/)
+* [2024-05-15, 21:02:30](https://news.ycombinator.com/item?id=40372315) - [Qualcomm's Oryon LLVM Patches](https://chipsandcheese.com/2024/05/15/qualcomms-oryon-llvm-patches/)
 * [2024-05-15, 21:00:02](https://news.ycombinator.com/item?id=40372296) - [Making a Postgres query 1k times faster](https://mattermost.com/blog/making-a-postgres-query-1000-times-faster/)
 * [2024-05-15, 20:56:06](https://news.ycombinator.com/item?id=40372253) - [Google Blog: things we announced at I/O 2024](https://blog.google/technology/ai/google-io-2024-100-announcements/)
+* [2024-05-15, 20:36:39](https://news.ycombinator.com/item?id=40372071) - [It's 2024 and drought is optional](https://asteriskmag.com/issues/06/its-2024-and-drought-is-optional)
 * [2024-05-15, 20:11:55](https://news.ycombinator.com/item?id=40371785) - [A 'plague' comes before the fall: lessons from Roman history](https://thebulletin.org/2024/05/a-plague-comes-before-the-fall-lessons-from-roman-history/)
 * [2024-05-15, 20:03:45](https://news.ycombinator.com/item?id=40371683) - [Haiku Activity and Contract Report, April 2024](https://www.haiku-os.org/blog/waddlesplash/2024-05-14-haiku_activity_contract_report_april_2024/)
 * [2024-05-15, 20:01:37](https://news.ycombinator.com/item?id=40371650) - [In medicine what's the difference between an -ectomy, an -ostomy, and an -otomy?](https://www.straightdope.com/21341781/in-medicine-what-s-the-difference-between-an-ectomy-an-ostomy-and-an-otomy)
