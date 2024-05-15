@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-15, 18:47:41](https://news.ycombinator.com/item?id=40370816) - [I'm leaving OpenAI after 3½ yrs](https://twitter.com/E0M/status/1790814866695143696)
 * [2024-05-15, 17:00:50](https://news.ycombinator.com/item?id=40369524) - [Ashby (YC W19) Is Hiring Technical EMs Who Love Coaching](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a)
 * [2024-05-15, 16:46:15](https://news.ycombinator.com/item?id=40369319) - [Show HN: Tarsier – vision for text-only LLM web agents that beats GPT-4o](https://github.com/reworkd/tarsier)
 * [2024-05-15, 16:42:49](https://news.ycombinator.com/item?id=40369258) - [Google opens up its smart home to everyone and will make Google TVs home hubs](https://www.theverge.com/2024/5/15/24157154/google-home-api-matter-smart-home-chromecast-google-tv)
@@ -13,7 +14,6 @@
 * [2024-05-15, 14:33:32](https://news.ycombinator.com/item?id=40367488) - [Show HN: I made a Chrome extension to clean up your Gmail inbox locally](https://www.inboxpurge.com/)
 * [2024-05-15, 14:22:05](https://news.ycombinator.com/item?id=40367331) - [Apple announces new accessibility features, including Eye Tracking](https://www.apple.com/newsroom/2024/05/apple-announces-new-accessibility-features-including-eye-tracking/)
 * [2024-05-15, 14:02:35](https://news.ycombinator.com/item?id=40367090) - [Show HN: Open-source BI and analytics for engineers](https://github.com/quarylabs/quary)
-* [2024-05-15, 13:13:23](https://news.ycombinator.com/item?id=40366474) - [The Volvo VNL, a heavy truck purpose-designed for North American roads](https://arstechnica.com/cars/2024/05/heres-how-volvo-is-making-its-long-haul-trucks-safer-more-efficient/)
 * [2024-05-15, 13:11:08](https://news.ycombinator.com/item?id=40366443) - [Proteins in blood could provide early cancer warning 'by more than seven years'](https://www.theguardian.com/society/article/2024/may/15/proteins-blood-cancer-warning-seven-years-study)
 * [2024-05-15, 12:58:46](https://news.ycombinator.com/item?id=40366323) - [I coded something dumb and I'm proud of it](https://plbrault.com/blog-posts/i-coded-something-dumb-and-im-proud-of-it-en/)
 * [2024-05-15, 12:48:19](https://news.ycombinator.com/item?id=40366204) - [Nearly all Nintendo 64 games can now be recompiled into native PC ports](https://www.tomshardware.com/video-games/nearly-all-nintendo-64-games-can-now-be-recompiled-into-native-pc-ports-to-add-proper-ray-tracing-ultrawide-high-fps-and-more)
@@ -22,12 +22,12 @@
 * [2024-05-15, 08:52:59](https://news.ycombinator.com/item?id=40364604) - [Abstract Interpretation as a Programming Language](https://arxiv.org/abs/1309.5133)
 * [2024-05-15, 06:32:18](https://news.ycombinator.com/item?id=40363744) - [Translation of Rust's core and alloc crates to Coq for formal verification](https://formal.land/blog/2024/04/26/translation-core-alloc-crates)
 * [2024-05-15, 06:24:02](https://news.ycombinator.com/item?id=40363704) - [A low budget consumer hardware espionage implant: a GSM device hidden in (2018)](https://ha.cking.ch/s8_data_line_locator/)
+* [2024-05-15, 01:25:44](https://news.ycombinator.com/item?id=40362105) - [Strangely Curved Shapes Break 50-Year-Old Geometry Conjecture](https://www.quantamagazine.org/strangely-curved-shapes-break-50-year-old-geometry-conjecture-20240514/)
 * [2024-05-14, 17:58:26](https://news.ycombinator.com/item?id=40358041) - [Veo](https://deepmind.google/technologies/veo/)
 * [2024-05-14, 11:06:07](https://news.ycombinator.com/item?id=40353842) - [Ancient Eastern European mega-sites: a social levelling concept?](https://www.cambridge.org/core/journals/antiquity/article/trypillia-megasites-a-social-levelling-concept/A0048EA63DA8D0B00A513BFD7C24A679)
 * [2024-05-14, 10:42:03](https://news.ycombinator.com/item?id=40353694) - [Speculating the entire x86-64 instruction set in seconds (2021)](https://blog.can.ac/2021/03/22/speculating-x86-64-isa-with-one-weird-trick/)
 * [2024-05-14, 10:27:32](https://news.ycombinator.com/item?id=40353605) - [HBase Deprecation at Pinterest](https://medium.com/pinterest-engineering/hbase-deprecation-at-pinterest-8a99e6c8e6b7)
 * [2024-05-14, 10:21:15](https://news.ycombinator.com/item?id=40353557) - [Branded types for TypeScript](https://www.carlos-menezes.com/post/branded-types)
-* [2024-05-14, 09:35:51](https://news.ycombinator.com/item?id=40353263) - [Sony Playstation will soon have two CEOs](https://www.engadget.com/sony-playstation-will-soon-have-two-ceos-090041004.html)
 * [2024-05-14, 07:14:36](https://news.ycombinator.com/item?id=40352472) - [The Flaw of Averages (2020)](https://causal.app/blog/forecasting-with-uncertainty)
 * [2024-05-13, 11:41:11](https://news.ycombinator.com/item?id=40342105) - [Prolog and Natural-Language Analysis (1987) [pdf]](http://www.mtome.com/Publications/PNLA/prolog-digital.pdf)
 
