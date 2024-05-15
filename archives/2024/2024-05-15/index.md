@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-15](index.md)
 
+* [2024-05-15, 13:52:19](https://news.ycombinator.com/item?id=40366962) - [The Worst Website in the Entire World](https://matduggan.com/the-worst-website-in-the-entire-world/)
+* [2024-05-15, 13:33:47](https://news.ycombinator.com/item?id=40366722) - [Downranking won't stop Google's deepfake porn problem, victims say](https://arstechnica.com/tech-policy/2024/05/downranking-wont-stop-googles-deepfake-porn-problem-victims-say/)
 * [2024-05-15, 13:13:23](https://news.ycombinator.com/item?id=40366474) - [The Volvo VNL, a heavy truck purpose-designed for North American roads](https://arstechnica.com/cars/2024/05/heres-how-volvo-is-making-its-long-haul-trucks-safer-more-efficient/)
 * [2024-05-15, 13:11:08](https://news.ycombinator.com/item?id=40366443) - [Proteins in blood could provide early cancer warning 'by more than seven years'](https://www.theguardian.com/society/article/2024/may/15/proteins-blood-cancer-warning-seven-years-study)
 * [2024-05-15, 12:48:19](https://news.ycombinator.com/item?id=40366204) - [Nearly all Nintendo 64 games can now be recompiled into native PC ports](https://www.tomshardware.com/video-games/nearly-all-nintendo-64-games-can-now-be-recompiled-into-native-pc-ports-to-add-proper-ray-tracing-ultrawide-high-fps-and-more)
