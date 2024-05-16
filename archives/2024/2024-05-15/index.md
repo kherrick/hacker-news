@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-15](index.md)
 
+* [2024-05-15, 23:47:55](https://news.ycombinator.com/item?id=40373709) - [LLMs are not suitable for brainstorming](https://piaoyang0.wordpress.com/2024/05/15/llms-are-not-suitable-for-brainstorming/)
 * [2024-05-15, 23:41:30](https://news.ycombinator.com/item?id=40373653) - [Ask HN: Are you still using your Vision Pro?](https://news.ycombinator.com/item?id=40373653)
 * [2024-05-15, 23:36:59](https://news.ycombinator.com/item?id=40373630) - [Lessons learned as a recruiter hiring developers the last decade](https://www.andrewstetsenko.com/lessons-learnt-as-a-tech-recruiter/)
 * [2024-05-15, 23:15:17](https://news.ycombinator.com/item?id=40373498) - [Hysata electrolyzers produce cheapest hydrogen at 95% efficiency](https://hysata.com/news/hysata-announces-111m-usd-series-b-investment-round/)

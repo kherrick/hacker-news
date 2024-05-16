@@ -107,6 +107,7 @@
 * [2024-05-13, 09:26:29](https://news.ycombinator.com/item?id=40341258) - [First Contact with Emulation](https://brainbaking.com/post/2024/05/fist-contact-with-emulation/)
 * [2024-05-13, 08:39:30](https://news.ycombinator.com/item?id=40341037) - [Ask HN: Founders who offer free/OS and paid SaaS, how do you manage your code?](https://news.ycombinator.com/item?id=40341037)
 * [2024-05-13, 08:39:28](https://news.ycombinator.com/item?id=40341036) - [YouTube's Secret Weapon to Win the TV Streaming Wars: Its Top Creators](https://www.hollywoodreporter.com/business/business-news/youtubes-secret-weapon-top-creators-1235894945/)
+* [2024-05-13, 08:29:02](https://news.ycombinator.com/item?id=40340969) - [Prototypal Inheritance (2008)](https://crockford.com/javascript/prototypal.html)
 * [2024-05-13, 08:18:47](https://news.ycombinator.com/item?id=40340901) - [Show HN: Boxwood – simple templating engine for JavaScript, in JavaScript](https://github.com/buxlabs/boxwood)
 * [2024-05-13, 08:01:55](https://news.ycombinator.com/item?id=40340805) - [eu/acc](https://eu-acc.com/)
 * [2024-05-13, 07:48:11](https://news.ycombinator.com/item?id=40340725) - [The Guide to Haskell Strings](https://hasufell.github.io/posts/2024-05-07-ultimate-string-guide.html)
