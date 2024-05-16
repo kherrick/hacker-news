@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-16, 22:06:28](https://news.ycombinator.com/item?id=40383886) - [Improvements to Data Analysis in ChatGPT](https://openai.com/index/improvements-to-data-analysis-in-chatgpt/)
 * [2024-05-16, 21:33:26](https://news.ycombinator.com/item?id=40383493) - [Hertz sold a bunch of Teslas and it turns out they're all kinds of trouble](https://qz.com/tesla-hertz-used-electric-cars-evs-damage-glitches-1851482632)
 * [2024-05-16, 21:14:47](https://news.ycombinator.com/item?id=40383263) - [Deutsche Bahn Introduces \"MetaWindow\"](https://www.railtarget.eu/technologies-and-infrastructure/deutsche-bahn-introduces-metawindow-a-gamechanger-in-noise-reduction-for-railways-8449.html)
 * [2024-05-16, 21:01:29](https://news.ycombinator.com/item?id=40383078) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations – Is Hiring](https://skio.com/careers/)
@@ -20,7 +21,6 @@
 * [2024-05-16, 16:04:47](https://news.ycombinator.com/item?id=40379982) - [Build WebGPU Apps Today with PlayCanvas](https://blog.playcanvas.com/build-webgpu-apps-today-with-playcanvas/)
 * [2024-05-16, 15:30:49](https://news.ycombinator.com/item?id=40379599) - [ChatGPT-4o vs. Math](https://www.sabrina.dev/p/chatgpt4o-vs-math)
 * [2024-05-16, 15:20:45](https://news.ycombinator.com/item?id=40379488) - [Egypt's pyramids may have been built on a long-lost branch of the Nile](https://www.nature.com/articles/d41586-024-01449-y)
-* [2024-05-16, 14:38:40](https://news.ycombinator.com/item?id=40379028) - [Sprint, T-Mobile Merger Killed Wireless Price Competition in U.S.](https://www.techdirt.com/2024/05/16/report-sprint-t-mobile-merger-immediately-killed-wireless-price-competition-in-u-s/)
 * [2024-05-16, 14:18:07](https://news.ycombinator.com/item?id=40378791) - [D3 in Depth](https://www.d3indepth.com/)
 * [2024-05-16, 13:53:22](https://news.ycombinator.com/item?id=40378499) - [Llama 3 implemented in pure NumPy](https://docs.likejazz.com/llama3.np/)
 * [2024-05-16, 12:47:07](https://news.ycombinator.com/item?id=40377685) - [F* – A Proof-Oriented Programming Language](https://www.fstar-lang.org/)
