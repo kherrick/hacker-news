@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-16, 16:04:47",
+      "https://news.ycombinator.com/item?id=40379982"
+    ],
+    [
+      "Build WebGPU Apps Today with PlayCanvas",
+      "https://blog.playcanvas.com/build-webgpu-apps-today-with-playcanvas/"
+    ]
+  ],
+  [
+    [
       "2024-05-16, 15:20:45",
       "https://news.ycombinator.com/item?id=40379488"
     ],
@@ -51,16 +61,6 @@
   ],
   [
     [
-      "2024-05-16, 14:24:02",
-      "https://news.ycombinator.com/item?id=40378867"
-    ],
-    [
-      "The “3.5% rule”: How a small minority can change the world",
-      "https://www.bbc.com/future/article/20190513-it-only-takes-35-of-people-to-change-the-world"
-    ]
-  ],
-  [
-    [
       "2024-05-16, 14:21:02",
       "https://news.ycombinator.com/item?id=40378825"
     ],
@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2024-05-16, 13:42:03",
-      "https://news.ycombinator.com/item?id=40378357"
-    ],
-    [
-      "State of the Terminal",
-      "https://gpanders.com/blog/state-of-the-terminal/"
-    ]
-  ],
-  [
-    [
       "2024-05-16, 13:30:17",
       "https://news.ycombinator.com/item?id=40378218"
     ],
@@ -147,16 +137,6 @@
     [
       "Elicit – AI Research Assistant",
       "https://elicit.com/"
-    ]
-  ],
-  [
-    [
-      "2024-05-16, 11:47:34",
-      "https://news.ycombinator.com/item?id=40377201"
-    ],
-    [
-      "Students invent quieter leaf blower",
-      "https://hub.jhu.edu/2024/05/14/quieter-leaf-blower/"
     ]
   ],
   [
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2024-05-15, 16:32:08",
+      "https://news.ycombinator.com/item?id=40369119"
+    ],
+    [
+      "Starting emails with \"BEGIN PGP MESSAGE\" will fool the filter",
+      "https://nondeterministic.computer/@martin/112444389342113780"
+    ]
+  ],
+  [
+    [
       "2024-05-15, 15:12:15",
       "https://news.ycombinator.com/item?id=40368016"
     ],
@@ -257,6 +247,16 @@
     [
       "Show HN: Open-source BI and analytics for engineers",
       "https://github.com/quarylabs/quary"
+    ]
+  ],
+  [
+    [
+      "2024-05-15, 10:58:44",
+      "https://news.ycombinator.com/item?id=40365248"
+    ],
+    [
+      "Why do CPUs have multiple cache levels? (2016)",
+      "https://fgiesen.wordpress.com/2016/08/07/why-do-cpus-have-multiple-cache-levels/"
     ]
   ],
   [
