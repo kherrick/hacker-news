@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-16](index.md)
 
+* [2024-05-16, 11:47:34](https://news.ycombinator.com/item?id=40377201) - [Students invent quieter leaf blower](https://hub.jhu.edu/2024/05/14/quieter-leaf-blower/)
+* [2024-05-16, 11:41:50](https://news.ycombinator.com/item?id=40377161) - [Why Bad CEOs Fear Remote Work (2021)](https://scottberkun.com/2021/why-bad-ceos-fear-remote-work/)
+* [2024-05-16, 11:40:39](https://news.ycombinator.com/item?id=40377154) - [EU opens child safety probes of Facebook and Instagram, citing addictive design](https://techcrunch.com/2024/05/16/eu-opens-child-safety-probes-of-facebook-and-instagram-citing-addictive-design-concerns/)
 * [2024-05-16, 10:12:48](https://news.ycombinator.com/item?id=40376742) - [JPEG XL decoding support in blink issue has been reopened and assigned](https://issues.chromium.org/issues/40168998)
 * [2024-05-16, 10:04:04](https://news.ycombinator.com/item?id=40376718) - [Karman Alpha: amateur rocketry attempt to 100k ft (33 minute documentary) [video]](https://www.youtube.com/watch?v=6ZUuVvpgoCU)
 * [2024-05-16, 09:50:58](https://news.ycombinator.com/item?id=40376658) - [Piracy Block Reversed for Tech Site That Reported Site-Blocking Workarounds](https://torrentfreak.com/piracy-block-withdrawn-after-tech-site-published-site-blocking-workarounds-240516/)
