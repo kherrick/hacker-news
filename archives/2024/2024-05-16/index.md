@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-16](index.md)
 
+* [2024-05-16, 06:23:33](https://news.ycombinator.com/item?id=40375736) - [I am resigning from OpenAI – Harrison Kinsley](https://twitter.com/Sentdex/status/1790927013315747939)
+* [2024-05-16, 05:43:45](https://news.ycombinator.com/item?id=40375556) - [Samsung Is Mocking Apple](https://twitter.com/SamsungMobileUS/status/1790824457365594487)
 * [2024-05-16, 05:42:23](https://news.ycombinator.com/item?id=40375548) - [VCs Aren't Your Friends](https://www.openvc.app/blog/vcs-arent-your-friends)
 * [2024-05-16, 05:01:53](https://news.ycombinator.com/item?id=40375341) - [Some notes on Rust, mutable aliasing and formal verification](https://graydon2.dreamwidth.org/312681.html)
 * [2024-05-16, 04:52:21](https://news.ycombinator.com/item?id=40375297) - [.aq](https://en.wikipedia.org/wiki/.aq)
