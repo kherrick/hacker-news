@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-16](index.md)
 
+* [2024-05-16, 20:48:58](https://news.ycombinator.com/item?id=40382941) - [Show HN: I've built a macOS app for developers to clean their dev machines](https://apps.apple.com/ua/app/cleano/id6469460523?mt=12)
 * [2024-05-16, 20:34:00](https://news.ycombinator.com/item?id=40382783) - [OpenAI and Reddit Partnership](https://openai.com/index/openai-and-reddit-partnership/)
 * [2024-05-16, 20:14:50](https://news.ycombinator.com/item?id=40382615) - [Tesla's self-driving tech ditched by 98 percent of customers that tried it](https://www.the-express.com/finance/business/137709/tesla-self-driving-elon-musk-china)
 * [2024-05-16, 20:09:19](https://news.ycombinator.com/item?id=40382568) - [Germany's Sovereign Tech Fund Now Supporting FFmpeg](https://www.phoronix.com/news/Germany-STF-For-FFmpeg)
@@ -17,6 +18,7 @@
 * [2024-05-16, 18:43:11](https://news.ycombinator.com/item?id=40381747) - [Companies need AI services revenues, not cost savings](https://www.ft.com/content/f8e4dac5-5869-4db9-b4ba-1398408e3962)
 * [2024-05-16, 18:34:56](https://news.ycombinator.com/item?id=40381671) - [The most confusing emojis in every US state in 2024](https://preply.com/en/blog/most-confusing-emojis-2024/)
 * [2024-05-16, 18:21:17](https://news.ycombinator.com/item?id=40381511) - [You probably don't need to validate UTF-8 strings](https://viralinstruction.com/posts/utf8/)
+* [2024-05-16, 17:48:04](https://news.ycombinator.com/item?id=40381166) - [Wind farms can offset their emissions within two years, new study shows](https://newsroom.taylorandfrancisgroup.com/wind-farms-can-offset-their-emissions-within-two-years-new-study-shows/)
 * [2024-05-16, 17:32:21](https://news.ycombinator.com/item?id=40380975) - [Crypto Brothers Front-Ran the Front-Runners](https://www.bloomberg.com/opinion/articles/2024-05-16/crypto-brothers-front-ran-the-front-runners)
 * [2024-05-16, 17:14:14](https://news.ycombinator.com/item?id=40380767) - [Marc Andreessen: Guide to Personal Productivity (2007)](https://pmarchive.com/guide_to_personal_productivity.html)
 * [2024-05-16, 17:12:22](https://news.ycombinator.com/item?id=40380744) - [The Tragic Downfall of the Internet's Art Gallery](https://slate.com/technology/2024/05/deviantart-what-happened-ai-decline-lawsuit-stability.html)
