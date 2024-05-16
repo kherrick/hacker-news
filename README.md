@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-16, 08:30:26](https://news.ycombinator.com/item?id=40376288) - [If you wanna know why I am resigned from OpenAI](https://twitter.com/Sentdex/status/1790927013315747939)
 * [2024-05-16, 07:59:41](https://news.ycombinator.com/item?id=40376143) - [Typewise (YC S22) is hiring Product Designer for AI writing assistant](https://www.ycombinator.com/companies/typewise/jobs/myJcREP-product-designer-f-m-x)
 * [2024-05-16, 07:36:23](https://news.ycombinator.com/item?id=40376052) - [MKUltra](https://en.wikipedia.org/wiki/MKUltra)
 * [2024-05-16, 06:15:01](https://news.ycombinator.com/item?id=40375700) - [(OpenBSD) Add sysctl to disable Nagle's algorithm](https://marc.info/?l=openbsd-tech&m=171562561424289&w=2)
@@ -25,11 +26,10 @@
 * [2024-05-15, 15:12:15](https://news.ycombinator.com/item?id=40368016) - [Adobe Photoshop Source Code (2013)](https://computerhistory.org/blog/adobe-photoshop-source-code/)
 * [2024-05-15, 14:22:05](https://news.ycombinator.com/item?id=40367331) - [Apple announces new accessibility features, including eye tracking](https://www.apple.com/newsroom/2024/05/apple-announces-new-accessibility-features-including-eye-tracking/)
 * [2024-05-15, 14:02:35](https://news.ycombinator.com/item?id=40367090) - [Show HN: Open-source BI and analytics for engineers](https://github.com/quarylabs/quary)
+* [2024-05-15, 10:08:04](https://news.ycombinator.com/item?id=40364989) - [Localization in .NET console and desktop apps](https://blog.axantum.com/2024/05/localizing-net-console-or-desktop.html)
 * [2024-05-15, 07:07:44](https://news.ycombinator.com/item?id=40363946) - [Learning from the Object Oriented Mania](https://lemire.me/blog/2024/05/14/learning-from-the-object-oriented-mania/)
-* [2024-05-14, 21:42:10](https://news.ycombinator.com/item?id=40360487) - [A brief history of the first planetarium](https://spectrum.ieee.org/planetarium-history)
 * [2024-05-14, 20:25:33](https://news.ycombinator.com/item?id=40359774) - [Fast Tokenizers with StringScanner (2023)](https://tenderlovemaking.com/2023/09/02/fast-tokenizers-with-stringscanner.html)
 * [2024-05-14, 12:21:42](https://news.ycombinator.com/item?id=40354407) - [Bossware is a big legal risk](https://www.kolide.com/blog/your-company-s-bossware-could-get-you-in-legal-trouble)
-* [2024-05-14, 05:34:30](https://news.ycombinator.com/item?id=40351938) - [Piece Chains (2006)](https://www.catch22.net/tuts/neatpad/piece-chains/)
 
 ## [Archives](archives/index.md)
 
