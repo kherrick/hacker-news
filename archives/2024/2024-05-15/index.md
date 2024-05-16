@@ -95,6 +95,7 @@
 * [2024-05-15, 04:50:01](https://news.ycombinator.com/item?id=40363213) - [New WiFi Vulnerability: The SSID Confusion Attack](https://www.top10vpn.com/research/wifi-vulnerability-ssid/)
 * [2024-05-15, 04:34:18](https://news.ycombinator.com/item?id=40363135) - [AI is the reason interviews are harder now](https://www.softwaredesign.ing/blog/ai-is-the-reason-interviews-are-harder-now)
 * [2024-05-15, 04:20:18](https://news.ycombinator.com/item?id=40363069) - [Department of Justice says Boeing may be criminally liable in 737 MAX crashes](https://www.usatoday.com/story/money/2024/05/14/boeing-department-of-justice-criminal-liability/73692655007/)
+* [2024-05-15, 04:17:33](https://news.ycombinator.com/item?id=40363057) - [Measuring the impact of zoning on housing in a city](https://www.blog.jonathannolan.net/p/how-to-measure-the-impact-of-zoning)
 * [2024-05-15, 04:03:40](https://news.ycombinator.com/item?id=40362992) - [Parseback: A pure-Lua introspection library for LuaJIT's FFI ctype objects](https://github.com/javierguerragiraldez/parseback)
 * [2024-05-15, 03:37:46](https://news.ycombinator.com/item?id=40362848) - [Air Quality Monitors Compared: AirGradient vs. Purple Air](https://www.airgradient.com/blog/airgradient-vs-purple-air/)
 * [2024-05-15, 02:57:08](https://news.ycombinator.com/item?id=40362621) - [Parking Reform Legalized Most of the New Homes in Buffalo and Seattle](https://www.sightline.org/2023/04/13/parking-reform-legalized-most-of-the-new-homes-in-buffalo-and-seattle/)

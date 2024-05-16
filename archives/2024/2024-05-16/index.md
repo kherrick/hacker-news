@@ -6,8 +6,10 @@
 
 * [2024-05-16, 14:38:40](https://news.ycombinator.com/item?id=40379028) - [Sprint, T-Mobile Merger Killed Wireless Price Competition in U.S.](https://www.techdirt.com/2024/05/16/report-sprint-t-mobile-merger-immediately-killed-wireless-price-competition-in-u-s/)
 * [2024-05-16, 14:27:52](https://news.ycombinator.com/item?id=40378904) - [The spy who flunked it: Kurt Gödel's forgotten part in the atom-bomb story](https://www.nature.com/articles/d41586-024-00644-1)
+* [2024-05-16, 14:24:02](https://news.ycombinator.com/item?id=40378867) - [The “3.5% rule”: How a small minority can change the world](https://www.bbc.com/future/article/20190513-it-only-takes-35-of-people-to-change-the-world)
 * [2024-05-16, 14:21:02](https://news.ycombinator.com/item?id=40378825) - [Promoted.ai (YC W21) Is Hiring a Apache Flink Expert Staff Engineer](https://www.ycombinator.com/companies/promoted/jobs/1dLskWr-staff-engineer-apache-flink-expert)
 * [2024-05-16, 14:14:58](https://news.ycombinator.com/item?id=40378759) - [Port 666 is officially registered to Doom](https://www.ibiblio.org/shadow/docs/port_numbers)
+* [2024-05-16, 13:53:22](https://news.ycombinator.com/item?id=40378499) - [Llama3.np: pure NumPy implementation of Llama3](https://github.com/likejazz/llama3.np)
 * [2024-05-16, 13:42:03](https://news.ycombinator.com/item?id=40378357) - [State of the Terminal](https://gpanders.com/blog/state-of-the-terminal/)
 * [2024-05-16, 13:30:17](https://news.ycombinator.com/item?id=40378218) - [What's New in Neovim 0.10](https://gpanders.com/blog/whats-new-in-neovim-0.10/)
 * [2024-05-16, 13:24:02](https://news.ycombinator.com/item?id=40378127) - [You thought OpenStreetMap uses WGS84? No it doesn't](https://www.openstreetmap.org/user/StephaneP/diary/390290)
