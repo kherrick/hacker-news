@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2024-05-16, 12:10:51",
-      "https://news.ycombinator.com/item?id=40377344"
-    ],
-    [
-      "Elicit: The AI Research Assistant",
-      "https://elicit.com/"
-    ]
-  ],
-  [
-    [
       "2024-05-16, 11:47:34",
       "https://news.ycombinator.com/item?id=40377201"
     ],
@@ -297,6 +287,16 @@
     [
       "Parseback: A pure-Lua introspection library for LuaJIT's FFI ctype objects",
       "https://github.com/javierguerragiraldez/parseback"
+    ]
+  ],
+  [
+    [
+      "2024-05-14, 12:21:42",
+      "https://news.ycombinator.com/item?id=40354407"
+    ],
+    [
+      "Bossware is a big legal risk",
+      "https://www.kolide.com/blog/your-company-s-bossware-could-get-you-in-legal-trouble"
     ]
   ]
 ]
