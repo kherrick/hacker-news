@@ -81,6 +81,7 @@
 * [2024-05-15, 10:08:04](https://news.ycombinator.com/item?id=40364989) - [Localization in .NET console and desktop apps](https://blog.axantum.com/2024/05/localizing-net-console-or-desktop.html)
 * [2024-05-15, 08:55:22](https://news.ycombinator.com/item?id=40364617) - [Hot take on OpenAI's new GPT-4o – by Gary Marcus](https://garymarcus.substack.com/p/hot-take-on-openais-new-gpt-4o)
 * [2024-05-15, 08:52:59](https://news.ycombinator.com/item?id=40364604) - [Abstract Interpretation as a Programming Language](https://arxiv.org/abs/1309.5133)
+* [2024-05-15, 08:24:02](https://news.ycombinator.com/item?id=40364429) - [Introduction to the gfortran array descriptor / dope vector](https://thinkingeek.com/2017/01/14/gfortran-array-descriptor/)
 * [2024-05-15, 07:56:22](https://news.ycombinator.com/item?id=40364220) - [Google Gemini: Context Caching](https://ai.google.dev/gemini-api/docs/caching)
 * [2024-05-15, 07:54:38](https://news.ycombinator.com/item?id=40364210) - [Bicycle Rolling Resistance: Tire Rolling Resistance Tests and More](https://www.bicyclerollingresistance.com/)
 * [2024-05-15, 07:36:36](https://news.ycombinator.com/item?id=40364108) - [Raspberry Pi prepares for London listing](https://www.ft.com/content/6d846a93-030a-4106-b045-d74a216493b0)
