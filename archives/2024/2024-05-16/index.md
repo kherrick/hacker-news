@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-16](index.md)
 
+* [2024-05-16, 20:34:00](https://news.ycombinator.com/item?id=40382783) - [OpenAI and Reddit Partnership](https://openai.com/index/openai-and-reddit-partnership/)
+* [2024-05-16, 20:14:50](https://news.ycombinator.com/item?id=40382615) - [Tesla's self-driving tech ditched by 98 percent of customers that tried it](https://www.the-express.com/finance/business/137709/tesla-self-driving-elon-musk-china)
 * [2024-05-16, 20:09:19](https://news.ycombinator.com/item?id=40382568) - [Germany's Sovereign Tech Fund Now Supporting FFmpeg](https://www.phoronix.com/news/Germany-STF-For-FFmpeg)
 * [2024-05-16, 20:07:37](https://news.ycombinator.com/item?id=40382550) - [A long list of (advanced) JavaScript questions, and their explanations](https://github.com/lydiahallie/javascript-questions)
 * [2024-05-16, 19:48:39](https://news.ycombinator.com/item?id=40382379) - [Online Censorship's Institutional Power](https://madattheinternet.substack.com/p/online-censorships-institutional)

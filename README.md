@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-16, 20:34:00](https://news.ycombinator.com/item?id=40382783) - [OpenAI and Reddit Partnership](https://openai.com/index/openai-and-reddit-partnership/)
+* [2024-05-16, 20:14:50](https://news.ycombinator.com/item?id=40382615) - [Tesla's self-driving tech ditched by 98 percent of customers that tried it](https://www.the-express.com/finance/business/137709/tesla-self-driving-elon-musk-china)
 * [2024-05-16, 20:09:19](https://news.ycombinator.com/item?id=40382568) - [Germany's Sovereign Tech Fund Now Supporting FFmpeg](https://www.phoronix.com/news/Germany-STF-For-FFmpeg)
 * [2024-05-16, 20:07:37](https://news.ycombinator.com/item?id=40382550) - [A long list of (advanced) JavaScript questions, and their explanations](https://github.com/lydiahallie/javascript-questions)
 * [2024-05-16, 19:35:21](https://news.ycombinator.com/item?id=40382246) - [JEP Draft: Support HTTP/3 in the HttpClient](https://openjdk.org/jeps/8291976)
@@ -23,8 +25,6 @@
 * [2024-05-16, 12:47:07](https://news.ycombinator.com/item?id=40377685) - [F* – A Proof-Oriented Programming Language](https://www.fstar-lang.org/)
 * [2024-05-16, 10:19:01](https://news.ycombinator.com/item?id=40376775) - [Forgotten APL Influences (2016) [pdf]](https://pok.acm.org/meetings/foils/McGrew18paper.pdf)
 * [2024-05-16, 05:01:53](https://news.ycombinator.com/item?id=40375341) - [Some notes on Rust, mutable aliasing and formal verification](https://graydon2.dreamwidth.org/312681.html)
-* [2024-05-16, 04:24:02](https://news.ycombinator.com/item?id=40375178) - [Things I won't work with: the higher states of bromine (2019)](https://blogs.sciencemag.org/pipeline/archives/2019/11/21/the-higher-states-of-bromine)
-* [2024-05-15, 19:57:01](https://news.ycombinator.com/item?id=40371612) - [New exponent functions that make SiLU and SoftMax 2x faster, at full accuracy](https://github.com/ggerganov/llama.cpp/pull/7154)
 * [2024-05-15, 12:03:20](https://news.ycombinator.com/item?id=40365777) - [Štar: an iteration construct for Common Lisp](https://www.tfeb.org/fragments/2024/05/15/an-iteration-construct-for-common-lisp/)
 * [2024-05-15, 10:58:44](https://news.ycombinator.com/item?id=40365248) - [Why do CPUs have multiple cache levels? (2016)](https://fgiesen.wordpress.com/2016/08/07/why-do-cpus-have-multiple-cache-levels/)
 * [2024-05-15, 07:56:22](https://news.ycombinator.com/item?id=40364220) - [Google Gemini: Context Caching](https://ai.google.dev/gemini-api/docs/caching)
