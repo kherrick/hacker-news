@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-16](index.md)
 
+* [2024-05-16, 20:09:19](https://news.ycombinator.com/item?id=40382568) - [Germany's Sovereign Tech Fund Now Supporting FFmpeg](https://www.phoronix.com/news/Germany-STF-For-FFmpeg)
 * [2024-05-16, 20:07:37](https://news.ycombinator.com/item?id=40382550) - [A long list of (advanced) JavaScript questions, and their explanations](https://github.com/lydiahallie/javascript-questions)
 * [2024-05-16, 19:48:39](https://news.ycombinator.com/item?id=40382379) - [Online Censorship's Institutional Power](https://madattheinternet.substack.com/p/online-censorships-institutional)
 * [2024-05-16, 19:35:21](https://news.ycombinator.com/item?id=40382246) - [JEP Draft: Draft: Support HTTP/3 in the HttpClient](https://openjdk.org/jeps/8291976)
@@ -13,6 +14,7 @@
 * [2024-05-16, 18:34:56](https://news.ycombinator.com/item?id=40381671) - [The most confusing emojis in every US state in 2024](https://preply.com/en/blog/most-confusing-emojis-2024/)
 * [2024-05-16, 18:21:17](https://news.ycombinator.com/item?id=40381511) - [You probably don't need to validate UTF-8 strings](https://viralinstruction.com/posts/utf8/)
 * [2024-05-16, 17:32:21](https://news.ycombinator.com/item?id=40380975) - [Crypto Brothers Front-Ran the Front-Runners](https://www.bloomberg.com/opinion/articles/2024-05-16/crypto-brothers-front-ran-the-front-runners)
+* [2024-05-16, 17:14:14](https://news.ycombinator.com/item?id=40380767) - [Marc Andreessen: Guide to Personal Productivity (2007)](https://pmarchive.com/guide_to_personal_productivity.html)
 * [2024-05-16, 17:12:22](https://news.ycombinator.com/item?id=40380744) - [The Tragic Downfall of the Internet's Art Gallery](https://slate.com/technology/2024/05/deviantart-what-happened-ai-decline-lawsuit-stability.html)
 * [2024-05-16, 17:02:40](https://news.ycombinator.com/item?id=40380639) - [I Don't Want to Spend My One Precious Life Dealing with Google's AI Search](https://aftermath.site/google-ai-search-god-no-why)
 * [2024-05-16, 17:00:11](https://news.ycombinator.com/item?id=40380596) - [Reflex (YC W23) Is Hiring Software Engineers](https://www.ycombinator.com/companies/reflex/jobs/6kHXK7x-software-engineer)
@@ -22,6 +24,7 @@
 * [2024-05-16, 16:05:48](https://news.ycombinator.com/item?id=40379996) - [Mummy Brown](https://en.wikipedia.org/wiki/Mummy_brown)
 * [2024-05-16, 16:04:47](https://news.ycombinator.com/item?id=40379982) - [Build WebGPU Apps Today with PlayCanvas](https://blog.playcanvas.com/build-webgpu-apps-today-with-playcanvas/)
 * [2024-05-16, 15:30:49](https://news.ycombinator.com/item?id=40379599) - [ChatGPT-4o vs. Math](https://www.sabrina.dev/p/chatgpt4o-vs-math)
+* [2024-05-16, 15:20:45](https://news.ycombinator.com/item?id=40379488) - [Egypt's pyramids may have been built on a long-lost branch of the Nile](https://www.nature.com/articles/d41586-024-01449-y)
 * [2024-05-16, 15:20:45](https://news.ycombinator.com/item?id=40379488) - [Egypt's Pyramids May Have Been Built on a Long-Lost Branch of the Nile](https://www.nature.com/articles/s43247-024-01379-7)
 * [2024-05-16, 15:19:53](https://news.ycombinator.com/item?id=40379480) - [Intel's Thunderbolt Share lets two PCs control each other over a USB cable](https://www.theverge.com/2024/5/15/24156519/intel-thunderbolt-share-app)
 * [2024-05-16, 15:07:37](https://news.ycombinator.com/item?id=40379325) - [Nevada parents wrongfully accused of child abuse file lawsuit against hospital](https://mynews4.com/news/local/nevada-parents-accused-of-abuse-file-civil-lawsuit-against-texas-hospital-take-care-of-maya-trending-netflix-documentary-wrongfully-accused-shaken-baby-syndrome)
