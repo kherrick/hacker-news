@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-16](index.md)
 
+* [2024-05-16, 21:33:26](https://news.ycombinator.com/item?id=40383493) - [Hertz sold a bunch of Teslas and it turns out they're all kinds of trouble](https://qz.com/tesla-hertz-used-electric-cars-evs-damage-glitches-1851482632)
+* [2024-05-16, 21:14:47](https://news.ycombinator.com/item?id=40383263) - [Deutsche Bahn Introduces \"MetaWindow\"](https://www.railtarget.eu/technologies-and-infrastructure/deutsche-bahn-introduces-metawindow-a-gamechanger-in-noise-reduction-for-railways-8449.html)
 * [2024-05-16, 21:01:29](https://news.ycombinator.com/item?id=40383078) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2024-05-16, 21:01:06](https://news.ycombinator.com/item?id=40383073) - [Justice Department formally moves to reclassify marijuana](https://apnews.com/article/marijuana-rescheduling-drug-policy-biden-15b43441670757b0c2bfa36731e47d07)
 * [2024-05-16, 20:56:17](https://news.ycombinator.com/item?id=40383029) - [Winamp has announced that it is \"opening up\" its source code](https://about.winamp.com/press/article/winamp-open-source-code)
@@ -14,6 +16,7 @@
 * [2024-05-16, 20:09:19](https://news.ycombinator.com/item?id=40382568) - [Germany's Sovereign Tech Fund Now Supporting FFmpeg](https://www.phoronix.com/news/Germany-STF-For-FFmpeg)
 * [2024-05-16, 20:07:37](https://news.ycombinator.com/item?id=40382550) - [A long list of (advanced) JavaScript questions, and their explanations](https://github.com/lydiahallie/javascript-questions)
 * [2024-05-16, 19:48:39](https://news.ycombinator.com/item?id=40382379) - [Online Censorship's Institutional Power](https://madattheinternet.substack.com/p/online-censorships-institutional)
+* [2024-05-16, 19:39:08](https://news.ycombinator.com/item?id=40382275) - [History of the Italian Electrical System](https://samuele963.github.io/electrics/history.html)
 * [2024-05-16, 19:38:45](https://news.ycombinator.com/item?id=40382271) - [Show HN: We built the fastest Android dev ecosystem](https://dashwave.io/)
 * [2024-05-16, 19:35:21](https://news.ycombinator.com/item?id=40382246) - [JEP Draft: Draft: Support HTTP/3 in the HttpClient](https://openjdk.org/jeps/8291976)
 * [2024-05-16, 19:29:18](https://news.ycombinator.com/item?id=40382163) - [Exit Strategy: The Case for Single-Stair Egress](https://www.architecturalrecord.com/articles/16880-exit-strategy-the-case-for-single-stair-egress)
