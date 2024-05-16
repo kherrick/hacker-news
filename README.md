@@ -4,7 +4,6 @@
 * [2024-05-15, 21:02:50](https://news.ycombinator.com/item?id=40372317) - [SSD death, tricky read-only filesystems, and systemd magic?](https://rachelbythebay.com/w/2024/05/15/ro/)
 * [2024-05-15, 21:02:30](https://news.ycombinator.com/item?id=40372315) - [Qualcomm's Oryon LLVM Patches](https://chipsandcheese.com/2024/05/15/qualcomms-oryon-llvm-patches/)
 * [2024-05-15, 21:00:02](https://news.ycombinator.com/item?id=40372296) - [Making a Postgres query 1k times faster](https://mattermost.com/blog/making-a-postgres-query-1000-times-faster/)
-* [2024-05-15, 20:36:39](https://news.ycombinator.com/item?id=40372071) - [It's 2024 and drought is optional](https://asteriskmag.com/issues/06/its-2024-and-drought-is-optional)
 * [2024-05-15, 20:11:55](https://news.ycombinator.com/item?id=40371785) - [A 'plague' comes before the fall: lessons from Roman history](https://thebulletin.org/2024/05/a-plague-comes-before-the-fall-lessons-from-roman-history/)
 * [2024-05-15, 20:01:37](https://news.ycombinator.com/item?id=40371650) - [In medicine what's the difference between an -ectomy, an -ostomy, and an -otomy? (1986)](https://www.straightdope.com/21341781/in-medicine-what-s-the-difference-between-an-ectomy-an-ostomy-and-an-otomy)
 * [2024-05-15, 19:57:01](https://news.ycombinator.com/item?id=40371612) - [New exponent functions that make SiLU and SoftMax 2x faster, at full accuracy](https://github.com/ggerganov/llama.cpp/pull/7154)
@@ -28,6 +27,7 @@
 * [2024-05-14, 17:58:26](https://news.ycombinator.com/item?id=40358041) - [Veo](https://deepmind.google/technologies/veo/)
 * [2024-05-14, 11:10:17](https://news.ycombinator.com/item?id=40353874) - [A Tale of Two Sieves (1996) [pdf]](https://www.ams.org/notices/199612/pomerance.pdf)
 * [2024-05-14, 10:30:23](https://news.ycombinator.com/item?id=40353630) - [Prague Astronomical Clock Simulator (2022)](https://github.com/kshetline/prague-clock)
+* [2024-05-14, 10:21:15](https://news.ycombinator.com/item?id=40353557) - [Branded types for TypeScript](https://www.carlos-menezes.com/post/branded-types)
 * [2024-05-14, 07:31:50](https://news.ycombinator.com/item?id=40352557) - [When to Split Patches (For PostgreSQL)](http://peter.eisentraut.org/blog/2024/05/14/when-to-split-patches-for-postgresql)
 * [2024-05-13, 08:29:02](https://news.ycombinator.com/item?id=40340969) - [Prototypal Inheritance (2008)](https://crockford.com/javascript/prototypal.html)
 
