@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-16](index.md)
 
+* [2024-05-16, 16:05:48](https://news.ycombinator.com/item?id=40379996) - [Mummy Brown](https://en.wikipedia.org/wiki/Mummy_brown)
 * [2024-05-16, 16:04:47](https://news.ycombinator.com/item?id=40379982) - [Build WebGPU Apps Today with PlayCanvas](https://blog.playcanvas.com/build-webgpu-apps-today-with-playcanvas/)
+* [2024-05-16, 15:30:49](https://news.ycombinator.com/item?id=40379599) - [ChatGPT-4o vs. Math](https://www.sabrina.dev/p/chatgpt4o-vs-math)
 * [2024-05-16, 15:20:45](https://news.ycombinator.com/item?id=40379488) - [Egypt's Pyramids May Have Been Built on a Long-Lost Branch of the Nile](https://www.nature.com/articles/s43247-024-01379-7)
 * [2024-05-16, 15:19:53](https://news.ycombinator.com/item?id=40379480) - [Intel's Thunderbolt Share lets two PCs control each other over a USB cable](https://www.theverge.com/2024/5/15/24156519/intel-thunderbolt-share-app)
 * [2024-05-16, 15:05:14](https://news.ycombinator.com/item?id=40379301) - [Deactivating Facebook for just a few weeks reduces belief in fake news](https://english.elpais.com/technology/2024-05-14/deactivating-facebook-for-just-a-few-weeks-reduces-belief-in-fake-news.html)
