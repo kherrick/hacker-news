@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-05-16](index.md)
 
+* [2024-05-16, 13:00:28](https://news.ycombinator.com/item?id=40377831) - [NetBSD bans use of Copilot-generated code](https://www.osnews.com/story/139698/netbsd-bans-use-of-copilot-generated-code/)
+* [2024-05-16, 12:41:05](https://news.ycombinator.com/item?id=40377625) - [A proposal to switch Fedora Workstation's desktop from GNOME to KDE](https://lwn.net/Articles/970929/)
 * [2024-05-16, 12:14:21](https://news.ycombinator.com/item?id=40377370) - [Cardiovascular health and cancer risk associated with plant based diets](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0300711)
 * [2024-05-16, 12:10:51](https://news.ycombinator.com/item?id=40377344) - [Elicit: The AI Research Assistant](https://elicit.com/)
 * [2024-05-16, 11:47:34](https://news.ycombinator.com/item?id=40377201) - [Students invent quieter leaf blower](https://hub.jhu.edu/2024/05/14/quieter-leaf-blower/)
+* [2024-05-16, 11:47:04](https://news.ycombinator.com/item?id=40377198) - [Internet use associated with higher wellbeing, finds new global Oxford study](https://www.ox.ac.uk/news/2024-05-14-internet-use-statistically-associated-higher-wellbeing-finds-new-global-oxford-study)
 * [2024-05-16, 11:41:50](https://news.ycombinator.com/item?id=40377161) - [Why Bad CEOs Fear Remote Work (2021)](https://scottberkun.com/2021/why-bad-ceos-fear-remote-work/)
 * [2024-05-16, 11:40:39](https://news.ycombinator.com/item?id=40377154) - [EU opens child safety probes of Facebook and Instagram, citing addictive design](https://techcrunch.com/2024/05/16/eu-opens-child-safety-probes-of-facebook-and-instagram-citing-addictive-design-concerns/)
+* [2024-05-16, 11:12:24](https://news.ycombinator.com/item?id=40377039) - [Possible author of the Cicada 3301 community](https://wondrousnet.blogspot.com/2022/11/cicada-3301-solution.html)
 * [2024-05-16, 10:54:31](https://news.ycombinator.com/item?id=40376945) - [Proxmox VE Helper-Scripts](https://helper-scripts.com/)
 * [2024-05-16, 10:19:01](https://news.ycombinator.com/item?id=40376775) - [Forgotten APL Influences(2016) [pdf]](https://pok.acm.org/meetings/foils/McGrew18paper.pdf)
 * [2024-05-16, 10:12:48](https://news.ycombinator.com/item?id=40376742) - [JPEG XL decoding support in blink issue has been reopened and assigned](https://issues.chromium.org/issues/40168998)
