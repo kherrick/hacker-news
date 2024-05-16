@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-16, 19:08:21](https://news.ycombinator.com/item?id=40381947) - [A novel flame-retardant, smoke-suppressing superhydrophobic transparent bamboo](https://spj.science.org/doi/10.34133/research.0317)
 * [2024-05-16, 18:43:11](https://news.ycombinator.com/item?id=40381747) - [Companies need AI services revenues, not cost savings](https://www.ft.com/content/f8e4dac5-5869-4db9-b4ba-1398408e3962)
 * [2024-05-16, 18:34:56](https://news.ycombinator.com/item?id=40381671) - [The most confusing emojis in every US state in 2024](https://preply.com/en/blog/most-confusing-emojis-2024/)
 * [2024-05-16, 18:21:17](https://news.ycombinator.com/item?id=40381511) - [You probably don't need to validate UTF-8 strings](https://viralinstruction.com/posts/utf8/)
@@ -14,7 +15,6 @@
 * [2024-05-16, 14:27:52](https://news.ycombinator.com/item?id=40378904) - [The spy who flunked it: Kurt Gödel's forgotten part in the atom-bomb story](https://www.nature.com/articles/d41586-024-00644-1)
 * [2024-05-16, 14:18:07](https://news.ycombinator.com/item?id=40378791) - [D3 in Depth](https://www.d3indepth.com/)
 * [2024-05-16, 13:53:22](https://news.ycombinator.com/item?id=40378499) - [Llama3.np: pure NumPy implementation of Llama3](https://github.com/likejazz/llama3.np)
-* [2024-05-16, 13:24:02](https://news.ycombinator.com/item?id=40378127) - [You thought OpenStreetMap uses WGS84? No it doesn't (2019)](https://www.openstreetmap.org/user/StephaneP/diary/390290)
 * [2024-05-16, 12:47:07](https://news.ycombinator.com/item?id=40377685) - [F* – A Proof-Oriented Programming Language](https://www.fstar-lang.org/)
 * [2024-05-16, 10:19:01](https://news.ycombinator.com/item?id=40376775) - [Forgotten APL Influences (2016) [pdf]](https://pok.acm.org/meetings/foils/McGrew18paper.pdf)
 * [2024-05-16, 06:03:07](https://news.ycombinator.com/item?id=40375641) - [My Sony HB-F1XV](https://thefoggiest.dev/2024/05/16/my-sony-hb-f1xv)

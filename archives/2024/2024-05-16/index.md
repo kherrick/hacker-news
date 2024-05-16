@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-16](index.md)
 
+* [2024-05-16, 19:08:21](https://news.ycombinator.com/item?id=40381947) - [A novel flame-retardant, smoke-suppressing superhydrophobic transparent bamboo](https://spj.science.org/doi/10.34133/research.0317)
 * [2024-05-16, 18:47:58](https://news.ycombinator.com/item?id=40381777) - [Who Wants 30k Used Teslas?](https://nymag.com/intelligencer/article/who-wants-to-buy-30-000-used-teslas-from-hertz.html)
 * [2024-05-16, 18:43:11](https://news.ycombinator.com/item?id=40381747) - [Companies need AI services revenues, not cost savings](https://www.ft.com/content/f8e4dac5-5869-4db9-b4ba-1398408e3962)
 * [2024-05-16, 18:34:56](https://news.ycombinator.com/item?id=40381671) - [The most confusing emojis in every US state in 2024](https://preply.com/en/blog/most-confusing-emojis-2024/)
