@@ -13,8 +13,6 @@
 * [2024-05-15, 19:44:46](https://news.ycombinator.com/item?id=40371467) - [Show HN: I made a Mac app to search my images and videos locally with ML](https://desktopdocs.com)
 * [2024-05-15, 19:39:28](https://news.ycombinator.com/item?id=40371401) - [Project Gameface launches on Android](https://developers.googleblog.com/en/project-gameface-launches-on-android/)
 * [2024-05-15, 19:34:14](https://news.ycombinator.com/item?id=40371341) - [40% of US lithium needs could come from wastewater](https://www.pitt.edu/pittwire/features-articles/gas-well-wastewater-lithium)
-* [2024-05-15, 18:29:36](https://news.ycombinator.com/item?id=40370613) - [An Empirical Evaluation of Columnar Storage Formats [pdf]](https://www.vldb.org/pvldb/vol17/p148-zeng.pdf)
-* [2024-05-15, 18:04:30](https://news.ycombinator.com/item?id=40370323) - [Merging Remix and React Router](https://remix.run/blog/merging-remix-and-react-router)
 * [2024-05-15, 17:12:05](https://news.ycombinator.com/item?id=40369668) - [Android's theft protection features](https://blog.google/products/android/android-theft-protection/)
 * [2024-05-15, 17:00:50](https://news.ycombinator.com/item?id=40369524) - [Ashby (YC W19) Is Hiring Technical EMs Who Love Coaching](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a)
 * [2024-05-15, 16:57:30](https://news.ycombinator.com/item?id=40369467) - [Jepsen: Datomic Pro 1.0.7075](https://jepsen.io/analyses/datomic-pro-1.0.7075)
@@ -29,7 +27,9 @@
 * [2024-05-15, 05:01:11](https://news.ycombinator.com/item?id=40363262) - [Big Companies vs. Startups (2015)](https://danluu.com/startup-tradeoffs/)
 * [2024-05-14, 21:42:10](https://news.ycombinator.com/item?id=40360487) - [A brief history of the first planetarium](https://spectrum.ieee.org/planetarium-history)
 * [2024-05-14, 20:25:33](https://news.ycombinator.com/item?id=40359774) - [Fast Tokenizers with StringScanner (2023)](https://tenderlovemaking.com/2023/09/02/fast-tokenizers-with-stringscanner.html)
+* [2024-05-14, 17:58:26](https://news.ycombinator.com/item?id=40358041) - [Veo](https://deepmind.google/technologies/veo/)
 * [2024-05-14, 11:35:46](https://news.ycombinator.com/item?id=40354045) - [OpenLisp](http://christian.jullien.free.fr/)
+* [2024-05-14, 11:10:17](https://news.ycombinator.com/item?id=40353874) - [A Tale of Two Sieves (1996) [pdf]](https://www.ams.org/notices/199612/pomerance.pdf)
 
 ## [Archives](archives/index.md)
 
