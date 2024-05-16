@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-16, 12:14:21](https://news.ycombinator.com/item?id=40377370) - [Cardiovascular health and cancer risk associated with plant based diets](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0300711)
 * [2024-05-16, 12:10:51](https://news.ycombinator.com/item?id=40377344) - [Elicit: The AI Research Assistant](https://elicit.com/)
 * [2024-05-16, 11:47:34](https://news.ycombinator.com/item?id=40377201) - [Students invent quieter leaf blower](https://hub.jhu.edu/2024/05/14/quieter-leaf-blower/)
 * [2024-05-16, 11:41:50](https://news.ycombinator.com/item?id=40377161) - [Why Bad CEOs Fear Remote Work (2021)](https://scottberkun.com/2021/why-bad-ceos-fear-remote-work/)
@@ -14,7 +15,6 @@
 * [2024-05-16, 04:24:02](https://news.ycombinator.com/item?id=40375178) - [Things I won't work with: the higher states of bromine (2019)](https://blogs.sciencemag.org/pipeline/archives/2019/11/21/the-higher-states-of-bromine)
 * [2024-05-16, 03:29:41](https://news.ycombinator.com/item?id=40374946) - [Swift sucks at web serving or does it?](https://wadetregaskis.com/swift-sucks-at-web-serving-or-does-it/)
 * [2024-05-16, 03:17:08](https://news.ycombinator.com/item?id=40374879) - [Earth rotation limits in-body image stabilization to 6.3 stops (2020)](https://thecentercolumn.com/2020/01/17/earths-rotation-limits-ibis-performance-to-6-3-stops/)
-* [2024-05-16, 00:22:33](https://news.ycombinator.com/item?id=40373931) - [Utah Locals Are Getting Cheap 10 Gbps Fiber Thanks to Local Governments](https://www.techdirt.com/2024/05/15/utah-locals-are-getting-cheap-10-gbps-fiber-thanks-to-local-governments/)
 * [2024-05-15, 21:02:50](https://news.ycombinator.com/item?id=40372317) - [SSD death, tricky read-only filesystems, and systemd magic?](https://rachelbythebay.com/w/2024/05/15/ro/)
 * [2024-05-15, 20:11:55](https://news.ycombinator.com/item?id=40371785) - [A ‘plague’ comes before the fall: lessons from Roman history](https://thebulletin.org/2024/05/a-plague-comes-before-the-fall-lessons-from-roman-history/)
 * [2024-05-15, 20:01:37](https://news.ycombinator.com/item?id=40371650) - [What’s the difference between an -ectomy, an -ostomy, and an -otomy? (1986)](https://www.straightdope.com/21341781/in-medicine-what-s-the-difference-between-an-ectomy-an-ostomy-and-an-otomy)

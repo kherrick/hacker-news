@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-16](index.md)
 
+* [2024-05-16, 12:14:21](https://news.ycombinator.com/item?id=40377370) - [Cardiovascular health and cancer risk associated with plant based diets](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0300711)
 * [2024-05-16, 12:10:51](https://news.ycombinator.com/item?id=40377344) - [Elicit: The AI Research Assistant](https://elicit.com/)
 * [2024-05-16, 11:47:34](https://news.ycombinator.com/item?id=40377201) - [Students invent quieter leaf blower](https://hub.jhu.edu/2024/05/14/quieter-leaf-blower/)
 * [2024-05-16, 11:41:50](https://news.ycombinator.com/item?id=40377161) - [Why Bad CEOs Fear Remote Work (2021)](https://scottberkun.com/2021/why-bad-ceos-fear-remote-work/)
