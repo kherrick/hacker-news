@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-16, 06:23:33](https://news.ycombinator.com/item?id=40375736) - [I am resigning from OpenAI – Harrison Kinsley](https://twitter.com/Sentdex/status/1790927013315747939)
 * [2024-05-16, 05:43:45](https://news.ycombinator.com/item?id=40375556) - [Samsung Is Mocking Apple](https://twitter.com/SamsungMobileUS/status/1790824457365594487)
-* [2024-05-16, 05:42:23](https://news.ycombinator.com/item?id=40375548) - [VCs Aren't Your Friends](https://www.openvc.app/blog/vcs-arent-your-friends)
+* [2024-05-16, 05:42:23](https://news.ycombinator.com/item?id=40375548) - [VCs aren’t your friends](https://www.openvc.app/blog/vcs-arent-your-friends)
 * [2024-05-16, 05:01:53](https://news.ycombinator.com/item?id=40375341) - [Some notes on Rust, mutable aliasing and formal verification](https://graydon2.dreamwidth.org/312681.html)
 * [2024-05-16, 04:37:13](https://news.ycombinator.com/item?id=40375226) - [Enhancing R: The Vision and Impact of Jan Vitek's MaintainR Initiative](https://www.r-consortium.org/blog/2024/05/15/enhancing-r-the-vision-and-impact-of-jan-viteks-maintainr-initiative)
 * [2024-05-16, 04:24:02](https://news.ycombinator.com/item?id=40375178) - [Things I won't work with: the higher states of bromine (2019)](https://blogs.sciencemag.org/pipeline/archives/2019/11/21/the-higher-states-of-bromine)
@@ -11,6 +10,7 @@
 * [2024-05-16, 00:22:33](https://news.ycombinator.com/item?id=40373931) - [Utah Locals Are Getting Cheap 10 Gbps Fiber Thanks to Local Governments](https://www.techdirt.com/2024/05/15/utah-locals-are-getting-cheap-10-gbps-fiber-thanks-to-local-governments/)
 * [2024-05-15, 21:02:50](https://news.ycombinator.com/item?id=40372317) - [SSD death, tricky read-only filesystems, and systemd magic?](https://rachelbythebay.com/w/2024/05/15/ro/)
 * [2024-05-15, 21:02:30](https://news.ycombinator.com/item?id=40372315) - [Qualcomm's Oryon LLVM Patches](https://chipsandcheese.com/2024/05/15/qualcomms-oryon-llvm-patches/)
+* [2024-05-15, 21:00:02](https://news.ycombinator.com/item?id=40372296) - [Making a Postgres query 1k times faster](https://mattermost.com/blog/making-a-postgres-query-1000-times-faster/)
 * [2024-05-15, 20:11:55](https://news.ycombinator.com/item?id=40371785) - [A 'plague' comes before the fall: lessons from Roman history](https://thebulletin.org/2024/05/a-plague-comes-before-the-fall-lessons-from-roman-history/)
 * [2024-05-15, 20:01:37](https://news.ycombinator.com/item?id=40371650) - [What’s the difference between an -ectomy, an -ostomy, and an -otomy? (1986)](https://www.straightdope.com/21341781/in-medicine-what-s-the-difference-between-an-ectomy-an-ostomy-and-an-otomy)
 * [2024-05-15, 19:57:01](https://news.ycombinator.com/item?id=40371612) - [New exponent functions that make SiLU and SoftMax 2x faster, at full accuracy](https://github.com/ggerganov/llama.cpp/pull/7154)
