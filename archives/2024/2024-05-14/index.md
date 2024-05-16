@@ -108,6 +108,7 @@
 * [2024-05-14, 06:08:46](https://news.ycombinator.com/item?id=40352120) - [Verilator: Open-Source SystemVerilog simulator and lint system](https://github.com/verilator/verilator)
 * [2024-05-14, 05:56:13](https://news.ycombinator.com/item?id=40352050) - [LineageOS is the perfect minimal smartphone for non-tech savvy folk](https://blog.decryption.net.au/t/lineageos-is-the-perfect-minimal-smartphone-for-non-tech-savvy-folk/155)
 * [2024-05-14, 05:41:46](https://news.ycombinator.com/item?id=40351971) - [Large Language Models in Containers Locally with Podman AI Lab](https://github.com/containers/podman-desktop-extension-ai-lab)
+* [2024-05-14, 05:34:30](https://news.ycombinator.com/item?id=40351938) - [Piece Chains (2006)](https://www.catch22.net/tuts/neatpad/piece-chains/)
 * [2024-05-14, 03:33:47](https://news.ycombinator.com/item?id=40351410) - [We managed to speed up our CI to save 168 days of execution time per month](https://developers.home-assistant.io/blog/2024/05/09/improving-ci-test-execution/)
 * [2024-05-14, 02:44:07](https://news.ycombinator.com/item?id=40351141) - [The First Nuclear Microreactor Company Listed in the USA](https://nanonuclearenergy.com/)
 * [2024-05-14, 02:10:39](https://news.ycombinator.com/item?id=40350954) - [A review on protein languauge models](https://www.apoorva-srinivasan.com/plms/)

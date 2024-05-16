@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-16](index.md)
 
+* [2024-05-16, 07:59:41](https://news.ycombinator.com/item?id=40376143) - [Typewise (YC S22) is hiring Product Designer for AI writing assistant](https://www.ycombinator.com/companies/typewise/jobs/myJcREP-product-designer-f-m-x)
+* [2024-05-16, 07:36:23](https://news.ycombinator.com/item?id=40376052) - [MKUltra](https://en.wikipedia.org/wiki/MKUltra)
 * [2024-05-16, 06:23:33](https://news.ycombinator.com/item?id=40375736) - [I am resigning from OpenAI – Harrison Kinsley](https://twitter.com/Sentdex/status/1790927013315747939)
 * [2024-05-16, 05:43:45](https://news.ycombinator.com/item?id=40375556) - [Samsung Is Mocking Apple](https://twitter.com/SamsungMobileUS/status/1790824457365594487)
 * [2024-05-16, 05:42:23](https://news.ycombinator.com/item?id=40375548) - [VCs Aren't Your Friends](https://www.openvc.app/blog/vcs-arent-your-friends)
