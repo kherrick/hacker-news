@@ -84,6 +84,7 @@
 * [2024-05-15, 07:07:44](https://news.ycombinator.com/item?id=40363946) - [Learning from the Object Oriented Mania](https://lemire.me/blog/2024/05/14/learning-from-the-object-oriented-mania/)
 * [2024-05-15, 07:01:16](https://news.ycombinator.com/item?id=40363911) - [Great Question (YC W21) Is Hiring Product Engineers (Rails/React)](https://www.ycombinator.com/companies/great-question/jobs/WIk0wNz-product-engineer-rails-react)
 * [2024-05-15, 06:48:45](https://news.ycombinator.com/item?id=40363836) - [A Philosophy of Software Design [pdf]](https://milkov.tech/assets/psd.pdf)
+* [2024-05-15, 06:39:24](https://news.ycombinator.com/item?id=40363788) - [PHYS771 Lecture 17: Fun with the Anthropic Principle (2006)](https://www.scottaaronson.com/democritus/lec17.html)
 * [2024-05-15, 06:32:18](https://news.ycombinator.com/item?id=40363744) - [Translation of the Rust's core and alloc crates to Coq for formal verification](https://formal.land/blog/2024/04/26/translation-core-alloc-crates)
 * [2024-05-15, 06:24:02](https://news.ycombinator.com/item?id=40363704) - [A low budget consumer hardware espionage implant: a GSM device hidden in](https://ha.cking.ch/s8_data_line_locator/)
 * [2024-05-15, 05:50:45](https://news.ycombinator.com/item?id=40363517) - [Show HN: I built a math website the internet loved, I'm back with more features](https://teachyourselfmath.app/?page=1)
