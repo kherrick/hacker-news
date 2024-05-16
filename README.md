@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-16, 14:38:40](https://news.ycombinator.com/item?id=40379028) - [Sprint, T-Mobile Merger Killed Wireless Price Competition in U.S.](https://www.techdirt.com/2024/05/16/report-sprint-t-mobile-merger-immediately-killed-wireless-price-competition-in-u-s/)
+* [2024-05-16, 14:27:52](https://news.ycombinator.com/item?id=40378904) - [The spy who flunked it: Kurt Gödel's forgotten part in the atom-bomb story](https://www.nature.com/articles/d41586-024-00644-1)
 * [2024-05-16, 14:21:02](https://news.ycombinator.com/item?id=40378825) - [Promoted.ai (YC W21) Is Hiring a Apache Flink Expert Staff Engineer](https://www.ycombinator.com/companies/promoted/jobs/1dLskWr-staff-engineer-apache-flink-expert)
+* [2024-05-16, 14:14:58](https://news.ycombinator.com/item?id=40378759) - [Port 666 is officially registered to Doom](https://www.ibiblio.org/shadow/docs/port_numbers)
 * [2024-05-16, 13:42:03](https://news.ycombinator.com/item?id=40378357) - [State of the Terminal](https://gpanders.com/blog/state-of-the-terminal/)
 * [2024-05-16, 13:30:17](https://news.ycombinator.com/item?id=40378218) - [What's New in Neovim 0.10](https://gpanders.com/blog/whats-new-in-neovim-0.10/)
 * [2024-05-16, 13:24:02](https://news.ycombinator.com/item?id=40378127) - [You thought OpenStreetMap uses WGS84? No it doesn't](https://www.openstreetmap.org/user/StephaneP/diary/390290)
@@ -11,7 +14,6 @@
 * [2024-05-16, 05:42:23](https://news.ycombinator.com/item?id=40375548) - [VCs aren’t your friends](https://www.openvc.app/blog/vcs-arent-your-friends)
 * [2024-05-16, 05:01:53](https://news.ycombinator.com/item?id=40375341) - [Some notes on Rust, mutable aliasing and formal verification](https://graydon2.dreamwidth.org/312681.html)
 * [2024-05-16, 04:24:02](https://news.ycombinator.com/item?id=40375178) - [Things I won't work with: the higher states of bromine (2019)](https://blogs.sciencemag.org/pipeline/archives/2019/11/21/the-higher-states-of-bromine)
-* [2024-05-16, 03:29:41](https://news.ycombinator.com/item?id=40374946) - [Swift sucks at web serving or does it?](https://wadetregaskis.com/swift-sucks-at-web-serving-or-does-it/)
 * [2024-05-16, 03:17:08](https://news.ycombinator.com/item?id=40374879) - [Earth rotation limits in-body image stabilization to 6.3 stops (2020)](https://thecentercolumn.com/2020/01/17/earths-rotation-limits-ibis-performance-to-6-3-stops/)
 * [2024-05-15, 21:02:50](https://news.ycombinator.com/item?id=40372317) - [SSD death, tricky read-only filesystems, and systemd magic?](https://rachelbythebay.com/w/2024/05/15/ro/)
 * [2024-05-15, 20:11:55](https://news.ycombinator.com/item?id=40371785) - [A ‘plague’ comes before the fall: lessons from Roman history](https://thebulletin.org/2024/05/a-plague-comes-before-the-fall-lessons-from-roman-history/)
@@ -21,7 +23,6 @@
 * [2024-05-15, 19:39:28](https://news.ycombinator.com/item?id=40371401) - [Project Gameface launches on Android](https://developers.googleblog.com/en/project-gameface-launches-on-android/)
 * [2024-05-15, 16:57:30](https://news.ycombinator.com/item?id=40369467) - [Jepsen: Datomic Pro 1.0.7075](https://jepsen.io/analyses/datomic-pro-1.0.7075)
 * [2024-05-15, 16:32:08](https://news.ycombinator.com/item?id=40369119) - [Starting emails with \"BEGIN PGP MESSAGE\" will fool the filter](https://nondeterministic.computer/@martin/112444389342113780)
-* [2024-05-15, 16:24:03](https://news.ycombinator.com/item?id=40369021) - [Dragonfly: An optical telescope built from an array of off-the-shelf Canon lens](https://www.dunlap.utoronto.ca/instrumentation/dragonfly/)
 * [2024-05-15, 15:12:15](https://news.ycombinator.com/item?id=40368016) - [Adobe Photoshop Source Code (2013)](https://computerhistory.org/blog/adobe-photoshop-source-code/)
 * [2024-05-15, 14:22:05](https://news.ycombinator.com/item?id=40367331) - [Apple announces new accessibility features, including eye tracking](https://www.apple.com/newsroom/2024/05/apple-announces-new-accessibility-features-including-eye-tracking/)
 * [2024-05-15, 14:02:35](https://news.ycombinator.com/item?id=40367090) - [Show HN: Open-source BI and analytics for engineers](https://github.com/quarylabs/quary)
@@ -29,7 +30,6 @@
 * [2024-05-15, 06:39:24](https://news.ycombinator.com/item?id=40363788) - [PHYS771 Lecture 17: Fun with the Anthropic Principle (2006)](https://www.scottaaronson.com/democritus/lec17.html)
 * [2024-05-15, 05:48:02](https://news.ycombinator.com/item?id=40363504) - [Music vs. Lyrics](https://dirt.fyi/article/2024/05/music-versus-lyrics)
 * [2024-05-15, 04:03:40](https://news.ycombinator.com/item?id=40362992) - [Parseback: A pure-Lua introspection library for LuaJIT's FFI ctype objects](https://github.com/javierguerragiraldez/parseback)
-* [2024-05-14, 12:21:42](https://news.ycombinator.com/item?id=40354407) - [Bossware is a big legal risk](https://www.kolide.com/blog/your-company-s-bossware-could-get-you-in-legal-trouble)
 
 ## [Archives](archives/index.md)
 
