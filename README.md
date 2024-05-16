@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-16, 22:16:01](https://news.ycombinator.com/item?id=40383978) - [Slack AI Training with Customer Data](https://slack.com/trust/data-management/privacy-principles?nojsmode=1)
 * [2024-05-16, 22:06:28](https://news.ycombinator.com/item?id=40383886) - [Improvements to Data Analysis in ChatGPT](https://openai.com/index/improvements-to-data-analysis-in-chatgpt/)
 * [2024-05-16, 21:57:22](https://news.ycombinator.com/item?id=40383776) - [Army soldiers not impressed with Strykers outfitted with 50-kilowatt lasers](https://breakingdefense.com/2024/05/army-soldiers-not-impressed-with-strykers-outfitted-with-50-kilowatt-lasers-service-official-says/)
 * [2024-05-16, 21:14:47](https://news.ycombinator.com/item?id=40383263) - [Deutsche Bahn Introduces \"MetaWindow\"](https://www.railtarget.eu/technologies-and-infrastructure/deutsche-bahn-introduces-metawindow-a-gamechanger-in-noise-reduction-for-railways-8449.html)
@@ -25,7 +26,6 @@
 * [2024-05-16, 12:47:07](https://news.ycombinator.com/item?id=40377685) - [F* – A Proof-Oriented Programming Language](https://www.fstar-lang.org/)
 * [2024-05-15, 12:03:20](https://news.ycombinator.com/item?id=40365777) - [Štar: an iteration construct for Common Lisp](https://www.tfeb.org/fragments/2024/05/15/an-iteration-construct-for-common-lisp/)
 * [2024-05-15, 11:40:57](https://news.ycombinator.com/item?id=40365559) - [Robotic \"SuperLimbs\" could help moonwalkers recover from falls](https://news.mit.edu/2024/robotic-superlimbs-could-help-moonwalkers-recover-from-falls-0515)
-* [2024-05-15, 10:58:44](https://news.ycombinator.com/item?id=40365248) - [Why do CPUs have multiple cache levels? (2016)](https://fgiesen.wordpress.com/2016/08/07/why-do-cpus-have-multiple-cache-levels/)
 * [2024-05-15, 07:56:22](https://news.ycombinator.com/item?id=40364220) - [Google Gemini: Context Caching](https://ai.google.dev/gemini-api/docs/caching)
 * [2024-05-15, 07:36:36](https://news.ycombinator.com/item?id=40364108) - [Raspberry Pi prepares for London listing](https://www.ft.com/content/6d846a93-030a-4106-b045-d74a216493b0)
 * [2024-05-15, 05:39:44](https://news.ycombinator.com/item?id=40363458) - [High-Quality Software Engineering (2007)](https://www.lurklurk.org/hqse/hqse.html)
