@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=40371650"
     ],
     [
-      "In medicine what's the difference between an -ectomy, an -ostomy, and an -otomy? (1986)",
+      "What’s the difference between an -ectomy, an -ostomy, and an -otomy? (1986)",
       "https://www.straightdope.com/21341781/in-medicine-what-s-the-difference-between-an-ectomy-an-ostomy-and-an-otomy"
     ]
   ],
@@ -115,7 +115,7 @@
       "https://news.ycombinator.com/item?id=40369668"
     ],
     [
-      "Google Blog: Android's theft protection features keep your device and data safe",
+      "Android's theft protection features",
       "https://blog.google/products/android/android-theft-protection/"
     ]
   ],
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2024-05-14, 20:25:33",
+      "https://news.ycombinator.com/item?id=40359774"
+    ],
+    [
+      "Fast Tokenizers with StringScanner (2023)",
+      "https://tenderlovemaking.com/2023/09/02/fast-tokenizers-with-stringscanner.html"
+    ]
+  ],
+  [
+    [
       "2024-05-14, 17:58:26",
       "https://news.ycombinator.com/item?id=40358041"
     ],
@@ -271,21 +281,11 @@
   ],
   [
     [
-      "2024-05-14, 10:21:15",
-      "https://news.ycombinator.com/item?id=40353557"
-    ],
-    [
-      "Branded types for TypeScript",
-      "https://www.carlos-menezes.com/post/branded-types"
-    ]
-  ],
-  [
-    [
       "2024-05-14, 07:31:50",
       "https://news.ycombinator.com/item?id=40352557"
     ],
     [
-      "When to Split Patches (For PostgreSQL)",
+      "When to split patches for PostgreSQL",
       "http://peter.eisentraut.org/blog/2024/05/14/when-to-split-patches-for-postgresql"
     ]
   ],
