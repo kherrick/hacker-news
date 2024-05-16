@@ -86,6 +86,7 @@
 * [2024-05-15, 05:50:45](https://news.ycombinator.com/item?id=40363517) - [Show HN: I built a math website the internet loved, I'm back with more features](https://teachyourselfmath.app/?page=1)
 * [2024-05-15, 05:39:21](https://news.ycombinator.com/item?id=40363455) - [Born to run? Endurance running may have evolved to help humans chase down prey](https://www.science.org/content/article/born-run-early-endurance-running--may-have-evolved-help-humans-chase-down-prey)
 * [2024-05-15, 05:39:10](https://news.ycombinator.com/item?id=40363453) - [MicroSD cards' SBC days are numbered](https://www.jeffgeerling.com/blog/2024/microsd-cards-sbc-days-are-numbered)
+* [2024-05-15, 05:01:11](https://news.ycombinator.com/item?id=40363262) - [Big Companies vs. Startups (2015)](https://danluu.com/startup-tradeoffs/)
 * [2024-05-15, 04:50:01](https://news.ycombinator.com/item?id=40363213) - [New WiFi Vulnerability: The SSID Confusion Attack](https://www.top10vpn.com/research/wifi-vulnerability-ssid/)
 * [2024-05-15, 04:34:18](https://news.ycombinator.com/item?id=40363135) - [AI is the reason interviews are harder now](https://www.softwaredesign.ing/blog/ai-is-the-reason-interviews-are-harder-now)
 * [2024-05-15, 04:20:18](https://news.ycombinator.com/item?id=40363069) - [Department of Justice says Boeing may be criminally liable in 737 MAX crashes](https://www.usatoday.com/story/money/2024/05/14/boeing-department-of-justice-criminal-liability/73692655007/)
