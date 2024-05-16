@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-16, 10:04:04](https://news.ycombinator.com/item?id=40376718) - [Karman Alpha: amateur rocketry attempt to 100k ft (33 minute documentary) [video]](https://www.youtube.com/watch?v=6ZUuVvpgoCU)
 * [2024-05-16, 09:50:58](https://news.ycombinator.com/item?id=40376658) - [Piracy Block Reversed for Tech Site That Reported Site-Blocking Workarounds](https://torrentfreak.com/piracy-block-withdrawn-after-tech-site-published-site-blocking-workarounds-240516/)
 * [2024-05-16, 07:59:41](https://news.ycombinator.com/item?id=40376143) - [Typewise (YC S22) is hiring Product Designer for AI writing assistant](https://www.ycombinator.com/companies/typewise/jobs/myJcREP-product-designer-f-m-x)
 * [2024-05-16, 06:15:01](https://news.ycombinator.com/item?id=40375700) - [(OpenBSD) Add sysctl to disable Nagle's algorithm](https://marc.info/?l=openbsd-tech&m=171562561424289&w=2)
@@ -24,10 +23,11 @@
 * [2024-05-15, 16:32:08](https://news.ycombinator.com/item?id=40369119) - [Starting emails with \"BEGIN PGP MESSAGE\" will fool the filter](https://nondeterministic.computer/@martin/112444389342113780)
 * [2024-05-15, 16:24:03](https://news.ycombinator.com/item?id=40369021) - [Dragonfly: An optical telescope built from an array of off-the-shelf Canon lens](https://www.dunlap.utoronto.ca/instrumentation/dragonfly/)
 * [2024-05-15, 15:12:15](https://news.ycombinator.com/item?id=40368016) - [Adobe Photoshop Source Code (2013)](https://computerhistory.org/blog/adobe-photoshop-source-code/)
+* [2024-05-15, 15:11:20](https://news.ycombinator.com/item?id=40368008) - [Show HN: I wrote a symmetry game with a daily puzzle](https://www.hidden-mirrors.com)
 * [2024-05-15, 14:22:05](https://news.ycombinator.com/item?id=40367331) - [Apple announces new accessibility features, including eye tracking](https://www.apple.com/newsroom/2024/05/apple-announces-new-accessibility-features-including-eye-tracking/)
 * [2024-05-15, 14:02:35](https://news.ycombinator.com/item?id=40367090) - [Show HN: Open-source BI and analytics for engineers](https://github.com/quarylabs/quary)
 * [2024-05-15, 10:08:04](https://news.ycombinator.com/item?id=40364989) - [Localization in .NET console and desktop apps](https://blog.axantum.com/2024/05/localizing-net-console-or-desktop.html)
-* [2024-05-15, 07:36:07](https://news.ycombinator.com/item?id=40364104) - [\"Is This Project Still Maintained?\"](https://www.hezmatt.org/~mpalmer/blog/2024/05/14/is-this-project-still-maintained.html)
+* [2024-05-14, 21:42:10](https://news.ycombinator.com/item?id=40360487) - [A brief history of the first planetarium](https://spectrum.ieee.org/planetarium-history)
 * [2024-05-14, 20:25:33](https://news.ycombinator.com/item?id=40359774) - [Fast Tokenizers with StringScanner (2023)](https://tenderlovemaking.com/2023/09/02/fast-tokenizers-with-stringscanner.html)
 * [2024-05-14, 12:21:42](https://news.ycombinator.com/item?id=40354407) - [Bossware is a big legal risk](https://www.kolide.com/blog/your-company-s-bossware-could-get-you-in-legal-trouble)
 
