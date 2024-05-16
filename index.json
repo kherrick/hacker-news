@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-05-16, 03:47:05",
+      "https://news.ycombinator.com/item?id=40375029"
+    ],
+    [
+      "NetBSD bans all commits of AI-generated code",
+      "https://mastodon.sdf.org/@netbsd/112446618914747900"
+    ]
+  ],
+  [
+    [
       "2024-05-16, 00:22:33",
       "https://news.ycombinator.com/item?id=40373931"
     ],
@@ -271,12 +281,12 @@
   ],
   [
     [
-      "2024-05-14, 17:58:26",
-      "https://news.ycombinator.com/item?id=40358041"
+      "2024-05-14, 11:35:46",
+      "https://news.ycombinator.com/item?id=40354045"
     ],
     [
-      "Veo",
-      "https://deepmind.google/technologies/veo/"
+      "OpenLisp",
+      "http://christian.jullien.free.fr/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "A Tale of Two Sieves (1996) [pdf]",
       "https://www.ams.org/notices/199612/pomerance.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-05-13, 08:29:02",
-      "https://news.ycombinator.com/item?id=40340969"
-    ],
-    [
-      "Prototypal Inheritance (2008)",
-      "https://crockford.com/javascript/prototypal.html"
     ]
   ]
 ]
