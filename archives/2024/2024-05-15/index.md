@@ -22,6 +22,7 @@
 * [2024-05-15, 19:55:24](https://news.ycombinator.com/item?id=40371595) - [Stop Using Discord](https://usemumble.neocities.org/)
 * [2024-05-15, 19:44:46](https://news.ycombinator.com/item?id=40371467) - [Show HN: I made a Mac app to search my images and videos with AI](https://desktopdocs.com)
 * [2024-05-15, 19:39:28](https://news.ycombinator.com/item?id=40371401) - [Project Gameface Launches on Android](https://developers.googleblog.com/en/project-gameface-launches-on-android/)
+* [2024-05-15, 19:34:14](https://news.ycombinator.com/item?id=40371341) - [40% of US lithium needs could come from wastewater](https://www.pitt.edu/pittwire/features-articles/gas-well-wastewater-lithium)
 * [2024-05-15, 19:24:47](https://news.ycombinator.com/item?id=40371237) - [PaliGemma: Open-Source Multimodal Model by Google](https://blog.roboflow.com/paligemma-multimodal-vision/)
 * [2024-05-15, 18:47:41](https://news.ycombinator.com/item?id=40370816) - [I'm leaving OpenAI after 3½ yrs](https://twitter.com/E0M/status/1790814866695143696)
 * [2024-05-15, 18:29:36](https://news.ycombinator.com/item?id=40370613) - [An Empirical Evaluation of Columnar Storage Formats [pdf]](https://www.vldb.org/pvldb/vol17/p148-zeng.pdf)
