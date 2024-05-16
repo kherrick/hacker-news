@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-05-16, 15:20:45",
+      "https://news.ycombinator.com/item?id=40379488"
+    ],
+    [
+      "Egypt's Pyramids May Have Been Built on a Long-Lost Branch of the Nile",
+      "https://www.nature.com/articles/s43247-024-01379-7"
+    ]
+  ],
+  [
+    [
       "2024-05-16, 15:19:53",
       "https://news.ycombinator.com/item?id=40379480"
     ],
     [
       "Intel's Thunderbolt Share lets two PCs control each other over a USB cable",
       "https://www.theverge.com/2024/5/15/24156519/intel-thunderbolt-share-app"
+    ]
+  ],
+  [
+    [
+      "2024-05-16, 15:05:14",
+      "https://news.ycombinator.com/item?id=40379301"
+    ],
+    [
+      "Deactivating Facebook for just a few weeks reduces belief in fake news",
+      "https://english.elpais.com/technology/2024-05-14/deactivating-facebook-for-just-a-few-weeks-reduces-belief-in-fake-news.html"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-05-15, 20:11:55",
-      "https://news.ycombinator.com/item?id=40371785"
-    ],
-    [
-      "A ‘plague’ comes before the fall: lessons from Roman history",
-      "https://thebulletin.org/2024/05/a-plague-comes-before-the-fall-lessons-from-roman-history/"
-    ]
-  ],
-  [
-    [
       "2024-05-15, 20:01:37",
       "https://news.ycombinator.com/item?id=40371650"
     ],
@@ -227,16 +237,6 @@
     [
       "Jepsen: Datomic Pro 1.0.7075",
       "https://jepsen.io/analyses/datomic-pro-1.0.7075"
-    ]
-  ],
-  [
-    [
-      "2024-05-15, 16:32:08",
-      "https://news.ycombinator.com/item?id=40369119"
-    ],
-    [
-      "Starting emails with \"BEGIN PGP MESSAGE\" will fool the filter",
-      "https://nondeterministic.computer/@martin/112444389342113780"
     ]
   ],
   [
