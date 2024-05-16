@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-16](index.md)
 
 * [2024-05-16, 21:01:29](https://news.ycombinator.com/item?id=40383078) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+* [2024-05-16, 20:56:17](https://news.ycombinator.com/item?id=40383029) - [Winamp has announced that it is \"opening up\" its source code](https://about.winamp.com/press/article/winamp-open-source-code)
 * [2024-05-16, 20:52:56](https://news.ycombinator.com/item?id=40382991) - [How Safe Is SF?](https://howsafeissf.com/)
 * [2024-05-16, 20:48:58](https://news.ycombinator.com/item?id=40382941) - [Show HN: I've built a macOS app for developers to clean their dev machines](https://apps.apple.com/ua/app/cleano/id6469460523?mt=12)
 * [2024-05-16, 20:34:00](https://news.ycombinator.com/item?id=40382783) - [OpenAI and Reddit Partnership](https://openai.com/index/openai-and-reddit-partnership/)
@@ -12,6 +13,7 @@
 * [2024-05-16, 20:09:19](https://news.ycombinator.com/item?id=40382568) - [Germany's Sovereign Tech Fund Now Supporting FFmpeg](https://www.phoronix.com/news/Germany-STF-For-FFmpeg)
 * [2024-05-16, 20:07:37](https://news.ycombinator.com/item?id=40382550) - [A long list of (advanced) JavaScript questions, and their explanations](https://github.com/lydiahallie/javascript-questions)
 * [2024-05-16, 19:48:39](https://news.ycombinator.com/item?id=40382379) - [Online Censorship's Institutional Power](https://madattheinternet.substack.com/p/online-censorships-institutional)
+* [2024-05-16, 19:38:45](https://news.ycombinator.com/item?id=40382271) - [Show HN: We built the fastest Android dev ecosystem](https://dashwave.io/)
 * [2024-05-16, 19:35:21](https://news.ycombinator.com/item?id=40382246) - [JEP Draft: Draft: Support HTTP/3 in the HttpClient](https://openjdk.org/jeps/8291976)
 * [2024-05-16, 19:29:18](https://news.ycombinator.com/item?id=40382163) - [Exit Strategy: The Case for Single-Stair Egress](https://www.architecturalrecord.com/articles/16880-exit-strategy-the-case-for-single-stair-egress)
 * [2024-05-16, 19:10:38](https://news.ycombinator.com/item?id=40381966) - [Taboos and Self-Censorship Among U.S. Psychology Professors](https://journals.sagepub.com/doi/full/10.1177/17456916241252085)
