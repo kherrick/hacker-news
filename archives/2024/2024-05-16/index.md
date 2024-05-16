@@ -7,6 +7,7 @@
 * [2024-05-16, 05:42:23](https://news.ycombinator.com/item?id=40375548) - [VCs Aren't Your Friends](https://www.openvc.app/blog/vcs-arent-your-friends)
 * [2024-05-16, 05:01:53](https://news.ycombinator.com/item?id=40375341) - [Some notes on Rust, mutable aliasing and formal verification](https://graydon2.dreamwidth.org/312681.html)
 * [2024-05-16, 04:52:21](https://news.ycombinator.com/item?id=40375297) - [.aq](https://en.wikipedia.org/wiki/.aq)
+* [2024-05-16, 04:37:13](https://news.ycombinator.com/item?id=40375226) - [Enhancing R: The Vision and Impact of Jan Vitek's MaintainR Initiative](https://www.r-consortium.org/blog/2024/05/15/enhancing-r-the-vision-and-impact-of-jan-viteks-maintainr-initiative)
 * [2024-05-16, 04:24:02](https://news.ycombinator.com/item?id=40375178) - [Things I won't work with: the higher states of bromine](https://blogs.sciencemag.org/pipeline/archives/2019/11/21/the-higher-states-of-bromine)
 * [2024-05-16, 03:47:05](https://news.ycombinator.com/item?id=40375029) - [NetBSD bans all commits of AI-generated code](https://mastodon.sdf.org/@netbsd/112446618914747900)
 * [2024-05-16, 03:29:41](https://news.ycombinator.com/item?id=40374946) - [Swift sucks at web serving or does it?](https://wadetregaskis.com/swift-sucks-at-web-serving-or-does-it/)
