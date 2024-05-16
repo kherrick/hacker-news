@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-05-16, 13:00:28",
+      "https://news.ycombinator.com/item?id=40377831"
+    ],
+    [
+      "NetBSD bans use of Copilot-generated code",
+      "https://www.osnews.com/story/139698/netbsd-bans-use-of-copilot-generated-code/"
+    ]
+  ],
+  [
+    [
+      "2024-05-16, 12:41:05",
+      "https://news.ycombinator.com/item?id=40377625"
+    ],
+    [
+      "A proposal to switch Fedora Workstation's desktop from GNOME to KDE",
+      "https://lwn.net/Articles/970929/"
+    ]
+  ],
+  [
+    [
       "2024-05-16, 12:14:21",
       "https://news.ycombinator.com/item?id=40377370"
     ],
@@ -31,6 +51,16 @@
   ],
   [
     [
+      "2024-05-16, 11:47:04",
+      "https://news.ycombinator.com/item?id=40377198"
+    ],
+    [
+      "Internet use associated with higher wellbeing, finds new global Oxford study",
+      "https://www.ox.ac.uk/news/2024-05-14-internet-use-statistically-associated-higher-wellbeing-finds-new-global-oxford-study"
+    ]
+  ],
+  [
+    [
       "2024-05-16, 11:41:50",
       "https://news.ycombinator.com/item?id=40377161"
     ],
@@ -47,6 +77,16 @@
     [
       "EU opens child safety probes of Facebook and Instagram, citing addictive design",
       "https://techcrunch.com/2024/05/16/eu-opens-child-safety-probes-of-facebook-and-instagram-citing-addictive-design-concerns/"
+    ]
+  ],
+  [
+    [
+      "2024-05-16, 11:12:24",
+      "https://news.ycombinator.com/item?id=40377039"
+    ],
+    [
+      "Possible author of the Cicada 3301 community",
+      "https://wondrousnet.blogspot.com/2022/11/cicada-3301-solution.html"
     ]
   ],
   [
@@ -77,16 +117,6 @@
     [
       "Typewise (YC S22) is hiring Product Designer for AI writing assistant",
       "https://www.ycombinator.com/companies/typewise/jobs/myJcREP-product-designer-f-m-x"
-    ]
-  ],
-  [
-    [
-      "2024-05-16, 06:03:07",
-      "https://news.ycombinator.com/item?id=40375641"
-    ],
-    [
-      "My Sony HB-F1XV",
-      "https://thefoggiest.dev/2024/05/16/my-sony-hb-f1xv"
     ]
   ],
   [
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2024-05-16, 03:17:08",
-      "https://news.ycombinator.com/item?id=40374879"
-    ],
-    [
-      "Earth rotation limits in-body image stabilization to 6.3 stops (2020)",
-      "https://thecentercolumn.com/2020/01/17/earths-rotation-limits-ibis-performance-to-6-3-stops/"
-    ]
-  ],
-  [
-    [
       "2024-05-15, 21:02:50",
       "https://news.ycombinator.com/item?id=40372317"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-05-15, 19:44:46",
-      "https://news.ycombinator.com/item?id=40371467"
-    ],
-    [
-      "Show HN: I made a Mac app to search my images and videos locally with ML",
-      "https://desktopdocs.com"
-    ]
-  ],
-  [
-    [
       "2024-05-15, 19:39:28",
       "https://news.ycombinator.com/item?id=40371401"
     ],
@@ -227,16 +237,6 @@
     [
       "Starting emails with \"BEGIN PGP MESSAGE\" will fool the filter",
       "https://nondeterministic.computer/@martin/112444389342113780"
-    ]
-  ],
-  [
-    [
-      "2024-05-15, 16:24:03",
-      "https://news.ycombinator.com/item?id=40369021"
-    ],
-    [
-      "Dragonfly: An optical telescope built from an array of off-the-shelf Canon lens",
-      "https://www.dunlap.utoronto.ca/instrumentation/dragonfly/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2024-05-14, 10:06:58",
-      "https://news.ycombinator.com/item?id=40353476"
+      "2024-05-15, 04:03:40",
+      "https://news.ycombinator.com/item?id=40362992"
     ],
     [
-      "The Nascar Camera Tech Behind a Historic 0.001s Photo Finish",
-      "https://petapixel.com/2024/05/08/the-nascar-camera-tech-behind-a-historic-0-001s-photo-finish/"
+      "Parseback: A pure-Lua introspection library for LuaJIT's FFI ctype objects",
+      "https://github.com/javierguerragiraldez/parseback"
     ]
   ]
 ]
