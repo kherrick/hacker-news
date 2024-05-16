@@ -24,12 +24,12 @@
 * [2024-05-15, 13:11:08](https://news.ycombinator.com/item?id=40366443) - [Proteins in blood could provide early cancer warning 'by more than seven years'](https://www.theguardian.com/society/article/2024/may/15/proteins-blood-cancer-warning-seven-years-study)
 * [2024-05-15, 12:32:14](https://news.ycombinator.com/item?id=40366062) - [Raspberry Pi Ltd is considering an IPO](https://www.londonstockexchange.com/news-article/market-news/expected-intention-to-float/16470316)
 * [2024-05-15, 05:01:11](https://news.ycombinator.com/item?id=40363262) - [Big Companies vs. Startups (2015)](https://danluu.com/startup-tradeoffs/)
+* [2024-05-14, 21:42:10](https://news.ycombinator.com/item?id=40360487) - [A brief history of the first planetarium](https://spectrum.ieee.org/planetarium-history)
 * [2024-05-14, 20:25:33](https://news.ycombinator.com/item?id=40359774) - [Fast Tokenizers with StringScanner (2023)](https://tenderlovemaking.com/2023/09/02/fast-tokenizers-with-stringscanner.html)
 * [2024-05-14, 17:58:26](https://news.ycombinator.com/item?id=40358041) - [Veo](https://deepmind.google/technologies/veo/)
 * [2024-05-14, 11:10:17](https://news.ycombinator.com/item?id=40353874) - [A Tale of Two Sieves (1996) [pdf]](https://www.ams.org/notices/199612/pomerance.pdf)
 * [2024-05-14, 10:30:23](https://news.ycombinator.com/item?id=40353630) - [Prague Astronomical Clock Simulator (2022)](https://github.com/kshetline/prague-clock)
 * [2024-05-14, 07:31:50](https://news.ycombinator.com/item?id=40352557) - [When to split patches for PostgreSQL](http://peter.eisentraut.org/blog/2024/05/14/when-to-split-patches-for-postgresql)
-* [2024-05-13, 08:29:02](https://news.ycombinator.com/item?id=40340969) - [Prototypal Inheritance (2008)](https://crockford.com/javascript/prototypal.html)
 
 ## [Archives](archives/index.md)
 

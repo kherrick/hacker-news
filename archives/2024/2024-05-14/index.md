@@ -8,6 +8,7 @@
 * [2024-05-14, 23:37:25](https://news.ycombinator.com/item?id=40361387) - [The Most Talented Person in the World](https://matt.sh/the-most-talented-person)
 * [2024-05-14, 23:01:26](https://news.ycombinator.com/item?id=40361128) - [Ilya Sutskever to leave OpenAI](https://twitter.com/ilyasut/status/1790517455628198322)
 * [2024-05-14, 22:17:56](https://news.ycombinator.com/item?id=40360797) - [Google I/O AI announcements in 60 seconds](https://buttondown.email/ainews/archive/ainews-google-io-in-60-seconds/)
+* [2024-05-14, 21:42:10](https://news.ycombinator.com/item?id=40360487) - [A brief history of the first planetarium](https://spectrum.ieee.org/planetarium-history)
 * [2024-05-14, 21:12:33](https://news.ycombinator.com/item?id=40360217) - [Firebase App Hosting](https://firebase.blog/posts/2024/05/introducing-app-hosting/)
 * [2024-05-14, 21:00:48](https://news.ycombinator.com/item?id=40360112) - [Dart 3.4 (WASM and Macros preview)](https://medium.com/dartlang/dart-3-4-bd8d23b4462a)
 * [2024-05-14, 20:48:14](https://news.ycombinator.com/item?id=40359993) - [NTSB Report on Contact of Containership with the Key Bridge and Bridge Collapse [pdf]](https://static01.nyt.com/newsgraphics/documenttools/6119296c8c79713a/0e214c46-full.pdf)
