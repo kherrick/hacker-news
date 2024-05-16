@@ -95,6 +95,7 @@
 * [2024-05-14, 10:24:25](https://news.ycombinator.com/item?id=40353585) - [Top doctor remains brain cancer-free after a year (of his own treatment)](https://www.bbc.co.uk/news/world-australia-69006713)
 * [2024-05-14, 10:21:15](https://news.ycombinator.com/item?id=40353557) - [Branded Types for TypeScript](https://www.carlos-menezes.com/post/branded-types)
 * [2024-05-14, 10:15:13](https://news.ycombinator.com/item?id=40353529) - [Researchers find high levels of lead, mercury and arsenic in Beethoven's hair](https://www.smithsonianmag.com/smart-news/locks-of-beethovens-hair-are-unraveling-the-mysteries-of-his-deafness-and-illnesses-180984332/)
+* [2024-05-14, 10:06:58](https://news.ycombinator.com/item?id=40353476) - [The Nascar Camera Tech Behind a Historic 0.001s Photo Finish](https://petapixel.com/2024/05/08/the-nascar-camera-tech-behind-a-historic-0-001s-photo-finish/)
 * [2024-05-14, 09:35:51](https://news.ycombinator.com/item?id=40353263) - [Sony Playstation will soon have two CEOs](https://www.engadget.com/sony-playstation-will-soon-have-two-ceos-090041004.html)
 * [2024-05-14, 09:06:43](https://news.ycombinator.com/item?id=40353102) - [Turn Your Android Tablet into an IDE with VSCode and Nix](https://www.50-nuances-octets.fr/en/posts/turn-android-tablet-into-ide-with-vscode-nix/)
 * [2024-05-14, 07:56:13](https://news.ycombinator.com/item?id=40352686) - [The Notifier Pattern for Applications That Use Postgres](https://brandur.org/notifier)
