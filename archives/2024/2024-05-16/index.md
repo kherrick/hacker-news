@@ -8,6 +8,7 @@
 * [2024-05-16, 17:00:11](https://news.ycombinator.com/item?id=40380596) - [Reflex (YC W23) Is Hiring Software Engineers](https://www.ycombinator.com/companies/reflex/jobs/6kHXK7x-software-engineer)
 * [2024-05-16, 16:51:37](https://news.ycombinator.com/item?id=40380499) - [America's dramatic shift from gas power plants to batteries](https://theprogressplaybook.com/2024/04/17/in-numbers-americas-dramatic-shift-from-gas-power-plants-to-batteries/)
 * [2024-05-16, 16:20:03](https://news.ycombinator.com/item?id=40380158) - [Using Llamafiles for Embeddings in Local RAG Applications](https://future.mozilla.org/news/llamafiles-for-embeddings-in-local-rag-applications/)
+* [2024-05-16, 16:18:32](https://news.ycombinator.com/item?id=40380137) - [We've All Felt It](https://www.raycast.com/why)
 * [2024-05-16, 16:05:48](https://news.ycombinator.com/item?id=40379996) - [Mummy Brown](https://en.wikipedia.org/wiki/Mummy_brown)
 * [2024-05-16, 16:04:47](https://news.ycombinator.com/item?id=40379982) - [Build WebGPU Apps Today with PlayCanvas](https://blog.playcanvas.com/build-webgpu-apps-today-with-playcanvas/)
 * [2024-05-16, 15:30:49](https://news.ycombinator.com/item?id=40379599) - [ChatGPT-4o vs. Math](https://www.sabrina.dev/p/chatgpt4o-vs-math)
