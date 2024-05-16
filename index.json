@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2024-05-14, 21:42:10",
+      "https://news.ycombinator.com/item?id=40360487"
+    ],
+    [
+      "A brief history of the first planetarium",
+      "https://spectrum.ieee.org/planetarium-history"
+    ]
+  ],
+  [
+    [
       "2024-05-14, 20:25:33",
       "https://news.ycombinator.com/item?id=40359774"
     ],
@@ -287,16 +297,6 @@
     [
       "When to split patches for PostgreSQL",
       "http://peter.eisentraut.org/blog/2024/05/14/when-to-split-patches-for-postgresql"
-    ]
-  ],
-  [
-    [
-      "2024-05-13, 08:29:02",
-      "https://news.ycombinator.com/item?id=40340969"
-    ],
-    [
-      "Prototypal Inheritance (2008)",
-      "https://crockford.com/javascript/prototypal.html"
     ]
   ]
 ]
