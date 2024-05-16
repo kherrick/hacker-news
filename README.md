@@ -15,7 +15,7 @@
 * [2024-05-15, 19:57:01](https://news.ycombinator.com/item?id=40371612) - [New exponent functions that make SiLU and SoftMax 2x faster, at full accuracy](https://github.com/ggerganov/llama.cpp/pull/7154)
 * [2024-05-15, 19:44:46](https://news.ycombinator.com/item?id=40371467) - [Show HN: I made a Mac app to search my images and videos locally with ML](https://desktopdocs.com)
 * [2024-05-15, 19:39:28](https://news.ycombinator.com/item?id=40371401) - [Project Gameface launches on Android](https://developers.googleblog.com/en/project-gameface-launches-on-android/)
-* [2024-05-15, 19:34:14](https://news.ycombinator.com/item?id=40371341) - [40% of US lithium needs could come from wastewater](https://www.pitt.edu/pittwire/features-articles/gas-well-wastewater-lithium)
+* [2024-05-15, 19:34:14](https://news.ycombinator.com/item?id=40371341) - [Some lithium could come from wastewater](https://www.pitt.edu/pittwire/features-articles/gas-well-wastewater-lithium)
 * [2024-05-15, 17:12:05](https://news.ycombinator.com/item?id=40369668) - [Android's theft protection features](https://blog.google/products/android/android-theft-protection/)
 * [2024-05-15, 17:00:50](https://news.ycombinator.com/item?id=40369524) - [Ashby (YC W19) Is Hiring Technical EMs Who Love Coaching](https://www.ashbyhq.com/careers?utm_source=hn&ashby_jid=933570bc-a3d6-4fcc-991d-dc399c53a58a)
 * [2024-05-15, 16:57:30](https://news.ycombinator.com/item?id=40369467) - [Jepsen: Datomic Pro 1.0.7075](https://jepsen.io/analyses/datomic-pro-1.0.7075)
