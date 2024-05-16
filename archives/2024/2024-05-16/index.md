@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-05-16](index.md)
 
+* [2024-05-16, 13:19:37](https://news.ycombinator.com/item?id=40378076) - [C.S. Lewis and the Pain Scale](https://www.wsj.com/articles/c-s-lewis-and-the-pain-scale-basketball-injury-christmas-sermon-149bc51b)
 * [2024-05-16, 13:13:30](https://news.ycombinator.com/item?id=40377991) - [Peru classifies trans people as 'mentally ill' after government decree](https://old.reddit.com/r/worldnews/comments/1ct8k0o/peru_classifies_trans_people_as_mentally_ill/)
 * [2024-05-16, 13:00:28](https://news.ycombinator.com/item?id=40377831) - [NetBSD bans use of Copilot-generated code](https://www.osnews.com/story/139698/netbsd-bans-use-of-copilot-generated-code/)
+* [2024-05-16, 12:47:07](https://news.ycombinator.com/item?id=40377685) - [F* – A Proof-Oriented Programming Language](https://www.fstar-lang.org/)
 * [2024-05-16, 12:41:05](https://news.ycombinator.com/item?id=40377625) - [A proposal to switch Fedora Workstation's desktop from GNOME to KDE](https://lwn.net/Articles/970929/)
 * [2024-05-16, 12:14:21](https://news.ycombinator.com/item?id=40377370) - [Cardiovascular health and cancer risk associated with plant based diets](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0300711)
 * [2024-05-16, 12:10:51](https://news.ycombinator.com/item?id=40377344) - [Elicit: The AI Research Assistant](https://elicit.com/)
