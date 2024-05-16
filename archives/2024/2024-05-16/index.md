@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-16](index.md)
 
+* [2024-05-16, 14:21:02](https://news.ycombinator.com/item?id=40378825) - [Promoted.ai (YC W21) Is Hiring a Apache Flink Expert Staff Engineer](https://www.ycombinator.com/companies/promoted/jobs/1dLskWr-staff-engineer-apache-flink-expert)
 * [2024-05-16, 13:42:03](https://news.ycombinator.com/item?id=40378357) - [State of the Terminal](https://gpanders.com/blog/state-of-the-terminal/)
 * [2024-05-16, 13:30:17](https://news.ycombinator.com/item?id=40378218) - [What's New in Neovim 0.10](https://gpanders.com/blog/whats-new-in-neovim-0.10/)
 * [2024-05-16, 13:19:37](https://news.ycombinator.com/item?id=40378076) - [C.S. Lewis and the Pain Scale](https://www.wsj.com/articles/c-s-lewis-and-the-pain-scale-basketball-injury-christmas-sermon-149bc51b)
