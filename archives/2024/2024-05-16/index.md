@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-16](index.md)
 
 * [2024-05-16, 22:06:28](https://news.ycombinator.com/item?id=40383886) - [Improvements to Data Analysis in ChatGPT](https://openai.com/index/improvements-to-data-analysis-in-chatgpt/)
+* [2024-05-16, 21:57:22](https://news.ycombinator.com/item?id=40383776) - [Army soldiers not impressed with Strykers outfitted with 50-kilowatt lasers](https://breakingdefense.com/2024/05/army-soldiers-not-impressed-with-strykers-outfitted-with-50-kilowatt-lasers-service-official-says/)
 * [2024-05-16, 21:33:26](https://news.ycombinator.com/item?id=40383493) - [Hertz sold a bunch of Teslas and it turns out they're all kinds of trouble](https://qz.com/tesla-hertz-used-electric-cars-evs-damage-glitches-1851482632)
 * [2024-05-16, 21:14:47](https://news.ycombinator.com/item?id=40383263) - [Deutsche Bahn Introduces \"MetaWindow\"](https://www.railtarget.eu/technologies-and-infrastructure/deutsche-bahn-introduces-metawindow-a-gamechanger-in-noise-reduction-for-railways-8449.html)
 * [2024-05-16, 21:01:29](https://news.ycombinator.com/item?id=40383078) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
