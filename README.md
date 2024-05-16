@@ -2,7 +2,6 @@
 
 * [2024-05-16, 17:02:40](https://news.ycombinator.com/item?id=40380639) - [I Don't Want to Spend My One Precious Life Dealing with Google's AI Search](https://aftermath.site/google-ai-search-god-no-why)
 * [2024-05-16, 17:00:11](https://news.ycombinator.com/item?id=40380596) - [Reflex (YC W23) Is Hiring Software Engineers](https://www.ycombinator.com/companies/reflex/jobs/6kHXK7x-software-engineer)
-* [2024-05-16, 16:51:37](https://news.ycombinator.com/item?id=40380499) - [America's dramatic shift from gas power plants to batteries](https://theprogressplaybook.com/2024/04/17/in-numbers-americas-dramatic-shift-from-gas-power-plants-to-batteries/)
 * [2024-05-16, 16:20:03](https://news.ycombinator.com/item?id=40380158) - [Using Llamafiles for Embeddings in Local RAG Applications](https://future.mozilla.org/news/llamafiles-for-embeddings-in-local-rag-applications/)
 * [2024-05-16, 16:05:48](https://news.ycombinator.com/item?id=40379996) - [Mummy Brown](https://en.wikipedia.org/wiki/Mummy_brown)
 * [2024-05-16, 16:04:47](https://news.ycombinator.com/item?id=40379982) - [Build WebGPU Apps Today with PlayCanvas](https://blog.playcanvas.com/build-webgpu-apps-today-with-playcanvas/)
@@ -25,6 +24,7 @@
 * [2024-05-15, 20:01:37](https://news.ycombinator.com/item?id=40371650) - [What’s the difference between an -ectomy, an -ostomy, and an -otomy? (1986)](https://www.straightdope.com/21341781/in-medicine-what-s-the-difference-between-an-ectomy-an-ostomy-and-an-otomy)
 * [2024-05-15, 19:57:01](https://news.ycombinator.com/item?id=40371612) - [New exponent functions that make SiLU and SoftMax 2x faster, at full accuracy](https://github.com/ggerganov/llama.cpp/pull/7154)
 * [2024-05-15, 16:57:30](https://news.ycombinator.com/item?id=40369467) - [Jepsen: Datomic Pro 1.0.7075](https://jepsen.io/analyses/datomic-pro-1.0.7075)
+* [2024-05-15, 16:32:08](https://news.ycombinator.com/item?id=40369119) - [Starting emails with \"BEGIN PGP MESSAGE\" will fool the filter](https://nondeterministic.computer/@martin/112444389342113780)
 * [2024-05-15, 10:58:44](https://news.ycombinator.com/item?id=40365248) - [Why do CPUs have multiple cache levels? (2016)](https://fgiesen.wordpress.com/2016/08/07/why-do-cpus-have-multiple-cache-levels/)
 * [2024-05-15, 10:08:04](https://news.ycombinator.com/item?id=40364989) - [Localization in .NET console and desktop apps](https://blog.axantum.com/2024/05/localizing-net-console-or-desktop.html)
 * [2024-05-15, 07:36:36](https://news.ycombinator.com/item?id=40364108) - [Raspberry Pi prepares for London listing](https://www.ft.com/content/6d846a93-030a-4106-b045-d74a216493b0)
