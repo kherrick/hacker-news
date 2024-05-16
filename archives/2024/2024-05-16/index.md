@@ -12,6 +12,7 @@
 * [2024-05-16, 07:36:23](https://news.ycombinator.com/item?id=40376052) - [MKUltra](https://en.wikipedia.org/wiki/MKUltra)
 * [2024-05-16, 06:23:33](https://news.ycombinator.com/item?id=40375736) - [I am resigning from OpenAI – Harrison Kinsley](https://twitter.com/Sentdex/status/1790927013315747939)
 * [2024-05-16, 06:15:01](https://news.ycombinator.com/item?id=40375700) - [(OpenBSD) Add sysctl to disable Nagle's algorithm](https://marc.info/?l=openbsd-tech&m=171562561424289&w=2)
+* [2024-05-16, 06:03:07](https://news.ycombinator.com/item?id=40375641) - [My Sony HB-F1XV](https://thefoggiest.dev/2024/05/16/my-sony-hb-f1xv)
 * [2024-05-16, 05:43:45](https://news.ycombinator.com/item?id=40375556) - [Samsung Is Mocking Apple](https://twitter.com/SamsungMobileUS/status/1790824457365594487)
 * [2024-05-16, 05:42:23](https://news.ycombinator.com/item?id=40375548) - [VCs Aren't Your Friends](https://www.openvc.app/blog/vcs-arent-your-friends)
 * [2024-05-16, 05:32:35](https://news.ycombinator.com/item?id=40375498) - [SSH backdoors infects Linux maintainers computers for 2 years](https://arstechnica.com/security/2024/05/ssh-backdoor-has-infected-400000-linux-servers-over-15-years-and-keeps-on-spreading/)

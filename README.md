@@ -2,6 +2,7 @@
 
 * [2024-05-16, 07:59:41](https://news.ycombinator.com/item?id=40376143) - [Typewise (YC S22) is hiring Product Designer for AI writing assistant](https://www.ycombinator.com/companies/typewise/jobs/myJcREP-product-designer-f-m-x)
 * [2024-05-16, 06:15:01](https://news.ycombinator.com/item?id=40375700) - [(OpenBSD) Add sysctl to disable Nagle's algorithm](https://marc.info/?l=openbsd-tech&m=171562561424289&w=2)
+* [2024-05-16, 06:03:07](https://news.ycombinator.com/item?id=40375641) - [My Sony HB-F1XV](https://thefoggiest.dev/2024/05/16/my-sony-hb-f1xv)
 * [2024-05-16, 05:42:23](https://news.ycombinator.com/item?id=40375548) - [VCs aren’t your friends](https://www.openvc.app/blog/vcs-arent-your-friends)
 * [2024-05-16, 05:32:35](https://news.ycombinator.com/item?id=40375498) - [Kernel.org servers infected with backdoors for two years from 2009](https://arstechnica.com/security/2024/05/ssh-backdoor-has-infected-400000-linux-servers-over-15-years-and-keeps-on-spreading/)
 * [2024-05-16, 05:01:53](https://news.ycombinator.com/item?id=40375341) - [Some notes on Rust, mutable aliasing and formal verification](https://graydon2.dreamwidth.org/312681.html)
@@ -22,7 +23,6 @@
 * [2024-05-15, 16:32:08](https://news.ycombinator.com/item?id=40369119) - [Starting emails with \"BEGIN PGP MESSAGE\" will fool the filter](https://nondeterministic.computer/@martin/112444389342113780)
 * [2024-05-15, 16:24:03](https://news.ycombinator.com/item?id=40369021) - [Dragonfly: An optical telescope built from an array of off-the-shelf Canon lens](https://www.dunlap.utoronto.ca/instrumentation/dragonfly/)
 * [2024-05-15, 15:12:15](https://news.ycombinator.com/item?id=40368016) - [Adobe Photoshop Source Code (2013)](https://computerhistory.org/blog/adobe-photoshop-source-code/)
-* [2024-05-15, 15:11:20](https://news.ycombinator.com/item?id=40368008) - [Show HN: I wrote a symmetry game with a daily puzzle](https://www.hidden-mirrors.com)
 * [2024-05-15, 14:22:05](https://news.ycombinator.com/item?id=40367331) - [Apple announces new accessibility features, including eye tracking](https://www.apple.com/newsroom/2024/05/apple-announces-new-accessibility-features-including-eye-tracking/)
 * [2024-05-15, 14:02:35](https://news.ycombinator.com/item?id=40367090) - [Show HN: Open-source BI and analytics for engineers](https://github.com/quarylabs/quary)
 * [2024-05-15, 10:08:04](https://news.ycombinator.com/item?id=40364989) - [Localization in .NET console and desktop apps](https://blog.axantum.com/2024/05/localizing-net-console-or-desktop.html)
