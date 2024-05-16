@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-16, 13:42:03](https://news.ycombinator.com/item?id=40378357) - [State of the Terminal](https://gpanders.com/blog/state-of-the-terminal/)
+* [2024-05-16, 13:30:17](https://news.ycombinator.com/item?id=40378218) - [What's New in Neovim 0.10](https://gpanders.com/blog/whats-new-in-neovim-0.10/)
 * [2024-05-16, 13:19:37](https://news.ycombinator.com/item?id=40378076) - [C.S. Lewis and the Pain Scale](https://www.wsj.com/articles/c-s-lewis-and-the-pain-scale-basketball-injury-christmas-sermon-149bc51b)
 * [2024-05-16, 12:47:07](https://news.ycombinator.com/item?id=40377685) - [F* – A Proof-Oriented Programming Language](https://www.fstar-lang.org/)
 * [2024-05-16, 12:10:51](https://news.ycombinator.com/item?id=40377344) - [Elicit: The AI Research Assistant](https://elicit.com/)
 * [2024-05-16, 11:47:34](https://news.ycombinator.com/item?id=40377201) - [Students invent quieter leaf blower](https://hub.jhu.edu/2024/05/14/quieter-leaf-blower/)
-* [2024-05-16, 11:40:39](https://news.ycombinator.com/item?id=40377154) - [EU opens child safety probes of Facebook and Instagram, citing addictive design](https://techcrunch.com/2024/05/16/eu-opens-child-safety-probes-of-facebook-and-instagram-citing-addictive-design-concerns/)
-* [2024-05-16, 11:12:24](https://news.ycombinator.com/item?id=40377039) - [Cicada 3301 – solution (2022)](https://wondrousnet.blogspot.com/2022/11/cicada-3301-solution.html)
 * [2024-05-16, 10:19:01](https://news.ycombinator.com/item?id=40376775) - [Forgotten APL Influences (2016) [pdf]](https://pok.acm.org/meetings/foils/McGrew18paper.pdf)
 * [2024-05-16, 07:59:41](https://news.ycombinator.com/item?id=40376143) - [Typewise (YC S22) is hiring Product Designer for AI writing assistant](https://www.ycombinator.com/companies/typewise/jobs/myJcREP-product-designer-f-m-x)
 * [2024-05-16, 06:03:07](https://news.ycombinator.com/item?id=40375641) - [My Sony HB-F1XV](https://thefoggiest.dev/2024/05/16/my-sony-hb-f1xv)
