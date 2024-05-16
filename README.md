@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-16, 07:59:41](https://news.ycombinator.com/item?id=40376143) - [Typewise (YC S22) is hiring Product Designer for AI writing assistant](https://www.ycombinator.com/companies/typewise/jobs/myJcREP-product-designer-f-m-x)
-* [2024-05-16, 07:36:23](https://news.ycombinator.com/item?id=40376052) - [MKUltra](https://en.wikipedia.org/wiki/MKUltra)
 * [2024-05-16, 06:15:01](https://news.ycombinator.com/item?id=40375700) - [(OpenBSD) Add sysctl to disable Nagle's algorithm](https://marc.info/?l=openbsd-tech&m=171562561424289&w=2)
 * [2024-05-16, 05:42:23](https://news.ycombinator.com/item?id=40375548) - [VCs aren’t your friends](https://www.openvc.app/blog/vcs-arent-your-friends)
 * [2024-05-16, 05:32:35](https://news.ycombinator.com/item?id=40375498) - [Kernel.org servers infected with backdoors for two years from 2009](https://arstechnica.com/security/2024/05/ssh-backdoor-has-infected-400000-linux-servers-over-15-years-and-keeps-on-spreading/)
@@ -18,6 +17,7 @@
 * [2024-05-15, 19:44:46](https://news.ycombinator.com/item?id=40371467) - [Show HN: I made a Mac app to search my images and videos locally with ML](https://desktopdocs.com)
 * [2024-05-15, 19:39:28](https://news.ycombinator.com/item?id=40371401) - [Project Gameface launches on Android](https://developers.googleblog.com/en/project-gameface-launches-on-android/)
 * [2024-05-15, 19:34:14](https://news.ycombinator.com/item?id=40371341) - [Some lithium could come from wastewater](https://www.pitt.edu/pittwire/features-articles/gas-well-wastewater-lithium)
+* [2024-05-15, 17:12:05](https://news.ycombinator.com/item?id=40369668) - [Android's theft protection features](https://blog.google/products/android/android-theft-protection/)
 * [2024-05-15, 16:57:30](https://news.ycombinator.com/item?id=40369467) - [Jepsen: Datomic Pro 1.0.7075](https://jepsen.io/analyses/datomic-pro-1.0.7075)
 * [2024-05-15, 16:46:15](https://news.ycombinator.com/item?id=40369319) - [Show HN: Tarsier – Vision utilities for web interaction agents](https://github.com/reworkd/tarsier)
 * [2024-05-15, 16:32:08](https://news.ycombinator.com/item?id=40369119) - [Starting emails with \"BEGIN PGP MESSAGE\" will fool the filter](https://nondeterministic.computer/@martin/112444389342113780)
