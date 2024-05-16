@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2024-05-16, 13:24:02",
+      "https://news.ycombinator.com/item?id=40378127"
+    ],
+    [
+      "You thought OpenStreetMap uses WGS84? No it doesn't",
+      "https://www.openstreetmap.org/user/StephaneP/diary/390290"
+    ]
+  ],
+  [
+    [
       "2024-05-16, 12:47:07",
       "https://news.ycombinator.com/item?id=40377685"
     ],
@@ -287,16 +297,6 @@
     [
       "Parseback: A pure-Lua introspection library for LuaJIT's FFI ctype objects",
       "https://github.com/javierguerragiraldez/parseback"
-    ]
-  ],
-  [
-    [
-      "2024-05-14, 12:21:42",
-      "https://news.ycombinator.com/item?id=40354407"
-    ],
-    [
-      "Bossware is a big legal risk",
-      "https://www.kolide.com/blog/your-company-s-bossware-could-get-you-in-legal-trouble"
     ]
   ]
 ]
