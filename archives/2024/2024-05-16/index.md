@@ -7,6 +7,7 @@
 * [2024-05-16, 14:21:02](https://news.ycombinator.com/item?id=40378825) - [Promoted.ai (YC W21) Is Hiring a Apache Flink Expert Staff Engineer](https://www.ycombinator.com/companies/promoted/jobs/1dLskWr-staff-engineer-apache-flink-expert)
 * [2024-05-16, 13:42:03](https://news.ycombinator.com/item?id=40378357) - [State of the Terminal](https://gpanders.com/blog/state-of-the-terminal/)
 * [2024-05-16, 13:30:17](https://news.ycombinator.com/item?id=40378218) - [What's New in Neovim 0.10](https://gpanders.com/blog/whats-new-in-neovim-0.10/)
+* [2024-05-16, 13:24:02](https://news.ycombinator.com/item?id=40378127) - [You thought OpenStreetMap uses WGS84? No it doesn't](https://www.openstreetmap.org/user/StephaneP/diary/390290)
 * [2024-05-16, 13:19:37](https://news.ycombinator.com/item?id=40378076) - [C.S. Lewis and the Pain Scale](https://www.wsj.com/articles/c-s-lewis-and-the-pain-scale-basketball-injury-christmas-sermon-149bc51b)
 * [2024-05-16, 13:13:30](https://news.ycombinator.com/item?id=40377991) - [Peru classifies trans people as 'mentally ill' after government decree](https://old.reddit.com/r/worldnews/comments/1ct8k0o/peru_classifies_trans_people_as_mentally_ill/)
 * [2024-05-16, 13:00:28](https://news.ycombinator.com/item?id=40377831) - [NetBSD bans use of Copilot-generated code](https://www.osnews.com/story/139698/netbsd-bans-use-of-copilot-generated-code/)

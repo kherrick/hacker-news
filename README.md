@@ -3,6 +3,7 @@
 * [2024-05-16, 14:21:02](https://news.ycombinator.com/item?id=40378825) - [Promoted.ai (YC W21) Is Hiring a Apache Flink Expert Staff Engineer](https://www.ycombinator.com/companies/promoted/jobs/1dLskWr-staff-engineer-apache-flink-expert)
 * [2024-05-16, 13:42:03](https://news.ycombinator.com/item?id=40378357) - [State of the Terminal](https://gpanders.com/blog/state-of-the-terminal/)
 * [2024-05-16, 13:30:17](https://news.ycombinator.com/item?id=40378218) - [What's New in Neovim 0.10](https://gpanders.com/blog/whats-new-in-neovim-0.10/)
+* [2024-05-16, 13:24:02](https://news.ycombinator.com/item?id=40378127) - [You thought OpenStreetMap uses WGS84? No it doesn't](https://www.openstreetmap.org/user/StephaneP/diary/390290)
 * [2024-05-16, 12:47:07](https://news.ycombinator.com/item?id=40377685) - [F* – A Proof-Oriented Programming Language](https://www.fstar-lang.org/)
 * [2024-05-16, 12:10:51](https://news.ycombinator.com/item?id=40377344) - [Elicit: The AI Research Assistant](https://elicit.com/)
 * [2024-05-16, 11:47:34](https://news.ycombinator.com/item?id=40377201) - [Students invent quieter leaf blower](https://hub.jhu.edu/2024/05/14/quieter-leaf-blower/)
@@ -29,7 +30,6 @@
 * [2024-05-15, 06:39:24](https://news.ycombinator.com/item?id=40363788) - [PHYS771 Lecture 17: Fun with the Anthropic Principle (2006)](https://www.scottaaronson.com/democritus/lec17.html)
 * [2024-05-15, 05:48:02](https://news.ycombinator.com/item?id=40363504) - [Music vs. Lyrics](https://dirt.fyi/article/2024/05/music-versus-lyrics)
 * [2024-05-15, 04:03:40](https://news.ycombinator.com/item?id=40362992) - [Parseback: A pure-Lua introspection library for LuaJIT's FFI ctype objects](https://github.com/javierguerragiraldez/parseback)
-* [2024-05-14, 12:21:42](https://news.ycombinator.com/item?id=40354407) - [Bossware is a big legal risk](https://www.kolide.com/blog/your-company-s-bossware-could-get-you-in-legal-trouble)
 
 ## [Archives](archives/index.md)
 
