@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-16](index.md)
 
 * [2024-05-16, 21:01:29](https://news.ycombinator.com/item?id=40383078) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+* [2024-05-16, 21:01:06](https://news.ycombinator.com/item?id=40383073) - [Justice Department formally moves to reclassify marijuana](https://apnews.com/article/marijuana-rescheduling-drug-policy-biden-15b43441670757b0c2bfa36731e47d07)
 * [2024-05-16, 20:56:17](https://news.ycombinator.com/item?id=40383029) - [Winamp has announced that it is \"opening up\" its source code](https://about.winamp.com/press/article/winamp-open-source-code)
 * [2024-05-16, 20:52:56](https://news.ycombinator.com/item?id=40382991) - [How Safe Is SF?](https://howsafeissf.com/)
 * [2024-05-16, 20:48:58](https://news.ycombinator.com/item?id=40382941) - [Show HN: I've built a macOS app for developers to clean their dev machines](https://apps.apple.com/ua/app/cleano/id6469460523?mt=12)
@@ -32,6 +33,7 @@
 * [2024-05-16, 16:51:37](https://news.ycombinator.com/item?id=40380499) - [America's dramatic shift from gas power plants to batteries](https://theprogressplaybook.com/2024/04/17/in-numbers-americas-dramatic-shift-from-gas-power-plants-to-batteries/)
 * [2024-05-16, 16:20:03](https://news.ycombinator.com/item?id=40380158) - [Using Llamafiles for Embeddings in Local RAG Applications](https://future.mozilla.org/news/llamafiles-for-embeddings-in-local-rag-applications/)
 * [2024-05-16, 16:18:32](https://news.ycombinator.com/item?id=40380137) - [We've All Felt It](https://www.raycast.com/why)
+* [2024-05-16, 16:07:15](https://news.ycombinator.com/item?id=40380016) - [Photobox – Free Open Source Google Photos Clone](https://www.photobox.dev/)
 * [2024-05-16, 16:05:48](https://news.ycombinator.com/item?id=40379996) - [Mummy Brown](https://en.wikipedia.org/wiki/Mummy_brown)
 * [2024-05-16, 16:04:47](https://news.ycombinator.com/item?id=40379982) - [Build WebGPU Apps Today with PlayCanvas](https://blog.playcanvas.com/build-webgpu-apps-today-with-playcanvas/)
 * [2024-05-16, 15:30:49](https://news.ycombinator.com/item?id=40379599) - [ChatGPT-4o vs. Math](https://www.sabrina.dev/p/chatgpt4o-vs-math)
