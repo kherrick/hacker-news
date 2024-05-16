@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-16](index.md)
 
+* [2024-05-16, 15:20:45](https://news.ycombinator.com/item?id=40379488) - [Egypt's Pyramids May Have Been Built on a Long-Lost Branch of the Nile](https://www.nature.com/articles/s43247-024-01379-7)
 * [2024-05-16, 15:19:53](https://news.ycombinator.com/item?id=40379480) - [Intel's Thunderbolt Share lets two PCs control each other over a USB cable](https://www.theverge.com/2024/5/15/24156519/intel-thunderbolt-share-app)
+* [2024-05-16, 15:05:14](https://news.ycombinator.com/item?id=40379301) - [Deactivating Facebook for just a few weeks reduces belief in fake news](https://english.elpais.com/technology/2024-05-14/deactivating-facebook-for-just-a-few-weeks-reduces-belief-in-fake-news.html)
 * [2024-05-16, 14:38:40](https://news.ycombinator.com/item?id=40379028) - [Sprint, T-Mobile Merger Killed Wireless Price Competition in U.S.](https://www.techdirt.com/2024/05/16/report-sprint-t-mobile-merger-immediately-killed-wireless-price-competition-in-u-s/)
 * [2024-05-16, 14:27:52](https://news.ycombinator.com/item?id=40378904) - [The spy who flunked it: Kurt Gödel's forgotten part in the atom-bomb story](https://www.nature.com/articles/d41586-024-00644-1)
 * [2024-05-16, 14:24:02](https://news.ycombinator.com/item?id=40378867) - [The “3.5% rule”: How a small minority can change the world](https://www.bbc.com/future/article/20190513-it-only-takes-35-of-people-to-change-the-world)
