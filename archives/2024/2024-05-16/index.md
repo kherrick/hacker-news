@@ -48,6 +48,7 @@
 * [2024-05-16, 14:18:07](https://news.ycombinator.com/item?id=40378791) - [D3 in Depth](https://www.d3indepth.com/)
 * [2024-05-16, 14:14:58](https://news.ycombinator.com/item?id=40378759) - [Port 666 is officially registered to Doom](https://www.ibiblio.org/shadow/docs/port_numbers)
 * [2024-05-16, 13:53:22](https://news.ycombinator.com/item?id=40378499) - [Llama3.np: pure NumPy implementation of Llama3](https://github.com/likejazz/llama3.np)
+* [2024-05-16, 13:53:22](https://news.ycombinator.com/item?id=40378499) - [Llama 3 implemented in pure NumPy](https://docs.likejazz.com/llama3.np/)
 * [2024-05-16, 13:42:03](https://news.ycombinator.com/item?id=40378357) - [State of the Terminal](https://gpanders.com/blog/state-of-the-terminal/)
 * [2024-05-16, 13:30:17](https://news.ycombinator.com/item?id=40378218) - [What's New in Neovim 0.10](https://gpanders.com/blog/whats-new-in-neovim-0.10/)
 * [2024-05-16, 13:24:02](https://news.ycombinator.com/item?id=40378127) - [You thought OpenStreetMap uses WGS84? No it doesn't](https://www.openstreetmap.org/user/StephaneP/diary/390290)
