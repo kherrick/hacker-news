@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-16](index.md)
 
 * [2024-05-16, 10:12:48](https://news.ycombinator.com/item?id=40376742) - [JPEG XL decoding support in blink issue has been reopened and assigned](https://issues.chromium.org/issues/40168998)
+* [2024-05-16, 10:04:04](https://news.ycombinator.com/item?id=40376718) - [Karman Alpha: amateur rocketry attempt to 100k ft (33 minute documentary) [video]](https://www.youtube.com/watch?v=6ZUuVvpgoCU)
 * [2024-05-16, 09:50:58](https://news.ycombinator.com/item?id=40376658) - [Piracy Block Reversed for Tech Site That Reported Site-Blocking Workarounds](https://torrentfreak.com/piracy-block-withdrawn-after-tech-site-published-site-blocking-workarounds-240516/)
 * [2024-05-16, 08:30:26](https://news.ycombinator.com/item?id=40376288) - [If you wanna know why I am resigned from OpenAI](https://twitter.com/Sentdex/status/1790927013315747939)
 * [2024-05-16, 07:59:41](https://news.ycombinator.com/item?id=40376143) - [Typewise (YC S22) is hiring Product Designer for AI writing assistant](https://www.ycombinator.com/companies/typewise/jobs/myJcREP-product-designer-f-m-x)
