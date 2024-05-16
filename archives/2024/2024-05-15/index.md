@@ -70,6 +70,7 @@
 * [2024-05-15, 12:07:41](https://news.ycombinator.com/item?id=40365821) - [SMTP 550-5.7.1 Rejected Because of Virginia Redistricting](https://www.khanna.law/blog/smtp-550-571-redistricting)
 * [2024-05-15, 12:01:59](https://news.ycombinator.com/item?id=40365765) - [We gotta stop ignoring AI's hallucination problem](https://www.theverge.com/2024/5/15/24154808/ai-chatgpt-google-gemini-microsoft-copilot-hallucination-wrong)
 * [2024-05-15, 11:47:15](https://news.ycombinator.com/item?id=40365619) - [Tim Cook is running out of ideas](https://www.businessinsider.com/apple-tim-cook-running-out-of-ideas-iphone-ipad-sales-2024-5)
+* [2024-05-15, 10:58:44](https://news.ycombinator.com/item?id=40365248) - [Why do CPUs have multiple cache levels? (2016)](https://fgiesen.wordpress.com/2016/08/07/why-do-cpus-have-multiple-cache-levels/)
 * [2024-05-15, 10:55:46](https://news.ycombinator.com/item?id=40365226) - [Boeing Emails Handed over to Congress in January 2020](https://archive.org/details/boeingemailsocr)
 * [2024-05-15, 10:50:33](https://news.ycombinator.com/item?id=40365198) - [Oracle goes vegan: Dumps Terraform for OpenTofu](https://www.thestack.technology/oracle-dumps-terraform-for-opentofu/)
 * [2024-05-15, 10:42:03](https://news.ycombinator.com/item?id=40365153) - [Gaussian Blue Noise](https://arxiv.org/abs/2206.07798)
