@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-16, 04:24:02](https://news.ycombinator.com/item?id=40375178) - [Things I won't work with: the higher states of bromine](https://blogs.sciencemag.org/pipeline/archives/2019/11/21/the-higher-states-of-bromine)
+* [2024-05-16, 03:47:05](https://news.ycombinator.com/item?id=40375029) - [NetBSD bans all commits of AI-generated code](https://mastodon.sdf.org/@netbsd/112446618914747900)
 * [2024-05-16, 00:22:33](https://news.ycombinator.com/item?id=40373931) - [Utah Locals Are Getting Cheap 10 Gbps Fiber Thanks to Local Governments](https://www.techdirt.com/2024/05/15/utah-locals-are-getting-cheap-10-gbps-fiber-thanks-to-local-governments/)
 * [2024-05-15, 21:02:50](https://news.ycombinator.com/item?id=40372317) - [SSD death, tricky read-only filesystems, and systemd magic?](https://rachelbythebay.com/w/2024/05/15/ro/)
 * [2024-05-15, 21:02:30](https://news.ycombinator.com/item?id=40372315) - [Qualcomm's Oryon LLVM Patches](https://chipsandcheese.com/2024/05/15/qualcomms-oryon-llvm-patches/)
@@ -27,9 +28,8 @@
 * [2024-05-15, 05:01:11](https://news.ycombinator.com/item?id=40363262) - [Big Companies vs. Startups (2015)](https://danluu.com/startup-tradeoffs/)
 * [2024-05-14, 21:42:10](https://news.ycombinator.com/item?id=40360487) - [A brief history of the first planetarium](https://spectrum.ieee.org/planetarium-history)
 * [2024-05-14, 20:25:33](https://news.ycombinator.com/item?id=40359774) - [Fast Tokenizers with StringScanner (2023)](https://tenderlovemaking.com/2023/09/02/fast-tokenizers-with-stringscanner.html)
-* [2024-05-14, 17:58:26](https://news.ycombinator.com/item?id=40358041) - [Veo](https://deepmind.google/technologies/veo/)
+* [2024-05-14, 11:35:46](https://news.ycombinator.com/item?id=40354045) - [OpenLisp](http://christian.jullien.free.fr/)
 * [2024-05-14, 11:10:17](https://news.ycombinator.com/item?id=40353874) - [A Tale of Two Sieves (1996) [pdf]](https://www.ams.org/notices/199612/pomerance.pdf)
-* [2024-05-13, 08:29:02](https://news.ycombinator.com/item?id=40340969) - [Prototypal Inheritance (2008)](https://crockford.com/javascript/prototypal.html)
 
 ## [Archives](archives/index.md)
 

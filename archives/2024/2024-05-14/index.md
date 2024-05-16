@@ -83,6 +83,7 @@
 * [2024-05-14, 12:04:11](https://news.ycombinator.com/item?id=40354268) - ['Has this guy ever made a movie before?' Coppola's battle to film Megalopolis](https://www.theguardian.com/film/article/2024/may/14/has-this-guy-ever-made-a-movie-before-francis-ford-coppola-40-year-battle-megalopolis)
 * [2024-05-14, 12:00:15](https://news.ycombinator.com/item?id=40354241) - [Unriddle (YC S24) Is Hiring a Founding Engineer](https://www.workatastartup.com/jobs/66506)
 * [2024-05-14, 11:46:17](https://news.ycombinator.com/item?id=40354130) - [New gel breaks down alcohol in the body](https://ethz.ch/en/news-and-events/eth-news/news/2024/05/press-release-new-gel-breaks-down-alcohol-in-the-body.html)
+* [2024-05-14, 11:35:46](https://news.ycombinator.com/item?id=40354045) - [OpenLisp](http://christian.jullien.free.fr/)
 * [2024-05-14, 11:24:02](https://news.ycombinator.com/item?id=40353963) - [My VM is lighter (and safer) than your container](https://dl.acm.org/doi/10.1145/3132747.3132763)
 * [2024-05-14, 11:10:17](https://news.ycombinator.com/item?id=40353874) - [A Tale of Two Sieves (1996) [pdf]](https://www.ams.org/notices/199612/pomerance.pdf)
 * [2024-05-14, 11:06:07](https://news.ycombinator.com/item?id=40353842) - [Ancient Eastern European mega-sites: a social levelling concept?](https://www.cambridge.org/core/journals/antiquity/article/trypillia-megasites-a-social-levelling-concept/A0048EA63DA8D0B00A513BFD7C24A679)
