@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-05-16, 13:19:37",
-      "https://news.ycombinator.com/item?id=40378076"
-    ],
-    [
-      "C.S. Lewis and the Pain Scale",
-      "https://www.wsj.com/articles/c-s-lewis-and-the-pain-scale-basketball-injury-christmas-sermon-149bc51b"
-    ]
-  ],
-  [
-    [
       "2024-05-16, 12:47:07",
       "https://news.ycombinator.com/item?id=40377685"
     ],
@@ -107,16 +97,6 @@
     [
       "Some notes on Rust, mutable aliasing and formal verification",
       "https://graydon2.dreamwidth.org/312681.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-16, 04:37:13",
-      "https://news.ycombinator.com/item?id=40375226"
-    ],
-    [
-      "Enhancing R: The Vision and Impact of Jan Vitek's MaintainR Initiative",
-      "https://www.r-consortium.org/blog/2024/05/15/enhancing-r-the-vision-and-impact-of-jan-viteks-maintainr-initiative"
     ]
   ],
   [
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2024-05-15, 05:48:02",
+      "https://news.ycombinator.com/item?id=40363504"
+    ],
+    [
+      "Music vs. Lyrics",
+      "https://dirt.fyi/article/2024/05/music-versus-lyrics"
+    ]
+  ],
+  [
+    [
       "2024-05-15, 04:03:40",
       "https://news.ycombinator.com/item?id=40362992"
     ],
     [
       "Parseback: A pure-Lua introspection library for LuaJIT's FFI ctype objects",
       "https://github.com/javierguerragiraldez/parseback"
+    ]
+  ],
+  [
+    [
+      "2024-05-14, 12:21:42",
+      "https://news.ycombinator.com/item?id=40354407"
+    ],
+    [
+      "Bossware is a big legal risk",
+      "https://www.kolide.com/blog/your-company-s-bossware-could-get-you-in-legal-trouble"
     ]
   ]
 ]
