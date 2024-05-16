@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=40383078"
     ],
     [
-      "Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring",
+      "Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations – Is Hiring",
       "https://skio.com/careers/"
     ]
   ],
@@ -17,16 +17,6 @@
     [
       "Winamp has announced that it is \"opening up\" its source code",
       "https://about.winamp.com/press/article/winamp-open-source-code"
-    ]
-  ],
-  [
-    [
-      "2024-05-16, 20:48:58",
-      "https://news.ycombinator.com/item?id=40382941"
-    ],
-    [
-      "Show HN: I've built a macOS app for developers to clean their dev machines",
-      "https://apps.apple.com/ua/app/cleano/id6469460523?mt=12"
     ]
   ],
   [
@@ -225,8 +215,8 @@
       "https://news.ycombinator.com/item?id=40378499"
     ],
     [
-      "Llama3.np: pure NumPy implementation of Llama3",
-      "https://github.com/likejazz/llama3.np"
+      "Llama 3 implemented in pure NumPy",
+      "https://docs.likejazz.com/llama3.np/"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "F* – A Proof-Oriented Programming Language",
       "https://www.fstar-lang.org/"
+    ]
+  ],
+  [
+    [
+      "2024-05-16, 10:19:01",
+      "https://news.ycombinator.com/item?id=40376775"
+    ],
+    [
+      "Forgotten APL Influences (2016) [pdf]",
+      "https://pok.acm.org/meetings/foils/McGrew18paper.pdf"
     ]
   ],
   [
