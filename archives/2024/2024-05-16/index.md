@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-16](index.md)
 
+* [2024-05-16, 18:47:58](https://news.ycombinator.com/item?id=40381777) - [Who Wants 30k Used Teslas?](https://nymag.com/intelligencer/article/who-wants-to-buy-30-000-used-teslas-from-hertz.html)
 * [2024-05-16, 17:02:40](https://news.ycombinator.com/item?id=40380639) - [I Don't Want to Spend My One Precious Life Dealing with Google's AI Search](https://aftermath.site/google-ai-search-god-no-why)
 * [2024-05-16, 17:00:11](https://news.ycombinator.com/item?id=40380596) - [Reflex (YC W23) Is Hiring Software Engineers](https://www.ycombinator.com/companies/reflex/jobs/6kHXK7x-software-engineer)
 * [2024-05-16, 16:51:37](https://news.ycombinator.com/item?id=40380499) - [America's dramatic shift from gas power plants to batteries](https://theprogressplaybook.com/2024/04/17/in-numbers-americas-dramatic-shift-from-gas-power-plants-to-batteries/)
