@@ -1,6 +1,46 @@
 [
   [
     [
+      "2024-05-16, 23:24:02",
+      "https://news.ycombinator.com/item?id=40384546"
+    ],
+    [
+      "Beyond Public Key Encryption",
+      "https://blog.cryptographyengineering.com/2017/07/02/beyond-public-key-encryption/"
+    ]
+  ],
+  [
+    [
+      "2024-05-16, 23:07:20",
+      "https://news.ycombinator.com/item?id=40384421"
+    ],
+    [
+      "Interactive Visualizations of Rate-Limiting Algorithms",
+      "https://smudge.ai/blog/ratelimit-algorithms"
+    ]
+  ],
+  [
+    [
+      "2024-05-16, 22:44:58",
+      "https://news.ycombinator.com/item?id=40384234"
+    ],
+    [
+      "LearnLM models tuned for human learning",
+      "https://blog.google/outreach-initiatives/education/google-learnlm-gemini-generative-ai/"
+    ]
+  ],
+  [
+    [
+      "2024-05-16, 22:19:06",
+      "https://news.ycombinator.com/item?id=40384013"
+    ],
+    [
+      "The Forged Apple Employee Badge",
+      "https://cabel.com/2024/05/16/the-forged-apple-employee-badge/"
+    ]
+  ],
+  [
+    [
       "2024-05-16, 22:16:01",
       "https://news.ycombinator.com/item?id=40383978"
     ],
@@ -21,52 +61,12 @@
   ],
   [
     [
-      "2024-05-16, 21:57:22",
-      "https://news.ycombinator.com/item?id=40383776"
-    ],
-    [
-      "Army soldiers not impressed with Strykers outfitted with 50-kilowatt lasers",
-      "https://breakingdefense.com/2024/05/army-soldiers-not-impressed-with-strykers-outfitted-with-50-kilowatt-lasers-service-official-says/"
-    ]
-  ],
-  [
-    [
-      "2024-05-16, 21:14:47",
-      "https://news.ycombinator.com/item?id=40383263"
-    ],
-    [
-      "Deutsche Bahn Introduces \"MetaWindow\"",
-      "https://www.railtarget.eu/technologies-and-infrastructure/deutsche-bahn-introduces-metawindow-a-gamechanger-in-noise-reduction-for-railways-8449.html"
-    ]
-  ],
-  [
-    [
       "2024-05-16, 21:01:29",
       "https://news.ycombinator.com/item?id=40383078"
     ],
     [
       "Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations – Is Hiring",
       "https://skio.com/careers/"
-    ]
-  ],
-  [
-    [
-      "2024-05-16, 20:56:17",
-      "https://news.ycombinator.com/item?id=40383029"
-    ],
-    [
-      "Winamp has announced that it is \"opening up\" its source code",
-      "https://about.winamp.com/press/article/winamp-open-source-code"
-    ]
-  ],
-  [
-    [
-      "2024-05-16, 20:09:19",
-      "https://news.ycombinator.com/item?id=40382568"
-    ],
-    [
-      "Germany's Sovereign Tech Fund Now Supporting FFmpeg",
-      "https://www.phoronix.com/news/Germany-STF-For-FFmpeg"
     ]
   ],
   [
@@ -117,16 +117,6 @@
     [
       "Smart Pointers in (GNU) C",
       "https://snai.pe/posts/c-smart-pointers"
-    ]
-  ],
-  [
-    [
-      "2024-05-16, 18:21:17",
-      "https://news.ycombinator.com/item?id=40381511"
-    ],
-    [
-      "You probably don't need to validate UTF-8 strings",
-      "https://viralinstruction.com/posts/utf8/"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Robotic \"SuperLimbs\" could help moonwalkers recover from falls",
       "https://news.mit.edu/2024/robotic-superlimbs-could-help-moonwalkers-recover-from-falls-0515"
+    ]
+  ],
+  [
+    [
+      "2024-05-15, 10:50:14",
+      "https://news.ycombinator.com/item?id=40365193"
+    ],
+    [
+      "Show HN: Autopilot for my little HTML game called Andromeda Invaders",
+      "https://susam.net/invaders.html#auto"
     ]
   ],
   [
