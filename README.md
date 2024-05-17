@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-17, 14:35:32](https://news.ycombinator.com/item?id=40390408) - [The Rise and Fall of the Trad Wife](https://www.newyorker.com/culture/persons-of-interest/the-rise-and-fall-of-the-trad-wife)
 * [2024-05-17, 13:44:20](https://news.ycombinator.com/item?id=40389774) - [Confronting Another Axis? History, Humility, and Wishful Thinking](https://tnsr.org/2024/05/confronting-another-axis-history-humility-and-wishful-thinking/)
 * [2024-05-17, 13:42:28](https://news.ycombinator.com/item?id=40389753) - [BIMI and DMARC Can't Save You: The Overlooked DKIM Exploit](https://www.zone.eu/blog/2024/05/17/bimi-and-dmarc-cant-save-you/)
 * [2024-05-17, 13:38:31](https://news.ycombinator.com/item?id=40389711) - [Sakuga-42M Dataset: Scaling Up Cartoon Research](https://arxiv.org/abs/2405.07425)
@@ -22,9 +23,8 @@
 * [2024-05-16, 22:19:06](https://news.ycombinator.com/item?id=40384013) - [A forged Apple employee badge](https://cabel.com/2024/05/16/the-forged-apple-employee-badge/)
 * [2024-05-16, 21:14:47](https://news.ycombinator.com/item?id=40383263) - [Deutsche Bahn introduces \"MetaWindow\"](https://www.railtarget.eu/technologies-and-infrastructure/deutsche-bahn-introduces-metawindow-a-gamechanger-in-noise-reduction-for-railways-8449.html)
 * [2024-05-16, 16:24:03](https://news.ycombinator.com/item?id=40380197) - [How to recover lost Python source code if it's still resident in a running inter](https://gist.github.com/simonw/8aa492e59265c1a021f5c5618f9e6b12)
+* [2024-05-16, 15:24:19](https://news.ycombinator.com/item?id=40379532) - [Growing sodium chloride crystals at home](https://crystalverse.com/sodium-chloride-crystals/)
 * [2024-05-16, 14:54:25](https://news.ycombinator.com/item?id=40379175) - [Computer scientists invent an efficient new way to count](https://www.quantamagazine.org/computer-scientists-invent-an-efficient-new-way-to-count-20240516/)
-* [2024-05-16, 14:15:04](https://news.ycombinator.com/item?id=40378760) - [Jike: The obscure social media app beloved by China's tech scene](https://restofworld.org/2023/china-tech-workers-investors-founders-app/)
-* [2024-05-16, 03:00:09](https://news.ycombinator.com/item?id=40374795) - [Students invent quieter leaf blower](https://hub.jhu.edu/2024/05/14/quieter-leaf-blower/)
 * [2024-05-15, 18:32:53](https://news.ycombinator.com/item?id=40370644) - [Make a game with Hoot for the Lisp Game Jam](https://spritely.institute/news/make-a-game-with-hoot-for-the-lisp-game-jam.html)
 * [2024-05-15, 13:39:31](https://news.ycombinator.com/item?id=40366803) - [But Why a Penguin?](https://daily.jstor.org/but-why-a-penguin/)
 * [2024-05-15, 12:03:11](https://news.ycombinator.com/item?id=40365776) - [Random Attractors – Found Using Lyapunov Exponents (2001)](https://paulbourke.net/fractals/lyapunov/)
