@@ -11,6 +11,7 @@
 * [2024-05-17, 13:18:00](https://news.ycombinator.com/item?id=40389548) - [Beekeeper furious over destruction of $2M honey crop](https://www.rnz.co.nz/news/business/516930/beekeeper-steven-brown-furious-over-destruction-of-2m-honey-crop)
 * [2024-05-17, 13:17:29](https://news.ycombinator.com/item?id=40389545) - [\"The financial costs of healthcare costs, or, is keeping me alive worth it?\"](https://jakeseliger.com/2024/05/16/the-financial-costs-of-healthcare-costs-or-is-keeping-me-alive-worth-it/)
 * [2024-05-17, 13:17:24](https://news.ycombinator.com/item?id=40389544) - [NYPD will deploy drones to respond to 911 calls in 5 NYC precincts,officials say](https://gothamist.com/news/nypd-will-deploy-drones-to-respond-to-911-calls-in-5-nyc-precincts-officials-say)
+* [2024-05-17, 13:14:41](https://news.ycombinator.com/item?id=40389527) - [How Far Are We from AGI](https://arxiv.org/abs/2405.10313)
 * [2024-05-17, 13:10:38](https://news.ycombinator.com/item?id=40389502) - [3,000 Best Free Movies on YouTube Playlist](https://www.learnoutloud.com/content/blog/)
 * [2024-05-17, 13:08:05](https://news.ycombinator.com/item?id=40389480) - [Ambitious but at Peace](https://jugheadjones10.github.io/kim-young-jin/posts/ambitious-and-content.html)
 * [2024-05-17, 13:04:06](https://news.ycombinator.com/item?id=40389445) - [Toon3D: Seeing Cartoons from a New Perspective](https://toon3d.studio/)
