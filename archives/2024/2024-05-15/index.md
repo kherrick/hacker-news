@@ -101,6 +101,7 @@
 * [2024-05-15, 06:24:02](https://news.ycombinator.com/item?id=40363704) - [A low budget consumer hardware espionage implant: a GSM device hidden in](https://ha.cking.ch/s8_data_line_locator/)
 * [2024-05-15, 05:50:45](https://news.ycombinator.com/item?id=40363517) - [Show HN: I built a math website the internet loved, I'm back with more features](https://teachyourselfmath.app/?page=1)
 * [2024-05-15, 05:48:02](https://news.ycombinator.com/item?id=40363504) - [Music vs. Lyrics](https://dirt.fyi/article/2024/05/music-versus-lyrics)
+* [2024-05-15, 05:44:18](https://news.ycombinator.com/item?id=40363481) - [How to fix bugs in 24 hours or less](https://www.dolthub.com/blog/2024-05-15-24-hour-bug-fixes/)
 * [2024-05-15, 05:39:44](https://news.ycombinator.com/item?id=40363458) - [High-Quality Software Engineering (2007)](https://www.lurklurk.org/hqse/hqse.html)
 * [2024-05-15, 05:39:21](https://news.ycombinator.com/item?id=40363455) - [Born to run? Endurance running may have evolved to help humans chase down prey](https://www.science.org/content/article/born-run-early-endurance-running--may-have-evolved-help-humans-chase-down-prey)
 * [2024-05-15, 05:39:10](https://news.ycombinator.com/item?id=40363453) - [MicroSD cards' SBC days are numbered](https://www.jeffgeerling.com/blog/2024/microsd-cards-sbc-days-are-numbered)

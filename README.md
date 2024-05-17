@@ -20,7 +20,6 @@
 * [2024-05-16, 14:54:25](https://news.ycombinator.com/item?id=40379175) - [Computer scientists invent an efficient new way to count](https://www.quantamagazine.org/computer-scientists-invent-an-efficient-new-way-to-count-20240516/)
 * [2024-05-16, 14:18:07](https://news.ycombinator.com/item?id=40378791) - [D3 in Depth](https://www.d3indepth.com/)
 * [2024-05-16, 14:15:04](https://news.ycombinator.com/item?id=40378760) - [Jike: The obscure social media app beloved by China's tech scene](https://restofworld.org/2023/china-tech-workers-investors-founders-app/)
-* [2024-05-16, 13:53:22](https://news.ycombinator.com/item?id=40378499) - [Llama 3 implemented in pure NumPy](https://docs.likejazz.com/llama3.np/)
 * [2024-05-16, 12:56:31](https://news.ycombinator.com/item?id=40377787) - [Show HN: Chessdream – Generate realistic chess positions with AI](https://chessdream.ai)
 * [2024-05-15, 18:33:05](https://news.ycombinator.com/item?id=40370646) - [The evolution of a Scheme programmer (2020)](https://erkin.party/blog/200715/evolution/)
 * [2024-05-15, 12:54:25](https://news.ycombinator.com/item?id=40366279) - [The United States of Avocado](https://tastecooking.com/the-united-states-of-avocado/)
@@ -29,6 +28,7 @@
 * [2024-05-15, 11:25:25](https://news.ycombinator.com/item?id=40365433) - [Arch Linux RISC-V](https://archriscv.felixc.at/)
 * [2024-05-15, 10:50:14](https://news.ycombinator.com/item?id=40365193) - [Show HN: Autopilot for my little HTML game called Andromeda Invaders](https://susam.net/invaders.html#auto)
 * [2024-05-15, 07:56:22](https://news.ycombinator.com/item?id=40364220) - [Context caching guide](https://ai.google.dev/gemini-api/docs/caching)
+* [2024-05-15, 05:44:18](https://news.ycombinator.com/item?id=40363481) - [How to fix bugs in 24 hours or less](https://www.dolthub.com/blog/2024-05-15-24-hour-bug-fixes/)
 * [2024-05-15, 05:35:44](https://news.ycombinator.com/item?id=40363426) - [Simplifying Join Syntax](https://github.com/SPLWare/esProc/wiki/Simplifying-JOIN-syntax-(JOIN-Simplification-and-Acceleration-Series-3))
 
 ## [Archives](archives/index.md)
