@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-17, 21:06:16](https://news.ycombinator.com/item?id=40394220) - [VW and Renault end talks to develop affordable EV](https://www.reuters.com/business/autos-transportation/vw-renault-end-talks-develop-affordable-ev-sources-say-2024-05-17/)
 * [2024-05-17, 20:39:54](https://news.ycombinator.com/item?id=40393988) - [Archie, the Internet's first search engine, is rescued and running](https://arstechnica.com/gadgets/2024/05/archie-the-internets-first-search-engine-is-rescued-and-running/)
 * [2024-05-17, 20:25:47](https://news.ycombinator.com/item?id=40393877) - [Chrome DevTools now uses Gemini to help with JavaScript Errors in the console](https://developer.chrome.com/docs/devtools/console/understand-messages)
 * [2024-05-17, 20:25:40](https://news.ycombinator.com/item?id=40393873) - [ILGPU: Write GPU programs with C# and F#](https://github.com/m4rs-mt/ILGPU)
@@ -12,7 +13,6 @@
 * [2024-05-17, 15:09:15](https://news.ycombinator.com/item?id=40390751) - [The Beauty of Concrete](https://worksinprogress.co/issue/the-beauty-of-concrete/)
 * [2024-05-17, 14:23:44](https://news.ycombinator.com/item?id=40390287) - [Bend: a high-level language that runs on GPUs (via HVM2)](https://github.com/HigherOrderCO/Bend)
 * [2024-05-17, 13:38:31](https://news.ycombinator.com/item?id=40389711) - [Sakuga-42M Dataset: Scaling Up Cartoon Research](https://arxiv.org/abs/2405.07425)
-* [2024-05-17, 13:22:06](https://news.ycombinator.com/item?id=40389576) - [GDPR: Is It Worth It?](https://arxiv.org/abs/2405.10225)
 * [2024-05-17, 13:04:06](https://news.ycombinator.com/item?id=40389445) - [Toon3D: Seeing cartoons from a new perspective](https://toon3d.studio/)
 * [2024-05-17, 13:00:55](https://news.ycombinator.com/item?id=40389421) - [LoRA Learns Less and Forgets Less](https://arxiv.org/abs/2405.09673)
 * [2024-05-17, 12:59:34](https://news.ycombinator.com/item?id=40389404) - [Ideas and Creativity (2019)](https://bastian.rieck.me/blog/2019/ideas/)
