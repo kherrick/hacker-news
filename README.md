@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-17, 18:41:53](https://news.ycombinator.com/item?id=40392986) - [Boeing whistleblower John 'Mitch' Barnett died by suicide, coroner rules](https://www.seattletimes.com/business/boeing-whistleblower-john-mitch-barnett-died-by-suicide-coroner-rules/)
 * [2024-05-17, 18:16:14](https://news.ycombinator.com/item?id=40392709) - [Thinking out loud about 2nd-gen email](https://gabrielsieben.tech/2024/05/17/thinking-out-loud-2nd-gen-email/)
 * [2024-05-17, 17:59:22](https://news.ycombinator.com/item?id=40392548) - [Show HN: I built a website to create financial models for any stock online](https://www.useequityval.com/)
 * [2024-05-17, 16:31:33](https://news.ycombinator.com/item?id=40391627) - [Glewbot scales buildings like a gecko to inspect wall tiles](https://blog.arduino.cc/2024/05/11/glewbot-scales-buildings-like-a-gecko/)
@@ -24,12 +23,13 @@
 * [2024-05-16, 14:54:25](https://news.ycombinator.com/item?id=40379175) - [Computer scientists invent an efficient new way to count](https://www.quantamagazine.org/computer-scientists-invent-an-efficient-new-way-to-count-20240516/)
 * [2024-05-16, 14:35:28](https://news.ycombinator.com/item?id=40378993) - [Third Time: a better way to work (2022)](https://www.lesswrong.com/posts/RWu8eZqbwgB9zaerh/third-time-a-better-way-to-work)
 * [2024-05-16, 14:15:04](https://news.ycombinator.com/item?id=40378760) - [Jike: The obscure social media app beloved by China's tech scene](https://restofworld.org/2023/china-tech-workers-investors-founders-app/)
+* [2024-05-16, 03:03:41](https://news.ycombinator.com/item?id=40374815) - [Scholars discover rare 16th-century tome with handwritten notes by John Milton](https://arstechnica.com/culture/2024/05/john-miltons-handwritten-notes-make-this-16th-century-history-book-a-rare-find/)
 * [2024-05-15, 14:29:58](https://news.ycombinator.com/item?id=40367444) - [Boilerplate busting in functional languages](https://lambdaland.org/posts/2024-05-01_definitely_not_about_monads/)
 * [2024-05-15, 12:21:21](https://news.ycombinator.com/item?id=40365956) - [How the Soviets revolutionized wristwatches (2016)](https://www.collectorsweekly.com/articles/how-the-soviets-revolutionized-wristwatches/)
 * [2024-05-15, 12:03:11](https://news.ycombinator.com/item?id=40365776) - [Random Attractors – Found Using Lyapunov Exponents (2001)](https://paulbourke.net/fractals/lyapunov/)
 * [2024-05-15, 11:52:16](https://news.ycombinator.com/item?id=40365668) - [RAL Color Standard](https://en.wikipedia.org/wiki/RAL_colour_standard)
 * [2024-05-15, 11:25:25](https://news.ycombinator.com/item?id=40365433) - [Arch Linux RISC-V](https://archriscv.felixc.at/)
-* [2024-05-13, 22:50:32](https://news.ycombinator.com/item?id=40349491) - [Questions about molecular plastics recycling (2020)](https://www.plasticstoday.com/advanced-recycling/tough-questions-and-honest-answers-about-molecular-plastics-recycling)
+* [2024-05-14, 11:16:50](https://news.ycombinator.com/item?id=40353914) - [Escher's \"Balcony\" in Lego (2002)](https://www.andrewlipson.com/escher/balcony.html)
 
 ## [Archives](archives/index.md)
 
