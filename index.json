@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-05-17, 16:31:33",
+      "https://news.ycombinator.com/item?id=40391627"
+    ],
+    [
+      "Glewbot scales buildings like a gecko to inspect wall tiles",
+      "https://blog.arduino.cc/2024/05/11/glewbot-scales-buildings-like-a-gecko/"
+    ]
+  ],
+  [
+    [
+      "2024-05-17, 16:22:46",
+      "https://news.ycombinator.com/item?id=40391523"
+    ],
+    [
+      "Rents are rising faster than wages across the country",
+      "https://www.cbsnews.com/news/rent-cost-us-2024-housing-national/"
+    ]
+  ],
+  [
+    [
       "2024-05-17, 15:15:11",
       "https://news.ycombinator.com/item?id=40390820"
     ],
@@ -21,32 +41,12 @@
   ],
   [
     [
-      "2024-05-17, 14:47:42",
-      "https://news.ycombinator.com/item?id=40390536"
-    ],
-    [
-      "Rachel Aviv Wrote That New Yorker Story on Lucy Letby",
-      "https://www.niemanlab.org/2024/05/impossible-to-approach-the-reporting-the-way-i-normally-would-how-rachel-aviv-wrote-that-new-yorker-story-on-lucy-letby/"
-    ]
-  ],
-  [
-    [
       "2024-05-17, 14:23:44",
       "https://news.ycombinator.com/item?id=40390287"
     ],
     [
       "Bend: a high-level language that runs on GPUs (via HVM2)",
       "https://github.com/HigherOrderCO/Bend"
-    ]
-  ],
-  [
-    [
-      "2024-05-17, 13:44:20",
-      "https://news.ycombinator.com/item?id=40389774"
-    ],
-    [
-      "Confronting Another Axis? History, Humility, and Wishful Thinking",
-      "https://tnsr.org/2024/05/confronting-another-axis-history-humility-and-wishful-thinking/"
     ]
   ],
   [
@@ -71,26 +71,6 @@
   ],
   [
     [
-      "2024-05-17, 13:18:00",
-      "https://news.ycombinator.com/item?id=40389548"
-    ],
-    [
-      "Beekeeper furious over destruction of $2M honey crop",
-      "https://www.rnz.co.nz/news/business/516930/beekeeper-steven-brown-furious-over-destruction-of-2m-honey-crop"
-    ]
-  ],
-  [
-    [
-      "2024-05-17, 13:08:05",
-      "https://news.ycombinator.com/item?id=40389480"
-    ],
-    [
-      "Ambitious but at peace",
-      "https://jugheadjones10.github.io/kim-young-jin/posts/ambitious-and-content.html"
-    ]
-  ],
-  [
-    [
       "2024-05-17, 13:04:06",
       "https://news.ycombinator.com/item?id=40389445"
     ],
@@ -107,26 +87,6 @@
     [
       "LoRA Learns Less and Forgets Less",
       "https://arxiv.org/abs/2405.09673"
-    ]
-  ],
-  [
-    [
-      "2024-05-17, 13:00:29",
-      "https://news.ycombinator.com/item?id=40389414"
-    ],
-    [
-      "Thunderbird.net Has a New Look",
-      "https://blog.thunderbird.net/2024/05/the-new-thunderbird-website-has-hatched/"
-    ]
-  ],
-  [
-    [
-      "2024-05-17, 12:59:35",
-      "https://news.ycombinator.com/item?id=40389405"
-    ],
-    [
-      "Demystifying the protobuf wire format",
-      "https://kreya.app/blog/protocolbuffers-wire-format/"
     ]
   ],
   [
@@ -221,6 +181,16 @@
   ],
   [
     [
+      "2024-05-17, 07:37:19",
+      "https://news.ycombinator.com/item?id=40387394"
+    ],
+    [
+      "Welcome to the Parallel Future of Computation",
+      "https://hvm-page.pages.dev"
+    ]
+  ],
+  [
+    [
       "2024-05-17, 07:24:02",
       "https://news.ycombinator.com/item?id=40387318"
     ],
@@ -251,12 +221,42 @@
   ],
   [
     [
+      "2024-05-16, 15:24:19",
+      "https://news.ycombinator.com/item?id=40379532"
+    ],
+    [
+      "Growing sodium chloride crystals at home",
+      "https://crystalverse.com/sodium-chloride-crystals/"
+    ]
+  ],
+  [
+    [
       "2024-05-16, 14:54:25",
       "https://news.ycombinator.com/item?id=40379175"
     ],
     [
       "Computer scientists invent an efficient new way to count",
       "https://www.quantamagazine.org/computer-scientists-invent-an-efficient-new-way-to-count-20240516/"
+    ]
+  ],
+  [
+    [
+      "2024-05-16, 14:15:04",
+      "https://news.ycombinator.com/item?id=40378760"
+    ],
+    [
+      "Jike: The obscure social media app beloved by China's tech scene",
+      "https://restofworld.org/2023/china-tech-workers-investors-founders-app/"
+    ]
+  ],
+  [
+    [
+      "2024-05-15, 18:32:53",
+      "https://news.ycombinator.com/item?id=40370644"
+    ],
+    [
+      "Make a game with Hoot for the Lisp Game Jam",
+      "https://spritely.institute/news/make-a-game-with-hoot-for-the-lisp-game-jam.html"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2024-05-15, 10:24:02",
-      "https://news.ycombinator.com/item?id=40365064"
+      "2024-05-15, 11:25:25",
+      "https://news.ycombinator.com/item?id=40365433"
     ],
     [
-      "Multics Emacs: the history, design, and implementation (1979)",
-      "https://www.multicians.org/mepap.html"
+      "Arch Linux RISC-V",
+      "https://archriscv.felixc.at/"
     ]
   ]
 ]
