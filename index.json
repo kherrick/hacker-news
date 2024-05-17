@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2024-05-16, 13:53:22",
-      "https://news.ycombinator.com/item?id=40378499"
-    ],
-    [
-      "Llama 3 implemented in pure NumPy",
-      "https://docs.likejazz.com/llama3.np/"
-    ]
-  ],
-  [
-    [
       "2024-05-16, 12:56:31",
       "https://news.ycombinator.com/item?id=40377787"
     ],
@@ -287,6 +277,16 @@
     [
       "Context caching guide",
       "https://ai.google.dev/gemini-api/docs/caching"
+    ]
+  ],
+  [
+    [
+      "2024-05-15, 05:44:18",
+      "https://news.ycombinator.com/item?id=40363481"
+    ],
+    [
+      "How to fix bugs in 24 hours or less",
+      "https://www.dolthub.com/blog/2024-05-15-24-hour-bug-fixes/"
     ]
   ],
   [
