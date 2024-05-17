@@ -16,6 +16,7 @@
 * [2024-05-17, 13:00:55](https://news.ycombinator.com/item?id=40389421) - [LoRA Learns Less and Forgets Less](https://arxiv.org/abs/2405.09673)
 * [2024-05-17, 12:59:34](https://news.ycombinator.com/item?id=40389404) - [Ideas and Creativity (2019)](https://bastian.rieck.me/blog/2019/ideas/)
 * [2024-05-17, 12:43:14](https://news.ycombinator.com/item?id=40389267) - [Non-Euclidean Doom: what happens to a game when pi is not 3.14159 (2022) [video]](https://media.ccc.de/v/mch2022-236-non-euclidean-doom-what-happens-to-a-game-when-pi-is-not-3-14159-)
+* [2024-05-17, 12:18:59](https://news.ycombinator.com/item?id=40389094) - [N-Dimensional Gaussians for Fitting of High Dimensional Functions](https://www.sdiolatz.info/ndg-fitting/)
 * [2024-05-17, 12:00:23](https://news.ycombinator.com/item?id=40388933) - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4360841006)
 * [2024-05-17, 11:19:29](https://news.ycombinator.com/item?id=40388655) - [HMT: Hierarchical Memory Transformer for Long Context Language Processing](https://arxiv.org/abs/2405.06067)
 * [2024-05-17, 09:26:37](https://news.ycombinator.com/item?id=40388013) - [Why neural networks struggle with the Game of Life (2020)](https://bdtechtalks.com/2020/09/16/deep-learning-game-of-life/)
@@ -29,7 +30,6 @@
 * [2024-05-16, 13:48:45](https://news.ycombinator.com/item?id=40378433) - [Wuffs: Wrangling Untrusted File Formats Safely](https://github.com/google/wuffs)
 * [2024-05-16, 03:03:41](https://news.ycombinator.com/item?id=40374815) - [Scholars discover rare 16th-century tome with handwritten notes by John Milton](https://arstechnica.com/culture/2024/05/john-miltons-handwritten-notes-make-this-16th-century-history-book-a-rare-find/)
 * [2024-05-15, 20:22:07](https://news.ycombinator.com/item?id=40371913) - [Reading Early Medicine](https://readingearlymedicine.org/about/about-the-project/)
-* [2024-05-15, 14:29:58](https://news.ycombinator.com/item?id=40367444) - [Boilerplate busting in functional languages](https://lambdaland.org/posts/2024-05-01_definitely_not_about_monads/)
 
 ## [Archives](archives/index.md)
 
