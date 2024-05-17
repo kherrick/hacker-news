@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-05-17](index.md)
 
+* [2024-05-17, 09:30:01](https://news.ycombinator.com/item?id=40388029) - [Many Searchers Want to Turn Off Google AI Overviews](https://www.seroundtable.com/searchers-want-to-turn-off-google-ai-overviews-37405.html)
 * [2024-05-17, 09:26:37](https://news.ycombinator.com/item?id=40388013) - [Why neural networks struggle with the Game of Life](https://bdtechtalks.com/2020/09/16/deep-learning-game-of-life/)
+* [2024-05-17, 09:24:52](https://news.ycombinator.com/item?id=40388002) - [OpenBSD – sshd(8) split into multiple binaries](https://www.undeadly.org/cgi?action=article;sid=20240517092416)
+* [2024-05-17, 09:12:13](https://news.ycombinator.com/item?id=40387925) - [Mozilla Firefox Adds Support for AI-Powered Nvidia RTX Video](https://blogs.nvidia.com/blog/ai-decoded-rtxvideo-firefox/)
 * [2024-05-17, 09:08:44](https://news.ycombinator.com/item?id=40387889) - [DNA confirms there IS a big cat roaming the British countryside](https://www.discoverwildlife.com/animal-facts/mammals/big-cat-british-countryside)
 * [2024-05-17, 08:58:11](https://news.ycombinator.com/item?id=40387814) - [Is the move to electric cars running out of power?](https://www.bbc.co.uk/news/business-69022771)
 * [2024-05-17, 08:57:51](https://news.ycombinator.com/item?id=40387812) - [How to read C type declarations (2003)](http://www.unixwiz.net/techtips/reading-cdecl.html)
