@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-17, 22:52:16](https://news.ycombinator.com/item?id=40394902) - [\"Outrageously\" priced weight-loss drugs could bankrupt US health care](https://arstechnica.com/science/2024/05/outrageously-priced-weight-loss-drugs-could-bankrupt-us-health-care/)
+* [2024-05-17, 22:49:55](https://news.ycombinator.com/item?id=40394885) - [Wine 9.9 (Dev) – Run Windows Applications on Linux, BSD, Solaris and macOS](https://gitlab.winehq.org/wine/wine/-/releases/wine-9.9)
 * [2024-05-17, 22:34:51](https://news.ycombinator.com/item?id=40394778) - [Ex-OpenAI staff must sign lifetime no-criticism contract or forfeit all equity](https://x.com/KelseyTuoc/status/1791584357184127269)
 * [2024-05-17, 20:25:47](https://news.ycombinator.com/item?id=40393877) - [Chrome DevTools now uses Gemini to help with JavaScript Errors in the console](https://developer.chrome.com/docs/devtools/console/understand-messages)
 * [2024-05-17, 20:25:40](https://news.ycombinator.com/item?id=40393873) - [ILGPU: Write GPU programs with C# and F#](https://github.com/m4rs-mt/ILGPU)
@@ -16,7 +17,6 @@
 * [2024-05-17, 13:00:55](https://news.ycombinator.com/item?id=40389421) - [LoRA Learns Less and Forgets Less](https://arxiv.org/abs/2405.09673)
 * [2024-05-17, 12:59:34](https://news.ycombinator.com/item?id=40389404) - [Ideas and Creativity (2019)](https://bastian.rieck.me/blog/2019/ideas/)
 * [2024-05-17, 12:43:14](https://news.ycombinator.com/item?id=40389267) - [Non-Euclidean Doom: what happens to a game when pi is not 3.14159 (2022) [video]](https://media.ccc.de/v/mch2022-236-non-euclidean-doom-what-happens-to-a-game-when-pi-is-not-3-14159-)
-* [2024-05-17, 12:18:59](https://news.ycombinator.com/item?id=40389094) - [N-Dimensional Gaussians for Fitting of High Dimensional Functions](https://www.sdiolatz.info/ndg-fitting/)
 * [2024-05-17, 12:00:23](https://news.ycombinator.com/item?id=40388933) - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4360841006)
 * [2024-05-17, 11:19:29](https://news.ycombinator.com/item?id=40388655) - [HMT: Hierarchical Memory Transformer for Long Context Language Processing](https://arxiv.org/abs/2405.06067)
 * [2024-05-17, 09:26:37](https://news.ycombinator.com/item?id=40388013) - [Why neural networks struggle with the Game of Life (2020)](https://bdtechtalks.com/2020/09/16/deep-learning-game-of-life/)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-17](index.md)
 
 * [2024-05-17, 22:52:16](https://news.ycombinator.com/item?id=40394902) - [\"Outrageously\" priced weight-loss drugs could bankrupt US health care](https://arstechnica.com/science/2024/05/outrageously-priced-weight-loss-drugs-could-bankrupt-us-health-care/)
+* [2024-05-17, 22:49:55](https://news.ycombinator.com/item?id=40394885) - [Wine 9.9 (Dev) – Run Windows Applications on Linux, BSD, Solaris and macOS](https://gitlab.winehq.org/wine/wine/-/releases/wine-9.9)
 * [2024-05-17, 22:34:51](https://news.ycombinator.com/item?id=40394778) - [Ex-OpenAI staff must sign lifetime no-criticism contract or forfeit all equity](https://x.com/KelseyTuoc/status/1791584357184127269)
 * [2024-05-17, 22:18:07](https://news.ycombinator.com/item?id=40394670) - [Android 15 improves standby battery life by up to 3 hours on some devices](https://www.androidauthority.com/android-15-standby-battery-life-3444566/)
 * [2024-05-17, 21:16:36](https://news.ycombinator.com/item?id=40394291) - [The Delta Emulator is changing its logo after Adobe threatened it](https://www.theverge.com/2024/5/17/24159268/delta-emulator-logo-change-app)
