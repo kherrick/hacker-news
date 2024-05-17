@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-17](index.md)
 
+* [2024-05-17, 19:58:47](https://news.ycombinator.com/item?id=40393664) - [Back to the Past: IPv4 Browsing (Egress) Activated via NAT64](https://blog.ipv6.rs/ipv4-activated-via-nat64/)
 * [2024-05-17, 19:28:10](https://news.ycombinator.com/item?id=40393396) - [Scaling Clubhouse From 10K to 10M Users In 6 Months With Postgres](https://www.stepchange.work/blog/scaling-clubhouse-from-10k-to-10-million-users-in-6-months-with-postgres)
 * [2024-05-17, 19:19:06](https://news.ycombinator.com/item?id=40393321) - [120cm to inches](https://www.google.com/search?q=120cm+to+inches)
 * [2024-05-17, 18:41:53](https://news.ycombinator.com/item?id=40392986) - [Boeing whistleblower John 'Mitch' Barnett died by suicide, coroner rules](https://www.seattletimes.com/business/boeing-whistleblower-john-mitch-barnett-died-by-suicide-coroner-rules/)

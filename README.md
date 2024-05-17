@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-17, 19:58:47](https://news.ycombinator.com/item?id=40393664) - [Back to the Past: IPv4 Browsing (Egress) Activated via NAT64](https://blog.ipv6.rs/ipv4-activated-via-nat64/)
 * [2024-05-17, 18:16:14](https://news.ycombinator.com/item?id=40392709) - [Thinking out loud about 2nd-gen email](https://gabrielsieben.tech/2024/05/17/thinking-out-loud-2nd-gen-email/)
 * [2024-05-17, 17:59:22](https://news.ycombinator.com/item?id=40392548) - [Show HN: I built a website to create financial models for any stock online](https://www.useequityval.com/)
 * [2024-05-17, 16:31:33](https://news.ycombinator.com/item?id=40391627) - [Glewbot scales buildings like a gecko to inspect wall tiles](https://blog.arduino.cc/2024/05/11/glewbot-scales-buildings-like-a-gecko/)
 * [2024-05-17, 16:30:40](https://news.ycombinator.com/item?id=40391614) - [The case against dual axis charts (and what to use instead) (2018)](https://blog.datawrapper.de/dualaxis/)
 * [2024-05-17, 15:15:11](https://news.ycombinator.com/item?id=40390820) - [A Trial HIV Vaccine Triggered Elusive and Essential Antibodies in Humans](https://corporate.dukehealth.org/news/trial-hiv-vaccine-triggered-elusive-and-essential-antibodies-humans)
 * [2024-05-17, 14:23:44](https://news.ycombinator.com/item?id=40390287) - [Bend: a high-level language that runs on GPUs (via HVM2)](https://github.com/HigherOrderCO/Bend)
-* [2024-05-17, 13:53:11](https://news.ycombinator.com/item?id=40389888) - [Ladders last a long time: Reading Raphael Samuel](https://www.lrb.co.uk/the-paper/v46/n10/florence-sutcliffe-braithwaite/ladders-last-a-long-time)
 * [2024-05-17, 13:38:31](https://news.ycombinator.com/item?id=40389711) - [Sakuga-42M Dataset: Scaling Up Cartoon Research](https://arxiv.org/abs/2405.07425)
 * [2024-05-17, 13:04:06](https://news.ycombinator.com/item?id=40389445) - [Toon3D: Seeing Cartoons from a New Perspective](https://toon3d.studio/)
 * [2024-05-17, 13:00:55](https://news.ycombinator.com/item?id=40389421) - [LoRA Learns Less and Forgets Less](https://arxiv.org/abs/2405.09673)
