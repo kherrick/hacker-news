@@ -29,7 +29,7 @@
 * [2024-05-15, 11:25:25](https://news.ycombinator.com/item?id=40365433) - [Arch Linux RISC-V](https://archriscv.felixc.at/)
 * [2024-05-15, 10:50:14](https://news.ycombinator.com/item?id=40365193) - [Show HN: Autopilot for my little HTML game called Andromeda Invaders](https://susam.net/invaders.html#auto)
 * [2024-05-15, 07:56:22](https://news.ycombinator.com/item?id=40364220) - [Context caching guide](https://ai.google.dev/gemini-api/docs/caching)
-* [2024-05-15, 02:46:44](https://news.ycombinator.com/item?id=40362569) - [The Sweet Spot: Maximizing Llama Energy Efficiency](https://jacquesmattheij.com/llama-energy-efficiency/)
+* [2024-05-14, 20:53:07](https://news.ycombinator.com/item?id=40360027) - [Binary banshees and digital demons (2021)](https://thephd.dev/binary-banshees-digital-demons-abi-c-c++-help-me-god-please)
 
 ## [Archives](archives/index.md)
 
