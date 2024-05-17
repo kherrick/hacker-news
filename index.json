@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2024-05-17, 01:16:13",
-      "https://news.ycombinator.com/item?id=40385332"
-    ],
-    [
-      "It was online for 3 seconds before getting a 404 request for /.git/config",
-      "https://honeypot.net/2024/05/16/i-am-not.html"
-    ]
-  ],
-  [
-    [
       "2024-05-17, 00:17:02",
       "https://news.ycombinator.com/item?id=40384959"
     ],
@@ -267,6 +257,16 @@
     [
       "Štar: an iteration construct for Common Lisp",
       "https://www.tfeb.org/fragments/2024/05/15/an-iteration-construct-for-common-lisp/"
+    ]
+  ],
+  [
+    [
+      "2024-05-15, 11:25:25",
+      "https://news.ycombinator.com/item?id=40365433"
+    ],
+    [
+      "Arch Linux RISC-V",
+      "https://archriscv.felixc.at/"
     ]
   ],
   [
