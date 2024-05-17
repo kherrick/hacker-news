@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-17](index.md)
 
+* [2024-05-17, 17:12:48](https://news.ycombinator.com/item?id=40392077) - [\"I lost trust\": Why the OpenAI team in charge of safeguarding humanity imploded](https://www.vox.com/future-perfect/2024/5/17/24158403/openai-resignations-ai-safety-ilya-sutskever-jan-leike-artificial-intelligence)
 * [2024-05-17, 16:43:11](https://news.ycombinator.com/item?id=40391743) - [Meshroom a free and open-source 3D Reconstruction Software](https://alicevision.org/#meshroom)
 * [2024-05-17, 16:31:33](https://news.ycombinator.com/item?id=40391627) - [Glewbot scales buildings like a gecko to inspect wall tiles](https://blog.arduino.cc/2024/05/11/glewbot-scales-buildings-like-a-gecko/)
 * [2024-05-17, 16:30:40](https://news.ycombinator.com/item?id=40391614) - [The case against dual axis charts (and what to use instead) (2018)](https://blog.datawrapper.de/dualaxis/)
