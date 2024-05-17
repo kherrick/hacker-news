@@ -6,6 +6,8 @@
 
 * [2024-05-17, 18:11:48](https://news.ycombinator.com/item?id=40392668) - [Ask HN: Should we stop posting X links on HN?](https://news.ycombinator.com/item?id=40392668)
 * [2024-05-17, 17:59:22](https://news.ycombinator.com/item?id=40392548) - [Show HN: I built a website to create financial models for any stock online](https://www.useequityval.com/)
+* [2024-05-17, 17:58:04](https://news.ycombinator.com/item?id=40392540) - [Microsoft now says your PC is in need of 'repair' if you're not using Edge](https://www.tomsguide.com/computing/windows-operating-systems/microsoft-now-says-your-pc-is-in-need-of-repair-if-youre-not-using-bing-with-edge)
+* [2024-05-17, 17:50:58](https://news.ycombinator.com/item?id=40392473) - [A Charming Algorithm for Count-Distinct](https://justinjaffray.com/a-charming-algorithm-for-count-distinct/)
 * [2024-05-17, 17:12:48](https://news.ycombinator.com/item?id=40392077) - [\"I lost trust\": Why the OpenAI team in charge of safeguarding humanity imploded](https://www.vox.com/future-perfect/2024/5/17/24158403/openai-resignations-ai-safety-ilya-sutskever-jan-leike-artificial-intelligence)
 * [2024-05-17, 16:43:11](https://news.ycombinator.com/item?id=40391743) - [Meshroom a free and open-source 3D Reconstruction Software](https://alicevision.org/#meshroom)
 * [2024-05-17, 16:31:33](https://news.ycombinator.com/item?id=40391627) - [Glewbot scales buildings like a gecko to inspect wall tiles](https://blog.arduino.cc/2024/05/11/glewbot-scales-buildings-like-a-gecko/)
