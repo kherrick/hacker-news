@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-17](index.md)
 
+* [2024-05-17, 04:22:12](https://news.ycombinator.com/item?id=40386360) - [SQL is now 50 What is coming next to the query language?](https://coderoasis.com/sql-is-now-50/)
 * [2024-05-17, 03:41:23](https://news.ycombinator.com/item?id=40386166) - [How to Start Google](https://www.paulgraham.com/google.html)
 * [2024-05-17, 03:16:38](https://news.ycombinator.com/item?id=40386026) - [Zwentendorf Nuclear Power Plant: Finished in 1978 but was never used](https://www.atlasobscura.com/places/zwentendorf-nuclear-power-plant)
 * [2024-05-17, 02:21:57](https://news.ycombinator.com/item?id=40385710) - [Urban Renewal Ruined Everything](https://darrellowens.substack.com/p/how-urban-renewal-ruined-everything)
