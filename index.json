@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-05-17, 16:43:11",
+      "https://news.ycombinator.com/item?id=40391743"
+    ],
+    [
+      "Meshroom a free and open-source 3D Reconstruction Software",
+      "https://alicevision.org/#meshroom"
+    ]
+  ],
+  [
+    [
       "2024-05-17, 16:31:33",
       "https://news.ycombinator.com/item?id=40391627"
     ],
     [
       "Glewbot scales buildings like a gecko to inspect wall tiles",
       "https://blog.arduino.cc/2024/05/11/glewbot-scales-buildings-like-a-gecko/"
+    ]
+  ],
+  [
+    [
+      "2024-05-17, 16:30:40",
+      "https://news.ycombinator.com/item?id=40391614"
+    ],
+    [
+      "The case against dual axis charts (and what to use instead) (2018)",
+      "https://blog.datawrapper.de/dualaxis/"
+    ]
+  ],
+  [
+    [
+      "2024-05-17, 16:12:31",
+      "https://news.ycombinator.com/item?id=40391412"
+    ],
+    [
+      "Jan Leike's OpenAI departure statement",
+      "https://jnnnthnn.com/leike.png"
     ]
   ],
   [
@@ -21,16 +51,6 @@
   ],
   [
     [
-      "2024-05-17, 15:06:26",
-      "https://news.ycombinator.com/item?id=40390731"
-    ],
-    [
-      "Rust 1.78: Performance Impact of the 128-Bit Memory Alignment Fix",
-      "https://codspeed.io/blog/rust-1-78-performance-impact-of-the-128-bit-memory-alignment-fix"
-    ]
-  ],
-  [
-    [
       "2024-05-17, 14:23:44",
       "https://news.ycombinator.com/item?id=40390287"
     ],
@@ -41,12 +61,12 @@
   ],
   [
     [
-      "2024-05-17, 13:42:28",
-      "https://news.ycombinator.com/item?id=40389753"
+      "2024-05-17, 13:53:11",
+      "https://news.ycombinator.com/item?id=40389888"
     ],
     [
-      "BIMI and DMARC Can't Save You: The Overlooked DKIM Exploit",
-      "https://www.zone.eu/blog/2024/05/17/bimi-and-dmarc-cant-save-you/"
+      "Ladders last a long time: Reading Raphael Samuel",
+      "https://www.lrb.co.uk/the-paper/v46/n10/florence-sutcliffe-braithwaite/ladders-last-a-long-time"
     ]
   ],
   [
@@ -97,16 +117,6 @@
     [
       "Non-Euclidean Doom: what happens to a game when pi is not 3.14159 (2022) [video]",
       "https://media.ccc.de/v/mch2022-236-non-euclidean-doom-what-happens-to-a-game-when-pi-is-not-3-14159-"
-    ]
-  ],
-  [
-    [
-      "2024-05-17, 12:23:13",
-      "https://news.ycombinator.com/item?id=40389119"
-    ],
-    [
-      "Static Wordle",
-      "https://www.val.town/v/stevekrouse/staticWordle"
     ]
   ],
   [
@@ -171,12 +181,12 @@
   ],
   [
     [
-      "2024-05-17, 07:37:19",
-      "https://news.ycombinator.com/item?id=40387394"
+      "2024-05-17, 08:29:23",
+      "https://news.ycombinator.com/item?id=40387663"
     ],
     [
-      "Welcome to the Parallel Future of Computation",
-      "https://hvm-page.pages.dev"
+      "Fairness is over-rated in games?",
+      "https://taogaming.wordpress.com/2024/04/24/against-fairness/"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "ADSL works over wet string (2017)",
       "https://www.revk.uk/2017/12/its-official-adsl-works-over-wet-string.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-17, 03:16:38",
-      "https://news.ycombinator.com/item?id=40386026"
-    ],
-    [
-      "Zwentendorf Nuclear Power Plant: Finished in 1978 but never used",
-      "https://www.atlasobscura.com/places/zwentendorf-nuclear-power-plant"
     ]
   ],
   [
@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2024-05-16, 15:24:19",
-      "https://news.ycombinator.com/item?id=40379532"
-    ],
-    [
-      "Growing sodium chloride crystals at home",
-      "https://crystalverse.com/sodium-chloride-crystals/"
-    ]
-  ],
-  [
-    [
       "2024-05-16, 14:54:25",
       "https://news.ycombinator.com/item?id=40379175"
     ],
@@ -241,32 +231,32 @@
   ],
   [
     [
-      "2024-05-16, 14:15:04",
-      "https://news.ycombinator.com/item?id=40378760"
+      "2024-05-16, 14:35:28",
+      "https://news.ycombinator.com/item?id=40378993"
     ],
     [
-      "Jike: The obscure social media app beloved by China's tech scene",
-      "https://restofworld.org/2023/china-tech-workers-investors-founders-app/"
+      "Third Time: a better way to work (2022)",
+      "https://www.lesswrong.com/posts/RWu8eZqbwgB9zaerh/third-time-a-better-way-to-work"
     ]
   ],
   [
     [
-      "2024-05-15, 18:32:53",
-      "https://news.ycombinator.com/item?id=40370644"
+      "2024-05-15, 14:29:58",
+      "https://news.ycombinator.com/item?id=40367444"
     ],
     [
-      "Make a game with Hoot for the Lisp Game Jam",
-      "https://spritely.institute/news/make-a-game-with-hoot-for-the-lisp-game-jam.html"
+      "Boilerplate busting in functional languages",
+      "https://lambdaland.org/posts/2024-05-01_definitely_not_about_monads/"
     ]
   ],
   [
     [
-      "2024-05-15, 12:21:21",
-      "https://news.ycombinator.com/item?id=40365956"
+      "2024-05-15, 13:49:59",
+      "https://news.ycombinator.com/item?id=40366943"
     ],
     [
-      "How the Soviets revolutionized wristwatches (2016)",
-      "https://www.collectorsweekly.com/articles/how-the-soviets-revolutionized-wristwatches/"
+      "OpenAI’s Library",
+      "https://www.nytimes.com/2024/05/15/technology/openai-library-office.html"
     ]
   ],
   [
@@ -291,12 +281,22 @@
   ],
   [
     [
-      "2024-05-15, 11:25:25",
-      "https://news.ycombinator.com/item?id=40365433"
+      "2024-05-14, 11:16:50",
+      "https://news.ycombinator.com/item?id=40353914"
     ],
     [
-      "Arch Linux RISC-V",
-      "https://archriscv.felixc.at/"
+      "Escher's \"Balcony\" in Lego",
+      "https://www.andrewlipson.com/escher/balcony.html"
+    ]
+  ],
+  [
+    [
+      "2024-05-13, 22:50:32",
+      "https://news.ycombinator.com/item?id=40349491"
+    ],
+    [
+      "Questions about molecular plastics recycling",
+      "https://www.plasticstoday.com/advanced-recycling/tough-questions-and-honest-answers-about-molecular-plastics-recycling"
     ]
   ]
 ]
