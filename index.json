@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-05-17, 16:09:01",
+      "https://news.ycombinator.com/item?id=40391382"
+    ],
+    [
+      "OpenAI Dissolves High-Profile Safety Team After Chief Scientist Sutskever's Exit",
+      "https://www.bloomberg.com/news/articles/2024-05-17/openai-dissolves-key-safety-team-after-chief-scientist-ilya-sutskever-s-exit"
+    ]
+  ],
+  [
+    [
       "2024-05-17, 15:34:31",
       "https://news.ycombinator.com/item?id=40391022"
     ],
     [
       "'I'm the new Oppenheimer ': Palantir's first-ever AI warfare conference",
       "https://www.theguardian.com/technology/article/2024/may/17/ai-weapons-palantir-war-technology"
+    ]
+  ],
+  [
+    [
+      "2024-05-17, 15:15:11",
+      "https://news.ycombinator.com/item?id=40390820"
+    ],
+    [
+      "A Trial HIV Vaccine Triggered Elusive and Essential Antibodies in Humans",
+      "https://corporate.dukehealth.org/news/trial-hiv-vaccine-triggered-elusive-and-essential-antibodies-humans"
     ]
   ],
   [
@@ -27,6 +47,16 @@
     [
       "Rachel Aviv Wrote That New Yorker Story on Lucy Letby",
       "https://www.niemanlab.org/2024/05/impossible-to-approach-the-reporting-the-way-i-normally-would-how-rachel-aviv-wrote-that-new-yorker-story-on-lucy-letby/"
+    ]
+  ],
+  [
+    [
+      "2024-05-17, 14:23:44",
+      "https://news.ycombinator.com/item?id=40390287"
+    ],
+    [
+      "Bend: a high-level language that runs on GPUs (via HVM2)",
+      "https://github.com/HigherOrderCO/Bend"
     ]
   ],
   [
@@ -67,16 +97,6 @@
     [
       "Beekeeper furious over destruction of $2M honey crop",
       "https://www.rnz.co.nz/news/business/516930/beekeeper-steven-brown-furious-over-destruction-of-2m-honey-crop"
-    ]
-  ],
-  [
-    [
-      "2024-05-17, 13:17:29",
-      "https://news.ycombinator.com/item?id=40389545"
-    ],
-    [
-      "The financial costs of healthcare costs, or, is keeping me alive worth it?",
-      "https://jakeseliger.com/2024/05/16/the-financial-costs-of-healthcare-costs-or-is-keeping-me-alive-worth-it/"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2024-05-17, 12:18:55",
-      "https://news.ycombinator.com/item?id=40389093"
-    ],
-    [
-      "A Ruby, Middleman and TailwindCSS blog template",
-      "https://github.com/harrison-broadbent/ruby-middleman-tailwind-starter-blog"
-    ]
-  ],
-  [
-    [
       "2024-05-17, 12:00:23",
       "https://news.ycombinator.com/item?id=40388933"
     ],
@@ -197,6 +207,16 @@
     [
       "HMT: Hierarchical Memory Transformer for Long Context Language Processing",
       "https://arxiv.org/abs/2405.06067"
+    ]
+  ],
+  [
+    [
+      "2024-05-17, 09:26:37",
+      "https://news.ycombinator.com/item?id=40388013"
+    ],
+    [
+      "Why neural networks struggle with the Game of Life (2020)",
+      "https://bdtechtalks.com/2020/09/16/deep-learning-game-of-life/"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2024-05-16, 21:14:47",
-      "https://news.ycombinator.com/item?id=40383263"
-    ],
-    [
-      "Deutsche Bahn introduces \"MetaWindow\"",
-      "https://www.railtarget.eu/technologies-and-infrastructure/deutsche-bahn-introduces-metawindow-a-gamechanger-in-noise-reduction-for-railways-8449.html"
-    ]
-  ],
-  [
-    [
       "2024-05-16, 16:24:03",
       "https://news.ycombinator.com/item?id=40380197"
     ],
@@ -257,16 +267,6 @@
     [
       "Computer scientists invent an efficient new way to count",
       "https://www.quantamagazine.org/computer-scientists-invent-an-efficient-new-way-to-count-20240516/"
-    ]
-  ],
-  [
-    [
-      "2024-05-16, 14:15:04",
-      "https://news.ycombinator.com/item?id=40378760"
-    ],
-    [
-      "Jike: The obscure social media app beloved by China's tech scene",
-      "https://restofworld.org/2023/china-tech-workers-investors-founders-app/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=40365064"
     ],
     [
-      "Multics Emacs: the history, design, and implementation",
+      "Multics Emacs: the history, design, and implementation (1979)",
       "https://www.multicians.org/mepap.html"
     ]
   ]
