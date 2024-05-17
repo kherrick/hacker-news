@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-05-17, 02:19:44",
-      "https://news.ycombinator.com/item?id=40385693"
-    ],
-    [
-      "Databases for Data Scientist – And why you probably don't need one",
-      "https://josiahparry.com/posts/2024-05-16-databases-for-ds"
-    ]
-  ],
-  [
-    [
       "2024-05-17, 01:53:13",
       "https://news.ycombinator.com/item?id=40385536"
     ],
@@ -47,16 +37,6 @@
     [
       "Moment: A Family of Open Time-Series Foundation Models",
       "https://arxiv.org/abs/2402.03885"
-    ]
-  ],
-  [
-    [
-      "2024-05-17, 01:19:37",
-      "https://news.ycombinator.com/item?id=40385346"
-    ],
-    [
-      "WD Releases New 6TB 2.5-Inch External Hard Drives – First Upgrade in Seven Years",
-      "https://www.anandtech.com/show/21400/not-dead-yet-wd-intros-6tb-25-inch-external-hard-drives"
     ]
   ],
   [
@@ -121,21 +101,11 @@
   ],
   [
     [
-      "2024-05-16, 20:07:37",
-      "https://news.ycombinator.com/item?id=40382550"
-    ],
-    [
-      "A long list of (advanced) JavaScript questions, and their explanations",
-      "https://github.com/lydiahallie/javascript-questions"
-    ]
-  ],
-  [
-    [
       "2024-05-16, 19:39:08",
       "https://news.ycombinator.com/item?id=40382275"
     ],
     [
-      "History of the Italian Electrical System",
+      "History of the Italian electrical system",
       "https://samuele963.github.io/electrics/history.html"
     ]
   ],
@@ -171,12 +141,12 @@
   ],
   [
     [
-      "2024-05-16, 16:20:03",
-      "https://news.ycombinator.com/item?id=40380158"
+      "2024-05-16, 16:51:37",
+      "https://news.ycombinator.com/item?id=40380499"
     ],
     [
-      "Using Llamafiles for Embeddings in Local RAG Applications",
-      "https://future.mozilla.org/news/llamafiles-for-embeddings-in-local-rag-applications/"
+      "America's dramatic shift from gas power plants to batteries",
+      "https://theprogressplaybook.com/2024/04/17/in-numbers-americas-dramatic-shift-from-gas-power-plants-to-batteries/"
     ]
   ],
   [
@@ -187,6 +157,16 @@
     [
       "Build WebGPU apps with PlayCanvas",
       "https://blog.playcanvas.com/build-webgpu-apps-today-with-playcanvas/"
+    ]
+  ],
+  [
+    [
+      "2024-05-16, 15:24:19",
+      "https://news.ycombinator.com/item?id=40379532"
+    ],
+    [
+      "Growing sodium chloride crystals at home",
+      "https://crystalverse.com/sodium-chloride-crystals/"
     ]
   ],
   [
@@ -211,6 +191,16 @@
   ],
   [
     [
+      "2024-05-16, 14:15:04",
+      "https://news.ycombinator.com/item?id=40378760"
+    ],
+    [
+      "Jike: The obscure social media app beloved by China's tech scene",
+      "https://restofworld.org/2023/china-tech-workers-investors-founders-app/"
+    ]
+  ],
+  [
+    [
       "2024-05-16, 13:53:22",
       "https://news.ycombinator.com/item?id=40378499"
     ],
@@ -221,12 +211,22 @@
   ],
   [
     [
-      "2024-05-16, 12:47:07",
-      "https://news.ycombinator.com/item?id=40377685"
+      "2024-05-16, 12:56:31",
+      "https://news.ycombinator.com/item?id=40377787"
     ],
     [
-      "F* – A Proof-Oriented Programming Language",
-      "https://www.fstar-lang.org/"
+      "Show HN: Chessdream – Generate realistic chess positions with AI",
+      "https://chessdream.ai"
+    ]
+  ],
+  [
+    [
+      "2024-05-15, 18:33:05",
+      "https://news.ycombinator.com/item?id=40370646"
+    ],
+    [
+      "The evolution of a Scheme programmer (2020)",
+      "https://erkin.party/blog/200715/evolution/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2024-05-14, 20:53:07",
-      "https://news.ycombinator.com/item?id=40360027"
+      "2024-05-15, 05:35:44",
+      "https://news.ycombinator.com/item?id=40363426"
     ],
     [
-      "Binary banshees and digital demons (2021)",
-      "https://thephd.dev/binary-banshees-digital-demons-abi-c-c++-help-me-god-please"
+      "Simplifying Join Syntax",
+      "https://github.com/SPLWare/esProc/wiki/Simplifying-JOIN-syntax-(JOIN-Simplification-and-Acceleration-Series-3)"
     ]
   ]
 ]
