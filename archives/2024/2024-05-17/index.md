@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-17](index.md)
 
+* [2024-05-17, 13:42:28](https://news.ycombinator.com/item?id=40389753) - [BIMI and DMARC Can't Save You: The Overlooked DKIM Exploit](https://www.zone.eu/blog/2024/05/17/bimi-and-dmarc-cant-save-you/)
 * [2024-05-17, 13:22:06](https://news.ycombinator.com/item?id=40389576) - [GDPR: Is It Worth It?](https://arxiv.org/abs/2405.10225)
 * [2024-05-17, 13:18:00](https://news.ycombinator.com/item?id=40389548) - [Beekeeper furious over destruction of $2M honey crop](https://www.rnz.co.nz/news/business/516930/beekeeper-steven-brown-furious-over-destruction-of-2m-honey-crop)
 * [2024-05-17, 13:17:29](https://news.ycombinator.com/item?id=40389545) - [\"The financial costs of healthcare costs, or, is keeping me alive worth it?\"](https://jakeseliger.com/2024/05/16/the-financial-costs-of-healthcare-costs-or-is-keeping-me-alive-worth-it/)
@@ -11,6 +12,7 @@
 * [2024-05-17, 13:10:38](https://news.ycombinator.com/item?id=40389502) - [3,000 Best Free Movies on YouTube Playlist](https://www.learnoutloud.com/content/blog/)
 * [2024-05-17, 13:08:05](https://news.ycombinator.com/item?id=40389480) - [Ambitious but at Peace](https://jugheadjones10.github.io/kim-young-jin/posts/ambitious-and-content.html)
 * [2024-05-17, 13:04:06](https://news.ycombinator.com/item?id=40389445) - [Toon3D: Seeing Cartoons from a New Perspective](https://toon3d.studio/)
+* [2024-05-17, 13:00:29](https://news.ycombinator.com/item?id=40389414) - [Thunderbird.net Has a New Look](https://blog.thunderbird.net/2024/05/the-new-thunderbird-website-has-hatched/)
 * [2024-05-17, 13:00:26](https://news.ycombinator.com/item?id=40389413) - [Shein set to boost London with IPO](https://ukinvestormagazine.co.uk/shein-set-to-boost-london-with-ipo/)
 * [2024-05-17, 12:59:35](https://news.ycombinator.com/item?id=40389405) - [Demystifying the Protobuf Wire Format](https://kreya.app/blog/protocolbuffers-wire-format/)
 * [2024-05-17, 12:59:34](https://news.ycombinator.com/item?id=40389404) - [Ideas and Creativity (2019)](https://bastian.rieck.me/blog/2019/ideas/)
