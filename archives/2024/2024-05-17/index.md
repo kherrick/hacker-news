@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-05-17](index.md)
 
+* [2024-05-17, 16:43:11](https://news.ycombinator.com/item?id=40391743) - [Meshroom a free and open-source 3D Reconstruction Software](https://alicevision.org/#meshroom)
 * [2024-05-17, 16:31:33](https://news.ycombinator.com/item?id=40391627) - [Glewbot scales buildings like a gecko to inspect wall tiles](https://blog.arduino.cc/2024/05/11/glewbot-scales-buildings-like-a-gecko/)
+* [2024-05-17, 16:30:40](https://news.ycombinator.com/item?id=40391614) - [The case against dual axis charts (and what to use instead) (2018)](https://blog.datawrapper.de/dualaxis/)
 * [2024-05-17, 16:22:46](https://news.ycombinator.com/item?id=40391523) - [Rents are rising faster than wages across the country](https://www.cbsnews.com/news/rent-cost-us-2024-housing-national/)
+* [2024-05-17, 16:12:31](https://news.ycombinator.com/item?id=40391412) - [Jan Leike's OpenAI departure statement](https://jnnnthnn.com/leike.png)
 * [2024-05-17, 16:09:01](https://news.ycombinator.com/item?id=40391382) - [OpenAI Dissolves High-Profile Safety Team After Chief Scientist Sutskever's Exit](https://www.bloomberg.com/news/articles/2024-05-17/openai-dissolves-key-safety-team-after-chief-scientist-ilya-sutskever-s-exit)
 * [2024-05-17, 15:34:31](https://news.ycombinator.com/item?id=40391022) - ['I'm the new Oppenheimer ': Palantir's first-ever AI warfare conference](https://www.theguardian.com/technology/article/2024/may/17/ai-weapons-palantir-war-technology)
 * [2024-05-17, 15:16:38](https://news.ycombinator.com/item?id=40390831) - [OpenAI's Long-Term AI Risk Team Has Disbanded](https://www.wired.com/story/openai-superalignment-team-disbanded/)
@@ -14,6 +17,7 @@
 * [2024-05-17, 14:47:42](https://news.ycombinator.com/item?id=40390536) - [Rachel Aviv Wrote That New Yorker Story on Lucy Letby](https://www.niemanlab.org/2024/05/impossible-to-approach-the-reporting-the-way-i-normally-would-how-rachel-aviv-wrote-that-new-yorker-story-on-lucy-letby/)
 * [2024-05-17, 14:35:32](https://news.ycombinator.com/item?id=40390408) - [The Rise and Fall of the Trad Wife](https://www.newyorker.com/culture/persons-of-interest/the-rise-and-fall-of-the-trad-wife)
 * [2024-05-17, 14:23:44](https://news.ycombinator.com/item?id=40390287) - [Bend: a high-level language that runs on GPUs (via HVM2)](https://github.com/HigherOrderCO/Bend)
+* [2024-05-17, 13:53:11](https://news.ycombinator.com/item?id=40389888) - [Ladders last a long time: Reading Raphael Samuel](https://www.lrb.co.uk/the-paper/v46/n10/florence-sutcliffe-braithwaite/ladders-last-a-long-time)
 * [2024-05-17, 13:44:20](https://news.ycombinator.com/item?id=40389774) - [Confronting Another Axis? History, Humility, and Wishful Thinking](https://tnsr.org/2024/05/confronting-another-axis-history-humility-and-wishful-thinking/)
 * [2024-05-17, 13:42:28](https://news.ycombinator.com/item?id=40389753) - [BIMI and DMARC Can't Save You: The Overlooked DKIM Exploit](https://www.zone.eu/blog/2024/05/17/bimi-and-dmarc-cant-save-you/)
 * [2024-05-17, 13:38:31](https://news.ycombinator.com/item?id=40389711) - [Sakuga-42M Dataset: Scaling Up Cartoon Research](https://arxiv.org/abs/2405.07425)
@@ -46,6 +50,7 @@
 * [2024-05-17, 09:08:44](https://news.ycombinator.com/item?id=40387889) - [DNA confirms there IS a big cat roaming the British countryside](https://www.discoverwildlife.com/animal-facts/mammals/big-cat-british-countryside)
 * [2024-05-17, 08:58:11](https://news.ycombinator.com/item?id=40387814) - [Is the move to electric cars running out of power?](https://www.bbc.co.uk/news/business-69022771)
 * [2024-05-17, 08:57:51](https://news.ycombinator.com/item?id=40387812) - [How to read C type declarations (2003)](http://www.unixwiz.net/techtips/reading-cdecl.html)
+* [2024-05-17, 08:29:23](https://news.ycombinator.com/item?id=40387663) - [Fairness is over-rated in games?](https://taogaming.wordpress.com/2024/04/24/against-fairness/)
 * [2024-05-17, 07:37:19](https://news.ycombinator.com/item?id=40387394) - [Welcome to the Parallel Future of Computation](https://hvm-page.pages.dev)
 * [2024-05-17, 07:24:02](https://news.ycombinator.com/item?id=40387318) - [It's official: ADSL works over wet string](https://www.revk.uk/2017/12/its-official-adsl-works-over-wet-string.html)
 * [2024-05-17, 04:22:12](https://news.ycombinator.com/item?id=40386360) - [SQL is now 50 What is coming next to the query language?](https://coderoasis.com/sql-is-now-50/)
