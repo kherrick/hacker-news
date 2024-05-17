@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-05-17](index.md)
 
+* [2024-05-17, 13:18:00](https://news.ycombinator.com/item?id=40389548) - [Beekeeper furious over destruction of $2M honey crop](https://www.rnz.co.nz/news/business/516930/beekeeper-steven-brown-furious-over-destruction-of-2m-honey-crop)
+* [2024-05-17, 13:17:24](https://news.ycombinator.com/item?id=40389544) - [NYPD will deploy drones to respond to 911 calls in 5 NYC precincts,officials say](https://gothamist.com/news/nypd-will-deploy-drones-to-respond-to-911-calls-in-5-nyc-precincts-officials-say)
+* [2024-05-17, 13:10:38](https://news.ycombinator.com/item?id=40389502) - [3,000 Best Free Movies on YouTube Playlist](https://www.learnoutloud.com/content/blog/)
 * [2024-05-17, 13:04:06](https://news.ycombinator.com/item?id=40389445) - [Toon3D: Seeing Cartoons from a New Perspective](https://toon3d.studio/)
 * [2024-05-17, 13:00:26](https://news.ycombinator.com/item?id=40389413) - [Shein set to boost London with IPO](https://ukinvestormagazine.co.uk/shein-set-to-boost-london-with-ipo/)
 * [2024-05-17, 12:59:35](https://news.ycombinator.com/item?id=40389405) - [Demystifying the Protobuf Wire Format](https://kreya.app/blog/protocolbuffers-wire-format/)
 * [2024-05-17, 12:59:34](https://news.ycombinator.com/item?id=40389404) - [Ideas and Creativity (2019)](https://bastian.rieck.me/blog/2019/ideas/)
+* [2024-05-17, 12:44:42](https://news.ycombinator.com/item?id=40389280) - [Tornado Cash Developer Found Guilty of Laundering $1.2B of Crypto](https://www.wired.com/story/tornado-cash-developer-found-guilty-of-laundering-crypto/)
 * [2024-05-17, 12:33:39](https://news.ycombinator.com/item?id=40389188) - [Deleted iPhone photos show up again after iOS update](https://www.malwarebytes.com/blog/news/2024/05/deleted-iphone-photos-show-up-again-after-ios-update)
 * [2024-05-17, 12:18:59](https://news.ycombinator.com/item?id=40389094) - [N-Dimensional Gaussians for Fitting of High Dimensional Functions](https://www.sdiolatz.info/ndg-fitting/)
 * [2024-05-17, 12:18:55](https://news.ycombinator.com/item?id=40389093) - [A Ruby, Middleman and TailwindCSS blog template](https://github.com/harrison-broadbent/ruby-middleman-tailwind-starter-blog)
