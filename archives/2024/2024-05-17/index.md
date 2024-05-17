@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-17](index.md)
 
+* [2024-05-17, 09:26:37](https://news.ycombinator.com/item?id=40388013) - [Why neural networks struggle with the Game of Life](https://bdtechtalks.com/2020/09/16/deep-learning-game-of-life/)
 * [2024-05-17, 09:08:44](https://news.ycombinator.com/item?id=40387889) - [DNA confirms there IS a big cat roaming the British countryside](https://www.discoverwildlife.com/animal-facts/mammals/big-cat-british-countryside)
 * [2024-05-17, 08:58:11](https://news.ycombinator.com/item?id=40387814) - [Is the move to electric cars running out of power?](https://www.bbc.co.uk/news/business-69022771)
 * [2024-05-17, 08:57:51](https://news.ycombinator.com/item?id=40387812) - [How to read C type declarations (2003)](http://www.unixwiz.net/techtips/reading-cdecl.html)

@@ -60,6 +60,7 @@
 * [2024-05-15, 14:02:35](https://news.ycombinator.com/item?id=40367090) - [Show HN: Open-source BI and analytics for engineers](https://github.com/quarylabs/quary)
 * [2024-05-15, 13:52:19](https://news.ycombinator.com/item?id=40366962) - [The Worst Website in the Entire World](https://matduggan.com/the-worst-website-in-the-entire-world/)
 * [2024-05-15, 13:43:36](https://news.ycombinator.com/item?id=40366867) - [What went wrong with UniSuper and Google Cloud?](https://danielcompton.net/google-cloud-unisuper)
+* [2024-05-15, 13:39:31](https://news.ycombinator.com/item?id=40366803) - [But Why a Penguin?](https://daily.jstor.org/but-why-a-penguin/)
 * [2024-05-15, 13:33:47](https://news.ycombinator.com/item?id=40366722) - [Downranking won't stop Google's deepfake porn problem, victims say](https://arstechnica.com/tech-policy/2024/05/downranking-wont-stop-googles-deepfake-porn-problem-victims-say/)
 * [2024-05-15, 13:24:02](https://news.ycombinator.com/item?id=40366602) - [Accidentally breaking GitHub Actions with a shorthash collision](https://blog.teddykatz.com/2019/11/12/github-actions-dos.html)
 * [2024-05-15, 13:13:23](https://news.ycombinator.com/item?id=40366474) - [The Volvo VNL, a heavy truck purpose-designed for North American roads](https://arstechnica.com/cars/2024/05/heres-how-volvo-is-making-its-long-haul-trucks-safer-more-efficient/)
