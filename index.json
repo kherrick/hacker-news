@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-05-17, 04:22:12",
-      "https://news.ycombinator.com/item?id=40386360"
-    ],
-    [
-      "SQL is now 50 What is coming next to the query language?",
-      "https://coderoasis.com/sql-is-now-50/"
-    ]
-  ],
-  [
-    [
       "2024-05-17, 03:16:38",
       "https://news.ycombinator.com/item?id=40386026"
     ],
@@ -121,6 +111,16 @@
   ],
   [
     [
+      "2024-05-16, 18:56:55",
+      "https://news.ycombinator.com/item?id=40381841"
+    ],
+    [
+      "Smart Pointers in (GNU) C",
+      "https://snai.pe/posts/c-smart-pointers"
+    ]
+  ],
+  [
+    [
       "2024-05-16, 17:12:22",
       "https://news.ycombinator.com/item?id=40380744"
     ],
@@ -167,6 +167,16 @@
     [
       "Egypt's pyramids may have been built on a long-lost branch of the Nile",
       "https://www.nature.com/articles/d41586-024-01449-y"
+    ]
+  ],
+  [
+    [
+      "2024-05-16, 14:54:25",
+      "https://news.ycombinator.com/item?id=40379175"
+    ],
+    [
+      "Computer scientists invent an efficient new way to count",
+      "https://www.quantamagazine.org/computer-scientists-invent-an-efficient-new-way-to-count-20240516/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Context caching guide",
       "https://ai.google.dev/gemini-api/docs/caching"
-    ]
-  ],
-  [
-    [
-      "2024-05-15, 07:40:07",
-      "https://news.ycombinator.com/item?id=40364127"
-    ],
-    [
-      "When AI helps you code, who owns the finished product?",
-      "https://www.theregister.com/2024/05/15/ai_coding_complications/"
     ]
   ],
   [
