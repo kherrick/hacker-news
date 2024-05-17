@@ -21,12 +21,12 @@
   ],
   [
     [
-      "2024-05-17, 13:22:06",
-      "https://news.ycombinator.com/item?id=40389576"
+      "2024-05-17, 13:38:31",
+      "https://news.ycombinator.com/item?id=40389711"
     ],
     [
-      "GDPR: Is It Worth It?",
-      "https://arxiv.org/abs/2405.10225"
+      "Sakuga-42M Dataset: Scaling Up Cartoon Research",
+      "https://arxiv.org/abs/2405.07425"
     ]
   ],
   [
@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2024-05-17, 13:17:24",
-      "https://news.ycombinator.com/item?id=40389544"
-    ],
-    [
-      "NYPD will deploy drones to respond to 911 calls in 5 NYC precincts,officials say",
-      "https://gothamist.com/news/nypd-will-deploy-drones-to-respond-to-911-calls-in-5-nyc-precincts-officials-say"
-    ]
-  ],
-  [
-    [
       "2024-05-17, 13:08:05",
       "https://news.ycombinator.com/item?id=40389480"
     ],
@@ -81,22 +71,22 @@
   ],
   [
     [
+      "2024-05-17, 13:00:55",
+      "https://news.ycombinator.com/item?id=40389421"
+    ],
+    [
+      "LoRA Learns Less and Forgets Less",
+      "https://arxiv.org/abs/2405.09673"
+    ]
+  ],
+  [
+    [
       "2024-05-17, 13:00:29",
       "https://news.ycombinator.com/item?id=40389414"
     ],
     [
       "Thunderbird.net Has a New Look",
       "https://blog.thunderbird.net/2024/05/the-new-thunderbird-website-has-hatched/"
-    ]
-  ],
-  [
-    [
-      "2024-05-17, 13:00:26",
-      "https://news.ycombinator.com/item?id=40389413"
-    ],
-    [
-      "Shein set to boost London with IPO",
-      "https://ukinvestormagazine.co.uk/shein-set-to-boost-london-with-ipo/"
     ]
   ],
   [
@@ -131,22 +121,22 @@
   ],
   [
     [
-      "2024-05-17, 12:23:13",
-      "https://news.ycombinator.com/item?id=40389119"
-    ],
-    [
-      "Static Wordle",
-      "https://www.val.town/v/stevekrouse/staticWordle"
-    ]
-  ],
-  [
-    [
       "2024-05-17, 12:18:59",
       "https://news.ycombinator.com/item?id=40389094"
     ],
     [
       "N-Dimensional Gaussians for Fitting of High Dimensional Functions",
       "https://www.sdiolatz.info/ndg-fitting/"
+    ]
+  ],
+  [
+    [
+      "2024-05-17, 12:18:55",
+      "https://news.ycombinator.com/item?id=40389093"
+    ],
+    [
+      "A Ruby, Middleman and TailwindCSS blog template",
+      "https://github.com/harrison-broadbent/ruby-middleman-tailwind-starter-blog"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "RAL Color Standard",
       "https://en.wikipedia.org/wiki/RAL_colour_standard"
+    ]
+  ],
+  [
+    [
+      "2024-05-15, 11:25:25",
+      "https://news.ycombinator.com/item?id=40365433"
+    ],
+    [
+      "Arch Linux RISC-V",
+      "https://archriscv.felixc.at/"
     ]
   ]
 ]
