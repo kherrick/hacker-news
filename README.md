@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-17, 03:16:38](https://news.ycombinator.com/item?id=40386026) - [Zwentendorf Nuclear Power Plant: Finished in 1978 but was never used](https://www.atlasobscura.com/places/zwentendorf-nuclear-power-plant)
 * [2024-05-17, 02:21:57](https://news.ycombinator.com/item?id=40385710) - [Urban Renewal Ruined Everything](https://darrellowens.substack.com/p/how-urban-renewal-ruined-everything)
 * [2024-05-17, 02:19:44](https://news.ycombinator.com/item?id=40385693) - [Databases for Data Scientist – And why you probably don't need one](https://josiahparry.com/posts/2024-05-16-databases-for-ds)
 * [2024-05-17, 01:53:13](https://news.ycombinator.com/item?id=40385536) - [100 Exercises to Learn Rust](https://rust-exercises.com/)
 * [2024-05-17, 01:42:09](https://news.ycombinator.com/item?id=40385469) - [Moment: A Family of Open Time-Series Foundation Models](https://arxiv.org/abs/2402.03885)
-* [2024-05-17, 01:19:37](https://news.ycombinator.com/item?id=40385346) - [WD Releases New 6TB 2.5-Inch External Hard Drives – First Upgrade in Seven Years](https://www.anandtech.com/show/21400/not-dead-yet-wd-intros-6tb-25-inch-external-hard-drives)
 * [2024-05-17, 00:17:02](https://news.ycombinator.com/item?id=40384959) - [A transport protocol's view of Starlink](https://www.potaroo.net/ispcol/2024-05/starlink-tcp.html)
 * [2024-05-16, 23:07:20](https://news.ycombinator.com/item?id=40384421) - [Interactive Visualizations of Rate-Limiting Algorithms](https://smudge.ai/blog/ratelimit-algorithms)
 * [2024-05-16, 22:44:58](https://news.ycombinator.com/item?id=40384234) - [LearnLM models tuned for human learning](https://blog.google/outreach-initiatives/education/google-learnlm-gemini-generative-ai/)

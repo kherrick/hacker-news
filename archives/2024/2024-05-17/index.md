@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-17](index.md)
 
 * [2024-05-17, 03:41:23](https://news.ycombinator.com/item?id=40386166) - [How to Start Google](https://www.paulgraham.com/google.html)
+* [2024-05-17, 03:16:38](https://news.ycombinator.com/item?id=40386026) - [Zwentendorf Nuclear Power Plant: Finished in 1978 but was never used](https://www.atlasobscura.com/places/zwentendorf-nuclear-power-plant)
 * [2024-05-17, 02:21:57](https://news.ycombinator.com/item?id=40385710) - [Urban Renewal Ruined Everything](https://darrellowens.substack.com/p/how-urban-renewal-ruined-everything)
 * [2024-05-17, 02:19:44](https://news.ycombinator.com/item?id=40385693) - [Databases for Data Scientist – And why you probably don't need one](https://josiahparry.com/posts/2024-05-16-databases-for-ds)
 * [2024-05-17, 01:53:13](https://news.ycombinator.com/item?id=40385536) - [100 Exercises to Learn Rust](https://rust-exercises.com/)
