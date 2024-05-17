@@ -2,7 +2,7 @@
 
 * [2024-05-17, 03:16:38](https://news.ycombinator.com/item?id=40386026) - [Zwentendorf Nuclear Power Plant: Finished in 1978 but never used](https://www.atlasobscura.com/places/zwentendorf-nuclear-power-plant)
 * [2024-05-17, 02:21:57](https://news.ycombinator.com/item?id=40385710) - [Urban renewal left the U.S. too scared to build](https://darrellowens.substack.com/p/how-urban-renewal-ruined-everything)
-* [2024-05-17, 01:53:13](https://news.ycombinator.com/item?id=40385536) - [100 Exercises to Learn Rust](https://rust-exercises.com/)
+* [2024-05-17, 01:53:13](https://news.ycombinator.com/item?id=40385536) - [Exercises to Learn Rust](https://rust-exercises.com/)
 * [2024-05-17, 00:17:02](https://news.ycombinator.com/item?id=40384959) - [A transport protocol's view of Starlink](https://www.potaroo.net/ispcol/2024-05/starlink-tcp.html)
 * [2024-05-16, 23:07:20](https://news.ycombinator.com/item?id=40384421) - [Visualizing algorithms for rate limiting](https://smudge.ai/blog/ratelimit-algorithms)
 * [2024-05-16, 22:19:06](https://news.ycombinator.com/item?id=40384013) - [A forged Apple employee badge](https://cabel.com/2024/05/16/the-forged-apple-employee-badge/)
@@ -11,7 +11,6 @@
 * [2024-05-16, 21:01:29](https://news.ycombinator.com/item?id=40383078) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations – Is Hiring](https://skio.com/careers/)
 * [2024-05-16, 19:39:08](https://news.ycombinator.com/item?id=40382275) - [History of the Italian electrical system](https://samuele963.github.io/electrics/history.html)
 * [2024-05-16, 19:29:18](https://news.ycombinator.com/item?id=40382163) - [Exit Strategy: The Case for Single-Stair Egress](https://www.architecturalrecord.com/articles/16880-exit-strategy-the-case-for-single-stair-egress)
-* [2024-05-16, 18:56:55](https://news.ycombinator.com/item?id=40381841) - [Smart Pointers in (GNU) C](https://snai.pe/posts/c-smart-pointers)
 * [2024-05-16, 17:12:22](https://news.ycombinator.com/item?id=40380744) - [The Downfall of DeviantArt](https://slate.com/technology/2024/05/deviantart-what-happened-ai-decline-lawsuit-stability.html)
 * [2024-05-16, 16:51:37](https://news.ycombinator.com/item?id=40380499) - [America's dramatic shift from gas power plants to batteries](https://theprogressplaybook.com/2024/04/17/in-numbers-americas-dramatic-shift-from-gas-power-plants-to-batteries/)
 * [2024-05-16, 16:04:47](https://news.ycombinator.com/item?id=40379982) - [Build WebGPU apps with PlayCanvas](https://blog.playcanvas.com/build-webgpu-apps-today-with-playcanvas/)
@@ -30,6 +29,7 @@
 * [2024-05-15, 07:56:22](https://news.ycombinator.com/item?id=40364220) - [Context caching guide](https://ai.google.dev/gemini-api/docs/caching)
 * [2024-05-15, 05:44:18](https://news.ycombinator.com/item?id=40363481) - [How to fix bugs in 24 hours or less](https://www.dolthub.com/blog/2024-05-15-24-hour-bug-fixes/)
 * [2024-05-15, 05:35:44](https://news.ycombinator.com/item?id=40363426) - [Simplifying Join Syntax](https://github.com/SPLWare/esProc/wiki/Simplifying-JOIN-syntax-(JOIN-Simplification-and-Acceleration-Series-3))
+* [2024-05-14, 04:24:03](https://news.ycombinator.com/item?id=40351597) - [Finding Mona Lisa in the Game of Life (2020)](https://kevingal.com/blog/mona-lisa-gol.html)
 
 ## [Archives](archives/index.md)
 
