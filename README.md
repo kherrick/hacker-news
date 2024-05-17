@@ -25,9 +25,9 @@
 * [2024-05-15, 13:39:31](https://news.ycombinator.com/item?id=40366803) - [But Why a Penguin?](https://daily.jstor.org/but-why-a-penguin/)
 * [2024-05-15, 12:14:10](https://news.ycombinator.com/item?id=40365884) - [Extracting Words from Scanned Books: A Step-by-Step Tutorial with Python, OpenCV](https://github.com/feitgemel/Open-CV/tree/main/Words-Segmentation)
 * [2024-05-15, 12:03:20](https://news.ycombinator.com/item?id=40365777) - [Štar: an iteration construct for Common Lisp](https://www.tfeb.org/fragments/2024/05/15/an-iteration-construct-for-common-lisp/)
+* [2024-05-15, 12:03:11](https://news.ycombinator.com/item?id=40365776) - [Random Attractors – Found Using Lyapunov Exponents (2001)](https://paulbourke.net/fractals/lyapunov/)
 * [2024-05-15, 11:25:25](https://news.ycombinator.com/item?id=40365433) - [Arch Linux RISC-V](https://archriscv.felixc.at/)
 * [2024-05-15, 07:56:22](https://news.ycombinator.com/item?id=40364220) - [Context caching guide](https://ai.google.dev/gemini-api/docs/caching)
-* [2024-05-15, 05:44:18](https://news.ycombinator.com/item?id=40363481) - [How to fix bugs in 24 hours or less](https://www.dolthub.com/blog/2024-05-15-24-hour-bug-fixes/)
 * [2024-05-15, 05:35:44](https://news.ycombinator.com/item?id=40363426) - [Simplifying Join Syntax](https://github.com/SPLWare/esProc/wiki/Simplifying-JOIN-syntax-(JOIN-Simplification-and-Acceleration-Series-3))
 * [2024-05-14, 04:24:03](https://news.ycombinator.com/item?id=40351597) - [Finding Mona Lisa in the Game of Life (2020)](https://kevingal.com/blog/mona-lisa-gol.html)
 
