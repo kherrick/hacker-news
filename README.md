@@ -25,9 +25,9 @@
 * [2024-05-16, 15:52:53](https://news.ycombinator.com/item?id=40379833) - [Ubershaders: A Ridiculous Solution to an Impossible Problem (2017)](https://dolphin-emu.org/blog/2017/07/30/ubershaders/)
 * [2024-05-16, 15:09:21](https://news.ycombinator.com/item?id=40379347) - [Exact binary vector search for RAG in 100 lines of Julia](https://domluna.com/blog/tiny-binary-rag)
 * [2024-05-16, 14:54:25](https://news.ycombinator.com/item?id=40379175) - [Computer scientists invent an efficient new way to count](https://www.quantamagazine.org/computer-scientists-invent-an-efficient-new-way-to-count-20240516/)
-* [2024-05-16, 14:35:28](https://news.ycombinator.com/item?id=40378993) - [Third Time: a better way to work (2022)](https://www.lesswrong.com/posts/RWu8eZqbwgB9zaerh/third-time-a-better-way-to-work)
 * [2024-05-16, 14:04:25](https://news.ycombinator.com/item?id=40378628) - [Pacific squid flashes its attack 'headlights'](https://www.bbc.com/news/science-environment-69016405)
 * [2024-05-16, 13:48:45](https://news.ycombinator.com/item?id=40378433) - [Wuffs: Wrangling Untrusted File Formats Safely](https://github.com/google/wuffs)
+* [2024-05-16, 11:32:52](https://news.ycombinator.com/item?id=40377122) - [An Animated QR Code of Bad Apple](https://a.exozy.me/posts/bad-apple-animated-qr-code/)
 * [2024-05-16, 03:03:41](https://news.ycombinator.com/item?id=40374815) - [Scholars discover rare 16th-century tome with handwritten notes by John Milton](https://arstechnica.com/culture/2024/05/john-miltons-handwritten-notes-make-this-16th-century-history-book-a-rare-find/)
 * [2024-05-15, 22:23:07](https://news.ycombinator.com/item?id=40373139) - [The Unusual Evolutionary Journey of the Baobab Tree](https://www.nytimes.com/2024/05/15/science/baobab-trees-evolution.html)
 

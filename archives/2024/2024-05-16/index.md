@@ -87,6 +87,7 @@
 * [2024-05-16, 11:47:04](https://news.ycombinator.com/item?id=40377198) - [Internet use associated with higher wellbeing, finds new global Oxford study](https://www.ox.ac.uk/news/2024-05-14-internet-use-statistically-associated-higher-wellbeing-finds-new-global-oxford-study)
 * [2024-05-16, 11:41:50](https://news.ycombinator.com/item?id=40377161) - [Why Bad CEOs Fear Remote Work (2021)](https://scottberkun.com/2021/why-bad-ceos-fear-remote-work/)
 * [2024-05-16, 11:40:39](https://news.ycombinator.com/item?id=40377154) - [EU opens child safety probes of Facebook and Instagram, citing addictive design](https://techcrunch.com/2024/05/16/eu-opens-child-safety-probes-of-facebook-and-instagram-citing-addictive-design-concerns/)
+* [2024-05-16, 11:32:52](https://news.ycombinator.com/item?id=40377122) - [An Animated QR Code of Bad Apple](https://a.exozy.me/posts/bad-apple-animated-qr-code/)
 * [2024-05-16, 11:12:24](https://news.ycombinator.com/item?id=40377039) - [Possible author of the Cicada 3301 community](https://wondrousnet.blogspot.com/2022/11/cicada-3301-solution.html)
 * [2024-05-16, 10:54:31](https://news.ycombinator.com/item?id=40376945) - [Proxmox VE Helper-Scripts](https://helper-scripts.com/)
 * [2024-05-16, 10:19:01](https://news.ycombinator.com/item?id=40376775) - [Forgotten APL Influences(2016) [pdf]](https://pok.acm.org/meetings/foils/McGrew18paper.pdf)
