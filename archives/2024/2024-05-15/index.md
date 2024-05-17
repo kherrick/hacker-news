@@ -89,6 +89,7 @@
 * [2024-05-15, 08:24:02](https://news.ycombinator.com/item?id=40364429) - [Introduction to the gfortran array descriptor / dope vector](https://thinkingeek.com/2017/01/14/gfortran-array-descriptor/)
 * [2024-05-15, 07:56:22](https://news.ycombinator.com/item?id=40364220) - [Google Gemini: Context Caching](https://ai.google.dev/gemini-api/docs/caching)
 * [2024-05-15, 07:54:38](https://news.ycombinator.com/item?id=40364210) - [Bicycle Rolling Resistance: Tire Rolling Resistance Tests and More](https://www.bicyclerollingresistance.com/)
+* [2024-05-15, 07:40:07](https://news.ycombinator.com/item?id=40364127) - [When AI helps you code, who owns the finished product?](https://www.theregister.com/2024/05/15/ai_coding_complications/)
 * [2024-05-15, 07:36:36](https://news.ycombinator.com/item?id=40364108) - [Raspberry Pi prepares for London listing](https://www.ft.com/content/6d846a93-030a-4106-b045-d74a216493b0)
 * [2024-05-15, 07:36:07](https://news.ycombinator.com/item?id=40364104) - [\"Is This Project Still Maintained?\"](https://www.hezmatt.org/~mpalmer/blog/2024/05/14/is-this-project-still-maintained.html)
 * [2024-05-15, 07:10:38](https://news.ycombinator.com/item?id=40363971) - [Notes on Japan](https://alexanderweichart.de/5_Archive/1.-Projects/Notes/Notes-on-Japan)

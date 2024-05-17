@@ -3,7 +3,6 @@
 * [2024-05-17, 03:16:38](https://news.ycombinator.com/item?id=40386026) - [Zwentendorf Nuclear Power Plant: Finished in 1978 but never used](https://www.atlasobscura.com/places/zwentendorf-nuclear-power-plant)
 * [2024-05-17, 02:21:57](https://news.ycombinator.com/item?id=40385710) - [Urban renewal left the U.S. too scared to build](https://darrellowens.substack.com/p/how-urban-renewal-ruined-everything)
 * [2024-05-17, 01:53:13](https://news.ycombinator.com/item?id=40385536) - [100 Exercises to Learn Rust](https://rust-exercises.com/)
-* [2024-05-17, 01:42:09](https://news.ycombinator.com/item?id=40385469) - [Moment: A Family of Open Time-Series Foundation Models](https://arxiv.org/abs/2402.03885)
 * [2024-05-17, 00:17:02](https://news.ycombinator.com/item?id=40384959) - [A transport protocol's view of Starlink](https://www.potaroo.net/ispcol/2024-05/starlink-tcp.html)
 * [2024-05-16, 23:07:20](https://news.ycombinator.com/item?id=40384421) - [Visualizing algorithms for rate limiting](https://smudge.ai/blog/ratelimit-algorithms)
 * [2024-05-16, 22:19:06](https://news.ycombinator.com/item?id=40384013) - [A forged Apple employee badge](https://cabel.com/2024/05/16/the-forged-apple-employee-badge/)
@@ -29,6 +28,7 @@
 * [2024-05-15, 11:25:25](https://news.ycombinator.com/item?id=40365433) - [Arch Linux RISC-V](https://archriscv.felixc.at/)
 * [2024-05-15, 10:50:14](https://news.ycombinator.com/item?id=40365193) - [Show HN: Autopilot for my little HTML game called Andromeda Invaders](https://susam.net/invaders.html#auto)
 * [2024-05-15, 07:56:22](https://news.ycombinator.com/item?id=40364220) - [Context caching guide](https://ai.google.dev/gemini-api/docs/caching)
+* [2024-05-15, 07:40:07](https://news.ycombinator.com/item?id=40364127) - [When AI helps you code, who owns the finished product?](https://www.theregister.com/2024/05/15/ai_coding_complications/)
 * [2024-05-15, 05:35:44](https://news.ycombinator.com/item?id=40363426) - [Simplifying Join Syntax](https://github.com/SPLWare/esProc/wiki/Simplifying-JOIN-syntax-(JOIN-Simplification-and-Acceleration-Series-3))
 
 ## [Archives](archives/index.md)
