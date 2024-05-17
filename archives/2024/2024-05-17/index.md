@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-17](index.md)
 
+* [2024-05-17, 16:31:33](https://news.ycombinator.com/item?id=40391627) - [Glewbot scales buildings like a gecko to inspect wall tiles](https://blog.arduino.cc/2024/05/11/glewbot-scales-buildings-like-a-gecko/)
+* [2024-05-17, 16:22:46](https://news.ycombinator.com/item?id=40391523) - [Rents are rising faster than wages across the country](https://www.cbsnews.com/news/rent-cost-us-2024-housing-national/)
 * [2024-05-17, 16:09:01](https://news.ycombinator.com/item?id=40391382) - [OpenAI Dissolves High-Profile Safety Team After Chief Scientist Sutskever's Exit](https://www.bloomberg.com/news/articles/2024-05-17/openai-dissolves-key-safety-team-after-chief-scientist-ilya-sutskever-s-exit)
 * [2024-05-17, 15:34:31](https://news.ycombinator.com/item?id=40391022) - ['I'm the new Oppenheimer ': Palantir's first-ever AI warfare conference](https://www.theguardian.com/technology/article/2024/may/17/ai-weapons-palantir-war-technology)
 * [2024-05-17, 15:16:38](https://news.ycombinator.com/item?id=40390831) - [OpenAI's Long-Term AI Risk Team Has Disbanded](https://www.wired.com/story/openai-superalignment-team-disbanded/)
