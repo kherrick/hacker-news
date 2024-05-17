@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-17](index.md)
 
+* [2024-05-17, 18:11:48](https://news.ycombinator.com/item?id=40392668) - [Ask HN: Should we stop posting X links on HN?](https://news.ycombinator.com/item?id=40392668)
+* [2024-05-17, 17:59:22](https://news.ycombinator.com/item?id=40392548) - [Show HN: I built a website to create financial models for any stock online](https://www.useequityval.com/)
 * [2024-05-17, 17:12:48](https://news.ycombinator.com/item?id=40392077) - [\"I lost trust\": Why the OpenAI team in charge of safeguarding humanity imploded](https://www.vox.com/future-perfect/2024/5/17/24158403/openai-resignations-ai-safety-ilya-sutskever-jan-leike-artificial-intelligence)
 * [2024-05-17, 16:43:11](https://news.ycombinator.com/item?id=40391743) - [Meshroom a free and open-source 3D Reconstruction Software](https://alicevision.org/#meshroom)
 * [2024-05-17, 16:31:33](https://news.ycombinator.com/item?id=40391627) - [Glewbot scales buildings like a gecko to inspect wall tiles](https://blog.arduino.cc/2024/05/11/glewbot-scales-buildings-like-a-gecko/)
