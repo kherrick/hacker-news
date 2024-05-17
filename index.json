@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=40385536"
     ],
     [
-      "100 Exercises to Learn Rust",
+      "Exercises to Learn Rust",
       "https://rust-exercises.com/"
     ]
   ],
@@ -107,16 +107,6 @@
     [
       "Exit Strategy: The Case for Single-Stair Egress",
       "https://www.architecturalrecord.com/articles/16880-exit-strategy-the-case-for-single-stair-egress"
-    ]
-  ],
-  [
-    [
-      "2024-05-16, 18:56:55",
-      "https://news.ycombinator.com/item?id=40381841"
-    ],
-    [
-      "Smart Pointers in (GNU) C",
-      "https://snai.pe/posts/c-smart-pointers"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Simplifying Join Syntax",
       "https://github.com/SPLWare/esProc/wiki/Simplifying-JOIN-syntax-(JOIN-Simplification-and-Acceleration-Series-3)"
+    ]
+  ],
+  [
+    [
+      "2024-05-14, 04:24:03",
+      "https://news.ycombinator.com/item?id=40351597"
+    ],
+    [
+      "Finding Mona Lisa in the Game of Life (2020)",
+      "https://kevingal.com/blog/mona-lisa-gol.html"
     ]
   ]
 ]
