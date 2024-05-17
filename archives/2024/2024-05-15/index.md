@@ -9,6 +9,7 @@
 * [2024-05-15, 23:36:59](https://news.ycombinator.com/item?id=40373630) - [Lessons learned as a recruiter hiring developers the last decade](https://www.andrewstetsenko.com/lessons-learnt-as-a-tech-recruiter/)
 * [2024-05-15, 23:15:17](https://news.ycombinator.com/item?id=40373498) - [Hysata electrolyzers produce cheapest hydrogen at 95% efficiency](https://hysata.com/news/hysata-announces-111m-usd-series-b-investment-round/)
 * [2024-05-15, 22:59:26](https://news.ycombinator.com/item?id=40373382) - [Doctor cancer free after novel glioblastoma self-treatment](https://nypost.com/2024/05/15/lifestyle/australian-doctor-richard-scolyer-cancer-free-year-after-terminal-diagnosis/)
+* [2024-05-15, 22:23:07](https://news.ycombinator.com/item?id=40373139) - [The Unusual Evolutionary Journey of the Baobab Tree](https://www.nytimes.com/2024/05/15/science/baobab-trees-evolution.html)
 * [2024-05-15, 21:35:48](https://news.ycombinator.com/item?id=40372686) - [Plane, open-source Jira alternative, got to 100K+ Docker and 44K+ K8s deploys](https://plane.so/blog/streamlining-self-hosting-managing-100k-docker-44000-kubernetes-deploys-ease)
 * [2024-05-15, 21:02:50](https://news.ycombinator.com/item?id=40372317) - [SSD death, tricky read-only filesystems, and systemd magic?](https://rachelbythebay.com/w/2024/05/15/ro/)
 * [2024-05-15, 21:02:30](https://news.ycombinator.com/item?id=40372315) - [Qualcomm's Oryon LLVM Patches](https://chipsandcheese.com/2024/05/15/qualcomms-oryon-llvm-patches/)

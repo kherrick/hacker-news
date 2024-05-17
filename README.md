@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-17, 22:34:51](https://news.ycombinator.com/item?id=40394778) - [Ex-OpenAI staff must sign lifetime no-criticism contract or forfeit all equity](https://x.com/KelseyTuoc/status/1791584357184127269)
 * [2024-05-17, 21:06:16](https://news.ycombinator.com/item?id=40394220) - [VW and Renault end talks to develop affordable EV](https://www.reuters.com/business/autos-transportation/vw-renault-end-talks-develop-affordable-ev-sources-say-2024-05-17/)
 * [2024-05-17, 20:39:54](https://news.ycombinator.com/item?id=40393988) - [Archie, the Internet's first search engine, is rescued and running](https://arstechnica.com/gadgets/2024/05/archie-the-internets-first-search-engine-is-rescued-and-running/)
 * [2024-05-17, 20:25:47](https://news.ycombinator.com/item?id=40393877) - [Chrome DevTools now uses Gemini to help with JavaScript Errors in the console](https://developer.chrome.com/docs/devtools/console/understand-messages)
 * [2024-05-17, 20:25:40](https://news.ycombinator.com/item?id=40393873) - [ILGPU: Write GPU programs with C# and F#](https://github.com/m4rs-mt/ILGPU)
-* [2024-05-17, 18:43:49](https://news.ycombinator.com/item?id=40393005) - [Show HN: Slice Tap Toy](https://memalign.github.io/m/slice/index.html)
 * [2024-05-17, 18:16:14](https://news.ycombinator.com/item?id=40392709) - [Thinking out loud about 2nd-gen email](https://gabrielsieben.tech/2024/05/17/thinking-out-loud-2nd-gen-email/)
 * [2024-05-17, 17:59:22](https://news.ycombinator.com/item?id=40392548) - [Show HN: I built a website to create financial models for any stock online](https://www.useequityval.com/)
 * [2024-05-17, 16:31:33](https://news.ycombinator.com/item?id=40391627) - [Glewbot scales buildings like a gecko to inspect wall tiles](https://blog.arduino.cc/2024/05/11/glewbot-scales-buildings-like-a-gecko/)
@@ -19,7 +19,6 @@
 * [2024-05-17, 12:43:14](https://news.ycombinator.com/item?id=40389267) - [Non-Euclidean Doom: what happens to a game when pi is not 3.14159 (2022) [video]](https://media.ccc.de/v/mch2022-236-non-euclidean-doom-what-happens-to-a-game-when-pi-is-not-3-14159-)
 * [2024-05-17, 12:00:23](https://news.ycombinator.com/item?id=40388933) - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4360841006)
 * [2024-05-17, 11:19:29](https://news.ycombinator.com/item?id=40388655) - [HMT: Hierarchical Memory Transformer for Long Context Language Processing](https://arxiv.org/abs/2405.06067)
-* [2024-05-17, 09:26:37](https://news.ycombinator.com/item?id=40388013) - [Why neural networks struggle with the Game of Life (2020)](https://bdtechtalks.com/2020/09/16/deep-learning-game-of-life/)
 * [2024-05-17, 07:24:02](https://news.ycombinator.com/item?id=40387318) - [ADSL works over wet string (2017)](https://www.revk.uk/2017/12/its-official-adsl-works-over-wet-string.html)
 * [2024-05-16, 19:19:16](https://news.ycombinator.com/item?id=40382056) - [Show HN: Drivr – VR with real vehicles [video]](https://www.youtube.com/watch?v=Q76X0cnSGHk)
 * [2024-05-16, 15:52:53](https://news.ycombinator.com/item?id=40379833) - [Ubershaders: A Ridiculous Solution to an Impossible Problem (2017)](https://dolphin-emu.org/blog/2017/07/30/ubershaders/)
@@ -29,6 +28,7 @@
 * [2024-05-16, 14:04:25](https://news.ycombinator.com/item?id=40378628) - [Pacific squid flashes its attack 'headlights'](https://www.bbc.com/news/science-environment-69016405)
 * [2024-05-16, 13:48:45](https://news.ycombinator.com/item?id=40378433) - [Wuffs: Wrangling Untrusted File Formats Safely](https://github.com/google/wuffs)
 * [2024-05-16, 03:03:41](https://news.ycombinator.com/item?id=40374815) - [Scholars discover rare 16th-century tome with handwritten notes by John Milton](https://arstechnica.com/culture/2024/05/john-miltons-handwritten-notes-make-this-16th-century-history-book-a-rare-find/)
+* [2024-05-15, 22:23:07](https://news.ycombinator.com/item?id=40373139) - [The Unusual Evolutionary Journey of the Baobab Tree](https://www.nytimes.com/2024/05/15/science/baobab-trees-evolution.html)
 * [2024-05-15, 20:22:07](https://news.ycombinator.com/item?id=40371913) - [Reading Early Medicine](https://readingearlymedicine.org/about/about-the-project/)
 
 ## [Archives](archives/index.md)

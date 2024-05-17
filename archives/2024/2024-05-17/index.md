@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-17](index.md)
 
+* [2024-05-17, 22:34:51](https://news.ycombinator.com/item?id=40394778) - [Ex-OpenAI staff must sign lifetime no-criticism contract or forfeit all equity](https://x.com/KelseyTuoc/status/1791584357184127269)
 * [2024-05-17, 21:16:36](https://news.ycombinator.com/item?id=40394291) - [The Delta Emulator is changing its logo after Adobe threatened it](https://www.theverge.com/2024/5/17/24159268/delta-emulator-logo-change-app)
 * [2024-05-17, 21:06:16](https://news.ycombinator.com/item?id=40394220) - [VW and Renault end talks to develop affordable EV](https://www.reuters.com/business/autos-transportation/vw-renault-end-talks-develop-affordable-ev-sources-say-2024-05-17/)
 * [2024-05-17, 20:39:54](https://news.ycombinator.com/item?id=40393988) - [Archie, the Internet's first search engine, is rescued and running](https://arstechnica.com/gadgets/2024/05/archie-the-internets-first-search-engine-is-rescued-and-running/)
