@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-17](index.md)
 
+* [2024-05-17, 20:04:15](https://news.ycombinator.com/item?id=40393700) - [Test Scores Down, GPAs Up: The New Angst over Grade Inflation](https://www.wsj.com/us-news/education/grade-inflation-education-test-scores-40196419)
 * [2024-05-17, 19:58:47](https://news.ycombinator.com/item?id=40393664) - [Back to the Past: IPv4 Browsing (Egress) Activated via NAT64](https://blog.ipv6.rs/ipv4-activated-via-nat64/)
 * [2024-05-17, 19:28:10](https://news.ycombinator.com/item?id=40393396) - [Scaling Clubhouse From 10K to 10M Users In 6 Months With Postgres](https://www.stepchange.work/blog/scaling-clubhouse-from-10k-to-10-million-users-in-6-months-with-postgres)
 * [2024-05-17, 19:19:06](https://news.ycombinator.com/item?id=40393321) - [120cm to inches](https://www.google.com/search?q=120cm+to+inches)
@@ -24,6 +25,7 @@
 * [2024-05-17, 15:34:31](https://news.ycombinator.com/item?id=40391022) - ['I'm the new Oppenheimer ': Palantir's first-ever AI warfare conference](https://www.theguardian.com/technology/article/2024/may/17/ai-weapons-palantir-war-technology)
 * [2024-05-17, 15:16:38](https://news.ycombinator.com/item?id=40390831) - [OpenAI's Long-Term AI Risk Team Has Disbanded](https://www.wired.com/story/openai-superalignment-team-disbanded/)
 * [2024-05-17, 15:15:11](https://news.ycombinator.com/item?id=40390820) - [A Trial HIV Vaccine Triggered Elusive and Essential Antibodies in Humans](https://corporate.dukehealth.org/news/trial-hiv-vaccine-triggered-elusive-and-essential-antibodies-humans)
+* [2024-05-17, 15:09:15](https://news.ycombinator.com/item?id=40390751) - [The Beauty of Concrete](https://worksinprogress.co/issue/the-beauty-of-concrete/)
 * [2024-05-17, 15:06:26](https://news.ycombinator.com/item?id=40390731) - [Rust 1.78: Performance Impact of the 128-Bit Memory Alignment Fix](https://codspeed.io/blog/rust-1-78-performance-impact-of-the-128-bit-memory-alignment-fix)
 * [2024-05-17, 14:47:42](https://news.ycombinator.com/item?id=40390536) - [Rachel Aviv Wrote That New Yorker Story on Lucy Letby](https://www.niemanlab.org/2024/05/impossible-to-approach-the-reporting-the-way-i-normally-would-how-rachel-aviv-wrote-that-new-yorker-story-on-lucy-letby/)
 * [2024-05-17, 14:35:32](https://news.ycombinator.com/item?id=40390408) - [The Rise and Fall of the Trad Wife](https://www.newyorker.com/culture/persons-of-interest/the-rise-and-fall-of-the-trad-wife)
