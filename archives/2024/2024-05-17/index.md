@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-17](index.md)
 
+* [2024-05-17, 13:44:20](https://news.ycombinator.com/item?id=40389774) - [Confronting Another Axis? History, Humility, and Wishful Thinking](https://tnsr.org/2024/05/confronting-another-axis-history-humility-and-wishful-thinking/)
 * [2024-05-17, 13:42:28](https://news.ycombinator.com/item?id=40389753) - [BIMI and DMARC Can't Save You: The Overlooked DKIM Exploit](https://www.zone.eu/blog/2024/05/17/bimi-and-dmarc-cant-save-you/)
 * [2024-05-17, 13:22:06](https://news.ycombinator.com/item?id=40389576) - [GDPR: Is It Worth It?](https://arxiv.org/abs/2405.10225)
 * [2024-05-17, 13:18:00](https://news.ycombinator.com/item?id=40389548) - [Beekeeper furious over destruction of $2M honey crop](https://www.rnz.co.nz/news/business/516930/beekeeper-steven-brown-furious-over-destruction-of-2m-honey-crop)
@@ -17,7 +18,9 @@
 * [2024-05-17, 12:59:35](https://news.ycombinator.com/item?id=40389405) - [Demystifying the Protobuf Wire Format](https://kreya.app/blog/protocolbuffers-wire-format/)
 * [2024-05-17, 12:59:34](https://news.ycombinator.com/item?id=40389404) - [Ideas and Creativity (2019)](https://bastian.rieck.me/blog/2019/ideas/)
 * [2024-05-17, 12:44:42](https://news.ycombinator.com/item?id=40389280) - [Tornado Cash Developer Found Guilty of Laundering $1.2B of Crypto](https://www.wired.com/story/tornado-cash-developer-found-guilty-of-laundering-crypto/)
+* [2024-05-17, 12:43:14](https://news.ycombinator.com/item?id=40389267) - [Non-Euclidean Doom: what happens to a game when pi is not 3.14159 (2022) [video]](https://media.ccc.de/v/mch2022-236-non-euclidean-doom-what-happens-to-a-game-when-pi-is-not-3-14159-)
 * [2024-05-17, 12:33:39](https://news.ycombinator.com/item?id=40389188) - [Deleted iPhone photos show up again after iOS update](https://www.malwarebytes.com/blog/news/2024/05/deleted-iphone-photos-show-up-again-after-ios-update)
+* [2024-05-17, 12:23:13](https://news.ycombinator.com/item?id=40389119) - [Static Wordle](https://www.val.town/v/stevekrouse/staticWordle)
 * [2024-05-17, 12:18:59](https://news.ycombinator.com/item?id=40389094) - [N-Dimensional Gaussians for Fitting of High Dimensional Functions](https://www.sdiolatz.info/ndg-fitting/)
 * [2024-05-17, 12:18:55](https://news.ycombinator.com/item?id=40389093) - [A Ruby, Middleman and TailwindCSS blog template](https://github.com/harrison-broadbent/ruby-middleman-tailwind-starter-blog)
 * [2024-05-17, 12:15:00](https://news.ycombinator.com/item?id=40389059) - [I upgraded my water heater and discovered how bad smart home security can be](https://arstechnica.com/gadgets/2024/05/how-i-upgraded-my-water-heater-and-discovered-how-bad-smart-home-security-can-be/)
