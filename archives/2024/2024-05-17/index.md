@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-05-17](index.md)
 
+* [2024-05-17, 23:25:32](https://news.ycombinator.com/item?id=40395107) - [Multi AI Agent Systems Using OpenAI's New GPT-4o Model](https://github.com/metaskills/experts)
 * [2024-05-17, 22:52:16](https://news.ycombinator.com/item?id=40394902) - [\"Outrageously\" priced weight-loss drugs could bankrupt US health care](https://arstechnica.com/science/2024/05/outrageously-priced-weight-loss-drugs-could-bankrupt-us-health-care/)
 * [2024-05-17, 22:49:55](https://news.ycombinator.com/item?id=40394885) - [Wine 9.9 (Dev) – Run Windows Applications on Linux, BSD, Solaris and macOS](https://gitlab.winehq.org/wine/wine/-/releases/wine-9.9)
 * [2024-05-17, 22:34:51](https://news.ycombinator.com/item?id=40394778) - [Ex-OpenAI staff must sign lifetime no-criticism contract or forfeit all equity](https://x.com/KelseyTuoc/status/1791584357184127269)
 * [2024-05-17, 22:18:07](https://news.ycombinator.com/item?id=40394670) - [Android 15 improves standby battery life by up to 3 hours on some devices](https://www.androidauthority.com/android-15-standby-battery-life-3444566/)
 * [2024-05-17, 21:16:36](https://news.ycombinator.com/item?id=40394291) - [The Delta Emulator is changing its logo after Adobe threatened it](https://www.theverge.com/2024/5/17/24159268/delta-emulator-logo-change-app)
+* [2024-05-17, 21:14:31](https://news.ycombinator.com/item?id=40394277) - [Expedia Group fired their CTO, Rathi Murthy](https://www.phocuswire.com/rathi-murthy-expedia-group-cto)
 * [2024-05-17, 21:06:16](https://news.ycombinator.com/item?id=40394220) - [VW and Renault end talks to develop affordable EV](https://www.reuters.com/business/autos-transportation/vw-renault-end-talks-develop-affordable-ev-sources-say-2024-05-17/)
 * [2024-05-17, 20:39:54](https://news.ycombinator.com/item?id=40393988) - [Archie, the Internet's first search engine, is rescued and running](https://arstechnica.com/gadgets/2024/05/archie-the-internets-first-search-engine-is-rescued-and-running/)
 * [2024-05-17, 20:25:47](https://news.ycombinator.com/item?id=40393877) - [Chrome DevTools now uses Gemini to help with JavaScript Errors in the console](https://developer.chrome.com/docs/devtools/console/understand-messages)
