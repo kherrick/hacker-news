@@ -1,42 +1,12 @@
 [
   [
     [
-      "2024-05-17, 09:30:01",
-      "https://news.ycombinator.com/item?id=40388029"
-    ],
-    [
-      "Many Searchers Want to Turn Off Google AI Overviews",
-      "https://www.seroundtable.com/searchers-want-to-turn-off-google-ai-overviews-37405.html"
-    ]
-  ],
-  [
-    [
       "2024-05-17, 09:26:37",
       "https://news.ycombinator.com/item?id=40388013"
     ],
     [
       "Why neural networks struggle with the Game of Life",
       "https://bdtechtalks.com/2020/09/16/deep-learning-game-of-life/"
-    ]
-  ],
-  [
-    [
-      "2024-05-17, 09:24:52",
-      "https://news.ycombinator.com/item?id=40388002"
-    ],
-    [
-      "OpenBSD – sshd(8) split into multiple binaries",
-      "https://www.undeadly.org/cgi?action=article;sid=20240517092416"
-    ]
-  ],
-  [
-    [
-      "2024-05-17, 09:08:44",
-      "https://news.ycombinator.com/item?id=40387889"
-    ],
-    [
-      "DNA confirms there IS a big cat roaming the British countryside",
-      "https://www.discoverwildlife.com/animal-facts/mammals/big-cat-british-countryside"
     ]
   ],
   [
@@ -131,6 +101,16 @@
   ],
   [
     [
+      "2024-05-16, 19:39:08",
+      "https://news.ycombinator.com/item?id=40382275"
+    ],
+    [
+      "History of the Italian electrical system",
+      "https://samuele963.github.io/electrics/history.html"
+    ]
+  ],
+  [
+    [
       "2024-05-16, 19:29:18",
       "https://news.ycombinator.com/item?id=40382163"
     ],
@@ -147,6 +127,16 @@
     [
       "America's dramatic shift from gas power plants to batteries",
       "https://theprogressplaybook.com/2024/04/17/in-numbers-americas-dramatic-shift-from-gas-power-plants-to-batteries/"
+    ]
+  ],
+  [
+    [
+      "2024-05-16, 16:04:47",
+      "https://news.ycombinator.com/item?id=40379982"
+    ],
+    [
+      "Build WebGPU apps with PlayCanvas",
+      "https://blog.playcanvas.com/build-webgpu-apps-today-with-playcanvas/"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Extracting Words from Scanned Books: A Step-by-Step Tutorial with Python, OpenCV",
       "https://github.com/feitgemel/Open-CV/tree/main/Words-Segmentation"
+    ]
+  ],
+  [
+    [
+      "2024-05-15, 12:03:20",
+      "https://news.ycombinator.com/item?id=40365777"
+    ],
+    [
+      "Štar: an iteration construct for Common Lisp",
+      "https://www.tfeb.org/fragments/2024/05/15/an-iteration-construct-for-common-lisp/"
     ]
   ],
   [
