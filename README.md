@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-17, 04:22:12](https://news.ycombinator.com/item?id=40386360) - [SQL is now 50 What is coming next to the query language?](https://coderoasis.com/sql-is-now-50/)
 * [2024-05-17, 03:16:38](https://news.ycombinator.com/item?id=40386026) - [Zwentendorf Nuclear Power Plant: Finished in 1978 but never used](https://www.atlasobscura.com/places/zwentendorf-nuclear-power-plant)
 * [2024-05-17, 02:21:57](https://news.ycombinator.com/item?id=40385710) - [Urban renewal left the U.S. too scared to build](https://darrellowens.substack.com/p/how-urban-renewal-ruined-everything)
 * [2024-05-17, 01:53:13](https://news.ycombinator.com/item?id=40385536) - [100 Exercises to Learn Rust](https://rust-exercises.com/)
@@ -12,11 +11,13 @@
 * [2024-05-16, 21:01:29](https://news.ycombinator.com/item?id=40383078) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations – Is Hiring](https://skio.com/careers/)
 * [2024-05-16, 19:39:08](https://news.ycombinator.com/item?id=40382275) - [History of the Italian electrical system](https://samuele963.github.io/electrics/history.html)
 * [2024-05-16, 19:29:18](https://news.ycombinator.com/item?id=40382163) - [Exit Strategy: The Case for Single-Stair Egress](https://www.architecturalrecord.com/articles/16880-exit-strategy-the-case-for-single-stair-egress)
+* [2024-05-16, 18:56:55](https://news.ycombinator.com/item?id=40381841) - [Smart Pointers in (GNU) C](https://snai.pe/posts/c-smart-pointers)
 * [2024-05-16, 17:12:22](https://news.ycombinator.com/item?id=40380744) - [The Downfall of DeviantArt](https://slate.com/technology/2024/05/deviantart-what-happened-ai-decline-lawsuit-stability.html)
 * [2024-05-16, 16:51:37](https://news.ycombinator.com/item?id=40380499) - [America's dramatic shift from gas power plants to batteries](https://theprogressplaybook.com/2024/04/17/in-numbers-americas-dramatic-shift-from-gas-power-plants-to-batteries/)
 * [2024-05-16, 16:04:47](https://news.ycombinator.com/item?id=40379982) - [Build WebGPU apps with PlayCanvas](https://blog.playcanvas.com/build-webgpu-apps-today-with-playcanvas/)
 * [2024-05-16, 15:24:19](https://news.ycombinator.com/item?id=40379532) - [Growing sodium chloride crystals at home](https://crystalverse.com/sodium-chloride-crystals/)
 * [2024-05-16, 15:20:45](https://news.ycombinator.com/item?id=40379488) - [Egypt's pyramids may have been built on a long-lost branch of the Nile](https://www.nature.com/articles/d41586-024-01449-y)
+* [2024-05-16, 14:54:25](https://news.ycombinator.com/item?id=40379175) - [Computer scientists invent an efficient new way to count](https://www.quantamagazine.org/computer-scientists-invent-an-efficient-new-way-to-count-20240516/)
 * [2024-05-16, 14:18:07](https://news.ycombinator.com/item?id=40378791) - [D3 in Depth](https://www.d3indepth.com/)
 * [2024-05-16, 14:15:04](https://news.ycombinator.com/item?id=40378760) - [Jike: The obscure social media app beloved by China's tech scene](https://restofworld.org/2023/china-tech-workers-investors-founders-app/)
 * [2024-05-16, 13:53:22](https://news.ycombinator.com/item?id=40378499) - [Llama 3 implemented in pure NumPy](https://docs.likejazz.com/llama3.np/)
@@ -28,7 +29,6 @@
 * [2024-05-15, 11:25:25](https://news.ycombinator.com/item?id=40365433) - [Arch Linux RISC-V](https://archriscv.felixc.at/)
 * [2024-05-15, 10:50:14](https://news.ycombinator.com/item?id=40365193) - [Show HN: Autopilot for my little HTML game called Andromeda Invaders](https://susam.net/invaders.html#auto)
 * [2024-05-15, 07:56:22](https://news.ycombinator.com/item?id=40364220) - [Context caching guide](https://ai.google.dev/gemini-api/docs/caching)
-* [2024-05-15, 07:40:07](https://news.ycombinator.com/item?id=40364127) - [When AI helps you code, who owns the finished product?](https://www.theregister.com/2024/05/15/ai_coding_complications/)
 * [2024-05-15, 05:35:44](https://news.ycombinator.com/item?id=40363426) - [Simplifying Join Syntax](https://github.com/SPLWare/esProc/wiki/Simplifying-JOIN-syntax-(JOIN-Simplification-and-Acceleration-Series-3))
 
 ## [Archives](archives/index.md)
