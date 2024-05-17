@@ -2,7 +2,6 @@
 
 * [2024-05-17, 09:26:37](https://news.ycombinator.com/item?id=40388013) - [Why neural networks struggle with the Game of Life](https://bdtechtalks.com/2020/09/16/deep-learning-game-of-life/)
 * [2024-05-17, 09:08:44](https://news.ycombinator.com/item?id=40387889) - [DNA confirms there IS a big cat roaming the British countryside](https://www.discoverwildlife.com/animal-facts/mammals/big-cat-british-countryside)
-* [2024-05-17, 08:58:11](https://news.ycombinator.com/item?id=40387814) - [Is the move to electric cars running out of power?](https://www.bbc.co.uk/news/business-69022771)
 * [2024-05-17, 08:57:51](https://news.ycombinator.com/item?id=40387812) - [How to read C type declarations (2003)](http://www.unixwiz.net/techtips/reading-cdecl.html)
 * [2024-05-17, 01:53:13](https://news.ycombinator.com/item?id=40385536) - [Exercises to Learn Rust](https://rust-exercises.com/)
 * [2024-05-17, 00:17:02](https://news.ycombinator.com/item?id=40384959) - [A transport protocol's view of Starlink](https://www.potaroo.net/ispcol/2024-05/starlink-tcp.html)
@@ -10,6 +9,7 @@
 * [2024-05-16, 22:19:06](https://news.ycombinator.com/item?id=40384013) - [A forged Apple employee badge](https://cabel.com/2024/05/16/the-forged-apple-employee-badge/)
 * [2024-05-16, 22:16:01](https://news.ycombinator.com/item?id=40383978) - [Slack AI Training with Customer Data](https://slack.com/trust/data-management/privacy-principles?nojsmode=1)
 * [2024-05-16, 21:14:47](https://news.ycombinator.com/item?id=40383263) - [Deutsche Bahn introduces \"MetaWindow\"](https://www.railtarget.eu/technologies-and-infrastructure/deutsche-bahn-introduces-metawindow-a-gamechanger-in-noise-reduction-for-railways-8449.html)
+* [2024-05-16, 19:39:08](https://news.ycombinator.com/item?id=40382275) - [History of the Italian electrical system](https://samuele963.github.io/electrics/history.html)
 * [2024-05-16, 19:29:18](https://news.ycombinator.com/item?id=40382163) - [Exit Strategy: The Case for Single-Stair Egress](https://www.architecturalrecord.com/articles/16880-exit-strategy-the-case-for-single-stair-egress)
 * [2024-05-16, 16:51:37](https://news.ycombinator.com/item?id=40380499) - [America's dramatic shift from gas power plants to batteries](https://theprogressplaybook.com/2024/04/17/in-numbers-americas-dramatic-shift-from-gas-power-plants-to-batteries/)
 * [2024-05-16, 16:04:47](https://news.ycombinator.com/item?id=40379982) - [Build WebGPU apps with PlayCanvas](https://blog.playcanvas.com/build-webgpu-apps-today-with-playcanvas/)
