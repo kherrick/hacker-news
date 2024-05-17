@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-17, 13:44:20",
+      "https://news.ycombinator.com/item?id=40389774"
+    ],
+    [
+      "Confronting Another Axis? History, Humility, and Wishful Thinking",
+      "https://tnsr.org/2024/05/confronting-another-axis-history-humility-and-wishful-thinking/"
+    ]
+  ],
+  [
+    [
       "2024-05-17, 13:42:28",
       "https://news.ycombinator.com/item?id=40389753"
     ],
@@ -111,22 +121,32 @@
   ],
   [
     [
+      "2024-05-17, 12:43:14",
+      "https://news.ycombinator.com/item?id=40389267"
+    ],
+    [
+      "Non-Euclidean Doom: what happens to a game when pi is not 3.14159 (2022) [video]",
+      "https://media.ccc.de/v/mch2022-236-non-euclidean-doom-what-happens-to-a-game-when-pi-is-not-3-14159-"
+    ]
+  ],
+  [
+    [
+      "2024-05-17, 12:23:13",
+      "https://news.ycombinator.com/item?id=40389119"
+    ],
+    [
+      "Static Wordle",
+      "https://www.val.town/v/stevekrouse/staticWordle"
+    ]
+  ],
+  [
+    [
       "2024-05-17, 12:18:59",
       "https://news.ycombinator.com/item?id=40389094"
     ],
     [
       "N-Dimensional Gaussians for Fitting of High Dimensional Functions",
       "https://www.sdiolatz.info/ndg-fitting/"
-    ]
-  ],
-  [
-    [
-      "2024-05-17, 12:18:55",
-      "https://news.ycombinator.com/item?id=40389093"
-    ],
-    [
-      "A Ruby, Middleman and TailwindCSS blog template",
-      "https://github.com/harrison-broadbent/ruby-middleman-tailwind-starter-blog"
     ]
   ],
   [
@@ -151,32 +171,12 @@
   ],
   [
     [
-      "2024-05-17, 09:26:37",
-      "https://news.ycombinator.com/item?id=40388013"
-    ],
-    [
-      "Why neural networks struggle with the Game of Life (2020)",
-      "https://bdtechtalks.com/2020/09/16/deep-learning-game-of-life/"
-    ]
-  ],
-  [
-    [
       "2024-05-17, 08:57:51",
       "https://news.ycombinator.com/item?id=40387812"
     ],
     [
       "How to read C type declarations (2003)",
       "http://www.unixwiz.net/techtips/reading-cdecl.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-17, 07:37:19",
-      "https://news.ycombinator.com/item?id=40387394"
-    ],
-    [
-      "Welcome to the Parallel Future of Computation",
-      "https://hvm-page.pages.dev"
     ]
   ],
   [
@@ -217,6 +217,16 @@
     [
       "Deutsche Bahn introduces \"MetaWindow\"",
       "https://www.railtarget.eu/technologies-and-infrastructure/deutsche-bahn-introduces-metawindow-a-gamechanger-in-noise-reduction-for-railways-8449.html"
+    ]
+  ],
+  [
+    [
+      "2024-05-16, 15:24:19",
+      "https://news.ycombinator.com/item?id=40379532"
+    ],
+    [
+      "Growing sodium chloride crystals at home",
+      "https://crystalverse.com/sodium-chloride-crystals/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "RAL Color Standard",
       "https://en.wikipedia.org/wiki/RAL_colour_standard"
-    ]
-  ],
-  [
-    [
-      "2024-05-15, 11:25:25",
-      "https://news.ycombinator.com/item?id=40365433"
-    ],
-    [
-      "Arch Linux RISC-V",
-      "https://archriscv.felixc.at/"
     ]
   ]
 ]
