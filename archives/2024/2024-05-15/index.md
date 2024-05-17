@@ -71,6 +71,7 @@
 * [2024-05-15, 12:41:24](https://news.ycombinator.com/item?id=40366137) - [How to get 7th graders to smoke](https://www.experimental-history.com/p/how-to-get-7th-graders-to-smoke)
 * [2024-05-15, 12:32:14](https://news.ycombinator.com/item?id=40366062) - [Raspberry Pi Ltd.: Potential IPO on the Main Market of the London Stock Exchange](https://www.londonstockexchange.com/news-article/market-news/expected-intention-to-float/16470316)
 * [2024-05-15, 12:21:21](https://news.ycombinator.com/item?id=40365956) - [How the Soviets Revolutionized Wristwatches (2016)](https://www.collectorsweekly.com/articles/how-the-soviets-revolutionized-wristwatches/)
+* [2024-05-15, 12:14:10](https://news.ycombinator.com/item?id=40365884) - [Extracting Words from Scanned Books: A Step-by-Step Tutorial with Python, OpenCV](https://github.com/feitgemel/Open-CV/tree/main/Words-Segmentation)
 * [2024-05-15, 12:13:58](https://news.ycombinator.com/item?id=40365882) - [Fastest rate of natural carbon dioxide rise over the last 50k years](https://today.oregonstate.edu/news/researchers-identify-fastest-rate-natural-carbon-dioxide-rise-over-last-50000-years)
 * [2024-05-15, 12:07:41](https://news.ycombinator.com/item?id=40365821) - [SMTP 550-5.7.1 Rejected Because of Virginia Redistricting](https://www.khanna.law/blog/smtp-550-571-redistricting)
 * [2024-05-15, 12:03:20](https://news.ycombinator.com/item?id=40365777) - [Štar: an iteration construct for Common Lisp](https://www.tfeb.org/fragments/2024/05/15/an-iteration-construct-for-common-lisp/)
