@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-05-17, 16:09:01",
-      "https://news.ycombinator.com/item?id=40391382"
-    ],
-    [
-      "OpenAI Dissolves High-Profile Safety Team After Chief Scientist Sutskever's Exit",
-      "https://www.bloomberg.com/news/articles/2024-05-17/openai-dissolves-key-safety-team-after-chief-scientist-ilya-sutskever-s-exit"
-    ]
-  ],
-  [
-    [
       "2024-05-17, 15:34:31",
       "https://news.ycombinator.com/item?id=40391022"
     ],
@@ -187,6 +177,16 @@
     [
       "N-Dimensional Gaussians for Fitting of High Dimensional Functions",
       "https://www.sdiolatz.info/ndg-fitting/"
+    ]
+  ],
+  [
+    [
+      "2024-05-17, 12:18:55",
+      "https://news.ycombinator.com/item?id=40389093"
+    ],
+    [
+      "A Ruby, Middleman and TailwindCSS blog template",
+      "https://github.com/harrison-broadbent/ruby-middleman-tailwind-starter-blog"
     ]
   ],
   [
