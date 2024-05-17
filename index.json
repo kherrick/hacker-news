@@ -1,12 +1,62 @@
 [
   [
     [
+      "2024-05-17, 13:04:06",
+      "https://news.ycombinator.com/item?id=40389445"
+    ],
+    [
+      "Toon3D: Seeing Cartoons from a New Perspective",
+      "https://toon3d.studio/"
+    ]
+  ],
+  [
+    [
+      "2024-05-17, 13:00:26",
+      "https://news.ycombinator.com/item?id=40389413"
+    ],
+    [
+      "Shein set to boost London with IPO",
+      "https://ukinvestormagazine.co.uk/shein-set-to-boost-london-with-ipo/"
+    ]
+  ],
+  [
+    [
+      "2024-05-17, 12:59:35",
+      "https://news.ycombinator.com/item?id=40389405"
+    ],
+    [
+      "Demystifying the Protobuf Wire Format",
+      "https://kreya.app/blog/protocolbuffers-wire-format/"
+    ]
+  ],
+  [
+    [
+      "2024-05-17, 12:59:34",
+      "https://news.ycombinator.com/item?id=40389404"
+    ],
+    [
+      "Ideas and Creativity (2019)",
+      "https://bastian.rieck.me/blog/2019/ideas/"
+    ]
+  ],
+  [
+    [
       "2024-05-17, 12:18:59",
       "https://news.ycombinator.com/item?id=40389094"
     ],
     [
       "N-Dimensional Gaussians for Fitting of High Dimensional Functions",
       "https://www.sdiolatz.info/ndg-fitting/"
+    ]
+  ],
+  [
+    [
+      "2024-05-17, 12:18:55",
+      "https://news.ycombinator.com/item?id=40389093"
+    ],
+    [
+      "A Ruby, Middleman and TailwindCSS blog template",
+      "https://github.com/harrison-broadbent/ruby-middleman-tailwind-starter-blog"
     ]
   ],
   [
@@ -121,32 +171,12 @@
   ],
   [
     [
-      "2024-05-16, 19:39:08",
-      "https://news.ycombinator.com/item?id=40382275"
-    ],
-    [
-      "History of the Italian electrical system",
-      "https://samuele963.github.io/electrics/history.html"
-    ]
-  ],
-  [
-    [
       "2024-05-16, 19:29:18",
       "https://news.ycombinator.com/item?id=40382163"
     ],
     [
       "Exit Strategy: The Case for Single-Stair Egress",
       "https://www.architecturalrecord.com/articles/16880-exit-strategy-the-case-for-single-stair-egress"
-    ]
-  ],
-  [
-    [
-      "2024-05-16, 18:56:55",
-      "https://news.ycombinator.com/item?id=40381841"
-    ],
-    [
-      "Smart Pointers in (GNU) C",
-      "https://snai.pe/posts/c-smart-pointers"
     ]
   ],
   [
@@ -231,16 +261,6 @@
   ],
   [
     [
-      "2024-05-15, 12:03:20",
-      "https://news.ycombinator.com/item?id=40365777"
-    ],
-    [
-      "Štar: an iteration construct for Common Lisp",
-      "https://www.tfeb.org/fragments/2024/05/15/an-iteration-construct-for-common-lisp/"
-    ]
-  ],
-  [
-    [
       "2024-05-15, 12:03:11",
       "https://news.ycombinator.com/item?id=40365776"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2024-05-15, 07:56:22",
-      "https://news.ycombinator.com/item?id=40364220"
-    ],
-    [
-      "Context caching guide",
-      "https://ai.google.dev/gemini-api/docs/caching"
-    ]
-  ],
-  [
-    [
       "2024-05-15, 05:35:44",
       "https://news.ycombinator.com/item?id=40363426"
     ],
     [
       "Simplifying Join Syntax",
       "https://github.com/SPLWare/esProc/wiki/Simplifying-JOIN-syntax-(JOIN-Simplification-and-Acceleration-Series-3)"
-    ]
-  ],
-  [
-    [
-      "2024-05-14, 04:24:03",
-      "https://news.ycombinator.com/item?id=40351597"
-    ],
-    [
-      "Finding Mona Lisa in the Game of Life (2020)",
-      "https://kevingal.com/blog/mona-lisa-gol.html"
     ]
   ]
 ]
