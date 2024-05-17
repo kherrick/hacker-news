@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-17](index.md)
 
 * [2024-05-17, 21:16:36](https://news.ycombinator.com/item?id=40394291) - [The Delta Emulator is changing its logo after Adobe threatened it](https://www.theverge.com/2024/5/17/24159268/delta-emulator-logo-change-app)
+* [2024-05-17, 20:39:54](https://news.ycombinator.com/item?id=40393988) - [Archie, the Internet's first search engine, is rescued and running](https://arstechnica.com/gadgets/2024/05/archie-the-internets-first-search-engine-is-rescued-and-running/)
 * [2024-05-17, 20:25:47](https://news.ycombinator.com/item?id=40393877) - [Chrome DevTools now uses Gemini to help with JavaScript Errors in the console](https://developer.chrome.com/docs/devtools/console/understand-messages)
 * [2024-05-17, 20:25:40](https://news.ycombinator.com/item?id=40393873) - [ILGPU: Write GPU programs with C# and F#](https://github.com/m4rs-mt/ILGPU)
 * [2024-05-17, 20:04:15](https://news.ycombinator.com/item?id=40393700) - [Test Scores Down, GPAs Up: The New Angst over Grade Inflation](https://www.wsj.com/us-news/education/grade-inflation-education-test-scores-40196419)
