@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-17, 15:34:31](https://news.ycombinator.com/item?id=40391022) - ['I'm the new Oppenheimer ': Palantir's first-ever AI warfare conference](https://www.theguardian.com/technology/article/2024/may/17/ai-weapons-palantir-war-technology)
-* [2024-05-17, 15:16:38](https://news.ycombinator.com/item?id=40390831) - [OpenAI's Long-Term AI Risk Team Has Disbanded](https://www.wired.com/story/openai-superalignment-team-disbanded/)
+* [2024-05-17, 15:06:26](https://news.ycombinator.com/item?id=40390731) - [Rust 1.78: Performance Impact of the 128-Bit Memory Alignment Fix](https://codspeed.io/blog/rust-1-78-performance-impact-of-the-128-bit-memory-alignment-fix)
+* [2024-05-17, 14:47:42](https://news.ycombinator.com/item?id=40390536) - [Rachel Aviv Wrote That New Yorker Story on Lucy Letby](https://www.niemanlab.org/2024/05/impossible-to-approach-the-reporting-the-way-i-normally-would-how-rachel-aviv-wrote-that-new-yorker-story-on-lucy-letby/)
 * [2024-05-17, 13:44:20](https://news.ycombinator.com/item?id=40389774) - [Confronting Another Axis? History, Humility, and Wishful Thinking](https://tnsr.org/2024/05/confronting-another-axis-history-humility-and-wishful-thinking/)
 * [2024-05-17, 13:42:28](https://news.ycombinator.com/item?id=40389753) - [BIMI and DMARC Can't Save You: The Overlooked DKIM Exploit](https://www.zone.eu/blog/2024/05/17/bimi-and-dmarc-cant-save-you/)
 * [2024-05-17, 13:38:31](https://news.ycombinator.com/item?id=40389711) - [Sakuga-42M Dataset: Scaling Up Cartoon Research](https://arxiv.org/abs/2405.07425)
@@ -25,10 +26,9 @@
 * [2024-05-16, 21:14:47](https://news.ycombinator.com/item?id=40383263) - [Deutsche Bahn introduces \"MetaWindow\"](https://www.railtarget.eu/technologies-and-infrastructure/deutsche-bahn-introduces-metawindow-a-gamechanger-in-noise-reduction-for-railways-8449.html)
 * [2024-05-16, 16:24:03](https://news.ycombinator.com/item?id=40380197) - [How to recover lost Python source code if it's still resident in a running inter](https://gist.github.com/simonw/8aa492e59265c1a021f5c5618f9e6b12)
 * [2024-05-16, 14:54:25](https://news.ycombinator.com/item?id=40379175) - [Computer scientists invent an efficient new way to count](https://www.quantamagazine.org/computer-scientists-invent-an-efficient-new-way-to-count-20240516/)
-* [2024-05-15, 13:39:31](https://news.ycombinator.com/item?id=40366803) - [But Why a Penguin?](https://daily.jstor.org/but-why-a-penguin/)
+* [2024-05-16, 14:15:04](https://news.ycombinator.com/item?id=40378760) - [Jike: The obscure social media app beloved by China's tech scene](https://restofworld.org/2023/china-tech-workers-investors-founders-app/)
 * [2024-05-15, 12:03:11](https://news.ycombinator.com/item?id=40365776) - [Random Attractors – Found Using Lyapunov Exponents (2001)](https://paulbourke.net/fractals/lyapunov/)
 * [2024-05-15, 11:52:16](https://news.ycombinator.com/item?id=40365668) - [RAL Color Standard](https://en.wikipedia.org/wiki/RAL_colour_standard)
-* [2024-05-15, 11:25:25](https://news.ycombinator.com/item?id=40365433) - [Arch Linux RISC-V](https://archriscv.felixc.at/)
 * [2024-05-15, 10:24:02](https://news.ycombinator.com/item?id=40365064) - [Multics Emacs: the history, design, and implementation](https://www.multicians.org/mepap.html)
 
 ## [Archives](archives/index.md)
