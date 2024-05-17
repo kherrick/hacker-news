@@ -5,7 +5,7 @@
 * [2024-05-17, 13:38:31](https://news.ycombinator.com/item?id=40389711) - [Sakuga-42M Dataset: Scaling Up Cartoon Research](https://arxiv.org/abs/2405.07425)
 * [2024-05-17, 13:18:00](https://news.ycombinator.com/item?id=40389548) - [Beekeeper furious over destruction of $2M honey crop](https://www.rnz.co.nz/news/business/516930/beekeeper-steven-brown-furious-over-destruction-of-2m-honey-crop)
 * [2024-05-17, 13:17:29](https://news.ycombinator.com/item?id=40389545) - [\"The financial costs of healthcare costs, or, is keeping me alive worth it?\"](https://jakeseliger.com/2024/05/16/the-financial-costs-of-healthcare-costs-or-is-keeping-me-alive-worth-it/)
-* [2024-05-17, 13:08:05](https://news.ycombinator.com/item?id=40389480) - [Ambitious but at Peace](https://jugheadjones10.github.io/kim-young-jin/posts/ambitious-and-content.html)
+* [2024-05-17, 13:08:05](https://news.ycombinator.com/item?id=40389480) - [Ambitious but at peace](https://jugheadjones10.github.io/kim-young-jin/posts/ambitious-and-content.html)
 * [2024-05-17, 13:04:06](https://news.ycombinator.com/item?id=40389445) - [Toon3D: Seeing Cartoons from a New Perspective](https://toon3d.studio/)
 * [2024-05-17, 13:00:55](https://news.ycombinator.com/item?id=40389421) - [LoRA Learns Less and Forgets Less](https://arxiv.org/abs/2405.09673)
 * [2024-05-17, 13:00:29](https://news.ycombinator.com/item?id=40389414) - [Thunderbird.net Has a New Look](https://blog.thunderbird.net/2024/05/the-new-thunderbird-website-has-hatched/)
