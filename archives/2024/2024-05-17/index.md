@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-17](index.md)
 
+* [2024-05-17, 18:23:09](https://news.ycombinator.com/item?id=40392792) - [Canadian Renters Now Required to Collect Foreign Landlord's Taxes, Withhold Rent](https://betterdwelling.com/canadian-renters-now-required-to-collect-foreign-landlords-taxes-withhold-rent/)
+* [2024-05-17, 18:16:14](https://news.ycombinator.com/item?id=40392709) - [Thinking out loud about 2nd-gen email](https://gabrielsieben.tech/2024/05/17/thinking-out-loud-2nd-gen-email/)
 * [2024-05-17, 18:11:48](https://news.ycombinator.com/item?id=40392668) - [Ask HN: Should we stop posting X links on HN?](https://news.ycombinator.com/item?id=40392668)
 * [2024-05-17, 17:59:22](https://news.ycombinator.com/item?id=40392548) - [Show HN: I built a website to create financial models for any stock online](https://www.useequityval.com/)
 * [2024-05-17, 17:58:04](https://news.ycombinator.com/item?id=40392540) - [Microsoft now says your PC is in need of 'repair' if you're not using Edge](https://www.tomsguide.com/computing/windows-operating-systems/microsoft-now-says-your-pc-is-in-need-of-repair-if-youre-not-using-bing-with-edge)
