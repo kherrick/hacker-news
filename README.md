@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-17, 20:04:15](https://news.ycombinator.com/item?id=40393700) - [Test Scores Down, GPAs Up: The New Angst over Grade Inflation](https://www.wsj.com/us-news/education/grade-inflation-education-test-scores-40196419)
-* [2024-05-17, 19:58:47](https://news.ycombinator.com/item?id=40393664) - [Back to the Past: IPv4 Browsing (Egress) Activated via NAT64](https://blog.ipv6.rs/ipv4-activated-via-nat64/)
 * [2024-05-17, 18:16:14](https://news.ycombinator.com/item?id=40392709) - [Thinking out loud about 2nd-gen email](https://gabrielsieben.tech/2024/05/17/thinking-out-loud-2nd-gen-email/)
 * [2024-05-17, 17:59:22](https://news.ycombinator.com/item?id=40392548) - [Show HN: I built a website to create financial models for any stock online](https://www.useequityval.com/)
 * [2024-05-17, 16:31:33](https://news.ycombinator.com/item?id=40391627) - [Glewbot scales buildings like a gecko to inspect wall tiles](https://blog.arduino.cc/2024/05/11/glewbot-scales-buildings-like-a-gecko/)
@@ -19,8 +18,9 @@
 * [2024-05-17, 11:19:29](https://news.ycombinator.com/item?id=40388655) - [HMT: Hierarchical Memory Transformer for Long Context Language Processing](https://arxiv.org/abs/2405.06067)
 * [2024-05-17, 09:26:37](https://news.ycombinator.com/item?id=40388013) - [Why neural networks struggle with the Game of Life (2020)](https://bdtechtalks.com/2020/09/16/deep-learning-game-of-life/)
 * [2024-05-17, 08:57:51](https://news.ycombinator.com/item?id=40387812) - [How to read C type declarations (2003)](http://www.unixwiz.net/techtips/reading-cdecl.html)
-* [2024-05-17, 07:37:19](https://news.ycombinator.com/item?id=40387394) - [Welcome to the Parallel Future of Computation](https://hvm-page.pages.dev)
 * [2024-05-17, 07:24:02](https://news.ycombinator.com/item?id=40387318) - [ADSL works over wet string (2017)](https://www.revk.uk/2017/12/its-official-adsl-works-over-wet-string.html)
+* [2024-05-17, 03:16:38](https://news.ycombinator.com/item?id=40386026) - [Zwentendorf Nuclear Power Plant: Finished in 1978 but never used](https://www.atlasobscura.com/places/zwentendorf-nuclear-power-plant)
+* [2024-05-17, 00:17:02](https://news.ycombinator.com/item?id=40384959) - [A transport protocol's view of Starlink](https://www.potaroo.net/ispcol/2024-05/starlink-tcp.html)
 * [2024-05-16, 19:19:16](https://news.ycombinator.com/item?id=40382056) - [Show HN: Drivr – VR with real vehicles [video]](https://www.youtube.com/watch?v=Q76X0cnSGHk)
 * [2024-05-16, 17:12:22](https://news.ycombinator.com/item?id=40380744) - [The Downfall of DeviantArt](https://slate.com/technology/2024/05/deviantart-what-happened-ai-decline-lawsuit-stability.html)
 * [2024-05-16, 15:24:19](https://news.ycombinator.com/item?id=40379532) - [Growing sodium chloride crystals at home](https://crystalverse.com/sodium-chloride-crystals/)
