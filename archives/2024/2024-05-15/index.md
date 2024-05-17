@@ -75,6 +75,7 @@
 * [2024-05-15, 10:58:44](https://news.ycombinator.com/item?id=40365248) - [Why do CPUs have multiple cache levels? (2016)](https://fgiesen.wordpress.com/2016/08/07/why-do-cpus-have-multiple-cache-levels/)
 * [2024-05-15, 10:55:46](https://news.ycombinator.com/item?id=40365226) - [Boeing Emails Handed over to Congress in January 2020](https://archive.org/details/boeingemailsocr)
 * [2024-05-15, 10:50:33](https://news.ycombinator.com/item?id=40365198) - [Oracle goes vegan: Dumps Terraform for OpenTofu](https://www.thestack.technology/oracle-dumps-terraform-for-opentofu/)
+* [2024-05-15, 10:50:14](https://news.ycombinator.com/item?id=40365193) - [Show HN: Autopilot for my little HTML game called Andromeda Invaders](https://susam.net/invaders.html#auto)
 * [2024-05-15, 10:42:03](https://news.ycombinator.com/item?id=40365153) - [Gaussian Blue Noise](https://arxiv.org/abs/2206.07798)
 * [2024-05-15, 10:33:09](https://news.ycombinator.com/item?id=40365126) - [Dell leak details next-gen Windows on Arm chips](https://www.theverge.com/2024/5/15/24157120/dell-windows-on-arm-leak-qualcomm-chips-battery-life)
 * [2024-05-15, 10:32:34](https://news.ycombinator.com/item?id=40365123) - [Germany solar power output jumps to record highs](https://www.reuters.com/business/energy/germany-solar-power-output-jumps-record-highs-maguire-2024-05-14/)

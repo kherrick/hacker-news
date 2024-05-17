@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-05-16](index.md)
 
+* [2024-05-16, 23:24:02](https://news.ycombinator.com/item?id=40384546) - [Beyond Public Key Encryption](https://blog.cryptographyengineering.com/2017/07/02/beyond-public-key-encryption/)
+* [2024-05-16, 23:07:20](https://news.ycombinator.com/item?id=40384421) - [Interactive Visualizations of Rate-Limiting Algorithms](https://smudge.ai/blog/ratelimit-algorithms)
+* [2024-05-16, 22:44:58](https://news.ycombinator.com/item?id=40384234) - [LearnLM models tuned for human learning](https://blog.google/outreach-initiatives/education/google-learnlm-gemini-generative-ai/)
+* [2024-05-16, 22:19:06](https://news.ycombinator.com/item?id=40384013) - [The Forged Apple Employee Badge](https://cabel.com/2024/05/16/the-forged-apple-employee-badge/)
 * [2024-05-16, 22:16:01](https://news.ycombinator.com/item?id=40383978) - [Slack AI Training with Customer Data](https://slack.com/trust/data-management/privacy-principles?nojsmode=1)
 * [2024-05-16, 22:06:28](https://news.ycombinator.com/item?id=40383886) - [Improvements to Data Analysis in ChatGPT](https://openai.com/index/improvements-to-data-analysis-in-chatgpt/)
 * [2024-05-16, 21:57:22](https://news.ycombinator.com/item?id=40383776) - [Army soldiers not impressed with Strykers outfitted with 50-kilowatt lasers](https://breakingdefense.com/2024/05/army-soldiers-not-impressed-with-strykers-outfitted-with-50-kilowatt-lasers-service-official-says/)
