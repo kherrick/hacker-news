@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-05-17](index.md)
 
+* [2024-05-17, 13:04:06](https://news.ycombinator.com/item?id=40389445) - [Toon3D: Seeing Cartoons from a New Perspective](https://toon3d.studio/)
+* [2024-05-17, 13:00:26](https://news.ycombinator.com/item?id=40389413) - [Shein set to boost London with IPO](https://ukinvestormagazine.co.uk/shein-set-to-boost-london-with-ipo/)
+* [2024-05-17, 12:59:35](https://news.ycombinator.com/item?id=40389405) - [Demystifying the Protobuf Wire Format](https://kreya.app/blog/protocolbuffers-wire-format/)
+* [2024-05-17, 12:59:34](https://news.ycombinator.com/item?id=40389404) - [Ideas and Creativity (2019)](https://bastian.rieck.me/blog/2019/ideas/)
 * [2024-05-17, 12:33:39](https://news.ycombinator.com/item?id=40389188) - [Deleted iPhone photos show up again after iOS update](https://www.malwarebytes.com/blog/news/2024/05/deleted-iphone-photos-show-up-again-after-ios-update)
 * [2024-05-17, 12:18:59](https://news.ycombinator.com/item?id=40389094) - [N-Dimensional Gaussians for Fitting of High Dimensional Functions](https://www.sdiolatz.info/ndg-fitting/)
+* [2024-05-17, 12:18:55](https://news.ycombinator.com/item?id=40389093) - [A Ruby, Middleman and TailwindCSS blog template](https://github.com/harrison-broadbent/ruby-middleman-tailwind-starter-blog)
 * [2024-05-17, 12:15:00](https://news.ycombinator.com/item?id=40389059) - [I upgraded my water heater and discovered how bad smart home security can be](https://arstechnica.com/gadgets/2024/05/how-i-upgraded-my-water-heater-and-discovered-how-bad-smart-home-security-can-be/)
 * [2024-05-17, 12:00:23](https://news.ycombinator.com/item?id=40388933) - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4360841006)
 * [2024-05-17, 11:19:29](https://news.ycombinator.com/item?id=40388655) - [HMT: Hierarchical Memory Transformer for Long Context Language Processing](https://arxiv.org/abs/2405.06067)
