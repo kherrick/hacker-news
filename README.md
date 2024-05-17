@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-17, 02:21:57](https://news.ycombinator.com/item?id=40385710) - [Urban Renewal Ruined Everything](https://darrellowens.substack.com/p/how-urban-renewal-ruined-everything)
 * [2024-05-17, 02:19:44](https://news.ycombinator.com/item?id=40385693) - [Databases for Data Scientist – And why you probably don't need one](https://josiahparry.com/posts/2024-05-16-databases-for-ds)
 * [2024-05-17, 01:53:13](https://news.ycombinator.com/item?id=40385536) - [100 Exercises to Learn Rust](https://rust-exercises.com/)
 * [2024-05-17, 01:42:09](https://news.ycombinator.com/item?id=40385469) - [Moment: A Family of Open Time-Series Foundation Models](https://arxiv.org/abs/2402.03885)
@@ -10,7 +11,6 @@
 * [2024-05-16, 22:44:58](https://news.ycombinator.com/item?id=40384234) - [LearnLM models tuned for human learning](https://blog.google/outreach-initiatives/education/google-learnlm-gemini-generative-ai/)
 * [2024-05-16, 22:19:06](https://news.ycombinator.com/item?id=40384013) - [A forged Apple employee badge](https://cabel.com/2024/05/16/the-forged-apple-employee-badge/)
 * [2024-05-16, 22:16:01](https://news.ycombinator.com/item?id=40383978) - [Slack AI Training with Customer Data](https://slack.com/trust/data-management/privacy-principles?nojsmode=1)
-* [2024-05-16, 22:06:05](https://news.ycombinator.com/item?id=40383885) - [Special Characters Attack: Toward Scalable Training Data Extraction from LLMs](https://arxiv.org/abs/2405.05990)
 * [2024-05-16, 21:14:47](https://news.ycombinator.com/item?id=40383263) - [Deutsche Bahn introduces \"MetaWindow\"](https://www.railtarget.eu/technologies-and-infrastructure/deutsche-bahn-introduces-metawindow-a-gamechanger-in-noise-reduction-for-railways-8449.html)
 * [2024-05-16, 21:01:29](https://news.ycombinator.com/item?id=40383078) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations – Is Hiring](https://skio.com/careers/)
 * [2024-05-16, 20:07:37](https://news.ycombinator.com/item?id=40382550) - [A long list of (advanced) JavaScript questions, and their explanations](https://github.com/lydiahallie/javascript-questions)

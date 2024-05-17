@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-17](index.md)
 
+* [2024-05-17, 02:21:57](https://news.ycombinator.com/item?id=40385710) - [Urban Renewal Ruined Everything](https://darrellowens.substack.com/p/how-urban-renewal-ruined-everything)
 * [2024-05-17, 02:19:44](https://news.ycombinator.com/item?id=40385693) - [Databases for Data Scientist – And why you probably don't need one](https://josiahparry.com/posts/2024-05-16-databases-for-ds)
 * [2024-05-17, 01:53:13](https://news.ycombinator.com/item?id=40385536) - [100 Exercises to Learn Rust](https://rust-exercises.com/)
 * [2024-05-17, 01:42:09](https://news.ycombinator.com/item?id=40385469) - [Moment: A Family of Open Time-Series Foundation Models](https://arxiv.org/abs/2402.03885)
