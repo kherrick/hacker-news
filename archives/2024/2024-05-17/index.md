@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-17](index.md)
 
+* [2024-05-17, 12:00:23](https://news.ycombinator.com/item?id=40388933) - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4360841006)
 * [2024-05-17, 09:30:01](https://news.ycombinator.com/item?id=40388029) - [Many Searchers Want to Turn Off Google AI Overviews](https://www.seroundtable.com/searchers-want-to-turn-off-google-ai-overviews-37405.html)
 * [2024-05-17, 09:26:37](https://news.ycombinator.com/item?id=40388013) - [Why neural networks struggle with the Game of Life](https://bdtechtalks.com/2020/09/16/deep-learning-game-of-life/)
 * [2024-05-17, 09:24:52](https://news.ycombinator.com/item?id=40388002) - [OpenBSD – sshd(8) split into multiple binaries](https://www.undeadly.org/cgi?action=article;sid=20240517092416)
