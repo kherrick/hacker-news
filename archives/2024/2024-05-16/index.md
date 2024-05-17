@@ -103,4 +103,5 @@
 * [2024-05-16, 03:29:41](https://news.ycombinator.com/item?id=40374946) - [Swift sucks at web serving or does it?](https://wadetregaskis.com/swift-sucks-at-web-serving-or-does-it/)
 * [2024-05-16, 03:28:25](https://news.ycombinator.com/item?id=40374938) - [What It's Like Riding a Plug-In Hybrid Two-Stroke All-Wheel Drive Moped](https://www.theautopian.com/hybrid-awd-moped-retrospective-scooters/)
 * [2024-05-16, 03:17:08](https://news.ycombinator.com/item?id=40374879) - [Earth rotation limits in-body image stabilization to 6.3 stops (2020)](https://thecentercolumn.com/2020/01/17/earths-rotation-limits-ibis-performance-to-6-3-stops/)
+* [2024-05-16, 03:00:09](https://news.ycombinator.com/item?id=40374795) - [Students invent quieter leaf blower](https://hub.jhu.edu/2024/05/14/quieter-leaf-blower/)
 * [2024-05-16, 00:22:33](https://news.ycombinator.com/item?id=40373931) - [Utah Locals Are Getting Cheap 10 Gbps Fiber Thanks to Local Governments](https://www.techdirt.com/2024/05/15/utah-locals-are-getting-cheap-10-gbps-fiber-thanks-to-local-governments/)
