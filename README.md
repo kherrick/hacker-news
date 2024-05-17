@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-17, 03:41:23](https://news.ycombinator.com/item?id=40386166) - [How to Start Google](https://www.paulgraham.com/google.html)
 * [2024-05-17, 02:21:57](https://news.ycombinator.com/item?id=40385710) - [Urban Renewal Ruined Everything](https://darrellowens.substack.com/p/how-urban-renewal-ruined-everything)
 * [2024-05-17, 02:19:44](https://news.ycombinator.com/item?id=40385693) - [Databases for Data Scientist – And why you probably don't need one](https://josiahparry.com/posts/2024-05-16-databases-for-ds)
 * [2024-05-17, 01:53:13](https://news.ycombinator.com/item?id=40385536) - [100 Exercises to Learn Rust](https://rust-exercises.com/)
@@ -13,6 +12,7 @@
 * [2024-05-16, 22:16:01](https://news.ycombinator.com/item?id=40383978) - [Slack AI Training with Customer Data](https://slack.com/trust/data-management/privacy-principles?nojsmode=1)
 * [2024-05-16, 21:14:47](https://news.ycombinator.com/item?id=40383263) - [Deutsche Bahn introduces \"MetaWindow\"](https://www.railtarget.eu/technologies-and-infrastructure/deutsche-bahn-introduces-metawindow-a-gamechanger-in-noise-reduction-for-railways-8449.html)
 * [2024-05-16, 21:01:29](https://news.ycombinator.com/item?id=40383078) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations – Is Hiring](https://skio.com/careers/)
+* [2024-05-16, 20:07:37](https://news.ycombinator.com/item?id=40382550) - [A long list of (advanced) JavaScript questions, and their explanations](https://github.com/lydiahallie/javascript-questions)
 * [2024-05-16, 19:39:08](https://news.ycombinator.com/item?id=40382275) - [History of the Italian Electrical System](https://samuele963.github.io/electrics/history.html)
 * [2024-05-16, 19:29:18](https://news.ycombinator.com/item?id=40382163) - [Exit Strategy: The Case for Single-Stair Egress](https://www.architecturalrecord.com/articles/16880-exit-strategy-the-case-for-single-stair-egress)
 * [2024-05-16, 18:56:55](https://news.ycombinator.com/item?id=40381841) - [Smart Pointers in (GNU) C](https://snai.pe/posts/c-smart-pointers)
