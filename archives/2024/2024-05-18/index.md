@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-18](index.md)
 
+* [2024-05-18, 14:25:26](https://news.ycombinator.com/item?id=40399327) - [Mercedes EQXX Record Drive: Riyadh to Dubai Single Charge 1000+ km Range [video]](https://www.youtube.com/watch?v=7bP-WnL9RXM)
 * [2024-05-18, 13:37:13](https://news.ycombinator.com/item?id=40398966) - [Case study: €115,100 from 8,750 Transactions in 3 Days, Showcasing payments](https://blog.btcpayserver.org/case-study-bitcoin-atlantis/)
 * [2024-05-18, 12:19:25](https://news.ycombinator.com/item?id=40398394) - [Why a New Yorker Story on a Notorious Murder Case Is Blocked in Britain](https://www.nytimes.com/2024/05/16/world/europe/new-yorker-story-murder-letby-britain.html)
 * [2024-05-18, 11:10:20](https://news.ycombinator.com/item?id=40398002) - [Australian War Crime Whistleblower David McBride Sentenced to Jail](https://www.youtube.com/watch?v=VrFs2_uhz-o)
