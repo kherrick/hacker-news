@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-18](index.md)
 
+* [2024-05-18, 19:36:33](https://news.ycombinator.com/item?id=40401422) - [London Webcam](https://londonwebcam.co.uk/)
+* [2024-05-18, 19:28:46](https://news.ycombinator.com/item?id=40401374) - [A Teacher Did All He Could to Keep Kids Off Phones. He's Quitting in Frustration](https://www.msn.com/en-us/money/careers/a-teacher-did-all-he-could-to-keep-kids-off-phones-he-s-quitting-in-frustration/ar-BB1mCJ5q)
+* [2024-05-18, 19:19:39](https://news.ycombinator.com/item?id=40401315) - [Almost a quarter of kids aged 5-7 have smartphones](https://www.bbc.com/news/technology-68838029)
 * [2024-05-18, 19:02:01](https://news.ycombinator.com/item?id=40401198) - [Woman Stuck in Tesla for 40 Mins During Vehicle Update](https://www.ibtimes.co.uk/woman-stuck-tesla-40-minutes-115-degrees-temperature-during-vehicle-update-1724678)
 * [2024-05-18, 18:56:10](https://news.ycombinator.com/item?id=40401161) - [Days Since It Was DNS](https://dayssince.itwasdns.net/)
 * [2024-05-18, 18:45:30](https://news.ycombinator.com/item?id=40401076) - [Psychedelics could treat some of the worst chronic pain in the world](https://www.vox.com/future-perfect/2024/5/15/24156372/psychedelics-chronic-pain-cluster-headache-medicine-lsd-psilocybin)
