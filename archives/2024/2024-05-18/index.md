@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-18](index.md)
 
+* [2024-05-18, 21:01:25](https://news.ycombinator.com/item?id=40402076) - [Streak (YC W22) is hiring a staff web UI engineer (remote)](https://www.streak.com/careers/staff-ui-engineer)
 * [2024-05-18, 20:08:17](https://news.ycombinator.com/item?id=40401661) - [Swiss' Entire Boeing 777 Fleet Now Has Shark Skin Technology](https://simpleflying.com/swiss-entire-boeing-777-fleet-aeroshark/)
 * [2024-05-18, 19:53:27](https://news.ycombinator.com/item?id=40401539) - [Neural network trained on 'Friends' can detect sarcasm 75% of the time](https://www.popsci.com/technology/sarcasm-algorithm/)
 * [2024-05-18, 19:47:33](https://news.ycombinator.com/item?id=40401496) - [Personality Changes Associated with Organ Transplants](https://www.mdpi.com/2673-3943/5/1/2)
