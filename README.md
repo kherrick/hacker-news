@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-18, 11:10:20](https://news.ycombinator.com/item?id=40398002) - [Australian War Crime Whistleblower David McBride Sentenced to Jail](https://www.youtube.com/watch?v=VrFs2_uhz-o)
+* [2024-05-18, 10:56:24](https://news.ycombinator.com/item?id=40397925) - [Conviction of Tornado Cash programmer: Privacy is not a crime](https://www.patrick-breyer.de/en/conviction-of-tornado-cash-programmer-privacy-is-not-a-crime/)
 * [2024-05-18, 10:34:26](https://news.ycombinator.com/item?id=40397842) - [Tegelwippen](https://www.nk-tegelwippen.nl/)
 * [2024-05-18, 10:28:04](https://news.ycombinator.com/item?id=40397823) - [Seven Dyson Sphere Candidates](https://www.centauri-dreams.org/2024/05/18/seven-dyson-sphere-candidates/)
 * [2024-05-18, 10:24:19](https://news.ycombinator.com/item?id=40397806) - [Ilya Sutskever: “If you learn all of these, you’ll know 90% of what matters”](https://www.reddit.com/r/ArtificialInteligence/comments/1cpbh1s/ilya_sutskever_if_you_really_learn_all_of_these/)
@@ -12,7 +13,6 @@
 * [2024-05-18, 08:46:59](https://news.ycombinator.com/item?id=40397442) - [Gio UI – Cross-Platform GUI for Go](https://gioui.org/)
 * [2024-05-18, 07:00:31](https://news.ycombinator.com/item?id=40396989) - [Truemetrics (YC S23) is hiring a back end engineer](https://www.ycombinator.com/companies/truemetrics/jobs/CyhEPcE-python-developer-with-strong-backend-and-aws-and-data-skills)
 * [2024-05-18, 02:13:13](https://news.ycombinator.com/item?id=40396005) - [Zoraxy: Open-Source, All in one homelab network routing solution](https://zoraxy.arozos.com/)
-* [2024-05-17, 23:44:10](https://news.ycombinator.com/item?id=40395234) - [wxHexEditor — a Free Hex Editor / Disk Editor for Huge Files or Devices](http://www.wxhexeditor.org/)
 * [2024-05-17, 23:25:32](https://news.ycombinator.com/item?id=40395107) - [Multi AI agent systems using OpenAI's assistants API](https://github.com/metaskills/experts)
 * [2024-05-17, 18:55:02](https://news.ycombinator.com/item?id=40393121) - [OpenAI departures: Why can’t former employees talk?](https://www.vox.com/future-perfect/2024/5/17/24158478/openai-departures-sam-altman-employees-chatgpt-release)
 * [2024-05-17, 17:59:22](https://news.ycombinator.com/item?id=40392548) - [Show HN: I built a website to create financial models for any stock online](https://www.useequityval.com/)
