@@ -13,7 +13,6 @@
 * [2024-05-17, 15:15:11](https://news.ycombinator.com/item?id=40390820) - [A Trial HIV Vaccine Triggered Elusive and Essential Antibodies in Humans](https://corporate.dukehealth.org/news/trial-hiv-vaccine-triggered-elusive-and-essential-antibodies-humans)
 * [2024-05-17, 15:09:15](https://news.ycombinator.com/item?id=40390751) - [The Beauty of Concrete](https://worksinprogress.co/issue/the-beauty-of-concrete/)
 * [2024-05-17, 14:23:44](https://news.ycombinator.com/item?id=40390287) - [Bend: a high-level language that runs on GPUs (via HVM2)](https://github.com/HigherOrderCO/Bend)
-* [2024-05-17, 13:38:31](https://news.ycombinator.com/item?id=40389711) - [Sakuga-42M Dataset: Scaling Up Cartoon Research](https://arxiv.org/abs/2405.07425)
 * [2024-05-17, 13:04:06](https://news.ycombinator.com/item?id=40389445) - [Toon3D: Seeing cartoons from a new perspective](https://toon3d.studio/)
 * [2024-05-17, 13:00:55](https://news.ycombinator.com/item?id=40389421) - [LoRA Learns Less and Forgets Less](https://arxiv.org/abs/2405.09673)
 * [2024-05-17, 12:59:34](https://news.ycombinator.com/item?id=40389404) - [Ideas and Creativity (2019)](https://bastian.rieck.me/blog/2019/ideas/)
@@ -30,6 +29,7 @@
 * [2024-05-16, 03:03:41](https://news.ycombinator.com/item?id=40374815) - [Scholars discover rare 16th-century tome with handwritten notes by John Milton](https://arstechnica.com/culture/2024/05/john-miltons-handwritten-notes-make-this-16th-century-history-book-a-rare-find/)
 * [2024-05-15, 22:23:07](https://news.ycombinator.com/item?id=40373139) - [The Unusual Evolutionary Journey of the Baobab Tree](https://www.nytimes.com/2024/05/15/science/baobab-trees-evolution.html)
 * [2024-05-15, 21:58:35](https://news.ycombinator.com/item?id=40372920) - [FBI seizes hacking forum BreachForums – again](https://techcrunch.com/2024/05/15/fbi-seizes-hacking-forum-breachforums-again/)
+* [2024-05-15, 17:39:55](https://news.ycombinator.com/item?id=40370031) - [The New 'Dream Chaser' Spacecraft Prepares to Visit the ISS](https://www.scientificamerican.com/article/the-new-dream-chaser-spacecraft-prepares-to-visit-the-international-space/)
 
 ## [Archives](archives/index.md)
 
