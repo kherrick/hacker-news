@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-18, 20:08:17](https://news.ycombinator.com/item?id=40401661) - [Swiss' Entire Boeing 777 Fleet Now Has Shark Skin Technology](https://simpleflying.com/swiss-entire-boeing-777-fleet-aeroshark/)
-* [2024-05-18, 19:53:27](https://news.ycombinator.com/item?id=40401539) - [Neural network trained on 'Friends' can detect sarcasm 75% of the time](https://www.popsci.com/technology/sarcasm-algorithm/)
 * [2024-05-18, 19:47:33](https://news.ycombinator.com/item?id=40401496) - [Personality changes associated with organ transplants](https://www.mdpi.com/2673-3943/5/1/2)
 * [2024-05-18, 19:24:17](https://news.ycombinator.com/item?id=40401343) - [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)
 * [2024-05-18, 18:43:27](https://news.ycombinator.com/item?id=40401060) - [Show HN: Peanut Butter Spinner](https://cdaringe.com/peanut-butter-spinner/)
@@ -24,6 +23,7 @@
 * [2024-05-17, 17:30:26](https://news.ycombinator.com/item?id=40392302) - [500-year-old maths problem turns out to apply to coffee and clocks](https://www.newscientist.com/article/2430522-500-year-old-maths-problem-turns-out-to-apply-to-coffee-and-clocks/)
 * [2024-05-17, 16:00:26](https://news.ycombinator.com/item?id=40391290) - [Scrabble, Anonymous](https://www.theparisreview.org/blog/2024/05/15/scrabble-anonymous/)
 * [2024-05-17, 15:50:04](https://news.ycombinator.com/item?id=40391175) - [The Natural Selection of Bad Vibes](https://kevindorst.substack.com/p/the-natural-selection-of-bad-vibes)
+* [2024-05-17, 15:09:15](https://news.ycombinator.com/item?id=40390751) - [The beauty of concrete](https://worksinprogress.co/issue/the-beauty-of-concrete/)
 * [2024-05-17, 06:52:30](https://news.ycombinator.com/item?id=40387163) - [Previsualization for Feature Films (1998)](http://www.stagetools.com/previs.htm)
 * [2024-05-17, 06:23:19](https://news.ycombinator.com/item?id=40387013) - [Sitting on the Art](https://aeon.co/essays/furniture-can-be-a-ripely-ambiguous-artform-of-its-own)
 * [2024-05-16, 21:18:57](https://news.ycombinator.com/item?id=40383324) - [On hoot, on boot](https://wingolog.org/archives/2024/05/16/on-hoot-on-boot)
