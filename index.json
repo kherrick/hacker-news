@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-05-18, 06:15:05",
-      "https://news.ycombinator.com/item?id=40396818"
+      "2024-05-18, 07:00:31",
+      "https://news.ycombinator.com/item?id=40396989"
     ],
     [
-      "GPT-4o hit 54% accuracy on CodeContests with AlphaCodium, up from 48% for GPT-4T",
-      "https://github.com/Codium-ai/AlphaCodium"
+      "Truemetrics (YC S23) is hiring a back end engineer",
+      "https://www.ycombinator.com/companies/truemetrics/jobs/CyhEPcE-python-developer-with-strong-backend-and-aws-and-data-skills"
     ]
   ],
   [
@@ -87,16 +87,6 @@
     [
       "Show HN: I built a website to create financial models for any stock online",
       "https://www.useequityval.com/"
-    ]
-  ],
-  [
-    [
-      "2024-05-17, 16:30:40",
-      "https://news.ycombinator.com/item?id=40391614"
-    ],
-    [
-      "The case against dual axis charts (and what to use instead) (2018)",
-      "https://blog.datawrapper.de/dualaxis/"
     ]
   ],
   [
@@ -191,6 +181,16 @@
   ],
   [
     [
+      "2024-05-17, 09:26:37",
+      "https://news.ycombinator.com/item?id=40388013"
+    ],
+    [
+      "Why neural networks struggle with the Game of Life (2020)",
+      "https://bdtechtalks.com/2020/09/16/deep-learning-game-of-life/"
+    ]
+  ],
+  [
+    [
       "2024-05-17, 07:24:02",
       "https://news.ycombinator.com/item?id=40387318"
     ],
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2024-05-16, 13:00:28",
-      "https://news.ycombinator.com/item?id=40377831"
-    ],
-    [
-      "NetBSD bans use of Copilot-generated code",
-      "https://www.osnews.com/story/139698/netbsd-bans-use-of-copilot-generated-code/"
-    ]
-  ],
-  [
-    [
       "2024-05-16, 03:03:41",
       "https://news.ycombinator.com/item?id=40374815"
     ],
@@ -297,6 +287,16 @@
     [
       "The Unusual Evolutionary Journey of the Baobab Tree",
       "https://www.nytimes.com/2024/05/15/science/baobab-trees-evolution.html"
+    ]
+  ],
+  [
+    [
+      "2024-05-15, 21:58:35",
+      "https://news.ycombinator.com/item?id=40372920"
+    ],
+    [
+      "FBI seizes hacking forum BreachForums – again",
+      "https://techcrunch.com/2024/05/15/fbi-seizes-hacking-forum-breachforums-again/"
     ]
   ]
 ]
