@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-18, 11:10:20](https://news.ycombinator.com/item?id=40398002) - [Australian War Crime Whistleblower David McBride Sentenced to Jail](https://www.youtube.com/watch?v=VrFs2_uhz-o)
 * [2024-05-18, 10:34:26](https://news.ycombinator.com/item?id=40397842) - [Tegelwippen](https://www.nk-tegelwippen.nl/)
 * [2024-05-18, 10:24:19](https://news.ycombinator.com/item?id=40397806) - [Ilya Sutskever: “If you learn all of these, you’ll know 90% of what matters”](https://www.reddit.com/r/ArtificialInteligence/comments/1cpbh1s/ilya_sutskever_if_you_really_learn_all_of_these/)
+* [2024-05-18, 10:21:01](https://news.ycombinator.com/item?id=40397789) - [NetBSD Bans AI-Generated Code from Commits](https://www.netbsd.org/developers/commit-guidelines.html)
 * [2024-05-18, 09:55:34](https://news.ycombinator.com/item?id=40397692) - [38% of webpages that existed in 2013 are no longer accessible a decade later](https://www.pewresearch.org/data-labs/2024/05/17/when-online-content-disappears/)
 * [2024-05-18, 09:38:08](https://news.ycombinator.com/item?id=40397637) - [Cyber Security: A Pre-War Reality Check](https://berthub.eu/articles/posts/cyber-security-pre-war-reality-check/)
 * [2024-05-18, 09:12:14](https://news.ycombinator.com/item?id=40397555) - [Malleable software in the age of LLMs (2023)](https://www.geoffreylitt.com/2023/03/25/llm-end-user-programming.html)
@@ -14,8 +16,6 @@
 * [2024-05-17, 20:25:40](https://news.ycombinator.com/item?id=40393873) - [ILGPU: Write GPU programs with C# and F#](https://github.com/m4rs-mt/ILGPU)
 * [2024-05-17, 18:55:02](https://news.ycombinator.com/item?id=40393121) - [OpenAI departures: Why can’t former employees talk?](https://www.vox.com/future-perfect/2024/5/17/24158478/openai-departures-sam-altman-employees-chatgpt-release)
 * [2024-05-17, 17:59:22](https://news.ycombinator.com/item?id=40392548) - [Show HN: I built a website to create financial models for any stock online](https://www.useequityval.com/)
-* [2024-05-17, 16:30:40](https://news.ycombinator.com/item?id=40391614) - [The case against dual axis charts (and what to use instead) (2018)](https://blog.datawrapper.de/dualaxis/)
-* [2024-05-17, 15:15:11](https://news.ycombinator.com/item?id=40390820) - [A Trial HIV Vaccine Triggered Elusive and Essential Antibodies in Humans](https://corporate.dukehealth.org/news/trial-hiv-vaccine-triggered-elusive-and-essential-antibodies-humans)
 * [2024-05-17, 15:09:15](https://news.ycombinator.com/item?id=40390751) - [The Beauty of Concrete](https://worksinprogress.co/issue/the-beauty-of-concrete/)
 * [2024-05-17, 14:23:44](https://news.ycombinator.com/item?id=40390287) - [Bend: a high-level language that runs on GPUs (via HVM2)](https://github.com/HigherOrderCO/Bend)
 * [2024-05-17, 13:04:06](https://news.ycombinator.com/item?id=40389445) - [Toon3D: Seeing cartoons from a new perspective](https://toon3d.studio/)
