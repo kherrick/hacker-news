@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-05-18, 09:55:34",
+      "https://news.ycombinator.com/item?id=40397692"
+    ],
+    [
+      "38% of webpages that existed in 2013 are no longer accessible a decade later",
+      "https://www.pewresearch.org/data-labs/2024/05/17/when-online-content-disappears/"
+    ]
+  ],
+  [
+    [
+      "2024-05-18, 09:12:14",
+      "https://news.ycombinator.com/item?id=40397555"
+    ],
+    [
+      "Malleable software in the age of LLMs (2023)",
+      "https://www.geoffreylitt.com/2023/03/25/llm-end-user-programming.html"
+    ]
+  ],
+  [
+    [
       "2024-05-18, 09:01:18",
       "https://news.ycombinator.com/item?id=40397507"
     ],
@@ -37,16 +57,6 @@
     [
       "Zoraxy: Open-Source, All in one homelab network routing solution",
       "https://zoraxy.arozos.com/"
-    ]
-  ],
-  [
-    [
-      "2024-05-17, 23:44:10",
-      "https://news.ycombinator.com/item?id=40395234"
-    ],
-    [
-      "wxHexEditor — a Free Hex Editor / Disk Editor for Huge Files or Devices",
-      "http://www.wxhexeditor.org/"
     ]
   ],
   [
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2024-05-17, 12:59:34",
-      "https://news.ycombinator.com/item?id=40389404"
-    ],
-    [
-      "Ideas and Creativity (2019)",
-      "https://bastian.rieck.me/blog/2019/ideas/"
-    ]
-  ],
-  [
-    [
       "2024-05-17, 12:43:14",
       "https://news.ycombinator.com/item?id=40389267"
     ],
@@ -177,16 +177,6 @@
     [
       "HMT: Hierarchical Memory Transformer for Long Context Language Processing",
       "https://arxiv.org/abs/2405.06067"
-    ]
-  ],
-  [
-    [
-      "2024-05-17, 09:26:37",
-      "https://news.ycombinator.com/item?id=40388013"
-    ],
-    [
-      "Why neural networks struggle with the Game of Life (2020)",
-      "https://bdtechtalks.com/2020/09/16/deep-learning-game-of-life/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "The Unusual Evolutionary Journey of the Baobab Tree",
       "https://www.nytimes.com/2024/05/15/science/baobab-trees-evolution.html"
+    ]
+  ],
+  [
+    [
+      "2024-05-15, 18:40:59",
+      "https://news.ycombinator.com/item?id=40370729"
+    ],
+    [
+      "A Man with an Impossible Memory",
+      "https://www.newyorker.com/books/page-turner/the-mystery-of-s-the-man-with-an-impossible-memory"
     ]
   ],
   [
