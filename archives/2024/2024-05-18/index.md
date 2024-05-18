@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-18](index.md)
 
+* [2024-05-18, 22:49:17](https://news.ycombinator.com/item?id=40402734) - [Go Browser Package](https://browser.dineshgowda.com/)
 * [2024-05-18, 22:31:49](https://news.ycombinator.com/item?id=40402641) - [OpenAI created a team to control 'superintelligent' AI – then let it wither](https://techcrunch.com/2024/05/18/openai-created-a-team-to-control-superintelligent-ai-then-let-it-wither-source-says/)
 * [2024-05-18, 22:16:12](https://news.ycombinator.com/item?id=40402557) - [Dwarf Fortress starting during apt-get upgrade](https://askubuntu.com/questions/938606/dwarf-fortress-starting-during-apt-get-upgrade)
 * [2024-05-18, 21:43:25](https://news.ycombinator.com/item?id=40402366) - [Ask HN: I downloaded a malicious dmg file but did not open it. Am I infected?](https://news.ycombinator.com/item?id=40402366)
