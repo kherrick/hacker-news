@@ -10,6 +10,7 @@
 * [2024-05-18, 21:43:25](https://news.ycombinator.com/item?id=40402366) - [Ask HN: I downloaded a malicious dmg file but did not open it. Am I infected?](https://news.ycombinator.com/item?id=40402366)
 * [2024-05-18, 21:03:39](https://news.ycombinator.com/item?id=40402091) - [Sam Altman on opeanai non disparagement exit clause](https://x.com/sama/status/1791936857594581428)
 * [2024-05-18, 21:01:25](https://news.ycombinator.com/item?id=40402076) - [Streak (YC W22) is hiring a staff web UI engineer (remote)](https://www.streak.com/careers/staff-ui-engineer)
+* [2024-05-18, 20:25:43](https://news.ycombinator.com/item?id=40401803) - [On English Melancholy](https://thereader.mitpress.mit.edu/on-english-melancholy/)
 * [2024-05-18, 20:22:18](https://news.ycombinator.com/item?id=40401777) - [Disabling Modernism](https://placesjournal.org/article/modernist-schools-for-disabled-children-new-deal-era/)
 * [2024-05-18, 20:11:22](https://news.ycombinator.com/item?id=40401695) - [Show HN: Abusing a GitHub repo as a private certificate authority](https://github.com/andrewmbenton/ca)
 * [2024-05-18, 20:08:17](https://news.ycombinator.com/item?id=40401661) - [Swiss' Entire Boeing 777 Fleet Now Has Shark Skin Technology](https://simpleflying.com/swiss-entire-boeing-777-fleet-aeroshark/)
