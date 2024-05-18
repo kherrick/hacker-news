@@ -40,6 +40,7 @@
 * [2024-05-17, 16:22:46](https://news.ycombinator.com/item?id=40391523) - [Rents are rising faster than wages across the country](https://www.cbsnews.com/news/rent-cost-us-2024-housing-national/)
 * [2024-05-17, 16:12:31](https://news.ycombinator.com/item?id=40391412) - [Jan Leike's OpenAI departure statement](https://jnnnthnn.com/leike.png)
 * [2024-05-17, 16:09:01](https://news.ycombinator.com/item?id=40391382) - [OpenAI Dissolves High-Profile Safety Team After Chief Scientist Sutskever's Exit](https://www.bloomberg.com/news/articles/2024-05-17/openai-dissolves-key-safety-team-after-chief-scientist-ilya-sutskever-s-exit)
+* [2024-05-17, 16:00:26](https://news.ycombinator.com/item?id=40391290) - [Scrabble, Anonymous](https://www.theparisreview.org/blog/2024/05/15/scrabble-anonymous/)
 * [2024-05-17, 15:50:04](https://news.ycombinator.com/item?id=40391175) - [The Natural Selection of Bad Vibes](https://kevindorst.substack.com/p/the-natural-selection-of-bad-vibes)
 * [2024-05-17, 15:34:31](https://news.ycombinator.com/item?id=40391022) - ['I'm the new Oppenheimer ': Palantir's first-ever AI warfare conference](https://www.theguardian.com/technology/article/2024/may/17/ai-weapons-palantir-war-technology)
 * [2024-05-17, 15:16:38](https://news.ycombinator.com/item?id=40390831) - [OpenAI's Long-Term AI Risk Team Has Disbanded](https://www.wired.com/story/openai-superalignment-team-disbanded/)
