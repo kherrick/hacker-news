@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-18, 06:15:05",
+      "https://news.ycombinator.com/item?id=40396818"
+    ],
+    [
+      "GPT-4o hit 54% accuracy on CodeContests with AlphaCodium, up from 48% for GPT-4T",
+      "https://github.com/Codium-ai/AlphaCodium"
+    ]
+  ],
+  [
+    [
       "2024-05-18, 05:21:12",
       "https://news.ycombinator.com/item?id=40396601"
     ],
@@ -177,16 +187,6 @@
     [
       "HMT: Hierarchical Memory Transformer for Long Context Language Processing",
       "https://arxiv.org/abs/2405.06067"
-    ]
-  ],
-  [
-    [
-      "2024-05-17, 09:26:37",
-      "https://news.ycombinator.com/item?id=40388013"
-    ],
-    [
-      "Why neural networks struggle with the Game of Life (2020)",
-      "https://bdtechtalks.com/2020/09/16/deep-learning-game-of-life/"
     ]
   ],
   [
