@@ -6,6 +6,7 @@
 * [2024-05-18, 08:46:59](https://news.ycombinator.com/item?id=40397442) - [Gio UI – Cross-Platform GUI for Go](https://gioui.org/)
 * [2024-05-18, 07:00:31](https://news.ycombinator.com/item?id=40396989) - [Truemetrics (YC S23) is hiring a back end engineer](https://www.ycombinator.com/companies/truemetrics/jobs/CyhEPcE-python-developer-with-strong-backend-and-aws-and-data-skills)
 * [2024-05-18, 02:13:13](https://news.ycombinator.com/item?id=40396005) - [Zoraxy: Open-Source, All in one homelab network routing solution](https://zoraxy.arozos.com/)
+* [2024-05-17, 23:44:10](https://news.ycombinator.com/item?id=40395234) - [wxHexEditor — a Free Hex Editor / Disk Editor for Huge Files or Devices](http://www.wxhexeditor.org/)
 * [2024-05-17, 23:25:32](https://news.ycombinator.com/item?id=40395107) - [Multi AI agent systems using OpenAI's assistants API](https://github.com/metaskills/experts)
 * [2024-05-17, 20:25:40](https://news.ycombinator.com/item?id=40393873) - [ILGPU: Write GPU programs with C# and F#](https://github.com/m4rs-mt/ILGPU)
 * [2024-05-17, 18:55:02](https://news.ycombinator.com/item?id=40393121) - [OpenAI departures: Why can’t former employees talk?](https://www.vox.com/future-perfect/2024/5/17/24158478/openai-departures-sam-altman-employees-chatgpt-release)
@@ -27,7 +28,6 @@
 * [2024-05-16, 14:04:25](https://news.ycombinator.com/item?id=40378628) - [Pacific squid flashes its attack 'headlights'](https://www.bbc.com/news/science-environment-69016405)
 * [2024-05-16, 13:48:45](https://news.ycombinator.com/item?id=40378433) - [Wuffs: Wrangling Untrusted File Formats Safely](https://github.com/google/wuffs)
 * [2024-05-16, 03:03:41](https://news.ycombinator.com/item?id=40374815) - [Scholars discover rare 16th-century tome with handwritten notes by John Milton](https://arstechnica.com/culture/2024/05/john-miltons-handwritten-notes-make-this-16th-century-history-book-a-rare-find/)
-* [2024-05-15, 22:23:07](https://news.ycombinator.com/item?id=40373139) - [The Unusual Evolutionary Journey of the Baobab Tree](https://www.nytimes.com/2024/05/15/science/baobab-trees-evolution.html)
 * [2024-05-15, 18:40:59](https://news.ycombinator.com/item?id=40370729) - [A Man with an Impossible Memory](https://www.newyorker.com/books/page-turner/the-mystery-of-s-the-man-with-an-impossible-memory)
 * [2024-05-15, 17:39:55](https://news.ycombinator.com/item?id=40370031) - [The New 'Dream Chaser' Spacecraft Prepares to Visit the ISS](https://www.scientificamerican.com/article/the-new-dream-chaser-spacecraft-prepares-to-visit-the-international-space/)
 
