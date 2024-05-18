@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-18](index.md)
 
+* [2024-05-18, 12:19:25](https://news.ycombinator.com/item?id=40398394) - [Why a New Yorker Story on a Notorious Murder Case Is Blocked in Britain](https://www.nytimes.com/2024/05/16/world/europe/new-yorker-story-murder-letby-britain.html)
 * [2024-05-18, 11:10:20](https://news.ycombinator.com/item?id=40398002) - [Australian War Crime Whistleblower David McBride Sentenced to Jail](https://www.youtube.com/watch?v=VrFs2_uhz-o)
 * [2024-05-18, 10:56:24](https://news.ycombinator.com/item?id=40397925) - [Conviction of Tornado Cash programmer: Privacy is not a crime](https://www.patrick-breyer.de/en/conviction-of-tornado-cash-programmer-privacy-is-not-a-crime/)
 * [2024-05-18, 10:34:26](https://news.ycombinator.com/item?id=40397842) - [Tegelwippen](https://www.nk-tegelwippen.nl/)

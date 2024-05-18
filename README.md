@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-18, 12:19:25](https://news.ycombinator.com/item?id=40398394) - [Why a New Yorker Story on a Notorious Murder Case Is Blocked in Britain](https://www.nytimes.com/2024/05/16/world/europe/new-yorker-story-murder-letby-britain.html)
 * [2024-05-18, 11:10:20](https://news.ycombinator.com/item?id=40398002) - [Australian War Crime Whistleblower David McBride Sentenced to Jail](https://www.youtube.com/watch?v=VrFs2_uhz-o)
 * [2024-05-18, 10:34:26](https://news.ycombinator.com/item?id=40397842) - [Tegelwippen](https://www.nk-tegelwippen.nl/)
 * [2024-05-18, 10:28:04](https://news.ycombinator.com/item?id=40397823) - [Seven Dyson Sphere Candidates](https://www.centauri-dreams.org/2024/05/18/seven-dyson-sphere-candidates/)
@@ -15,9 +16,8 @@
 * [2024-05-17, 23:44:10](https://news.ycombinator.com/item?id=40395234) - [wxHexEditor — a Free Hex Editor / Disk Editor for Huge Files or Devices](http://www.wxhexeditor.org/)
 * [2024-05-17, 23:25:32](https://news.ycombinator.com/item?id=40395107) - [Multi AI agent systems using OpenAI's assistants API](https://github.com/metaskills/experts)
 * [2024-05-17, 18:55:02](https://news.ycombinator.com/item?id=40393121) - [OpenAI departures: Why can’t former employees talk?](https://www.vox.com/future-perfect/2024/5/17/24158478/openai-departures-sam-altman-employees-chatgpt-release)
+* [2024-05-17, 18:16:14](https://news.ycombinator.com/item?id=40392709) - [Thinking out loud about 2nd-gen email](https://gabrielsieben.tech/2024/05/17/thinking-out-loud-2nd-gen-email/)
 * [2024-05-17, 17:59:22](https://news.ycombinator.com/item?id=40392548) - [Show HN: I built a website to create financial models for any stock online](https://www.useequityval.com/)
-* [2024-05-17, 15:15:11](https://news.ycombinator.com/item?id=40390820) - [A Trial HIV Vaccine Triggered Elusive and Essential Antibodies in Humans](https://corporate.dukehealth.org/news/trial-hiv-vaccine-triggered-elusive-and-essential-antibodies-humans)
-* [2024-05-17, 15:09:15](https://news.ycombinator.com/item?id=40390751) - [The Beauty of Concrete](https://worksinprogress.co/issue/the-beauty-of-concrete/)
 * [2024-05-17, 14:23:44](https://news.ycombinator.com/item?id=40390287) - [Bend: a high-level language that runs on GPUs (via HVM2)](https://github.com/HigherOrderCO/Bend)
 * [2024-05-17, 13:04:06](https://news.ycombinator.com/item?id=40389445) - [Toon3D: Seeing cartoons from a new perspective](https://toon3d.studio/)
 * [2024-05-17, 13:00:55](https://news.ycombinator.com/item?id=40389421) - [LoRA Learns Less and Forgets Less](https://arxiv.org/abs/2405.09673)
