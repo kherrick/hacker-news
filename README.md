@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-18, 18:32:10](https://news.ycombinator.com/item?id=40400982) - [Delete Your Slack Workspace](https://coryd.dev/posts/2024/delete-your-slack-workspace/)
 * [2024-05-18, 17:48:55](https://news.ycombinator.com/item?id=40400635) - [Show HN: A Golang CP/M emulator](https://github.com/skx/cpmulator)
+* [2024-05-18, 17:41:50](https://news.ycombinator.com/item?id=40400591) - [Frozen human brain tissue was successfully revived for the first time](https://bgr.com/science/frozen-human-brain-tissue-was-successfully-revived-for-the-first-time/)
 * [2024-05-18, 17:16:09](https://news.ycombinator.com/item?id=40400438) - [International Scientific Report on the Safety of Advanced AI [pdf]](https://assets.publishing.service.gov.uk/media/66474eab4f29e1d07fadca3d/international_scientific_report_on_the_safety_of_advanced_ai_interim_report.pdf)
+* [2024-05-18, 16:50:13](https://news.ycombinator.com/item?id=40400291) - [OpenAI Scraps Team That Researched Risk of 'Rogue' AI](https://www.businessinsider.com/openai-ends-superalignment-team-manage-ai-risks-2024-5)
 * [2024-05-18, 16:21:23](https://news.ycombinator.com/item?id=40400139) - [I organized a 20-acre game of Capture the Flag](https://www.ntnbr.com/61/)
 * [2024-05-18, 15:53:56](https://news.ycombinator.com/item?id=40399987) - [Free, Linux Capable, Self-Hosting 64bit RISC-V Computer on an FPGA](https://www.contrib.andrew.cmu.edu/~somlo/BTCP/)
 * [2024-05-18, 15:49:32](https://news.ycombinator.com/item?id=40399958) - [French post office releases scratch-and-sniff baguette stamp](https://www.theguardian.com/artanddesign/article/2024/may/17/french-post-office-releases-scratch-and-sniff-baguette-stamp)
@@ -26,7 +27,6 @@
 * [2024-05-17, 12:43:14](https://news.ycombinator.com/item?id=40389267) - [Non-Euclidean Doom: what happens to a game when pi is not 3.14159 (2022) [video]](https://media.ccc.de/v/mch2022-236-non-euclidean-doom-what-happens-to-a-game-when-pi-is-not-3-14159-)
 * [2024-05-17, 07:24:02](https://news.ycombinator.com/item?id=40387318) - [ADSL works over wet string (2017)](https://www.revk.uk/2017/12/its-official-adsl-works-over-wet-string.html)
 * [2024-05-16, 15:52:53](https://news.ycombinator.com/item?id=40379833) - [Ubershaders: A Ridiculous Solution to an Impossible Problem (2017)](https://dolphin-emu.org/blog/2017/07/30/ubershaders/)
-* [2024-05-16, 14:54:25](https://news.ycombinator.com/item?id=40379175) - [Computer scientists invent an efficient new way to count](https://www.quantamagazine.org/computer-scientists-invent-an-efficient-new-way-to-count-20240516/)
 * [2024-05-16, 13:48:45](https://news.ycombinator.com/item?id=40378433) - [Wuffs: Wrangling Untrusted File Formats Safely](https://github.com/google/wuffs)
 * [2024-05-15, 17:39:55](https://news.ycombinator.com/item?id=40370031) - [The New 'Dream Chaser' Spacecraft Prepares to Visit the ISS](https://www.scientificamerican.com/article/the-new-dream-chaser-spacecraft-prepares-to-visit-the-international-space/)
 * [2024-05-15, 14:40:04](https://news.ycombinator.com/item?id=40367566) - [Aggregating all cinema showtimes in Germany with Clojure](https://tonsky.me/blog/allekinos/)
