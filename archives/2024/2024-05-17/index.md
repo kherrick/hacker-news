@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-17](index.md)
 
+* [2024-05-17, 23:44:10](https://news.ycombinator.com/item?id=40395234) - [wxHexEditor — a Free Hex Editor / Disk Editor for Huge Files or Devices](http://www.wxhexeditor.org/)
 * [2024-05-17, 23:25:32](https://news.ycombinator.com/item?id=40395107) - [Multi AI Agent Systems Using OpenAI's New GPT-4o Model](https://github.com/metaskills/experts)
 * [2024-05-17, 22:52:16](https://news.ycombinator.com/item?id=40394902) - [\"Outrageously\" priced weight-loss drugs could bankrupt US health care](https://arstechnica.com/science/2024/05/outrageously-priced-weight-loss-drugs-could-bankrupt-us-health-care/)
 * [2024-05-17, 22:49:55](https://news.ycombinator.com/item?id=40394885) - [Wine 9.9 (Dev) – Run Windows Applications on Linux, BSD, Solaris and macOS](https://gitlab.winehq.org/wine/wine/-/releases/wine-9.9)
