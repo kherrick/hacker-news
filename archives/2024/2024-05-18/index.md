@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-18](index.md)
 
+* [2024-05-18, 21:03:39](https://news.ycombinator.com/item?id=40402091) - [Sam Altman on opeanai non disparagement exit clause](https://x.com/sama/status/1791936857594581428)
 * [2024-05-18, 21:01:25](https://news.ycombinator.com/item?id=40402076) - [Streak (YC W22) is hiring a staff web UI engineer (remote)](https://www.streak.com/careers/staff-ui-engineer)
 * [2024-05-18, 20:08:17](https://news.ycombinator.com/item?id=40401661) - [Swiss' Entire Boeing 777 Fleet Now Has Shark Skin Technology](https://simpleflying.com/swiss-entire-boeing-777-fleet-aeroshark/)
 * [2024-05-18, 19:53:27](https://news.ycombinator.com/item?id=40401539) - [Neural network trained on 'Friends' can detect sarcasm 75% of the time](https://www.popsci.com/technology/sarcasm-algorithm/)
@@ -19,6 +20,7 @@
 * [2024-05-18, 18:43:27](https://news.ycombinator.com/item?id=40401060) - [Show HN: Peanut Butter Spinner](https://cdaringe.com/peanut-butter-spinner/)
 * [2024-05-18, 18:32:10](https://news.ycombinator.com/item?id=40400982) - [Delete Your Slack Workspace](https://coryd.dev/posts/2024/delete-your-slack-workspace/)
 * [2024-05-18, 18:04:59](https://news.ycombinator.com/item?id=40400775) - [Debian removes KeePassXC browser integration](https://github.com/keepassxreboot/keepassxc/issues/10725)
+* [2024-05-18, 17:50:10](https://news.ycombinator.com/item?id=40400648) - [Floor796](https://floor796.com/)
 * [2024-05-18, 17:48:55](https://news.ycombinator.com/item?id=40400635) - [Show HN: A Golang CP/M emulator](https://github.com/skx/cpmulator)
 * [2024-05-18, 17:47:33](https://news.ycombinator.com/item?id=40400627) - [Houston, We Have a Solution (2023)](https://worksinprogress.co/issue/houston-we-have-a-solution/)
 * [2024-05-18, 17:41:50](https://news.ycombinator.com/item?id=40400591) - [Frozen human brain tissue was successfully revived for the first time](https://bgr.com/science/frozen-human-brain-tissue-was-successfully-revived-for-the-first-time/)
