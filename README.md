@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-18, 21:43:25](https://news.ycombinator.com/item?id=40402366) - [Ask HN: I downloaded a malicious dmg file but did not open it. Am I infected?](https://news.ycombinator.com/item?id=40402366)
 * [2024-05-18, 21:03:39](https://news.ycombinator.com/item?id=40402091) - [Sam Altman on opeanai non disparagement exit clause](https://x.com/sama/status/1791936857594581428)
 * [2024-05-18, 21:01:25](https://news.ycombinator.com/item?id=40402076) - [Streak (YC W22) is hiring a staff web UI engineer (remote)](https://www.streak.com/careers/staff-ui-engineer)
 * [2024-05-18, 20:08:17](https://news.ycombinator.com/item?id=40401661) - [Swiss' Entire Boeing 777 Fleet Now Has Shark Skin Technology](https://simpleflying.com/swiss-entire-boeing-777-fleet-aeroshark/)
@@ -14,6 +13,7 @@
 * [2024-05-18, 15:53:56](https://news.ycombinator.com/item?id=40399987) - [A trustworthy, free (libre), Linux capable, self-hosting 64bit RISC-V computer](https://www.contrib.andrew.cmu.edu/~somlo/BTCP/)
 * [2024-05-18, 15:44:17](https://news.ycombinator.com/item?id=40399923) - [Noi: an AI-enhanced, customizable browser](https://github.com/lencx/Noi)
 * [2024-05-18, 15:00:17](https://news.ycombinator.com/item?id=40399577) - [OpenProject – open-source project management software](https://www.openproject.org/)
+* [2024-05-18, 12:24:34](https://news.ycombinator.com/item?id=40398420) - [Fixing the iterative damping interpolation in video games](https://blog.pkh.me/p/41-fixing-the-iterative-damping-interpolation-in-video-games.html)
 * [2024-05-18, 10:28:04](https://news.ycombinator.com/item?id=40397823) - [Seven Dyson Sphere Candidates](https://www.centauri-dreams.org/2024/05/18/seven-dyson-sphere-candidates/)
 * [2024-05-18, 09:38:08](https://news.ycombinator.com/item?id=40397637) - [Cyber Security: A pre-war reality check](https://berthub.eu/articles/posts/cyber-security-pre-war-reality-check/)
 * [2024-05-18, 08:46:59](https://news.ycombinator.com/item?id=40397442) - [Gio UI – Cross-platform GUI for Go](https://gioui.org/)
