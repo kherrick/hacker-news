@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-18](index.md)
 
+* [2024-05-18, 19:53:27](https://news.ycombinator.com/item?id=40401539) - [Neural network trained on 'Friends' can detect sarcasm 75% of the time](https://www.popsci.com/technology/sarcasm-algorithm/)
+* [2024-05-18, 19:47:33](https://news.ycombinator.com/item?id=40401496) - [Personality Changes Associated with Organ Transplants](https://www.mdpi.com/2673-3943/5/1/2)
 * [2024-05-18, 19:36:33](https://news.ycombinator.com/item?id=40401422) - [London Webcam](https://londonwebcam.co.uk/)
 * [2024-05-18, 19:28:46](https://news.ycombinator.com/item?id=40401374) - [A Teacher Did All He Could to Keep Kids Off Phones. He's Quitting in Frustration](https://www.msn.com/en-us/money/careers/a-teacher-did-all-he-could-to-keep-kids-off-phones-he-s-quitting-in-frustration/ar-BB1mCJ5q)
 * [2024-05-18, 19:19:39](https://news.ycombinator.com/item?id=40401315) - [Almost a quarter of kids aged 5-7 have smartphones](https://www.bbc.com/news/technology-68838029)
