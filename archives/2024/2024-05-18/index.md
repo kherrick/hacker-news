@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-18](index.md)
 
+* [2024-05-18, 18:43:27](https://news.ycombinator.com/item?id=40401060) - [Show HN: Peanut Butter Spinner](https://cdaringe.com/peanut-butter-spinner/)
 * [2024-05-18, 18:32:10](https://news.ycombinator.com/item?id=40400982) - [Delete Your Slack Workspace](https://coryd.dev/posts/2024/delete-your-slack-workspace/)
+* [2024-05-18, 18:04:59](https://news.ycombinator.com/item?id=40400775) - [Debian removes KeePassXC browser integration](https://github.com/keepassxreboot/keepassxc/issues/10725)
 * [2024-05-18, 17:48:55](https://news.ycombinator.com/item?id=40400635) - [Show HN: A Golang CP/M emulator](https://github.com/skx/cpmulator)
 * [2024-05-18, 17:41:50](https://news.ycombinator.com/item?id=40400591) - [Frozen human brain tissue was successfully revived for the first time](https://bgr.com/science/frozen-human-brain-tissue-was-successfully-revived-for-the-first-time/)
 * [2024-05-18, 17:16:09](https://news.ycombinator.com/item?id=40400438) - [International Scientific Report on the Safety of Advanced AI [pdf]](https://assets.publishing.service.gov.uk/media/66474eab4f29e1d07fadca3d/international_scientific_report_on_the_safety_of_advanced_ai_interim_report.pdf)
