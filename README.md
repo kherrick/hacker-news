@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-18, 06:15:05](https://news.ycombinator.com/item?id=40396818) - [GPT-4o hit 54% accuracy on CodeContests with AlphaCodium, up from 48% for GPT-4T](https://github.com/Codium-ai/AlphaCodium)
 * [2024-05-18, 05:21:12](https://news.ycombinator.com/item?id=40396601) - [Write Plain Text Files](https://sive.rs/plaintext)
 * [2024-05-18, 03:15:14](https://news.ycombinator.com/item?id=40396227) - [First proof that \"plunging regions\" exist around black holes in space](https://www.ox.ac.uk/news/2024-05-17-first-proof-plunging-regions-exist-around-black-holes-space)
 * [2024-05-18, 02:13:13](https://news.ycombinator.com/item?id=40396005) - [Zoraxy: Open-Source, All in one homelab network routing solution](https://zoraxy.arozos.com/)
@@ -18,7 +19,6 @@
 * [2024-05-17, 12:59:34](https://news.ycombinator.com/item?id=40389404) - [Ideas and Creativity (2019)](https://bastian.rieck.me/blog/2019/ideas/)
 * [2024-05-17, 12:43:14](https://news.ycombinator.com/item?id=40389267) - [Non-Euclidean Doom: what happens to a game when pi is not 3.14159 (2022) [video]](https://media.ccc.de/v/mch2022-236-non-euclidean-doom-what-happens-to-a-game-when-pi-is-not-3-14159-)
 * [2024-05-17, 11:19:29](https://news.ycombinator.com/item?id=40388655) - [HMT: Hierarchical Memory Transformer for Long Context Language Processing](https://arxiv.org/abs/2405.06067)
-* [2024-05-17, 09:26:37](https://news.ycombinator.com/item?id=40388013) - [Why neural networks struggle with the Game of Life (2020)](https://bdtechtalks.com/2020/09/16/deep-learning-game-of-life/)
 * [2024-05-17, 07:24:02](https://news.ycombinator.com/item?id=40387318) - [ADSL works over wet string (2017)](https://www.revk.uk/2017/12/its-official-adsl-works-over-wet-string.html)
 * [2024-05-16, 19:19:16](https://news.ycombinator.com/item?id=40382056) - [Show HN: Drivr – VR with real vehicles [video]](https://www.youtube.com/watch?v=Q76X0cnSGHk)
 * [2024-05-16, 15:52:53](https://news.ycombinator.com/item?id=40379833) - [Ubershaders: A Ridiculous Solution to an Impossible Problem (2017)](https://dolphin-emu.org/blog/2017/07/30/ubershaders/)

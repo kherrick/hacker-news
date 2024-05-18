@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-18](index.md)
 
+* [2024-05-18, 06:15:05](https://news.ycombinator.com/item?id=40396818) - [GPT-4o hit 54% accuracy on CodeContests with AlphaCodium, up from 48% for GPT-4T](https://github.com/Codium-ai/AlphaCodium)
 * [2024-05-18, 05:21:12](https://news.ycombinator.com/item?id=40396601) - [Write Plain Text Files](https://sive.rs/plaintext)
 * [2024-05-18, 03:15:14](https://news.ycombinator.com/item?id=40396227) - [First proof that \"plunging regions\" exist around black holes in space](https://www.ox.ac.uk/news/2024-05-17-first-proof-plunging-regions-exist-around-black-holes-space)
 * [2024-05-18, 03:09:38](https://news.ycombinator.com/item?id=40396212) - [The Time I Convinced the CTO Not to Outsource Our Developers](https://GrumpyOldDev.com/post/the-one-where-i-convince-the-cto-not-to-outsource/)
