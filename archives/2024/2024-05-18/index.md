@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-05-18](index.md)
 
+* [2024-05-18, 16:21:23](https://news.ycombinator.com/item?id=40400139) - [I organized a 20-acre game of Capture the Flag](https://www.ntnbr.com/61/)
 * [2024-05-18, 16:14:49](https://news.ycombinator.com/item?id=40400101) - [A word game I built to understand semantic distance](https://celestineplawrence.itch.io/guess-the-word)
 * [2024-05-18, 16:05:36](https://news.ycombinator.com/item?id=40400052) - [Japan: The Land That Doesn't Need Ozempic](https://time.com/6974579/japan-food-culture-low-obesity/)
+* [2024-05-18, 15:53:56](https://news.ycombinator.com/item?id=40399987) - [Free, Linux Capable, Self-Hosting 64bit RISC-V Computer on an FPGA](https://www.contrib.andrew.cmu.edu/~somlo/BTCP/)
 * [2024-05-18, 15:49:32](https://news.ycombinator.com/item?id=40399958) - [French post office releases scratch-and-sniff baguette stamp](https://www.theguardian.com/artanddesign/article/2024/may/17/french-post-office-releases-scratch-and-sniff-baguette-stamp)
 * [2024-05-18, 15:44:17](https://news.ycombinator.com/item?id=40399923) - [Noi: an AI-enhanced, customizable browser](https://github.com/lencx/Noi)
 * [2024-05-18, 15:37:19](https://news.ycombinator.com/item?id=40399880) - [Apple enters the generative AI race](https://english.elpais.com/technology/2024-05-18/apple-enters-the-generative-ai-race.html)
