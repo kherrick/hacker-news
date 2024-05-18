@@ -59,6 +59,7 @@
 * [2024-05-15, 15:10:21](https://news.ycombinator.com/item?id=40367991) - [Autism and PTSD Are Vulnerably Linked](https://neurosciencenews.com/asd-ptsd-neuroscience-26067/)
 * [2024-05-15, 14:52:37](https://news.ycombinator.com/item?id=40367743) - [I'm Sticking with Native iOS Development](https://riveralabs.com/posts/native_ios_development/)
 * [2024-05-15, 14:45:30](https://news.ycombinator.com/item?id=40367642) - [The Beginning of the End of Private Cars in American Cities](https://thenewurbanorder.substack.com/p/the-beginning-of-the-end-of-private)
+* [2024-05-15, 14:40:04](https://news.ycombinator.com/item?id=40367566) - [Aggregating all cinema showtimes in Germany with Clojure](https://tonsky.me/blog/allekinos/)
 * [2024-05-15, 14:33:32](https://news.ycombinator.com/item?id=40367488) - [Show HN: I made a Chrome extension to clean up your Gmail inbox locally](https://www.inboxpurge.com/)
 * [2024-05-15, 14:29:58](https://news.ycombinator.com/item?id=40367444) - [Boilerplate busting in functional languages](https://lambdaland.org/posts/2024-05-01_definitely_not_about_monads/)
 * [2024-05-15, 14:22:05](https://news.ycombinator.com/item?id=40367331) - [Apple announces new accessibility features, including Eye Tracking](https://www.apple.com/newsroom/2024/05/apple-announces-new-accessibility-features-including-eye-tracking/)

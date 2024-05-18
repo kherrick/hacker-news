@@ -25,11 +25,11 @@
 * [2024-05-17, 07:24:02](https://news.ycombinator.com/item?id=40387318) - [ADSL works over wet string (2017)](https://www.revk.uk/2017/12/its-official-adsl-works-over-wet-string.html)
 * [2024-05-16, 15:52:53](https://news.ycombinator.com/item?id=40379833) - [Ubershaders: A Ridiculous Solution to an Impossible Problem (2017)](https://dolphin-emu.org/blog/2017/07/30/ubershaders/)
 * [2024-05-16, 15:09:21](https://news.ycombinator.com/item?id=40379347) - [Exact binary vector search for RAG in 100 lines of Julia](https://domluna.com/blog/tiny-binary-rag)
-* [2024-05-16, 14:54:25](https://news.ycombinator.com/item?id=40379175) - [Computer scientists invent an efficient new way to count](https://www.quantamagazine.org/computer-scientists-invent-an-efficient-new-way-to-count-20240516/)
 * [2024-05-16, 13:48:45](https://news.ycombinator.com/item?id=40378433) - [Wuffs: Wrangling Untrusted File Formats Safely](https://github.com/google/wuffs)
 * [2024-05-16, 03:03:41](https://news.ycombinator.com/item?id=40374815) - [Scholars discover rare 16th-century tome with handwritten notes by John Milton](https://arstechnica.com/culture/2024/05/john-miltons-handwritten-notes-make-this-16th-century-history-book-a-rare-find/)
 * [2024-05-15, 18:40:59](https://news.ycombinator.com/item?id=40370729) - [A Man with an Impossible Memory](https://www.newyorker.com/books/page-turner/the-mystery-of-s-the-man-with-an-impossible-memory)
 * [2024-05-15, 17:39:55](https://news.ycombinator.com/item?id=40370031) - [The New 'Dream Chaser' Spacecraft Prepares to Visit the ISS](https://www.scientificamerican.com/article/the-new-dream-chaser-spacecraft-prepares-to-visit-the-international-space/)
+* [2024-05-15, 14:40:04](https://news.ycombinator.com/item?id=40367566) - [Aggregating all cinema showtimes in Germany with Clojure](https://tonsky.me/blog/allekinos/)
 
 ## [Archives](archives/index.md)
 
