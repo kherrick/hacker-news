@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-18, 17:48:55](https://news.ycombinator.com/item?id=40400635) - [Show HN: A Golang CP/M emulator](https://github.com/skx/cpmulator)
 * [2024-05-18, 17:16:09](https://news.ycombinator.com/item?id=40400438) - [International Scientific Report on the Safety of Advanced AI [pdf]](https://assets.publishing.service.gov.uk/media/66474eab4f29e1d07fadca3d/international_scientific_report_on_the_safety_of_advanced_ai_interim_report.pdf)
 * [2024-05-18, 16:21:23](https://news.ycombinator.com/item?id=40400139) - [I organized a 20-acre game of Capture the Flag](https://www.ntnbr.com/61/)
 * [2024-05-18, 15:53:56](https://news.ycombinator.com/item?id=40399987) - [Free, Linux Capable, Self-Hosting 64bit RISC-V Computer on an FPGA](https://www.contrib.andrew.cmu.edu/~somlo/BTCP/)
-* [2024-05-18, 15:52:47](https://news.ycombinator.com/item?id=40399982) - [AI Is Taking over Accounting Jobs as People Leave the Profession](https://www.forbes.com/sites/jackkelly/2024/05/17/ai-taking-over-accounting-jobs/)
 * [2024-05-18, 15:49:32](https://news.ycombinator.com/item?id=40399958) - [French post office releases scratch-and-sniff baguette stamp](https://www.theguardian.com/artanddesign/article/2024/may/17/french-post-office-releases-scratch-and-sniff-baguette-stamp)
 * [2024-05-18, 15:44:17](https://news.ycombinator.com/item?id=40399923) - [Noi: an AI-enhanced, customizable browser](https://github.com/lencx/Noi)
 * [2024-05-18, 15:00:17](https://news.ycombinator.com/item?id=40399577) - [OpenProject – open-source project management software](https://www.openproject.org/)
