@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-18](index.md)
 
+* [2024-05-18, 09:55:34](https://news.ycombinator.com/item?id=40397692) - [38% of webpages that existed in 2013 are no longer accessible a decade later](https://www.pewresearch.org/data-labs/2024/05/17/when-online-content-disappears/)
+* [2024-05-18, 09:12:14](https://news.ycombinator.com/item?id=40397555) - [Malleable software in the age of LLMs (2023)](https://www.geoffreylitt.com/2023/03/25/llm-end-user-programming.html)
 * [2024-05-18, 09:01:18](https://news.ycombinator.com/item?id=40397507) - [DOJ: Man sentenced to 14 years for posession of deepfake CSAM](https://www.justice.gov/opa/pr/recidivist-sex-offender-sentenced-possessing-deepfake-child-sexual-abuse-material)
 * [2024-05-18, 08:46:59](https://news.ycombinator.com/item?id=40397442) - [Gio UI – Cross-Platform GUI for Go](https://gioui.org/)
 * [2024-05-18, 07:00:31](https://news.ycombinator.com/item?id=40396989) - [Truemetrics (YC S23) is hiring a back end engineer](https://www.ycombinator.com/companies/truemetrics/jobs/CyhEPcE-python-developer-with-strong-backend-and-aws-and-data-skills)

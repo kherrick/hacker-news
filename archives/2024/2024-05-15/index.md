@@ -28,6 +28,7 @@
 * [2024-05-15, 19:34:14](https://news.ycombinator.com/item?id=40371341) - [40% of US lithium needs could come from wastewater](https://www.pitt.edu/pittwire/features-articles/gas-well-wastewater-lithium)
 * [2024-05-15, 19:24:47](https://news.ycombinator.com/item?id=40371237) - [PaliGemma: Open-Source Multimodal Model by Google](https://blog.roboflow.com/paligemma-multimodal-vision/)
 * [2024-05-15, 18:47:41](https://news.ycombinator.com/item?id=40370816) - [I'm leaving OpenAI after 3½ yrs](https://twitter.com/E0M/status/1790814866695143696)
+* [2024-05-15, 18:40:59](https://news.ycombinator.com/item?id=40370729) - [A Man with an Impossible Memory](https://www.newyorker.com/books/page-turner/the-mystery-of-s-the-man-with-an-impossible-memory)
 * [2024-05-15, 18:33:05](https://news.ycombinator.com/item?id=40370646) - [The evolution of a Scheme programmer (2020)](https://erkin.party/blog/200715/evolution/)
 * [2024-05-15, 18:32:53](https://news.ycombinator.com/item?id=40370644) - [Make a game with Hoot for the Lisp Game Jam](https://spritely.institute/news/make-a-game-with-hoot-for-the-lisp-game-jam.html)
 * [2024-05-15, 18:29:36](https://news.ycombinator.com/item?id=40370613) - [An Empirical Evaluation of Columnar Storage Formats [pdf]](https://www.vldb.org/pvldb/vol17/p148-zeng.pdf)
