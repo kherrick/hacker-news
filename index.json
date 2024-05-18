@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-05-18, 13:37:13",
-      "https://news.ycombinator.com/item?id=40398966"
-    ],
-    [
-      "Case study: €115,100 from 8,750 Transactions in 3 Days, Showcasing payments",
-      "https://blog.btcpayserver.org/case-study-bitcoin-atlantis/"
-    ]
-  ],
-  [
-    [
       "2024-05-18, 12:19:25",
       "https://news.ycombinator.com/item?id=40398394"
     ],
@@ -25,7 +15,7 @@
       "https://news.ycombinator.com/item?id=40398002"
     ],
     [
-      "Australian War Crime Whistleblower David McBride Sentenced to Jail",
+      "If you’re seeing this, I’m in jail [video]",
       "https://www.youtube.com/watch?v=VrFs2_uhz-o"
     ]
   ],
@@ -75,7 +65,7 @@
       "https://news.ycombinator.com/item?id=40397789"
     ],
     [
-      "NetBSD Bans AI-Generated Code from Commits",
+      "LLM-generated code must not be committed without prior written approval by core",
       "https://www.netbsd.org/developers/commit-guidelines.html"
     ]
   ],
@@ -257,6 +247,16 @@
     [
       "Exact binary vector search for RAG in 100 lines of Julia",
       "https://domluna.com/blog/tiny-binary-rag"
+    ]
+  ],
+  [
+    [
+      "2024-05-16, 14:54:25",
+      "https://news.ycombinator.com/item?id=40379175"
+    ],
+    [
+      "Computer scientists invent an efficient new way to count",
+      "https://www.quantamagazine.org/computer-scientists-invent-an-efficient-new-way-to-count-20240516/"
     ]
   ],
   [
