@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-18, 03:15:14](https://news.ycombinator.com/item?id=40396227) - [First proof that \"plunging regions\" exist around black holes in space](https://www.ox.ac.uk/news/2024-05-17-first-proof-plunging-regions-exist-around-black-holes-space)
+* [2024-05-18, 03:09:38](https://news.ycombinator.com/item?id=40396212) - [The Time I Convinced the CTO Not to Outsource Our Developers](https://GrumpyOldDev.com/post/the-one-where-i-convince-the-cto-not-to-outsource/)
 * [2024-05-18, 02:13:13](https://news.ycombinator.com/item?id=40396005) - [Zoraxy: Open-Source, All in one homelab network routing solution](https://zoraxy.arozos.com/)
 * [2024-05-17, 23:25:32](https://news.ycombinator.com/item?id=40395107) - [Multi AI agent systems using OpenAI's assistants API](https://github.com/metaskills/experts)
-* [2024-05-17, 21:54:04](https://news.ycombinator.com/item?id=40394524) - [I'm Bearish OpenAI](https://stovetop.substack.com/p/im-bearish-openai)
 * [2024-05-17, 20:25:40](https://news.ycombinator.com/item?id=40393873) - [ILGPU: Write GPU programs with C# and F#](https://github.com/m4rs-mt/ILGPU)
 * [2024-05-17, 18:55:02](https://news.ycombinator.com/item?id=40393121) - [OpenAI departures: Why can’t former employees talk?](https://www.vox.com/future-perfect/2024/5/17/24158478/openai-departures-sam-altman-employees-chatgpt-release)
 * [2024-05-17, 18:16:14](https://news.ycombinator.com/item?id=40392709) - [Thinking out loud about 2nd-gen email](https://gabrielsieben.tech/2024/05/17/thinking-out-loud-2nd-gen-email/)
