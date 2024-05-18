@@ -1,22 +1,32 @@
 [
   [
     [
+      "2024-05-18, 19:53:27",
+      "https://news.ycombinator.com/item?id=40401539"
+    ],
+    [
+      "Neural network trained on 'Friends' can detect sarcasm 75% of the time",
+      "https://www.popsci.com/technology/sarcasm-algorithm/"
+    ]
+  ],
+  [
+    [
+      "2024-05-18, 19:47:33",
+      "https://news.ycombinator.com/item?id=40401496"
+    ],
+    [
+      "Personality Changes Associated with Organ Transplants",
+      "https://www.mdpi.com/2673-3943/5/1/2"
+    ]
+  ],
+  [
+    [
       "2024-05-18, 19:36:33",
       "https://news.ycombinator.com/item?id=40401422"
     ],
     [
       "London Webcam",
       "https://londonwebcam.co.uk/"
-    ]
-  ],
-  [
-    [
-      "2024-05-18, 19:28:46",
-      "https://news.ycombinator.com/item?id=40401374"
-    ],
-    [
-      "A Teacher Did All He Could to Keep Kids Off Phones. He's Quitting in Frustration",
-      "https://www.msn.com/en-us/money/careers/a-teacher-did-all-he-could-to-keep-kids-off-phones-he-s-quitting-in-frustration/ar-BB1mCJ5q"
     ]
   ],
   [
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=40401161"
     ],
     [
-      "Days Since It Was DNS",
+      "Days since it was DNS",
       "https://dayssince.itwasdns.net/"
     ]
   ],
@@ -81,6 +91,16 @@
   ],
   [
     [
+      "2024-05-18, 17:16:09",
+      "https://news.ycombinator.com/item?id=40400438"
+    ],
+    [
+      "International Scientific Report on the Safety of Advanced AI [pdf]",
+      "https://assets.publishing.service.gov.uk/media/66474eab4f29e1d07fadca3d/international_scientific_report_on_the_safety_of_advanced_ai_interim_report.pdf"
+    ]
+  ],
+  [
+    [
       "2024-05-18, 16:21:23",
       "https://news.ycombinator.com/item?id=40400139"
     ],
@@ -91,11 +111,21 @@
   ],
   [
     [
+      "2024-05-18, 16:05:36",
+      "https://news.ycombinator.com/item?id=40400052"
+    ],
+    [
+      "Japan: The land that doesn't need Ozempic",
+      "https://time.com/6974579/japan-food-culture-low-obesity/"
+    ]
+  ],
+  [
+    [
       "2024-05-18, 15:53:56",
       "https://news.ycombinator.com/item?id=40399987"
     ],
     [
-      "Free, Linux Capable, Self-Hosting 64bit RISC-V Computer on an FPGA",
+      "A trustworthy, free (libre), Linux capable, self-hosting 64bit RISC-V computer",
       "https://www.contrib.andrew.cmu.edu/~somlo/BTCP/"
     ]
   ],
@@ -151,11 +181,21 @@
   ],
   [
     [
+      "2024-05-18, 10:28:04",
+      "https://news.ycombinator.com/item?id=40397823"
+    ],
+    [
+      "Seven Dyson Sphere Candidates",
+      "https://www.centauri-dreams.org/2024/05/18/seven-dyson-sphere-candidates/"
+    ]
+  ],
+  [
+    [
       "2024-05-18, 09:38:08",
       "https://news.ycombinator.com/item?id=40397637"
     ],
     [
-      "Cyber Security: A Pre-War Reality Check",
+      "Cyber Security: A pre-war reality check",
       "https://berthub.eu/articles/posts/cyber-security-pre-war-reality-check/"
     ]
   ],
@@ -175,7 +215,7 @@
       "https://news.ycombinator.com/item?id=40397442"
     ],
     [
-      "Gio UI – Cross-Platform GUI for Go",
+      "Gio UI – Cross-platform GUI for Go",
       "https://gioui.org/"
     ]
   ],
@@ -191,32 +231,12 @@
   ],
   [
     [
-      "2024-05-18, 03:15:14",
-      "https://news.ycombinator.com/item?id=40396227"
-    ],
-    [
-      "First proof that \"plunging regions\" exist around black holes in space",
-      "https://www.ox.ac.uk/news/2024-05-17-first-proof-plunging-regions-exist-around-black-holes-space"
-    ]
-  ],
-  [
-    [
       "2024-05-18, 02:13:13",
       "https://news.ycombinator.com/item?id=40396005"
     ],
     [
       "Zoraxy: Open-Source, All in one homelab network routing solution",
       "https://zoraxy.arozos.com/"
-    ]
-  ],
-  [
-    [
-      "2024-05-17, 18:55:02",
-      "https://news.ycombinator.com/item?id=40393121"
-    ],
-    [
-      "OpenAI departures: Why can’t former employees talk?",
-      "https://www.vox.com/future-perfect/2024/5/17/24158478/openai-departures-sam-altman-employees-chatgpt-release"
     ]
   ],
   [
@@ -231,12 +251,12 @@
   ],
   [
     [
-      "2024-05-17, 14:23:44",
-      "https://news.ycombinator.com/item?id=40390287"
+      "2024-05-17, 15:09:15",
+      "https://news.ycombinator.com/item?id=40390751"
     ],
     [
-      "Bend: a high-level language that runs on GPUs (via HVM2)",
-      "https://github.com/HigherOrderCO/Bend"
+      "The beauty of concrete",
+      "https://worksinprogress.co/issue/the-beauty-of-concrete/"
     ]
   ],
   [
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2024-05-16, 15:52:53",
-      "https://news.ycombinator.com/item?id=40379833"
-    ],
-    [
-      "Ubershaders: A Ridiculous Solution to an Impossible Problem (2017)",
-      "https://dolphin-emu.org/blog/2017/07/30/ubershaders/"
-    ]
-  ],
-  [
-    [
       "2024-05-16, 13:48:45",
       "https://news.ycombinator.com/item?id=40378433"
     ],
     [
       "Wuffs: Wrangling Untrusted File Formats Safely",
       "https://github.com/google/wuffs"
-    ]
-  ],
-  [
-    [
-      "2024-05-15, 17:39:55",
-      "https://news.ycombinator.com/item?id=40370031"
-    ],
-    [
-      "The New 'Dream Chaser' Spacecraft Prepares to Visit the ISS",
-      "https://www.scientificamerican.com/article/the-new-dream-chaser-spacecraft-prepares-to-visit-the-international-space/"
     ]
   ],
   [
