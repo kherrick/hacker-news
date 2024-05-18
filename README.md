@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-18, 21:03:39](https://news.ycombinator.com/item?id=40402091) - [Sam Altman on opeanai non disparagement exit clause](https://x.com/sama/status/1791936857594581428)
+* [2024-05-18, 22:16:12](https://news.ycombinator.com/item?id=40402557) - [Dwarf Fortress starting during apt-get upgrade](https://askubuntu.com/questions/938606/dwarf-fortress-starting-during-apt-get-upgrade)
 * [2024-05-18, 21:01:25](https://news.ycombinator.com/item?id=40402076) - [Streak (YC W22) is hiring a staff web UI engineer (remote)](https://www.streak.com/careers/staff-ui-engineer)
+* [2024-05-18, 20:22:18](https://news.ycombinator.com/item?id=40401777) - [Disabling Modernism](https://placesjournal.org/article/modernist-schools-for-disabled-children-new-deal-era/)
 * [2024-05-18, 20:08:17](https://news.ycombinator.com/item?id=40401661) - [Swiss' Entire Boeing 777 Fleet Now Has Shark Skin Technology](https://simpleflying.com/swiss-entire-boeing-777-fleet-aeroshark/)
 * [2024-05-18, 19:24:17](https://news.ycombinator.com/item?id=40401343) - [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)
 * [2024-05-18, 18:43:27](https://news.ycombinator.com/item?id=40401060) - [Show HN: Peanut Butter Spinner](https://cdaringe.com/peanut-butter-spinner/)
@@ -28,7 +29,6 @@
 * [2024-05-17, 06:23:19](https://news.ycombinator.com/item?id=40387013) - [Sitting on the Art](https://aeon.co/essays/furniture-can-be-a-ripely-ambiguous-artform-of-its-own)
 * [2024-05-16, 21:18:57](https://news.ycombinator.com/item?id=40383324) - [On hoot, on boot](https://wingolog.org/archives/2024/05/16/on-hoot-on-boot)
 * [2024-05-16, 10:35:45](https://news.ycombinator.com/item?id=40376857) - [Ask HN: SaaS Subscription or Usage-Based Pricing?](https://news.ycombinator.com/item?id=40376857)
-* [2024-05-15, 22:00:04](https://news.ycombinator.com/item?id=40372933) - [Levitation and dynamics of bodies in supersaturated fluids](https://www.nature.com/articles/s41467-024-47672-z)
 * [2024-05-15, 14:40:04](https://news.ycombinator.com/item?id=40367566) - [Aggregating all cinema showtimes in Germany with Clojure](https://tonsky.me/blog/allekinos/)
 
 ## [Archives](archives/index.md)
