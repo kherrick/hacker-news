@@ -48,6 +48,7 @@
 * [2024-05-16, 16:18:32](https://news.ycombinator.com/item?id=40380137) - [We've All Felt It](https://www.raycast.com/why)
 * [2024-05-16, 16:07:15](https://news.ycombinator.com/item?id=40380016) - [Photobox – Free Open Source Google Photos Clone](https://www.photobox.dev/)
 * [2024-05-16, 16:05:48](https://news.ycombinator.com/item?id=40379996) - [Mummy Brown](https://en.wikipedia.org/wiki/Mummy_brown)
+* [2024-05-16, 16:05:04](https://news.ycombinator.com/item?id=40379987) - [Analyzing Prolific HN Commenters in Real Time](https://github.com/bytewax/hacking-hacker-news)
 * [2024-05-16, 16:04:47](https://news.ycombinator.com/item?id=40379982) - [Build WebGPU Apps Today with PlayCanvas](https://blog.playcanvas.com/build-webgpu-apps-today-with-playcanvas/)
 * [2024-05-16, 15:52:53](https://news.ycombinator.com/item?id=40379833) - [Ubershaders: A Ridiculous Solution to an Impossible Problem (2017)](https://dolphin-emu.org/blog/2017/07/30/ubershaders/)
 * [2024-05-16, 15:30:49](https://news.ycombinator.com/item?id=40379599) - [ChatGPT-4o vs. Math](https://www.sabrina.dev/p/chatgpt4o-vs-math)
