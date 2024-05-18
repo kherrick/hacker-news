@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-18, 21:03:39](https://news.ycombinator.com/item?id=40402091) - [Sam Altman on opeanai non disparagement exit clause](https://x.com/sama/status/1791936857594581428)
 * [2024-05-18, 21:01:25](https://news.ycombinator.com/item?id=40402076) - [Streak (YC W22) is hiring a staff web UI engineer (remote)](https://www.streak.com/careers/staff-ui-engineer)
 * [2024-05-18, 20:11:22](https://news.ycombinator.com/item?id=40401695) - [Show HN: Abusing a GitHub repo as a private certificate authority](https://github.com/andrewmbenton/ca)
 * [2024-05-18, 20:08:17](https://news.ycombinator.com/item?id=40401661) - [Swiss' Entire Boeing 777 Fleet Now Has Shark Skin Technology](https://simpleflying.com/swiss-entire-boeing-777-fleet-aeroshark/)
@@ -15,6 +16,7 @@
 * [2024-05-18, 15:00:17](https://news.ycombinator.com/item?id=40399577) - [OpenProject – open-source project management software](https://www.openproject.org/)
 * [2024-05-18, 10:28:04](https://news.ycombinator.com/item?id=40397823) - [Seven Dyson Sphere Candidates](https://www.centauri-dreams.org/2024/05/18/seven-dyson-sphere-candidates/)
 * [2024-05-18, 09:38:08](https://news.ycombinator.com/item?id=40397637) - [Cyber Security: A pre-war reality check](https://berthub.eu/articles/posts/cyber-security-pre-war-reality-check/)
+* [2024-05-18, 09:12:14](https://news.ycombinator.com/item?id=40397555) - [Malleable software in the age of LLMs (2023)](https://www.geoffreylitt.com/2023/03/25/llm-end-user-programming.html)
 * [2024-05-18, 08:46:59](https://news.ycombinator.com/item?id=40397442) - [Gio UI – Cross-platform GUI for Go](https://gioui.org/)
 * [2024-05-18, 06:15:34](https://news.ycombinator.com/item?id=40396819) - [Transforming the National Gallery, one painting at a time](https://www.apollo-magazine.com/peter-schade-national-gallery-london-framing-frames-interview/)
 * [2024-05-18, 01:59:06](https://news.ycombinator.com/item?id=40395945) - [The Myth of Panic (2021)](https://www.palladiummag.com/2021/07/15/the-myth-of-panic/)
@@ -22,13 +24,11 @@
 * [2024-05-17, 20:51:52](https://news.ycombinator.com/item?id=40394104) - [Hashing Modulo Theories](https://www.philipzucker.com/hashing-modulo/)
 * [2024-05-17, 17:30:26](https://news.ycombinator.com/item?id=40392302) - [500-year-old maths problem turns out to apply to coffee and clocks](https://www.newscientist.com/article/2430522-500-year-old-maths-problem-turns-out-to-apply-to-coffee-and-clocks/)
 * [2024-05-17, 16:00:26](https://news.ycombinator.com/item?id=40391290) - [Scrabble, Anonymous](https://www.theparisreview.org/blog/2024/05/15/scrabble-anonymous/)
-* [2024-05-17, 15:50:04](https://news.ycombinator.com/item?id=40391175) - [The Natural Selection of Bad Vibes](https://kevindorst.substack.com/p/the-natural-selection-of-bad-vibes)
 * [2024-05-17, 15:09:15](https://news.ycombinator.com/item?id=40390751) - [The beauty of concrete](https://worksinprogress.co/issue/the-beauty-of-concrete/)
 * [2024-05-17, 06:52:30](https://news.ycombinator.com/item?id=40387163) - [Previsualization for Feature Films (1998)](http://www.stagetools.com/previs.htm)
 * [2024-05-17, 06:23:19](https://news.ycombinator.com/item?id=40387013) - [Sitting on the Art](https://aeon.co/essays/furniture-can-be-a-ripely-ambiguous-artform-of-its-own)
 * [2024-05-16, 21:18:57](https://news.ycombinator.com/item?id=40383324) - [On hoot, on boot](https://wingolog.org/archives/2024/05/16/on-hoot-on-boot)
 * [2024-05-16, 10:35:45](https://news.ycombinator.com/item?id=40376857) - [Ask HN: SaaS Subscription or Usage-Based Pricing?](https://news.ycombinator.com/item?id=40376857)
-* [2024-05-15, 17:39:13](https://news.ycombinator.com/item?id=40370023) - [Racing driverless cars is pushing autonomous technology](https://www.cnn.com/world/driverless-car-race-abu-dhabi-spc/index.html)
 * [2024-05-15, 14:40:04](https://news.ycombinator.com/item?id=40367566) - [Aggregating all cinema showtimes in Germany with Clojure](https://tonsky.me/blog/allekinos/)
 
 ## [Archives](archives/index.md)
