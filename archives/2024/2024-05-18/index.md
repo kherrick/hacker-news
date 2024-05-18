@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-18](index.md)
 
+* [2024-05-18, 15:49:32](https://news.ycombinator.com/item?id=40399958) - [French post office releases scratch-and-sniff baguette stamp](https://www.theguardian.com/artanddesign/article/2024/may/17/french-post-office-releases-scratch-and-sniff-baguette-stamp)
 * [2024-05-18, 15:00:17](https://news.ycombinator.com/item?id=40399577) - [OpenProject – open-source project management software](https://www.openproject.org/)
 * [2024-05-18, 14:25:26](https://news.ycombinator.com/item?id=40399327) - [Mercedes EQXX Record Drive: Riyadh to Dubai Single Charge 1000+ km Range [video]](https://www.youtube.com/watch?v=7bP-WnL9RXM)
 * [2024-05-18, 13:37:13](https://news.ycombinator.com/item?id=40398966) - [Case study: €115,100 from 8,750 Transactions in 3 Days, Showcasing payments](https://blog.btcpayserver.org/case-study-bitcoin-atlantis/)
