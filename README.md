@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-18, 02:34:45](https://news.ycombinator.com/item?id=40396105) - [Over 1k vulns that MITRE and NIST 'might' have missed but China or Russia didn't](https://blog.arpsyndicate.io/over-a-1000-vulnerabilities-that-mitre-nist-might-have-missed-but-china-or-russia-did-not-871b2364a526)
 * [2024-05-18, 01:04:33](https://news.ycombinator.com/item?id=40395686) - [Show HN: GitHub – I tried to build AWS S3 from scratch](https://github.com/anthonybudd/s3-from-scratch)
 * [2024-05-17, 23:25:32](https://news.ycombinator.com/item?id=40395107) - [Multi AI Agent Systems Using OpenAI's New GPT-4o Model](https://github.com/metaskills/experts)
 * [2024-05-17, 20:25:40](https://news.ycombinator.com/item?id=40393873) - [ILGPU: Write GPU programs with C# and F#](https://github.com/m4rs-mt/ILGPU)
@@ -22,6 +21,7 @@
 * [2024-05-17, 07:24:02](https://news.ycombinator.com/item?id=40387318) - [ADSL works over wet string (2017)](https://www.revk.uk/2017/12/its-official-adsl-works-over-wet-string.html)
 * [2024-05-16, 19:19:16](https://news.ycombinator.com/item?id=40382056) - [Show HN: Drivr – VR with real vehicles [video]](https://www.youtube.com/watch?v=Q76X0cnSGHk)
 * [2024-05-16, 15:52:53](https://news.ycombinator.com/item?id=40379833) - [Ubershaders: A Ridiculous Solution to an Impossible Problem (2017)](https://dolphin-emu.org/blog/2017/07/30/ubershaders/)
+* [2024-05-16, 15:24:19](https://news.ycombinator.com/item?id=40379532) - [Growing sodium chloride crystals at home](https://crystalverse.com/sodium-chloride-crystals/)
 * [2024-05-16, 15:09:21](https://news.ycombinator.com/item?id=40379347) - [Exact binary vector search for RAG in 100 lines of Julia](https://domluna.com/blog/tiny-binary-rag)
 * [2024-05-16, 14:54:25](https://news.ycombinator.com/item?id=40379175) - [Computer scientists invent an efficient new way to count](https://www.quantamagazine.org/computer-scientists-invent-an-efficient-new-way-to-count-20240516/)
 * [2024-05-16, 14:35:28](https://news.ycombinator.com/item?id=40378993) - [Third Time: a better way to work (2022)](https://www.lesswrong.com/posts/RWu8eZqbwgB9zaerh/third-time-a-better-way-to-work)
