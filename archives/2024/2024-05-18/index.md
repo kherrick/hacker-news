@@ -11,6 +11,7 @@
 * [2024-05-18, 10:56:24](https://news.ycombinator.com/item?id=40397925) - [Conviction of Tornado Cash programmer: Privacy is not a crime](https://www.patrick-breyer.de/en/conviction-of-tornado-cash-programmer-privacy-is-not-a-crime/)
 * [2024-05-18, 10:44:25](https://news.ycombinator.com/item?id=40397882) - [Six charts help to explain 2024's freakish temperatures](https://www.economist.com/graphic-detail/2024/05/15/six-charts-help-to-explain-2024s-freakish-temperatures)
 * [2024-05-18, 10:34:26](https://news.ycombinator.com/item?id=40397842) - [Tegelwippen](https://www.nk-tegelwippen.nl/)
+* [2024-05-18, 10:30:27](https://news.ycombinator.com/item?id=40397834) - [Working with jumbo/unity builds in C/C++](https://austinmorlan.com/posts/unity_jumbo_build/)
 * [2024-05-18, 10:28:04](https://news.ycombinator.com/item?id=40397823) - [Seven Dyson Sphere Candidates](https://www.centauri-dreams.org/2024/05/18/seven-dyson-sphere-candidates/)
 * [2024-05-18, 10:24:19](https://news.ycombinator.com/item?id=40397806) - [Ilya Sutskever: “If you learn all of these, you’ll know 90% of what matters”](https://www.reddit.com/r/ArtificialInteligence/comments/1cpbh1s/ilya_sutskever_if_you_really_learn_all_of_these/)
 * [2024-05-18, 10:21:01](https://news.ycombinator.com/item?id=40397789) - [NetBSD Bans AI-Generated Code from Commits](https://www.netbsd.org/developers/commit-guidelines.html)
