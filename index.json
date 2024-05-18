@@ -21,32 +21,22 @@
   ],
   [
     [
-      "2024-05-18, 11:10:20",
-      "https://news.ycombinator.com/item?id=40398002"
-    ],
-    [
-      "If you’re seeing this, I’m in jail [video]",
-      "https://www.youtube.com/watch?v=VrFs2_uhz-o"
-    ]
-  ],
-  [
-    [
-      "2024-05-18, 10:44:25",
-      "https://news.ycombinator.com/item?id=40397882"
-    ],
-    [
-      "Six charts help to explain 2024's freakish temperatures",
-      "https://www.economist.com/graphic-detail/2024/05/15/six-charts-help-to-explain-2024s-freakish-temperatures"
-    ]
-  ],
-  [
-    [
       "2024-05-18, 10:34:26",
       "https://news.ycombinator.com/item?id=40397842"
     ],
     [
       "Tegelwippen",
       "https://www.nk-tegelwippen.nl/"
+    ]
+  ],
+  [
+    [
+      "2024-05-18, 10:30:27",
+      "https://news.ycombinator.com/item?id=40397834"
+    ],
+    [
+      "Working with jumbo/unity builds in C/C++",
+      "https://austinmorlan.com/posts/unity_jumbo_build/"
     ]
   ],
   [
@@ -67,26 +57,6 @@
     [
       "LLM-generated code must not be committed without prior written approval by core",
       "https://www.netbsd.org/developers/commit-guidelines.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-18, 10:15:30",
-      "https://news.ycombinator.com/item?id=40397769"
-    ],
-    [
-      "Rebuilding my homelab: Suffering as a service",
-      "https://xeiaso.net/blog/2024/homelab-v2/"
-    ]
-  ],
-  [
-    [
-      "2024-05-18, 09:55:34",
-      "https://news.ycombinator.com/item?id=40397692"
-    ],
-    [
-      "38% of webpages that existed in 2013 are no longer accessible a decade later",
-      "https://www.pewresearch.org/data-labs/2024/05/17/when-online-content-disappears/"
     ]
   ],
   [
@@ -191,6 +161,16 @@
   ],
   [
     [
+      "2024-05-17, 15:09:15",
+      "https://news.ycombinator.com/item?id=40390751"
+    ],
+    [
+      "The Beauty of Concrete",
+      "https://worksinprogress.co/issue/the-beauty-of-concrete/"
+    ]
+  ],
+  [
+    [
       "2024-05-17, 14:23:44",
       "https://news.ycombinator.com/item?id=40390287"
     ],
@@ -207,6 +187,16 @@
     [
       "Toon3D: Seeing cartoons from a new perspective",
       "https://toon3d.studio/"
+    ]
+  ],
+  [
+    [
+      "2024-05-17, 13:00:55",
+      "https://news.ycombinator.com/item?id=40389421"
+    ],
+    [
+      "LoRA Learns Less and Forgets Less",
+      "https://arxiv.org/abs/2405.09673"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Exact binary vector search for RAG in 100 lines of Julia",
       "https://domluna.com/blog/tiny-binary-rag"
+    ]
+  ],
+  [
+    [
+      "2024-05-16, 14:54:25",
+      "https://news.ycombinator.com/item?id=40379175"
+    ],
+    [
+      "Computer scientists invent an efficient new way to count",
+      "https://www.quantamagazine.org/computer-scientists-invent-an-efficient-new-way-to-count-20240516/"
     ]
   ],
   [
