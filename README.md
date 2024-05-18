@@ -18,6 +18,7 @@
 * [2024-05-17, 12:43:14](https://news.ycombinator.com/item?id=40389267) - [Non-Euclidean Doom: what happens to a game when pi is not 3.14159 (2022) [video]](https://media.ccc.de/v/mch2022-236-non-euclidean-doom-what-happens-to-a-game-when-pi-is-not-3-14159-)
 * [2024-05-17, 11:19:29](https://news.ycombinator.com/item?id=40388655) - [HMT: Hierarchical Memory Transformer for Long Context Language Processing](https://arxiv.org/abs/2405.06067)
 * [2024-05-17, 09:26:37](https://news.ycombinator.com/item?id=40388013) - [Why neural networks struggle with the Game of Life (2020)](https://bdtechtalks.com/2020/09/16/deep-learning-game-of-life/)
+* [2024-05-17, 08:57:51](https://news.ycombinator.com/item?id=40387812) - [How to read C type declarations (2003)](http://www.unixwiz.net/techtips/reading-cdecl.html)
 * [2024-05-17, 07:24:02](https://news.ycombinator.com/item?id=40387318) - [ADSL works over wet string (2017)](https://www.revk.uk/2017/12/its-official-adsl-works-over-wet-string.html)
 * [2024-05-16, 19:19:16](https://news.ycombinator.com/item?id=40382056) - [Show HN: Drivr – VR with real vehicles [video]](https://www.youtube.com/watch?v=Q76X0cnSGHk)
 * [2024-05-16, 15:52:53](https://news.ycombinator.com/item?id=40379833) - [Ubershaders: A Ridiculous Solution to an Impossible Problem (2017)](https://dolphin-emu.org/blog/2017/07/30/ubershaders/)
@@ -28,7 +29,6 @@
 * [2024-05-16, 13:48:45](https://news.ycombinator.com/item?id=40378433) - [Wuffs: Wrangling Untrusted File Formats Safely](https://github.com/google/wuffs)
 * [2024-05-16, 03:03:41](https://news.ycombinator.com/item?id=40374815) - [Scholars discover rare 16th-century tome with handwritten notes by John Milton](https://arstechnica.com/culture/2024/05/john-miltons-handwritten-notes-make-this-16th-century-history-book-a-rare-find/)
 * [2024-05-15, 22:23:07](https://news.ycombinator.com/item?id=40373139) - [The Unusual Evolutionary Journey of the Baobab Tree](https://www.nytimes.com/2024/05/15/science/baobab-trees-evolution.html)
-* [2024-05-15, 21:58:35](https://news.ycombinator.com/item?id=40372920) - [FBI seizes hacking forum BreachForums – again](https://techcrunch.com/2024/05/15/fbi-seizes-hacking-forum-breachforums-again/)
 * [2024-05-15, 17:39:55](https://news.ycombinator.com/item?id=40370031) - [The New 'Dream Chaser' Spacecraft Prepares to Visit the ISS](https://www.scientificamerican.com/article/the-new-dream-chaser-spacecraft-prepares-to-visit-the-international-space/)
 
 ## [Archives](archives/index.md)
