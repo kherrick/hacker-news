@@ -10,6 +10,7 @@
 * [2024-05-18, 16:14:49](https://news.ycombinator.com/item?id=40400101) - [A word game I built to understand semantic distance](https://celestineplawrence.itch.io/guess-the-word)
 * [2024-05-18, 16:05:36](https://news.ycombinator.com/item?id=40400052) - [Japan: The Land That Doesn't Need Ozempic](https://time.com/6974579/japan-food-culture-low-obesity/)
 * [2024-05-18, 15:53:56](https://news.ycombinator.com/item?id=40399987) - [Free, Linux Capable, Self-Hosting 64bit RISC-V Computer on an FPGA](https://www.contrib.andrew.cmu.edu/~somlo/BTCP/)
+* [2024-05-18, 15:52:47](https://news.ycombinator.com/item?id=40399982) - [AI Is Taking over Accounting Jobs as People Leave the Profession](https://www.forbes.com/sites/jackkelly/2024/05/17/ai-taking-over-accounting-jobs/)
 * [2024-05-18, 15:49:32](https://news.ycombinator.com/item?id=40399958) - [French post office releases scratch-and-sniff baguette stamp](https://www.theguardian.com/artanddesign/article/2024/may/17/french-post-office-releases-scratch-and-sniff-baguette-stamp)
 * [2024-05-18, 15:46:03](https://news.ycombinator.com/item?id=40399934) - [Zombie 2nd mortgages are coming to life, threatening 1000s of Americans' homes](https://text.npr.org/1197959049)
 * [2024-05-18, 15:44:17](https://news.ycombinator.com/item?id=40399923) - [Noi: an AI-enhanced, customizable browser](https://github.com/lencx/Noi)
