@@ -3,6 +3,7 @@
 * [2024-05-18, 03:15:14](https://news.ycombinator.com/item?id=40396227) - [First proof that \"plunging regions\" exist around black holes in space](https://www.ox.ac.uk/news/2024-05-17-first-proof-plunging-regions-exist-around-black-holes-space)
 * [2024-05-18, 02:13:13](https://news.ycombinator.com/item?id=40396005) - [Zoraxy: Open-Source, All in one homelab network routing solution](https://zoraxy.arozos.com/)
 * [2024-05-17, 23:25:32](https://news.ycombinator.com/item?id=40395107) - [Multi AI agent systems using OpenAI's assistants API](https://github.com/metaskills/experts)
+* [2024-05-17, 21:54:04](https://news.ycombinator.com/item?id=40394524) - [I'm Bearish OpenAI](https://stovetop.substack.com/p/im-bearish-openai)
 * [2024-05-17, 20:25:40](https://news.ycombinator.com/item?id=40393873) - [ILGPU: Write GPU programs with C# and F#](https://github.com/m4rs-mt/ILGPU)
 * [2024-05-17, 18:55:02](https://news.ycombinator.com/item?id=40393121) - [OpenAI departures: Why can’t former employees talk?](https://www.vox.com/future-perfect/2024/5/17/24158478/openai-departures-sam-altman-employees-chatgpt-release)
 * [2024-05-17, 18:16:14](https://news.ycombinator.com/item?id=40392709) - [Thinking out loud about 2nd-gen email](https://gabrielsieben.tech/2024/05/17/thinking-out-loud-2nd-gen-email/)
@@ -27,7 +28,6 @@
 * [2024-05-16, 14:04:25](https://news.ycombinator.com/item?id=40378628) - [Pacific squid flashes its attack 'headlights'](https://www.bbc.com/news/science-environment-69016405)
 * [2024-05-16, 13:48:45](https://news.ycombinator.com/item?id=40378433) - [Wuffs: Wrangling Untrusted File Formats Safely](https://github.com/google/wuffs)
 * [2024-05-16, 13:00:28](https://news.ycombinator.com/item?id=40377831) - [NetBSD bans use of Copilot-generated code](https://www.osnews.com/story/139698/netbsd-bans-use-of-copilot-generated-code/)
-* [2024-05-16, 11:32:52](https://news.ycombinator.com/item?id=40377122) - [An Animated QR Code of Bad Apple](https://a.exozy.me/posts/bad-apple-animated-qr-code/)
 * [2024-05-16, 03:03:41](https://news.ycombinator.com/item?id=40374815) - [Scholars discover rare 16th-century tome with handwritten notes by John Milton](https://arstechnica.com/culture/2024/05/john-miltons-handwritten-notes-make-this-16th-century-history-book-a-rare-find/)
 * [2024-05-15, 22:23:07](https://news.ycombinator.com/item?id=40373139) - [The Unusual Evolutionary Journey of the Baobab Tree](https://www.nytimes.com/2024/05/15/science/baobab-trees-evolution.html)
 

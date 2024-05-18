@@ -9,6 +9,7 @@
 * [2024-05-17, 22:49:55](https://news.ycombinator.com/item?id=40394885) - [Wine 9.9 (Dev) – Run Windows Applications on Linux, BSD, Solaris and macOS](https://gitlab.winehq.org/wine/wine/-/releases/wine-9.9)
 * [2024-05-17, 22:34:51](https://news.ycombinator.com/item?id=40394778) - [Ex-OpenAI staff must sign lifetime no-criticism contract or forfeit all equity](https://x.com/KelseyTuoc/status/1791584357184127269)
 * [2024-05-17, 22:18:07](https://news.ycombinator.com/item?id=40394670) - [Android 15 improves standby battery life by up to 3 hours on some devices](https://www.androidauthority.com/android-15-standby-battery-life-3444566/)
+* [2024-05-17, 21:54:04](https://news.ycombinator.com/item?id=40394524) - [I'm Bearish OpenAI](https://stovetop.substack.com/p/im-bearish-openai)
 * [2024-05-17, 21:16:36](https://news.ycombinator.com/item?id=40394291) - [The Delta Emulator is changing its logo after Adobe threatened it](https://www.theverge.com/2024/5/17/24159268/delta-emulator-logo-change-app)
 * [2024-05-17, 21:14:31](https://news.ycombinator.com/item?id=40394277) - [Expedia Group fired their CTO, Rathi Murthy](https://www.phocuswire.com/rathi-murthy-expedia-group-cto)
 * [2024-05-17, 21:06:16](https://news.ycombinator.com/item?id=40394220) - [VW and Renault end talks to develop affordable EV](https://www.reuters.com/business/autos-transportation/vw-renault-end-talks-develop-affordable-ev-sources-say-2024-05-17/)
