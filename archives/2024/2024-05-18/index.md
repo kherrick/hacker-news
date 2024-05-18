@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-05-18](index.md)
 
 * [2024-05-18, 19:02:01](https://news.ycombinator.com/item?id=40401198) - [Woman Stuck in Tesla for 40 Mins During Vehicle Update](https://www.ibtimes.co.uk/woman-stuck-tesla-40-minutes-115-degrees-temperature-during-vehicle-update-1724678)
+* [2024-05-18, 18:56:10](https://news.ycombinator.com/item?id=40401161) - [Days Since It Was DNS](https://dayssince.itwasdns.net/)
+* [2024-05-18, 18:45:30](https://news.ycombinator.com/item?id=40401076) - [Psychedelics could treat some of the worst chronic pain in the world](https://www.vox.com/future-perfect/2024/5/15/24156372/psychedelics-chronic-pain-cluster-headache-medicine-lsd-psilocybin)
 * [2024-05-18, 18:43:27](https://news.ycombinator.com/item?id=40401060) - [Show HN: Peanut Butter Spinner](https://cdaringe.com/peanut-butter-spinner/)
 * [2024-05-18, 18:32:10](https://news.ycombinator.com/item?id=40400982) - [Delete Your Slack Workspace](https://coryd.dev/posts/2024/delete-your-slack-workspace/)
 * [2024-05-18, 18:04:59](https://news.ycombinator.com/item?id=40400775) - [Debian removes KeePassXC browser integration](https://github.com/keepassxreboot/keepassxc/issues/10725)
