@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-18](index.md)
 
+* [2024-05-18, 17:16:09](https://news.ycombinator.com/item?id=40400438) - [International Scientific Report on the Safety of Advanced AI [pdf]](https://assets.publishing.service.gov.uk/media/66474eab4f29e1d07fadca3d/international_scientific_report_on_the_safety_of_advanced_ai_interim_report.pdf)
+* [2024-05-18, 16:38:17](https://news.ycombinator.com/item?id=40400224) - [Sam and Greg's response to OpenAI Safety researcher claims](https://x.com/gdb/status/1791869138132218351)
 * [2024-05-18, 16:21:23](https://news.ycombinator.com/item?id=40400139) - [I organized a 20-acre game of Capture the Flag](https://www.ntnbr.com/61/)
 * [2024-05-18, 16:14:49](https://news.ycombinator.com/item?id=40400101) - [A word game I built to understand semantic distance](https://celestineplawrence.itch.io/guess-the-word)
 * [2024-05-18, 16:05:36](https://news.ycombinator.com/item?id=40400052) - [Japan: The Land That Doesn't Need Ozempic](https://time.com/6974579/japan-food-culture-low-obesity/)
@@ -11,6 +13,7 @@
 * [2024-05-18, 15:49:32](https://news.ycombinator.com/item?id=40399958) - [French post office releases scratch-and-sniff baguette stamp](https://www.theguardian.com/artanddesign/article/2024/may/17/french-post-office-releases-scratch-and-sniff-baguette-stamp)
 * [2024-05-18, 15:44:17](https://news.ycombinator.com/item?id=40399923) - [Noi: an AI-enhanced, customizable browser](https://github.com/lencx/Noi)
 * [2024-05-18, 15:37:19](https://news.ycombinator.com/item?id=40399880) - [Apple enters the generative AI race](https://english.elpais.com/technology/2024-05-18/apple-enters-the-generative-ai-race.html)
+* [2024-05-18, 15:09:46](https://news.ycombinator.com/item?id=40399662) - [BenQ RD280UA: a 3:2 aspect ratio \"programming monitor\"](https://www.benq.com/en-us/monitor/programming/rd280ua.html)
 * [2024-05-18, 15:00:17](https://news.ycombinator.com/item?id=40399577) - [OpenProject – open-source project management software](https://www.openproject.org/)
 * [2024-05-18, 14:25:26](https://news.ycombinator.com/item?id=40399327) - [Mercedes EQXX Record Drive: Riyadh to Dubai Single Charge 1000+ km Range [video]](https://www.youtube.com/watch?v=7bP-WnL9RXM)
 * [2024-05-18, 13:37:13](https://news.ycombinator.com/item?id=40398966) - [Case study: €115,100 from 8,750 Transactions in 3 Days, Showcasing payments](https://blog.btcpayserver.org/case-study-bitcoin-atlantis/)
