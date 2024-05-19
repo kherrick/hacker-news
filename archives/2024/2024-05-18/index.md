@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-18](index.md)
 
 * [2024-05-18, 23:38:32](https://news.ycombinator.com/item?id=40402986) - [Is there a regular expression to detect a valid regular expression?](https://stackoverflow.com/questions/172303/is-there-a-regular-expression-to-detect-a-valid-regular-expression)
+* [2024-05-18, 23:37:16](https://news.ycombinator.com/item?id=40402975) - [Intel undercut a standards body to give us the PCI connector](https://spectrum.ieee.org/intel-pci-history)
 * [2024-05-18, 23:28:07](https://news.ycombinator.com/item?id=40402931) - [Petosemtamab Receives FDA Breakthrough Therapy Designation: Head / Neck Cancers](https://www.onclive.com/view/petosemtamab-receives-fda-breakthrough-therapy-designation-in-pretreated-hnscc)
 * [2024-05-18, 23:21:40](https://news.ycombinator.com/item?id=40402903) - [Windows 11 now supports 7-zip and TAR files, finally](https://www.xda-developers.com/windows-11-native-7-zip-tar-support/)
 * [2024-05-18, 23:10:31](https://news.ycombinator.com/item?id=40402838) - [Common Data Structures in Common Lisp](https://blog.djhaskin.com/blog/common-data-structures-in-common-lisp/)
