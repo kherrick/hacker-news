@@ -81,6 +81,7 @@
 * [2024-05-18, 08:46:59](https://news.ycombinator.com/item?id=40397442) - [Gio UI – Cross-Platform GUI for Go](https://gioui.org/)
 * [2024-05-18, 08:15:11](https://news.ycombinator.com/item?id=40397284) - [A kids traffic mat in Elm](https://matiasklemola.com/liikennematto-devlog-five)
 * [2024-05-18, 07:06:10](https://news.ycombinator.com/item?id=40397015) - [China Builds First Dedicated Drone Carrier](https://www.navalnews.com/naval-news/2024/05/china-builds-worlds-first-dedicated-drone-carrier/)
+* [2024-05-18, 07:04:04](https://news.ycombinator.com/item?id=40397002) - [Building a Waitlist (The Wrong Way)](https://jrhizor.dev/posts/building-a-waitlist-the-wrong-way/)
 * [2024-05-18, 07:03:15](https://news.ycombinator.com/item?id=40397000) - [Ken Silverman's Official Home Page](http://advsys.net/ken/)
 * [2024-05-18, 07:00:31](https://news.ycombinator.com/item?id=40396989) - [Truemetrics (YC S23) is hiring a back end engineer](https://www.ycombinator.com/companies/truemetrics/jobs/CyhEPcE-python-developer-with-strong-backend-and-aws-and-data-skills)
 * [2024-05-18, 06:15:34](https://news.ycombinator.com/item?id=40396819) - [Transforming the National Gallery, one painting at a time](https://www.apollo-magazine.com/peter-schade-national-gallery-london-framing-frames-interview/)
