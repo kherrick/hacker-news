@@ -65,6 +65,7 @@
 * [2024-05-18, 12:52:14](https://news.ycombinator.com/item?id=40398609) - [Men's Shirts Button on the Right. Why Do Women's Button on the Left?](https://www.smithsonianmag.com/smart-news/mens-shirts-button-on-the-right-why-do-womens-button-on-the-left-180957361/)
 * [2024-05-18, 12:24:34](https://news.ycombinator.com/item?id=40398420) - [Fixing the iterative damping interpolation in video games](https://blog.pkh.me/p/41-fixing-the-iterative-damping-interpolation-in-video-games.html)
 * [2024-05-18, 12:19:25](https://news.ycombinator.com/item?id=40398394) - [Why a New Yorker Story on a Notorious Murder Case Is Blocked in Britain](https://www.nytimes.com/2024/05/16/world/europe/new-yorker-story-murder-letby-britain.html)
+* [2024-05-18, 11:29:03](https://news.ycombinator.com/item?id=40398094) - [Sorry, Wrong Number](https://www.roads.org.uk/blog/sorry-wrong-number)
 * [2024-05-18, 11:10:20](https://news.ycombinator.com/item?id=40398002) - [Australian War Crime Whistleblower David McBride Sentenced to Jail](https://www.youtube.com/watch?v=VrFs2_uhz-o)
 * [2024-05-18, 10:56:24](https://news.ycombinator.com/item?id=40397925) - [Conviction of Tornado Cash programmer: Privacy is not a crime](https://www.patrick-breyer.de/en/conviction-of-tornado-cash-programmer-privacy-is-not-a-crime/)
 * [2024-05-18, 10:44:25](https://news.ycombinator.com/item?id=40397882) - [Six charts help to explain 2024's freakish temperatures](https://www.economist.com/graphic-detail/2024/05/15/six-charts-help-to-explain-2024s-freakish-temperatures)
