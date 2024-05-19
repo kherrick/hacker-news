@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-05-19, 20:54:08",
-      "https://news.ycombinator.com/item?id=40409671"
-    ],
-    [
-      "The Toilet Theory of the Internet",
-      "https://www.theatlantic.com/technology/archive/2024/05/google-generative-ai-search-toilet-theory/678411/"
-    ]
-  ],
-  [
-    [
       "2024-05-19, 20:39:12",
       "https://news.ycombinator.com/item?id=40409588"
     ],
@@ -55,7 +45,7 @@
       "https://news.ycombinator.com/item?id=40409509"
     ],
     [
-      "North Korea's bizarre, post-modern cityscapes",
+      "North Korea's post-modern cityscapes",
       "https://www.reuters.com/pictures/architecture-control-north-koreas-bizarre-post-modern-cityscapes-2024-05-19/"
     ]
   ],
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=40409405"
     ],
     [
-      "Stanford CS231n: Convolutional Neural Networks for Visual Recognition",
+      "Convolutional Neural Networks for Visual Recognition",
       "https://cs231n.github.io/"
     ]
   ],
@@ -97,6 +87,16 @@
     [
       "Llama3 implemented from scratch",
       "https://github.com/naklecha/llama3-from-scratch"
+    ]
+  ],
+  [
+    [
+      "2024-05-19, 17:51:41",
+      "https://news.ycombinator.com/item?id=40408515"
+    ],
+    [
+      "Ask HN: Video streaming is expensive yet YouTube \"seems\" to do it for free. How?",
+      "https://news.ycombinator.com/item?id=40408515"
     ]
   ],
   [
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2024-05-18, 20:31:11",
+      "https://news.ycombinator.com/item?id=40401852"
+    ],
+    [
+      "When the movies went west (2018)",
+      "https://longreads.com/2018/05/15/when-the-movies-went-west/"
+    ]
+  ],
+  [
+    [
       "2024-05-18, 19:24:17",
       "https://news.ycombinator.com/item?id=40401343"
     ],
@@ -287,16 +297,6 @@
     [
       "Commuter train window cleaning conundrum in NJ",
       "https://www.nj.com/news/2024/05/why-you-cant-see-out-the-window-on-some-nj-transit-trains.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-18, 10:30:27",
-      "https://news.ycombinator.com/item?id=40397834"
-    ],
-    [
-      "Working with jumbo/unity builds in C/C++",
-      "https://austinmorlan.com/posts/unity_jumbo_build/"
     ]
   ]
 ]
