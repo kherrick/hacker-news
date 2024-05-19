@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-19, 14:00:56](https://news.ycombinator.com/item?id=40407032) - [An attorney says she saw her library reading habits reflected in mobile ads](https://www.theregister.com/2024/05/18/mystery_of_the_targeted_mobile_ads/)
 * [2024-05-19, 12:00:25](https://news.ycombinator.com/item?id=40406344) - [Show HN: Digital player board for Terraforming Mars](https://terraforming-mars-player-board.netlify.app/)
 * [2024-05-19, 11:33:43](https://news.ycombinator.com/item?id=40406194) - [Compilers for Free with Weval](https://bernsteinbear.com/blog/weval/)
 * [2024-05-19, 10:08:37](https://news.ycombinator.com/item?id=40405763) - [You could have invented fractional cascading](http://blog.ezyang.com/2012/03/you-could-have-invented-fractional-cascading/)
@@ -15,6 +14,7 @@
 * [2024-05-19, 03:18:04](https://news.ycombinator.com/item?id=40403962) - [Is artificial consciousness achievable? Lessons from the human brain](https://arxiv.org/abs/2405.04540)
 * [2024-05-19, 02:30:20](https://news.ycombinator.com/item?id=40403715) - [Mathematicians and the Selection Task (2004)](https://eric.ed.gov/?id=ED489556)
 * [2024-05-19, 01:58:42](https://news.ycombinator.com/item?id=40403569) - [Michelle's List: A free, anonymous landlord review site](https://www.michelleslist.com/)
+* [2024-05-19, 01:42:26](https://news.ycombinator.com/item?id=40403492) - [UNM Researchers Find Microplastics in Canine and Human Testicular Tissue](https://hsc.unm.edu/news/2024/05/hsc-newsroom-post-microplastics-testicular.html)
 * [2024-05-18, 23:37:16](https://news.ycombinator.com/item?id=40402975) - [Intel undercut a standards body to give us the PCI connector](https://spectrum.ieee.org/intel-pci-history)
 * [2024-05-18, 19:24:17](https://news.ycombinator.com/item?id=40401343) - [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)
 * [2024-05-18, 18:43:27](https://news.ycombinator.com/item?id=40401060) - [Show HN: Peanut Butter Spinner](https://cdaringe.com/peanut-butter-spinner/)
