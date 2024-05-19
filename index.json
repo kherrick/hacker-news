@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-05-18, 23:38:32",
-      "https://news.ycombinator.com/item?id=40402986"
+      "2024-05-18, 23:28:07",
+      "https://news.ycombinator.com/item?id=40402931"
     ],
     [
-      "Is there a regular expression to detect a valid regular expression?",
-      "https://stackoverflow.com/questions/172303/is-there-a-regular-expression-to-detect-a-valid-regular-expression"
+      "Petosemtamab Receives FDA Breakthrough Therapy Designation: Head / Neck Cancers",
+      "https://www.onclive.com/view/petosemtamab-receives-fda-breakthrough-therapy-designation-in-pretreated-hnscc"
+    ]
+  ],
+  [
+    [
+      "2024-05-18, 23:21:40",
+      "https://news.ycombinator.com/item?id=40402903"
+    ],
+    [
+      "Windows 11 now supports 7-zip and TAR files, finally",
+      "https://www.xda-developers.com/windows-11-native-7-zip-tar-support/"
     ]
   ],
   [
@@ -21,12 +31,12 @@
   ],
   [
     [
-      "2024-05-18, 22:16:12",
-      "https://news.ycombinator.com/item?id=40402557"
+      "2024-05-18, 22:46:24",
+      "https://news.ycombinator.com/item?id=40402712"
     ],
     [
-      "Dwarf Fortress starting during apt-get upgrade",
-      "https://askubuntu.com/questions/938606/dwarf-fortress-starting-during-apt-get-upgrade"
+      "Apache NuttX RTOS on Sophgo SG2000 RISC-V SoC (Milk-V Duo S SBC)",
+      "https://lupyuen.codeberg.page/articles/sg2000.html"
     ]
   ],
   [
@@ -61,12 +71,12 @@
   ],
   [
     [
-      "2024-05-18, 20:08:17",
-      "https://news.ycombinator.com/item?id=40401661"
+      "2024-05-18, 20:16:53",
+      "https://news.ycombinator.com/item?id=40401738"
     ],
     [
-      "Swiss' Entire Boeing 777 Fleet Now Has Shark Skin Technology",
-      "https://simpleflying.com/swiss-entire-boeing-777-fleet-aeroshark/"
+      "The Philosophy of Murder Ballads",
+      "https://wollenblog.substack.com/p/the-philosophy-of-murder-ballads"
     ]
   ],
   [
@@ -127,6 +137,16 @@
     [
       "Frozen human brain tissue was successfully revived for the first time",
       "https://bgr.com/science/frozen-human-brain-tissue-was-successfully-revived-for-the-first-time/"
+    ]
+  ],
+  [
+    [
+      "2024-05-18, 16:38:17",
+      "https://news.ycombinator.com/item?id=40400224"
+    ],
+    [
+      "Sam and Greg's response to OpenAI Safety researcher claims",
+      "https://twitter.com/gdb/status/1791869138132218351"
     ]
   ],
   [
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2024-05-17, 06:23:19",
-      "https://news.ycombinator.com/item?id=40387013"
-    ],
-    [
-      "Sitting on the Art",
-      "https://aeon.co/essays/furniture-can-be-a-ripely-ambiguous-artform-of-its-own"
-    ]
-  ],
-  [
-    [
       "2024-05-16, 21:18:57",
       "https://news.ycombinator.com/item?id=40383324"
     ],
     [
       "On hoot, on boot",
       "https://wingolog.org/archives/2024/05/16/on-hoot-on-boot"
-    ]
-  ],
-  [
-    [
-      "2024-05-16, 13:48:45",
-      "https://news.ycombinator.com/item?id=40378433"
-    ],
-    [
-      "Wuffs: Wrangling Untrusted File Formats Safely",
-      "https://github.com/google/wuffs"
     ]
   ],
   [
