@@ -11,6 +11,7 @@
 * [2024-05-18, 22:49:17](https://news.ycombinator.com/item?id=40402734) - [Go Browser Package](https://browser.dineshgowda.com/)
 * [2024-05-18, 22:46:24](https://news.ycombinator.com/item?id=40402712) - [Apache NuttX RTOS on Sophgo SG2000 RISC-V SoC (Milk-V Duo S SBC)](https://lupyuen.codeberg.page/articles/sg2000.html)
 * [2024-05-18, 22:31:49](https://news.ycombinator.com/item?id=40402641) - [OpenAI created a team to control 'superintelligent' AI – then let it wither](https://techcrunch.com/2024/05/18/openai-created-a-team-to-control-superintelligent-ai-then-let-it-wither-source-says/)
+* [2024-05-18, 22:21:44](https://news.ycombinator.com/item?id=40402585) - [A Hack of Psychotherapy Records Revealed a Nation's Secrets](https://www.bloomberg.com/news/features/2024-04-22/a-massive-therapy-hack-shows-just-how-unsafe-patients-files-can-be)
 * [2024-05-18, 22:16:12](https://news.ycombinator.com/item?id=40402557) - [Dwarf Fortress starting during apt-get upgrade](https://askubuntu.com/questions/938606/dwarf-fortress-starting-during-apt-get-upgrade)
 * [2024-05-18, 21:43:25](https://news.ycombinator.com/item?id=40402366) - [Ask HN: I downloaded a malicious dmg file but did not open it. Am I infected?](https://news.ycombinator.com/item?id=40402366)
 * [2024-05-18, 21:03:39](https://news.ycombinator.com/item?id=40402091) - [Sam Altman on opeanai non disparagement exit clause](https://x.com/sama/status/1791936857594581428)
