@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-19, 19:07:22](https://news.ycombinator.com/item?id=40409043) - [First Black astronaut candidate, now 90, reaches space in Blue Origin flight](https://www.theguardian.com/science/article/2024/may/19/ed-dwight-blue-origin-first-black-astronaut-candidate)
 * [2024-05-19, 18:42:06](https://news.ycombinator.com/item?id=40408880) - [Llama3 implemented from scratch](https://github.com/naklecha/llama3-from-scratch)
 * [2024-05-19, 17:51:41](https://news.ycombinator.com/item?id=40408515) - [Ask HN: Video streaming is expensive yet YouTube \"seems\" to do it for free. How?](https://news.ycombinator.com/item?id=40408515)
 * [2024-05-19, 17:15:29](https://news.ycombinator.com/item?id=40408291) - [Coding My Handwriting](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript)
 * [2024-05-19, 16:19:06](https://news.ycombinator.com/item?id=40407927) - [AI doppelgänger experiment – Part 1: The training](https://julienposture.substack.com/p/the-ai-doppelganger-experiment-part)
 * [2024-05-19, 16:13:35](https://news.ycombinator.com/item?id=40407884) - [A floppy disk MIDI boombox: The Yamaha MDP-10](https://nicole.express/2024/elementary-midi-watson.html)
-* [2024-05-19, 15:45:06](https://news.ycombinator.com/item?id=40407659) - [Italy's $12.7B Bridge to Sicily [video]](https://www.youtube.com/watch?v=wt1S46iqBAY)
 * [2024-05-19, 15:24:12](https://news.ycombinator.com/item?id=40407526) - [Make timelapses easily using FFmpeg](https://news.ycombinator.com/item?id=40407526)
 * [2024-05-19, 14:33:10](https://news.ycombinator.com/item?id=40407228) - [Swarming Proxima Centauri: Picospacecraft Swarms over Interstellar Distances](https://astrobiology.com/2024/05/swarming-proxima-centauri-coherent-picospacecraft-swarms-over-interstellar-distances.html)
 * [2024-05-19, 14:14:06](https://news.ycombinator.com/item?id=40407104) - [The Bel Language (2019)](https://sep.turbifycdn.com/ty/cdn/paulgraham/bellanguage.txt)

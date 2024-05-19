@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-19](index.md)
 
+* [2024-05-19, 19:07:22](https://news.ycombinator.com/item?id=40409043) - [First Black astronaut candidate, now 90, reaches space in Blue Origin flight](https://www.theguardian.com/science/article/2024/may/19/ed-dwight-blue-origin-first-black-astronaut-candidate)
 * [2024-05-19, 18:42:06](https://news.ycombinator.com/item?id=40408880) - [Llama3 implemented from scratch](https://github.com/naklecha/llama3-from-scratch)
 * [2024-05-19, 18:29:02](https://news.ycombinator.com/item?id=40408804) - [Slack users horrified to discover messages used for AI training](https://arstechnica.com/tech-policy/2024/05/slack-defends-default-opt-in-for-ai-training-on-chats-amid-user-outrage/)
 * [2024-05-19, 18:02:40](https://news.ycombinator.com/item?id=40408594) - [AI Regulations Are Crony Capitalism in Action](https://reason.com/2024/05/19/ais-cozy-crony-capitalism/)
