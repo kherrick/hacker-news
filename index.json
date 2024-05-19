@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-05-19, 22:52:01",
+      "https://news.ycombinator.com/item?id=40410341"
+    ],
+    [
+      "Hertz Charging a Tesla Renter for Gas Was Not an Isolated Incident",
+      "https://www.thedrive.com/news/hertz-charging-a-tesla-renter-for-gas-was-not-an-isolated-incident"
+    ]
+  ],
+  [
+    [
+      "2024-05-19, 22:16:25",
+      "https://news.ycombinator.com/item?id=40410158"
+    ],
+    [
+      "Ubuntu 24.10 to Default to Wayland for Nvidia Users",
+      "https://www.omgubuntu.co.uk/2024/05/ubuntu-24-10-wayland-nvidia"
+    ]
+  ],
+  [
+    [
       "2024-05-19, 21:08:17",
       "https://news.ycombinator.com/item?id=40409757"
     ],
@@ -47,6 +67,16 @@
     [
       "Convolutional Neural Networks for Visual Recognition",
       "https://cs231n.github.io/"
+    ]
+  ],
+  [
+    [
+      "2024-05-19, 20:01:29",
+      "https://news.ycombinator.com/item?id=40409388"
+    ],
+    [
+      "Teaching Algorithm Design: A Literature Review",
+      "https://arxiv.org/abs/2405.00832"
     ]
   ],
   [
@@ -171,6 +201,16 @@
   ],
   [
     [
+      "2024-05-19, 10:10:01",
+      "https://news.ycombinator.com/item?id=40405769"
+    ],
+    [
+      "Chess and 18th Century artificial intelligence (2013)",
+      "https://www.bbc.com/news/magazine-21876120"
+    ]
+  ],
+  [
+    [
       "2024-05-19, 09:30:16",
       "https://news.ycombinator.com/item?id=40405578"
     ],
@@ -211,32 +251,12 @@
   ],
   [
     [
-      "2024-05-18, 22:47:29",
-      "https://news.ycombinator.com/item?id=40402719"
-    ],
-    [
-      "Show HN: Brawshot – Basic temporal denoise for videos in BRAW format",
-      "https://github.com/hackyourlife/brawshot"
-    ]
-  ],
-  [
-    [
       "2024-05-18, 20:31:11",
       "https://news.ycombinator.com/item?id=40401852"
     ],
     [
       "When the movies went west (2018)",
       "https://longreads.com/2018/05/15/when-the-movies-went-west/"
-    ]
-  ],
-  [
-    [
-      "2024-05-18, 20:19:47",
-      "https://news.ycombinator.com/item?id=40401758"
-    ],
-    [
-      "The Ambling Mind",
-      "https://theconvivialsociety.substack.com/p/the-ambling-mind"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Commuter train window cleaning conundrum in NJ",
       "https://www.nj.com/news/2024/05/why-you-cant-see-out-the-window-on-some-nj-transit-trains.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-18, 10:30:27",
-      "https://news.ycombinator.com/item?id=40397834"
-    ],
-    [
-      "Working with jumbo/unity builds in C/C++",
-      "https://austinmorlan.com/posts/unity_jumbo_build/"
-    ]
-  ],
-  [
-    [
-      "2024-05-18, 08:15:11",
-      "https://news.ycombinator.com/item?id=40397284"
-    ],
-    [
-      "A kids traffic mat in Elm",
-      "https://matiasklemola.com/liikennematto-devlog-five"
     ]
   ]
 ]
