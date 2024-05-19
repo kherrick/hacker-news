@@ -17,6 +17,7 @@
 * [2024-05-18, 21:01:25](https://news.ycombinator.com/item?id=40402076) - [Streak (YC W22) is hiring a staff web UI engineer (remote)](https://www.streak.com/careers/staff-ui-engineer)
 * [2024-05-18, 20:25:43](https://news.ycombinator.com/item?id=40401803) - [On English Melancholy](https://thereader.mitpress.mit.edu/on-english-melancholy/)
 * [2024-05-18, 20:22:18](https://news.ycombinator.com/item?id=40401777) - [Disabling Modernism](https://placesjournal.org/article/modernist-schools-for-disabled-children-new-deal-era/)
+* [2024-05-18, 20:21:18](https://news.ycombinator.com/item?id=40401772) - [Anti-money laundering: the least effective policy experiment?](https://www.tandfonline.com/doi/full/10.1080/25741292.2020.1725366)
 * [2024-05-18, 20:16:53](https://news.ycombinator.com/item?id=40401738) - [The Philosophy of Murder Ballads](https://wollenblog.substack.com/p/the-philosophy-of-murder-ballads)
 * [2024-05-18, 20:11:22](https://news.ycombinator.com/item?id=40401695) - [Show HN: Abusing a GitHub repo as a private certificate authority](https://github.com/andrewmbenton/ca)
 * [2024-05-18, 20:08:17](https://news.ycombinator.com/item?id=40401661) - [Swiss' Entire Boeing 777 Fleet Now Has Shark Skin Technology](https://simpleflying.com/swiss-entire-boeing-777-fleet-aeroshark/)
