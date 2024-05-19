@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-05-19](index.md)
 
+* [2024-05-19, 16:19:06](https://news.ycombinator.com/item?id=40407927) - [Training my own AI to steal artists' styles](https://julienposture.substack.com/p/the-ai-doppelganger-experiment-part)
 * [2024-05-19, 15:52:41](https://news.ycombinator.com/item?id=40407709) - [Amazon Defends Its Use of Signal Messages in Court](https://www.geekwire.com/2024/nothing-to-see-here-amazon-tells-court-in-response-to-ftcs-complaints-about-signal-messages/)
 * [2024-05-19, 15:28:27](https://news.ycombinator.com/item?id=40407555) - [Zelda: Majora's Mask is now a native PC game, and every N64 title could follow](https://www.theverge.com/2024/5/13/24155636/n64-recompiled-port-nintendo-games-zelda-majoras-mask)
 * [2024-05-19, 15:24:36](https://news.ycombinator.com/item?id=40407530) - [President of Iran in Helicopter Crash](https://www.bbc.co.uk/news/live/world-middle-east-69035051)
 * [2024-05-19, 15:24:12](https://news.ycombinator.com/item?id=40407526) - [Make Timelapse easily using FFmpeg](https://news.ycombinator.com/item?id=40407526)
+* [2024-05-19, 15:15:59](https://news.ycombinator.com/item?id=40407478) - [Microsoft set to unveil its vision for AI PCs](https://www.cnbc.com/2024/05/19/microsoft-ai-pcs-build-2024.html)
 * [2024-05-19, 15:15:09](https://news.ycombinator.com/item?id=40407472) - [Nitrogen dioxide exposure due to gas and propane combustion by U.S. stoves](https://www.science.org/doi/10.1126/sciadv.adm8680)
 * [2024-05-19, 14:33:10](https://news.ycombinator.com/item?id=40407228) - [Swarming Proxima Centauri: Picospacecraft Swarms over Interstellar Distances](https://astrobiology.com/2024/05/swarming-proxima-centauri-coherent-picospacecraft-swarms-over-interstellar-distances.html)
 * [2024-05-19, 14:28:03](https://news.ycombinator.com/item?id=40407198) - [Helicopter in Iranian president's convoy crashes – state media](https://www.bbc.com/news/articles/cv22311qx21o)
