@@ -2,6 +2,7 @@
 
 * [2024-05-19, 16:35:00](https://news.ycombinator.com/item?id=40408040) - [Russia's glide bombs devastating Ukraine's cities on the cheap](https://www.bbc.com/news/articles/cz5drkr8l1ko)
 * [2024-05-19, 16:19:06](https://news.ycombinator.com/item?id=40407927) - [Training my own AI to steal artists' styles](https://julienposture.substack.com/p/the-ai-doppelganger-experiment-part)
+* [2024-05-19, 16:13:35](https://news.ycombinator.com/item?id=40407884) - [A Floppy Disk MIDI Boombox: The Yamaha MDP-10](https://nicole.express/2024/elementary-midi-watson.html)
 * [2024-05-19, 15:45:06](https://news.ycombinator.com/item?id=40407659) - [Italy's $12.7B Bridge to Sicily [video]](https://www.youtube.com/watch?v=wt1S46iqBAY)
 * [2024-05-19, 15:24:12](https://news.ycombinator.com/item?id=40407526) - [Make Timelapse easily using FFmpeg](https://news.ycombinator.com/item?id=40407526)
 * [2024-05-19, 15:15:59](https://news.ycombinator.com/item?id=40407478) - [Microsoft set to unveil its vision for AI PCs](https://www.cnbc.com/2024/05/19/microsoft-ai-pcs-build-2024.html)
@@ -16,7 +17,6 @@
 * [2024-05-19, 03:37:51](https://news.ycombinator.com/item?id=40404075) - [New blood test for stroke combines blood-based biomarkers with a clinical score](https://medicalxpress.com/news/2024-05-blood-combines-based-biomarkers-clinical.html)
 * [2024-05-19, 03:34:45](https://news.ycombinator.com/item?id=40404054) - [Riven](https://www.filfre.net/2024/05/riven/)
 * [2024-05-19, 03:18:04](https://news.ycombinator.com/item?id=40403962) - [Is artificial consciousness achievable? Lessons from the human brain](https://arxiv.org/abs/2405.04540)
-* [2024-05-19, 02:30:20](https://news.ycombinator.com/item?id=40403715) - [Mathematicians and the Selection Task (2004)](https://eric.ed.gov/?id=ED489556)
 * [2024-05-18, 23:37:16](https://news.ycombinator.com/item?id=40402975) - [Intel undercut a standards body to give us the PCI connector](https://spectrum.ieee.org/intel-pci-history)
 * [2024-05-18, 22:47:29](https://news.ycombinator.com/item?id=40402719) - [Show HN: Brawshot – Basic temporal denoise for videos in BRAW format](https://github.com/hackyourlife/brawshot)
 * [2024-05-18, 20:19:47](https://news.ycombinator.com/item?id=40401758) - [The Ambling Mind](https://theconvivialsociety.substack.com/p/the-ambling-mind)
