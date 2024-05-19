@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-19, 21:08:17](https://news.ycombinator.com/item?id=40409757) - [Unprojecting Text with Ellipses (2016)](https://mzucker.github.io/2016/10/11/unprojecting-text-with-ellipses.html)
 * [2024-05-19, 21:01:15](https://news.ycombinator.com/item?id=40409710) - [Meteor Just Seen in Portugal](https://old.reddit.com/r/interestingasfuck/comments/1cva6j6/meteor_just_seen_in_portugal_23h45/)
 * [2024-05-19, 20:54:08](https://news.ycombinator.com/item?id=40409671) - [The Toilet Theory of the Internet](https://www.theatlantic.com/technology/archive/2024/05/google-generative-ai-search-toilet-theory/678411/)
 * [2024-05-19, 20:24:55](https://news.ycombinator.com/item?id=40409509) - [North Korea's bizarre, post-modern cityscapes](https://www.reuters.com/pictures/architecture-control-north-koreas-bizarre-post-modern-cityscapes-2024-05-19/)
@@ -28,7 +29,6 @@
 * [2024-05-18, 12:32:53](https://news.ycombinator.com/item?id=40398480) - [What ever happened to Modula-2?](https://www.goto10retro.com/p/what-ever-happened-to-modula-2)
 * [2024-05-18, 11:29:03](https://news.ycombinator.com/item?id=40398094) - [Sorry, wrong number](https://www.roads.org.uk/blog/sorry-wrong-number)
 * [2024-05-18, 10:52:33](https://news.ycombinator.com/item?id=40397908) - [Commuter train window cleaning conundrum in NJ](https://www.nj.com/news/2024/05/why-you-cant-see-out-the-window-on-some-nj-transit-trains.html)
-* [2024-05-18, 10:30:27](https://news.ycombinator.com/item?id=40397834) - [Working with jumbo/unity builds in C/C++](https://austinmorlan.com/posts/unity_jumbo_build/)
 * [2024-05-18, 08:15:11](https://news.ycombinator.com/item?id=40397284) - [A kids traffic mat in Elm](https://matiasklemola.com/liikennematto-devlog-five)
 
 ## [Archives](archives/index.md)
