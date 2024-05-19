@@ -6,6 +6,7 @@
 
 * [2024-05-19, 09:47:19](https://news.ycombinator.com/item?id=40405664) - [Microwaves Not Made in China](https://www.aintfromchina.com/kitchen/microwaves.html)
 * [2024-05-19, 09:30:16](https://news.ycombinator.com/item?id=40405578) - [Transforming a QLC SSD into an SLC SSD](https://theoverclockingpage.com/2024/05/13/tutorial-transforming-a-qlc-ssd-into-an-slc-ssd-dramatically-increasing-the-drives-endurance/?lang=en)
+* [2024-05-19, 08:58:51](https://news.ycombinator.com/item?id=40405443) - [AI Books4 Dataset for training LLMs further](https://old.reddit.com/r/datasets/comments/1cvi151/ai_books4_dataset_for_training_llms_further/)
 * [2024-05-19, 08:46:18](https://news.ycombinator.com/item?id=40405380) - [Show HN: Interactive Graph by LLM (GPT-4o)](https://columns.ai/chatgpt)
 * [2024-05-19, 08:36:34](https://news.ycombinator.com/item?id=40405340) - [\"No Mow May\" Won't Fix Our Biodiversity Problems](https://www.motherjones.com/environment/2024/05/no-mow-may-bad-science-lawns-grass-biodiversity/)
 * [2024-05-19, 07:10:43](https://news.ycombinator.com/item?id=40404883) - [Google Cloud accidentally deletes $125B Australian pension fund](https://www.business-standard.com/world-news/google-cloud-accidentally-deletes-125-billion-australian-pension-fund-124051800606_1.html)
