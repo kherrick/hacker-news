@@ -70,6 +70,7 @@
 * [2024-05-18, 11:29:03](https://news.ycombinator.com/item?id=40398094) - [Sorry, Wrong Number](https://www.roads.org.uk/blog/sorry-wrong-number)
 * [2024-05-18, 11:10:20](https://news.ycombinator.com/item?id=40398002) - [Australian War Crime Whistleblower David McBride Sentenced to Jail](https://www.youtube.com/watch?v=VrFs2_uhz-o)
 * [2024-05-18, 10:56:24](https://news.ycombinator.com/item?id=40397925) - [Conviction of Tornado Cash programmer: Privacy is not a crime](https://www.patrick-breyer.de/en/conviction-of-tornado-cash-programmer-privacy-is-not-a-crime/)
+* [2024-05-18, 10:52:33](https://news.ycombinator.com/item?id=40397908) - [Commuter train window cleaning conundrum in NJ](https://www.nj.com/news/2024/05/why-you-cant-see-out-the-window-on-some-nj-transit-trains.html)
 * [2024-05-18, 10:44:25](https://news.ycombinator.com/item?id=40397882) - [Six charts help to explain 2024's freakish temperatures](https://www.economist.com/graphic-detail/2024/05/15/six-charts-help-to-explain-2024s-freakish-temperatures)
 * [2024-05-18, 10:34:26](https://news.ycombinator.com/item?id=40397842) - [Tegelwippen](https://www.nk-tegelwippen.nl/)
 * [2024-05-18, 10:30:27](https://news.ycombinator.com/item?id=40397834) - [Working with jumbo/unity builds in C/C++](https://austinmorlan.com/posts/unity_jumbo_build/)

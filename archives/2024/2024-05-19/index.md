@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-19](index.md)
 
+* [2024-05-19, 21:01:15](https://news.ycombinator.com/item?id=40409710) - [Meteor Just Seen in Portugal](https://old.reddit.com/r/interestingasfuck/comments/1cva6j6/meteor_just_seen_in_portugal_23h45/)
+* [2024-05-19, 20:54:08](https://news.ycombinator.com/item?id=40409671) - [The Toilet Theory of the Internet](https://www.theatlantic.com/technology/archive/2024/05/google-generative-ai-search-toilet-theory/678411/)
 * [2024-05-19, 20:28:46](https://news.ycombinator.com/item?id=40409528) - [Unicode (1889)](https://archive.org/details/unicodeuniversa00unkngoog)
 * [2024-05-19, 20:04:54](https://news.ycombinator.com/item?id=40409405) - [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
 * [2024-05-19, 19:49:04](https://news.ycombinator.com/item?id=40409309) - [Meringue Philosophy](https://meringue.readthedocs.io/en/latest/meringue_philosophy.html)
