@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-05-19, 07:10:43",
-      "https://news.ycombinator.com/item?id=40404883"
-    ],
-    [
-      "Google Cloud accidentally deletes $125B Australian pension fund",
-      "https://www.business-standard.com/world-news/google-cloud-accidentally-deletes-125-billion-australian-pension-fund-124051800606_1.html"
-    ]
-  ],
-  [
-    [
       "2024-05-19, 07:01:00",
       "https://news.ycombinator.com/item?id=40404825"
     ],
@@ -227,6 +217,16 @@
     [
       "A trustworthy, free (libre), Linux capable, self-hosting 64bit RISC-V computer",
       "https://www.contrib.andrew.cmu.edu/~somlo/BTCP/"
+    ]
+  ],
+  [
+    [
+      "2024-05-18, 12:24:34",
+      "https://news.ycombinator.com/item?id=40398420"
+    ],
+    [
+      "Fixing the iterative damping interpolation in video games",
+      "https://blog.pkh.me/p/41-fixing-the-iterative-damping-interpolation-in-video-games.html"
     ]
   ],
   [
