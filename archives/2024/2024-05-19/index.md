@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-19](index.md)
 
+* [2024-05-19, 07:10:43](https://news.ycombinator.com/item?id=40404883) - [Google Cloud accidentally deletes $125B Australian pension fund](https://www.business-standard.com/world-news/google-cloud-accidentally-deletes-125-billion-australian-pension-fund-124051800606_1.html)
 * [2024-05-19, 07:01:00](https://news.ycombinator.com/item?id=40404825) - [Emerge Tools (YC W21) is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
 * [2024-05-19, 06:46:12](https://news.ycombinator.com/item?id=40404761) - [Ask HN: Why are people so mean in the open source community? (about xz again)](https://news.ycombinator.com/item?id=40404761)
 * [2024-05-19, 05:35:39](https://news.ycombinator.com/item?id=40404498) - [Will Better Superconductors Transform the World?](https://www.quantamagazine.org/will-better-superconductors-transform-the-world-20240509/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-19, 07:10:43](https://news.ycombinator.com/item?id=40404883) - [Google Cloud accidentally deletes $125B Australian pension fund](https://www.business-standard.com/world-news/google-cloud-accidentally-deletes-125-billion-australian-pension-fund-124051800606_1.html)
 * [2024-05-19, 07:01:00](https://news.ycombinator.com/item?id=40404825) - [Emerge Tools (YC W21) is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
 * [2024-05-19, 05:35:39](https://news.ycombinator.com/item?id=40404498) - [Will Better Superconductors Transform the World?](https://www.quantamagazine.org/will-better-superconductors-transform-the-world-20240509/)
 * [2024-05-19, 05:31:13](https://news.ycombinator.com/item?id=40404488) - [The Iberian lynx doubles its population in just three years](https://english.elpais.com/science-tech/2024-05-17/the-iberian-lynx-doubles-its-population-in-just-three-years-and-reaches-2000-individuals.html)
@@ -14,7 +15,6 @@
 * [2024-05-19, 01:58:42](https://news.ycombinator.com/item?id=40403569) - [Michelle's List: A free, anonymous landlord review site](https://www.michelleslist.com/)
 * [2024-05-19, 00:36:11](https://news.ycombinator.com/item?id=40403221) - [Mortgages Are a Manufactured Product](https://www.bitsaboutmoney.com/archive/mortgages-are-a-manufactured-product/)
 * [2024-05-18, 23:37:16](https://news.ycombinator.com/item?id=40402975) - [Intel undercut a standards body to give us the PCI connector](https://spectrum.ieee.org/intel-pci-history)
-* [2024-05-18, 22:49:17](https://news.ycombinator.com/item?id=40402734) - [Go Browser Package](https://browser.dineshgowda.com/)
 * [2024-05-18, 22:46:24](https://news.ycombinator.com/item?id=40402712) - [Apache NuttX RTOS on Sophgo SG2000 RISC-V SoC (Milk-V Duo S SBC)](https://lupyuen.codeberg.page/articles/sg2000.html)
 * [2024-05-18, 19:24:17](https://news.ycombinator.com/item?id=40401343) - [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)
 * [2024-05-18, 18:43:27](https://news.ycombinator.com/item?id=40401060) - [Show HN: Peanut Butter Spinner](https://cdaringe.com/peanut-butter-spinner/)
