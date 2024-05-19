@@ -2,7 +2,6 @@
 
 * [2024-05-19, 05:31:13](https://news.ycombinator.com/item?id=40404488) - [The Iberian lynx doubles its population in just three years](https://english.elpais.com/science-tech/2024-05-17/the-iberian-lynx-doubles-its-population-in-just-three-years-and-reaches-2000-individuals.html)
 * [2024-05-19, 05:16:41](https://news.ycombinator.com/item?id=40404440) - [Classic Usenet posts on computer architecture, operating systems and languages](https://yarchive.net/comp/index.html)
-* [2024-05-19, 05:15:17](https://news.ycombinator.com/item?id=40404436) - [49M Dell customer addresses leaked](https://techcrunch.com/2024/05/10/threat-actor-scraped-49m-dell-customer-addresses-before-the-company-found-out/)
 * [2024-05-19, 04:42:55](https://news.ycombinator.com/item?id=40404332) - [How GM Made the $35,000 Chevrolet Equinox EV into a 319-Mile Range Champ](https://insideevs.com/news/720117/gm-equinox-affordable-tech-preview/)
 * [2024-05-19, 04:31:54](https://news.ycombinator.com/item?id=40404296) - [Big Tech to EU: \"Drop Dead\"](https://www.eff.org/deeplinks/2024/05/big-tech-eu-drop-dead)
 * [2024-05-19, 03:34:45](https://news.ycombinator.com/item?id=40404054) - [Riven](https://www.filfre.net/2024/05/riven/)
@@ -22,6 +21,7 @@
 * [2024-05-18, 16:38:17](https://news.ycombinator.com/item?id=40400224) - [Sam and Greg's response to OpenAI Safety researcher claims](https://twitter.com/gdb/status/1791869138132218351)
 * [2024-05-18, 16:21:23](https://news.ycombinator.com/item?id=40400139) - [I organized a 20-acre game of Capture the Flag](https://www.ntnbr.com/61/)
 * [2024-05-18, 15:53:56](https://news.ycombinator.com/item?id=40399987) - [A trustworthy, free (libre), Linux capable, self-hosting 64bit RISC-V computer](https://www.contrib.andrew.cmu.edu/~somlo/BTCP/)
+* [2024-05-18, 12:24:34](https://news.ycombinator.com/item?id=40398420) - [Fixing the iterative damping interpolation in video games](https://blog.pkh.me/p/41-fixing-the-iterative-damping-interpolation-in-video-games.html)
 * [2024-05-18, 10:06:59](https://news.ycombinator.com/item?id=40397737) - [YARA is dead, long live YARA-X](https://virustotal.github.io/yara-x/blog/yara-is-dead-long-live-yara-x/)
 * [2024-05-18, 06:08:37](https://news.ycombinator.com/item?id=40396790) - [Retrospex: Convert images to fit Commodore 64 graphic modes](https://github.com/micheldebree/retrospex)
 * [2024-05-17, 20:51:52](https://news.ycombinator.com/item?id=40394104) - [Hashing Modulo Theories](https://www.philipzucker.com/hashing-modulo/)
