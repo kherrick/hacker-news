@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-05-19](index.md)
 
+* [2024-05-19, 08:36:34](https://news.ycombinator.com/item?id=40405340) - [\"No Mow May\" Won't Fix Our Biodiversity Problems](https://www.motherjones.com/environment/2024/05/no-mow-may-bad-science-lawns-grass-biodiversity/)
 * [2024-05-19, 07:10:43](https://news.ycombinator.com/item?id=40404883) - [Google Cloud accidentally deletes $125B Australian pension fund](https://www.business-standard.com/world-news/google-cloud-accidentally-deletes-125-billion-australian-pension-fund-124051800606_1.html)
 * [2024-05-19, 07:01:00](https://news.ycombinator.com/item?id=40404825) - [Emerge Tools (YC W21) is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
 * [2024-05-19, 06:46:12](https://news.ycombinator.com/item?id=40404761) - [Ask HN: Why are people so mean in the open source community? (about xz again)](https://news.ycombinator.com/item?id=40404761)
 * [2024-05-19, 05:46:25](https://news.ycombinator.com/item?id=40404522) - [I Might've Been a Rocket Scientist (Like My Dad), but I Was a Girl](https://exponentii.org/blog/i-mightve-been-a-rocket-scientist-like-my-dad-but-i-was-a-girl/)
 * [2024-05-19, 05:35:39](https://news.ycombinator.com/item?id=40404498) - [Will Better Superconductors Transform the World?](https://www.quantamagazine.org/will-better-superconductors-transform-the-world-20240509/)
 * [2024-05-19, 05:31:13](https://news.ycombinator.com/item?id=40404488) - [The Iberian lynx doubles its population in just three years](https://english.elpais.com/science-tech/2024-05-17/the-iberian-lynx-doubles-its-population-in-just-three-years-and-reaches-2000-individuals.html)
+* [2024-05-19, 05:20:00](https://news.ycombinator.com/item?id=40404450) - [RISC vs. CISC by John R. Mashey (1995)](https://yarchive.net/comp/risc_definition.html)
 * [2024-05-19, 05:16:41](https://news.ycombinator.com/item?id=40404440) - [Classic Usenet posts on computer architecture, operating systems and languages](https://yarchive.net/comp/index.html)
 * [2024-05-19, 05:15:17](https://news.ycombinator.com/item?id=40404436) - [49M Dell customer addresses leaked](https://techcrunch.com/2024/05/10/threat-actor-scraped-49m-dell-customer-addresses-before-the-company-found-out/)
 * [2024-05-19, 05:12:28](https://news.ycombinator.com/item?id=40404423) - [Katy – 68000 Linux on a Solderless Breadboard](https://www.bigmessowires.com/2014/11/17/68-katy-68000-linux-on-a-solderless-breadboard/)
