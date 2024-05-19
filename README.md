@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-19, 07:10:43](https://news.ycombinator.com/item?id=40404883) - [Google Cloud accidentally deletes $125B Australian pension fund](https://www.business-standard.com/world-news/google-cloud-accidentally-deletes-125-billion-australian-pension-fund-124051800606_1.html)
 * [2024-05-19, 07:01:00](https://news.ycombinator.com/item?id=40404825) - [Emerge Tools (YC W21) is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
 * [2024-05-19, 05:35:39](https://news.ycombinator.com/item?id=40404498) - [Will Better Superconductors Transform the World?](https://www.quantamagazine.org/will-better-superconductors-transform-the-world-20240509/)
 * [2024-05-19, 05:31:13](https://news.ycombinator.com/item?id=40404488) - [The Iberian lynx doubles its population in just three years](https://english.elpais.com/science-tech/2024-05-17/the-iberian-lynx-doubles-its-population-in-just-three-years-and-reaches-2000-individuals.html)
@@ -23,6 +22,7 @@
 * [2024-05-18, 16:38:17](https://news.ycombinator.com/item?id=40400224) - [Sam and Greg's response to OpenAI Safety researcher claims](https://twitter.com/gdb/status/1791869138132218351)
 * [2024-05-18, 16:21:23](https://news.ycombinator.com/item?id=40400139) - [I organized a 20-acre game of Capture the Flag](https://www.ntnbr.com/61/)
 * [2024-05-18, 15:53:56](https://news.ycombinator.com/item?id=40399987) - [A trustworthy, free (libre), Linux capable, self-hosting 64bit RISC-V computer](https://www.contrib.andrew.cmu.edu/~somlo/BTCP/)
+* [2024-05-18, 12:24:34](https://news.ycombinator.com/item?id=40398420) - [Fixing the iterative damping interpolation in video games](https://blog.pkh.me/p/41-fixing-the-iterative-damping-interpolation-in-video-games.html)
 * [2024-05-18, 10:08:59](https://news.ycombinator.com/item?id=40397743) - [Worklenz: Open-Source, All in one project management tool](https://github.com/Worklenz/worklenz)
 * [2024-05-18, 10:06:59](https://news.ycombinator.com/item?id=40397737) - [YARA is dead, long live YARA-X](https://virustotal.github.io/yara-x/blog/yara-is-dead-long-live-yara-x/)
 * [2024-05-18, 06:08:37](https://news.ycombinator.com/item?id=40396790) - [Retrospex: Convert images to fit Commodore 64 graphic modes](https://github.com/micheldebree/retrospex)
