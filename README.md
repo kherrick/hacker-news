@@ -15,7 +15,6 @@
 * [2024-05-19, 03:34:45](https://news.ycombinator.com/item?id=40404054) - [Riven](https://www.filfre.net/2024/05/riven/)
 * [2024-05-19, 03:18:04](https://news.ycombinator.com/item?id=40403962) - [Is artificial consciousness achievable? Lessons from the human brain](https://arxiv.org/abs/2405.04540)
 * [2024-05-19, 02:30:20](https://news.ycombinator.com/item?id=40403715) - [Mathematicians and the Selection Task (2004)](https://eric.ed.gov/?id=ED489556)
-* [2024-05-19, 01:42:26](https://news.ycombinator.com/item?id=40403492) - [UNM Researchers Find Microplastics in Canine and Human Testicular Tissue](https://hsc.unm.edu/news/2024/05/hsc-newsroom-post-microplastics-testicular.html)
 * [2024-05-18, 23:37:16](https://news.ycombinator.com/item?id=40402975) - [Intel undercut a standards body to give us the PCI connector](https://spectrum.ieee.org/intel-pci-history)
 * [2024-05-18, 22:47:29](https://news.ycombinator.com/item?id=40402719) - [Show HN: Brawshot – Basic temporal denoise for videos in BRAW format](https://github.com/hackyourlife/brawshot)
 * [2024-05-18, 20:19:39](https://news.ycombinator.com/item?id=40401755) - [Radio Caroline turns 60](https://abcnews.go.com/International/radio-caroline-britains-pirate-radio-station-broadcasting-sea/story?id=110204908)
@@ -28,6 +27,7 @@
 * [2024-05-18, 08:15:11](https://news.ycombinator.com/item?id=40397284) - [A kids traffic mat in Elm](https://matiasklemola.com/liikennematto-devlog-five)
 * [2024-05-18, 07:04:04](https://news.ycombinator.com/item?id=40397002) - [Building a Waitlist (The Wrong Way)](https://jrhizor.dev/posts/building-a-waitlist-the-wrong-way/)
 * [2024-05-18, 06:08:37](https://news.ycombinator.com/item?id=40396790) - [Retrospex: Convert images to fit Commodore 64 graphic modes](https://github.com/micheldebree/retrospex)
+* [2024-05-17, 20:51:52](https://news.ycombinator.com/item?id=40394104) - [Hashing Modulo Theories](https://www.philipzucker.com/hashing-modulo/)
 * [2024-05-17, 17:30:26](https://news.ycombinator.com/item?id=40392302) - [500-year-old maths problem turns out to apply to coffee and clocks](https://www.newscientist.com/article/2430522-500-year-old-maths-problem-turns-out-to-apply-to-coffee-and-clocks/)
 * [2024-05-16, 21:18:57](https://news.ycombinator.com/item?id=40383324) - [On hoot, on boot](https://wingolog.org/archives/2024/05/16/on-hoot-on-boot)
 
