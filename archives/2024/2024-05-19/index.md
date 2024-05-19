@@ -6,6 +6,7 @@
 
 * [2024-05-19, 15:28:27](https://news.ycombinator.com/item?id=40407555) - [Zelda: Majora's Mask is now a native PC game, and every N64 title could follow](https://www.theverge.com/2024/5/13/24155636/n64-recompiled-port-nintendo-games-zelda-majoras-mask)
 * [2024-05-19, 15:24:36](https://news.ycombinator.com/item?id=40407530) - [President of Iran in Helicopter Crash](https://www.bbc.co.uk/news/live/world-middle-east-69035051)
+* [2024-05-19, 15:24:12](https://news.ycombinator.com/item?id=40407526) - [Make Timelapse easily using FFmpeg](https://news.ycombinator.com/item?id=40407526)
 * [2024-05-19, 15:15:09](https://news.ycombinator.com/item?id=40407472) - [Nitrogen dioxide exposure due to gas and propane combustion by U.S. stoves](https://www.science.org/doi/10.1126/sciadv.adm8680)
 * [2024-05-19, 14:33:10](https://news.ycombinator.com/item?id=40407228) - [Swarming Proxima Centauri: Picospacecraft Swarms over Interstellar Distances](https://astrobiology.com/2024/05/swarming-proxima-centauri-coherent-picospacecraft-swarms-over-interstellar-distances.html)
 * [2024-05-19, 14:28:03](https://news.ycombinator.com/item?id=40407198) - [Helicopter in Iranian president's convoy crashes – state media](https://www.bbc.com/news/articles/cv22311qx21o)
