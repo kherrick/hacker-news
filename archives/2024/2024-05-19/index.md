@@ -8,6 +8,7 @@
 * [2024-05-19, 21:02:36](https://news.ycombinator.com/item?id=40409718) - [Beating Jeff's 3.14 Ghz Raspberry Pi 5](https://jonatron.github.io/randomstuff/pivolt/)
 * [2024-05-19, 21:01:15](https://news.ycombinator.com/item?id=40409710) - [Meteor Just Seen in Portugal](https://old.reddit.com/r/interestingasfuck/comments/1cva6j6/meteor_just_seen_in_portugal_23h45/)
 * [2024-05-19, 20:54:08](https://news.ycombinator.com/item?id=40409671) - [The Toilet Theory of the Internet](https://www.theatlantic.com/technology/archive/2024/05/google-generative-ai-search-toilet-theory/678411/)
+* [2024-05-19, 20:39:12](https://news.ycombinator.com/item?id=40409588) - [Operation CHARM: Car repair manuals for everyone](https://charm.li/)
 * [2024-05-19, 20:28:46](https://news.ycombinator.com/item?id=40409528) - [Unicode (1889)](https://archive.org/details/unicodeuniversa00unkngoog)
 * [2024-05-19, 20:24:55](https://news.ycombinator.com/item?id=40409509) - [North Korea's bizarre, post-modern cityscapes](https://www.reuters.com/pictures/architecture-control-north-koreas-bizarre-post-modern-cityscapes-2024-05-19/)
 * [2024-05-19, 20:04:54](https://news.ycombinator.com/item?id=40409405) - [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
