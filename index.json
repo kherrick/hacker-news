@@ -1,26 +1,6 @@
 [
   [
     [
-      "2024-05-19, 12:54:29",
-      "https://news.ycombinator.com/item?id=40406638"
-    ],
-    [
-      "The country closing in on zero deaths on its roads",
-      "https://www.bbc.com/future/article/20240517-vision-zero-how-europe-cut-the-number-of-people-dying-on-its-roads"
-    ]
-  ],
-  [
-    [
-      "2024-05-19, 12:52:05",
-      "https://news.ycombinator.com/item?id=40406623"
-    ],
-    [
-      "A startup's \"tablet\" gears up to take on Apple's iPad",
-      "https://om.co/2024/05/18/daylight-tablet/"
-    ]
-  ],
-  [
-    [
       "2024-05-19, 12:00:25",
       "https://news.ycombinator.com/item?id=40406344"
     ],
@@ -37,16 +17,6 @@
     [
       "Compilers for Free with Weval",
       "https://bernsteinbear.com/blog/weval/"
-    ]
-  ],
-  [
-    [
-      "2024-05-19, 10:10:01",
-      "https://news.ycombinator.com/item?id=40405769"
-    ],
-    [
-      "Chess and 18th Century artificial intelligence (2013)",
-      "https://www.bbc.com/news/magazine-21876120"
     ]
   ],
   [
@@ -71,22 +41,12 @@
   ],
   [
     [
-      "2024-05-19, 09:08:57",
-      "https://news.ycombinator.com/item?id=40405481"
+      "2024-05-19, 08:36:34",
+      "https://news.ycombinator.com/item?id=40405340"
     ],
     [
-      "Advisory report on unacceptable behaviour published",
-      "https://www.universiteitleiden.nl/en/news/2024/05/advisory-report-on-unacceptable-behaviour-published"
-    ]
-  ],
-  [
-    [
-      "2024-05-19, 08:58:51",
-      "https://news.ycombinator.com/item?id=40405443"
-    ],
-    [
-      "AI Books4 Dataset for training LLMs further",
-      "https://old.reddit.com/r/datasets/comments/1cvi151/ai_books4_dataset_for_training_llms_further/"
+      "\"No Mow May\" Won't Fix Our Biodiversity Problems",
+      "https://www.motherjones.com/environment/2024/05/no-mow-may-bad-science-lawns-grass-biodiversity/"
     ]
   ],
   [
@@ -137,6 +97,16 @@
     [
       "Katy – 68000 Linux on a Solderless Breadboard (2014)",
       "https://www.bigmessowires.com/2014/11/17/68-katy-68000-linux-on-a-solderless-breadboard/"
+    ]
+  ],
+  [
+    [
+      "2024-05-19, 04:30:25",
+      "https://news.ycombinator.com/item?id=40404286"
+    ],
+    [
+      "Building a Homelab, Part 4 – Nixification, Kubernetes",
+      "https://blog.janissary.xyz/posts/homelab-4"
     ]
   ],
   [
@@ -201,22 +171,22 @@
   ],
   [
     [
-      "2024-05-18, 22:46:24",
-      "https://news.ycombinator.com/item?id=40402712"
-    ],
-    [
-      "Apache NuttX RTOS on Sophgo SG2000 RISC-V SoC (Milk-V Duo S SBC)",
-      "https://lupyuen.codeberg.page/articles/sg2000.html"
-    ]
-  ],
-  [
-    [
       "2024-05-18, 19:24:17",
       "https://news.ycombinator.com/item?id=40401343"
     ],
     [
       "Calculus with Julia",
       "https://jverzani.github.io/CalculusWithJuliaNotes.jl/"
+    ]
+  ],
+  [
+    [
+      "2024-05-18, 18:43:27",
+      "https://news.ycombinator.com/item?id=40401060"
+    ],
+    [
+      "Show HN: Peanut Butter Spinner",
+      "https://cdaringe.com/peanut-butter-spinner/"
     ]
   ],
   [
@@ -247,6 +217,16 @@
     [
       "I organized a 20-acre game of Capture the Flag",
       "https://www.ntnbr.com/61/"
+    ]
+  ],
+  [
+    [
+      "2024-05-18, 10:08:59",
+      "https://news.ycombinator.com/item?id=40397743"
+    ],
+    [
+      "Worklenz: Open-Source, All in one project management tool",
+      "https://github.com/Worklenz/worklenz"
     ]
   ],
   [
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2024-05-17, 20:51:52",
+      "https://news.ycombinator.com/item?id=40394104"
+    ],
+    [
+      "Hashing Modulo Theories",
+      "https://www.philipzucker.com/hashing-modulo/"
+    ]
+  ],
+  [
+    [
       "2024-05-17, 17:30:26",
       "https://news.ycombinator.com/item?id=40392302"
     ],
     [
       "500-year-old maths problem turns out to apply to coffee and clocks",
       "https://www.newscientist.com/article/2430522-500-year-old-maths-problem-turns-out-to-apply-to-coffee-and-clocks/"
+    ]
+  ],
+  [
+    [
+      "2024-05-16, 21:18:57",
+      "https://news.ycombinator.com/item?id=40383324"
+    ],
+    [
+      "On hoot, on boot",
+      "https://wingolog.org/archives/2024/05/16/on-hoot-on-boot"
     ]
   ]
 ]
