@@ -14,7 +14,6 @@
 * [2024-05-19, 01:58:42](https://news.ycombinator.com/item?id=40403569) - [Michelle's List: A free, anonymous landlord review site](https://www.michelleslist.com/)
 * [2024-05-19, 00:36:11](https://news.ycombinator.com/item?id=40403221) - [Mortgages Are a Manufactured Product](https://www.bitsaboutmoney.com/archive/mortgages-are-a-manufactured-product/)
 * [2024-05-18, 23:37:16](https://news.ycombinator.com/item?id=40402975) - [Intel undercut a standards body to give us the PCI connector](https://spectrum.ieee.org/intel-pci-history)
-* [2024-05-18, 22:49:17](https://news.ycombinator.com/item?id=40402734) - [Go Browser Package](https://browser.dineshgowda.com/)
 * [2024-05-18, 22:46:24](https://news.ycombinator.com/item?id=40402712) - [Apache NuttX RTOS on Sophgo SG2000 RISC-V SoC (Milk-V Duo S SBC)](https://lupyuen.codeberg.page/articles/sg2000.html)
 * [2024-05-18, 19:24:17](https://news.ycombinator.com/item?id=40401343) - [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)
 * [2024-05-18, 18:43:27](https://news.ycombinator.com/item?id=40401060) - [Show HN: Peanut Butter Spinner](https://cdaringe.com/peanut-butter-spinner/)
@@ -29,6 +28,7 @@
 * [2024-05-18, 06:08:37](https://news.ycombinator.com/item?id=40396790) - [Retrospex: Convert images to fit Commodore 64 graphic modes](https://github.com/micheldebree/retrospex)
 * [2024-05-17, 20:51:52](https://news.ycombinator.com/item?id=40394104) - [Hashing Modulo Theories](https://www.philipzucker.com/hashing-modulo/)
 * [2024-05-17, 17:30:26](https://news.ycombinator.com/item?id=40392302) - [500-year-old maths problem turns out to apply to coffee and clocks](https://www.newscientist.com/article/2430522-500-year-old-maths-problem-turns-out-to-apply-to-coffee-and-clocks/)
+* [2024-05-17, 16:00:26](https://news.ycombinator.com/item?id=40391290) - [Scrabble, Anonymous](https://www.theparisreview.org/blog/2024/05/15/scrabble-anonymous/)
 * [2024-05-16, 21:18:57](https://news.ycombinator.com/item?id=40383324) - [On hoot, on boot](https://wingolog.org/archives/2024/05/16/on-hoot-on-boot)
 
 ## [Archives](archives/index.md)
