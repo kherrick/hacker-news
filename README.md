@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-19, 21:08:17](https://news.ycombinator.com/item?id=40409757) - [Unprojecting Text with Ellipses (2016)](https://mzucker.github.io/2016/10/11/unprojecting-text-with-ellipses.html)
+* [2024-05-19, 21:02:36](https://news.ycombinator.com/item?id=40409718) - [Beating Jeff's 3.14 Ghz Raspberry Pi 5](https://jonatron.github.io/randomstuff/pivolt/)
 * [2024-05-19, 21:01:15](https://news.ycombinator.com/item?id=40409710) - [Meteor Just Seen in Portugal](https://old.reddit.com/r/interestingasfuck/comments/1cva6j6/meteor_just_seen_in_portugal_23h45/)
 * [2024-05-19, 20:54:08](https://news.ycombinator.com/item?id=40409671) - [The Toilet Theory of the Internet](https://www.theatlantic.com/technology/archive/2024/05/google-generative-ai-search-toilet-theory/678411/)
 * [2024-05-19, 20:24:55](https://news.ycombinator.com/item?id=40409509) - [North Korea's bizarre, post-modern cityscapes](https://www.reuters.com/pictures/architecture-control-north-koreas-bizarre-post-modern-cityscapes-2024-05-19/)
@@ -22,7 +23,6 @@
 * [2024-05-19, 03:34:45](https://news.ycombinator.com/item?id=40404054) - [Riven](https://www.filfre.net/2024/05/riven/)
 * [2024-05-19, 03:18:04](https://news.ycombinator.com/item?id=40403962) - [Is artificial consciousness achievable? Lessons from the human brain](https://arxiv.org/abs/2405.04540)
 * [2024-05-18, 22:47:29](https://news.ycombinator.com/item?id=40402719) - [Show HN: Brawshot – Basic temporal denoise for videos in BRAW format](https://github.com/hackyourlife/brawshot)
-* [2024-05-18, 20:19:47](https://news.ycombinator.com/item?id=40401758) - [The Ambling Mind](https://theconvivialsociety.substack.com/p/the-ambling-mind)
 * [2024-05-18, 19:24:17](https://news.ycombinator.com/item?id=40401343) - [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)
 * [2024-05-18, 17:50:10](https://news.ycombinator.com/item?id=40400648) - [Floor796](https://floor796.com/)
 * [2024-05-18, 14:12:20](https://news.ycombinator.com/item?id=40399224) - [I couldn't escape poison oak, so I started eating it](https://www.wsj.com/style/eat-poison-ivy-oak-immunity-3207ec3c)
