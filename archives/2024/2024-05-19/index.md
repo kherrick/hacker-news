@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-19](index.md)
 
+* [2024-05-19, 05:16:41](https://news.ycombinator.com/item?id=40404440) - [Classic Usenet posts on computer architecture, operating systems and languages](https://yarchive.net/comp/index.html)
 * [2024-05-19, 04:42:55](https://news.ycombinator.com/item?id=40404332) - [How GM Made the $35,000 Chevrolet Equinox EV into a 319-Mile Range Champ](https://insideevs.com/news/720117/gm-equinox-affordable-tech-preview/)
 * [2024-05-19, 03:34:45](https://news.ycombinator.com/item?id=40404054) - [Riven](https://www.filfre.net/2024/05/riven/)
 * [2024-05-19, 02:39:07](https://news.ycombinator.com/item?id=40403768) - [Reading list to join AI field from Hugging Face cofounder](https://thomwolf.io/data/Thom_wolf_reading_list.txt)
