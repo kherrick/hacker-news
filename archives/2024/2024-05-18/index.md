@@ -69,6 +69,7 @@
 * [2024-05-18, 10:24:19](https://news.ycombinator.com/item?id=40397806) - [Ilya Sutskever: “If you learn all of these, you’ll know 90% of what matters”](https://www.reddit.com/r/ArtificialInteligence/comments/1cpbh1s/ilya_sutskever_if_you_really_learn_all_of_these/)
 * [2024-05-18, 10:21:01](https://news.ycombinator.com/item?id=40397789) - [NetBSD Bans AI-Generated Code from Commits](https://www.netbsd.org/developers/commit-guidelines.html)
 * [2024-05-18, 10:15:30](https://news.ycombinator.com/item?id=40397769) - [Rebuilding my homelab: Suffering as a service](https://xeiaso.net/blog/2024/homelab-v2/)
+* [2024-05-18, 10:08:59](https://news.ycombinator.com/item?id=40397743) - [Worklenz: Open-Source, All in one project management tool](https://github.com/Worklenz/worklenz)
 * [2024-05-18, 10:06:59](https://news.ycombinator.com/item?id=40397737) - [YARA is dead, long live YARA-X](https://virustotal.github.io/yara-x/blog/yara-is-dead-long-live-yara-x/)
 * [2024-05-18, 09:55:34](https://news.ycombinator.com/item?id=40397692) - [38% of webpages that existed in 2013 are no longer accessible a decade later](https://www.pewresearch.org/data-labs/2024/05/17/when-online-content-disappears/)
 * [2024-05-18, 09:38:08](https://news.ycombinator.com/item?id=40397637) - [Cyber Security: A Pre-War Reality Check](https://berthub.eu/articles/posts/cyber-security-pre-war-reality-check/)

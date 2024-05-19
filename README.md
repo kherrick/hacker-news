@@ -14,6 +14,7 @@
 * [2024-05-18, 22:49:17](https://news.ycombinator.com/item?id=40402734) - [Go Browser Package](https://browser.dineshgowda.com/)
 * [2024-05-18, 22:46:24](https://news.ycombinator.com/item?id=40402712) - [Apache NuttX RTOS on Sophgo SG2000 RISC-V SoC (Milk-V Duo S SBC)](https://lupyuen.codeberg.page/articles/sg2000.html)
 * [2024-05-18, 21:01:25](https://news.ycombinator.com/item?id=40402076) - [Streak (YC W22) is hiring a staff web UI engineer (remote)](https://www.streak.com/careers/staff-ui-engineer)
+* [2024-05-18, 20:25:43](https://news.ycombinator.com/item?id=40401803) - [On English Melancholy](https://thereader.mitpress.mit.edu/on-english-melancholy/)
 * [2024-05-18, 19:24:17](https://news.ycombinator.com/item?id=40401343) - [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)
 * [2024-05-18, 18:43:27](https://news.ycombinator.com/item?id=40401060) - [Show HN: Peanut Butter Spinner](https://cdaringe.com/peanut-butter-spinner/)
 * [2024-05-18, 17:50:10](https://news.ycombinator.com/item?id=40400648) - [Floor796](https://floor796.com/)
@@ -22,14 +23,13 @@
 * [2024-05-18, 16:21:23](https://news.ycombinator.com/item?id=40400139) - [I organized a 20-acre game of Capture the Flag](https://www.ntnbr.com/61/)
 * [2024-05-18, 15:53:56](https://news.ycombinator.com/item?id=40399987) - [A trustworthy, free (libre), Linux capable, self-hosting 64bit RISC-V computer](https://www.contrib.andrew.cmu.edu/~somlo/BTCP/)
 * [2024-05-18, 12:24:34](https://news.ycombinator.com/item?id=40398420) - [Fixing the iterative damping interpolation in video games](https://blog.pkh.me/p/41-fixing-the-iterative-damping-interpolation-in-video-games.html)
+* [2024-05-18, 10:08:59](https://news.ycombinator.com/item?id=40397743) - [Worklenz: Open-Source, All in one project management tool](https://github.com/Worklenz/worklenz)
 * [2024-05-18, 10:06:59](https://news.ycombinator.com/item?id=40397737) - [YARA is dead, long live YARA-X](https://virustotal.github.io/yara-x/blog/yara-is-dead-long-live-yara-x/)
 * [2024-05-18, 06:08:37](https://news.ycombinator.com/item?id=40396790) - [Retrospex: Convert images to fit Commodore 64 graphic modes](https://github.com/micheldebree/retrospex)
 * [2024-05-17, 20:51:52](https://news.ycombinator.com/item?id=40394104) - [Hashing Modulo Theories](https://www.philipzucker.com/hashing-modulo/)
 * [2024-05-17, 17:30:26](https://news.ycombinator.com/item?id=40392302) - [500-year-old maths problem turns out to apply to coffee and clocks](https://www.newscientist.com/article/2430522-500-year-old-maths-problem-turns-out-to-apply-to-coffee-and-clocks/)
 * [2024-05-17, 16:00:26](https://news.ycombinator.com/item?id=40391290) - [Scrabble, Anonymous](https://www.theparisreview.org/blog/2024/05/15/scrabble-anonymous/)
 * [2024-05-16, 21:18:57](https://news.ycombinator.com/item?id=40383324) - [On hoot, on boot](https://wingolog.org/archives/2024/05/16/on-hoot-on-boot)
-* [2024-05-16, 10:35:45](https://news.ycombinator.com/item?id=40376857) - [Ask HN: SaaS Subscription or Usage-Based Pricing?](https://news.ycombinator.com/item?id=40376857)
-* [2024-05-15, 14:40:04](https://news.ycombinator.com/item?id=40367566) - [Aggregating all cinema showtimes in Germany with Clojure](https://tonsky.me/blog/allekinos/)
 
 ## [Archives](archives/index.md)
 
