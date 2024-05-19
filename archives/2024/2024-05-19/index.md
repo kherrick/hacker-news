@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-05-19](index.md)
 
+* [2024-05-19, 14:33:10](https://news.ycombinator.com/item?id=40407228) - [Swarming Proxima Centauri: Picospacecraft Swarms over Interstellar Distances](https://astrobiology.com/2024/05/swarming-proxima-centauri-coherent-picospacecraft-swarms-over-interstellar-distances.html)
 * [2024-05-19, 14:28:03](https://news.ycombinator.com/item?id=40407198) - [Helicopter in Iranian president's convoy crashes – state media](https://www.bbc.com/news/articles/cv22311qx21o)
 * [2024-05-19, 14:00:56](https://news.ycombinator.com/item?id=40407032) - [An attorney says she saw her library reading habits reflected in mobile ads](https://www.theregister.com/2024/05/18/mystery_of_the_targeted_mobile_ads/)
 * [2024-05-19, 13:34:42](https://news.ycombinator.com/item?id=40406863) - [Terabytes of Old Usenet Articles since 1980s Restored in 471,000 News Groups](https://news.admin.peering.narkive.com/jqTCQePo/are-these-the-only-3-known-updated-usenet-archives-left)
 * [2024-05-19, 13:20:32](https://news.ycombinator.com/item?id=40406767) - [Woke Invades the Sciences](https://thecritic.co.uk/woke-invades-the-sciences/)
 * [2024-05-19, 12:54:29](https://news.ycombinator.com/item?id=40406638) - [The country closing in on zero deaths on its roads](https://www.bbc.com/future/article/20240517-vision-zero-how-europe-cut-the-number-of-people-dying-on-its-roads)
+* [2024-05-19, 12:52:51](https://news.ycombinator.com/item?id=40406626) - [I'm tired of \"AI\" products wrapped over and selling at high rates](https://news.ycombinator.com/item?id=40406626)
 * [2024-05-19, 12:52:05](https://news.ycombinator.com/item?id=40406623) - [A startup's \"tablet\" gears up to take on Apple's iPad](https://om.co/2024/05/18/daylight-tablet/)
 * [2024-05-19, 12:42:24](https://news.ycombinator.com/item?id=40406576) - [Apple geofences third-party browser engine work for EU devices](https://www.theregister.com/2024/05/17/apple_browser_eu/)
 * [2024-05-19, 12:00:25](https://news.ycombinator.com/item?id=40406344) - [Show HN: Digital player board for Terraforming Mars](https://terraforming-mars-player-board.netlify.app/)
