@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-19](index.md)
 
+* [2024-05-19, 22:52:01](https://news.ycombinator.com/item?id=40410341) - [Hertz Charging a Tesla Renter for Gas Was Not an Isolated Incident](https://www.thedrive.com/news/hertz-charging-a-tesla-renter-for-gas-was-not-an-isolated-incident)
+* [2024-05-19, 22:16:25](https://news.ycombinator.com/item?id=40410158) - [Ubuntu 24.10 to Default to Wayland for Nvidia Users](https://www.omgubuntu.co.uk/2024/05/ubuntu-24-10-wayland-nvidia)
 * [2024-05-19, 21:08:17](https://news.ycombinator.com/item?id=40409757) - [Unprojecting Text with Ellipses (2016)](https://mzucker.github.io/2016/10/11/unprojecting-text-with-ellipses.html)
 * [2024-05-19, 21:02:36](https://news.ycombinator.com/item?id=40409718) - [Beating Jeff's 3.14 Ghz Raspberry Pi 5](https://jonatron.github.io/randomstuff/pivolt/)
 * [2024-05-19, 21:01:15](https://news.ycombinator.com/item?id=40409710) - [Meteor Just Seen in Portugal](https://old.reddit.com/r/interestingasfuck/comments/1cva6j6/meteor_just_seen_in_portugal_23h45/)
@@ -12,6 +14,7 @@
 * [2024-05-19, 20:28:46](https://news.ycombinator.com/item?id=40409528) - [Unicode (1889)](https://archive.org/details/unicodeuniversa00unkngoog)
 * [2024-05-19, 20:24:55](https://news.ycombinator.com/item?id=40409509) - [North Korea's bizarre, post-modern cityscapes](https://www.reuters.com/pictures/architecture-control-north-koreas-bizarre-post-modern-cityscapes-2024-05-19/)
 * [2024-05-19, 20:04:54](https://news.ycombinator.com/item?id=40409405) - [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
+* [2024-05-19, 20:01:29](https://news.ycombinator.com/item?id=40409388) - [Teaching Algorithm Design: A Literature Review](https://arxiv.org/abs/2405.00832)
 * [2024-05-19, 19:49:04](https://news.ycombinator.com/item?id=40409309) - [Meringue Philosophy](https://meringue.readthedocs.io/en/latest/meringue_philosophy.html)
 * [2024-05-19, 19:44:24](https://news.ycombinator.com/item?id=40409290) - [Updating from macOS Ventura to Sonoma Silently Enables iCloud Keychain](https://lapcatsoftware.com/articles/2024/5/3.html)
 * [2024-05-19, 19:33:16](https://news.ycombinator.com/item?id=40409222) - [How often is the wife taller than the husband?](https://statmodeling.stat.columbia.edu/2024/04/29/boris-and-natasha-in-america-how-often-is-the-wife-taller-than-the-husband/)
