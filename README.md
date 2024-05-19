@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-19, 15:28:27](https://news.ycombinator.com/item?id=40407555) - [Zelda: Majora's Mask is now a native PC game, and every N64 title could follow](https://www.theverge.com/2024/5/13/24155636/n64-recompiled-port-nintendo-games-zelda-majoras-mask)
+* [2024-05-19, 15:24:36](https://news.ycombinator.com/item?id=40407530) - [President of Iran in Helicopter Crash](https://www.bbc.co.uk/news/live/world-middle-east-69035051)
+* [2024-05-19, 15:15:09](https://news.ycombinator.com/item?id=40407472) - [Nitrogen dioxide exposure due to gas and propane combustion by U.S. stoves](https://www.science.org/doi/10.1126/sciadv.adm8680)
 * [2024-05-19, 14:33:10](https://news.ycombinator.com/item?id=40407228) - [Swarming Proxima Centauri: Picospacecraft Swarms over Interstellar Distances](https://astrobiology.com/2024/05/swarming-proxima-centauri-coherent-picospacecraft-swarms-over-interstellar-distances.html)
 * [2024-05-19, 12:52:51](https://news.ycombinator.com/item?id=40406626) - [I'm tired of \"AI\" products wrapped over and selling at high rates](https://news.ycombinator.com/item?id=40406626)
 * [2024-05-19, 12:00:25](https://news.ycombinator.com/item?id=40406344) - [Show HN: Digital player board for Terraforming Mars](https://terraforming-mars-player-board.netlify.app/)
@@ -21,15 +24,12 @@
 * [2024-05-18, 17:50:10](https://news.ycombinator.com/item?id=40400648) - [Floor796](https://floor796.com/)
 * [2024-05-18, 17:48:55](https://news.ycombinator.com/item?id=40400635) - [Show HN: A Golang CP/M emulator](https://github.com/skx/cpmulator)
 * [2024-05-18, 16:21:23](https://news.ycombinator.com/item?id=40400139) - [I organized a 20-acre game of Capture the Flag](https://www.ntnbr.com/61/)
-* [2024-05-18, 12:24:34](https://news.ycombinator.com/item?id=40398420) - [Fixing the iterative damping interpolation in video games](https://blog.pkh.me/p/41-fixing-the-iterative-damping-interpolation-in-video-games.html)
 * [2024-05-18, 10:08:59](https://news.ycombinator.com/item?id=40397743) - [Worklenz: Open-Source, All in one project management tool](https://github.com/Worklenz/worklenz)
 * [2024-05-18, 10:06:59](https://news.ycombinator.com/item?id=40397737) - [YARA is dead, long live YARA-X](https://virustotal.github.io/yara-x/blog/yara-is-dead-long-live-yara-x/)
 * [2024-05-18, 08:15:11](https://news.ycombinator.com/item?id=40397284) - [A kids traffic mat in Elm](https://matiasklemola.com/liikennematto-devlog-five)
 * [2024-05-18, 07:04:04](https://news.ycombinator.com/item?id=40397002) - [Building a Waitlist (The Wrong Way)](https://jrhizor.dev/posts/building-a-waitlist-the-wrong-way/)
 * [2024-05-18, 06:08:37](https://news.ycombinator.com/item?id=40396790) - [Retrospex: Convert images to fit Commodore 64 graphic modes](https://github.com/micheldebree/retrospex)
-* [2024-05-17, 20:51:52](https://news.ycombinator.com/item?id=40394104) - [Hashing Modulo Theories](https://www.philipzucker.com/hashing-modulo/)
 * [2024-05-17, 17:30:26](https://news.ycombinator.com/item?id=40392302) - [500-year-old maths problem turns out to apply to coffee and clocks](https://www.newscientist.com/article/2430522-500-year-old-maths-problem-turns-out-to-apply-to-coffee-and-clocks/)
-* [2024-05-16, 21:18:57](https://news.ycombinator.com/item?id=40383324) - [On hoot, on boot](https://wingolog.org/archives/2024/05/16/on-hoot-on-boot)
 
 ## [Archives](archives/index.md)
 
