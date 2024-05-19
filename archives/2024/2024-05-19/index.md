@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-19](index.md)
 
+* [2024-05-19, 14:00:56](https://news.ycombinator.com/item?id=40407032) - [An attorney says she saw her library reading habits reflected in mobile ads](https://www.theregister.com/2024/05/18/mystery_of_the_targeted_mobile_ads/)
 * [2024-05-19, 13:20:32](https://news.ycombinator.com/item?id=40406767) - [Woke Invades the Sciences](https://thecritic.co.uk/woke-invades-the-sciences/)
 * [2024-05-19, 12:54:29](https://news.ycombinator.com/item?id=40406638) - [The country closing in on zero deaths on its roads](https://www.bbc.com/future/article/20240517-vision-zero-how-europe-cut-the-number-of-people-dying-on-its-roads)
 * [2024-05-19, 12:52:05](https://news.ycombinator.com/item?id=40406623) - [A startup's \"tablet\" gears up to take on Apple's iPad](https://om.co/2024/05/18/daylight-tablet/)
