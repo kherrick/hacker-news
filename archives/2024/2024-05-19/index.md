@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-19](index.md)
 
+* [2024-05-19, 20:04:54](https://news.ycombinator.com/item?id=40409405) - [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
+* [2024-05-19, 19:49:04](https://news.ycombinator.com/item?id=40409309) - [Meringue Philosophy](https://meringue.readthedocs.io/en/latest/meringue_philosophy.html)
 * [2024-05-19, 19:30:53](https://news.ycombinator.com/item?id=40409197) - [Free Julian Assange](https://freeassange.org/)
 * [2024-05-19, 19:20:24](https://news.ycombinator.com/item?id=40409129) - [Am I too old to create a popular programming language?](https://pldb.io/posts/age.html)
 * [2024-05-19, 19:07:22](https://news.ycombinator.com/item?id=40409043) - [First Black astronaut candidate, now 90, reaches space in Blue Origin flight](https://www.theguardian.com/science/article/2024/may/19/ed-dwight-blue-origin-first-black-astronaut-candidate)
