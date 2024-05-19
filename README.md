@@ -18,7 +18,7 @@
 * [2024-05-19, 02:30:20](https://news.ycombinator.com/item?id=40403715) - [Mathematicians and the Selection Task (2004)](https://eric.ed.gov/?id=ED489556)
 * [2024-05-19, 02:18:23](https://news.ycombinator.com/item?id=40403658) - [Show HN: Open-source GeForce NOW alternative with Stadia's social features](https://github.com/netrisdotme/netris)
 * [2024-05-19, 01:58:42](https://news.ycombinator.com/item?id=40403569) - [Michelle's List: A free, anonymous landlord review site](https://www.michelleslist.com/)
-* [2024-05-19, 00:36:11](https://news.ycombinator.com/item?id=40403221) - [Mortgages Are a Manufactured Product](https://www.bitsaboutmoney.com/archive/mortgages-are-a-manufactured-product/)
+* [2024-05-19, 00:36:11](https://news.ycombinator.com/item?id=40403221) - [Mortgages are a manufactured product (2022)](https://www.bitsaboutmoney.com/archive/mortgages-are-a-manufactured-product/)
 * [2024-05-18, 23:37:16](https://news.ycombinator.com/item?id=40402975) - [Intel undercut a standards body to give us the PCI connector](https://spectrum.ieee.org/intel-pci-history)
 * [2024-05-18, 22:46:24](https://news.ycombinator.com/item?id=40402712) - [Apache NuttX RTOS on Sophgo SG2000 RISC-V SoC (Milk-V Duo S SBC)](https://lupyuen.codeberg.page/articles/sg2000.html)
 * [2024-05-18, 19:24:17](https://news.ycombinator.com/item?id=40401343) - [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)
