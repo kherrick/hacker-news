@@ -63,6 +63,7 @@
 * [2024-05-18, 14:12:20](https://news.ycombinator.com/item?id=40399224) - [I Couldn't Escape Poison Oak. So I Started Eating It](https://www.wsj.com/style/eat-poison-ivy-oak-immunity-3207ec3c)
 * [2024-05-18, 13:37:13](https://news.ycombinator.com/item?id=40398966) - [Case study: €115,100 from 8,750 Transactions in 3 Days, Showcasing payments](https://blog.btcpayserver.org/case-study-bitcoin-atlantis/)
 * [2024-05-18, 12:52:14](https://news.ycombinator.com/item?id=40398609) - [Men's Shirts Button on the Right. Why Do Women's Button on the Left?](https://www.smithsonianmag.com/smart-news/mens-shirts-button-on-the-right-why-do-womens-button-on-the-left-180957361/)
+* [2024-05-18, 12:32:53](https://news.ycombinator.com/item?id=40398480) - [What ever happened to Modula-2?](https://www.goto10retro.com/p/what-ever-happened-to-modula-2)
 * [2024-05-18, 12:24:34](https://news.ycombinator.com/item?id=40398420) - [Fixing the iterative damping interpolation in video games](https://blog.pkh.me/p/41-fixing-the-iterative-damping-interpolation-in-video-games.html)
 * [2024-05-18, 12:19:25](https://news.ycombinator.com/item?id=40398394) - [Why a New Yorker Story on a Notorious Murder Case Is Blocked in Britain](https://www.nytimes.com/2024/05/16/world/europe/new-yorker-story-murder-letby-britain.html)
 * [2024-05-18, 11:29:03](https://news.ycombinator.com/item?id=40398094) - [Sorry, Wrong Number](https://www.roads.org.uk/blog/sorry-wrong-number)
