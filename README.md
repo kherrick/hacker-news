@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-19, 19:20:24](https://news.ycombinator.com/item?id=40409129) - [Am I too old to create a popular programming language?](https://pldb.io/posts/age.html)
 * [2024-05-19, 19:07:22](https://news.ycombinator.com/item?id=40409043) - [First Black astronaut candidate, now 90, reaches space in Blue Origin flight](https://www.theguardian.com/science/article/2024/may/19/ed-dwight-blue-origin-first-black-astronaut-candidate)
 * [2024-05-19, 18:42:06](https://news.ycombinator.com/item?id=40408880) - [Llama3 implemented from scratch](https://github.com/naklecha/llama3-from-scratch)
 * [2024-05-19, 17:51:41](https://news.ycombinator.com/item?id=40408515) - [Ask HN: Video streaming is expensive yet YouTube \"seems\" to do it for free. How?](https://news.ycombinator.com/item?id=40408515)
@@ -27,7 +28,6 @@
 * [2024-05-18, 12:32:53](https://news.ycombinator.com/item?id=40398480) - [What ever happened to Modula-2?](https://www.goto10retro.com/p/what-ever-happened-to-modula-2)
 * [2024-05-18, 11:29:03](https://news.ycombinator.com/item?id=40398094) - [Sorry, wrong number](https://www.roads.org.uk/blog/sorry-wrong-number)
 * [2024-05-18, 10:30:27](https://news.ycombinator.com/item?id=40397834) - [Working with jumbo/unity builds in C/C++](https://austinmorlan.com/posts/unity_jumbo_build/)
-* [2024-05-18, 10:06:59](https://news.ycombinator.com/item?id=40397737) - [YARA is dead, long live YARA-X](https://virustotal.github.io/yara-x/blog/yara-is-dead-long-live-yara-x/)
 * [2024-05-18, 08:15:11](https://news.ycombinator.com/item?id=40397284) - [A kids traffic mat in Elm](https://matiasklemola.com/liikennematto-devlog-five)
 * [2024-05-18, 07:04:04](https://news.ycombinator.com/item?id=40397002) - [Building a Waitlist (The Wrong Way)](https://jrhizor.dev/posts/building-a-waitlist-the-wrong-way/)
 
