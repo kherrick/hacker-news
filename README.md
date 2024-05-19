@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-19, 14:00:56](https://news.ycombinator.com/item?id=40407032) - [An attorney says she saw her library reading habits reflected in mobile ads](https://www.theregister.com/2024/05/18/mystery_of_the_targeted_mobile_ads/)
+* [2024-05-19, 13:34:42](https://news.ycombinator.com/item?id=40406863) - [Terabytes of Old Usenet Articles since 1980s Restored in 471,000 News Groups](https://news.admin.peering.narkive.com/jqTCQePo/are-these-the-only-3-known-updated-usenet-archives-left)
 * [2024-05-19, 12:00:25](https://news.ycombinator.com/item?id=40406344) - [Show HN: Digital player board for Terraforming Mars](https://terraforming-mars-player-board.netlify.app/)
 * [2024-05-19, 11:33:43](https://news.ycombinator.com/item?id=40406194) - [Compilers for Free with Weval](https://bernsteinbear.com/blog/weval/)
 * [2024-05-19, 10:08:37](https://news.ycombinator.com/item?id=40405763) - [You could have invented fractional cascading](http://blog.ezyang.com/2012/03/you-could-have-invented-fractional-cascading/)
 * [2024-05-19, 09:30:16](https://news.ycombinator.com/item?id=40405578) - [Transforming a QLC SSD into an SLC SSD](https://theoverclockingpage.com/2024/05/13/tutorial-transforming-a-qlc-ssd-into-an-slc-ssd-dramatically-increasing-the-drives-endurance/?lang=en)
-* [2024-05-19, 08:36:34](https://news.ycombinator.com/item?id=40405340) - [“No Mow May“ Won't Fix Our Biodiversity Problems](https://www.motherjones.com/environment/2024/05/no-mow-may-bad-science-lawns-grass-biodiversity/)
 * [2024-05-19, 07:01:00](https://news.ycombinator.com/item?id=40404825) - [Emerge Tools (YC W21) is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
 * [2024-05-19, 05:35:39](https://news.ycombinator.com/item?id=40404498) - [Will Better Superconductors Transform the World?](https://www.quantamagazine.org/will-better-superconductors-transform-the-world-20240509/)
 * [2024-05-19, 05:31:13](https://news.ycombinator.com/item?id=40404488) - [The Iberian lynx doubles its population in just three years](https://english.elpais.com/science-tech/2024-05-17/the-iberian-lynx-doubles-its-population-in-just-three-years-and-reaches-2000-individuals.html)
