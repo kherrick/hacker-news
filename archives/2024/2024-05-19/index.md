@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-19](index.md)
 
+* [2024-05-19, 16:35:00](https://news.ycombinator.com/item?id=40408040) - [Russia's glide bombs devastating Ukraine's cities on the cheap](https://www.bbc.com/news/articles/cz5drkr8l1ko)
 * [2024-05-19, 16:19:06](https://news.ycombinator.com/item?id=40407927) - [Training my own AI to steal artists' styles](https://julienposture.substack.com/p/the-ai-doppelganger-experiment-part)
 * [2024-05-19, 15:52:41](https://news.ycombinator.com/item?id=40407709) - [Amazon Defends Its Use of Signal Messages in Court](https://www.geekwire.com/2024/nothing-to-see-here-amazon-tells-court-in-response-to-ftcs-complaints-about-signal-messages/)
 * [2024-05-19, 15:45:06](https://news.ycombinator.com/item?id=40407659) - [Italy's $12.7B Bridge to Sicily [video]](https://www.youtube.com/watch?v=wt1S46iqBAY)

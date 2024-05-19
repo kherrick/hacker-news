@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-19, 16:35:00](https://news.ycombinator.com/item?id=40408040) - [Russia's glide bombs devastating Ukraine's cities on the cheap](https://www.bbc.com/news/articles/cz5drkr8l1ko)
 * [2024-05-19, 16:19:06](https://news.ycombinator.com/item?id=40407927) - [Training my own AI to steal artists' styles](https://julienposture.substack.com/p/the-ai-doppelganger-experiment-part)
 * [2024-05-19, 15:45:06](https://news.ycombinator.com/item?id=40407659) - [Italy's $12.7B Bridge to Sicily [video]](https://www.youtube.com/watch?v=wt1S46iqBAY)
 * [2024-05-19, 15:24:12](https://news.ycombinator.com/item?id=40407526) - [Make Timelapse easily using FFmpeg](https://news.ycombinator.com/item?id=40407526)
@@ -22,7 +23,6 @@
 * [2024-05-18, 20:19:39](https://news.ycombinator.com/item?id=40401755) - [Radio Caroline turns 60](https://abcnews.go.com/International/radio-caroline-britains-pirate-radio-station-broadcasting-sea/story?id=110204908)
 * [2024-05-18, 19:24:17](https://news.ycombinator.com/item?id=40401343) - [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)
 * [2024-05-18, 17:50:10](https://news.ycombinator.com/item?id=40400648) - [Floor796](https://floor796.com/)
-* [2024-05-18, 17:48:55](https://news.ycombinator.com/item?id=40400635) - [Show HN: A Golang CP/M emulator](https://github.com/skx/cpmulator)
 * [2024-05-18, 11:29:03](https://news.ycombinator.com/item?id=40398094) - [Sorry, Wrong Number](https://www.roads.org.uk/blog/sorry-wrong-number)
 * [2024-05-18, 10:08:59](https://news.ycombinator.com/item?id=40397743) - [Worklenz: Open-Source, All in one project management tool](https://github.com/Worklenz/worklenz)
 * [2024-05-18, 10:06:59](https://news.ycombinator.com/item?id=40397737) - [YARA is dead, long live YARA-X](https://virustotal.github.io/yara-x/blog/yara-is-dead-long-live-yara-x/)
