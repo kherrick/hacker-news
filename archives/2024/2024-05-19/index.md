@@ -6,6 +6,7 @@
 
 * [2024-05-19, 02:39:07](https://news.ycombinator.com/item?id=40403768) - [Reading list to join AI field from Hugging Face cofounder](https://thomwolf.io/data/Thom_wolf_reading_list.txt)
 * [2024-05-19, 02:30:20](https://news.ycombinator.com/item?id=40403715) - [Mathematicians and the Selection Task](https://eric.ed.gov/?id=ED489556)
+* [2024-05-19, 02:18:23](https://news.ycombinator.com/item?id=40403658) - [Show HN: Open-source GeForce NOW alternative with Stadia's social features](https://github.com/netrisdotme/netris)
 * [2024-05-19, 01:58:42](https://news.ycombinator.com/item?id=40403569) - [Michelle's List: Glassdoor but for Landlords and Properties](https://www.michelleslist.com/)
 * [2024-05-19, 01:50:20](https://news.ycombinator.com/item?id=40403524) - [Microsoft's Emissions Spike 29% as AI Gobbles Up Resources](https://www.pcmag.com/news/microsofts-emissions-spike-29-as-ai-gobbles-up-resources)
 * [2024-05-19, 00:09:55](https://news.ycombinator.com/item?id=40403115) - [How to Exit Vim](https://github.com/hakluke/how-to-exit-vim/blob/master/README.md)

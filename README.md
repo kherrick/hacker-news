@@ -2,11 +2,11 @@
 
 * [2024-05-19, 02:39:07](https://news.ycombinator.com/item?id=40403768) - [Reading list to join AI field from Hugging Face cofounder](https://thomwolf.io/data/Thom_wolf_reading_list.txt)
 * [2024-05-19, 02:30:20](https://news.ycombinator.com/item?id=40403715) - [Mathematicians and the Selection Task](https://eric.ed.gov/?id=ED489556)
+* [2024-05-19, 02:18:23](https://news.ycombinator.com/item?id=40403658) - [Show HN: Open-source GeForce NOW alternative with Stadia's social features](https://github.com/netrisdotme/netris)
 * [2024-05-19, 01:58:42](https://news.ycombinator.com/item?id=40403569) - [Michelle's List: Glassdoor but for Landlords and Properties](https://www.michelleslist.com/)
 * [2024-05-19, 01:50:20](https://news.ycombinator.com/item?id=40403524) - [Microsoft's Emissions Spike 29% as AI Gobbles Up Resources](https://www.pcmag.com/news/microsofts-emissions-spike-29-as-ai-gobbles-up-resources)
 * [2024-05-18, 23:10:31](https://news.ycombinator.com/item?id=40402838) - [Common Data Structures in Common Lisp](https://blog.djhaskin.com/blog/common-data-structures-in-common-lisp/)
 * [2024-05-18, 22:49:17](https://news.ycombinator.com/item?id=40402734) - [Go Browser Package](https://browser.dineshgowda.com/)
-* [2024-05-18, 22:46:24](https://news.ycombinator.com/item?id=40402712) - [Apache NuttX RTOS on Sophgo SG2000 RISC-V SoC (Milk-V Duo S SBC)](https://lupyuen.codeberg.page/articles/sg2000.html)
 * [2024-05-18, 22:21:44](https://news.ycombinator.com/item?id=40402585) - [A Hack of Psychotherapy Records Revealed a Nation's Secrets](https://www.bloomberg.com/news/features/2024-04-22/a-massive-therapy-hack-shows-just-how-unsafe-patients-files-can-be)
 * [2024-05-18, 21:01:25](https://news.ycombinator.com/item?id=40402076) - [Streak (YC W22) is hiring a staff web UI engineer (remote)](https://www.streak.com/careers/staff-ui-engineer)
 * [2024-05-18, 20:25:43](https://news.ycombinator.com/item?id=40401803) - [On English Melancholy](https://thereader.mitpress.mit.edu/on-english-melancholy/)
