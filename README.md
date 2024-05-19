@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-19, 15:52:41](https://news.ycombinator.com/item?id=40407709) - [Amazon Defends Its Use of Signal Messages in Court](https://www.geekwire.com/2024/nothing-to-see-here-amazon-tells-court-in-response-to-ftcs-complaints-about-signal-messages/)
 * [2024-05-19, 15:24:12](https://news.ycombinator.com/item?id=40407526) - [Make Timelapse easily using FFmpeg](https://news.ycombinator.com/item?id=40407526)
-* [2024-05-19, 15:15:09](https://news.ycombinator.com/item?id=40407472) - [Nitrogen dioxide exposure due to gas and propane combustion by U.S. stoves](https://www.science.org/doi/10.1126/sciadv.adm8680)
 * [2024-05-19, 14:33:10](https://news.ycombinator.com/item?id=40407228) - [Swarming Proxima Centauri: Picospacecraft Swarms over Interstellar Distances](https://astrobiology.com/2024/05/swarming-proxima-centauri-coherent-picospacecraft-swarms-over-interstellar-distances.html)
 * [2024-05-19, 12:00:25](https://news.ycombinator.com/item?id=40406344) - [Show HN: Digital player board for Terraforming Mars](https://terraforming-mars-player-board.netlify.app/)
 * [2024-05-19, 11:33:43](https://news.ycombinator.com/item?id=40406194) - [Compilers for Free with Weval](https://bernsteinbear.com/blog/weval/)

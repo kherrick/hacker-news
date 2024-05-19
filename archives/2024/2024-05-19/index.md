@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-19](index.md)
 
+* [2024-05-19, 15:52:41](https://news.ycombinator.com/item?id=40407709) - [Amazon Defends Its Use of Signal Messages in Court](https://www.geekwire.com/2024/nothing-to-see-here-amazon-tells-court-in-response-to-ftcs-complaints-about-signal-messages/)
 * [2024-05-19, 15:28:27](https://news.ycombinator.com/item?id=40407555) - [Zelda: Majora's Mask is now a native PC game, and every N64 title could follow](https://www.theverge.com/2024/5/13/24155636/n64-recompiled-port-nintendo-games-zelda-majoras-mask)
 * [2024-05-19, 15:24:36](https://news.ycombinator.com/item?id=40407530) - [President of Iran in Helicopter Crash](https://www.bbc.co.uk/news/live/world-middle-east-69035051)
 * [2024-05-19, 15:24:12](https://news.ycombinator.com/item?id=40407526) - [Make Timelapse easily using FFmpeg](https://news.ycombinator.com/item?id=40407526)
