@@ -29,6 +29,7 @@
 * [2024-05-19, 05:12:28](https://news.ycombinator.com/item?id=40404423) - [Katy – 68000 Linux on a Solderless Breadboard](https://www.bigmessowires.com/2014/11/17/68-katy-68000-linux-on-a-solderless-breadboard/)
 * [2024-05-19, 04:42:55](https://news.ycombinator.com/item?id=40404332) - [How GM Made the $35,000 Chevrolet Equinox EV into a 319-Mile Range Champ](https://insideevs.com/news/720117/gm-equinox-affordable-tech-preview/)
 * [2024-05-19, 04:31:54](https://news.ycombinator.com/item?id=40404296) - [Big Tech to EU: \"Drop Dead\"](https://www.eff.org/deeplinks/2024/05/big-tech-eu-drop-dead)
+* [2024-05-19, 04:30:25](https://news.ycombinator.com/item?id=40404286) - [Building a Homelab, Part 4 – Nixification, Kubernetes](https://blog.janissary.xyz/posts/homelab-4)
 * [2024-05-19, 03:37:51](https://news.ycombinator.com/item?id=40404075) - [New blood test for stroke combines blood-based biomarkers with a clinical score](https://medicalxpress.com/news/2024-05-blood-combines-based-biomarkers-clinical.html)
 * [2024-05-19, 03:34:45](https://news.ycombinator.com/item?id=40404054) - [Riven](https://www.filfre.net/2024/05/riven/)
 * [2024-05-19, 03:18:04](https://news.ycombinator.com/item?id=40403962) - [Is artificial consciousness achievable? Lessons from the human brain](https://arxiv.org/abs/2405.04540)
