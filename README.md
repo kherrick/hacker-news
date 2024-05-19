@@ -2,10 +2,10 @@
 
 * [2024-05-19, 21:01:15](https://news.ycombinator.com/item?id=40409710) - [Meteor Just Seen in Portugal](https://old.reddit.com/r/interestingasfuck/comments/1cva6j6/meteor_just_seen_in_portugal_23h45/)
 * [2024-05-19, 20:54:08](https://news.ycombinator.com/item?id=40409671) - [The Toilet Theory of the Internet](https://www.theatlantic.com/technology/archive/2024/05/google-generative-ai-search-toilet-theory/678411/)
+* [2024-05-19, 20:24:55](https://news.ycombinator.com/item?id=40409509) - [North Korea's bizarre, post-modern cityscapes](https://www.reuters.com/pictures/architecture-control-north-koreas-bizarre-post-modern-cityscapes-2024-05-19/)
 * [2024-05-19, 20:04:54](https://news.ycombinator.com/item?id=40409405) - [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
 * [2024-05-19, 19:49:04](https://news.ycombinator.com/item?id=40409309) - [Meringue Philosophy](https://meringue.readthedocs.io/en/latest/meringue_philosophy.html)
 * [2024-05-19, 19:44:24](https://news.ycombinator.com/item?id=40409290) - [Updating from macOS Ventura to Sonoma Silently Enables iCloud Keychain](https://lapcatsoftware.com/articles/2024/5/3.html)
-* [2024-05-19, 19:33:16](https://news.ycombinator.com/item?id=40409222) - [How often is the wife taller than the husband?](https://statmodeling.stat.columbia.edu/2024/04/29/boris-and-natasha-in-america-how-often-is-the-wife-taller-than-the-husband/)
 * [2024-05-19, 18:42:06](https://news.ycombinator.com/item?id=40408880) - [Llama3 implemented from scratch](https://github.com/naklecha/llama3-from-scratch)
 * [2024-05-19, 17:15:29](https://news.ycombinator.com/item?id=40408291) - [Coding My Handwriting](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript)
 * [2024-05-19, 16:19:06](https://news.ycombinator.com/item?id=40407927) - [AI doppelgänger experiment – Part 1: The training](https://julienposture.substack.com/p/the-ai-doppelganger-experiment-part)
@@ -16,6 +16,7 @@
 * [2024-05-19, 12:00:25](https://news.ycombinator.com/item?id=40406344) - [Show HN: Digital player board for Terraforming Mars](https://terraforming-mars-player-board.netlify.app/)
 * [2024-05-19, 11:33:43](https://news.ycombinator.com/item?id=40406194) - [Compilers for free with weval](https://bernsteinbear.com/blog/weval/)
 * [2024-05-19, 09:30:16](https://news.ycombinator.com/item?id=40405578) - [Transforming a QLC SSD into an SLC SSD](https://theoverclockingpage.com/2024/05/13/tutorial-transforming-a-qlc-ssd-into-an-slc-ssd-dramatically-increasing-the-drives-endurance/?lang=en)
+* [2024-05-19, 07:01:00](https://news.ycombinator.com/item?id=40404825) - [Emerge Tools (YC W21) is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
 * [2024-05-19, 05:12:28](https://news.ycombinator.com/item?id=40404423) - [Katy – 68000 Linux on a Solderless Breadboard (2014)](https://www.bigmessowires.com/2014/11/17/68-katy-68000-linux-on-a-solderless-breadboard/)
 * [2024-05-19, 03:34:45](https://news.ycombinator.com/item?id=40404054) - [Riven](https://www.filfre.net/2024/05/riven/)
 * [2024-05-19, 03:18:04](https://news.ycombinator.com/item?id=40403962) - [Is artificial consciousness achievable? Lessons from the human brain](https://arxiv.org/abs/2405.04540)
@@ -29,7 +30,6 @@
 * [2024-05-18, 10:52:33](https://news.ycombinator.com/item?id=40397908) - [Commuter train window cleaning conundrum in NJ](https://www.nj.com/news/2024/05/why-you-cant-see-out-the-window-on-some-nj-transit-trains.html)
 * [2024-05-18, 10:30:27](https://news.ycombinator.com/item?id=40397834) - [Working with jumbo/unity builds in C/C++](https://austinmorlan.com/posts/unity_jumbo_build/)
 * [2024-05-18, 08:15:11](https://news.ycombinator.com/item?id=40397284) - [A kids traffic mat in Elm](https://matiasklemola.com/liikennematto-devlog-five)
-* [2024-05-18, 07:04:04](https://news.ycombinator.com/item?id=40397002) - [Building a Waitlist (The Wrong Way)](https://jrhizor.dev/posts/building-a-waitlist-the-wrong-way/)
 
 ## [Archives](archives/index.md)
 
