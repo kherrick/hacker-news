@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-19, 23:01:24](https://news.ycombinator.com/item?id=40410398) - [I'm a Former Surgeon General and I Couldn't Believe My $10k Medical Bill](https://scheerpost.com/2024/05/19/im-a-former-surgeon-general-and-i-couldnt-believe-my-10k-medical-bill/)
 * [2024-05-19, 22:52:01](https://news.ycombinator.com/item?id=40410341) - [Hertz Charging a Tesla Renter for Gas Was Not an Isolated Incident](https://www.thedrive.com/news/hertz-charging-a-tesla-renter-for-gas-was-not-an-isolated-incident)
 * [2024-05-19, 22:16:25](https://news.ycombinator.com/item?id=40410158) - [Ubuntu 24.10 to Default to Wayland for Nvidia Users](https://www.omgubuntu.co.uk/2024/05/ubuntu-24-10-wayland-nvidia)
 * [2024-05-19, 21:08:17](https://news.ycombinator.com/item?id=40409757) - [Unprojecting Text with Ellipses (2016)](https://mzucker.github.io/2016/10/11/unprojecting-text-with-ellipses.html)
@@ -7,7 +8,6 @@
 * [2024-05-19, 21:01:15](https://news.ycombinator.com/item?id=40409710) - [Meteor Just Seen in Portugal](https://old.reddit.com/r/interestingasfuck/comments/1cva6j6/meteor_just_seen_in_portugal_23h45/)
 * [2024-05-19, 20:39:12](https://news.ycombinator.com/item?id=40409588) - [Operation CHARM: Car repair manuals for everyone](https://charm.li/)
 * [2024-05-19, 20:04:54](https://news.ycombinator.com/item?id=40409405) - [Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
-* [2024-05-19, 20:01:29](https://news.ycombinator.com/item?id=40409388) - [Teaching Algorithm Design: A Literature Review](https://arxiv.org/abs/2405.00832)
 * [2024-05-19, 19:49:04](https://news.ycombinator.com/item?id=40409309) - [Meringue Philosophy](https://meringue.readthedocs.io/en/latest/meringue_philosophy.html)
 * [2024-05-19, 19:44:24](https://news.ycombinator.com/item?id=40409290) - [Updating from macOS Ventura to Sonoma Silently Enables iCloud Keychain](https://lapcatsoftware.com/articles/2024/5/3.html)
 * [2024-05-19, 18:42:06](https://news.ycombinator.com/item?id=40408880) - [Llama3 implemented from scratch](https://github.com/naklecha/llama3-from-scratch)

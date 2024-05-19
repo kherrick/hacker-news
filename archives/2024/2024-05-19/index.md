@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-19](index.md)
 
+* [2024-05-19, 23:01:24](https://news.ycombinator.com/item?id=40410398) - [I'm a Former Surgeon General and I Couldn't Believe My $10k Medical Bill](https://scheerpost.com/2024/05/19/im-a-former-surgeon-general-and-i-couldnt-believe-my-10k-medical-bill/)
 * [2024-05-19, 22:52:01](https://news.ycombinator.com/item?id=40410341) - [Hertz Charging a Tesla Renter for Gas Was Not an Isolated Incident](https://www.thedrive.com/news/hertz-charging-a-tesla-renter-for-gas-was-not-an-isolated-incident)
 * [2024-05-19, 22:16:25](https://news.ycombinator.com/item?id=40410158) - [Ubuntu 24.10 to Default to Wayland for Nvidia Users](https://www.omgubuntu.co.uk/2024/05/ubuntu-24-10-wayland-nvidia)
 * [2024-05-19, 21:08:17](https://news.ycombinator.com/item?id=40409757) - [Unprojecting Text with Ellipses (2016)](https://mzucker.github.io/2016/10/11/unprojecting-text-with-ellipses.html)
