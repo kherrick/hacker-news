@@ -79,6 +79,7 @@
 * [2024-05-18, 09:01:18](https://news.ycombinator.com/item?id=40397507) - [DOJ: Man sentenced to 14 years for posession of deepfake CSAM](https://www.justice.gov/opa/pr/recidivist-sex-offender-sentenced-possessing-deepfake-child-sexual-abuse-material)
 * [2024-05-18, 08:46:59](https://news.ycombinator.com/item?id=40397442) - [Gio UI – Cross-Platform GUI for Go](https://gioui.org/)
 * [2024-05-18, 07:06:10](https://news.ycombinator.com/item?id=40397015) - [China Builds First Dedicated Drone Carrier](https://www.navalnews.com/naval-news/2024/05/china-builds-worlds-first-dedicated-drone-carrier/)
+* [2024-05-18, 07:03:15](https://news.ycombinator.com/item?id=40397000) - [Ken Silverman's Official Home Page](http://advsys.net/ken/)
 * [2024-05-18, 07:00:31](https://news.ycombinator.com/item?id=40396989) - [Truemetrics (YC S23) is hiring a back end engineer](https://www.ycombinator.com/companies/truemetrics/jobs/CyhEPcE-python-developer-with-strong-backend-and-aws-and-data-skills)
 * [2024-05-18, 06:15:34](https://news.ycombinator.com/item?id=40396819) - [Transforming the National Gallery, one painting at a time](https://www.apollo-magazine.com/peter-schade-national-gallery-london-framing-frames-interview/)
 * [2024-05-18, 06:15:05](https://news.ycombinator.com/item?id=40396818) - [GPT-4o hit 54% accuracy on CodeContests with AlphaCodium, up from 48% for GPT-4T](https://github.com/Codium-ai/AlphaCodium)
