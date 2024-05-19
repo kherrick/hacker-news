@@ -16,6 +16,7 @@
 * [2024-05-19, 04:31:54](https://news.ycombinator.com/item?id=40404296) - [Big Tech to EU: \"Drop Dead\"](https://www.eff.org/deeplinks/2024/05/big-tech-eu-drop-dead)
 * [2024-05-19, 03:37:51](https://news.ycombinator.com/item?id=40404075) - [New blood test for stroke combines blood-based biomarkers with a clinical score](https://medicalxpress.com/news/2024-05-blood-combines-based-biomarkers-clinical.html)
 * [2024-05-19, 03:34:45](https://news.ycombinator.com/item?id=40404054) - [Riven](https://www.filfre.net/2024/05/riven/)
+* [2024-05-19, 03:18:04](https://news.ycombinator.com/item?id=40403962) - [Is artificial consciousness achievable? Lessons from the human brain](https://arxiv.org/abs/2405.04540)
 * [2024-05-19, 02:39:07](https://news.ycombinator.com/item?id=40403768) - [Reading list to join AI field from Hugging Face cofounder](https://thomwolf.io/data/Thom_wolf_reading_list.txt)
 * [2024-05-19, 02:30:20](https://news.ycombinator.com/item?id=40403715) - [Mathematicians and the Selection Task](https://eric.ed.gov/?id=ED489556)
 * [2024-05-19, 02:18:23](https://news.ycombinator.com/item?id=40403658) - [Show HN: Open-source GeForce NOW alternative with Stadia's social features](https://github.com/netrisdotme/netris)
