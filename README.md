@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-19, 07:01:00](https://news.ycombinator.com/item?id=40404825) - [Emerge Tools (YC W21) is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
+* [2024-05-19, 05:46:25](https://news.ycombinator.com/item?id=40404522) - [I Might've Been a Rocket Scientist (Like My Dad), but I Was a Girl](https://exponentii.org/blog/i-mightve-been-a-rocket-scientist-like-my-dad-but-i-was-a-girl/)
 * [2024-05-19, 05:35:39](https://news.ycombinator.com/item?id=40404498) - [Will Better Superconductors Transform the World?](https://www.quantamagazine.org/will-better-superconductors-transform-the-world-20240509/)
 * [2024-05-19, 05:31:13](https://news.ycombinator.com/item?id=40404488) - [The Iberian lynx doubles its population in just three years](https://english.elpais.com/science-tech/2024-05-17/the-iberian-lynx-doubles-its-population-in-just-three-years-and-reaches-2000-individuals.html)
 * [2024-05-19, 05:16:41](https://news.ycombinator.com/item?id=40404440) - [Classic Usenet posts on computer architecture, operating systems and languages](https://yarchive.net/comp/index.html)
 * [2024-05-19, 05:12:28](https://news.ycombinator.com/item?id=40404423) - [Katy – 68000 Linux on a Solderless Breadboard](https://www.bigmessowires.com/2014/11/17/68-katy-68000-linux-on-a-solderless-breadboard/)
-* [2024-05-19, 04:42:55](https://news.ycombinator.com/item?id=40404332) - [How GM Made the $35,000 Chevrolet Equinox EV into a 319-Mile Range Champ](https://insideevs.com/news/720117/gm-equinox-affordable-tech-preview/)
 * [2024-05-19, 04:31:54](https://news.ycombinator.com/item?id=40404296) - [Big Tech to EU: \"Drop Dead\"](https://www.eff.org/deeplinks/2024/05/big-tech-eu-drop-dead)
 * [2024-05-19, 03:37:51](https://news.ycombinator.com/item?id=40404075) - [New blood test for stroke combines blood-based biomarkers with a clinical score](https://medicalxpress.com/news/2024-05-blood-combines-based-biomarkers-clinical.html)
 * [2024-05-19, 03:34:45](https://news.ycombinator.com/item?id=40404054) - [Riven](https://www.filfre.net/2024/05/riven/)
