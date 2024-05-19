@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-19, 18:29:02](https://news.ycombinator.com/item?id=40408804) - [Slack users horrified to discover messages used for AI training](https://arstechnica.com/tech-policy/2024/05/slack-defends-default-opt-in-for-ai-training-on-chats-amid-user-outrage/)
 * [2024-05-19, 18:02:40](https://news.ycombinator.com/item?id=40408594) - [AI Regulations Are Crony Capitalism in Action](https://reason.com/2024/05/19/ais-cozy-crony-capitalism/)
 * [2024-05-19, 16:19:06](https://news.ycombinator.com/item?id=40407927) - [Training my own AI to steal artists' styles](https://julienposture.substack.com/p/the-ai-doppelganger-experiment-part)
 * [2024-05-19, 16:13:35](https://news.ycombinator.com/item?id=40407884) - [A Floppy Disk MIDI Boombox: The Yamaha MDP-10](https://nicole.express/2024/elementary-midi-watson.html)
@@ -16,7 +17,6 @@
 * [2024-05-19, 03:37:51](https://news.ycombinator.com/item?id=40404075) - [New blood test for stroke combines blood-based biomarkers with a clinical score](https://medicalxpress.com/news/2024-05-blood-combines-based-biomarkers-clinical.html)
 * [2024-05-19, 03:34:45](https://news.ycombinator.com/item?id=40404054) - [Riven](https://www.filfre.net/2024/05/riven/)
 * [2024-05-19, 03:18:04](https://news.ycombinator.com/item?id=40403962) - [Is artificial consciousness achievable? Lessons from the human brain](https://arxiv.org/abs/2405.04540)
-* [2024-05-19, 02:30:20](https://news.ycombinator.com/item?id=40403715) - [Mathematicians and the Selection Task (2004)](https://eric.ed.gov/?id=ED489556)
 * [2024-05-18, 23:37:16](https://news.ycombinator.com/item?id=40402975) - [Intel undercut a standards body to give us the PCI connector](https://spectrum.ieee.org/intel-pci-history)
 * [2024-05-18, 22:47:29](https://news.ycombinator.com/item?id=40402719) - [Show HN: Brawshot – Basic temporal denoise for videos in BRAW format](https://github.com/hackyourlife/brawshot)
 * [2024-05-18, 20:19:47](https://news.ycombinator.com/item?id=40401758) - [The Ambling Mind](https://theconvivialsociety.substack.com/p/the-ambling-mind)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-19](index.md)
 
+* [2024-05-19, 18:29:02](https://news.ycombinator.com/item?id=40408804) - [Slack users horrified to discover messages used for AI training](https://arstechnica.com/tech-policy/2024/05/slack-defends-default-opt-in-for-ai-training-on-chats-amid-user-outrage/)
 * [2024-05-19, 18:02:40](https://news.ycombinator.com/item?id=40408594) - [AI Regulations Are Crony Capitalism in Action](https://reason.com/2024/05/19/ais-cozy-crony-capitalism/)
 * [2024-05-19, 16:35:00](https://news.ycombinator.com/item?id=40408040) - [Russia's glide bombs devastating Ukraine's cities on the cheap](https://www.bbc.com/news/articles/cz5drkr8l1ko)
 * [2024-05-19, 16:19:06](https://news.ycombinator.com/item?id=40407927) - [Training my own AI to steal artists' styles](https://julienposture.substack.com/p/the-ai-doppelganger-experiment-part)
