@@ -2,9 +2,9 @@
 
 * [2024-05-19, 20:04:54](https://news.ycombinator.com/item?id=40409405) - [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
 * [2024-05-19, 19:49:04](https://news.ycombinator.com/item?id=40409309) - [Meringue Philosophy](https://meringue.readthedocs.io/en/latest/meringue_philosophy.html)
+* [2024-05-19, 19:33:16](https://news.ycombinator.com/item?id=40409222) - [How often is the wife taller than the husband?](https://statmodeling.stat.columbia.edu/2024/04/29/boris-and-natasha-in-america-how-often-is-the-wife-taller-than-the-husband/)
 * [2024-05-19, 19:20:24](https://news.ycombinator.com/item?id=40409129) - [Am I too old to create a popular programming language?](https://pldb.io/posts/age.html)
 * [2024-05-19, 18:42:06](https://news.ycombinator.com/item?id=40408880) - [Llama3 implemented from scratch](https://github.com/naklecha/llama3-from-scratch)
-* [2024-05-19, 17:51:41](https://news.ycombinator.com/item?id=40408515) - [Ask HN: Video streaming is expensive yet YouTube \"seems\" to do it for free. How?](https://news.ycombinator.com/item?id=40408515)
 * [2024-05-19, 17:15:29](https://news.ycombinator.com/item?id=40408291) - [Coding My Handwriting](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript)
 * [2024-05-19, 16:19:06](https://news.ycombinator.com/item?id=40407927) - [AI doppelgänger experiment – Part 1: The training](https://julienposture.substack.com/p/the-ai-doppelganger-experiment-part)
 * [2024-05-19, 16:13:35](https://news.ycombinator.com/item?id=40407884) - [A floppy disk MIDI boombox: The Yamaha MDP-10](https://nicole.express/2024/elementary-midi-watson.html)
