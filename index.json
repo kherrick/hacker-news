@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2024-05-19, 07:01:00",
-      "https://news.ycombinator.com/item?id=40404825"
-    ],
-    [
-      "Emerge Tools (YC W21) is hiring senior engineers to automate dead code deletion",
-      "https://www.emergetools.com/careers"
-    ]
-  ],
-  [
-    [
       "2024-05-19, 05:12:28",
       "https://news.ycombinator.com/item?id=40404423"
     ],
@@ -297,6 +287,16 @@
     [
       "Working with jumbo/unity builds in C/C++",
       "https://austinmorlan.com/posts/unity_jumbo_build/"
+    ]
+  ],
+  [
+    [
+      "2024-05-18, 08:15:11",
+      "https://news.ycombinator.com/item?id=40397284"
+    ],
+    [
+      "A kids traffic mat in Elm",
+      "https://matiasklemola.com/liikennematto-devlog-five"
     ]
   ]
 ]
