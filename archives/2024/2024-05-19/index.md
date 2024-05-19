@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-05-19](index.md)
 
+* [2024-05-19, 20:28:46](https://news.ycombinator.com/item?id=40409528) - [Unicode (1889)](https://archive.org/details/unicodeuniversa00unkngoog)
 * [2024-05-19, 20:04:54](https://news.ycombinator.com/item?id=40409405) - [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
 * [2024-05-19, 19:49:04](https://news.ycombinator.com/item?id=40409309) - [Meringue Philosophy](https://meringue.readthedocs.io/en/latest/meringue_philosophy.html)
+* [2024-05-19, 19:44:24](https://news.ycombinator.com/item?id=40409290) - [Updating from macOS Ventura to Sonoma Silently Enables iCloud Keychain](https://lapcatsoftware.com/articles/2024/5/3.html)
 * [2024-05-19, 19:33:16](https://news.ycombinator.com/item?id=40409222) - [How often is the wife taller than the husband?](https://statmodeling.stat.columbia.edu/2024/04/29/boris-and-natasha-in-america-how-often-is-the-wife-taller-than-the-husband/)
 * [2024-05-19, 19:30:53](https://news.ycombinator.com/item?id=40409197) - [Free Julian Assange](https://freeassange.org/)
 * [2024-05-19, 19:20:24](https://news.ycombinator.com/item?id=40409129) - [Am I too old to create a popular programming language?](https://pldb.io/posts/age.html)
