@@ -14,6 +14,7 @@
 * [2024-05-19, 05:12:28](https://news.ycombinator.com/item?id=40404423) - [Katy – 68000 Linux on a Solderless Breadboard](https://www.bigmessowires.com/2014/11/17/68-katy-68000-linux-on-a-solderless-breadboard/)
 * [2024-05-19, 03:37:51](https://news.ycombinator.com/item?id=40404075) - [New blood test for stroke combines blood-based biomarkers with a clinical score](https://medicalxpress.com/news/2024-05-blood-combines-based-biomarkers-clinical.html)
 * [2024-05-19, 03:34:45](https://news.ycombinator.com/item?id=40404054) - [Riven](https://www.filfre.net/2024/05/riven/)
+* [2024-05-19, 03:18:04](https://news.ycombinator.com/item?id=40403962) - [Is artificial consciousness achievable? Lessons from the human brain](https://arxiv.org/abs/2405.04540)
 * [2024-05-19, 02:30:20](https://news.ycombinator.com/item?id=40403715) - [Mathematicians and the Selection Task (2004)](https://eric.ed.gov/?id=ED489556)
 * [2024-05-19, 02:18:23](https://news.ycombinator.com/item?id=40403658) - [Show HN: Open-source GeForce NOW alternative with Stadia's social features](https://github.com/netrisdotme/netris)
 * [2024-05-19, 01:58:42](https://news.ycombinator.com/item?id=40403569) - [Michelle's List: A free, anonymous landlord review site](https://www.michelleslist.com/)
@@ -27,7 +28,6 @@
 * [2024-05-18, 14:12:20](https://news.ycombinator.com/item?id=40399224) - [I Couldn't Escape Poison Oak. So I Started Eating It](https://www.wsj.com/style/eat-poison-ivy-oak-immunity-3207ec3c)
 * [2024-05-18, 10:06:59](https://news.ycombinator.com/item?id=40397737) - [YARA is dead, long live YARA-X](https://virustotal.github.io/yara-x/blog/yara-is-dead-long-live-yara-x/)
 * [2024-05-18, 08:15:11](https://news.ycombinator.com/item?id=40397284) - [A kids traffic mat in Elm](https://matiasklemola.com/liikennematto-devlog-five)
-* [2024-05-18, 07:03:15](https://news.ycombinator.com/item?id=40397000) - [Ken Silverman's Official Home Page](http://advsys.net/ken/)
 * [2024-05-18, 06:08:37](https://news.ycombinator.com/item?id=40396790) - [Retrospex: Convert images to fit Commodore 64 graphic modes](https://github.com/micheldebree/retrospex)
 * [2024-05-17, 17:30:26](https://news.ycombinator.com/item?id=40392302) - [500-year-old maths problem turns out to apply to coffee and clocks](https://www.newscientist.com/article/2430522-500-year-old-maths-problem-turns-out-to-apply-to-coffee-and-clocks/)
 
