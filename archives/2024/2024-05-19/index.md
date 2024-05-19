@@ -6,6 +6,7 @@
 
 * [2024-05-19, 16:19:06](https://news.ycombinator.com/item?id=40407927) - [Training my own AI to steal artists' styles](https://julienposture.substack.com/p/the-ai-doppelganger-experiment-part)
 * [2024-05-19, 15:52:41](https://news.ycombinator.com/item?id=40407709) - [Amazon Defends Its Use of Signal Messages in Court](https://www.geekwire.com/2024/nothing-to-see-here-amazon-tells-court-in-response-to-ftcs-complaints-about-signal-messages/)
+* [2024-05-19, 15:45:06](https://news.ycombinator.com/item?id=40407659) - [Italy's $12.7B Bridge to Sicily [video]](https://www.youtube.com/watch?v=wt1S46iqBAY)
 * [2024-05-19, 15:28:27](https://news.ycombinator.com/item?id=40407555) - [Zelda: Majora's Mask is now a native PC game, and every N64 title could follow](https://www.theverge.com/2024/5/13/24155636/n64-recompiled-port-nintendo-games-zelda-majoras-mask)
 * [2024-05-19, 15:24:36](https://news.ycombinator.com/item?id=40407530) - [President of Iran in Helicopter Crash](https://www.bbc.co.uk/news/live/world-middle-east-69035051)
 * [2024-05-19, 15:24:12](https://news.ycombinator.com/item?id=40407526) - [Make Timelapse easily using FFmpeg](https://news.ycombinator.com/item?id=40407526)
@@ -13,6 +14,7 @@
 * [2024-05-19, 15:15:09](https://news.ycombinator.com/item?id=40407472) - [Nitrogen dioxide exposure due to gas and propane combustion by U.S. stoves](https://www.science.org/doi/10.1126/sciadv.adm8680)
 * [2024-05-19, 14:33:10](https://news.ycombinator.com/item?id=40407228) - [Swarming Proxima Centauri: Picospacecraft Swarms over Interstellar Distances](https://astrobiology.com/2024/05/swarming-proxima-centauri-coherent-picospacecraft-swarms-over-interstellar-distances.html)
 * [2024-05-19, 14:28:03](https://news.ycombinator.com/item?id=40407198) - [Helicopter in Iranian president's convoy crashes – state media](https://www.bbc.com/news/articles/cv22311qx21o)
+* [2024-05-19, 14:14:06](https://news.ycombinator.com/item?id=40407104) - [The Bell Language](https://sep.turbifycdn.com/ty/cdn/paulgraham/bellanguage.txt)
 * [2024-05-19, 14:00:56](https://news.ycombinator.com/item?id=40407032) - [An attorney says she saw her library reading habits reflected in mobile ads](https://www.theregister.com/2024/05/18/mystery_of_the_targeted_mobile_ads/)
 * [2024-05-19, 13:34:42](https://news.ycombinator.com/item?id=40406863) - [Terabytes of Old Usenet Articles since 1980s Restored in 471,000 News Groups](https://news.admin.peering.narkive.com/jqTCQePo/are-these-the-only-3-known-updated-usenet-archives-left)
 * [2024-05-19, 13:20:32](https://news.ycombinator.com/item?id=40406767) - [Woke Invades the Sciences](https://thecritic.co.uk/woke-invades-the-sciences/)
