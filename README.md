@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-20, 21:31:20](https://news.ycombinator.com/item?id=40420653) - [AI-Free Products](https://coryd.dev/posts/2024/ai-free-products/)
+* [2024-05-20, 21:26:24](https://news.ycombinator.com/item?id=40420604) - [The parents who are saying no to \"extracurriculars\"](https://slate.com/life/2024/05/smartphone-children-youth-sports-activities-overscheduled.html)
 * [2024-05-20, 21:00:26](https://news.ycombinator.com/item?id=40420323) - [Etleap (YC W13) Is Hiring Software Engineer – Integrations (Remote in Brazil)](https://etleap.com/careers/software-engineer-integrations/)
 * [2024-05-20, 20:23:02](https://news.ycombinator.com/item?id=40419856) - [Enlightenmentware](https://mmapped.blog/posts/28-enlightenmentware.html)
 * [2024-05-20, 19:40:07](https://news.ycombinator.com/item?id=40419358) - [People want 'dumbphones'. Will companies make them?](https://www.bbc.com/future/article/20240515-the-dumbphones-people-want-are-hard-to-find)
@@ -12,7 +12,6 @@
 * [2024-05-20, 17:09:28](https://news.ycombinator.com/item?id=40417624) - [Lumina's legal threats and my about-face](https://trevorklee.substack.com/p/luminas-legal-threats-and-my-about)
 * [2024-05-20, 16:44:13](https://news.ycombinator.com/item?id=40417347) - [pg_timeseries: Open-source time-series extension for PostgreSQL](https://tembo.io/blog/pg-timeseries)
 * [2024-05-20, 15:33:44](https://news.ycombinator.com/item?id=40416657) - [26× Faster Inference with Layer-Condensed KV Cache for Large Language Models](https://arxiv.org/abs/2405.10637)
-* [2024-05-20, 14:35:59](https://news.ycombinator.com/item?id=40415947) - [Paying freelancers in equity and dividends](https://sahillavingia.com/dividends)
 * [2024-05-20, 12:07:58](https://news.ycombinator.com/item?id=40414565) - [How a 64k intro is made (2017)](https://www.lofibucket.com/articles/64k_intro.html)
 * [2024-05-20, 11:41:08](https://news.ycombinator.com/item?id=40414404) - [Grothendieck’s use of equality](https://arxiv.org/abs/2405.10387)
 * [2024-05-20, 11:27:34](https://news.ycombinator.com/item?id=40414329) - [ICC seeks arrest warrants against Sinwar and Netanyahu for war crimes](https://www.cnn.com/2024/05/20/middleeast/icc-israel-hamas-arrest-warrant-war-crimes-intl/index.html)
@@ -29,6 +28,7 @@
 * [2024-05-19, 06:57:40](https://news.ycombinator.com/item?id=40404809) - [Modernizing the AntennaPod Code Structure](https://antennapod.org/blog/2024/05/modernizing-the-code-structure)
 * [2024-05-19, 06:26:08](https://news.ycombinator.com/item?id=40404676) - [Swift Tooling: Windows Edition](https://speakinginswift.substack.com/p/swift-tooling-windows-edition)
 * [2024-05-18, 09:22:02](https://news.ycombinator.com/item?id=40397593) - [DB-19: Resurrecting an Obsolete Connector (2016)](https://www.bigmessowires.com/2016/06/04/db-19-resurrecting-an-obsolete-connector/)
+* [2024-05-18, 03:55:39](https://news.ycombinator.com/item?id=40396347) - [A promising 3-terminal diode for wireless comm. and optically driven computing](https://techxplore.com/news/2024-05-terminal-diode-wireless-communication-optically.html)
 * [2024-05-16, 19:24:03](https://news.ycombinator.com/item?id=40382104) - [D-Expressions: Lisp power, Dylan style [pdf]](http://people.csail.mit.edu/jrb/Projects/dexprs.pdf)
 
 ## [Archives](archives/index.md)

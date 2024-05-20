@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-20](index.md)
 
 * [2024-05-20, 21:31:20](https://news.ycombinator.com/item?id=40420653) - [AI-Free Products](https://coryd.dev/posts/2024/ai-free-products/)
+* [2024-05-20, 21:26:24](https://news.ycombinator.com/item?id=40420604) - [The parents who are saying no to \"extracurriculars\"](https://slate.com/life/2024/05/smartphone-children-youth-sports-activities-overscheduled.html)
 * [2024-05-20, 21:00:26](https://news.ycombinator.com/item?id=40420323) - [Etleap (YC W13) Is Hiring Software Engineer – Integrations (Remote in Brazil)](https://etleap.com/careers/software-engineer-integrations/)
 * [2024-05-20, 20:40:36](https://news.ycombinator.com/item?id=40420076) - [Dali back in Baltimore port, freed 55 days after striking and collapsing Bridge](https://www.baltimoresun.com/2024/05/20/key-bridge-dali-refloat-baltimore-port/)
 * [2024-05-20, 20:30:19](https://news.ycombinator.com/item?id=40419947) - [Ask HN: Most successful example using LLMs in daily work/life?](https://news.ycombinator.com/item?id=40419947)
