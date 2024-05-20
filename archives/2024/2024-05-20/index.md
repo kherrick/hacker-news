@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-20](index.md)
 
+* [2024-05-20, 02:56:43](https://news.ycombinator.com/item?id=40411751) - [The President of Iran has died](https://x.com/sentdefender/status/1792387709140402299)
 * [2024-05-20, 02:00:52](https://news.ycombinator.com/item?id=40411393) - [Avoidance of sun exposure as a risk factor for major causes of death](https://pubmed.ncbi.nlm.nih.gov/26992108/)
 * [2024-05-20, 01:49:11](https://news.ycombinator.com/item?id=40411319) - [How to read a book: 10 rules from a reviewer](https://www.washingtonpost.com/books/2024/05/18/how-to-read-book-dirda/)
 * [2024-05-20, 01:37:43](https://news.ycombinator.com/item?id=40411236) - [Tornado Cash verdict has chilling implications for industry](https://cointelegraph.com/news/tornado-cash-verdict-crypto-industry)
