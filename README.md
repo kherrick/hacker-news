@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-20, 06:34:42](https://news.ycombinator.com/item?id=40412903) - [How the voices for ChatGPT were chosen](https://openai.com/index/how-the-voices-for-chatgpt-were-chosen/)
 * [2024-05-20, 03:48:53](https://news.ycombinator.com/item?id=40412091) - [An identity thief stole $5k from me. I spent two years tracking down how](https://www.msn.com/en-us/news/crime/an-identity-thief-stole-5000-from-me-i-spent-two-years-tracking-down-how/ar-BB1mqh0b)
 * [2024-05-20, 03:14:07](https://news.ycombinator.com/item?id=40411871) - [Fact checking of claims about nuclear power projects](https://neutronbytes.com/2024/05/12/why-fact-checking-of-audacious-claims-about-nuclear-power-projects-is-important/)
 * [2024-05-20, 01:15:04](https://news.ycombinator.com/item?id=40411115) - [Reflections on our Responsible Scaling Policy](https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy)
@@ -19,7 +20,6 @@
 * [2024-05-19, 16:19:06](https://news.ycombinator.com/item?id=40407927) - [AI doppelgänger experiment – Part 1: The training](https://julienposture.substack.com/p/the-ai-doppelganger-experiment-part)
 * [2024-05-19, 16:13:35](https://news.ycombinator.com/item?id=40407884) - [A floppy disk MIDI boombox: The Yamaha MDP-10](https://nicole.express/2024/elementary-midi-watson.html)
 * [2024-05-19, 14:33:10](https://news.ycombinator.com/item?id=40407228) - [Swarming Proxima Centauri: Picospacecraft Swarms over Interstellar Distances](https://astrobiology.com/2024/05/swarming-proxima-centauri-coherent-picospacecraft-swarms-over-interstellar-distances.html)
-* [2024-05-19, 14:14:06](https://news.ycombinator.com/item?id=40407104) - [The Bel Language (2019)](https://sep.turbifycdn.com/ty/cdn/paulgraham/bellanguage.txt)
 * [2024-05-19, 11:33:43](https://news.ycombinator.com/item?id=40406194) - [Compilers for free with weval](https://bernsteinbear.com/blog/weval/)
 * [2024-05-19, 10:08:37](https://news.ycombinator.com/item?id=40405763) - [You could have invented fractional cascading](http://blog.ezyang.com/2012/03/you-could-have-invented-fractional-cascading/)
 * [2024-05-19, 08:31:47](https://news.ycombinator.com/item?id=40405309) - [Steve Wozniak: When I die these are the moments I want to remember](https://www.cnbc.com/2024/05/18/apple-co-founder-steve-wozniak-happiness-matters-more-than-accomplishment.html)
@@ -28,7 +28,7 @@
 * [2024-05-19, 03:34:45](https://news.ycombinator.com/item?id=40404054) - [Riven](https://www.filfre.net/2024/05/riven/)
 * [2024-05-18, 14:12:20](https://news.ycombinator.com/item?id=40399224) - [I couldn't escape poison oak, so I started eating it](https://www.wsj.com/style/eat-poison-ivy-oak-immunity-3207ec3c)
 * [2024-05-18, 11:29:03](https://news.ycombinator.com/item?id=40398094) - [Sorry, wrong number](https://www.roads.org.uk/blog/sorry-wrong-number)
-* [2024-05-18, 09:22:02](https://news.ycombinator.com/item?id=40397593) - [DB-19: Resurrecting an Obsolete Connector](https://www.bigmessowires.com/2016/06/04/db-19-resurrecting-an-obsolete-connector/)
+* [2024-05-18, 09:22:02](https://news.ycombinator.com/item?id=40397593) - [DB-19: Resurrecting an Obsolete Connector (2016)](https://www.bigmessowires.com/2016/06/04/db-19-resurrecting-an-obsolete-connector/)
 * [2024-05-18, 08:15:11](https://news.ycombinator.com/item?id=40397284) - [A kids traffic mat in Elm](https://matiasklemola.com/liikennematto-devlog-five)
 
 ## [Archives](archives/index.md)

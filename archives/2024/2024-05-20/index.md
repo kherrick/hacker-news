@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-20](index.md)
 
+* [2024-05-20, 06:34:42](https://news.ycombinator.com/item?id=40412903) - [How the voices for ChatGPT were chosen](https://openai.com/index/how-the-voices-for-chatgpt-were-chosen/)
 * [2024-05-20, 05:24:39](https://news.ycombinator.com/item?id=40412522) - [After 47 Years, Apple Is Making a Bittersweet Change. It's the End of an Era](https://www.inc.com/jason-aten/after-47-years-apple-is-making-a-bittersweet-change-its-truly-end-of-an-era.html)
 * [2024-05-20, 03:48:53](https://news.ycombinator.com/item?id=40412091) - [An identity thief stole $5k from me. I spent two years tracking down how](https://www.msn.com/en-us/news/crime/an-identity-thief-stole-5000-from-me-i-spent-two-years-tracking-down-how/ar-BB1mqh0b)
 * [2024-05-20, 03:14:07](https://news.ycombinator.com/item?id=40411871) - [Why Fact Checking of Claims About Nuclear Power Projects Is Important](https://neutronbytes.com/2024/05/12/why-fact-checking-of-audacious-claims-about-nuclear-power-projects-is-important/)
