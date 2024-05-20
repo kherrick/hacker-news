@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-20, 14:55:02](https://news.ycombinator.com/item?id=40416219) - [China's BYD nears deal to supply London's electric double decker buses](https://www.cityam.com/chinas-byd-nears-deal-to-supply-londons-electric-double-decker-buses/)
+* [2024-05-20, 15:43:41](https://news.ycombinator.com/item?id=40416746) - [Turkish drone drew star and crescent after finding helicopter](https://www.ippmedia.com/the-guardian/live-update/turkish-drone-drew-star-and-crescent-after-finding-helicopter-2024-05-20-144006)
 * [2024-05-20, 13:50:54](https://news.ycombinator.com/item?id=40415468) - [Cognitive reflection, intelligence, and cognitive abilities: A meta-analysis](https://www.sciencedirect.com/science/article/pii/S0160289621000982)
 * [2024-05-20, 12:27:11](https://news.ycombinator.com/item?id=40414718) - [CVE-2024-4367 – Arbitrary JavaScript execution in PDF.js](https://codeanlabs.com/blog/research/cve-2024-4367-arbitrary-js-execution-in-pdf-js/)
 * [2024-05-20, 12:07:58](https://news.ycombinator.com/item?id=40414565) - [How a 64k intro is made (2017)](https://www.lofibucket.com/articles/64k_intro.html)

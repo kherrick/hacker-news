@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-20](index.md)
 
+* [2024-05-20, 15:43:41](https://news.ycombinator.com/item?id=40416746) - [Turkish drone drew star and crescent after finding helicopter](https://www.ippmedia.com/the-guardian/live-update/turkish-drone-drew-star-and-crescent-after-finding-helicopter-2024-05-20-144006)
 * [2024-05-20, 15:06:22](https://news.ycombinator.com/item?id=40416360) - [CSS: Has(), the God Selector](https://brucelawson.co.uk/2024/css-has-the-god-selector/)
 * [2024-05-20, 15:02:30](https://news.ycombinator.com/item?id=40416304) - [An Untapped Source of Lithium Has Just Been Found in the US](https://www.sciencealert.com/a-vast-untapped-source-of-lithium-has-just-been-found-in-the-us)
 * [2024-05-20, 14:55:02](https://news.ycombinator.com/item?id=40416219) - [China's BYD nears deal to supply London's electric double decker buses](https://www.cityam.com/chinas-byd-nears-deal-to-supply-londons-electric-double-decker-buses/)
