@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-20](index.md)
 
+* [2024-05-20, 19:22:21](https://news.ycombinator.com/item?id=40419141) - [Edited highlights from the evisceration of Craig Wright](https://www.ft.com/content/83dc246e-99ca-4af3-bd07-a815fdafa7c0)
 * [2024-05-20, 19:07:51](https://news.ycombinator.com/item?id=40418983) - [How to Collapse Your Stack Using PostgreSQL for Everything](https://www.timescale.com/blog/how-to-collapse-your-stack-using-postgresql-for-everything/)
 * [2024-05-20, 19:00:12](https://news.ycombinator.com/item?id=40418885) - [Ask HN: Why do you all think that Htmx is such a recent development?](https://news.ycombinator.com/item?id=40418885)
 * [2024-05-20, 18:39:58](https://news.ycombinator.com/item?id=40418624) - [Hims Debuts $199 Weight-Loss Shots at 85% Discount to Wegovy](https://www.bloomberg.com/news/articles/2024-05-20/hims-debuts-199-weight-loss-shots-undercutting-wegovy-ozempic)

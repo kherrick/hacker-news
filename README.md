@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-20, 19:22:21](https://news.ycombinator.com/item?id=40419141) - [Edited highlights from the evisceration of Craig Wright](https://www.ft.com/content/83dc246e-99ca-4af3-bd07-a815fdafa7c0)
 * [2024-05-20, 19:07:51](https://news.ycombinator.com/item?id=40418983) - [Using Postgres for Everything](https://www.timescale.com/blog/how-to-collapse-your-stack-using-postgresql-for-everything/)
-* [2024-05-20, 19:00:12](https://news.ycombinator.com/item?id=40418885) - [Ask HN: Why do you all think that Htmx is such a recent development?](https://news.ycombinator.com/item?id=40418885)
-* [2024-05-20, 18:38:14](https://news.ycombinator.com/item?id=40418607) - [The dark side of a US couple's Alaskan wilderness dream](https://www.bbc.com/culture/article/20240517-the-intrepid-new-jersey-couple-that-survived-the-alaskan-wilderness-on-a-homestead)
+* [2024-05-20, 18:38:14](https://news.ycombinator.com/item?id=40418607) - [A New Jersey couple survived the Alaskan wilderness on a homestead](https://www.bbc.com/culture/article/20240517-the-intrepid-new-jersey-couple-that-survived-the-alaskan-wilderness-on-a-homestead)
 * [2024-05-20, 18:36:53](https://news.ycombinator.com/item?id=40418591) - [Rethinking Text Resizing on Web](https://medium.com/airbnb-engineering/rethinking-text-resizing-on-web-1047b12d2881)
 * [2024-05-20, 17:27:03](https://news.ycombinator.com/item?id=40417828) - [Introducing Copilot+ PCs](https://blogs.microsoft.com/blog/2024/05/20/introducing-copilot-pcs/)
 * [2024-05-20, 17:09:28](https://news.ycombinator.com/item?id=40417624) - [Lumina's legal threats and my about-face](https://trevorklee.substack.com/p/luminas-legal-threats-and-my-about)
