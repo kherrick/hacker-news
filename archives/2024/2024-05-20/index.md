@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-05-20](index.md)
 
+* [2024-05-20, 21:31:20](https://news.ycombinator.com/item?id=40420653) - [AI-Free Products](https://coryd.dev/posts/2024/ai-free-products/)
 * [2024-05-20, 21:00:26](https://news.ycombinator.com/item?id=40420323) - [Etleap (YC W13) Is Hiring Software Engineer – Integrations (Remote in Brazil)](https://etleap.com/careers/software-engineer-integrations/)
 * [2024-05-20, 20:40:36](https://news.ycombinator.com/item?id=40420076) - [Dali back in Baltimore port, freed 55 days after striking and collapsing Bridge](https://www.baltimoresun.com/2024/05/20/key-bridge-dali-refloat-baltimore-port/)
 * [2024-05-20, 20:30:19](https://news.ycombinator.com/item?id=40419947) - [Ask HN: Most successful example using LLMs in daily work/life?](https://news.ycombinator.com/item?id=40419947)
 * [2024-05-20, 20:23:02](https://news.ycombinator.com/item?id=40419856) - [Enlightenmentware](https://mmapped.blog/posts/28-enlightenmentware.html)
 * [2024-05-20, 20:14:51](https://news.ycombinator.com/item?id=40419760) - [(Tesla) has twice attempted to drive directly into a train while in FSD mode](https://x.com/ArtemR/status/1792059155324494219/video/1)
+* [2024-05-20, 19:40:07](https://news.ycombinator.com/item?id=40419358) - [People want 'dumbphones'. Will companies make them?](https://www.bbc.com/future/article/20240515-the-dumbphones-people-want-are-hard-to-find)
 * [2024-05-20, 19:37:12](https://news.ycombinator.com/item?id=40419325) - [How terminal works. Part 1: Xterm, user input](https://kevroletin.github.io/terminal/2021/12/11/how-terminal-works-in.html)
 * [2024-05-20, 19:34:09](https://news.ycombinator.com/item?id=40419289) - [Ask HN: Hacker News-like forum, specific to Game Development?](https://news.ycombinator.com/item?id=40419289)
 * [2024-05-20, 19:22:21](https://news.ycombinator.com/item?id=40419141) - [Edited highlights from the evisceration of Craig Wright](https://www.ft.com/content/83dc246e-99ca-4af3-bd07-a815fdafa7c0)
