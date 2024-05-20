@@ -6,7 +6,7 @@
 * [2024-05-20, 01:15:04](https://news.ycombinator.com/item?id=40411115) - [Anthropic: Reflections on Our Responsible Scaling Policy](https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy)
 * [2024-05-20, 01:03:25](https://news.ycombinator.com/item?id=40411061) - [Tutorial: Metacompilers Part 1 (2016)](http://www.bayfronttechnologies.com/mc_tutorial.html)
 * [2024-05-19, 23:50:10](https://news.ycombinator.com/item?id=40410637) - [Show HN: ffmpeg-english \"capture from /dev/video0 every 1 second to jpg files\"](https://github.com/dheera/scripts/blob/master/ffmpeg-english)
-* [2024-05-19, 23:43:47](https://news.ycombinator.com/item?id=40410603) - [What Is Generative Art?](https://www.amygoodchild.com/blog/what-is-generative-art)
+* [2024-05-19, 23:43:47](https://news.ycombinator.com/item?id=40410603) - [What Is Generative Art? (2022)](https://www.amygoodchild.com/blog/what-is-generative-art)
 * [2024-05-19, 23:02:41](https://news.ycombinator.com/item?id=40410404) - [The Lunacy of Artemis](https://idlewords.com/2024/5/the_lunacy_of_artemis.htm)
 * [2024-05-19, 22:52:01](https://news.ycombinator.com/item?id=40410341) - [Hertz Charging a Tesla Renter for Gas Was Not an Isolated Incident](https://www.thedrive.com/news/hertz-charging-a-tesla-renter-for-gas-was-not-an-isolated-incident)
 * [2024-05-19, 21:49:21](https://news.ycombinator.com/item?id=40410004) - [Devon: An open-source pair programmer](https://github.com/entropy-research/Devon)
