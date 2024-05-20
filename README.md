@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-20, 15:46:15](https://news.ycombinator.com/item?id=40416773) - [Never, Ever, Ever Use Pixelation for Redacting Text](https://bishopfox.com/blog/unredacter-tool-never-pixelation)
 * [2024-05-20, 15:33:53](https://news.ycombinator.com/item?id=40416661) - [The efficacy of duct tape vs. cryotherapy in the treatment of the common wart](https://pubmed.ncbi.nlm.nih.gov/12361440/)
 * [2024-05-20, 13:50:54](https://news.ycombinator.com/item?id=40415468) - [Cognitive reflection, intelligence, and cognitive abilities: A meta-analysis](https://www.sciencedirect.com/science/article/pii/S0160289621000982)
 * [2024-05-20, 12:27:11](https://news.ycombinator.com/item?id=40414718) - [CVE-2024-4367 – Arbitrary JavaScript execution in PDF.js](https://codeanlabs.com/blog/research/cve-2024-4367-arbitrary-js-execution-in-pdf-js/)
@@ -16,7 +17,6 @@
 * [2024-05-19, 21:02:36](https://news.ycombinator.com/item?id=40409718) - [Beating Jeff's 3.14 Ghz Raspberry Pi 5](https://jonatron.github.io/randomstuff/pivolt/)
 * [2024-05-19, 20:01:29](https://news.ycombinator.com/item?id=40409388) - [Teaching Algorithm Design: A Literature Review](https://arxiv.org/abs/2405.00832)
 * [2024-05-19, 18:42:06](https://news.ycombinator.com/item?id=40408880) - [Llama3 implemented from scratch](https://github.com/naklecha/llama3-from-scratch)
-* [2024-05-19, 17:51:41](https://news.ycombinator.com/item?id=40408515) - [Ask HN: Video streaming is expensive yet YouTube \"seems\" to do it for free. How?](https://news.ycombinator.com/item?id=40408515)
 * [2024-05-19, 17:15:29](https://news.ycombinator.com/item?id=40408291) - [Coding My Handwriting](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript)
 * [2024-05-19, 16:19:06](https://news.ycombinator.com/item?id=40407927) - [AI doppelgänger experiment – Part 1: The training](https://julienposture.substack.com/p/the-ai-doppelganger-experiment-part)
 * [2024-05-19, 16:13:35](https://news.ycombinator.com/item?id=40407884) - [A floppy disk MIDI boombox: The Yamaha MDP-10](https://nicole.express/2024/elementary-midi-watson.html)
