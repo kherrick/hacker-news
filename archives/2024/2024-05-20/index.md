@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-20](index.md)
 
+* [2024-05-20, 15:06:22](https://news.ycombinator.com/item?id=40416360) - [CSS: Has(), the God Selector](https://brucelawson.co.uk/2024/css-has-the-god-selector/)
 * [2024-05-20, 14:25:38](https://news.ycombinator.com/item?id=40415803) - [Replit cuts staff by 30 amid aggressive AI push in software development](https://venturebeat.com/ai/replit-cuts-staff-by-30-amid-aggressive-ai-push-in-software-development/)
 * [2024-05-20, 14:10:59](https://news.ycombinator.com/item?id=40415646) - [Discussion: Job seekers can't find a job and Employers can't find an employees](https://news.ycombinator.com/item?id=40415646)
 * [2024-05-20, 14:02:12](https://news.ycombinator.com/item?id=40415565) - [YouTube blocked videos for Russian draft dodgers on request from Roskomnadzor](https://ovd.info/express-news/2024/05/20/youtube-po-trebovaniyu-roskomnadzora-zablokiroval-videoinstrukcii-dlya)

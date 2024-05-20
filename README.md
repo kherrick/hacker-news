@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-20, 14:02:12](https://news.ycombinator.com/item?id=40415565) - [YouTube blocked videos for Russian draft dodgers on request from Roskomnadzor](https://ovd.info/express-news/2024/05/20/youtube-po-trebovaniyu-roskomnadzora-zablokiroval-videoinstrukcii-dlya)
+* [2024-05-20, 15:06:22](https://news.ycombinator.com/item?id=40416360) - [CSS: Has(), the God Selector](https://brucelawson.co.uk/2024/css-has-the-god-selector/)
 * [2024-05-20, 13:50:54](https://news.ycombinator.com/item?id=40415468) - [Cognitive reflection, intelligence, and cognitive abilities: A meta-analysis](https://www.sciencedirect.com/science/article/pii/S0160289621000982)
 * [2024-05-20, 12:27:11](https://news.ycombinator.com/item?id=40414718) - [CVE-2024-4367 – Arbitrary JavaScript execution in PDF.js](https://codeanlabs.com/blog/research/cve-2024-4367-arbitrary-js-execution-in-pdf-js/)
 * [2024-05-20, 12:07:58](https://news.ycombinator.com/item?id=40414565) - [How a 64k intro is made (2017)](https://www.lofibucket.com/articles/64k_intro.html)
 * [2024-05-20, 11:41:08](https://news.ycombinator.com/item?id=40414404) - [Grothendieck’s use of equality](https://arxiv.org/abs/2405.10387)
-* [2024-05-20, 11:25:11](https://news.ycombinator.com/item?id=40414316) - [3M Execs Convinced a Scientist PFOS Found in Human Blood Were Safe](https://www.propublica.org/article/3m-forever-chemicals-pfas-pfos-inside-story)
+* [2024-05-20, 11:25:11](https://news.ycombinator.com/item?id=40414316) - [3M executives convinced a scientist forever chemicals in human blood were safe](https://www.propublica.org/article/3m-forever-chemicals-pfas-pfos-inside-story)
 * [2024-05-20, 10:01:36](https://news.ycombinator.com/item?id=40413891) - [Uber Migrates 1T Records from DynamoDB to LedgerStore to Save $6M Annually](https://www.infoq.com/news/2024/05/uber-dynamodb-ledgerstore/)
 * [2024-05-20, 09:25:52](https://news.ycombinator.com/item?id=40413706) - [British engineering giant Arup revealed as $25M deepfake scam victim](https://www.cnn.com/2024/05/16/tech/arup-deepfake-scam-loss-hong-kong-intl-hnk/index.html)
 * [2024-05-20, 01:15:04](https://news.ycombinator.com/item?id=40411115) - [Reflections on our Responsible Scaling Policy](https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy)
