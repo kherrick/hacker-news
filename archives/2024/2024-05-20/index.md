@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-05-20](index.md)
 
+* [2024-05-20, 14:10:59](https://news.ycombinator.com/item?id=40415646) - [Discussion: Job seekers can't find a job and Employers can't find an employees](https://news.ycombinator.com/item?id=40415646)
 * [2024-05-20, 13:53:08](https://news.ycombinator.com/item?id=40415489) - [Microsoft and Google have been working closely with the Israeli military](https://jackpoulson.substack.com/p/microsoft-and-google-have-been-working)
 * [2024-05-20, 13:51:51](https://news.ycombinator.com/item?id=40415479) - [AI Personalization Fuels Groupthink and Uniformity](https://markozivanovic.com/how-ai-personalization-fuels-groupthink-and-uniformity/)
+* [2024-05-20, 13:50:54](https://news.ycombinator.com/item?id=40415468) - [Cognitive reflection, intelligence, and cognitive abilities: A meta-analysis](https://www.sciencedirect.com/science/article/pii/S0160289621000982)
 * [2024-05-20, 13:35:45](https://news.ycombinator.com/item?id=40415304) - [\"Fallout\" Imagines What It Would Be Like If Cold War Consumerism Never Ended](https://www.zocalopublicsquare.org/2024/05/13/cold-war-consumerism-fallout/ideas/essay/)
 * [2024-05-20, 13:15:41](https://news.ycombinator.com/item?id=40415119) - [Red Lobster Files for Bankruptcy](https://www.cnn.com/2024/05/20/investing/red-lobster-restaurants-bankruptcy/index.html)
 * [2024-05-20, 13:01:11](https://news.ycombinator.com/item?id=40415009) - [High performers job hop when they can't find a high performance culture](https://thedailydeveloper.substack.com/p/high-performers-job-hop-when-they)

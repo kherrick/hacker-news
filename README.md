@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-20, 13:53:08](https://news.ycombinator.com/item?id=40415489) - [Microsoft and Google have been working closely with the Israeli military](https://jackpoulson.substack.com/p/microsoft-and-google-have-been-working)
-* [2024-05-20, 13:51:51](https://news.ycombinator.com/item?id=40415479) - [AI Personalization Fuels Groupthink and Uniformity](https://markozivanovic.com/how-ai-personalization-fuels-groupthink-and-uniformity/)
+* [2024-05-20, 14:10:59](https://news.ycombinator.com/item?id=40415646) - [Discussion: Job seekers can't find a job and Employers can't find an employees](https://news.ycombinator.com/item?id=40415646)
+* [2024-05-20, 13:50:54](https://news.ycombinator.com/item?id=40415468) - [Cognitive reflection, intelligence, and cognitive abilities: A meta-analysis](https://www.sciencedirect.com/science/article/pii/S0160289621000982)
 * [2024-05-20, 13:01:11](https://news.ycombinator.com/item?id=40415009) - [High performers job hop when they can't find a high performance culture](https://thedailydeveloper.substack.com/p/high-performers-job-hop-when-they)
 * [2024-05-20, 12:27:11](https://news.ycombinator.com/item?id=40414718) - [CVE-2024-4367 – Arbitrary JavaScript execution in PDF.js](https://codeanlabs.com/blog/research/cve-2024-4367-arbitrary-js-execution-in-pdf-js/)
 * [2024-05-20, 12:07:58](https://news.ycombinator.com/item?id=40414565) - [How a 64k intro is made (2017)](https://www.lofibucket.com/articles/64k_intro.html)
