@@ -72,6 +72,7 @@
 * [2024-05-19, 07:03:58](https://news.ycombinator.com/item?id=40404837) - [Kotlin Scripting](https://tutcoach.com/kotlin/kotlin-scripting/)
 * [2024-05-19, 07:01:00](https://news.ycombinator.com/item?id=40404825) - [Emerge Tools (YC W21) is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
 * [2024-05-19, 06:46:12](https://news.ycombinator.com/item?id=40404761) - [Ask HN: Why are people so mean in the open source community? (about xz again)](https://news.ycombinator.com/item?id=40404761)
+* [2024-05-19, 06:40:38](https://news.ycombinator.com/item?id=40404739) - [1001 Representations of Syntax with Binding (2021)](https://jesper.cx/posts/1001-syntax-representations.html)
 * [2024-05-19, 06:26:08](https://news.ycombinator.com/item?id=40404676) - [Swift Tooling: Windows Edition](https://speakinginswift.substack.com/p/swift-tooling-windows-edition)
 * [2024-05-19, 05:46:25](https://news.ycombinator.com/item?id=40404522) - [I Might've Been a Rocket Scientist (Like My Dad), but I Was a Girl](https://exponentii.org/blog/i-mightve-been-a-rocket-scientist-like-my-dad-but-i-was-a-girl/)
 * [2024-05-19, 05:35:39](https://news.ycombinator.com/item?id=40404498) - [Will Better Superconductors Transform the World?](https://www.quantamagazine.org/will-better-superconductors-transform-the-world-20240509/)
