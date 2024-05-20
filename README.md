@@ -10,7 +10,7 @@
 * [2024-05-20, 17:09:28](https://news.ycombinator.com/item?id=40417624) - [Lumina's legal threats and my about-face](https://trevorklee.substack.com/p/luminas-legal-threats-and-my-about)
 * [2024-05-20, 16:44:13](https://news.ycombinator.com/item?id=40417347) - [pg_timeseries: Open-source time-series extension for PostgreSQL](https://tembo.io/blog/pg-timeseries)
 * [2024-05-20, 15:33:44](https://news.ycombinator.com/item?id=40416657) - [26× Faster Inference with Layer-Condensed KV Cache for Large Language Models](https://arxiv.org/abs/2405.10637)
-* [2024-05-20, 13:50:54](https://news.ycombinator.com/item?id=40415468) - [Cognitive reflection, intelligence, and cognitive abilities: A meta-analysis](https://www.sciencedirect.com/science/article/pii/S0160289621000982)
+* [2024-05-20, 14:46:48](https://news.ycombinator.com/item?id=40416109) - [City in a Bottle – A 256 Byte Raycasting System](https://frankforce.com/city-in-a-bottle-a-256-byte-raycasting-system/)
 * [2024-05-20, 12:07:58](https://news.ycombinator.com/item?id=40414565) - [How a 64k intro is made (2017)](https://www.lofibucket.com/articles/64k_intro.html)
 * [2024-05-20, 11:41:08](https://news.ycombinator.com/item?id=40414404) - [Grothendieck’s use of equality](https://arxiv.org/abs/2405.10387)
 * [2024-05-20, 11:27:34](https://news.ycombinator.com/item?id=40414329) - [ICC prosecutor seeks arrest warrants against Sinwar and Netanyahu for war crimes](https://www.cnn.com/2024/05/20/middleeast/icc-israel-hamas-arrest-warrant-war-crimes-intl/index.html)
