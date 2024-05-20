@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-20, 10:01:36](https://news.ycombinator.com/item?id=40413891) - [Uber Migrates 1T Records from DynamoDB to LedgerStore to Save $6M Annually](https://www.infoq.com/news/2024/05/uber-dynamodb-ledgerstore/)
 * [2024-05-20, 09:25:52](https://news.ycombinator.com/item?id=40413706) - [British engineering giant Arup revealed as $25M deepfake scam victim](https://www.cnn.com/2024/05/16/tech/arup-deepfake-scam-loss-hong-kong-intl-hnk/index.html)
 * [2024-05-20, 03:14:07](https://news.ycombinator.com/item?id=40411871) - [Fact checking of claims about nuclear power projects](https://neutronbytes.com/2024/05/12/why-fact-checking-of-audacious-claims-about-nuclear-power-projects-is-important/)
 * [2024-05-20, 01:15:04](https://news.ycombinator.com/item?id=40411115) - [Reflections on our Responsible Scaling Policy](https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy)
@@ -26,7 +27,6 @@
 * [2024-05-19, 06:40:38](https://news.ycombinator.com/item?id=40404739) - [1001 Representations of Syntax with Binding (2021)](https://jesper.cx/posts/1001-syntax-representations.html)
 * [2024-05-19, 06:26:08](https://news.ycombinator.com/item?id=40404676) - [Swift Tooling: Windows Edition](https://speakinginswift.substack.com/p/swift-tooling-windows-edition)
 * [2024-05-19, 05:18:41](https://news.ycombinator.com/item?id=40404446) - [The Myth of Medieval Small Beer (2017)](https://www.ianvisits.co.uk/articles/the-myth-of-medieval-small-beer-19763/)
-* [2024-05-19, 03:34:45](https://news.ycombinator.com/item?id=40404054) - [Riven](https://www.filfre.net/2024/05/riven/)
 * [2024-05-18, 14:12:20](https://news.ycombinator.com/item?id=40399224) - [I couldn't escape poison oak, so I started eating it](https://www.wsj.com/style/eat-poison-ivy-oak-immunity-3207ec3c)
 * [2024-05-18, 09:22:02](https://news.ycombinator.com/item?id=40397593) - [DB-19: Resurrecting an Obsolete Connector (2016)](https://www.bigmessowires.com/2016/06/04/db-19-resurrecting-an-obsolete-connector/)
 * [2024-05-18, 08:15:11](https://news.ycombinator.com/item?id=40397284) - [A kids traffic mat in Elm](https://matiasklemola.com/liikennematto-devlog-five)
