@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-20, 10:09:45](https://news.ycombinator.com/item?id=40413931) - [Konrad Zuse's Homepage](https://web.archive.org/web/20090214083953/http://user.cs.tu-berlin.de/~zuse/Konrad_Zuse/index.html)
 * [2024-05-20, 10:01:36](https://news.ycombinator.com/item?id=40413891) - [Uber Migrates 1T Records from DynamoDB to LedgerStore to Save $6M Annually](https://www.infoq.com/news/2024/05/uber-dynamodb-ledgerstore/)
 * [2024-05-20, 09:25:52](https://news.ycombinator.com/item?id=40413706) - [British engineering giant Arup revealed as $25M deepfake scam victim](https://www.cnn.com/2024/05/16/tech/arup-deepfake-scam-loss-hong-kong-intl-hnk/index.html)
 * [2024-05-20, 03:14:07](https://news.ycombinator.com/item?id=40411871) - [Fact checking of claims about nuclear power projects](https://neutronbytes.com/2024/05/12/why-fact-checking-of-audacious-claims-about-nuclear-power-projects-is-important/)
@@ -22,7 +23,6 @@
 * [2024-05-19, 11:48:04](https://news.ycombinator.com/item?id=40406279) - [Ancient Chesapeake site challenges timeline of humans in the Americas](https://www.washingtonpost.com/science/2024/05/19/first-americans-chesapeake-parsons-island/)
 * [2024-05-19, 11:33:43](https://news.ycombinator.com/item?id=40406194) - [Compilers for free with weval](https://bernsteinbear.com/blog/weval/)
 * [2024-05-19, 10:22:45](https://news.ycombinator.com/item?id=40405829) - [Overflow in Consistent Hashing](https://rmarcus.info/blog/2018/09/14/consistent-hashing-overflow.html)
-* [2024-05-19, 10:08:37](https://news.ycombinator.com/item?id=40405763) - [You could have invented fractional cascading](http://blog.ezyang.com/2012/03/you-could-have-invented-fractional-cascading/)
 * [2024-05-19, 09:39:33](https://news.ycombinator.com/item?id=40405624) - [Unicode CLDR Project](https://cldr.unicode.org/)
 * [2024-05-19, 06:40:38](https://news.ycombinator.com/item?id=40404739) - [1001 Representations of Syntax with Binding (2021)](https://jesper.cx/posts/1001-syntax-representations.html)
 * [2024-05-19, 06:26:08](https://news.ycombinator.com/item?id=40404676) - [Swift Tooling: Windows Edition](https://speakinginswift.substack.com/p/swift-tooling-windows-edition)
