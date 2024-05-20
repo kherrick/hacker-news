@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-20](index.md)
 
+* [2024-05-20, 18:39:58](https://news.ycombinator.com/item?id=40418624) - [Hims Debuts $199 Weight-Loss Shots at 85% Discount to Wegovy](https://www.bloomberg.com/news/articles/2024-05-20/hims-debuts-199-weight-loss-shots-undercutting-wegovy-ozempic)
+* [2024-05-20, 18:36:53](https://news.ycombinator.com/item?id=40418591) - [Rethinking Text Resizing on Web](https://medium.com/airbnb-engineering/rethinking-text-resizing-on-web-1047b12d2881)
 * [2024-05-20, 18:04:58](https://news.ycombinator.com/item?id=40418216) - [Caterpillar is putting 240-ton electric haul truck to work in Vale mine](https://electrek.co/2024/05/18/caterpillar-is-putting-massive-240-ton-electric-haul-truck-to-work-in-vale-mine/)
 * [2024-05-20, 18:04:31](https://news.ycombinator.com/item?id=40418211) - [Copilot+ PCs](https://blogs.microsoft.com/blog/2024/05/20/introducing-copilot-pcs/)
 * [2024-05-20, 17:54:30](https://news.ycombinator.com/item?id=40418115) - [Dieter Rams turns 92 – Stream \"Rams\" for free May 20 and 21](https://www.ohyouprettythings.com/rams)
@@ -28,6 +30,7 @@
 * [2024-05-20, 15:02:30](https://news.ycombinator.com/item?id=40416304) - [An Untapped Source of Lithium Has Just Been Found in the US](https://www.sciencealert.com/a-vast-untapped-source-of-lithium-has-just-been-found-in-the-us)
 * [2024-05-20, 14:55:02](https://news.ycombinator.com/item?id=40416219) - [China's BYD nears deal to supply London's electric double decker buses](https://www.cityam.com/chinas-byd-nears-deal-to-supply-londons-electric-double-decker-buses/)
 * [2024-05-20, 14:50:46](https://news.ycombinator.com/item?id=40416156) - [Something is wrong with the AY-3-8913](https://www.fenarinarsa.com/?p=3183)
+* [2024-05-20, 14:35:59](https://news.ycombinator.com/item?id=40415947) - [Paying Freelancers in Equity and Dividends](https://sahillavingia.com/dividends)
 * [2024-05-20, 14:25:38](https://news.ycombinator.com/item?id=40415803) - [Replit cuts staff by 30 amid aggressive AI push in software development](https://venturebeat.com/ai/replit-cuts-staff-by-30-amid-aggressive-ai-push-in-software-development/)
 * [2024-05-20, 14:10:59](https://news.ycombinator.com/item?id=40415646) - [Discussion: Job seekers can't find a job and Employers can't find an employees](https://news.ycombinator.com/item?id=40415646)
 * [2024-05-20, 14:02:12](https://news.ycombinator.com/item?id=40415565) - [YouTube blocked videos for Russian draft dodgers on request from Roskomnadzor](https://ovd.info/express-news/2024/05/20/youtube-po-trebovaniyu-roskomnadzora-zablokiroval-videoinstrukcii-dlya)
