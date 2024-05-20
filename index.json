@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-05-20, 13:15:41",
-      "https://news.ycombinator.com/item?id=40415119"
-    ],
-    [
-      "Red Lobster Files for Bankruptcy",
-      "https://www.cnn.com/2024/05/20/investing/red-lobster-restaurants-bankruptcy/index.html"
-    ]
-  ],
-  [
-    [
       "2024-05-20, 12:27:11",
       "https://news.ycombinator.com/item?id=40414718"
     ],
@@ -31,16 +21,6 @@
   ],
   [
     [
-      "2024-05-20, 11:27:34",
-      "https://news.ycombinator.com/item?id=40414329"
-    ],
-    [
-      "ICC seeks arrest warrants against Sinwar and Netanyahu for war crimes",
-      "https://www.cnn.com/2024/05/20/middleeast/icc-israel-hamas-arrest-warrant-war-crimes-intl/index.html"
-    ]
-  ],
-  [
-    [
       "2024-05-20, 11:25:11",
       "https://news.ycombinator.com/item?id=40414316"
     ],
@@ -57,16 +37,6 @@
     [
       "Eco-brutalism: when angular concrete meets the wonder of nature",
       "https://www.theguardian.com/artanddesign/gallery/2024/may/11/eco-brutalism-when-angular-concrete-meets-the-wonder-of-nature-in-pictures"
-    ]
-  ],
-  [
-    [
-      "2024-05-20, 10:41:26",
-      "https://news.ycombinator.com/item?id=40414090"
-    ],
-    [
-      "Logic gates using liquids (GIF)",
-      "https://imgur.com/wUhtCgL"
     ]
   ],
   [
@@ -97,6 +67,16 @@
     [
       "Reflections on our Responsible Scaling Policy",
       "https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy"
+    ]
+  ],
+  [
+    [
+      "2024-05-19, 23:50:10",
+      "https://news.ycombinator.com/item?id=40410637"
+    ],
+    [
+      "Show HN: ffmpeg-english \"capture from /dev/video0 every 1 second to jpg files\"",
+      "https://github.com/dheera/scripts/blob/master/ffmpeg-english"
     ]
   ],
   [
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2024-05-19, 11:33:43",
+      "https://news.ycombinator.com/item?id=40406194"
+    ],
+    [
+      "Compilers for free with weval",
+      "https://bernsteinbear.com/blog/weval/"
+    ]
+  ],
+  [
+    [
       "2024-05-19, 10:22:45",
       "https://news.ycombinator.com/item?id=40405829"
     ],
@@ -257,16 +247,6 @@
     [
       "Scrabble and the Nature of Expertise (2015)",
       "https://www.scientificamerican.com/article/winning-scrabble-and-the-nature-of-expertise/"
-    ]
-  ],
-  [
-    [
-      "2024-05-19, 09:39:33",
-      "https://news.ycombinator.com/item?id=40405624"
-    ],
-    [
-      "Unicode CLDR Project",
-      "https://cldr.unicode.org/"
     ]
   ],
   [
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2024-05-18, 14:12:20",
+      "https://news.ycombinator.com/item?id=40399224"
+    ],
+    [
+      "I couldn't escape poison oak, so I started eating it",
+      "https://www.wsj.com/style/eat-poison-ivy-oak-immunity-3207ec3c"
+    ]
+  ],
+  [
+    [
       "2024-05-18, 09:22:02",
       "https://news.ycombinator.com/item?id=40397593"
     ],
     [
       "DB-19: Resurrecting an Obsolete Connector (2016)",
       "https://www.bigmessowires.com/2016/06/04/db-19-resurrecting-an-obsolete-connector/"
+    ]
+  ],
+  [
+    [
+      "2024-05-16, 19:24:03",
+      "https://news.ycombinator.com/item?id=40382104"
+    ],
+    [
+      "D-Expressions: Lisp power, Dylan style [pdf]",
+      "http://people.csail.mit.edu/jrb/Projects/dexprs.pdf"
     ]
   ]
 ]
