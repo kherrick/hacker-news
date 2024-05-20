@@ -29,6 +29,7 @@
 * [2024-05-16, 19:38:45](https://news.ycombinator.com/item?id=40382271) - [Show HN: We built the fastest Android dev ecosystem](https://dashwave.io/)
 * [2024-05-16, 19:35:21](https://news.ycombinator.com/item?id=40382246) - [JEP Draft: Draft: Support HTTP/3 in the HttpClient](https://openjdk.org/jeps/8291976)
 * [2024-05-16, 19:29:18](https://news.ycombinator.com/item?id=40382163) - [Exit Strategy: The Case for Single-Stair Egress](https://www.architecturalrecord.com/articles/16880-exit-strategy-the-case-for-single-stair-egress)
+* [2024-05-16, 19:24:03](https://news.ycombinator.com/item?id=40382104) - [D-Expressions: Lisp power, Dylan style [pdf]](http://people.csail.mit.edu/jrb/Projects/dexprs.pdf)
 * [2024-05-16, 19:19:16](https://news.ycombinator.com/item?id=40382056) - [Show HN: Drivr – VR with real vehicles [video]](https://www.youtube.com/watch?v=Q76X0cnSGHk)
 * [2024-05-16, 19:10:38](https://news.ycombinator.com/item?id=40381966) - [Taboos and Self-Censorship Among U.S. Psychology Professors](https://journals.sagepub.com/doi/full/10.1177/17456916241252085)
 * [2024-05-16, 19:08:21](https://news.ycombinator.com/item?id=40381947) - [A novel flame-retardant, smoke-suppressing superhydrophobic transparent bamboo](https://spj.science.org/doi/10.34133/research.0317)
