@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-20, 18:04:58](https://news.ycombinator.com/item?id=40418216) - [Caterpillar is putting 240-ton electric haul truck to work in Vale mine](https://electrek.co/2024/05/18/caterpillar-is-putting-massive-240-ton-electric-haul-truck-to-work-in-vale-mine/)
+* [2024-05-20, 18:04:31](https://news.ycombinator.com/item?id=40418211) - [Copilot+ PCs](https://blogs.microsoft.com/blog/2024/05/20/introducing-copilot-pcs/)
 * [2024-05-20, 17:39:14](https://news.ycombinator.com/item?id=40417956) - [It Pays to Be a Double Major in College](https://www.wsj.com/personal-finance/college-double-majors-earnings-salary-090e7ea1)
 * [2024-05-20, 17:27:46](https://news.ycombinator.com/item?id=40417837) - [Recall is Microsoft's key to unlocking the future of PCs](https://www.theverge.com/2024/5/20/24159258/microsoft-recall-ai-explorer-windows-11-surface-event)
 * [2024-05-20, 17:27:03](https://news.ycombinator.com/item?id=40417828) - [Microsoft announces Copilot Plus PCs with built-in AI hardware](https://www.theverge.com/2024/5/20/24160486/microsoft-copilot-plus-ai-arm-chips-pc-surface-event)
@@ -13,7 +15,6 @@
 * [2024-05-20, 11:41:08](https://news.ycombinator.com/item?id=40414404) - [Grothendieck’s use of equality](https://arxiv.org/abs/2405.10387)
 * [2024-05-20, 10:01:36](https://news.ycombinator.com/item?id=40413891) - [Migrating Uber's ledger data from DynamoDB to LedgerStore](https://www.uber.com/blog/migrating-from-dynamodb-to-ledgerstore/)
 * [2024-05-20, 01:43:00](https://news.ycombinator.com/item?id=40411274) - [What \"Follow Your Dreams\" Misses [video]](https://www.youtube.com/watch?v=W3I3kAg2J7w)
-* [2024-05-19, 23:04:15](https://news.ycombinator.com/item?id=40410414) - [The problem with new URL(), and how URL.parse() fixes that](https://kilianvalkhof.com/2024/javascript/the-problem-with-new-url-and-how-url-parse-fixes-that/)
 * [2024-05-19, 23:02:41](https://news.ycombinator.com/item?id=40410404) - [The Lunacy of Artemis](https://idlewords.com/2024/5/the_lunacy_of_artemis.htm)
 * [2024-05-19, 21:39:08](https://news.ycombinator.com/item?id=40409956) - [C Style: My favorite C programming practices (2014)](https://github.com/mcinglis/c-style)
 * [2024-05-19, 21:08:17](https://news.ycombinator.com/item?id=40409757) - [Unprojecting text with ellipses (2016)](https://mzucker.github.io/2016/10/11/unprojecting-text-with-ellipses.html)
@@ -21,7 +22,6 @@
 * [2024-05-19, 18:42:06](https://news.ycombinator.com/item?id=40408880) - [Llama3 implemented from scratch](https://github.com/naklecha/llama3-from-scratch)
 * [2024-05-19, 17:15:29](https://news.ycombinator.com/item?id=40408291) - [Coding My Handwriting](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript)
 * [2024-05-19, 16:19:06](https://news.ycombinator.com/item?id=40407927) - [AI doppelgänger experiment – Part 1: The training](https://julienposture.substack.com/p/the-ai-doppelganger-experiment-part)
-* [2024-05-19, 16:13:35](https://news.ycombinator.com/item?id=40407884) - [A floppy disk MIDI boombox: The Yamaha MDP-10](https://nicole.express/2024/elementary-midi-watson.html)
 * [2024-05-19, 14:33:10](https://news.ycombinator.com/item?id=40407228) - [Swarming Proxima Centauri: Picospacecraft Swarms over Interstellar Distances](https://astrobiology.com/2024/05/swarming-proxima-centauri-coherent-picospacecraft-swarms-over-interstellar-distances.html)
 * [2024-05-19, 10:22:45](https://news.ycombinator.com/item?id=40405829) - [Overflow in consistent hashing (2018)](https://rmarcus.info/blog/2018/09/14/consistent-hashing-overflow.html)
 * [2024-05-19, 10:10:17](https://news.ycombinator.com/item?id=40405772) - [Scrabble and the Nature of Expertise (2015)](https://www.scientificamerican.com/article/winning-scrabble-and-the-nature-of-expertise/)

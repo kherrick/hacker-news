@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-20](index.md)
 
+* [2024-05-20, 18:04:58](https://news.ycombinator.com/item?id=40418216) - [Caterpillar is putting 240-ton electric haul truck to work in Vale mine](https://electrek.co/2024/05/18/caterpillar-is-putting-massive-240-ton-electric-haul-truck-to-work-in-vale-mine/)
+* [2024-05-20, 18:04:31](https://news.ycombinator.com/item?id=40418211) - [Copilot+ PCs](https://blogs.microsoft.com/blog/2024/05/20/introducing-copilot-pcs/)
 * [2024-05-20, 17:54:30](https://news.ycombinator.com/item?id=40418115) - [Dieter Rams turns 92 – Stream \"Rams\" for free May 20 and 21](https://www.ohyouprettythings.com/rams)
 * [2024-05-20, 17:45:35](https://news.ycombinator.com/item?id=40418025) - [Microsoft announces an Arm-powered Surface Laptop](https://www.theverge.com/2024/5/20/24160498/microsoft-arm-surface-laptop-6-qualcomm-snapdragon-x-elite)
 * [2024-05-20, 17:45:31](https://news.ycombinator.com/item?id=40418024) - [Secret meeting between Apple and TSMC reported to reserve all 2nm capacity](https://9to5mac.com/2024/05/20/secret-meeting-between-apple-and-tsmc-reported-possibly-to-reserve-all-2nm-capacity/)
