@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-05-20](index.md)
 
+* [2024-05-20, 17:09:28](https://news.ycombinator.com/item?id=40417624) - [Lumina Makes Legal Threats over Questioned Anti-Cavity Claims](https://trevorklee.substack.com/p/luminas-legal-threats-and-my-about)
 * [2024-05-20, 17:00:25](https://news.ycombinator.com/item?id=40417520) - [QuestDB (YC S20) Is Hiring a Core Database Engineer](https://questdb.io/careers/core-database-engineer/)
+* [2024-05-20, 16:23:02](https://news.ycombinator.com/item?id=40417128) - [Paleolithic people settled in Cyprus thousands of years earlier than thought](https://phys.org/news/2024-05-paleolithic-people-cyprus-thousands-years.html)
 * [2024-05-20, 15:46:15](https://news.ycombinator.com/item?id=40416773) - [Never, Ever, Ever Use Pixelation for Redacting Text](https://bishopfox.com/blog/unredacter-tool-never-pixelation)
 * [2024-05-20, 15:43:41](https://news.ycombinator.com/item?id=40416746) - [Turkish drone drew star and crescent after finding helicopter](https://www.ippmedia.com/the-guardian/live-update/turkish-drone-drew-star-and-crescent-after-finding-helicopter-2024-05-20-144006)
 * [2024-05-20, 15:33:53](https://news.ycombinator.com/item?id=40416661) - [The efficacy of duct tape vs. cryotherapy in the treatment of the common wart](https://pubmed.ncbi.nlm.nih.gov/12361440/)
+* [2024-05-20, 15:33:44](https://news.ycombinator.com/item?id=40416657) - [26× Faster Inference with Layer-Condensed KV Cache for Large Language Models](https://arxiv.org/abs/2405.10637)
 * [2024-05-20, 15:06:22](https://news.ycombinator.com/item?id=40416360) - [CSS: Has(), the God Selector](https://brucelawson.co.uk/2024/css-has-the-god-selector/)
 * [2024-05-20, 15:02:30](https://news.ycombinator.com/item?id=40416304) - [An Untapped Source of Lithium Has Just Been Found in the US](https://www.sciencealert.com/a-vast-untapped-source-of-lithium-has-just-been-found-in-the-us)
 * [2024-05-20, 14:55:02](https://news.ycombinator.com/item?id=40416219) - [China's BYD nears deal to supply London's electric double decker buses](https://www.cityam.com/chinas-byd-nears-deal-to-supply-londons-electric-double-decker-buses/)
