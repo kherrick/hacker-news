@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-05-20](index.md)
 
 * [2024-05-20, 21:00:26](https://news.ycombinator.com/item?id=40420323) - [Etleap (YC W13) Is Hiring Software Engineer – Integrations (Remote in Brazil)](https://etleap.com/careers/software-engineer-integrations/)
+* [2024-05-20, 20:30:19](https://news.ycombinator.com/item?id=40419947) - [Ask HN: Most successful example using LLMs in daily work/life?](https://news.ycombinator.com/item?id=40419947)
+* [2024-05-20, 20:23:02](https://news.ycombinator.com/item?id=40419856) - [Enlightenmentware](https://mmapped.blog/posts/28-enlightenmentware.html)
 * [2024-05-20, 20:14:51](https://news.ycombinator.com/item?id=40419760) - [(Tesla) has twice attempted to drive directly into a train while in FSD mode](https://x.com/ArtemR/status/1792059155324494219/video/1)
 * [2024-05-20, 19:34:09](https://news.ycombinator.com/item?id=40419289) - [Ask HN: Hacker News-like forum, specific to Game Development?](https://news.ycombinator.com/item?id=40419289)
 * [2024-05-20, 19:22:21](https://news.ycombinator.com/item?id=40419141) - [Edited highlights from the evisceration of Craig Wright](https://www.ft.com/content/83dc246e-99ca-4af3-bd07-a815fdafa7c0)
