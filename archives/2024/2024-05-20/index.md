@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-05-20](index.md)
 
+* [2024-05-20, 11:39:08](https://news.ycombinator.com/item?id=40414388) - [This USB flash drive can only store 8KB of data, but will last you 200 years](https://www.tomshardware.com/pc-components/usb-flash-drives/this-usb-flash-drive-can-only-store-8kb-of-data-but-will-last-you-200-years)
+* [2024-05-20, 11:25:11](https://news.ycombinator.com/item?id=40414316) - [3M Execs Convinced a Scientist PFOS Found in Human Blood Were Safe](https://www.propublica.org/article/3m-forever-chemicals-pfas-pfos-inside-story)
 * [2024-05-20, 11:19:28](https://news.ycombinator.com/item?id=40414288) - [Linux 6.10 Will Print the Number of Populated Memory Slots at Boot Time](https://www.phoronix.com/news/Linux-6.10-Prints-Memory-Slots)
 * [2024-05-20, 11:14:29](https://news.ycombinator.com/item?id=40414257) - [Eco-brutalism: when angular concrete meets the wonder of nature](https://www.theguardian.com/artanddesign/gallery/2024/may/11/eco-brutalism-when-angular-concrete-meets-the-wonder-of-nature-in-pictures)
+* [2024-05-20, 11:13:24](https://news.ycombinator.com/item?id=40414249) - [OpenAI to Pull Scarlet Johansson Soundalike Sky's Voice from ChatGPT](https://www.bloomberg.com/news/articles/2024-05-20/openai-to-pull-johansson-soundalike-sky-s-voice-from-chatgpt)
 * [2024-05-20, 10:09:45](https://news.ycombinator.com/item?id=40413931) - [Konrad Zuse's Homepage](https://web.archive.org/web/20090214083953/http://user.cs.tu-berlin.de/~zuse/Konrad_Zuse/index.html)
 * [2024-05-20, 10:01:36](https://news.ycombinator.com/item?id=40413891) - [Uber Migrates 1T Records from DynamoDB to LedgerStore to Save $6M Annually](https://www.infoq.com/news/2024/05/uber-dynamodb-ledgerstore/)
 * [2024-05-20, 09:25:52](https://news.ycombinator.com/item?id=40413706) - [British engineering giant Arup revealed as $25M deepfake scam victim](https://www.cnn.com/2024/05/16/tech/arup-deepfake-scam-loss-hong-kong-intl-hnk/index.html)
