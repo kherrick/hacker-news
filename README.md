@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-20, 17:45:35](https://news.ycombinator.com/item?id=40418025) - [Microsoft announces an Arm-powered Surface Laptop](https://www.theverge.com/2024/5/20/24160498/microsoft-arm-surface-laptop-6-qualcomm-snapdragon-x-elite)
 * [2024-05-20, 17:45:31](https://news.ycombinator.com/item?id=40418024) - [Secret meeting between Apple and TSMC reported to reserve all 2nm capacity](https://9to5mac.com/2024/05/20/secret-meeting-between-apple-and-tsmc-reported-possibly-to-reserve-all-2nm-capacity/)
 * [2024-05-20, 17:38:52](https://news.ycombinator.com/item?id=40417951) - [List of Helicopter Prison Escapes](https://en.wikipedia.org/wiki/List_of_helicopter_prison_escapes)
 * [2024-05-20, 17:09:28](https://news.ycombinator.com/item?id=40417624) - [Lumina Makes Legal Threats over Questioned Anti-Cavity Claims](https://trevorklee.substack.com/p/luminas-legal-threats-and-my-about)
@@ -12,6 +11,7 @@
 * [2024-05-20, 11:41:08](https://news.ycombinator.com/item?id=40414404) - [Grothendieck’s use of equality](https://arxiv.org/abs/2405.10387)
 * [2024-05-20, 11:25:11](https://news.ycombinator.com/item?id=40414316) - [3M executives convinced a scientist forever chemicals in human blood were safe](https://www.propublica.org/article/3m-forever-chemicals-pfas-pfos-inside-story)
 * [2024-05-20, 10:01:36](https://news.ycombinator.com/item?id=40413891) - [Uber Migrates 1T Records from DynamoDB to LedgerStore to Save $6M Annually](https://www.infoq.com/news/2024/05/uber-dynamodb-ledgerstore/)
+* [2024-05-20, 01:43:00](https://news.ycombinator.com/item?id=40411274) - [What \"Follow Your Dreams\" Misses | 3Blue1Brown [video]](https://www.youtube.com/watch?v=W3I3kAg2J7w)
 * [2024-05-19, 23:04:15](https://news.ycombinator.com/item?id=40410414) - [The problem with new URL(), and how URL.parse() fixes that](https://kilianvalkhof.com/2024/javascript/the-problem-with-new-url-and-how-url-parse-fixes-that/)
 * [2024-05-19, 23:02:41](https://news.ycombinator.com/item?id=40410404) - [The Lunacy of Artemis](https://idlewords.com/2024/5/the_lunacy_of_artemis.htm)
 * [2024-05-19, 21:39:08](https://news.ycombinator.com/item?id=40409956) - [C Style: My favorite C programming practices (2014)](https://github.com/mcinglis/c-style)
