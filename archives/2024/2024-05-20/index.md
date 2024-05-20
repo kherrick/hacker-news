@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-05-20](index.md)
 
+* [2024-05-20, 13:15:41](https://news.ycombinator.com/item?id=40415119) - [Red Lobster Files for Bankruptcy](https://www.cnn.com/2024/05/20/investing/red-lobster-restaurants-bankruptcy/index.html)
 * [2024-05-20, 12:52:32](https://news.ycombinator.com/item?id=40414932) - [2023 was the hottest summer in two thousand years](https://www.cam.ac.uk/research/news/2023-was-the-hottest-summer-in-two-thousand-years)
 * [2024-05-20, 12:27:11](https://news.ycombinator.com/item?id=40414718) - [CVE-2024-4367 – Arbitrary JavaScript execution in PDF.js](https://codeanlabs.com/blog/research/cve-2024-4367-arbitrary-js-execution-in-pdf-js/)
 * [2024-05-20, 12:07:58](https://news.ycombinator.com/item?id=40414565) - [How a 64k intro is made (2017)](https://www.lofibucket.com/articles/64k_intro.html)
 * [2024-05-20, 11:39:08](https://news.ycombinator.com/item?id=40414388) - [This USB flash drive can only store 8KB of data, but will last you 200 years](https://www.tomshardware.com/pc-components/usb-flash-drives/this-usb-flash-drive-can-only-store-8kb-of-data-but-will-last-you-200-years)
+* [2024-05-20, 11:27:34](https://news.ycombinator.com/item?id=40414329) - [ICC seeks arrest warrants against Sinwar and Netanyahu for war crimes](https://www.cnn.com/2024/05/20/middleeast/icc-israel-hamas-arrest-warrant-war-crimes-intl/index.html)
 * [2024-05-20, 11:25:11](https://news.ycombinator.com/item?id=40414316) - [3M Execs Convinced a Scientist PFOS Found in Human Blood Were Safe](https://www.propublica.org/article/3m-forever-chemicals-pfas-pfos-inside-story)
 * [2024-05-20, 11:19:28](https://news.ycombinator.com/item?id=40414288) - [Linux 6.10 Will Print the Number of Populated Memory Slots at Boot Time](https://www.phoronix.com/news/Linux-6.10-Prints-Memory-Slots)
 * [2024-05-20, 11:14:29](https://news.ycombinator.com/item?id=40414257) - [Eco-brutalism: when angular concrete meets the wonder of nature](https://www.theguardian.com/artanddesign/gallery/2024/may/11/eco-brutalism-when-angular-concrete-meets-the-wonder-of-nature-in-pictures)
