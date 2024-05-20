@@ -65,6 +65,7 @@
 * [2024-05-19, 08:58:51](https://news.ycombinator.com/item?id=40405443) - [AI Books4 Dataset for training LLMs further](https://old.reddit.com/r/datasets/comments/1cvi151/ai_books4_dataset_for_training_llms_further/)
 * [2024-05-19, 08:46:18](https://news.ycombinator.com/item?id=40405380) - [Show HN: Interactive Graph by LLM (GPT-4o)](https://columns.ai/chatgpt)
 * [2024-05-19, 08:36:34](https://news.ycombinator.com/item?id=40405340) - [\"No Mow May\" Won't Fix Our Biodiversity Problems](https://www.motherjones.com/environment/2024/05/no-mow-may-bad-science-lawns-grass-biodiversity/)
+* [2024-05-19, 08:31:47](https://news.ycombinator.com/item?id=40405309) - [Steve Wozniak: When I die these are the moments I want to remember](https://www.cnbc.com/2024/05/18/apple-co-founder-steve-wozniak-happiness-matters-more-than-accomplishment.html)
 * [2024-05-19, 07:10:43](https://news.ycombinator.com/item?id=40404883) - [Google Cloud accidentally deletes $125B Australian pension fund](https://www.business-standard.com/world-news/google-cloud-accidentally-deletes-125-billion-australian-pension-fund-124051800606_1.html)
 * [2024-05-19, 07:01:00](https://news.ycombinator.com/item?id=40404825) - [Emerge Tools (YC W21) is hiring senior engineers to automate dead code deletion](https://www.emergetools.com/careers)
 * [2024-05-19, 06:46:12](https://news.ycombinator.com/item?id=40404761) - [Ask HN: Why are people so mean in the open source community? (about xz again)](https://news.ycombinator.com/item?id=40404761)
