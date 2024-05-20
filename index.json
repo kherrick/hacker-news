@@ -1,32 +1,12 @@
 [
   [
     [
-      "2024-05-20, 17:54:30",
-      "https://news.ycombinator.com/item?id=40418115"
-    ],
-    [
-      "Dieter Rams turns 92 – Stream \"Rams\" for free May 20 and 21",
-      "https://www.ohyouprettythings.com/rams"
-    ]
-  ],
-  [
-    [
       "2024-05-20, 17:39:14",
       "https://news.ycombinator.com/item?id=40417956"
     ],
     [
       "It Pays to Be a Double Major in College",
       "https://www.wsj.com/personal-finance/college-double-majors-earnings-salary-090e7ea1"
-    ]
-  ],
-  [
-    [
-      "2024-05-20, 17:34:30",
-      "https://news.ycombinator.com/item?id=40417909"
-    ],
-    [
-      "AI chatbots are intruding where people are trying to connect with other humans",
-      "https://theconversation.com/ai-chatbots-are-intruding-into-online-communities-where-people-are-trying-to-connect-with-other-humans-229473"
     ]
   ],
   [
@@ -137,6 +117,26 @@
     [
       "Migrating Uber's ledger data from DynamoDB to LedgerStore",
       "https://www.uber.com/blog/migrating-from-dynamodb-to-ledgerstore/"
+    ]
+  ],
+  [
+    [
+      "2024-05-20, 01:43:00",
+      "https://news.ycombinator.com/item?id=40411274"
+    ],
+    [
+      "What \"Follow Your Dreams\" Misses [video]",
+      "https://www.youtube.com/watch?v=W3I3kAg2J7w"
+    ]
+  ],
+  [
+    [
+      "2024-05-19, 23:04:15",
+      "https://news.ycombinator.com/item?id=40410414"
+    ],
+    [
+      "The problem with new URL(), and how URL.parse() fixes that",
+      "https://kilianvalkhof.com/2024/javascript/the-problem-with-new-url-and-how-url-parse-fixes-that/"
     ]
   ],
   [
