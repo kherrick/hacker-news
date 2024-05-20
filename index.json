@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-20, 23:32:07",
+      "https://news.ycombinator.com/item?id=40421932"
+    ],
+    [
+      "Scarlett Johansson has just issued this statement on OpenAI and Sky",
+      "https://twitter.com/yashar/status/1792682664845254683"
+    ]
+  ],
+  [
+    [
       "2024-05-20, 23:24:14",
       "https://news.ycombinator.com/item?id=40421861"
     ],
@@ -27,6 +37,16 @@
     [
       "Statement from Scarlett Johansson on the OpenAI \"Sky\" voice",
       "https://twitter.com/BobbyAllyn/status/1792679435701014908"
+    ]
+  ],
+  [
+    [
+      "2024-05-20, 22:01:54",
+      "https://news.ycombinator.com/item?id=40420968"
+    ],
+    [
+      "Google cuts mystery check to US in bid to sidestep jury trial",
+      "https://www.reuters.com/legal/government/google-cuts-mystery-check-us-bid-sidestep-jury-trial-2024-05-20/"
     ]
   ],
   [
@@ -61,12 +81,12 @@
   ],
   [
     [
-      "2024-05-20, 18:38:14",
-      "https://news.ycombinator.com/item?id=40418607"
+      "2024-05-20, 19:07:51",
+      "https://news.ycombinator.com/item?id=40418983"
     ],
     [
-      "A New Jersey couple survived the Alaskan wilderness on a homestead",
-      "https://www.bbc.com/culture/article/20240517-the-intrepid-new-jersey-couple-that-survived-the-alaskan-wilderness-on-a-homestead"
+      "Using Postgres for Everything",
+      "https://www.timescale.com/blog/how-to-collapse-your-stack-using-postgresql-for-everything/"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-05-19, 21:39:08",
-      "https://news.ycombinator.com/item?id=40409956"
-    ],
-    [
-      "C Style: My favorite C programming practices (2014)",
-      "https://github.com/mcinglis/c-style"
-    ]
-  ],
-  [
-    [
       "2024-05-19, 21:08:17",
       "https://news.ycombinator.com/item?id=40409757"
     ],
@@ -287,16 +297,6 @@
     [
       "Colorless green DNNs sleep furiously in an unexplainable fantasy",
       "https://cacm.acm.org/blogcacm/when-colorless-green-dnns-sleep-furiously-in-an-unexplainable-fantasy/"
-    ]
-  ],
-  [
-    [
-      "2024-05-16, 19:24:03",
-      "https://news.ycombinator.com/item?id=40382104"
-    ],
-    [
-      "D-Expressions: Lisp power, Dylan style [pdf]",
-      "http://people.csail.mit.edu/jrb/Projects/dexprs.pdf"
     ]
   ]
 ]
