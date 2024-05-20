@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-20, 19:22:21](https://news.ycombinator.com/item?id=40419141) - [Edited highlights from the evisceration of Craig Wright](https://www.ft.com/content/83dc246e-99ca-4af3-bd07-a815fdafa7c0)
+* [2024-05-20, 20:14:51](https://news.ycombinator.com/item?id=40419760) - [(Tesla) has twice attempted to drive directly into a train while in FSD mode](https://x.com/ArtemR/status/1792059155324494219/video/1)
 * [2024-05-20, 19:07:51](https://news.ycombinator.com/item?id=40418983) - [Using Postgres for Everything](https://www.timescale.com/blog/how-to-collapse-your-stack-using-postgresql-for-everything/)
 * [2024-05-20, 18:38:14](https://news.ycombinator.com/item?id=40418607) - [A New Jersey couple survived the Alaskan wilderness on a homestead](https://www.bbc.com/culture/article/20240517-the-intrepid-new-jersey-couple-that-survived-the-alaskan-wilderness-on-a-homestead)
 * [2024-05-20, 18:36:53](https://news.ycombinator.com/item?id=40418591) - [Rethinking Text Resizing on Web](https://medium.com/airbnb-engineering/rethinking-text-resizing-on-web-1047b12d2881)
