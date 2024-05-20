@@ -59,6 +59,7 @@
 * [2024-05-19, 12:00:25](https://news.ycombinator.com/item?id=40406344) - [Show HN: Digital player board for Terraforming Mars](https://terraforming-mars-player-board.netlify.app/)
 * [2024-05-19, 11:48:04](https://news.ycombinator.com/item?id=40406279) - [Ancient Chesapeake site challenges timeline of humans in the Americas](https://www.washingtonpost.com/science/2024/05/19/first-americans-chesapeake-parsons-island/)
 * [2024-05-19, 11:33:43](https://news.ycombinator.com/item?id=40406194) - [Compilers for Free with Weval](https://bernsteinbear.com/blog/weval/)
+* [2024-05-19, 10:22:45](https://news.ycombinator.com/item?id=40405829) - [Overflow in Consistent Hashing](https://rmarcus.info/blog/2018/09/14/consistent-hashing-overflow.html)
 * [2024-05-19, 10:10:01](https://news.ycombinator.com/item?id=40405769) - [Chess and 18th Century artificial intelligence (2013)](https://www.bbc.com/news/magazine-21876120)
 * [2024-05-19, 10:08:37](https://news.ycombinator.com/item?id=40405763) - [You could have invented fractional cascading](http://blog.ezyang.com/2012/03/you-could-have-invented-fractional-cascading/)
 * [2024-05-19, 09:47:19](https://news.ycombinator.com/item?id=40405664) - [Microwaves Not Made in China](https://www.aintfromchina.com/kitchen/microwaves.html)
