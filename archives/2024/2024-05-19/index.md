@@ -15,6 +15,7 @@
 * [2024-05-19, 22:20:29](https://news.ycombinator.com/item?id=40410178) - [Puzzle made by the WikiLeaks founder Julian Assange for the university quest](https://wondrousnet.blogspot.com/2023/05/solution-to-puzzle-sleuth.html)
 * [2024-05-19, 22:16:25](https://news.ycombinator.com/item?id=40410158) - [Ubuntu 24.10 to Default to Wayland for Nvidia Users](https://www.omgubuntu.co.uk/2024/05/ubuntu-24-10-wayland-nvidia)
 * [2024-05-19, 21:49:21](https://news.ycombinator.com/item?id=40410004) - [Devon: An open-source pair programmer](https://github.com/entropy-research/Devon)
+* [2024-05-19, 21:39:08](https://news.ycombinator.com/item?id=40409956) - [C-style: My favorite C programming practices](https://github.com/mcinglis/c-style)
 * [2024-05-19, 21:08:17](https://news.ycombinator.com/item?id=40409757) - [Unprojecting Text with Ellipses (2016)](https://mzucker.github.io/2016/10/11/unprojecting-text-with-ellipses.html)
 * [2024-05-19, 21:02:36](https://news.ycombinator.com/item?id=40409718) - [Beating Jeff's 3.14 Ghz Raspberry Pi 5](https://jonatron.github.io/randomstuff/pivolt/)
 * [2024-05-19, 21:01:15](https://news.ycombinator.com/item?id=40409710) - [Meteor Just Seen in Portugal](https://old.reddit.com/r/interestingasfuck/comments/1cva6j6/meteor_just_seen_in_portugal_23h45/)

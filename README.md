@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-20, 05:24:39](https://news.ycombinator.com/item?id=40412522) - [After 47 Years, Apple Is Making a Bittersweet Change. It's the End of an Era](https://www.inc.com/jason-aten/after-47-years-apple-is-making-a-bittersweet-change-its-truly-end-of-an-era.html)
 * [2024-05-20, 03:48:53](https://news.ycombinator.com/item?id=40412091) - [An identity thief stole $5k from me. I spent two years tracking down how](https://www.msn.com/en-us/news/crime/an-identity-thief-stole-5000-from-me-i-spent-two-years-tracking-down-how/ar-BB1mqh0b)
 * [2024-05-20, 03:14:07](https://news.ycombinator.com/item?id=40411871) - [Why Fact Checking of Claims About Nuclear Power Projects Is Important](https://neutronbytes.com/2024/05/12/why-fact-checking-of-audacious-claims-about-nuclear-power-projects-is-important/)
 * [2024-05-20, 02:00:52](https://news.ycombinator.com/item?id=40411393) - [Avoidance of sun exposure as a risk factor for major causes of death](https://pubmed.ncbi.nlm.nih.gov/26992108/)
@@ -10,6 +9,7 @@
 * [2024-05-19, 23:02:41](https://news.ycombinator.com/item?id=40410404) - [The Lunacy of Artemis (2023)](https://idlewords.com/2024/5/the_lunacy_of_artemis.htm)
 * [2024-05-19, 22:52:01](https://news.ycombinator.com/item?id=40410341) - [Hertz Charging a Tesla Renter for Gas Was Not an Isolated Incident](https://www.thedrive.com/news/hertz-charging-a-tesla-renter-for-gas-was-not-an-isolated-incident)
 * [2024-05-19, 21:49:21](https://news.ycombinator.com/item?id=40410004) - [Devon: An open-source pair programmer](https://github.com/entropy-research/Devon)
+* [2024-05-19, 21:39:08](https://news.ycombinator.com/item?id=40409956) - [C-style: My favorite C programming practices](https://github.com/mcinglis/c-style)
 * [2024-05-19, 21:08:17](https://news.ycombinator.com/item?id=40409757) - [Unprojecting Text with Ellipses (2016)](https://mzucker.github.io/2016/10/11/unprojecting-text-with-ellipses.html)
 * [2024-05-19, 21:02:36](https://news.ycombinator.com/item?id=40409718) - [Beating Jeff's 3.14 Ghz Raspberry Pi 5](https://jonatron.github.io/randomstuff/pivolt/)
 * [2024-05-19, 21:01:15](https://news.ycombinator.com/item?id=40409710) - [Meteor Just Seen in Portugal](https://old.reddit.com/r/interestingasfuck/comments/1cva6j6/meteor_just_seen_in_portugal_23h45/)
@@ -21,7 +21,6 @@
 * [2024-05-19, 17:15:29](https://news.ycombinator.com/item?id=40408291) - [Coding My Handwriting](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript)
 * [2024-05-19, 16:19:06](https://news.ycombinator.com/item?id=40407927) - [AI doppelgänger experiment – Part 1: The training](https://julienposture.substack.com/p/the-ai-doppelganger-experiment-part)
 * [2024-05-19, 16:13:35](https://news.ycombinator.com/item?id=40407884) - [A floppy disk MIDI boombox: The Yamaha MDP-10](https://nicole.express/2024/elementary-midi-watson.html)
-* [2024-05-19, 15:24:12](https://news.ycombinator.com/item?id=40407526) - [Make timelapses easily using FFmpeg](https://news.ycombinator.com/item?id=40407526)
 * [2024-05-19, 14:33:10](https://news.ycombinator.com/item?id=40407228) - [Swarming Proxima Centauri: Picospacecraft Swarms over Interstellar Distances](https://astrobiology.com/2024/05/swarming-proxima-centauri-coherent-picospacecraft-swarms-over-interstellar-distances.html)
 * [2024-05-19, 14:14:06](https://news.ycombinator.com/item?id=40407104) - [The Bel Language (2019)](https://sep.turbifycdn.com/ty/cdn/paulgraham/bellanguage.txt)
 * [2024-05-19, 11:33:43](https://news.ycombinator.com/item?id=40406194) - [Compilers for free with weval](https://bernsteinbear.com/blog/weval/)
@@ -29,6 +28,7 @@
 * [2024-05-19, 07:03:58](https://news.ycombinator.com/item?id=40404837) - [Kotlin Scripting](https://tutcoach.com/kotlin/kotlin-scripting/)
 * [2024-05-19, 06:26:08](https://news.ycombinator.com/item?id=40404676) - [Swift Tooling: Windows Edition](https://speakinginswift.substack.com/p/swift-tooling-windows-edition)
 * [2024-05-19, 05:18:41](https://news.ycombinator.com/item?id=40404446) - [The Myth of Medieval Small Beer (2017)](https://www.ianvisits.co.uk/articles/the-myth-of-medieval-small-beer-19763/)
+* [2024-05-18, 14:12:20](https://news.ycombinator.com/item?id=40399224) - [I couldn't escape poison oak, so I started eating it](https://www.wsj.com/style/eat-poison-ivy-oak-immunity-3207ec3c)
 * [2024-05-18, 09:22:02](https://news.ycombinator.com/item?id=40397593) - [DB-19: Resurrecting an Obsolete Connector](https://www.bigmessowires.com/2016/06/04/db-19-resurrecting-an-obsolete-connector/)
 
 ## [Archives](archives/index.md)
