@@ -1,8 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-20, 17:54:30](https://news.ycombinator.com/item?id=40418115) - [Dieter Rams turns 92 – Stream \"Rams\" for free May 20 and 21](https://www.ohyouprettythings.com/rams)
 * [2024-05-20, 17:39:14](https://news.ycombinator.com/item?id=40417956) - [It Pays to Be a Double Major in College](https://www.wsj.com/personal-finance/college-double-majors-earnings-salary-090e7ea1)
-* [2024-05-20, 17:34:30](https://news.ycombinator.com/item?id=40417909) - [AI chatbots are intruding where people are trying to connect with other humans](https://theconversation.com/ai-chatbots-are-intruding-into-online-communities-where-people-are-trying-to-connect-with-other-humans-229473)
 * [2024-05-20, 17:27:46](https://news.ycombinator.com/item?id=40417837) - [Recall is Microsoft's key to unlocking the future of PCs](https://www.theverge.com/2024/5/20/24159258/microsoft-recall-ai-explorer-windows-11-surface-event)
 * [2024-05-20, 17:27:03](https://news.ycombinator.com/item?id=40417828) - [Microsoft announces Copilot Plus PCs with built-in AI hardware](https://www.theverge.com/2024/5/20/24160486/microsoft-copilot-plus-ai-arm-chips-pc-surface-event)
 * [2024-05-20, 17:04:59](https://news.ycombinator.com/item?id=40417575) - [These cities bar facial recognition tech. Police still found ways to access it](https://www.washingtonpost.com/business/2024/05/18/facial-recognition-law-enforcement-austin-san-francisco/)
@@ -14,6 +12,8 @@
 * [2024-05-20, 12:07:58](https://news.ycombinator.com/item?id=40414565) - [How a 64k intro is made (2017)](https://www.lofibucket.com/articles/64k_intro.html)
 * [2024-05-20, 11:41:08](https://news.ycombinator.com/item?id=40414404) - [Grothendieck’s use of equality](https://arxiv.org/abs/2405.10387)
 * [2024-05-20, 10:01:36](https://news.ycombinator.com/item?id=40413891) - [Migrating Uber's ledger data from DynamoDB to LedgerStore](https://www.uber.com/blog/migrating-from-dynamodb-to-ledgerstore/)
+* [2024-05-20, 01:43:00](https://news.ycombinator.com/item?id=40411274) - [What \"Follow Your Dreams\" Misses [video]](https://www.youtube.com/watch?v=W3I3kAg2J7w)
+* [2024-05-19, 23:04:15](https://news.ycombinator.com/item?id=40410414) - [The problem with new URL(), and how URL.parse() fixes that](https://kilianvalkhof.com/2024/javascript/the-problem-with-new-url-and-how-url-parse-fixes-that/)
 * [2024-05-19, 23:02:41](https://news.ycombinator.com/item?id=40410404) - [The Lunacy of Artemis](https://idlewords.com/2024/5/the_lunacy_of_artemis.htm)
 * [2024-05-19, 21:39:08](https://news.ycombinator.com/item?id=40409956) - [C Style: My favorite C programming practices (2014)](https://github.com/mcinglis/c-style)
 * [2024-05-19, 21:08:17](https://news.ycombinator.com/item?id=40409757) - [Unprojecting text with ellipses (2016)](https://mzucker.github.io/2016/10/11/unprojecting-text-with-ellipses.html)
