@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-20](index.md)
 
+* [2024-05-20, 19:00:12](https://news.ycombinator.com/item?id=40418885) - [Ask HN: Why do you all think that Htmx is such a recent development?](https://news.ycombinator.com/item?id=40418885)
 * [2024-05-20, 18:39:58](https://news.ycombinator.com/item?id=40418624) - [Hims Debuts $199 Weight-Loss Shots at 85% Discount to Wegovy](https://www.bloomberg.com/news/articles/2024-05-20/hims-debuts-199-weight-loss-shots-undercutting-wegovy-ozempic)
 * [2024-05-20, 18:36:53](https://news.ycombinator.com/item?id=40418591) - [Rethinking Text Resizing on Web](https://medium.com/airbnb-engineering/rethinking-text-resizing-on-web-1047b12d2881)
 * [2024-05-20, 18:04:58](https://news.ycombinator.com/item?id=40418216) - [Caterpillar is putting 240-ton electric haul truck to work in Vale mine](https://electrek.co/2024/05/18/caterpillar-is-putting-massive-240-ton-electric-haul-truck-to-work-in-vale-mine/)
