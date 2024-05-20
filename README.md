@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-20, 03:48:53](https://news.ycombinator.com/item?id=40412091) - [An identity thief stole $5k from me. I spent two years tracking down how](https://www.msn.com/en-us/news/crime/an-identity-thief-stole-5000-from-me-i-spent-two-years-tracking-down-how/ar-BB1mqh0b)
 * [2024-05-20, 03:14:07](https://news.ycombinator.com/item?id=40411871) - [Fact checking of claims about nuclear power projects](https://neutronbytes.com/2024/05/12/why-fact-checking-of-audacious-claims-about-nuclear-power-projects-is-important/)
 * [2024-05-20, 01:15:04](https://news.ycombinator.com/item?id=40411115) - [Reflections on our Responsible Scaling Policy](https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy)
 * [2024-05-19, 23:50:10](https://news.ycombinator.com/item?id=40410637) - [Show HN: ffmpeg-english \"capture from /dev/video0 every 1 second to jpg files\"](https://github.com/dheera/scripts/blob/master/ffmpeg-english)
@@ -18,6 +17,7 @@
 * [2024-05-19, 17:15:29](https://news.ycombinator.com/item?id=40408291) - [Coding My Handwriting](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript)
 * [2024-05-19, 16:19:06](https://news.ycombinator.com/item?id=40407927) - [AI doppelgänger experiment – Part 1: The training](https://julienposture.substack.com/p/the-ai-doppelganger-experiment-part)
 * [2024-05-19, 16:13:35](https://news.ycombinator.com/item?id=40407884) - [A floppy disk MIDI boombox: The Yamaha MDP-10](https://nicole.express/2024/elementary-midi-watson.html)
+* [2024-05-19, 15:24:12](https://news.ycombinator.com/item?id=40407526) - [Make timelapses easily using FFmpeg](https://news.ycombinator.com/item?id=40407526)
 * [2024-05-19, 14:33:10](https://news.ycombinator.com/item?id=40407228) - [Swarming Proxima Centauri: Picospacecraft Swarms over Interstellar Distances](https://astrobiology.com/2024/05/swarming-proxima-centauri-coherent-picospacecraft-swarms-over-interstellar-distances.html)
 * [2024-05-19, 11:48:04](https://news.ycombinator.com/item?id=40406279) - [Ancient Chesapeake site challenges timeline of humans in the Americas](https://www.washingtonpost.com/science/2024/05/19/first-americans-chesapeake-parsons-island/)
 * [2024-05-19, 11:33:43](https://news.ycombinator.com/item?id=40406194) - [Compilers for free with weval](https://bernsteinbear.com/blog/weval/)
