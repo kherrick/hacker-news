@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-20](index.md)
 
+* [2024-05-20, 17:45:35](https://news.ycombinator.com/item?id=40418025) - [Microsoft announces an Arm-powered Surface Laptop](https://www.theverge.com/2024/5/20/24160498/microsoft-arm-surface-laptop-6-qualcomm-snapdragon-x-elite)
+* [2024-05-20, 17:45:31](https://news.ycombinator.com/item?id=40418024) - [Secret meeting between Apple and TSMC reported to reserve all 2nm capacity](https://9to5mac.com/2024/05/20/secret-meeting-between-apple-and-tsmc-reported-possibly-to-reserve-all-2nm-capacity/)
+* [2024-05-20, 17:38:52](https://news.ycombinator.com/item?id=40417951) - [List of Helicopter Prison Escapes](https://en.wikipedia.org/wiki/List_of_helicopter_prison_escapes)
 * [2024-05-20, 17:09:28](https://news.ycombinator.com/item?id=40417624) - [Lumina Makes Legal Threats over Questioned Anti-Cavity Claims](https://trevorklee.substack.com/p/luminas-legal-threats-and-my-about)
 * [2024-05-20, 17:00:25](https://news.ycombinator.com/item?id=40417520) - [QuestDB (YC S20) Is Hiring a Core Database Engineer](https://questdb.io/careers/core-database-engineer/)
 * [2024-05-20, 16:23:02](https://news.ycombinator.com/item?id=40417128) - [Paleolithic people settled in Cyprus thousands of years earlier than thought](https://phys.org/news/2024-05-paleolithic-people-cyprus-thousands-years.html)
