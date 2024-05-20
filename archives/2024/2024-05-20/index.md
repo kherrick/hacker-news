@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-20](index.md)
 
+* [2024-05-20, 19:07:51](https://news.ycombinator.com/item?id=40418983) - [How to Collapse Your Stack Using PostgreSQL for Everything](https://www.timescale.com/blog/how-to-collapse-your-stack-using-postgresql-for-everything/)
 * [2024-05-20, 19:00:12](https://news.ycombinator.com/item?id=40418885) - [Ask HN: Why do you all think that Htmx is such a recent development?](https://news.ycombinator.com/item?id=40418885)
 * [2024-05-20, 18:39:58](https://news.ycombinator.com/item?id=40418624) - [Hims Debuts $199 Weight-Loss Shots at 85% Discount to Wegovy](https://www.bloomberg.com/news/articles/2024-05-20/hims-debuts-199-weight-loss-shots-undercutting-wegovy-ozempic)
 * [2024-05-20, 18:36:53](https://news.ycombinator.com/item?id=40418591) - [Rethinking Text Resizing on Web](https://medium.com/airbnb-engineering/rethinking-text-resizing-on-web-1047b12d2881)
@@ -18,6 +19,7 @@
 * [2024-05-20, 17:27:46](https://news.ycombinator.com/item?id=40417837) - [Recall is Microsoft's key to unlocking the future of PCs](https://www.theverge.com/2024/5/20/24159258/microsoft-recall-ai-explorer-windows-11-surface-event)
 * [2024-05-20, 17:27:03](https://news.ycombinator.com/item?id=40417828) - [Microsoft announces Copilot Plus PCs with built-in AI hardware](https://www.theverge.com/2024/5/20/24160486/microsoft-copilot-plus-ai-arm-chips-pc-surface-event)
 * [2024-05-20, 17:27:03](https://news.ycombinator.com/item?id=40417828) - [Microsoft announces Copilot Plus PCs with built-in AI hardware](https://blogs.microsoft.com/blog/2024/05/20/introducing-copilot-pcs/)
+* [2024-05-20, 17:13:00](https://news.ycombinator.com/item?id=40417671) - [Why Less Is More When Pitching Your Fractional Practice](https://www.fractionaljobs.io/blog/why-less-is-more-when-pitching-your-fractional-practice)
 * [2024-05-20, 17:09:28](https://news.ycombinator.com/item?id=40417624) - [Lumina Makes Legal Threats over Questioned Anti-Cavity Claims](https://trevorklee.substack.com/p/luminas-legal-threats-and-my-about)
 * [2024-05-20, 17:04:59](https://news.ycombinator.com/item?id=40417575) - [These cities bar facial recognition tech. Police still found ways to access it](https://www.washingtonpost.com/business/2024/05/18/facial-recognition-law-enforcement-austin-san-francisco/)
 * [2024-05-20, 17:00:25](https://news.ycombinator.com/item?id=40417520) - [QuestDB (YC S20) Is Hiring a Core Database Engineer](https://questdb.io/careers/core-database-engineer/)
@@ -27,6 +29,7 @@
 * [2024-05-20, 15:43:41](https://news.ycombinator.com/item?id=40416746) - [Turkish drone drew star and crescent after finding helicopter](https://www.ippmedia.com/the-guardian/live-update/turkish-drone-drew-star-and-crescent-after-finding-helicopter-2024-05-20-144006)
 * [2024-05-20, 15:33:53](https://news.ycombinator.com/item?id=40416661) - [The efficacy of duct tape vs. cryotherapy in the treatment of the common wart](https://pubmed.ncbi.nlm.nih.gov/12361440/)
 * [2024-05-20, 15:33:44](https://news.ycombinator.com/item?id=40416657) - [26× Faster Inference with Layer-Condensed KV Cache for Large Language Models](https://arxiv.org/abs/2405.10637)
+* [2024-05-20, 15:27:39](https://news.ycombinator.com/item?id=40416596) - [Groqbook: Generate entire books in seconds using Groq and Llama3](https://github.com/Bklieger/groqbook)
 * [2024-05-20, 15:06:22](https://news.ycombinator.com/item?id=40416360) - [CSS: Has(), the God Selector](https://brucelawson.co.uk/2024/css-has-the-god-selector/)
 * [2024-05-20, 15:02:30](https://news.ycombinator.com/item?id=40416304) - [An Untapped Source of Lithium Has Just Been Found in the US](https://www.sciencealert.com/a-vast-untapped-source-of-lithium-has-just-been-found-in-the-us)
 * [2024-05-20, 14:55:02](https://news.ycombinator.com/item?id=40416219) - [China's BYD nears deal to supply London's electric double decker buses](https://www.cityam.com/chinas-byd-nears-deal-to-supply-londons-electric-double-decker-buses/)
