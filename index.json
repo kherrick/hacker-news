@@ -11,22 +11,32 @@
   ],
   [
     [
+      "2024-05-20, 20:30:19",
+      "https://news.ycombinator.com/item?id=40419947"
+    ],
+    [
+      "Ask HN: Most successful example using LLMs in daily work/life?",
+      "https://news.ycombinator.com/item?id=40419947"
+    ]
+  ],
+  [
+    [
+      "2024-05-20, 20:23:02",
+      "https://news.ycombinator.com/item?id=40419856"
+    ],
+    [
+      "Enlightenmentware",
+      "https://mmapped.blog/posts/28-enlightenmentware.html"
+    ]
+  ],
+  [
+    [
       "2024-05-20, 19:34:09",
       "https://news.ycombinator.com/item?id=40419289"
     ],
     [
       "Ask HN: Hacker News-like forum, specific to Game Development?",
       "https://news.ycombinator.com/item?id=40419289"
-    ]
-  ],
-  [
-    [
-      "2024-05-20, 19:07:51",
-      "https://news.ycombinator.com/item?id=40418983"
-    ],
-    [
-      "Using Postgres for Everything",
-      "https://www.timescale.com/blog/how-to-collapse-your-stack-using-postgresql-for-everything/"
     ]
   ],
   [
@@ -77,16 +87,6 @@
     [
       "pg_timeseries: Open-source time-series extension for PostgreSQL",
       "https://tembo.io/blog/pg-timeseries"
-    ]
-  ],
-  [
-    [
-      "2024-05-20, 16:44:10",
-      "https://news.ycombinator.com/item?id=40417345"
-    ],
-    [
-      "The People Deliberately Killing Facebook",
-      "https://www.wheresyoured.at/killingfacebook/"
     ]
   ],
   [
@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2024-05-20, 01:43:00",
-      "https://news.ycombinator.com/item?id=40411274"
-    ],
-    [
-      "What \"Follow Your Dreams\" Misses [video]",
-      "https://www.youtube.com/watch?v=W3I3kAg2J7w"
-    ]
-  ],
-  [
-    [
       "2024-05-19, 23:02:41",
       "https://news.ycombinator.com/item?id=40410404"
     ],
@@ -187,6 +177,16 @@
     [
       "C Style: My favorite C programming practices (2014)",
       "https://github.com/mcinglis/c-style"
+    ]
+  ],
+  [
+    [
+      "2024-05-19, 21:08:17",
+      "https://news.ycombinator.com/item?id=40409757"
+    ],
+    [
+      "Unprojecting text with ellipses (2016)",
+      "https://mzucker.github.io/2016/10/11/unprojecting-text-with-ellipses.html"
     ]
   ],
   [
