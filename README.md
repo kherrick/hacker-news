@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-20, 03:14:07](https://news.ycombinator.com/item?id=40411871) - [Why Fact Checking of Claims About Nuclear Power Projects Is Important](https://neutronbytes.com/2024/05/12/why-fact-checking-of-audacious-claims-about-nuclear-power-projects-is-important/)
 * [2024-05-20, 02:00:52](https://news.ycombinator.com/item?id=40411393) - [Avoidance of sun exposure as a risk factor for major causes of death](https://pubmed.ncbi.nlm.nih.gov/26992108/)
 * [2024-05-20, 01:49:11](https://news.ycombinator.com/item?id=40411319) - [How to read a book: 10 rules from a reviewer](https://www.washingtonpost.com/books/2024/05/18/how-to-read-book-dirda/)
 * [2024-05-20, 01:15:04](https://news.ycombinator.com/item?id=40411115) - [Anthropic: Reflections on Our Responsible Scaling Policy](https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy)
 * [2024-05-20, 01:03:25](https://news.ycombinator.com/item?id=40411061) - [Tutorial: Metacompilers Part 1 (2016)](http://www.bayfronttechnologies.com/mc_tutorial.html)
 * [2024-05-19, 23:50:10](https://news.ycombinator.com/item?id=40410637) - [Show HN: ffmpeg-english \"capture from /dev/video0 every 1 second to jpg files\"](https://github.com/dheera/scripts/blob/master/ffmpeg-english)
 * [2024-05-19, 23:43:47](https://news.ycombinator.com/item?id=40410603) - [What Is Generative Art?](https://www.amygoodchild.com/blog/what-is-generative-art)
-* [2024-05-19, 23:04:15](https://news.ycombinator.com/item?id=40410414) - [The problem with new URL(), and how URL.parse() fixes that](https://kilianvalkhof.com/2024/javascript/the-problem-with-new-url-and-how-url-parse-fixes-that/)
 * [2024-05-19, 23:02:41](https://news.ycombinator.com/item?id=40410404) - [The Lunacy of Artemis](https://idlewords.com/2024/5/the_lunacy_of_artemis.htm)
 * [2024-05-19, 22:52:01](https://news.ycombinator.com/item?id=40410341) - [Hertz Charging a Tesla Renter for Gas Was Not an Isolated Incident](https://www.thedrive.com/news/hertz-charging-a-tesla-renter-for-gas-was-not-an-isolated-incident)
 * [2024-05-19, 21:49:21](https://news.ycombinator.com/item?id=40410004) - [Devon: An open-source pair programmer](https://github.com/entropy-research/Devon)
