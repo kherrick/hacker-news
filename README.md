@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-20, 11:19:28](https://news.ycombinator.com/item?id=40414288) - [Linux 6.10 Will Print the Number of Populated Memory Slots at Boot Time](https://www.phoronix.com/news/Linux-6.10-Prints-Memory-Slots)
+* [2024-05-20, 11:14:29](https://news.ycombinator.com/item?id=40414257) - [Eco-brutalism: when angular concrete meets the wonder of nature](https://www.theguardian.com/artanddesign/gallery/2024/may/11/eco-brutalism-when-angular-concrete-meets-the-wonder-of-nature-in-pictures)
 * [2024-05-20, 10:09:45](https://news.ycombinator.com/item?id=40413931) - [Konrad Zuse's Homepage](https://web.archive.org/web/20090214083953/http://user.cs.tu-berlin.de/~zuse/Konrad_Zuse/index.html)
 * [2024-05-20, 10:01:36](https://news.ycombinator.com/item?id=40413891) - [Uber Migrates 1T Records from DynamoDB to LedgerStore to Save $6M Annually](https://www.infoq.com/news/2024/05/uber-dynamodb-ledgerstore/)
 * [2024-05-20, 09:25:52](https://news.ycombinator.com/item?id=40413706) - [British engineering giant Arup revealed as $25M deepfake scam victim](https://www.cnn.com/2024/05/16/tech/arup-deepfake-scam-loss-hong-kong-intl-hnk/index.html)
@@ -23,13 +24,12 @@
 * [2024-05-19, 14:33:10](https://news.ycombinator.com/item?id=40407228) - [Swarming Proxima Centauri: Picospacecraft Swarms over Interstellar Distances](https://astrobiology.com/2024/05/swarming-proxima-centauri-coherent-picospacecraft-swarms-over-interstellar-distances.html)
 * [2024-05-19, 11:48:04](https://news.ycombinator.com/item?id=40406279) - [Ancient Chesapeake site challenges timeline of humans in the Americas](https://www.washingtonpost.com/science/2024/05/19/first-americans-chesapeake-parsons-island/)
 * [2024-05-19, 11:33:43](https://news.ycombinator.com/item?id=40406194) - [Compilers for free with weval](https://bernsteinbear.com/blog/weval/)
+* [2024-05-19, 10:43:52](https://news.ycombinator.com/item?id=40405923) - [4K 1000Hz Monitor Exhibited](https://blurbusters.com/displayweek-2024-news-4k-1000hz-monitor-exhibited-and-new-blur-busters-display-tester/)
 * [2024-05-19, 10:22:45](https://news.ycombinator.com/item?id=40405829) - [Overflow in Consistent Hashing](https://rmarcus.info/blog/2018/09/14/consistent-hashing-overflow.html)
 * [2024-05-19, 09:39:33](https://news.ycombinator.com/item?id=40405624) - [Unicode CLDR Project](https://cldr.unicode.org/)
 * [2024-05-19, 06:40:38](https://news.ycombinator.com/item?id=40404739) - [1001 Representations of Syntax with Binding (2021)](https://jesper.cx/posts/1001-syntax-representations.html)
 * [2024-05-19, 06:26:08](https://news.ycombinator.com/item?id=40404676) - [Swift Tooling: Windows Edition](https://speakinginswift.substack.com/p/swift-tooling-windows-edition)
-* [2024-05-18, 14:12:20](https://news.ycombinator.com/item?id=40399224) - [I couldn't escape poison oak, so I started eating it](https://www.wsj.com/style/eat-poison-ivy-oak-immunity-3207ec3c)
 * [2024-05-18, 09:22:02](https://news.ycombinator.com/item?id=40397593) - [DB-19: Resurrecting an Obsolete Connector (2016)](https://www.bigmessowires.com/2016/06/04/db-19-resurrecting-an-obsolete-connector/)
-* [2024-05-18, 08:15:11](https://news.ycombinator.com/item?id=40397284) - [A kids traffic mat in Elm](https://matiasklemola.com/liikennematto-devlog-five)
 
 ## [Archives](archives/index.md)
 
