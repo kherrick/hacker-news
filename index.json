@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-20, 19:07:51",
+      "https://news.ycombinator.com/item?id=40418983"
+    ],
+    [
+      "How to Collapse Your Stack Using PostgreSQL for Everything",
+      "https://www.timescale.com/blog/how-to-collapse-your-stack-using-postgresql-for-everything/"
+    ]
+  ],
+  [
+    [
       "2024-05-20, 19:00:12",
       "https://news.ycombinator.com/item?id=40418885"
     ],
@@ -27,6 +37,26 @@
     [
       "Introducing Copilot+ PCs",
       "https://blogs.microsoft.com/blog/2024/05/20/introducing-copilot-pcs/"
+    ]
+  ],
+  [
+    [
+      "2024-05-20, 17:13:00",
+      "https://news.ycombinator.com/item?id=40417671"
+    ],
+    [
+      "Why Less Is More When Pitching Your Fractional Practice",
+      "https://www.fractionaljobs.io/blog/why-less-is-more-when-pitching-your-fractional-practice"
+    ]
+  ],
+  [
+    [
+      "2024-05-20, 17:09:28",
+      "https://news.ycombinator.com/item?id=40417624"
+    ],
+    [
+      "Lumina's legal threats and my about-face",
+      "https://trevorklee.substack.com/p/luminas-legal-threats-and-my-about"
     ]
   ],
   [
@@ -61,11 +91,21 @@
   ],
   [
     [
+      "2024-05-20, 15:27:39",
+      "https://news.ycombinator.com/item?id=40416596"
+    ],
+    [
+      "Groqbook: Generate entire books in seconds using Groq and Llama3",
+      "https://github.com/Bklieger/groqbook"
+    ]
+  ],
+  [
+    [
       "2024-05-20, 14:35:59",
       "https://news.ycombinator.com/item?id=40415947"
     ],
     [
-      "Paying Freelancers in Equity and Dividends",
+      "Paying freelancers in equity and dividends",
       "https://sahillavingia.com/dividends"
     ]
   ],
@@ -117,16 +157,6 @@
     [
       "Migrating Uber's ledger data from DynamoDB to LedgerStore",
       "https://www.uber.com/blog/migrating-from-dynamodb-to-ledgerstore/"
-    ]
-  ],
-  [
-    [
-      "2024-05-20, 01:43:00",
-      "https://news.ycombinator.com/item?id=40411274"
-    ],
-    [
-      "What \"Follow Your Dreams\" Misses [video]",
-      "https://www.youtube.com/watch?v=W3I3kAg2J7w"
     ]
   ],
   [
@@ -201,16 +231,6 @@
   ],
   [
     [
-      "2024-05-19, 16:13:35",
-      "https://news.ycombinator.com/item?id=40407884"
-    ],
-    [
-      "A floppy disk MIDI boombox: The Yamaha MDP-10",
-      "https://nicole.express/2024/elementary-midi-watson.html"
-    ]
-  ],
-  [
-    [
       "2024-05-19, 14:33:10",
       "https://news.ycombinator.com/item?id=40407228"
     ],
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2024-05-19, 05:18:41",
-      "https://news.ycombinator.com/item?id=40404446"
-    ],
-    [
-      "The Myth of Medieval Small Beer (2017)",
-      "https://www.ianvisits.co.uk/articles/the-myth-of-medieval-small-beer-19763/"
-    ]
-  ],
-  [
-    [
       "2024-05-18, 09:22:02",
       "https://news.ycombinator.com/item?id=40397593"
     ],
     [
       "DB-19: Resurrecting an Obsolete Connector (2016)",
       "https://www.bigmessowires.com/2016/06/04/db-19-resurrecting-an-obsolete-connector/"
-    ]
-  ],
-  [
-    [
-      "2024-05-17, 16:36:55",
-      "https://news.ycombinator.com/item?id=40391688"
-    ],
-    [
-      "Linus Torvalds Now Favors Ampere Arm Chip over Apple Silicon MacBook",
-      "https://www.tomshardware.com/software/linux/linus-torvalds-now-favors-arm-powered-ampere-chip-over-apple-silicon-mac-for-building-linux-kernels-says-the-more-powerful-system-is-why-hes-doing-more-arm64-linux-testing"
     ]
   ],
   [
