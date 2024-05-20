@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-20, 14:25:38](https://news.ycombinator.com/item?id=40415803) - [Replit cuts staff by 30 amid aggressive AI push in software development](https://venturebeat.com/ai/replit-cuts-staff-by-30-amid-aggressive-ai-push-in-software-development/)
-* [2024-05-20, 14:10:59](https://news.ycombinator.com/item?id=40415646) - [Discussion: Job seekers can't find a job and Employers can't find an employees](https://news.ycombinator.com/item?id=40415646)
+* [2024-05-20, 14:02:12](https://news.ycombinator.com/item?id=40415565) - [YouTube blocked videos for Russian draft dodgers on request from Roskomnadzor](https://ovd.info/express-news/2024/05/20/youtube-po-trebovaniyu-roskomnadzora-zablokiroval-videoinstrukcii-dlya)
 * [2024-05-20, 13:50:54](https://news.ycombinator.com/item?id=40415468) - [Cognitive reflection, intelligence, and cognitive abilities: A meta-analysis](https://www.sciencedirect.com/science/article/pii/S0160289621000982)
 * [2024-05-20, 12:27:11](https://news.ycombinator.com/item?id=40414718) - [CVE-2024-4367 – Arbitrary JavaScript execution in PDF.js](https://codeanlabs.com/blog/research/cve-2024-4367-arbitrary-js-execution-in-pdf-js/)
 * [2024-05-20, 12:07:58](https://news.ycombinator.com/item?id=40414565) - [How a 64k intro is made (2017)](https://www.lofibucket.com/articles/64k_intro.html)
@@ -28,6 +27,7 @@
 * [2024-05-19, 06:57:40](https://news.ycombinator.com/item?id=40404809) - [Modernizing the AntennaPod Code Structure](https://antennapod.org/blog/2024/05/modernizing-the-code-structure)
 * [2024-05-19, 06:40:38](https://news.ycombinator.com/item?id=40404739) - [1001 Representations of Syntax with Binding (2021)](https://jesper.cx/posts/1001-syntax-representations.html)
 * [2024-05-19, 06:26:08](https://news.ycombinator.com/item?id=40404676) - [Swift Tooling: Windows Edition](https://speakinginswift.substack.com/p/swift-tooling-windows-edition)
+* [2024-05-18, 14:12:20](https://news.ycombinator.com/item?id=40399224) - [I couldn't escape poison oak, so I started eating it](https://www.wsj.com/style/eat-poison-ivy-oak-immunity-3207ec3c)
 * [2024-05-18, 09:22:02](https://news.ycombinator.com/item?id=40397593) - [DB-19: Resurrecting an Obsolete Connector (2016)](https://www.bigmessowires.com/2016/06/04/db-19-resurrecting-an-obsolete-connector/)
 * [2024-05-16, 19:24:03](https://news.ycombinator.com/item?id=40382104) - [D-Expressions: Lisp power, Dylan style [pdf]](http://people.csail.mit.edu/jrb/Projects/dexprs.pdf)
 
