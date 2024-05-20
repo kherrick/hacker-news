@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-05-20, 17:45:35",
+      "https://news.ycombinator.com/item?id=40418025"
+    ],
+    [
+      "Microsoft announces an Arm-powered Surface Laptop",
+      "https://www.theverge.com/2024/5/20/24160498/microsoft-arm-surface-laptop-6-qualcomm-snapdragon-x-elite"
+    ]
+  ],
+  [
+    [
+      "2024-05-20, 17:45:31",
+      "https://news.ycombinator.com/item?id=40418024"
+    ],
+    [
+      "Secret meeting between Apple and TSMC reported to reserve all 2nm capacity",
+      "https://9to5mac.com/2024/05/20/secret-meeting-between-apple-and-tsmc-reported-possibly-to-reserve-all-2nm-capacity/"
+    ]
+  ],
+  [
+    [
+      "2024-05-20, 17:38:52",
+      "https://news.ycombinator.com/item?id=40417951"
+    ],
+    [
+      "List of Helicopter Prison Escapes",
+      "https://en.wikipedia.org/wiki/List_of_helicopter_prison_escapes"
+    ]
+  ],
+  [
+    [
       "2024-05-20, 17:09:28",
       "https://news.ycombinator.com/item?id=40417624"
     ],
@@ -17,26 +47,6 @@
     [
       "QuestDB (YC S20) Is Hiring a Core Database Engineer",
       "https://questdb.io/careers/core-database-engineer/"
-    ]
-  ],
-  [
-    [
-      "2024-05-20, 16:23:02",
-      "https://news.ycombinator.com/item?id=40417128"
-    ],
-    [
-      "Paleolithic people settled in Cyprus thousands of years earlier than thought",
-      "https://phys.org/news/2024-05-paleolithic-people-cyprus-thousands-years.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-20, 15:46:15",
-      "https://news.ycombinator.com/item?id=40416773"
-    ],
-    [
-      "Never, Ever, Ever Use Pixelation for Redacting Text",
-      "https://bishopfox.com/blog/unredacter-tool-never-pixelation"
     ]
   ],
   [
@@ -67,16 +77,6 @@
     [
       "Cognitive reflection, intelligence, and cognitive abilities: A meta-analysis",
       "https://www.sciencedirect.com/science/article/pii/S0160289621000982"
-    ]
-  ],
-  [
-    [
-      "2024-05-20, 12:27:11",
-      "https://news.ycombinator.com/item?id=40414718"
-    ],
-    [
-      "CVE-2024-4367 – Arbitrary JavaScript execution in PDF.js",
-      "https://codeanlabs.com/blog/research/cve-2024-4367-arbitrary-js-execution-in-pdf-js/"
     ]
   ],
   [
@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2024-05-19, 12:01:07",
+      "https://news.ycombinator.com/item?id=40406349"
+    ],
+    [
+      "Article Tagging implemented in Emacs Lisp",
+      "https://tusharhero.codeberg.page/tags.html"
+    ]
+  ],
+  [
+    [
       "2024-05-19, 10:22:45",
       "https://news.ycombinator.com/item?id=40405829"
     ],
@@ -247,16 +257,6 @@
     [
       "Modernizing the AntennaPod Code Structure",
       "https://antennapod.org/blog/2024/05/modernizing-the-code-structure"
-    ]
-  ],
-  [
-    [
-      "2024-05-19, 06:40:38",
-      "https://news.ycombinator.com/item?id=40404739"
-    ],
-    [
-      "1001 Representations of Syntax with Binding (2021)",
-      "https://jesper.cx/posts/1001-syntax-representations.html"
     ]
   ],
   [
