@@ -1,32 +1,62 @@
 [
   [
     [
-      "2024-05-20, 17:45:31",
-      "https://news.ycombinator.com/item?id=40418024"
+      "2024-05-20, 17:54:30",
+      "https://news.ycombinator.com/item?id=40418115"
     ],
     [
-      "Secret meeting between Apple and TSMC reported to reserve all 2nm capacity",
-      "https://9to5mac.com/2024/05/20/secret-meeting-between-apple-and-tsmc-reported-possibly-to-reserve-all-2nm-capacity/"
+      "Dieter Rams turns 92 – Stream \"Rams\" for free May 20 and 21",
+      "https://www.ohyouprettythings.com/rams"
     ]
   ],
   [
     [
-      "2024-05-20, 17:38:52",
-      "https://news.ycombinator.com/item?id=40417951"
+      "2024-05-20, 17:39:14",
+      "https://news.ycombinator.com/item?id=40417956"
     ],
     [
-      "List of Helicopter Prison Escapes",
-      "https://en.wikipedia.org/wiki/List_of_helicopter_prison_escapes"
+      "It Pays to Be a Double Major in College",
+      "https://www.wsj.com/personal-finance/college-double-majors-earnings-salary-090e7ea1"
     ]
   ],
   [
     [
-      "2024-05-20, 17:09:28",
-      "https://news.ycombinator.com/item?id=40417624"
+      "2024-05-20, 17:34:30",
+      "https://news.ycombinator.com/item?id=40417909"
     ],
     [
-      "Lumina Makes Legal Threats over Questioned Anti-Cavity Claims",
-      "https://trevorklee.substack.com/p/luminas-legal-threats-and-my-about"
+      "AI chatbots are intruding where people are trying to connect with other humans",
+      "https://theconversation.com/ai-chatbots-are-intruding-into-online-communities-where-people-are-trying-to-connect-with-other-humans-229473"
+    ]
+  ],
+  [
+    [
+      "2024-05-20, 17:27:46",
+      "https://news.ycombinator.com/item?id=40417837"
+    ],
+    [
+      "Recall is Microsoft's key to unlocking the future of PCs",
+      "https://www.theverge.com/2024/5/20/24159258/microsoft-recall-ai-explorer-windows-11-surface-event"
+    ]
+  ],
+  [
+    [
+      "2024-05-20, 17:27:03",
+      "https://news.ycombinator.com/item?id=40417828"
+    ],
+    [
+      "Microsoft announces Copilot Plus PCs with built-in AI hardware",
+      "https://www.theverge.com/2024/5/20/24160486/microsoft-copilot-plus-ai-arm-chips-pc-surface-event"
+    ]
+  ],
+  [
+    [
+      "2024-05-20, 17:04:59",
+      "https://news.ycombinator.com/item?id=40417575"
+    ],
+    [
+      "These cities bar facial recognition tech. Police still found ways to access it",
+      "https://www.washingtonpost.com/business/2024/05/18/facial-recognition-law-enforcement-austin-san-francisco/"
     ]
   ],
   [
@@ -41,11 +71,21 @@
   ],
   [
     [
+      "2024-05-20, 16:30:32",
+      "https://news.ycombinator.com/item?id=40417208"
+    ],
+    [
+      "Ask HN: Bootstrapped founder. Does it make sense to move out of SF for a while?",
+      "https://news.ycombinator.com/item?id=40417208"
+    ]
+  ],
+  [
+    [
       "2024-05-20, 15:33:53",
       "https://news.ycombinator.com/item?id=40416661"
     ],
     [
-      "The efficacy of duct tape vs. cryotherapy in the treatment of the common wart",
+      "The efficacy of duct tape vs. cryotherapy in the treatment of the common wart (2002)",
       "https://pubmed.ncbi.nlm.nih.gov/12361440/"
     ]
   ],
@@ -91,42 +131,12 @@
   ],
   [
     [
-      "2024-05-20, 11:25:11",
-      "https://news.ycombinator.com/item?id=40414316"
-    ],
-    [
-      "3M executives convinced a scientist forever chemicals in human blood were safe",
-      "https://www.propublica.org/article/3m-forever-chemicals-pfas-pfos-inside-story"
-    ]
-  ],
-  [
-    [
       "2024-05-20, 10:01:36",
       "https://news.ycombinator.com/item?id=40413891"
     ],
     [
-      "Uber Migrates 1T Records from DynamoDB to LedgerStore to Save $6M Annually",
-      "https://www.infoq.com/news/2024/05/uber-dynamodb-ledgerstore/"
-    ]
-  ],
-  [
-    [
-      "2024-05-20, 01:43:00",
-      "https://news.ycombinator.com/item?id=40411274"
-    ],
-    [
-      "What \"Follow Your Dreams\" Misses | 3Blue1Brown [video]",
-      "https://www.youtube.com/watch?v=W3I3kAg2J7w"
-    ]
-  ],
-  [
-    [
-      "2024-05-19, 23:04:15",
-      "https://news.ycombinator.com/item?id=40410414"
-    ],
-    [
-      "The problem with new URL(), and how URL.parse() fixes that",
-      "https://kilianvalkhof.com/2024/javascript/the-problem-with-new-url-and-how-url-parse-fixes-that/"
+      "Migrating Uber's ledger data from DynamoDB to LedgerStore",
+      "https://www.uber.com/blog/migrating-from-dynamodb-to-ledgerstore/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Swarming Proxima Centauri: Picospacecraft Swarms over Interstellar Distances",
       "https://astrobiology.com/2024/05/swarming-proxima-centauri-coherent-picospacecraft-swarms-over-interstellar-distances.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-19, 12:01:07",
-      "https://news.ycombinator.com/item?id=40406349"
-    ],
-    [
-      "Article Tagging implemented in Emacs Lisp",
-      "https://tusharhero.codeberg.page/tags.html"
     ]
   ],
   [
