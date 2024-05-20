@@ -76,6 +76,7 @@
 * [2024-05-17, 12:18:59](https://news.ycombinator.com/item?id=40389094) - [N-Dimensional Gaussians for Fitting of High Dimensional Functions](https://www.sdiolatz.info/ndg-fitting/)
 * [2024-05-17, 12:18:55](https://news.ycombinator.com/item?id=40389093) - [A Ruby, Middleman and TailwindCSS blog template](https://github.com/harrison-broadbent/ruby-middleman-tailwind-starter-blog)
 * [2024-05-17, 12:15:00](https://news.ycombinator.com/item?id=40389059) - [I upgraded my water heater and discovered how bad smart home security can be](https://arstechnica.com/gadgets/2024/05/how-i-upgraded-my-water-heater-and-discovered-how-bad-smart-home-security-can-be/)
+* [2024-05-17, 12:08:01](https://news.ycombinator.com/item?id=40389006) - [Colorless green DNNs sleep furiously in an unexplainable fantasy](https://cacm.acm.org/blogcacm/when-colorless-green-dnns-sleep-furiously-in-an-unexplainable-fantasy/)
 * [2024-05-17, 12:00:23](https://news.ycombinator.com/item?id=40388933) - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4360841006)
 * [2024-05-17, 11:19:29](https://news.ycombinator.com/item?id=40388655) - [HMT: Hierarchical Memory Transformer for Long Context Language Processing](https://arxiv.org/abs/2405.06067)
 * [2024-05-17, 09:30:01](https://news.ycombinator.com/item?id=40388029) - [Many Searchers Want to Turn Off Google AI Overviews](https://www.seroundtable.com/searchers-want-to-turn-off-google-ai-overviews-37405.html)
