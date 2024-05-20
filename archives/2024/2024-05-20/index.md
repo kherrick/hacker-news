@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-20](index.md)
 
+* [2024-05-20, 21:00:26](https://news.ycombinator.com/item?id=40420323) - [Etleap (YC W13) Is Hiring Software Engineer – Integrations (Remote in Brazil)](https://etleap.com/careers/software-engineer-integrations/)
 * [2024-05-20, 20:14:51](https://news.ycombinator.com/item?id=40419760) - [(Tesla) has twice attempted to drive directly into a train while in FSD mode](https://x.com/ArtemR/status/1792059155324494219/video/1)
+* [2024-05-20, 19:34:09](https://news.ycombinator.com/item?id=40419289) - [Ask HN: Hacker News-like forum, specific to Game Development?](https://news.ycombinator.com/item?id=40419289)
 * [2024-05-20, 19:22:21](https://news.ycombinator.com/item?id=40419141) - [Edited highlights from the evisceration of Craig Wright](https://www.ft.com/content/83dc246e-99ca-4af3-bd07-a815fdafa7c0)
 * [2024-05-20, 19:07:51](https://news.ycombinator.com/item?id=40418983) - [How to Collapse Your Stack Using PostgreSQL for Everything](https://www.timescale.com/blog/how-to-collapse-your-stack-using-postgresql-for-everything/)
 * [2024-05-20, 19:00:12](https://news.ycombinator.com/item?id=40418885) - [Ask HN: Why do you all think that Htmx is such a recent development?](https://news.ycombinator.com/item?id=40418885)
@@ -27,6 +29,7 @@
 * [2024-05-20, 17:04:59](https://news.ycombinator.com/item?id=40417575) - [These cities bar facial recognition tech. Police still found ways to access it](https://www.washingtonpost.com/business/2024/05/18/facial-recognition-law-enforcement-austin-san-francisco/)
 * [2024-05-20, 17:00:25](https://news.ycombinator.com/item?id=40417520) - [QuestDB (YC S20) Is Hiring a Core Database Engineer](https://questdb.io/careers/core-database-engineer/)
 * [2024-05-20, 16:44:13](https://news.ycombinator.com/item?id=40417347) - [pg_timeseries: Open-source time-series extension for PostgreSQL](https://tembo.io/blog/pg-timeseries)
+* [2024-05-20, 16:44:10](https://news.ycombinator.com/item?id=40417345) - [The People Deliberately Killing Facebook](https://www.wheresyoured.at/killingfacebook/)
 * [2024-05-20, 16:30:32](https://news.ycombinator.com/item?id=40417208) - [Ask HN: Bootstrapped founder. Does it make sense to move out of SF for a while?](https://news.ycombinator.com/item?id=40417208)
 * [2024-05-20, 16:23:02](https://news.ycombinator.com/item?id=40417128) - [Paleolithic people settled in Cyprus thousands of years earlier than thought](https://phys.org/news/2024-05-paleolithic-people-cyprus-thousands-years.html)
 * [2024-05-20, 15:46:15](https://news.ycombinator.com/item?id=40416773) - [Never, Ever, Ever Use Pixelation for Redacting Text](https://bishopfox.com/blog/unredacter-tool-never-pixelation)
