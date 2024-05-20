@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-19](index.md)
 
+* [2024-05-19, 23:50:10](https://news.ycombinator.com/item?id=40410637) - [Show HN: ffmpeg-english \"capture from /dev/video0 every 1 second to jpg files\"](https://github.com/dheera/scripts/blob/master/ffmpeg-english)
 * [2024-05-19, 23:43:47](https://news.ycombinator.com/item?id=40410603) - [What Is Generative Art?](https://www.amygoodchild.com/blog/what-is-generative-art)
 * [2024-05-19, 23:14:53](https://news.ycombinator.com/item?id=40410466) - [Number of Languages by Country](https://en.wikipedia.org/wiki/Number_of_languages_by_country)
 * [2024-05-19, 23:04:20](https://news.ycombinator.com/item?id=40410417) - [iPad Pro M4 review: ludicrously good hardware that's total overkill for most](https://www.theguardian.com/technology/article/2024/may/15/ipad-pro-m4-review-ludicrously-good-hardware-thats-total-overkill-for-most)

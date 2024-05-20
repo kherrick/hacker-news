@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-20, 01:37:43](https://news.ycombinator.com/item?id=40411236) - [Tornado Cash verdict has chilling implications for industry](https://cointelegraph.com/news/tornado-cash-verdict-crypto-industry)
+* [2024-05-20, 01:15:04](https://news.ycombinator.com/item?id=40411115) - [Anthropic: Reflections on Our Responsible Scaling Policy](https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy)
 * [2024-05-20, 01:06:45](https://news.ycombinator.com/item?id=40411082) - [Fiat brings back its 500e electric model for 2024, with 149 mile range](https://abc7.com/post/fiat-upgrades-electric-500e-model-for-2024/14834672/)
+* [2024-05-19, 23:50:10](https://news.ycombinator.com/item?id=40410637) - [Show HN: ffmpeg-english \"capture from /dev/video0 every 1 second to jpg files\"](https://github.com/dheera/scripts/blob/master/ffmpeg-english)
 * [2024-05-19, 23:43:47](https://news.ycombinator.com/item?id=40410603) - [What Is Generative Art?](https://www.amygoodchild.com/blog/what-is-generative-art)
 * [2024-05-19, 23:04:15](https://news.ycombinator.com/item?id=40410414) - [The problem with new URL(), and how URL.parse() fixes that](https://kilianvalkhof.com/2024/javascript/the-problem-with-new-url-and-how-url-parse-fixes-that/)
 * [2024-05-19, 23:02:41](https://news.ycombinator.com/item?id=40410404) - [The Lunacy of Artemis](https://idlewords.com/2024/5/the_lunacy_of_artemis.htm)
@@ -20,16 +23,13 @@
 * [2024-05-19, 16:13:35](https://news.ycombinator.com/item?id=40407884) - [A floppy disk MIDI boombox: The Yamaha MDP-10](https://nicole.express/2024/elementary-midi-watson.html)
 * [2024-05-19, 15:24:12](https://news.ycombinator.com/item?id=40407526) - [Make timelapses easily using FFmpeg](https://news.ycombinator.com/item?id=40407526)
 * [2024-05-19, 14:33:10](https://news.ycombinator.com/item?id=40407228) - [Swarming Proxima Centauri: Picospacecraft Swarms over Interstellar Distances](https://astrobiology.com/2024/05/swarming-proxima-centauri-coherent-picospacecraft-swarms-over-interstellar-distances.html)
-* [2024-05-19, 14:14:06](https://news.ycombinator.com/item?id=40407104) - [The Bel Language (2019)](https://sep.turbifycdn.com/ty/cdn/paulgraham/bellanguage.txt)
 * [2024-05-19, 11:33:43](https://news.ycombinator.com/item?id=40406194) - [Compilers for free with weval](https://bernsteinbear.com/blog/weval/)
 * [2024-05-19, 09:30:16](https://news.ycombinator.com/item?id=40405578) - [Transforming a QLC SSD into an SLC SSD](https://theoverclockingpage.com/2024/05/13/tutorial-transforming-a-qlc-ssd-into-an-slc-ssd-dramatically-increasing-the-drives-endurance/?lang=en)
 * [2024-05-19, 05:12:28](https://news.ycombinator.com/item?id=40404423) - [Katy – 68000 Linux on a Solderless Breadboard (2014)](https://www.bigmessowires.com/2014/11/17/68-katy-68000-linux-on-a-solderless-breadboard/)
 * [2024-05-19, 03:18:04](https://news.ycombinator.com/item?id=40403962) - [Is artificial consciousness achievable? Lessons from the human brain](https://arxiv.org/abs/2405.04540)
 * [2024-05-18, 20:31:11](https://news.ycombinator.com/item?id=40401852) - [When the movies went west (2018)](https://longreads.com/2018/05/15/when-the-movies-went-west/)
 * [2024-05-18, 20:24:32](https://news.ycombinator.com/item?id=40401793) - [The War on Weeds](https://www.noemamag.com/the-war-on-weeds/)
-* [2024-05-18, 14:12:20](https://news.ycombinator.com/item?id=40399224) - [I couldn't escape poison oak, so I started eating it](https://www.wsj.com/style/eat-poison-ivy-oak-immunity-3207ec3c)
-* [2024-05-18, 11:29:03](https://news.ycombinator.com/item?id=40398094) - [Sorry, wrong number](https://www.roads.org.uk/blog/sorry-wrong-number)
-* [2024-05-18, 10:52:33](https://news.ycombinator.com/item?id=40397908) - [Commuter train window cleaning conundrum in NJ](https://www.nj.com/news/2024/05/why-you-cant-see-out-the-window-on-some-nj-transit-trains.html)
+* [2024-05-18, 09:22:02](https://news.ycombinator.com/item?id=40397593) - [DB-19: Resurrecting an Obsolete Connector](https://www.bigmessowires.com/2016/06/04/db-19-resurrecting-an-obsolete-connector/)
 
 ## [Archives](archives/index.md)
 

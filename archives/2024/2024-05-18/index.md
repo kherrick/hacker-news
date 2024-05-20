@@ -84,6 +84,7 @@
 * [2024-05-18, 10:06:59](https://news.ycombinator.com/item?id=40397737) - [YARA is dead, long live YARA-X](https://virustotal.github.io/yara-x/blog/yara-is-dead-long-live-yara-x/)
 * [2024-05-18, 09:55:34](https://news.ycombinator.com/item?id=40397692) - [38% of webpages that existed in 2013 are no longer accessible a decade later](https://www.pewresearch.org/data-labs/2024/05/17/when-online-content-disappears/)
 * [2024-05-18, 09:38:08](https://news.ycombinator.com/item?id=40397637) - [Cyber Security: A Pre-War Reality Check](https://berthub.eu/articles/posts/cyber-security-pre-war-reality-check/)
+* [2024-05-18, 09:22:02](https://news.ycombinator.com/item?id=40397593) - [DB-19: Resurrecting an Obsolete Connector](https://www.bigmessowires.com/2016/06/04/db-19-resurrecting-an-obsolete-connector/)
 * [2024-05-18, 09:19:08](https://news.ycombinator.com/item?id=40397576) - [Getting Materials Out of the Lab](https://worksinprogress.co/issue/getting-materials-out-of-the-lab/)
 * [2024-05-18, 09:12:14](https://news.ycombinator.com/item?id=40397555) - [Malleable software in the age of LLMs (2023)](https://www.geoffreylitt.com/2023/03/25/llm-end-user-programming.html)
 * [2024-05-18, 09:01:18](https://news.ycombinator.com/item?id=40397507) - [DOJ: Man sentenced to 14 years for posession of deepfake CSAM](https://www.justice.gov/opa/pr/recidivist-sex-offender-sentenced-possessing-deepfake-child-sexual-abuse-material)
