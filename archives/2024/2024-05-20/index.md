@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-20](index.md)
 
+* [2024-05-20, 17:00:25](https://news.ycombinator.com/item?id=40417520) - [QuestDB (YC S20) Is Hiring a Core Database Engineer](https://questdb.io/careers/core-database-engineer/)
 * [2024-05-20, 15:46:15](https://news.ycombinator.com/item?id=40416773) - [Never, Ever, Ever Use Pixelation for Redacting Text](https://bishopfox.com/blog/unredacter-tool-never-pixelation)
 * [2024-05-20, 15:43:41](https://news.ycombinator.com/item?id=40416746) - [Turkish drone drew star and crescent after finding helicopter](https://www.ippmedia.com/the-guardian/live-update/turkish-drone-drew-star-and-crescent-after-finding-helicopter-2024-05-20-144006)
 * [2024-05-20, 15:33:53](https://news.ycombinator.com/item?id=40416661) - [The efficacy of duct tape vs. cryotherapy in the treatment of the common wart](https://pubmed.ncbi.nlm.nih.gov/12361440/)
