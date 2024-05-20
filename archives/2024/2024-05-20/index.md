@@ -6,6 +6,7 @@
 
 * [2024-05-20, 22:30:58](https://news.ycombinator.com/item?id=40421248) - [Truth Social losses $300M on Q1](https://variety.com/2024/digital/news/trump-truth-social-media-q1-2024-revenue-net-loss-1236010937/)
 * [2024-05-20, 22:28:27](https://news.ycombinator.com/item?id=40421225) - [Statement from Scarlett Johansson on the OpenAI Situation](https://x.com/BobbyAllyn/status/1792679435701014908)
+* [2024-05-20, 22:15:13](https://news.ycombinator.com/item?id=40421100) - [FBI Arrests Man for Generating AI Child Sexual Abuse Imagery](https://www.404media.co/fbi-arrests-man-for-generating-ai-child-sexual-abuse-imagery/)
 * [2024-05-20, 22:05:17](https://news.ycombinator.com/item?id=40421007) - [UK to introduce new offence of causing death or injury by dangerous cycling](https://www.theguardian.com/news/article/2024/may/15/uk-to-introduce-new-offence-of-causing-death-or-injury-by-dangerous-cycling)
 * [2024-05-20, 21:31:20](https://news.ycombinator.com/item?id=40420653) - [AI-Free Products](https://coryd.dev/posts/2024/ai-free-products/)
 * [2024-05-20, 21:26:24](https://news.ycombinator.com/item?id=40420604) - [The parents who are saying no to \"extracurriculars\"](https://slate.com/life/2024/05/smartphone-children-youth-sports-activities-overscheduled.html)
