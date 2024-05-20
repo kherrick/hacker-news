@@ -1,12 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-20, 23:32:07](https://news.ycombinator.com/item?id=40421932) - [Scarlett Johansson has just issued this statement on OpenAI and Sky](https://twitter.com/yashar/status/1792682664845254683)
 * [2024-05-20, 23:24:14](https://news.ycombinator.com/item?id=40421861) - [Scarlett Johansson says she is 'shocked, angered' over new ChatGPT voice](https://www.npr.org/2024/05/20/1252495087/openai-pulls-ai-voice-that-was-compared-to-scarlett-johansson-in-the-movie-her)
 * [2024-05-20, 22:57:21](https://news.ycombinator.com/item?id=40421542) - [Thorium: Cross-platform patched Chromium fork \"fastest browser on Earth\"](https://github.com/Alex313031/thorium)
 * [2024-05-20, 22:28:27](https://news.ycombinator.com/item?id=40421225) - [Statement from Scarlett Johansson on the OpenAI \"Sky\" voice](https://twitter.com/BobbyAllyn/status/1792679435701014908)
+* [2024-05-20, 22:01:54](https://news.ycombinator.com/item?id=40420968) - [Google cuts mystery check to US in bid to sidestep jury trial](https://www.reuters.com/legal/government/google-cuts-mystery-check-us-bid-sidestep-jury-trial-2024-05-20/)
 * [2024-05-20, 21:00:26](https://news.ycombinator.com/item?id=40420323) - [Etleap (YC W13) Is Hiring Software Engineer – Integrations (Remote in Brazil)](https://etleap.com/careers/software-engineer-integrations/)
 * [2024-05-20, 20:23:02](https://news.ycombinator.com/item?id=40419856) - [Enlightenmentware](https://mmapped.blog/posts/28-enlightenmentware.html)
 * [2024-05-20, 19:37:12](https://news.ycombinator.com/item?id=40419325) - [How terminal works. Part 1: Xterm, user input](https://kevroletin.github.io/terminal/2021/12/11/how-terminal-works-in.html)
-* [2024-05-20, 18:38:14](https://news.ycombinator.com/item?id=40418607) - [A New Jersey couple survived the Alaskan wilderness on a homestead](https://www.bbc.com/culture/article/20240517-the-intrepid-new-jersey-couple-that-survived-the-alaskan-wilderness-on-a-homestead)
+* [2024-05-20, 19:07:51](https://news.ycombinator.com/item?id=40418983) - [Using Postgres for Everything](https://www.timescale.com/blog/how-to-collapse-your-stack-using-postgresql-for-everything/)
 * [2024-05-20, 18:36:53](https://news.ycombinator.com/item?id=40418591) - [Rethinking Text Resizing on Web](https://medium.com/airbnb-engineering/rethinking-text-resizing-on-web-1047b12d2881)
 * [2024-05-20, 17:27:03](https://news.ycombinator.com/item?id=40417828) - [Introducing Copilot+ PCs](https://blogs.microsoft.com/blog/2024/05/20/introducing-copilot-pcs/)
 * [2024-05-20, 16:44:13](https://news.ycombinator.com/item?id=40417347) - [pg_timeseries: Open-source time-series extension for PostgreSQL](https://tembo.io/blog/pg-timeseries)
@@ -18,7 +20,6 @@
 * [2024-05-20, 10:01:36](https://news.ycombinator.com/item?id=40413891) - [Migrating Uber's ledger data from DynamoDB to LedgerStore](https://www.uber.com/blog/migrating-from-dynamodb-to-ledgerstore/)
 * [2024-05-20, 01:43:00](https://news.ycombinator.com/item?id=40411274) - [What \"Follow Your Dreams\" Misses [video]](https://www.youtube.com/watch?v=W3I3kAg2J7w)
 * [2024-05-19, 23:02:41](https://news.ycombinator.com/item?id=40410404) - [The Lunacy of Artemis](https://idlewords.com/2024/5/the_lunacy_of_artemis.htm)
-* [2024-05-19, 21:39:08](https://news.ycombinator.com/item?id=40409956) - [C Style: My favorite C programming practices (2014)](https://github.com/mcinglis/c-style)
 * [2024-05-19, 21:08:17](https://news.ycombinator.com/item?id=40409757) - [Unprojecting text with ellipses (2016)](https://mzucker.github.io/2016/10/11/unprojecting-text-with-ellipses.html)
 * [2024-05-19, 21:02:36](https://news.ycombinator.com/item?id=40409718) - [Beating Jeff's 3.14 Ghz Raspberry Pi 5](https://jonatron.github.io/randomstuff/pivolt/)
 * [2024-05-19, 18:42:06](https://news.ycombinator.com/item?id=40408880) - [Llama3 implemented from scratch](https://github.com/naklecha/llama3-from-scratch)
@@ -29,7 +30,6 @@
 * [2024-05-18, 09:22:02](https://news.ycombinator.com/item?id=40397593) - [DB-19: Resurrecting an Obsolete Connector (2016)](https://www.bigmessowires.com/2016/06/04/db-19-resurrecting-an-obsolete-connector/)
 * [2024-05-18, 03:55:39](https://news.ycombinator.com/item?id=40396347) - [A promising 3-terminal diode for wireless comm. and optically driven computing](https://techxplore.com/news/2024-05-terminal-diode-wireless-communication-optically.html)
 * [2024-05-17, 12:08:01](https://news.ycombinator.com/item?id=40389006) - [Colorless green DNNs sleep furiously in an unexplainable fantasy](https://cacm.acm.org/blogcacm/when-colorless-green-dnns-sleep-furiously-in-an-unexplainable-fantasy/)
-* [2024-05-16, 19:24:03](https://news.ycombinator.com/item?id=40382104) - [D-Expressions: Lisp power, Dylan style [pdf]](http://people.csail.mit.edu/jrb/Projects/dexprs.pdf)
 
 ## [Archives](archives/index.md)
 
