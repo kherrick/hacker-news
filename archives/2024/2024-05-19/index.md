@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-05-19](index.md)
 
+* [2024-05-19, 23:43:47](https://news.ycombinator.com/item?id=40410603) - [What Is Generative Art?](https://www.amygoodchild.com/blog/what-is-generative-art)
 * [2024-05-19, 23:14:53](https://news.ycombinator.com/item?id=40410466) - [Number of Languages by Country](https://en.wikipedia.org/wiki/Number_of_languages_by_country)
 * [2024-05-19, 23:04:20](https://news.ycombinator.com/item?id=40410417) - [iPad Pro M4 review: ludicrously good hardware that's total overkill for most](https://www.theguardian.com/technology/article/2024/may/15/ipad-pro-m4-review-ludicrously-good-hardware-thats-total-overkill-for-most)
+* [2024-05-19, 23:04:15](https://news.ycombinator.com/item?id=40410414) - [The problem with new URL(), and how URL.parse() fixes that](https://kilianvalkhof.com/2024/javascript/the-problem-with-new-url-and-how-url-parse-fixes-that/)
 * [2024-05-19, 23:02:41](https://news.ycombinator.com/item?id=40410404) - [The Lunacy of Artemis](https://idlewords.com/2024/5/the_lunacy_of_artemis.htm)
 * [2024-05-19, 23:01:24](https://news.ycombinator.com/item?id=40410398) - [I'm a Former Surgeon General and I Couldn't Believe My $10k Medical Bill](https://scheerpost.com/2024/05/19/im-a-former-surgeon-general-and-i-couldnt-believe-my-10k-medical-bill/)
 * [2024-05-19, 22:52:01](https://news.ycombinator.com/item?id=40410341) - [Hertz Charging a Tesla Renter for Gas Was Not an Isolated Incident](https://www.thedrive.com/news/hertz-charging-a-tesla-renter-for-gas-was-not-an-isolated-incident)
+* [2024-05-19, 22:20:29](https://news.ycombinator.com/item?id=40410178) - [Puzzle made by the WikiLeaks founder Julian Assange for the university quest](https://wondrousnet.blogspot.com/2023/05/solution-to-puzzle-sleuth.html)
 * [2024-05-19, 22:16:25](https://news.ycombinator.com/item?id=40410158) - [Ubuntu 24.10 to Default to Wayland for Nvidia Users](https://www.omgubuntu.co.uk/2024/05/ubuntu-24-10-wayland-nvidia)
 * [2024-05-19, 21:08:17](https://news.ycombinator.com/item?id=40409757) - [Unprojecting Text with Ellipses (2016)](https://mzucker.github.io/2016/10/11/unprojecting-text-with-ellipses.html)
 * [2024-05-19, 21:02:36](https://news.ycombinator.com/item?id=40409718) - [Beating Jeff's 3.14 Ghz Raspberry Pi 5](https://jonatron.github.io/randomstuff/pivolt/)
