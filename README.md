@@ -2,7 +2,6 @@
 
 * [2024-05-20, 03:14:07](https://news.ycombinator.com/item?id=40411871) - [Why Fact Checking of Claims About Nuclear Power Projects Is Important](https://neutronbytes.com/2024/05/12/why-fact-checking-of-audacious-claims-about-nuclear-power-projects-is-important/)
 * [2024-05-20, 02:00:52](https://news.ycombinator.com/item?id=40411393) - [Avoidance of sun exposure as a risk factor for major causes of death](https://pubmed.ncbi.nlm.nih.gov/26992108/)
-* [2024-05-20, 01:49:11](https://news.ycombinator.com/item?id=40411319) - [How to read a book: 10 rules from a reviewer](https://www.washingtonpost.com/books/2024/05/18/how-to-read-book-dirda/)
 * [2024-05-20, 01:15:04](https://news.ycombinator.com/item?id=40411115) - [Anthropic: Reflections on Our Responsible Scaling Policy](https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy)
 * [2024-05-20, 01:03:25](https://news.ycombinator.com/item?id=40411061) - [Tutorial: Metacompilers Part 1 (2016)](http://www.bayfronttechnologies.com/mc_tutorial.html)
 * [2024-05-19, 23:50:10](https://news.ycombinator.com/item?id=40410637) - [Show HN: ffmpeg-english \"capture from /dev/video0 every 1 second to jpg files\"](https://github.com/dheera/scripts/blob/master/ffmpeg-english)
@@ -27,6 +26,7 @@
 * [2024-05-19, 11:33:43](https://news.ycombinator.com/item?id=40406194) - [Compilers for free with weval](https://bernsteinbear.com/blog/weval/)
 * [2024-05-19, 06:26:08](https://news.ycombinator.com/item?id=40404676) - [Swift Tooling: Windows Edition](https://speakinginswift.substack.com/p/swift-tooling-windows-edition)
 * [2024-05-19, 05:18:41](https://news.ycombinator.com/item?id=40404446) - [The Myth of Medieval Small Beer (2017)](https://www.ianvisits.co.uk/articles/the-myth-of-medieval-small-beer-19763/)
+* [2024-05-18, 14:12:20](https://news.ycombinator.com/item?id=40399224) - [I couldn't escape poison oak, so I started eating it](https://www.wsj.com/style/eat-poison-ivy-oak-immunity-3207ec3c)
 * [2024-05-18, 11:29:03](https://news.ycombinator.com/item?id=40398094) - [Sorry, wrong number](https://www.roads.org.uk/blog/sorry-wrong-number)
 * [2024-05-18, 10:52:33](https://news.ycombinator.com/item?id=40397908) - [Commuter train window cleaning conundrum in NJ](https://www.nj.com/news/2024/05/why-you-cant-see-out-the-window-on-some-nj-transit-trains.html)
 * [2024-05-18, 09:22:02](https://news.ycombinator.com/item?id=40397593) - [DB-19: Resurrecting an Obsolete Connector](https://www.bigmessowires.com/2016/06/04/db-19-resurrecting-an-obsolete-connector/)
