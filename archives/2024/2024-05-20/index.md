@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-20](index.md)
 
+* [2024-05-20, 23:24:14](https://news.ycombinator.com/item?id=40421861) - [Scarlett Johansson says she is 'shocked, angered' over new ChatGPT voice](https://www.npr.org/2024/05/20/1252495087/openai-pulls-ai-voice-that-was-compared-to-scarlett-johansson-in-the-movie-her)
+* [2024-05-20, 22:57:21](https://news.ycombinator.com/item?id=40421542) - [Thorium: Cross-platform patched Chromium fork \"fastest browser on Earth\"](https://github.com/Alex313031/thorium)
 * [2024-05-20, 22:30:58](https://news.ycombinator.com/item?id=40421248) - [Truth Social losses $300M on Q1](https://variety.com/2024/digital/news/trump-truth-social-media-q1-2024-revenue-net-loss-1236010937/)
 * [2024-05-20, 22:28:27](https://news.ycombinator.com/item?id=40421225) - [Statement from Scarlett Johansson on the OpenAI \"Sky\" voice](https://twitter.com/BobbyAllyn/status/1792679435701014908)
 * [2024-05-20, 22:28:27](https://news.ycombinator.com/item?id=40421225) - [Statement from Scarlett Johansson on the OpenAI Situation](https://x.com/BobbyAllyn/status/1792679435701014908)
