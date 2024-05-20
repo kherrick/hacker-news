@@ -1,42 +1,12 @@
 [
   [
     [
-      "2024-05-20, 22:30:58",
-      "https://news.ycombinator.com/item?id=40421248"
-    ],
-    [
-      "Truth Social losses $300M on Q1",
-      "https://variety.com/2024/digital/news/trump-truth-social-media-q1-2024-revenue-net-loss-1236010937/"
-    ]
-  ],
-  [
-    [
       "2024-05-20, 22:28:27",
       "https://news.ycombinator.com/item?id=40421225"
     ],
     [
-      "Statement from Scarlett Johansson on the OpenAI Situation",
-      "https://x.com/BobbyAllyn/status/1792679435701014908"
-    ]
-  ],
-  [
-    [
-      "2024-05-20, 22:15:13",
-      "https://news.ycombinator.com/item?id=40421100"
-    ],
-    [
-      "FBI Arrests Man for Generating AI Child Sexual Abuse Imagery",
-      "https://www.404media.co/fbi-arrests-man-for-generating-ai-child-sexual-abuse-imagery/"
-    ]
-  ],
-  [
-    [
-      "2024-05-20, 22:05:17",
-      "https://news.ycombinator.com/item?id=40421007"
-    ],
-    [
-      "UK to introduce new offence of causing death or injury by dangerous cycling",
-      "https://www.theguardian.com/news/article/2024/may/15/uk-to-introduce-new-offence-of-causing-death-or-injury-by-dangerous-cycling"
+      "Statement from Scarlett Johansson on the OpenAI \"Sky\" voice",
+      "https://twitter.com/BobbyAllyn/status/1792679435701014908"
     ]
   ],
   [
@@ -67,16 +37,6 @@
     [
       "How terminal works. Part 1: Xterm, user input",
       "https://kevroletin.github.io/terminal/2021/12/11/how-terminal-works-in.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-20, 19:34:09",
-      "https://news.ycombinator.com/item?id=40419289"
-    ],
-    [
-      "Ask HN: Hacker News-like forum, specific to Game Development?",
-      "https://news.ycombinator.com/item?id=40419289"
     ]
   ],
   [
@@ -141,6 +101,16 @@
   ],
   [
     [
+      "2024-05-20, 13:50:54",
+      "https://news.ycombinator.com/item?id=40415468"
+    ],
+    [
+      "Cognitive reflection, intelligence, and cognitive abilities: A meta-analysis",
+      "https://www.sciencedirect.com/science/article/pii/S0160289621000982"
+    ]
+  ],
+  [
+    [
       "2024-05-20, 12:07:58",
       "https://news.ycombinator.com/item?id=40414565"
     ],
@@ -165,7 +135,7 @@
       "https://news.ycombinator.com/item?id=40414329"
     ],
     [
-      "ICC seeks arrest warrants against Sinwar and Netanyahu for war crimes",
+      "ICC prosecutor seeks arrest warrants against Sinwar and Netanyahu for war crimes",
       "https://www.cnn.com/2024/05/20/middleeast/icc-israel-hamas-arrest-warrant-war-crimes-intl/index.html"
     ]
   ],
@@ -197,6 +167,16 @@
     [
       "The Lunacy of Artemis",
       "https://idlewords.com/2024/5/the_lunacy_of_artemis.htm"
+    ]
+  ],
+  [
+    [
+      "2024-05-19, 21:39:08",
+      "https://news.ycombinator.com/item?id=40409956"
+    ],
+    [
+      "C Style: My favorite C programming practices (2014)",
+      "https://github.com/mcinglis/c-style"
     ]
   ],
   [
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2024-05-19, 16:19:06",
+      "https://news.ycombinator.com/item?id=40407927"
+    ],
+    [
+      "AI doppelgänger experiment – Part 1: The training",
+      "https://julienposture.substack.com/p/the-ai-doppelganger-experiment-part"
+    ]
+  ],
+  [
+    [
       "2024-05-19, 10:22:45",
       "https://news.ycombinator.com/item?id=40405829"
     ],
@@ -257,16 +247,6 @@
     [
       "Scrabble and the Nature of Expertise (2015)",
       "https://www.scientificamerican.com/article/winning-scrabble-and-the-nature-of-expertise/"
-    ]
-  ],
-  [
-    [
-      "2024-05-19, 06:57:40",
-      "https://news.ycombinator.com/item?id=40404809"
-    ],
-    [
-      "Modernizing the AntennaPod Code Structure",
-      "https://antennapod.org/blog/2024/05/modernizing-the-code-structure"
     ]
   ],
   [
@@ -297,6 +277,26 @@
     [
       "A promising 3-terminal diode for wireless comm. and optically driven computing",
       "https://techxplore.com/news/2024-05-terminal-diode-wireless-communication-optically.html"
+    ]
+  ],
+  [
+    [
+      "2024-05-17, 12:08:01",
+      "https://news.ycombinator.com/item?id=40389006"
+    ],
+    [
+      "Colorless green DNNs sleep furiously in an unexplainable fantasy",
+      "https://cacm.acm.org/blogcacm/when-colorless-green-dnns-sleep-furiously-in-an-unexplainable-fantasy/"
+    ]
+  ],
+  [
+    [
+      "2024-05-16, 19:24:03",
+      "https://news.ycombinator.com/item?id=40382104"
+    ],
+    [
+      "D-Expressions: Lisp power, Dylan style [pdf]",
+      "http://people.csail.mit.edu/jrb/Projects/dexprs.pdf"
     ]
   ]
 ]
