@@ -8,7 +8,7 @@
 * [2024-05-19, 23:43:47](https://news.ycombinator.com/item?id=40410603) - [What Is Generative Art? (2022)](https://www.amygoodchild.com/blog/what-is-generative-art)
 * [2024-05-19, 23:04:15](https://news.ycombinator.com/item?id=40410414) - [The problem with new URL(), and how URL.parse() fixes that](https://kilianvalkhof.com/2024/javascript/the-problem-with-new-url-and-how-url-parse-fixes-that/)
 * [2024-05-19, 23:02:41](https://news.ycombinator.com/item?id=40410404) - [The Lunacy of Artemis](https://idlewords.com/2024/5/the_lunacy_of_artemis.htm)
-* [2024-05-19, 21:39:08](https://news.ycombinator.com/item?id=40409956) - [C-style: My favorite C programming practices](https://github.com/mcinglis/c-style)
+* [2024-05-19, 21:39:08](https://news.ycombinator.com/item?id=40409956) - [C Style: My favorite C programming practices (2014)](https://github.com/mcinglis/c-style)
 * [2024-05-19, 21:08:17](https://news.ycombinator.com/item?id=40409757) - [Unprojecting text with ellipses (2016)](https://mzucker.github.io/2016/10/11/unprojecting-text-with-ellipses.html)
 * [2024-05-19, 21:02:36](https://news.ycombinator.com/item?id=40409718) - [Beating Jeff's 3.14 Ghz Raspberry Pi 5](https://jonatron.github.io/randomstuff/pivolt/)
 * [2024-05-19, 21:01:15](https://news.ycombinator.com/item?id=40409710) - [Meteor seen in Portugal](https://old.reddit.com/r/interestingasfuck/comments/1cva6j6/meteor_just_seen_in_portugal_23h45/)
