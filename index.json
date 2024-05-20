@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-20, 14:25:38",
+      "https://news.ycombinator.com/item?id=40415803"
+    ],
+    [
+      "Replit cuts staff by 30 amid aggressive AI push in software development",
+      "https://venturebeat.com/ai/replit-cuts-staff-by-30-amid-aggressive-ai-push-in-software-development/"
+    ]
+  ],
+  [
+    [
       "2024-05-20, 14:10:59",
       "https://news.ycombinator.com/item?id=40415646"
     ],
@@ -17,16 +27,6 @@
     [
       "Cognitive reflection, intelligence, and cognitive abilities: A meta-analysis",
       "https://www.sciencedirect.com/science/article/pii/S0160289621000982"
-    ]
-  ],
-  [
-    [
-      "2024-05-20, 13:01:11",
-      "https://news.ycombinator.com/item?id=40415009"
-    ],
-    [
-      "High performers job hop when they can't find a high performance culture",
-      "https://thedailydeveloper.substack.com/p/high-performers-job-hop-when-they"
     ]
   ],
   [
@@ -55,7 +55,7 @@
       "https://news.ycombinator.com/item?id=40414404"
     ],
     [
-      "Kevin Buzzard on Grothendieck's use of equality",
+      "Grothendieck’s use of equality",
       "https://arxiv.org/abs/2405.10387"
     ]
   ],
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=40405829"
     ],
     [
-      "Overflow in Consistent Hashing",
+      "Overflow in consistent hashing (2018)",
       "https://rmarcus.info/blog/2018/09/14/consistent-hashing-overflow.html"
     ]
   ],
