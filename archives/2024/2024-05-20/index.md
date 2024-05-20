@@ -25,6 +25,7 @@
 * [2024-05-20, 17:09:28](https://news.ycombinator.com/item?id=40417624) - [Lumina Makes Legal Threats over Questioned Anti-Cavity Claims](https://trevorklee.substack.com/p/luminas-legal-threats-and-my-about)
 * [2024-05-20, 17:04:59](https://news.ycombinator.com/item?id=40417575) - [These cities bar facial recognition tech. Police still found ways to access it](https://www.washingtonpost.com/business/2024/05/18/facial-recognition-law-enforcement-austin-san-francisco/)
 * [2024-05-20, 17:00:25](https://news.ycombinator.com/item?id=40417520) - [QuestDB (YC S20) Is Hiring a Core Database Engineer](https://questdb.io/careers/core-database-engineer/)
+* [2024-05-20, 16:44:13](https://news.ycombinator.com/item?id=40417347) - [pg_timeseries: Open-source time-series extension for PostgreSQL](https://tembo.io/blog/pg-timeseries)
 * [2024-05-20, 16:30:32](https://news.ycombinator.com/item?id=40417208) - [Ask HN: Bootstrapped founder. Does it make sense to move out of SF for a while?](https://news.ycombinator.com/item?id=40417208)
 * [2024-05-20, 16:23:02](https://news.ycombinator.com/item?id=40417128) - [Paleolithic people settled in Cyprus thousands of years earlier than thought](https://phys.org/news/2024-05-paleolithic-people-cyprus-thousands-years.html)
 * [2024-05-20, 15:46:15](https://news.ycombinator.com/item?id=40416773) - [Never, Ever, Ever Use Pixelation for Redacting Text](https://bishopfox.com/blog/unredacter-tool-never-pixelation)
