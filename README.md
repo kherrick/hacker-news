@@ -6,7 +6,6 @@
 * [2024-05-20, 18:36:53](https://news.ycombinator.com/item?id=40418591) - [Rethinking Text Resizing on Web](https://medium.com/airbnb-engineering/rethinking-text-resizing-on-web-1047b12d2881)
 * [2024-05-20, 17:27:03](https://news.ycombinator.com/item?id=40417828) - [Introducing Copilot+ PCs](https://blogs.microsoft.com/blog/2024/05/20/introducing-copilot-pcs/)
 * [2024-05-20, 17:09:28](https://news.ycombinator.com/item?id=40417624) - [Lumina's legal threats and my about-face](https://trevorklee.substack.com/p/luminas-legal-threats-and-my-about)
-* [2024-05-20, 17:04:59](https://news.ycombinator.com/item?id=40417575) - [Police in Austin, San Francisco skirt facial recognition ban](https://www.washingtonpost.com/business/2024/05/18/facial-recognition-law-enforcement-austin-san-francisco/)
 * [2024-05-20, 17:00:25](https://news.ycombinator.com/item?id=40417520) - [QuestDB (YC S20) Is Hiring a Core Database Engineer](https://questdb.io/careers/core-database-engineer/)
 * [2024-05-20, 15:33:44](https://news.ycombinator.com/item?id=40416657) - [26× Faster Inference with Layer-Condensed KV Cache for Large Language Models](https://arxiv.org/abs/2405.10637)
 * [2024-05-20, 14:35:59](https://news.ycombinator.com/item?id=40415947) - [Paying freelancers in equity and dividends](https://sahillavingia.com/dividends)
@@ -29,6 +28,7 @@
 * [2024-05-19, 06:57:40](https://news.ycombinator.com/item?id=40404809) - [Modernizing the AntennaPod Code Structure](https://antennapod.org/blog/2024/05/modernizing-the-code-structure)
 * [2024-05-19, 06:26:08](https://news.ycombinator.com/item?id=40404676) - [Swift Tooling: Windows Edition](https://speakinginswift.substack.com/p/swift-tooling-windows-edition)
 * [2024-05-18, 09:22:02](https://news.ycombinator.com/item?id=40397593) - [DB-19: Resurrecting an Obsolete Connector (2016)](https://www.bigmessowires.com/2016/06/04/db-19-resurrecting-an-obsolete-connector/)
+* [2024-05-18, 03:55:39](https://news.ycombinator.com/item?id=40396347) - [A promising 3-terminal diode for wireless comm. and optically driven computing](https://techxplore.com/news/2024-05-terminal-diode-wireless-communication-optically.html)
 * [2024-05-16, 19:24:03](https://news.ycombinator.com/item?id=40382104) - [D-Expressions: Lisp power, Dylan style [pdf]](http://people.csail.mit.edu/jrb/Projects/dexprs.pdf)
 
 ## [Archives](archives/index.md)
