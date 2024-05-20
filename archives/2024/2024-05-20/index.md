@@ -6,6 +6,7 @@
 
 * [2024-05-20, 15:06:22](https://news.ycombinator.com/item?id=40416360) - [CSS: Has(), the God Selector](https://brucelawson.co.uk/2024/css-has-the-god-selector/)
 * [2024-05-20, 15:02:30](https://news.ycombinator.com/item?id=40416304) - [An Untapped Source of Lithium Has Just Been Found in the US](https://www.sciencealert.com/a-vast-untapped-source-of-lithium-has-just-been-found-in-the-us)
+* [2024-05-20, 14:55:02](https://news.ycombinator.com/item?id=40416219) - [China's BYD nears deal to supply London's electric double decker buses](https://www.cityam.com/chinas-byd-nears-deal-to-supply-londons-electric-double-decker-buses/)
 * [2024-05-20, 14:50:46](https://news.ycombinator.com/item?id=40416156) - [Something is wrong with the AY-3-8913](https://www.fenarinarsa.com/?p=3183)
 * [2024-05-20, 14:25:38](https://news.ycombinator.com/item?id=40415803) - [Replit cuts staff by 30 amid aggressive AI push in software development](https://venturebeat.com/ai/replit-cuts-staff-by-30-amid-aggressive-ai-push-in-software-development/)
 * [2024-05-20, 14:10:59](https://news.ycombinator.com/item?id=40415646) - [Discussion: Job seekers can't find a job and Employers can't find an employees](https://news.ycombinator.com/item?id=40415646)

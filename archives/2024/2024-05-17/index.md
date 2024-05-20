@@ -34,6 +34,7 @@
 * [2024-05-17, 17:50:58](https://news.ycombinator.com/item?id=40392473) - [A Charming Algorithm for Count-Distinct](https://justinjaffray.com/a-charming-algorithm-for-count-distinct/)
 * [2024-05-17, 17:30:26](https://news.ycombinator.com/item?id=40392302) - [500-year-old maths problem turns out to apply to coffee and clocks](https://www.newscientist.com/article/2430522-500-year-old-maths-problem-turns-out-to-apply-to-coffee-and-clocks/)
 * [2024-05-17, 17:12:48](https://news.ycombinator.com/item?id=40392077) - [\"I lost trust\": Why the OpenAI team in charge of safeguarding humanity imploded](https://www.vox.com/future-perfect/2024/5/17/24158403/openai-resignations-ai-safety-ilya-sutskever-jan-leike-artificial-intelligence)
+* [2024-05-17, 16:55:43](https://news.ycombinator.com/item?id=40391881) - [Where are floppy disks today? Planes, trains, and all these other places](https://www.zdnet.com/article/where-are-floppy-disks-today-planes-trains-and-all-these-other-places/)
 * [2024-05-17, 16:43:11](https://news.ycombinator.com/item?id=40391743) - [Meshroom a free and open-source 3D Reconstruction Software](https://alicevision.org/#meshroom)
 * [2024-05-17, 16:31:33](https://news.ycombinator.com/item?id=40391627) - [Glewbot scales buildings like a gecko to inspect wall tiles](https://blog.arduino.cc/2024/05/11/glewbot-scales-buildings-like-a-gecko/)
 * [2024-05-17, 16:30:40](https://news.ycombinator.com/item?id=40391614) - [The case against dual axis charts (and what to use instead) (2018)](https://blog.datawrapper.de/dualaxis/)
