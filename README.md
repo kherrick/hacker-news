@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-20, 02:56:43](https://news.ycombinator.com/item?id=40411751) - [The President of Iran has died](https://x.com/sentdefender/status/1792387709140402299)
 * [2024-05-20, 02:00:52](https://news.ycombinator.com/item?id=40411393) - [Avoidance of sun exposure as a risk factor for major causes of death](https://pubmed.ncbi.nlm.nih.gov/26992108/)
 * [2024-05-20, 01:49:11](https://news.ycombinator.com/item?id=40411319) - [How to read a book: 10 rules from a reviewer](https://www.washingtonpost.com/books/2024/05/18/how-to-read-book-dirda/)
 * [2024-05-20, 01:15:04](https://news.ycombinator.com/item?id=40411115) - [Anthropic: Reflections on Our Responsible Scaling Policy](https://www.anthropic.com/news/reflections-on-our-responsible-scaling-policy)
@@ -28,6 +27,7 @@
 * [2024-05-19, 11:33:43](https://news.ycombinator.com/item?id=40406194) - [Compilers for free with weval](https://bernsteinbear.com/blog/weval/)
 * [2024-05-19, 06:26:08](https://news.ycombinator.com/item?id=40404676) - [Swift Tooling: Windows Edition](https://speakinginswift.substack.com/p/swift-tooling-windows-edition)
 * [2024-05-19, 05:18:41](https://news.ycombinator.com/item?id=40404446) - [The Myth of Medieval Small Beer (2017)](https://www.ianvisits.co.uk/articles/the-myth-of-medieval-small-beer-19763/)
+* [2024-05-18, 11:29:03](https://news.ycombinator.com/item?id=40398094) - [Sorry, wrong number](https://www.roads.org.uk/blog/sorry-wrong-number)
 * [2024-05-18, 10:52:33](https://news.ycombinator.com/item?id=40397908) - [Commuter train window cleaning conundrum in NJ](https://www.nj.com/news/2024/05/why-you-cant-see-out-the-window-on-some-nj-transit-trains.html)
 * [2024-05-18, 09:22:02](https://news.ycombinator.com/item?id=40397593) - [DB-19: Resurrecting an Obsolete Connector](https://www.bigmessowires.com/2016/06/04/db-19-resurrecting-an-obsolete-connector/)
 
