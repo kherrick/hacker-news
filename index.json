@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2024-05-21, 19:01:59",
-      "https://news.ycombinator.com/item?id=40432446"
-    ],
-    [
-      "iTerm2 and AI Hype Overload",
-      "https://xeiaso.net/notes/2024/ai-hype/"
-    ]
-  ],
-  [
-    [
       "2024-05-21, 18:43:50",
       "https://news.ycombinator.com/item?id=40432213"
     ],
@@ -191,16 +181,6 @@
   ],
   [
     [
-      "2024-05-21, 13:09:10",
-      "https://news.ycombinator.com/item?id=40428032"
-    ],
-    [
-      "Abusing url handling in iTerm2 and Hyper for code execution",
-      "https://vin01.github.io/piptagole/escape-sequences/iterm2/hyper/url-handlers/code-execution/2024/05/21/arbitrary-url-schemes-terminal-emulators.html"
-    ]
-  ],
-  [
-    [
       "2024-05-21, 13:05:08",
       "https://news.ycombinator.com/item?id=40427973"
     ],
@@ -261,6 +241,16 @@
   ],
   [
     [
+      "2024-05-21, 05:33:52",
+      "https://news.ycombinator.com/item?id=40424536"
+    ],
+    [
+      "How Might We Learn?",
+      "https://andymatuschak.org/hmwl/"
+    ]
+  ],
+  [
+    [
       "2024-05-21, 04:56:07",
       "https://news.ycombinator.com/item?id=40424304"
     ],
@@ -277,6 +267,16 @@
     [
       "Shadow Robot’s three-fingered hand is robust enough for reinforcement learning",
       "https://spectrum.ieee.org/robot-hand-shadow-robot-company"
+    ]
+  ],
+  [
+    [
+      "2024-05-19, 10:18:16",
+      "https://news.ycombinator.com/item?id=40405805"
+    ],
+    [
+      "Whitepaper on Format String Attacks (2000)",
+      "https://seclists.org/bugtraq/2000/Sep/214"
     ]
   ],
   [
