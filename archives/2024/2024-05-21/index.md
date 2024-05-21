@@ -9,6 +9,7 @@
 * [2024-05-21, 07:53:56](https://news.ycombinator.com/item?id=40425306) - [Microsoft's AI chatbot will 'recall' everything you do on its new PCs](https://www.theguardian.com/technology/article/2024/may/20/microsoft-chatbot-assistant-pc)
 * [2024-05-21, 07:00:15](https://news.ycombinator.com/item?id=40425040) - [Apple supplier Foxconn among firms asked to cut power use in Vietnam](https://www.reuters.com/technology/apple-supplier-foxconn-among-firms-asked-cut-power-use-vietnam-sources-say-2024-05-21/)
 * [2024-05-21, 07:00:05](https://news.ycombinator.com/item?id=40425039) - [Langfuse (YC W23) is hiring engineers in Berlin: open-source LLM devtool](https://github.com/langfuse/langfuse/blob/main/careers)
+* [2024-05-21, 06:52:56](https://news.ycombinator.com/item?id=40424982) - [Erlang/OTP 27 Highlights](https://www.erlang.org/blog/highlights-otp-27/)
 * [2024-05-21, 06:46:06](https://news.ycombinator.com/item?id=40424938) - [Taking Risk – Startups in UK vs. US](https://tomblomfield.com/post/750852175114174464/taking-risk)
 * [2024-05-21, 05:33:52](https://news.ycombinator.com/item?id=40424536) - [How Might We Learn?](https://andymatuschak.org/hmwl/)
 * [2024-05-21, 05:21:23](https://news.ycombinator.com/item?id=40424454) - [Scarlett Johansson's response to Sam Altman ripping off her voice](https://old.reddit.com/r/interestingasfuck/comments/1cwthib/scarlett_johanssons_response_to_sam_altman/)
