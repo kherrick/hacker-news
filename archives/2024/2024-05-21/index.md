@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-21](index.md)
 
+* [2024-05-21, 18:53:23](https://news.ycombinator.com/item?id=40432337) - [Ask HN: How does modern FreeCAD compare with Solidworks?](https://news.ycombinator.com/item?id=40432337)
+* [2024-05-21, 18:42:30](https://news.ycombinator.com/item?id=40432194) - [The number's up for 999. And 911. And 000. And 111](https://www.theregister.com/2023/07/03/the_numbers_up_for_999/)
 * [2024-05-21, 18:35:13](https://news.ycombinator.com/item?id=40432102) - [SMTP removes periods – the curious case of the missing period](https://tjaart.substack.com/p/the-curious-case-of-the-missing-period)
 * [2024-05-21, 18:22:28](https://news.ycombinator.com/item?id=40431939) - [Do you all realize that accessing to correct information+truth is getting hard?](https://news.ycombinator.com/item?id=40431939)
 * [2024-05-21, 18:13:58](https://news.ycombinator.com/item?id=40431812) - [Suno has raised $125M to build a future where anyone can make music](https://suno.com/blog/fundraising-announcement-may-2024)

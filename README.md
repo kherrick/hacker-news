@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-21, 18:53:23](https://news.ycombinator.com/item?id=40432337) - [Ask HN: How does modern FreeCAD compare with Solidworks?](https://news.ycombinator.com/item?id=40432337)
+* [2024-05-21, 18:42:30](https://news.ycombinator.com/item?id=40432194) - [The number's up for 999. And 911. And 000. And 111](https://www.theregister.com/2023/07/03/the_numbers_up_for_999/)
 * [2024-05-21, 18:35:13](https://news.ycombinator.com/item?id=40432102) - [SMTP removes periods – the curious case of the missing period](https://tjaart.substack.com/p/the-curious-case-of-the-missing-period)
-* [2024-05-21, 18:13:58](https://news.ycombinator.com/item?id=40431812) - [Suno has raised $125M to build a future where anyone can make music](https://suno.com/blog/fundraising-announcement-may-2024)
 * [2024-05-21, 17:41:39](https://news.ycombinator.com/item?id=40431444) - [Firefox bug gets fixed after 25 years](https://bugzilla.mozilla.org/show_bug.cgi?id=33654)
-* [2024-05-21, 17:13:50](https://news.ycombinator.com/item?id=40431145) - [How to Turn Off AI Overview in Google and Set \"Web\" as Default](https://tenbluelinks.org/)
 * [2024-05-21, 17:00:45](https://news.ycombinator.com/item?id=40430972) - [Roame (YC S23) is hiring a founding back end engineer](https://www.ycombinator.com/companies/roame/jobs/A2jJQvq-founding-backend-engineer)
 * [2024-05-21, 16:52:46](https://news.ycombinator.com/item?id=40430868) - [The Effects of Early Relational Trauma (2001) [pdf]](https://www.allanschore.com/pdf/SchoreIMHJTrauma01.pdf)
 * [2024-05-21, 16:31:08](https://news.ycombinator.com/item?id=40430603) - [Why Your Wi-Fi Router Doubles as an Apple AirTag](https://krebsonsecurity.com/2024/05/why-your-wi-fi-router-doubles-as-an-apple-airtag/)
