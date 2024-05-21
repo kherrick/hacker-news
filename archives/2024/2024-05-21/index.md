@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-21](index.md)
 
+* [2024-05-21, 07:00:15](https://news.ycombinator.com/item?id=40425040) - [Apple supplier Foxconn among firms asked to cut power use in Vietnam](https://www.reuters.com/technology/apple-supplier-foxconn-among-firms-asked-cut-power-use-vietnam-sources-say-2024-05-21/)
 * [2024-05-21, 07:00:05](https://news.ycombinator.com/item?id=40425039) - [Langfuse (YC W23) is hiring engineers in Berlin: open-source LLM devtool](https://github.com/langfuse/langfuse/blob/main/careers)
 * [2024-05-21, 06:46:06](https://news.ycombinator.com/item?id=40424938) - [Taking Risk – Startups in UK vs. US](https://tomblomfield.com/post/750852175114174464/taking-risk)
 * [2024-05-21, 05:33:52](https://news.ycombinator.com/item?id=40424536) - [How Might We Learn?](https://andymatuschak.org/hmwl/)

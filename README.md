@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-21, 07:00:15](https://news.ycombinator.com/item?id=40425040) - [Apple supplier Foxconn among firms asked to cut power use in Vietnam](https://www.reuters.com/technology/apple-supplier-foxconn-among-firms-asked-cut-power-use-vietnam-sources-say-2024-05-21/)
 * [2024-05-21, 07:00:05](https://news.ycombinator.com/item?id=40425039) - [Langfuse (YC W23) is hiring engineers in Berlin: open-source LLM devtool](https://github.com/langfuse/langfuse/blob/main/careers)
 * [2024-05-21, 06:46:06](https://news.ycombinator.com/item?id=40424938) - [Taking Risk – Startups in UK vs. US](https://tomblomfield.com/post/750852175114174464/taking-risk)
 * [2024-05-21, 05:33:52](https://news.ycombinator.com/item?id=40424536) - [How Might We Learn?](https://andymatuschak.org/hmwl/)
@@ -22,7 +23,6 @@
 * [2024-05-20, 10:01:36](https://news.ycombinator.com/item?id=40413891) - [Migrating Uber's ledger data from DynamoDB to LedgerStore](https://www.uber.com/blog/migrating-from-dynamodb-to-ledgerstore/)
 * [2024-05-20, 03:48:53](https://news.ycombinator.com/item?id=40412091) - [On the trail of my identity thief](https://www.msn.com/en-us/news/crime/an-identity-thief-stole-5000-from-me-i-spent-two-years-tracking-down-how/ar-BB1mqh0b)
 * [2024-05-19, 18:42:06](https://news.ycombinator.com/item?id=40408880) - [Llama3 implemented from scratch](https://github.com/naklecha/llama3-from-scratch)
-* [2024-05-19, 10:10:17](https://news.ycombinator.com/item?id=40405772) - [Scrabble and the Nature of Expertise (2015)](https://www.scientificamerican.com/article/winning-scrabble-and-the-nature-of-expertise/)
 * [2024-05-19, 09:30:44](https://news.ycombinator.com/item?id=40405583) - [Show HN: Optigraph – optimum graph network generator](https://github.com/LovetheFrogs/OptiGraph)
 * [2024-05-18, 03:55:39](https://news.ycombinator.com/item?id=40396347) - [A promising 3-terminal diode for wireless comm. and optically driven computing](https://techxplore.com/news/2024-05-terminal-diode-wireless-communication-optically.html)
 * [2024-05-18, 00:23:25](https://news.ycombinator.com/item?id=40395467) - [The Reign of Alexander III of Macedon, the Great?](https://acoup.blog/2024/05/17/collections-on-the-reign-of-alexander-iii-of-macedon-the-great/)
