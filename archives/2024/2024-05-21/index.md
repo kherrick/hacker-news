@@ -19,6 +19,7 @@
 * [2024-05-21, 10:42:31](https://news.ycombinator.com/item?id=40426622) - [Humans Who Are Not Concentrating Are Not General Intelligences (2019)](https://www.skynettoday.com/editorials/humans-not-concentrating)
 * [2024-05-21, 10:42:30](https://news.ycombinator.com/item?id=40426621) - [NoTunes is a macOS application that will prevent Apple Music from launching](https://github.com/tombonez/noTunes)
 * [2024-05-21, 10:16:06](https://news.ycombinator.com/item?id=40426442) - [Gifski: Optimized GIF Encoder](https://github.com/ImageOptim/gifski)
+* [2024-05-21, 10:10:10](https://news.ycombinator.com/item?id=40426406) - [Window Returns](https://stratechery.com/2024/windows-returns/)
 * [2024-05-21, 10:05:56](https://news.ycombinator.com/item?id=40426382) - [Building an AI game studio: what we've learned so far](https://braindump.me/blog-posts/building-an-ai-game-studio)
 * [2024-05-21, 09:31:24](https://news.ycombinator.com/item?id=40426099) - [Show HN: Oracolo – A minimalist Nostr blog in a single HTML file](https://github.com/dtonon/oracolo)
 * [2024-05-21, 09:10:46](https://news.ycombinator.com/item?id=40425905) - [Reversing Choplifter](https://blondihacks.com/reversing-choplifter/)
