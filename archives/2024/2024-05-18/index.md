@@ -99,6 +99,7 @@
 * [2024-05-18, 06:11:55](https://news.ycombinator.com/item?id=40396805) - [Bend a Parallel Language](https://higherorderco.com)
 * [2024-05-18, 06:08:37](https://news.ycombinator.com/item?id=40396790) - [Retrospex: Convert images to fit Commodore 64 graphic modes](https://github.com/micheldebree/retrospex)
 * [2024-05-18, 05:21:12](https://news.ycombinator.com/item?id=40396601) - [Write Plain Text Files](https://sive.rs/plaintext)
+* [2024-05-18, 04:03:48](https://news.ycombinator.com/item?id=40396373) - [A fire 2,200 years ago preserved moment in Iron Age, down to a gold earring](https://phys.org/news/2024-05-devastating-years-moment-life-war.html)
 * [2024-05-18, 03:55:39](https://news.ycombinator.com/item?id=40396347) - [A promising 3-terminal diode for wireless comm. and optically driven computing](https://techxplore.com/news/2024-05-terminal-diode-wireless-communication-optically.html)
 * [2024-05-18, 03:15:14](https://news.ycombinator.com/item?id=40396227) - [First proof that \"plunging regions\" exist around black holes in space](https://www.ox.ac.uk/news/2024-05-17-first-proof-plunging-regions-exist-around-black-holes-space)
 * [2024-05-18, 03:09:38](https://news.ycombinator.com/item?id=40396212) - [The Time I Convinced the CTO Not to Outsource Our Developers](https://GrumpyOldDev.com/post/the-one-where-i-convince-the-cto-not-to-outsource/)
