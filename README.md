@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-21, 03:18:09](https://news.ycombinator.com/item?id=40423706) - [Microsoft Says New Surface Pro Is Faster Than 15\" M3 MacBook Air](https://www.macrumors.com/2024/05/20/microsoft-surface-pro-faster-macbook-air/)
 * [2024-05-21, 01:55:15](https://news.ycombinator.com/item?id=40423206) - [Where is the German cockroach (Blattella germanica) actually from?](https://www.theguardian.com/australia-news/article/2024/may/21/where-is-the-german-cockroach-actually-from-we-tested-its-dna-to-trace-its-true-origins)
 * [2024-05-21, 01:31:50](https://news.ycombinator.com/item?id=40423035) - [Stripe increasing \"instant payout\" fees by 50%](https://support.stripe.com/questions/june-2024-pricing-update-for-instant-payouts-for-businesses-in-the-united-states)
 * [2024-05-21, 01:26:58](https://news.ycombinator.com/item?id=40422997) - [Regular Expression Matching Can Be Simple and Fast (2007)](https://swtch.com/%7Ersc/regexp/regexp1.html)
 * [2024-05-21, 01:17:35](https://news.ycombinator.com/item?id=40422940) - [Bento3D](https://polar-tadpole-97b.notion.site/Bento3D-e40483712b304d389d7c2da26196e113#d7f452d3ffd94cd1a0a9e70e361efb63)
+* [2024-05-21, 00:43:27](https://news.ycombinator.com/item?id=40422645) - [Async Rust Isn't Bad: You Are](https://n8s.site/async-rust-isnt-bad-you-are)
 * [2024-05-21, 00:14:12](https://news.ycombinator.com/item?id=40422359) - [Restoring an Apple Silicon Developer Transition Kit \"DTK\" Mac Mini [video]](https://www.youtube.com/watch?v=reQq8fx4D0Q)
 * [2024-05-20, 23:23:15](https://news.ycombinator.com/item?id=40421851) - [Dual antibacterial properties of copper-coated nanotextured stainless steel](https://onlinelibrary.wiley.com/doi/10.1002/smll.202311546)
 * [2024-05-20, 22:28:27](https://news.ycombinator.com/item?id=40421225) - [Statement from Scarlett Johansson on the OpenAI \"Sky\" voice](https://twitter.com/BobbyAllyn/status/1792679435701014908)
@@ -12,7 +14,6 @@
 * [2024-05-20, 20:23:02](https://news.ycombinator.com/item?id=40419856) - [Enlightenmentware](https://mmapped.blog/posts/28-enlightenmentware.html)
 * [2024-05-20, 19:37:12](https://news.ycombinator.com/item?id=40419325) - [How terminal works. Part 1: Xterm, user input](https://kevroletin.github.io/terminal/2021/12/11/how-terminal-works-in.html)
 * [2024-05-20, 18:36:53](https://news.ycombinator.com/item?id=40418591) - [Rethinking Text Resizing on Web](https://medium.com/airbnb-engineering/rethinking-text-resizing-on-web-1047b12d2881)
-* [2024-05-20, 17:27:03](https://news.ycombinator.com/item?id=40417828) - [Introducing Copilot+ PCs](https://blogs.microsoft.com/blog/2024/05/20/introducing-copilot-pcs/)
 * [2024-05-20, 16:44:13](https://news.ycombinator.com/item?id=40417347) - [pg_timeseries: Open-source time-series extension for PostgreSQL](https://tembo.io/blog/pg-timeseries)
 * [2024-05-20, 14:46:48](https://news.ycombinator.com/item?id=40416109) - [City in a Bottle – A 256 Byte Raycasting System](https://frankforce.com/city-in-a-bottle-a-256-byte-raycasting-system/)
 * [2024-05-20, 11:41:08](https://news.ycombinator.com/item?id=40414404) - [Grothendieck’s use of equality](https://arxiv.org/abs/2405.10387)
@@ -28,7 +29,6 @@
 * [2024-05-17, 23:25:26](https://news.ycombinator.com/item?id=40395105) - [Sierra was captured, then killed, by an accounting fraud (2020)](https://www.vice.com/en/article/z3vem8/inside-story-sierra-online-death-cuc-cendant-fraud)
 * [2024-05-17, 16:31:33](https://news.ycombinator.com/item?id=40391627) - [Glewbot scales buildings like a gecko to inspect wall tiles](https://blog.arduino.cc/2024/05/11/glewbot-scales-buildings-like-a-gecko/)
 * [2024-05-17, 12:08:01](https://news.ycombinator.com/item?id=40389006) - [Colorless green DNNs sleep furiously in an unexplainable fantasy](https://cacm.acm.org/blogcacm/when-colorless-green-dnns-sleep-furiously-in-an-unexplainable-fantasy/)
-* [2024-05-17, 10:24:02](https://news.ycombinator.com/item?id=40388311) - [Mysterious origin of domesticated horses 'turned upside down' by DNA analysis (2018)](https://www.independent.co.uk/news/science/horse-origin-mysterious-domestic-dna-analysis-przewalskis-botai-domesticated-a8224121.html)
 * [2024-05-17, 01:58:19](https://news.ycombinator.com/item?id=40385562) - [Formatted spreadsheets can still work in R](https://luisdva.github.io/rstats/problematic-spreadsheets/)
 
 ## [Archives](archives/index.md)
