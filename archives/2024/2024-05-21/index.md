@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-21](index.md)
 
+* [2024-05-21, 20:03:25](https://news.ycombinator.com/item?id=40433164) - [What's New in Kotlin 2.0.0](https://kotlinlang.org/docs/whatsnew20.html)
+* [2024-05-21, 19:49:59](https://news.ycombinator.com/item?id=40433000) - [Show HN: An online billboard I built in 2 weeks](https://billboardgrid.com)
 * [2024-05-21, 19:36:36](https://news.ycombinator.com/item?id=40432834) - [Storing knowledge in a single long plain text file](https://breckyunits.com/scrollsets.html)
 * [2024-05-21, 19:23:59](https://news.ycombinator.com/item?id=40432688) - [Gordon Bell has died](https://arstechnica.com/gadgets/2024/05/gordon-bell-an-architect-of-our-digital-age-dies-at-age-89/)
 * [2024-05-21, 19:01:59](https://news.ycombinator.com/item?id=40432446) - [iTerm2 and AI Hype Overload](https://xeiaso.net/notes/2024/ai-hype/)
@@ -19,6 +21,7 @@
 * [2024-05-21, 17:19:46](https://news.ycombinator.com/item?id=40431210) - [I Want Flexible Queries, Not RAG](https://win-vector.com/2024/05/21/i-want-flexible-queries-not-rag/)
 * [2024-05-21, 17:18:04](https://news.ycombinator.com/item?id=40431188) - [Athena Crisis Open Source](https://athenacrisis.com/open-source/)
 * [2024-05-21, 17:13:50](https://news.ycombinator.com/item?id=40431145) - [How to Turn Off AI Overview in Google and Set \"Web\" as Default](https://tenbluelinks.org/)
+* [2024-05-21, 17:12:22](https://news.ycombinator.com/item?id=40431126) - [Show HN: Pls Fix – Hire big tech employees to appeal account suspensions](https://plsfix.co/)
 * [2024-05-21, 17:03:03](https://news.ycombinator.com/item?id=40431004) - [Hundreds paid to be 'robbed' to gain favorable immigration status, Feds say](https://cwbchicago.com/2024/05/chicago-fake-robbery-visa-scam.html)
 * [2024-05-21, 17:00:45](https://news.ycombinator.com/item?id=40430972) - [Roame (YC S23) Is Hiring a Founding Back End Engineer](https://www.ycombinator.com/companies/roame/jobs/A2jJQvq-founding-backend-engineer)
 * [2024-05-21, 16:52:46](https://news.ycombinator.com/item?id=40430868) - [The Effects of Early Relational Trauma (2001) [pdf]](https://www.allanschore.com/pdf/SchoreIMHJTrauma01.pdf)
