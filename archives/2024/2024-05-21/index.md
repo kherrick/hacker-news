@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-21](index.md)
 
 * [2024-05-21, 14:58:34](https://news.ycombinator.com/item?id=40429326) - [Mapping the Mind of a Large Language Model](https://www.anthropic.com/research/mapping-mind-language-model)
+* [2024-05-21, 14:54:57](https://news.ycombinator.com/item?id=40429275) - [How Shadow Banning Can Silently Shift Opinion Online](https://insights.som.yale.edu/insights/how-shadow-banning-can-silently-shift-opinion-online)
 * [2024-05-21, 14:52:34](https://news.ycombinator.com/item?id=40429247) - [Microplastic presence in dog and human testis](https://academic.oup.com/toxsci/advance-article-abstract/doi/10.1093/toxsci/kfae060/7673133)
 * [2024-05-21, 14:50:33](https://news.ycombinator.com/item?id=40429229) - [University Suspends Students for AI Tool It Gave Them $10k Prize to Make](https://www.404media.co/university-suspends-students-for-ai-homework-tool-it-paid-them-10-000-to-make/)
 * [2024-05-21, 14:47:42](https://news.ycombinator.com/item?id=40429200) - [Show HN: I built a game to help you learn neural network architectures](https://graphgame.sabrina.dev/)
