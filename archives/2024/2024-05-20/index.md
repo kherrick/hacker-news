@@ -7,6 +7,7 @@
 * [2024-05-20, 23:32:07](https://news.ycombinator.com/item?id=40421932) - [Scarlett Johansson has just issued this statement on OpenAI and Sky](https://twitter.com/yashar/status/1792682664845254683)
 * [2024-05-20, 23:24:14](https://news.ycombinator.com/item?id=40421861) - [Scarlett Johansson says she is 'shocked, angered' over new ChatGPT voice](https://www.npr.org/2024/05/20/1252495087/openai-pulls-ai-voice-that-was-compared-to-scarlett-johansson-in-the-movie-her)
 * [2024-05-20, 23:23:15](https://news.ycombinator.com/item?id=40421851) - [Dual Antibacterial Properties of Copper-Coated Nanotextured Stainless Steel](https://onlinelibrary.wiley.com/doi/10.1002/smll.202311546)
+* [2024-05-20, 23:13:52](https://news.ycombinator.com/item?id=40421762) - [I Love Laravel (2022)](https://ben.page/laravel)
 * [2024-05-20, 22:57:21](https://news.ycombinator.com/item?id=40421542) - [Thorium: Cross-platform patched Chromium fork \"fastest browser on Earth\"](https://github.com/Alex313031/thorium)
 * [2024-05-20, 22:30:58](https://news.ycombinator.com/item?id=40421248) - [Truth Social losses $300M on Q1](https://variety.com/2024/digital/news/trump-truth-social-media-q1-2024-revenue-net-loss-1236010937/)
 * [2024-05-20, 22:28:27](https://news.ycombinator.com/item?id=40421225) - [Statement from Scarlett Johansson on the OpenAI \"Sky\" voice](https://twitter.com/BobbyAllyn/status/1792679435701014908)

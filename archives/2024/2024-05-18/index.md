@@ -108,3 +108,4 @@
 * [2024-05-18, 01:59:06](https://news.ycombinator.com/item?id=40395945) - [The Myth of Panic (2021)](https://www.palladiummag.com/2021/07/15/the-myth-of-panic/)
 * [2024-05-18, 01:15:52](https://news.ycombinator.com/item?id=40395751) - [Elevating Sentiment Analysis: Fine Tuning LLaMA 3 8B](https://seandearnaley.medium.com/elevating-sentiment-analysis-ad02a316df1d)
 * [2024-05-18, 01:04:33](https://news.ycombinator.com/item?id=40395686) - [Show HN: GitHub – I tried to build AWS S3 from scratch](https://github.com/anthonybudd/s3-from-scratch)
+* [2024-05-18, 00:23:25](https://news.ycombinator.com/item?id=40395467) - [The Reign of Alexander III of Macedon, the Great?](https://acoup.blog/2024/05/17/collections-on-the-reign-of-alexander-iii-of-macedon-the-great/)
