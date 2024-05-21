@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-21](index.md)
 
+* [2024-05-21, 21:15:31](https://news.ycombinator.com/item?id=40434049) - [Dyson Sphere Candidates from Gaia DR3, 2MASS, and Wise](https://academic.oup.com/mnras/article/531/1/695/7665761)
 * [2024-05-21, 21:02:50](https://news.ycombinator.com/item?id=40433884) - [How the new Microsoft Recall feature fundamentally undermines Windows security](https://doublepulsar.com/how-the-new-microsoft-recall-feature-fundamentally-undermines-windows-security-aa072829f218)
 * [2024-05-21, 21:00:45](https://news.ycombinator.com/item?id=40433861) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-05-21, 20:54:54](https://news.ycombinator.com/item?id=40433785) - [Scarlett Johansson Said No, but OpenAI's Virtual Assistant Sounds Just Like Her](https://www.nytimes.com/2024/05/20/technology/scarlett-johannson-openai-voice.html)
@@ -15,6 +16,7 @@
 * [2024-05-21, 19:36:36](https://news.ycombinator.com/item?id=40432834) - [Storing knowledge in a single long plain text file](https://breckyunits.com/scrollsets.html)
 * [2024-05-21, 19:27:19](https://news.ycombinator.com/item?id=40432723) - [Simplified Embedded Rust Book Released](https://www.theembeddedrustacean.com/c/ser-std)
 * [2024-05-21, 19:23:59](https://news.ycombinator.com/item?id=40432688) - [Gordon Bell has died](https://arstechnica.com/gadgets/2024/05/gordon-bell-an-architect-of-our-digital-age-dies-at-age-89/)
+* [2024-05-21, 19:21:36](https://news.ycombinator.com/item?id=40432656) - [Semantic Note-Taking](https://cceckman.com/writing/notes/)
 * [2024-05-21, 19:01:59](https://news.ycombinator.com/item?id=40432446) - [iTerm2 and AI Hype Overload](https://xeiaso.net/notes/2024/ai-hype/)
 * [2024-05-21, 18:53:23](https://news.ycombinator.com/item?id=40432337) - [Ask HN: How does modern FreeCAD compare with Solidworks?](https://news.ycombinator.com/item?id=40432337)
 * [2024-05-21, 18:43:50](https://news.ycombinator.com/item?id=40432213) - [An open-source alternative to Mixpanel](https://github.com/Openpanel-dev/openpanel)
