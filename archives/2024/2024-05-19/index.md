@@ -56,6 +56,7 @@
 * [2024-05-19, 12:52:51](https://news.ycombinator.com/item?id=40406626) - [I'm tired of \"AI\" products wrapped over and selling at high rates](https://news.ycombinator.com/item?id=40406626)
 * [2024-05-19, 12:52:05](https://news.ycombinator.com/item?id=40406623) - [A startup's \"tablet\" gears up to take on Apple's iPad](https://om.co/2024/05/18/daylight-tablet/)
 * [2024-05-19, 12:42:24](https://news.ycombinator.com/item?id=40406576) - [Apple geofences third-party browser engine work for EU devices](https://www.theregister.com/2024/05/17/apple_browser_eu/)
+* [2024-05-19, 12:26:42](https://news.ycombinator.com/item?id=40406481) - [An Ode to Deluxe Paint (2023)](https://www.datagubbe.se/dpaint/)
 * [2024-05-19, 12:01:07](https://news.ycombinator.com/item?id=40406349) - [Article Tagging implemented in Emacs Lisp](https://tusharhero.codeberg.page/tags.html)
 * [2024-05-19, 12:00:25](https://news.ycombinator.com/item?id=40406344) - [Show HN: Digital player board for Terraforming Mars](https://terraforming-mars-player-board.netlify.app/)
 * [2024-05-19, 11:48:04](https://news.ycombinator.com/item?id=40406279) - [Ancient Chesapeake site challenges timeline of humans in the Americas](https://www.washingtonpost.com/science/2024/05/19/first-americans-chesapeake-parsons-island/)

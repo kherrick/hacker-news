@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-21, 08:09:23](https://news.ycombinator.com/item?id=40425428) - [iTerm2 3.5.0](https://iterm2.com/downloads/stable/iTerm2-3_5_0.changelog)
 * [2024-05-21, 07:00:15](https://news.ycombinator.com/item?id=40425040) - [Apple supplier Foxconn among firms asked to cut power use in Vietnam](https://www.reuters.com/technology/apple-supplier-foxconn-among-firms-asked-cut-power-use-vietnam-sources-say-2024-05-21/)
 * [2024-05-21, 07:00:05](https://news.ycombinator.com/item?id=40425039) - [Langfuse (YC W23) is hiring engineers in Berlin: open-source LLM devtool](https://github.com/langfuse/langfuse/blob/main/careers)
 * [2024-05-21, 06:46:06](https://news.ycombinator.com/item?id=40424938) - [Taking Risk – Startups in UK vs. US](https://tomblomfield.com/post/750852175114174464/taking-risk)
@@ -7,7 +8,6 @@
 * [2024-05-21, 04:56:07](https://news.ycombinator.com/item?id=40424304) - [Shipbreaking](https://www.edwardburtynsky.com/projects/photographs/shipbreaking)
 * [2024-05-21, 03:23:38](https://news.ycombinator.com/item?id=40423746) - [Modos Paper Monitor Pre-Launch on Crowd Supply](https://www.modos.tech/blog/modos-paper-monitor-pre-launch-on-crowd-supply)
 * [2024-05-21, 01:37:53](https://news.ycombinator.com/item?id=40423082) - [Chameleon: Meta's New Multi-Modal LLM](https://arxiv.org/abs/2405.09818)
-* [2024-05-21, 01:31:50](https://news.ycombinator.com/item?id=40423035) - [Stripe increasing \"instant payout\" fees by 50%](https://support.stripe.com/questions/june-2024-pricing-update-for-instant-payouts-for-businesses-in-the-united-states)
 * [2024-05-21, 01:26:58](https://news.ycombinator.com/item?id=40422997) - [Regular expression matching can be simple and fast (2007)](https://swtch.com/%7Ersc/regexp/regexp1.html)
 * [2024-05-21, 01:17:35](https://news.ycombinator.com/item?id=40422940) - [Bento3D](https://polar-tadpole-97b.notion.site/Bento3D-e40483712b304d389d7c2da26196e113#d7f452d3ffd94cd1a0a9e70e361efb63)
 * [2024-05-21, 00:14:12](https://news.ycombinator.com/item?id=40422359) - [Restoring an Apple Silicon Developer Transition Kit \"DTK\" Mac Mini [video]](https://www.youtube.com/watch?v=reQq8fx4D0Q)
@@ -23,11 +23,11 @@
 * [2024-05-20, 10:01:36](https://news.ycombinator.com/item?id=40413891) - [Migrating Uber's ledger data from DynamoDB to LedgerStore](https://www.uber.com/blog/migrating-from-dynamodb-to-ledgerstore/)
 * [2024-05-20, 03:48:53](https://news.ycombinator.com/item?id=40412091) - [On the trail of my identity thief](https://www.msn.com/en-us/news/crime/an-identity-thief-stole-5000-from-me-i-spent-two-years-tracking-down-how/ar-BB1mqh0b)
 * [2024-05-19, 18:42:06](https://news.ycombinator.com/item?id=40408880) - [Llama3 implemented from scratch](https://github.com/naklecha/llama3-from-scratch)
+* [2024-05-19, 12:26:42](https://news.ycombinator.com/item?id=40406481) - [An Ode to Deluxe Paint (2023)](https://www.datagubbe.se/dpaint/)
 * [2024-05-19, 09:30:44](https://news.ycombinator.com/item?id=40405583) - [Show HN: Optigraph – optimum graph network generator](https://github.com/LovetheFrogs/OptiGraph)
 * [2024-05-18, 03:55:39](https://news.ycombinator.com/item?id=40396347) - [A promising 3-terminal diode for wireless comm. and optically driven computing](https://techxplore.com/news/2024-05-terminal-diode-wireless-communication-optically.html)
 * [2024-05-18, 00:23:25](https://news.ycombinator.com/item?id=40395467) - [The Reign of Alexander III of Macedon, the Great?](https://acoup.blog/2024/05/17/collections-on-the-reign-of-alexander-iii-of-macedon-the-great/)
 * [2024-05-17, 23:25:26](https://news.ycombinator.com/item?id=40395105) - [Sierra was captured, then killed, by an accounting fraud (2020)](https://www.vice.com/en/article/z3vem8/inside-story-sierra-online-death-cuc-cendant-fraud)
-* [2024-05-17, 16:31:33](https://news.ycombinator.com/item?id=40391627) - [Glewbot scales buildings like a gecko to inspect wall tiles](https://blog.arduino.cc/2024/05/11/glewbot-scales-buildings-like-a-gecko/)
 * [2024-05-17, 15:26:54](https://news.ycombinator.com/item?id=40390941) - [The Vietnamese Computer Scientist Who Made Toy Story Possible](https://time.com/6974656/toy-story-vietnam-war/)
 * [2024-05-17, 01:58:19](https://news.ycombinator.com/item?id=40385562) - [Formatted spreadsheets can still work in R](https://luisdva.github.io/rstats/problematic-spreadsheets/)
 
