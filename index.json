@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-05-21, 20:21:39",
-      "https://news.ycombinator.com/item?id=40433384"
-    ],
-    [
-      "Apple needs to explain that bug that resurfaced deleted photos",
-      "https://www.theverge.com/2024/5/20/24161152/apple-ios-17-photo-bug"
-    ]
-  ],
-  [
-    [
       "2024-05-21, 20:03:25",
       "https://news.ycombinator.com/item?id=40433164"
     ],
@@ -57,16 +47,6 @@
     [
       "Ask HN: How does modern FreeCAD compare with Solidworks?",
       "https://news.ycombinator.com/item?id=40432337"
-    ]
-  ],
-  [
-    [
-      "2024-05-21, 18:43:50",
-      "https://news.ycombinator.com/item?id=40432213"
-    ],
-    [
-      "An open-source alternative to Mixpanel",
-      "https://github.com/Openpanel-dev/openpanel"
     ]
   ],
   [
@@ -191,12 +171,32 @@
   ],
   [
     [
+      "2024-05-21, 13:09:10",
+      "https://news.ycombinator.com/item?id=40428032"
+    ],
+    [
+      "Abusing url handling in iTerm2 and Hyper for code execution",
+      "https://vin01.github.io/piptagole/escape-sequences/iterm2/hyper/url-handlers/code-execution/2024/05/21/arbitrary-url-schemes-terminal-emulators.html"
+    ]
+  ],
+  [
+    [
       "2024-05-21, 13:05:08",
       "https://news.ycombinator.com/item?id=40427973"
     ],
     [
       "40-Year old BASICA utility code for teaching",
       "https://github.com/norton120/educator-tools-87"
+    ]
+  ],
+  [
+    [
+      "2024-05-21, 11:37:27",
+      "https://news.ycombinator.com/item?id=40426995"
+    ],
+    [
+      "We created the first open source implementation of Meta's TestGen–LLM",
+      "https://www.codium.ai/blog/we-created-the-first-open-source-implementation-of-metas-testgen-llm/"
     ]
   ],
   [
