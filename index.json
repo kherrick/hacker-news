@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-21, 01:55:00",
+      "https://news.ycombinator.com/item?id=40423205"
+    ],
+    [
+      "Seawater is rushing under Thwaites Glacier, potentially dire impact on sea level",
+      "https://www.cnn.com/2024/05/20/climate/doomsday-glacier-melt-antarctica-climate-intl/index.html"
+    ]
+  ],
+  [
+    [
       "2024-05-21, 01:31:50",
       "https://news.ycombinator.com/item?id=40423035"
     ],
@@ -17,6 +27,16 @@
     [
       "The ChatGPT wrapper product boom is an uncanny valley hellscape",
       "https://www.pcloadletter.dev/blog/llms/"
+    ]
+  ],
+  [
+    [
+      "2024-05-21, 01:20:47",
+      "https://news.ycombinator.com/item?id=40422959"
+    ],
+    [
+      "Comparing desktop development tools, Qt, Electron and macOS Native",
+      "https://www.bumblemeow.com/techtalk/#desktop-dev-tools"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2024-05-20, 15:33:44",
-      "https://news.ycombinator.com/item?id=40416657"
-    ],
-    [
-      "26× Faster Inference with Layer-Condensed KV Cache for Large Language Models",
-      "https://arxiv.org/abs/2405.10637"
-    ]
-  ],
-  [
-    [
       "2024-05-20, 14:46:48",
       "https://news.ycombinator.com/item?id=40416109"
     ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2024-05-20, 01:43:00",
-      "https://news.ycombinator.com/item?id=40411274"
-    ],
-    [
-      "What \"Follow Your Dreams\" Misses [video]",
-      "https://www.youtube.com/watch?v=W3I3kAg2J7w"
-    ]
-  ],
-  [
-    [
       "2024-05-19, 21:02:36",
       "https://news.ycombinator.com/item?id=40409718"
     ],
@@ -221,22 +221,22 @@
   ],
   [
     [
-      "2024-05-19, 17:15:29",
-      "https://news.ycombinator.com/item?id=40408291"
-    ],
-    [
-      "Coding My Handwriting",
-      "https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript"
-    ]
-  ],
-  [
-    [
       "2024-05-19, 10:10:17",
       "https://news.ycombinator.com/item?id=40405772"
     ],
     [
       "Scrabble and the Nature of Expertise (2015)",
       "https://www.scientificamerican.com/article/winning-scrabble-and-the-nature-of-expertise/"
+    ]
+  ],
+  [
+    [
+      "2024-05-19, 09:30:44",
+      "https://news.ycombinator.com/item?id=40405583"
+    ],
+    [
+      "Optigraph – optimum graph network generator",
+      "https://github.com/LovetheFrogs/OptiGraph"
     ]
   ],
   [
