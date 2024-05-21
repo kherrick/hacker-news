@@ -3,7 +3,7 @@
 * [2024-05-21, 13:44:08](https://news.ycombinator.com/item?id=40428419) - [How \"dark money\" groups help private ISPs lobby against municipal broadband](https://arstechnica.com/tech-policy/2024/05/how-dark-money-groups-help-private-isps-lobby-against-municipal-broadband/)
 * [2024-05-21, 13:41:39](https://news.ycombinator.com/item?id=40428386) - [What UI density means and how to design for it](https://matthewstrom.com/writing/ui-density/)
 * [2024-05-21, 13:05:08](https://news.ycombinator.com/item?id=40427973) - [40-Year old BASICA utility code for teaching](https://github.com/norton120/educator-tools-87)
-* [2024-05-21, 12:56:56](https://news.ycombinator.com/item?id=40427886) - [Cars and Consumer Data: On Unlawful Collection and Use](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2024/05/cars-consumer-data-unlawful-collection-use)
+* [2024-05-21, 12:55:00](https://news.ycombinator.com/item?id=40427851) - [Rare things become common at scale](https://longform.asmartbear.com/scale-rare/)
 * [2024-05-21, 12:00:25](https://news.ycombinator.com/item?id=40427195) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-05-21, 11:37:27](https://news.ycombinator.com/item?id=40426995) - [We created the first open source implementation of Meta's TestGen–LLM](https://www.codium.ai/blog/we-created-the-first-open-source-implementation-of-metas-testgen-llm/)
 * [2024-05-21, 11:22:00](https://news.ycombinator.com/item?id=40426894) - [the engineerguy: The Engineering of Duct Tape [video]](https://www.youtube.com/watch?v=E-F2QQuZZGk)
