@@ -46,6 +46,7 @@
 * [2024-05-17, 16:00:26](https://news.ycombinator.com/item?id=40391290) - [Scrabble, Anonymous](https://www.theparisreview.org/blog/2024/05/15/scrabble-anonymous/)
 * [2024-05-17, 15:50:04](https://news.ycombinator.com/item?id=40391175) - [The Natural Selection of Bad Vibes](https://kevindorst.substack.com/p/the-natural-selection-of-bad-vibes)
 * [2024-05-17, 15:34:31](https://news.ycombinator.com/item?id=40391022) - ['I'm the new Oppenheimer ': Palantir's first-ever AI warfare conference](https://www.theguardian.com/technology/article/2024/may/17/ai-weapons-palantir-war-technology)
+* [2024-05-17, 15:26:54](https://news.ycombinator.com/item?id=40390941) - [The Vietnamese Computer Scientist Who Made Toy Story Possible](https://time.com/6974656/toy-story-vietnam-war/)
 * [2024-05-17, 15:16:38](https://news.ycombinator.com/item?id=40390831) - [OpenAI's Long-Term AI Risk Team Has Disbanded](https://www.wired.com/story/openai-superalignment-team-disbanded/)
 * [2024-05-17, 15:15:11](https://news.ycombinator.com/item?id=40390820) - [A Trial HIV Vaccine Triggered Elusive and Essential Antibodies in Humans](https://corporate.dukehealth.org/news/trial-hiv-vaccine-triggered-elusive-and-essential-antibodies-humans)
 * [2024-05-17, 15:09:15](https://news.ycombinator.com/item?id=40390751) - [The Beauty of Concrete](https://worksinprogress.co/issue/the-beauty-of-concrete/)
