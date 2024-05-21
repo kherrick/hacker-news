@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-21, 03:47:06](https://news.ycombinator.com/item?id=40423884) - [Microsoft's mission to take down the MacBook Air](https://www.theverge.com/2024/5/20/24160463/microsoft-windows-laptops-copilot-arm-chips-m1)
 * [2024-05-21, 03:23:38](https://news.ycombinator.com/item?id=40423746) - [Modos Paper Monitor Pre-Launch on Crowd Supply](https://www.modos.tech/blog/modos-paper-monitor-pre-launch-on-crowd-supply)
 * [2024-05-21, 03:18:09](https://news.ycombinator.com/item?id=40423706) - [Microsoft Says New Surface Pro Is Faster Than 15\" M3 MacBook Air](https://www.macrumors.com/2024/05/20/microsoft-surface-pro-faster-macbook-air/)
 * [2024-05-21, 01:44:58](https://news.ycombinator.com/item?id=40423131) - [How (and why) to de-Google your life and protect your privacy](https://proton.me/blog/how-to-de-google)
@@ -28,7 +29,6 @@
 * [2024-05-18, 00:23:25](https://news.ycombinator.com/item?id=40395467) - [The Reign of Alexander III of Macedon, the Great?](https://acoup.blog/2024/05/17/collections-on-the-reign-of-alexander-iii-of-macedon-the-great/)
 * [2024-05-17, 23:25:26](https://news.ycombinator.com/item?id=40395105) - [Sierra was captured, then killed, by an accounting fraud (2020)](https://www.vice.com/en/article/z3vem8/inside-story-sierra-online-death-cuc-cendant-fraud)
 * [2024-05-17, 16:31:33](https://news.ycombinator.com/item?id=40391627) - [Glewbot scales buildings like a gecko to inspect wall tiles](https://blog.arduino.cc/2024/05/11/glewbot-scales-buildings-like-a-gecko/)
-* [2024-05-17, 12:08:01](https://news.ycombinator.com/item?id=40389006) - [Colorless green DNNs sleep furiously in an unexplainable fantasy](https://cacm.acm.org/blogcacm/when-colorless-green-dnns-sleep-furiously-in-an-unexplainable-fantasy/)
 * [2024-05-17, 01:58:19](https://news.ycombinator.com/item?id=40385562) - [Formatted spreadsheets can still work in R](https://luisdva.github.io/rstats/problematic-spreadsheets/)
 
 ## [Archives](archives/index.md)

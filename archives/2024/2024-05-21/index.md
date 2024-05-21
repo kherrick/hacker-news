@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-21](index.md)
 
+* [2024-05-21, 03:47:06](https://news.ycombinator.com/item?id=40423884) - [Microsoft's mission to take down the MacBook Air](https://www.theverge.com/2024/5/20/24160463/microsoft-windows-laptops-copilot-arm-chips-m1)
 * [2024-05-21, 03:23:38](https://news.ycombinator.com/item?id=40423746) - [Modos Paper Monitor Pre-Launch on Crowd Supply](https://www.modos.tech/blog/modos-paper-monitor-pre-launch-on-crowd-supply)
 * [2024-05-21, 03:18:09](https://news.ycombinator.com/item?id=40423706) - [Microsoft Says New Surface Pro Is Faster Than 15\" M3 MacBook Air](https://www.macrumors.com/2024/05/20/microsoft-surface-pro-faster-macbook-air/)
 * [2024-05-21, 01:55:15](https://news.ycombinator.com/item?id=40423206) - [Where is the German cockroach (Blattella germanica) actually from?](https://www.theguardian.com/australia-news/article/2024/may/21/where-is-the-german-cockroach-actually-from-we-tested-its-dna-to-trace-its-true-origins)
