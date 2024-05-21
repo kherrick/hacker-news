@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-05-21](index.md)
 
+* [2024-05-21, 15:30:45](https://news.ycombinator.com/item?id=40429723) - [U.S. Congress Live Net Worth Tracker](https://www.quiverquant.com/congress-live-net-worth/)
+* [2024-05-21, 15:05:53](https://news.ycombinator.com/item?id=40429420) - [Underwater acoustic analysis reveals unique pressure signals – Revisiting MH370](https://www.nature.com/articles/s41598-024-60529-1)
 * [2024-05-21, 14:58:34](https://news.ycombinator.com/item?id=40429326) - [Mapping the Mind of a Large Language Model](https://www.anthropic.com/research/mapping-mind-language-model)
 * [2024-05-21, 14:54:57](https://news.ycombinator.com/item?id=40429275) - [How Shadow Banning Can Silently Shift Opinion Online](https://insights.som.yale.edu/insights/how-shadow-banning-can-silently-shift-opinion-online)
 * [2024-05-21, 14:52:34](https://news.ycombinator.com/item?id=40429247) - [Microplastic presence in dog and human testis](https://academic.oup.com/toxsci/advance-article-abstract/doi/10.1093/toxsci/kfae060/7673133)
 * [2024-05-21, 14:50:33](https://news.ycombinator.com/item?id=40429229) - [University Suspends Students for AI Tool It Gave Them $10k Prize to Make](https://www.404media.co/university-suspends-students-for-ai-homework-tool-it-paid-them-10-000-to-make/)
 * [2024-05-21, 14:47:42](https://news.ycombinator.com/item?id=40429200) - [Show HN: I built a game to help you learn neural network architectures](https://graphgame.sabrina.dev/)
+* [2024-05-21, 14:19:56](https://news.ycombinator.com/item?id=40428827) - [CADmium: A Local-First CAD Program Built for the Browser](https://mattferraro.dev/posts/cadmium)
 * [2024-05-21, 14:11:21](https://news.ycombinator.com/item?id=40428734) - [Microsoft Has Lost Its Mind–$450 for a Keyboard, AI Button Included](https://www.techpowerup.com/322649/microsoft-has-lost-its-mind-usd-450-for-a-keyboard-ai-button-included)
 * [2024-05-21, 13:44:08](https://news.ycombinator.com/item?id=40428419) - [How \"dark money\" groups help private ISPs lobby against municipal broadband](https://arstechnica.com/tech-policy/2024/05/how-dark-money-groups-help-private-isps-lobby-against-municipal-broadband/)
 * [2024-05-21, 13:41:39](https://news.ycombinator.com/item?id=40428386) - [What UI density means and how to design for it](https://matthewstrom.com/writing/ui-density/)
