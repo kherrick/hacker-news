@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-21, 18:03:00](https://news.ycombinator.com/item?id=40431688) - [The U.S. Planned to Resettle Guantánamo Prisoners in Oman](https://www.nytimes.com/2024/05/21/us/politics/guantanamo-hamas-israel-oman.html)
+* [2024-05-21, 18:22:28](https://news.ycombinator.com/item?id=40431939) - [Do you all realize that accessing to correct information+truth is getting hard?](https://news.ycombinator.com/item?id=40431939)
 * [2024-05-21, 17:41:39](https://news.ycombinator.com/item?id=40431444) - [Firefox bug gets fixed after 25 years](https://bugzilla.mozilla.org/show_bug.cgi?id=33654)
 * [2024-05-21, 17:13:50](https://news.ycombinator.com/item?id=40431145) - [How to Turn Off AI Overview in Google and Set \"Web\" as Default](https://tenbluelinks.org/)
 * [2024-05-21, 17:00:45](https://news.ycombinator.com/item?id=40430972) - [Roame (YC S23) is hiring a founding back end engineer](https://www.ycombinator.com/companies/roame/jobs/A2jJQvq-founding-backend-engineer)

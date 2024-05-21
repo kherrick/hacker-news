@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-21](index.md)
 
+* [2024-05-21, 18:22:28](https://news.ycombinator.com/item?id=40431939) - [Do you all realize that accessing to correct information+truth is getting hard?](https://news.ycombinator.com/item?id=40431939)
 * [2024-05-21, 18:03:00](https://news.ycombinator.com/item?id=40431688) - [The U.S. Planned to Resettle Guantánamo Prisoners in Oman](https://www.nytimes.com/2024/05/21/us/politics/guantanamo-hamas-israel-oman.html)
 * [2024-05-21, 17:41:39](https://news.ycombinator.com/item?id=40431444) - [Firefox bug gets fixed after 25 years](https://bugzilla.mozilla.org/show_bug.cgi?id=33654)
 * [2024-05-21, 17:19:46](https://news.ycombinator.com/item?id=40431210) - [I Want Flexible Queries, Not RAG](https://win-vector.com/2024/05/21/i-want-flexible-queries-not-rag/)
