@@ -1,32 +1,12 @@
 [
   [
     [
-      "2024-05-21, 03:47:06",
-      "https://news.ycombinator.com/item?id=40423884"
-    ],
-    [
-      "Microsoft's mission to take down the MacBook Air",
-      "https://www.theverge.com/2024/5/20/24160463/microsoft-windows-laptops-copilot-arm-chips-m1"
-    ]
-  ],
-  [
-    [
       "2024-05-21, 03:23:38",
       "https://news.ycombinator.com/item?id=40423746"
     ],
     [
       "Modos Paper Monitor Pre-Launch on Crowd Supply",
       "https://www.modos.tech/blog/modos-paper-monitor-pre-launch-on-crowd-supply"
-    ]
-  ],
-  [
-    [
-      "2024-05-21, 03:18:09",
-      "https://news.ycombinator.com/item?id=40423706"
-    ],
-    [
-      "Microsoft Says New Surface Pro Is Faster Than 15\" M3 MacBook Air",
-      "https://www.macrumors.com/2024/05/20/microsoft-surface-pro-faster-macbook-air/"
     ]
   ],
   [
@@ -65,7 +45,7 @@
       "https://news.ycombinator.com/item?id=40422997"
     ],
     [
-      "Regular Expression Matching Can Be Simple and Fast (2007)",
+      "Regular expression matching can be simple and fast (2007)",
       "https://swtch.com/%7Ersc/regexp/regexp1.html"
     ]
   ],
@@ -105,7 +85,7 @@
       "https://news.ycombinator.com/item?id=40421762"
     ],
     [
-      "I Love Laravel (2022)",
+      "Why I love Laravel (2022)",
       "https://ben.page/laravel"
     ]
   ],
@@ -231,6 +211,16 @@
   ],
   [
     [
+      "2024-05-19, 17:15:29",
+      "https://news.ycombinator.com/item?id=40408291"
+    ],
+    [
+      "Coding My Handwriting",
+      "https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript"
+    ]
+  ],
+  [
+    [
       "2024-05-19, 10:10:17",
       "https://news.ycombinator.com/item?id=40405772"
     ],
@@ -245,7 +235,7 @@
       "https://news.ycombinator.com/item?id=40405583"
     ],
     [
-      "Optigraph – optimum graph network generator",
+      "Show HN: Optigraph – optimum graph network generator",
       "https://github.com/LovetheFrogs/OptiGraph"
     ]
   ],
@@ -287,6 +277,16 @@
     [
       "Glewbot scales buildings like a gecko to inspect wall tiles",
       "https://blog.arduino.cc/2024/05/11/glewbot-scales-buildings-like-a-gecko/"
+    ]
+  ],
+  [
+    [
+      "2024-05-17, 12:08:01",
+      "https://news.ycombinator.com/item?id=40389006"
+    ],
+    [
+      "Colorless green DNNs sleep furiously in an unexplainable fantasy",
+      "https://cacm.acm.org/blogcacm/when-colorless-green-dnns-sleep-furiously-in-an-unexplainable-fantasy/"
     ]
   ],
   [
