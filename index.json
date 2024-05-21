@@ -1,22 +1,22 @@
 [
   [
     [
+      "2024-05-21, 20:21:39",
+      "https://news.ycombinator.com/item?id=40433384"
+    ],
+    [
+      "Apple needs to explain that bug that resurfaced deleted photos",
+      "https://www.theverge.com/2024/5/20/24161152/apple-ios-17-photo-bug"
+    ]
+  ],
+  [
+    [
       "2024-05-21, 20:03:25",
       "https://news.ycombinator.com/item?id=40433164"
     ],
     [
       "What's New in Kotlin 2.0.0",
       "https://kotlinlang.org/docs/whatsnew20.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-21, 19:49:59",
-      "https://news.ycombinator.com/item?id=40433000"
-    ],
-    [
-      "Show HN: An online billboard I built in 2 weeks",
-      "https://billboardgrid.com"
     ]
   ],
   [
@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2024-05-21, 18:43:50",
+      "https://news.ycombinator.com/item?id=40432213"
+    ],
+    [
+      "An open-source alternative to Mixpanel",
+      "https://github.com/Openpanel-dev/openpanel"
+    ]
+  ],
+  [
+    [
       "2024-05-21, 18:35:13",
       "https://news.ycombinator.com/item?id=40432102"
     ],
@@ -87,6 +97,16 @@
     [
       "Firefox bug gets fixed after 25 years",
       "https://bugzilla.mozilla.org/show_bug.cgi?id=33654"
+    ]
+  ],
+  [
+    [
+      "2024-05-21, 17:19:46",
+      "https://news.ycombinator.com/item?id=40431210"
+    ],
+    [
+      "I want flexible queries, not RAG",
+      "https://win-vector.com/2024/05/21/i-want-flexible-queries-not-rag/"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-05-21, 11:37:27",
-      "https://news.ycombinator.com/item?id=40426995"
-    ],
-    [
-      "We created the first open source implementation of Meta's TestGen–LLM",
-      "https://www.codium.ai/blog/we-created-the-first-open-source-implementation-of-metas-testgen-llm/"
-    ]
-  ],
-  [
-    [
       "2024-05-21, 11:21:35",
       "https://news.ycombinator.com/item?id=40426890"
     ],
@@ -271,22 +281,12 @@
   ],
   [
     [
-      "2024-05-19, 06:44:04",
-      "https://news.ycombinator.com/item?id=40404752"
+      "2024-05-19, 08:55:00",
+      "https://news.ycombinator.com/item?id=40405426"
     ],
     [
-      "Waxolotl – A small language that compiles to WebAssembly text format",
-      "https://github.com/eliot-akira/waxolotl"
-    ]
-  ],
-  [
-    [
-      "2024-05-17, 21:43:19",
-      "https://news.ycombinator.com/item?id=40394462"
-    ],
-    [
-      "Matryoshka Representation Learning with CLIP",
-      "https://www.marqo.ai/blog/matryoshka-representation-learning-with-clip-for-multimodal-retrieval-and-ranking"
+      "The prospects for 128 bit processors (John R. Mashey, 1995)",
+      "https://yarchive.net/comp/128bit.html"
     ]
   ],
   [
