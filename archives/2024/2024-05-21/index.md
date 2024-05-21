@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-21](index.md)
 
+* [2024-05-21, 22:11:05](https://news.ycombinator.com/item?id=40434680) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-05-21, 21:15:31](https://news.ycombinator.com/item?id=40434049) - [Dyson Sphere Candidates from Gaia DR3, 2MASS, and Wise](https://academic.oup.com/mnras/article/531/1/695/7665761)
 * [2024-05-21, 21:02:50](https://news.ycombinator.com/item?id=40433884) - [How the new Microsoft Recall feature fundamentally undermines Windows security](https://doublepulsar.com/how-the-new-microsoft-recall-feature-fundamentally-undermines-windows-security-aa072829f218)
 * [2024-05-21, 21:00:45](https://news.ycombinator.com/item?id=40433861) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
@@ -42,6 +43,7 @@
 * [2024-05-21, 16:14:06](https://news.ycombinator.com/item?id=40430381) - [Backblaze Scales Storage Cloud](https://www.backblaze.com/blog/how-backblaze-scales-our-storage-cloud/)
 * [2024-05-21, 16:07:02](https://news.ycombinator.com/item?id=40430282) - [AI Startups Are Making Their Home in New York](https://www.wsj.com/articles/ai-startups-are-making-their-home-in-new-york-can-they-turn-it-into-an-aipowerhouse-bd5dab78)
 * [2024-05-21, 16:03:18](https://news.ycombinator.com/item?id=40430230) - [Microsoft's AI will be inside Minecraft, and other Xbox, PC games](https://www.windowscentral.com/microsoft/microsofts-ai-will-be-inside-minecraft-and-other-xbox-pc-games-new-copilot-features-will-search-your-inventories-offer-tips-and-guides)
+* [2024-05-21, 15:41:04](https://news.ycombinator.com/item?id=40429878) - [Fast real time fluid simulator based on MPM algorithm](https://kotsoft.github.io/)
 * [2024-05-21, 15:30:45](https://news.ycombinator.com/item?id=40429723) - [U.S. Congress Live Net Worth Tracker](https://www.quiverquant.com/congress-live-net-worth/)
 * [2024-05-21, 15:25:05](https://news.ycombinator.com/item?id=40429649) - [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)
 * [2024-05-21, 15:19:00](https://news.ycombinator.com/item?id=40429581) - [US Business Booms and Depressions Since 1775 (1943)](https://fraser.stlouisfed.org/title/business-booms-depressions-since-1775-145)
