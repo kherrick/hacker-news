@@ -2,7 +2,9 @@
 
 * [2024-05-21, 12:00:25](https://news.ycombinator.com/item?id=40427195) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-05-21, 11:37:27](https://news.ycombinator.com/item?id=40426995) - [We created the first open source implementation of Meta's TestGen–LLM](https://www.codium.ai/blog/we-created-the-first-open-source-implementation-of-metas-testgen-llm/)
+* [2024-05-21, 11:22:00](https://news.ycombinator.com/item?id=40426894) - [the engineerguy: The Engineering of Duct Tape [video]](https://www.youtube.com/watch?v=E-F2QQuZZGk)
 * [2024-05-21, 10:54:36](https://news.ycombinator.com/item?id=40426701) - [Going Dark: The war on encryption is on the rise](https://mullvad.net/en/why-privacy-matters/going-dark)
+* [2024-05-21, 10:42:31](https://news.ycombinator.com/item?id=40426622) - [Humans Who Are Not Concentrating Are Not General Intelligences (2019)](https://www.skynettoday.com/editorials/humans-not-concentrating)
 * [2024-05-21, 10:42:30](https://news.ycombinator.com/item?id=40426621) - [NoTunes is a macOS application that will prevent Apple Music from launching](https://github.com/tombonez/noTunes)
 * [2024-05-21, 10:16:06](https://news.ycombinator.com/item?id=40426442) - [Gifski: Optimized GIF Encoder](https://github.com/ImageOptim/gifski)
 * [2024-05-21, 10:05:56](https://news.ycombinator.com/item?id=40426382) - [Building an AI game studio: what we've learned so far](https://braindump.me/blog-posts/building-an-ai-game-studio)
@@ -14,7 +16,6 @@
 * [2024-05-21, 01:37:53](https://news.ycombinator.com/item?id=40423082) - [Chameleon: Meta's New Multi-Modal LLM](https://arxiv.org/abs/2405.09818)
 * [2024-05-21, 01:26:58](https://news.ycombinator.com/item?id=40422997) - [Regular expression matching can be simple and fast (2007)](https://swtch.com/%7Ersc/regexp/regexp1.html)
 * [2024-05-21, 01:17:35](https://news.ycombinator.com/item?id=40422940) - [Bento3D](https://polar-tadpole-97b.notion.site/Bento3D-e40483712b304d389d7c2da26196e113#d7f452d3ffd94cd1a0a9e70e361efb63)
-* [2024-05-20, 23:23:15](https://news.ycombinator.com/item?id=40421851) - [Dual antibacterial properties of copper-coated nanotextured stainless steel](https://onlinelibrary.wiley.com/doi/10.1002/smll.202311546)
 * [2024-05-20, 20:23:02](https://news.ycombinator.com/item?id=40419856) - [Enlightenmentware](https://mmapped.blog/posts/28-enlightenmentware.html)
 * [2024-05-20, 19:37:12](https://news.ycombinator.com/item?id=40419325) - [How terminal works. Part 1: Xterm, user input (2021)](https://kevroletin.github.io/terminal/2021/12/11/how-terminal-works-in.html)
 * [2024-05-20, 18:36:53](https://news.ycombinator.com/item?id=40418591) - [Rethinking Text Resizing on Web](https://medium.com/airbnb-engineering/rethinking-text-resizing-on-web-1047b12d2881)
@@ -27,7 +28,6 @@
 * [2024-05-18, 00:23:25](https://news.ycombinator.com/item?id=40395467) - [The Reign of Alexander III of Macedon, the Great?](https://acoup.blog/2024/05/17/collections-on-the-reign-of-alexander-iii-of-macedon-the-great/)
 * [2024-05-17, 23:25:26](https://news.ycombinator.com/item?id=40395105) - [Sierra was captured, then killed, by an accounting fraud (2020)](https://www.vice.com/en/article/z3vem8/inside-story-sierra-online-death-cuc-cendant-fraud)
 * [2024-05-17, 21:18:52](https://news.ycombinator.com/item?id=40394307) - [When you're driving you're re-enacting an ancient space combat SIM](https://interconnected.org/home/2024/05/17/arrow)
-* [2024-05-17, 21:08:18](https://news.ycombinator.com/item?id=40394241) - [Falling in love again with disposable cameras](https://www.washingtonpost.com/style/of-interest/2024/03/13/disposable-cameras-gen-z/)
 * [2024-05-17, 15:26:54](https://news.ycombinator.com/item?id=40390941) - [The Vietnamese Computer Scientist Who Made Toy Story Possible](https://time.com/6974656/toy-story-vietnam-war/)
 * [2024-05-17, 01:58:19](https://news.ycombinator.com/item?id=40385562) - [Formatted spreadsheets can still work in R](https://luisdva.github.io/rstats/problematic-spreadsheets/)
 
