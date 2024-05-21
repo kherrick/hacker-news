@@ -6,6 +6,7 @@
 
 * [2024-05-21, 08:09:23](https://news.ycombinator.com/item?id=40425428) - [iTerm2 3.5.0](https://iterm2.com/downloads/stable/iTerm2-3_5_0.changelog)
 * [2024-05-21, 08:06:24](https://news.ycombinator.com/item?id=40425403) - [The OpenAI board was right – No (by a voice actres named Scarlet) means No](https://garymarcus.substack.com/p/the-openai-board-was-right)
+* [2024-05-21, 07:55:16](https://news.ycombinator.com/item?id=40425315) - [CamelCase vs. Snake_case Scientific Studies](https://whatheco.de/2011/02/10/camelcase-vs-underscores-scientific-showdown/)
 * [2024-05-21, 07:53:56](https://news.ycombinator.com/item?id=40425306) - [Microsoft's AI chatbot will 'recall' everything you do on its new PCs](https://www.theguardian.com/technology/article/2024/may/20/microsoft-chatbot-assistant-pc)
 * [2024-05-21, 07:38:12](https://news.ycombinator.com/item?id=40425221) - [Which Electric Cars Have Bidirectional Charging (V2L, V2G, V2H)](https://zecar.com/resources/which-electric-cars-have-bidirectional-charging)
 * [2024-05-21, 07:00:15](https://news.ycombinator.com/item?id=40425040) - [Apple supplier Foxconn among firms asked to cut power use in Vietnam](https://www.reuters.com/technology/apple-supplier-foxconn-among-firms-asked-cut-power-use-vietnam-sources-say-2024-05-21/)
@@ -16,6 +17,7 @@
 * [2024-05-21, 05:21:23](https://news.ycombinator.com/item?id=40424454) - [Scarlett Johansson's response to Sam Altman ripping off her voice](https://old.reddit.com/r/interestingasfuck/comments/1cwthib/scarlett_johanssons_response_to_sam_altman/)
 * [2024-05-21, 04:56:07](https://news.ycombinator.com/item?id=40424304) - [Shipbreaking](https://www.edwardburtynsky.com/projects/photographs/shipbreaking)
 * [2024-05-21, 03:47:06](https://news.ycombinator.com/item?id=40423884) - [Microsoft's mission to take down the MacBook Air](https://www.theverge.com/2024/5/20/24160463/microsoft-windows-laptops-copilot-arm-chips-m1)
+* [2024-05-21, 03:34:51](https://news.ycombinator.com/item?id=40423799) - [Comparing Crestmonts: No L3 Hurts](https://chipsandcheese.com/2024/05/20/comparing-crestmonts-no-l3-hurts/)
 * [2024-05-21, 03:23:38](https://news.ycombinator.com/item?id=40423746) - [Modos Paper Monitor Pre-Launch on Crowd Supply](https://www.modos.tech/blog/modos-paper-monitor-pre-launch-on-crowd-supply)
 * [2024-05-21, 03:18:09](https://news.ycombinator.com/item?id=40423706) - [Microsoft Says New Surface Pro Is Faster Than 15\" M3 MacBook Air](https://www.macrumors.com/2024/05/20/microsoft-surface-pro-faster-macbook-air/)
 * [2024-05-21, 01:55:15](https://news.ycombinator.com/item?id=40423206) - [Where is the German cockroach (Blattella germanica) actually from?](https://www.theguardian.com/australia-news/article/2024/may/21/where-is-the-german-cockroach-actually-from-we-tested-its-dna-to-trace-its-true-origins)
