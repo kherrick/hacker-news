@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-21, 22:35:15",
+      "https://news.ycombinator.com/item?id=40434874"
+    ],
+    [
+      "Designed to Crash: the story of Antonov An-28 HA-LAJ and its demise",
+      "https://admiralcloudberg.medium.com/designed-to-crash-the-bizarre-story-of-antonov-an-28-ha-laj-and-its-demise-169b3720d924"
+    ]
+  ],
+  [
+    [
       "2024-05-21, 22:21:35",
       "https://news.ycombinator.com/item?id=40434766"
     ],
@@ -197,16 +207,6 @@
     [
       "What UI density means and how to design for it",
       "https://matthewstrom.com/writing/ui-density/"
-    ]
-  ],
-  [
-    [
-      "2024-05-21, 13:09:10",
-      "https://news.ycombinator.com/item?id=40428032"
-    ],
-    [
-      "Abusing url handling in iTerm2 and Hyper for code execution",
-      "https://vin01.github.io/piptagole/escape-sequences/iterm2/hyper/url-handlers/code-execution/2024/05/21/arbitrary-url-schemes-terminal-emulators.html"
     ]
   ],
   [
