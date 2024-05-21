@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-21, 16:14:06](https://news.ycombinator.com/item?id=40430381) - [Backblaze Scales Storage Cloud](https://www.backblaze.com/blog/how-backblaze-scales-our-storage-cloud/)
 * [2024-05-21, 16:07:02](https://news.ycombinator.com/item?id=40430282) - [AI Startups Are Making Their Home in New York](https://www.wsj.com/articles/ai-startups-are-making-their-home-in-new-york-can-they-turn-it-into-an-aipowerhouse-bd5dab78)
+* [2024-05-21, 16:03:18](https://news.ycombinator.com/item?id=40430230) - [Microsoft's AI will be inside Minecraft, and other Xbox, PC games](https://www.windowscentral.com/microsoft/microsofts-ai-will-be-inside-minecraft-and-other-xbox-pc-games-new-copilot-features-will-search-your-inventories-offer-tips-and-guides)
 * [2024-05-21, 15:05:53](https://news.ycombinator.com/item?id=40429420) - [Underwater acoustic analysis reveals unique pressure signals – Revisiting MH370](https://www.nature.com/articles/s41598-024-60529-1)
 * [2024-05-21, 14:58:34](https://news.ycombinator.com/item?id=40429326) - [Mapping the Mind of a Large Language Model](https://www.anthropic.com/research/mapping-mind-language-model)
 * [2024-05-21, 14:47:42](https://news.ycombinator.com/item?id=40429200) - [Show HN: I built a game to help you learn neural network architectures](https://graphgame.sabrina.dev/)
 * [2024-05-21, 14:19:56](https://news.ycombinator.com/item?id=40428827) - [CADmium: A Local-First CAD Program Built for the Browser](https://mattferraro.dev/posts/cadmium)
-* [2024-05-21, 13:44:08](https://news.ycombinator.com/item?id=40428419) - [“Dark money” groups help private ISPs lobby against municipal broadband](https://arstechnica.com/tech-policy/2024/05/how-dark-money-groups-help-private-isps-lobby-against-municipal-broadband/)
 * [2024-05-21, 13:41:39](https://news.ycombinator.com/item?id=40428386) - [What UI density means and how to design for it](https://matthewstrom.com/writing/ui-density/)
 * [2024-05-21, 13:05:08](https://news.ycombinator.com/item?id=40427973) - [40-Year old BASICA utility code for teaching](https://github.com/norton120/educator-tools-87)
 * [2024-05-21, 12:55:00](https://news.ycombinator.com/item?id=40427851) - [Rare things become common at scale](https://longform.asmartbear.com/scale-rare/)
@@ -17,7 +18,6 @@
 * [2024-05-21, 10:05:56](https://news.ycombinator.com/item?id=40426382) - [Building an AI game studio: what we've learned so far](https://braindump.me/blog-posts/building-an-ai-game-studio)
 * [2024-05-21, 09:31:24](https://news.ycombinator.com/item?id=40426099) - [Show HN: Oracolo – A minimalist Nostr blog in a single HTML file](https://github.com/dtonon/oracolo)
 * [2024-05-21, 09:10:46](https://news.ycombinator.com/item?id=40425905) - [Reversing Choplifter](https://blondihacks.com/reversing-choplifter/)
-* [2024-05-21, 08:20:02](https://news.ycombinator.com/item?id=40425504) - [AI Needs Enormous Computing Power. Could Light-Based Chips Help?](https://www.quantamagazine.org/ai-needs-enormous-computing-power-could-light-based-chips-help-20240520/)
 * [2024-05-21, 05:33:52](https://news.ycombinator.com/item?id=40424536) - [How Might We Learn?](https://andymatuschak.org/hmwl/)
 * [2024-05-21, 04:56:07](https://news.ycombinator.com/item?id=40424304) - [Shipbreaking](https://www.edwardburtynsky.com/projects/photographs/shipbreaking)
 * [2024-05-21, 01:37:53](https://news.ycombinator.com/item?id=40423082) - [Chameleon: Meta’s New Multi-Modal LLM](https://arxiv.org/abs/2405.09818)
@@ -27,9 +27,9 @@
 * [2024-05-19, 06:44:04](https://news.ycombinator.com/item?id=40404752) - [Waxolotl – A small language that compiles to WebAssembly text format](https://github.com/eliot-akira/waxolotl)
 * [2024-05-18, 04:03:48](https://news.ycombinator.com/item?id=40396373) - [A fire 2,200 years ago preserved moment in Iron Age, down to a gold earring](https://phys.org/news/2024-05-devastating-years-moment-life-war.html)
 * [2024-05-18, 00:23:25](https://news.ycombinator.com/item?id=40395467) - [The Reign of Alexander III of Macedon](https://acoup.blog/2024/05/17/collections-on-the-reign-of-alexander-iii-of-macedon-the-great/)
+* [2024-05-17, 21:43:19](https://news.ycombinator.com/item?id=40394462) - [Matryoshka Representation Learning with CLIP](https://www.marqo.ai/blog/matryoshka-representation-learning-with-clip-for-multimodal-retrieval-and-ranking)
 * [2024-05-17, 21:08:18](https://news.ycombinator.com/item?id=40394241) - [Falling in love again with disposable cameras](https://www.washingtonpost.com/style/of-interest/2024/03/13/disposable-cameras-gen-z/)
 * [2024-05-17, 15:26:54](https://news.ycombinator.com/item?id=40390941) - [The Vietnamese Computer Scientist Who Made Toy Story Possible](https://time.com/6974656/toy-story-vietnam-war/)
-* [2024-05-17, 01:58:19](https://news.ycombinator.com/item?id=40385562) - [Formatted spreadsheets can still work in R](https://luisdva.github.io/rstats/problematic-spreadsheets/)
 
 ## [Archives](archives/index.md)
 

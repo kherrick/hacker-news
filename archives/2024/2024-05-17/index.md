@@ -13,6 +13,7 @@
 * [2024-05-17, 22:34:51](https://news.ycombinator.com/item?id=40394778) - [Ex-OpenAI staff must sign lifetime no-criticism contract or forfeit all equity](https://x.com/KelseyTuoc/status/1791584357184127269)
 * [2024-05-17, 22:18:07](https://news.ycombinator.com/item?id=40394670) - [Android 15 improves standby battery life by up to 3 hours on some devices](https://www.androidauthority.com/android-15-standby-battery-life-3444566/)
 * [2024-05-17, 21:54:04](https://news.ycombinator.com/item?id=40394524) - [I'm Bearish OpenAI](https://stovetop.substack.com/p/im-bearish-openai)
+* [2024-05-17, 21:43:19](https://news.ycombinator.com/item?id=40394462) - [Matryoshka Representation Learning with CLIP](https://www.marqo.ai/blog/matryoshka-representation-learning-with-clip-for-multimodal-retrieval-and-ranking)
 * [2024-05-17, 21:18:52](https://news.ycombinator.com/item?id=40394307) - [When you're driving you're re-enacting an ancient space combat SIM](https://interconnected.org/home/2024/05/17/arrow)
 * [2024-05-17, 21:16:36](https://news.ycombinator.com/item?id=40394291) - [The Delta Emulator is changing its logo after Adobe threatened it](https://www.theverge.com/2024/5/17/24159268/delta-emulator-logo-change-app)
 * [2024-05-17, 21:14:31](https://news.ycombinator.com/item?id=40394277) - [Expedia Group fired their CTO, Rathi Murthy](https://www.phocuswire.com/rathi-murthy-expedia-group-cto)

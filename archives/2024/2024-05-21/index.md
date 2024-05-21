@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-21](index.md)
 
+* [2024-05-21, 16:14:06](https://news.ycombinator.com/item?id=40430381) - [Backblaze Scales Storage Cloud](https://www.backblaze.com/blog/how-backblaze-scales-our-storage-cloud/)
 * [2024-05-21, 16:07:02](https://news.ycombinator.com/item?id=40430282) - [AI Startups Are Making Their Home in New York](https://www.wsj.com/articles/ai-startups-are-making-their-home-in-new-york-can-they-turn-it-into-an-aipowerhouse-bd5dab78)
+* [2024-05-21, 16:03:18](https://news.ycombinator.com/item?id=40430230) - [Microsoft's AI will be inside Minecraft, and other Xbox, PC games](https://www.windowscentral.com/microsoft/microsofts-ai-will-be-inside-minecraft-and-other-xbox-pc-games-new-copilot-features-will-search-your-inventories-offer-tips-and-guides)
 * [2024-05-21, 15:30:45](https://news.ycombinator.com/item?id=40429723) - [U.S. Congress Live Net Worth Tracker](https://www.quiverquant.com/congress-live-net-worth/)
 * [2024-05-21, 15:05:53](https://news.ycombinator.com/item?id=40429420) - [Underwater acoustic analysis reveals unique pressure signals – Revisiting MH370](https://www.nature.com/articles/s41598-024-60529-1)
 * [2024-05-21, 14:58:34](https://news.ycombinator.com/item?id=40429326) - [Mapping the Mind of a Large Language Model](https://www.anthropic.com/research/mapping-mind-language-model)
