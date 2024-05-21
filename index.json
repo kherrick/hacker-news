@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-05-21, 06:46:06",
-      "https://news.ycombinator.com/item?id=40424938"
-    ],
-    [
-      "Taking Risk – Startups in UK vs. US",
-      "https://tomblomfield.com/post/750852175114174464/taking-risk"
-    ]
-  ],
-  [
-    [
       "2024-05-21, 05:33:52",
       "https://news.ycombinator.com/item?id=40424536"
     ],
@@ -207,6 +197,16 @@
     [
       "ICC prosecutor seeks arrest warrants against Sinwar and Netanyahu for war crimes",
       "https://www.cnn.com/2024/05/20/middleeast/icc-israel-hamas-arrest-warrant-war-crimes-intl/index.html"
+    ]
+  ],
+  [
+    [
+      "2024-05-20, 10:01:36",
+      "https://news.ycombinator.com/item?id=40413891"
+    ],
+    [
+      "Migrating Uber's ledger data from DynamoDB to LedgerStore",
+      "https://www.uber.com/blog/migrating-from-dynamodb-to-ledgerstore/"
     ]
   ],
   [
