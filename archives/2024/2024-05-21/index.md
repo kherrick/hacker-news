@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-21](index.md)
 
+* [2024-05-21, 21:02:50](https://news.ycombinator.com/item?id=40433884) - [How the new Microsoft Recall feature fundamentally undermines Windows security](https://doublepulsar.com/how-the-new-microsoft-recall-feature-fundamentally-undermines-windows-security-aa072829f218)
 * [2024-05-21, 21:00:45](https://news.ycombinator.com/item?id=40433861) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-05-21, 20:54:54](https://news.ycombinator.com/item?id=40433785) - [Scarlett Johansson Said No, but OpenAI's Virtual Assistant Sounds Just Like Her](https://www.nytimes.com/2024/05/20/technology/scarlett-johannson-openai-voice.html)
 * [2024-05-21, 20:32:30](https://news.ycombinator.com/item?id=40433511) - [Wikimedia Enterprise – APIs for LLMs, AI Training, and More](https://enterprise.wikimedia.com/)
