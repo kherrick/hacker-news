@@ -15,6 +15,7 @@
 * [2024-05-17, 21:54:04](https://news.ycombinator.com/item?id=40394524) - [I'm Bearish OpenAI](https://stovetop.substack.com/p/im-bearish-openai)
 * [2024-05-17, 21:16:36](https://news.ycombinator.com/item?id=40394291) - [The Delta Emulator is changing its logo after Adobe threatened it](https://www.theverge.com/2024/5/17/24159268/delta-emulator-logo-change-app)
 * [2024-05-17, 21:14:31](https://news.ycombinator.com/item?id=40394277) - [Expedia Group fired their CTO, Rathi Murthy](https://www.phocuswire.com/rathi-murthy-expedia-group-cto)
+* [2024-05-17, 21:08:18](https://news.ycombinator.com/item?id=40394241) - [Falling in love again with disposable cameras](https://www.washingtonpost.com/style/of-interest/2024/03/13/disposable-cameras-gen-z/)
 * [2024-05-17, 21:06:16](https://news.ycombinator.com/item?id=40394220) - [VW and Renault end talks to develop affordable EV](https://www.reuters.com/business/autos-transportation/vw-renault-end-talks-develop-affordable-ev-sources-say-2024-05-17/)
 * [2024-05-17, 20:51:52](https://news.ycombinator.com/item?id=40394104) - [Hashing Modulo Theories](https://www.philipzucker.com/hashing-modulo/)
 * [2024-05-17, 20:39:54](https://news.ycombinator.com/item?id=40393988) - [Archie, the Internet's first search engine, is rescued and running](https://arstechnica.com/gadgets/2024/05/archie-the-internets-first-search-engine-is-rescued-and-running/)

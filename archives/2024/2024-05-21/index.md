@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-21](index.md)
 
+* [2024-05-21, 11:08:09](https://news.ycombinator.com/item?id=40426801) - [One dead as London-Singapore flight hit by turbulence](https://www.bbc.com/news/articles/c8889d7x8j4o)
 * [2024-05-21, 10:55:54](https://news.ycombinator.com/item?id=40426711) - [Google announces Firebase Genkit with Ollama support](https://ollama.com/blog/firebase-genkit)
 * [2024-05-21, 08:09:23](https://news.ycombinator.com/item?id=40425428) - [iTerm2 3.5.0](https://iterm2.com/downloads/stable/iTerm2-3_5_0.changelog)
 * [2024-05-21, 08:06:24](https://news.ycombinator.com/item?id=40425403) - [The OpenAI board was right – No (by a voice actres named Scarlet) means No](https://garymarcus.substack.com/p/the-openai-board-was-right)
