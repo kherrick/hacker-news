@@ -11,6 +11,7 @@
 * [2024-05-21, 18:13:58](https://news.ycombinator.com/item?id=40431812) - [Suno has raised $125M to build a future where anyone can make music](https://suno.com/blog/fundraising-announcement-may-2024)
 * [2024-05-21, 18:03:00](https://news.ycombinator.com/item?id=40431688) - [The U.S. Planned to Resettle Guantánamo Prisoners in Oman](https://www.nytimes.com/2024/05/21/us/politics/guantanamo-hamas-israel-oman.html)
 * [2024-05-21, 17:41:39](https://news.ycombinator.com/item?id=40431444) - [Firefox bug gets fixed after 25 years](https://bugzilla.mozilla.org/show_bug.cgi?id=33654)
+* [2024-05-21, 17:38:26](https://news.ycombinator.com/item?id=40431412) - [Linux 6.10 Honors One Last ReiserFS Request Made by Hans Reiser](https://www.phoronix.com/news/ReiserFS-README-Linux-6.10)
 * [2024-05-21, 17:19:46](https://news.ycombinator.com/item?id=40431210) - [I Want Flexible Queries, Not RAG](https://win-vector.com/2024/05/21/i-want-flexible-queries-not-rag/)
 * [2024-05-21, 17:18:04](https://news.ycombinator.com/item?id=40431188) - [Athena Crisis Open Source](https://athenacrisis.com/open-source/)
 * [2024-05-21, 17:13:50](https://news.ycombinator.com/item?id=40431145) - [How to Turn Off AI Overview in Google and Set \"Web\" as Default](https://tenbluelinks.org/)

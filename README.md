@@ -4,6 +4,7 @@
 * [2024-05-21, 18:42:30](https://news.ycombinator.com/item?id=40432194) - [The number's up for 999. And 911. And 000. And 111](https://www.theregister.com/2023/07/03/the_numbers_up_for_999/)
 * [2024-05-21, 18:35:13](https://news.ycombinator.com/item?id=40432102) - [SMTP removes periods – the curious case of the missing period](https://tjaart.substack.com/p/the-curious-case-of-the-missing-period)
 * [2024-05-21, 17:41:39](https://news.ycombinator.com/item?id=40431444) - [Firefox bug gets fixed after 25 years](https://bugzilla.mozilla.org/show_bug.cgi?id=33654)
+* [2024-05-21, 17:38:26](https://news.ycombinator.com/item?id=40431412) - [Linux 6.10 Honors One Last ReiserFS Request Made by Hans Reiser](https://www.phoronix.com/news/ReiserFS-README-Linux-6.10)
 * [2024-05-21, 17:00:45](https://news.ycombinator.com/item?id=40430972) - [Roame (YC S23) is hiring a founding back end engineer](https://www.ycombinator.com/companies/roame/jobs/A2jJQvq-founding-backend-engineer)
 * [2024-05-21, 16:52:46](https://news.ycombinator.com/item?id=40430868) - [The Effects of Early Relational Trauma (2001) [pdf]](https://www.allanschore.com/pdf/SchoreIMHJTrauma01.pdf)
 * [2024-05-21, 16:31:08](https://news.ycombinator.com/item?id=40430603) - [Why Your Wi-Fi Router Doubles as an Apple AirTag](https://krebsonsecurity.com/2024/05/why-your-wi-fi-router-doubles-as-an-apple-airtag/)
@@ -28,7 +29,6 @@
 * [2024-05-18, 04:03:48](https://news.ycombinator.com/item?id=40396373) - [A fire 2,200 years ago preserved moment in Iron Age, down to a gold earring](https://phys.org/news/2024-05-devastating-years-moment-life-war.html)
 * [2024-05-17, 21:43:19](https://news.ycombinator.com/item?id=40394462) - [Matryoshka Representation Learning with CLIP](https://www.marqo.ai/blog/matryoshka-representation-learning-with-clip-for-multimodal-retrieval-and-ranking)
 * [2024-05-17, 20:17:34](https://news.ycombinator.com/item?id=40393798) - [Show HN: I recreated Jeffery Ventrella's \"Particle Life\"](https://particle-life.koenvangilst.nl/)
-* [2024-05-17, 15:26:54](https://news.ycombinator.com/item?id=40390941) - [The Vietnamese Computer Scientist Who Made Toy Story Possible](https://time.com/6974656/toy-story-vietnam-war/)
 * [2024-05-16, 20:46:37](https://news.ycombinator.com/item?id=40382922) - [Frog or Toad?](https://downpour.games/~joenash/frog-or-toad?p=gi3)
 
 ## [Archives](archives/index.md)
