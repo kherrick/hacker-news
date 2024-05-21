@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2024-05-21, 00:14:12",
-      "https://news.ycombinator.com/item?id=40422359"
-    ],
-    [
-      "Restoring an Apple Silicon Developer Transition Kit \"DTK\" Mac Mini [video]",
-      "https://www.youtube.com/watch?v=reQq8fx4D0Q"
-    ]
-  ],
-  [
-    [
       "2024-05-20, 23:23:15",
       "https://news.ycombinator.com/item?id=40421851"
     ],
@@ -247,6 +237,16 @@
     [
       "Show HN: Optigraph – optimum graph network generator",
       "https://github.com/LovetheFrogs/OptiGraph"
+    ]
+  ],
+  [
+    [
+      "2024-05-19, 06:44:04",
+      "https://news.ycombinator.com/item?id=40404752"
+    ],
+    [
+      "waxolotl – a small language that compiles to WebAssembly text format",
+      "https://github.com/eliot-akira/waxolotl"
     ]
   ],
   [
