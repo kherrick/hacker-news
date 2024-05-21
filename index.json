@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-05-21, 16:14:06",
+      "https://news.ycombinator.com/item?id=40430381"
+    ],
+    [
+      "Backblaze Scales Storage Cloud",
+      "https://www.backblaze.com/blog/how-backblaze-scales-our-storage-cloud/"
+    ]
+  ],
+  [
+    [
       "2024-05-21, 16:07:02",
       "https://news.ycombinator.com/item?id=40430282"
     ],
     [
       "AI Startups Are Making Their Home in New York",
       "https://www.wsj.com/articles/ai-startups-are-making-their-home-in-new-york-can-they-turn-it-into-an-aipowerhouse-bd5dab78"
+    ]
+  ],
+  [
+    [
+      "2024-05-21, 16:03:18",
+      "https://news.ycombinator.com/item?id=40430230"
+    ],
+    [
+      "Microsoft's AI will be inside Minecraft, and other Xbox, PC games",
+      "https://www.windowscentral.com/microsoft/microsofts-ai-will-be-inside-minecraft-and-other-xbox-pc-games-new-copilot-features-will-search-your-inventories-offer-tips-and-guides"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "CADmium: A Local-First CAD Program Built for the Browser",
       "https://mattferraro.dev/posts/cadmium"
-    ]
-  ],
-  [
-    [
-      "2024-05-21, 13:44:08",
-      "https://news.ycombinator.com/item?id=40428419"
-    ],
-    [
-      "“Dark money” groups help private ISPs lobby against municipal broadband",
-      "https://arstechnica.com/tech-policy/2024/05/how-dark-money-groups-help-private-isps-lobby-against-municipal-broadband/"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2024-05-21, 08:20:02",
-      "https://news.ycombinator.com/item?id=40425504"
-    ],
-    [
-      "AI Needs Enormous Computing Power. Could Light-Based Chips Help?",
-      "https://www.quantamagazine.org/ai-needs-enormous-computing-power-could-light-based-chips-help-20240520/"
-    ]
-  ],
-  [
-    [
       "2024-05-21, 05:33:52",
       "https://news.ycombinator.com/item?id=40424536"
     ],
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2024-05-17, 21:43:19",
+      "https://news.ycombinator.com/item?id=40394462"
+    ],
+    [
+      "Matryoshka Representation Learning with CLIP",
+      "https://www.marqo.ai/blog/matryoshka-representation-learning-with-clip-for-multimodal-retrieval-and-ranking"
+    ]
+  ],
+  [
+    [
       "2024-05-17, 21:08:18",
       "https://news.ycombinator.com/item?id=40394241"
     ],
@@ -287,16 +297,6 @@
     [
       "The Vietnamese Computer Scientist Who Made Toy Story Possible",
       "https://time.com/6974656/toy-story-vietnam-war/"
-    ]
-  ],
-  [
-    [
-      "2024-05-17, 01:58:19",
-      "https://news.ycombinator.com/item?id=40385562"
-    ],
-    [
-      "Formatted spreadsheets can still work in R",
-      "https://luisdva.github.io/rstats/problematic-spreadsheets/"
     ]
   ]
 ]
