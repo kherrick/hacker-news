@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-21](index.md)
 
+* [2024-05-21, 20:32:30](https://news.ycombinator.com/item?id=40433511) - [Wikimedia Enterprise – APIs for LLMs, AI Training, and More](https://enterprise.wikimedia.com/)
 * [2024-05-21, 20:21:39](https://news.ycombinator.com/item?id=40433384) - [Apple needs to explain that bug that resurfaced deleted photos](https://www.theverge.com/2024/5/20/24161152/apple-ios-17-photo-bug)
 * [2024-05-21, 20:03:25](https://news.ycombinator.com/item?id=40433164) - [What's New in Kotlin 2.0.0](https://kotlinlang.org/docs/whatsnew20.html)
 * [2024-05-21, 19:49:59](https://news.ycombinator.com/item?id=40433000) - [Show HN: An online billboard I built in 2 weeks](https://billboardgrid.com)
