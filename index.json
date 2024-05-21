@@ -1,22 +1,22 @@
 [
   [
     [
+      "2024-05-21, 22:11:05",
+      "https://news.ycombinator.com/item?id=40434680"
+    ],
+    [
+      "Continue (YC S23) is hiring a founding engineer in San Francisco",
+      "https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer"
+    ]
+  ],
+  [
+    [
       "2024-05-21, 21:15:31",
       "https://news.ycombinator.com/item?id=40434049"
     ],
     [
       "Dyson Sphere Candidates from Gaia DR3, 2MASS, and Wise",
       "https://academic.oup.com/mnras/article/531/1/695/7665761"
-    ]
-  ],
-  [
-    [
-      "2024-05-21, 21:00:45",
-      "https://news.ycombinator.com/item?id=40433861"
-    ],
-    [
-      "EasyPost (YC S13) Is Hiring",
-      "https://www.easypost.com/careers"
     ]
   ],
   [
@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-05-21, 19:27:19",
-      "https://news.ycombinator.com/item?id=40432723"
-    ],
-    [
-      "Simplified Embedded Rust Book Released",
-      "https://www.theembeddedrustacean.com/c/ser-std"
-    ]
-  ],
-  [
-    [
       "2024-05-21, 19:23:59",
       "https://news.ycombinator.com/item?id=40432688"
     ],
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=40432656"
     ],
     [
-      "Semantic Note-Taking",
+      "Semantic note-taking",
       "https://cceckman.com/writing/notes/"
     ]
   ],
@@ -101,6 +91,16 @@
   ],
   [
     [
+      "2024-05-21, 17:41:39",
+      "https://news.ycombinator.com/item?id=40431444"
+    ],
+    [
+      "Firefox bug gets fixed after 25 years",
+      "https://bugzilla.mozilla.org/show_bug.cgi?id=33654"
+    ]
+  ],
+  [
+    [
       "2024-05-21, 17:19:46",
       "https://news.ycombinator.com/item?id=40431210"
     ],
@@ -127,6 +127,16 @@
     [
       "The Effects of Early Relational Trauma (2001) [pdf]",
       "https://www.allanschore.com/pdf/SchoreIMHJTrauma01.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-05-21, 15:41:04",
+      "https://news.ycombinator.com/item?id=40429878"
+    ],
+    [
+      "Fast real time fluid simulator based on MPM algorithm",
+      "https://kotsoft.github.io/"
     ]
   ],
   [
@@ -275,7 +285,7 @@
       "https://news.ycombinator.com/item?id=40405805"
     ],
     [
-      "Whitepaper on Format String Attacks (2000)",
+      "Format String Attacks (2000)",
       "https://seclists.org/bugtraq/2000/Sep/214"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "The prospects for 128 bit processors (John R. Mashey, 1995)",
       "https://yarchive.net/comp/128bit.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-17, 20:17:34",
-      "https://news.ycombinator.com/item?id=40393798"
-    ],
-    [
-      "Show HN: I recreated Jeffery Ventrella's \"Particle Life\"",
-      "https://particle-life.koenvangilst.nl/"
     ]
   ]
 ]
