@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-21, 22:25:56](https://news.ycombinator.com/item?id=40434800) - [Sam Altman Is Showing Us Who He Really Is](https://slate.com/technology/2024/05/scarlett-johansson-ai-voice-sam-altman-openai.html)
 * [2024-05-21, 22:21:35](https://news.ycombinator.com/item?id=40434766) - [Clever code is probably the worst code you could write](https://read.engineerscodex.com/p/clever-code-is-probably-the-worst)
 * [2024-05-21, 22:11:05](https://news.ycombinator.com/item?id=40434680) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-05-21, 21:15:31](https://news.ycombinator.com/item?id=40434049) - [Dyson Sphere Candidates from Gaia DR3, 2MASS, and Wise](https://academic.oup.com/mnras/article/531/1/695/7665761)
 * [2024-05-21, 20:32:30](https://news.ycombinator.com/item?id=40433511) - [Wikimedia Enterprise – APIs for LLMs, AI Training, and More](https://enterprise.wikimedia.com/)
+* [2024-05-21, 20:25:46](https://news.ycombinator.com/item?id=40433425) - [Windows Copilot Runtime](https://blogs.windows.com/windowsdeveloper/2024/05/21/unlock-a-new-era-of-innovation-with-windows-copilot-runtime-and-copilot-pcs/)
 * [2024-05-21, 19:36:36](https://news.ycombinator.com/item?id=40432834) - [Storing knowledge in a single long plain text file](https://breckyunits.com/scrollsets.html)
 * [2024-05-21, 19:23:59](https://news.ycombinator.com/item?id=40432688) - [Gordon Bell has died](https://arstechnica.com/gadgets/2024/05/gordon-bell-an-architect-of-our-digital-age-dies-at-age-89/)
 * [2024-05-21, 19:21:36](https://news.ycombinator.com/item?id=40432656) - [Semantic note-taking](https://cceckman.com/writing/notes/)
