@@ -64,6 +64,7 @@
 * [2024-05-19, 11:33:43](https://news.ycombinator.com/item?id=40406194) - [Compilers for Free with Weval](https://bernsteinbear.com/blog/weval/)
 * [2024-05-19, 10:43:52](https://news.ycombinator.com/item?id=40405923) - [4K 1000Hz Monitor Exhibited](https://blurbusters.com/displayweek-2024-news-4k-1000hz-monitor-exhibited-and-new-blur-busters-display-tester/)
 * [2024-05-19, 10:22:45](https://news.ycombinator.com/item?id=40405829) - [Overflow in Consistent Hashing](https://rmarcus.info/blog/2018/09/14/consistent-hashing-overflow.html)
+* [2024-05-19, 10:18:16](https://news.ycombinator.com/item?id=40405805) - [Whitepaper on Format String Attacks (2000)](https://seclists.org/bugtraq/2000/Sep/214)
 * [2024-05-19, 10:10:17](https://news.ycombinator.com/item?id=40405772) - [Scrabble and the Nature of Expertise (2015)](https://www.scientificamerican.com/article/winning-scrabble-and-the-nature-of-expertise/)
 * [2024-05-19, 10:10:01](https://news.ycombinator.com/item?id=40405769) - [Chess and 18th Century artificial intelligence (2013)](https://www.bbc.com/news/magazine-21876120)
 * [2024-05-19, 10:08:37](https://news.ycombinator.com/item?id=40405763) - [You could have invented fractional cascading](http://blog.ezyang.com/2012/03/you-could-have-invented-fractional-cascading/)
