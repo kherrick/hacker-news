@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-05-21, 15:30:45",
-      "https://news.ycombinator.com/item?id=40429723"
+      "2024-05-21, 16:07:02",
+      "https://news.ycombinator.com/item?id=40430282"
     ],
     [
-      "U.S. Congress Live Net Worth Tracker",
-      "https://www.quiverquant.com/congress-live-net-worth/"
+      "AI Startups Are Making Their Home in New York",
+      "https://www.wsj.com/articles/ai-startups-are-making-their-home-in-new-york-can-they-turn-it-into-an-aipowerhouse-bd5dab78"
     ]
   ],
   [
@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-05-21, 14:54:57",
-      "https://news.ycombinator.com/item?id=40429275"
-    ],
-    [
-      "How Shadow Banning Can Silently Shift Opinion Online",
-      "https://insights.som.yale.edu/insights/how-shadow-banning-can-silently-shift-opinion-online"
-    ]
-  ],
-  [
-    [
       "2024-05-21, 14:47:42",
       "https://news.ycombinator.com/item?id=40429200"
     ],
@@ -57,6 +47,16 @@
     [
       "CADmium: A Local-First CAD Program Built for the Browser",
       "https://mattferraro.dev/posts/cadmium"
+    ]
+  ],
+  [
+    [
+      "2024-05-21, 13:44:08",
+      "https://news.ycombinator.com/item?id=40428419"
+    ],
+    [
+      "“Dark money” groups help private ISPs lobby against municipal broadband",
+      "https://arstechnica.com/tech-policy/2024/05/how-dark-money-groups-help-private-isps-lobby-against-municipal-broadband/"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2024-05-17, 18:43:49",
-      "https://news.ycombinator.com/item?id=40393005"
-    ],
-    [
-      "Show HN: Slice Tap Toy",
-      "https://memalign.github.io/m/slice/index.html"
-    ]
-  ],
-  [
-    [
       "2024-05-17, 15:26:54",
       "https://news.ycombinator.com/item?id=40390941"
     ],
     [
       "The Vietnamese Computer Scientist Who Made Toy Story Possible",
       "https://time.com/6974656/toy-story-vietnam-war/"
+    ]
+  ],
+  [
+    [
+      "2024-05-17, 01:58:19",
+      "https://news.ycombinator.com/item?id=40385562"
+    ],
+    [
+      "Formatted spreadsheets can still work in R",
+      "https://luisdva.github.io/rstats/problematic-spreadsheets/"
     ]
   ]
 ]
