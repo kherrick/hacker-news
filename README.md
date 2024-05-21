@@ -2,12 +2,12 @@
 
 * [2024-05-21, 08:06:24](https://news.ycombinator.com/item?id=40425403) - [The OpenAI board was right – No (by a voice actres named Scarlet) means No](https://garymarcus.substack.com/p/the-openai-board-was-right)
 * [2024-05-21, 07:55:16](https://news.ycombinator.com/item?id=40425315) - [CamelCase vs. Snake_case Scientific Studies](https://whatheco.de/2011/02/10/camelcase-vs-underscores-scientific-showdown/)
-* [2024-05-21, 07:53:56](https://news.ycombinator.com/item?id=40425306) - [Microsoft's AI chatbot will 'recall' everything you do on its new PCs](https://www.theguardian.com/technology/article/2024/may/20/microsoft-chatbot-assistant-pc)
 * [2024-05-21, 07:38:12](https://news.ycombinator.com/item?id=40425221) - [Which Electric Cars Have Bidirectional Charging (V2L, V2G, V2H)](https://zecar.com/resources/which-electric-cars-have-bidirectional-charging)
 * [2024-05-21, 07:00:05](https://news.ycombinator.com/item?id=40425039) - [Langfuse (YC W23) is hiring engineers in Berlin: open-source LLM devtool](https://github.com/langfuse/langfuse/blob/main/careers)
 * [2024-05-21, 06:52:56](https://news.ycombinator.com/item?id=40424982) - [Erlang/OTP 27 Highlights](https://www.erlang.org/blog/highlights-otp-27/)
 * [2024-05-21, 05:33:52](https://news.ycombinator.com/item?id=40424536) - [How Might We Learn?](https://andymatuschak.org/hmwl/)
 * [2024-05-21, 04:56:07](https://news.ycombinator.com/item?id=40424304) - [Shipbreaking](https://www.edwardburtynsky.com/projects/photographs/shipbreaking)
+* [2024-05-21, 03:34:51](https://news.ycombinator.com/item?id=40423799) - [Comparing Crestmonts: No L3 Hurts](https://chipsandcheese.com/2024/05/20/comparing-crestmonts-no-l3-hurts/)
 * [2024-05-21, 03:23:38](https://news.ycombinator.com/item?id=40423746) - [Modos Paper Monitor Pre-Launch on Crowd Supply](https://www.modos.tech/blog/modos-paper-monitor-pre-launch-on-crowd-supply)
 * [2024-05-21, 01:37:53](https://news.ycombinator.com/item?id=40423082) - [Chameleon: Meta's New Multi-Modal LLM](https://arxiv.org/abs/2405.09818)
 * [2024-05-21, 01:26:58](https://news.ycombinator.com/item?id=40422997) - [Regular expression matching can be simple and fast (2007)](https://swtch.com/%7Ersc/regexp/regexp1.html)
