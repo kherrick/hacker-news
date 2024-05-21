@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-21, 15:30:45](https://news.ycombinator.com/item?id=40429723) - [U.S. Congress Live Net Worth Tracker](https://www.quiverquant.com/congress-live-net-worth/)
+* [2024-05-21, 16:07:02](https://news.ycombinator.com/item?id=40430282) - [AI Startups Are Making Their Home in New York](https://www.wsj.com/articles/ai-startups-are-making-their-home-in-new-york-can-they-turn-it-into-an-aipowerhouse-bd5dab78)
 * [2024-05-21, 15:05:53](https://news.ycombinator.com/item?id=40429420) - [Underwater acoustic analysis reveals unique pressure signals – Revisiting MH370](https://www.nature.com/articles/s41598-024-60529-1)
 * [2024-05-21, 14:58:34](https://news.ycombinator.com/item?id=40429326) - [Mapping the Mind of a Large Language Model](https://www.anthropic.com/research/mapping-mind-language-model)
-* [2024-05-21, 14:54:57](https://news.ycombinator.com/item?id=40429275) - [How Shadow Banning Can Silently Shift Opinion Online](https://insights.som.yale.edu/insights/how-shadow-banning-can-silently-shift-opinion-online)
 * [2024-05-21, 14:47:42](https://news.ycombinator.com/item?id=40429200) - [Show HN: I built a game to help you learn neural network architectures](https://graphgame.sabrina.dev/)
 * [2024-05-21, 14:19:56](https://news.ycombinator.com/item?id=40428827) - [CADmium: A Local-First CAD Program Built for the Browser](https://mattferraro.dev/posts/cadmium)
+* [2024-05-21, 13:44:08](https://news.ycombinator.com/item?id=40428419) - [“Dark money” groups help private ISPs lobby against municipal broadband](https://arstechnica.com/tech-policy/2024/05/how-dark-money-groups-help-private-isps-lobby-against-municipal-broadband/)
 * [2024-05-21, 13:41:39](https://news.ycombinator.com/item?id=40428386) - [What UI density means and how to design for it](https://matthewstrom.com/writing/ui-density/)
 * [2024-05-21, 13:05:08](https://news.ycombinator.com/item?id=40427973) - [40-Year old BASICA utility code for teaching](https://github.com/norton120/educator-tools-87)
 * [2024-05-21, 12:55:00](https://news.ycombinator.com/item?id=40427851) - [Rare things become common at scale](https://longform.asmartbear.com/scale-rare/)
@@ -28,8 +28,8 @@
 * [2024-05-18, 04:03:48](https://news.ycombinator.com/item?id=40396373) - [A fire 2,200 years ago preserved moment in Iron Age, down to a gold earring](https://phys.org/news/2024-05-devastating-years-moment-life-war.html)
 * [2024-05-18, 00:23:25](https://news.ycombinator.com/item?id=40395467) - [The Reign of Alexander III of Macedon](https://acoup.blog/2024/05/17/collections-on-the-reign-of-alexander-iii-of-macedon-the-great/)
 * [2024-05-17, 21:08:18](https://news.ycombinator.com/item?id=40394241) - [Falling in love again with disposable cameras](https://www.washingtonpost.com/style/of-interest/2024/03/13/disposable-cameras-gen-z/)
-* [2024-05-17, 18:43:49](https://news.ycombinator.com/item?id=40393005) - [Show HN: Slice Tap Toy](https://memalign.github.io/m/slice/index.html)
 * [2024-05-17, 15:26:54](https://news.ycombinator.com/item?id=40390941) - [The Vietnamese Computer Scientist Who Made Toy Story Possible](https://time.com/6974656/toy-story-vietnam-war/)
+* [2024-05-17, 01:58:19](https://news.ycombinator.com/item?id=40385562) - [Formatted spreadsheets can still work in R](https://luisdva.github.io/rstats/problematic-spreadsheets/)
 
 ## [Archives](archives/index.md)
 
