@@ -1,9 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-21, 21:02:50](https://news.ycombinator.com/item?id=40433884) - [How the new Microsoft Recall feature fundamentally undermines Windows security](https://doublepulsar.com/how-the-new-microsoft-recall-feature-fundamentally-undermines-windows-security-aa072829f218)
 * [2024-05-21, 21:00:45](https://news.ycombinator.com/item?id=40433861) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-05-21, 20:32:30](https://news.ycombinator.com/item?id=40433511) - [Wikimedia Enterprise – APIs for LLMs, AI Training, and More](https://enterprise.wikimedia.com/)
-* [2024-05-21, 20:11:32](https://news.ycombinator.com/item?id=40433266) - [Ask HN: Why don't VCs just \"suck it up\" and pay founders a competitive salary?](https://news.ycombinator.com/item?id=40433266)
 * [2024-05-21, 19:36:36](https://news.ycombinator.com/item?id=40432834) - [Storing knowledge in a single long plain text file](https://breckyunits.com/scrollsets.html)
 * [2024-05-21, 19:27:19](https://news.ycombinator.com/item?id=40432723) - [Simplified Embedded Rust Book Released](https://www.theembeddedrustacean.com/c/ser-std)
 * [2024-05-21, 19:23:59](https://news.ycombinator.com/item?id=40432688) - [Gordon Bell has died](https://arstechnica.com/gadgets/2024/05/gordon-bell-an-architect-of-our-digital-age-dies-at-age-89/)
@@ -19,6 +17,7 @@
 * [2024-05-21, 14:19:56](https://news.ycombinator.com/item?id=40428827) - [CADmium: A local-first CAD program built for the browser](https://mattferraro.dev/posts/cadmium)
 * [2024-05-21, 13:41:39](https://news.ycombinator.com/item?id=40428386) - [What UI density means and how to design for it](https://matthewstrom.com/writing/ui-density/)
 * [2024-05-21, 13:05:08](https://news.ycombinator.com/item?id=40427973) - [40-Year old BASICA utility code for teaching](https://github.com/norton120/educator-tools-87)
+* [2024-05-21, 11:37:27](https://news.ycombinator.com/item?id=40426995) - [We created the first open source implementation of Meta's TestGen–LLM](https://www.codium.ai/blog/we-created-the-first-open-source-implementation-of-metas-testgen-llm/)
 * [2024-05-21, 11:21:35](https://news.ycombinator.com/item?id=40426890) - [Images that Sound: Generating spectrograms that are also images](https://ificl.github.io/images-that-sound/)
 * [2024-05-21, 10:16:06](https://news.ycombinator.com/item?id=40426442) - [Gifski: Optimized GIF Encoder](https://github.com/ImageOptim/gifski)
 * [2024-05-21, 10:05:56](https://news.ycombinator.com/item?id=40426382) - [Building an AI game studio: what we've learned so far](https://braindump.me/blog-posts/building-an-ai-game-studio)
@@ -29,6 +28,7 @@
 * [2024-05-19, 12:36:22](https://news.ycombinator.com/item?id=40406548) - [Shadow Robot’s three-fingered hand is robust enough for reinforcement learning](https://spectrum.ieee.org/robot-hand-shadow-robot-company)
 * [2024-05-19, 10:18:16](https://news.ycombinator.com/item?id=40405805) - [Whitepaper on Format String Attacks (2000)](https://seclists.org/bugtraq/2000/Sep/214)
 * [2024-05-19, 08:55:00](https://news.ycombinator.com/item?id=40405426) - [The prospects for 128 bit processors (John R. Mashey, 1995)](https://yarchive.net/comp/128bit.html)
+* [2024-05-17, 21:43:19](https://news.ycombinator.com/item?id=40394462) - [Matryoshka Representation Learning with CLIP](https://www.marqo.ai/blog/matryoshka-representation-learning-with-clip-for-multimodal-retrieval-and-ranking)
 * [2024-05-17, 20:17:34](https://news.ycombinator.com/item?id=40393798) - [Show HN: I recreated Jeffery Ventrella's \"Particle Life\"](https://particle-life.koenvangilst.nl/)
 
 ## [Archives](archives/index.md)
