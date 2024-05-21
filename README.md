@@ -11,7 +11,6 @@
 * [2024-05-20, 23:23:15](https://news.ycombinator.com/item?id=40421851) - [Dual antibacterial properties of copper-coated nanotextured stainless steel](https://onlinelibrary.wiley.com/doi/10.1002/smll.202311546)
 * [2024-05-20, 23:13:52](https://news.ycombinator.com/item?id=40421762) - [I Love Laravel (2022)](https://ben.page/laravel)
 * [2024-05-20, 22:28:27](https://news.ycombinator.com/item?id=40421225) - [Statement from Scarlett Johansson on the OpenAI \"Sky\" voice](https://twitter.com/BobbyAllyn/status/1792679435701014908)
-* [2024-05-20, 22:01:54](https://news.ycombinator.com/item?id=40420968) - [Google cuts mystery check to US in bid to sidestep jury trial](https://www.reuters.com/legal/government/google-cuts-mystery-check-us-bid-sidestep-jury-trial-2024-05-20/)
 * [2024-05-20, 21:00:26](https://news.ycombinator.com/item?id=40420323) - [Etleap (YC W13) Is Hiring Software Engineer – Integrations (Remote in Brazil)](https://etleap.com/careers/software-engineer-integrations/)
 * [2024-05-20, 20:23:02](https://news.ycombinator.com/item?id=40419856) - [Enlightenmentware](https://mmapped.blog/posts/28-enlightenmentware.html)
 * [2024-05-20, 19:37:12](https://news.ycombinator.com/item?id=40419325) - [How terminal works. Part 1: Xterm, user input](https://kevroletin.github.io/terminal/2021/12/11/how-terminal-works-in.html)
@@ -29,6 +28,7 @@
 * [2024-05-18, 00:23:25](https://news.ycombinator.com/item?id=40395467) - [The Reign of Alexander III of Macedon, the Great?](https://acoup.blog/2024/05/17/collections-on-the-reign-of-alexander-iii-of-macedon-the-great/)
 * [2024-05-17, 23:25:26](https://news.ycombinator.com/item?id=40395105) - [Sierra was captured, then killed, by an accounting fraud (2020)](https://www.vice.com/en/article/z3vem8/inside-story-sierra-online-death-cuc-cendant-fraud)
 * [2024-05-17, 16:31:33](https://news.ycombinator.com/item?id=40391627) - [Glewbot scales buildings like a gecko to inspect wall tiles](https://blog.arduino.cc/2024/05/11/glewbot-scales-buildings-like-a-gecko/)
+* [2024-05-17, 12:08:01](https://news.ycombinator.com/item?id=40389006) - [Colorless green DNNs sleep furiously in an unexplainable fantasy](https://cacm.acm.org/blogcacm/when-colorless-green-dnns-sleep-furiously-in-an-unexplainable-fantasy/)
 * [2024-05-17, 01:58:19](https://news.ycombinator.com/item?id=40385562) - [Formatted spreadsheets can still work in R](https://luisdva.github.io/rstats/problematic-spreadsheets/)
 
 ## [Archives](archives/index.md)
