@@ -85,6 +85,7 @@
 * [2024-05-20, 10:09:45](https://news.ycombinator.com/item?id=40413931) - [Konrad Zuse's Homepage](https://web.archive.org/web/20090214083953/http://user.cs.tu-berlin.de/~zuse/Konrad_Zuse/index.html)
 * [2024-05-20, 10:01:36](https://news.ycombinator.com/item?id=40413891) - [Uber Migrates 1T Records from DynamoDB to LedgerStore to Save $6M Annually](https://www.infoq.com/news/2024/05/uber-dynamodb-ledgerstore/)
 * [2024-05-20, 10:01:36](https://news.ycombinator.com/item?id=40413891) - [Migrating Uber's ledger data from DynamoDB to LedgerStore](https://www.uber.com/blog/migrating-from-dynamodb-to-ledgerstore/)
+* [2024-05-20, 09:58:09](https://news.ycombinator.com/item?id=40413869) - [Eudyptula Challenge](https://lwn.net/Articles/599231/)
 * [2024-05-20, 09:25:52](https://news.ycombinator.com/item?id=40413706) - [British engineering giant Arup revealed as $25M deepfake scam victim](https://www.cnn.com/2024/05/16/tech/arup-deepfake-scam-loss-hong-kong-intl-hnk/index.html)
 * [2024-05-20, 06:34:42](https://news.ycombinator.com/item?id=40412903) - [How the voices for ChatGPT were chosen](https://openai.com/index/how-the-voices-for-chatgpt-were-chosen/)
 * [2024-05-20, 05:24:39](https://news.ycombinator.com/item?id=40412522) - [After 47 Years, Apple Is Making a Bittersweet Change. It's the End of an Era](https://www.inc.com/jason-aten/after-47-years-apple-is-making-a-bittersweet-change-its-truly-end-of-an-era.html)
