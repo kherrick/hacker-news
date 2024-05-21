@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-05-21, 14:11:21",
-      "https://news.ycombinator.com/item?id=40428734"
-    ],
-    [
-      "Microsoft Has Lost Its Mind–$450 for a Keyboard, AI Button Included",
-      "https://www.techpowerup.com/322649/microsoft-has-lost-its-mind-usd-450-for-a-keyboard-ai-button-included"
-    ]
-  ],
-  [
-    [
       "2024-05-21, 13:44:08",
       "https://news.ycombinator.com/item?id=40428419"
     ],
@@ -107,16 +97,6 @@
     [
       "Gifski: Optimized GIF Encoder",
       "https://github.com/ImageOptim/gifski"
-    ]
-  ],
-  [
-    [
-      "2024-05-21, 10:10:10",
-      "https://news.ycombinator.com/item?id=40426406"
-    ],
-    [
-      "Window Returns",
-      "https://stratechery.com/2024/windows-returns/"
     ]
   ],
   [
@@ -231,6 +211,16 @@
   ],
   [
     [
+      "2024-05-20, 18:36:53",
+      "https://news.ycombinator.com/item?id=40418591"
+    ],
+    [
+      "Rethinking Text Resizing on Web",
+      "https://medium.com/airbnb-engineering/rethinking-text-resizing-on-web-1047b12d2881"
+    ]
+  ],
+  [
+    [
       "2024-05-20, 16:44:13",
       "https://news.ycombinator.com/item?id=40417347"
     ],
@@ -261,16 +251,6 @@
   ],
   [
     [
-      "2024-05-19, 08:55:00",
-      "https://news.ycombinator.com/item?id=40405426"
-    ],
-    [
-      "The prospects for 128 bit processors (John R. Mashey, 1995)",
-      "https://yarchive.net/comp/128bit.html"
-    ]
-  ],
-  [
-    [
       "2024-05-19, 06:44:04",
       "https://news.ycombinator.com/item?id=40404752"
     ],
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2024-05-18, 00:23:25",
+      "https://news.ycombinator.com/item?id=40395467"
+    ],
+    [
+      "The Reign of Alexander III of Macedon, the Great?",
+      "https://acoup.blog/2024/05/17/collections-on-the-reign-of-alexander-iii-of-macedon-the-great/"
+    ]
+  ],
+  [
+    [
       "2024-05-17, 15:26:54",
       "https://news.ycombinator.com/item?id=40390941"
     ],
     [
       "The Vietnamese Computer Scientist Who Made Toy Story Possible",
       "https://time.com/6974656/toy-story-vietnam-war/"
+    ]
+  ],
+  [
+    [
+      "2024-05-17, 01:58:19",
+      "https://news.ycombinator.com/item?id=40385562"
+    ],
+    [
+      "Formatted spreadsheets can still work in R",
+      "https://luisdva.github.io/rstats/problematic-spreadsheets/"
     ]
   ]
 ]
