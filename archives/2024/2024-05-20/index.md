@@ -75,6 +75,7 @@
 * [2024-05-20, 12:07:58](https://news.ycombinator.com/item?id=40414565) - [How a 64k intro is made (2017)](https://www.lofibucket.com/articles/64k_intro.html)
 * [2024-05-20, 11:41:08](https://news.ycombinator.com/item?id=40414404) - [Kevin Buzzard on Grothendieck's use of equality](https://arxiv.org/abs/2405.10387)
 * [2024-05-20, 11:39:08](https://news.ycombinator.com/item?id=40414388) - [This USB flash drive can only store 8KB of data, but will last you 200 years](https://www.tomshardware.com/pc-components/usb-flash-drives/this-usb-flash-drive-can-only-store-8kb-of-data-but-will-last-you-200-years)
+* [2024-05-20, 11:30:53](https://news.ycombinator.com/item?id=40414348) - [Install Alpine Linux on FreeBSD Jail](https://it-notes.dragas.net/2024/01/18/installing-alpine-linux-on-a-freebsd-jail/)
 * [2024-05-20, 11:27:34](https://news.ycombinator.com/item?id=40414329) - [ICC seeks arrest warrants against Sinwar and Netanyahu for war crimes](https://www.cnn.com/2024/05/20/middleeast/icc-israel-hamas-arrest-warrant-war-crimes-intl/index.html)
 * [2024-05-20, 11:25:11](https://news.ycombinator.com/item?id=40414316) - [3M Execs Convinced a Scientist PFOS Found in Human Blood Were Safe](https://www.propublica.org/article/3m-forever-chemicals-pfas-pfos-inside-story)
 * [2024-05-20, 11:19:28](https://news.ycombinator.com/item?id=40414288) - [Linux 6.10 Will Print the Number of Populated Memory Slots at Boot Time](https://www.phoronix.com/news/Linux-6.10-Prints-Memory-Slots)
