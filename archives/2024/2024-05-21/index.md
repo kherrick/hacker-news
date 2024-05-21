@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-21](index.md)
 
+* [2024-05-21, 14:11:21](https://news.ycombinator.com/item?id=40428734) - [Microsoft Has Lost Its Mind–$450 for a Keyboard, AI Button Included](https://www.techpowerup.com/322649/microsoft-has-lost-its-mind-usd-450-for-a-keyboard-ai-button-included)
 * [2024-05-21, 13:44:08](https://news.ycombinator.com/item?id=40428419) - [How \"dark money\" groups help private ISPs lobby against municipal broadband](https://arstechnica.com/tech-policy/2024/05/how-dark-money-groups-help-private-isps-lobby-against-municipal-broadband/)
+* [2024-05-21, 13:41:39](https://news.ycombinator.com/item?id=40428386) - [What UI density means and how to design for it](https://matthewstrom.com/writing/ui-density/)
 * [2024-05-21, 13:05:08](https://news.ycombinator.com/item?id=40427973) - [40-Year old BASICA utility code for teaching](https://github.com/norton120/educator-tools-87)
 * [2024-05-21, 12:56:56](https://news.ycombinator.com/item?id=40427886) - [Cars and Consumer Data: On Unlawful Collection and Use](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2024/05/cars-consumer-data-unlawful-collection-use)
 * [2024-05-21, 12:00:25](https://news.ycombinator.com/item?id=40427195) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
@@ -12,6 +14,7 @@
 * [2024-05-21, 11:41:41](https://news.ycombinator.com/item?id=40427024) - ['Satoshi' impersonation 'a serious abuse of court's process' judge concludes](https://www.lawgazette.co.uk/news/satoshi-impersonation-a-serious-abuse-of-courts-process-judge-concludes/5119771.article)
 * [2024-05-21, 11:37:27](https://news.ycombinator.com/item?id=40426995) - [We created the first open source implementation of Meta's TestGen–LLM](https://www.codium.ai/blog/we-created-the-first-open-source-implementation-of-metas-testgen-llm/)
 * [2024-05-21, 11:22:00](https://news.ycombinator.com/item?id=40426894) - [the engineerguy: The Engineering of Duct Tape [video]](https://www.youtube.com/watch?v=E-F2QQuZZGk)
+* [2024-05-21, 11:21:35](https://news.ycombinator.com/item?id=40426890) - [Images that Sound: Generating spectrograms that are also images](https://ificl.github.io/images-that-sound/)
 * [2024-05-21, 11:13:13](https://news.ycombinator.com/item?id=40426842) - [One Dead After London-Singapore Flight Hit by Turbulence](https://www.bloomberg.com/news/articles/2024-05-21/singapore-air-flight-makes-emergency-landing-in-bangkok-1-dead)
 * [2024-05-21, 11:09:38](https://news.ycombinator.com/item?id=40426813) - [Trying out the Panel-of-Experts prompting strategy for LLMs](https://sourcery.ai/blog/panel-of-experts/)
 * [2024-05-21, 11:08:09](https://news.ycombinator.com/item?id=40426801) - [One dead as London-Singapore flight hit by turbulence](https://www.bbc.com/news/articles/c8889d7x8j4o)
