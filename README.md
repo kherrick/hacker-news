@@ -2,6 +2,8 @@
 
 * [2024-05-21, 11:08:09](https://news.ycombinator.com/item?id=40426801) - [One dead as London-Singapore flight hit by turbulence](https://www.bbc.com/news/articles/c8889d7x8j4o)
 * [2024-05-21, 10:55:54](https://news.ycombinator.com/item?id=40426711) - [Google announces Firebase Genkit with Ollama support](https://ollama.com/blog/firebase-genkit)
+* [2024-05-21, 10:55:10](https://news.ycombinator.com/item?id=40426705) - [C23 Implications for C Libraries](https://htmlpreview.github.io/?https://icube-forge.unistra.fr/icps/c23-library/-/raw/main/README.html)
+* [2024-05-21, 10:54:36](https://news.ycombinator.com/item?id=40426701) - [Going Dark: The war on encryption is on the rise](https://mullvad.net/en/why-privacy-matters/going-dark)
 * [2024-05-21, 07:55:16](https://news.ycombinator.com/item?id=40425315) - [CamelCase vs. Snake_case Scientific Studies](https://whatheco.de/2011/02/10/camelcase-vs-underscores-scientific-showdown/)
 * [2024-05-21, 07:38:12](https://news.ycombinator.com/item?id=40425221) - [Which Electric Cars Have Bidirectional Charging (V2L, V2G, V2H)](https://zecar.com/resources/which-electric-cars-have-bidirectional-charging)
 * [2024-05-21, 07:00:05](https://news.ycombinator.com/item?id=40425039) - [Langfuse (YC W23) is hiring engineers in Berlin: open-source LLM devtool](https://github.com/langfuse/langfuse/blob/main/careers)
@@ -19,9 +21,7 @@
 * [2024-05-20, 16:44:13](https://news.ycombinator.com/item?id=40417347) - [pg_timeseries: Open-source time-series extension for PostgreSQL](https://tembo.io/blog/pg-timeseries)
 * [2024-05-20, 14:46:48](https://news.ycombinator.com/item?id=40416109) - [City in a Bottle – A 256 Byte Raycasting System](https://frankforce.com/city-in-a-bottle-a-256-byte-raycasting-system/)
 * [2024-05-20, 11:41:08](https://news.ycombinator.com/item?id=40414404) - [Grothendieck’s use of equality](https://arxiv.org/abs/2405.10387)
-* [2024-05-20, 11:27:34](https://news.ycombinator.com/item?id=40414329) - [ICC prosecutor seeks arrest warrants against Sinwar and Netanyahu for war crimes](https://www.cnn.com/2024/05/20/middleeast/icc-israel-hamas-arrest-warrant-war-crimes-intl/index.html)
 * [2024-05-20, 09:58:09](https://news.ycombinator.com/item?id=40413869) - [Eudyptula Challenge (2014)](https://lwn.net/Articles/599231/)
-* [2024-05-20, 03:48:53](https://news.ycombinator.com/item?id=40412091) - [On the trail of my identity thief](https://www.msn.com/en-us/news/crime/an-identity-thief-stole-5000-from-me-i-spent-two-years-tracking-down-how/ar-BB1mqh0b)
 * [2024-05-19, 12:26:42](https://news.ycombinator.com/item?id=40406481) - [An Ode to Deluxe Paint (2023)](https://www.datagubbe.se/dpaint/)
 * [2024-05-19, 06:44:04](https://news.ycombinator.com/item?id=40404752) - [Waxolotl – A small language that compiles to WebAssembly text format](https://github.com/eliot-akira/waxolotl)
 * [2024-05-18, 03:55:39](https://news.ycombinator.com/item?id=40396347) - [A promising 3-terminal diode for wireless comm. and optically driven computing](https://techxplore.com/news/2024-05-terminal-diode-wireless-communication-optically.html)
