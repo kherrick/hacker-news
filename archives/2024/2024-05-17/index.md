@@ -80,6 +80,7 @@
 * [2024-05-17, 12:08:01](https://news.ycombinator.com/item?id=40389006) - [Colorless green DNNs sleep furiously in an unexplainable fantasy](https://cacm.acm.org/blogcacm/when-colorless-green-dnns-sleep-furiously-in-an-unexplainable-fantasy/)
 * [2024-05-17, 12:00:23](https://news.ycombinator.com/item?id=40388933) - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4360841006)
 * [2024-05-17, 11:19:29](https://news.ycombinator.com/item?id=40388655) - [HMT: Hierarchical Memory Transformer for Long Context Language Processing](https://arxiv.org/abs/2405.06067)
+* [2024-05-17, 10:24:02](https://news.ycombinator.com/item?id=40388311) - [Mysterious origin of domesticated horses 'turned upside down' by DNA analysis (2018)](https://www.independent.co.uk/news/science/horse-origin-mysterious-domestic-dna-analysis-przewalskis-botai-domesticated-a8224121.html)
 * [2024-05-17, 09:30:01](https://news.ycombinator.com/item?id=40388029) - [Many Searchers Want to Turn Off Google AI Overviews](https://www.seroundtable.com/searchers-want-to-turn-off-google-ai-overviews-37405.html)
 * [2024-05-17, 09:26:37](https://news.ycombinator.com/item?id=40388013) - [Why neural networks struggle with the Game of Life](https://bdtechtalks.com/2020/09/16/deep-learning-game-of-life/)
 * [2024-05-17, 09:24:52](https://news.ycombinator.com/item?id=40388002) - [OpenBSD – sshd(8) split into multiple binaries](https://www.undeadly.org/cgi?action=article;sid=20240517092416)
