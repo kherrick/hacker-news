@@ -6,6 +6,7 @@
 
 * [2024-05-21, 17:19:46](https://news.ycombinator.com/item?id=40431210) - [I Want Flexible Queries, Not RAG](https://win-vector.com/2024/05/21/i-want-flexible-queries-not-rag/)
 * [2024-05-21, 17:18:04](https://news.ycombinator.com/item?id=40431188) - [Athena Crisis Open Source](https://athenacrisis.com/open-source/)
+* [2024-05-21, 17:13:50](https://news.ycombinator.com/item?id=40431145) - [How to Turn Off AI Overview in Google and Set \"Web\" as Default](https://tenbluelinks.org/)
 * [2024-05-21, 17:00:45](https://news.ycombinator.com/item?id=40430972) - [Roame (YC S23) Is Hiring a Founding Back End Engineer](https://www.ycombinator.com/companies/roame/jobs/A2jJQvq-founding-backend-engineer)
 * [2024-05-21, 16:47:11](https://news.ycombinator.com/item?id=40430806) - [Nova explosion visible to the naked eye expected any day now](https://arstechnica.com/science/2024/05/if-you-can-see-the-big-dipper-youll-get-to-see-a-star-go-nova-soon/)
 * [2024-05-21, 16:29:52](https://news.ycombinator.com/item?id=40430586) - [A.I.'S Black Boxes Just Got a Little Less Mysterious](https://www.nytimes.com/2024/05/21/technology/ai-language-models-anthropic.html)
@@ -14,6 +15,7 @@
 * [2024-05-21, 16:07:02](https://news.ycombinator.com/item?id=40430282) - [AI Startups Are Making Their Home in New York](https://www.wsj.com/articles/ai-startups-are-making-their-home-in-new-york-can-they-turn-it-into-an-aipowerhouse-bd5dab78)
 * [2024-05-21, 16:03:18](https://news.ycombinator.com/item?id=40430230) - [Microsoft's AI will be inside Minecraft, and other Xbox, PC games](https://www.windowscentral.com/microsoft/microsofts-ai-will-be-inside-minecraft-and-other-xbox-pc-games-new-copilot-features-will-search-your-inventories-offer-tips-and-guides)
 * [2024-05-21, 15:30:45](https://news.ycombinator.com/item?id=40429723) - [U.S. Congress Live Net Worth Tracker](https://www.quiverquant.com/congress-live-net-worth/)
+* [2024-05-21, 15:25:05](https://news.ycombinator.com/item?id=40429649) - [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)
 * [2024-05-21, 15:19:00](https://news.ycombinator.com/item?id=40429581) - [US Business Booms and Depressions Since 1775 (1943)](https://fraser.stlouisfed.org/title/business-booms-depressions-since-1775-145)
 * [2024-05-21, 15:05:53](https://news.ycombinator.com/item?id=40429420) - [Underwater acoustic analysis reveals unique pressure signals – Revisiting MH370](https://www.nature.com/articles/s41598-024-60529-1)
 * [2024-05-21, 14:58:34](https://news.ycombinator.com/item?id=40429326) - [Mapping the Mind of a Large Language Model](https://www.anthropic.com/research/mapping-mind-language-model)

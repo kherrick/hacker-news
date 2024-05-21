@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-21, 17:19:46](https://news.ycombinator.com/item?id=40431210) - [I Want Flexible Queries, Not RAG](https://win-vector.com/2024/05/21/i-want-flexible-queries-not-rag/)
-* [2024-05-21, 17:18:04](https://news.ycombinator.com/item?id=40431188) - [Athena Crisis Open Source](https://athenacrisis.com/open-source/)
+* [2024-05-21, 17:13:50](https://news.ycombinator.com/item?id=40431145) - [How to Turn Off AI Overview in Google and Set \"Web\" as Default](https://tenbluelinks.org/)
 * [2024-05-21, 17:00:45](https://news.ycombinator.com/item?id=40430972) - [Roame (YC S23) is hiring a founding back end engineer](https://www.ycombinator.com/companies/roame/jobs/A2jJQvq-founding-backend-engineer)
 * [2024-05-21, 16:22:14](https://news.ycombinator.com/item?id=40430510) - [General Availability of .NET Aspire: Simplifying .NET Cloud-Native Development](https://devblogs.microsoft.com/dotnet/dotnet-aspire-general-availability/)
 * [2024-05-21, 16:14:06](https://news.ycombinator.com/item?id=40430381) - [Backblaze Scales Storage Cloud](https://www.backblaze.com/blog/how-backblaze-scales-our-storage-cloud/)
+* [2024-05-21, 15:25:05](https://news.ycombinator.com/item?id=40429649) - [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)
 * [2024-05-21, 15:19:00](https://news.ycombinator.com/item?id=40429581) - [US Business Booms and Depressions Since 1775 (1943)](https://fraser.stlouisfed.org/title/business-booms-depressions-since-1775-145)
 * [2024-05-21, 15:05:53](https://news.ycombinator.com/item?id=40429420) - [Underwater acoustic analysis reveals unique pressure signals – Revisiting MH370](https://www.nature.com/articles/s41598-024-60529-1)
 * [2024-05-21, 14:47:42](https://news.ycombinator.com/item?id=40429200) - [Show HN: I built a game to help you learn neural network architectures](https://graphgame.sabrina.dev/)
@@ -21,7 +21,6 @@
 * [2024-05-21, 09:10:46](https://news.ycombinator.com/item?id=40425905) - [Reversing Choplifter](https://blondihacks.com/reversing-choplifter/)
 * [2024-05-21, 05:33:52](https://news.ycombinator.com/item?id=40424536) - [How Might We Learn?](https://andymatuschak.org/hmwl/)
 * [2024-05-21, 04:56:07](https://news.ycombinator.com/item?id=40424304) - [Shipbreaking](https://www.edwardburtynsky.com/projects/photographs/shipbreaking)
-* [2024-05-21, 01:26:58](https://news.ycombinator.com/item?id=40422997) - [Regular expression matching can be simple and fast (2007)](https://swtch.com/%7Ersc/regexp/regexp1.html)
 * [2024-05-21, 01:17:35](https://news.ycombinator.com/item?id=40422940) - [Bento3D](https://polar-tadpole-97b.notion.site/Bento3D-e40483712b304d389d7c2da26196e113#d7f452d3ffd94cd1a0a9e70e361efb63)
 * [2024-05-19, 12:26:42](https://news.ycombinator.com/item?id=40406481) - [An Ode to Deluxe Paint (2023)](https://www.datagubbe.se/dpaint/)
 * [2024-05-19, 06:44:04](https://news.ycombinator.com/item?id=40404752) - [Waxolotl – A small language that compiles to WebAssembly text format](https://github.com/eliot-akira/waxolotl)
@@ -30,6 +29,7 @@
 * [2024-05-17, 21:43:19](https://news.ycombinator.com/item?id=40394462) - [Matryoshka Representation Learning with CLIP](https://www.marqo.ai/blog/matryoshka-representation-learning-with-clip-for-multimodal-retrieval-and-ranking)
 * [2024-05-17, 21:08:18](https://news.ycombinator.com/item?id=40394241) - [Falling in love again with disposable cameras](https://www.washingtonpost.com/style/of-interest/2024/03/13/disposable-cameras-gen-z/)
 * [2024-05-17, 15:26:54](https://news.ycombinator.com/item?id=40390941) - [The Vietnamese Computer Scientist Who Made Toy Story Possible](https://time.com/6974656/toy-story-vietnam-war/)
+* [2024-05-16, 20:46:37](https://news.ycombinator.com/item?id=40382922) - [Frog or Toad?](https://downpour.games/~joenash/frog-or-toad?p=gi3)
 
 ## [Archives](archives/index.md)
 
