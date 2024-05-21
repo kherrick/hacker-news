@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-05-21](index.md)
 
+* [2024-05-21, 20:21:39](https://news.ycombinator.com/item?id=40433384) - [Apple needs to explain that bug that resurfaced deleted photos](https://www.theverge.com/2024/5/20/24161152/apple-ios-17-photo-bug)
 * [2024-05-21, 20:03:25](https://news.ycombinator.com/item?id=40433164) - [What's New in Kotlin 2.0.0](https://kotlinlang.org/docs/whatsnew20.html)
 * [2024-05-21, 19:49:59](https://news.ycombinator.com/item?id=40433000) - [Show HN: An online billboard I built in 2 weeks](https://billboardgrid.com)
 * [2024-05-21, 19:36:36](https://news.ycombinator.com/item?id=40432834) - [Storing knowledge in a single long plain text file](https://breckyunits.com/scrollsets.html)
 * [2024-05-21, 19:23:59](https://news.ycombinator.com/item?id=40432688) - [Gordon Bell has died](https://arstechnica.com/gadgets/2024/05/gordon-bell-an-architect-of-our-digital-age-dies-at-age-89/)
 * [2024-05-21, 19:01:59](https://news.ycombinator.com/item?id=40432446) - [iTerm2 and AI Hype Overload](https://xeiaso.net/notes/2024/ai-hype/)
 * [2024-05-21, 18:53:23](https://news.ycombinator.com/item?id=40432337) - [Ask HN: How does modern FreeCAD compare with Solidworks?](https://news.ycombinator.com/item?id=40432337)
+* [2024-05-21, 18:43:50](https://news.ycombinator.com/item?id=40432213) - [An open-source alternative to Mixpanel](https://github.com/Openpanel-dev/openpanel)
 * [2024-05-21, 18:42:30](https://news.ycombinator.com/item?id=40432194) - [The number's up for 999. And 911. And 000. And 111](https://www.theregister.com/2023/07/03/the_numbers_up_for_999/)
 * [2024-05-21, 18:35:13](https://news.ycombinator.com/item?id=40432102) - [SMTP removes periods – the curious case of the missing period](https://tjaart.substack.com/p/the-curious-case-of-the-missing-period)
 * [2024-05-21, 18:22:28](https://news.ycombinator.com/item?id=40431939) - [Do you all realize that accessing to correct information+truth is getting hard?](https://news.ycombinator.com/item?id=40431939)
