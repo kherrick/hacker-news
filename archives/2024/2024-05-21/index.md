@@ -7,6 +7,7 @@
 * [2024-05-21, 08:09:23](https://news.ycombinator.com/item?id=40425428) - [iTerm2 3.5.0](https://iterm2.com/downloads/stable/iTerm2-3_5_0.changelog)
 * [2024-05-21, 08:06:24](https://news.ycombinator.com/item?id=40425403) - [The OpenAI board was right – No (by a voice actres named Scarlet) means No](https://garymarcus.substack.com/p/the-openai-board-was-right)
 * [2024-05-21, 07:53:56](https://news.ycombinator.com/item?id=40425306) - [Microsoft's AI chatbot will 'recall' everything you do on its new PCs](https://www.theguardian.com/technology/article/2024/may/20/microsoft-chatbot-assistant-pc)
+* [2024-05-21, 07:38:12](https://news.ycombinator.com/item?id=40425221) - [Which Electric Cars Have Bidirectional Charging (V2L, V2G, V2H)](https://zecar.com/resources/which-electric-cars-have-bidirectional-charging)
 * [2024-05-21, 07:00:15](https://news.ycombinator.com/item?id=40425040) - [Apple supplier Foxconn among firms asked to cut power use in Vietnam](https://www.reuters.com/technology/apple-supplier-foxconn-among-firms-asked-cut-power-use-vietnam-sources-say-2024-05-21/)
 * [2024-05-21, 07:00:05](https://news.ycombinator.com/item?id=40425039) - [Langfuse (YC W23) is hiring engineers in Berlin: open-source LLM devtool](https://github.com/langfuse/langfuse/blob/main/careers)
 * [2024-05-21, 06:52:56](https://news.ycombinator.com/item?id=40424982) - [Erlang/OTP 27 Highlights](https://www.erlang.org/blog/highlights-otp-27/)
