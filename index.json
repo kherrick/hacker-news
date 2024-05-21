@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2024-05-21, 14:52:34",
-      "https://news.ycombinator.com/item?id=40429247"
+      "2024-05-21, 14:54:57",
+      "https://news.ycombinator.com/item?id=40429275"
     ],
     [
-      "Microplastic presence in dog and human testis",
-      "https://academic.oup.com/toxsci/advance-article-abstract/doi/10.1093/toxsci/kfae060/7673133"
+      "How Shadow Banning Can Silently Shift Opinion Online",
+      "https://insights.som.yale.edu/insights/how-shadow-banning-can-silently-shift-opinion-online"
     ]
   ],
   [
@@ -105,7 +105,7 @@
       "https://news.ycombinator.com/item?id=40426894"
     ],
     [
-      "the engineerguy: The Engineering of Duct Tape [video]",
+      "The Engineering of Duct Tape [video]",
       "https://www.youtube.com/watch?v=E-F2QQuZZGk"
     ]
   ],
@@ -137,6 +137,16 @@
     [
       "Gifski: Optimized GIF Encoder",
       "https://github.com/ImageOptim/gifski"
+    ]
+  ],
+  [
+    [
+      "2024-05-21, 10:05:56",
+      "https://news.ycombinator.com/item?id=40426382"
+    ],
+    [
+      "Building an AI game studio: what we've learned so far",
+      "https://braindump.me/blog-posts/building-an-ai-game-studio"
     ]
   ],
   [
@@ -187,26 +197,6 @@
     [
       "Shipbreaking",
       "https://www.edwardburtynsky.com/projects/photographs/shipbreaking"
-    ]
-  ],
-  [
-    [
-      "2024-05-21, 01:37:53",
-      "https://news.ycombinator.com/item?id=40423082"
-    ],
-    [
-      "Chameleon: Meta's New Multi-Modal LLM",
-      "https://arxiv.org/abs/2405.09818"
-    ]
-  ],
-  [
-    [
-      "2024-05-21, 01:26:58",
-      "https://news.ycombinator.com/item?id=40422997"
-    ],
-    [
-      "Regular expression matching can be simple and fast (2007)",
-      "https://swtch.com/%7Ersc/regexp/regexp1.html"
     ]
   ],
   [
@@ -271,6 +261,26 @@
   ],
   [
     [
+      "2024-05-18, 00:23:25",
+      "https://news.ycombinator.com/item?id=40395467"
+    ],
+    [
+      "The Reign of Alexander III of Macedon",
+      "https://acoup.blog/2024/05/17/collections-on-the-reign-of-alexander-iii-of-macedon-the-great/"
+    ]
+  ],
+  [
+    [
+      "2024-05-17, 21:08:18",
+      "https://news.ycombinator.com/item?id=40394241"
+    ],
+    [
+      "Falling in love again with disposable cameras",
+      "https://www.washingtonpost.com/style/of-interest/2024/03/13/disposable-cameras-gen-z/"
+    ]
+  ],
+  [
+    [
       "2024-05-17, 18:43:49",
       "https://news.ycombinator.com/item?id=40393005"
     ],
@@ -287,16 +297,6 @@
     [
       "The Vietnamese Computer Scientist Who Made Toy Story Possible",
       "https://time.com/6974656/toy-story-vietnam-war/"
-    ]
-  ],
-  [
-    [
-      "2024-05-17, 01:58:19",
-      "https://news.ycombinator.com/item?id=40385562"
-    ],
-    [
-      "Formatted spreadsheets can still work in R",
-      "https://luisdva.github.io/rstats/problematic-spreadsheets/"
     ]
   ]
 ]
