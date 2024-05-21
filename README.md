@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-21, 03:23:38](https://news.ycombinator.com/item?id=40423746) - [Modos Paper Monitor Pre-Launch on Crowd Supply](https://www.modos.tech/blog/modos-paper-monitor-pre-launch-on-crowd-supply)
-* [2024-05-21, 01:44:58](https://news.ycombinator.com/item?id=40423131) - [How (and why) to de-Google your life and protect your privacy](https://proton.me/blog/how-to-de-google)
 * [2024-05-21, 01:37:53](https://news.ycombinator.com/item?id=40423082) - [Chameleon: Meta's New Multi-Modal LLM](https://arxiv.org/abs/2405.09818)
 * [2024-05-21, 01:31:50](https://news.ycombinator.com/item?id=40423035) - [Stripe increasing \"instant payout\" fees by 50%](https://support.stripe.com/questions/june-2024-pricing-update-for-instant-payouts-for-businesses-in-the-united-states)
 * [2024-05-21, 01:26:58](https://news.ycombinator.com/item?id=40422997) - [Regular expression matching can be simple and fast (2007)](https://swtch.com/%7Ersc/regexp/regexp1.html)
@@ -10,6 +9,7 @@
 * [2024-05-20, 23:23:15](https://news.ycombinator.com/item?id=40421851) - [Dual antibacterial properties of copper-coated nanotextured stainless steel](https://onlinelibrary.wiley.com/doi/10.1002/smll.202311546)
 * [2024-05-20, 23:13:52](https://news.ycombinator.com/item?id=40421762) - [Why I love Laravel (2022)](https://ben.page/laravel)
 * [2024-05-20, 22:28:27](https://news.ycombinator.com/item?id=40421225) - [Statement from Scarlett Johansson on the OpenAI \"Sky\" voice](https://twitter.com/BobbyAllyn/status/1792679435701014908)
+* [2024-05-20, 22:01:54](https://news.ycombinator.com/item?id=40420968) - [Google cuts mystery check to US in bid to sidestep jury trial](https://www.reuters.com/legal/government/google-cuts-mystery-check-us-bid-sidestep-jury-trial-2024-05-20/)
 * [2024-05-20, 21:00:26](https://news.ycombinator.com/item?id=40420323) - [Etleap (YC W13) Is Hiring Software Engineer – Integrations (Remote in Brazil)](https://etleap.com/careers/software-engineer-integrations/)
 * [2024-05-20, 20:23:02](https://news.ycombinator.com/item?id=40419856) - [Enlightenmentware](https://mmapped.blog/posts/28-enlightenmentware.html)
 * [2024-05-20, 19:37:12](https://news.ycombinator.com/item?id=40419325) - [How terminal works. Part 1: Xterm, user input](https://kevroletin.github.io/terminal/2021/12/11/how-terminal-works-in.html)
