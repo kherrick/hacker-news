@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-21, 01:55:15](https://news.ycombinator.com/item?id=40423206) - [Where is the German cockroach (Blattella germanica) actually from?](https://www.theguardian.com/australia-news/article/2024/may/21/where-is-the-german-cockroach-actually-from-we-tested-its-dna-to-trace-its-true-origins)
 * [2024-05-21, 01:31:50](https://news.ycombinator.com/item?id=40423035) - [Stripe increasing \"instant payout\" fees by 50%](https://support.stripe.com/questions/june-2024-pricing-update-for-instant-payouts-for-businesses-in-the-united-states)
 * [2024-05-21, 01:26:58](https://news.ycombinator.com/item?id=40422997) - [Regular Expression Matching Can Be Simple and Fast (2007)](https://swtch.com/%7Ersc/regexp/regexp1.html)
 * [2024-05-21, 01:17:35](https://news.ycombinator.com/item?id=40422940) - [Bento3D](https://polar-tadpole-97b.notion.site/Bento3D-e40483712b304d389d7c2da26196e113#d7f452d3ffd94cd1a0a9e70e361efb63)
@@ -20,7 +21,6 @@
 * [2024-05-20, 03:48:53](https://news.ycombinator.com/item?id=40412091) - [On the trail of my identity thief](https://www.msn.com/en-us/news/crime/an-identity-thief-stole-5000-from-me-i-spent-two-years-tracking-down-how/ar-BB1mqh0b)
 * [2024-05-19, 21:02:36](https://news.ycombinator.com/item?id=40409718) - [Beating Jeff's 3.14 Ghz Raspberry Pi 5](https://jonatron.github.io/randomstuff/pivolt/)
 * [2024-05-19, 18:42:06](https://news.ycombinator.com/item?id=40408880) - [Llama3 implemented from scratch](https://github.com/naklecha/llama3-from-scratch)
-* [2024-05-19, 17:15:29](https://news.ycombinator.com/item?id=40408291) - [Coding My Handwriting](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript)
 * [2024-05-19, 10:10:17](https://news.ycombinator.com/item?id=40405772) - [Scrabble and the Nature of Expertise (2015)](https://www.scientificamerican.com/article/winning-scrabble-and-the-nature-of-expertise/)
 * [2024-05-19, 09:30:44](https://news.ycombinator.com/item?id=40405583) - [Optigraph – optimum graph network generator](https://github.com/LovetheFrogs/OptiGraph)
 * [2024-05-18, 09:22:02](https://news.ycombinator.com/item?id=40397593) - [DB-19: Resurrecting an Obsolete Connector (2016)](https://www.bigmessowires.com/2016/06/04/db-19-resurrecting-an-obsolete-connector/)
