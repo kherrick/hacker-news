@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-05-21](index.md)
 
+* [2024-05-21, 21:00:45](https://news.ycombinator.com/item?id=40433861) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+* [2024-05-21, 20:54:54](https://news.ycombinator.com/item?id=40433785) - [Scarlett Johansson Said No, but OpenAI's Virtual Assistant Sounds Just Like Her](https://www.nytimes.com/2024/05/20/technology/scarlett-johannson-openai-voice.html)
 * [2024-05-21, 20:32:30](https://news.ycombinator.com/item?id=40433511) - [Wikimedia Enterprise – APIs for LLMs, AI Training, and More](https://enterprise.wikimedia.com/)
 * [2024-05-21, 20:21:39](https://news.ycombinator.com/item?id=40433384) - [Apple needs to explain that bug that resurfaced deleted photos](https://www.theverge.com/2024/5/20/24161152/apple-ios-17-photo-bug)
+* [2024-05-21, 20:11:32](https://news.ycombinator.com/item?id=40433266) - [Ask HN: Why don't VCs just \"suck it up\" and pay founders a competitive salary?](https://news.ycombinator.com/item?id=40433266)
 * [2024-05-21, 20:03:25](https://news.ycombinator.com/item?id=40433164) - [What's New in Kotlin 2.0.0](https://kotlinlang.org/docs/whatsnew20.html)
 * [2024-05-21, 19:49:59](https://news.ycombinator.com/item?id=40433000) - [Show HN: An online billboard I built in 2 weeks](https://billboardgrid.com)
 * [2024-05-21, 19:36:36](https://news.ycombinator.com/item?id=40432834) - [Storing knowledge in a single long plain text file](https://breckyunits.com/scrollsets.html)
+* [2024-05-21, 19:27:19](https://news.ycombinator.com/item?id=40432723) - [Simplified Embedded Rust Book Released](https://www.theembeddedrustacean.com/c/ser-std)
 * [2024-05-21, 19:23:59](https://news.ycombinator.com/item?id=40432688) - [Gordon Bell has died](https://arstechnica.com/gadgets/2024/05/gordon-bell-an-architect-of-our-digital-age-dies-at-age-89/)
 * [2024-05-21, 19:01:59](https://news.ycombinator.com/item?id=40432446) - [iTerm2 and AI Hype Overload](https://xeiaso.net/notes/2024/ai-hype/)
 * [2024-05-21, 18:53:23](https://news.ycombinator.com/item?id=40432337) - [Ask HN: How does modern FreeCAD compare with Solidworks?](https://news.ycombinator.com/item?id=40432337)
