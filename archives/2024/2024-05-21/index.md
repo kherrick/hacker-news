@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-21](index.md)
 
 * [2024-05-21, 18:22:28](https://news.ycombinator.com/item?id=40431939) - [Do you all realize that accessing to correct information+truth is getting hard?](https://news.ycombinator.com/item?id=40431939)
+* [2024-05-21, 18:13:58](https://news.ycombinator.com/item?id=40431812) - [Suno has raised $125M to build a future where anyone can make music](https://suno.com/blog/fundraising-announcement-may-2024)
 * [2024-05-21, 18:03:00](https://news.ycombinator.com/item?id=40431688) - [The U.S. Planned to Resettle Guantánamo Prisoners in Oman](https://www.nytimes.com/2024/05/21/us/politics/guantanamo-hamas-israel-oman.html)
 * [2024-05-21, 17:41:39](https://news.ycombinator.com/item?id=40431444) - [Firefox bug gets fixed after 25 years](https://bugzilla.mozilla.org/show_bug.cgi?id=33654)
 * [2024-05-21, 17:19:46](https://news.ycombinator.com/item?id=40431210) - [I Want Flexible Queries, Not RAG](https://win-vector.com/2024/05/21/i-want-flexible-queries-not-rag/)
@@ -12,6 +13,7 @@
 * [2024-05-21, 17:13:50](https://news.ycombinator.com/item?id=40431145) - [How to Turn Off AI Overview in Google and Set \"Web\" as Default](https://tenbluelinks.org/)
 * [2024-05-21, 17:03:03](https://news.ycombinator.com/item?id=40431004) - [Hundreds paid to be 'robbed' to gain favorable immigration status, Feds say](https://cwbchicago.com/2024/05/chicago-fake-robbery-visa-scam.html)
 * [2024-05-21, 17:00:45](https://news.ycombinator.com/item?id=40430972) - [Roame (YC S23) Is Hiring a Founding Back End Engineer](https://www.ycombinator.com/companies/roame/jobs/A2jJQvq-founding-backend-engineer)
+* [2024-05-21, 16:52:46](https://news.ycombinator.com/item?id=40430868) - [The Effects of Early Relational Trauma (2001) [pdf]](https://www.allanschore.com/pdf/SchoreIMHJTrauma01.pdf)
 * [2024-05-21, 16:47:11](https://news.ycombinator.com/item?id=40430806) - [Nova explosion visible to the naked eye expected any day now](https://arstechnica.com/science/2024/05/if-you-can-see-the-big-dipper-youll-get-to-see-a-star-go-nova-soon/)
 * [2024-05-21, 16:31:08](https://news.ycombinator.com/item?id=40430603) - [Why Your Wi-Fi Router Doubles as an Apple AirTag](https://krebsonsecurity.com/2024/05/why-your-wi-fi-router-doubles-as-an-apple-airtag/)
 * [2024-05-21, 16:29:52](https://news.ycombinator.com/item?id=40430586) - [A.I.'S Black Boxes Just Got a Little Less Mysterious](https://www.nytimes.com/2024/05/21/technology/ai-language-models-anthropic.html)

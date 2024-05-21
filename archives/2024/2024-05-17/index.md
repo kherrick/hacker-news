@@ -23,6 +23,7 @@
 * [2024-05-17, 20:39:54](https://news.ycombinator.com/item?id=40393988) - [Archie, the Internet's first search engine, is rescued and running](https://arstechnica.com/gadgets/2024/05/archie-the-internets-first-search-engine-is-rescued-and-running/)
 * [2024-05-17, 20:25:47](https://news.ycombinator.com/item?id=40393877) - [Chrome DevTools now uses Gemini to help with JavaScript Errors in the console](https://developer.chrome.com/docs/devtools/console/understand-messages)
 * [2024-05-17, 20:25:40](https://news.ycombinator.com/item?id=40393873) - [ILGPU: Write GPU programs with C# and F#](https://github.com/m4rs-mt/ILGPU)
+* [2024-05-17, 20:17:34](https://news.ycombinator.com/item?id=40393798) - [Show HN: I recreated Jeffery Ventrella's \"Particle Life\"](https://particle-life.koenvangilst.nl/)
 * [2024-05-17, 20:04:15](https://news.ycombinator.com/item?id=40393700) - [Test Scores Down, GPAs Up: The New Angst over Grade Inflation](https://www.wsj.com/us-news/education/grade-inflation-education-test-scores-40196419)
 * [2024-05-17, 19:58:47](https://news.ycombinator.com/item?id=40393664) - [Back to the Past: IPv4 Browsing (Egress) Activated via NAT64](https://blog.ipv6.rs/ipv4-activated-via-nat64/)
 * [2024-05-17, 19:28:10](https://news.ycombinator.com/item?id=40393396) - [Scaling Clubhouse From 10K to 10M Users In 6 Months With Postgres](https://www.stepchange.work/blog/scaling-clubhouse-from-10k-to-10-million-users-in-6-months-with-postgres)
