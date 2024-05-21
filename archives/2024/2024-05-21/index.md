@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-21](index.md)
 
 * [2024-05-21, 22:25:56](https://news.ycombinator.com/item?id=40434800) - [Sam Altman Is Showing Us Who He Really Is](https://slate.com/technology/2024/05/scarlett-johansson-ai-voice-sam-altman-openai.html)
+* [2024-05-21, 22:21:35](https://news.ycombinator.com/item?id=40434766) - [Clever code is probably the worst code you could write](https://read.engineerscodex.com/p/clever-code-is-probably-the-worst)
 * [2024-05-21, 22:11:05](https://news.ycombinator.com/item?id=40434680) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-05-21, 21:18:48](https://news.ycombinator.com/item?id=40434091) - [iTerm2 feature request: disable all AI-related features](https://gitlab.com/gnachman/iterm2/-/issues/11475)
 * [2024-05-21, 21:15:31](https://news.ycombinator.com/item?id=40434049) - [Dyson Sphere Candidates from Gaia DR3, 2MASS, and Wise](https://academic.oup.com/mnras/article/531/1/695/7665761)
