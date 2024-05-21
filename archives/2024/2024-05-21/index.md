@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-21](index.md)
 
+* [2024-05-21, 16:29:52](https://news.ycombinator.com/item?id=40430586) - [A.I.'S Black Boxes Just Got a Little Less Mysterious](https://www.nytimes.com/2024/05/21/technology/ai-language-models-anthropic.html)
 * [2024-05-21, 16:14:06](https://news.ycombinator.com/item?id=40430381) - [Backblaze Scales Storage Cloud](https://www.backblaze.com/blog/how-backblaze-scales-our-storage-cloud/)
 * [2024-05-21, 16:07:02](https://news.ycombinator.com/item?id=40430282) - [AI Startups Are Making Their Home in New York](https://www.wsj.com/articles/ai-startups-are-making-their-home-in-new-york-can-they-turn-it-into-an-aipowerhouse-bd5dab78)
 * [2024-05-21, 16:03:18](https://news.ycombinator.com/item?id=40430230) - [Microsoft's AI will be inside Minecraft, and other Xbox, PC games](https://www.windowscentral.com/microsoft/microsofts-ai-will-be-inside-minecraft-and-other-xbox-pc-games-new-copilot-features-will-search-your-inventories-offer-tips-and-guides)
