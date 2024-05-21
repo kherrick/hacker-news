@@ -2,7 +2,6 @@
 
 * [2024-05-21, 01:55:00](https://news.ycombinator.com/item?id=40423205) - [Seawater is rushing under Thwaites Glacier, potentially dire impact on sea level](https://www.cnn.com/2024/05/20/climate/doomsday-glacier-melt-antarctica-climate-intl/index.html)
 * [2024-05-21, 01:31:50](https://news.ycombinator.com/item?id=40423035) - [Stripe increasing \"instant payout\" fees by 50%](https://support.stripe.com/questions/june-2024-pricing-update-for-instant-payouts-for-businesses-in-the-united-states)
-* [2024-05-21, 01:24:36](https://news.ycombinator.com/item?id=40422987) - [The ChatGPT wrapper product boom is an uncanny valley hellscape](https://www.pcloadletter.dev/blog/llms/)
 * [2024-05-21, 00:14:12](https://news.ycombinator.com/item?id=40422359) - [Restoring an Apple Silicon Developer Transition Kit \"DTK\" Mac Mini [video]](https://www.youtube.com/watch?v=reQq8fx4D0Q)
 * [2024-05-20, 23:23:15](https://news.ycombinator.com/item?id=40421851) - [Dual antibacterial properties of copper-coated nanotextured stainless steel](https://onlinelibrary.wiley.com/doi/10.1002/smll.202311546)
 * [2024-05-20, 22:28:27](https://news.ycombinator.com/item?id=40421225) - [Statement from Scarlett Johansson on the OpenAI \"Sky\" voice](https://twitter.com/BobbyAllyn/status/1792679435701014908)
@@ -19,6 +18,7 @@
 * [2024-05-20, 11:27:34](https://news.ycombinator.com/item?id=40414329) - [ICC prosecutor seeks arrest warrants against Sinwar and Netanyahu for war crimes](https://www.cnn.com/2024/05/20/middleeast/icc-israel-hamas-arrest-warrant-war-crimes-intl/index.html)
 * [2024-05-20, 10:01:36](https://news.ycombinator.com/item?id=40413891) - [Migrating Uber's ledger data from DynamoDB to LedgerStore](https://www.uber.com/blog/migrating-from-dynamodb-to-ledgerstore/)
 * [2024-05-20, 03:48:53](https://news.ycombinator.com/item?id=40412091) - [On the trail of my identity thief](https://www.msn.com/en-us/news/crime/an-identity-thief-stole-5000-from-me-i-spent-two-years-tracking-down-how/ar-BB1mqh0b)
+* [2024-05-19, 23:02:41](https://news.ycombinator.com/item?id=40410404) - [The Lunacy of Artemis](https://idlewords.com/2024/5/the_lunacy_of_artemis.htm)
 * [2024-05-19, 21:02:36](https://news.ycombinator.com/item?id=40409718) - [Beating Jeff's 3.14 Ghz Raspberry Pi 5](https://jonatron.github.io/randomstuff/pivolt/)
 * [2024-05-19, 18:42:06](https://news.ycombinator.com/item?id=40408880) - [Llama3 implemented from scratch](https://github.com/naklecha/llama3-from-scratch)
 * [2024-05-19, 17:15:29](https://news.ycombinator.com/item?id=40408291) - [Coding My Handwriting](https://www.amygoodchild.com/blog/cursive-handwriting-in-javascript)
