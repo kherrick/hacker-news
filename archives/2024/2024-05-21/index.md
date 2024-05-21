@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-21](index.md)
 
+* [2024-05-21, 13:44:08](https://news.ycombinator.com/item?id=40428419) - [How \"dark money\" groups help private ISPs lobby against municipal broadband](https://arstechnica.com/tech-policy/2024/05/how-dark-money-groups-help-private-isps-lobby-against-municipal-broadband/)
 * [2024-05-21, 13:05:08](https://news.ycombinator.com/item?id=40427973) - [40-Year old BASICA utility code for teaching](https://github.com/norton120/educator-tools-87)
+* [2024-05-21, 12:56:56](https://news.ycombinator.com/item?id=40427886) - [Cars and Consumer Data: On Unlawful Collection and Use](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2024/05/cars-consumer-data-unlawful-collection-use)
 * [2024-05-21, 12:00:25](https://news.ycombinator.com/item?id=40427195) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-05-21, 11:49:19](https://news.ycombinator.com/item?id=40427087) - [Apple changed a lot inside the iPad Pro to get it so thin](https://www.theverge.com/2024/5/18/24159722/ifixit-teardown-apple-oled-ipad-pro-13-inch)
 * [2024-05-21, 11:41:41](https://news.ycombinator.com/item?id=40427024) - ['Satoshi' impersonation 'a serious abuse of court's process' judge concludes](https://www.lawgazette.co.uk/news/satoshi-impersonation-a-serious-abuse-of-courts-process-judge-concludes/5119771.article)
