@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-05-21, 21:02:50",
-      "https://news.ycombinator.com/item?id=40433884"
-    ],
-    [
-      "How the new Microsoft Recall feature fundamentally undermines Windows security",
-      "https://doublepulsar.com/how-the-new-microsoft-recall-feature-fundamentally-undermines-windows-security-aa072829f218"
-    ]
-  ],
-  [
-    [
       "2024-05-21, 21:00:45",
       "https://news.ycombinator.com/item?id=40433861"
     ],
@@ -27,16 +17,6 @@
     [
       "Wikimedia Enterprise – APIs for LLMs, AI Training, and More",
       "https://enterprise.wikimedia.com/"
-    ]
-  ],
-  [
-    [
-      "2024-05-21, 20:11:32",
-      "https://news.ycombinator.com/item?id=40433266"
-    ],
-    [
-      "Ask HN: Why don't VCs just \"suck it up\" and pay founders a competitive salary?",
-      "https://news.ycombinator.com/item?id=40433266"
     ]
   ],
   [
@@ -191,6 +171,16 @@
   ],
   [
     [
+      "2024-05-21, 11:37:27",
+      "https://news.ycombinator.com/item?id=40426995"
+    ],
+    [
+      "We created the first open source implementation of Meta's TestGen–LLM",
+      "https://www.codium.ai/blog/we-created-the-first-open-source-implementation-of-metas-testgen-llm/"
+    ]
+  ],
+  [
+    [
       "2024-05-21, 11:21:35",
       "https://news.ycombinator.com/item?id=40426890"
     ],
@@ -287,6 +277,16 @@
     [
       "The prospects for 128 bit processors (John R. Mashey, 1995)",
       "https://yarchive.net/comp/128bit.html"
+    ]
+  ],
+  [
+    [
+      "2024-05-17, 21:43:19",
+      "https://news.ycombinator.com/item?id=40394462"
+    ],
+    [
+      "Matryoshka Representation Learning with CLIP",
+      "https://www.marqo.ai/blog/matryoshka-representation-learning-with-clip-for-multimodal-retrieval-and-ranking"
     ]
   ],
   [
