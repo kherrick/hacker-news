@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-21](index.md)
 
 * [2024-05-21, 12:00:25](https://news.ycombinator.com/item?id=40427195) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+* [2024-05-21, 11:49:19](https://news.ycombinator.com/item?id=40427087) - [Apple changed a lot inside the iPad Pro to get it so thin](https://www.theverge.com/2024/5/18/24159722/ifixit-teardown-apple-oled-ipad-pro-13-inch)
 * [2024-05-21, 11:41:41](https://news.ycombinator.com/item?id=40427024) - ['Satoshi' impersonation 'a serious abuse of court's process' judge concludes](https://www.lawgazette.co.uk/news/satoshi-impersonation-a-serious-abuse-of-courts-process-judge-concludes/5119771.article)
 * [2024-05-21, 11:37:27](https://news.ycombinator.com/item?id=40426995) - [We created the first open source implementation of Meta's TestGen–LLM](https://www.codium.ai/blog/we-created-the-first-open-source-implementation-of-metas-testgen-llm/)
 * [2024-05-21, 11:13:13](https://news.ycombinator.com/item?id=40426842) - [One Dead After London-Singapore Flight Hit by Turbulence](https://www.bloomberg.com/news/articles/2024-05-21/singapore-air-flight-makes-emergency-landing-in-bangkok-1-dead)
