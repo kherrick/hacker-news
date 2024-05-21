@@ -9,6 +9,7 @@
 * [2024-05-21, 10:55:54](https://news.ycombinator.com/item?id=40426711) - [Google announces Firebase Genkit with Ollama support](https://ollama.com/blog/firebase-genkit)
 * [2024-05-21, 10:55:10](https://news.ycombinator.com/item?id=40426705) - [C23 Implications for C Libraries](https://htmlpreview.github.io/?https://icube-forge.unistra.fr/icps/c23-library/-/raw/main/README.html)
 * [2024-05-21, 10:54:36](https://news.ycombinator.com/item?id=40426701) - [Going Dark: The war on encryption is on the rise](https://mullvad.net/en/why-privacy-matters/going-dark)
+* [2024-05-21, 10:42:30](https://news.ycombinator.com/item?id=40426621) - [NoTunes is a macOS application that will prevent Apple Music from launching](https://github.com/tombonez/noTunes)
 * [2024-05-21, 09:10:46](https://news.ycombinator.com/item?id=40425905) - [Reversing Choplifter](https://blondihacks.com/reversing-choplifter/)
 * [2024-05-21, 08:09:23](https://news.ycombinator.com/item?id=40425428) - [iTerm2 3.5.0](https://iterm2.com/downloads/stable/iTerm2-3_5_0.changelog)
 * [2024-05-21, 08:06:24](https://news.ycombinator.com/item?id=40425403) - [The OpenAI board was right – No (by a voice actres named Scarlet) means No](https://garymarcus.substack.com/p/the-openai-board-was-right)

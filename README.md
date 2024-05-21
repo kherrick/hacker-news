@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-21, 11:13:13](https://news.ycombinator.com/item?id=40426842) - [One Dead After London-Singapore Flight Hit by Turbulence](https://www.bloomberg.com/news/articles/2024-05-21/singapore-air-flight-makes-emergency-landing-in-bangkok-1-dead)
 * [2024-05-21, 11:08:09](https://news.ycombinator.com/item?id=40426801) - [One dead as London-Singapore flight hit by turbulence](https://www.bbc.com/news/articles/c8889d7x8j4o)
 * [2024-05-21, 10:55:54](https://news.ycombinator.com/item?id=40426711) - [Google announces Firebase Genkit with Ollama support](https://ollama.com/blog/firebase-genkit)
 * [2024-05-21, 10:54:36](https://news.ycombinator.com/item?id=40426701) - [Going Dark: The war on encryption is on the rise](https://mullvad.net/en/why-privacy-matters/going-dark)
+* [2024-05-21, 10:42:30](https://news.ycombinator.com/item?id=40426621) - [NoTunes is a macOS application that will prevent Apple Music from launching](https://github.com/tombonez/noTunes)
 * [2024-05-21, 09:10:46](https://news.ycombinator.com/item?id=40425905) - [Reversing Choplifter](https://blondihacks.com/reversing-choplifter/)
 * [2024-05-21, 07:55:16](https://news.ycombinator.com/item?id=40425315) - [CamelCase vs. Snake_case Scientific Studies](https://whatheco.de/2011/02/10/camelcase-vs-underscores-scientific-showdown/)
 * [2024-05-21, 07:38:12](https://news.ycombinator.com/item?id=40425221) - [Which Electric Cars Have Bidirectional Charging (V2L, V2G, V2H)](https://zecar.com/resources/which-electric-cars-have-bidirectional-charging)
