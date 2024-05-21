@@ -2,6 +2,7 @@
 
 * [2024-05-21, 07:00:05](https://news.ycombinator.com/item?id=40425039) - [Langfuse (YC W23) is hiring engineers in Berlin: open-source LLM devtool](https://github.com/langfuse/langfuse/blob/main/careers)
 * [2024-05-21, 06:46:06](https://news.ycombinator.com/item?id=40424938) - [Taking Risk – Startups in UK vs. US](https://tomblomfield.com/post/750852175114174464/taking-risk)
+* [2024-05-21, 05:33:52](https://news.ycombinator.com/item?id=40424536) - [How Might We Learn?](https://andymatuschak.org/hmwl/)
 * [2024-05-21, 04:56:07](https://news.ycombinator.com/item?id=40424304) - [Shipbreaking](https://www.edwardburtynsky.com/projects/photographs/shipbreaking)
 * [2024-05-21, 03:23:38](https://news.ycombinator.com/item?id=40423746) - [Modos Paper Monitor Pre-Launch on Crowd Supply](https://www.modos.tech/blog/modos-paper-monitor-pre-launch-on-crowd-supply)
 * [2024-05-21, 01:37:53](https://news.ycombinator.com/item?id=40423082) - [Chameleon: Meta's New Multi-Modal LLM](https://arxiv.org/abs/2405.09818)
@@ -28,7 +29,6 @@
 * [2024-05-17, 23:25:26](https://news.ycombinator.com/item?id=40395105) - [Sierra was captured, then killed, by an accounting fraud (2020)](https://www.vice.com/en/article/z3vem8/inside-story-sierra-online-death-cuc-cendant-fraud)
 * [2024-05-17, 16:31:33](https://news.ycombinator.com/item?id=40391627) - [Glewbot scales buildings like a gecko to inspect wall tiles](https://blog.arduino.cc/2024/05/11/glewbot-scales-buildings-like-a-gecko/)
 * [2024-05-17, 15:26:54](https://news.ycombinator.com/item?id=40390941) - [The Vietnamese Computer Scientist Who Made Toy Story Possible](https://time.com/6974656/toy-story-vietnam-war/)
-* [2024-05-17, 12:08:01](https://news.ycombinator.com/item?id=40389006) - [Colorless green DNNs sleep furiously in an unexplainable fantasy](https://cacm.acm.org/blogcacm/when-colorless-green-dnns-sleep-furiously-in-an-unexplainable-fantasy/)
 * [2024-05-17, 01:58:19](https://news.ycombinator.com/item?id=40385562) - [Formatted spreadsheets can still work in R](https://luisdva.github.io/rstats/problematic-spreadsheets/)
 
 ## [Archives](archives/index.md)
