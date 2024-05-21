@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-05-21](index.md)
 
+* [2024-05-21, 19:01:59](https://news.ycombinator.com/item?id=40432446) - [iTerm2 and AI Hype Overload](https://xeiaso.net/notes/2024/ai-hype/)
 * [2024-05-21, 18:53:23](https://news.ycombinator.com/item?id=40432337) - [Ask HN: How does modern FreeCAD compare with Solidworks?](https://news.ycombinator.com/item?id=40432337)
 * [2024-05-21, 18:42:30](https://news.ycombinator.com/item?id=40432194) - [The number's up for 999. And 911. And 000. And 111](https://www.theregister.com/2023/07/03/the_numbers_up_for_999/)
 * [2024-05-21, 18:35:13](https://news.ycombinator.com/item?id=40432102) - [SMTP removes periods – the curious case of the missing period](https://tjaart.substack.com/p/the-curious-case-of-the-missing-period)
 * [2024-05-21, 18:22:28](https://news.ycombinator.com/item?id=40431939) - [Do you all realize that accessing to correct information+truth is getting hard?](https://news.ycombinator.com/item?id=40431939)
 * [2024-05-21, 18:13:58](https://news.ycombinator.com/item?id=40431812) - [Suno has raised $125M to build a future where anyone can make music](https://suno.com/blog/fundraising-announcement-may-2024)
 * [2024-05-21, 18:03:00](https://news.ycombinator.com/item?id=40431688) - [The U.S. Planned to Resettle Guantánamo Prisoners in Oman](https://www.nytimes.com/2024/05/21/us/politics/guantanamo-hamas-israel-oman.html)
+* [2024-05-21, 18:02:37](https://news.ycombinator.com/item?id=40431680) - [Microsoft Phi-3 Cookbook](https://github.com/microsoft/Phi-3CookBook)
 * [2024-05-21, 17:41:39](https://news.ycombinator.com/item?id=40431444) - [Firefox bug gets fixed after 25 years](https://bugzilla.mozilla.org/show_bug.cgi?id=33654)
 * [2024-05-21, 17:38:26](https://news.ycombinator.com/item?id=40431412) - [Linux 6.10 Honors One Last ReiserFS Request Made by Hans Reiser](https://www.phoronix.com/news/ReiserFS-README-Linux-6.10)
 * [2024-05-21, 17:19:46](https://news.ycombinator.com/item?id=40431210) - [I Want Flexible Queries, Not RAG](https://win-vector.com/2024/05/21/i-want-flexible-queries-not-rag/)
