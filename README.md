@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-21, 13:05:08](https://news.ycombinator.com/item?id=40427973) - [40-Year old BASICA utility code for teaching](https://github.com/norton120/educator-tools-87)
 * [2024-05-21, 12:00:25](https://news.ycombinator.com/item?id=40427195) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-05-21, 11:37:27](https://news.ycombinator.com/item?id=40426995) - [We created the first open source implementation of Meta's TestGen–LLM](https://www.codium.ai/blog/we-created-the-first-open-source-implementation-of-metas-testgen-llm/)
 * [2024-05-21, 11:22:00](https://news.ycombinator.com/item?id=40426894) - [the engineerguy: The Engineering of Duct Tape [video]](https://www.youtube.com/watch?v=E-F2QQuZZGk)
@@ -27,7 +28,6 @@
 * [2024-05-18, 04:03:48](https://news.ycombinator.com/item?id=40396373) - [A fire 2,200 years ago preserved moment in Iron Age, down to a gold earring](https://phys.org/news/2024-05-devastating-years-moment-life-war.html)
 * [2024-05-18, 00:23:25](https://news.ycombinator.com/item?id=40395467) - [The Reign of Alexander III of Macedon, the Great?](https://acoup.blog/2024/05/17/collections-on-the-reign-of-alexander-iii-of-macedon-the-great/)
 * [2024-05-17, 23:25:26](https://news.ycombinator.com/item?id=40395105) - [Sierra was captured, then killed, by an accounting fraud (2020)](https://www.vice.com/en/article/z3vem8/inside-story-sierra-online-death-cuc-cendant-fraud)
-* [2024-05-17, 21:18:52](https://news.ycombinator.com/item?id=40394307) - [When you're driving you're re-enacting an ancient space combat SIM](https://interconnected.org/home/2024/05/17/arrow)
 * [2024-05-17, 15:26:54](https://news.ycombinator.com/item?id=40390941) - [The Vietnamese Computer Scientist Who Made Toy Story Possible](https://time.com/6974656/toy-story-vietnam-war/)
 * [2024-05-17, 01:58:19](https://news.ycombinator.com/item?id=40385562) - [Formatted spreadsheets can still work in R](https://luisdva.github.io/rstats/problematic-spreadsheets/)
 
