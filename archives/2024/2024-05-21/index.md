@@ -104,6 +104,7 @@
 * [2024-05-21, 06:52:56](https://news.ycombinator.com/item?id=40424982) - [Erlang/OTP 27 Highlights](https://www.erlang.org/blog/highlights-otp-27/)
 * [2024-05-21, 06:46:06](https://news.ycombinator.com/item?id=40424938) - [Taking Risk – Startups in UK vs. US](https://tomblomfield.com/post/750852175114174464/taking-risk)
 * [2024-05-21, 05:33:52](https://news.ycombinator.com/item?id=40424536) - [How Might We Learn?](https://andymatuschak.org/hmwl/)
+* [2024-05-21, 05:31:16](https://news.ycombinator.com/item?id=40424519) - [Ask HN: Which LLMs can run locally on most consumer computers](https://news.ycombinator.com/item?id=40424519)
 * [2024-05-21, 05:21:23](https://news.ycombinator.com/item?id=40424454) - [Scarlett Johansson's response to Sam Altman ripping off her voice](https://old.reddit.com/r/interestingasfuck/comments/1cwthib/scarlett_johanssons_response_to_sam_altman/)
 * [2024-05-21, 05:21:10](https://news.ycombinator.com/item?id=40424452) - [Version Control Beyond Git](https://www.soundbarrier.io/posts/git_alternatives/)
 * [2024-05-21, 05:18:07](https://news.ycombinator.com/item?id=40424433) - [Intel throws a wrench of efficient x86 CPUs into Qualcomm's Snapdragon party](https://www.notebookcheck.net/Lunar-Lake-announcement-Intel-throws-a-wrench-of-efficient-x86-CPUs-into-Qualcomm-s-Snapdragon-party.839667.0.html)

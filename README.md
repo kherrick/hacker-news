@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-22, 16:28:04](https://news.ycombinator.com/item?id=40442842) - [Scarlett Johansson Says OpenAI Ripped Off Her Voice for ChatGPT](https://www.wired.com/story/scarlett-johansson-says-openai-ripped-off-her-voice-for-chatgpt/)
 * [2024-05-22, 16:05:06](https://news.ycombinator.com/item?id=40442595) - [Pluckable Strings](https://string.spiel.com/)
 * [2024-05-22, 13:58:25](https://news.ycombinator.com/item?id=40441093) - [Show HN: PBT – A property-based testing library for Ruby](https://github.com/ohbarye/pbt)
 * [2024-05-22, 13:39:53](https://news.ycombinator.com/item?id=40440854) - [Sal Khan is pioneering innovation in education again](https://www.gatesnotes.com/Brave-New-Words)
@@ -29,6 +28,7 @@
 * [2024-05-21, 14:19:56](https://news.ycombinator.com/item?id=40428827) - [CADmium: A local-first CAD program built for the browser](https://mattferraro.dev/posts/cadmium)
 * [2024-05-21, 13:41:39](https://news.ycombinator.com/item?id=40428386) - [What UI density means and how to design for it](https://matthewstrom.com/writing/ui-density/)
 * [2024-05-21, 13:09:10](https://news.ycombinator.com/item?id=40428032) - [Abusing url handling in iTerm2 and Hyper for code execution](https://vin01.github.io/piptagole/escape-sequences/iterm2/hyper/url-handlers/code-execution/2024/05/21/arbitrary-url-schemes-terminal-emulators.html)
+* [2024-05-21, 05:31:16](https://news.ycombinator.com/item?id=40424519) - [Ask HN: Which LLMs can run locally on most consumer computers](https://news.ycombinator.com/item?id=40424519)
 * [2024-05-20, 11:01:55](https://news.ycombinator.com/item?id=40414187) - [Counted B-Trees (2017)](https://www.chiark.greenend.org.uk/~sgtatham/algorithms/cbtree.html)
 
 ## [Archives](archives/index.md)
