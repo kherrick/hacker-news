@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-22, 09:44:47](https://news.ycombinator.com/item?id=40439126) - [Norway, along with Ireland and Spain, to recognise Palestinian state](https://www.reuters.com/world/norway-recognise-palestinian-state-nrk-aftenposten-report-2024-05-22/)
 * [2024-05-22, 09:12:13](https://news.ycombinator.com/item?id=40438960) - [How and why to make a /now page on your site](https://sive.rs/now2)
 * [2024-05-22, 05:25:04](https://news.ycombinator.com/item?id=40437609) - [A transport protocol's view of Starlink](https://blog.apnic.net/2024/05/17/a-transport-protocols-view-of-starlink/)
 * [2024-05-22, 05:09:20](https://news.ycombinator.com/item?id=40437535) - [Alacritty – A fast, cross-platform, OpenGL terminal emulator](https://github.com/alacritty/alacritty)
@@ -26,7 +27,6 @@
 * [2024-05-21, 14:19:56](https://news.ycombinator.com/item?id=40428827) - [CADmium: A local-first CAD program built for the browser](https://mattferraro.dev/posts/cadmium)
 * [2024-05-21, 13:41:39](https://news.ycombinator.com/item?id=40428386) - [What UI density means and how to design for it](https://matthewstrom.com/writing/ui-density/)
 * [2024-05-21, 13:09:10](https://news.ycombinator.com/item?id=40428032) - [Abusing url handling in iTerm2 and Hyper for code execution](https://vin01.github.io/piptagole/escape-sequences/iterm2/hyper/url-handlers/code-execution/2024/05/21/arbitrary-url-schemes-terminal-emulators.html)
-* [2024-05-21, 13:05:08](https://news.ycombinator.com/item?id=40427973) - [40-Year old BASICA utility code for teaching](https://github.com/norton120/educator-tools-87)
 * [2024-05-21, 11:21:35](https://news.ycombinator.com/item?id=40426890) - [Images that Sound: Generating spectrograms that are also images](https://ificl.github.io/images-that-sound/)
 * [2024-05-20, 12:53:27](https://news.ycombinator.com/item?id=40414943) - [How I Made Google's \"Web\" View My Default Search](https://tedium.co/2024/05/17/google-web-search-make-default/)
 * [2024-05-20, 11:01:55](https://news.ycombinator.com/item?id=40414187) - [Counted B-Trees (2017)](https://www.chiark.greenend.org.uk/~sgtatham/algorithms/cbtree.html)
