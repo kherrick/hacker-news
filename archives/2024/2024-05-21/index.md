@@ -6,6 +6,7 @@
 
 * [2024-05-21, 23:59:39](https://news.ycombinator.com/item?id=40435771) - [A Road to Common Lisp](https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/)
 * [2024-05-21, 23:29:02](https://news.ycombinator.com/item?id=40435504) - [mactop](https://github.com/context-labs/mactop)
+* [2024-05-21, 22:53:32](https://news.ycombinator.com/item?id=40435076) - [How to compare two packed bitfields without having to unpack each field (2019)](https://devblogs.microsoft.com/oldnewthing/20190301-00/?p=101076)
 * [2024-05-21, 22:35:15](https://news.ycombinator.com/item?id=40434874) - [Designed to Crash: the story of Antonov An-28 HA-LAJ and its demise](https://admiralcloudberg.medium.com/designed-to-crash-the-bizarre-story-of-antonov-an-28-ha-laj-and-its-demise-169b3720d924)
 * [2024-05-21, 22:25:56](https://news.ycombinator.com/item?id=40434800) - [Sam Altman Is Showing Us Who He Really Is](https://slate.com/technology/2024/05/scarlett-johansson-ai-voice-sam-altman-openai.html)
 * [2024-05-21, 22:21:35](https://news.ycombinator.com/item?id=40434766) - [Clever code is probably the worst code you could write](https://read.engineerscodex.com/p/clever-code-is-probably-the-worst)
@@ -96,6 +97,7 @@
 * [2024-05-21, 08:20:02](https://news.ycombinator.com/item?id=40425504) - [AI Needs Enormous Computing Power. Could Light-Based Chips Help?](https://www.quantamagazine.org/ai-needs-enormous-computing-power-could-light-based-chips-help-20240520/)
 * [2024-05-21, 08:09:23](https://news.ycombinator.com/item?id=40425428) - [iTerm2 3.5.0](https://iterm2.com/downloads/stable/iTerm2-3_5_0.changelog)
 * [2024-05-21, 08:06:24](https://news.ycombinator.com/item?id=40425403) - [The OpenAI board was right – No (by a voice actres named Scarlet) means No](https://garymarcus.substack.com/p/the-openai-board-was-right)
+* [2024-05-21, 08:05:13](https://news.ycombinator.com/item?id=40425394) - [The Ages of Programming Language Creators](https://pldb.io/posts/ageAtCreation.html)
 * [2024-05-21, 07:55:16](https://news.ycombinator.com/item?id=40425315) - [CamelCase vs. Snake_case Scientific Studies](https://whatheco.de/2011/02/10/camelcase-vs-underscores-scientific-showdown/)
 * [2024-05-21, 07:53:56](https://news.ycombinator.com/item?id=40425306) - [Microsoft's AI chatbot will 'recall' everything you do on its new PCs](https://www.theguardian.com/technology/article/2024/may/20/microsoft-chatbot-assistant-pc)
 * [2024-05-21, 07:38:12](https://news.ycombinator.com/item?id=40425221) - [Which Electric Cars Have Bidirectional Charging (V2L, V2G, V2H)](https://zecar.com/resources/which-electric-cars-have-bidirectional-charging)
