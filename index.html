@@ -129,6 +129,227 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="40444168">
+          <h3>
+            <a
+              class="item"
+              href="https://www.nature.com/articles/d41586-024-01463-0"
+              >AlphaFold3 – why did Nature publish it without its code?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-05-22 @ 18:15:43</span
+              ><span class="points-container"
+                >Points: <span class="points">22</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40444168"
+                  >Comments</a
+                ><span class="descendants">: 7</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="40444121">
+          <h3>
+            <a class="item" href="https://tryclojure.org/">Try Clojure</a>
+          </h3>
+          <section>
+            <h4>
+              <span>2024-05-22 @ 18:11:34</span
+              ><span class="points-container"
+                >Points: <span class="points">32</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40444121"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="40443927">
+          <h3>
+            <a class="item" href="https://github.com/nucleuscloud/neosync"
+              >Show HN: Neosync – Open-Source Data Anonymization for Postgres
+              and MySQL</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-05-22 @ 17:53:45</span
+              ><span class="points-container"
+                >Points: <span class="points">21</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40443927"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://www.github.com/nucleuscloud/neosync"
+                >https://www.github.com/nucleuscloud/neosync</a
+              >). Neosync is an open source platform that helps developers
+              anonymize production data, generate synthetic data and sync it
+              across their environments for better testing, debugging and
+              developer experience.
+              <p>
+                Most developers and teams have some version of a database seed
+                script that creates some mock data for their local and stage
+                databases. The problem is that production data is messy and it’s
+                very difficult to replicate that with mock data. This causes two
+                big problems for developers.
+              </p>
+              <p>
+                The first problem is that features seem to work locally/stage
+                but have bugs and edge cases in production because the seed data
+                you used to develop against was not representative of production
+                data.
+              </p>
+              <p>
+                The second problem we saw was that debugging production errors
+                would take a long time and would often resurface. When we see a
+                bug in production, the first thing we want to do is reproduce it
+                locally, but if we can’t reproduce the state of the data
+                locally, then we’re kind of flying blind.
+              </p>
+              <p>
+                Working directly with production data would solve both of these
+                problems but most teams can’t because of: (1) privacy/security
+                issues and (2) scale. So we set out to solve these two problems
+                with Neosync.
+              </p>
+              <p>
+                We solve the privacy and security problem using anonymization
+                and synthetic data. We have 40+ pre-built transformers (or you
+                can write your own in code) that can anonymize PII or sensitive
+                data so that it’s safe to use locally. Additionally, you can
+                generate synthetic data from scratch that fits your existing
+                schema across your database.
+              </p>
+              <p>
+                The second problem is scale. Some production databases are too
+                big to fit locally or just have more data than you need. Also,
+                in some cases, you may want to debug a certain customer’s data
+                and you only want their data. We solve this with subsetting. You
+                can pass in a SQL query to filter your table(s) and Neosync will
+                handle all of the heavy lifting including referential integrity.
+              </p>
+              <p>
+                At the core of Neosync does three things: (1) It streams data
+                from a source to one or multiple destination databases. We never
+                store your sensitive data. (2) While that data is being
+                streamed, we transform it. You define which schemas and tables
+                you want to sync and at the column level, select a transformer
+                that defines how you want to anonymize the data or generate
+                synthetic data. (3) We subset your data based on your filters.
+              </p>
+              <p>
+                We do all of this while handling referential integrity. Whether
+                you have primary keys, foreign keys, unique constraints,
+                circular dependencies (within a table and across tables),
+                sequences and more, Neosync preserves those references.
+              </p>
+              <p>
+                We also ship with APIs, a Terraform provider, a CLI and Github
+                action that you can use to hydrate a CI database.
+              </p>
+              <p>
+                Neosync is an open source project written in Go and Typescript
+                and can be run on Docker Compose, Bare Metal, or Kubernetes via
+                Helm. You can also use our hosted platform or managed platform
+                that you can deploy in your VPC. We also have a hosted platform
+                with a generous free tier -
+                <a href="https://neosync.dev">https://neosync.dev</a>
+              </p>
+              <p>
+                Here's a brief loom demo:
+                <a
+                  href="https://www.loom.com/share/ac21378d01cd4d848cf723e4960e8338?sid=2faf613c-92be-44fa-9278-c8087e777356"
+                  >https://www.loom.com/share/ac21378d01cd4d848cf723e4960e8338?...</a
+                >
+              </p>
+              <p>We'd love any feedback you have!</p>
+            </div>
+          </section>
+        </section>
+        <section id="40443920">
+          <h3>
+            <a class="item" href="https://github.com/onecodex/rust-bfield"
+              >Show HN: B-field, a novel probabilistic key-value data structure
+              (`rust-bfield`)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-05-22 @ 17:53:16</span
+              ><span class="points-container"
+                >Points: <span class="points">14</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40443920"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                The B-field allows you to compactly store data using only a few
+                bytes per key-value pair. We've successfully utilized it in
+                genomics to associate billions of "k-mers" with taxonomic
+                identifiers while maintaining an efficient memory footprint. But
+                the data structure is also useful beyond computational biology,
+                particularly where you have large unique key domains and
+                constrained value ranges.
+              </p>
+              <p>
+                Available under an Apache 2 license. We hope it proves useful,
+                and we're happy to answer any questions!
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="40443907">
+          <h3>
+            <a
+              class="item"
+              href="https://twitter.com/DanPriceSeattle/status/1791299631558823954"
+              >One-third of Amazon warehouse workers are on food stamps or
+              Medicaid</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-05-22 @ 17:52:21</span
+              ><span class="points-container"
+                >Points: <span class="points">38</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40443907"
+                  >Comments</a
+                ><span class="descendants">: 33</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="40443693">
+          <h3>
+            <a
+              class="item"
+              href="https://finance.yahoo.com/news/tesla-sales-europe-fall-15-083601211.html"
+              >Tesla's Sales in Europe Fall to a 15-Month Low</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-05-22 @ 17:34:20</span
+              ><span class="points-container"
+                >Points: <span class="points">55</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40443693"
+                  >Comments</a
+                ><span class="descendants">: 70</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="40443302">
           <h3>
             <a
@@ -141,11 +362,11 @@
             <h4>
               <span>2024-05-22 @ 17:01:40</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40443302"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -177,11 +398,11 @@
             <h4>
               <span>2024-05-22 @ 16:05:06</span
               ><span class="points-container"
-                >Points: <span class="points">178</span></span
+                >Points: <span class="points">202</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40442595"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 49</span></span
               >
             </h4>
           </section>
@@ -198,11 +419,11 @@
             <h4>
               <span>2024-05-22 @ 16:04:37</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40442587"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -217,7 +438,7 @@
             <h4>
               <span>2024-05-22 @ 13:58:25</span
               ><span class="points-container"
-                >Points: <span class="points">116</span></span
+                >Points: <span class="points">119</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40441093"
                   >Comments</a
@@ -260,7 +481,7 @@
             <h4>
               <span>2024-05-22 @ 13:48:09</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40440971"
                   >Comments</a
@@ -279,11 +500,32 @@
             <h4>
               <span>2024-05-22 @ 13:39:53</span
               ><span class="points-container"
-                >Points: <span class="points">168</span></span
+                >Points: <span class="points">173</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40440854"
                   >Comments</a
-                ><span class="descendants">: 213</span></span
+                ><span class="descendants">: 217</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="40440841">
+          <h3>
+            <a
+              class="item"
+              href="https://thephd.dev/just-put-raii-in-c-bro-please-bro-just-one-more-destructor-bro-cmon-im-good-for-it"
+              >Why Not Just Do Simple C++ RAII in C?</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-05-22 @ 13:38:51</span
+              ><span class="points-container"
+                >Points: <span class="points">14</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40440841"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -304,7 +546,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40440662"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
@@ -322,11 +564,11 @@
             <h4>
               <span>2024-05-22 @ 12:48:15</span
               ><span class="points-container"
-                >Points: <span class="points">275</span></span
+                >Points: <span class="points">277</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40440283"
                   >Comments</a
-                ><span class="descendants">: 290</span></span
+                ><span class="descendants">: 305</span></span
               >
             </h4>
           </section>
@@ -343,30 +585,11 @@
             <h4>
               <span>2024-05-22 @ 12:21:23</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40440086"
                   >Comments</a
-                ><span class="descendants">: 43</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="40438664">
-          <h3>
-            <a class="item" href="https://github.com/Codium-ai/cover-agent"
-              >Cover Agent: open source regression test generation tool</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-05-22 @ 08:27:44</span
-              ><span class="points-container"
-                >Points: <span class="points">34</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40438664"
-                  >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 48</span></span
               >
             </h4>
           </section>
@@ -381,32 +604,11 @@
             <h4>
               <span>2024-05-22 @ 07:56:43</span
               ><span class="points-container"
-                >Points: <span class="points">158</span></span
+                >Points: <span class="points">163</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40438434"
                   >Comments</a
-                ><span class="descendants">: 47</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="40436796">
-          <h3>
-            <a
-              class="item"
-              href="https://steveblank.com/2024/05/16/secret-history-when-kodak-went-to-war-with-polaroid/"
-              >When Kodak and Polaroid went to war</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-05-22 @ 02:36:11</span
-              ><span class="points-container"
-                >Points: <span class="points">70</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40436796"
-                  >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 48</span></span
               >
             </h4>
           </section>
@@ -423,11 +625,11 @@
             <h4>
               <span>2024-05-21 @ 23:59:39</span
               ><span class="points-container"
-                >Points: <span class="points">202</span></span
+                >Points: <span class="points">203</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40435771"
                   >Comments</a
-                ><span class="descendants">: 112</span></span
+                ><span class="descendants">: 113</span></span
               >
             </h4>
           </section>
@@ -445,33 +647,11 @@
             <h4>
               <span>2024-05-21 @ 22:53:32</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40435076"
                   >Comments</a
                 ><span class="descendants">: 3</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="40434874">
-          <h3>
-            <a
-              class="item"
-              href="https://admiralcloudberg.medium.com/designed-to-crash-the-bizarre-story-of-antonov-an-28-ha-laj-and-its-demise-169b3720d924"
-              >Designed to Crash: the story of Antonov An-28 HA-LAJ and its
-              demise</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-05-21 @ 22:35:15</span
-              ><span class="points-container"
-                >Points: <span class="points">100</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40434874"
-                  >Comments</a
-                ><span class="descendants">: 39</span></span
               >
             </h4>
           </section>
@@ -492,26 +672,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40434290"
                   >Comments</a
-                ><span class="descendants">: 62</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="40433511">
-          <h3>
-            <a class="item" href="https://enterprise.wikimedia.com/"
-              >Wikimedia Enterprise – APIs for LLMs, AI Training, and More</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-05-21 @ 20:32:30</span
-              ><span class="points-container"
-                >Points: <span class="points">202</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40433511"
-                  >Comments</a
-                ><span class="descendants">: 136</span></span
+                ><span class="descendants">: 63</span></span
               >
             </h4>
           </section>
@@ -530,7 +691,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40432834"
                   >Comments</a
-                ><span class="descendants">: 108</span></span
+                ><span class="descendants">: 109</span></span
               >
             </h4>
           </section>
@@ -547,70 +708,13 @@
             <h4>
               <span>2024-05-21 @ 19:23:59</span
               ><span class="points-container"
-                >Points: <span class="points">1179</span></span
+                >Points: <span class="points">1181</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40432688"
                   >Comments</a
                 ><span class="descendants">: 67</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="40432213">
-          <h3>
-            <a class="item" href="https://github.com/Openpanel-dev/openpanel"
-              >Show HN: Openpanel – An open-source alternative to Mixpanel</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-05-21 @ 18:43:50</span
-              ><span class="points-container"
-                >Points: <span class="points">215</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40432213"
-                  >Comments</a
-                ><span class="descendants">: 86</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>
-                Mixpanel is a GREAT tool and quite easy to understand (compared
-                to GA4 and similar). I have used Mixpanel extensively for one of
-                my React Native apps, but the last invoice was $300, which was
-                way over my budget. I think I was paying for MTU (monthly
-                tracked users), which was around 7000-10k users.
-              </p>
-              <p>
-                However, a downside of Mixpanel is that it is purely a product
-                analytics tool; you don't get any basic web analytics similar to
-                what GA4 or Plausible offers.
-              </p>
-              <p>
-                Therefore, I have combined the best features of Mixpanel and
-                Plausible to create what I believe is the ultimate experience in
-                an analytics tool (product and web).
-              </p>
-              <p>
-                The focus has always been: it should be easy yet also powerful.
-                This has been a challenging balance, but I think I have managed
-                to keep it somewhat simple.
-              </p>
-              <p>
-                Key Features: - Privacy-first - Visualize your events like
-                Mixpanel - Plausible-like overview - Self-hostable - Better
-                support for React Native than Plausible - Real-time (no delays
-                for events) Ability to access all individual events and sessions
-              </p>
-              <p>
-                It's currently in beta and completely free during the beta
-                period.
-              </p>
-              <p>
-                Give it a spin:
-                <a href="https://openpanel.dev">https://openpanel.dev</a>
-              </p>
-            </div>
           </section>
         </section>
         <section id="40432102">
@@ -625,7 +729,7 @@
             <h4>
               <span>2024-05-21 @ 18:35:13</span
               ><span class="points-container"
-                >Points: <span class="points">473</span></span
+                >Points: <span class="points">474</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40432102"
                   >Comments</a
@@ -644,11 +748,11 @@
             <h4>
               <span>2024-05-21 @ 18:15:27</span
               ><span class="points-container"
-                >Points: <span class="points">336</span></span
+                >Points: <span class="points">340</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40431835"
                   >Comments</a
-                ><span class="descendants">: 241</span></span
+                ><span class="descendants">: 250</span></span
               >
             </h4>
           </section>
@@ -665,7 +769,7 @@
             <h4>
               <span>2024-05-21 @ 17:19:46</span
               ><span class="points-container"
-                >Points: <span class="points">219</span></span
+                >Points: <span class="points">220</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40431210"
                   >Comments</a
@@ -705,51 +809,11 @@
             <h4>
               <span>2024-05-21 @ 15:41:04</span
               ><span class="points-container"
-                >Points: <span class="points">167</span></span
+                >Points: <span class="points">169</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40429878"
                   >Comments</a
                 ><span class="descendants">: 37</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="40429581">
-          <h3>
-            <a
-              class="item"
-              href="https://fraser.stlouisfed.org/title/business-booms-depressions-since-1775-145"
-              >Business Booms and Depressions Since 1775 (1943)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-05-21 @ 15:19:00</span
-              ><span class="points-container"
-                >Points: <span class="points">241</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40429581"
-                  >Comments</a
-                ><span class="descendants">: 217</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="40428386">
-          <h3>
-            <a class="item" href="https://matthewstrom.com/writing/ui-density/"
-              >What UI density means and how to design for it</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-05-21 @ 13:41:39</span
-              ><span class="points-container"
-                >Points: <span class="points">696</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40428386"
-                  >Comments</a
-                ><span class="descendants">: 355</span></span
               >
             </h4>
           </section>
@@ -764,11 +828,11 @@
             <h4>
               <span>2024-05-21 @ 08:05:13</span
               ><span class="points-container"
-                >Points: <span class="points">8</span></span
+                >Points: <span class="points">9</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40425394"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
