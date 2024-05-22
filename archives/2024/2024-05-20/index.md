@@ -70,6 +70,7 @@
 * [2024-05-20, 13:35:45](https://news.ycombinator.com/item?id=40415304) - [\"Fallout\" Imagines What It Would Be Like If Cold War Consumerism Never Ended](https://www.zocalopublicsquare.org/2024/05/13/cold-war-consumerism-fallout/ideas/essay/)
 * [2024-05-20, 13:15:41](https://news.ycombinator.com/item?id=40415119) - [Red Lobster Files for Bankruptcy](https://www.cnn.com/2024/05/20/investing/red-lobster-restaurants-bankruptcy/index.html)
 * [2024-05-20, 13:01:11](https://news.ycombinator.com/item?id=40415009) - [High performers job hop when they can't find a high performance culture](https://thedailydeveloper.substack.com/p/high-performers-job-hop-when-they)
+* [2024-05-20, 12:53:27](https://news.ycombinator.com/item?id=40414943) - [How I Made Google's \"Web\" View My Default Search](https://tedium.co/2024/05/17/google-web-search-make-default/)
 * [2024-05-20, 12:52:32](https://news.ycombinator.com/item?id=40414932) - [2023 was the hottest summer in two thousand years](https://www.cam.ac.uk/research/news/2023-was-the-hottest-summer-in-two-thousand-years)
 * [2024-05-20, 12:27:11](https://news.ycombinator.com/item?id=40414718) - [CVE-2024-4367 – Arbitrary JavaScript execution in PDF.js](https://codeanlabs.com/blog/research/cve-2024-4367-arbitrary-js-execution-in-pdf-js/)
 * [2024-05-20, 12:07:58](https://news.ycombinator.com/item?id=40414565) - [How a 64k intro is made (2017)](https://www.lofibucket.com/articles/64k_intro.html)
