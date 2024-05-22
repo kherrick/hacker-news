@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-22](index.md)
 
+* [2024-05-22, 16:28:04](https://news.ycombinator.com/item?id=40442842) - [Scarlett Johansson Says OpenAI Ripped Off Her Voice for ChatGPT](https://www.wired.com/story/scarlett-johansson-says-openai-ripped-off-her-voice-for-chatgpt/)
 * [2024-05-22, 16:14:07](https://news.ycombinator.com/item?id=40442705) - [UK General Election called for July 4th](https://www.bbc.co.uk/news/live/uk-politics-69042935)
 * [2024-05-22, 16:05:06](https://news.ycombinator.com/item?id=40442595) - [Pluckable Strings](https://string.spiel.com/)
 * [2024-05-22, 14:45:48](https://news.ycombinator.com/item?id=40441650) - [TSMC EUV machines equipped with remote self-destruct in case of invasion](https://www.tomshardware.com/tech-industry/tsmcs-euv-machines-are-equipped-with-a-remote-self-destruct-in-case-of-an-invasion)
@@ -17,6 +18,7 @@
 * [2024-05-22, 13:14:00](https://news.ycombinator.com/item?id=40440531) - [New Marine radios cement electromagnetic spectrum superiority](https://www.doncio.navy.mil/CHIPS/ArticleDetails.aspx?ID=16600)
 * [2024-05-22, 12:48:15](https://news.ycombinator.com/item?id=40440283) - ['Right to roam' movement fights to give the commons back to the public](https://news.mongabay.com/2024/05/right-to-roam-movement-fights-to-give-the-commons-back-to-the-commoners/)
 * [2024-05-22, 12:31:28](https://news.ycombinator.com/item?id=40440159) - [On Self-driving, Waymo is playing chess while Tesla plays checkers](https://arstechnica.com/cars/2024/05/on-self-driving-waymo-is-playing-chess-while-tesla-plays-checkers/)
+* [2024-05-22, 12:21:23](https://news.ycombinator.com/item?id=40440086) - [What's the difference between a motor and an engine?](https://engineering.mit.edu/engage/ask-an-engineer/whats-the-difference-between-a-motor-and-an-engine/)
 * [2024-05-22, 12:11:05](https://news.ycombinator.com/item?id=40439993) - [Why Dell's ThinOS Runs on FreeBSD](https://freebsdfoundation.org/freebsd-case-studies/dell-case-study-why-dells-thinos-runs-on-freebsd/)
 * [2024-05-22, 12:01:01](https://news.ycombinator.com/item?id=40439913) - [Plane (YC W17) is hiring product engineers (Rails/Remote/Americas)](https://www.ycombinator.com/companies/plane/jobs/6NKkoGo-senior-staff-product-engineer-americas)
 * [2024-05-22, 11:06:44](https://news.ycombinator.com/item?id=40439558) - [Are commercial \"third places\" a dying breed?](https://spacing.ca/toronto/2024/04/26/are-commercial-third-places-a-dying-breed/)
