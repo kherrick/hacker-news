@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-05-22](index.md)
 
+* [2024-05-22, 20:32:34](https://news.ycombinator.com/item?id=40446100) - [Nvidia revenue up 262%, thanks to the AI boom](https://breakingthenews.net/Article/Nvidia%27s-Q1-revenue-up-262-to-dollar26.0B-beating-estimates/62096450)
 * [2024-05-22, 20:26:01](https://news.ycombinator.com/item?id=40446010) - [Nvidia Announces Financial Results for First Quarter Fiscal 2025](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-first-quarter-fiscal-2025)
 * [2024-05-22, 20:22:25](https://news.ycombinator.com/item?id=40445946) - [Walls are starting to close in for Tesla, let's have a closer look](https://threadreaderapp.com/thread/1787501413137858617.html)
 * [2024-05-22, 20:16:42](https://news.ycombinator.com/item?id=40445866) - [A landmark multi-year global partnership with News Corp](https://openai.com/index/news-corp-and-openai-sign-landmark-multi-year-global-partnership/)
 * [2024-05-22, 19:22:09](https://news.ycombinator.com/item?id=40445099) - [BreadboardOS firmware for the Raspberry Pi RP2040 features a Linux-like terminal](https://www.cnx-software.com/2024/05/21/breadboardos-firmware-for-the-raspberry-pi-rp2040-features-a-linux-like-terminal/)
 * [2024-05-22, 19:21:53](https://news.ycombinator.com/item?id=40445093) - [Carmakers Will Give Your Location to Police Without a Warrant, Senators Say](https://www.thedrive.com/news/automakers-will-give-your-location-to-police-without-a-warrant-senators-say)
+* [2024-05-22, 19:11:15](https://news.ycombinator.com/item?id=40444926) - [Show HN: Simple and fast resume document generation with AI](https://cvgist.com/)
 * [2024-05-22, 19:00:57](https://news.ycombinator.com/item?id=40444795) - [Congress Just Made It Basically Impossible to Track Taylor Swift's Private Jet](https://gizmodo.com/congress-just-made-it-way-harder-to-track-taylor-swift-1851492383)
 * [2024-05-22, 18:59:44](https://news.ycombinator.com/item?id=40444778) - [Bluesky Adds Direct Messages](https://bsky.social/about/blog/05-22-2024-direct-messages)
 * [2024-05-22, 18:23:17](https://news.ycombinator.com/item?id=40444267) - [S3 Is Showing Its Age](https://materializedview.io/p/s3-is-showing-its-age)
