@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-22, 13:34:41",
+      "https://news.ycombinator.com/item?id=40440790"
+    ],
+    [
+      "India's campaign to threaten and harass Americans",
+      "https://www.vox.com/world-politics/24160779/inside-indias-secret-campaign-to-threaten-and-harass-americans"
+    ]
+  ],
+  [
+    [
       "2024-05-22, 12:31:28",
       "https://news.ycombinator.com/item?id=40440159"
     ],
@@ -41,6 +51,16 @@
   ],
   [
     [
+      "2024-05-22, 08:27:44",
+      "https://news.ycombinator.com/item?id=40438664"
+    ],
+    [
+      "Cover Agent: open source regression test generation tool",
+      "https://github.com/Codium-ai/cover-agent"
+    ]
+  ],
+  [
+    [
       "2024-05-22, 07:56:43",
       "https://news.ycombinator.com/item?id=40438434"
     ],
@@ -51,42 +71,12 @@
   ],
   [
     [
-      "2024-05-22, 05:25:04",
-      "https://news.ycombinator.com/item?id=40437609"
-    ],
-    [
-      "A transport protocol's view of Starlink",
-      "https://blog.apnic.net/2024/05/17/a-transport-protocols-view-of-starlink/"
-    ]
-  ],
-  [
-    [
-      "2024-05-22, 05:03:00",
-      "https://news.ycombinator.com/item?id=40437506"
-    ],
-    [
-      "Emory Awards, Then Suspends Students Behind Study-Aide App",
-      "https://www.govtech.com/education/higher-ed/emory-awards-then-suspends-students-behind-study-aide-app"
-    ]
-  ],
-  [
-    [
       "2024-05-22, 02:36:11",
       "https://news.ycombinator.com/item?id=40436796"
     ],
     [
       "When Kodak and Polaroid went to war",
       "https://steveblank.com/2024/05/16/secret-history-when-kodak-went-to-war-with-polaroid/"
-    ]
-  ],
-  [
-    [
-      "2024-05-22, 02:09:26",
-      "https://news.ycombinator.com/item?id=40436651"
-    ],
-    [
-      "Scandal at America's top science fair",
-      "https://www.karlstack.com/p/exclusive-scandal-at-americas-top"
     ]
   ],
   [
@@ -137,16 +127,6 @@
     [
       "Wikimedia Enterprise – APIs for LLMs, AI Training, and More",
       "https://enterprise.wikimedia.com/"
-    ]
-  ],
-  [
-    [
-      "2024-05-21, 19:41:07",
-      "https://news.ycombinator.com/item?id=40432888"
-    ],
-    [
-      "How Should We Critique Research? (2019)",
-      "https://gwern.net/research-criticism"
     ]
   ],
   [
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2024-05-21, 15:15:52",
+      "https://news.ycombinator.com/item?id=40429540"
+    ],
+    [
+      "Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet",
+      "https://transformer-circuits.pub/2024/scaling-monosemanticity/"
+    ]
+  ],
+  [
+    [
       "2024-05-21, 14:47:42",
       "https://news.ycombinator.com/item?id=40429200"
     ],
@@ -281,12 +271,22 @@
   ],
   [
     [
-      "2024-05-20, 12:53:27",
-      "https://news.ycombinator.com/item?id=40414943"
+      "2024-05-21, 13:05:08",
+      "https://news.ycombinator.com/item?id=40427973"
     ],
     [
-      "How I Made Google's \"Web\" View My Default Search",
-      "https://tedium.co/2024/05/17/google-web-search-make-default/"
+      "40-Year old BASICA utility code for teaching",
+      "https://github.com/norton120/educator-tools-87"
+    ]
+  ],
+  [
+    [
+      "2024-05-21, 11:21:35",
+      "https://news.ycombinator.com/item?id=40426890"
+    ],
+    [
+      "Images that Sound: Generating spectrograms that are also images",
+      "https://ificl.github.io/images-that-sound/"
     ]
   ],
   [
