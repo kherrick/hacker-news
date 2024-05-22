@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-05-22, 07:29:59",
-      "https://news.ycombinator.com/item?id=40438261"
-    ],
-    [
-      "Electric cars more likely to hit pedestrians than petrol vehicles, study finds",
-      "https://www.theguardian.com/world/article/2024/may/21/electric-cars-more-likely-to-hit-pedestrians-than-petrol-vehicles-study-finds"
-    ]
-  ],
-  [
-    [
       "2024-05-22, 05:25:04",
       "https://news.ycombinator.com/item?id=40437609"
     ],
@@ -237,6 +227,16 @@
     [
       "Business Booms and Depressions Since 1775 (1943)",
       "https://fraser.stlouisfed.org/title/business-booms-depressions-since-1775-145"
+    ]
+  ],
+  [
+    [
+      "2024-05-21, 15:15:52",
+      "https://news.ycombinator.com/item?id=40429540"
+    ],
+    [
+      "Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet",
+      "https://transformer-circuits.pub/2024/scaling-monosemanticity/"
     ]
   ],
   [
