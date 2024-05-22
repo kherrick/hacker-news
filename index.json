@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-05-22, 14:32:14",
-      "https://news.ycombinator.com/item?id=40441494"
+      "2024-05-22, 14:45:48",
+      "https://news.ycombinator.com/item?id=40441650"
     ],
     [
-      "Teslas Can Still Be Stolen with a Cheap Radio Hack–Despite New Keyless Tech",
-      "https://www.wired.com/story/tesla-ultra-wideband-radio-relay-attacks/"
+      "TSMC EUV machines equipped with remote self-destruct in case of invasion",
+      "https://www.tomshardware.com/tech-industry/tsmcs-euv-machines-are-equipped-with-a-remote-self-destruct-in-case-of-an-invasion"
     ]
   ],
   [
@@ -21,12 +21,32 @@
   ],
   [
     [
+      "2024-05-22, 13:58:25",
+      "https://news.ycombinator.com/item?id=40441093"
+    ],
+    [
+      "Show HN: PBT – A property-based testing library for Ruby",
+      "https://github.com/ohbarye/pbt"
+    ]
+  ],
+  [
+    [
       "2024-05-22, 13:39:53",
       "https://news.ycombinator.com/item?id=40440854"
     ],
     [
       "Sal Khan is pioneering innovation in education again",
       "https://www.gatesnotes.com/Brave-New-Words"
+    ]
+  ],
+  [
+    [
+      "2024-05-22, 13:24:45",
+      "https://news.ycombinator.com/item?id=40440662"
+    ],
+    [
+      "Mars rover mission will use pioneering nuclear power source",
+      "https://www.nature.com/articles/d41586-024-01487-6"
     ]
   ],
   [
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2024-05-21, 14:47:42",
-      "https://news.ycombinator.com/item?id=40429200"
-    ],
-    [
-      "Show HN: I built a game to help you learn neural network architectures",
-      "https://graphgame.sabrina.dev/"
-    ]
-  ],
-  [
-    [
       "2024-05-21, 14:19:56",
       "https://news.ycombinator.com/item?id=40428827"
     ],
@@ -277,16 +287,6 @@
     [
       "Abusing url handling in iTerm2 and Hyper for code execution",
       "https://vin01.github.io/piptagole/escape-sequences/iterm2/hyper/url-handlers/code-execution/2024/05/21/arbitrary-url-schemes-terminal-emulators.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-21, 05:21:10",
-      "https://news.ycombinator.com/item?id=40424452"
-    ],
-    [
-      "Version Control Beyond Git",
-      "https://www.soundbarrier.io/posts/git_alternatives/"
     ]
   ],
   [
