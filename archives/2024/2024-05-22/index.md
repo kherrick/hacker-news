@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-22](index.md)
 
+* [2024-05-22, 20:57:21](https://news.ycombinator.com/item?id=40446449) - [Why Functional Programming Matters [pdf]](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
+* [2024-05-22, 20:56:20](https://news.ycombinator.com/item?id=40446433) - [Cortile – Linux auto tiling manager with hot corner support](https://github.com/leukipp/cortile)
 * [2024-05-22, 20:32:34](https://news.ycombinator.com/item?id=40446100) - [Nvidia revenue up 262%, thanks to the AI boom](https://breakingthenews.net/Article/Nvidia%27s-Q1-revenue-up-262-to-dollar26.0B-beating-estimates/62096450)
 * [2024-05-22, 20:26:01](https://news.ycombinator.com/item?id=40446010) - [Nvidia Announces Financial Results for First Quarter Fiscal 2025](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-first-quarter-fiscal-2025)
 * [2024-05-22, 20:22:25](https://news.ycombinator.com/item?id=40445946) - [Walls are starting to close in for Tesla, let's have a closer look](https://threadreaderapp.com/thread/1787501413137858617.html)
