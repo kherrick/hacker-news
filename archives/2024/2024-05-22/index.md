@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-05-22](index.md)
 
+* [2024-05-22, 14:45:48](https://news.ycombinator.com/item?id=40441650) - [TSMC EUV machines equipped with remote self-destruct in case of invasion](https://www.tomshardware.com/tech-industry/tsmcs-euv-machines-are-equipped-with-a-remote-self-destruct-in-case-of-an-invasion)
 * [2024-05-22, 14:32:14](https://news.ycombinator.com/item?id=40441494) - [Teslas Can Still Be Stolen with a Cheap Radio Hack–Despite New Keyless Tech](https://www.wired.com/story/tesla-ultra-wideband-radio-relay-attacks/)
 * [2024-05-22, 14:01:11](https://news.ycombinator.com/item?id=40441115) - [Why physicists now question the fate of the Universe](https://bigthink.com/starts-with-a-bang/physicists-question-fate-universe/)
+* [2024-05-22, 13:58:25](https://news.ycombinator.com/item?id=40441093) - [Show HN: PBT – A property-based testing library for Ruby](https://github.com/ohbarye/pbt)
 * [2024-05-22, 13:39:53](https://news.ycombinator.com/item?id=40440854) - [Sal Khan is pioneering innovation in education again](https://www.gatesnotes.com/Brave-New-Words)
 * [2024-05-22, 13:34:41](https://news.ycombinator.com/item?id=40440790) - [India's campaign to threaten and harass Americans](https://www.vox.com/world-politics/24160779/inside-indias-secret-campaign-to-threaten-and-harass-americans)
 * [2024-05-22, 13:24:45](https://news.ycombinator.com/item?id=40440662) - [Mars rover mission will use pioneering nuclear power source](https://www.nature.com/articles/d41586-024-01487-6)
