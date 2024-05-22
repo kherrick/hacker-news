@@ -25,6 +25,7 @@
 * [2024-05-22, 04:36:11](https://news.ycombinator.com/item?id=40437379) - [\"No way to prevent this\" say users of only language where this regularly happens](https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2024-4323/)
 * [2024-05-22, 04:13:35](https://news.ycombinator.com/item?id=40437269) - [Lem is the editor/IDE well-tuned for Common Lisp](https://lem-project.github.io/)
 * [2024-05-22, 03:14:45](https://news.ycombinator.com/item?id=40436975) - [Why MSFT Copilot+ and AI PCs are the final nail in the coffin of open computing](https://venturebeat.com/ai/ceding-control-how-copilot-and-pcs-could-make-enterprises-beholden-to-microsoft/)
+* [2024-05-22, 02:36:11](https://news.ycombinator.com/item?id=40436796) - [When Kodak and Polaroid went to war](https://steveblank.com/2024/05/16/secret-history-when-kodak-went-to-war-with-polaroid/)
 * [2024-05-22, 02:09:26](https://news.ycombinator.com/item?id=40436651) - [Scandal at America's Top Science Fair](https://www.karlstack.com/p/exclusive-scandal-at-americas-top)
 * [2024-05-22, 01:54:31](https://news.ycombinator.com/item?id=40436564) - [Up Phone – The Privacy Phone](https://unplugged.com/)
 * [2024-05-22, 01:54:24](https://news.ycombinator.com/item?id=40436560) - [Tillywork: Open-Source Work Management](https://github.com/tillywork/tillywork)
