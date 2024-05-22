@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-22](index.md)
 
+* [2024-05-22, 17:14:36](https://news.ycombinator.com/item?id=40443470) - [Undisclosed WhatsApp Vulnerability Lets Governments See Who You Message](https://theintercept.com/2024/05/22/whatsapp-security-vulnerability-meta-israel-palestine/)
 * [2024-05-22, 17:00:03](https://news.ycombinator.com/item?id=40443276) - [Trieve (YC W24) Is Hiring a Sales Engineer](https://www.ycombinator.com/companies/trieve/jobs/LN9ucK7-sales-engineer-at-trieve-w24)
 * [2024-05-22, 16:28:04](https://news.ycombinator.com/item?id=40442842) - [Scarlett Johansson Says OpenAI Ripped Off Her Voice for ChatGPT](https://www.wired.com/story/scarlett-johansson-says-openai-ripped-off-her-voice-for-chatgpt/)
 * [2024-05-22, 16:14:07](https://news.ycombinator.com/item?id=40442705) - [UK General Election called for July 4th](https://www.bbc.co.uk/news/live/uk-politics-69042935)
