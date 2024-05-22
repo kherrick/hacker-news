@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-22](index.md)
 
+* [2024-05-22, 22:39:51](https://news.ycombinator.com/item?id=40447626) - [US Justice Department to Seek Breakup of Live Nation-Ticketmaster](https://www.bloomberg.com/news/articles/2024-05-22/justice-department-to-seek-breakup-of-live-nation-ticketmaster)
 * [2024-05-22, 22:22:30](https://news.ycombinator.com/item?id=40447431) - [Leaked OpenAI documents reveal aggressive tactics toward former employees](https://www.vox.com/future-perfect/351132/openai-vested-equity-nda-sam-altman-documents-employees)
 * [2024-05-22, 22:02:19](https://news.ycombinator.com/item?id=40447235) - [A Michigan farmworker is diagnosed with bird flu in case tied to dairy cows](https://www.npr.org/2024/05/22/1252984256/bird-flu-h5n1-virus-human-michigan-cows)
 * [2024-05-22, 21:51:40](https://news.ycombinator.com/item?id=40447117) - [Voyager 1 Resumes Sending Science Data](https://blogs.nasa.gov/voyager/2024/05/22/voyager-1-resumes-sending-science-data-from-two-instruments/)
@@ -27,6 +28,7 @@
 * [2024-05-22, 18:22:27](https://news.ycombinator.com/item?id=40444262) - [Why I failed in $1,7k monthly revenue in my first SaaS?](https://news.ycombinator.com/item?id=40444262)
 * [2024-05-22, 18:15:43](https://news.ycombinator.com/item?id=40444168) - [AlphaFold3 – why did Nature publish it without its code?](https://www.nature.com/articles/d41586-024-01463-0)
 * [2024-05-22, 18:11:34](https://news.ycombinator.com/item?id=40444121) - [Try Clojure](https://tryclojure.org/)
+* [2024-05-22, 18:11:19](https://news.ycombinator.com/item?id=40444118) - [Microsoft Launches CoPilot+ for PCs, Team CoPilot, and More](https://thehorizonnews.beehiiv.com/p/microsoft-launches-copilot-pcs-team-copilot)
 * [2024-05-22, 18:05:58](https://news.ycombinator.com/item?id=40444048) - [Developers does not care about poisoning attacks in LLM code assistants](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a178/1V28Z2MBROU)
 * [2024-05-22, 17:53:45](https://news.ycombinator.com/item?id=40443927) - [Show HN: Neosync – Open-Source Data Anonymization for Postgres and MySQL](https://github.com/nucleuscloud/neosync)
 * [2024-05-22, 17:53:16](https://news.ycombinator.com/item?id=40443920) - [Show HN: B-field, a novel probabilistic key-value data structure (`rust-bfield`)](https://github.com/onecodex/rust-bfield)
