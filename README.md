@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-22, 09:12:13](https://news.ycombinator.com/item?id=40438960) - [How and why to make a /now page on your site](https://sive.rs/now2)
 * [2024-05-22, 05:25:04](https://news.ycombinator.com/item?id=40437609) - [A transport protocol's view of Starlink](https://blog.apnic.net/2024/05/17/a-transport-protocols-view-of-starlink/)
 * [2024-05-22, 05:09:20](https://news.ycombinator.com/item?id=40437535) - [Alacritty – A fast, cross-platform, OpenGL terminal emulator](https://github.com/alacritty/alacritty)
 * [2024-05-22, 05:03:00](https://news.ycombinator.com/item?id=40437506) - [Emory Awards, Then Suspends Students Behind Study-Aide App](https://www.govtech.com/education/higher-ed/emory-awards-then-suspends-students-behind-study-aide-app)
 * [2024-05-22, 04:53:21](https://news.ycombinator.com/item?id=40437464) - [Possible firmware issues for Apple Silicon OpenBSD/ARM64 users](https://www.undeadly.org/cgi?action=article;sid=20240522045252)
-* [2024-05-22, 04:36:11](https://news.ycombinator.com/item?id=40437379) - [\"No way to prevent this\" say users of only language where this regularly happens](https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2024-4323/)
 * [2024-05-22, 01:54:24](https://news.ycombinator.com/item?id=40436560) - [Tillywork: Open-Source Work Management](https://github.com/tillywork/tillywork)
 * [2024-05-22, 01:00:30](https://news.ycombinator.com/item?id=40436206) - [CodeCrafters (YC S22) Is Hiring a Remote Influencer Partnerships Manager](https://www.ycombinator.com/companies/codecrafters/jobs/7ljWFvU-influencer-partnerships-manager)
 * [2024-05-21, 23:59:39](https://news.ycombinator.com/item?id=40435771) - [A Road to Common Lisp (2018)](https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/)
