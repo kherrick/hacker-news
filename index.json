@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-22, 20:16:42",
+      "https://news.ycombinator.com/item?id=40445866"
+    ],
+    [
+      "A landmark multi-year global partnership with News Corp",
+      "https://openai.com/index/news-corp-and-openai-sign-landmark-multi-year-global-partnership/"
+    ]
+  ],
+  [
+    [
       "2024-05-22, 19:21:53",
       "https://news.ycombinator.com/item?id=40445093"
     ],
@@ -17,6 +27,16 @@
     [
       "Bluesky Adds Direct Messages",
       "https://bsky.social/about/blog/05-22-2024-direct-messages"
+    ]
+  ],
+  [
+    [
+      "2024-05-22, 18:23:17",
+      "https://news.ycombinator.com/item?id=40444267"
+    ],
+    [
+      "S3 Is Showing Its Age",
+      "https://materializedview.io/p/s3-is-showing-its-age"
     ]
   ],
   [
@@ -141,32 +161,12 @@
   ],
   [
     [
-      "2024-05-22, 13:38:51",
-      "https://news.ycombinator.com/item?id=40440841"
-    ],
-    [
-      "Why Not Just Do Simple C++ RAII in C?",
-      "https://thephd.dev/just-put-raii-in-c-bro-please-bro-just-one-more-destructor-bro-cmon-im-good-for-it"
-    ]
-  ],
-  [
-    [
       "2024-05-22, 13:24:45",
       "https://news.ycombinator.com/item?id=40440662"
     ],
     [
       "Mars rover mission will use pioneering nuclear power source",
       "https://www.nature.com/articles/d41586-024-01487-6"
-    ]
-  ],
-  [
-    [
-      "2024-05-22, 11:26:48",
-      "https://news.ycombinator.com/item?id=40439681"
-    ],
-    [
-      "WebAssembly: A promising technology that is quietly being enshitified",
-      "https://kerkour.com/webassembly-wasi-preview2"
     ]
   ],
   [
@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2024-05-22, 02:36:11",
+      "https://news.ycombinator.com/item?id=40436796"
+    ],
+    [
+      "When Kodak and Polaroid went to war",
+      "https://steveblank.com/2024/05/16/secret-history-when-kodak-went-to-war-with-polaroid/"
+    ]
+  ],
+  [
+    [
       "2024-05-21, 23:59:39",
       "https://news.ycombinator.com/item?id=40435771"
     ],
@@ -207,16 +217,6 @@
     [
       "How to compare two packed bitfields without having to unpack each field (2019)",
       "https://devblogs.microsoft.com/oldnewthing/20190301-00/?p=101076"
-    ]
-  ],
-  [
-    [
-      "2024-05-21, 21:35:35",
-      "https://news.ycombinator.com/item?id=40434290"
-    ],
-    [
-      "The Stanford Startup and the MIT Startup (2013)",
-      "http://fpgacomputing.blogspot.com/2013/11/the-stanford-startup-and-mit-startup.html"
     ]
   ],
   [
