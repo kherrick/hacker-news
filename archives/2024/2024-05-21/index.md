@@ -95,6 +95,7 @@
 * [2024-05-21, 10:05:56](https://news.ycombinator.com/item?id=40426382) - [Building an AI game studio: what we've learned so far](https://braindump.me/blog-posts/building-an-ai-game-studio)
 * [2024-05-21, 09:31:24](https://news.ycombinator.com/item?id=40426099) - [Show HN: Oracolo – A minimalist Nostr blog in a single HTML file](https://github.com/dtonon/oracolo)
 * [2024-05-21, 09:10:46](https://news.ycombinator.com/item?id=40425905) - [Reversing Choplifter](https://blondihacks.com/reversing-choplifter/)
+* [2024-05-21, 08:55:56](https://news.ycombinator.com/item?id=40425762) - [Why Are Sloths So Slow?](https://slothconservation.org/sloths-move-slow/)
 * [2024-05-21, 08:20:02](https://news.ycombinator.com/item?id=40425504) - [AI Needs Enormous Computing Power. Could Light-Based Chips Help?](https://www.quantamagazine.org/ai-needs-enormous-computing-power-could-light-based-chips-help-20240520/)
 * [2024-05-21, 08:09:23](https://news.ycombinator.com/item?id=40425428) - [iTerm2 3.5.0](https://iterm2.com/downloads/stable/iTerm2-3_5_0.changelog)
 * [2024-05-21, 08:06:24](https://news.ycombinator.com/item?id=40425403) - [The OpenAI board was right – No (by a voice actres named Scarlet) means No](https://garymarcus.substack.com/p/the-openai-board-was-right)
