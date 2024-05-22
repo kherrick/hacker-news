@@ -2,6 +2,7 @@
 
 * [2024-05-22, 05:25:04](https://news.ycombinator.com/item?id=40437609) - [A transport protocol's view of Starlink](https://blog.apnic.net/2024/05/17/a-transport-protocols-view-of-starlink/)
 * [2024-05-22, 05:09:20](https://news.ycombinator.com/item?id=40437535) - [Alacritty – A fast, cross-platform, OpenGL terminal emulator](https://github.com/alacritty/alacritty)
+* [2024-05-22, 05:03:00](https://news.ycombinator.com/item?id=40437506) - [Emory Awards, Then Suspends Students Behind Study-Aide App](https://www.govtech.com/education/higher-ed/emory-awards-then-suspends-students-behind-study-aide-app)
 * [2024-05-22, 04:53:21](https://news.ycombinator.com/item?id=40437464) - [Possible firmware issues for Apple Silicon OpenBSD/ARM64 users](https://www.undeadly.org/cgi?action=article;sid=20240522045252)
 * [2024-05-22, 02:09:26](https://news.ycombinator.com/item?id=40436651) - [Scandal at America's top science fair](https://www.karlstack.com/p/exclusive-scandal-at-americas-top)
 * [2024-05-22, 01:54:24](https://news.ycombinator.com/item?id=40436560) - [Tillywork: Open-Source Work Management](https://github.com/tillywork/tillywork)
@@ -13,7 +14,6 @@
 * [2024-05-21, 21:35:35](https://news.ycombinator.com/item?id=40434290) - [The Stanford Startup and the MIT Startup (2013)](http://fpgacomputing.blogspot.com/2013/11/the-stanford-startup-and-mit-startup.html)
 * [2024-05-21, 20:32:30](https://news.ycombinator.com/item?id=40433511) - [Wikimedia Enterprise – APIs for LLMs, AI Training, and More](https://enterprise.wikimedia.com/)
 * [2024-05-21, 19:41:07](https://news.ycombinator.com/item?id=40432888) - [How Should We Critique Research?](https://gwern.net/research-criticism)
-* [2024-05-21, 19:39:12](https://news.ycombinator.com/item?id=40432870) - [Strategic Altruism](https://www.conspicuouscognition.com/p/strategic-altruism-the-machiavellian)
 * [2024-05-21, 19:36:36](https://news.ycombinator.com/item?id=40432834) - [Storing knowledge in a single long plain text file](https://breckyunits.com/scrollsets.html)
 * [2024-05-21, 19:23:59](https://news.ycombinator.com/item?id=40432688) - [Gordon Bell has died](https://arstechnica.com/gadgets/2024/05/gordon-bell-an-architect-of-our-digital-age-dies-at-age-89/)
 * [2024-05-21, 18:43:50](https://news.ycombinator.com/item?id=40432213) - [Show HN: Openpanel – An open-source alternative to Mixpanel](https://github.com/Openpanel-dev/openpanel)
