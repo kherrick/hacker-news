@@ -99,6 +99,7 @@
 * [2024-05-21, 08:20:02](https://news.ycombinator.com/item?id=40425504) - [AI Needs Enormous Computing Power. Could Light-Based Chips Help?](https://www.quantamagazine.org/ai-needs-enormous-computing-power-could-light-based-chips-help-20240520/)
 * [2024-05-21, 08:09:23](https://news.ycombinator.com/item?id=40425428) - [iTerm2 3.5.0](https://iterm2.com/downloads/stable/iTerm2-3_5_0.changelog)
 * [2024-05-21, 08:06:24](https://news.ycombinator.com/item?id=40425403) - [The OpenAI board was right – No (by a voice actres named Scarlet) means No](https://garymarcus.substack.com/p/the-openai-board-was-right)
+* [2024-05-21, 08:06:14](https://news.ycombinator.com/item?id=40425402) - [To the Person Sitting in Darkness (1901)](https://www.gutenberg.org/files/62636/62636-h/62636-h.htm)
 * [2024-05-21, 08:05:13](https://news.ycombinator.com/item?id=40425394) - [The Ages of Programming Language Creators](https://pldb.io/posts/ageAtCreation.html)
 * [2024-05-21, 07:55:16](https://news.ycombinator.com/item?id=40425315) - [CamelCase vs. Snake_case Scientific Studies](https://whatheco.de/2011/02/10/camelcase-vs-underscores-scientific-showdown/)
 * [2024-05-21, 07:53:56](https://news.ycombinator.com/item?id=40425306) - [Microsoft's AI chatbot will 'recall' everything you do on its new PCs](https://www.theguardian.com/technology/article/2024/may/20/microsoft-chatbot-assistant-pc)

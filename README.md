@@ -29,7 +29,7 @@
 * [2024-05-22, 07:56:43](https://news.ycombinator.com/item?id=40438434) - [Psion 5mx Emulator](https://wuffs.org/WindEmu/index.html)
 * [2024-05-21, 10:18:00](https://news.ycombinator.com/item?id=40426453) - [Emacs used as a message router in Germany's ATC systems in the 1990s (2021)](https://www.emacswiki.org/emacs/EmacsStories)
 * [2024-05-21, 08:55:56](https://news.ycombinator.com/item?id=40425762) - [Why Are Sloths So Slow?](https://slothconservation.org/sloths-move-slow/)
-* [2024-05-21, 05:14:09](https://news.ycombinator.com/item?id=40424408) - [The Gilded Gallows of Georg Honauer (1597)](https://publicdomainreview.org/collection/gilded-gallows-of-georg-honauer/)
+* [2024-05-21, 08:06:14](https://news.ycombinator.com/item?id=40425402) - [To the Person Sitting in Darkness (1901)](https://www.gutenberg.org/files/62636/62636-h/62636-h.htm)
 
 ## [Archives](archives/index.md)
 
