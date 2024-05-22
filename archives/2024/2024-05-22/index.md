@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-22](index.md)
 
+* [2024-05-22, 05:09:20](https://news.ycombinator.com/item?id=40437535) - [Alacritty – A fast, cross-platform, OpenGL terminal emulator](https://github.com/alacritty/alacritty)
 * [2024-05-22, 04:53:21](https://news.ycombinator.com/item?id=40437464) - [Important message for Apple Silicon OpenBSD/ARM64 users](https://www.undeadly.org/cgi?action=article;sid=20240522045252)
 * [2024-05-22, 04:47:31](https://news.ycombinator.com/item?id=40437435) - [Unprecedented flooding in Brazil leaves hundreds of thousands displaced](https://www.msf.org/unprecedented-flooding-brazil-leaves-millions-affected-and-hundreds-thousands-displaced)
 * [2024-05-22, 04:13:35](https://news.ycombinator.com/item?id=40437269) - [Lem is the editor/IDE well-tuned for Common Lisp](https://lem-project.github.io/)

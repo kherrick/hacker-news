@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-22, 05:09:20](https://news.ycombinator.com/item?id=40437535) - [Alacritty – A fast, cross-platform, OpenGL terminal emulator](https://github.com/alacritty/alacritty)
 * [2024-05-22, 04:53:21](https://news.ycombinator.com/item?id=40437464) - [Possible firmware issues for Apple Silicon OpenBSD/ARM64 users](https://www.undeadly.org/cgi?action=article;sid=20240522045252)
 * [2024-05-22, 04:47:31](https://news.ycombinator.com/item?id=40437435) - [Unprecedented flooding in Brazil leaves hundreds of thousands displaced](https://www.msf.org/unprecedented-flooding-brazil-leaves-millions-affected-and-hundreds-thousands-displaced)
 * [2024-05-22, 02:09:26](https://news.ycombinator.com/item?id=40436651) - [Scandal at America's top science fair](https://www.karlstack.com/p/exclusive-scandal-at-americas-top)
@@ -29,7 +30,6 @@
 * [2024-05-21, 13:09:10](https://news.ycombinator.com/item?id=40428032) - [Abusing url handling in iTerm2 and Hyper for code execution](https://vin01.github.io/piptagole/escape-sequences/iterm2/hyper/url-handlers/code-execution/2024/05/21/arbitrary-url-schemes-terminal-emulators.html)
 * [2024-05-21, 06:46:06](https://news.ycombinator.com/item?id=40424938) - [Taking Risk](https://tomblomfield.com/post/750852175114174464/taking-risk)
 * [2024-05-20, 11:01:55](https://news.ycombinator.com/item?id=40414187) - [Counted B-Trees (2017)](https://www.chiark.greenend.org.uk/~sgtatham/algorithms/cbtree.html)
-* [2024-05-20, 10:42:02](https://news.ycombinator.com/item?id=40414091) - [My Inky Dashboard (2022)](https://dracos.co.uk/wrote/inky-dashboard/)
 
 ## [Archives](archives/index.md)
 
