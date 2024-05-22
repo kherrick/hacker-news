@@ -6,6 +6,7 @@
 
 * [2024-05-22, 18:15:43](https://news.ycombinator.com/item?id=40444168) - [AlphaFold3 – why did Nature publish it without its code?](https://www.nature.com/articles/d41586-024-01463-0)
 * [2024-05-22, 18:11:34](https://news.ycombinator.com/item?id=40444121) - [Try Clojure](https://tryclojure.org/)
+* [2024-05-22, 18:05:58](https://news.ycombinator.com/item?id=40444048) - [Developers does not care about poisoning attacks in LLM code assistants](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a178/1V28Z2MBROU)
 * [2024-05-22, 17:53:45](https://news.ycombinator.com/item?id=40443927) - [Show HN: Neosync – Open-Source Data Anonymization for Postgres and MySQL](https://github.com/nucleuscloud/neosync)
 * [2024-05-22, 17:53:16](https://news.ycombinator.com/item?id=40443920) - [Show HN: B-field, a novel probabilistic key-value data structure (`rust-bfield`)](https://github.com/onecodex/rust-bfield)
 * [2024-05-22, 17:52:21](https://news.ycombinator.com/item?id=40443907) - [One-third of Amazon warehouse workers are on food stamps or Medicaid](https://twitter.com/DanPriceSeattle/status/1791299631558823954)

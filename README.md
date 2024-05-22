@@ -2,10 +2,10 @@
 
 * [2024-05-22, 18:15:43](https://news.ycombinator.com/item?id=40444168) - [AlphaFold3 – why did Nature publish it without its code?](https://www.nature.com/articles/d41586-024-01463-0)
 * [2024-05-22, 18:11:34](https://news.ycombinator.com/item?id=40444121) - [Try Clojure](https://tryclojure.org/)
+* [2024-05-22, 18:05:58](https://news.ycombinator.com/item?id=40444048) - [Developers does not care about poisoning attacks in LLM code assistants](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a178/1V28Z2MBROU)
 * [2024-05-22, 17:53:45](https://news.ycombinator.com/item?id=40443927) - [Show HN: Neosync – Open-Source Data Anonymization for Postgres and MySQL](https://github.com/nucleuscloud/neosync)
 * [2024-05-22, 17:53:16](https://news.ycombinator.com/item?id=40443920) - [Show HN: B-field, a novel probabilistic key-value data structure (`rust-bfield`)](https://github.com/onecodex/rust-bfield)
 * [2024-05-22, 17:52:21](https://news.ycombinator.com/item?id=40443907) - [One-third of Amazon warehouse workers are on food stamps or Medicaid](https://twitter.com/DanPriceSeattle/status/1791299631558823954)
-* [2024-05-22, 17:34:20](https://news.ycombinator.com/item?id=40443693) - [Tesla's Sales in Europe Fall to a 15-Month Low](https://finance.yahoo.com/news/tesla-sales-europe-fall-15-083601211.html)
 * [2024-05-22, 17:01:40](https://news.ycombinator.com/item?id=40443302) - [Citi Missed a Fat Finger](https://www.bloomberg.com/opinion/articles/2024-05-22/citi-missed-a-fat-finger)
 * [2024-05-22, 17:00:03](https://news.ycombinator.com/item?id=40443276) - [Trieve (YC W24) Is Hiring a Sales Engineer](https://www.ycombinator.com/companies/trieve/jobs/LN9ucK7-sales-engineer-at-trieve-w24)
 * [2024-05-22, 16:05:06](https://news.ycombinator.com/item?id=40442595) - [Pluckable Strings](https://string.spiel.com/)
@@ -15,7 +15,6 @@
 * [2024-05-22, 13:39:53](https://news.ycombinator.com/item?id=40440854) - [Sal Khan is pioneering innovation in education again](https://www.gatesnotes.com/Brave-New-Words)
 * [2024-05-22, 13:38:51](https://news.ycombinator.com/item?id=40440841) - [Why Not Just Do Simple C++ RAII in C?](https://thephd.dev/just-put-raii-in-c-bro-please-bro-just-one-more-destructor-bro-cmon-im-good-for-it)
 * [2024-05-22, 13:24:45](https://news.ycombinator.com/item?id=40440662) - [Mars rover mission will use pioneering nuclear power source](https://www.nature.com/articles/d41586-024-01487-6)
-* [2024-05-22, 12:48:15](https://news.ycombinator.com/item?id=40440283) - ['Right to roam' movement fights to give the commons back to the public](https://news.mongabay.com/2024/05/right-to-roam-movement-fights-to-give-the-commons-back-to-the-commoners/)
 * [2024-05-22, 12:21:23](https://news.ycombinator.com/item?id=40440086) - [What's the difference between a motor and an engine?](https://engineering.mit.edu/engage/ask-an-engineer/whats-the-difference-between-a-motor-and-an-engine/)
 * [2024-05-22, 07:56:43](https://news.ycombinator.com/item?id=40438434) - [Psion 5mx Emulator](https://wuffs.org/WindEmu/index.html)
 * [2024-05-21, 23:59:39](https://news.ycombinator.com/item?id=40435771) - [A Road to Common Lisp (2018)](https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/)
@@ -28,6 +27,7 @@
 * [2024-05-21, 17:19:46](https://news.ycombinator.com/item?id=40431210) - [I want flexible queries, not RAG](https://win-vector.com/2024/05/21/i-want-flexible-queries-not-rag/)
 * [2024-05-21, 16:52:46](https://news.ycombinator.com/item?id=40430868) - [The Effects of Early Relational Trauma (2001) [pdf]](https://www.allanschore.com/pdf/SchoreIMHJTrauma01.pdf)
 * [2024-05-21, 15:41:04](https://news.ycombinator.com/item?id=40429878) - [Fast real time fluid simulator based on MPM algorithm](https://kotsoft.github.io/)
+* [2024-05-21, 15:19:00](https://news.ycombinator.com/item?id=40429581) - [Business Booms and Depressions Since 1775 (1943)](https://fraser.stlouisfed.org/title/business-booms-depressions-since-1775-145)
 * [2024-05-21, 08:05:13](https://news.ycombinator.com/item?id=40425394) - [The Ages of Programming Language Creators](https://pldb.io/posts/ageAtCreation.html)
 * [2024-05-20, 11:01:55](https://news.ycombinator.com/item?id=40414187) - [Counted B-Trees (2017)](https://www.chiark.greenend.org.uk/~sgtatham/algorithms/cbtree.html)
 
