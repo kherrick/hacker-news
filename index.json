@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-05-22, 05:03:00",
+      "https://news.ycombinator.com/item?id=40437506"
+    ],
+    [
+      "Emory Awards, Then Suspends Students Behind Study-Aide App",
+      "https://www.govtech.com/education/higher-ed/emory-awards-then-suspends-students-behind-study-aide-app"
+    ]
+  ],
+  [
+    [
       "2024-05-22, 04:53:21",
       "https://news.ycombinator.com/item?id=40437464"
     ],
@@ -141,16 +151,6 @@
   ],
   [
     [
-      "2024-05-21, 19:39:12",
-      "https://news.ycombinator.com/item?id=40432870"
-    ],
-    [
-      "Strategic Altruism",
-      "https://www.conspicuouscognition.com/p/strategic-altruism-the-machiavellian"
-    ]
-  ],
-  [
-    [
       "2024-05-21, 19:36:36",
       "https://news.ycombinator.com/item?id=40432834"
     ],
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2024-05-21, 15:15:52",
-      "https://news.ycombinator.com/item?id=40429540"
-    ],
-    [
-      "Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet",
-      "https://transformer-circuits.pub/2024/scaling-monosemanticity/"
-    ]
-  ],
-  [
-    [
       "2024-05-21, 14:19:56",
       "https://news.ycombinator.com/item?id=40428827"
     ],
@@ -267,6 +257,16 @@
     [
       "What UI density means and how to design for it",
       "https://matthewstrom.com/writing/ui-density/"
+    ]
+  ],
+  [
+    [
+      "2024-05-21, 13:09:10",
+      "https://news.ycombinator.com/item?id=40428032"
+    ],
+    [
+      "Abusing url handling in iTerm2 and Hyper for code execution",
+      "https://vin01.github.io/piptagole/escape-sequences/iterm2/hyper/url-handlers/code-execution/2024/05/21/arbitrary-url-schemes-terminal-emulators.html"
     ]
   ],
   [
