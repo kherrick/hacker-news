@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-22](index.md)
 
+* [2024-05-22, 14:32:14](https://news.ycombinator.com/item?id=40441494) - [Teslas Can Still Be Stolen with a Cheap Radio Hack–Despite New Keyless Tech](https://www.wired.com/story/tesla-ultra-wideband-radio-relay-attacks/)
 * [2024-05-22, 14:01:11](https://news.ycombinator.com/item?id=40441115) - [Why physicists now question the fate of the Universe](https://bigthink.com/starts-with-a-bang/physicists-question-fate-universe/)
 * [2024-05-22, 13:39:53](https://news.ycombinator.com/item?id=40440854) - [Sal Khan is pioneering innovation in education again](https://www.gatesnotes.com/Brave-New-Words)
 * [2024-05-22, 13:34:41](https://news.ycombinator.com/item?id=40440790) - [India's campaign to threaten and harass Americans](https://www.vox.com/world-politics/24160779/inside-indias-secret-campaign-to-threaten-and-harass-americans)

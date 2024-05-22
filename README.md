@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-22, 14:32:14](https://news.ycombinator.com/item?id=40441494) - [Teslas Can Still Be Stolen with a Cheap Radio Hack–Despite New Keyless Tech](https://www.wired.com/story/tesla-ultra-wideband-radio-relay-attacks/)
 * [2024-05-22, 14:01:11](https://news.ycombinator.com/item?id=40441115) - [Why physicists now question the fate of the Universe](https://bigthink.com/starts-with-a-bang/physicists-question-fate-universe/)
 * [2024-05-22, 13:39:53](https://news.ycombinator.com/item?id=40440854) - [Sal Khan is pioneering innovation in education again](https://www.gatesnotes.com/Brave-New-Words)
-* [2024-05-22, 13:24:45](https://news.ycombinator.com/item?id=40440662) - [Mars rover mission will use pioneering nuclear power source](https://www.nature.com/articles/d41586-024-01487-6)
 * [2024-05-22, 12:48:15](https://news.ycombinator.com/item?id=40440283) - ['Right to roam' movement fights to give the commons back to the public](https://news.mongabay.com/2024/05/right-to-roam-movement-fights-to-give-the-commons-back-to-the-commoners/)
 * [2024-05-22, 12:01:01](https://news.ycombinator.com/item?id=40439913) - [Plane (YC W17) is hiring product engineers (Rails/Remote/Americas)](https://www.ycombinator.com/companies/plane/jobs/6NKkoGo-senior-staff-product-engineer-americas)
 * [2024-05-22, 10:33:15](https://news.ycombinator.com/item?id=40439379) - [Viral DNA in the human genome linked to major psychiatric disorders](https://medicalxpress.com/news/2024-05-ancient-viral-dna-human-genome.html)
@@ -28,7 +28,7 @@
 * [2024-05-21, 14:19:56](https://news.ycombinator.com/item?id=40428827) - [CADmium: A local-first CAD program built for the browser](https://mattferraro.dev/posts/cadmium)
 * [2024-05-21, 13:41:39](https://news.ycombinator.com/item?id=40428386) - [What UI density means and how to design for it](https://matthewstrom.com/writing/ui-density/)
 * [2024-05-21, 13:09:10](https://news.ycombinator.com/item?id=40428032) - [Abusing url handling in iTerm2 and Hyper for code execution](https://vin01.github.io/piptagole/escape-sequences/iterm2/hyper/url-handlers/code-execution/2024/05/21/arbitrary-url-schemes-terminal-emulators.html)
-* [2024-05-21, 11:21:35](https://news.ycombinator.com/item?id=40426890) - [Images that Sound: Generating spectrograms that are also images](https://ificl.github.io/images-that-sound/)
+* [2024-05-21, 05:21:10](https://news.ycombinator.com/item?id=40424452) - [Version Control Beyond Git](https://www.soundbarrier.io/posts/git_alternatives/)
 * [2024-05-20, 11:01:55](https://news.ycombinator.com/item?id=40414187) - [Counted B-Trees (2017)](https://www.chiark.greenend.org.uk/~sgtatham/algorithms/cbtree.html)
 
 ## [Archives](archives/index.md)
