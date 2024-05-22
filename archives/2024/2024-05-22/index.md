@@ -13,6 +13,7 @@
 * [2024-05-22, 17:53:16](https://news.ycombinator.com/item?id=40443920) - [Show HN: B-field, a novel probabilistic key-value data structure (`rust-bfield`)](https://github.com/onecodex/rust-bfield)
 * [2024-05-22, 17:52:21](https://news.ycombinator.com/item?id=40443907) - [One-third of Amazon warehouse workers are on food stamps or Medicaid](https://twitter.com/DanPriceSeattle/status/1791299631558823954)
 * [2024-05-22, 17:34:20](https://news.ycombinator.com/item?id=40443693) - [Tesla's Sales in Europe Fall to a 15-Month Low](https://finance.yahoo.com/news/tesla-sales-europe-fall-15-083601211.html)
+* [2024-05-22, 17:22:27](https://news.ycombinator.com/item?id=40443558) - [Systematically Improving Your RAG](https://jxnl.co/writing/2024/05/22/systematically-improving-your-rag/)
 * [2024-05-22, 17:14:36](https://news.ycombinator.com/item?id=40443470) - [Undisclosed WhatsApp Vulnerability Lets Governments See Who You Message](https://theintercept.com/2024/05/22/whatsapp-security-vulnerability-meta-israel-palestine/)
 * [2024-05-22, 17:01:40](https://news.ycombinator.com/item?id=40443302) - [Citi Missed a Fat Finger](https://www.bloomberg.com/opinion/articles/2024-05-22/citi-missed-a-fat-finger)
 * [2024-05-22, 17:00:03](https://news.ycombinator.com/item?id=40443276) - [Trieve (YC W24) Is Hiring a Sales Engineer](https://www.ycombinator.com/companies/trieve/jobs/LN9ucK7-sales-engineer-at-trieve-w24)
