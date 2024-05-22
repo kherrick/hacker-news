@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-05-22, 12:11:05",
+      "https://news.ycombinator.com/item?id=40439993"
+    ],
+    [
+      "Why Dell's ThinOS Runs on FreeBSD",
+      "https://freebsdfoundation.org/freebsd-case-studies/dell-case-study-why-dells-thinos-runs-on-freebsd/"
+    ]
+  ],
+  [
+    [
       "2024-05-22, 12:01:01",
       "https://news.ycombinator.com/item?id=40439913"
     ],
     [
       "Plane (YC W17) is hiring product engineers (Rails/Remote/Americas)",
       "https://www.ycombinator.com/companies/plane/jobs/6NKkoGo-senior-staff-product-engineer-americas"
+    ]
+  ],
+  [
+    [
+      "2024-05-22, 11:06:44",
+      "https://news.ycombinator.com/item?id=40439558"
+    ],
+    [
+      "Are commercial \"third places\" a dying breed?",
+      "https://spacing.ca/toronto/2024/04/26/are-commercial-third-places-a-dying-breed/"
     ]
   ],
   [
@@ -61,32 +81,22 @@
   ],
   [
     [
-      "2024-05-22, 05:25:04",
-      "https://news.ycombinator.com/item?id=40437609"
-    ],
-    [
-      "A transport protocol's view of Starlink",
-      "https://blog.apnic.net/2024/05/17/a-transport-protocols-view-of-starlink/"
-    ]
-  ],
-  [
-    [
-      "2024-05-22, 05:09:20",
-      "https://news.ycombinator.com/item?id=40437535"
-    ],
-    [
-      "Alacritty – A fast, cross-platform, OpenGL terminal emulator",
-      "https://github.com/alacritty/alacritty"
-    ]
-  ],
-  [
-    [
       "2024-05-22, 05:03:00",
       "https://news.ycombinator.com/item?id=40437506"
     ],
     [
       "Emory Awards, Then Suspends Students Behind Study-Aide App",
       "https://www.govtech.com/education/higher-ed/emory-awards-then-suspends-students-behind-study-aide-app"
+    ]
+  ],
+  [
+    [
+      "2024-05-22, 02:09:26",
+      "https://news.ycombinator.com/item?id=40436651"
+    ],
+    [
+      "Scandal at America's top science fair",
+      "https://www.karlstack.com/p/exclusive-scandal-at-americas-top"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Business Booms and Depressions Since 1775 (1943)",
       "https://fraser.stlouisfed.org/title/business-booms-depressions-since-1775-145"
-    ]
-  ],
-  [
-    [
-      "2024-05-21, 14:47:42",
-      "https://news.ycombinator.com/item?id=40429200"
-    ],
-    [
-      "Show HN: I built a game to help you learn neural network architectures",
-      "https://graphgame.sabrina.dev/"
     ]
   ],
   [
