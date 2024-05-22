@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-22, 01:54:31](https://news.ycombinator.com/item?id=40436564) - [Up Phone – The Privacy Phone](https://unplugged.com/)
 * [2024-05-22, 01:00:30](https://news.ycombinator.com/item?id=40436206) - [CodeCrafters (YC S22) Is Hiring a Remote Influencer Partnerships Manager](https://www.ycombinator.com/companies/codecrafters/jobs/7ljWFvU-influencer-partnerships-manager)
-* [2024-05-22, 00:59:14](https://news.ycombinator.com/item?id=40436195) - [85% of Neuralink implant wires are already detached, says patient](https://www.popsci.com/technology/neuralink-wire-detachment/)
-* [2024-05-21, 23:59:39](https://news.ycombinator.com/item?id=40435771) - [A Road to Common Lisp](https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/)
+* [2024-05-21, 23:59:39](https://news.ycombinator.com/item?id=40435771) - [A Road to Common Lisp (2018)](https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/)
 * [2024-05-21, 22:35:15](https://news.ycombinator.com/item?id=40434874) - [Designed to Crash: the story of Antonov An-28 HA-LAJ and its demise](https://admiralcloudberg.medium.com/designed-to-crash-the-bizarre-story-of-antonov-an-28-ha-laj-and-its-demise-169b3720d924)
 * [2024-05-21, 22:21:35](https://news.ycombinator.com/item?id=40434766) - [Clever code is probably the worst code you could write](https://read.engineerscodex.com/p/clever-code-is-probably-the-worst)
 * [2024-05-21, 21:35:35](https://news.ycombinator.com/item?id=40434290) - [The Stanford Startup and the MIT Startup (2013)](http://fpgacomputing.blogspot.com/2013/11/the-stanford-startup-and-mit-startup.html)
@@ -23,13 +23,13 @@
 * [2024-05-21, 13:41:39](https://news.ycombinator.com/item?id=40428386) - [What UI density means and how to design for it](https://matthewstrom.com/writing/ui-density/)
 * [2024-05-21, 13:09:10](https://news.ycombinator.com/item?id=40428032) - [Abusing url handling in iTerm2 and Hyper for code execution](https://vin01.github.io/piptagole/escape-sequences/iterm2/hyper/url-handlers/code-execution/2024/05/21/arbitrary-url-schemes-terminal-emulators.html)
 * [2024-05-21, 13:05:08](https://news.ycombinator.com/item?id=40427973) - [40-Year old BASICA utility code for teaching](https://github.com/norton120/educator-tools-87)
+* [2024-05-21, 11:21:35](https://news.ycombinator.com/item?id=40426890) - [Images that Sound: Generating spectrograms that are also images](https://ificl.github.io/images-that-sound/)
 * [2024-05-21, 10:16:06](https://news.ycombinator.com/item?id=40426442) - [Gifski: Optimized GIF Encoder](https://github.com/ImageOptim/gifski)
 * [2024-05-21, 10:05:56](https://news.ycombinator.com/item?id=40426382) - [Building an AI game studio: what we've learned so far](https://braindump.me/blog-posts/building-an-ai-game-studio)
 * [2024-05-21, 09:10:46](https://news.ycombinator.com/item?id=40425905) - [Reversing Choplifter](https://blondihacks.com/reversing-choplifter/)
 * [2024-05-21, 06:46:06](https://news.ycombinator.com/item?id=40424938) - [Taking Risk](https://tomblomfield.com/post/750852175114174464/taking-risk)
 * [2024-05-20, 11:30:53](https://news.ycombinator.com/item?id=40414348) - [Install Alpine Linux on FreeBSD Jail](https://it-notes.dragas.net/2024/01/18/installing-alpine-linux-on-a-freebsd-jail/)
 * [2024-05-19, 12:57:06](https://news.ycombinator.com/item?id=40406648) - [State of Compute Access: How to Bridge the New Digital Divide](https://www.institute.global/insights/tech-and-digitalisation/state-of-compute-access-how-to-bridge-the-new-digital-divide)
-* [2024-05-19, 10:18:16](https://news.ycombinator.com/item?id=40405805) - [Format String Attacks (2000)](https://seclists.org/bugtraq/2000/Sep/214)
 
 ## [Archives](archives/index.md)
 
