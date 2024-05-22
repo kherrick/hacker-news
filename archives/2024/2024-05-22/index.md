@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-22](index.md)
 
+* [2024-05-22, 13:34:41](https://news.ycombinator.com/item?id=40440790) - [India's campaign to threaten and harass Americans](https://www.vox.com/world-politics/24160779/inside-indias-secret-campaign-to-threaten-and-harass-americans)
 * [2024-05-22, 13:14:00](https://news.ycombinator.com/item?id=40440531) - [New Marine radios cement electromagnetic spectrum superiority](https://www.doncio.navy.mil/CHIPS/ArticleDetails.aspx?ID=16600)
 * [2024-05-22, 12:31:28](https://news.ycombinator.com/item?id=40440159) - [On Self-driving, Waymo is playing chess while Tesla plays checkers](https://arstechnica.com/cars/2024/05/on-self-driving-waymo-is-playing-chess-while-tesla-plays-checkers/)
 * [2024-05-22, 12:11:05](https://news.ycombinator.com/item?id=40439993) - [Why Dell's ThinOS Runs on FreeBSD](https://freebsdfoundation.org/freebsd-case-studies/dell-case-study-why-dells-thinos-runs-on-freebsd/)
@@ -15,6 +16,7 @@
 * [2024-05-22, 10:23:44](https://news.ycombinator.com/item?id=40439314) - [Autonomous AI Robot Creates a Shock-Absorbing Shape No Human Ever Could](https://scitechdaily.com/crushing-it-autonomous-ai-robot-creates-a-shock-absorbing-shape-no-human-ever-could/)
 * [2024-05-22, 09:44:47](https://news.ycombinator.com/item?id=40439126) - [Norway, along with Ireland and Spain, to recognise Palestinian state](https://www.reuters.com/world/norway-recognise-palestinian-state-nrk-aftenposten-report-2024-05-22/)
 * [2024-05-22, 09:12:13](https://news.ycombinator.com/item?id=40438960) - [How and why to make a /now page on your site](https://sive.rs/now2)
+* [2024-05-22, 08:27:44](https://news.ycombinator.com/item?id=40438664) - [Cover Agent: open source regression test generation tool](https://github.com/Codium-ai/cover-agent)
 * [2024-05-22, 07:56:43](https://news.ycombinator.com/item?id=40438434) - [Psion 5mx Emulator](https://wuffs.org/WindEmu/index.html)
 * [2024-05-22, 07:29:59](https://news.ycombinator.com/item?id=40438261) - [Electric cars more likely to hit pedestrians than petrol vehicles, study finds](https://www.theguardian.com/world/article/2024/may/21/electric-cars-more-likely-to-hit-pedestrians-than-petrol-vehicles-study-finds)
 * [2024-05-22, 05:25:04](https://news.ycombinator.com/item?id=40437609) - [A transport protocol's view of Starlink](https://blog.apnic.net/2024/05/17/a-transport-protocols-view-of-starlink/)
