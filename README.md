@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-22, 22:39:51](https://news.ycombinator.com/item?id=40447626) - [US Justice Department to Seek Breakup of Live Nation-Ticketmaster](https://www.bloomberg.com/news/articles/2024-05-22/justice-department-to-seek-breakup-of-live-nation-ticketmaster)
+* [2024-05-22, 22:39:21](https://news.ycombinator.com/item?id=40447617) - [Liberal democracy might lose the 21st century](https://www.noahpinion.blog/p/how-liberal-democracy-might-lose)
 * [2024-05-22, 22:22:30](https://news.ycombinator.com/item?id=40447431) - [Leaked OpenAI documents reveal aggressive tactics toward former employees](https://www.vox.com/future-perfect/351132/openai-vested-equity-nda-sam-altman-documents-employees)
 * [2024-05-22, 22:02:19](https://news.ycombinator.com/item?id=40447235) - [A Michigan farmworker is diagnosed with bird flu in case tied to dairy cows](https://www.npr.org/2024/05/22/1252984256/bird-flu-h5n1-virus-human-michigan-cows)
 * [2024-05-22, 21:51:40](https://news.ycombinator.com/item?id=40447117) - [Voyager 1 Resumes Sending Science Data](https://blogs.nasa.gov/voyager/2024/05/22/voyager-1-resumes-sending-science-data-from-two-instruments/)
@@ -26,10 +27,9 @@
 * [2024-05-22, 13:48:09](https://news.ycombinator.com/item?id=40440971) - [Tensor Puzzles](https://github.com/srush/Tensor-Puzzles)
 * [2024-05-22, 11:23:20](https://news.ycombinator.com/item?id=40439654) - [Microsoft Paint's new AI image generator builds on your brushstrokes](https://petapixel.com/2024/05/21/microsoft-paints-new-ai-image-generator-builds-on-your-brushstrokes/)
 * [2024-05-22, 07:56:43](https://news.ycombinator.com/item?id=40438434) - [Psion 5mx Emulator](https://wuffs.org/WindEmu/index.html)
-* [2024-05-21, 19:23:59](https://news.ycombinator.com/item?id=40432688) - [Gordon Bell has died](https://arstechnica.com/gadgets/2024/05/gordon-bell-an-architect-of-our-digital-age-dies-at-age-89/)
-* [2024-05-21, 18:15:27](https://news.ycombinator.com/item?id=40431835) - [Amber: Programming language compiled to Bash](https://amber-lang.com/)
 * [2024-05-21, 10:18:00](https://news.ycombinator.com/item?id=40426453) - [Emacs used as a message router in Germany's ATC systems in the 1990s (2021)](https://www.emacswiki.org/emacs/EmacsStories)
 * [2024-05-21, 08:55:56](https://news.ycombinator.com/item?id=40425762) - [Why Are Sloths So Slow?](https://slothconservation.org/sloths-move-slow/)
+* [2024-05-21, 05:14:09](https://news.ycombinator.com/item?id=40424408) - [The Gilded Gallows of Georg Honauer (1597)](https://publicdomainreview.org/collection/gilded-gallows-of-georg-honauer/)
 
 ## [Archives](archives/index.md)
 
