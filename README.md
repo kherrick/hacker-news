@@ -24,10 +24,10 @@
 * [2024-05-21, 16:52:46](https://news.ycombinator.com/item?id=40430868) - [The Effects of Early Relational Trauma (2001) [pdf]](https://www.allanschore.com/pdf/SchoreIMHJTrauma01.pdf)
 * [2024-05-21, 15:41:04](https://news.ycombinator.com/item?id=40429878) - [Fast real time fluid simulator based on MPM algorithm](https://kotsoft.github.io/)
 * [2024-05-21, 15:19:00](https://news.ycombinator.com/item?id=40429581) - [Business Booms and Depressions Since 1775 (1943)](https://fraser.stlouisfed.org/title/business-booms-depressions-since-1775-145)
+* [2024-05-21, 14:47:42](https://news.ycombinator.com/item?id=40429200) - [Show HN: I built a game to help you learn neural network architectures](https://graphgame.sabrina.dev/)
 * [2024-05-21, 14:19:56](https://news.ycombinator.com/item?id=40428827) - [CADmium: A local-first CAD program built for the browser](https://mattferraro.dev/posts/cadmium)
 * [2024-05-21, 13:41:39](https://news.ycombinator.com/item?id=40428386) - [What UI density means and how to design for it](https://matthewstrom.com/writing/ui-density/)
 * [2024-05-21, 13:09:10](https://news.ycombinator.com/item?id=40428032) - [Abusing url handling in iTerm2 and Hyper for code execution](https://vin01.github.io/piptagole/escape-sequences/iterm2/hyper/url-handlers/code-execution/2024/05/21/arbitrary-url-schemes-terminal-emulators.html)
-* [2024-05-21, 06:46:06](https://news.ycombinator.com/item?id=40424938) - [Taking Risk](https://tomblomfield.com/post/750852175114174464/taking-risk)
 * [2024-05-20, 12:53:27](https://news.ycombinator.com/item?id=40414943) - [How I Made Google's \"Web\" View My Default Search](https://tedium.co/2024/05/17/google-web-search-make-default/)
 * [2024-05-20, 11:01:55](https://news.ycombinator.com/item?id=40414187) - [Counted B-Trees (2017)](https://www.chiark.greenend.org.uk/~sgtatham/algorithms/cbtree.html)
 
