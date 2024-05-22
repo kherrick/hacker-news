@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-22, 04:53:21",
+      "https://news.ycombinator.com/item?id=40437464"
+    ],
+    [
+      "Important message for Apple Silicon OpenBSD/ARM64 users",
+      "https://www.undeadly.org/cgi?action=article;sid=20240522045252"
+    ]
+  ],
+  [
+    [
       "2024-05-22, 04:13:35",
       "https://news.ycombinator.com/item?id=40437269"
     ],
@@ -37,6 +47,16 @@
     [
       "CodeCrafters (YC S22) Is Hiring a Remote Influencer Partnerships Manager",
       "https://www.ycombinator.com/companies/codecrafters/jobs/7ljWFvU-influencer-partnerships-manager"
+    ]
+  ],
+  [
+    [
+      "2024-05-22, 00:01:54",
+      "https://news.ycombinator.com/item?id=40435786"
+    ],
+    [
+      "Show HN: Adblock for Podcasts",
+      "https://github.com/jdrbc/podly_pure_podcasts"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2024-05-21, 14:47:42",
-      "https://news.ycombinator.com/item?id=40429200"
-    ],
-    [
-      "Show HN: I built a game to help you learn neural network architectures",
-      "https://graphgame.sabrina.dev/"
-    ]
-  ],
-  [
-    [
       "2024-05-21, 14:19:56",
       "https://news.ycombinator.com/item?id=40428827"
     ],
@@ -247,16 +257,6 @@
     [
       "What UI density means and how to design for it",
       "https://matthewstrom.com/writing/ui-density/"
-    ]
-  ],
-  [
-    [
-      "2024-05-21, 13:09:10",
-      "https://news.ycombinator.com/item?id=40428032"
-    ],
-    [
-      "Abusing url handling in iTerm2 and Hyper for code execution",
-      "https://vin01.github.io/piptagole/escape-sequences/iterm2/hyper/url-handlers/code-execution/2024/05/21/arbitrary-url-schemes-terminal-emulators.html"
     ]
   ],
   [
