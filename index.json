@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-05-22, 20:57:21",
-      "https://news.ycombinator.com/item?id=40446449"
-    ],
-    [
-      "Why Functional Programming Matters [pdf]",
-      "https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf"
-    ]
-  ],
-  [
-    [
       "2024-05-22, 20:56:20",
       "https://news.ycombinator.com/item?id=40446433"
     ],
@@ -27,6 +17,26 @@
     [
       "Nvidia revenue up 262%, thanks to the AI boom",
       "https://breakingthenews.net/Article/Nvidia%27s-Q1-revenue-up-262-to-dollar26.0B-beating-estimates/62096450"
+    ]
+  ],
+  [
+    [
+      "2024-05-22, 20:07:57",
+      "https://news.ycombinator.com/item?id=40445746"
+    ],
+    [
+      "Dynamic loading of real-time content at Figma",
+      "https://www.figma.com/blog/speeding-up-file-load-times-one-page-at-a-time/"
+    ]
+  ],
+  [
+    [
+      "2024-05-22, 19:52:09",
+      "https://news.ycombinator.com/item?id=40445536"
+    ],
+    [
+      "Orthodox C++",
+      "https://gist.github.com/bkaradzic/2e39896bc7d8c34e042b"
     ]
   ],
   [
@@ -161,6 +171,16 @@
   ],
   [
     [
+      "2024-05-22, 15:07:20",
+      "https://news.ycombinator.com/item?id=40441945"
+    ],
+    [
+      "Show HN: Route your prompts to the best LLM",
+      "https://unify.ai/chat?default=true"
+    ]
+  ],
+  [
+    [
       "2024-05-22, 13:58:25",
       "https://news.ycombinator.com/item?id=40441093"
     ],
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2024-05-21, 19:36:36",
-      "https://news.ycombinator.com/item?id=40432834"
-    ],
-    [
-      "Storing knowledge in a single long plain text file",
-      "https://breckyunits.com/scrollsets.html"
-    ]
-  ],
-  [
-    [
       "2024-05-21, 19:23:59",
       "https://news.ycombinator.com/item?id=40432688"
     ],
@@ -257,16 +267,6 @@
     [
       "Amber: Programming language compiled to Bash",
       "https://amber-lang.com/"
-    ]
-  ],
-  [
-    [
-      "2024-05-21, 15:41:04",
-      "https://news.ycombinator.com/item?id=40429878"
-    ],
-    [
-      "Fast real time fluid simulator based on MPM algorithm",
-      "https://kotsoft.github.io/"
     ]
   ],
   [
