@@ -2,7 +2,6 @@
 
 * [2024-05-22, 18:15:43](https://news.ycombinator.com/item?id=40444168) - [AlphaFold3 – why did Nature publish it without its code?](https://www.nature.com/articles/d41586-024-01463-0)
 * [2024-05-22, 18:11:34](https://news.ycombinator.com/item?id=40444121) - [Try Clojure](https://tryclojure.org/)
-* [2024-05-22, 18:05:58](https://news.ycombinator.com/item?id=40444048) - [Developers does not care about poisoning attacks in LLM code assistants](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a178/1V28Z2MBROU)
 * [2024-05-22, 17:53:45](https://news.ycombinator.com/item?id=40443927) - [Show HN: Neosync – Open-Source Data Anonymization for Postgres and MySQL](https://github.com/nucleuscloud/neosync)
 * [2024-05-22, 17:53:16](https://news.ycombinator.com/item?id=40443920) - [Show HN: B-field, a novel probabilistic key-value data structure (`rust-bfield`)](https://github.com/onecodex/rust-bfield)
 * [2024-05-22, 17:52:21](https://news.ycombinator.com/item?id=40443907) - [One-third of Amazon warehouse workers are on food stamps or Medicaid](https://twitter.com/DanPriceSeattle/status/1791299631558823954)
@@ -28,6 +27,7 @@
 * [2024-05-21, 17:19:46](https://news.ycombinator.com/item?id=40431210) - [I want flexible queries, not RAG](https://win-vector.com/2024/05/21/i-want-flexible-queries-not-rag/)
 * [2024-05-21, 16:52:46](https://news.ycombinator.com/item?id=40430868) - [The Effects of Early Relational Trauma (2001) [pdf]](https://www.allanschore.com/pdf/SchoreIMHJTrauma01.pdf)
 * [2024-05-21, 15:41:04](https://news.ycombinator.com/item?id=40429878) - [Fast real time fluid simulator based on MPM algorithm](https://kotsoft.github.io/)
+* [2024-05-21, 15:19:00](https://news.ycombinator.com/item?id=40429581) - [Business Booms and Depressions Since 1775 (1943)](https://fraser.stlouisfed.org/title/business-booms-depressions-since-1775-145)
 * [2024-05-21, 08:05:13](https://news.ycombinator.com/item?id=40425394) - [The Ages of Programming Language Creators](https://pldb.io/posts/ageAtCreation.html)
 * [2024-05-20, 11:01:55](https://news.ycombinator.com/item?id=40414187) - [Counted B-Trees (2017)](https://www.chiark.greenend.org.uk/~sgtatham/algorithms/cbtree.html)
 
