@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-22, 01:04:02",
+      "https://news.ycombinator.com/item?id=40436229"
+    ],
+    [
+      "Rockman / Mega Man source code",
+      "https://bisqwit.iki.fi/jutut/megamansource/"
+    ]
+  ],
+  [
+    [
       "2024-05-22, 01:00:30",
       "https://news.ycombinator.com/item?id=40436206"
     ],
@@ -67,6 +77,26 @@
     [
       "Windows Copilot Runtime",
       "https://blogs.windows.com/windowsdeveloper/2024/05/21/unlock-a-new-era-of-innovation-with-windows-copilot-runtime-and-copilot-pcs/"
+    ]
+  ],
+  [
+    [
+      "2024-05-21, 19:41:07",
+      "https://news.ycombinator.com/item?id=40432888"
+    ],
+    [
+      "How Should We Critique Research?",
+      "https://gwern.net/research-criticism"
+    ]
+  ],
+  [
+    [
+      "2024-05-21, 19:39:12",
+      "https://news.ycombinator.com/item?id=40432870"
+    ],
+    [
+      "Strategic Altruism",
+      "https://www.conspicuouscognition.com/p/strategic-altruism-the-machiavellian"
     ]
   ],
   [
@@ -211,26 +241,6 @@
   ],
   [
     [
-      "2024-05-21, 13:05:08",
-      "https://news.ycombinator.com/item?id=40427973"
-    ],
-    [
-      "40-Year old BASICA utility code for teaching",
-      "https://github.com/norton120/educator-tools-87"
-    ]
-  ],
-  [
-    [
-      "2024-05-21, 11:21:35",
-      "https://news.ycombinator.com/item?id=40426890"
-    ],
-    [
-      "Images that Sound: Generating spectrograms that are also images",
-      "https://ificl.github.io/images-that-sound/"
-    ]
-  ],
-  [
-    [
       "2024-05-21, 10:16:06",
       "https://news.ycombinator.com/item?id=40426442"
     ],
@@ -271,32 +281,22 @@
   ],
   [
     [
-      "2024-05-20, 11:30:53",
-      "https://news.ycombinator.com/item?id=40414348"
+      "2024-05-20, 11:16:40",
+      "https://news.ycombinator.com/item?id=40414268"
     ],
     [
-      "Install Alpine Linux on FreeBSD Jail",
-      "https://it-notes.dragas.net/2024/01/18/installing-alpine-linux-on-a-freebsd-jail/"
+      "A Guide for the Young Academic Politician (1908)",
+      "https://larvatus.livejournal.com/222591.html"
     ]
   ],
   [
     [
-      "2024-05-19, 12:57:06",
-      "https://news.ycombinator.com/item?id=40406648"
+      "2024-05-20, 11:01:55",
+      "https://news.ycombinator.com/item?id=40414187"
     ],
     [
-      "State of Compute Access: How to Bridge the New Digital Divide",
-      "https://www.institute.global/insights/tech-and-digitalisation/state-of-compute-access-how-to-bridge-the-new-digital-divide"
-    ]
-  ],
-  [
-    [
-      "2024-05-19, 12:36:22",
-      "https://news.ycombinator.com/item?id=40406548"
-    ],
-    [
-      "Shadow Robot’s three-fingered hand is robust enough for reinforcement learning",
-      "https://spectrum.ieee.org/robot-hand-shadow-robot-company"
+      "Counted B-Trees (2017)",
+      "https://www.chiark.greenend.org.uk/~sgtatham/algorithms/cbtree.html"
     ]
   ]
 ]
