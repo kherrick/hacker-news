@@ -83,6 +83,7 @@
 * [2024-05-20, 11:14:29](https://news.ycombinator.com/item?id=40414257) - [Eco-brutalism: when angular concrete meets the wonder of nature](https://www.theguardian.com/artanddesign/gallery/2024/may/11/eco-brutalism-when-angular-concrete-meets-the-wonder-of-nature-in-pictures)
 * [2024-05-20, 11:13:24](https://news.ycombinator.com/item?id=40414249) - [OpenAI to Pull Scarlet Johansson Soundalike Sky's Voice from ChatGPT](https://www.bloomberg.com/news/articles/2024-05-20/openai-to-pull-johansson-soundalike-sky-s-voice-from-chatgpt)
 * [2024-05-20, 11:01:55](https://news.ycombinator.com/item?id=40414187) - [Counted B-Trees (2017)](https://www.chiark.greenend.org.uk/~sgtatham/algorithms/cbtree.html)
+* [2024-05-20, 10:42:02](https://news.ycombinator.com/item?id=40414091) - [My Inky Dashboard (2022)](https://dracos.co.uk/wrote/inky-dashboard/)
 * [2024-05-20, 10:41:26](https://news.ycombinator.com/item?id=40414090) - [Logic gates using liquids (GIF)](https://imgur.com/wUhtCgL)
 * [2024-05-20, 10:28:16](https://news.ycombinator.com/item?id=40414015) - [LibreTexts Mathematics](https://math.libretexts.org/Bookshelves)
 * [2024-05-20, 10:09:45](https://news.ycombinator.com/item?id=40413931) - [Konrad Zuse's Homepage](https://web.archive.org/web/20090214083953/http://user.cs.tu-berlin.de/~zuse/Konrad_Zuse/index.html)

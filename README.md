@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-22, 03:14:45](https://news.ycombinator.com/item?id=40436975) - [Why MSFT Copilot+ and AI PCs are the final nail in the coffin of open computing](https://venturebeat.com/ai/ceding-control-how-copilot-and-pcs-could-make-enterprises-beholden-to-microsoft/)
 * [2024-05-22, 02:09:26](https://news.ycombinator.com/item?id=40436651) - [Scandal at America's top science fair](https://www.karlstack.com/p/exclusive-scandal-at-americas-top)
 * [2024-05-22, 01:54:24](https://news.ycombinator.com/item?id=40436560) - [Tillywork: Open-Source Work Management](https://github.com/tillywork/tillywork)
 * [2024-05-22, 01:04:02](https://news.ycombinator.com/item?id=40436229) - [Rockman / Mega Man source code](https://bisqwit.iki.fi/jutut/megamansource/)
@@ -18,18 +19,17 @@
 * [2024-05-21, 18:15:27](https://news.ycombinator.com/item?id=40431835) - [Amber: Programming language compiled to Bash](https://amber-lang.com/)
 * [2024-05-21, 17:19:46](https://news.ycombinator.com/item?id=40431210) - [I want flexible queries, not RAG](https://win-vector.com/2024/05/21/i-want-flexible-queries-not-rag/)
 * [2024-05-21, 17:12:22](https://news.ycombinator.com/item?id=40431126) - [Show HN: Pls Fix – Hire big tech employees to appeal account suspensions](https://plsfix.co/)
-* [2024-05-21, 16:52:46](https://news.ycombinator.com/item?id=40430868) - [The Effects of Early Relational Trauma (2001) [pdf]](https://www.allanschore.com/pdf/SchoreIMHJTrauma01.pdf)
 * [2024-05-21, 15:41:04](https://news.ycombinator.com/item?id=40429878) - [Fast real time fluid simulator based on MPM algorithm](https://kotsoft.github.io/)
 * [2024-05-21, 15:19:00](https://news.ycombinator.com/item?id=40429581) - [Business Booms and Depressions Since 1775 (1943)](https://fraser.stlouisfed.org/title/business-booms-depressions-since-1775-145)
 * [2024-05-21, 15:15:52](https://news.ycombinator.com/item?id=40429540) - [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/)
 * [2024-05-21, 14:19:56](https://news.ycombinator.com/item?id=40428827) - [CADmium: A local-first CAD program built for the browser](https://mattferraro.dev/posts/cadmium)
 * [2024-05-21, 13:41:39](https://news.ycombinator.com/item?id=40428386) - [What UI density means and how to design for it](https://matthewstrom.com/writing/ui-density/)
-* [2024-05-21, 13:09:10](https://news.ycombinator.com/item?id=40428032) - [Abusing url handling in iTerm2 and Hyper for code execution](https://vin01.github.io/piptagole/escape-sequences/iterm2/hyper/url-handlers/code-execution/2024/05/21/arbitrary-url-schemes-terminal-emulators.html)
 * [2024-05-21, 10:16:06](https://news.ycombinator.com/item?id=40426442) - [Gifski: Optimized GIF Encoder](https://github.com/ImageOptim/gifski)
 * [2024-05-21, 10:05:56](https://news.ycombinator.com/item?id=40426382) - [Building an AI game studio: what we've learned so far](https://braindump.me/blog-posts/building-an-ai-game-studio)
 * [2024-05-21, 06:46:06](https://news.ycombinator.com/item?id=40424938) - [Taking Risk](https://tomblomfield.com/post/750852175114174464/taking-risk)
 * [2024-05-20, 11:16:40](https://news.ycombinator.com/item?id=40414268) - [A Guide for the Young Academic Politician (1908)](https://larvatus.livejournal.com/222591.html)
 * [2024-05-20, 11:01:55](https://news.ycombinator.com/item?id=40414187) - [Counted B-Trees (2017)](https://www.chiark.greenend.org.uk/~sgtatham/algorithms/cbtree.html)
+* [2024-05-20, 10:42:02](https://news.ycombinator.com/item?id=40414091) - [My Inky Dashboard (2022)](https://dracos.co.uk/wrote/inky-dashboard/)
 
 ## [Archives](archives/index.md)
 
