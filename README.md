@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-22, 01:54:31](https://news.ycombinator.com/item?id=40436564) - [Up Phone – The Privacy Phone](https://unplugged.com/)
 * [2024-05-22, 01:00:30](https://news.ycombinator.com/item?id=40436206) - [CodeCrafters (YC S22) Is Hiring a Remote Influencer Partnerships Manager](https://www.ycombinator.com/companies/codecrafters/jobs/7ljWFvU-influencer-partnerships-manager)
 * [2024-05-21, 23:59:39](https://news.ycombinator.com/item?id=40435771) - [A Road to Common Lisp (2018)](https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/)
 * [2024-05-21, 22:35:15](https://news.ycombinator.com/item?id=40434874) - [Designed to Crash: the story of Antonov An-28 HA-LAJ and its demise](https://admiralcloudberg.medium.com/designed-to-crash-the-bizarre-story-of-antonov-an-28-ha-laj-and-its-demise-169b3720d924)
@@ -30,6 +29,7 @@
 * [2024-05-21, 06:46:06](https://news.ycombinator.com/item?id=40424938) - [Taking Risk](https://tomblomfield.com/post/750852175114174464/taking-risk)
 * [2024-05-20, 11:30:53](https://news.ycombinator.com/item?id=40414348) - [Install Alpine Linux on FreeBSD Jail](https://it-notes.dragas.net/2024/01/18/installing-alpine-linux-on-a-freebsd-jail/)
 * [2024-05-19, 12:57:06](https://news.ycombinator.com/item?id=40406648) - [State of Compute Access: How to Bridge the New Digital Divide](https://www.institute.global/insights/tech-and-digitalisation/state-of-compute-access-how-to-bridge-the-new-digital-divide)
+* [2024-05-19, 12:36:22](https://news.ycombinator.com/item?id=40406548) - [Shadow Robot’s three-fingered hand is robust enough for reinforcement learning](https://spectrum.ieee.org/robot-hand-shadow-robot-company)
 
 ## [Archives](archives/index.md)
 
