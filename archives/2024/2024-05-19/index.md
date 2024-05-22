@@ -52,6 +52,7 @@
 * [2024-05-19, 14:00:56](https://news.ycombinator.com/item?id=40407032) - [An attorney says she saw her library reading habits reflected in mobile ads](https://www.theregister.com/2024/05/18/mystery_of_the_targeted_mobile_ads/)
 * [2024-05-19, 13:34:42](https://news.ycombinator.com/item?id=40406863) - [Terabytes of Old Usenet Articles since 1980s Restored in 471,000 News Groups](https://news.admin.peering.narkive.com/jqTCQePo/are-these-the-only-3-known-updated-usenet-archives-left)
 * [2024-05-19, 13:20:32](https://news.ycombinator.com/item?id=40406767) - [Woke Invades the Sciences](https://thecritic.co.uk/woke-invades-the-sciences/)
+* [2024-05-19, 12:57:06](https://news.ycombinator.com/item?id=40406648) - [State of Compute Access: How to Bridge the New Digital Divide](https://www.institute.global/insights/tech-and-digitalisation/state-of-compute-access-how-to-bridge-the-new-digital-divide)
 * [2024-05-19, 12:54:29](https://news.ycombinator.com/item?id=40406638) - [The country closing in on zero deaths on its roads](https://www.bbc.com/future/article/20240517-vision-zero-how-europe-cut-the-number-of-people-dying-on-its-roads)
 * [2024-05-19, 12:52:51](https://news.ycombinator.com/item?id=40406626) - [I'm tired of \"AI\" products wrapped over and selling at high rates](https://news.ycombinator.com/item?id=40406626)
 * [2024-05-19, 12:52:05](https://news.ycombinator.com/item?id=40406623) - [A startup's \"tablet\" gears up to take on Apple's iPad](https://om.co/2024/05/18/daylight-tablet/)
