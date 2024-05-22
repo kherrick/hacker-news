@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-22, 22:22:30](https://news.ycombinator.com/item?id=40447431) - [Leaked OpenAI documents reveal aggressive tactics toward former employees](https://www.vox.com/future-perfect/351132/openai-vested-equity-nda-sam-altman-documents-employees)
 * [2024-05-22, 21:38:09](https://news.ycombinator.com/item?id=40446941) - [Fentanyl is fueling a record number of youth drug deaths](https://www.washingtonpost.com/dc-md-va/2024/05/22/fentanyl-youth-overdoses-increase/)
 * [2024-05-22, 20:56:20](https://news.ycombinator.com/item?id=40446433) - [Cortile – Linux auto tiling manager with hot corner support](https://github.com/leukipp/cortile)
 * [2024-05-22, 20:26:01](https://news.ycombinator.com/item?id=40446010) - [Nvidia announces financial results for first quarter fiscal 2025](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-first-quarter-fiscal-2025)
@@ -29,7 +30,6 @@
 * [2024-05-21, 18:15:27](https://news.ycombinator.com/item?id=40431835) - [Amber: Programming language compiled to Bash](https://amber-lang.com/)
 * [2024-05-21, 10:18:00](https://news.ycombinator.com/item?id=40426453) - [Emacs used as a message router in Germany's ATC systems in the 1990s (2021)](https://www.emacswiki.org/emacs/EmacsStories)
 * [2024-05-21, 07:21:25](https://news.ycombinator.com/item?id=40425161) - [The Numeric Tower Fiasco](https://mmapped.blog/posts/23-numeric-tower-fiasco.html)
-* [2024-05-21, 05:14:09](https://news.ycombinator.com/item?id=40424408) - [The Gilded Gallows of Georg Honauer (1597)](https://publicdomainreview.org/collection/gilded-gallows-of-georg-honauer/)
 
 ## [Archives](archives/index.md)
 
