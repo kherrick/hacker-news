@@ -9,6 +9,7 @@
 * [2024-05-22, 05:03:00](https://news.ycombinator.com/item?id=40437506) - [Emory Awards, Then Suspends Students Behind Study-Aide App](https://www.govtech.com/education/higher-ed/emory-awards-then-suspends-students-behind-study-aide-app)
 * [2024-05-22, 04:53:21](https://news.ycombinator.com/item?id=40437464) - [Important message for Apple Silicon OpenBSD/ARM64 users](https://www.undeadly.org/cgi?action=article;sid=20240522045252)
 * [2024-05-22, 04:47:31](https://news.ycombinator.com/item?id=40437435) - [Unprecedented flooding in Brazil leaves hundreds of thousands displaced](https://www.msf.org/unprecedented-flooding-brazil-leaves-millions-affected-and-hundreds-thousands-displaced)
+* [2024-05-22, 04:36:11](https://news.ycombinator.com/item?id=40437379) - [\"No way to prevent this\" say users of only language where this regularly happens](https://xeiaso.net/shitposts/no-way-to-prevent-this/CVE-2024-4323/)
 * [2024-05-22, 04:13:35](https://news.ycombinator.com/item?id=40437269) - [Lem is the editor/IDE well-tuned for Common Lisp](https://lem-project.github.io/)
 * [2024-05-22, 03:14:45](https://news.ycombinator.com/item?id=40436975) - [Why MSFT Copilot+ and AI PCs are the final nail in the coffin of open computing](https://venturebeat.com/ai/ceding-control-how-copilot-and-pcs-could-make-enterprises-beholden-to-microsoft/)
 * [2024-05-22, 02:09:26](https://news.ycombinator.com/item?id=40436651) - [Scandal at America's Top Science Fair](https://www.karlstack.com/p/exclusive-scandal-at-americas-top)
