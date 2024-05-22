@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-22, 04:13:35](https://news.ycombinator.com/item?id=40437269) - [Lem: Editor/IDE well-tuned for Common Lisp](https://lem-project.github.io/)
 * [2024-05-22, 02:09:26](https://news.ycombinator.com/item?id=40436651) - [Scandal at America's top science fair](https://www.karlstack.com/p/exclusive-scandal-at-americas-top)
 * [2024-05-22, 01:54:24](https://news.ycombinator.com/item?id=40436560) - [Tillywork: Open-Source Work Management](https://github.com/tillywork/tillywork)
 * [2024-05-22, 01:00:30](https://news.ycombinator.com/item?id=40436206) - [CodeCrafters (YC S22) Is Hiring a Remote Influencer Partnerships Manager](https://www.ycombinator.com/companies/codecrafters/jobs/7ljWFvU-influencer-partnerships-manager)
@@ -25,7 +26,6 @@
 * [2024-05-21, 14:19:56](https://news.ycombinator.com/item?id=40428827) - [CADmium: A local-first CAD program built for the browser](https://mattferraro.dev/posts/cadmium)
 * [2024-05-21, 13:41:39](https://news.ycombinator.com/item?id=40428386) - [What UI density means and how to design for it](https://matthewstrom.com/writing/ui-density/)
 * [2024-05-21, 13:09:10](https://news.ycombinator.com/item?id=40428032) - [Abusing url handling in iTerm2 and Hyper for code execution](https://vin01.github.io/piptagole/escape-sequences/iterm2/hyper/url-handlers/code-execution/2024/05/21/arbitrary-url-schemes-terminal-emulators.html)
-* [2024-05-21, 11:21:35](https://news.ycombinator.com/item?id=40426890) - [Images that Sound: Generating spectrograms that are also images](https://ificl.github.io/images-that-sound/)
 * [2024-05-21, 06:46:06](https://news.ycombinator.com/item?id=40424938) - [Taking Risk](https://tomblomfield.com/post/750852175114174464/taking-risk)
 * [2024-05-20, 11:16:40](https://news.ycombinator.com/item?id=40414268) - [A Guide for the Young Academic Politician (1908)](https://larvatus.livejournal.com/222591.html)
 * [2024-05-20, 11:01:55](https://news.ycombinator.com/item?id=40414187) - [Counted B-Trees (2017)](https://www.chiark.greenend.org.uk/~sgtatham/algorithms/cbtree.html)
