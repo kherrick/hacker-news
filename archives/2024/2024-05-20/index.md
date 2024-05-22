@@ -88,6 +88,7 @@
 * [2024-05-20, 10:41:26](https://news.ycombinator.com/item?id=40414090) - [Logic gates using liquids (GIF)](https://imgur.com/wUhtCgL)
 * [2024-05-20, 10:28:16](https://news.ycombinator.com/item?id=40414015) - [LibreTexts Mathematics](https://math.libretexts.org/Bookshelves)
 * [2024-05-20, 10:09:45](https://news.ycombinator.com/item?id=40413931) - [Konrad Zuse's Homepage](https://web.archive.org/web/20090214083953/http://user.cs.tu-berlin.de/~zuse/Konrad_Zuse/index.html)
+* [2024-05-20, 10:03:46](https://news.ycombinator.com/item?id=40413901) - [Learn things that don't change](https://newsletter.techworld-with-milan.com/p/learn-things-that-dont-change)
 * [2024-05-20, 10:01:36](https://news.ycombinator.com/item?id=40413891) - [Uber Migrates 1T Records from DynamoDB to LedgerStore to Save $6M Annually](https://www.infoq.com/news/2024/05/uber-dynamodb-ledgerstore/)
 * [2024-05-20, 10:01:36](https://news.ycombinator.com/item?id=40413891) - [Migrating Uber's ledger data from DynamoDB to LedgerStore](https://www.uber.com/blog/migrating-from-dynamodb-to-ledgerstore/)
 * [2024-05-20, 09:58:09](https://news.ycombinator.com/item?id=40413869) - [Eudyptula Challenge](https://lwn.net/Articles/599231/)
