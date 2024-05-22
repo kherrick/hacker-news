@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-22, 04:53:21](https://news.ycombinator.com/item?id=40437464) - [Possible firmware issues for Apple Silicon OpenBSD/ARM64 users](https://www.undeadly.org/cgi?action=article;sid=20240522045252)
+* [2024-05-22, 04:47:31](https://news.ycombinator.com/item?id=40437435) - [Unprecedented flooding in Brazil leaves hundreds of thousands displaced](https://www.msf.org/unprecedented-flooding-brazil-leaves-millions-affected-and-hundreds-thousands-displaced)
 * [2024-05-22, 02:09:26](https://news.ycombinator.com/item?id=40436651) - [Scandal at America's top science fair](https://www.karlstack.com/p/exclusive-scandal-at-americas-top)
 * [2024-05-22, 01:54:24](https://news.ycombinator.com/item?id=40436560) - [Tillywork: Open-Source Work Management](https://github.com/tillywork/tillywork)
 * [2024-05-22, 01:00:30](https://news.ycombinator.com/item?id=40436206) - [CodeCrafters (YC S22) Is Hiring a Remote Influencer Partnerships Manager](https://www.ycombinator.com/companies/codecrafters/jobs/7ljWFvU-influencer-partnerships-manager)
@@ -18,7 +19,6 @@
 * [2024-05-21, 18:35:13](https://news.ycombinator.com/item?id=40432102) - [The curious case of the missing period](https://tjaart.substack.com/p/the-curious-case-of-the-missing-period)
 * [2024-05-21, 18:15:27](https://news.ycombinator.com/item?id=40431835) - [Amber: Programming language compiled to Bash](https://amber-lang.com/)
 * [2024-05-21, 17:19:46](https://news.ycombinator.com/item?id=40431210) - [I want flexible queries, not RAG](https://win-vector.com/2024/05/21/i-want-flexible-queries-not-rag/)
-* [2024-05-21, 17:12:22](https://news.ycombinator.com/item?id=40431126) - [Show HN: Pls Fix – Hire big tech employees to appeal account suspensions](https://plsfix.co/)
 * [2024-05-21, 16:52:46](https://news.ycombinator.com/item?id=40430868) - [The Effects of Early Relational Trauma (2001) [pdf]](https://www.allanschore.com/pdf/SchoreIMHJTrauma01.pdf)
 * [2024-05-21, 15:41:04](https://news.ycombinator.com/item?id=40429878) - [Fast real time fluid simulator based on MPM algorithm](https://kotsoft.github.io/)
 * [2024-05-21, 15:19:00](https://news.ycombinator.com/item?id=40429581) - [Business Booms and Depressions Since 1775 (1943)](https://fraser.stlouisfed.org/title/business-booms-depressions-since-1775-145)
