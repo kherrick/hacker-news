@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-05-22](index.md)
 
+* [2024-05-22, 18:15:43](https://news.ycombinator.com/item?id=40444168) - [AlphaFold3 – why did Nature publish it without its code?](https://www.nature.com/articles/d41586-024-01463-0)
+* [2024-05-22, 18:11:34](https://news.ycombinator.com/item?id=40444121) - [Try Clojure](https://tryclojure.org/)
+* [2024-05-22, 17:53:45](https://news.ycombinator.com/item?id=40443927) - [Show HN: Neosync – Open-Source Data Anonymization for Postgres and MySQL](https://github.com/nucleuscloud/neosync)
+* [2024-05-22, 17:53:16](https://news.ycombinator.com/item?id=40443920) - [Show HN: B-field, a novel probabilistic key-value data structure (`rust-bfield`)](https://github.com/onecodex/rust-bfield)
+* [2024-05-22, 17:52:21](https://news.ycombinator.com/item?id=40443907) - [One-third of Amazon warehouse workers are on food stamps or Medicaid](https://twitter.com/DanPriceSeattle/status/1791299631558823954)
+* [2024-05-22, 17:34:20](https://news.ycombinator.com/item?id=40443693) - [Tesla's Sales in Europe Fall to a 15-Month Low](https://finance.yahoo.com/news/tesla-sales-europe-fall-15-083601211.html)
 * [2024-05-22, 17:14:36](https://news.ycombinator.com/item?id=40443470) - [Undisclosed WhatsApp Vulnerability Lets Governments See Who You Message](https://theintercept.com/2024/05/22/whatsapp-security-vulnerability-meta-israel-palestine/)
 * [2024-05-22, 17:01:40](https://news.ycombinator.com/item?id=40443302) - [Citi Missed a Fat Finger](https://www.bloomberg.com/opinion/articles/2024-05-22/citi-missed-a-fat-finger)
 * [2024-05-22, 17:00:03](https://news.ycombinator.com/item?id=40443276) - [Trieve (YC W24) Is Hiring a Sales Engineer](https://www.ycombinator.com/companies/trieve/jobs/LN9ucK7-sales-engineer-at-trieve-w24)
@@ -18,6 +24,7 @@
 * [2024-05-22, 13:58:25](https://news.ycombinator.com/item?id=40441093) - [Show HN: PBT – A property-based testing library for Ruby](https://github.com/ohbarye/pbt)
 * [2024-05-22, 13:48:09](https://news.ycombinator.com/item?id=40440971) - [Tensor Puzzles](https://github.com/srush/Tensor-Puzzles)
 * [2024-05-22, 13:39:53](https://news.ycombinator.com/item?id=40440854) - [Sal Khan is pioneering innovation in education again](https://www.gatesnotes.com/Brave-New-Words)
+* [2024-05-22, 13:38:51](https://news.ycombinator.com/item?id=40440841) - [Why Not Just Do Simple C++ RAII in C?](https://thephd.dev/just-put-raii-in-c-bro-please-bro-just-one-more-destructor-bro-cmon-im-good-for-it)
 * [2024-05-22, 13:34:41](https://news.ycombinator.com/item?id=40440790) - [India's campaign to threaten and harass Americans](https://www.vox.com/world-politics/24160779/inside-indias-secret-campaign-to-threaten-and-harass-americans)
 * [2024-05-22, 13:24:45](https://news.ycombinator.com/item?id=40440662) - [Mars rover mission will use pioneering nuclear power source](https://www.nature.com/articles/d41586-024-01487-6)
 * [2024-05-22, 13:14:00](https://news.ycombinator.com/item?id=40440531) - [New Marine radios cement electromagnetic spectrum superiority](https://www.doncio.navy.mil/CHIPS/ArticleDetails.aspx?ID=16600)
