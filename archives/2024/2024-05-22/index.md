@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-22](index.md)
 
+* [2024-05-22, 19:00:57](https://news.ycombinator.com/item?id=40444795) - [Congress Just Made It Basically Impossible to Track Taylor Swift's Private Jet](https://gizmodo.com/congress-just-made-it-way-harder-to-track-taylor-swift-1851492383)
+* [2024-05-22, 18:59:44](https://news.ycombinator.com/item?id=40444778) - [Bluesky Adds Direct Messages](https://bsky.social/about/blog/05-22-2024-direct-messages)
 * [2024-05-22, 18:15:43](https://news.ycombinator.com/item?id=40444168) - [AlphaFold3 – why did Nature publish it without its code?](https://www.nature.com/articles/d41586-024-01463-0)
 * [2024-05-22, 18:11:34](https://news.ycombinator.com/item?id=40444121) - [Try Clojure](https://tryclojure.org/)
 * [2024-05-22, 18:05:58](https://news.ycombinator.com/item?id=40444048) - [Developers does not care about poisoning attacks in LLM code assistants](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a178/1V28Z2MBROU)
@@ -34,6 +36,7 @@
 * [2024-05-22, 12:21:23](https://news.ycombinator.com/item?id=40440086) - [What's the difference between a motor and an engine?](https://engineering.mit.edu/engage/ask-an-engineer/whats-the-difference-between-a-motor-and-an-engine/)
 * [2024-05-22, 12:11:05](https://news.ycombinator.com/item?id=40439993) - [Why Dell's ThinOS Runs on FreeBSD](https://freebsdfoundation.org/freebsd-case-studies/dell-case-study-why-dells-thinos-runs-on-freebsd/)
 * [2024-05-22, 12:01:01](https://news.ycombinator.com/item?id=40439913) - [Plane (YC W17) is hiring product engineers (Rails/Remote/Americas)](https://www.ycombinator.com/companies/plane/jobs/6NKkoGo-senior-staff-product-engineer-americas)
+* [2024-05-22, 11:26:48](https://news.ycombinator.com/item?id=40439681) - [WebAssembly: A promising technology that is quietly being enshitified](https://kerkour.com/webassembly-wasi-preview2)
 * [2024-05-22, 11:06:44](https://news.ycombinator.com/item?id=40439558) - [Are commercial \"third places\" a dying breed?](https://spacing.ca/toronto/2024/04/26/are-commercial-third-places-a-dying-breed/)
 * [2024-05-22, 10:51:40](https://news.ycombinator.com/item?id=40439481) - [A comet approaching Earth could become brighter than the stars this fall](https://www.space.com/comet-tsuchinshan-atlas-fall-2024)
 * [2024-05-22, 10:50:13](https://news.ycombinator.com/item?id=40439475) - [The Denmark secret: how it became the most trusting country](https://www.theguardian.com/lifeandstyle/article/2024/may/22/the-denmark-secret-how-it-became-the-worlds-most-trusting-country-and-why-that-matters)

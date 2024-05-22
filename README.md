@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-22, 18:15:43](https://news.ycombinator.com/item?id=40444168) - [AlphaFold3 – why did Nature publish it without its code?](https://www.nature.com/articles/d41586-024-01463-0)
+* [2024-05-22, 19:00:57](https://news.ycombinator.com/item?id=40444795) - [Congress Just Made It Basically Impossible to Track Taylor Swift's Private Jet](https://gizmodo.com/congress-just-made-it-way-harder-to-track-taylor-swift-1851492383)
+* [2024-05-22, 18:59:44](https://news.ycombinator.com/item?id=40444778) - [Bluesky Adds Direct Messages](https://bsky.social/about/blog/05-22-2024-direct-messages)
 * [2024-05-22, 18:11:34](https://news.ycombinator.com/item?id=40444121) - [Try Clojure](https://tryclojure.org/)
 * [2024-05-22, 17:53:45](https://news.ycombinator.com/item?id=40443927) - [Show HN: Neosync – Open-Source Data Anonymization for Postgres and MySQL](https://github.com/nucleuscloud/neosync)
 * [2024-05-22, 17:53:16](https://news.ycombinator.com/item?id=40443920) - [Show HN: B-field, a novel probabilistic key-value data structure (`rust-bfield`)](https://github.com/onecodex/rust-bfield)
@@ -14,6 +15,7 @@
 * [2024-05-22, 13:39:53](https://news.ycombinator.com/item?id=40440854) - [Sal Khan is pioneering innovation in education again](https://www.gatesnotes.com/Brave-New-Words)
 * [2024-05-22, 13:38:51](https://news.ycombinator.com/item?id=40440841) - [Why Not Just Do Simple C++ RAII in C?](https://thephd.dev/just-put-raii-in-c-bro-please-bro-just-one-more-destructor-bro-cmon-im-good-for-it)
 * [2024-05-22, 13:24:45](https://news.ycombinator.com/item?id=40440662) - [Mars rover mission will use pioneering nuclear power source](https://www.nature.com/articles/d41586-024-01487-6)
+* [2024-05-22, 11:26:48](https://news.ycombinator.com/item?id=40439681) - [WebAssembly: A promising technology that is quietly being enshitified](https://kerkour.com/webassembly-wasi-preview2)
 * [2024-05-22, 07:56:43](https://news.ycombinator.com/item?id=40438434) - [Psion 5mx Emulator](https://wuffs.org/WindEmu/index.html)
 * [2024-05-22, 02:36:11](https://news.ycombinator.com/item?id=40436796) - [When Kodak and Polaroid went to war](https://steveblank.com/2024/05/16/secret-history-when-kodak-went-to-war-with-polaroid/)
 * [2024-05-21, 23:59:39](https://news.ycombinator.com/item?id=40435771) - [A Road to Common Lisp (2018)](https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/)
@@ -27,9 +29,7 @@
 * [2024-05-21, 17:19:46](https://news.ycombinator.com/item?id=40431210) - [I want flexible queries, not RAG](https://win-vector.com/2024/05/21/i-want-flexible-queries-not-rag/)
 * [2024-05-21, 16:52:46](https://news.ycombinator.com/item?id=40430868) - [The Effects of Early Relational Trauma (2001) [pdf]](https://www.allanschore.com/pdf/SchoreIMHJTrauma01.pdf)
 * [2024-05-21, 15:41:04](https://news.ycombinator.com/item?id=40429878) - [Fast real time fluid simulator based on MPM algorithm](https://kotsoft.github.io/)
-* [2024-05-21, 15:19:00](https://news.ycombinator.com/item?id=40429581) - [Business Booms and Depressions Since 1775 (1943)](https://fraser.stlouisfed.org/title/business-booms-depressions-since-1775-145)
-* [2024-05-21, 08:05:13](https://news.ycombinator.com/item?id=40425394) - [The Ages of Programming Language Creators](https://pldb.io/posts/ageAtCreation.html)
-* [2024-05-20, 11:01:55](https://news.ycombinator.com/item?id=40414187) - [Counted B-Trees (2017)](https://www.chiark.greenend.org.uk/~sgtatham/algorithms/cbtree.html)
+* [2024-05-21, 05:14:09](https://news.ycombinator.com/item?id=40424408) - [The Gilded Gallows of Georg Honauer (1597)](https://publicdomainreview.org/collection/gilded-gallows-of-georg-honauer/)
 
 ## [Archives](archives/index.md)
 
