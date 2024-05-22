@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-05-22, 01:00:30",
+      "https://news.ycombinator.com/item?id=40436206"
+    ],
+    [
+      "CodeCrafters (YC S22) Is Hiring a Remote Influencer Partnerships Manager",
+      "https://www.ycombinator.com/companies/codecrafters/jobs/7ljWFvU-influencer-partnerships-manager"
+    ]
+  ],
+  [
+    [
+      "2024-05-22, 00:59:14",
+      "https://news.ycombinator.com/item?id=40436195"
+    ],
+    [
+      "85% of Neuralink implant wires are already detached, says patient",
+      "https://www.popsci.com/technology/neuralink-wire-detachment/"
+    ]
+  ],
+  [
+    [
+      "2024-05-21, 23:59:39",
+      "https://news.ycombinator.com/item?id=40435771"
+    ],
+    [
+      "A Road to Common Lisp",
+      "https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/"
+    ]
+  ],
+  [
+    [
       "2024-05-21, 22:35:15",
       "https://news.ycombinator.com/item?id=40434874"
     ],
@@ -21,21 +51,11 @@
   ],
   [
     [
-      "2024-05-21, 22:11:05",
-      "https://news.ycombinator.com/item?id=40434680"
-    ],
-    [
-      "Continue (YC S23) is hiring a founding engineer in San Francisco",
-      "https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer"
-    ]
-  ],
-  [
-    [
       "2024-05-21, 21:35:35",
       "https://news.ycombinator.com/item?id=40434290"
     ],
     [
-      "The Stanford Startup and the MIT Startup",
+      "The Stanford Startup and the MIT Startup (2013)",
       "http://fpgacomputing.blogspot.com/2013/11/the-stanford-startup-and-mit-startup.html"
     ]
   ],
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2024-05-21, 19:21:36",
-      "https://news.ycombinator.com/item?id=40432656"
-    ],
-    [
-      "Semantic note-taking",
-      "https://cceckman.com/writing/notes/"
-    ]
-  ],
-  [
-    [
       "2024-05-21, 18:43:50",
       "https://news.ycombinator.com/item?id=40432213"
     ],
@@ -107,16 +117,6 @@
     [
       "The curious case of the missing period",
       "https://tjaart.substack.com/p/the-curious-case-of-the-missing-period"
-    ]
-  ],
-  [
-    [
-      "2024-05-21, 18:02:37",
-      "https://news.ycombinator.com/item?id=40431680"
-    ],
-    [
-      "Microsoft Phi-3 Cookbook",
-      "https://github.com/microsoft/Phi-3CookBook"
     ]
   ],
   [
@@ -211,22 +211,22 @@
   ],
   [
     [
+      "2024-05-21, 13:09:10",
+      "https://news.ycombinator.com/item?id=40428032"
+    ],
+    [
+      "Abusing url handling in iTerm2 and Hyper for code execution",
+      "https://vin01.github.io/piptagole/escape-sequences/iterm2/hyper/url-handlers/code-execution/2024/05/21/arbitrary-url-schemes-terminal-emulators.html"
+    ]
+  ],
+  [
+    [
       "2024-05-21, 13:05:08",
       "https://news.ycombinator.com/item?id=40427973"
     ],
     [
       "40-Year old BASICA utility code for teaching",
       "https://github.com/norton120/educator-tools-87"
-    ]
-  ],
-  [
-    [
-      "2024-05-21, 11:21:35",
-      "https://news.ycombinator.com/item?id=40426890"
-    ],
-    [
-      "Images that Sound: Generating spectrograms that are also images",
-      "https://ificl.github.io/images-that-sound/"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2024-05-19, 12:36:22",
-      "https://news.ycombinator.com/item?id=40406548"
+      "2024-05-19, 12:57:06",
+      "https://news.ycombinator.com/item?id=40406648"
     ],
     [
-      "Shadow Robot’s three-fingered hand is robust enough for reinforcement learning",
-      "https://spectrum.ieee.org/robot-hand-shadow-robot-company"
+      "State of Compute Access: How to Bridge the New Digital Divide",
+      "https://www.institute.global/insights/tech-and-digitalisation/state-of-compute-access-how-to-bridge-the-new-digital-divide"
     ]
   ],
   [
