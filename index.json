@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-22, 01:54:31",
+      "https://news.ycombinator.com/item?id=40436564"
+    ],
+    [
+      "Up Phone – The Privacy Phone",
+      "https://unplugged.com/"
+    ]
+  ],
+  [
+    [
       "2024-05-22, 01:00:30",
       "https://news.ycombinator.com/item?id=40436206"
     ],
@@ -11,21 +21,11 @@
   ],
   [
     [
-      "2024-05-22, 00:59:14",
-      "https://news.ycombinator.com/item?id=40436195"
-    ],
-    [
-      "85% of Neuralink implant wires are already detached, says patient",
-      "https://www.popsci.com/technology/neuralink-wire-detachment/"
-    ]
-  ],
-  [
-    [
       "2024-05-21, 23:59:39",
       "https://news.ycombinator.com/item?id=40435771"
     ],
     [
-      "A Road to Common Lisp",
+      "A Road to Common Lisp (2018)",
       "https://stevelosh.com/blog/2018/08/a-road-to-common-lisp/"
     ]
   ],
@@ -231,6 +231,16 @@
   ],
   [
     [
+      "2024-05-21, 11:21:35",
+      "https://news.ycombinator.com/item?id=40426890"
+    ],
+    [
+      "Images that Sound: Generating spectrograms that are also images",
+      "https://ificl.github.io/images-that-sound/"
+    ]
+  ],
+  [
+    [
       "2024-05-21, 10:16:06",
       "https://news.ycombinator.com/item?id=40426442"
     ],
@@ -287,16 +297,6 @@
     [
       "State of Compute Access: How to Bridge the New Digital Divide",
       "https://www.institute.global/insights/tech-and-digitalisation/state-of-compute-access-how-to-bridge-the-new-digital-divide"
-    ]
-  ],
-  [
-    [
-      "2024-05-19, 10:18:16",
-      "https://news.ycombinator.com/item?id=40405805"
-    ],
-    [
-      "Format String Attacks (2000)",
-      "https://seclists.org/bugtraq/2000/Sep/214"
     ]
   ]
 ]
