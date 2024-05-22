@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-22, 03:14:45](https://news.ycombinator.com/item?id=40436975) - [Why MSFT Copilot+ and AI PCs are the final nail in the coffin of open computing](https://venturebeat.com/ai/ceding-control-how-copilot-and-pcs-could-make-enterprises-beholden-to-microsoft/)
+* [2024-05-22, 04:13:35](https://news.ycombinator.com/item?id=40437269) - [Lem is the editor/IDE well-tuned for Common Lisp](https://lem-project.github.io/)
 * [2024-05-22, 02:09:26](https://news.ycombinator.com/item?id=40436651) - [Scandal at America's top science fair](https://www.karlstack.com/p/exclusive-scandal-at-americas-top)
 * [2024-05-22, 01:54:24](https://news.ycombinator.com/item?id=40436560) - [Tillywork: Open-Source Work Management](https://github.com/tillywork/tillywork)
 * [2024-05-22, 01:04:02](https://news.ycombinator.com/item?id=40436229) - [Rockman / Mega Man source code](https://bisqwit.iki.fi/jutut/megamansource/)

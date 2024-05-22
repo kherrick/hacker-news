@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-22](index.md)
 
+* [2024-05-22, 04:13:35](https://news.ycombinator.com/item?id=40437269) - [Lem is the editor/IDE well-tuned for Common Lisp](https://lem-project.github.io/)
 * [2024-05-22, 03:14:45](https://news.ycombinator.com/item?id=40436975) - [Why MSFT Copilot+ and AI PCs are the final nail in the coffin of open computing](https://venturebeat.com/ai/ceding-control-how-copilot-and-pcs-could-make-enterprises-beholden-to-microsoft/)
 * [2024-05-22, 02:09:26](https://news.ycombinator.com/item?id=40436651) - [Scandal at America's Top Science Fair](https://www.karlstack.com/p/exclusive-scandal-at-americas-top)
 * [2024-05-22, 01:54:31](https://news.ycombinator.com/item?id=40436564) - [Up Phone – The Privacy Phone](https://unplugged.com/)
