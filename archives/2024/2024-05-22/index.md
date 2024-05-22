@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-22](index.md)
 
+* [2024-05-22, 23:22:38](https://news.ycombinator.com/item?id=40448113) - [Ex-Googler designed a heat pump you'll want in your home](https://www.fastcompany.com/91123783/this-ex-googler-designed-a-heat-pump-youll-actually-want-in-your-home)
 * [2024-05-22, 22:39:51](https://news.ycombinator.com/item?id=40447626) - [US Justice Department to Seek Breakup of Live Nation-Ticketmaster](https://www.bloomberg.com/news/articles/2024-05-22/justice-department-to-seek-breakup-of-live-nation-ticketmaster)
 * [2024-05-22, 22:39:21](https://news.ycombinator.com/item?id=40447617) - [Liberal democracy might lose the 21st century](https://www.noahpinion.blog/p/how-liberal-democracy-might-lose)
 * [2024-05-22, 22:22:30](https://news.ycombinator.com/item?id=40447431) - [Leaked OpenAI documents reveal aggressive tactics toward former employees](https://www.vox.com/future-perfect/351132/openai-vested-equity-nda-sam-altman-documents-employees)
