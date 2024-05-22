@@ -21,7 +21,7 @@
 * [2024-05-21, 17:12:22](https://news.ycombinator.com/item?id=40431126) - [Show HN: Pls Fix – Hire big tech employees to appeal account suspensions](https://plsfix.co/)
 * [2024-05-21, 15:41:04](https://news.ycombinator.com/item?id=40429878) - [Fast real time fluid simulator based on MPM algorithm](https://kotsoft.github.io/)
 * [2024-05-21, 15:19:00](https://news.ycombinator.com/item?id=40429581) - [Business Booms and Depressions Since 1775 (1943)](https://fraser.stlouisfed.org/title/business-booms-depressions-since-1775-145)
-* [2024-05-21, 15:15:52](https://news.ycombinator.com/item?id=40429540) - [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/)
+* [2024-05-21, 14:47:42](https://news.ycombinator.com/item?id=40429200) - [Show HN: I built a game to help you learn neural network architectures](https://graphgame.sabrina.dev/)
 * [2024-05-21, 14:19:56](https://news.ycombinator.com/item?id=40428827) - [CADmium: A local-first CAD program built for the browser](https://mattferraro.dev/posts/cadmium)
 * [2024-05-21, 13:41:39](https://news.ycombinator.com/item?id=40428386) - [What UI density means and how to design for it](https://matthewstrom.com/writing/ui-density/)
 * [2024-05-21, 10:16:06](https://news.ycombinator.com/item?id=40426442) - [Gifski: Optimized GIF Encoder](https://github.com/ImageOptim/gifski)
