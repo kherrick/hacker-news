@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-22](index.md)
 
+* [2024-05-22, 12:11:05](https://news.ycombinator.com/item?id=40439993) - [Why Dell's ThinOS Runs on FreeBSD](https://freebsdfoundation.org/freebsd-case-studies/dell-case-study-why-dells-thinos-runs-on-freebsd/)
 * [2024-05-22, 12:01:01](https://news.ycombinator.com/item?id=40439913) - [Plane (YC W17) is hiring product engineers (Rails/Remote/Americas)](https://www.ycombinator.com/companies/plane/jobs/6NKkoGo-senior-staff-product-engineer-americas)
+* [2024-05-22, 11:06:44](https://news.ycombinator.com/item?id=40439558) - [Are commercial \"third places\" a dying breed?](https://spacing.ca/toronto/2024/04/26/are-commercial-third-places-a-dying-breed/)
 * [2024-05-22, 10:51:40](https://news.ycombinator.com/item?id=40439481) - [A comet approaching Earth could become brighter than the stars this fall](https://www.space.com/comet-tsuchinshan-atlas-fall-2024)
 * [2024-05-22, 10:50:13](https://news.ycombinator.com/item?id=40439475) - [The Denmark secret: how it became the most trusting country](https://www.theguardian.com/lifeandstyle/article/2024/may/22/the-denmark-secret-how-it-became-the-worlds-most-trusting-country-and-why-that-matters)
 * [2024-05-22, 10:33:15](https://news.ycombinator.com/item?id=40439379) - [Viral DNA in the human genome linked to major psychiatric disorders](https://medicalxpress.com/news/2024-05-ancient-viral-dna-human-genome.html)
