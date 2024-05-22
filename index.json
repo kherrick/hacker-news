@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2024-05-22, 02:09:26",
-      "https://news.ycombinator.com/item?id=40436651"
-    ],
-    [
-      "Scandal at America's top science fair",
-      "https://www.karlstack.com/p/exclusive-scandal-at-americas-top"
-    ]
-  ],
-  [
-    [
       "2024-05-22, 01:54:24",
       "https://news.ycombinator.com/item?id=40436560"
     ],
@@ -77,16 +67,6 @@
     [
       "CodeCrafters (YC S22) Is Hiring a Remote Influencer Partnerships Manager",
       "https://www.ycombinator.com/companies/codecrafters/jobs/7ljWFvU-influencer-partnerships-manager"
-    ]
-  ],
-  [
-    [
-      "2024-05-22, 00:01:54",
-      "https://news.ycombinator.com/item?id=40435786"
-    ],
-    [
-      "Show HN: Adblock for Podcasts",
-      "https://github.com/jdrbc/podly_pure_podcasts"
     ]
   ],
   [
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2024-05-21, 14:47:42",
+      "https://news.ycombinator.com/item?id=40429200"
+    ],
+    [
+      "Show HN: I built a game to help you learn neural network architectures",
+      "https://graphgame.sabrina.dev/"
+    ]
+  ],
+  [
+    [
       "2024-05-21, 14:19:56",
       "https://news.ycombinator.com/item?id=40428827"
     ],
@@ -267,6 +257,16 @@
     [
       "Abusing url handling in iTerm2 and Hyper for code execution",
       "https://vin01.github.io/piptagole/escape-sequences/iterm2/hyper/url-handlers/code-execution/2024/05/21/arbitrary-url-schemes-terminal-emulators.html"
+    ]
+  ],
+  [
+    [
+      "2024-05-21, 11:21:35",
+      "https://news.ycombinator.com/item?id=40426890"
+    ],
+    [
+      "Images that Sound: Generating spectrograms that are also images",
+      "https://ificl.github.io/images-that-sound/"
     ]
   ],
   [
