@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-22, 20:26:01](https://news.ycombinator.com/item?id=40446010) - [Nvidia Announces Financial Results for First Quarter Fiscal 2025](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-first-quarter-fiscal-2025)
 * [2024-05-22, 20:16:42](https://news.ycombinator.com/item?id=40445866) - [A landmark multi-year global partnership with News Corp](https://openai.com/index/news-corp-and-openai-sign-landmark-multi-year-global-partnership/)
 * [2024-05-22, 19:22:09](https://news.ycombinator.com/item?id=40445099) - [BreadboardOS firmware for the Raspberry Pi RP2040 features a Linux-like terminal](https://www.cnx-software.com/2024/05/21/breadboardos-firmware-for-the-raspberry-pi-rp2040-features-a-linux-like-terminal/)
 * [2024-05-22, 19:21:53](https://news.ycombinator.com/item?id=40445093) - [Carmakers Will Give Your Location to Police Without a Warrant, Senators Say](https://www.thedrive.com/news/automakers-will-give-your-location-to-police-without-a-warrant-senators-say)
 * [2024-05-22, 18:59:44](https://news.ycombinator.com/item?id=40444778) - [Bluesky Adds Direct Messages](https://bsky.social/about/blog/05-22-2024-direct-messages)
 * [2024-05-22, 18:23:17](https://news.ycombinator.com/item?id=40444267) - [S3 Is Showing Its Age](https://materializedview.io/p/s3-is-showing-its-age)
-* [2024-05-22, 18:22:27](https://news.ycombinator.com/item?id=40444262) - [Why I failed in $1,7k monthly revenue in my first SaaS?](https://news.ycombinator.com/item?id=40444262)
 * [2024-05-22, 18:11:34](https://news.ycombinator.com/item?id=40444121) - [Try Clojure](https://tryclojure.org/)
 * [2024-05-22, 17:53:45](https://news.ycombinator.com/item?id=40443927) - [Show HN: Neosync – Open-Source Data Anonymization for Postgres and MySQL](https://github.com/nucleuscloud/neosync)
 * [2024-05-22, 17:53:16](https://news.ycombinator.com/item?id=40443920) - [Show HN: B-field, a novel probabilistic key-value data structure (`rust-bfield`)](https://github.com/onecodex/rust-bfield)
