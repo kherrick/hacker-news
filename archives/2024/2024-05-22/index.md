@@ -13,6 +13,7 @@
 * [2024-05-22, 19:11:15](https://news.ycombinator.com/item?id=40444926) - [Show HN: Simple and fast resume document generation with AI](https://cvgist.com/)
 * [2024-05-22, 19:00:57](https://news.ycombinator.com/item?id=40444795) - [Congress Just Made It Basically Impossible to Track Taylor Swift's Private Jet](https://gizmodo.com/congress-just-made-it-way-harder-to-track-taylor-swift-1851492383)
 * [2024-05-22, 18:59:44](https://news.ycombinator.com/item?id=40444778) - [Bluesky Adds Direct Messages](https://bsky.social/about/blog/05-22-2024-direct-messages)
+* [2024-05-22, 18:31:18](https://news.ycombinator.com/item?id=40444392) - [Safe Terminal Escape Codes](https://www.arp242.net/safeterm.html)
 * [2024-05-22, 18:23:17](https://news.ycombinator.com/item?id=40444267) - [S3 Is Showing Its Age](https://materializedview.io/p/s3-is-showing-its-age)
 * [2024-05-22, 18:22:27](https://news.ycombinator.com/item?id=40444262) - [Why I failed in $1,7k monthly revenue in my first SaaS?](https://news.ycombinator.com/item?id=40444262)
 * [2024-05-22, 18:15:43](https://news.ycombinator.com/item?id=40444168) - [AlphaFold3 – why did Nature publish it without its code?](https://www.nature.com/articles/d41586-024-01463-0)
