@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-22](index.md)
 
+* [2024-05-22, 13:14:00](https://news.ycombinator.com/item?id=40440531) - [New Marine radios cement electromagnetic spectrum superiority](https://www.doncio.navy.mil/CHIPS/ArticleDetails.aspx?ID=16600)
 * [2024-05-22, 12:31:28](https://news.ycombinator.com/item?id=40440159) - [On Self-driving, Waymo is playing chess while Tesla plays checkers](https://arstechnica.com/cars/2024/05/on-self-driving-waymo-is-playing-chess-while-tesla-plays-checkers/)
 * [2024-05-22, 12:11:05](https://news.ycombinator.com/item?id=40439993) - [Why Dell's ThinOS Runs on FreeBSD](https://freebsdfoundation.org/freebsd-case-studies/dell-case-study-why-dells-thinos-runs-on-freebsd/)
 * [2024-05-22, 12:01:01](https://news.ycombinator.com/item?id=40439913) - [Plane (YC W17) is hiring product engineers (Rails/Remote/Americas)](https://www.ycombinator.com/companies/plane/jobs/6NKkoGo-senior-staff-product-engineer-americas)
