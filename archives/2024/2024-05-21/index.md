@@ -21,6 +21,8 @@
 * [2024-05-21, 20:11:32](https://news.ycombinator.com/item?id=40433266) - [Ask HN: Why don't VCs just \"suck it up\" and pay founders a competitive salary?](https://news.ycombinator.com/item?id=40433266)
 * [2024-05-21, 20:03:25](https://news.ycombinator.com/item?id=40433164) - [What's New in Kotlin 2.0.0](https://kotlinlang.org/docs/whatsnew20.html)
 * [2024-05-21, 19:49:59](https://news.ycombinator.com/item?id=40433000) - [Show HN: An online billboard I built in 2 weeks](https://billboardgrid.com)
+* [2024-05-21, 19:41:07](https://news.ycombinator.com/item?id=40432888) - [How Should We Critique Research?](https://gwern.net/research-criticism)
+* [2024-05-21, 19:39:12](https://news.ycombinator.com/item?id=40432870) - [Strategic Altruism](https://www.conspicuouscognition.com/p/strategic-altruism-the-machiavellian)
 * [2024-05-21, 19:36:36](https://news.ycombinator.com/item?id=40432834) - [Storing knowledge in a single long plain text file](https://breckyunits.com/scrollsets.html)
 * [2024-05-21, 19:27:19](https://news.ycombinator.com/item?id=40432723) - [Simplified Embedded Rust Book Released](https://www.theembeddedrustacean.com/c/ser-std)
 * [2024-05-21, 19:23:59](https://news.ycombinator.com/item?id=40432688) - [Gordon Bell has died](https://arstechnica.com/gadgets/2024/05/gordon-bell-an-architect-of-our-digital-age-dies-at-age-89/)
