@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-22](index.md)
 
+* [2024-05-22, 10:51:40](https://news.ycombinator.com/item?id=40439481) - [A comet approaching Earth could become brighter than the stars this fall](https://www.space.com/comet-tsuchinshan-atlas-fall-2024)
 * [2024-05-22, 10:50:13](https://news.ycombinator.com/item?id=40439475) - [The Denmark secret: how it became the most trusting country](https://www.theguardian.com/lifeandstyle/article/2024/may/22/the-denmark-secret-how-it-became-the-worlds-most-trusting-country-and-why-that-matters)
 * [2024-05-22, 10:33:15](https://news.ycombinator.com/item?id=40439379) - [Viral DNA in the human genome linked to major psychiatric disorders](https://medicalxpress.com/news/2024-05-ancient-viral-dna-human-genome.html)
 * [2024-05-22, 10:23:44](https://news.ycombinator.com/item?id=40439314) - [Autonomous AI Robot Creates a Shock-Absorbing Shape No Human Ever Could](https://scitechdaily.com/crushing-it-autonomous-ai-robot-creates-a-shock-absorbing-shape-no-human-ever-could/)
