@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-22, 09:44:47](https://news.ycombinator.com/item?id=40439126) - [Norway, along with Ireland and Spain, to recognise Palestinian state](https://www.reuters.com/world/norway-recognise-palestinian-state-nrk-aftenposten-report-2024-05-22/)
+* [2024-05-22, 10:23:44](https://news.ycombinator.com/item?id=40439314) - [Autonomous AI Robot Creates a Shock-Absorbing Shape No Human Ever Could](https://scitechdaily.com/crushing-it-autonomous-ai-robot-creates-a-shock-absorbing-shape-no-human-ever-could/)
 * [2024-05-22, 09:12:13](https://news.ycombinator.com/item?id=40438960) - [How and why to make a /now page on your site](https://sive.rs/now2)
 * [2024-05-22, 05:25:04](https://news.ycombinator.com/item?id=40437609) - [A transport protocol's view of Starlink](https://blog.apnic.net/2024/05/17/a-transport-protocols-view-of-starlink/)
 * [2024-05-22, 05:09:20](https://news.ycombinator.com/item?id=40437535) - [Alacritty – A fast, cross-platform, OpenGL terminal emulator](https://github.com/alacritty/alacritty)
