@@ -5,6 +5,9 @@
 ### [Archives](../../index.md) for [2024-05-22](index.md)
 
 * [2024-05-22, 22:22:30](https://news.ycombinator.com/item?id=40447431) - [Leaked OpenAI documents reveal aggressive tactics toward former employees](https://www.vox.com/future-perfect/351132/openai-vested-equity-nda-sam-altman-documents-employees)
+* [2024-05-22, 22:02:19](https://news.ycombinator.com/item?id=40447235) - [A Michigan farmworker is diagnosed with bird flu in case tied to dairy cows](https://www.npr.org/2024/05/22/1252984256/bird-flu-h5n1-virus-human-michigan-cows)
+* [2024-05-22, 21:51:40](https://news.ycombinator.com/item?id=40447117) - [Voyager 1 Resumes Sending Science Data](https://blogs.nasa.gov/voyager/2024/05/22/voyager-1-resumes-sending-science-data-from-two-instruments/)
+* [2024-05-22, 21:38:14](https://news.ycombinator.com/item?id=40446944) - [YouTube seems to once again be rolling out its widely hated new web redesign](https://9to5google.com/2024/05/22/youtube-redesign-rolling-out-again/)
 * [2024-05-22, 21:38:09](https://news.ycombinator.com/item?id=40446941) - [Fentanyl is fueling a record number of youth drug deaths](https://www.washingtonpost.com/dc-md-va/2024/05/22/fentanyl-youth-overdoses-increase/)
 * [2024-05-22, 20:57:21](https://news.ycombinator.com/item?id=40446449) - [Why Functional Programming Matters [pdf]](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
 * [2024-05-22, 20:56:20](https://news.ycombinator.com/item?id=40446433) - [Cortile – Linux auto tiling manager with hot corner support](https://github.com/leukipp/cortile)

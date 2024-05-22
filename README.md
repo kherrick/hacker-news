@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-22, 22:22:30](https://news.ycombinator.com/item?id=40447431) - [Leaked OpenAI documents reveal aggressive tactics toward former employees](https://www.vox.com/future-perfect/351132/openai-vested-equity-nda-sam-altman-documents-employees)
-* [2024-05-22, 21:38:09](https://news.ycombinator.com/item?id=40446941) - [Fentanyl is fueling a record number of youth drug deaths](https://www.washingtonpost.com/dc-md-va/2024/05/22/fentanyl-youth-overdoses-increase/)
+* [2024-05-22, 22:02:19](https://news.ycombinator.com/item?id=40447235) - [A Michigan farmworker is diagnosed with bird flu in case tied to dairy cows](https://www.npr.org/2024/05/22/1252984256/bird-flu-h5n1-virus-human-michigan-cows)
+* [2024-05-22, 21:51:40](https://news.ycombinator.com/item?id=40447117) - [Voyager 1 Resumes Sending Science Data](https://blogs.nasa.gov/voyager/2024/05/22/voyager-1-resumes-sending-science-data-from-two-instruments/)
+* [2024-05-22, 21:38:14](https://news.ycombinator.com/item?id=40446944) - [YouTube seems to once again be rolling out its widely hated new web redesign](https://9to5google.com/2024/05/22/youtube-redesign-rolling-out-again/)
 * [2024-05-22, 20:56:20](https://news.ycombinator.com/item?id=40446433) - [Cortile – Linux auto tiling manager with hot corner support](https://github.com/leukipp/cortile)
 * [2024-05-22, 20:26:01](https://news.ycombinator.com/item?id=40446010) - [Nvidia announces financial results for first quarter fiscal 2025](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-first-quarter-fiscal-2025)
 * [2024-05-22, 20:07:57](https://news.ycombinator.com/item?id=40445746) - [Dynamic loading of real-time content at Figma](https://www.figma.com/blog/speeding-up-file-load-times-one-page-at-a-time/)
@@ -13,7 +15,6 @@
 * [2024-05-22, 18:11:34](https://news.ycombinator.com/item?id=40444121) - [Try Clojure](https://tryclojure.org/)
 * [2024-05-22, 17:53:45](https://news.ycombinator.com/item?id=40443927) - [Show HN: Neosync – Open-Source Data Anonymization for Postgres and MySQL](https://github.com/nucleuscloud/neosync)
 * [2024-05-22, 17:53:16](https://news.ycombinator.com/item?id=40443920) - [Show HN: B-field, a novel probabilistic key-value data structure (`rust-bfield`)](https://github.com/onecodex/rust-bfield)
-* [2024-05-22, 17:52:21](https://news.ycombinator.com/item?id=40443907) - [One-third of Amazon warehouse workers are on food stamps or Medicaid](https://twitter.com/DanPriceSeattle/status/1791299631558823954)
 * [2024-05-22, 17:33:21](https://news.ycombinator.com/item?id=40443682) - [Windows Recall sounds like a privacy nightmare](https://www.techradar.com/computing/computing-security/windows-recall-sounds-like-a-privacy-nightmare-heres-why-im-worried)
 * [2024-05-22, 17:22:27](https://news.ycombinator.com/item?id=40443558) - [Systematically Improving Your RAG](https://jxnl.co/writing/2024/05/22/systematically-improving-your-rag/)
 * [2024-05-22, 17:00:03](https://news.ycombinator.com/item?id=40443276) - [Trieve (YC W24) Is Hiring a Sales Engineer](https://www.ycombinator.com/companies/trieve/jobs/LN9ucK7-sales-engineer-at-trieve-w24)
@@ -29,7 +30,6 @@
 * [2024-05-21, 18:35:13](https://news.ycombinator.com/item?id=40432102) - [The curious case of the missing period](https://tjaart.substack.com/p/the-curious-case-of-the-missing-period)
 * [2024-05-21, 18:15:27](https://news.ycombinator.com/item?id=40431835) - [Amber: Programming language compiled to Bash](https://amber-lang.com/)
 * [2024-05-21, 10:18:00](https://news.ycombinator.com/item?id=40426453) - [Emacs used as a message router in Germany's ATC systems in the 1990s (2021)](https://www.emacswiki.org/emacs/EmacsStories)
-* [2024-05-21, 07:21:25](https://news.ycombinator.com/item?id=40425161) - [The Numeric Tower Fiasco](https://mmapped.blog/posts/23-numeric-tower-fiasco.html)
 
 ## [Archives](archives/index.md)
 
