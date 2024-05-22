@@ -1,32 +1,12 @@
 [
   [
     [
-      "2024-05-22, 13:14:00",
-      "https://news.ycombinator.com/item?id=40440531"
-    ],
-    [
-      "New Marine radios cement electromagnetic spectrum superiority",
-      "https://www.doncio.navy.mil/CHIPS/ArticleDetails.aspx?ID=16600"
-    ]
-  ],
-  [
-    [
       "2024-05-22, 12:31:28",
       "https://news.ycombinator.com/item?id=40440159"
     ],
     [
       "On Self-driving, Waymo is playing chess while Tesla plays checkers",
       "https://arstechnica.com/cars/2024/05/on-self-driving-waymo-is-playing-chess-while-tesla-plays-checkers/"
-    ]
-  ],
-  [
-    [
-      "2024-05-22, 12:11:05",
-      "https://news.ycombinator.com/item?id=40439993"
-    ],
-    [
-      "Why Dell's ThinOS Runs on FreeBSD",
-      "https://freebsdfoundation.org/freebsd-case-studies/dell-case-study-why-dells-thinos-runs-on-freebsd/"
     ]
   ],
   [
@@ -61,16 +41,6 @@
   ],
   [
     [
-      "2024-05-22, 10:23:44",
-      "https://news.ycombinator.com/item?id=40439314"
-    ],
-    [
-      "Autonomous AI Robot Creates a Shock-Absorbing Shape No Human Ever Could",
-      "https://scitechdaily.com/crushing-it-autonomous-ai-robot-creates-a-shock-absorbing-shape-no-human-ever-could/"
-    ]
-  ],
-  [
-    [
       "2024-05-22, 07:56:43",
       "https://news.ycombinator.com/item?id=40438434"
     ],
@@ -81,12 +51,32 @@
   ],
   [
     [
+      "2024-05-22, 05:25:04",
+      "https://news.ycombinator.com/item?id=40437609"
+    ],
+    [
+      "A transport protocol's view of Starlink",
+      "https://blog.apnic.net/2024/05/17/a-transport-protocols-view-of-starlink/"
+    ]
+  ],
+  [
+    [
       "2024-05-22, 05:03:00",
       "https://news.ycombinator.com/item?id=40437506"
     ],
     [
       "Emory Awards, Then Suspends Students Behind Study-Aide App",
       "https://www.govtech.com/education/higher-ed/emory-awards-then-suspends-students-behind-study-aide-app"
+    ]
+  ],
+  [
+    [
+      "2024-05-22, 02:36:11",
+      "https://news.ycombinator.com/item?id=40436796"
+    ],
+    [
+      "When Kodak and Polaroid went to war",
+      "https://steveblank.com/2024/05/16/secret-history-when-kodak-went-to-war-with-polaroid/"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Business Booms and Depressions Since 1775 (1943)",
       "https://fraser.stlouisfed.org/title/business-booms-depressions-since-1775-145"
+    ]
+  ],
+  [
+    [
+      "2024-05-21, 14:47:42",
+      "https://news.ycombinator.com/item?id=40429200"
+    ],
+    [
+      "Show HN: I built a game to help you learn neural network architectures",
+      "https://graphgame.sabrina.dev/"
     ]
   ],
   [
