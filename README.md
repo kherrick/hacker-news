@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-23, 14:07:34](https://news.ycombinator.com/item?id=40454938) - [Looking Glass launches new 3D displays](https://techcrunch.com/2024/05/14/looking-glass-launches-new-3d-displays/)
-* [2024-05-23, 13:55:19](https://news.ycombinator.com/item?id=40454769) - [AI Agents: too early, too expensive, too unreliable (for now)](https://www.kadoa.com/blog/ai-agents-hype-vs-reality)
+* [2024-05-23, 14:07:03](https://news.ycombinator.com/item?id=40454933) - [Ask HN: Devs/data scis who pivoted to a new career in 30s/40s, what do you do?](https://news.ycombinator.com/item?id=40454933)
 * [2024-05-23, 12:21:26](https://news.ycombinator.com/item?id=40453822) - [Maths proof of Langlands conjecture is so complex almost no one can explain it](https://www.newscientist.com/article/2431964-incredible-maths-proof-is-so-complex-that-almost-no-one-can-explain-it/)
 * [2024-05-23, 12:00:17](https://news.ycombinator.com/item?id=40453619) - [PermitFlow (YC W22) Is Hiring](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 * [2024-05-23, 10:43:55](https://news.ycombinator.com/item?id=40453025) - [My boss says we don't need any engineering managers. Is he right](https://charity.wtf/2024/01/05/questionable-advice-my-boss-says-we-dont-need-any-engineering-managers-is-he-right/)
