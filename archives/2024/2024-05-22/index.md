@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-22](index.md)
 
+* [2024-05-22, 23:27:20](https://news.ycombinator.com/item?id=40448171) - [California could require age verification to visit porn sites](https://calmatters.org/politics/2024/05/california-porn-id-bill/)
 * [2024-05-22, 23:22:38](https://news.ycombinator.com/item?id=40448113) - [Ex-Googler designed a heat pump you'll want in your home](https://www.fastcompany.com/91123783/this-ex-googler-designed-a-heat-pump-youll-actually-want-in-your-home)
 * [2024-05-22, 22:39:51](https://news.ycombinator.com/item?id=40447626) - [US Justice Department to Seek Breakup of Live Nation-Ticketmaster](https://www.bloomberg.com/news/articles/2024-05-22/justice-department-to-seek-breakup-of-live-nation-ticketmaster)
 * [2024-05-22, 22:39:21](https://news.ycombinator.com/item?id=40447617) - [Liberal democracy might lose the 21st century](https://www.noahpinion.blog/p/how-liberal-democracy-might-lose)
@@ -75,6 +76,7 @@
 * [2024-05-22, 08:27:44](https://news.ycombinator.com/item?id=40438664) - [Cover Agent: open source regression test generation tool](https://github.com/Codium-ai/cover-agent)
 * [2024-05-22, 07:56:43](https://news.ycombinator.com/item?id=40438434) - [Psion 5mx Emulator](https://wuffs.org/WindEmu/index.html)
 * [2024-05-22, 07:29:59](https://news.ycombinator.com/item?id=40438261) - [Electric cars more likely to hit pedestrians than petrol vehicles, study finds](https://www.theguardian.com/world/article/2024/may/21/electric-cars-more-likely-to-hit-pedestrians-than-petrol-vehicles-study-finds)
+* [2024-05-22, 05:31:30](https://news.ycombinator.com/item?id=40437641) - [Faking William Morris, Generative Forgery, and the Erosion of Art History](https://maggieappleton.com/generative-forgery)
 * [2024-05-22, 05:25:04](https://news.ycombinator.com/item?id=40437609) - [A transport protocol's view of Starlink](https://blog.apnic.net/2024/05/17/a-transport-protocols-view-of-starlink/)
 * [2024-05-22, 05:09:20](https://news.ycombinator.com/item?id=40437535) - [Alacritty – A fast, cross-platform, OpenGL terminal emulator](https://github.com/alacritty/alacritty)
 * [2024-05-22, 05:03:00](https://news.ycombinator.com/item?id=40437506) - [Emory Awards, Then Suspends Students Behind Study-Aide App](https://www.govtech.com/education/higher-ed/emory-awards-then-suspends-students-behind-study-aide-app)
