@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-23, 10:53:20",
+      "https://news.ycombinator.com/item?id=40453077"
+    ],
+    [
+      "Microsoft outage affects Bing, Copilot, DuckDuckGo and ChatGPT internet search",
+      "https://www.bleepingcomputer.com/news/microsoft/microsoft-outage-affects-bing-copilot-duckduckgo-and-chatgpt-internet-search/"
+    ]
+  ],
+  [
+    [
       "2024-05-23, 10:34:44",
       "https://news.ycombinator.com/item?id=40452960"
     ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2024-05-22, 13:58:25",
-      "https://news.ycombinator.com/item?id=40441093"
-    ],
-    [
-      "Show HN: PBT – A property-based testing library for Ruby",
-      "https://github.com/ohbarye/pbt"
-    ]
-  ],
-  [
-    [
       "2024-05-22, 13:39:53",
       "https://news.ycombinator.com/item?id=40440854"
     ],
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2024-05-21, 12:48:36",
+      "https://news.ycombinator.com/item?id=40427757"
+    ],
+    [
+      "Google's Moonshot Factory Falls Back Down to Earth",
+      "https://www.bloomberg.com/news/features/2024-05-20/google-s-era-of-unrestrained-invention-is-coming-to-an-end"
+    ]
+  ],
+  [
+    [
       "2024-05-21, 10:18:00",
       "https://news.ycombinator.com/item?id=40426453"
     ],
@@ -287,16 +297,6 @@
     [
       "Why Are Sloths So Slow?",
       "https://slothconservation.org/sloths-move-slow/"
-    ]
-  ],
-  [
-    [
-      "2024-05-21, 08:01:27",
-      "https://news.ycombinator.com/item?id=40425366"
-    ],
-    [
-      "Ballerina: Functional programming framework for front end web development",
-      "https://github.com/giuseppemag/ballerina"
     ]
   ]
 ]
