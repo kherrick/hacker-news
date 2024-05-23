@@ -106,7 +106,7 @@
     ],
     [
       "Daylight Computer – New 60fps e-paper tablet",
-      "https://daylightcomputer.com/"
+      "https://daylightcomputer.com/product"
     ]
   ],
   [
@@ -117,6 +117,16 @@
     [
       "The S-matrix is the oracle physicists turn to in times of crisis",
       "https://www.quantamagazine.org/the-s-matrix-is-the-oracle-physicists-turn-to-in-times-of-crisis-20240523/"
+    ]
+  ],
+  [
+    [
+      "2024-05-23, 15:41:56",
+      "https://news.ycombinator.com/item?id=40456114"
+    ],
+    [
+      "SOAR-ing Away with Smalltalk: Berkeley RISC-III",
+      "https://thechipletter.substack.com/p/soar-ing-away-with-smalltalk-berkeley"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "The Space Quest II Master Disk Blunder",
       "https://lanceewing.github.io/blog/sierra/agi/sq2/2024/05/22/do-you-own-this-space-quest-2-disk.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-23, 14:53:18",
-      "https://news.ycombinator.com/item?id=40455478"
-    ],
-    [
-      "Show HN: HackerNews but for research papers",
-      "https://www.papertalk.xyz/research/home"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2024-05-21, 12:49:38",
+      "https://news.ycombinator.com/item?id=40427771"
+    ],
+    [
+      "\"Namespace on Read\" for Ruby, FAQ",
+      "https://gist.github.com/tagomoris/4392f1091f658294bd4d473d8ff631cb"
+    ]
+  ],
+  [
+    [
       "2024-05-21, 10:48:59",
       "https://news.ycombinator.com/item?id=40426666"
     ],
     [
       "vu128: Efficient variable-length integers",
       "https://john-millikin.com/vu128-efficient-variable-length-integers"
-    ]
-  ],
-  [
-    [
-      "2024-05-21, 10:36:11",
-      "https://news.ycombinator.com/item?id=40426573"
-    ],
-    [
-      "Festival of Britain (1951)",
-      "https://en.wikipedia.org/wiki/Festival_of_Britain"
     ]
   ]
 ]
