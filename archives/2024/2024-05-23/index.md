@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-23](index.md)
 
+* [2024-05-23, 13:14:59](https://news.ycombinator.com/item?id=40454301) - [Red Lobster was killed by private equity, not Endless Shrimp](https://pluralistic.net/2024/05/23/spineless/#invertebrates)
 * [2024-05-23, 13:13:50](https://news.ycombinator.com/item?id=40454283) - [Support for Windows 10 will end October 2025](https://www.microsoft.com/en-us/windows/end-of-support)
 * [2024-05-23, 12:48:55](https://news.ycombinator.com/item?id=40454047) - [China's first large-scale sodium battery energy storage station now operational](https://cnevpost.com/2024/05/13/china-1st-large-sodium-battery-energy-storage-station-operation/)
 * [2024-05-23, 12:29:15](https://news.ycombinator.com/item?id=40453882) - [Ex-Googler says company's AI panic is like Google+ fiasco all over again](https://the-decoder.com/ex-googler-says-companys-ai-panic-is-like-google-fiasco-all-over-again/)
