@@ -75,6 +75,7 @@
 * [2024-05-21, 13:05:08](https://news.ycombinator.com/item?id=40427973) - [40-Year old BASICA utility code for teaching](https://github.com/norton120/educator-tools-87)
 * [2024-05-21, 12:56:56](https://news.ycombinator.com/item?id=40427886) - [Cars and Consumer Data: On Unlawful Collection and Use](https://www.ftc.gov/policy/advocacy-research/tech-at-ftc/2024/05/cars-consumer-data-unlawful-collection-use)
 * [2024-05-21, 12:55:00](https://news.ycombinator.com/item?id=40427851) - [Rare things become common at scale](https://longform.asmartbear.com/scale-rare/)
+* [2024-05-21, 12:49:38](https://news.ycombinator.com/item?id=40427771) - [\"Namespace on Read\" for Ruby, FAQ](https://gist.github.com/tagomoris/4392f1091f658294bd4d473d8ff631cb)
 * [2024-05-21, 12:48:36](https://news.ycombinator.com/item?id=40427757) - [Google's Moonshot Factory Falls Back Down to Earth](https://www.bloomberg.com/news/features/2024-05-20/google-s-era-of-unrestrained-invention-is-coming-to-an-end)
 * [2024-05-21, 12:12:57](https://news.ycombinator.com/item?id=40427337) - [Common Lisp for Shell Scripting](https://simonsafar.com/2021/lisp_scripting/)
 * [2024-05-21, 12:00:25](https://news.ycombinator.com/item?id=40427195) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)

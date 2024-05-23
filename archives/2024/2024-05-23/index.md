@@ -22,6 +22,7 @@
 * [2024-05-23, 16:54:04](https://news.ycombinator.com/item?id=40457054) - [Daily cannabis use overtakes drinking in US first](https://www.bbc.com/news/articles/c9xxd8w57kjo)
 * [2024-05-23, 16:47:00](https://news.ycombinator.com/item?id=40456959) - [Show HN: Porter Cloud – PaaS with an eject button](https://news.ycombinator.com/item?id=40456959)
 * [2024-05-23, 16:38:25](https://news.ycombinator.com/item?id=40456834) - [Daylight: A 60fps e-ink tablet](https://daylightcomputer.com/)
+* [2024-05-23, 16:38:25](https://news.ycombinator.com/item?id=40456834) - [Daylight Computer – New 60fps e-paper tablet](https://daylightcomputer.com/product)
 * [2024-05-23, 16:35:09](https://news.ycombinator.com/item?id=40456801) - [The S-Matrix Is the Oracle Physicists Turn to in Times of Crisis](https://www.quantamagazine.org/the-s-matrix-is-the-oracle-physicists-turn-to-in-times-of-crisis-20240523/)
 * [2024-05-23, 16:22:30](https://news.ycombinator.com/item?id=40456644) - [Spotify Car Thing will be discontinued](https://support.spotify.com/us/article/car-thing-discontinued/)
 * [2024-05-23, 16:11:44](https://news.ycombinator.com/item?id=40456528) - [Show HN: Pong Wars with C#](https://github.com/unoplatform/Uno.Samples/tree/master/UI/PongWars)
