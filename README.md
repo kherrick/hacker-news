@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-23, 15:16:20](https://news.ycombinator.com/item?id=40455758) - [The Space Quest II Master Disk Blunder](https://lanceewing.github.io/blog/sierra/agi/sq2/2024/05/22/do-you-own-this-space-quest-2-disk.html)
 * [2024-05-23, 14:54:08](https://news.ycombinator.com/item?id=40455494) - [Make your own backdoor: CFLAGS code injection, Makefile injection, pkg-config](https://www.openwall.com/lists/oss-security/2024/04/17/3)
 * [2024-05-23, 14:53:18](https://news.ycombinator.com/item?id=40455478) - [Show HN: HackerNews but for state of the art research papers](https://www.papertalk.xyz/research/home)
 * [2024-05-23, 14:48:29](https://news.ycombinator.com/item?id=40455426) - [amber, a code search & replace tool](https://github.com/dalance/amber)
@@ -14,6 +15,7 @@
 * [2024-05-23, 11:13:28](https://news.ycombinator.com/item?id=40453221) - [BB(3, 4) > Ack(14)](https://www.sligocki.com//2024/05/22/bb-3-4-a14.html)
 * [2024-05-23, 10:03:27](https://news.ycombinator.com/item?id=40452731) - [How Failure Has Made Mathematics Stronger](https://www.quantamagazine.org/how-failure-has-made-mathematics-stronger-20240522/)
 * [2024-05-23, 09:52:18](https://news.ycombinator.com/item?id=40452655) - [Tom Waits vs. Frito-Lay, Inc](http://tomwaitslibrary.info/biography/copyright/frito-lay/)
+* [2024-05-23, 07:17:22](https://news.ycombinator.com/item?id=40451525) - [M2dir: Treating mails as files without going crazy](https://bitfehler.srht.site/posts/2024-04-15_m2dir-treating-mails-as-files-without-going-crazy.html)
 * [2024-05-23, 03:23:54](https://news.ycombinator.com/item?id=40450128) - [Magic UI: UI Library for Design Engineers](https://magicui.design/)
 * [2024-05-23, 02:34:14](https://news.ycombinator.com/item?id=40449767) - [WinDirStat – Windows Directory Statistics](https://windirstat.net/)
 * [2024-05-23, 01:25:35](https://news.ycombinator.com/item?id=40449278) - [Drone Flying 101 – An Interactive Tutorial for Beginners](https://fpvsim.com/drone-flying-101)
@@ -22,12 +24,10 @@
 * [2024-05-22, 17:53:45](https://news.ycombinator.com/item?id=40443927) - [Show HN: Neosync – Open-Source Data Anonymization for Postgres and MySQL](https://github.com/nucleuscloud/neosync)
 * [2024-05-22, 16:05:06](https://news.ycombinator.com/item?id=40442595) - [Pluckable Strings](https://string.spiel.com/)
 * [2024-05-22, 15:07:20](https://news.ycombinator.com/item?id=40441945) - [Show HN: Route your prompts to the best LLM](https://unify.ai/chat?default=true)
-* [2024-05-22, 11:21:16](https://news.ycombinator.com/item?id=40439641) - [A Faster SuperSplat with PWA Support](https://blog.playcanvas.com/a-faster-supersplat-with-pwa-support/)
 * [2024-05-22, 10:59:46](https://news.ycombinator.com/item?id=40439515) - [Windows 10 wallpaper was physically built and photographed (2015)](https://gmunk.com/Windows-10-Desktop/)
 * [2024-05-22, 08:08:26](https://news.ycombinator.com/item?id=40438510) - [Number 16 (spider)](https://en.wikipedia.org/wiki/Number_16_(spider))
 * [2024-05-22, 05:31:19](https://news.ycombinator.com/item?id=40437638) - [Von Neumann's First Computer Program (1970)](https://dl.acm.org/doi/10.1145/356580.356581)
 * [2024-05-21, 12:12:57](https://news.ycombinator.com/item?id=40427337) - [Common Lisp for Shell Scripting](https://simonsafar.com/2021/lisp_scripting/)
-* [2024-05-21, 10:18:00](https://news.ycombinator.com/item?id=40426453) - [Emacs used as a message router in Germany's ATC systems in the 1990s (2021)](https://www.emacswiki.org/emacs/EmacsStories)
 * [2024-05-21, 08:55:56](https://news.ycombinator.com/item?id=40425762) - [Why Are Sloths So Slow?](https://slothconservation.org/sloths-move-slow/)
 * [2024-05-21, 05:56:13](https://news.ycombinator.com/item?id=40424650) - [A Designer's Guide to Documenting Accessibility and User Interactions](https://stephaniewalter.design/blog/a-designers-guide-to-documenting-accessibility-user-interactions/)
 
