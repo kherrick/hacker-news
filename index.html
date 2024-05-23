@@ -129,239 +129,23 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="40456064">
+        <section id="40455918">
           <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=40456064"
-              >Launch HN: Metriport (YC S22) – Open-source API for healthcare
-              data exchange</a
+            <a class="item" href="https://www.youtube.com/watch?v=roRx0b_VXsU"
+              >Vercel Ship 2024 Keynote (live) [video]</a
             >
           </h3>
           <section>
             <h4>
-              <span>2024-05-23 @ 15:38:25</span
+              <span>2024-05-23 @ 15:29:23</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">8</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40456064"
+                ><a href="https://news.ycombinator.com/item?id=40455918"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
-            <div class="text">
-              <a href="https://www.metriport.com/">https://www.metriport.com/</a
-              >), an open-source platform that makes it easy for healthcare
-              organizations to access and exchange medical data for their
-              patients. We support all major healthcare IT systems in the US.
-              Try out our product and watch a demo video here:
-              <a
-                href="https://docs.metriport.com/medical-api/getting-started/quickstart"
-                >https://docs.metriport.com/medical-api/getting-started/quick...</a
-              >. Oh and here's our github:
-              <a href="https://github.com/metriport/metriport"
-                >https://github.com/metriport/metriport</a
-              >.
-              <p>
-                If you’ve been to doctors in the US, you may have encountered
-                the problem: how does a healthcare provider get access to your
-                up-to-date medical history to treat you properly? Reliance on
-                archaic methods is still the norm: typically you, or your
-                provider, need to call the facilities where you’ve previously
-                received treatment (assuming you remember them all), just to
-                have them send your records via fax (yep, fax). This can take
-                weeks, only then to have a provider sift through hundreds of
-                pages of unstructured docs, just to figure out basic things like
-                your active medication list, what conditions you may have,
-                latest lab results, etc. This not only delays treatment, it can
-                cause improper treatment, since the medical history is critical
-                for treatment decisions.
-              </p>
-              <p>
-                For example, here’s a crazy story from a customer of ours:
-                recently a patient came to them asking for a specific
-                medication. When the provider pulled their medical history
-                through Metriport, they saw that the patient had had a heart
-                attack in the last 6 months. (The patient had omitted to mention
-                this.) In such a case, the medication they were asking for could
-                cause death! Needless to say, the provider did not fulfill that
-                request—but they did begin to look for medications that could
-                actually work for that patient.
-              </p>
-              <p>
-                Many providers use Electronic Health Record (EHR) software to
-                manage their patients’ data, but many EHRs don’t talk to each
-                other, which means a patient’s data is more often than not
-                siloed across disparate systems with incompatible data formats.
-                More recently, Health Information Exchanges (HIEs) emerged to
-                make the exchange of patient medical data possible between
-                different providers. HIEs are essentially a peer-to-peer network
-                for clinical data exchange. These networks helped push
-                interoperability in the right direction, but their underlying
-                technology is still based on older tech from the 90s, requiring
-                SOAP-based protocols for transactions, using mostly C-CDAs (XML
-                files), PDFs, and images to exchange medical data. A patient
-                with a chronic condition may have thousands of such files across
-                dozens of providers, and they all contain messy, likely
-                unstructured, and duplicate information. Even if you spend lots
-                of dev time, and money, connecting to all of these exchanges
-                (like we did), you’re still left with the tough problem of
-                making this medical data actually usable for providers.
-              </p>
-              <p>
-                We did YC in S22, starting with a quantified self personal
-                health app (this was our Show HN:
-                <a href="https://news.ycombinator.com/item?id=29800932"
-                  >https://news.ycombinator.com/item?id=29800932</a
-                >
-                - it didn’t get very far!). Working on clinical use cases for
-                the app ran us straight into this insane rats’ nest of
-                30-year-old technologies, all incompatible with each other, just
-                to integrate medical data into our product. Vendors attempting
-                to solve this problem wanted to lock us into $100k+ yearly
-                contracts without even letting us try their closed-source
-                product! Integration time would have been months, and developer
-                docs were a whole new order of jank. It took us a while to
-                realize there really was no good solution to this—it was hard to
-                believe—but then we started talking to other healthcare
-                companies and found they had the same problem. At that point it
-                was a no-brainer to pivot to this instead. We kept the name
-                Metriport though :).
-              </p>
-              <p>
-                Metriport connects to all 3 major HIE networks (CommonWell,
-                Carequality, and eHealth Exchange), and provides an API and
-                dashboard. Here’s how it works: (1) You input basic patient
-                demographics (name, DOB, gender at birth, address); (2) we
-                search through hundreds of thousands of providers across
-                multiple HIEs for the patient’s records; (3) Once the records
-                are found, we fetch all of them and convert them into usable
-                JSON data - standardized to FHIR; (4) The data, and raw files,
-                are made available on the API and dashboard.
-              </p>
-              <p>
-                You can render the data in a way that’s immediately useful for
-                providers, like deduplicated PDF medical record summaries. From
-                there, you can also use Metriport to contribute new clinical
-                patient information back to the providers in the network,
-                regardless of what EHR they use—eliminating the need for many
-                painful one-off EHR integrations. It’s a little known fact that
-                you can do this using HIEs without needing to write individual
-                integrations to EHRs like Epic, Athena, and Cerner, for example.
-              </p>
-              <p>
-                The value of this approach is that healthtech companies and
-                providers don’t have to go build dozens of EHR integrations
-                themselves, or have to know where patient data is located, and
-                can instead tap into a single “internet of healthcare data”.
-                Going from entering inputs to getting a comprehensive medical
-                record summary is done in 3 minutes on average. Compare that to
-                weeks using fax machines just to get messy data!
-              </p>
-              <p>
-                You may be wondering how the search for records is done, using
-                only patient demographics. Essentially, these networks consist
-                of a bunch of nodes talking to each other asking “hey, do you
-                have records for John Doe?”. So, this boils down to sending HTTP
-                requests containing the patient’s demographics to a bunch of
-                endpoints, and the endpoints returning the ID representing the
-                patient in their system if there’s a match. You’ll be surprised
-                (or at least dismayed) to hear that there is no standardization
-                for how patient matching is determined across systems in the
-                networks, which is problematic with something as highly variable
-                as a person’s demographics. This means if one system wants to
-                consider a single typo in the patient’s first name a mismatch,
-                they can go ahead and do so—making it difficult for others to
-                find records in their system. This problem is so pervasive that
-                one of the national HIEs started an initiative to get other
-                network participants to share their patient matching algorithm
-                to help improve response rates for all systems in the network.
-                Sadly, only one vendor agreed to share their matching algorithm.
-                To combat this status quo, we’ve open-sourced our patient
-                matching algorithm, which uses a variant of the Fellegi-Sunter
-                model, and we hope other vendors will follow suit in the future:
-                <a
-                  href="https://github.com/metriport/metriport/blob/3e82111bc081a39a228276f2bf9d041d9a8df60e/packages/core/src/mpi/patient-mpi-metriport-api.ts#L13-L38"
-                  >https://github.com/metriport/metriport/blob/3e82111bc081a39a...</a
-                >
-              </p>
-              <p>
-                Another big part of this is the data mapping from one format to
-                another. If you’re not familiar with healthcare data, FHIR is
-                the latest and greatest standard that’s ubiquitous in modern
-                systems. In Metriport, FHIR is represented with JSON. The older
-                standard is HL7v3 (C-CDA), which is what all healthcare
-                information exchanges still use today, and what EHRs typically
-                export - C-CDAs are messy XML documents that have structure, but
-                also contain a lot of unstructured data in HTML format, or free
-                text. So you can imagine, the ability to convert C-CDA medical
-                records to something actually usable like FHIR, is pretty
-                important. Given that it’s important, you’d also think it’s a
-                fairly solved problem, with plenty of resources/tools to wrangle
-                the data… nope. Again, there are little to no standards here,
-                and you have different vendors building proprietary systems
-                in-house, attempting to solve the same problem, with mediocre
-                black-box results that you can’t trust. We see making healthcare
-                data usable more like a public body of knowledge that can be
-                improved upon, and don’t think this work should be closed off to
-                the world, so we also open-sourced our FHIR converter (<a
-                  href="https://github.com/metriport/metriport/tree/develop/packages/fhir-converter"
-                  >https://github.com/metriport/metriport/tree/develop/packages...</a
-                >), and you can give it a spin here:
-                <a
-                  href="https://docs.metriport.com/converter-api/getting-started/quickstart"
-                  >https://docs.metriport.com/converter-api/getting-started/qui...</a
-                >. In the future, we will also leverage things like OCR on PDFs
-                to do clinical data extraction, and use LLMs to make even more
-                concise medical record summaries.
-              </p>
-              <p>
-                Making Metriport open-source was a decision we made from day
-                one, based on our philosophy that transparency leads to
-                innovation, especially in healthcare.
-              </p>
-              <p>
-                From a security and compliance standpoint, we’re fully SOC 2
-                Type 2 and HIPAA compliant (<a
-                  href="https://security.metriport.com/"
-                  >https://security.metriport.com/</a
-                >). Additionally, using Metriport for patient data exchange
-                today requires a Treatment purpose of use under HIPAA - which
-                means that only Covered Entities, or Business Associates who
-                work with Covered Entities, can use Metriport. This means that
-                companies doing things such as clinical trials recruitment, for
-                example, can’t use Metriport, but a primary care provider, or a
-                clinical decision support vendor, can. This is due to current
-                requirements set forth by HIEs, which may open up to support
-                alternative use cases in the future, such as Individual Access
-                Services (IAS).
-              </p>
-              <p>
-                We charge per full medical record retrieval for a patient (which
-                we call a query). This starts at $1 per query (with a monthly
-                minimum), and scales down from there based on volume. We only
-                charge for queries that return at least one record (and even if
-                a query returns 1000 documents for a single patient, we still
-                count that as a single query) - no charge is incurred for
-                sharing data back to the networks, or making API calls to
-                generate medical record summaries, for example.
-              </p>
-              <p>
-                You can see all the code for Metriport in our public GitHub
-                repo:
-                <a href="https://github.com/metriport/metriport"
-                  >https://github.com/metriport/metriport</a
-                >. For anyone wanting to give us a whirl, you can do so by
-                getting started with our free sandbox environment (<a
-                  href="https://docs.metriport.com/medical-api/getting-started/quickstart"
-                  >https://docs.metriport.com/medical-api/getting-started/quick...</a
-                >).
-              </p>
-              <p>
-                We’re looking forward to hearing what you think, and happy to
-                answer any questions you may have, as the health information
-                exchange space is pretty niche - thanks for taking the time to
-                read this, we hope it was interesting!
-              </p>
-            </div>
           </section>
         </section>
         <section id="40455758">
@@ -376,33 +160,11 @@
             <h4>
               <span>2024-05-23 @ 15:16:20</span
               ><span class="points-container"
-                >Points: <span class="points">59</span></span
+                >Points: <span class="points">83</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40455758"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="40455494">
-          <h3>
-            <a
-              class="item"
-              href="https://www.openwall.com/lists/oss-security/2024/04/17/3"
-              >Make your own backdoor: CFLAGS code injection, Makefile
-              injection, pkg-config</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-05-23 @ 14:54:08</span
-              ><span class="points-container"
-                >Points: <span class="points">45</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40455494"
-                  >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -410,37 +172,18 @@
         <section id="40455426">
           <h3>
             <a class="item" href="https://github.com/dalance/amber"
-              >amber, a code search &amp;amp; replace tool</a
+              >Amber: A code search and replace tool</a
             >
           </h3>
           <section>
             <h4>
               <span>2024-05-23 @ 14:48:29</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40455426"
                   >Comments</a
                 ><span class="descendants">: 13</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="40455341">
-          <h3>
-            <a class="item" href="https://bdupras.github.io/filter-tutorial/"
-              >Probabilistic Filters by Example</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-05-23 @ 14:41:44</span
-              ><span class="points-container"
-                >Points: <span class="points">15</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40455341"
-                  >Comments</a
-                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
@@ -455,11 +198,11 @@
             <h4>
               <span>2024-05-23 @ 14:40:58</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40455328"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -469,19 +212,18 @@
             <a
               class="item"
               href="https://viewfromthewing.com/game-changer-southwest-airlines-now-available-on-google-flights/"
-              >Game Changer: Southwest Airlines Now Available on Google
-              Flights</a
+              >Southwest Airlines now available on Google Flights</a
             >
           </h3>
           <section>
             <h4>
               <span>2024-05-23 @ 14:34:08</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">63</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40455243"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
@@ -496,30 +238,11 @@
             <h4>
               <span>2024-05-23 @ 14:31:36</span
               ><span class="points-container"
-                >Points: <span class="points">67</span></span
+                >Points: <span class="points">75</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40455208"
                   >Comments</a
-                ><span class="descendants">: 18</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="40455202">
-          <h3>
-            <a class="item" href="https://pharmacy.amazon.com"
-              >Amazon Pharmacy</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-05-23 @ 14:31:00</span
-              ><span class="points-container"
-                >Points: <span class="points">18</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40455202"
-                  >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -537,7 +260,7 @@
             <h4>
               <span>2024-05-23 @ 13:34:50</span
               ><span class="points-container"
-                >Points: <span class="points">16</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40454528"
                   >Comments</a
@@ -559,11 +282,32 @@
             <h4>
               <span>2024-05-23 @ 13:22:47</span
               ><span class="points-container"
-                >Points: <span class="points">37</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40454383"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 18</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="40454136">
+          <h3>
+            <a
+              class="item"
+              href="https://www.construction-physics.com/p/how-to-build-300000-airplanes-in"
+              >How to Build 300k Airplanes in Five Years</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-05-23 @ 12:58:09</span
+              ><span class="points-container"
+                >Points: <span class="points">9</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40454136"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -585,28 +329,6 @@
             </h4>
           </section>
         </section>
-        <section id="40453384">
-          <h3>
-            <a
-              class="item"
-              href="https://github.com/sqlite/sqlite/commit/fd288f3549a1ab9a309a9e120d46319d42adea29"
-              >Change the default temp file prefix to be "SQLite" spelled
-              backwards</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-05-23 @ 11:32:30</span
-              ><span class="points-container"
-                >Points: <span class="points">50</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40453384"
-                  >Comments</a
-                ><span class="descendants">: 9</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="40453221">
           <h3>
             <a
@@ -619,11 +341,11 @@
             <h4>
               <span>2024-05-23 @ 11:13:28</span
               ><span class="points-container"
-                >Points: <span class="points">113</span></span
+                >Points: <span class="points">119</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40453221"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 21</span></span
               >
             </h4>
           </section>
@@ -640,11 +362,11 @@
             <h4>
               <span>2024-05-23 @ 10:03:27</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40452731"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -661,11 +383,32 @@
             <h4>
               <span>2024-05-23 @ 09:52:18</span
               ><span class="points-container"
-                >Points: <span class="points">106</span></span
+                >Points: <span class="points">112</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40452655"
                   >Comments</a
-                ><span class="descendants">: 66</span></span
+                ><span class="descendants">: 78</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="40451525">
+          <h3>
+            <a
+              class="item"
+              href="https://bitfehler.srht.site/posts/2024-04-15_m2dir-treating-mails-as-files-without-going-crazy.html"
+              >M2dir: Treating mails as files without going crazy</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-05-23 @ 07:17:22</span
+              ><span class="points-container"
+                >Points: <span class="points">29</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40451525"
+                  >Comments</a
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -680,11 +423,11 @@
             <h4>
               <span>2024-05-23 @ 06:03:51</span
               ><span class="points-container"
-                >Points: <span class="points">72</span></span
+                >Points: <span class="points">79</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40451009"
                   >Comments</a
-                ><span class="descendants">: 360</span></span
+                ><span class="descendants">: 362</span></span
               >
             </h4>
           </section>
@@ -699,11 +442,11 @@
             <h4>
               <span>2024-05-23 @ 03:23:54</span
               ><span class="points-container"
-                >Points: <span class="points">145</span></span
+                >Points: <span class="points">152</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40450128"
                   >Comments</a
-                ><span class="descendants">: 65</span></span
+                ><span class="descendants">: 66</span></span
               >
             </h4>
           </section>
@@ -718,11 +461,11 @@
             <h4>
               <span>2024-05-23 @ 02:34:14</span
               ><span class="points-container"
-                >Points: <span class="points">267</span></span
+                >Points: <span class="points">273</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40449767"
                   >Comments</a
-                ><span class="descendants">: 126</span></span
+                ><span class="descendants">: 132</span></span
               >
             </h4>
           </section>
@@ -737,11 +480,11 @@
             <h4>
               <span>2024-05-23 @ 01:25:35</span
               ><span class="points-container"
-                >Points: <span class="points">177</span></span
+                >Points: <span class="points">183</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40449278"
                   >Comments</a
-                ><span class="descendants">: 95</span></span
+                ><span class="descendants">: 97</span></span
               >
             </h4>
           </section>
@@ -759,11 +502,11 @@
             <h4>
               <span>2024-05-22 @ 23:16:52</span
               ><span class="points-container"
-                >Points: <span class="points">437</span></span
+                >Points: <span class="points">442</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40448045"
                   >Comments</a
-                ><span class="descendants">: 775</span></span
+                ><span class="descendants">: 793</span></span
               >
             </h4>
           </section>
@@ -778,118 +521,13 @@
             <h4>
               <span>2024-05-22 @ 23:13:50</span
               ><span class="points-container"
-                >Points: <span class="points">177</span></span
+                >Points: <span class="points">181</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40447998"
                   >Comments</a
                 ><span class="descendants">: 10</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="40443927">
-          <h3>
-            <a class="item" href="https://github.com/nucleuscloud/neosync"
-              >Show HN: Neosync – Open-Source Data Anonymization for Postgres
-              and MySQL</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-05-22 @ 17:53:45</span
-              ><span class="points-container"
-                >Points: <span class="points">230</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40443927"
-                  >Comments</a
-                ><span class="descendants">: 39</span></span
-              >
-            </h4>
-            <div class="text">
-              <a href="https://www.github.com/nucleuscloud/neosync"
-                >https://www.github.com/nucleuscloud/neosync</a
-              >). Neosync is an open source platform that helps developers
-              anonymize production data, generate synthetic data and sync it
-              across their environments for better testing, debugging and
-              developer experience.
-              <p>
-                Most developers and teams have some version of a database seed
-                script that creates some mock data for their local and stage
-                databases. The problem is that production data is messy and it’s
-                very difficult to replicate that with mock data. This causes two
-                big problems for developers.
-              </p>
-              <p>
-                The first problem is that features seem to work locally/stage
-                but have bugs and edge cases in production because the seed data
-                you used to develop against was not representative of production
-                data.
-              </p>
-              <p>
-                The second problem we saw was that debugging production errors
-                would take a long time and would often resurface. When we see a
-                bug in production, the first thing we want to do is reproduce it
-                locally, but if we can’t reproduce the state of the data
-                locally, then we’re kind of flying blind.
-              </p>
-              <p>
-                Working directly with production data would solve both of these
-                problems but most teams can’t because of: (1) privacy/security
-                issues and (2) scale. So we set out to solve these two problems
-                with Neosync.
-              </p>
-              <p>
-                We solve the privacy and security problem using anonymization
-                and synthetic data. We have 40+ pre-built transformers (or you
-                can write your own in code) that can anonymize PII or sensitive
-                data so that it’s safe to use locally. Additionally, you can
-                generate synthetic data from scratch that fits your existing
-                schema across your database.
-              </p>
-              <p>
-                The second problem is scale. Some production databases are too
-                big to fit locally or just have more data than you need. Also,
-                in some cases, you may want to debug a certain customer’s data
-                and you only want their data. We solve this with subsetting. You
-                can pass in a SQL query to filter your table(s) and Neosync will
-                handle all of the heavy lifting including referential integrity.
-              </p>
-              <p>
-                At the core of Neosync does three things: (1) It streams data
-                from a source to one or multiple destination databases. We never
-                store your sensitive data. (2) While that data is being
-                streamed, we transform it. You define which schemas and tables
-                you want to sync and at the column level, select a transformer
-                that defines how you want to anonymize the data or generate
-                synthetic data. (3) We subset your data based on your filters.
-              </p>
-              <p>
-                We do all of this while handling referential integrity. Whether
-                you have primary keys, foreign keys, unique constraints,
-                circular dependencies (within a table and across tables),
-                sequences and more, Neosync preserves those references.
-              </p>
-              <p>
-                We also ship with APIs, a Terraform provider, a CLI and Github
-                action that you can use to hydrate a CI database.
-              </p>
-              <p>
-                Neosync is an open source project written in Go and Typescript
-                and can be run on Docker Compose, Bare Metal, or Kubernetes via
-                Helm. You can also use our hosted platform or managed platform
-                that you can deploy in your VPC. We also have a hosted platform
-                with a generous free tier -
-                <a href="https://neosync.dev">https://neosync.dev</a>
-              </p>
-              <p>
-                Here's a brief loom demo:
-                <a
-                  href="https://www.loom.com/share/ac21378d01cd4d848cf723e4960e8338?sid=2faf613c-92be-44fa-9278-c8087e777356"
-                  >https://www.loom.com/share/ac21378d01cd4d848cf723e4960e8338?...</a
-                >
-              </p>
-              <p>We'd love any feedback you have!</p>
-            </div>
           </section>
         </section>
         <section id="40442595">
@@ -902,7 +540,7 @@
             <h4>
               <span>2024-05-22 @ 16:05:06</span
               ><span class="points-container"
-                >Points: <span class="points">650</span></span
+                >Points: <span class="points">655</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40442595"
                   >Comments</a
@@ -911,86 +549,67 @@
             </h4>
           </section>
         </section>
-        <section id="40441945">
+        <section id="40440841">
           <h3>
-            <a class="item" href="https://unify.ai/chat?default=true"
-              >Show HN: Route your prompts to the best LLM</a
+            <a
+              class="item"
+              href="https://thephd.dev/just-put-raii-in-c-bro-please-bro-just-one-more-destructor-bro-cmon-im-good-for-it"
+              >Why not just do simple C++ RAII in C?</a
             >
           </h3>
           <section>
             <h4>
-              <span>2024-05-22 @ 15:07:20</span
+              <span>2024-05-22 @ 13:38:51</span
               ><span class="points-container"
-                >Points: <span class="points">272</span></span
+                >Points: <span class="points">160</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40441945"
+                ><a href="https://news.ycombinator.com/item?id=40440841"
                   >Comments</a
-                ><span class="descendants">: 110</span></span
+                ><span class="descendants">: 198</span></span
               >
             </h4>
-            <div class="text">
-              <p>
-                Here is a quick(ish) screen-recroding explaining how it works:
-                <a href="https://youtu.be/ZpY6SIkBosE"
-                  >https://youtu.be/ZpY6SIkBosE</a
-                >
-              </p>
-              <p>
-                Best results when training a custom router on your own prompt
-                data:
-                <a href="https://youtu.be/9JYqNbIEac0"
-                  >https://youtu.be/9JYqNbIEac0</a
-                >
-              </p>
-              <p>
-                The router balances user preferences for quality, speed and
-                cost. The end result is higher quality and faster LLM responses
-                at lower cost.
-              </p>
-              <p>
-                The quality for each candidate LLM is predicted ahead of time
-                using a neural scoring function, which is a BERT-like
-                architecture conditioned on the prompt and a latent
-                representation of the LLM being scored. The different LLMs are
-                queried across the batch dimension, with the neural scoring
-                architecture taking a single latent representation of the LLM as
-                input per forward pass. This makes the scoring function very
-                modular to query for different LLM combinations. It is trained
-                in a supervised manner on several open LLM datasets, using GPT4
-                as a judge. The cost and speed data is taken from our live
-                benchmarks, updated every few hours across all continents. The
-                final "loss function" is a linear combination of quality, cost,
-                inter-token-latency and time-to-first-token, with the user
-                effectively scaling the weighting factors of this linear
-                combination.
-              </p>
-              <p>
-                Smaller LLMs are often good enough for simple prompts, but
-                knowing exactly how and when they might break is difficult.
-                Simple perturbations of the phrasing can cause smaller LLMs to
-                fail catastrophically, making them hard to rely on. For example,
-                Gemma-7B converts numbers to strings and returns the "largest"
-                string when asking for the "largest" number in a set, but works
-                fine when asking for the "highest" or "maximum".
-              </p>
-              <p>
-                The router is able to learn these quirky distributions, and
-                ensure that the smaller, cheaper and faster LLMs are only used
-                when there is high confidence that they will get the answer
-                correct.
-              </p>
-              <p>
-                Pricing-wise, we charge the same rates as the backend providers
-                we route to, without taking any margins. We also give $50 in
-                free credits to all new signups.
-              </p>
-              <p>
-                The router can be used off-the-shelf, or it can be trained
-                directly on your own data for improved performance.
-              </p>
-              <p>What do people think? Could this be useful?</p>
-              <p>Feedback of all kinds is welcome!</p>
-            </div>
+          </section>
+        </section>
+        <section id="40440086">
+          <h3>
+            <a
+              class="item"
+              href="https://engineering.mit.edu/engage/ask-an-engineer/whats-the-difference-between-a-motor-and-an-engine/"
+              >What's the difference between a motor and an engine? (2013)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-05-22 @ 12:21:23</span
+              ><span class="points-container"
+                >Points: <span class="points">105</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40440086"
+                  >Comments</a
+                ><span class="descendants">: 123</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="40439641">
+          <h3>
+            <a
+              class="item"
+              href="https://blog.playcanvas.com/a-faster-supersplat-with-pwa-support/"
+              >A Faster SuperSplat with PWA Support</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-05-22 @ 11:21:16</span
+              ><span class="points-container"
+                >Points: <span class="points">23</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40439641"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
           </section>
         </section>
         <section id="40439515">
@@ -1004,11 +623,11 @@
             <h4>
               <span>2024-05-22 @ 10:59:46</span
               ><span class="points-container"
-                >Points: <span class="points">653</span></span
+                >Points: <span class="points">664</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40439515"
                   >Comments</a
-                ><span class="descendants">: 215</span></span
+                ><span class="descendants">: 217</span></span
               >
             </h4>
           </section>
@@ -1025,11 +644,31 @@
             <h4>
               <span>2024-05-22 @ 08:08:26</span
               ><span class="points-container"
-                >Points: <span class="points">262</span></span
+                >Points: <span class="points">267</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40438510"
                   >Comments</a
-                ><span class="descendants">: 93</span></span
+                ><span class="descendants">: 96</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="40437641">
+          <h3>
+            <a class="item" href="https://maggieappleton.com/generative-forgery"
+              >Faking William Morris, Generative Forgery, and the Erosion of Art
+              History</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-05-22 @ 05:31:30</span
+              ><span class="points-container"
+                >Points: <span class="points">99</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40437641"
+                  >Comments</a
+                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
@@ -1044,7 +683,7 @@
             <h4>
               <span>2024-05-22 @ 05:31:19</span
               ><span class="points-container"
-                >Points: <span class="points">83</span></span
+                >Points: <span class="points">85</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40437638"
                   >Comments</a
@@ -1053,21 +692,23 @@
             </h4>
           </section>
         </section>
-        <section id="40427337">
+        <section id="40426666">
           <h3>
-            <a class="item" href="https://simonsafar.com/2021/lisp_scripting/"
-              >Common Lisp for Shell Scripting</a
+            <a
+              class="item"
+              href="https://john-millikin.com/vu128-efficient-variable-length-integers"
+              >vu128: Efficient variable-length integers</a
             >
           </h3>
           <section>
             <h4>
-              <span>2024-05-21 @ 12:12:57</span
+              <span>2024-05-21 @ 10:48:59</span
               ><span class="points-container"
-                >Points: <span class="points">16</span></span
+                >Points: <span class="points">9</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40427337"
+                ><a href="https://news.ycombinator.com/item?id=40426666"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -1085,7 +726,7 @@
             <h4>
               <span>2024-05-21 @ 05:56:13</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40424650"
                   >Comments</a
