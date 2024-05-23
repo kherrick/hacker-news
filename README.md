@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-23, 12:00:17](https://news.ycombinator.com/item?id=40453619) - [PermitFlow (YC W22) Is Hiring](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
-* [2024-05-23, 11:27:32](https://news.ycombinator.com/item?id=40453335) - [The 'Best' Hidden Y Combinator Page.. You never knew..](https://news.ycombinator.com/best)
+* [2024-05-23, 11:27:32](https://news.ycombinator.com/item?id=40453335) - [Hacker News Best](https://news.ycombinator.com/best)
 * [2024-05-23, 10:53:20](https://news.ycombinator.com/item?id=40453077) - [Microsoft outage affects Bing, Copilot, DuckDuckGo and ChatGPT internet search](https://www.bleepingcomputer.com/news/microsoft/microsoft-outage-affects-bing-copilot-duckduckgo-and-chatgpt-internet-search/)
 * [2024-05-23, 10:11:57](https://news.ycombinator.com/item?id=40452795) - [Tell HN: DuckDuckGo Search Not Returning Results](https://news.ycombinator.com/item?id=40452795)
 * [2024-05-23, 10:03:27](https://news.ycombinator.com/item?id=40452731) - [How Failure Has Made Mathematics Stronger](https://www.quantamagazine.org/how-failure-has-made-mathematics-stronger-20240522/)
