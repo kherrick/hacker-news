@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-23](index.md)
 
+* [2024-05-23, 18:29:24](https://news.ycombinator.com/item?id=40458135) - [iTerm2 removes AI feature from core, creates separate plugin](https://gitlab.com/gnachman/iterm2/-/issues/11470#note_1917647951)
+* [2024-05-23, 18:04:05](https://news.ycombinator.com/item?id=40457867) - [Spotify is going to break every Car Thing gadget it ever sold](https://www.theverge.com/2024/5/23/24163383/spotify-car-thing-discontinued-december-2024)
 * [2024-05-23, 17:16:12](https://news.ycombinator.com/item?id=40457313) - [DNS glitch that threatened Internet stability fixed; cause remains unclear](https://arstechnica.com/security/2024/05/dns-glitch-that-threatened-internet-stability-fixed-cause-remains-unclear/)
 * [2024-05-23, 17:09:38](https://news.ycombinator.com/item?id=40457229) - [Running PHP Fast at the Edge with WebAssembly](https://wasmer.io/posts/running-php-blazingly-fast-at-the-edge-with-wasm)
 * [2024-05-23, 17:00:38](https://news.ycombinator.com/item?id=40457126) - [Memfault (YC W19) Is Hiring a Firmware Engineer in NYC/Boston (Lever.co)](https://jobs.lever.co/memfault/9fa58d3b-2415-4d80-9e5c-be989f90c2e4)

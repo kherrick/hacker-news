@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-23, 18:29:24](https://news.ycombinator.com/item?id=40458135) - [iTerm2 removes AI feature from core, creates separate plugin](https://gitlab.com/gnachman/iterm2/-/issues/11470#note_1917647951)
+* [2024-05-23, 18:04:05](https://news.ycombinator.com/item?id=40457867) - [Spotify is going to break every Car Thing gadget it ever sold](https://www.theverge.com/2024/5/23/24163383/spotify-car-thing-discontinued-december-2024)
 * [2024-05-23, 17:16:12](https://news.ycombinator.com/item?id=40457313) - [DNS glitch that threatened Internet stability fixed; cause remains unclear](https://arstechnica.com/security/2024/05/dns-glitch-that-threatened-internet-stability-fixed-cause-remains-unclear/)
 * [2024-05-23, 17:09:38](https://news.ycombinator.com/item?id=40457229) - [Running PHP Fast at the Edge with WebAssembly](https://wasmer.io/posts/running-php-blazingly-fast-at-the-edge-with-wasm)
 * [2024-05-23, 17:00:38](https://news.ycombinator.com/item?id=40457126) - [Memfault (YC W19) Is Hiring a Firmware Engineer in NYC/Boston](https://jobs.lever.co/memfault/9fa58d3b-2415-4d80-9e5c-be989f90c2e4)
@@ -15,7 +17,6 @@
 * [2024-05-23, 14:40:58](https://news.ycombinator.com/item?id=40455328) - [Bytehound: Memory Profiler for Linux](https://github.com/koute/bytehound)
 * [2024-05-23, 14:31:36](https://news.ycombinator.com/item?id=40455208) - [Making EC2 boot time faster](https://depot.dev/blog/faster-ec2-boot-time)
 * [2024-05-23, 13:22:47](https://news.ycombinator.com/item?id=40454383) - [First pictures from Euclid satellite reveal billions of orphan stars](https://www.nottingham.ac.uk/news/first-pictures-from-euclid-satellite-reveal-billions-of-orphan-stars)
-* [2024-05-23, 11:43:06](https://news.ycombinator.com/item?id=40453467) - [The Strangeness of Grief (2019)](https://www.newyorker.com/magazine/2020/01/06/the-strangeness-of-grief)
 * [2024-05-23, 11:13:28](https://news.ycombinator.com/item?id=40453221) - [BB(3, 4) > Ack(14)](https://www.sligocki.com//2024/05/22/bb-3-4-a14.html)
 * [2024-05-23, 10:03:27](https://news.ycombinator.com/item?id=40452731) - [How Failure Has Made Mathematics Stronger](https://www.quantamagazine.org/how-failure-has-made-mathematics-stronger-20240522/)
 * [2024-05-23, 09:52:18](https://news.ycombinator.com/item?id=40452655) - [Tom Waits vs. Frito-Lay, Inc (2003)](http://tomwaitslibrary.info/biography/copyright/frito-lay/)
@@ -23,7 +24,6 @@
 * [2024-05-23, 03:23:54](https://news.ycombinator.com/item?id=40450128) - [Magic UI: UI Library for Design Engineers](https://magicui.design/)
 * [2024-05-23, 02:34:14](https://news.ycombinator.com/item?id=40449767) - [WinDirStat – Windows Directory Statistics](https://windirstat.net/)
 * [2024-05-23, 01:25:35](https://news.ycombinator.com/item?id=40449278) - [Drone Flying 101 – An Interactive Tutorial for Beginners](https://fpvsim.com/drone-flying-101)
-* [2024-05-22, 23:13:50](https://news.ycombinator.com/item?id=40447998) - [Emacs Easydraw – drawing tool inside Emacs](https://github.com/misohena/el-easydraw)
 * [2024-05-22, 10:59:46](https://news.ycombinator.com/item?id=40439515) - [Windows 10 wallpaper was physically built and photographed (2015)](https://gmunk.com/Windows-10-Desktop/)
 * [2024-05-22, 08:09:46](https://news.ycombinator.com/item?id=40438523) - [API Transformation Mad Libs](https://netapinotes.com/api-transformation-mad-libs/)
 * [2024-05-22, 08:08:26](https://news.ycombinator.com/item?id=40438510) - [Number 16 (spider)](https://en.wikipedia.org/wiki/Number_16_(spider))
