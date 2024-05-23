@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-23, 08:12:53](https://news.ycombinator.com/item?id=40451949) - [Microsoft Bing Search, Copilot face downtime](https://indianexpress.com/article/technology/tech-news-technology/microsoft-bing-search-copilot-face-downtime-users-flag-issues-9346860/)
+* [2024-05-23, 07:34:06](https://news.ycombinator.com/item?id=40451645) - [Mapping the Mind of a Large Language Model](https://www.anthropic.com/news/mapping-mind-language-model)
 * [2024-05-23, 03:23:54](https://news.ycombinator.com/item?id=40450128) - [Magic UI: UI Library for Design Engineers](https://magicui.design/)
 * [2024-05-23, 02:34:14](https://news.ycombinator.com/item?id=40449767) - [WinDirStat – Windows Directory Statistics](https://windirstat.net/)
 * [2024-05-23, 01:25:35](https://news.ycombinator.com/item?id=40449278) - [Drone Flying 101 – An Interactive Tutorial for Beginners](https://fpvsim.com/drone-flying-101)
@@ -8,7 +9,6 @@
 * [2024-05-22, 23:13:50](https://news.ycombinator.com/item?id=40447998) - [Emacs Easydraw – drawing tool inside Emacs](https://github.com/misohena/el-easydraw)
 * [2024-05-22, 22:22:30](https://news.ycombinator.com/item?id=40447431) - [Leaked OpenAI documents reveal aggressive tactics toward former employees](https://www.vox.com/future-perfect/351132/openai-vested-equity-nda-sam-altman-documents-employees)
 * [2024-05-22, 20:56:20](https://news.ycombinator.com/item?id=40446433) - [Cortile – Linux auto tiling manager with hot corner support](https://github.com/leukipp/cortile)
-* [2024-05-22, 18:23:17](https://news.ycombinator.com/item?id=40444267) - [S3 is showing its age](https://materializedview.io/p/s3-is-showing-its-age)
 * [2024-05-22, 18:11:34](https://news.ycombinator.com/item?id=40444121) - [Try Clojure](https://tryclojure.org/)
 * [2024-05-22, 17:53:45](https://news.ycombinator.com/item?id=40443927) - [Show HN: Neosync – Open-Source Data Anonymization for Postgres and MySQL](https://github.com/nucleuscloud/neosync)
 * [2024-05-22, 17:53:16](https://news.ycombinator.com/item?id=40443920) - [Show HN: B-field, a novel probabilistic key-value data structure (`rust-bfield`)](https://github.com/onecodex/rust-bfield)
