@@ -84,6 +84,7 @@
 * [2024-05-22, 10:23:44](https://news.ycombinator.com/item?id=40439314) - [Autonomous AI Robot Creates a Shock-Absorbing Shape No Human Ever Could](https://scitechdaily.com/crushing-it-autonomous-ai-robot-creates-a-shock-absorbing-shape-no-human-ever-could/)
 * [2024-05-22, 09:44:47](https://news.ycombinator.com/item?id=40439126) - [Norway, along with Ireland and Spain, to recognise Palestinian state](https://www.reuters.com/world/norway-recognise-palestinian-state-nrk-aftenposten-report-2024-05-22/)
 * [2024-05-22, 09:12:13](https://news.ycombinator.com/item?id=40438960) - [How and why to make a /now page on your site](https://sive.rs/now2)
+* [2024-05-22, 08:50:41](https://news.ycombinator.com/item?id=40438834) - [Five Things to Avoid in Ruby](https://blog.appsignal.com/2024/05/22/five-things-to-avoid-in-ruby.html)
 * [2024-05-22, 08:27:44](https://news.ycombinator.com/item?id=40438664) - [Cover Agent: open source regression test generation tool](https://github.com/Codium-ai/cover-agent)
 * [2024-05-22, 08:09:46](https://news.ycombinator.com/item?id=40438523) - [API Transformation Mad Libs](https://netapinotes.com/api-transformation-mad-libs/)
 * [2024-05-22, 08:08:26](https://news.ycombinator.com/item?id=40438510) - [Number 16 (Spider)](https://en.wikipedia.org/wiki/Number_16_(spider))
