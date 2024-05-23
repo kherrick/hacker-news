@@ -9,6 +9,7 @@
 * [2024-05-23, 14:48:29](https://news.ycombinator.com/item?id=40455426) - [amber, a code search & replace tool](https://github.com/dalance/amber)
 * [2024-05-23, 14:41:44](https://news.ycombinator.com/item?id=40455341) - [Probabilistic Filters by Example](https://bdupras.github.io/filter-tutorial/)
 * [2024-05-23, 14:40:58](https://news.ycombinator.com/item?id=40455328) - [Bytehound: Memory Profiler for Linux](https://github.com/koute/bytehound)
+* [2024-05-23, 14:34:08](https://news.ycombinator.com/item?id=40455243) - [Game Changer: Southwest Airlines Now Available on Google Flights](https://viewfromthewing.com/game-changer-southwest-airlines-now-available-on-google-flights/)
 * [2024-05-23, 14:31:36](https://news.ycombinator.com/item?id=40455208) - [Making EC2 boot time 8x faster](https://depot.dev/blog/faster-ec2-boot-time)
 * [2024-05-23, 14:31:00](https://news.ycombinator.com/item?id=40455202) - [Amazon Pharmacy](https://pharmacy.amazon.com)
 * [2024-05-23, 14:07:34](https://news.ycombinator.com/item?id=40454938) - [Looking Glass launches new 3D displays](https://techcrunch.com/2024/05/14/looking-glass-launches-new-3d-displays/)
