@@ -141,13 +141,128 @@
             <h4>
               <span>2024-05-23 @ 20:30:22</span
               ><span class="points-container"
-                >Points: <span class="points">77</span></span
+                >Points: <span class="points">109</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40459543"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="40458923">
+          <h3>
+            <a class="item" href="https://getindexify.ai"
+              >Show HN: Open-Source Real Time Data Framework for LLM
+              Applications</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-05-23 @ 19:33:30</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40458923"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                1. Reliably process ingested content in real time if the
+                application is sensitive to freshness of information. 2. Being
+                able to bring in any kind of model, and run different parts of
+                the pipeline on GPUs and CPUs. 3. Fault Tolerance to ingestion
+                spike, compute infrastructure failure. 4. Scaling compute, reads
+                and writes as data volume grows.
+              </p>
+              <p>
+                We are built and open sourced Indexify(<a
+                  href="https://github.com/tensorlakeai/indexify"
+                  >https://github.com/tensorlakeai/indexify</a
+                >), to provide a compute engine and data frameworks to LLM
+                applications that work on dynamic environments where data is
+                updated frequently, or new data is constantly created.
+              </p>
+              <p>
+                Developers describe a declarative extraction graph, with stages
+                that extract or transform unstructured data. Data passes from
+                one stage to another, and end up finally at sinks like Vector
+                Databases, Blob Stores or Structured DataStores like Postgres.
+              </p>
+              <p>
+                Examples - 1. Graph that does Video Understanding could be:
+                Ingestion -&gt; Audio Extraction -&gt; Transcriptions -&gt; NER
+                and Embedding. And another path, Ingestion -&gt; Key Frame
+                Extraction -&gt; Object and Scene Description (<a
+                  href="https://github.com/tensorlakeai/indexify/blob/main/docs/docs/examples/Video_RAG.ipynb"
+                  >https://github.com/tensorlakeai/indexify/blob/main/docs/docs...</a
+                >) 2. PDF Extraction -&gt; PDF -&gt; Markdown -&gt; Chunking
+                -&gt; Embedding, NER (<a
+                  href="https://github.com/tensorlakeai/indexify/blob/main/docs/docs/examples/SEC_10_K_docs.ipynb"
+                  >https://github.com/tensorlakeai/indexify/blob/main/docs/docs...</a
+                >)
+              </p>
+              <p>
+                Application Layer - Indexify works as a retriever in the LLM
+                application stack, so you can use it pretty easily with your
+                existing applications. Call the retriever API over HTTP to get
+                extracted data from Indexify, and that's pretty much all the
+                integration you need to search or retrieve data.
+              </p>
+              <p>
+                You could use composable extractors and chain them together to
+                build complex real time data pipelines that work with any
+                unstructured data.
+              </p>
+              <p>
+                Since this is HN, I have the liberty to talk some technical
+                details :)
+              </p>
+              <p>
+                How is it Real Time? We built a replicated state machine with
+                Raft to process 10s of 1000s of ingestion events every second.
+                The storage and network layer is optimized for progressing the
+                scheduler to create tasks under 2 milliseconds. The architecture
+                of the scheduler is very similar to that of Google's Borg and
+                Hashicorp's Nomad. The architecture we have can be extended to
+                parallel scheduling on multiple machines and have a centralized
+                sequencer like Nomad.
+              </p>
+              <p>
+                Storage Systems: Since we the focus is unstructured data, we
+                wanted to be able to support storing and extracting from large
+                files and be able to scale horizontally as data volume grew.
+                Indexify uses blob stores under the hood to store unstructured
+                data. If a graph creates embeddings, they are automatically
+                stored in Vector Stores, and structured data is stored in
+                structured stores like Postgres. Under the hood we have Rust
+                traits between the ingestion server and the data stores, so we
+                can easily implement support for other vector stores.
+              </p>
+              <p>
+                Sync Vector and Structured Store - Indexify also syncs
+                structured data with vector store, if it detects the presence of
+                both in a graph. This allows to use pre-filtering capabilities
+                to narrow down the search space for better results.
+              </p>
+              <p>
+                APIs - Indexify exposes semantic search APIs over vector store,
+                and a read SQL queries over semi-structured data. We can
+                automatically figure out the schema of the structured data and
+                expose a SQL interface on top. Behind the scenes we parse SQL
+                and have a layer which scans and reads databases to slice and
+                dice the rows. So BI tools should work out of the box on
+                extracted data. We have Python and Typescript libraries to make
+                it easy for people to build new or integrate into existing
+                applications.
+              </p>
+              <p>
+                Thoughts? Would love to hear if you think this would be useful
+                to what you are building!
+              </p>
+            </div>
           </section>
         </section>
         <section id="40458846">
@@ -162,7 +277,7 @@
             <h4>
               <span>2024-05-23 @ 19:25:02</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40458846"
                   >Comments</a
@@ -184,11 +299,11 @@
             <h4>
               <span>2024-05-23 @ 19:09:42</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40458686"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 17</span></span
               >
             </h4>
           </section>
@@ -205,11 +320,11 @@
             <h4>
               <span>2024-05-23 @ 19:07:53</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">43</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40458655"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
@@ -226,11 +341,11 @@
             <h4>
               <span>2024-05-23 @ 19:05:53</span
               ><span class="points-container"
-                >Points: <span class="points">65</span></span
+                >Points: <span class="points">75</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40458617"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
@@ -247,11 +362,11 @@
             <h4>
               <span>2024-05-23 @ 18:28:07</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40458114"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 40</span></span
               >
             </h4>
           </section>
@@ -269,11 +384,11 @@
             <h4>
               <span>2024-05-23 @ 18:03:31</span
               ><span class="points-container"
-                >Points: <span class="points">77</span></span
+                >Points: <span class="points">89</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40457856"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -290,7 +405,7 @@
             <h4>
               <span>2024-05-23 @ 17:40:20</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40457631"
                   >Comments</a
@@ -413,11 +528,11 @@
             <h4>
               <span>2024-05-23 @ 17:09:38</span
               ><span class="points-container"
-                >Points: <span class="points">70</span></span
+                >Points: <span class="points">72</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40457229"
                   >Comments</a
-                ><span class="descendants">: 51</span></span
+                ><span class="descendants">: 53</span></span
               >
             </h4>
           </section>
@@ -449,7 +564,7 @@
             <h4>
               <span>2024-05-23 @ 16:47:00</span
               ><span class="points-container"
-                >Points: <span class="points">117</span></span
+                >Points: <span class="points">120</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40456959"
                   >Comments</a
@@ -545,32 +660,11 @@
             <h4>
               <span>2024-05-23 @ 16:38:25</span
               ><span class="points-container"
-                >Points: <span class="points">140</span></span
+                >Points: <span class="points">165</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40456834"
                   >Comments</a
-                ><span class="descendants">: 86</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="40456114">
-          <h3>
-            <a
-              class="item"
-              href="https://thechipletter.substack.com/p/soar-ing-away-with-smalltalk-berkeley"
-              >SOAR-ing Away with Smalltalk: Berkeley RISC-III</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-05-23 @ 15:41:56</span
-              ><span class="points-container"
-                >Points: <span class="points">14</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40456114"
-                  >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 113</span></span
               >
             </h4>
           </section>
@@ -587,11 +681,11 @@
             <h4>
               <span>2024-05-23 @ 15:41:29</span
               ><span class="points-container"
-                >Points: <span class="points">186</span></span
+                >Points: <span class="points">193</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40456107"
                   >Comments</a
-                ><span class="descendants">: 97</span></span
+                ><span class="descendants">: 107</span></span
               >
             </h4>
           </section>
@@ -607,11 +701,11 @@
             <h4>
               <span>2024-05-23 @ 15:38:25</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40456064"
                   >Comments</a
-                ><span class="descendants">: 23</span></span
+                ><span class="descendants">: 24</span></span
               >
             </h4>
             <div class="text">
@@ -841,11 +935,11 @@
             <h4>
               <span>2024-05-23 @ 15:31:09</span
               ><span class="points-container"
-                >Points: <span class="points">47</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40455944"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -862,11 +956,11 @@
             <h4>
               <span>2024-05-23 @ 15:16:20</span
               ><span class="points-container"
-                >Points: <span class="points">300</span></span
+                >Points: <span class="points">309</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40455758"
                   >Comments</a
-                ><span class="descendants">: 77</span></span
+                ><span class="descendants">: 84</span></span
               >
             </h4>
           </section>
@@ -881,11 +975,11 @@
             <h4>
               <span>2024-05-23 @ 14:48:29</span
               ><span class="points-container"
-                >Points: <span class="points">65</span></span
+                >Points: <span class="points">67</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40455426"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -900,11 +994,11 @@
             <h4>
               <span>2024-05-23 @ 14:40:58</span
               ><span class="points-container"
-                >Points: <span class="points">80</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40455328"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -919,7 +1013,7 @@
             <h4>
               <span>2024-05-23 @ 14:31:36</span
               ><span class="points-container"
-                >Points: <span class="points">144</span></span
+                >Points: <span class="points">147</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40455208"
                   >Comments</a
@@ -941,11 +1035,11 @@
             <h4>
               <span>2024-05-23 @ 13:22:47</span
               ><span class="points-container"
-                >Points: <span class="points">112</span></span
+                >Points: <span class="points">115</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40454383"
                   >Comments</a
-                ><span class="descendants">: 44</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
           </section>
@@ -962,11 +1056,11 @@
             <h4>
               <span>2024-05-23 @ 12:58:09</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40454136"
                   >Comments</a
-                ><span class="descendants">: 66</span></span
+                ><span class="descendants">: 70</span></span
               >
             </h4>
           </section>
@@ -983,11 +1077,11 @@
             <h4>
               <span>2024-05-23 @ 11:43:06</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40453467"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -1004,7 +1098,7 @@
             <h4>
               <span>2024-05-23 @ 11:13:28</span
               ><span class="points-container"
-                >Points: <span class="points">186</span></span
+                >Points: <span class="points">189</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40453221"
                   >Comments</a
@@ -1025,7 +1119,7 @@
             <h4>
               <span>2024-05-23 @ 10:03:27</span
               ><span class="points-container"
-                >Points: <span class="points">90</span></span
+                >Points: <span class="points">94</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40452731"
                   >Comments</a
@@ -1046,11 +1140,11 @@
             <h4>
               <span>2024-05-23 @ 09:52:18</span
               ><span class="points-container"
-                >Points: <span class="points">226</span></span
+                >Points: <span class="points">229</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40452655"
                   >Comments</a
-                ><span class="descendants">: 159</span></span
+                ><span class="descendants">: 160</span></span
               >
             </h4>
           </section>
@@ -1088,11 +1182,11 @@
             <h4>
               <span>2024-05-22 @ 11:44:48</span
               ><span class="points-container"
-                >Points: <span class="points">46</span></span
+                >Points: <span class="points">50</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40439810"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -1109,7 +1203,7 @@
             <h4>
               <span>2024-05-21 @ 12:49:38</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">13</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40427771"
                   >Comments</a
@@ -1130,7 +1224,7 @@
             <h4>
               <span>2024-05-21 @ 10:48:59</span
               ><span class="points-container"
-                >Points: <span class="points">67</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40426666"
                   >Comments</a
