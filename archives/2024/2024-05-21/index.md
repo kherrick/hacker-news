@@ -96,6 +96,7 @@
 * [2024-05-21, 10:36:11](https://news.ycombinator.com/item?id=40426573) - [Festival of Britain (1951)](https://en.wikipedia.org/wiki/Festival_of_Britain)
 * [2024-05-21, 10:18:00](https://news.ycombinator.com/item?id=40426453) - [Emacs used as a message router in Germany's ATC systems in the 1990s (2021)](https://www.emacswiki.org/emacs/EmacsStories)
 * [2024-05-21, 10:16:06](https://news.ycombinator.com/item?id=40426442) - [Gifski: Optimized GIF Encoder](https://github.com/ImageOptim/gifski)
+* [2024-05-21, 10:12:24](https://news.ycombinator.com/item?id=40426417) - [Seaweed, Fashion, and the Mermaids](https://worldsensorium.com/seaweed-fashion-and-the-mermaids/)
 * [2024-05-21, 10:10:10](https://news.ycombinator.com/item?id=40426406) - [Window Returns](https://stratechery.com/2024/windows-returns/)
 * [2024-05-21, 10:05:56](https://news.ycombinator.com/item?id=40426382) - [Building an AI game studio: what we've learned so far](https://braindump.me/blog-posts/building-an-ai-game-studio)
 * [2024-05-21, 09:46:08](https://news.ycombinator.com/item?id=40426221) - [Index of /files/audio/Boot Sounds/ (2019)](https://sys.re/files/audio/Boot%20Sounds/)
