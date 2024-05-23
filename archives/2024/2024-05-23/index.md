@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-05-23](index.md)
 
+* [2024-05-23, 12:29:15](https://news.ycombinator.com/item?id=40453882) - [Ex-Googler says company's AI panic is like Google+ fiasco all over again](https://the-decoder.com/ex-googler-says-companys-ai-panic-is-like-google-fiasco-all-over-again/)
 * [2024-05-23, 12:08:38](https://news.ycombinator.com/item?id=40453713) - [Ask HN: Discuss ADHD and your use of medication](https://news.ycombinator.com/item?id=40453713)
 * [2024-05-23, 12:00:17](https://news.ycombinator.com/item?id=40453619) - [PermitFlow (YC W22) Is Hiring](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
+* [2024-05-23, 11:49:52](https://news.ycombinator.com/item?id=40453524) - [Nostr is not decentralized nor censorship-resistant](https://njump.me/naddr1qqyrsdmpxgcrsepeqgsrhuxx8l9ex335q7he0f09aej04zpazpl0ne2cgukyawd24mayt8grqsqqqa2877wjz6)
 * [2024-05-23, 11:27:32](https://news.ycombinator.com/item?id=40453335) - [The 'Best' Hidden Y Combinator Page.. You never knew..](https://news.ycombinator.com/best)
 * [2024-05-23, 11:14:57](https://news.ycombinator.com/item?id=40453234) - [Common Lisp Is Not a Single Language, but Many](https://aartaka.me/cl-is-lots)
 * [2024-05-23, 10:53:20](https://news.ycombinator.com/item?id=40453077) - [Microsoft outage affects Bing, Copilot, DuckDuckGo and ChatGPT internet search](https://www.bleepingcomputer.com/news/microsoft/microsoft-outage-affects-bing-copilot-duckduckgo-and-chatgpt-internet-search/)
