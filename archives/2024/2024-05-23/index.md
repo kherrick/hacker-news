@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-23](index.md)
 
+* [2024-05-23, 17:16:12](https://news.ycombinator.com/item?id=40457313) - [DNS glitch that threatened Internet stability fixed; cause remains unclear](https://arstechnica.com/security/2024/05/dns-glitch-that-threatened-internet-stability-fixed-cause-remains-unclear/)
 * [2024-05-23, 17:00:38](https://news.ycombinator.com/item?id=40457126) - [Memfault (YC W19) Is Hiring a Firmware Engineer in NYC/Boston (Lever.co)](https://jobs.lever.co/memfault/9fa58d3b-2415-4d80-9e5c-be989f90c2e4)
 * [2024-05-23, 16:47:00](https://news.ycombinator.com/item?id=40456959) - [Show HN: Porter Cloud – PaaS with an eject button](https://news.ycombinator.com/item?id=40456959)
 * [2024-05-23, 16:38:25](https://news.ycombinator.com/item?id=40456834) - [Daylight: A 60fps e-ink tablet](https://daylightcomputer.com/)
@@ -37,6 +38,7 @@
 * [2024-05-23, 12:08:38](https://news.ycombinator.com/item?id=40453713) - [Ask HN: Discuss ADHD and your use of medication](https://news.ycombinator.com/item?id=40453713)
 * [2024-05-23, 12:00:17](https://news.ycombinator.com/item?id=40453619) - [PermitFlow (YC W22) Is Hiring](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 * [2024-05-23, 11:49:52](https://news.ycombinator.com/item?id=40453524) - [Nostr is not decentralized nor censorship-resistant](https://njump.me/naddr1qqyrsdmpxgcrsepeqgsrhuxx8l9ex335q7he0f09aej04zpazpl0ne2cgukyawd24mayt8grqsqqqa2877wjz6)
+* [2024-05-23, 11:43:06](https://news.ycombinator.com/item?id=40453467) - [The Strangeness of Grief (2019)](https://www.newyorker.com/magazine/2020/01/06/the-strangeness-of-grief)
 * [2024-05-23, 11:32:30](https://news.ycombinator.com/item?id=40453384) - [Change the default temp file prefix to be \"SQLite\" spelled backwards](https://github.com/sqlite/sqlite/commit/fd288f3549a1ab9a309a9e120d46319d42adea29)
 * [2024-05-23, 11:27:32](https://news.ycombinator.com/item?id=40453335) - [The 'Best' Hidden Y Combinator Page.. You never knew..](https://news.ycombinator.com/best)
 * [2024-05-23, 11:14:57](https://news.ycombinator.com/item?id=40453234) - [Common Lisp Is Not a Single Language, but Many](https://aartaka.me/cl-is-lots)
