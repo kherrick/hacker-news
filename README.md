@@ -2,8 +2,9 @@
 
 * [2024-05-23, 10:53:20](https://news.ycombinator.com/item?id=40453077) - [Microsoft outage affects Bing, Copilot, DuckDuckGo and ChatGPT internet search](https://www.bleepingcomputer.com/news/microsoft/microsoft-outage-affects-bing-copilot-duckduckgo-and-chatgpt-internet-search/)
 * [2024-05-23, 10:34:44](https://news.ycombinator.com/item?id=40452960) - [A Theoretical Case Against Education](https://www.astralcodexten.com/p/a-theoretical-case-against-education)
+* [2024-05-23, 10:11:57](https://news.ycombinator.com/item?id=40452795) - [Tell HN: DuckDuckGo Search Not Returning Results](https://news.ycombinator.com/item?id=40452795)
+* [2024-05-23, 10:03:27](https://news.ycombinator.com/item?id=40452731) - [How Failure Has Made Mathematics Stronger](https://www.quantamagazine.org/how-failure-has-made-mathematics-stronger-20240522/)
 * [2024-05-23, 08:55:05](https://news.ycombinator.com/item?id=40452260) - [It looks a lot like VMware just lost a 24,000-VM customer](https://www.theregister.com/2024/05/22/computershare_vm_migration_project/)
-* [2024-05-23, 08:12:53](https://news.ycombinator.com/item?id=40451949) - [Microsoft Bing Search, Copilot face downtime](https://indianexpress.com/article/technology/tech-news-technology/microsoft-bing-search-copilot-face-downtime-users-flag-issues-9346860/)
 * [2024-05-23, 03:23:54](https://news.ycombinator.com/item?id=40450128) - [Magic UI: UI Library for Design Engineers](https://magicui.design/)
 * [2024-05-23, 02:34:14](https://news.ycombinator.com/item?id=40449767) - [WinDirStat – Windows Directory Statistics](https://windirstat.net/)
 * [2024-05-23, 01:25:35](https://news.ycombinator.com/item?id=40449278) - [Drone Flying 101 – An Interactive Tutorial for Beginners](https://fpvsim.com/drone-flying-101)
@@ -15,7 +16,6 @@
 * [2024-05-22, 17:53:45](https://news.ycombinator.com/item?id=40443927) - [Show HN: Neosync – Open-Source Data Anonymization for Postgres and MySQL](https://github.com/nucleuscloud/neosync)
 * [2024-05-22, 16:05:06](https://news.ycombinator.com/item?id=40442595) - [Pluckable Strings](https://string.spiel.com/)
 * [2024-05-22, 15:07:20](https://news.ycombinator.com/item?id=40441945) - [Show HN: Route your prompts to the best LLM](https://unify.ai/chat?default=true)
-* [2024-05-22, 14:31:58](https://news.ycombinator.com/item?id=40441487) - [The push to ban ransom payments is gaining momentum](https://socket.dev/blog/the-push-to-ban-ransom-payments-is-gaining-momentum)
 * [2024-05-22, 13:39:53](https://news.ycombinator.com/item?id=40440854) - [Sal Khan is pioneering innovation in education again](https://www.gatesnotes.com/Brave-New-Words)
 * [2024-05-22, 13:38:51](https://news.ycombinator.com/item?id=40440841) - [Why not just do simple C++ RAII in C?](https://thephd.dev/just-put-raii-in-c-bro-please-bro-just-one-more-destructor-bro-cmon-im-good-for-it)
 * [2024-05-22, 12:21:23](https://news.ycombinator.com/item?id=40440086) - [What's the difference between a motor and an engine?](https://engineering.mit.edu/engage/ask-an-engineer/whats-the-difference-between-a-motor-and-an-engine/)
