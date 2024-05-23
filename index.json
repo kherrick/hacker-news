@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-05-23, 14:53:18",
-      "https://news.ycombinator.com/item?id=40455478"
-    ],
-    [
-      "Show HN: HackerNews but for research papers",
-      "https://www.papertalk.xyz/research/home"
-    ]
-  ],
-  [
-    [
       "2024-05-23, 14:48:29",
       "https://news.ycombinator.com/item?id=40455426"
     ],
@@ -87,6 +77,26 @@
     [
       "Making EC2 boot time 8x faster",
       "https://depot.dev/blog/faster-ec2-boot-time"
+    ]
+  ],
+  [
+    [
+      "2024-05-23, 14:31:00",
+      "https://news.ycombinator.com/item?id=40455202"
+    ],
+    [
+      "Amazon Pharmacy",
+      "https://pharmacy.amazon.com"
+    ]
+  ],
+  [
+    [
+      "2024-05-23, 13:34:50",
+      "https://news.ycombinator.com/item?id=40454528"
+    ],
+    [
+      "Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet",
+      "https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Common Lisp for Shell Scripting",
       "https://simonsafar.com/2021/lisp_scripting/"
-    ]
-  ],
-  [
-    [
-      "2024-05-21, 08:55:56",
-      "https://news.ycombinator.com/item?id=40425762"
-    ],
-    [
-      "Why Are Sloths So Slow?",
-      "https://slothconservation.org/sloths-move-slow/"
     ]
   ],
   [
