@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-23, 10:34:44",
+      "https://news.ycombinator.com/item?id=40452960"
+    ],
+    [
+      "A Theoretical Case Against Education",
+      "https://www.astralcodexten.com/p/a-theoretical-case-against-education"
+    ]
+  ],
+  [
+    [
       "2024-05-23, 08:55:05",
       "https://news.ycombinator.com/item?id=40452260"
     ],
@@ -107,16 +117,6 @@
     [
       "Show HN: Neosync – Open-Source Data Anonymization for Postgres and MySQL",
       "https://github.com/nucleuscloud/neosync"
-    ]
-  ],
-  [
-    [
-      "2024-05-22, 17:53:16",
-      "https://news.ycombinator.com/item?id=40443920"
-    ],
-    [
-      "Show HN: B-field, a novel probabilistic key-value data structure (`rust-bfield`)",
-      "https://github.com/onecodex/rust-bfield"
     ]
   ],
   [
