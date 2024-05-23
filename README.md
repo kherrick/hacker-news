@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-23, 00:05:36](https://news.ycombinator.com/item?id=40448592) - [Google Blog: Epic's proposed remedies are bad for everyone but Epic](https://blog.google/outreach-initiatives/public-policy/epics-proposed-remedies-are-bad-for-everyone-but-epic/)
+* [2024-05-22, 23:13:50](https://news.ycombinator.com/item?id=40447998) - [Emacs Easydraw – drawing tool inside Emacs](https://github.com/misohena/el-easydraw)
 * [2024-05-22, 22:39:51](https://news.ycombinator.com/item?id=40447626) - [US Justice Department to seek breakup of Live Nation-Ticketmaster](https://www.bloomberg.com/news/articles/2024-05-22/justice-department-to-seek-breakup-of-live-nation-ticketmaster)
 * [2024-05-22, 22:22:30](https://news.ycombinator.com/item?id=40447431) - [Leaked OpenAI documents reveal aggressive tactics toward former employees](https://www.vox.com/future-perfect/351132/openai-vested-equity-nda-sam-altman-documents-employees)
 * [2024-05-22, 22:02:19](https://news.ycombinator.com/item?id=40447235) - [A Michigan farmworker is diagnosed with bird flu in case tied to dairy cows](https://www.npr.org/2024/05/22/1252984256/bird-flu-h5n1-virus-human-michigan-cows)
@@ -24,7 +25,6 @@
 * [2024-05-22, 11:23:20](https://news.ycombinator.com/item?id=40439654) - [Microsoft Paint's new AI image generator builds on your brushstrokes](https://petapixel.com/2024/05/21/microsoft-paints-new-ai-image-generator-builds-on-your-brushstrokes/)
 * [2024-05-22, 07:56:43](https://news.ycombinator.com/item?id=40438434) - [Psion 5mx Emulator](https://wuffs.org/WindEmu/index.html)
 * [2024-05-22, 05:31:30](https://news.ycombinator.com/item?id=40437641) - [Faking William Morris, Generative Forgery, and the Erosion of Art History](https://maggieappleton.com/generative-forgery)
-* [2024-05-22, 02:36:11](https://news.ycombinator.com/item?id=40436796) - [When Kodak and Polaroid went to war](https://steveblank.com/2024/05/16/secret-history-when-kodak-went-to-war-with-polaroid/)
 * [2024-05-21, 22:53:32](https://news.ycombinator.com/item?id=40435076) - [How to compare two packed bitfields without having to unpack each field (2019)](https://devblogs.microsoft.com/oldnewthing/20190301-00/?p=101076)
 * [2024-05-21, 16:52:46](https://news.ycombinator.com/item?id=40430868) - [The Effects of Early Relational Trauma (2001) [pdf]](https://www.allanschore.com/pdf/SchoreIMHJTrauma01.pdf)
 * [2024-05-21, 10:18:00](https://news.ycombinator.com/item?id=40426453) - [Emacs used as a message router in Germany's ATC systems in the 1990s (2021)](https://www.emacswiki.org/emacs/EmacsStories)
