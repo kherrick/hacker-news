@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-23, 04:59:44",
+      "https://news.ycombinator.com/item?id=40450633"
+    ],
+    [
+      "Ask HN: Those who use an Android and macOS, how do you manage sync?",
+      "https://news.ycombinator.com/item?id=40450633"
+    ]
+  ],
+  [
+    [
       "2024-05-23, 03:56:13",
       "https://news.ycombinator.com/item?id=40450306"
     ],
@@ -41,32 +51,12 @@
   ],
   [
     [
-      "2024-05-22, 23:16:52",
-      "https://news.ycombinator.com/item?id=40448045"
-    ],
-    [
-      "OpenAI didn’t copy Scarlett Johansson’s voice for ChatGPT, records show",
-      "https://www.washingtonpost.com/technology/2024/05/22/openai-scarlett-johansson-chatgpt-ai-voice/"
-    ]
-  ],
-  [
-    [
       "2024-05-22, 23:13:50",
       "https://news.ycombinator.com/item?id=40447998"
     ],
     [
       "Emacs Easydraw – drawing tool inside Emacs",
       "https://github.com/misohena/el-easydraw"
-    ]
-  ],
-  [
-    [
-      "2024-05-22, 22:39:51",
-      "https://news.ycombinator.com/item?id=40447626"
-    ],
-    [
-      "US Justice Department to seek breakup of Live Nation-Ticketmaster",
-      "https://www.bloomberg.com/news/articles/2024-05-22/justice-department-to-seek-breakup-of-live-nation-ticketmaster"
     ]
   ],
   [
@@ -87,16 +77,6 @@
     [
       "Cortile – Linux auto tiling manager with hot corner support",
       "https://github.com/leukipp/cortile"
-    ]
-  ],
-  [
-    [
-      "2024-05-22, 18:31:18",
-      "https://news.ycombinator.com/item?id=40444392"
-    ],
-    [
-      "Safe Terminal Escape Codes",
-      "https://www.arp242.net/safeterm.html"
     ]
   ],
   [
@@ -181,6 +161,16 @@
   ],
   [
     [
+      "2024-05-22, 14:31:58",
+      "https://news.ycombinator.com/item?id=40441487"
+    ],
+    [
+      "The push to ban ransom payments is gaining momentum",
+      "https://socket.dev/blog/the-push-to-ban-ransom-payments-is-gaining-momentum"
+    ]
+  ],
+  [
+    [
       "2024-05-22, 13:58:25",
       "https://news.ycombinator.com/item?id=40441093"
     ],
@@ -217,6 +207,16 @@
     [
       "Why not just do simple C++ RAII in C?",
       "https://thephd.dev/just-put-raii-in-c-bro-please-bro-just-one-more-destructor-bro-cmon-im-good-for-it"
+    ]
+  ],
+  [
+    [
+      "2024-05-22, 12:21:23",
+      "https://news.ycombinator.com/item?id=40440086"
+    ],
+    [
+      "What's the difference between a motor and an engine?",
+      "https://engineering.mit.edu/engage/ask-an-engineer/whats-the-difference-between-a-motor-and-an-engine/"
     ]
   ],
   [
