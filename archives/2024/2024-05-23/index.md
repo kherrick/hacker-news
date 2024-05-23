@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-05-23](index.md)
 
+* [2024-05-23, 17:00:38](https://news.ycombinator.com/item?id=40457126) - [Memfault (YC W19) Is Hiring a Firmware Engineer in NYC/Boston (Lever.co)](https://jobs.lever.co/memfault/9fa58d3b-2415-4d80-9e5c-be989f90c2e4)
+* [2024-05-23, 16:47:00](https://news.ycombinator.com/item?id=40456959) - [Show HN: Porter Cloud – PaaS with an eject button](https://news.ycombinator.com/item?id=40456959)
 * [2024-05-23, 16:38:25](https://news.ycombinator.com/item?id=40456834) - [Daylight: A 60fps e-ink tablet](https://daylightcomputer.com/)
 * [2024-05-23, 16:22:30](https://news.ycombinator.com/item?id=40456644) - [Spotify Car Thing will be discontinued](https://support.spotify.com/us/article/car-thing-discontinued/)
 * [2024-05-23, 15:41:29](https://news.ycombinator.com/item?id=40456107) - [We're Ending Our Samsung Collaboration](https://www.ifixit.com/News/96162/were-ending-our-samsung-collaboration)
 * [2024-05-23, 15:38:25](https://news.ycombinator.com/item?id=40456064) - [Launch HN: Metriport (YC S22) – Open-source API for healthcare data exchange](https://news.ycombinator.com/item?id=40456064)
+* [2024-05-23, 15:32:46](https://news.ycombinator.com/item?id=40455975) - [Mastering Front-End Development Roadmap](https://happydev.blog/mastering-front-end-development-a-comprehensive-guide)
 * [2024-05-23, 15:31:09](https://news.ycombinator.com/item?id=40455944) - [Matcha.css – Drop-in semantic styling library in pure CSS](https://matcha.mizu.sh/)
 * [2024-05-23, 15:29:23](https://news.ycombinator.com/item?id=40455918) - [Vercel Ship 2024 Keynote (live) [video]](https://www.youtube.com/watch?v=roRx0b_VXsU)
 * [2024-05-23, 15:24:59](https://news.ycombinator.com/item?id=40455871) - [Artificial Intelligence Act (EU Law)](https://en.wikipedia.org/wiki/Artificial_Intelligence_Act)

@@ -84,6 +84,7 @@
 * [2024-05-22, 09:44:47](https://news.ycombinator.com/item?id=40439126) - [Norway, along with Ireland and Spain, to recognise Palestinian state](https://www.reuters.com/world/norway-recognise-palestinian-state-nrk-aftenposten-report-2024-05-22/)
 * [2024-05-22, 09:12:13](https://news.ycombinator.com/item?id=40438960) - [How and why to make a /now page on your site](https://sive.rs/now2)
 * [2024-05-22, 08:27:44](https://news.ycombinator.com/item?id=40438664) - [Cover Agent: open source regression test generation tool](https://github.com/Codium-ai/cover-agent)
+* [2024-05-22, 08:09:46](https://news.ycombinator.com/item?id=40438523) - [API Transformation Mad Libs](https://netapinotes.com/api-transformation-mad-libs/)
 * [2024-05-22, 08:08:26](https://news.ycombinator.com/item?id=40438510) - [Number 16 (Spider)](https://en.wikipedia.org/wiki/Number_16_(spider))
 * [2024-05-22, 07:56:43](https://news.ycombinator.com/item?id=40438434) - [Psion 5mx Emulator](https://wuffs.org/WindEmu/index.html)
 * [2024-05-22, 07:29:59](https://news.ycombinator.com/item?id=40438261) - [Electric cars more likely to hit pedestrians than petrol vehicles, study finds](https://www.theguardian.com/world/article/2024/may/21/electric-cars-more-likely-to-hit-pedestrians-than-petrol-vehicles-study-finds)
