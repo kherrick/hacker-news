@@ -159,11 +159,11 @@
             <h4>
               <span>2024-05-23 @ 19:38:10</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40458964"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -179,7 +179,7 @@
             <h4>
               <span>2024-05-23 @ 19:33:30</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40458923"
                   >Comments</a
@@ -295,7 +295,7 @@
             <h4>
               <span>2024-05-23 @ 19:25:02</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">21</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40458846"
                   >Comments</a
@@ -321,7 +321,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40458686"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
@@ -338,11 +338,11 @@
             <h4>
               <span>2024-05-23 @ 19:07:53</span
               ><span class="points-container"
-                >Points: <span class="points">67</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40458655"
                   >Comments</a
-                ><span class="descendants">: 70</span></span
+                ><span class="descendants">: 71</span></span
               >
             </h4>
           </section>
@@ -359,32 +359,11 @@
             <h4>
               <span>2024-05-23 @ 19:05:53</span
               ><span class="points-container"
-                >Points: <span class="points">102</span></span
+                >Points: <span class="points">105</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40458617"
                   >Comments</a
-                ><span class="descendants">: 70</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="40458114">
-          <h3>
-            <a
-              class="item"
-              href="https://www.science.org/doi/10.1126/science.adl0984"
-              >Crows "count" the number of self-generated vocalizations</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-05-23 @ 18:28:07</span
-              ><span class="points-container"
-                >Points: <span class="points">51</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40458114"
-                  >Comments</a
-                ><span class="descendants">: 43</span></span
+                ><span class="descendants">: 73</span></span
               >
             </h4>
           </section>
@@ -402,13 +381,136 @@
             <h4>
               <span>2024-05-23 @ 18:03:31</span
               ><span class="points-container"
-                >Points: <span class="points">120</span></span
+                >Points: <span class="points">121</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40457856"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 42</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="40457631">
+          <h3>
+            <a
+              class="item"
+              href="https://pyoneer.ai?source=hn&amp;utm_campaign=shn1"
+              >Show HN: Excel to Python Compiler</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-05-23 @ 17:40:20</span
+              ><span class="points-container"
+                >Points: <span class="points">50</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40457631"
+                  >Comments</a
+                ><span class="descendants">: 28</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://pyoneer.ai">https://pyoneer.ai</a>.
+              <p><i>How it works:</i></p>
+              <p>1. You upload an Excel file</p>
+              <p>
+                2. We statically parse the Excel file and build a dependency
+                graph of all the cells, tables, formulas, and pivots.
+              </p>
+              <p>
+                3. We do a graph traversal, and translate nodes as we hit them.
+                We use OpenAI APIs to translate formulas. There’s a bunch of
+                extra work here — because even with the best prompt engineering
+                a fella like me can do, OpenAI sucks at translating formulas
+                (primarily because it doesn’t know what datatypes its dealing
+                with). We augment this translation with a mapping from ranges to
+                variable names and types, which in our experience can improve
+                the percentage of correctly translatable formulas by about 5x.
+              </p>
+              <p>
+                4. We generate test cases for our translations as well, to make
+                sure the Python process matches your Excel process.
+              </p>
+              <p>
+                5. We give you back a Jupyter notebook that contains the code we
+                generated.
+              </p>
+              <p>
+                If there are pieces of the Excel we can’t translate successfully
+                (complex formulas, or pivot tables currently), then we leave
+                them as a TODO in the code. This makes it easy for you to hop in
+                and continue finishing the script.
+              </p>
+              <p><i>Who is this for:</i></p>
+              <p>
+                Developers who know Python, primarily! Pyoneer might be useful
+                if:
+              </p>
+              <p>
+                1. You’ve got an Excel file you’re looking to move to Python
+                (usually for speed, size, or maintenance reasons).
+              </p>
+              <p>
+                2. There’s enough logic contained in the notebook that it’s
+                going to be a hassle for you to just rewrite it from scratch.
+              </p>
+              <p>
+                3. Or you don’t know the logic that is in the Excel workbook
+                well since you didn’t write it in the first place :)
+              </p>
+              <p>
+                Post translation, even if Pyoneer doesn't nail it perfectly or
+                translate all the formulas, you'll be able to pop into the
+                notebook and continue cleaning up the TODOs / finish writing the
+                formulas.
+              </p>
+              <p><i>What the Alpha launch supports:</i></p>
+              <p>Launched early! Currently we’re focused on supporting:</p>
+              <p>
+                1. Any number of sheets, with any reference structure between
+                them.
+              </p>
+              <p>
+                2. Cells that translate as variables directly. We’ll translate
+                the formulas to Python code that has the same result, or else
+                we’ll generate a TODO letting you know we failed translating
+                this cell.
+              </p>
+              <p>
+                3. Tables that translate as Pandas dataframes. We support at
+                most one table per sheet, at the tables must be contigious. If
+                the formulas in a column are consistent, then we will try and
+                translate this as a single pandas statement.
+              </p>
+              <p>
+                We do not support: pivot tables or complex formulas. When we
+                fail to translate these, we generate TODO statements. We also
+                don’t support graphs or macros - and you won’t see these
+                reflected in the output at all currently.
+              </p>
+              <p><i>Why we built this:</i></p>
+              <p>
+                We did YCS20 and built an open source tool called Mito(<a
+                  href="https://trymito.io"
+                  >https://trymito.io</a
+                >). It’s been a good journey since then - we’ve scaled revenue
+                and to over 2k Github stars (<a
+                  href="https://github.com/mito-ds/mito"
+                  >https://github.com/mito-ds/mito</a
+                >). But fundamentally, Mito is a tool that’s useful for Excel
+                users who wanted to start writing Python code more effectively.
+              </p>
+              <p>
+                We wanted to take another stab at the Excel -&gt; Python pain
+                point that was more developer focused - that helped developers
+                that have to translate Excel files into Python do this much more
+                quickly. Hence, Pyoneer!
+              </p>
+              <p>
+                I’ll be in the comments today if you’ve got feedback, criticism,
+                questions, or comments.
+              </p>
+            </div>
           </section>
         </section>
         <section id="40457229">
@@ -427,7 +529,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40457229"
                   >Comments</a
-                ><span class="descendants">: 57</span></span
+                ><span class="descendants">: 59</span></span
               >
             </h4>
           </section>
@@ -446,7 +548,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40456959"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 39</span></span
               >
             </h4>
             <div class="text">
@@ -538,11 +640,11 @@
             <h4>
               <span>2024-05-23 @ 16:38:25</span
               ><span class="points-container"
-                >Points: <span class="points">333</span></span
+                >Points: <span class="points">352</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40456834"
                   >Comments</a
-                ><span class="descendants">: 197</span></span
+                ><span class="descendants">: 210</span></span
               >
             </h4>
           </section>
@@ -580,7 +682,7 @@
             <h4>
               <span>2024-05-23 @ 15:41:29</span
               ><span class="points-container"
-                >Points: <span class="points">229</span></span
+                >Points: <span class="points">231</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40456107"
                   >Comments</a
@@ -834,7 +936,7 @@
             <h4>
               <span>2024-05-23 @ 15:31:09</span
               ><span class="points-container"
-                >Points: <span class="points">68</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40455944"
                   >Comments</a
@@ -855,11 +957,11 @@
             <h4>
               <span>2024-05-23 @ 15:16:20</span
               ><span class="points-container"
-                >Points: <span class="points">356</span></span
+                >Points: <span class="points">363</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40455758"
                   >Comments</a
-                ><span class="descendants">: 96</span></span
+                ><span class="descendants">: 99</span></span
               >
             </h4>
           </section>
@@ -912,7 +1014,7 @@
             <h4>
               <span>2024-05-23 @ 14:31:36</span
               ><span class="points-container"
-                >Points: <span class="points">155</span></span
+                >Points: <span class="points">157</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40455208"
                   >Comments</a
@@ -955,11 +1057,11 @@
             <h4>
               <span>2024-05-23 @ 12:58:09</span
               ><span class="points-container"
-                >Points: <span class="points">80</span></span
+                >Points: <span class="points">82</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40454136"
                   >Comments</a
-                ><span class="descendants">: 108</span></span
+                ><span class="descendants">: 117</span></span
               >
             </h4>
           </section>
@@ -1039,11 +1141,11 @@
             <h4>
               <span>2024-05-23 @ 09:52:18</span
               ><span class="points-container"
-                >Points: <span class="points">241</span></span
+                >Points: <span class="points">242</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40452655"
                   >Comments</a
-                ><span class="descendants">: 169</span></span
+                ><span class="descendants">: 173</span></span
               >
             </h4>
           </section>
@@ -1081,32 +1183,11 @@
             <h4>
               <span>2024-05-22 @ 11:44:48</span
               ><span class="points-container"
-                >Points: <span class="points">74</span></span
+                >Points: <span class="points">76</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40439810"
                   >Comments</a
-                ><span class="descendants">: 33</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="40427771">
-          <h3>
-            <a
-              class="item"
-              href="https://gist.github.com/tagomoris/4392f1091f658294bd4d473d8ff631cb"
-              >"Namespace on Read" for Ruby, FAQ</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-05-21 @ 12:49:38</span
-              ><span class="points-container"
-                >Points: <span class="points">21</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40427771"
-                  >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -1128,6 +1209,27 @@
                 ><a href="https://news.ycombinator.com/item?id=40426666"
                   >Comments</a
                 ><span class="descendants">: 26</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="40424430">
+          <h3>
+            <a
+              class="item"
+              href="https://www.smithsonianmag.com/arts-culture/how-soon-reopen-folger-shakespeare-library-came-be-180984291/"
+              >How the Soon-to-Reopen Folger Shakespeare Library Came to Be</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-05-21 @ 05:17:20</span
+              ><span class="points-container"
+                >Points: <span class="points">4</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40424430"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
