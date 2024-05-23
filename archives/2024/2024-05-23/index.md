@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-23](index.md)
 
 * [2024-05-23, 19:16:12](https://news.ycombinator.com/item?id=40458766) - [Wi-Fi devices set to become object sensors by 2024 via IEEE 802.11bf standard](https://www.theregister.com/2021/03/31/wifi_devices_monitoring/)
+* [2024-05-23, 19:05:53](https://news.ycombinator.com/item?id=40458617) - [Fossil fuels could have been left in the dust 25 years ago](https://timharford.com/2024/05/fossil-fuels-could-have-been-left-in-the-dust-25-years-ago/)
 * [2024-05-23, 18:29:24](https://news.ycombinator.com/item?id=40458135) - [iTerm2 removes AI feature from core, creates separate plugin](https://gitlab.com/gnachman/iterm2/-/issues/11470#note_1917647951)
 * [2024-05-23, 18:28:07](https://news.ycombinator.com/item?id=40458114) - [Crows \"count\" the number of self-generated vocalizations](https://www.science.org/doi/10.1126/science.adl0984)
 * [2024-05-23, 18:04:05](https://news.ycombinator.com/item?id=40457867) - [Spotify is going to break every Car Thing gadget it ever sold](https://www.theverge.com/2024/5/23/24163383/spotify-car-thing-discontinued-december-2024)
@@ -21,6 +22,7 @@
 * [2024-05-23, 16:22:30](https://news.ycombinator.com/item?id=40456644) - [Spotify Car Thing will be discontinued](https://support.spotify.com/us/article/car-thing-discontinued/)
 * [2024-05-23, 16:11:44](https://news.ycombinator.com/item?id=40456528) - [Show HN: Pong Wars with C#](https://github.com/unoplatform/Uno.Samples/tree/master/UI/PongWars)
 * [2024-05-23, 15:41:29](https://news.ycombinator.com/item?id=40456107) - [We're Ending Our Samsung Collaboration](https://www.ifixit.com/News/96162/were-ending-our-samsung-collaboration)
+* [2024-05-23, 15:40:09](https://news.ycombinator.com/item?id=40456092) - [Contrast, the all-in-one Confidential Containers framework, is now open source](https://github.com/edgelesssys/contrast)
 * [2024-05-23, 15:38:25](https://news.ycombinator.com/item?id=40456064) - [Launch HN: Metriport (YC S22) – Open-source API for healthcare data exchange](https://news.ycombinator.com/item?id=40456064)
 * [2024-05-23, 15:32:46](https://news.ycombinator.com/item?id=40455975) - [Mastering Front-End Development Roadmap](https://happydev.blog/mastering-front-end-development-a-comprehensive-guide)
 * [2024-05-23, 15:31:09](https://news.ycombinator.com/item?id=40455944) - [Matcha.css – Drop-in semantic styling library in pure CSS](https://matcha.mizu.sh/)
