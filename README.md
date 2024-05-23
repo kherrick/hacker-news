@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-23, 18:29:24](https://news.ycombinator.com/item?id=40458135) - [iTerm2 removes AI feature from core, creates separate plugin](https://gitlab.com/gnachman/iterm2/-/issues/11470#note_1917647951)
+* [2024-05-23, 18:28:07](https://news.ycombinator.com/item?id=40458114) - [Crows \"count\" the number of self-generated vocalizations](https://www.science.org/doi/10.1126/science.adl0984)
 * [2024-05-23, 18:04:05](https://news.ycombinator.com/item?id=40457867) - [Spotify is going to break every Car Thing gadget it ever sold](https://www.theverge.com/2024/5/23/24163383/spotify-car-thing-discontinued-december-2024)
 * [2024-05-23, 18:03:31](https://news.ycombinator.com/item?id=40457856) - [Cement recycling method could help solve one of the biggest climate challenges](https://www.cam.ac.uk/stories/cement-recycling)
 * [2024-05-23, 17:16:12](https://news.ycombinator.com/item?id=40457313) - [DNS glitch that threatened Internet stability fixed; cause remains unclear](https://arstechnica.com/security/2024/05/dns-glitch-that-threatened-internet-stability-fixed-cause-remains-unclear/)
@@ -27,7 +28,6 @@
 * [2024-05-22, 10:59:46](https://news.ycombinator.com/item?id=40439515) - [Windows 10 wallpaper was physically built and photographed (2015)](https://gmunk.com/Windows-10-Desktop/)
 * [2024-05-22, 08:09:46](https://news.ycombinator.com/item?id=40438523) - [API Transformation Mad Libs](https://netapinotes.com/api-transformation-mad-libs/)
 * [2024-05-22, 08:08:26](https://news.ycombinator.com/item?id=40438510) - [Number 16 (spider)](https://en.wikipedia.org/wiki/Number_16_(spider))
-* [2024-05-22, 05:31:19](https://news.ycombinator.com/item?id=40437638) - [Von Neumann's First Computer Program (1970)](https://dl.acm.org/doi/10.1145/356580.356581)
 * [2024-05-21, 10:48:59](https://news.ycombinator.com/item?id=40426666) - [vu128: Efficient variable-length integers](https://john-millikin.com/vu128-efficient-variable-length-integers)
 * [2024-05-21, 05:56:13](https://news.ycombinator.com/item?id=40424650) - [A Designer's Guide to Documenting Accessibility and User Interactions](https://stephaniewalter.design/blog/a-designers-guide-to-documenting-accessibility-user-interactions/)
 

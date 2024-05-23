@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-23](index.md)
 
 * [2024-05-23, 18:29:24](https://news.ycombinator.com/item?id=40458135) - [iTerm2 removes AI feature from core, creates separate plugin](https://gitlab.com/gnachman/iterm2/-/issues/11470#note_1917647951)
+* [2024-05-23, 18:28:07](https://news.ycombinator.com/item?id=40458114) - [Crows \"count\" the number of self-generated vocalizations](https://www.science.org/doi/10.1126/science.adl0984)
 * [2024-05-23, 18:04:05](https://news.ycombinator.com/item?id=40457867) - [Spotify is going to break every Car Thing gadget it ever sold](https://www.theverge.com/2024/5/23/24163383/spotify-car-thing-discontinued-december-2024)
 * [2024-05-23, 18:03:31](https://news.ycombinator.com/item?id=40457856) - [Cement recycling method could help solve one of the biggest climate challenges](https://www.cam.ac.uk/stories/cement-recycling)
 * [2024-05-23, 17:16:12](https://news.ycombinator.com/item?id=40457313) - [DNS glitch that threatened Internet stability fixed; cause remains unclear](https://arstechnica.com/security/2024/05/dns-glitch-that-threatened-internet-stability-fixed-cause-remains-unclear/)
