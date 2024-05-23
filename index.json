@@ -21,22 +21,32 @@
   ],
   [
     [
-      "2024-05-23, 12:21:26",
-      "https://news.ycombinator.com/item?id=40453822"
-    ],
-    [
-      "Maths proof of Langlands conjecture is so complex almost no one can explain it",
-      "https://www.newscientist.com/article/2431964-incredible-maths-proof-is-so-complex-that-almost-no-one-can-explain-it/"
-    ]
-  ],
-  [
-    [
       "2024-05-23, 12:00:17",
       "https://news.ycombinator.com/item?id=40453619"
     ],
     [
       "PermitFlow (YC W22) Is Hiring",
       "https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808"
+    ]
+  ],
+  [
+    [
+      "2024-05-23, 11:32:30",
+      "https://news.ycombinator.com/item?id=40453384"
+    ],
+    [
+      "Change the default temp file prefix to be \"SQLite\" spelled backwards",
+      "https://github.com/sqlite/sqlite/commit/fd288f3549a1ab9a309a9e120d46319d42adea29"
+    ]
+  ],
+  [
+    [
+      "2024-05-23, 11:13:28",
+      "https://news.ycombinator.com/item?id=40453221"
+    ],
+    [
+      "BB(3, 4) > Ack(14)",
+      "https://www.sligocki.com//2024/05/22/bb-3-4-a14.html"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "Leaked OpenAI documents reveal aggressive tactics toward former employees",
       "https://www.vox.com/future-perfect/351132/openai-vested-equity-nda-sam-altman-documents-employees"
-    ]
-  ],
-  [
-    [
-      "2024-05-22, 20:56:20",
-      "https://news.ycombinator.com/item?id=40446433"
-    ],
-    [
-      "Cortile – Linux auto tiling manager with hot corner support",
-      "https://github.com/leukipp/cortile"
     ]
   ],
   [
