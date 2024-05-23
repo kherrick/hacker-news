@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-23, 13:14:59](https://news.ycombinator.com/item?id=40454301) - [Red Lobster was killed by private equity, not Endless Shrimp](https://pluralistic.net/2024/05/23/spineless/#invertebrates)
-* [2024-05-23, 12:48:55](https://news.ycombinator.com/item?id=40454047) - [China's first large-scale sodium battery energy storage station now operational](https://cnevpost.com/2024/05/13/china-1st-large-sodium-battery-energy-storage-station-operation/)
+* [2024-05-23, 12:21:26](https://news.ycombinator.com/item?id=40453822) - [Maths proof of Langlands conjecture is so complex almost no one can explain it](https://www.newscientist.com/article/2431964-incredible-maths-proof-is-so-complex-that-almost-no-one-can-explain-it/)
 * [2024-05-23, 12:00:17](https://news.ycombinator.com/item?id=40453619) - [PermitFlow (YC W22) Is Hiring](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 * [2024-05-23, 10:43:55](https://news.ycombinator.com/item?id=40453025) - [My boss says we don't need any engineering managers. Is he right](https://charity.wtf/2024/01/05/questionable-advice-my-boss-says-we-dont-need-any-engineering-managers-is-he-right/)
 * [2024-05-23, 10:03:27](https://news.ycombinator.com/item?id=40452731) - [How Failure Has Made Mathematics Stronger](https://www.quantamagazine.org/how-failure-has-made-mathematics-stronger-20240522/)
+* [2024-05-23, 07:17:22](https://news.ycombinator.com/item?id=40451525) - [M2dir: Treating mails as files without going crazy](https://bitfehler.srht.site/posts/2024-04-15_m2dir-treating-mails-as-files-without-going-crazy.html)
 * [2024-05-23, 03:23:54](https://news.ycombinator.com/item?id=40450128) - [Magic UI: UI Library for Design Engineers](https://magicui.design/)
 * [2024-05-23, 02:34:14](https://news.ycombinator.com/item?id=40449767) - [WinDirStat – Windows Directory Statistics](https://windirstat.net/)
 * [2024-05-23, 01:25:35](https://news.ycombinator.com/item?id=40449278) - [Drone Flying 101 – An Interactive Tutorial for Beginners](https://fpvsim.com/drone-flying-101)
@@ -12,6 +12,7 @@
 * [2024-05-22, 23:13:50](https://news.ycombinator.com/item?id=40447998) - [Emacs Easydraw – drawing tool inside Emacs](https://github.com/misohena/el-easydraw)
 * [2024-05-22, 22:22:30](https://news.ycombinator.com/item?id=40447431) - [Leaked OpenAI documents reveal aggressive tactics toward former employees](https://www.vox.com/future-perfect/351132/openai-vested-equity-nda-sam-altman-documents-employees)
 * [2024-05-22, 20:56:20](https://news.ycombinator.com/item?id=40446433) - [Cortile – Linux auto tiling manager with hot corner support](https://github.com/leukipp/cortile)
+* [2024-05-22, 18:23:17](https://news.ycombinator.com/item?id=40444267) - [S3 is showing its age](https://materializedview.io/p/s3-is-showing-its-age)
 * [2024-05-22, 18:11:34](https://news.ycombinator.com/item?id=40444121) - [Try Clojure](https://tryclojure.org/)
 * [2024-05-22, 17:53:45](https://news.ycombinator.com/item?id=40443927) - [Show HN: Neosync – Open-Source Data Anonymization for Postgres and MySQL](https://github.com/nucleuscloud/neosync)
 * [2024-05-22, 16:05:06](https://news.ycombinator.com/item?id=40442595) - [Pluckable Strings](https://string.spiel.com/)
@@ -27,7 +28,6 @@
 * [2024-05-22, 05:31:30](https://news.ycombinator.com/item?id=40437641) - [Faking William Morris, Generative Forgery, and the Erosion of Art History](https://maggieappleton.com/generative-forgery)
 * [2024-05-22, 05:31:19](https://news.ycombinator.com/item?id=40437638) - [Von Neumann's First Computer Program (1970)](https://dl.acm.org/doi/10.1145/356580.356581)
 * [2024-05-21, 22:19:07](https://news.ycombinator.com/item?id=40434743) - [The complex William Jennings Bryan (2007)](https://ideonexus.com/2007/12/02/the-complex-william-jennings-bryan/)
-* [2024-05-21, 12:48:36](https://news.ycombinator.com/item?id=40427757) - [Google's Moonshot Factory Falls Back Down to Earth](https://www.bloomberg.com/news/features/2024-05-20/google-s-era-of-unrestrained-invention-is-coming-to-an-end)
 * [2024-05-21, 10:18:00](https://news.ycombinator.com/item?id=40426453) - [Emacs used as a message router in Germany's ATC systems in the 1990s (2021)](https://www.emacswiki.org/emacs/EmacsStories)
 * [2024-05-21, 08:55:56](https://news.ycombinator.com/item?id=40425762) - [Why Are Sloths So Slow?](https://slothconservation.org/sloths-move-slow/)
 
