@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-23, 04:59:44](https://news.ycombinator.com/item?id=40450633) - [Ask HN: Those who use an Android and macOS, how do you manage sync?](https://news.ycombinator.com/item?id=40450633)
 * [2024-05-23, 03:56:13](https://news.ycombinator.com/item?id=40450306) - [One of the most unusual heists in America seems to be unfolding at Taco Bell](https://www.sfgate.com/food/article/taco-bell-ebay-mark-smith-paintings-19464177.php)
 * [2024-05-23, 03:23:54](https://news.ycombinator.com/item?id=40450128) - [Magic UI: UI Library for Design Engineers](https://magicui.design/)
+* [2024-05-23, 02:34:14](https://news.ycombinator.com/item?id=40449767) - [WinDirStat – Windows Directory Statistics](https://windirstat.net/)
 * [2024-05-23, 01:48:53](https://news.ycombinator.com/item?id=40449454) - [Lessons learned from studying 4k YC companies](https://amvizion.org/blog/lessons-learned-from-yc.html)
 * [2024-05-23, 01:25:35](https://news.ycombinator.com/item?id=40449278) - [Drone Flying 101 – An Interactive Tutorial for Beginners](https://fpvsim.com/drone-flying-101)
 * [2024-05-22, 23:13:50](https://news.ycombinator.com/item?id=40447998) - [Emacs Easydraw – drawing tool inside Emacs](https://github.com/misohena/el-easydraw)
