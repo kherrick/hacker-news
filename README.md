@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-23, 06:20:17](https://news.ycombinator.com/item?id=40451112) - [What Happened to DuckDuckGo?](https://duckduckgo.com/?q=search+not+working)
 * [2024-05-23, 03:56:13](https://news.ycombinator.com/item?id=40450306) - [One of the most unusual heists in America seems to be unfolding at Taco Bell](https://www.sfgate.com/food/article/taco-bell-ebay-mark-smith-paintings-19464177.php)
 * [2024-05-23, 03:23:54](https://news.ycombinator.com/item?id=40450128) - [Magic UI: UI Library for Design Engineers](https://magicui.design/)
 * [2024-05-23, 02:34:14](https://news.ycombinator.com/item?id=40449767) - [WinDirStat – Windows Directory Statistics](https://windirstat.net/)
@@ -13,7 +14,6 @@
 * [2024-05-22, 17:53:45](https://news.ycombinator.com/item?id=40443927) - [Show HN: Neosync – Open-Source Data Anonymization for Postgres and MySQL](https://github.com/nucleuscloud/neosync)
 * [2024-05-22, 17:53:16](https://news.ycombinator.com/item?id=40443920) - [Show HN: B-field, a novel probabilistic key-value data structure (`rust-bfield`)](https://github.com/onecodex/rust-bfield)
 * [2024-05-22, 17:01:40](https://news.ycombinator.com/item?id=40443302) - [Citi Missed a Fat Finger](https://www.bloomberg.com/opinion/articles/2024-05-22/citi-missed-a-fat-finger)
-* [2024-05-22, 17:00:03](https://news.ycombinator.com/item?id=40443276) - [Trieve (YC W24) Is Hiring a Sales Engineer](https://www.ycombinator.com/companies/trieve/jobs/LN9ucK7-sales-engineer-at-trieve-w24)
 * [2024-05-22, 16:05:06](https://news.ycombinator.com/item?id=40442595) - [Pluckable Strings](https://string.spiel.com/)
 * [2024-05-22, 15:07:20](https://news.ycombinator.com/item?id=40441945) - [Show HN: Route your prompts to the best LLM](https://unify.ai/chat?default=true)
 * [2024-05-22, 14:31:58](https://news.ycombinator.com/item?id=40441487) - [The push to ban ransom payments is gaining momentum](https://socket.dev/blog/the-push-to-ban-ransom-payments-is-gaining-momentum)
