@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-23](index.md)
 
+* [2024-05-23, 08:12:53](https://news.ycombinator.com/item?id=40451949) - [Microsoft Bing Search, Copilot face downtime](https://indianexpress.com/article/technology/tech-news-technology/microsoft-bing-search-copilot-face-downtime-users-flag-issues-9346860/)
 * [2024-05-23, 06:20:17](https://news.ycombinator.com/item?id=40451112) - [What Happened to DuckDuckGo?](https://duckduckgo.com/?q=search+not+working)
 * [2024-05-23, 05:22:04](https://news.ycombinator.com/item?id=40450748) - [Nvidia chief Huang given 60% pay increase amid AI hysteria](https://www.theregister.com/2024/05/16/nvidia_chief_huang_gets_60/)
 * [2024-05-23, 04:59:44](https://news.ycombinator.com/item?id=40450633) - [Ask HN: Those who use an Android and macOS, how do you manage sync?](https://news.ycombinator.com/item?id=40450633)

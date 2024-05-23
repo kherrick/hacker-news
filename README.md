@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-23, 08:12:53](https://news.ycombinator.com/item?id=40451949) - [Microsoft Bing Search, Copilot face downtime](https://indianexpress.com/article/technology/tech-news-technology/microsoft-bing-search-copilot-face-downtime-users-flag-issues-9346860/)
 * [2024-05-23, 03:56:13](https://news.ycombinator.com/item?id=40450306) - [One of the most unusual heists in America seems to be unfolding at Taco Bell](https://www.sfgate.com/food/article/taco-bell-ebay-mark-smith-paintings-19464177.php)
 * [2024-05-23, 03:23:54](https://news.ycombinator.com/item?id=40450128) - [Magic UI: UI Library for Design Engineers](https://magicui.design/)
 * [2024-05-23, 02:34:14](https://news.ycombinator.com/item?id=40449767) - [WinDirStat – Windows Directory Statistics](https://windirstat.net/)
@@ -12,7 +13,6 @@
 * [2024-05-22, 18:11:34](https://news.ycombinator.com/item?id=40444121) - [Try Clojure](https://tryclojure.org/)
 * [2024-05-22, 17:53:45](https://news.ycombinator.com/item?id=40443927) - [Show HN: Neosync – Open-Source Data Anonymization for Postgres and MySQL](https://github.com/nucleuscloud/neosync)
 * [2024-05-22, 17:53:16](https://news.ycombinator.com/item?id=40443920) - [Show HN: B-field, a novel probabilistic key-value data structure (`rust-bfield`)](https://github.com/onecodex/rust-bfield)
-* [2024-05-22, 17:01:40](https://news.ycombinator.com/item?id=40443302) - [Citi Missed a Fat Finger](https://www.bloomberg.com/opinion/articles/2024-05-22/citi-missed-a-fat-finger)
 * [2024-05-22, 16:05:06](https://news.ycombinator.com/item?id=40442595) - [Pluckable Strings](https://string.spiel.com/)
 * [2024-05-22, 15:07:20](https://news.ycombinator.com/item?id=40441945) - [Show HN: Route your prompts to the best LLM](https://unify.ai/chat?default=true)
 * [2024-05-22, 14:31:58](https://news.ycombinator.com/item?id=40441487) - [The push to ban ransom payments is gaining momentum](https://socket.dev/blog/the-push-to-ban-ransom-payments-is-gaining-momentum)
