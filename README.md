@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-23, 19:16:12](https://news.ycombinator.com/item?id=40458766) - [Wi-Fi devices set to become object sensors by 2024 via IEEE 802.11bf standard](https://www.theregister.com/2021/03/31/wifi_devices_monitoring/)
 * [2024-05-23, 18:28:07](https://news.ycombinator.com/item?id=40458114) - [Crows \"count\" the number of self-generated vocalizations](https://www.science.org/doi/10.1126/science.adl0984)
-* [2024-05-23, 18:04:05](https://news.ycombinator.com/item?id=40457867) - [Spotify is going to break every Car Thing gadget it ever sold](https://www.theverge.com/2024/5/23/24163383/spotify-car-thing-discontinued-december-2024)
 * [2024-05-23, 18:03:31](https://news.ycombinator.com/item?id=40457856) - [Cement recycling method could help solve one of the biggest climate challenges](https://www.cam.ac.uk/stories/cement-recycling)
 * [2024-05-23, 17:56:55](https://news.ycombinator.com/item?id=40457794) - [Almost 6k dead in 6 years: How Baltimore became the U.S. overdose capital](https://www.thebaltimorebanner.com/community/public-health/baltimore-opioid-overdose-capital-ZWBYWMCJ45CGNPCGAMFOE6YDGI/)
 * [2024-05-23, 17:40:20](https://news.ycombinator.com/item?id=40457631) - [Show HN: Excel to Python Compiler](https://pyoneer.ai?source=hn&utm_campaign=shn1)
@@ -26,9 +26,9 @@
 * [2024-05-23, 02:34:14](https://news.ycombinator.com/item?id=40449767) - [WinDirStat – Windows Directory Statistics](https://windirstat.net/)
 * [2024-05-23, 01:25:35](https://news.ycombinator.com/item?id=40449278) - [Drone Flying 101 – An Interactive Tutorial for Beginners](https://fpvsim.com/drone-flying-101)
 * [2024-05-22, 10:59:46](https://news.ycombinator.com/item?id=40439515) - [Windows 10 wallpaper was physically built and photographed (2015)](https://gmunk.com/Windows-10-Desktop/)
-* [2024-05-22, 08:09:46](https://news.ycombinator.com/item?id=40438523) - [API Transformation Mad Libs](https://netapinotes.com/api-transformation-mad-libs/)
 * [2024-05-22, 05:31:19](https://news.ycombinator.com/item?id=40437638) - [Von Neumann's First Computer Program (1970)](https://dl.acm.org/doi/10.1145/356580.356581)
 * [2024-05-21, 10:48:59](https://news.ycombinator.com/item?id=40426666) - [vu128: Efficient variable-length integers](https://john-millikin.com/vu128-efficient-variable-length-integers)
+* [2024-05-21, 10:36:11](https://news.ycombinator.com/item?id=40426573) - [Festival of Britain (1951)](https://en.wikipedia.org/wiki/Festival_of_Britain)
 * [2024-05-21, 05:56:13](https://news.ycombinator.com/item?id=40424650) - [A Designer's Guide to Documenting Accessibility and User Interactions](https://stephaniewalter.design/blog/a-designers-guide-to-documenting-accessibility-user-interactions/)
 
 ## [Archives](archives/index.md)
