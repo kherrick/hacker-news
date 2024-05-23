@@ -24,6 +24,7 @@
 * [2024-05-23, 10:34:44](https://news.ycombinator.com/item?id=40452960) - [A Theoretical Case Against Education](https://www.astralcodexten.com/p/a-theoretical-case-against-education)
 * [2024-05-23, 10:11:57](https://news.ycombinator.com/item?id=40452795) - [Tell HN: DuckDuckGo Search Not Returning Results](https://news.ycombinator.com/item?id=40452795)
 * [2024-05-23, 10:03:27](https://news.ycombinator.com/item?id=40452731) - [How Failure Has Made Mathematics Stronger](https://www.quantamagazine.org/how-failure-has-made-mathematics-stronger-20240522/)
+* [2024-05-23, 09:52:18](https://news.ycombinator.com/item?id=40452655) - [Tom Waits vs. Frito-Lay, Inc](http://tomwaitslibrary.info/biography/copyright/frito-lay/)
 * [2024-05-23, 08:55:05](https://news.ycombinator.com/item?id=40452260) - [It looks a lot like VMware just lost a 24,000-VM customer](https://www.theregister.com/2024/05/22/computershare_vm_migration_project/)
 * [2024-05-23, 08:12:53](https://news.ycombinator.com/item?id=40451949) - [Microsoft Bing Search, Copilot face downtime](https://indianexpress.com/article/technology/tech-news-technology/microsoft-bing-search-copilot-face-downtime-users-flag-issues-9346860/)
 * [2024-05-23, 07:34:06](https://news.ycombinator.com/item?id=40451645) - [Mapping the Mind of a Large Language Model](https://www.anthropic.com/news/mapping-mind-language-model)
