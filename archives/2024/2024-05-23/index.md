@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-23](index.md)
 
+* [2024-05-23, 21:00:38](https://news.ycombinator.com/item?id=40459848) - [Checkr (YC S14) is hiring a staff software engineer for its new bet, Checkr Pay](https://www.ycombinator.com/companies/checkr/jobs/ixzdle1-staff-software-engineer-checkr-pay)
 * [2024-05-23, 20:30:22](https://news.ycombinator.com/item?id=40459543) - [Golden Gate Claude](https://www.anthropic.com/news/golden-gate-claude)
+* [2024-05-23, 19:38:10](https://news.ycombinator.com/item?id=40458964) - [FTX bankruptcy examiner's report [pdf]](https://restructuring.ra.kroll.com/FTX/Home-DownloadPDF?id1=MzExMDk4OQ==&id2=-1)
 * [2024-05-23, 19:33:30](https://news.ycombinator.com/item?id=40458923) - [Show HN: Open-Source Real Time Data Framework for LLM Applications](https://getindexify.ai)
 * [2024-05-23, 19:25:02](https://news.ycombinator.com/item?id=40458846) - [A connection between the northern lights and Hubble's death](https://bigthink.com/starts-with-a-bang/northern-lights-hubble/)
 * [2024-05-23, 19:16:12](https://news.ycombinator.com/item?id=40458766) - [Wi-Fi devices set to become object sensors by 2024 via IEEE 802.11bf standard](https://www.theregister.com/2021/03/31/wifi_devices_monitoring/)

@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-23, 20:30:22](https://news.ycombinator.com/item?id=40459543) - [Golden Gate Claude](https://www.anthropic.com/news/golden-gate-claude)
+* [2024-05-23, 21:00:38](https://news.ycombinator.com/item?id=40459848) - [Checkr (YC S14) is hiring a staff software engineer for its new bet, Checkr Pay](https://www.ycombinator.com/companies/checkr/jobs/ixzdle1-staff-software-engineer-checkr-pay)
+* [2024-05-23, 19:38:10](https://news.ycombinator.com/item?id=40458964) - [FTX bankruptcy examiner's report [pdf]](https://restructuring.ra.kroll.com/FTX/Home-DownloadPDF?id1=MzExMDk4OQ==&id2=-1)
 * [2024-05-23, 19:33:30](https://news.ycombinator.com/item?id=40458923) - [Show HN: Open-Source Real Time Data Framework for LLM Applications](https://getindexify.ai)
 * [2024-05-23, 19:25:02](https://news.ycombinator.com/item?id=40458846) - [A connection between the northern lights and Hubble's death](https://bigthink.com/starts-with-a-bang/northern-lights-hubble/)
 * [2024-05-23, 19:09:42](https://news.ycombinator.com/item?id=40458686) - [US Army researched the health effects of radioactivity in St Louis 1945-1970 (2011)](https://mospace.umsystem.edu/xmlui/handle/10355/13170)
@@ -10,7 +11,6 @@
 * [2024-05-23, 18:03:31](https://news.ycombinator.com/item?id=40457856) - [Cement recycling method could help solve one of the big climate challenges](https://www.cam.ac.uk/stories/cement-recycling)
 * [2024-05-23, 17:40:20](https://news.ycombinator.com/item?id=40457631) - [Show HN: Excel to Python Compiler](https://pyoneer.ai?source=hn&utm_campaign=shn1)
 * [2024-05-23, 17:09:38](https://news.ycombinator.com/item?id=40457229) - [Running PHP fast at the edge with WebAssembly](https://wasmer.io/posts/running-php-blazingly-fast-at-the-edge-with-wasm)
-* [2024-05-23, 17:00:38](https://news.ycombinator.com/item?id=40457126) - [Memfault (YC W19) Is Hiring a Firmware Engineer in NYC/Boston](https://jobs.lever.co/memfault/9fa58d3b-2415-4d80-9e5c-be989f90c2e4)
 * [2024-05-23, 16:47:00](https://news.ycombinator.com/item?id=40456959) - [Show HN: Porter Cloud – PaaS with an eject button](https://news.ycombinator.com/item?id=40456959)
 * [2024-05-23, 16:38:25](https://news.ycombinator.com/item?id=40456834) - [Daylight Computer – New 60fps e-paper tablet](https://daylightcomputer.com/product)
 * [2024-05-23, 15:41:29](https://news.ycombinator.com/item?id=40456107) - [We're ending our Samsung collaboration](https://www.ifixit.com/News/96162/were-ending-our-samsung-collaboration)
