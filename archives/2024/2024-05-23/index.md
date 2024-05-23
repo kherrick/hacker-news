@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-05-23](index.md)
 
+* [2024-05-23, 16:38:25](https://news.ycombinator.com/item?id=40456834) - [Daylight: A 60fps e-ink tablet](https://daylightcomputer.com/)
+* [2024-05-23, 16:22:30](https://news.ycombinator.com/item?id=40456644) - [Spotify Car Thing will be discontinued](https://support.spotify.com/us/article/car-thing-discontinued/)
+* [2024-05-23, 15:41:29](https://news.ycombinator.com/item?id=40456107) - [We're Ending Our Samsung Collaboration](https://www.ifixit.com/News/96162/were-ending-our-samsung-collaboration)
 * [2024-05-23, 15:38:25](https://news.ycombinator.com/item?id=40456064) - [Launch HN: Metriport (YC S22) – Open-source API for healthcare data exchange](https://news.ycombinator.com/item?id=40456064)
+* [2024-05-23, 15:31:09](https://news.ycombinator.com/item?id=40455944) - [Matcha.css – Drop-in semantic styling library in pure CSS](https://matcha.mizu.sh/)
 * [2024-05-23, 15:29:23](https://news.ycombinator.com/item?id=40455918) - [Vercel Ship 2024 Keynote (live) [video]](https://www.youtube.com/watch?v=roRx0b_VXsU)
+* [2024-05-23, 15:24:59](https://news.ycombinator.com/item?id=40455871) - [Artificial Intelligence Act (EU Law)](https://en.wikipedia.org/wiki/Artificial_Intelligence_Act)
 * [2024-05-23, 15:16:20](https://news.ycombinator.com/item?id=40455758) - [The Space Quest II Master Disk Blunder](https://lanceewing.github.io/blog/sierra/agi/sq2/2024/05/22/do-you-own-this-space-quest-2-disk.html)
 * [2024-05-23, 14:54:08](https://news.ycombinator.com/item?id=40455494) - [Make your own backdoor: CFLAGS code injection, Makefile injection, pkg-config](https://www.openwall.com/lists/oss-security/2024/04/17/3)
 * [2024-05-23, 14:53:18](https://news.ycombinator.com/item?id=40455478) - [Show HN: HackerNews but for state of the art research papers](https://www.papertalk.xyz/research/home)
