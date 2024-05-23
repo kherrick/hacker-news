@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-23, 08:55:05",
+      "https://news.ycombinator.com/item?id=40452260"
+    ],
+    [
+      "It looks a lot like VMware just lost a 24,000-VM customer",
+      "https://www.theregister.com/2024/05/22/computershare_vm_migration_project/"
+    ]
+  ],
+  [
+    [
       "2024-05-23, 08:12:53",
       "https://news.ycombinator.com/item?id=40451949"
     ],
@@ -81,16 +91,6 @@
   ],
   [
     [
-      "2024-05-22, 18:23:17",
-      "https://news.ycombinator.com/item?id=40444267"
-    ],
-    [
-      "S3 is showing its age",
-      "https://materializedview.io/p/s3-is-showing-its-age"
-    ]
-  ],
-  [
-    [
       "2024-05-22, 18:11:34",
       "https://news.ycombinator.com/item?id=40444121"
     ],
@@ -107,16 +107,6 @@
     [
       "Show HN: Neosync – Open-Source Data Anonymization for Postgres and MySQL",
       "https://github.com/nucleuscloud/neosync"
-    ]
-  ],
-  [
-    [
-      "2024-05-22, 17:53:16",
-      "https://news.ycombinator.com/item?id=40443920"
-    ],
-    [
-      "Show HN: B-field, a novel probabilistic key-value data structure (`rust-bfield`)",
-      "https://github.com/onecodex/rust-bfield"
     ]
   ],
   [
@@ -197,6 +187,16 @@
     [
       "Microsoft Paint's new AI image generator builds on your brushstrokes",
       "https://petapixel.com/2024/05/21/microsoft-paints-new-ai-image-generator-builds-on-your-brushstrokes/"
+    ]
+  ],
+  [
+    [
+      "2024-05-22, 11:21:16",
+      "https://news.ycombinator.com/item?id=40439641"
+    ],
+    [
+      "A Faster SuperSplat with PWA Support",
+      "https://blog.playcanvas.com/a-faster-supersplat-with-pwa-support/"
     ]
   ],
   [
