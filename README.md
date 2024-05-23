@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-23, 20:30:22](https://news.ycombinator.com/item?id=40459543) - [Golden Gate Claude](https://www.anthropic.com/news/golden-gate-claude)
 * [2024-05-23, 19:25:02](https://news.ycombinator.com/item?id=40458846) - [A connection between the northern lights and Hubble's death](https://bigthink.com/starts-with-a-bang/northern-lights-hubble/)
-* [2024-05-23, 19:09:42](https://news.ycombinator.com/item?id=40458686) - [US Army researched the health effects of radioactivity in St Louis 1945-1970](https://mospace.umsystem.edu/xmlui/handle/10355/13170)
+* [2024-05-23, 19:09:42](https://news.ycombinator.com/item?id=40458686) - [US Army researched the health effects of radioactivity in St Louis 1945-1970 (2011)](https://mospace.umsystem.edu/xmlui/handle/10355/13170)
 * [2024-05-23, 19:07:53](https://news.ycombinator.com/item?id=40458655) - [Act on Press](https://twitter.com/ID_AA_Carmack/status/1787850053912064005)
 * [2024-05-23, 19:05:53](https://news.ycombinator.com/item?id=40458617) - [Fossil fuels could have been left in the dust 25 years ago](https://timharford.com/2024/05/fossil-fuels-could-have-been-left-in-the-dust-25-years-ago/)
 * [2024-05-23, 18:28:07](https://news.ycombinator.com/item?id=40458114) - [Crows \"count\" the number of self-generated vocalizations](https://www.science.org/doi/10.1126/science.adl0984)
@@ -11,7 +12,6 @@
 * [2024-05-23, 17:00:38](https://news.ycombinator.com/item?id=40457126) - [Memfault (YC W19) Is Hiring a Firmware Engineer in NYC/Boston](https://jobs.lever.co/memfault/9fa58d3b-2415-4d80-9e5c-be989f90c2e4)
 * [2024-05-23, 16:47:00](https://news.ycombinator.com/item?id=40456959) - [Show HN: Porter Cloud – PaaS with an eject button](https://news.ycombinator.com/item?id=40456959)
 * [2024-05-23, 16:38:25](https://news.ycombinator.com/item?id=40456834) - [Daylight Computer – New 60fps e-paper tablet](https://daylightcomputer.com/product)
-* [2024-05-23, 16:35:09](https://news.ycombinator.com/item?id=40456801) - [The S-matrix is the oracle physicists turn to in times of crisis](https://www.quantamagazine.org/the-s-matrix-is-the-oracle-physicists-turn-to-in-times-of-crisis-20240523/)
 * [2024-05-23, 15:41:56](https://news.ycombinator.com/item?id=40456114) - [SOAR-ing Away with Smalltalk: Berkeley RISC-III](https://thechipletter.substack.com/p/soar-ing-away-with-smalltalk-berkeley)
 * [2024-05-23, 15:41:29](https://news.ycombinator.com/item?id=40456107) - [We're ending our Samsung collaboration](https://www.ifixit.com/News/96162/were-ending-our-samsung-collaboration)
 * [2024-05-23, 15:38:25](https://news.ycombinator.com/item?id=40456064) - [Launch HN: Metriport (YC S22) – Open-source API for healthcare data exchange](https://news.ycombinator.com/item?id=40456064)
