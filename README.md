@@ -22,12 +22,12 @@
 * [2024-05-23, 14:31:36](https://news.ycombinator.com/item?id=40455208) - [Making EC2 boot time faster](https://depot.dev/blog/faster-ec2-boot-time)
 * [2024-05-23, 13:22:47](https://news.ycombinator.com/item?id=40454383) - [First pictures from Euclid satellite reveal billions of orphan stars](https://www.nottingham.ac.uk/news/first-pictures-from-euclid-satellite-reveal-billions-of-orphan-stars)
 * [2024-05-23, 12:58:09](https://news.ycombinator.com/item?id=40454136) - [300k airplanes in five years](https://www.construction-physics.com/p/how-to-build-300000-airplanes-in)
+* [2024-05-23, 11:43:06](https://news.ycombinator.com/item?id=40453467) - [The Strangeness of Grief (2019)](https://www.newyorker.com/magazine/2020/01/06/the-strangeness-of-grief)
 * [2024-05-23, 11:13:28](https://news.ycombinator.com/item?id=40453221) - [BB(3, 4) > Ack(14)](https://www.sligocki.com//2024/05/22/bb-3-4-a14.html)
 * [2024-05-23, 10:03:27](https://news.ycombinator.com/item?id=40452731) - [Disappointment](https://www.ams.org/journals/notices/202309/noti2782/noti2782.html)
 * [2024-05-23, 09:52:18](https://news.ycombinator.com/item?id=40452655) - [Tom Waits vs. Frito-Lay, Inc (2003)](http://tomwaitslibrary.info/biography/copyright/frito-lay/)
 * [2024-05-23, 07:17:22](https://news.ycombinator.com/item?id=40451525) - [M2dir: Treating mails as files without going crazy](https://bitfehler.srht.site/posts/2024-04-15_m2dir-treating-mails-as-files-without-going-crazy.html)
 * [2024-05-22, 11:44:48](https://news.ycombinator.com/item?id=40439810) - [Why did Tom Lehrer swap fame for obscurity?](https://www.theguardian.com/music/article/2024/may/22/my-songs-spread-like-herpes-why-did-satirical-genius-tom-lehrer-swap-worldwide-fame-for-obscurity)
-* [2024-05-22, 08:50:41](https://news.ycombinator.com/item?id=40438834) - [Five Things to Avoid in Ruby](https://blog.appsignal.com/2024/05/22/five-things-to-avoid-in-ruby.html)
 * [2024-05-21, 12:49:38](https://news.ycombinator.com/item?id=40427771) - [\"Namespace on Read\" for Ruby, FAQ](https://gist.github.com/tagomoris/4392f1091f658294bd4d473d8ff631cb)
 * [2024-05-21, 10:48:59](https://news.ycombinator.com/item?id=40426666) - [vu128: Efficient variable-length integers](https://john-millikin.com/vu128-efficient-variable-length-integers)
 
