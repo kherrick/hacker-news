@@ -122,6 +122,7 @@
 * [2024-05-21, 05:21:23](https://news.ycombinator.com/item?id=40424454) - [Scarlett Johansson's response to Sam Altman ripping off her voice](https://old.reddit.com/r/interestingasfuck/comments/1cwthib/scarlett_johanssons_response_to_sam_altman/)
 * [2024-05-21, 05:21:10](https://news.ycombinator.com/item?id=40424452) - [Version Control Beyond Git](https://www.soundbarrier.io/posts/git_alternatives/)
 * [2024-05-21, 05:18:07](https://news.ycombinator.com/item?id=40424433) - [Intel throws a wrench of efficient x86 CPUs into Qualcomm's Snapdragon party](https://www.notebookcheck.net/Lunar-Lake-announcement-Intel-throws-a-wrench-of-efficient-x86-CPUs-into-Qualcomm-s-Snapdragon-party.839667.0.html)
+* [2024-05-21, 05:17:20](https://news.ycombinator.com/item?id=40424430) - [How the Soon-to-Reopen Folger Shakespeare Library Came to Be](https://www.smithsonianmag.com/arts-culture/how-soon-reopen-folger-shakespeare-library-came-be-180984291/)
 * [2024-05-21, 05:14:09](https://news.ycombinator.com/item?id=40424408) - [The Gilded Gallows of Georg Honauer (1597)](https://publicdomainreview.org/collection/gilded-gallows-of-georg-honauer/)
 * [2024-05-21, 04:56:07](https://news.ycombinator.com/item?id=40424304) - [Shipbreaking](https://www.edwardburtynsky.com/projects/photographs/shipbreaking)
 * [2024-05-21, 03:47:06](https://news.ycombinator.com/item?id=40423884) - [Microsoft's mission to take down the MacBook Air](https://www.theverge.com/2024/5/20/24160463/microsoft-windows-laptops-copilot-arm-chips-m1)

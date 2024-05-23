@@ -7,8 +7,8 @@
 * [2024-05-23, 19:09:42](https://news.ycombinator.com/item?id=40458686) - [US Army researched the health effects of radioactivity in St Louis 1945-1970 (2011)](https://mospace.umsystem.edu/xmlui/handle/10355/13170)
 * [2024-05-23, 19:07:53](https://news.ycombinator.com/item?id=40458655) - [Act on Press](https://twitter.com/ID_AA_Carmack/status/1787850053912064005)
 * [2024-05-23, 19:05:53](https://news.ycombinator.com/item?id=40458617) - [Fossil fuels could have been left in the dust 25 years ago](https://timharford.com/2024/05/fossil-fuels-could-have-been-left-in-the-dust-25-years-ago/)
-* [2024-05-23, 18:28:07](https://news.ycombinator.com/item?id=40458114) - [Crows \"count\" the number of self-generated vocalizations](https://www.science.org/doi/10.1126/science.adl0984)
 * [2024-05-23, 18:03:31](https://news.ycombinator.com/item?id=40457856) - [Cement recycling method could help solve one of the big climate challenges](https://www.cam.ac.uk/stories/cement-recycling)
+* [2024-05-23, 17:40:20](https://news.ycombinator.com/item?id=40457631) - [Show HN: Excel to Python Compiler](https://pyoneer.ai?source=hn&utm_campaign=shn1)
 * [2024-05-23, 17:09:38](https://news.ycombinator.com/item?id=40457229) - [Running PHP fast at the edge with WebAssembly](https://wasmer.io/posts/running-php-blazingly-fast-at-the-edge-with-wasm)
 * [2024-05-23, 16:47:00](https://news.ycombinator.com/item?id=40456959) - [Show HN: Porter Cloud – PaaS with an eject button](https://news.ycombinator.com/item?id=40456959)
 * [2024-05-23, 16:38:25](https://news.ycombinator.com/item?id=40456834) - [Daylight Computer – New 60fps e-paper tablet](https://daylightcomputer.com/product)
@@ -28,8 +28,8 @@
 * [2024-05-23, 09:52:18](https://news.ycombinator.com/item?id=40452655) - [Tom Waits vs. Frito-Lay, Inc (2003)](http://tomwaitslibrary.info/biography/copyright/frito-lay/)
 * [2024-05-23, 07:17:22](https://news.ycombinator.com/item?id=40451525) - [M2dir: Treating mails as files without going crazy](https://bitfehler.srht.site/posts/2024-04-15_m2dir-treating-mails-as-files-without-going-crazy.html)
 * [2024-05-22, 11:44:48](https://news.ycombinator.com/item?id=40439810) - [Why did Tom Lehrer swap fame for obscurity?](https://www.theguardian.com/music/article/2024/may/22/my-songs-spread-like-herpes-why-did-satirical-genius-tom-lehrer-swap-worldwide-fame-for-obscurity)
-* [2024-05-21, 12:49:38](https://news.ycombinator.com/item?id=40427771) - [\"Namespace on Read\" for Ruby, FAQ](https://gist.github.com/tagomoris/4392f1091f658294bd4d473d8ff631cb)
 * [2024-05-21, 10:48:59](https://news.ycombinator.com/item?id=40426666) - [vu128: Efficient variable-length integers](https://john-millikin.com/vu128-efficient-variable-length-integers)
+* [2024-05-21, 05:17:20](https://news.ycombinator.com/item?id=40424430) - [How the Soon-to-Reopen Folger Shakespeare Library Came to Be](https://www.smithsonianmag.com/arts-culture/how-soon-reopen-folger-shakespeare-library-came-be-180984291/)
 
 ## [Archives](archives/index.md)
 
