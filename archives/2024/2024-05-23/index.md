@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2024-05-23](index.md)
 
 * [2024-05-23, 19:16:12](https://news.ycombinator.com/item?id=40458766) - [Wi-Fi devices set to become object sensors by 2024 via IEEE 802.11bf standard](https://www.theregister.com/2021/03/31/wifi_devices_monitoring/)
+* [2024-05-23, 19:09:42](https://news.ycombinator.com/item?id=40458686) - [US Army researched the health effects of radioactivity in St Louis 1945-1970](https://mospace.umsystem.edu/xmlui/handle/10355/13170)
 * [2024-05-23, 19:05:53](https://news.ycombinator.com/item?id=40458617) - [Fossil fuels could have been left in the dust 25 years ago](https://timharford.com/2024/05/fossil-fuels-could-have-been-left-in-the-dust-25-years-ago/)
+* [2024-05-23, 19:03:49](https://news.ycombinator.com/item?id=40458583) - [Type safety does not matter](https://www.fpcomplete.com/blog/type-safety-doesnt-matter/)
 * [2024-05-23, 18:29:24](https://news.ycombinator.com/item?id=40458135) - [iTerm2 removes AI feature from core, creates separate plugin](https://gitlab.com/gnachman/iterm2/-/issues/11470#note_1917647951)
 * [2024-05-23, 18:28:07](https://news.ycombinator.com/item?id=40458114) - [Crows \"count\" the number of self-generated vocalizations](https://www.science.org/doi/10.1126/science.adl0984)
 * [2024-05-23, 18:04:05](https://news.ycombinator.com/item?id=40457867) - [Spotify is going to break every Car Thing gadget it ever sold](https://www.theverge.com/2024/5/23/24163383/spotify-car-thing-discontinued-december-2024)
