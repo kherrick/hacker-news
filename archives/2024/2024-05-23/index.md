@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-23](index.md)
 
+* [2024-05-23, 15:38:25](https://news.ycombinator.com/item?id=40456064) - [Launch HN: Metriport (YC S22) – Open-source API for healthcare data exchange](https://news.ycombinator.com/item?id=40456064)
 * [2024-05-23, 15:16:20](https://news.ycombinator.com/item?id=40455758) - [The Space Quest II Master Disk Blunder](https://lanceewing.github.io/blog/sierra/agi/sq2/2024/05/22/do-you-own-this-space-quest-2-disk.html)
 * [2024-05-23, 14:54:08](https://news.ycombinator.com/item?id=40455494) - [Make your own backdoor: CFLAGS code injection, Makefile injection, pkg-config](https://www.openwall.com/lists/oss-security/2024/04/17/3)
 * [2024-05-23, 14:53:18](https://news.ycombinator.com/item?id=40455478) - [Show HN: HackerNews but for state of the art research papers](https://www.papertalk.xyz/research/home)
@@ -40,6 +41,7 @@
 * [2024-05-23, 07:34:06](https://news.ycombinator.com/item?id=40451645) - [Mapping the Mind of a Large Language Model](https://www.anthropic.com/news/mapping-mind-language-model)
 * [2024-05-23, 07:17:22](https://news.ycombinator.com/item?id=40451525) - [M2dir: Treating mails as files without going crazy](https://bitfehler.srht.site/posts/2024-04-15_m2dir-treating-mails-as-files-without-going-crazy.html)
 * [2024-05-23, 06:20:17](https://news.ycombinator.com/item?id=40451112) - [What Happened to DuckDuckGo?](https://duckduckgo.com/?q=search+not+working)
+* [2024-05-23, 06:03:51](https://news.ycombinator.com/item?id=40451009) - [DuckDuckGo was down](https://duckduckgo.com)
 * [2024-05-23, 05:22:04](https://news.ycombinator.com/item?id=40450748) - [Nvidia chief Huang given 60% pay increase amid AI hysteria](https://www.theregister.com/2024/05/16/nvidia_chief_huang_gets_60/)
 * [2024-05-23, 04:59:44](https://news.ycombinator.com/item?id=40450633) - [Ask HN: Those who use an Android and macOS, how do you manage sync?](https://news.ycombinator.com/item?id=40450633)
 * [2024-05-23, 04:47:32](https://news.ycombinator.com/item?id=40450573) - [OpenAI, WSJ Owner News Corp Strike Content Deal Valued at over $250M](https://www.wsj.com/business/media/openai-news-corp-strike-deal-23f186ba)
