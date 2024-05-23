@@ -17,7 +17,6 @@
 * [2024-05-22, 15:07:20](https://news.ycombinator.com/item?id=40441945) - [Show HN: Route your prompts to the best LLM](https://unify.ai/chat?default=true)
 * [2024-05-22, 14:31:58](https://news.ycombinator.com/item?id=40441487) - [The push to ban ransom payments is gaining momentum](https://socket.dev/blog/the-push-to-ban-ransom-payments-is-gaining-momentum)
 * [2024-05-22, 13:58:25](https://news.ycombinator.com/item?id=40441093) - [Show HN: PBT – A property-based testing library for Ruby](https://github.com/ohbarye/pbt)
-* [2024-05-22, 13:48:09](https://news.ycombinator.com/item?id=40440971) - [Tensor Puzzles](https://github.com/srush/Tensor-Puzzles)
 * [2024-05-22, 13:39:53](https://news.ycombinator.com/item?id=40440854) - [Sal Khan is pioneering innovation in education again](https://www.gatesnotes.com/Brave-New-Words)
 * [2024-05-22, 13:38:51](https://news.ycombinator.com/item?id=40440841) - [Why not just do simple C++ RAII in C?](https://thephd.dev/just-put-raii-in-c-bro-please-bro-just-one-more-destructor-bro-cmon-im-good-for-it)
 * [2024-05-22, 12:21:23](https://news.ycombinator.com/item?id=40440086) - [What's the difference between a motor and an engine?](https://engineering.mit.edu/engage/ask-an-engineer/whats-the-difference-between-a-motor-and-an-engine/)
@@ -30,6 +29,7 @@
 * [2024-05-21, 10:18:00](https://news.ycombinator.com/item?id=40426453) - [Emacs used as a message router in Germany's ATC systems in the 1990s (2021)](https://www.emacswiki.org/emacs/EmacsStories)
 * [2024-05-21, 08:55:56](https://news.ycombinator.com/item?id=40425762) - [Why Are Sloths So Slow?](https://slothconservation.org/sloths-move-slow/)
 * [2024-05-21, 08:06:14](https://news.ycombinator.com/item?id=40425402) - [To the Person Sitting in Darkness (1901)](https://www.gutenberg.org/files/62636/62636-h/62636-h.htm)
+* [2024-05-21, 08:01:27](https://news.ycombinator.com/item?id=40425366) - [Ballerina: Functional programming framework for front end web development](https://github.com/giuseppemag/ballerina)
 
 ## [Archives](archives/index.md)
 

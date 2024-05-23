@@ -101,6 +101,7 @@
 * [2024-05-21, 08:06:24](https://news.ycombinator.com/item?id=40425403) - [The OpenAI board was right – No (by a voice actres named Scarlet) means No](https://garymarcus.substack.com/p/the-openai-board-was-right)
 * [2024-05-21, 08:06:14](https://news.ycombinator.com/item?id=40425402) - [To the Person Sitting in Darkness (1901)](https://www.gutenberg.org/files/62636/62636-h/62636-h.htm)
 * [2024-05-21, 08:05:13](https://news.ycombinator.com/item?id=40425394) - [The Ages of Programming Language Creators](https://pldb.io/posts/ageAtCreation.html)
+* [2024-05-21, 08:01:27](https://news.ycombinator.com/item?id=40425366) - [Ballerina: Functional programming framework for front end web development](https://github.com/giuseppemag/ballerina)
 * [2024-05-21, 07:55:16](https://news.ycombinator.com/item?id=40425315) - [CamelCase vs. Snake_case Scientific Studies](https://whatheco.de/2011/02/10/camelcase-vs-underscores-scientific-showdown/)
 * [2024-05-21, 07:53:56](https://news.ycombinator.com/item?id=40425306) - [Microsoft's AI chatbot will 'recall' everything you do on its new PCs](https://www.theguardian.com/technology/article/2024/may/20/microsoft-chatbot-assistant-pc)
 * [2024-05-21, 07:38:12](https://news.ycombinator.com/item?id=40425221) - [Which Electric Cars Have Bidirectional Charging (V2L, V2G, V2H)](https://zecar.com/resources/which-electric-cars-have-bidirectional-charging)
