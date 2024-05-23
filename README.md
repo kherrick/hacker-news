@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-22, 22:39:51](https://news.ycombinator.com/item?id=40447626) - [US Justice Department to Seek Breakup of Live Nation-Ticketmaster](https://www.bloomberg.com/news/articles/2024-05-22/justice-department-to-seek-breakup-of-live-nation-ticketmaster)
+* [2024-05-23, 00:05:36](https://news.ycombinator.com/item?id=40448592) - [Google Blog: Epic's proposed remedies are bad for everyone but Epic](https://blog.google/outreach-initiatives/public-policy/epics-proposed-remedies-are-bad-for-everyone-but-epic/)
+* [2024-05-22, 22:39:51](https://news.ycombinator.com/item?id=40447626) - [US Justice Department to seek breakup of Live Nation-Ticketmaster](https://www.bloomberg.com/news/articles/2024-05-22/justice-department-to-seek-breakup-of-live-nation-ticketmaster)
 * [2024-05-22, 22:22:30](https://news.ycombinator.com/item?id=40447431) - [Leaked OpenAI documents reveal aggressive tactics toward former employees](https://www.vox.com/future-perfect/351132/openai-vested-equity-nda-sam-altman-documents-employees)
 * [2024-05-22, 22:02:19](https://news.ycombinator.com/item?id=40447235) - [A Michigan farmworker is diagnosed with bird flu in case tied to dairy cows](https://www.npr.org/2024/05/22/1252984256/bird-flu-h5n1-virus-human-michigan-cows)
 * [2024-05-22, 20:56:20](https://news.ycombinator.com/item?id=40446433) - [Cortile – Linux auto tiling manager with hot corner support](https://github.com/leukipp/cortile)
-* [2024-05-22, 20:56:08](https://news.ycombinator.com/item?id=40446428) - [Confessions of a College Professor: All the remedial classes in one place](http://professorconfess.blogspot.com/2013/06/all-remedial-classes-in-one-place.html)
 * [2024-05-22, 20:26:01](https://news.ycombinator.com/item?id=40446010) - [Nvidia announces financial results for first quarter fiscal 2025](https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-first-quarter-fiscal-2025)
 * [2024-05-22, 20:07:57](https://news.ycombinator.com/item?id=40445746) - [Dynamic loading of real-time content at Figma](https://www.figma.com/blog/speeding-up-file-load-times-one-page-at-a-time/)
 * [2024-05-22, 19:11:15](https://news.ycombinator.com/item?id=40444926) - [Show HN: Simple and fast resume document generation with AI](https://cvgist.com/)
