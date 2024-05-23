@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-23](index.md)
 
+* [2024-05-23, 13:13:50](https://news.ycombinator.com/item?id=40454283) - [Support for Windows 10 will end October 2025](https://www.microsoft.com/en-us/windows/end-of-support)
 * [2024-05-23, 12:29:15](https://news.ycombinator.com/item?id=40453882) - [Ex-Googler says company's AI panic is like Google+ fiasco all over again](https://the-decoder.com/ex-googler-says-companys-ai-panic-is-like-google-fiasco-all-over-again/)
 * [2024-05-23, 12:08:38](https://news.ycombinator.com/item?id=40453713) - [Ask HN: Discuss ADHD and your use of medication](https://news.ycombinator.com/item?id=40453713)
 * [2024-05-23, 12:00:17](https://news.ycombinator.com/item?id=40453619) - [PermitFlow (YC W22) Is Hiring](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
