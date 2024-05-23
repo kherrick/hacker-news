@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-23, 08:12:53](https://news.ycombinator.com/item?id=40451949) - [Microsoft Bing Search, Copilot face downtime](https://indianexpress.com/article/technology/tech-news-technology/microsoft-bing-search-copilot-face-downtime-users-flag-issues-9346860/)
-* [2024-05-23, 03:56:13](https://news.ycombinator.com/item?id=40450306) - [One of the most unusual heists in America seems to be unfolding at Taco Bell](https://www.sfgate.com/food/article/taco-bell-ebay-mark-smith-paintings-19464177.php)
 * [2024-05-23, 03:23:54](https://news.ycombinator.com/item?id=40450128) - [Magic UI: UI Library for Design Engineers](https://magicui.design/)
 * [2024-05-23, 02:34:14](https://news.ycombinator.com/item?id=40449767) - [WinDirStat – Windows Directory Statistics](https://windirstat.net/)
 * [2024-05-23, 01:25:35](https://news.ycombinator.com/item?id=40449278) - [Drone Flying 101 – An Interactive Tutorial for Beginners](https://fpvsim.com/drone-flying-101)
@@ -22,6 +21,7 @@
 * [2024-05-22, 12:21:23](https://news.ycombinator.com/item?id=40440086) - [What's the difference between a motor and an engine?](https://engineering.mit.edu/engage/ask-an-engineer/whats-the-difference-between-a-motor-and-an-engine/)
 * [2024-05-22, 11:23:20](https://news.ycombinator.com/item?id=40439654) - [Microsoft Paint's new AI image generator builds on your brushstrokes](https://petapixel.com/2024/05/21/microsoft-paints-new-ai-image-generator-builds-on-your-brushstrokes/)
 * [2024-05-22, 10:59:46](https://news.ycombinator.com/item?id=40439515) - [Windows 10 wallpaper was physically built and photographed (2015)](https://gmunk.com/Windows-10-Desktop/)
+* [2024-05-22, 10:46:09](https://news.ycombinator.com/item?id=40439443) - [Sorry, iPads](https://therectangle.substack.com/p/sorry-ipad)
 * [2024-05-22, 10:38:40](https://news.ycombinator.com/item?id=40439404) - [Growing a Bootie](https://wingolog.org/archives/2024/05/22/growing-a-bootie)
 * [2024-05-22, 08:08:26](https://news.ycombinator.com/item?id=40438510) - [Number 16 (spider)](https://en.wikipedia.org/wiki/Number_16_(spider))
 * [2024-05-22, 05:31:30](https://news.ycombinator.com/item?id=40437641) - [Faking William Morris, Generative Forgery, and the Erosion of Art History](https://maggieappleton.com/generative-forgery)
