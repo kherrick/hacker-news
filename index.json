@@ -1,12 +1,52 @@
 [
   [
     [
-      "2024-05-23, 15:29:23",
-      "https://news.ycombinator.com/item?id=40455918"
+      "2024-05-23, 16:38:25",
+      "https://news.ycombinator.com/item?id=40456834"
     ],
     [
-      "Vercel Ship 2024 Keynote (live) [video]",
-      "https://www.youtube.com/watch?v=roRx0b_VXsU"
+      "Daylight: A 60fps e-ink tablet",
+      "https://daylightcomputer.com/"
+    ]
+  ],
+  [
+    [
+      "2024-05-23, 16:22:30",
+      "https://news.ycombinator.com/item?id=40456644"
+    ],
+    [
+      "Spotify Car Thing will be discontinued",
+      "https://support.spotify.com/us/article/car-thing-discontinued/"
+    ]
+  ],
+  [
+    [
+      "2024-05-23, 15:41:29",
+      "https://news.ycombinator.com/item?id=40456107"
+    ],
+    [
+      "We're Ending Our Samsung Collaboration",
+      "https://www.ifixit.com/News/96162/were-ending-our-samsung-collaboration"
+    ]
+  ],
+  [
+    [
+      "2024-05-23, 15:31:09",
+      "https://news.ycombinator.com/item?id=40455944"
+    ],
+    [
+      "Matcha.css – Drop-in semantic styling library in pure CSS",
+      "https://matcha.mizu.sh/"
+    ]
+  ],
+  [
+    [
+      "2024-05-23, 15:24:59",
+      "https://news.ycombinator.com/item?id=40455871"
+    ],
+    [
+      "Artificial Intelligence Act (EU Law)",
+      "https://en.wikipedia.org/wiki/Artificial_Intelligence_Act"
     ]
   ],
   [
@@ -45,7 +85,7 @@
       "https://news.ycombinator.com/item?id=40455243"
     ],
     [
-      "Southwest Airlines now available on Google Flights",
+      "Southwest Airlines is available on Google Flights",
       "https://viewfromthewing.com/game-changer-southwest-airlines-now-available-on-google-flights/"
     ]
   ],
@@ -55,7 +95,7 @@
       "https://news.ycombinator.com/item?id=40455208"
     ],
     [
-      "Making EC2 boot time 8x faster",
+      "Making EC2 boot time faster",
       "https://depot.dev/blog/faster-ec2-boot-time"
     ]
   ],
@@ -201,36 +241,6 @@
   ],
   [
     [
-      "2024-05-22, 16:05:06",
-      "https://news.ycombinator.com/item?id=40442595"
-    ],
-    [
-      "Pluckable Strings",
-      "https://string.spiel.com/"
-    ]
-  ],
-  [
-    [
-      "2024-05-22, 13:38:51",
-      "https://news.ycombinator.com/item?id=40440841"
-    ],
-    [
-      "Why not just do simple C++ RAII in C?",
-      "https://thephd.dev/just-put-raii-in-c-bro-please-bro-just-one-more-destructor-bro-cmon-im-good-for-it"
-    ]
-  ],
-  [
-    [
-      "2024-05-22, 12:21:23",
-      "https://news.ycombinator.com/item?id=40440086"
-    ],
-    [
-      "What's the difference between a motor and an engine? (2013)",
-      "https://engineering.mit.edu/engage/ask-an-engineer/whats-the-difference-between-a-motor-and-an-engine/"
-    ]
-  ],
-  [
-    [
       "2024-05-22, 11:21:16",
       "https://news.ycombinator.com/item?id=40439641"
     ],
@@ -257,16 +267,6 @@
     [
       "Number 16 (spider)",
       "https://en.wikipedia.org/wiki/Number_16_(spider)"
-    ]
-  ],
-  [
-    [
-      "2024-05-22, 05:31:30",
-      "https://news.ycombinator.com/item?id=40437641"
-    ],
-    [
-      "Faking William Morris, Generative Forgery, and the Erosion of Art History",
-      "https://maggieappleton.com/generative-forgery"
     ]
   ],
   [
