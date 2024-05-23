@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-23, 01:48:53](https://news.ycombinator.com/item?id=40449454) - [How to do a startup, according to YC data](https://amvizion.org/blog/lessons-learned-from-yc.html)
-* [2024-05-23, 00:05:36](https://news.ycombinator.com/item?id=40448592) - [Google Blog: Epic's proposed remedies are bad for everyone but Epic](https://blog.google/outreach-initiatives/public-policy/epics-proposed-remedies-are-bad-for-everyone-but-epic/)
+* [2024-05-23, 00:05:36](https://news.ycombinator.com/item?id=40448592) - [Epic's proposed remedies are bad for everyone but Epic](https://blog.google/outreach-initiatives/public-policy/epics-proposed-remedies-are-bad-for-everyone-but-epic/)
 * [2024-05-22, 23:13:50](https://news.ycombinator.com/item?id=40447998) - [Emacs Easydraw – drawing tool inside Emacs](https://github.com/misohena/el-easydraw)
 * [2024-05-22, 22:39:51](https://news.ycombinator.com/item?id=40447626) - [US Justice Department to seek breakup of Live Nation-Ticketmaster](https://www.bloomberg.com/news/articles/2024-05-22/justice-department-to-seek-breakup-of-live-nation-ticketmaster)
 * [2024-05-22, 22:22:30](https://news.ycombinator.com/item?id=40447431) - [Leaked OpenAI documents reveal aggressive tactics toward former employees](https://www.vox.com/future-perfect/351132/openai-vested-equity-nda-sam-altman-documents-employees)
