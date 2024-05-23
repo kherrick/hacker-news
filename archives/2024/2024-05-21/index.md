@@ -89,6 +89,7 @@
 * [2024-05-21, 10:55:54](https://news.ycombinator.com/item?id=40426711) - [Google announces Firebase Genkit with Ollama support](https://ollama.com/blog/firebase-genkit)
 * [2024-05-21, 10:55:10](https://news.ycombinator.com/item?id=40426705) - [C23 Implications for C Libraries](https://htmlpreview.github.io/?https://icube-forge.unistra.fr/icps/c23-library/-/raw/main/README.html)
 * [2024-05-21, 10:54:36](https://news.ycombinator.com/item?id=40426701) - [Going Dark: The war on encryption is on the rise](https://mullvad.net/en/why-privacy-matters/going-dark)
+* [2024-05-21, 10:48:59](https://news.ycombinator.com/item?id=40426666) - [vu128: Efficient variable-length integers](https://john-millikin.com/vu128-efficient-variable-length-integers)
 * [2024-05-21, 10:42:31](https://news.ycombinator.com/item?id=40426622) - [Humans Who Are Not Concentrating Are Not General Intelligences (2019)](https://www.skynettoday.com/editorials/humans-not-concentrating)
 * [2024-05-21, 10:42:30](https://news.ycombinator.com/item?id=40426621) - [NoTunes is a macOS application that will prevent Apple Music from launching](https://github.com/tombonez/noTunes)
 * [2024-05-21, 10:18:00](https://news.ycombinator.com/item?id=40426453) - [Emacs used as a message router in Germany's ATC systems in the 1990s (2021)](https://www.emacswiki.org/emacs/EmacsStories)

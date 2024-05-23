@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-23](index.md)
 
 * [2024-05-23, 15:38:25](https://news.ycombinator.com/item?id=40456064) - [Launch HN: Metriport (YC S22) – Open-source API for healthcare data exchange](https://news.ycombinator.com/item?id=40456064)
+* [2024-05-23, 15:29:23](https://news.ycombinator.com/item?id=40455918) - [Vercel Ship 2024 Keynote (live) [video]](https://www.youtube.com/watch?v=roRx0b_VXsU)
 * [2024-05-23, 15:16:20](https://news.ycombinator.com/item?id=40455758) - [The Space Quest II Master Disk Blunder](https://lanceewing.github.io/blog/sierra/agi/sq2/2024/05/22/do-you-own-this-space-quest-2-disk.html)
 * [2024-05-23, 14:54:08](https://news.ycombinator.com/item?id=40455494) - [Make your own backdoor: CFLAGS code injection, Makefile injection, pkg-config](https://www.openwall.com/lists/oss-security/2024/04/17/3)
 * [2024-05-23, 14:53:18](https://news.ycombinator.com/item?id=40455478) - [Show HN: HackerNews but for state of the art research papers](https://www.papertalk.xyz/research/home)
@@ -21,6 +22,7 @@
 * [2024-05-23, 13:22:47](https://news.ycombinator.com/item?id=40454383) - [First pictures from Euclid satellite reveal billions of orphan stars](https://www.nottingham.ac.uk/news/first-pictures-from-euclid-satellite-reveal-billions-of-orphan-stars)
 * [2024-05-23, 13:14:59](https://news.ycombinator.com/item?id=40454301) - [Red Lobster was killed by private equity, not Endless Shrimp](https://pluralistic.net/2024/05/23/spineless/#invertebrates)
 * [2024-05-23, 13:13:50](https://news.ycombinator.com/item?id=40454283) - [Support for Windows 10 will end October 2025](https://www.microsoft.com/en-us/windows/end-of-support)
+* [2024-05-23, 12:58:09](https://news.ycombinator.com/item?id=40454136) - [How to Build 300k Airplanes in Five Years](https://www.construction-physics.com/p/how-to-build-300000-airplanes-in)
 * [2024-05-23, 12:48:55](https://news.ycombinator.com/item?id=40454047) - [China's first large-scale sodium battery energy storage station now operational](https://cnevpost.com/2024/05/13/china-1st-large-sodium-battery-energy-storage-station-operation/)
 * [2024-05-23, 12:29:15](https://news.ycombinator.com/item?id=40453882) - [Ex-Googler says company's AI panic is like Google+ fiasco all over again](https://the-decoder.com/ex-googler-says-companys-ai-panic-is-like-google-fiasco-all-over-again/)
 * [2024-05-23, 12:21:26](https://news.ycombinator.com/item?id=40453822) - [Maths proof of Langlands conjecture is so complex almost no one can explain it](https://www.newscientist.com/article/2431964-incredible-maths-proof-is-so-complex-that-almost-no-one-can-explain-it/)
