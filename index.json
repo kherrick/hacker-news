@@ -1,22 +1,22 @@
 [
   [
     [
-      "2024-05-23, 13:13:50",
-      "https://news.ycombinator.com/item?id=40454283"
+      "2024-05-23, 12:48:55",
+      "https://news.ycombinator.com/item?id=40454047"
     ],
     [
-      "Support for Windows 10 will end October 2025",
-      "https://www.microsoft.com/en-us/windows/end-of-support"
+      "China's first large-scale sodium battery energy storage station now operational",
+      "https://cnevpost.com/2024/05/13/china-1st-large-sodium-battery-energy-storage-station-operation/"
     ]
   ],
   [
     [
-      "2024-05-23, 12:29:15",
-      "https://news.ycombinator.com/item?id=40453882"
+      "2024-05-23, 12:21:26",
+      "https://news.ycombinator.com/item?id=40453822"
     ],
     [
-      "Ex-Googler says company's AI panic is like Google+ fiasco all over again",
-      "https://the-decoder.com/ex-googler-says-companys-ai-panic-is-like-google-fiasco-all-over-again/"
+      "Maths proof of Langlands conjecture is so complex almost no one can explain it",
+      "https://www.newscientist.com/article/2431964-incredible-maths-proof-is-so-complex-that-almost-no-one-can-explain-it/"
     ]
   ],
   [
@@ -31,42 +31,12 @@
   ],
   [
     [
-      "2024-05-23, 11:27:32",
-      "https://news.ycombinator.com/item?id=40453335"
+      "2024-05-23, 10:43:55",
+      "https://news.ycombinator.com/item?id=40453025"
     ],
     [
-      "Hacker News Best",
-      "https://news.ycombinator.com/best"
-    ]
-  ],
-  [
-    [
-      "2024-05-23, 11:14:57",
-      "https://news.ycombinator.com/item?id=40453234"
-    ],
-    [
-      "Common Lisp Is Not a Single Language, but Many",
-      "https://aartaka.me/cl-is-lots"
-    ]
-  ],
-  [
-    [
-      "2024-05-23, 10:53:20",
-      "https://news.ycombinator.com/item?id=40453077"
-    ],
-    [
-      "Microsoft outage affects Bing, Copilot, DuckDuckGo and ChatGPT internet search",
-      "https://www.bleepingcomputer.com/news/microsoft/microsoft-outage-affects-bing-copilot-duckduckgo-and-chatgpt-internet-search/"
-    ]
-  ],
-  [
-    [
-      "2024-05-23, 10:11:57",
-      "https://news.ycombinator.com/item?id=40452795"
-    ],
-    [
-      "Tell HN: DuckDuckGo Search Not Returning Results",
-      "https://news.ycombinator.com/item?id=40452795"
+      "My boss says we don't need any engineering managers. Is he right",
+      "https://charity.wtf/2024/01/05/questionable-advice-my-boss-says-we-dont-need-any-engineering-managers-is-he-right/"
     ]
   ],
   [
@@ -77,16 +47,6 @@
     [
       "How Failure Has Made Mathematics Stronger",
       "https://www.quantamagazine.org/how-failure-has-made-mathematics-stronger-20240522/"
-    ]
-  ],
-  [
-    [
-      "2024-05-23, 08:55:05",
-      "https://news.ycombinator.com/item?id=40452260"
-    ],
-    [
-      "It looks a lot like VMware just lost a 24,000-VM customer",
-      "https://www.theregister.com/2024/05/22/computershare_vm_migration_project/"
     ]
   ],
   [
@@ -151,6 +111,16 @@
   ],
   [
     [
+      "2024-05-22, 20:56:20",
+      "https://news.ycombinator.com/item?id=40446433"
+    ],
+    [
+      "Cortile – Linux auto tiling manager with hot corner support",
+      "https://github.com/leukipp/cortile"
+    ]
+  ],
+  [
+    [
       "2024-05-22, 18:11:34",
       "https://news.ycombinator.com/item?id=40444121"
     ],
@@ -191,12 +161,42 @@
   ],
   [
     [
-      "2024-05-22, 13:39:53",
-      "https://news.ycombinator.com/item?id=40440854"
+      "2024-05-22, 14:31:58",
+      "https://news.ycombinator.com/item?id=40441487"
     ],
     [
-      "Sal Khan is pioneering innovation in education again",
-      "https://www.gatesnotes.com/Brave-New-Words"
+      "The push to ban ransom payments is gaining momentum",
+      "https://socket.dev/blog/the-push-to-ban-ransom-payments-is-gaining-momentum"
+    ]
+  ],
+  [
+    [
+      "2024-05-22, 13:38:51",
+      "https://news.ycombinator.com/item?id=40440841"
+    ],
+    [
+      "Why not just do simple C++ RAII in C?",
+      "https://thephd.dev/just-put-raii-in-c-bro-please-bro-just-one-more-destructor-bro-cmon-im-good-for-it"
+    ]
+  ],
+  [
+    [
+      "2024-05-22, 12:21:23",
+      "https://news.ycombinator.com/item?id=40440086"
+    ],
+    [
+      "What's the difference between a motor and an engine? (2013)",
+      "https://engineering.mit.edu/engage/ask-an-engineer/whats-the-difference-between-a-motor-and-an-engine/"
+    ]
+  ],
+  [
+    [
+      "2024-05-22, 11:23:20",
+      "https://news.ycombinator.com/item?id=40439654"
+    ],
+    [
+      "Microsoft Paint's new AI image generator builds on your brushstrokes",
+      "https://petapixel.com/2024/05/21/microsoft-paints-new-ai-image-generator-builds-on-your-brushstrokes/"
     ]
   ],
   [
@@ -217,6 +217,16 @@
     [
       "Windows 10 wallpaper was physically built and photographed (2015)",
       "https://gmunk.com/Windows-10-Desktop/"
+    ]
+  ],
+  [
+    [
+      "2024-05-22, 10:38:40",
+      "https://news.ycombinator.com/item?id=40439404"
+    ],
+    [
+      "Growing a Bootie",
+      "https://wingolog.org/archives/2024/05/22/growing-a-bootie"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Emacs used as a message router in Germany's ATC systems in the 1990s (2021)",
       "https://www.emacswiki.org/emacs/EmacsStories"
-    ]
-  ],
-  [
-    [
-      "2024-05-21, 09:46:08",
-      "https://news.ycombinator.com/item?id=40426221"
-    ],
-    [
-      "Index of /files/audio/Boot Sounds/ (2019)",
-      "https://sys.re/files/audio/Boot%20Sounds/"
     ]
   ],
   [
