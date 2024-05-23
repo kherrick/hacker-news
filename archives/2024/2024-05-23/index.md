@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-05-23](index.md)
 
+* [2024-05-23, 12:08:38](https://news.ycombinator.com/item?id=40453713) - [Ask HN: Discuss ADHD and your use of medication](https://news.ycombinator.com/item?id=40453713)
 * [2024-05-23, 12:00:17](https://news.ycombinator.com/item?id=40453619) - [PermitFlow (YC W22) Is Hiring](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 * [2024-05-23, 11:27:32](https://news.ycombinator.com/item?id=40453335) - [The 'Best' Hidden Y Combinator Page.. You never knew..](https://news.ycombinator.com/best)
+* [2024-05-23, 11:14:57](https://news.ycombinator.com/item?id=40453234) - [Common Lisp Is Not a Single Language, but Many](https://aartaka.me/cl-is-lots)
 * [2024-05-23, 10:53:20](https://news.ycombinator.com/item?id=40453077) - [Microsoft outage affects Bing, Copilot, DuckDuckGo and ChatGPT internet search](https://www.bleepingcomputer.com/news/microsoft/microsoft-outage-affects-bing-copilot-duckduckgo-and-chatgpt-internet-search/)
 * [2024-05-23, 10:34:44](https://news.ycombinator.com/item?id=40452960) - [A Theoretical Case Against Education](https://www.astralcodexten.com/p/a-theoretical-case-against-education)
 * [2024-05-23, 10:11:57](https://news.ycombinator.com/item?id=40452795) - [Tell HN: DuckDuckGo Search Not Returning Results](https://news.ycombinator.com/item?id=40452795)
