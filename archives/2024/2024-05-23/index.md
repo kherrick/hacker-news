@@ -8,6 +8,8 @@
 * [2024-05-23, 18:28:07](https://news.ycombinator.com/item?id=40458114) - [Crows \"count\" the number of self-generated vocalizations](https://www.science.org/doi/10.1126/science.adl0984)
 * [2024-05-23, 18:04:05](https://news.ycombinator.com/item?id=40457867) - [Spotify is going to break every Car Thing gadget it ever sold](https://www.theverge.com/2024/5/23/24163383/spotify-car-thing-discontinued-december-2024)
 * [2024-05-23, 18:03:31](https://news.ycombinator.com/item?id=40457856) - [Cement recycling method could help solve one of the biggest climate challenges](https://www.cam.ac.uk/stories/cement-recycling)
+* [2024-05-23, 17:56:55](https://news.ycombinator.com/item?id=40457794) - [Almost 6k dead in 6 years: How Baltimore became the U.S. overdose capital](https://www.thebaltimorebanner.com/community/public-health/baltimore-opioid-overdose-capital-ZWBYWMCJ45CGNPCGAMFOE6YDGI/)
+* [2024-05-23, 17:40:20](https://news.ycombinator.com/item?id=40457631) - [Show HN: Excel to Python Compiler](https://pyoneer.ai?source=hn&utm_campaign=shn1)
 * [2024-05-23, 17:16:12](https://news.ycombinator.com/item?id=40457313) - [DNS glitch that threatened Internet stability fixed; cause remains unclear](https://arstechnica.com/security/2024/05/dns-glitch-that-threatened-internet-stability-fixed-cause-remains-unclear/)
 * [2024-05-23, 17:09:38](https://news.ycombinator.com/item?id=40457229) - [Running PHP Fast at the Edge with WebAssembly](https://wasmer.io/posts/running-php-blazingly-fast-at-the-edge-with-wasm)
 * [2024-05-23, 17:00:38](https://news.ycombinator.com/item?id=40457126) - [Memfault (YC W19) Is Hiring a Firmware Engineer in NYC/Boston (Lever.co)](https://jobs.lever.co/memfault/9fa58d3b-2415-4d80-9e5c-be989f90c2e4)
