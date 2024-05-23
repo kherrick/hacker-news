@@ -11,6 +11,7 @@
 * [2024-05-22, 20:56:20](https://news.ycombinator.com/item?id=40446433) - [Cortile – Linux auto tiling manager with hot corner support](https://github.com/leukipp/cortile)
 * [2024-05-22, 18:11:34](https://news.ycombinator.com/item?id=40444121) - [Try Clojure](https://tryclojure.org/)
 * [2024-05-22, 17:53:45](https://news.ycombinator.com/item?id=40443927) - [Show HN: Neosync – Open-Source Data Anonymization for Postgres and MySQL](https://github.com/nucleuscloud/neosync)
+* [2024-05-22, 17:53:16](https://news.ycombinator.com/item?id=40443920) - [Show HN: B-field, a novel probabilistic key-value data structure (`rust-bfield`)](https://github.com/onecodex/rust-bfield)
 * [2024-05-22, 16:05:06](https://news.ycombinator.com/item?id=40442595) - [Pluckable Strings](https://string.spiel.com/)
 * [2024-05-22, 15:07:20](https://news.ycombinator.com/item?id=40441945) - [Show HN: Route your prompts to the best LLM](https://unify.ai/chat?default=true)
 * [2024-05-22, 14:31:58](https://news.ycombinator.com/item?id=40441487) - [The push to ban ransom payments is gaining momentum](https://socket.dev/blog/the-push-to-ban-ransom-payments-is-gaining-momentum)
@@ -28,7 +29,6 @@
 * [2024-05-22, 05:31:19](https://news.ycombinator.com/item?id=40437638) - [Von Neumann's First Computer Program (1970)](https://dl.acm.org/doi/10.1145/356580.356581)
 * [2024-05-21, 10:18:00](https://news.ycombinator.com/item?id=40426453) - [Emacs used as a message router in Germany's ATC systems in the 1990s (2021)](https://www.emacswiki.org/emacs/EmacsStories)
 * [2024-05-21, 08:55:56](https://news.ycombinator.com/item?id=40425762) - [Why Are Sloths So Slow?](https://slothconservation.org/sloths-move-slow/)
-* [2024-05-21, 08:06:14](https://news.ycombinator.com/item?id=40425402) - [To the Person Sitting in Darkness (1901)](https://www.gutenberg.org/files/62636/62636-h/62636-h.htm)
 * [2024-05-21, 08:01:27](https://news.ycombinator.com/item?id=40425366) - [Ballerina: Functional programming framework for front end web development](https://github.com/giuseppemag/ballerina)
 
 ## [Archives](archives/index.md)
