@@ -72,6 +72,7 @@
 * [2024-05-22, 12:01:01](https://news.ycombinator.com/item?id=40439913) - [Plane (YC W17) is hiring product engineers (Rails/Remote/Americas)](https://www.ycombinator.com/companies/plane/jobs/6NKkoGo-senior-staff-product-engineer-americas)
 * [2024-05-22, 11:26:48](https://news.ycombinator.com/item?id=40439681) - [WebAssembly: A promising technology that is quietly being enshitified](https://kerkour.com/webassembly-wasi-preview2)
 * [2024-05-22, 11:23:20](https://news.ycombinator.com/item?id=40439654) - [Microsoft Paint's New AI Image Generator Builds on Your Brushstrokes](https://petapixel.com/2024/05/21/microsoft-paints-new-ai-image-generator-builds-on-your-brushstrokes/)
+* [2024-05-22, 11:21:16](https://news.ycombinator.com/item?id=40439641) - [A Faster SuperSplat with PWA Support](https://blog.playcanvas.com/a-faster-supersplat-with-pwa-support/)
 * [2024-05-22, 11:06:44](https://news.ycombinator.com/item?id=40439558) - [Are commercial \"third places\" a dying breed?](https://spacing.ca/toronto/2024/04/26/are-commercial-third-places-a-dying-breed/)
 * [2024-05-22, 10:59:46](https://news.ycombinator.com/item?id=40439515) - [Windows 10 wallpaper was physically built and photographed](https://gmunk.com/Windows-10-Desktop/)
 * [2024-05-22, 10:51:40](https://news.ycombinator.com/item?id=40439481) - [A comet approaching Earth could become brighter than the stars this fall](https://www.space.com/comet-tsuchinshan-atlas-fall-2024)
