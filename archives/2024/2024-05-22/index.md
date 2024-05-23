@@ -53,6 +53,7 @@
 * [2024-05-22, 14:45:48](https://news.ycombinator.com/item?id=40441650) - [TSMC EUV machines equipped with remote self-destruct in case of invasion](https://www.tomshardware.com/tech-industry/tsmcs-euv-machines-are-equipped-with-a-remote-self-destruct-in-case-of-an-invasion)
 * [2024-05-22, 14:42:37](https://news.ycombinator.com/item?id=40441602) - [Seeking the Productive Life: Some Details of My Personal Infrastructure](https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/)
 * [2024-05-22, 14:32:14](https://news.ycombinator.com/item?id=40441494) - [Teslas Can Still Be Stolen with a Cheap Radio Hack–Despite New Keyless Tech](https://www.wired.com/story/tesla-ultra-wideband-radio-relay-attacks/)
+* [2024-05-22, 14:31:58](https://news.ycombinator.com/item?id=40441487) - [The push to ban ransom payments is gaining momentum](https://socket.dev/blog/the-push-to-ban-ransom-payments-is-gaining-momentum)
 * [2024-05-22, 14:28:53](https://news.ycombinator.com/item?id=40441445) - [Simple idea cuts cargo ship emissions by 17.3% in first trials](https://newatlas.com/marine/blue-visby-cargo-emissions/)
 * [2024-05-22, 14:01:11](https://news.ycombinator.com/item?id=40441115) - [Why physicists now question the fate of the Universe](https://bigthink.com/starts-with-a-bang/physicists-question-fate-universe/)
 * [2024-05-22, 13:58:25](https://news.ycombinator.com/item?id=40441093) - [Show HN: PBT – A property-based testing library for Ruby](https://github.com/ohbarye/pbt)
