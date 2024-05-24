@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-24](index.md)
 
+* [2024-05-24, 17:58:58](https://news.ycombinator.com/item?id=40468739) - [Open-source AI projects selected by GitHub accelerator](https://github.blog/2024-05-23-2024-github-accelerator-meet-the-11-projects-shaping-open-source-ai/#giskard-the-testing-platform-for-ai-models-bringing-transparency-and-accountability)
 * [2024-05-24, 17:39:39](https://news.ycombinator.com/item?id=40468518) - [Financial Statement Analysis with Large Language Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835311)
 * [2024-05-24, 17:33:13](https://news.ycombinator.com/item?id=40468436) - [Google CEO Sundar Pichai takes a look at a sample Google search [video]](https://www.tiktok.com/@decoderpod/video/7371838707747278122)
 * [2024-05-24, 17:30:45](https://news.ycombinator.com/item?id=40468408) - [Emacs in fifty keystrokes](https://enzuru.medium.com/emacs-in-a-few-dozen-keystrokes-and-why-some-of-you-should-just-use-vim-14b9af30be70)
