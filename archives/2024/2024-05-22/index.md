@@ -94,6 +94,7 @@
 * [2024-05-22, 07:29:59](https://news.ycombinator.com/item?id=40438261) - [Electric cars more likely to hit pedestrians than petrol vehicles, study finds](https://www.theguardian.com/world/article/2024/may/21/electric-cars-more-likely-to-hit-pedestrians-than-petrol-vehicles-study-finds)
 * [2024-05-22, 07:23:34](https://news.ycombinator.com/item?id=40438231) - [How to destroy your OS with tar](https://vorakl.com/articles/tar-curdir/)
 * [2024-05-22, 06:18:52](https://news.ycombinator.com/item?id=40437865) - [Images That Sound](https://github.com/IFICL/images-that-sound)
+* [2024-05-22, 05:59:09](https://news.ycombinator.com/item?id=40437781) - [The Irrevocable SSL Certificates of Cloudflare](https://worldofmatthew.com/post/cloudflare-ssl/)
 * [2024-05-22, 05:31:30](https://news.ycombinator.com/item?id=40437641) - [Faking William Morris, Generative Forgery, and the Erosion of Art History](https://maggieappleton.com/generative-forgery)
 * [2024-05-22, 05:31:19](https://news.ycombinator.com/item?id=40437638) - [Von Neumann's First Computer Program (1970)](https://dl.acm.org/doi/10.1145/356580.356581)
 * [2024-05-22, 05:25:04](https://news.ycombinator.com/item?id=40437609) - [A transport protocol's view of Starlink](https://blog.apnic.net/2024/05/17/a-transport-protocols-view-of-starlink/)
