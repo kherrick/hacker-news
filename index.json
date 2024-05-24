@@ -1,36 +1,6 @@
 [
   [
     [
-      "2024-05-24, 21:55:01",
-      "https://news.ycombinator.com/item?id=40470806"
-    ],
-    [
-      "Giving Windows total recall of everything a user does is a privacy minefield",
-      "https://www.theregister.com/2024/05/22/windows_recall/"
-    ]
-  ],
-  [
-    [
-      "2024-05-24, 21:48:48",
-      "https://news.ycombinator.com/item?id=40470760"
-    ],
-    [
-      "Osprey Is Unsafe and Unairworthy",
-      "https://taskandpurpose.com/news/osprey-lawsuit-marines-corps-unsafe/"
-    ]
-  ],
-  [
-    [
-      "2024-05-24, 21:26:13",
-      "https://news.ycombinator.com/item?id=40470614"
-    ],
-    [
-      "The inaccessible and abandoned islands of New York – in pictures",
-      "https://www.theguardian.com/artanddesign/gallery/2024/may/24/inaccessible-abandoned-islands-new-york-in-pictures"
-    ]
-  ],
-  [
-    [
       "2024-05-24, 21:00:54",
       "https://news.ycombinator.com/item?id=40470454"
     ],
@@ -77,6 +47,16 @@
     [
       "Financial Statement Analysis with Large Language Models",
       "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835311"
+    ]
+  ],
+  [
+    [
+      "2024-05-24, 16:27:40",
+      "https://news.ycombinator.com/item?id=40467741"
+    ],
+    [
+      "A slightly more fun way to disable Windows Defender (through the WSC API)",
+      "https://github.com/es3n1n/no-defender"
     ]
   ],
   [
@@ -147,6 +127,16 @@
     [
       "Peeking underground with giant flying antennas",
       "https://hackaday.com/2024/05/21/peeking-underground-with-giant-flying-antennas/"
+    ]
+  ],
+  [
+    [
+      "2024-05-24, 12:00:26",
+      "https://news.ycombinator.com/item?id=40465259"
+    ],
+    [
+      "Low-cost shield ardEEG to measure EEG with Arduino Uno R4 WiFi",
+      "https://www.preprints.org/manuscript/202405.1643/v1"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "300k airplanes in five years",
       "https://www.construction-physics.com/p/how-to-build-300000-airplanes-in"
+    ]
+  ],
+  [
+    [
+      "2024-05-21, 10:57:35",
+      "https://news.ycombinator.com/item?id=40426720"
+    ],
+    [
+      "Regular expression functions in Excel",
+      "https://insider.microsoft365.com/en-us/blog/new-regular-expression-regex-functions-in-excel"
     ]
   ],
   [
