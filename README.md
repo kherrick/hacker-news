@@ -1,11 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-24, 12:00:30](https://news.ycombinator.com/item?id=40465260) - [Motion (YC W20) is hiring senior engineers looking for their next challenge](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
+* [2024-05-24, 12:00:26](https://news.ycombinator.com/item?id=40465259) - [Low-Cost Shield ArdEEG to Measure EEG with Arduino Uno R4 WiFi](https://www.preprints.org/manuscript/202405.1643/v1)
 * [2024-05-24, 11:48:47](https://news.ycombinator.com/item?id=40465174) - [Working Smarter, Not Harder](https://trishagee.com/2024/05/24/working-smarter-not-harder/)
-* [2024-05-24, 11:38:34](https://news.ycombinator.com/item?id=40465102) - [\"Unacceptable\": Spotify bricking Car Thing devices in Dec. without refunds](https://arstechnica.com/gadgets/2024/05/pleas-for-open-sourcing-refunds-as-spotify-plans-to-brick-car-thing-devices/)
-* [2024-05-24, 11:37:18](https://news.ycombinator.com/item?id=40465090) - [Apple's M4 Has Reportedly Adopted the ARMv9 Architecture](https://wccftech.com/apple-m4-adopts-armv9-run-complex-workloads-efficiently/)
 * [2024-05-24, 11:02:30](https://news.ycombinator.com/item?id=40464887) - [Anger Does a Lot More Damage to Your Body Than You Realize](https://www.wsj.com/health/wellness/anger-health-effects-risks-heart-brain-mental-f4105ed7)
-* [2024-05-24, 09:40:04](https://news.ycombinator.com/item?id=40464495) - [Kabosu, the Dog Behind the 'Doge' Meme, Has Died](https://www.ign.com/articles/kabosu-the-dog-behind-the-doge-meme-has-died)
 * [2024-05-24, 08:56:22](https://news.ycombinator.com/item?id=40464303) - [Lewis Carroll – computing the day of the week for any given date (1887)](https://www.futilitycloset.com/2024/05/24/day-tripper/)
 * [2024-05-24, 07:23:07](https://news.ycombinator.com/item?id=40463764) - [2D Rigid Body Collision Resolution](https://www.sassnow.ski/rigid-body-collisions/1)
 * [2024-05-24, 07:02:06](https://news.ycombinator.com/item?id=40463636) - [How to Be Obscene (1927)](https://www.newyorker.com/magazine/1927/07/02/how-to-be-obscene)
@@ -23,6 +21,7 @@
 * [2024-05-23, 12:58:09](https://news.ycombinator.com/item?id=40454136) - [300k airplanes in five years](https://www.construction-physics.com/p/how-to-build-300000-airplanes-in)
 * [2024-05-23, 11:13:28](https://news.ycombinator.com/item?id=40453221) - [BB(3, 4) > Ack(14)](https://www.sligocki.com//2024/05/22/bb-3-4-a14.html)
 * [2024-05-23, 09:52:18](https://news.ycombinator.com/item?id=40452655) - [Tom Waits vs. Frito-Lay, Inc (2003)](http://tomwaitslibrary.info/biography/copyright/frito-lay/)
+* [2024-05-23, 07:17:22](https://news.ycombinator.com/item?id=40451525) - [M2dir: Treating mails as files without going crazy](https://bitfehler.srht.site/posts/2024-04-15_m2dir-treating-mails-as-files-without-going-crazy.html)
 * [2024-05-22, 13:03:09](https://news.ycombinator.com/item?id=40440436) - [LunarML – The Standard ML compiler that produces Lua/JavaScript](https://github.com/minoki/LunarML)
 * [2024-05-22, 11:44:48](https://news.ycombinator.com/item?id=40439810) - [Why did Tom Lehrer swap fame for obscurity?](https://www.theguardian.com/music/article/2024/may/22/my-songs-spread-like-herpes-why-did-satirical-genius-tom-lehrer-swap-worldwide-fame-for-obscurity)
 * [2024-05-22, 11:18:48](https://news.ycombinator.com/item?id=40439628) - [Interview of Ben Titzer, Co-Founder of WebAssembly](https://microarch.club/episodes/1000/)
@@ -30,6 +29,7 @@
 * [2024-05-22, 09:01:40](https://news.ycombinator.com/item?id=40438894) - [Forebruary](https://ilyabirman.net/forebruary/)
 * [2024-05-22, 06:45:05](https://news.ycombinator.com/item?id=40438007) - [Go's old $GOPATH story for development and dependencies](https://utcc.utoronto.ca/~cks/space/blog/programming/GoTheGopathDevelopmentStory)
 * [2024-05-21, 10:57:35](https://news.ycombinator.com/item?id=40426720) - [New Regular expression (Regex) functions in Excel](https://insider.microsoft365.com/en-us/blog/new-regular-expression-regex-functions-in-excel)
+* [2024-05-21, 07:04:15](https://news.ycombinator.com/item?id=40425068) - [Response Filter Denial of Service (RFDoS)](https://blog.sicuranext.com/response-filter-denial-of-service-a-new-way-to-shutdown-a-website/)
 
 ## [Archives](archives/index.md)
 
