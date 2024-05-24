@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-24](index.md)
 
+* [2024-05-24, 18:25:09](https://news.ycombinator.com/item?id=40469040) - [The Student Syndrome: Delaying until right before deadlines](https://solvingprocrastination.com/student-syndrome/)
 * [2024-05-24, 18:15:58](https://news.ycombinator.com/item?id=40468933) - [Mp3tag – The Universal Tag Editor](https://www.mp3tag.de/en/)
 * [2024-05-24, 17:58:58](https://news.ycombinator.com/item?id=40468739) - [Open-source AI projects selected by GitHub accelerator](https://github.blog/2024-05-23-2024-github-accelerator-meet-the-11-projects-shaping-open-source-ai/#giskard-the-testing-platform-for-ai-models-bringing-transparency-and-accountability)
 * [2024-05-24, 17:51:32](https://news.ycombinator.com/item?id=40468653) - [How to win at Enterprise AI – A playbook](https://platforms.substack.com/p/how-to-win-at-enterprise-ai-a-playbook)
