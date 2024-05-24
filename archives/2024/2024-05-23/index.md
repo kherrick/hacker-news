@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-23](index.md)
 
+* [2024-05-23, 23:23:19](https://news.ycombinator.com/item?id=40461096) - [Dehydration associated with poorer performance on attention tasks among adults](https://onlinelibrary.wiley.com/doi/10.1002/ajhb.24051)
 * [2024-05-23, 22:28:43](https://news.ycombinator.com/item?id=40460639) - [Google says no \"African countries beginning with K\" but Kenya has a \"K sound\"](https://twitter.com/edzitron/status/1793751541394145771)
 * [2024-05-23, 22:15:20](https://news.ycombinator.com/item?id=40460528) - [Ask HN: What makes Windows 11 perform much worse than Windows XP?](https://news.ycombinator.com/item?id=40460528)
 * [2024-05-23, 21:00:38](https://news.ycombinator.com/item?id=40459848) - [Checkr (YC S14) is hiring a staff software engineer for its new bet, Checkr Pay](https://www.ycombinator.com/companies/checkr/jobs/ixzdle1-staff-software-engineer-checkr-pay)

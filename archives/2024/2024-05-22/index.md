@@ -90,6 +90,7 @@
 * [2024-05-22, 08:08:26](https://news.ycombinator.com/item?id=40438510) - [Number 16 (Spider)](https://en.wikipedia.org/wiki/Number_16_(spider))
 * [2024-05-22, 07:56:43](https://news.ycombinator.com/item?id=40438434) - [Psion 5mx Emulator](https://wuffs.org/WindEmu/index.html)
 * [2024-05-22, 07:29:59](https://news.ycombinator.com/item?id=40438261) - [Electric cars more likely to hit pedestrians than petrol vehicles, study finds](https://www.theguardian.com/world/article/2024/may/21/electric-cars-more-likely-to-hit-pedestrians-than-petrol-vehicles-study-finds)
+* [2024-05-22, 07:23:34](https://news.ycombinator.com/item?id=40438231) - [How to destroy your OS with tar](https://vorakl.com/articles/tar-curdir/)
 * [2024-05-22, 06:18:52](https://news.ycombinator.com/item?id=40437865) - [Images That Sound](https://github.com/IFICL/images-that-sound)
 * [2024-05-22, 05:31:30](https://news.ycombinator.com/item?id=40437641) - [Faking William Morris, Generative Forgery, and the Erosion of Art History](https://maggieappleton.com/generative-forgery)
 * [2024-05-22, 05:31:19](https://news.ycombinator.com/item?id=40437638) - [Von Neumann's First Computer Program (1970)](https://dl.acm.org/doi/10.1145/356580.356581)

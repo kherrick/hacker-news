@@ -1,14 +1,15 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-23, 22:15:20](https://news.ycombinator.com/item?id=40460528) - [Ask HN: What makes Windows 11 perform much worse than Windows XP?](https://news.ycombinator.com/item?id=40460528)
-* [2024-05-23, 21:00:38](https://news.ycombinator.com/item?id=40459848) - [Checkr (YC S14) is hiring a staff software engineer for Checkr Pay](https://www.ycombinator.com/companies/checkr/jobs/ixzdle1-staff-software-engineer-checkr-pay)
+* [2024-05-24, 01:00:38](https://news.ycombinator.com/item?id=40461790) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=40461790)
+* [2024-05-24, 00:30:20](https://news.ycombinator.com/item?id=40461580) - [Google's AI-Generated Search Results Keep Citing The Onion](https://www.readtpa.com/p/googles-ai-generated-search-results-9e1)
+* [2024-05-24, 00:14:06](https://news.ycombinator.com/item?id=40461489) - [Atlantic hurricane season will be 'extraordinary,' forecasters warn](https://www.npr.org/2024/05/23/1251003581/2024-atlantic-hurricane-season-noaa-forecast)
+* [2024-05-23, 23:23:19](https://news.ycombinator.com/item?id=40461096) - [Dehydration associated with poorer performance on attention tasks among adults](https://onlinelibrary.wiley.com/doi/10.1002/ajhb.24051)
 * [2024-05-23, 19:38:10](https://news.ycombinator.com/item?id=40458964) - [FTX bankruptcy examiner's report [pdf]](https://restructuring.ra.kroll.com/FTX/Home-DownloadPDF?id1=MzExMDk4OQ==&id2=-1)
 * [2024-05-23, 19:33:30](https://news.ycombinator.com/item?id=40458923) - [Show HN: Open-Source Real Time Data Framework for LLM Applications](https://getindexify.ai)
 * [2024-05-23, 19:25:02](https://news.ycombinator.com/item?id=40458846) - [A connection between the northern lights and Hubble's death](https://bigthink.com/starts-with-a-bang/northern-lights-hubble/)
 * [2024-05-23, 19:09:42](https://news.ycombinator.com/item?id=40458686) - [US Army researched the health effects of radioactivity in St Louis 1945-1970 (2011)](https://mospace.umsystem.edu/xmlui/handle/10355/13170)
 * [2024-05-23, 19:07:53](https://news.ycombinator.com/item?id=40458655) - [Act on Press](https://twitter.com/ID_AA_Carmack/status/1787850053912064005)
 * [2024-05-23, 18:03:31](https://news.ycombinator.com/item?id=40457856) - [Cement recycling method could help solve one of the big climate challenges](https://www.cam.ac.uk/stories/cement-recycling)
-* [2024-05-23, 17:09:38](https://news.ycombinator.com/item?id=40457229) - [Running PHP fast at the edge with WebAssembly](https://wasmer.io/posts/running-php-blazingly-fast-at-the-edge-with-wasm)
 * [2024-05-23, 16:47:00](https://news.ycombinator.com/item?id=40456959) - [Show HN: Porter Cloud – PaaS with an eject button](https://news.ycombinator.com/item?id=40456959)
 * [2024-05-23, 16:38:25](https://news.ycombinator.com/item?id=40456834) - [Daylight Computer – New 60fps e-paper tablet](https://daylightcomputer.com/product)
 * [2024-05-23, 15:41:56](https://news.ycombinator.com/item?id=40456114) - [SOAR-ing Away with Smalltalk: Berkeley RISC-III](https://thechipletter.substack.com/p/soar-ing-away-with-smalltalk-berkeley)
@@ -28,8 +29,7 @@
 * [2024-05-23, 07:17:22](https://news.ycombinator.com/item?id=40451525) - [M2dir: Treating mails as files without going crazy](https://bitfehler.srht.site/posts/2024-04-15_m2dir-treating-mails-as-files-without-going-crazy.html)
 * [2024-05-23, 02:34:14](https://news.ycombinator.com/item?id=40449767) - [WinDirStat – Windows Directory Statistics](https://windirstat.net/)
 * [2024-05-22, 11:44:48](https://news.ycombinator.com/item?id=40439810) - [Why did Tom Lehrer swap fame for obscurity?](https://www.theguardian.com/music/article/2024/may/22/my-songs-spread-like-herpes-why-did-satirical-genius-tom-lehrer-swap-worldwide-fame-for-obscurity)
-* [2024-05-21, 10:12:24](https://news.ycombinator.com/item?id=40426417) - [Seaweed, Fashion, and the Mermaids](https://worldsensorium.com/seaweed-fashion-and-the-mermaids/)
-* [2024-05-21, 05:17:20](https://news.ycombinator.com/item?id=40424430) - [How the Soon-to-Reopen Folger Shakespeare Library Came to Be](https://www.smithsonianmag.com/arts-culture/how-soon-reopen-folger-shakespeare-library-came-be-180984291/)
+* [2024-05-22, 07:23:34](https://news.ycombinator.com/item?id=40438231) - [How to destroy your OS with tar](https://vorakl.com/articles/tar-curdir/)
 
 ## [Archives](archives/index.md)
 
