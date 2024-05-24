@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-05-24, 06:20:56",
-      "https://news.ycombinator.com/item?id=40463383"
+      "2024-05-24, 07:01:28",
+      "https://news.ycombinator.com/item?id=40463633"
     ],
     [
-      "Almost 30% of Americans Say College Not Worth It in Pew Poll",
-      "https://www.bloomberg.com/news/articles/2024-05-23/almost-30-of-americans-say-college-not-worth-it-in-pew-poll"
+      "Bloop (YC S21) Is Hiring AI Engineers. Devin for Legacy Code (London, Onsite)",
+      "https://www.ycombinator.com/companies/bloop/jobs/iCrEllp-applied-ai-software-engineer"
     ]
   ],
   [
@@ -31,22 +31,22 @@
   ],
   [
     [
+      "2024-05-24, 02:12:58",
+      "https://news.ycombinator.com/item?id=40462215"
+    ],
+    [
+      "Binarize CLIP for Multimodal Applications",
+      "https://www.marqo.ai/blog/learn-to-binarize-clip-for-multimodal-retrieval-and-ranking"
+    ]
+  ],
+  [
+    [
       "2024-05-23, 21:47:21",
       "https://news.ycombinator.com/item?id=40460296"
     ],
     [
       "CSharpRepl: C# REPL with syntax highlighting and intellisense",
       "https://fuqua.io/CSharpRepl/"
-    ]
-  ],
-  [
-    [
-      "2024-05-23, 21:00:38",
-      "https://news.ycombinator.com/item?id=40459848"
-    ],
-    [
-      "Checkr (YC S14) is hiring a staff software engineer for Checkr Pay",
-      "https://www.ycombinator.com/companies/checkr/jobs/ixzdle1-staff-software-engineer-checkr-pay"
     ]
   ],
   [
@@ -67,16 +67,6 @@
     [
       "Retired detective: We got it wrong in Robert Roberson's death penalty case",
       "https://www.dallasnews.com/opinion/commentary/2024/05/23/retired-detective-we-got-it-wrong-in-robert-robersons-death-penalty-case/"
-    ]
-  ],
-  [
-    [
-      "2024-05-23, 19:07:53",
-      "https://news.ycombinator.com/item?id=40458655"
-    ],
-    [
-      "Act on Press",
-      "https://twitter.com/ID_AA_Carmack/status/1787850053912064005"
     ]
   ],
   [
@@ -157,6 +147,16 @@
     [
       "Amber: A code search and replace tool",
       "https://github.com/dalance/amber"
+    ]
+  ],
+  [
+    [
+      "2024-05-23, 14:40:58",
+      "https://news.ycombinator.com/item?id=40455328"
+    ],
+    [
+      "Bytehound: Memory Profiler for Linux",
+      "https://github.com/koute/bytehound"
     ]
   ],
   [
