@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-24, 12:33:21](https://news.ycombinator.com/item?id=40465529) - [Spyware found on US hotel check-in computers](https://techcrunch.com/2024/05/22/spyware-found-on-hotel-check-in-computers/)
 * [2024-05-24, 12:00:30](https://news.ycombinator.com/item?id=40465260) - [Motion (YC W20) is hiring senior engineers looking for their next challenge](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2024-05-24, 12:00:26](https://news.ycombinator.com/item?id=40465259) - [Low-Cost Shield ArdEEG to Measure EEG with Arduino Uno R4 WiFi](https://www.preprints.org/manuscript/202405.1643/v1)
 * [2024-05-24, 11:02:30](https://news.ycombinator.com/item?id=40464887) - [Anger Does a Lot More Damage to Your Body Than You Realize](https://www.wsj.com/health/wellness/anger-health-effects-risks-heart-brain-mental-f4105ed7)
+* [2024-05-24, 09:54:59](https://news.ycombinator.com/item?id=40464558) - [Voxel Displacement Renderer – Modernizing the Retro 3D Aesthetic](https://blog.danielschroeder.me/2024/05/voxel-displacement-modernizing-retro-3d/)
 * [2024-05-24, 08:56:22](https://news.ycombinator.com/item?id=40464303) - [Lewis Carroll – computing the day of the week for any given date (1887)](https://www.futilitycloset.com/2024/05/24/day-tripper/)
 * [2024-05-24, 07:23:07](https://news.ycombinator.com/item?id=40463764) - [2D Rigid Body Collision Resolution](https://www.sassnow.ski/rigid-body-collisions/1)
 * [2024-05-24, 02:49:44](https://news.ycombinator.com/item?id=40462369) - [Perplexica: Open-Source Perplexity Alternative](https://github.com/ItzCrazyKns/Perplexica)
