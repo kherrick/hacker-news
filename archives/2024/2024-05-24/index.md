@@ -6,6 +6,7 @@
 
 * [2024-05-24, 18:15:58](https://news.ycombinator.com/item?id=40468933) - [Mp3tag – The Universal Tag Editor](https://www.mp3tag.de/en/)
 * [2024-05-24, 17:58:58](https://news.ycombinator.com/item?id=40468739) - [Open-source AI projects selected by GitHub accelerator](https://github.blog/2024-05-23-2024-github-accelerator-meet-the-11-projects-shaping-open-source-ai/#giskard-the-testing-platform-for-ai-models-bringing-transparency-and-accountability)
+* [2024-05-24, 17:51:32](https://news.ycombinator.com/item?id=40468653) - [How to win at Enterprise AI – A playbook](https://platforms.substack.com/p/how-to-win-at-enterprise-ai-a-playbook)
 * [2024-05-24, 17:39:39](https://news.ycombinator.com/item?id=40468518) - [Financial Statement Analysis with Large Language Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835311)
 * [2024-05-24, 17:33:13](https://news.ycombinator.com/item?id=40468436) - [Google CEO Sundar Pichai takes a look at a sample Google search [video]](https://www.tiktok.com/@decoderpod/video/7371838707747278122)
 * [2024-05-24, 17:30:45](https://news.ycombinator.com/item?id=40468408) - [Emacs in fifty keystrokes](https://enzuru.medium.com/emacs-in-a-few-dozen-keystrokes-and-why-some-of-you-should-just-use-vim-14b9af30be70)
@@ -15,6 +16,7 @@
 * [2024-05-24, 16:44:00](https://news.ycombinator.com/item?id=40467934) - [Self-hosting keeps your private data out of AI models](https://blog.zulip.com/2024/05/23/self-hosting-keeps-your-private-data-out-of-ai-models/)
 * [2024-05-24, 16:27:40](https://news.ycombinator.com/item?id=40467741) - [A slightly more fun way to disable windows defender. (through the WSC API)](https://github.com/es3n1n/no-defender)
 * [2024-05-24, 16:16:37](https://news.ycombinator.com/item?id=40467625) - [ICQ will stop working from June 26](https://icq.com/desktop/en#windows)
+* [2024-05-24, 15:55:38](https://news.ycombinator.com/item?id=40467426) - [LANL Achieves Yottabyte-Scale Data Compression in Neutron Transport Equations](https://www.hpcwire.com/off-the-wire/los-alamos-achieves-yottabyte-scale-data-compression-in-neutron-transport-equations/)
 * [2024-05-24, 15:54:39](https://news.ycombinator.com/item?id=40467419) - [RAG, fine-tuning, API calling and gptscript for Llama 3 running locally](https://github.com/helixml/helix/releases/tag/0.9.1)
 * [2024-05-24, 15:51:50](https://news.ycombinator.com/item?id=40467393) - [Morgan Spurlock, filmmaker behind 'Super Size Me' documentary, dies from cancer](https://abcnews.go.com/US/morgan-spurlock-filmmaker-super-size-documentary-dies-cancer/story?id=110534964)
 * [2024-05-24, 15:41:22](https://news.ycombinator.com/item?id=40467297) - [Writing a Unix clone in about a month](https://drewdevault.com/2024/05/24/2024-05-24-Bunnix.html)
