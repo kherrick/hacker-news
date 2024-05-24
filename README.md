@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-24, 02:49:44](https://news.ycombinator.com/item?id=40462369) - [Perplexica: Open-Source Perplexity Alternative](https://github.com/ItzCrazyKns/Perplexica)
-* [2024-05-23, 23:23:19](https://news.ycombinator.com/item?id=40461096) - [Dehydration associated with poorer performance on attention tasks among adults](https://onlinelibrary.wiley.com/doi/10.1002/ajhb.24051)
 * [2024-05-23, 21:47:21](https://news.ycombinator.com/item?id=40460296) - [CSharpRepl: C# REPL with syntax highlighting and intellisense](https://fuqua.io/CSharpRepl/)
 * [2024-05-23, 21:00:38](https://news.ycombinator.com/item?id=40459848) - [Checkr (YC S14) is hiring a staff software engineer for Checkr Pay](https://www.ycombinator.com/companies/checkr/jobs/ixzdle1-staff-software-engineer-checkr-pay)
 * [2024-05-23, 19:33:30](https://news.ycombinator.com/item?id=40458923) - [Show HN: Open-source real time data framework for LLM applications](https://getindexify.ai)
 * [2024-05-23, 19:09:42](https://news.ycombinator.com/item?id=40458686) - [US Army researched the health effects of radioactivity in St Louis 1945-1970 (2011)](https://mospace.umsystem.edu/xmlui/handle/10355/13170)
 * [2024-05-23, 19:08:29](https://news.ycombinator.com/item?id=40458662) - [Retired detective: We got it wrong in Robert Roberson's death penalty case](https://www.dallasnews.com/opinion/commentary/2024/05/23/retired-detective-we-got-it-wrong-in-robert-robersons-death-penalty-case/)
+* [2024-05-23, 19:07:53](https://news.ycombinator.com/item?id=40458655) - [Act on Press](https://twitter.com/ID_AA_Carmack/status/1787850053912064005)
 * [2024-05-23, 18:03:31](https://news.ycombinator.com/item?id=40457856) - [Cement recycling method could help solve one of the big climate challenges](https://www.cam.ac.uk/stories/cement-recycling)
 * [2024-05-23, 16:47:00](https://news.ycombinator.com/item?id=40456959) - [Show HN: Porter Cloud – PaaS with an eject button](https://news.ycombinator.com/item?id=40456959)
 * [2024-05-23, 16:38:25](https://news.ycombinator.com/item?id=40456834) - [Daylight Computer – New 60fps e-paper tablet](https://daylightcomputer.com/product)
