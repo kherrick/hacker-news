@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-24](index.md)
 
+* [2024-05-24, 11:23:47](https://news.ycombinator.com/item?id=40465001) - [The Washington Post Tells Staff It's Pivoting to AI](https://futurism.com/washington-post-pivot-ai)
 * [2024-05-24, 10:10:04](https://news.ycombinator.com/item?id=40464618) - [Kabosu, the dog behind the 'doge' internet meme, has died](https://www.nbcnews.com/news/world/kabosu-dog-doge-internet-meme-died-rcna4472)
+* [2024-05-24, 10:01:43](https://news.ycombinator.com/item?id=40464583) - [FAA reveals flaw in Boeing 777 that could result in fuel tank exploding](https://nypost.com/2024/05/22/us-news/boeing-777-plane-fuel-tanks-could-explode-due-to-electrical-flaw/)
 * [2024-05-24, 09:40:04](https://news.ycombinator.com/item?id=40464495) - [Kabosu, the Dog Behind the 'Doge' Meme, Has Died](https://www.ign.com/articles/kabosu-the-dog-behind-the-doge-meme-has-died)
 * [2024-05-24, 09:39:39](https://news.ycombinator.com/item?id=40464490) - [Shiba Inu which inspired the 'doge' meme and became face of Dogecoin has died](https://news.sky.com/story/kabosu-dies-shiba-inu-which-inspired-the-doge-meme-and-became-face-of-dogecoin-has-died-12895009)
 * [2024-05-24, 08:56:22](https://news.ycombinator.com/item?id=40464303) - [Lewis Carroll – computing the day of the week for any given date (1887)](https://www.futilitycloset.com/2024/05/24/day-tripper/)
