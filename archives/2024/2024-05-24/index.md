@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-24](index.md)
 
+* [2024-05-24, 14:43:15](https://news.ycombinator.com/item?id=40466763) - [How to Move from Redis to Valkey](https://fedoramagazine.org/how-to-move-from-redis-to-valkey/)
 * [2024-05-24, 14:23:20](https://news.ycombinator.com/item?id=40466574) - [RAG 2.0](https://contextual.ai/introducing-rag2/)
 * [2024-05-24, 14:07:38](https://news.ycombinator.com/item?id=40466429) - [Super Size Me director Morgan Spurlock dies aged 53](https://www.theguardian.com/film/article/2024/may/24/super-size-me-director-morgan-spurlock-dies-aged-53)
 * [2024-05-24, 13:42:08](https://news.ycombinator.com/item?id=40466194) - [County sheriffs wield lethal power, face little accountability](https://www.cbsnews.com/news/county-sheriffs-deaths-accountability/)

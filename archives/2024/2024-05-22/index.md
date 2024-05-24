@@ -85,6 +85,7 @@
 * [2024-05-22, 10:46:09](https://news.ycombinator.com/item?id=40439443) - [Sorry, iPads](https://therectangle.substack.com/p/sorry-ipad)
 * [2024-05-22, 10:38:40](https://news.ycombinator.com/item?id=40439404) - [Growing a Bootie](https://wingolog.org/archives/2024/05/22/growing-a-bootie)
 * [2024-05-22, 10:33:15](https://news.ycombinator.com/item?id=40439379) - [Viral DNA in the human genome linked to major psychiatric disorders](https://medicalxpress.com/news/2024-05-ancient-viral-dna-human-genome.html)
+* [2024-05-22, 10:26:30](https://news.ycombinator.com/item?id=40439327) - [Rediscovering Literacy (2012)](https://www.ribbonfarm.com/2012/05/03/rediscovering-literacy/)
 * [2024-05-22, 10:23:44](https://news.ycombinator.com/item?id=40439314) - [Autonomous AI Robot Creates a Shock-Absorbing Shape No Human Ever Could](https://scitechdaily.com/crushing-it-autonomous-ai-robot-creates-a-shock-absorbing-shape-no-human-ever-could/)
 * [2024-05-22, 09:44:47](https://news.ycombinator.com/item?id=40439126) - [Norway, along with Ireland and Spain, to recognise Palestinian state](https://www.reuters.com/world/norway-recognise-palestinian-state-nrk-aftenposten-report-2024-05-22/)
 * [2024-05-22, 09:12:13](https://news.ycombinator.com/item?id=40438960) - [How and why to make a /now page on your site](https://sive.rs/now2)
