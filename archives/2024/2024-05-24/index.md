@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-24](index.md)
 
 * [2024-05-24, 02:52:41](https://news.ycombinator.com/item?id=40462382) - [New MacBook Setup](https://hire.jonasgalvez.com.br/2024/may/23/macbook-setup/)
+* [2024-05-24, 02:49:44](https://news.ycombinator.com/item?id=40462369) - [Perplexica: Open-Source Perplexity Alternative](https://github.com/ItzCrazyKns/Perplexica)
 * [2024-05-24, 02:41:51](https://news.ycombinator.com/item?id=40462340) - [Google AI search feature suggested using glue to keep cheese sticking to a pizza](https://www.businessinsider.com/google-search-ai-overviews-glue-keep-cheese-pizza-2024-5)
 * [2024-05-24, 02:12:58](https://news.ycombinator.com/item?id=40462215) - [Binarize CLIP for Multimodal Applications](https://www.marqo.ai/blog/learn-to-binarize-clip-for-multimodal-retrieval-and-ranking)
 * [2024-05-24, 01:36:19](https://news.ycombinator.com/item?id=40462010) - [African Americans Have the Highest Rate of Fire Deaths and Injuries (2021)](https://www.cpsc.gov/Newsroom/News-Releases/2022/Learn-the-Sounds-of-Fire-Safety-to-Avoid-Danger-African-Americans-Have-the-Highest-Rate-of-Fire-Deaths-and-Injuries)

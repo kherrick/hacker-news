@@ -15,6 +15,7 @@
 * [2024-05-23, 19:25:02](https://news.ycombinator.com/item?id=40458846) - [A connection between the northern lights and Hubble's death](https://bigthink.com/starts-with-a-bang/northern-lights-hubble/)
 * [2024-05-23, 19:16:12](https://news.ycombinator.com/item?id=40458766) - [Wi-Fi devices set to become object sensors by 2024 via IEEE 802.11bf standard](https://www.theregister.com/2021/03/31/wifi_devices_monitoring/)
 * [2024-05-23, 19:09:42](https://news.ycombinator.com/item?id=40458686) - [US Army researched the health effects of radioactivity in St Louis 1945-1970](https://mospace.umsystem.edu/xmlui/handle/10355/13170)
+* [2024-05-23, 19:08:29](https://news.ycombinator.com/item?id=40458662) - [Retired detective: We got it wrong in Robert Roberson's death penalty case](https://www.dallasnews.com/opinion/commentary/2024/05/23/retired-detective-we-got-it-wrong-in-robert-robersons-death-penalty-case/)
 * [2024-05-23, 19:07:53](https://news.ycombinator.com/item?id=40458655) - [Act on Press](https://twitter.com/ID_AA_Carmack/status/1787850053912064005)
 * [2024-05-23, 19:05:53](https://news.ycombinator.com/item?id=40458617) - [Fossil fuels could have been left in the dust 25 years ago](https://timharford.com/2024/05/fossil-fuels-could-have-been-left-in-the-dust-25-years-ago/)
 * [2024-05-23, 19:03:49](https://news.ycombinator.com/item?id=40458583) - [Type safety does not matter](https://www.fpcomplete.com/blog/type-safety-doesnt-matter/)
