@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-24](index.md)
 
 * [2024-05-24, 19:20:56](https://news.ycombinator.com/item?id=40469606) - [Google AI: People should eat at least one small rock a day](https://mastodon.social/@danielnazer/112492966707079287#.)
+* [2024-05-24, 19:19:31](https://news.ycombinator.com/item?id=40469592) - [Show HN: Spot – Simple, cross-platform, reactive desktop GUI toolkit for Go](https://github.com/roblillack/spot)
 * [2024-05-24, 19:08:43](https://news.ycombinator.com/item?id=40469487) - [Criminal record database of Americans dumped online](https://www.malwarebytes.com/blog/news/2024/05/criminal-record-database-of-millions-of-americans-dumped-online)
 * [2024-05-24, 18:34:03](https://news.ycombinator.com/item?id=40469126) - [Can I use gasoline to cook spaghetti faster?](https://mastodon.social/@JoeUchill/112493317168967705)
 * [2024-05-24, 18:25:09](https://news.ycombinator.com/item?id=40469040) - [The Student Syndrome: Delaying until right before deadlines](https://solvingprocrastination.com/student-syndrome/)
