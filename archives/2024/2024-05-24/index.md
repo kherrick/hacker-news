@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-24](index.md)
 
+* [2024-05-24, 21:21:24](https://news.ycombinator.com/item?id=40470580) - [Startups on hard mode: Oxide. Part 1: Hardware](https://newsletter.pragmaticengineer.com/p/oxide)
 * [2024-05-24, 21:00:54](https://news.ycombinator.com/item?id=40470454) - [Freshpaint (YC S19) is hiring software engineers to protect patient privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 * [2024-05-24, 19:33:36](https://news.ycombinator.com/item?id=40469711) - [Ian Clarke Explains the Next Generation of Freenet [video]](https://www.youtube.com/watch?v=yBtyNIqZios)
 * [2024-05-24, 19:20:56](https://news.ycombinator.com/item?id=40469606) - [Google AI: People should eat at least one small rock a day](https://mastodon.social/@danielnazer/112492966707079287#.)
