@@ -6,6 +6,7 @@
 
 * [2024-05-24, 22:49:38](https://news.ycombinator.com/item?id=40471172) - [Another US state repeals law that protected ISPs from municipal competition](https://arstechnica.com/tech-policy/2024/05/another-us-state-repeals-law-that-protected-isps-from-municipal-competition/)
 * [2024-05-24, 22:29:06](https://news.ycombinator.com/item?id=40471060) - [Google's AI Overviews is being laughed at by the CEO of search rival Perplexity](https://www.businessinsider.com/google-ai-overviews-laughed-at-ceo-perplexity-pizza-glue-2024-5)
+* [2024-05-24, 22:28:44](https://news.ycombinator.com/item?id=40471058) - [Feds add nine more incidents to Waymo robotaxi investigation](https://techcrunch.com/2024/05/24/feds-add-nine-more-incidents-to-waymo-robotaxi-investigation/)
 * [2024-05-24, 21:55:01](https://news.ycombinator.com/item?id=40470806) - [Giving Windows total recall of everything a user does is a privacy minefield](https://www.theregister.com/2024/05/22/windows_recall/)
 * [2024-05-24, 21:26:13](https://news.ycombinator.com/item?id=40470614) - [The inaccessible and abandoned islands of New York – in pictures](https://www.theguardian.com/artanddesign/gallery/2024/may/24/inaccessible-abandoned-islands-new-york-in-pictures)
 * [2024-05-24, 21:21:24](https://news.ycombinator.com/item?id=40470580) - [Startups on hard mode: Oxide. Part 1: Hardware](https://newsletter.pragmaticengineer.com/p/oxide)
