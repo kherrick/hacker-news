@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-24](index.md)
 
+* [2024-05-24, 19:33:36](https://news.ycombinator.com/item?id=40469711) - [Ian Clarke Explains the Next Generation of Freenet [video]](https://www.youtube.com/watch?v=yBtyNIqZios)
 * [2024-05-24, 19:20:56](https://news.ycombinator.com/item?id=40469606) - [Google AI: People should eat at least one small rock a day](https://mastodon.social/@danielnazer/112492966707079287#.)
 * [2024-05-24, 19:19:31](https://news.ycombinator.com/item?id=40469592) - [Show HN: Spot – Simple, cross-platform, reactive desktop GUI toolkit for Go](https://github.com/roblillack/spot)
 * [2024-05-24, 19:08:43](https://news.ycombinator.com/item?id=40469487) - [Criminal record database of Americans dumped online](https://www.malwarebytes.com/blog/news/2024/05/criminal-record-database-of-millions-of-americans-dumped-online)
