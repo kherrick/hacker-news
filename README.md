@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-24, 02:52:41](https://news.ycombinator.com/item?id=40462382) - [New MacBook Setup](https://hire.jonasgalvez.com.br/2024/may/23/macbook-setup/)
 * [2024-05-24, 02:41:51](https://news.ycombinator.com/item?id=40462340) - [Google AI search feature suggested using glue to keep cheese sticking to a pizza](https://www.businessinsider.com/google-search-ai-overviews-glue-keep-cheese-pizza-2024-5)
 * [2024-05-24, 02:12:58](https://news.ycombinator.com/item?id=40462215) - [Binarize CLIP for Multimodal Applications](https://www.marqo.ai/blog/learn-to-binarize-clip-for-multimodal-retrieval-and-ranking)
 * [2024-05-23, 23:23:19](https://news.ycombinator.com/item?id=40461096) - [Dehydration associated with poorer performance on attention tasks among adults](https://onlinelibrary.wiley.com/doi/10.1002/ajhb.24051)
@@ -8,6 +7,7 @@
 * [2024-05-23, 21:00:38](https://news.ycombinator.com/item?id=40459848) - [Checkr (YC S14) is hiring a staff software engineer for Checkr Pay](https://www.ycombinator.com/companies/checkr/jobs/ixzdle1-staff-software-engineer-checkr-pay)
 * [2024-05-23, 19:33:30](https://news.ycombinator.com/item?id=40458923) - [Show HN: Open-source real time data framework for LLM applications](https://getindexify.ai)
 * [2024-05-23, 19:09:42](https://news.ycombinator.com/item?id=40458686) - [US Army researched the health effects of radioactivity in St Louis 1945-1970 (2011)](https://mospace.umsystem.edu/xmlui/handle/10355/13170)
+* [2024-05-23, 19:07:53](https://news.ycombinator.com/item?id=40458655) - [Act on Press](https://twitter.com/ID_AA_Carmack/status/1787850053912064005)
 * [2024-05-23, 18:03:31](https://news.ycombinator.com/item?id=40457856) - [Cement recycling method could help solve one of the big climate challenges](https://www.cam.ac.uk/stories/cement-recycling)
 * [2024-05-23, 16:47:00](https://news.ycombinator.com/item?id=40456959) - [Show HN: Porter Cloud – PaaS with an eject button](https://news.ycombinator.com/item?id=40456959)
 * [2024-05-23, 16:38:25](https://news.ycombinator.com/item?id=40456834) - [Daylight Computer – New 60fps e-paper tablet](https://daylightcomputer.com/product)
@@ -29,7 +29,7 @@
 * [2024-05-22, 09:01:40](https://news.ycombinator.com/item?id=40438894) - [Forebruary](https://ilyabirman.net/forebruary/)
 * [2024-05-22, 08:50:41](https://news.ycombinator.com/item?id=40438834) - [Things to avoid in Ruby](https://blog.appsignal.com/2024/05/22/five-things-to-avoid-in-ruby.html)
 * [2024-05-22, 07:23:34](https://news.ycombinator.com/item?id=40438231) - [How to destroy your OS with tar](https://vorakl.com/articles/tar-curdir/)
-* [2024-05-21, 05:17:20](https://news.ycombinator.com/item?id=40424430) - [How the soon-to-reopen Folger Shakespeare Library came to be](https://www.smithsonianmag.com/arts-culture/how-soon-reopen-folger-shakespeare-library-came-be-180984291/)
+* [2024-05-21, 11:13:13](https://news.ycombinator.com/item?id=40426842) - [One Dead After London-Singapore Flight Hit by Turbulence](https://www.bloomberg.com/news/articles/2024-05-21/singapore-air-flight-makes-emergency-landing-in-bangkok-1-dead)
 
 ## [Archives](archives/index.md)
 
