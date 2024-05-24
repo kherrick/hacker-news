@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-24](index.md)
 
 * [2024-05-24, 07:23:07](https://news.ycombinator.com/item?id=40463764) - [2D Rigid Body Collision Resolution](https://www.sassnow.ski/rigid-body-collisions/1)
+* [2024-05-24, 07:02:06](https://news.ycombinator.com/item?id=40463636) - [How to Be Obscene (1927)](https://www.newyorker.com/magazine/1927/07/02/how-to-be-obscene)
 * [2024-05-24, 07:01:28](https://news.ycombinator.com/item?id=40463633) - [Bloop (YC S21) Is Hiring AI Engineers. Devin for Legacy Code (London, Onsite)](https://www.ycombinator.com/companies/bloop/jobs/iCrEllp-applied-ai-software-engineer)
 * [2024-05-24, 06:20:56](https://news.ycombinator.com/item?id=40463383) - [Almost 30% of Americans Say College Not Worth It in Pew Poll](https://www.bloomberg.com/news/articles/2024-05-23/almost-30-of-americans-say-college-not-worth-it-in-pew-poll)
 * [2024-05-24, 05:17:08](https://news.ycombinator.com/item?id=40463029) - [Scrum's Built-In 'Get Out of Jail Free Card' Against Criticism](https://mdalmijn.com/p/scrums-built-in-get-out-of-jail-free)
