@@ -4,7 +4,7 @@
 * [2024-05-24, 14:54:25](https://news.ycombinator.com/item?id=40466868) - [We Shift Testing Left: A Software Dev Cycle That Doesn't Scale](https://thenewstack.io/why-we-shift-testing-left-a-software-dev-cycle-that-doesnt-scale/)
 * [2024-05-24, 14:12:32](https://news.ycombinator.com/item?id=40466478) - [Cosmic Glitch: Scientists Discover an Anomaly in the Universe's Gravity](https://www.businessinsider.com/cosmic-glitch-makes-scientists-rethink-einstein-greatest-theory-2024-5)
 * [2024-05-24, 14:12:01](https://news.ycombinator.com/item?id=40466469) - [Move Over, Tractor–The Farmer Wants a Crop-Spraying Drone](https://spectrum.ieee.org/arthur-erickson-drones-profile)
-* [2024-05-24, 13:04:24](https://news.ycombinator.com/item?id=40465803) - [Spot: Reactive, cross-platform desktop GUI toolkit for Go](https://github.com/roblillack/spot)
+* [2024-05-24, 13:53:56](https://news.ycombinator.com/item?id=40466282) - [Thomas Midgley Jr.: The man who almost destroyed the planet (twice)](https://www.cnn.com/2024/05/24/world/thomas-midgley-jr-leaded-gas-freon-scn/index.html)
 * [2024-05-24, 12:00:30](https://news.ycombinator.com/item?id=40465260) - [Motion (YC W20) is hiring senior engineers looking for their next challenge](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2024-05-24, 12:00:26](https://news.ycombinator.com/item?id=40465259) - [Low-Cost Shield ArdEEG to Measure EEG with Arduino Uno R4 WiFi](https://www.preprints.org/manuscript/202405.1643/v1)
 * [2024-05-24, 09:54:59](https://news.ycombinator.com/item?id=40464558) - [Voxel Displacement Renderer – Modernizing the Retro 3D Aesthetic](https://blog.danielschroeder.me/2024/05/voxel-displacement-modernizing-retro-3d/)
