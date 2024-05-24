@@ -7,6 +7,7 @@
 * [2024-05-24, 17:15:11](https://news.ycombinator.com/item?id=40468280) - [Do Not Mess with Scarlett Johansson](https://thezvi.substack.com/p/do-not-mess-with-scarlett-johansson)
 * [2024-05-24, 17:10:53](https://news.ycombinator.com/item?id=40468230) - [Google Search Is Now a Giant Hallucination](https://gizmodo.com/google-search-ai-overview-giant-hallucination-1851499031)
 * [2024-05-24, 17:00:52](https://news.ycombinator.com/item?id=40468113) - [Flexport is hiring an OR/ML guru to optimize global trade routing](https://boards.greenhouse.io/flexport/jobs/5806177?gh_jid=5806177)
+* [2024-05-24, 16:44:00](https://news.ycombinator.com/item?id=40467934) - [Self-hosting keeps your private data out of AI models](https://blog.zulip.com/2024/05/23/self-hosting-keeps-your-private-data-out-of-ai-models/)
 * [2024-05-24, 16:27:40](https://news.ycombinator.com/item?id=40467741) - [A slightly more fun way to disable windows defender. (through the WSC API)](https://github.com/es3n1n/no-defender)
 * [2024-05-24, 16:16:37](https://news.ycombinator.com/item?id=40467625) - [ICQ will stop working from June 26](https://icq.com/desktop/en#windows)
 * [2024-05-24, 15:54:39](https://news.ycombinator.com/item?id=40467419) - [RAG, fine-tuning, API calling and gptscript for Llama 3 running locally](https://github.com/helixml/helix/releases/tag/0.9.1)
