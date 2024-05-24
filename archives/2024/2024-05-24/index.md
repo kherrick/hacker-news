@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-24](index.md)
 
+* [2024-05-24, 13:42:08](https://news.ycombinator.com/item?id=40466194) - [County sheriffs wield lethal power, face little accountability](https://www.cbsnews.com/news/county-sheriffs-deaths-accountability/)
 * [2024-05-24, 13:36:46](https://news.ycombinator.com/item?id=40466138) - [Declassified U.S. satellite photos show Belarus has new nuclear weapons sites](https://www.technology.org/2024/05/17/declassified-u-s-satellite-photos-show-belarus-has-new-nuclear-weapons-sites/)
 * [2024-05-24, 13:09:04](https://news.ycombinator.com/item?id=40465841) - [Don't Microservice, Do Module](https://yekta.dev/posts/dont-microservice-do-module/)
 * [2024-05-24, 12:33:21](https://news.ycombinator.com/item?id=40465529) - [Spyware found on US hotel check-in computers](https://techcrunch.com/2024/05/22/spyware-found-on-hotel-check-in-computers/)
@@ -25,6 +26,7 @@
 * [2024-05-24, 07:01:28](https://news.ycombinator.com/item?id=40463633) - [Bloop (YC S21) Is Hiring AI Engineers. Devin for Legacy Code (London, Onsite)](https://www.ycombinator.com/companies/bloop/jobs/iCrEllp-applied-ai-software-engineer)
 * [2024-05-24, 06:20:56](https://news.ycombinator.com/item?id=40463383) - [Almost 30% of Americans Say College Not Worth It in Pew Poll](https://www.bloomberg.com/news/articles/2024-05-23/almost-30-of-americans-say-college-not-worth-it-in-pew-poll)
 * [2024-05-24, 05:17:08](https://news.ycombinator.com/item?id=40463029) - [Scrum's Built-In 'Get Out of Jail Free Card' Against Criticism](https://mdalmijn.com/p/scrums-built-in-get-out-of-jail-free)
+* [2024-05-24, 04:22:43](https://news.ycombinator.com/item?id=40462780) - [World in a Box](https://placesjournal.org/article/social-history-of-the-cardboard-box/)
 * [2024-05-24, 02:52:41](https://news.ycombinator.com/item?id=40462382) - [New MacBook Setup](https://hire.jonasgalvez.com.br/2024/may/23/macbook-setup/)
 * [2024-05-24, 02:49:44](https://news.ycombinator.com/item?id=40462369) - [Perplexica: Open-Source Perplexity Alternative](https://github.com/ItzCrazyKns/Perplexica)
 * [2024-05-24, 02:41:51](https://news.ycombinator.com/item?id=40462340) - [Google AI search feature suggested using glue to keep cheese sticking to a pizza](https://www.businessinsider.com/google-search-ai-overviews-glue-keep-cheese-pizza-2024-5)
