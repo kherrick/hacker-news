@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-24, 21:55:01](https://news.ycombinator.com/item?id=40470806) - [Giving Windows total recall of everything a user does is a privacy minefield](https://www.theregister.com/2024/05/22/windows_recall/)
 * [2024-05-24, 21:26:13](https://news.ycombinator.com/item?id=40470614) - [The inaccessible and abandoned islands of New York – in pictures](https://www.theguardian.com/artanddesign/gallery/2024/may/24/inaccessible-abandoned-islands-new-york-in-pictures)
 * [2024-05-24, 21:00:54](https://news.ycombinator.com/item?id=40470454) - [Freshpaint (YC S19) is hiring software engineers to protect patient privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 * [2024-05-24, 20:59:43](https://news.ycombinator.com/item?id=40470448) - [Factorio Undo/Redo Improvements and Car Latency Driving](https://factorio.com/blog/post/fff-412)
+* [2024-05-24, 20:18:23](https://news.ycombinator.com/item?id=40470134) - [Guys what is wrong with ACATS](https://www.bitsaboutmoney.com/archive/how-acats-transfers-work/)
 * [2024-05-24, 19:19:31](https://news.ycombinator.com/item?id=40469592) - [Show HN: Spot – Simple, cross-platform, reactive desktop GUI toolkit for Go](https://github.com/roblillack/spot)
 * [2024-05-24, 18:15:58](https://news.ycombinator.com/item?id=40468933) - [Mp3tag – The Universal Tag Editor](https://www.mp3tag.de/en/)
 * [2024-05-24, 17:39:39](https://news.ycombinator.com/item?id=40468518) - [Financial Statement Analysis with Large Language Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835311)
-* [2024-05-24, 16:27:40](https://news.ycombinator.com/item?id=40467741) - [A slightly more fun way to disable Windows Defender (through the WSC API)](https://github.com/es3n1n/no-defender)
 * [2024-05-24, 16:16:37](https://news.ycombinator.com/item?id=40467625) - [ICQ will stop working from June 26](https://icq.com/desktop/en#windows)
 * [2024-05-24, 15:41:22](https://news.ycombinator.com/item?id=40467297) - [Writing a Unix clone in about a month](https://drewdevault.com/2024/05/24/2024-05-24-Bunnix.html)
 * [2024-05-24, 15:35:04](https://news.ycombinator.com/item?id=40467232) - [Samsung WB850F Firmware Reverse Engineering](https://op-co.de/blog/posts/samsung_wb850f_firmware/)
@@ -28,7 +29,6 @@
 * [2024-05-23, 17:29:58](https://news.ycombinator.com/item?id=40457500) - [Advancing Our Bet on Asymmetric Cryptography](https://blog.chromium.org/2024/05/advancing-our-amazing-bet-on-asymmetric.html)
 * [2024-05-23, 15:50:25](https://news.ycombinator.com/item?id=40456236) - [Show HN: We open sourced our entire text-to-SQL product](https://github.com/Dataherald/dataherald)
 * [2024-05-23, 15:16:20](https://news.ycombinator.com/item?id=40455758) - [The Space Quest II Master Disk Blunder](https://lanceewing.github.io/blog/sierra/agi/sq2/2024/05/22/do-you-own-this-space-quest-2-disk.html)
-* [2024-05-23, 12:58:09](https://news.ycombinator.com/item?id=40454136) - [300k airplanes in five years](https://www.construction-physics.com/p/how-to-build-300000-airplanes-in)
 * [2024-05-21, 07:04:15](https://news.ycombinator.com/item?id=40425068) - [Response Filter Denial of Service: shut down a website by triggering WAF rule](https://blog.sicuranext.com/response-filter-denial-of-service-a-new-way-to-shutdown-a-website/)
 
 ## [Archives](archives/index.md)

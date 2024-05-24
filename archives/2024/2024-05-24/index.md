@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-05-24](index.md)
 
+* [2024-05-24, 21:55:01](https://news.ycombinator.com/item?id=40470806) - [Giving Windows total recall of everything a user does is a privacy minefield](https://www.theregister.com/2024/05/22/windows_recall/)
 * [2024-05-24, 21:26:13](https://news.ycombinator.com/item?id=40470614) - [The inaccessible and abandoned islands of New York – in pictures](https://www.theguardian.com/artanddesign/gallery/2024/may/24/inaccessible-abandoned-islands-new-york-in-pictures)
 * [2024-05-24, 21:21:24](https://news.ycombinator.com/item?id=40470580) - [Startups on hard mode: Oxide. Part 1: Hardware](https://newsletter.pragmaticengineer.com/p/oxide)
 * [2024-05-24, 21:00:54](https://news.ycombinator.com/item?id=40470454) - [Freshpaint (YC S19) is hiring software engineers to protect patient privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 * [2024-05-24, 20:59:43](https://news.ycombinator.com/item?id=40470448) - [Factorio Undo/Redo Improvements and Car Latency Driving](https://factorio.com/blog/post/fff-412)
+* [2024-05-24, 20:18:23](https://news.ycombinator.com/item?id=40470134) - [Guys what is wrong with ACATS](https://www.bitsaboutmoney.com/archive/how-acats-transfers-work/)
 * [2024-05-24, 19:33:36](https://news.ycombinator.com/item?id=40469711) - [Ian Clarke Explains the Next Generation of Freenet [video]](https://www.youtube.com/watch?v=yBtyNIqZios)
 * [2024-05-24, 19:20:56](https://news.ycombinator.com/item?id=40469606) - [Google AI: People should eat at least one small rock a day](https://mastodon.social/@danielnazer/112492966707079287#.)
 * [2024-05-24, 19:19:31](https://news.ycombinator.com/item?id=40469592) - [Show HN: Spot – Simple, cross-platform, reactive desktop GUI toolkit for Go](https://github.com/roblillack/spot)
