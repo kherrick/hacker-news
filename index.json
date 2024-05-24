@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2024-05-23, 19:07:53",
+      "https://news.ycombinator.com/item?id=40458655"
+    ],
+    [
+      "Act on Press",
+      "https://twitter.com/ID_AA_Carmack/status/1787850053912064005"
+    ]
+  ],
+  [
+    [
       "2024-05-23, 18:03:31",
       "https://news.ycombinator.com/item?id=40457856"
     ],
@@ -147,16 +157,6 @@
     [
       "Amber: A code search and replace tool",
       "https://github.com/dalance/amber"
-    ]
-  ],
-  [
-    [
-      "2024-05-23, 14:40:58",
-      "https://news.ycombinator.com/item?id=40455328"
-    ],
-    [
-      "Bytehound: Memory Profiler for Linux",
-      "https://github.com/koute/bytehound"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2024-05-22, 07:23:34",
-      "https://news.ycombinator.com/item?id=40438231"
-    ],
-    [
-      "How to destroy your OS with tar",
-      "https://vorakl.com/articles/tar-curdir/"
-    ]
-  ],
-  [
-    [
       "2024-05-22, 05:59:09",
       "https://news.ycombinator.com/item?id=40437781"
     ],
     [
       "The Irrevocable SSL Certificates of Cloudflare",
       "https://worldofmatthew.com/post/cloudflare-ssl/"
+    ]
+  ],
+  [
+    [
+      "2024-05-21, 10:57:35",
+      "https://news.ycombinator.com/item?id=40426720"
+    ],
+    [
+      "New Regular expression (Regex) functions in Excel",
+      "https://insider.microsoft365.com/en-us/blog/new-regular-expression-regex-functions-in-excel"
     ]
   ]
 ]
