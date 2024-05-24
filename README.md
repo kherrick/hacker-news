@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-24, 22:49:38](https://news.ycombinator.com/item?id=40471172) - [Another US state repeals law that protected ISPs from municipal competition](https://arstechnica.com/tech-policy/2024/05/another-us-state-repeals-law-that-protected-isps-from-municipal-competition/)
+* [2024-05-24, 22:29:06](https://news.ycombinator.com/item?id=40471060) - [Google's AI Overviews is being laughed at by the CEO of search rival Perplexity](https://www.businessinsider.com/google-ai-overviews-laughed-at-ceo-perplexity-pizza-glue-2024-5)
 * [2024-05-24, 21:55:01](https://news.ycombinator.com/item?id=40470806) - [Giving Windows total recall of everything a user does is a privacy minefield](https://www.theregister.com/2024/05/22/windows_recall/)
 * [2024-05-24, 21:26:13](https://news.ycombinator.com/item?id=40470614) - [The inaccessible and abandoned islands of New York – in pictures](https://www.theguardian.com/artanddesign/gallery/2024/may/24/inaccessible-abandoned-islands-new-york-in-pictures)
 * [2024-05-24, 21:00:54](https://news.ycombinator.com/item?id=40470454) - [Freshpaint (YC S19) is hiring software engineers to protect patient privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
@@ -15,8 +17,6 @@
 * [2024-05-24, 14:48:08](https://news.ycombinator.com/item?id=40466810) - [Sharing details on a recent incident impacting one of our customers](https://cloud.google.com/blog/products/infrastructure/details-of-google-cloud-gcve-incident/)
 * [2024-05-24, 14:12:01](https://news.ycombinator.com/item?id=40466469) - [Move over, tractor – The farmer wants a crop-spraying drone](https://spectrum.ieee.org/arthur-erickson-drones-profile)
 * [2024-05-24, 13:50:39](https://news.ycombinator.com/item?id=40466255) - [Peeking underground with giant flying antennas](https://hackaday.com/2024/05/21/peeking-underground-with-giant-flying-antennas/)
-* [2024-05-24, 12:00:26](https://news.ycombinator.com/item?id=40465259) - [Low-cost shield ardEEG to measure EEG with Arduino Uno R4 WiFi](https://www.preprints.org/manuscript/202405.1643/v1)
-* [2024-05-24, 11:37:18](https://news.ycombinator.com/item?id=40465090) - [Apple's M4 has reportedly adopted the ARMv9 architecture](https://wccftech.com/apple-m4-adopts-armv9-run-complex-workloads-efficiently/)
 * [2024-05-24, 11:22:21](https://news.ycombinator.com/item?id=40464994) - [Imperceptible sensors can be printed directly on human skin](https://www.cam.ac.uk/research/news/imperceptible-sensors-made-from-electronic-spider-silk-can-be-printed-directly-on-human-skin)
 * [2024-05-24, 09:54:59](https://news.ycombinator.com/item?id=40464558) - [Voxel Displacement Renderer – Modernizing the Retro 3D Aesthetic](https://blog.danielschroeder.me/2024/05/voxel-displacement-modernizing-retro-3d/)
 * [2024-05-24, 08:56:22](https://news.ycombinator.com/item?id=40464303) - [Lewis Carroll – computing the day of the week for any given date (1887)](https://www.futilitycloset.com/2024/05/24/day-tripper/)
