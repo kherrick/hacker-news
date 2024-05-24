@@ -11,6 +11,7 @@
 * [2024-05-23, 21:47:21](https://news.ycombinator.com/item?id=40460296) - [CSharpRepl: C# REPL with syntax highlighting and intellisense](https://fuqua.io/CSharpRepl/)
 * [2024-05-23, 19:09:42](https://news.ycombinator.com/item?id=40458686) - [US Army researched the health effects of radioactivity in St Louis 1945-1970 (2011)](https://mospace.umsystem.edu/xmlui/handle/10355/13170)
 * [2024-05-23, 18:03:31](https://news.ycombinator.com/item?id=40457856) - [Cement recycling method could help solve one of the big climate challenges](https://www.cam.ac.uk/stories/cement-recycling)
+* [2024-05-23, 17:29:58](https://news.ycombinator.com/item?id=40457500) - [Advancing Our Bet on Asymmetric Cryptography](https://blog.chromium.org/2024/05/advancing-our-amazing-bet-on-asymmetric.html)
 * [2024-05-23, 16:47:00](https://news.ycombinator.com/item?id=40456959) - [Show HN: Porter Cloud – PaaS with an eject button](https://news.ycombinator.com/item?id=40456959)
 * [2024-05-23, 16:38:25](https://news.ycombinator.com/item?id=40456834) - [Daylight Computer – New 60fps e-paper tablet](https://daylightcomputer.com/product)
 * [2024-05-23, 15:41:29](https://news.ycombinator.com/item?id=40456107) - [We're ending our Samsung collaboration](https://www.ifixit.com/News/96162/were-ending-our-samsung-collaboration)
@@ -28,7 +29,6 @@
 * [2024-05-22, 11:08:23](https://news.ycombinator.com/item?id=40439572) - [Holographic Theory of Learning](https://jovex.substack.com/p/holographic-theory-of-learning)
 * [2024-05-22, 09:01:40](https://news.ycombinator.com/item?id=40438894) - [Forebruary](https://ilyabirman.net/forebruary/)
 * [2024-05-22, 06:45:05](https://news.ycombinator.com/item?id=40438007) - [Go's old $GOPATH story for development and dependencies](https://utcc.utoronto.ca/~cks/space/blog/programming/GoTheGopathDevelopmentStory)
-* [2024-05-22, 05:59:09](https://news.ycombinator.com/item?id=40437781) - [The Irrevocable SSL Certificates of Cloudflare](https://worldofmatthew.com/post/cloudflare-ssl/)
 * [2024-05-21, 10:57:35](https://news.ycombinator.com/item?id=40426720) - [New Regular expression (Regex) functions in Excel](https://insider.microsoft365.com/en-us/blog/new-regular-expression-regex-functions-in-excel)
 
 ## [Archives](archives/index.md)
