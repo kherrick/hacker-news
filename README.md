@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-24, 02:52:41](https://news.ycombinator.com/item?id=40462382) - [New MacBook Setup](https://hire.jonasgalvez.com.br/2024/may/23/macbook-setup/)
 * [2024-05-24, 02:41:51](https://news.ycombinator.com/item?id=40462340) - [Google AI search feature suggested using glue to keep cheese sticking to a pizza](https://www.businessinsider.com/google-search-ai-overviews-glue-keep-cheese-pizza-2024-5)
 * [2024-05-24, 02:12:58](https://news.ycombinator.com/item?id=40462215) - [Binarize CLIP for Multimodal Applications](https://www.marqo.ai/blog/learn-to-binarize-clip-for-multimodal-retrieval-and-ranking)
 * [2024-05-23, 23:23:19](https://news.ycombinator.com/item?id=40461096) - [Dehydration associated with poorer performance on attention tasks among adults](https://onlinelibrary.wiley.com/doi/10.1002/ajhb.24051)
@@ -29,7 +30,6 @@
 * [2024-05-22, 09:01:40](https://news.ycombinator.com/item?id=40438894) - [Forebruary](https://ilyabirman.net/forebruary/)
 * [2024-05-22, 08:50:41](https://news.ycombinator.com/item?id=40438834) - [Things to avoid in Ruby](https://blog.appsignal.com/2024/05/22/five-things-to-avoid-in-ruby.html)
 * [2024-05-22, 07:23:34](https://news.ycombinator.com/item?id=40438231) - [How to destroy your OS with tar](https://vorakl.com/articles/tar-curdir/)
-* [2024-05-21, 11:13:13](https://news.ycombinator.com/item?id=40426842) - [One Dead After London-Singapore Flight Hit by Turbulence](https://www.bloomberg.com/news/articles/2024-05-21/singapore-air-flight-makes-emergency-landing-in-bangkok-1-dead)
 
 ## [Archives](archives/index.md)
 
