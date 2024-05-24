@@ -6,6 +6,8 @@
 
 * [2024-05-24, 14:43:15](https://news.ycombinator.com/item?id=40466763) - [How to Move from Redis to Valkey](https://fedoramagazine.org/how-to-move-from-redis-to-valkey/)
 * [2024-05-24, 14:23:20](https://news.ycombinator.com/item?id=40466574) - [RAG 2.0](https://contextual.ai/introducing-rag2/)
+* [2024-05-24, 14:12:32](https://news.ycombinator.com/item?id=40466478) - [Cosmic Glitch: Scientists Discover an Anomaly in the Universe's Gravity](https://www.businessinsider.com/cosmic-glitch-makes-scientists-rethink-einstein-greatest-theory-2024-5)
+* [2024-05-24, 14:12:01](https://news.ycombinator.com/item?id=40466469) - [Move Over, Tractor–The Farmer Wants a Crop-Spraying Drone](https://spectrum.ieee.org/arthur-erickson-drones-profile)
 * [2024-05-24, 14:07:38](https://news.ycombinator.com/item?id=40466429) - [Super Size Me director Morgan Spurlock dies aged 53](https://www.theguardian.com/film/article/2024/may/24/super-size-me-director-morgan-spurlock-dies-aged-53)
 * [2024-05-24, 13:42:08](https://news.ycombinator.com/item?id=40466194) - [County sheriffs wield lethal power, face little accountability](https://www.cbsnews.com/news/county-sheriffs-deaths-accountability/)
 * [2024-05-24, 13:36:46](https://news.ycombinator.com/item?id=40466138) - [Declassified U.S. satellite photos show Belarus has new nuclear weapons sites](https://www.technology.org/2024/05/17/declassified-u-s-satellite-photos-show-belarus-has-new-nuclear-weapons-sites/)
