@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-24](index.md)
 
+* [2024-05-24, 17:39:39](https://news.ycombinator.com/item?id=40468518) - [Financial Statement Analysis with Large Language Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835311)
+* [2024-05-24, 17:33:13](https://news.ycombinator.com/item?id=40468436) - [Google CEO Sundar Pichai takes a look at a sample Google search [video]](https://www.tiktok.com/@decoderpod/video/7371838707747278122)
+* [2024-05-24, 17:30:45](https://news.ycombinator.com/item?id=40468408) - [Emacs in fifty keystrokes](https://enzuru.medium.com/emacs-in-a-few-dozen-keystrokes-and-why-some-of-you-should-just-use-vim-14b9af30be70)
 * [2024-05-24, 17:15:11](https://news.ycombinator.com/item?id=40468280) - [Do Not Mess with Scarlett Johansson](https://thezvi.substack.com/p/do-not-mess-with-scarlett-johansson)
 * [2024-05-24, 17:10:53](https://news.ycombinator.com/item?id=40468230) - [Google Search Is Now a Giant Hallucination](https://gizmodo.com/google-search-ai-overview-giant-hallucination-1851499031)
 * [2024-05-24, 17:00:52](https://news.ycombinator.com/item?id=40468113) - [Flexport is hiring an OR/ML guru to optimize global trade routing](https://boards.greenhouse.io/flexport/jobs/5806177?gh_jid=5806177)
