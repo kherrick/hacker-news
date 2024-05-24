@@ -7,6 +7,7 @@
 * [2024-05-23, 23:23:19](https://news.ycombinator.com/item?id=40461096) - [Dehydration associated with poorer performance on attention tasks among adults](https://onlinelibrary.wiley.com/doi/10.1002/ajhb.24051)
 * [2024-05-23, 22:28:43](https://news.ycombinator.com/item?id=40460639) - [Google says no \"African countries beginning with K\" but Kenya has a \"K sound\"](https://twitter.com/edzitron/status/1793751541394145771)
 * [2024-05-23, 22:15:20](https://news.ycombinator.com/item?id=40460528) - [Ask HN: What makes Windows 11 perform much worse than Windows XP?](https://news.ycombinator.com/item?id=40460528)
+* [2024-05-23, 21:47:21](https://news.ycombinator.com/item?id=40460296) - [CSharpRepl: C# REPL with syntax highlighting and intellisense](https://fuqua.io/CSharpRepl/)
 * [2024-05-23, 21:00:38](https://news.ycombinator.com/item?id=40459848) - [Checkr (YC S14) is hiring a staff software engineer for its new bet, Checkr Pay](https://www.ycombinator.com/companies/checkr/jobs/ixzdle1-staff-software-engineer-checkr-pay)
 * [2024-05-23, 20:30:22](https://news.ycombinator.com/item?id=40459543) - [Golden Gate Claude](https://www.anthropic.com/news/golden-gate-claude)
 * [2024-05-23, 19:38:10](https://news.ycombinator.com/item?id=40458964) - [FTX bankruptcy examiner's report [pdf]](https://restructuring.ra.kroll.com/FTX/Home-DownloadPDF?id1=MzExMDk4OQ==&id2=-1)
