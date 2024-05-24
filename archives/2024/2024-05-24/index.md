@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-05-24](index.md)
 
+* [2024-05-24, 14:07:38](https://news.ycombinator.com/item?id=40466429) - [Super Size Me director Morgan Spurlock dies aged 53](https://www.theguardian.com/film/article/2024/may/24/super-size-me-director-morgan-spurlock-dies-aged-53)
 * [2024-05-24, 13:42:08](https://news.ycombinator.com/item?id=40466194) - [County sheriffs wield lethal power, face little accountability](https://www.cbsnews.com/news/county-sheriffs-deaths-accountability/)
 * [2024-05-24, 13:36:46](https://news.ycombinator.com/item?id=40466138) - [Declassified U.S. satellite photos show Belarus has new nuclear weapons sites](https://www.technology.org/2024/05/17/declassified-u-s-satellite-photos-show-belarus-has-new-nuclear-weapons-sites/)
+* [2024-05-24, 13:26:22](https://news.ycombinator.com/item?id=40466042) - [Recovering electricity from heat storage hits 44% efficiency](https://news.umich.edu/renewable-grid-recovering-electricity-from-heat-storage-hits-44-efficiency/)
 * [2024-05-24, 13:09:04](https://news.ycombinator.com/item?id=40465841) - [Don't Microservice, Do Module](https://yekta.dev/posts/dont-microservice-do-module/)
 * [2024-05-24, 12:33:21](https://news.ycombinator.com/item?id=40465529) - [Spyware found on US hotel check-in computers](https://techcrunch.com/2024/05/22/spyware-found-on-hotel-check-in-computers/)
 * [2024-05-24, 12:00:30](https://news.ycombinator.com/item?id=40465260) - [Motion (YC W20) is hiring senior engineers looking for their next challenge](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)

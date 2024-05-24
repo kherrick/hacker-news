@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-24, 13:42:08](https://news.ycombinator.com/item?id=40466194) - [County sheriffs wield lethal power, face little accountability](https://www.cbsnews.com/news/county-sheriffs-deaths-accountability/)
+* [2024-05-24, 14:07:38](https://news.ycombinator.com/item?id=40466429) - [Super Size Me director Morgan Spurlock dies aged 53](https://www.theguardian.com/film/article/2024/may/24/super-size-me-director-morgan-spurlock-dies-aged-53)
+* [2024-05-24, 13:26:22](https://news.ycombinator.com/item?id=40466042) - [Recovering electricity from heat storage hits 44% efficiency](https://news.umich.edu/renewable-grid-recovering-electricity-from-heat-storage-hits-44-efficiency/)
 * [2024-05-24, 12:00:30](https://news.ycombinator.com/item?id=40465260) - [Motion (YC W20) is hiring senior engineers looking for their next challenge](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2024-05-24, 12:00:26](https://news.ycombinator.com/item?id=40465259) - [Low-Cost Shield ArdEEG to Measure EEG with Arduino Uno R4 WiFi](https://www.preprints.org/manuscript/202405.1643/v1)
 * [2024-05-24, 09:54:59](https://news.ycombinator.com/item?id=40464558) - [Voxel Displacement Renderer – Modernizing the Retro 3D Aesthetic](https://blog.danielschroeder.me/2024/05/voxel-displacement-modernizing-retro-3d/)
@@ -24,7 +25,6 @@
 * [2024-05-23, 11:13:28](https://news.ycombinator.com/item?id=40453221) - [BB(3, 4) > Ack(14)](https://www.sligocki.com//2024/05/22/bb-3-4-a14.html)
 * [2024-05-23, 09:52:18](https://news.ycombinator.com/item?id=40452655) - [Tom Waits vs. Frito-Lay, Inc (2003)](http://tomwaitslibrary.info/biography/copyright/frito-lay/)
 * [2024-05-23, 07:17:22](https://news.ycombinator.com/item?id=40451525) - [M2dir: Treating mails as files without going crazy](https://bitfehler.srht.site/posts/2024-04-15_m2dir-treating-mails-as-files-without-going-crazy.html)
-* [2024-05-23, 06:03:51](https://news.ycombinator.com/item?id=40451009) - [DuckDuckGo was down](https://duckduckgo.com)
 * [2024-05-22, 13:03:09](https://news.ycombinator.com/item?id=40440436) - [LunarML – The Standard ML compiler that produces Lua/JavaScript](https://github.com/minoki/LunarML)
 * [2024-05-22, 11:44:48](https://news.ycombinator.com/item?id=40439810) - [Why did Tom Lehrer swap fame for obscurity?](https://www.theguardian.com/music/article/2024/may/22/my-songs-spread-like-herpes-why-did-satirical-genius-tom-lehrer-swap-worldwide-fame-for-obscurity)
 * [2024-05-22, 11:08:23](https://news.ycombinator.com/item?id=40439572) - [Holographic Theory of Learning](https://jovex.substack.com/p/holographic-theory-of-learning)
