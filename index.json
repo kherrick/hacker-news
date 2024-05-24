@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-05-24, 10:10:04",
-      "https://news.ycombinator.com/item?id=40464618"
-    ],
-    [
-      "Kabosu, the dog behind the 'doge' internet meme, has died",
-      "https://www.nbcnews.com/news/world/kabosu-dog-doge-internet-meme-died-rcna4472"
-    ]
-  ],
-  [
-    [
       "2024-05-24, 09:40:04",
       "https://news.ycombinator.com/item?id=40464495"
     ],
@@ -287,6 +277,16 @@
     [
       "Go's old $GOPATH story for development and dependencies",
       "https://utcc.utoronto.ca/~cks/space/blog/programming/GoTheGopathDevelopmentStory"
+    ]
+  ],
+  [
+    [
+      "2024-05-22, 05:59:09",
+      "https://news.ycombinator.com/item?id=40437781"
+    ],
+    [
+      "The Irrevocable SSL Certificates of Cloudflare",
+      "https://worldofmatthew.com/post/cloudflare-ssl/"
     ]
   ],
   [
