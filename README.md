@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-24, 11:38:34](https://news.ycombinator.com/item?id=40465102) - [\"Unacceptable\": Spotify bricking Car Thing devices in Dec. without refunds](https://arstechnica.com/gadgets/2024/05/pleas-for-open-sourcing-refunds-as-spotify-plans-to-brick-car-thing-devices/)
+* [2024-05-24, 11:37:18](https://news.ycombinator.com/item?id=40465090) - [Apple's M4 Has Reportedly Adopted the ARMv9 Architecture](https://wccftech.com/apple-m4-adopts-armv9-run-complex-workloads-efficiently/)
 * [2024-05-24, 11:23:47](https://news.ycombinator.com/item?id=40465001) - [The Washington Post Tells Staff It's Pivoting to AI](https://futurism.com/washington-post-pivot-ai)
 * [2024-05-24, 10:01:43](https://news.ycombinator.com/item?id=40464583) - [FAA reveals flaw in Boeing 777 that could result in fuel tank exploding](https://nypost.com/2024/05/22/us-news/boeing-777-plane-fuel-tanks-could-explode-due-to-electrical-flaw/)
 * [2024-05-24, 09:40:04](https://news.ycombinator.com/item?id=40464495) - [Kabosu, the Dog Behind the 'Doge' Meme, Has Died](https://www.ign.com/articles/kabosu-the-dog-behind-the-doge-meme-has-died)
@@ -8,7 +10,6 @@
 * [2024-05-24, 07:02:06](https://news.ycombinator.com/item?id=40463636) - [How to Be Obscene (1927)](https://www.newyorker.com/magazine/1927/07/02/how-to-be-obscene)
 * [2024-05-24, 07:01:28](https://news.ycombinator.com/item?id=40463633) - [Bloop (YC S21) Is Hiring AI Engineers. Devin for Legacy Code (London, Onsite)](https://www.ycombinator.com/companies/bloop/jobs/iCrEllp-applied-ai-software-engineer)
 * [2024-05-24, 02:49:44](https://news.ycombinator.com/item?id=40462369) - [Perplexica: Open-Source Perplexity Alternative](https://github.com/ItzCrazyKns/Perplexica)
-* [2024-05-23, 21:47:21](https://news.ycombinator.com/item?id=40460296) - [CSharpRepl: C# REPL with syntax highlighting and intellisense](https://fuqua.io/CSharpRepl/)
 * [2024-05-23, 19:09:42](https://news.ycombinator.com/item?id=40458686) - [US Army researched the health effects of radioactivity in St Louis 1945-1970 (2011)](https://mospace.umsystem.edu/xmlui/handle/10355/13170)
 * [2024-05-23, 18:03:31](https://news.ycombinator.com/item?id=40457856) - [Cement recycling method could help solve one of the big climate challenges](https://www.cam.ac.uk/stories/cement-recycling)
 * [2024-05-23, 17:29:58](https://news.ycombinator.com/item?id=40457500) - [Advancing Our Bet on Asymmetric Cryptography](https://blog.chromium.org/2024/05/advancing-our-amazing-bet-on-asymmetric.html)
@@ -22,7 +23,6 @@
 * [2024-05-23, 12:58:09](https://news.ycombinator.com/item?id=40454136) - [300k airplanes in five years](https://www.construction-physics.com/p/how-to-build-300000-airplanes-in)
 * [2024-05-23, 11:13:28](https://news.ycombinator.com/item?id=40453221) - [BB(3, 4) > Ack(14)](https://www.sligocki.com//2024/05/22/bb-3-4-a14.html)
 * [2024-05-23, 09:52:18](https://news.ycombinator.com/item?id=40452655) - [Tom Waits vs. Frito-Lay, Inc (2003)](http://tomwaitslibrary.info/biography/copyright/frito-lay/)
-* [2024-05-23, 07:17:22](https://news.ycombinator.com/item?id=40451525) - [M2dir: Treating mails as files without going crazy](https://bitfehler.srht.site/posts/2024-04-15_m2dir-treating-mails-as-files-without-going-crazy.html)
 * [2024-05-22, 13:03:09](https://news.ycombinator.com/item?id=40440436) - [LunarML – The Standard ML compiler that produces Lua/JavaScript](https://github.com/minoki/LunarML)
 * [2024-05-22, 11:44:48](https://news.ycombinator.com/item?id=40439810) - [Why did Tom Lehrer swap fame for obscurity?](https://www.theguardian.com/music/article/2024/may/22/my-songs-spread-like-herpes-why-did-satirical-genius-tom-lehrer-swap-worldwide-fame-for-obscurity)
 * [2024-05-22, 11:18:48](https://news.ycombinator.com/item?id=40439628) - [Interview of Ben Titzer, Co-Founder of WebAssembly](https://microarch.club/episodes/1000/)
