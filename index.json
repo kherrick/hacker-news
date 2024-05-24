@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-05-24, 17:39:39",
+      "https://news.ycombinator.com/item?id=40468518"
+    ],
+    [
+      "Financial Statement Analysis with Large Language Models",
+      "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835311"
+    ]
+  ],
+  [
+    [
+      "2024-05-24, 17:33:13",
+      "https://news.ycombinator.com/item?id=40468436"
+    ],
+    [
+      "Google CEO Sundar Pichai takes a look at a sample Google search [video]",
+      "https://www.tiktok.com/@decoderpod/video/7371838707747278122"
+    ]
+  ],
+  [
+    [
+      "2024-05-24, 17:30:45",
+      "https://news.ycombinator.com/item?id=40468408"
+    ],
+    [
+      "Emacs in fifty keystrokes",
+      "https://enzuru.medium.com/emacs-in-a-few-dozen-keystrokes-and-why-some-of-you-should-just-use-vim-14b9af30be70"
+    ]
+  ],
+  [
+    [
       "2024-05-24, 17:10:53",
       "https://news.ycombinator.com/item?id=40468230"
     ],
@@ -65,7 +95,7 @@
       "https://news.ycombinator.com/item?id=40467232"
     ],
     [
-      "Samsung WB850F Firmware Reverse-Engineering",
+      "Samsung WB850F Firmware Reverse Engineering",
       "https://op-co.de/blog/posts/samsung_wb850f_firmware/"
     ]
   ],
@@ -171,12 +201,12 @@
   ],
   [
     [
-      "2024-05-23, 18:03:31",
-      "https://news.ycombinator.com/item?id=40457856"
+      "2024-05-23, 19:08:29",
+      "https://news.ycombinator.com/item?id=40458662"
     ],
     [
-      "Cement recycling method could help solve one of the big climate challenges",
-      "https://www.cam.ac.uk/stories/cement-recycling"
+      "Retired detective: We got it wrong in Robert Roberson's death penalty case",
+      "https://www.dallasnews.com/opinion/commentary/2024/05/23/retired-detective-we-got-it-wrong-in-robert-robersons-death-penalty-case/"
     ]
   ],
   [
@@ -251,26 +281,6 @@
   ],
   [
     [
-      "2024-05-23, 07:17:22",
-      "https://news.ycombinator.com/item?id=40451525"
-    ],
-    [
-      "M2dir: Treating mails as files without going crazy",
-      "https://bitfehler.srht.site/posts/2024-04-15_m2dir-treating-mails-as-files-without-going-crazy.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-22, 13:03:09",
-      "https://news.ycombinator.com/item?id=40440436"
-    ],
-    [
-      "LunarML – The Standard ML compiler that produces Lua/JavaScript",
-      "https://github.com/minoki/LunarML"
-    ]
-  ],
-  [
-    [
       "2024-05-22, 11:44:48",
       "https://news.ycombinator.com/item?id=40439810"
     ],
@@ -287,16 +297,6 @@
     [
       "New Regular expression (Regex) functions in Excel",
       "https://insider.microsoft365.com/en-us/blog/new-regular-expression-regex-functions-in-excel"
-    ]
-  ],
-  [
-    [
-      "2024-05-21, 07:04:15",
-      "https://news.ycombinator.com/item?id=40425068"
-    ],
-    [
-      "Response Filter Denial of Service (RFDoS)",
-      "https://blog.sicuranext.com/response-filter-denial-of-service-a-new-way-to-shutdown-a-website/"
     ]
   ]
 ]
