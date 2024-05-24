@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-24, 10:10:04](https://news.ycombinator.com/item?id=40464618) - [Kabosu, the dog behind the 'doge' internet meme, has died](https://www.nbcnews.com/news/world/kabosu-dog-doge-internet-meme-died-rcna4472)
 * [2024-05-24, 09:40:04](https://news.ycombinator.com/item?id=40464495) - [Kabosu, the Dog Behind the 'Doge' Meme, Has Died](https://www.ign.com/articles/kabosu-the-dog-behind-the-doge-meme-has-died)
 * [2024-05-24, 09:39:39](https://news.ycombinator.com/item?id=40464490) - [Shiba Inu which inspired the 'doge' meme and became face of Dogecoin has died](https://news.sky.com/story/kabosu-dies-shiba-inu-which-inspired-the-doge-meme-and-became-face-of-dogecoin-has-died-12895009)
 * [2024-05-24, 08:56:22](https://news.ycombinator.com/item?id=40464303) - [Lewis Carroll – computing the day of the week for any given date (1887)](https://www.futilitycloset.com/2024/05/24/day-tripper/)
@@ -29,6 +28,7 @@
 * [2024-05-22, 11:08:23](https://news.ycombinator.com/item?id=40439572) - [Holographic Theory of Learning](https://jovex.substack.com/p/holographic-theory-of-learning)
 * [2024-05-22, 09:01:40](https://news.ycombinator.com/item?id=40438894) - [Forebruary](https://ilyabirman.net/forebruary/)
 * [2024-05-22, 06:45:05](https://news.ycombinator.com/item?id=40438007) - [Go's old $GOPATH story for development and dependencies](https://utcc.utoronto.ca/~cks/space/blog/programming/GoTheGopathDevelopmentStory)
+* [2024-05-22, 05:59:09](https://news.ycombinator.com/item?id=40437781) - [The Irrevocable SSL Certificates of Cloudflare](https://worldofmatthew.com/post/cloudflare-ssl/)
 * [2024-05-21, 10:57:35](https://news.ycombinator.com/item?id=40426720) - [New Regular expression (Regex) functions in Excel](https://insider.microsoft365.com/en-us/blog/new-regular-expression-regex-functions-in-excel)
 
 ## [Archives](archives/index.md)
