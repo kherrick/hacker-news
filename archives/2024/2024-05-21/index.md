@@ -87,6 +87,7 @@
 * [2024-05-21, 11:13:13](https://news.ycombinator.com/item?id=40426842) - [One Dead After London-Singapore Flight Hit by Turbulence](https://www.bloomberg.com/news/articles/2024-05-21/singapore-air-flight-makes-emergency-landing-in-bangkok-1-dead)
 * [2024-05-21, 11:09:38](https://news.ycombinator.com/item?id=40426813) - [Trying out the Panel-of-Experts prompting strategy for LLMs](https://sourcery.ai/blog/panel-of-experts/)
 * [2024-05-21, 11:08:09](https://news.ycombinator.com/item?id=40426801) - [One dead as London-Singapore flight hit by turbulence](https://www.bbc.com/news/articles/c8889d7x8j4o)
+* [2024-05-21, 10:57:35](https://news.ycombinator.com/item?id=40426720) - [New Regular expression (Regex) functions in Excel](https://insider.microsoft365.com/en-us/blog/new-regular-expression-regex-functions-in-excel)
 * [2024-05-21, 10:55:54](https://news.ycombinator.com/item?id=40426711) - [Google announces Firebase Genkit with Ollama support](https://ollama.com/blog/firebase-genkit)
 * [2024-05-21, 10:55:10](https://news.ycombinator.com/item?id=40426705) - [C23 Implications for C Libraries](https://htmlpreview.github.io/?https://icube-forge.unistra.fr/icps/c23-library/-/raw/main/README.html)
 * [2024-05-21, 10:54:36](https://news.ycombinator.com/item?id=40426701) - [Going Dark: The war on encryption is on the rise](https://mullvad.net/en/why-privacy-matters/going-dark)

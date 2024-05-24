@@ -7,6 +7,7 @@
 * [2024-05-23, 19:33:30](https://news.ycombinator.com/item?id=40458923) - [Show HN: Open-source real time data framework for LLM applications](https://getindexify.ai)
 * [2024-05-23, 19:09:42](https://news.ycombinator.com/item?id=40458686) - [US Army researched the health effects of radioactivity in St Louis 1945-1970 (2011)](https://mospace.umsystem.edu/xmlui/handle/10355/13170)
 * [2024-05-23, 19:08:29](https://news.ycombinator.com/item?id=40458662) - [Retired detective: We got it wrong in Robert Roberson's death penalty case](https://www.dallasnews.com/opinion/commentary/2024/05/23/retired-detective-we-got-it-wrong-in-robert-robersons-death-penalty-case/)
+* [2024-05-23, 19:07:53](https://news.ycombinator.com/item?id=40458655) - [Act on Press](https://twitter.com/ID_AA_Carmack/status/1787850053912064005)
 * [2024-05-23, 18:03:31](https://news.ycombinator.com/item?id=40457856) - [Cement recycling method could help solve one of the big climate challenges](https://www.cam.ac.uk/stories/cement-recycling)
 * [2024-05-23, 16:47:00](https://news.ycombinator.com/item?id=40456959) - [Show HN: Porter Cloud – PaaS with an eject button](https://news.ycombinator.com/item?id=40456959)
 * [2024-05-23, 16:38:25](https://news.ycombinator.com/item?id=40456834) - [Daylight Computer – New 60fps e-paper tablet](https://daylightcomputer.com/product)
@@ -15,7 +16,6 @@
 * [2024-05-23, 15:31:09](https://news.ycombinator.com/item?id=40455944) - [Matcha.css – Drop-in semantic styling library in pure CSS](https://matcha.mizu.sh/)
 * [2024-05-23, 15:16:20](https://news.ycombinator.com/item?id=40455758) - [The Space Quest II Master Disk Blunder](https://lanceewing.github.io/blog/sierra/agi/sq2/2024/05/22/do-you-own-this-space-quest-2-disk.html)
 * [2024-05-23, 14:48:29](https://news.ycombinator.com/item?id=40455426) - [Amber: A code search and replace tool](https://github.com/dalance/amber)
-* [2024-05-23, 14:40:58](https://news.ycombinator.com/item?id=40455328) - [Bytehound: Memory Profiler for Linux](https://github.com/koute/bytehound)
 * [2024-05-23, 14:31:36](https://news.ycombinator.com/item?id=40455208) - [Making EC2 boot time faster](https://depot.dev/blog/faster-ec2-boot-time)
 * [2024-05-23, 13:22:47](https://news.ycombinator.com/item?id=40454383) - [First pictures from Euclid satellite reveal billions of orphan stars](https://www.nottingham.ac.uk/news/first-pictures-from-euclid-satellite-reveal-billions-of-orphan-stars)
 * [2024-05-23, 12:58:09](https://news.ycombinator.com/item?id=40454136) - [300k airplanes in five years](https://www.construction-physics.com/p/how-to-build-300000-airplanes-in)
@@ -28,8 +28,8 @@
 * [2024-05-22, 11:44:48](https://news.ycombinator.com/item?id=40439810) - [Why did Tom Lehrer swap fame for obscurity?](https://www.theguardian.com/music/article/2024/may/22/my-songs-spread-like-herpes-why-did-satirical-genius-tom-lehrer-swap-worldwide-fame-for-obscurity)
 * [2024-05-22, 09:01:40](https://news.ycombinator.com/item?id=40438894) - [Forebruary](https://ilyabirman.net/forebruary/)
 * [2024-05-22, 08:50:41](https://news.ycombinator.com/item?id=40438834) - [Things to avoid in Ruby](https://blog.appsignal.com/2024/05/22/five-things-to-avoid-in-ruby.html)
-* [2024-05-22, 07:23:34](https://news.ycombinator.com/item?id=40438231) - [How to destroy your OS with tar](https://vorakl.com/articles/tar-curdir/)
 * [2024-05-22, 05:59:09](https://news.ycombinator.com/item?id=40437781) - [The Irrevocable SSL Certificates of Cloudflare](https://worldofmatthew.com/post/cloudflare-ssl/)
+* [2024-05-21, 10:57:35](https://news.ycombinator.com/item?id=40426720) - [New Regular expression (Regex) functions in Excel](https://insider.microsoft365.com/en-us/blog/new-regular-expression-regex-functions-in-excel)
 
 ## [Archives](archives/index.md)
 
