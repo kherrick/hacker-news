@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-24, 17:58:58",
+      "https://news.ycombinator.com/item?id=40468739"
+    ],
+    [
+      "Open-source AI projects selected by GitHub accelerator",
+      "https://github.blog/2024-05-23-2024-github-accelerator-meet-the-11-projects-shaping-open-source-ai/#giskard-the-testing-platform-for-ai-models-bringing-transparency-and-accountability"
+    ]
+  ],
+  [
+    [
       "2024-05-24, 17:39:39",
       "https://news.ycombinator.com/item?id=40468518"
     ],
@@ -11,52 +21,12 @@
   ],
   [
     [
-      "2024-05-24, 17:33:13",
-      "https://news.ycombinator.com/item?id=40468436"
-    ],
-    [
-      "Google CEO Sundar Pichai takes a look at a sample Google search [video]",
-      "https://www.tiktok.com/@decoderpod/video/7371838707747278122"
-    ]
-  ],
-  [
-    [
-      "2024-05-24, 17:30:45",
-      "https://news.ycombinator.com/item?id=40468408"
-    ],
-    [
-      "Emacs in fifty keystrokes",
-      "https://enzuru.medium.com/emacs-in-a-few-dozen-keystrokes-and-why-some-of-you-should-just-use-vim-14b9af30be70"
-    ]
-  ],
-  [
-    [
-      "2024-05-24, 17:10:53",
-      "https://news.ycombinator.com/item?id=40468230"
-    ],
-    [
-      "Google Search Is Now a Giant Hallucination",
-      "https://gizmodo.com/google-search-ai-overview-giant-hallucination-1851499031"
-    ]
-  ],
-  [
-    [
       "2024-05-24, 17:00:52",
       "https://news.ycombinator.com/item?id=40468113"
     ],
     [
-      "Flexport is hiring an OR/ML guru to optimize global trade routing",
+      "Flexport (YC W14) is hiring an OR/ML guru to optimize global trade routing",
       "https://boards.greenhouse.io/flexport/jobs/5806177?gh_jid=5806177"
-    ]
-  ],
-  [
-    [
-      "2024-05-24, 16:44:00",
-      "https://news.ycombinator.com/item?id=40467934"
-    ],
-    [
-      "Self-hosting keeps your private data out of AI models",
-      "https://blog.zulip.com/2024/05/23/self-hosting-keeps-your-private-data-out-of-ai-models/"
     ]
   ],
   [
@@ -65,7 +35,7 @@
       "https://news.ycombinator.com/item?id=40467741"
     ],
     [
-      "A slightly more fun way to disable windows defender. (through the WSC API)",
+      "A slightly more fun way to disable Windows Defender (through the WSC API)",
       "https://github.com/es3n1n/no-defender"
     ]
   ],
@@ -101,16 +71,6 @@
   ],
   [
     [
-      "2024-05-24, 14:54:25",
-      "https://news.ycombinator.com/item?id=40466868"
-    ],
-    [
-      "We Shift Testing Left: A Software Dev Cycle That Doesn't Scale",
-      "https://thenewstack.io/why-we-shift-testing-left-a-software-dev-cycle-that-doesnt-scale/"
-    ]
-  ],
-  [
-    [
       "2024-05-24, 14:50:07",
       "https://news.ycombinator.com/item?id=40466826"
     ],
@@ -121,12 +81,62 @@
   ],
   [
     [
+      "2024-05-24, 14:12:01",
+      "https://news.ycombinator.com/item?id=40466469"
+    ],
+    [
+      "Move over, tractor – The farmer wants a crop-spraying drone",
+      "https://spectrum.ieee.org/arthur-erickson-drones-profile"
+    ]
+  ],
+  [
+    [
+      "2024-05-24, 14:07:38",
+      "https://news.ycombinator.com/item?id=40466429"
+    ],
+    [
+      "Morgan Spurlock has died",
+      "https://www.theguardian.com/film/article/2024/may/24/super-size-me-director-morgan-spurlock-dies-aged-53"
+    ]
+  ],
+  [
+    [
+      "2024-05-24, 13:50:39",
+      "https://news.ycombinator.com/item?id=40466255"
+    ],
+    [
+      "Peeking underground with giant flying antennas",
+      "https://hackaday.com/2024/05/21/peeking-underground-with-giant-flying-antennas/"
+    ]
+  ],
+  [
+    [
+      "2024-05-24, 13:09:04",
+      "https://news.ycombinator.com/item?id=40465841"
+    ],
+    [
+      "Don't microservice, do module",
+      "https://yekta.dev/posts/dont-microservice-do-module/"
+    ]
+  ],
+  [
+    [
       "2024-05-24, 12:00:26",
       "https://news.ycombinator.com/item?id=40465259"
     ],
     [
-      "Low-Cost Shield ArdEEG to Measure EEG with Arduino Uno R4 WiFi",
+      "Low-cost shield ardEEG to measure EEG with Arduino Uno R4 WiFi",
       "https://www.preprints.org/manuscript/202405.1643/v1"
+    ]
+  ],
+  [
+    [
+      "2024-05-24, 11:37:18",
+      "https://news.ycombinator.com/item?id=40465090"
+    ],
+    [
+      "Apple's M4 has reportedly adopted the ARMv9 architecture",
+      "https://wccftech.com/apple-m4-adopts-armv9-run-complex-workloads-efficiently/"
     ]
   ],
   [
@@ -175,18 +185,8 @@
       "https://news.ycombinator.com/item?id=40462369"
     ],
     [
-      "Perplexica: Open-Source Perplexity Alternative",
+      "Perplexica: Open-source Perplexity alternative",
       "https://github.com/ItzCrazyKns/Perplexica"
-    ]
-  ],
-  [
-    [
-      "2024-05-23, 21:47:21",
-      "https://news.ycombinator.com/item?id=40460296"
-    ],
-    [
-      "CSharpRepl: C# REPL with syntax highlighting and intellisense",
-      "https://fuqua.io/CSharpRepl/"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2024-05-23, 13:22:47",
-      "https://news.ycombinator.com/item?id=40454383"
-    ],
-    [
-      "First pictures from Euclid satellite reveal billions of orphan stars",
-      "https://www.nottingham.ac.uk/news/first-pictures-from-euclid-satellite-reveal-billions-of-orphan-stars"
-    ]
-  ],
-  [
-    [
       "2024-05-23, 12:58:09",
       "https://news.ycombinator.com/item?id=40454136"
     ],
@@ -295,8 +285,18 @@
       "https://news.ycombinator.com/item?id=40426720"
     ],
     [
-      "New Regular expression (Regex) functions in Excel",
+      "Regular expression functions in Excel",
       "https://insider.microsoft365.com/en-us/blog/new-regular-expression-regex-functions-in-excel"
+    ]
+  ],
+  [
+    [
+      "2024-05-21, 07:04:15",
+      "https://news.ycombinator.com/item?id=40425068"
+    ],
+    [
+      "Response Filter Denial of Service: shut down a website by triggering WAF rule",
+      "https://blog.sicuranext.com/response-filter-denial-of-service-a-new-way-to-shutdown-a-website/"
     ]
   ]
 ]
