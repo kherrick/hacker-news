@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-24, 17:58:58](https://news.ycombinator.com/item?id=40468739) - [Open-source AI projects selected by GitHub accelerator](https://github.blog/2024-05-23-2024-github-accelerator-meet-the-11-projects-shaping-open-source-ai/#giskard-the-testing-platform-for-ai-models-bringing-transparency-and-accountability)
+* [2024-05-24, 18:15:58](https://news.ycombinator.com/item?id=40468933) - [Mp3tag – The Universal Tag Editor](https://www.mp3tag.de/en/)
 * [2024-05-24, 17:39:39](https://news.ycombinator.com/item?id=40468518) - [Financial Statement Analysis with Large Language Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835311)
 * [2024-05-24, 17:00:52](https://news.ycombinator.com/item?id=40468113) - [Flexport (YC W14) is hiring an OR/ML guru to optimize global trade routing](https://boards.greenhouse.io/flexport/jobs/5806177?gh_jid=5806177)
 * [2024-05-24, 16:27:40](https://news.ycombinator.com/item?id=40467741) - [A slightly more fun way to disable Windows Defender (through the WSC API)](https://github.com/es3n1n/no-defender)
