@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2024-05-23, 11:43:06",
-      "https://news.ycombinator.com/item?id=40453467"
-    ],
-    [
-      "The Strangeness of Grief (2019)",
-      "https://www.newyorker.com/magazine/2020/01/06/the-strangeness-of-grief"
-    ]
-  ],
-  [
-    [
       "2024-05-23, 11:13:28",
       "https://news.ycombinator.com/item?id=40453221"
     ],
@@ -277,6 +267,16 @@
     [
       "Things to avoid in Ruby",
       "https://blog.appsignal.com/2024/05/22/five-things-to-avoid-in-ruby.html"
+    ]
+  ],
+  [
+    [
+      "2024-05-22, 06:45:05",
+      "https://news.ycombinator.com/item?id=40438007"
+    ],
+    [
+      "Go's old $GOPATH story for development and dependencies",
+      "https://utcc.utoronto.ca/~cks/space/blog/programming/GoTheGopathDevelopmentStory"
     ]
   ],
   [
