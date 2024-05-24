@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-24, 02:12:58](https://news.ycombinator.com/item?id=40462215) - [Binarize CLIP for Multimodal Applications](https://www.marqo.ai/blog/learn-to-binarize-clip-for-multimodal-retrieval-and-ranking)
-* [2024-05-24, 01:36:19](https://news.ycombinator.com/item?id=40462010) - [African Americans Have the Highest Rate of Fire Deaths and Injuries (2021)](https://www.cpsc.gov/Newsroom/News-Releases/2022/Learn-the-Sounds-of-Fire-Safety-to-Avoid-Danger-African-Americans-Have-the-Highest-Rate-of-Fire-Deaths-and-Injuries)
 * [2024-05-23, 23:23:19](https://news.ycombinator.com/item?id=40461096) - [Dehydration associated with poorer performance on attention tasks among adults](https://onlinelibrary.wiley.com/doi/10.1002/ajhb.24051)
 * [2024-05-23, 21:47:21](https://news.ycombinator.com/item?id=40460296) - [CSharpRepl: C# REPL with syntax highlighting and intellisense](https://fuqua.io/CSharpRepl/)
 * [2024-05-23, 21:00:38](https://news.ycombinator.com/item?id=40459848) - [Checkr (YC S14) is hiring a staff software engineer for Checkr Pay](https://www.ycombinator.com/companies/checkr/jobs/ixzdle1-staff-software-engineer-checkr-pay)
@@ -20,6 +19,7 @@
 * [2024-05-23, 14:31:36](https://news.ycombinator.com/item?id=40455208) - [Making EC2 boot time faster](https://depot.dev/blog/faster-ec2-boot-time)
 * [2024-05-23, 13:22:47](https://news.ycombinator.com/item?id=40454383) - [First pictures from Euclid satellite reveal billions of orphan stars](https://www.nottingham.ac.uk/news/first-pictures-from-euclid-satellite-reveal-billions-of-orphan-stars)
 * [2024-05-23, 12:58:09](https://news.ycombinator.com/item?id=40454136) - [300k airplanes in five years](https://www.construction-physics.com/p/how-to-build-300000-airplanes-in)
+* [2024-05-23, 11:43:06](https://news.ycombinator.com/item?id=40453467) - [The Strangeness of Grief (2019)](https://www.newyorker.com/magazine/2020/01/06/the-strangeness-of-grief)
 * [2024-05-23, 11:13:28](https://news.ycombinator.com/item?id=40453221) - [BB(3, 4) > Ack(14)](https://www.sligocki.com//2024/05/22/bb-3-4-a14.html)
 * [2024-05-23, 10:03:27](https://news.ycombinator.com/item?id=40452731) - [Disappointment](https://www.ams.org/journals/notices/202309/noti2782/noti2782.html)
 * [2024-05-23, 09:52:18](https://news.ycombinator.com/item?id=40452655) - [Tom Waits vs. Frito-Lay, Inc (2003)](http://tomwaitslibrary.info/biography/copyright/frito-lay/)
