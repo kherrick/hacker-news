@@ -75,6 +75,7 @@
 * [2024-05-22, 11:26:48](https://news.ycombinator.com/item?id=40439681) - [WebAssembly: A promising technology that is quietly being enshitified](https://kerkour.com/webassembly-wasi-preview2)
 * [2024-05-22, 11:23:20](https://news.ycombinator.com/item?id=40439654) - [Microsoft Paint's New AI Image Generator Builds on Your Brushstrokes](https://petapixel.com/2024/05/21/microsoft-paints-new-ai-image-generator-builds-on-your-brushstrokes/)
 * [2024-05-22, 11:21:16](https://news.ycombinator.com/item?id=40439641) - [A Faster SuperSplat with PWA Support](https://blog.playcanvas.com/a-faster-supersplat-with-pwa-support/)
+* [2024-05-22, 11:18:48](https://news.ycombinator.com/item?id=40439628) - [Interview of Ben Titzer, Co-Founder of WebAssembly](https://microarch.club/episodes/1000/)
 * [2024-05-22, 11:08:23](https://news.ycombinator.com/item?id=40439572) - [Holographic Theory of Learning](https://jovex.substack.com/p/holographic-theory-of-learning)
 * [2024-05-22, 11:06:44](https://news.ycombinator.com/item?id=40439558) - [Are commercial \"third places\" a dying breed?](https://spacing.ca/toronto/2024/04/26/are-commercial-third-places-a-dying-breed/)
 * [2024-05-22, 10:59:46](https://news.ycombinator.com/item?id=40439515) - [Windows 10 wallpaper was physically built and photographed](https://gmunk.com/Windows-10-Desktop/)
