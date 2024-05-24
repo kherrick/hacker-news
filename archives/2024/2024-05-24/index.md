@@ -4,8 +4,16 @@
 
 ### [Archives](../../index.md) for [2024-05-24](index.md)
 
+* [2024-05-24, 16:16:37](https://news.ycombinator.com/item?id=40467625) - [ICQ will stop working from June 26](https://icq.com/desktop/en#windows)
+* [2024-05-24, 15:54:39](https://news.ycombinator.com/item?id=40467419) - [RAG, fine-tuning, API calling and gptscript for Llama 3 running locally](https://github.com/helixml/helix/releases/tag/0.9.1)
+* [2024-05-24, 15:51:50](https://news.ycombinator.com/item?id=40467393) - [Morgan Spurlock, filmmaker behind 'Super Size Me' documentary, dies from cancer](https://abcnews.go.com/US/morgan-spurlock-filmmaker-super-size-documentary-dies-cancer/story?id=110534964)
+* [2024-05-24, 15:41:22](https://news.ycombinator.com/item?id=40467297) - [Writing a Unix clone in about a month](https://drewdevault.com/2024/05/24/2024-05-24-Bunnix.html)
+* [2024-05-24, 15:35:04](https://news.ycombinator.com/item?id=40467232) - [Samsung WB850F Firmware Reverse-Engineering](https://op-co.de/blog/posts/samsung_wb850f_firmware/)
 * [2024-05-24, 15:09:45](https://news.ycombinator.com/item?id=40467007) - [Morgan Spurlock, Known for 'Super Size Me,' Dies at 53](https://www.nytimes.com/2024/05/24/arts/morgan-spurlock-dead-super-size-me.html)
+* [2024-05-24, 15:00:28](https://news.ycombinator.com/item?id=40466931) - [Ask HN: Alternatives to HashiCorp Packer?](https://news.ycombinator.com/item?id=40466931)
 * [2024-05-24, 14:54:25](https://news.ycombinator.com/item?id=40466868) - [We Shift Testing Left: A Software Dev Cycle That Doesn't Scale](https://thenewstack.io/why-we-shift-testing-left-a-software-dev-cycle-that-doesnt-scale/)
+* [2024-05-24, 14:50:07](https://news.ycombinator.com/item?id=40466826) - [Thermodynamic Natural Gradient Descent](https://arxiv.org/abs/2405.13817)
+* [2024-05-24, 14:47:09](https://news.ycombinator.com/item?id=40466799) - [Journal of Computational Linguistics](https://direct.mit.edu/coli)
 * [2024-05-24, 14:43:15](https://news.ycombinator.com/item?id=40466763) - [How to Move from Redis to Valkey](https://fedoramagazine.org/how-to-move-from-redis-to-valkey/)
 * [2024-05-24, 14:23:20](https://news.ycombinator.com/item?id=40466574) - [RAG 2.0](https://contextual.ai/introducing-rag2/)
 * [2024-05-24, 14:12:32](https://news.ycombinator.com/item?id=40466478) - [Cosmic Glitch: Scientists Discover an Anomaly in the Universe's Gravity](https://www.businessinsider.com/cosmic-glitch-makes-scientists-rethink-einstein-greatest-theory-2024-5)
