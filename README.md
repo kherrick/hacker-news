@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-24, 21:26:13](https://news.ycombinator.com/item?id=40470614) - [The inaccessible and abandoned islands of New York – in pictures](https://www.theguardian.com/artanddesign/gallery/2024/may/24/inaccessible-abandoned-islands-new-york-in-pictures)
 * [2024-05-24, 21:00:54](https://news.ycombinator.com/item?id=40470454) - [Freshpaint (YC S19) is hiring software engineers to protect patient privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
+* [2024-05-24, 20:59:43](https://news.ycombinator.com/item?id=40470448) - [Factorio Undo/Redo Improvements and Car Latency Driving](https://factorio.com/blog/post/fff-412)
 * [2024-05-24, 19:19:31](https://news.ycombinator.com/item?id=40469592) - [Show HN: Spot – Simple, cross-platform, reactive desktop GUI toolkit for Go](https://github.com/roblillack/spot)
 * [2024-05-24, 18:15:58](https://news.ycombinator.com/item?id=40468933) - [Mp3tag – The Universal Tag Editor](https://www.mp3tag.de/en/)
 * [2024-05-24, 17:39:39](https://news.ycombinator.com/item?id=40468518) - [Financial Statement Analysis with Large Language Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835311)
@@ -17,6 +19,7 @@
 * [2024-05-24, 11:22:21](https://news.ycombinator.com/item?id=40464994) - [Imperceptible sensors can be printed directly on human skin](https://www.cam.ac.uk/research/news/imperceptible-sensors-made-from-electronic-spider-silk-can-be-printed-directly-on-human-skin)
 * [2024-05-24, 09:54:59](https://news.ycombinator.com/item?id=40464558) - [Voxel Displacement Renderer – Modernizing the Retro 3D Aesthetic](https://blog.danielschroeder.me/2024/05/voxel-displacement-modernizing-retro-3d/)
 * [2024-05-24, 08:56:22](https://news.ycombinator.com/item?id=40464303) - [Lewis Carroll – computing the day of the week for any given date (1887)](https://www.futilitycloset.com/2024/05/24/day-tripper/)
+* [2024-05-24, 07:43:05](https://news.ycombinator.com/item?id=40463887) - [LZW and GIF explained](https://www.eecis.udel.edu/~amer/CISC651/lzw.and.gif.explained.html)
 * [2024-05-24, 07:23:07](https://news.ycombinator.com/item?id=40463764) - [2D Rigid Body Collision Resolution](https://www.sassnow.ski/rigid-body-collisions/1)
 * [2024-05-24, 05:13:33](https://news.ycombinator.com/item?id=40463011) - [Blue Field Entoptic Phenomenon](https://en.wikipedia.org/wiki/Blue_field_entoptic_phenomenon)
 * [2024-05-24, 02:49:44](https://news.ycombinator.com/item?id=40462369) - [Perplexica: Open-source Perplexity alternative](https://github.com/ItzCrazyKns/Perplexica)
@@ -24,11 +27,8 @@
 * [2024-05-23, 19:08:29](https://news.ycombinator.com/item?id=40458662) - [Retired detective: We got it wrong in Robert Roberson's death penalty case](https://www.dallasnews.com/opinion/commentary/2024/05/23/retired-detective-we-got-it-wrong-in-robert-robersons-death-penalty-case/)
 * [2024-05-23, 17:29:58](https://news.ycombinator.com/item?id=40457500) - [Advancing Our Bet on Asymmetric Cryptography](https://blog.chromium.org/2024/05/advancing-our-amazing-bet-on-asymmetric.html)
 * [2024-05-23, 15:50:25](https://news.ycombinator.com/item?id=40456236) - [Show HN: We open sourced our entire text-to-SQL product](https://github.com/Dataherald/dataherald)
-* [2024-05-23, 15:31:09](https://news.ycombinator.com/item?id=40455944) - [Matcha.css – Drop-in semantic styling library in pure CSS](https://matcha.mizu.sh/)
 * [2024-05-23, 15:16:20](https://news.ycombinator.com/item?id=40455758) - [The Space Quest II Master Disk Blunder](https://lanceewing.github.io/blog/sierra/agi/sq2/2024/05/22/do-you-own-this-space-quest-2-disk.html)
 * [2024-05-23, 12:58:09](https://news.ycombinator.com/item?id=40454136) - [300k airplanes in five years](https://www.construction-physics.com/p/how-to-build-300000-airplanes-in)
-* [2024-05-23, 09:52:18](https://news.ycombinator.com/item?id=40452655) - [Tom Waits vs. Frito-Lay, Inc (2003)](http://tomwaitslibrary.info/biography/copyright/frito-lay/)
-* [2024-05-21, 10:57:35](https://news.ycombinator.com/item?id=40426720) - [Regular expression functions in Excel](https://insider.microsoft365.com/en-us/blog/new-regular-expression-regex-functions-in-excel)
 * [2024-05-21, 07:04:15](https://news.ycombinator.com/item?id=40425068) - [Response Filter Denial of Service: shut down a website by triggering WAF rule](https://blog.sicuranext.com/response-filter-denial-of-service-a-new-way-to-shutdown-a-website/)
 
 ## [Archives](archives/index.md)

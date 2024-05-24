@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-05-24](index.md)
 
+* [2024-05-24, 21:26:13](https://news.ycombinator.com/item?id=40470614) - [The inaccessible and abandoned islands of New York – in pictures](https://www.theguardian.com/artanddesign/gallery/2024/may/24/inaccessible-abandoned-islands-new-york-in-pictures)
 * [2024-05-24, 21:21:24](https://news.ycombinator.com/item?id=40470580) - [Startups on hard mode: Oxide. Part 1: Hardware](https://newsletter.pragmaticengineer.com/p/oxide)
 * [2024-05-24, 21:00:54](https://news.ycombinator.com/item?id=40470454) - [Freshpaint (YC S19) is hiring software engineers to protect patient privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
+* [2024-05-24, 20:59:43](https://news.ycombinator.com/item?id=40470448) - [Factorio Undo/Redo Improvements and Car Latency Driving](https://factorio.com/blog/post/fff-412)
 * [2024-05-24, 19:33:36](https://news.ycombinator.com/item?id=40469711) - [Ian Clarke Explains the Next Generation of Freenet [video]](https://www.youtube.com/watch?v=yBtyNIqZios)
 * [2024-05-24, 19:20:56](https://news.ycombinator.com/item?id=40469606) - [Google AI: People should eat at least one small rock a day](https://mastodon.social/@danielnazer/112492966707079287#.)
 * [2024-05-24, 19:19:31](https://news.ycombinator.com/item?id=40469592) - [Show HN: Spot – Simple, cross-platform, reactive desktop GUI toolkit for Go](https://github.com/roblillack/spot)
@@ -63,6 +65,7 @@
 * [2024-05-24, 09:40:04](https://news.ycombinator.com/item?id=40464495) - [Kabosu, the Dog Behind the 'Doge' Meme, Has Died](https://www.ign.com/articles/kabosu-the-dog-behind-the-doge-meme-has-died)
 * [2024-05-24, 09:39:39](https://news.ycombinator.com/item?id=40464490) - [Shiba Inu which inspired the 'doge' meme and became face of Dogecoin has died](https://news.sky.com/story/kabosu-dies-shiba-inu-which-inspired-the-doge-meme-and-became-face-of-dogecoin-has-died-12895009)
 * [2024-05-24, 08:56:22](https://news.ycombinator.com/item?id=40464303) - [Lewis Carroll – computing the day of the week for any given date (1887)](https://www.futilitycloset.com/2024/05/24/day-tripper/)
+* [2024-05-24, 07:43:05](https://news.ycombinator.com/item?id=40463887) - [LZW and GIF explained](https://www.eecis.udel.edu/~amer/CISC651/lzw.and.gif.explained.html)
 * [2024-05-24, 07:23:07](https://news.ycombinator.com/item?id=40463764) - [2D Rigid Body Collision Resolution](https://www.sassnow.ski/rigid-body-collisions/1)
 * [2024-05-24, 07:02:06](https://news.ycombinator.com/item?id=40463636) - [How to Be Obscene (1927)](https://www.newyorker.com/magazine/1927/07/02/how-to-be-obscene)
 * [2024-05-24, 07:01:28](https://news.ycombinator.com/item?id=40463633) - [Bloop (YC S21) Is Hiring AI Engineers. Devin for Legacy Code (London, Onsite)](https://www.ycombinator.com/companies/bloop/jobs/iCrEllp-applied-ai-software-engineer)
