@@ -64,6 +64,7 @@
 * [2024-05-22, 13:34:41](https://news.ycombinator.com/item?id=40440790) - [India's campaign to threaten and harass Americans](https://www.vox.com/world-politics/24160779/inside-indias-secret-campaign-to-threaten-and-harass-americans)
 * [2024-05-22, 13:24:45](https://news.ycombinator.com/item?id=40440662) - [Mars rover mission will use pioneering nuclear power source](https://www.nature.com/articles/d41586-024-01487-6)
 * [2024-05-22, 13:14:00](https://news.ycombinator.com/item?id=40440531) - [New Marine radios cement electromagnetic spectrum superiority](https://www.doncio.navy.mil/CHIPS/ArticleDetails.aspx?ID=16600)
+* [2024-05-22, 13:03:09](https://news.ycombinator.com/item?id=40440436) - [LunarML – The Standard ML compiler that produces Lua/JavaScript](https://github.com/minoki/LunarML)
 * [2024-05-22, 12:55:50](https://news.ycombinator.com/item?id=40440352) - [Pedestrians 'twice as likely' to be hit by an electric or hybrid-electric car](https://www.lshtm.ac.uk/newsevents/news/2024/pedestrians-twice-likely-be-hit-electric-or-hybrid-electric-car)
 * [2024-05-22, 12:48:15](https://news.ycombinator.com/item?id=40440283) - ['Right to roam' movement fights to give the commons back to the public](https://news.mongabay.com/2024/05/right-to-roam-movement-fights-to-give-the-commons-back-to-the-commoners/)
 * [2024-05-22, 12:31:28](https://news.ycombinator.com/item?id=40440159) - [On Self-driving, Waymo is playing chess while Tesla plays checkers](https://arstechnica.com/cars/2024/05/on-self-driving-waymo-is-playing-chess-while-tesla-plays-checkers/)
