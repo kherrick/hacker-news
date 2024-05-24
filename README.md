@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-24, 19:20:56](https://news.ycombinator.com/item?id=40469606) - [Google AI: People should eat at least one small rock a day](https://mastodon.social/@danielnazer/112492966707079287#.)
-* [2024-05-24, 18:34:03](https://news.ycombinator.com/item?id=40469126) - [Can I use gasoline to cook spaghetti faster?](https://mastodon.social/@JoeUchill/112493317168967705)
+* [2024-05-24, 19:08:43](https://news.ycombinator.com/item?id=40469487) - [Criminal record database of Americans dumped online](https://www.malwarebytes.com/blog/news/2024/05/criminal-record-database-of-millions-of-americans-dumped-online)
 * [2024-05-24, 18:25:09](https://news.ycombinator.com/item?id=40469040) - [The Student Syndrome: Delaying until right before deadlines](https://solvingprocrastination.com/student-syndrome/)
 * [2024-05-24, 18:15:58](https://news.ycombinator.com/item?id=40468933) - [Mp3tag – The Universal Tag Editor](https://www.mp3tag.de/en/)
 * [2024-05-24, 17:39:39](https://news.ycombinator.com/item?id=40468518) - [Financial Statement Analysis with Large Language Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835311)
@@ -29,6 +28,7 @@
 * [2024-05-23, 15:50:25](https://news.ycombinator.com/item?id=40456236) - [Show HN: We open sourced our entire text-to-SQL product](https://github.com/Dataherald/dataherald)
 * [2024-05-23, 15:16:20](https://news.ycombinator.com/item?id=40455758) - [The Space Quest II Master Disk Blunder](https://lanceewing.github.io/blog/sierra/agi/sq2/2024/05/22/do-you-own-this-space-quest-2-disk.html)
 * [2024-05-23, 12:58:09](https://news.ycombinator.com/item?id=40454136) - [300k airplanes in five years](https://www.construction-physics.com/p/how-to-build-300000-airplanes-in)
+* [2024-05-21, 10:57:35](https://news.ycombinator.com/item?id=40426720) - [Regular expression functions in Excel](https://insider.microsoft365.com/en-us/blog/new-regular-expression-regex-functions-in-excel)
 * [2024-05-21, 07:04:15](https://news.ycombinator.com/item?id=40425068) - [Response Filter Denial of Service: shut down a website by triggering WAF rule](https://blog.sicuranext.com/response-filter-denial-of-service-a-new-way-to-shutdown-a-website/)
 
 ## [Archives](archives/index.md)
