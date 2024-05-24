@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-24](index.md)
 
+* [2024-05-24, 12:33:21](https://news.ycombinator.com/item?id=40465529) - [Spyware found on US hotel check-in computers](https://techcrunch.com/2024/05/22/spyware-found-on-hotel-check-in-computers/)
 * [2024-05-24, 12:00:30](https://news.ycombinator.com/item?id=40465260) - [Motion (YC W20) is hiring senior engineers looking for their next challenge](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2024-05-24, 12:00:26](https://news.ycombinator.com/item?id=40465259) - [Low-Cost Shield ArdEEG to Measure EEG with Arduino Uno R4 WiFi](https://www.preprints.org/manuscript/202405.1643/v1)
 * [2024-05-24, 11:48:47](https://news.ycombinator.com/item?id=40465174) - [Working Smarter, Not Harder](https://trishagee.com/2024/05/24/working-smarter-not-harder/)
