@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-05-24, 15:51:50",
-      "https://news.ycombinator.com/item?id=40467393"
-    ],
-    [
-      "Morgan Spurlock, filmmaker behind 'Super Size Me' documentary, dies from cancer",
-      "https://abcnews.go.com/US/morgan-spurlock-filmmaker-super-size-documentary-dies-cancer/story?id=110534964"
-    ]
-  ],
-  [
-    [
       "2024-05-24, 15:41:22",
       "https://news.ycombinator.com/item?id=40467297"
     ],
@@ -51,16 +41,6 @@
   ],
   [
     [
-      "2024-05-24, 15:00:28",
-      "https://news.ycombinator.com/item?id=40466931"
-    ],
-    [
-      "Ask HN: Alternatives to HashiCorp Packer?",
-      "https://news.ycombinator.com/item?id=40466931"
-    ]
-  ],
-  [
-    [
       "2024-05-24, 14:54:25",
       "https://news.ycombinator.com/item?id=40466868"
     ],
@@ -77,16 +57,6 @@
     [
       "Thermodynamic Natural Gradient Descent",
       "https://arxiv.org/abs/2405.13817"
-    ]
-  ],
-  [
-    [
-      "2024-05-24, 14:12:01",
-      "https://news.ycombinator.com/item?id=40466469"
-    ],
-    [
-      "Move Over, Tractor–The Farmer Wants a Crop-Spraying Drone",
-      "https://spectrum.ieee.org/arthur-erickson-drones-profile"
     ]
   ],
   [
@@ -201,6 +171,16 @@
   ],
   [
     [
+      "2024-05-23, 15:41:29",
+      "https://news.ycombinator.com/item?id=40456107"
+    ],
+    [
+      "We're ending our Samsung collaboration",
+      "https://www.ifixit.com/News/96162/were-ending-our-samsung-collaboration"
+    ]
+  ],
+  [
+    [
       "2024-05-23, 15:38:25",
       "https://news.ycombinator.com/item?id=40456064"
     ],
@@ -267,6 +247,26 @@
     [
       "Tom Waits vs. Frito-Lay, Inc (2003)",
       "http://tomwaitslibrary.info/biography/copyright/frito-lay/"
+    ]
+  ],
+  [
+    [
+      "2024-05-23, 07:17:22",
+      "https://news.ycombinator.com/item?id=40451525"
+    ],
+    [
+      "M2dir: Treating mails as files without going crazy",
+      "https://bitfehler.srht.site/posts/2024-04-15_m2dir-treating-mails-as-files-without-going-crazy.html"
+    ]
+  ],
+  [
+    [
+      "2024-05-22, 13:03:09",
+      "https://news.ycombinator.com/item?id=40440436"
+    ],
+    [
+      "LunarML – The Standard ML compiler that produces Lua/JavaScript",
+      "https://github.com/minoki/LunarML"
     ]
   ],
   [
