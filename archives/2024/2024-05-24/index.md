@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-24](index.md)
 
+* [2024-05-24, 15:09:45](https://news.ycombinator.com/item?id=40467007) - [Morgan Spurlock, Known for 'Super Size Me,' Dies at 53](https://www.nytimes.com/2024/05/24/arts/morgan-spurlock-dead-super-size-me.html)
+* [2024-05-24, 14:54:25](https://news.ycombinator.com/item?id=40466868) - [We Shift Testing Left: A Software Dev Cycle That Doesn't Scale](https://thenewstack.io/why-we-shift-testing-left-a-software-dev-cycle-that-doesnt-scale/)
 * [2024-05-24, 14:43:15](https://news.ycombinator.com/item?id=40466763) - [How to Move from Redis to Valkey](https://fedoramagazine.org/how-to-move-from-redis-to-valkey/)
 * [2024-05-24, 14:23:20](https://news.ycombinator.com/item?id=40466574) - [RAG 2.0](https://contextual.ai/introducing-rag2/)
 * [2024-05-24, 14:12:32](https://news.ycombinator.com/item?id=40466478) - [Cosmic Glitch: Scientists Discover an Anomaly in the Universe's Gravity](https://www.businessinsider.com/cosmic-glitch-makes-scientists-rethink-einstein-greatest-theory-2024-5)
@@ -13,6 +15,7 @@
 * [2024-05-24, 13:36:46](https://news.ycombinator.com/item?id=40466138) - [Declassified U.S. satellite photos show Belarus has new nuclear weapons sites](https://www.technology.org/2024/05/17/declassified-u-s-satellite-photos-show-belarus-has-new-nuclear-weapons-sites/)
 * [2024-05-24, 13:26:22](https://news.ycombinator.com/item?id=40466042) - [Recovering electricity from heat storage hits 44% efficiency](https://news.umich.edu/renewable-grid-recovering-electricity-from-heat-storage-hits-44-efficiency/)
 * [2024-05-24, 13:09:04](https://news.ycombinator.com/item?id=40465841) - [Don't Microservice, Do Module](https://yekta.dev/posts/dont-microservice-do-module/)
+* [2024-05-24, 13:04:24](https://news.ycombinator.com/item?id=40465803) - [Spot: Reactive, cross-platform desktop GUI toolkit for Go](https://github.com/roblillack/spot)
 * [2024-05-24, 12:33:21](https://news.ycombinator.com/item?id=40465529) - [Spyware found on US hotel check-in computers](https://techcrunch.com/2024/05/22/spyware-found-on-hotel-check-in-computers/)
 * [2024-05-24, 12:00:30](https://news.ycombinator.com/item?id=40465260) - [Motion (YC W20) is hiring senior engineers looking for their next challenge](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2024-05-24, 12:00:26](https://news.ycombinator.com/item?id=40465259) - [Low-Cost Shield ArdEEG to Measure EEG with Arduino Uno R4 WiFi](https://www.preprints.org/manuscript/202405.1643/v1)
