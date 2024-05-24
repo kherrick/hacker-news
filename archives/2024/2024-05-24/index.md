@@ -63,6 +63,7 @@
 * [2024-05-24, 07:02:06](https://news.ycombinator.com/item?id=40463636) - [How to Be Obscene (1927)](https://www.newyorker.com/magazine/1927/07/02/how-to-be-obscene)
 * [2024-05-24, 07:01:28](https://news.ycombinator.com/item?id=40463633) - [Bloop (YC S21) Is Hiring AI Engineers. Devin for Legacy Code (London, Onsite)](https://www.ycombinator.com/companies/bloop/jobs/iCrEllp-applied-ai-software-engineer)
 * [2024-05-24, 06:20:56](https://news.ycombinator.com/item?id=40463383) - [Almost 30% of Americans Say College Not Worth It in Pew Poll](https://www.bloomberg.com/news/articles/2024-05-23/almost-30-of-americans-say-college-not-worth-it-in-pew-poll)
+* [2024-05-24, 05:26:00](https://news.ycombinator.com/item?id=40463068) - [Ask HN: How do you handle LICENSE notices in published Docker images?](https://news.ycombinator.com/item?id=40463068)
 * [2024-05-24, 05:17:08](https://news.ycombinator.com/item?id=40463029) - [Scrum's Built-In 'Get Out of Jail Free Card' Against Criticism](https://mdalmijn.com/p/scrums-built-in-get-out-of-jail-free)
 * [2024-05-24, 05:13:33](https://news.ycombinator.com/item?id=40463011) - [Blue Field Entoptic Phenomenon](https://en.wikipedia.org/wiki/Blue_field_entoptic_phenomenon)
 * [2024-05-24, 04:22:43](https://news.ycombinator.com/item?id=40462780) - [World in a Box](https://placesjournal.org/article/social-history-of-the-cardboard-box/)
