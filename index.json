@@ -1,12 +1,92 @@
 [
   [
     [
+      "2024-05-24, 16:16:37",
+      "https://news.ycombinator.com/item?id=40467625"
+    ],
+    [
+      "ICQ will stop working from June 26",
+      "https://icq.com/desktop/en#windows"
+    ]
+  ],
+  [
+    [
+      "2024-05-24, 15:54:39",
+      "https://news.ycombinator.com/item?id=40467419"
+    ],
+    [
+      "RAG, fine-tuning, API calling and gptscript for Llama 3 running locally",
+      "https://github.com/helixml/helix/releases/tag/0.9.1"
+    ]
+  ],
+  [
+    [
+      "2024-05-24, 15:51:50",
+      "https://news.ycombinator.com/item?id=40467393"
+    ],
+    [
+      "Morgan Spurlock, filmmaker behind 'Super Size Me' documentary, dies from cancer",
+      "https://abcnews.go.com/US/morgan-spurlock-filmmaker-super-size-documentary-dies-cancer/story?id=110534964"
+    ]
+  ],
+  [
+    [
+      "2024-05-24, 15:41:22",
+      "https://news.ycombinator.com/item?id=40467297"
+    ],
+    [
+      "Writing a Unix clone in about a month",
+      "https://drewdevault.com/2024/05/24/2024-05-24-Bunnix.html"
+    ]
+  ],
+  [
+    [
+      "2024-05-24, 15:35:04",
+      "https://news.ycombinator.com/item?id=40467232"
+    ],
+    [
+      "Samsung WB850F Firmware Reverse-Engineering",
+      "https://op-co.de/blog/posts/samsung_wb850f_firmware/"
+    ]
+  ],
+  [
+    [
+      "2024-05-24, 15:00:28",
+      "https://news.ycombinator.com/item?id=40466931"
+    ],
+    [
+      "Ask HN: Alternatives to HashiCorp Packer?",
+      "https://news.ycombinator.com/item?id=40466931"
+    ]
+  ],
+  [
+    [
       "2024-05-24, 14:54:25",
       "https://news.ycombinator.com/item?id=40466868"
     ],
     [
       "We Shift Testing Left: A Software Dev Cycle That Doesn't Scale",
       "https://thenewstack.io/why-we-shift-testing-left-a-software-dev-cycle-that-doesnt-scale/"
+    ]
+  ],
+  [
+    [
+      "2024-05-24, 14:50:07",
+      "https://news.ycombinator.com/item?id=40466826"
+    ],
+    [
+      "Thermodynamic Natural Gradient Descent",
+      "https://arxiv.org/abs/2405.13817"
+    ]
+  ],
+  [
+    [
+      "2024-05-24, 14:47:09",
+      "https://news.ycombinator.com/item?id=40466799"
+    ],
+    [
+      "Journal of Computational Linguistics",
+      "https://direct.mit.edu/coli"
     ]
   ],
   [
@@ -27,16 +107,6 @@
     [
       "Move Over, Tractor–The Farmer Wants a Crop-Spraying Drone",
       "https://spectrum.ieee.org/arthur-erickson-drones-profile"
-    ]
-  ],
-  [
-    [
-      "2024-05-24, 13:50:39",
-      "https://news.ycombinator.com/item?id=40466255"
-    ],
-    [
-      "Peeking underground with giant flying antennas",
-      "https://hackaday.com/2024/05/21/peeking-underground-with-giant-flying-antennas/"
     ]
   ],
   [
@@ -111,26 +181,6 @@
   ],
   [
     [
-      "2024-05-23, 21:47:21",
-      "https://news.ycombinator.com/item?id=40460296"
-    ],
-    [
-      "CSharpRepl: C# REPL with syntax highlighting and intellisense",
-      "https://fuqua.io/CSharpRepl/"
-    ]
-  ],
-  [
-    [
-      "2024-05-23, 18:03:31",
-      "https://news.ycombinator.com/item?id=40457856"
-    ],
-    [
-      "Cement recycling method could help solve one of the big climate challenges",
-      "https://www.cam.ac.uk/stories/cement-recycling"
-    ]
-  ],
-  [
-    [
       "2024-05-23, 17:29:58",
       "https://news.ycombinator.com/item?id=40457500"
     ],
@@ -157,16 +207,6 @@
     [
       "Daylight Computer – New 60fps e-paper tablet",
       "https://daylightcomputer.com/product"
-    ]
-  ],
-  [
-    [
-      "2024-05-23, 15:41:29",
-      "https://news.ycombinator.com/item?id=40456107"
-    ],
-    [
-      "We're ending our Samsung collaboration",
-      "https://www.ifixit.com/News/96162/were-ending-our-samsung-collaboration"
     ]
   ],
   [
@@ -201,16 +241,6 @@
   ],
   [
     [
-      "2024-05-23, 13:22:47",
-      "https://news.ycombinator.com/item?id=40454383"
-    ],
-    [
-      "First pictures from Euclid satellite reveal billions of orphan stars",
-      "https://www.nottingham.ac.uk/news/first-pictures-from-euclid-satellite-reveal-billions-of-orphan-stars"
-    ]
-  ],
-  [
-    [
       "2024-05-23, 12:58:09",
       "https://news.ycombinator.com/item?id=40454136"
     ],
@@ -237,36 +267,6 @@
     [
       "Tom Waits vs. Frito-Lay, Inc (2003)",
       "http://tomwaitslibrary.info/biography/copyright/frito-lay/"
-    ]
-  ],
-  [
-    [
-      "2024-05-23, 07:17:22",
-      "https://news.ycombinator.com/item?id=40451525"
-    ],
-    [
-      "M2dir: Treating mails as files without going crazy",
-      "https://bitfehler.srht.site/posts/2024-04-15_m2dir-treating-mails-as-files-without-going-crazy.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-23, 06:03:51",
-      "https://news.ycombinator.com/item?id=40451009"
-    ],
-    [
-      "DuckDuckGo was down",
-      "https://duckduckgo.com"
-    ]
-  ],
-  [
-    [
-      "2024-05-22, 13:03:09",
-      "https://news.ycombinator.com/item?id=40440436"
-    ],
-    [
-      "LunarML – The Standard ML compiler that produces Lua/JavaScript",
-      "https://github.com/minoki/LunarML"
     ]
   ],
   [
