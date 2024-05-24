@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-24](index.md)
 
+* [2024-05-24, 05:17:08](https://news.ycombinator.com/item?id=40463029) - [Scrum's Built-In 'Get Out of Jail Free Card' Against Criticism](https://mdalmijn.com/p/scrums-built-in-get-out-of-jail-free)
 * [2024-05-24, 02:52:41](https://news.ycombinator.com/item?id=40462382) - [New MacBook Setup](https://hire.jonasgalvez.com.br/2024/may/23/macbook-setup/)
 * [2024-05-24, 02:49:44](https://news.ycombinator.com/item?id=40462369) - [Perplexica: Open-Source Perplexity Alternative](https://github.com/ItzCrazyKns/Perplexica)
 * [2024-05-24, 02:41:51](https://news.ycombinator.com/item?id=40462340) - [Google AI search feature suggested using glue to keep cheese sticking to a pizza](https://www.businessinsider.com/google-search-ai-overviews-glue-keep-cheese-pizza-2024-5)
