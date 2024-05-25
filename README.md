@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-25, 17:00:13](https://news.ycombinator.com/item?id=40476276) - [Lago: Open-Source Usage Based Billing Is Hiring a Founding Product Marketer](https://www.ycombinator.com/companies/lago/jobs/8aqFA2l-product-marketer)
 * [2024-05-25, 16:35:24](https://news.ycombinator.com/item?id=40476081) - [The Harsh Truth Behind Samsung's Phone Repair Program](https://gizmodo.com/harsh-truth-samsung-phone-repair-program-ifixit-1851500413)
 * [2024-05-25, 15:24:27](https://news.ycombinator.com/item?id=40475578) - [Google scrambles to manually remove weird AI answers in search](https://www.theverge.com/2024/5/24/24164119/google-ai-overview-mistakes-search-race-openai)
 * [2024-05-25, 14:10:36](https://news.ycombinator.com/item?id=40475178) - [The hikikomori in Asia: A life within four walls](https://www.cnn.com/interactive/2024/05/world/hikikomori-asia-personal-stories-wellness/)
 * [2024-05-25, 14:01:22](https://news.ycombinator.com/item?id=40475125) - [Goodix Fingerprint Drivers for Linux (Or at Least Debian)](https://github.com/tcsenpai/goodix-debian-linux-drivers-fingerprint-by-dell)
 * [2024-05-25, 13:53:09](https://news.ycombinator.com/item?id=40475089) - [The Prophet Who Failed](https://harpers.org/archive/2024/06/the-prophet-who-wasnt-after-the-apocalypse-that-failed-emily-harnett/)
-* [2024-05-25, 13:50:19](https://news.ycombinator.com/item?id=40475076) - [Japan's clothes-drying bathrooms](https://www.bloomberg.com/news/articles/2024-05-22/laundry-lessons-from-japanese-bathroom-technology)
 * [2024-05-25, 12:58:20](https://news.ycombinator.com/item?id=40474759) - [The Cognitive Design of Tools of Thought (2014) [pdf]](http://gjgreenberg.bol.ucla.edu/docs/rpp/04_tversky.pdf)
 * [2024-05-25, 12:50:00](https://news.ycombinator.com/item?id=40474712) - [Abusing Go's Infrastructure](https://reverse.put.as/2024/05/24/abusing-go-infrastructure/)
 * [2024-05-25, 11:42:23](https://news.ycombinator.com/item?id=40474294) - [Lessons from the Trenches on Reproducible Evaluation of Language Models](https://arxiv.org/abs/2405.14782)

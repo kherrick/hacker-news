@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-25](index.md)
 
+* [2024-05-25, 17:00:13](https://news.ycombinator.com/item?id=40476276) - [Lago: Open-Source Usage Based Billing Is Hiring a Founding Product Marketer](https://www.ycombinator.com/companies/lago/jobs/8aqFA2l-product-marketer)
 * [2024-05-25, 16:35:24](https://news.ycombinator.com/item?id=40476081) - [The Harsh Truth Behind Samsung's Phone Repair Program](https://gizmodo.com/harsh-truth-samsung-phone-repair-program-ifixit-1851500413)
 * [2024-05-25, 15:50:32](https://news.ycombinator.com/item?id=40475736) - [Google labeled \"an illegal monopolist\" by US federal judge](https://www.notebookcheck.net/Google-labeled-an-illegal-monopolist-by-US-federal-judge.841019.0.html)
 * [2024-05-25, 15:24:27](https://news.ycombinator.com/item?id=40475578) - [Google scrambles to manually remove weird AI answers in search](https://www.theverge.com/2024/5/24/24164119/google-ai-overview-mistakes-search-race-openai)
