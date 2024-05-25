@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-25](index.md)
 
+* [2024-05-25, 12:58:20](https://news.ycombinator.com/item?id=40474759) - [The Cognitive Design of Tools of Thought [pdf]](http://gjgreenberg.bol.ucla.edu/docs/rpp/04_tversky.pdf)
 * [2024-05-25, 12:50:00](https://news.ycombinator.com/item?id=40474712) - [Abusing Go's Infrastructure](https://reverse.put.as/2024/05/24/abusing-go-infrastructure/)
 * [2024-05-25, 12:30:12](https://news.ycombinator.com/item?id=40474594) - [Developers Aren't Nerds](https://0xff.nu/dev-and-nerd)
 * [2024-05-25, 12:18:53](https://news.ycombinator.com/item?id=40474516) - [The deskilling of web dev is harming us all](https://www.baldurbjarnason.com/2024/the-deskilling-of-web-dev-is-harming-us-all/)
