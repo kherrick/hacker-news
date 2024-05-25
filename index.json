@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-05-25, 20:28:38",
+      "https://news.ycombinator.com/item?id=40477604"
+    ],
+    [
+      "Taming Floating-Point Sums",
+      "https://orlp.net/blog/taming-float-sums/"
+    ]
+  ],
+  [
+    [
       "2024-05-25, 20:13:34",
       "https://news.ycombinator.com/item?id=40477500"
     ],
@@ -51,12 +61,12 @@
   ],
   [
     [
-      "2024-05-25, 15:24:27",
-      "https://news.ycombinator.com/item?id=40475578"
+      "2024-05-25, 17:20:30",
+      "https://news.ycombinator.com/item?id=40476410"
     ],
     [
-      "Google scrambles to manually remove weird AI answers in search",
-      "https://www.theverge.com/2024/5/24/24164119/google-ai-overview-mistakes-search-race-openai"
+      "Tmux is worse-is-better",
+      "https://hiandrewquinn.github.io/til-site/posts/tmux-is-worse-is-better/"
     ]
   ],
   [
@@ -81,12 +91,42 @@
   ],
   [
     [
+      "2024-05-25, 13:53:09",
+      "https://news.ycombinator.com/item?id=40475089"
+    ],
+    [
+      "The Prophet Who Failed",
+      "https://harpers.org/archive/2024/06/the-prophet-who-wasnt-after-the-apocalypse-that-failed-emily-harnett/"
+    ]
+  ],
+  [
+    [
+      "2024-05-25, 13:50:19",
+      "https://news.ycombinator.com/item?id=40475076"
+    ],
+    [
+      "Japan's clothes-drying bathrooms",
+      "https://www.bloomberg.com/news/articles/2024-05-22/laundry-lessons-from-japanese-bathroom-technology"
+    ]
+  ],
+  [
+    [
       "2024-05-25, 12:58:20",
       "https://news.ycombinator.com/item?id=40474759"
     ],
     [
       "The Cognitive Design of Tools of Thought (2014) [pdf]",
       "http://gjgreenberg.bol.ucla.edu/docs/rpp/04_tversky.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-05-25, 12:50:49",
+      "https://news.ycombinator.com/item?id=40474716"
+    ],
+    [
+      "Ask HN: What is your ChatGPT customization prompt?",
+      "https://news.ycombinator.com/item?id=40474716"
     ]
   ],
   [
@@ -151,52 +191,12 @@
   ],
   [
     [
-      "2024-05-24, 15:35:04",
-      "https://news.ycombinator.com/item?id=40467232"
-    ],
-    [
-      "Samsung WB850F Firmware Reverse Engineering",
-      "https://op-co.de/blog/posts/samsung_wb850f_firmware/"
-    ]
-  ],
-  [
-    [
-      "2024-05-24, 14:48:08",
-      "https://news.ycombinator.com/item?id=40466810"
-    ],
-    [
-      "Sharing details on a recent incident impacting one of our customers",
-      "https://cloud.google.com/blog/products/infrastructure/details-of-google-cloud-gcve-incident/"
-    ]
-  ],
-  [
-    [
       "2024-05-24, 14:25:05",
       "https://news.ycombinator.com/item?id=40466597"
     ],
     [
       "Breakdown (2018)",
       "https://www.futilitycloset.com/2018/02/02/breakdown-2/"
-    ]
-  ],
-  [
-    [
-      "2024-05-24, 11:49:52",
-      "https://news.ycombinator.com/item?id=40465182"
-    ],
-    [
-      "Agenda: a personal information manager (1990) [pdf]",
-      "https://dl.acm.org/doi/pdf/10.1145/79204.79212"
-    ]
-  ],
-  [
-    [
-      "2024-05-24, 10:39:32",
-      "https://news.ycombinator.com/item?id=40464776"
-    ],
-    [
-      "Reverse engineering ESP32 Wi-Fi driver: the road ahead",
-      "https://esp32-open-mac.be/posts/0005-the-road-ahead/"
     ]
   ],
   [
