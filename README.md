@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-25, 12:50:00](https://news.ycombinator.com/item?id=40474712) - [Abusing Go's Infrastructure](https://reverse.put.as/2024/05/24/abusing-go-infrastructure/)
+* [2024-05-25, 12:30:12](https://news.ycombinator.com/item?id=40474594) - [Developers Aren't Nerds](https://0xff.nu/dev-and-nerd)
 * [2024-05-25, 10:56:41](https://news.ycombinator.com/item?id=40474165) - [Lapis: A Web Framework for Lua](https://leafo.net/lapis/)
-* [2024-05-25, 08:28:56](https://news.ycombinator.com/item?id=40473550) - [Big tech has distracted world from existential risk of AI, says top scientist](https://www.theguardian.com/technology/article/2024/may/25/big-tech-existential-risk-ai-scientist-max-tegmark-regulations)
 * [2024-05-25, 03:57:01](https://news.ycombinator.com/item?id=40472546) - [Don Knuth's MIP, 64 years later](https://nathanbrixius.wordpress.com/2024/04/13/don-knuths-mip-64-years-later/)
 * [2024-05-25, 03:55:15](https://news.ycombinator.com/item?id=40472539) - [Signalfd Is Useless (2015)](https://ldpreload.com/blog/signalfd-is-useless)
 * [2024-05-25, 03:13:08](https://news.ycombinator.com/item?id=40472374) - [Optimize Your Talking Points](https://rachelbythebay.com/w/2018/04/28/meta/)
