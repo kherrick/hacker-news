@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-25](index.md)
 
+* [2024-05-25, 15:20:46](https://news.ycombinator.com/item?id=40475556) - [When Open Source turns sour: A brush with mistaken identity](https://opensource.net/when-open-source-mistaken-identity-scandal/)
 * [2024-05-25, 15:06:38](https://news.ycombinator.com/item?id=40475472) - [Could I use the iPad as my only computer?](https://thejollyteapot.com/2024/05/24/could-i-use-the-ipad-as-my-only-computer)
+* [2024-05-25, 14:50:22](https://news.ycombinator.com/item?id=40475386) - [The new visa fees for foreign artists are out. This is not good](https://www.ajournalofmusicalthings.com/the-new-visa-fees-for-foreign-artists-are-out-this-is-not-good/)
 * [2024-05-25, 14:10:36](https://news.ycombinator.com/item?id=40475178) - [A shrinking life: Why some Asian youth withdraw from the world](https://www.cnn.com/interactive/2024/05/world/hikikomori-asia-personal-stories-wellness/)
 * [2024-05-25, 14:01:22](https://news.ycombinator.com/item?id=40475125) - [Goodix Fingerprint Drivers for Linux (Or at Least Debian)](https://github.com/tcsenpai/goodix-debian-linux-drivers-fingerprint-by-dell)
 * [2024-05-25, 14:00:15](https://news.ycombinator.com/item?id=40475120) - [Raw milk sales spike despite CDC's warnings of risk](https://www.pbs.org/newshour/health/raw-milk-sales-spike-despite-cdcs-warnings-of-risk-associated-with-bird-flu)

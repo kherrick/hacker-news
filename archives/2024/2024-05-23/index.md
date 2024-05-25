@@ -37,6 +37,7 @@
 * [2024-05-23, 16:38:25](https://news.ycombinator.com/item?id=40456834) - [Daylight Computer – New 60fps e-paper tablet](https://daylightcomputer.com/product)
 * [2024-05-23, 16:35:09](https://news.ycombinator.com/item?id=40456801) - [The S-Matrix Is the Oracle Physicists Turn to in Times of Crisis](https://www.quantamagazine.org/the-s-matrix-is-the-oracle-physicists-turn-to-in-times-of-crisis-20240523/)
 * [2024-05-23, 16:22:30](https://news.ycombinator.com/item?id=40456644) - [Spotify Car Thing will be discontinued](https://support.spotify.com/us/article/car-thing-discontinued/)
+* [2024-05-23, 16:20:23](https://news.ycombinator.com/item?id=40456621) - [100BASE-T4 over barbed wire (2001)](https://www.sigcon.com/Pubs/edn/SoGoodBarbedWire.htm)
 * [2024-05-23, 16:11:44](https://news.ycombinator.com/item?id=40456528) - [Show HN: Pong Wars with C#](https://github.com/unoplatform/Uno.Samples/tree/master/UI/PongWars)
 * [2024-05-23, 15:50:25](https://news.ycombinator.com/item?id=40456236) - [Show HN: We open sourced our entire text-to-SQL product](https://github.com/Dataherald/dataherald)
 * [2024-05-23, 15:41:56](https://news.ycombinator.com/item?id=40456114) - [SOAR-ing Away with Smalltalk: Berkeley RISC-III](https://thechipletter.substack.com/p/soar-ing-away-with-smalltalk-berkeley)
