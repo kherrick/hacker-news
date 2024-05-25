@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-25, 13:53:09](https://news.ycombinator.com/item?id=40475089) - [The Prophet Who Failed – After the apocalypse that wasn't](https://harpers.org/archive/2024/06/the-prophet-who-wasnt-after-the-apocalypse-that-failed-emily-harnett/)
 * [2024-05-25, 13:50:19](https://news.ycombinator.com/item?id=40475076) - [The Case for Japan's Clothes-Drying Bathrooms](https://www.bloomberg.com/news/articles/2024-05-22/laundry-lessons-from-japanese-bathroom-technology)
 * [2024-05-25, 12:58:20](https://news.ycombinator.com/item?id=40474759) - [The Cognitive Design of Tools of Thought (2014) [pdf]](http://gjgreenberg.bol.ucla.edu/docs/rpp/04_tversky.pdf)
 * [2024-05-25, 12:50:00](https://news.ycombinator.com/item?id=40474712) - [Abusing Go's Infrastructure](https://reverse.put.as/2024/05/24/abusing-go-infrastructure/)
@@ -23,7 +24,6 @@
 * [2024-05-24, 11:49:52](https://news.ycombinator.com/item?id=40465182) - [Agenda: a personal information manager (1990) [pdf]](https://dl.acm.org/doi/pdf/10.1145/79204.79212)
 * [2024-05-24, 10:39:32](https://news.ycombinator.com/item?id=40464776) - [Reverse engineering ESP32 Wi-Fi driver: the road ahead](https://esp32-open-mac.be/posts/0005-the-road-ahead/)
 * [2024-05-24, 09:40:24](https://news.ycombinator.com/item?id=40464496) - [Converting a Cisco 7609 into a beer tap (2021)](https://blog.jonasbengtson.se/cisco-7609-beer-tap)
-* [2024-05-24, 07:43:05](https://news.ycombinator.com/item?id=40463887) - [LZW and GIF explained](https://www.eecis.udel.edu/~amer/CISC651/lzw.and.gif.explained.html)
 * [2024-05-24, 07:00:11](https://news.ycombinator.com/item?id=40463626) - [Recursion, continuations and trampolines (2017)](https://eli.thegreenplace.net/2017/on-recursion-continuations-and-trampolines/)
 * [2024-05-24, 06:28:27](https://news.ycombinator.com/item?id=40463426) - [Coke can planimeter](http://durealeyes.com/planimeter.html)
 * [2024-05-24, 05:49:27](https://news.ycombinator.com/item?id=40463209) - [LuaRT: Lua programming environment for console, desktop applications for Windows](https://luart.org/index.html)
