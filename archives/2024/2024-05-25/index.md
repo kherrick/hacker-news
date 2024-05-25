@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-25](index.md)
 
+* [2024-05-25, 19:48:53](https://news.ycombinator.com/item?id=40477362) - [Archaeologists Found an 'Anomaly' Near the Pyramids – May Reveal Ancient Portal](https://www.popularmechanics.com/science/archaeology/a60815504/pyramids-anomaly/)
 * [2024-05-25, 19:42:43](https://news.ycombinator.com/item?id=40477325) - [The Fall of the House of Etsy](https://spy.com/articles/lifestyle/gifts/etsy-downfall-1203000173/)
 * [2024-05-25, 19:30:16](https://news.ycombinator.com/item?id=40477261) - [Two B.C. companies ordered to shut down on national security grounds](https://vancouversun.com/news/local-news/two-b-c-companies-ordered-to-cease-all-operations-over-national-security-concerns)
 * [2024-05-25, 19:30:16](https://news.ycombinator.com/item?id=40477261) - [Canada orders dissolution of two firms, citing national security concerns](https://www.reuters.com/business/canada-orders-dissolution-two-firms-citing-national-security-concerns-2024-05-25/)
@@ -28,6 +29,7 @@
 * [2024-05-25, 13:50:19](https://news.ycombinator.com/item?id=40475076) - [The Case for Japan's Clothes-Drying Bathrooms](https://www.bloomberg.com/news/articles/2024-05-22/laundry-lessons-from-japanese-bathroom-technology)
 * [2024-05-25, 13:20:15](https://news.ycombinator.com/item?id=40474915) - [Goodbye to My London Science Museum's 'Secret Life of the Home' Gallery [video]](https://www.youtube.com/watch?v=Kz5gBkZkKdg)
 * [2024-05-25, 12:58:20](https://news.ycombinator.com/item?id=40474759) - [The Cognitive Design of Tools of Thought [pdf]](http://gjgreenberg.bol.ucla.edu/docs/rpp/04_tversky.pdf)
+* [2024-05-25, 12:50:49](https://news.ycombinator.com/item?id=40474716) - [Ask HN: What is your ChatGPT customization prompt?](https://news.ycombinator.com/item?id=40474716)
 * [2024-05-25, 12:50:00](https://news.ycombinator.com/item?id=40474712) - [Abusing Go's Infrastructure](https://reverse.put.as/2024/05/24/abusing-go-infrastructure/)
 * [2024-05-25, 12:32:00](https://news.ycombinator.com/item?id=40474603) - [OpenBSD – Clang -fret-clean: cleaning return addresses off stack (by deraadt)](https://www.undeadly.org/cgi?action=article;sid=20240525123128)
 * [2024-05-25, 12:30:12](https://news.ycombinator.com/item?id=40474594) - [Developers Aren't Nerds](https://0xff.nu/dev-and-nerd)
