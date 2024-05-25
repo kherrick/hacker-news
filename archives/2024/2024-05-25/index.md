@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-25](index.md)
 
+* [2024-05-25, 06:51:13](https://news.ycombinator.com/item?id=40473130) - [Signal's Meredith Whittaker on the Telegram security clash](https://techcrunch.com/2024/05/24/signals-meredith-whittaker-on-the-telegram-security-clash-and-the-edge-lords-at-openai/)
 * [2024-05-25, 05:39:14](https://news.ycombinator.com/item?id=40472864) - [Marijuana surpasses alcohol in daily use for Americans, study finds](https://www.washingtonpost.com/climate-environment/2024/04/22/california-solar-duck-curve-rooftop/)
 * [2024-05-25, 03:57:01](https://news.ycombinator.com/item?id=40472546) - [Don Knuth's MIP, 64 years later](https://nathanbrixius.wordpress.com/2024/04/13/don-knuths-mip-64-years-later/)
 * [2024-05-25, 03:55:15](https://news.ycombinator.com/item?id=40472539) - [Signalfd Is Useless](https://ldpreload.com/blog/signalfd-is-useless)
