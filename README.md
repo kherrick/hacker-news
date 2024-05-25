@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-25, 11:14:26](https://news.ycombinator.com/item?id=40474202) - [Google just updated its algorithm. The Internet will never be the same](https://www.bbc.com/future/article/20240524-how-googles-new-algorithm-will-shape-your-internet)
 * [2024-05-25, 07:09:47](https://news.ycombinator.com/item?id=40473198) - [Mistral Fine-Tune](https://github.com/mistralai/mistral-finetune)
 * [2024-05-25, 03:57:01](https://news.ycombinator.com/item?id=40472546) - [Don Knuth's MIP, 64 years later](https://nathanbrixius.wordpress.com/2024/04/13/don-knuths-mip-64-years-later/)
 * [2024-05-25, 03:55:15](https://news.ycombinator.com/item?id=40472539) - [Signalfd Is Useless (2015)](https://ldpreload.com/blog/signalfd-is-useless)
@@ -17,7 +18,6 @@
 * [2024-05-24, 14:50:07](https://news.ycombinator.com/item?id=40466826) - [Thermodynamic Natural Gradient Descent](https://arxiv.org/abs/2405.13817)
 * [2024-05-24, 14:48:08](https://news.ycombinator.com/item?id=40466810) - [Sharing details on a recent incident impacting one of our customers](https://cloud.google.com/blog/products/infrastructure/details-of-google-cloud-gcve-incident/)
 * [2024-05-24, 14:25:05](https://news.ycombinator.com/item?id=40466597) - [Breakdown (2018)](https://www.futilitycloset.com/2018/02/02/breakdown-2/)
-* [2024-05-24, 13:50:39](https://news.ycombinator.com/item?id=40466255) - [Peeking underground with giant flying antennas](https://hackaday.com/2024/05/21/peeking-underground-with-giant-flying-antennas/)
 * [2024-05-24, 11:49:52](https://news.ycombinator.com/item?id=40465182) - [Agenda: a personal information manager (1990) [pdf]](https://dl.acm.org/doi/pdf/10.1145/79204.79212)
 * [2024-05-24, 11:16:51](https://news.ycombinator.com/item?id=40464965) - [Slow Bros crafted a video game universe by hand](https://wepresent.wetransfer.com/stories/slow-bros-harold-halibut-game)
 * [2024-05-24, 10:39:32](https://news.ycombinator.com/item?id=40464776) - [Reverse engineering ESP32 Wi-Fi driver: the road ahead](https://esp32-open-mac.be/posts/0005-the-road-ahead/)
