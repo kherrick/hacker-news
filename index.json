@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-05-25, 03:55:15",
-      "https://news.ycombinator.com/item?id=40472539"
-    ],
-    [
-      "Signalfd Is Useless (2015)",
-      "https://ldpreload.com/blog/signalfd-is-useless"
-    ]
-  ],
-  [
-    [
       "2024-05-25, 03:13:08",
       "https://news.ycombinator.com/item?id=40472374"
     ],
@@ -207,6 +197,16 @@
     [
       "Converting a Cisco 7609 into a beer tap (2021)",
       "https://blog.jonasbengtson.se/cisco-7609-beer-tap"
+    ]
+  ],
+  [
+    [
+      "2024-05-24, 09:35:24",
+      "https://news.ycombinator.com/item?id=40464469"
+    ],
+    [
+      ".NET for NES Game Console on 6502 Microprocessors",
+      "https://github.com/jonathanpeppers/dotnes"
     ]
   ],
   [
