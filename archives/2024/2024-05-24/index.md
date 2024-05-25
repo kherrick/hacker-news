@@ -70,6 +70,7 @@
 * [2024-05-24, 11:22:21](https://news.ycombinator.com/item?id=40464994) - [Imperceptible sensors can be printed directly on human skin](https://www.cam.ac.uk/research/news/imperceptible-sensors-made-from-electronic-spider-silk-can-be-printed-directly-on-human-skin)
 * [2024-05-24, 11:16:51](https://news.ycombinator.com/item?id=40464965) - [How Slow Bros crafted an entire video game universe by hand](https://wepresent.wetransfer.com/stories/slow-bros-harold-halibut-game)
 * [2024-05-24, 11:02:30](https://news.ycombinator.com/item?id=40464887) - [Anger Does a Lot More Damage to Your Body Than You Realize](https://www.wsj.com/health/wellness/anger-health-effects-risks-heart-brain-mental-f4105ed7)
+* [2024-05-24, 10:39:32](https://news.ycombinator.com/item?id=40464776) - [Reverse engineering ESP32 Wi-Fi driver: the road ahead](https://esp32-open-mac.be/posts/0005-the-road-ahead/)
 * [2024-05-24, 10:10:04](https://news.ycombinator.com/item?id=40464618) - [Kabosu, the dog behind the 'doge' internet meme, has died](https://www.nbcnews.com/news/world/kabosu-dog-doge-internet-meme-died-rcna4472)
 * [2024-05-24, 10:01:43](https://news.ycombinator.com/item?id=40464583) - [FAA reveals flaw in Boeing 777 that could result in fuel tank exploding](https://nypost.com/2024/05/22/us-news/boeing-777-plane-fuel-tanks-could-explode-due-to-electrical-flaw/)
 * [2024-05-24, 10:01:00](https://news.ycombinator.com/item?id=40464579) - [Test Functions for Global Optimization](https://www.sfu.ca/~ssurjano/optimization.html)
