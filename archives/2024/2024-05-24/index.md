@@ -91,6 +91,7 @@
 * [2024-05-24, 07:00:11](https://news.ycombinator.com/item?id=40463626) - [Recursion, Continuations and Trampolines](https://eli.thegreenplace.net/2017/on-recursion-continuations-and-trampolines/)
 * [2024-05-24, 06:28:27](https://news.ycombinator.com/item?id=40463426) - [Soda-Can Planimeter](http://durealeyes.com/planimeter.html)
 * [2024-05-24, 06:20:56](https://news.ycombinator.com/item?id=40463383) - [Almost 30% of Americans Say College Not Worth It in Pew Poll](https://www.bloomberg.com/news/articles/2024-05-23/almost-30-of-americans-say-college-not-worth-it-in-pew-poll)
+* [2024-05-24, 05:49:27](https://news.ycombinator.com/item?id=40463209) - [LuaRT: Lua programming environment for console, desktop applications for Windows](https://luart.org/index.html)
 * [2024-05-24, 05:26:00](https://news.ycombinator.com/item?id=40463068) - [Ask HN: How do you handle LICENSE notices in published Docker images?](https://news.ycombinator.com/item?id=40463068)
 * [2024-05-24, 05:17:08](https://news.ycombinator.com/item?id=40463029) - [Scrum's Built-In 'Get Out of Jail Free Card' Against Criticism](https://mdalmijn.com/p/scrums-built-in-get-out-of-jail-free)
 * [2024-05-24, 05:13:33](https://news.ycombinator.com/item?id=40463011) - [Blue Field Entoptic Phenomenon](https://en.wikipedia.org/wiki/Blue_field_entoptic_phenomenon)
