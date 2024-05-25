@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-25, 03:57:01](https://news.ycombinator.com/item?id=40472546) - [Don Knuth's MIP, 64 years later](https://nathanbrixius.wordpress.com/2024/04/13/don-knuths-mip-64-years-later/)
 * [2024-05-25, 03:13:08](https://news.ycombinator.com/item?id=40472374) - [Optimize Your Talking Points](https://rachelbythebay.com/w/2018/04/28/meta/)
 * [2024-05-25, 02:35:56](https://news.ycombinator.com/item?id=40472226) - [You are lucky, full moon tonight](https://twitter.com/cupiabart/status/1793930355617259811)
 * [2024-05-25, 02:08:08](https://news.ycombinator.com/item?id=40472119) - [AlmaLinux OS – Samba File Server](https://blog.while-true-do.io/almalinux-os-samba-file-server/)
@@ -12,7 +13,6 @@
 * [2024-05-24, 16:16:37](https://news.ycombinator.com/item?id=40467625) - [ICQ will stop working from June 26](https://icq.com/desktop/en#windows)
 * [2024-05-24, 15:35:04](https://news.ycombinator.com/item?id=40467232) - [Samsung WB850F Firmware Reverse Engineering](https://op-co.de/blog/posts/samsung_wb850f_firmware/)
 * [2024-05-24, 14:50:07](https://news.ycombinator.com/item?id=40466826) - [Thermodynamic Natural Gradient Descent](https://arxiv.org/abs/2405.13817)
-* [2024-05-24, 14:48:08](https://news.ycombinator.com/item?id=40466810) - [Sharing details on a recent incident impacting one of our customers](https://cloud.google.com/blog/products/infrastructure/details-of-google-cloud-gcve-incident/)
 * [2024-05-24, 14:12:01](https://news.ycombinator.com/item?id=40466469) - [Move over, tractor – The farmer wants a crop-spraying drone](https://spectrum.ieee.org/arthur-erickson-drones-profile)
 * [2024-05-24, 13:50:39](https://news.ycombinator.com/item?id=40466255) - [Peeking underground with giant flying antennas](https://hackaday.com/2024/05/21/peeking-underground-with-giant-flying-antennas/)
 * [2024-05-24, 11:49:52](https://news.ycombinator.com/item?id=40465182) - [Agenda: a personal information manager (1990) [pdf]](https://dl.acm.org/doi/pdf/10.1145/79204.79212)
