@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-25](index.md)
 
+* [2024-05-25, 05:39:14](https://news.ycombinator.com/item?id=40472864) - [Marijuana surpasses alcohol in daily use for Americans, study finds](https://www.washingtonpost.com/climate-environment/2024/04/22/california-solar-duck-curve-rooftop/)
 * [2024-05-25, 03:57:01](https://news.ycombinator.com/item?id=40472546) - [Don Knuth's MIP, 64 years later](https://nathanbrixius.wordpress.com/2024/04/13/don-knuths-mip-64-years-later/)
 * [2024-05-25, 03:13:08](https://news.ycombinator.com/item?id=40472374) - [Optimize Your Talking Points](https://rachelbythebay.com/w/2018/04/28/meta/)
 * [2024-05-25, 02:35:56](https://news.ycombinator.com/item?id=40472226) - [You are lucky Full moon tonight](https://twitter.com/cupiabart/status/1793930355617259811)
@@ -13,4 +14,5 @@
 * [2024-05-25, 01:26:32](https://news.ycombinator.com/item?id=40471958) - [How massive, feral goldfish are threatening the Great Lakes ecosystem [video]](https://www.pbs.org/newshour/show/how-massive-feral-goldfish-are-threatening-the-great-lakes-ecosystem)
 * [2024-05-25, 01:03:57](https://news.ycombinator.com/item?id=40471864) - [Byuu.org – Depression](https://archive.fo/2014.12.18-152806/https://byuu.org/)
 * [2024-05-25, 00:52:02](https://news.ycombinator.com/item?id=40471798) - [Email.ml – Minimalist Temporary Email](https://email.ml/)
+* [2024-05-25, 00:11:28](https://news.ycombinator.com/item?id=40471596) - [Columbus Predicted a 1504 Eclipse and Avoided Starvation in Jamaica](https://www.bookmarked.club/lessons/thinking-outside-the-box)
 * [2024-05-25, 00:00:36](https://news.ycombinator.com/item?id=40471550) - [US EPA sets health advisory limits for PFAS from 70 ppt to .02 ppt](https://cen.acs.org/environment/persistent-pollutants/US-EPA-sets-health-advisory-6-PFAS/100/i22)
