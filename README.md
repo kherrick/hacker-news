@@ -6,7 +6,7 @@
 * [2024-05-25, 03:57:01](https://news.ycombinator.com/item?id=40472546) - [Don Knuth's MIP, 64 years later](https://nathanbrixius.wordpress.com/2024/04/13/don-knuths-mip-64-years-later/)
 * [2024-05-25, 03:55:15](https://news.ycombinator.com/item?id=40472539) - [Signalfd Is Useless](https://ldpreload.com/blog/signalfd-is-useless)
 * [2024-05-25, 03:13:08](https://news.ycombinator.com/item?id=40472374) - [Optimize Your Talking Points](https://rachelbythebay.com/w/2018/04/28/meta/)
-* [2024-05-25, 02:08:08](https://news.ycombinator.com/item?id=40472119) - [AlmaLinux OS – Samba File Server](https://blog.while-true-do.io/almalinux-os-samba-file-server/)
+* [2024-05-25, 02:19:23](https://news.ycombinator.com/item?id=40472161) - [A simple core.async job system in Clojure](https://blog.janetacarr.com/creating-a-dead-simple-asynchronous-job-system-in-clojure/)
 * [2024-05-25, 00:52:02](https://news.ycombinator.com/item?id=40471798) - [Email.ml – Minimalist Temporary Email](https://email.ml/)
 * [2024-05-25, 00:11:28](https://news.ycombinator.com/item?id=40471596) - [Columbus Predicted a 1504 Eclipse and Avoided Starvation in Jamaica](https://www.bookmarked.club/lessons/thinking-outside-the-box)
 * [2024-05-24, 21:00:54](https://news.ycombinator.com/item?id=40470454) - [Freshpaint (YC S19) is hiring software engineers to protect patient privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)

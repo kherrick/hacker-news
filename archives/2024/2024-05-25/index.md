@@ -12,6 +12,7 @@
 * [2024-05-25, 03:55:15](https://news.ycombinator.com/item?id=40472539) - [Signalfd Is Useless](https://ldpreload.com/blog/signalfd-is-useless)
 * [2024-05-25, 03:13:08](https://news.ycombinator.com/item?id=40472374) - [Optimize Your Talking Points](https://rachelbythebay.com/w/2018/04/28/meta/)
 * [2024-05-25, 02:35:56](https://news.ycombinator.com/item?id=40472226) - [You are lucky Full moon tonight](https://twitter.com/cupiabart/status/1793930355617259811)
+* [2024-05-25, 02:19:23](https://news.ycombinator.com/item?id=40472161) - [A simple core.async job system in Clojure](https://blog.janetacarr.com/creating-a-dead-simple-asynchronous-job-system-in-clojure/)
 * [2024-05-25, 02:15:58](https://news.ycombinator.com/item?id=40472146) - [JetBrains releases RustRover IDE for Rust development](https://www.infoworld.com/article/3715317/jetbrains-releases-rustrover-ide-for-rust-development.html)
 * [2024-05-25, 02:08:08](https://news.ycombinator.com/item?id=40472119) - [AlmaLinux OS – Samba File Server](https://blog.while-true-do.io/almalinux-os-samba-file-server/)
 * [2024-05-25, 01:40:54](https://news.ycombinator.com/item?id=40472022) - [Unleashed Chat](https://unleashed.chat/)
