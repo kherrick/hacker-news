@@ -1,12 +1,22 @@
 [
   [
     [
+      "2024-05-25, 19:42:43",
+      "https://news.ycombinator.com/item?id=40477325"
+    ],
+    [
+      "The Fall of the House of Etsy",
+      "https://spy.com/articles/lifestyle/gifts/etsy-downfall-1203000173/"
+    ]
+  ],
+  [
+    [
       "2024-05-25, 19:30:16",
       "https://news.ycombinator.com/item?id=40477261"
     ],
     [
-      "Canada orders dissolution of two firms, citing national security concerns",
-      "https://www.reuters.com/business/canada-orders-dissolution-two-firms-citing-national-security-concerns-2024-05-25/"
+      "Two B.C. companies ordered to shut down on national security grounds",
+      "https://vancouversun.com/news/local-news/two-b-c-companies-ordered-to-cease-all-operations-over-national-security-concerns"
     ]
   ],
   [
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=40476572"
     ],
     [
-      "Where Are the Builders?",
+      "Where are the builders?",
       "https://near.blog/where-are-the-builders/"
     ]
   ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=40476410"
     ],
     [
-      "`tmux` is worse is better",
+      "Tmux is worse-is-better",
       "https://hiandrewquinn.github.io/til-site/posts/tmux-is-worse-is-better/"
     ]
   ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=40476134"
     ],
     [
-      "The road to hell is paved with good intentions and C++ modules",
+      "The road to hell is paved with good intentions and C++ modules (2023)",
       "https://nibblestew.blogspot.com/2023/10/the-road-to-hell-is-paved-with-good.html"
     ]
   ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2024-05-24, 11:49:52",
-      "https://news.ycombinator.com/item?id=40465182"
-    ],
-    [
-      "Agenda: a personal information manager (1990) [pdf]",
-      "https://dl.acm.org/doi/pdf/10.1145/79204.79212"
-    ]
-  ],
-  [
-    [
       "2024-05-24, 10:39:32",
       "https://news.ycombinator.com/item?id=40464776"
     ],
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=40459404"
     ],
     [
-      "Show HN: I built obsidian plugin to create notes from BibTeX",
+      "Show HN: I built obsidian plugin to create notes from bibtex",
       "https://github.com/akopdev/obsidian-bibtex-manager"
     ]
   ],
