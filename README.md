@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-25, 02:35:56](https://news.ycombinator.com/item?id=40472226) - [You are lucky Full moon tonight](https://twitter.com/cupiabart/status/1793930355617259811)
 * [2024-05-25, 02:15:58](https://news.ycombinator.com/item?id=40472146) - [JetBrains releases RustRover IDE for Rust development](https://www.infoworld.com/article/3715317/jetbrains-releases-rustrover-ide-for-rust-development.html)
-* [2024-05-25, 01:26:32](https://news.ycombinator.com/item?id=40471958) - [How massive, feral goldfish are threatening the Great Lakes ecosystem [video]](https://www.pbs.org/newshour/show/how-massive-feral-goldfish-are-threatening-the-great-lakes-ecosystem)
+* [2024-05-25, 01:26:32](https://news.ycombinator.com/item?id=40471958) - [Feral goldfish are threatening the Great Lakes ecosystem [video]](https://www.pbs.org/newshour/show/how-massive-feral-goldfish-are-threatening-the-great-lakes-ecosystem)
 * [2024-05-25, 01:03:57](https://news.ycombinator.com/item?id=40471864) - [Depression (2014)](https://archive.fo/2014.12.18-152806/https://byuu.org/)
 * [2024-05-24, 23:12:27](https://news.ycombinator.com/item?id=40471306) - [ICQ messenger shuts down after almost 28 years](https://www.bleepingcomputer.com/news/software/icq-messenger-shuts-down-after-almost-28-years/)
 * [2024-05-24, 21:00:54](https://news.ycombinator.com/item?id=40470454) - [Freshpaint (YC S19) is hiring software engineers to protect patient privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
@@ -25,7 +26,6 @@
 * [2024-05-24, 07:44:50](https://news.ycombinator.com/item?id=40463898) - [Kobo Clara Colour e-reader review](https://www.engadget.com/kobo-clara-colour-review-judging-books-by-their-covers-is-now-more-fun-130013382.html)
 * [2024-05-24, 07:43:05](https://news.ycombinator.com/item?id=40463887) - [LZW and GIF explained](https://www.eecis.udel.edu/~amer/CISC651/lzw.and.gif.explained.html)
 * [2024-05-24, 07:00:11](https://news.ycombinator.com/item?id=40463626) - [Recursion, Continuations and Trampolines](https://eli.thegreenplace.net/2017/on-recursion-continuations-and-trampolines/)
-* [2024-05-24, 06:28:27](https://news.ycombinator.com/item?id=40463426) - [Soda-Can Planimeter](http://durealeyes.com/planimeter.html)
 * [2024-05-24, 05:13:33](https://news.ycombinator.com/item?id=40463011) - [Blue Field Entoptic Phenomenon](https://en.wikipedia.org/wiki/Blue_field_entoptic_phenomenon)
 * [2024-05-23, 19:08:29](https://news.ycombinator.com/item?id=40458662) - [Retired detective: We got it wrong in Robert Roberson's death penalty case](https://www.dallasnews.com/opinion/commentary/2024/05/23/retired-detective-we-got-it-wrong-in-robert-robersons-death-penalty-case/)
 * [2024-05-23, 17:29:58](https://news.ycombinator.com/item?id=40457500) - [Advancing Our Bet on Asymmetric Cryptography](https://blog.chromium.org/2024/05/advancing-our-amazing-bet-on-asymmetric.html)
