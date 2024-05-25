@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-25](index.md)
 
+* [2024-05-25, 07:09:47](https://news.ycombinator.com/item?id=40473198) - [Mistral Fine-Tune](https://github.com/mistralai/mistral-finetune)
 * [2024-05-25, 06:51:13](https://news.ycombinator.com/item?id=40473130) - [Signal's Meredith Whittaker on the Telegram security clash](https://techcrunch.com/2024/05/24/signals-meredith-whittaker-on-the-telegram-security-clash-and-the-edge-lords-at-openai/)
 * [2024-05-25, 06:50:54](https://news.ycombinator.com/item?id=40473128) - [EU Approves AI Act](https://vcsi.org/eu-ai-act-comprehensive-regulation/)
 * [2024-05-25, 05:39:14](https://news.ycombinator.com/item?id=40472864) - [Marijuana surpasses alcohol in daily use for Americans, study finds](https://www.washingtonpost.com/climate-environment/2024/04/22/california-solar-duck-curve-rooftop/)
