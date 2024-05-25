@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2024-05-25, 03:57:01",
-      "https://news.ycombinator.com/item?id=40472546"
-    ],
-    [
-      "Don Knuth's MIP, 64 years later",
-      "https://nathanbrixius.wordpress.com/2024/04/13/don-knuths-mip-64-years-later/"
-    ]
-  ],
-  [
-    [
       "2024-05-25, 02:19:23",
       "https://news.ycombinator.com/item?id=40472161"
     ],
@@ -187,6 +177,16 @@
     [
       "Financial Statement Analysis with Large Language Models",
       "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835311"
+    ]
+  ],
+  [
+    [
+      "2024-05-24, 14:48:08",
+      "https://news.ycombinator.com/item?id=40466810"
+    ],
+    [
+      "Sharing details on a recent incident impacting one of our customers",
+      "https://cloud.google.com/blog/products/infrastructure/details-of-google-cloud-gcve-incident/"
     ]
   ],
   [
