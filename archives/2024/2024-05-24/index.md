@@ -61,6 +61,7 @@
 * [2024-05-24, 12:33:21](https://news.ycombinator.com/item?id=40465529) - [Spyware found on US hotel check-in computers](https://techcrunch.com/2024/05/22/spyware-found-on-hotel-check-in-computers/)
 * [2024-05-24, 12:00:30](https://news.ycombinator.com/item?id=40465260) - [Motion (YC W20) is hiring senior engineers looking for their next challenge](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2024-05-24, 12:00:26](https://news.ycombinator.com/item?id=40465259) - [Low-Cost Shield ArdEEG to Measure EEG with Arduino Uno R4 WiFi](https://www.preprints.org/manuscript/202405.1643/v1)
+* [2024-05-24, 11:49:52](https://news.ycombinator.com/item?id=40465182) - [Agenda: a personal information manager (1990) [pdf]](https://dl.acm.org/doi/pdf/10.1145/79204.79212)
 * [2024-05-24, 11:48:47](https://news.ycombinator.com/item?id=40465174) - [Working Smarter, Not Harder](https://trishagee.com/2024/05/24/working-smarter-not-harder/)
 * [2024-05-24, 11:38:34](https://news.ycombinator.com/item?id=40465102) - [\"Unacceptable\": Spotify bricking Car Thing devices in Dec. without refunds](https://arstechnica.com/gadgets/2024/05/pleas-for-open-sourcing-refunds-as-spotify-plans-to-brick-car-thing-devices/)
 * [2024-05-24, 11:37:18](https://news.ycombinator.com/item?id=40465090) - [Apple's M4 Has Reportedly Adopted the ARMv9 Architecture](https://wccftech.com/apple-m4-adopts-armv9-run-complex-workloads-efficiently/)
