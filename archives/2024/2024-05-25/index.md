@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-25](index.md)
 
+* [2024-05-25, 19:42:43](https://news.ycombinator.com/item?id=40477325) - [The Fall of the House of Etsy](https://spy.com/articles/lifestyle/gifts/etsy-downfall-1203000173/)
+* [2024-05-25, 19:30:16](https://news.ycombinator.com/item?id=40477261) - [Two B.C. companies ordered to shut down on national security grounds](https://vancouversun.com/news/local-news/two-b-c-companies-ordered-to-cease-all-operations-over-national-security-concerns)
 * [2024-05-25, 19:30:16](https://news.ycombinator.com/item?id=40477261) - [Canada orders dissolution of two firms, citing national security concerns](https://www.reuters.com/business/canada-orders-dissolution-two-firms-citing-national-security-concerns-2024-05-25/)
 * [2024-05-25, 19:11:34](https://news.ycombinator.com/item?id=40477165) - [Bird Flu Virus Found in Beef Tissue](https://www.nytimes.com/2024/05/24/health/bird-flu-beef.html)
 * [2024-05-25, 19:04:43](https://news.ycombinator.com/item?id=40477130) - [Cannabis Use Linked to Epigenetic Changes, Study Reveals](https://www.sciencealert.com/cannabis-use-linked-to-epigenetic-changes-study-reveals)
