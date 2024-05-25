@@ -15,6 +15,7 @@
 * [2024-05-22, 21:51:40](https://news.ycombinator.com/item?id=40447117) - [Voyager 1 Resumes Sending Science Data](https://blogs.nasa.gov/voyager/2024/05/22/voyager-1-resumes-sending-science-data-from-two-instruments/)
 * [2024-05-22, 21:38:14](https://news.ycombinator.com/item?id=40446944) - [YouTube seems to once again be rolling out its widely hated new web redesign](https://9to5google.com/2024/05/22/youtube-redesign-rolling-out-again/)
 * [2024-05-22, 21:38:09](https://news.ycombinator.com/item?id=40446941) - [Fentanyl is fueling a record number of youth drug deaths](https://www.washingtonpost.com/dc-md-va/2024/05/22/fentanyl-youth-overdoses-increase/)
+* [2024-05-22, 21:34:19](https://news.ycombinator.com/item?id=40446887) - [My dad and I replaced a 100MB HDD with a 1GB HDD for $100. When did this happen?](https://news.ycombinator.com/item?id=40446887)
 * [2024-05-22, 21:09:29](https://news.ycombinator.com/item?id=40446584) - [Slash Pages](https://slashpages.net)
 * [2024-05-22, 20:57:21](https://news.ycombinator.com/item?id=40446449) - [Why Functional Programming Matters [pdf]](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
 * [2024-05-22, 20:56:20](https://news.ycombinator.com/item?id=40446433) - [Cortile – Linux auto tiling manager with hot corner support](https://github.com/leukipp/cortile)

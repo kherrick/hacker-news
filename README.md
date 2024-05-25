@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-25, 22:16:04](https://news.ycombinator.com/item?id=40478250) - [Tesla Owners Get Only 64% of EPA Range After Just Three Years: Study](https://insideevs.com/news/720899/tesla-64-epa-max-range/)
 * [2024-05-25, 21:01:30](https://news.ycombinator.com/item?id=40477840) - [Fathom AI Notetaker (YC W21) Is Hiring Full-Stack Engineers (Remote)](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-full-stack-engineer-remote)
 * [2024-05-25, 20:35:59](https://news.ycombinator.com/item?id=40477653) - [Majorana, the Search for the Most Elusive Neutrino of All](https://newscenter.lbl.gov/2012/05/16/majorana-demonstrator/)
 * [2024-05-25, 20:28:38](https://news.ycombinator.com/item?id=40477604) - [Taming Floating-Point Sums](https://orlp.net/blog/taming-float-sums/)
@@ -13,13 +14,11 @@
 * [2024-05-25, 12:58:20](https://news.ycombinator.com/item?id=40474759) - [The Cognitive Design of Tools of Thought (2014) [pdf]](http://gjgreenberg.bol.ucla.edu/docs/rpp/04_tversky.pdf)
 * [2024-05-25, 12:50:49](https://news.ycombinator.com/item?id=40474716) - [Ask HN: What is your ChatGPT customization prompt?](https://news.ycombinator.com/item?id=40474716)
 * [2024-05-25, 12:50:00](https://news.ycombinator.com/item?id=40474712) - [Abusing Go's Infrastructure](https://reverse.put.as/2024/05/24/abusing-go-infrastructure/)
-* [2024-05-25, 11:42:23](https://news.ycombinator.com/item?id=40474294) - [Lessons from the trenches on reproducible evaluation of language models](https://arxiv.org/abs/2405.14782)
 * [2024-05-25, 02:19:23](https://news.ycombinator.com/item?id=40472161) - [A simple core.async job system in Clojure](https://blog.janetacarr.com/creating-a-dead-simple-asynchronous-job-system-in-clojure/)
 * [2024-05-24, 19:19:31](https://news.ycombinator.com/item?id=40469592) - [Show HN: Spot – Simple, cross-platform, reactive desktop GUI toolkit for Go](https://github.com/roblillack/spot)
 * [2024-05-24, 18:15:58](https://news.ycombinator.com/item?id=40468933) - [Mp3tag – Universal Tag Editor](https://www.mp3tag.de/en/)
 * [2024-05-24, 17:39:39](https://news.ycombinator.com/item?id=40468518) - [Financial Statement Analysis with Large Language Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835311)
 * [2024-05-24, 14:25:05](https://news.ycombinator.com/item?id=40466597) - [Breakdown (2018)](https://www.futilitycloset.com/2018/02/02/breakdown-2/)
-* [2024-05-24, 10:39:32](https://news.ycombinator.com/item?id=40464776) - [Reverse engineering ESP32 Wi-Fi driver: the road ahead](https://esp32-open-mac.be/posts/0005-the-road-ahead/)
 * [2024-05-24, 09:40:24](https://news.ycombinator.com/item?id=40464496) - [Converting a Cisco 7609 into a beer tap (2021)](https://blog.jonasbengtson.se/cisco-7609-beer-tap)
 * [2024-05-24, 05:49:27](https://news.ycombinator.com/item?id=40463209) - [LuaRT: Lua programming environment for console, desktop applications for Windows](https://luart.org/index.html)
 * [2024-05-23, 23:53:48](https://news.ycombinator.com/item?id=40461325) - [Single atom defect in 2D material can hold quantum information at room temp](https://phys.org/news/2024-05-scientists-atom-defect-2d-material.amp)
@@ -30,6 +29,7 @@
 * [2024-05-23, 12:08:53](https://news.ycombinator.com/item?id=40453716) - [Medieval Bologna was full of tall towers](https://www.openculture.com/2024/05/why-medieval-bologna-was-full-of-tall-towers-and-what-happened-to-them.html)
 * [2024-05-23, 09:58:17](https://news.ycombinator.com/item?id=40452704) - [CompilerFax: Sending C source code via telefax to a compiler-as-a-service](https://chaos.social/@LaF0rge/112486079122303420)
 * [2024-05-23, 01:28:28](https://news.ycombinator.com/item?id=40449299) - [Show HN: LogsQL – opinionated query language for logs](https://docs.victoriametrics.com/victorialogs/logsql/)
+* [2024-05-22, 21:34:19](https://news.ycombinator.com/item?id=40446887) - [My dad and I replaced a 100MB HDD with a 1GB HDD for $100. When did this happen?](https://news.ycombinator.com/item?id=40446887)
 
 ## [Archives](archives/index.md)
 
