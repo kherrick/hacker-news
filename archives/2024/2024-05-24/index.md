@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-24](index.md)
 
 * [2024-05-24, 23:59:59](https://news.ycombinator.com/item?id=40471547) - [How private equity rolled Red Lobster](https://www.nbcnews.com/business/consumer/private-equity-rolled-red-lobster-rcna153397)
+* [2024-05-24, 23:12:27](https://news.ycombinator.com/item?id=40471306) - [ICQ messenger shuts down after almost 28 years](https://www.bleepingcomputer.com/news/software/icq-messenger-shuts-down-after-almost-28-years/)
 * [2024-05-24, 22:49:38](https://news.ycombinator.com/item?id=40471172) - [Another US state repeals law that protected ISPs from municipal competition](https://arstechnica.com/tech-policy/2024/05/another-us-state-repeals-law-that-protected-isps-from-municipal-competition/)
 * [2024-05-24, 22:29:06](https://news.ycombinator.com/item?id=40471060) - [Google's AI Overviews is being laughed at by the CEO of search rival Perplexity](https://www.businessinsider.com/google-ai-overviews-laughed-at-ceo-perplexity-pizza-glue-2024-5)
 * [2024-05-24, 22:28:44](https://news.ycombinator.com/item?id=40471058) - [Feds add nine more incidents to Waymo robotaxi investigation](https://techcrunch.com/2024/05/24/feds-add-nine-more-incidents-to-waymo-robotaxi-investigation/)
@@ -80,6 +81,7 @@
 * [2024-05-24, 07:23:07](https://news.ycombinator.com/item?id=40463764) - [2D Rigid Body Collision Resolution](https://www.sassnow.ski/rigid-body-collisions/1)
 * [2024-05-24, 07:02:06](https://news.ycombinator.com/item?id=40463636) - [How to Be Obscene (1927)](https://www.newyorker.com/magazine/1927/07/02/how-to-be-obscene)
 * [2024-05-24, 07:01:28](https://news.ycombinator.com/item?id=40463633) - [Bloop (YC S21) Is Hiring AI Engineers. Devin for Legacy Code (London, Onsite)](https://www.ycombinator.com/companies/bloop/jobs/iCrEllp-applied-ai-software-engineer)
+* [2024-05-24, 07:00:11](https://news.ycombinator.com/item?id=40463626) - [Recursion, Continuations and Trampolines](https://eli.thegreenplace.net/2017/on-recursion-continuations-and-trampolines/)
 * [2024-05-24, 06:28:27](https://news.ycombinator.com/item?id=40463426) - [Soda-Can Planimeter](http://durealeyes.com/planimeter.html)
 * [2024-05-24, 06:20:56](https://news.ycombinator.com/item?id=40463383) - [Almost 30% of Americans Say College Not Worth It in Pew Poll](https://www.bloomberg.com/news/articles/2024-05-23/almost-30-of-americans-say-college-not-worth-it-in-pew-poll)
 * [2024-05-24, 05:26:00](https://news.ycombinator.com/item?id=40463068) - [Ask HN: How do you handle LICENSE notices in published Docker images?](https://news.ycombinator.com/item?id=40463068)
