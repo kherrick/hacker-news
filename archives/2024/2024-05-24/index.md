@@ -65,6 +65,7 @@
 * [2024-05-24, 11:48:47](https://news.ycombinator.com/item?id=40465174) - [Working Smarter, Not Harder](https://trishagee.com/2024/05/24/working-smarter-not-harder/)
 * [2024-05-24, 11:38:34](https://news.ycombinator.com/item?id=40465102) - [\"Unacceptable\": Spotify bricking Car Thing devices in Dec. without refunds](https://arstechnica.com/gadgets/2024/05/pleas-for-open-sourcing-refunds-as-spotify-plans-to-brick-car-thing-devices/)
 * [2024-05-24, 11:37:18](https://news.ycombinator.com/item?id=40465090) - [Apple's M4 Has Reportedly Adopted the ARMv9 Architecture](https://wccftech.com/apple-m4-adopts-armv9-run-complex-workloads-efficiently/)
+* [2024-05-24, 11:25:32](https://news.ycombinator.com/item?id=40465014) - [Addition with Flamethrowers, or Why Game Devs Don't Unit Test](https://www.pixelatedplaygrounds.com/sidequests/addition-with-flamethrowers-or-why-game-devs-dont-unit-test)
 * [2024-05-24, 11:23:47](https://news.ycombinator.com/item?id=40465001) - [The Washington Post Tells Staff It's Pivoting to AI](https://futurism.com/washington-post-pivot-ai)
 * [2024-05-24, 11:22:21](https://news.ycombinator.com/item?id=40464994) - [Imperceptible sensors can be printed directly on human skin](https://www.cam.ac.uk/research/news/imperceptible-sensors-made-from-electronic-spider-silk-can-be-printed-directly-on-human-skin)
 * [2024-05-24, 11:16:51](https://news.ycombinator.com/item?id=40464965) - [How Slow Bros crafted an entire video game universe by hand](https://wepresent.wetransfer.com/stories/slow-bros-harold-halibut-game)
