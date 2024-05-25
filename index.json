@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-05-25, 22:16:04",
-      "https://news.ycombinator.com/item?id=40478250"
-    ],
-    [
-      "Tesla Owners Get Only 64% of EPA Range After Just Three Years: Study",
-      "https://insideevs.com/news/720899/tesla-64-epa-max-range/"
-    ]
-  ],
-  [
-    [
       "2024-05-25, 21:01:30",
       "https://news.ycombinator.com/item?id=40477840"
     ],
@@ -25,7 +15,7 @@
       "https://news.ycombinator.com/item?id=40477653"
     ],
     [
-      "Majorana, the Search for the Most Elusive Neutrino of All",
+      "Majorana, the search for the most elusive neutrino of all",
       "https://newscenter.lbl.gov/2012/05/16/majorana-demonstrator/"
     ]
   ],
@@ -35,7 +25,7 @@
       "https://news.ycombinator.com/item?id=40477604"
     ],
     [
-      "Taming Floating-Point Sums",
+      "Taming floating-point sums",
       "https://orlp.net/blog/taming-float-sums/"
     ]
   ],
@@ -141,22 +131,22 @@
   ],
   [
     [
+      "2024-05-25, 11:42:23",
+      "https://news.ycombinator.com/item?id=40474294"
+    ],
+    [
+      "Lessons from the trenches on reproducible evaluation of language models",
+      "https://arxiv.org/abs/2405.14782"
+    ]
+  ],
+  [
+    [
       "2024-05-25, 02:19:23",
       "https://news.ycombinator.com/item?id=40472161"
     ],
     [
       "A simple core.async job system in Clojure",
       "https://blog.janetacarr.com/creating-a-dead-simple-asynchronous-job-system-in-clojure/"
-    ]
-  ],
-  [
-    [
-      "2024-05-24, 19:19:31",
-      "https://news.ycombinator.com/item?id=40469592"
-    ],
-    [
-      "Show HN: Spot – Simple, cross-platform, reactive desktop GUI toolkit for Go",
-      "https://github.com/roblillack/spot"
     ]
   ],
   [
@@ -187,6 +177,16 @@
     [
       "Breakdown (2018)",
       "https://www.futilitycloset.com/2018/02/02/breakdown-2/"
+    ]
+  ],
+  [
+    [
+      "2024-05-24, 10:39:32",
+      "https://news.ycombinator.com/item?id=40464776"
+    ],
+    [
+      "Reverse engineering ESP32 Wi-Fi driver: the road ahead",
+      "https://esp32-open-mac.be/posts/0005-the-road-ahead/"
     ]
   ],
   [
