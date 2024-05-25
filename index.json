@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-25, 15:06:38",
+      "https://news.ycombinator.com/item?id=40475472"
+    ],
+    [
+      "Could I use the iPad as my only computer?",
+      "https://thejollyteapot.com/2024/05/24/could-i-use-the-ipad-as-my-only-computer"
+    ]
+  ],
+  [
+    [
       "2024-05-25, 14:10:36",
       "https://news.ycombinator.com/item?id=40475178"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2024-05-25, 14:00:15",
-      "https://news.ycombinator.com/item?id=40475120"
+      "2024-05-25, 14:01:22",
+      "https://news.ycombinator.com/item?id=40475125"
     ],
     [
-      "Raw milk sales spike despite CDC's warnings of risk",
-      "https://www.pbs.org/newshour/health/raw-milk-sales-spike-despite-cdcs-warnings-of-risk-associated-with-bird-flu"
+      "Goodix Fingerprint Drivers for Linux (Or at Least Debian)",
+      "https://github.com/tcsenpai/goodix-debian-linux-drivers-fingerprint-by-dell"
     ]
   ],
   [
@@ -61,6 +71,36 @@
   ],
   [
     [
+      "2024-05-25, 12:32:00",
+      "https://news.ycombinator.com/item?id=40474603"
+    ],
+    [
+      "OpenBSD – Clang -fret-clean: cleaning return addresses off stack (by deraadt)",
+      "https://www.undeadly.org/cgi?action=article;sid=20240525123128"
+    ]
+  ],
+  [
+    [
+      "2024-05-25, 12:24:38",
+      "https://news.ycombinator.com/item?id=40474557"
+    ],
+    [
+      "Kombucha-associated microbes alter host metabolism & suppress lipid accumulation",
+      "https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011003"
+    ]
+  ],
+  [
+    [
+      "2024-05-25, 11:42:23",
+      "https://news.ycombinator.com/item?id=40474294"
+    ],
+    [
+      "Lessons from the Trenches on Reproducible Evaluation of Language Models",
+      "https://arxiv.org/abs/2405.14782"
+    ]
+  ],
+  [
+    [
       "2024-05-25, 10:56:41",
       "https://news.ycombinator.com/item?id=40474165"
     ],
@@ -97,26 +137,6 @@
     [
       "A simple core.async job system in Clojure",
       "https://blog.janetacarr.com/creating-a-dead-simple-asynchronous-job-system-in-clojure/"
-    ]
-  ],
-  [
-    [
-      "2024-05-25, 00:52:02",
-      "https://news.ycombinator.com/item?id=40471798"
-    ],
-    [
-      "Email.ml – Minimalist Temporary Email",
-      "https://email.ml/"
-    ]
-  ],
-  [
-    [
-      "2024-05-24, 21:00:54",
-      "https://news.ycombinator.com/item?id=40470454"
-    ],
-    [
-      "Freshpaint (YC S19) is hiring software engineers to protect patient privacy",
-      "https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn"
     ]
   ],
   [
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2024-05-24, 07:00:11",
-      "https://news.ycombinator.com/item?id=40463626"
-    ],
-    [
-      "Recursion, continuations and trampolines (2017)",
-      "https://eli.thegreenplace.net/2017/on-recursion-continuations-and-trampolines/"
-    ]
-  ],
-  [
-    [
       "2024-05-24, 06:28:27",
       "https://news.ycombinator.com/item?id=40463426"
     ],
@@ -267,16 +277,6 @@
     [
       "LuaRT: Lua programming environment for console, desktop applications for Windows",
       "https://luart.org/index.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-24, 05:13:33",
-      "https://news.ycombinator.com/item?id=40463011"
-    ],
-    [
-      "Blue field entoptic phenomenon",
-      "https://en.wikipedia.org/wiki/Blue_field_entoptic_phenomenon"
     ]
   ],
   [
