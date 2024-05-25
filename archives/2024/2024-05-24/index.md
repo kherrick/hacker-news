@@ -75,6 +75,7 @@
 * [2024-05-24, 10:01:00](https://news.ycombinator.com/item?id=40464579) - [Test Functions for Global Optimization](https://www.sfu.ca/~ssurjano/optimization.html)
 * [2024-05-24, 09:54:59](https://news.ycombinator.com/item?id=40464558) - [Voxel Displacement Renderer – Modernizing the Retro 3D Aesthetic](https://blog.danielschroeder.me/2024/05/voxel-displacement-modernizing-retro-3d/)
 * [2024-05-24, 09:48:37](https://news.ycombinator.com/item?id=40464537) - [Common Lisp Is Not a Single Language, It Is Lots](https://aartaka.me/cl-is-lots)
+* [2024-05-24, 09:40:24](https://news.ycombinator.com/item?id=40464496) - [Converting a Cisco 7609 into a beer tap (2021)](https://blog.jonasbengtson.se/cisco-7609-beer-tap)
 * [2024-05-24, 09:40:04](https://news.ycombinator.com/item?id=40464495) - [Kabosu, the Dog Behind the 'Doge' Meme, Has Died](https://www.ign.com/articles/kabosu-the-dog-behind-the-doge-meme-has-died)
 * [2024-05-24, 09:39:39](https://news.ycombinator.com/item?id=40464490) - [Shiba Inu which inspired the 'doge' meme and became face of Dogecoin has died](https://news.sky.com/story/kabosu-dies-shiba-inu-which-inspired-the-doge-meme-and-became-face-of-dogecoin-has-died-12895009)
 * [2024-05-24, 09:35:24](https://news.ycombinator.com/item?id=40464469) - [.NET for NES Game Console on 6502 Microprocessors](https://github.com/jonathanpeppers/dotnes)

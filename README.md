@@ -2,7 +2,6 @@
 
 * [2024-05-25, 02:35:56](https://news.ycombinator.com/item?id=40472226) - [You are lucky, full moon tonight](https://twitter.com/cupiabart/status/1793930355617259811)
 * [2024-05-25, 02:15:58](https://news.ycombinator.com/item?id=40472146) - [JetBrains releases RustRover IDE for Rust development](https://www.infoworld.com/article/3715317/jetbrains-releases-rustrover-ide-for-rust-development.html)
-* [2024-05-25, 01:26:32](https://news.ycombinator.com/item?id=40471958) - [Feral goldfish are threatening the Great Lakes ecosystem [video]](https://www.pbs.org/newshour/show/how-massive-feral-goldfish-are-threatening-the-great-lakes-ecosystem)
 * [2024-05-25, 00:52:02](https://news.ycombinator.com/item?id=40471798) - [Email.ml – Minimalist Temporary Email](https://email.ml/)
 * [2024-05-24, 21:00:54](https://news.ycombinator.com/item?id=40470454) - [Freshpaint (YC S19) is hiring software engineers to protect patient privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 * [2024-05-24, 20:18:23](https://news.ycombinator.com/item?id=40470134) - [Guys what is wrong with ACATS](https://www.bitsaboutmoney.com/archive/how-acats-transfers-work/)
@@ -21,6 +20,7 @@
 * [2024-05-24, 11:16:51](https://news.ycombinator.com/item?id=40464965) - [Slow Bros crafted a video game universe by hand](https://wepresent.wetransfer.com/stories/slow-bros-harold-halibut-game)
 * [2024-05-24, 10:01:00](https://news.ycombinator.com/item?id=40464579) - [Test Functions for Global Optimization](https://www.sfu.ca/~ssurjano/optimization.html)
 * [2024-05-24, 09:54:59](https://news.ycombinator.com/item?id=40464558) - [Voxel Displacement Renderer – Modernizing the Retro 3D Aesthetic](https://blog.danielschroeder.me/2024/05/voxel-displacement-modernizing-retro-3d/)
+* [2024-05-24, 09:40:24](https://news.ycombinator.com/item?id=40464496) - [Converting a Cisco 7609 into a beer tap (2021)](https://blog.jonasbengtson.se/cisco-7609-beer-tap)
 * [2024-05-24, 09:35:24](https://news.ycombinator.com/item?id=40464469) - [.NET for NES Game Console on 6502 Microprocessors](https://github.com/jonathanpeppers/dotnes)
 * [2024-05-24, 08:56:22](https://news.ycombinator.com/item?id=40464303) - [Lewis Carroll – computing the day of the week for any given date (1887)](https://www.futilitycloset.com/2024/05/24/day-tripper/)
 * [2024-05-24, 07:43:05](https://news.ycombinator.com/item?id=40463887) - [LZW and GIF explained](https://www.eecis.udel.edu/~amer/CISC651/lzw.and.gif.explained.html)
