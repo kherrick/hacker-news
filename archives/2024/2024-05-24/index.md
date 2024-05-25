@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-24](index.md)
 
 * [2024-05-24, 23:59:59](https://news.ycombinator.com/item?id=40471547) - [How private equity rolled Red Lobster](https://www.nbcnews.com/business/consumer/private-equity-rolled-red-lobster-rcna153397)
+* [2024-05-24, 23:35:26](https://news.ycombinator.com/item?id=40471419) - [Diffusion Models](https://andrewkchan.dev/posts/diffusion.html)
 * [2024-05-24, 23:12:27](https://news.ycombinator.com/item?id=40471306) - [ICQ messenger shuts down after almost 28 years](https://www.bleepingcomputer.com/news/software/icq-messenger-shuts-down-after-almost-28-years/)
 * [2024-05-24, 22:49:38](https://news.ycombinator.com/item?id=40471172) - [Another US state repeals law that protected ISPs from municipal competition](https://arstechnica.com/tech-policy/2024/05/another-us-state-repeals-law-that-protected-isps-from-municipal-competition/)
 * [2024-05-24, 22:29:06](https://news.ycombinator.com/item?id=40471060) - [Google's AI Overviews is being laughed at by the CEO of search rival Perplexity](https://www.businessinsider.com/google-ai-overviews-laughed-at-ceo-perplexity-pizza-glue-2024-5)

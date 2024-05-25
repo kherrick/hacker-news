@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-25](index.md)
 
+* [2024-05-25, 22:26:31](https://news.ycombinator.com/item?id=40478294) - [Startup is about to install bladeless rooftop wind turbines on box buildings](https://electrek.co/2024/05/24/bladeless-rooftop-wind-turbines-box-buildings/)
 * [2024-05-25, 22:16:04](https://news.ycombinator.com/item?id=40478250) - [Tesla Owners Get Only 64% of EPA Range After Just Three Years: Study](https://insideevs.com/news/720899/tesla-64-epa-max-range/)
 * [2024-05-25, 21:24:09](https://news.ycombinator.com/item?id=40477972) - [Kubernetes X account suspended for ToS violations](https://x.com/kubernetesio)
 * [2024-05-25, 21:01:30](https://news.ycombinator.com/item?id=40477840) - [Fathom AI Notetaker (YC W21) Is Hiring Full-Stack Engineers (Remote)](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-full-stack-engineer-remote)
@@ -31,6 +32,7 @@
 * [2024-05-25, 15:20:46](https://news.ycombinator.com/item?id=40475556) - [When Open Source turns sour: A brush with mistaken identity](https://opensource.net/when-open-source-mistaken-identity-scandal/)
 * [2024-05-25, 15:06:38](https://news.ycombinator.com/item?id=40475472) - [Could I use the iPad as my only computer?](https://thejollyteapot.com/2024/05/24/could-i-use-the-ipad-as-my-only-computer)
 * [2024-05-25, 14:50:22](https://news.ycombinator.com/item?id=40475386) - [The new visa fees for foreign artists are out. This is not good](https://www.ajournalofmusicalthings.com/the-new-visa-fees-for-foreign-artists-are-out-this-is-not-good/)
+* [2024-05-25, 14:44:58](https://news.ycombinator.com/item?id=40475355) - [Why is x & -x equal to the largest power of 2 that divides x?](https://arunmani.in/articles/highest-two-power-to-divide-a-number/)
 * [2024-05-25, 14:10:36](https://news.ycombinator.com/item?id=40475178) - [A shrinking life: Why some Asian youth withdraw from the world](https://www.cnn.com/interactive/2024/05/world/hikikomori-asia-personal-stories-wellness/)
 * [2024-05-25, 14:01:22](https://news.ycombinator.com/item?id=40475125) - [Goodix Fingerprint Drivers for Linux (Or at Least Debian)](https://github.com/tcsenpai/goodix-debian-linux-drivers-fingerprint-by-dell)
 * [2024-05-25, 14:00:15](https://news.ycombinator.com/item?id=40475120) - [Raw milk sales spike despite CDC's warnings of risk](https://www.pbs.org/newshour/health/raw-milk-sales-spike-despite-cdcs-warnings-of-risk-associated-with-bird-flu)
@@ -38,6 +40,7 @@
 * [2024-05-25, 13:50:19](https://news.ycombinator.com/item?id=40475076) - [The Case for Japan's Clothes-Drying Bathrooms](https://www.bloomberg.com/news/articles/2024-05-22/laundry-lessons-from-japanese-bathroom-technology)
 * [2024-05-25, 13:20:15](https://news.ycombinator.com/item?id=40474915) - [Goodbye to My London Science Museum's 'Secret Life of the Home' Gallery [video]](https://www.youtube.com/watch?v=Kz5gBkZkKdg)
 * [2024-05-25, 12:58:20](https://news.ycombinator.com/item?id=40474759) - [The Cognitive Design of Tools of Thought [pdf]](http://gjgreenberg.bol.ucla.edu/docs/rpp/04_tversky.pdf)
+* [2024-05-25, 12:55:06](https://news.ycombinator.com/item?id=40474736) - [People spend more when prices end in .99 (2018)](https://kenthendricks.com/99-cent-prices/)
 * [2024-05-25, 12:50:49](https://news.ycombinator.com/item?id=40474716) - [Ask HN: What is your ChatGPT customization prompt?](https://news.ycombinator.com/item?id=40474716)
 * [2024-05-25, 12:50:00](https://news.ycombinator.com/item?id=40474712) - [Abusing Go's Infrastructure](https://reverse.put.as/2024/05/24/abusing-go-infrastructure/)
 * [2024-05-25, 12:32:00](https://news.ycombinator.com/item?id=40474603) - [OpenBSD – Clang -fret-clean: cleaning return addresses off stack (by deraadt)](https://www.undeadly.org/cgi?action=article;sid=20240525123128)

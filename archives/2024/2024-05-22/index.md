@@ -11,6 +11,7 @@
 * [2024-05-22, 22:39:51](https://news.ycombinator.com/item?id=40447626) - [US Justice Department to Seek Breakup of Live Nation-Ticketmaster](https://www.bloomberg.com/news/articles/2024-05-22/justice-department-to-seek-breakup-of-live-nation-ticketmaster)
 * [2024-05-22, 22:39:21](https://news.ycombinator.com/item?id=40447617) - [Liberal democracy might lose the 21st century](https://www.noahpinion.blog/p/how-liberal-democracy-might-lose)
 * [2024-05-22, 22:22:30](https://news.ycombinator.com/item?id=40447431) - [Leaked OpenAI documents reveal aggressive tactics toward former employees](https://www.vox.com/future-perfect/351132/openai-vested-equity-nda-sam-altman-documents-employees)
+* [2024-05-22, 22:19:10](https://news.ycombinator.com/item?id=40447399) - [Making my dumb A/C smart with Elixir and Nerves](https://www.milanvit.net/post/making-my-dumb-a-c-smart-with-elixir-and-nerves/)
 * [2024-05-22, 22:02:19](https://news.ycombinator.com/item?id=40447235) - [A Michigan farmworker is diagnosed with bird flu in case tied to dairy cows](https://www.npr.org/2024/05/22/1252984256/bird-flu-h5n1-virus-human-michigan-cows)
 * [2024-05-22, 21:51:40](https://news.ycombinator.com/item?id=40447117) - [Voyager 1 Resumes Sending Science Data](https://blogs.nasa.gov/voyager/2024/05/22/voyager-1-resumes-sending-science-data-from-two-instruments/)
 * [2024-05-22, 21:38:14](https://news.ycombinator.com/item?id=40446944) - [YouTube seems to once again be rolling out its widely hated new web redesign](https://9to5google.com/2024/05/22/youtube-redesign-rolling-out-again/)
