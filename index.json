@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-05-25, 14:50:22",
-      "https://news.ycombinator.com/item?id=40475386"
+      "2024-05-25, 16:35:24",
+      "https://news.ycombinator.com/item?id=40476081"
     ],
     [
-      "The new visa fees for foreign artists are out. This is not good",
-      "https://www.ajournalofmusicalthings.com/the-new-visa-fees-for-foreign-artists-are-out-this-is-not-good/"
+      "The Harsh Truth Behind Samsung's Phone Repair Program",
+      "https://gizmodo.com/harsh-truth-samsung-phone-repair-program-ifixit-1851500413"
+    ]
+  ],
+  [
+    [
+      "2024-05-25, 15:24:27",
+      "https://news.ycombinator.com/item?id=40475578"
+    ],
+    [
+      "Google scrambles to manually remove weird AI answers in search",
+      "https://www.theverge.com/2024/5/24/24164119/google-ai-overview-mistakes-search-race-openai"
     ]
   ],
   [
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=40475076"
     ],
     [
-      "Japan's Clothes-Drying Bathrooms",
+      "Japan's clothes-drying bathrooms",
       "https://www.bloomberg.com/news/articles/2024-05-22/laundry-lessons-from-japanese-bathroom-technology"
     ]
   ],
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2024-05-24, 16:16:37",
-      "https://news.ycombinator.com/item?id=40467625"
-    ],
-    [
-      "ICQ will stop working from June 26",
-      "https://icq.com/desktop/en#windows"
-    ]
-  ],
-  [
-    [
       "2024-05-24, 15:35:04",
       "https://news.ycombinator.com/item?id=40467232"
     ],
@@ -197,16 +197,6 @@
     [
       "Sharing details on a recent incident impacting one of our customers",
       "https://cloud.google.com/blog/products/infrastructure/details-of-google-cloud-gcve-incident/"
-    ]
-  ],
-  [
-    [
-      "2024-05-24, 13:50:39",
-      "https://news.ycombinator.com/item?id=40466255"
-    ],
-    [
-      "Peeking underground with giant flying antennas",
-      "https://hackaday.com/2024/05/21/peeking-underground-with-giant-flying-antennas/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Show HN: We open sourced our entire text-to-SQL product",
       "https://github.com/Dataherald/dataherald"
+    ]
+  ],
+  [
+    [
+      "2024-05-23, 01:28:28",
+      "https://news.ycombinator.com/item?id=40449299"
+    ],
+    [
+      "Show HN: LogsQL – opinionated query language for logs",
+      "https://docs.victoriametrics.com/victorialogs/logsql/"
     ]
   ]
 ]
