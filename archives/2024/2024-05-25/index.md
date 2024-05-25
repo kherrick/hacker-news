@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-25](index.md)
 
+* [2024-05-25, 17:58:18](https://news.ycombinator.com/item?id=40476674) - [Politicians fall sick after drinking raw milk to celebrate legalising raw milk](https://www.independent.co.uk/news/world/americas/politicians-sick-after-drinking-raw-milk-to-celebrate-legalising-raw-milk-a6923106.html)
 * [2024-05-25, 17:25:55](https://news.ycombinator.com/item?id=40476440) - [University awards student $10k for his AI tool, then suspends him for using it](https://www.entrepreneur.com/business-news/emory-university-funds-suspends-student-over-ai-tool/474535)
 * [2024-05-25, 17:20:30](https://news.ycombinator.com/item?id=40476410) - [`tmux` is worse is better](https://hiandrewquinn.github.io/til-site/posts/tmux-is-worse-is-better/)
 * [2024-05-25, 17:00:13](https://news.ycombinator.com/item?id=40476276) - [Lago: Open-Source Usage Based Billing Is Hiring a Founding Product Marketer](https://www.ycombinator.com/companies/lago/jobs/8aqFA2l-product-marketer)
