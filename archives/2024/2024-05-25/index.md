@@ -6,6 +6,7 @@
 
 * [2024-05-25, 11:25:52](https://news.ycombinator.com/item?id=40474236) - [Publishing AI Slop Is a Choice](https://daringfireball.net/linked/2024/05/24/publishing-ai-slop-is-a-choice)
 * [2024-05-25, 11:14:26](https://news.ycombinator.com/item?id=40474202) - [Google just updated its algorithm. The Internet will never be the same](https://www.bbc.com/future/article/20240524-how-googles-new-algorithm-will-shape-your-internet)
+* [2024-05-25, 11:13:47](https://news.ycombinator.com/item?id=40474201) - [I'm in love with my AI girlfriend GPT-4o will prove insatiable](https://unherd.com/2024/05/im-in-love-with-my-ai-girlfriend/)
 * [2024-05-25, 11:01:20](https://news.ycombinator.com/item?id=40474180) - [It's cheaper to buy ($33) than rent ($44/year) IPv4s from AWS](https://twitter.com/billfranklinuk/status/1794268011383144518)
 * [2024-05-25, 10:56:41](https://news.ycombinator.com/item?id=40474165) - [Lapis: A Web Framework for Lua](https://leafo.net/lapis/)
 * [2024-05-25, 08:11:11](https://news.ycombinator.com/item?id=40473454) - [Male birth control breakthrough safely switches off fit sperm for a while](https://newatlas.com/medical/male-birth-control-stk333/)
