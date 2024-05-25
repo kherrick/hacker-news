@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-25](index.md)
 
+* [2024-05-25, 12:18:53](https://news.ycombinator.com/item?id=40474516) - [The deskilling of web dev is harming us all](https://www.baldurbjarnason.com/2024/the-deskilling-of-web-dev-is-harming-us-all/)
 * [2024-05-25, 11:25:52](https://news.ycombinator.com/item?id=40474236) - [Publishing AI Slop Is a Choice](https://daringfireball.net/linked/2024/05/24/publishing-ai-slop-is-a-choice)
 * [2024-05-25, 11:14:26](https://news.ycombinator.com/item?id=40474202) - [Google just updated its algorithm. The Internet will never be the same](https://www.bbc.com/future/article/20240524-how-googles-new-algorithm-will-shape-your-internet)
 * [2024-05-25, 11:13:47](https://news.ycombinator.com/item?id=40474201) - [I'm in love with my AI girlfriend GPT-4o will prove insatiable](https://unherd.com/2024/05/im-in-love-with-my-ai-girlfriend/)

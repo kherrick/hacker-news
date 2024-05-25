@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-25, 12:18:53](https://news.ycombinator.com/item?id=40474516) - [The deskilling of web dev is harming us all](https://www.baldurbjarnason.com/2024/the-deskilling-of-web-dev-is-harming-us-all/)
 * [2024-05-25, 11:25:52](https://news.ycombinator.com/item?id=40474236) - [Publishing AI Slop Is a Choice](https://daringfireball.net/linked/2024/05/24/publishing-ai-slop-is-a-choice)
 * [2024-05-25, 11:14:26](https://news.ycombinator.com/item?id=40474202) - [Google just updated its algorithm. The Internet will never be the same](https://www.bbc.com/future/article/20240524-how-googles-new-algorithm-will-shape-your-internet)
-* [2024-05-25, 11:13:47](https://news.ycombinator.com/item?id=40474201) - [I'm in love with my AI girlfriend GPT-4o will prove insatiable](https://unherd.com/2024/05/im-in-love-with-my-ai-girlfriend/)
-* [2024-05-25, 11:01:20](https://news.ycombinator.com/item?id=40474180) - [It's cheaper to buy ($33) than rent ($44/year) IPv4s from AWS](https://twitter.com/billfranklinuk/status/1794268011383144518)
 * [2024-05-25, 10:56:41](https://news.ycombinator.com/item?id=40474165) - [Lapis: A Web Framework for Lua](https://leafo.net/lapis/)
 * [2024-05-25, 07:09:47](https://news.ycombinator.com/item?id=40473198) - [Mistral Fine-Tune](https://github.com/mistralai/mistral-finetune)
 * [2024-05-25, 03:57:01](https://news.ycombinator.com/item?id=40472546) - [Don Knuth's MIP, 64 years later](https://nathanbrixius.wordpress.com/2024/04/13/don-knuths-mip-64-years-later/)
@@ -21,6 +20,7 @@
 * [2024-05-24, 15:35:04](https://news.ycombinator.com/item?id=40467232) - [Samsung WB850F Firmware Reverse Engineering](https://op-co.de/blog/posts/samsung_wb850f_firmware/)
 * [2024-05-24, 14:50:07](https://news.ycombinator.com/item?id=40466826) - [Thermodynamic Natural Gradient Descent](https://arxiv.org/abs/2405.13817)
 * [2024-05-24, 14:48:08](https://news.ycombinator.com/item?id=40466810) - [Sharing details on a recent incident impacting one of our customers](https://cloud.google.com/blog/products/infrastructure/details-of-google-cloud-gcve-incident/)
+* [2024-05-24, 14:25:05](https://news.ycombinator.com/item?id=40466597) - [Breakdown (2018)](https://www.futilitycloset.com/2018/02/02/breakdown-2/)
 * [2024-05-24, 11:49:52](https://news.ycombinator.com/item?id=40465182) - [Agenda: a personal information manager (1990) [pdf]](https://dl.acm.org/doi/pdf/10.1145/79204.79212)
 * [2024-05-24, 11:16:51](https://news.ycombinator.com/item?id=40464965) - [Slow Bros crafted a video game universe by hand](https://wepresent.wetransfer.com/stories/slow-bros-harold-halibut-game)
 * [2024-05-24, 10:39:32](https://news.ycombinator.com/item?id=40464776) - [Reverse engineering ESP32 Wi-Fi driver: the road ahead](https://esp32-open-mac.be/posts/0005-the-road-ahead/)
