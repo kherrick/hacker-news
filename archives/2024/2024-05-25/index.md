@@ -8,6 +8,7 @@
 * [2024-05-25, 21:01:30](https://news.ycombinator.com/item?id=40477840) - [Fathom AI Notetaker (YC W21) Is Hiring Full-Stack Engineers (Remote)](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-full-stack-engineer-remote)
 * [2024-05-25, 20:13:34](https://news.ycombinator.com/item?id=40477500) - [Extend your battery life with scx_rustland](http://arighi.blogspot.com/2024/05/extend-your-battery-life-with.html)
 * [2024-05-25, 19:48:53](https://news.ycombinator.com/item?id=40477362) - [Archaeologists Found an 'Anomaly' Near the Pyramids – May Reveal Ancient Portal](https://www.popularmechanics.com/science/archaeology/a60815504/pyramids-anomaly/)
+* [2024-05-25, 19:46:35](https://news.ycombinator.com/item?id=40477345) - [Exploring the NEC V20 CPU](https://martypc.blogspot.com/2024/05/exploring-nec-v20-cpu.html)
 * [2024-05-25, 19:42:43](https://news.ycombinator.com/item?id=40477325) - [The Fall of the House of Etsy](https://spy.com/articles/lifestyle/gifts/etsy-downfall-1203000173/)
 * [2024-05-25, 19:39:50](https://news.ycombinator.com/item?id=40477307) - [Zero-emission 'electric cement' is an 'absolute miracle'](https://www.popsci.com/technology/green-cement-recycling/)
 * [2024-05-25, 19:30:16](https://news.ycombinator.com/item?id=40477261) - [Two B.C. companies ordered to shut down on national security grounds](https://vancouversun.com/news/local-news/two-b-c-companies-ordered-to-cease-all-operations-over-national-security-concerns)

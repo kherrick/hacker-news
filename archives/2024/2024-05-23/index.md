@@ -10,6 +10,7 @@
 * [2024-05-23, 22:15:20](https://news.ycombinator.com/item?id=40460528) - [Ask HN: What makes Windows 11 perform much worse than Windows XP?](https://news.ycombinator.com/item?id=40460528)
 * [2024-05-23, 21:47:21](https://news.ycombinator.com/item?id=40460296) - [CSharpRepl: C# REPL with syntax highlighting and intellisense](https://fuqua.io/CSharpRepl/)
 * [2024-05-23, 21:00:38](https://news.ycombinator.com/item?id=40459848) - [Checkr (YC S14) is hiring a staff software engineer for its new bet, Checkr Pay](https://www.ycombinator.com/companies/checkr/jobs/ixzdle1-staff-software-engineer-checkr-pay)
+* [2024-05-23, 20:41:36](https://news.ycombinator.com/item?id=40459652) - [Voxel Displacement Renderer – Modernizing the Retro 3D Aesthetic](https://blog.danielschroeder.me/2024/05/voxel-displacement-modernizing-retro-3d/)
 * [2024-05-23, 20:30:22](https://news.ycombinator.com/item?id=40459543) - [Golden Gate Claude](https://www.anthropic.com/news/golden-gate-claude)
 * [2024-05-23, 20:20:03](https://news.ycombinator.com/item?id=40459419) - [An analysis of studies pertaining to masks from 1978 to 2023](https://www.medrxiv.org/content/10.1101/2023.07.07.23292338v1)
 * [2024-05-23, 20:18:52](https://news.ycombinator.com/item?id=40459404) - [Show HN: I built obsidian plugin to create notes from BibTeX](https://github.com/akopdev/obsidian-bibtex-manager)
