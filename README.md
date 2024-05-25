@@ -2,6 +2,7 @@
 
 * [2024-05-25, 22:26:31](https://news.ycombinator.com/item?id=40478294) - [Startup is about to install bladeless rooftop wind turbines on box buildings](https://electrek.co/2024/05/24/bladeless-rooftop-wind-turbines-box-buildings/)
 * [2024-05-25, 21:01:30](https://news.ycombinator.com/item?id=40477840) - [Fathom AI Notetaker (YC W21) Is Hiring Full-Stack Engineers (Remote)](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-full-stack-engineer-remote)
+* [2024-05-25, 21:01:29](https://news.ycombinator.com/item?id=40477839) - [UltraNet: Revisiting Ultrasound](https://b.h4x.zip/ultranet/)
 * [2024-05-25, 20:35:59](https://news.ycombinator.com/item?id=40477653) - [Majorana, the search for the most elusive neutrino of all](https://newscenter.lbl.gov/2012/05/16/majorana-demonstrator/)
 * [2024-05-25, 20:28:38](https://news.ycombinator.com/item?id=40477604) - [Taming floating-point sums](https://orlp.net/blog/taming-float-sums/)
 * [2024-05-25, 19:42:43](https://news.ycombinator.com/item?id=40477325) - [The Fall of the House of Etsy](https://spy.com/articles/lifestyle/gifts/etsy-downfall-1203000173/)
@@ -25,7 +26,6 @@
 * [2024-05-23, 19:32:54](https://news.ycombinator.com/item?id=40458914) - [The Great Proxywall 3000](https://pramatias.github.io/proxywall/proxywall_en.html)
 * [2024-05-23, 16:20:23](https://news.ycombinator.com/item?id=40456621) - [So good, it works on barbed wire (2001)](https://www.sigcon.com/Pubs/edn/SoGoodBarbedWire.htm)
 * [2024-05-23, 16:05:15](https://news.ycombinator.com/item?id=40456449) - [Inventing my own writing system for English, VJScript](https://www.vkethana.com/vjscript/)
-* [2024-05-23, 15:35:40](https://news.ycombinator.com/item?id=40456020) - [Tracking Releases and CI Across Software Teams and Forges](https://jnsgr.uk/2024/05/tracking-software-across-teams/)
 * [2024-05-23, 15:24:21](https://news.ycombinator.com/item?id=40455865) - [Lessons Learned from My First Roblox Game](https://mandeepbhutani.com/blog)
 * [2024-05-23, 12:08:53](https://news.ycombinator.com/item?id=40453716) - [Medieval Bologna was full of tall towers](https://www.openculture.com/2024/05/why-medieval-bologna-was-full-of-tall-towers-and-what-happened-to-them.html)
 * [2024-05-23, 03:47:41](https://news.ycombinator.com/item?id=40450267) - [&udm=14 – easy access to an AI-free Google search](https://udm14.com/)
