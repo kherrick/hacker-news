@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-25, 03:13:08](https://news.ycombinator.com/item?id=40472374) - [Optimize Your Talking Points](https://rachelbythebay.com/w/2018/04/28/meta/)
 * [2024-05-25, 02:35:56](https://news.ycombinator.com/item?id=40472226) - [You are lucky, full moon tonight](https://twitter.com/cupiabart/status/1793930355617259811)
-* [2024-05-25, 02:15:58](https://news.ycombinator.com/item?id=40472146) - [JetBrains releases RustRover IDE for Rust development](https://www.infoworld.com/article/3715317/jetbrains-releases-rustrover-ide-for-rust-development.html)
+* [2024-05-25, 02:08:08](https://news.ycombinator.com/item?id=40472119) - [AlmaLinux OS – Samba File Server](https://blog.while-true-do.io/almalinux-os-samba-file-server/)
 * [2024-05-25, 00:52:02](https://news.ycombinator.com/item?id=40471798) - [Email.ml – Minimalist Temporary Email](https://email.ml/)
 * [2024-05-24, 21:00:54](https://news.ycombinator.com/item?id=40470454) - [Freshpaint (YC S19) is hiring software engineers to protect patient privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 * [2024-05-24, 20:18:23](https://news.ycombinator.com/item?id=40470134) - [Guys what is wrong with ACATS](https://www.bitsaboutmoney.com/archive/how-acats-transfers-work/)
@@ -16,7 +17,6 @@
 * [2024-05-24, 13:50:39](https://news.ycombinator.com/item?id=40466255) - [Peeking underground with giant flying antennas](https://hackaday.com/2024/05/21/peeking-underground-with-giant-flying-antennas/)
 * [2024-05-24, 11:49:52](https://news.ycombinator.com/item?id=40465182) - [Agenda: a personal information manager (1990) [pdf]](https://dl.acm.org/doi/pdf/10.1145/79204.79212)
 * [2024-05-24, 11:25:32](https://news.ycombinator.com/item?id=40465014) - [Addition with flamethrowers – why game devs don't unit test](https://www.pixelatedplaygrounds.com/sidequests/addition-with-flamethrowers-or-why-game-devs-dont-unit-test)
-* [2024-05-24, 11:22:21](https://news.ycombinator.com/item?id=40464994) - [Imperceptible sensors can be printed directly on human skin](https://www.cam.ac.uk/research/news/imperceptible-sensors-made-from-electronic-spider-silk-can-be-printed-directly-on-human-skin)
 * [2024-05-24, 11:16:51](https://news.ycombinator.com/item?id=40464965) - [Slow Bros crafted a video game universe by hand](https://wepresent.wetransfer.com/stories/slow-bros-harold-halibut-game)
 * [2024-05-24, 10:01:00](https://news.ycombinator.com/item?id=40464579) - [Test Functions for Global Optimization](https://www.sfu.ca/~ssurjano/optimization.html)
 * [2024-05-24, 09:54:59](https://news.ycombinator.com/item?id=40464558) - [Voxel Displacement Renderer – Modernizing the Retro 3D Aesthetic](https://blog.danielschroeder.me/2024/05/voxel-displacement-modernizing-retro-3d/)
