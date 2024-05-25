@@ -6,6 +6,7 @@
 
 * [2024-05-25, 21:24:09](https://news.ycombinator.com/item?id=40477972) - [Kubernetes X account suspended for ToS violations](https://x.com/kubernetesio)
 * [2024-05-25, 21:01:30](https://news.ycombinator.com/item?id=40477840) - [Fathom AI Notetaker (YC W21) Is Hiring Full-Stack Engineers (Remote)](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-full-stack-engineer-remote)
+* [2024-05-25, 20:35:59](https://news.ycombinator.com/item?id=40477653) - [Majorana, the Search for the Most Elusive Neutrino of All](https://newscenter.lbl.gov/2012/05/16/majorana-demonstrator/)
 * [2024-05-25, 20:28:38](https://news.ycombinator.com/item?id=40477604) - [Taming Floating-Point Sums](https://orlp.net/blog/taming-float-sums/)
 * [2024-05-25, 20:13:34](https://news.ycombinator.com/item?id=40477500) - [Extend your battery life with scx_rustland](http://arighi.blogspot.com/2024/05/extend-your-battery-life-with.html)
 * [2024-05-25, 19:48:53](https://news.ycombinator.com/item?id=40477362) - [Archaeologists Found an 'Anomaly' Near the Pyramids – May Reveal Ancient Portal](https://www.popularmechanics.com/science/archaeology/a60815504/pyramids-anomaly/)
@@ -14,6 +15,7 @@
 * [2024-05-25, 19:39:50](https://news.ycombinator.com/item?id=40477307) - [Zero-emission 'electric cement' is an 'absolute miracle'](https://www.popsci.com/technology/green-cement-recycling/)
 * [2024-05-25, 19:30:16](https://news.ycombinator.com/item?id=40477261) - [Two B.C. companies ordered to shut down on national security grounds](https://vancouversun.com/news/local-news/two-b-c-companies-ordered-to-cease-all-operations-over-national-security-concerns)
 * [2024-05-25, 19:30:16](https://news.ycombinator.com/item?id=40477261) - [Canada orders dissolution of two firms, citing national security concerns](https://www.reuters.com/business/canada-orders-dissolution-two-firms-citing-national-security-concerns-2024-05-25/)
+* [2024-05-25, 19:11:40](https://news.ycombinator.com/item?id=40477166) - [Rootless Docker in a Multi-User Environment – It's All About Context](https://www.cmtops.dev/posts/rootless-docker-in-multiuser-environment/)
 * [2024-05-25, 19:11:34](https://news.ycombinator.com/item?id=40477165) - [Bird Flu Virus Found in Beef Tissue](https://www.nytimes.com/2024/05/24/health/bird-flu-beef.html)
 * [2024-05-25, 19:04:43](https://news.ycombinator.com/item?id=40477130) - [Cannabis Use Linked to Epigenetic Changes, Study Reveals](https://www.sciencealert.com/cannabis-use-linked-to-epigenetic-changes-study-reveals)
 * [2024-05-25, 17:58:18](https://news.ycombinator.com/item?id=40476674) - [Politicians fall sick after drinking raw milk to celebrate legalising raw milk](https://www.independent.co.uk/news/world/americas/politicians-sick-after-drinking-raw-milk-to-celebrate-legalising-raw-milk-a6923106.html)
