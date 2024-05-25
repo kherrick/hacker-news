@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-25, 19:48:53](https://news.ycombinator.com/item?id=40477362) - [Archaeologists Found an 'Anomaly' Near the Pyramids – May Reveal Ancient Portal](https://www.popularmechanics.com/science/archaeology/a60815504/pyramids-anomaly/)
 * [2024-05-25, 19:42:43](https://news.ycombinator.com/item?id=40477325) - [The Fall of the House of Etsy](https://spy.com/articles/lifestyle/gifts/etsy-downfall-1203000173/)
 * [2024-05-25, 19:30:16](https://news.ycombinator.com/item?id=40477261) - [Two B.C. companies ordered to shut down on national security grounds](https://vancouversun.com/news/local-news/two-b-c-companies-ordered-to-cease-all-operations-over-national-security-concerns)
 * [2024-05-25, 19:04:43](https://news.ycombinator.com/item?id=40477130) - [Cannabis use linked to epigenetic changes, study reveals](https://www.sciencealert.com/cannabis-use-linked-to-epigenetic-changes-study-reveals)
@@ -8,6 +7,7 @@
 * [2024-05-25, 17:20:30](https://news.ycombinator.com/item?id=40476410) - [Tmux is worse-is-better](https://hiandrewquinn.github.io/til-site/posts/tmux-is-worse-is-better/)
 * [2024-05-25, 17:00:13](https://news.ycombinator.com/item?id=40476276) - [Lago (YC S21) – open-source usage-based billing – is hiring a product marketer](https://www.ycombinator.com/companies/lago/jobs/8aqFA2l-product-marketer)
 * [2024-05-25, 16:42:03](https://news.ycombinator.com/item?id=40476134) - [The road to hell is paved with good intentions and C++ modules (2023)](https://nibblestew.blogspot.com/2023/10/the-road-to-hell-is-paved-with-good.html)
+* [2024-05-25, 15:24:27](https://news.ycombinator.com/item?id=40475578) - [Google scrambles to manually remove weird AI answers in search](https://www.theverge.com/2024/5/24/24164119/google-ai-overview-mistakes-search-race-openai)
 * [2024-05-25, 14:10:36](https://news.ycombinator.com/item?id=40475178) - [The hikikomori in Asia: A life within four walls](https://www.cnn.com/interactive/2024/05/world/hikikomori-asia-personal-stories-wellness/)
 * [2024-05-25, 14:01:22](https://news.ycombinator.com/item?id=40475125) - [Goodix Fingerprint Drivers for Linux (Or at Least Debian)](https://github.com/tcsenpai/goodix-debian-linux-drivers-fingerprint-by-dell)
 * [2024-05-25, 12:58:20](https://news.ycombinator.com/item?id=40474759) - [The Cognitive Design of Tools of Thought (2014) [pdf]](http://gjgreenberg.bol.ucla.edu/docs/rpp/04_tversky.pdf)
