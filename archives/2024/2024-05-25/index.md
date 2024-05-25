@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-25](index.md)
 
 * [2024-05-25, 17:25:55](https://news.ycombinator.com/item?id=40476440) - [University awards student $10k for his AI tool, then suspends him for using it](https://www.entrepreneur.com/business-news/emory-university-funds-suspends-student-over-ai-tool/474535)
+* [2024-05-25, 17:20:30](https://news.ycombinator.com/item?id=40476410) - [`tmux` is worse is better](https://hiandrewquinn.github.io/til-site/posts/tmux-is-worse-is-better/)
 * [2024-05-25, 17:00:13](https://news.ycombinator.com/item?id=40476276) - [Lago: Open-Source Usage Based Billing Is Hiring a Founding Product Marketer](https://www.ycombinator.com/companies/lago/jobs/8aqFA2l-product-marketer)
 * [2024-05-25, 16:35:24](https://news.ycombinator.com/item?id=40476081) - [The Harsh Truth Behind Samsung's Phone Repair Program](https://gizmodo.com/harsh-truth-samsung-phone-repair-program-ifixit-1851500413)
 * [2024-05-25, 15:50:32](https://news.ycombinator.com/item?id=40475736) - [Google labeled \"an illegal monopolist\" by US federal judge](https://www.notebookcheck.net/Google-labeled-an-illegal-monopolist-by-US-federal-judge.841019.0.html)

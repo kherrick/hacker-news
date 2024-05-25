@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-25, 17:20:30](https://news.ycombinator.com/item?id=40476410) - [`tmux` is worse is better](https://hiandrewquinn.github.io/til-site/posts/tmux-is-worse-is-better/)
 * [2024-05-25, 17:00:13](https://news.ycombinator.com/item?id=40476276) - [Lago: Open-Source Usage Based Billing Is Hiring a Founding Product Marketer](https://www.ycombinator.com/companies/lago/jobs/8aqFA2l-product-marketer)
 * [2024-05-25, 15:24:27](https://news.ycombinator.com/item?id=40475578) - [Google scrambles to manually remove weird AI answers in search](https://www.theverge.com/2024/5/24/24164119/google-ai-overview-mistakes-search-race-openai)
 * [2024-05-25, 14:10:36](https://news.ycombinator.com/item?id=40475178) - [The hikikomori in Asia: A life within four walls](https://www.cnn.com/interactive/2024/05/world/hikikomori-asia-personal-stories-wellness/)
@@ -22,7 +23,6 @@
 * [2024-05-24, 11:49:52](https://news.ycombinator.com/item?id=40465182) - [Agenda: a personal information manager (1990) [pdf]](https://dl.acm.org/doi/pdf/10.1145/79204.79212)
 * [2024-05-24, 10:39:32](https://news.ycombinator.com/item?id=40464776) - [Reverse engineering ESP32 Wi-Fi driver: the road ahead](https://esp32-open-mac.be/posts/0005-the-road-ahead/)
 * [2024-05-24, 09:40:24](https://news.ycombinator.com/item?id=40464496) - [Converting a Cisco 7609 into a beer tap (2021)](https://blog.jonasbengtson.se/cisco-7609-beer-tap)
-* [2024-05-24, 07:00:11](https://news.ycombinator.com/item?id=40463626) - [Recursion, continuations and trampolines (2017)](https://eli.thegreenplace.net/2017/on-recursion-continuations-and-trampolines/)
 * [2024-05-24, 06:28:27](https://news.ycombinator.com/item?id=40463426) - [Coke can planimeter](http://durealeyes.com/planimeter.html)
 * [2024-05-24, 05:49:27](https://news.ycombinator.com/item?id=40463209) - [LuaRT: Lua programming environment for console, desktop applications for Windows](https://luart.org/index.html)
 * [2024-05-23, 23:53:48](https://news.ycombinator.com/item?id=40461325) - [Single atom defect in 2D material can hold quantum information at room temp](https://phys.org/news/2024-05-scientists-atom-defect-2d-material.amp)
