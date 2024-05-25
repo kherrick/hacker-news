@@ -2,7 +2,7 @@
 
 * [2024-05-25, 02:15:58](https://news.ycombinator.com/item?id=40472146) - [JetBrains releases RustRover IDE for Rust development](https://www.infoworld.com/article/3715317/jetbrains-releases-rustrover-ide-for-rust-development.html)
 * [2024-05-25, 01:26:32](https://news.ycombinator.com/item?id=40471958) - [How massive, feral goldfish are threatening the Great Lakes ecosystem [video]](https://www.pbs.org/newshour/show/how-massive-feral-goldfish-are-threatening-the-great-lakes-ecosystem)
-* [2024-05-25, 01:03:57](https://news.ycombinator.com/item?id=40471864) - [Byuu.org – Depression](https://archive.fo/2014.12.18-152806/https://byuu.org/)
+* [2024-05-25, 01:03:57](https://news.ycombinator.com/item?id=40471864) - [Depression (2014)](https://archive.fo/2014.12.18-152806/https://byuu.org/)
 * [2024-05-24, 23:12:27](https://news.ycombinator.com/item?id=40471306) - [ICQ messenger shuts down after almost 28 years](https://www.bleepingcomputer.com/news/software/icq-messenger-shuts-down-after-almost-28-years/)
 * [2024-05-24, 21:00:54](https://news.ycombinator.com/item?id=40470454) - [Freshpaint (YC S19) is hiring software engineers to protect patient privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 * [2024-05-24, 20:18:23](https://news.ycombinator.com/item?id=40470134) - [Guys what is wrong with ACATS](https://www.bitsaboutmoney.com/archive/how-acats-transfers-work/)
