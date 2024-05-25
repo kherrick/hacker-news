@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-25, 14:50:22](https://news.ycombinator.com/item?id=40475386) - [The new visa fees for foreign artists are out. This is not good](https://www.ajournalofmusicalthings.com/the-new-visa-fees-for-foreign-artists-are-out-this-is-not-good/)
+* [2024-05-25, 16:35:24](https://news.ycombinator.com/item?id=40476081) - [The Harsh Truth Behind Samsung's Phone Repair Program](https://gizmodo.com/harsh-truth-samsung-phone-repair-program-ifixit-1851500413)
+* [2024-05-25, 15:24:27](https://news.ycombinator.com/item?id=40475578) - [Google scrambles to manually remove weird AI answers in search](https://www.theverge.com/2024/5/24/24164119/google-ai-overview-mistakes-search-race-openai)
 * [2024-05-25, 14:10:36](https://news.ycombinator.com/item?id=40475178) - [The hikikomori in Asia: A life within four walls](https://www.cnn.com/interactive/2024/05/world/hikikomori-asia-personal-stories-wellness/)
 * [2024-05-25, 14:01:22](https://news.ycombinator.com/item?id=40475125) - [Goodix Fingerprint Drivers for Linux (Or at Least Debian)](https://github.com/tcsenpai/goodix-debian-linux-drivers-fingerprint-by-dell)
 * [2024-05-25, 13:53:09](https://news.ycombinator.com/item?id=40475089) - [The Prophet Who Failed](https://harpers.org/archive/2024/06/the-prophet-who-wasnt-after-the-apocalypse-that-failed-emily-harnett/)
-* [2024-05-25, 13:50:19](https://news.ycombinator.com/item?id=40475076) - [Japan's Clothes-Drying Bathrooms](https://www.bloomberg.com/news/articles/2024-05-22/laundry-lessons-from-japanese-bathroom-technology)
+* [2024-05-25, 13:50:19](https://news.ycombinator.com/item?id=40475076) - [Japan's clothes-drying bathrooms](https://www.bloomberg.com/news/articles/2024-05-22/laundry-lessons-from-japanese-bathroom-technology)
 * [2024-05-25, 12:58:20](https://news.ycombinator.com/item?id=40474759) - [The Cognitive Design of Tools of Thought (2014) [pdf]](http://gjgreenberg.bol.ucla.edu/docs/rpp/04_tversky.pdf)
 * [2024-05-25, 12:50:00](https://news.ycombinator.com/item?id=40474712) - [Abusing Go's Infrastructure](https://reverse.put.as/2024/05/24/abusing-go-infrastructure/)
 * [2024-05-25, 11:42:23](https://news.ycombinator.com/item?id=40474294) - [Lessons from the Trenches on Reproducible Evaluation of Language Models](https://arxiv.org/abs/2405.14782)
@@ -16,11 +17,9 @@
 * [2024-05-24, 19:19:31](https://news.ycombinator.com/item?id=40469592) - [Show HN: Spot – Simple, cross-platform, reactive desktop GUI toolkit for Go](https://github.com/roblillack/spot)
 * [2024-05-24, 18:15:58](https://news.ycombinator.com/item?id=40468933) - [Mp3tag – Universal Tag Editor](https://www.mp3tag.de/en/)
 * [2024-05-24, 17:39:39](https://news.ycombinator.com/item?id=40468518) - [Financial Statement Analysis with Large Language Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835311)
-* [2024-05-24, 16:16:37](https://news.ycombinator.com/item?id=40467625) - [ICQ will stop working from June 26](https://icq.com/desktop/en#windows)
 * [2024-05-24, 15:35:04](https://news.ycombinator.com/item?id=40467232) - [Samsung WB850F Firmware Reverse Engineering](https://op-co.de/blog/posts/samsung_wb850f_firmware/)
 * [2024-05-24, 14:50:07](https://news.ycombinator.com/item?id=40466826) - [Thermodynamic Natural Gradient Descent](https://arxiv.org/abs/2405.13817)
 * [2024-05-24, 14:48:08](https://news.ycombinator.com/item?id=40466810) - [Sharing details on a recent incident impacting one of our customers](https://cloud.google.com/blog/products/infrastructure/details-of-google-cloud-gcve-incident/)
-* [2024-05-24, 13:50:39](https://news.ycombinator.com/item?id=40466255) - [Peeking underground with giant flying antennas](https://hackaday.com/2024/05/21/peeking-underground-with-giant-flying-antennas/)
 * [2024-05-24, 11:49:52](https://news.ycombinator.com/item?id=40465182) - [Agenda: a personal information manager (1990) [pdf]](https://dl.acm.org/doi/pdf/10.1145/79204.79212)
 * [2024-05-24, 10:39:32](https://news.ycombinator.com/item?id=40464776) - [Reverse engineering ESP32 Wi-Fi driver: the road ahead](https://esp32-open-mac.be/posts/0005-the-road-ahead/)
 * [2024-05-24, 09:40:24](https://news.ycombinator.com/item?id=40464496) - [Converting a Cisco 7609 into a beer tap (2021)](https://blog.jonasbengtson.se/cisco-7609-beer-tap)
@@ -30,6 +29,7 @@
 * [2024-05-23, 23:53:48](https://news.ycombinator.com/item?id=40461325) - [Single atom defect in 2D material can hold quantum information at room temp](https://phys.org/news/2024-05-scientists-atom-defect-2d-material.amp)
 * [2024-05-23, 16:20:23](https://news.ycombinator.com/item?id=40456621) - [So good, it works on barbed wire (2001)](https://www.sigcon.com/Pubs/edn/SoGoodBarbedWire.htm)
 * [2024-05-23, 15:50:25](https://news.ycombinator.com/item?id=40456236) - [Show HN: We open sourced our entire text-to-SQL product](https://github.com/Dataherald/dataherald)
+* [2024-05-23, 01:28:28](https://news.ycombinator.com/item?id=40449299) - [Show HN: LogsQL – opinionated query language for logs](https://docs.victoriametrics.com/victorialogs/logsql/)
 
 ## [Archives](archives/index.md)
 
