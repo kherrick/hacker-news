@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-05-25](index.md)
 
 * [2024-05-25, 11:14:26](https://news.ycombinator.com/item?id=40474202) - [Google just updated its algorithm. The Internet will never be the same](https://www.bbc.com/future/article/20240524-how-googles-new-algorithm-will-shape-your-internet)
+* [2024-05-25, 11:01:20](https://news.ycombinator.com/item?id=40474180) - [It's cheaper to buy ($33) than rent ($44/year) IPv4s from AWS](https://twitter.com/billfranklinuk/status/1794268011383144518)
+* [2024-05-25, 10:56:41](https://news.ycombinator.com/item?id=40474165) - [Lapis: A Web Framework for Lua](https://leafo.net/lapis/)
 * [2024-05-25, 08:11:11](https://news.ycombinator.com/item?id=40473454) - [Male birth control breakthrough safely switches off fit sperm for a while](https://newatlas.com/medical/male-birth-control-stk333/)
 * [2024-05-25, 07:09:47](https://news.ycombinator.com/item?id=40473198) - [Mistral Fine-Tune](https://github.com/mistralai/mistral-finetune)
 * [2024-05-25, 06:51:13](https://news.ycombinator.com/item?id=40473130) - [Signal's Meredith Whittaker on the Telegram security clash](https://techcrunch.com/2024/05/24/signals-meredith-whittaker-on-the-telegram-security-clash-and-the-edge-lords-at-openai/)
