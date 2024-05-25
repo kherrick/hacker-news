@@ -221,16 +221,6 @@
   ],
   [
     [
-      "2024-05-24, 07:00:11",
-      "https://news.ycombinator.com/item?id=40463626"
-    ],
-    [
-      "Recursion, continuations and trampolines (2017)",
-      "https://eli.thegreenplace.net/2017/on-recursion-continuations-and-trampolines/"
-    ]
-  ],
-  [
-    [
       "2024-05-24, 06:28:27",
       "https://news.ycombinator.com/item?id=40463426"
     ],
@@ -257,6 +247,16 @@
     [
       "Single atom defect in 2D material can hold quantum information at room temp",
       "https://phys.org/news/2024-05-scientists-atom-defect-2d-material.amp"
+    ]
+  ],
+  [
+    [
+      "2024-05-23, 20:18:52",
+      "https://news.ycombinator.com/item?id=40459404"
+    ],
+    [
+      "Show HN: I built obsidian plugin to create notes from BibTeX",
+      "https://github.com/akopdev/obsidian-bibtex-manager"
     ]
   ],
   [
