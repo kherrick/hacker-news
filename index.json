@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-05-25, 06:50:54",
-      "https://news.ycombinator.com/item?id=40473128"
-    ],
-    [
-      "EU Approves AI Act",
-      "https://vcsi.org/eu-ai-act-comprehensive-regulation/"
-    ]
-  ],
-  [
-    [
       "2024-05-25, 05:36:58",
       "https://news.ycombinator.com/item?id=40472856"
     ],
@@ -55,7 +45,7 @@
       "https://news.ycombinator.com/item?id=40472539"
     ],
     [
-      "Signalfd Is Useless",
+      "Signalfd Is Useless (2015)",
       "https://ldpreload.com/blog/signalfd-is-useless"
     ]
   ],
@@ -87,16 +77,6 @@
     [
       "Email.ml – Minimalist Temporary Email",
       "https://email.ml/"
-    ]
-  ],
-  [
-    [
-      "2024-05-25, 00:11:28",
-      "https://news.ycombinator.com/item?id=40471596"
-    ],
-    [
-      "Columbus Predicted a 1504 Eclipse and Avoided Starvation in Jamaica",
-      "https://www.bookmarked.club/lessons/thinking-outside-the-box"
     ]
   ],
   [
@@ -177,6 +157,16 @@
     [
       "Thermodynamic Natural Gradient Descent",
       "https://arxiv.org/abs/2405.13817"
+    ]
+  ],
+  [
+    [
+      "2024-05-24, 14:48:08",
+      "https://news.ycombinator.com/item?id=40466810"
+    ],
+    [
+      "Sharing details on a recent incident impacting one of our customers",
+      "https://cloud.google.com/blog/products/infrastructure/details-of-google-cloud-gcve-incident/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Coke can planimeter",
       "http://durealeyes.com/planimeter.html"
+    ]
+  ],
+  [
+    [
+      "2024-05-24, 05:49:27",
+      "https://news.ycombinator.com/item?id=40463209"
+    ],
+    [
+      "LuaRT: Lua programming environment for console, desktop applications for Windows",
+      "https://luart.org/index.html"
     ]
   ],
   [
