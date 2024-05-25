@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-25](index.md)
 
+* [2024-05-25, 08:11:11](https://news.ycombinator.com/item?id=40473454) - [Male birth control breakthrough safely switches off fit sperm for a while](https://newatlas.com/medical/male-birth-control-stk333/)
 * [2024-05-25, 07:09:47](https://news.ycombinator.com/item?id=40473198) - [Mistral Fine-Tune](https://github.com/mistralai/mistral-finetune)
 * [2024-05-25, 06:51:13](https://news.ycombinator.com/item?id=40473130) - [Signal's Meredith Whittaker on the Telegram security clash](https://techcrunch.com/2024/05/24/signals-meredith-whittaker-on-the-telegram-security-clash-and-the-edge-lords-at-openai/)
 * [2024-05-25, 06:50:54](https://news.ycombinator.com/item?id=40473128) - [EU Approves AI Act](https://vcsi.org/eu-ai-act-comprehensive-regulation/)
