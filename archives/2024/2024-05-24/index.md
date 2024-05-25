@@ -78,6 +78,7 @@
 * [2024-05-24, 09:35:24](https://news.ycombinator.com/item?id=40464469) - [.NET for NES Game Console on 6502 Microprocessors](https://github.com/jonathanpeppers/dotnes)
 * [2024-05-24, 08:56:22](https://news.ycombinator.com/item?id=40464303) - [Lewis Carroll – computing the day of the week for any given date (1887)](https://www.futilitycloset.com/2024/05/24/day-tripper/)
 * [2024-05-24, 08:19:13](https://news.ycombinator.com/item?id=40464104) - [Show HN: ServerlessMaps – Host your own maps in the cloud](https://github.com/serverlessmaps/serverlessmaps)
+* [2024-05-24, 07:50:45](https://news.ycombinator.com/item?id=40463937) - [Search the Web with a Phone Call Using This New Arc Search Feature](https://www.macrumors.com/2024/05/23/arc-search-call-feature/)
 * [2024-05-24, 07:44:50](https://news.ycombinator.com/item?id=40463898) - [Kobo Clara Colour e-reader review](https://www.engadget.com/kobo-clara-colour-review-judging-books-by-their-covers-is-now-more-fun-130013382.html)
 * [2024-05-24, 07:43:05](https://news.ycombinator.com/item?id=40463887) - [LZW and GIF explained](https://www.eecis.udel.edu/~amer/CISC651/lzw.and.gif.explained.html)
 * [2024-05-24, 07:23:07](https://news.ycombinator.com/item?id=40463764) - [2D Rigid Body Collision Resolution](https://www.sassnow.ski/rigid-body-collisions/1)
