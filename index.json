@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-05-25, 19:11:34",
-      "https://news.ycombinator.com/item?id=40477165"
-    ],
-    [
-      "Bird Flu Virus Found in Beef Tissue",
-      "https://www.nytimes.com/2024/05/24/health/bird-flu-beef.html"
-    ]
-  ],
-  [
-    [
       "2024-05-25, 17:44:15",
       "https://news.ycombinator.com/item?id=40476572"
     ],
@@ -127,6 +117,16 @@
     [
       "A simple core.async job system in Clojure",
       "https://blog.janetacarr.com/creating-a-dead-simple-asynchronous-job-system-in-clojure/"
+    ]
+  ],
+  [
+    [
+      "2024-05-24, 20:18:23",
+      "https://news.ycombinator.com/item?id=40470134"
+    ],
+    [
+      "Guys what is wrong with ACATS",
+      "https://www.bitsaboutmoney.com/archive/how-acats-transfers-work/"
     ]
   ],
   [
