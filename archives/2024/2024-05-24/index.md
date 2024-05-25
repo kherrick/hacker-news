@@ -70,6 +70,7 @@
 * [2024-05-24, 11:02:30](https://news.ycombinator.com/item?id=40464887) - [Anger Does a Lot More Damage to Your Body Than You Realize](https://www.wsj.com/health/wellness/anger-health-effects-risks-heart-brain-mental-f4105ed7)
 * [2024-05-24, 10:10:04](https://news.ycombinator.com/item?id=40464618) - [Kabosu, the dog behind the 'doge' internet meme, has died](https://www.nbcnews.com/news/world/kabosu-dog-doge-internet-meme-died-rcna4472)
 * [2024-05-24, 10:01:43](https://news.ycombinator.com/item?id=40464583) - [FAA reveals flaw in Boeing 777 that could result in fuel tank exploding](https://nypost.com/2024/05/22/us-news/boeing-777-plane-fuel-tanks-could-explode-due-to-electrical-flaw/)
+* [2024-05-24, 10:01:00](https://news.ycombinator.com/item?id=40464579) - [Test Functions for Global Optimization](https://www.sfu.ca/~ssurjano/optimization.html)
 * [2024-05-24, 09:54:59](https://news.ycombinator.com/item?id=40464558) - [Voxel Displacement Renderer – Modernizing the Retro 3D Aesthetic](https://blog.danielschroeder.me/2024/05/voxel-displacement-modernizing-retro-3d/)
 * [2024-05-24, 09:48:37](https://news.ycombinator.com/item?id=40464537) - [Common Lisp Is Not a Single Language, It Is Lots](https://aartaka.me/cl-is-lots)
 * [2024-05-24, 09:40:04](https://news.ycombinator.com/item?id=40464495) - [Kabosu, the Dog Behind the 'Doge' Meme, Has Died](https://www.ign.com/articles/kabosu-the-dog-behind-the-doge-meme-has-died)
