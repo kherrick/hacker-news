@@ -2,6 +2,7 @@
 
 * [2024-05-25, 17:20:30](https://news.ycombinator.com/item?id=40476410) - [`tmux` is worse is better](https://hiandrewquinn.github.io/til-site/posts/tmux-is-worse-is-better/)
 * [2024-05-25, 17:00:13](https://news.ycombinator.com/item?id=40476276) - [Lago: Open-Source Usage Based Billing Is Hiring a Founding Product Marketer](https://www.ycombinator.com/companies/lago/jobs/8aqFA2l-product-marketer)
+* [2024-05-25, 16:42:03](https://news.ycombinator.com/item?id=40476134) - [The road to hell is paved with good intentions and C++ modules](https://nibblestew.blogspot.com/2023/10/the-road-to-hell-is-paved-with-good.html)
 * [2024-05-25, 15:24:27](https://news.ycombinator.com/item?id=40475578) - [Google scrambles to manually remove weird AI answers in search](https://www.theverge.com/2024/5/24/24164119/google-ai-overview-mistakes-search-race-openai)
 * [2024-05-25, 14:10:36](https://news.ycombinator.com/item?id=40475178) - [The hikikomori in Asia: A life within four walls](https://www.cnn.com/interactive/2024/05/world/hikikomori-asia-personal-stories-wellness/)
 * [2024-05-25, 14:01:22](https://news.ycombinator.com/item?id=40475125) - [Goodix Fingerprint Drivers for Linux (Or at Least Debian)](https://github.com/tcsenpai/goodix-debian-linux-drivers-fingerprint-by-dell)
@@ -13,7 +14,6 @@
 * [2024-05-25, 03:57:01](https://news.ycombinator.com/item?id=40472546) - [Don Knuth's MIP, 64 years later](https://nathanbrixius.wordpress.com/2024/04/13/don-knuths-mip-64-years-later/)
 * [2024-05-25, 03:13:08](https://news.ycombinator.com/item?id=40472374) - [Optimizing your talking points (2018)](https://rachelbythebay.com/w/2018/04/28/meta/)
 * [2024-05-25, 02:19:23](https://news.ycombinator.com/item?id=40472161) - [A simple core.async job system in Clojure](https://blog.janetacarr.com/creating-a-dead-simple-asynchronous-job-system-in-clojure/)
-* [2024-05-24, 20:18:23](https://news.ycombinator.com/item?id=40470134) - [Guys what is wrong with ACATS](https://www.bitsaboutmoney.com/archive/how-acats-transfers-work/)
 * [2024-05-24, 19:19:31](https://news.ycombinator.com/item?id=40469592) - [Show HN: Spot – Simple, cross-platform, reactive desktop GUI toolkit for Go](https://github.com/roblillack/spot)
 * [2024-05-24, 18:15:58](https://news.ycombinator.com/item?id=40468933) - [Mp3tag – Universal Tag Editor](https://www.mp3tag.de/en/)
 * [2024-05-24, 17:39:39](https://news.ycombinator.com/item?id=40468518) - [Financial Statement Analysis with Large Language Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4835311)
