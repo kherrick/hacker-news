@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-25, 22:16:04",
+      "https://news.ycombinator.com/item?id=40478250"
+    ],
+    [
+      "Tesla Owners Get Only 64% of EPA Range After Just Three Years: Study",
+      "https://insideevs.com/news/720899/tesla-64-epa-max-range/"
+    ]
+  ],
+  [
+    [
       "2024-05-25, 21:01:30",
       "https://news.ycombinator.com/item?id=40477840"
     ],
@@ -131,16 +141,6 @@
   ],
   [
     [
-      "2024-05-25, 11:42:23",
-      "https://news.ycombinator.com/item?id=40474294"
-    ],
-    [
-      "Lessons from the trenches on reproducible evaluation of language models",
-      "https://arxiv.org/abs/2405.14782"
-    ]
-  ],
-  [
-    [
       "2024-05-25, 02:19:23",
       "https://news.ycombinator.com/item?id=40472161"
     ],
@@ -187,16 +187,6 @@
     [
       "Breakdown (2018)",
       "https://www.futilitycloset.com/2018/02/02/breakdown-2/"
-    ]
-  ],
-  [
-    [
-      "2024-05-24, 10:39:32",
-      "https://news.ycombinator.com/item?id=40464776"
-    ],
-    [
-      "Reverse engineering ESP32 Wi-Fi driver: the road ahead",
-      "https://esp32-open-mac.be/posts/0005-the-road-ahead/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Show HN: LogsQL – opinionated query language for logs",
       "https://docs.victoriametrics.com/victorialogs/logsql/"
+    ]
+  ],
+  [
+    [
+      "2024-05-22, 21:34:19",
+      "https://news.ycombinator.com/item?id=40446887"
+    ],
+    [
+      "My dad and I replaced a 100MB HDD with a 1GB HDD for $100. When did this happen?",
+      "https://news.ycombinator.com/item?id=40446887"
     ]
   ]
 ]
