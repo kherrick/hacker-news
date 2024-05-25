@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-05-25, 16:42:03",
+      "https://news.ycombinator.com/item?id=40476134"
+    ],
+    [
+      "The road to hell is paved with good intentions and C++ modules",
+      "https://nibblestew.blogspot.com/2023/10/the-road-to-hell-is-paved-with-good.html"
+    ]
+  ],
+  [
+    [
       "2024-05-25, 15:24:27",
       "https://news.ycombinator.com/item?id=40475578"
     ],
@@ -127,16 +137,6 @@
     [
       "A simple core.async job system in Clojure",
       "https://blog.janetacarr.com/creating-a-dead-simple-asynchronous-job-system-in-clojure/"
-    ]
-  ],
-  [
-    [
-      "2024-05-24, 20:18:23",
-      "https://news.ycombinator.com/item?id=40470134"
-    ],
-    [
-      "Guys what is wrong with ACATS",
-      "https://www.bitsaboutmoney.com/archive/how-acats-transfers-work/"
     ]
   ],
   [
