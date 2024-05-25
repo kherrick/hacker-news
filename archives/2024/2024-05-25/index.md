@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-25](index.md)
 
+* [2024-05-25, 21:24:09](https://news.ycombinator.com/item?id=40477972) - [Kubernetes X account suspended for ToS violations](https://x.com/kubernetesio)
 * [2024-05-25, 21:01:30](https://news.ycombinator.com/item?id=40477840) - [Fathom AI Notetaker (YC W21) Is Hiring Full-Stack Engineers (Remote)](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-full-stack-engineer-remote)
 * [2024-05-25, 20:13:34](https://news.ycombinator.com/item?id=40477500) - [Extend your battery life with scx_rustland](http://arighi.blogspot.com/2024/05/extend-your-battery-life-with.html)
 * [2024-05-25, 19:48:53](https://news.ycombinator.com/item?id=40477362) - [Archaeologists Found an 'Anomaly' Near the Pyramids – May Reveal Ancient Portal](https://www.popularmechanics.com/science/archaeology/a60815504/pyramids-anomaly/)

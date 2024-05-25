@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-25, 21:24:09](https://news.ycombinator.com/item?id=40477972) - [Kubernetes X account suspended for ToS violations](https://x.com/kubernetesio)
 * [2024-05-25, 21:01:30](https://news.ycombinator.com/item?id=40477840) - [Fathom AI Notetaker (YC W21) Is Hiring Full-Stack Engineers (Remote)](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-full-stack-engineer-remote)
 * [2024-05-25, 20:13:34](https://news.ycombinator.com/item?id=40477500) - [Extend your battery life with scx_rustland](http://arighi.blogspot.com/2024/05/extend-your-battery-life-with.html)
 * [2024-05-25, 19:42:43](https://news.ycombinator.com/item?id=40477325) - [The Fall of the House of Etsy](https://spy.com/articles/lifestyle/gifts/etsy-downfall-1203000173/)
@@ -11,7 +12,6 @@
 * [2024-05-25, 12:58:20](https://news.ycombinator.com/item?id=40474759) - [The Cognitive Design of Tools of Thought (2014) [pdf]](http://gjgreenberg.bol.ucla.edu/docs/rpp/04_tversky.pdf)
 * [2024-05-25, 12:50:00](https://news.ycombinator.com/item?id=40474712) - [Abusing Go's Infrastructure](https://reverse.put.as/2024/05/24/abusing-go-infrastructure/)
 * [2024-05-25, 11:42:23](https://news.ycombinator.com/item?id=40474294) - [Lessons from the trenches on reproducible evaluation of language models](https://arxiv.org/abs/2405.14782)
-* [2024-05-25, 03:13:08](https://news.ycombinator.com/item?id=40472374) - [Optimizing your talking points (2018)](https://rachelbythebay.com/w/2018/04/28/meta/)
 * [2024-05-25, 02:19:23](https://news.ycombinator.com/item?id=40472161) - [A simple core.async job system in Clojure](https://blog.janetacarr.com/creating-a-dead-simple-asynchronous-job-system-in-clojure/)
 * [2024-05-24, 19:19:31](https://news.ycombinator.com/item?id=40469592) - [Show HN: Spot – Simple, cross-platform, reactive desktop GUI toolkit for Go](https://github.com/roblillack/spot)
 * [2024-05-24, 18:15:58](https://news.ycombinator.com/item?id=40468933) - [Mp3tag – Universal Tag Editor](https://www.mp3tag.de/en/)
