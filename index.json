@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-05-25, 19:11:34",
+      "https://news.ycombinator.com/item?id=40477165"
+    ],
+    [
+      "Bird Flu Virus Found in Beef Tissue",
+      "https://www.nytimes.com/2024/05/24/health/bird-flu-beef.html"
+    ]
+  ],
+  [
+    [
+      "2024-05-25, 17:44:15",
+      "https://news.ycombinator.com/item?id=40476572"
+    ],
+    [
+      "Where Are the Builders?",
+      "https://near.blog/where-are-the-builders/"
+    ]
+  ],
+  [
+    [
       "2024-05-25, 17:20:30",
       "https://news.ycombinator.com/item?id=40476410"
     ],
@@ -27,16 +47,6 @@
     [
       "The road to hell is paved with good intentions and C++ modules",
       "https://nibblestew.blogspot.com/2023/10/the-road-to-hell-is-paved-with-good.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-25, 15:24:27",
-      "https://news.ycombinator.com/item?id=40475578"
-    ],
-    [
-      "Google scrambles to manually remove weird AI answers in search",
-      "https://www.theverge.com/2024/5/24/24164119/google-ai-overview-mistakes-search-race-openai"
     ]
   ],
   [
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2024-05-24, 20:18:23",
-      "https://news.ycombinator.com/item?id=40470134"
-    ],
-    [
-      "Guys what is wrong with ACATS",
-      "https://www.bitsaboutmoney.com/archive/how-acats-transfers-work/"
-    ]
-  ],
-  [
-    [
       "2024-05-24, 19:19:31",
       "https://news.ycombinator.com/item?id=40469592"
     ],
@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2024-05-24, 13:50:39",
+      "https://news.ycombinator.com/item?id=40466255"
+    ],
+    [
+      "Peeking underground with giant flying antennas",
+      "https://hackaday.com/2024/05/21/peeking-underground-with-giant-flying-antennas/"
+    ]
+  ],
+  [
+    [
       "2024-05-24, 11:49:52",
       "https://news.ycombinator.com/item?id=40465182"
     ],
@@ -207,16 +217,6 @@
     [
       "Converting a Cisco 7609 into a beer tap (2021)",
       "https://blog.jonasbengtson.se/cisco-7609-beer-tap"
-    ]
-  ],
-  [
-    [
-      "2024-05-24, 07:00:11",
-      "https://news.ycombinator.com/item?id=40463626"
-    ],
-    [
-      "Recursion, continuations and trampolines (2017)",
-      "https://eli.thegreenplace.net/2017/on-recursion-continuations-and-trampolines/"
     ]
   ],
   [
