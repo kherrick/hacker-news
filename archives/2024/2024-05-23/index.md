@@ -67,6 +67,7 @@
 * [2024-05-23, 14:07:03](https://news.ycombinator.com/item?id=40454933) - [Ask HN: Devs/data scis who pivoted to a new career in 30s/40s, what do you do?](https://news.ycombinator.com/item?id=40454933)
 * [2024-05-23, 13:55:19](https://news.ycombinator.com/item?id=40454769) - [AI Agents: too early, too expensive, too unreliable (for now)](https://www.kadoa.com/blog/ai-agents-hype-vs-reality)
 * [2024-05-23, 13:34:50](https://news.ycombinator.com/item?id=40454528) - [Scaling Monosemanticity: Extracting Interpretable Features from Claude 3 Sonnet](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html)
+* [2024-05-23, 13:30:56](https://news.ycombinator.com/item?id=40454475) - [Animating Ptolemy's Equant with Python, SVG, and CSS](https://rhodesmill.org/brandon/2019/animating-the-equant/)
 * [2024-05-23, 13:22:47](https://news.ycombinator.com/item?id=40454383) - [First pictures from Euclid satellite reveal billions of orphan stars](https://www.nottingham.ac.uk/news/first-pictures-from-euclid-satellite-reveal-billions-of-orphan-stars)
 * [2024-05-23, 13:14:59](https://news.ycombinator.com/item?id=40454301) - [Red Lobster was killed by private equity, not Endless Shrimp](https://pluralistic.net/2024/05/23/spineless/#invertebrates)
 * [2024-05-23, 13:13:50](https://news.ycombinator.com/item?id=40454283) - [Support for Windows 10 will end October 2025](https://www.microsoft.com/en-us/windows/end-of-support)
