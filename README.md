@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-25, 11:25:52](https://news.ycombinator.com/item?id=40474236) - [Publishing AI Slop Is a Choice](https://daringfireball.net/linked/2024/05/24/publishing-ai-slop-is-a-choice)
 * [2024-05-25, 11:14:26](https://news.ycombinator.com/item?id=40474202) - [Google just updated its algorithm. The Internet will never be the same](https://www.bbc.com/future/article/20240524-how-googles-new-algorithm-will-shape-your-internet)
 * [2024-05-25, 11:01:20](https://news.ycombinator.com/item?id=40474180) - [It's cheaper to buy ($33) than rent ($44/year) IPv4s from AWS](https://twitter.com/billfranklinuk/status/1794268011383144518)
 * [2024-05-25, 10:56:41](https://news.ycombinator.com/item?id=40474165) - [Lapis: A Web Framework for Lua](https://leafo.net/lapis/)
@@ -10,7 +11,6 @@
 * [2024-05-25, 02:19:23](https://news.ycombinator.com/item?id=40472161) - [A simple core.async job system in Clojure](https://blog.janetacarr.com/creating-a-dead-simple-asynchronous-job-system-in-clojure/)
 * [2024-05-25, 00:52:02](https://news.ycombinator.com/item?id=40471798) - [Email.ml – Minimalist Temporary Email](https://email.ml/)
 * [2024-05-24, 21:47:33](https://news.ycombinator.com/item?id=40470750) - [Essays on programming I think about a lot](https://www.benkuhn.net/progessays/)
-* [2024-05-24, 21:00:54](https://news.ycombinator.com/item?id=40470454) - [Freshpaint (YC S19) is hiring software engineers to protect patient privacy](https://jobs.ashbyhq.com/freshpaint/bfe56523-bff4-4ca3-936b-0ba15fb4e572?utm_source=hn)
 * [2024-05-24, 20:18:23](https://news.ycombinator.com/item?id=40470134) - [Guys what is wrong with ACATS](https://www.bitsaboutmoney.com/archive/how-acats-transfers-work/)
 * [2024-05-24, 19:19:31](https://news.ycombinator.com/item?id=40469592) - [Show HN: Spot – Simple, cross-platform, reactive desktop GUI toolkit for Go](https://github.com/roblillack/spot)
 * [2024-05-24, 18:15:58](https://news.ycombinator.com/item?id=40468933) - [Mp3tag – Universal Tag Editor](https://www.mp3tag.de/en/)
@@ -26,9 +26,9 @@
 * [2024-05-24, 09:46:23](https://news.ycombinator.com/item?id=40464529) - [Willow Sideloading Protocol](https://willowprotocol.org/specs/sideloading)
 * [2024-05-24, 09:40:24](https://news.ycombinator.com/item?id=40464496) - [Converting a Cisco 7609 into a beer tap (2021)](https://blog.jonasbengtson.se/cisco-7609-beer-tap)
 * [2024-05-24, 09:35:24](https://news.ycombinator.com/item?id=40464469) - [.NET for NES Game Console on 6502 Microprocessors](https://github.com/jonathanpeppers/dotnes)
-* [2024-05-24, 07:43:05](https://news.ycombinator.com/item?id=40463887) - [LZW and GIF explained](https://www.eecis.udel.edu/~amer/CISC651/lzw.and.gif.explained.html)
 * [2024-05-24, 07:00:11](https://news.ycombinator.com/item?id=40463626) - [Recursion, continuations and trampolines (2017)](https://eli.thegreenplace.net/2017/on-recursion-continuations-and-trampolines/)
 * [2024-05-24, 05:49:27](https://news.ycombinator.com/item?id=40463209) - [LuaRT: Lua programming environment for console, desktop applications for Windows](https://luart.org/index.html)
+* [2024-05-24, 05:13:33](https://news.ycombinator.com/item?id=40463011) - [Blue field entoptic phenomenon](https://en.wikipedia.org/wiki/Blue_field_entoptic_phenomenon)
 * [2024-05-23, 15:50:25](https://news.ycombinator.com/item?id=40456236) - [Show HN: We open sourced our entire text-to-SQL product](https://github.com/Dataherald/dataherald)
 
 ## [Archives](archives/index.md)
