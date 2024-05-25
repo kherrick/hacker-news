@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=40472226"
     ],
     [
-      "You are lucky Full moon tonight",
+      "You are lucky, full moon tonight",
       "https://twitter.com/cupiabart/status/1793930355617259811"
     ]
   ],
@@ -17,16 +17,6 @@
     [
       "JetBrains releases RustRover IDE for Rust development",
       "https://www.infoworld.com/article/3715317/jetbrains-releases-rustrover-ide-for-rust-development.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-25, 01:40:54",
-      "https://news.ycombinator.com/item?id=40472022"
-    ],
-    [
-      "Unleashed Chat",
-      "https://unleashed.chat/"
     ]
   ],
   [
@@ -75,7 +65,7 @@
       "https://news.ycombinator.com/item?id=40468933"
     ],
     [
-      "Mp3tag – The Universal Tag Editor",
+      "Mp3tag – Universal Tag Editor",
       "https://www.mp3tag.de/en/"
     ]
   ],
@@ -97,6 +87,16 @@
     [
       "ICQ will stop working from June 26",
       "https://icq.com/desktop/en#windows"
+    ]
+  ],
+  [
+    [
+      "2024-05-24, 15:41:22",
+      "https://news.ycombinator.com/item?id=40467297"
+    ],
+    [
+      "Writing a Unix clone in about a month",
+      "https://drewdevault.com/2024/05/24/2024-05-24-Bunnix.html"
     ]
   ],
   [
@@ -157,6 +157,16 @@
     [
       "Agenda: a personal information manager (1990) [pdf]",
       "https://dl.acm.org/doi/pdf/10.1145/79204.79212"
+    ]
+  ],
+  [
+    [
+      "2024-05-24, 11:25:32",
+      "https://news.ycombinator.com/item?id=40465014"
+    ],
+    [
+      "Addition with Flamethrowers, or Why Game Devs Don't Unit Test",
+      "https://www.pixelatedplaygrounds.com/sidequests/addition-with-flamethrowers-or-why-game-devs-dont-unit-test"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2024-05-24, 07:50:45",
-      "https://news.ycombinator.com/item?id=40463937"
-    ],
-    [
-      "Search the Web with a Phone Call Using This New Arc Search Feature",
-      "https://www.macrumors.com/2024/05/23/arc-search-call-feature/"
-    ]
-  ],
-  [
-    [
       "2024-05-24, 07:43:05",
       "https://news.ycombinator.com/item?id=40463887"
     ],
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=40463626"
     ],
     [
-      "Recursion, Continuations and Trampolines",
+      "Recursion, continuations and trampolines (2017)",
       "https://eli.thegreenplace.net/2017/on-recursion-continuations-and-trampolines/"
     ]
   ],
