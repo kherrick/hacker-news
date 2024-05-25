@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-25, 08:11:11](https://news.ycombinator.com/item?id=40473454) - [Male birth control breakthrough safely switches off fit sperm for a while](https://newatlas.com/medical/male-birth-control-stk333/)
 * [2024-05-25, 07:09:47](https://news.ycombinator.com/item?id=40473198) - [Mistral Fine-Tune](https://github.com/mistralai/mistral-finetune)
 * [2024-05-25, 03:57:01](https://news.ycombinator.com/item?id=40472546) - [Don Knuth's MIP, 64 years later](https://nathanbrixius.wordpress.com/2024/04/13/don-knuths-mip-64-years-later/)
 * [2024-05-25, 03:55:15](https://news.ycombinator.com/item?id=40472539) - [Signalfd Is Useless (2015)](https://ldpreload.com/blog/signalfd-is-useless)
@@ -18,9 +17,10 @@
 * [2024-05-24, 14:48:08](https://news.ycombinator.com/item?id=40466810) - [Sharing details on a recent incident impacting one of our customers](https://cloud.google.com/blog/products/infrastructure/details-of-google-cloud-gcve-incident/)
 * [2024-05-24, 13:50:39](https://news.ycombinator.com/item?id=40466255) - [Peeking underground with giant flying antennas](https://hackaday.com/2024/05/21/peeking-underground-with-giant-flying-antennas/)
 * [2024-05-24, 11:49:52](https://news.ycombinator.com/item?id=40465182) - [Agenda: a personal information manager (1990) [pdf]](https://dl.acm.org/doi/pdf/10.1145/79204.79212)
+* [2024-05-24, 11:22:21](https://news.ycombinator.com/item?id=40464994) - [Imperceptible sensors can be printed directly on human skin](https://www.cam.ac.uk/research/news/imperceptible-sensors-made-from-electronic-spider-silk-can-be-printed-directly-on-human-skin)
 * [2024-05-24, 11:16:51](https://news.ycombinator.com/item?id=40464965) - [Slow Bros crafted a video game universe by hand](https://wepresent.wetransfer.com/stories/slow-bros-harold-halibut-game)
 * [2024-05-24, 10:39:32](https://news.ycombinator.com/item?id=40464776) - [Reverse engineering ESP32 Wi-Fi driver: the road ahead](https://esp32-open-mac.be/posts/0005-the-road-ahead/)
-* [2024-05-24, 10:01:00](https://news.ycombinator.com/item?id=40464579) - [Test Functions for Global Optimization](https://www.sfu.ca/~ssurjano/optimization.html)
+* [2024-05-24, 09:54:59](https://news.ycombinator.com/item?id=40464558) - [Voxel Displacement Renderer – Modernizing the Retro 3D Aesthetic](https://blog.danielschroeder.me/2024/05/voxel-displacement-modernizing-retro-3d/)
 * [2024-05-24, 09:40:24](https://news.ycombinator.com/item?id=40464496) - [Converting a Cisco 7609 into a beer tap (2021)](https://blog.jonasbengtson.se/cisco-7609-beer-tap)
 * [2024-05-24, 09:35:24](https://news.ycombinator.com/item?id=40464469) - [.NET for NES Game Console on 6502 Microprocessors](https://github.com/jonathanpeppers/dotnes)
 * [2024-05-24, 07:43:05](https://news.ycombinator.com/item?id=40463887) - [LZW and GIF explained](https://www.eecis.udel.edu/~amer/CISC651/lzw.and.gif.explained.html)
