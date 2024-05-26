@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-26, 09:40:41](https://news.ycombinator.com/item?id=40480832) - [Show HN: I made a online free tool to enhance and auto-crop your screenshots](https://socialscreenshots.com)
 * [2024-05-26, 08:47:24](https://news.ycombinator.com/item?id=40480625) - [The accidental tyranny of user interfaces](https://uxdesign.cc/the-accidental-tyranny-of-user-interfaces-eef15dc555a0?gi=49947f93d38a)
 * [2024-05-26, 07:48:27](https://news.ycombinator.com/item?id=40480373) - [Call to Action: Fediverse Media Server](https://shlee.fedipress.au/2024/call-to-action-fediverse-media-server/)
 * [2024-05-26, 07:30:44](https://news.ycombinator.com/item?id=40480323) - [Turn Your iPhone into a Dumb Phone](https://dumbph.com/turn-iphone-into-dumb-phone)
@@ -14,7 +15,6 @@
 * [2024-05-25, 23:01:29](https://news.ycombinator.com/item?id=40478470) - [Simplicity – Google SRE Handbook (2017)](https://sre.google/sre-book/simplicity/)
 * [2024-05-25, 21:01:30](https://news.ycombinator.com/item?id=40477840) - [Fathom AI Notetaker (YC W21) Is Hiring Full-Stack Engineers (Remote)](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-full-stack-engineer-remote)
 * [2024-05-25, 20:35:59](https://news.ycombinator.com/item?id=40477653) - [Majorana, the search for the most elusive neutrino of all](https://newscenter.lbl.gov/2012/05/16/majorana-demonstrator/)
-* [2024-05-25, 20:28:38](https://news.ycombinator.com/item?id=40477604) - [Taming floating-point sums](https://orlp.net/blog/taming-float-sums/)
 * [2024-05-25, 19:11:40](https://news.ycombinator.com/item?id=40477166) - [Rootless Docker in a multi-user environment](https://www.cmtops.dev/posts/rootless-docker-in-multiuser-environment/)
 * [2024-05-25, 14:44:58](https://news.ycombinator.com/item?id=40475355) - [Why is x & -x equal to the largest power of 2 that divides x?](https://arunmani.in/articles/highest-two-power-to-divide-a-number/)
 * [2024-05-25, 12:58:20](https://news.ycombinator.com/item?id=40474759) - [The Cognitive Design of Tools of Thought (2014) [pdf]](http://gjgreenberg.bol.ucla.edu/docs/rpp/04_tversky.pdf)
