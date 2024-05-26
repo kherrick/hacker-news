@@ -13,6 +13,7 @@
 * [2024-05-23, 20:41:36](https://news.ycombinator.com/item?id=40459652) - [Voxel Displacement Renderer – Modernizing the Retro 3D Aesthetic](https://blog.danielschroeder.me/2024/05/voxel-displacement-modernizing-retro-3d/)
 * [2024-05-23, 20:35:22](https://news.ycombinator.com/item?id=40459597) - ['Supercharger on wheels' brings fast charging to you](https://electrek.co/2024/05/22/this-supercharger-on-wheels-brings-fast-charging-to-you/)
 * [2024-05-23, 20:30:22](https://news.ycombinator.com/item?id=40459543) - [Golden Gate Claude](https://www.anthropic.com/news/golden-gate-claude)
+* [2024-05-23, 20:29:51](https://news.ycombinator.com/item?id=40459533) - [Nikon Z 28-400mm f/4-8 VR: The Best All-Purpose Lens I've Ever Used](https://petapixel.com/2024/05/19/nikon-z-28-400mm-f-4-8-vr-the-best-all-purpose-lens-ive-ever-used/)
 * [2024-05-23, 20:20:03](https://news.ycombinator.com/item?id=40459419) - [An analysis of studies pertaining to masks from 1978 to 2023](https://www.medrxiv.org/content/10.1101/2023.07.07.23292338v1)
 * [2024-05-23, 20:18:52](https://news.ycombinator.com/item?id=40459404) - [Show HN: I built obsidian plugin to create notes from BibTeX](https://github.com/akopdev/obsidian-bibtex-manager)
 * [2024-05-23, 19:53:54](https://news.ycombinator.com/item?id=40459142) - [Roman Emperors' Outrageously Lavish Dinner Parties](https://www.atlasobscura.com/articles/ancient-rome-feast-party)
