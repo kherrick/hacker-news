@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2024-05-26, 18:31:44",
-      "https://news.ycombinator.com/item?id=40484311"
+      "2024-05-26, 19:00:21",
+      "https://news.ycombinator.com/item?id=40484512"
     ],
     [
-      "Young women fall out of love with dating apps",
-      "https://www.ft.com/content/b0862016-e225-427e-88c9-4825c2c56000"
+      "llama-fs: A self-organizing file system with llama 3",
+      "https://github.com/iyaja/llama-fs"
     ]
   ],
   [
@@ -67,6 +67,16 @@
     [
       "Amiga Minimig Ported to Tang Nano 20k FPGA",
       "https://github.com/harbaum/NanoMig"
+    ]
+  ],
+  [
+    [
+      "2024-05-26, 17:30:50",
+      "https://news.ycombinator.com/item?id=40483878"
+    ],
+    [
+      "Self-hosted offline transcription and diarization service with LLM summary",
+      "https://github.com/transcriptionstream/transcriptionstream"
     ]
   ],
   [
@@ -151,6 +161,16 @@
   ],
   [
     [
+      "2024-05-26, 12:35:51",
+      "https://news.ycombinator.com/item?id=40481686"
+    ],
+    [
+      "Show HN: I generated API documentation for all Java packages",
+      "https://docland.io"
+    ]
+  ],
+  [
+    [
       "2024-05-26, 12:14:19",
       "https://news.ycombinator.com/item?id=40481578"
     ],
@@ -231,32 +251,12 @@
   ],
   [
     [
-      "2024-05-25, 20:35:59",
-      "https://news.ycombinator.com/item?id=40477653"
-    ],
-    [
-      "Majorana, the search for the most elusive neutrino of all (2012)",
-      "https://newscenter.lbl.gov/2012/05/16/majorana-demonstrator/"
-    ]
-  ],
-  [
-    [
       "2024-05-25, 14:44:58",
       "https://news.ycombinator.com/item?id=40475355"
     ],
     [
       "Why is x & -x equal to the largest power of 2 that divides x?",
       "https://arunmani.in/articles/highest-two-power-to-divide-a-number/"
-    ]
-  ],
-  [
-    [
-      "2024-05-25, 10:41:31",
-      "https://news.ycombinator.com/item?id=40474101"
-    ],
-    [
-      "The Route of a Text Message (2019)",
-      "https://web.archive.org/web/20210301230703/http://scottbot.net/the-route-of-a-text-message/"
     ]
   ],
   [
