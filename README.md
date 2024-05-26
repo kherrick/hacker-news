@@ -2,6 +2,7 @@
 
 * [2024-05-26, 05:57:52](https://news.ycombinator.com/item?id=40480056) - [Hurl, the Exceptional Language](https://hurl.wtf/)
 * [2024-05-26, 05:44:47](https://news.ycombinator.com/item?id=40480016) - [Braid: Synchronization for HTTP](https://braid.org/)
+* [2024-05-26, 05:24:32](https://news.ycombinator.com/item?id=40479947) - [Hacking phones is too easy. Time to make it harder](https://www.economist.com/leaders/2024/05/23/hacking-phones-is-too-easy-time-to-make-it-harder)
 * [2024-05-26, 04:15:03](https://news.ycombinator.com/item?id=40479747) - [I was at Woodstock '99 and it destroyed my innocence (2022)](https://www.kerrang.com/i-was-at-woodstock-99-and-it-destroyed-my-innocence)
 * [2024-05-26, 04:10:01](https://news.ycombinator.com/item?id=40479729) - [How Home Assistant is being used to protect from missile and drone attacks](https://denysdovhan.com/home-assistant-config/config/war/)
 * [2024-05-26, 03:53:37](https://news.ycombinator.com/item?id=40479678) - [How to monitor steel alloys with Grafana](https://grafana.com/blog/2024/05/24/how-to-monitor-steel-alloys-with-grafana-the-story-of-a-golden-grot-awards-winner/)
@@ -9,7 +10,6 @@
 * [2024-05-26, 00:54:23](https://news.ycombinator.com/item?id=40478976) - [GRC SpinRite](https://computer.rip/2024-05-25-grc-spinrite.html)
 * [2024-05-25, 23:01:29](https://news.ycombinator.com/item?id=40478470) - [Simplicity – Google SRE Handbook](https://sre.google/sre-book/simplicity/)
 * [2024-05-25, 22:26:31](https://news.ycombinator.com/item?id=40478294) - [Startup is about to install bladeless rooftop wind turbines on box buildings](https://electrek.co/2024/05/24/bladeless-rooftop-wind-turbines-box-buildings/)
-* [2024-05-25, 21:50:23](https://news.ycombinator.com/item?id=40478139) - [Talos – An Immutable OS for Kubernetes](https://a-cup-of.coffee/blog/talos/)
 * [2024-05-25, 21:01:30](https://news.ycombinator.com/item?id=40477840) - [Fathom AI Notetaker (YC W21) Is Hiring Full-Stack Engineers (Remote)](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-full-stack-engineer-remote)
 * [2024-05-25, 20:35:59](https://news.ycombinator.com/item?id=40477653) - [Majorana, the search for the most elusive neutrino of all](https://newscenter.lbl.gov/2012/05/16/majorana-demonstrator/)
 * [2024-05-25, 20:28:38](https://news.ycombinator.com/item?id=40477604) - [Taming floating-point sums](https://orlp.net/blog/taming-float-sums/)
