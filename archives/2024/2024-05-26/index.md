@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-26](index.md)
 
+* [2024-05-26, 22:01:54](https://news.ycombinator.com/item?id=40485788) - [\"Doomed from the Start\" – KSP2 Development History Revealed [video]](https://www.youtube.com/watch?v=NtMA594am4M)
 * [2024-05-26, 20:55:48](https://news.ycombinator.com/item?id=40485318) - [AI firms mustn’t govern themselves, say ex-members of OpenAI’s board](https://www.economist.com/by-invitation/2024/05/26/ai-firms-mustnt-govern-themselves-say-ex-members-of-openais-board)
+* [2024-05-26, 20:55:22](https://news.ycombinator.com/item?id=40485313) - [How Guinness Brewery Invented the Most Important Statistical Method in Science](https://www.scientificamerican.com/article/how-the-guinness-brewery-invented-the-most-important-statistical-method-in/)
 * [2024-05-26, 20:46:50](https://news.ycombinator.com/item?id=40485246) - [The one-year anniversary of my total glossectomy](https://jakeseliger.com/2024/05/25/the-one-year-anniversary-of-my-total-glossectomy/)
 * [2024-05-26, 20:38:27](https://news.ycombinator.com/item?id=40485185) - [Ask HN: How would you chunk a large Excel file?](https://news.ycombinator.com/item?id=40485185)
 * [2024-05-26, 20:18:31](https://news.ycombinator.com/item?id=40485053) - [macOS Sonoma silently enabled iCloud Keychain despite my precautions](https://lapcatsoftware.com/articles/2024/5/4.html)
