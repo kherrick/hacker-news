@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-26](index.md)
 
+* [2024-05-26, 13:28:54](https://news.ycombinator.com/item?id=40482016) - [Microsoft to Deprecate VBScript](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/vbscript-deprecation-timelines-and-next-steps/ba-p/4148301)
 * [2024-05-26, 12:57:10](https://news.ycombinator.com/item?id=40481808) - [Cloudflare took down our site after trying to force us to pay $120k within 24h](https://robindev.substack.com/p/cloudflare-took-down-our-website)
 * [2024-05-26, 12:12:36](https://news.ycombinator.com/item?id=40481569) - [After you die, your Steam games will be stuck in legal limbo](https://arstechnica.com/gaming/2024/05/after-you-die-your-steam-games-will-be-stuck-in-legal-limbo/)
 * [2024-05-26, 12:02:28](https://news.ycombinator.com/item?id=40481509) - [UpCodes (YC S17) is hiring remote SWEs, PMs to automate construction compliance](https://up.codes/careers?utm_source=HN)

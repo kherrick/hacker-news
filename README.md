@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-26, 13:28:54](https://news.ycombinator.com/item?id=40482016) - [Microsoft to Deprecate VBScript](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/vbscript-deprecation-timelines-and-next-steps/ba-p/4148301)
 * [2024-05-26, 12:57:10](https://news.ycombinator.com/item?id=40481808) - [Cloudflare took down our site after trying to force us to pay $120k within 24h](https://robindev.substack.com/p/cloudflare-took-down-our-website)
 * [2024-05-26, 12:02:28](https://news.ycombinator.com/item?id=40481509) - [UpCodes (YC S17) is hiring remote SWEs, PMs to automate construction compliance](https://up.codes/careers?utm_source=HN)
 * [2024-05-26, 11:37:02](https://news.ycombinator.com/item?id=40481377) - [LuaX – Lua interpreter, REPL, and useful packages](https://github.com/CDSoft/luax)
@@ -18,9 +19,8 @@
 * [2024-05-25, 12:58:20](https://news.ycombinator.com/item?id=40474759) - [The Cognitive Design of Tools of Thought (2014) [pdf]](http://gjgreenberg.bol.ucla.edu/docs/rpp/04_tversky.pdf)
 * [2024-05-25, 12:55:06](https://news.ycombinator.com/item?id=40474736) - [People spend more when prices end in .99 (2018)](https://kenthendricks.com/99-cent-prices/)
 * [2024-05-25, 12:50:49](https://news.ycombinator.com/item?id=40474716) - [Ask HN: What is your ChatGPT customization prompt?](https://news.ycombinator.com/item?id=40474716)
-* [2024-05-25, 12:50:00](https://news.ycombinator.com/item?id=40474712) - [Abusing Go's Infrastructure](https://reverse.put.as/2024/05/24/abusing-go-infrastructure/)
 * [2024-05-24, 23:35:26](https://news.ycombinator.com/item?id=40471419) - [Diffusion Models](https://andrewkchan.dev/posts/diffusion.html)
-* [2024-05-24, 19:33:36](https://news.ycombinator.com/item?id=40469711) - [Ian Clarke explains the next generation of Freenet [video] (2023)](https://www.youtube.com/watch?v=yBtyNIqZios)
+* [2024-05-24, 20:17:13](https://news.ycombinator.com/item?id=40470123) - [Looking Glass debuts 16-inch OLED and 32-inch 'holographic' spatial displays](https://petapixel.com/2024/05/14/looking-glass-debuts-16-inch-oled-and-32-inch-holographic-spatial-displays/)
 * [2024-05-24, 14:48:45](https://news.ycombinator.com/item?id=40466814) - [Helen Keller on her life before self-consciousness (1908)](http://scentofdawn.blogspot.com/2011/07/before-soul-dawn-helen-keller-on-her.html)
 * [2024-05-23, 20:41:36](https://news.ycombinator.com/item?id=40459652) - [Voxel Displacement Renderer – Modernizing the Retro 3D Aesthetic](https://blog.danielschroeder.me/2024/05/voxel-displacement-modernizing-retro-3d/)
 * [2024-05-23, 20:35:22](https://news.ycombinator.com/item?id=40459597) - ['Supercharger on wheels' brings fast charging to you](https://electrek.co/2024/05/22/this-supercharger-on-wheels-brings-fast-charging-to-you/)
