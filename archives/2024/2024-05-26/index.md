@@ -7,6 +7,7 @@
 * [2024-05-26, 13:28:54](https://news.ycombinator.com/item?id=40482016) - [Microsoft to Deprecate VBScript](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/vbscript-deprecation-timelines-and-next-steps/ba-p/4148301)
 * [2024-05-26, 12:57:10](https://news.ycombinator.com/item?id=40481808) - [Cloudflare took down our site after trying to force us to pay $120k within 24h](https://robindev.substack.com/p/cloudflare-took-down-our-website)
 * [2024-05-26, 12:12:36](https://news.ycombinator.com/item?id=40481569) - [After you die, your Steam games will be stuck in legal limbo](https://arstechnica.com/gaming/2024/05/after-you-die-your-steam-games-will-be-stuck-in-legal-limbo/)
+* [2024-05-26, 12:07:04](https://news.ycombinator.com/item?id=40481536) - [To the brain, reading computer code is not the same as reading language](https://news.mit.edu/2020/brain-reading-computer-code-1215)
 * [2024-05-26, 12:02:28](https://news.ycombinator.com/item?id=40481509) - [UpCodes (YC S17) is hiring remote SWEs, PMs to automate construction compliance](https://up.codes/careers?utm_source=HN)
 * [2024-05-26, 11:37:02](https://news.ycombinator.com/item?id=40481377) - [LuaX – Lua interpreter, REPL, and useful packages](https://github.com/CDSoft/luax)
 * [2024-05-26, 10:39:13](https://news.ycombinator.com/item?id=40481110) - [Big (O)Notation Every Developer Should Know](https://medium.com/javarevisited/8-big-o-notation-every-developer-should-know-01426ae5fb7a)
