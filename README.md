@@ -2,6 +2,7 @@
 
 * [2024-05-26, 20:46:50](https://news.ycombinator.com/item?id=40485246) - [The one-year anniversary of my total glossectomy](https://jakeseliger.com/2024/05/25/the-one-year-anniversary-of-my-total-glossectomy/)
 * [2024-05-26, 20:18:31](https://news.ycombinator.com/item?id=40485053) - [macOS Sonoma silently enabled iCloud Keychain despite my precautions](https://lapcatsoftware.com/articles/2024/5/4.html)
+* [2024-05-26, 20:04:59](https://news.ycombinator.com/item?id=40484930) - [FILE_ID.DIZ Description (1994)](http://pcmicro.com/getdiz/file_id.html)
 * [2024-05-26, 19:43:00](https://news.ycombinator.com/item?id=40484779) - [It's Settled, More Nuclear Energy Means Less Mining](https://thebreakthrough.org/issues/energy/its-settled-more-nuclear-energy-means-less-mining)
 * [2024-05-26, 19:14:03](https://news.ycombinator.com/item?id=40484602) - [What Happens in the Brain to Cause Depression?](https://www.quantamagazine.org/what-happens-in-the-brain-to-cause-depression-20240523/)
 * [2024-05-26, 19:12:58](https://news.ycombinator.com/item?id=40484591) - [What the damaged Svalbard cable looked like when it came up from the depths](https://www.nrk.no/tromsogfinnmark/this-is-what-the-damaged-svalbard-cable-looked-like-when-it-came-up-from-the-depths-1.16895904)
@@ -29,7 +30,6 @@
 * [2024-05-24, 14:48:45](https://news.ycombinator.com/item?id=40466814) - [Helen Keller on her life before self-consciousness (1908)](http://scentofdawn.blogspot.com/2011/07/before-soul-dawn-helen-keller-on-her.html)
 * [2024-05-24, 04:22:43](https://news.ycombinator.com/item?id=40462780) - [World in a Box](https://placesjournal.org/article/social-history-of-the-cardboard-box/)
 * [2024-05-23, 18:30:43](https://news.ycombinator.com/item?id=40458142) - [Psyche-C: automatic compilation of partially-available C programs](http://cuda.dcc.ufmg.br/psyche-c/)
-* [2024-05-23, 11:14:32](https://news.ycombinator.com/item?id=40453232) - [Wing Commander III changed how the copy hotkey works in Windows 95](https://www.theregister.com/2024/04/19/wing_commander_windows_95/)
 
 ## [Archives](archives/index.md)
 

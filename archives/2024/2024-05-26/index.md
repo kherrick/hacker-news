@@ -6,6 +6,7 @@
 
 * [2024-05-26, 20:46:50](https://news.ycombinator.com/item?id=40485246) - [The one-year anniversary of my total glossectomy](https://jakeseliger.com/2024/05/25/the-one-year-anniversary-of-my-total-glossectomy/)
 * [2024-05-26, 20:18:31](https://news.ycombinator.com/item?id=40485053) - [macOS Sonoma silently enabled iCloud Keychain despite my precautions](https://lapcatsoftware.com/articles/2024/5/4.html)
+* [2024-05-26, 20:04:59](https://news.ycombinator.com/item?id=40484930) - [FILE_ID.DIZ Description (1994)](http://pcmicro.com/getdiz/file_id.html)
 * [2024-05-26, 19:43:00](https://news.ycombinator.com/item?id=40484779) - [It's Settled, More Nuclear Energy Means Less Mining](https://thebreakthrough.org/issues/energy/its-settled-more-nuclear-energy-means-less-mining)
 * [2024-05-26, 19:25:40](https://news.ycombinator.com/item?id=40484676) - [Show HN: Geometry-aware Hashing of GeoJSON objects](https://altayakkus.dev/2024/05/26/geometry-aware-hashing/)
 * [2024-05-26, 19:14:03](https://news.ycombinator.com/item?id=40484602) - [What Happens in the Brain to Cause Depression?](https://www.quantamagazine.org/what-happens-in-the-brain-to-cause-depression-20240523/)
