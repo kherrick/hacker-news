@@ -6,6 +6,7 @@
 
 * [2024-05-26, 20:55:48](https://news.ycombinator.com/item?id=40485318) - [AI firms mustn’t govern themselves, say ex-members of OpenAI’s board](https://www.economist.com/by-invitation/2024/05/26/ai-firms-mustnt-govern-themselves-say-ex-members-of-openais-board)
 * [2024-05-26, 20:46:50](https://news.ycombinator.com/item?id=40485246) - [The one-year anniversary of my total glossectomy](https://jakeseliger.com/2024/05/25/the-one-year-anniversary-of-my-total-glossectomy/)
+* [2024-05-26, 20:38:27](https://news.ycombinator.com/item?id=40485185) - [Ask HN: How would you chunk a large Excel file?](https://news.ycombinator.com/item?id=40485185)
 * [2024-05-26, 20:18:31](https://news.ycombinator.com/item?id=40485053) - [macOS Sonoma silently enabled iCloud Keychain despite my precautions](https://lapcatsoftware.com/articles/2024/5/4.html)
 * [2024-05-26, 20:04:59](https://news.ycombinator.com/item?id=40484930) - [FILE_ID.DIZ Description (1994)](http://pcmicro.com/getdiz/file_id.html)
 * [2024-05-26, 19:43:00](https://news.ycombinator.com/item?id=40484779) - [It's Settled, More Nuclear Energy Means Less Mining](https://thebreakthrough.org/issues/energy/its-settled-more-nuclear-energy-means-less-mining)
