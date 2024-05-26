@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-26, 16:16:56](https://news.ycombinator.com/item?id=40483288) - [Tell HN: A Inactive YC Company Profile Link Leads to a Malicious Page](https://news.ycombinator.com/item?id=40483288)
 * [2024-05-26, 15:22:56](https://news.ycombinator.com/item?id=40482845) - [What are your favourite websites that display a lot of data / tables?](https://news.ycombinator.com/item?id=40482845)
 * [2024-05-26, 15:22:02](https://news.ycombinator.com/item?id=40482833) - [Google Meet rolls out multi-device adaptive audio merging](https://workspaceupdates.googleblog.com/2024/05/google-meet-adaptive-audio.html)
 * [2024-05-26, 15:17:48](https://news.ycombinator.com/item?id=40482799) - [Mediocre Engineer's Guide to HTTPS](https://devonperoutky.super.site/blog-posts/mediocre-engineers-guide-to-https)
@@ -27,7 +28,6 @@
 * [2024-05-23, 20:41:36](https://news.ycombinator.com/item?id=40459652) - [Voxel Displacement Renderer – Modernizing the Retro 3D Aesthetic](https://blog.danielschroeder.me/2024/05/voxel-displacement-modernizing-retro-3d/)
 * [2024-05-23, 18:30:43](https://news.ycombinator.com/item?id=40458142) - [Psyche-C: automatic compilation of partially-available C programs](http://cuda.dcc.ufmg.br/psyche-c/)
 * [2024-05-23, 16:20:23](https://news.ycombinator.com/item?id=40456621) - [So good, it works on barbed wire (2001)](https://www.sigcon.com/Pubs/edn/SoGoodBarbedWire.htm)
-* [2024-05-23, 16:05:15](https://news.ycombinator.com/item?id=40456449) - [Inventing my own writing system for English, VJScript](https://www.vkethana.com/vjscript/)
 * [2024-05-23, 12:08:53](https://news.ycombinator.com/item?id=40453716) - [Medieval Bologna was full of tall towers](https://www.openculture.com/2024/05/why-medieval-bologna-was-full-of-tall-towers-and-what-happened-to-them.html)
 * [2024-05-23, 09:18:03](https://news.ycombinator.com/item?id=40452411) - [Show HN: Affordable text-to-speech for long-form content](https://www.audiowaveai.com/)
 

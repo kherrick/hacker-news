@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-26](index.md)
 
+* [2024-05-26, 16:16:56](https://news.ycombinator.com/item?id=40483288) - [Tell HN: A Inactive YC Company Profile Link Leads to a Malicious Page](https://news.ycombinator.com/item?id=40483288)
 * [2024-05-26, 15:35:20](https://news.ycombinator.com/item?id=40482953) - [Anarki – A 'wiki-like' fork of Arc Lisp](https://github.com/arclanguage/anarki)
 * [2024-05-26, 15:22:56](https://news.ycombinator.com/item?id=40482845) - [What are your favourite websites that display a lot of data / tables?](https://news.ycombinator.com/item?id=40482845)
 * [2024-05-26, 15:22:02](https://news.ycombinator.com/item?id=40482833) - [Google Meet rolls out multi-device adaptive audio merging](https://workspaceupdates.googleblog.com/2024/05/google-meet-adaptive-audio.html)
