@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-26](index.md)
 
+* [2024-05-26, 15:14:17](https://news.ycombinator.com/item?id=40482775) - [After Legalizing Raw Milk, Legislators Fall Ill from Drinking Raw Milk (2016)](https://www.eater.com/2016/3/9/11186922/raw-milk-lawmakers-ill-after-drinking-raw-milk)
 * [2024-05-26, 14:43:27](https://news.ycombinator.com/item?id=40482550) - [California Senate Passes Bill Requiring Passive Speed Limiters](https://www.roadandtrack.com/news/a60871999/california-passive-speed-limiters-bill/)
+* [2024-05-26, 14:35:46](https://news.ycombinator.com/item?id=40482486) - [More Falsehoods Programmers Believe About Time (2012)](https://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time)
 * [2024-05-26, 14:11:15](https://news.ycombinator.com/item?id=40482328) - [Feynman's Garden](https://www.marginalia.nu/log/a_108_feynman_revisited/)
 * [2024-05-26, 13:43:01](https://news.ycombinator.com/item?id=40482129) - [Integrating AI CodeGen with Low Code Application Development](https://blog.codesolvent.com/2024/05/integrating-ai-codegen-with-low-code.html)
 * [2024-05-26, 13:28:54](https://news.ycombinator.com/item?id=40482016) - [Microsoft to Deprecate VBScript](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/vbscript-deprecation-timelines-and-next-steps/ba-p/4148301)
@@ -19,6 +21,7 @@
 * [2024-05-26, 10:39:13](https://news.ycombinator.com/item?id=40481110) - [Big (O)Notation Every Developer Should Know](https://medium.com/javarevisited/8-big-o-notation-every-developer-should-know-01426ae5fb7a)
 * [2024-05-26, 09:55:21](https://news.ycombinator.com/item?id=40480918) - [Electrically conductive bricks can replace fossil fuels in industrial processes](https://www.bostonglobe.com/2024/05/25/science/race-clean-up-heavy-industry-heats-up/)
 * [2024-05-26, 09:54:58](https://news.ycombinator.com/item?id=40480913) - [Understanding How the Brain Reads Code versus Language](https://learnhub.top/understanding-how-the-brain-reads-code-versus-language/)
+* [2024-05-26, 09:54:58](https://news.ycombinator.com/item?id=40480913) - [To the brain, reading computer code is not the same as reading language (2020)](https://news.mit.edu/2020/brain-reading-computer-code-1215)
 * [2024-05-26, 09:40:41](https://news.ycombinator.com/item?id=40480832) - [Show HN: I made a online free tool to enhance and auto-crop your screenshots](https://socialscreenshots.com)
 * [2024-05-26, 08:56:05](https://news.ycombinator.com/item?id=40480663) - [CEO of Google Says It Has No Solution for Its AI Providing Incorrect Info](https://futurism.com/the-byte/ceo-google-ai-hallucinations)
 * [2024-05-26, 08:47:24](https://news.ycombinator.com/item?id=40480625) - [The accidental tyranny of user interfaces](https://uxdesign.cc/the-accidental-tyranny-of-user-interfaces-eef15dc555a0?gi=49947f93d38a)
