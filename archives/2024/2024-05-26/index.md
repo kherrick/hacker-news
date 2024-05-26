@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-26](index.md)
 
+* [2024-05-26, 23:04:07](https://news.ycombinator.com/item?id=40486197) - [Julia Evans' Git Cheat Sheet [pdf]](https://wizardzines.com/git-cheat-sheet.pdf)
+* [2024-05-26, 22:59:21](https://news.ycombinator.com/item?id=40486168) - [API Governance Delivers Quality](https://apichangelog.substack.com/p/api-governance-delivers-quality)
+* [2024-05-26, 22:31:07](https://news.ycombinator.com/item?id=40486016) - [Artificial Intelligence and the Skill Premium](https://www.nber.org/papers/w32430)
 * [2024-05-26, 22:01:54](https://news.ycombinator.com/item?id=40485788) - [\"Doomed from the Start\" – KSP2 Development History Revealed [video]](https://www.youtube.com/watch?v=NtMA594am4M)
 * [2024-05-26, 20:55:48](https://news.ycombinator.com/item?id=40485318) - [AI firms mustn’t govern themselves, say ex-members of OpenAI’s board](https://www.economist.com/by-invitation/2024/05/26/ai-firms-mustnt-govern-themselves-say-ex-members-of-openais-board)
 * [2024-05-26, 20:55:22](https://news.ycombinator.com/item?id=40485313) - [How Guinness Brewery Invented the Most Important Statistical Method in Science](https://www.scientificamerican.com/article/how-the-guinness-brewery-invented-the-most-important-statistical-method-in/)
