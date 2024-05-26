@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-26, 09:54:58](https://news.ycombinator.com/item?id=40480913) - [Understanding How the Brain Reads Code versus Language](https://learnhub.top/understanding-how-the-brain-reads-code-versus-language/)
 * [2024-05-26, 09:40:41](https://news.ycombinator.com/item?id=40480832) - [Show HN: I made a online free tool to enhance and auto-crop your screenshots](https://socialscreenshots.com)
 * [2024-05-26, 08:47:24](https://news.ycombinator.com/item?id=40480625) - [The accidental tyranny of user interfaces](https://uxdesign.cc/the-accidental-tyranny-of-user-interfaces-eef15dc555a0?gi=49947f93d38a)
 * [2024-05-26, 07:48:27](https://news.ycombinator.com/item?id=40480373) - [Call to Action: Fediverse Media Server](https://shlee.fedipress.au/2024/call-to-action-fediverse-media-server/)
@@ -19,7 +20,6 @@
 * [2024-05-25, 14:44:58](https://news.ycombinator.com/item?id=40475355) - [Why is x & -x equal to the largest power of 2 that divides x?](https://arunmani.in/articles/highest-two-power-to-divide-a-number/)
 * [2024-05-25, 12:58:20](https://news.ycombinator.com/item?id=40474759) - [The Cognitive Design of Tools of Thought (2014) [pdf]](http://gjgreenberg.bol.ucla.edu/docs/rpp/04_tversky.pdf)
 * [2024-05-25, 12:50:49](https://news.ycombinator.com/item?id=40474716) - [Ask HN: What is your ChatGPT customization prompt?](https://news.ycombinator.com/item?id=40474716)
-* [2024-05-25, 12:50:00](https://news.ycombinator.com/item?id=40474712) - [Abusing Go's Infrastructure](https://reverse.put.as/2024/05/24/abusing-go-infrastructure/)
 * [2024-05-24, 23:35:26](https://news.ycombinator.com/item?id=40471419) - [Diffusion Models](https://andrewkchan.dev/posts/diffusion.html)
 * [2024-05-24, 19:33:36](https://news.ycombinator.com/item?id=40469711) - [Ian Clarke explains the next generation of Freenet [video] (2023)](https://www.youtube.com/watch?v=yBtyNIqZios)
 * [2024-05-24, 14:48:45](https://news.ycombinator.com/item?id=40466814) - [Helen Keller on her life before self-consciousness (1908)](http://scentofdawn.blogspot.com/2011/07/before-soul-dawn-helen-keller-on-her.html)
