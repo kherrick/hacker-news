@@ -55,6 +55,7 @@
 * [2024-05-23, 15:24:59](https://news.ycombinator.com/item?id=40455871) - [Artificial Intelligence Act (EU Law)](https://en.wikipedia.org/wiki/Artificial_Intelligence_Act)
 * [2024-05-23, 15:24:21](https://news.ycombinator.com/item?id=40455865) - [Lessons Learned from My First Roblox Game](https://mandeepbhutani.com/blog)
 * [2024-05-23, 15:16:20](https://news.ycombinator.com/item?id=40455758) - [The Space Quest II Master Disk Blunder](https://lanceewing.github.io/blog/sierra/agi/sq2/2024/05/22/do-you-own-this-space-quest-2-disk.html)
+* [2024-05-23, 14:55:38](https://news.ycombinator.com/item?id=40455514) - [Microsoft, Khan Academy Partner to Make Khanmigo Teaching Tool Free](https://thejournal.com/Articles/2024/05/21/Microsoft-Khan-Academy-Partner-to-Make-Khanmigo-Teaching-Tool-Free.aspx)
 * [2024-05-23, 14:54:08](https://news.ycombinator.com/item?id=40455494) - [Make your own backdoor: CFLAGS code injection, Makefile injection, pkg-config](https://www.openwall.com/lists/oss-security/2024/04/17/3)
 * [2024-05-23, 14:53:18](https://news.ycombinator.com/item?id=40455478) - [Show HN: HackerNews but for state of the art research papers](https://www.papertalk.xyz/research/home)
 * [2024-05-23, 14:48:29](https://news.ycombinator.com/item?id=40455426) - [amber, a code search & replace tool](https://github.com/dalance/amber)
