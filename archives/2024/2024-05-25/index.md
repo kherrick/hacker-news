@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-25](index.md)
 
+* [2024-05-25, 22:40:41](https://news.ycombinator.com/item?id=40478348) - [Nonconsensual AI Porn Maker Accidentally Leaks His Customers' Emails](https://www.404media.co/nonconsensual-ai-porn-maker-accidentally-leaks-his-customers-emails/)
 * [2024-05-25, 22:26:31](https://news.ycombinator.com/item?id=40478294) - [Startup is about to install bladeless rooftop wind turbines on box buildings](https://electrek.co/2024/05/24/bladeless-rooftop-wind-turbines-box-buildings/)
 * [2024-05-25, 22:16:04](https://news.ycombinator.com/item?id=40478250) - [Tesla Owners Get Only 64% of EPA Range After Just Three Years: Study](https://insideevs.com/news/720899/tesla-64-epa-max-range/)
 * [2024-05-25, 22:02:29](https://news.ycombinator.com/item?id=40478188) - [Zellij: A terminal workspace with batteries included](https://zellij.dev/)
