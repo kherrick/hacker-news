@@ -64,6 +64,7 @@
 * [2024-05-23, 14:34:08](https://news.ycombinator.com/item?id=40455243) - [Game Changer: Southwest Airlines Now Available on Google Flights](https://viewfromthewing.com/game-changer-southwest-airlines-now-available-on-google-flights/)
 * [2024-05-23, 14:31:36](https://news.ycombinator.com/item?id=40455208) - [Making EC2 boot time 8x faster](https://depot.dev/blog/faster-ec2-boot-time)
 * [2024-05-23, 14:31:00](https://news.ycombinator.com/item?id=40455202) - [Amazon Pharmacy](https://pharmacy.amazon.com)
+* [2024-05-23, 14:23:49](https://news.ycombinator.com/item?id=40455118) - [How do layer 2s differ from execution sharding?](https://vitalik.eth.limo/general/2024/05/23/l2exec.html)
 * [2024-05-23, 14:07:34](https://news.ycombinator.com/item?id=40454938) - [Looking Glass launches new 3D displays](https://techcrunch.com/2024/05/14/looking-glass-launches-new-3d-displays/)
 * [2024-05-23, 14:07:03](https://news.ycombinator.com/item?id=40454933) - [Ask HN: Devs/data scis who pivoted to a new career in 30s/40s, what do you do?](https://news.ycombinator.com/item?id=40454933)
 * [2024-05-23, 13:55:19](https://news.ycombinator.com/item?id=40454769) - [AI Agents: too early, too expensive, too unreliable (for now)](https://www.kadoa.com/blog/ai-agents-hype-vs-reality)
