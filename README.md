@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-26, 04:15:03](https://news.ycombinator.com/item?id=40479747) - [I was at Woodstock '99 and it destroyed my innocence](https://www.kerrang.com/i-was-at-woodstock-99-and-it-destroyed-my-innocence)
 * [2024-05-26, 03:53:37](https://news.ycombinator.com/item?id=40479678) - [How to monitor steel alloys with Grafana](https://grafana.com/blog/2024/05/24/how-to-monitor-steel-alloys-with-grafana-the-story-of-a-golden-grot-awards-winner/)
 * [2024-05-26, 00:54:23](https://news.ycombinator.com/item?id=40478976) - [GRC SpinRite](https://computer.rip/2024-05-25-grc-spinrite.html)
 * [2024-05-25, 22:26:31](https://news.ycombinator.com/item?id=40478294) - [Startup is about to install bladeless rooftop wind turbines on box buildings](https://electrek.co/2024/05/24/bladeless-rooftop-wind-turbines-box-buildings/)
@@ -22,7 +23,6 @@
 * [2024-05-23, 23:53:48](https://news.ycombinator.com/item?id=40461325) - [Single atom defect in 2D material can hold quantum information at room temp](https://phys.org/news/2024-05-scientists-atom-defect-2d-material.amp)
 * [2024-05-23, 20:41:36](https://news.ycombinator.com/item?id=40459652) - [Voxel Displacement Renderer – Modernizing the Retro 3D Aesthetic](https://blog.danielschroeder.me/2024/05/voxel-displacement-modernizing-retro-3d/)
 * [2024-05-23, 20:18:52](https://news.ycombinator.com/item?id=40459404) - [Show HN: I built an Obsidian plugin to create notes from BibTeX](https://github.com/akopdev/obsidian-bibtex-manager)
-* [2024-05-23, 19:25:02](https://news.ycombinator.com/item?id=40458846) - [A connection between the northern lights and Hubble's death](https://bigthink.com/starts-with-a-bang/northern-lights-hubble/)
 * [2024-05-23, 18:44:57](https://news.ycombinator.com/item?id=40458329) - [$899 mini PC puts Snapdragon X Elite into a mini desktop for developers](https://arstechnica.com/gadgets/2024/05/snapdragon-dev-kit-for-windows-is-a-next-gen-mini-desktop-with-snapdragon-x-elite/)
 * [2024-05-23, 17:32:18](https://news.ycombinator.com/item?id=40457535) - [Fixing My Yamaha Electone Me-50: An FM Synthesizer Home Organ from 1986](https://nicole.express/2023/resisting-the-urge-to-make-organ-jokes.html)
 * [2024-05-23, 16:20:23](https://news.ycombinator.com/item?id=40456621) - [So good, it works on barbed wire (2001)](https://www.sigcon.com/Pubs/edn/SoGoodBarbedWire.htm)
