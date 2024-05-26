@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-26, 19:43:00](https://news.ycombinator.com/item?id=40484779) - [It's Settled, More Nuclear Energy Means Less Mining](https://thebreakthrough.org/issues/energy/its-settled-more-nuclear-energy-means-less-mining)
-* [2024-05-26, 19:25:40](https://news.ycombinator.com/item?id=40484676) - [Show HN: Geometry-aware Hashing of GeoJSON objects](https://altayakkus.dev/2024/05/26/geometry-aware-hashing/)
 * [2024-05-26, 19:14:03](https://news.ycombinator.com/item?id=40484602) - [What Happens in the Brain to Cause Depression?](https://www.quantamagazine.org/what-happens-in-the-brain-to-cause-depression-20240523/)
 * [2024-05-26, 19:12:58](https://news.ycombinator.com/item?id=40484591) - [What the damaged Svalbard cable looked like when it came up from the depths](https://www.nrk.no/tromsogfinnmark/this-is-what-the-damaged-svalbard-cable-looked-like-when-it-came-up-from-the-depths-1.16895904)
 * [2024-05-26, 19:00:34](https://news.ycombinator.com/item?id=40484513) - [Milk Watcher](https://en.wikipedia.org/wiki/Milk_watcher)
@@ -30,6 +29,7 @@
 * [2024-05-24, 14:48:45](https://news.ycombinator.com/item?id=40466814) - [Helen Keller on her life before self-consciousness (1908)](http://scentofdawn.blogspot.com/2011/07/before-soul-dawn-helen-keller-on-her.html)
 * [2024-05-24, 04:22:43](https://news.ycombinator.com/item?id=40462780) - [World in a Box](https://placesjournal.org/article/social-history-of-the-cardboard-box/)
 * [2024-05-23, 18:30:43](https://news.ycombinator.com/item?id=40458142) - [Psyche-C: automatic compilation of partially-available C programs](http://cuda.dcc.ufmg.br/psyche-c/)
+* [2024-05-23, 11:14:32](https://news.ycombinator.com/item?id=40453232) - [Wing Commander III changed how the copy hotkey works in Windows 95](https://www.theregister.com/2024/04/19/wing_commander_windows_95/)
 
 ## [Archives](archives/index.md)
 

@@ -91,6 +91,7 @@
 * [2024-05-23, 11:32:30](https://news.ycombinator.com/item?id=40453384) - [Change the default temp file prefix to be \"SQLite\" spelled backwards](https://github.com/sqlite/sqlite/commit/fd288f3549a1ab9a309a9e120d46319d42adea29)
 * [2024-05-23, 11:27:32](https://news.ycombinator.com/item?id=40453335) - [The 'Best' Hidden Y Combinator Page.. You never knew..](https://news.ycombinator.com/best)
 * [2024-05-23, 11:14:57](https://news.ycombinator.com/item?id=40453234) - [Common Lisp Is Not a Single Language, but Many](https://aartaka.me/cl-is-lots)
+* [2024-05-23, 11:14:32](https://news.ycombinator.com/item?id=40453232) - [Wing Commander III changed how the copy hotkey works in Windows 95](https://www.theregister.com/2024/04/19/wing_commander_windows_95/)
 * [2024-05-23, 11:13:28](https://news.ycombinator.com/item?id=40453221) - [BB(3, 4) > Ack(14)](https://www.sligocki.com//2024/05/22/bb-3-4-a14.html)
 * [2024-05-23, 10:53:20](https://news.ycombinator.com/item?id=40453077) - [Microsoft outage affects Bing, Copilot, DuckDuckGo and ChatGPT internet search](https://www.bleepingcomputer.com/news/microsoft/microsoft-outage-affects-bing-copilot-duckduckgo-and-chatgpt-internet-search/)
 * [2024-05-23, 10:43:55](https://news.ycombinator.com/item?id=40453025) - [My boss says we don't need any engineering managers. Is he right](https://charity.wtf/2024/01/05/questionable-advice-my-boss-says-we-dont-need-any-engineering-managers-is-he-right/)
