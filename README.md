@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-26, 02:48:35](https://news.ycombinator.com/item?id=40479438) - [Best of Google AI search results](https://threadreaderapp.com/thread/1794543007129387208.html)
+* [2024-05-26, 03:53:37](https://news.ycombinator.com/item?id=40479678) - [How to monitor steel alloys with Grafana](https://grafana.com/blog/2024/05/24/how-to-monitor-steel-alloys-with-grafana-the-story-of-a-golden-grot-awards-winner/)
 * [2024-05-26, 00:54:23](https://news.ycombinator.com/item?id=40478976) - [GRC SpinRite](https://computer.rip/2024-05-25-grc-spinrite.html)
 * [2024-05-25, 22:26:31](https://news.ycombinator.com/item?id=40478294) - [Startup is about to install bladeless rooftop wind turbines on box buildings](https://electrek.co/2024/05/24/bladeless-rooftop-wind-turbines-box-buildings/)
 * [2024-05-25, 21:01:30](https://news.ycombinator.com/item?id=40477840) - [Fathom AI Notetaker (YC W21) Is Hiring Full-Stack Engineers (Remote)](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-full-stack-engineer-remote)
