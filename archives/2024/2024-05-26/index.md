@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-26](index.md)
 
+* [2024-05-26, 19:14:03](https://news.ycombinator.com/item?id=40484602) - [What Happens in the Brain to Cause Depression?](https://www.quantamagazine.org/what-happens-in-the-brain-to-cause-depression-20240523/)
+* [2024-05-26, 19:12:58](https://news.ycombinator.com/item?id=40484591) - [What the damaged Svalbard cable looked like when it came up from the depths](https://www.nrk.no/tromsogfinnmark/this-is-what-the-damaged-svalbard-cable-looked-like-when-it-came-up-from-the-depths-1.16895904)
 * [2024-05-26, 19:00:34](https://news.ycombinator.com/item?id=40484513) - [Milk Watcher](https://en.wikipedia.org/wiki/Milk_watcher)
 * [2024-05-26, 19:00:21](https://news.ycombinator.com/item?id=40484512) - [llama-fs: A self-organizing file system with llama 3](https://github.com/iyaja/llama-fs)
 * [2024-05-26, 18:31:44](https://news.ycombinator.com/item?id=40484311) - [Young women fall out of love with dating apps](https://www.ft.com/content/b0862016-e225-427e-88c9-4825c2c56000)
