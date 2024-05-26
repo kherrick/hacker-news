@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-26](index.md)
 
+* [2024-05-26, 15:35:20](https://news.ycombinator.com/item?id=40482953) - [Anarki – A 'wiki-like' fork of Arc Lisp](https://github.com/arclanguage/anarki)
 * [2024-05-26, 15:14:17](https://news.ycombinator.com/item?id=40482775) - [After Legalizing Raw Milk, Legislators Fall Ill from Drinking Raw Milk (2016)](https://www.eater.com/2016/3/9/11186922/raw-milk-lawmakers-ill-after-drinking-raw-milk)
 * [2024-05-26, 14:43:27](https://news.ycombinator.com/item?id=40482550) - [California Senate Passes Bill Requiring Passive Speed Limiters](https://www.roadandtrack.com/news/a60871999/california-passive-speed-limiters-bill/)
 * [2024-05-26, 14:35:46](https://news.ycombinator.com/item?id=40482486) - [More Falsehoods Programmers Believe About Time (2012)](https://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time)
