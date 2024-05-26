@@ -7,7 +7,7 @@
 * [2024-05-26, 07:48:27](https://news.ycombinator.com/item?id=40480373) - [Call to Action: Fediverse Media Server](https://shlee.fedipress.au/2024/call-to-action-fediverse-media-server/)
 * [2024-05-26, 07:30:44](https://news.ycombinator.com/item?id=40480323) - [Turn Your iPhone into a Dumb Phone](https://dumbph.com/turn-iphone-into-dumb-phone)
 * [2024-05-26, 07:08:26](https://news.ycombinator.com/item?id=40480258) - ['I was misidentified as shoplifter by facial recognition tech'](https://www.bbc.co.uk/news/technology-69055945)
-* [2024-05-26, 06:50:57](https://news.ycombinator.com/item?id=40480209) - [Effects of $9 Price Endings in Retail: Evidence from Field Experiments [pdf]](https://www.kellogg.northwestern.edu/faculty/anderson_e/htm/PersonalPage_Files/Papers/Effects_of_9_Price_Endings_on_Retail_Sales.pdf)
+* [2024-05-26, 06:50:57](https://news.ycombinator.com/item?id=40480209) - [Effects of $9 Price Endings in Retail: Evidence from Field Experiments [pdf] (2003)](https://www.kellogg.northwestern.edu/faculty/anderson_e/htm/PersonalPage_Files/Papers/Effects_of_9_Price_Endings_on_Retail_Sales.pdf)
 * [2024-05-26, 05:57:52](https://news.ycombinator.com/item?id=40480056) - [Hurl, the Exceptional Language](https://hurl.wtf/)
 * [2024-05-26, 05:44:47](https://news.ycombinator.com/item?id=40480016) - [Braid: Synchronization for HTTP](https://braid.org/)
 * [2024-05-26, 05:24:32](https://news.ycombinator.com/item?id=40479947) - [Hacking phones is too easy. Time to make it harder](https://www.economist.com/leaders/2024/05/23/hacking-phones-is-too-easy-time-to-make-it-harder)
