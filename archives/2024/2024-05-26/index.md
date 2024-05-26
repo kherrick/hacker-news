@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-05-26](index.md)
 
+* [2024-05-26, 18:31:44](https://news.ycombinator.com/item?id=40484311) - [Young women fall out of love with dating apps](https://www.ft.com/content/b0862016-e225-427e-88c9-4825c2c56000)
+* [2024-05-26, 18:15:41](https://news.ycombinator.com/item?id=40484190) - [The CompCert C Compiler](https://compcert.org/compcert-C.html)
 * [2024-05-26, 18:11:15](https://news.ycombinator.com/item?id=40484168) - [Launch from inside an Apollo capsule (restored in 4K/30 FPS) [video]](https://www.youtube.com/watch?v=v1SGDbpeFFg)
+* [2024-05-26, 18:05:20](https://news.ycombinator.com/item?id=40484119) - [Long distance sound localization with the Raspberry Pi](https://medium.com/@kim_94237/tdoa-sound-localization-with-the-raspberry-pi-3e777469c4fa)
 * [2024-05-26, 17:48:59](https://news.ycombinator.com/item?id=40484007) - [The Evolution of Lisp (1993) [pdf]](https://redirect.cs.umbc.edu/courses/331/resources/papers/Evolution-of-Lisp.pdf)
 * [2024-05-26, 17:31:58](https://news.ycombinator.com/item?id=40483882) - [Amiga Minimig Ported to Tang Nano 20k FPGA](https://github.com/harbaum/NanoMig)
 * [2024-05-26, 17:28:12](https://news.ycombinator.com/item?id=40483855) - [Kernel dev writes a USB driver from scratch in 3h [video]](https://www.youtube.com/watch?v=IXBC85SGC0Q)
