@@ -12,7 +12,7 @@
 * [2024-05-26, 12:41:08](https://news.ycombinator.com/item?id=40481722) - [A Journey to the Medical Netherworld (2016)](https://hazlitt.net/longreads/journey-medical-netherworld)
 * [2024-05-26, 12:14:19](https://news.ycombinator.com/item?id=40481578) - [Show HN: Boldly go where Gradient Descent has never gone before with DiscoGrad](https://github.com/DiscoGrad/DiscoGrad)
 * [2024-05-26, 12:02:28](https://news.ycombinator.com/item?id=40481509) - [UpCodes (YC S17) is hiring remote SWEs, PMs to automate construction compliance](https://up.codes/careers?utm_source=HN)
-* [2024-05-26, 11:37:02](https://news.ycombinator.com/item?id=40481377) - [LuaX – Lua interpreter, REPL, and useful packages](https://github.com/CDSoft/luax)
+* [2024-05-26, 09:55:21](https://news.ycombinator.com/item?id=40480918) - [Electrically conductive bricks can replace fossil fuels in industrial processes](https://www.bostonglobe.com/2024/05/25/science/race-clean-up-heavy-industry-heats-up/)
 * [2024-05-26, 07:35:27](https://news.ycombinator.com/item?id=40480336) - [Show HN: Offline sketch to image geneartor in a whiteboard](https://drawing.pics)
 * [2024-05-26, 05:57:52](https://news.ycombinator.com/item?id=40480056) - [Hurl, the Exceptional Language](https://hurl.wtf/)
 * [2024-05-26, 05:44:47](https://news.ycombinator.com/item?id=40480016) - [Braid: Synchronization for HTTP](https://braid.org/)
