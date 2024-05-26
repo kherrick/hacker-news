@@ -96,6 +96,7 @@
 * [2024-05-23, 10:03:27](https://news.ycombinator.com/item?id=40452731) - [Disappointment](https://www.ams.org/journals/notices/202309/noti2782/noti2782.html)
 * [2024-05-23, 09:58:17](https://news.ycombinator.com/item?id=40452704) - [CompilerFax: Sending C source code via telefax to a compiler-as-a-service](https://chaos.social/@LaF0rge/112486079122303420)
 * [2024-05-23, 09:52:18](https://news.ycombinator.com/item?id=40452655) - [Tom Waits vs. Frito-Lay, Inc](http://tomwaitslibrary.info/biography/copyright/frito-lay/)
+* [2024-05-23, 09:45:52](https://news.ycombinator.com/item?id=40452611) - [Mersenne Twister PRNG for JavaScript](https://github.com/jawj/mtwist)
 * [2024-05-23, 08:55:05](https://news.ycombinator.com/item?id=40452260) - [It looks a lot like VMware just lost a 24,000-VM customer](https://www.theregister.com/2024/05/22/computershare_vm_migration_project/)
 * [2024-05-23, 08:12:53](https://news.ycombinator.com/item?id=40451949) - [Microsoft Bing Search, Copilot face downtime](https://indianexpress.com/article/technology/tech-news-technology/microsoft-bing-search-copilot-face-downtime-users-flag-issues-9346860/)
 * [2024-05-23, 07:34:06](https://news.ycombinator.com/item?id=40451645) - [Mapping the Mind of a Large Language Model](https://www.anthropic.com/news/mapping-mind-language-model)
