@@ -3,7 +3,6 @@
 * [2024-05-26, 07:48:27](https://news.ycombinator.com/item?id=40480373) - [Call to Action: Fediverse Media Server](https://shlee.fedipress.au/2024/call-to-action-fediverse-media-server/)
 * [2024-05-26, 07:30:44](https://news.ycombinator.com/item?id=40480323) - [Turn Your iPhone into a Dumb Phone](https://dumbph.com/turn-iphone-into-dumb-phone)
 * [2024-05-26, 07:08:26](https://news.ycombinator.com/item?id=40480258) - ['I was misidentified as shoplifter by facial recognition tech'](https://www.bbc.co.uk/news/technology-69055945)
-* [2024-05-26, 06:12:50](https://news.ycombinator.com/item?id=40480104) - [Show HN: I made a state machine framework for guided conversations with LLMs](https://github.com/adlumal/GoalChain)
 * [2024-05-26, 05:57:52](https://news.ycombinator.com/item?id=40480056) - [Hurl, the Exceptional Language](https://hurl.wtf/)
 * [2024-05-26, 05:44:47](https://news.ycombinator.com/item?id=40480016) - [Braid: Synchronization for HTTP](https://braid.org/)
 * [2024-05-26, 05:24:32](https://news.ycombinator.com/item?id=40479947) - [Hacking phones is too easy. Time to make it harder](https://www.economist.com/leaders/2024/05/23/hacking-phones-is-too-easy-time-to-make-it-harder)
@@ -29,6 +28,7 @@
 * [2024-05-23, 16:20:23](https://news.ycombinator.com/item?id=40456621) - [So good, it works on barbed wire (2001)](https://www.sigcon.com/Pubs/edn/SoGoodBarbedWire.htm)
 * [2024-05-23, 14:23:49](https://news.ycombinator.com/item?id=40455118) - [How do layer 2s differ from execution sharding?](https://vitalik.eth.limo/general/2024/05/23/l2exec.html)
 * [2024-05-23, 13:30:56](https://news.ycombinator.com/item?id=40454475) - [Animating Ptolemy's Equant with Python, SVG, and CSS](https://rhodesmill.org/brandon/2019/animating-the-equant/)
+* [2024-05-23, 12:21:26](https://news.ycombinator.com/item?id=40453822) - [Maths proof of Langlands conjecture is so complex almost no one can explain it](https://www.newscientist.com/article/2431964-incredible-maths-proof-is-so-complex-that-almost-no-one-can-explain-it/)
 * [2024-05-23, 12:08:53](https://news.ycombinator.com/item?id=40453716) - [Medieval Bologna was full of tall towers](https://www.openculture.com/2024/05/why-medieval-bologna-was-full-of-tall-towers-and-what-happened-to-them.html)
 
 ## [Archives](archives/index.md)
