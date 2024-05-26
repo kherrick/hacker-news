@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-05-26](index.md)
 
+* [2024-05-26, 14:43:27](https://news.ycombinator.com/item?id=40482550) - [California Senate Passes Bill Requiring Passive Speed Limiters](https://www.roadandtrack.com/news/a60871999/california-passive-speed-limiters-bill/)
 * [2024-05-26, 14:11:15](https://news.ycombinator.com/item?id=40482328) - [Feynman's Garden](https://www.marginalia.nu/log/a_108_feynman_revisited/)
 * [2024-05-26, 13:43:01](https://news.ycombinator.com/item?id=40482129) - [Integrating AI CodeGen with Low Code Application Development](https://blog.codesolvent.com/2024/05/integrating-ai-codegen-with-low-code.html)
 * [2024-05-26, 13:28:54](https://news.ycombinator.com/item?id=40482016) - [Microsoft to Deprecate VBScript](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/vbscript-deprecation-timelines-and-next-steps/ba-p/4148301)
+* [2024-05-26, 13:10:29](https://news.ycombinator.com/item?id=40481887) - [Periodic Table of the Elements, in Pictures and Words](https://elements.wlonk.com/)
 * [2024-05-26, 12:57:10](https://news.ycombinator.com/item?id=40481808) - [Cloudflare took down our site after trying to force us to pay $120k within 24h](https://robindev.substack.com/p/cloudflare-took-down-our-website)
 * [2024-05-26, 12:41:08](https://news.ycombinator.com/item?id=40481722) - [A Journey to the Medical Netherworld (2016)](https://hazlitt.net/longreads/journey-medical-netherworld)
 * [2024-05-26, 12:12:36](https://news.ycombinator.com/item?id=40481569) - [After you die, your Steam games will be stuck in legal limbo](https://arstechnica.com/gaming/2024/05/after-you-die-your-steam-games-will-be-stuck-in-legal-limbo/)
+* [2024-05-26, 12:12:02](https://news.ycombinator.com/item?id=40481567) - [Show HN: Hmpl – work with server-side HTML with ease](https://hmpljs.github.io/)
 * [2024-05-26, 12:07:04](https://news.ycombinator.com/item?id=40481536) - [To the brain, reading computer code is not the same as reading language](https://news.mit.edu/2020/brain-reading-computer-code-1215)
 * [2024-05-26, 12:02:28](https://news.ycombinator.com/item?id=40481509) - [UpCodes (YC S17) is hiring remote SWEs, PMs to automate construction compliance](https://up.codes/careers?utm_source=HN)
 * [2024-05-26, 11:37:02](https://news.ycombinator.com/item?id=40481377) - [LuaX – Lua interpreter, REPL, and useful packages](https://github.com/CDSoft/luax)
