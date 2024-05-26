@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-26, 08:47:24](https://news.ycombinator.com/item?id=40480625) - [The accidental tyranny of user interfaces](https://uxdesign.cc/the-accidental-tyranny-of-user-interfaces-eef15dc555a0?gi=49947f93d38a)
 * [2024-05-26, 07:48:27](https://news.ycombinator.com/item?id=40480373) - [Call to Action: Fediverse Media Server](https://shlee.fedipress.au/2024/call-to-action-fediverse-media-server/)
 * [2024-05-26, 07:30:44](https://news.ycombinator.com/item?id=40480323) - [Turn Your iPhone into a Dumb Phone](https://dumbph.com/turn-iphone-into-dumb-phone)
 * [2024-05-26, 07:08:26](https://news.ycombinator.com/item?id=40480258) - ['I was misidentified as shoplifter by facial recognition tech'](https://www.bbc.co.uk/news/technology-69055945)
@@ -8,7 +9,6 @@
 * [2024-05-26, 05:24:32](https://news.ycombinator.com/item?id=40479947) - [Hacking phones is too easy. Time to make it harder](https://www.economist.com/leaders/2024/05/23/hacking-phones-is-too-easy-time-to-make-it-harder)
 * [2024-05-26, 04:15:03](https://news.ycombinator.com/item?id=40479747) - [I was at Woodstock '99 and it destroyed my innocence (2022)](https://www.kerrang.com/i-was-at-woodstock-99-and-it-destroyed-my-innocence)
 * [2024-05-26, 04:10:01](https://news.ycombinator.com/item?id=40479729) - [How Home Assistant is being used to protect from missile and drone attacks](https://denysdovhan.com/home-assistant-config/config/war/)
-* [2024-05-26, 03:53:37](https://news.ycombinator.com/item?id=40479678) - [How to monitor steel alloys with Grafana](https://grafana.com/blog/2024/05/24/how-to-monitor-steel-alloys-with-grafana-the-story-of-a-golden-grot-awards-winner/)
 * [2024-05-26, 02:17:23](https://news.ycombinator.com/item?id=40479328) - [The Algorithm Behind Jim Simons's Success](https://alchemy.substack.com/p/the-algorithm-behind-jim-simonss)
 * [2024-05-25, 23:01:29](https://news.ycombinator.com/item?id=40478470) - [Simplicity – Google SRE Handbook](https://sre.google/sre-book/simplicity/)
 * [2024-05-25, 22:26:31](https://news.ycombinator.com/item?id=40478294) - [Startup is about to install bladeless rooftop wind turbines on box buildings](https://electrek.co/2024/05/24/bladeless-rooftop-wind-turbines-box-buildings/)
