@@ -26,8 +26,8 @@
 * [2024-05-26, 09:54:58](https://news.ycombinator.com/item?id=40480913) - [To the brain, reading computer code is not the same as reading language (2020)](https://news.mit.edu/2020/brain-reading-computer-code-1215)
 * [2024-05-26, 05:57:52](https://news.ycombinator.com/item?id=40480056) - [Hurl, the Exceptional Language](https://hurl.wtf/)
 * [2024-05-26, 05:44:47](https://news.ycombinator.com/item?id=40480016) - [Braid: Synchronization for HTTP](https://braid.org/)
+* [2024-05-24, 23:35:26](https://news.ycombinator.com/item?id=40471419) - [Diffusion Models](https://andrewkchan.dev/posts/diffusion.html)
 * [2024-05-24, 14:48:45](https://news.ycombinator.com/item?id=40466814) - [Helen Keller on her life before self-consciousness (1908)](http://scentofdawn.blogspot.com/2011/07/before-soul-dawn-helen-keller-on-her.html)
-* [2024-05-24, 04:22:43](https://news.ycombinator.com/item?id=40462780) - [World in a Box](https://placesjournal.org/article/social-history-of-the-cardboard-box/)
 * [2024-05-23, 23:58:11](https://news.ycombinator.com/item?id=40461351) - [A vintage 1903 espresso machine at a Village cafe (2012)](https://ephemeralnewyork.wordpress.com/2012/12/21/a-vintage-1903-espresso-machine-at-a-village-cafe/)
 * [2024-05-23, 18:30:43](https://news.ycombinator.com/item?id=40458142) - [Psyche-C: automatic compilation of partially-available C programs](http://cuda.dcc.ufmg.br/psyche-c/)
 
