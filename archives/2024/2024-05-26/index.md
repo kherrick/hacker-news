@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-05-26](index.md)
 
+* [2024-05-26, 07:48:27](https://news.ycombinator.com/item?id=40480373) - [Call to Action: Fediverse Media Server](https://shlee.fedipress.au/2024/call-to-action-fediverse-media-server/)
+* [2024-05-26, 07:08:26](https://news.ycombinator.com/item?id=40480258) - ['I was misidentified as shoplifter by facial recognition tech'](https://www.bbc.co.uk/news/technology-69055945)
 * [2024-05-26, 06:32:11](https://news.ycombinator.com/item?id=40480159) - [(FinTech) Synapse has collapsed, 10M consumers, 100s of fintechs in trouble](https://techcrunch.com/2024/05/25/with-a16z-backed-synapses-collapse-baas-fintech-is-a-mess-and-10-million-consumers-could-be-hurt/)
+* [2024-05-26, 06:12:50](https://news.ycombinator.com/item?id=40480104) - [Show HN: I made a state machine framework for guided conversations with LLMs](https://github.com/adlumal/GoalChain)
 * [2024-05-26, 05:57:52](https://news.ycombinator.com/item?id=40480056) - [Hurl, the Exceptional Language](https://hurl.wtf/)
 * [2024-05-26, 05:44:47](https://news.ycombinator.com/item?id=40480016) - [Braid: Synchronization for HTTP](https://braid.org/)
 * [2024-05-26, 05:24:32](https://news.ycombinator.com/item?id=40479947) - [Hacking phones is too easy. Time to make it harder](https://www.economist.com/leaders/2024/05/23/hacking-phones-is-too-easy-time-to-make-it-harder)
