@@ -1,8 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-26, 15:14:17](https://news.ycombinator.com/item?id=40482775) - [After Legalizing Raw Milk, Legislators Fall Ill from Drinking Raw Milk (2016)](https://www.eater.com/2016/3/9/11186922/raw-milk-lawmakers-ill-after-drinking-raw-milk)
 * [2024-05-26, 14:43:27](https://news.ycombinator.com/item?id=40482550) - [California Senate Passes Bill Requiring Passive Speed Limiters](https://www.roadandtrack.com/news/a60871999/california-passive-speed-limiters-bill/)
-* [2024-05-26, 14:35:46](https://news.ycombinator.com/item?id=40482486) - [More Falsehoods Programmers Believe About Time (2012)](https://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time)
 * [2024-05-26, 14:11:15](https://news.ycombinator.com/item?id=40482328) - [Feynman's Garden](https://www.marginalia.nu/log/a_108_feynman_revisited/)
 * [2024-05-26, 13:43:01](https://news.ycombinator.com/item?id=40482129) - [Integrating AI CodeGen with Low Code Application Development](https://blog.codesolvent.com/2024/05/integrating-ai-codegen-with-low-code.html)
 * [2024-05-26, 13:28:54](https://news.ycombinator.com/item?id=40482016) - [VBScript deprecation: Timelines and next steps](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/vbscript-deprecation-timelines-and-next-steps/ba-p/4148301)
@@ -28,6 +26,8 @@
 * [2024-05-23, 20:41:36](https://news.ycombinator.com/item?id=40459652) - [Voxel Displacement Renderer – Modernizing the Retro 3D Aesthetic](https://blog.danielschroeder.me/2024/05/voxel-displacement-modernizing-retro-3d/)
 * [2024-05-23, 20:29:51](https://news.ycombinator.com/item?id=40459533) - [Nikon Z 28-400mm f/4-8 VR: The Best All-Purpose Lens I've Ever Used](https://petapixel.com/2024/05/19/nikon-z-28-400mm-f-4-8-vr-the-best-all-purpose-lens-ive-ever-used/)
 * [2024-05-23, 16:20:23](https://news.ycombinator.com/item?id=40456621) - [So good, it works on barbed wire (2001)](https://www.sigcon.com/Pubs/edn/SoGoodBarbedWire.htm)
+* [2024-05-23, 16:05:15](https://news.ycombinator.com/item?id=40456449) - [Inventing my own writing system for English, VJScript](https://www.vkethana.com/vjscript/)
+* [2024-05-23, 13:30:56](https://news.ycombinator.com/item?id=40454475) - [Animating Ptolemy's Equant with Python, SVG, and CSS](https://rhodesmill.org/brandon/2019/animating-the-equant/)
 * [2024-05-23, 12:08:53](https://news.ycombinator.com/item?id=40453716) - [Medieval Bologna was full of tall towers](https://www.openculture.com/2024/05/why-medieval-bologna-was-full-of-tall-towers-and-what-happened-to-them.html)
 * [2024-05-23, 09:18:03](https://news.ycombinator.com/item?id=40452411) - [Show HN: Affordable text-to-speech for long-form content](https://www.audiowaveai.com/)
 
