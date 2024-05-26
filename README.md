@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-26, 18:11:15](https://news.ycombinator.com/item?id=40484168) - [Launch from inside an Apollo capsule (restored in 4K/30 FPS) [video]](https://www.youtube.com/watch?v=v1SGDbpeFFg)
 * [2024-05-26, 17:48:59](https://news.ycombinator.com/item?id=40484007) - [The Evolution of Lisp (1993) [pdf]](https://redirect.cs.umbc.edu/courses/331/resources/papers/Evolution-of-Lisp.pdf)
 * [2024-05-26, 17:31:58](https://news.ycombinator.com/item?id=40483882) - [Amiga Minimig Ported to Tang Nano 20k FPGA](https://github.com/harbaum/NanoMig)
 * [2024-05-26, 17:28:12](https://news.ycombinator.com/item?id=40483855) - [Kernel dev writes a USB driver from scratch in 3h [video]](https://www.youtube.com/watch?v=IXBC85SGC0Q)
@@ -27,7 +28,6 @@
 * [2024-05-24, 04:22:43](https://news.ycombinator.com/item?id=40462780) - [World in a Box](https://placesjournal.org/article/social-history-of-the-cardboard-box/)
 * [2024-05-23, 20:41:36](https://news.ycombinator.com/item?id=40459652) - [Voxel Displacement Renderer – Modernizing the Retro 3D Aesthetic](https://blog.danielschroeder.me/2024/05/voxel-displacement-modernizing-retro-3d/)
 * [2024-05-23, 18:30:43](https://news.ycombinator.com/item?id=40458142) - [Psyche-C: automatic compilation of partially-available C programs](http://cuda.dcc.ufmg.br/psyche-c/)
-* [2024-05-23, 16:20:23](https://news.ycombinator.com/item?id=40456621) - [So good, it works on barbed wire (2001)](https://www.sigcon.com/Pubs/edn/SoGoodBarbedWire.htm)
 * [2024-05-23, 14:07:34](https://news.ycombinator.com/item?id=40454938) - [Looking Glass launches new 3D displays](https://techcrunch.com/2024/05/14/looking-glass-launches-new-3d-displays/)
 * [2024-05-23, 12:08:53](https://news.ycombinator.com/item?id=40453716) - [Medieval Bologna was full of tall towers](https://www.openculture.com/2024/05/why-medieval-bologna-was-full-of-tall-towers-and-what-happened-to-them.html)
 
