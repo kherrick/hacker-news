@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-26](index.md)
 
+* [2024-05-26, 19:43:00](https://news.ycombinator.com/item?id=40484779) - [It's Settled, More Nuclear Energy Means Less Mining](https://thebreakthrough.org/issues/energy/its-settled-more-nuclear-energy-means-less-mining)
+* [2024-05-26, 19:25:40](https://news.ycombinator.com/item?id=40484676) - [Show HN: Geometry-aware Hashing of GeoJSON objects](https://altayakkus.dev/2024/05/26/geometry-aware-hashing/)
 * [2024-05-26, 19:14:03](https://news.ycombinator.com/item?id=40484602) - [What Happens in the Brain to Cause Depression?](https://www.quantamagazine.org/what-happens-in-the-brain-to-cause-depression-20240523/)
 * [2024-05-26, 19:12:58](https://news.ycombinator.com/item?id=40484591) - [What the damaged Svalbard cable looked like when it came up from the depths](https://www.nrk.no/tromsogfinnmark/this-is-what-the-damaged-svalbard-cable-looked-like-when-it-came-up-from-the-depths-1.16895904)
 * [2024-05-26, 19:00:34](https://news.ycombinator.com/item?id=40484513) - [Milk Watcher](https://en.wikipedia.org/wiki/Milk_watcher)
