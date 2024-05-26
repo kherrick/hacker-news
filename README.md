@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-26, 07:48:27](https://news.ycombinator.com/item?id=40480373) - [Call to Action: Fediverse Media Server](https://shlee.fedipress.au/2024/call-to-action-fediverse-media-server/)
+* [2024-05-26, 07:30:44](https://news.ycombinator.com/item?id=40480323) - [Turn Your iPhone into a Dumb Phone](https://dumbph.com/turn-iphone-into-dumb-phone)
 * [2024-05-26, 07:08:26](https://news.ycombinator.com/item?id=40480258) - ['I was misidentified as shoplifter by facial recognition tech'](https://www.bbc.co.uk/news/technology-69055945)
 * [2024-05-26, 06:12:50](https://news.ycombinator.com/item?id=40480104) - [Show HN: I made a state machine framework for guided conversations with LLMs](https://github.com/adlumal/GoalChain)
 * [2024-05-26, 05:57:52](https://news.ycombinator.com/item?id=40480056) - [Hurl, the Exceptional Language](https://hurl.wtf/)
@@ -24,7 +25,6 @@
 * [2024-05-24, 19:33:36](https://news.ycombinator.com/item?id=40469711) - [Ian Clarke explains the next generation of Freenet [video] (2023)](https://www.youtube.com/watch?v=yBtyNIqZios)
 * [2024-05-24, 14:48:45](https://news.ycombinator.com/item?id=40466814) - [Helen Keller on her life before self-consciousness](http://scentofdawn.blogspot.com/2011/07/before-soul-dawn-helen-keller-on-her.html)
 * [2024-05-23, 20:41:36](https://news.ycombinator.com/item?id=40459652) - [Voxel Displacement Renderer – Modernizing the Retro 3D Aesthetic](https://blog.danielschroeder.me/2024/05/voxel-displacement-modernizing-retro-3d/)
-* [2024-05-23, 20:18:52](https://news.ycombinator.com/item?id=40459404) - [Show HN: I built an Obsidian plugin to create notes from BibTeX](https://github.com/akopdev/obsidian-bibtex-manager)
 * [2024-05-23, 19:53:54](https://news.ycombinator.com/item?id=40459142) - [Roman Emperors' Outrageously Lavish Dinner Parties](https://www.atlasobscura.com/articles/ancient-rome-feast-party)
 * [2024-05-23, 16:20:23](https://news.ycombinator.com/item?id=40456621) - [So good, it works on barbed wire (2001)](https://www.sigcon.com/Pubs/edn/SoGoodBarbedWire.htm)
 * [2024-05-23, 14:23:49](https://news.ycombinator.com/item?id=40455118) - [How do layer 2s differ from execution sharding?](https://vitalik.eth.limo/general/2024/05/23/l2exec.html)
