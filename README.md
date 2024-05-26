@@ -21,7 +21,6 @@
 * [2024-05-25, 12:50:49](https://news.ycombinator.com/item?id=40474716) - [Ask HN: What is your ChatGPT customization prompt?](https://news.ycombinator.com/item?id=40474716)
 * [2024-05-25, 12:50:00](https://news.ycombinator.com/item?id=40474712) - [Abusing Go's Infrastructure](https://reverse.put.as/2024/05/24/abusing-go-infrastructure/)
 * [2024-05-24, 23:35:26](https://news.ycombinator.com/item?id=40471419) - [Diffusion Models](https://andrewkchan.dev/posts/diffusion.html)
-* [2024-05-24, 19:33:36](https://news.ycombinator.com/item?id=40469711) - [Ian Clarke explains the next generation of Freenet [video] (2023)](https://www.youtube.com/watch?v=yBtyNIqZios)
 * [2024-05-24, 14:48:45](https://news.ycombinator.com/item?id=40466814) - [Helen Keller on her life before self-consciousness (1908)](http://scentofdawn.blogspot.com/2011/07/before-soul-dawn-helen-keller-on-her.html)
 * [2024-05-23, 20:41:36](https://news.ycombinator.com/item?id=40459652) - [Voxel Displacement Renderer – Modernizing the Retro 3D Aesthetic](https://blog.danielschroeder.me/2024/05/voxel-displacement-modernizing-retro-3d/)
 * [2024-05-23, 20:35:22](https://news.ycombinator.com/item?id=40459597) - ['Supercharger on wheels' brings fast charging to you](https://electrek.co/2024/05/22/this-supercharger-on-wheels-brings-fast-charging-to-you/)
@@ -30,6 +29,7 @@
 * [2024-05-23, 13:30:56](https://news.ycombinator.com/item?id=40454475) - [Animating Ptolemy's Equant with Python, SVG, and CSS](https://rhodesmill.org/brandon/2019/animating-the-equant/)
 * [2024-05-23, 12:21:26](https://news.ycombinator.com/item?id=40453822) - [Maths proof of Langlands conjecture is so complex almost no one can explain it](https://www.newscientist.com/article/2431964-incredible-maths-proof-is-so-complex-that-almost-no-one-can-explain-it/)
 * [2024-05-23, 12:08:53](https://news.ycombinator.com/item?id=40453716) - [Medieval Bologna was full of tall towers](https://www.openculture.com/2024/05/why-medieval-bologna-was-full-of-tall-towers-and-what-happened-to-them.html)
+* [2024-05-23, 09:18:03](https://news.ycombinator.com/item?id=40452411) - [Show HN: Affordable text-to-speech for long-form content](https://www.audiowaveai.com/)
 
 ## [Archives](archives/index.md)
 
