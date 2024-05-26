@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-26, 06:32:11",
+      "https://news.ycombinator.com/item?id=40480159"
+    ],
+    [
+      "(FinTech) Synapse has collapsed, 10M consumers, 100s of fintechs in trouble",
+      "https://techcrunch.com/2024/05/25/with-a16z-backed-synapses-collapse-baas-fintech-is-a-mess-and-10-million-consumers-could-be-hurt/"
+    ]
+  ],
+  [
+    [
       "2024-05-26, 05:57:52",
       "https://news.ycombinator.com/item?id=40480056"
     ],
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2024-05-24, 20:17:13",
-      "https://news.ycombinator.com/item?id=40470123"
-    ],
-    [
-      "Looking Glass debuts 16-inch OLED and 32-inch 'holographic' spatial displays",
-      "https://petapixel.com/2024/05/14/looking-glass-debuts-16-inch-oled-and-32-inch-holographic-spatial-displays/"
-    ]
-  ],
-  [
-    [
       "2024-05-24, 19:33:36",
       "https://news.ycombinator.com/item?id=40469711"
     ],
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2024-05-23, 17:32:18",
-      "https://news.ycombinator.com/item?id=40457535"
-    ],
-    [
-      "Fixing My Yamaha Electone Me-50: An FM Synthesizer Home Organ from 1986",
-      "https://nicole.express/2023/resisting-the-urge-to-make-organ-jokes.html"
-    ]
-  ],
-  [
-    [
       "2024-05-23, 16:20:23",
       "https://news.ycombinator.com/item?id=40456621"
     ],
@@ -297,6 +287,16 @@
     [
       "Medieval Bologna was full of tall towers",
       "https://www.openculture.com/2024/05/why-medieval-bologna-was-full-of-tall-towers-and-what-happened-to-them.html"
+    ]
+  ],
+  [
+    [
+      "2024-05-23, 09:45:52",
+      "https://news.ycombinator.com/item?id=40452611"
+    ],
+    [
+      "Mersenne Twister PRNG for JavaScript",
+      "https://github.com/jawj/mtwist"
     ]
   ]
 ]
