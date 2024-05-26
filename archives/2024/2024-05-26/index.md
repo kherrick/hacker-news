@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-26](index.md)
 
+* [2024-05-26, 10:39:13](https://news.ycombinator.com/item?id=40481110) - [Big (O)Notation Every Developer Should Know](https://medium.com/javarevisited/8-big-o-notation-every-developer-should-know-01426ae5fb7a)
 * [2024-05-26, 09:55:21](https://news.ycombinator.com/item?id=40480918) - [Electrically conductive bricks can replace fossil fuels in industrial processes](https://www.bostonglobe.com/2024/05/25/science/race-clean-up-heavy-industry-heats-up/)
 * [2024-05-26, 09:54:58](https://news.ycombinator.com/item?id=40480913) - [Understanding How the Brain Reads Code versus Language](https://learnhub.top/understanding-how-the-brain-reads-code-versus-language/)
 * [2024-05-26, 09:40:41](https://news.ycombinator.com/item?id=40480832) - [Show HN: I made a online free tool to enhance and auto-crop your screenshots](https://socialscreenshots.com)

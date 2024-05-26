@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-26, 10:39:13](https://news.ycombinator.com/item?id=40481110) - [Big (O)Notation Every Developer Should Know](https://medium.com/javarevisited/8-big-o-notation-every-developer-should-know-01426ae5fb7a)
 * [2024-05-26, 09:55:21](https://news.ycombinator.com/item?id=40480918) - [Electrically conductive bricks can replace fossil fuels in industrial processes](https://www.bostonglobe.com/2024/05/25/science/race-clean-up-heavy-industry-heats-up/)
 * [2024-05-26, 09:54:58](https://news.ycombinator.com/item?id=40480913) - [Understanding How the Brain Reads Code versus Language](https://learnhub.top/understanding-how-the-brain-reads-code-versus-language/)
 * [2024-05-26, 09:40:41](https://news.ycombinator.com/item?id=40480832) - [Show HN: I made a online free tool to enhance and auto-crop your screenshots](https://socialscreenshots.com)
@@ -19,10 +20,9 @@
 * [2024-05-25, 14:44:58](https://news.ycombinator.com/item?id=40475355) - [Why is x & -x equal to the largest power of 2 that divides x?](https://arunmani.in/articles/highest-two-power-to-divide-a-number/)
 * [2024-05-25, 12:58:20](https://news.ycombinator.com/item?id=40474759) - [The Cognitive Design of Tools of Thought (2014) [pdf]](http://gjgreenberg.bol.ucla.edu/docs/rpp/04_tversky.pdf)
 * [2024-05-25, 12:50:49](https://news.ycombinator.com/item?id=40474716) - [Ask HN: What is your ChatGPT customization prompt?](https://news.ycombinator.com/item?id=40474716)
-* [2024-05-25, 12:50:00](https://news.ycombinator.com/item?id=40474712) - [Abusing Go's Infrastructure](https://reverse.put.as/2024/05/24/abusing-go-infrastructure/)
 * [2024-05-24, 23:35:26](https://news.ycombinator.com/item?id=40471419) - [Diffusion Models](https://andrewkchan.dev/posts/diffusion.html)
-* [2024-05-24, 19:33:36](https://news.ycombinator.com/item?id=40469711) - [Ian Clarke explains the next generation of Freenet [video] (2023)](https://www.youtube.com/watch?v=yBtyNIqZios)
 * [2024-05-24, 14:48:45](https://news.ycombinator.com/item?id=40466814) - [Helen Keller on her life before self-consciousness (1908)](http://scentofdawn.blogspot.com/2011/07/before-soul-dawn-helen-keller-on-her.html)
+* [2024-05-24, 11:56:07](https://news.ycombinator.com/item?id=40465231) - [Never use a warning when you mean undo (2007)](https://alistapart.com/article/neveruseawarning/)
 * [2024-05-23, 20:41:36](https://news.ycombinator.com/item?id=40459652) - [Voxel Displacement Renderer – Modernizing the Retro 3D Aesthetic](https://blog.danielschroeder.me/2024/05/voxel-displacement-modernizing-retro-3d/)
 * [2024-05-23, 19:53:54](https://news.ycombinator.com/item?id=40459142) - [Roman Emperors' Outrageously Lavish Dinner Parties](https://www.atlasobscura.com/articles/ancient-rome-feast-party)
 * [2024-05-23, 16:20:23](https://news.ycombinator.com/item?id=40456621) - [So good, it works on barbed wire (2001)](https://www.sigcon.com/Pubs/edn/SoGoodBarbedWire.htm)
