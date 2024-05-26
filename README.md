@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-26, 19:00:34](https://news.ycombinator.com/item?id=40484513) - [Milk Watcher](https://en.wikipedia.org/wiki/Milk_watcher)
 * [2024-05-26, 18:31:44](https://news.ycombinator.com/item?id=40484311) - [Young women fall out of love with dating apps](https://www.ft.com/content/b0862016-e225-427e-88c9-4825c2c56000)
 * [2024-05-26, 18:15:41](https://news.ycombinator.com/item?id=40484190) - [The CompCert C Compiler](https://compcert.org/compcert-C.html)
 * [2024-05-26, 18:11:15](https://news.ycombinator.com/item?id=40484168) - [Launch from inside an Apollo capsule (restored in 4K/30 FPS) [video]](https://www.youtube.com/watch?v=v1SGDbpeFFg)
@@ -12,6 +13,7 @@
 * [2024-05-26, 15:22:02](https://news.ycombinator.com/item?id=40482833) - [Google Meet rolls out multi-device adaptive audio merging](https://workspaceupdates.googleblog.com/2024/05/google-meet-adaptive-audio.html)
 * [2024-05-26, 15:17:48](https://news.ycombinator.com/item?id=40482799) - [Mediocre Engineer's Guide to HTTPS](https://devonperoutky.super.site/blog-posts/mediocre-engineers-guide-to-https)
 * [2024-05-26, 13:10:29](https://news.ycombinator.com/item?id=40481887) - [Periodic Table of the Elements, in Pictures and Words](https://elements.wlonk.com/)
+* [2024-05-26, 12:57:10](https://news.ycombinator.com/item?id=40481808) - [Cloudflare took down our website](https://robindev.substack.com/p/cloudflare-took-down-our-website)
 * [2024-05-26, 12:41:08](https://news.ycombinator.com/item?id=40481722) - [A Journey to the Medical Netherworld (2016)](https://hazlitt.net/longreads/journey-medical-netherworld)
 * [2024-05-26, 12:14:19](https://news.ycombinator.com/item?id=40481578) - [Show HN: Boldly go where Gradient Descent has never gone before with DiscoGrad](https://github.com/DiscoGrad/DiscoGrad)
 * [2024-05-26, 12:02:28](https://news.ycombinator.com/item?id=40481509) - [UpCodes (YC S17) is hiring remote SWEs, PMs to automate construction compliance](https://up.codes/careers?utm_source=HN)
@@ -28,8 +30,6 @@
 * [2024-05-24, 14:48:45](https://news.ycombinator.com/item?id=40466814) - [Helen Keller on her life before self-consciousness (1908)](http://scentofdawn.blogspot.com/2011/07/before-soul-dawn-helen-keller-on-her.html)
 * [2024-05-24, 04:22:43](https://news.ycombinator.com/item?id=40462780) - [World in a Box](https://placesjournal.org/article/social-history-of-the-cardboard-box/)
 * [2024-05-23, 18:30:43](https://news.ycombinator.com/item?id=40458142) - [Psyche-C: automatic compilation of partially-available C programs](http://cuda.dcc.ufmg.br/psyche-c/)
-* [2024-05-23, 14:07:34](https://news.ycombinator.com/item?id=40454938) - [Looking Glass launches new 3D displays](https://techcrunch.com/2024/05/14/looking-glass-launches-new-3d-displays/)
-* [2024-05-23, 12:08:53](https://news.ycombinator.com/item?id=40453716) - [Medieval Bologna was full of tall towers](https://www.openculture.com/2024/05/why-medieval-bologna-was-full-of-tall-towers-and-what-happened-to-them.html)
 
 ## [Archives](archives/index.md)
 
