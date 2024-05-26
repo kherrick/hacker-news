@@ -28,6 +28,7 @@
 * [2024-05-23, 19:05:53](https://news.ycombinator.com/item?id=40458617) - [Fossil fuels could have been left in the dust 25 years ago](https://timharford.com/2024/05/fossil-fuels-could-have-been-left-in-the-dust-25-years-ago/)
 * [2024-05-23, 19:03:49](https://news.ycombinator.com/item?id=40458583) - [Type safety does not matter](https://www.fpcomplete.com/blog/type-safety-doesnt-matter/)
 * [2024-05-23, 18:44:57](https://news.ycombinator.com/item?id=40458329) - [$899 mini PC puts Snapdragon X Elite into a mini desktop for developers](https://arstechnica.com/gadgets/2024/05/snapdragon-dev-kit-for-windows-is-a-next-gen-mini-desktop-with-snapdragon-x-elite/)
+* [2024-05-23, 18:30:43](https://news.ycombinator.com/item?id=40458142) - [Psyche-C: automatic compilation of partially-available C programs](http://cuda.dcc.ufmg.br/psyche-c/)
 * [2024-05-23, 18:29:24](https://news.ycombinator.com/item?id=40458135) - [iTerm2 removes AI feature from core, creates separate plugin](https://gitlab.com/gnachman/iterm2/-/issues/11470#note_1917647951)
 * [2024-05-23, 18:28:07](https://news.ycombinator.com/item?id=40458114) - [Crows \"count\" the number of self-generated vocalizations](https://www.science.org/doi/10.1126/science.adl0984)
 * [2024-05-23, 18:04:05](https://news.ycombinator.com/item?id=40457867) - [Spotify is going to break every Car Thing gadget it ever sold](https://www.theverge.com/2024/5/23/24163383/spotify-car-thing-discontinued-december-2024)
