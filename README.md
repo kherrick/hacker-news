@@ -11,6 +11,7 @@
 * [2024-05-26, 03:53:37](https://news.ycombinator.com/item?id=40479678) - [How to monitor steel alloys with Grafana](https://grafana.com/blog/2024/05/24/how-to-monitor-steel-alloys-with-grafana-the-story-of-a-golden-grot-awards-winner/)
 * [2024-05-26, 02:17:23](https://news.ycombinator.com/item?id=40479328) - [The Algorithm Behind Jim Simons's Success](https://alchemy.substack.com/p/the-algorithm-behind-jim-simonss)
 * [2024-05-25, 23:01:29](https://news.ycombinator.com/item?id=40478470) - [Simplicity – Google SRE Handbook](https://sre.google/sre-book/simplicity/)
+* [2024-05-25, 22:26:31](https://news.ycombinator.com/item?id=40478294) - [Startup is about to install bladeless rooftop wind turbines on box buildings](https://electrek.co/2024/05/24/bladeless-rooftop-wind-turbines-box-buildings/)
 * [2024-05-25, 21:01:30](https://news.ycombinator.com/item?id=40477840) - [Fathom AI Notetaker (YC W21) Is Hiring Full-Stack Engineers (Remote)](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-full-stack-engineer-remote)
 * [2024-05-25, 20:35:59](https://news.ycombinator.com/item?id=40477653) - [Majorana, the search for the most elusive neutrino of all](https://newscenter.lbl.gov/2012/05/16/majorana-demonstrator/)
 * [2024-05-25, 20:28:38](https://news.ycombinator.com/item?id=40477604) - [Taming floating-point sums](https://orlp.net/blog/taming-float-sums/)
@@ -29,7 +30,6 @@
 * [2024-05-23, 14:23:49](https://news.ycombinator.com/item?id=40455118) - [How do layer 2s differ from execution sharding?](https://vitalik.eth.limo/general/2024/05/23/l2exec.html)
 * [2024-05-23, 13:30:56](https://news.ycombinator.com/item?id=40454475) - [Animating Ptolemy's Equant with Python, SVG, and CSS](https://rhodesmill.org/brandon/2019/animating-the-equant/)
 * [2024-05-23, 12:08:53](https://news.ycombinator.com/item?id=40453716) - [Medieval Bologna was full of tall towers](https://www.openculture.com/2024/05/why-medieval-bologna-was-full-of-tall-towers-and-what-happened-to-them.html)
-* [2024-05-23, 09:45:52](https://news.ycombinator.com/item?id=40452611) - [Mersenne Twister PRNG for JavaScript](https://github.com/jawj/mtwist)
 
 ## [Archives](archives/index.md)
 
