@@ -15,6 +15,7 @@
 * [2024-05-26, 14:21:56](https://news.ycombinator.com/item?id=40482397) - [What Went Wrong with Federal Student Loans?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4826794)
 * [2024-05-26, 14:11:15](https://news.ycombinator.com/item?id=40482328) - [Feynman's Garden](https://www.marginalia.nu/log/a_108_feynman_revisited/)
 * [2024-05-26, 13:43:01](https://news.ycombinator.com/item?id=40482129) - [Integrating AI CodeGen with Low Code Application Development](https://blog.codesolvent.com/2024/05/integrating-ai-codegen-with-low-code.html)
+* [2024-05-26, 13:38:55](https://news.ycombinator.com/item?id=40482095) - [Talkd/dialog open source project has been selected for 2024 GitHub Accelerator](https://github.com/talkdai/dialog)
 * [2024-05-26, 13:28:54](https://news.ycombinator.com/item?id=40482016) - [Microsoft to Deprecate VBScript](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/vbscript-deprecation-timelines-and-next-steps/ba-p/4148301)
 * [2024-05-26, 13:10:29](https://news.ycombinator.com/item?id=40481887) - [Periodic Table of the Elements, in Pictures and Words](https://elements.wlonk.com/)
 * [2024-05-26, 12:57:10](https://news.ycombinator.com/item?id=40481808) - [Cloudflare took down our site after trying to force us to pay $120k within 24h](https://robindev.substack.com/p/cloudflare-took-down-our-website)
