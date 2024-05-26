@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-05-26](index.md)
 
 * [2024-05-26, 15:35:20](https://news.ycombinator.com/item?id=40482953) - [Anarki – A 'wiki-like' fork of Arc Lisp](https://github.com/arclanguage/anarki)
+* [2024-05-26, 15:22:56](https://news.ycombinator.com/item?id=40482845) - [What are your favourite websites that display a lot of data / tables?](https://news.ycombinator.com/item?id=40482845)
+* [2024-05-26, 15:17:48](https://news.ycombinator.com/item?id=40482799) - [Mediocre Engineer's Guide to HTTPS](https://devonperoutky.super.site/blog-posts/mediocre-engineers-guide-to-https)
 * [2024-05-26, 15:14:17](https://news.ycombinator.com/item?id=40482775) - [After Legalizing Raw Milk, Legislators Fall Ill from Drinking Raw Milk (2016)](https://www.eater.com/2016/3/9/11186922/raw-milk-lawmakers-ill-after-drinking-raw-milk)
 * [2024-05-26, 14:43:27](https://news.ycombinator.com/item?id=40482550) - [California Senate Passes Bill Requiring Passive Speed Limiters](https://www.roadandtrack.com/news/a60871999/california-passive-speed-limiters-bill/)
 * [2024-05-26, 14:35:46](https://news.ycombinator.com/item?id=40482486) - [More Falsehoods Programmers Believe About Time (2012)](https://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time)
@@ -14,6 +16,7 @@
 * [2024-05-26, 13:10:29](https://news.ycombinator.com/item?id=40481887) - [Periodic Table of the Elements, in Pictures and Words](https://elements.wlonk.com/)
 * [2024-05-26, 12:57:10](https://news.ycombinator.com/item?id=40481808) - [Cloudflare took down our site after trying to force us to pay $120k within 24h](https://robindev.substack.com/p/cloudflare-took-down-our-website)
 * [2024-05-26, 12:41:08](https://news.ycombinator.com/item?id=40481722) - [A Journey to the Medical Netherworld (2016)](https://hazlitt.net/longreads/journey-medical-netherworld)
+* [2024-05-26, 12:14:19](https://news.ycombinator.com/item?id=40481578) - [Show HN: Boldly go where Gradient Descent has never gone before with DiscoGrad](https://github.com/DiscoGrad/DiscoGrad)
 * [2024-05-26, 12:12:36](https://news.ycombinator.com/item?id=40481569) - [After you die, your Steam games will be stuck in legal limbo](https://arstechnica.com/gaming/2024/05/after-you-die-your-steam-games-will-be-stuck-in-legal-limbo/)
 * [2024-05-26, 12:12:02](https://news.ycombinator.com/item?id=40481567) - [Show HN: Hmpl – work with server-side HTML with ease](https://hmpljs.github.io/)
 * [2024-05-26, 12:07:04](https://news.ycombinator.com/item?id=40481536) - [To the brain, reading computer code is not the same as reading language](https://news.mit.edu/2020/brain-reading-computer-code-1215)
