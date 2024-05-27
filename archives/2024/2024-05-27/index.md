@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-27](index.md)
 
+* [2024-05-27, 20:13:20](https://news.ycombinator.com/item?id=40494216) - [Regular Expression Matching with a Trigram Index (2012)](https://swtch.com/~rsc/regexp/regexp4.html)
+* [2024-05-27, 20:00:11](https://news.ycombinator.com/item?id=40494097) - [GTFL – A Graphical Terminal for Common Lisp](http://www.martin-loetzsch.de/gtfl/)
 * [2024-05-27, 18:07:17](https://news.ycombinator.com/item?id=40493097) - [Mexico City could run out of water in a month unless it rains](https://www.businessinsider.com/mexico-city-water-crisis-day-zero-drought-rain-2024-5)
 * [2024-05-27, 18:03:36](https://news.ycombinator.com/item?id=40493074) - [More Itertools](https://more-itertools.readthedocs.io/en/stable/)
 * [2024-05-27, 18:00:46](https://news.ycombinator.com/item?id=40493053) - [Guido van Rossum drops ownership of the core Python interpreter code](https://github.com/python/cpython/pull/119611)

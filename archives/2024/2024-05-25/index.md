@@ -6,6 +6,7 @@
 
 * [2024-05-25, 23:11:59](https://news.ycombinator.com/item?id=40478530) - [Chickens in Trees](https://suziepetryk.com/blog/chickens.html)
 * [2024-05-25, 23:01:29](https://news.ycombinator.com/item?id=40478470) - [Simplicity – Google SRE Handbook](https://sre.google/sre-book/simplicity/)
+* [2024-05-25, 22:52:57](https://news.ycombinator.com/item?id=40478417) - [Recently increased prevalence of human forearm median artery: Microevolution](https://onlinelibrary.wiley.com/doi/10.1111/joa.13224)
 * [2024-05-25, 22:40:41](https://news.ycombinator.com/item?id=40478348) - [Nonconsensual AI Porn Maker Accidentally Leaks His Customers' Emails](https://www.404media.co/nonconsensual-ai-porn-maker-accidentally-leaks-his-customers-emails/)
 * [2024-05-25, 22:26:31](https://news.ycombinator.com/item?id=40478294) - [Startup is about to install bladeless rooftop wind turbines on box buildings](https://electrek.co/2024/05/24/bladeless-rooftop-wind-turbines-box-buildings/)
 * [2024-05-25, 22:16:04](https://news.ycombinator.com/item?id=40478250) - [Tesla Owners Get Only 64% of EPA Range After Just Three Years: Study](https://insideevs.com/news/720899/tesla-64-epa-max-range/)
