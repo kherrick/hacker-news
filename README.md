@@ -2,7 +2,6 @@
 
 * [2024-05-27, 20:13:20](https://news.ycombinator.com/item?id=40494216) - [Regular Expression Matching with a Trigram Index (2012)](https://swtch.com/~rsc/regexp/regexp4.html)
 * [2024-05-27, 20:00:11](https://news.ycombinator.com/item?id=40494097) - [GTFL – A Graphical Terminal for Common Lisp](http://www.martin-loetzsch.de/gtfl/)
-* [2024-05-27, 19:41:57](https://news.ycombinator.com/item?id=40493911) - [ADHD traits were an advantage in evolution](https://www.washingtonpost.com/wellness/2024/02/21/adhd-traits-advantage-evolution-humans/)
 * [2024-05-27, 18:03:36](https://news.ycombinator.com/item?id=40493074) - [More Itertools](https://more-itertools.readthedocs.io/en/stable/)
 * [2024-05-27, 17:30:43](https://news.ycombinator.com/item?id=40492834) - [Tantivy – full-text search engine library inspired by Apache Lucene](https://github.com/quickwit-oss/tantivy)
 * [2024-05-27, 17:00:44](https://news.ycombinator.com/item?id=40492562) - [Brainbase (YC W24) Is Hiring](https://www.ycombinator.com/companies/brainbase/jobs/UUoqH3y-head-of-operations)
@@ -30,6 +29,7 @@
 * [2024-05-26, 07:03:05](https://news.ycombinator.com/item?id=40480242) - [Rete algorithm](https://en.wikipedia.org/wiki/Rete_algorithm)
 * [2024-05-26, 05:42:46](https://news.ycombinator.com/item?id=40480011) - [Low-latency scripting for game engines](https://fwsgonzo.medium.com/an-introduction-to-low-latency-scripting-with-libriscv-ad0619edab40)
 * [2024-05-25, 22:52:57](https://news.ycombinator.com/item?id=40478417) - [Recently increased prevalence of human forearm median artery: Microevolution](https://onlinelibrary.wiley.com/doi/10.1111/joa.13224)
+* [2024-05-25, 16:21:26](https://news.ycombinator.com/item?id=40475965) - [The future of foundation models is closed-source](https://blog.johnluttig.com/p/the-future-of-foundation-models-is)
 
 ## [Archives](archives/index.md)
 
