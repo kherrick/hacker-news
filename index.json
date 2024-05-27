@@ -1,12 +1,62 @@
 [
   [
     [
+      "2024-05-27, 16:28:50",
+      "https://news.ycombinator.com/item?id=40492263"
+    ],
+    [
+      "How to Survive the Election",
+      "https://unherd.com/2024/05/17-useful-concepts-to-survive-the-election/"
+    ]
+  ],
+  [
+    [
       "2024-05-27, 16:08:05",
       "https://news.ycombinator.com/item?id=40492069"
     ],
     [
       "Researchers create dispersion-assisted photodetector to decipher high-dim light",
       "https://phys.org/news/2024-05-dispersion-photodetector-decipher-high-dimensional.amp"
+    ]
+  ],
+  [
+    [
+      "2024-05-27, 16:06:20",
+      "https://news.ycombinator.com/item?id=40492054"
+    ],
+    [
+      "An adjustable filter that can prevent interference in the range 600 MHz to 6 GHz",
+      "https://blog.seas.upenn.edu/to-6g-and-beyond-penn-engineers-unlock-the-next-generation-of-wireless-communications/"
+    ]
+  ],
+  [
+    [
+      "2024-05-27, 15:56:24",
+      "https://news.ycombinator.com/item?id=40491957"
+    ],
+    [
+      "Testing quantised inertia on Proxima Centauri",
+      "https://academic.oup.com/mnrasl/advance-article/doi/10.1093/mnrasl/slae047/7682393"
+    ]
+  ],
+  [
+    [
+      "2024-05-27, 15:53:54",
+      "https://news.ycombinator.com/item?id=40491933"
+    ],
+    [
+      "Tattoos as a risk factor for malignant lymphoma: a population-based study",
+      "https://www.sciencedirect.com/science/article/pii/S2589537024002281"
+    ]
+  ],
+  [
+    [
+      "2024-05-27, 15:50:34",
+      "https://news.ycombinator.com/item?id=40491896"
+    ],
+    [
+      "The Problem with the Darling 58 Genetically Modified Chestnut Tree",
+      "https://nymag.com/intelligencer/article/darling-58-american-chestnut-tree-mistake.html"
     ]
   ],
   [
@@ -141,16 +191,6 @@
   ],
   [
     [
-      "2024-05-27, 04:28:43",
-      "https://news.ycombinator.com/item?id=40487556"
-    ],
-    [
-      "Braid-Text: Text Synchronization Libraries over Braid-HTTP",
-      "https://github.com/braid-org/braid-text"
-    ]
-  ],
-  [
-    [
       "2024-05-27, 03:51:43",
       "https://news.ycombinator.com/item?id=40487419"
     ],
@@ -221,32 +261,12 @@
   ],
   [
     [
-      "2024-05-26, 16:28:56",
-      "https://news.ycombinator.com/item?id=40483367"
-    ],
-    [
-      "LO – simple WASM native language",
-      "https://github.com/glebbash/LO"
-    ]
-  ],
-  [
-    [
       "2024-05-26, 12:14:19",
       "https://news.ycombinator.com/item?id=40481578"
     ],
     [
       "Show HN: Boldly go where Gradient Descent has never gone before with DiscoGrad",
       "https://github.com/DiscoGrad/DiscoGrad"
-    ]
-  ],
-  [
-    [
-      "2024-05-26, 09:54:58",
-      "https://news.ycombinator.com/item?id=40480913"
-    ],
-    [
-      "To the brain, reading computer code is not the same as reading language (2020)",
-      "https://news.mit.edu/2020/brain-reading-computer-code-1215"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2024-05-26, 05:42:46",
-      "https://news.ycombinator.com/item?id=40480011"
-    ],
-    [
-      "An Introduction to Low-Latency Scripting for Game Engines",
-      "https://fwsgonzo.medium.com/an-introduction-to-low-latency-scripting-with-libriscv-ad0619edab40"
-    ]
-  ],
-  [
-    [
       "2024-05-25, 23:11:59",
       "https://news.ycombinator.com/item?id=40478530"
     ],
     [
       "Chickens in Trees",
       "https://suziepetryk.com/blog/chickens.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-23, 23:41:02",
-      "https://news.ycombinator.com/item?id=40461223"
-    ],
-    [
-      "Stark Industries Solutions: An Iron Hammer in the Cloud",
-      "https://krebsonsecurity.com/2024/05/stark-industries-solutions-an-iron-hammer-in-the-cloud/"
     ]
   ]
 ]
