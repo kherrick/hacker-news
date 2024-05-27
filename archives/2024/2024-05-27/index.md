@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-05-27](index.md)
 
+* [2024-05-27, 16:28:50](https://news.ycombinator.com/item?id=40492263) - [How to Survive the Election](https://unherd.com/2024/05/17-useful-concepts-to-survive-the-election/)
 * [2024-05-27, 16:08:05](https://news.ycombinator.com/item?id=40492069) - [Researchers create dispersion-assisted photodetector to decipher high-dim light](https://phys.org/news/2024-05-dispersion-photodetector-decipher-high-dimensional.amp)
+* [2024-05-27, 16:06:20](https://news.ycombinator.com/item?id=40492054) - [An adjustable filter that can prevent interference in the range 600 MHz to 6 GHz](https://blog.seas.upenn.edu/to-6g-and-beyond-penn-engineers-unlock-the-next-generation-of-wireless-communications/)
+* [2024-05-27, 15:56:24](https://news.ycombinator.com/item?id=40491957) - [Testing quantised inertia on Proxima Centauri](https://academic.oup.com/mnrasl/advance-article/doi/10.1093/mnrasl/slae047/7682393)
+* [2024-05-27, 15:53:54](https://news.ycombinator.com/item?id=40491933) - [Tattoos as a risk factor for malignant lymphoma: a population-based study](https://www.sciencedirect.com/science/article/pii/S2589537024002281)
+* [2024-05-27, 15:50:34](https://news.ycombinator.com/item?id=40491896) - [The Problem with the Darling 58 Genetically Modified Chestnut Tree](https://nymag.com/intelligencer/article/darling-58-american-chestnut-tree-mistake.html)
 * [2024-05-27, 15:31:24](https://news.ycombinator.com/item?id=40491694) - [Should I Use jwts For Authentication Tokens?](https://blog.ploetzli.ch/2024/should-i-use-jwt-for-authentication/)
 * [2024-05-27, 15:11:38](https://news.ycombinator.com/item?id=40491480) - [Instead of \"auth\", we should say \"permissions\" and \"login\"](https://ntietz.com/blog/lets-say-instead-of-auth/)
 * [2024-05-27, 15:07:59](https://news.ycombinator.com/item?id=40491438) - [My BDFL guiding principles (cURL) – daniel.haxx.se](https://daniel.haxx.se/blog/2024/05/27/my-bdfl-guiding-principles/)
