@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-27, 08:30:05](https://news.ycombinator.com/item?id=40488844) - [Big Data Is Dead](https://motherduck.com/blog/big-data-is-dead/)
 * [2024-05-27, 08:16:45](https://news.ycombinator.com/item?id=40488774) - [Twitter is now attention roulette and ultimately meaningless](https://playpermissionless.substack.com/p/twitter-is-now-attention-roulette)
 * [2024-05-27, 07:01:11](https://news.ycombinator.com/item?id=40488372) - [Meticulous (YC S21) is hiring to eliminate E2E tests](https://news.ycombinator.com/item?id=40488372)
 * [2024-05-27, 06:32:52](https://news.ycombinator.com/item?id=40488206) - [A Big Ring on the Sky](https://cosmosmagazine.com/space/astronomy/giant-structure-space-universe/)
@@ -24,7 +25,6 @@
 * [2024-05-26, 09:54:58](https://news.ycombinator.com/item?id=40480913) - [To the brain, reading computer code is not the same as reading language (2020)](https://news.mit.edu/2020/brain-reading-computer-code-1215)
 * [2024-05-26, 07:35:27](https://news.ycombinator.com/item?id=40480336) - [Show HN: Offline sketch to image geneartor in a whiteboard](https://drawing.pics)
 * [2024-05-26, 06:23:10](https://news.ycombinator.com/item?id=40480136) - [MSI Teases Z790 Project Zero Plus Motherboard with CAMM2 Memory Support](https://www.anandtech.com/show/21410/msi-teases-z790-project-zero-plus-motherboard-camm2-memory-support)
-* [2024-05-26, 05:57:52](https://news.ycombinator.com/item?id=40480056) - [Hurl, the Exceptional Language](https://hurl.wtf/)
 * [2024-05-26, 05:45:56](https://news.ycombinator.com/item?id=40480022) - [The Perfect Voxel Engine (2021)](https://voxely.net/blog/the-perfect-voxel-engine/)
 * [2024-05-26, 05:42:46](https://news.ycombinator.com/item?id=40480011) - [An Introduction to Low-Latency Scripting for Game Engines](https://fwsgonzo.medium.com/an-introduction-to-low-latency-scripting-with-libriscv-ad0619edab40)
 * [2024-05-25, 23:11:59](https://news.ycombinator.com/item?id=40478530) - [Chickens in Trees](https://suziepetryk.com/blog/chickens.html)
