@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-05-27](index.md)
 
+* [2024-05-27, 16:32:26](https://news.ycombinator.com/item?id=40492300) - [Helix-gpui: helix gpui front end](https://github.com/polachok/helix-gpui)
+* [2024-05-27, 16:28:50](https://news.ycombinator.com/item?id=40492264) - [The Internet Archive is under a DDoS attack](https://bsky.app/profile/archive.org/post/3ktiatctiqm2r)
 * [2024-05-27, 16:28:50](https://news.ycombinator.com/item?id=40492263) - [How to Survive the Election](https://unherd.com/2024/05/17-useful-concepts-to-survive-the-election/)
+* [2024-05-27, 16:08:30](https://news.ycombinator.com/item?id=40492076) - [Internet Archive is under a DDoS attack](https://mastodon.archive.org/@internetarchive/112513905401989149)
 * [2024-05-27, 16:08:05](https://news.ycombinator.com/item?id=40492069) - [Researchers create dispersion-assisted photodetector to decipher high-dim light](https://phys.org/news/2024-05-dispersion-photodetector-decipher-high-dimensional.amp)
 * [2024-05-27, 16:06:20](https://news.ycombinator.com/item?id=40492054) - [An adjustable filter that can prevent interference in the range 600 MHz to 6 GHz](https://blog.seas.upenn.edu/to-6g-and-beyond-penn-engineers-unlock-the-next-generation-of-wireless-communications/)
 * [2024-05-27, 15:56:24](https://news.ycombinator.com/item?id=40491957) - [Testing quantised inertia on Proxima Centauri](https://academic.oup.com/mnrasl/advance-article/doi/10.1093/mnrasl/slae047/7682393)
@@ -13,6 +16,7 @@
 * [2024-05-27, 15:31:24](https://news.ycombinator.com/item?id=40491694) - [Should I Use jwts For Authentication Tokens?](https://blog.ploetzli.ch/2024/should-i-use-jwt-for-authentication/)
 * [2024-05-27, 15:11:38](https://news.ycombinator.com/item?id=40491480) - [Instead of \"auth\", we should say \"permissions\" and \"login\"](https://ntietz.com/blog/lets-say-instead-of-auth/)
 * [2024-05-27, 15:07:59](https://news.ycombinator.com/item?id=40491438) - [My BDFL guiding principles (cURL) – daniel.haxx.se](https://daniel.haxx.se/blog/2024/05/27/my-bdfl-guiding-principles/)
+* [2024-05-27, 15:02:19](https://news.ycombinator.com/item?id=40491377) - [How we enabled ARM64 VMs](https://www.ubicloud.com/blog/how-we-enabled-arm64-vms)
 * [2024-05-27, 14:40:07](https://news.ycombinator.com/item?id=40491163) - [Cycling's Silent Epidemic: Labial swelling and pain in women](https://www.bicycling.com/health-nutrition/a60412469/cycling-saddle-pain-women-surgery/)
 * [2024-05-27, 14:28:02](https://news.ycombinator.com/item?id=40491038) - [Reclaiming IPv4 Class E's 240.0.0.0/4](https://blog.benjojo.co.uk/post/class-e-addresses-in-the-real-world)
 * [2024-05-27, 13:58:52](https://news.ycombinator.com/item?id=40490759) - [Yerba Mate: South America's Indigenous Tea, from Paraguay to Syria](https://globalvoices.org/2024/05/20/yerba-mate-south-americas-indigenous-tea-from-paraguay-to-syria/)
