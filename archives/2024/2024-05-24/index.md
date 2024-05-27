@@ -22,6 +22,7 @@
 * [2024-05-24, 20:17:13](https://news.ycombinator.com/item?id=40470123) - [Looking Glass debuts 16-inch OLED and 32-inch 'holographic' spatial displays](https://petapixel.com/2024/05/14/looking-glass-debuts-16-inch-oled-and-32-inch-holographic-spatial-displays/)
 * [2024-05-24, 19:33:36](https://news.ycombinator.com/item?id=40469711) - [Ian Clarke Explains the Next Generation of Freenet [video]](https://www.youtube.com/watch?v=yBtyNIqZios)
 * [2024-05-24, 19:20:56](https://news.ycombinator.com/item?id=40469606) - [Google AI: People should eat at least one small rock a day](https://mastodon.social/@danielnazer/112492966707079287#.)
+* [2024-05-24, 19:20:07](https://news.ycombinator.com/item?id=40469599) - [Egypt is building a $1B mega-museum](https://www.nature.com/immersive/d41586-024-01467-w/index.html)
 * [2024-05-24, 19:19:31](https://news.ycombinator.com/item?id=40469592) - [Show HN: Spot – Simple, cross-platform, reactive desktop GUI toolkit for Go](https://github.com/roblillack/spot)
 * [2024-05-24, 19:08:43](https://news.ycombinator.com/item?id=40469487) - [Criminal record database of Americans dumped online](https://www.malwarebytes.com/blog/news/2024/05/criminal-record-database-of-millions-of-americans-dumped-online)
 * [2024-05-24, 18:34:03](https://news.ycombinator.com/item?id=40469126) - [Can I use gasoline to cook spaghetti faster?](https://mastodon.social/@JoeUchill/112493317168967705)

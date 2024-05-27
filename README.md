@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-27, 22:28:38](https://news.ycombinator.com/item?id=40495368) - [Truth, Math, and Models (Part 8 in a series on the scientific method)](http://blog.rongarret.info/)
+* [2024-05-27, 21:58:32](https://news.ycombinator.com/item?id=40495149) - [Grokked Transformers Are Implicit Reasoners](https://arxiv.org/abs/2405.15071)
 * [2024-05-27, 21:15:40](https://news.ycombinator.com/item?id=40494793) - [Notepad Tab](https://notepadtab.com/)
 * [2024-05-27, 20:13:20](https://news.ycombinator.com/item?id=40494216) - [Regular Expression Matching with a Trigram Index (2012)](https://swtch.com/~rsc/regexp/regexp4.html)
 * [2024-05-27, 20:00:11](https://news.ycombinator.com/item?id=40494097) - [GTFL – A Graphical Terminal for Common Lisp](http://www.martin-loetzsch.de/gtfl/)
@@ -12,7 +14,6 @@
 * [2024-05-27, 16:28:50](https://news.ycombinator.com/item?id=40492264) - [The Internet Archive is under a DDoS attack](https://mastodon.archive.org/@internetarchive/112513905401989149)
 * [2024-05-27, 16:25:53](https://news.ycombinator.com/item?id=40492234) - [Surveilling the masses with wi-fi-based positioning systems](https://arxiv.org/abs/2405.14975)
 * [2024-05-27, 16:06:20](https://news.ycombinator.com/item?id=40492054) - [An adjustable filter that can prevent interference in the range 600 MHz to 6 GHz](https://blog.seas.upenn.edu/to-6g-and-beyond-penn-engineers-unlock-the-next-generation-of-wireless-communications/)
-* [2024-05-27, 15:50:34](https://news.ycombinator.com/item?id=40491896) - [The problem with the Darling 58 genetically modified chestnut tree](https://nymag.com/intelligencer/article/darling-58-american-chestnut-tree-mistake.html)
 * [2024-05-27, 15:31:24](https://news.ycombinator.com/item?id=40491694) - [Should I use JWTs for authentication tokens?](https://blog.ploetzli.ch/2024/should-i-use-jwt-for-authentication/)
 * [2024-05-27, 15:11:38](https://news.ycombinator.com/item?id=40491480) - [Instead of “auth”, we should say “permissions” and “login”](https://ntietz.com/blog/lets-say-instead-of-auth/)
 * [2024-05-27, 15:02:19](https://news.ycombinator.com/item?id=40491377) - [How we enabled ARM64 VMs](https://www.ubicloud.com/blog/how-we-enabled-arm64-vms)
@@ -23,13 +24,12 @@
 * [2024-05-27, 11:01:01](https://news.ycombinator.com/item?id=40489596) - [Resume Tip: Hacking \"AI\" screening of resumes](https://www.solipsys.co.uk/images/ResumeTip.png)
 * [2024-05-27, 10:39:23](https://news.ycombinator.com/item?id=40489486) - [Possible association between tattoos and lymphoma](https://www.lunduniversity.lu.se/article/possible-association-between-tattoos-and-lymphoma-revealed)
 * [2024-05-27, 09:55:19](https://news.ycombinator.com/item?id=40489269) - [My new PSU burns out – I fix it, and torture it by cracking water](https://tomscii.sig7.se/2024/05/PSU-burnout-and-torture-cracking-water)
-* [2024-05-27, 08:30:05](https://news.ycombinator.com/item?id=40488844) - [Big data is dead (2023)](https://motherduck.com/blog/big-data-is-dead/)
-* [2024-05-27, 06:32:52](https://news.ycombinator.com/item?id=40488206) - [A 1.3B-light-year-across ring of galaxies has confounded astronomers](https://cosmosmagazine.com/space/astronomy/giant-structure-space-universe/)
 * [2024-05-26, 22:42:36](https://news.ycombinator.com/item?id=40486068) - [Evolution of the ELF object file format](https://maskray.me/blog/2024-05-26-evolution-of-elf-object-file-format)
 * [2024-05-26, 18:05:20](https://news.ycombinator.com/item?id=40484119) - [Long distance sound localization with the Raspberry Pi](https://medium.com/@kim_94237/tdoa-sound-localization-with-the-raspberry-pi-3e777469c4fa)
 * [2024-05-26, 07:03:05](https://news.ycombinator.com/item?id=40480242) - [Rete algorithm](https://en.wikipedia.org/wiki/Rete_algorithm)
 * [2024-05-26, 05:42:46](https://news.ycombinator.com/item?id=40480011) - [Low-latency scripting for game engines](https://fwsgonzo.medium.com/an-introduction-to-low-latency-scripting-with-libriscv-ad0619edab40)
 * [2024-05-25, 22:52:57](https://news.ycombinator.com/item?id=40478417) - [Recently increased prevalence of human forearm median artery: Microevolution](https://onlinelibrary.wiley.com/doi/10.1111/joa.13224)
+* [2024-05-24, 19:20:07](https://news.ycombinator.com/item?id=40469599) - [Egypt is building a $1B mega-museum](https://www.nature.com/immersive/d41586-024-01467-w/index.html)
 
 ## [Archives](archives/index.md)
 
