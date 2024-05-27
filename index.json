@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-05-27, 00:29:25",
-      "https://news.ycombinator.com/item?id=40486556"
-    ],
-    [
-      "If you cant afford it, dont do it",
-      "https://breached.digital/if-you-cant-afford-it-dont-do-it/"
-    ]
-  ],
-  [
-    [
       "2024-05-26, 23:34:32",
       "https://news.ycombinator.com/item?id=40486307"
     ],
@@ -37,16 +27,6 @@
     [
       "The t-test was invented at the Guinness brewery",
       "https://www.scientificamerican.com/article/how-the-guinness-brewery-invented-the-most-important-statistical-method-in/"
-    ]
-  ],
-  [
-    [
-      "2024-05-26, 20:51:22",
-      "https://news.ycombinator.com/item?id=40485279"
-    ],
-    [
-      "LSON: JSON with binary in 260 lines of public domain Lua",
-      "https://github.com/civboot/civlua/tree/main/lib/lson"
     ]
   ],
   [
@@ -117,6 +97,16 @@
     [
       "The Evolution of Lisp (1993) [pdf]",
       "https://redirect.cs.umbc.edu/courses/331/resources/papers/Evolution-of-Lisp.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-05-26, 17:31:58",
+      "https://news.ycombinator.com/item?id=40483882"
+    ],
+    [
+      "Amiga Minimig Ported to Tang Nano 20k FPGA",
+      "https://github.com/harbaum/NanoMig"
     ]
   ],
   [
@@ -245,7 +235,7 @@
       "https://news.ycombinator.com/item?id=40479660"
     ],
     [
-      "Phobos May Be a Captured Comet",
+      "Phobos photometric properties from Mars Express HRSC observations",
       "https://arxiv.org/abs/2403.12156"
     ]
   ],
@@ -277,6 +267,16 @@
     [
       "Helen Keller on her life before self-consciousness (1908)",
       "http://scentofdawn.blogspot.com/2011/07/before-soul-dawn-helen-keller-on-her.html"
+    ]
+  ],
+  [
+    [
+      "2024-05-24, 04:22:43",
+      "https://news.ycombinator.com/item?id=40462780"
+    ],
+    [
+      "World in a Box",
+      "https://placesjournal.org/article/social-history-of-the-cardboard-box/"
     ]
   ],
   [
