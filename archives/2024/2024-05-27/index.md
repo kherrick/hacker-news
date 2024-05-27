@@ -8,6 +8,7 @@
 * [2024-05-27, 18:03:36](https://news.ycombinator.com/item?id=40493074) - [More Itertools](https://more-itertools.readthedocs.io/en/stable/)
 * [2024-05-27, 18:00:46](https://news.ycombinator.com/item?id=40493053) - [Guido van Rossum drops ownership of the core Python interpreter code](https://github.com/python/cpython/pull/119611)
 * [2024-05-27, 17:59:21](https://news.ycombinator.com/item?id=40493044) - [AI vs. a Giraffe with No Spots](https://www.aiweirdness.com/ai-vs-a-giraffe-with-no-spots/)
+* [2024-05-27, 17:41:09](https://news.ycombinator.com/item?id=40492915) - [Pixmob IR Reverse Engineering](https://github.com/danielweidman/pixmob-ir-reverse-engineering)
 * [2024-05-27, 17:35:41](https://news.ycombinator.com/item?id=40492871) - [Genocide in Rafah and the ICJ](https://www.craigmurray.org.uk/archives/2024/05/genocide-in-rafah-and-the-icj/)
 * [2024-05-27, 17:30:43](https://news.ycombinator.com/item?id=40492834) - [Tantivy – full-text search engine library inspired by Apache Lucene](https://github.com/quickwit-oss/tantivy)
 * [2024-05-27, 17:09:37](https://news.ycombinator.com/item?id=40492648) - [Coursera on Red Teaming LLM Applications](https://www.coursera.org/projects/red-teaming-llm-applications)
