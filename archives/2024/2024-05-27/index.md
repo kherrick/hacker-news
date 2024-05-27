@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-27](index.md)
 
+* [2024-05-27, 05:30:32](https://news.ycombinator.com/item?id=40487844) - [X.ai: $6B Series B](https://x.ai/blog/series-b)
 * [2024-05-27, 04:54:40](https://news.ycombinator.com/item?id=40487666) - [We need 70% less coders as the AI handles most of the coding](https://old.reddit.com/r/stocks/comments/1cmi5gj/bp_earnings_call_we_need_70_less_coders_from/)
 * [2024-05-27, 04:04:27](https://news.ycombinator.com/item?id=40487462) - [Google AI said to put glue in pizza – so I made a pizza with glue and ate it](https://www.businessinsider.com/google-ai-glue-pizza-i-tried-it-2024-5)
 * [2024-05-27, 04:03:31](https://news.ycombinator.com/item?id=40487460) - [Wiley shuts down 19 science journals and retracts 11,000 gobbledygook papers](https://joannenova.com.au/2024/05/so-much-for-peer-review-wiley-shuts-down-19-science-journals-and-retracts-11000-fraudulent-or-gobblygook-papers/)

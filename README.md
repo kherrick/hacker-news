@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-27, 04:04:27](https://news.ycombinator.com/item?id=40487462) - [Google AI said to put glue in pizza – so I made a pizza with glue and ate it](https://www.businessinsider.com/google-ai-glue-pizza-i-tried-it-2024-5)
+* [2024-05-27, 05:30:32](https://news.ycombinator.com/item?id=40487844) - [X.ai: $6B Series B](https://x.ai/blog/series-b)
 * [2024-05-27, 03:51:43](https://news.ycombinator.com/item?id=40487419) - [Is regulated BGP security coming?](https://blog.apnic.net/2024/05/23/is-regulated-bgp-security-coming/)
 * [2024-05-27, 02:00:38](https://news.ycombinator.com/item?id=40486991) - [PcTattletale leaks victims' screen recordings to entire Internet](https://www.ericdaigle.ca/pctattletale-leaking-screen-captures/)
 * [2024-05-26, 23:04:07](https://news.ycombinator.com/item?id=40486197) - [Git cheat sheet [pdf]](https://wizardzines.com/git-cheat-sheet.pdf)
