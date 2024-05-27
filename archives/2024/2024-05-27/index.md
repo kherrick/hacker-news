@@ -29,6 +29,7 @@
 * [2024-05-27, 09:55:19](https://news.ycombinator.com/item?id=40489269) - [My new PSU burns out I fix it, and torture it by cracking water](https://tomscii.sig7.se/2024/05/PSU-burnout-and-torture-cracking-water)
 * [2024-05-27, 09:50:35](https://news.ycombinator.com/item?id=40489250) - [Priced Out of Homeownership](https://www.bbc.com/news/articles/cmj66r4lvzzo)
 * [2024-05-27, 09:40:45](https://news.ycombinator.com/item?id=40489209) - [Scientists Found a Paradox in Evolution; It May Become the Next Rule of Biology](https://www.popularmechanics.com/science/animals/a60848559/rule-of-biology-evolution-paradox/)
+* [2024-05-27, 09:29:12](https://news.ycombinator.com/item?id=40489150) - [Ore Energy exits stealth mode unveils battery based on only iron, water and air](https://siliconcanals.com/news/startups/ore-energy-exits-stealth-mode-with-10m/)
 * [2024-05-27, 09:17:17](https://news.ycombinator.com/item?id=40489091) - [Wall Street is about to see its biggest trading change in years](https://www.cnn.com/2024/05/24/investing/premarket-stocks-trading-t1-sec/index.html)
 * [2024-05-27, 08:30:05](https://news.ycombinator.com/item?id=40488844) - [Big Data Is Dead](https://motherduck.com/blog/big-data-is-dead/)
 * [2024-05-27, 08:19:33](https://news.ycombinator.com/item?id=40488785) - [Tesla 'self-driving' technology failed to detect a moving train ahead of a crash](https://www.nbcnews.com/tech/tech-news/tesla-owner-says-cars-self-driving-mode-fsd-train-crash-video-rcna153345)
