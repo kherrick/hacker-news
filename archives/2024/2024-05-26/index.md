@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-26](index.md)
 
+* [2024-05-26, 23:34:32](https://news.ycombinator.com/item?id=40486307) - [Nocobase, on prem Notion for creating production-ready apps](https://github.com/nocobase/nocobase)
 * [2024-05-26, 23:06:17](https://news.ycombinator.com/item?id=40486205) - [Netflix is removing offline downloads from its Windows app](https://twitter.com/ArtemR/status/1794513583650329036)
 * [2024-05-26, 23:04:07](https://news.ycombinator.com/item?id=40486197) - [Julia Evans' Git Cheat Sheet [pdf]](https://wizardzines.com/git-cheat-sheet.pdf)
 * [2024-05-26, 22:59:21](https://news.ycombinator.com/item?id=40486168) - [API Governance Delivers Quality](https://apichangelog.substack.com/p/api-governance-delivers-quality)

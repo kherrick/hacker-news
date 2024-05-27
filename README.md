@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-26, 23:34:32](https://news.ycombinator.com/item?id=40486307) - [Nocobase, on prem Notion for creating production-ready apps](https://github.com/nocobase/nocobase)
 * [2024-05-26, 23:04:07](https://news.ycombinator.com/item?id=40486197) - [Git cheat sheet [pdf]](https://wizardzines.com/git-cheat-sheet.pdf)
 * [2024-05-26, 22:31:07](https://news.ycombinator.com/item?id=40486016) - [Artificial intelligence and the skill premium](https://www.nber.org/papers/w32430)
 * [2024-05-26, 20:55:22](https://news.ycombinator.com/item?id=40485313) - [The t-test was invented at the Guinness brewery](https://www.scientificamerican.com/article/how-the-guinness-brewery-invented-the-most-important-statistical-method-in/)
@@ -10,7 +11,6 @@
 * [2024-05-26, 19:00:34](https://news.ycombinator.com/item?id=40484513) - [Milk watcher](https://en.wikipedia.org/wiki/Milk_watcher)
 * [2024-05-26, 18:15:41](https://news.ycombinator.com/item?id=40484190) - [The CompCert C Compiler](https://compcert.org/compcert-C.html)
 * [2024-05-26, 17:48:59](https://news.ycombinator.com/item?id=40484007) - [The Evolution of Lisp (1993) [pdf]](https://redirect.cs.umbc.edu/courses/331/resources/papers/Evolution-of-Lisp.pdf)
-* [2024-05-26, 17:31:58](https://news.ycombinator.com/item?id=40483882) - [Amiga Minimig Ported to Tang Nano 20k FPGA](https://github.com/harbaum/NanoMig)
 * [2024-05-26, 17:30:50](https://news.ycombinator.com/item?id=40483878) - [Self-hosted offline transcription and diarization service with LLM summary](https://github.com/transcriptionstream/transcriptionstream)
 * [2024-05-26, 17:28:12](https://news.ycombinator.com/item?id=40483855) - [Kernel developer write a USB driver in 3h for Apple Xserve front-panel [video]](https://www.youtube.com/watch?v=IXBC85SGC0Q)
 * [2024-05-26, 16:28:56](https://news.ycombinator.com/item?id=40483367) - [LO – simple WASM native language](https://github.com/glebbash/LO)
