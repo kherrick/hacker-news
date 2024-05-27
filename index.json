@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-05-27, 18:03:36",
+      "https://news.ycombinator.com/item?id=40493074"
+    ],
+    [
+      "More Itertools",
+      "https://more-itertools.readthedocs.io/en/stable/"
+    ]
+  ],
+  [
+    [
       "2024-05-27, 18:00:46",
       "https://news.ycombinator.com/item?id=40493053"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=40493044"
     ],
     [
-      "AI vs. a Giraffe with No Spots",
+      "AI vs. a giraffe with no spots (2023)",
       "https://www.aiweirdness.com/ai-vs-a-giraffe-with-no-spots/"
     ]
   ],
@@ -55,7 +65,7 @@
       "https://news.ycombinator.com/item?id=40492515"
     ],
     [
-      "Controlling the Taylor Swift Eras Tour Wristbands with Flipper Zero",
+      "Controlling the Taylor Swift Eras Tour wristbands with Flipper Zero",
       "https://blog.jgc.org/2024/05/controlling-taylor-swift-eras-tour.html"
     ]
   ],
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=40492300"
     ],
     [
-      "Helix-gpui: helix gpui front end",
+      "Helix-gpui: A simple GUI for the Helix editor",
       "https://github.com/polachok/helix-gpui"
     ]
   ],
@@ -95,7 +105,7 @@
       "https://news.ycombinator.com/item?id=40492234"
     ],
     [
-      "Surveilling the Masses with Wi-Fi-Based Positioning Systems",
+      "Surveilling the masses with wi-fi-based positioning systems",
       "https://arxiv.org/abs/2405.14975"
     ]
   ],
@@ -135,7 +145,7 @@
       "https://news.ycombinator.com/item?id=40491694"
     ],
     [
-      "Should I use jwts for authentication tokens?",
+      "Should I use JWTs for authentication tokens?",
       "https://blog.ploetzli.ch/2024/should-i-use-jwt-for-authentication/"
     ]
   ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2024-05-27, 15:07:59",
-      "https://news.ycombinator.com/item?id=40491438"
-    ],
-    [
-      "My BDFL guiding principles (cURL) – daniel.haxx.se",
-      "https://daniel.haxx.se/blog/2024/05/27/my-bdfl-guiding-principles/"
-    ]
-  ],
-  [
-    [
       "2024-05-27, 15:02:19",
       "https://news.ycombinator.com/item?id=40491377"
     ],
@@ -171,12 +171,22 @@
   ],
   [
     [
-      "2024-05-27, 13:42:22",
-      "https://news.ycombinator.com/item?id=40490630"
+      "2024-05-27, 14:28:02",
+      "https://news.ycombinator.com/item?id=40491038"
     ],
     [
-      "Cobalt – lightweight HTML5 application container from YouTube",
-      "https://developers.google.com/youtube/cobalt"
+      "Reclaiming IPv4 Class E's 240.0.0.0/4",
+      "https://blog.benjojo.co.uk/post/class-e-addresses-in-the-real-world"
+    ]
+  ],
+  [
+    [
+      "2024-05-27, 13:58:52",
+      "https://news.ycombinator.com/item?id=40490759"
+    ],
+    [
+      "Yerba mate, from Paraguay to Syria",
+      "https://globalvoices.org/2024/05/20/yerba-mate-south-americas-indigenous-tea-from-paraguay-to-syria/"
     ]
   ],
   [
@@ -187,6 +197,16 @@
     [
       "Linux virtual machines, with a focus on running containers",
       "https://lima-vm.io/"
+    ]
+  ],
+  [
+    [
+      "2024-05-27, 11:46:28",
+      "https://news.ycombinator.com/item?id=40489905"
+    ],
+    [
+      "How many EV charging stations does the US need to replace gas stations?",
+      "https://www.wired.com/story/how-many-charging-stations-would-we-need-to-totally-replace-gas-stations/"
     ]
   ],
   [
@@ -231,32 +251,12 @@
   ],
   [
     [
-      "2024-05-27, 08:30:05",
-      "https://news.ycombinator.com/item?id=40488844"
-    ],
-    [
-      "Big data is dead (2023)",
-      "https://motherduck.com/blog/big-data-is-dead/"
-    ]
-  ],
-  [
-    [
       "2024-05-27, 06:32:52",
       "https://news.ycombinator.com/item?id=40488206"
     ],
     [
       "A 1.3B-light-year-across ring of galaxies has confounded astronomers",
       "https://cosmosmagazine.com/space/astronomy/giant-structure-space-universe/"
-    ]
-  ],
-  [
-    [
-      "2024-05-27, 02:00:38",
-      "https://news.ycombinator.com/item?id=40486991"
-    ],
-    [
-      "PcTattletale leaks victims' screen recordings to entire Internet",
-      "https://www.ericdaigle.ca/pctattletale-leaking-screen-captures/"
     ]
   ],
   [
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=40480242"
     ],
     [
-      "Rete Algorithm",
+      "Rete algorithm",
       "https://en.wikipedia.org/wiki/Rete_algorithm"
     ]
   ],
