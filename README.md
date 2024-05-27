@@ -1,9 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-27, 02:56:12](https://news.ycombinator.com/item?id=40487218) - [A venture capitalist walks into a bar](https://lcamtuf.substack.com/p/a-venture-capitalist-walks-into-a)
+* [2024-05-27, 02:15:59](https://news.ycombinator.com/item?id=40487068) - [Helix: A post-modern text editor](https://helix-editor.com/)
 * [2024-05-26, 23:34:32](https://news.ycombinator.com/item?id=40486307) - [Nocobase, on prem Notion for creating production-ready apps](https://github.com/nocobase/nocobase)
 * [2024-05-26, 23:04:07](https://news.ycombinator.com/item?id=40486197) - [Git cheat sheet [pdf]](https://wizardzines.com/git-cheat-sheet.pdf)
 * [2024-05-26, 22:31:07](https://news.ycombinator.com/item?id=40486016) - [Artificial intelligence and the skill premium](https://www.nber.org/papers/w32430)
 * [2024-05-26, 20:55:22](https://news.ycombinator.com/item?id=40485313) - [The t-test was invented at the Guinness brewery](https://www.scientificamerican.com/article/how-the-guinness-brewery-invented-the-most-important-statistical-method-in/)
+* [2024-05-26, 20:51:22](https://news.ycombinator.com/item?id=40485279) - [LSON: JSON with binary in 260 lines of public domain Lua](https://github.com/civboot/civlua/tree/main/lib/lson)
 * [2024-05-26, 20:46:50](https://news.ycombinator.com/item?id=40485246) - [The one-year anniversary of my total glossectomy](https://jakeseliger.com/2024/05/25/the-one-year-anniversary-of-my-total-glossectomy/)
 * [2024-05-26, 20:04:59](https://news.ycombinator.com/item?id=40484930) - [FILE_ID.DIZ Description (1994)](http://pcmicro.com/getdiz/file_id.html)
 * [2024-05-26, 19:46:37](https://news.ycombinator.com/item?id=40484802) - [Old dogs, new CSS tricks](https://mxb.dev/blog/old-dogs-new-css-tricks/)
@@ -12,7 +15,6 @@
 * [2024-05-26, 18:15:41](https://news.ycombinator.com/item?id=40484190) - [The CompCert C Compiler](https://compcert.org/compcert-C.html)
 * [2024-05-26, 17:48:59](https://news.ycombinator.com/item?id=40484007) - [The Evolution of Lisp (1993) [pdf]](https://redirect.cs.umbc.edu/courses/331/resources/papers/Evolution-of-Lisp.pdf)
 * [2024-05-26, 17:30:50](https://news.ycombinator.com/item?id=40483878) - [Self-hosted offline transcription and diarization service with LLM summary](https://github.com/transcriptionstream/transcriptionstream)
-* [2024-05-26, 17:28:12](https://news.ycombinator.com/item?id=40483855) - [Kernel developer write a USB driver in 3h for Apple Xserve front-panel [video]](https://www.youtube.com/watch?v=IXBC85SGC0Q)
 * [2024-05-26, 16:28:56](https://news.ycombinator.com/item?id=40483367) - [LO – simple WASM native language](https://github.com/glebbash/LO)
 * [2024-05-26, 15:22:02](https://news.ycombinator.com/item?id=40482833) - [Google Meet rolls out multi-device adaptive audio merging](https://workspaceupdates.googleblog.com/2024/05/google-meet-adaptive-audio.html)
 * [2024-05-26, 15:17:48](https://news.ycombinator.com/item?id=40482799) - [Mediocre Engineer's Guide to HTTPS](https://devonperoutky.super.site/blog-posts/mediocre-engineers-guide-to-https)
@@ -28,8 +30,6 @@
 * [2024-05-25, 23:01:29](https://news.ycombinator.com/item?id=40478470) - [Simplicity – Google SRE Handbook (2017)](https://sre.google/sre-book/simplicity/)
 * [2024-05-23, 23:58:11](https://news.ycombinator.com/item?id=40461351) - [A vintage 1903 espresso machine at a Village cafe (2012)](https://ephemeralnewyork.wordpress.com/2012/12/21/a-vintage-1903-espresso-machine-at-a-village-cafe/)
 * [2024-05-23, 23:41:02](https://news.ycombinator.com/item?id=40461223) - [Stark Industries Solutions: An Iron Hammer in the Cloud](https://krebsonsecurity.com/2024/05/stark-industries-solutions-an-iron-hammer-in-the-cloud/)
-* [2024-05-23, 18:30:43](https://news.ycombinator.com/item?id=40458142) - [Psyche-C: automatic compilation of partially-available C programs](http://cuda.dcc.ufmg.br/psyche-c/)
-* [2024-05-23, 15:35:40](https://news.ycombinator.com/item?id=40456020) - [Tracking Releases and CI Across Software Teams and Forges](https://jnsgr.uk/2024/05/tracking-software-across-teams/)
 
 ## [Archives](archives/index.md)
 
