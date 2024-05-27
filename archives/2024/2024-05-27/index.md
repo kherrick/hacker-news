@@ -15,6 +15,7 @@
 * [2024-05-27, 16:55:59](https://news.ycombinator.com/item?id=40492515) - [Controlling the Taylor Swift Eras Tour Wristbands with Flipper Zero](https://blog.jgc.org/2024/05/controlling-taylor-swift-eras-tour.html)
 * [2024-05-27, 16:41:57](https://news.ycombinator.com/item?id=40492393) - [British Museum gems for sale on eBay – how a theft was exposed](https://www.bbc.co.uk/news/articles/cpegg27g74do)
 * [2024-05-27, 16:32:26](https://news.ycombinator.com/item?id=40492300) - [Helix-gpui: helix gpui front end](https://github.com/polachok/helix-gpui)
+* [2024-05-27, 16:28:50](https://news.ycombinator.com/item?id=40492264) - [The Internet Archive is under a DDoS attack](https://mastodon.archive.org/@internetarchive/112513905401989149)
 * [2024-05-27, 16:28:50](https://news.ycombinator.com/item?id=40492264) - [The Internet Archive is under a DDoS attack](https://bsky.app/profile/archive.org/post/3ktiatctiqm2r)
 * [2024-05-27, 16:28:50](https://news.ycombinator.com/item?id=40492263) - [How to Survive the Election](https://unherd.com/2024/05/17-useful-concepts-to-survive-the-election/)
 * [2024-05-27, 16:25:53](https://news.ycombinator.com/item?id=40492234) - [Surveilling the Masses with Wi-Fi-Based Positioning Systems](https://arxiv.org/abs/2405.14975)
