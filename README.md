@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-27, 09:55:19](https://news.ycombinator.com/item?id=40489269) - [My new PSU burns out I fix it, and torture it by cracking water](https://tomscii.sig7.se/2024/05/PSU-burnout-and-torture-cracking-water)
 * [2024-05-27, 09:40:45](https://news.ycombinator.com/item?id=40489209) - [Scientists Found a Paradox in Evolution; It May Become the Next Rule of Biology](https://www.popularmechanics.com/science/animals/a60848559/rule-of-biology-evolution-paradox/)
 * [2024-05-27, 09:17:17](https://news.ycombinator.com/item?id=40489091) - [Wall Street is about to see its biggest trading change in years](https://www.cnn.com/2024/05/24/investing/premarket-stocks-trading-t1-sec/index.html)
 * [2024-05-27, 08:30:05](https://news.ycombinator.com/item?id=40488844) - [Big data is dead (2023)](https://motherduck.com/blog/big-data-is-dead/)
@@ -12,7 +13,6 @@
 * [2024-05-27, 02:00:38](https://news.ycombinator.com/item?id=40486991) - [PcTattletale leaks victims' screen recordings to entire Internet](https://www.ericdaigle.ca/pctattletale-leaking-screen-captures/)
 * [2024-05-26, 23:15:37](https://news.ycombinator.com/item?id=40486242) - [Apple signs deal with OpenAI for iOS, still wants Google as an 'option'](https://www.androidauthority.com/apple-signs-deal-openai-iphones-3446254/)
 * [2024-05-26, 20:55:22](https://news.ycombinator.com/item?id=40485313) - [The t-test was invented at the Guinness brewery](https://www.scientificamerican.com/article/how-the-guinness-brewery-invented-the-most-important-statistical-method-in/)
-* [2024-05-26, 20:46:50](https://news.ycombinator.com/item?id=40485246) - [The one-year anniversary of my total glossectomy](https://jakeseliger.com/2024/05/25/the-one-year-anniversary-of-my-total-glossectomy/)
 * [2024-05-26, 20:04:59](https://news.ycombinator.com/item?id=40484930) - [FILE_ID.DIZ Description (1994)](http://pcmicro.com/getdiz/file_id.html)
 * [2024-05-26, 19:46:37](https://news.ycombinator.com/item?id=40484802) - [Old dogs, new CSS tricks](https://mxb.dev/blog/old-dogs-new-css-tricks/)
 * [2024-05-26, 19:12:58](https://news.ycombinator.com/item?id=40484591) - [What the damaged Svalbard cable looked like](https://www.nrk.no/tromsogfinnmark/this-is-what-the-damaged-svalbard-cable-looked-like-when-it-came-up-from-the-depths-1.16895904)
