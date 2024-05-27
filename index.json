@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-27, 17:09:37",
+      "https://news.ycombinator.com/item?id=40492648"
+    ],
+    [
+      "Coursera on Red Teaming LLM Applications",
+      "https://www.coursera.org/projects/red-teaming-llm-applications"
+    ]
+  ],
+  [
+    [
       "2024-05-27, 17:00:44",
       "https://news.ycombinator.com/item?id=40492562"
     ],
@@ -47,6 +57,16 @@
     [
       "The Internet Archive is under a DDoS attack",
       "https://bsky.app/profile/archive.org/post/3ktiatctiqm2r"
+    ]
+  ],
+  [
+    [
+      "2024-05-27, 16:25:53",
+      "https://news.ycombinator.com/item?id=40492234"
+    ],
+    [
+      "Surveilling the Masses with Wi-Fi-Based Positioning Systems",
+      "https://arxiv.org/abs/2405.14975"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Rete Algorithm",
       "https://en.wikipedia.org/wiki/Rete_algorithm"
-    ]
-  ],
-  [
-    [
-      "2024-05-26, 05:45:56",
-      "https://news.ycombinator.com/item?id=40480022"
-    ],
-    [
-      "The Perfect Voxel Engine (2021)",
-      "https://voxely.net/blog/the-perfect-voxel-engine/"
-    ]
-  ],
-  [
-    [
-      "2024-05-25, 23:11:59",
-      "https://news.ycombinator.com/item?id=40478530"
-    ],
-    [
-      "Chickens in Trees",
-      "https://suziepetryk.com/blog/chickens.html"
     ]
   ]
 ]
