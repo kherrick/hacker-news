@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-27, 00:29:25](https://news.ycombinator.com/item?id=40486556) - [If you cant afford it, dont do it](https://breached.digital/if-you-cant-afford-it-dont-do-it/)
 * [2024-05-26, 23:34:32](https://news.ycombinator.com/item?id=40486307) - [Nocobase, on prem Notion for creating production-ready apps](https://github.com/nocobase/nocobase)
 * [2024-05-26, 23:04:07](https://news.ycombinator.com/item?id=40486197) - [Git cheat sheet [pdf]](https://wizardzines.com/git-cheat-sheet.pdf)
-* [2024-05-26, 22:31:07](https://news.ycombinator.com/item?id=40486016) - [Artificial intelligence and the skill premium](https://www.nber.org/papers/w32430)
 * [2024-05-26, 20:55:22](https://news.ycombinator.com/item?id=40485313) - [The t-test was invented at the Guinness brewery](https://www.scientificamerican.com/article/how-the-guinness-brewery-invented-the-most-important-statistical-method-in/)
 * [2024-05-26, 20:51:22](https://news.ycombinator.com/item?id=40485279) - [LSON: JSON with binary in 260 lines of public domain Lua](https://github.com/civboot/civlua/tree/main/lib/lson)
 * [2024-05-26, 20:46:50](https://news.ycombinator.com/item?id=40485246) - [The one-year anniversary of my total glossectomy](https://jakeseliger.com/2024/05/25/the-one-year-anniversary-of-my-total-glossectomy/)
@@ -24,10 +24,10 @@
 * [2024-05-26, 12:02:28](https://news.ycombinator.com/item?id=40481509) - [UpCodes (YC S17) is hiring remote SWEs, PMs to automate construction compliance](https://up.codes/careers?utm_source=HN)
 * [2024-05-26, 09:54:58](https://news.ycombinator.com/item?id=40480913) - [To the brain, reading computer code is not the same as reading language (2020)](https://news.mit.edu/2020/brain-reading-computer-code-1215)
 * [2024-05-26, 05:57:52](https://news.ycombinator.com/item?id=40480056) - [Hurl, the Exceptional Language](https://hurl.wtf/)
-* [2024-05-26, 05:44:47](https://news.ycombinator.com/item?id=40480016) - [Braid: Synchronization for HTTP](https://braid.org/)
+* [2024-05-26, 03:49:33](https://news.ycombinator.com/item?id=40479660) - [Phobos May Be a Captured Comet](https://arxiv.org/abs/2403.12156)
 * [2024-05-26, 00:54:23](https://news.ycombinator.com/item?id=40478976) - [GRC SpinRite](https://computer.rip/2024-05-25-grc-spinrite.html)
 * [2024-05-25, 23:11:59](https://news.ycombinator.com/item?id=40478530) - [Chickens in Trees](https://suziepetryk.com/blog/chickens.html)
-* [2024-05-25, 23:01:29](https://news.ycombinator.com/item?id=40478470) - [Simplicity – Google SRE Handbook (2017)](https://sre.google/sre-book/simplicity/)
+* [2024-05-24, 14:48:45](https://news.ycombinator.com/item?id=40466814) - [Helen Keller on her life before self-consciousness (1908)](http://scentofdawn.blogspot.com/2011/07/before-soul-dawn-helen-keller-on-her.html)
 * [2024-05-23, 23:58:11](https://news.ycombinator.com/item?id=40461351) - [A vintage 1903 espresso machine at a Village cafe (2012)](https://ephemeralnewyork.wordpress.com/2012/12/21/a-vintage-1903-espresso-machine-at-a-village-cafe/)
 * [2024-05-23, 23:41:02](https://news.ycombinator.com/item?id=40461223) - [Stark Industries Solutions: An Iron Hammer in the Cloud](https://krebsonsecurity.com/2024/05/stark-industries-solutions-an-iron-hammer-in-the-cloud/)
 
