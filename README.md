@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-27, 18:00:46](https://news.ycombinator.com/item?id=40493053) - [Guido van Rossum drops ownership of the core Python interpreter code](https://github.com/python/cpython/pull/119611)
+* [2024-05-27, 18:07:17](https://news.ycombinator.com/item?id=40493097) - [Mexico City could run out of water in a month unless it rains](https://www.businessinsider.com/mexico-city-water-crisis-day-zero-drought-rain-2024-5)
+* [2024-05-27, 18:00:46](https://news.ycombinator.com/item?id=40493053) - [Withdraw most of my ownership in favor of Mark](https://github.com/python/cpython/pull/119611)
 * [2024-05-27, 17:59:21](https://news.ycombinator.com/item?id=40493044) - [AI vs. a Giraffe with No Spots](https://www.aiweirdness.com/ai-vs-a-giraffe-with-no-spots/)
 * [2024-05-27, 17:30:43](https://news.ycombinator.com/item?id=40492834) - [Tantivy – full-text search engine library inspired by Apache Lucene](https://github.com/quickwit-oss/tantivy)
-* [2024-05-27, 17:09:37](https://news.ycombinator.com/item?id=40492648) - [Coursera on Red Teaming LLM Applications](https://www.coursera.org/projects/red-teaming-llm-applications)
 * [2024-05-27, 17:00:44](https://news.ycombinator.com/item?id=40492562) - [Brainbase (YC W24) Is Hiring](https://www.ycombinator.com/companies/brainbase/jobs/UUoqH3y-head-of-operations)
 * [2024-05-27, 16:55:59](https://news.ycombinator.com/item?id=40492515) - [Controlling the Taylor Swift Eras Tour Wristbands with Flipper Zero](https://blog.jgc.org/2024/05/controlling-taylor-swift-eras-tour.html)
 * [2024-05-27, 16:41:57](https://news.ycombinator.com/item?id=40492393) - [British Museum gems for sale on eBay – how a theft was exposed](https://www.bbc.co.uk/news/articles/cpegg27g74do)
@@ -13,12 +13,11 @@
 * [2024-05-27, 16:08:30](https://news.ycombinator.com/item?id=40492076) - [Internet Archive is under a DDoS attack](https://mastodon.archive.org/@internetarchive/112513905401989149)
 * [2024-05-27, 16:06:20](https://news.ycombinator.com/item?id=40492054) - [An adjustable filter that can prevent interference in the range 600 MHz to 6 GHz](https://blog.seas.upenn.edu/to-6g-and-beyond-penn-engineers-unlock-the-next-generation-of-wireless-communications/)
 * [2024-05-27, 15:56:24](https://news.ycombinator.com/item?id=40491957) - [Testing quantised inertia on Proxima Centauri](https://academic.oup.com/mnrasl/advance-article/doi/10.1093/mnrasl/slae047/7682393)
-* [2024-05-27, 15:31:24](https://news.ycombinator.com/item?id=40491694) - [Should I Use jwts For Authentication Tokens?](https://blog.ploetzli.ch/2024/should-i-use-jwt-for-authentication/)
+* [2024-05-27, 15:31:24](https://news.ycombinator.com/item?id=40491694) - [Should I use jwts for authentication tokens?](https://blog.ploetzli.ch/2024/should-i-use-jwt-for-authentication/)
 * [2024-05-27, 15:11:38](https://news.ycombinator.com/item?id=40491480) - [Instead of “auth”, we should say “permissions” and “login”](https://ntietz.com/blog/lets-say-instead-of-auth/)
 * [2024-05-27, 15:07:59](https://news.ycombinator.com/item?id=40491438) - [My BDFL guiding principles (cURL) – daniel.haxx.se](https://daniel.haxx.se/blog/2024/05/27/my-bdfl-guiding-principles/)
 * [2024-05-27, 15:02:19](https://news.ycombinator.com/item?id=40491377) - [How we enabled ARM64 VMs](https://www.ubicloud.com/blog/how-we-enabled-arm64-vms)
 * [2024-05-27, 13:42:22](https://news.ycombinator.com/item?id=40490630) - [Cobalt – lightweight HTML5 application container from YouTube](https://developers.google.com/youtube/cobalt)
-* [2024-05-27, 13:39:28](https://news.ycombinator.com/item?id=40490608) - [Show HN: Use Go's HTML/template to write React-like code](https://news.ycombinator.com/item?id=40490608)
 * [2024-05-27, 12:30:32](https://news.ycombinator.com/item?id=40490154) - [Linux virtual machines, with a focus on running containers](https://lima-vm.io/)
 * [2024-05-27, 11:44:07](https://news.ycombinator.com/item?id=40489885) - [Iconv, set the charset to RCE: Exploiting the glibc to hack the PHP engine](https://www.ambionics.io/blog/iconv-cve-2024-2961-p1)
 * [2024-05-27, 10:39:23](https://news.ycombinator.com/item?id=40489486) - [Possible association between tattoos and lymphoma revealed](https://www.lunduniversity.lu.se/article/possible-association-between-tattoos-and-lymphoma-revealed)
@@ -30,6 +29,7 @@
 * [2024-05-26, 20:55:22](https://news.ycombinator.com/item?id=40485313) - [The t-test was invented at the Guinness brewery](https://www.scientificamerican.com/article/how-the-guinness-brewery-invented-the-most-important-statistical-method-in/)
 * [2024-05-26, 19:12:58](https://news.ycombinator.com/item?id=40484591) - [What the damaged Svalbard cable looked like](https://www.nrk.no/tromsogfinnmark/this-is-what-the-damaged-svalbard-cable-looked-like-when-it-came-up-from-the-depths-1.16895904)
 * [2024-05-26, 07:03:05](https://news.ycombinator.com/item?id=40480242) - [Rete Algorithm](https://en.wikipedia.org/wiki/Rete_algorithm)
+* [2024-05-25, 13:20:15](https://news.ycombinator.com/item?id=40474915) - [Goodbye to My London Science Museum's 'Secret Life of the Home' Gallery [video]](https://www.youtube.com/watch?v=Kz5gBkZkKdg)
 
 ## [Archives](archives/index.md)
 
