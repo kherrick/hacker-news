@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-26, 23:34:32",
+      "https://news.ycombinator.com/item?id=40486307"
+    ],
+    [
+      "Nocobase, on prem Notion for creating production-ready apps",
+      "https://github.com/nocobase/nocobase"
+    ]
+  ],
+  [
+    [
       "2024-05-26, 23:04:07",
       "https://news.ycombinator.com/item?id=40486197"
     ],
@@ -97,16 +107,6 @@
     [
       "The Evolution of Lisp (1993) [pdf]",
       "https://redirect.cs.umbc.edu/courses/331/resources/papers/Evolution-of-Lisp.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-05-26, 17:31:58",
-      "https://news.ycombinator.com/item?id=40483882"
-    ],
-    [
-      "Amiga Minimig Ported to Tang Nano 20k FPGA",
-      "https://github.com/harbaum/NanoMig"
     ]
   ],
   [
