@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-27, 04:54:40](https://news.ycombinator.com/item?id=40487666) - [We need 70% less coders as the AI handles most of the coding](https://old.reddit.com/r/stocks/comments/1cmi5gj/bp_earnings_call_we_need_70_less_coders_from/)
+* [2024-05-27, 04:04:27](https://news.ycombinator.com/item?id=40487462) - [Google AI said to put glue in pizza – so I made a pizza with glue and ate it](https://www.businessinsider.com/google-ai-glue-pizza-i-tried-it-2024-5)
 * [2024-05-27, 04:03:31](https://news.ycombinator.com/item?id=40487460) - [Wiley shuts down 19 science journals and retracts 11,000 gobbledygook papers](https://joannenova.com.au/2024/05/so-much-for-peer-review-wiley-shuts-down-19-science-journals-and-retracts-11000-fraudulent-or-gobblygook-papers/)
 * [2024-05-27, 02:00:38](https://news.ycombinator.com/item?id=40486991) - [PcTattletale leaks victims' screen recordings to entire Internet](https://www.ericdaigle.ca/pctattletale-leaking-screen-captures/)
 * [2024-05-26, 23:04:07](https://news.ycombinator.com/item?id=40486197) - [Git cheat sheet [pdf]](https://wizardzines.com/git-cheat-sheet.pdf)
@@ -18,7 +20,6 @@
 * [2024-05-26, 13:51:16](https://news.ycombinator.com/item?id=40482192) - [Warhol and the Amiga](https://www.warhol.org/exhibition/warhol-and-the-amiga/)
 * [2024-05-26, 13:10:29](https://news.ycombinator.com/item?id=40481887) - [Periodic Table of the Elements, in Pictures and Words](https://elements.wlonk.com/)
 * [2024-05-26, 12:41:08](https://news.ycombinator.com/item?id=40481722) - [A journey to the medical netherworld (2016)](https://hazlitt.net/longreads/journey-medical-netherworld)
-* [2024-05-26, 12:35:51](https://news.ycombinator.com/item?id=40481686) - [Show HN: I generated API documentation for all Java packages](https://docland.io)
 * [2024-05-26, 12:14:19](https://news.ycombinator.com/item?id=40481578) - [Show HN: Boldly go where Gradient Descent has never gone before with DiscoGrad](https://github.com/DiscoGrad/DiscoGrad)
 * [2024-05-26, 12:02:28](https://news.ycombinator.com/item?id=40481509) - [UpCodes (YC S17) is hiring remote SWEs, PMs to automate construction compliance](https://up.codes/careers?utm_source=HN)
 * [2024-05-26, 09:54:58](https://news.ycombinator.com/item?id=40480913) - [To the brain, reading computer code is not the same as reading language (2020)](https://news.mit.edu/2020/brain-reading-computer-code-1215)
@@ -26,7 +27,6 @@
 * [2024-05-26, 03:49:33](https://news.ycombinator.com/item?id=40479660) - [Phobos photometric properties from Mars Express HRSC observations](https://arxiv.org/abs/2403.12156)
 * [2024-05-26, 00:54:23](https://news.ycombinator.com/item?id=40478976) - [GRC SpinRite](https://computer.rip/2024-05-25-grc-spinrite.html)
 * [2024-05-25, 23:11:59](https://news.ycombinator.com/item?id=40478530) - [Chickens in Trees](https://suziepetryk.com/blog/chickens.html)
-* [2024-05-24, 14:48:45](https://news.ycombinator.com/item?id=40466814) - [Helen Keller on her life before self-consciousness (1908)](http://scentofdawn.blogspot.com/2011/07/before-soul-dawn-helen-keller-on-her.html)
 * [2024-05-24, 04:22:43](https://news.ycombinator.com/item?id=40462780) - [World in a Box](https://placesjournal.org/article/social-history-of-the-cardboard-box/)
 * [2024-05-23, 23:58:11](https://news.ycombinator.com/item?id=40461351) - [A vintage 1903 espresso machine at a Village cafe (2012)](https://ephemeralnewyork.wordpress.com/2012/12/21/a-vintage-1903-espresso-machine-at-a-village-cafe/)
 * [2024-05-23, 23:41:02](https://news.ycombinator.com/item?id=40461223) - [Stark Industries Solutions: An Iron Hammer in the Cloud](https://krebsonsecurity.com/2024/05/stark-industries-solutions-an-iron-hammer-in-the-cloud/)
