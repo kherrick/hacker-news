@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2024-05-27, 15:56:24",
-      "https://news.ycombinator.com/item?id=40491957"
-    ],
-    [
-      "Testing quantised inertia on Proxima Centauri",
-      "https://academic.oup.com/mnrasl/advance-article/doi/10.1093/mnrasl/slae047/7682393"
-    ]
-  ],
-  [
-    [
       "2024-05-27, 15:50:34",
       "https://news.ycombinator.com/item?id=40491896"
     ],
@@ -197,6 +187,16 @@
     [
       "How many EV charging stations does the US need to replace gas stations?",
       "https://www.wired.com/story/how-many-charging-stations-would-we-need-to-totally-replace-gas-stations/"
+    ]
+  ],
+  [
+    [
+      "2024-05-27, 11:44:07",
+      "https://news.ycombinator.com/item?id=40489885"
+    ],
+    [
+      "Iconv, set the charset to RCE: Exploiting the glibc to hack the PHP engine",
+      "https://www.ambionics.io/blog/iconv-cve-2024-2961-p1"
     ]
   ],
   [
