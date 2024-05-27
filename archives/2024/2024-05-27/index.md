@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-27](index.md)
 
+* [2024-05-27, 15:11:38](https://news.ycombinator.com/item?id=40491480) - [Instead of \"auth\", we should say \"permissions\" and \"login\"](https://ntietz.com/blog/lets-say-instead-of-auth/)
 * [2024-05-27, 13:58:52](https://news.ycombinator.com/item?id=40490759) - [Yerba Mate: South America's Indigenous Tea, from Paraguay to Syria](https://globalvoices.org/2024/05/20/yerba-mate-south-americas-indigenous-tea-from-paraguay-to-syria/)
 * [2024-05-27, 13:42:22](https://news.ycombinator.com/item?id=40490630) - [Cobalt – lightweight HTML5 application container from YouTube](https://developers.google.com/youtube/cobalt)
 * [2024-05-27, 13:39:42](https://news.ycombinator.com/item?id=40490610) - [Priced out of home ownership – 'It makes me want to throw up'](https://www.bbc.co.uk/news/articles/cmj66r4lvzzo)

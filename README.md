@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-27, 15:11:38](https://news.ycombinator.com/item?id=40491480) - [Instead of \"auth\", we should say \"permissions\" and \"login\"](https://ntietz.com/blog/lets-say-instead-of-auth/)
 * [2024-05-27, 13:58:52](https://news.ycombinator.com/item?id=40490759) - [Yerba Mate: South America's Indigenous Tea, from Paraguay to Syria](https://globalvoices.org/2024/05/20/yerba-mate-south-americas-indigenous-tea-from-paraguay-to-syria/)
 * [2024-05-27, 13:42:22](https://news.ycombinator.com/item?id=40490630) - [Cobalt – lightweight HTML5 application container from YouTube](https://developers.google.com/youtube/cobalt)
 * [2024-05-27, 13:39:28](https://news.ycombinator.com/item?id=40490608) - [Show HN: Use Go's HTML/template to write React-like code](https://news.ycombinator.com/item?id=40490608)
@@ -13,7 +14,6 @@
 * [2024-05-27, 04:28:43](https://news.ycombinator.com/item?id=40487556) - [Braid-Text: Text Synchronization Libraries over Braid-HTTP](https://github.com/braid-org/braid-text)
 * [2024-05-27, 03:51:43](https://news.ycombinator.com/item?id=40487419) - [Is regulated BGP security coming?](https://blog.apnic.net/2024/05/23/is-regulated-bgp-security-coming/)
 * [2024-05-27, 02:00:38](https://news.ycombinator.com/item?id=40486991) - [PcTattletale leaks victims' screen recordings to entire Internet](https://www.ericdaigle.ca/pctattletale-leaking-screen-captures/)
-* [2024-05-26, 22:57:32](https://news.ycombinator.com/item?id=40486160) - [Evolution of the ELF object file format](https://maskray.me/blog/2024-05-26-evolution-of-elf-object-file-format)
 * [2024-05-26, 20:55:22](https://news.ycombinator.com/item?id=40485313) - [The t-test was invented at the Guinness brewery](https://www.scientificamerican.com/article/how-the-guinness-brewery-invented-the-most-important-statistical-method-in/)
 * [2024-05-26, 20:04:59](https://news.ycombinator.com/item?id=40484930) - [FILE_ID.DIZ Description (1994)](http://pcmicro.com/getdiz/file_id.html)
 * [2024-05-26, 19:46:37](https://news.ycombinator.com/item?id=40484802) - [Old dogs, new CSS tricks](https://mxb.dev/blog/old-dogs-new-css-tricks/)
