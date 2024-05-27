@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-27](index.md)
 
+* [2024-05-27, 13:42:22](https://news.ycombinator.com/item?id=40490630) - [Cobalt – lightweight HTML5 application container from YouTube](https://developers.google.com/youtube/cobalt)
+* [2024-05-27, 13:39:42](https://news.ycombinator.com/item?id=40490610) - [Priced out of home ownership – 'It makes me want to throw up'](https://www.bbc.co.uk/news/articles/cmj66r4lvzzo)
+* [2024-05-27, 13:39:28](https://news.ycombinator.com/item?id=40490608) - [Show HN: Use Go's HTML/template to write React-like code](https://news.ycombinator.com/item?id=40490608)
 * [2024-05-27, 12:55:56](https://news.ycombinator.com/item?id=40490313) - [Lufthansa brings the inflight experience to life with mixed reality](https://forwork.meta.com/case-studies/lufthansa-mixed-reality-inflight-experience/)
 * [2024-05-27, 12:12:32](https://news.ycombinator.com/item?id=40490045) - [Depression, schizophrenia and bipolar disorder linked with ancient viral DNA](https://theconversation.com/depression-schizophrenia-and-bipolar-disorder-linked-with-ancient-viral-dna-in-our-genome-new-research-230490)
 * [2024-05-27, 11:46:28](https://news.ycombinator.com/item?id=40489905) - [How Many EV Charging Stations Does the US Need to Replace Gas Stations?](https://www.wired.com/story/how-many-charging-stations-would-we-need-to-totally-replace-gas-stations/)
@@ -16,6 +19,7 @@
 * [2024-05-27, 08:30:05](https://news.ycombinator.com/item?id=40488844) - [Big Data Is Dead](https://motherduck.com/blog/big-data-is-dead/)
 * [2024-05-27, 08:19:33](https://news.ycombinator.com/item?id=40488785) - [Tesla 'self-driving' technology failed to detect a moving train ahead of a crash](https://www.nbcnews.com/tech/tech-news/tesla-owner-says-cars-self-driving-mode-fsd-train-crash-video-rcna153345)
 * [2024-05-27, 08:16:45](https://news.ycombinator.com/item?id=40488774) - [Twitter is now attention roulette and ultimately meaningless](https://playpermissionless.substack.com/p/twitter-is-now-attention-roulette)
+* [2024-05-27, 07:06:07](https://news.ycombinator.com/item?id=40488390) - [Why We're Turning Psychiatric Labels into Identities](https://www.newyorker.com/magazine/2024/05/13/why-were-turning-psychiatric-labels-into-identities)
 * [2024-05-27, 07:01:11](https://news.ycombinator.com/item?id=40488372) - [Meticulous (YC S21) is hiring to eliminate E2E tests](https://news.ycombinator.com/item?id=40488372)
 * [2024-05-27, 06:55:09](https://news.ycombinator.com/item?id=40488351) - [ESA two-part Proba-3 spacecraft is meant to create artificial solar eclipses](https://www.theverge.com/2024/4/3/24120149/european-space-agency-artificial-solar-eclipse-proba-3-spacecraft-corona-study)
 * [2024-05-27, 06:32:52](https://news.ycombinator.com/item?id=40488206) - [A Big Ring on the Sky](https://cosmosmagazine.com/space/astronomy/giant-structure-space-universe/)
