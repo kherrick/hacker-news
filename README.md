@@ -19,7 +19,6 @@
 * [2024-05-26, 17:48:59](https://news.ycombinator.com/item?id=40484007) - [The Evolution of Lisp (1993) [pdf]](https://redirect.cs.umbc.edu/courses/331/resources/papers/Evolution-of-Lisp.pdf)
 * [2024-05-26, 16:28:56](https://news.ycombinator.com/item?id=40483367) - [LO – simple WASM native language](https://github.com/glebbash/LO)
 * [2024-05-26, 15:22:02](https://news.ycombinator.com/item?id=40482833) - [Google Meet rolls out multi-device adaptive audio merging](https://workspaceupdates.googleblog.com/2024/05/google-meet-adaptive-audio.html)
-* [2024-05-26, 15:17:48](https://news.ycombinator.com/item?id=40482799) - [Mediocre Engineer's Guide to HTTPS](https://devonperoutky.super.site/blog-posts/mediocre-engineers-guide-to-https)
 * [2024-05-26, 13:10:29](https://news.ycombinator.com/item?id=40481887) - [Periodic Table of the Elements, in Pictures and Words (2005)](https://elements.wlonk.com/)
 * [2024-05-26, 12:14:19](https://news.ycombinator.com/item?id=40481578) - [Show HN: Boldly go where Gradient Descent has never gone before with DiscoGrad](https://github.com/DiscoGrad/DiscoGrad)
 * [2024-05-26, 09:54:58](https://news.ycombinator.com/item?id=40480913) - [To the brain, reading computer code is not the same as reading language (2020)](https://news.mit.edu/2020/brain-reading-computer-code-1215)
@@ -29,6 +28,7 @@
 * [2024-05-26, 05:45:56](https://news.ycombinator.com/item?id=40480022) - [The Perfect Voxel Engine (2021)](https://voxely.net/blog/the-perfect-voxel-engine/)
 * [2024-05-26, 05:42:46](https://news.ycombinator.com/item?id=40480011) - [An Introduction to Low-Latency Scripting for Game Engines](https://fwsgonzo.medium.com/an-introduction-to-low-latency-scripting-with-libriscv-ad0619edab40)
 * [2024-05-25, 23:11:59](https://news.ycombinator.com/item?id=40478530) - [Chickens in Trees](https://suziepetryk.com/blog/chickens.html)
+* [2024-05-23, 23:58:11](https://news.ycombinator.com/item?id=40461351) - [A vintage 1903 espresso machine at a Village cafe (2012)](https://ephemeralnewyork.wordpress.com/2012/12/21/a-vintage-1903-espresso-machine-at-a-village-cafe/)
 * [2024-05-23, 23:41:02](https://news.ycombinator.com/item?id=40461223) - [Stark Industries Solutions: An Iron Hammer in the Cloud](https://krebsonsecurity.com/2024/05/stark-industries-solutions-an-iron-hammer-in-the-cloud/)
 
 ## [Archives](archives/index.md)
