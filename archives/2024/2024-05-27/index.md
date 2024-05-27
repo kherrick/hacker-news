@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-27](index.md)
 
+* [2024-05-27, 08:19:33](https://news.ycombinator.com/item?id=40488785) - [Tesla 'self-driving' technology failed to detect a moving train ahead of a crash](https://www.nbcnews.com/tech/tech-news/tesla-owner-says-cars-self-driving-mode-fsd-train-crash-video-rcna153345)
 * [2024-05-27, 07:01:11](https://news.ycombinator.com/item?id=40488372) - [Meticulous (YC S21) is hiring to eliminate E2E tests](https://news.ycombinator.com/item?id=40488372)
 * [2024-05-27, 06:55:09](https://news.ycombinator.com/item?id=40488351) - [ESA two-part Proba-3 spacecraft is meant to create artificial solar eclipses](https://www.theverge.com/2024/4/3/24120149/european-space-agency-artificial-solar-eclipse-proba-3-spacecraft-corona-study)
 * [2024-05-27, 06:32:52](https://news.ycombinator.com/item?id=40488206) - [A Big Ring on the Sky](https://cosmosmagazine.com/space/astronomy/giant-structure-space-universe/)
