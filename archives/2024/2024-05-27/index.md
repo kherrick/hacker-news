@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-05-27](index.md)
 
 * [2024-05-27, 07:01:11](https://news.ycombinator.com/item?id=40488372) - [Meticulous (YC S21) is hiring to eliminate E2E tests](https://news.ycombinator.com/item?id=40488372)
+* [2024-05-27, 06:55:09](https://news.ycombinator.com/item?id=40488351) - [ESA two-part Proba-3 spacecraft is meant to create artificial solar eclipses](https://www.theverge.com/2024/4/3/24120149/european-space-agency-artificial-solar-eclipse-proba-3-spacecraft-corona-study)
+* [2024-05-27, 06:32:52](https://news.ycombinator.com/item?id=40488206) - [A Big Ring on the Sky](https://cosmosmagazine.com/space/astronomy/giant-structure-space-universe/)
 * [2024-05-27, 06:29:28](https://news.ycombinator.com/item?id=40488187) - [Alaska's Pristine Waterways Are Turning Orange](https://www.sciencealert.com/alaskas-pristine-waterways-are-turning-a-shocking-orange)
 * [2024-05-27, 05:30:32](https://news.ycombinator.com/item?id=40487844) - [X.ai: $6B Series B](https://x.ai/blog/series-b)
 * [2024-05-27, 04:54:40](https://news.ycombinator.com/item?id=40487666) - [We need 70% less coders as the AI handles most of the coding](https://old.reddit.com/r/stocks/comments/1cmi5gj/bp_earnings_call_we_need_70_less_coders_from/)
