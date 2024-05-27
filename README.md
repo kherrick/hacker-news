@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-27, 04:54:40](https://news.ycombinator.com/item?id=40487666) - [We need 70% less coders as the AI handles most of the coding](https://old.reddit.com/r/stocks/comments/1cmi5gj/bp_earnings_call_we_need_70_less_coders_from/)
 * [2024-05-27, 04:04:27](https://news.ycombinator.com/item?id=40487462) - [Google AI said to put glue in pizza – so I made a pizza with glue and ate it](https://www.businessinsider.com/google-ai-glue-pizza-i-tried-it-2024-5)
-* [2024-05-27, 04:03:31](https://news.ycombinator.com/item?id=40487460) - [Wiley shuts down 19 science journals and retracts 11,000 gobbledygook papers](https://joannenova.com.au/2024/05/so-much-for-peer-review-wiley-shuts-down-19-science-journals-and-retracts-11000-fraudulent-or-gobblygook-papers/)
+* [2024-05-27, 03:51:43](https://news.ycombinator.com/item?id=40487419) - [Is regulated BGP security coming?](https://blog.apnic.net/2024/05/23/is-regulated-bgp-security-coming/)
 * [2024-05-27, 02:00:38](https://news.ycombinator.com/item?id=40486991) - [PcTattletale leaks victims' screen recordings to entire Internet](https://www.ericdaigle.ca/pctattletale-leaking-screen-captures/)
 * [2024-05-26, 23:04:07](https://news.ycombinator.com/item?id=40486197) - [Git cheat sheet [pdf]](https://wizardzines.com/git-cheat-sheet.pdf)
 * [2024-05-26, 20:55:22](https://news.ycombinator.com/item?id=40485313) - [The t-test was invented at the Guinness brewery](https://www.scientificamerican.com/article/how-the-guinness-brewery-invented-the-most-important-statistical-method-in/)
@@ -14,6 +13,7 @@
 * [2024-05-26, 18:15:41](https://news.ycombinator.com/item?id=40484190) - [The CompCert C Compiler](https://compcert.org/compcert-C.html)
 * [2024-05-26, 17:48:59](https://news.ycombinator.com/item?id=40484007) - [The Evolution of Lisp (1993) [pdf]](https://redirect.cs.umbc.edu/courses/331/resources/papers/Evolution-of-Lisp.pdf)
 * [2024-05-26, 17:30:50](https://news.ycombinator.com/item?id=40483878) - [Self-hosted offline transcription and diarization service with LLM summary](https://github.com/transcriptionstream/transcriptionstream)
+* [2024-05-26, 17:28:12](https://news.ycombinator.com/item?id=40483855) - [Kernel developer write a USB driver in 3h for Apple Xserve front-panel [video]](https://www.youtube.com/watch?v=IXBC85SGC0Q)
 * [2024-05-26, 16:28:56](https://news.ycombinator.com/item?id=40483367) - [LO – simple WASM native language](https://github.com/glebbash/LO)
 * [2024-05-26, 15:22:02](https://news.ycombinator.com/item?id=40482833) - [Google Meet rolls out multi-device adaptive audio merging](https://workspaceupdates.googleblog.com/2024/05/google-meet-adaptive-audio.html)
 * [2024-05-26, 15:17:48](https://news.ycombinator.com/item?id=40482799) - [Mediocre Engineer's Guide to HTTPS](https://devonperoutky.super.site/blog-posts/mediocre-engineers-guide-to-https)
