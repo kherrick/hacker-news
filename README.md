@@ -2,6 +2,7 @@
 
 * [2024-05-27, 12:55:56](https://news.ycombinator.com/item?id=40490313) - [Lufthansa brings the inflight experience to life with mixed reality](https://forwork.meta.com/case-studies/lufthansa-mixed-reality-inflight-experience/)
 * [2024-05-27, 12:12:32](https://news.ycombinator.com/item?id=40490045) - [Depression, schizophrenia and bipolar disorder linked with ancient viral DNA](https://theconversation.com/depression-schizophrenia-and-bipolar-disorder-linked-with-ancient-viral-dna-in-our-genome-new-research-230490)
+* [2024-05-27, 10:39:23](https://news.ycombinator.com/item?id=40489486) - [Possible association between tattoos and lymphoma revealed](https://www.lunduniversity.lu.se/article/possible-association-between-tattoos-and-lymphoma-revealed)
 * [2024-05-27, 09:55:19](https://news.ycombinator.com/item?id=40489269) - [My new PSU burns out I fix it, and torture it by cracking water](https://tomscii.sig7.se/2024/05/PSU-burnout-and-torture-cracking-water)
 * [2024-05-27, 08:30:05](https://news.ycombinator.com/item?id=40488844) - [Big data is dead (2023)](https://motherduck.com/blog/big-data-is-dead/)
 * [2024-05-27, 07:01:11](https://news.ycombinator.com/item?id=40488372) - [Meticulous (YC S21) is hiring to eliminate E2E tests](https://news.ycombinator.com/item?id=40488372)
@@ -20,7 +21,6 @@
 * [2024-05-26, 17:30:50](https://news.ycombinator.com/item?id=40483878) - [Self-hosted offline transcription and diarization service with LLM summary](https://github.com/transcriptionstream/transcriptionstream)
 * [2024-05-26, 16:28:56](https://news.ycombinator.com/item?id=40483367) - [LO – simple WASM native language](https://github.com/glebbash/LO)
 * [2024-05-26, 15:22:02](https://news.ycombinator.com/item?id=40482833) - [Google Meet rolls out multi-device adaptive audio merging](https://workspaceupdates.googleblog.com/2024/05/google-meet-adaptive-audio.html)
-* [2024-05-26, 15:17:48](https://news.ycombinator.com/item?id=40482799) - [Mediocre Engineer's Guide to HTTPS](https://devonperoutky.super.site/blog-posts/mediocre-engineers-guide-to-https)
 * [2024-05-26, 13:10:29](https://news.ycombinator.com/item?id=40481887) - [Periodic Table of the Elements, in Pictures and Words (2005)](https://elements.wlonk.com/)
 * [2024-05-26, 12:14:19](https://news.ycombinator.com/item?id=40481578) - [Show HN: Boldly go where Gradient Descent has never gone before with DiscoGrad](https://github.com/DiscoGrad/DiscoGrad)
 * [2024-05-26, 09:54:58](https://news.ycombinator.com/item?id=40480913) - [To the brain, reading computer code is not the same as reading language (2020)](https://news.mit.edu/2020/brain-reading-computer-code-1215)
