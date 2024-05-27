@@ -70,6 +70,7 @@
 * [2024-05-26, 07:35:27](https://news.ycombinator.com/item?id=40480336) - [Show HN: Offline sketch to image geneartor in a whiteboard](https://drawing.pics)
 * [2024-05-26, 07:30:44](https://news.ycombinator.com/item?id=40480323) - [Turn Your iPhone into a Dumb Phone](https://dumbph.com/turn-iphone-into-dumb-phone)
 * [2024-05-26, 07:08:26](https://news.ycombinator.com/item?id=40480258) - ['I was misidentified as shoplifter by facial recognition tech'](https://www.bbc.co.uk/news/technology-69055945)
+* [2024-05-26, 07:03:05](https://news.ycombinator.com/item?id=40480242) - [Rete Algorithm](https://en.wikipedia.org/wiki/Rete_algorithm)
 * [2024-05-26, 06:50:57](https://news.ycombinator.com/item?id=40480209) - [Effects of $9 Price Endings in Retail: Evidence from Field Experiments [pdf]](https://www.kellogg.northwestern.edu/faculty/anderson_e/htm/PersonalPage_Files/Papers/Effects_of_9_Price_Endings_on_Retail_Sales.pdf)
 * [2024-05-26, 06:32:11](https://news.ycombinator.com/item?id=40480159) - [(FinTech) Synapse has collapsed, 10M consumers, 100s of fintechs in trouble](https://techcrunch.com/2024/05/25/with-a16z-backed-synapses-collapse-baas-fintech-is-a-mess-and-10-million-consumers-could-be-hurt/)
 * [2024-05-26, 06:23:10](https://news.ycombinator.com/item?id=40480136) - [MSI Teases Z790 Project Zero Plus Motherboard with CAMM2 Memory Support](https://www.anandtech.com/show/21410/msi-teases-z790-project-zero-plus-motherboard-camm2-memory-support)
