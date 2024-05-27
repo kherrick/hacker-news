@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-05-27, 16:08:05",
+      "https://news.ycombinator.com/item?id=40492069"
+    ],
+    [
+      "Researchers create dispersion-assisted photodetector to decipher high-dim light",
+      "https://phys.org/news/2024-05-dispersion-photodetector-decipher-high-dimensional.amp"
+    ]
+  ],
+  [
+    [
+      "2024-05-27, 15:31:24",
+      "https://news.ycombinator.com/item?id=40491694"
+    ],
+    [
+      "Should I Use jwts For Authentication Tokens?",
+      "https://blog.ploetzli.ch/2024/should-i-use-jwt-for-authentication/"
+    ]
+  ],
+  [
+    [
       "2024-05-27, 15:11:38",
       "https://news.ycombinator.com/item?id=40491480"
     ],
@@ -11,12 +31,12 @@
   ],
   [
     [
-      "2024-05-27, 14:40:07",
-      "https://news.ycombinator.com/item?id=40491163"
+      "2024-05-27, 15:07:59",
+      "https://news.ycombinator.com/item?id=40491438"
     ],
     [
-      "Cycling's Silent Epidemic: Labial swelling and pain in women",
-      "https://www.bicycling.com/health-nutrition/a60412469/cycling-saddle-pain-women-surgery/"
+      "My BDFL guiding principles (cURL) – daniel.haxx.se",
+      "https://daniel.haxx.se/blog/2024/05/27/my-bdfl-guiding-principles/"
     ]
   ],
   [
@@ -51,12 +71,32 @@
   ],
   [
     [
-      "2024-05-27, 12:12:32",
-      "https://news.ycombinator.com/item?id=40490045"
+      "2024-05-27, 13:39:28",
+      "https://news.ycombinator.com/item?id=40490608"
     ],
     [
-      "Depression, schizophrenia and bipolar disorder linked with ancient viral DNA",
-      "https://theconversation.com/depression-schizophrenia-and-bipolar-disorder-linked-with-ancient-viral-dna-in-our-genome-new-research-230490"
+      "Show HN: Use Go's HTML/template to write React-like code",
+      "https://news.ycombinator.com/item?id=40490608"
+    ]
+  ],
+  [
+    [
+      "2024-05-27, 12:30:32",
+      "https://news.ycombinator.com/item?id=40490154"
+    ],
+    [
+      "Linux virtual machines, with a focus on running containers",
+      "https://lima-vm.io/"
+    ]
+  ],
+  [
+    [
+      "2024-05-27, 11:44:07",
+      "https://news.ycombinator.com/item?id=40489885"
+    ],
+    [
+      "Iconv, set the charset to RCE: Exploiting the glibc to hack the PHP engine",
+      "https://www.ambionics.io/blog/iconv-cve-2024-2961-p1"
     ]
   ],
   [
@@ -81,16 +121,6 @@
   ],
   [
     [
-      "2024-05-27, 07:06:07",
-      "https://news.ycombinator.com/item?id=40488390"
-    ],
-    [
-      "Why We're Turning Psychiatric Labels into Identities",
-      "https://www.newyorker.com/magazine/2024/05/13/why-were-turning-psychiatric-labels-into-identities"
-    ]
-  ],
-  [
-    [
       "2024-05-27, 07:01:11",
       "https://news.ycombinator.com/item?id=40488372"
     ],
@@ -105,7 +135,7 @@
       "https://news.ycombinator.com/item?id=40488206"
     ],
     [
-      "Giant structure in space challenges understanding of the universe",
+      "A 1.3B-light-year-across ring of galaxies has confounded astronomers",
       "https://cosmosmagazine.com/space/astronomy/giant-structure-space-universe/"
     ]
   ],
@@ -191,42 +221,12 @@
   ],
   [
     [
-      "2024-05-26, 17:48:59",
-      "https://news.ycombinator.com/item?id=40484007"
-    ],
-    [
-      "The Evolution of Lisp (1993) [pdf]",
-      "https://redirect.cs.umbc.edu/courses/331/resources/papers/Evolution-of-Lisp.pdf"
-    ]
-  ],
-  [
-    [
       "2024-05-26, 16:28:56",
       "https://news.ycombinator.com/item?id=40483367"
     ],
     [
       "LO – simple WASM native language",
       "https://github.com/glebbash/LO"
-    ]
-  ],
-  [
-    [
-      "2024-05-26, 15:22:02",
-      "https://news.ycombinator.com/item?id=40482833"
-    ],
-    [
-      "Google Meet rolls out multi-device adaptive audio merging",
-      "https://workspaceupdates.googleblog.com/2024/05/google-meet-adaptive-audio.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-26, 13:10:29",
-      "https://news.ycombinator.com/item?id=40481887"
-    ],
-    [
-      "Periodic Table of the Elements, in Pictures and Words (2005)",
-      "https://elements.wlonk.com/"
     ]
   ],
   [
