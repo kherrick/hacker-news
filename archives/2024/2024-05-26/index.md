@@ -44,6 +44,7 @@
 * [2024-05-26, 14:35:46](https://news.ycombinator.com/item?id=40482486) - [More Falsehoods Programmers Believe About Time (2012)](https://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time)
 * [2024-05-26, 14:21:56](https://news.ycombinator.com/item?id=40482397) - [What Went Wrong with Federal Student Loans?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4826794)
 * [2024-05-26, 14:11:15](https://news.ycombinator.com/item?id=40482328) - [Feynman's Garden](https://www.marginalia.nu/log/a_108_feynman_revisited/)
+* [2024-05-26, 13:51:16](https://news.ycombinator.com/item?id=40482192) - [Warhol and the Amiga](https://www.warhol.org/exhibition/warhol-and-the-amiga/)
 * [2024-05-26, 13:43:01](https://news.ycombinator.com/item?id=40482129) - [Integrating AI CodeGen with Low Code Application Development](https://blog.codesolvent.com/2024/05/integrating-ai-codegen-with-low-code.html)
 * [2024-05-26, 13:38:55](https://news.ycombinator.com/item?id=40482095) - [Talkd/dialog open source project has been selected for 2024 GitHub Accelerator](https://github.com/talkdai/dialog)
 * [2024-05-26, 13:28:54](https://news.ycombinator.com/item?id=40482016) - [Microsoft to Deprecate VBScript](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/vbscript-deprecation-timelines-and-next-steps/ba-p/4148301)
