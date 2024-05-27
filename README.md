@@ -24,11 +24,11 @@
 * [2024-05-26, 09:54:58](https://news.ycombinator.com/item?id=40480913) - [To the brain, reading computer code is not the same as reading language (2020)](https://news.mit.edu/2020/brain-reading-computer-code-1215)
 * [2024-05-26, 05:57:52](https://news.ycombinator.com/item?id=40480056) - [Hurl, the Exceptional Language](https://hurl.wtf/)
 * [2024-05-26, 05:44:47](https://news.ycombinator.com/item?id=40480016) - [Braid: Synchronization for HTTP](https://braid.org/)
+* [2024-05-25, 23:11:59](https://news.ycombinator.com/item?id=40478530) - [Chickens in Trees](https://suziepetryk.com/blog/chickens.html)
 * [2024-05-25, 23:01:29](https://news.ycombinator.com/item?id=40478470) - [Simplicity – Google SRE Handbook (2017)](https://sre.google/sre-book/simplicity/)
 * [2024-05-23, 23:58:11](https://news.ycombinator.com/item?id=40461351) - [A vintage 1903 espresso machine at a Village cafe (2012)](https://ephemeralnewyork.wordpress.com/2012/12/21/a-vintage-1903-espresso-machine-at-a-village-cafe/)
 * [2024-05-23, 23:41:02](https://news.ycombinator.com/item?id=40461223) - [Stark Industries Solutions: An Iron Hammer in the Cloud](https://krebsonsecurity.com/2024/05/stark-industries-solutions-an-iron-hammer-in-the-cloud/)
 * [2024-05-23, 18:30:43](https://news.ycombinator.com/item?id=40458142) - [Psyche-C: automatic compilation of partially-available C programs](http://cuda.dcc.ufmg.br/psyche-c/)
-* [2024-05-23, 16:01:29](https://news.ycombinator.com/item?id=40456393) - [Chickens in Trees](https://suziepetryk.com/blog/chickens.html)
 * [2024-05-23, 15:35:40](https://news.ycombinator.com/item?id=40456020) - [Tracking Releases and CI Across Software Teams and Forges](https://jnsgr.uk/2024/05/tracking-software-across-teams/)
 
 ## [Archives](archives/index.md)
