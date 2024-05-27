@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-27, 18:03:36](https://news.ycombinator.com/item?id=40493074) - [More Itertools](https://more-itertools.readthedocs.io/en/stable/)
-* [2024-05-27, 18:00:46](https://news.ycombinator.com/item?id=40493053) - [Withdraw most of my ownership in favor of Mark](https://github.com/python/cpython/pull/119611)
 * [2024-05-27, 17:30:43](https://news.ycombinator.com/item?id=40492834) - [Tantivy – full-text search engine library inspired by Apache Lucene](https://github.com/quickwit-oss/tantivy)
 * [2024-05-27, 17:00:44](https://news.ycombinator.com/item?id=40492562) - [Brainbase (YC W24) Is Hiring](https://www.ycombinator.com/companies/brainbase/jobs/UUoqH3y-head-of-operations)
 * [2024-05-27, 16:55:59](https://news.ycombinator.com/item?id=40492515) - [Controlling the Taylor Swift Eras Tour wristbands with Flipper Zero](https://blog.jgc.org/2024/05/controlling-taylor-swift-eras-tour.html)
@@ -27,6 +26,7 @@
 * [2024-05-27, 08:30:05](https://news.ycombinator.com/item?id=40488844) - [Big data is dead (2023)](https://motherduck.com/blog/big-data-is-dead/)
 * [2024-05-27, 06:32:52](https://news.ycombinator.com/item?id=40488206) - [A 1.3B-light-year-across ring of galaxies has confounded astronomers](https://cosmosmagazine.com/space/astronomy/giant-structure-space-universe/)
 * [2024-05-26, 22:42:36](https://news.ycombinator.com/item?id=40486068) - [Evolution of the ELF object file format](https://maskray.me/blog/2024-05-26-evolution-of-elf-object-file-format)
+* [2024-05-26, 19:12:58](https://news.ycombinator.com/item?id=40484591) - [What the damaged Svalbard cable looked like](https://www.nrk.no/tromsogfinnmark/this-is-what-the-damaged-svalbard-cable-looked-like-when-it-came-up-from-the-depths-1.16895904)
 * [2024-05-26, 18:05:20](https://news.ycombinator.com/item?id=40484119) - [Long distance sound localization with the Raspberry Pi](https://medium.com/@kim_94237/tdoa-sound-localization-with-the-raspberry-pi-3e777469c4fa)
 * [2024-05-26, 07:03:05](https://news.ycombinator.com/item?id=40480242) - [Rete algorithm](https://en.wikipedia.org/wiki/Rete_algorithm)
 * [2024-05-26, 05:42:46](https://news.ycombinator.com/item?id=40480011) - [Low-latency scripting for game engines](https://fwsgonzo.medium.com/an-introduction-to-low-latency-scripting-with-libriscv-ad0619edab40)
