@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-27, 21:15:40](https://news.ycombinator.com/item?id=40494793) - [Notepad Tab](https://notepadtab.com/)
 * [2024-05-27, 20:13:20](https://news.ycombinator.com/item?id=40494216) - [Regular Expression Matching with a Trigram Index (2012)](https://swtch.com/~rsc/regexp/regexp4.html)
 * [2024-05-27, 20:00:11](https://news.ycombinator.com/item?id=40494097) - [GTFL – A Graphical Terminal for Common Lisp](http://www.martin-loetzsch.de/gtfl/)
 * [2024-05-27, 18:03:36](https://news.ycombinator.com/item?id=40493074) - [More Itertools](https://more-itertools.readthedocs.io/en/stable/)
@@ -22,7 +23,6 @@
 * [2024-05-27, 11:01:01](https://news.ycombinator.com/item?id=40489596) - [Resume Tip: Hacking \"AI\" screening of resumes](https://www.solipsys.co.uk/images/ResumeTip.png)
 * [2024-05-27, 10:39:23](https://news.ycombinator.com/item?id=40489486) - [Possible association between tattoos and lymphoma](https://www.lunduniversity.lu.se/article/possible-association-between-tattoos-and-lymphoma-revealed)
 * [2024-05-27, 09:55:19](https://news.ycombinator.com/item?id=40489269) - [My new PSU burns out – I fix it, and torture it by cracking water](https://tomscii.sig7.se/2024/05/PSU-burnout-and-torture-cracking-water)
-* [2024-05-27, 08:30:05](https://news.ycombinator.com/item?id=40488844) - [Big data is dead (2023)](https://motherduck.com/blog/big-data-is-dead/)
 * [2024-05-27, 06:32:52](https://news.ycombinator.com/item?id=40488206) - [A 1.3B-light-year-across ring of galaxies has confounded astronomers](https://cosmosmagazine.com/space/astronomy/giant-structure-space-universe/)
 * [2024-05-26, 22:42:36](https://news.ycombinator.com/item?id=40486068) - [Evolution of the ELF object file format](https://maskray.me/blog/2024-05-26-evolution-of-elf-object-file-format)
 * [2024-05-26, 18:05:20](https://news.ycombinator.com/item?id=40484119) - [Long distance sound localization with the Raspberry Pi](https://medium.com/@kim_94237/tdoa-sound-localization-with-the-raspberry-pi-3e777469c4fa)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-27](index.md)
 
+* [2024-05-27, 21:15:40](https://news.ycombinator.com/item?id=40494793) - [Notepad Tab](https://notepadtab.com/)
 * [2024-05-27, 20:13:20](https://news.ycombinator.com/item?id=40494216) - [Regular Expression Matching with a Trigram Index (2012)](https://swtch.com/~rsc/regexp/regexp4.html)
 * [2024-05-27, 20:00:11](https://news.ycombinator.com/item?id=40494097) - [GTFL – A Graphical Terminal for Common Lisp](http://www.martin-loetzsch.de/gtfl/)
 * [2024-05-27, 19:41:57](https://news.ycombinator.com/item?id=40493911) - [ADHD traits were an advantage in evolution](https://www.washingtonpost.com/wellness/2024/02/21/adhd-traits-advantage-evolution-humans/)
