@@ -6,6 +6,7 @@
 
 * [2024-05-27, 12:55:56](https://news.ycombinator.com/item?id=40490313) - [Lufthansa brings the inflight experience to life with mixed reality](https://forwork.meta.com/case-studies/lufthansa-mixed-reality-inflight-experience/)
 * [2024-05-27, 12:12:32](https://news.ycombinator.com/item?id=40490045) - [Depression, schizophrenia and bipolar disorder linked with ancient viral DNA](https://theconversation.com/depression-schizophrenia-and-bipolar-disorder-linked-with-ancient-viral-dna-in-our-genome-new-research-230490)
+* [2024-05-27, 11:46:28](https://news.ycombinator.com/item?id=40489905) - [How Many EV Charging Stations Does the US Need to Replace Gas Stations?](https://www.wired.com/story/how-many-charging-stations-would-we-need-to-totally-replace-gas-stations/)
 * [2024-05-27, 11:01:01](https://news.ycombinator.com/item?id=40489596) - [Resume Tip: Hacking \"AI\" screening of resumes](https://www.solipsys.co.uk/images/ResumeTip.png)
 * [2024-05-27, 10:39:23](https://news.ycombinator.com/item?id=40489486) - [Possible association between tattoos and lymphoma revealed](https://www.lunduniversity.lu.se/article/possible-association-between-tattoos-and-lymphoma-revealed)
 * [2024-05-27, 09:55:19](https://news.ycombinator.com/item?id=40489269) - [My new PSU burns out I fix it, and torture it by cracking water](https://tomscii.sig7.se/2024/05/PSU-burnout-and-torture-cracking-water)
