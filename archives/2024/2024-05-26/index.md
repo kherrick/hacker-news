@@ -76,6 +76,7 @@
 * [2024-05-26, 05:57:52](https://news.ycombinator.com/item?id=40480056) - [Hurl, the Exceptional Language](https://hurl.wtf/)
 * [2024-05-26, 05:45:56](https://news.ycombinator.com/item?id=40480022) - [The Perfect Voxel Engine (2021)](https://voxely.net/blog/the-perfect-voxel-engine/)
 * [2024-05-26, 05:44:47](https://news.ycombinator.com/item?id=40480016) - [Braid: Synchronization for HTTP](https://braid.org/)
+* [2024-05-26, 05:42:46](https://news.ycombinator.com/item?id=40480011) - [An Introduction to Low-Latency Scripting for Game Engines](https://fwsgonzo.medium.com/an-introduction-to-low-latency-scripting-with-libriscv-ad0619edab40)
 * [2024-05-26, 05:24:32](https://news.ycombinator.com/item?id=40479947) - [Hacking phones is too easy. Time to make it harder](https://www.economist.com/leaders/2024/05/23/hacking-phones-is-too-easy-time-to-make-it-harder)
 * [2024-05-26, 04:15:03](https://news.ycombinator.com/item?id=40479747) - [I was at Woodstock '99 and it destroyed my innocence](https://www.kerrang.com/i-was-at-woodstock-99-and-it-destroyed-my-innocence)
 * [2024-05-26, 04:10:01](https://news.ycombinator.com/item?id=40479729) - [How Home Assistant is being used to protect from missile and drone attacks](https://denysdovhan.com/home-assistant-config/config/war/)
