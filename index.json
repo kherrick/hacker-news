@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-27, 15:11:38",
+      "https://news.ycombinator.com/item?id=40491480"
+    ],
+    [
+      "Instead of \"auth\", we should say \"permissions\" and \"login\"",
+      "https://ntietz.com/blog/lets-say-instead-of-auth/"
+    ]
+  ],
+  [
+    [
       "2024-05-27, 13:58:52",
       "https://news.ycombinator.com/item?id=40490759"
     ],
@@ -127,16 +137,6 @@
     [
       "PcTattletale leaks victims' screen recordings to entire Internet",
       "https://www.ericdaigle.ca/pctattletale-leaking-screen-captures/"
-    ]
-  ],
-  [
-    [
-      "2024-05-26, 22:57:32",
-      "https://news.ycombinator.com/item?id=40486160"
-    ],
-    [
-      "Evolution of the ELF object file format",
-      "https://maskray.me/blog/2024-05-26-evolution-of-elf-object-file-format"
     ]
   ],
   [
