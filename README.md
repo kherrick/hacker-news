@@ -10,6 +10,7 @@
 * [2024-05-27, 04:28:43](https://news.ycombinator.com/item?id=40487556) - [Braid-Text: Text Synchronization Libraries over Braid-HTTP](https://github.com/braid-org/braid-text)
 * [2024-05-27, 03:51:43](https://news.ycombinator.com/item?id=40487419) - [Is regulated BGP security coming?](https://blog.apnic.net/2024/05/23/is-regulated-bgp-security-coming/)
 * [2024-05-27, 02:00:38](https://news.ycombinator.com/item?id=40486991) - [PcTattletale leaks victims' screen recordings to entire Internet](https://www.ericdaigle.ca/pctattletale-leaking-screen-captures/)
+* [2024-05-26, 23:15:37](https://news.ycombinator.com/item?id=40486242) - [Apple signs deal with OpenAI for iOS, still wants Google as an 'option'](https://www.androidauthority.com/apple-signs-deal-openai-iphones-3446254/)
 * [2024-05-26, 20:55:22](https://news.ycombinator.com/item?id=40485313) - [The t-test was invented at the Guinness brewery](https://www.scientificamerican.com/article/how-the-guinness-brewery-invented-the-most-important-statistical-method-in/)
 * [2024-05-26, 20:46:50](https://news.ycombinator.com/item?id=40485246) - [The one-year anniversary of my total glossectomy](https://jakeseliger.com/2024/05/25/the-one-year-anniversary-of-my-total-glossectomy/)
 * [2024-05-26, 20:04:59](https://news.ycombinator.com/item?id=40484930) - [FILE_ID.DIZ Description (1994)](http://pcmicro.com/getdiz/file_id.html)
@@ -28,7 +29,6 @@
 * [2024-05-26, 05:45:56](https://news.ycombinator.com/item?id=40480022) - [The Perfect Voxel Engine (2021)](https://voxely.net/blog/the-perfect-voxel-engine/)
 * [2024-05-26, 05:42:46](https://news.ycombinator.com/item?id=40480011) - [An Introduction to Low-Latency Scripting for Game Engines](https://fwsgonzo.medium.com/an-introduction-to-low-latency-scripting-with-libriscv-ad0619edab40)
 * [2024-05-25, 23:11:59](https://news.ycombinator.com/item?id=40478530) - [Chickens in Trees](https://suziepetryk.com/blog/chickens.html)
-* [2024-05-23, 23:58:11](https://news.ycombinator.com/item?id=40461351) - [A vintage 1903 espresso machine at a Village cafe (2012)](https://ephemeralnewyork.wordpress.com/2012/12/21/a-vintage-1903-espresso-machine-at-a-village-cafe/)
 * [2024-05-23, 23:41:02](https://news.ycombinator.com/item?id=40461223) - [Stark Industries Solutions: An Iron Hammer in the Cloud](https://krebsonsecurity.com/2024/05/stark-industries-solutions-an-iron-hammer-in-the-cloud/)
 
 ## [Archives](archives/index.md)
