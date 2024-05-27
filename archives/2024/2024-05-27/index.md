@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-27](index.md)
 
 * [2024-05-27, 18:07:17](https://news.ycombinator.com/item?id=40493097) - [Mexico City could run out of water in a month unless it rains](https://www.businessinsider.com/mexico-city-water-crisis-day-zero-drought-rain-2024-5)
+* [2024-05-27, 18:03:36](https://news.ycombinator.com/item?id=40493074) - [More Itertools](https://more-itertools.readthedocs.io/en/stable/)
 * [2024-05-27, 18:00:46](https://news.ycombinator.com/item?id=40493053) - [Guido van Rossum drops ownership of the core Python interpreter code](https://github.com/python/cpython/pull/119611)
 * [2024-05-27, 17:59:21](https://news.ycombinator.com/item?id=40493044) - [AI vs. a Giraffe with No Spots](https://www.aiweirdness.com/ai-vs-a-giraffe-with-no-spots/)
 * [2024-05-27, 17:35:41](https://news.ycombinator.com/item?id=40492871) - [Genocide in Rafah and the ICJ](https://www.craigmurray.org.uk/archives/2024/05/genocide-in-rafah-and-the-icj/)
