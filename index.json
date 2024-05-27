@@ -1,11 +1,21 @@
 [
   [
     [
+      "2024-05-27, 18:07:17",
+      "https://news.ycombinator.com/item?id=40493097"
+    ],
+    [
+      "Mexico City could run out of water in a month unless it rains",
+      "https://www.businessinsider.com/mexico-city-water-crisis-day-zero-drought-rain-2024-5"
+    ]
+  ],
+  [
+    [
       "2024-05-27, 18:00:46",
       "https://news.ycombinator.com/item?id=40493053"
     ],
     [
-      "Guido van Rossum drops ownership of the core Python interpreter code",
+      "Withdraw most of my ownership in favor of Mark",
       "https://github.com/python/cpython/pull/119611"
     ]
   ],
@@ -27,16 +37,6 @@
     [
       "Tantivy – full-text search engine library inspired by Apache Lucene",
       "https://github.com/quickwit-oss/tantivy"
-    ]
-  ],
-  [
-    [
-      "2024-05-27, 17:09:37",
-      "https://news.ycombinator.com/item?id=40492648"
-    ],
-    [
-      "Coursera on Red Teaming LLM Applications",
-      "https://www.coursera.org/projects/red-teaming-llm-applications"
     ]
   ],
   [
@@ -135,7 +135,7 @@
       "https://news.ycombinator.com/item?id=40491694"
     ],
     [
-      "Should I Use jwts For Authentication Tokens?",
+      "Should I use jwts for authentication tokens?",
       "https://blog.ploetzli.ch/2024/should-i-use-jwt-for-authentication/"
     ]
   ],
@@ -177,16 +177,6 @@
     [
       "Cobalt – lightweight HTML5 application container from YouTube",
       "https://developers.google.com/youtube/cobalt"
-    ]
-  ],
-  [
-    [
-      "2024-05-27, 13:39:28",
-      "https://news.ycombinator.com/item?id=40490608"
-    ],
-    [
-      "Show HN: Use Go's HTML/template to write React-like code",
-      "https://news.ycombinator.com/item?id=40490608"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Rete Algorithm",
       "https://en.wikipedia.org/wiki/Rete_algorithm"
+    ]
+  ],
+  [
+    [
+      "2024-05-25, 13:20:15",
+      "https://news.ycombinator.com/item?id=40474915"
+    ],
+    [
+      "Goodbye to My London Science Museum's 'Secret Life of the Home' Gallery [video]",
+      "https://www.youtube.com/watch?v=Kz5gBkZkKdg"
     ]
   ]
 ]
