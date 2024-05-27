@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-27, 17:09:37](https://news.ycombinator.com/item?id=40492648) - [Coursera on Red Teaming LLM Applications](https://www.coursera.org/projects/red-teaming-llm-applications)
+* [2024-05-27, 17:30:43](https://news.ycombinator.com/item?id=40492834) - [Tantivy – full-text search engine library inspired by Apache Lucene](https://github.com/quickwit-oss/tantivy)
 * [2024-05-27, 17:00:44](https://news.ycombinator.com/item?id=40492562) - [Brainbase (YC W24) Is Hiring](https://www.ycombinator.com/companies/brainbase/jobs/UUoqH3y-head-of-operations)
 * [2024-05-27, 16:55:59](https://news.ycombinator.com/item?id=40492515) - [Controlling the Taylor Swift Eras Tour Wristbands with Flipper Zero](https://blog.jgc.org/2024/05/controlling-taylor-swift-eras-tour.html)
 * [2024-05-27, 16:41:57](https://news.ycombinator.com/item?id=40492393) - [British Museum gems for sale on eBay – how a theft was exposed](https://www.bbc.co.uk/news/articles/cpegg27g74do)
