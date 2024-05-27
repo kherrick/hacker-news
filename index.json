@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2024-05-27, 04:28:43",
+      "https://news.ycombinator.com/item?id=40487556"
+    ],
+    [
+      "Braid-Text: Text Synchronization Libraries over Braid-HTTP",
+      "https://github.com/braid-org/braid-text"
+    ]
+  ],
+  [
+    [
       "2024-05-27, 03:51:43",
       "https://news.ycombinator.com/item?id=40487419"
     ],
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2024-05-26, 12:41:08",
-      "https://news.ycombinator.com/item?id=40481722"
-    ],
-    [
-      "A journey to the medical netherworld (2016)",
-      "https://hazlitt.net/longreads/journey-medical-netherworld"
-    ]
-  ],
-  [
-    [
       "2024-05-26, 12:14:19",
       "https://news.ycombinator.com/item?id=40481578"
     ],
@@ -251,22 +251,22 @@
   ],
   [
     [
-      "2024-05-26, 05:57:52",
-      "https://news.ycombinator.com/item?id=40480056"
-    ],
-    [
-      "Hurl, the Exceptional Language",
-      "https://hurl.wtf/"
-    ]
-  ],
-  [
-    [
       "2024-05-26, 05:45:56",
       "https://news.ycombinator.com/item?id=40480022"
     ],
     [
       "The Perfect Voxel Engine (2021)",
       "https://voxely.net/blog/the-perfect-voxel-engine/"
+    ]
+  ],
+  [
+    [
+      "2024-05-26, 05:42:46",
+      "https://news.ycombinator.com/item?id=40480011"
+    ],
+    [
+      "An Introduction to Low-Latency Scripting for Game Engines",
+      "https://fwsgonzo.medium.com/an-introduction-to-low-latency-scripting-with-libriscv-ad0619edab40"
     ]
   ],
   [
