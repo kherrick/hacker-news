@@ -1,12 +1,32 @@
 [
   [
     [
-      "2024-05-27, 16:28:50",
-      "https://news.ycombinator.com/item?id=40492263"
+      "2024-05-27, 16:32:26",
+      "https://news.ycombinator.com/item?id=40492300"
     ],
     [
-      "How to Survive the Election",
-      "https://unherd.com/2024/05/17-useful-concepts-to-survive-the-election/"
+      "Helix-gpui: helix gpui front end",
+      "https://github.com/polachok/helix-gpui"
+    ]
+  ],
+  [
+    [
+      "2024-05-27, 16:28:50",
+      "https://news.ycombinator.com/item?id=40492264"
+    ],
+    [
+      "The Internet Archive is under a DDoS attack",
+      "https://bsky.app/profile/archive.org/post/3ktiatctiqm2r"
+    ]
+  ],
+  [
+    [
+      "2024-05-27, 16:08:30",
+      "https://news.ycombinator.com/item?id=40492076"
+    ],
+    [
+      "Internet Archive is under a DDoS attack",
+      "https://mastodon.archive.org/@internetarchive/112513905401989149"
     ]
   ],
   [
@@ -77,6 +97,16 @@
     [
       "My BDFL guiding principles (cURL) – daniel.haxx.se",
       "https://daniel.haxx.se/blog/2024/05/27/my-bdfl-guiding-principles/"
+    ]
+  ],
+  [
+    [
+      "2024-05-27, 15:02:19",
+      "https://news.ycombinator.com/item?id=40491377"
+    ],
+    [
+      "How we enabled ARM64 VMs",
+      "https://www.ubicloud.com/blog/how-we-enabled-arm64-vms"
     ]
   ],
   [
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2024-05-27, 03:51:43",
-      "https://news.ycombinator.com/item?id=40487419"
-    ],
-    [
-      "Is regulated BGP security coming?",
-      "https://blog.apnic.net/2024/05/23/is-regulated-bgp-security-coming/"
-    ]
-  ],
-  [
-    [
       "2024-05-27, 02:00:38",
       "https://news.ycombinator.com/item?id=40486991"
     ],
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2024-05-26, 19:46:37",
-      "https://news.ycombinator.com/item?id=40484802"
-    ],
-    [
-      "Old dogs, new CSS tricks",
-      "https://mxb.dev/blog/old-dogs-new-css-tricks/"
-    ]
-  ],
-  [
-    [
       "2024-05-26, 19:12:58",
       "https://news.ycombinator.com/item?id=40484591"
     ],
@@ -257,16 +267,6 @@
     [
       "The CompCert C Compiler",
       "https://compcert.org/compcert-C.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-26, 12:14:19",
-      "https://news.ycombinator.com/item?id=40481578"
-    ],
-    [
-      "Show HN: Boldly go where Gradient Descent has never gone before with DiscoGrad",
-      "https://github.com/DiscoGrad/DiscoGrad"
     ]
   ],
   [
