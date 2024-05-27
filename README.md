@@ -1,10 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-27, 17:09:37](https://news.ycombinator.com/item?id=40492648) - [Coursera on Red Teaming LLM Applications](https://www.coursera.org/projects/red-teaming-llm-applications)
 * [2024-05-27, 17:00:44](https://news.ycombinator.com/item?id=40492562) - [Brainbase (YC W24) Is Hiring](https://www.ycombinator.com/companies/brainbase/jobs/UUoqH3y-head-of-operations)
 * [2024-05-27, 16:55:59](https://news.ycombinator.com/item?id=40492515) - [Controlling the Taylor Swift Eras Tour Wristbands with Flipper Zero](https://blog.jgc.org/2024/05/controlling-taylor-swift-eras-tour.html)
 * [2024-05-27, 16:41:57](https://news.ycombinator.com/item?id=40492393) - [British Museum gems for sale on eBay – how a theft was exposed](https://www.bbc.co.uk/news/articles/cpegg27g74do)
 * [2024-05-27, 16:32:26](https://news.ycombinator.com/item?id=40492300) - [Helix-gpui: helix gpui front end](https://github.com/polachok/helix-gpui)
 * [2024-05-27, 16:28:50](https://news.ycombinator.com/item?id=40492264) - [The Internet Archive is under a DDoS attack](https://bsky.app/profile/archive.org/post/3ktiatctiqm2r)
+* [2024-05-27, 16:25:53](https://news.ycombinator.com/item?id=40492234) - [Surveilling the Masses with Wi-Fi-Based Positioning Systems](https://arxiv.org/abs/2405.14975)
 * [2024-05-27, 16:08:30](https://news.ycombinator.com/item?id=40492076) - [Internet Archive is under a DDoS attack](https://mastodon.archive.org/@internetarchive/112513905401989149)
 * [2024-05-27, 16:06:20](https://news.ycombinator.com/item?id=40492054) - [An adjustable filter that can prevent interference in the range 600 MHz to 6 GHz](https://blog.seas.upenn.edu/to-6g-and-beyond-penn-engineers-unlock-the-next-generation-of-wireless-communications/)
 * [2024-05-27, 15:56:24](https://news.ycombinator.com/item?id=40491957) - [Testing quantised inertia on Proxima Centauri](https://academic.oup.com/mnrasl/advance-article/doi/10.1093/mnrasl/slae047/7682393)
@@ -28,8 +30,6 @@
 * [2024-05-26, 19:12:58](https://news.ycombinator.com/item?id=40484591) - [What the damaged Svalbard cable looked like](https://www.nrk.no/tromsogfinnmark/this-is-what-the-damaged-svalbard-cable-looked-like-when-it-came-up-from-the-depths-1.16895904)
 * [2024-05-26, 18:15:41](https://news.ycombinator.com/item?id=40484190) - [The CompCert C Compiler](https://compcert.org/compcert-C.html)
 * [2024-05-26, 07:03:05](https://news.ycombinator.com/item?id=40480242) - [Rete Algorithm](https://en.wikipedia.org/wiki/Rete_algorithm)
-* [2024-05-26, 05:45:56](https://news.ycombinator.com/item?id=40480022) - [The Perfect Voxel Engine (2021)](https://voxely.net/blog/the-perfect-voxel-engine/)
-* [2024-05-25, 23:11:59](https://news.ycombinator.com/item?id=40478530) - [Chickens in Trees](https://suziepetryk.com/blog/chickens.html)
 
 ## [Archives](archives/index.md)
 
