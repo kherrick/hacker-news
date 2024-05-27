@@ -1,32 +1,12 @@
 [
   [
     [
-      "2024-05-26, 23:06:17",
-      "https://news.ycombinator.com/item?id=40486205"
-    ],
-    [
-      "Netflix is removing offline downloads from its Windows app",
-      "https://twitter.com/ArtemR/status/1794513583650329036"
-    ]
-  ],
-  [
-    [
       "2024-05-26, 23:04:07",
       "https://news.ycombinator.com/item?id=40486197"
     ],
     [
-      "Julia Evans' Git Cheat Sheet [pdf]",
+      "Git cheat sheet [pdf]",
       "https://wizardzines.com/git-cheat-sheet.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-05-26, 22:59:21",
-      "https://news.ycombinator.com/item?id=40486168"
-    ],
-    [
-      "API Governance Delivers Quality",
-      "https://apichangelog.substack.com/p/api-governance-delivers-quality"
     ]
   ],
   [
@@ -35,7 +15,7 @@
       "https://news.ycombinator.com/item?id=40486016"
     ],
     [
-      "Artificial Intelligence and the Skill Premium",
+      "Artificial intelligence and the skill premium",
       "https://www.nber.org/papers/w32430"
     ]
   ],
@@ -81,16 +61,6 @@
   ],
   [
     [
-      "2024-05-26, 19:14:03",
-      "https://news.ycombinator.com/item?id=40484602"
-    ],
-    [
-      "What happens in the brain to cause depression?",
-      "https://www.quantamagazine.org/what-happens-in-the-brain-to-cause-depression-20240523/"
-    ]
-  ],
-  [
-    [
       "2024-05-26, 19:12:58",
       "https://news.ycombinator.com/item?id=40484591"
     ],
@@ -127,6 +97,16 @@
     [
       "The Evolution of Lisp (1993) [pdf]",
       "https://redirect.cs.umbc.edu/courses/331/resources/papers/Evolution-of-Lisp.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-05-26, 17:31:58",
+      "https://news.ycombinator.com/item?id=40483882"
+    ],
+    [
+      "Amiga Minimig Ported to Tang Nano 20k FPGA",
+      "https://github.com/harbaum/NanoMig"
     ]
   ],
   [
@@ -261,12 +241,32 @@
   ],
   [
     [
+      "2024-05-25, 23:01:29",
+      "https://news.ycombinator.com/item?id=40478470"
+    ],
+    [
+      "Simplicity – Google SRE Handbook (2017)",
+      "https://sre.google/sre-book/simplicity/"
+    ]
+  ],
+  [
+    [
       "2024-05-23, 23:58:11",
       "https://news.ycombinator.com/item?id=40461351"
     ],
     [
       "A vintage 1903 espresso machine at a Village cafe (2012)",
       "https://ephemeralnewyork.wordpress.com/2012/12/21/a-vintage-1903-espresso-machine-at-a-village-cafe/"
+    ]
+  ],
+  [
+    [
+      "2024-05-23, 23:41:02",
+      "https://news.ycombinator.com/item?id=40461223"
+    ],
+    [
+      "Stark Industries Solutions: An Iron Hammer in the Cloud",
+      "https://krebsonsecurity.com/2024/05/stark-industries-solutions-an-iron-hammer-in-the-cloud/"
     ]
   ],
   [
