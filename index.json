@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-05-27, 20:13:20",
+      "https://news.ycombinator.com/item?id=40494216"
+    ],
+    [
+      "Regular Expression Matching with a Trigram Index (2012)",
+      "https://swtch.com/~rsc/regexp/regexp4.html"
+    ]
+  ],
+  [
+    [
+      "2024-05-27, 20:00:11",
+      "https://news.ycombinator.com/item?id=40494097"
+    ],
+    [
+      "GTFL – A Graphical Terminal for Common Lisp",
+      "http://www.martin-loetzsch.de/gtfl/"
+    ]
+  ],
+  [
+    [
       "2024-05-27, 18:03:36",
       "https://news.ycombinator.com/item?id=40493074"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2024-05-27, 13:58:52",
-      "https://news.ycombinator.com/item?id=40490759"
-    ],
-    [
-      "Yerba mate, from Paraguay to Syria",
-      "https://globalvoices.org/2024/05/20/yerba-mate-south-americas-indigenous-tea-from-paraguay-to-syria/"
-    ]
-  ],
-  [
-    [
       "2024-05-27, 13:39:42",
       "https://news.ycombinator.com/item?id=40490610"
     ],
@@ -187,16 +197,6 @@
     [
       "How many EV charging stations does the US need to replace gas stations?",
       "https://www.wired.com/story/how-many-charging-stations-would-we-need-to-totally-replace-gas-stations/"
-    ]
-  ],
-  [
-    [
-      "2024-05-27, 11:44:07",
-      "https://news.ycombinator.com/item?id=40489885"
-    ],
-    [
-      "Iconv, set the charset to RCE: Exploiting the glibc to hack the PHP engine",
-      "https://www.ambionics.io/blog/iconv-cve-2024-2961-p1"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2024-05-26, 19:12:58",
-      "https://news.ycombinator.com/item?id=40484591"
-    ],
-    [
-      "What the damaged Svalbard cable looked like",
-      "https://www.nrk.no/tromsogfinnmark/this-is-what-the-damaged-svalbard-cable-looked-like-when-it-came-up-from-the-depths-1.16895904"
-    ]
-  ],
-  [
-    [
       "2024-05-26, 18:05:20",
       "https://news.ycombinator.com/item?id=40484119"
     ],
@@ -297,6 +287,16 @@
     [
       "Low-latency scripting for game engines",
       "https://fwsgonzo.medium.com/an-introduction-to-low-latency-scripting-with-libriscv-ad0619edab40"
+    ]
+  ],
+  [
+    [
+      "2024-05-25, 22:52:57",
+      "https://news.ycombinator.com/item?id=40478417"
+    ],
+    [
+      "Recently increased prevalence of human forearm median artery: Microevolution",
+      "https://onlinelibrary.wiley.com/doi/10.1111/joa.13224"
     ]
   ]
 ]
