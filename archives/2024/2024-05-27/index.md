@@ -6,6 +6,7 @@
 
 * [2024-05-27, 11:01:01](https://news.ycombinator.com/item?id=40489596) - [Resume Tip: Hacking \"AI\" screening of resumes](https://www.solipsys.co.uk/images/ResumeTip.png)
 * [2024-05-27, 09:55:19](https://news.ycombinator.com/item?id=40489269) - [My new PSU burns out I fix it, and torture it by cracking water](https://tomscii.sig7.se/2024/05/PSU-burnout-and-torture-cracking-water)
+* [2024-05-27, 09:50:35](https://news.ycombinator.com/item?id=40489250) - [Priced Out of Homeownership](https://www.bbc.com/news/articles/cmj66r4lvzzo)
 * [2024-05-27, 09:40:45](https://news.ycombinator.com/item?id=40489209) - [Scientists Found a Paradox in Evolution; It May Become the Next Rule of Biology](https://www.popularmechanics.com/science/animals/a60848559/rule-of-biology-evolution-paradox/)
 * [2024-05-27, 09:17:17](https://news.ycombinator.com/item?id=40489091) - [Wall Street is about to see its biggest trading change in years](https://www.cnn.com/2024/05/24/investing/premarket-stocks-trading-t1-sec/index.html)
 * [2024-05-27, 08:30:05](https://news.ycombinator.com/item?id=40488844) - [Big Data Is Dead](https://motherduck.com/blog/big-data-is-dead/)
