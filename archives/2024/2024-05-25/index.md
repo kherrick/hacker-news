@@ -13,6 +13,7 @@
 * [2024-05-25, 22:02:29](https://news.ycombinator.com/item?id=40478188) - [Zellij: A terminal workspace with batteries included](https://zellij.dev/)
 * [2024-05-25, 21:50:23](https://news.ycombinator.com/item?id=40478139) - [Talos – An Immutable OS for Kubernetes](https://a-cup-of.coffee/blog/talos/)
 * [2024-05-25, 21:24:09](https://news.ycombinator.com/item?id=40477972) - [Kubernetes X account suspended for ToS violations](https://x.com/kubernetesio)
+* [2024-05-25, 21:09:38](https://news.ycombinator.com/item?id=40477895) - [Last Hours of an Organ Donor](https://aeon.co/essays/the-tenderness-of-medical-care-in-an-organ-donors-last-hours)
 * [2024-05-25, 21:01:30](https://news.ycombinator.com/item?id=40477840) - [Fathom AI Notetaker (YC W21) Is Hiring Full-Stack Engineers (Remote)](https://www.ycombinator.com/companies/fathom/jobs/OVTRjXb-full-stack-engineer-remote)
 * [2024-05-25, 21:01:29](https://news.ycombinator.com/item?id=40477839) - [UltraNet: Revisiting Ultrasound](https://b.h4x.zip/ultranet/)
 * [2024-05-25, 20:35:59](https://news.ycombinator.com/item?id=40477653) - [Majorana, the Search for the Most Elusive Neutrino of All](https://newscenter.lbl.gov/2012/05/16/majorana-demonstrator/)
