@@ -50,6 +50,7 @@
 * [2024-05-23, 16:20:23](https://news.ycombinator.com/item?id=40456621) - [100BASE-T4 over barbed wire (2001)](https://www.sigcon.com/Pubs/edn/SoGoodBarbedWire.htm)
 * [2024-05-23, 16:11:44](https://news.ycombinator.com/item?id=40456528) - [Show HN: Pong Wars with C#](https://github.com/unoplatform/Uno.Samples/tree/master/UI/PongWars)
 * [2024-05-23, 16:05:15](https://news.ycombinator.com/item?id=40456449) - [Inventing my own writing system for English, VJScript](https://www.vkethana.com/vjscript/)
+* [2024-05-23, 16:01:29](https://news.ycombinator.com/item?id=40456393) - [Chickens in Trees](https://suziepetryk.com/blog/chickens.html)
 * [2024-05-23, 15:50:25](https://news.ycombinator.com/item?id=40456236) - [Show HN: We open sourced our entire text-to-SQL product](https://github.com/Dataherald/dataherald)
 * [2024-05-23, 15:41:56](https://news.ycombinator.com/item?id=40456114) - [SOAR-ing Away with Smalltalk: Berkeley RISC-III](https://thechipletter.substack.com/p/soar-ing-away-with-smalltalk-berkeley)
 * [2024-05-23, 15:41:29](https://news.ycombinator.com/item?id=40456107) - [We're Ending Our Samsung Collaboration](https://www.ifixit.com/News/96162/were-ending-our-samsung-collaboration)
