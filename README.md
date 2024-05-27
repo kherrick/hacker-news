@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-27, 13:58:52](https://news.ycombinator.com/item?id=40490759) - [Yerba Mate: South America's Indigenous Tea, from Paraguay to Syria](https://globalvoices.org/2024/05/20/yerba-mate-south-americas-indigenous-tea-from-paraguay-to-syria/)
 * [2024-05-27, 13:42:22](https://news.ycombinator.com/item?id=40490630) - [Cobalt – lightweight HTML5 application container from YouTube](https://developers.google.com/youtube/cobalt)
-* [2024-05-27, 13:39:42](https://news.ycombinator.com/item?id=40490610) - [Priced out of home ownership – 'It makes me want to throw up'](https://www.bbc.co.uk/news/articles/cmj66r4lvzzo)
 * [2024-05-27, 13:39:28](https://news.ycombinator.com/item?id=40490608) - [Show HN: Use Go's HTML/template to write React-like code](https://news.ycombinator.com/item?id=40490608)
 * [2024-05-27, 12:12:32](https://news.ycombinator.com/item?id=40490045) - [Depression, schizophrenia and bipolar disorder linked with ancient viral DNA](https://theconversation.com/depression-schizophrenia-and-bipolar-disorder-linked-with-ancient-viral-dna-in-our-genome-new-research-230490)
 * [2024-05-27, 11:46:28](https://news.ycombinator.com/item?id=40489905) - [How Many EV Charging Stations Does the US Need to Replace Gas Stations?](https://www.wired.com/story/how-many-charging-stations-would-we-need-to-totally-replace-gas-stations/)
