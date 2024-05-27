@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-05-27](index.md)
 
+* [2024-05-27, 16:08:05](https://news.ycombinator.com/item?id=40492069) - [Researchers create dispersion-assisted photodetector to decipher high-dim light](https://phys.org/news/2024-05-dispersion-photodetector-decipher-high-dimensional.amp)
+* [2024-05-27, 15:31:24](https://news.ycombinator.com/item?id=40491694) - [Should I Use jwts For Authentication Tokens?](https://blog.ploetzli.ch/2024/should-i-use-jwt-for-authentication/)
 * [2024-05-27, 15:11:38](https://news.ycombinator.com/item?id=40491480) - [Instead of \"auth\", we should say \"permissions\" and \"login\"](https://ntietz.com/blog/lets-say-instead-of-auth/)
+* [2024-05-27, 15:07:59](https://news.ycombinator.com/item?id=40491438) - [My BDFL guiding principles (cURL) – daniel.haxx.se](https://daniel.haxx.se/blog/2024/05/27/my-bdfl-guiding-principles/)
 * [2024-05-27, 14:40:07](https://news.ycombinator.com/item?id=40491163) - [Cycling's Silent Epidemic: Labial swelling and pain in women](https://www.bicycling.com/health-nutrition/a60412469/cycling-saddle-pain-women-surgery/)
 * [2024-05-27, 14:28:02](https://news.ycombinator.com/item?id=40491038) - [Reclaiming IPv4 Class E's 240.0.0.0/4](https://blog.benjojo.co.uk/post/class-e-addresses-in-the-real-world)
 * [2024-05-27, 13:58:52](https://news.ycombinator.com/item?id=40490759) - [Yerba Mate: South America's Indigenous Tea, from Paraguay to Syria](https://globalvoices.org/2024/05/20/yerba-mate-south-americas-indigenous-tea-from-paraguay-to-syria/)
@@ -12,8 +15,10 @@
 * [2024-05-27, 13:39:42](https://news.ycombinator.com/item?id=40490610) - [Priced out of home ownership – 'It makes me want to throw up'](https://www.bbc.co.uk/news/articles/cmj66r4lvzzo)
 * [2024-05-27, 13:39:28](https://news.ycombinator.com/item?id=40490608) - [Show HN: Use Go's HTML/template to write React-like code](https://news.ycombinator.com/item?id=40490608)
 * [2024-05-27, 12:55:56](https://news.ycombinator.com/item?id=40490313) - [Lufthansa brings the inflight experience to life with mixed reality](https://forwork.meta.com/case-studies/lufthansa-mixed-reality-inflight-experience/)
+* [2024-05-27, 12:30:32](https://news.ycombinator.com/item?id=40490154) - [Linux virtual machines, with a focus on running containers](https://lima-vm.io/)
 * [2024-05-27, 12:12:32](https://news.ycombinator.com/item?id=40490045) - [Depression, schizophrenia and bipolar disorder linked with ancient viral DNA](https://theconversation.com/depression-schizophrenia-and-bipolar-disorder-linked-with-ancient-viral-dna-in-our-genome-new-research-230490)
 * [2024-05-27, 11:46:28](https://news.ycombinator.com/item?id=40489905) - [How Many EV Charging Stations Does the US Need to Replace Gas Stations?](https://www.wired.com/story/how-many-charging-stations-would-we-need-to-totally-replace-gas-stations/)
+* [2024-05-27, 11:44:07](https://news.ycombinator.com/item?id=40489885) - [Iconv, set the charset to RCE: Exploiting the glibc to hack the PHP engine](https://www.ambionics.io/blog/iconv-cve-2024-2961-p1)
 * [2024-05-27, 11:01:01](https://news.ycombinator.com/item?id=40489596) - [Resume Tip: Hacking \"AI\" screening of resumes](https://www.solipsys.co.uk/images/ResumeTip.png)
 * [2024-05-27, 10:39:23](https://news.ycombinator.com/item?id=40489486) - [Possible association between tattoos and lymphoma revealed](https://www.lunduniversity.lu.se/article/possible-association-between-tattoos-and-lymphoma-revealed)
 * [2024-05-27, 09:55:19](https://news.ycombinator.com/item?id=40489269) - [My new PSU burns out I fix it, and torture it by cracking water](https://tomscii.sig7.se/2024/05/PSU-burnout-and-torture-cracking-water)
