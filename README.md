@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-27, 18:00:46](https://news.ycombinator.com/item?id=40493053) - [Guido van Rossum drops ownership of the core Python interpreter code](https://github.com/python/cpython/pull/119611)
 * [2024-05-27, 17:59:21](https://news.ycombinator.com/item?id=40493044) - [AI vs. a Giraffe with No Spots](https://www.aiweirdness.com/ai-vs-a-giraffe-with-no-spots/)
 * [2024-05-27, 17:30:43](https://news.ycombinator.com/item?id=40492834) - [Tantivy – full-text search engine library inspired by Apache Lucene](https://github.com/quickwit-oss/tantivy)
 * [2024-05-27, 17:09:37](https://news.ycombinator.com/item?id=40492648) - [Coursera on Red Teaming LLM Applications](https://www.coursera.org/projects/red-teaming-llm-applications)
@@ -27,7 +28,6 @@
 * [2024-05-27, 06:32:52](https://news.ycombinator.com/item?id=40488206) - [A 1.3B-light-year-across ring of galaxies has confounded astronomers](https://cosmosmagazine.com/space/astronomy/giant-structure-space-universe/)
 * [2024-05-27, 02:00:38](https://news.ycombinator.com/item?id=40486991) - [PcTattletale leaks victims' screen recordings to entire Internet](https://www.ericdaigle.ca/pctattletale-leaking-screen-captures/)
 * [2024-05-26, 20:55:22](https://news.ycombinator.com/item?id=40485313) - [The t-test was invented at the Guinness brewery](https://www.scientificamerican.com/article/how-the-guinness-brewery-invented-the-most-important-statistical-method-in/)
-* [2024-05-26, 20:04:59](https://news.ycombinator.com/item?id=40484930) - [FILE_ID.DIZ Description (1994)](http://pcmicro.com/getdiz/file_id.html)
 * [2024-05-26, 19:12:58](https://news.ycombinator.com/item?id=40484591) - [What the damaged Svalbard cable looked like](https://www.nrk.no/tromsogfinnmark/this-is-what-the-damaged-svalbard-cable-looked-like-when-it-came-up-from-the-depths-1.16895904)
 * [2024-05-26, 07:03:05](https://news.ycombinator.com/item?id=40480242) - [Rete Algorithm](https://en.wikipedia.org/wiki/Rete_algorithm)
 
