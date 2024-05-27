@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-27, 08:19:33](https://news.ycombinator.com/item?id=40488785) - [Tesla 'self-driving' technology failed to detect a moving train ahead of a crash](https://www.nbcnews.com/tech/tech-news/tesla-owner-says-cars-self-driving-mode-fsd-train-crash-video-rcna153345)
+* [2024-05-27, 08:16:45](https://news.ycombinator.com/item?id=40488774) - [Twitter is now attention roulette and ultimately meaningless](https://playpermissionless.substack.com/p/twitter-is-now-attention-roulette)
 * [2024-05-27, 07:01:11](https://news.ycombinator.com/item?id=40488372) - [Meticulous (YC S21) is hiring to eliminate E2E tests](https://news.ycombinator.com/item?id=40488372)
 * [2024-05-27, 06:32:52](https://news.ycombinator.com/item?id=40488206) - [A Big Ring on the Sky](https://cosmosmagazine.com/space/astronomy/giant-structure-space-universe/)
 * [2024-05-27, 06:29:28](https://news.ycombinator.com/item?id=40488187) - [Alaska's Pristine Waterways Are Turning Orange](https://www.sciencealert.com/alaskas-pristine-waterways-are-turning-a-shocking-orange)
