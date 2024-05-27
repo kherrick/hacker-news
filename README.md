@@ -23,13 +23,13 @@
 * [2024-05-27, 11:01:01](https://news.ycombinator.com/item?id=40489596) - [Resume Tip: Hacking \"AI\" screening of resumes](https://www.solipsys.co.uk/images/ResumeTip.png)
 * [2024-05-27, 10:39:23](https://news.ycombinator.com/item?id=40489486) - [Possible association between tattoos and lymphoma](https://www.lunduniversity.lu.se/article/possible-association-between-tattoos-and-lymphoma-revealed)
 * [2024-05-27, 09:55:19](https://news.ycombinator.com/item?id=40489269) - [My new PSU burns out – I fix it, and torture it by cracking water](https://tomscii.sig7.se/2024/05/PSU-burnout-and-torture-cracking-water)
+* [2024-05-27, 08:30:05](https://news.ycombinator.com/item?id=40488844) - [Big data is dead (2023)](https://motherduck.com/blog/big-data-is-dead/)
 * [2024-05-27, 06:32:52](https://news.ycombinator.com/item?id=40488206) - [A 1.3B-light-year-across ring of galaxies has confounded astronomers](https://cosmosmagazine.com/space/astronomy/giant-structure-space-universe/)
 * [2024-05-26, 22:42:36](https://news.ycombinator.com/item?id=40486068) - [Evolution of the ELF object file format](https://maskray.me/blog/2024-05-26-evolution-of-elf-object-file-format)
 * [2024-05-26, 18:05:20](https://news.ycombinator.com/item?id=40484119) - [Long distance sound localization with the Raspberry Pi](https://medium.com/@kim_94237/tdoa-sound-localization-with-the-raspberry-pi-3e777469c4fa)
 * [2024-05-26, 07:03:05](https://news.ycombinator.com/item?id=40480242) - [Rete algorithm](https://en.wikipedia.org/wiki/Rete_algorithm)
 * [2024-05-26, 05:42:46](https://news.ycombinator.com/item?id=40480011) - [Low-latency scripting for game engines](https://fwsgonzo.medium.com/an-introduction-to-low-latency-scripting-with-libriscv-ad0619edab40)
 * [2024-05-25, 22:52:57](https://news.ycombinator.com/item?id=40478417) - [Recently increased prevalence of human forearm median artery: Microevolution](https://onlinelibrary.wiley.com/doi/10.1111/joa.13224)
-* [2024-05-25, 16:21:26](https://news.ycombinator.com/item?id=40475965) - [The future of foundation models is closed-source](https://blog.johnluttig.com/p/the-future-of-foundation-models-is)
 
 ## [Archives](archives/index.md)
 
