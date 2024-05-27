@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-27, 07:01:11](https://news.ycombinator.com/item?id=40488372) - [Meticulous (YC S21) is hiring to eliminate E2E tests](https://news.ycombinator.com/item?id=40488372)
+* [2024-05-27, 06:29:28](https://news.ycombinator.com/item?id=40488187) - [Alaska's Pristine Waterways Are Turning Orange](https://www.sciencealert.com/alaskas-pristine-waterways-are-turning-a-shocking-orange)
 * [2024-05-27, 05:30:32](https://news.ycombinator.com/item?id=40487844) - [X.ai: $6B Series B](https://x.ai/blog/series-b)
 * [2024-05-27, 03:51:43](https://news.ycombinator.com/item?id=40487419) - [Is regulated BGP security coming?](https://blog.apnic.net/2024/05/23/is-regulated-bgp-security-coming/)
 * [2024-05-27, 02:00:38](https://news.ycombinator.com/item?id=40486991) - [PcTattletale leaks victims' screen recordings to entire Internet](https://www.ericdaigle.ca/pctattletale-leaking-screen-captures/)
@@ -20,14 +22,12 @@
 * [2024-05-26, 13:10:29](https://news.ycombinator.com/item?id=40481887) - [Periodic Table of the Elements, in Pictures and Words](https://elements.wlonk.com/)
 * [2024-05-26, 12:41:08](https://news.ycombinator.com/item?id=40481722) - [A journey to the medical netherworld (2016)](https://hazlitt.net/longreads/journey-medical-netherworld)
 * [2024-05-26, 12:14:19](https://news.ycombinator.com/item?id=40481578) - [Show HN: Boldly go where Gradient Descent has never gone before with DiscoGrad](https://github.com/DiscoGrad/DiscoGrad)
-* [2024-05-26, 12:02:28](https://news.ycombinator.com/item?id=40481509) - [UpCodes (YC S17) is hiring remote SWEs, PMs to automate construction compliance](https://up.codes/careers?utm_source=HN)
 * [2024-05-26, 09:54:58](https://news.ycombinator.com/item?id=40480913) - [To the brain, reading computer code is not the same as reading language (2020)](https://news.mit.edu/2020/brain-reading-computer-code-1215)
 * [2024-05-26, 07:35:27](https://news.ycombinator.com/item?id=40480336) - [Show HN: Offline sketch to image geneartor in a whiteboard](https://drawing.pics)
 * [2024-05-26, 05:57:52](https://news.ycombinator.com/item?id=40480056) - [Hurl, the Exceptional Language](https://hurl.wtf/)
 * [2024-05-26, 05:45:56](https://news.ycombinator.com/item?id=40480022) - [The Perfect Voxel Engine (2021)](https://voxely.net/blog/the-perfect-voxel-engine/)
 * [2024-05-25, 23:11:59](https://news.ycombinator.com/item?id=40478530) - [Chickens in Trees](https://suziepetryk.com/blog/chickens.html)
 * [2024-05-24, 14:48:45](https://news.ycombinator.com/item?id=40466814) - [Helen Keller on her life before self-consciousness (1908)](http://scentofdawn.blogspot.com/2011/07/before-soul-dawn-helen-keller-on-her.html)
-* [2024-05-24, 04:22:43](https://news.ycombinator.com/item?id=40462780) - [World in a Box](https://placesjournal.org/article/social-history-of-the-cardboard-box/)
 * [2024-05-23, 23:58:11](https://news.ycombinator.com/item?id=40461351) - [A vintage 1903 espresso machine at a Village cafe (2012)](https://ephemeralnewyork.wordpress.com/2012/12/21/a-vintage-1903-espresso-machine-at-a-village-cafe/)
 * [2024-05-23, 23:41:02](https://news.ycombinator.com/item?id=40461223) - [Stark Industries Solutions: An Iron Hammer in the Cloud](https://krebsonsecurity.com/2024/05/stark-industries-solutions-an-iron-hammer-in-the-cloud/)
 
