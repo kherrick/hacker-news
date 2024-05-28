@@ -11,6 +11,7 @@
 * [2024-05-25, 22:26:31](https://news.ycombinator.com/item?id=40478294) - [Startup is about to install bladeless rooftop wind turbines on box buildings](https://electrek.co/2024/05/24/bladeless-rooftop-wind-turbines-box-buildings/)
 * [2024-05-25, 22:16:04](https://news.ycombinator.com/item?id=40478250) - [Tesla Owners Get Only 64% of EPA Range After Just Three Years: Study](https://insideevs.com/news/720899/tesla-64-epa-max-range/)
 * [2024-05-25, 22:02:29](https://news.ycombinator.com/item?id=40478188) - [Zellij: A terminal workspace with batteries included](https://zellij.dev/)
+* [2024-05-25, 21:58:20](https://news.ycombinator.com/item?id=40478175) - [Show HN: Sum (algebraic) types for C in one 100 line header](https://github.com/grego/sumtype.h)
 * [2024-05-25, 21:50:23](https://news.ycombinator.com/item?id=40478139) - [Talos – An Immutable OS for Kubernetes](https://a-cup-of.coffee/blog/talos/)
 * [2024-05-25, 21:24:09](https://news.ycombinator.com/item?id=40477972) - [Kubernetes X account suspended for ToS violations](https://x.com/kubernetesio)
 * [2024-05-25, 21:09:38](https://news.ycombinator.com/item?id=40477895) - [Last Hours of an Organ Donor](https://aeon.co/essays/the-tenderness-of-medical-care-in-an-organ-donors-last-hours)
