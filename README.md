@@ -2,7 +2,7 @@
 
 * [2024-05-28, 10:31:37](https://news.ycombinator.com/item?id=40499260) - [My computer has an underscore in its name, and I have trouble with the network](https://kb.iu.edu/d/afqs)
 * [2024-05-28, 10:13:35](https://news.ycombinator.com/item?id=40499157) - [Space junk is raining from the sky. Who's responsible when it hits the Earth?](https://www.cbc.ca/news/science/space-debris-responsibility-1.7211473)
-* [2024-05-28, 10:06:37](https://news.ycombinator.com/item?id=40499130) - [Wasmi v0.32: WebAssembly interpreter is now faster than](https://wasmi-labs.github.io/blog/posts/wasmi-v0.32/)
+* [2024-05-28, 10:06:37](https://news.ycombinator.com/item?id=40499130) - [Wasmi v0.32: WebAssembly interpreter is now faster than ever](https://wasmi-labs.github.io/blog/posts/wasmi-v0.32/)
 * [2024-05-28, 08:49:28](https://news.ycombinator.com/item?id=40498760) - [Root your Docker host in 10 seconds for fun and profit (2017)](https://www.electricmonk.nl/log/2017/09/30/root-your-docker-host-in-10-seconds-for-fun-and-profit/)
 * [2024-05-28, 07:00:10](https://news.ycombinator.com/item?id=40498122) - [Photoroom (YC S20) Is Hiring a Django Back End Lead in Paris (PostgreSQL, REST)](https://jobs.lever.co/photoroom/b3661dfc-72c8-441b-8483-c0f8596af452?lever-origin=applied&lever-source%5B%5D=yc)
 * [2024-05-28, 06:55:35](https://news.ycombinator.com/item?id=40498092) - [Gleam 1.2.0 release – Fault tolerant Gleam](https://gleam.run/news/fault-tolerant-gleam/)
@@ -18,7 +18,6 @@
 * [2024-05-28, 00:25:27](https://news.ycombinator.com/item?id=40496150) - [Gh-dash: A beautiful CLI dashboard for GitHub](https://github.com/dlvhdr/gh-dash)
 * [2024-05-27, 21:58:32](https://news.ycombinator.com/item?id=40495149) - [Grokked Transformers Are Implicit Reasoners](https://arxiv.org/abs/2405.15071)
 * [2024-05-27, 21:15:40](https://news.ycombinator.com/item?id=40494793) - [Notepad Tab](https://notepadtab.com/)
-* [2024-05-27, 20:00:11](https://news.ycombinator.com/item?id=40494097) - [GTFL – A Graphical Terminal for Common Lisp](http://www.martin-loetzsch.de/gtfl/)
 * [2024-05-27, 17:30:43](https://news.ycombinator.com/item?id=40492834) - [Tantivy – full-text search engine library inspired by Apache Lucene](https://github.com/quickwit-oss/tantivy)
 * [2024-05-27, 16:55:59](https://news.ycombinator.com/item?id=40492515) - [Controlling the Taylor Swift Eras Tour wristbands with Flipper Zero](https://blog.jgc.org/2024/05/controlling-taylor-swift-eras-tour.html)
 * [2024-05-27, 16:25:53](https://news.ycombinator.com/item?id=40492234) - [Surveilling the masses with wi-fi-based positioning systems](https://arxiv.org/abs/2405.14975)
@@ -28,8 +27,9 @@
 * [2024-05-26, 01:23:22](https://news.ycombinator.com/item?id=40479107) - [Doctor DOS Betamax's DOS Website (2024)](http://www.chebucto.ns.ca/~ak621/DOS/)
 * [2024-05-25, 21:58:20](https://news.ycombinator.com/item?id=40478175) - [Show HN: Sum (algebraic) types for C in one 100 line header](https://github.com/grego/sumtype.h)
 * [2024-05-25, 11:44:51](https://news.ycombinator.com/item?id=40474314) - [How to Remove Useless Localizations](https://sleeplessbeastie.eu/2018/09/03/how-to-remove-useless-localizations/)
-* [2024-05-24, 22:06:16](https://news.ycombinator.com/item?id=40470893) - [Observations in Debian Dependency Solving](https://blog.jak-linux.org/2024/05/24/observations-in-debsat/)
 * [2024-05-24, 20:30:00](https://news.ycombinator.com/item?id=40470237) - [Emigre typography and graphic design magazine (1984–2005)](https://blog.gingerbeardman.com/2024/05/24/emigre-typography-and-graphic-design-magazine-1984-2005/)
+* [2024-05-24, 19:49:18](https://news.ycombinator.com/item?id=40469861) - [My Hour of Memoryless Lucidity](https://ericneyman.wordpress.com/2024/05/04/my-hour-of-memoryless-lucidity/)
+* [2024-05-24, 16:56:42](https://news.ycombinator.com/item?id=40468066) - [Surprising Supernova Scars Cover the Earth](https://www.scientificamerican.com/article/how-often-do-supernovas-strike-earth/)
 
 ## [Archives](archives/index.md)
 
