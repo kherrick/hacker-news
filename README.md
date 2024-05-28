@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-28, 02:40:29](https://news.ycombinator.com/item?id=40496858) - [WP21](https://ma.tt/2024/05/wp21/)
 * [2024-05-28, 02:04:58](https://news.ycombinator.com/item?id=40496682) - [La Niña is coming, raising the chances of a dangerous Atlantic hurricane season](https://phys.org/news/2024-05-la-nia-chances-dangerous-atlantic.html)
 * [2024-05-28, 00:25:27](https://news.ycombinator.com/item?id=40496150) - [Dlvhdr/gh-dash: A beautiful CLI dashboard for GitHub](https://github.com/dlvhdr/gh-dash)
 * [2024-05-27, 22:28:38](https://news.ycombinator.com/item?id=40495368) - [Truth, Math, and Models (Part 8 in a series on the scientific method)](http://blog.rongarret.info/)
@@ -11,7 +12,6 @@
 * [2024-05-27, 17:00:44](https://news.ycombinator.com/item?id=40492562) - [Brainbase (YC W24) Is Hiring](https://www.ycombinator.com/companies/brainbase/jobs/UUoqH3y-head-of-operations)
 * [2024-05-27, 16:55:59](https://news.ycombinator.com/item?id=40492515) - [Controlling the Taylor Swift Eras Tour wristbands with Flipper Zero](https://blog.jgc.org/2024/05/controlling-taylor-swift-eras-tour.html)
 * [2024-05-27, 16:32:26](https://news.ycombinator.com/item?id=40492300) - [Helix-gpui: A simple GUI for the Helix editor](https://github.com/polachok/helix-gpui)
-* [2024-05-27, 16:28:50](https://news.ycombinator.com/item?id=40492264) - [The Internet Archive is under a DDoS attack](https://mastodon.archive.org/@internetarchive/112513905401989149)
 * [2024-05-27, 16:25:53](https://news.ycombinator.com/item?id=40492234) - [Surveilling the masses with wi-fi-based positioning systems](https://arxiv.org/abs/2405.14975)
 * [2024-05-27, 15:31:24](https://news.ycombinator.com/item?id=40491694) - [Should I use JWTs for authentication tokens?](https://blog.ploetzli.ch/2024/should-i-use-jwt-for-authentication/)
 * [2024-05-27, 15:11:38](https://news.ycombinator.com/item?id=40491480) - [Instead of “auth”, we should say “permissions” and “login”](https://ntietz.com/blog/lets-say-instead-of-auth/)
