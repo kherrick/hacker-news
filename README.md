@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-28, 23:13:33](https://news.ycombinator.com/item?id=40506582) - [Ex-OpenAI board member reveals what led to Sam Altman's brief ousting](https://www.businessinsider.com/openai-board-member-details-sam-altman-lied-allegation-ousted-2024-5)
+* [2024-05-28, 23:09:07](https://news.ycombinator.com/item?id=40506554) - [F-35 Crashes Near Albuquerque Airport, New Mexico](https://theaviationist.com/2024/05/28/f-35-crashes-near-albuquerque-new-mexico/)
 * [2024-05-28, 21:31:38](https://news.ycombinator.com/item?id=40505839) - [Facebook will soon use your photos, posts and other info to train its AI](https://www.thejournal.ie/facebook-data-ai-6391876-May2024/)
 * [2024-05-28, 21:02:50](https://news.ycombinator.com/item?id=40505586) - [Electromagnetic Waves and Antennas (2016)](https://www.ece.rutgers.edu/~orfanidi/ewa/)
 * [2024-05-28, 21:01:37](https://news.ycombinator.com/item?id=40505575) - [Productivity Versus Alignment](https://www.zaxis.page/p/productivity-versus-alignment)
@@ -13,7 +14,6 @@
 * [2024-05-28, 19:16:10](https://news.ycombinator.com/item?id=40504420) - [Happiness](https://complicated.world/en/Human_Life)
 * [2024-05-28, 19:00:24](https://news.ycombinator.com/item?id=40504228) - [Former FTX Executive Ryan Salame Sentenced to 90 Months in Prison](https://www.justice.gov/usao-sdny/pr/former-ftx-executive-ryan-salame-sentenced-90-months-prison)
 * [2024-05-28, 18:58:45](https://news.ycombinator.com/item?id=40504212) - [Tinygrad 0.9.0](https://github.com/tinygrad/tinygrad/releases/tag/v0.9.0)
-* [2024-05-28, 18:53:08](https://news.ycombinator.com/item?id=40504141) - [Automata via Macros (2006)](https://cs.brown.edu/~sk/Publications/Papers/Published/sk-automata-macros/)
 * [2024-05-28, 18:32:06](https://news.ycombinator.com/item?id=40503925) - [Researchers cracked an 11-year-old password to a $3M crypto wallet](https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/)
 * [2024-05-28, 18:21:07](https://news.ycombinator.com/item?id=40503793) - [Show HN: Firegraph.so – Create beautiful images of your graphs](https://www.firegraph.so/)
 * [2024-05-28, 18:08:23](https://news.ycombinator.com/item?id=40503648) - [A robot will soon try to remove melted nuclear fuel from Fukushima reactor](https://apnews.com/article/japan-fukushima-nuclear-meltdown-debris-robot-238a5177ec3ac3c7608c3116fdf58a58)
