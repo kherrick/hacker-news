@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-28](index.md)
 
+* [2024-05-28, 18:08:23](https://news.ycombinator.com/item?id=40503648) - [A robot will soon try to remove melted nuclear fuel from Fukushima reactor](https://apnews.com/article/japan-fukushima-nuclear-meltdown-debris-robot-238a5177ec3ac3c7608c3116fdf58a58)
+* [2024-05-28, 18:03:55](https://news.ycombinator.com/item?id=40503592) - [California is about to side with PG&E – again – to kill community solar projects](https://www.sfchronicle.com/opinion/editorials/article/california-pge-community-solar-19468490.php)
+* [2024-05-28, 17:22:07](https://news.ycombinator.com/item?id=40503082) - [British microchip plant faces closure after Apple pulls the plug](https://www.telegraph.co.uk/business/2024/05/25/british-microchip-plant-faces-closure-apple-pulls-plug/)
 * [2024-05-28, 17:11:56](https://news.ycombinator.com/item?id=40502956) - [Show HN: We're building your open-source, private Salesforce](https://github.com/openkoda/openkoda)
 * [2024-05-28, 17:08:15](https://news.ycombinator.com/item?id=40502916) - [Temperatures in Pakistan cross 52 degrees Celsius (125,6°F)](https://www.cnn.com/2024/05/28/asia/pakistan-heat-wave-sindh-climate-intl-hnk/index.html)
 * [2024-05-28, 17:03:03](https://news.ycombinator.com/item?id=40502877) - [Steve Jurvetson's personal collection of Apollo Lunar Module parts](https://www.flickr.com/photos/jurvetson/albums/72157623704246792/)
