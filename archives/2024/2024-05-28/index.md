@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-28](index.md)
 
+* [2024-05-28, 18:10:47](https://news.ycombinator.com/item?id=40503678) - [Star Citizen Tops $700M, Still No Release Date](https://www.ign.com/articles/star-citizen-pushes-through-the-700-million-raised-mark-and-no-there-still-isnt-a-release-date)
 * [2024-05-28, 18:08:23](https://news.ycombinator.com/item?id=40503648) - [A robot will soon try to remove melted nuclear fuel from Fukushima reactor](https://apnews.com/article/japan-fukushima-nuclear-meltdown-debris-robot-238a5177ec3ac3c7608c3116fdf58a58)
+* [2024-05-28, 18:05:07](https://news.ycombinator.com/item?id=40503611) - [Chatbot Arena Leaderboard: Gemini 1.5 Flash, Pro and Advanced Results](https://twitter.com/lmsysorg/status/1795512202465845686)
 * [2024-05-28, 18:03:55](https://news.ycombinator.com/item?id=40503592) - [California is about to side with PG&E – again – to kill community solar projects](https://www.sfchronicle.com/opinion/editorials/article/california-pge-community-solar-19468490.php)
 * [2024-05-28, 17:44:46](https://news.ycombinator.com/item?id=40503363) - [Yet another project management SaaS](https://www.plan-b.today/)
 * [2024-05-28, 17:31:48](https://news.ycombinator.com/item?id=40503202) - [TTE: Terminal Text Effects](https://chrisbuilds.github.io/terminaltexteffects/showroom/)

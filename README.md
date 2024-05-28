@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-28, 18:10:47](https://news.ycombinator.com/item?id=40503678) - [Star Citizen Tops $700M, Still No Release Date](https://www.ign.com/articles/star-citizen-pushes-through-the-700-million-raised-mark-and-no-there-still-isnt-a-release-date)
 * [2024-05-28, 18:08:23](https://news.ycombinator.com/item?id=40503648) - [A robot will soon try to remove melted nuclear fuel from Fukushima reactor](https://apnews.com/article/japan-fukushima-nuclear-meltdown-debris-robot-238a5177ec3ac3c7608c3116fdf58a58)
+* [2024-05-28, 18:05:07](https://news.ycombinator.com/item?id=40503611) - [Chatbot Arena Leaderboard: Gemini 1.5 Flash, Pro and Advanced Results](https://twitter.com/lmsysorg/status/1795512202465845686)
 * [2024-05-28, 18:03:55](https://news.ycombinator.com/item?id=40503592) - [California is about to side with PG&E – again – to kill community solar projects](https://www.sfchronicle.com/opinion/editorials/article/california-pge-community-solar-19468490.php)
 * [2024-05-28, 17:44:46](https://news.ycombinator.com/item?id=40503363) - [Yet another project management SaaS](https://www.plan-b.today/)
 * [2024-05-28, 17:31:48](https://news.ycombinator.com/item?id=40503202) - [TTE: Terminal Text Effects](https://chrisbuilds.github.io/terminaltexteffects/showroom/)
-* [2024-05-28, 17:29:53](https://news.ycombinator.com/item?id=40503183) - [The Dark Stain on Tesla's Directors](https://montanaskeptic.substack.com/p/the-dark-stain-on-teslas-directors)
 * [2024-05-28, 17:22:07](https://news.ycombinator.com/item?id=40503082) - [British microchip plant faces closure after Apple pulls the plug](https://www.telegraph.co.uk/business/2024/05/25/british-microchip-plant-faces-closure-apple-pulls-plug/)
 * [2024-05-28, 17:11:56](https://news.ycombinator.com/item?id=40502956) - [Show HN: Openkoda – Open–source, private, Salesforce alternative](https://github.com/openkoda/openkoda)
 * [2024-05-28, 17:03:03](https://news.ycombinator.com/item?id=40502877) - [Steve Jurvetson's personal collection of Apollo Lunar Module parts](https://www.flickr.com/photos/jurvetson/albums/72157623704246792/)
@@ -18,6 +19,7 @@
 * [2024-05-28, 14:22:52](https://news.ycombinator.com/item?id=40501015) - [An air quality model that is evolving with the times](https://eos.org/science-updates/an-air-quality-model-that-is-evolving-with-the-times)
 * [2024-05-28, 14:21:38](https://news.ycombinator.com/item?id=40500997) - [Ping Ff02:1](https://astrid.tech/2024/05/28/0/ping-ff02-1/)
 * [2024-05-28, 08:17:00](https://news.ycombinator.com/item?id=40498580) - [Show HN: File0 – An easier way to manage files in serverless apps](https://www.file0.dev)
+* [2024-05-28, 05:30:29](https://news.ycombinator.com/item?id=40497602) - [The Way We Are Building Event-Driven Applications Is Misguided](https://gillesbarbier.medium.com/the-way-we-are-building-event-driven-applications-is-misguided-7f7c5f1a9061)
 * [2024-05-28, 04:39:39](https://news.ycombinator.com/item?id=40497379) - [Transformers Can Do Arithmetic with the Right Embeddings](https://arxiv.org/abs/2405.17399)
 * [2024-05-28, 03:55:01](https://news.ycombinator.com/item?id=40497171) - [Refurb Weekend: Canon Cat](http://oldvcr.blogspot.com/2024/05/refurb-weekend-canon-cat.html)
 * [2024-05-28, 02:00:13](https://news.ycombinator.com/item?id=40496660) - [Researchers accurately dating a 7k-year-old settlement using cosmic rays](https://phys.org/news/2024-05-succeed-accurately-dating-year-prehistoric.html)
@@ -28,8 +30,6 @@
 * [2024-05-27, 15:31:24](https://news.ycombinator.com/item?id=40491694) - [Should I use JWTs for authentication tokens?](https://blog.ploetzli.ch/2024/should-i-use-jwt-for-authentication/)
 * [2024-05-25, 21:58:20](https://news.ycombinator.com/item?id=40478175) - [Show HN: Sum (algebraic) types for C in one 100 line header](https://github.com/grego/sumtype.h)
 * [2024-05-25, 19:48:53](https://news.ycombinator.com/item?id=40477362) - [Archaeologists Found an 'Anomaly' Near the Pyramids – May Reveal Ancient Portal](https://www.popularmechanics.com/science/archaeology/a60815504/pyramids-anomaly/)
-* [2024-05-25, 07:54:10](https://news.ycombinator.com/item?id=40473381) - [Tail Recursion Elimination (2009)](http://neopythonic.blogspot.com/2009/04/tail-recursion-elimination.html)
-* [2024-05-24, 16:56:42](https://news.ycombinator.com/item?id=40468066) - [Surprising supernova scars cover the Earth](https://www.scientificamerican.com/article/how-often-do-supernovas-strike-earth/)
 
 ## [Archives](archives/index.md)
 
