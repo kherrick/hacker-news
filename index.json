@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-28, 02:04:58",
+      "https://news.ycombinator.com/item?id=40496682"
+    ],
+    [
+      "La Niña is coming, raising the chances of a dangerous Atlantic hurricane season",
+      "https://phys.org/news/2024-05-la-nia-chances-dangerous-atlantic.html"
+    ]
+  ],
+  [
+    [
       "2024-05-28, 00:25:27",
       "https://news.ycombinator.com/item?id=40496150"
     ],
@@ -31,6 +41,16 @@
   ],
   [
     [
+      "2024-05-27, 21:15:40",
+      "https://news.ycombinator.com/item?id=40494793"
+    ],
+    [
+      "Notepad Tab",
+      "https://notepadtab.com/"
+    ]
+  ],
+  [
+    [
       "2024-05-27, 20:13:20",
       "https://news.ycombinator.com/item?id=40494216"
     ],
@@ -47,16 +67,6 @@
     [
       "GTFL – A Graphical Terminal for Common Lisp",
       "http://www.martin-loetzsch.de/gtfl/"
-    ]
-  ],
-  [
-    [
-      "2024-05-27, 18:03:36",
-      "https://news.ycombinator.com/item?id=40493074"
-    ],
-    [
-      "More Itertools",
-      "https://more-itertools.readthedocs.io/en/stable/"
     ]
   ],
   [
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2024-05-27, 16:06:20",
-      "https://news.ycombinator.com/item?id=40492054"
-    ],
-    [
-      "An adjustable filter that can prevent interference in the range 600 MHz to 6 GHz",
-      "https://blog.seas.upenn.edu/to-6g-and-beyond-penn-engineers-unlock-the-next-generation-of-wireless-communications/"
-    ]
-  ],
-  [
-    [
       "2024-05-27, 15:31:24",
       "https://news.ycombinator.com/item?id=40491694"
     ],
@@ -187,16 +187,6 @@
     [
       "My new PSU burns out – I fix it, and torture it by cracking water",
       "https://tomscii.sig7.se/2024/05/PSU-burnout-and-torture-cracking-water"
-    ]
-  ],
-  [
-    [
-      "2024-05-27, 08:30:05",
-      "https://news.ycombinator.com/item?id=40488844"
-    ],
-    [
-      "Big data is dead (2023)",
-      "https://motherduck.com/blog/big-data-is-dead/"
     ]
   ],
   [
@@ -275,7 +265,7 @@
       "https://news.ycombinator.com/item?id=40477895"
     ],
     [
-      "Last Hours of an Organ Donor",
+      "Last hours of an organ donor",
       "https://aeon.co/essays/the-tenderness-of-medical-care-in-an-organ-donors-last-hours"
     ]
   ],
@@ -295,8 +285,18 @@
       "https://news.ycombinator.com/item?id=40471927"
     ],
     [
-      "The Hunt: How Frida Kahlo's Final Painting Vanished into Storage",
+      "Frida Kahlo's final painting vanished into storage",
       "https://news.artnet.com/art-world/the-hunt-wounded-table-kahlo-2461778"
+    ]
+  ],
+  [
+    [
+      "2024-05-24, 19:49:18",
+      "https://news.ycombinator.com/item?id=40469861"
+    ],
+    [
+      "My Hour of Memoryless Lucidity",
+      "https://ericneyman.wordpress.com/2024/05/04/my-hour-of-memoryless-lucidity/"
     ]
   ]
 ]
