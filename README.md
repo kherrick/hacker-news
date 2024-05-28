@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-28, 21:02:50](https://news.ycombinator.com/item?id=40505586) - [Electromagnetic Waves and Antennas](https://www.ece.rutgers.edu/~orfanidi/ewa/)
-* [2024-05-28, 21:01:37](https://news.ycombinator.com/item?id=40505575) - [Startups must choose between productivity and alignment](https://www.zaxis.page/p/productivity-versus-alignment)
-* [2024-05-28, 20:25:20](https://news.ycombinator.com/item?id=40505213) - [Shadama: A Particle Simulation Programming Environment for Everyone](https://tinlizzie.org/~ohshima/shadama2/live2017/)
+* [2024-05-28, 21:02:50](https://news.ycombinator.com/item?id=40505586) - [Electromagnetic Waves and Antennas (2016)](https://www.ece.rutgers.edu/~orfanidi/ewa/)
+* [2024-05-28, 21:01:37](https://news.ycombinator.com/item?id=40505575) - [Productivity Versus Alignment](https://www.zaxis.page/p/productivity-versus-alignment)
+* [2024-05-28, 20:25:20](https://news.ycombinator.com/item?id=40505213) - [Shadama: A particle simulation programming environment for everyone](https://tinlizzie.org/~ohshima/shadama2/live2017/)
 * [2024-05-28, 20:23:40](https://news.ycombinator.com/item?id=40505197) - [Eradicating N+1s: The Two-Phase Data Load and Render Pattern in Go](https://brandur.org/two-phase-render)
 * [2024-05-28, 20:16:19](https://news.ycombinator.com/item?id=40505099) - [Llama 3-V: Matching GPT4-V with a 100x smaller model and 500 dollars](https://aksh-garg.medium.com/llama-3v-building-an-open-source-gpt-4v-competitor-in-under-500-7dd8f1f6c9ee)
 * [2024-05-28, 19:42:34](https://news.ycombinator.com/item?id=40504756) - [API Shouldn't Redirect HTTP to HTTPS](https://jviide.iki.fi/http-redirects)
