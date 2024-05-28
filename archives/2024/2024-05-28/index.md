@@ -15,6 +15,7 @@
 * [2024-05-28, 19:42:34](https://news.ycombinator.com/item?id=40504756) - [API Shouldn't Redirect HTTP to HTTPS](https://jviide.iki.fi/http-redirects)
 * [2024-05-28, 19:26:11](https://news.ycombinator.com/item?id=40504554) - [She Was 29. And Doctors Helped Her Die](https://www.thefp.com/p/zoraya-ter-beek-dead-assisted-suicide)
 * [2024-05-28, 19:20:38](https://news.ycombinator.com/item?id=40504481) - [Simple Speech-to-Text on the '10 Cents' CH32V003 Microcontroller](https://github.com/brian-smith-github/ch32v003_stt)
+* [2024-05-28, 19:16:10](https://news.ycombinator.com/item?id=40504420) - [Happiness](https://complicated.world/en/Human_Life)
 * [2024-05-28, 19:02:53](https://news.ycombinator.com/item?id=40504265) - [Paris's Catacomb Mushrooms (2017)](https://www.atlasobscura.com/articles/paris-catacomb-mushrooms)
 * [2024-05-28, 19:00:24](https://news.ycombinator.com/item?id=40504228) - [Former FTX Executive Ryan Salame Sentenced to 90 Months in Prison](https://www.justice.gov/usao-sdny/pr/former-ftx-executive-ryan-salame-sentenced-90-months-prison)
 * [2024-05-28, 18:58:45](https://news.ycombinator.com/item?id=40504212) - [Tinygrad 0.9.0](https://github.com/tinygrad/tinygrad/releases/tag/v0.9.0)
