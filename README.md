@@ -2,14 +2,12 @@
 
 * [2024-05-28, 21:02:50](https://news.ycombinator.com/item?id=40505586) - [Electromagnetic Waves and Antennas](https://www.ece.rutgers.edu/~orfanidi/ewa/)
 * [2024-05-28, 21:01:37](https://news.ycombinator.com/item?id=40505575) - [Startups must choose between productivity and alignment](https://www.zaxis.page/p/productivity-versus-alignment)
-* [2024-05-28, 20:26:04](https://news.ycombinator.com/item?id=40505223) - [Algorithmica](https://en.algorithmica.org)
 * [2024-05-28, 20:25:20](https://news.ycombinator.com/item?id=40505213) - [Shadama: A Particle Simulation Programming Environment for Everyone](https://tinlizzie.org/~ohshima/shadama2/live2017/)
 * [2024-05-28, 20:23:40](https://news.ycombinator.com/item?id=40505197) - [Eradicating N+1s: The Two-Phase Data Load and Render Pattern in Go](https://brandur.org/two-phase-render)
 * [2024-05-28, 20:16:19](https://news.ycombinator.com/item?id=40505099) - [Llama 3-V: Matching GPT4-V with a 100x smaller model and 500 dollars](https://aksh-garg.medium.com/llama-3v-building-an-open-source-gpt-4v-competitor-in-under-500-7dd8f1f6c9ee)
 * [2024-05-28, 19:42:34](https://news.ycombinator.com/item?id=40504756) - [API Shouldn't Redirect HTTP to HTTPS](https://jviide.iki.fi/http-redirects)
 * [2024-05-28, 19:28:21](https://news.ycombinator.com/item?id=40504586) - [Using Parquet's Bloom Filters](https://www.influxdata.com/blog/using-parquets-bloom-filters/)
 * [2024-05-28, 19:20:38](https://news.ycombinator.com/item?id=40504481) - [Simple Speech-to-Text on the '10 Cents' CH32V003 Microcontroller](https://github.com/brian-smith-github/ch32v003_stt)
-* [2024-05-28, 19:19:48](https://news.ycombinator.com/item?id=40504467) - [The Naughty Words the FAA Removed from the Sky](https://www.beautifulpublicdata.com/trump-naughty-faa-waypoints/)
 * [2024-05-28, 19:16:10](https://news.ycombinator.com/item?id=40504420) - [Happiness](https://complicated.world/en/Human_Life)
 * [2024-05-28, 19:00:24](https://news.ycombinator.com/item?id=40504228) - [Former FTX Executive Ryan Salame Sentenced to 90 Months in Prison](https://www.justice.gov/usao-sdny/pr/former-ftx-executive-ryan-salame-sentenced-90-months-prison)
 * [2024-05-28, 18:58:45](https://news.ycombinator.com/item?id=40504212) - [Tinygrad 0.9.0](https://github.com/tinygrad/tinygrad/releases/tag/v0.9.0)
@@ -29,7 +27,9 @@
 * [2024-05-28, 14:22:52](https://news.ycombinator.com/item?id=40501015) - [An air quality model that is evolving with the times](https://eos.org/science-updates/an-air-quality-model-that-is-evolving-with-the-times)
 * [2024-05-28, 08:17:00](https://news.ycombinator.com/item?id=40498580) - [Show HN: File0 – An easier way to manage files in serverless apps](https://www.file0.dev)
 * [2024-05-28, 04:39:39](https://news.ycombinator.com/item?id=40497379) - [Transformers Can Do Arithmetic with the Right Embeddings](https://arxiv.org/abs/2405.17399)
+* [2024-05-28, 03:55:01](https://news.ycombinator.com/item?id=40497171) - [Refurb Weekend: Canon Cat](http://oldvcr.blogspot.com/2024/05/refurb-weekend-canon-cat.html)
 * [2024-05-28, 02:00:13](https://news.ycombinator.com/item?id=40496660) - [Researchers accurately dating a 7k-year-old settlement using cosmic rays](https://phys.org/news/2024-05-succeed-accurately-dating-year-prehistoric.html)
+* [2024-05-27, 16:25:53](https://news.ycombinator.com/item?id=40492234) - [Surveilling the masses with wi-fi-based positioning systems](https://arxiv.org/abs/2405.14975)
 
 ## [Archives](archives/index.md)
 
