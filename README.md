@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-28, 10:06:37](https://news.ycombinator.com/item?id=40499130) - [Wasmi v0.32: WebAssembly interpreter is now faster than](https://wasmi-labs.github.io/blog/posts/wasmi-v0.32/)
+* [2024-05-28, 08:17:00](https://news.ycombinator.com/item?id=40498580) - [Show HN: I'm tired of S3 and all the nonsense around it](https://www.file0.dev)
 * [2024-05-28, 07:00:10](https://news.ycombinator.com/item?id=40498122) - [Photoroom (YC S20) Is Hiring a Django Back End Lead in Paris (PostgreSQL, REST)](https://jobs.lever.co/photoroom/b3661dfc-72c8-441b-8483-c0f8596af452?lever-origin=applied&lever-source%5B%5D=yc)
 * [2024-05-28, 06:55:35](https://news.ycombinator.com/item?id=40498092) - [Gleam 1.2.0 release – Fault tolerant Gleam](https://gleam.run/news/fault-tolerant-gleam/)
 * [2024-05-28, 06:45:52](https://news.ycombinator.com/item?id=40498024) - [So many feed readers, so many behaviors](https://rachelbythebay.com/w/2024/05/27/feed/)
@@ -20,14 +22,12 @@
 * [2024-05-27, 16:55:59](https://news.ycombinator.com/item?id=40492515) - [Controlling the Taylor Swift Eras Tour wristbands with Flipper Zero](https://blog.jgc.org/2024/05/controlling-taylor-swift-eras-tour.html)
 * [2024-05-27, 16:25:53](https://news.ycombinator.com/item?id=40492234) - [Surveilling the masses with wi-fi-based positioning systems](https://arxiv.org/abs/2405.14975)
 * [2024-05-27, 15:31:24](https://news.ycombinator.com/item?id=40491694) - [Should I use JWTs for authentication tokens?](https://blog.ploetzli.ch/2024/should-i-use-jwt-for-authentication/)
-* [2024-05-27, 14:28:02](https://news.ycombinator.com/item?id=40491038) - [Reclaiming IPv4 Class E's 240.0.0.0/4](https://blog.benjojo.co.uk/post/class-e-addresses-in-the-real-world)
 * [2024-05-27, 11:01:01](https://news.ycombinator.com/item?id=40489596) - [Resume Tip: Hacking \"AI\" screening of resumes](https://www.solipsys.co.uk/images/ResumeTip.png)
-* [2024-05-27, 10:39:23](https://news.ycombinator.com/item?id=40489486) - [Possible association between tattoos and lymphoma](https://www.lunduniversity.lu.se/article/possible-association-between-tattoos-and-lymphoma-revealed)
 * [2024-05-26, 22:42:36](https://news.ycombinator.com/item?id=40486068) - [Evolution of the ELF object file format](https://maskray.me/blog/2024-05-26-evolution-of-elf-object-file-format)
 * [2024-05-26, 01:23:22](https://news.ycombinator.com/item?id=40479107) - [Doctor DOS Betamax's DOS Website (2024)](http://www.chebucto.ns.ca/~ak621/DOS/)
 * [2024-05-25, 21:58:20](https://news.ycombinator.com/item?id=40478175) - [Show HN: Sum (algebraic) types for C in one 100 line header](https://github.com/grego/sumtype.h)
-* [2024-05-25, 21:09:38](https://news.ycombinator.com/item?id=40477895) - [Last hours of an organ donor](https://aeon.co/essays/the-tenderness-of-medical-care-in-an-organ-donors-last-hours)
 * [2024-05-25, 11:44:51](https://news.ycombinator.com/item?id=40474314) - [How to Remove Useless Localizations](https://sleeplessbeastie.eu/2018/09/03/how-to-remove-useless-localizations/)
+* [2024-05-24, 22:06:16](https://news.ycombinator.com/item?id=40470893) - [Observations in Debian Dependency Solving](https://blog.jak-linux.org/2024/05/24/observations-in-debsat/)
 * [2024-05-24, 20:30:00](https://news.ycombinator.com/item?id=40470237) - [Emigre typography and graphic design magazine (1984–2005)](https://blog.gingerbeardman.com/2024/05/24/emigre-typography-and-graphic-design-magazine-1984-2005/)
 * [2024-05-24, 19:49:18](https://news.ycombinator.com/item?id=40469861) - [My Hour of Memoryless Lucidity](https://ericneyman.wordpress.com/2024/05/04/my-hour-of-memoryless-lucidity/)
 

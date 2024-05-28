@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-28](index.md)
 
+* [2024-05-28, 10:06:37](https://news.ycombinator.com/item?id=40499130) - [Wasmi v0.32: WebAssembly interpreter is now faster than](https://wasmi-labs.github.io/blog/posts/wasmi-v0.32/)
+* [2024-05-28, 08:17:00](https://news.ycombinator.com/item?id=40498580) - [Show HN: I'm tired of S3 and all the nonsense around it](https://www.file0.dev)
 * [2024-05-28, 07:00:10](https://news.ycombinator.com/item?id=40498122) - [Photoroom (YC S20) Is Hiring a Django Back End Lead in Paris (PostgreSQL, REST)](https://jobs.lever.co/photoroom/b3661dfc-72c8-441b-8483-c0f8596af452?lever-origin=applied&lever-source%5B%5D=yc)
 * [2024-05-28, 06:55:35](https://news.ycombinator.com/item?id=40498092) - [Gleam 1.2.0 release – Fault tolerant Gleam](https://gleam.run/news/fault-tolerant-gleam/)
 * [2024-05-28, 06:45:52](https://news.ycombinator.com/item?id=40498024) - [So many feed readers, so many behaviors](https://rachelbythebay.com/w/2024/05/27/feed/)
