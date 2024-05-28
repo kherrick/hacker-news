@@ -4,7 +4,7 @@
 * [2024-05-28, 15:13:30](https://news.ycombinator.com/item?id=40501492) - [Civil society to YouTube: stop helping Russia suppress free speech](https://www.accessnow.org/press-release/youtube-russia-stop-supressing-free-speech/)
 * [2024-05-28, 15:02:08](https://news.ycombinator.com/item?id=40501379) - [Orcas are still smashing up boats – and we've worked out why](https://newatlas.com/biology/orcas-killer-whales-boats/)
 * [2024-05-28, 15:00:12](https://news.ycombinator.com/item?id=40501363) - [Hate Chatbots? You Aren't the Only One](https://www.wsj.com/tech/ai/chatbots-consumer-sentiment-f045b6cd)
-* [2024-05-28, 14:24:24](https://news.ycombinator.com/item?id=40501027) - [Mobifree: More ethical and humane mobile software](https://f-droid.org/2024/05/24/mobifree.html)
+* [2024-05-28, 14:24:24](https://news.ycombinator.com/item?id=40501027) - [Mobifree – An open-source mobile ecosystem](https://f-droid.org/2024/05/24/mobifree.html)
 * [2024-05-28, 14:23:28](https://news.ycombinator.com/item?id=40501021) - [Show HN: I made a free app to calibrate your turntable by simply playing a song](https://grooved.okat.best/)
 * [2024-05-28, 14:22:52](https://news.ycombinator.com/item?id=40501015) - [An Air Quality Model That Is Evolving with the Times](https://eos.org/science-updates/an-air-quality-model-that-is-evolving-with-the-times)
 * [2024-05-28, 12:00:30](https://news.ycombinator.com/item?id=40499824) - [Opencall.ai (YC W24) Is Hiring](https://www.ycombinator.com/companies/opencall-ai/jobs/5wMleux-founding-engineer)
