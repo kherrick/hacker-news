@@ -2,8 +2,9 @@
 
 * [2024-05-28, 15:33:09](https://news.ycombinator.com/item?id=40501739) - [Leaked OpenAI Docs Show Sam Altman Clearly Aware of Silencing Former Employees](https://futurism.com/sam-altman-silencing-former-employees)
 * [2024-05-28, 15:13:30](https://news.ycombinator.com/item?id=40501492) - [Civil society to YouTube: stop helping Russia suppress free speech](https://www.accessnow.org/press-release/youtube-russia-stop-supressing-free-speech/)
+* [2024-05-28, 15:02:08](https://news.ycombinator.com/item?id=40501379) - [Orcas are still smashing up boats – and we've worked out why](https://newatlas.com/biology/orcas-killer-whales-boats/)
 * [2024-05-28, 15:00:12](https://news.ycombinator.com/item?id=40501363) - [Hate Chatbots? You Aren't the Only One](https://www.wsj.com/tech/ai/chatbots-consumer-sentiment-f045b6cd)
-* [2024-05-28, 14:24:24](https://news.ycombinator.com/item?id=40501027) - [Finally an alternative to Big Tech, your new open-source mobile ecosystem](https://f-droid.org/2024/05/24/mobifree.html)
+* [2024-05-28, 14:24:24](https://news.ycombinator.com/item?id=40501027) - [Mobifree: More ethical and humane mobile software](https://f-droid.org/2024/05/24/mobifree.html)
 * [2024-05-28, 14:23:28](https://news.ycombinator.com/item?id=40501021) - [Show HN: I made a free app to calibrate your turntable by simply playing a song](https://grooved.okat.best/)
 * [2024-05-28, 14:22:52](https://news.ycombinator.com/item?id=40501015) - [An Air Quality Model That Is Evolving with the Times](https://eos.org/science-updates/an-air-quality-model-that-is-evolving-with-the-times)
 * [2024-05-28, 12:00:30](https://news.ycombinator.com/item?id=40499824) - [Opencall.ai (YC W24) Is Hiring](https://www.ycombinator.com/companies/opencall-ai/jobs/5wMleux-founding-engineer)
@@ -25,7 +26,6 @@
 * [2024-05-26, 22:42:36](https://news.ycombinator.com/item?id=40486068) - [Evolution of the ELF object file format](https://maskray.me/blog/2024-05-26-evolution-of-elf-object-file-format)
 * [2024-05-26, 18:05:20](https://news.ycombinator.com/item?id=40484119) - [Long distance sound localization with the Raspberry Pi](https://medium.com/@kim_94237/tdoa-sound-localization-with-the-raspberry-pi-3e777469c4fa)
 * [2024-05-25, 21:58:20](https://news.ycombinator.com/item?id=40478175) - [Show HN: Sum (algebraic) types for C in one 100 line header](https://github.com/grego/sumtype.h)
-* [2024-05-25, 21:09:38](https://news.ycombinator.com/item?id=40477895) - [Last hours of an organ donor](https://aeon.co/essays/the-tenderness-of-medical-care-in-an-organ-donors-last-hours)
 * [2024-05-25, 15:06:38](https://news.ycombinator.com/item?id=40475472) - [Could I use the iPad as my only computer?](https://thejollyteapot.com/2024/05/24/could-i-use-the-ipad-as-my-only-computer)
 * [2024-05-24, 22:18:07](https://news.ycombinator.com/item?id=40470971) - [A Cursory Look at Cursors](https://www.eno-writer.com/016-a-cursory-look-at-cursors/)
 * [2024-05-24, 20:30:00](https://news.ycombinator.com/item?id=40470237) - [Emigre typography and graphic design magazine (1984–2005)](https://blog.gingerbeardman.com/2024/05/24/emigre-typography-and-graphic-design-magazine-1984-2005/)

@@ -6,6 +6,7 @@
 
 * [2024-05-28, 15:33:09](https://news.ycombinator.com/item?id=40501739) - [Leaked OpenAI Docs Show Sam Altman Clearly Aware of Silencing Former Employees](https://futurism.com/sam-altman-silencing-former-employees)
 * [2024-05-28, 15:13:30](https://news.ycombinator.com/item?id=40501492) - [Civil society to YouTube: stop helping Russia suppress free speech](https://www.accessnow.org/press-release/youtube-russia-stop-supressing-free-speech/)
+* [2024-05-28, 15:02:08](https://news.ycombinator.com/item?id=40501379) - [Orcas are still smashing up boats – and we've worked out why](https://newatlas.com/biology/orcas-killer-whales-boats/)
 * [2024-05-28, 15:00:12](https://news.ycombinator.com/item?id=40501363) - [Hate Chatbots? You Aren't the Only One](https://www.wsj.com/tech/ai/chatbots-consumer-sentiment-f045b6cd)
 * [2024-05-28, 14:25:17](https://news.ycombinator.com/item?id=40501034) - [Road planners embrace an unconventional intersection](https://www.npr.org/2024/05/28/1243933142/diverging-diamond-interchange-chlewicki)
 * [2024-05-28, 14:24:24](https://news.ycombinator.com/item?id=40501027) - [Finally an alternative to Big Tech, your new open-source mobile ecosystem](https://f-droid.org/2024/05/24/mobifree.html)
