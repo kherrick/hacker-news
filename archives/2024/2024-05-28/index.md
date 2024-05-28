@@ -5,10 +5,13 @@
 ### [Archives](../../index.md) for [2024-05-28](index.md)
 
 * [2024-05-28, 21:02:50](https://news.ycombinator.com/item?id=40505586) - [Electromagnetic Waves and Antennas](https://www.ece.rutgers.edu/~orfanidi/ewa/)
+* [2024-05-28, 21:01:37](https://news.ycombinator.com/item?id=40505575) - [Startups must choose between productivity and alignment](https://www.zaxis.page/p/productivity-versus-alignment)
+* [2024-05-28, 20:49:53](https://news.ycombinator.com/item?id=40505467) - [Internet Archive and the Wayback Machine under DDoS cyber-attack](https://blog.archive.org/2024/05/28/internet-archive-and-the-wayback-machine-under-ddos-cyber-attack/)
 * [2024-05-28, 20:32:19](https://news.ycombinator.com/item?id=40505310) - [Google won’t comment on a leak of its search algorithm documentation](https://www.theverge.com/2024/5/28/24166177/google-search-ranking-algorithm-leak-documents-link-seo)
 * [2024-05-28, 20:26:04](https://news.ycombinator.com/item?id=40505223) - [Algorithmica](https://en.algorithmica.org)
 * [2024-05-28, 20:25:20](https://news.ycombinator.com/item?id=40505213) - [Shadama: A Particle Simulation Programming Environment for Everyone](https://tinlizzie.org/~ohshima/shadama2/live2017/)
 * [2024-05-28, 20:23:40](https://news.ycombinator.com/item?id=40505197) - [Eradicating N+1s: The Two-Phase Data Load and Render Pattern in Go](https://brandur.org/two-phase-render)
+* [2024-05-28, 20:16:19](https://news.ycombinator.com/item?id=40505099) - [Llama 3-V: Matching GPT4-V with a 100x smaller model and 500 dollars](https://aksh-garg.medium.com/llama-3v-building-an-open-source-gpt-4v-competitor-in-under-500-7dd8f1f6c9ee)
 * [2024-05-28, 19:42:34](https://news.ycombinator.com/item?id=40504756) - [API Shouldn't Redirect HTTP to HTTPS](https://jviide.iki.fi/http-redirects)
 * [2024-05-28, 19:26:11](https://news.ycombinator.com/item?id=40504554) - [She Was 29. And Doctors Helped Her Die](https://www.thefp.com/p/zoraya-ter-beek-dead-assisted-suicide)
 * [2024-05-28, 19:20:38](https://news.ycombinator.com/item?id=40504481) - [Simple Speech-to-Text on the '10 Cents' CH32V003 Microcontroller](https://github.com/brian-smith-github/ch32v003_stt)
