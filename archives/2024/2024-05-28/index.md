@@ -4,12 +4,16 @@
 
 ### [Archives](../../index.md) for [2024-05-28](index.md)
 
+* [2024-05-28, 17:00:50](https://news.ycombinator.com/item?id=40502858) - [Linum (YC W23) is a hiring a founding AI engineer to train text-to-video models](https://www.workatastartup.com/jobs/66397)
+* [2024-05-28, 16:54:51](https://news.ycombinator.com/item?id=40502794) - [Jan Leike joins Anthropic on their superalignment team](https://twitter.com/janleike/status/1795497960509448617)
+* [2024-05-28, 16:53:35](https://news.ycombinator.com/item?id=40502776) - [US court to hear challenges to potential TikTok ban in September](https://www.reuters.com/legal/us-court-hear-challenges-potential-tiktok-ban-september-2024-05-28/)
 * [2024-05-28, 16:07:20](https://news.ycombinator.com/item?id=40502204) - [Saying Goodbye to ICQ](https://www.process-one.net/blog/saying-goodbye-to-icq/)
 * [2024-05-28, 15:58:46](https://news.ycombinator.com/item?id=40502090) - [Reproduce GPT-2 (124M) in llm.c in 90 minutes for $20](https://twitter.com/karpathy/status/1795484547267834137)
 * [2024-05-28, 15:33:09](https://news.ycombinator.com/item?id=40501739) - [Leaked OpenAI Docs Show Sam Altman Clearly Aware of Silencing Former Employees](https://futurism.com/sam-altman-silencing-former-employees)
 * [2024-05-28, 15:19:00](https://news.ycombinator.com/item?id=40501561) - [Generalizing Support for Functional OOP in R](https://blog.r-project.org/2024/05/17/generalizing-support-for-functional-oop-in-r/index.html)
 * [2024-05-28, 15:13:30](https://news.ycombinator.com/item?id=40501492) - [Civil society to YouTube: stop helping Russia suppress free speech](https://www.accessnow.org/press-release/youtube-russia-stop-supressing-free-speech/)
 * [2024-05-28, 15:02:08](https://news.ycombinator.com/item?id=40501379) - [Orcas are still smashing up boats – and we've worked out why](https://newatlas.com/biology/orcas-killer-whales-boats/)
+* [2024-05-28, 15:01:52](https://news.ycombinator.com/item?id=40501375) - [PayPal Is Planning an Ad Business Using Data on Its Shoppers](https://www.wsj.com/articles/paypal-is-planning-an-ad-business-using-data-on-its-millions-of-shoppers-cc5e0625)
 * [2024-05-28, 15:00:12](https://news.ycombinator.com/item?id=40501363) - [Hate Chatbots? You Aren't the Only One](https://www.wsj.com/tech/ai/chatbots-consumer-sentiment-f045b6cd)
 * [2024-05-28, 14:43:43](https://news.ycombinator.com/item?id=40501199) - [Applied Materials, semiconductor manufacturing supplier gets fifth subpoena](https://www.electronicsweekly.com/news/business/applied-gets-fifth-subpoena-2024-05/)
 * [2024-05-28, 14:39:14](https://news.ycombinator.com/item?id=40501164) - [Turbo9 – A Compact and Efficient Pipelined 6809 Microprocessor IP](https://github.com/turbo9team/turbo9)
