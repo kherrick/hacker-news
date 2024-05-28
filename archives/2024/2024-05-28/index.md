@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-28](index.md)
 
 * [2024-05-28, 17:11:56](https://news.ycombinator.com/item?id=40502956) - [Show HN: We're building your open-source, private Salesforce](https://github.com/openkoda/openkoda)
+* [2024-05-28, 17:08:15](https://news.ycombinator.com/item?id=40502916) - [Temperatures in Pakistan cross 52 degrees Celsius (125,6°F)](https://www.cnn.com/2024/05/28/asia/pakistan-heat-wave-sindh-climate-intl-hnk/index.html)
 * [2024-05-28, 17:00:50](https://news.ycombinator.com/item?id=40502858) - [Linum (YC W23) is a hiring a founding AI engineer to train text-to-video models](https://www.workatastartup.com/jobs/66397)
 * [2024-05-28, 16:54:51](https://news.ycombinator.com/item?id=40502794) - [Jan Leike joins Anthropic on their superalignment team](https://twitter.com/janleike/status/1795497960509448617)
 * [2024-05-28, 16:53:35](https://news.ycombinator.com/item?id=40502776) - [US court to hear challenges to potential TikTok ban in September](https://www.reuters.com/legal/us-court-hear-challenges-potential-tiktok-ban-september-2024-05-28/)

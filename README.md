@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-28, 17:11:56](https://news.ycombinator.com/item?id=40502956) - [Show HN: We're building your open-source, private Salesforce](https://github.com/openkoda/openkoda)
+* [2024-05-28, 17:08:15](https://news.ycombinator.com/item?id=40502916) - [Temperatures in Pakistan cross 52 degrees Celsius (125,6°F)](https://www.cnn.com/2024/05/28/asia/pakistan-heat-wave-sindh-climate-intl-hnk/index.html)
 * [2024-05-28, 17:00:50](https://news.ycombinator.com/item?id=40502858) - [Linum (YC W23) is a hiring a founding AI engineer to train text-to-video models](https://www.workatastartup.com/jobs/66397)
 * [2024-05-28, 16:54:51](https://news.ycombinator.com/item?id=40502794) - [Jan Leike joins Anthropic on their superalignment team](https://twitter.com/janleike/status/1795497960509448617)
 * [2024-05-28, 16:53:35](https://news.ycombinator.com/item?id=40502776) - [US court to hear challenges to potential TikTok ban in September](https://www.reuters.com/legal/us-court-hear-challenges-potential-tiktok-ban-september-2024-05-28/)
@@ -24,9 +25,8 @@
 * [2024-05-27, 16:55:59](https://news.ycombinator.com/item?id=40492515) - [Controlling the Taylor Swift Eras Tour wristbands with Flipper Zero](https://blog.jgc.org/2024/05/controlling-taylor-swift-eras-tour.html)
 * [2024-05-27, 16:25:53](https://news.ycombinator.com/item?id=40492234) - [Surveilling the masses with wi-fi-based positioning systems](https://arxiv.org/abs/2405.14975)
 * [2024-05-27, 15:31:24](https://news.ycombinator.com/item?id=40491694) - [Should I use JWTs for authentication tokens?](https://blog.ploetzli.ch/2024/should-i-use-jwt-for-authentication/)
-* [2024-05-27, 14:28:02](https://news.ycombinator.com/item?id=40491038) - [Reclaiming IPv4 Class E's 240.0.0.0/4](https://blog.benjojo.co.uk/post/class-e-addresses-in-the-real-world)
-* [2024-05-26, 22:42:36](https://news.ycombinator.com/item?id=40486068) - [Evolution of the ELF object file format](https://maskray.me/blog/2024-05-26-evolution-of-elf-object-file-format)
 * [2024-05-25, 21:58:20](https://news.ycombinator.com/item?id=40478175) - [Show HN: Sum (algebraic) types for C in one 100 line header](https://github.com/grego/sumtype.h)
+* [2024-05-25, 19:48:53](https://news.ycombinator.com/item?id=40477362) - [Archaeologists Found an 'Anomaly' Near the Pyramids – May Reveal Ancient Portal](https://www.popularmechanics.com/science/archaeology/a60815504/pyramids-anomaly/)
 * [2024-05-25, 07:54:10](https://news.ycombinator.com/item?id=40473381) - [Tail Recursion Elimination (2009)](http://neopythonic.blogspot.com/2009/04/tail-recursion-elimination.html)
 * [2024-05-24, 20:30:00](https://news.ycombinator.com/item?id=40470237) - [Emigre typography and graphic design magazine (1984–2005)](https://blog.gingerbeardman.com/2024/05/24/emigre-typography-and-graphic-design-magazine-1984-2005/)
 * [2024-05-24, 16:56:42](https://news.ycombinator.com/item?id=40468066) - [Surprising supernova scars cover the Earth](https://www.scientificamerican.com/article/how-often-do-supernovas-strike-earth/)
