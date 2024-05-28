@@ -10,6 +10,7 @@
 * [2024-05-24, 22:49:38](https://news.ycombinator.com/item?id=40471172) - [Another US state repeals law that protected ISPs from municipal competition](https://arstechnica.com/tech-policy/2024/05/another-us-state-repeals-law-that-protected-isps-from-municipal-competition/)
 * [2024-05-24, 22:29:06](https://news.ycombinator.com/item?id=40471060) - [Google's AI Overviews is being laughed at by the CEO of search rival Perplexity](https://www.businessinsider.com/google-ai-overviews-laughed-at-ceo-perplexity-pizza-glue-2024-5)
 * [2024-05-24, 22:28:44](https://news.ycombinator.com/item?id=40471058) - [Feds add nine more incidents to Waymo robotaxi investigation](https://techcrunch.com/2024/05/24/feds-add-nine-more-incidents-to-waymo-robotaxi-investigation/)
+* [2024-05-24, 22:18:07](https://news.ycombinator.com/item?id=40470971) - [A Cursory Look at Cursors](https://www.eno-writer.com/016-a-cursory-look-at-cursors/)
 * [2024-05-24, 22:06:16](https://news.ycombinator.com/item?id=40470893) - [Observations in Debian Dependency Solving](https://blog.jak-linux.org/2024/05/24/observations-in-debsat/)
 * [2024-05-24, 21:55:01](https://news.ycombinator.com/item?id=40470806) - [Giving Windows total recall of everything a user does is a privacy minefield](https://www.theregister.com/2024/05/22/windows_recall/)
 * [2024-05-24, 21:48:48](https://news.ycombinator.com/item?id=40470760) - [Osprey Is Unsafe and Unairworthy](https://taskandpurpose.com/news/osprey-lawsuit-marines-corps-unsafe/)

@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-28, 12:52:22](https://news.ycombinator.com/item?id=40500243) - [How does AI impact my job as a programmer?](https://chelseatroy.com/2024/05/26/how-does-ai-impact-my-job-as-a-programmer/)
 * [2024-05-28, 12:45:03](https://news.ycombinator.com/item?id=40500181) - [More transparent than glass, new material cools rooms and self-cleans](https://newatlas.com/materials/metamaterial-glass-radiative-cooling-self-cleaning/)
 * [2024-05-28, 12:00:30](https://news.ycombinator.com/item?id=40499824) - [Opencall.ai (YC W24) Is Hiring](https://www.ycombinator.com/companies/opencall-ai/jobs/5wMleux-founding-engineer)
 * [2024-05-28, 10:06:37](https://news.ycombinator.com/item?id=40499130) - [Wasmi v0.32: WebAssembly interpreter is now faster than ever](https://wasmi-labs.github.io/blog/posts/wasmi-v0.32/)
@@ -27,6 +26,7 @@
 * [2024-05-26, 18:05:20](https://news.ycombinator.com/item?id=40484119) - [Long distance sound localization with the Raspberry Pi](https://medium.com/@kim_94237/tdoa-sound-localization-with-the-raspberry-pi-3e777469c4fa)
 * [2024-05-25, 21:58:20](https://news.ycombinator.com/item?id=40478175) - [Show HN: Sum (algebraic) types for C in one 100 line header](https://github.com/grego/sumtype.h)
 * [2024-05-25, 21:09:38](https://news.ycombinator.com/item?id=40477895) - [Last hours of an organ donor](https://aeon.co/essays/the-tenderness-of-medical-care-in-an-organ-donors-last-hours)
+* [2024-05-24, 22:18:07](https://news.ycombinator.com/item?id=40470971) - [A Cursory Look at Cursors](https://www.eno-writer.com/016-a-cursory-look-at-cursors/)
 * [2024-05-24, 20:30:00](https://news.ycombinator.com/item?id=40470237) - [Emigre typography and graphic design magazine (1984–2005)](https://blog.gingerbeardman.com/2024/05/24/emigre-typography-and-graphic-design-magazine-1984-2005/)
 * [2024-05-24, 19:49:18](https://news.ycombinator.com/item?id=40469861) - [My Hour of Memoryless Lucidity](https://ericneyman.wordpress.com/2024/05/04/my-hour-of-memoryless-lucidity/)
 * [2024-05-24, 16:56:42](https://news.ycombinator.com/item?id=40468066) - [Surprising Supernova Scars Cover the Earth](https://www.scientificamerican.com/article/how-often-do-supernovas-strike-earth/)
