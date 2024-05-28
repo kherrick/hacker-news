@@ -41,6 +41,7 @@
 * [2024-05-25, 15:24:27](https://news.ycombinator.com/item?id=40475578) - [Google scrambles to manually remove weird AI answers in search](https://www.theverge.com/2024/5/24/24164119/google-ai-overview-mistakes-search-race-openai)
 * [2024-05-25, 15:20:46](https://news.ycombinator.com/item?id=40475556) - [When Open Source turns sour: A brush with mistaken identity](https://opensource.net/when-open-source-mistaken-identity-scandal/)
 * [2024-05-25, 15:06:38](https://news.ycombinator.com/item?id=40475472) - [Could I use the iPad as my only computer?](https://thejollyteapot.com/2024/05/24/could-i-use-the-ipad-as-my-only-computer)
+* [2024-05-25, 14:57:15](https://news.ycombinator.com/item?id=40475424) - [Itchio and coroutines (using OpenResty and Lua/Lapis) (2016)](https://leafo.net/posts/itchio-and-coroutines.html)
 * [2024-05-25, 14:50:22](https://news.ycombinator.com/item?id=40475386) - [The new visa fees for foreign artists are out. This is not good](https://www.ajournalofmusicalthings.com/the-new-visa-fees-for-foreign-artists-are-out-this-is-not-good/)
 * [2024-05-25, 14:44:58](https://news.ycombinator.com/item?id=40475355) - [Why is x & -x equal to the largest power of 2 that divides x?](https://arunmani.in/articles/highest-two-power-to-divide-a-number/)
 * [2024-05-25, 14:10:36](https://news.ycombinator.com/item?id=40475178) - [A shrinking life: Why some Asian youth withdraw from the world](https://www.cnn.com/interactive/2024/05/world/hikikomori-asia-personal-stories-wellness/)

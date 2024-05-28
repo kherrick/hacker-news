@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-28, 00:25:27](https://news.ycombinator.com/item?id=40496150) - [Dlvhdr/gh-dash: A beautiful CLI dashboard for GitHub](https://github.com/dlvhdr/gh-dash)
 * [2024-05-27, 22:28:38](https://news.ycombinator.com/item?id=40495368) - [Truth, Math, and Models (Part 8 in a series on the scientific method)](http://blog.rongarret.info/)
 * [2024-05-27, 21:58:32](https://news.ycombinator.com/item?id=40495149) - [Grokked Transformers Are Implicit Reasoners](https://arxiv.org/abs/2405.15071)
 * [2024-05-27, 20:13:20](https://news.ycombinator.com/item?id=40494216) - [Regular Expression Matching with a Trigram Index (2012)](https://swtch.com/~rsc/regexp/regexp4.html)
@@ -12,11 +13,9 @@
 * [2024-05-27, 16:28:50](https://news.ycombinator.com/item?id=40492264) - [The Internet Archive is under a DDoS attack](https://mastodon.archive.org/@internetarchive/112513905401989149)
 * [2024-05-27, 16:25:53](https://news.ycombinator.com/item?id=40492234) - [Surveilling the masses with wi-fi-based positioning systems](https://arxiv.org/abs/2405.14975)
 * [2024-05-27, 16:06:20](https://news.ycombinator.com/item?id=40492054) - [An adjustable filter that can prevent interference in the range 600 MHz to 6 GHz](https://blog.seas.upenn.edu/to-6g-and-beyond-penn-engineers-unlock-the-next-generation-of-wireless-communications/)
-* [2024-05-27, 15:50:34](https://news.ycombinator.com/item?id=40491896) - [The problem with the Darling 58 genetically modified chestnut tree](https://nymag.com/intelligencer/article/darling-58-american-chestnut-tree-mistake.html)
 * [2024-05-27, 15:31:24](https://news.ycombinator.com/item?id=40491694) - [Should I use JWTs for authentication tokens?](https://blog.ploetzli.ch/2024/should-i-use-jwt-for-authentication/)
 * [2024-05-27, 15:11:38](https://news.ycombinator.com/item?id=40491480) - [Instead of “auth”, we should say “permissions” and “login”](https://ntietz.com/blog/lets-say-instead-of-auth/)
 * [2024-05-27, 14:28:02](https://news.ycombinator.com/item?id=40491038) - [Reclaiming IPv4 Class E's 240.0.0.0/4](https://blog.benjojo.co.uk/post/class-e-addresses-in-the-real-world)
-* [2024-05-27, 12:30:32](https://news.ycombinator.com/item?id=40490154) - [Linux virtual machines, with a focus on running containers](https://lima-vm.io/)
 * [2024-05-27, 11:01:01](https://news.ycombinator.com/item?id=40489596) - [Resume Tip: Hacking \"AI\" screening of resumes](https://www.solipsys.co.uk/images/ResumeTip.png)
 * [2024-05-27, 10:39:23](https://news.ycombinator.com/item?id=40489486) - [Possible association between tattoos and lymphoma](https://www.lunduniversity.lu.se/article/possible-association-between-tattoos-and-lymphoma-revealed)
 * [2024-05-27, 09:55:19](https://news.ycombinator.com/item?id=40489269) - [My new PSU burns out – I fix it, and torture it by cracking water](https://tomscii.sig7.se/2024/05/PSU-burnout-and-torture-cracking-water)
@@ -29,6 +28,7 @@
 * [2024-05-26, 00:41:04](https://news.ycombinator.com/item?id=40478905) - [Origin of BDFL (2008)](https://www.artima.com/weblogs/viewpost.jsp?thread=235725)
 * [2024-05-25, 22:52:57](https://news.ycombinator.com/item?id=40478417) - [Recently increased prevalence of human forearm median artery: Microevolution](https://onlinelibrary.wiley.com/doi/10.1111/joa.13224)
 * [2024-05-25, 21:09:38](https://news.ycombinator.com/item?id=40477895) - [Last Hours of an Organ Donor](https://aeon.co/essays/the-tenderness-of-medical-care-in-an-organ-donors-last-hours)
+* [2024-05-25, 14:57:15](https://news.ycombinator.com/item?id=40475424) - [Itchio and coroutines (using OpenResty and Lua/Lapis) (2016)](https://leafo.net/posts/itchio-and-coroutines.html)
 * [2024-05-25, 01:18:58](https://news.ycombinator.com/item?id=40471927) - [The Hunt: How Frida Kahlo's Final Painting Vanished into Storage](https://news.artnet.com/art-world/the-hunt-wounded-table-kahlo-2461778)
 
 ## [Archives](archives/index.md)
