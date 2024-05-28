@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-28, 21:36:20](https://news.ycombinator.com/item?id=40505884) - [Cargo Was a Mistake](https://planetrenox.pages.dev/w/cargo+was+a+mistake)
+* [2024-05-28, 23:13:33](https://news.ycombinator.com/item?id=40506582) - [Ex-OpenAI board member reveals what led to Sam Altman's brief ousting](https://www.businessinsider.com/openai-board-member-details-sam-altman-lied-allegation-ousted-2024-5)
+* [2024-05-28, 21:31:38](https://news.ycombinator.com/item?id=40505839) - [Facebook will soon use your photos, posts and other info to train its AI](https://www.thejournal.ie/facebook-data-ai-6391876-May2024/)
 * [2024-05-28, 21:02:50](https://news.ycombinator.com/item?id=40505586) - [Electromagnetic Waves and Antennas (2016)](https://www.ece.rutgers.edu/~orfanidi/ewa/)
 * [2024-05-28, 21:01:37](https://news.ycombinator.com/item?id=40505575) - [Productivity Versus Alignment](https://www.zaxis.page/p/productivity-versus-alignment)
 * [2024-05-28, 20:25:20](https://news.ycombinator.com/item?id=40505213) - [Shadama: A particle simulation programming environment for everyone](https://tinlizzie.org/~ohshima/shadama2/live2017/)
@@ -28,7 +29,6 @@
 * [2024-05-28, 14:22:52](https://news.ycombinator.com/item?id=40501015) - [An air quality model that is evolving with the times](https://eos.org/science-updates/an-air-quality-model-that-is-evolving-with-the-times)
 * [2024-05-28, 08:17:00](https://news.ycombinator.com/item?id=40498580) - [Show HN: File0 – An easier way to manage files in serverless apps](https://www.file0.dev)
 * [2024-05-28, 04:39:39](https://news.ycombinator.com/item?id=40497379) - [Transformers Can Do Arithmetic with the Right Embeddings](https://arxiv.org/abs/2405.17399)
-* [2024-05-28, 03:55:01](https://news.ycombinator.com/item?id=40497171) - [Refurb Weekend: Canon Cat](http://oldvcr.blogspot.com/2024/05/refurb-weekend-canon-cat.html)
 * [2024-05-28, 02:00:13](https://news.ycombinator.com/item?id=40496660) - [Researchers accurately dating a 7k-year-old settlement using cosmic rays](https://phys.org/news/2024-05-succeed-accurately-dating-year-prehistoric.html)
 
 ## [Archives](archives/index.md)
