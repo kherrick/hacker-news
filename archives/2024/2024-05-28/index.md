@@ -22,6 +22,7 @@
 * [2024-05-28, 17:29:53](https://news.ycombinator.com/item?id=40503183) - [The Dark Stain on Tesla's Directors](https://montanaskeptic.substack.com/p/the-dark-stain-on-teslas-directors)
 * [2024-05-28, 17:22:07](https://news.ycombinator.com/item?id=40503082) - [British microchip plant faces closure after Apple pulls the plug](https://www.telegraph.co.uk/business/2024/05/25/british-microchip-plant-faces-closure-apple-pulls-plug/)
 * [2024-05-28, 17:13:28](https://news.ycombinator.com/item?id=40502977) - [New Flutter/Dart Features](https://favtutor.com/articles/flutter-dart-new-features/)
+* [2024-05-28, 17:12:35](https://news.ycombinator.com/item?id=40502962) - [WWDC kick off June 10 with Keynote address](https://www.apple.com/newsroom/2024/05/apples-worldwide-developers-conference-to-kick-off-june-10-with-keynote-address/)
 * [2024-05-28, 17:11:56](https://news.ycombinator.com/item?id=40502956) - [Show HN: We're building your open-source, private Salesforce](https://github.com/openkoda/openkoda)
 * [2024-05-28, 17:08:15](https://news.ycombinator.com/item?id=40502916) - [Temperatures in Pakistan cross 52 degrees Celsius (125,6°F)](https://www.cnn.com/2024/05/28/asia/pakistan-heat-wave-sindh-climate-intl-hnk/index.html)
 * [2024-05-28, 17:03:03](https://news.ycombinator.com/item?id=40502877) - [Steve Jurvetson's personal collection of Apollo Lunar Module parts](https://www.flickr.com/photos/jurvetson/albums/72157623704246792/)
