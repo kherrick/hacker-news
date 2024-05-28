@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-28](index.md)
 
+* [2024-05-28, 03:55:01](https://news.ycombinator.com/item?id=40497171) - [Refurb Weekend: Canon Cat](http://oldvcr.blogspot.com/2024/05/refurb-weekend-canon-cat.html)
 * [2024-05-28, 03:41:31](https://news.ycombinator.com/item?id=40497117) - [Fractal Geometry](https://users.math.yale.edu/public_html/People/frame/Fractals/)
 * [2024-05-28, 03:38:29](https://news.ycombinator.com/item?id=40497106) - [The Nonprofit Industrial Complex and the Corruption of the American City](https://americanaffairsjournal.org/2024/05/the-nonprofit-industrial-complex-and-the-corruption-of-the-american-city/)
 * [2024-05-28, 02:40:29](https://news.ycombinator.com/item?id=40496858) - [WP21](https://ma.tt/2024/05/wp21/)

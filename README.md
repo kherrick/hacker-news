@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-28, 03:55:01](https://news.ycombinator.com/item?id=40497171) - [Refurb Weekend: Canon Cat](http://oldvcr.blogspot.com/2024/05/refurb-weekend-canon-cat.html)
 * [2024-05-28, 03:41:31](https://news.ycombinator.com/item?id=40497117) - [Fractal Geometry](https://users.math.yale.edu/public_html/People/frame/Fractals/)
 * [2024-05-28, 03:38:29](https://news.ycombinator.com/item?id=40497106) - [The Nonprofit Industrial Complex and the Corruption of the American City](https://americanaffairsjournal.org/2024/05/the-nonprofit-industrial-complex-and-the-corruption-of-the-american-city/)
 * [2024-05-28, 02:40:29](https://news.ycombinator.com/item?id=40496858) - [WP21](https://ma.tt/2024/05/wp21/)
@@ -23,7 +24,6 @@
 * [2024-05-27, 09:55:19](https://news.ycombinator.com/item?id=40489269) - [My new PSU burns out – I fix it, and torture it by cracking water](https://tomscii.sig7.se/2024/05/PSU-burnout-and-torture-cracking-water)
 * [2024-05-26, 22:42:36](https://news.ycombinator.com/item?id=40486068) - [Evolution of the ELF object file format](https://maskray.me/blog/2024-05-26-evolution-of-elf-object-file-format)
 * [2024-05-26, 18:05:20](https://news.ycombinator.com/item?id=40484119) - [Long distance sound localization with the Raspberry Pi](https://medium.com/@kim_94237/tdoa-sound-localization-with-the-raspberry-pi-3e777469c4fa)
-* [2024-05-26, 07:03:05](https://news.ycombinator.com/item?id=40480242) - [Rete algorithm](https://en.wikipedia.org/wiki/Rete_algorithm)
 * [2024-05-26, 00:41:04](https://news.ycombinator.com/item?id=40478905) - [Origin of BDFL (2008)](https://www.artima.com/weblogs/viewpost.jsp?thread=235725)
 * [2024-05-25, 22:52:57](https://news.ycombinator.com/item?id=40478417) - [Recently increased prevalence of human forearm median artery: Microevolution](https://onlinelibrary.wiley.com/doi/10.1111/joa.13224)
 * [2024-05-25, 21:09:38](https://news.ycombinator.com/item?id=40477895) - [Last hours of an organ donor](https://aeon.co/essays/the-tenderness-of-medical-care-in-an-organ-donors-last-hours)
