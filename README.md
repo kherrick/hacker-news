@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-28, 21:36:20](https://news.ycombinator.com/item?id=40505884) - [Cargo Was a Mistake](https://planetrenox.pages.dev/w/cargo+was+a+mistake)
 * [2024-05-28, 21:02:50](https://news.ycombinator.com/item?id=40505586) - [Electromagnetic Waves and Antennas (2016)](https://www.ece.rutgers.edu/~orfanidi/ewa/)
 * [2024-05-28, 21:01:37](https://news.ycombinator.com/item?id=40505575) - [Productivity Versus Alignment](https://www.zaxis.page/p/productivity-versus-alignment)
 * [2024-05-28, 20:25:20](https://news.ycombinator.com/item?id=40505213) - [Shadama: A particle simulation programming environment for everyone](https://tinlizzie.org/~ohshima/shadama2/live2017/)
@@ -29,7 +30,6 @@
 * [2024-05-28, 04:39:39](https://news.ycombinator.com/item?id=40497379) - [Transformers Can Do Arithmetic with the Right Embeddings](https://arxiv.org/abs/2405.17399)
 * [2024-05-28, 03:55:01](https://news.ycombinator.com/item?id=40497171) - [Refurb Weekend: Canon Cat](http://oldvcr.blogspot.com/2024/05/refurb-weekend-canon-cat.html)
 * [2024-05-28, 02:00:13](https://news.ycombinator.com/item?id=40496660) - [Researchers accurately dating a 7k-year-old settlement using cosmic rays](https://phys.org/news/2024-05-succeed-accurately-dating-year-prehistoric.html)
-* [2024-05-27, 16:25:53](https://news.ycombinator.com/item?id=40492234) - [Surveilling the masses with wi-fi-based positioning systems](https://arxiv.org/abs/2405.14975)
 
 ## [Archives](archives/index.md)
 
