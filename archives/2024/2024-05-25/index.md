@@ -81,6 +81,7 @@
 * [2024-05-25, 02:08:08](https://news.ycombinator.com/item?id=40472119) - [AlmaLinux OS – Samba File Server](https://blog.while-true-do.io/almalinux-os-samba-file-server/)
 * [2024-05-25, 01:40:54](https://news.ycombinator.com/item?id=40472022) - [Unleashed Chat](https://unleashed.chat/)
 * [2024-05-25, 01:26:32](https://news.ycombinator.com/item?id=40471958) - [How massive, feral goldfish are threatening the Great Lakes ecosystem [video]](https://www.pbs.org/newshour/show/how-massive-feral-goldfish-are-threatening-the-great-lakes-ecosystem)
+* [2024-05-25, 01:18:58](https://news.ycombinator.com/item?id=40471927) - [The Hunt: How Frida Kahlo's Final Painting Vanished into Storage](https://news.artnet.com/art-world/the-hunt-wounded-table-kahlo-2461778)
 * [2024-05-25, 01:03:57](https://news.ycombinator.com/item?id=40471864) - [Byuu.org – Depression](https://archive.fo/2014.12.18-152806/https://byuu.org/)
 * [2024-05-25, 00:52:02](https://news.ycombinator.com/item?id=40471798) - [Email.ml – Minimalist Temporary Email](https://email.ml/)
 * [2024-05-25, 00:11:28](https://news.ycombinator.com/item?id=40471596) - [Columbus Predicted a 1504 Eclipse and Avoided Starvation in Jamaica](https://www.bookmarked.club/lessons/thinking-outside-the-box)
