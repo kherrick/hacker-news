@@ -89,6 +89,7 @@
 * [2024-05-26, 02:48:35](https://news.ycombinator.com/item?id=40479438) - [Best of Google AI search results](https://threadreaderapp.com/thread/1794543007129387208.html)
 * [2024-05-26, 02:26:09](https://news.ycombinator.com/item?id=40479370) - [Sword Fighting Is Not What You Think](https://www.thearma.org/essays/Swordfighting-Not.html)
 * [2024-05-26, 02:17:23](https://news.ycombinator.com/item?id=40479328) - [The Algorithm Behind Jim Simons's Success](https://alchemy.substack.com/p/the-algorithm-behind-jim-simonss)
+* [2024-05-26, 01:23:22](https://news.ycombinator.com/item?id=40479107) - [Doctor DOS Betamax's DOS Website (2024)](http://www.chebucto.ns.ca/~ak621/DOS/)
 * [2024-05-26, 00:54:23](https://news.ycombinator.com/item?id=40478976) - [GRC SpinRite](https://computer.rip/2024-05-25-grc-spinrite.html)
 * [2024-05-26, 00:45:04](https://news.ycombinator.com/item?id=40478923) - ['I was misidentified as shoplifter by facial recognition tech'](https://www.bbc.com/news/technology-69055945)
 * [2024-05-26, 00:41:04](https://news.ycombinator.com/item?id=40478905) - [Origin of BDFL (2008)](https://www.artima.com/weblogs/viewpost.jsp?thread=235725)
