@@ -91,3 +91,4 @@
 * [2024-05-26, 02:17:23](https://news.ycombinator.com/item?id=40479328) - [The Algorithm Behind Jim Simons's Success](https://alchemy.substack.com/p/the-algorithm-behind-jim-simonss)
 * [2024-05-26, 00:54:23](https://news.ycombinator.com/item?id=40478976) - [GRC SpinRite](https://computer.rip/2024-05-25-grc-spinrite.html)
 * [2024-05-26, 00:45:04](https://news.ycombinator.com/item?id=40478923) - ['I was misidentified as shoplifter by facial recognition tech'](https://www.bbc.com/news/technology-69055945)
+* [2024-05-26, 00:41:04](https://news.ycombinator.com/item?id=40478905) - [Origin of BDFL (2008)](https://www.artima.com/weblogs/viewpost.jsp?thread=235725)
