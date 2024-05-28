@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-28](index.md)
 
+* [2024-05-28, 20:25:20](https://news.ycombinator.com/item?id=40505213) - [Shadama: A Particle Simulation Programming Environment for Everyone](https://tinlizzie.org/~ohshima/shadama2/live2017/)
 * [2024-05-28, 19:42:34](https://news.ycombinator.com/item?id=40504756) - [API Shouldn't Redirect HTTP to HTTPS](https://jviide.iki.fi/http-redirects)
 * [2024-05-28, 19:26:11](https://news.ycombinator.com/item?id=40504554) - [She Was 29. And Doctors Helped Her Die](https://www.thefp.com/p/zoraya-ter-beek-dead-assisted-suicide)
 * [2024-05-28, 19:02:53](https://news.ycombinator.com/item?id=40504265) - [Paris's Catacomb Mushrooms (2017)](https://www.atlasobscura.com/articles/paris-catacomb-mushrooms)

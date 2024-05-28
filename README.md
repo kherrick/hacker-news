@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-28, 20:25:20](https://news.ycombinator.com/item?id=40505213) - [Shadama: A Particle Simulation Programming Environment for Everyone](https://tinlizzie.org/~ohshima/shadama2/live2017/)
 * [2024-05-28, 19:42:34](https://news.ycombinator.com/item?id=40504756) - [API Shouldn't Redirect HTTP to HTTPS](https://jviide.iki.fi/http-redirects)
 * [2024-05-28, 19:00:24](https://news.ycombinator.com/item?id=40504228) - [Former FTX Executive Ryan Salame Sentenced to 90 Months in Prison](https://www.justice.gov/usao-sdny/pr/former-ftx-executive-ryan-salame-sentenced-90-months-prison)
 * [2024-05-28, 18:58:45](https://news.ycombinator.com/item?id=40504212) - [Tinygrad 0.9.0](https://github.com/tinygrad/tinygrad/releases/tag/v0.9.0)
@@ -20,7 +21,6 @@
 * [2024-05-28, 14:22:52](https://news.ycombinator.com/item?id=40501015) - [An air quality model that is evolving with the times](https://eos.org/science-updates/an-air-quality-model-that-is-evolving-with-the-times)
 * [2024-05-28, 14:21:38](https://news.ycombinator.com/item?id=40500997) - [Ping Ff02:1](https://astrid.tech/2024/05/28/0/ping-ff02-1/)
 * [2024-05-28, 08:17:00](https://news.ycombinator.com/item?id=40498580) - [Show HN: File0 – An easier way to manage files in serverless apps](https://www.file0.dev)
-* [2024-05-28, 05:30:29](https://news.ycombinator.com/item?id=40497602) - [The Way We Are Building Event-Driven Applications Is Misguided](https://gillesbarbier.medium.com/the-way-we-are-building-event-driven-applications-is-misguided-7f7c5f1a9061)
 * [2024-05-28, 04:39:39](https://news.ycombinator.com/item?id=40497379) - [Transformers Can Do Arithmetic with the Right Embeddings](https://arxiv.org/abs/2405.17399)
 * [2024-05-28, 03:55:01](https://news.ycombinator.com/item?id=40497171) - [Refurb Weekend: Canon Cat](http://oldvcr.blogspot.com/2024/05/refurb-weekend-canon-cat.html)
 * [2024-05-28, 02:00:13](https://news.ycombinator.com/item?id=40496660) - [Researchers accurately dating a 7k-year-old settlement using cosmic rays](https://phys.org/news/2024-05-succeed-accurately-dating-year-prehistoric.html)
