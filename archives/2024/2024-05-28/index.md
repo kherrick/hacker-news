@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-28](index.md)
 
+* [2024-05-28, 12:00:30](https://news.ycombinator.com/item?id=40499824) - [Opencall.ai (YC W24) Is Hiring](https://www.ycombinator.com/companies/opencall-ai/jobs/5wMleux-founding-engineer)
 * [2024-05-28, 10:50:56](https://news.ycombinator.com/item?id=40499375) - [The Auroras Should Be Spectacular This Summer, Thanks to Solar Maximum](https://www.wired.com/story/solar-maximum-aurora-northern-lights-2024-cme-sunspots/)
 * [2024-05-28, 10:31:37](https://news.ycombinator.com/item?id=40499260) - [My computer has an underscore in its name, and I have trouble with the network](https://kb.iu.edu/d/afqs)
 * [2024-05-28, 10:13:35](https://news.ycombinator.com/item?id=40499157) - [Space junk is raining from the sky. Who's responsible when it hits the Earth?](https://www.cbc.ca/news/science/space-debris-responsibility-1.7211473)
