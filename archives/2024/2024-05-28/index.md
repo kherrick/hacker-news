@@ -4,7 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-05-28](index.md)
 
+* [2024-05-28, 07:00:10](https://news.ycombinator.com/item?id=40498122) - [Photoroom (YC S20) Is Hiring a Django Back End Lead in Paris (PostgreSQL, REST)](https://jobs.lever.co/photoroom/b3661dfc-72c8-441b-8483-c0f8596af452?lever-origin=applied&lever-source%5B%5D=yc)
+* [2024-05-28, 06:55:35](https://news.ycombinator.com/item?id=40498092) - [Gleam 1.2.0 release – Fault tolerant Gleam](https://gleam.run/news/fault-tolerant-gleam/)
+* [2024-05-28, 06:45:52](https://news.ycombinator.com/item?id=40498024) - [So many feed readers, so many behaviors](https://rachelbythebay.com/w/2024/05/27/feed/)
+* [2024-05-28, 06:34:00](https://news.ycombinator.com/item?id=40497966) - [I Miss BSD/Linux](https://brainbaking.com/post/2024/05/i-miss-bsd-linux/)
 * [2024-05-28, 05:32:29](https://news.ycombinator.com/item?id=40497623) - [Doing is normally distributed, learning is log-normal](https://hiandrewquinn.github.io/til-site/posts/doing-is-normally-distributed-learning-is-log-normal/)
+* [2024-05-28, 05:30:29](https://news.ycombinator.com/item?id=40497602) - [The Way We Are Building Event-Driven Applications Is Misguided](https://gillesbarbier.medium.com/the-way-we-are-building-event-driven-applications-is-misguided-7f7c5f1a9061)
+* [2024-05-28, 05:07:51](https://news.ycombinator.com/item?id=40497496) - [Calling Time on DNSSEC?](https://www.potaroo.net/ispcol/2024-05/dnssec-fin.html)
 * [2024-05-28, 04:48:28](https://news.ycombinator.com/item?id=40497418) - [Inventing Cyrillic](https://www.historytoday.com/archive/history-matters/inventing-cyrillic)
 * [2024-05-28, 04:39:39](https://news.ycombinator.com/item?id=40497379) - [Transformers Can Do Arithmetic with the Right Embeddings](https://arxiv.org/abs/2405.17399)
 * [2024-05-28, 03:55:01](https://news.ycombinator.com/item?id=40497171) - [Refurb Weekend: Canon Cat](http://oldvcr.blogspot.com/2024/05/refurb-weekend-canon-cat.html)

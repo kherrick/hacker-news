@@ -59,6 +59,7 @@
 * [2024-05-25, 12:30:12](https://news.ycombinator.com/item?id=40474594) - [Developers Aren't Nerds](https://0xff.nu/dev-and-nerd)
 * [2024-05-25, 12:24:38](https://news.ycombinator.com/item?id=40474557) - [Kombucha-associated microbes alter host metabolism & suppress lipid accumulation](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011003)
 * [2024-05-25, 12:18:53](https://news.ycombinator.com/item?id=40474516) - [The deskilling of web dev is harming us all](https://www.baldurbjarnason.com/2024/the-deskilling-of-web-dev-is-harming-us-all/)
+* [2024-05-25, 11:44:51](https://news.ycombinator.com/item?id=40474314) - [How to Remove Useless Localizations](https://sleeplessbeastie.eu/2018/09/03/how-to-remove-useless-localizations/)
 * [2024-05-25, 11:42:23](https://news.ycombinator.com/item?id=40474294) - [Lessons from the Trenches on Reproducible Evaluation of Language Models](https://arxiv.org/abs/2405.14782)
 * [2024-05-25, 11:25:52](https://news.ycombinator.com/item?id=40474236) - [Publishing AI Slop Is a Choice](https://daringfireball.net/linked/2024/05/24/publishing-ai-slop-is-a-choice)
 * [2024-05-25, 11:14:26](https://news.ycombinator.com/item?id=40474202) - [Google just updated its algorithm. The Internet will never be the same](https://www.bbc.com/future/article/20240524-how-googles-new-algorithm-will-shape-your-internet)
