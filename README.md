@@ -13,7 +13,7 @@
 * [2024-05-28, 03:38:29](https://news.ycombinator.com/item?id=40497106) - [The Nonprofit Industrial Complex and the Corruption of the American City](https://americanaffairsjournal.org/2024/05/the-nonprofit-industrial-complex-and-the-corruption-of-the-american-city/)
 * [2024-05-28, 02:49:52](https://news.ycombinator.com/item?id=40496894) - [DBus and Systemd](https://uyha.github.io/technical/dbus-systemd.html)
 * [2024-05-28, 02:40:29](https://news.ycombinator.com/item?id=40496858) - [WP21](https://ma.tt/2024/05/wp21/)
-* [2024-05-28, 02:06:14](https://news.ycombinator.com/item?id=40496686) - [Beach erosion will make Southern Cal. coastal living 5* more expensive by 2050](https://phys.org/news/2024-05-beach-erosion-southern-california-coastal.html)
+* [2024-05-28, 02:04:58](https://news.ycombinator.com/item?id=40496682) - [La Niña is coming, raising the chances of a dangerous Atlantic hurricane season](https://phys.org/news/2024-05-la-nia-chances-dangerous-atlantic.html)
 * [2024-05-28, 01:44:50](https://news.ycombinator.com/item?id=40496588) - [Run VSCode and terminal on any iOS device](https://docs.blink.sh/advanced/code)
 * [2024-05-28, 00:25:27](https://news.ycombinator.com/item?id=40496150) - [Gh-dash: A beautiful CLI dashboard for GitHub](https://github.com/dlvhdr/gh-dash)
 * [2024-05-27, 21:58:32](https://news.ycombinator.com/item?id=40495149) - [Grokked Transformers Are Implicit Reasoners](https://arxiv.org/abs/2405.15071)
