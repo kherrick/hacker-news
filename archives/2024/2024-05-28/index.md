@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-28](index.md)
 
+* [2024-05-28, 19:02:53](https://news.ycombinator.com/item?id=40504265) - [Paris's Catacomb Mushrooms (2017)](https://www.atlasobscura.com/articles/paris-catacomb-mushrooms)
 * [2024-05-28, 18:58:45](https://news.ycombinator.com/item?id=40504212) - [Tinygrad 0.9.0](https://github.com/tinygrad/tinygrad/releases/tag/v0.9.0)
 * [2024-05-28, 18:32:06](https://news.ycombinator.com/item?id=40503925) - [Researchers Cracked an 11-Year-Old Password to a $3M Crypto Wallet](https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/)
 * [2024-05-28, 18:29:00](https://news.ycombinator.com/item?id=40503888) - [We're Watching Facebook Die](https://www.wheresyoured.at/were-watching-facebook-die/)
