@@ -12,7 +12,7 @@
 * [2024-05-28, 17:11:56](https://news.ycombinator.com/item?id=40502956) - [Show HN: Openkoda – Open–source, private, Salesforce alternative](https://github.com/openkoda/openkoda)
 * [2024-05-28, 17:03:03](https://news.ycombinator.com/item?id=40502877) - [Steve Jurvetson's personal collection of Apollo Lunar Module parts](https://www.flickr.com/photos/jurvetson/albums/72157623704246792/)
 * [2024-05-28, 17:00:50](https://news.ycombinator.com/item?id=40502858) - [Linum (YC W23) is a hiring a founding AI engineer to train text-to-video models](https://www.workatastartup.com/jobs/66397)
-* [2024-05-28, 15:58:46](https://news.ycombinator.com/item?id=40502090) - [Reproduce GPT-2 in llm.c](https://twitter.com/karpathy/status/1795484547267834137)
+* [2024-05-28, 15:58:46](https://news.ycombinator.com/item?id=40502090) - [Reproducing GPT-2 in llm.c](https://github.com/karpathy/llm.c/discussions/481)
 * [2024-05-28, 15:19:00](https://news.ycombinator.com/item?id=40501561) - [Generalizing Support for Functional OOP in R](https://blog.r-project.org/2024/05/17/generalizing-support-for-functional-oop-in-r/index.html)
 * [2024-05-28, 14:39:14](https://news.ycombinator.com/item?id=40501164) - [Turbo9 – A Compact and Efficient Pipelined 6809 Microprocessor IP](https://github.com/turbo9team/turbo9)
 * [2024-05-28, 14:24:24](https://news.ycombinator.com/item?id=40501027) - [Mobifree – An open-source mobile ecosystem](https://f-droid.org/2024/05/24/mobifree.html)

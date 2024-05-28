@@ -22,6 +22,7 @@
 * [2024-05-28, 16:54:51](https://news.ycombinator.com/item?id=40502794) - [Jan Leike joins Anthropic on their superalignment team](https://twitter.com/janleike/status/1795497960509448617)
 * [2024-05-28, 16:53:35](https://news.ycombinator.com/item?id=40502776) - [US court to hear challenges to potential TikTok ban in September](https://www.reuters.com/legal/us-court-hear-challenges-potential-tiktok-ban-september-2024-05-28/)
 * [2024-05-28, 16:07:20](https://news.ycombinator.com/item?id=40502204) - [Saying Goodbye to ICQ](https://www.process-one.net/blog/saying-goodbye-to-icq/)
+* [2024-05-28, 15:58:46](https://news.ycombinator.com/item?id=40502090) - [Reproducing GPT-2 in llm.c](https://github.com/karpathy/llm.c/discussions/481)
 * [2024-05-28, 15:58:46](https://news.ycombinator.com/item?id=40502090) - [Reproduce GPT-2 (124M) in llm.c in 90 minutes for $20](https://twitter.com/karpathy/status/1795484547267834137)
 * [2024-05-28, 15:33:09](https://news.ycombinator.com/item?id=40501739) - [Leaked OpenAI Docs Show Sam Altman Clearly Aware of Silencing Former Employees](https://futurism.com/sam-altman-silencing-former-employees)
 * [2024-05-28, 15:19:00](https://news.ycombinator.com/item?id=40501561) - [Generalizing Support for Functional OOP in R](https://blog.r-project.org/2024/05/17/generalizing-support-for-functional-oop-in-r/index.html)
