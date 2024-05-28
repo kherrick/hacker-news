@@ -6,6 +6,7 @@
 
 * [2024-05-28, 10:50:56](https://news.ycombinator.com/item?id=40499375) - [The Auroras Should Be Spectacular This Summer, Thanks to Solar Maximum](https://www.wired.com/story/solar-maximum-aurora-northern-lights-2024-cme-sunspots/)
 * [2024-05-28, 10:31:37](https://news.ycombinator.com/item?id=40499260) - [My computer has an underscore in its name, and I have trouble with the network](https://kb.iu.edu/d/afqs)
+* [2024-05-28, 10:13:35](https://news.ycombinator.com/item?id=40499157) - [Space junk is raining from the sky. Who's responsible when it hits the Earth?](https://www.cbc.ca/news/science/space-debris-responsibility-1.7211473)
 * [2024-05-28, 10:06:37](https://news.ycombinator.com/item?id=40499130) - [Wasmi v0.32: WebAssembly interpreter is now faster than](https://wasmi-labs.github.io/blog/posts/wasmi-v0.32/)
 * [2024-05-28, 08:49:28](https://news.ycombinator.com/item?id=40498760) - [Root your Docker host in 10 seconds for fun and profit (2017)](https://www.electricmonk.nl/log/2017/09/30/root-your-docker-host-in-10-seconds-for-fun-and-profit/)
 * [2024-05-28, 08:17:00](https://news.ycombinator.com/item?id=40498580) - [Show HN: I'm tired of S3 and all the nonsense around it](https://www.file0.dev)
