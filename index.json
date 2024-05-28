@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2024-05-28, 02:49:52",
+      "https://news.ycombinator.com/item?id=40496894"
+    ],
+    [
+      "DBus and Systemd",
+      "https://uyha.github.io/technical/dbus-systemd.html"
+    ]
+  ],
+  [
+    [
       "2024-05-28, 02:40:29",
       "https://news.ycombinator.com/item?id=40496858"
     ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2024-05-27, 15:11:38",
-      "https://news.ycombinator.com/item?id=40491480"
-    ],
-    [
-      "Instead of “auth”, we should say “permissions” and “login”",
-      "https://ntietz.com/blog/lets-say-instead-of-auth/"
-    ]
-  ],
-  [
-    [
       "2024-05-27, 14:28:02",
       "https://news.ycombinator.com/item?id=40491038"
     ],
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2024-05-27, 09:55:19",
-      "https://news.ycombinator.com/item?id=40489269"
-    ],
-    [
-      "My new PSU burns out – I fix it, and torture it by cracking water",
-      "https://tomscii.sig7.se/2024/05/PSU-burnout-and-torture-cracking-water"
-    ]
-  ],
-  [
-    [
       "2024-05-26, 22:42:36",
       "https://news.ycombinator.com/item?id=40486068"
     ],
@@ -257,6 +247,16 @@
     [
       "Long distance sound localization with the Raspberry Pi",
       "https://medium.com/@kim_94237/tdoa-sound-localization-with-the-raspberry-pi-3e777469c4fa"
+    ]
+  ],
+  [
+    [
+      "2024-05-25, 21:58:20",
+      "https://news.ycombinator.com/item?id=40478175"
+    ],
+    [
+      "Show HN: Sum (algebraic) types for C in one 100 line header",
+      "https://github.com/grego/sumtype.h"
     ]
   ],
   [
