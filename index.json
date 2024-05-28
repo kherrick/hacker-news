@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2024-05-28, 05:30:29",
-      "https://news.ycombinator.com/item?id=40497602"
-    ],
-    [
-      "The Way We Are Building Event-Driven Applications Is Misguided",
-      "https://gillesbarbier.medium.com/the-way-we-are-building-event-driven-applications-is-misguided-7f7c5f1a9061"
-    ]
-  ],
-  [
-    [
       "2024-05-28, 04:39:39",
       "https://news.ycombinator.com/item?id=40497379"
     ],
@@ -277,6 +267,16 @@
     [
       "How to Remove Useless Localizations",
       "https://sleeplessbeastie.eu/2018/09/03/how-to-remove-useless-localizations/"
+    ]
+  ],
+  [
+    [
+      "2024-05-24, 22:06:16",
+      "https://news.ycombinator.com/item?id=40470893"
+    ],
+    [
+      "Observations in Debian Dependency Solving",
+      "https://blog.jak-linux.org/2024/05/24/observations-in-debsat/"
     ]
   ],
   [
