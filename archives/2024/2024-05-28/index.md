@@ -32,6 +32,7 @@
 * [2024-05-28, 02:58:52](https://news.ycombinator.com/item?id=40496933) - [Calling Time on DNSSEC?](https://blog.apnic.net/2024/05/28/calling-time-on-dnssec/)
 * [2024-05-28, 02:49:52](https://news.ycombinator.com/item?id=40496894) - [DBus and Systemd](https://uyha.github.io/technical/dbus-systemd.html)
 * [2024-05-28, 02:40:29](https://news.ycombinator.com/item?id=40496858) - [WP21](https://ma.tt/2024/05/wp21/)
+* [2024-05-28, 02:35:59](https://news.ycombinator.com/item?id=40496840) - [You leave a 'microbe fingerprint' on all clothing you wear–might forensic impl](https://phys.org/news/2024-05-microbe-fingerprint-piece-forensic-scientists.html)
 * [2024-05-28, 02:06:14](https://news.ycombinator.com/item?id=40496686) - [Beach erosion will make Southern Cal. coastal living 5* more expensive by 2050](https://phys.org/news/2024-05-beach-erosion-southern-california-coastal.html)
 * [2024-05-28, 02:04:58](https://news.ycombinator.com/item?id=40496682) - [La Niña is coming, raising the chances of a dangerous Atlantic hurricane season](https://phys.org/news/2024-05-la-nia-chances-dangerous-atlantic.html)
 * [2024-05-28, 02:04:36](https://news.ycombinator.com/item?id=40496681) - [JWT Tokens vs. Session Tokens](https://oguzkurukaya.medium.com/jwt-tokens-vs-session-tokens-06903e25c84d)
