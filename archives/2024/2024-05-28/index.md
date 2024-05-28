@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-28](index.md)
 
+* [2024-05-28, 14:25:17](https://news.ycombinator.com/item?id=40501034) - [Road planners embrace an unconventional intersection](https://www.npr.org/2024/05/28/1243933142/diverging-diamond-interchange-chlewicki)
+* [2024-05-28, 14:23:28](https://news.ycombinator.com/item?id=40501021) - [Show HN: I made a free app to calibrate your turntable by simply playing a song](https://grooved.okat.best/)
+* [2024-05-28, 14:07:32](https://news.ycombinator.com/item?id=40500895) - [OpenAI has a new safety team – it's run by Sam Altman](https://www.theverge.com/2024/5/28/24166105/openai-safety-team-sam-altman)
 * [2024-05-28, 12:52:22](https://news.ycombinator.com/item?id=40500243) - [How does AI impact my job as a programmer?](https://chelseatroy.com/2024/05/26/how-does-ai-impact-my-job-as-a-programmer/)
 * [2024-05-28, 12:45:03](https://news.ycombinator.com/item?id=40500181) - [More transparent than glass, new material cools rooms and self-cleans](https://newatlas.com/materials/metamaterial-glass-radiative-cooling-self-cleaning/)
 * [2024-05-28, 12:00:30](https://news.ycombinator.com/item?id=40499824) - [Opencall.ai (YC W24) Is Hiring](https://www.ycombinator.com/companies/opencall-ai/jobs/5wMleux-founding-engineer)
