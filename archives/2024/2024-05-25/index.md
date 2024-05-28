@@ -30,6 +30,7 @@
 * [2024-05-25, 19:11:34](https://news.ycombinator.com/item?id=40477165) - [Bird Flu Virus Found in Beef Tissue](https://www.nytimes.com/2024/05/24/health/bird-flu-beef.html)
 * [2024-05-25, 19:04:43](https://news.ycombinator.com/item?id=40477130) - [Cannabis Use Linked to Epigenetic Changes, Study Reveals](https://www.sciencealert.com/cannabis-use-linked-to-epigenetic-changes-study-reveals)
 * [2024-05-25, 18:36:45](https://news.ycombinator.com/item?id=40476947) - [VisionGPT open source – Analyze your image in seconds with AI](https://github.com/megoxv/visionGPT)
+* [2024-05-25, 18:31:03](https://news.ycombinator.com/item?id=40476911) - [Why does traffic bottleneck on freeways for no apparent reason?](https://engineering.mit.edu/engage/ask-an-engineer/why-does-traffic-bottleneck-on-freeways-for-no-apparent-reason/)
 * [2024-05-25, 17:58:18](https://news.ycombinator.com/item?id=40476674) - [Politicians fall sick after drinking raw milk to celebrate legalising raw milk](https://www.independent.co.uk/news/world/americas/politicians-sick-after-drinking-raw-milk-to-celebrate-legalising-raw-milk-a6923106.html)
 * [2024-05-25, 17:44:15](https://news.ycombinator.com/item?id=40476572) - [Where Are the Builders?](https://near.blog/where-are-the-builders/)
 * [2024-05-25, 17:25:55](https://news.ycombinator.com/item?id=40476440) - [University awards student $10k for his AI tool, then suspends him for using it](https://www.entrepreneur.com/business-news/emory-university-funds-suspends-student-over-ai-tool/474535)

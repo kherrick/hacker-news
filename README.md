@@ -1,11 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-28, 18:58:45](https://news.ycombinator.com/item?id=40504212) - [Tinygrad 0.9.0](https://github.com/tinygrad/tinygrad/releases/tag/v0.9.0)
 * [2024-05-28, 18:32:06](https://news.ycombinator.com/item?id=40503925) - [Researchers Cracked an 11-Year-Old Password to a $3M Crypto Wallet](https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/)
 * [2024-05-28, 18:29:00](https://news.ycombinator.com/item?id=40503888) - [We're Watching Facebook Die](https://www.wheresyoured.at/were-watching-facebook-die/)
-* [2024-05-28, 18:24:21](https://news.ycombinator.com/item?id=40503825) - [Microsoft should accept and give up Windows 11, throw everything at Windows 12](https://www.techradar.com/computing/windows/microsoft-should-accept-that-its-time-to-give-up-on-windows-11-and-throw-everything-at-windows-12)
 * [2024-05-28, 18:08:23](https://news.ycombinator.com/item?id=40503648) - [A robot will soon try to remove melted nuclear fuel from Fukushima reactor](https://apnews.com/article/japan-fukushima-nuclear-meltdown-debris-robot-238a5177ec3ac3c7608c3116fdf58a58)
 * [2024-05-28, 18:05:07](https://news.ycombinator.com/item?id=40503611) - [Chatbot Arena Leaderboard: Gemini 1.5 Flash, Pro and Advanced Results](https://twitter.com/lmsysorg/status/1795512202465845686)
-* [2024-05-28, 18:03:55](https://news.ycombinator.com/item?id=40503592) - [California is about to side with PG&E – again – to kill community solar projects](https://www.sfchronicle.com/opinion/editorials/article/california-pge-community-solar-19468490.php)
 * [2024-05-28, 17:44:46](https://news.ycombinator.com/item?id=40503363) - [Yet another project management SaaS](https://www.plan-b.today/)
 * [2024-05-28, 17:31:48](https://news.ycombinator.com/item?id=40503202) - [TTE: Terminal Text Effects](https://chrisbuilds.github.io/terminaltexteffects/showroom/)
 * [2024-05-28, 17:22:07](https://news.ycombinator.com/item?id=40503082) - [British microchip plant faces closure after Apple pulls the plug](https://www.telegraph.co.uk/business/2024/05/25/british-microchip-plant-faces-closure-apple-pulls-plug/)
@@ -20,6 +19,7 @@
 * [2024-05-28, 14:22:52](https://news.ycombinator.com/item?id=40501015) - [An air quality model that is evolving with the times](https://eos.org/science-updates/an-air-quality-model-that-is-evolving-with-the-times)
 * [2024-05-28, 14:21:38](https://news.ycombinator.com/item?id=40500997) - [Ping Ff02:1](https://astrid.tech/2024/05/28/0/ping-ff02-1/)
 * [2024-05-28, 08:17:00](https://news.ycombinator.com/item?id=40498580) - [Show HN: File0 – An easier way to manage files in serverless apps](https://www.file0.dev)
+* [2024-05-28, 05:30:29](https://news.ycombinator.com/item?id=40497602) - [The Way We Are Building Event-Driven Applications Is Misguided](https://gillesbarbier.medium.com/the-way-we-are-building-event-driven-applications-is-misguided-7f7c5f1a9061)
 * [2024-05-28, 04:39:39](https://news.ycombinator.com/item?id=40497379) - [Transformers Can Do Arithmetic with the Right Embeddings](https://arxiv.org/abs/2405.17399)
 * [2024-05-28, 03:55:01](https://news.ycombinator.com/item?id=40497171) - [Refurb Weekend: Canon Cat](http://oldvcr.blogspot.com/2024/05/refurb-weekend-canon-cat.html)
 * [2024-05-28, 02:00:13](https://news.ycombinator.com/item?id=40496660) - [Researchers accurately dating a 7k-year-old settlement using cosmic rays](https://phys.org/news/2024-05-succeed-accurately-dating-year-prehistoric.html)
@@ -29,7 +29,7 @@
 * [2024-05-27, 16:25:53](https://news.ycombinator.com/item?id=40492234) - [Surveilling the masses with wi-fi-based positioning systems](https://arxiv.org/abs/2405.14975)
 * [2024-05-27, 15:31:24](https://news.ycombinator.com/item?id=40491694) - [Should I use JWTs for authentication tokens?](https://blog.ploetzli.ch/2024/should-i-use-jwt-for-authentication/)
 * [2024-05-25, 21:58:20](https://news.ycombinator.com/item?id=40478175) - [Show HN: Sum (algebraic) types for C in one 100 line header](https://github.com/grego/sumtype.h)
-* [2024-05-25, 19:48:53](https://news.ycombinator.com/item?id=40477362) - [Archaeologists Found an 'Anomaly' Near the Pyramids – May Reveal Ancient Portal](https://www.popularmechanics.com/science/archaeology/a60815504/pyramids-anomaly/)
+* [2024-05-25, 18:31:03](https://news.ycombinator.com/item?id=40476911) - [Why does traffic bottleneck on freeways for no apparent reason?](https://engineering.mit.edu/engage/ask-an-engineer/why-does-traffic-bottleneck-on-freeways-for-no-apparent-reason/)
 
 ## [Archives](archives/index.md)
 
