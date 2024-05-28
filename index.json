@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-05-28, 18:08:23",
+      "https://news.ycombinator.com/item?id=40503648"
+    ],
+    [
+      "A robot will soon try to remove melted nuclear fuel from Fukushima reactor",
+      "https://apnews.com/article/japan-fukushima-nuclear-meltdown-debris-robot-238a5177ec3ac3c7608c3116fdf58a58"
+    ]
+  ],
+  [
+    [
+      "2024-05-28, 18:03:55",
+      "https://news.ycombinator.com/item?id=40503592"
+    ],
+    [
+      "California is about to side with PG&E – again – to kill community solar projects",
+      "https://www.sfchronicle.com/opinion/editorials/article/california-pge-community-solar-19468490.php"
+    ]
+  ],
+  [
+    [
+      "2024-05-28, 17:22:07",
+      "https://news.ycombinator.com/item?id=40503082"
+    ],
+    [
+      "British microchip plant faces closure after Apple pulls the plug",
+      "https://www.telegraph.co.uk/business/2024/05/25/british-microchip-plant-faces-closure-apple-pulls-plug/"
+    ]
+  ],
+  [
+    [
       "2024-05-28, 17:11:56",
       "https://news.ycombinator.com/item?id=40502956"
     ],
@@ -51,22 +81,22 @@
   ],
   [
     [
-      "2024-05-28, 15:02:08",
-      "https://news.ycombinator.com/item?id=40501379"
-    ],
-    [
-      "Free time, curiosity and playfulness has led to young orcas bumping boats",
-      "https://newatlas.com/biology/orcas-killer-whales-boats/"
-    ]
-  ],
-  [
-    [
       "2024-05-28, 14:39:14",
       "https://news.ycombinator.com/item?id=40501164"
     ],
     [
       "Turbo9 – A Compact and Efficient Pipelined 6809 Microprocessor IP",
       "https://github.com/turbo9team/turbo9"
+    ]
+  ],
+  [
+    [
+      "2024-05-28, 14:25:17",
+      "https://news.ycombinator.com/item?id=40501034"
+    ],
+    [
+      "Road planners embrace the diverging diamond interchange",
+      "https://www.npr.org/2024/05/28/1243933142/diverging-diamond-interchange-chlewicki"
     ]
   ],
   [
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2024-05-28, 09:23:24",
-      "https://news.ycombinator.com/item?id=40498933"
-    ],
-    [
-      "What You Shouldn't Know About Quantum Computers",
-      "https://arxiv.org/abs/2405.15838"
-    ]
-  ],
-  [
-    [
       "2024-05-28, 08:17:00",
       "https://news.ycombinator.com/item?id=40498580"
     ],
@@ -141,22 +161,42 @@
   ],
   [
     [
+      "2024-05-28, 06:34:00",
+      "https://news.ycombinator.com/item?id=40497966"
+    ],
+    [
+      "I Miss BSD/Linux",
+      "https://brainbaking.com/post/2024/05/i-miss-bsd-linux/"
+    ]
+  ],
+  [
+    [
+      "2024-05-28, 05:30:29",
+      "https://news.ycombinator.com/item?id=40497602"
+    ],
+    [
+      "The Way We Are Building Event-Driven Applications Is Misguided",
+      "https://gillesbarbier.medium.com/the-way-we-are-building-event-driven-applications-is-misguided-7f7c5f1a9061"
+    ]
+  ],
+  [
+    [
+      "2024-05-28, 04:39:39",
+      "https://news.ycombinator.com/item?id=40497379"
+    ],
+    [
+      "Transformers Can Do Arithmetic with the Right Embeddings",
+      "https://arxiv.org/abs/2405.17399"
+    ]
+  ],
+  [
+    [
       "2024-05-28, 03:55:01",
       "https://news.ycombinator.com/item?id=40497171"
     ],
     [
       "Refurb Weekend: Canon Cat",
       "http://oldvcr.blogspot.com/2024/05/refurb-weekend-canon-cat.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-28, 03:41:31",
-      "https://news.ycombinator.com/item?id=40497117"
-    ],
-    [
-      "Fractal Geometry",
-      "https://users.math.yale.edu/public_html/People/frame/Fractals/"
     ]
   ],
   [
@@ -221,36 +261,6 @@
   ],
   [
     [
-      "2024-05-27, 14:28:02",
-      "https://news.ycombinator.com/item?id=40491038"
-    ],
-    [
-      "Reclaiming IPv4 Class E's 240.0.0.0/4",
-      "https://blog.benjojo.co.uk/post/class-e-addresses-in-the-real-world"
-    ]
-  ],
-  [
-    [
-      "2024-05-27, 13:39:42",
-      "https://news.ycombinator.com/item?id=40490610"
-    ],
-    [
-      "Priced out of home ownership",
-      "https://www.bbc.co.uk/news/articles/cmj66r4lvzzo"
-    ]
-  ],
-  [
-    [
-      "2024-05-26, 22:42:36",
-      "https://news.ycombinator.com/item?id=40486068"
-    ],
-    [
-      "Evolution of the ELF object file format",
-      "https://maskray.me/blog/2024-05-26-evolution-of-elf-object-file-format"
-    ]
-  ],
-  [
-    [
       "2024-05-25, 21:58:20",
       "https://news.ycombinator.com/item?id=40478175"
     ],
@@ -277,16 +287,6 @@
     [
       "Tail Recursion Elimination (2009)",
       "http://neopythonic.blogspot.com/2009/04/tail-recursion-elimination.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-24, 20:30:00",
-      "https://news.ycombinator.com/item?id=40470237"
-    ],
-    [
-      "Emigre typography and graphic design magazine (1984–2005)",
-      "https://blog.gingerbeardman.com/2024/05/24/emigre-typography-and-graphic-design-magazine-1984-2005/"
     ]
   ],
   [
