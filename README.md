@@ -9,7 +9,7 @@
 * [2024-05-28, 02:06:14](https://news.ycombinator.com/item?id=40496686) - [Beach erosion will make Southern Cal. coastal living 5* more expensive by 2050](https://phys.org/news/2024-05-beach-erosion-southern-california-coastal.html)
 * [2024-05-28, 02:04:58](https://news.ycombinator.com/item?id=40496682) - [La Niña is coming, raising the chances of a dangerous Atlantic hurricane season](https://phys.org/news/2024-05-la-nia-chances-dangerous-atlantic.html)
 * [2024-05-28, 01:44:50](https://news.ycombinator.com/item?id=40496588) - [Run VSCode and terminal on any iOS device](https://docs.blink.sh/advanced/code)
-* [2024-05-28, 00:25:27](https://news.ycombinator.com/item?id=40496150) - [Dlvhdr/gh-dash: A beautiful CLI dashboard for GitHub](https://github.com/dlvhdr/gh-dash)
+* [2024-05-28, 00:25:27](https://news.ycombinator.com/item?id=40496150) - [Gh-dash: A beautiful CLI dashboard for GitHub](https://github.com/dlvhdr/gh-dash)
 * [2024-05-27, 22:28:38](https://news.ycombinator.com/item?id=40495368) - [Truth, Math, and Models (Part 8 in a series on the scientific method)](http://blog.rongarret.info/)
 * [2024-05-27, 21:58:32](https://news.ycombinator.com/item?id=40495149) - [Grokked Transformers Are Implicit Reasoners](https://arxiv.org/abs/2405.15071)
 * [2024-05-27, 21:15:40](https://news.ycombinator.com/item?id=40494793) - [Notepad Tab](https://notepadtab.com/)
