@@ -69,6 +69,7 @@
 * [2024-05-25, 10:41:31](https://news.ycombinator.com/item?id=40474101) - [The Route of a Text Message (2019)](https://web.archive.org/web/20210301230703/http://scottbot.net/the-route-of-a-text-message/)
 * [2024-05-25, 08:28:56](https://news.ycombinator.com/item?id=40473550) - [Big tech has distracted world from existential risk of AI, says top scientist](https://www.theguardian.com/technology/article/2024/may/25/big-tech-existential-risk-ai-scientist-max-tegmark-regulations)
 * [2024-05-25, 08:11:11](https://news.ycombinator.com/item?id=40473454) - [Male birth control breakthrough safely switches off fit sperm for a while](https://newatlas.com/medical/male-birth-control-stk333/)
+* [2024-05-25, 07:54:10](https://news.ycombinator.com/item?id=40473381) - [Tail Recursion Elimination (not in Python) (2009)](http://neopythonic.blogspot.com/2009/04/tail-recursion-elimination.html)
 * [2024-05-25, 07:09:47](https://news.ycombinator.com/item?id=40473198) - [Mistral Fine-Tune](https://github.com/mistralai/mistral-finetune)
 * [2024-05-25, 06:51:13](https://news.ycombinator.com/item?id=40473130) - [Signal's Meredith Whittaker on the Telegram security clash](https://techcrunch.com/2024/05/24/signals-meredith-whittaker-on-the-telegram-security-clash-and-the-edge-lords-at-openai/)
 * [2024-05-25, 06:50:54](https://news.ycombinator.com/item?id=40473128) - [EU Approves AI Act](https://vcsi.org/eu-ai-act-comprehensive-regulation/)
