@@ -20,6 +20,7 @@
 * [2024-05-24, 20:40:54](https://news.ycombinator.com/item?id=40470307) - [I uploaded 11 years of my Day One Journal data to GPT-4o](https://www.linkedin.com/posts/darryl-kelly_i-uploaded-11-years-97k-hours-of-transcribed-activity-7198679274046828544-gUrO)
 * [2024-05-24, 20:18:23](https://news.ycombinator.com/item?id=40470134) - [Guys what is wrong with ACATS](https://www.bitsaboutmoney.com/archive/how-acats-transfers-work/)
 * [2024-05-24, 20:17:13](https://news.ycombinator.com/item?id=40470123) - [Looking Glass debuts 16-inch OLED and 32-inch 'holographic' spatial displays](https://petapixel.com/2024/05/14/looking-glass-debuts-16-inch-oled-and-32-inch-holographic-spatial-displays/)
+* [2024-05-24, 19:49:18](https://news.ycombinator.com/item?id=40469861) - [My Hour of Memoryless Lucidity](https://ericneyman.wordpress.com/2024/05/04/my-hour-of-memoryless-lucidity/)
 * [2024-05-24, 19:33:36](https://news.ycombinator.com/item?id=40469711) - [Ian Clarke Explains the Next Generation of Freenet [video]](https://www.youtube.com/watch?v=yBtyNIqZios)
 * [2024-05-24, 19:20:56](https://news.ycombinator.com/item?id=40469606) - [Google AI: People should eat at least one small rock a day](https://mastodon.social/@danielnazer/112492966707079287#.)
 * [2024-05-24, 19:20:07](https://news.ycombinator.com/item?id=40469599) - [Egypt is building a $1B mega-museum](https://www.nature.com/immersive/d41586-024-01467-w/index.html)
