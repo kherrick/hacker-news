@@ -25,10 +25,10 @@
 * [2024-05-26, 22:42:36](https://news.ycombinator.com/item?id=40486068) - [Evolution of the ELF object file format](https://maskray.me/blog/2024-05-26-evolution-of-elf-object-file-format)
 * [2024-05-26, 01:23:22](https://news.ycombinator.com/item?id=40479107) - [Doctor DOS Betamax's DOS Website (2024)](http://www.chebucto.ns.ca/~ak621/DOS/)
 * [2024-05-25, 21:58:20](https://news.ycombinator.com/item?id=40478175) - [Show HN: Sum (algebraic) types for C in one 100 line header](https://github.com/grego/sumtype.h)
-* [2024-05-25, 21:09:38](https://news.ycombinator.com/item?id=40477895) - [Last hours of an organ donor](https://aeon.co/essays/the-tenderness-of-medical-care-in-an-organ-donors-last-hours)
 * [2024-05-25, 11:44:51](https://news.ycombinator.com/item?id=40474314) - [How to Remove Useless Localizations](https://sleeplessbeastie.eu/2018/09/03/how-to-remove-useless-localizations/)
 * [2024-05-24, 22:06:16](https://news.ycombinator.com/item?id=40470893) - [Observations in Debian Dependency Solving](https://blog.jak-linux.org/2024/05/24/observations-in-debsat/)
 * [2024-05-24, 20:30:00](https://news.ycombinator.com/item?id=40470237) - [Emigre typography and graphic design magazine (1984–2005)](https://blog.gingerbeardman.com/2024/05/24/emigre-typography-and-graphic-design-magazine-1984-2005/)
+* [2024-05-24, 19:49:18](https://news.ycombinator.com/item?id=40469861) - [My Hour of Memoryless Lucidity](https://ericneyman.wordpress.com/2024/05/04/my-hour-of-memoryless-lucidity/)
 * [2024-05-24, 16:56:42](https://news.ycombinator.com/item?id=40468066) - [Surprising Supernova Scars Cover the Earth](https://www.scientificamerican.com/article/how-often-do-supernovas-strike-earth/)
 
 ## [Archives](archives/index.md)
