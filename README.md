@@ -2,10 +2,10 @@
 
 * [2024-05-28, 05:32:29](https://news.ycombinator.com/item?id=40497623) - [Doing is normally distributed, learning is log-normal](https://hiandrewquinn.github.io/til-site/posts/doing-is-normally-distributed-learning-is-log-normal/)
 * [2024-05-28, 04:48:28](https://news.ycombinator.com/item?id=40497418) - [Inventing Cyrillic](https://www.historytoday.com/archive/history-matters/inventing-cyrillic)
+* [2024-05-28, 04:39:39](https://news.ycombinator.com/item?id=40497379) - [Transformers Can Do Arithmetic with the Right Embeddings](https://arxiv.org/abs/2405.17399)
 * [2024-05-28, 03:55:01](https://news.ycombinator.com/item?id=40497171) - [Refurb Weekend: Canon Cat](http://oldvcr.blogspot.com/2024/05/refurb-weekend-canon-cat.html)
 * [2024-05-28, 03:41:31](https://news.ycombinator.com/item?id=40497117) - [Fractal Geometry](https://users.math.yale.edu/public_html/People/frame/Fractals/)
 * [2024-05-28, 03:38:29](https://news.ycombinator.com/item?id=40497106) - [The Nonprofit Industrial Complex and the Corruption of the American City](https://americanaffairsjournal.org/2024/05/the-nonprofit-industrial-complex-and-the-corruption-of-the-american-city/)
-* [2024-05-28, 03:07:31](https://news.ycombinator.com/item?id=40496967) - [Anonymous Source Shared Leaked Google Search API Documents](https://sparktoro.com/blog/an-anonymous-source-shared-thousands-of-leaked-google-search-api-documents-with-me-everyone-in-seo-should-see-them/)
 * [2024-05-28, 02:49:52](https://news.ycombinator.com/item?id=40496894) - [DBus and Systemd](https://uyha.github.io/technical/dbus-systemd.html)
 * [2024-05-28, 02:40:29](https://news.ycombinator.com/item?id=40496858) - [WP21](https://ma.tt/2024/05/wp21/)
 * [2024-05-28, 02:06:14](https://news.ycombinator.com/item?id=40496686) - [Beach erosion will make Southern Cal. coastal living 5* more expensive by 2050](https://phys.org/news/2024-05-beach-erosion-southern-california-coastal.html)
