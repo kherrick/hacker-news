@@ -2,9 +2,9 @@
 
 * [2024-05-28, 12:45:03](https://news.ycombinator.com/item?id=40500181) - [More transparent than glass, new material cools rooms and self-cleans](https://newatlas.com/materials/metamaterial-glass-radiative-cooling-self-cleaning/)
 * [2024-05-28, 12:00:30](https://news.ycombinator.com/item?id=40499824) - [Opencall.ai (YC W24) Is Hiring](https://www.ycombinator.com/companies/opencall-ai/jobs/5wMleux-founding-engineer)
-* [2024-05-28, 10:42:02](https://news.ycombinator.com/item?id=40499314) - [Common Nginx misconfigurations that leave your web server open to attack](https://blog.detectify.com/industry-insights/common-nginx-misconfigurations-that-leave-your-web-server-ope-to-attack/)
 * [2024-05-28, 10:06:37](https://news.ycombinator.com/item?id=40499130) - [Wasmi v0.32: WebAssembly interpreter is now faster than ever](https://wasmi-labs.github.io/blog/posts/wasmi-v0.32/)
 * [2024-05-28, 09:23:24](https://news.ycombinator.com/item?id=40498933) - [What You Shouldn't Know About Quantum Computers](https://arxiv.org/abs/2405.15838)
+* [2024-05-28, 08:43:27](https://news.ycombinator.com/item?id=40498723) - [Let's Destroy C](https://gist.github.com/shakna-israel/4fd31ee469274aa49f8f9793c3e71163)
 * [2024-05-28, 04:39:39](https://news.ycombinator.com/item?id=40497379) - [Transformers Can Do Arithmetic with the Right Embeddings](https://arxiv.org/abs/2405.17399)
 * [2024-05-28, 03:55:01](https://news.ycombinator.com/item?id=40497171) - [Refurb Weekend: Canon Cat](http://oldvcr.blogspot.com/2024/05/refurb-weekend-canon-cat.html)
 * [2024-05-28, 03:41:31](https://news.ycombinator.com/item?id=40497117) - [Fractal Geometry](https://users.math.yale.edu/public_html/People/frame/Fractals/)
@@ -15,6 +15,7 @@
 * [2024-05-27, 20:13:20](https://news.ycombinator.com/item?id=40494216) - [Regular Expression Matching with a Trigram Index (2012)](https://swtch.com/~rsc/regexp/regexp4.html)
 * [2024-05-27, 20:00:11](https://news.ycombinator.com/item?id=40494097) - [GTFL – A Graphical Terminal for Common Lisp](http://www.martin-loetzsch.de/gtfl/)
 * [2024-05-27, 16:55:59](https://news.ycombinator.com/item?id=40492515) - [Controlling the Taylor Swift Eras Tour wristbands with Flipper Zero](https://blog.jgc.org/2024/05/controlling-taylor-swift-eras-tour.html)
+* [2024-05-27, 16:28:50](https://news.ycombinator.com/item?id=40492264) - [The Internet Archive is under a DDoS attack](https://mastodon.archive.org/@internetarchive/112513905401989149)
 * [2024-05-27, 16:25:53](https://news.ycombinator.com/item?id=40492234) - [Surveilling the masses with wi-fi-based positioning systems](https://arxiv.org/abs/2405.14975)
 * [2024-05-27, 15:31:24](https://news.ycombinator.com/item?id=40491694) - [Should I use JWTs for authentication tokens?](https://blog.ploetzli.ch/2024/should-i-use-jwt-for-authentication/)
 * [2024-05-27, 15:11:38](https://news.ycombinator.com/item?id=40491480) - [Instead of “auth”, we should say “permissions” and “login”](https://ntietz.com/blog/lets-say-instead-of-auth/)
@@ -28,7 +29,6 @@
 * [2024-05-25, 21:09:38](https://news.ycombinator.com/item?id=40477895) - [Last hours of an organ donor](https://aeon.co/essays/the-tenderness-of-medical-care-in-an-organ-donors-last-hours)
 * [2024-05-24, 22:18:07](https://news.ycombinator.com/item?id=40470971) - [A Cursory Look at Cursors](https://www.eno-writer.com/016-a-cursory-look-at-cursors/)
 * [2024-05-24, 20:30:00](https://news.ycombinator.com/item?id=40470237) - [Emigre typography and graphic design magazine (1984–2005)](https://blog.gingerbeardman.com/2024/05/24/emigre-typography-and-graphic-design-magazine-1984-2005/)
-* [2024-05-24, 19:49:18](https://news.ycombinator.com/item?id=40469861) - [My Hour of Memoryless Lucidity](https://ericneyman.wordpress.com/2024/05/04/my-hour-of-memoryless-lucidity/)
 * [2024-05-24, 16:56:42](https://news.ycombinator.com/item?id=40468066) - [Surprising Supernova Scars Cover the Earth](https://www.scientificamerican.com/article/how-often-do-supernovas-strike-earth/)
 
 ## [Archives](archives/index.md)
