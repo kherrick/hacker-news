@@ -3,7 +3,6 @@
 * [2024-05-28, 18:32:06](https://news.ycombinator.com/item?id=40503925) - [Researchers Cracked an 11-Year-Old Password to a $3M Crypto Wallet](https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/)
 * [2024-05-28, 18:29:00](https://news.ycombinator.com/item?id=40503888) - [We're Watching Facebook Die](https://www.wheresyoured.at/were-watching-facebook-die/)
 * [2024-05-28, 18:24:21](https://news.ycombinator.com/item?id=40503825) - [Microsoft should accept and give up Windows 11, throw everything at Windows 12](https://www.techradar.com/computing/windows/microsoft-should-accept-that-its-time-to-give-up-on-windows-11-and-throw-everything-at-windows-12)
-* [2024-05-28, 18:10:47](https://news.ycombinator.com/item?id=40503678) - [Star Citizen Tops $700M, Still No Release Date](https://www.ign.com/articles/star-citizen-pushes-through-the-700-million-raised-mark-and-no-there-still-isnt-a-release-date)
 * [2024-05-28, 18:08:23](https://news.ycombinator.com/item?id=40503648) - [A robot will soon try to remove melted nuclear fuel from Fukushima reactor](https://apnews.com/article/japan-fukushima-nuclear-meltdown-debris-robot-238a5177ec3ac3c7608c3116fdf58a58)
 * [2024-05-28, 18:05:07](https://news.ycombinator.com/item?id=40503611) - [Chatbot Arena Leaderboard: Gemini 1.5 Flash, Pro and Advanced Results](https://twitter.com/lmsysorg/status/1795512202465845686)
 * [2024-05-28, 18:03:55](https://news.ycombinator.com/item?id=40503592) - [California is about to side with PG&E – again – to kill community solar projects](https://www.sfchronicle.com/opinion/editorials/article/california-pge-community-solar-19468490.php)
@@ -29,6 +28,7 @@
 * [2024-05-27, 16:55:59](https://news.ycombinator.com/item?id=40492515) - [Controlling the Taylor Swift Eras Tour wristbands with Flipper Zero](https://blog.jgc.org/2024/05/controlling-taylor-swift-eras-tour.html)
 * [2024-05-27, 16:25:53](https://news.ycombinator.com/item?id=40492234) - [Surveilling the masses with wi-fi-based positioning systems](https://arxiv.org/abs/2405.14975)
 * [2024-05-27, 15:31:24](https://news.ycombinator.com/item?id=40491694) - [Should I use JWTs for authentication tokens?](https://blog.ploetzli.ch/2024/should-i-use-jwt-for-authentication/)
+* [2024-05-25, 21:58:20](https://news.ycombinator.com/item?id=40478175) - [Show HN: Sum (algebraic) types for C in one 100 line header](https://github.com/grego/sumtype.h)
 * [2024-05-25, 19:48:53](https://news.ycombinator.com/item?id=40477362) - [Archaeologists Found an 'Anomaly' Near the Pyramids – May Reveal Ancient Portal](https://www.popularmechanics.com/science/archaeology/a60815504/pyramids-anomaly/)
 
 ## [Archives](archives/index.md)
