@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-28](index.md)
 
+* [2024-05-28, 18:29:00](https://news.ycombinator.com/item?id=40503888) - [We're Watching Facebook Die](https://www.wheresyoured.at/were-watching-facebook-die/)
 * [2024-05-28, 18:10:47](https://news.ycombinator.com/item?id=40503678) - [Star Citizen Tops $700M, Still No Release Date](https://www.ign.com/articles/star-citizen-pushes-through-the-700-million-raised-mark-and-no-there-still-isnt-a-release-date)
 * [2024-05-28, 18:08:23](https://news.ycombinator.com/item?id=40503648) - [A robot will soon try to remove melted nuclear fuel from Fukushima reactor](https://apnews.com/article/japan-fukushima-nuclear-meltdown-debris-robot-238a5177ec3ac3c7608c3116fdf58a58)
 * [2024-05-28, 18:05:07](https://news.ycombinator.com/item?id=40503611) - [Chatbot Arena Leaderboard: Gemini 1.5 Flash, Pro and Advanced Results](https://twitter.com/lmsysorg/status/1795512202465845686)
