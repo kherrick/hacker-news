@@ -13,6 +13,7 @@
 * [2024-05-28, 19:16:10](https://news.ycombinator.com/item?id=40504420) - [Happiness](https://complicated.world/en/Human_Life)
 * [2024-05-28, 19:00:24](https://news.ycombinator.com/item?id=40504228) - [Former FTX Executive Ryan Salame Sentenced to 90 Months in Prison](https://www.justice.gov/usao-sdny/pr/former-ftx-executive-ryan-salame-sentenced-90-months-prison)
 * [2024-05-28, 18:58:45](https://news.ycombinator.com/item?id=40504212) - [Tinygrad 0.9.0](https://github.com/tinygrad/tinygrad/releases/tag/v0.9.0)
+* [2024-05-28, 18:53:08](https://news.ycombinator.com/item?id=40504141) - [Automata via Macros (2006)](https://cs.brown.edu/~sk/Publications/Papers/Published/sk-automata-macros/)
 * [2024-05-28, 18:32:06](https://news.ycombinator.com/item?id=40503925) - [Researchers Cracked an 11-Year-Old Password to a $3M Crypto Wallet](https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/)
 * [2024-05-28, 18:08:23](https://news.ycombinator.com/item?id=40503648) - [A robot will soon try to remove melted nuclear fuel from Fukushima reactor](https://apnews.com/article/japan-fukushima-nuclear-meltdown-debris-robot-238a5177ec3ac3c7608c3116fdf58a58)
 * [2024-05-28, 17:31:48](https://news.ycombinator.com/item?id=40503202) - [TTE: Terminal Text Effects](https://chrisbuilds.github.io/terminaltexteffects/showroom/)
@@ -27,7 +28,6 @@
 * [2024-05-28, 14:22:52](https://news.ycombinator.com/item?id=40501015) - [An air quality model that is evolving with the times](https://eos.org/science-updates/an-air-quality-model-that-is-evolving-with-the-times)
 * [2024-05-28, 14:21:38](https://news.ycombinator.com/item?id=40500997) - [Ping Ff02:1](https://astrid.tech/2024/05/28/0/ping-ff02-1/)
 * [2024-05-28, 08:17:00](https://news.ycombinator.com/item?id=40498580) - [Show HN: File0 – An easier way to manage files in serverless apps](https://www.file0.dev)
-* [2024-05-28, 04:39:39](https://news.ycombinator.com/item?id=40497379) - [Transformers Can Do Arithmetic with the Right Embeddings](https://arxiv.org/abs/2405.17399)
 * [2024-05-28, 02:00:13](https://news.ycombinator.com/item?id=40496660) - [Researchers accurately dating a 7k-year-old settlement using cosmic rays](https://phys.org/news/2024-05-succeed-accurately-dating-year-prehistoric.html)
 * [2024-05-27, 16:55:59](https://news.ycombinator.com/item?id=40492515) - [Controlling the Taylor Swift Eras Tour wristbands with Flipper Zero](https://blog.jgc.org/2024/05/controlling-taylor-swift-eras-tour.html)
 
