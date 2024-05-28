@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-28](index.md)
 
+* [2024-05-28, 18:32:06](https://news.ycombinator.com/item?id=40503925) - [Researchers Cracked an 11-Year-Old Password to a $3M Crypto Wallet](https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/)
 * [2024-05-28, 18:29:00](https://news.ycombinator.com/item?id=40503888) - [We're Watching Facebook Die](https://www.wheresyoured.at/were-watching-facebook-die/)
+* [2024-05-28, 18:24:21](https://news.ycombinator.com/item?id=40503825) - [Microsoft should accept and give up Windows 11, throw everything at Windows 12](https://www.techradar.com/computing/windows/microsoft-should-accept-that-its-time-to-give-up-on-windows-11-and-throw-everything-at-windows-12)
 * [2024-05-28, 18:10:47](https://news.ycombinator.com/item?id=40503678) - [Star Citizen Tops $700M, Still No Release Date](https://www.ign.com/articles/star-citizen-pushes-through-the-700-million-raised-mark-and-no-there-still-isnt-a-release-date)
 * [2024-05-28, 18:08:23](https://news.ycombinator.com/item?id=40503648) - [A robot will soon try to remove melted nuclear fuel from Fukushima reactor](https://apnews.com/article/japan-fukushima-nuclear-meltdown-debris-robot-238a5177ec3ac3c7608c3116fdf58a58)
 * [2024-05-28, 18:05:07](https://news.ycombinator.com/item?id=40503611) - [Chatbot Arena Leaderboard: Gemini 1.5 Flash, Pro and Advanced Results](https://twitter.com/lmsysorg/status/1795512202465845686)
