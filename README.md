@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-29, 00:58:30](https://news.ycombinator.com/item?id=40507159) - [Rhodes Must Fall: The Legacy of Cecil Rhodes in the University of Oxford](https://globalcapitalism.history.ox.ac.uk/files/case31-rhodesmustfallpdf)
 * [2024-05-29, 00:53:33](https://news.ycombinator.com/item?id=40507134) - [Tesla Settles Fatal Crash Suit Ahead of California Trial](https://www.ttnews.com/articles/tesla-fatal-suit-trial)
+* [2024-05-29, 00:15:58](https://news.ycombinator.com/item?id=40506913) - [Show HN: Savvy – Create, Share and Run Runbooks from your Terminal](https://github.com/getsavvyinc/savvy-cli)
 * [2024-05-29, 00:11:31](https://news.ycombinator.com/item?id=40506894) - [Ask HN: Why do games companies not release source code for old games?](https://news.ycombinator.com/item?id=40506894)
 * [2024-05-28, 23:13:33](https://news.ycombinator.com/item?id=40506582) - [Ex-OpenAI board member reveals what led to Sam Altman's brief ousting](https://www.businessinsider.com/openai-board-member-details-sam-altman-lied-allegation-ousted-2024-5)
 * [2024-05-28, 22:36:59](https://news.ycombinator.com/item?id=40506340) - [Proposal to change default annotation processing policy in JDK 23](https://mail.openjdk.org/pipermail/jdk-dev/2024-May/009028.html)
@@ -27,7 +27,7 @@
 * [2024-05-28, 14:23:28](https://news.ycombinator.com/item?id=40501021) - [Show HN: I made a free app to calibrate your turntable by simply playing a song](https://grooved.okat.best/)
 * [2024-05-28, 14:22:52](https://news.ycombinator.com/item?id=40501015) - [An air quality model that is evolving with the times](https://eos.org/science-updates/an-air-quality-model-that-is-evolving-with-the-times)
 * [2024-05-28, 08:17:00](https://news.ycombinator.com/item?id=40498580) - [Show HN: File0 – An easier way to manage files in serverless apps](https://www.file0.dev)
-* [2024-05-28, 04:39:39](https://news.ycombinator.com/item?id=40497379) - [Transformers Can Do Arithmetic with the Right Embeddings](https://arxiv.org/abs/2405.17399)
+* [2024-05-28, 05:02:54](https://news.ycombinator.com/item?id=40497472) - [Temu's semi-managed model could change everything](https://techbuzzchina.substack.com/p/how-temus-semi-managed-model-could)
 * [2024-05-28, 02:00:13](https://news.ycombinator.com/item?id=40496660) - [Researchers accurately dating a 7k-year-old settlement using cosmic rays](https://phys.org/news/2024-05-succeed-accurately-dating-year-prehistoric.html)
 * [2024-05-27, 15:50:34](https://news.ycombinator.com/item?id=40491896) - [The problem with the Darling 58 genetically modified chestnut tree](https://nymag.com/intelligencer/article/darling-58-american-chestnut-tree-mistake.html)
 
