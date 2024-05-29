@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-05-29, 10:54:23",
-      "https://news.ycombinator.com/item?id=40510536"
-    ],
-    [
-      "Hello World, Simple Event Broker",
-      "https://blog.vbang.dk//2024/05/26/seb/"
-    ]
-  ],
-  [
-    [
       "2024-05-29, 10:41:27",
       "https://news.ycombinator.com/item?id=40510468"
     ],
@@ -207,6 +197,16 @@
     [
       "Reproducing GPT-2 in llm.c",
       "https://github.com/karpathy/llm.c/discussions/481"
+    ]
+  ],
+  [
+    [
+      "2024-05-28, 15:19:00",
+      "https://news.ycombinator.com/item?id=40501561"
+    ],
+    [
+      "Generalizing Support for Functional OOP in R",
+      "https://blog.r-project.org/2024/05/17/generalizing-support-for-functional-oop-in-r/index.html"
     ]
   ],
   [
