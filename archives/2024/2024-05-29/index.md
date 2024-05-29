@@ -20,6 +20,7 @@
 * [2024-05-29, 14:43:37](https://news.ycombinator.com/item?id=40512509) - [Canada wants the power to create backdoors in telecom networks for surveillance](https://www.theglobeandmail.com/opinion/article-ottawa-wants-the-power-to-create-secret-backdoors-in-our-networks-to/)
 * [2024-05-29, 14:42:50](https://news.ycombinator.com/item?id=40512500) - [I sold TinyPilot, my first successful business](https://mtlynch.io/i-sold-tinypilot/)
 * [2024-05-29, 14:37:57](https://news.ycombinator.com/item?id=40512452) - [The Dark Turn of Conservatism: How the Alt-Right Is Hijacking the GOP](https://www.citizenschronicle.org/p/the-dark-turn-of-conservatism-how)
+* [2024-05-29, 14:20:02](https://news.ycombinator.com/item?id=40512296) - [A myopia epidemic is sweeping the globe](https://www.nature.com/articles/d41586-024-01518-2)
 * [2024-05-29, 14:16:10](https://news.ycombinator.com/item?id=40512250) - [Codestral: Mistral's Code Model](https://mistral.ai/news/codestral/)
 * [2024-05-29, 13:56:39](https://news.ycombinator.com/item?id=40512072) - [The U.S. Passes an Internet Privacy Law for Rich Jet Owners](https://www.techdirt.com/2024/05/29/the-u-s-finally-passes-an-internet-privacy-law-for-rich-jet-owners/)
 * [2024-05-29, 13:55:54](https://news.ycombinator.com/item?id=40512063) - [New Earplugs Won't Amplify the Sound of Your Own Voice](https://www.scientificamerican.com/article/new-earplugs-wont-amplify-the-sound-of-your-own-voice/)
