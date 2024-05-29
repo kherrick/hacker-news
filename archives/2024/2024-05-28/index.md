@@ -88,6 +88,7 @@
 * [2024-05-28, 06:45:52](https://news.ycombinator.com/item?id=40498024) - [So many feed readers, so many behaviors](https://rachelbythebay.com/w/2024/05/27/feed/)
 * [2024-05-28, 06:34:00](https://news.ycombinator.com/item?id=40497966) - [I Miss BSD/Linux](https://brainbaking.com/post/2024/05/i-miss-bsd-linux/)
 * [2024-05-28, 06:32:29](https://news.ycombinator.com/item?id=40497957) - [AdFlush](https://dl.acm.org/doi/abs/10.1145/3589334.3645698)
+* [2024-05-28, 06:09:47](https://news.ycombinator.com/item?id=40497828) - [Nalanda: The university that changed the world](https://www.bbc.com/travel/article/20230222-nalanda-the-university-that-changed-the-world)
 * [2024-05-28, 06:00:19](https://news.ycombinator.com/item?id=40497769) - [SignWave: Program to transcribe text, audio files into a sign language animation](https://github.com/tan-ad/SignWave)
 * [2024-05-28, 05:32:29](https://news.ycombinator.com/item?id=40497623) - [Doing is normally distributed, learning is log-normal](https://hiandrewquinn.github.io/til-site/posts/doing-is-normally-distributed-learning-is-log-normal/)
 * [2024-05-28, 05:30:29](https://news.ycombinator.com/item?id=40497602) - [The Way We Are Building Event-Driven Applications Is Misguided](https://gillesbarbier.medium.com/the-way-we-are-building-event-driven-applications-is-misguided-7f7c5f1a9061)
