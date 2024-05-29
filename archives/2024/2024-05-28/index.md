@@ -88,6 +88,7 @@
 * [2024-05-28, 06:00:19](https://news.ycombinator.com/item?id=40497769) - [SignWave: Program to transcribe text, audio files into a sign language animation](https://github.com/tan-ad/SignWave)
 * [2024-05-28, 05:32:29](https://news.ycombinator.com/item?id=40497623) - [Doing is normally distributed, learning is log-normal](https://hiandrewquinn.github.io/til-site/posts/doing-is-normally-distributed-learning-is-log-normal/)
 * [2024-05-28, 05:30:29](https://news.ycombinator.com/item?id=40497602) - [The Way We Are Building Event-Driven Applications Is Misguided](https://gillesbarbier.medium.com/the-way-we-are-building-event-driven-applications-is-misguided-7f7c5f1a9061)
+* [2024-05-28, 05:13:34](https://news.ycombinator.com/item?id=40497525) - [Galois/Counter Mode and random nonces](https://neilmadden.blog/2024/05/23/galois-counter-mode-and-random-nonces/)
 * [2024-05-28, 05:07:51](https://news.ycombinator.com/item?id=40497496) - [Calling Time on DNSSEC?](https://www.potaroo.net/ispcol/2024-05/dnssec-fin.html)
 * [2024-05-28, 05:02:54](https://news.ycombinator.com/item?id=40497472) - [Temu's semi-managed model could change everything](https://techbuzzchina.substack.com/p/how-temus-semi-managed-model-could)
 * [2024-05-28, 04:48:54](https://news.ycombinator.com/item?id=40497422) - [Love Spells and Deadly Shrieks: Illustrations of Mandrakes (Ca. 650–1927)](https://publicdomainreview.org/collection/mandrakes/)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-29, 09:36:14](https://news.ycombinator.com/item?id=40510125) - [Google Search document leak reveals inner workings of ranking algorithm](https://searchengineland.com/google-search-document-leak-ranking-442617)
 * [2024-05-29, 07:58:29](https://news.ycombinator.com/item?id=40509572) - [Three Laws of Software Complexity](https://maheshba.bitbucket.io/blog/2024/05/08/2024-ThreeLaws.html)
 * [2024-05-29, 07:28:56](https://news.ycombinator.com/item?id=40509409) - [You can force employees back to the office, but not the good ones](https://www.rte.ie/brainstorm/2024/0521/1450272-return-to-office-mandates-employees-work-from-home/)
 * [2024-05-29, 07:26:49](https://news.ycombinator.com/item?id=40509399) - [Former OpenAI board member explains why they fired Sam Altman](https://www.theverge.com/2024/5/28/24166713/openai-helen-toner-explains-why-sam-altman-was-fired)
@@ -23,12 +24,11 @@
 * [2024-05-28, 15:58:46](https://news.ycombinator.com/item?id=40502090) - [Reproducing GPT-2 in llm.c](https://github.com/karpathy/llm.c/discussions/481)
 * [2024-05-28, 15:19:00](https://news.ycombinator.com/item?id=40501561) - [Generalizing Support for Functional OOP in R](https://blog.r-project.org/2024/05/17/generalizing-support-for-functional-oop-in-r/index.html)
 * [2024-05-28, 14:39:14](https://news.ycombinator.com/item?id=40501164) - [Turbo9 – A Compact and Efficient Pipelined 6809 Microprocessor IP](https://github.com/turbo9team/turbo9)
-* [2024-05-28, 14:24:24](https://news.ycombinator.com/item?id=40501027) - [Mobifree – An open-source mobile ecosystem](https://f-droid.org/2024/05/24/mobifree.html)
 * [2024-05-28, 14:23:28](https://news.ycombinator.com/item?id=40501021) - [Show HN: I made a free app to calibrate your turntable by simply playing a song](https://grooved.okat.best/)
 * [2024-05-28, 14:22:52](https://news.ycombinator.com/item?id=40501015) - [An air quality model that is evolving with the times](https://eos.org/science-updates/an-air-quality-model-that-is-evolving-with-the-times)
+* [2024-05-28, 05:13:34](https://news.ycombinator.com/item?id=40497525) - [Galois/Counter Mode and random nonces](https://neilmadden.blog/2024/05/23/galois-counter-mode-and-random-nonces/)
 * [2024-05-28, 04:41:03](https://news.ycombinator.com/item?id=40497383) - [Ask HN: Can anyone recommend a Windows Systems programming book?](https://news.ycombinator.com/item?id=40497383)
 * [2024-05-28, 02:00:13](https://news.ycombinator.com/item?id=40496660) - [Researchers accurately dating a 7k-year-old settlement using cosmic rays](https://phys.org/news/2024-05-succeed-accurately-dating-year-prehistoric.html)
-* [2024-05-27, 15:50:34](https://news.ycombinator.com/item?id=40491896) - [The problem with the Darling 58 genetically modified chestnut tree](https://nymag.com/intelligencer/article/darling-58-american-chestnut-tree-mistake.html)
 * [2024-05-27, 09:49:50](https://news.ycombinator.com/item?id=40489248) - [Princeton astrophysicists re-imagine world map (2021)](https://www.princeton.edu/news/2021/02/15/princeton-astrophysicists-re-imagine-world-map-designing-less-distorted-radically)
 
 ## [Archives](archives/index.md)
