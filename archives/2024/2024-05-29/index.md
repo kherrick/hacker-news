@@ -8,6 +8,7 @@
 * [2024-05-29, 20:57:26](https://news.ycombinator.com/item?id=40516945) - [They Tried to Fire Sam Altman Because He Sucks](https://www.todayintabs.com/p/tried-fire-sam-altman-sucks)
 * [2024-05-29, 20:34:15](https://news.ycombinator.com/item?id=40516706) - [Toxoplasma Gondii significantly alters wolf behavior](https://www.sciencealert.com/something-strange-happens-to-wolves-infected-by-an-infamous-mind-altering-parasite)
 * [2024-05-29, 20:34:07](https://news.ycombinator.com/item?id=40516705) - [Stellantis CEO confirms $25k Jeep EV](https://www.teslarati.com/jeep-stellantis-ceo-25-k-ev/)
+* [2024-05-29, 20:19:56](https://news.ycombinator.com/item?id=40516532) - [How Waymo outlasted the competition and made robo-taxis a real business](https://fortune.com/2024/05/29/waymo-self-driving-robo-taxi-uber-tesla-alphabet/)
 * [2024-05-29, 20:12:09](https://news.ycombinator.com/item?id=40516437) - [Amazon Cloud Traffic Is Suffocating Fedora's Mirrors](https://www.phoronix.com/news/AWS-Cloud-Breaks-Fedora-Mirrors)
 * [2024-05-29, 19:46:48](https://news.ycombinator.com/item?id=40516116) - [Volkswagen Group brings electric car for EUR 20k](https://www.volkswagen-group.com/en/press-releases/from-europe-for-europe-volkswagen-group-launches-project-for-all-electric-entry-level-mobility-18416)
 * [2024-05-29, 19:33:12](https://news.ycombinator.com/item?id=40515957) - [You Need to Pay Better Attention](https://arxiv.org/abs/2403.01643)
