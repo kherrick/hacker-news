@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-29](index.md)
 
+* [2024-05-29, 18:14:34](https://news.ycombinator.com/item?id=40514983) - [Google releases smart watch for kids](https://store.google.com/US/product/fitbit_ace_lte?hl=en-US)
 * [2024-05-29, 17:57:02](https://news.ycombinator.com/item?id=40514783) - [Kids sickened by police training may have ingested decades old chemical weapons](https://www.sfchronicle.com/crime/article/sf-jail-chemical-weapons-19476975.php)
+* [2024-05-29, 17:42:08](https://news.ycombinator.com/item?id=40514641) - [BYD achieves 1,300-mile driving range with latest PHEVs](https://technode.com/2024/05/29/byd-achieves-1300-mile-driving-range-with-latest-phevs/)
 * [2024-05-29, 17:22:10](https://news.ycombinator.com/item?id=40514458) - [After Furiosa flops, Hollywood could be facing a biblically disastrous summer](https://www.bbc.com/culture/article/20240529-after-furiosa-flops-hollywood-could-be-facing-a-biblically-disastrous-summer)
 * [2024-05-29, 17:06:40](https://news.ycombinator.com/item?id=40514282) - [Kino: Pro Video Camera](https://www.lux.camera/introducing-kino-pro-video-camera/)
 * [2024-05-29, 17:05:29](https://news.ycombinator.com/item?id=40514266) - [Vector indexing all of Wikipedia on a laptop](https://foojay.io/today/indexing-all-of-wikipedia-on-a-laptop/)
