@@ -2,6 +2,7 @@
 
 * [2024-05-29, 16:36:18](https://news.ycombinator.com/item?id=40513875) - [Ticketmaster hacked. Breach affects more than half a billion users](https://mashable.com/article/ticketmaster-data-breach-shinyhunters-hack)
 * [2024-05-29, 16:32:02](https://news.ycombinator.com/item?id=40513817) - [US to modernize electrical grid – for clean energy and fewer outages](https://www.cnn.com/2024/05/28/climate/energy-grid-modernization-biden/index.html)
+* [2024-05-29, 16:29:17](https://news.ycombinator.com/item?id=40513782) - [Ask HN: Is Stripe the new PayPal, cancelling user accounts without explanation?](https://news.ycombinator.com/item?id=40513782)
 * [2024-05-29, 16:28:39](https://news.ycombinator.com/item?id=40513775) - [Afnic launches IBDNS, the \"intentionally broken\" DNS server](https://www.afnic.fr/en/observatory-and-resources/news/afnic-launches-ibdns-the-intentionally-broken-dns-server/)
 * [2024-05-29, 15:23:51](https://news.ycombinator.com/item?id=40512956) - [Phone cameras can take in more light than the human eye](https://theconversation.com/phone-cameras-can-take-in-more-light-than-the-human-eye-thats-why-low-light-events-like-the-northern-lights-often-look-better-through-your-phone-camera-230068)
 * [2024-05-29, 15:09:26](https://news.ycombinator.com/item?id=40512752) - [If A.I. Can Do Your Job, Maybe It Can Also Replace Your CEO](https://www.nytimes.com/2024/05/28/technology/ai-chief-executives.html)
@@ -22,7 +23,6 @@
 * [2024-05-28, 19:02:53](https://news.ycombinator.com/item?id=40504265) - [Paris's Catacomb Mushrooms (2017)](https://www.atlasobscura.com/articles/paris-catacomb-mushrooms)
 * [2024-05-28, 17:31:48](https://news.ycombinator.com/item?id=40503202) - [TTE: Terminal Text Effects](https://chrisbuilds.github.io/terminaltexteffects/showroom/)
 * [2024-05-28, 15:58:46](https://news.ycombinator.com/item?id=40502090) - [Reproducing GPT-2 in llm.c](https://github.com/karpathy/llm.c/discussions/481)
-* [2024-05-28, 14:23:28](https://news.ycombinator.com/item?id=40501021) - [Show HN: I made a free app to calibrate your turntable by simply playing a song](https://grooved.okat.best/)
 * [2024-05-28, 12:32:21](https://news.ycombinator.com/item?id=40500071) - [Can Music Make Your Food Taste Better?](https://www.atlasobscura.com/articles/can-music-make-food-taste-better)
 * [2024-05-28, 12:27:09](https://news.ycombinator.com/item?id=40500043) - [The Biggest Bookstore. 10 years after closing, it has a grip on readers](https://www.thestar.com/news/gta/going-to-the-world-s-biggest-bookstore-was-an-event-10-years-after-closing-it/article_5c3647a0-01a7-11ef-b85d-33ecf09526c7.html)
 * [2024-05-28, 12:03:27](https://news.ycombinator.com/item?id=40499842) - [20 Years of Blogging on my own website](https://jeena.net/20-years-blogging)

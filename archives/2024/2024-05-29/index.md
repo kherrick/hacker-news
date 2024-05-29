@@ -6,6 +6,7 @@
 
 * [2024-05-29, 16:36:18](https://news.ycombinator.com/item?id=40513875) - [Ticketmaster hacked. Breach affects more than half a billion users](https://mashable.com/article/ticketmaster-data-breach-shinyhunters-hack)
 * [2024-05-29, 16:32:02](https://news.ycombinator.com/item?id=40513817) - [US to modernize electrical grid – for clean energy and fewer outages](https://www.cnn.com/2024/05/28/climate/energy-grid-modernization-biden/index.html)
+* [2024-05-29, 16:29:17](https://news.ycombinator.com/item?id=40513782) - [Ask HN: Is Stripe the new PayPal, cancelling user accounts without explanation?](https://news.ycombinator.com/item?id=40513782)
 * [2024-05-29, 16:28:39](https://news.ycombinator.com/item?id=40513775) - [Afnic launches IBDNS, the \"intentionally broken\" DNS server](https://www.afnic.fr/en/observatory-and-resources/news/afnic-launches-ibdns-the-intentionally-broken-dns-server/)
 * [2024-05-29, 15:40:12](https://news.ycombinator.com/item?id=40513127) - [Smoking weed every day makes me less presentable and less productive. I love it](https://www.theguardian.com/us-news/article/2024/may/29/smoking-weed-every-day)
 * [2024-05-29, 15:23:51](https://news.ycombinator.com/item?id=40512956) - [Phone cameras can take in more light than the human eye](https://theconversation.com/phone-cameras-can-take-in-more-light-than-the-human-eye-thats-why-low-light-events-like-the-northern-lights-often-look-better-through-your-phone-camera-230068)
