@@ -92,6 +92,7 @@
 * [2024-05-28, 05:02:54](https://news.ycombinator.com/item?id=40497472) - [Temu's semi-managed model could change everything](https://techbuzzchina.substack.com/p/how-temus-semi-managed-model-could)
 * [2024-05-28, 04:48:54](https://news.ycombinator.com/item?id=40497422) - [Love Spells and Deadly Shrieks: Illustrations of Mandrakes (Ca. 650–1927)](https://publicdomainreview.org/collection/mandrakes/)
 * [2024-05-28, 04:48:28](https://news.ycombinator.com/item?id=40497418) - [Inventing Cyrillic](https://www.historytoday.com/archive/history-matters/inventing-cyrillic)
+* [2024-05-28, 04:41:03](https://news.ycombinator.com/item?id=40497383) - [Ask HN: Can anyone recommend a Windows Systems programming book?](https://news.ycombinator.com/item?id=40497383)
 * [2024-05-28, 04:39:39](https://news.ycombinator.com/item?id=40497379) - [Transformers Can Do Arithmetic with the Right Embeddings](https://arxiv.org/abs/2405.17399)
 * [2024-05-28, 03:55:01](https://news.ycombinator.com/item?id=40497171) - [Refurb Weekend: Canon Cat](http://oldvcr.blogspot.com/2024/05/refurb-weekend-canon-cat.html)
 * [2024-05-28, 03:41:31](https://news.ycombinator.com/item?id=40497117) - [Fractal Geometry](https://users.math.yale.edu/public_html/People/frame/Fractals/)
