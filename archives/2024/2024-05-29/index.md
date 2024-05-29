@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-29](index.md)
 
+* [2024-05-29, 15:40:12](https://news.ycombinator.com/item?id=40513127) - [Smoking weed every day makes me less presentable and less productive. I love it](https://www.theguardian.com/us-news/article/2024/may/29/smoking-weed-every-day)
+* [2024-05-29, 15:23:51](https://news.ycombinator.com/item?id=40512956) - [Phone cameras can take in more light than the human eye](https://theconversation.com/phone-cameras-can-take-in-more-light-than-the-human-eye-thats-why-low-light-events-like-the-northern-lights-often-look-better-through-your-phone-camera-230068)
 * [2024-05-29, 15:19:57](https://news.ycombinator.com/item?id=40512895) - [In one of the US's hottest deserts, utilities push gas rather than solar](https://www.theguardian.com/us-news/article/2024/may/23/gas-peaker-plant-republicans-fort-mohave-arizona)
 * [2024-05-29, 15:14:38](https://news.ycombinator.com/item?id=40512817) - [Today's AI Isn't Sentient](https://time.com/collection/time100-voices/6980134/ai-llm-not-sentient/)
 * [2024-05-29, 14:44:20](https://news.ycombinator.com/item?id=40512517) - [The Rise of the Disposable Car](https://www.bloomberg.com/opinion/articles/2024-05-23/more-cars-are-being-totaled-as-repair-costs-used-car-prices-bite)
