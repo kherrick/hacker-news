@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-29](index.md)
 
+* [2024-05-29, 16:36:18](https://news.ycombinator.com/item?id=40513875) - [Ticketmaster hacked. Breach affects more than half a billion users](https://mashable.com/article/ticketmaster-data-breach-shinyhunters-hack)
+* [2024-05-29, 16:32:02](https://news.ycombinator.com/item?id=40513817) - [US to modernize electrical grid – for clean energy and fewer outages](https://www.cnn.com/2024/05/28/climate/energy-grid-modernization-biden/index.html)
+* [2024-05-29, 16:28:39](https://news.ycombinator.com/item?id=40513775) - [Afnic launches IBDNS, the \"intentionally broken\" DNS server](https://www.afnic.fr/en/observatory-and-resources/news/afnic-launches-ibdns-the-intentionally-broken-dns-server/)
 * [2024-05-29, 15:40:12](https://news.ycombinator.com/item?id=40513127) - [Smoking weed every day makes me less presentable and less productive. I love it](https://www.theguardian.com/us-news/article/2024/may/29/smoking-weed-every-day)
 * [2024-05-29, 15:23:51](https://news.ycombinator.com/item?id=40512956) - [Phone cameras can take in more light than the human eye](https://theconversation.com/phone-cameras-can-take-in-more-light-than-the-human-eye-thats-why-low-light-events-like-the-northern-lights-often-look-better-through-your-phone-camera-230068)
 * [2024-05-29, 15:19:57](https://news.ycombinator.com/item?id=40512895) - [In one of the US's hottest deserts, utilities push gas rather than solar](https://www.theguardian.com/us-news/article/2024/may/23/gas-peaker-plant-republicans-fort-mohave-arizona)
@@ -21,6 +24,7 @@
 * [2024-05-29, 13:03:23](https://news.ycombinator.com/item?id=40511547) - [MuckRock SCOTUS Amicus Brief: Requesting information is not a crime](https://www.documentcloud.org/documents/24697646-23-1155-muckrock-amicus-brief-final)
 * [2024-05-29, 12:58:44](https://news.ycombinator.com/item?id=40511497) - [US sanctions operators of \"free VPN\" that routed crime traffic through user PCs](https://arstechnica.com/security/2024/05/us-sanctions-operators-of-free-vpn-that-routed-crime-traffic-through-user-pcs/)
 * [2024-05-29, 12:44:23](https://news.ycombinator.com/item?id=40511370) - [OpenAI training its next major AI model, forms new safety committee](https://arstechnica.com/information-technology/2024/05/openai-training-its-next-major-ai-model-forms-new-safety-committee/)
+* [2024-05-29, 12:38:16](https://news.ycombinator.com/item?id=40511307) - [Elixir and Machine Learning in 2024 so far: MLIR, Arrow, structured LLM, etc.](https://dashbit.co/blog/elixir-ml-s1-2024-mlir-arrow-instructor)
 * [2024-05-29, 12:00:47](https://news.ycombinator.com/item?id=40510994) - [ProjectPro (YC IK12) Is Hiring](https://www.ycombinator.com/companies/projectpro/jobs/jSqxCg8-account-executive-to-sell-to-analytics-teams)
 * [2024-05-29, 11:30:30](https://news.ycombinator.com/item?id=40510771) - [AMD's Marketcap is now double the marketcap of Intel](https://companiesmarketcap.com/amd/marketcap/)
 * [2024-05-29, 11:14:44](https://news.ycombinator.com/item?id=40510668) - [Training /= chatting: ChatGPT and other LLMs don't remember everything you say](https://simonwillison.net/2024/May/29/training-not-chatting/)
