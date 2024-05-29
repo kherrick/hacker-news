@@ -88,6 +88,7 @@
 * [2024-05-28, 05:30:29](https://news.ycombinator.com/item?id=40497602) - [The Way We Are Building Event-Driven Applications Is Misguided](https://gillesbarbier.medium.com/the-way-we-are-building-event-driven-applications-is-misguided-7f7c5f1a9061)
 * [2024-05-28, 05:07:51](https://news.ycombinator.com/item?id=40497496) - [Calling Time on DNSSEC?](https://www.potaroo.net/ispcol/2024-05/dnssec-fin.html)
 * [2024-05-28, 05:02:54](https://news.ycombinator.com/item?id=40497472) - [Temu's semi-managed model could change everything](https://techbuzzchina.substack.com/p/how-temus-semi-managed-model-could)
+* [2024-05-28, 04:48:54](https://news.ycombinator.com/item?id=40497422) - [Love Spells and Deadly Shrieks: Illustrations of Mandrakes (Ca. 650–1927)](https://publicdomainreview.org/collection/mandrakes/)
 * [2024-05-28, 04:48:28](https://news.ycombinator.com/item?id=40497418) - [Inventing Cyrillic](https://www.historytoday.com/archive/history-matters/inventing-cyrillic)
 * [2024-05-28, 04:39:39](https://news.ycombinator.com/item?id=40497379) - [Transformers Can Do Arithmetic with the Right Embeddings](https://arxiv.org/abs/2405.17399)
 * [2024-05-28, 03:55:01](https://news.ycombinator.com/item?id=40497171) - [Refurb Weekend: Canon Cat](http://oldvcr.blogspot.com/2024/05/refurb-weekend-canon-cat.html)
