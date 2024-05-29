@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-29](index.md)
 
+* [2024-05-29, 19:33:12](https://news.ycombinator.com/item?id=40515957) - [You Need to Pay Better Attention](https://arxiv.org/abs/2403.01643)
 * [2024-05-29, 19:10:50](https://news.ycombinator.com/item?id=40515671) - [Meta shuts down Israeli network pushing AI-generated propaganda in U.S.](https://www.calcalistech.com/ctechnews/article/rjqswxh4r)
 * [2024-05-29, 19:06:36](https://news.ycombinator.com/item?id=40515620) - [What Scarlett Johansson vs. OpenAI Could Look Like in Court](https://www.wired.com/story/scarlett-johansson-v-openai-could-look-like-in-court/)
 * [2024-05-29, 18:59:11](https://news.ycombinator.com/item?id=40515515) - [Nvidia is about to pass Apple in market cap](https://www.reuters.com/technology/ai-darling-nvidias-market-value-surges-closer-apple-2024-05-28/)
@@ -56,6 +57,7 @@
 * [2024-05-29, 10:02:40](https://news.ycombinator.com/item?id=40510251) - [The obscure intelligence bureau that got Vietnam, Iraq, and Ukraine right](https://www.vox.com/future-perfect/351638/the-obscure-federal-intelligence-bureau-that-got-vietnam-iraq-and-ukraine-right)
 * [2024-05-29, 09:50:41](https://news.ycombinator.com/item?id=40510195) - [Qlock – A JavaScript Quine Clock](http://aem1k.com/qlock/)
 * [2024-05-29, 09:36:14](https://news.ycombinator.com/item?id=40510125) - [Google Search document leak reveals inner workings of ranking algorithm](https://searchengineland.com/google-search-document-leak-ranking-442617)
+* [2024-05-29, 09:13:47](https://news.ycombinator.com/item?id=40509987) - [DuckDB Doesn't Need Data to Be a Database](https://www.nikolasgoebel.com/2024/05/28/duckdb-doesnt-need-data.html)
 * [2024-05-29, 09:09:33](https://news.ycombinator.com/item?id=40509961) - [The Consequences of One's First Programming Language](https://fermatslibrary.com/s/the-consequences-of-ones-first-programming-language)
 * [2024-05-29, 08:54:23](https://news.ycombinator.com/item?id=40509865) - [Samsung Electronics union announces first-ever strike](https://techxplore.com/news/2024-05-samsung-electronics-union.html)
 * [2024-05-29, 08:45:36](https://news.ycombinator.com/item?id=40509824) - [Cloudflare has become a pig butchering scam but legal [video]](https://www.youtube.com/watch?v=8zj7ei5Egk8)

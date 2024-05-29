@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-29, 19:33:12](https://news.ycombinator.com/item?id=40515957) - [You Need to Pay Better Attention](https://arxiv.org/abs/2403.01643)
 * [2024-05-29, 19:06:36](https://news.ycombinator.com/item?id=40515620) - [What Scarlett Johansson vs. OpenAI Could Look Like in Court](https://www.wired.com/story/scarlett-johansson-v-openai-could-look-like-in-court/)
 * [2024-05-29, 18:59:11](https://news.ycombinator.com/item?id=40515515) - [Nvidia is about to pass Apple in market cap](https://www.reuters.com/technology/ai-darling-nvidias-market-value-surges-closer-apple-2024-05-28/)
 * [2024-05-29, 18:46:46](https://news.ycombinator.com/item?id=40515358) - [Let yourself be monitored: EU governments to agree on Chat Control](https://www.patrick-breyer.de/en/let-yourself-be-monitored-eu-governments-to-agree-on-chat-control-with-user-consent/)
@@ -22,14 +23,13 @@
 * [2024-05-29, 11:14:44](https://news.ycombinator.com/item?id=40510668) - [Training is not the same as chatting: LLMs don’t remember everything you say](https://simonwillison.net/2024/May/29/training-not-chatting/)
 * [2024-05-29, 10:41:27](https://news.ycombinator.com/item?id=40510468) - [Three.js Shading Language](https://github.com/mrdoob/three.js/wiki/Three.js-Shading-Language)
 * [2024-05-29, 09:50:41](https://news.ycombinator.com/item?id=40510195) - [Qlock – A JavaScript Quine Clock](http://aem1k.com/qlock/)
+* [2024-05-29, 09:13:47](https://news.ycombinator.com/item?id=40509987) - [DuckDB Doesn't Need Data to Be a Database](https://www.nikolasgoebel.com/2024/05/28/duckdb-doesnt-need-data.html)
 * [2024-05-29, 09:09:33](https://news.ycombinator.com/item?id=40509961) - [The Consequences of One's First Programming Language](https://fermatslibrary.com/s/the-consequences-of-ones-first-programming-language)
 * [2024-05-29, 08:12:20](https://news.ycombinator.com/item?id=40509638) - [Show HN: Slipshow – A presentation tool not based on slides](https://github.com/panglesd/slipshow)
 * [2024-05-29, 03:52:36](https://news.ycombinator.com/item?id=40508278) - [AI headphones let wearer listen to a single person in a crowd by looking at them](https://www.washington.edu/news/2024/05/23/ai-headphones-noise-cancelling-target-speech-hearing/)
-* [2024-05-28, 17:31:48](https://news.ycombinator.com/item?id=40503202) - [TTE: Terminal Text Effects](https://chrisbuilds.github.io/terminaltexteffects/showroom/)
 * [2024-05-28, 12:32:21](https://news.ycombinator.com/item?id=40500071) - [Can music make food taste better?](https://www.atlasobscura.com/articles/can-music-make-food-taste-better)
 * [2024-05-28, 06:32:29](https://news.ycombinator.com/item?id=40497957) - [AdFlush](https://dl.acm.org/doi/abs/10.1145/3589334.3645698)
 * [2024-05-28, 05:24:30](https://news.ycombinator.com/item?id=40497579) - [Runtime code generation and execution in Go](https://mathetake.github.io/posts/runtime-code-generation-in-go-part-1/)
-* [2024-05-28, 05:13:34](https://news.ycombinator.com/item?id=40497525) - [Galois/Counter Mode and random nonces](https://neilmadden.blog/2024/05/23/galois-counter-mode-and-random-nonces/)
 
 ## [Archives](archives/index.md)
 
