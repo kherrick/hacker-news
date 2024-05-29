@@ -70,6 +70,8 @@
 * [2024-05-28, 13:13:22](https://news.ycombinator.com/item?id=40500429) - [Ask HN: What would you spend your time working on if you didn't need money?](https://news.ycombinator.com/item?id=40500429)
 * [2024-05-28, 12:52:22](https://news.ycombinator.com/item?id=40500243) - [How does AI impact my job as a programmer?](https://chelseatroy.com/2024/05/26/how-does-ai-impact-my-job-as-a-programmer/)
 * [2024-05-28, 12:45:03](https://news.ycombinator.com/item?id=40500181) - [More transparent than glass, new material cools rooms and self-cleans](https://newatlas.com/materials/metamaterial-glass-radiative-cooling-self-cleaning/)
+* [2024-05-28, 12:27:09](https://news.ycombinator.com/item?id=40500043) - [The Biggest Bookstore. 10 years after closing, it has a grip on readers](https://www.thestar.com/news/gta/going-to-the-world-s-biggest-bookstore-was-an-event-10-years-after-closing-it/article_5c3647a0-01a7-11ef-b85d-33ecf09526c7.html)
+* [2024-05-28, 12:03:27](https://news.ycombinator.com/item?id=40499842) - [20 Years of Blogging on my own website](https://jeena.net/20-years-blogging)
 * [2024-05-28, 12:00:30](https://news.ycombinator.com/item?id=40499824) - [Opencall.ai (YC W24) Is Hiring](https://www.ycombinator.com/companies/opencall-ai/jobs/5wMleux-founding-engineer)
 * [2024-05-28, 11:56:47](https://news.ycombinator.com/item?id=40499798) - [T-Mobile to acquire most of U.S. Cellular in $4.4B deal](https://www.cnbc.com/2024/05/28/t-mobile-to-acquire-most-of-us-cellular-in-4point4-billion-deal.html)
 * [2024-05-28, 10:57:16](https://news.ycombinator.com/item?id=40499411) - [Toyota showcases compact engines adaptable to different fuels](https://www.reuters.com/business/autos-transportation/toyota-subaru-mazda-commit-developing-new-engines-2024-05-28/)

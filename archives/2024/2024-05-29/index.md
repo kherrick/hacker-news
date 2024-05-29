@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-05-29](index.md)
 
+* [2024-05-29, 15:19:57](https://news.ycombinator.com/item?id=40512895) - [In one of the US's hottest deserts, utilities push gas rather than solar](https://www.theguardian.com/us-news/article/2024/may/23/gas-peaker-plant-republicans-fort-mohave-arizona)
+* [2024-05-29, 15:14:38](https://news.ycombinator.com/item?id=40512817) - [Today's AI Isn't Sentient](https://time.com/collection/time100-voices/6980134/ai-llm-not-sentient/)
 * [2024-05-29, 14:44:20](https://news.ycombinator.com/item?id=40512517) - [The Rise of the Disposable Car](https://www.bloomberg.com/opinion/articles/2024-05-23/more-cars-are-being-totaled-as-repair-costs-used-car-prices-bite)
 * [2024-05-29, 14:43:37](https://news.ycombinator.com/item?id=40512509) - [Canada wants the power to create backdoors in telecom networks for surveillance](https://www.theglobeandmail.com/opinion/article-ottawa-wants-the-power-to-create-secret-backdoors-in-our-networks-to/)
 * [2024-05-29, 14:37:57](https://news.ycombinator.com/item?id=40512452) - [The Dark Turn of Conservatism: How the Alt-Right Is Hijacking the GOP](https://www.citizenschronicle.org/p/the-dark-turn-of-conservatism-how)
 * [2024-05-29, 14:16:10](https://news.ycombinator.com/item?id=40512250) - [Codestral: Mistral's Code Model](https://mistral.ai/news/codestral/)
 * [2024-05-29, 13:56:39](https://news.ycombinator.com/item?id=40512072) - [The U.S. Passes an Internet Privacy Law for Rich Jet Owners](https://www.techdirt.com/2024/05/29/the-u-s-finally-passes-an-internet-privacy-law-for-rich-jet-owners/)
 * [2024-05-29, 13:55:54](https://news.ycombinator.com/item?id=40512063) - [New Earplugs Won't Amplify the Sound of Your Own Voice](https://www.scientificamerican.com/article/new-earplugs-wont-amplify-the-sound-of-your-own-voice/)
+* [2024-05-29, 13:44:03](https://news.ycombinator.com/item?id=40511937) - [How to create mobile apps that make $3k a day](https://old.reddit.com/r/iOSProgramming/comments/1d2ofpf/how_to_create_mobile_apps_that_make_3000_a_day/)
 * [2024-05-29, 13:03:23](https://news.ycombinator.com/item?id=40511547) - [MuckRock SCOTUS Amicus Brief: Requesting information is not a crime](https://www.documentcloud.org/documents/24697646-23-1155-muckrock-amicus-brief-final)
 * [2024-05-29, 12:58:44](https://news.ycombinator.com/item?id=40511497) - [US sanctions operators of \"free VPN\" that routed crime traffic through user PCs](https://arstechnica.com/security/2024/05/us-sanctions-operators-of-free-vpn-that-routed-crime-traffic-through-user-pcs/)
 * [2024-05-29, 12:44:23](https://news.ycombinator.com/item?id=40511370) - [OpenAI training its next major AI model, forms new safety committee](https://arstechnica.com/information-technology/2024/05/openai-training-its-next-major-ai-model-forms-new-safety-committee/)
