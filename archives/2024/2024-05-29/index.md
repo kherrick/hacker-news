@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-05-29](index.md)
 
+* [2024-05-29, 12:00:47](https://news.ycombinator.com/item?id=40510994) - [ProjectPro (YC IK12) Is Hiring](https://www.ycombinator.com/companies/projectpro/jobs/jSqxCg8-account-executive-to-sell-to-analytics-teams)
+* [2024-05-29, 11:30:30](https://news.ycombinator.com/item?id=40510771) - [AMD's Marketcap is now double the marketcap of Intel](https://companiesmarketcap.com/amd/marketcap/)
 * [2024-05-29, 11:06:26](https://news.ycombinator.com/item?id=40510617) - [New BYD Hybrid Can Drive Non-Stop for More Than 2k Kilometers](https://www.bloomberg.com/news/articles/2024-05-28/byd-shows-off-new-hybrid-powertrain-capable-of-ultra-long-drive)
 * [2024-05-29, 09:36:14](https://news.ycombinator.com/item?id=40510125) - [Google Search document leak reveals inner workings of ranking algorithm](https://searchengineland.com/google-search-document-leak-ranking-442617)
+* [2024-05-29, 08:54:23](https://news.ycombinator.com/item?id=40509865) - [Samsung Electronics union announces first-ever strike](https://techxplore.com/news/2024-05-samsung-electronics-union.html)
 * [2024-05-29, 08:45:36](https://news.ycombinator.com/item?id=40509824) - [Cloudflare has become a pig butchering scam but legal [video]](https://www.youtube.com/watch?v=8zj7ei5Egk8)
 * [2024-05-29, 08:12:20](https://news.ycombinator.com/item?id=40509638) - [Show HN: Slipshow – A presentation tool not based on slides](https://github.com/panglesd/slipshow)
 * [2024-05-29, 07:58:29](https://news.ycombinator.com/item?id=40509572) - [Three Laws of Software Complexity](https://maheshba.bitbucket.io/blog/2024/05/08/2024-ThreeLaws.html)

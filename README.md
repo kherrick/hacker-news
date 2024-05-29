@@ -1,7 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-29, 12:00:47](https://news.ycombinator.com/item?id=40510994) - [ProjectPro (YC IK12) Is Hiring](https://www.ycombinator.com/companies/projectpro/jobs/jSqxCg8-account-executive-to-sell-to-analytics-teams)
+* [2024-05-29, 11:30:30](https://news.ycombinator.com/item?id=40510771) - [AMD's Marketcap is now double the marketcap of Intel](https://companiesmarketcap.com/amd/marketcap/)
 * [2024-05-29, 11:06:26](https://news.ycombinator.com/item?id=40510617) - [New BYD Hybrid Can Drive Non-Stop for More Than 2k Kilometers](https://www.bloomberg.com/news/articles/2024-05-28/byd-shows-off-new-hybrid-powertrain-capable-of-ultra-long-drive)
 * [2024-05-29, 09:36:14](https://news.ycombinator.com/item?id=40510125) - [Google Search document leak reveals inner workings of ranking algorithm](https://searchengineland.com/google-search-document-leak-ranking-442617)
+* [2024-05-29, 08:54:23](https://news.ycombinator.com/item?id=40509865) - [Samsung Electronics union announces first-ever strike](https://techxplore.com/news/2024-05-samsung-electronics-union.html)
 * [2024-05-29, 08:12:20](https://news.ycombinator.com/item?id=40509638) - [Show HN: Slipshow – A presentation tool not based on slides](https://github.com/panglesd/slipshow)
 * [2024-05-29, 07:58:29](https://news.ycombinator.com/item?id=40509572) - [Three Laws of Software Complexity](https://maheshba.bitbucket.io/blog/2024/05/08/2024-ThreeLaws.html)
 * [2024-05-29, 07:28:56](https://news.ycombinator.com/item?id=40509409) - [You can force employees back to the office, but not the good ones](https://www.rte.ie/brainstorm/2024/0521/1450272-return-to-office-mandates-employees-work-from-home/)
@@ -13,7 +16,6 @@
 * [2024-05-29, 01:27:09](https://news.ycombinator.com/item?id=40507319) - [USB disk as /dev/sda on a not-rooted smartphone using Termux, QEMU, Alpine Linux](https://gist.github.com/NoteAfterNote/7a197233de3d60ff1e23ca90ed2f595a)
 * [2024-05-29, 01:00:37](https://news.ycombinator.com/item?id=40507170) - [webview: Tiny cross-platform webview library for C/C++](https://github.com/webview/webview)
 * [2024-05-29, 00:37:58](https://news.ycombinator.com/item?id=40507039) - [ChatTTS-Best open source TTS Model](https://github.com/2noise/ChatTTS)
-* [2024-05-28, 22:36:59](https://news.ycombinator.com/item?id=40506340) - [Proposal to change default annotation processing policy in JDK 23](https://mail.openjdk.org/pipermail/jdk-dev/2024-May/009028.html)
 * [2024-05-28, 20:25:20](https://news.ycombinator.com/item?id=40505213) - [Shadama: A particle simulation programming environment for everyone](https://tinlizzie.org/~ohshima/shadama2/live2017/)
 * [2024-05-28, 20:21:36](https://news.ycombinator.com/item?id=40505167) - [Writing an NVMe Driver in Rust [pdf]](https://db.in.tum.de/~ellmann/theses/finished/24/pirhonen_writing_an_nvme_driver_in_rust.pdf)
 * [2024-05-28, 20:16:19](https://news.ycombinator.com/item?id=40505099) - [Llama 3-V: Matching GPT4-V with a 100x smaller model and 500 dollars](https://aksh-garg.medium.com/llama-3v-building-an-open-source-gpt-4v-competitor-in-under-500-7dd8f1f6c9ee)
@@ -21,7 +23,6 @@
 * [2024-05-28, 19:20:38](https://news.ycombinator.com/item?id=40504481) - [Simple Speech-to-Text on the '10 Cents' CH32V003 Microcontroller](https://github.com/brian-smith-github/ch32v003_stt)
 * [2024-05-28, 19:02:53](https://news.ycombinator.com/item?id=40504265) - [Paris's Catacomb Mushrooms (2017)](https://www.atlasobscura.com/articles/paris-catacomb-mushrooms)
 * [2024-05-28, 17:31:48](https://news.ycombinator.com/item?id=40503202) - [TTE: Terminal Text Effects](https://chrisbuilds.github.io/terminaltexteffects/showroom/)
-* [2024-05-28, 17:11:56](https://news.ycombinator.com/item?id=40502956) - [Show HN: Openkoda – Open–source, private, Salesforce alternative](https://github.com/openkoda/openkoda)
 * [2024-05-28, 17:03:03](https://news.ycombinator.com/item?id=40502877) - [Steve Jurvetson's personal collection of Apollo Lunar Module parts](https://www.flickr.com/photos/jurvetson/albums/72157623704246792/)
 * [2024-05-28, 15:58:46](https://news.ycombinator.com/item?id=40502090) - [Reproducing GPT-2 in llm.c](https://github.com/karpathy/llm.c/discussions/481)
 * [2024-05-28, 14:23:28](https://news.ycombinator.com/item?id=40501021) - [Show HN: I made a free app to calibrate your turntable by simply playing a song](https://grooved.okat.best/)
@@ -29,7 +30,6 @@
 * [2024-05-28, 05:13:34](https://news.ycombinator.com/item?id=40497525) - [Galois/Counter Mode and random nonces](https://neilmadden.blog/2024/05/23/galois-counter-mode-and-random-nonces/)
 * [2024-05-28, 04:41:03](https://news.ycombinator.com/item?id=40497383) - [Ask HN: Can anyone recommend a Windows Systems programming book?](https://news.ycombinator.com/item?id=40497383)
 * [2024-05-28, 02:00:13](https://news.ycombinator.com/item?id=40496660) - [Researchers accurately dating a 7k-year-old settlement using cosmic rays](https://phys.org/news/2024-05-succeed-accurately-dating-year-prehistoric.html)
-* [2024-05-27, 09:49:50](https://news.ycombinator.com/item?id=40489248) - [Princeton astrophysicists re-imagine world map (2021)](https://www.princeton.edu/news/2021/02/15/princeton-astrophysicists-re-imagine-world-map-designing-less-distorted-radically)
 
 ## [Archives](archives/index.md)
 
