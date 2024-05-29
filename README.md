@@ -26,8 +26,8 @@
 * [2024-05-28, 14:23:28](https://news.ycombinator.com/item?id=40501021) - [Show HN: I made a free app to calibrate your turntable by simply playing a song](https://grooved.okat.best/)
 * [2024-05-28, 14:22:52](https://news.ycombinator.com/item?id=40501015) - [An air quality model that is evolving with the times](https://eos.org/science-updates/an-air-quality-model-that-is-evolving-with-the-times)
 * [2024-05-28, 08:17:00](https://news.ycombinator.com/item?id=40498580) - [Show HN: File0 – An easier way to manage files in serverless apps](https://www.file0.dev)
-* [2024-05-28, 05:02:54](https://news.ycombinator.com/item?id=40497472) - [Temu's semi-managed model could change everything](https://techbuzzchina.substack.com/p/how-temus-semi-managed-model-could)
 * [2024-05-28, 04:48:54](https://news.ycombinator.com/item?id=40497422) - [Love Spells and Deadly Shrieks: Illustrations of Mandrakes (Ca. 650–1927)](https://publicdomainreview.org/collection/mandrakes/)
+* [2024-05-28, 04:39:39](https://news.ycombinator.com/item?id=40497379) - [Transformers Can Do Arithmetic with the Right Embeddings](https://arxiv.org/abs/2405.17399)
 * [2024-05-28, 02:00:13](https://news.ycombinator.com/item?id=40496660) - [Researchers accurately dating a 7k-year-old settlement using cosmic rays](https://phys.org/news/2024-05-succeed-accurately-dating-year-prehistoric.html)
 * [2024-05-27, 15:50:34](https://news.ycombinator.com/item?id=40491896) - [The problem with the Darling 58 genetically modified chestnut tree](https://nymag.com/intelligencer/article/darling-58-american-chestnut-tree-mistake.html)
 
