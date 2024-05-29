@@ -11,8 +11,7 @@
 * [2024-05-29, 14:42:50](https://news.ycombinator.com/item?id=40512500) - [I sold TinyPilot, my first successful business](https://mtlynch.io/i-sold-tinypilot/)
 * [2024-05-29, 14:20:02](https://news.ycombinator.com/item?id=40512296) - [A myopia epidemic is sweeping the globe](https://www.nature.com/articles/d41586-024-01518-2)
 * [2024-05-29, 14:16:10](https://news.ycombinator.com/item?id=40512250) - [Codestral: Mistral's Code Model](https://mistral.ai/news/codestral/)
-* [2024-05-29, 13:55:54](https://news.ycombinator.com/item?id=40512063) - [New Earplugs Won't Amplify the Sound of Your Own Voice](https://www.scientificamerican.com/article/new-earplugs-wont-amplify-the-sound-of-your-own-voice/)
-* [2024-05-29, 13:52:53](https://news.ycombinator.com/item?id=40512028) - [RISC-V must get its messaging right on open standard vs. open source](https://www.theregister.com/2024/05/29/riscos_messsaging_struggle/)
+* [2024-05-29, 13:55:54](https://news.ycombinator.com/item?id=40512063) - [New earplugs won't amplify the sound of your own voice](https://www.scientificamerican.com/article/new-earplugs-wont-amplify-the-sound-of-your-own-voice/)
 * [2024-05-29, 12:38:16](https://news.ycombinator.com/item?id=40511307) - [Elixir and Machine Learning in 2024 so far: MLIR, Arrow, structured LLM, etc.](https://dashbit.co/blog/elixir-ml-s1-2024-mlir-arrow-instructor)
 * [2024-05-29, 11:14:44](https://news.ycombinator.com/item?id=40510668) - [Training is not the same as chatting: LLMs don’t remember everything you say](https://simonwillison.net/2024/May/29/training-not-chatting/)
 * [2024-05-29, 10:41:27](https://news.ycombinator.com/item?id=40510468) - [Three.js Shading Language](https://github.com/mrdoob/three.js/wiki/Three.js-Shading-Language)
@@ -28,6 +27,7 @@
 * [2024-05-28, 12:27:09](https://news.ycombinator.com/item?id=40500043) - [Gone 10 years, World’s Biggest Bookstore still grips readers](https://www.thestar.com/news/gta/going-to-the-world-s-biggest-bookstore-was-an-event-10-years-after-closing-it/article_5c3647a0-01a7-11ef-b85d-33ecf09526c7.html)
 * [2024-05-28, 12:03:27](https://news.ycombinator.com/item?id=40499842) - [20 Years of Blogging on my own website](https://jeena.net/20-years-blogging)
 * [2024-05-28, 06:32:29](https://news.ycombinator.com/item?id=40497957) - [AdFlush](https://dl.acm.org/doi/abs/10.1145/3589334.3645698)
+* [2024-05-28, 06:09:47](https://news.ycombinator.com/item?id=40497828) - [Nalanda: The university that changed the world (2023)](https://www.bbc.com/travel/article/20230222-nalanda-the-university-that-changed-the-world)
 * [2024-05-28, 05:24:30](https://news.ycombinator.com/item?id=40497579) - [Runtime code generation and execution in Go](https://mathetake.github.io/posts/runtime-code-generation-in-go-part-1/)
 * [2024-05-28, 05:13:34](https://news.ycombinator.com/item?id=40497525) - [Galois/Counter Mode and random nonces](https://neilmadden.blog/2024/05/23/galois-counter-mode-and-random-nonces/)
 
