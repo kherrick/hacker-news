@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-29, 20:12:09](https://news.ycombinator.com/item?id=40516437) - [Amazon Cloud Traffic Is Suffocating Fedora's Mirrors](https://www.phoronix.com/news/AWS-Cloud-Breaks-Fedora-Mirrors)
 * [2024-05-29, 19:33:12](https://news.ycombinator.com/item?id=40515957) - [New attention mechanisms that outperform standard multi-head attention](https://arxiv.org/abs/2403.01643)
-* [2024-05-29, 19:06:36](https://news.ycombinator.com/item?id=40515620) - [What Scarlett Johansson vs. OpenAI Could Look Like in Court](https://www.wired.com/story/scarlett-johansson-v-openai-could-look-like-in-court/)
 * [2024-05-29, 18:40:06](https://news.ycombinator.com/item?id=40515269) - [Era3D: High-Resolution Multiview Diffusion Using Efficient Row-Wise Attention](https://penghtyx.github.io/Era3D/)
 * [2024-05-29, 18:34:54](https://news.ycombinator.com/item?id=40515211) - [What would happen if a nuclear bomb went off in your backyard](https://outrider.org/nuclear-weapons/interactive/bomb-blast)
 * [2024-05-29, 17:18:15](https://news.ycombinator.com/item?id=40514424) - [Rex Computing](http://rexcomputing.com/)

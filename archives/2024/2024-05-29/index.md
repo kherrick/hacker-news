@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-29](index.md)
 
+* [2024-05-29, 20:12:09](https://news.ycombinator.com/item?id=40516437) - [Amazon Cloud Traffic Is Suffocating Fedora's Mirrors](https://www.phoronix.com/news/AWS-Cloud-Breaks-Fedora-Mirrors)
 * [2024-05-29, 19:46:48](https://news.ycombinator.com/item?id=40516116) - [Volkswagen Group brings electric car for EUR 20k](https://www.volkswagen-group.com/en/press-releases/from-europe-for-europe-volkswagen-group-launches-project-for-all-electric-entry-level-mobility-18416)
 * [2024-05-29, 19:33:12](https://news.ycombinator.com/item?id=40515957) - [You Need to Pay Better Attention](https://arxiv.org/abs/2403.01643)
 * [2024-05-29, 19:10:50](https://news.ycombinator.com/item?id=40515671) - [Meta shuts down Israeli network pushing AI-generated propaganda in U.S.](https://www.calcalistech.com/ctechnews/article/rjqswxh4r)
