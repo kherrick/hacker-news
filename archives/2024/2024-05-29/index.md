@@ -7,6 +7,7 @@
 * [2024-05-29, 04:18:39](https://news.ycombinator.com/item?id=40508417) - [Ask HN: What's your favorite Underrated Anime that no one talks about?](https://news.ycombinator.com/item?id=40508417)
 * [2024-05-29, 04:14:16](https://news.ycombinator.com/item?id=40508390) - [What We Learned from a Year of Building with LLMs](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/)
 * [2024-05-29, 03:52:36](https://news.ycombinator.com/item?id=40508278) - [AI headphones let you listen to a single person in crowd, by looking at them](https://www.washington.edu/news/2024/05/23/ai-headphones-noise-cancelling-target-speech-hearing/)
+* [2024-05-29, 03:45:44](https://news.ycombinator.com/item?id=40508241) - [App designed by Indigenous people in W. Australia preserves language, culture](https://www.abc.net.au/news/2024-05-27/wa-indigenous-app-linking-science-and-culture/103869762)
 * [2024-05-29, 01:47:49](https://news.ycombinator.com/item?id=40507478) - [Harrassment of scientists is surging – institutions aren't sure how to help](https://www.nature.com/articles/d41586-024-01468-9)
 * [2024-05-29, 01:36:21](https://news.ycombinator.com/item?id=40507391) - [How to use I2C devices in (Apache) NuttX: Adding support for an I2C device](https://www.EmbeddedRelated.com/showarticle/1668.php)
 * [2024-05-29, 01:27:09](https://news.ycombinator.com/item?id=40507319) - [USB disk as /dev/sda on a not-rooted smartphone using Termux, QEMU, Alpine Linux](https://gist.github.com/NoteAfterNote/7a197233de3d60ff1e23ca90ed2f595a)
