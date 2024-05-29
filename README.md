@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-29, 21:30:44](https://news.ycombinator.com/item?id=40517254) - [The hail in Texas was so big Tuesday that it required a new description](https://www.washingtonpost.com/weather/2024/05/29/texas-hail-dvd-size-record-nwws/)
+* [2024-05-29, 21:25:48](https://news.ycombinator.com/item?id=40517204) - [Bootstrapping a Forth in 40 lines of Lua code](http://angg.twu.net/miniforth-article.html)
 * [2024-05-29, 21:01:36](https://news.ycombinator.com/item?id=40516983) - [The Pen Hospital in Kolkata will nurse your broken fountain pen back](https://www.vogue.in/content/pen-hospital-in-kolkata-will-nurse-your-broken-fountain-pen-back-to-health)
 * [2024-05-29, 21:00:09](https://news.ycombinator.com/item?id=40516963) - [Tesorio (YC S15) Is Hiring – 100% Remote](https://www.tesorio.com/careers#job-openings)
 * [2024-05-29, 20:34:15](https://news.ycombinator.com/item?id=40516706) - [Toxoplasma Gondii significantly alters wolf behavior](https://www.sciencealert.com/something-strange-happens-to-wolves-infected-by-an-infamous-mind-altering-parasite)
-* [2024-05-29, 20:19:56](https://news.ycombinator.com/item?id=40516532) - [How Waymo outlasted the competition and made robo-taxis a real business](https://fortune.com/2024/05/29/waymo-self-driving-robo-taxi-uber-tesla-alphabet/)
 * [2024-05-29, 20:17:29](https://news.ycombinator.com/item?id=40516499) - [Gov. Polis Signs Bill Mandating That Consumers Have Options to Fix Electronics](https://coloradotimesrecorder.com/2024/05/gov-polis-signs-bill-mandating-that-consumers-have-more-options-to-fix-electronics/62156/)
 * [2024-05-29, 20:12:09](https://news.ycombinator.com/item?id=40516437) - [Amazon Cloud Traffic Is Suffocating Fedora's Mirrors](https://www.phoronix.com/news/AWS-Cloud-Breaks-Fedora-Mirrors)
 * [2024-05-29, 19:33:12](https://news.ycombinator.com/item?id=40515957) - [New attention mechanisms that outperform standard multi-head attention](https://arxiv.org/abs/2403.01643)
