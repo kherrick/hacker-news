@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-29, 22:04:24](https://news.ycombinator.com/item?id=40517576) - [Caddy 2.8](https://github.com/caddyserver/caddy/releases/tag/v2.8.0)
 * [2024-05-29, 21:25:48](https://news.ycombinator.com/item?id=40517204) - [Bootstrapping a Forth in 40 lines of Lua code](http://angg.twu.net/miniforth-article.html)
 * [2024-05-29, 21:01:36](https://news.ycombinator.com/item?id=40516983) - [The Pen Hospital in Kolkata will nurse your broken fountain pen back](https://www.vogue.in/content/pen-hospital-in-kolkata-will-nurse-your-broken-fountain-pen-back-to-health)
 * [2024-05-29, 21:00:09](https://news.ycombinator.com/item?id=40516963) - [Tesorio (YC S15) Is Hiring – 100% Remote](https://www.tesorio.com/careers#job-openings)
@@ -15,7 +16,6 @@
 * [2024-05-29, 17:05:29](https://news.ycombinator.com/item?id=40514266) - [Vector indexing all of Wikipedia on a laptop](https://foojay.io/today/indexing-all-of-wikipedia-on-a-laptop/)
 * [2024-05-29, 16:54:19](https://news.ycombinator.com/item?id=40514089) - [Show HN: Serverless Postgres](https://github.com/kiwicopple/serverless-postgres)
 * [2024-05-29, 16:28:39](https://news.ycombinator.com/item?id=40513775) - [IBDNS: Intentionally Broken DNS server](https://www.afnic.fr/en/observatory-and-resources/news/afnic-launches-ibdns-the-intentionally-broken-dns-server/)
-* [2024-05-29, 14:43:37](https://news.ycombinator.com/item?id=40512509) - [Ottawa wants the power to create secret backdoors in networks for surveillance](https://www.theglobeandmail.com/opinion/article-ottawa-wants-the-power-to-create-secret-backdoors-in-our-networks-to/)
 * [2024-05-29, 14:42:50](https://news.ycombinator.com/item?id=40512500) - [I sold TinyPilot, my first successful business](https://mtlynch.io/i-sold-tinypilot/)
 * [2024-05-29, 14:16:10](https://news.ycombinator.com/item?id=40512250) - [Codestral: Mistral's Code Model](https://mistral.ai/news/codestral/)
 * [2024-05-29, 12:38:16](https://news.ycombinator.com/item?id=40511307) - [Elixir and Machine Learning in 2024 so far: MLIR, Arrow, structured LLM, etc.](https://dashbit.co/blog/elixir-ml-s1-2024-mlir-arrow-instructor)
