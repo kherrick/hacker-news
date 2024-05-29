@@ -8,6 +8,7 @@
 * [2024-05-29, 18:46:46](https://news.ycombinator.com/item?id=40515358) - [Let yourself be monitored: EU governments to agree on Chat Control](https://www.patrick-breyer.de/en/let-yourself-be-monitored-eu-governments-to-agree-on-chat-control-with-user-consent/)
 * [2024-05-29, 18:40:06](https://news.ycombinator.com/item?id=40515269) - [Era3D: High-Resolution Multiview Diffusion Using Efficient Row-Wise Attention](https://penghtyx.github.io/Era3D/)
 * [2024-05-29, 18:14:34](https://news.ycombinator.com/item?id=40514983) - [Google releases smart watch for kids](https://store.google.com/US/product/fitbit_ace_lte?hl=en-US)
+* [2024-05-29, 17:59:46](https://news.ycombinator.com/item?id=40514816) - [Why OpenAI CEO was ousted](https://www.cnbc.com/2024/05/29/former-openai-board-member-explains-why-ceo-sam-altman-was-fired.html)
 * [2024-05-29, 17:57:02](https://news.ycombinator.com/item?id=40514783) - [Kids sickened by police training may have ingested decades old chemical weapons](https://www.sfchronicle.com/crime/article/sf-jail-chemical-weapons-19476975.php)
 * [2024-05-29, 17:42:08](https://news.ycombinator.com/item?id=40514641) - [BYD achieves 1,300-mile driving range with latest PHEVs](https://technode.com/2024/05/29/byd-achieves-1300-mile-driving-range-with-latest-phevs/)
 * [2024-05-29, 17:22:10](https://news.ycombinator.com/item?id=40514458) - [After Furiosa flops, Hollywood could be facing a biblically disastrous summer](https://www.bbc.com/culture/article/20240529-after-furiosa-flops-hollywood-could-be-facing-a-biblically-disastrous-summer)
