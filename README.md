@@ -4,7 +4,6 @@
 * [2024-05-29, 07:28:56](https://news.ycombinator.com/item?id=40509409) - [You can force employees back to the office, but not the good ones](https://www.rte.ie/brainstorm/2024/0521/1450272-return-to-office-mandates-employees-work-from-home/)
 * [2024-05-29, 07:26:49](https://news.ycombinator.com/item?id=40509399) - [Former OpenAI board member explains why they fired Sam Altman](https://www.theverge.com/2024/5/28/24166713/openai-helen-toner-explains-why-sam-altman-was-fired)
 * [2024-05-29, 05:28:40](https://news.ycombinator.com/item?id=40508777) - [NSA Ghidra open-source reverse engineering framework](https://ghidra-sre.org/)
-* [2024-05-29, 05:17:02](https://news.ycombinator.com/item?id=40508719) - [Ex-OpenAI board member provides her first detailed account of CEO ouster](https://www.reuters.com/technology/ex-openai-board-member-provides-her-first-detailed-account-ceo-ouster-2024-05-29/)
 * [2024-05-29, 04:14:16](https://news.ycombinator.com/item?id=40508390) - [What We Learned from a Year of Building with LLMs](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/)
 * [2024-05-29, 03:52:36](https://news.ycombinator.com/item?id=40508278) - [AI headphones let you listen to a single person in crowd, by looking at them](https://www.washington.edu/news/2024/05/23/ai-headphones-noise-cancelling-target-speech-hearing/)
 * [2024-05-29, 01:36:21](https://news.ycombinator.com/item?id=40507391) - [How to use I2C devices in (Apache) NuttX: Adding support for an I2C device](https://www.EmbeddedRelated.com/showarticle/1668.php)
@@ -28,6 +27,7 @@
 * [2024-05-28, 14:24:24](https://news.ycombinator.com/item?id=40501027) - [Mobifree – An open-source mobile ecosystem](https://f-droid.org/2024/05/24/mobifree.html)
 * [2024-05-28, 14:23:28](https://news.ycombinator.com/item?id=40501021) - [Show HN: I made a free app to calibrate your turntable by simply playing a song](https://grooved.okat.best/)
 * [2024-05-28, 14:22:52](https://news.ycombinator.com/item?id=40501015) - [An air quality model that is evolving with the times](https://eos.org/science-updates/an-air-quality-model-that-is-evolving-with-the-times)
+* [2024-05-28, 08:09:46](https://news.ycombinator.com/item?id=40498533) - [Beginner's guide to the Shenandoah garbage collector](https://developers.redhat.com/articles/2024/05/28/beginners-guide-shenandoah-garbage-collector)
 * [2024-05-28, 02:00:13](https://news.ycombinator.com/item?id=40496660) - [Researchers accurately dating a 7k-year-old settlement using cosmic rays](https://phys.org/news/2024-05-succeed-accurately-dating-year-prehistoric.html)
 * [2024-05-27, 09:49:50](https://news.ycombinator.com/item?id=40489248) - [Princeton astrophysicists re-imagine world map (2021)](https://www.princeton.edu/news/2021/02/15/princeton-astrophysicists-re-imagine-world-map-designing-less-distorted-radically)
 
