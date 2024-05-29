@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-29](index.md)
 
+* [2024-05-29, 06:18:40](https://news.ycombinator.com/item?id=40509030) - [Isreal Spied on and Hacked the ICC](https://www.theguardian.com/world/article/2024/may/28/spying-hacking-intimidation-israel-war-icc-exposed)
 * [2024-05-29, 04:18:39](https://news.ycombinator.com/item?id=40508417) - [Ask HN: What's your favorite Underrated Anime that no one talks about?](https://news.ycombinator.com/item?id=40508417)
 * [2024-05-29, 04:14:16](https://news.ycombinator.com/item?id=40508390) - [What We Learned from a Year of Building with LLMs](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/)
 * [2024-05-29, 03:52:36](https://news.ycombinator.com/item?id=40508278) - [AI headphones let you listen to a single person in crowd, by looking at them](https://www.washington.edu/news/2024/05/23/ai-headphones-noise-cancelling-target-speech-hearing/)
@@ -11,6 +12,7 @@
 * [2024-05-29, 01:47:49](https://news.ycombinator.com/item?id=40507478) - [Harrassment of scientists is surging – institutions aren't sure how to help](https://www.nature.com/articles/d41586-024-01468-9)
 * [2024-05-29, 01:36:21](https://news.ycombinator.com/item?id=40507391) - [How to use I2C devices in (Apache) NuttX: Adding support for an I2C device](https://www.EmbeddedRelated.com/showarticle/1668.php)
 * [2024-05-29, 01:27:09](https://news.ycombinator.com/item?id=40507319) - [USB disk as /dev/sda on a not-rooted smartphone using Termux, QEMU, Alpine Linux](https://gist.github.com/NoteAfterNote/7a197233de3d60ff1e23ca90ed2f595a)
+* [2024-05-29, 01:00:37](https://news.ycombinator.com/item?id=40507170) - [webview: Tiny cross-platform webview library for C/C++](https://github.com/webview/webview)
 * [2024-05-29, 00:58:30](https://news.ycombinator.com/item?id=40507159) - [Rhodes Must Fall: The Legacy of Cecil Rhodes in the University of Oxford](https://globalcapitalism.history.ox.ac.uk/files/case31-rhodesmustfallpdf)
 * [2024-05-29, 00:53:33](https://news.ycombinator.com/item?id=40507134) - [Tesla Settles Fatal Crash Suit Ahead of California Trial](https://www.ttnews.com/articles/tesla-fatal-suit-trial)
 * [2024-05-29, 00:37:58](https://news.ycombinator.com/item?id=40507039) - [ChatTTS-Best open source TTS Model](https://github.com/2noise/ChatTTS)
