@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-29, 12:44:23](https://news.ycombinator.com/item?id=40511370) - [OpenAI training its next major AI model, forms new safety committee](https://arstechnica.com/information-technology/2024/05/openai-training-its-next-major-ai-model-forms-new-safety-committee/)
 * [2024-05-29, 12:00:47](https://news.ycombinator.com/item?id=40510994) - [ProjectPro (YC IK12) Is Hiring](https://www.ycombinator.com/companies/projectpro/jobs/jSqxCg8-account-executive-to-sell-to-analytics-teams)
 * [2024-05-29, 11:14:44](https://news.ycombinator.com/item?id=40510668) - [Training /= chatting: ChatGPT and other LLMs don't remember everything you say](https://simonwillison.net/2024/May/29/training-not-chatting/)
 * [2024-05-29, 10:54:23](https://news.ycombinator.com/item?id=40510536) - [Hello World, Simple Event Broker](https://blog.vbang.dk//2024/05/26/seb/)
+* [2024-05-29, 10:41:27](https://news.ycombinator.com/item?id=40510468) - [Three.js Shading Language](https://github.com/mrdoob/three.js/wiki/Three.js-Shading-Language)
 * [2024-05-29, 09:50:41](https://news.ycombinator.com/item?id=40510195) - [Qlock – A JavaScript Quine Clock](http://aem1k.com/qlock/)
 * [2024-05-29, 08:12:20](https://news.ycombinator.com/item?id=40509638) - [Show HN: Slipshow – A presentation tool not based on slides](https://github.com/panglesd/slipshow)
 * [2024-05-29, 07:58:29](https://news.ycombinator.com/item?id=40509572) - [Three Laws of Software Complexity](https://maheshba.bitbucket.io/blog/2024/05/08/2024-ThreeLaws.html)
