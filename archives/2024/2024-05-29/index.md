@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-29](index.md)
 
+* [2024-05-29, 17:00:09](https://news.ycombinator.com/item?id=40514199) - [YC is hiring full stack product engineers – build SW for founders](https://www.ycombinator.com/companies/y-combinator/jobs/dUJA6i7-product-engineer-work-at-a-startup)
+* [2024-05-29, 16:49:42](https://news.ycombinator.com/item?id=40514038) - [OpenAI partners with Vox Media, Anthropic brings ex-OpenAI safety lead](https://thehorizonnews.beehiiv.com/p/openai-partners-vox-media-anthropic-brings-exopenai-safety-lead-new-team-head)
 * [2024-05-29, 16:36:18](https://news.ycombinator.com/item?id=40513875) - [Ticketmaster hacked. Breach affects more than half a billion users](https://mashable.com/article/ticketmaster-data-breach-shinyhunters-hack)
 * [2024-05-29, 16:32:02](https://news.ycombinator.com/item?id=40513817) - [US to modernize electrical grid – for clean energy and fewer outages](https://www.cnn.com/2024/05/28/climate/energy-grid-modernization-biden/index.html)
 * [2024-05-29, 16:29:17](https://news.ycombinator.com/item?id=40513782) - [Ask HN: Is Stripe the new PayPal, cancelling user accounts without explanation?](https://news.ycombinator.com/item?id=40513782)
@@ -16,6 +18,7 @@
 * [2024-05-29, 14:48:30](https://news.ycombinator.com/item?id=40512557) - [Achieving a 100x speedup of DELETEs on PostgreSQL](https://ivdl.co.za/2024/05/29/achieving-a-100x-speedup-of-deletes-on-postgresql/)
 * [2024-05-29, 14:44:20](https://news.ycombinator.com/item?id=40512517) - [The Rise of the Disposable Car](https://www.bloomberg.com/opinion/articles/2024-05-23/more-cars-are-being-totaled-as-repair-costs-used-car-prices-bite)
 * [2024-05-29, 14:43:37](https://news.ycombinator.com/item?id=40512509) - [Canada wants the power to create backdoors in telecom networks for surveillance](https://www.theglobeandmail.com/opinion/article-ottawa-wants-the-power-to-create-secret-backdoors-in-our-networks-to/)
+* [2024-05-29, 14:42:50](https://news.ycombinator.com/item?id=40512500) - [I sold TinyPilot, my first successful business](https://mtlynch.io/i-sold-tinypilot/)
 * [2024-05-29, 14:37:57](https://news.ycombinator.com/item?id=40512452) - [The Dark Turn of Conservatism: How the Alt-Right Is Hijacking the GOP](https://www.citizenschronicle.org/p/the-dark-turn-of-conservatism-how)
 * [2024-05-29, 14:16:10](https://news.ycombinator.com/item?id=40512250) - [Codestral: Mistral's Code Model](https://mistral.ai/news/codestral/)
 * [2024-05-29, 13:56:39](https://news.ycombinator.com/item?id=40512072) - [The U.S. Passes an Internet Privacy Law for Rich Jet Owners](https://www.techdirt.com/2024/05/29/the-u-s-finally-passes-an-internet-privacy-law-for-rich-jet-owners/)
