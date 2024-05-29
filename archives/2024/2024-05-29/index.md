@@ -9,6 +9,7 @@
 * [2024-05-29, 17:06:40](https://news.ycombinator.com/item?id=40514282) - [Kino: Pro Video Camera](https://www.lux.camera/introducing-kino-pro-video-camera/)
 * [2024-05-29, 17:05:29](https://news.ycombinator.com/item?id=40514266) - [Vector indexing all of Wikipedia on a laptop](https://foojay.io/today/indexing-all-of-wikipedia-on-a-laptop/)
 * [2024-05-29, 17:00:09](https://news.ycombinator.com/item?id=40514199) - [YC is hiring full stack product engineers – build SW for founders](https://www.ycombinator.com/companies/y-combinator/jobs/dUJA6i7-product-engineer-work-at-a-startup)
+* [2024-05-29, 16:52:22](https://news.ycombinator.com/item?id=40514066) - [BestBuy set for 10th straight quarter of sales drop on weak electronics spending](https://ca.finance.yahoo.com/news/best-buy-set-tenth-straight-140046387.html)
 * [2024-05-29, 16:49:42](https://news.ycombinator.com/item?id=40514038) - [OpenAI partners with Vox Media, Anthropic brings ex-OpenAI safety lead](https://thehorizonnews.beehiiv.com/p/openai-partners-vox-media-anthropic-brings-exopenai-safety-lead-new-team-head)
 * [2024-05-29, 16:36:18](https://news.ycombinator.com/item?id=40513875) - [Ticketmaster hacked. Breach affects more than half a billion users](https://mashable.com/article/ticketmaster-data-breach-shinyhunters-hack)
 * [2024-05-29, 16:32:02](https://news.ycombinator.com/item?id=40513817) - [US to modernize electrical grid – for clean energy and fewer outages](https://www.cnn.com/2024/05/28/climate/energy-grid-modernization-biden/index.html)
