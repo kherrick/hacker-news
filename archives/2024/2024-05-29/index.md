@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-29](index.md)
 
+* [2024-05-29, 21:30:44](https://news.ycombinator.com/item?id=40517254) - [The hail in Texas was so big Tuesday that it required a new description](https://www.washingtonpost.com/weather/2024/05/29/texas-hail-dvd-size-record-nwws/)
 * [2024-05-29, 21:00:09](https://news.ycombinator.com/item?id=40516963) - [Tesorio (YC S15) Is Hiring – 100% Remote](https://www.tesorio.com/careers#job-openings)
 * [2024-05-29, 20:57:26](https://news.ycombinator.com/item?id=40516945) - [They Tried to Fire Sam Altman Because He Sucks](https://www.todayintabs.com/p/tried-fire-sam-altman-sucks)
 * [2024-05-29, 20:34:15](https://news.ycombinator.com/item?id=40516706) - [Toxoplasma Gondii significantly alters wolf behavior](https://www.sciencealert.com/something-strange-happens-to-wolves-infected-by-an-infamous-mind-altering-parasite)
