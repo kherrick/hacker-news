@@ -1,7 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-29, 13:03:23](https://news.ycombinator.com/item?id=40511547) - [MuckRock SCOTUS Amicus Brief: Requesting information is not a crime](https://www.documentcloud.org/documents/24697646-23-1155-muckrock-amicus-brief-final)
-* [2024-05-29, 12:58:44](https://news.ycombinator.com/item?id=40511497) - [US sanctions operators of \"free VPN\" that routed crime traffic through user PCs](https://arstechnica.com/security/2024/05/us-sanctions-operators-of-free-vpn-that-routed-crime-traffic-through-user-pcs/)
 * [2024-05-29, 12:00:47](https://news.ycombinator.com/item?id=40510994) - [ProjectPro (YC IK12) Is Hiring](https://www.ycombinator.com/companies/projectpro/jobs/jSqxCg8-account-executive-to-sell-to-analytics-teams)
 * [2024-05-29, 10:54:23](https://news.ycombinator.com/item?id=40510536) - [Hello World, Simple Event Broker](https://blog.vbang.dk//2024/05/26/seb/)
 * [2024-05-29, 08:12:20](https://news.ycombinator.com/item?id=40509638) - [Show HN: Slipshow – A presentation tool not based on slides](https://github.com/panglesd/slipshow)
@@ -25,11 +23,13 @@
 * [2024-05-28, 14:24:24](https://news.ycombinator.com/item?id=40501027) - [Mobifree – An open-source mobile ecosystem](https://f-droid.org/2024/05/24/mobifree.html)
 * [2024-05-28, 14:23:28](https://news.ycombinator.com/item?id=40501021) - [Show HN: I made a free app to calibrate your turntable by simply playing a song](https://grooved.okat.best/)
 * [2024-05-28, 14:22:52](https://news.ycombinator.com/item?id=40501015) - [An air quality model that is evolving with the times](https://eos.org/science-updates/an-air-quality-model-that-is-evolving-with-the-times)
+* [2024-05-28, 10:57:16](https://news.ycombinator.com/item?id=40499411) - [Toyota showcases compact engines adaptable to different fuels](https://www.reuters.com/business/autos-transportation/toyota-subaru-mazda-commit-developing-new-engines-2024-05-28/)
 * [2024-05-28, 06:32:29](https://news.ycombinator.com/item?id=40497957) - [AdFlush](https://dl.acm.org/doi/abs/10.1145/3589334.3645698)
 * [2024-05-28, 05:24:30](https://news.ycombinator.com/item?id=40497579) - [Runtime code generation and execution in Go](https://mathetake.github.io/posts/runtime-code-generation-in-go-part-1/)
 * [2024-05-28, 05:13:34](https://news.ycombinator.com/item?id=40497525) - [Galois/Counter Mode and random nonces](https://neilmadden.blog/2024/05/23/galois-counter-mode-and-random-nonces/)
 * [2024-05-28, 04:41:03](https://news.ycombinator.com/item?id=40497383) - [Ask HN: Can anyone recommend a Windows Systems programming book?](https://news.ycombinator.com/item?id=40497383)
 * [2024-05-28, 02:00:13](https://news.ycombinator.com/item?id=40496660) - [Researchers accurately dating a 7k-year-old settlement using cosmic rays](https://phys.org/news/2024-05-succeed-accurately-dating-year-prehistoric.html)
+* [2024-05-28, 01:44:50](https://news.ycombinator.com/item?id=40496588) - [Run VSCode and terminal on any iOS device](https://docs.blink.sh/advanced/code)
 
 ## [Archives](archives/index.md)
 
