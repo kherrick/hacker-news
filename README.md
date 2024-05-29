@@ -1,12 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-29, 21:30:44](https://news.ycombinator.com/item?id=40517254) - [The hail in Texas was so big Tuesday that it required a new description](https://www.washingtonpost.com/weather/2024/05/29/texas-hail-dvd-size-record-nwws/)
+* [2024-05-29, 21:01:36](https://news.ycombinator.com/item?id=40516983) - [The Pen Hospital in Kolkata will nurse your broken fountain pen back](https://www.vogue.in/content/pen-hospital-in-kolkata-will-nurse-your-broken-fountain-pen-back-to-health)
 * [2024-05-29, 21:00:09](https://news.ycombinator.com/item?id=40516963) - [Tesorio (YC S15) Is Hiring – 100% Remote](https://www.tesorio.com/careers#job-openings)
 * [2024-05-29, 20:34:15](https://news.ycombinator.com/item?id=40516706) - [Toxoplasma Gondii significantly alters wolf behavior](https://www.sciencealert.com/something-strange-happens-to-wolves-infected-by-an-infamous-mind-altering-parasite)
 * [2024-05-29, 20:19:56](https://news.ycombinator.com/item?id=40516532) - [How Waymo outlasted the competition and made robo-taxis a real business](https://fortune.com/2024/05/29/waymo-self-driving-robo-taxi-uber-tesla-alphabet/)
 * [2024-05-29, 20:17:29](https://news.ycombinator.com/item?id=40516499) - [Gov. Polis Signs Bill Mandating That Consumers Have Options to Fix Electronics](https://coloradotimesrecorder.com/2024/05/gov-polis-signs-bill-mandating-that-consumers-have-more-options-to-fix-electronics/62156/)
 * [2024-05-29, 20:12:09](https://news.ycombinator.com/item?id=40516437) - [Amazon Cloud Traffic Is Suffocating Fedora's Mirrors](https://www.phoronix.com/news/AWS-Cloud-Breaks-Fedora-Mirrors)
 * [2024-05-29, 19:33:12](https://news.ycombinator.com/item?id=40515957) - [New attention mechanisms that outperform standard multi-head attention](https://arxiv.org/abs/2403.01643)
+* [2024-05-29, 18:55:31](https://news.ycombinator.com/item?id=40515465) - [California Senate Passes SB 1047](https://www.hyperdimensional.co/p/california-senate-passes-sb-1047)
 * [2024-05-29, 18:40:06](https://news.ycombinator.com/item?id=40515269) - [Era3D: High-Resolution Multiview Diffusion Using Efficient Row-Wise Attention](https://penghtyx.github.io/Era3D/)
 * [2024-05-29, 18:14:34](https://news.ycombinator.com/item?id=40514983) - [Google releases smart watch for kids](https://store.google.com/US/product/fitbit_ace_lte?hl=en-US)
 * [2024-05-29, 17:18:15](https://news.ycombinator.com/item?id=40514424) - [Rex Computing](http://rexcomputing.com/)
@@ -14,7 +16,6 @@
 * [2024-05-29, 17:05:29](https://news.ycombinator.com/item?id=40514266) - [Vector indexing all of Wikipedia on a laptop](https://foojay.io/today/indexing-all-of-wikipedia-on-a-laptop/)
 * [2024-05-29, 16:54:19](https://news.ycombinator.com/item?id=40514089) - [Show HN: Serverless Postgres](https://github.com/kiwicopple/serverless-postgres)
 * [2024-05-29, 16:28:39](https://news.ycombinator.com/item?id=40513775) - [IBDNS: Intentionally Broken DNS server](https://www.afnic.fr/en/observatory-and-resources/news/afnic-launches-ibdns-the-intentionally-broken-dns-server/)
-* [2024-05-29, 14:44:20](https://news.ycombinator.com/item?id=40512517) - [The rise of the disposable car](https://www.bloomberg.com/opinion/articles/2024-05-23/more-cars-are-being-totaled-as-repair-costs-used-car-prices-bite)
 * [2024-05-29, 14:43:37](https://news.ycombinator.com/item?id=40512509) - [Ottawa wants the power to create secret backdoors in networks for surveillance](https://www.theglobeandmail.com/opinion/article-ottawa-wants-the-power-to-create-secret-backdoors-in-our-networks-to/)
 * [2024-05-29, 14:42:50](https://news.ycombinator.com/item?id=40512500) - [I sold TinyPilot, my first successful business](https://mtlynch.io/i-sold-tinypilot/)
 * [2024-05-29, 14:16:10](https://news.ycombinator.com/item?id=40512250) - [Codestral: Mistral's Code Model](https://mistral.ai/news/codestral/)
@@ -29,7 +30,6 @@
 * [2024-05-29, 03:52:36](https://news.ycombinator.com/item?id=40508278) - [AI headphones let wearer listen to a single person in a crowd by looking at them](https://www.washington.edu/news/2024/05/23/ai-headphones-noise-cancelling-target-speech-hearing/)
 * [2024-05-28, 12:32:21](https://news.ycombinator.com/item?id=40500071) - [Can music make food taste better?](https://www.atlasobscura.com/articles/can-music-make-food-taste-better)
 * [2024-05-28, 06:32:29](https://news.ycombinator.com/item?id=40497957) - [AdFlush](https://dl.acm.org/doi/abs/10.1145/3589334.3645698)
-* [2024-05-28, 05:24:30](https://news.ycombinator.com/item?id=40497579) - [Runtime code generation and execution in Go](https://mathetake.github.io/posts/runtime-code-generation-in-go-part-1/)
 
 ## [Archives](archives/index.md)
 
