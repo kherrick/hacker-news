@@ -6,6 +6,8 @@
 
 * [2024-05-28, 23:13:33](https://news.ycombinator.com/item?id=40506582) - [Ex-OpenAI board member reveals what led to Sam Altman's brief ousting](https://www.businessinsider.com/openai-board-member-details-sam-altman-lied-allegation-ousted-2024-5)
 * [2024-05-28, 23:09:07](https://news.ycombinator.com/item?id=40506554) - [F-35 Crashes Near Albuquerque Airport, New Mexico](https://theaviationist.com/2024/05/28/f-35-crashes-near-albuquerque-new-mexico/)
+* [2024-05-28, 22:36:59](https://news.ycombinator.com/item?id=40506340) - [Proposal to change default annotation processing policy in JDK 23](https://mail.openjdk.org/pipermail/jdk-dev/2024-May/009028.html)
+* [2024-05-28, 22:02:47](https://news.ycombinator.com/item?id=40506093) - [Marc Andreessen wants you to stay in school](https://www.garelick.net/2024/05/28/marc-andreessen-wants-you-to-stay-in-school/)
 * [2024-05-28, 21:36:20](https://news.ycombinator.com/item?id=40505884) - [Cargo Was a Mistake](https://planetrenox.pages.dev/w/cargo+was+a+mistake)
 * [2024-05-28, 21:31:38](https://news.ycombinator.com/item?id=40505839) - [Facebook will soon use your photos, posts and other info to train its AI](https://www.thejournal.ie/facebook-data-ai-6391876-May2024/)
 * [2024-05-28, 21:02:50](https://news.ycombinator.com/item?id=40505586) - [Electromagnetic Waves and Antennas](https://www.ece.rutgers.edu/~orfanidi/ewa/)
