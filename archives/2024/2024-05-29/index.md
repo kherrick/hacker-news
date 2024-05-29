@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-29](index.md)
 
+* [2024-05-29, 21:00:09](https://news.ycombinator.com/item?id=40516963) - [Tesorio (YC S15) Is Hiring – 100% Remote](https://www.tesorio.com/careers#job-openings)
+* [2024-05-29, 20:57:26](https://news.ycombinator.com/item?id=40516945) - [They Tried to Fire Sam Altman Because He Sucks](https://www.todayintabs.com/p/tried-fire-sam-altman-sucks)
 * [2024-05-29, 20:34:15](https://news.ycombinator.com/item?id=40516706) - [Toxoplasma Gondii significantly alters wolf behavior](https://www.sciencealert.com/something-strange-happens-to-wolves-infected-by-an-infamous-mind-altering-parasite)
 * [2024-05-29, 20:34:07](https://news.ycombinator.com/item?id=40516705) - [Stellantis CEO confirms $25k Jeep EV](https://www.teslarati.com/jeep-stellantis-ceo-25-k-ev/)
 * [2024-05-29, 20:12:09](https://news.ycombinator.com/item?id=40516437) - [Amazon Cloud Traffic Is Suffocating Fedora's Mirrors](https://www.phoronix.com/news/AWS-Cloud-Breaks-Fedora-Mirrors)
@@ -72,6 +74,7 @@
 * [2024-05-29, 06:18:40](https://news.ycombinator.com/item?id=40509030) - [Isreal Spied on and Hacked the ICC](https://www.theguardian.com/world/article/2024/may/28/spying-hacking-intimidation-israel-war-icc-exposed)
 * [2024-05-29, 05:28:40](https://news.ycombinator.com/item?id=40508777) - [NSA Ghidra open-source reverse engineering framework](https://ghidra-sre.org/)
 * [2024-05-29, 05:17:02](https://news.ycombinator.com/item?id=40508719) - [Ex-OpenAI board member provides her first detailed account of CEO ouster](https://www.reuters.com/technology/ex-openai-board-member-provides-her-first-detailed-account-ceo-ouster-2024-05-29/)
+* [2024-05-29, 05:14:02](https://news.ycombinator.com/item?id=40508705) - [First Bioprocessor Powered by Human Brain Organoids](https://www.tomshardware.com/pc-components/cpus/worlds-first-bioprocessor-uses-16-human-brain-organoids-for-a-million-times-less-power-consumption-than-a-digital-chip)
 * [2024-05-29, 04:18:39](https://news.ycombinator.com/item?id=40508417) - [Ask HN: What's your favorite Underrated Anime that no one talks about?](https://news.ycombinator.com/item?id=40508417)
 * [2024-05-29, 04:14:16](https://news.ycombinator.com/item?id=40508390) - [What We Learned from a Year of Building with LLMs](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/)
 * [2024-05-29, 03:52:36](https://news.ycombinator.com/item?id=40508278) - [AI headphones let you listen to a single person in crowd, by looking at them](https://www.washington.edu/news/2024/05/23/ai-headphones-noise-cancelling-target-speech-hearing/)
