@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-05-29](index.md)
 
+* [2024-05-29, 13:03:23](https://news.ycombinator.com/item?id=40511547) - [MuckRock SCOTUS Amicus Brief: Requesting information is not a crime](https://www.documentcloud.org/documents/24697646-23-1155-muckrock-amicus-brief-final)
+* [2024-05-29, 12:58:44](https://news.ycombinator.com/item?id=40511497) - [US sanctions operators of \"free VPN\" that routed crime traffic through user PCs](https://arstechnica.com/security/2024/05/us-sanctions-operators-of-free-vpn-that-routed-crime-traffic-through-user-pcs/)
 * [2024-05-29, 12:00:47](https://news.ycombinator.com/item?id=40510994) - [ProjectPro (YC IK12) Is Hiring](https://www.ycombinator.com/companies/projectpro/jobs/jSqxCg8-account-executive-to-sell-to-analytics-teams)
 * [2024-05-29, 11:30:30](https://news.ycombinator.com/item?id=40510771) - [AMD's Marketcap is now double the marketcap of Intel](https://companiesmarketcap.com/amd/marketcap/)
 * [2024-05-29, 11:06:26](https://news.ycombinator.com/item?id=40510617) - [New BYD Hybrid Can Drive Non-Stop for More Than 2k Kilometers](https://www.bloomberg.com/news/articles/2024-05-28/byd-shows-off-new-hybrid-powertrain-capable-of-ultra-long-drive)
+* [2024-05-29, 10:54:23](https://news.ycombinator.com/item?id=40510536) - [Hello World, Simple Event Broker](https://blog.vbang.dk//2024/05/26/seb/)
 * [2024-05-29, 09:36:14](https://news.ycombinator.com/item?id=40510125) - [Google Search document leak reveals inner workings of ranking algorithm](https://searchengineland.com/google-search-document-leak-ranking-442617)
 * [2024-05-29, 08:54:23](https://news.ycombinator.com/item?id=40509865) - [Samsung Electronics union announces first-ever strike](https://techxplore.com/news/2024-05-samsung-electronics-union.html)
 * [2024-05-29, 08:45:36](https://news.ycombinator.com/item?id=40509824) - [Cloudflare has become a pig butchering scam but legal [video]](https://www.youtube.com/watch?v=8zj7ei5Egk8)
