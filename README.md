@@ -1,10 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-29, 19:10:50](https://news.ycombinator.com/item?id=40515671) - [Meta shuts down Israeli network pushing AI-generated propaganda in U.S.](https://www.calcalistech.com/ctechnews/article/rjqswxh4r)
 * [2024-05-29, 18:59:11](https://news.ycombinator.com/item?id=40515515) - [Nvidia is about to pass Apple in market cap](https://www.reuters.com/technology/ai-darling-nvidias-market-value-surges-closer-apple-2024-05-28/)
 * [2024-05-29, 18:46:46](https://news.ycombinator.com/item?id=40515358) - [Let yourself be monitored: EU governments to agree on Chat Control](https://www.patrick-breyer.de/en/let-yourself-be-monitored-eu-governments-to-agree-on-chat-control-with-user-consent/)
 * [2024-05-29, 18:40:06](https://news.ycombinator.com/item?id=40515269) - [Era3D: High-Resolution Multiview Diffusion Using Efficient Row-Wise Attention](https://penghtyx.github.io/Era3D/)
+* [2024-05-29, 18:34:54](https://news.ycombinator.com/item?id=40515211) - [Outrider: What would happen if a nuclear bomb went off in your backyard](https://outrider.org/nuclear-weapons/interactive/bomb-blast)
 * [2024-05-29, 17:59:46](https://news.ycombinator.com/item?id=40514816) - [Why OpenAI CEO was ousted](https://www.cnbc.com/2024/05/29/former-openai-board-member-explains-why-ceo-sam-altman-was-fired.html)
-* [2024-05-29, 17:57:02](https://news.ycombinator.com/item?id=40514783) - [Kids sickened by police training may have ingested decades old chemical weapons](https://www.sfchronicle.com/crime/article/sf-jail-chemical-weapons-19476975.php)
 * [2024-05-29, 17:18:15](https://news.ycombinator.com/item?id=40514424) - [Rex Computing](http://rexcomputing.com/)
 * [2024-05-29, 17:06:40](https://news.ycombinator.com/item?id=40514282) - [Kino: Pro Video Camera](https://www.lux.camera/introducing-kino-pro-video-camera/)
 * [2024-05-29, 17:05:29](https://news.ycombinator.com/item?id=40514266) - [Vector indexing all of Wikipedia on a laptop](https://foojay.io/today/indexing-all-of-wikipedia-on-a-laptop/)
@@ -29,7 +30,6 @@
 * [2024-05-28, 12:03:27](https://news.ycombinator.com/item?id=40499842) - [20 Years of Blogging on my own website](https://jeena.net/20-years-blogging)
 * [2024-05-28, 06:32:29](https://news.ycombinator.com/item?id=40497957) - [AdFlush](https://dl.acm.org/doi/abs/10.1145/3589334.3645698)
 * [2024-05-28, 05:24:30](https://news.ycombinator.com/item?id=40497579) - [Runtime code generation and execution in Go](https://mathetake.github.io/posts/runtime-code-generation-in-go-part-1/)
-* [2024-05-28, 05:13:34](https://news.ycombinator.com/item?id=40497525) - [Galois/Counter Mode and random nonces](https://neilmadden.blog/2024/05/23/galois-counter-mode-and-random-nonces/)
 
 ## [Archives](archives/index.md)
 
