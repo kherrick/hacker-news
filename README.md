@@ -12,7 +12,6 @@
 * [2024-05-29, 17:05:29](https://news.ycombinator.com/item?id=40514266) - [Vector indexing all of Wikipedia on a laptop](https://foojay.io/today/indexing-all-of-wikipedia-on-a-laptop/)
 * [2024-05-29, 16:54:19](https://news.ycombinator.com/item?id=40514089) - [Show HN: Serverless Postgres](https://github.com/kiwicopple/serverless-postgres)
 * [2024-05-29, 16:28:39](https://news.ycombinator.com/item?id=40513775) - [IBDNS: Intentionally Broken DNS server](https://www.afnic.fr/en/observatory-and-resources/news/afnic-launches-ibdns-the-intentionally-broken-dns-server/)
-* [2024-05-29, 14:48:30](https://news.ycombinator.com/item?id=40512557) - [Speedup of deletes on PostgreSQL](https://ivdl.co.za/2024/05/29/achieving-a-100x-speedup-of-deletes-on-postgresql/)
 * [2024-05-29, 14:44:20](https://news.ycombinator.com/item?id=40512517) - [The rise of the disposable car](https://www.bloomberg.com/opinion/articles/2024-05-23/more-cars-are-being-totaled-as-repair-costs-used-car-prices-bite)
 * [2024-05-29, 14:43:37](https://news.ycombinator.com/item?id=40512509) - [Ottawa wants the power to create secret backdoors in networks for surveillance](https://www.theglobeandmail.com/opinion/article-ottawa-wants-the-power-to-create-secret-backdoors-in-our-networks-to/)
 * [2024-05-29, 14:42:50](https://news.ycombinator.com/item?id=40512500) - [I sold TinyPilot, my first successful business](https://mtlynch.io/i-sold-tinypilot/)
@@ -28,6 +27,7 @@
 * [2024-05-29, 03:52:36](https://news.ycombinator.com/item?id=40508278) - [AI headphones let wearer listen to a single person in a crowd by looking at them](https://www.washington.edu/news/2024/05/23/ai-headphones-noise-cancelling-target-speech-hearing/)
 * [2024-05-28, 17:31:48](https://news.ycombinator.com/item?id=40503202) - [TTE: Terminal Text Effects](https://chrisbuilds.github.io/terminaltexteffects/showroom/)
 * [2024-05-28, 12:32:21](https://news.ycombinator.com/item?id=40500071) - [Can music make food taste better?](https://www.atlasobscura.com/articles/can-music-make-food-taste-better)
+* [2024-05-28, 12:27:09](https://news.ycombinator.com/item?id=40500043) - [Gone 10 years, World’s Biggest Bookstore still grips readers](https://www.thestar.com/news/gta/going-to-the-world-s-biggest-bookstore-was-an-event-10-years-after-closing-it/article_5c3647a0-01a7-11ef-b85d-33ecf09526c7.html)
 * [2024-05-28, 06:32:29](https://news.ycombinator.com/item?id=40497957) - [AdFlush](https://dl.acm.org/doi/abs/10.1145/3589334.3645698)
 * [2024-05-28, 05:24:30](https://news.ycombinator.com/item?id=40497579) - [Runtime code generation and execution in Go](https://mathetake.github.io/posts/runtime-code-generation-in-go-part-1/)
 
