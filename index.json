@@ -11,26 +11,6 @@
   ],
   [
     [
-      "2024-05-29, 11:30:30",
-      "https://news.ycombinator.com/item?id=40510771"
-    ],
-    [
-      "AMD's Marketcap is now double the marketcap of Intel",
-      "https://companiesmarketcap.com/amd/marketcap/"
-    ]
-  ],
-  [
-    [
-      "2024-05-29, 11:06:26",
-      "https://news.ycombinator.com/item?id=40510617"
-    ],
-    [
-      "New BYD Hybrid Can Drive Non-Stop for More Than 2k Kilometers",
-      "https://www.bloomberg.com/news/articles/2024-05-28/byd-shows-off-new-hybrid-powertrain-capable-of-ultra-long-drive"
-    ]
-  ],
-  [
-    [
       "2024-05-29, 09:36:14",
       "https://news.ycombinator.com/item?id=40510125"
     ],
@@ -77,16 +57,6 @@
     [
       "You can force employees back to the office, but not the good ones",
       "https://www.rte.ie/brainstorm/2024/0521/1450272-return-to-office-mandates-employees-work-from-home/"
-    ]
-  ],
-  [
-    [
-      "2024-05-29, 07:26:49",
-      "https://news.ycombinator.com/item?id=40509399"
-    ],
-    [
-      "Former OpenAI board member explains why they fired Sam Altman",
-      "https://www.theverge.com/2024/5/28/24166713/openai-helen-toner-explains-why-sam-altman-was-fired"
     ]
   ],
   [
@@ -161,6 +131,16 @@
   ],
   [
     [
+      "2024-05-28, 22:36:59",
+      "https://news.ycombinator.com/item?id=40506340"
+    ],
+    [
+      "Proposal to change default annotation processing policy in JDK 23",
+      "https://mail.openjdk.org/pipermail/jdk-dev/2024-May/009028.html"
+    ]
+  ],
+  [
+    [
       "2024-05-28, 20:25:20",
       "https://news.ycombinator.com/item?id=40505213"
     ],
@@ -231,6 +211,16 @@
   ],
   [
     [
+      "2024-05-28, 17:11:56",
+      "https://news.ycombinator.com/item?id=40502956"
+    ],
+    [
+      "Show HN: Openkoda – Open–source, private, Salesforce alternative",
+      "https://github.com/openkoda/openkoda"
+    ]
+  ],
+  [
+    [
       "2024-05-28, 17:03:03",
       "https://news.ycombinator.com/item?id=40502877"
     ],
@@ -257,6 +247,16 @@
     [
       "Show HN: I made a free app to calibrate your turntable by simply playing a song",
       "https://grooved.okat.best/"
+    ]
+  ],
+  [
+    [
+      "2024-05-28, 06:32:29",
+      "https://news.ycombinator.com/item?id=40497957"
+    ],
+    [
+      "AdFlush",
+      "https://dl.acm.org/doi/abs/10.1145/3589334.3645698"
     ]
   ],
   [
