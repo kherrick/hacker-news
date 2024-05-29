@@ -17,6 +17,7 @@
 * [2024-05-28, 20:26:04](https://news.ycombinator.com/item?id=40505223) - [Algorithmica](https://en.algorithmica.org)
 * [2024-05-28, 20:25:20](https://news.ycombinator.com/item?id=40505213) - [Shadama: A Particle Simulation Programming Environment for Everyone](https://tinlizzie.org/~ohshima/shadama2/live2017/)
 * [2024-05-28, 20:23:40](https://news.ycombinator.com/item?id=40505197) - [Eradicating N+1s: The Two-Phase Data Load and Render Pattern in Go](https://brandur.org/two-phase-render)
+* [2024-05-28, 20:21:36](https://news.ycombinator.com/item?id=40505167) - [Writing an NVMe Driver in Rust [pdf]](https://db.in.tum.de/~ellmann/theses/finished/24/pirhonen_writing_an_nvme_driver_in_rust.pdf)
 * [2024-05-28, 20:16:19](https://news.ycombinator.com/item?id=40505099) - [Llama 3-V: Matching GPT4-V with a 100x smaller model and 500 dollars](https://aksh-garg.medium.com/llama-3v-building-an-open-source-gpt-4v-competitor-in-under-500-7dd8f1f6c9ee)
 * [2024-05-28, 19:42:34](https://news.ycombinator.com/item?id=40504756) - [API Shouldn't Redirect HTTP to HTTPS](https://jviide.iki.fi/http-redirects)
 * [2024-05-28, 19:28:21](https://news.ycombinator.com/item?id=40504586) - [Using Parquet's Bloom Filters](https://www.influxdata.com/blog/using-parquets-bloom-filters/)
