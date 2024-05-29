@@ -6,6 +6,7 @@
 
 * [2024-05-29, 13:03:23](https://news.ycombinator.com/item?id=40511547) - [MuckRock SCOTUS Amicus Brief: Requesting information is not a crime](https://www.documentcloud.org/documents/24697646-23-1155-muckrock-amicus-brief-final)
 * [2024-05-29, 12:58:44](https://news.ycombinator.com/item?id=40511497) - [US sanctions operators of \"free VPN\" that routed crime traffic through user PCs](https://arstechnica.com/security/2024/05/us-sanctions-operators-of-free-vpn-that-routed-crime-traffic-through-user-pcs/)
+* [2024-05-29, 12:44:23](https://news.ycombinator.com/item?id=40511370) - [OpenAI training its next major AI model, forms new safety committee](https://arstechnica.com/information-technology/2024/05/openai-training-its-next-major-ai-model-forms-new-safety-committee/)
 * [2024-05-29, 12:00:47](https://news.ycombinator.com/item?id=40510994) - [ProjectPro (YC IK12) Is Hiring](https://www.ycombinator.com/companies/projectpro/jobs/jSqxCg8-account-executive-to-sell-to-analytics-teams)
 * [2024-05-29, 11:30:30](https://news.ycombinator.com/item?id=40510771) - [AMD's Marketcap is now double the marketcap of Intel](https://companiesmarketcap.com/amd/marketcap/)
 * [2024-05-29, 11:06:26](https://news.ycombinator.com/item?id=40510617) - [New BYD Hybrid Can Drive Non-Stop for More Than 2k Kilometers](https://www.bloomberg.com/news/articles/2024-05-28/byd-shows-off-new-hybrid-powertrain-capable-of-ultra-long-drive)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-29, 12:44:23](https://news.ycombinator.com/item?id=40511370) - [OpenAI training its next major AI model, forms new safety committee](https://arstechnica.com/information-technology/2024/05/openai-training-its-next-major-ai-model-forms-new-safety-committee/)
 * [2024-05-29, 12:00:47](https://news.ycombinator.com/item?id=40510994) - [ProjectPro (YC IK12) Is Hiring](https://www.ycombinator.com/companies/projectpro/jobs/jSqxCg8-account-executive-to-sell-to-analytics-teams)
 * [2024-05-29, 10:54:23](https://news.ycombinator.com/item?id=40510536) - [Hello World, Simple Event Broker](https://blog.vbang.dk//2024/05/26/seb/)
 * [2024-05-29, 08:12:20](https://news.ycombinator.com/item?id=40509638) - [Show HN: Slipshow – A presentation tool not based on slides](https://github.com/panglesd/slipshow)
@@ -29,7 +30,6 @@
 * [2024-05-28, 05:13:34](https://news.ycombinator.com/item?id=40497525) - [Galois/Counter Mode and random nonces](https://neilmadden.blog/2024/05/23/galois-counter-mode-and-random-nonces/)
 * [2024-05-28, 04:41:03](https://news.ycombinator.com/item?id=40497383) - [Ask HN: Can anyone recommend a Windows Systems programming book?](https://news.ycombinator.com/item?id=40497383)
 * [2024-05-28, 02:00:13](https://news.ycombinator.com/item?id=40496660) - [Researchers accurately dating a 7k-year-old settlement using cosmic rays](https://phys.org/news/2024-05-succeed-accurately-dating-year-prehistoric.html)
-* [2024-05-28, 01:44:50](https://news.ycombinator.com/item?id=40496588) - [Run VSCode and terminal on any iOS device](https://docs.blink.sh/advanced/code)
 
 ## [Archives](archives/index.md)
 
