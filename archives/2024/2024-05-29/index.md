@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-29](index.md)
 
+* [2024-05-29, 11:06:26](https://news.ycombinator.com/item?id=40510617) - [New BYD Hybrid Can Drive Non-Stop for More Than 2k Kilometers](https://www.bloomberg.com/news/articles/2024-05-28/byd-shows-off-new-hybrid-powertrain-capable-of-ultra-long-drive)
 * [2024-05-29, 09:36:14](https://news.ycombinator.com/item?id=40510125) - [Google Search document leak reveals inner workings of ranking algorithm](https://searchengineland.com/google-search-document-leak-ranking-442617)
 * [2024-05-29, 08:45:36](https://news.ycombinator.com/item?id=40509824) - [Cloudflare has become a pig butchering scam but legal [video]](https://www.youtube.com/watch?v=8zj7ei5Egk8)
 * [2024-05-29, 08:12:20](https://news.ycombinator.com/item?id=40509638) - [Show HN: Slipshow – A presentation tool not based on slides](https://github.com/panglesd/slipshow)
