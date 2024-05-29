@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-29](index.md)
 
 * [2024-05-29, 06:18:40](https://news.ycombinator.com/item?id=40509030) - [Isreal Spied on and Hacked the ICC](https://www.theguardian.com/world/article/2024/may/28/spying-hacking-intimidation-israel-war-icc-exposed)
+* [2024-05-29, 05:17:02](https://news.ycombinator.com/item?id=40508719) - [Ex-OpenAI board member provides her first detailed account of CEO ouster](https://www.reuters.com/technology/ex-openai-board-member-provides-her-first-detailed-account-ceo-ouster-2024-05-29/)
 * [2024-05-29, 04:18:39](https://news.ycombinator.com/item?id=40508417) - [Ask HN: What's your favorite Underrated Anime that no one talks about?](https://news.ycombinator.com/item?id=40508417)
 * [2024-05-29, 04:14:16](https://news.ycombinator.com/item?id=40508390) - [What We Learned from a Year of Building with LLMs](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/)
 * [2024-05-29, 03:52:36](https://news.ycombinator.com/item?id=40508278) - [AI headphones let you listen to a single person in crowd, by looking at them](https://www.washington.edu/news/2024/05/23/ai-headphones-noise-cancelling-target-speech-hearing/)
