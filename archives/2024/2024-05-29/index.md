@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-29](index.md)
 
+* [2024-05-29, 17:22:10](https://news.ycombinator.com/item?id=40514458) - [After Furiosa flops, Hollywood could be facing a biblically disastrous summer](https://www.bbc.com/culture/article/20240529-after-furiosa-flops-hollywood-could-be-facing-a-biblically-disastrous-summer)
 * [2024-05-29, 17:06:40](https://news.ycombinator.com/item?id=40514282) - [Kino: Pro Video Camera](https://www.lux.camera/introducing-kino-pro-video-camera/)
 * [2024-05-29, 17:05:29](https://news.ycombinator.com/item?id=40514266) - [Vector indexing all of Wikipedia on a laptop](https://foojay.io/today/indexing-all-of-wikipedia-on-a-laptop/)
 * [2024-05-29, 17:00:09](https://news.ycombinator.com/item?id=40514199) - [YC is hiring full stack product engineers – build SW for founders](https://www.ycombinator.com/companies/y-combinator/jobs/dUJA6i7-product-engineer-work-at-a-startup)
