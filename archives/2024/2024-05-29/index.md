@@ -68,6 +68,7 @@
 * [2024-05-29, 11:58:27](https://news.ycombinator.com/item?id=40510980) - [Seeing Sound: Audio Classification with the Wigner-Wille Distribution and CNN](https://arxiv.org/abs/2211.03202)
 * [2024-05-29, 11:30:30](https://news.ycombinator.com/item?id=40510771) - [AMD's Marketcap is now double the marketcap of Intel](https://companiesmarketcap.com/amd/marketcap/)
 * [2024-05-29, 11:14:44](https://news.ycombinator.com/item?id=40510668) - [Training /= chatting: ChatGPT and other LLMs don't remember everything you say](https://simonwillison.net/2024/May/29/training-not-chatting/)
+* [2024-05-29, 11:09:14](https://news.ycombinator.com/item?id=40510627) - [Ask HN: Can a website kill my internet connection? (WebRTC)](https://news.ycombinator.com/item?id=40510627)
 * [2024-05-29, 11:06:26](https://news.ycombinator.com/item?id=40510617) - [New BYD Hybrid Can Drive Non-Stop for More Than 2k Kilometers](https://www.bloomberg.com/news/articles/2024-05-28/byd-shows-off-new-hybrid-powertrain-capable-of-ultra-long-drive)
 * [2024-05-29, 10:54:23](https://news.ycombinator.com/item?id=40510536) - [Hello World, Simple Event Broker](https://blog.vbang.dk//2024/05/26/seb/)
 * [2024-05-29, 10:41:27](https://news.ycombinator.com/item?id=40510468) - [Three.js Shading Language](https://github.com/mrdoob/three.js/wiki/Three.js-Shading-Language)
