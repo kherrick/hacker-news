@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-30, 17:06:31](https://news.ycombinator.com/item?id=40526070) - [Hacker Releases Jailbroken \"Godmode\" Version of ChatGPT](https://futurism.com/hackers-jailbroken-chatgpt-godmode)
+* [2024-05-30, 17:41:52](https://news.ycombinator.com/item?id=40526500) - [Why Nvidia stock isn't in a bubble](https://finance.yahoo.com/news/why-nvidia-stock-isnt-in-a-massive-bubble-123032943.html)
 * [2024-05-30, 17:06:26](https://news.ycombinator.com/item?id=40526068) - [Disrupting deceptive uses of AI by covert influence operations](https://openai.com/index/disrupting-deceptive-uses-of-AI-by-covert-influence-operations/)
 * [2024-05-30, 16:44:58](https://news.ycombinator.com/item?id=40525788) - [Ask HN: Why are all major operating systems monolithic?](https://news.ycombinator.com/item?id=40525788)
 * [2024-05-30, 15:52:29](https://news.ycombinator.com/item?id=40525130) - [Mystery malware destroys 600k routers from a single ISP during 72-hour span](https://blog.lumen.com/the-pumpkin-eclipse/)
