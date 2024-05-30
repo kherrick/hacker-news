@@ -17,6 +17,7 @@
 * [2024-05-30, 15:45:54](https://news.ycombinator.com/item?id=40525064) - [Don't DRY Your Code Prematurely](https://testing.googleblog.com/2024/05/dont-dry-your-code-prematurely.html)
 * [2024-05-30, 15:24:36](https://news.ycombinator.com/item?id=40524823) - ['Operation Endgame' Hits Malware Delivery Platforms](https://krebsonsecurity.com/2024/05/operation-endgame-hits-malware-delivery-platforms/)
 * [2024-05-30, 15:17:39](https://news.ycombinator.com/item?id=40524759) - [Better RAG Results with Reciprocal Rank Fusion and Hybrid Search](https://www.assembled.com/blog/better-rag-results-with-reciprocal-rank-fusion-and-hybrid-search)
+* [2024-05-30, 14:33:46](https://news.ycombinator.com/item?id=40524238) - [Physicists Puzzle over Emergence of Electron Aggregates](https://www.quantamagazine.org/physicists-puzzle-over-emergence-of-strange-electron-aggregates-20240529/)
 * [2024-05-30, 13:53:57](https://news.ycombinator.com/item?id=40523743) - [Stuck at sea for years, a sailor's plight highlights a surge in ship abandonment](https://apnews.com/article/abandoned-seafarers-labor-unpaid-wages-oceans-83ad0a42debbaf67c18373393fcea753)
 * [2024-05-30, 12:50:37](https://news.ycombinator.com/item?id=40523047) - [I run a software book club](https://notes.eatonphil.com/2025-05-30-how-i-run-book-clubs.html)
 * [2024-05-30, 12:22:35](https://news.ycombinator.com/item?id=40522844) - [Show HN: ChatGPT UI for rabbit holes](https://delve.a9.io/)
@@ -29,7 +30,6 @@
 * [2024-05-30, 05:21:46](https://news.ycombinator.com/item?id=40520334) - [How actors remember their lines](https://thereader.mitpress.mit.edu/how-actors-remember-their-lines/)
 * [2024-05-30, 05:09:35](https://news.ycombinator.com/item?id=40520277) - [SVG Gobbler – Find, optimize, edit, and export SVGs](https://github.com/rossmoody/svg-gobbler)
 * [2024-05-29, 11:38:05](https://news.ycombinator.com/item?id=40510822) - [How Running a Business Changes the Way You Think (2011)](https://www.kalzumeus.com/2011/07/08/business-psychology/)
-* [2024-05-29, 07:52:20](https://news.ycombinator.com/item?id=40509535) - [Fast Shadow Stacks for Go](https://blog.felixge.de/blazingly-fast-shadow-stacks-for-go/)
 
 ## [Archives](archives/index.md)
 
