@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-30](index.md)
 
+* [2024-05-30, 15:36:04](https://news.ycombinator.com/item?id=40524949) - [Salesforce Shares Plunge by Most Since 2008 After Weak Outlook](https://www.bloomberg.com/news/articles/2024-05-29/salesforce-gives-weak-sales-outlook-with-slowdown-fears-growing)
+* [2024-05-30, 15:24:36](https://news.ycombinator.com/item?id=40524823) - ['Operation Endgame' Hits Malware Delivery Platforms](https://krebsonsecurity.com/2024/05/operation-endgame-hits-malware-delivery-platforms/)
+* [2024-05-30, 15:17:39](https://news.ycombinator.com/item?id=40524759) - [Better RAG Results with Reciprocal Rank Fusion and Hybrid Search](https://www.assembled.com/blog/better-rag-results-with-reciprocal-rank-fusion-and-hybrid-search)
 * [2024-05-30, 14:37:25](https://news.ycombinator.com/item?id=40524292) - [Ask HN: How can we open-source a 7 year old SaaS codebase and build a community?](https://news.ycombinator.com/item?id=40524292)
 * [2024-05-30, 14:32:28](https://news.ycombinator.com/item?id=40524219) - [Why scientists say we need to send clocks to the moon](https://www.cnn.com/2024/05/30/science/lunar-time-zone-scale-nasa-artemis-scn/index.html)
 * [2024-05-30, 14:17:52](https://news.ycombinator.com/item?id=40524031) - [All ChatGPT Free users can now use browse,vision,data analysis,file uploads,GPTs](https://twitter.com/OpenAI/status/1795900306490044479)
