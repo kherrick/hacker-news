@@ -1,22 +1,22 @@
 [
   [
     [
-      "2024-05-30, 13:53:57",
-      "https://news.ycombinator.com/item?id=40523743"
-    ],
-    [
-      "Stuck at sea for years, a sailor's plight highlights a surge in ship abandonment",
-      "https://apnews.com/article/abandoned-seafarers-labor-unpaid-wages-oceans-83ad0a42debbaf67c18373393fcea753"
-    ]
-  ],
-  [
-    [
       "2024-05-30, 13:23:40",
       "https://news.ycombinator.com/item?id=40523411"
     ],
     [
       "Raivo OTP just deleted all tokens after update and is now asking for money",
       "https://github.com/raivo-otp/ios-application/issues"
+    ]
+  ],
+  [
+    [
+      "2024-05-30, 12:50:37",
+      "https://news.ycombinator.com/item?id=40523047"
+    ],
+    [
+      "How I run a software book club",
+      "https://notes.eatonphil.com/2025-05-30-how-i-run-book-clubs.html"
     ]
   ],
   [
@@ -67,16 +67,6 @@
     [
       "Show HN: I built a tiny-VPS friendly RSS aggregator and reader",
       "https://github.com/0x2E/fusion"
-    ]
-  ],
-  [
-    [
-      "2024-05-30, 10:52:40",
-      "https://news.ycombinator.com/item?id=40522241"
-    ],
-    [
-      "PyPy has been working for me for several years now",
-      "https://utcc.utoronto.ca/~cks/space/blog/python/PyPyQuietlyWorking"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Vector indexing all of Wikipedia on a laptop",
       "https://foojay.io/today/indexing-all-of-wikipedia-on-a-laptop/"
+    ]
+  ],
+  [
+    [
+      "2024-05-29, 16:28:39",
+      "https://news.ycombinator.com/item?id=40513775"
+    ],
+    [
+      "IBDNS: Intentionally Broken DNS server",
+      "https://www.afnic.fr/en/observatory-and-resources/news/afnic-launches-ibdns-the-intentionally-broken-dns-server/"
     ]
   ],
   [
