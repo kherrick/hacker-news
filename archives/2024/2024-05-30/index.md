@@ -6,6 +6,7 @@
 
 * [2024-05-30, 13:53:57](https://news.ycombinator.com/item?id=40523743) - [Stuck at sea for years, a sailor's plight highlights a surge in ship abandonment](https://apnews.com/article/abandoned-seafarers-labor-unpaid-wages-oceans-83ad0a42debbaf67c18373393fcea753)
 * [2024-05-30, 13:23:40](https://news.ycombinator.com/item?id=40523411) - [Raivo OTP just deleted all tokens after update and is now asking for money](https://github.com/raivo-otp/ios-application/issues)
+* [2024-05-30, 12:50:37](https://news.ycombinator.com/item?id=40523047) - [How I run a software book club](https://notes.eatonphil.com/2025-05-30-how-i-run-book-clubs.html)
 * [2024-05-30, 12:34:38](https://news.ycombinator.com/item?id=40522936) - [EU doubles down on penalising privacy-friendly and encrypted messaging services](https://www.patrick-breyer.de/en/leak-eu-governments-double-down-on-penalising-privacy-friendly-and-encrypted-messaging-services-with-chat-control-bulk-scanning-orders/)
 * [2024-05-30, 12:22:35](https://news.ycombinator.com/item?id=40522844) - [Show HN: ChatGPT UI for Rabbit Holes](https://delve.a9.io/)
 * [2024-05-30, 11:44:48](https://news.ycombinator.com/item?id=40522577) - [SBCL: New in Version 2.4.5](http://sbcl.org/all-news.html?2.4.5#2.4.5)
