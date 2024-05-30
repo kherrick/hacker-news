@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-30](index.md)
 
+* [2024-05-30, 12:34:38](https://news.ycombinator.com/item?id=40522936) - [EU doubles down on penalising privacy-friendly and encrypted messaging services](https://www.patrick-breyer.de/en/leak-eu-governments-double-down-on-penalising-privacy-friendly-and-encrypted-messaging-services-with-chat-control-bulk-scanning-orders/)
+* [2024-05-30, 12:22:35](https://news.ycombinator.com/item?id=40522844) - [Show HN: ChatGPT UI for Rabbit Holes](https://delve.a9.io/)
 * [2024-05-30, 11:44:48](https://news.ycombinator.com/item?id=40522577) - [SBCL: New in Version 2.4.5](http://sbcl.org/all-news.html?2.4.5#2.4.5)
 * [2024-05-30, 11:37:07](https://news.ycombinator.com/item?id=40522518) - [You Can Thank Private Equity for That Enormous Doctor's Bill](https://www.wsj.com/health/healthcare/you-can-thank-private-equity-for-that-enormous-doctors-bill-3a2fc90b)
 * [2024-05-30, 11:12:09](https://news.ycombinator.com/item?id=40522366) - [In Belgium Zelensky's plane are escorted by Ukrainian F-16](https://armyrecognition.com/news/aerospace-news/2024/in-belgium-zelenskys-plane-are-escorted-by-ukrainian-f-16)
@@ -16,6 +18,7 @@
 * [2024-05-30, 09:19:25](https://news.ycombinator.com/item?id=40521657) - [PG: \"I got tired of hearing that YC fired Sam, so here's what happened\"](https://twitter.com/paulg/status/1796107666265108940)
 * [2024-05-30, 09:02:29](https://news.ycombinator.com/item?id=40521585) - [(Logic) Prolog, Erlang, Elixir a side-by-side reference sheet](https://hyperpolyglot.org/logic)
 * [2024-05-30, 08:50:30](https://news.ycombinator.com/item?id=40521518) - [Why, after 6 years, I'm over GraphQL](https://bessey.dev/blog/2024/05/24/why-im-over-graphql/)
+* [2024-05-30, 08:42:42](https://news.ycombinator.com/item?id=40521477) - [The KeePassXC Kerfuffle](https://lwn.net/Articles/973782/)
 * [2024-05-30, 07:53:26](https://news.ycombinator.com/item?id=40521229) - [Cybercriminals pose as \"helpful\" Stack Overflow users to push malware](https://www.bleepingcomputer.com/news/security/cybercriminals-pose-as-helpful-stack-overflow-users-to-push-malware/)
 * [2024-05-30, 07:26:25](https://news.ycombinator.com/item?id=40521076) - [Meaningful Nonsense: How I generate sentences](https://www.amygoodchild.com/blog/meaningful-nonsense-sentences)
 * [2024-05-30, 05:21:46](https://news.ycombinator.com/item?id=40520334) - [How Actors Remember Their Lines](https://thereader.mitpress.mit.edu/how-actors-remember-their-lines/)
