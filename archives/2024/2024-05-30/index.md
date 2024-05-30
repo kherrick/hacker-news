@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-30](index.md)
 
+* [2024-05-30, 11:44:48](https://news.ycombinator.com/item?id=40522577) - [SBCL: New in Version 2.4.5](http://sbcl.org/all-news.html?2.4.5#2.4.5)
 * [2024-05-30, 11:12:09](https://news.ycombinator.com/item?id=40522366) - [In Belgium Zelensky's plane are escorted by Ukrainian F-16](https://armyrecognition.com/news/aerospace-news/2024/in-belgium-zelenskys-plane-are-escorted-by-ukrainian-f-16)
 * [2024-05-30, 10:55:48](https://news.ycombinator.com/item?id=40522261) - [Lisbon, a city dying from its own success](https://english.elpais.com/international/2024-05-29/lisbon-a-city-dying-from-its-own-success.html)
 * [2024-05-30, 10:52:40](https://news.ycombinator.com/item?id=40522241) - [PyPy has been working for me for several years now](https://utcc.utoronto.ca/~cks/space/blog/python/PyPyQuietlyWorking)
@@ -11,6 +12,7 @@
 * [2024-05-30, 10:06:07](https://news.ycombinator.com/item?id=40521963) - [I love my wife. My wife is dead (1946)](https://lettersofnote.com/2012/02/15/i-love-my-wife-my-wife-is-dead/)
 * [2024-05-30, 09:28:33](https://news.ycombinator.com/item?id=40521710) - [Show HN: I made a pixel art editor for Windows desktop](https://www.lightcube.art/)
 * [2024-05-30, 09:19:25](https://news.ycombinator.com/item?id=40521657) - [PG: \"I got tired of hearing that YC fired Sam, so here's what happened\"](https://twitter.com/paulg/status/1796107666265108940)
+* [2024-05-30, 09:02:29](https://news.ycombinator.com/item?id=40521585) - [(Logic) Prolog, Erlang, Elixir a side-by-side reference sheet](https://hyperpolyglot.org/logic)
 * [2024-05-30, 08:50:30](https://news.ycombinator.com/item?id=40521518) - [Why, after 6 years, I'm over GraphQL](https://bessey.dev/blog/2024/05/24/why-im-over-graphql/)
 * [2024-05-30, 07:53:26](https://news.ycombinator.com/item?id=40521229) - [Cybercriminals pose as \"helpful\" Stack Overflow users to push malware](https://www.bleepingcomputer.com/news/security/cybercriminals-pose-as-helpful-stack-overflow-users-to-push-malware/)
 * [2024-05-30, 07:26:25](https://news.ycombinator.com/item?id=40521076) - [Meaningful Nonsense: How I generate sentences](https://www.amygoodchild.com/blog/meaningful-nonsense-sentences)

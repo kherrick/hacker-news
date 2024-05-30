@@ -1,11 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-30, 11:44:48](https://news.ycombinator.com/item?id=40522577) - [SBCL: New in Version 2.4.5](http://sbcl.org/all-news.html?2.4.5#2.4.5)
 * [2024-05-30, 10:55:48](https://news.ycombinator.com/item?id=40522261) - [Lisbon, a city dying from its own success](https://english.elpais.com/international/2024-05-29/lisbon-a-city-dying-from-its-own-success.html)
 * [2024-05-30, 10:52:40](https://news.ycombinator.com/item?id=40522241) - [PyPy has been working for me for several years now](https://utcc.utoronto.ca/~cks/space/blog/python/PyPyQuietlyWorking)
 * [2024-05-30, 10:27:18](https://news.ycombinator.com/item?id=40522084) - [Infections Correlate with Entrepreneurship](https://www.researchgate.net/publication/326608642_Risky_business_Linking_Toxoplasma_gondii_infection_and_entrepreneurship_behaviours_across_individuals_and_countries)
 * [2024-05-30, 10:06:07](https://news.ycombinator.com/item?id=40521963) - [I love my wife. My wife is dead (1946)](https://lettersofnote.com/2012/02/15/i-love-my-wife-my-wife-is-dead/)
 * [2024-05-30, 09:28:33](https://news.ycombinator.com/item?id=40521710) - [Show HN: I made a pixel art editor for Windows desktop](https://www.lightcube.art/)
 * [2024-05-30, 09:19:25](https://news.ycombinator.com/item?id=40521657) - [I got tired of hearing that YC fired Sam, so here's what actually happened](https://twitter.com/paulg/status/1796107666265108940)
+* [2024-05-30, 09:02:29](https://news.ycombinator.com/item?id=40521585) - [(Logic) Prolog, Erlang, Elixir a side-by-side reference sheet](https://hyperpolyglot.org/logic)
 * [2024-05-30, 08:50:30](https://news.ycombinator.com/item?id=40521518) - [Why, after 6 years, I'm over GraphQL](https://bessey.dev/blog/2024/05/24/why-im-over-graphql/)
 * [2024-05-30, 07:53:26](https://news.ycombinator.com/item?id=40521229) - [Cybercriminals pose as \"helpful\" Stack Overflow users to push malware](https://www.bleepingcomputer.com/news/security/cybercriminals-pose-as-helpful-stack-overflow-users-to-push-malware/)
 * [2024-05-30, 07:26:25](https://news.ycombinator.com/item?id=40521076) - [Meaningful Nonsense: How I generate sentences](https://www.amygoodchild.com/blog/meaningful-nonsense-sentences)
@@ -26,9 +28,7 @@
 * [2024-05-29, 10:47:03](https://news.ycombinator.com/item?id=40510503) - [Ultrasonic Coffee](https://www.theguardian.com/food/article/2024/may/29/ultrasonic-coffee-australia-scientists-unsw)
 * [2024-05-29, 09:13:47](https://news.ycombinator.com/item?id=40509987) - [DuckDB Doesn't Need Data to Be a Database](https://www.nikolasgoebel.com/2024/05/28/duckdb-doesnt-need-data.html)
 * [2024-05-29, 07:52:20](https://news.ycombinator.com/item?id=40509535) - [Fast Shadow Stacks for Go](https://blog.felixge.de/blazingly-fast-shadow-stacks-for-go/)
-* [2024-05-29, 06:34:02](https://news.ycombinator.com/item?id=40509123) - [Johnny Cash – Strawberry Cake](https://playingintheworldgame.com/2015/04/21/johnny-cash-strawberry-cake/)
 * [2024-05-29, 06:15:28](https://news.ycombinator.com/item?id=40509016) - [Starlink's disruption of the space industry](https://www.thespacereview.com/article/4801/1)
-* [2024-05-29, 05:14:02](https://news.ycombinator.com/item?id=40508705) - [First Bioprocessor Powered by Human Brain Organoids](https://www.tomshardware.com/pc-components/cpus/worlds-first-bioprocessor-uses-16-human-brain-organoids-for-a-million-times-less-power-consumption-than-a-digital-chip)
 * [2024-05-29, 04:42:06](https://news.ycombinator.com/item?id=40508540) - [Donating forks to the dining hall](https://1.coc0o44.preview.ben.page/forks)
 
 ## [Archives](archives/index.md)
