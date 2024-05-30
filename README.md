@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-30, 03:35:09](https://news.ycombinator.com/item?id=40519826) - [Amazon Prime Members Get Free Grubhub+ for a Year](https://lp.grubhub.com/partner/grubhub-amazon-prime/)
 * [2024-05-30, 03:10:32](https://news.ycombinator.com/item?id=40519722) - [FrankenPHP: The Modern PHP App Server](https://frankenphp.dev/)
 * [2024-05-30, 02:07:28](https://news.ycombinator.com/item?id=40519410) - [A Devil's Bargain with OpenAI](https://www.theatlantic.com/technology/archive/2024/05/a-devils-bargain-with-openai/678537/)
 * [2024-05-30, 00:39:19](https://news.ycombinator.com/item?id=40518849) - [\"My Bike Is Everything to Me\"](https://kottke.org/24/05/my-bike-is-everything-to-me)
@@ -28,7 +29,6 @@
 * [2024-05-29, 06:34:02](https://news.ycombinator.com/item?id=40509123) - [Johnny Cash – Strawberry Cake](https://playingintheworldgame.com/2015/04/21/johnny-cash-strawberry-cake/)
 * [2024-05-29, 05:14:02](https://news.ycombinator.com/item?id=40508705) - [First Bioprocessor Powered by Human Brain Organoids](https://www.tomshardware.com/pc-components/cpus/worlds-first-bioprocessor-uses-16-human-brain-organoids-for-a-million-times-less-power-consumption-than-a-digital-chip)
 * [2024-05-29, 04:42:06](https://news.ycombinator.com/item?id=40508540) - [Donating Forks to the Dining Hall](https://1.coc0o44.preview.ben.page/forks)
-* [2024-05-29, 03:52:36](https://news.ycombinator.com/item?id=40508278) - [AI headphones let wearer listen to a single person in a crowd by looking at them](https://www.washington.edu/news/2024/05/23/ai-headphones-noise-cancelling-target-speech-hearing/)
 * [2024-05-28, 06:32:29](https://news.ycombinator.com/item?id=40497957) - [AdFlush](https://dl.acm.org/doi/abs/10.1145/3589334.3645698)
 
 ## [Archives](archives/index.md)
