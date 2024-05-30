@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-05-30, 14:17:52",
-      "https://news.ycombinator.com/item?id=40524031"
+      "2024-05-30, 14:37:25",
+      "https://news.ycombinator.com/item?id=40524292"
     ],
     [
-      "All ChatGPT Free users can now use browse,vision,data analysis,file uploads,GPTs",
-      "https://twitter.com/OpenAI/status/1795900306490044479"
+      "Ask HN: How can we open-source a 7 year old SaaS codebase and build a community?",
+      "https://news.ycombinator.com/item?id=40524292"
     ]
   ],
   [
@@ -21,12 +21,12 @@
   ],
   [
     [
-      "2024-05-30, 13:23:40",
-      "https://news.ycombinator.com/item?id=40523411"
+      "2024-05-30, 13:15:02",
+      "https://news.ycombinator.com/item?id=40523311"
     ],
     [
-      "Raivo OTP just deleted all tokens after update and is now asking for money",
-      "https://github.com/raivo-otp/ios-application/issues"
+      "AMD and Intel Team Up for Open Alternative to Nvidia's NVLink",
+      "https://www.phoronix.com/news/Ultra-Accelerator-Link-UALink"
     ]
   ],
   [
@@ -47,16 +47,6 @@
     [
       "Show HN: ChatGPT UI for Rabbit Holes",
       "https://delve.a9.io/"
-    ]
-  ],
-  [
-    [
-      "2024-05-30, 11:37:07",
-      "https://news.ycombinator.com/item?id=40522518"
-    ],
-    [
-      "You Can Thank Private Equity for That Enormous Doctor's Bill",
-      "https://www.wsj.com/health/healthcare/you-can-thank-private-equity-for-that-enormous-doctors-bill-3a2fc90b"
     ]
   ],
   [
@@ -91,32 +81,12 @@
   ],
   [
     [
-      "2024-05-30, 09:02:29",
-      "https://news.ycombinator.com/item?id=40521585"
-    ],
-    [
-      "(Logic) Prolog, Erlang, Elixir a side-by-side reference sheet",
-      "https://hyperpolyglot.org/logic"
-    ]
-  ],
-  [
-    [
       "2024-05-30, 08:50:30",
       "https://news.ycombinator.com/item?id=40521518"
     ],
     [
       "Why, after 6 years, I'm over GraphQL",
       "https://bessey.dev/blog/2024/05/24/why-im-over-graphql/"
-    ]
-  ],
-  [
-    [
-      "2024-05-30, 08:42:42",
-      "https://news.ycombinator.com/item?id=40521477"
-    ],
-    [
-      "The KeePassXC Kerfuffle",
-      "https://lwn.net/Articles/973782/"
     ]
   ],
   [
@@ -155,7 +125,7 @@
       "https://news.ycombinator.com/item?id=40520275"
     ],
     [
-      "A seventh-grader student found a beautiful proof to Thales' Theorem",
+      "A seventh-grader student found a beautiful proof to Thales' Theorem (2008)",
       "https://www.cut-the-knot.org/pythagoras/ThalesTheorem.shtml"
     ]
   ],
@@ -171,12 +141,32 @@
   ],
   [
     [
+      "2024-05-29, 21:25:48",
+      "https://news.ycombinator.com/item?id=40517204"
+    ],
+    [
+      "Bootstrapping a Forth in 40 lines of Lua code",
+      "http://angg.twu.net/miniforth-article.html"
+    ]
+  ],
+  [
+    [
       "2024-05-29, 21:01:36",
       "https://news.ycombinator.com/item?id=40516983"
     ],
     [
       "The Pen Hospital in Kolkata will nurse your broken fountain pen back",
       "https://www.vogue.in/content/pen-hospital-in-kolkata-will-nurse-your-broken-fountain-pen-back-to-health"
+    ]
+  ],
+  [
+    [
+      "2024-05-29, 21:00:09",
+      "https://news.ycombinator.com/item?id=40516963"
+    ],
+    [
+      "Tesorio (YC S15) Is Hiring – 100% Remote",
+      "https://www.tesorio.com/careers#job-openings"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "IBDNS: Intentionally Broken DNS server",
       "https://www.afnic.fr/en/observatory-and-resources/news/afnic-launches-ibdns-the-intentionally-broken-dns-server/"
+    ]
+  ],
+  [
+    [
+      "2024-05-29, 14:42:50",
+      "https://news.ycombinator.com/item?id=40512500"
+    ],
+    [
+      "I sold TinyPilot, my first successful business",
+      "https://mtlynch.io/i-sold-tinypilot/"
     ]
   ],
   [
