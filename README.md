@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-29, 23:34:53](https://news.ycombinator.com/item?id=40518405) - [Louisiana law will criminalize approaching police under certain circumstances](https://apnews.com/article/police-distance-law-louisiana-85f269d421b03a173bfbd4b98e95a018)
 * [2024-05-29, 23:10:24](https://news.ycombinator.com/item?id=40518203) - [Kaplay – a JavaScript library that helps you make games fast and fun](https://kaplayjs.com/kaplayjs.com)
 * [2024-05-29, 22:50:58](https://news.ycombinator.com/item?id=40518016) - [Google confirms the leaked Search documents are real](https://www.theverge.com/2024/5/29/24167407/google-search-algorithm-documents-leak-confirmation)
 * [2024-05-29, 22:04:24](https://news.ycombinator.com/item?id=40517576) - [Caddy 2.8](https://github.com/caddyserver/caddy/releases/tag/v2.8.0)
@@ -26,7 +27,6 @@
 * [2024-05-29, 08:12:20](https://news.ycombinator.com/item?id=40509638) - [Show HN: Slipshow – A presentation tool not based on slides](https://github.com/panglesd/slipshow)
 * [2024-05-29, 05:14:02](https://news.ycombinator.com/item?id=40508705) - [First Bioprocessor Powered by Human Brain Organoids](https://www.tomshardware.com/pc-components/cpus/worlds-first-bioprocessor-uses-16-human-brain-organoids-for-a-million-times-less-power-consumption-than-a-digital-chip)
 * [2024-05-29, 04:42:06](https://news.ycombinator.com/item?id=40508540) - [Donating Forks to the Dining Hall](https://1.coc0o44.preview.ben.page/forks)
-* [2024-05-29, 04:33:28](https://news.ycombinator.com/item?id=40508499) - [How to Position Your Turntable](https://uturnaudio.com/pages/turntable-positioning)
 * [2024-05-29, 03:52:36](https://news.ycombinator.com/item?id=40508278) - [AI headphones let wearer listen to a single person in a crowd by looking at them](https://www.washington.edu/news/2024/05/23/ai-headphones-noise-cancelling-target-speech-hearing/)
 * [2024-05-28, 12:32:21](https://news.ycombinator.com/item?id=40500071) - [Can music make food taste better?](https://www.atlasobscura.com/articles/can-music-make-food-taste-better)
 * [2024-05-28, 06:32:29](https://news.ycombinator.com/item?id=40497957) - [AdFlush](https://dl.acm.org/doi/abs/10.1145/3589334.3645698)
