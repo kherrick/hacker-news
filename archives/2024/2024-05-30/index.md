@@ -16,6 +16,7 @@
 * [2024-05-30, 15:17:39](https://news.ycombinator.com/item?id=40524759) - [Better RAG Results with Reciprocal Rank Fusion and Hybrid Search](https://www.assembled.com/blog/better-rag-results-with-reciprocal-rank-fusion-and-hybrid-search)
 * [2024-05-30, 14:41:00](https://news.ycombinator.com/item?id=40524339) - [The Social Lives of the Teens Who Don't Have Phones](https://www.thecut.com/article/phones-teens-screentime-restrictions-jonathan-haidt.html)
 * [2024-05-30, 14:37:25](https://news.ycombinator.com/item?id=40524292) - [Ask HN: How can we open-source a 7 year old SaaS codebase and build a community?](https://news.ycombinator.com/item?id=40524292)
+* [2024-05-30, 14:33:46](https://news.ycombinator.com/item?id=40524238) - [Physicists Puzzle over Emergence of Electron Aggregates](https://www.quantamagazine.org/physicists-puzzle-over-emergence-of-strange-electron-aggregates-20240529/)
 * [2024-05-30, 14:32:28](https://news.ycombinator.com/item?id=40524219) - [Why scientists say we need to send clocks to the moon](https://www.cnn.com/2024/05/30/science/lunar-time-zone-scale-nasa-artemis-scn/index.html)
 * [2024-05-30, 14:17:52](https://news.ycombinator.com/item?id=40524031) - [All ChatGPT Free users can now use browse,vision,data analysis,file uploads,GPTs](https://twitter.com/OpenAI/status/1795900306490044479)
 * [2024-05-30, 14:09:35](https://news.ycombinator.com/item?id=40523920) - [Show HN: Quadra – organize your tasks and notes beautifully](https://quadra-two.vercel.app/)

@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-30, 16:31:08](https://news.ycombinator.com/item?id=40525629) - [Can large language models reason?](https://www.arnaldur.be/writing/about/large-language-model-reasoning)
 * [2024-05-30, 16:17:23](https://news.ycombinator.com/item?id=40525441) - [Google Search SEO document leak reveals how company curates internet](https://gizmodo.com/google-search-seo-leak-reveal-gatekeeps-internet-1851508410)
 * [2024-05-30, 16:08:33](https://news.ycombinator.com/item?id=40525327) - [Starlink as a means to win at nuclear war](https://ioc.exchange/@muskfiles/112522370451697720)
 * [2024-05-30, 15:52:29](https://news.ycombinator.com/item?id=40525130) - [Mystery malware destroys 600k routers from a single ISP during 72-hour span](https://blog.lumen.com/the-pumpkin-eclipse/)
 * [2024-05-30, 15:45:54](https://news.ycombinator.com/item?id=40525064) - [Don't DRY Your Code Prematurely](https://testing.googleblog.com/2024/05/dont-dry-your-code-prematurely.html)
 * [2024-05-30, 15:33:43](https://news.ycombinator.com/item?id=40524923) - [Penrose – Tool for Diagrams](https://penrose.cs.cmu.edu/examples)
 * [2024-05-30, 15:24:36](https://news.ycombinator.com/item?id=40524823) - ['Operation Endgame' Hits Malware Delivery Platforms](https://krebsonsecurity.com/2024/05/operation-endgame-hits-malware-delivery-platforms/)
+* [2024-05-30, 14:33:46](https://news.ycombinator.com/item?id=40524238) - [Physicists Puzzle over Emergence of Electron Aggregates](https://www.quantamagazine.org/physicists-puzzle-over-emergence-of-strange-electron-aggregates-20240529/)
 * [2024-05-30, 14:32:28](https://news.ycombinator.com/item?id=40524219) - [Why scientists say we need to send clocks to the moon](https://www.cnn.com/2024/05/30/science/lunar-time-zone-scale-nasa-artemis-scn/index.html)
 * [2024-05-30, 13:53:57](https://news.ycombinator.com/item?id=40523743) - [Stuck at sea for years, a sailor's plight highlights a surge in ship abandonment](https://apnews.com/article/abandoned-seafarers-labor-unpaid-wages-oceans-83ad0a42debbaf67c18373393fcea753)
 * [2024-05-30, 12:50:37](https://news.ycombinator.com/item?id=40523047) - [How I run a software book club](https://notes.eatonphil.com/2025-05-30-how-i-run-book-clubs.html)
