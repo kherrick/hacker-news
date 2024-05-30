@@ -66,6 +66,7 @@
 * [2024-05-29, 12:38:16](https://news.ycombinator.com/item?id=40511307) - [Elixir and Machine Learning in 2024 so far: MLIR, Arrow, structured LLM, etc.](https://dashbit.co/blog/elixir-ml-s1-2024-mlir-arrow-instructor)
 * [2024-05-29, 12:00:47](https://news.ycombinator.com/item?id=40510994) - [ProjectPro (YC IK12) Is Hiring](https://www.ycombinator.com/companies/projectpro/jobs/jSqxCg8-account-executive-to-sell-to-analytics-teams)
 * [2024-05-29, 11:58:27](https://news.ycombinator.com/item?id=40510980) - [Seeing Sound: Audio Classification with the Wigner-Wille Distribution and CNN](https://arxiv.org/abs/2211.03202)
+* [2024-05-29, 11:38:05](https://news.ycombinator.com/item?id=40510822) - [How Running a Business Changes the Way You Think (2011)](https://www.kalzumeus.com/2011/07/08/business-psychology/)
 * [2024-05-29, 11:30:30](https://news.ycombinator.com/item?id=40510771) - [AMD's Marketcap is now double the marketcap of Intel](https://companiesmarketcap.com/amd/marketcap/)
 * [2024-05-29, 11:14:44](https://news.ycombinator.com/item?id=40510668) - [Training /= chatting: ChatGPT and other LLMs don't remember everything you say](https://simonwillison.net/2024/May/29/training-not-chatting/)
 * [2024-05-29, 11:09:14](https://news.ycombinator.com/item?id=40510627) - [Ask HN: Can a website kill my internet connection? (WebRTC)](https://news.ycombinator.com/item?id=40510627)
