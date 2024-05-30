@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-30](index.md)
 
+* [2024-05-30, 04:24:46](https://news.ycombinator.com/item?id=40520051) - [Google Console closed testing requirements are awful](https://news.ycombinator.com/item?id=40520051)
 * [2024-05-30, 03:35:09](https://news.ycombinator.com/item?id=40519826) - [Amazon Prime Members Get Free Grubhub+ for a Year](https://lp.grubhub.com/partner/grubhub-amazon-prime/)
 * [2024-05-30, 03:18:40](https://news.ycombinator.com/item?id=40519749) - [Show HN: Resource Index – FOSS Git Repository and NPM Package Index](https://res-index.hkit.cc/)
 * [2024-05-30, 03:10:32](https://news.ycombinator.com/item?id=40519722) - [FrankenPHP: The Modern PHP App Server](https://frankenphp.dev/)
