@@ -12,6 +12,7 @@
 * [2024-05-29, 20:17:29](https://news.ycombinator.com/item?id=40516499) - [Gov. Polis Signs Bill Mandating That Consumers Have Options to Fix Electronics](https://coloradotimesrecorder.com/2024/05/gov-polis-signs-bill-mandating-that-consumers-have-more-options-to-fix-electronics/62156/)
 * [2024-05-29, 19:33:12](https://news.ycombinator.com/item?id=40515957) - [New attention mechanisms that outperform standard multi-head attention](https://arxiv.org/abs/2403.01643)
 * [2024-05-29, 18:40:06](https://news.ycombinator.com/item?id=40515269) - [Era3D: High-Resolution Multiview Diffusion Using Efficient Row-Wise Attention](https://penghtyx.github.io/Era3D/)
+* [2024-05-29, 18:15:09](https://news.ycombinator.com/item?id=40514993) - [The Naughty Words the FAA Removed from the Sky](https://www.beautifulpublicdata.com/trump-naughty-faa-waypoints/)
 * [2024-05-29, 18:14:34](https://news.ycombinator.com/item?id=40514983) - [Google releases smart watch for kids](https://store.google.com/US/product/fitbit_ace_lte?hl=en-US)
 * [2024-05-29, 17:18:15](https://news.ycombinator.com/item?id=40514424) - [Rex Computing](http://rexcomputing.com/)
 * [2024-05-29, 17:06:40](https://news.ycombinator.com/item?id=40514282) - [Kino: Pro Video Camera](https://www.lux.camera/introducing-kino-pro-video-camera/)
@@ -28,7 +29,6 @@
 * [2024-05-29, 05:14:02](https://news.ycombinator.com/item?id=40508705) - [First Bioprocessor Powered by Human Brain Organoids](https://www.tomshardware.com/pc-components/cpus/worlds-first-bioprocessor-uses-16-human-brain-organoids-for-a-million-times-less-power-consumption-than-a-digital-chip)
 * [2024-05-29, 04:42:06](https://news.ycombinator.com/item?id=40508540) - [Donating Forks to the Dining Hall](https://1.coc0o44.preview.ben.page/forks)
 * [2024-05-29, 03:52:36](https://news.ycombinator.com/item?id=40508278) - [AI headphones let wearer listen to a single person in a crowd by looking at them](https://www.washington.edu/news/2024/05/23/ai-headphones-noise-cancelling-target-speech-hearing/)
-* [2024-05-28, 12:32:21](https://news.ycombinator.com/item?id=40500071) - [Can music make food taste better?](https://www.atlasobscura.com/articles/can-music-make-food-taste-better)
 * [2024-05-28, 06:32:29](https://news.ycombinator.com/item?id=40497957) - [AdFlush](https://dl.acm.org/doi/abs/10.1145/3589334.3645698)
 
 ## [Archives](archives/index.md)
