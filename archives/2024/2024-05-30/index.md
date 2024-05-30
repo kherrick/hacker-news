@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-30](index.md)
 
+* [2024-05-30, 18:54:25](https://news.ycombinator.com/item?id=40527353) - [We Stopped Using Signal Messenger](https://decodetheworld.substack.com/p/why-we-stopped-using-signal-messenger)
+* [2024-05-30, 18:52:30](https://news.ycombinator.com/item?id=40527336) - [Groq surpasses 1,200 tokens/sec with Llama 3 8B](https://twitter.com/sundeep/status/1795964992367235186)
 * [2024-05-30, 18:12:52](https://news.ycombinator.com/item?id=40526897) - [GitHub Copilot Re-Enables Itself After Being Disabled](https://github.com/microsoft/vscode-copilot-release/issues/1248)
 * [2024-05-30, 17:57:56](https://news.ycombinator.com/item?id=40526695) - [AI Is a False God](https://thewalrus.ca/ai-hype/)
 * [2024-05-30, 17:41:52](https://news.ycombinator.com/item?id=40526500) - [Why Nvidia stock isn't in a bubble](https://finance.yahoo.com/news/why-nvidia-stock-isnt-in-a-massive-bubble-123032943.html)
