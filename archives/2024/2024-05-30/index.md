@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-30](index.md)
 
+* [2024-05-30, 20:39:49](https://news.ycombinator.com/item?id=40528410) - [A crazy experience losing Apple earbuds in a remote town in Chile](https://twitter.com/joshwhiton/status/1796222090216886682)
 * [2024-05-30, 20:14:21](https://news.ycombinator.com/item?id=40528079) - [The United States Munitions List](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-M/part-121)
 * [2024-05-30, 19:52:25](https://news.ycombinator.com/item?id=40527904) - [Windows 11 disabled all ways to get around Auto Restarts. Is there a workaround?](https://superuser.com/questions/1843873/windows-11-seems-to-have-disabled-all-ways-to-get-around-auto-update-restarts-i)
 * [2024-05-30, 19:43:03](https://news.ycombinator.com/item?id=40527814) - [2023 planetary heat uptake from termination shock of inadvertent geoengineering?](https://www.nature.com/articles/s43247-024-01442-3)
