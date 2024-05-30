@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-30, 09:19:25](https://news.ycombinator.com/item?id=40521657) - [PG: \"I got tired of hearing that YC fired Sam, so here's what happened\"](https://twitter.com/paulg/status/1796107666265108940)
-* [2024-05-30, 07:53:26](https://news.ycombinator.com/item?id=40521229) - [Cybercriminals pose as \"helpful\" Stack Overflow users to push malware](https://www.bleepingcomputer.com/news/security/cybercriminals-pose-as-helpful-stack-overflow-users-to-push-malware/)
+* [2024-05-30, 08:50:30](https://news.ycombinator.com/item?id=40521518) - [Why, after 6 years, I'm over GraphQL](https://bessey.dev/blog/2024/05/24/why-im-over-graphql/)
 * [2024-05-30, 07:26:25](https://news.ycombinator.com/item?id=40521076) - [Meaningful Nonsense: How I generate sentences](https://www.amygoodchild.com/blog/meaningful-nonsense-sentences)
 * [2024-05-30, 05:21:46](https://news.ycombinator.com/item?id=40520334) - [How Actors Remember Their Lines](https://thereader.mitpress.mit.edu/how-actors-remember-their-lines/)
 * [2024-05-30, 05:09:35](https://news.ycombinator.com/item?id=40520277) - [SVG Gobbler – Find, optimize, edit, and export SVGs](https://github.com/rossmoody/svg-gobbler)
