@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-30](index.md)
 
+* [2024-05-30, 10:27:18](https://news.ycombinator.com/item?id=40522084) - [Infections Correlate with Entrepreneurship](https://www.researchgate.net/publication/326608642_Risky_business_Linking_Toxoplasma_gondii_infection_and_entrepreneurship_behaviours_across_individuals_and_countries)
+* [2024-05-30, 10:06:07](https://news.ycombinator.com/item?id=40521963) - [I love my wife. My wife is dead (1946)](https://lettersofnote.com/2012/02/15/i-love-my-wife-my-wife-is-dead/)
+* [2024-05-30, 09:28:33](https://news.ycombinator.com/item?id=40521710) - [Show HN: I made a pixel art editor for Windows desktop](https://www.lightcube.art/)
 * [2024-05-30, 09:19:25](https://news.ycombinator.com/item?id=40521657) - [PG: \"I got tired of hearing that YC fired Sam, so here's what happened\"](https://twitter.com/paulg/status/1796107666265108940)
 * [2024-05-30, 08:50:30](https://news.ycombinator.com/item?id=40521518) - [Why, after 6 years, I'm over GraphQL](https://bessey.dev/blog/2024/05/24/why-im-over-graphql/)
 * [2024-05-30, 07:53:26](https://news.ycombinator.com/item?id=40521229) - [Cybercriminals pose as \"helpful\" Stack Overflow users to push malware](https://www.bleepingcomputer.com/news/security/cybercriminals-pose-as-helpful-stack-overflow-users-to-push-malware/)
