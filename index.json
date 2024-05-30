@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-30, 13:23:40",
+      "https://news.ycombinator.com/item?id=40523411"
+    ],
+    [
+      "Raivo OTP just deleted all tokens after update and is now asking for money",
+      "https://github.com/raivo-otp/ios-application/issues"
+    ]
+  ],
+  [
+    [
       "2024-05-30, 12:34:38",
       "https://news.ycombinator.com/item?id=40522936"
     ],
@@ -227,16 +237,6 @@
     [
       "Vector indexing all of Wikipedia on a laptop",
       "https://foojay.io/today/indexing-all-of-wikipedia-on-a-laptop/"
-    ]
-  ],
-  [
-    [
-      "2024-05-29, 16:28:39",
-      "https://news.ycombinator.com/item?id=40513775"
-    ],
-    [
-      "IBDNS: Intentionally Broken DNS server",
-      "https://www.afnic.fr/en/observatory-and-resources/news/afnic-launches-ibdns-the-intentionally-broken-dns-server/"
     ]
   ],
   [
