@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-29](index.md)
 
+* [2024-05-29, 23:10:24](https://news.ycombinator.com/item?id=40518203) - [Kaplay – a JavaScript library that helps you make games fast and fun](https://kaplayjs.com/kaplayjs.com)
+* [2024-05-29, 22:50:58](https://news.ycombinator.com/item?id=40518016) - [Google confirms the leaked Search documents are real](https://www.theverge.com/2024/5/29/24167407/google-search-algorithm-documents-leak-confirmation)
 * [2024-05-29, 22:04:24](https://news.ycombinator.com/item?id=40517576) - [Caddy 2.8](https://github.com/caddyserver/caddy/releases/tag/v2.8.0)
 * [2024-05-29, 21:30:44](https://news.ycombinator.com/item?id=40517254) - [The hail in Texas was so big Tuesday that it required a new description](https://www.washingtonpost.com/weather/2024/05/29/texas-hail-dvd-size-record-nwws/)
 * [2024-05-29, 21:25:48](https://news.ycombinator.com/item?id=40517204) - [Bootstrapping a Forth in 40 lines of Lua code](http://angg.twu.net/miniforth-article.html)
@@ -85,6 +87,7 @@
 * [2024-05-29, 05:17:02](https://news.ycombinator.com/item?id=40508719) - [Ex-OpenAI board member provides her first detailed account of CEO ouster](https://www.reuters.com/technology/ex-openai-board-member-provides-her-first-detailed-account-ceo-ouster-2024-05-29/)
 * [2024-05-29, 05:14:02](https://news.ycombinator.com/item?id=40508705) - [First Bioprocessor Powered by Human Brain Organoids](https://www.tomshardware.com/pc-components/cpus/worlds-first-bioprocessor-uses-16-human-brain-organoids-for-a-million-times-less-power-consumption-than-a-digital-chip)
 * [2024-05-29, 04:42:06](https://news.ycombinator.com/item?id=40508540) - [Donating Forks to the Dining Hall](https://1.coc0o44.preview.ben.page/forks)
+* [2024-05-29, 04:33:28](https://news.ycombinator.com/item?id=40508499) - [How to Position Your Turntable](https://uturnaudio.com/pages/turntable-positioning)
 * [2024-05-29, 04:18:39](https://news.ycombinator.com/item?id=40508417) - [Ask HN: What's your favorite Underrated Anime that no one talks about?](https://news.ycombinator.com/item?id=40508417)
 * [2024-05-29, 04:14:16](https://news.ycombinator.com/item?id=40508390) - [What We Learned from a Year of Building with LLMs](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-i/)
 * [2024-05-29, 03:52:36](https://news.ycombinator.com/item?id=40508278) - [AI headphones let you listen to a single person in crowd, by looking at them](https://www.washington.edu/news/2024/05/23/ai-headphones-noise-cancelling-target-speech-hearing/)
