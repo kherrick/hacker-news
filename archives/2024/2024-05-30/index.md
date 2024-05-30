@@ -18,6 +18,7 @@
 * [2024-05-30, 15:33:43](https://news.ycombinator.com/item?id=40524923) - [Penrose – Tool for Diagrams](https://penrose.cs.cmu.edu/examples)
 * [2024-05-30, 15:24:36](https://news.ycombinator.com/item?id=40524823) - ['Operation Endgame' Hits Malware Delivery Platforms](https://krebsonsecurity.com/2024/05/operation-endgame-hits-malware-delivery-platforms/)
 * [2024-05-30, 15:17:39](https://news.ycombinator.com/item?id=40524759) - [Better RAG Results with Reciprocal Rank Fusion and Hybrid Search](https://www.assembled.com/blog/better-rag-results-with-reciprocal-rank-fusion-and-hybrid-search)
+* [2024-05-30, 14:54:13](https://news.ycombinator.com/item?id=40524501) - [Ask HN: What do devs use for quickly setting up a feedback form?](https://news.ycombinator.com/item?id=40524501)
 * [2024-05-30, 14:41:00](https://news.ycombinator.com/item?id=40524339) - [The Social Lives of the Teens Who Don't Have Phones](https://www.thecut.com/article/phones-teens-screentime-restrictions-jonathan-haidt.html)
 * [2024-05-30, 14:37:25](https://news.ycombinator.com/item?id=40524292) - [Ask HN: How can we open-source a 7 year old SaaS codebase and build a community?](https://news.ycombinator.com/item?id=40524292)
 * [2024-05-30, 14:33:46](https://news.ycombinator.com/item?id=40524238) - [Physicists Puzzle over Emergence of Electron Aggregates](https://www.quantamagazine.org/physicists-puzzle-over-emergence-of-strange-electron-aggregates-20240529/)
