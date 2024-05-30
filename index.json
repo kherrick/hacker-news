@@ -1,12 +1,32 @@
 [
   [
     [
-      "2024-05-30, 17:41:52",
-      "https://news.ycombinator.com/item?id=40526500"
+      "2024-05-30, 18:12:52",
+      "https://news.ycombinator.com/item?id=40526897"
     ],
     [
-      "Why Nvidia stock isn't in a bubble",
-      "https://finance.yahoo.com/news/why-nvidia-stock-isnt-in-a-massive-bubble-123032943.html"
+      "GitHub Copilot Re-Enables Itself After Being Disabled",
+      "https://github.com/microsoft/vscode-copilot-release/issues/1248"
+    ]
+  ],
+  [
+    [
+      "2024-05-30, 17:57:56",
+      "https://news.ycombinator.com/item?id=40526695"
+    ],
+    [
+      "AI Is a False God",
+      "https://thewalrus.ca/ai-hype/"
+    ]
+  ],
+  [
+    [
+      "2024-05-30, 17:17:29",
+      "https://news.ycombinator.com/item?id=40526225"
+    ],
+    [
+      "IRS Plans to Make Free Tax Filing Permanent",
+      "https://www.cnn.com/2024/05/30/politics/irs-direct-file-free/index.html"
     ]
   ],
   [
@@ -17,6 +37,16 @@
     [
       "Disrupting deceptive uses of AI by covert influence operations",
       "https://openai.com/index/disrupting-deceptive-uses-of-AI-by-covert-influence-operations/"
+    ]
+  ],
+  [
+    [
+      "2024-05-30, 16:46:17",
+      "https://news.ycombinator.com/item?id=40525802"
+    ],
+    [
+      "Unexpected Anti-Patterns for Engineering Leaders",
+      "https://review.firstround.com/unexpected-anti-patterns-for-engineering-leaders-lessons-from-stripe-uber-carta/"
     ]
   ],
   [
@@ -35,7 +65,7 @@
       "https://news.ycombinator.com/item?id=40525130"
     ],
     [
-      "Mystery malware destroys 600k routers from a single ISP during 72-hour span",
+      "The Pumpkin Eclipse",
       "https://blog.lumen.com/the-pumpkin-eclipse/"
     ]
   ],
@@ -81,22 +111,12 @@
   ],
   [
     [
-      "2024-05-30, 14:33:46",
-      "https://news.ycombinator.com/item?id=40524238"
+      "2024-05-30, 14:37:25",
+      "https://news.ycombinator.com/item?id=40524292"
     ],
     [
-      "Physicists Puzzle over Emergence of Electron Aggregates",
-      "https://www.quantamagazine.org/physicists-puzzle-over-emergence-of-strange-electron-aggregates-20240529/"
-    ]
-  ],
-  [
-    [
-      "2024-05-30, 14:32:28",
-      "https://news.ycombinator.com/item?id=40524219"
-    ],
-    [
-      "Why scientists say we need to send clocks to the moon",
-      "https://www.cnn.com/2024/05/30/science/lunar-time-zone-scale-nasa-artemis-scn/index.html"
+      "Ask HN: How can we open-source a 7 year old SaaS codebase and build a community?",
+      "https://news.ycombinator.com/item?id=40524292"
     ]
   ],
   [
@@ -185,7 +205,7 @@
       "https://news.ycombinator.com/item?id=40521518"
     ],
     [
-      "Why, after 6 years, I'm over GraphQL",
+      "After 6 years, I'm over GraphQL",
       "https://bessey.dev/blog/2024/05/24/why-im-over-graphql/"
     ]
   ],
@@ -225,38 +245,18 @@
       "https://news.ycombinator.com/item?id=40520275"
     ],
     [
-      "A seventh-grader student found a beautiful proof to Thales' Theorem (2008)",
+      "A seventh-grader student found a beautiful proof to Thales' Theorem (2002)",
       "https://www.cut-the-knot.org/pythagoras/ThalesTheorem.shtml"
     ]
   ],
   [
     [
-      "2024-05-30, 03:10:32",
-      "https://news.ycombinator.com/item?id=40519722"
+      "2024-05-29, 21:44:22",
+      "https://news.ycombinator.com/item?id=40517401"
     ],
     [
-      "FrankenPHP: Modern PHP App Server",
-      "https://frankenphp.dev/"
-    ]
-  ],
-  [
-    [
-      "2024-05-29, 21:00:09",
-      "https://news.ycombinator.com/item?id=40516963"
-    ],
-    [
-      "Tesorio (YC S15) Is Hiring – 100% Remote",
-      "https://www.tesorio.com/careers#job-openings"
-    ]
-  ],
-  [
-    [
-      "2024-05-29, 20:19:56",
-      "https://news.ycombinator.com/item?id=40516532"
-    ],
-    [
-      "How Waymo outlasted the competition and made robo-taxis a real business",
-      "https://fortune.com/2024/05/29/waymo-self-driving-robo-taxi-uber-tesla-alphabet/"
+      "LLMs Have Favorites Numbers",
+      "https://gramener.com/llmrandom/"
     ]
   ],
   [
