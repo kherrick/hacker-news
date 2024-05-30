@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2024-05-30](index.md)
 
 * [2024-05-30, 11:44:48](https://news.ycombinator.com/item?id=40522577) - [SBCL: New in Version 2.4.5](http://sbcl.org/all-news.html?2.4.5#2.4.5)
+* [2024-05-30, 11:37:07](https://news.ycombinator.com/item?id=40522518) - [You Can Thank Private Equity for That Enormous Doctor's Bill](https://www.wsj.com/health/healthcare/you-can-thank-private-equity-for-that-enormous-doctors-bill-3a2fc90b)
 * [2024-05-30, 11:12:09](https://news.ycombinator.com/item?id=40522366) - [In Belgium Zelensky's plane are escorted by Ukrainian F-16](https://armyrecognition.com/news/aerospace-news/2024/in-belgium-zelenskys-plane-are-escorted-by-ukrainian-f-16)
 * [2024-05-30, 10:55:48](https://news.ycombinator.com/item?id=40522261) - [Lisbon, a city dying from its own success](https://english.elpais.com/international/2024-05-29/lisbon-a-city-dying-from-its-own-success.html)
+* [2024-05-30, 10:53:09](https://news.ycombinator.com/item?id=40522244) - [Show HN: I built a tiny-VPS friendly RSS aggregator and reader](https://github.com/0x2E/fusion)
 * [2024-05-30, 10:52:40](https://news.ycombinator.com/item?id=40522241) - [PyPy has been working for me for several years now](https://utcc.utoronto.ca/~cks/space/blog/python/PyPyQuietlyWorking)
 * [2024-05-30, 10:27:18](https://news.ycombinator.com/item?id=40522084) - [Infections Correlate with Entrepreneurship](https://www.researchgate.net/publication/326608642_Risky_business_Linking_Toxoplasma_gondii_infection_and_entrepreneurship_behaviours_across_individuals_and_countries)
 * [2024-05-30, 10:06:07](https://news.ycombinator.com/item?id=40521963) - [I love my wife. My wife is dead (1946)](https://lettersofnote.com/2012/02/15/i-love-my-wife-my-wife-is-dead/)
