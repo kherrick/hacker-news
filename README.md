@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-30, 18:52:30](https://news.ycombinator.com/item?id=40527336) - [Groq surpasses 1,200 tokens/sec with Llama 3 8B](https://twitter.com/sundeep/status/1795964992367235186)
 * [2024-05-30, 18:43:11](https://news.ycombinator.com/item?id=40527239) - [How to Train a Million Context LLM](https://www.latent.space/p/gradient)
 * [2024-05-30, 17:40:16](https://news.ycombinator.com/item?id=40526488) - [James Webb Space Telescope Finds Most Distant Known Galaxy](https://blogs.nasa.gov/webb/2024/05/30/nasas-james-webb-space-telescope-finds-most-distant-known-galaxy/)
 * [2024-05-30, 17:06:26](https://news.ycombinator.com/item?id=40526068) - [Disrupting deceptive uses of AI by covert influence operations](https://openai.com/index/disrupting-deceptive-uses-of-AI-by-covert-influence-operations/)
@@ -9,7 +8,7 @@
 * [2024-05-30, 15:45:54](https://news.ycombinator.com/item?id=40525064) - [Don't DRY Your Code Prematurely](https://testing.googleblog.com/2024/05/dont-dry-your-code-prematurely.html)
 * [2024-05-30, 15:24:36](https://news.ycombinator.com/item?id=40524823) - ['Operation Endgame' Hits Malware Delivery Platforms](https://krebsonsecurity.com/2024/05/operation-endgame-hits-malware-delivery-platforms/)
 * [2024-05-30, 15:17:39](https://news.ycombinator.com/item?id=40524759) - [Better RAG Results with Reciprocal Rank Fusion and Hybrid Search](https://www.assembled.com/blog/better-rag-results-with-reciprocal-rank-fusion-and-hybrid-search)
-* [2024-05-30, 14:54:13](https://news.ycombinator.com/item?id=40524501) - [Ask HN: What do devs use for quickly setting up a feedback form?](https://news.ycombinator.com/item?id=40524501)
+* [2024-05-30, 15:10:55](https://news.ycombinator.com/item?id=40524681) - [Show HN: Webhooks for Any Event](https://markets.sh/notifications/api)
 * [2024-05-30, 14:37:25](https://news.ycombinator.com/item?id=40524292) - [Ask HN: How can we open-source a 7 year old SaaS codebase and build a community?](https://news.ycombinator.com/item?id=40524292)
 * [2024-05-30, 14:33:46](https://news.ycombinator.com/item?id=40524238) - [Physicists Puzzle over Emergence of Electron Aggregates](https://www.quantamagazine.org/physicists-puzzle-over-emergence-of-strange-electron-aggregates-20240529/)
 * [2024-05-30, 13:53:57](https://news.ycombinator.com/item?id=40523743) - [Stuck at sea for years, a sailor's plight highlights a surge in ship abandonment](https://apnews.com/article/abandoned-seafarers-labor-unpaid-wages-oceans-83ad0a42debbaf67c18373393fcea753)
@@ -29,6 +28,7 @@
 * [2024-05-29, 17:05:29](https://news.ycombinator.com/item?id=40514266) - [Vector indexing all of Wikipedia on a laptop](https://foojay.io/today/indexing-all-of-wikipedia-on-a-laptop/)
 * [2024-05-29, 11:38:05](https://news.ycombinator.com/item?id=40510822) - [How Running a Business Changes the Way You Think (2011)](https://www.kalzumeus.com/2011/07/08/business-psychology/)
 * [2024-05-29, 07:52:20](https://news.ycombinator.com/item?id=40509535) - [Fast Shadow Stacks for Go](https://blog.felixge.de/blazingly-fast-shadow-stacks-for-go/)
+* [2024-05-29, 06:34:02](https://news.ycombinator.com/item?id=40509123) - [Johnny Cash – Strawberry Cake](https://playingintheworldgame.com/2015/04/21/johnny-cash-strawberry-cake/)
 * [2024-05-29, 04:42:06](https://news.ycombinator.com/item?id=40508540) - [Donating forks to the dining hall](https://1.coc0o44.preview.ben.page/forks)
 
 ## [Archives](archives/index.md)
