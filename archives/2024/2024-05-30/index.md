@@ -5,6 +5,9 @@
 ### [Archives](../../index.md) for [2024-05-30](index.md)
 
 * [2024-05-30, 17:06:31](https://news.ycombinator.com/item?id=40526070) - [Hacker Releases Jailbroken \"Godmode\" Version of ChatGPT](https://futurism.com/hackers-jailbroken-chatgpt-godmode)
+* [2024-05-30, 17:06:26](https://news.ycombinator.com/item?id=40526068) - [Disrupting deceptive uses of AI by covert influence operations](https://openai.com/index/disrupting-deceptive-uses-of-AI-by-covert-influence-operations/)
+* [2024-05-30, 16:50:57](https://news.ycombinator.com/item?id=40525863) - [Disturbing and misleading efforts to defame Helen Toner through misdirection](https://garymarcus.substack.com/p/disturbing-and-misleading-efforts)
+* [2024-05-30, 16:44:58](https://news.ycombinator.com/item?id=40525788) - [Ask HN: Why are all major operating systems monolithic?](https://news.ycombinator.com/item?id=40525788)
 * [2024-05-30, 16:31:08](https://news.ycombinator.com/item?id=40525629) - [Can large language models reason?](https://www.arnaldur.be/writing/about/large-language-model-reasoning)
 * [2024-05-30, 16:17:23](https://news.ycombinator.com/item?id=40525441) - [Google Search SEO document leak reveals how company curates internet](https://gizmodo.com/google-search-seo-leak-reveal-gatekeeps-internet-1851508410)
 * [2024-05-30, 16:08:33](https://news.ycombinator.com/item?id=40525327) - [Starlink as a means to win at nuclear war](https://ioc.exchange/@muskfiles/112522370451697720)
