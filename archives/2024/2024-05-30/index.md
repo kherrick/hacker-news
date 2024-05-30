@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-05-30](index.md)
 
+* [2024-05-30, 16:31:08](https://news.ycombinator.com/item?id=40525629) - [Can large language models reason?](https://www.arnaldur.be/writing/about/large-language-model-reasoning)
+* [2024-05-30, 16:17:23](https://news.ycombinator.com/item?id=40525441) - [Google Search SEO document leak reveals how company curates internet](https://gizmodo.com/google-search-seo-leak-reveal-gatekeeps-internet-1851508410)
+* [2024-05-30, 16:08:33](https://news.ycombinator.com/item?id=40525327) - [Starlink as a means to win at nuclear war](https://ioc.exchange/@muskfiles/112522370451697720)
 * [2024-05-30, 16:01:54](https://news.ycombinator.com/item?id=40525255) - [YouTube stops working for millions as war against ad blockers intensifies](https://www.independent.co.uk/tech/youtube-down-not-working-ad-blocker-b2552387.html)
 * [2024-05-30, 15:52:29](https://news.ycombinator.com/item?id=40525130) - [Mystery malware destroys 600k routers from a single ISP during 72-hour span](https://blog.lumen.com/the-pumpkin-eclipse/)
 * [2024-05-30, 15:45:54](https://news.ycombinator.com/item?id=40525064) - [Don't DRY Your Code Prematurely](https://testing.googleblog.com/2024/05/dont-dry-your-code-prematurely.html)
 * [2024-05-30, 15:36:04](https://news.ycombinator.com/item?id=40524949) - [Salesforce Shares Plunge by Most Since 2008 After Weak Outlook](https://www.bloomberg.com/news/articles/2024-05-29/salesforce-gives-weak-sales-outlook-with-slowdown-fears-growing)
+* [2024-05-30, 15:33:43](https://news.ycombinator.com/item?id=40524923) - [Penrose – Tool for Diagrams](https://penrose.cs.cmu.edu/examples)
 * [2024-05-30, 15:24:36](https://news.ycombinator.com/item?id=40524823) - ['Operation Endgame' Hits Malware Delivery Platforms](https://krebsonsecurity.com/2024/05/operation-endgame-hits-malware-delivery-platforms/)
 * [2024-05-30, 15:17:39](https://news.ycombinator.com/item?id=40524759) - [Better RAG Results with Reciprocal Rank Fusion and Hybrid Search](https://www.assembled.com/blog/better-rag-results-with-reciprocal-rank-fusion-and-hybrid-search)
 * [2024-05-30, 14:41:00](https://news.ycombinator.com/item?id=40524339) - [The Social Lives of the Teens Who Don't Have Phones](https://www.thecut.com/article/phones-teens-screentime-restrictions-jonathan-haidt.html)
