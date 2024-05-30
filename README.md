@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-30, 23:36:03](https://news.ycombinator.com/item?id=40529976) - [Are dusty quasars masquerading as Dyson sphere candidates?](https://physicsworld.com/a/are-dusty-quasars-masquerading-as-dyson-sphere-candidates/)
 * [2024-05-30, 23:10:26](https://news.ycombinator.com/item?id=40529777) - [Email notifications for Hacker News comment replies](http://www.hnreplies.com/)
-* [2024-05-30, 22:02:34](https://news.ycombinator.com/item?id=40529217) - [Microsoft Rolling Out New Windows Subsystem for Linux \"WSL\" Features for 2024](https://www.phoronix.com/news/Microsoft-WSL2-2024-Features)
 * [2024-05-30, 21:45:40](https://news.ycombinator.com/item?id=40529064) - [ASK HN: The Required Fundamentals for Self-Taught Programming](https://news.ycombinator.com/item?id=40529064)
 * [2024-05-30, 21:16:17](https://news.ycombinator.com/item?id=40528808) - [Asqi: A codebase explorer designed to help navigate and understand Git projects](https://dev.asqi.io/)
 * [2024-05-30, 21:12:14](https://news.ycombinator.com/item?id=40528766) - [Is Target selling its excess inventory on eBay and Poshmark?](https://www.modernretail.co/technology/is-target-selling-its-excess-inventory-on-ebay-poshmark/)
