@@ -72,6 +72,7 @@
 * [2024-05-29, 11:06:26](https://news.ycombinator.com/item?id=40510617) - [New BYD Hybrid Can Drive Non-Stop for More Than 2k Kilometers](https://www.bloomberg.com/news/articles/2024-05-28/byd-shows-off-new-hybrid-powertrain-capable-of-ultra-long-drive)
 * [2024-05-29, 11:00:42](https://news.ycombinator.com/item?id=40510569) - [An even faster Microsoft Edge](https://blogs.windows.com/msedgedev/2024/05/28/an-even-faster-microsoft-edge/)
 * [2024-05-29, 10:54:23](https://news.ycombinator.com/item?id=40510536) - [Hello World, Simple Event Broker](https://blog.vbang.dk//2024/05/26/seb/)
+* [2024-05-29, 10:47:03](https://news.ycombinator.com/item?id=40510503) - [Ultrasonic Coffee](https://www.theguardian.com/food/article/2024/may/29/ultrasonic-coffee-australia-scientists-unsw)
 * [2024-05-29, 10:41:27](https://news.ycombinator.com/item?id=40510468) - [Three.js Shading Language](https://github.com/mrdoob/three.js/wiki/Three.js-Shading-Language)
 * [2024-05-29, 10:02:40](https://news.ycombinator.com/item?id=40510251) - [The obscure intelligence bureau that got Vietnam, Iraq, and Ukraine right](https://www.vox.com/future-perfect/351638/the-obscure-federal-intelligence-bureau-that-got-vietnam-iraq-and-ukraine-right)
 * [2024-05-29, 09:50:41](https://news.ycombinator.com/item?id=40510195) - [Qlock – A JavaScript Quine Clock](http://aem1k.com/qlock/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-30](index.md)
 
+* [2024-05-30, 07:26:25](https://news.ycombinator.com/item?id=40521076) - [Meaningful Nonsense: How I generate sentences](https://www.amygoodchild.com/blog/meaningful-nonsense-sentences)
 * [2024-05-30, 05:21:46](https://news.ycombinator.com/item?id=40520334) - [How Actors Remember Their Lines](https://thereader.mitpress.mit.edu/how-actors-remember-their-lines/)
 * [2024-05-30, 05:09:35](https://news.ycombinator.com/item?id=40520277) - [SVG Gobbler – Find, optimize, edit, and export SVGs](https://github.com/rossmoody/svg-gobbler)
 * [2024-05-30, 05:09:04](https://news.ycombinator.com/item?id=40520275) - [A seventh-grader student found a beautiful proof to Thales' Theorem](https://www.cut-the-knot.org/pythagoras/ThalesTheorem.shtml)
