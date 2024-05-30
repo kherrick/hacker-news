@@ -9,6 +9,7 @@
 * [2024-05-30, 21:16:36](https://news.ycombinator.com/item?id=40528811) - [Nov 2, 1920: Imprisoned Eugene V. Debs Received 1M Votes for US President](https://www.zinnedproject.org/news/tdih/debs-received-million-votes/)
 * [2024-05-30, 21:16:17](https://news.ycombinator.com/item?id=40528808) - [Asqi: A codebase explorer designed to help navigate and understand Git projects](https://dev.asqi.io/)
 * [2024-05-30, 21:12:14](https://news.ycombinator.com/item?id=40528766) - [Is Target selling its excess inventory on eBay and Poshmark?](https://www.modernretail.co/technology/is-target-selling-its-excess-inventory-on-ebay-poshmark/)
+* [2024-05-30, 21:05:14](https://news.ycombinator.com/item?id=40528708) - [1 in 4 U.S. Teachers Say AI Tools Do More Harm Than Good in K-12 Education](https://www.pewresearch.org/short-reads/2024/05/15/a-quarter-of-u-s-teachers-say-ai-tools-do-more-harm-than-good-in-k-12-education/)
 * [2024-05-30, 21:01:37](https://news.ycombinator.com/item?id=40528680) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2024-05-30, 20:39:49](https://news.ycombinator.com/item?id=40528410) - [A crazy experience losing Apple earbuds in a remote town in Chile](https://twitter.com/joshwhiton/status/1796222090216886682)
 * [2024-05-30, 20:24:05](https://news.ycombinator.com/item?id=40528192) - [Ask HN: I have many PDFs – what is the best local way to leverage AI for search?](https://news.ycombinator.com/item?id=40528192)
