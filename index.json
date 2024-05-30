@@ -1,12 +1,32 @@
 [
   [
     [
-      "2024-05-30, 15:36:04",
-      "https://news.ycombinator.com/item?id=40524949"
+      "2024-05-30, 16:01:54",
+      "https://news.ycombinator.com/item?id=40525255"
     ],
     [
-      "Salesforce Shares Plunge by Most Since 2008 After Weak Outlook",
-      "https://www.bloomberg.com/news/articles/2024-05-29/salesforce-gives-weak-sales-outlook-with-slowdown-fears-growing"
+      "YouTube stops working for millions as war against ad blockers intensifies",
+      "https://www.independent.co.uk/tech/youtube-down-not-working-ad-blocker-b2552387.html"
+    ]
+  ],
+  [
+    [
+      "2024-05-30, 15:52:29",
+      "https://news.ycombinator.com/item?id=40525130"
+    ],
+    [
+      "Mystery malware destroys 600k routers from a single ISP during 72-hour span",
+      "https://blog.lumen.com/the-pumpkin-eclipse/"
+    ]
+  ],
+  [
+    [
+      "2024-05-30, 15:45:54",
+      "https://news.ycombinator.com/item?id=40525064"
+    ],
+    [
+      "Don't DRY Your Code Prematurely",
+      "https://testing.googleblog.com/2024/05/dont-dry-your-code-prematurely.html"
     ]
   ],
   [
@@ -21,12 +41,12 @@
   ],
   [
     [
-      "2024-05-30, 15:17:39",
-      "https://news.ycombinator.com/item?id=40524759"
+      "2024-05-30, 14:41:00",
+      "https://news.ycombinator.com/item?id=40524339"
     ],
     [
-      "Better RAG Results with Reciprocal Rank Fusion and Hybrid Search",
-      "https://www.assembled.com/blog/better-rag-results-with-reciprocal-rank-fusion-and-hybrid-search"
+      "The Social Lives of the Teens Who Don't Have Phones",
+      "https://www.thecut.com/article/phones-teens-screentime-restrictions-jonathan-haidt.html"
     ]
   ],
   [
@@ -51,22 +71,22 @@
   ],
   [
     [
-      "2024-05-30, 14:09:35",
-      "https://news.ycombinator.com/item?id=40523920"
-    ],
-    [
-      "Show HN: Quadra – organize your tasks and notes beautifully",
-      "https://quadra-two.vercel.app/"
-    ]
-  ],
-  [
-    [
       "2024-05-30, 13:53:57",
       "https://news.ycombinator.com/item?id=40523743"
     ],
     [
       "Stuck at sea for years, a sailor's plight highlights a surge in ship abandonment",
       "https://apnews.com/article/abandoned-seafarers-labor-unpaid-wages-oceans-83ad0a42debbaf67c18373393fcea753"
+    ]
+  ],
+  [
+    [
+      "2024-05-30, 13:30:45",
+      "https://news.ycombinator.com/item?id=40523510"
+    ],
+    [
+      "Panasonic apologizes after being caught using photo taken on Canon and Nikon kit",
+      "https://www.digitalcameraworld.com/news/black-eye-panasonic-caught-red-handed-using-a-nikon-photo-to-promote-multiple-cameras"
     ]
   ],
   [
@@ -97,6 +117,16 @@
     [
       "Show HN: I built a tiny-VPS friendly RSS aggregator and reader",
       "https://github.com/0x2E/fusion"
+    ]
+  ],
+  [
+    [
+      "2024-05-30, 10:25:11",
+      "https://news.ycombinator.com/item?id=40522071"
+    ],
+    [
+      "Geometry for Entertainment – Yakov Perelman (1950/2024)",
+      "https://archive.org/details/yakov-perelman-geometry-for-entertainment-mir-titles-2024"
     ]
   ],
   [
@@ -191,32 +221,12 @@
   ],
   [
     [
-      "2024-05-29, 21:25:48",
-      "https://news.ycombinator.com/item?id=40517204"
-    ],
-    [
-      "Bootstrapping a Forth in 40 lines of Lua code",
-      "http://angg.twu.net/miniforth-article.html"
-    ]
-  ],
-  [
-    [
       "2024-05-29, 21:01:36",
       "https://news.ycombinator.com/item?id=40516983"
     ],
     [
       "The Pen Hospital in Kolkata will nurse your broken fountain pen back",
       "https://www.vogue.in/content/pen-hospital-in-kolkata-will-nurse-your-broken-fountain-pen-back-to-health"
-    ]
-  ],
-  [
-    [
-      "2024-05-29, 21:00:09",
-      "https://news.ycombinator.com/item?id=40516963"
-    ],
-    [
-      "Tesorio (YC S15) Is Hiring – 100% Remote",
-      "https://www.tesorio.com/careers#job-openings"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Vector indexing all of Wikipedia on a laptop",
       "https://foojay.io/today/indexing-all-of-wikipedia-on-a-laptop/"
-    ]
-  ],
-  [
-    [
-      "2024-05-29, 14:42:50",
-      "https://news.ycombinator.com/item?id=40512500"
-    ],
-    [
-      "I sold TinyPilot, my first successful business",
-      "https://mtlynch.io/i-sold-tinypilot/"
     ]
   ],
   [
