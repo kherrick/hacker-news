@@ -22,7 +22,6 @@
 * [2024-05-29, 14:42:50](https://news.ycombinator.com/item?id=40512500) - [I sold TinyPilot, my first successful business](https://mtlynch.io/i-sold-tinypilot/)
 * [2024-05-29, 14:16:10](https://news.ycombinator.com/item?id=40512250) - [Codestral: Mistral's Code Model](https://mistral.ai/news/codestral/)
 * [2024-05-29, 12:38:16](https://news.ycombinator.com/item?id=40511307) - [Elixir and Machine Learning in 2024 so far: MLIR, Arrow, structured LLM, etc.](https://dashbit.co/blog/elixir-ml-s1-2024-mlir-arrow-instructor)
-* [2024-05-29, 11:14:44](https://news.ycombinator.com/item?id=40510668) - [Training is not the same as chatting: LLMs don’t remember everything you say](https://simonwillison.net/2024/May/29/training-not-chatting/)
 * [2024-05-29, 11:09:14](https://news.ycombinator.com/item?id=40510627) - [Ask HN: Can a website kill my internet connection? (WebRTC)](https://news.ycombinator.com/item?id=40510627)
 * [2024-05-29, 11:00:42](https://news.ycombinator.com/item?id=40510569) - [An even faster Microsoft Edge](https://blogs.windows.com/msedgedev/2024/05/28/an-even-faster-microsoft-edge/)
 * [2024-05-29, 09:13:47](https://news.ycombinator.com/item?id=40509987) - [DuckDB Doesn't Need Data to Be a Database](https://www.nikolasgoebel.com/2024/05/28/duckdb-doesnt-need-data.html)
@@ -30,6 +29,7 @@
 * [2024-05-29, 06:15:28](https://news.ycombinator.com/item?id=40509016) - [Starlink's disruption of the space industry](https://www.thespacereview.com/article/4801/1)
 * [2024-05-29, 05:14:02](https://news.ycombinator.com/item?id=40508705) - [First Bioprocessor Powered by Human Brain Organoids](https://www.tomshardware.com/pc-components/cpus/worlds-first-bioprocessor-uses-16-human-brain-organoids-for-a-million-times-less-power-consumption-than-a-digital-chip)
 * [2024-05-29, 04:42:06](https://news.ycombinator.com/item?id=40508540) - [Donating forks to the dining hall](https://1.coc0o44.preview.ben.page/forks)
+* [2024-05-29, 03:52:36](https://news.ycombinator.com/item?id=40508278) - [AI headphones let wearer listen to a single person in a crowd by looking at them](https://www.washington.edu/news/2024/05/23/ai-headphones-noise-cancelling-target-speech-hearing/)
 
 ## [Archives](archives/index.md)
 
