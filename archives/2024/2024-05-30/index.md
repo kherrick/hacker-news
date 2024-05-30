@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-30](index.md)
 
+* [2024-05-30, 21:45:40](https://news.ycombinator.com/item?id=40529064) - [ASK HN: The Required Fundamentals for Self-Taught Programming](https://news.ycombinator.com/item?id=40529064)
 * [2024-05-30, 21:16:36](https://news.ycombinator.com/item?id=40528811) - [Nov 2, 1920: Imprisoned Eugene V. Debs Received 1M Votes for US President](https://www.zinnedproject.org/news/tdih/debs-received-million-votes/)
 * [2024-05-30, 21:12:14](https://news.ycombinator.com/item?id=40528766) - [Is Target selling its excess inventory on eBay and Poshmark?](https://www.modernretail.co/technology/is-target-selling-its-excess-inventory-on-ebay-poshmark/)
 * [2024-05-30, 21:01:37](https://news.ycombinator.com/item?id=40528680) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
@@ -12,6 +13,7 @@
 * [2024-05-30, 20:17:28](https://news.ycombinator.com/item?id=40528117) - [I connected Windows XP to the Internet; it was fine](https://news.ycombinator.com/item?id=40528117)
 * [2024-05-30, 20:14:21](https://news.ycombinator.com/item?id=40528079) - [The United States Munitions List](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-M/part-121)
 * [2024-05-30, 19:52:25](https://news.ycombinator.com/item?id=40527904) - [Windows 11 disabled all ways to get around Auto Restarts. Is there a workaround?](https://superuser.com/questions/1843873/windows-11-seems-to-have-disabled-all-ways-to-get-around-auto-update-restarts-i)
+* [2024-05-30, 19:47:29](https://news.ycombinator.com/item?id=40527859) - [GCP error erases $135B pension fund](https://www.axios.com/2024/05/30/google-cloud-pension-error)
 * [2024-05-30, 19:43:03](https://news.ycombinator.com/item?id=40527814) - [2023 planetary heat uptake from termination shock of inadvertent geoengineering?](https://www.nature.com/articles/s43247-024-01442-3)
 * [2024-05-30, 19:42:45](https://news.ycombinator.com/item?id=40527811) - [Sotomayor writes 9-0 opinion supporting NRA in First Amendment case [pdf]](https://www.supremecourt.gov/opinions/23pdf/22-842_6kg7.pdf)
 * [2024-05-30, 19:33:53](https://news.ycombinator.com/item?id=40527743) - [New York governor to launch bill banning smartphones in schools](https://www.theguardian.com/us-news/article/2024/may/30/new-york-smartphone-school-ban-bill)
