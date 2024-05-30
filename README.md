@@ -2,6 +2,7 @@
 
 * [2024-05-30, 05:21:46](https://news.ycombinator.com/item?id=40520334) - [How Actors Remember Their Lines](https://thereader.mitpress.mit.edu/how-actors-remember-their-lines/)
 * [2024-05-30, 05:09:35](https://news.ycombinator.com/item?id=40520277) - [SVG Gobbler – Find, optimize, edit, and export SVGs](https://github.com/rossmoody/svg-gobbler)
+* [2024-05-30, 05:09:04](https://news.ycombinator.com/item?id=40520275) - [A seventh-grader student found a beautiful proof to Thales' Theorem](https://www.cut-the-knot.org/pythagoras/ThalesTheorem.shtml)
 * [2024-05-30, 04:24:46](https://news.ycombinator.com/item?id=40520051) - [Google Console closed testing requirements are awful](https://news.ycombinator.com/item?id=40520051)
 * [2024-05-30, 03:18:40](https://news.ycombinator.com/item?id=40519749) - [Show HN: Resource Index – FOSS Git Repository and NPM Package Index](https://res-index.hkit.cc/)
 * [2024-05-30, 03:10:32](https://news.ycombinator.com/item?id=40519722) - [FrankenPHP: Modern PHP App Server](https://frankenphp.dev/)
@@ -23,7 +24,6 @@
 * [2024-05-29, 14:16:10](https://news.ycombinator.com/item?id=40512250) - [Codestral: Mistral's Code Model](https://mistral.ai/news/codestral/)
 * [2024-05-29, 12:38:16](https://news.ycombinator.com/item?id=40511307) - [Elixir and Machine Learning in 2024 so far: MLIR, Arrow, structured LLM, etc.](https://dashbit.co/blog/elixir-ml-s1-2024-mlir-arrow-instructor)
 * [2024-05-29, 11:09:14](https://news.ycombinator.com/item?id=40510627) - [Ask HN: Can a website kill my internet connection? (WebRTC)](https://news.ycombinator.com/item?id=40510627)
-* [2024-05-29, 11:00:42](https://news.ycombinator.com/item?id=40510569) - [An even faster Microsoft Edge](https://blogs.windows.com/msedgedev/2024/05/28/an-even-faster-microsoft-edge/)
 * [2024-05-29, 09:13:47](https://news.ycombinator.com/item?id=40509987) - [DuckDB Doesn't Need Data to Be a Database](https://www.nikolasgoebel.com/2024/05/28/duckdb-doesnt-need-data.html)
 * [2024-05-29, 07:52:20](https://news.ycombinator.com/item?id=40509535) - [Fast Shadow Stacks for Go](https://blog.felixge.de/blazingly-fast-shadow-stacks-for-go/)
 * [2024-05-29, 06:34:02](https://news.ycombinator.com/item?id=40509123) - [Johnny Cash – Strawberry Cake](https://playingintheworldgame.com/2015/04/21/johnny-cash-strawberry-cake/)
