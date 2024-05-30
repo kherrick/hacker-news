@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-30](index.md)
 
+* [2024-05-30, 22:02:34](https://news.ycombinator.com/item?id=40529217) - [Microsoft Rolling Out New Windows Subsystem for Linux \"WSL\" Features for 2024](https://www.phoronix.com/news/Microsoft-WSL2-2024-Features)
 * [2024-05-30, 21:45:40](https://news.ycombinator.com/item?id=40529064) - [ASK HN: The Required Fundamentals for Self-Taught Programming](https://news.ycombinator.com/item?id=40529064)
 * [2024-05-30, 21:16:36](https://news.ycombinator.com/item?id=40528811) - [Nov 2, 1920: Imprisoned Eugene V. Debs Received 1M Votes for US President](https://www.zinnedproject.org/news/tdih/debs-received-million-votes/)
 * [2024-05-30, 21:16:17](https://news.ycombinator.com/item?id=40528808) - [Asqi: A codebase explorer designed to help navigate and understand Git projects](https://dev.asqi.io/)
