@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-30, 11:12:09](https://news.ycombinator.com/item?id=40522366) - [In Belgium Zelensky's plane are escorted by Ukrainian F-16](https://armyrecognition.com/news/aerospace-news/2024/in-belgium-zelenskys-plane-are-escorted-by-ukrainian-f-16)
+* [2024-05-30, 10:52:40](https://news.ycombinator.com/item?id=40522241) - [PyPy has been working for me for several years now](https://utcc.utoronto.ca/~cks/space/blog/python/PyPyQuietlyWorking)
 * [2024-05-30, 10:27:18](https://news.ycombinator.com/item?id=40522084) - [Infections Correlate with Entrepreneurship](https://www.researchgate.net/publication/326608642_Risky_business_Linking_Toxoplasma_gondii_infection_and_entrepreneurship_behaviours_across_individuals_and_countries)
 * [2024-05-30, 10:06:07](https://news.ycombinator.com/item?id=40521963) - [I love my wife. My wife is dead (1946)](https://lettersofnote.com/2012/02/15/i-love-my-wife-my-wife-is-dead/)
 * [2024-05-30, 09:28:33](https://news.ycombinator.com/item?id=40521710) - [Show HN: I made a pixel art editor for Windows desktop](https://www.lightcube.art/)
@@ -13,9 +15,7 @@
 * [2024-05-30, 03:10:32](https://news.ycombinator.com/item?id=40519722) - [FrankenPHP: Modern PHP App Server](https://frankenphp.dev/)
 * [2024-05-29, 21:25:48](https://news.ycombinator.com/item?id=40517204) - [Bootstrapping a Forth in 40 lines of Lua code](http://angg.twu.net/miniforth-article.html)
 * [2024-05-29, 21:01:36](https://news.ycombinator.com/item?id=40516983) - [The Pen Hospital in Kolkata will nurse your broken fountain pen back](https://www.vogue.in/content/pen-hospital-in-kolkata-will-nurse-your-broken-fountain-pen-back-to-health)
-* [2024-05-29, 21:00:09](https://news.ycombinator.com/item?id=40516963) - [Tesorio (YC S15) Is Hiring – 100% Remote](https://www.tesorio.com/careers#job-openings)
 * [2024-05-29, 20:19:56](https://news.ycombinator.com/item?id=40516532) - [How Waymo outlasted the competition and made robo-taxis a real business](https://fortune.com/2024/05/29/waymo-self-driving-robo-taxi-uber-tesla-alphabet/)
-* [2024-05-29, 20:17:29](https://news.ycombinator.com/item?id=40516499) - [Gov. Polis Signs Bill Mandating That Consumers Have Options to Fix Electronics](https://coloradotimesrecorder.com/2024/05/gov-polis-signs-bill-mandating-that-consumers-have-more-options-to-fix-electronics/62156/)
 * [2024-05-29, 19:33:12](https://news.ycombinator.com/item?id=40515957) - [New attention mechanisms that outperform standard multi-head attention](https://arxiv.org/abs/2403.01643)
 * [2024-05-29, 18:14:34](https://news.ycombinator.com/item?id=40514983) - [Google releases smart watch for kids](https://store.google.com/US/product/fitbit_ace_lte?hl=en-US)
 * [2024-05-29, 17:06:40](https://news.ycombinator.com/item?id=40514282) - [Kino: Pro Video Camera](https://www.lux.camera/introducing-kino-pro-video-camera/)

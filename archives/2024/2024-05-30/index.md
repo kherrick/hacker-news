@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-30](index.md)
 
+* [2024-05-30, 11:12:09](https://news.ycombinator.com/item?id=40522366) - [In Belgium Zelensky's plane are escorted by Ukrainian F-16](https://armyrecognition.com/news/aerospace-news/2024/in-belgium-zelenskys-plane-are-escorted-by-ukrainian-f-16)
+* [2024-05-30, 10:52:40](https://news.ycombinator.com/item?id=40522241) - [PyPy has been working for me for several years now](https://utcc.utoronto.ca/~cks/space/blog/python/PyPyQuietlyWorking)
 * [2024-05-30, 10:27:18](https://news.ycombinator.com/item?id=40522084) - [Infections Correlate with Entrepreneurship](https://www.researchgate.net/publication/326608642_Risky_business_Linking_Toxoplasma_gondii_infection_and_entrepreneurship_behaviours_across_individuals_and_countries)
 * [2024-05-30, 10:06:07](https://news.ycombinator.com/item?id=40521963) - [I love my wife. My wife is dead (1946)](https://lettersofnote.com/2012/02/15/i-love-my-wife-my-wife-is-dead/)
 * [2024-05-30, 09:28:33](https://news.ycombinator.com/item?id=40521710) - [Show HN: I made a pixel art editor for Windows desktop](https://www.lightcube.art/)
