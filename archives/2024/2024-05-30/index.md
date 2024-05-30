@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-30](index.md)
 
+* [2024-05-30, 19:42:45](https://news.ycombinator.com/item?id=40527811) - [Sotomayor writes 9-0 opinion supporting NRA in First Amendment case [pdf]](https://www.supremecourt.gov/opinions/23pdf/22-842_6kg7.pdf)
+* [2024-05-30, 19:32:05](https://news.ycombinator.com/item?id=40527730) - [What We're Working on in Firefox](https://blog.mozilla.org/en/mozilla/heres-what-were-working-on-in-firefox/)
 * [2024-05-30, 18:54:25](https://news.ycombinator.com/item?id=40527353) - [We Stopped Using Signal Messenger](https://decodetheworld.substack.com/p/why-we-stopped-using-signal-messenger)
 * [2024-05-30, 18:52:30](https://news.ycombinator.com/item?id=40527336) - [Groq surpasses 1,200 tokens/sec with Llama 3 8B](https://twitter.com/sundeep/status/1795964992367235186)
 * [2024-05-30, 18:43:11](https://news.ycombinator.com/item?id=40527239) - [How to Train a Million Context LLM](https://www.latent.space/p/gradient)
