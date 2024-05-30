@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-30, 13:23:40](https://news.ycombinator.com/item?id=40523411) - [Raivo OTP just deleted all tokens after update and is now asking for money](https://github.com/raivo-otp/ios-application/issues)
 * [2024-05-30, 12:34:38](https://news.ycombinator.com/item?id=40522936) - [EU doubles down on penalising privacy-friendly and encrypted messaging services](https://www.patrick-breyer.de/en/leak-eu-governments-double-down-on-penalising-privacy-friendly-and-encrypted-messaging-services-with-chat-control-bulk-scanning-orders/)
 * [2024-05-30, 12:22:35](https://news.ycombinator.com/item?id=40522844) - [Show HN: ChatGPT UI for Rabbit Holes](https://delve.a9.io/)
 * [2024-05-30, 11:44:48](https://news.ycombinator.com/item?id=40522577) - [SBCL: New in Version 2.4.5](http://sbcl.org/all-news.html?2.4.5#2.4.5)
@@ -23,7 +24,6 @@
 * [2024-05-29, 19:33:12](https://news.ycombinator.com/item?id=40515957) - [New attention mechanisms that outperform standard multi-head attention](https://arxiv.org/abs/2403.01643)
 * [2024-05-29, 17:06:40](https://news.ycombinator.com/item?id=40514282) - [Kino: Pro Video Camera](https://www.lux.camera/introducing-kino-pro-video-camera/)
 * [2024-05-29, 17:05:29](https://news.ycombinator.com/item?id=40514266) - [Vector indexing all of Wikipedia on a laptop](https://foojay.io/today/indexing-all-of-wikipedia-on-a-laptop/)
-* [2024-05-29, 16:28:39](https://news.ycombinator.com/item?id=40513775) - [IBDNS: Intentionally Broken DNS server](https://www.afnic.fr/en/observatory-and-resources/news/afnic-launches-ibdns-the-intentionally-broken-dns-server/)
 * [2024-05-29, 11:38:05](https://news.ycombinator.com/item?id=40510822) - [How Running a Business Changes the Way You Think (2011)](https://www.kalzumeus.com/2011/07/08/business-psychology/)
 * [2024-05-29, 10:47:03](https://news.ycombinator.com/item?id=40510503) - [Ultrasonic Coffee](https://www.theguardian.com/food/article/2024/may/29/ultrasonic-coffee-australia-scientists-unsw)
 * [2024-05-29, 09:13:47](https://news.ycombinator.com/item?id=40509987) - [DuckDB Doesn't Need Data to Be a Database](https://www.nikolasgoebel.com/2024/05/28/duckdb-doesnt-need-data.html)
