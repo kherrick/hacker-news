@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-30, 18:54:25](https://news.ycombinator.com/item?id=40527353) - [We Stopped Using Signal Messenger](https://decodetheworld.substack.com/p/why-we-stopped-using-signal-messenger)
 * [2024-05-30, 18:52:30](https://news.ycombinator.com/item?id=40527336) - [Groq surpasses 1,200 tokens/sec with Llama 3 8B](https://twitter.com/sundeep/status/1795964992367235186)
+* [2024-05-30, 18:43:11](https://news.ycombinator.com/item?id=40527239) - [How to Train a Million Context LLM](https://www.latent.space/p/gradient)
 * [2024-05-30, 17:40:16](https://news.ycombinator.com/item?id=40526488) - [James Webb Space Telescope Finds Most Distant Known Galaxy](https://blogs.nasa.gov/webb/2024/05/30/nasas-james-webb-space-telescope-finds-most-distant-known-galaxy/)
 * [2024-05-30, 17:06:26](https://news.ycombinator.com/item?id=40526068) - [Disrupting deceptive uses of AI by covert influence operations](https://openai.com/index/disrupting-deceptive-uses-of-AI-by-covert-influence-operations/)
 * [2024-05-30, 16:46:17](https://news.ycombinator.com/item?id=40525802) - [Unexpected Anti-Patterns for Engineering Leaders](https://review.firstround.com/unexpected-anti-patterns-for-engineering-leaders-lessons-from-stripe-uber-carta/)
