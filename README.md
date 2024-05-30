@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-30, 21:16:36](https://news.ycombinator.com/item?id=40528811) - [Nov 2, 1920: Imprisoned Eugene V. Debs Received 1M Votes for US President](https://www.zinnedproject.org/news/tdih/debs-received-million-votes/)
 * [2024-05-30, 21:01:37](https://news.ycombinator.com/item?id=40528680) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
-* [2024-05-30, 20:39:49](https://news.ycombinator.com/item?id=40528410) - [A crazy experience losing Apple earbuds in a remote town in Chile](https://twitter.com/joshwhiton/status/1796222090216886682)
 * [2024-05-30, 19:43:03](https://news.ycombinator.com/item?id=40527814) - [2023 planetary heat uptake from termination shock of inadvertent geoengineering?](https://www.nature.com/articles/s43247-024-01442-3)
 * [2024-05-30, 19:32:05](https://news.ycombinator.com/item?id=40527730) - [What We're Working on in Firefox](https://blog.mozilla.org/en/mozilla/heres-what-were-working-on-in-firefox/)
 * [2024-05-30, 18:43:32](https://news.ycombinator.com/item?id=40527242) - ['Smart' antibiotic can kill deadly bacteria while sparing the microbiome](https://www.nature.com/articles/d41586-024-01566-8)
