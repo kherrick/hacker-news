@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-30, 13:53:57](https://news.ycombinator.com/item?id=40523743) - [Stuck at sea for years, a sailor's plight highlights a surge in ship abandonment](https://apnews.com/article/abandoned-seafarers-labor-unpaid-wages-oceans-83ad0a42debbaf67c18373393fcea753)
 * [2024-05-30, 13:23:40](https://news.ycombinator.com/item?id=40523411) - [Raivo OTP just deleted all tokens after update and is now asking for money](https://github.com/raivo-otp/ios-application/issues)
 * [2024-05-30, 12:34:38](https://news.ycombinator.com/item?id=40522936) - [EU doubles down on penalising privacy-friendly and encrypted messaging services](https://www.patrick-breyer.de/en/leak-eu-governments-double-down-on-penalising-privacy-friendly-and-encrypted-messaging-services-with-chat-control-bulk-scanning-orders/)
 * [2024-05-30, 12:22:35](https://news.ycombinator.com/item?id=40522844) - [Show HN: ChatGPT UI for Rabbit Holes](https://delve.a9.io/)
@@ -8,7 +9,6 @@
 * [2024-05-30, 10:53:09](https://news.ycombinator.com/item?id=40522244) - [Show HN: I built a tiny-VPS friendly RSS aggregator and reader](https://github.com/0x2E/fusion)
 * [2024-05-30, 10:52:40](https://news.ycombinator.com/item?id=40522241) - [PyPy has been working for me for several years now](https://utcc.utoronto.ca/~cks/space/blog/python/PyPyQuietlyWorking)
 * [2024-05-30, 10:27:18](https://news.ycombinator.com/item?id=40522084) - [Infections Correlate with Entrepreneurship](https://www.researchgate.net/publication/326608642_Risky_business_Linking_Toxoplasma_gondii_infection_and_entrepreneurship_behaviours_across_individuals_and_countries)
-* [2024-05-30, 10:06:07](https://news.ycombinator.com/item?id=40521963) - [I love my wife. My wife is dead (1946)](https://lettersofnote.com/2012/02/15/i-love-my-wife-my-wife-is-dead/)
 * [2024-05-30, 09:28:33](https://news.ycombinator.com/item?id=40521710) - [Show HN: I made a pixel art editor for Windows desktop](https://www.lightcube.art/)
 * [2024-05-30, 09:19:25](https://news.ycombinator.com/item?id=40521657) - [I got tired of hearing that YC fired Sam, so here's what actually happened](https://twitter.com/paulg/status/1796107666265108940)
 * [2024-05-30, 09:02:29](https://news.ycombinator.com/item?id=40521585) - [(Logic) Prolog, Erlang, Elixir a side-by-side reference sheet](https://hyperpolyglot.org/logic)
