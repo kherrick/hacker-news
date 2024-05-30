@@ -1,12 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-30, 05:09:35](https://news.ycombinator.com/item?id=40520277) - [SVG Gobbler – Find, optimize, edit, and export SVGs](https://github.com/rossmoody/svg-gobbler)
+* [2024-05-30, 04:36:08](https://news.ycombinator.com/item?id=40520113) - [Ticketmaster Hack: Data of Half a Billion Users Up for Ransom](https://www.ticketnews.com/2024/05/ticketmaster-hack-data-of-half-a-billion-users-up-for-ransom/)
 * [2024-05-30, 04:24:46](https://news.ycombinator.com/item?id=40520051) - [Google Console closed testing requirements are awful](https://news.ycombinator.com/item?id=40520051)
 * [2024-05-30, 03:18:40](https://news.ycombinator.com/item?id=40519749) - [Show HN: Resource Index – FOSS Git Repository and NPM Package Index](https://res-index.hkit.cc/)
 * [2024-05-30, 03:10:32](https://news.ycombinator.com/item?id=40519722) - [FrankenPHP: Modern PHP App Server](https://frankenphp.dev/)
 * [2024-05-30, 02:11:37](https://news.ycombinator.com/item?id=40519433) - [Show HN: Right-click and save content directly to Google Sheets](https://www.addtosheets.com/)
 * [2024-05-30, 00:39:19](https://news.ycombinator.com/item?id=40518849) - [\"My Bike Is Everything to Me\"](https://kottke.org/24/05/my-bike-is-everything-to-me)
 * [2024-05-29, 23:10:24](https://news.ycombinator.com/item?id=40518203) - [Kaplay – a JavaScript library that helps you make games fast and fun](https://kaplayjs.com/kaplayjs.com)
-* [2024-05-29, 22:50:58](https://news.ycombinator.com/item?id=40518016) - [Google confirms the leaked Search documents are real](https://www.theverge.com/2024/5/29/24167407/google-search-algorithm-documents-leak-confirmation)
 * [2024-05-29, 21:25:48](https://news.ycombinator.com/item?id=40517204) - [Bootstrapping a Forth in 40 lines of Lua code](http://angg.twu.net/miniforth-article.html)
 * [2024-05-29, 21:01:36](https://news.ycombinator.com/item?id=40516983) - [The Pen Hospital in Kolkata will nurse your broken fountain pen back](https://www.vogue.in/content/pen-hospital-in-kolkata-will-nurse-your-broken-fountain-pen-back-to-health)
 * [2024-05-29, 21:00:09](https://news.ycombinator.com/item?id=40516963) - [Tesorio (YC S15) Is Hiring – 100% Remote](https://www.tesorio.com/careers#job-openings)
@@ -29,7 +30,6 @@
 * [2024-05-29, 06:15:28](https://news.ycombinator.com/item?id=40509016) - [Starlink's disruption of the space industry](https://www.thespacereview.com/article/4801/1)
 * [2024-05-29, 05:14:02](https://news.ycombinator.com/item?id=40508705) - [First Bioprocessor Powered by Human Brain Organoids](https://www.tomshardware.com/pc-components/cpus/worlds-first-bioprocessor-uses-16-human-brain-organoids-for-a-million-times-less-power-consumption-than-a-digital-chip)
 * [2024-05-29, 04:42:06](https://news.ycombinator.com/item?id=40508540) - [Donating forks to the dining hall](https://1.coc0o44.preview.ben.page/forks)
-* [2024-05-29, 03:52:36](https://news.ycombinator.com/item?id=40508278) - [AI headphones let wearer listen to a single person in a crowd by looking at them](https://www.washington.edu/news/2024/05/23/ai-headphones-noise-cancelling-target-speech-hearing/)
 
 ## [Archives](archives/index.md)
 
