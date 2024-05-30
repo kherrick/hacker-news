@@ -1,9 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-30, 20:14:21](https://news.ycombinator.com/item?id=40528079) - [The United States Munitions List](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-M/part-121)
 * [2024-05-30, 19:52:25](https://news.ycombinator.com/item?id=40527904) - [Windows 11 disabled all ways to get around Auto Restarts. Is there a workaround?](https://superuser.com/questions/1843873/windows-11-seems-to-have-disabled-all-ways-to-get-around-auto-update-restarts-i)
 * [2024-05-30, 19:43:03](https://news.ycombinator.com/item?id=40527814) - [2023 planetary heat uptake from termination shock of inadvertent geoengineering?](https://www.nature.com/articles/s43247-024-01442-3)
-* [2024-05-30, 19:42:45](https://news.ycombinator.com/item?id=40527811) - [Sotomayor writes 9-0 opinion supporting NRA in First Amendment case [pdf]](https://www.supremecourt.gov/opinions/23pdf/22-842_6kg7.pdf)
 * [2024-05-30, 19:33:53](https://news.ycombinator.com/item?id=40527743) - [New York governor to launch bill banning smartphones in schools](https://www.theguardian.com/us-news/article/2024/may/30/new-york-smartphone-school-ban-bill)
 * [2024-05-30, 19:32:05](https://news.ycombinator.com/item?id=40527730) - [What We're Working on in Firefox](https://blog.mozilla.org/en/mozilla/heres-what-were-working-on-in-firefox/)
 * [2024-05-30, 17:40:16](https://news.ycombinator.com/item?id=40526488) - [James Webb Space Telescope Finds Most Distant Known Galaxy](https://blogs.nasa.gov/webb/2024/05/30/nasas-james-webb-space-telescope-finds-most-distant-known-galaxy/)
@@ -28,8 +26,10 @@
 * [2024-05-30, 07:26:25](https://news.ycombinator.com/item?id=40521076) - [Meaningful Nonsense: How I generate sentences](https://www.amygoodchild.com/blog/meaningful-nonsense-sentences)
 * [2024-05-30, 05:21:46](https://news.ycombinator.com/item?id=40520334) - [How actors remember their lines](https://thereader.mitpress.mit.edu/how-actors-remember-their-lines/)
 * [2024-05-30, 05:09:35](https://news.ycombinator.com/item?id=40520277) - [SVG Gobbler – Find, optimize, edit, and export SVGs](https://github.com/rossmoody/svg-gobbler)
+* [2024-05-29, 17:06:40](https://news.ycombinator.com/item?id=40514282) - [Kino: Pro Video Camera](https://www.lux.camera/introducing-kino-pro-video-camera/)
 * [2024-05-29, 11:38:05](https://news.ycombinator.com/item?id=40510822) - [How Running a Business Changes the Way You Think (2011)](https://www.kalzumeus.com/2011/07/08/business-psychology/)
 * [2024-05-29, 07:52:20](https://news.ycombinator.com/item?id=40509535) - [Fast Shadow Stacks for Go](https://blog.felixge.de/blazingly-fast-shadow-stacks-for-go/)
+* [2024-05-29, 04:42:06](https://news.ycombinator.com/item?id=40508540) - [Donating forks to the dining hall](https://1.coc0o44.preview.ben.page/forks)
 
 ## [Archives](archives/index.md)
 
