@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-30, 03:10:32](https://news.ycombinator.com/item?id=40519722) - [FrankenPHP: The Modern PHP App Server](https://frankenphp.dev/)
 * [2024-05-30, 02:07:28](https://news.ycombinator.com/item?id=40519410) - [A Devil's Bargain with OpenAI](https://www.theatlantic.com/technology/archive/2024/05/a-devils-bargain-with-openai/678537/)
 * [2024-05-30, 00:39:19](https://news.ycombinator.com/item?id=40518849) - [\"My Bike Is Everything to Me\"](https://kottke.org/24/05/my-bike-is-everything-to-me)
 * [2024-05-29, 23:10:24](https://news.ycombinator.com/item?id=40518203) - [Kaplay – a JavaScript library that helps you make games fast and fun](https://kaplayjs.com/kaplayjs.com)
@@ -22,7 +23,6 @@
 * [2024-05-29, 14:16:10](https://news.ycombinator.com/item?id=40512250) - [Codestral: Mistral's Code Model](https://mistral.ai/news/codestral/)
 * [2024-05-29, 12:38:16](https://news.ycombinator.com/item?id=40511307) - [Elixir and Machine Learning in 2024 so far: MLIR, Arrow, structured LLM, etc.](https://dashbit.co/blog/elixir-ml-s1-2024-mlir-arrow-instructor)
 * [2024-05-29, 11:14:44](https://news.ycombinator.com/item?id=40510668) - [Training is not the same as chatting: LLMs don’t remember everything you say](https://simonwillison.net/2024/May/29/training-not-chatting/)
-* [2024-05-29, 10:41:27](https://news.ycombinator.com/item?id=40510468) - [Three.js Shading Language](https://github.com/mrdoob/three.js/wiki/Three.js-Shading-Language)
 * [2024-05-29, 09:50:41](https://news.ycombinator.com/item?id=40510195) - [Qlock – A JavaScript Quine Clock](http://aem1k.com/qlock/)
 * [2024-05-29, 09:13:47](https://news.ycombinator.com/item?id=40509987) - [DuckDB Doesn't Need Data to Be a Database](https://www.nikolasgoebel.com/2024/05/28/duckdb-doesnt-need-data.html)
 * [2024-05-29, 06:34:02](https://news.ycombinator.com/item?id=40509123) - [Johnny Cash – Strawberry Cake](https://playingintheworldgame.com/2015/04/21/johnny-cash-strawberry-cake/)
