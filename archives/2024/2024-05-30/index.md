@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-05-30](index.md)
 
+* [2024-05-30, 18:12:52](https://news.ycombinator.com/item?id=40526897) - [GitHub Copilot Re-Enables Itself After Being Disabled](https://github.com/microsoft/vscode-copilot-release/issues/1248)
+* [2024-05-30, 17:57:56](https://news.ycombinator.com/item?id=40526695) - [AI Is a False God](https://thewalrus.ca/ai-hype/)
 * [2024-05-30, 17:41:52](https://news.ycombinator.com/item?id=40526500) - [Why Nvidia stock isn't in a bubble](https://finance.yahoo.com/news/why-nvidia-stock-isnt-in-a-massive-bubble-123032943.html)
+* [2024-05-30, 17:17:29](https://news.ycombinator.com/item?id=40526225) - [IRS Plans to Make Free Tax Filing Permanent](https://www.cnn.com/2024/05/30/politics/irs-direct-file-free/index.html)
 * [2024-05-30, 17:06:31](https://news.ycombinator.com/item?id=40526070) - [Hacker Releases Jailbroken \"Godmode\" Version of ChatGPT](https://futurism.com/hackers-jailbroken-chatgpt-godmode)
 * [2024-05-30, 17:06:26](https://news.ycombinator.com/item?id=40526068) - [Disrupting deceptive uses of AI by covert influence operations](https://openai.com/index/disrupting-deceptive-uses-of-AI-by-covert-influence-operations/)
 * [2024-05-30, 16:50:57](https://news.ycombinator.com/item?id=40525863) - [Disturbing and misleading efforts to defame Helen Toner through misdirection](https://garymarcus.substack.com/p/disturbing-and-misleading-efforts)
+* [2024-05-30, 16:46:17](https://news.ycombinator.com/item?id=40525802) - [Unexpected Anti-Patterns for Engineering Leaders](https://review.firstround.com/unexpected-anti-patterns-for-engineering-leaders-lessons-from-stripe-uber-carta/)
 * [2024-05-30, 16:44:58](https://news.ycombinator.com/item?id=40525788) - [Ask HN: Why are all major operating systems monolithic?](https://news.ycombinator.com/item?id=40525788)
 * [2024-05-30, 16:31:08](https://news.ycombinator.com/item?id=40525629) - [Can large language models reason?](https://www.arnaldur.be/writing/about/large-language-model-reasoning)
 * [2024-05-30, 16:17:23](https://news.ycombinator.com/item?id=40525441) - [Google Search SEO document leak reveals how company curates internet](https://gizmodo.com/google-search-seo-leak-reveal-gatekeeps-internet-1851508410)

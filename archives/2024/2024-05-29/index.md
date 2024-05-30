@@ -8,6 +8,7 @@
 * [2024-05-29, 23:10:24](https://news.ycombinator.com/item?id=40518203) - [Kaplay – a JavaScript library that helps you make games fast and fun](https://kaplayjs.com/kaplayjs.com)
 * [2024-05-29, 22:50:58](https://news.ycombinator.com/item?id=40518016) - [Google confirms the leaked Search documents are real](https://www.theverge.com/2024/5/29/24167407/google-search-algorithm-documents-leak-confirmation)
 * [2024-05-29, 22:04:24](https://news.ycombinator.com/item?id=40517576) - [Caddy 2.8](https://github.com/caddyserver/caddy/releases/tag/v2.8.0)
+* [2024-05-29, 21:44:22](https://news.ycombinator.com/item?id=40517401) - [LLMs Have Favorites Numbers](https://gramener.com/llmrandom/)
 * [2024-05-29, 21:30:44](https://news.ycombinator.com/item?id=40517254) - [The hail in Texas was so big Tuesday that it required a new description](https://www.washingtonpost.com/weather/2024/05/29/texas-hail-dvd-size-record-nwws/)
 * [2024-05-29, 21:25:48](https://news.ycombinator.com/item?id=40517204) - [Bootstrapping a Forth in 40 lines of Lua code](http://angg.twu.net/miniforth-article.html)
 * [2024-05-29, 21:01:36](https://news.ycombinator.com/item?id=40516983) - [The Pen Hospital in Kolkata will nurse your broken fountain pen back](https://www.vogue.in/content/pen-hospital-in-kolkata-will-nurse-your-broken-fountain-pen-back-to-health)
