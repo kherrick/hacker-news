@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-30](index.md)
 
+* [2024-05-30, 14:17:52](https://news.ycombinator.com/item?id=40524031) - [All ChatGPT Free users can now use browse,vision,data analysis,file uploads,GPTs](https://twitter.com/OpenAI/status/1795900306490044479)
+* [2024-05-30, 14:09:35](https://news.ycombinator.com/item?id=40523920) - [Show HN: Quadra – organize your tasks and notes beautifully](https://quadra-two.vercel.app/)
 * [2024-05-30, 13:53:57](https://news.ycombinator.com/item?id=40523743) - [Stuck at sea for years, a sailor's plight highlights a surge in ship abandonment](https://apnews.com/article/abandoned-seafarers-labor-unpaid-wages-oceans-83ad0a42debbaf67c18373393fcea753)
 * [2024-05-30, 13:23:40](https://news.ycombinator.com/item?id=40523411) - [Raivo OTP just deleted all tokens after update and is now asking for money](https://github.com/raivo-otp/ios-application/issues)
 * [2024-05-30, 12:50:37](https://news.ycombinator.com/item?id=40523047) - [How I run a software book club](https://notes.eatonphil.com/2025-05-30-how-i-run-book-clubs.html)
