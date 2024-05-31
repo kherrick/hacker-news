@@ -29,7 +29,7 @@
 * [2024-05-30, 12:34:58](https://news.ycombinator.com/item?id=40522939) - [Armor from Mycenaean Greece turns out to have been effective](https://arstechnica.com/science/2024/05/researchers-get-modern-marines-to-test-ancient-greek-armor/)
 * [2024-05-30, 10:51:55](https://news.ycombinator.com/item?id=40522232) - [\"Moveable Type\" to end 17-year run in The New York Times's lobby](https://www.nytco.com/press/moveable-type-to-end-17-year-run-in-the-new-york-timess-lobby/)
 * [2024-05-30, 01:16:47](https://news.ycombinator.com/item?id=40519095) - [Testing a 1912-style Radio [video]](https://www.youtube.com/watch?v=U6ZVqr0fPo4)
-* [2024-05-29, 23:50:24](https://news.ycombinator.com/item?id=40518516) - [Spots, stripes and more: Working out the logic of animal patterns](https://knowablemagazine.org/content/article/living-world/2024/animal-patterns-spots-stripes-explained-turing-mechanism)
+* [2024-05-29, 16:49:04](https://news.ycombinator.com/item?id=40514033) - [Why Linux developers do not fix reported issues or ignore bug reports](https://linux-regtracking.leemhuis.info/post/frequent-reasons-why-linux-kernel-bug-reports-are-ignored/)
 
 ## [Archives](archives/index.md)
 
