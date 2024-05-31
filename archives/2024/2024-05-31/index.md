@@ -14,6 +14,7 @@
 * [2024-05-31, 16:51:50](https://news.ycombinator.com/item?id=40537398) - [Testing Sync at Dropbox](https://dropbox.tech/infrastructure/-testing-our-new-sync-engine)
 * [2024-05-31, 16:45:02](https://news.ycombinator.com/item?id=40537311) - [Sam Altman-Backed Nuclear Startup Signs Major Data Center Contract](https://oilprice.com/Alternative-Energy/Nuclear-Power/Sam-Altman-Backed-Nuclear-Startup-Signs-Major-Data-Center-Contract.html)
 * [2024-05-31, 16:34:06](https://news.ycombinator.com/item?id=40537187) - [Eye exercises for myopia prevention and control: comprehensive systematic review](https://www.nature.com/articles/s41433-023-02739-x)
+* [2024-05-31, 16:29:26](https://news.ycombinator.com/item?id=40537134) - [Small Modular Reactors: Still Too Expensive, Too Slow, and Too Risky [pdf]](https://apo.org.au/sites/default/files/resource-files/2024-05/apo-nid326992.pdf)
 * [2024-05-31, 16:21:45](https://news.ycombinator.com/item?id=40537026) - [Trial results for new lung cancer drug are 'off the charts'](https://www.theguardian.com/society/article/2024/may/31/trial-results-for-new-lung-cancer-drug-are-off-the-charts-say-doctors)
 * [2024-05-31, 16:16:15](https://news.ycombinator.com/item?id=40536960) - [Vista Equity writes off PluralSight value, after $3.5B buyout](https://www.axios.com/2024/05/31/vista-equity-pluralsight)
 * [2024-05-31, 16:07:24](https://news.ycombinator.com/item?id=40536860) - [Man scammed after AI told him fake Facebook customer support number was real](https://www.cbc.ca/news/canada/manitoba/facebook-customer-support-scam-1.7219581)
