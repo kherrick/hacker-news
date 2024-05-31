@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-31](index.md)
 
+* [2024-05-31, 06:14:46](https://news.ycombinator.com/item?id=40532022) - [Russia's persecution of faith in Ukraine called 'cultural genocide' campaign](https://www.archstl.org/russias-persecution-of-faith-in-ukraine-called-cultural-genocide-campaign-8586)
 * [2024-05-31, 06:08:50](https://news.ycombinator.com/item?id=40531986) - ['WebAssembly Is Finally Usable, Almost'](https://www.forbes.com/sites/justinwarren/2024/04/04/webassembly-is-finally-usable-almost/)
 * [2024-05-31, 06:08:26](https://news.ycombinator.com/item?id=40531984) - [A man ordered to hide his boat painted the boat on his fence](https://news.artnet.com/art-world/fence-boat-painting-artist-hanif-panni-2487875)
 * [2024-05-31, 05:32:51](https://news.ycombinator.com/item?id=40531820) - [Taste the Plastic: How Coca Cola Is Poisoning the Planet for Profit [video]](https://www.youtube.com/watch?v=pumjYvHX4Wc)
