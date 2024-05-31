@@ -7,6 +7,7 @@
 * [2024-05-31, 10:01:03](https://news.ycombinator.com/item?id=40533158) - [Deno 1.44](https://deno.com/blog/v1.44)
 * [2024-05-31, 09:18:52](https://news.ycombinator.com/item?id=40532917) - [Maybe This Is Too Cool](https://radarblog.substack.com/p/maybe-this-is-too-cool)
 * [2024-05-31, 08:57:59](https://news.ycombinator.com/item?id=40532806) - [Google scales back AI search answers after it told users to eat glue](https://www.washingtonpost.com/technology/2024/05/30/google-halt-ai-search/)
+* [2024-05-31, 08:03:04](https://news.ycombinator.com/item?id=40532515) - [Orion – From idea to launch in 45 days](https://www.lux.camera/orion-from-idea-to-launch-in-45-days/)
 * [2024-05-31, 07:31:06](https://news.ycombinator.com/item?id=40532365) - [Manifest V2 phase-out begins](https://blog.chromium.org/2024/05/manifest-v2-phase-out-begins.html)
 * [2024-05-31, 07:21:27](https://news.ycombinator.com/item?id=40532314) - [EU countries must implement right to repair laws within two years](https://www.consilium.europa.eu/en/press/press-releases/2024/05/30/circular-economy-council-gives-final-approval-to-right-to-repair-directive/)
 * [2024-05-31, 07:00:57](https://news.ycombinator.com/item?id=40532211) - [Russians may deploy their reserves to one more direction in Kharkiv Oblast](https://gwaramedia.com/en/official-russians-may-deploy-their-reserves-to-zolochiv-direction/)
