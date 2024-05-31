@@ -99,6 +99,7 @@
 * [2024-05-30, 04:36:08](https://news.ycombinator.com/item?id=40520113) - [Ticketmaster Hack: Data of Half a Billion Users Up for Ransom](https://www.ticketnews.com/2024/05/ticketmaster-hack-data-of-half-a-billion-users-up-for-ransom/)
 * [2024-05-30, 04:24:46](https://news.ycombinator.com/item?id=40520051) - [Google Console closed testing requirements are awful](https://news.ycombinator.com/item?id=40520051)
 * [2024-05-30, 03:35:09](https://news.ycombinator.com/item?id=40519826) - [Amazon Prime Members Get Free Grubhub+ for a Year](https://lp.grubhub.com/partner/grubhub-amazon-prime/)
+* [2024-05-30, 03:28:39](https://news.ycombinator.com/item?id=40519797) - [Surviving History: The Fever (2014)](http://theappendix.net/special/the-fever/)
 * [2024-05-30, 03:18:40](https://news.ycombinator.com/item?id=40519749) - [Show HN: Resource Index – FOSS Git Repository and NPM Package Index](https://res-index.hkit.cc/)
 * [2024-05-30, 03:10:32](https://news.ycombinator.com/item?id=40519722) - [FrankenPHP: The Modern PHP App Server](https://frankenphp.dev/)
 * [2024-05-30, 02:11:37](https://news.ycombinator.com/item?id=40519433) - [Show HN: Right-click and save content directly to Google Sheets](https://www.addtosheets.com/)
