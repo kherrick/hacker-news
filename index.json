@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-05-31, 18:02:31",
-      "https://news.ycombinator.com/item?id=40538375"
-    ],
-    [
-      "The Case Against Gmail (2020)",
-      "https://www.migadu.com/blog/gmail/"
-    ]
-  ],
-  [
-    [
       "2024-05-31, 17:36:04",
       "https://news.ycombinator.com/item?id=40538019"
     ],
@@ -207,6 +197,16 @@
     [
       "Superconducting Computer: Imec's plan to shrink datacenters",
       "https://spectrum.ieee.org/superconducting-computer"
+    ]
+  ],
+  [
+    [
+      "2024-05-31, 03:19:51",
+      "https://news.ycombinator.com/item?id=40531165"
+    ],
+    [
+      "YOLOv5 on FPGA with Hailo-8 and 4 Pi Cameras",
+      "https://www.fpgadeveloper.com/multi-camera-yolov5-on-zynq-ultrascale-with-hailo-8-ai-acceleration/"
     ]
   ],
   [
