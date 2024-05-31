@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-05-31](index.md)
 
+* [2024-05-31, 11:43:47](https://news.ycombinator.com/item?id=40533817) - [ChatGPT Edu](https://openai.com/index/introducing-chatgpt-edu/)
 * [2024-05-31, 11:37:29](https://news.ycombinator.com/item?id=40533761) - [Intel's Anti-Upgrade Tricks Defeated with Kapton Tape](https://hackaday.com/2024/05/31/intels-anti-upgrade-tricks-defeated-with-kapton-tape/)
 * [2024-05-31, 11:28:23](https://news.ycombinator.com/item?id=40533696) - [Yemen strikes USS Eisenhower with missiles in response to bombings](https://www.reuters.com/world/middle-east/yemens-houthis-say-they-launched-missile-attack-us-aircraft-carrier-eisenhower-2024-05-31/)
 * [2024-05-31, 11:18:51](https://news.ycombinator.com/item?id=40533622) - [25 Years of Krita](https://krita.org/en/posts/2024/krita-25-years/)
+* [2024-05-31, 11:00:11](https://news.ycombinator.com/item?id=40533484) - [Stop Using Discord](https://malenfant.net/@didier/112528487189999791)
 * [2024-05-31, 10:45:29](https://news.ycombinator.com/item?id=40533396) - [Apple Silicon MacBook batteries can't be replaced under warranty by third party](https://lapcatsoftware.com/articles/2024/5/7.html)
 * [2024-05-31, 10:11:14](https://news.ycombinator.com/item?id=40533208) - [FatFIRE](https://old.reddit.com/r/fatFIRE/)
 * [2024-05-31, 10:08:08](https://news.ycombinator.com/item?id=40533191) - [Firefly forges on after co-founder murdered by Hamas](https://techcrunch.com/2024/05/29/after-co-founders-murder-at-the-hands-of-hamas-cloud-startup-firefly-raises-23m/)
@@ -14,6 +16,7 @@
 * [2024-05-31, 09:18:52](https://news.ycombinator.com/item?id=40532917) - [Maybe This Is Too Cool](https://radarblog.substack.com/p/maybe-this-is-too-cool)
 * [2024-05-31, 09:10:18](https://news.ycombinator.com/item?id=40532869) - [I created the largest curated directory of cybersecurity tools and resources](https://cybersectools.com)
 * [2024-05-31, 08:57:59](https://news.ycombinator.com/item?id=40532806) - [Google scales back AI search answers after it told users to eat glue](https://www.washingtonpost.com/technology/2024/05/30/google-halt-ai-search/)
+* [2024-05-31, 08:51:16](https://news.ycombinator.com/item?id=40532771) - [Superconducting Computer](https://spectrum.ieee.org/superconducting-computer)
 * [2024-05-31, 08:03:04](https://news.ycombinator.com/item?id=40532515) - [Orion – From idea to launch in 45 days](https://www.lux.camera/orion-from-idea-to-launch-in-45-days/)
 * [2024-05-31, 07:31:06](https://news.ycombinator.com/item?id=40532365) - [Manifest V2 phase-out begins](https://blog.chromium.org/2024/05/manifest-v2-phase-out-begins.html)
 * [2024-05-31, 07:21:27](https://news.ycombinator.com/item?id=40532314) - [EU countries must implement right to repair laws within two years](https://www.consilium.europa.eu/en/press/press-releases/2024/05/30/circular-economy-council-gives-final-approval-to-right-to-repair-directive/)
