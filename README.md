@@ -1,10 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-31, 21:25:32](https://news.ycombinator.com/item?id=40540431) - [Satya Nadella is reportedly worried about an OpenAI deal with Apple](https://www.businessinsider.com/satya-nadella-sam-altman-openai-apple-microsoft-worried-about-deal-2024-5)
 * [2024-05-31, 20:59:41](https://news.ycombinator.com/item?id=40540172) - [Cyber house of cards – Politicians' personal details exposed online](https://proton.me/blog/politicians-exposed-dark-web)
 * [2024-05-31, 20:40:46](https://news.ycombinator.com/item?id=40539997) - [An Algorithmic Solution to Insomnia](https://ilya.sukhar.com/blog/an-algorithmic-solution-to-insomnia.html)
-* [2024-05-31, 20:37:00](https://news.ycombinator.com/item?id=40539963) - [John Carmack's Review of Bullshit Jobs](https://twitter.com/ID_AA_Carmack/status/1796622337963389412)
-* [2024-05-31, 20:15:41](https://news.ycombinator.com/item?id=40539729) - [GNU Nano 8 comes with modern key bindings](https://www.nano-editor.org/news.php)
 * [2024-05-31, 20:12:25](https://news.ycombinator.com/item?id=40539700) - [Go: Sentinel errors and errors.Is() slow your code down by 3000%](https://www.dolthub.com/blog/2024-05-31-benchmarking-go-error-handling/)
 * [2024-05-31, 19:59:15](https://news.ycombinator.com/item?id=40539575) - [Can confirm Indeed is selling user information](https://old.reddit.com/r/recruitinghell/comments/11nsi47/can_confirm_indeed_is_selling_user_information/)
 * [2024-05-31, 19:17:20](https://news.ycombinator.com/item?id=40539172) - [Heroku Postgres is now based on AWS Aurora](https://blog.heroku.com/heroku-postgres-essential-launch)
@@ -15,6 +12,7 @@
 * [2024-05-31, 17:00:22](https://news.ycombinator.com/item?id=40537533) - [OneText (YC W23) Is Hiring a Lead UX Engineer](https://gist.github.com/bluepnume/33f2c4be93cc20215aafd55f803de19f)
 * [2024-05-31, 16:59:33](https://news.ycombinator.com/item?id=40537523) - [DataFusion Comet: Apache Spark Accelerator](https://github.com/apache/datafusion-comet)
 * [2024-05-31, 16:57:48](https://news.ycombinator.com/item?id=40537502) - [How many holes does the universe have?](https://www.scientificamerican.com/article/how-many-holes-does-the-universe-have/)
+* [2024-05-31, 16:51:50](https://news.ycombinator.com/item?id=40537398) - [Testing sync at Dropbox (2020)](https://dropbox.tech/infrastructure/-testing-our-new-sync-engine)
 * [2024-05-31, 16:34:06](https://news.ycombinator.com/item?id=40537187) - [Eye exercises for myopia prevention and control: comprehensive systematic review](https://www.nature.com/articles/s41433-023-02739-x)
 * [2024-05-31, 16:21:45](https://news.ycombinator.com/item?id=40537026) - [Trial results for new lung cancer drug are 'off the charts'](https://www.theguardian.com/society/article/2024/may/31/trial-results-for-new-lung-cancer-drug-are-off-the-charts-say-doctors)
 * [2024-05-31, 16:16:15](https://news.ycombinator.com/item?id=40536960) - [Vista Equity writes off PluralSight value, after $3.5B buyout](https://www.axios.com/2024/05/31/vista-equity-pluralsight)
@@ -28,8 +26,10 @@
 * [2024-05-31, 08:51:16](https://news.ycombinator.com/item?id=40532771) - [Superconducting Computer: Imec's plan to shrink datacenters](https://spectrum.ieee.org/superconducting-computer)
 * [2024-05-31, 03:06:05](https://news.ycombinator.com/item?id=40531100) - [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
 * [2024-05-31, 02:27:32](https://news.ycombinator.com/item?id=40530884) - [Show HN: Explore Websites by Chosen Color](https://themefinder.io)
+* [2024-05-30, 22:18:02](https://news.ycombinator.com/item?id=40529355) - [“Imprecise” language models are smaller, speedier, and nearly as accurate](https://spectrum.ieee.org/1-bit-llm)
 * [2024-05-30, 20:10:28](https://news.ycombinator.com/item?id=40528045) - [Show HN: Every mountain, building and tree shadow mapped for any date and time](https://shademap.app)
 * [2024-05-30, 12:34:58](https://news.ycombinator.com/item?id=40522939) - [Armor from Mycenaean Greece turns out to have been effective](https://arstechnica.com/science/2024/05/researchers-get-modern-marines-to-test-ancient-greek-armor/)
+* [2024-05-30, 01:16:47](https://news.ycombinator.com/item?id=40519095) - [Testing a 1912-style Radio [video]](https://www.youtube.com/watch?v=U6ZVqr0fPo4)
 
 ## [Archives](archives/index.md)
 
