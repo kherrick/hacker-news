@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-31, 02:01:12](https://news.ycombinator.com/item?id=40530742) - [All of Microsoft's MacBook Air-beating benchmarks](https://www.theverge.com/2024/5/30/24167745/microsoft-macbook-air-benchmarks-surface-laptop-copilot-plus-pc)
 * [2024-05-31, 01:49:31](https://news.ycombinator.com/item?id=40530686) - [Don't Worry about LLMs](https://vickiboykis.com/2024/05/20/dont-worry-about-llms/)
 * [2024-05-31, 01:46:00](https://news.ycombinator.com/item?id=40530670) - [Japan's push to make all research open access is taking shape](https://www.nature.com/articles/d41586-024-01493-8)
 * [2024-05-31, 01:45:35](https://news.ycombinator.com/item?id=40530666) - [Tesla Auto Wipers: Why They Don't Work and Why There Isn't an Easy Fix](https://www.notateslaapp.com/news/2045/tesla-auto-wipers-why-they-dont-work-and-why-there-isnt-an-easy-fix)
@@ -11,7 +12,6 @@
 * [2024-05-30, 21:01:37](https://news.ycombinator.com/item?id=40528680) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2024-05-30, 20:24:05](https://news.ycombinator.com/item?id=40528192) - [Ask HN: I have many PDFs – what is the best local way to leverage AI for search?](https://news.ycombinator.com/item?id=40528192)
 * [2024-05-30, 19:59:08](https://news.ycombinator.com/item?id=40527944) - [NPGA: Neural Parametric Gaussian Avatars – high-fidelity digital faces](https://arxiv.org/abs/2405.19331)
-* [2024-05-30, 19:25:24](https://news.ycombinator.com/item?id=40527669) - [NASA Releases New High-Quality, Near Real-Time Air Quality Data](https://www.nasa.gov/missions/tempo/nasa-releases-new-high-quality-near-real-time-air-quality-data/)
 * [2024-05-30, 19:02:46](https://news.ycombinator.com/item?id=40527435) - [Transmission of Mental Disorders in Adolescent Peer Networks](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2818735)
 * [2024-05-30, 18:43:32](https://news.ycombinator.com/item?id=40527242) - ['Smart' antibiotic can kill deadly bacteria while sparing the microbiome](https://www.nature.com/articles/d41586-024-01566-8)
 * [2024-05-30, 17:40:16](https://news.ycombinator.com/item?id=40526488) - [James Webb Space Telescope Finds Most Distant Known Galaxy](https://blogs.nasa.gov/webb/2024/05/30/nasas-james-webb-space-telescope-finds-most-distant-known-galaxy/)
@@ -20,7 +20,6 @@
 * [2024-05-30, 15:45:54](https://news.ycombinator.com/item?id=40525064) - [Don't DRY Your Code Prematurely](https://testing.googleblog.com/2024/05/dont-dry-your-code-prematurely.html)
 * [2024-05-30, 15:24:36](https://news.ycombinator.com/item?id=40524823) - ['Operation Endgame' Hits Malware Delivery Platforms](https://krebsonsecurity.com/2024/05/operation-endgame-hits-malware-delivery-platforms/)
 * [2024-05-30, 15:17:39](https://news.ycombinator.com/item?id=40524759) - [Better RAG Results with Reciprocal Rank Fusion and Hybrid Search](https://www.assembled.com/blog/better-rag-results-with-reciprocal-rank-fusion-and-hybrid-search)
-* [2024-05-30, 14:33:46](https://news.ycombinator.com/item?id=40524238) - [Physicists Puzzle over Emergence of Electron Aggregates](https://www.quantamagazine.org/physicists-puzzle-over-emergence-of-strange-electron-aggregates-20240529/)
 * [2024-05-30, 12:50:37](https://news.ycombinator.com/item?id=40523047) - [I run a software book club](https://notes.eatonphil.com/2025-05-30-how-i-run-book-clubs.html)
 * [2024-05-30, 12:22:35](https://news.ycombinator.com/item?id=40522844) - [Show HN: ChatGPT UI for rabbit holes](https://delve.a9.io/)
 * [2024-05-30, 10:53:09](https://news.ycombinator.com/item?id=40522244) - [Show HN: I built a tiny-VPS friendly RSS aggregator and reader](https://github.com/0x2E/fusion)
@@ -29,6 +28,7 @@
 * [2024-05-30, 09:19:25](https://news.ycombinator.com/item?id=40521657) - [I got tired of hearing that YC fired Sam, so here's what actually happened](https://twitter.com/paulg/status/1796107666265108940)
 * [2024-05-30, 08:50:30](https://news.ycombinator.com/item?id=40521518) - [After 6 years, I'm over GraphQL](https://bessey.dev/blog/2024/05/24/why-im-over-graphql/)
 * [2024-05-30, 05:21:46](https://news.ycombinator.com/item?id=40520334) - [How actors remember their lines](https://thereader.mitpress.mit.edu/how-actors-remember-their-lines/)
+* [2024-05-28, 23:00:43](https://news.ycombinator.com/item?id=40506495) - [MP944: The First Microprocessor (2014)](https://firstmicroprocessor.com/)
 * [2024-05-28, 21:30:53](https://news.ycombinator.com/item?id=40505833) - [The Elusive Computer Monograph Number 11](http://blog.fogus.me/2024/05/28/the-elusive-computer-monograph-number-11/)
 
 ## [Archives](archives/index.md)
