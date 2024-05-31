@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-31](index.md)
 
+* [2024-05-31, 16:16:15](https://news.ycombinator.com/item?id=40536960) - [Vista Equity writes off PluralSight value, after $3.5B buyout](https://www.axios.com/2024/05/31/vista-equity-pluralsight)
+* [2024-05-31, 15:46:29](https://news.ycombinator.com/item?id=40536626) - [Teacher Pay and per Student Spending](https://www.nea.org/resource-library/educator-pay-and-student-spending-how-does-your-state-rank/teacher)
 * [2024-05-31, 15:30:00](https://news.ycombinator.com/item?id=40536436) - [How to Copy a File From a 30-year-old Laptop](https://www.unterminated.com/random-fun/how-to-copy-a-file-from-a-30-year-old-laptop)
 * [2024-05-31, 15:27:33](https://news.ycombinator.com/item?id=40536400) - [IRS Direct File to open to all 50 states and D.C. for 2025 tax season](https://www.axios.com/2024/05/30/irs-taxes-direct-file-free-program)
 * [2024-05-31, 15:05:15](https://news.ycombinator.com/item?id=40536120) - [Supersharers of Fake News on Twitter](https://www.science.org/doi/10.1126/science.adl4435)
@@ -27,6 +29,7 @@
 * [2024-05-31, 11:18:51](https://news.ycombinator.com/item?id=40533622) - [25 Years of Krita](https://krita.org/en/posts/2024/krita-25-years/)
 * [2024-05-31, 11:00:11](https://news.ycombinator.com/item?id=40533484) - [Stop Using Discord](https://malenfant.net/@didier/112528487189999791)
 * [2024-05-31, 10:45:29](https://news.ycombinator.com/item?id=40533396) - [Apple Silicon MacBook batteries can't be replaced under warranty by third party](https://lapcatsoftware.com/articles/2024/5/7.html)
+* [2024-05-31, 10:32:27](https://news.ycombinator.com/item?id=40533319) - [Debian KDE: Right Linux distribution for professional digital painting in 2024](https://www.davidrevoy.com/article1030/debian-12-kde-plasma-2024-install-guide)
 * [2024-05-31, 10:11:14](https://news.ycombinator.com/item?id=40533208) - [FatFIRE](https://old.reddit.com/r/fatFIRE/)
 * [2024-05-31, 10:08:08](https://news.ycombinator.com/item?id=40533191) - [Firefly forges on after co-founder murdered by Hamas](https://techcrunch.com/2024/05/29/after-co-founders-murder-at-the-hands-of-hamas-cloud-startup-firefly-raises-23m/)
 * [2024-05-31, 10:01:03](https://news.ycombinator.com/item?id=40533158) - [Deno 1.44](https://deno.com/blog/v1.44)
