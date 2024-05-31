@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-31, 17:36:04",
+      "https://news.ycombinator.com/item?id=40538019"
+    ],
+    [
+      "AI legal research products hallucinate 17-33% of the time",
+      "https://hai.stanford.edu/news/ai-trial-legal-models-hallucinate-1-out-6-or-more-benchmarking-queries"
+    ]
+  ],
+  [
+    [
       "2024-05-31, 17:00:22",
       "https://news.ycombinator.com/item?id=40537533"
     ],
@@ -67,6 +77,16 @@
     [
       "Man scammed after AI told him fake Facebook customer support number was real",
       "https://www.cbc.ca/news/canada/manitoba/facebook-customer-support-scam-1.7219581"
+    ]
+  ],
+  [
+    [
+      "2024-05-31, 16:06:01",
+      "https://news.ycombinator.com/item?id=40536846"
+    ],
+    [
+      "All Santander staff and 30M customers in Spain, Chile and Uruguay hacked",
+      "https://www.bbc.com/news/articles/c6ppv06e3n8o"
     ]
   ],
   [
@@ -145,18 +165,8 @@
       "https://news.ycombinator.com/item?id=40534868"
     ],
     [
-      "Snowflake, Cloud Storage Giant, Suffers Breach",
+      "Snowflake breach: Hacker confirms access through infostealer infection",
       "https://www.hudsonrock.com/blog/snowflake-massive-breach-access-through-infostealer-infection"
-    ]
-  ],
-  [
-    [
-      "2024-05-31, 13:06:14",
-      "https://news.ycombinator.com/item?id=40534665"
-    ],
-    [
-      "Spotify won't open-source Car Thing, but starts refund process",
-      "https://arstechnica.com/gadgets/2024/05/spotify-wont-open-source-car-thing-but-starts-refund-process/"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Superconducting Computer",
       "https://spectrum.ieee.org/superconducting-computer"
-    ]
-  ],
-  [
-    [
-      "2024-05-31, 05:30:59",
-      "https://news.ycombinator.com/item?id=40531807"
-    ],
-    [
-      "Show HN: Wadzilla. Play DOOM in Zork",
-      "https://github.com/scottvr/wadzilla/wiki"
     ]
   ],
   [
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2024-05-30, 16:46:17",
-      "https://news.ycombinator.com/item?id=40525802"
-    ],
-    [
-      "Unexpected anti-patterns for engineering leaders",
-      "https://review.firstround.com/unexpected-anti-patterns-for-engineering-leaders-lessons-from-stripe-uber-carta/"
-    ]
-  ],
-  [
-    [
       "2024-05-30, 15:52:29",
       "https://news.ycombinator.com/item?id=40525130"
     ],
@@ -297,6 +287,16 @@
     [
       "Spots, stripes and more: Working out the logic of animal patterns",
       "https://knowablemagazine.org/content/article/living-world/2024/animal-patterns-spots-stripes-explained-turing-mechanism"
+    ]
+  ],
+  [
+    [
+      "2024-05-29, 20:39:31",
+      "https://news.ycombinator.com/item?id=40516763"
+    ],
+    [
+      "A stop-motion video of an engine",
+      "https://www.howacarworks.com/engine"
     ]
   ]
 ]
