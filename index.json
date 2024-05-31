@@ -1,32 +1,12 @@
 [
   [
     [
-      "2024-05-31, 19:22:41",
-      "https://news.ycombinator.com/item?id=40539223"
-    ],
-    [
-      "NixOS 24.05 \"Uakari\" Released",
-      "https://nixos.org/blog/announcements/2024/nixos-2405/"
-    ]
-  ],
-  [
-    [
       "2024-05-31, 19:02:53",
       "https://news.ycombinator.com/item?id=40539031"
     ],
     [
       "De-googling, so far",
       "https://blog.nradk.com/posts/degoogling/"
-    ]
-  ],
-  [
-    [
-      "2024-05-31, 18:48:51",
-      "https://news.ycombinator.com/item?id=40538890"
-    ],
-    [
-      "Google Cloud error erases $135B pension fund",
-      "https://www.axios.com/2024/05/30/google-cloud-pension-error"
     ]
   ],
   [
@@ -71,12 +51,32 @@
   ],
   [
     [
+      "2024-05-31, 16:57:48",
+      "https://news.ycombinator.com/item?id=40537502"
+    ],
+    [
+      "How many holes does the universe have?",
+      "https://www.scientificamerican.com/article/how-many-holes-does-the-universe-have/"
+    ]
+  ],
+  [
+    [
       "2024-05-31, 16:51:50",
       "https://news.ycombinator.com/item?id=40537398"
     ],
     [
       "Testing sync at Dropbox (2020)",
       "https://dropbox.tech/infrastructure/-testing-our-new-sync-engine"
+    ]
+  ],
+  [
+    [
+      "2024-05-31, 16:45:02",
+      "https://news.ycombinator.com/item?id=40537311"
+    ],
+    [
+      "Sam Altman-backed nuclear startup signs major data center contract",
+      "https://oilprice.com/Alternative-Energy/Nuclear-Power/Sam-Altman-Backed-Nuclear-Startup-Signs-Major-Data-Center-Contract.html"
     ]
   ],
   [
@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=40537134"
     ],
     [
-      "Small Modular Reactors: Still Too Expensive, Too Slow, and Too Risky [pdf]",
+      "Small modular reactors: Still too expensive, too slow, and too risky [pdf]",
       "https://apo.org.au/sites/default/files/resource-files/2024-05/apo-nid326992.pdf"
     ]
   ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2024-05-30, 10:36:13",
-      "https://news.ycombinator.com/item?id=40522134"
-    ],
-    [
-      "Why your Linux kernel bug report might be fruitless",
-      "https://linux-regtracking.leemhuis.info/post/frequent-reasons-why-linux-kernel-bug-reports-are-ignored/"
-    ]
-  ],
-  [
-    [
       "2024-05-30, 01:16:47",
       "https://news.ycombinator.com/item?id=40519095"
     ],
     [
       "Testing a 1912-style Radio [video]",
       "https://www.youtube.com/watch?v=U6ZVqr0fPo4"
+    ]
+  ],
+  [
+    [
+      "2024-05-29, 16:49:04",
+      "https://news.ycombinator.com/item?id=40514033"
+    ],
+    [
+      "Why Linux developers do not fix reported issues or ignore bug reports",
+      "https://linux-regtracking.leemhuis.info/post/frequent-reasons-why-linux-kernel-bug-reports-are-ignored/"
     ]
   ]
 ]
