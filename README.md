@@ -1,14 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-31, 07:21:27](https://news.ycombinator.com/item?id=40532314) - [EU countries must implement right to repair laws within two years](https://www.consilium.europa.eu/en/press/press-releases/2024/05/30/circular-economy-council-gives-final-approval-to-right-to-repair-directive/)
-* [2024-05-31, 06:14:46](https://news.ycombinator.com/item?id=40532022) - [Russia's persecution of faith in Ukraine called 'cultural genocide' campaign](https://www.archstl.org/russias-persecution-of-faith-in-ukraine-called-cultural-genocide-campaign-8586)
 * [2024-05-31, 06:08:50](https://news.ycombinator.com/item?id=40531986) - ['WebAssembly Is Finally Usable, Almost'](https://www.forbes.com/sites/justinwarren/2024/04/04/webassembly-is-finally-usable-almost/)
 * [2024-05-31, 06:08:26](https://news.ycombinator.com/item?id=40531984) - [A man ordered to hide his boat painted the boat on his fence](https://news.artnet.com/art-world/fence-boat-painting-artist-hanif-panni-2487875)
 * [2024-05-31, 05:30:59](https://news.ycombinator.com/item?id=40531807) - [Show HN: Wadzilla. Play DOOM in Zork](https://github.com/scottvr/wadzilla/wiki)
+* [2024-05-31, 05:09:24](https://news.ycombinator.com/item?id=40531699) - [Every mountain, building and tree shadow in the world simulated for any time](https://shademap.app)
 * [2024-05-31, 03:58:25](https://news.ycombinator.com/item?id=40531347) - [How to Think Like a Computer Scientist: Interactive Edition](https://levjj.github.io/thinkcspy/)
 * [2024-05-31, 03:51:31](https://news.ycombinator.com/item?id=40531301) - [Things you wish you didn't need to know about S3](https://blog.plerion.com/things-you-wish-you-didnt-need-to-know-about-s3/)
 * [2024-05-31, 03:43:52](https://news.ycombinator.com/item?id=40531258) - [Myths about platform engineering: what it is and what it isn't](https://cloud.google.com/blog/products/application-development/common-myths-about-platform-engineering/)
-* [2024-05-31, 03:24:05](https://news.ycombinator.com/item?id=40531175) - ['It's better for humans in general': The 4-day workweek is closer than you think](https://www.marketwatch.com/amp/story/its-better-for-humans-in-general-the-four-day-workweek-is-closer-than-you-think-b85cc39e)
 * [2024-05-31, 03:19:51](https://news.ycombinator.com/item?id=40531165) - [YOLOv5 on FPGA with Hailo-8 and 4 Pi Cameras](https://www.fpgadeveloper.com/multi-camera-yolov5-on-zynq-ultrascale-with-hailo-8-ai-acceleration/)
 * [2024-05-31, 03:06:05](https://news.ycombinator.com/item?id=40531100) - [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
 * [2024-05-31, 02:46:54](https://news.ycombinator.com/item?id=40531003) - [The Scully Effect](https://theastoundinganalogcompanion.com/2018/08/21/the-scully-effect/)
@@ -30,6 +29,7 @@
 * [2024-05-29, 23:54:47](https://news.ycombinator.com/item?id=40518555) - [The Elusive Byzantine Empire (2019)](https://www.historytoday.com/miscellanies/elusive-byzantine-empire)
 * [2024-05-29, 03:50:58](https://news.ycombinator.com/item?id=40508268) - [The Special Challenges of Attempting a New Translation of Kafka](https://lithub.com/the-special-challenges-of-attempting-a-new-translation-of-kafka/)
 * [2024-05-28, 23:00:43](https://news.ycombinator.com/item?id=40506495) - [MP944: The First Microprocessor (2014)](https://firstmicroprocessor.com/)
+* [2024-05-28, 21:30:53](https://news.ycombinator.com/item?id=40505833) - [The Elusive Computer Monograph Number 11](http://blog.fogus.me/2024/05/28/the-elusive-computer-monograph-number-11/)
 
 ## [Archives](archives/index.md)
 
