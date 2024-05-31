@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-31, 18:50:31](https://news.ycombinator.com/item?id=40538898) - [Google Chrome's plan to limit ad blocking extensions kicks off next week](https://arstechnica.com/gadgets/2024/05/google-starts-deprecating-older-more-capable-chrome-extensions-next-week/)
 * [2024-05-31, 17:36:04](https://news.ycombinator.com/item?id=40538019) - [Legal models hallucinate in 1 out of 6 (or more) benchmarking queries](https://hai.stanford.edu/news/ai-trial-legal-models-hallucinate-1-out-6-or-more-benchmarking-queries)
 * [2024-05-31, 17:26:46](https://news.ycombinator.com/item?id=40537911) - [Bento: Open-source fork of the project formerly known as Benthos](https://www.warpstream.com/blog/announcing-bento-the-open-source-fork-of-the-project-formerly-known-as-benthos)
 * [2024-05-31, 17:00:22](https://news.ycombinator.com/item?id=40537533) - [OneText (YC W23) Is Hiring a Lead UX Engineer](https://gist.github.com/bluepnume/33f2c4be93cc20215aafd55f803de19f)
@@ -20,7 +21,6 @@
 * [2024-05-31, 11:37:29](https://news.ycombinator.com/item?id=40533761) - [Intel's anti-upgrade tricks defeated with Kapton tape](https://hackaday.com/2024/05/31/intels-anti-upgrade-tricks-defeated-with-kapton-tape/)
 * [2024-05-31, 10:32:27](https://news.ycombinator.com/item?id=40533319) - [Debian KDE: Right Linux distribution for professional digital painting in 2024](https://www.davidrevoy.com/article1030/debian-12-kde-plasma-2024-install-guide)
 * [2024-05-31, 08:51:16](https://news.ycombinator.com/item?id=40532771) - [Superconducting Computer: Imec's plan to shrink datacenters](https://spectrum.ieee.org/superconducting-computer)
-* [2024-05-31, 03:19:51](https://news.ycombinator.com/item?id=40531165) - [YOLOv5 on FPGA with Hailo-8 and 4 Pi Cameras](https://www.fpgadeveloper.com/multi-camera-yolov5-on-zynq-ultrascale-with-hailo-8-ai-acceleration/)
 * [2024-05-31, 03:06:05](https://news.ycombinator.com/item?id=40531100) - [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
 * [2024-05-31, 02:27:32](https://news.ycombinator.com/item?id=40530884) - [Show HN: Explore Websites by Chosen Color](https://themefinder.io)
 * [2024-05-31, 01:46:00](https://news.ycombinator.com/item?id=40530670) - [Japan's push to make all research open access](https://www.nature.com/articles/d41586-024-01493-8)
