@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-31, 19:22:41](https://news.ycombinator.com/item?id=40539223) - [NixOS 24.05 \"Uakari\" Released](https://nixos.org/blog/announcements/2024/nixos-2405/)
-* [2024-05-31, 19:02:53](https://news.ycombinator.com/item?id=40539031) - [De-Googling, So Far](https://blog.nradk.com/posts/degoogling/)
+* [2024-05-31, 19:02:53](https://news.ycombinator.com/item?id=40539031) - [De-googling, so far](https://blog.nradk.com/posts/degoogling/)
 * [2024-05-31, 18:48:51](https://news.ycombinator.com/item?id=40538890) - [Google Cloud error erases $135B pension fund](https://www.axios.com/2024/05/30/google-cloud-pension-error)
 * [2024-05-31, 17:36:04](https://news.ycombinator.com/item?id=40538019) - [Legal models hallucinate in 1 out of 6 (or more) benchmarking queries](https://hai.stanford.edu/news/ai-trial-legal-models-hallucinate-1-out-6-or-more-benchmarking-queries)
 * [2024-05-31, 17:26:46](https://news.ycombinator.com/item?id=40537911) - [Bento: Open-source fork of the project formerly known as Benthos](https://www.warpstream.com/blog/announcing-bento-the-open-source-fork-of-the-project-formerly-known-as-benthos)
