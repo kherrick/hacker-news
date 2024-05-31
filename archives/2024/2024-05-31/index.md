@@ -9,3 +9,4 @@
 * [2024-05-31, 01:45:40](https://news.ycombinator.com/item?id=40530667) - [Wordle in legal row with geography spinoff, Worldle](https://www.bbc.com/news/articles/cjrr5ee5zv8o)
 * [2024-05-31, 01:45:35](https://news.ycombinator.com/item?id=40530666) - [Tesla Auto Wipers: Why They Don't Work and Why There Isn't an Easy Fix](https://www.notateslaapp.com/news/2045/tesla-auto-wipers-why-they-dont-work-and-why-there-isnt-an-easy-fix)
 * [2024-05-31, 00:43:15](https://news.ycombinator.com/item?id=40530359) - [Apple News+ subscription growth blows away major media sites](https://www.cultofmac.com/857829/apple-news-subscription-growth/)
+* [2024-05-31, 00:25:54](https://news.ycombinator.com/item?id=40530276) - [Thoughts on Skymont Slides](https://chipsandcheese.com/2024/05/30/thoughts-on-skymont-slides/)
