@@ -9,6 +9,7 @@
 * [2024-05-31, 20:59:41](https://news.ycombinator.com/item?id=40540172) - [Cyber house of cards – Politicians' personal details exposed online](https://proton.me/blog/politicians-exposed-dark-web)
 * [2024-05-31, 20:40:46](https://news.ycombinator.com/item?id=40539997) - [An Algorithmic Solution to Insomnia](https://ilya.sukhar.com/blog/an-algorithmic-solution-to-insomnia.html)
 * [2024-05-31, 20:37:00](https://news.ycombinator.com/item?id=40539963) - [John Carmack's Review of Bullshit Jobs](https://twitter.com/ID_AA_Carmack/status/1796622337963389412)
+* [2024-05-31, 20:19:06](https://news.ycombinator.com/item?id=40539762) - [Cheap Third-Party 'Lightning' Headphones Are Often Cheap Bluetooth Headphones](https://daringfireball.net/linked/2024/05/31/cheap-lightning-headphones)
 * [2024-05-31, 20:15:41](https://news.ycombinator.com/item?id=40539729) - [GNU Nano 8 comes with modern key bindings](https://www.nano-editor.org/news.php)
 * [2024-05-31, 20:15:11](https://news.ycombinator.com/item?id=40539720) - [Spain fines budget airlines €150M over 'abusive' cabin bag and seat charges](https://www.theguardian.com/business/article/2024/may/31/spain-fines-budget-airlines-abusive-cabin-bag-seat-charges-easyjet-ryanair)
 * [2024-05-31, 20:12:25](https://news.ycombinator.com/item?id=40539700) - [Go: Sentinel errors and errors.Is() slow your code down by 3000%](https://www.dolthub.com/blog/2024-05-31-benchmarking-go-error-handling/)
