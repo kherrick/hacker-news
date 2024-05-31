@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-31, 07:21:27](https://news.ycombinator.com/item?id=40532314) - [EU countries must implement right to repair laws within two years](https://www.consilium.europa.eu/en/press/press-releases/2024/05/30/circular-economy-council-gives-final-approval-to-right-to-repair-directive/)
 * [2024-05-31, 06:14:46](https://news.ycombinator.com/item?id=40532022) - [Russia's persecution of faith in Ukraine called 'cultural genocide' campaign](https://www.archstl.org/russias-persecution-of-faith-in-ukraine-called-cultural-genocide-campaign-8586)
 * [2024-05-31, 06:08:50](https://news.ycombinator.com/item?id=40531986) - ['WebAssembly Is Finally Usable, Almost'](https://www.forbes.com/sites/justinwarren/2024/04/04/webassembly-is-finally-usable-almost/)
 * [2024-05-31, 06:08:26](https://news.ycombinator.com/item?id=40531984) - [A man ordered to hide his boat painted the boat on his fence](https://news.artnet.com/art-world/fence-boat-painting-artist-hanif-panni-2487875)
@@ -26,7 +27,6 @@
 * [2024-05-30, 12:22:35](https://news.ycombinator.com/item?id=40522844) - [Show HN: ChatGPT UI for rabbit holes](https://delve.a9.io/)
 * [2024-05-30, 10:25:11](https://news.ycombinator.com/item?id=40522071) - [Geometry for Entertainment (1950)](https://archive.org/details/yakov-perelman-geometry-for-entertainment-mir-titles-2024)
 * [2024-05-30, 10:06:07](https://news.ycombinator.com/item?id=40521963) - [I love my wife. My wife is dead (1946)](https://lettersofnote.com/2012/02/15/i-love-my-wife-my-wife-is-dead/)
-* [2024-05-30, 01:16:47](https://news.ycombinator.com/item?id=40519095) - [Testing a 1912-style Radio [video]](https://www.youtube.com/watch?v=U6ZVqr0fPo4)
 * [2024-05-29, 23:54:47](https://news.ycombinator.com/item?id=40518555) - [The Elusive Byzantine Empire (2019)](https://www.historytoday.com/miscellanies/elusive-byzantine-empire)
 * [2024-05-29, 03:50:58](https://news.ycombinator.com/item?id=40508268) - [The Special Challenges of Attempting a New Translation of Kafka](https://lithub.com/the-special-challenges-of-attempting-a-new-translation-of-kafka/)
 * [2024-05-28, 23:00:43](https://news.ycombinator.com/item?id=40506495) - [MP944: The First Microprocessor (2014)](https://firstmicroprocessor.com/)
