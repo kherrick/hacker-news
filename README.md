@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-31, 08:57:59](https://news.ycombinator.com/item?id=40532806) - [Google scales back AI search answers after it told users to eat glue](https://www.washingtonpost.com/technology/2024/05/30/google-halt-ai-search/)
 * [2024-05-31, 07:31:06](https://news.ycombinator.com/item?id=40532365) - [Manifest V2 phase-out begins](https://blog.chromium.org/2024/05/manifest-v2-phase-out-begins.html)
 * [2024-05-31, 07:21:27](https://news.ycombinator.com/item?id=40532314) - [EU countries must implement right to repair laws within two years](https://www.consilium.europa.eu/en/press/press-releases/2024/05/30/circular-economy-council-gives-final-approval-to-right-to-repair-directive/)
 * [2024-05-31, 06:23:53](https://news.ycombinator.com/item?id=40532058) - [Half-Ass It](https://everythingchanges.us/blog/half-ass-it/)
@@ -15,6 +14,7 @@
 * [2024-05-31, 02:46:54](https://news.ycombinator.com/item?id=40531003) - [The Scully Effect](https://theastoundinganalogcompanion.com/2018/08/21/the-scully-effect/)
 * [2024-05-31, 01:46:00](https://news.ycombinator.com/item?id=40530670) - [Japan's push to make all research open access](https://www.nature.com/articles/d41586-024-01493-8)
 * [2024-05-31, 01:12:16](https://news.ycombinator.com/item?id=40530505) - [Trinity keeps KDE 3 on life support](https://lwn.net/Articles/973130/)
+* [2024-05-31, 00:25:54](https://news.ycombinator.com/item?id=40530276) - [Thoughts on Skymont Slides](https://chipsandcheese.com/2024/05/30/thoughts-on-skymont-slides/)
 * [2024-05-30, 23:59:47](https://news.ycombinator.com/item?id=40530130) - [Steam's Last Stand](https://technicshistory.com/2024/05/30/coda-steams-last-stand/)
 * [2024-05-30, 22:18:02](https://news.ycombinator.com/item?id=40529355) - [“Imprecise” language models are smaller, speedier, and nearly as accurate](https://spectrum.ieee.org/1-bit-llm)
 * [2024-05-30, 21:01:37](https://news.ycombinator.com/item?id=40528680) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
