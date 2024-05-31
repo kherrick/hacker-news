@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2024-05-31, 03:19:51",
-      "https://news.ycombinator.com/item?id=40531165"
-    ],
-    [
-      "YOLOv5 on FPGA with Hailo-8 and 4 Pi Cameras",
-      "https://www.fpgadeveloper.com/multi-camera-yolov5-on-zynq-ultrascale-with-hailo-8-ai-acceleration/"
-    ]
-  ],
-  [
-    [
       "2024-05-31, 03:06:05",
       "https://news.ycombinator.com/item?id=40531100"
     ],
@@ -277,6 +267,16 @@
     [
       "Armor from Mycenaean Greece turns out to have been effective",
       "https://arstechnica.com/science/2024/05/researchers-get-modern-marines-to-test-ancient-greek-armor/"
+    ]
+  ],
+  [
+    [
+      "2024-05-30, 10:36:13",
+      "https://news.ycombinator.com/item?id=40522134"
+    ],
+    [
+      "Why your Linux kernel bug report might be fruitless",
+      "https://linux-regtracking.leemhuis.info/post/frequent-reasons-why-linux-kernel-bug-reports-are-ignored/"
     ]
   ],
   [
