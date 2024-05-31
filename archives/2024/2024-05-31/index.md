@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-31](index.md)
 
+* [2024-05-31, 15:30:00](https://news.ycombinator.com/item?id=40536436) - [How to Copy a File From a 30-year-old Laptop](https://www.unterminated.com/random-fun/how-to-copy-a-file-from-a-30-year-old-laptop)
 * [2024-05-31, 15:05:15](https://news.ycombinator.com/item?id=40536120) - [Supersharers of Fake News on Twitter](https://www.science.org/doi/10.1126/science.adl4435)
 * [2024-05-31, 14:54:00](https://news.ycombinator.com/item?id=40535989) - [Data allegedly stolen from 560M Ticketmaster users](https://www.bbc.com/news/articles/c899pz84d8zo)
 * [2024-05-31, 14:47:21](https://news.ycombinator.com/item?id=40535912) - [Civil society in Latvia, Lithuania, and Poland targeted with Pegasus spyware](https://www.accessnow.org/publication/civil-society-in-exile-pegasus/)
@@ -11,6 +12,7 @@
 * [2024-05-31, 14:01:09](https://news.ycombinator.com/item?id=40535289) - [BYD Launches Hybrids with 1,300-Mile Driving Range](https://www.wsj.com/business/autos/byd-launches-hybrids-with-1-300-mile-driving-range-5a3ae139)
 * [2024-05-31, 14:00:58](https://news.ycombinator.com/item?id=40535285) - [Why Go Is Not Good](https://yager.io/programming/go.html)
 * [2024-05-31, 13:47:48](https://news.ycombinator.com/item?id=40535103) - [Global tourism is booming. These people would rather it wasn't](https://www.bbc.com/news/articles/cl55vdjv2j3o)
+* [2024-05-31, 13:45:45](https://news.ycombinator.com/item?id=40535077) - [Show HN: CommitAsync – $100K+ dev jobs 100% remote only](https://www.commitasync.com/)
 * [2024-05-31, 13:14:32](https://news.ycombinator.com/item?id=40534740) - [In Colorado, an Ambitious New Highway Policy Is Not Building Them](https://www.nytimes.com/2024/05/31/headway/highways-colorado-transportation.html)
 * [2024-05-31, 13:06:14](https://news.ycombinator.com/item?id=40534665) - [Spotify won't open-source Car Thing, but starts refund process](https://arstechnica.com/gadgets/2024/05/spotify-wont-open-source-car-thing-but-starts-refund-process/)
 * [2024-05-31, 12:39:45](https://news.ycombinator.com/item?id=40534371) - [The QR Backlash Has Won. Restaurants Are Ditching Them for Good.](https://www.wsj.com/business/hospitality/restaurant-menus-qr-codes-33f777c8)
