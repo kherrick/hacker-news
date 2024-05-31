@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-31, 07:21:27](https://news.ycombinator.com/item?id=40532314) - [EU countries must implement right to repair laws within two years](https://www.consilium.europa.eu/en/press/press-releases/2024/05/30/circular-economy-council-gives-final-approval-to-right-to-repair-directive/)
-* [2024-05-31, 06:08:50](https://news.ycombinator.com/item?id=40531986) - ['WebAssembly Is Finally Usable, Almost'](https://www.forbes.com/sites/justinwarren/2024/04/04/webassembly-is-finally-usable-almost/)
+* [2024-05-31, 07:00:57](https://news.ycombinator.com/item?id=40532211) - [Russians may deploy their reserves to one more direction in Kharkiv Oblast](https://gwaramedia.com/en/official-russians-may-deploy-their-reserves-to-zolochiv-direction/)
 * [2024-05-31, 06:08:26](https://news.ycombinator.com/item?id=40531984) - [A man ordered to hide his boat painted the boat on his fence](https://news.artnet.com/art-world/fence-boat-painting-artist-hanif-panni-2487875)
 * [2024-05-31, 05:30:59](https://news.ycombinator.com/item?id=40531807) - [Show HN: Wadzilla. Play DOOM in Zork](https://github.com/scottvr/wadzilla/wiki)
 * [2024-05-31, 05:09:24](https://news.ycombinator.com/item?id=40531699) - [Every mountain, building and tree shadow in the world simulated for any time](https://shademap.app)
