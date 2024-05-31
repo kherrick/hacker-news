@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-05-31](index.md)
 
+* [2024-05-31, 14:01:09](https://news.ycombinator.com/item?id=40535289) - [BYD Launches Hybrids with 1,300-Mile Driving Range](https://www.wsj.com/business/autos/byd-launches-hybrids-with-1-300-mile-driving-range-5a3ae139)
+* [2024-05-31, 14:00:58](https://news.ycombinator.com/item?id=40535285) - [Why Go Is Not Good](https://yager.io/programming/go.html)
 * [2024-05-31, 13:47:48](https://news.ycombinator.com/item?id=40535103) - [Global tourism is booming. These people would rather it wasn't](https://www.bbc.com/news/articles/cl55vdjv2j3o)
 * [2024-05-31, 13:14:32](https://news.ycombinator.com/item?id=40534740) - [In Colorado, an Ambitious New Highway Policy Is Not Building Them](https://www.nytimes.com/2024/05/31/headway/highways-colorado-transportation.html)
 * [2024-05-31, 13:06:14](https://news.ycombinator.com/item?id=40534665) - [Spotify won't open-source Car Thing, but starts refund process](https://arstechnica.com/gadgets/2024/05/spotify-wont-open-source-car-thing-but-starts-refund-process/)
 * [2024-05-31, 12:39:45](https://news.ycombinator.com/item?id=40534371) - [The QR Backlash Has Won. Restaurants Are Ditching Them for Good.](https://www.wsj.com/business/hospitality/restaurant-menus-qr-codes-33f777c8)
 * [2024-05-31, 12:35:05](https://news.ycombinator.com/item?id=40534314) - [Meta caught an Israeli marketing firm running fake Facebook accounts](https://www.engadget.com/meta-caught-an-israeli-marketing-firm-running-hundreds-of-fake-facebook-accounts-150021954.html)
+* [2024-05-31, 12:00:24](https://news.ycombinator.com/item?id=40533967) - [Lucid Boss Says Tesla Has Lost Its \"Sense of Purpose\"](https://www.carscoops.com/2024/05/lucid-boss-says-tesla-has-lost-its-sense-of-purpose/)
 * [2024-05-31, 11:46:58](https://news.ycombinator.com/item?id=40533855) - [Brave launches Search Ads in key markets after successful test phase](https://brave.com/blog/brave-search-ads-launch/)
 * [2024-05-31, 11:43:47](https://news.ycombinator.com/item?id=40533817) - [ChatGPT Edu](https://openai.com/index/introducing-chatgpt-edu/)
 * [2024-05-31, 11:37:29](https://news.ycombinator.com/item?id=40533761) - [Intel's Anti-Upgrade Tricks Defeated with Kapton Tape](https://hackaday.com/2024/05/31/intels-anti-upgrade-tricks-defeated-with-kapton-tape/)
