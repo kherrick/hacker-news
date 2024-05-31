@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-31](index.md)
 
 * [2024-05-31, 16:16:15](https://news.ycombinator.com/item?id=40536960) - [Vista Equity writes off PluralSight value, after $3.5B buyout](https://www.axios.com/2024/05/31/vista-equity-pluralsight)
+* [2024-05-31, 16:07:24](https://news.ycombinator.com/item?id=40536860) - [Man scammed after AI told him fake Facebook customer support number was real](https://www.cbc.ca/news/canada/manitoba/facebook-customer-support-scam-1.7219581)
 * [2024-05-31, 15:46:29](https://news.ycombinator.com/item?id=40536626) - [Teacher Pay and per Student Spending](https://www.nea.org/resource-library/educator-pay-and-student-spending-how-does-your-state-rank/teacher)
 * [2024-05-31, 15:30:00](https://news.ycombinator.com/item?id=40536436) - [How to Copy a File From a 30-year-old Laptop](https://www.unterminated.com/random-fun/how-to-copy-a-file-from-a-30-year-old-laptop)
 * [2024-05-31, 15:27:33](https://news.ycombinator.com/item?id=40536400) - [IRS Direct File to open to all 50 states and D.C. for 2025 tax season](https://www.axios.com/2024/05/30/irs-taxes-direct-file-free-program)

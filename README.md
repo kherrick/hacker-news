@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-31, 16:16:15](https://news.ycombinator.com/item?id=40536960) - [Vista Equity writes off PluralSight value, after $3.5B buyout](https://www.axios.com/2024/05/31/vista-equity-pluralsight)
+* [2024-05-31, 16:07:24](https://news.ycombinator.com/item?id=40536860) - [Man scammed after AI told him fake Facebook customer support number was real](https://www.cbc.ca/news/canada/manitoba/facebook-customer-support-scam-1.7219581)
 * [2024-05-31, 15:46:29](https://news.ycombinator.com/item?id=40536626) - [Teacher Pay and per Student Spending](https://www.nea.org/resource-library/educator-pay-and-student-spending-how-does-your-state-rank/teacher)
 * [2024-05-31, 15:30:00](https://news.ycombinator.com/item?id=40536436) - [How to Copy a File From a 30-year-old Laptop](https://www.unterminated.com/random-fun/how-to-copy-a-file-from-a-30-year-old-laptop)
 * [2024-05-31, 15:27:33](https://news.ycombinator.com/item?id=40536400) - [IRS Direct File to open to all 50 states and D.C. for 2025 tax season](https://www.axios.com/2024/05/30/irs-taxes-direct-file-free-program)
@@ -24,7 +25,6 @@
 * [2024-05-30, 16:46:17](https://news.ycombinator.com/item?id=40525802) - [Unexpected anti-patterns for engineering leaders](https://review.firstround.com/unexpected-anti-patterns-for-engineering-leaders-lessons-from-stripe-uber-carta/)
 * [2024-05-30, 15:52:29](https://news.ycombinator.com/item?id=40525130) - [The Pumpkin Eclipse](https://blog.lumen.com/the-pumpkin-eclipse/)
 * [2024-05-30, 15:45:54](https://news.ycombinator.com/item?id=40525064) - [Don't DRY Your Code Prematurely](https://testing.googleblog.com/2024/05/dont-dry-your-code-prematurely.html)
-* [2024-05-30, 15:17:39](https://news.ycombinator.com/item?id=40524759) - [Better RAG Results with Reciprocal Rank Fusion and Hybrid Search](https://www.assembled.com/blog/better-rag-results-with-reciprocal-rank-fusion-and-hybrid-search)
 * [2024-05-30, 10:25:11](https://news.ycombinator.com/item?id=40522071) - [Geometry for Entertainment (1950)](https://archive.org/details/yakov-perelman-geometry-for-entertainment-mir-titles-2024)
 * [2024-05-30, 03:28:39](https://news.ycombinator.com/item?id=40519797) - [Surviving History: The Fever (2014)](http://theappendix.net/special/the-fever/)
 * [2024-05-29, 23:54:47](https://news.ycombinator.com/item?id=40518555) - [The Elusive Byzantine Empire (2019)](https://www.historytoday.com/miscellanies/elusive-byzantine-empire)
