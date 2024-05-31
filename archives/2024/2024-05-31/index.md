@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-31](index.md)
 
 * [2024-05-31, 15:30:00](https://news.ycombinator.com/item?id=40536436) - [How to Copy a File From a 30-year-old Laptop](https://www.unterminated.com/random-fun/how-to-copy-a-file-from-a-30-year-old-laptop)
+* [2024-05-31, 15:27:33](https://news.ycombinator.com/item?id=40536400) - [IRS Direct File to open to all 50 states and D.C. for 2025 tax season](https://www.axios.com/2024/05/30/irs-taxes-direct-file-free-program)
 * [2024-05-31, 15:05:15](https://news.ycombinator.com/item?id=40536120) - [Supersharers of Fake News on Twitter](https://www.science.org/doi/10.1126/science.adl4435)
 * [2024-05-31, 14:54:00](https://news.ycombinator.com/item?id=40535989) - [Data allegedly stolen from 560M Ticketmaster users](https://www.bbc.com/news/articles/c899pz84d8zo)
 * [2024-05-31, 14:47:21](https://news.ycombinator.com/item?id=40535912) - [Civil society in Latvia, Lithuania, and Poland targeted with Pegasus spyware](https://www.accessnow.org/publication/civil-society-in-exile-pegasus/)

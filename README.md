@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-05-31, 15:30:00](https://news.ycombinator.com/item?id=40536436) - [How to Copy a File From a 30-year-old Laptop](https://www.unterminated.com/random-fun/how-to-copy-a-file-from-a-30-year-old-laptop)
+* [2024-05-31, 15:27:33](https://news.ycombinator.com/item?id=40536400) - [IRS Direct File to open to all 50 states and D.C. for 2025 tax season](https://www.axios.com/2024/05/30/irs-taxes-direct-file-free-program)
 * [2024-05-31, 14:54:00](https://news.ycombinator.com/item?id=40535989) - [Data allegedly stolen from 560M Ticketmaster users](https://www.bbc.com/news/articles/c899pz84d8zo)
 * [2024-05-31, 14:47:21](https://news.ycombinator.com/item?id=40535912) - [Civil society in Latvia, Lithuania, and Poland targeted with Pegasus spyware](https://www.accessnow.org/publication/civil-society-in-exile-pegasus/)
 * [2024-05-31, 14:45:55](https://news.ycombinator.com/item?id=40535895) - [Standard Ebooks' 1,000th title: Ulysses](https://standardebooks.org/ebooks/james-joyce/ulysses)
@@ -19,7 +20,6 @@
 * [2024-05-31, 02:27:32](https://news.ycombinator.com/item?id=40530884) - [Show HN: Explore Websites by Chosen Color](https://themefinder.io)
 * [2024-05-31, 01:46:00](https://news.ycombinator.com/item?id=40530670) - [Japan's push to make all research open access](https://www.nature.com/articles/d41586-024-01493-8)
 * [2024-05-30, 22:18:02](https://news.ycombinator.com/item?id=40529355) - [“Imprecise” language models are smaller, speedier, and nearly as accurate](https://spectrum.ieee.org/1-bit-llm)
-* [2024-05-30, 21:01:37](https://news.ycombinator.com/item?id=40528680) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2024-05-30, 16:46:17](https://news.ycombinator.com/item?id=40525802) - [Unexpected anti-patterns for engineering leaders](https://review.firstround.com/unexpected-anti-patterns-for-engineering-leaders-lessons-from-stripe-uber-carta/)
 * [2024-05-30, 15:52:29](https://news.ycombinator.com/item?id=40525130) - [The Pumpkin Eclipse](https://blog.lumen.com/the-pumpkin-eclipse/)
 * [2024-05-30, 15:45:54](https://news.ycombinator.com/item?id=40525064) - [Don't DRY Your Code Prematurely](https://testing.googleblog.com/2024/05/dont-dry-your-code-prematurely.html)
