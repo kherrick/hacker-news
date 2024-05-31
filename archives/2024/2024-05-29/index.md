@@ -16,6 +16,7 @@
 * [2024-05-29, 21:01:36](https://news.ycombinator.com/item?id=40516983) - [The Pen Hospital in Kolkata will nurse your broken fountain pen back](https://www.vogue.in/content/pen-hospital-in-kolkata-will-nurse-your-broken-fountain-pen-back-to-health)
 * [2024-05-29, 21:00:09](https://news.ycombinator.com/item?id=40516963) - [Tesorio (YC S15) Is Hiring – 100% Remote](https://www.tesorio.com/careers#job-openings)
 * [2024-05-29, 20:57:26](https://news.ycombinator.com/item?id=40516945) - [They Tried to Fire Sam Altman Because He Sucks](https://www.todayintabs.com/p/tried-fire-sam-altman-sucks)
+* [2024-05-29, 20:39:31](https://news.ycombinator.com/item?id=40516763) - [A stop-motion video of an engine](https://www.howacarworks.com/engine)
 * [2024-05-29, 20:34:15](https://news.ycombinator.com/item?id=40516706) - [Toxoplasma Gondii significantly alters wolf behavior](https://www.sciencealert.com/something-strange-happens-to-wolves-infected-by-an-infamous-mind-altering-parasite)
 * [2024-05-29, 20:34:07](https://news.ycombinator.com/item?id=40516705) - [Stellantis CEO confirms $25k Jeep EV](https://www.teslarati.com/jeep-stellantis-ceo-25-k-ev/)
 * [2024-05-29, 20:19:56](https://news.ycombinator.com/item?id=40516532) - [How Waymo outlasted the competition and made robo-taxis a real business](https://fortune.com/2024/05/29/waymo-self-driving-robo-taxi-uber-tesla-alphabet/)
