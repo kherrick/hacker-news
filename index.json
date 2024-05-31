@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-05-31, 17:42:03",
-      "https://news.ycombinator.com/item?id=40538089"
+      "2024-05-31, 18:02:31",
+      "https://news.ycombinator.com/item?id=40538375"
     ],
     [
-      "Climate Change Added 26 Days of Extreme Heat over the Last Year",
-      "https://e360.yale.edu/digest/extreme-heat-report-2024"
+      "The Case Against Gmail",
+      "https://www.migadu.com/blog/gmail/"
     ]
   ],
   [
@@ -21,12 +21,32 @@
   ],
   [
     [
+      "2024-05-31, 17:26:46",
+      "https://news.ycombinator.com/item?id=40537911"
+    ],
+    [
+      "Bento: Open-source fork of the project formerly known as Benthos",
+      "https://www.warpstream.com/blog/announcing-bento-the-open-source-fork-of-the-project-formerly-known-as-benthos"
+    ]
+  ],
+  [
+    [
       "2024-05-31, 17:00:22",
       "https://news.ycombinator.com/item?id=40537533"
     ],
     [
       "OneText (YC W23) Is Hiring a Lead UX Engineer",
       "https://gist.github.com/bluepnume/33f2c4be93cc20215aafd55f803de19f"
+    ]
+  ],
+  [
+    [
+      "2024-05-31, 16:59:33",
+      "https://news.ycombinator.com/item?id=40537523"
+    ],
+    [
+      "DataFusion Comet: Apache Spark Accelerator",
+      "https://github.com/apache/datafusion-comet"
     ]
   ],
   [
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=40537311"
     ],
     [
-      "Sam Altman-Backed Nuclear Startup Signs Major Data Center Contract",
+      "Sam Altman-backed nuclear startup signs major data center contract",
       "https://oilprice.com/Alternative-Energy/Nuclear-Power/Sam-Altman-Backed-Nuclear-Startup-Signs-Major-Data-Center-Contract.html"
     ]
   ],
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2024-05-31, 16:06:01",
-      "https://news.ycombinator.com/item?id=40536846"
-    ],
-    [
-      "All Santander staff and 30M customers in Spain, Chile and Uruguay hacked",
-      "https://www.bbc.com/news/articles/c6ppv06e3n8o"
-    ]
-  ],
-  [
-    [
       "2024-05-31, 15:30:00",
       "https://news.ycombinator.com/item?id=40536436"
     ],
@@ -117,16 +127,6 @@
     [
       "IRS Direct File to open to all 50 states and D.C. for 2025 tax season",
       "https://www.axios.com/2024/05/30/irs-taxes-direct-file-free-program"
-    ]
-  ],
-  [
-    [
-      "2024-05-31, 14:54:00",
-      "https://news.ycombinator.com/item?id=40535989"
-    ],
-    [
-      "Data allegedly stolen from 560M Ticketmaster users",
-      "https://www.bbc.com/news/articles/c899pz84d8zo"
     ]
   ],
   [
@@ -155,18 +155,8 @@
       "https://news.ycombinator.com/item?id=40535876"
     ],
     [
-      "Why does searching Google for random hex almost always lead to car dealers?",
+      "Why does searching Google for random hex lead to car dealers? [video]",
       "https://tmp.tonybox.net/hexgoog.mp4"
-    ]
-  ],
-  [
-    [
-      "2024-05-31, 13:45:45",
-      "https://news.ycombinator.com/item?id=40535077"
-    ],
-    [
-      "Show HN: CommitAsync – $100K+ dev jobs 100% remote only",
-      "https://www.commitasync.com/"
     ]
   ],
   [
@@ -185,7 +175,7 @@
       "https://news.ycombinator.com/item?id=40533761"
     ],
     [
-      "Intel's Anti-Upgrade Tricks Defeated with Kapton Tape",
+      "Intel's anti-upgrade tricks defeated with Kapton tape",
       "https://hackaday.com/2024/05/31/intels-anti-upgrade-tricks-defeated-with-kapton-tape/"
     ]
   ],
@@ -205,18 +195,28 @@
       "https://news.ycombinator.com/item?id=40532771"
     ],
     [
-      "Superconducting Computer",
+      "Superconducting Computer: Imec's plan to shrink datacenters",
       "https://spectrum.ieee.org/superconducting-computer"
     ]
   ],
   [
     [
-      "2024-05-31, 05:09:24",
-      "https://news.ycombinator.com/item?id=40531699"
+      "2024-05-31, 05:30:59",
+      "https://news.ycombinator.com/item?id=40531807"
     ],
     [
-      "Every mountain, building and tree shadow in the world simulated for any time",
-      "https://shademap.app"
+      "Show HN: Wadzilla. Play DOOM in Zork",
+      "https://github.com/scottvr/wadzilla/wiki"
+    ]
+  ],
+  [
+    [
+      "2024-05-31, 03:58:25",
+      "https://news.ycombinator.com/item?id=40531347"
+    ],
+    [
+      "How to Think Like a Computer Scientist: Interactive Edition",
+      "https://levjj.github.io/thinkcspy/"
     ]
   ],
   [
@@ -261,12 +261,22 @@
   ],
   [
     [
-      "2024-05-30, 19:45:39",
-      "https://news.ycombinator.com/item?id=40527844"
+      "2024-05-30, 20:10:28",
+      "https://news.ycombinator.com/item?id=40528045"
     ],
     [
-      "Analysis of Greek prehistoric combat in full body armour based on physiology",
-      "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0301494"
+      "Show HN: Every mountain, building and tree shadow mapped for any date and time",
+      "https://shademap.app"
+    ]
+  ],
+  [
+    [
+      "2024-05-30, 16:46:17",
+      "https://news.ycombinator.com/item?id=40525802"
+    ],
+    [
+      "Unexpected anti-patterns for engineering leaders",
+      "https://review.firstround.com/unexpected-anti-patterns-for-engineering-leaders-lessons-from-stripe-uber-carta/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Spots, stripes and more: Working out the logic of animal patterns",
       "https://knowablemagazine.org/content/article/living-world/2024/animal-patterns-spots-stripes-explained-turing-mechanism"
-    ]
-  ],
-  [
-    [
-      "2024-05-29, 20:39:31",
-      "https://news.ycombinator.com/item?id=40516763"
-    ],
-    [
-      "A stop-motion video of an engine",
-      "https://www.howacarworks.com/engine"
     ]
   ]
 ]
