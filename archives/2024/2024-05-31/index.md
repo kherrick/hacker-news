@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-31](index.md)
 
 * [2024-05-31, 20:15:11](https://news.ycombinator.com/item?id=40539720) - [Spain fines budget airlines €150M over 'abusive' cabin bag and seat charges](https://www.theguardian.com/business/article/2024/may/31/spain-fines-budget-airlines-abusive-cabin-bag-seat-charges-easyjet-ryanair)
+* [2024-05-31, 19:59:15](https://news.ycombinator.com/item?id=40539575) - [Can confirm Indeed is selling user information](https://old.reddit.com/r/recruitinghell/comments/11nsi47/can_confirm_indeed_is_selling_user_information/)
 * [2024-05-31, 19:22:41](https://news.ycombinator.com/item?id=40539223) - [NixOS 24.05 \"Uakari\" Released](https://nixos.org/blog/announcements/2024/nixos-2405/)
 * [2024-05-31, 19:17:20](https://news.ycombinator.com/item?id=40539172) - [Heroku Postgres is now based on AWS Aurora](https://blog.heroku.com/heroku-postgres-essential-launch)
 * [2024-05-31, 19:02:53](https://news.ycombinator.com/item?id=40539031) - [De-Googling, So Far](https://blog.nradk.com/posts/degoogling/)
