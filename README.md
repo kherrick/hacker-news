@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-31, 10:11:14](https://news.ycombinator.com/item?id=40533208) - [FatFIRE](https://old.reddit.com/r/fatFIRE/)
 * [2024-05-31, 10:01:03](https://news.ycombinator.com/item?id=40533158) - [Deno 1.44](https://deno.com/blog/v1.44)
+* [2024-05-31, 09:10:18](https://news.ycombinator.com/item?id=40532869) - [I created the largest curated directory of cybersecurity tools and resources](https://cybersectools.com)
 * [2024-05-31, 08:57:59](https://news.ycombinator.com/item?id=40532806) - [Google scales back AI search answers after it told users to eat glue](https://www.washingtonpost.com/technology/2024/05/30/google-halt-ai-search/)
 * [2024-05-31, 08:03:04](https://news.ycombinator.com/item?id=40532515) - [Orion – From idea to launch in 45 days](https://www.lux.camera/orion-from-idea-to-launch-in-45-days/)
 * [2024-05-31, 07:21:27](https://news.ycombinator.com/item?id=40532314) - [EU countries must implement right to repair laws within two years](https://www.consilium.europa.eu/en/press/press-releases/2024/05/30/circular-economy-council-gives-final-approval-to-right-to-repair-directive/)
@@ -19,7 +21,6 @@
 * [2024-05-30, 23:59:47](https://news.ycombinator.com/item?id=40530130) - [Steam's Last Stand](https://technicshistory.com/2024/05/30/coda-steams-last-stand/)
 * [2024-05-30, 22:18:02](https://news.ycombinator.com/item?id=40529355) - [“Imprecise” language models are smaller, speedier, and nearly as accurate](https://spectrum.ieee.org/1-bit-llm)
 * [2024-05-30, 21:56:10](https://news.ycombinator.com/item?id=40529160) - [The Genius of Ella Fitzgerald](https://www.thenation.com/article/culture/ella-fitzgerald-judith-tick-biography/)
-* [2024-05-30, 21:16:17](https://news.ycombinator.com/item?id=40528808) - [Asqi: A codebase explorer designed to help navigate and understand Git projects](https://dev.asqi.io/)
 * [2024-05-30, 21:01:37](https://news.ycombinator.com/item?id=40528680) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2024-05-30, 16:46:17](https://news.ycombinator.com/item?id=40525802) - [Unexpected anti-patterns for engineering leaders](https://review.firstround.com/unexpected-anti-patterns-for-engineering-leaders-lessons-from-stripe-uber-carta/)
 * [2024-05-30, 15:52:29](https://news.ycombinator.com/item?id=40525130) - [The Pumpkin Eclipse](https://blog.lumen.com/the-pumpkin-eclipse/)
@@ -29,7 +30,6 @@
 * [2024-05-30, 03:28:39](https://news.ycombinator.com/item?id=40519797) - [Surviving History: The Fever (2014)](http://theappendix.net/special/the-fever/)
 * [2024-05-29, 23:54:47](https://news.ycombinator.com/item?id=40518555) - [The Elusive Byzantine Empire (2019)](https://www.historytoday.com/miscellanies/elusive-byzantine-empire)
 * [2024-05-29, 23:50:24](https://news.ycombinator.com/item?id=40518516) - [Spots, stripes and more: Working out the logic of animal patterns](https://knowablemagazine.org/content/article/living-world/2024/animal-patterns-spots-stripes-explained-turing-mechanism)
-* [2024-05-28, 23:00:43](https://news.ycombinator.com/item?id=40506495) - [MP944: The First Microprocessor (2014)](https://firstmicroprocessor.com/)
 
 ## [Archives](archives/index.md)
 

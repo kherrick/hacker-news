@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-05-31](index.md)
 
+* [2024-05-31, 10:11:14](https://news.ycombinator.com/item?id=40533208) - [FatFIRE](https://old.reddit.com/r/fatFIRE/)
 * [2024-05-31, 10:01:03](https://news.ycombinator.com/item?id=40533158) - [Deno 1.44](https://deno.com/blog/v1.44)
 * [2024-05-31, 09:18:52](https://news.ycombinator.com/item?id=40532917) - [Maybe This Is Too Cool](https://radarblog.substack.com/p/maybe-this-is-too-cool)
+* [2024-05-31, 09:10:18](https://news.ycombinator.com/item?id=40532869) - [I created the largest curated directory of cybersecurity tools and resources](https://cybersectools.com)
 * [2024-05-31, 08:57:59](https://news.ycombinator.com/item?id=40532806) - [Google scales back AI search answers after it told users to eat glue](https://www.washingtonpost.com/technology/2024/05/30/google-halt-ai-search/)
 * [2024-05-31, 08:03:04](https://news.ycombinator.com/item?id=40532515) - [Orion – From idea to launch in 45 days](https://www.lux.camera/orion-from-idea-to-launch-in-45-days/)
 * [2024-05-31, 07:31:06](https://news.ycombinator.com/item?id=40532365) - [Manifest V2 phase-out begins](https://blog.chromium.org/2024/05/manifest-v2-phase-out-begins.html)
