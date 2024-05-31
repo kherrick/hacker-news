@@ -23,6 +23,7 @@
 * [2024-05-30, 20:24:05](https://news.ycombinator.com/item?id=40528192) - [Ask HN: I have many PDFs – what is the best local way to leverage AI for search?](https://news.ycombinator.com/item?id=40528192)
 * [2024-05-30, 20:17:28](https://news.ycombinator.com/item?id=40528117) - [I connected Windows XP to the Internet; it was fine](https://news.ycombinator.com/item?id=40528117)
 * [2024-05-30, 20:14:21](https://news.ycombinator.com/item?id=40528079) - [The United States Munitions List](https://www.ecfr.gov/current/title-22/chapter-I/subchapter-M/part-121)
+* [2024-05-30, 20:10:28](https://news.ycombinator.com/item?id=40528045) - [Show HN: Every mountain, building and tree shadow mapped for any date and time](https://shademap.app)
 * [2024-05-30, 19:59:08](https://news.ycombinator.com/item?id=40527944) - [NPGA: Neural Parametric Gaussian Avatars – high-fidelity digital faces](https://arxiv.org/abs/2405.19331)
 * [2024-05-30, 19:52:25](https://news.ycombinator.com/item?id=40527904) - [Windows 11 disabled all ways to get around Auto Restarts. Is there a workaround?](https://superuser.com/questions/1843873/windows-11-seems-to-have-disabled-all-ways-to-get-around-auto-update-restarts-i)
 * [2024-05-30, 19:47:29](https://news.ycombinator.com/item?id=40527859) - [GCP error erases $135B pension fund](https://www.axios.com/2024/05/30/google-cloud-pension-error)
