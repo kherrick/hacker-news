@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-31, 03:18:38](https://news.ycombinator.com/item?id=40531157) - [The Neuralink compression challenge seems impossible](https://news.ycombinator.com/item?id=40531157)
+* [2024-05-31, 02:19:20](https://news.ycombinator.com/item?id=40530833) - [AI Overviews: About last week](https://blog.google/products/search/ai-overviews-update-may-2024/)
 * [2024-05-31, 02:01:12](https://news.ycombinator.com/item?id=40530742) - [All of Microsoft's MacBook Air-beating benchmarks](https://www.theverge.com/2024/5/30/24167745/microsoft-macbook-air-benchmarks-surface-laptop-copilot-plus-pc)
 * [2024-05-31, 01:57:25](https://news.ycombinator.com/item?id=40530719) - [Ask HN: How to transcribe 1000s of handwritten notes](https://news.ycombinator.com/item?id=40530719)
 * [2024-05-31, 01:46:00](https://news.ycombinator.com/item?id=40530670) - [Japan's push to make all research open access](https://www.nature.com/articles/d41586-024-01493-8)
@@ -11,10 +13,8 @@
 * [2024-05-30, 21:01:37](https://news.ycombinator.com/item?id=40528680) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2024-05-30, 20:24:05](https://news.ycombinator.com/item?id=40528192) - [Ask HN: I have many PDFs – what is the best local way to leverage AI for search?](https://news.ycombinator.com/item?id=40528192)
 * [2024-05-30, 19:59:08](https://news.ycombinator.com/item?id=40527944) - [NPGA: Neural Parametric Gaussian Avatars – high-fidelity digital faces](https://arxiv.org/abs/2405.19331)
-* [2024-05-30, 19:16:03](https://news.ycombinator.com/item?id=40527578) - [NeVerMore: Exploiting RDMA Mistakes in NVMe-Of Storage Applications (2022)](https://arxiv.org/abs/2202.08080)
 * [2024-05-30, 19:02:46](https://news.ycombinator.com/item?id=40527435) - [Transmission of Mental Disorders in Adolescent Peer Networks](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2818735)
 * [2024-05-30, 18:43:32](https://news.ycombinator.com/item?id=40527242) - ['Smart' antibiotic can kill deadly bacteria while sparing the microbiome](https://www.nature.com/articles/d41586-024-01566-8)
-* [2024-05-30, 17:40:16](https://news.ycombinator.com/item?id=40526488) - [James Webb Space Telescope Finds Most Distant Known Galaxy](https://blogs.nasa.gov/webb/2024/05/30/nasas-james-webb-space-telescope-finds-most-distant-known-galaxy/)
 * [2024-05-30, 16:46:17](https://news.ycombinator.com/item?id=40525802) - [Unexpected anti-patterns for engineering leaders](https://review.firstround.com/unexpected-anti-patterns-for-engineering-leaders-lessons-from-stripe-uber-carta/)
 * [2024-05-30, 15:52:29](https://news.ycombinator.com/item?id=40525130) - [The Pumpkin Eclipse](https://blog.lumen.com/the-pumpkin-eclipse/)
 * [2024-05-30, 15:45:54](https://news.ycombinator.com/item?id=40525064) - [Don't DRY Your Code Prematurely](https://testing.googleblog.com/2024/05/dont-dry-your-code-prematurely.html)
