@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-31](index.md)
 
+* [2024-05-31, 17:42:03](https://news.ycombinator.com/item?id=40538089) - [Climate Change Added 26 Days of Extreme Heat over the Last Year](https://e360.yale.edu/digest/extreme-heat-report-2024)
 * [2024-05-31, 17:36:04](https://news.ycombinator.com/item?id=40538019) - [AI legal research products hallucinate 17-33% of the time](https://hai.stanford.edu/news/ai-trial-legal-models-hallucinate-1-out-6-or-more-benchmarking-queries)
 * [2024-05-31, 17:00:22](https://news.ycombinator.com/item?id=40537533) - [OneText (YC W23) Is Hiring a Lead UX Engineer](https://gist.github.com/bluepnume/33f2c4be93cc20215aafd55f803de19f)
 * [2024-05-31, 16:51:50](https://news.ycombinator.com/item?id=40537398) - [Testing Sync at Dropbox](https://dropbox.tech/infrastructure/-testing-our-new-sync-engine)

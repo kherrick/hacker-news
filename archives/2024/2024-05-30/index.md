@@ -77,6 +77,7 @@
 * [2024-05-30, 13:17:08](https://news.ycombinator.com/item?id=40523327) - [Amazon planning large data center next to nuclear power station in Pennsylvania](https://www.datacenterdynamics.com/en/news/aws-granted-1600-acre-rezoning-request-plans-15-building-campus-at-pennsylvania-nuclear-site/)
 * [2024-05-30, 13:15:02](https://news.ycombinator.com/item?id=40523311) - [AMD and Intel Team Up for Open Alternative to Nvidia's NVLink](https://www.phoronix.com/news/Ultra-Accelerator-Link-UALink)
 * [2024-05-30, 12:50:37](https://news.ycombinator.com/item?id=40523047) - [How I run a software book club](https://notes.eatonphil.com/2025-05-30-how-i-run-book-clubs.html)
+* [2024-05-30, 12:34:58](https://news.ycombinator.com/item?id=40522939) - [Armor from Mycenaean Greece turns out to have been effective](https://arstechnica.com/science/2024/05/researchers-get-modern-marines-to-test-ancient-greek-armor/)
 * [2024-05-30, 12:34:38](https://news.ycombinator.com/item?id=40522936) - [EU doubles down on penalising privacy-friendly and encrypted messaging services](https://www.patrick-breyer.de/en/leak-eu-governments-double-down-on-penalising-privacy-friendly-and-encrypted-messaging-services-with-chat-control-bulk-scanning-orders/)
 * [2024-05-30, 12:22:35](https://news.ycombinator.com/item?id=40522844) - [Show HN: ChatGPT UI for Rabbit Holes](https://delve.a9.io/)
 * [2024-05-30, 11:44:48](https://news.ycombinator.com/item?id=40522577) - [SBCL: New in Version 2.4.5](http://sbcl.org/all-news.html?2.4.5#2.4.5)
