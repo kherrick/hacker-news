@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-31, 20:59:41](https://news.ycombinator.com/item?id=40540172) - [Cyber house of cards – Politicians' personal details exposed online](https://proton.me/blog/politicians-exposed-dark-web)
 * [2024-05-31, 20:15:11](https://news.ycombinator.com/item?id=40539720) - [Spain fines budget airlines €150M over 'abusive' cabin bag and seat charges](https://www.theguardian.com/business/article/2024/may/31/spain-fines-budget-airlines-abusive-cabin-bag-seat-charges-easyjet-ryanair)
 * [2024-05-31, 19:59:15](https://news.ycombinator.com/item?id=40539575) - [Can confirm Indeed is selling user information](https://old.reddit.com/r/recruitinghell/comments/11nsi47/can_confirm_indeed_is_selling_user_information/)
 * [2024-05-31, 19:17:20](https://news.ycombinator.com/item?id=40539172) - [Heroku Postgres is now based on AWS Aurora](https://blog.heroku.com/heroku-postgres-essential-launch)
@@ -21,7 +22,6 @@
 * [2024-05-31, 14:12:32](https://news.ycombinator.com/item?id=40535436) - [Carpenter's AirTags help uncover 'massive' case of stolen tools in Maryland](https://www.washingtonpost.com/dc-md-va/2024/05/31/police-theft-thousands-power-tools/)
 * [2024-05-31, 13:28:08](https://news.ycombinator.com/item?id=40534868) - [Snowflake breach: Hacker confirms access through infostealer infection](https://www.hudsonrock.com/blog/snowflake-massive-breach-access-through-infostealer-infection)
 * [2024-05-31, 13:06:14](https://news.ycombinator.com/item?id=40534665) - [Spotify won't open-source Car Thing, but starts refund process](https://arstechnica.com/gadgets/2024/05/spotify-wont-open-source-car-thing-but-starts-refund-process/)
-* [2024-05-31, 11:37:29](https://news.ycombinator.com/item?id=40533761) - [Intel's anti-upgrade tricks defeated with Kapton tape](https://hackaday.com/2024/05/31/intels-anti-upgrade-tricks-defeated-with-kapton-tape/)
 * [2024-05-31, 10:32:27](https://news.ycombinator.com/item?id=40533319) - [Debian KDE: Right Linux distribution for professional digital painting in 2024](https://www.davidrevoy.com/article1030/debian-12-kde-plasma-2024-install-guide)
 * [2024-05-31, 08:51:16](https://news.ycombinator.com/item?id=40532771) - [Superconducting Computer: Imec's plan to shrink datacenters](https://spectrum.ieee.org/superconducting-computer)
 * [2024-05-31, 03:06:05](https://news.ycombinator.com/item?id=40531100) - [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
