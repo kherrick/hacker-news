@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-31, 11:28:23](https://news.ycombinator.com/item?id=40533696) - [Yemen strikes USS Eisenhower with missiles in response to bombings](https://www.reuters.com/world/middle-east/yemens-houthis-say-they-launched-missile-attack-us-aircraft-carrier-eisenhower-2024-05-31/)
 * [2024-05-31, 11:18:51](https://news.ycombinator.com/item?id=40533622) - [25 Years of Krita](https://krita.org/en/posts/2024/krita-25-years/)
 * [2024-05-31, 10:45:29](https://news.ycombinator.com/item?id=40533396) - [Apple Silicon MacBook batteries can't be replaced under warranty by third party](https://lapcatsoftware.com/articles/2024/5/7.html)
 * [2024-05-31, 09:10:18](https://news.ycombinator.com/item?id=40532869) - [I created the largest curated directory of cybersecurity tools and resources](https://cybersectools.com)
@@ -28,7 +29,6 @@
 * [2024-05-30, 03:28:39](https://news.ycombinator.com/item?id=40519797) - [Surviving History: The Fever (2014)](http://theappendix.net/special/the-fever/)
 * [2024-05-29, 23:54:47](https://news.ycombinator.com/item?id=40518555) - [The Elusive Byzantine Empire (2019)](https://www.historytoday.com/miscellanies/elusive-byzantine-empire)
 * [2024-05-29, 23:50:24](https://news.ycombinator.com/item?id=40518516) - [Spots, stripes and more: Working out the logic of animal patterns](https://knowablemagazine.org/content/article/living-world/2024/animal-patterns-spots-stripes-explained-turing-mechanism)
-* [2024-05-29, 03:50:58](https://news.ycombinator.com/item?id=40508268) - [The Special Challenges of Attempting a New Translation of Kafka](https://lithub.com/the-special-challenges-of-attempting-a-new-translation-of-kafka/)
 * [2024-05-28, 23:00:43](https://news.ycombinator.com/item?id=40506495) - [MP944: The First Microprocessor (2014)](https://firstmicroprocessor.com/)
 
 ## [Archives](archives/index.md)
