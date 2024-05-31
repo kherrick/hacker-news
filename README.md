@@ -17,6 +17,7 @@
 * [2024-05-31, 14:45:55](https://news.ycombinator.com/item?id=40535895) - [Standard Ebooks' 1,000th title: Ulysses](https://standardebooks.org/ebooks/james-joyce/ulysses)
 * [2024-05-31, 14:44:09](https://news.ycombinator.com/item?id=40535876) - [Why does searching Google for random hex lead to car dealers? [video]](https://tmp.tonybox.net/hexgoog.mp4)
 * [2024-05-31, 13:28:08](https://news.ycombinator.com/item?id=40534868) - [Snowflake breach: Hacker confirms access through infostealer infection](https://www.hudsonrock.com/blog/snowflake-massive-breach-access-through-infostealer-infection)
+* [2024-05-31, 13:06:14](https://news.ycombinator.com/item?id=40534665) - [Spotify won't open-source Car Thing, but starts refund process](https://arstechnica.com/gadgets/2024/05/spotify-wont-open-source-car-thing-but-starts-refund-process/)
 * [2024-05-31, 11:37:29](https://news.ycombinator.com/item?id=40533761) - [Intel's anti-upgrade tricks defeated with Kapton tape](https://hackaday.com/2024/05/31/intels-anti-upgrade-tricks-defeated-with-kapton-tape/)
 * [2024-05-31, 10:32:27](https://news.ycombinator.com/item?id=40533319) - [Debian KDE: Right Linux distribution for professional digital painting in 2024](https://www.davidrevoy.com/article1030/debian-12-kde-plasma-2024-install-guide)
 * [2024-05-31, 08:51:16](https://news.ycombinator.com/item?id=40532771) - [Superconducting Computer: Imec's plan to shrink datacenters](https://spectrum.ieee.org/superconducting-computer)
@@ -27,7 +28,6 @@
 * [2024-05-31, 01:46:00](https://news.ycombinator.com/item?id=40530670) - [Japan's push to make all research open access](https://www.nature.com/articles/d41586-024-01493-8)
 * [2024-05-30, 22:18:02](https://news.ycombinator.com/item?id=40529355) - [“Imprecise” language models are smaller, speedier, and nearly as accurate](https://spectrum.ieee.org/1-bit-llm)
 * [2024-05-30, 20:10:28](https://news.ycombinator.com/item?id=40528045) - [Show HN: Every mountain, building and tree shadow mapped for any date and time](https://shademap.app)
-* [2024-05-30, 16:46:17](https://news.ycombinator.com/item?id=40525802) - [Unexpected anti-patterns for engineering leaders](https://review.firstround.com/unexpected-anti-patterns-for-engineering-leaders-lessons-from-stripe-uber-carta/)
 * [2024-05-30, 12:34:58](https://news.ycombinator.com/item?id=40522939) - [Armor from Mycenaean Greece turns out to have been effective](https://arstechnica.com/science/2024/05/researchers-get-modern-marines-to-test-ancient-greek-armor/)
 * [2024-05-29, 23:50:24](https://news.ycombinator.com/item?id=40518516) - [Spots, stripes and more: Working out the logic of animal patterns](https://knowablemagazine.org/content/article/living-world/2024/animal-patterns-spots-stripes-explained-turing-mechanism)
 
