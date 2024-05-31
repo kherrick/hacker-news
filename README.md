@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-31, 08:57:59](https://news.ycombinator.com/item?id=40532806) - [Google scales back AI search answers after it told users to eat glue](https://www.washingtonpost.com/technology/2024/05/30/google-halt-ai-search/)
 * [2024-05-31, 07:31:06](https://news.ycombinator.com/item?id=40532365) - [Manifest V2 phase-out begins](https://blog.chromium.org/2024/05/manifest-v2-phase-out-begins.html)
 * [2024-05-31, 07:21:27](https://news.ycombinator.com/item?id=40532314) - [EU countries must implement right to repair laws within two years](https://www.consilium.europa.eu/en/press/press-releases/2024/05/30/circular-economy-council-gives-final-approval-to-right-to-repair-directive/)
 * [2024-05-31, 06:23:53](https://news.ycombinator.com/item?id=40532058) - [Half-Ass It](https://everythingchanges.us/blog/half-ass-it/)
@@ -24,7 +25,6 @@
 * [2024-05-30, 15:17:39](https://news.ycombinator.com/item?id=40524759) - [Better RAG Results with Reciprocal Rank Fusion and Hybrid Search](https://www.assembled.com/blog/better-rag-results-with-reciprocal-rank-fusion-and-hybrid-search)
 * [2024-05-30, 12:50:37](https://news.ycombinator.com/item?id=40523047) - [I run a software book club](https://notes.eatonphil.com/2025-05-30-how-i-run-book-clubs.html)
 * [2024-05-30, 10:25:11](https://news.ycombinator.com/item?id=40522071) - [Geometry for Entertainment (1950)](https://archive.org/details/yakov-perelman-geometry-for-entertainment-mir-titles-2024)
-* [2024-05-30, 10:06:07](https://news.ycombinator.com/item?id=40521963) - [I love my wife. My wife is dead (1946)](https://lettersofnote.com/2012/02/15/i-love-my-wife-my-wife-is-dead/)
 * [2024-05-30, 03:28:39](https://news.ycombinator.com/item?id=40519797) - [Surviving History: The Fever (2014)](http://theappendix.net/special/the-fever/)
 * [2024-05-29, 23:54:47](https://news.ycombinator.com/item?id=40518555) - [The Elusive Byzantine Empire (2019)](https://www.historytoday.com/miscellanies/elusive-byzantine-empire)
 * [2024-05-29, 23:50:24](https://news.ycombinator.com/item?id=40518516) - [Spots, stripes and more: Working out the logic of animal patterns](https://knowablemagazine.org/content/article/living-world/2024/animal-patterns-spots-stripes-explained-turing-mechanism)
