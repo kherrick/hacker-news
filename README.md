@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-31, 19:17:20](https://news.ycombinator.com/item?id=40539172) - [Heroku Postgres is now based on AWS Aurora](https://blog.heroku.com/heroku-postgres-essential-launch)
 * [2024-05-31, 19:02:53](https://news.ycombinator.com/item?id=40539031) - [De-googling, so far](https://blog.nradk.com/posts/degoogling/)
 * [2024-05-31, 17:36:04](https://news.ycombinator.com/item?id=40538019) - [Legal models hallucinate in 1 out of 6 (or more) benchmarking queries](https://hai.stanford.edu/news/ai-trial-legal-models-hallucinate-1-out-6-or-more-benchmarking-queries)
 * [2024-05-31, 17:26:46](https://news.ycombinator.com/item?id=40537911) - [Bento: Open-source fork of the project formerly known as Benthos](https://www.warpstream.com/blog/announcing-bento-the-open-source-fork-of-the-project-formerly-known-as-benthos)
@@ -7,7 +8,6 @@
 * [2024-05-31, 16:59:33](https://news.ycombinator.com/item?id=40537523) - [DataFusion Comet: Apache Spark Accelerator](https://github.com/apache/datafusion-comet)
 * [2024-05-31, 16:57:48](https://news.ycombinator.com/item?id=40537502) - [How many holes does the universe have?](https://www.scientificamerican.com/article/how-many-holes-does-the-universe-have/)
 * [2024-05-31, 16:51:50](https://news.ycombinator.com/item?id=40537398) - [Testing sync at Dropbox (2020)](https://dropbox.tech/infrastructure/-testing-our-new-sync-engine)
-* [2024-05-31, 16:45:02](https://news.ycombinator.com/item?id=40537311) - [Sam Altman-backed nuclear startup signs major data center contract](https://oilprice.com/Alternative-Energy/Nuclear-Power/Sam-Altman-Backed-Nuclear-Startup-Signs-Major-Data-Center-Contract.html)
 * [2024-05-31, 16:34:06](https://news.ycombinator.com/item?id=40537187) - [Eye exercises for myopia prevention and control: comprehensive systematic review](https://www.nature.com/articles/s41433-023-02739-x)
 * [2024-05-31, 16:29:26](https://news.ycombinator.com/item?id=40537134) - [Small modular reactors: Still too expensive, too slow, and too risky [pdf]](https://apo.org.au/sites/default/files/resource-files/2024-05/apo-nid326992.pdf)
 * [2024-05-31, 16:21:45](https://news.ycombinator.com/item?id=40537026) - [Trial results for new lung cancer drug are 'off the charts'](https://www.theguardian.com/society/article/2024/may/31/trial-results-for-new-lung-cancer-drug-are-off-the-charts-say-doctors)
