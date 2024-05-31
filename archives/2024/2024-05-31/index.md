@@ -38,6 +38,7 @@
 * [2024-05-31, 03:06:05](https://news.ycombinator.com/item?id=40531100) - [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
 * [2024-05-31, 02:47:52](https://news.ycombinator.com/item?id=40531010) - [How to parse config files with Bash](https://opensource.com/article/21/6/bash-config)
 * [2024-05-31, 02:46:54](https://news.ycombinator.com/item?id=40531003) - [The Scully Effect](https://theastoundinganalogcompanion.com/2018/08/21/the-scully-effect/)
+* [2024-05-31, 02:27:32](https://news.ycombinator.com/item?id=40530884) - [Show HN: Explore Websites by Chosen Color](https://themefinder.io)
 * [2024-05-31, 02:19:20](https://news.ycombinator.com/item?id=40530833) - [AI Overviews: About last week](https://blog.google/products/search/ai-overviews-update-may-2024/)
 * [2024-05-31, 02:01:12](https://news.ycombinator.com/item?id=40530742) - [All of Microsoft's MacBook Air-beating benchmarks](https://www.theverge.com/2024/5/30/24167745/microsoft-macbook-air-benchmarks-surface-laptop-copilot-plus-pc)
 * [2024-05-31, 01:57:25](https://news.ycombinator.com/item?id=40530719) - [Ask HN: How to transcribe 1000s of handwritten notes](https://news.ycombinator.com/item?id=40530719)
