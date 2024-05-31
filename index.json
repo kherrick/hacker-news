@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-05-31, 17:00:22",
+      "https://news.ycombinator.com/item?id=40537533"
+    ],
+    [
+      "OneText (YC W23) Is Hiring a Lead UX Engineer",
+      "https://gist.github.com/bluepnume/33f2c4be93cc20215aafd55f803de19f"
+    ]
+  ],
+  [
+    [
+      "2024-05-31, 16:51:50",
+      "https://news.ycombinator.com/item?id=40537398"
+    ],
+    [
+      "Testing Sync at Dropbox",
+      "https://dropbox.tech/infrastructure/-testing-our-new-sync-engine"
+    ]
+  ],
+  [
+    [
       "2024-05-31, 16:45:02",
       "https://news.ycombinator.com/item?id=40537311"
     ],
@@ -37,16 +57,6 @@
     [
       "Man scammed after AI told him fake Facebook customer support number was real",
       "https://www.cbc.ca/news/canada/manitoba/facebook-customer-support-scam-1.7219581"
-    ]
-  ],
-  [
-    [
-      "2024-05-31, 15:46:29",
-      "https://news.ycombinator.com/item?id=40536626"
-    ],
-    [
-      "Teacher Pay and per Student Spending",
-      "https://www.nea.org/resource-library/educator-pay-and-student-spending-how-does-your-state-rank/teacher"
     ]
   ],
   [
@@ -97,6 +107,16 @@
     [
       "Standard Ebooks' 1,000th title: Ulysses",
       "https://standardebooks.org/ebooks/james-joyce/ulysses"
+    ]
+  ],
+  [
+    [
+      "2024-05-31, 14:44:09",
+      "https://news.ycombinator.com/item?id=40535876"
+    ],
+    [
+      "Why does searching Google for random hex almost always lead to car dealers?",
+      "https://tmp.tonybox.net/hexgoog.mp4"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-05-31, 03:51:31",
-      "https://news.ycombinator.com/item?id=40531301"
-    ],
-    [
-      "Things you wish you didn't need to know about S3",
-      "https://blog.plerion.com/things-you-wish-you-didnt-need-to-know-about-s3/"
-    ]
-  ],
-  [
-    [
       "2024-05-31, 03:19:51",
       "https://news.ycombinator.com/item?id=40531165"
     ],
@@ -267,16 +277,6 @@
     [
       "Don't DRY Your Code Prematurely",
       "https://testing.googleblog.com/2024/05/dont-dry-your-code-prematurely.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-30, 10:25:11",
-      "https://news.ycombinator.com/item?id=40522071"
-    ],
-    [
-      "Geometry for Entertainment (1950)",
-      "https://archive.org/details/yakov-perelman-geometry-for-entertainment-mir-titles-2024"
     ]
   ],
   [
