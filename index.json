@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-05-31, 19:17:20",
+      "https://news.ycombinator.com/item?id=40539172"
+    ],
+    [
+      "Heroku Postgres is now based on AWS Aurora",
+      "https://blog.heroku.com/heroku-postgres-essential-launch"
+    ]
+  ],
+  [
+    [
       "2024-05-31, 19:02:53",
       "https://news.ycombinator.com/item?id=40539031"
     ],
@@ -67,16 +77,6 @@
     [
       "Testing sync at Dropbox (2020)",
       "https://dropbox.tech/infrastructure/-testing-our-new-sync-engine"
-    ]
-  ],
-  [
-    [
-      "2024-05-31, 16:45:02",
-      "https://news.ycombinator.com/item?id=40537311"
-    ],
-    [
-      "Sam Altman-backed nuclear startup signs major data center contract",
-      "https://oilprice.com/Alternative-Energy/Nuclear-Power/Sam-Altman-Backed-Nuclear-Startup-Signs-Major-Data-Center-Contract.html"
     ]
   ],
   [
