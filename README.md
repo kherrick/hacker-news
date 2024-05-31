@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-31, 04:21:36](https://news.ycombinator.com/item?id=40531477) - [Firefly forges on after co-founder murdered by Hamas](https://techcrunch.com/2024/05/29/after-co-founders-murder-at-the-hands-of-hamas-cloud-startup-firefly-raises-23m/)
 * [2024-05-31, 03:51:31](https://news.ycombinator.com/item?id=40531301) - [Things you wish you didn't need to know about S3](https://blog.plerion.com/things-you-wish-you-didnt-need-to-know-about-s3/)
 * [2024-05-31, 03:24:05](https://news.ycombinator.com/item?id=40531175) - ['It's better for humans in general': The 4-day workweek is closer than you think](https://www.marketwatch.com/amp/story/its-better-for-humans-in-general-the-four-day-workweek-is-closer-than-you-think-b85cc39e)
 * [2024-05-31, 03:19:51](https://news.ycombinator.com/item?id=40531165) - [YOLOv5 on FPGA with Hailo-8 and 4 Pi Cameras](https://www.fpgadeveloper.com/multi-camera-yolov5-on-zynq-ultrascale-with-hailo-8-ai-acceleration/)
@@ -26,6 +25,7 @@
 * [2024-05-30, 10:25:11](https://news.ycombinator.com/item?id=40522071) - [Geometry for Entertainment (1950)](https://archive.org/details/yakov-perelman-geometry-for-entertainment-mir-titles-2024)
 * [2024-05-30, 09:28:33](https://news.ycombinator.com/item?id=40521710) - [Show HN: I made a pixel art editor for Windows desktop](https://www.lightcube.art/)
 * [2024-05-30, 09:19:25](https://news.ycombinator.com/item?id=40521657) - [I got tired of hearing that YC fired Sam, so here's what actually happened](https://twitter.com/paulg/status/1796107666265108940)
+* [2024-05-30, 05:21:46](https://news.ycombinator.com/item?id=40520334) - [How actors remember their lines](https://thereader.mitpress.mit.edu/how-actors-remember-their-lines/)
 * [2024-05-30, 01:16:47](https://news.ycombinator.com/item?id=40519095) - [Testing a 1912-style Radio [video]](https://www.youtube.com/watch?v=U6ZVqr0fPo4)
 * [2024-05-29, 03:50:58](https://news.ycombinator.com/item?id=40508268) - [The Special Challenges of Attempting a New Translation of Kafka](https://lithub.com/the-special-challenges-of-attempting-a-new-translation-of-kafka/)
 * [2024-05-28, 23:00:43](https://news.ycombinator.com/item?id=40506495) - [MP944: The First Microprocessor (2014)](https://firstmicroprocessor.com/)
