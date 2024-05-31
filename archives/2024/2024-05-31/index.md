@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-31](index.md)
 
+* [2024-05-31, 21:09:44](https://news.ycombinator.com/item?id=40540280) - [Apple and OpenAI have signed a deal to partner on AI](https://arstechnica.com/gadgets/2024/05/report-apple-and-openai-have-signed-a-deal-to-partner-on-ai/)
 * [2024-05-31, 20:59:41](https://news.ycombinator.com/item?id=40540172) - [Cyber house of cards – Politicians' personal details exposed online](https://proton.me/blog/politicians-exposed-dark-web)
 * [2024-05-31, 20:15:11](https://news.ycombinator.com/item?id=40539720) - [Spain fines budget airlines €150M over 'abusive' cabin bag and seat charges](https://www.theguardian.com/business/article/2024/may/31/spain-fines-budget-airlines-abusive-cabin-bag-seat-charges-easyjet-ryanair)
 * [2024-05-31, 19:59:15](https://news.ycombinator.com/item?id=40539575) - [Can confirm Indeed is selling user information](https://old.reddit.com/r/recruitinghell/comments/11nsi47/can_confirm_indeed_is_selling_user_information/)
