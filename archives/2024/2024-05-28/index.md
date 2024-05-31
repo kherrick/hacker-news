@@ -32,6 +32,7 @@
 * [2024-05-28, 19:00:24](https://news.ycombinator.com/item?id=40504228) - [Former FTX Executive Ryan Salame Sentenced to 90 Months in Prison](https://www.justice.gov/usao-sdny/pr/former-ftx-executive-ryan-salame-sentenced-90-months-prison)
 * [2024-05-28, 18:58:45](https://news.ycombinator.com/item?id=40504212) - [Tinygrad 0.9.0](https://github.com/tinygrad/tinygrad/releases/tag/v0.9.0)
 * [2024-05-28, 18:53:08](https://news.ycombinator.com/item?id=40504141) - [Automata via Macros (2006)](https://cs.brown.edu/~sk/Publications/Papers/Published/sk-automata-macros/)
+* [2024-05-28, 18:44:45](https://news.ycombinator.com/item?id=40504044) - [What Is Telstar Logistics? (2006)](https://telstarlogistics.typepad.com/telstarlogistics/2006/09/what_is_telstar.html)
 * [2024-05-28, 18:32:06](https://news.ycombinator.com/item?id=40503925) - [Researchers Cracked an 11-Year-Old Password to a $3M Crypto Wallet](https://www.wired.com/story/roboform-password-3-million-dollar-crypto-wallet/)
 * [2024-05-28, 18:29:00](https://news.ycombinator.com/item?id=40503888) - [We're Watching Facebook Die](https://www.wheresyoured.at/were-watching-facebook-die/)
 * [2024-05-28, 18:24:21](https://news.ycombinator.com/item?id=40503825) - [Microsoft should accept and give up Windows 11, throw everything at Windows 12](https://www.techradar.com/computing/windows/microsoft-should-accept-that-its-time-to-give-up-on-windows-11-and-throw-everything-at-windows-12)

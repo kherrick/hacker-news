@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-31](index.md)
 
+* [2024-05-31, 05:32:51](https://news.ycombinator.com/item?id=40531820) - [Taste the Plastic: How Coca Cola Is Poisoning the Planet for Profit [video]](https://www.youtube.com/watch?v=pumjYvHX4Wc)
+* [2024-05-31, 05:30:59](https://news.ycombinator.com/item?id=40531807) - [Show HN: Wadzilla. Play DOOM in Zork](https://github.com/scottvr/wadzilla/wiki)
 * [2024-05-31, 04:21:36](https://news.ycombinator.com/item?id=40531477) - [Firefly forges on after co-founder murdered by Hamas](https://techcrunch.com/2024/05/29/after-co-founders-murder-at-the-hands-of-hamas-cloud-startup-firefly-raises-23m/)
 * [2024-05-31, 03:51:31](https://news.ycombinator.com/item?id=40531301) - [Things you wish you didn't need to know about S3](https://blog.plerion.com/things-you-wish-you-didnt-need-to-know-about-s3/)
 * [2024-05-31, 03:43:52](https://news.ycombinator.com/item?id=40531258) - [Myths about platform engineering: what it is and what it isn't](https://cloud.google.com/blog/products/application-development/common-myths-about-platform-engineering/)
