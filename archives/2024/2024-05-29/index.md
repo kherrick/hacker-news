@@ -45,6 +45,7 @@
 * [2024-05-29, 16:54:19](https://news.ycombinator.com/item?id=40514089) - [Show HN: Serverless Postgres](https://github.com/kiwicopple/serverless-postgres)
 * [2024-05-29, 16:52:22](https://news.ycombinator.com/item?id=40514066) - [BestBuy set for 10th straight quarter of sales drop on weak electronics spending](https://ca.finance.yahoo.com/news/best-buy-set-tenth-straight-140046387.html)
 * [2024-05-29, 16:49:42](https://news.ycombinator.com/item?id=40514038) - [OpenAI partners with Vox Media, Anthropic brings ex-OpenAI safety lead](https://thehorizonnews.beehiiv.com/p/openai-partners-vox-media-anthropic-brings-exopenai-safety-lead-new-team-head)
+* [2024-05-29, 16:49:04](https://news.ycombinator.com/item?id=40514033) - [Why Linux developers do not fix reported issues or ignore bug reports](https://linux-regtracking.leemhuis.info/post/frequent-reasons-why-linux-kernel-bug-reports-are-ignored/)
 * [2024-05-29, 16:36:18](https://news.ycombinator.com/item?id=40513875) - [Ticketmaster hacked. Breach affects more than half a billion users](https://mashable.com/article/ticketmaster-data-breach-shinyhunters-hack)
 * [2024-05-29, 16:32:02](https://news.ycombinator.com/item?id=40513817) - [US to modernize electrical grid – for clean energy and fewer outages](https://www.cnn.com/2024/05/28/climate/energy-grid-modernization-biden/index.html)
 * [2024-05-29, 16:29:17](https://news.ycombinator.com/item?id=40513782) - [Ask HN: Is Stripe the new PayPal, cancelling user accounts without explanation?](https://news.ycombinator.com/item?id=40513782)

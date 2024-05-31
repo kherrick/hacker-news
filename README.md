@@ -1,15 +1,15 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-31, 19:22:41](https://news.ycombinator.com/item?id=40539223) - [NixOS 24.05 \"Uakari\" Released](https://nixos.org/blog/announcements/2024/nixos-2405/)
 * [2024-05-31, 19:02:53](https://news.ycombinator.com/item?id=40539031) - [De-googling, so far](https://blog.nradk.com/posts/degoogling/)
-* [2024-05-31, 18:48:51](https://news.ycombinator.com/item?id=40538890) - [Google Cloud error erases $135B pension fund](https://www.axios.com/2024/05/30/google-cloud-pension-error)
 * [2024-05-31, 17:36:04](https://news.ycombinator.com/item?id=40538019) - [Legal models hallucinate in 1 out of 6 (or more) benchmarking queries](https://hai.stanford.edu/news/ai-trial-legal-models-hallucinate-1-out-6-or-more-benchmarking-queries)
 * [2024-05-31, 17:26:46](https://news.ycombinator.com/item?id=40537911) - [Bento: Open-source fork of the project formerly known as Benthos](https://www.warpstream.com/blog/announcing-bento-the-open-source-fork-of-the-project-formerly-known-as-benthos)
 * [2024-05-31, 17:00:22](https://news.ycombinator.com/item?id=40537533) - [OneText (YC W23) Is Hiring a Lead UX Engineer](https://gist.github.com/bluepnume/33f2c4be93cc20215aafd55f803de19f)
 * [2024-05-31, 16:59:33](https://news.ycombinator.com/item?id=40537523) - [DataFusion Comet: Apache Spark Accelerator](https://github.com/apache/datafusion-comet)
+* [2024-05-31, 16:57:48](https://news.ycombinator.com/item?id=40537502) - [How many holes does the universe have?](https://www.scientificamerican.com/article/how-many-holes-does-the-universe-have/)
 * [2024-05-31, 16:51:50](https://news.ycombinator.com/item?id=40537398) - [Testing sync at Dropbox (2020)](https://dropbox.tech/infrastructure/-testing-our-new-sync-engine)
+* [2024-05-31, 16:45:02](https://news.ycombinator.com/item?id=40537311) - [Sam Altman-backed nuclear startup signs major data center contract](https://oilprice.com/Alternative-Energy/Nuclear-Power/Sam-Altman-Backed-Nuclear-Startup-Signs-Major-Data-Center-Contract.html)
 * [2024-05-31, 16:34:06](https://news.ycombinator.com/item?id=40537187) - [Eye exercises for myopia prevention and control: comprehensive systematic review](https://www.nature.com/articles/s41433-023-02739-x)
-* [2024-05-31, 16:29:26](https://news.ycombinator.com/item?id=40537134) - [Small Modular Reactors: Still Too Expensive, Too Slow, and Too Risky [pdf]](https://apo.org.au/sites/default/files/resource-files/2024-05/apo-nid326992.pdf)
+* [2024-05-31, 16:29:26](https://news.ycombinator.com/item?id=40537134) - [Small modular reactors: Still too expensive, too slow, and too risky [pdf]](https://apo.org.au/sites/default/files/resource-files/2024-05/apo-nid326992.pdf)
 * [2024-05-31, 16:21:45](https://news.ycombinator.com/item?id=40537026) - [Trial results for new lung cancer drug are 'off the charts'](https://www.theguardian.com/society/article/2024/may/31/trial-results-for-new-lung-cancer-drug-are-off-the-charts-say-doctors)
 * [2024-05-31, 16:16:15](https://news.ycombinator.com/item?id=40536960) - [Vista Equity writes off PluralSight value, after $3.5B buyout](https://www.axios.com/2024/05/31/vista-equity-pluralsight)
 * [2024-05-31, 16:07:24](https://news.ycombinator.com/item?id=40536860) - [Man scammed after AI told him fake Facebook customer support number was real](https://www.cbc.ca/news/canada/manitoba/facebook-customer-support-scam-1.7219581)
@@ -28,8 +28,8 @@
 * [2024-05-30, 22:18:02](https://news.ycombinator.com/item?id=40529355) - [“Imprecise” language models are smaller, speedier, and nearly as accurate](https://spectrum.ieee.org/1-bit-llm)
 * [2024-05-30, 20:10:28](https://news.ycombinator.com/item?id=40528045) - [Show HN: Every mountain, building and tree shadow mapped for any date and time](https://shademap.app)
 * [2024-05-30, 12:34:58](https://news.ycombinator.com/item?id=40522939) - [Armor from Mycenaean Greece turns out to have been effective](https://arstechnica.com/science/2024/05/researchers-get-modern-marines-to-test-ancient-greek-armor/)
-* [2024-05-30, 10:36:13](https://news.ycombinator.com/item?id=40522134) - [Why your Linux kernel bug report might be fruitless](https://linux-regtracking.leemhuis.info/post/frequent-reasons-why-linux-kernel-bug-reports-are-ignored/)
 * [2024-05-30, 01:16:47](https://news.ycombinator.com/item?id=40519095) - [Testing a 1912-style Radio [video]](https://www.youtube.com/watch?v=U6ZVqr0fPo4)
+* [2024-05-29, 16:49:04](https://news.ycombinator.com/item?id=40514033) - [Why Linux developers do not fix reported issues or ignore bug reports](https://linux-regtracking.leemhuis.info/post/frequent-reasons-why-linux-kernel-bug-reports-are-ignored/)
 
 ## [Archives](archives/index.md)
 
