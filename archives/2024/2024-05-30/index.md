@@ -26,6 +26,7 @@
 * [2024-05-30, 19:59:08](https://news.ycombinator.com/item?id=40527944) - [NPGA: Neural Parametric Gaussian Avatars – high-fidelity digital faces](https://arxiv.org/abs/2405.19331)
 * [2024-05-30, 19:52:25](https://news.ycombinator.com/item?id=40527904) - [Windows 11 disabled all ways to get around Auto Restarts. Is there a workaround?](https://superuser.com/questions/1843873/windows-11-seems-to-have-disabled-all-ways-to-get-around-auto-update-restarts-i)
 * [2024-05-30, 19:47:29](https://news.ycombinator.com/item?id=40527859) - [GCP error erases $135B pension fund](https://www.axios.com/2024/05/30/google-cloud-pension-error)
+* [2024-05-30, 19:45:39](https://news.ycombinator.com/item?id=40527844) - [Analysis of Greek prehistoric combat in full body armour based on physiology](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0301494)
 * [2024-05-30, 19:43:03](https://news.ycombinator.com/item?id=40527814) - [2023 planetary heat uptake from termination shock of inadvertent geoengineering?](https://www.nature.com/articles/s43247-024-01442-3)
 * [2024-05-30, 19:42:45](https://news.ycombinator.com/item?id=40527811) - [Sotomayor writes 9-0 opinion supporting NRA in First Amendment case [pdf]](https://www.supremecourt.gov/opinions/23pdf/22-842_6kg7.pdf)
 * [2024-05-30, 19:33:53](https://news.ycombinator.com/item?id=40527743) - [New York governor to launch bill banning smartphones in schools](https://www.theguardian.com/us-news/article/2024/may/30/new-york-smartphone-school-ban-bill)
