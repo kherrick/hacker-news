@@ -31,12 +31,32 @@
   ],
   [
     [
+      "2024-05-31, 20:37:00",
+      "https://news.ycombinator.com/item?id=40539963"
+    ],
+    [
+      "John Carmack's Review of Bullshit Jobs",
+      "https://twitter.com/ID_AA_Carmack/status/1796622337963389412"
+    ]
+  ],
+  [
+    [
       "2024-05-31, 20:15:41",
       "https://news.ycombinator.com/item?id=40539729"
     ],
     [
       "GNU Nano 8 comes with modern key bindings",
       "https://www.nano-editor.org/news.php"
+    ]
+  ],
+  [
+    [
+      "2024-05-31, 20:12:25",
+      "https://news.ycombinator.com/item?id=40539700"
+    ],
+    [
+      "Go: Sentinel errors and errors.Is() slow your code down by 3000%",
+      "https://www.dolthub.com/blog/2024-05-31-benchmarking-go-error-handling/"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2024-05-31, 13:06:14",
-      "https://news.ycombinator.com/item?id=40534665"
-    ],
-    [
-      "Spotify won't open-source Car Thing, but starts refund process",
-      "https://arstechnica.com/gadgets/2024/05/spotify-wont-open-source-car-thing-but-starts-refund-process/"
-    ]
-  ],
-  [
-    [
       "2024-05-31, 10:32:27",
       "https://news.ycombinator.com/item?id=40533319"
     ],
@@ -287,16 +297,6 @@
     [
       "Armor from Mycenaean Greece turns out to have been effective",
       "https://arstechnica.com/science/2024/05/researchers-get-modern-marines-to-test-ancient-greek-armor/"
-    ]
-  ],
-  [
-    [
-      "2024-05-30, 01:16:47",
-      "https://news.ycombinator.com/item?id=40519095"
-    ],
-    [
-      "Testing a 1912-style Radio [video]",
-      "https://www.youtube.com/watch?v=U6ZVqr0fPo4"
     ]
   ]
 ]
