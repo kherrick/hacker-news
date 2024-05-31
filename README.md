@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-31, 00:43:15](https://news.ycombinator.com/item?id=40530359) - [Apple News+ subscription growth blows away major media sites](https://www.cultofmac.com/857829/apple-news-subscription-growth/)
 * [2024-05-30, 22:41:29](https://news.ycombinator.com/item?id=40529556) - [A week with Elixir (2013)](https://joearms.github.io/published/2013-05-31-a-week-with-elixir.html)
 * [2024-05-30, 21:16:17](https://news.ycombinator.com/item?id=40528808) - [Asqi: A codebase explorer designed to help navigate and understand Git projects](https://dev.asqi.io/)
 * [2024-05-30, 21:12:14](https://news.ycombinator.com/item?id=40528766) - [Is Target selling its excess inventory on eBay and Poshmark?](https://www.modernretail.co/technology/is-target-selling-its-excess-inventory-on-ebay-poshmark/)
@@ -8,6 +7,7 @@
 * [2024-05-30, 20:24:05](https://news.ycombinator.com/item?id=40528192) - [Ask HN: I have many PDFs – what is the best local way to leverage AI for search?](https://news.ycombinator.com/item?id=40528192)
 * [2024-05-30, 19:59:08](https://news.ycombinator.com/item?id=40527944) - [NPGA: Neural Parametric Gaussian Avatars – high-fidelity digital faces](https://arxiv.org/abs/2405.19331)
 * [2024-05-30, 19:25:24](https://news.ycombinator.com/item?id=40527669) - [NASA Releases New High-Quality, Near Real-Time Air Quality Data](https://www.nasa.gov/missions/tempo/nasa-releases-new-high-quality-near-real-time-air-quality-data/)
+* [2024-05-30, 19:16:03](https://news.ycombinator.com/item?id=40527578) - [NeVerMore: Exploiting RDMA Mistakes in NVMe-Of Storage Applications (2022)](https://arxiv.org/abs/2202.08080)
 * [2024-05-30, 19:02:46](https://news.ycombinator.com/item?id=40527435) - [Transmission of Mental Disorders in Adolescent Peer Networks](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2818735)
 * [2024-05-30, 18:43:32](https://news.ycombinator.com/item?id=40527242) - ['Smart' antibiotic can kill deadly bacteria while sparing the microbiome](https://www.nature.com/articles/d41586-024-01566-8)
 * [2024-05-30, 17:40:16](https://news.ycombinator.com/item?id=40526488) - [James Webb Space Telescope Finds Most Distant Known Galaxy](https://blogs.nasa.gov/webb/2024/05/30/nasas-james-webb-space-telescope-finds-most-distant-known-galaxy/)
@@ -16,6 +16,7 @@
 * [2024-05-30, 15:45:54](https://news.ycombinator.com/item?id=40525064) - [Don't DRY Your Code Prematurely](https://testing.googleblog.com/2024/05/dont-dry-your-code-prematurely.html)
 * [2024-05-30, 15:24:36](https://news.ycombinator.com/item?id=40524823) - ['Operation Endgame' Hits Malware Delivery Platforms](https://krebsonsecurity.com/2024/05/operation-endgame-hits-malware-delivery-platforms/)
 * [2024-05-30, 15:17:39](https://news.ycombinator.com/item?id=40524759) - [Better RAG Results with Reciprocal Rank Fusion and Hybrid Search](https://www.assembled.com/blog/better-rag-results-with-reciprocal-rank-fusion-and-hybrid-search)
+* [2024-05-30, 15:10:55](https://news.ycombinator.com/item?id=40524681) - [Show HN: Webhooks for Any Event](https://markets.sh/notifications/api)
 * [2024-05-30, 14:33:46](https://news.ycombinator.com/item?id=40524238) - [Physicists Puzzle over Emergence of Electron Aggregates](https://www.quantamagazine.org/physicists-puzzle-over-emergence-of-strange-electron-aggregates-20240529/)
 * [2024-05-30, 13:53:57](https://news.ycombinator.com/item?id=40523743) - [Stuck at sea for years, a sailor's plight highlights a surge in ship abandonment](https://apnews.com/article/abandoned-seafarers-labor-unpaid-wages-oceans-83ad0a42debbaf67c18373393fcea753)
 * [2024-05-30, 12:50:37](https://news.ycombinator.com/item?id=40523047) - [I run a software book club](https://notes.eatonphil.com/2025-05-30-how-i-run-book-clubs.html)
@@ -27,7 +28,6 @@
 * [2024-05-30, 09:19:25](https://news.ycombinator.com/item?id=40521657) - [I got tired of hearing that YC fired Sam, so here's what actually happened](https://twitter.com/paulg/status/1796107666265108940)
 * [2024-05-30, 08:50:30](https://news.ycombinator.com/item?id=40521518) - [After 6 years, I'm over GraphQL](https://bessey.dev/blog/2024/05/24/why-im-over-graphql/)
 * [2024-05-30, 05:21:46](https://news.ycombinator.com/item?id=40520334) - [How actors remember their lines](https://thereader.mitpress.mit.edu/how-actors-remember-their-lines/)
-* [2024-05-29, 17:48:30](https://news.ycombinator.com/item?id=40514699) - [Hari Kunzru on Rereading the Classics](https://www.theguardian.com/books/article/2024/may/17/hari-kunzru-i-am-just-as-enchanted-by-the-great-gatsby-now-as-when-i-first-read-it-as-an-a-level-student)
 * [2024-05-29, 17:06:40](https://news.ycombinator.com/item?id=40514282) - [Kino: Pro Video Camera](https://www.lux.camera/introducing-kino-pro-video-camera/)
 * [2024-05-29, 04:42:06](https://news.ycombinator.com/item?id=40508540) - [Donating forks to the dining hall](https://1.coc0o44.preview.ben.page/forks)
 
