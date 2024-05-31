@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-31, 14:01:09](https://news.ycombinator.com/item?id=40535289) - [BYD Launches Hybrids with 1,300-Mile Driving Range](https://www.wsj.com/business/autos/byd-launches-hybrids-with-1-300-mile-driving-range-5a3ae139)
+* [2024-05-31, 14:54:00](https://news.ycombinator.com/item?id=40535989) - [Data allegedly stolen from 560M Ticketmaster users](https://www.bbc.com/news/articles/c899pz84d8zo)
+* [2024-05-31, 14:47:21](https://news.ycombinator.com/item?id=40535912) - [Civil society in Latvia, Lithuania, and Poland targeted with Pegasus spyware](https://www.accessnow.org/publication/civil-society-in-exile-pegasus/)
 * [2024-05-31, 13:06:14](https://news.ycombinator.com/item?id=40534665) - [Spotify won't open-source Car Thing, but starts refund process](https://arstechnica.com/gadgets/2024/05/spotify-wont-open-source-car-thing-but-starts-refund-process/)
 * [2024-05-31, 12:00:24](https://news.ycombinator.com/item?id=40533967) - [Lucid Boss Says Tesla Has Lost Its \"Sense of Purpose\"](https://www.carscoops.com/2024/05/lucid-boss-says-tesla-has-lost-its-sense-of-purpose/)
 * [2024-05-31, 11:37:29](https://news.ycombinator.com/item?id=40533761) - [Intel's Anti-Upgrade Tricks Defeated with Kapton Tape](https://hackaday.com/2024/05/31/intels-anti-upgrade-tricks-defeated-with-kapton-tape/)
@@ -12,7 +13,6 @@
 * [2024-05-31, 03:43:52](https://news.ycombinator.com/item?id=40531258) - [Myths about platform engineering: what it is and what it isn't](https://cloud.google.com/blog/products/application-development/common-myths-about-platform-engineering/)
 * [2024-05-31, 03:19:51](https://news.ycombinator.com/item?id=40531165) - [YOLOv5 on FPGA with Hailo-8 and 4 Pi Cameras](https://www.fpgadeveloper.com/multi-camera-yolov5-on-zynq-ultrascale-with-hailo-8-ai-acceleration/)
 * [2024-05-31, 03:06:05](https://news.ycombinator.com/item?id=40531100) - [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
-* [2024-05-31, 02:46:54](https://news.ycombinator.com/item?id=40531003) - [The Scully Effect](https://theastoundinganalogcompanion.com/2018/08/21/the-scully-effect/)
 * [2024-05-31, 02:27:32](https://news.ycombinator.com/item?id=40530884) - [Show HN: Explore Websites by Chosen Color](https://themefinder.io)
 * [2024-05-31, 01:46:00](https://news.ycombinator.com/item?id=40530670) - [Japan's push to make all research open access](https://www.nature.com/articles/d41586-024-01493-8)
 * [2024-05-30, 23:59:47](https://news.ycombinator.com/item?id=40530130) - [Steam's Last Stand](https://technicshistory.com/2024/05/30/coda-steams-last-stand/)
