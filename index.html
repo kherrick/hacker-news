@@ -129,6 +129,128 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="40531157">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=40531157"
+              >The Neuralink compression challenge seems impossible</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-05-31 @ 03:18:38</span
+              ><span class="points-container"
+                >Points: <span class="points">5</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40531157"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                The Neuralink compression challenge
+                (https://content.neuralink.com/compression-challenge/README.html)
+                is a good example of this. The challenge asks members of the
+                public to design a data compression algorithm that compresses
+                data by 200x. In other words, the algorithm should take 200
+                pieces of data and then compress them down to 1, with the
+                ability to re-extract all original 200 pieces of data.
+              </p>
+              <p>The challenge is impossible.</p>
+              <p>
+                Most data compression algorithms can compress data by 2x to 5x.
+                This includes zip, which we all know and love. The
+                state-of-the-art is only slightly better: the current winner of
+                the Hutter Prize (http://prize.hutter1.net/), a nearly two
+                decade old prize to encourage the development of better
+                compressors, achieved compression by 9x. 200x is a pipe dream.
+              </p>
+              <p>
+                What’s worse is that the challenge doesn’t merely want entrants
+                to design an amazing compression algorithm. Remember, the
+                challenge is being run by Neuralink, a company that puts
+                implants in brains. The algorithm will be used to compress
+                signals coming out of the brain. Because the brain works fast,
+                the signals have to be compressed extremely fast, specifically,
+                at the rate of 200,000 bytes every millisecond. The
+                state-of-the-art Hutter Prize winner from up above would take 36
+                times as long to compress that data.
+              </p>
+              <p>
+                What’s even worse is that, obviously, you can’t put a big
+                battery inside a brain. The risk of a big battery overheating or
+                leaking is too high. So the brain implant runs on very little
+                power, about one-thousandth of what an LED light bulb uses. The
+                compression algorithm has to run on this very small, very weak
+                implant. Keep in mind, the compression algorithm can only use a
+                fraction of the power the implant is running on, because the
+                entire contraption also includes other pieces like a radio for
+                actually transmitting the compressed brain signals.
+              </p>
+              <p>
+                In other words, the challenge wants entrants to not only do
+                something impossible, but also do it quickly and efficiently.
+              </p>
+              <p>
+                For now, let's pretend your boss gave you this problem. Don't
+                worry about questions like “Why am I solving this impossibly
+                hard problem for free?” and “If I figure out how to do this, why
+                wouldn't I start my own company and become a billionaire?”
+              </p>
+              <p>
+                What should you tell your boss? If you're being honest, you
+                would say something like “this won't work; we need to start
+                over.”
+              </p>
+              <p>
+                A Twitter user working on the problem did exactly that. With
+                somewhat inartful phrasing, he said
+                (https://x.com/lookoutitsbbear/status/1794962035714785570) that
+                he came up with a solution that simplified the brain signal
+                before compressing it. That is, instead of compressing all 200
+                pieces of data, his algorithm compresses fewer. Does this
+                fulfill the terms of the challenge? No. Hoards of Twitter users
+                descended upon him to tell him this over and over. The challenge
+                doesn't allow simplifying the brain signal.
+              </p>
+              <p>
+                However, in the real world, this is absolutely the kind of
+                cludge a good engineer would implement. Instead of building a
+                machine that collects 200 pieces of data but can't do anything
+                with it, a good engineer should build a machine that collects
+                less data and transmits it so it can be useful.
+                @lookoutitsbbear’s solution will lose the challenge, but
+                something like it will be essential for getting Neuralink
+                working.
+              </p>
+              <p>
+                Except, you know, this information won't make the boss (or the
+                Neuralink challenge or its fans) happy.
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="40530833">
+          <h3>
+            <a
+              class="item"
+              href="https://blog.google/products/search/ai-overviews-update-may-2024/"
+              >AI Overviews: About last week</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-05-31 @ 02:19:20</span
+              ><span class="points-container"
+                >Points: <span class="points">11</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40530833"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="40530742">
           <h3>
             <a
@@ -141,11 +263,11 @@
             <h4>
               <span>2024-05-31 @ 02:01:12</span
               ><span class="points-container"
-                >Points: <span class="points">19</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40530742"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
@@ -160,7 +282,7 @@
             <h4>
               <span>2024-05-31 @ 01:57:25</span
               ><span class="points-container"
-                >Points: <span class="points">8</span></span
+                >Points: <span class="points">10</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40530719"
                   >Comments</a
@@ -199,11 +321,11 @@
             <h4>
               <span>2024-05-31 @ 01:46:00</span
               ><span class="points-container"
-                >Points: <span class="points">88</span></span
+                >Points: <span class="points">100</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40530670"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -221,11 +343,11 @@
             <h4>
               <span>2024-05-31 @ 01:45:35</span
               ><span class="points-container"
-                >Points: <span class="points">61</span></span
+                >Points: <span class="points">65</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40530666"
                   >Comments</a
-                ><span class="descendants">: 97</span></span
+                ><span class="descendants">: 103</span></span
               >
             </h4>
           </section>
@@ -263,11 +385,11 @@
             <h4>
               <span>2024-05-30 @ 23:59:47</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">18</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40530130"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -283,11 +405,11 @@
             <h4>
               <span>2024-05-30 @ 22:18:02</span
               ><span class="points-container"
-                >Points: <span class="points">54</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40529355"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -339,7 +461,7 @@
             <h4>
               <span>2024-05-30 @ 20:24:05</span
               ><span class="points-container"
-                >Points: <span class="points">134</span></span
+                >Points: <span class="points">135</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40528192"
                   >Comments</a
@@ -380,26 +502,6 @@
             </h4>
           </section>
         </section>
-        <section id="40527578">
-          <h3>
-            <a class="item" href="https://arxiv.org/abs/2202.08080"
-              >NeVerMore: Exploiting RDMA Mistakes in NVMe-Of Storage
-              Applications (2022)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-05-30 @ 19:16:03</span
-              ><span class="points-container"
-                >Points: <span class="points">10</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40527578"
-                  >Comments</a
-                ><span class="descendants">: 1</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="40527435">
           <h3>
             <a
@@ -412,11 +514,11 @@
             <h4>
               <span>2024-05-30 @ 19:02:46</span
               ><span class="points-container"
-                >Points: <span class="points">54</span></span
+                >Points: <span class="points">55</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40527435"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 35</span></span
               >
             </h4>
           </section>
@@ -434,32 +536,11 @@
             <h4>
               <span>2024-05-30 @ 18:43:32</span
               ><span class="points-container"
-                >Points: <span class="points">85</span></span
+                >Points: <span class="points">86</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40527242"
                   >Comments</a
                 ><span class="descendants">: 13</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="40526488">
-          <h3>
-            <a
-              class="item"
-              href="https://blogs.nasa.gov/webb/2024/05/30/nasas-james-webb-space-telescope-finds-most-distant-known-galaxy/"
-              >James Webb Space Telescope Finds Most Distant Known Galaxy</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-05-30 @ 17:40:16</span
-              ><span class="points-container"
-                >Points: <span class="points">115</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40526488"
-                  >Comments</a
-                ><span class="descendants">: 45</span></span
               >
             </h4>
           </section>
@@ -476,11 +557,11 @@
             <h4>
               <span>2024-05-30 @ 16:46:17</span
               ><span class="points-container"
-                >Points: <span class="points">220</span></span
+                >Points: <span class="points">223</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40525802"
                   >Comments</a
-                ><span class="descendants">: 80</span></span
+                ><span class="descendants">: 81</span></span
               >
             </h4>
           </section>
@@ -495,7 +576,7 @@
             <h4>
               <span>2024-05-30 @ 15:52:29</span
               ><span class="points-container"
-                >Points: <span class="points">295</span></span
+                >Points: <span class="points">296</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40525130"
                   >Comments</a
@@ -516,11 +597,11 @@
             <h4>
               <span>2024-05-30 @ 15:45:54</span
               ><span class="points-container"
-                >Points: <span class="points">507</span></span
+                >Points: <span class="points">514</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40525064"
                   >Comments</a
-                ><span class="descendants">: 312</span></span
+                ><span class="descendants">: 313</span></span
               >
             </h4>
           </section>
@@ -541,7 +622,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40524823"
                   >Comments</a
-                ><span class="descendants">: 55</span></span
+                ><span class="descendants">: 56</span></span
               >
             </h4>
           </section>
@@ -559,7 +640,7 @@
             <h4>
               <span>2024-05-30 @ 15:17:39</span
               ><span class="points-container"
-                >Points: <span class="points">161</span></span
+                >Points: <span class="points">162</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40524759"
                   >Comments</a
@@ -580,7 +661,7 @@
             <h4>
               <span>2024-05-30 @ 12:50:37</span
               ><span class="points-container"
-                >Points: <span class="points">255</span></span
+                >Points: <span class="points">257</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40523047"
                   >Comments</a
@@ -635,7 +716,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40522244"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
             <div class="text">
@@ -721,11 +802,11 @@
             <h4>
               <span>2024-05-30 @ 09:19:25</span
               ><span class="points-container"
-                >Points: <span class="points">645</span></span
+                >Points: <span class="points">646</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40521657"
                   >Comments</a
-                ><span class="descendants">: 565</span></span
+                ><span class="descendants">: 567</span></span
               >
             </h4>
           </section>
@@ -742,11 +823,11 @@
             <h4>
               <span>2024-05-30 @ 08:50:30</span
               ><span class="points-container"
-                >Points: <span class="points">996</span></span
+                >Points: <span class="points">1001</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40521518"
                   >Comments</a
-                ><span class="descendants">: 598</span></span
+                ><span class="descendants">: 600</span></span
               >
             </h4>
           </section>
@@ -763,7 +844,7 @@
             <h4>
               <span>2024-05-30 @ 05:21:46</span
               ><span class="points-container"
-                >Points: <span class="points">533</span></span
+                >Points: <span class="points">535</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40520334"
                   >Comments</a
