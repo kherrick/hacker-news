@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-05-30](index.md)
 
+* [2024-05-30, 23:59:47](https://news.ycombinator.com/item?id=40530130) - [Steam's Last Stand](https://technicshistory.com/2024/05/30/coda-steams-last-stand/)
 * [2024-05-30, 23:52:03](https://news.ycombinator.com/item?id=40530062) - [Trump found guilty on all charges related to the hush money case](https://www.nytimes.com/live/2024/05/30/nyregion/trump-trial-verdict)
 * [2024-05-30, 23:36:03](https://news.ycombinator.com/item?id=40529976) - [Are dusty quasars masquerading as Dyson sphere candidates?](https://physicsworld.com/a/are-dusty-quasars-masquerading-as-dyson-sphere-candidates/)
 * [2024-05-30, 23:10:26](https://news.ycombinator.com/item?id=40529777) - [Email notifications for Hacker News comment replies](http://www.hnreplies.com/)
 * [2024-05-30, 23:05:05](https://news.ycombinator.com/item?id=40529744) - [Google will roll out Chrome's new extension spec next week](https://www.theverge.com/2024/5/30/24168057/google-chrome-extension-change-manifest-v3-ad-blockers)
 * [2024-05-30, 22:41:29](https://news.ycombinator.com/item?id=40529556) - [A week with Elixir (2013)](https://joearms.github.io/published/2013-05-31-a-week-with-elixir.html)
+* [2024-05-30, 22:18:02](https://news.ycombinator.com/item?id=40529355) - [1-Bit LLMs Could Solve AI's Energy Demands](https://spectrum.ieee.org/1-bit-llm)
 * [2024-05-30, 22:02:34](https://news.ycombinator.com/item?id=40529217) - [Microsoft Rolling Out New Windows Subsystem for Linux \"WSL\" Features for 2024](https://www.phoronix.com/news/Microsoft-WSL2-2024-Features)
 * [2024-05-30, 21:45:40](https://news.ycombinator.com/item?id=40529064) - [ASK HN: The Required Fundamentals for Self-Taught Programming](https://news.ycombinator.com/item?id=40529064)
 * [2024-05-30, 21:16:36](https://news.ycombinator.com/item?id=40528811) - [Nov 2, 1920: Imprisoned Eugene V. Debs Received 1M Votes for US President](https://www.zinnedproject.org/news/tdih/debs-received-million-votes/)

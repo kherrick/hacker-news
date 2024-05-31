@@ -11,6 +11,7 @@
 * [2024-05-28, 22:02:47](https://news.ycombinator.com/item?id=40506093) - [Marc Andreessen wants you to stay in school](https://www.garelick.net/2024/05/28/marc-andreessen-wants-you-to-stay-in-school/)
 * [2024-05-28, 21:36:20](https://news.ycombinator.com/item?id=40505884) - [Cargo Was a Mistake](https://planetrenox.pages.dev/w/cargo+was+a+mistake)
 * [2024-05-28, 21:31:38](https://news.ycombinator.com/item?id=40505839) - [Facebook will soon use your photos, posts and other info to train its AI](https://www.thejournal.ie/facebook-data-ai-6391876-May2024/)
+* [2024-05-28, 21:30:53](https://news.ycombinator.com/item?id=40505833) - [The Elusive Computer Monograph Number 11](http://blog.fogus.me/2024/05/28/the-elusive-computer-monograph-number-11/)
 * [2024-05-28, 21:02:50](https://news.ycombinator.com/item?id=40505586) - [Electromagnetic Waves and Antennas](https://www.ece.rutgers.edu/~orfanidi/ewa/)
 * [2024-05-28, 21:01:37](https://news.ycombinator.com/item?id=40505575) - [Startups must choose between productivity and alignment](https://www.zaxis.page/p/productivity-versus-alignment)
 * [2024-05-28, 20:49:53](https://news.ycombinator.com/item?id=40505467) - [Internet Archive and the Wayback Machine under DDoS cyber-attack](https://blog.archive.org/2024/05/28/internet-archive-and-the-wayback-machine-under-ddos-cyber-attack/)
