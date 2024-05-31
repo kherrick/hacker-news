@@ -13,6 +13,7 @@
 * [2024-05-31, 14:00:58](https://news.ycombinator.com/item?id=40535285) - [Why Go Is Not Good](https://yager.io/programming/go.html)
 * [2024-05-31, 13:47:48](https://news.ycombinator.com/item?id=40535103) - [Global tourism is booming. These people would rather it wasn't](https://www.bbc.com/news/articles/cl55vdjv2j3o)
 * [2024-05-31, 13:45:45](https://news.ycombinator.com/item?id=40535077) - [Show HN: CommitAsync – $100K+ dev jobs 100% remote only](https://www.commitasync.com/)
+* [2024-05-31, 13:28:08](https://news.ycombinator.com/item?id=40534868) - [Snowflake, Cloud Storage Giant, Suffers Breach](https://www.hudsonrock.com/blog/snowflake-massive-breach-access-through-infostealer-infection)
 * [2024-05-31, 13:14:32](https://news.ycombinator.com/item?id=40534740) - [In Colorado, an Ambitious New Highway Policy Is Not Building Them](https://www.nytimes.com/2024/05/31/headway/highways-colorado-transportation.html)
 * [2024-05-31, 13:06:14](https://news.ycombinator.com/item?id=40534665) - [Spotify won't open-source Car Thing, but starts refund process](https://arstechnica.com/gadgets/2024/05/spotify-wont-open-source-car-thing-but-starts-refund-process/)
 * [2024-05-31, 12:39:45](https://news.ycombinator.com/item?id=40534371) - [The QR Backlash Has Won. Restaurants Are Ditching Them for Good.](https://www.wsj.com/business/hospitality/restaurant-menus-qr-codes-33f777c8)
