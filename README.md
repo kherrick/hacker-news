@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-05-31, 16:45:02](https://news.ycombinator.com/item?id=40537311) - [Sam Altman-Backed Nuclear Startup Signs Major Data Center Contract](https://oilprice.com/Alternative-Energy/Nuclear-Power/Sam-Altman-Backed-Nuclear-Startup-Signs-Major-Data-Center-Contract.html)
+* [2024-05-31, 16:34:06](https://news.ycombinator.com/item?id=40537187) - [Eye exercises for myopia prevention and control: comprehensive systematic review](https://www.nature.com/articles/s41433-023-02739-x)
 * [2024-05-31, 16:16:15](https://news.ycombinator.com/item?id=40536960) - [Vista Equity writes off PluralSight value, after $3.5B buyout](https://www.axios.com/2024/05/31/vista-equity-pluralsight)
 * [2024-05-31, 16:07:24](https://news.ycombinator.com/item?id=40536860) - [Man scammed after AI told him fake Facebook customer support number was real](https://www.cbc.ca/news/canada/manitoba/facebook-customer-support-scam-1.7219581)
 * [2024-05-31, 15:46:29](https://news.ycombinator.com/item?id=40536626) - [Teacher Pay and per Student Spending](https://www.nea.org/resource-library/educator-pay-and-student-spending-how-does-your-state-rank/teacher)
@@ -26,10 +28,8 @@
 * [2024-05-30, 15:52:29](https://news.ycombinator.com/item?id=40525130) - [The Pumpkin Eclipse](https://blog.lumen.com/the-pumpkin-eclipse/)
 * [2024-05-30, 15:45:54](https://news.ycombinator.com/item?id=40525064) - [Don't DRY Your Code Prematurely](https://testing.googleblog.com/2024/05/dont-dry-your-code-prematurely.html)
 * [2024-05-30, 10:25:11](https://news.ycombinator.com/item?id=40522071) - [Geometry for Entertainment (1950)](https://archive.org/details/yakov-perelman-geometry-for-entertainment-mir-titles-2024)
-* [2024-05-30, 03:28:39](https://news.ycombinator.com/item?id=40519797) - [Surviving History: The Fever (2014)](http://theappendix.net/special/the-fever/)
 * [2024-05-29, 23:54:47](https://news.ycombinator.com/item?id=40518555) - [The Elusive Byzantine Empire (2019)](https://www.historytoday.com/miscellanies/elusive-byzantine-empire)
 * [2024-05-29, 23:50:24](https://news.ycombinator.com/item?id=40518516) - [Spots, stripes and more: Working out the logic of animal patterns](https://knowablemagazine.org/content/article/living-world/2024/animal-patterns-spots-stripes-explained-turing-mechanism)
-* [2024-05-29, 03:50:58](https://news.ycombinator.com/item?id=40508268) - [The Special Challenges of Attempting a New Translation of Kafka](https://lithub.com/the-special-challenges-of-attempting-a-new-translation-of-kafka/)
 
 ## [Archives](archives/index.md)
 

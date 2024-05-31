@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-31](index.md)
 
+* [2024-05-31, 16:45:02](https://news.ycombinator.com/item?id=40537311) - [Sam Altman-Backed Nuclear Startup Signs Major Data Center Contract](https://oilprice.com/Alternative-Energy/Nuclear-Power/Sam-Altman-Backed-Nuclear-Startup-Signs-Major-Data-Center-Contract.html)
+* [2024-05-31, 16:34:06](https://news.ycombinator.com/item?id=40537187) - [Eye exercises for myopia prevention and control: comprehensive systematic review](https://www.nature.com/articles/s41433-023-02739-x)
 * [2024-05-31, 16:16:15](https://news.ycombinator.com/item?id=40536960) - [Vista Equity writes off PluralSight value, after $3.5B buyout](https://www.axios.com/2024/05/31/vista-equity-pluralsight)
 * [2024-05-31, 16:07:24](https://news.ycombinator.com/item?id=40536860) - [Man scammed after AI told him fake Facebook customer support number was real](https://www.cbc.ca/news/canada/manitoba/facebook-customer-support-scam-1.7219581)
 * [2024-05-31, 15:46:29](https://news.ycombinator.com/item?id=40536626) - [Teacher Pay and per Student Spending](https://www.nea.org/resource-library/educator-pay-and-student-spending-how-does-your-state-rank/teacher)
