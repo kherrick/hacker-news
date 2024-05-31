@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-05-31](index.md)
 
+* [2024-05-31, 21:52:49](https://news.ycombinator.com/item?id=40540703) - [Recall: Stealing everything you've ever typed or viewed on your own Windows PC](https://doublepulsar.com/recall-stealing-everything-youve-ever-typed-or-viewed-on-your-own-windows-pc-is-now-possible-da3e12e9465e)
 * [2024-05-31, 21:25:32](https://news.ycombinator.com/item?id=40540431) - [Satya Nadella is reportedly worried about an OpenAI deal with Apple](https://www.businessinsider.com/satya-nadella-sam-altman-openai-apple-microsoft-worried-about-deal-2024-5)
 * [2024-05-31, 21:09:44](https://news.ycombinator.com/item?id=40540280) - [Apple and OpenAI have signed a deal to partner on AI](https://arstechnica.com/gadgets/2024/05/report-apple-and-openai-have-signed-a-deal-to-partner-on-ai/)
 * [2024-05-31, 20:59:41](https://news.ycombinator.com/item?id=40540172) - [Cyber house of cards – Politicians' personal details exposed online](https://proton.me/blog/politicians-exposed-dark-web)
