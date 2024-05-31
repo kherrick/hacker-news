@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-05-31, 11:28:23](https://news.ycombinator.com/item?id=40533696) - [Yemen strikes USS Eisenhower with missiles in response to bombings](https://www.reuters.com/world/middle-east/yemens-houthis-say-they-launched-missile-attack-us-aircraft-carrier-eisenhower-2024-05-31/)
+* [2024-05-31, 11:37:29](https://news.ycombinator.com/item?id=40533761) - [Intel's Anti-Upgrade Tricks Defeated with Kapton Tape](https://hackaday.com/2024/05/31/intels-anti-upgrade-tricks-defeated-with-kapton-tape/)
 * [2024-05-31, 11:18:51](https://news.ycombinator.com/item?id=40533622) - [25 Years of Krita](https://krita.org/en/posts/2024/krita-25-years/)
 * [2024-05-31, 10:45:29](https://news.ycombinator.com/item?id=40533396) - [Apple Silicon MacBook batteries can't be replaced under warranty by third party](https://lapcatsoftware.com/articles/2024/5/7.html)
+* [2024-05-31, 10:08:08](https://news.ycombinator.com/item?id=40533191) - [Firefly forges on after co-founder murdered by Hamas](https://techcrunch.com/2024/05/29/after-co-founders-murder-at-the-hands-of-hamas-cloud-startup-firefly-raises-23m/)
 * [2024-05-31, 09:10:18](https://news.ycombinator.com/item?id=40532869) - [I created the largest curated directory of cybersecurity tools and resources](https://cybersectools.com)
 * [2024-05-31, 06:08:26](https://news.ycombinator.com/item?id=40531984) - [A man ordered to hide his boat painted the boat on his fence](https://news.artnet.com/art-world/fence-boat-painting-artist-hanif-panni-2487875)
 * [2024-05-31, 05:30:59](https://news.ycombinator.com/item?id=40531807) - [Show HN: Wadzilla. Play DOOM in Zork](https://github.com/scottvr/wadzilla/wiki)
@@ -18,7 +19,6 @@
 * [2024-05-30, 23:59:47](https://news.ycombinator.com/item?id=40530130) - [Steam's Last Stand](https://technicshistory.com/2024/05/30/coda-steams-last-stand/)
 * [2024-05-30, 22:18:02](https://news.ycombinator.com/item?id=40529355) - [“Imprecise” language models are smaller, speedier, and nearly as accurate](https://spectrum.ieee.org/1-bit-llm)
 * [2024-05-30, 21:56:10](https://news.ycombinator.com/item?id=40529160) - [The Genius of Ella Fitzgerald](https://www.thenation.com/article/culture/ella-fitzgerald-judith-tick-biography/)
-* [2024-05-30, 21:16:17](https://news.ycombinator.com/item?id=40528808) - [Asqi: A codebase explorer designed to help navigate and understand Git projects](https://dev.asqi.io/)
 * [2024-05-30, 21:01:37](https://news.ycombinator.com/item?id=40528680) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2024-05-30, 16:46:17](https://news.ycombinator.com/item?id=40525802) - [Unexpected anti-patterns for engineering leaders](https://review.firstround.com/unexpected-anti-patterns-for-engineering-leaders-lessons-from-stripe-uber-carta/)
 * [2024-05-30, 15:52:29](https://news.ycombinator.com/item?id=40525130) - [The Pumpkin Eclipse](https://blog.lumen.com/the-pumpkin-eclipse/)

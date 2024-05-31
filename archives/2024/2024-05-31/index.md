@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-05-31](index.md)
 
+* [2024-05-31, 11:37:29](https://news.ycombinator.com/item?id=40533761) - [Intel's Anti-Upgrade Tricks Defeated with Kapton Tape](https://hackaday.com/2024/05/31/intels-anti-upgrade-tricks-defeated-with-kapton-tape/)
 * [2024-05-31, 11:28:23](https://news.ycombinator.com/item?id=40533696) - [Yemen strikes USS Eisenhower with missiles in response to bombings](https://www.reuters.com/world/middle-east/yemens-houthis-say-they-launched-missile-attack-us-aircraft-carrier-eisenhower-2024-05-31/)
 * [2024-05-31, 11:18:51](https://news.ycombinator.com/item?id=40533622) - [25 Years of Krita](https://krita.org/en/posts/2024/krita-25-years/)
 * [2024-05-31, 10:45:29](https://news.ycombinator.com/item?id=40533396) - [Apple Silicon MacBook batteries can't be replaced under warranty by third party](https://lapcatsoftware.com/articles/2024/5/7.html)
 * [2024-05-31, 10:11:14](https://news.ycombinator.com/item?id=40533208) - [FatFIRE](https://old.reddit.com/r/fatFIRE/)
+* [2024-05-31, 10:08:08](https://news.ycombinator.com/item?id=40533191) - [Firefly forges on after co-founder murdered by Hamas](https://techcrunch.com/2024/05/29/after-co-founders-murder-at-the-hands-of-hamas-cloud-startup-firefly-raises-23m/)
 * [2024-05-31, 10:01:03](https://news.ycombinator.com/item?id=40533158) - [Deno 1.44](https://deno.com/blog/v1.44)
 * [2024-05-31, 09:18:52](https://news.ycombinator.com/item?id=40532917) - [Maybe This Is Too Cool](https://radarblog.substack.com/p/maybe-this-is-too-cool)
 * [2024-05-31, 09:10:18](https://news.ycombinator.com/item?id=40532869) - [I created the largest curated directory of cybersecurity tools and resources](https://cybersectools.com)
