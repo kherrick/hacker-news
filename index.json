@@ -1,32 +1,12 @@
 [
   [
     [
-      "2024-05-31, 21:09:44",
-      "https://news.ycombinator.com/item?id=40540280"
-    ],
-    [
-      "Apple and OpenAI have signed a deal to partner on AI",
-      "https://arstechnica.com/gadgets/2024/05/report-apple-and-openai-have-signed-a-deal-to-partner-on-ai/"
-    ]
-  ],
-  [
-    [
       "2024-05-31, 20:59:41",
       "https://news.ycombinator.com/item?id=40540172"
     ],
     [
       "Cyber house of cards – Politicians' personal details exposed online",
       "https://proton.me/blog/politicians-exposed-dark-web"
-    ]
-  ],
-  [
-    [
-      "2024-05-31, 20:15:11",
-      "https://news.ycombinator.com/item?id=40539720"
-    ],
-    [
-      "Spain fines budget airlines €150M over 'abusive' cabin bag and seat charges",
-      "https://www.theguardian.com/business/article/2024/may/31/spain-fines-budget-airlines-abusive-cabin-bag-seat-charges-easyjet-ryanair"
     ]
   ],
   [
@@ -107,6 +87,16 @@
     [
       "How many holes does the universe have?",
       "https://www.scientificamerican.com/article/how-many-holes-does-the-universe-have/"
+    ]
+  ],
+  [
+    [
+      "2024-05-31, 16:51:50",
+      "https://news.ycombinator.com/item?id=40537398"
+    ],
+    [
+      "Testing sync at Dropbox (2020)",
+      "https://dropbox.tech/infrastructure/-testing-our-new-sync-engine"
     ]
   ],
   [
@@ -221,6 +211,16 @@
   ],
   [
     [
+      "2024-05-31, 11:37:29",
+      "https://news.ycombinator.com/item?id=40533761"
+    ],
+    [
+      "Intel's anti-upgrade tricks defeated with Kapton tape",
+      "https://hackaday.com/2024/05/31/intels-anti-upgrade-tricks-defeated-with-kapton-tape/"
+    ]
+  ],
+  [
+    [
       "2024-05-31, 10:32:27",
       "https://news.ycombinator.com/item?id=40533319"
     ],
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2024-05-30, 22:18:02",
+      "https://news.ycombinator.com/item?id=40529355"
+    ],
+    [
+      "“Imprecise” language models are smaller, speedier, and nearly as accurate",
+      "https://spectrum.ieee.org/1-bit-llm"
+    ]
+  ],
+  [
+    [
       "2024-05-30, 20:10:28",
       "https://news.ycombinator.com/item?id=40528045"
     ],
@@ -287,16 +297,6 @@
     [
       "Testing a 1912-style Radio [video]",
       "https://www.youtube.com/watch?v=U6ZVqr0fPo4"
-    ]
-  ],
-  [
-    [
-      "2024-05-29, 16:49:04",
-      "https://news.ycombinator.com/item?id=40514033"
-    ],
-    [
-      "Why Linux developers do not fix reported issues or ignore bug reports",
-      "https://linux-regtracking.leemhuis.info/post/frequent-reasons-why-linux-kernel-bug-reports-are-ignored/"
     ]
   ]
 ]
