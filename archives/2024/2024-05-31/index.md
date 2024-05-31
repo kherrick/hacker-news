@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-31](index.md)
 
+* [2024-05-31, 17:00:22](https://news.ycombinator.com/item?id=40537533) - [OneText (YC W23) Is Hiring a Lead UX Engineer](https://gist.github.com/bluepnume/33f2c4be93cc20215aafd55f803de19f)
+* [2024-05-31, 16:51:50](https://news.ycombinator.com/item?id=40537398) - [Testing Sync at Dropbox](https://dropbox.tech/infrastructure/-testing-our-new-sync-engine)
 * [2024-05-31, 16:45:02](https://news.ycombinator.com/item?id=40537311) - [Sam Altman-Backed Nuclear Startup Signs Major Data Center Contract](https://oilprice.com/Alternative-Energy/Nuclear-Power/Sam-Altman-Backed-Nuclear-Startup-Signs-Major-Data-Center-Contract.html)
 * [2024-05-31, 16:34:06](https://news.ycombinator.com/item?id=40537187) - [Eye exercises for myopia prevention and control: comprehensive systematic review](https://www.nature.com/articles/s41433-023-02739-x)
 * [2024-05-31, 16:16:15](https://news.ycombinator.com/item?id=40536960) - [Vista Equity writes off PluralSight value, after $3.5B buyout](https://www.axios.com/2024/05/31/vista-equity-pluralsight)
@@ -15,6 +17,7 @@
 * [2024-05-31, 14:54:00](https://news.ycombinator.com/item?id=40535989) - [Data allegedly stolen from 560M Ticketmaster users](https://www.bbc.com/news/articles/c899pz84d8zo)
 * [2024-05-31, 14:47:21](https://news.ycombinator.com/item?id=40535912) - [Civil society in Latvia, Lithuania, and Poland targeted with Pegasus spyware](https://www.accessnow.org/publication/civil-society-in-exile-pegasus/)
 * [2024-05-31, 14:45:55](https://news.ycombinator.com/item?id=40535895) - [Standard Ebooks' 1,000th title: Ulysses](https://standardebooks.org/ebooks/james-joyce/ulysses)
+* [2024-05-31, 14:44:09](https://news.ycombinator.com/item?id=40535876) - [Why does searching Google for random hex almost always lead to car dealers?](https://tmp.tonybox.net/hexgoog.mp4)
 * [2024-05-31, 14:01:09](https://news.ycombinator.com/item?id=40535289) - [BYD Launches Hybrids with 1,300-Mile Driving Range](https://www.wsj.com/business/autos/byd-launches-hybrids-with-1-300-mile-driving-range-5a3ae139)
 * [2024-05-31, 14:00:58](https://news.ycombinator.com/item?id=40535285) - [Why Go Is Not Good](https://yager.io/programming/go.html)
 * [2024-05-31, 13:47:48](https://news.ycombinator.com/item?id=40535103) - [Global tourism is booming. These people would rather it wasn't](https://www.bbc.com/news/articles/cl55vdjv2j3o)
