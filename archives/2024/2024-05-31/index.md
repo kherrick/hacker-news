@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-31](index.md)
 
+* [2024-05-31, 03:24:05](https://news.ycombinator.com/item?id=40531175) - ['It's better for humans in general': The 4-day workweek is closer than you think](https://www.marketwatch.com/amp/story/its-better-for-humans-in-general-the-four-day-workweek-is-closer-than-you-think-b85cc39e)
 * [2024-05-31, 03:18:38](https://news.ycombinator.com/item?id=40531157) - [The Neuralink compression challenge seems impossible](https://news.ycombinator.com/item?id=40531157)
+* [2024-05-31, 03:06:05](https://news.ycombinator.com/item?id=40531100) - [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
 * [2024-05-31, 02:19:20](https://news.ycombinator.com/item?id=40530833) - [AI Overviews: About last week](https://blog.google/products/search/ai-overviews-update-may-2024/)
 * [2024-05-31, 02:01:12](https://news.ycombinator.com/item?id=40530742) - [All of Microsoft's MacBook Air-beating benchmarks](https://www.theverge.com/2024/5/30/24167745/microsoft-macbook-air-benchmarks-surface-laptop-copilot-plus-pc)
 * [2024-05-31, 01:57:25](https://news.ycombinator.com/item?id=40530719) - [Ask HN: How to transcribe 1000s of handwritten notes](https://news.ycombinator.com/item?id=40530719)
