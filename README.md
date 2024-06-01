@@ -9,6 +9,7 @@
 * [2024-06-01, 16:13:14](https://news.ycombinator.com/item?id=40546920) - [Loss of nearly a full decade of information from early days of Chinese internet](https://chinamediaproject.org/2024/05/27/goldfish-memories/)
 * [2024-06-01, 15:14:56](https://news.ycombinator.com/item?id=40546415) - [Frances Hesselbein's leadership story (2022)](https://davidepstein.substack.com/p/year-end-remembrances-part-3-the)
 * [2024-06-01, 13:08:47](https://news.ycombinator.com/item?id=40545436) - [Napster sparked a file-sharing revolution 25 years ago](https://torrentfreak.com/napster-sparked-a-file-sharing-revolution-25-years-ago-250601/)
+* [2024-06-01, 09:47:53](https://news.ycombinator.com/item?id=40544283) - [Arthur Whitney releases an open-source subset of K with MIT license](https://shakti.com/k)
 * [2024-06-01, 07:25:48](https://news.ycombinator.com/item?id=40543651) - [ROOT: analyzing petabytes of data scientifically](https://root.cern/)
 * [2024-06-01, 06:18:01](https://news.ycombinator.com/item?id=40543330) - [Nginx Unit: open-source, lightweight and versatile application runtime](https://unit.nginx.org/)
 * [2024-06-01, 06:10:30](https://news.ycombinator.com/item?id=40543299) - [Call Your Local Wizard](https://slate.com/culture/2024/05/witches-wizards-magic-middle-ages-cunning-folk-book.html)
@@ -29,7 +30,6 @@
 * [2024-05-30, 12:10:06](https://news.ycombinator.com/item?id=40522744) - [Making a tic-tac-toe game with ‘randomness’ using pure HTML and CSS](https://blog.scottlogic.com/2024/05/17/noJS-2-stochastic-boogaloo.html)
 * [2024-05-30, 04:07:11](https://news.ycombinator.com/item?id=40519976) - [Zig's new CLI progress bar explained](https://andrewkelley.me/post/zig-new-cli-progress-bar-explained.html)
 * [2024-05-29, 23:51:40](https://news.ycombinator.com/item?id=40518525) - [Disassembling Dalvik](https://margin.re/2024/05/dalvik-disassembly/)
-* [2024-05-29, 21:44:22](https://news.ycombinator.com/item?id=40517401) - [LLMs Have Favorites Numbers](https://gramener.com/llmrandom/)
 
 ## [Archives](archives/index.md)
 
