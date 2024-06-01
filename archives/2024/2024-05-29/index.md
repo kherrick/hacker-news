@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-05-29](index.md)
 
 * [2024-05-29, 23:54:47](https://news.ycombinator.com/item?id=40518555) - [The Elusive Byzantine Empire (2019)](https://www.historytoday.com/miscellanies/elusive-byzantine-empire)
+* [2024-05-29, 23:51:40](https://news.ycombinator.com/item?id=40518525) - [Disassembling Dalvik](https://margin.re/2024/05/dalvik-disassembly/)
 * [2024-05-29, 23:50:24](https://news.ycombinator.com/item?id=40518516) - [Spots, stripes and more: Working out the logic of animal patterns](https://knowablemagazine.org/content/article/living-world/2024/animal-patterns-spots-stripes-explained-turing-mechanism)
 * [2024-05-29, 23:34:53](https://news.ycombinator.com/item?id=40518405) - [Louisiana law will criminalize approaching police under certain circumstances](https://apnews.com/article/police-distance-law-louisiana-85f269d421b03a173bfbd4b98e95a018)
 * [2024-05-29, 23:10:24](https://news.ycombinator.com/item?id=40518203) - [Kaplay – a JavaScript library that helps you make games fast and fun](https://kaplayjs.com/kaplayjs.com)
