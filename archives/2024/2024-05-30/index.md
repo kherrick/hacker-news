@@ -86,6 +86,7 @@
 * [2024-05-30, 12:22:35](https://news.ycombinator.com/item?id=40522844) - [Show HN: ChatGPT UI for Rabbit Holes](https://delve.a9.io/)
 * [2024-05-30, 11:44:48](https://news.ycombinator.com/item?id=40522577) - [SBCL: New in Version 2.4.5](http://sbcl.org/all-news.html?2.4.5#2.4.5)
 * [2024-05-30, 11:37:07](https://news.ycombinator.com/item?id=40522518) - [You Can Thank Private Equity for That Enormous Doctor's Bill](https://www.wsj.com/health/healthcare/you-can-thank-private-equity-for-that-enormous-doctors-bill-3a2fc90b)
+* [2024-05-30, 11:21:35](https://news.ycombinator.com/item?id=40522425) - [I am writing a programming language](https://www.rasheedstarlet.com/articles/why_compilers.html)
 * [2024-05-30, 11:12:09](https://news.ycombinator.com/item?id=40522366) - [In Belgium Zelensky's plane are escorted by Ukrainian F-16](https://armyrecognition.com/news/aerospace-news/2024/in-belgium-zelenskys-plane-are-escorted-by-ukrainian-f-16)
 * [2024-05-30, 10:55:48](https://news.ycombinator.com/item?id=40522261) - [Lisbon, a city dying from its own success](https://english.elpais.com/international/2024-05-29/lisbon-a-city-dying-from-its-own-success.html)
 * [2024-05-30, 10:53:09](https://news.ycombinator.com/item?id=40522244) - [Show HN: I built a tiny-VPS friendly RSS aggregator and reader](https://github.com/0x2E/fusion)
