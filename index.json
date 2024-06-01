@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-06-01, 14:43:37",
-      "https://news.ycombinator.com/item?id=40546128"
-    ],
-    [
-      "Phoenix Is Facing a Hurricane Katrina of Heat",
-      "https://www.bloomberg.com/opinion/articles/2024-05-29/phoenix-is-facing-a-deadly-hurricane-katrina-of-heat-spurred-by-climate-change"
-    ]
-  ],
-  [
-    [
       "2024-06-01, 13:08:47",
       "https://news.ycombinator.com/item?id=40545436"
     ],
@@ -131,16 +121,6 @@
   ],
   [
     [
-      "2024-06-01, 06:10:30",
-      "https://news.ycombinator.com/item?id=40543299"
-    ],
-    [
-      "Call Your Local Wizard",
-      "https://slate.com/culture/2024/05/witches-wizards-magic-middle-ages-cunning-folk-book.html"
-    ]
-  ],
-  [
-    [
       "2024-06-01, 00:05:36",
       "https://news.ycombinator.com/item?id=40541559"
     ],
@@ -157,6 +137,16 @@
     [
       "UI elements with a hand-drawn, sketchy look",
       "https://wiredjs.com/"
+    ]
+  ],
+  [
+    [
+      "2024-05-31, 21:52:49",
+      "https://news.ycombinator.com/item?id=40540703"
+    ],
+    [
+      "Recall: Stealing everything you've ever typed or viewed on your own Windows PC",
+      "https://doublepulsar.com/recall-stealing-everything-youve-ever-typed-or-viewed-on-your-own-windows-pc-is-now-possible-da3e12e9465e"
     ]
   ],
   [
@@ -181,12 +171,12 @@
   ],
   [
     [
-      "2024-05-31, 17:26:46",
-      "https://news.ycombinator.com/item?id=40537911"
+      "2024-05-31, 18:15:17",
+      "https://news.ycombinator.com/item?id=40538540"
     ],
     [
-      "Bento: Open-source fork of the project formerly known as Benthos",
-      "https://www.warpstream.com/blog/announcing-bento-the-open-source-fork-of-the-project-formerly-known-as-benthos"
+      "What do I think about Lua after shipping a project with 60k lines of code?",
+      "https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733?gi=8385ed7c6379"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Engineering for Slow Internet",
       "https://brr.fyi/posts/engineering-for-slow-internet"
+    ]
+  ],
+  [
+    [
+      "2024-05-30, 22:30:22",
+      "https://news.ycombinator.com/item?id=40529470"
+    ],
+    [
+      "Lisp Compiler Optimizations",
+      "https://healeycodes.com/lisp-compiler-optimizations"
     ]
   ],
   [
