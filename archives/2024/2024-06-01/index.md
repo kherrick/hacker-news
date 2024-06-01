@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-01](index.md)
 
+* [2024-06-01, 18:23:27](https://news.ycombinator.com/item?id=40547933) - [X Is Justifiably Slow](https://zeux.io/2024/05/31/justifiably-slow/)
 * [2024-06-01, 18:10:58](https://news.ycombinator.com/item?id=40547855) - [Tell HN: Google's new summarize SMS just read another person's messages to me](https://news.ycombinator.com/item?id=40547855)
 * [2024-06-01, 17:49:00](https://news.ycombinator.com/item?id=40547695) - [Predictably Bad Investments: Evidence from Venture Capitalists](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4135861)
 * [2024-06-01, 17:08:04](https://news.ycombinator.com/item?id=40547401) - [Show HN: Tiny Chrome extension to disable images to reduce distractions](https://github.com/kirill-markin/chrome-auto-image-blocker)
@@ -26,6 +27,7 @@
 * [2024-06-01, 10:49:47](https://news.ycombinator.com/item?id=40544556) - [The AI Revolution Is Already Losing Steam](https://www.wsj.com/tech/ai/the-ai-revolution-is-already-losing-steam-a93478b1)
 * [2024-06-01, 10:44:40](https://news.ycombinator.com/item?id=40544531) - [RISC-V must get its messaging right on open standard vs. open source](https://www.theregister.com/2024/05/29/riscv_messsaging_struggle/)
 * [2024-06-01, 10:32:26](https://news.ycombinator.com/item?id=40544458) - [EV startup Fisker's collapse: how the company crumbled](https://techcrunch.com/2024/05/31/fisker-collapse-investigation-ev-ocean-suv-henrik-geeta/)
+* [2024-06-01, 10:18:27](https://news.ycombinator.com/item?id=40544407) - [Einstein went to his office just so he could walk home with Gödel](https://www.futilitycloset.com/2024/05/31/footwork-10/)
 * [2024-06-01, 10:10:41](https://news.ycombinator.com/item?id=40544375) - [Show HN: Screenshot to Reactjs and Tailwindcss](https://www.aiui.me/)
 * [2024-06-01, 10:03:15](https://news.ycombinator.com/item?id=40544349) - [Routers cyber security best practices](https://www.cyber.gc.ca/en/guidance/routers-cyber-security-best-practices-itsap80019)
 * [2024-06-01, 10:00:58](https://news.ycombinator.com/item?id=40544336) - [What Autoconf Got Right](https://leahneukirchen.org/blog/archive/2024/04/what-autoconf-got-right.html)
@@ -59,3 +61,4 @@
 * [2024-06-01, 00:38:15](https://news.ycombinator.com/item?id=40541765) - [Distributor of '2000 Mules' election conspiracy film pulls film from platforms](https://www.npr.org/2024/05/31/g-s1-2298/publisher-of-2000-mules-election-conspiracy-theory-film-issues-apology)
 * [2024-06-01, 00:22:22](https://news.ycombinator.com/item?id=40541668) - [Encountering Strangers in Public Places: Goffman and Civil Inattention](https://www.everydaysociologyblog.com/2011/12/encountering-strangers-in-public-places-goffman-and-civil-inattention.html)
 * [2024-06-01, 00:05:36](https://news.ycombinator.com/item?id=40541559) - [60 kHz (2022)](https://ben.page/wwvb)
+* [2024-06-01, 00:02:43](https://news.ycombinator.com/item?id=40541536) - [A self-published book broke 'all the rules' and became a best seller](https://www.nytimes.com/2024/05/30/books/booksupdate/keila-shaheen-shadow-work-journal-tiktok.html)
