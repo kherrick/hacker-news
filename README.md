@@ -1,12 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-01, 14:26:33](https://news.ycombinator.com/item?id=40546021) - [Big Tech goes on AI charm offensive in Europe as regulators circle](https://www.cnbc.com/2024/05/23/big-tech-goes-on-ai-charm-offensive-in-europe-as-regulators-circle.html)
+* [2024-06-01, 14:15:18](https://news.ycombinator.com/item?id=40545923) - [Donald E. Knuth's Homepage](https://www-cs-faculty.stanford.edu/~knuth/)
 * [2024-06-01, 13:08:47](https://news.ycombinator.com/item?id=40545436) - [Napster Sparked a File-Sharing Revolution 25 Years Ago](https://torrentfreak.com/napster-sparked-a-file-sharing-revolution-25-years-ago-250601/)
 * [2024-06-01, 11:38:43](https://news.ycombinator.com/item?id=40544875) - [Space secrets leak disclosure](https://huggingface.co/blog/space-secrets-disclosure)
 * [2024-06-01, 11:32:48](https://news.ycombinator.com/item?id=40544829) - [The USAF's \"Upside-Down Air Force\"](https://www.twz.com/news-features/the-fascinating-story-of-the-usafs-upside-down-air-force)
-* [2024-06-01, 10:44:40](https://news.ycombinator.com/item?id=40544531) - [RISC-V must get its messaging right on open standard vs. open source](https://www.theregister.com/2024/05/29/riscv_messsaging_struggle/)
-* [2024-06-01, 10:10:41](https://news.ycombinator.com/item?id=40544375) - [Show HN: Screenshot to Reactjs and Tailwindcss](https://www.aiui.me/)
-* [2024-06-01, 10:03:15](https://news.ycombinator.com/item?id=40544349) - [Routers cyber security best practices](https://www.cyber.gc.ca/en/guidance/routers-cyber-security-best-practices-itsap80019)
-* [2024-06-01, 09:15:59](https://news.ycombinator.com/item?id=40544132) - [WordPress next, and beyond: breaking the technical enclosure](https://thomas.diluccio.fr/2024/05/30/wordpress-next-and-beyond-breaking-the-technical-enclosure/)
 * [2024-06-01, 09:13:32](https://news.ycombinator.com/item?id=40544117) - [Transformers Represent Belief State Geometry in Their Residual Stream](https://www.lesswrong.com/posts/gTZ2SxesbHckJ3CkF/transformers-represent-belief-state-geometry-in-their)
 * [2024-06-01, 08:26:41](https://news.ycombinator.com/item?id=40543905) - [Can ketones enhance cognitive function and protect brain networks?](https://www.urmc.rochester.edu/news/publications/neuroscience/can-ketones-enhance-cognitive-function-and-protect-brain-networks)
 * [2024-06-01, 07:25:48](https://news.ycombinator.com/item?id=40543651) - [CERN Root](https://root.cern/)
@@ -30,6 +28,8 @@
 * [2024-05-30, 14:56:40](https://news.ycombinator.com/item?id=40524531) - [(some) good corporate engineering blogs are written](https://danluu.com/corp-eng-blogs/)
 * [2024-05-30, 14:33:46](https://news.ycombinator.com/item?id=40524238) - [Physicists Puzzle over Emergence of Electron Aggregates](https://www.quantamagazine.org/physicists-puzzle-over-emergence-of-strange-electron-aggregates-20240529/)
 * [2024-05-30, 12:34:58](https://news.ycombinator.com/item?id=40522939) - [Armor from Mycenaean Greece turns out to have been effective](https://arstechnica.com/science/2024/05/researchers-get-modern-marines-to-test-ancient-greek-armor/)
+* [2024-05-30, 10:51:55](https://news.ycombinator.com/item?id=40522232) - [“Moveable Type” to end 17-year run in The New York Times’s lobby](https://www.nytco.com/press/moveable-type-to-end-17-year-run-in-the-new-york-timess-lobby/)
+* [2024-05-29, 18:56:28](https://news.ycombinator.com/item?id=40515480) - [String Comparison Timing Attacks](https://www.sjoerdlangkemper.nl/2024/05/29/string-comparison-timing-attacks/)
 
 ## [Archives](archives/index.md)
 

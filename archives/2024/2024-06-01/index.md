@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-01](index.md)
 
+* [2024-06-01, 14:26:33](https://news.ycombinator.com/item?id=40546021) - [Big Tech goes on AI charm offensive in Europe as regulators circle](https://www.cnbc.com/2024/05/23/big-tech-goes-on-ai-charm-offensive-in-europe-as-regulators-circle.html)
 * [2024-06-01, 14:25:22](https://news.ycombinator.com/item?id=40546012) - [Making housing more affordable means your home's value will have to come down](https://www.theglobeandmail.com/business/commentary/article-you-want-housing-affordability-to-go-up-without-home-prices-going-down/)
+* [2024-06-01, 14:15:18](https://news.ycombinator.com/item?id=40545923) - [Donald E. Knuth's Homepage](https://www-cs-faculty.stanford.edu/~knuth/)
 * [2024-06-01, 13:58:25](https://news.ycombinator.com/item?id=40545781) - [Show HN: Classic Nokia 3310 Dotmatrix Font based on original firmwares](https://webdraft.hu/fonts/nokja-original/)
 * [2024-06-01, 13:08:47](https://news.ycombinator.com/item?id=40545436) - [Napster Sparked a File-Sharing Revolution 25 Years Ago](https://torrentfreak.com/napster-sparked-a-file-sharing-revolution-25-years-ago-250601/)
 * [2024-06-01, 11:38:43](https://news.ycombinator.com/item?id=40544875) - [HuggingFace hacked – Space secrets leak disclosure](https://huggingface.co/blog/space-secrets-disclosure)
