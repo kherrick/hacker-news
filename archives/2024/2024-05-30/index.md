@@ -37,6 +37,7 @@
 * [2024-05-30, 19:16:03](https://news.ycombinator.com/item?id=40527578) - [NeVerMore: Exploiting RDMA Mistakes in NVMe-Of Storage Applications (2022)](https://arxiv.org/abs/2202.08080)
 * [2024-05-30, 19:02:46](https://news.ycombinator.com/item?id=40527435) - [Transmission of Mental Disorders in Adolescent Peer Networks](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2818735)
 * [2024-05-30, 18:54:25](https://news.ycombinator.com/item?id=40527353) - [We Stopped Using Signal Messenger](https://decodetheworld.substack.com/p/why-we-stopped-using-signal-messenger)
+* [2024-05-30, 18:54:07](https://news.ycombinator.com/item?id=40527348) - [Windows 11 24H2 might call time on that old NAS under the stairs](https://www.theregister.com/2024/05/30/windows_11_24h2_security_tweaks/)
 * [2024-05-30, 18:52:30](https://news.ycombinator.com/item?id=40527336) - [Groq surpasses 1,200 tokens/sec with Llama 3 8B](https://twitter.com/sundeep/status/1795964992367235186)
 * [2024-05-30, 18:43:32](https://news.ycombinator.com/item?id=40527242) - ['Smart' antibiotic can kill deadly bacteria while sparing the microbiome](https://www.nature.com/articles/d41586-024-01566-8)
 * [2024-05-30, 18:43:11](https://news.ycombinator.com/item?id=40527239) - [How to Train a Million Context LLM](https://www.latent.space/p/gradient)
