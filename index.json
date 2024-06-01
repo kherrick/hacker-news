@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-01, 07:01:22",
+      "https://news.ycombinator.com/item?id=40543533"
+    ],
+    [
+      "BYD unveils new hybrid tech as battle with gasoline rivals heats up",
+      "https://www.reuters.com/business/autos-transportation/byd-launches-new-hybrid-vehicle-tech-with-lower-fuel-consumption-2024-05-28/"
+    ]
+  ],
+  [
+    [
       "2024-06-01, 07:00:04",
       "https://news.ycombinator.com/item?id=40543526"
     ],
@@ -37,16 +47,6 @@
     [
       "California sides with big utilities, trimming incentives for community solar",
       "https://calmatters.org/environment/2024/05/california-community-solar-incentives/"
-    ]
-  ],
-  [
-    [
-      "2024-06-01, 03:25:07",
-      "https://news.ycombinator.com/item?id=40542631"
-    ],
-    [
-      "GPT-4o is consistently hallucinating",
-      "https://platform.openai.com/playground/chat?models=gpt-4o&preset=yEwza9Ibnw3RnQxGNnTwzOqd"
     ]
   ],
   [
@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2024-05-31, 23:59:41",
+      "https://news.ycombinator.com/item?id=40541524"
+    ],
+    [
+      "Mathematicians Attempt to Glimpse Past the Big Bang",
+      "https://www.quantamagazine.org/mathematicians-attempt-to-glimpse-past-the-big-bang-20240531/"
+    ]
+  ],
+  [
+    [
       "2024-05-31, 22:23:08",
       "https://news.ycombinator.com/item?id=40540952"
     ],
@@ -107,6 +117,16 @@
     [
       "Go: Sentinel errors and errors.Is() slow your code down by 3000%",
       "https://www.dolthub.com/blog/2024-05-31-benchmarking-go-error-handling/"
+    ]
+  ],
+  [
+    [
+      "2024-05-31, 19:49:18",
+      "https://news.ycombinator.com/item?id=40539471"
+    ],
+    [
+      "Show HN: I built a directory about big life decisions/regrets",
+      "https://www.didyouregretit.com/"
     ]
   ],
   [
@@ -147,16 +167,6 @@
     [
       "DataFusion Comet: Apache Spark Accelerator",
       "https://github.com/apache/datafusion-comet"
-    ]
-  ],
-  [
-    [
-      "2024-05-31, 16:57:48",
-      "https://news.ycombinator.com/item?id=40537502"
-    ],
-    [
-      "How many holes does the universe have?",
-      "https://www.scientificamerican.com/article/how-many-holes-does-the-universe-have/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "\"Moveable Type\" to end 17-year run in The New York Times's lobby",
       "https://www.nytco.com/press/moveable-type-to-end-17-year-run-in-the-new-york-timess-lobby/"
-    ]
-  ],
-  [
-    [
-      "2024-05-30, 08:46:16",
-      "https://news.ycombinator.com/item?id=40521496"
-    ],
-    [
-      "Why is no Laravel/Rails in JavaScript? Will there be one?",
-      "https://zenstack.dev/blog/js-fullstack"
     ]
   ],
   [
