@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-01, 07:25:48](https://news.ycombinator.com/item?id=40543651) - [CERN Root](https://root.cern/)
 * [2024-06-01, 07:01:22](https://news.ycombinator.com/item?id=40543533) - [BYD unveils new hybrid tech as battle with gasoline rivals heats up](https://www.reuters.com/business/autos-transportation/byd-launches-new-hybrid-vehicle-tech-with-lower-fuel-consumption-2024-05-28/)
 * [2024-06-01, 07:00:04](https://news.ycombinator.com/item?id=40543526) - [Dioxus S23 is hiring a cracked founding engineer (Rust)](https://www.ycombinator.com/companies/dioxus-labs/jobs/dRPOod2-cracked-founding-systems-engineer-rust)
 * [2024-06-01, 06:34:03](https://news.ycombinator.com/item?id=40543408) - [Ticketmaster confirms data breach with a SEC filing](https://stackdiary.com/ticketmaster-confirms-data-breach-with-a-sec-filing/)
@@ -26,7 +27,6 @@
 * [2024-05-31, 03:06:05](https://news.ycombinator.com/item?id=40531100) - [Engineering for Slow Internet](https://brr.fyi/posts/engineering-for-slow-internet)
 * [2024-05-30, 20:10:28](https://news.ycombinator.com/item?id=40528045) - [Show HN: Every mountain, building and tree shadow mapped for any date and time](https://shademap.app)
 * [2024-05-30, 14:56:40](https://news.ycombinator.com/item?id=40524531) - [(some) good corporate engineering blogs are written](https://danluu.com/corp-eng-blogs/)
-* [2024-05-30, 13:08:54](https://news.ycombinator.com/item?id=40523231) - [London's Evening Standard axes daily print edition](https://www.bbc.com/news/articles/cyrr0yex40yo)
 * [2024-05-30, 12:34:58](https://news.ycombinator.com/item?id=40522939) - [Armor from Mycenaean Greece turns out to have been effective](https://arstechnica.com/science/2024/05/researchers-get-modern-marines-to-test-ancient-greek-armor/)
 * [2024-05-30, 10:51:55](https://news.ycombinator.com/item?id=40522232) - [\"Moveable Type\" to end 17-year run in The New York Times's lobby](https://www.nytco.com/press/moveable-type-to-end-17-year-run-in-the-new-york-timess-lobby/)
 * [2024-05-30, 08:06:53](https://news.ycombinator.com/item?id=40521294) - [Japanese 'My Number Card' Digital IDs Coming to Apple's Wallet App](https://www.macrumors.com/2024/05/29/japan-my-number-card-apple-wallet/)
