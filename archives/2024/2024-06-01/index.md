@@ -38,6 +38,7 @@
 * [2024-06-01, 07:00:04](https://news.ycombinator.com/item?id=40543526) - [Dioxus S23 is hiring a cracked founding engineer (Rust)](https://www.ycombinator.com/companies/dioxus-labs/jobs/dRPOod2-cracked-founding-systems-engineer-rust)
 * [2024-06-01, 06:34:03](https://news.ycombinator.com/item?id=40543408) - [Ticketmaster confirms data breach with a SEC filing](https://stackdiary.com/ticketmaster-confirms-data-breach-with-a-sec-filing/)
 * [2024-06-01, 06:18:01](https://news.ycombinator.com/item?id=40543330) - [Nginx Unit: open-source, lightweight and versatile application runtime](https://unit.nginx.org/)
+* [2024-06-01, 06:10:30](https://news.ycombinator.com/item?id=40543299) - [Call Your Local Wizard](https://slate.com/culture/2024/05/witches-wizards-magic-middle-ages-cunning-folk-book.html)
 * [2024-06-01, 05:55:01](https://news.ycombinator.com/item?id=40543238) - [Helldivers 2 has caused over 20k Steam accounts to be banned](https://www.videogamer.com/news/helldivers-2-has-caused-over-20000-steam-accounts-to-be-banned/)
 * [2024-06-01, 05:43:16](https://news.ycombinator.com/item?id=40543196) - [L(O*62).ONG: Make your URL longer](https://loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong)
 * [2024-06-01, 04:46:46](https://news.ycombinator.com/item?id=40542959) - [Stale candy is quite illegal](https://law.justia.com/cases/california/court-of-appeal/2d/94/599.html)
