@@ -1,22 +1,22 @@
 [
   [
     [
+      "2024-06-01, 21:22:39",
+      "https://news.ycombinator.com/item?id=40549173"
+    ],
+    [
+      "Apple downgrades new M2 iPad Air, 9-core GPU instead of 10-core",
+      "https://9to5mac.com/2024/06/01/m2-ipad-air-gpu-core-count/"
+    ]
+  ],
+  [
+    [
       "2024-06-01, 20:59:13",
       "https://news.ycombinator.com/item?id=40549021"
     ],
     [
       "LLMs Aren't \"Trained on the Internet\" Anymore",
       "https://allenpike.com/2024/llms-trained-on-internet"
-    ]
-  ],
-  [
-    [
-      "2024-06-01, 19:50:33",
-      "https://news.ycombinator.com/item?id=40548552"
-    ],
-    [
-      "Statistics of the Negro Leagues officially enter the Major League record",
-      "https://www.mlb.com/press-release/press-release-statistics-of-the-negro-leagues-officially-enter-the-major-league-record"
     ]
   ],
   [
@@ -107,6 +107,16 @@
     [
       "ROOT: analyzing petabytes of data scientifically",
       "https://root.cern/"
+    ]
+  ],
+  [
+    [
+      "2024-06-01, 06:18:01",
+      "https://news.ycombinator.com/item?id=40543330"
+    ],
+    [
+      "Nginx Unit: open-source, lightweight and versatile application runtime",
+      "https://unit.nginx.org/"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "I added some optimizations to my compiler that turns Lisp into JavaScript",
       "https://healeycodes.com/lisp-compiler-optimizations"
-    ]
-  ],
-  [
-    [
-      "2024-05-30, 18:41:07",
-      "https://news.ycombinator.com/item?id=40527220"
-    ],
-    [
-      "Distributed Snapshots: Chandy-Lamport Protocol",
-      "https://blog.fponzi.me/2024-05-30-distributed-snapshots.html"
     ]
   ],
   [
