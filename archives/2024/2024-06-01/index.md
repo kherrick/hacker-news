@@ -8,6 +8,7 @@
 * [2024-06-01, 14:25:22](https://news.ycombinator.com/item?id=40546012) - [Making housing more affordable means your home's value will have to come down](https://www.theglobeandmail.com/business/commentary/article-you-want-housing-affordability-to-go-up-without-home-prices-going-down/)
 * [2024-06-01, 14:15:18](https://news.ycombinator.com/item?id=40545923) - [Donald E. Knuth's Homepage](https://www-cs-faculty.stanford.edu/~knuth/)
 * [2024-06-01, 13:58:25](https://news.ycombinator.com/item?id=40545781) - [Show HN: Classic Nokia 3310 Dotmatrix Font based on original firmwares](https://webdraft.hu/fonts/nokja-original/)
+* [2024-06-01, 13:11:34](https://news.ycombinator.com/item?id=40545459) - [Boeing's largest plant in 'panic mode' amid safety crisis, say workers and union](https://www.theguardian.com/business/article/2024/jun/01/boeing-safety-crisis-response-union-busting)
 * [2024-06-01, 13:08:47](https://news.ycombinator.com/item?id=40545436) - [Napster Sparked a File-Sharing Revolution 25 Years Ago](https://torrentfreak.com/napster-sparked-a-file-sharing-revolution-25-years-ago-250601/)
 * [2024-06-01, 11:38:43](https://news.ycombinator.com/item?id=40544875) - [HuggingFace hacked – Space secrets leak disclosure](https://huggingface.co/blog/space-secrets-disclosure)
 * [2024-06-01, 11:32:48](https://news.ycombinator.com/item?id=40544829) - [The USAF's \"Upside-Down Air Force\"](https://www.twz.com/news-features/the-fascinating-story-of-the-usafs-upside-down-air-force)
