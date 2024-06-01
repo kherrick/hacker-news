@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-01, 16:13:14](https://news.ycombinator.com/item?id=40546920) - [Loss of nearly a full decade of information from early days of Chinese internet](https://chinamediaproject.org/2024/05/27/goldfish-memories/)
 * [2024-06-01, 13:11:34](https://news.ycombinator.com/item?id=40545459) - [Boeing's largest plant in 'panic mode' amid safety crisis, say workers and union](https://www.theguardian.com/business/article/2024/jun/01/boeing-safety-crisis-response-union-busting)
 * [2024-06-01, 13:08:47](https://news.ycombinator.com/item?id=40545436) - [Napster sparked a file-sharing revolution 25 years ago](https://torrentfreak.com/napster-sparked-a-file-sharing-revolution-25-years-ago-250601/)
 * [2024-06-01, 11:38:43](https://news.ycombinator.com/item?id=40544875) - [Space secrets leak disclosure](https://huggingface.co/blog/space-secrets-disclosure)
@@ -18,7 +19,6 @@
 * [2024-05-31, 18:48:46](https://news.ycombinator.com/item?id=40538889) - [Windrecorder – Personal Memory Search Engine](https://github.com/yuka-friends/Windrecorder)
 * [2024-05-31, 17:26:46](https://news.ycombinator.com/item?id=40537911) - [Bento: Open-source fork of the project formerly known as Benthos](https://www.warpstream.com/blog/announcing-bento-the-open-source-fork-of-the-project-formerly-known-as-benthos)
 * [2024-05-31, 16:59:33](https://news.ycombinator.com/item?id=40537523) - [DataFusion Comet: Apache Spark Accelerator](https://github.com/apache/datafusion-comet)
-* [2024-05-31, 16:34:06](https://news.ycombinator.com/item?id=40537187) - [Eye exercises for myopia prevention and control: comprehensive systematic review](https://www.nature.com/articles/s41433-023-02739-x)
 * [2024-05-31, 15:30:00](https://news.ycombinator.com/item?id=40536436) - [How to copy a file from a 30-year-old laptop](https://www.unterminated.com/random-fun/how-to-copy-a-file-from-a-30-year-old-laptop)
 * [2024-05-31, 14:12:32](https://news.ycombinator.com/item?id=40535436) - [Carpenter's AirTags help uncover 'massive' case of stolen tools in Maryland](https://www.washingtonpost.com/dc-md-va/2024/05/31/police-theft-thousands-power-tools/)
 * [2024-05-31, 13:28:08](https://news.ycombinator.com/item?id=40534868) - [Snowflake breach: Hacker confirms access through infostealer infection](https://www.hudsonrock.com/blog/snowflake-massive-breach-access-through-infostealer-infection)
