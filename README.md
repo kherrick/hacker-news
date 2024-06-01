@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-01, 04:37:43](https://news.ycombinator.com/item?id=40542913) - [DearMoon, the first private circum-lunar flight project, will be cancelled](https://twitter.com/dearmoonproject/status/1796759847817625933)
+* [2024-06-01, 03:48:03](https://news.ycombinator.com/item?id=40542724) - [California sides with big utilities, trimming incentives for community solar](https://calmatters.org/environment/2024/05/california-community-solar-incentives/)
 * [2024-06-01, 02:03:17](https://news.ycombinator.com/item?id=40542267) - [When Companies Ask for Your Social Security Number, Try Saying No](https://www.wsj.com/tech/cybersecurity/identity-theft-social-security-number-580f01a4)
 * [2024-06-01, 01:20:20](https://news.ycombinator.com/item?id=40542019) - [Engines of Sacrality: A Footnote on Randall Collins' Interaction Ritual Chains (2013)](http://abandonedfootnotes.blogspot.com/2013/04/engines-of-sacrality-footnote-on.html)
-* [2024-06-01, 00:22:22](https://news.ycombinator.com/item?id=40541668) - [Encountering Strangers in Public Places: Goffman and Civil Inattention (2011)](https://www.everydaysociologyblog.com/2011/12/encountering-strangers-in-public-places-goffman-and-civil-inattention.html)
 * [2024-06-01, 00:05:36](https://news.ycombinator.com/item?id=40541559) - [60 kHz (2022)](https://ben.page/wwvb)
 * [2024-05-31, 23:59:41](https://news.ycombinator.com/item?id=40541524) - [Mathematicians Attempt to Glimpse Past the Big Bang](https://www.quantamagazine.org/mathematicians-attempt-to-glimpse-past-the-big-bang-20240531/)
 * [2024-05-31, 23:52:13](https://news.ycombinator.com/item?id=40541470) - [Moving Beyond Type Systems](https://vhyrro.github.io/posts/effect-systems/)
@@ -16,9 +17,7 @@
 * [2024-05-31, 16:57:48](https://news.ycombinator.com/item?id=40537502) - [How many holes does the universe have?](https://www.scientificamerican.com/article/how-many-holes-does-the-universe-have/)
 * [2024-05-31, 16:34:06](https://news.ycombinator.com/item?id=40537187) - [Eye exercises for myopia prevention and control: comprehensive systematic review](https://www.nature.com/articles/s41433-023-02739-x)
 * [2024-05-31, 16:21:45](https://news.ycombinator.com/item?id=40537026) - [Trial results for new lung cancer drug are 'off the charts'](https://www.theguardian.com/society/article/2024/may/31/trial-results-for-new-lung-cancer-drug-are-off-the-charts-say-doctors)
-* [2024-05-31, 16:16:15](https://news.ycombinator.com/item?id=40536960) - [Vista Equity writes off PluralSight value, after $3.5B buyout](https://www.axios.com/2024/05/31/vista-equity-pluralsight)
 * [2024-05-31, 15:30:00](https://news.ycombinator.com/item?id=40536436) - [How to copy a file from a 30-year-old laptop](https://www.unterminated.com/random-fun/how-to-copy-a-file-from-a-30-year-old-laptop)
-* [2024-05-31, 14:44:09](https://news.ycombinator.com/item?id=40535876) - [Why does searching Google for random hex lead to car dealers? [video]](https://tmp.tonybox.net/hexgoog.mp4)
 * [2024-05-31, 14:12:32](https://news.ycombinator.com/item?id=40535436) - [Carpenter's AirTags help uncover 'massive' case of stolen tools in Maryland](https://www.washingtonpost.com/dc-md-va/2024/05/31/police-theft-thousands-power-tools/)
 * [2024-05-31, 13:28:08](https://news.ycombinator.com/item?id=40534868) - [Snowflake breach: Hacker confirms access through infostealer infection](https://www.hudsonrock.com/blog/snowflake-massive-breach-access-through-infostealer-infection)
 * [2024-05-31, 10:32:27](https://news.ycombinator.com/item?id=40533319) - [Debian KDE: Right Linux distribution for professional digital painting in 2024](https://www.davidrevoy.com/article1030/debian-12-kde-plasma-2024-install-guide)
@@ -29,6 +28,7 @@
 * [2024-05-30, 13:08:54](https://news.ycombinator.com/item?id=40523231) - [London's Evening Standard axes daily print edition](https://www.bbc.com/news/articles/cyrr0yex40yo)
 * [2024-05-30, 12:34:58](https://news.ycombinator.com/item?id=40522939) - [Armor from Mycenaean Greece turns out to have been effective](https://arstechnica.com/science/2024/05/researchers-get-modern-marines-to-test-ancient-greek-armor/)
 * [2024-05-30, 10:51:55](https://news.ycombinator.com/item?id=40522232) - [\"Moveable Type\" to end 17-year run in The New York Times's lobby](https://www.nytco.com/press/moveable-type-to-end-17-year-run-in-the-new-york-timess-lobby/)
+* [2024-05-30, 08:46:16](https://news.ycombinator.com/item?id=40521496) - [Why is no Laravel/Rails in JavaScript? Will there be one?](https://zenstack.dev/blog/js-fullstack)
 * [2024-05-30, 08:06:53](https://news.ycombinator.com/item?id=40521294) - [Japanese 'My Number Card' Digital IDs Coming to Apple's Wallet App](https://www.macrumors.com/2024/05/29/japan-my-number-card-apple-wallet/)
 
 ## [Archives](archives/index.md)

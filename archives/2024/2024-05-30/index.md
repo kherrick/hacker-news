@@ -99,6 +99,7 @@
 * [2024-05-30, 09:19:25](https://news.ycombinator.com/item?id=40521657) - [PG: \"I got tired of hearing that YC fired Sam, so here's what happened\"](https://twitter.com/paulg/status/1796107666265108940)
 * [2024-05-30, 09:02:29](https://news.ycombinator.com/item?id=40521585) - [(Logic) Prolog, Erlang, Elixir a side-by-side reference sheet](https://hyperpolyglot.org/logic)
 * [2024-05-30, 08:50:30](https://news.ycombinator.com/item?id=40521518) - [Why, after 6 years, I'm over GraphQL](https://bessey.dev/blog/2024/05/24/why-im-over-graphql/)
+* [2024-05-30, 08:46:16](https://news.ycombinator.com/item?id=40521496) - [Why is no Laravel/Rails in JavaScript? Will there be one?](https://zenstack.dev/blog/js-fullstack)
 * [2024-05-30, 08:42:42](https://news.ycombinator.com/item?id=40521477) - [The KeePassXC Kerfuffle](https://lwn.net/Articles/973782/)
 * [2024-05-30, 08:06:53](https://news.ycombinator.com/item?id=40521294) - [Japanese 'My Number Card' Digital IDs Coming to Apple's Wallet App](https://www.macrumors.com/2024/05/29/japan-my-number-card-apple-wallet/)
 * [2024-05-30, 07:53:26](https://news.ycombinator.com/item?id=40521229) - [Cybercriminals pose as \"helpful\" Stack Overflow users to push malware](https://www.bleepingcomputer.com/news/security/cybercriminals-pose-as-helpful-stack-overflow-users-to-push-malware/)

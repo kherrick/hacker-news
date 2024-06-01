@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-01](index.md)
 
+* [2024-06-01, 04:37:43](https://news.ycombinator.com/item?id=40542913) - [DearMoon, the first private circum-lunar flight project, will be cancelled](https://twitter.com/dearmoonproject/status/1796759847817625933)
+* [2024-06-01, 03:48:03](https://news.ycombinator.com/item?id=40542724) - [California sides with big utilities, trimming incentives for community solar](https://calmatters.org/environment/2024/05/california-community-solar-incentives/)
 * [2024-06-01, 02:26:25](https://news.ycombinator.com/item?id=40542372) - ['Why You Should Use Your TV's Filmmaker Mode'](https://www.consumerreports.org/electronics-computers/tvs/why-you-should-use-tv-filmmaker-mode-a9272243829/)
 * [2024-06-01, 02:03:17](https://news.ycombinator.com/item?id=40542267) - [When Companies Ask for Your Social Security Number, Try Saying No](https://www.wsj.com/tech/cybersecurity/identity-theft-social-security-number-580f01a4)
 * [2024-06-01, 01:20:20](https://news.ycombinator.com/item?id=40542019) - [Engines of Sacrality: A Footnote on Randall Collins' Interaction Ritual Chains (2013)](http://abandonedfootnotes.blogspot.com/2013/04/engines-of-sacrality-footnote-on.html)
