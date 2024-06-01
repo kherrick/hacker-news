@@ -17,6 +17,7 @@
 * [2024-06-01, 10:49:50](https://news.ycombinator.com/item?id=40544558) - [Ask HN: Small teams and solopreneurs, how are you hosting your apps?](https://news.ycombinator.com/item?id=40544558)
 * [2024-06-01, 10:49:47](https://news.ycombinator.com/item?id=40544556) - [The AI Revolution Is Already Losing Steam](https://www.wsj.com/tech/ai/the-ai-revolution-is-already-losing-steam-a93478b1)
 * [2024-06-01, 10:44:40](https://news.ycombinator.com/item?id=40544531) - [RISC-V must get its messaging right on open standard vs. open source](https://www.theregister.com/2024/05/29/riscv_messsaging_struggle/)
+* [2024-06-01, 10:32:26](https://news.ycombinator.com/item?id=40544458) - [EV startup Fisker's collapse: how the company crumbled](https://techcrunch.com/2024/05/31/fisker-collapse-investigation-ev-ocean-suv-henrik-geeta/)
 * [2024-06-01, 10:10:41](https://news.ycombinator.com/item?id=40544375) - [Show HN: Screenshot to Reactjs and Tailwindcss](https://www.aiui.me/)
 * [2024-06-01, 10:03:15](https://news.ycombinator.com/item?id=40544349) - [Routers cyber security best practices](https://www.cyber.gc.ca/en/guidance/routers-cyber-security-best-practices-itsap80019)
 * [2024-06-01, 10:00:58](https://news.ycombinator.com/item?id=40544336) - [What Autoconf Got Right](https://leahneukirchen.org/blog/archive/2024/04/what-autoconf-got-right.html)
