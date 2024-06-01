@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-01, 09:33:39",
+      "https://news.ycombinator.com/item?id=40544219"
+    ],
+    [
+      "Ticketmaster confirms data hack which could affect 560M globally",
+      "https://www.bbc.co.uk/news/articles/cw99ql0239wo"
+    ]
+  ],
+  [
+    [
       "2024-06-01, 09:13:32",
       "https://news.ycombinator.com/item?id=40544117"
     ],
@@ -147,16 +157,6 @@
     [
       "Go: Sentinel errors and errors.Is() slow your code down by 3000%",
       "https://www.dolthub.com/blog/2024-05-31-benchmarking-go-error-handling/"
-    ]
-  ],
-  [
-    [
-      "2024-05-31, 19:49:18",
-      "https://news.ycombinator.com/item?id=40539471"
-    ],
-    [
-      "Show HN: I built a directory about big life decisions/regrets",
-      "https://www.didyouregretit.com/"
     ]
   ],
   [
