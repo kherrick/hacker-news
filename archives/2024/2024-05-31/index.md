@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-05-31](index.md)
 
+* [2024-05-31, 23:32:55](https://news.ycombinator.com/item?id=40541350) - [Hexadecimal Sucks](https://tylercipriani.com/blog/2024/05/31/hexadecimal-sucks/)
+* [2024-05-31, 22:40:48](https://news.ycombinator.com/item?id=40541074) - [What is the worst AWS service? I vote for Amplify](https://blog.astrian.moe/posts/2024-05-shortext-amplify-may-the-worst-service-of-aws)
+* [2024-05-31, 22:23:08](https://news.ycombinator.com/item?id=40540952) - [UI elements with a hand-drawn, sketchy look](https://wiredjs.com/)
 * [2024-05-31, 21:52:49](https://news.ycombinator.com/item?id=40540703) - [Recall: Stealing everything you've ever typed or viewed on your own Windows PC](https://doublepulsar.com/recall-stealing-everything-youve-ever-typed-or-viewed-on-your-own-windows-pc-is-now-possible-da3e12e9465e)
 * [2024-05-31, 21:25:32](https://news.ycombinator.com/item?id=40540431) - [Satya Nadella is reportedly worried about an OpenAI deal with Apple](https://www.businessinsider.com/satya-nadella-sam-altman-openai-apple-microsoft-worried-about-deal-2024-5)
 * [2024-05-31, 21:09:44](https://news.ycombinator.com/item?id=40540280) - [Apple and OpenAI have signed a deal to partner on AI](https://arstechnica.com/gadgets/2024/05/report-apple-and-openai-have-signed-a-deal-to-partner-on-ai/)
