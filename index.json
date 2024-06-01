@@ -1,11 +1,21 @@
 [
   [
     [
+      "2024-06-01, 19:26:01",
+      "https://news.ycombinator.com/item?id=40548399"
+    ],
+    [
+      "The quest to craft the perfect artificial eye through the ages",
+      "https://www.popsci.com/health/artificial-eye-history/"
+    ]
+  ],
+  [
+    [
       "2024-06-01, 18:23:27",
       "https://news.ycombinator.com/item?id=40547933"
     ],
     [
-      "X Is Justifiably Slow",
+      "X is justifiably slow",
       "https://zeux.io/2024/05/31/justifiably-slow/"
     ]
   ],
@@ -97,6 +107,16 @@
     [
       "Dioxus S23 is hiring a cracked founding engineer (Rust)",
       "https://www.ycombinator.com/companies/dioxus-labs/jobs/dRPOod2-cracked-founding-systems-engineer-rust"
+    ]
+  ],
+  [
+    [
+      "2024-06-01, 06:10:30",
+      "https://news.ycombinator.com/item?id=40543299"
+    ],
+    [
+      "Call Your Local Wizard",
+      "https://slate.com/culture/2024/05/witches-wizards-magic-middle-ages-cunning-folk-book.html"
     ]
   ],
   [
@@ -201,12 +221,12 @@
   ],
   [
     [
-      "2024-05-31, 12:52:27",
-      "https://news.ycombinator.com/item?id=40534504"
+      "2024-05-31, 13:14:32",
+      "https://news.ycombinator.com/item?id=40534740"
     ],
     [
-      "Orion's mysterious free-floating planets",
-      "https://www.bbc.com/future/article/20240522-the-mystery-of-orions-free-floating-giant-twin-planets"
+      "In Colorado, an ambitious new highway policy is not building them",
+      "https://www.nytimes.com/2024/05/31/headway/highways-colorado-transportation.html"
     ]
   ],
   [
@@ -227,16 +247,6 @@
     [
       "Repairing my mug with Kintsugi",
       "https://fellerts.no/projects/kintsugi.php"
-    ]
-  ],
-  [
-    [
-      "2024-05-31, 05:58:10",
-      "https://news.ycombinator.com/item?id=40531935"
-    ],
-    [
-      "Thyratron",
-      "https://en.wikipedia.org/wiki/Thyratron"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Zig's new CLI progress bar explained",
       "https://andrewkelley.me/post/zig-new-cli-progress-bar-explained.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-29, 23:51:40",
-      "https://news.ycombinator.com/item?id=40518525"
-    ],
-    [
-      "Disassembling Dalvik",
-      "https://margin.re/2024/05/dalvik-disassembly/"
     ]
   ]
 ]
