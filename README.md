@@ -13,7 +13,6 @@
 * [2024-06-01, 07:00:04](https://news.ycombinator.com/item?id=40543526) - [Dioxus S23 is hiring a cracked founding engineer (Rust)](https://www.ycombinator.com/companies/dioxus-labs/jobs/dRPOod2-cracked-founding-systems-engineer-rust)
 * [2024-06-01, 06:10:30](https://news.ycombinator.com/item?id=40543299) - [Call Your Local Wizard](https://slate.com/culture/2024/05/witches-wizards-magic-middle-ages-cunning-folk-book.html)
 * [2024-06-01, 03:41:02](https://news.ycombinator.com/item?id=40542691) - [David Hilbert's 1930 Radio Address [video]](https://www.youtube.com/watch?v=wuLFqgx2Pec)
-* [2024-06-01, 00:02:43](https://news.ycombinator.com/item?id=40541536) - [A self-published book broke 'all the rules' and became a best seller](https://www.nytimes.com/2024/05/30/books/booksupdate/keila-shaheen-shadow-work-journal-tiktok.html)
 * [2024-05-31, 22:23:08](https://news.ycombinator.com/item?id=40540952) - [UI elements with a hand-drawn, sketchy look](https://wiredjs.com/)
 * [2024-05-31, 20:41:59](https://news.ycombinator.com/item?id=40540006) - [Show HN: Chess Twist](https://polyreplay.com/chesstwist)
 * [2024-05-31, 20:23:03](https://news.ycombinator.com/item?id=40539800) - [Show HN: I built an interactive cloth solver for Apple Vision Pro](https://www.youtube.com/watch?v=kpD2J85WjzM)
@@ -30,6 +29,7 @@
 * [2024-05-30, 12:10:06](https://news.ycombinator.com/item?id=40522744) - [Making a tic-tac-toe game with 'randomness' using pure HTML and CSS](https://blog.scottlogic.com/2024/05/17/noJS-2-stochastic-boogaloo.html)
 * [2024-05-30, 10:42:03](https://news.ycombinator.com/item?id=40522173) - [in Rust, methods should be object safe](https://nora.codes/post/methods-should-be-object-safe/)
 * [2024-05-30, 04:07:11](https://news.ycombinator.com/item?id=40519976) - [Zig's new CLI progress bar explained](https://andrewkelley.me/post/zig-new-cli-progress-bar-explained.html)
+* [2024-05-29, 23:51:40](https://news.ycombinator.com/item?id=40518525) - [Disassembling Dalvik](https://margin.re/2024/05/dalvik-disassembly/)
 
 ## [Archives](archives/index.md)
 
