@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-01](index.md)
 
+* [2024-06-01, 21:22:39](https://news.ycombinator.com/item?id=40549173) - [Apple downgrades new M2 iPad Air, 9-core GPU instead of 10-core](https://9to5mac.com/2024/06/01/m2-ipad-air-gpu-core-count/)
 * [2024-06-01, 20:59:13](https://news.ycombinator.com/item?id=40549021) - [LLMs Aren't \"Trained on the Internet\" Anymore](https://allenpike.com/2024/llms-trained-on-internet)
 * [2024-06-01, 19:53:37](https://news.ycombinator.com/item?id=40548572) - [Shodan – Search Engine for the Internet of Everything](https://www.shodan.io/)
 * [2024-06-01, 19:50:33](https://news.ycombinator.com/item?id=40548552) - [Statistics of the Negro Leagues officially enter the Major League record](https://www.mlb.com/press-release/press-release-statistics-of-the-negro-leagues-officially-enter-the-major-league-record)
