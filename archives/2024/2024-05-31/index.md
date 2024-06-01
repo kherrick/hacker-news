@@ -27,6 +27,7 @@
 * [2024-05-31, 18:50:31](https://news.ycombinator.com/item?id=40538898) - [Google Chrome's plan to limit ad blocking extensions kicks off next week](https://arstechnica.com/gadgets/2024/05/google-starts-deprecating-older-more-capable-chrome-extensions-next-week/)
 * [2024-05-31, 18:48:51](https://news.ycombinator.com/item?id=40538890) - [Google Cloud error erases $135B pension fund](https://www.axios.com/2024/05/30/google-cloud-pension-error)
 * [2024-05-31, 18:48:46](https://news.ycombinator.com/item?id=40538889) - [Windrecorder – Personal Memory Search Engine](https://github.com/yuka-friends/Windrecorder)
+* [2024-05-31, 18:15:17](https://news.ycombinator.com/item?id=40538540) - [What do I think about Lua after shipping a project with 60k lines of code?](https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733?gi=8385ed7c6379)
 * [2024-05-31, 18:02:31](https://news.ycombinator.com/item?id=40538375) - [The Case Against Gmail](https://www.migadu.com/blog/gmail/)
 * [2024-05-31, 17:42:03](https://news.ycombinator.com/item?id=40538089) - [Climate Change Added 26 Days of Extreme Heat over the Last Year](https://e360.yale.edu/digest/extreme-heat-report-2024)
 * [2024-05-31, 17:36:04](https://news.ycombinator.com/item?id=40538019) - [AI legal research products hallucinate 17-33% of the time](https://hai.stanford.edu/news/ai-trial-legal-models-hallucinate-1-out-6-or-more-benchmarking-queries)
