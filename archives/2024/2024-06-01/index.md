@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-01](index.md)
 
+* [2024-06-01, 08:43:29](https://news.ycombinator.com/item?id=40543990) - [Stealing everything you've ever typed on your Windows Recall PC is now possible](https://simonwillison.net/2024/Jun/1/stealing-everything-youve-ever-typed/#atom-everything)
 * [2024-06-01, 07:25:48](https://news.ycombinator.com/item?id=40543651) - [CERN Root](https://root.cern/)
 * [2024-06-01, 07:17:24](https://news.ycombinator.com/item?id=40543619) - [Giant Tonga Volcanic Eruption Could Disrupt Weather for Years to Come](https://www.sciencealert.com/giant-tonga-volcanic-eruption-could-disrupt-weather-for-years-to-come)
 * [2024-06-01, 07:01:22](https://news.ycombinator.com/item?id=40543533) - [BYD unveils new hybrid tech as battle with gasoline rivals heats up](https://www.reuters.com/business/autos-transportation/byd-launches-new-hybrid-vehicle-tech-with-lower-fuel-consumption-2024-05-28/)
