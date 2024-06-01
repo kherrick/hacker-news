@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2024-06-01, 09:47:53",
+      "https://news.ycombinator.com/item?id=40544283"
+    ],
+    [
+      "Arthur Whitney releases an open-source subset of K with MIT license",
+      "https://shakti.com/k"
+    ]
+  ],
+  [
+    [
       "2024-06-01, 07:25:48",
       "https://news.ycombinator.com/item?id=40543651"
     ],
@@ -87,6 +97,16 @@
     [
       "Dioxus S23 is hiring a cracked founding engineer (Rust)",
       "https://www.ycombinator.com/companies/dioxus-labs/jobs/dRPOod2-cracked-founding-systems-engineer-rust"
+    ]
+  ],
+  [
+    [
+      "2024-06-01, 03:41:02",
+      "https://news.ycombinator.com/item?id=40542691"
+    ],
+    [
+      "David Hilbert's 1930 Radio Address [video]",
+      "https://www.youtube.com/watch?v=wuLFqgx2Pec"
     ]
   ],
   [
@@ -111,22 +131,22 @@
   ],
   [
     [
-      "2024-05-31, 19:17:20",
-      "https://news.ycombinator.com/item?id=40539172"
-    ],
-    [
-      "Heroku Postgres is now based on AWS Aurora",
-      "https://blog.heroku.com/heroku-postgres-essential-launch"
-    ]
-  ],
-  [
-    [
       "2024-05-31, 18:15:17",
       "https://news.ycombinator.com/item?id=40538540"
     ],
     [
       "What I think about Lua after shipping a project with 60k lines of code",
       "https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733?gi=8385ed7c6379"
+    ]
+  ],
+  [
+    [
+      "2024-05-31, 16:01:50",
+      "https://news.ycombinator.com/item?id=40536793"
+    ],
+    [
+      "Multi-Array Queue",
+      "https://github.com/MultiArrayQueue/MultiArrayQueue"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2024-05-30, 14:33:46",
-      "https://news.ycombinator.com/item?id=40524238"
-    ],
-    [
-      "Physicists Puzzle over Emergence of Electron Aggregates",
-      "https://www.quantamagazine.org/physicists-puzzle-over-emergence-of-strange-electron-aggregates-20240529/"
-    ]
-  ],
-  [
-    [
       "2024-05-30, 12:34:58",
       "https://news.ycombinator.com/item?id=40522939"
     ],
@@ -287,16 +297,6 @@
     [
       "Disassembling Dalvik",
       "https://margin.re/2024/05/dalvik-disassembly/"
-    ]
-  ],
-  [
-    [
-      "2024-05-29, 18:56:28",
-      "https://news.ycombinator.com/item?id=40515480"
-    ],
-    [
-      "String Comparison Timing Attacks",
-      "https://www.sjoerdlangkemper.nl/2024/05/29/string-comparison-timing-attacks/"
     ]
   ]
 ]
