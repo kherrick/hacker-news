@@ -7,6 +7,7 @@
 * [2024-06-01, 11:38:43](https://news.ycombinator.com/item?id=40544875) - [HuggingFace hacked – Space secrets leak disclosure](https://huggingface.co/blog/space-secrets-disclosure)
 * [2024-06-01, 11:32:48](https://news.ycombinator.com/item?id=40544829) - [The USAF's \"Upside-Down Air Force\"](https://www.twz.com/news-features/the-fascinating-story-of-the-usafs-upside-down-air-force)
 * [2024-06-01, 11:27:18](https://news.ycombinator.com/item?id=40544794) - [Is Red Meat Healthy? Multiverse Analysis Has Lessons Beyond Meat](https://www.medscape.com/viewarticle/red-meat-healthy-multiverse-analysis-has-lessons-beyond-meat-2024a10008qv)
+* [2024-06-01, 11:24:28](https://news.ycombinator.com/item?id=40544770) - [Show HN: I built a Backend so Simple that it Fits in 1 YAML File](https://manifest.build)
 * [2024-06-01, 10:49:47](https://news.ycombinator.com/item?id=40544556) - [The AI Revolution Is Already Losing Steam](https://www.wsj.com/tech/ai/the-ai-revolution-is-already-losing-steam-a93478b1)
 * [2024-06-01, 10:03:15](https://news.ycombinator.com/item?id=40544349) - [Routers cyber security best practices](https://www.cyber.gc.ca/en/guidance/routers-cyber-security-best-practices-itsap80019)
 * [2024-06-01, 09:47:53](https://news.ycombinator.com/item?id=40544283) - [Arthur Whitney releases K source with MIT license](https://shakti.com/k)
