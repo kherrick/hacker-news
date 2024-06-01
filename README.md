@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-01, 09:47:53](https://news.ycombinator.com/item?id=40544283) - [Arthur Whitney releases K source with MIT license](https://shakti.com/k)
+* [2024-06-01, 09:47:53](https://news.ycombinator.com/item?id=40544283) - [Arthur Whitney releases an open-source K with MIT license](https://shakti.com/k)
 * [2024-06-01, 09:33:39](https://news.ycombinator.com/item?id=40544219) - [Ticketmaster confirms data hack which could affect 560M globally](https://www.bbc.co.uk/news/articles/cw99ql0239wo)
 * [2024-06-01, 09:13:32](https://news.ycombinator.com/item?id=40544117) - [Transformers Represent Belief State Geometry in Their Residual Stream](https://www.lesswrong.com/posts/gTZ2SxesbHckJ3CkF/transformers-represent-belief-state-geometry-in-their)
 * [2024-06-01, 08:55:17](https://news.ycombinator.com/item?id=40544043) - [Lessons learned from 6 months of operating a tiny news archive](https://hiandrewquinn.github.io/til-site/posts/lessons-learned-from-6-months-of-operating-a-teensy-tiny-news-archive/)
@@ -29,7 +29,7 @@
 * [2024-05-30, 14:56:40](https://news.ycombinator.com/item?id=40524531) - [(some) good corporate engineering blogs are written](https://danluu.com/corp-eng-blogs/)
 * [2024-05-30, 14:33:46](https://news.ycombinator.com/item?id=40524238) - [Physicists Puzzle over Emergence of Electron Aggregates](https://www.quantamagazine.org/physicists-puzzle-over-emergence-of-strange-electron-aggregates-20240529/)
 * [2024-05-30, 12:34:58](https://news.ycombinator.com/item?id=40522939) - [Armor from Mycenaean Greece turns out to have been effective](https://arstechnica.com/science/2024/05/researchers-get-modern-marines-to-test-ancient-greek-armor/)
-* [2024-05-30, 10:51:55](https://news.ycombinator.com/item?id=40522232) - [\"Moveable Type\" to end 17-year run in The New York Times's lobby](https://www.nytco.com/press/moveable-type-to-end-17-year-run-in-the-new-york-timess-lobby/)
+* [2024-05-30, 10:51:55](https://news.ycombinator.com/item?id=40522232) - [“Moveable Type” to end 17-year run in The New York Times’s lobby](https://www.nytco.com/press/moveable-type-to-end-17-year-run-in-the-new-york-timess-lobby/)
 
 ## [Archives](archives/index.md)
 
