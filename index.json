@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-06-01, 19:53:37",
-      "https://news.ycombinator.com/item?id=40548572"
-    ],
-    [
-      "Shodan – Search Engine for the Internet of Everything",
-      "https://www.shodan.io/"
-    ]
-  ],
-  [
-    [
       "2024-06-01, 19:26:01",
       "https://news.ycombinator.com/item?id=40548399"
     ],
@@ -121,16 +111,6 @@
   ],
   [
     [
-      "2024-05-31, 20:41:59",
-      "https://news.ycombinator.com/item?id=40540006"
-    ],
-    [
-      "Show HN: Chess Twist",
-      "https://polyreplay.com/chesstwist"
-    ]
-  ],
-  [
-    [
       "2024-05-31, 20:23:03",
       "https://news.ycombinator.com/item?id=40539800"
     ],
@@ -231,6 +211,16 @@
   ],
   [
     [
+      "2024-05-31, 05:58:10",
+      "https://news.ycombinator.com/item?id=40531935"
+    ],
+    [
+      "Thyratron",
+      "https://en.wikipedia.org/wiki/Thyratron"
+    ]
+  ],
+  [
+    [
       "2024-05-31, 05:29:39",
       "https://news.ycombinator.com/item?id=40531803"
     ],
@@ -257,6 +247,16 @@
     [
       "I added some optimizations to my compiler that turns Lisp into JavaScript",
       "https://healeycodes.com/lisp-compiler-optimizations"
+    ]
+  ],
+  [
+    [
+      "2024-05-30, 18:41:07",
+      "https://news.ycombinator.com/item?id=40527220"
+    ],
+    [
+      "Distributed Snapshots: Chandy-Lamport Protocol",
+      "https://blog.fponzi.me/2024-05-30-distributed-snapshots.html"
     ]
   ],
   [
