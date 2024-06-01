@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=40544875"
     ],
     [
-      "HuggingFace hacked – Space secrets leak disclosure",
+      "Space secrets leak disclosure",
       "https://huggingface.co/blog/space-secrets-disclosure"
     ]
   ],
@@ -37,16 +37,6 @@
     [
       "The USAF's \"Upside-Down Air Force\"",
       "https://www.twz.com/news-features/the-fascinating-story-of-the-usafs-upside-down-air-force"
-    ]
-  ],
-  [
-    [
-      "2024-06-01, 11:24:28",
-      "https://news.ycombinator.com/item?id=40544770"
-    ],
-    [
-      "Show HN: I built a Backend so Simple that it Fits in 1 YAML File",
-      "https://manifest.build"
     ]
   ],
   [
@@ -87,16 +77,6 @@
     [
       "Arthur Whitney releases an open-source K with MIT license",
       "https://shakti.com/k"
-    ]
-  ],
-  [
-    [
-      "2024-06-01, 09:33:39",
-      "https://news.ycombinator.com/item?id=40544219"
-    ],
-    [
-      "Ticketmaster confirms data hack which could affect 560M globally",
-      "https://www.bbc.co.uk/news/articles/cw99ql0239wo"
     ]
   ],
   [
@@ -161,22 +141,22 @@
   ],
   [
     [
-      "2024-06-01, 06:34:03",
-      "https://news.ycombinator.com/item?id=40543408"
-    ],
-    [
-      "Ticketmaster confirms data breach with a SEC filing",
-      "https://stackdiary.com/ticketmaster-confirms-data-breach-with-a-sec-filing/"
-    ]
-  ],
-  [
-    [
       "2024-06-01, 06:18:01",
       "https://news.ycombinator.com/item?id=40543330"
     ],
     [
       "Nginx Unit: open-source, lightweight and versatile application runtime",
       "https://unit.nginx.org/"
+    ]
+  ],
+  [
+    [
+      "2024-06-01, 03:48:03",
+      "https://news.ycombinator.com/item?id=40542724"
+    ],
+    [
+      "California sides with big utilities, trimming incentives for community solar",
+      "https://calmatters.org/environment/2024/05/california-community-solar-incentives/"
     ]
   ],
   [
@@ -221,6 +201,16 @@
   ],
   [
     [
+      "2024-05-31, 19:49:18",
+      "https://news.ycombinator.com/item?id=40539471"
+    ],
+    [
+      "Show HN: I built a directory about big life decisions/regrets",
+      "https://www.didyouregretit.com/"
+    ]
+  ],
+  [
+    [
       "2024-05-31, 19:17:20",
       "https://news.ycombinator.com/item?id=40539172"
     ],
@@ -257,6 +247,16 @@
     [
       "Debian KDE: Right Linux distribution for professional digital painting in 2024",
       "https://www.davidrevoy.com/article1030/debian-12-kde-plasma-2024-install-guide"
+    ]
+  ],
+  [
+    [
+      "2024-05-31, 03:06:05",
+      "https://news.ycombinator.com/item?id=40531100"
+    ],
+    [
+      "Engineering for Slow Internet",
+      "https://brr.fyi/posts/engineering-for-slow-internet"
     ]
   ],
   [
