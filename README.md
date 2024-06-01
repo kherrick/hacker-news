@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-01, 07:25:48](https://news.ycombinator.com/item?id=40543651) - [CERN Root](https://root.cern/)
+* [2024-06-01, 07:17:24](https://news.ycombinator.com/item?id=40543619) - [Giant Tonga Volcanic Eruption Could Disrupt Weather for Years to Come](https://www.sciencealert.com/giant-tonga-volcanic-eruption-could-disrupt-weather-for-years-to-come)
 * [2024-06-01, 07:01:22](https://news.ycombinator.com/item?id=40543533) - [BYD unveils new hybrid tech as battle with gasoline rivals heats up](https://www.reuters.com/business/autos-transportation/byd-launches-new-hybrid-vehicle-tech-with-lower-fuel-consumption-2024-05-28/)
 * [2024-06-01, 07:00:04](https://news.ycombinator.com/item?id=40543526) - [Dioxus S23 is hiring a cracked founding engineer (Rust)](https://www.ycombinator.com/companies/dioxus-labs/jobs/dRPOod2-cracked-founding-systems-engineer-rust)
 * [2024-06-01, 06:34:03](https://news.ycombinator.com/item?id=40543408) - [Ticketmaster confirms data breach with a SEC filing](https://stackdiary.com/ticketmaster-confirms-data-breach-with-a-sec-filing/)
@@ -13,7 +14,6 @@
 * [2024-06-01, 01:53:45](https://news.ycombinator.com/item?id=40542231) - [Spring Forth, My Creation](https://wondermark.com/c/1548/)
 * [2024-06-01, 01:20:20](https://news.ycombinator.com/item?id=40542019) - [Engines of Sacrality: A Footnote on Randall Collins' Interaction Ritual Chains (2013)](http://abandonedfootnotes.blogspot.com/2013/04/engines-of-sacrality-footnote-on.html)
 * [2024-06-01, 00:05:36](https://news.ycombinator.com/item?id=40541559) - [60 kHz (2022)](https://ben.page/wwvb)
-* [2024-05-31, 23:59:41](https://news.ycombinator.com/item?id=40541524) - [Mathematicians Attempt to Glimpse Past the Big Bang](https://www.quantamagazine.org/mathematicians-attempt-to-glimpse-past-the-big-bang-20240531/)
 * [2024-05-31, 22:23:08](https://news.ycombinator.com/item?id=40540952) - [UI elements with a hand-drawn, sketchy look](https://wiredjs.com/)
 * [2024-05-31, 20:12:25](https://news.ycombinator.com/item?id=40539700) - [Go: Sentinel errors and errors.Is() slow your code down by 3000%](https://www.dolthub.com/blog/2024-05-31-benchmarking-go-error-handling/)
 * [2024-05-31, 19:17:20](https://news.ycombinator.com/item?id=40539172) - [Heroku Postgres is now based on AWS Aurora](https://blog.heroku.com/heroku-postgres-essential-launch)
