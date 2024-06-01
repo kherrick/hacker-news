@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-01](index.md)
 
+* [2024-06-01, 17:08:04](https://news.ycombinator.com/item?id=40547401) - [Show HN: Tiny Chrome extension to disable images to reduce distractions](https://github.com/kirill-markin/chrome-auto-image-blocker)
 * [2024-06-01, 16:13:14](https://news.ycombinator.com/item?id=40546920) - [Loss of nearly a full decade of information from early days of Chinese internet](https://chinamediaproject.org/2024/05/27/goldfish-memories/)
 * [2024-06-01, 15:14:56](https://news.ycombinator.com/item?id=40546415) - [RIP to the Greatest CEO You've Never Heard Of](https://davidepstein.substack.com/p/year-end-remembrances-part-3-the)
 * [2024-06-01, 14:56:04](https://news.ycombinator.com/item?id=40546238) - [The big lie about sleep](https://www.businessinsider.com/sleep-loss-deprivation-america-reasons-health-inequality-economic-stress-money-2024-5)
