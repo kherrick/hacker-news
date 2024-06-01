@@ -4,6 +4,7 @@
 * [2024-06-01, 11:32:48](https://news.ycombinator.com/item?id=40544829) - [The USAF's \"Upside-Down Air Force\"](https://www.twz.com/news-features/the-fascinating-story-of-the-usafs-upside-down-air-force)
 * [2024-06-01, 11:27:18](https://news.ycombinator.com/item?id=40544794) - [Is Red Meat Healthy? Multiverse Analysis Has Lessons Beyond Meat](https://www.medscape.com/viewarticle/red-meat-healthy-multiverse-analysis-has-lessons-beyond-meat-2024a10008qv)
 * [2024-06-01, 11:24:28](https://news.ycombinator.com/item?id=40544770) - [Show HN: I built a Backend so Simple that it Fits in 1 YAML File](https://manifest.build)
+* [2024-06-01, 10:44:40](https://news.ycombinator.com/item?id=40544531) - [RISC-V must get its messaging right on open standard vs. open source](https://www.theregister.com/2024/05/29/riscv_messsaging_struggle/)
 * [2024-06-01, 10:03:15](https://news.ycombinator.com/item?id=40544349) - [Routers cyber security best practices](https://www.cyber.gc.ca/en/guidance/routers-cyber-security-best-practices-itsap80019)
 * [2024-06-01, 09:47:53](https://news.ycombinator.com/item?id=40544283) - [Arthur Whitney releases an open-source K with MIT license](https://shakti.com/k)
 * [2024-06-01, 09:33:39](https://news.ycombinator.com/item?id=40544219) - [Ticketmaster confirms data hack which could affect 560M globally](https://www.bbc.co.uk/news/articles/cw99ql0239wo)
@@ -29,7 +30,6 @@
 * [2024-05-30, 14:56:40](https://news.ycombinator.com/item?id=40524531) - [(some) good corporate engineering blogs are written](https://danluu.com/corp-eng-blogs/)
 * [2024-05-30, 14:33:46](https://news.ycombinator.com/item?id=40524238) - [Physicists Puzzle over Emergence of Electron Aggregates](https://www.quantamagazine.org/physicists-puzzle-over-emergence-of-strange-electron-aggregates-20240529/)
 * [2024-05-30, 12:34:58](https://news.ycombinator.com/item?id=40522939) - [Armor from Mycenaean Greece turns out to have been effective](https://arstechnica.com/science/2024/05/researchers-get-modern-marines-to-test-ancient-greek-armor/)
-* [2024-05-30, 10:51:55](https://news.ycombinator.com/item?id=40522232) - [“Moveable Type” to end 17-year run in The New York Times’s lobby](https://www.nytco.com/press/moveable-type-to-end-17-year-run-in-the-new-york-timess-lobby/)
 
 ## [Archives](archives/index.md)
 
