@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-01, 00:38:15",
+      "https://news.ycombinator.com/item?id=40541765"
+    ],
+    [
+      "Distributor of '2000 Mules' election conspiracy film pulls film from platforms",
+      "https://www.npr.org/2024/05/31/g-s1-2298/publisher-of-2000-mules-election-conspiracy-theory-film-issues-apology"
+    ]
+  ],
+  [
+    [
+      "2024-06-01, 00:22:22",
+      "https://news.ycombinator.com/item?id=40541668"
+    ],
+    [
+      "Encountering Strangers in Public Places: Goffman and Civil Inattention",
+      "https://www.everydaysociologyblog.com/2011/12/encountering-strangers-in-public-places-goffman-and-civil-inattention.html"
+    ]
+  ],
+  [
+    [
       "2024-06-01, 00:05:36",
       "https://news.ycombinator.com/item?id=40541559"
     ],
@@ -11,22 +31,32 @@
   ],
   [
     [
+      "2024-05-31, 23:59:41",
+      "https://news.ycombinator.com/item?id=40541524"
+    ],
+    [
+      "Mathematicians Attempt to Glimpse Past the Big Bang",
+      "https://www.quantamagazine.org/mathematicians-attempt-to-glimpse-past-the-big-bang-20240531/"
+    ]
+  ],
+  [
+    [
+      "2024-05-31, 23:52:13",
+      "https://news.ycombinator.com/item?id=40541470"
+    ],
+    [
+      "Moving Beyond Type Systems",
+      "https://vhyrro.github.io/posts/effect-systems/"
+    ]
+  ],
+  [
+    [
       "2024-05-31, 23:32:55",
       "https://news.ycombinator.com/item?id=40541350"
     ],
     [
       "Hexadecimal Sucks",
       "https://tylercipriani.com/blog/2024/05/31/hexadecimal-sucks/"
-    ]
-  ],
-  [
-    [
-      "2024-05-31, 22:40:48",
-      "https://news.ycombinator.com/item?id=40541074"
-    ],
-    [
-      "What is the worst AWS service? I vote for Amplify",
-      "https://blog.astrian.moe/posts/2024-05-shortext-amplify-may-the-worst-service-of-aws"
     ]
   ],
   [
@@ -57,16 +87,6 @@
     [
       "Cyber house of cards – Politicians' personal details exposed online",
       "https://proton.me/blog/politicians-exposed-dark-web"
-    ]
-  ],
-  [
-    [
-      "2024-05-31, 20:40:46",
-      "https://news.ycombinator.com/item?id=40539997"
-    ],
-    [
-      "An Algorithmic Solution to Insomnia",
-      "https://ilya.sukhar.com/blog/an-algorithmic-solution-to-insomnia.html"
     ]
   ],
   [
@@ -171,26 +191,6 @@
   ],
   [
     [
-      "2024-05-31, 14:45:55",
-      "https://news.ycombinator.com/item?id=40535895"
-    ],
-    [
-      "Standard Ebooks' 1,000th title: Ulysses",
-      "https://standardebooks.org/ebooks/james-joyce/ulysses"
-    ]
-  ],
-  [
-    [
-      "2024-05-31, 14:44:09",
-      "https://news.ycombinator.com/item?id=40535876"
-    ],
-    [
-      "Why does searching Google for random hex lead to car dealers? [video]",
-      "https://tmp.tonybox.net/hexgoog.mp4"
-    ]
-  ],
-  [
-    [
       "2024-05-31, 14:12:32",
       "https://news.ycombinator.com/item?id=40535436"
     ],
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2024-05-30, 14:56:40",
+      "https://news.ycombinator.com/item?id=40524531"
+    ],
+    [
+      "(some) good corporate engineering blogs are written",
+      "https://danluu.com/corp-eng-blogs/"
+    ]
+  ],
+  [
+    [
       "2024-05-30, 13:08:54",
       "https://news.ycombinator.com/item?id=40523231"
     ],
@@ -287,16 +297,6 @@
     [
       "\"Moveable Type\" to end 17-year run in The New York Times's lobby",
       "https://www.nytco.com/press/moveable-type-to-end-17-year-run-in-the-new-york-timess-lobby/"
-    ]
-  ],
-  [
-    [
-      "2024-05-29, 16:49:04",
-      "https://news.ycombinator.com/item?id=40514033"
-    ],
-    [
-      "Why Linux developers do not fix reported issues or ignore bug reports",
-      "https://linux-regtracking.leemhuis.info/post/frequent-reasons-why-linux-kernel-bug-reports-are-ignored/"
     ]
   ]
 ]
