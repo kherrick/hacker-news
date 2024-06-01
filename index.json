@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-06-01, 16:59:15",
-      "https://news.ycombinator.com/item?id=40547338"
-    ],
-    [
-      "Boeing and NASA call off Starliner crew launch minutes before liftoff",
-      "https://www.cnbc.com/2024/06/01/boeings-starliner-first-launch-with-nasa-astronauts.html"
-    ]
-  ],
-  [
-    [
       "2024-06-01, 16:13:14",
       "https://news.ycombinator.com/item?id=40546920"
     ],
@@ -141,16 +131,6 @@
   ],
   [
     [
-      "2024-05-31, 20:12:25",
-      "https://news.ycombinator.com/item?id=40539700"
-    ],
-    [
-      "Go: Sentinel errors and errors.Is() slow your code down by 3000%",
-      "https://www.dolthub.com/blog/2024-05-31-benchmarking-go-error-handling/"
-    ]
-  ],
-  [
-    [
       "2024-05-31, 19:17:20",
       "https://news.ycombinator.com/item?id=40539172"
     ],
@@ -161,32 +141,12 @@
   ],
   [
     [
-      "2024-05-31, 18:48:46",
-      "https://news.ycombinator.com/item?id=40538889"
-    ],
-    [
-      "Windrecorder – Personal Memory Search Engine",
-      "https://github.com/yuka-friends/Windrecorder"
-    ]
-  ],
-  [
-    [
       "2024-05-31, 18:15:17",
       "https://news.ycombinator.com/item?id=40538540"
     ],
     [
-      "What do I think about Lua after shipping a project with 60k lines of code?",
+      "What I think about Lua after shipping a project with 60k lines of code",
       "https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733?gi=8385ed7c6379"
-    ]
-  ],
-  [
-    [
-      "2024-05-31, 16:59:33",
-      "https://news.ycombinator.com/item?id=40537523"
-    ],
-    [
-      "DataFusion Comet: Apache Spark Accelerator",
-      "https://github.com/apache/datafusion-comet"
     ]
   ],
   [
@@ -201,12 +161,32 @@
   ],
   [
     [
+      "2024-05-31, 14:43:42",
+      "https://news.ycombinator.com/item?id=40535868"
+    ],
+    [
+      "This Message Does Not Exist",
+      "https://www.kmjn.org/notes/message_existence.html"
+    ]
+  ],
+  [
+    [
       "2024-05-31, 14:12:32",
       "https://news.ycombinator.com/item?id=40535436"
     ],
     [
       "Carpenter's AirTags help uncover 'massive' case of stolen tools in Maryland",
       "https://www.washingtonpost.com/dc-md-va/2024/05/31/police-theft-thousands-power-tools/"
+    ]
+  ],
+  [
+    [
+      "2024-05-31, 12:33:10",
+      "https://news.ycombinator.com/item?id=40534293"
+    ],
+    [
+      "What we've learned from a year of building with LLMs",
+      "https://eugeneyan.com/writing/llm-lessons/"
     ]
   ],
   [
@@ -221,12 +201,12 @@
   ],
   [
     [
-      "2024-05-31, 03:06:05",
-      "https://news.ycombinator.com/item?id=40531100"
+      "2024-05-31, 09:57:19",
+      "https://news.ycombinator.com/item?id=40533139"
     ],
     [
-      "Engineering for Slow Internet",
-      "https://brr.fyi/posts/engineering-for-slow-internet"
+      "Repairing my mug with Kintsugi",
+      "https://fellerts.no/projects/kintsugi.php"
     ]
   ],
   [
@@ -235,7 +215,7 @@
       "https://news.ycombinator.com/item?id=40529470"
     ],
     [
-      "Lisp Compiler Optimizations",
+      "I added some optimizations to my compiler that turns Lisp into JavaScript",
       "https://healeycodes.com/lisp-compiler-optimizations"
     ]
   ],
@@ -247,6 +227,16 @@
     [
       "Show HN: Every mountain, building and tree shadow mapped for any date and time",
       "https://shademap.app"
+    ]
+  ],
+  [
+    [
+      "2024-05-30, 18:41:07",
+      "https://news.ycombinator.com/item?id=40527220"
+    ],
+    [
+      "Distributed Snapshots: Chandy-Lamport Protocol",
+      "https://blog.fponzi.me/2024-05-30-distributed-snapshots.html"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "in Rust, methods should be object safe",
       "https://nora.codes/post/methods-should-be-object-safe/"
+    ]
+  ],
+  [
+    [
+      "2024-05-30, 04:07:11",
+      "https://news.ycombinator.com/item?id=40519976"
+    ],
+    [
+      "Zig's new CLI progress bar explained",
+      "https://andrewkelley.me/post/zig-new-cli-progress-bar-explained.html"
     ]
   ],
   [
