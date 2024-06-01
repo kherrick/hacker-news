@@ -6,6 +6,7 @@
 
 * [2024-06-01, 20:59:13](https://news.ycombinator.com/item?id=40549021) - [LLMs Aren't \"Trained on the Internet\" Anymore](https://allenpike.com/2024/llms-trained-on-internet)
 * [2024-06-01, 19:53:37](https://news.ycombinator.com/item?id=40548572) - [Shodan – Search Engine for the Internet of Everything](https://www.shodan.io/)
+* [2024-06-01, 19:50:33](https://news.ycombinator.com/item?id=40548552) - [Statistics of the Negro Leagues officially enter the Major League record](https://www.mlb.com/press-release/press-release-statistics-of-the-negro-leagues-officially-enter-the-major-league-record)
 * [2024-06-01, 19:26:01](https://news.ycombinator.com/item?id=40548399) - [The quest to craft the perfect artificial eye through the ages](https://www.popsci.com/health/artificial-eye-history/)
 * [2024-06-01, 18:23:27](https://news.ycombinator.com/item?id=40547933) - [X Is Justifiably Slow](https://zeux.io/2024/05/31/justifiably-slow/)
 * [2024-06-01, 18:10:58](https://news.ycombinator.com/item?id=40547855) - [Tell HN: Google's new summarize SMS just read another person's messages to me](https://news.ycombinator.com/item?id=40547855)
