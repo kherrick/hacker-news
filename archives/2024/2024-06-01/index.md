@@ -19,6 +19,7 @@
 * [2024-06-01, 10:44:40](https://news.ycombinator.com/item?id=40544531) - [RISC-V must get its messaging right on open standard vs. open source](https://www.theregister.com/2024/05/29/riscv_messsaging_struggle/)
 * [2024-06-01, 10:10:41](https://news.ycombinator.com/item?id=40544375) - [Show HN: Screenshot to Reactjs and Tailwindcss](https://www.aiui.me/)
 * [2024-06-01, 10:03:15](https://news.ycombinator.com/item?id=40544349) - [Routers cyber security best practices](https://www.cyber.gc.ca/en/guidance/routers-cyber-security-best-practices-itsap80019)
+* [2024-06-01, 10:00:58](https://news.ycombinator.com/item?id=40544336) - [What Autoconf Got Right](https://leahneukirchen.org/blog/archive/2024/04/what-autoconf-got-right.html)
 * [2024-06-01, 09:47:53](https://news.ycombinator.com/item?id=40544283) - [Arthur Whitney releases K source with MIT license](https://shakti.com/k)
 * [2024-06-01, 09:33:39](https://news.ycombinator.com/item?id=40544219) - [Ticketmaster confirms data hack which could affect 560M globally](https://www.bbc.co.uk/news/articles/cw99ql0239wo)
 * [2024-06-01, 09:15:59](https://news.ycombinator.com/item?id=40544132) - [WordPress next, and beyond: breaking the technical enclosure](https://thomas.diluccio.fr/2024/05/30/wordpress-next-and-beyond-breaking-the-technical-enclosure/)
