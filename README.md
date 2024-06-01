@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-01, 21:32:12](https://news.ycombinator.com/item?id=40549250) - [Lisp: Icing or Cake?](https://dthompson.us/posts/lisp-icing-or-cake.html)
-* [2024-06-01, 21:28:49](https://news.ycombinator.com/item?id=40549220) - [Loyalty at work no longer pays – and it's employers who are to blame](https://www.businessinsider.com/why-loyalty-between-employers-employees-2024-5)
 * [2024-06-01, 21:22:39](https://news.ycombinator.com/item?id=40549173) - [Apple downgrades new M2 iPad Air, 9-core GPU instead of 10-core](https://9to5mac.com/2024/06/01/m2-ipad-air-gpu-core-count/)
-* [2024-06-01, 20:59:13](https://news.ycombinator.com/item?id=40549021) - [LLMs Aren't \"Trained on the Internet\" Anymore](https://allenpike.com/2024/llms-trained-on-internet)
+* [2024-06-01, 20:59:13](https://news.ycombinator.com/item?id=40549021) - [LLMs aren't \"trained on the internet\" anymore](https://allenpike.com/2024/llms-trained-on-internet)
 * [2024-06-01, 19:26:01](https://news.ycombinator.com/item?id=40548399) - [The quest to craft the perfect artificial eye through the ages](https://www.popsci.com/health/artificial-eye-history/)
 * [2024-06-01, 18:23:27](https://news.ycombinator.com/item?id=40547933) - [X is justifiably slow (2022)](https://zeux.io/2024/05/31/justifiably-slow/)
 * [2024-06-01, 17:08:04](https://news.ycombinator.com/item?id=40547401) - [Show HN: Tiny Chrome extension to disable images to reduce distractions](https://github.com/kirill-markin/chrome-auto-image-blocker)
@@ -30,6 +29,7 @@
 * [2024-05-30, 12:10:06](https://news.ycombinator.com/item?id=40522744) - [Making a tic-tac-toe game with ‘randomness’ using pure HTML and CSS](https://blog.scottlogic.com/2024/05/17/noJS-2-stochastic-boogaloo.html)
 * [2024-05-30, 04:07:11](https://news.ycombinator.com/item?id=40519976) - [Zig's new CLI progress bar explained](https://andrewkelley.me/post/zig-new-cli-progress-bar-explained.html)
 * [2024-05-29, 23:51:40](https://news.ycombinator.com/item?id=40518525) - [Disassembling Dalvik](https://margin.re/2024/05/dalvik-disassembly/)
+* [2024-05-29, 21:44:22](https://news.ycombinator.com/item?id=40517401) - [LLMs Have Favorites Numbers](https://gramener.com/llmrandom/)
 
 ## [Archives](archives/index.md)
 
