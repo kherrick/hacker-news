@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2024-06-01, 00:02:43",
-      "https://news.ycombinator.com/item?id=40541536"
-    ],
-    [
-      "A self-published book broke 'all the rules' and became a best seller",
-      "https://www.nytimes.com/2024/05/30/books/booksupdate/keila-shaheen-shadow-work-journal-tiktok.html"
-    ]
-  ],
-  [
-    [
       "2024-05-31, 22:23:08",
       "https://news.ycombinator.com/item?id=40540952"
     ],
@@ -297,6 +287,16 @@
     [
       "Zig's new CLI progress bar explained",
       "https://andrewkelley.me/post/zig-new-cli-progress-bar-explained.html"
+    ]
+  ],
+  [
+    [
+      "2024-05-29, 23:51:40",
+      "https://news.ycombinator.com/item?id=40518525"
+    ],
+    [
+      "Disassembling Dalvik",
+      "https://margin.re/2024/05/dalvik-disassembly/"
     ]
   ]
 ]
