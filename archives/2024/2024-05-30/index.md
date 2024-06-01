@@ -64,6 +64,7 @@
 * [2024-05-30, 15:24:36](https://news.ycombinator.com/item?id=40524823) - ['Operation Endgame' Hits Malware Delivery Platforms](https://krebsonsecurity.com/2024/05/operation-endgame-hits-malware-delivery-platforms/)
 * [2024-05-30, 15:17:39](https://news.ycombinator.com/item?id=40524759) - [Better RAG Results with Reciprocal Rank Fusion and Hybrid Search](https://www.assembled.com/blog/better-rag-results-with-reciprocal-rank-fusion-and-hybrid-search)
 * [2024-05-30, 15:10:55](https://news.ycombinator.com/item?id=40524681) - [Show HN: Webhooks for Any Event](https://markets.sh/notifications/api)
+* [2024-05-30, 14:56:40](https://news.ycombinator.com/item?id=40524531) - [(some) good corporate engineering blogs are written](https://danluu.com/corp-eng-blogs/)
 * [2024-05-30, 14:54:13](https://news.ycombinator.com/item?id=40524501) - [Ask HN: What do devs use for quickly setting up a feedback form?](https://news.ycombinator.com/item?id=40524501)
 * [2024-05-30, 14:41:00](https://news.ycombinator.com/item?id=40524339) - [The Social Lives of the Teens Who Don't Have Phones](https://www.thecut.com/article/phones-teens-screentime-restrictions-jonathan-haidt.html)
 * [2024-05-30, 14:37:25](https://news.ycombinator.com/item?id=40524292) - [Ask HN: How can we open-source a 7 year old SaaS codebase and build a community?](https://news.ycombinator.com/item?id=40524292)

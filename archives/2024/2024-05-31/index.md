@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-05-31](index.md)
 
+* [2024-05-31, 23:59:41](https://news.ycombinator.com/item?id=40541524) - [Mathematicians Attempt to Glimpse Past the Big Bang](https://www.quantamagazine.org/mathematicians-attempt-to-glimpse-past-the-big-bang-20240531/)
+* [2024-05-31, 23:52:13](https://news.ycombinator.com/item?id=40541470) - [Moving Beyond Type Systems](https://vhyrro.github.io/posts/effect-systems/)
 * [2024-05-31, 23:32:55](https://news.ycombinator.com/item?id=40541350) - [Hexadecimal Sucks](https://tylercipriani.com/blog/2024/05/31/hexadecimal-sucks/)
 * [2024-05-31, 22:40:48](https://news.ycombinator.com/item?id=40541074) - [What is the worst AWS service? I vote for Amplify](https://blog.astrian.moe/posts/2024-05-shortext-amplify-may-the-worst-service-of-aws)
 * [2024-05-31, 22:23:08](https://news.ycombinator.com/item?id=40540952) - [UI elements with a hand-drawn, sketchy look](https://wiredjs.com/)
