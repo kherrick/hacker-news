@@ -93,6 +93,7 @@
 * [2024-05-30, 10:53:09](https://news.ycombinator.com/item?id=40522244) - [Show HN: I built a tiny-VPS friendly RSS aggregator and reader](https://github.com/0x2E/fusion)
 * [2024-05-30, 10:52:40](https://news.ycombinator.com/item?id=40522241) - [PyPy has been working for me for several years now](https://utcc.utoronto.ca/~cks/space/blog/python/PyPyQuietlyWorking)
 * [2024-05-30, 10:51:55](https://news.ycombinator.com/item?id=40522232) - [\"Moveable Type\" to end 17-year run in The New York Times's lobby](https://www.nytco.com/press/moveable-type-to-end-17-year-run-in-the-new-york-timess-lobby/)
+* [2024-05-30, 10:42:03](https://news.ycombinator.com/item?id=40522173) - [in Rust, methods should be object safe](https://nora.codes/post/methods-should-be-object-safe/)
 * [2024-05-30, 10:36:13](https://news.ycombinator.com/item?id=40522134) - [Why your Linux kernel bug report might be fruitless](https://linux-regtracking.leemhuis.info/post/frequent-reasons-why-linux-kernel-bug-reports-are-ignored/)
 * [2024-05-30, 10:27:18](https://news.ycombinator.com/item?id=40522084) - [Infections Correlate with Entrepreneurship](https://www.researchgate.net/publication/326608642_Risky_business_Linking_Toxoplasma_gondii_infection_and_entrepreneurship_behaviours_across_individuals_and_countries)
 * [2024-05-30, 10:25:11](https://news.ycombinator.com/item?id=40522071) - [Geometry for Entertainment – Yakov Perelman (1950/2024)](https://archive.org/details/yakov-perelman-geometry-for-entertainment-mir-titles-2024)
