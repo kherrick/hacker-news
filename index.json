@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-06-01, 08:43:29",
-      "https://news.ycombinator.com/item?id=40543990"
-    ],
-    [
-      "Stealing everything you've ever typed on your Windows Recall PC is now possible",
-      "https://simonwillison.net/2024/Jun/1/stealing-everything-youve-ever-typed/#atom-everything"
-    ]
-  ],
-  [
-    [
       "2024-06-01, 07:25:48",
       "https://news.ycombinator.com/item?id=40543651"
     ],
@@ -167,6 +157,16 @@
     [
       "Heroku Postgres is now based on AWS Aurora",
       "https://blog.heroku.com/heroku-postgres-essential-launch"
+    ]
+  ],
+  [
+    [
+      "2024-05-31, 18:48:46",
+      "https://news.ycombinator.com/item?id=40538889"
+    ],
+    [
+      "Windrecorder – Personal Memory Search Engine",
+      "https://github.com/yuka-friends/Windrecorder"
     ]
   ],
   [
