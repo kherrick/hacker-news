@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-01, 09:33:39](https://news.ycombinator.com/item?id=40544219) - [Ticketmaster confirms data hack which could affect 560M globally](https://www.bbc.co.uk/news/articles/cw99ql0239wo)
 * [2024-06-01, 09:13:32](https://news.ycombinator.com/item?id=40544117) - [Transformers Represent Belief State Geometry in Their Residual Stream](https://www.lesswrong.com/posts/gTZ2SxesbHckJ3CkF/transformers-represent-belief-state-geometry-in-their)
 * [2024-06-01, 08:55:17](https://news.ycombinator.com/item?id=40544043) - [Lessons learned from 6 months of operating a tiny news archive](https://hiandrewquinn.github.io/til-site/posts/lessons-learned-from-6-months-of-operating-a-teensy-tiny-news-archive/)
 * [2024-06-01, 08:43:29](https://news.ycombinator.com/item?id=40543990) - [Stealing everything you've ever typed on your Windows Recall PC is now possible](https://simonwillison.net/2024/Jun/1/stealing-everything-youve-ever-typed/#atom-everything)
@@ -15,7 +16,6 @@
 * [2024-06-01, 00:05:36](https://news.ycombinator.com/item?id=40541559) - [60 kHz (2022)](https://ben.page/wwvb)
 * [2024-05-31, 22:23:08](https://news.ycombinator.com/item?id=40540952) - [UI elements with a hand-drawn, sketchy look](https://wiredjs.com/)
 * [2024-05-31, 20:12:25](https://news.ycombinator.com/item?id=40539700) - [Go: Sentinel errors and errors.Is() slow your code down by 3000%](https://www.dolthub.com/blog/2024-05-31-benchmarking-go-error-handling/)
-* [2024-05-31, 19:49:18](https://news.ycombinator.com/item?id=40539471) - [Show HN: I built a directory about big life decisions/regrets](https://www.didyouregretit.com/)
 * [2024-05-31, 19:17:20](https://news.ycombinator.com/item?id=40539172) - [Heroku Postgres is now based on AWS Aurora](https://blog.heroku.com/heroku-postgres-essential-launch)
 * [2024-05-31, 18:48:46](https://news.ycombinator.com/item?id=40538889) - [Windrecorder – Personal Memory Search Engine](https://github.com/yuka-friends/Windrecorder)
 * [2024-05-31, 17:26:46](https://news.ycombinator.com/item?id=40537911) - [Bento: Open-source fork of the project formerly known as Benthos](https://www.warpstream.com/blog/announcing-bento-the-open-source-fork-of-the-project-formerly-known-as-benthos)
