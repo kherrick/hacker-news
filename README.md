@@ -5,6 +5,7 @@
 * [2024-06-01, 07:00:04](https://news.ycombinator.com/item?id=40543526) - [Dioxus S23 is hiring a cracked founding engineer (Rust)](https://www.ycombinator.com/companies/dioxus-labs/jobs/dRPOod2-cracked-founding-systems-engineer-rust)
 * [2024-06-01, 06:34:03](https://news.ycombinator.com/item?id=40543408) - [Ticketmaster confirms data breach with a SEC filing](https://stackdiary.com/ticketmaster-confirms-data-breach-with-a-sec-filing/)
 * [2024-06-01, 06:18:01](https://news.ycombinator.com/item?id=40543330) - [Nginx Unit: open-source, lightweight and versatile application runtime](https://unit.nginx.org/)
+* [2024-06-01, 05:55:01](https://news.ycombinator.com/item?id=40543238) - [Helldivers 2 has caused over 20k Steam accounts to be banned](https://www.videogamer.com/news/helldivers-2-has-caused-over-20000-steam-accounts-to-be-banned/)
 * [2024-06-01, 05:43:16](https://news.ycombinator.com/item?id=40543196) - [L(O*62).ONG: Make your URL longer](https://loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong)
 * [2024-06-01, 04:37:57](https://news.ycombinator.com/item?id=40542916) - [Sony Pictures to Use AI to Produce Movies and Shows in \"More Efficient Ways\"](https://www.hollywoodreporter.com/business/business-news/sony-pictures-adopt-ai-streamline-production-says-ceo-tony-vinciquerra-1235912109/)
 * [2024-06-01, 03:48:03](https://news.ycombinator.com/item?id=40542724) - [California sides with big utilities, trimming incentives for community solar](https://calmatters.org/environment/2024/05/california-community-solar-incentives/)
@@ -29,7 +30,6 @@
 * [2024-05-30, 14:56:40](https://news.ycombinator.com/item?id=40524531) - [(some) good corporate engineering blogs are written](https://danluu.com/corp-eng-blogs/)
 * [2024-05-30, 12:34:58](https://news.ycombinator.com/item?id=40522939) - [Armor from Mycenaean Greece turns out to have been effective](https://arstechnica.com/science/2024/05/researchers-get-modern-marines-to-test-ancient-greek-armor/)
 * [2024-05-30, 10:51:55](https://news.ycombinator.com/item?id=40522232) - [\"Moveable Type\" to end 17-year run in The New York Times's lobby](https://www.nytco.com/press/moveable-type-to-end-17-year-run-in-the-new-york-timess-lobby/)
-* [2024-05-30, 08:06:53](https://news.ycombinator.com/item?id=40521294) - [Japanese 'My Number Card' Digital IDs Coming to Apple's Wallet App](https://www.macrumors.com/2024/05/29/japan-my-number-card-apple-wallet/)
 
 ## [Archives](archives/index.md)
 
