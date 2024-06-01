@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-01](index.md)
 
+* [2024-06-01, 04:46:46](https://news.ycombinator.com/item?id=40542959) - [Stale candy is quite illegal](https://law.justia.com/cases/california/court-of-appeal/2d/94/599.html)
 * [2024-06-01, 04:37:43](https://news.ycombinator.com/item?id=40542913) - [DearMoon, the first private circum-lunar flight project, will be cancelled](https://twitter.com/dearmoonproject/status/1796759847817625933)
 * [2024-06-01, 03:48:03](https://news.ycombinator.com/item?id=40542724) - [California sides with big utilities, trimming incentives for community solar](https://calmatters.org/environment/2024/05/california-community-solar-incentives/)
 * [2024-06-01, 02:26:25](https://news.ycombinator.com/item?id=40542372) - ['Why You Should Use Your TV's Filmmaker Mode'](https://www.consumerreports.org/electronics-computers/tvs/why-you-should-use-tv-filmmaker-mode-a9272243829/)

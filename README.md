@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-01, 04:46:46](https://news.ycombinator.com/item?id=40542959) - [Stale candy is quite illegal](https://law.justia.com/cases/california/court-of-appeal/2d/94/599.html)
 * [2024-06-01, 04:37:43](https://news.ycombinator.com/item?id=40542913) - [DearMoon, the first private circum-lunar flight project, will be cancelled](https://twitter.com/dearmoonproject/status/1796759847817625933)
 * [2024-06-01, 03:48:03](https://news.ycombinator.com/item?id=40542724) - [California sides with big utilities, trimming incentives for community solar](https://calmatters.org/environment/2024/05/california-community-solar-incentives/)
 * [2024-06-01, 02:03:17](https://news.ycombinator.com/item?id=40542267) - [When Companies Ask for Your Social Security Number, Try Saying No](https://www.wsj.com/tech/cybersecurity/identity-theft-social-security-number-580f01a4)
 * [2024-06-01, 01:20:20](https://news.ycombinator.com/item?id=40542019) - [Engines of Sacrality: A Footnote on Randall Collins' Interaction Ritual Chains (2013)](http://abandonedfootnotes.blogspot.com/2013/04/engines-of-sacrality-footnote-on.html)
 * [2024-06-01, 00:05:36](https://news.ycombinator.com/item?id=40541559) - [60 kHz (2022)](https://ben.page/wwvb)
-* [2024-05-31, 23:59:41](https://news.ycombinator.com/item?id=40541524) - [Mathematicians Attempt to Glimpse Past the Big Bang](https://www.quantamagazine.org/mathematicians-attempt-to-glimpse-past-the-big-bang-20240531/)
 * [2024-05-31, 23:52:13](https://news.ycombinator.com/item?id=40541470) - [Moving Beyond Type Systems](https://vhyrro.github.io/posts/effect-systems/)
 * [2024-05-31, 22:23:08](https://news.ycombinator.com/item?id=40540952) - [UI elements with a hand-drawn, sketchy look](https://wiredjs.com/)
 * [2024-05-31, 20:12:25](https://news.ycombinator.com/item?id=40539700) - [Go: Sentinel errors and errors.Is() slow your code down by 3000%](https://www.dolthub.com/blog/2024-05-31-benchmarking-go-error-handling/)
