@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-01, 19:53:37](https://news.ycombinator.com/item?id=40548572) - [Shodan – Search Engine for the Internet of Everything](https://www.shodan.io/)
 * [2024-06-01, 19:26:01](https://news.ycombinator.com/item?id=40548399) - [The quest to craft the perfect artificial eye through the ages](https://www.popsci.com/health/artificial-eye-history/)
-* [2024-06-01, 18:23:27](https://news.ycombinator.com/item?id=40547933) - [X is justifiably slow](https://zeux.io/2024/05/31/justifiably-slow/)
-* [2024-06-01, 17:49:00](https://news.ycombinator.com/item?id=40547695) - [Predictably Bad Investments: Evidence from Venture Capitalists](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4135861)
 * [2024-06-01, 17:08:04](https://news.ycombinator.com/item?id=40547401) - [Show HN: Tiny Chrome extension to disable images to reduce distractions](https://github.com/kirill-markin/chrome-auto-image-blocker)
 * [2024-06-01, 16:13:14](https://news.ycombinator.com/item?id=40546920) - [Loss of nearly a full decade of information from early days of Chinese internet](https://chinamediaproject.org/2024/05/27/goldfish-memories/)
 * [2024-06-01, 15:14:56](https://news.ycombinator.com/item?id=40546415) - [Frances Hesselbein's leadership story (2022)](https://davidepstein.substack.com/p/year-end-remembrances-part-3-the)
@@ -22,6 +21,7 @@
 * [2024-05-31, 16:01:50](https://news.ycombinator.com/item?id=40536793) - [Multi-Array Queue](https://github.com/MultiArrayQueue/MultiArrayQueue)
 * [2024-05-31, 14:43:42](https://news.ycombinator.com/item?id=40535868) - [This Message Does Not Exist](https://www.kmjn.org/notes/message_existence.html)
 * [2024-05-31, 13:14:32](https://news.ycombinator.com/item?id=40534740) - [In Colorado, an ambitious new highway policy is not building them](https://www.nytimes.com/2024/05/31/headway/highways-colorado-transportation.html)
+* [2024-05-31, 12:52:27](https://news.ycombinator.com/item?id=40534504) - [Orion's mysterious free-floating planets](https://www.bbc.com/future/article/20240522-the-mystery-of-orions-free-floating-giant-twin-planets)
 * [2024-05-31, 12:33:10](https://news.ycombinator.com/item?id=40534293) - [What we've learned from a year of building with LLMs](https://eugeneyan.com/writing/llm-lessons/)
 * [2024-05-31, 09:57:19](https://news.ycombinator.com/item?id=40533139) - [Repairing my mug with Kintsugi](https://fellerts.no/projects/kintsugi.php)
 * [2024-05-31, 05:29:39](https://news.ycombinator.com/item?id=40531803) - [The messy quest to replace drugs with electricity](https://www.technologyreview.com/2024/05/30/1092937/the-messy-quest-to-replace-drugs-with-electricity/)
