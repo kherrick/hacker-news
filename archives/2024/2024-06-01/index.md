@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-01](index.md)
 
+* [2024-06-01, 19:26:01](https://news.ycombinator.com/item?id=40548399) - [The quest to craft the perfect artificial eye through the ages](https://www.popsci.com/health/artificial-eye-history/)
 * [2024-06-01, 18:23:27](https://news.ycombinator.com/item?id=40547933) - [X Is Justifiably Slow](https://zeux.io/2024/05/31/justifiably-slow/)
 * [2024-06-01, 18:10:58](https://news.ycombinator.com/item?id=40547855) - [Tell HN: Google's new summarize SMS just read another person's messages to me](https://news.ycombinator.com/item?id=40547855)
 * [2024-06-01, 17:49:00](https://news.ycombinator.com/item?id=40547695) - [Predictably Bad Investments: Evidence from Venture Capitalists](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4135861)
