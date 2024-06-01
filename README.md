@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-01, 21:32:12](https://news.ycombinator.com/item?id=40549250) - [Lisp: Icing or Cake?](https://dthompson.us/posts/lisp-icing-or-cake.html)
 * [2024-06-01, 21:28:49](https://news.ycombinator.com/item?id=40549220) - [Loyalty at work no longer pays – and it's employers who are to blame](https://www.businessinsider.com/why-loyalty-between-employers-employees-2024-5)
 * [2024-06-01, 21:22:39](https://news.ycombinator.com/item?id=40549173) - [Apple downgrades new M2 iPad Air, 9-core GPU instead of 10-core](https://9to5mac.com/2024/06/01/m2-ipad-air-gpu-core-count/)
 * [2024-06-01, 20:59:13](https://news.ycombinator.com/item?id=40549021) - [LLMs Aren't \"Trained on the Internet\" Anymore](https://allenpike.com/2024/llms-trained-on-internet)
@@ -9,7 +10,6 @@
 * [2024-06-01, 16:13:14](https://news.ycombinator.com/item?id=40546920) - [Loss of nearly a full decade of information from early days of Chinese internet](https://chinamediaproject.org/2024/05/27/goldfish-memories/)
 * [2024-06-01, 15:14:56](https://news.ycombinator.com/item?id=40546415) - [Frances Hesselbein's leadership story (2022)](https://davidepstein.substack.com/p/year-end-remembrances-part-3-the)
 * [2024-06-01, 13:08:47](https://news.ycombinator.com/item?id=40545436) - [Napster sparked a file-sharing revolution 25 years ago](https://torrentfreak.com/napster-sparked-a-file-sharing-revolution-25-years-ago-250601/)
-* [2024-06-01, 09:47:53](https://news.ycombinator.com/item?id=40544283) - [Arthur Whitney releases an open-source subset of K with MIT license](https://shakti.com/k)
 * [2024-06-01, 07:25:48](https://news.ycombinator.com/item?id=40543651) - [ROOT: analyzing petabytes of data scientifically](https://root.cern/)
 * [2024-06-01, 06:18:01](https://news.ycombinator.com/item?id=40543330) - [Nginx Unit: open-source, lightweight and versatile application runtime](https://unit.nginx.org/)
 * [2024-06-01, 06:10:30](https://news.ycombinator.com/item?id=40543299) - [Call Your Local Wizard](https://slate.com/culture/2024/05/witches-wizards-magic-middle-ages-cunning-folk-book.html)
