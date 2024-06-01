@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-06-01](index.md)
 
+* [2024-06-01, 20:59:13](https://news.ycombinator.com/item?id=40549021) - [LLMs Aren't \"Trained on the Internet\" Anymore](https://allenpike.com/2024/llms-trained-on-internet)
 * [2024-06-01, 19:53:37](https://news.ycombinator.com/item?id=40548572) - [Shodan – Search Engine for the Internet of Everything](https://www.shodan.io/)
 * [2024-06-01, 19:26:01](https://news.ycombinator.com/item?id=40548399) - [The quest to craft the perfect artificial eye through the ages](https://www.popsci.com/health/artificial-eye-history/)
 * [2024-06-01, 18:23:27](https://news.ycombinator.com/item?id=40547933) - [X Is Justifiably Slow](https://zeux.io/2024/05/31/justifiably-slow/)
 * [2024-06-01, 18:10:58](https://news.ycombinator.com/item?id=40547855) - [Tell HN: Google's new summarize SMS just read another person's messages to me](https://news.ycombinator.com/item?id=40547855)
 * [2024-06-01, 17:49:00](https://news.ycombinator.com/item?id=40547695) - [Predictably Bad Investments: Evidence from Venture Capitalists](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4135861)
+* [2024-06-01, 17:22:56](https://news.ycombinator.com/item?id=40547503) - [Cellular Automata Rule 30](https://codegolf.stackexchange.com/questions/273387/cellular-automata-rule-30)
 * [2024-06-01, 17:08:04](https://news.ycombinator.com/item?id=40547401) - [Show HN: Tiny Chrome extension to disable images to reduce distractions](https://github.com/kirill-markin/chrome-auto-image-blocker)
 * [2024-06-01, 16:59:15](https://news.ycombinator.com/item?id=40547338) - [Boeing and NASA call off Starliner crew launch minutes before liftoff](https://www.cnbc.com/2024/06/01/boeings-starliner-first-launch-with-nasa-astronauts.html)
 * [2024-06-01, 16:13:14](https://news.ycombinator.com/item?id=40546920) - [Loss of nearly a full decade of information from early days of Chinese internet](https://chinamediaproject.org/2024/05/27/goldfish-memories/)
