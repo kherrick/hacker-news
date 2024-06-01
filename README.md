@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-01, 16:13:14](https://news.ycombinator.com/item?id=40546920) - [Loss of nearly a full decade of information from early days of Chinese internet](https://chinamediaproject.org/2024/05/27/goldfish-memories/)
+* [2024-06-01, 15:14:56](https://news.ycombinator.com/item?id=40546415) - [RIP to the Greatest CEO You've Never Heard Of](https://davidepstein.substack.com/p/year-end-remembrances-part-3-the)
+* [2024-06-01, 14:56:04](https://news.ycombinator.com/item?id=40546238) - [The big lie about sleep](https://www.businessinsider.com/sleep-loss-deprivation-america-reasons-health-inequality-economic-stress-money-2024-5)
 * [2024-06-01, 14:43:37](https://news.ycombinator.com/item?id=40546128) - [Phoenix Is Facing a Hurricane Katrina of Heat](https://www.bloomberg.com/opinion/articles/2024-05-29/phoenix-is-facing-a-deadly-hurricane-katrina-of-heat-spurred-by-climate-change)
-* [2024-06-01, 13:11:34](https://news.ycombinator.com/item?id=40545459) - [Boeing's largest plant in 'panic mode' amid safety crisis, say workers and union](https://www.theguardian.com/business/article/2024/jun/01/boeing-safety-crisis-response-union-busting)
 * [2024-06-01, 13:08:47](https://news.ycombinator.com/item?id=40545436) - [Napster sparked a file-sharing revolution 25 years ago](https://torrentfreak.com/napster-sparked-a-file-sharing-revolution-25-years-ago-250601/)
 * [2024-06-01, 11:38:43](https://news.ycombinator.com/item?id=40544875) - [Space secrets leak disclosure](https://huggingface.co/blog/space-secrets-disclosure)
 * [2024-06-01, 11:32:48](https://news.ycombinator.com/item?id=40544829) - [The USAF's \"Upside-Down Air Force\"](https://www.twz.com/news-features/the-fascinating-story-of-the-usafs-upside-down-air-force)
@@ -28,7 +29,6 @@
 * [2024-05-30, 14:56:40](https://news.ycombinator.com/item?id=40524531) - [How some good corporate engineering blogs are written](https://danluu.com/corp-eng-blogs/)
 * [2024-05-30, 14:33:46](https://news.ycombinator.com/item?id=40524238) - [Physicists Puzzle over Emergence of Electron Aggregates](https://www.quantamagazine.org/physicists-puzzle-over-emergence-of-strange-electron-aggregates-20240529/)
 * [2024-05-30, 12:34:58](https://news.ycombinator.com/item?id=40522939) - [Armor from Mycenaean Greece turns out to have been effective](https://arstechnica.com/science/2024/05/researchers-get-modern-marines-to-test-ancient-greek-armor/)
-* [2024-05-30, 10:51:55](https://news.ycombinator.com/item?id=40522232) - [“Moveable Type” to end 17-year run in The New York Times’s lobby](https://www.nytco.com/press/moveable-type-to-end-17-year-run-in-the-new-york-timess-lobby/)
 * [2024-05-29, 18:56:28](https://news.ycombinator.com/item?id=40515480) - [String Comparison Timing Attacks](https://www.sjoerdlangkemper.nl/2024/05/29/string-comparison-timing-attacks/)
 
 ## [Archives](archives/index.md)

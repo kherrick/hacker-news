@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-06-01](index.md)
 
 * [2024-06-01, 16:13:14](https://news.ycombinator.com/item?id=40546920) - [Loss of nearly a full decade of information from early days of Chinese internet](https://chinamediaproject.org/2024/05/27/goldfish-memories/)
+* [2024-06-01, 15:14:56](https://news.ycombinator.com/item?id=40546415) - [RIP to the Greatest CEO You've Never Heard Of](https://davidepstein.substack.com/p/year-end-remembrances-part-3-the)
+* [2024-06-01, 14:56:04](https://news.ycombinator.com/item?id=40546238) - [The big lie about sleep](https://www.businessinsider.com/sleep-loss-deprivation-america-reasons-health-inequality-economic-stress-money-2024-5)
 * [2024-06-01, 14:43:37](https://news.ycombinator.com/item?id=40546128) - [Phoenix Is Facing a Hurricane Katrina of Heat](https://www.bloomberg.com/opinion/articles/2024-05-29/phoenix-is-facing-a-deadly-hurricane-katrina-of-heat-spurred-by-climate-change)
 * [2024-06-01, 14:26:33](https://news.ycombinator.com/item?id=40546021) - [Big Tech goes on AI charm offensive in Europe as regulators circle](https://www.cnbc.com/2024/05/23/big-tech-goes-on-ai-charm-offensive-in-europe-as-regulators-circle.html)
 * [2024-06-01, 14:25:22](https://news.ycombinator.com/item?id=40546012) - [Making housing more affordable means your home's value will have to come down](https://www.theglobeandmail.com/business/commentary/article-you-want-housing-affordability-to-go-up-without-home-prices-going-down/)
