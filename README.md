@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-01, 04:46:46](https://news.ycombinator.com/item?id=40542959) - [Stale candy is quite illegal](https://law.justia.com/cases/california/court-of-appeal/2d/94/599.html)
 * [2024-06-01, 04:37:43](https://news.ycombinator.com/item?id=40542913) - [DearMoon, the first private circum-lunar flight project, will be cancelled](https://twitter.com/dearmoonproject/status/1796759847817625933)
 * [2024-06-01, 03:48:03](https://news.ycombinator.com/item?id=40542724) - [California sides with big utilities, trimming incentives for community solar](https://calmatters.org/environment/2024/05/california-community-solar-incentives/)
 * [2024-06-01, 02:03:17](https://news.ycombinator.com/item?id=40542267) - [When Companies Ask for Your Social Security Number, Try Saying No](https://www.wsj.com/tech/cybersecurity/identity-theft-social-security-number-580f01a4)
@@ -17,6 +16,7 @@
 * [2024-05-31, 16:57:48](https://news.ycombinator.com/item?id=40537502) - [How many holes does the universe have?](https://www.scientificamerican.com/article/how-many-holes-does-the-universe-have/)
 * [2024-05-31, 16:34:06](https://news.ycombinator.com/item?id=40537187) - [Eye exercises for myopia prevention and control: comprehensive systematic review](https://www.nature.com/articles/s41433-023-02739-x)
 * [2024-05-31, 16:21:45](https://news.ycombinator.com/item?id=40537026) - [Trial results for new lung cancer drug are 'off the charts'](https://www.theguardian.com/society/article/2024/may/31/trial-results-for-new-lung-cancer-drug-are-off-the-charts-say-doctors)
+* [2024-05-31, 16:16:15](https://news.ycombinator.com/item?id=40536960) - [Vista Equity writes off PluralSight value, after $3.5B buyout](https://www.axios.com/2024/05/31/vista-equity-pluralsight)
 * [2024-05-31, 15:30:00](https://news.ycombinator.com/item?id=40536436) - [How to copy a file from a 30-year-old laptop](https://www.unterminated.com/random-fun/how-to-copy-a-file-from-a-30-year-old-laptop)
 * [2024-05-31, 14:12:32](https://news.ycombinator.com/item?id=40535436) - [Carpenter's AirTags help uncover 'massive' case of stolen tools in Maryland](https://www.washingtonpost.com/dc-md-va/2024/05/31/police-theft-thousands-power-tools/)
 * [2024-05-31, 13:28:08](https://news.ycombinator.com/item?id=40534868) - [Snowflake breach: Hacker confirms access through infostealer infection](https://www.hudsonrock.com/blog/snowflake-massive-breach-access-through-infostealer-infection)
