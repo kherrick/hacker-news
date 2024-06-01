@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-01](index.md)
 
+* [2024-06-01, 13:08:47](https://news.ycombinator.com/item?id=40545436) - [Napster Sparked a File-Sharing Revolution 25 Years Ago](https://torrentfreak.com/napster-sparked-a-file-sharing-revolution-25-years-ago-250601/)
 * [2024-06-01, 11:38:43](https://news.ycombinator.com/item?id=40544875) - [HuggingFace hacked – Space secrets leak disclosure](https://huggingface.co/blog/space-secrets-disclosure)
 * [2024-06-01, 11:32:48](https://news.ycombinator.com/item?id=40544829) - [The USAF's \"Upside-Down Air Force\"](https://www.twz.com/news-features/the-fascinating-story-of-the-usafs-upside-down-air-force)
 * [2024-06-01, 11:27:18](https://news.ycombinator.com/item?id=40544794) - [Is Red Meat Healthy? Multiverse Analysis Has Lessons Beyond Meat](https://www.medscape.com/viewarticle/red-meat-healthy-multiverse-analysis-has-lessons-beyond-meat-2024a10008qv)
