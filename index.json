@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-02, 09:06:40",
+      "https://news.ycombinator.com/item?id=40552632"
+    ],
+    [
+      "PEP 730 – Adding iOS as a supported platform",
+      "https://peps.python.org/pep-0730/"
+    ]
+  ],
+  [
+    [
+      "2024-06-02, 08:47:37",
+      "https://news.ycombinator.com/item?id=40552549"
+    ],
+    [
+      "Show HN: Fusio 5.0 released – open-source API management platform",
+      "https://www.fusio-project.org/"
+    ]
+  ],
+  [
+    [
       "2024-06-02, 08:47:36",
       "https://news.ycombinator.com/item?id=40552548"
     ],
@@ -121,32 +141,12 @@
   ],
   [
     [
-      "2024-06-01, 19:21:32",
-      "https://news.ycombinator.com/item?id=40548362"
-    ],
-    [
-      "Lulu Hunt Peters pioneered counting calories a century ago",
-      "https://www.smithsonianmag.com/science-nature/doctor-pioneered-counting-calories-century-ago-were-still-dealing-with-consequences-180984282/"
-    ]
-  ],
-  [
-    [
       "2024-06-01, 15:14:56",
       "https://news.ycombinator.com/item?id=40546415"
     ],
     [
       "Frances Hesselbein's leadership story (2022)",
       "https://davidepstein.substack.com/p/year-end-remembrances-part-3-the"
-    ]
-  ],
-  [
-    [
-      "2024-06-01, 10:18:27",
-      "https://news.ycombinator.com/item?id=40544407"
-    ],
-    [
-      "Einstein went to his office just so he could walk home with Gödel",
-      "https://www.futilitycloset.com/2024/05/31/footwork-10/"
     ]
   ],
   [
@@ -167,16 +167,6 @@
     [
       "What I think about Lua after shipping a project with 60k lines of code",
       "https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733?gi=8385ed7c6379"
-    ]
-  ],
-  [
-    [
-      "2024-05-31, 16:01:50",
-      "https://news.ycombinator.com/item?id=40536793"
-    ],
-    [
-      "Multi-Array Queue",
-      "https://github.com/MultiArrayQueue/MultiArrayQueue"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Building a Reactor",
       "https://www.usnc.com/core-build/"
+    ]
+  ],
+  [
+    [
+      "2024-05-30, 18:21:53",
+      "https://news.ycombinator.com/item?id=40527014"
+    ],
+    [
+      "Java Language Update – a look at where the language is going by Brian Goetz",
+      "https://www.youtube.com/watch?v=bKwzONOGLxs"
     ]
   ],
   [
