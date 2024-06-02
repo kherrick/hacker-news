@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-06-02, 17:44:06",
+      "https://news.ycombinator.com/item?id=40555913"
+    ],
+    [
+      "Upgrading my Chumby 8 kernel part 10: RTC",
+      "https://www.downtowndougbrown.com/2024/06/upgrading-my-chumby-8-kernel-part-10-rtc/"
+    ]
+  ],
+  [
+    [
       "2024-06-02, 16:53:04",
       "https://news.ycombinator.com/item?id=40555506"
     ],
     [
       "Workmanship Standard for Crimping, Interconnecting Cables, Harnesses, and Wiring",
       "https://standards.nasa.gov/standard/NASA/NASA-STD-87394"
+    ]
+  ],
+  [
+    [
+      "2024-06-02, 16:42:03",
+      "https://news.ycombinator.com/item?id=40555431"
+    ],
+    [
+      "Parsing JSON Is a Minefield",
+      "https://seriot.ch/projects/parsing_json.html"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2024-06-02, 08:22:11",
-      "https://news.ycombinator.com/item?id=40552431"
-    ],
-    [
-      "Best DOS GUIs That I've Found (So Far)",
-      "https://multiboot-windows.dscloud.me/All_Pages_for_DOS_GUIs/DG00_The_Best_22_DOS_GUIs_Ive_Found.html"
-    ]
-  ],
-  [
-    [
       "2024-06-02, 05:57:48",
       "https://news.ycombinator.com/item?id=40551725"
     ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2024-06-01, 11:02:40",
-      "https://news.ycombinator.com/item?id=40544628"
-    ],
-    [
-      "Randomness and the Netscape Browser (1996)",
-      "https://people.eecs.berkeley.edu/~daw/papers/ddj-netscape.html"
-    ]
-  ],
-  [
-    [
       "2024-06-01, 08:16:35",
       "https://news.ycombinator.com/item?id=40543852"
     ],
@@ -217,16 +217,6 @@
     [
       "What I think about Lua after shipping a project with 60k lines of code",
       "https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733?gi=8385ed7c6379"
-    ]
-  ],
-  [
-    [
-      "2024-05-31, 16:55:53",
-      "https://news.ycombinator.com/item?id=40537464"
-    ],
-    [
-      "The Forgotten History of Chinese Keyboards",
-      "https://spectrum.ieee.org/chinese-keyboard"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Building a Reactor",
       "https://www.usnc.com/core-build/"
+    ]
+  ],
+  [
+    [
+      "2024-05-30, 18:41:07",
+      "https://news.ycombinator.com/item?id=40527220"
+    ],
+    [
+      "Distributed Snapshots: Chandy-Lamport Protocol",
+      "https://blog.fponzi.me/2024-05-30-distributed-snapshots.html"
     ]
   ],
   [
