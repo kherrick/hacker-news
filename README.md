@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-02, 21:23:07](https://news.ycombinator.com/item?id=40557289) - [Nuclear material left in \"Swap Shop\" at UK Hacker camp emfcamp](https://meow.social/@tryst/112546598851850261)
+* [2024-06-02, 20:54:43](https://news.ycombinator.com/item?id=40557134) - [An intuitive guide to Maxwell's equations (2020)](https://photonlines.substack.com/p/an-intuitive-guide-to-maxwells-equations)
 * [2024-06-02, 20:26:59](https://news.ycombinator.com/item?id=40556995) - [HN-text: an easy-to-use, text-first Hacker News terminal client](https://github.com/piqoni/hn-text)
 * [2024-06-02, 19:54:23](https://news.ycombinator.com/item?id=40556793) - [Atomic polling intervals for highly concurrent workloads](https://www.byronwasti.com/polling-atomics/)
 * [2024-06-02, 17:44:06](https://news.ycombinator.com/item?id=40555913) - [Upgrading my Chumby 8 kernel part 10: RTC](https://www.downtowndougbrown.com/2024/06/upgrading-my-chumby-8-kernel-part-10-rtc/)
@@ -21,7 +22,6 @@
 * [2024-06-01, 19:23:03](https://news.ycombinator.com/item?id=40548372) - [Horseshoe crab counting with New York’s citizen scientists](https://www.thecity.nyc/2024/05/29/horseshoe-crab-jamaica-bay-festival/)
 * [2024-06-01, 11:43:07](https://news.ycombinator.com/item?id=40544896) - [Why is Snapshot Isolation not enough?](http://concurrencyfreaks.blogspot.com/2023/12/why-is-snapshot-isolation-not-enough.html)
 * [2024-06-01, 11:16:18](https://news.ycombinator.com/item?id=40544716) - [Everything I know about the fast inverse square root algorithm](https://github.com/francisrstokes/githublog/blob/main/2024%2F5%2F29%2Ffast-inverse-sqrt.md)
-* [2024-06-01, 08:16:43](https://news.ycombinator.com/item?id=40543854) - [The Canon Cat, the forgotten 1987 alternate-reality Mac (2019)](https://www.fastcompany.com/90380553/meet-the-canon-cat-the-forgotten-1987-alternate-reality-mac)
 * [2024-06-01, 07:02:33](https://news.ycombinator.com/item?id=40543535) - [Re-Evaluating GPT-4's Bar Exam Performance](https://link.springer.com/article/10.1007/s10506-024-09396-9)
 * [2024-06-01, 05:57:43](https://news.ycombinator.com/item?id=40543247) - [Font Distortion](https://www.redblobgames.com/blog/2024-05-31-font-distortion/)
 * [2024-06-01, 05:43:16](https://news.ycombinator.com/item?id=40543196) - [L(O*62).ONG: Make your URL longer](https://loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong)
