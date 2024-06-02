@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-02, 16:53:04](https://news.ycombinator.com/item?id=40555506) - [Workmanship Standard for Crimping, Interconnecting Cables, Harnesses, and Wiring](https://standards.nasa.gov/standard/NASA/NASA-STD-87394)
 * [2024-06-02, 15:55:56](https://news.ycombinator.com/item?id=40555116) - [Hotwire: HTML Over The Wire](https://hotwired.dev/)
 * [2024-06-02, 14:51:20](https://news.ycombinator.com/item?id=40554658) - [A secure embedded operating system for microcontrollers](https://tockos.org/)
 * [2024-06-02, 14:21:21](https://news.ycombinator.com/item?id=40554396) - [SPI Flash](https://trmm.net/SPI_flash/)
@@ -27,7 +28,6 @@
 * [2024-05-31, 09:57:19](https://news.ycombinator.com/item?id=40533139) - [Repairing my mug with Kintsugi](https://fellerts.no/projects/kintsugi.php)
 * [2024-05-30, 21:49:59](https://news.ycombinator.com/item?id=40529098) - [Building a Reactor](https://www.usnc.com/core-build/)
 * [2024-05-30, 17:03:28](https://news.ycombinator.com/item?id=40526020) - [Arduino FDX-B (animal ID chip) reader built from discrete components](https://github.com/decrazyo/fdxb)
-* [2024-05-30, 13:41:36](https://news.ycombinator.com/item?id=40523612) - [How to Consult an Onion Oracle](https://www.atlasobscura.com/articles/how-to-consult-an-onion-calendar)
 * [2024-05-30, 11:17:52](https://news.ycombinator.com/item?id=40522400) - [Milvus Lite: The Lightweight Version of Milvus](https://milvus.io/blog/introducing-milvus-lite.md)
 * [2024-05-30, 05:04:30](https://news.ycombinator.com/item?id=40520254) - [Arenas and the almighty concatenation operator](https://nullprogram.com/blog/2024/05/25/)
 
