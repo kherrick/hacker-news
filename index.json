@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-06-02, 05:02:08",
-      "https://news.ycombinator.com/item?id=40551507"
-    ],
-    [
-      "Jail time for those caught distributing deepfake porn under new Australian laws",
-      "https://www.theguardian.com/australia-news/article/2024/jun/01/creating-or-sharing-deepfake-porn-without-consent-to-be-under-proposed-new-australian-laws"
-    ]
-  ],
-  [
-    [
       "2024-06-02, 04:11:01",
       "https://news.ycombinator.com/item?id=40551260"
     ],
@@ -141,6 +131,16 @@
   ],
   [
     [
+      "2024-06-01, 07:25:48",
+      "https://news.ycombinator.com/item?id=40543651"
+    ],
+    [
+      "ROOT: analyzing petabytes of data scientifically",
+      "https://root.cern/"
+    ]
+  ],
+  [
+    [
       "2024-06-01, 06:10:30",
       "https://news.ycombinator.com/item?id=40543299"
     ],
@@ -157,16 +157,6 @@
     [
       "How to Distribute Postgres Geographically",
       "https://xata.io/blog/geo-distributed-postgres"
-    ]
-  ],
-  [
-    [
-      "2024-06-01, 03:41:02",
-      "https://news.ycombinator.com/item?id=40542691"
-    ],
-    [
-      "David Hilbert's 1930 Radio Address [video]",
-      "https://www.youtube.com/watch?v=wuLFqgx2Pec"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Building a Reactor",
       "https://www.usnc.com/core-build/"
+    ]
+  ],
+  [
+    [
+      "2024-05-30, 17:03:28",
+      "https://news.ycombinator.com/item?id=40526020"
+    ],
+    [
+      "Arduino FDX-B (animal ID chip) reader built from discrete components",
+      "https://github.com/decrazyo/fdxb"
     ]
   ],
   [
