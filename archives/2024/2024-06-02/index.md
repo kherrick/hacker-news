@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-02](index.md)
 
+* [2024-06-02, 23:31:00](https://news.ycombinator.com/item?id=40557969) - [Eight years of organizing tech meetups](https://notes.eatonphil.com/eight-years-of-tech-meetups.html)
 * [2024-06-02, 23:25:02](https://news.ycombinator.com/item?id=40557931) - [MicroPython 1.23 Brings Custom USB Devices, OpenAMP, Much More](https://hackaday.com/2024/06/02/micropython-1-23-brings-custom-usb-devices-openamp-much-more/)
 * [2024-06-02, 23:21:50](https://news.ycombinator.com/item?id=40557915) - [New material looks like frosted glass but lets in more light than a window](https://www.popsci.com/technology/glass-coating-privacy/)
 * [2024-06-02, 22:55:29](https://news.ycombinator.com/item?id=40557770) - [Lowering resource usage with foot and systemd](https://rgoswami.me/posts/lowering-resource-usage-foot-systemd/)
@@ -14,6 +15,7 @@
 * [2024-06-02, 20:26:59](https://news.ycombinator.com/item?id=40556995) - [HN-text: an easy-to-use, text-first Hacker News terminal client](https://github.com/piqoni/hn-text)
 * [2024-06-02, 19:54:23](https://news.ycombinator.com/item?id=40556793) - [Atomic polling intervals for highly concurrent workloads](https://www.byronwasti.com/polling-atomics/)
 * [2024-06-02, 19:37:01](https://news.ycombinator.com/item?id=40556687) - [cuDF – GPU DataFrame Library](https://github.com/rapidsai/cudf)
+* [2024-06-02, 19:18:53](https://news.ycombinator.com/item?id=40556559) - [Inequality Without Class](https://www.dissentmagazine.org/article/inequality-without-class/)
 * [2024-06-02, 18:41:52](https://news.ycombinator.com/item?id=40556342) - [The Disappointment Frontier](https://www.theengineeringmanager.com/growth/the-disappointment-frontier/)
 * [2024-06-02, 18:41:21](https://news.ycombinator.com/item?id=40556335) - [Evolving the back end storage for platform metrics](https://blog.heroku.com/evolving-backend-storage-for-platform-metrics)
 * [2024-06-02, 18:26:32](https://news.ycombinator.com/item?id=40556215) - [The Shadow of Tiananmen Falls on Hong Kong](https://www.newyorker.com/news/daily-comment/the-shadow-of-tiananmen-falls-on-hong-kong)
