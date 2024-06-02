@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-02, 02:55:44](https://news.ycombinator.com/item?id=40550972) - [What Are Founders Reading?](https://foundcy.beehiiv.com/)
+* [2024-06-02, 03:17:02](https://news.ycombinator.com/item?id=40551070) - [How do our brains adapt to control an extra body part?](https://www.cam.ac.uk/stories/third-thumb)
 * [2024-06-02, 01:09:23](https://news.ycombinator.com/item?id=40550556) - [84–24](https://84-24.org/)
 * [2024-06-02, 00:04:21](https://news.ycombinator.com/item?id=40550218) - [CSS written in pure Go](https://github.com/AccentDesign/gcss)
 * [2024-06-01, 23:35:46](https://news.ycombinator.com/item?id=40550059) - [Show HN: Open-Source Load Balancer for Llama.cpp](https://github.com/distantmagic/paddler)
