@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-01](index.md)
 
+* [2024-06-01, 23:35:46](https://news.ycombinator.com/item?id=40550059) - [Show HN: Open-Source Load Balancer for Llama.cpp](https://github.com/distantmagic/paddler)
 * [2024-06-01, 22:48:08](https://news.ycombinator.com/item?id=40549776) - [Survival of the richest: Inside the short-lived fallout shelter bubble](https://thehustle.co/originals/survival-of-the-richest-inside-the-short-lived-fallout-shelter-bubble)
 * [2024-06-01, 21:32:12](https://news.ycombinator.com/item?id=40549250) - [Lisp: Icing or Cake?](https://dthompson.us/posts/lisp-icing-or-cake.html)
 * [2024-06-01, 21:28:49](https://news.ycombinator.com/item?id=40549220) - [Loyalty at work no longer pays – and it's employers who are to blame](https://www.businessinsider.com/why-loyalty-between-employers-employees-2024-5)

@@ -110,6 +110,7 @@
 * [2024-05-30, 08:42:42](https://news.ycombinator.com/item?id=40521477) - [The KeePassXC Kerfuffle](https://lwn.net/Articles/973782/)
 * [2024-05-30, 08:06:53](https://news.ycombinator.com/item?id=40521294) - [Japanese 'My Number Card' Digital IDs Coming to Apple's Wallet App](https://www.macrumors.com/2024/05/29/japan-my-number-card-apple-wallet/)
 * [2024-05-30, 07:53:26](https://news.ycombinator.com/item?id=40521229) - [Cybercriminals pose as \"helpful\" Stack Overflow users to push malware](https://www.bleepingcomputer.com/news/security/cybercriminals-pose-as-helpful-stack-overflow-users-to-push-malware/)
+* [2024-05-30, 07:38:19](https://news.ycombinator.com/item?id=40521142) - [Can you look at experimental results along the way or not?](https://www.johndcook.com/blog/2024/05/28/alpha-spending/)
 * [2024-05-30, 07:26:25](https://news.ycombinator.com/item?id=40521076) - [Meaningful Nonsense: How I generate sentences](https://www.amygoodchild.com/blog/meaningful-nonsense-sentences)
 * [2024-05-30, 05:21:46](https://news.ycombinator.com/item?id=40520334) - [How Actors Remember Their Lines](https://thereader.mitpress.mit.edu/how-actors-remember-their-lines/)
 * [2024-05-30, 05:09:35](https://news.ycombinator.com/item?id=40520277) - [SVG Gobbler – Find, optimize, edit, and export SVGs](https://github.com/rossmoody/svg-gobbler)
