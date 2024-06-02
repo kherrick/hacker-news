@@ -58,6 +58,7 @@
 * [2024-05-30, 16:46:17](https://news.ycombinator.com/item?id=40525802) - [Unexpected Anti-Patterns for Engineering Leaders](https://review.firstround.com/unexpected-anti-patterns-for-engineering-leaders-lessons-from-stripe-uber-carta/)
 * [2024-05-30, 16:44:58](https://news.ycombinator.com/item?id=40525788) - [Ask HN: Why are all major operating systems monolithic?](https://news.ycombinator.com/item?id=40525788)
 * [2024-05-30, 16:31:08](https://news.ycombinator.com/item?id=40525629) - [Can large language models reason?](https://www.arnaldur.be/writing/about/large-language-model-reasoning)
+* [2024-05-30, 16:29:34](https://news.ycombinator.com/item?id=40525607) - [How Novy Built Zelma for Emily Oster Using OpenAI and Postgres](https://www.stepchange.work/blog/how-novy-built-zelma-for-emily-oster-using-openai-and-postgres)
 * [2024-05-30, 16:17:23](https://news.ycombinator.com/item?id=40525441) - [Google Search SEO document leak reveals how company curates internet](https://gizmodo.com/google-search-seo-leak-reveal-gatekeeps-internet-1851508410)
 * [2024-05-30, 16:08:33](https://news.ycombinator.com/item?id=40525327) - [Starlink as a means to win at nuclear war](https://ioc.exchange/@muskfiles/112522370451697720)
 * [2024-05-30, 16:04:05](https://news.ycombinator.com/item?id=40525285) - [If you replace the \"x\" with a \"5\" in an ArXiv URL, you get an HTML version](https://old.reddit.com/r/MachineLearning/comments/1ak5u1q/comment/kp5nuc9/)

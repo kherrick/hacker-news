@@ -11,7 +11,6 @@
 * [2024-06-01, 21:32:12](https://news.ycombinator.com/item?id=40549250) - [Lisp: Icing or Cake?](https://dthompson.us/posts/lisp-icing-or-cake.html)
 * [2024-06-01, 21:26:29](https://news.ycombinator.com/item?id=40549209) - [Scientific glassblower continues century-old campus tradition (2021)](https://chemistry.berkeley.edu/news/scientific-glassblower-continues-century-old-campus-tradition)
 * [2024-06-01, 19:41:21](https://news.ycombinator.com/item?id=40548498) - [Little Lisp Interpreter (2014)](https://maryrosecook.com/blog/post/little-lisp-interpreter)
-* [2024-06-01, 19:26:01](https://news.ycombinator.com/item?id=40548399) - [The quest to craft the perfect artificial eye through the ages](https://www.popsci.com/health/artificial-eye-history/)
 * [2024-06-01, 19:21:32](https://news.ycombinator.com/item?id=40548362) - [Lulu Hunt Peters pioneered counting calories a century ago](https://www.smithsonianmag.com/science-nature/doctor-pioneered-counting-calories-century-ago-were-still-dealing-with-consequences-180984282/)
 * [2024-06-01, 15:14:56](https://news.ycombinator.com/item?id=40546415) - [Frances Hesselbein's leadership story (2022)](https://davidepstein.substack.com/p/year-end-remembrances-part-3-the)
 * [2024-06-01, 10:18:27](https://news.ycombinator.com/item?id=40544407) - [Einstein went to his office just so he could walk home with Gödel](https://www.futilitycloset.com/2024/05/31/footwork-10/)
@@ -28,6 +27,7 @@
 * [2024-05-30, 22:06:38](https://news.ycombinator.com/item?id=40529250) - [East Coast has a giant offshore freshwater aquifer](https://arstechnica.com/science/2024/05/what-put-huge-quantities-of-freshwater-under-the-seabed/)
 * [2024-05-30, 21:49:59](https://news.ycombinator.com/item?id=40529098) - [Building a Reactor](https://www.usnc.com/core-build/)
 * [2024-05-30, 17:03:28](https://news.ycombinator.com/item?id=40526020) - [Arduino FDX-B (animal ID chip) reader built from discrete components](https://github.com/decrazyo/fdxb)
+* [2024-05-30, 16:29:34](https://news.ycombinator.com/item?id=40525607) - [How Novy Built Zelma for Emily Oster Using OpenAI and Postgres](https://www.stepchange.work/blog/how-novy-built-zelma-for-emily-oster-using-openai-and-postgres)
 * [2024-05-30, 11:49:27](https://news.ycombinator.com/item?id=40522602) - [Orion – From idea to launch in 45 days](https://www.lux.camera/orion-from-idea-to-launch-in-45-days/)
 * [2024-05-30, 07:38:19](https://news.ycombinator.com/item?id=40521142) - [Can you look at experimental results along the way or not?](https://www.johndcook.com/blog/2024/05/28/alpha-spending/)
 
