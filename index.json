@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=40555506"
     ],
     [
-      "Workmanship Standard for Crimping, Interconnecting Cables, Harnesses, and Wiring",
+      "Workmanship standard for crimping, interconnecting cables, harnesses, and wiring",
       "https://standards.nasa.gov/standard/NASA/NASA-STD-87394"
     ]
   ],
@@ -37,6 +37,16 @@
     [
       "Parsing JSON Is a Minefield (2018)",
       "https://seriot.ch/projects/parsing_json.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-02, 15:57:41",
+      "https://news.ycombinator.com/item?id=40555131"
+    ],
+    [
+      "Here comes the Muybridge camera moment but for text",
+      "https://interconnected.org/home/2024/05/31/camera"
     ]
   ],
   [
@@ -65,7 +75,7 @@
       "https://news.ycombinator.com/item?id=40553863"
     ],
     [
-      "Lord Kelvin and His Analog Computer",
+      "Lord Kelvin and his analog computer",
       "https://spectrum.ieee.org/tide-predictions"
     ]
   ],
@@ -85,7 +95,7 @@
       "https://news.ycombinator.com/item?id=40553526"
     ],
     [
-      "Simple Equation Predicts the Shapes of Carbon-Capturing Wetlands",
+      "Simple equation predicts the shapes of carbon-capturing wetlands",
       "https://www.quantamagazine.org/simple-equation-predicts-the-shapes-of-carbon-capturing-wetlands-20240528/"
     ]
   ],
@@ -95,7 +105,7 @@
       "https://news.ycombinator.com/item?id=40553448"
     ],
     [
-      "Copy-and-patch: Fast compilation technique that also produces good code (2020)",
+      "Copy-and-Patch: Fast compilation for high-level languages and bytecode (2020)",
       "https://arxiv.org/abs/2011.13127"
     ]
   ],
@@ -141,6 +151,16 @@
   ],
   [
     [
+      "2024-06-01, 19:23:46",
+      "https://news.ycombinator.com/item?id=40548379"
+    ],
+    [
+      "At the Webster Apartments",
+      "https://www.theparisreview.org/blog/2024/05/28/at-the-webster-apartments-one-of-manhattans-last-all-womens-boarding-houses/"
+    ]
+  ],
+  [
+    [
       "2024-06-01, 19:23:32",
       "https://news.ycombinator.com/item?id=40548376"
     ],
@@ -157,16 +177,6 @@
     [
       "Horseshoe crab counting with New York’s citizen scientists",
       "https://www.thecity.nyc/2024/05/29/horseshoe-crab-jamaica-bay-festival/"
-    ]
-  ],
-  [
-    [
-      "2024-06-01, 19:22:14",
-      "https://news.ycombinator.com/item?id=40548367"
-    ],
-    [
-      "Longitude and our neurons of navigation",
-      "https://www.forkingpaths.co/p/the-thrilling-tale-of-longitude-and"
     ]
   ],
   [
@@ -201,26 +211,6 @@
   ],
   [
     [
-      "2024-06-01, 08:16:43",
-      "https://news.ycombinator.com/item?id=40543854"
-    ],
-    [
-      "The Canon Cat, the forgotten 1987 alternate-reality Mac (2019)",
-      "https://www.fastcompany.com/90380553/meet-the-canon-cat-the-forgotten-1987-alternate-reality-mac"
-    ]
-  ],
-  [
-    [
-      "2024-06-01, 07:54:38",
-      "https://news.ycombinator.com/item?id=40543752"
-    ],
-    [
-      "FD 100 (2019)",
-      "https://susam.net/fd-100.html"
-    ]
-  ],
-  [
-    [
       "2024-06-01, 07:02:33",
       "https://news.ycombinator.com/item?id=40543535"
     ],
@@ -231,12 +221,12 @@
   ],
   [
     [
-      "2024-06-01, 05:57:43",
-      "https://news.ycombinator.com/item?id=40543247"
+      "2024-06-01, 06:19:30",
+      "https://news.ycombinator.com/item?id=40543336"
     ],
     [
-      "Font Distortion",
-      "https://www.redblobgames.com/blog/2024-05-31-font-distortion/"
+      "What use is prehistory to the historian?",
+      "https://www.historytoday.com/archive/head-head/what-use-prehistory-historian"
     ]
   ],
   [
@@ -261,12 +251,12 @@
   ],
   [
     [
-      "2024-05-31, 09:57:19",
-      "https://news.ycombinator.com/item?id=40533139"
+      "2024-05-31, 03:10:41",
+      "https://news.ycombinator.com/item?id=40531124"
     ],
     [
-      "Repairing my mug with Kintsugi",
-      "https://fellerts.no/projects/kintsugi.php"
+      "The largest stegosaurus fossil ever found heads to auction",
+      "https://www.nytimes.com/2024/05/29/science/stegosaurus-fossil-auction-sothebys.html"
     ]
   ],
   [
@@ -291,12 +281,22 @@
   ],
   [
     [
-      "2024-05-30, 05:04:30",
-      "https://news.ycombinator.com/item?id=40520254"
+      "2024-05-30, 13:41:36",
+      "https://news.ycombinator.com/item?id=40523612"
     ],
     [
-      "Arenas and the almighty concatenation operator",
-      "https://nullprogram.com/blog/2024/05/25/"
+      "How to Consult an Onion Oracle",
+      "https://www.atlasobscura.com/articles/how-to-consult-an-onion-calendar"
+    ]
+  ],
+  [
+    [
+      "2024-05-30, 12:14:41",
+      "https://news.ycombinator.com/item?id=40522782"
+    ],
+    [
+      "Mesh Spreadsheet: A data and code editor that feels like a spreadsheet",
+      "https://github.com/chrispsn/mesh-spreadsheet"
     ]
   ]
 ]
