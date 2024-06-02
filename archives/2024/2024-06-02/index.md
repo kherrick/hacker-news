@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-06-02](index.md)
 
+* [2024-06-02, 22:55:29](https://news.ycombinator.com/item?id=40557770) - [Lowering resource usage with foot and systemd](https://rgoswami.me/posts/lowering-resource-usage-foot-systemd/)
+* [2024-06-02, 21:53:46](https://news.ycombinator.com/item?id=40557451) - [Protecting sensitive data in Elixir GenServers](https://gabrielpereira.dev/en/posts/protecting-sensitive-data-in-elixir-gen-servers/)
+* [2024-06-02, 21:46:40](https://news.ycombinator.com/item?id=40557409) - [Psychological tricks rich people use to look generous without spending more](https://billmei.net/blog/shopping)
 * [2024-06-02, 21:23:07](https://news.ycombinator.com/item?id=40557289) - [Nuclear material left in \"Swap Shop\" at UK Hacker camp emfcamp](https://meow.social/@tryst/112546598851850261)
 * [2024-06-02, 20:54:43](https://news.ycombinator.com/item?id=40557134) - [An intuitive guide to Maxwell's equations (2020)](https://photonlines.substack.com/p/an-intuitive-guide-to-maxwells-equations)
 * [2024-06-02, 20:26:59](https://news.ycombinator.com/item?id=40556995) - [HN-text: an easy-to-use, text-first Hacker News terminal client](https://github.com/piqoni/hn-text)
 * [2024-06-02, 19:54:23](https://news.ycombinator.com/item?id=40556793) - [Atomic polling intervals for highly concurrent workloads](https://www.byronwasti.com/polling-atomics/)
+* [2024-06-02, 19:37:01](https://news.ycombinator.com/item?id=40556687) - [cuDF – GPU DataFrame Library](https://github.com/rapidsai/cudf)
 * [2024-06-02, 18:41:52](https://news.ycombinator.com/item?id=40556342) - [The Disappointment Frontier](https://www.theengineeringmanager.com/growth/the-disappointment-frontier/)
 * [2024-06-02, 18:41:21](https://news.ycombinator.com/item?id=40556335) - [Evolving the back end storage for platform metrics](https://blog.heroku.com/evolving-backend-storage-for-platform-metrics)
 * [2024-06-02, 18:26:32](https://news.ycombinator.com/item?id=40556215) - [The Shadow of Tiananmen Falls on Hong Kong](https://www.newyorker.com/news/daily-comment/the-shadow-of-tiananmen-falls-on-hong-kong)
