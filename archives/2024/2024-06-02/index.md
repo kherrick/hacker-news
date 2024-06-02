@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-02](index.md)
 
+* [2024-06-02, 13:54:05](https://news.ycombinator.com/item?id=40554133) - [Footage of Chang'e-6's land on far side of the moon](https://www.cnsa.gov.cn/n6759533/c10541660/content.html)
 * [2024-06-02, 13:37:18](https://news.ycombinator.com/item?id=40554012) - [There Has Never Been a Better Time to Switch to Linux](https://fosspost.org/there-has-never-been-a-better-time-to-switch-to-linux)
 * [2024-06-02, 13:35:36](https://news.ycombinator.com/item?id=40553986) - [Show HN: I'm a doctor and built a responsive breathing app for anxiety and sleep](https://www.lungy.app/)
 * [2024-06-02, 13:19:47](https://news.ycombinator.com/item?id=40553881) - [Hugging Face detected 'unauthorized access' to its AI model hosting platform](https://techcrunch.com/2024/05/31/hugging-face-says-it-detected-unauthorized-access-to-its-ai-model-hosting-platform/)
