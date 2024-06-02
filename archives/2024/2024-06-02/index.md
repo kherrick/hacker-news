@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-02](index.md)
 
+* [2024-06-02, 08:47:36](https://news.ycombinator.com/item?id=40552548) - [FineWeb: Decanting the web for the finest text data at scale](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1)
+* [2024-06-02, 07:58:45](https://news.ycombinator.com/item?id=40552291) - [Pre-Work for Setting OKRs](https://eleganthack.com/pre-work-for-setting-okrs/)
 * [2024-06-02, 05:57:48](https://news.ycombinator.com/item?id=40551725) - [Parable of the Sofa](https://www.tbray.org/ongoing/When/202x/2024/06/01/Parable-of-the-Sofa)
 * [2024-06-02, 05:02:08](https://news.ycombinator.com/item?id=40551507) - [Jail time for those caught distributing deepfake porn under new Australian laws](https://www.theguardian.com/australia-news/article/2024/jun/01/creating-or-sharing-deepfake-porn-without-consent-to-be-under-proposed-new-australian-laws)
 * [2024-06-02, 04:11:01](https://news.ycombinator.com/item?id=40551260) - [Signal: Will leave the EU market rather than undermine our privacy guarantees](https://twitter.com/mer__edith/status/1796508893822238881)

@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-02, 08:47:36](https://news.ycombinator.com/item?id=40552548) - [FineWeb: Decanting the web for the finest text data at scale](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1)
+* [2024-06-02, 07:58:45](https://news.ycombinator.com/item?id=40552291) - [Pre-Work for Setting OKRs](https://eleganthack.com/pre-work-for-setting-okrs/)
 * [2024-06-02, 05:57:48](https://news.ycombinator.com/item?id=40551725) - [Parable of the Sofa](https://www.tbray.org/ongoing/When/202x/2024/06/01/Parable-of-the-Sofa)
 * [2024-06-02, 04:11:01](https://news.ycombinator.com/item?id=40551260) - [Signal: Will leave the EU market rather than undermine our privacy guarantees](https://twitter.com/mer__edith/status/1796508893822238881)
 * [2024-06-02, 03:29:55](https://news.ycombinator.com/item?id=40551112) - [Unlocking the Duron and Athlon using the pencil (2007)](http://computer-communication.blogspot.com/2007/06/unlocking-duron-and-athlon-using-pencil_08.html)
@@ -13,9 +15,7 @@
 * [2024-06-01, 19:21:32](https://news.ycombinator.com/item?id=40548362) - [Lulu Hunt Peters pioneered counting calories a century ago](https://www.smithsonianmag.com/science-nature/doctor-pioneered-counting-calories-century-ago-were-still-dealing-with-consequences-180984282/)
 * [2024-06-01, 15:14:56](https://news.ycombinator.com/item?id=40546415) - [Frances Hesselbein's leadership story (2022)](https://davidepstein.substack.com/p/year-end-remembrances-part-3-the)
 * [2024-06-01, 10:18:27](https://news.ycombinator.com/item?id=40544407) - [Einstein went to his office just so he could walk home with Gödel](https://www.futilitycloset.com/2024/05/31/footwork-10/)
-* [2024-06-01, 08:26:41](https://news.ycombinator.com/item?id=40543905) - [Can ketones enhance cognitive function and protect brain networks?](https://www.urmc.rochester.edu/news/publications/neuroscience/can-ketones-enhance-cognitive-function-and-protect-brain-networks)
 * [2024-06-01, 04:42:37](https://news.ycombinator.com/item?id=40542940) - [How to Distribute Postgres Geographically](https://xata.io/blog/geo-distributed-postgres)
-* [2024-05-31, 19:04:13](https://news.ycombinator.com/item?id=40539041) - [Linear Clock (2021)](https://engineer.john-whittington.co.uk/electronics/fabrication/mechanical/clock/2021/06/16/linear-clock.html)
 * [2024-05-31, 18:15:17](https://news.ycombinator.com/item?id=40538540) - [What I think about Lua after shipping a project with 60k lines of code](https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733?gi=8385ed7c6379)
 * [2024-05-31, 16:01:50](https://news.ycombinator.com/item?id=40536793) - [Multi-Array Queue](https://github.com/MultiArrayQueue/MultiArrayQueue)
 * [2024-05-31, 14:43:42](https://news.ycombinator.com/item?id=40535868) - [This Message Does Not Exist](https://www.kmjn.org/notes/message_existence.html)
