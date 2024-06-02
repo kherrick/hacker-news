@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-06-02, 18:41:52",
+      "https://news.ycombinator.com/item?id=40556342"
+    ],
+    [
+      "The Disappointment Frontier",
+      "https://www.theengineeringmanager.com/growth/the-disappointment-frontier/"
+    ]
+  ],
+  [
+    [
+      "2024-06-02, 18:41:21",
+      "https://news.ycombinator.com/item?id=40556335"
+    ],
+    [
+      "Evolving the back end storage for platform metrics",
+      "https://blog.heroku.com/evolving-backend-storage-for-platform-metrics"
+    ]
+  ],
+  [
+    [
+      "2024-06-02, 18:26:32",
+      "https://news.ycombinator.com/item?id=40556215"
+    ],
+    [
+      "The Shadow of Tiananmen Falls on Hong Kong",
+      "https://www.newyorker.com/news/daily-comment/the-shadow-of-tiananmen-falls-on-hong-kong"
+    ]
+  ],
+  [
+    [
       "2024-06-02, 17:44:06",
       "https://news.ycombinator.com/item?id=40555913"
     ],
@@ -21,6 +51,16 @@
   ],
   [
     [
+      "2024-06-02, 16:43:01",
+      "https://news.ycombinator.com/item?id=40555435"
+    ],
+    [
+      "Ask HN: What was your most humbling learning moment?",
+      "https://news.ycombinator.com/item?id=40555435"
+    ]
+  ],
+  [
+    [
       "2024-06-02, 16:42:03",
       "https://news.ycombinator.com/item?id=40555431"
     ],
@@ -31,12 +71,12 @@
   ],
   [
     [
-      "2024-06-02, 15:55:56",
-      "https://news.ycombinator.com/item?id=40555116"
+      "2024-06-02, 15:57:41",
+      "https://news.ycombinator.com/item?id=40555131"
     ],
     [
-      "Hotwire: HTML Over The Wire",
-      "https://hotwired.dev/"
+      "Here comes the Muybridge camera moment but for text. Photoshop too",
+      "https://interconnected.org/home/2024/05/31/camera"
     ]
   ],
   [
@@ -57,16 +97,6 @@
     [
       "SPI Flash",
       "https://trmm.net/SPI_flash/"
-    ]
-  ],
-  [
-    [
-      "2024-06-02, 14:21:00",
-      "https://news.ycombinator.com/item?id=40554394"
-    ],
-    [
-      "New head of one of the world’s oldest universities organized a citation cartel",
-      "https://english.elpais.com/science-tech/2024-05-31/internal-messages-show-how-the-new-head-of-one-of-the-worlds-oldest-universities-organized-a-citation-cartel.html"
     ]
   ],
   [
@@ -181,22 +211,12 @@
   ],
   [
     [
-      "2024-06-01, 21:26:29",
-      "https://news.ycombinator.com/item?id=40549209"
+      "2024-06-01, 19:23:32",
+      "https://news.ycombinator.com/item?id=40548376"
     ],
     [
-      "Scientific glassblower continues century-old campus tradition (2021)",
-      "https://chemistry.berkeley.edu/news/scientific-glassblower-continues-century-old-campus-tradition"
-    ]
-  ],
-  [
-    [
-      "2024-06-01, 08:16:35",
-      "https://news.ycombinator.com/item?id=40543852"
-    ],
-    [
-      "Reading Google Sheets from a Go Program",
-      "https://eli.thegreenplace.net/2024/reading-google-sheets-from-a-go-program/"
+      "Why Did She Stop Writing?",
+      "https://www.texasmonthly.com/arts-entertainment/why-did-colleen-hoover-stop-writing/"
     ]
   ],
   [
@@ -207,16 +227,6 @@
     [
       "What I think about Lua after shipping a project with 60k lines of code",
       "https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733?gi=8385ed7c6379"
-    ]
-  ],
-  [
-    [
-      "2024-05-31, 16:55:53",
-      "https://news.ycombinator.com/item?id=40537464"
-    ],
-    [
-      "The Forgotten History of Chinese Keyboards",
-      "https://spectrum.ieee.org/chinese-keyboard"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Repairing my mug with Kintsugi",
       "https://fellerts.no/projects/kintsugi.php"
-    ]
-  ],
-  [
-    [
-      "2024-05-30, 21:49:59",
-      "https://news.ycombinator.com/item?id=40529098"
-    ],
-    [
-      "Building a Reactor",
-      "https://www.usnc.com/core-build/"
     ]
   ],
   [
