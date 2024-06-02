@@ -7,6 +7,7 @@
 * [2024-06-02, 23:31:00](https://news.ycombinator.com/item?id=40557969) - [Eight years of organizing tech meetups](https://notes.eatonphil.com/eight-years-of-tech-meetups.html)
 * [2024-06-02, 23:25:02](https://news.ycombinator.com/item?id=40557931) - [MicroPython 1.23 Brings Custom USB Devices, OpenAMP, Much More](https://hackaday.com/2024/06/02/micropython-1-23-brings-custom-usb-devices-openamp-much-more/)
 * [2024-06-02, 23:21:50](https://news.ycombinator.com/item?id=40557915) - [New material looks like frosted glass but lets in more light than a window](https://www.popsci.com/technology/glass-coating-privacy/)
+* [2024-06-02, 22:59:13](https://news.ycombinator.com/item?id=40557794) - [How it feels to get an AI email from a friend](https://mrgan.com/ai-email-from-a-friend/)
 * [2024-06-02, 22:55:29](https://news.ycombinator.com/item?id=40557770) - [Lowering resource usage with foot and systemd](https://rgoswami.me/posts/lowering-resource-usage-foot-systemd/)
 * [2024-06-02, 21:53:46](https://news.ycombinator.com/item?id=40557451) - [Protecting sensitive data in Elixir GenServers](https://gabrielpereira.dev/en/posts/protecting-sensitive-data-in-elixir-gen-servers/)
 * [2024-06-02, 21:46:40](https://news.ycombinator.com/item?id=40557409) - [Psychological tricks rich people use to look generous without spending more](https://billmei.net/blog/shopping)
