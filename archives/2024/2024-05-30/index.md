@@ -53,6 +53,7 @@
 * [2024-05-30, 17:17:29](https://news.ycombinator.com/item?id=40526225) - [IRS Plans to Make Free Tax Filing Permanent](https://www.cnn.com/2024/05/30/politics/irs-direct-file-free/index.html)
 * [2024-05-30, 17:06:31](https://news.ycombinator.com/item?id=40526070) - [Hacker Releases Jailbroken \"Godmode\" Version of ChatGPT](https://futurism.com/hackers-jailbroken-chatgpt-godmode)
 * [2024-05-30, 17:06:26](https://news.ycombinator.com/item?id=40526068) - [Disrupting deceptive uses of AI by covert influence operations](https://openai.com/index/disrupting-deceptive-uses-of-AI-by-covert-influence-operations/)
+* [2024-05-30, 17:03:28](https://news.ycombinator.com/item?id=40526020) - [Arduino FDX-B (animal ID chip) reader built from discrete components](https://github.com/decrazyo/fdxb)
 * [2024-05-30, 16:50:57](https://news.ycombinator.com/item?id=40525863) - [Disturbing and misleading efforts to defame Helen Toner through misdirection](https://garymarcus.substack.com/p/disturbing-and-misleading-efforts)
 * [2024-05-30, 16:46:17](https://news.ycombinator.com/item?id=40525802) - [Unexpected Anti-Patterns for Engineering Leaders](https://review.firstround.com/unexpected-anti-patterns-for-engineering-leaders-lessons-from-stripe-uber-carta/)
 * [2024-05-30, 16:44:58](https://news.ycombinator.com/item?id=40525788) - [Ask HN: Why are all major operating systems monolithic?](https://news.ycombinator.com/item?id=40525788)
