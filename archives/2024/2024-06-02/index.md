@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-02](index.md)
 
+* [2024-06-02, 14:51:20](https://news.ycombinator.com/item?id=40554658) - [A secure embedded operating system for microcontrollers](https://tockos.org/)
+* [2024-06-02, 14:21:21](https://news.ycombinator.com/item?id=40554396) - [SPI Flash](https://trmm.net/SPI_flash/)
 * [2024-06-02, 14:21:00](https://news.ycombinator.com/item?id=40554394) - [New head of one of the oldest universities organized a citation cartel](https://english.elpais.com/science-tech/2024-05-31/internal-messages-show-how-the-new-head-of-one-of-the-worlds-oldest-universities-organized-a-citation-cartel.html)
 * [2024-06-02, 13:54:05](https://news.ycombinator.com/item?id=40554133) - [Footage of Chang'e-6's land on far side of the moon](https://www.cnsa.gov.cn/n6759533/c10541660/content.html)
 * [2024-06-02, 13:37:29](https://news.ycombinator.com/item?id=40554014) - [Automatic dark mode with OpenBSD and dwm](https://plexwave.org/blog/auto-dark-mode)
@@ -15,6 +17,7 @@
 * [2024-06-02, 12:53:25](https://news.ycombinator.com/item?id=40553709) - [Circle C++ with Memory Safety](https://www.circle-lang.org/site/intro/)
 * [2024-06-02, 12:50:04](https://news.ycombinator.com/item?id=40553684) - [Windows: A Software Engineering Odyssey](https://danluu.com/microsoft-culture/)
 * [2024-06-02, 12:26:43](https://news.ycombinator.com/item?id=40553557) - [Advertising Broke the World](https://www.wired.com/story/death-of-truth-misinformation-advertising/)
+* [2024-06-02, 12:21:00](https://news.ycombinator.com/item?id=40553526) - [Simple Equation Predicts the Shapes of Carbon-Capturing Wetlands](https://www.quantamagazine.org/simple-equation-predicts-the-shapes-of-carbon-capturing-wetlands-20240528/)
 * [2024-06-02, 12:07:07](https://news.ycombinator.com/item?id=40553448) - [Copy-and-Patch Compilation: fast compilation algorithm for high-level languages](https://arxiv.org/abs/2011.13127)
 * [2024-06-02, 11:55:46](https://news.ycombinator.com/item?id=40553375) - [The Collapse Is Coming. Will Humanity Adapt?](https://nautil.us/the-collapse-is-coming-will-humanity-adapt-626051/)
 * [2024-06-02, 11:41:54](https://news.ycombinator.com/item?id=40553281) - [Want to Unlock Performance and Clarity? Use Strong Types](https://ekxide.io/blog/want-to-unlock-performance-and-clarity-use-strong-types/)
