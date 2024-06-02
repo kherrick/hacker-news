@@ -36,6 +36,7 @@
 * [2024-06-01, 11:32:48](https://news.ycombinator.com/item?id=40544829) - [The USAF's \"Upside-Down Air Force\"](https://www.twz.com/news-features/the-fascinating-story-of-the-usafs-upside-down-air-force)
 * [2024-06-01, 11:27:18](https://news.ycombinator.com/item?id=40544794) - [Is Red Meat Healthy? Multiverse Analysis Has Lessons Beyond Meat](https://www.medscape.com/viewarticle/red-meat-healthy-multiverse-analysis-has-lessons-beyond-meat-2024a10008qv)
 * [2024-06-01, 11:24:28](https://news.ycombinator.com/item?id=40544770) - [Show HN: I built a Backend so Simple that it Fits in 1 YAML File](https://manifest.build)
+* [2024-06-01, 11:02:40](https://news.ycombinator.com/item?id=40544628) - [Randomness and the Netscape Browser [1996]](https://people.eecs.berkeley.edu/~daw/papers/ddj-netscape.html)
 * [2024-06-01, 10:49:50](https://news.ycombinator.com/item?id=40544558) - [Ask HN: Small teams and solopreneurs, how are you hosting your apps?](https://news.ycombinator.com/item?id=40544558)
 * [2024-06-01, 10:49:47](https://news.ycombinator.com/item?id=40544556) - [The AI Revolution Is Already Losing Steam](https://www.wsj.com/tech/ai/the-ai-revolution-is-already-losing-steam-a93478b1)
 * [2024-06-01, 10:44:40](https://news.ycombinator.com/item?id=40544531) - [RISC-V must get its messaging right on open standard vs. open source](https://www.theregister.com/2024/05/29/riscv_messsaging_struggle/)
