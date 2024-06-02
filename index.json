@@ -41,21 +41,11 @@
   ],
   [
     [
-      "2024-06-02, 12:53:25",
-      "https://news.ycombinator.com/item?id=40553709"
-    ],
-    [
-      "Circle C++ with Memory Safety",
-      "https://www.circle-lang.org/site/intro/"
-    ]
-  ],
-  [
-    [
       "2024-06-02, 12:07:07",
       "https://news.ycombinator.com/item?id=40553448"
     ],
     [
-      "Copy-and-Patch Compilation: fast compilation algorithm for high-level languages",
+      "Copy-and-patch: A compiler for a high-level C-like language (2021)",
       "https://arxiv.org/abs/2011.13127"
     ]
   ],
@@ -151,12 +141,12 @@
   ],
   [
     [
-      "2024-06-01, 19:41:21",
-      "https://news.ycombinator.com/item?id=40548498"
+      "2024-06-01, 19:42:03",
+      "https://news.ycombinator.com/item?id=40548500"
     ],
     [
-      "Little Lisp Interpreter (2014)",
-      "https://maryrosecook.com/blog/post/little-lisp-interpreter"
+      "Web browser architecture and the history of window systems",
+      "https://blog.dshr.org/2021/03/history-of-window-systems.html"
     ]
   ],
   [
@@ -177,6 +167,16 @@
     [
       "Randomness and the Netscape Browser [1996]",
       "https://people.eecs.berkeley.edu/~daw/papers/ddj-netscape.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-01, 10:18:27",
+      "https://news.ycombinator.com/item?id=40544407"
+    ],
+    [
+      "Einstein went to his office just so he could walk home with Gödel",
+      "https://www.futilitycloset.com/2024/05/31/footwork-10/"
     ]
   ],
   [
