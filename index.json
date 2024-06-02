@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-06-02, 13:19:47",
+      "https://news.ycombinator.com/item?id=40553881"
+    ],
+    [
+      "Hugging Face detected 'unauthorized access' to its AI model hosting platform",
+      "https://techcrunch.com/2024/05/31/hugging-face-says-it-detected-unauthorized-access-to-its-ai-model-hosting-platform/"
+    ]
+  ],
+  [
+    [
       "2024-06-02, 12:50:04",
       "https://news.ycombinator.com/item?id=40553684"
     ],
     [
       "Windows: A Software Engineering Odyssey",
       "https://danluu.com/microsoft-culture/"
+    ]
+  ],
+  [
+    [
+      "2024-06-02, 11:55:46",
+      "https://news.ycombinator.com/item?id=40553375"
+    ],
+    [
+      "The Collapse Is Coming. Will Humanity Adapt?",
+      "https://nautil.us/the-collapse-is-coming-will-humanity-adapt-626051/"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2024-06-01, 15:14:56",
-      "https://news.ycombinator.com/item?id=40546415"
-    ],
-    [
-      "Frances Hesselbein's leadership story (2022)",
-      "https://davidepstein.substack.com/p/year-end-remembrances-part-3-the"
-    ]
-  ],
-  [
-    [
       "2024-06-01, 11:02:40",
       "https://news.ycombinator.com/item?id=40544628"
     ],
@@ -227,16 +237,6 @@
     [
       "Ask HN: How to transcribe 1000s of handwritten notes",
       "https://news.ycombinator.com/item?id=40530719"
-    ]
-  ],
-  [
-    [
-      "2024-05-30, 22:30:22",
-      "https://news.ycombinator.com/item?id=40529470"
-    ],
-    [
-      "I added some optimizations to my compiler that turns Lisp into JavaScript",
-      "https://healeycodes.com/lisp-compiler-optimizations"
     ]
   ],
   [
