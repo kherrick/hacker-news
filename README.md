@@ -16,6 +16,7 @@
 * [2024-06-01, 19:41:21](https://news.ycombinator.com/item?id=40548498) - [Little Lisp Interpreter (2014)](https://maryrosecook.com/blog/post/little-lisp-interpreter)
 * [2024-06-01, 15:14:56](https://news.ycombinator.com/item?id=40546415) - [Frances Hesselbein's leadership story (2022)](https://davidepstein.substack.com/p/year-end-remembrances-part-3-the)
 * [2024-06-01, 11:02:40](https://news.ycombinator.com/item?id=40544628) - [Randomness and the Netscape Browser [1996]](https://people.eecs.berkeley.edu/~daw/papers/ddj-netscape.html)
+* [2024-06-01, 10:18:27](https://news.ycombinator.com/item?id=40544407) - [Einstein went to his office just so he could walk home with Gödel](https://www.futilitycloset.com/2024/05/31/footwork-10/)
 * [2024-06-01, 04:42:37](https://news.ycombinator.com/item?id=40542940) - [How to Distribute Postgres Geographically](https://xata.io/blog/geo-distributed-postgres)
 * [2024-05-31, 18:15:17](https://news.ycombinator.com/item?id=40538540) - [What I think about Lua after shipping a project with 60k lines of code](https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733?gi=8385ed7c6379)
 * [2024-05-31, 14:43:42](https://news.ycombinator.com/item?id=40535868) - [This Message Does Not Exist](https://www.kmjn.org/notes/message_existence.html)
@@ -27,7 +28,6 @@
 * [2024-05-30, 21:49:59](https://news.ycombinator.com/item?id=40529098) - [Building a Reactor](https://www.usnc.com/core-build/)
 * [2024-05-30, 18:21:53](https://news.ycombinator.com/item?id=40527014) - [Java Language Update – a look at where the language is going by Brian Goetz](https://www.youtube.com/watch?v=bKwzONOGLxs)
 * [2024-05-30, 17:03:28](https://news.ycombinator.com/item?id=40526020) - [Arduino FDX-B (animal ID chip) reader built from discrete components](https://github.com/decrazyo/fdxb)
-* [2024-05-30, 16:29:34](https://news.ycombinator.com/item?id=40525607) - [How Novy Built Zelma for Emily Oster Using OpenAI and Postgres](https://www.stepchange.work/blog/how-novy-built-zelma-for-emily-oster-using-openai-and-postgres)
 * [2024-05-30, 11:49:27](https://news.ycombinator.com/item?id=40522602) - [Orion – From idea to launch in 45 days](https://www.lux.camera/orion-from-idea-to-launch-in-45-days/)
 * [2024-05-30, 07:38:19](https://news.ycombinator.com/item?id=40521142) - [Can you look at experimental results along the way or not?](https://www.johndcook.com/blog/2024/05/28/alpha-spending/)
 
