@@ -1,10 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-02, 11:16:02](https://news.ycombinator.com/item?id=40553163) - [The Ticketmaster Data Breach May Be Just the Beginning](https://www.wired.com/story/snowflake-breach-ticketmaster-santander-ticketek-hacked/)
-* [2024-06-02, 09:06:40](https://news.ycombinator.com/item?id=40552632) - [PEP 730 – Adding iOS as a supported platform](https://peps.python.org/pep-0730/)
 * [2024-06-02, 09:03:54](https://news.ycombinator.com/item?id=40552621) - [PyCon US 2024 Recap](https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html)
 * [2024-06-02, 08:47:37](https://news.ycombinator.com/item?id=40552549) - [Show HN: Fusio 5.0 released – open-source API management platform](https://www.fusio-project.org/)
-* [2024-06-02, 08:20:49](https://news.ycombinator.com/item?id=40552423) - [Voice analysis shows striking similarity between Scarlett Johansson and ChatGPT](https://www.npr.org/2024/05/31/g-s1-2263/voice-lab-analysis-striking-similarity-scarlett-johansson-chatgpt-sky-openai)
+* [2024-06-02, 08:16:13](https://news.ycombinator.com/item?id=40552398) - [If A.I. Can Do Your Job, Maybe It Can Also Replace Your CEO](https://www.msn.com/en-us/news/us/if-a-i-can-do-your-job-maybe-it-can-also-replace-your-c-e-o/ar-BB1nbdAX)
 * [2024-06-02, 07:58:45](https://news.ycombinator.com/item?id=40552291) - [Pre-Work for Setting OKRs](https://eleganthack.com/pre-work-for-setting-okrs/)
 * [2024-06-02, 05:57:48](https://news.ycombinator.com/item?id=40551725) - [Parable of the Sofa](https://www.tbray.org/ongoing/When/202x/2024/06/01/Parable-of-the-Sofa)
 * [2024-06-02, 03:29:55](https://news.ycombinator.com/item?id=40551112) - [Unlocking the Duron and Athlon using the pencil (2007)](http://computer-communication.blogspot.com/2007/06/unlocking-duron-and-athlon-using-pencil_08.html)
@@ -29,6 +28,7 @@
 * [2024-05-30, 21:49:59](https://news.ycombinator.com/item?id=40529098) - [Building a Reactor](https://www.usnc.com/core-build/)
 * [2024-05-30, 18:21:53](https://news.ycombinator.com/item?id=40527014) - [Java Language Update – a look at where the language is going by Brian Goetz](https://www.youtube.com/watch?v=bKwzONOGLxs)
 * [2024-05-30, 17:03:28](https://news.ycombinator.com/item?id=40526020) - [Arduino FDX-B (animal ID chip) reader built from discrete components](https://github.com/decrazyo/fdxb)
+* [2024-05-30, 13:41:36](https://news.ycombinator.com/item?id=40523612) - [How to Consult an Onion Oracle](https://www.atlasobscura.com/articles/how-to-consult-an-onion-calendar)
 * [2024-05-30, 11:49:27](https://news.ycombinator.com/item?id=40522602) - [Orion – From idea to launch in 45 days](https://www.lux.camera/orion-from-idea-to-launch-in-45-days/)
 
 ## [Archives](archives/index.md)
