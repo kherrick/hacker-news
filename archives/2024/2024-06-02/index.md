@@ -22,6 +22,7 @@
 * [2024-06-02, 12:53:25](https://news.ycombinator.com/item?id=40553709) - [Circle C++ with Memory Safety](https://www.circle-lang.org/site/intro/)
 * [2024-06-02, 12:50:04](https://news.ycombinator.com/item?id=40553684) - [Windows: A Software Engineering Odyssey](https://danluu.com/microsoft-culture/)
 * [2024-06-02, 12:26:43](https://news.ycombinator.com/item?id=40553557) - [Advertising Broke the World](https://www.wired.com/story/death-of-truth-misinformation-advertising/)
+* [2024-06-02, 12:25:57](https://news.ycombinator.com/item?id=40553551) - [Monads are like burritos (2009)](https://blog.plover.com/prog/burritos.html)
 * [2024-06-02, 12:21:00](https://news.ycombinator.com/item?id=40553526) - [Simple Equation Predicts the Shapes of Carbon-Capturing Wetlands](https://www.quantamagazine.org/simple-equation-predicts-the-shapes-of-carbon-capturing-wetlands-20240528/)
 * [2024-06-02, 12:07:07](https://news.ycombinator.com/item?id=40553448) - [Copy-and-Patch Compilation: fast compilation algorithm for high-level languages](https://arxiv.org/abs/2011.13127)
 * [2024-06-02, 11:55:46](https://news.ycombinator.com/item?id=40553375) - [The Collapse Is Coming. Will Humanity Adapt?](https://nautil.us/the-collapse-is-coming-will-humanity-adapt-626051/)
