@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2024-06-01, 04:42:37",
+      "https://news.ycombinator.com/item?id=40542940"
+    ],
+    [
+      "How to Distribute Postgres Geographically",
+      "https://xata.io/blog/geo-distributed-postgres"
+    ]
+  ],
+  [
+    [
       "2024-06-01, 03:41:02",
       "https://news.ycombinator.com/item?id=40542691"
     ],
@@ -177,16 +187,6 @@
     [
       "What I think about Lua after shipping a project with 60k lines of code",
       "https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733?gi=8385ed7c6379"
-    ]
-  ],
-  [
-    [
-      "2024-05-31, 16:55:53",
-      "https://news.ycombinator.com/item?id=40537464"
-    ],
-    [
-      "The Forgotten History of Chinese Keyboards",
-      "https://spectrum.ieee.org/chinese-keyboard"
     ]
   ],
   [
