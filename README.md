@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-02, 20:26:59](https://news.ycombinator.com/item?id=40556995) - [HN-text: an easy-to-use, text-first Hacker News terminal client](https://github.com/piqoni/hn-text)
 * [2024-06-02, 17:44:06](https://news.ycombinator.com/item?id=40555913) - [Upgrading my Chumby 8 kernel part 10: RTC](https://www.downtowndougbrown.com/2024/06/upgrading-my-chumby-8-kernel-part-10-rtc/)
 * [2024-06-02, 16:53:04](https://news.ycombinator.com/item?id=40555506) - [Workmanship standard for crimping, interconnecting cables, harnesses, and wiring](https://standards.nasa.gov/standard/NASA/NASA-STD-87394)
 * [2024-06-02, 16:43:01](https://news.ycombinator.com/item?id=40555435) - [Ask HN: What was your most humbling learning moment?](https://news.ycombinator.com/item?id=40555435)
@@ -28,7 +29,6 @@
 * [2024-05-31, 03:10:41](https://news.ycombinator.com/item?id=40531124) - [The largest stegosaurus fossil ever found heads to auction](https://www.nytimes.com/2024/05/29/science/stegosaurus-fossil-auction-sothebys.html)
 * [2024-05-30, 21:49:59](https://news.ycombinator.com/item?id=40529098) - [Building a Reactor](https://www.usnc.com/core-build/)
 * [2024-05-30, 18:41:07](https://news.ycombinator.com/item?id=40527220) - [Distributed Snapshots: Chandy-Lamport Protocol](https://blog.fponzi.me/2024-05-30-distributed-snapshots.html)
-* [2024-05-30, 13:41:36](https://news.ycombinator.com/item?id=40523612) - [How to Consult an Onion Oracle](https://www.atlasobscura.com/articles/how-to-consult-an-onion-calendar)
 * [2024-05-30, 12:14:41](https://news.ycombinator.com/item?id=40522782) - [Mesh Spreadsheet: A data and code editor that feels like a spreadsheet](https://github.com/chrispsn/mesh-spreadsheet)
 
 ## [Archives](archives/index.md)
