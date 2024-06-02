@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-02](index.md)
 
+* [2024-06-02, 04:11:01](https://news.ycombinator.com/item?id=40551260) - [Signal: Will leave the EU market rather than undermine our privacy guarantees](https://twitter.com/mer__edith/status/1796508893822238881)
+* [2024-06-02, 03:29:55](https://news.ycombinator.com/item?id=40551112) - [Unlocking the Duron and Athlon Using the Pencil](http://computer-communication.blogspot.com/2007/06/unlocking-duron-and-athlon-using-pencil_08.html)
 * [2024-06-02, 03:17:02](https://news.ycombinator.com/item?id=40551070) - [How do our brains adapt to control an extra body part?](https://www.cam.ac.uk/stories/third-thumb)
 * [2024-06-02, 02:55:44](https://news.ycombinator.com/item?id=40550972) - [What Are Founders Reading?](https://foundcy.beehiiv.com/)
 * [2024-06-02, 01:21:35](https://news.ycombinator.com/item?id=40550617) - [Some Americans have stopped tipping. Should you do the same?](https://www.dallasnews.com/arts-entertainment/travel/2024/05/22/some-americans-have-stopped-tipping-should-you-do-the-same/)

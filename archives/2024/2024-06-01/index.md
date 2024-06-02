@@ -8,6 +8,7 @@
 * [2024-06-01, 22:48:08](https://news.ycombinator.com/item?id=40549776) - [Survival of the richest: Inside the short-lived fallout shelter bubble](https://thehustle.co/originals/survival-of-the-richest-inside-the-short-lived-fallout-shelter-bubble)
 * [2024-06-01, 21:32:12](https://news.ycombinator.com/item?id=40549250) - [Lisp: Icing or Cake?](https://dthompson.us/posts/lisp-icing-or-cake.html)
 * [2024-06-01, 21:28:49](https://news.ycombinator.com/item?id=40549220) - [Loyalty at work no longer pays – and it's employers who are to blame](https://www.businessinsider.com/why-loyalty-between-employers-employees-2024-5)
+* [2024-06-01, 21:26:29](https://news.ycombinator.com/item?id=40549209) - [Scientific glassblower continues century-old campus tradition (2021)](https://chemistry.berkeley.edu/news/scientific-glassblower-continues-century-old-campus-tradition)
 * [2024-06-01, 21:22:39](https://news.ycombinator.com/item?id=40549173) - [Apple downgrades new M2 iPad Air, 9-core GPU instead of 10-core](https://9to5mac.com/2024/06/01/m2-ipad-air-gpu-core-count/)
 * [2024-06-01, 20:59:13](https://news.ycombinator.com/item?id=40549021) - [LLMs Aren't \"Trained on the Internet\" Anymore](https://allenpike.com/2024/llms-trained-on-internet)
 * [2024-06-01, 19:53:37](https://news.ycombinator.com/item?id=40548572) - [Shodan – Search Engine for the Internet of Everything](https://www.shodan.io/)
