@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-06-02, 19:54:23",
+      "https://news.ycombinator.com/item?id=40556793"
+    ],
+    [
+      "Atomic polling intervals for highly concurrent workloads",
+      "https://www.byronwasti.com/polling-atomics/"
+    ]
+  ],
+  [
+    [
       "2024-06-02, 17:44:06",
       "https://news.ycombinator.com/item?id=40555913"
     ],
@@ -61,6 +71,16 @@
   ],
   [
     [
+      "2024-06-02, 15:55:56",
+      "https://news.ycombinator.com/item?id=40555116"
+    ],
+    [
+      "Hotwire: HTML Over The Wire",
+      "https://hotwired.dev/"
+    ]
+  ],
+  [
+    [
       "2024-06-02, 14:51:20",
       "https://news.ycombinator.com/item?id=40554658"
     ],
@@ -87,6 +107,16 @@
     [
       "Lord Kelvin and his analog computer",
       "https://spectrum.ieee.org/tide-predictions"
+    ]
+  ],
+  [
+    [
+      "2024-06-02, 12:53:25",
+      "https://news.ycombinator.com/item?id=40553709"
+    ],
+    [
+      "Circle C++ with memory safety",
+      "https://www.circle-lang.org/site/intro/"
     ]
   ],
   [
@@ -131,26 +161,6 @@
   ],
   [
     [
-      "2024-06-02, 02:20:09",
-      "https://news.ycombinator.com/item?id=40550830"
-    ],
-    [
-      "Python notebooks for fundamentals of music processing",
-      "https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-01, 21:26:29",
-      "https://news.ycombinator.com/item?id=40549209"
-    ],
-    [
-      "Scientific glassblower continues century-old campus tradition (2021)",
-      "https://chemistry.berkeley.edu/news/scientific-glassblower-continues-century-old-campus-tradition"
-    ]
-  ],
-  [
-    [
       "2024-06-01, 19:24:04",
       "https://news.ycombinator.com/item?id=40548381"
     ],
@@ -177,16 +187,6 @@
     [
       "Horseshoe crab counting with New York’s citizen scientists",
       "https://www.thecity.nyc/2024/05/29/horseshoe-crab-jamaica-bay-festival/"
-    ]
-  ],
-  [
-    [
-      "2024-06-01, 19:22:14",
-      "https://news.ycombinator.com/item?id=40548367"
-    ],
-    [
-      "Longitude and our neurons of navigation",
-      "https://www.forkingpaths.co/p/the-thrilling-tale-of-longitude-and"
     ]
   ],
   [
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2024-06-01, 06:19:30",
-      "https://news.ycombinator.com/item?id=40543336"
+      "2024-06-01, 05:57:43",
+      "https://news.ycombinator.com/item?id=40543247"
     ],
     [
-      "What use is prehistory to the historian?",
-      "https://www.historytoday.com/archive/head-head/what-use-prehistory-historian"
+      "Font Distortion",
+      "https://www.redblobgames.com/blog/2024-05-31-font-distortion/"
     ]
   ],
   [
