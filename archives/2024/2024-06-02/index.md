@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-02](index.md)
 
 * [2024-06-02, 20:26:59](https://news.ycombinator.com/item?id=40556995) - [HN-text: an easy-to-use, text-first Hacker News terminal client](https://github.com/piqoni/hn-text)
+* [2024-06-02, 19:54:23](https://news.ycombinator.com/item?id=40556793) - [Atomic polling intervals for highly concurrent workloads](https://www.byronwasti.com/polling-atomics/)
 * [2024-06-02, 18:41:52](https://news.ycombinator.com/item?id=40556342) - [The Disappointment Frontier](https://www.theengineeringmanager.com/growth/the-disappointment-frontier/)
 * [2024-06-02, 18:41:21](https://news.ycombinator.com/item?id=40556335) - [Evolving the back end storage for platform metrics](https://blog.heroku.com/evolving-backend-storage-for-platform-metrics)
 * [2024-06-02, 18:26:32](https://news.ycombinator.com/item?id=40556215) - [The Shadow of Tiananmen Falls on Hong Kong](https://www.newyorker.com/news/daily-comment/the-shadow-of-tiananmen-falls-on-hong-kong)
