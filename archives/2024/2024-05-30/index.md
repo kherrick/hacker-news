@@ -123,6 +123,7 @@
 * [2024-05-30, 05:21:46](https://news.ycombinator.com/item?id=40520334) - [How Actors Remember Their Lines](https://thereader.mitpress.mit.edu/how-actors-remember-their-lines/)
 * [2024-05-30, 05:09:35](https://news.ycombinator.com/item?id=40520277) - [SVG Gobbler – Find, optimize, edit, and export SVGs](https://github.com/rossmoody/svg-gobbler)
 * [2024-05-30, 05:09:04](https://news.ycombinator.com/item?id=40520275) - [A seventh-grader student found a beautiful proof to Thales' Theorem](https://www.cut-the-knot.org/pythagoras/ThalesTheorem.shtml)
+* [2024-05-30, 05:04:30](https://news.ycombinator.com/item?id=40520254) - [Arenas and the almighty concatenation operator](https://nullprogram.com/blog/2024/05/25/)
 * [2024-05-30, 04:36:08](https://news.ycombinator.com/item?id=40520113) - [Ticketmaster Hack: Data of Half a Billion Users Up for Ransom](https://www.ticketnews.com/2024/05/ticketmaster-hack-data-of-half-a-billion-users-up-for-ransom/)
 * [2024-05-30, 04:24:46](https://news.ycombinator.com/item?id=40520051) - [Google Console closed testing requirements are awful](https://news.ycombinator.com/item?id=40520051)
 * [2024-05-30, 04:07:11](https://news.ycombinator.com/item?id=40519976) - [Zig's new CLI progress bar explained](https://andrewkelley.me/post/zig-new-cli-progress-bar-explained.html)
