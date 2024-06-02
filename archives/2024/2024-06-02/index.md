@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-02](index.md)
 
+* [2024-06-02, 05:57:48](https://news.ycombinator.com/item?id=40551725) - [Parable of the Sofa](https://www.tbray.org/ongoing/When/202x/2024/06/01/Parable-of-the-Sofa)
 * [2024-06-02, 05:02:08](https://news.ycombinator.com/item?id=40551507) - [Jail time for those caught distributing deepfake porn under new Australian laws](https://www.theguardian.com/australia-news/article/2024/jun/01/creating-or-sharing-deepfake-porn-without-consent-to-be-under-proposed-new-australian-laws)
 * [2024-06-02, 04:11:01](https://news.ycombinator.com/item?id=40551260) - [Signal: Will leave the EU market rather than undermine our privacy guarantees](https://twitter.com/mer__edith/status/1796508893822238881)
 * [2024-06-02, 03:29:55](https://news.ycombinator.com/item?id=40551112) - [Unlocking the Duron and Athlon Using the Pencil](http://computer-communication.blogspot.com/2007/06/unlocking-duron-and-athlon-using-pencil_08.html)
