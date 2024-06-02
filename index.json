@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-02, 14:21:00",
+      "https://news.ycombinator.com/item?id=40554394"
+    ],
+    [
+      "New head of one of the oldest universities organized a citation cartel",
+      "https://english.elpais.com/science-tech/2024-05-31/internal-messages-show-how-the-new-head-of-one-of-the-worlds-oldest-universities-organized-a-citation-cartel.html"
+    ]
+  ],
+  [
+    [
       "2024-06-02, 13:54:05",
       "https://news.ycombinator.com/item?id=40554133"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2024-06-02, 13:35:36",
-      "https://news.ycombinator.com/item?id=40553986"
+      "2024-06-02, 13:37:29",
+      "https://news.ycombinator.com/item?id=40554014"
     ],
     [
-      "Show HN: I'm a doctor and built a responsive breathing app for anxiety and sleep",
-      "https://www.lungy.app/"
+      "Automatic dark mode with OpenBSD and dwm",
+      "https://plexwave.org/blog/auto-dark-mode"
     ]
   ],
   [
@@ -27,6 +37,26 @@
     [
       "Copy-and-Patch Compilation: fast compilation algorithm for high-level languages",
       "https://arxiv.org/abs/2011.13127"
+    ]
+  ],
+  [
+    [
+      "2024-06-02, 11:41:54",
+      "https://news.ycombinator.com/item?id=40553281"
+    ],
+    [
+      "Want to Unlock Performance and Clarity? Use Strong Types",
+      "https://ekxide.io/blog/want-to-unlock-performance-and-clarity-use-strong-types/"
+    ]
+  ],
+  [
+    [
+      "2024-06-02, 11:16:29",
+      "https://news.ycombinator.com/item?id=40553164"
+    ],
+    [
+      "Counting words in Python, Go, C++, C, Awk, Forth, and Rust (2021)",
+      "https://benhoyt.com/writings/count-words/"
     ]
   ],
   [
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2024-06-01, 19:42:03",
-      "https://news.ycombinator.com/item?id=40548500"
-    ],
-    [
-      "Web browser architecture and the history of window systems",
-      "https://blog.dshr.org/2021/03/history-of-window-systems.html"
-    ]
-  ],
-  [
-    [
       "2024-06-01, 19:41:21",
       "https://news.ycombinator.com/item?id=40548498"
     ],
@@ -167,16 +187,6 @@
     [
       "Randomness and the Netscape Browser [1996]",
       "https://people.eecs.berkeley.edu/~daw/papers/ddj-netscape.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-01, 10:18:27",
-      "https://news.ycombinator.com/item?id=40544407"
-    ],
-    [
-      "Einstein went to his office just so he could walk home with Gödel",
-      "https://www.futilitycloset.com/2024/05/31/footwork-10/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Repairing my mug with Kintsugi",
       "https://fellerts.no/projects/kintsugi.php"
-    ]
-  ],
-  [
-    [
-      "2024-05-31, 01:57:25",
-      "https://news.ycombinator.com/item?id=40530719"
-    ],
-    [
-      "Ask HN: How to transcribe 1000s of handwritten notes",
-      "https://news.ycombinator.com/item?id=40530719"
     ]
   ],
   [
