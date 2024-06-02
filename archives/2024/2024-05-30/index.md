@@ -12,6 +12,7 @@
 * [2024-05-30, 22:41:29](https://news.ycombinator.com/item?id=40529556) - [A week with Elixir (2013)](https://joearms.github.io/published/2013-05-31-a-week-with-elixir.html)
 * [2024-05-30, 22:30:22](https://news.ycombinator.com/item?id=40529470) - [Lisp Compiler Optimizations](https://healeycodes.com/lisp-compiler-optimizations)
 * [2024-05-30, 22:18:02](https://news.ycombinator.com/item?id=40529355) - [1-Bit LLMs Could Solve AI's Energy Demands](https://spectrum.ieee.org/1-bit-llm)
+* [2024-05-30, 22:06:38](https://news.ycombinator.com/item?id=40529250) - [East Coast has a giant offshore freshwater aquifer–how did it get there?](https://arstechnica.com/science/2024/05/what-put-huge-quantities-of-freshwater-under-the-seabed/)
 * [2024-05-30, 22:02:34](https://news.ycombinator.com/item?id=40529217) - [Microsoft Rolling Out New Windows Subsystem for Linux \"WSL\" Features for 2024](https://www.phoronix.com/news/Microsoft-WSL2-2024-Features)
 * [2024-05-30, 21:56:10](https://news.ycombinator.com/item?id=40529160) - [The Genius of Ella Fitzgerald](https://www.thenation.com/article/culture/ella-fitzgerald-judith-tick-biography/)
 * [2024-05-30, 21:49:59](https://news.ycombinator.com/item?id=40529098) - [Building a Reactor](https://www.usnc.com/core-build/)
