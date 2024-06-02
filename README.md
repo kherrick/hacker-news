@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-02, 10:17:57](https://news.ycombinator.com/item?id=40552919) - [Anthropic Chief of Staff: These next 3 years might be the last few that I work](https://www.palladiummag.com/2024/05/17/my-last-five-years-of-work/)
 * [2024-06-02, 09:06:40](https://news.ycombinator.com/item?id=40552632) - [PEP 730 – Adding iOS as a supported platform](https://peps.python.org/pep-0730/)
 * [2024-06-02, 08:47:37](https://news.ycombinator.com/item?id=40552549) - [Show HN: Fusio 5.0 released – open-source API management platform](https://www.fusio-project.org/)
 * [2024-06-02, 08:47:36](https://news.ycombinator.com/item?id=40552548) - [FineWeb: Decanting the web for the finest text data at scale](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1)
@@ -16,7 +17,6 @@
 * [2024-06-01, 19:41:21](https://news.ycombinator.com/item?id=40548498) - [Little Lisp Interpreter (2014)](https://maryrosecook.com/blog/post/little-lisp-interpreter)
 * [2024-06-01, 15:14:56](https://news.ycombinator.com/item?id=40546415) - [Frances Hesselbein's leadership story (2022)](https://davidepstein.substack.com/p/year-end-remembrances-part-3-the)
 * [2024-06-01, 11:02:40](https://news.ycombinator.com/item?id=40544628) - [Randomness and the Netscape Browser [1996]](https://people.eecs.berkeley.edu/~daw/papers/ddj-netscape.html)
-* [2024-06-01, 10:18:27](https://news.ycombinator.com/item?id=40544407) - [Einstein went to his office just so he could walk home with Gödel](https://www.futilitycloset.com/2024/05/31/footwork-10/)
 * [2024-06-01, 04:42:37](https://news.ycombinator.com/item?id=40542940) - [How to Distribute Postgres Geographically](https://xata.io/blog/geo-distributed-postgres)
 * [2024-05-31, 18:15:17](https://news.ycombinator.com/item?id=40538540) - [What I think about Lua after shipping a project with 60k lines of code](https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733?gi=8385ed7c6379)
 * [2024-05-31, 14:43:42](https://news.ycombinator.com/item?id=40535868) - [This Message Does Not Exist](https://www.kmjn.org/notes/message_existence.html)
