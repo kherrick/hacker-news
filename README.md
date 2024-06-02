@@ -2,6 +2,7 @@
 
 * [2024-06-02, 01:21:10](https://news.ycombinator.com/item?id=40550615) - [The NSA advises you to turn your phone off and back on once a week](https://www.zdnet.com/article/the-nsa-advises-you-to-turn-your-phone-off-and-back-on-once-a-week-heres-why/)
 * [2024-06-02, 01:17:56](https://news.ycombinator.com/item?id=40550590) - [Seoul authorities find Shein products contain high levels of toxic chemicals](https://www.lemonde.fr/en/economy/article/2024/05/28/seoul-government-finds-shein-products-contain-high-levels-of-toxic-chemicals_6672910_19.html)
+* [2024-06-02, 01:09:23](https://news.ycombinator.com/item?id=40550556) - [84–24](https://84-24.org/)
 * [2024-06-02, 00:04:21](https://news.ycombinator.com/item?id=40550218) - [CSS Written in Pure Go](https://github.com/AccentDesign/gcss)
 * [2024-06-01, 23:35:46](https://news.ycombinator.com/item?id=40550059) - [Show HN: Open-Source Load Balancer for Llama.cpp](https://github.com/distantmagic/paddler)
 * [2024-06-01, 21:32:12](https://news.ycombinator.com/item?id=40549250) - [Lisp: Icing or Cake?](https://dthompson.us/posts/lisp-icing-or-cake.html)
@@ -29,7 +30,6 @@
 * [2024-05-30, 12:10:06](https://news.ycombinator.com/item?id=40522744) - [Making a tic-tac-toe game with ‘randomness’ using pure HTML and CSS](https://blog.scottlogic.com/2024/05/17/noJS-2-stochastic-boogaloo.html)
 * [2024-05-30, 07:38:19](https://news.ycombinator.com/item?id=40521142) - [Can you look at experimental results along the way or not?](https://www.johndcook.com/blog/2024/05/28/alpha-spending/)
 * [2024-05-30, 04:07:11](https://news.ycombinator.com/item?id=40519976) - [Zig's new CLI progress bar explained](https://andrewkelley.me/post/zig-new-cli-progress-bar-explained.html)
-* [2024-05-29, 23:51:40](https://news.ycombinator.com/item?id=40518525) - [Disassembling Dalvik](https://margin.re/2024/05/dalvik-disassembly/)
 
 ## [Archives](archives/index.md)
 
