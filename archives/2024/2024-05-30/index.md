@@ -91,6 +91,7 @@
 * [2024-05-30, 12:22:35](https://news.ycombinator.com/item?id=40522845) - [Spraying Digital Graffiti](http://andersource.dev/2024/05/30/spraying-digital-graffiti.html)
 * [2024-05-30, 12:22:35](https://news.ycombinator.com/item?id=40522844) - [Show HN: ChatGPT UI for Rabbit Holes](https://delve.a9.io/)
 * [2024-05-30, 12:10:06](https://news.ycombinator.com/item?id=40522744) - [Making a tic-tac-toe game with 'randomness' using pure HTML and CSS](https://blog.scottlogic.com/2024/05/17/noJS-2-stochastic-boogaloo.html)
+* [2024-05-30, 11:49:27](https://news.ycombinator.com/item?id=40522602) - [Orion – From idea to launch in 45 days](https://www.lux.camera/orion-from-idea-to-launch-in-45-days/)
 * [2024-05-30, 11:44:48](https://news.ycombinator.com/item?id=40522577) - [SBCL: New in Version 2.4.5](http://sbcl.org/all-news.html?2.4.5#2.4.5)
 * [2024-05-30, 11:37:07](https://news.ycombinator.com/item?id=40522518) - [You Can Thank Private Equity for That Enormous Doctor's Bill](https://www.wsj.com/health/healthcare/you-can-thank-private-equity-for-that-enormous-doctors-bill-3a2fc90b)
 * [2024-05-30, 11:21:35](https://news.ycombinator.com/item?id=40522425) - [I am writing a programming language](https://www.rasheedstarlet.com/articles/why_compilers.html)

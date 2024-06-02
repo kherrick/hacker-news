@@ -28,7 +28,7 @@
 * [2024-05-30, 22:30:22](https://news.ycombinator.com/item?id=40529470) - [I added some optimizations to my compiler that turns Lisp into JavaScript](https://healeycodes.com/lisp-compiler-optimizations)
 * [2024-05-30, 22:06:38](https://news.ycombinator.com/item?id=40529250) - [East Coast has a giant offshore freshwater aquifer–how did it get there?](https://arstechnica.com/science/2024/05/what-put-huge-quantities-of-freshwater-under-the-seabed/)
 * [2024-05-30, 21:49:59](https://news.ycombinator.com/item?id=40529098) - [Building a Reactor](https://www.usnc.com/core-build/)
-* [2024-05-30, 12:10:06](https://news.ycombinator.com/item?id=40522744) - [Making a tic-tac-toe game with ‘randomness’ using pure HTML and CSS](https://blog.scottlogic.com/2024/05/17/noJS-2-stochastic-boogaloo.html)
+* [2024-05-30, 11:49:27](https://news.ycombinator.com/item?id=40522602) - [Orion – From idea to launch in 45 days](https://www.lux.camera/orion-from-idea-to-launch-in-45-days/)
 * [2024-05-30, 07:38:19](https://news.ycombinator.com/item?id=40521142) - [Can you look at experimental results along the way or not?](https://www.johndcook.com/blog/2024/05/28/alpha-spending/)
 
 ## [Archives](archives/index.md)
