@@ -1,13 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-02, 18:41:52](https://news.ycombinator.com/item?id=40556342) - [The Disappointment Frontier](https://www.theengineeringmanager.com/growth/the-disappointment-frontier/)
 * [2024-06-02, 17:44:06](https://news.ycombinator.com/item?id=40555913) - [Upgrading my Chumby 8 kernel part 10: RTC](https://www.downtowndougbrown.com/2024/06/upgrading-my-chumby-8-kernel-part-10-rtc/)
 * [2024-06-02, 16:53:04](https://news.ycombinator.com/item?id=40555506) - [Workmanship standard for crimping, interconnecting cables, harnesses, and wiring](https://standards.nasa.gov/standard/NASA/NASA-STD-87394)
+* [2024-06-02, 16:43:01](https://news.ycombinator.com/item?id=40555435) - [Ask HN: What was your most humbling learning moment?](https://news.ycombinator.com/item?id=40555435)
 * [2024-06-02, 16:42:03](https://news.ycombinator.com/item?id=40555431) - [Parsing JSON Is a Minefield (2018)](https://seriot.ch/projects/parsing_json.html)
 * [2024-06-02, 15:57:41](https://news.ycombinator.com/item?id=40555131) - [Here comes the Muybridge camera moment but for text](https://interconnected.org/home/2024/05/31/camera)
 * [2024-06-02, 14:51:20](https://news.ycombinator.com/item?id=40554658) - [A secure embedded operating system for microcontrollers](https://tockos.org/)
 * [2024-06-02, 14:21:21](https://news.ycombinator.com/item?id=40554396) - [SPI Flash](https://trmm.net/SPI_flash/)
 * [2024-06-02, 13:17:18](https://news.ycombinator.com/item?id=40553863) - [Lord Kelvin and his analog computer](https://spectrum.ieee.org/tide-predictions)
+* [2024-06-02, 12:25:57](https://news.ycombinator.com/item?id=40553551) - [Monads are like burritos (2009)](https://blog.plover.com/prog/burritos.html)
 * [2024-06-02, 12:21:00](https://news.ycombinator.com/item?id=40553526) - [Simple equation predicts the shapes of carbon-capturing wetlands](https://www.quantamagazine.org/simple-equation-predicts-the-shapes-of-carbon-capturing-wetlands-20240528/)
 * [2024-06-02, 12:07:07](https://news.ycombinator.com/item?id=40553448) - [Copy-and-Patch: Fast compilation for high-level languages and bytecode (2020)](https://arxiv.org/abs/2011.13127)
 * [2024-06-02, 03:17:02](https://news.ycombinator.com/item?id=40551070) - [How do our brains adapt to control an extra body part?](https://www.cam.ac.uk/stories/third-thumb)
@@ -29,7 +30,6 @@
 * [2024-05-30, 18:41:07](https://news.ycombinator.com/item?id=40527220) - [Distributed Snapshots: Chandy-Lamport Protocol](https://blog.fponzi.me/2024-05-30-distributed-snapshots.html)
 * [2024-05-30, 13:41:36](https://news.ycombinator.com/item?id=40523612) - [How to Consult an Onion Oracle](https://www.atlasobscura.com/articles/how-to-consult-an-onion-calendar)
 * [2024-05-30, 12:14:41](https://news.ycombinator.com/item?id=40522782) - [Mesh Spreadsheet: A data and code editor that feels like a spreadsheet](https://github.com/chrispsn/mesh-spreadsheet)
-* [2024-05-30, 05:04:30](https://news.ycombinator.com/item?id=40520254) - [Arenas and the almighty concatenation operator](https://nullprogram.com/blog/2024/05/25/)
 
 ## [Archives](archives/index.md)
 
