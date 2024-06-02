@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2024-06-02, 12:53:25",
+      "https://news.ycombinator.com/item?id=40553709"
+    ],
+    [
+      "Circle C++ with Memory Safety",
+      "https://www.circle-lang.org/site/intro/"
+    ]
+  ],
+  [
+    [
       "2024-06-02, 12:21:00",
       "https://news.ycombinator.com/item?id=40553526"
     ],
@@ -71,22 +81,22 @@
   ],
   [
     [
+      "2024-06-02, 10:16:34",
+      "https://news.ycombinator.com/item?id=40552912"
+    ],
+    [
+      "Paged Out #4 is out",
+      "https://pagedout.institute/?page=blog.php#entry-2024-06-01"
+    ]
+  ],
+  [
+    [
       "2024-06-02, 09:03:54",
       "https://news.ycombinator.com/item?id=40552621"
     ],
     [
       "PyCon US 2024 Recap",
       "https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-02, 08:47:37",
-      "https://news.ycombinator.com/item?id=40552549"
-    ],
-    [
-      "Show HN: Fusio 5.0 released – open-source API management platform",
-      "https://www.fusio-project.org/"
     ]
   ],
   [
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2024-05-31, 13:14:32",
-      "https://news.ycombinator.com/item?id=40534740"
-    ],
-    [
-      "In Colorado, an ambitious new highway policy is not building them",
-      "https://www.nytimes.com/2024/05/31/headway/highways-colorado-transportation.html"
-    ]
-  ],
-  [
-    [
       "2024-05-31, 12:33:10",
       "https://news.ycombinator.com/item?id=40534293"
     ],
@@ -237,16 +237,6 @@
     [
       "Repairing my mug with Kintsugi",
       "https://fellerts.no/projects/kintsugi.php"
-    ]
-  ],
-  [
-    [
-      "2024-05-31, 01:57:25",
-      "https://news.ycombinator.com/item?id=40530719"
-    ],
-    [
-      "Ask HN: How to transcribe 1000s of handwritten notes",
-      "https://news.ycombinator.com/item?id=40530719"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Milvus Lite: The Lightweight Version of Milvus",
       "https://milvus.io/blog/introducing-milvus-lite.md"
+    ]
+  ],
+  [
+    [
+      "2024-05-30, 05:04:30",
+      "https://news.ycombinator.com/item?id=40520254"
+    ],
+    [
+      "Arenas and the almighty concatenation operator",
+      "https://nullprogram.com/blog/2024/05/25/"
     ]
   ]
 ]
