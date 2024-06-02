@@ -94,6 +94,7 @@
 * [2024-05-30, 12:34:38](https://news.ycombinator.com/item?id=40522936) - [EU doubles down on penalising privacy-friendly and encrypted messaging services](https://www.patrick-breyer.de/en/leak-eu-governments-double-down-on-penalising-privacy-friendly-and-encrypted-messaging-services-with-chat-control-bulk-scanning-orders/)
 * [2024-05-30, 12:22:35](https://news.ycombinator.com/item?id=40522845) - [Spraying Digital Graffiti](http://andersource.dev/2024/05/30/spraying-digital-graffiti.html)
 * [2024-05-30, 12:22:35](https://news.ycombinator.com/item?id=40522844) - [Show HN: ChatGPT UI for Rabbit Holes](https://delve.a9.io/)
+* [2024-05-30, 12:14:41](https://news.ycombinator.com/item?id=40522782) - [Mesh Spreadsheet: A data and code editor that feels like a spreadsheet](https://github.com/chrispsn/mesh-spreadsheet)
 * [2024-05-30, 12:10:06](https://news.ycombinator.com/item?id=40522744) - [Making a tic-tac-toe game with 'randomness' using pure HTML and CSS](https://blog.scottlogic.com/2024/05/17/noJS-2-stochastic-boogaloo.html)
 * [2024-05-30, 11:49:27](https://news.ycombinator.com/item?id=40522602) - [Orion – From idea to launch in 45 days](https://www.lux.camera/orion-from-idea-to-launch-in-45-days/)
 * [2024-05-30, 11:44:48](https://news.ycombinator.com/item?id=40522577) - [SBCL: New in Version 2.4.5](http://sbcl.org/all-news.html?2.4.5#2.4.5)
