@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-02](index.md)
 
+* [2024-06-02, 12:50:04](https://news.ycombinator.com/item?id=40553684) - [Windows: A Software Engineering Odyssey](https://danluu.com/microsoft-culture/)
 * [2024-06-02, 11:16:02](https://news.ycombinator.com/item?id=40553163) - [The Ticketmaster Data Breach May Be Just the Beginning](https://www.wired.com/story/snowflake-breach-ticketmaster-santander-ticketek-hacked/)
 * [2024-06-02, 10:17:57](https://news.ycombinator.com/item?id=40552919) - [Anthropic Chief of Staff: These next 3 years might be the last few that I work](https://www.palladiummag.com/2024/05/17/my-last-five-years-of-work/)
 * [2024-06-02, 09:06:40](https://news.ycombinator.com/item?id=40552632) - [PEP 730 – Adding iOS as a supported platform](https://peps.python.org/pep-0730/)

@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-02, 12:50:04](https://news.ycombinator.com/item?id=40553684) - [Windows: A Software Engineering Odyssey](https://danluu.com/microsoft-culture/)
 * [2024-06-02, 11:16:02](https://news.ycombinator.com/item?id=40553163) - [The Ticketmaster Data Breach May Be Just the Beginning](https://www.wired.com/story/snowflake-breach-ticketmaster-santander-ticketek-hacked/)
 * [2024-06-02, 09:03:54](https://news.ycombinator.com/item?id=40552621) - [PyCon US 2024 Recap](https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html)
 * [2024-06-02, 08:47:37](https://news.ycombinator.com/item?id=40552549) - [Show HN: Fusio 5.0 released – open-source API management platform](https://www.fusio-project.org/)
-* [2024-06-02, 08:20:49](https://news.ycombinator.com/item?id=40552423) - [Voice analysis shows striking similarity between Scarlett Johansson and ChatGPT](https://www.npr.org/2024/05/31/g-s1-2263/voice-lab-analysis-striking-similarity-scarlett-johansson-chatgpt-sky-openai)
 * [2024-06-02, 08:16:13](https://news.ycombinator.com/item?id=40552398) - [If A.I. Can Do Your Job, Maybe It Can Also Replace Your CEO](https://www.msn.com/en-us/news/us/if-a-i-can-do-your-job-maybe-it-can-also-replace-your-c-e-o/ar-BB1nbdAX)
 * [2024-06-02, 05:57:48](https://news.ycombinator.com/item?id=40551725) - [Parable of the Sofa](https://www.tbray.org/ongoing/When/202x/2024/06/01/Parable-of-the-Sofa)
 * [2024-06-02, 03:29:55](https://news.ycombinator.com/item?id=40551112) - [Unlocking the Duron and Athlon using the pencil (2007)](http://computer-communication.blogspot.com/2007/06/unlocking-duron-and-athlon-using-pencil_08.html)
@@ -15,7 +15,6 @@
 * [2024-06-01, 19:41:21](https://news.ycombinator.com/item?id=40548498) - [Little Lisp Interpreter (2014)](https://maryrosecook.com/blog/post/little-lisp-interpreter)
 * [2024-06-01, 15:14:56](https://news.ycombinator.com/item?id=40546415) - [Frances Hesselbein's leadership story (2022)](https://davidepstein.substack.com/p/year-end-remembrances-part-3-the)
 * [2024-06-01, 11:02:40](https://news.ycombinator.com/item?id=40544628) - [Randomness and the Netscape Browser [1996]](https://people.eecs.berkeley.edu/~daw/papers/ddj-netscape.html)
-* [2024-06-01, 10:18:27](https://news.ycombinator.com/item?id=40544407) - [Einstein went to his office just so he could walk home with Gödel](https://www.futilitycloset.com/2024/05/31/footwork-10/)
 * [2024-06-01, 10:03:15](https://news.ycombinator.com/item?id=40544349) - [Routers cyber security best practices](https://www.cyber.gc.ca/en/guidance/routers-cyber-security-best-practices-itsap80019)
 * [2024-06-01, 04:42:37](https://news.ycombinator.com/item?id=40542940) - [How to Distribute Postgres Geographically](https://xata.io/blog/geo-distributed-postgres)
 * [2024-05-31, 18:15:17](https://news.ycombinator.com/item?id=40538540) - [What I think about Lua after shipping a project with 60k lines of code](https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733?gi=8385ed7c6379)
@@ -30,6 +29,7 @@
 * [2024-05-30, 17:03:28](https://news.ycombinator.com/item?id=40526020) - [Arduino FDX-B (animal ID chip) reader built from discrete components](https://github.com/decrazyo/fdxb)
 * [2024-05-30, 13:41:36](https://news.ycombinator.com/item?id=40523612) - [How to Consult an Onion Oracle](https://www.atlasobscura.com/articles/how-to-consult-an-onion-calendar)
 * [2024-05-30, 11:49:27](https://news.ycombinator.com/item?id=40522602) - [Orion – From idea to launch in 45 days](https://www.lux.camera/orion-from-idea-to-launch-in-45-days/)
+* [2024-05-30, 11:17:52](https://news.ycombinator.com/item?id=40522400) - [Milvus Lite: The Lightweight Version of Milvus](https://milvus.io/blog/introducing-milvus-lite.md)
 
 ## [Archives](archives/index.md)
 
