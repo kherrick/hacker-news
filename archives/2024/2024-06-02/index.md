@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-02](index.md)
 
+* [2024-06-02, 21:23:07](https://news.ycombinator.com/item?id=40557289) - [Nuclear material left in \"Swap Shop\" at UK Hacker camp emfcamp](https://meow.social/@tryst/112546598851850261)
 * [2024-06-02, 20:26:59](https://news.ycombinator.com/item?id=40556995) - [HN-text: an easy-to-use, text-first Hacker News terminal client](https://github.com/piqoni/hn-text)
 * [2024-06-02, 19:54:23](https://news.ycombinator.com/item?id=40556793) - [Atomic polling intervals for highly concurrent workloads](https://www.byronwasti.com/polling-atomics/)
 * [2024-06-02, 18:41:52](https://news.ycombinator.com/item?id=40556342) - [The Disappointment Frontier](https://www.theengineeringmanager.com/growth/the-disappointment-frontier/)

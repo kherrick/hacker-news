@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-02, 21:23:07](https://news.ycombinator.com/item?id=40557289) - [Nuclear material left in \"Swap Shop\" at UK Hacker camp emfcamp](https://meow.social/@tryst/112546598851850261)
 * [2024-06-02, 20:26:59](https://news.ycombinator.com/item?id=40556995) - [HN-text: an easy-to-use, text-first Hacker News terminal client](https://github.com/piqoni/hn-text)
 * [2024-06-02, 19:54:23](https://news.ycombinator.com/item?id=40556793) - [Atomic polling intervals for highly concurrent workloads](https://www.byronwasti.com/polling-atomics/)
 * [2024-06-02, 17:44:06](https://news.ycombinator.com/item?id=40555913) - [Upgrading my Chumby 8 kernel part 10: RTC](https://www.downtowndougbrown.com/2024/06/upgrading-my-chumby-8-kernel-part-10-rtc/)
@@ -17,7 +18,6 @@
 * [2024-06-02, 12:07:07](https://news.ycombinator.com/item?id=40553448) - [Copy-and-Patch: Fast compilation for high-level languages and bytecode (2020)](https://arxiv.org/abs/2011.13127)
 * [2024-06-02, 03:17:02](https://news.ycombinator.com/item?id=40551070) - [How do our brains adapt to control an extra body part?](https://www.cam.ac.uk/stories/third-thumb)
 * [2024-06-01, 19:24:04](https://news.ycombinator.com/item?id=40548381) - [“You Are My Friend”: Early Androids and Artificial Speech](https://publicdomainreview.org/essay/early-androids-and-artificial-speech/?ref=thebrowser.com)
-* [2024-06-01, 19:23:46](https://news.ycombinator.com/item?id=40548379) - [At the Webster Apartments](https://www.theparisreview.org/blog/2024/05/28/at-the-webster-apartments-one-of-manhattans-last-all-womens-boarding-houses/)
 * [2024-06-01, 19:23:03](https://news.ycombinator.com/item?id=40548372) - [Horseshoe crab counting with New York’s citizen scientists](https://www.thecity.nyc/2024/05/29/horseshoe-crab-jamaica-bay-festival/)
 * [2024-06-01, 11:43:07](https://news.ycombinator.com/item?id=40544896) - [Why is Snapshot Isolation not enough?](http://concurrencyfreaks.blogspot.com/2023/12/why-is-snapshot-isolation-not-enough.html)
 * [2024-06-01, 11:16:18](https://news.ycombinator.com/item?id=40544716) - [Everything I know about the fast inverse square root algorithm](https://github.com/francisrstokes/githublog/blob/main/2024%2F5%2F29%2Ffast-inverse-sqrt.md)
