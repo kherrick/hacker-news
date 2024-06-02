@@ -59,6 +59,7 @@
 * [2024-06-01, 05:55:01](https://news.ycombinator.com/item?id=40543238) - [Helldivers 2 has caused over 20k Steam accounts to be banned](https://www.videogamer.com/news/helldivers-2-has-caused-over-20000-steam-accounts-to-be-banned/)
 * [2024-06-01, 05:43:16](https://news.ycombinator.com/item?id=40543196) - [L(O*62).ONG: Make your URL longer](https://loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong)
 * [2024-06-01, 04:46:46](https://news.ycombinator.com/item?id=40542959) - [Stale candy is quite illegal](https://law.justia.com/cases/california/court-of-appeal/2d/94/599.html)
+* [2024-06-01, 04:42:37](https://news.ycombinator.com/item?id=40542940) - [How to Distribute Postgres Geographically](https://xata.io/blog/geo-distributed-postgres)
 * [2024-06-01, 04:37:57](https://news.ycombinator.com/item?id=40542916) - [Sony Pictures to Use AI to Produce Movies and Shows in \"More Efficient Ways\"](https://www.hollywoodreporter.com/business/business-news/sony-pictures-adopt-ai-streamline-production-says-ceo-tony-vinciquerra-1235912109/)
 * [2024-06-01, 04:37:43](https://news.ycombinator.com/item?id=40542913) - [DearMoon, the first private circum-lunar flight project, will be cancelled](https://twitter.com/dearmoonproject/status/1796759847817625933)
 * [2024-06-01, 03:48:03](https://news.ycombinator.com/item?id=40542724) - [California sides with big utilities, trimming incentives for community solar](https://calmatters.org/environment/2024/05/california-community-solar-incentives/)
