@@ -28,7 +28,7 @@
 * [2024-06-01, 05:43:16](https://news.ycombinator.com/item?id=40543196) - [L(O*62).ONG: Make your URL longer](https://loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong)
 * [2024-05-31, 22:54:40](https://news.ycombinator.com/item?id=40541187) - [An accident of lighting uncovers origins of the astrolabe](https://nautil.us/the-smartphone-of-the-middle-ages-625924/)
 * [2024-05-31, 03:10:41](https://news.ycombinator.com/item?id=40531124) - [The largest stegosaurus fossil ever found heads to auction](https://www.nytimes.com/2024/05/29/science/stegosaurus-fossil-auction-sothebys.html)
-* [2024-05-30, 21:49:59](https://news.ycombinator.com/item?id=40529098) - [Building a Reactor](https://www.usnc.com/core-build/)
+* [2024-05-30, 18:41:07](https://news.ycombinator.com/item?id=40527220) - [Distributed Snapshots: Chandy-Lamport Protocol](https://blog.fponzi.me/2024-05-30-distributed-snapshots.html)
 * [2024-05-30, 12:14:41](https://news.ycombinator.com/item?id=40522782) - [Mesh Spreadsheet: A data and code editor that feels like a spreadsheet](https://github.com/chrispsn/mesh-spreadsheet)
 
 ## [Archives](archives/index.md)
