@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-06-02, 13:37:18",
-      "https://news.ycombinator.com/item?id=40554012"
-    ],
-    [
-      "There Has Never Been a Better Time to Switch to Linux",
-      "https://fosspost.org/there-has-never-been-a-better-time-to-switch-to-linux"
-    ]
-  ],
-  [
-    [
       "2024-06-02, 13:35:36",
       "https://news.ycombinator.com/item?id=40553986"
     ],
@@ -31,12 +21,22 @@
   ],
   [
     [
-      "2024-06-02, 12:50:04",
-      "https://news.ycombinator.com/item?id=40553684"
+      "2024-06-02, 13:11:49",
+      "https://news.ycombinator.com/item?id=40553818"
     ],
     [
-      "Windows: A Software Engineering Odyssey",
-      "https://danluu.com/microsoft-culture/"
+      "Ask HN: Time to discourage \"I asked ChatGPT\" comments?",
+      "https://news.ycombinator.com/item?id=40553818"
+    ]
+  ],
+  [
+    [
+      "2024-06-02, 12:26:43",
+      "https://news.ycombinator.com/item?id=40553557"
+    ],
+    [
+      "Advertising Broke the World",
+      "https://www.wired.com/story/death-of-truth-misinformation-advertising/"
     ]
   ],
   [
@@ -51,32 +51,12 @@
   ],
   [
     [
-      "2024-06-02, 11:16:02",
-      "https://news.ycombinator.com/item?id=40553163"
-    ],
-    [
-      "The Ticketmaster Data Breach May Be Just the Beginning",
-      "https://www.wired.com/story/snowflake-breach-ticketmaster-santander-ticketek-hacked/"
-    ]
-  ],
-  [
-    [
       "2024-06-02, 09:03:54",
       "https://news.ycombinator.com/item?id=40552621"
     ],
     [
       "PyCon US 2024 Recap",
       "https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-02, 08:47:37",
-      "https://news.ycombinator.com/item?id=40552549"
-    ],
-    [
-      "Show HN: Fusio 5.0 released – open-source API management platform",
-      "https://www.fusio-project.org/"
     ]
   ],
   [
@@ -161,12 +141,22 @@
   ],
   [
     [
-      "2024-06-01, 10:03:15",
-      "https://news.ycombinator.com/item?id=40544349"
+      "2024-06-01, 15:14:56",
+      "https://news.ycombinator.com/item?id=40546415"
     ],
     [
-      "Routers cyber security best practices",
-      "https://www.cyber.gc.ca/en/guidance/routers-cyber-security-best-practices-itsap80019"
+      "Frances Hesselbein's leadership story (2022)",
+      "https://davidepstein.substack.com/p/year-end-remembrances-part-3-the"
+    ]
+  ],
+  [
+    [
+      "2024-06-01, 11:02:40",
+      "https://news.ycombinator.com/item?id=40544628"
+    ],
+    [
+      "Randomness and the Netscape Browser [1996]",
+      "https://people.eecs.berkeley.edu/~daw/papers/ddj-netscape.html"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Ask HN: How to transcribe 1000s of handwritten notes",
       "https://news.ycombinator.com/item?id=40530719"
+    ]
+  ],
+  [
+    [
+      "2024-05-30, 22:30:22",
+      "https://news.ycombinator.com/item?id=40529470"
+    ],
+    [
+      "I added some optimizations to my compiler that turns Lisp into JavaScript",
+      "https://healeycodes.com/lisp-compiler-optimizations"
     ]
   ],
   [
