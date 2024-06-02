@@ -7,6 +7,7 @@
 * [2024-06-02, 14:51:20](https://news.ycombinator.com/item?id=40554658) - [A secure embedded operating system for microcontrollers](https://tockos.org/)
 * [2024-06-02, 14:21:21](https://news.ycombinator.com/item?id=40554396) - [SPI Flash](https://trmm.net/SPI_flash/)
 * [2024-06-02, 14:21:00](https://news.ycombinator.com/item?id=40554394) - [New head of one of the oldest universities organized a citation cartel](https://english.elpais.com/science-tech/2024-05-31/internal-messages-show-how-the-new-head-of-one-of-the-worlds-oldest-universities-organized-a-citation-cartel.html)
+* [2024-06-02, 14:18:58](https://news.ycombinator.com/item?id=40554376) - [LLMs in the Browser](https://developer.chrome.com/blog/io24-web-ai-wrapup)
 * [2024-06-02, 13:54:05](https://news.ycombinator.com/item?id=40554133) - [Footage of Chang'e-6's land on far side of the moon](https://www.cnsa.gov.cn/n6759533/c10541660/content.html)
 * [2024-06-02, 13:37:29](https://news.ycombinator.com/item?id=40554014) - [Automatic dark mode with OpenBSD and dwm](https://plexwave.org/blog/auto-dark-mode)
 * [2024-06-02, 13:37:18](https://news.ycombinator.com/item?id=40554012) - [There Has Never Been a Better Time to Switch to Linux](https://fosspost.org/there-has-never-been-a-better-time-to-switch-to-linux)
