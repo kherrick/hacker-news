@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-06-02](index.md)
 
+* [2024-06-02, 13:37:18](https://news.ycombinator.com/item?id=40554012) - [There Has Never Been a Better Time to Switch to Linux](https://fosspost.org/there-has-never-been-a-better-time-to-switch-to-linux)
+* [2024-06-02, 13:35:36](https://news.ycombinator.com/item?id=40553986) - [Show HN: I'm a doctor and built a responsive breathing app for anxiety and sleep](https://www.lungy.app/)
 * [2024-06-02, 13:19:47](https://news.ycombinator.com/item?id=40553881) - [Hugging Face detected 'unauthorized access' to its AI model hosting platform](https://techcrunch.com/2024/05/31/hugging-face-says-it-detected-unauthorized-access-to-its-ai-model-hosting-platform/)
 * [2024-06-02, 12:50:04](https://news.ycombinator.com/item?id=40553684) - [Windows: A Software Engineering Odyssey](https://danluu.com/microsoft-culture/)
+* [2024-06-02, 12:07:07](https://news.ycombinator.com/item?id=40553448) - [Copy-and-Patch Compilation: fast compilation algorithm for high-level languages](https://arxiv.org/abs/2011.13127)
 * [2024-06-02, 11:55:46](https://news.ycombinator.com/item?id=40553375) - [The Collapse Is Coming. Will Humanity Adapt?](https://nautil.us/the-collapse-is-coming-will-humanity-adapt-626051/)
 * [2024-06-02, 11:16:02](https://news.ycombinator.com/item?id=40553163) - [The Ticketmaster Data Breach May Be Just the Beginning](https://www.wired.com/story/snowflake-breach-ticketmaster-santander-ticketek-hacked/)
 * [2024-06-02, 10:17:57](https://news.ycombinator.com/item?id=40552919) - [Anthropic Chief of Staff: These next 3 years might be the last few that I work](https://www.palladiummag.com/2024/05/17/my-last-five-years-of-work/)
