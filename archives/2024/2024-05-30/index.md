@@ -46,6 +46,7 @@
 * [2024-05-30, 18:43:11](https://news.ycombinator.com/item?id=40527239) - [How to Train a Million Context LLM](https://www.latent.space/p/gradient)
 * [2024-05-30, 18:41:07](https://news.ycombinator.com/item?id=40527220) - [Distributed Snapshots: Chandy-Lamport Protocol](https://blog.fponzi.me/2024-05-30-distributed-snapshots.html)
 * [2024-05-30, 18:33:49](https://news.ycombinator.com/item?id=40527165) - [Anthropic Designed Itself to Avoid OpenAI's Mistakes](https://time.com/6983420/anthropic-structure-openai-incentives/)
+* [2024-05-30, 18:21:53](https://news.ycombinator.com/item?id=40527014) - [Java Language Update – a look at where the language is going by Brian Goetz](https://www.youtube.com/watch?v=bKwzONOGLxs)
 * [2024-05-30, 18:12:52](https://news.ycombinator.com/item?id=40526897) - [GitHub Copilot Re-Enables Itself After Being Disabled](https://github.com/microsoft/vscode-copilot-release/issues/1248)
 * [2024-05-30, 17:57:56](https://news.ycombinator.com/item?id=40526695) - [AI Is a False God](https://thewalrus.ca/ai-hype/)
 * [2024-05-30, 17:41:52](https://news.ycombinator.com/item?id=40526500) - [Why Nvidia stock isn't in a bubble](https://finance.yahoo.com/news/why-nvidia-stock-isnt-in-a-massive-bubble-123032943.html)

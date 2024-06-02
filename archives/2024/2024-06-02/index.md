@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-02](index.md)
 
+* [2024-06-02, 09:06:40](https://news.ycombinator.com/item?id=40552632) - [PEP 730 – Adding iOS as a supported platform](https://peps.python.org/pep-0730/)
+* [2024-06-02, 08:47:37](https://news.ycombinator.com/item?id=40552549) - [Show HN: Fusio 5.0 released – open-source API management platform](https://www.fusio-project.org/)
 * [2024-06-02, 08:47:36](https://news.ycombinator.com/item?id=40552548) - [FineWeb: Decanting the web for the finest text data at scale](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1)
 * [2024-06-02, 07:58:45](https://news.ycombinator.com/item?id=40552291) - [Pre-Work for Setting OKRs](https://eleganthack.com/pre-work-for-setting-okrs/)
 * [2024-06-02, 05:57:48](https://news.ycombinator.com/item?id=40551725) - [Parable of the Sofa](https://www.tbray.org/ongoing/When/202x/2024/06/01/Parable-of-the-Sofa)
