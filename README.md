@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-02, 01:21:10](https://news.ycombinator.com/item?id=40550615) - [The NSA advises you to turn your phone off and back on once a week](https://www.zdnet.com/article/the-nsa-advises-you-to-turn-your-phone-off-and-back-on-once-a-week-heres-why/)
-* [2024-06-02, 01:17:56](https://news.ycombinator.com/item?id=40550590) - [Seoul authorities find Shein products contain high levels of toxic chemicals](https://www.lemonde.fr/en/economy/article/2024/05/28/seoul-government-finds-shein-products-contain-high-levels-of-toxic-chemicals_6672910_19.html)
 * [2024-06-02, 01:09:23](https://news.ycombinator.com/item?id=40550556) - [84–24](https://84-24.org/)
-* [2024-06-02, 00:04:21](https://news.ycombinator.com/item?id=40550218) - [CSS Written in Pure Go](https://github.com/AccentDesign/gcss)
+* [2024-06-02, 00:04:21](https://news.ycombinator.com/item?id=40550218) - [CSS written in pure Go](https://github.com/AccentDesign/gcss)
 * [2024-06-01, 23:35:46](https://news.ycombinator.com/item?id=40550059) - [Show HN: Open-Source Load Balancer for Llama.cpp](https://github.com/distantmagic/paddler)
 * [2024-06-01, 21:32:12](https://news.ycombinator.com/item?id=40549250) - [Lisp: Icing or Cake?](https://dthompson.us/posts/lisp-icing-or-cake.html)
 * [2024-06-01, 19:26:01](https://news.ycombinator.com/item?id=40548399) - [The quest to craft the perfect artificial eye through the ages](https://www.popsci.com/health/artificial-eye-history/)
@@ -19,6 +18,7 @@
 * [2024-05-31, 20:23:03](https://news.ycombinator.com/item?id=40539800) - [Show HN: I built an interactive cloth solver for Apple Vision Pro](https://www.youtube.com/watch?v=kpD2J85WjzM)
 * [2024-05-31, 19:04:13](https://news.ycombinator.com/item?id=40539041) - [Linear Clock (2021)](https://engineer.john-whittington.co.uk/electronics/fabrication/mechanical/clock/2021/06/16/linear-clock.html)
 * [2024-05-31, 18:15:17](https://news.ycombinator.com/item?id=40538540) - [What I think about Lua after shipping a project with 60k lines of code](https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733?gi=8385ed7c6379)
+* [2024-05-31, 16:55:53](https://news.ycombinator.com/item?id=40537464) - [The Forgotten History of Chinese Keyboards](https://spectrum.ieee.org/chinese-keyboard)
 * [2024-05-31, 16:01:50](https://news.ycombinator.com/item?id=40536793) - [Multi-Array Queue](https://github.com/MultiArrayQueue/MultiArrayQueue)
 * [2024-05-31, 14:43:42](https://news.ycombinator.com/item?id=40535868) - [This Message Does Not Exist](https://www.kmjn.org/notes/message_existence.html)
 * [2024-05-31, 13:14:32](https://news.ycombinator.com/item?id=40534740) - [In Colorado, an ambitious new highway policy is not building them](https://www.nytimes.com/2024/05/31/headway/highways-colorado-transportation.html)
@@ -27,9 +27,9 @@
 * [2024-05-31, 05:29:39](https://news.ycombinator.com/item?id=40531803) - [The messy quest to replace drugs with electricity](https://www.technologyreview.com/2024/05/30/1092937/the-messy-quest-to-replace-drugs-with-electricity/)
 * [2024-05-31, 01:57:25](https://news.ycombinator.com/item?id=40530719) - [Ask HN: How to transcribe 1000s of handwritten notes](https://news.ycombinator.com/item?id=40530719)
 * [2024-05-30, 22:30:22](https://news.ycombinator.com/item?id=40529470) - [I added some optimizations to my compiler that turns Lisp into JavaScript](https://healeycodes.com/lisp-compiler-optimizations)
+* [2024-05-30, 21:49:59](https://news.ycombinator.com/item?id=40529098) - [Building a Reactor](https://www.usnc.com/core-build/)
 * [2024-05-30, 12:10:06](https://news.ycombinator.com/item?id=40522744) - [Making a tic-tac-toe game with ‘randomness’ using pure HTML and CSS](https://blog.scottlogic.com/2024/05/17/noJS-2-stochastic-boogaloo.html)
 * [2024-05-30, 07:38:19](https://news.ycombinator.com/item?id=40521142) - [Can you look at experimental results along the way or not?](https://www.johndcook.com/blog/2024/05/28/alpha-spending/)
-* [2024-05-30, 04:07:11](https://news.ycombinator.com/item?id=40519976) - [Zig's new CLI progress bar explained](https://andrewkelley.me/post/zig-new-cli-progress-bar-explained.html)
 
 ## [Archives](archives/index.md)
 
