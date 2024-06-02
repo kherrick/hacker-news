@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-06-02, 18:41:52",
-      "https://news.ycombinator.com/item?id=40556342"
-    ],
-    [
-      "The Disappointment Frontier",
-      "https://www.theengineeringmanager.com/growth/the-disappointment-frontier/"
-    ]
-  ],
-  [
-    [
       "2024-06-02, 17:44:06",
       "https://news.ycombinator.com/item?id=40555913"
     ],
@@ -27,6 +17,16 @@
     [
       "Workmanship standard for crimping, interconnecting cables, harnesses, and wiring",
       "https://standards.nasa.gov/standard/NASA/NASA-STD-87394"
+    ]
+  ],
+  [
+    [
+      "2024-06-02, 16:43:01",
+      "https://news.ycombinator.com/item?id=40555435"
+    ],
+    [
+      "Ask HN: What was your most humbling learning moment?",
+      "https://news.ycombinator.com/item?id=40555435"
     ]
   ],
   [
@@ -77,6 +77,16 @@
     [
       "Lord Kelvin and his analog computer",
       "https://spectrum.ieee.org/tide-predictions"
+    ]
+  ],
+  [
+    [
+      "2024-06-02, 12:25:57",
+      "https://news.ycombinator.com/item?id=40553551"
+    ],
+    [
+      "Monads are like burritos (2009)",
+      "https://blog.plover.com/prog/burritos.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Mesh Spreadsheet: A data and code editor that feels like a spreadsheet",
       "https://github.com/chrispsn/mesh-spreadsheet"
-    ]
-  ],
-  [
-    [
-      "2024-05-30, 05:04:30",
-      "https://news.ycombinator.com/item?id=40520254"
-    ],
-    [
-      "Arenas and the almighty concatenation operator",
-      "https://nullprogram.com/blog/2024/05/25/"
     ]
   ]
 ]
