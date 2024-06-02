@@ -18,7 +18,7 @@
 * [2024-06-01, 23:35:46](https://news.ycombinator.com/item?id=40550059) - [Show HN: Open-source load balancer for llama.cpp](https://github.com/distantmagic/paddler)
 * [2024-06-01, 21:32:12](https://news.ycombinator.com/item?id=40549250) - [Lisp: Icing or Cake?](https://dthompson.us/posts/lisp-icing-or-cake.html)
 * [2024-06-01, 21:26:29](https://news.ycombinator.com/item?id=40549209) - [Scientific glassblower continues century-old campus tradition (2021)](https://chemistry.berkeley.edu/news/scientific-glassblower-continues-century-old-campus-tradition)
-* [2024-06-01, 11:02:40](https://news.ycombinator.com/item?id=40544628) - [Randomness and the Netscape Browser [1996]](https://people.eecs.berkeley.edu/~daw/papers/ddj-netscape.html)
+* [2024-06-01, 11:02:40](https://news.ycombinator.com/item?id=40544628) - [Randomness and the Netscape Browser (1996)](https://people.eecs.berkeley.edu/~daw/papers/ddj-netscape.html)
 * [2024-06-01, 08:16:35](https://news.ycombinator.com/item?id=40543852) - [Reading Google Sheets from a Go Program](https://eli.thegreenplace.net/2024/reading-google-sheets-from-a-go-program/)
 * [2024-05-31, 18:15:17](https://news.ycombinator.com/item?id=40538540) - [What I think about Lua after shipping a project with 60k lines of code](https://blog.luden.io/what-do-i-think-about-lua-after-shipping-a-project-with-60-000-lines-of-code-bf72a1328733?gi=8385ed7c6379)
 * [2024-05-31, 16:55:53](https://news.ycombinator.com/item?id=40537464) - [The Forgotten History of Chinese Keyboards](https://spectrum.ieee.org/chinese-keyboard)
