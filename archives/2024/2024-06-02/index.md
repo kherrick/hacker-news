@@ -26,6 +26,7 @@
 * [2024-06-02, 11:16:02](https://news.ycombinator.com/item?id=40553163) - [The Ticketmaster Data Breach May Be Just the Beginning](https://www.wired.com/story/snowflake-breach-ticketmaster-santander-ticketek-hacked/)
 * [2024-06-02, 10:17:57](https://news.ycombinator.com/item?id=40552919) - [Anthropic Chief of Staff: These next 3 years might be the last few that I work](https://www.palladiummag.com/2024/05/17/my-last-five-years-of-work/)
 * [2024-06-02, 10:16:34](https://news.ycombinator.com/item?id=40552912) - [Paged Out #4 is out](https://pagedout.institute/?page=blog.php#entry-2024-06-01)
+* [2024-06-02, 10:07:17](https://news.ycombinator.com/item?id=40552885) - [Positionhigh/MicroDexed-touch: a DX7 in a box, with a sequencer and tracker](https://codeberg.org/positionhigh/MicroDexed-touch)
 * [2024-06-02, 09:06:40](https://news.ycombinator.com/item?id=40552632) - [PEP 730 – Adding iOS as a supported platform](https://peps.python.org/pep-0730/)
 * [2024-06-02, 09:03:54](https://news.ycombinator.com/item?id=40552621) - [PyCon US 2024 Recap](https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html)
 * [2024-06-02, 08:47:37](https://news.ycombinator.com/item?id=40552549) - [Show HN: Fusio 5.0 released – open-source API management platform](https://www.fusio-project.org/)
