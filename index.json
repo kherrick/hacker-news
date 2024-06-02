@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-06-02, 22:55:29",
+      "https://news.ycombinator.com/item?id=40557770"
+    ],
+    [
+      "Lowering resource usage with foot and systemd",
+      "https://rgoswami.me/posts/lowering-resource-usage-foot-systemd/"
+    ]
+  ],
+  [
+    [
+      "2024-06-02, 21:53:46",
+      "https://news.ycombinator.com/item?id=40557451"
+    ],
+    [
+      "Protecting sensitive data in Elixir GenServers",
+      "https://gabrielpereira.dev/en/posts/protecting-sensitive-data-in-elixir-gen-servers/"
+    ]
+  ],
+  [
+    [
+      "2024-06-02, 21:46:40",
+      "https://news.ycombinator.com/item?id=40557409"
+    ],
+    [
+      "Psychological tricks rich people use to look generous without spending more",
+      "https://billmei.net/blog/shopping"
+    ]
+  ],
+  [
+    [
       "2024-06-02, 21:23:07",
       "https://news.ycombinator.com/item?id=40557289"
     ],
@@ -37,6 +67,16 @@
     [
       "Atomic polling intervals for highly concurrent workloads",
       "https://www.byronwasti.com/polling-atomics/"
+    ]
+  ],
+  [
+    [
+      "2024-06-02, 19:37:01",
+      "https://news.ycombinator.com/item?id=40556687"
+    ],
+    [
+      "cuDF – GPU DataFrame Library",
+      "https://github.com/rapidsai/cudf"
     ]
   ],
   [
@@ -131,16 +171,6 @@
   ],
   [
     [
-      "2024-06-02, 12:21:00",
-      "https://news.ycombinator.com/item?id=40553526"
-    ],
-    [
-      "Simple equation predicts the shapes of carbon-capturing wetlands",
-      "https://www.quantamagazine.org/simple-equation-predicts-the-shapes-of-carbon-capturing-wetlands-20240528/"
-    ]
-  ],
-  [
-    [
       "2024-06-02, 12:07:07",
       "https://news.ycombinator.com/item?id=40553448"
     ],
@@ -177,16 +207,6 @@
     [
       "Scientific glassblower continues century-old campus tradition (2021)",
       "https://chemistry.berkeley.edu/news/scientific-glassblower-continues-century-old-campus-tradition"
-    ]
-  ],
-  [
-    [
-      "2024-06-01, 19:24:04",
-      "https://news.ycombinator.com/item?id=40548381"
-    ],
-    [
-      "“You Are My Friend”: Early Androids and Artificial Speech",
-      "https://publicdomainreview.org/essay/early-androids-and-artificial-speech/?ref=thebrowser.com"
     ]
   ],
   [
@@ -231,16 +251,6 @@
   ],
   [
     [
-      "2024-06-01, 07:54:38",
-      "https://news.ycombinator.com/item?id=40543752"
-    ],
-    [
-      "FD 100 (2019)",
-      "https://susam.net/fd-100.html"
-    ]
-  ],
-  [
-    [
       "2024-06-01, 07:02:33",
       "https://news.ycombinator.com/item?id=40543535"
     ],
@@ -277,16 +287,6 @@
     [
       "The largest stegosaurus fossil ever found heads to auction",
       "https://www.nytimes.com/2024/05/29/science/stegosaurus-fossil-auction-sothebys.html"
-    ]
-  ],
-  [
-    [
-      "2024-05-30, 18:41:07",
-      "https://news.ycombinator.com/item?id=40527220"
-    ],
-    [
-      "Distributed Snapshots: Chandy-Lamport Protocol",
-      "https://blog.fponzi.me/2024-05-30-distributed-snapshots.html"
     ]
   ],
   [
