@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-02, 03:17:02](https://news.ycombinator.com/item?id=40551070) - [How do our brains adapt to control an extra body part?](https://www.cam.ac.uk/stories/third-thumb)
+* [2024-06-02, 01:21:35](https://news.ycombinator.com/item?id=40550617) - [Some Americans have stopped tipping. Should you do the same?](https://www.dallasnews.com/arts-entertainment/travel/2024/05/22/some-americans-have-stopped-tipping-should-you-do-the-same/)
 * [2024-06-02, 01:09:23](https://news.ycombinator.com/item?id=40550556) - [84–24](https://84-24.org/)
 * [2024-06-02, 00:04:21](https://news.ycombinator.com/item?id=40550218) - [CSS written in pure Go](https://github.com/AccentDesign/gcss)
 * [2024-06-01, 23:35:46](https://news.ycombinator.com/item?id=40550059) - [Show HN: Open-Source Load Balancer for Llama.cpp](https://github.com/distantmagic/paddler)
@@ -24,7 +25,6 @@
 * [2024-05-31, 13:14:32](https://news.ycombinator.com/item?id=40534740) - [In Colorado, an ambitious new highway policy is not building them](https://www.nytimes.com/2024/05/31/headway/highways-colorado-transportation.html)
 * [2024-05-31, 12:33:10](https://news.ycombinator.com/item?id=40534293) - [What we've learned from a year of building with LLMs](https://eugeneyan.com/writing/llm-lessons/)
 * [2024-05-31, 09:57:19](https://news.ycombinator.com/item?id=40533139) - [Repairing my mug with Kintsugi](https://fellerts.no/projects/kintsugi.php)
-* [2024-05-31, 05:29:39](https://news.ycombinator.com/item?id=40531803) - [The messy quest to replace drugs with electricity](https://www.technologyreview.com/2024/05/30/1092937/the-messy-quest-to-replace-drugs-with-electricity/)
 * [2024-05-31, 01:57:25](https://news.ycombinator.com/item?id=40530719) - [Ask HN: How to transcribe 1000s of handwritten notes](https://news.ycombinator.com/item?id=40530719)
 * [2024-05-30, 22:30:22](https://news.ycombinator.com/item?id=40529470) - [I added some optimizations to my compiler that turns Lisp into JavaScript](https://healeycodes.com/lisp-compiler-optimizations)
 * [2024-05-30, 21:49:59](https://news.ycombinator.com/item?id=40529098) - [Building a Reactor](https://www.usnc.com/core-build/)
