@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-02](index.md)
 
+* [2024-06-02, 14:21:00](https://news.ycombinator.com/item?id=40554394) - [New head of one of the oldest universities organized a citation cartel](https://english.elpais.com/science-tech/2024-05-31/internal-messages-show-how-the-new-head-of-one-of-the-worlds-oldest-universities-organized-a-citation-cartel.html)
 * [2024-06-02, 13:54:05](https://news.ycombinator.com/item?id=40554133) - [Footage of Chang'e-6's land on far side of the moon](https://www.cnsa.gov.cn/n6759533/c10541660/content.html)
+* [2024-06-02, 13:37:29](https://news.ycombinator.com/item?id=40554014) - [Automatic dark mode with OpenBSD and dwm](https://plexwave.org/blog/auto-dark-mode)
 * [2024-06-02, 13:37:18](https://news.ycombinator.com/item?id=40554012) - [There Has Never Been a Better Time to Switch to Linux](https://fosspost.org/there-has-never-been-a-better-time-to-switch-to-linux)
 * [2024-06-02, 13:35:36](https://news.ycombinator.com/item?id=40553986) - [Show HN: I'm a doctor and built a responsive breathing app for anxiety and sleep](https://www.lungy.app/)
 * [2024-06-02, 13:19:47](https://news.ycombinator.com/item?id=40553881) - [Hugging Face detected 'unauthorized access' to its AI model hosting platform](https://techcrunch.com/2024/05/31/hugging-face-says-it-detected-unauthorized-access-to-its-ai-model-hosting-platform/)
@@ -13,6 +15,8 @@
 * [2024-06-02, 12:26:43](https://news.ycombinator.com/item?id=40553557) - [Advertising Broke the World](https://www.wired.com/story/death-of-truth-misinformation-advertising/)
 * [2024-06-02, 12:07:07](https://news.ycombinator.com/item?id=40553448) - [Copy-and-Patch Compilation: fast compilation algorithm for high-level languages](https://arxiv.org/abs/2011.13127)
 * [2024-06-02, 11:55:46](https://news.ycombinator.com/item?id=40553375) - [The Collapse Is Coming. Will Humanity Adapt?](https://nautil.us/the-collapse-is-coming-will-humanity-adapt-626051/)
+* [2024-06-02, 11:41:54](https://news.ycombinator.com/item?id=40553281) - [Want to Unlock Performance and Clarity? Use Strong Types](https://ekxide.io/blog/want-to-unlock-performance-and-clarity-use-strong-types/)
+* [2024-06-02, 11:16:29](https://news.ycombinator.com/item?id=40553164) - [Counting words in Python, Go, C++, C, Awk, Forth, and Rust (2021)](https://benhoyt.com/writings/count-words/)
 * [2024-06-02, 11:16:02](https://news.ycombinator.com/item?id=40553163) - [The Ticketmaster Data Breach May Be Just the Beginning](https://www.wired.com/story/snowflake-breach-ticketmaster-santander-ticketek-hacked/)
 * [2024-06-02, 10:17:57](https://news.ycombinator.com/item?id=40552919) - [Anthropic Chief of Staff: These next 3 years might be the last few that I work](https://www.palladiummag.com/2024/05/17/my-last-five-years-of-work/)
 * [2024-06-02, 09:06:40](https://news.ycombinator.com/item?id=40552632) - [PEP 730 – Adding iOS as a supported platform](https://peps.python.org/pep-0730/)
