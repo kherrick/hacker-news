@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-06-02](index.md)
 
+* [2024-06-02, 18:41:52](https://news.ycombinator.com/item?id=40556342) - [The Disappointment Frontier](https://www.theengineeringmanager.com/growth/the-disappointment-frontier/)
+* [2024-06-02, 18:41:21](https://news.ycombinator.com/item?id=40556335) - [Evolving the back end storage for platform metrics](https://blog.heroku.com/evolving-backend-storage-for-platform-metrics)
+* [2024-06-02, 18:26:32](https://news.ycombinator.com/item?id=40556215) - [The Shadow of Tiananmen Falls on Hong Kong](https://www.newyorker.com/news/daily-comment/the-shadow-of-tiananmen-falls-on-hong-kong)
 * [2024-06-02, 17:44:06](https://news.ycombinator.com/item?id=40555913) - [Upgrading my Chumby 8 kernel part 10: RTC](https://www.downtowndougbrown.com/2024/06/upgrading-my-chumby-8-kernel-part-10-rtc/)
 * [2024-06-02, 16:53:04](https://news.ycombinator.com/item?id=40555506) - [Workmanship Standard for Crimping, Interconnecting Cables, Harnesses, and Wiring](https://standards.nasa.gov/standard/NASA/NASA-STD-87394)
+* [2024-06-02, 16:43:01](https://news.ycombinator.com/item?id=40555435) - [Ask HN: What was your most humbling learning moment?](https://news.ycombinator.com/item?id=40555435)
 * [2024-06-02, 16:42:03](https://news.ycombinator.com/item?id=40555431) - [Parsing JSON Is a Minefield](https://seriot.ch/projects/parsing_json.html)
+* [2024-06-02, 15:57:41](https://news.ycombinator.com/item?id=40555131) - [Here comes the Muybridge camera moment but for text. Photoshop too](https://interconnected.org/home/2024/05/31/camera)
 * [2024-06-02, 15:55:56](https://news.ycombinator.com/item?id=40555116) - [Hotwire: HTML Over The Wire](https://hotwired.dev/)
 * [2024-06-02, 14:51:20](https://news.ycombinator.com/item?id=40554658) - [A secure embedded operating system for microcontrollers](https://tockos.org/)
 * [2024-06-02, 14:21:21](https://news.ycombinator.com/item?id=40554396) - [SPI Flash](https://trmm.net/SPI_flash/)

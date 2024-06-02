@@ -16,6 +16,7 @@
 * [2024-06-01, 19:42:03](https://news.ycombinator.com/item?id=40548500) - [Web browser architecture and the history of window systems](https://blog.dshr.org/2021/03/history-of-window-systems.html)
 * [2024-06-01, 19:41:21](https://news.ycombinator.com/item?id=40548498) - [Little Lisp Interpreter (2014)](https://maryrosecook.com/blog/post/little-lisp-interpreter)
 * [2024-06-01, 19:26:01](https://news.ycombinator.com/item?id=40548399) - [The quest to craft the perfect artificial eye through the ages](https://www.popsci.com/health/artificial-eye-history/)
+* [2024-06-01, 19:23:32](https://news.ycombinator.com/item?id=40548376) - [Why Did She Stop Writing?](https://www.texasmonthly.com/arts-entertainment/why-did-colleen-hoover-stop-writing/)
 * [2024-06-01, 19:21:32](https://news.ycombinator.com/item?id=40548362) - [Lulu Hunt Peters pioneered counting calories a century ago](https://www.smithsonianmag.com/science-nature/doctor-pioneered-counting-calories-century-ago-were-still-dealing-with-consequences-180984282/)
 * [2024-06-01, 18:23:27](https://news.ycombinator.com/item?id=40547933) - [X Is Justifiably Slow](https://zeux.io/2024/05/31/justifiably-slow/)
 * [2024-06-01, 18:10:58](https://news.ycombinator.com/item?id=40547855) - [Tell HN: Google's new summarize SMS just read another person's messages to me](https://news.ycombinator.com/item?id=40547855)
