@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-02](index.md)
 
+* [2024-06-02, 15:55:56](https://news.ycombinator.com/item?id=40555116) - [Hotwire: HTML Over The Wire](https://hotwired.dev/)
 * [2024-06-02, 14:51:20](https://news.ycombinator.com/item?id=40554658) - [A secure embedded operating system for microcontrollers](https://tockos.org/)
 * [2024-06-02, 14:21:21](https://news.ycombinator.com/item?id=40554396) - [SPI Flash](https://trmm.net/SPI_flash/)
 * [2024-06-02, 14:21:00](https://news.ycombinator.com/item?id=40554394) - [New head of one of the oldest universities organized a citation cartel](https://english.elpais.com/science-tech/2024-05-31/internal-messages-show-how-the-new-head-of-one-of-the-worlds-oldest-universities-organized-a-citation-cartel.html)
