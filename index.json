@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-06-03, 12:30:30",
+      "https://news.ycombinator.com/item?id=40562029"
+    ],
+    [
+      "Generate an OpenSCAD case template from a KiCAD PCB",
+      "https://sr.ht/~martijnbraam/turbocase/"
+    ]
+  ],
+  [
+    [
       "2024-06-03, 12:12:33",
       "https://news.ycombinator.com/item?id=40561906"
     ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2024-06-02, 12:53:25",
-      "https://news.ycombinator.com/item?id=40553709"
-    ],
-    [
-      "Circle C++ with memory safety",
-      "https://www.circle-lang.org/site/intro/"
-    ]
-  ],
-  [
-    [
       "2024-06-02, 12:07:07",
       "https://news.ycombinator.com/item?id=40553448"
     ],
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2024-06-02, 10:00:31",
-      "https://news.ycombinator.com/item?id=40552858"
+      "2024-06-02, 08:55:52",
+      "https://news.ycombinator.com/item?id=40552581"
     ],
     [
-      "Don't Use include-what-you-use",
-      "https://danra.prose.sh/dont_use_iwyu"
+      "A Deep Dive into (Implicit) Thread Local Storage",
+      "https://chao-tic.github.io/blog/2018/12/25/tls"
     ]
   ],
   [
