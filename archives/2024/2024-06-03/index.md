@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-06-03](index.md)
 
+* [2024-06-03, 12:48:04](https://news.ycombinator.com/item?id=40562148) - [Dealing with \"New\" Old Data](https://www.mlb.com/news/baseball-record-books-changing-negro-leagues)
+* [2024-06-03, 12:35:14](https://news.ycombinator.com/item?id=40562069) - [Earning $30 too much a month keeps a cancer patient in Georgia from cheaper care](https://text.npr.org/nx-s1-4964730)
 * [2024-06-03, 12:12:33](https://news.ycombinator.com/item?id=40561906) - [Auto-brewery syndrome in a 50-year-old woman](https://www.cmaj.ca/content/196/21/E724#msdynttrid)
 * [2024-06-03, 12:07:57](https://news.ycombinator.com/item?id=40561872) - [How many photons are received per bit transmitted from Voyager 1?](https://physics.stackexchange.com/questions/816698/how-many-photons-are-received-per-bit-transmitted-from-voyager-1)
+* [2024-06-03, 11:21:55](https://news.ycombinator.com/item?id=40561568) - [AMD reveals the MI325X, a 288GB AI accelerator built to battle Nvidia's H200](https://www.theregister.com/2024/06/03/amd_reveals_refreshed_mi325x_with/)
 * [2024-06-03, 10:42:49](https://news.ycombinator.com/item?id=40561308) - [A Quartz Thermal Trap Harnessed the Sun–and Is About to Change Smelting Forever](https://www.popularmechanics.com/science/green-tech/a60829402/a-quartz-thermal-trap-harnessed-the-sunand-is-about-to-change-smelting-forever/)
 * [2024-06-03, 10:42:03](https://news.ycombinator.com/item?id=40561302) - [Flicker-Free Elite on the BBC Micro (Like the BBC Master)](https://stardot.org.uk/forums/viewtopic.php?t=22170)
 * [2024-06-03, 09:59:07](https://news.ycombinator.com/item?id=40561031) - [Corporations Learned the Maximum Amount They Can Charge for a Product](https://www.bloomberg.com/news/articles/2024-06-03/corporations-learned-the-maximum-amount-they-can-charge-for-a-product)
