@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-06-03](index.md)
 
+* [2024-06-03, 09:47:15](https://news.ycombinator.com/item?id=40560951) - [Cis-lunar space and the security dilemma](https://thebulletin.org/premium/2022-01/cis-lunar-space-and-the-security-dilemma/)
+* [2024-06-03, 09:44:19](https://news.ycombinator.com/item?id=40560929) - [Build a side project using your data](https://www.fact.ist/building-a-first-side-project/)
 * [2024-06-03, 09:22:53](https://news.ycombinator.com/item?id=40560768) - [I'm forking Ladybird and stepping down as SerenityOS BDFL](https://awesomekling.substack.com/p/forking-ladybird-and-stepping-down-serenityos)
+* [2024-06-03, 09:14:35](https://news.ycombinator.com/item?id=40560710) - [Broadcom's VMware strategy looks ever more shaky – and less relevant](https://www.theregister.com/2024/06/03/broadcoms_vmware_strategy_looks_ever/)
+* [2024-06-03, 09:10:48](https://news.ycombinator.com/item?id=40560688) - [OpenAI Integrated Webapp| Claims to Generate Website in 10 Seconds](https://www.netjet.io/en/how-to-build-a-website-in-10-seconds)
 * [2024-06-03, 08:13:47](https://news.ycombinator.com/item?id=40560391) - [EU: Users who refuse scanning to be prevented from sharing photos and links](https://www.patrick-breyer.de/en/majority-for-chat-control-possible-users-who-refuse-scanning-to-be-prevented-from-sharing-photos-and-links/)
 * [2024-06-03, 07:53:46](https://news.ycombinator.com/item?id=40560300) - [Making USB devices – end to end guide to your first gadget](https://popovicu.com/posts/making-usb-devices/)
 * [2024-06-03, 04:46:13](https://news.ycombinator.com/item?id=40559416) - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4360841006)
