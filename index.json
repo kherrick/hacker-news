@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-03, 12:48:04",
+      "https://news.ycombinator.com/item?id=40562148"
+    ],
+    [
+      "Dealing with \"New\" Old Data",
+      "https://www.mlb.com/news/baseball-record-books-changing-negro-leagues"
+    ]
+  ],
+  [
+    [
+      "2024-06-03, 12:35:14",
+      "https://news.ycombinator.com/item?id=40562069"
+    ],
+    [
+      "Earning $30 too much a month keeps a cancer patient in Georgia from cheaper care",
+      "https://text.npr.org/nx-s1-4964730"
+    ]
+  ],
+  [
+    [
       "2024-06-03, 12:12:33",
       "https://news.ycombinator.com/item?id=40561906"
     ],
@@ -21,6 +41,16 @@
   ],
   [
     [
+      "2024-06-03, 11:21:55",
+      "https://news.ycombinator.com/item?id=40561568"
+    ],
+    [
+      "AMD reveals the MI325X, a 288GB AI accelerator built to battle Nvidia's H200",
+      "https://www.theregister.com/2024/06/03/amd_reveals_refreshed_mi325x_with/"
+    ]
+  ],
+  [
+    [
       "2024-06-03, 10:42:49",
       "https://news.ycombinator.com/item?id=40561308"
     ],
@@ -37,16 +67,6 @@
     [
       "Why Ruby's Timeout is dangerous (and Thread.raise is terrifying) (2015)",
       "https://jvns.ca/blog/2015/11/27/why-rubys-timeout-is-dangerous-and-thread-dot-raise-is-terrifying/"
-    ]
-  ],
-  [
-    [
-      "2024-06-03, 09:22:53",
-      "https://news.ycombinator.com/item?id=40560768"
-    ],
-    [
-      "I'm forking Ladybird and stepping down as SerenityOS BDFL",
-      "https://awesomekling.substack.com/p/forking-ladybird-and-stepping-down-serenityos"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "Learn CSS Grid with a virtual garden game",
       "https://cssgridgarden.com/"
-    ]
-  ],
-  [
-    [
-      "2024-06-03, 03:04:53",
-      "https://news.ycombinator.com/item?id=40558982"
-    ],
-    [
-      "AMD Instinct MI325X in Q4 2024, 288GB of HBM3E",
-      "https://ir.amd.com/news-events/press-releases/detail/1201/amd-accelerates-pace-of-data-center-ai-innovation-and"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "The Sword of Kumdor",
       "https://lynn.github.io/kumdor/"
-    ]
-  ],
-  [
-    [
-      "2024-06-01, 11:43:07",
-      "https://news.ycombinator.com/item?id=40544896"
-    ],
-    [
-      "Why is Snapshot Isolation not enough?",
-      "http://concurrencyfreaks.blogspot.com/2023/12/why-is-snapshot-isolation-not-enough.html"
     ]
   ],
   [
