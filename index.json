@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-03, 21:54:09",
+      "https://news.ycombinator.com/item?id=40568026"
+    ],
+    [
+      "Scientists should use AI as a tool, not an oracle",
+      "https://www.aisnakeoil.com/p/scientists-should-use-ai-as-a-tool"
+    ]
+  ],
+  [
+    [
       "2024-06-03, 21:44:59",
       "https://news.ycombinator.com/item?id=40567924"
     ],
@@ -17,16 +27,6 @@
     [
       "Whiteboard interviews are a test of obedience, not intelligence",
       "https://ashgw.me/blog/white-board-interviews"
-    ]
-  ],
-  [
-    [
-      "2024-06-03, 21:07:50",
-      "https://news.ycombinator.com/item?id=40567580"
-    ],
-    [
-      "Special-Use Domain 'Home.arpa.' (2018)",
-      "https://datatracker.ietf.org/doc/html/rfc8375"
     ]
   ],
   [
@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2024-06-03, 17:59:56",
-      "https://news.ycombinator.com/item?id=40565357"
-    ],
-    [
-      "Libadwaita: Splitting GTK and Design Language",
-      "https://tesk.page/2024/06/03/libadwaita-splitting-gtk-and-design-language/"
-    ]
-  ],
-  [
-    [
       "2024-06-03, 17:34:42",
       "https://news.ycombinator.com/item?id=40565060"
     ],
@@ -157,6 +147,16 @@
     [
       "Mamba-2 – State Space Duality",
       "https://tridao.me/blog/2024/mamba2-part1-model/"
+    ]
+  ],
+  [
+    [
+      "2024-06-03, 16:00:04",
+      "https://news.ycombinator.com/item?id=40563984"
+    ],
+    [
+      "Show HN: Brioche – A new Nix-like package manager",
+      "https://brioche.dev/blog/announcing-brioche/"
     ]
   ],
   [
