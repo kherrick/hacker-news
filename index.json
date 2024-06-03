@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=40566142"
     ],
     [
-      "Political Economy of the Shire",
+      "The Moral Economy of the Shire",
       "https://nathangoldwag.wordpress.com/2024/05/31/the-moral-economy-of-the-shire/"
     ]
   ],
@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2024-06-03, 16:07:33",
+      "https://news.ycombinator.com/item?id=40564079"
+    ],
+    [
+      "Feynman Computer Science Lecture – Hardware, Software, Heuristics (1985) [video]",
+      "https://www.youtube.com/watch?v=EKWGGDXe5MA"
+    ]
+  ],
+  [
+    [
       "2024-06-03, 16:07:13",
       "https://news.ycombinator.com/item?id=40564067"
     ],
@@ -201,6 +211,16 @@
   ],
   [
     [
+      "2024-06-03, 14:05:41",
+      "https://news.ycombinator.com/item?id=40562741"
+    ],
+    [
+      "What if they gave an Industrial Revolution and nobody came? (2023)",
+      "https://rootsofprogress.org/robert-allen-british-industrial-revolution"
+    ]
+  ],
+  [
+    [
       "2024-06-03, 13:31:47",
       "https://news.ycombinator.com/item?id=40562458"
     ],
@@ -227,16 +247,6 @@
     [
       "How many photons are received per bit transmitted from Voyager 1?",
       "https://physics.stackexchange.com/questions/816698/how-many-photons-are-received-per-bit-transmitted-from-voyager-1"
-    ]
-  ],
-  [
-    [
-      "2024-06-03, 09:42:36",
-      "https://news.ycombinator.com/item?id=40560913"
-    ],
-    [
-      "Ruby's Timeout is dangerous and Thread.raise is terrifying (2015)",
-      "https://jvns.ca/blog/2015/11/27/why-rubys-timeout-is-dangerous-and-thread-dot-raise-is-terrifying/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Algorithms Interviews: Theory vs. Practice",
       "https://danluu.com/algorithms-interviews/"
-    ]
-  ],
-  [
-    [
-      "2024-06-01, 20:14:29",
-      "https://news.ycombinator.com/item?id=40548744"
-    ],
-    [
-      "Hermann Grassmann and the nature of abstractions",
-      "https://github.com/Dicklesworthstone/grassman_article"
     ]
   ]
 ]
