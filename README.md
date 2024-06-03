@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-03, 03:28:29](https://news.ycombinator.com/item?id=40559073) - [Flow-Matic](https://en.wikipedia.org/wiki/FLOW-MATIC)
 * [2024-06-03, 03:14:15](https://news.ycombinator.com/item?id=40559015) - [Learn CSS Grid with a virtual garden game](https://cssgridgarden.com/)
 * [2024-06-03, 03:07:27](https://news.ycombinator.com/item?id=40558995) - [DAK Industries Catalog, Early Fall 1985](https://archive.org/details/1985.fall.dak)
+* [2024-06-03, 03:04:53](https://news.ycombinator.com/item?id=40558982) - [AMD Instinct MI325X in Q4 2024, 288GB of HBM3E](https://ir.amd.com/news-events/press-releases/detail/1201/amd-accelerates-pace-of-data-center-ai-innovation-and)
 * [2024-06-03, 02:07:18](https://news.ycombinator.com/item?id=40558754) - [The Intellectual Obesity Crisis](https://www.gurwinder.blog/p/the-intellectual-obesity-crisis)
 * [2024-06-03, 01:39:51](https://news.ycombinator.com/item?id=40558607) - [Quake in 13kb (2021)](https://js13kgames.com/entries/q1k3)
 * [2024-06-02, 23:48:15](https://news.ycombinator.com/item?id=40558054) - [Building a dynamic lib plugin system for Rust](https://www.arroyo.dev/blog/rust-plugin-systems)
