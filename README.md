@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-03, 10:42:49](https://news.ycombinator.com/item?id=40561308) - [A Quartz Thermal Trap Harnessed the Sun–and Is About to Change Smelting Forever](https://www.popularmechanics.com/science/green-tech/a60829402/a-quartz-thermal-trap-harnessed-the-sunand-is-about-to-change-smelting-forever/)
+* [2024-06-03, 10:42:03](https://news.ycombinator.com/item?id=40561302) - [Flicker-Free Elite on the BBC Micro (Like the BBC Master)](https://stardot.org.uk/forums/viewtopic.php?t=22170)
 * [2024-06-03, 09:59:07](https://news.ycombinator.com/item?id=40561031) - [Corporations Learned the Maximum Amount They Can Charge for a Product](https://www.bloomberg.com/news/articles/2024-06-03/corporations-learned-the-maximum-amount-they-can-charge-for-a-product)
 * [2024-06-03, 09:47:15](https://news.ycombinator.com/item?id=40560951) - [Cis-lunar space and the security dilemma](https://thebulletin.org/premium/2022-01/cis-lunar-space-and-the-security-dilemma/)
 * [2024-06-03, 09:44:19](https://news.ycombinator.com/item?id=40560929) - [Build a side project using your data](https://www.fact.ist/building-a-first-side-project/)
@@ -20,7 +21,6 @@
 * [2024-06-02, 20:26:59](https://news.ycombinator.com/item?id=40556995) - [HN-text: an easy-to-use, text-first Hacker News terminal client](https://github.com/piqoni/hn-text)
 * [2024-06-02, 19:37:01](https://news.ycombinator.com/item?id=40556687) - [cuDF – GPU DataFrame Library](https://github.com/rapidsai/cudf)
 * [2024-06-02, 19:11:49](https://news.ycombinator.com/item?id=40556516) - [Just Live](https://drb.ie/articles/just-live/)
-* [2024-06-02, 17:44:06](https://news.ycombinator.com/item?id=40555913) - [Upgrading my Chumby 8 kernel part 10: RTC](https://www.downtowndougbrown.com/2024/06/upgrading-my-chumby-8-kernel-part-10-rtc/)
 * [2024-06-02, 16:43:01](https://news.ycombinator.com/item?id=40555435) - [Ask HN: What was your most humbling learning moment?](https://news.ycombinator.com/item?id=40555435)
 * [2024-06-02, 14:21:21](https://news.ycombinator.com/item?id=40554396) - [SPI Flash](https://trmm.net/SPI_flash/)
 * [2024-06-02, 10:42:02](https://news.ycombinator.com/item?id=40553027) - [Will we have a negative leap second? [pdf]](https://www.gps.gov/cgsic/meetings/2022/matsakis.pdf)

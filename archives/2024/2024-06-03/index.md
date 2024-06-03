@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-03](index.md)
 
 * [2024-06-03, 10:42:49](https://news.ycombinator.com/item?id=40561308) - [A Quartz Thermal Trap Harnessed the Sun–and Is About to Change Smelting Forever](https://www.popularmechanics.com/science/green-tech/a60829402/a-quartz-thermal-trap-harnessed-the-sunand-is-about-to-change-smelting-forever/)
+* [2024-06-03, 10:42:03](https://news.ycombinator.com/item?id=40561302) - [Flicker-Free Elite on the BBC Micro (Like the BBC Master)](https://stardot.org.uk/forums/viewtopic.php?t=22170)
 * [2024-06-03, 09:59:07](https://news.ycombinator.com/item?id=40561031) - [Corporations Learned the Maximum Amount They Can Charge for a Product](https://www.bloomberg.com/news/articles/2024-06-03/corporations-learned-the-maximum-amount-they-can-charge-for-a-product)
 * [2024-06-03, 09:47:15](https://news.ycombinator.com/item?id=40560951) - [Cis-lunar space and the security dilemma](https://thebulletin.org/premium/2022-01/cis-lunar-space-and-the-security-dilemma/)
 * [2024-06-03, 09:44:19](https://news.ycombinator.com/item?id=40560929) - [Build a side project using your data](https://www.fact.ist/building-a-first-side-project/)
