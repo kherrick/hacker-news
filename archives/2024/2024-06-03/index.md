@@ -8,6 +8,7 @@
 * [2024-06-03, 15:01:52](https://news.ycombinator.com/item?id=40563280) - [Ask HN: Who wants to be hired? (June 2024)](https://news.ycombinator.com/item?id=40563280)
 * [2024-06-03, 14:30:46](https://news.ycombinator.com/item?id=40562988) - [The Decline of the User Interface](https://www.infoworld.com/article/3715333/the-decline-of-the-user-interface.html)
 * [2024-06-03, 14:30:25](https://news.ycombinator.com/item?id=40562984) - [NYSE technical issue, incorrectly showing Berkshire Hathaway down 99%](https://www.cnbc.com/2024/06/03/nyse-technical-issue-impacting-some-stock-prices-incorrectly-showing-berkshire-hathaway-down-99percent.html)
+* [2024-06-03, 14:25:25](https://news.ycombinator.com/item?id=40562932) - [Spotify is increasing US prices again](https://www.theverge.com/2024/6/3/24170301/spotify-us-price-increase-plans)
 * [2024-06-03, 14:22:08](https://news.ycombinator.com/item?id=40562901) - [Covid Subcommittee Releases Dr. Fauci's Transcript, Highlights Key Takeaways](https://oversight.house.gov/release/covid-select-subcommittee-releases-dr-faucis-transcript-highlights-key-takeaways-in-new-memo/)
 * [2024-06-03, 14:21:05](https://news.ycombinator.com/item?id=40562890) - [Linux Mint Disabling Unverified Flatpaks by Default](https://www.phoronix.com/news/Linux-Mint-Unverified-Flatpaks)
 * [2024-06-03, 14:19:37](https://news.ycombinator.com/item?id=40562877) - [NASA+](https://plus.nasa.gov/)
