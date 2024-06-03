@@ -13,6 +13,7 @@
 * [2024-06-01, 20:59:13](https://news.ycombinator.com/item?id=40549021) - [LLMs Aren't \"Trained on the Internet\" Anymore](https://allenpike.com/2024/llms-trained-on-internet)
 * [2024-06-01, 20:14:29](https://news.ycombinator.com/item?id=40548744) - [Hermann Grassmann and the nature of abstractions](https://github.com/Dicklesworthstone/grassman_article)
 * [2024-06-01, 19:53:37](https://news.ycombinator.com/item?id=40548572) - [Shodan – Search Engine for the Internet of Everything](https://www.shodan.io/)
+* [2024-06-01, 19:53:09](https://news.ycombinator.com/item?id=40548571) - [Seeing Like a Data Structure](https://www.belfercenter.org/publication/seeing-data-structure)
 * [2024-06-01, 19:50:33](https://news.ycombinator.com/item?id=40548552) - [Statistics of the Negro Leagues officially enter the Major League record](https://www.mlb.com/press-release/press-release-statistics-of-the-negro-leagues-officially-enter-the-major-league-record)
 * [2024-06-01, 19:42:03](https://news.ycombinator.com/item?id=40548500) - [Web browser architecture and the history of window systems](https://blog.dshr.org/2021/03/history-of-window-systems.html)
 * [2024-06-01, 19:41:21](https://news.ycombinator.com/item?id=40548498) - [Little Lisp Interpreter (2014)](https://maryrosecook.com/blog/post/little-lisp-interpreter)

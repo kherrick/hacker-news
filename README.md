@@ -1,11 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-03, 21:34:17](https://news.ycombinator.com/item?id=40567806) - [Whiteboard interviews are a test of obedience, not intelligence](https://ashgw.me/blog/white-board-interviews)
-* [2024-06-03, 21:07:50](https://news.ycombinator.com/item?id=40567580) - [Special-Use Domain 'Home.arpa.'](https://datatracker.ietf.org/doc/html/rfc8375)
+* [2024-06-03, 21:07:50](https://news.ycombinator.com/item?id=40567580) - [Special-Use Domain 'Home.arpa.' (2018)](https://datatracker.ietf.org/doc/html/rfc8375)
 * [2024-06-03, 21:06:06](https://news.ycombinator.com/item?id=40567562) - [SnapMagic (YC S15), the AI copilot for electronics, is hiring a PM](https://careers.snapmagic.com/o/technical-project-manager)
 * [2024-06-03, 20:27:21](https://news.ycombinator.com/item?id=40567165) - [Grokfast: Accelerated Grokking by Amplifying Slow Gradients](https://arxiv.org/abs/2405.20233)
 * [2024-06-03, 20:07:36](https://news.ycombinator.com/item?id=40566938) - [Crooks threaten to leak 3B personal records 'stolen from background check firm'](https://www.theregister.com/2024/06/03/usdod_data_dump/)
-* [2024-06-03, 19:33:16](https://news.ycombinator.com/item?id=40566605) - [Sam Altman, Lately](http://oftheclock.com/sam-altman-lately)
 * [2024-06-03, 19:26:51](https://news.ycombinator.com/item?id=40566533) - [Oldest largest German Minecraft server shut down and open sourced everything](https://github.com/muxcraftserver/MuxSystem)
 * [2024-06-03, 18:46:12](https://news.ycombinator.com/item?id=40565983) - [Fusion tech finds geothermal energy application](https://spectrum.ieee.org/geothermal-energy-gyrotron-quaise)
 * [2024-06-03, 17:59:56](https://news.ycombinator.com/item?id=40565357) - [Libadwaita: Splitting GTK and Design Language](https://tesk.page/2024/06/03/libadwaita-splitting-gtk-and-design-language/)
@@ -16,7 +15,7 @@
 * [2024-06-03, 16:31:19](https://news.ycombinator.com/item?id=40564332) - [Go east from Seattle](https://finmoorhouse.com/writing/go-east/)
 * [2024-06-03, 16:07:33](https://news.ycombinator.com/item?id=40564079) - [Feynman Computer Science Lecture – Hardware, Software, Heuristics (1985) [video]](https://www.youtube.com/watch?v=EKWGGDXe5MA)
 * [2024-06-03, 16:07:13](https://news.ycombinator.com/item?id=40564067) - [Mamba-2 – State Space Duality](https://tridao.me/blog/2024/mamba2-part1-model/)
-* [2024-06-03, 15:23:19](https://news.ycombinator.com/item?id=40563577) - [Pigeon towers: The rise and fall of a 17th-century status symbol](https://www.atlasobscura.com/articles/dovecotes)
+* [2024-06-03, 15:23:19](https://news.ycombinator.com/item?id=40563577) - [Pigeon towers: The rise and fall of a 17th-century status symbol (2015)](https://www.atlasobscura.com/articles/dovecotes)
 * [2024-06-03, 15:03:06](https://news.ycombinator.com/item?id=40563301) - [Consumer Electronics Control](https://computer.rip/2024-06-02-consumer-electronics-control.html)
 * [2024-06-03, 15:01:54](https://news.ycombinator.com/item?id=40563283) - [Ask HN: Who is hiring? (June 2024)](https://news.ycombinator.com/item?id=40563283)
 * [2024-06-03, 15:01:52](https://news.ycombinator.com/item?id=40563280) - [Ask HN: Who wants to be hired? (June 2024)](https://news.ycombinator.com/item?id=40563280)
@@ -30,6 +29,7 @@
 * [2024-06-02, 11:39:04](https://news.ycombinator.com/item?id=40553267) - [Show HN: Tunnelling TCP through a file](https://github.com/fiddyschmitt/File-Tunnel)
 * [2024-06-02, 07:18:08](https://news.ycombinator.com/item?id=40552090) - [Algorithms Interviews: Theory vs. Practice (2020)](https://danluu.com/algorithms-interviews/)
 * [2024-06-01, 20:14:29](https://news.ycombinator.com/item?id=40548744) - [Hermann Grassmann and the nature of abstractions](https://github.com/Dicklesworthstone/grassman_article)
+* [2024-06-01, 19:53:09](https://news.ycombinator.com/item?id=40548571) - [Seeing Like a Data Structure](https://www.belfercenter.org/publication/seeing-data-structure)
 
 ## [Archives](archives/index.md)
 
