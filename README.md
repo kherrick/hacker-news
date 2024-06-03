@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-03, 22:15:09](https://news.ycombinator.com/item?id=40568233) - [UniSuper Google Cloud Outage Reveals Need for Keen Backup and DR Planning](https://www.n-able.com/blog/unisuper-google-cloud-outage-reveals-need-for-keen-backup-and-dr-planning)
 * [2024-06-03, 21:34:17](https://news.ycombinator.com/item?id=40567806) - [Whiteboard interviews are a test of obedience, not intelligence](https://ashgw.me/blog/white-board-interviews)
 * [2024-06-03, 21:07:50](https://news.ycombinator.com/item?id=40567580) - [Special-Use Domain 'Home.arpa.' (2018)](https://datatracker.ietf.org/doc/html/rfc8375)
 * [2024-06-03, 21:06:06](https://news.ycombinator.com/item?id=40567562) - [SnapMagic (YC S15), the AI copilot for electronics, is hiring a PM](https://careers.snapmagic.com/o/technical-project-manager)
+* [2024-06-03, 21:03:59](https://news.ycombinator.com/item?id=40567532) - [Python's many command-line utilities](https://www.pythonmorsels.com/cli-tools/)
 * [2024-06-03, 20:27:21](https://news.ycombinator.com/item?id=40567165) - [Grokfast: Accelerated Grokking by Amplifying Slow Gradients](https://arxiv.org/abs/2405.20233)
 * [2024-06-03, 20:07:36](https://news.ycombinator.com/item?id=40566938) - [Crooks threaten to leak 3B personal records 'stolen from background check firm'](https://www.theregister.com/2024/06/03/usdod_data_dump/)
 * [2024-06-03, 19:26:51](https://news.ycombinator.com/item?id=40566533) - [Oldest largest German Minecraft server shut down and open sourced everything](https://github.com/muxcraftserver/MuxSystem)
@@ -12,7 +14,6 @@
 * [2024-06-03, 17:33:31](https://news.ycombinator.com/item?id=40565048) - [Shared Memory Versioning to improve slow interactions](https://blog.chromium.org/2024/06/introducing-shared-memory-versioning-to.html)
 * [2024-06-03, 17:00:33](https://news.ycombinator.com/item?id=40564639) - [Why YC went to DC](https://www.ycombinator.com/blog/why-yc-went-to-dc/)
 * [2024-06-03, 16:48:30](https://news.ycombinator.com/item?id=40564520) - [Cirkoban: Sokoban meets cellular automata written in Scheme](https://spritely.institute/news/cirkoban-sokoban-meets-cellular-automata-written-in-scheme.html)
-* [2024-06-03, 16:31:19](https://news.ycombinator.com/item?id=40564332) - [Go east from Seattle](https://finmoorhouse.com/writing/go-east/)
 * [2024-06-03, 16:07:33](https://news.ycombinator.com/item?id=40564079) - [Feynman Computer Science Lecture – Hardware, Software, Heuristics (1985) [video]](https://www.youtube.com/watch?v=EKWGGDXe5MA)
 * [2024-06-03, 16:07:13](https://news.ycombinator.com/item?id=40564067) - [Mamba-2 – State Space Duality](https://tridao.me/blog/2024/mamba2-part1-model/)
 * [2024-06-03, 15:23:19](https://news.ycombinator.com/item?id=40563577) - [Pigeon towers: The rise and fall of a 17th-century status symbol (2015)](https://www.atlasobscura.com/articles/dovecotes)
@@ -27,7 +28,6 @@
 * [2024-06-03, 07:53:46](https://news.ycombinator.com/item?id=40560300) - [Making USB devices – end to end guide to your first gadget](https://popovicu.com/posts/making-usb-devices/)
 * [2024-06-02, 12:28:23](https://news.ycombinator.com/item?id=40553566) - [The impossibility of translating Franz Kafka (1999)](https://www.newyorker.com/magazine/1999/01/11/the-impossibility-of-being-kafka)
 * [2024-06-02, 11:39:04](https://news.ycombinator.com/item?id=40553267) - [Show HN: Tunnelling TCP through a file](https://github.com/fiddyschmitt/File-Tunnel)
-* [2024-06-02, 05:22:42](https://news.ycombinator.com/item?id=40551583) - [A Baseline Scrapscript Compiler](https://bernsteinbear.com/blog/scrapscript-baseline/)
 * [2024-06-01, 20:14:29](https://news.ycombinator.com/item?id=40548744) - [Hermann Grassmann and the nature of abstractions](https://github.com/Dicklesworthstone/grassman_article)
 * [2024-06-01, 19:53:09](https://news.ycombinator.com/item?id=40548571) - [Seeing Like a Data Structure](https://www.belfercenter.org/publication/seeing-data-structure)
 

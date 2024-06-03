@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-06-03](index.md)
 
+* [2024-06-03, 22:15:09](https://news.ycombinator.com/item?id=40568233) - [UniSuper Google Cloud Outage Reveals Need for Keen Backup and DR Planning](https://www.n-able.com/blog/unisuper-google-cloud-outage-reveals-need-for-keen-backup-and-dr-planning)
 * [2024-06-03, 21:34:17](https://news.ycombinator.com/item?id=40567806) - [Whiteboard interviews are a test of obedience, not intelligence](https://ashgw.me/blog/white-board-interviews)
 * [2024-06-03, 21:07:50](https://news.ycombinator.com/item?id=40567580) - [Special-Use Domain 'Home.arpa.'](https://datatracker.ietf.org/doc/html/rfc8375)
 * [2024-06-03, 21:06:06](https://news.ycombinator.com/item?id=40567562) - [SnapMagic (YC S15), the AI copilot for electronics, is hiring a PM](https://careers.snapmagic.com/o/technical-project-manager)
+* [2024-06-03, 21:03:59](https://news.ycombinator.com/item?id=40567532) - [Python's many command-line utilities](https://www.pythonmorsels.com/cli-tools/)
 * [2024-06-03, 20:42:49](https://news.ycombinator.com/item?id=40567312) - [Show HN: Keyword Research Tool Without Fuzz](https://helseo.com/)
 * [2024-06-03, 20:27:21](https://news.ycombinator.com/item?id=40567165) - [Grokfast: Accelerated Grokking by Amplifying Slow Gradients](https://arxiv.org/abs/2405.20233)
 * [2024-06-03, 20:07:36](https://news.ycombinator.com/item?id=40566938) - [Crooks threaten to leak 3B personal records 'stolen from background check firm'](https://www.theregister.com/2024/06/03/usdod_data_dump/)
