@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-03](index.md)
 
+* [2024-06-03, 15:01:54](https://news.ycombinator.com/item?id=40563283) - [Ask HN: Who is hiring? (June 2024)](https://news.ycombinator.com/item?id=40563283)
 * [2024-06-03, 15:01:52](https://news.ycombinator.com/item?id=40563280) - [Ask HN: Who wants to be hired? (June 2024)](https://news.ycombinator.com/item?id=40563280)
 * [2024-06-03, 14:30:46](https://news.ycombinator.com/item?id=40562988) - [The Decline of the User Interface](https://www.infoworld.com/article/3715333/the-decline-of-the-user-interface.html)
 * [2024-06-03, 14:30:25](https://news.ycombinator.com/item?id=40562984) - [NYSE technical issue, incorrectly showing Berkshire Hathaway down 99%](https://www.cnbc.com/2024/06/03/nyse-technical-issue-impacting-some-stock-prices-incorrectly-showing-berkshire-hathaway-down-99percent.html)
