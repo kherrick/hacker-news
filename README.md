@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-03, 13:30:16](https://news.ycombinator.com/item?id=40562444) - [AWS Chalice](https://github.com/aws/chalice)
 * [2024-06-03, 12:56:03](https://news.ycombinator.com/item?id=40562210) - [Show HN: 10 Years to Build a Free SQL Editor](https://www.timestored.com/qstudio/release-version-3)
 * [2024-06-03, 12:30:30](https://news.ycombinator.com/item?id=40562029) - [Generate an OpenSCAD case template from a KiCAD PCB](https://sr.ht/~martijnbraam/turbocase/)
 * [2024-06-03, 12:12:33](https://news.ycombinator.com/item?id=40561906) - [Auto-brewery syndrome in a 50-year-old woman](https://www.cmaj.ca/content/196/21/E724#msdynttrid)
@@ -16,7 +17,6 @@
 * [2024-06-02, 20:26:59](https://news.ycombinator.com/item?id=40556995) - [HN-text: an easy-to-use, text-first Hacker News terminal client](https://github.com/piqoni/hn-text)
 * [2024-06-02, 19:37:01](https://news.ycombinator.com/item?id=40556687) - [cuDF – GPU DataFrame Library](https://github.com/rapidsai/cudf)
 * [2024-06-02, 19:11:49](https://news.ycombinator.com/item?id=40556516) - [Just Live](https://drb.ie/articles/just-live/)
-* [2024-06-02, 17:44:06](https://news.ycombinator.com/item?id=40555913) - [Upgrading my Chumby 8 kernel part 10: RTC](https://www.downtowndougbrown.com/2024/06/upgrading-my-chumby-8-kernel-part-10-rtc/)
 * [2024-06-02, 16:43:01](https://news.ycombinator.com/item?id=40555435) - [Ask HN: What was your most humbling learning moment?](https://news.ycombinator.com/item?id=40555435)
 * [2024-06-02, 14:21:21](https://news.ycombinator.com/item?id=40554396) - [SPI Flash](https://trmm.net/SPI_flash/)
 * [2024-06-02, 13:17:18](https://news.ycombinator.com/item?id=40553863) - [Lord Kelvin and his analog computer](https://spectrum.ieee.org/tide-predictions)
