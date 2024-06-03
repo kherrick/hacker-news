@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2024-06-02, 23:33:50",
-      "https://news.ycombinator.com/item?id=40557981"
-    ],
-    [
-      "Udio – AI Music Generator",
-      "https://www.udio.com/"
-    ]
-  ],
-  [
-    [
       "2024-06-02, 23:31:00",
       "https://news.ycombinator.com/item?id=40557969"
     ],
@@ -107,6 +97,16 @@
     [
       "Lowering resource usage with foot and systemd",
       "https://rgoswami.me/posts/lowering-resource-usage-foot-systemd/"
+    ]
+  ],
+  [
+    [
+      "2024-06-02, 21:53:46",
+      "https://news.ycombinator.com/item?id=40557451"
+    ],
+    [
+      "Protecting sensitive data in Elixir GenServers (2023)",
+      "https://gabrielpereira.dev/en/posts/protecting-sensitive-data-in-elixir-gen-servers/"
     ]
   ],
   [
