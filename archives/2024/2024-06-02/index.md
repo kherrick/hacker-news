@@ -20,6 +20,7 @@
 * [2024-06-02, 19:54:23](https://news.ycombinator.com/item?id=40556793) - [Atomic polling intervals for highly concurrent workloads](https://www.byronwasti.com/polling-atomics/)
 * [2024-06-02, 19:37:01](https://news.ycombinator.com/item?id=40556687) - [cuDF – GPU DataFrame Library](https://github.com/rapidsai/cudf)
 * [2024-06-02, 19:18:53](https://news.ycombinator.com/item?id=40556559) - [Inequality Without Class](https://www.dissentmagazine.org/article/inequality-without-class/)
+* [2024-06-02, 19:11:49](https://news.ycombinator.com/item?id=40556516) - [Just Live](https://drb.ie/articles/just-live/)
 * [2024-06-02, 18:41:52](https://news.ycombinator.com/item?id=40556342) - [The Disappointment Frontier](https://www.theengineeringmanager.com/growth/the-disappointment-frontier/)
 * [2024-06-02, 18:41:21](https://news.ycombinator.com/item?id=40556335) - [Evolving the back end storage for platform metrics](https://blog.heroku.com/evolving-backend-storage-for-platform-metrics)
 * [2024-06-02, 18:26:32](https://news.ycombinator.com/item?id=40556215) - [The Shadow of Tiananmen Falls on Hong Kong](https://www.newyorker.com/news/daily-comment/the-shadow-of-tiananmen-falls-on-hong-kong)
