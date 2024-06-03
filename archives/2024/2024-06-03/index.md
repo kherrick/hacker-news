@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-03](index.md)
 
+* [2024-06-03, 18:15:58](https://news.ycombinator.com/item?id=40565561) - [UMD study: N95 masks nearly perfect at blocking Covid](https://today.umd.edu/n95-masks-nearly-perfect-at-blocking-covid-umd-study-shows)
+* [2024-06-03, 17:59:56](https://news.ycombinator.com/item?id=40565357) - [Libadwaita: Splitting GTK and Design Language](https://tesk.page/2024/06/03/libadwaita-splitting-gtk-and-design-language/)
 * [2024-06-03, 17:40:37](https://news.ycombinator.com/item?id=40565144) - [Ozempic (semaglutide) associated with a 50-56% reduction in alcohol addiction](https://recursiveadaptation.com/p/wegovy-and-ozempic-semaglutide-are)
 * [2024-06-03, 17:36:13](https://news.ycombinator.com/item?id=40565087) - [ModRetro](https://modretro.com/)
 * [2024-06-03, 17:33:31](https://news.ycombinator.com/item?id=40565048) - [Shared Memory Versioning to improve slow interactions](https://blog.chromium.org/2024/06/introducing-shared-memory-versioning-to.html)
@@ -25,6 +27,7 @@
 * [2024-06-03, 15:01:54](https://news.ycombinator.com/item?id=40563283) - [Ask HN: Who is hiring? (June 2024)](https://news.ycombinator.com/item?id=40563283)
 * [2024-06-03, 15:01:52](https://news.ycombinator.com/item?id=40563280) - [Ask HN: Who wants to be hired? (June 2024)](https://news.ycombinator.com/item?id=40563280)
 * [2024-06-03, 14:51:59](https://news.ycombinator.com/item?id=40563190) - [Playstation VR2 players can access games on PC with adapter starting on August 7](https://blog.playstation.com/2024/06/03/playstation-vr2-players-can-access-games-on-pc-with-adapter-starting-on-august-7/)
+* [2024-06-03, 14:42:59](https://news.ycombinator.com/item?id=40563105) - [Stop Scraping My Git Forge](https://gabrielsimmer.com/blog/stop-scraping-git-forge)
 * [2024-06-03, 14:30:46](https://news.ycombinator.com/item?id=40562988) - [The Decline of the User Interface](https://www.infoworld.com/article/3715333/the-decline-of-the-user-interface.html)
 * [2024-06-03, 14:30:25](https://news.ycombinator.com/item?id=40562984) - [NYSE technical issue, incorrectly showing Berkshire Hathaway down 99%](https://www.cnbc.com/2024/06/03/nyse-technical-issue-impacting-some-stock-prices-incorrectly-showing-berkshire-hathaway-down-99percent.html)
 * [2024-06-03, 14:25:25](https://news.ycombinator.com/item?id=40562932) - [Spotify is increasing US prices again](https://www.theverge.com/2024/6/3/24170301/spotify-us-price-increase-plans)

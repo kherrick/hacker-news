@@ -75,6 +75,7 @@
 * [2024-06-02, 07:21:56](https://news.ycombinator.com/item?id=40552108) - [China lands Chang'e 6 sample-return probe on far side of the moon](https://www.space.com/china-change-6-lands-on-moon-far-side-sample-return-mission)
 * [2024-06-02, 06:57:04](https://news.ycombinator.com/item?id=40551974) - [Grain: The High-Level Language Optimized for WebAssembly](https://thenewstack.io/meet-grain-the-high-level-language-optimized-for-webassembly/)
 * [2024-06-02, 05:57:48](https://news.ycombinator.com/item?id=40551725) - [Parable of the Sofa](https://www.tbray.org/ongoing/When/202x/2024/06/01/Parable-of-the-Sofa)
+* [2024-06-02, 05:24:50](https://news.ycombinator.com/item?id=40551590) - [Highlights from \"I spent 6 years developing a game in Rust and it just shipped\"](https://gamesbymason.com/2024/06/01/wor-ama/)
 * [2024-06-02, 05:02:08](https://news.ycombinator.com/item?id=40551507) - [Jail time for those caught distributing deepfake porn under new Australian laws](https://www.theguardian.com/australia-news/article/2024/jun/01/creating-or-sharing-deepfake-porn-without-consent-to-be-under-proposed-new-australian-laws)
 * [2024-06-02, 04:11:01](https://news.ycombinator.com/item?id=40551260) - [Signal: Will leave the EU market rather than undermine our privacy guarantees](https://twitter.com/mer__edith/status/1796508893822238881)
 * [2024-06-02, 03:29:55](https://news.ycombinator.com/item?id=40551112) - [Unlocking the Duron and Athlon Using the Pencil](http://computer-communication.blogspot.com/2007/06/unlocking-duron-and-athlon-using-pencil_08.html)
