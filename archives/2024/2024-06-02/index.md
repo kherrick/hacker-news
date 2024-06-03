@@ -45,6 +45,7 @@
 * [2024-06-02, 13:11:49](https://news.ycombinator.com/item?id=40553818) - [Ask HN: Time to discourage \"I asked ChatGPT\" comments?](https://news.ycombinator.com/item?id=40553818)
 * [2024-06-02, 12:53:25](https://news.ycombinator.com/item?id=40553709) - [Circle C++ with Memory Safety](https://www.circle-lang.org/site/intro/)
 * [2024-06-02, 12:50:04](https://news.ycombinator.com/item?id=40553684) - [Windows: A Software Engineering Odyssey](https://danluu.com/microsoft-culture/)
+* [2024-06-02, 12:28:23](https://news.ycombinator.com/item?id=40553566) - [The Impossibility of Translating Franz Kafka (1999)](https://www.newyorker.com/magazine/1999/01/11/the-impossibility-of-being-kafka)
 * [2024-06-02, 12:26:43](https://news.ycombinator.com/item?id=40553557) - [Advertising Broke the World](https://www.wired.com/story/death-of-truth-misinformation-advertising/)
 * [2024-06-02, 12:25:57](https://news.ycombinator.com/item?id=40553551) - [Monads are like burritos (2009)](https://blog.plover.com/prog/burritos.html)
 * [2024-06-02, 12:21:00](https://news.ycombinator.com/item?id=40553526) - [Simple Equation Predicts the Shapes of Carbon-Capturing Wetlands](https://www.quantamagazine.org/simple-equation-predicts-the-shapes-of-carbon-capturing-wetlands-20240528/)
