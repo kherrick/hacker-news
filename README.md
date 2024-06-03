@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-03, 21:06:06](https://news.ycombinator.com/item?id=40567562) - [SnapMagic (YC S15), the AI copilot for electronics, is hiring a PM](https://careers.snapmagic.com/o/technical-project-manager)
+* [2024-06-03, 20:42:49](https://news.ycombinator.com/item?id=40567312) - [Show HN: Keyword Research Tool Without Fuzz](https://helseo.com/)
 * [2024-06-03, 20:27:21](https://news.ycombinator.com/item?id=40567165) - [Grokfast: Accelerated Grokking by Amplifying Slow Gradients](https://arxiv.org/abs/2405.20233)
 * [2024-06-03, 20:07:36](https://news.ycombinator.com/item?id=40566938) - [Crooks threaten to leak 3B personal records 'stolen from background check firm'](https://www.theregister.com/2024/06/03/usdod_data_dump/)
 * [2024-06-03, 19:26:51](https://news.ycombinator.com/item?id=40566533) - [Oldest largest German Minecraft server shut down and open sourced everything](https://github.com/muxcraftserver/MuxSystem)
@@ -14,7 +15,6 @@
 * [2024-06-03, 16:31:19](https://news.ycombinator.com/item?id=40564332) - [Go east from Seattle](https://finmoorhouse.com/writing/go-east/)
 * [2024-06-03, 16:07:33](https://news.ycombinator.com/item?id=40564079) - [Feynman Computer Science Lecture – Hardware, Software, Heuristics (1985) [video]](https://www.youtube.com/watch?v=EKWGGDXe5MA)
 * [2024-06-03, 16:07:13](https://news.ycombinator.com/item?id=40564067) - [Mamba-2 – State Space Duality](https://tridao.me/blog/2024/mamba2-part1-model/)
-* [2024-06-03, 15:38:47](https://news.ycombinator.com/item?id=40563763) - [Ogma: Interpretable Symbolic General Problem-Solving Model](https://ogma.framer.website/)
 * [2024-06-03, 15:23:19](https://news.ycombinator.com/item?id=40563577) - [Pigeon towers: The rise and fall of a 17th-century status symbol](https://www.atlasobscura.com/articles/dovecotes)
 * [2024-06-03, 15:03:06](https://news.ycombinator.com/item?id=40563301) - [Consumer Electronics Control](https://computer.rip/2024-06-02-consumer-electronics-control.html)
 * [2024-06-03, 15:01:54](https://news.ycombinator.com/item?id=40563283) - [Ask HN: Who is hiring? (June 2024)](https://news.ycombinator.com/item?id=40563283)
