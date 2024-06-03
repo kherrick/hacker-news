@@ -12,6 +12,7 @@
 * [2024-06-02, 23:21:50](https://news.ycombinator.com/item?id=40557915) - [New material looks like frosted glass but lets in more light than a window](https://www.popsci.com/technology/glass-coating-privacy/)
 * [2024-06-02, 22:59:13](https://news.ycombinator.com/item?id=40557794) - [How it feels to get an AI email from a friend](https://mrgan.com/ai-email-from-a-friend/)
 * [2024-06-02, 22:55:29](https://news.ycombinator.com/item?id=40557770) - [Lowering resource usage with foot and systemd](https://rgoswami.me/posts/lowering-resource-usage-foot-systemd/)
+* [2024-06-02, 22:47:20](https://news.ycombinator.com/item?id=40557726) - [Show HN: Minimalist, walkie-talkie for startups](https://flowy.live)
 * [2024-06-02, 21:53:46](https://news.ycombinator.com/item?id=40557451) - [Protecting sensitive data in Elixir GenServers](https://gabrielpereira.dev/en/posts/protecting-sensitive-data-in-elixir-gen-servers/)
 * [2024-06-02, 21:46:40](https://news.ycombinator.com/item?id=40557409) - [Psychological tricks rich people use to look generous without spending more](https://billmei.net/blog/shopping)
 * [2024-06-02, 21:23:07](https://news.ycombinator.com/item?id=40557289) - [Nuclear material left in \"Swap Shop\" at UK Hacker camp emfcamp](https://meow.social/@tryst/112546598851850261)
