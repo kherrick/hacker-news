@@ -10,6 +10,7 @@
 * [2024-06-03, 09:47:15](https://news.ycombinator.com/item?id=40560951) - [Cis-lunar space and the security dilemma](https://thebulletin.org/premium/2022-01/cis-lunar-space-and-the-security-dilemma/)
 * [2024-06-03, 09:44:19](https://news.ycombinator.com/item?id=40560929) - [Build a side project using your data](https://www.fact.ist/building-a-first-side-project/)
 * [2024-06-03, 09:42:36](https://news.ycombinator.com/item?id=40560913) - [Why Ruby's Timeout is dangerous (and Thread.raise is terrifying) (2015)](https://jvns.ca/blog/2015/11/27/why-rubys-timeout-is-dangerous-and-thread-dot-raise-is-terrifying/)
+* [2024-06-03, 09:41:56](https://news.ycombinator.com/item?id=40560910) - [Kaspersky releases a malware scanner for Linux systems](https://www.kaspersky.com/blog/kvrt-for-linux/51375/)
 * [2024-06-03, 09:22:53](https://news.ycombinator.com/item?id=40560768) - [I'm forking Ladybird and stepping down as SerenityOS BDFL](https://awesomekling.substack.com/p/forking-ladybird-and-stepping-down-serenityos)
 * [2024-06-03, 09:14:35](https://news.ycombinator.com/item?id=40560710) - [Broadcom's VMware strategy looks ever more shaky – and less relevant](https://www.theregister.com/2024/06/03/broadcoms_vmware_strategy_looks_ever/)
 * [2024-06-03, 09:10:48](https://news.ycombinator.com/item?id=40560688) - [OpenAI Integrated Webapp| Claims to Generate Website in 10 Seconds](https://www.netjet.io/en/how-to-build-a-website-in-10-seconds)
