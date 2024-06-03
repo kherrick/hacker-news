@@ -27,6 +27,7 @@
 * [2024-06-03, 16:32:21](https://news.ycombinator.com/item?id=40564345) - [Posthog – open-source analytics and UX research tool](https://github.com/PostHog/posthog)
 * [2024-06-03, 16:31:19](https://news.ycombinator.com/item?id=40564332) - [Go East from Seattle](https://finmoorhouse.com/writing/go-east/)
 * [2024-06-03, 16:10:02](https://news.ycombinator.com/item?id=40564104) - [Modern CSS Layouts: You Might Not Need a Framework for That](https://www.smashingmagazine.com/2024/05/modern-css-layouts-no-framework-needed/)
+* [2024-06-03, 16:07:33](https://news.ycombinator.com/item?id=40564079) - [Feynman Computer Science Lecture – Hardware, Software, Heuristics (1985) [video]](https://www.youtube.com/watch?v=EKWGGDXe5MA)
 * [2024-06-03, 16:07:13](https://news.ycombinator.com/item?id=40564067) - [Mamba-2 – State Space Duality](https://tridao.me/blog/2024/mamba2-part1-model/)
 * [2024-06-03, 16:00:04](https://news.ycombinator.com/item?id=40563984) - [Show HN: Brioche – A new Nix-like package manager](https://brioche.dev/blog/announcing-brioche/)
 * [2024-06-03, 15:50:39](https://news.ycombinator.com/item?id=40563876) - [Diving into Domain-Specific Languages: A Practical Guide for Developers](https://www.thebookwormsburrow.com/p/diving-into-domain-specific-languages)
