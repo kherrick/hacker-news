@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-03, 12:48:04](https://news.ycombinator.com/item?id=40562148) - [Dealing with \"New\" Old Data](https://www.mlb.com/news/baseball-record-books-changing-negro-leagues)
-* [2024-06-03, 12:35:14](https://news.ycombinator.com/item?id=40562069) - [Earning $30 too much a month keeps a cancer patient in Georgia from cheaper care](https://text.npr.org/nx-s1-4964730)
+* [2024-06-03, 13:18:18](https://news.ycombinator.com/item?id=40562342) - [DuckDB 1.0.0](https://duckdb.org/2024/06/03/announcing-duckdb-100.html)
+* [2024-06-03, 12:56:03](https://news.ycombinator.com/item?id=40562210) - [Show HN: 10 Years to Build a Free SQL Editor](https://www.timestored.com/qstudio/release-version-3)
 * [2024-06-03, 12:12:33](https://news.ycombinator.com/item?id=40561906) - [Auto-brewery syndrome in a 50-year-old woman](https://www.cmaj.ca/content/196/21/E724#msdynttrid)
 * [2024-06-03, 12:07:57](https://news.ycombinator.com/item?id=40561872) - [How many photons are received per bit transmitted from Voyager 1?](https://physics.stackexchange.com/questions/816698/how-many-photons-are-received-per-bit-transmitted-from-voyager-1)
 * [2024-06-03, 11:21:55](https://news.ycombinator.com/item?id=40561568) - [AMD reveals the MI325X, a 288GB AI accelerator built to battle Nvidia's H200](https://www.theregister.com/2024/06/03/amd_reveals_refreshed_mi325x_with/)
@@ -25,7 +25,7 @@
 * [2024-06-02, 12:07:07](https://news.ycombinator.com/item?id=40553448) - [Copy-and-Patch: Fast compilation for high-level languages and bytecode (2020)](https://arxiv.org/abs/2011.13127)
 * [2024-06-02, 11:32:51](https://news.ycombinator.com/item?id=40553238) - [Scents and Memories at the Hospital](https://scopeblog.stanford.edu/2019/10/09/scents-and-memories-at-the-hospital/)
 * [2024-06-02, 10:42:02](https://news.ycombinator.com/item?id=40553027) - [Will we have a negative leap second? [pdf] (2022)](https://www.gps.gov/cgsic/meetings/2022/matsakis.pdf)
-* [2024-06-02, 08:47:36](https://news.ycombinator.com/item?id=40552548) - [FineWeb: Decanting the web for the finest text data at scale](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1)
+* [2024-06-02, 10:00:31](https://news.ycombinator.com/item?id=40552858) - [Don't Use include-what-you-use](https://danra.prose.sh/dont_use_iwyu)
 * [2024-06-02, 08:13:51](https://news.ycombinator.com/item?id=40552377) - [The Sword of Kumdor](https://lynn.github.io/kumdor/)
 * [2024-06-01, 11:16:18](https://news.ycombinator.com/item?id=40544716) - [Everything I know about the fast inverse square root algorithm](https://github.com/francisrstokes/githublog/blob/main/2024%2F5%2F29%2Ffast-inverse-sqrt.md)
 * [2024-06-01, 05:43:16](https://news.ycombinator.com/item?id=40543196) - [L(O*62).ONG: Make your URL longer](https://loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong)
