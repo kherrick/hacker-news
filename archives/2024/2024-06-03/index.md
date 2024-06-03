@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-03](index.md)
 
+* [2024-06-03, 04:46:13](https://news.ycombinator.com/item?id=40559416) - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4360841006)
 * [2024-06-03, 03:28:29](https://news.ycombinator.com/item?id=40559073) - [Flow-Matic](https://en.wikipedia.org/wiki/FLOW-MATIC)
 * [2024-06-03, 03:14:15](https://news.ycombinator.com/item?id=40559015) - [Learn CSS Grid with a virtual garden game](https://cssgridgarden.com/)
 * [2024-06-03, 03:07:27](https://news.ycombinator.com/item?id=40558995) - [DAK Industries Catalog, Early Fall 1985](https://archive.org/details/1985.fall.dak)

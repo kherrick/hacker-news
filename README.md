@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-03, 04:46:13](https://news.ycombinator.com/item?id=40559416) - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4360841006)
 * [2024-06-03, 03:14:15](https://news.ycombinator.com/item?id=40559015) - [Learn CSS Grid with a virtual garden game](https://cssgridgarden.com/)
 * [2024-06-03, 03:07:27](https://news.ycombinator.com/item?id=40558995) - [DAK Industries Catalog, Early Fall 1985](https://archive.org/details/1985.fall.dak)
 * [2024-06-03, 03:04:53](https://news.ycombinator.com/item?id=40558982) - [AMD Instinct MI325X in Q4 2024, 288GB of HBM3E](https://ir.amd.com/news-events/press-releases/detail/1201/amd-accelerates-pace-of-data-center-ai-innovation-and)
@@ -18,7 +19,6 @@
 * [2024-06-02, 15:57:41](https://news.ycombinator.com/item?id=40555131) - [Here comes the Muybridge camera moment but for text](https://interconnected.org/home/2024/05/31/camera)
 * [2024-06-02, 14:21:21](https://news.ycombinator.com/item?id=40554396) - [SPI Flash](https://trmm.net/SPI_flash/)
 * [2024-06-02, 13:17:18](https://news.ycombinator.com/item?id=40553863) - [Lord Kelvin and his analog computer](https://spectrum.ieee.org/tide-predictions)
-* [2024-06-02, 12:53:25](https://news.ycombinator.com/item?id=40553709) - [Circle C++ with memory safety](https://www.circle-lang.org/site/intro/)
 * [2024-06-02, 12:07:07](https://news.ycombinator.com/item?id=40553448) - [Copy-and-Patch: Fast compilation for high-level languages and bytecode (2020)](https://arxiv.org/abs/2011.13127)
 * [2024-06-02, 08:55:52](https://news.ycombinator.com/item?id=40552581) - [A Deep Dive into (Implicit) Thread Local Storage](https://chao-tic.github.io/blog/2018/12/25/tls)
 * [2024-06-02, 07:21:56](https://news.ycombinator.com/item?id=40552108) - [China lands Chang'e 6 sample-return probe on far side of the moon](https://www.space.com/china-change-6-lands-on-moon-far-side-sample-return-mission)
