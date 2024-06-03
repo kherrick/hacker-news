@@ -6,10 +6,12 @@
 
 * [2024-06-03, 18:34:11](https://news.ycombinator.com/item?id=40565828) - [Nigeria suffers national power outage as labor unions shut down grid](https://www.theguardian.com/world/article/2024/jun/03/nigeria-suffers-national-power-outage-as-labour-unions-shut-down-grid)
 * [2024-06-03, 18:29:13](https://news.ycombinator.com/item?id=40565759) - [It's Time to Take Phones Away from Students](https://thewalrus.ca/take-phones-away-from-students/)
+* [2024-06-03, 18:22:06](https://news.ycombinator.com/item?id=40565663) - [Valve, a suggestion (about Team Fortress 2) [video]](https://www.youtube.com/watch?v=82B38TaawfE)
 * [2024-06-03, 18:15:58](https://news.ycombinator.com/item?id=40565561) - [UMD study: N95 masks nearly perfect at blocking Covid](https://today.umd.edu/n95-masks-nearly-perfect-at-blocking-covid-umd-study-shows)
 * [2024-06-03, 17:59:56](https://news.ycombinator.com/item?id=40565357) - [Libadwaita: Splitting GTK and Design Language](https://tesk.page/2024/06/03/libadwaita-splitting-gtk-and-design-language/)
 * [2024-06-03, 17:40:37](https://news.ycombinator.com/item?id=40565144) - [Ozempic (semaglutide) associated with a 50-56% reduction in alcohol addiction](https://recursiveadaptation.com/p/wegovy-and-ozempic-semaglutide-are)
 * [2024-06-03, 17:36:13](https://news.ycombinator.com/item?id=40565087) - [ModRetro](https://modretro.com/)
+* [2024-06-03, 17:34:42](https://news.ycombinator.com/item?id=40565060) - [If English was written like Chinese](https://zompist.com/yingzi/yingzi.htm)
 * [2024-06-03, 17:33:31](https://news.ycombinator.com/item?id=40565048) - [Shared Memory Versioning to improve slow interactions](https://blog.chromium.org/2024/06/introducing-shared-memory-versioning-to.html)
 * [2024-06-03, 17:32:00](https://news.ycombinator.com/item?id=40565028) - [The Most Disturbing Places We've Found Microplastics So Far](https://gizmodo.com/microplastics-in-blood-air-water-everywhere-1851492637)
 * [2024-06-03, 17:24:30](https://news.ycombinator.com/item?id=40564940) - [X has new rules that officially allow porn now](https://www.theverge.com/2024/6/3/24170352/x-xxx-porn-adult-content-terms-of-service-policy-update)
