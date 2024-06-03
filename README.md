@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-03, 21:34:17](https://news.ycombinator.com/item?id=40567806) - [Whiteboard interviews are a test of obedience, not intelligence](https://ashgw.me/blog/white-board-interviews)
 * [2024-06-03, 21:07:50](https://news.ycombinator.com/item?id=40567580) - [Special-Use Domain 'Home.arpa.'](https://datatracker.ietf.org/doc/html/rfc8375)
 * [2024-06-03, 21:06:06](https://news.ycombinator.com/item?id=40567562) - [SnapMagic (YC S15), the AI copilot for electronics, is hiring a PM](https://careers.snapmagic.com/o/technical-project-manager)
 * [2024-06-03, 20:27:21](https://news.ycombinator.com/item?id=40567165) - [Grokfast: Accelerated Grokking by Amplifying Slow Gradients](https://arxiv.org/abs/2405.20233)
@@ -28,7 +29,6 @@
 * [2024-06-02, 12:28:23](https://news.ycombinator.com/item?id=40553566) - [The impossibility of translating Franz Kafka (1999)](https://www.newyorker.com/magazine/1999/01/11/the-impossibility-of-being-kafka)
 * [2024-06-02, 11:39:04](https://news.ycombinator.com/item?id=40553267) - [Show HN: Tunnelling TCP through a file](https://github.com/fiddyschmitt/File-Tunnel)
 * [2024-06-02, 07:18:08](https://news.ycombinator.com/item?id=40552090) - [Algorithms Interviews: Theory vs. Practice (2020)](https://danluu.com/algorithms-interviews/)
-* [2024-06-02, 05:22:42](https://news.ycombinator.com/item?id=40551583) - [A Baseline Scrapscript Compiler](https://bernsteinbear.com/blog/scrapscript-baseline/)
 * [2024-06-01, 20:14:29](https://news.ycombinator.com/item?id=40548744) - [Hermann Grassmann and the nature of abstractions](https://github.com/Dicklesworthstone/grassman_article)
 
 ## [Archives](archives/index.md)

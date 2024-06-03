@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-03](index.md)
 
+* [2024-06-03, 21:34:17](https://news.ycombinator.com/item?id=40567806) - [Whiteboard interviews are a test of obedience, not intelligence](https://ashgw.me/blog/white-board-interviews)
 * [2024-06-03, 21:07:50](https://news.ycombinator.com/item?id=40567580) - [Special-Use Domain 'Home.arpa.'](https://datatracker.ietf.org/doc/html/rfc8375)
 * [2024-06-03, 21:06:06](https://news.ycombinator.com/item?id=40567562) - [SnapMagic (YC S15), the AI copilot for electronics, is hiring a PM](https://careers.snapmagic.com/o/technical-project-manager)
 * [2024-06-03, 20:42:49](https://news.ycombinator.com/item?id=40567312) - [Show HN: Keyword Research Tool Without Fuzz](https://helseo.com/)
