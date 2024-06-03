@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-03, 02:07:18](https://news.ycombinator.com/item?id=40558754) - [The Intellectual Obesity Crisis](https://www.gurwinder.blog/p/the-intellectual-obesity-crisis)
+* [2024-06-03, 01:39:51](https://news.ycombinator.com/item?id=40558607) - [Quake in 13kb (2021)](https://js13kgames.com/entries/q1k3)
 * [2024-06-02, 23:48:15](https://news.ycombinator.com/item?id=40558054) - [Building a dynamic lib plugin system for Rust](https://www.arroyo.dev/blog/rust-plugin-systems)
+* [2024-06-02, 23:33:50](https://news.ycombinator.com/item?id=40557981) - [Udio – AI Music Generator](https://www.udio.com/)
 * [2024-06-02, 23:31:00](https://news.ycombinator.com/item?id=40557969) - [Eight years of organizing tech meetups (2023)](https://notes.eatonphil.com/eight-years-of-tech-meetups.html)
 * [2024-06-02, 23:21:50](https://news.ycombinator.com/item?id=40557915) - [New material looks like frosted glass but lets in more light than a window](https://www.popsci.com/technology/glass-coating-privacy/)
 * [2024-06-02, 22:55:29](https://news.ycombinator.com/item?id=40557770) - [Lowering resource usage with foot and systemd](https://rgoswami.me/posts/lowering-resource-usage-foot-systemd/)
@@ -13,13 +15,12 @@
 * [2024-06-02, 16:53:04](https://news.ycombinator.com/item?id=40555506) - [Workmanship standard for crimping, interconnecting cables, harnesses, and wiring](https://standards.nasa.gov/standard/NASA/NASA-STD-87394)
 * [2024-06-02, 16:43:01](https://news.ycombinator.com/item?id=40555435) - [Ask HN: What was your most humbling learning moment?](https://news.ycombinator.com/item?id=40555435)
 * [2024-06-02, 15:57:41](https://news.ycombinator.com/item?id=40555131) - [Here comes the Muybridge camera moment but for text](https://interconnected.org/home/2024/05/31/camera)
-* [2024-06-02, 15:55:56](https://news.ycombinator.com/item?id=40555116) - [Hotwire: HTML Over The Wire](https://hotwired.dev/)
 * [2024-06-02, 14:21:21](https://news.ycombinator.com/item?id=40554396) - [SPI Flash](https://trmm.net/SPI_flash/)
 * [2024-06-02, 13:17:18](https://news.ycombinator.com/item?id=40553863) - [Lord Kelvin and his analog computer](https://spectrum.ieee.org/tide-predictions)
 * [2024-06-02, 12:53:25](https://news.ycombinator.com/item?id=40553709) - [Circle C++ with memory safety](https://www.circle-lang.org/site/intro/)
 * [2024-06-02, 12:07:07](https://news.ycombinator.com/item?id=40553448) - [Copy-and-Patch: Fast compilation for high-level languages and bytecode (2020)](https://arxiv.org/abs/2011.13127)
 * [2024-06-02, 08:55:52](https://news.ycombinator.com/item?id=40552581) - [A Deep Dive into (Implicit) Thread Local Storage](https://chao-tic.github.io/blog/2018/12/25/tls)
-* [2024-06-01, 19:24:04](https://news.ycombinator.com/item?id=40548381) - [“You Are My Friend”: Early Androids and Artificial Speech](https://publicdomainreview.org/essay/early-androids-and-artificial-speech/?ref=thebrowser.com)
+* [2024-06-02, 06:57:04](https://news.ycombinator.com/item?id=40551974) - [Grain: The High-Level Language Optimized for WebAssembly](https://thenewstack.io/meet-grain-the-high-level-language-optimized-for-webassembly/)
 * [2024-06-01, 19:23:03](https://news.ycombinator.com/item?id=40548372) - [Horseshoe crab counting with New York’s citizen scientists](https://www.thecity.nyc/2024/05/29/horseshoe-crab-jamaica-bay-festival/)
 * [2024-06-01, 11:43:07](https://news.ycombinator.com/item?id=40544896) - [Why is Snapshot Isolation not enough?](http://concurrencyfreaks.blogspot.com/2023/12/why-is-snapshot-isolation-not-enough.html)
 * [2024-06-01, 11:16:18](https://news.ycombinator.com/item?id=40544716) - [Everything I know about the fast inverse square root algorithm](https://github.com/francisrstokes/githublog/blob/main/2024%2F5%2F29%2Ffast-inverse-sqrt.md)
@@ -29,7 +30,6 @@
 * [2024-06-01, 03:41:02](https://news.ycombinator.com/item?id=40542691) - [David Hilbert's 1930 Radio Address [video]](https://www.youtube.com/watch?v=wuLFqgx2Pec)
 * [2024-05-31, 22:54:40](https://news.ycombinator.com/item?id=40541187) - [An accident of lighting uncovers origins of the astrolabe](https://nautil.us/the-smartphone-of-the-middle-ages-625924/)
 * [2024-05-31, 03:10:41](https://news.ycombinator.com/item?id=40531124) - [The largest stegosaurus fossil ever found heads to auction](https://www.nytimes.com/2024/05/29/science/stegosaurus-fossil-auction-sothebys.html)
-* [2024-05-30, 12:14:41](https://news.ycombinator.com/item?id=40522782) - [Mesh Spreadsheet: A data and code editor that feels like a spreadsheet](https://github.com/chrispsn/mesh-spreadsheet)
 
 ## [Archives](archives/index.md)
 

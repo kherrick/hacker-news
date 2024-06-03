@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-02](index.md)
 
 * [2024-06-02, 23:48:15](https://news.ycombinator.com/item?id=40558054) - [Building a dynamic lib plugin system for Rust](https://www.arroyo.dev/blog/rust-plugin-systems)
+* [2024-06-02, 23:33:50](https://news.ycombinator.com/item?id=40557981) - [Udio – AI Music Generator](https://www.udio.com/)
 * [2024-06-02, 23:31:00](https://news.ycombinator.com/item?id=40557969) - [Eight years of organizing tech meetups](https://notes.eatonphil.com/eight-years-of-tech-meetups.html)
 * [2024-06-02, 23:25:02](https://news.ycombinator.com/item?id=40557931) - [MicroPython 1.23 Brings Custom USB Devices, OpenAMP, Much More](https://hackaday.com/2024/06/02/micropython-1-23-brings-custom-usb-devices-openamp-much-more/)
 * [2024-06-02, 23:21:50](https://news.ycombinator.com/item?id=40557915) - [New material looks like frosted glass but lets in more light than a window](https://www.popsci.com/technology/glass-coating-privacy/)
@@ -61,6 +62,7 @@
 * [2024-06-02, 08:20:49](https://news.ycombinator.com/item?id=40552423) - [Voice analysis shows striking similarity between Scarlett Johansson and ChatGPT](https://www.npr.org/2024/05/31/g-s1-2263/voice-lab-analysis-striking-similarity-scarlett-johansson-chatgpt-sky-openai)
 * [2024-06-02, 08:16:13](https://news.ycombinator.com/item?id=40552398) - [If A.I. Can Do Your Job, Maybe It Can Also Replace Your CEO](https://www.msn.com/en-us/news/us/if-a-i-can-do-your-job-maybe-it-can-also-replace-your-c-e-o/ar-BB1nbdAX)
 * [2024-06-02, 07:58:45](https://news.ycombinator.com/item?id=40552291) - [Pre-Work for Setting OKRs](https://eleganthack.com/pre-work-for-setting-okrs/)
+* [2024-06-02, 06:57:04](https://news.ycombinator.com/item?id=40551974) - [Grain: The High-Level Language Optimized for WebAssembly](https://thenewstack.io/meet-grain-the-high-level-language-optimized-for-webassembly/)
 * [2024-06-02, 05:57:48](https://news.ycombinator.com/item?id=40551725) - [Parable of the Sofa](https://www.tbray.org/ongoing/When/202x/2024/06/01/Parable-of-the-Sofa)
 * [2024-06-02, 05:02:08](https://news.ycombinator.com/item?id=40551507) - [Jail time for those caught distributing deepfake porn under new Australian laws](https://www.theguardian.com/australia-news/article/2024/jun/01/creating-or-sharing-deepfake-porn-without-consent-to-be-under-proposed-new-australian-laws)
 * [2024-06-02, 04:11:01](https://news.ycombinator.com/item?id=40551260) - [Signal: Will leave the EU market rather than undermine our privacy guarantees](https://twitter.com/mer__edith/status/1796508893822238881)

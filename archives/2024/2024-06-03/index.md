@@ -6,4 +6,5 @@
 
 * [2024-06-03, 02:07:18](https://news.ycombinator.com/item?id=40558754) - [The Intellectual Obesity Crisis](https://www.gurwinder.blog/p/the-intellectual-obesity-crisis)
 * [2024-06-03, 01:44:22](https://news.ycombinator.com/item?id=40558640) - [Tech entrepreneur hosts charity for homeless while evicting tenant](https://www.thestar.com/real-estate/he-was-evicted-and-his-home-was-later-listed-on-airbnb-meanwhile-his-landlord-hosted/article_72c86bde-e162-11ee-b6d0-e3e7190ad965.html)
+* [2024-06-03, 01:39:51](https://news.ycombinator.com/item?id=40558607) - [Quake in 13kb (2021)](https://js13kgames.com/entries/q1k3)
 * [2024-06-03, 00:47:39](https://news.ycombinator.com/item?id=40558331) - [Cat as a Service](https://cataas.com/)
