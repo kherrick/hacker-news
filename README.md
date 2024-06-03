@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-03, 08:13:47](https://news.ycombinator.com/item?id=40560391) - [EU: Users who refuse scanning to be prevented from sharing photos and links](https://www.patrick-breyer.de/en/majority-for-chat-control-possible-users-who-refuse-scanning-to-be-prevented-from-sharing-photos-and-links/)
 * [2024-06-03, 04:34:04](https://news.ycombinator.com/item?id=40559368) - [AMD Unveils Ryzen 9000 CPUs for Desktop, Zen 5](https://www.anandtech.com/show/21415/amd-unveils-ryzen-9000-cpus-for-desktop-zen-5-takes-center-stage-at-computex-2024)
 * [2024-06-03, 03:14:15](https://news.ycombinator.com/item?id=40559015) - [Learn CSS Grid with a virtual garden game](https://cssgridgarden.com/)
 * [2024-06-03, 03:04:53](https://news.ycombinator.com/item?id=40558982) - [AMD Instinct MI325X in Q4 2024, 288GB of HBM3E](https://ir.amd.com/news-events/press-releases/detail/1201/amd-accelerates-pace-of-data-center-ai-innovation-and)
@@ -16,7 +17,6 @@
 * [2024-06-02, 16:43:01](https://news.ycombinator.com/item?id=40555435) - [Ask HN: What was your most humbling learning moment?](https://news.ycombinator.com/item?id=40555435)
 * [2024-06-02, 14:21:21](https://news.ycombinator.com/item?id=40554396) - [SPI Flash](https://trmm.net/SPI_flash/)
 * [2024-06-02, 13:17:18](https://news.ycombinator.com/item?id=40553863) - [Lord Kelvin and his analog computer](https://spectrum.ieee.org/tide-predictions)
-* [2024-06-02, 12:53:25](https://news.ycombinator.com/item?id=40553709) - [Circle C++ with memory safety](https://www.circle-lang.org/site/intro/)
 * [2024-06-02, 12:07:07](https://news.ycombinator.com/item?id=40553448) - [Copy-and-Patch: Fast compilation for high-level languages and bytecode (2020)](https://arxiv.org/abs/2011.13127)
 * [2024-06-02, 10:42:02](https://news.ycombinator.com/item?id=40553027) - [Will we have a negative leap second? [pdf]](https://www.gps.gov/cgsic/meetings/2022/matsakis.pdf)
 * [2024-06-02, 08:55:52](https://news.ycombinator.com/item?id=40552581) - [A Deep Dive into (Implicit) Thread Local Storage](https://chao-tic.github.io/blog/2018/12/25/tls)
