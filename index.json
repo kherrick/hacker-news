@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-03, 22:15:09",
+      "https://news.ycombinator.com/item?id=40568233"
+    ],
+    [
+      "UniSuper Google Cloud Outage Reveals Need for Keen Backup and DR Planning",
+      "https://www.n-able.com/blog/unisuper-google-cloud-outage-reveals-need-for-keen-backup-and-dr-planning"
+    ]
+  ],
+  [
+    [
       "2024-06-03, 21:34:17",
       "https://news.ycombinator.com/item?id=40567806"
     ],
@@ -27,6 +37,16 @@
     [
       "SnapMagic (YC S15), the AI copilot for electronics, is hiring a PM",
       "https://careers.snapmagic.com/o/technical-project-manager"
+    ]
+  ],
+  [
+    [
+      "2024-06-03, 21:03:59",
+      "https://news.ycombinator.com/item?id=40567532"
+    ],
+    [
+      "Python's many command-line utilities",
+      "https://www.pythonmorsels.com/cli-tools/"
     ]
   ],
   [
@@ -117,16 +137,6 @@
     [
       "Cirkoban: Sokoban meets cellular automata written in Scheme",
       "https://spritely.institute/news/cirkoban-sokoban-meets-cellular-automata-written-in-scheme.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-03, 16:31:19",
-      "https://news.ycombinator.com/item?id=40564332"
-    ],
-    [
-      "Go east from Seattle",
-      "https://finmoorhouse.com/writing/go-east/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Show HN: Tunnelling TCP through a file",
       "https://github.com/fiddyschmitt/File-Tunnel"
-    ]
-  ],
-  [
-    [
-      "2024-06-02, 05:22:42",
-      "https://news.ycombinator.com/item?id=40551583"
-    ],
-    [
-      "A Baseline Scrapscript Compiler",
-      "https://bernsteinbear.com/blog/scrapscript-baseline/"
     ]
   ],
   [
