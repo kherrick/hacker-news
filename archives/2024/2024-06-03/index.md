@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-06-03](index.md)
 
+* [2024-06-03, 16:32:21](https://news.ycombinator.com/item?id=40564345) - [Posthog – open-source analytics and UX research tool](https://github.com/PostHog/posthog)
+* [2024-06-03, 16:07:13](https://news.ycombinator.com/item?id=40564067) - [Mamba-2 – State Space Duality](https://tridao.me/blog/2024/mamba2-part1-model/)
 * [2024-06-03, 15:38:47](https://news.ycombinator.com/item?id=40563763) - [Ogma: Interpretable Symbolic General Problem-Solving Model](https://ogma.framer.website/)
 * [2024-06-03, 15:35:32](https://news.ycombinator.com/item?id=40563729) - [Show HN: Show HN: Dzero – The fastest globally distributed SQLite database](https://dzero.dev)
+* [2024-06-03, 15:23:19](https://news.ycombinator.com/item?id=40563577) - [The Rise and Fall of a 17th-Century Status Symbol (2015)](https://www.atlasobscura.com/articles/dovecotes)
 * [2024-06-03, 15:01:54](https://news.ycombinator.com/item?id=40563283) - [Ask HN: Who is hiring? (June 2024)](https://news.ycombinator.com/item?id=40563283)
 * [2024-06-03, 15:01:52](https://news.ycombinator.com/item?id=40563280) - [Ask HN: Who wants to be hired? (June 2024)](https://news.ycombinator.com/item?id=40563280)
 * [2024-06-03, 14:51:59](https://news.ycombinator.com/item?id=40563190) - [Playstation VR2 players can access games on PC with adapter starting on August 7](https://blog.playstation.com/2024/06/03/playstation-vr2-players-can-access-games-on-pc-with-adapter-starting-on-august-7/)
@@ -15,6 +18,7 @@
 * [2024-06-03, 14:22:08](https://news.ycombinator.com/item?id=40562901) - [Covid Subcommittee Releases Dr. Fauci's Transcript, Highlights Key Takeaways](https://oversight.house.gov/release/covid-select-subcommittee-releases-dr-faucis-transcript-highlights-key-takeaways-in-new-memo/)
 * [2024-06-03, 14:21:05](https://news.ycombinator.com/item?id=40562890) - [Linux Mint Disabling Unverified Flatpaks by Default](https://www.phoronix.com/news/Linux-Mint-Unverified-Flatpaks)
 * [2024-06-03, 14:19:37](https://news.ycombinator.com/item?id=40562877) - [NASA+](https://plus.nasa.gov/)
+* [2024-06-03, 14:16:43](https://news.ycombinator.com/item?id=40562834) - [FBI Raids Big Corporate Landlord over Nationwide Rent Hikes](https://www.thebignewsletter.com/p/monopoly-round-up-fbi-raids-big-corporate)
 * [2024-06-03, 14:05:41](https://news.ycombinator.com/item?id=40562741) - [What if they gave an Industrial Revolution and nobody came?](https://rootsofprogress.org/robert-allen-british-industrial-revolution)
 * [2024-06-03, 13:30:16](https://news.ycombinator.com/item?id=40562444) - [AWS Chalice](https://github.com/aws/chalice)
 * [2024-06-03, 13:18:18](https://news.ycombinator.com/item?id=40562342) - [DuckDB 1.0.0](https://duckdb.org/2024/06/03/announcing-duckdb-100.html)

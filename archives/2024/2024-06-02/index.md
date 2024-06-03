@@ -52,6 +52,7 @@
 * [2024-06-02, 12:07:07](https://news.ycombinator.com/item?id=40553448) - [Copy-and-Patch Compilation: fast compilation algorithm for high-level languages](https://arxiv.org/abs/2011.13127)
 * [2024-06-02, 11:55:46](https://news.ycombinator.com/item?id=40553375) - [The Collapse Is Coming. Will Humanity Adapt?](https://nautil.us/the-collapse-is-coming-will-humanity-adapt-626051/)
 * [2024-06-02, 11:41:54](https://news.ycombinator.com/item?id=40553281) - [Want to Unlock Performance and Clarity? Use Strong Types](https://ekxide.io/blog/want-to-unlock-performance-and-clarity-use-strong-types/)
+* [2024-06-02, 11:39:04](https://news.ycombinator.com/item?id=40553267) - [Show HN: Tunnelling TCP through a file](https://github.com/fiddyschmitt/File-Tunnel)
 * [2024-06-02, 11:32:51](https://news.ycombinator.com/item?id=40553238) - [Scents and Memories at the Hospital](https://scopeblog.stanford.edu/2019/10/09/scents-and-memories-at-the-hospital/)
 * [2024-06-02, 11:16:29](https://news.ycombinator.com/item?id=40553164) - [Counting words in Python, Go, C++, C, Awk, Forth, and Rust (2021)](https://benhoyt.com/writings/count-words/)
 * [2024-06-02, 11:16:02](https://news.ycombinator.com/item?id=40553163) - [The Ticketmaster Data Breach May Be Just the Beginning](https://www.wired.com/story/snowflake-breach-ticketmaster-santander-ticketek-hacked/)
