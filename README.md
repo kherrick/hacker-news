@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-03, 14:22:08](https://news.ycombinator.com/item?id=40562901) - [Covid Subcommittee Releases Dr. Fauci's Transcript, Highlights Key Takeaways](https://oversight.house.gov/release/covid-select-subcommittee-releases-dr-faucis-transcript-highlights-key-takeaways-in-new-memo/)
 * [2024-06-03, 13:30:16](https://news.ycombinator.com/item?id=40562444) - [AWS Chalice](https://github.com/aws/chalice)
 * [2024-06-03, 12:56:03](https://news.ycombinator.com/item?id=40562210) - [Show HN: 10 Years to Build a Free SQL Editor](https://www.timestored.com/qstudio/release-version-3)
 * [2024-06-03, 12:30:30](https://news.ycombinator.com/item?id=40562029) - [Generate an OpenSCAD case template from a KiCAD PCB](https://sr.ht/~martijnbraam/turbocase/)
 * [2024-06-03, 12:12:33](https://news.ycombinator.com/item?id=40561906) - [Auto-brewery syndrome in a 50-year-old woman](https://www.cmaj.ca/content/196/21/E724#msdynttrid)
 * [2024-06-03, 12:07:57](https://news.ycombinator.com/item?id=40561872) - [How many photons are received per bit transmitted from Voyager 1?](https://physics.stackexchange.com/questions/816698/how-many-photons-are-received-per-bit-transmitted-from-voyager-1)
 * [2024-06-03, 09:42:36](https://news.ycombinator.com/item?id=40560913) - [Why Ruby's Timeout is dangerous (and Thread.raise is terrifying) (2015)](https://jvns.ca/blog/2015/11/27/why-rubys-timeout-is-dangerous-and-thread-dot-raise-is-terrifying/)
-* [2024-06-03, 09:22:53](https://news.ycombinator.com/item?id=40560768) - [I'm forking Ladybird and stepping down as SerenityOS BDFL](https://awesomekling.substack.com/p/forking-ladybird-and-stepping-down-serenityos)
 * [2024-06-03, 07:53:46](https://news.ycombinator.com/item?id=40560300) - [Making USB devices – end to end guide to your first gadget](https://popovicu.com/posts/making-usb-devices/)
 * [2024-06-03, 05:37:27](https://news.ycombinator.com/item?id=40559657) - [Qimgv – Fast, simple image viewer](https://github.com/easymodo/qimgv)
 * [2024-06-03, 04:34:04](https://news.ycombinator.com/item?id=40559368) - [AMD Unveils Ryzen 9000 CPUs for Desktop, Zen 5](https://www.anandtech.com/show/21415/amd-unveils-ryzen-9000-cpus-for-desktop-zen-5-takes-center-stage-at-computex-2024)
