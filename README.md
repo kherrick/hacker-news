@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-03, 10:42:49](https://news.ycombinator.com/item?id=40561308) - [A Quartz Thermal Trap Harnessed the Sun–and Is About to Change Smelting Forever](https://www.popularmechanics.com/science/green-tech/a60829402/a-quartz-thermal-trap-harnessed-the-sunand-is-about-to-change-smelting-forever/)
 * [2024-06-03, 09:59:07](https://news.ycombinator.com/item?id=40561031) - [Corporations Learned the Maximum Amount They Can Charge for a Product](https://www.bloomberg.com/news/articles/2024-06-03/corporations-learned-the-maximum-amount-they-can-charge-for-a-product)
 * [2024-06-03, 09:47:15](https://news.ycombinator.com/item?id=40560951) - [Cis-lunar space and the security dilemma](https://thebulletin.org/premium/2022-01/cis-lunar-space-and-the-security-dilemma/)
 * [2024-06-03, 09:44:19](https://news.ycombinator.com/item?id=40560929) - [Build a side project using your data](https://www.fact.ist/building-a-first-side-project/)
@@ -22,7 +23,6 @@
 * [2024-06-02, 17:44:06](https://news.ycombinator.com/item?id=40555913) - [Upgrading my Chumby 8 kernel part 10: RTC](https://www.downtowndougbrown.com/2024/06/upgrading-my-chumby-8-kernel-part-10-rtc/)
 * [2024-06-02, 16:43:01](https://news.ycombinator.com/item?id=40555435) - [Ask HN: What was your most humbling learning moment?](https://news.ycombinator.com/item?id=40555435)
 * [2024-06-02, 14:21:21](https://news.ycombinator.com/item?id=40554396) - [SPI Flash](https://trmm.net/SPI_flash/)
-* [2024-06-02, 13:17:18](https://news.ycombinator.com/item?id=40553863) - [Lord Kelvin and his analog computer](https://spectrum.ieee.org/tide-predictions)
 * [2024-06-02, 10:42:02](https://news.ycombinator.com/item?id=40553027) - [Will we have a negative leap second? [pdf]](https://www.gps.gov/cgsic/meetings/2022/matsakis.pdf)
 * [2024-06-02, 08:47:36](https://news.ycombinator.com/item?id=40552548) - [FineWeb: Decanting the web for the finest text data at scale](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1)
 * [2024-06-02, 08:13:51](https://news.ycombinator.com/item?id=40552377) - [The Sword of Kumdor](https://lynn.github.io/kumdor/)
