@@ -26,6 +26,7 @@
 * [2024-06-02, 16:42:03](https://news.ycombinator.com/item?id=40555431) - [Parsing JSON Is a Minefield](https://seriot.ch/projects/parsing_json.html)
 * [2024-06-02, 15:57:41](https://news.ycombinator.com/item?id=40555131) - [Here comes the Muybridge camera moment but for text. Photoshop too](https://interconnected.org/home/2024/05/31/camera)
 * [2024-06-02, 15:55:56](https://news.ycombinator.com/item?id=40555116) - [Hotwire: HTML Over The Wire](https://hotwired.dev/)
+* [2024-06-02, 15:35:55](https://news.ycombinator.com/item?id=40554979) - [Homeschooling](https://www.teamten.com/lawrence/writings/homeschooling.html)
 * [2024-06-02, 14:51:20](https://news.ycombinator.com/item?id=40554658) - [A secure embedded operating system for microcontrollers](https://tockos.org/)
 * [2024-06-02, 14:21:21](https://news.ycombinator.com/item?id=40554396) - [SPI Flash](https://trmm.net/SPI_flash/)
 * [2024-06-02, 14:21:00](https://news.ycombinator.com/item?id=40554394) - [New head of one of the oldest universities organized a citation cartel](https://english.elpais.com/science-tech/2024-05-31/internal-messages-show-how-the-new-head-of-one-of-the-worlds-oldest-universities-organized-a-citation-cartel.html)
