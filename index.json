@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-03, 20:07:36",
+      "https://news.ycombinator.com/item?id=40566938"
+    ],
+    [
+      "Crooks threaten to leak 3B personal records 'stolen from background check firm'",
+      "https://www.theregister.com/2024/06/03/usdod_data_dump/"
+    ]
+  ],
+  [
+    [
       "2024-06-03, 19:26:51",
       "https://news.ycombinator.com/item?id=40566533"
     ],
@@ -145,7 +155,7 @@
       "https://news.ycombinator.com/item?id=40563744"
     ],
     [
-      "Physicists create a Bose-Einstein condensate",
+      "Physicists create molecular Bose-Einstein condensates",
       "https://news.columbia.edu/news/coldest-lab-new-york-has-new-quantum-offering"
     ]
   ],
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2024-06-03, 09:42:36",
-      "https://news.ycombinator.com/item?id=40560913"
-    ],
-    [
-      "Ruby's Timeout is dangerous and Thread.raise is terrifying (2015)",
-      "https://jvns.ca/blog/2015/11/27/why-rubys-timeout-is-dangerous-and-thread-dot-raise-is-terrifying/"
-    ]
-  ],
-  [
-    [
       "2024-06-03, 09:22:53",
       "https://news.ycombinator.com/item?id=40560768"
     ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=40552090"
     ],
     [
-      "Algorithms Interviews: Theory vs. Practice",
+      "Algorithms Interviews: Theory vs. Practice (2020)",
       "https://danluu.com/algorithms-interviews/"
     ]
   ],
