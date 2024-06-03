@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-03, 17:12:25](https://news.ycombinator.com/item?id=40564785) - [The Alaska Supreme Court Takes Aerial Surveillance's Threat to Privacy Seriously](https://www.eff.org/deeplinks/2024/05/alaska-supreme-court-takes-aerial-surveillances-threat-privacy-seriously-other)
 * [2024-06-03, 17:00:45](https://news.ycombinator.com/item?id=40564642) - [Trellis (YC W24) is hiring Founding-Eng to build ETL for unstructured data with AI](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
 * [2024-06-03, 16:32:21](https://news.ycombinator.com/item?id=40564345) - [Posthog – open-source analytics and UX research tool](https://github.com/PostHog/posthog)
 * [2024-06-03, 16:10:02](https://news.ycombinator.com/item?id=40564104) - [Modern CSS Layouts: You Might Not Need a Framework for That](https://www.smashingmagazine.com/2024/05/modern-css-layouts-no-framework-needed/)
@@ -12,7 +13,6 @@
 * [2024-06-03, 14:16:43](https://news.ycombinator.com/item?id=40562834) - [FBI Raids Big Corporate Landlord over Nationwide Rent Hikes](https://www.thebignewsletter.com/p/monopoly-round-up-fbi-raids-big-corporate)
 * [2024-06-03, 14:05:41](https://news.ycombinator.com/item?id=40562741) - [What if they gave an Industrial Revolution and nobody came? (2023)](https://rootsofprogress.org/robert-allen-british-industrial-revolution)
 * [2024-06-03, 12:56:03](https://news.ycombinator.com/item?id=40562210) - [Show HN: 10 Years to Build a Free SQL Editor](https://www.timestored.com/qstudio/release-version-3)
-* [2024-06-03, 12:12:33](https://news.ycombinator.com/item?id=40561906) - [Auto-brewery syndrome in a 50-year-old woman](https://www.cmaj.ca/content/196/21/E724#msdynttrid)
 * [2024-06-03, 12:07:57](https://news.ycombinator.com/item?id=40561872) - [How many photons are received per bit transmitted from Voyager 1?](https://physics.stackexchange.com/questions/816698/how-many-photons-are-received-per-bit-transmitted-from-voyager-1)
 * [2024-06-03, 09:42:36](https://news.ycombinator.com/item?id=40560913) - [Why Ruby's Timeout is dangerous (and Thread.raise is terrifying) (2015)](https://jvns.ca/blog/2015/11/27/why-rubys-timeout-is-dangerous-and-thread-dot-raise-is-terrifying/)
 * [2024-06-03, 07:53:46](https://news.ycombinator.com/item?id=40560300) - [Making USB devices – end to end guide to your first gadget](https://popovicu.com/posts/making-usb-devices/)
