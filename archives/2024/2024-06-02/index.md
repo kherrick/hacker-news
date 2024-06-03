@@ -64,6 +64,7 @@
 * [2024-06-02, 09:06:40](https://news.ycombinator.com/item?id=40552632) - [PEP 730 – Adding iOS as a supported platform](https://peps.python.org/pep-0730/)
 * [2024-06-02, 09:03:54](https://news.ycombinator.com/item?id=40552621) - [PyCon US 2024 Recap](https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html)
 * [2024-06-02, 08:55:52](https://news.ycombinator.com/item?id=40552581) - [A Deep Dive into (Implicit) Thread Local Storage](https://chao-tic.github.io/blog/2018/12/25/tls)
+* [2024-06-02, 08:50:36](https://news.ycombinator.com/item?id=40552561) - [Paged Out: Issue 4 [pdf]](https://pagedout.institute/download/PagedOut_004_beta1.pdf)
 * [2024-06-02, 08:47:37](https://news.ycombinator.com/item?id=40552549) - [Show HN: Fusio 5.0 released – open-source API management platform](https://www.fusio-project.org/)
 * [2024-06-02, 08:47:36](https://news.ycombinator.com/item?id=40552548) - [FineWeb: Decanting the web for the finest text data at scale](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1)
 * [2024-06-02, 08:22:11](https://news.ycombinator.com/item?id=40552431) - [Best DOS GUIs That I've Found (So Far)](https://multiboot-windows.dscloud.me/All_Pages_for_DOS_GUIs/DG00_The_Best_22_DOS_GUIs_Ive_Found.html)
