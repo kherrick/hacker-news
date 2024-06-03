@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-03](index.md)
 
 * [2024-06-03, 22:15:09](https://news.ycombinator.com/item?id=40568233) - [UniSuper Google Cloud Outage Reveals Need for Keen Backup and DR Planning](https://www.n-able.com/blog/unisuper-google-cloud-outage-reveals-need-for-keen-backup-and-dr-planning)
+* [2024-06-03, 21:54:09](https://news.ycombinator.com/item?id=40568026) - [Scientists should use AI as a tool, not an oracle](https://www.aisnakeoil.com/p/scientists-should-use-ai-as-a-tool)
 * [2024-06-03, 21:44:59](https://news.ycombinator.com/item?id=40567924) - [The Future Is Retro – ModRetro](https://modretro.com/blogs/blog/the-future-is-retro)
 * [2024-06-03, 21:34:17](https://news.ycombinator.com/item?id=40567806) - [Whiteboard interviews are a test of obedience, not intelligence](https://ashgw.me/blog/white-board-interviews)
 * [2024-06-03, 21:07:50](https://news.ycombinator.com/item?id=40567580) - [Special-Use Domain 'Home.arpa.'](https://datatracker.ietf.org/doc/html/rfc8375)
