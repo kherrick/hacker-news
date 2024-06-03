@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-03, 17:00:45](https://news.ycombinator.com/item?id=40564642) - [Trellis (YC W24) is hiring Founding-Eng to build ETL for unstructured data with AI](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
 * [2024-06-03, 16:32:21](https://news.ycombinator.com/item?id=40564345) - [Posthog – open-source analytics and UX research tool](https://github.com/PostHog/posthog)
 * [2024-06-03, 16:10:02](https://news.ycombinator.com/item?id=40564104) - [Modern CSS Layouts: You Might Not Need a Framework for That](https://www.smashingmagazine.com/2024/05/modern-css-layouts-no-framework-needed/)
 * [2024-06-03, 16:07:13](https://news.ycombinator.com/item?id=40564067) - [Mamba-2 – State Space Duality](https://tridao.me/blog/2024/mamba2-part1-model/)
@@ -18,7 +19,6 @@
 * [2024-06-03, 05:37:27](https://news.ycombinator.com/item?id=40559657) - [Qimgv – Fast, simple image viewer](https://github.com/easymodo/qimgv)
 * [2024-06-03, 03:14:15](https://news.ycombinator.com/item?id=40559015) - [Learn CSS Grid with a virtual garden game](https://cssgridgarden.com/)
 * [2024-06-02, 23:56:58](https://news.ycombinator.com/item?id=40558102) - [Formlabs Form 4 Teardown](https://www.bunniestudios.com/blog/2024/formlabs-form-4-teardown/)
-* [2024-06-02, 22:55:29](https://news.ycombinator.com/item?id=40557770) - [Lowering resource usage with foot and systemd](https://rgoswami.me/posts/lowering-resource-usage-foot-systemd/)
 * [2024-06-02, 20:54:43](https://news.ycombinator.com/item?id=40557134) - [An intuitive guide to Maxwell's equations (2020)](https://photonlines.substack.com/p/an-intuitive-guide-to-maxwells-equations)
 * [2024-06-02, 20:26:59](https://news.ycombinator.com/item?id=40556995) - [HN-text: an easy-to-use, text-first Hacker News terminal client](https://github.com/piqoni/hn-text)
 * [2024-06-02, 19:11:49](https://news.ycombinator.com/item?id=40556516) - [Just Live](https://drb.ie/articles/just-live/)
