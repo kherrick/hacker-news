@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-02](index.md)
 
+* [2024-06-02, 23:56:58](https://news.ycombinator.com/item?id=40558102) - [Formlabs Form 4 Teardown](https://www.bunniestudios.com/blog/2024/formlabs-form-4-teardown/)
 * [2024-06-02, 23:48:15](https://news.ycombinator.com/item?id=40558054) - [Building a dynamic lib plugin system for Rust](https://www.arroyo.dev/blog/rust-plugin-systems)
 * [2024-06-02, 23:33:50](https://news.ycombinator.com/item?id=40557981) - [Udio – AI Music Generator](https://www.udio.com/)
 * [2024-06-02, 23:31:00](https://news.ycombinator.com/item?id=40557969) - [Eight years of organizing tech meetups](https://notes.eatonphil.com/eight-years-of-tech-meetups.html)
