@@ -1,22 +1,22 @@
 [
   [
     [
-      "2024-06-03, 18:29:13",
-      "https://news.ycombinator.com/item?id=40565759"
+      "2024-06-03, 18:54:50",
+      "https://news.ycombinator.com/item?id=40566114"
     ],
     [
-      "It's Time to Take Phones Away from Students",
-      "https://thewalrus.ca/take-phones-away-from-students/"
+      "Harvard's largest faculty eliminates requirement for DEI statements in hiring",
+      "https://www.bostonglobe.com/2024/06/03/metro/harvard-diversity-statements-dei-faculty/"
     ]
   ],
   [
     [
-      "2024-06-03, 18:22:06",
-      "https://news.ycombinator.com/item?id=40565663"
+      "2024-06-03, 18:46:12",
+      "https://news.ycombinator.com/item?id=40565983"
     ],
     [
-      "Valve, a suggestion (about Team Fortress 2) [video]",
-      "https://www.youtube.com/watch?v=82B38TaawfE"
+      "Microwave Drills from Nuclear Fusion Tech Find Geothermal Energy Application",
+      "https://spectrum.ieee.org/geothermal-energy-gyrotron-quaise"
     ]
   ],
   [
@@ -27,26 +27,6 @@
     [
       "Libadwaita: Splitting GTK and Design Language",
       "https://tesk.page/2024/06/03/libadwaita-splitting-gtk-and-design-language/"
-    ]
-  ],
-  [
-    [
-      "2024-06-03, 17:36:13",
-      "https://news.ycombinator.com/item?id=40565087"
-    ],
-    [
-      "ModRetro",
-      "https://modretro.com/"
-    ]
-  ],
-  [
-    [
-      "2024-06-03, 17:34:42",
-      "https://news.ycombinator.com/item?id=40565060"
-    ],
-    [
-      "If English was written like Chinese",
-      "https://zompist.com/yingzi/yingzi.htm"
     ]
   ],
   [
@@ -221,6 +201,16 @@
   ],
   [
     [
+      "2024-06-03, 09:42:36",
+      "https://news.ycombinator.com/item?id=40560913"
+    ],
+    [
+      "Ruby's Timeout is dangerous and Thread.raise is terrifying (2015)",
+      "https://jvns.ca/blog/2015/11/27/why-rubys-timeout-is-dangerous-and-thread-dot-raise-is-terrifying/"
+    ]
+  ],
+  [
+    [
       "2024-06-03, 07:53:46",
       "https://news.ycombinator.com/item?id=40560300"
     ],
@@ -231,12 +221,12 @@
   ],
   [
     [
-      "2024-06-03, 05:37:27",
-      "https://news.ycombinator.com/item?id=40559657"
+      "2024-06-02, 23:56:58",
+      "https://news.ycombinator.com/item?id=40558102"
     ],
     [
-      "Qimgv – Fast, simple image viewer",
-      "https://github.com/easymodo/qimgv"
+      "Formlabs Form 4 Teardown",
+      "https://www.bunniestudios.com/blog/2024/formlabs-form-4-teardown/"
     ]
   ],
   [
@@ -251,12 +241,12 @@
   ],
   [
     [
-      "2024-06-02, 19:11:49",
-      "https://news.ycombinator.com/item?id=40556516"
+      "2024-06-02, 15:57:41",
+      "https://news.ycombinator.com/item?id=40555131"
     ],
     [
-      "Just Live",
-      "https://drb.ie/articles/just-live/"
+      "Here comes the Muybridge camera moment but for text",
+      "https://interconnected.org/home/2024/05/31/camera"
     ]
   ],
   [
@@ -281,12 +271,22 @@
   ],
   [
     [
-      "2024-06-02, 08:13:51",
-      "https://news.ycombinator.com/item?id=40552377"
+      "2024-06-02, 11:32:51",
+      "https://news.ycombinator.com/item?id=40553238"
     ],
     [
-      "The Sword of Kumdor",
-      "https://lynn.github.io/kumdor/"
+      "Scents and memories at the hospital (2019)",
+      "https://scopeblog.stanford.edu/2019/10/09/scents-and-memories-at-the-hospital/"
+    ]
+  ],
+  [
+    [
+      "2024-06-02, 08:55:52",
+      "https://news.ycombinator.com/item?id=40552581"
+    ],
+    [
+      "A deep dive into implicit thread-local storage (2018)",
+      "https://chao-tic.github.io/blog/2018/12/25/tls"
     ]
   ],
   [
