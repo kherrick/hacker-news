@@ -73,6 +73,7 @@
 * [2024-06-02, 08:13:51](https://news.ycombinator.com/item?id=40552377) - [The Sword of Kumdor](https://lynn.github.io/kumdor/)
 * [2024-06-02, 07:58:45](https://news.ycombinator.com/item?id=40552291) - [Pre-Work for Setting OKRs](https://eleganthack.com/pre-work-for-setting-okrs/)
 * [2024-06-02, 07:21:56](https://news.ycombinator.com/item?id=40552108) - [China lands Chang'e 6 sample-return probe on far side of the moon](https://www.space.com/china-change-6-lands-on-moon-far-side-sample-return-mission)
+* [2024-06-02, 07:18:08](https://news.ycombinator.com/item?id=40552090) - [Algorithms Interviews: Theory vs. Practice](https://danluu.com/algorithms-interviews/)
 * [2024-06-02, 06:57:04](https://news.ycombinator.com/item?id=40551974) - [Grain: The High-Level Language Optimized for WebAssembly](https://thenewstack.io/meet-grain-the-high-level-language-optimized-for-webassembly/)
 * [2024-06-02, 05:57:48](https://news.ycombinator.com/item?id=40551725) - [Parable of the Sofa](https://www.tbray.org/ongoing/When/202x/2024/06/01/Parable-of-the-Sofa)
 * [2024-06-02, 05:24:50](https://news.ycombinator.com/item?id=40551590) - [Highlights from \"I spent 6 years developing a game in Rust and it just shipped\"](https://gamesbymason.com/2024/06/01/wor-ama/)

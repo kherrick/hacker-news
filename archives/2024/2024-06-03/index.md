@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-03](index.md)
 
+* [2024-06-03, 19:26:51](https://news.ycombinator.com/item?id=40566533) - [Oldest largest German Minecraft server shut down and open sourced everything](https://github.com/muxcraftserver/MuxSystem)
 * [2024-06-03, 19:07:43](https://news.ycombinator.com/item?id=40566289) - [Servo Web Engine Continues Advancing but Seeing Just $1.6k in Monthly Donations](https://www.phoronix.com/news/Servo-Engine-May-2024)
+* [2024-06-03, 18:57:30](https://news.ycombinator.com/item?id=40566142) - [Political Economy of the Shire](https://nathangoldwag.wordpress.com/2024/05/31/the-moral-economy-of-the-shire/)
 * [2024-06-03, 18:54:50](https://news.ycombinator.com/item?id=40566114) - [Harvard's largest faculty eliminates requirement for DEI statements in hiring](https://www.bostonglobe.com/2024/06/03/metro/harvard-diversity-statements-dei-faculty/)
 * [2024-06-03, 18:46:12](https://news.ycombinator.com/item?id=40565983) - [Microwave Drills from Nuclear Fusion Tech Find Geothermal Energy Application](https://spectrum.ieee.org/geothermal-energy-gyrotron-quaise)
 * [2024-06-03, 18:34:11](https://news.ycombinator.com/item?id=40565828) - [Nigeria suffers national power outage as labor unions shut down grid](https://www.theguardian.com/world/article/2024/jun/03/nigeria-suffers-national-power-outage-as-labour-unions-shut-down-grid)
@@ -29,6 +31,7 @@
 * [2024-06-03, 16:00:04](https://news.ycombinator.com/item?id=40563984) - [Show HN: Brioche – A new Nix-like package manager](https://brioche.dev/blog/announcing-brioche/)
 * [2024-06-03, 15:50:39](https://news.ycombinator.com/item?id=40563876) - [Diving into Domain-Specific Languages: A Practical Guide for Developers](https://www.thebookwormsburrow.com/p/diving-into-domain-specific-languages)
 * [2024-06-03, 15:38:47](https://news.ycombinator.com/item?id=40563763) - [Ogma: Interpretable Symbolic General Problem-Solving Model](https://ogma.framer.website/)
+* [2024-06-03, 15:37:04](https://news.ycombinator.com/item?id=40563744) - [Physicists create a Bose-Einstein condensate](https://news.columbia.edu/news/coldest-lab-new-york-has-new-quantum-offering)
 * [2024-06-03, 15:35:32](https://news.ycombinator.com/item?id=40563729) - [Show HN: Show HN: Dzero – The fastest globally distributed SQLite database](https://dzero.dev)
 * [2024-06-03, 15:23:19](https://news.ycombinator.com/item?id=40563577) - [The Rise and Fall of a 17th-Century Status Symbol (2015)](https://www.atlasobscura.com/articles/dovecotes)
 * [2024-06-03, 15:03:06](https://news.ycombinator.com/item?id=40563301) - [Consumer Electronics Control](https://computer.rip/2024-06-02-consumer-electronics-control.html)
