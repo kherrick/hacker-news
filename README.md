@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-03, 03:28:29](https://news.ycombinator.com/item?id=40559073) - [Flow-Matic](https://en.wikipedia.org/wiki/FLOW-MATIC)
 * [2024-06-03, 03:07:27](https://news.ycombinator.com/item?id=40558995) - [DAK Industries Catalog, Early Fall 1985](https://archive.org/details/1985.fall.dak)
+* [2024-06-03, 03:04:53](https://news.ycombinator.com/item?id=40558982) - [AMD Instinct MI325X in Q4 2024, 288GB of HBM3E](https://ir.amd.com/news-events/press-releases/detail/1201/amd-accelerates-pace-of-data-center-ai-innovation-and)
 * [2024-06-03, 02:07:18](https://news.ycombinator.com/item?id=40558754) - [The Intellectual Obesity Crisis](https://www.gurwinder.blog/p/the-intellectual-obesity-crisis)
 * [2024-06-03, 01:39:51](https://news.ycombinator.com/item?id=40558607) - [Quake in 13kb (2021)](https://js13kgames.com/entries/q1k3)
 * [2024-06-02, 23:48:15](https://news.ycombinator.com/item?id=40558054) - [Building a dynamic lib plugin system for Rust](https://www.arroyo.dev/blog/rust-plugin-systems)
@@ -13,7 +15,6 @@
 * [2024-06-02, 20:26:59](https://news.ycombinator.com/item?id=40556995) - [HN-text: an easy-to-use, text-first Hacker News terminal client](https://github.com/piqoni/hn-text)
 * [2024-06-02, 19:37:01](https://news.ycombinator.com/item?id=40556687) - [cuDF – GPU DataFrame Library](https://github.com/rapidsai/cudf)
 * [2024-06-02, 17:44:06](https://news.ycombinator.com/item?id=40555913) - [Upgrading my Chumby 8 kernel part 10: RTC](https://www.downtowndougbrown.com/2024/06/upgrading-my-chumby-8-kernel-part-10-rtc/)
-* [2024-06-02, 16:53:04](https://news.ycombinator.com/item?id=40555506) - [Workmanship standard for crimping, interconnecting cables, harnesses, and wiring](https://standards.nasa.gov/standard/NASA/NASA-STD-87394)
 * [2024-06-02, 16:43:01](https://news.ycombinator.com/item?id=40555435) - [Ask HN: What was your most humbling learning moment?](https://news.ycombinator.com/item?id=40555435)
 * [2024-06-02, 15:57:41](https://news.ycombinator.com/item?id=40555131) - [Here comes the Muybridge camera moment but for text](https://interconnected.org/home/2024/05/31/camera)
 * [2024-06-02, 14:21:21](https://news.ycombinator.com/item?id=40554396) - [SPI Flash](https://trmm.net/SPI_flash/)
@@ -29,7 +30,6 @@
 * [2024-06-01, 05:43:16](https://news.ycombinator.com/item?id=40543196) - [L(O*62).ONG: Make your URL longer](https://loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong)
 * [2024-06-01, 03:41:02](https://news.ycombinator.com/item?id=40542691) - [David Hilbert's 1930 Radio Address [video]](https://www.youtube.com/watch?v=wuLFqgx2Pec)
 * [2024-05-31, 22:54:40](https://news.ycombinator.com/item?id=40541187) - [An accident of lighting uncovers origins of the astrolabe](https://nautil.us/the-smartphone-of-the-middle-ages-625924/)
-* [2024-05-31, 03:10:41](https://news.ycombinator.com/item?id=40531124) - [The largest stegosaurus fossil ever found heads to auction](https://www.nytimes.com/2024/05/29/science/stegosaurus-fossil-auction-sothebys.html)
 
 ## [Archives](archives/index.md)
 
