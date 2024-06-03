@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-03, 03:07:27](https://news.ycombinator.com/item?id=40558995) - [DAK Industries Catalog, Early Fall 1985](https://archive.org/details/1985.fall.dak)
 * [2024-06-03, 02:07:18](https://news.ycombinator.com/item?id=40558754) - [The Intellectual Obesity Crisis](https://www.gurwinder.blog/p/the-intellectual-obesity-crisis)
 * [2024-06-03, 01:39:51](https://news.ycombinator.com/item?id=40558607) - [Quake in 13kb (2021)](https://js13kgames.com/entries/q1k3)
 * [2024-06-02, 23:48:15](https://news.ycombinator.com/item?id=40558054) - [Building a dynamic lib plugin system for Rust](https://www.arroyo.dev/blog/rust-plugin-systems)
@@ -20,7 +21,6 @@
 * [2024-06-02, 12:53:25](https://news.ycombinator.com/item?id=40553709) - [Circle C++ with memory safety](https://www.circle-lang.org/site/intro/)
 * [2024-06-02, 12:07:07](https://news.ycombinator.com/item?id=40553448) - [Copy-and-Patch: Fast compilation for high-level languages and bytecode (2020)](https://arxiv.org/abs/2011.13127)
 * [2024-06-02, 08:55:52](https://news.ycombinator.com/item?id=40552581) - [A Deep Dive into (Implicit) Thread Local Storage](https://chao-tic.github.io/blog/2018/12/25/tls)
-* [2024-06-02, 06:57:04](https://news.ycombinator.com/item?id=40551974) - [Grain: The High-Level Language Optimized for WebAssembly](https://thenewstack.io/meet-grain-the-high-level-language-optimized-for-webassembly/)
 * [2024-06-01, 19:23:03](https://news.ycombinator.com/item?id=40548372) - [Horseshoe crab counting with New York’s citizen scientists](https://www.thecity.nyc/2024/05/29/horseshoe-crab-jamaica-bay-festival/)
 * [2024-06-01, 11:43:07](https://news.ycombinator.com/item?id=40544896) - [Why is Snapshot Isolation not enough?](http://concurrencyfreaks.blogspot.com/2023/12/why-is-snapshot-isolation-not-enough.html)
 * [2024-06-01, 11:16:18](https://news.ycombinator.com/item?id=40544716) - [Everything I know about the fast inverse square root algorithm](https://github.com/francisrstokes/githublog/blob/main/2024%2F5%2F29%2Ffast-inverse-sqrt.md)
