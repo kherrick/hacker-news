@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-06-03, 14:30:46",
-      "https://news.ycombinator.com/item?id=40562988"
+      "2024-06-03, 15:01:52",
+      "https://news.ycombinator.com/item?id=40563280"
     ],
     [
-      "The Decline of the User Interface",
-      "https://www.infoworld.com/article/3715333/the-decline-of-the-user-interface.html"
+      "Ask HN: Who wants to be hired? (June 2024)",
+      "https://news.ycombinator.com/item?id=40563280"
+    ]
+  ],
+  [
+    [
+      "2024-06-03, 14:30:25",
+      "https://news.ycombinator.com/item?id=40562984"
+    ],
+    [
+      "NYSE technical issue, incorrectly showing Berkshire Hathaway down 99%",
+      "https://www.cnbc.com/2024/06/03/nyse-technical-issue-impacting-some-stock-prices-incorrectly-showing-berkshire-hathaway-down-99percent.html"
     ]
   ],
   [
@@ -27,6 +37,16 @@
     [
       "NASA+",
       "https://plus.nasa.gov/"
+    ]
+  ],
+  [
+    [
+      "2024-06-03, 14:05:41",
+      "https://news.ycombinator.com/item?id=40562741"
+    ],
+    [
+      "What if they gave an Industrial Revolution and nobody came?",
+      "https://rootsofprogress.org/robert-allen-british-industrial-revolution"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2024-06-02, 19:37:01",
-      "https://news.ycombinator.com/item?id=40556687"
-    ],
-    [
-      "cuDF – GPU DataFrame Library",
-      "https://github.com/rapidsai/cudf"
-    ]
-  ],
-  [
-    [
       "2024-06-02, 19:11:49",
       "https://news.ycombinator.com/item?id=40556516"
     ],
@@ -217,16 +227,6 @@
     [
       "Lord Kelvin and his analog computer",
       "https://spectrum.ieee.org/tide-predictions"
-    ]
-  ],
-  [
-    [
-      "2024-06-02, 12:07:07",
-      "https://news.ycombinator.com/item?id=40553448"
-    ],
-    [
-      "Copy-and-Patch: Fast compilation for high-level languages and bytecode (2020)",
-      "https://arxiv.org/abs/2011.13127"
     ]
   ],
   [
