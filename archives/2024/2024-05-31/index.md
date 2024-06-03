@@ -113,6 +113,7 @@
 * [2024-05-31, 02:46:54](https://news.ycombinator.com/item?id=40531003) - [The Scully Effect](https://theastoundinganalogcompanion.com/2018/08/21/the-scully-effect/)
 * [2024-05-31, 02:27:32](https://news.ycombinator.com/item?id=40530884) - [Show HN: Explore Websites by Chosen Color](https://themefinder.io)
 * [2024-05-31, 02:19:20](https://news.ycombinator.com/item?id=40530833) - [AI Overviews: About last week](https://blog.google/products/search/ai-overviews-update-may-2024/)
+* [2024-05-31, 02:08:01](https://news.ycombinator.com/item?id=40530780) - [What's New in C# 13: Enhanced Params, Performance Boosts and New Extension Types](https://www.infoq.com/news/2024/05/csharp-13-preview/)
 * [2024-05-31, 02:01:12](https://news.ycombinator.com/item?id=40530742) - [All of Microsoft's MacBook Air-beating benchmarks](https://www.theverge.com/2024/5/30/24167745/microsoft-macbook-air-benchmarks-surface-laptop-copilot-plus-pc)
 * [2024-05-31, 01:57:25](https://news.ycombinator.com/item?id=40530719) - [Ask HN: How to transcribe 1000s of handwritten notes](https://news.ycombinator.com/item?id=40530719)
 * [2024-05-31, 01:49:31](https://news.ycombinator.com/item?id=40530686) - [Don't Worry about LLMs](https://vickiboykis.com/2024/05/20/dont-worry-about-llms/)
