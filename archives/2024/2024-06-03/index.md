@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-03](index.md)
 
+* [2024-06-03, 18:34:11](https://news.ycombinator.com/item?id=40565828) - [Nigeria suffers national power outage as labor unions shut down grid](https://www.theguardian.com/world/article/2024/jun/03/nigeria-suffers-national-power-outage-as-labour-unions-shut-down-grid)
+* [2024-06-03, 18:29:13](https://news.ycombinator.com/item?id=40565759) - [It's Time to Take Phones Away from Students](https://thewalrus.ca/take-phones-away-from-students/)
 * [2024-06-03, 18:15:58](https://news.ycombinator.com/item?id=40565561) - [UMD study: N95 masks nearly perfect at blocking Covid](https://today.umd.edu/n95-masks-nearly-perfect-at-blocking-covid-umd-study-shows)
 * [2024-06-03, 17:59:56](https://news.ycombinator.com/item?id=40565357) - [Libadwaita: Splitting GTK and Design Language](https://tesk.page/2024/06/03/libadwaita-splitting-gtk-and-design-language/)
 * [2024-06-03, 17:40:37](https://news.ycombinator.com/item?id=40565144) - [Ozempic (semaglutide) associated with a 50-56% reduction in alcohol addiction](https://recursiveadaptation.com/p/wegovy-and-ozempic-semaglutide-are)
@@ -19,6 +21,7 @@
 * [2024-06-03, 16:31:19](https://news.ycombinator.com/item?id=40564332) - [Go East from Seattle](https://finmoorhouse.com/writing/go-east/)
 * [2024-06-03, 16:10:02](https://news.ycombinator.com/item?id=40564104) - [Modern CSS Layouts: You Might Not Need a Framework for That](https://www.smashingmagazine.com/2024/05/modern-css-layouts-no-framework-needed/)
 * [2024-06-03, 16:07:13](https://news.ycombinator.com/item?id=40564067) - [Mamba-2 – State Space Duality](https://tridao.me/blog/2024/mamba2-part1-model/)
+* [2024-06-03, 16:00:04](https://news.ycombinator.com/item?id=40563984) - [Show HN: Brioche – A new Nix-like package manager](https://brioche.dev/blog/announcing-brioche/)
 * [2024-06-03, 15:50:39](https://news.ycombinator.com/item?id=40563876) - [Diving into Domain-Specific Languages: A Practical Guide for Developers](https://www.thebookwormsburrow.com/p/diving-into-domain-specific-languages)
 * [2024-06-03, 15:38:47](https://news.ycombinator.com/item?id=40563763) - [Ogma: Interpretable Symbolic General Problem-Solving Model](https://ogma.framer.website/)
 * [2024-06-03, 15:35:32](https://news.ycombinator.com/item?id=40563729) - [Show HN: Show HN: Dzero – The fastest globally distributed SQLite database](https://dzero.dev)

@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-03, 18:34:11](https://news.ycombinator.com/item?id=40565828) - [Nigeria suffers national power outage as labor unions shut down grid](https://www.theguardian.com/world/article/2024/jun/03/nigeria-suffers-national-power-outage-as-labour-unions-shut-down-grid)
+* [2024-06-03, 18:29:13](https://news.ycombinator.com/item?id=40565759) - [It's Time to Take Phones Away from Students](https://thewalrus.ca/take-phones-away-from-students/)
 * [2024-06-03, 18:15:58](https://news.ycombinator.com/item?id=40565561) - [UMD study: N95 masks nearly perfect at blocking Covid](https://today.umd.edu/n95-masks-nearly-perfect-at-blocking-covid-umd-study-shows)
 * [2024-06-03, 17:59:56](https://news.ycombinator.com/item?id=40565357) - [Libadwaita: Splitting GTK and Design Language](https://tesk.page/2024/06/03/libadwaita-splitting-gtk-and-design-language/)
 * [2024-06-03, 17:36:13](https://news.ycombinator.com/item?id=40565087) - [ModRetro](https://modretro.com/)
@@ -11,6 +13,7 @@
 * [2024-06-03, 16:31:19](https://news.ycombinator.com/item?id=40564332) - [Go East from Seattle](https://finmoorhouse.com/writing/go-east/)
 * [2024-06-03, 16:10:02](https://news.ycombinator.com/item?id=40564104) - [Modern CSS Layouts: You Might Not Need a Framework for That](https://www.smashingmagazine.com/2024/05/modern-css-layouts-no-framework-needed/)
 * [2024-06-03, 16:07:13](https://news.ycombinator.com/item?id=40564067) - [Mamba-2 – State Space Duality](https://tridao.me/blog/2024/mamba2-part1-model/)
+* [2024-06-03, 16:00:04](https://news.ycombinator.com/item?id=40563984) - [Show HN: Brioche – A new Nix-like package manager](https://brioche.dev/blog/announcing-brioche/)
 * [2024-06-03, 15:50:39](https://news.ycombinator.com/item?id=40563876) - [Diving into Domain-Specific Languages: A Practical Guide for Developers](https://www.thebookwormsburrow.com/p/diving-into-domain-specific-languages)
 * [2024-06-03, 15:38:47](https://news.ycombinator.com/item?id=40563763) - [Ogma: Interpretable Symbolic General Problem-Solving Model](https://ogma.framer.website/)
 * [2024-06-03, 15:23:19](https://news.ycombinator.com/item?id=40563577) - [The Rise and Fall of a 17th-Century Status Symbol (2015)](https://www.atlasobscura.com/articles/dovecotes)
@@ -24,11 +27,8 @@
 * [2024-06-03, 07:53:46](https://news.ycombinator.com/item?id=40560300) - [Making USB devices – end to end guide to your first gadget](https://popovicu.com/posts/making-usb-devices/)
 * [2024-06-03, 05:37:27](https://news.ycombinator.com/item?id=40559657) - [Qimgv – Fast, simple image viewer](https://github.com/easymodo/qimgv)
 * [2024-06-02, 20:54:43](https://news.ycombinator.com/item?id=40557134) - [An intuitive guide to Maxwell's equations (2020)](https://photonlines.substack.com/p/an-intuitive-guide-to-maxwells-equations)
-* [2024-06-02, 19:11:49](https://news.ycombinator.com/item?id=40556516) - [Just Live](https://drb.ie/articles/just-live/)
 * [2024-06-02, 12:28:23](https://news.ycombinator.com/item?id=40553566) - [The Impossibility of Translating Franz Kafka (1999)](https://www.newyorker.com/magazine/1999/01/11/the-impossibility-of-being-kafka)
 * [2024-06-02, 11:39:04](https://news.ycombinator.com/item?id=40553267) - [Show HN: Tunnelling TCP through a file](https://github.com/fiddyschmitt/File-Tunnel)
-* [2024-06-02, 08:13:51](https://news.ycombinator.com/item?id=40552377) - [The Sword of Kumdor](https://lynn.github.io/kumdor/)
-* [2024-06-02, 05:24:50](https://news.ycombinator.com/item?id=40551590) - [Highlights from \"I spent 6 years developing a game in Rust and it just shipped\"](https://gamesbymason.com/2024/06/01/wor-ama/)
 * [2024-06-01, 20:14:29](https://news.ycombinator.com/item?id=40548744) - [Hermann Grassmann and the nature of abstractions](https://github.com/Dicklesworthstone/grassman_article)
 
 ## [Archives](archives/index.md)
