@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-03](index.md)
 
+* [2024-06-03, 15:38:47](https://news.ycombinator.com/item?id=40563763) - [Ogma: Interpretable Symbolic General Problem-Solving Model](https://ogma.framer.website/)
 * [2024-06-03, 15:35:32](https://news.ycombinator.com/item?id=40563729) - [Show HN: Show HN: Dzero – The fastest globally distributed SQLite database](https://dzero.dev)
 * [2024-06-03, 15:01:54](https://news.ycombinator.com/item?id=40563283) - [Ask HN: Who is hiring? (June 2024)](https://news.ycombinator.com/item?id=40563283)
 * [2024-06-03, 15:01:52](https://news.ycombinator.com/item?id=40563280) - [Ask HN: Who wants to be hired? (June 2024)](https://news.ycombinator.com/item?id=40563280)
