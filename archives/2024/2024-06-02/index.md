@@ -50,6 +50,7 @@
 * [2024-06-02, 11:41:54](https://news.ycombinator.com/item?id=40553281) - [Want to Unlock Performance and Clarity? Use Strong Types](https://ekxide.io/blog/want-to-unlock-performance-and-clarity-use-strong-types/)
 * [2024-06-02, 11:16:29](https://news.ycombinator.com/item?id=40553164) - [Counting words in Python, Go, C++, C, Awk, Forth, and Rust (2021)](https://benhoyt.com/writings/count-words/)
 * [2024-06-02, 11:16:02](https://news.ycombinator.com/item?id=40553163) - [The Ticketmaster Data Breach May Be Just the Beginning](https://www.wired.com/story/snowflake-breach-ticketmaster-santander-ticketek-hacked/)
+* [2024-06-02, 10:42:02](https://news.ycombinator.com/item?id=40553027) - [Will we have a negative leap second? [pdf]](https://www.gps.gov/cgsic/meetings/2022/matsakis.pdf)
 * [2024-06-02, 10:17:57](https://news.ycombinator.com/item?id=40552919) - [Anthropic Chief of Staff: These next 3 years might be the last few that I work](https://www.palladiummag.com/2024/05/17/my-last-five-years-of-work/)
 * [2024-06-02, 10:16:34](https://news.ycombinator.com/item?id=40552912) - [Paged Out #4 is out](https://pagedout.institute/?page=blog.php#entry-2024-06-01)
 * [2024-06-02, 10:07:17](https://news.ycombinator.com/item?id=40552885) - [Positionhigh/MicroDexed-touch: a DX7 in a box, with a sequencer and tracker](https://codeberg.org/positionhigh/MicroDexed-touch)
