@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-06-03](index.md)
 
+* [2024-06-03, 14:30:46](https://news.ycombinator.com/item?id=40562988) - [The Decline of the User Interface](https://www.infoworld.com/article/3715333/the-decline-of-the-user-interface.html)
 * [2024-06-03, 14:22:08](https://news.ycombinator.com/item?id=40562901) - [Covid Subcommittee Releases Dr. Fauci's Transcript, Highlights Key Takeaways](https://oversight.house.gov/release/covid-select-subcommittee-releases-dr-faucis-transcript-highlights-key-takeaways-in-new-memo/)
+* [2024-06-03, 14:21:05](https://news.ycombinator.com/item?id=40562890) - [Linux Mint Disabling Unverified Flatpaks by Default](https://www.phoronix.com/news/Linux-Mint-Unverified-Flatpaks)
+* [2024-06-03, 14:19:37](https://news.ycombinator.com/item?id=40562877) - [NASA+](https://plus.nasa.gov/)
 * [2024-06-03, 13:30:16](https://news.ycombinator.com/item?id=40562444) - [AWS Chalice](https://github.com/aws/chalice)
 * [2024-06-03, 13:18:18](https://news.ycombinator.com/item?id=40562342) - [DuckDB 1.0.0](https://duckdb.org/2024/06/03/announcing-duckdb-100.html)
 * [2024-06-03, 12:56:03](https://news.ycombinator.com/item?id=40562210) - [Show HN: 10 Years to Build a Free SQL Editor](https://www.timestored.com/qstudio/release-version-3)

@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-03, 14:22:08](https://news.ycombinator.com/item?id=40562901) - [Covid Subcommittee Releases Dr. Fauci's Transcript, Highlights Key Takeaways](https://oversight.house.gov/release/covid-select-subcommittee-releases-dr-faucis-transcript-highlights-key-takeaways-in-new-memo/)
+* [2024-06-03, 14:30:46](https://news.ycombinator.com/item?id=40562988) - [The Decline of the User Interface](https://www.infoworld.com/article/3715333/the-decline-of-the-user-interface.html)
+* [2024-06-03, 14:21:05](https://news.ycombinator.com/item?id=40562890) - [Linux Mint Disabling Unverified Flatpaks by Default](https://www.phoronix.com/news/Linux-Mint-Unverified-Flatpaks)
+* [2024-06-03, 14:19:37](https://news.ycombinator.com/item?id=40562877) - [NASA+](https://plus.nasa.gov/)
 * [2024-06-03, 13:30:16](https://news.ycombinator.com/item?id=40562444) - [AWS Chalice](https://github.com/aws/chalice)
 * [2024-06-03, 12:56:03](https://news.ycombinator.com/item?id=40562210) - [Show HN: 10 Years to Build a Free SQL Editor](https://www.timestored.com/qstudio/release-version-3)
 * [2024-06-03, 12:30:30](https://news.ycombinator.com/item?id=40562029) - [Generate an OpenSCAD case template from a KiCAD PCB](https://sr.ht/~martijnbraam/turbocase/)
@@ -23,8 +25,6 @@
 * [2024-06-02, 12:07:07](https://news.ycombinator.com/item?id=40553448) - [Copy-and-Patch: Fast compilation for high-level languages and bytecode (2020)](https://arxiv.org/abs/2011.13127)
 * [2024-06-02, 11:32:51](https://news.ycombinator.com/item?id=40553238) - [Scents and Memories at the Hospital](https://scopeblog.stanford.edu/2019/10/09/scents-and-memories-at-the-hospital/)
 * [2024-06-02, 10:42:02](https://news.ycombinator.com/item?id=40553027) - [Will we have a negative leap second? [pdf] (2022)](https://www.gps.gov/cgsic/meetings/2022/matsakis.pdf)
-* [2024-06-02, 08:55:52](https://news.ycombinator.com/item?id=40552581) - [A Deep Dive into (Implicit) Thread Local Storage](https://chao-tic.github.io/blog/2018/12/25/tls)
-* [2024-06-02, 08:47:36](https://news.ycombinator.com/item?id=40552548) - [FineWeb: Decanting the web for the finest text data at scale](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1)
 * [2024-06-02, 08:13:51](https://news.ycombinator.com/item?id=40552377) - [The Sword of Kumdor](https://lynn.github.io/kumdor/)
 * [2024-06-01, 11:43:07](https://news.ycombinator.com/item?id=40544896) - [Why is Snapshot Isolation not enough?](http://concurrencyfreaks.blogspot.com/2023/12/why-is-snapshot-isolation-not-enough.html)
 * [2024-06-01, 11:16:18](https://news.ycombinator.com/item?id=40544716) - [Everything I know about the fast inverse square root algorithm](https://github.com/francisrstokes/githublog/blob/main/2024%2F5%2F29%2Ffast-inverse-sqrt.md)
