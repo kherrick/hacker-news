@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-03](index.md)
 
+* [2024-06-03, 18:54:50](https://news.ycombinator.com/item?id=40566114) - [Harvard's largest faculty eliminates requirement for DEI statements in hiring](https://www.bostonglobe.com/2024/06/03/metro/harvard-diversity-statements-dei-faculty/)
+* [2024-06-03, 18:46:12](https://news.ycombinator.com/item?id=40565983) - [Microwave Drills from Nuclear Fusion Tech Find Geothermal Energy Application](https://spectrum.ieee.org/geothermal-energy-gyrotron-quaise)
 * [2024-06-03, 18:34:11](https://news.ycombinator.com/item?id=40565828) - [Nigeria suffers national power outage as labor unions shut down grid](https://www.theguardian.com/world/article/2024/jun/03/nigeria-suffers-national-power-outage-as-labour-unions-shut-down-grid)
 * [2024-06-03, 18:29:13](https://news.ycombinator.com/item?id=40565759) - [It's Time to Take Phones Away from Students](https://thewalrus.ca/take-phones-away-from-students/)
 * [2024-06-03, 18:22:06](https://news.ycombinator.com/item?id=40565663) - [Valve, a suggestion (about Team Fortress 2) [video]](https://www.youtube.com/watch?v=82B38TaawfE)
