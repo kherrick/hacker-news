@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2024-06-02, 19:54:23",
-      "https://news.ycombinator.com/item?id=40556793"
-    ],
-    [
-      "Atomic polling intervals for highly concurrent workloads",
-      "https://www.byronwasti.com/polling-atomics/"
-    ]
-  ],
-  [
-    [
       "2024-06-02, 19:37:01",
       "https://news.ycombinator.com/item?id=40556687"
     ],
@@ -187,6 +177,16 @@
     [
       "Copy-and-Patch: Fast compilation for high-level languages and bytecode (2020)",
       "https://arxiv.org/abs/2011.13127"
+    ]
+  ],
+  [
+    [
+      "2024-06-02, 08:55:52",
+      "https://news.ycombinator.com/item?id=40552581"
+    ],
+    [
+      "A Deep Dive into (Implicit) Thread Local Storage",
+      "https://chao-tic.github.io/blog/2018/12/25/tls"
     ]
   ],
   [
