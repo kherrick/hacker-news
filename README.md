@@ -17,6 +17,7 @@
 * [2024-06-02, 16:43:01](https://news.ycombinator.com/item?id=40555435) - [Ask HN: What was your most humbling learning moment?](https://news.ycombinator.com/item?id=40555435)
 * [2024-06-02, 14:21:21](https://news.ycombinator.com/item?id=40554396) - [SPI Flash](https://trmm.net/SPI_flash/)
 * [2024-06-02, 13:17:18](https://news.ycombinator.com/item?id=40553863) - [Lord Kelvin and his analog computer](https://spectrum.ieee.org/tide-predictions)
+* [2024-06-02, 12:53:25](https://news.ycombinator.com/item?id=40553709) - [Circle C++ with memory safety](https://www.circle-lang.org/site/intro/)
 * [2024-06-02, 12:07:07](https://news.ycombinator.com/item?id=40553448) - [Copy-and-Patch: Fast compilation for high-level languages and bytecode (2020)](https://arxiv.org/abs/2011.13127)
 * [2024-06-02, 10:42:02](https://news.ycombinator.com/item?id=40553027) - [Will we have a negative leap second? [pdf]](https://www.gps.gov/cgsic/meetings/2022/matsakis.pdf)
 * [2024-06-02, 08:55:52](https://news.ycombinator.com/item?id=40552581) - [A Deep Dive into (Implicit) Thread Local Storage](https://chao-tic.github.io/blog/2018/12/25/tls)
@@ -28,7 +29,6 @@
 * [2024-06-01, 08:16:43](https://news.ycombinator.com/item?id=40543854) - [The Canon Cat, the forgotten 1987 alternate-reality Mac (2019)](https://www.fastcompany.com/90380553/meet-the-canon-cat-the-forgotten-1987-alternate-reality-mac)
 * [2024-06-01, 06:10:30](https://news.ycombinator.com/item?id=40543299) - [Call Your Local Wizard](https://slate.com/culture/2024/05/witches-wizards-magic-middle-ages-cunning-folk-book.html)
 * [2024-06-01, 05:43:16](https://news.ycombinator.com/item?id=40543196) - [L(O*62).ONG: Make your URL longer](https://loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong)
-* [2024-06-01, 03:41:02](https://news.ycombinator.com/item?id=40542691) - [David Hilbert's 1930 Radio Address [video]](https://www.youtube.com/watch?v=wuLFqgx2Pec)
 * [2024-05-31, 22:54:40](https://news.ycombinator.com/item?id=40541187) - [An accident of lighting uncovers origins of the astrolabe](https://nautil.us/the-smartphone-of-the-middle-ages-625924/)
 
 ## [Archives](archives/index.md)
