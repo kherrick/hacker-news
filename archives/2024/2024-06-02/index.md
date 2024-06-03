@@ -61,6 +61,7 @@
 * [2024-06-02, 10:16:34](https://news.ycombinator.com/item?id=40552912) - [Paged Out #4 is out](https://pagedout.institute/?page=blog.php#entry-2024-06-01)
 * [2024-06-02, 10:07:17](https://news.ycombinator.com/item?id=40552885) - [Positionhigh/MicroDexed-touch: a DX7 in a box, with a sequencer and tracker](https://codeberg.org/positionhigh/MicroDexed-touch)
 * [2024-06-02, 10:00:31](https://news.ycombinator.com/item?id=40552858) - [Don't Use include-what-you-use](https://danra.prose.sh/dont_use_iwyu)
+* [2024-06-02, 09:09:10](https://news.ycombinator.com/item?id=40552644) - [How to Walk and Talk: Everything We Know [pdf]](https://kk.org/thetechnium/files/2023/12/howtowalkandtalk.pdf)
 * [2024-06-02, 09:06:40](https://news.ycombinator.com/item?id=40552632) - [PEP 730 – Adding iOS as a supported platform](https://peps.python.org/pep-0730/)
 * [2024-06-02, 09:03:54](https://news.ycombinator.com/item?id=40552621) - [PyCon US 2024 Recap](https://katherinemichel.github.io/portfolio/pycon-us-2024-recap.html)
 * [2024-06-02, 08:55:52](https://news.ycombinator.com/item?id=40552581) - [A Deep Dive into (Implicit) Thread Local Storage](https://chao-tic.github.io/blog/2018/12/25/tls)
