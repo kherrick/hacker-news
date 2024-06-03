@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2024-06-03](index.md)
 
 * [2024-06-03, 17:40:37](https://news.ycombinator.com/item?id=40565144) - [Ozempic (semaglutide) associated with a 50-56% reduction in alcohol addiction](https://recursiveadaptation.com/p/wegovy-and-ozempic-semaglutide-are)
+* [2024-06-03, 17:36:13](https://news.ycombinator.com/item?id=40565087) - [ModRetro](https://modretro.com/)
 * [2024-06-03, 17:33:31](https://news.ycombinator.com/item?id=40565048) - [Shared Memory Versioning to improve slow interactions](https://blog.chromium.org/2024/06/introducing-shared-memory-versioning-to.html)
 * [2024-06-03, 17:32:00](https://news.ycombinator.com/item?id=40565028) - [The Most Disturbing Places We've Found Microplastics So Far](https://gizmodo.com/microplastics-in-blood-air-water-everywhere-1851492637)
+* [2024-06-03, 17:24:30](https://news.ycombinator.com/item?id=40564940) - [X has new rules that officially allow porn now](https://www.theverge.com/2024/6/3/24170352/x-xxx-porn-adult-content-terms-of-service-policy-update)
 * [2024-06-03, 17:12:25](https://news.ycombinator.com/item?id=40564785) - [The Alaska Supreme Court Takes Aerial Surveillance's Threat to Privacy Seriously](https://www.eff.org/deeplinks/2024/05/alaska-supreme-court-takes-aerial-surveillances-threat-privacy-seriously-other)
 * [2024-06-03, 17:00:45](https://news.ycombinator.com/item?id=40564642) - [Trellis (YC W24) is hiring Founding-Eng to build ETL for unstructured data with AI](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
 * [2024-06-03, 17:00:33](https://news.ycombinator.com/item?id=40564639) - [Why YC Went to DC](https://www.ycombinator.com/blog/why-yc-went-to-dc/)
@@ -31,6 +33,7 @@
 * [2024-06-03, 14:19:37](https://news.ycombinator.com/item?id=40562877) - [NASA+](https://plus.nasa.gov/)
 * [2024-06-03, 14:16:43](https://news.ycombinator.com/item?id=40562834) - [FBI Raids Big Corporate Landlord over Nationwide Rent Hikes](https://www.thebignewsletter.com/p/monopoly-round-up-fbi-raids-big-corporate)
 * [2024-06-03, 14:05:41](https://news.ycombinator.com/item?id=40562741) - [What if they gave an Industrial Revolution and nobody came?](https://rootsofprogress.org/robert-allen-british-industrial-revolution)
+* [2024-06-03, 13:31:47](https://news.ycombinator.com/item?id=40562458) - [Show HN: I made a tiny camera with super long battery life](https://toaster.llc/photon/)
 * [2024-06-03, 13:30:16](https://news.ycombinator.com/item?id=40562444) - [AWS Chalice](https://github.com/aws/chalice)
 * [2024-06-03, 13:18:18](https://news.ycombinator.com/item?id=40562342) - [DuckDB 1.0.0](https://duckdb.org/2024/06/03/announcing-duckdb-100.html)
 * [2024-06-03, 12:56:03](https://news.ycombinator.com/item?id=40562210) - [Show HN: 10 Years to Build a Free SQL Editor](https://www.timestored.com/qstudio/release-version-3)
