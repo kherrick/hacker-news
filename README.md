@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-03, 12:12:33](https://news.ycombinator.com/item?id=40561906) - [Auto-brewery syndrome in a 50-year-old woman](https://www.cmaj.ca/content/196/21/E724#msdynttrid)
+* [2024-06-03, 12:07:57](https://news.ycombinator.com/item?id=40561872) - [How many photons are received per bit transmitted from Voyager 1?](https://physics.stackexchange.com/questions/816698/how-many-photons-are-received-per-bit-transmitted-from-voyager-1)
 * [2024-06-03, 10:42:49](https://news.ycombinator.com/item?id=40561308) - [A Quartz Thermal Trap Harnessed the Sun–and Is About to Change Smelting Forever](https://www.popularmechanics.com/science/green-tech/a60829402/a-quartz-thermal-trap-harnessed-the-sunand-is-about-to-change-smelting-forever/)
 * [2024-06-03, 09:42:36](https://news.ycombinator.com/item?id=40560913) - [Why Ruby's Timeout is dangerous (and Thread.raise is terrifying) (2015)](https://jvns.ca/blog/2015/11/27/why-rubys-timeout-is-dangerous-and-thread-dot-raise-is-terrifying/)
 * [2024-06-03, 09:22:53](https://news.ycombinator.com/item?id=40560768) - [I'm forking Ladybird and stepping down as SerenityOS BDFL](https://awesomekling.substack.com/p/forking-ladybird-and-stepping-down-serenityos)
@@ -25,7 +26,6 @@
 * [2024-06-02, 10:42:02](https://news.ycombinator.com/item?id=40553027) - [Will we have a negative leap second? [pdf] (2022)](https://www.gps.gov/cgsic/meetings/2022/matsakis.pdf)
 * [2024-06-02, 08:47:36](https://news.ycombinator.com/item?id=40552548) - [FineWeb: Decanting the web for the finest text data at scale](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1)
 * [2024-06-02, 08:13:51](https://news.ycombinator.com/item?id=40552377) - [The Sword of Kumdor](https://lynn.github.io/kumdor/)
-* [2024-06-01, 19:23:32](https://news.ycombinator.com/item?id=40548376) - [Why Did She Stop Writing?](https://www.texasmonthly.com/arts-entertainment/why-did-colleen-hoover-stop-writing/)
 * [2024-06-01, 11:43:07](https://news.ycombinator.com/item?id=40544896) - [Why is Snapshot Isolation not enough?](http://concurrencyfreaks.blogspot.com/2023/12/why-is-snapshot-isolation-not-enough.html)
 * [2024-06-01, 11:16:18](https://news.ycombinator.com/item?id=40544716) - [Everything I know about the fast inverse square root algorithm](https://github.com/francisrstokes/githublog/blob/main/2024%2F5%2F29%2Ffast-inverse-sqrt.md)
 * [2024-06-01, 05:43:16](https://news.ycombinator.com/item?id=40543196) - [L(O*62).ONG: Make your URL longer](https://loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong)
