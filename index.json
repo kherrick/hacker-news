@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-06-03, 19:07:43",
-      "https://news.ycombinator.com/item?id=40566289"
+      "2024-06-03, 19:26:51",
+      "https://news.ycombinator.com/item?id=40566533"
     ],
     [
-      "Servo Web Engine Continues Advancing but Seeing Just $1.6k in Monthly Donations",
-      "https://www.phoronix.com/news/Servo-Engine-May-2024"
+      "Oldest largest German Minecraft server shut down and open sourced everything",
+      "https://github.com/muxcraftserver/MuxSystem"
+    ]
+  ],
+  [
+    [
+      "2024-06-03, 18:57:30",
+      "https://news.ycombinator.com/item?id=40566142"
+    ],
+    [
+      "Political Economy of the Shire",
+      "https://nathangoldwag.wordpress.com/2024/05/31/the-moral-economy-of-the-shire/"
     ]
   ],
   [
@@ -31,6 +41,16 @@
   ],
   [
     [
+      "2024-06-03, 17:34:42",
+      "https://news.ycombinator.com/item?id=40565060"
+    ],
+    [
+      "If English was written like Chinese (1999)",
+      "https://zompist.com/yingzi/yingzi.htm"
+    ]
+  ],
+  [
+    [
       "2024-06-03, 17:33:31",
       "https://news.ycombinator.com/item?id=40565048"
     ],
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=40564642"
     ],
     [
-      "Trellis (YC W24) is hiring Founding-Eng to build ETL for unstructured data with AI",
+      "Trellis (YC W24) is hiring a founding engineer – build ETL for unstructured data",
       "https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra"
     ]
   ],
@@ -131,11 +151,21 @@
   ],
   [
     [
+      "2024-06-03, 15:37:04",
+      "https://news.ycombinator.com/item?id=40563744"
+    ],
+    [
+      "Physicists create a Bose-Einstein condensate",
+      "https://news.columbia.edu/news/coldest-lab-new-york-has-new-quantum-offering"
+    ]
+  ],
+  [
+    [
       "2024-06-03, 15:23:19",
       "https://news.ycombinator.com/item?id=40563577"
     ],
     [
-      "The Rise and Fall of a 17th-Century Status Symbol (2015)",
+      "Pigeon towers: The rise and fall of a 17th-century status symbol",
       "https://www.atlasobscura.com/articles/dovecotes"
     ]
   ],
@@ -231,42 +261,12 @@
   ],
   [
     [
-      "2024-06-02, 23:56:58",
-      "https://news.ycombinator.com/item?id=40558102"
+      "2024-06-02, 12:28:23",
+      "https://news.ycombinator.com/item?id=40553566"
     ],
     [
-      "Formlabs Form 4 Teardown",
-      "https://www.bunniestudios.com/blog/2024/formlabs-form-4-teardown/"
-    ]
-  ],
-  [
-    [
-      "2024-06-02, 20:54:43",
-      "https://news.ycombinator.com/item?id=40557134"
-    ],
-    [
-      "An intuitive guide to Maxwell's equations (2020)",
-      "https://photonlines.substack.com/p/an-intuitive-guide-to-maxwells-equations"
-    ]
-  ],
-  [
-    [
-      "2024-06-02, 15:57:41",
-      "https://news.ycombinator.com/item?id=40555131"
-    ],
-    [
-      "Here comes the Muybridge camera moment but for text",
-      "https://interconnected.org/home/2024/05/31/camera"
-    ]
-  ],
-  [
-    [
-      "2024-06-02, 11:39:04",
-      "https://news.ycombinator.com/item?id=40553267"
-    ],
-    [
-      "Show HN: Tunnelling TCP through a file",
-      "https://github.com/fiddyschmitt/File-Tunnel"
+      "The impossibility of translating Franz Kafka (1999)",
+      "https://www.newyorker.com/magazine/1999/01/11/the-impossibility-of-being-kafka"
     ]
   ],
   [
@@ -281,12 +281,12 @@
   ],
   [
     [
-      "2024-06-02, 08:55:52",
-      "https://news.ycombinator.com/item?id=40552581"
+      "2024-06-02, 07:18:08",
+      "https://news.ycombinator.com/item?id=40552090"
     ],
     [
-      "A deep dive into implicit thread-local storage (2018)",
-      "https://chao-tic.github.io/blog/2018/12/25/tls"
+      "Algorithms Interviews: Theory vs. Practice",
+      "https://danluu.com/algorithms-interviews/"
     ]
   ],
   [
