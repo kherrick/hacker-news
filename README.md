@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-04, 05:07:57](https://news.ycombinator.com/item?id=40570892) - [Koheesio: Nike's Python-based framework to build advanced data-pipelines](https://github.com/Nike-Inc/koheesio)
-* [2024-06-04, 04:46:58](https://news.ycombinator.com/item?id=40570781) - [Hacking Millions of Modems (and Investigating Who Hacked My Modem)](https://samcurry.net/hacking-millions-of-modems)
+* [2024-06-04, 04:46:58](https://news.ycombinator.com/item?id=40570781) - [Hacking millions of modems and investigating who hacked my modem](https://samcurry.net/hacking-millions-of-modems)
 * [2024-06-04, 03:17:48](https://news.ycombinator.com/item?id=40570356) - [Intel Unveils Lunar Lake Architecture](https://www.anandtech.com/show/21425/intel-lunar-lake-architecture-deep-dive-lion-cove-xe2-and-npu4)
 * [2024-06-04, 03:11:18](https://news.ycombinator.com/item?id=40570326) - [Intel's Lion Cove Architecture Preview](https://chipsandcheese.com/2024/06/03/intels-lion-cove-architecture-preview/)
 * [2024-06-04, 02:32:47](https://news.ycombinator.com/item?id=40570131) - [Rare and Amusing Insults, Volume 2](https://www.merriam-webster.com/wordplay/top-10-rare-and-amusing-insults-vol-2)
@@ -14,7 +14,7 @@
 * [2024-06-03, 18:46:12](https://news.ycombinator.com/item?id=40565983) - [Fusion tech finds geothermal energy application](https://spectrum.ieee.org/geothermal-energy-gyrotron-quaise)
 * [2024-06-03, 17:34:42](https://news.ycombinator.com/item?id=40565060) - [If English was written like Chinese (1999)](https://zompist.com/yingzi/yingzi.htm)
 * [2024-06-03, 17:00:33](https://news.ycombinator.com/item?id=40564639) - [Why YC went to DC](https://www.ycombinator.com/blog/why-yc-went-to-dc/)
-* [2024-06-03, 16:07:33](https://news.ycombinator.com/item?id=40564079) - [Feynman Computer Science Lecture – Hardware, Software, Heuristics (1985) [video]](https://www.youtube.com/watch?v=EKWGGDXe5MA)
+* [2024-06-03, 16:48:30](https://news.ycombinator.com/item?id=40564520) - [Cirkoban: Sokoban meets cellular automata written in Scheme](https://spritely.institute/news/cirkoban-sokoban-meets-cellular-automata-written-in-scheme.html)
 * [2024-06-03, 16:07:13](https://news.ycombinator.com/item?id=40564067) - [Mamba-2 – State Space Duality](https://tridao.me/blog/2024/mamba2-part1-model/)
 * [2024-06-03, 16:00:04](https://news.ycombinator.com/item?id=40563984) - [Show HN: Brioche – A new Nix-like package manager](https://brioche.dev/blog/announcing-brioche/)
 * [2024-06-03, 15:01:54](https://news.ycombinator.com/item?id=40563283) - [Ask HN: Who is hiring? (June 2024)](https://news.ycombinator.com/item?id=40563283)
