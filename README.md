@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-04, 02:33:37](https://news.ycombinator.com/item?id=40570135) - [Radial Menus in Video Games](https://champicky.com/2022/01/21/radial-menus-in-video-games/)
 * [2024-06-04, 01:57:29](https://news.ycombinator.com/item?id=40569949) - [New telescope images of Jupiter's moon Io rival those from spacecraft](https://phys.org/news/2024-05-glimpses-volcanic-world-telescope-images.html)
 * [2024-06-04, 00:52:27](https://news.ycombinator.com/item?id=40569531) - [Diffusion on Syntax Trees for Program Synthesis](https://tree-diffusion.github.io/)
 * [2024-06-04, 00:39:22](https://news.ycombinator.com/item?id=40569458) - [Please support \"skip to main content\" on your docs site](https://technicalwriting.dev/a11y/skip.html)
@@ -15,7 +16,6 @@
 * [2024-06-03, 16:07:33](https://news.ycombinator.com/item?id=40564079) - [Feynman Computer Science Lecture – Hardware, Software, Heuristics (1985) [video]](https://www.youtube.com/watch?v=EKWGGDXe5MA)
 * [2024-06-03, 16:07:13](https://news.ycombinator.com/item?id=40564067) - [Mamba-2 – State Space Duality](https://tridao.me/blog/2024/mamba2-part1-model/)
 * [2024-06-03, 15:23:19](https://news.ycombinator.com/item?id=40563577) - [Pigeon towers: The rise and fall of a 17th-century status symbol (2015)](https://www.atlasobscura.com/articles/dovecotes)
-* [2024-06-03, 15:03:06](https://news.ycombinator.com/item?id=40563301) - [Consumer Electronics Control](https://computer.rip/2024-06-02-consumer-electronics-control.html)
 * [2024-06-03, 15:01:54](https://news.ycombinator.com/item?id=40563283) - [Ask HN: Who is hiring? (June 2024)](https://news.ycombinator.com/item?id=40563283)
 * [2024-06-03, 15:01:52](https://news.ycombinator.com/item?id=40563280) - [Ask HN: Who wants to be hired? (June 2024)](https://news.ycombinator.com/item?id=40563280)
 * [2024-06-03, 14:05:41](https://news.ycombinator.com/item?id=40562741) - [What if they gave an Industrial Revolution and nobody came? (2023)](https://rootsofprogress.org/robert-allen-british-industrial-revolution)
@@ -23,7 +23,7 @@
 * [2024-06-03, 12:56:03](https://news.ycombinator.com/item?id=40562210) - [Show HN: 10 Years to Build a Free SQL Editor](https://www.timestored.com/qstudio/release-version-3)
 * [2024-06-03, 12:07:57](https://news.ycombinator.com/item?id=40561872) - [How many photons are received per bit transmitted from Voyager 1?](https://physics.stackexchange.com/questions/816698/how-many-photons-are-received-per-bit-transmitted-from-voyager-1)
 * [2024-06-03, 09:22:53](https://news.ycombinator.com/item?id=40560768) - [I'm forking Ladybird and stepping down as SerenityOS BDFL](https://awesomekling.substack.com/p/forking-ladybird-and-stepping-down-serenityos)
-* [2024-06-02, 12:28:23](https://news.ycombinator.com/item?id=40553566) - [The impossibility of translating Franz Kafka (1999)](https://www.newyorker.com/magazine/1999/01/11/the-impossibility-of-being-kafka)
+* [2024-06-02, 19:28:10](https://news.ycombinator.com/item?id=40556627) - [How to make a great government website](https://asteriskmag.com/issues/06/how-to-make-a-great-government-website)
 * [2024-06-02, 12:23:44](https://news.ycombinator.com/item?id=40553541) - [Optimizing 128-bit Division (2020)](https://danlark.org/2020/06/14/128-bit-division/)
 * [2024-06-02, 11:39:04](https://news.ycombinator.com/item?id=40553267) - [Show HN: Tunnelling TCP through a file](https://github.com/fiddyschmitt/File-Tunnel)
 * [2024-06-02, 09:09:10](https://news.ycombinator.com/item?id=40552644) - [How to Walk and Talk: Everything We Know (2023) [pdf]](https://kk.org/thetechnium/files/2023/12/howtowalkandtalk.pdf)
