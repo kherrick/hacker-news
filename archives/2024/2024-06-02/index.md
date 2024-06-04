@@ -44,6 +44,7 @@
 * [2024-06-02, 13:19:47](https://news.ycombinator.com/item?id=40553881) - [Hugging Face detected 'unauthorized access' to its AI model hosting platform](https://techcrunch.com/2024/05/31/hugging-face-says-it-detected-unauthorized-access-to-its-ai-model-hosting-platform/)
 * [2024-06-02, 13:17:18](https://news.ycombinator.com/item?id=40553863) - [Lord Kelvin and His Analog Computer](https://spectrum.ieee.org/tide-predictions)
 * [2024-06-02, 13:11:49](https://news.ycombinator.com/item?id=40553818) - [Ask HN: Time to discourage \"I asked ChatGPT\" comments?](https://news.ycombinator.com/item?id=40553818)
+* [2024-06-02, 12:55:25](https://news.ycombinator.com/item?id=40553720) - [Ligra – an open source image projector based off of flea marked parts](https://github.com/Jana-Marie/ligra)
 * [2024-06-02, 12:53:25](https://news.ycombinator.com/item?id=40553709) - [Circle C++ with Memory Safety](https://www.circle-lang.org/site/intro/)
 * [2024-06-02, 12:50:04](https://news.ycombinator.com/item?id=40553684) - [Windows: A Software Engineering Odyssey](https://danluu.com/microsoft-culture/)
 * [2024-06-02, 12:28:23](https://news.ycombinator.com/item?id=40553566) - [The Impossibility of Translating Franz Kafka (1999)](https://www.newyorker.com/magazine/1999/01/11/the-impossibility-of-being-kafka)
