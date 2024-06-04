@@ -30,6 +30,7 @@
 * [2024-06-02, 16:53:04](https://news.ycombinator.com/item?id=40555506) - [Workmanship Standard for Crimping, Interconnecting Cables, Harnesses, and Wiring](https://standards.nasa.gov/standard/NASA/NASA-STD-87394)
 * [2024-06-02, 16:43:01](https://news.ycombinator.com/item?id=40555435) - [Ask HN: What was your most humbling learning moment?](https://news.ycombinator.com/item?id=40555435)
 * [2024-06-02, 16:42:03](https://news.ycombinator.com/item?id=40555431) - [Parsing JSON Is a Minefield](https://seriot.ch/projects/parsing_json.html)
+* [2024-06-02, 16:39:31](https://news.ycombinator.com/item?id=40555415) - [A Brief Look at the 3DS Cartridge Protocol](https://blog.winter-software.com/2024/06/02/ctr-cart-protocol)
 * [2024-06-02, 15:57:41](https://news.ycombinator.com/item?id=40555131) - [Here comes the Muybridge camera moment but for text. Photoshop too](https://interconnected.org/home/2024/05/31/camera)
 * [2024-06-02, 15:55:56](https://news.ycombinator.com/item?id=40555116) - [Hotwire: HTML Over The Wire](https://hotwired.dev/)
 * [2024-06-02, 15:35:55](https://news.ycombinator.com/item?id=40554979) - [Homeschooling](https://www.teamten.com/lawrence/writings/homeschooling.html)
