@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-04, 09:47:03](https://news.ycombinator.com/item?id=40572501) - [Using Vectorize to build an unreasonably good search engine in 160 lines of code](https://blog.partykit.io/posts/using-vectorize-to-build-search/)
 * [2024-06-04, 09:10:10](https://news.ycombinator.com/item?id=40572289) - [Microsoft blocks Windows 11 workaround that enabled local accounts](https://www.pcworld.com/article/2354686/microsoft-blocks-windows-11-workaround-local-accounts.html)
 * [2024-06-04, 08:42:57](https://news.ycombinator.com/item?id=40572107) - [Epoch Times CFO charged in $67M crypto money laundering plot](https://www.bbc.com/news/articles/cg66xe59zyeo)
 * [2024-06-04, 08:15:00](https://news.ycombinator.com/item?id=40571940) - [Excess mortality across the Western World since the Covid pandemic](https://bmjpublichealth.bmj.com/content/2/1/e000282)
@@ -16,7 +17,6 @@
 * [2024-06-03, 21:06:06](https://news.ycombinator.com/item?id=40567562) - [SnapMagic (YC S15), AI copilot for electronics, is hiring a PM](https://careers.snapmagic.com/o/technical-project-manager)
 * [2024-06-03, 20:27:21](https://news.ycombinator.com/item?id=40567165) - [Grokfast: Accelerated Grokking by Amplifying Slow Gradients](https://arxiv.org/abs/2405.20233)
 * [2024-06-03, 18:57:30](https://news.ycombinator.com/item?id=40566142) - [The Moral Economy of the Shire](https://nathangoldwag.wordpress.com/2024/05/31/the-moral-economy-of-the-shire/)
-* [2024-06-03, 17:34:42](https://news.ycombinator.com/item?id=40565060) - [If English was written like Chinese (1999)](https://zompist.com/yingzi/yingzi.htm)
 * [2024-06-03, 17:00:33](https://news.ycombinator.com/item?id=40564639) - [Why YC went to DC](https://www.ycombinator.com/blog/why-yc-went-to-dc/)
 * [2024-06-03, 16:00:04](https://news.ycombinator.com/item?id=40563984) - [Show HN: Brioche – A new Nix-like package manager](https://brioche.dev/blog/announcing-brioche/)
 * [2024-06-03, 12:07:57](https://news.ycombinator.com/item?id=40561872) - [How many photons are received per bit transmitted from Voyager 1?](https://physics.stackexchange.com/questions/816698/how-many-photons-are-received-per-bit-transmitted-from-voyager-1)
