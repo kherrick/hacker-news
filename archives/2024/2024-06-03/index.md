@@ -86,6 +86,7 @@
 * [2024-06-03, 09:10:48](https://news.ycombinator.com/item?id=40560688) - [OpenAI Integrated Webapp| Claims to Generate Website in 10 Seconds](https://www.netjet.io/en/how-to-build-a-website-in-10-seconds)
 * [2024-06-03, 08:13:47](https://news.ycombinator.com/item?id=40560391) - [EU: Users who refuse scanning to be prevented from sharing photos and links](https://www.patrick-breyer.de/en/majority-for-chat-control-possible-users-who-refuse-scanning-to-be-prevented-from-sharing-photos-and-links/)
 * [2024-06-03, 07:53:46](https://news.ycombinator.com/item?id=40560300) - [Making USB devices – end to end guide to your first gadget](https://popovicu.com/posts/making-usb-devices/)
+* [2024-06-03, 07:40:41](https://news.ycombinator.com/item?id=40560233) - [The simdjson library](https://simdjson.org/)
 * [2024-06-03, 07:10:02](https://news.ycombinator.com/item?id=40560101) - [In which five different paths lead to methods](https://technomancy.us/197)
 * [2024-06-03, 05:37:27](https://news.ycombinator.com/item?id=40559657) - [Qimgv – Fast, simple image viewer](https://github.com/easymodo/qimgv)
 * [2024-06-03, 04:46:13](https://news.ycombinator.com/item?id=40559416) - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4360841006)
