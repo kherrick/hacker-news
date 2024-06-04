@@ -48,6 +48,7 @@
 * [2024-06-02, 12:28:23](https://news.ycombinator.com/item?id=40553566) - [The Impossibility of Translating Franz Kafka (1999)](https://www.newyorker.com/magazine/1999/01/11/the-impossibility-of-being-kafka)
 * [2024-06-02, 12:26:43](https://news.ycombinator.com/item?id=40553557) - [Advertising Broke the World](https://www.wired.com/story/death-of-truth-misinformation-advertising/)
 * [2024-06-02, 12:25:57](https://news.ycombinator.com/item?id=40553551) - [Monads are like burritos (2009)](https://blog.plover.com/prog/burritos.html)
+* [2024-06-02, 12:23:44](https://news.ycombinator.com/item?id=40553541) - [Optimizing 128-bit Division (2020)](https://danlark.org/2020/06/14/128-bit-division/)
 * [2024-06-02, 12:21:00](https://news.ycombinator.com/item?id=40553526) - [Simple Equation Predicts the Shapes of Carbon-Capturing Wetlands](https://www.quantamagazine.org/simple-equation-predicts-the-shapes-of-carbon-capturing-wetlands-20240528/)
 * [2024-06-02, 12:07:07](https://news.ycombinator.com/item?id=40553448) - [Copy-and-Patch Compilation: fast compilation algorithm for high-level languages](https://arxiv.org/abs/2011.13127)
 * [2024-06-02, 11:55:46](https://news.ycombinator.com/item?id=40553375) - [The Collapse Is Coming. Will Humanity Adapt?](https://nautil.us/the-collapse-is-coming-will-humanity-adapt-626051/)
