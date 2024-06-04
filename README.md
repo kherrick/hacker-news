@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-04, 22:15:16](https://news.ycombinator.com/item?id=40579508) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
-* [2024-06-04, 21:45:57](https://news.ycombinator.com/item?id=40579278) - [US Job openings fall to new 3-year low](https://www.cnn.com/2024/06/04/economy/job-openings-quits-jolts-april/index.html)
 * [2024-06-04, 20:39:52](https://news.ycombinator.com/item?id=40578705) - [An animated introduction to Fourier series](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles)
 * [2024-06-04, 20:34:30](https://news.ycombinator.com/item?id=40578668) - [Some notes on influenceering](https://lcamtuf.substack.com/p/some-notes-on-influenceering)
 * [2024-06-04, 20:10:23](https://news.ycombinator.com/item?id=40578460) - [Things the guys who stole my phone have texted me to try to get me to unlock it](https://gothamist.com/news/things-the-guys-who-stole-my-phone-have-texted-me-to-try-to-get-me-to-unlock-it)
@@ -13,6 +12,7 @@
 * [2024-06-04, 18:51:34](https://news.ycombinator.com/item?id=40577726) - [Influencer cartels manipulate social media](https://cepr.org/voxeu/columns/how-influencer-cartels-manipulate-social-media-fraudulent-behaviour-hidden-plain)
 * [2024-06-04, 18:41:02](https://news.ycombinator.com/item?id=40577622) - [Attacking Android Binder: Analysis and Exploitation of CVE-2023-20938](https://androidoffsec.withgoogle.com/posts/attacking-android-binder-analysis-and-exploitation-of-cve-2023-20938/)
 * [2024-06-04, 18:13:11](https://news.ycombinator.com/item?id=40577338) - [Deception abilities emerged in large language models](https://www.pnas.org/doi/full/10.1073/pnas.2317967121)
+* [2024-06-04, 18:00:44](https://news.ycombinator.com/item?id=40577216) - [Mozilla Builders Accelerator 2024](https://future.mozilla.org/builders/)
 * [2024-06-04, 16:20:49](https://news.ycombinator.com/item?id=40576132) - [Why do electronic components have such odd values? (2021)](https://digilent.com/blog/why-do-electronic-components-have-such-odd-values/)
 * [2024-06-04, 15:22:31](https://news.ycombinator.com/item?id=40575538) - [Show HN: Shortbread App – AI-powered, romantic comics for women](https://www.shortbreadapp.com/)
 * [2024-06-04, 12:29:16](https://news.ycombinator.com/item?id=40573790) - [Show HN: PlayBooks – Jupyter Notebooks style on-call investigation documents](https://github.com/DrDroidLab/PlayBooks)
