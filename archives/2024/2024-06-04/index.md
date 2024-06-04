@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-04](index.md)
 
+* [2024-06-04, 18:51:22](https://news.ycombinator.com/item?id=40577724) - [AI's Desperate Hunger for News Training Data Has Publishers Fighting Back](https://tvnewscheck.com/ai/article/ais-desperate-hunger-for-news-training-data-has-publishers-fighting-back-heres-how/)
 * [2024-06-04, 18:10:07](https://news.ycombinator.com/item?id=40577315) - [Charge Robotics (YC S21) is hiring SWEs to build solar construction robots](https://www.workatastartup.com/jobs/51266)
 * [2024-06-04, 18:00:44](https://news.ycombinator.com/item?id=40577216) - [Mozilla Builders Accelerator 2024](https://future.mozilla.org/builders/)
 * [2024-06-04, 17:54:34](https://news.ycombinator.com/item?id=40577170) - [ChatGPT Is at Capacity Right Now](https://heymusic.ai/music/chatgpt-is-at-capacity-right-now-0nZWQ)

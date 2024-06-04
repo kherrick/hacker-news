@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-04, 18:51:22](https://news.ycombinator.com/item?id=40577724) - [AI's Desperate Hunger for News Training Data Has Publishers Fighting Back](https://tvnewscheck.com/ai/article/ais-desperate-hunger-for-news-training-data-has-publishers-fighting-back-heres-how/)
 * [2024-06-04, 18:10:07](https://news.ycombinator.com/item?id=40577315) - [Charge Robotics (YC S21) is hiring SWEs to build solar construction robots](https://www.workatastartup.com/jobs/51266)
 * [2024-06-04, 18:00:44](https://news.ycombinator.com/item?id=40577216) - [Mozilla Builders Accelerator 2024](https://future.mozilla.org/builders/)
 * [2024-06-04, 17:52:27](https://news.ycombinator.com/item?id=40577150) - [Job openings fall to lowest level since February 2021](https://finance.yahoo.com/news/job-openings-fall-to-lowest-level-since-february-2021-141149453.html)
 * [2024-06-04, 17:15:00](https://news.ycombinator.com/item?id=40576804) - [No physics? No problem. AI weather forecasting is already making strides](https://arstechnica.com/ai/2024/06/as-a-potentially-historic-hurricane-season-looms-can-ai-forecast-models-help/)
 * [2024-06-04, 16:20:49](https://news.ycombinator.com/item?id=40576132) - [Why do electronic components have such odd values? (2021)](https://digilent.com/blog/why-do-electronic-components-have-such-odd-values/)
 * [2024-06-04, 16:09:35](https://news.ycombinator.com/item?id=40576030) - [Databricks to Buy Data-Management Startup Tabular](https://www.wsj.com/articles/databricks-to-buy-data-management-startup-tabular-in-bid-for-ai-clients-829e5bcf)
-* [2024-06-04, 16:04:32](https://news.ycombinator.com/item?id=40575986) - [Nvidia and Salesforce double down on AI startup Cohere in $450M round](https://finance.yahoo.com/news/nvidia-salesforce-double-down-ai-152311241.html)
 * [2024-06-04, 15:22:31](https://news.ycombinator.com/item?id=40575538) - [Show HN: Shortbread App – AI-powered, romantic comics for women](https://www.shortbreadapp.com/)
 * [2024-06-04, 14:36:49](https://news.ycombinator.com/item?id=40575081) - [CO2 helps viruses stay alive longer in the air](https://www.statnews.com/2024/06/04/co2-ventilation-research-virus-airborne-life-haddrell-celebs/)
 * [2024-06-04, 13:42:03](https://news.ycombinator.com/item?id=40574562) - [Reverse Z in 3D graphics (and why it's so awesome)](https://tomhultonharrop.com/mathematics/graphics/2023/08/06/reverse-z.html)
