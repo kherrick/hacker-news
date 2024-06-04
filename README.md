@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-04, 15:22:50](https://news.ycombinator.com/item?id=40575539) - [Claude is unavailable for some users. Web and Mobile.](https://status.anthropic.com)
+* [2024-06-04, 14:18:40](https://news.ycombinator.com/item?id=40574912) - [Instagram confirms test of 'unskippable' ads](https://techcrunch.com/2024/06/03/instagram-confirms-test-of-unskippable-ads/)
 * [2024-06-04, 13:42:03](https://news.ycombinator.com/item?id=40574562) - [Reverse Z in 3D graphics (and why it's so awesome)](https://tomhultonharrop.com/mathematics/graphics/2023/08/06/reverse-z.html)
 * [2024-06-04, 12:31:31](https://news.ycombinator.com/item?id=40573814) - [Electing the Doge of Venice: analysis of a 13th Century protocol [pdf] (2007)](https://rangevoting.org/HPL-2007-28R1.pdf)
 * [2024-06-04, 12:00:22](https://news.ycombinator.com/item?id=40573535) - [Langfuse (YC W23): Hiring Product Engineer (In-Person, Open Source)](https://github.com/langfuse/langfuse/blob/main/careers)

@@ -6,6 +6,7 @@
 
 * [2024-06-04, 15:22:50](https://news.ycombinator.com/item?id=40575539) - [Claude is unavailable for some users. Web and Mobile.](https://status.anthropic.com)
 * [2024-06-04, 15:10:44](https://news.ycombinator.com/item?id=40575425) - [Tokyo dating app to promote marriage, keep out phonies](https://www.asahi.com/ajw/articles/15292637)
+* [2024-06-04, 14:18:40](https://news.ycombinator.com/item?id=40574912) - [Instagram confirms test of 'unskippable' ads](https://techcrunch.com/2024/06/03/instagram-confirms-test-of-unskippable-ads/)
 * [2024-06-04, 13:46:55](https://news.ycombinator.com/item?id=40574604) - ['Extremely impressive': melanoma jab trial results excite doctors](https://www.theguardian.com/society/article/2024/jun/03/extremely-impressive-melanoma-jab-trial-results-excite-doctors)
 * [2024-06-04, 13:42:03](https://news.ycombinator.com/item?id=40574562) - [Reverse Z in 3D graphics (and why it's so awesome)](https://tomhultonharrop.com/mathematics/graphics/2023/08/06/reverse-z.html)
 * [2024-06-04, 13:30:30](https://news.ycombinator.com/item?id=40574436) - [The FBI ran a cell phone company for criminals](https://www.npr.org/2024/05/31/1197959218/fbi-phone-company-anom)
