@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-04](index.md)
 
+* [2024-06-04, 12:43:03](https://news.ycombinator.com/item?id=40573932) - [Siemens' battery trains set to save £3.5B and consign diesel trains to history](https://railuk.com/electrification/siemens-british-battery-trains-set-to-save-3-5bn-and-consign-diesel-trains-to-history/)
 * [2024-06-04, 12:34:13](https://news.ycombinator.com/item?id=40573843) - [Harvard's Largest Faculty Division Will No Longer Require Diversity Statements](https://www.nytimes.com/2024/06/03/us/harvard-diversity-statements.html)
 * [2024-06-04, 12:31:31](https://news.ycombinator.com/item?id=40573814) - [Electing the Doge of Venice: analysis of a 13th Century protocol [pdf]](https://rangevoting.org/HPL-2007-28R1.pdf)
 * [2024-06-04, 12:17:33](https://news.ycombinator.com/item?id=40573693) - [The world's largest 3D printer is building cozy homes from wood](https://www.cnn.com/style/worlds-largest-3d-printer-homes-maine-hnk-spc-intl/index.html)
