@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-04, 01:17:54](https://news.ycombinator.com/item?id=40569686) - [Show HN: I created a Chrome extension that block media giants in Google search](https://chromewebstore.google.com/detail/secondpage-google-searche/koaojhnbfmmjnagblonbfilccbagjpgm)
 * [2024-06-04, 00:52:27](https://news.ycombinator.com/item?id=40569531) - [Diffusion on Syntax Trees for Program Synthesis](https://tree-diffusion.github.io/)
 * [2024-06-04, 00:39:22](https://news.ycombinator.com/item?id=40569458) - [Please support \"skip to main content\" on your docs site](https://technicalwriting.dev/a11y/skip.html)
 * [2024-06-03, 22:45:08](https://news.ycombinator.com/item?id=40568515) - [Psychedelics are challenging the standard of randomized controlled trials](https://www.theatlantic.com/health/archive/2024/06/psychedelics-mdma-ptsd-fda-placebo/678588/)
@@ -16,6 +15,7 @@
 * [2024-06-03, 16:07:33](https://news.ycombinator.com/item?id=40564079) - [Feynman Computer Science Lecture – Hardware, Software, Heuristics (1985) [video]](https://www.youtube.com/watch?v=EKWGGDXe5MA)
 * [2024-06-03, 16:07:13](https://news.ycombinator.com/item?id=40564067) - [Mamba-2 – State Space Duality](https://tridao.me/blog/2024/mamba2-part1-model/)
 * [2024-06-03, 15:23:19](https://news.ycombinator.com/item?id=40563577) - [Pigeon towers: The rise and fall of a 17th-century status symbol (2015)](https://www.atlasobscura.com/articles/dovecotes)
+* [2024-06-03, 15:03:06](https://news.ycombinator.com/item?id=40563301) - [Consumer Electronics Control](https://computer.rip/2024-06-02-consumer-electronics-control.html)
 * [2024-06-03, 15:01:54](https://news.ycombinator.com/item?id=40563283) - [Ask HN: Who is hiring? (June 2024)](https://news.ycombinator.com/item?id=40563283)
 * [2024-06-03, 15:01:52](https://news.ycombinator.com/item?id=40563280) - [Ask HN: Who wants to be hired? (June 2024)](https://news.ycombinator.com/item?id=40563280)
 * [2024-06-03, 14:05:41](https://news.ycombinator.com/item?id=40562741) - [What if they gave an Industrial Revolution and nobody came? (2023)](https://rootsofprogress.org/robert-allen-british-industrial-revolution)
