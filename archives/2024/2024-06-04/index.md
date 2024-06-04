@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-04](index.md)
 
 * [2024-06-04, 22:15:16](https://news.ycombinator.com/item?id=40579508) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
+* [2024-06-04, 21:45:57](https://news.ycombinator.com/item?id=40579278) - [US Job openings fall to new 3-year low](https://www.cnn.com/2024/06/04/economy/job-openings-quits-jolts-april/index.html)
 * [2024-06-04, 21:06:20](https://news.ycombinator.com/item?id=40578937) - [Neovim decision to use Lua is paying off](https://old.reddit.com/r/neovim/comments/1d6jy4h/neovim_decision_to_use_lua_is_truly_paying_off/)
 * [2024-06-04, 21:00:49](https://news.ycombinator.com/item?id=40578884) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-06-04, 20:39:52](https://news.ycombinator.com/item?id=40578705) - [An animated introduction to Fourier Series](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles)
