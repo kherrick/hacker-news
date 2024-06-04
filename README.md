@@ -15,6 +15,7 @@
 * [2024-06-03, 16:07:33](https://news.ycombinator.com/item?id=40564079) - [Feynman Computer Science Lecture – Hardware, Software, Heuristics (1985) [video]](https://www.youtube.com/watch?v=EKWGGDXe5MA)
 * [2024-06-03, 16:07:13](https://news.ycombinator.com/item?id=40564067) - [Mamba-2 – State Space Duality](https://tridao.me/blog/2024/mamba2-part1-model/)
 * [2024-06-03, 15:23:19](https://news.ycombinator.com/item?id=40563577) - [Pigeon towers: The rise and fall of a 17th-century status symbol (2015)](https://www.atlasobscura.com/articles/dovecotes)
+* [2024-06-03, 15:03:06](https://news.ycombinator.com/item?id=40563301) - [Consumer Electronics Control](https://computer.rip/2024-06-02-consumer-electronics-control.html)
 * [2024-06-03, 15:01:54](https://news.ycombinator.com/item?id=40563283) - [Ask HN: Who is hiring? (June 2024)](https://news.ycombinator.com/item?id=40563283)
 * [2024-06-03, 15:01:52](https://news.ycombinator.com/item?id=40563280) - [Ask HN: Who wants to be hired? (June 2024)](https://news.ycombinator.com/item?id=40563280)
 * [2024-06-03, 14:05:41](https://news.ycombinator.com/item?id=40562741) - [What if they gave an Industrial Revolution and nobody came? (2023)](https://rootsofprogress.org/robert-allen-british-industrial-revolution)
@@ -29,7 +30,6 @@
 * [2024-06-02, 05:22:42](https://news.ycombinator.com/item?id=40551583) - [A Baseline Scrapscript Compiler](https://bernsteinbear.com/blog/scrapscript-baseline/)
 * [2024-06-01, 20:14:29](https://news.ycombinator.com/item?id=40548744) - [Hermann Grassmann and the nature of abstractions](https://github.com/Dicklesworthstone/grassman_article)
 * [2024-06-01, 19:53:09](https://news.ycombinator.com/item?id=40548571) - [Seeing Like a Data Structure](https://www.belfercenter.org/publication/seeing-data-structure)
-* [2024-06-01, 19:22:14](https://news.ycombinator.com/item?id=40548367) - [Longitude and our neurons of navigation](https://www.forkingpaths.co/p/the-thrilling-tale-of-longitude-and)
 
 ## [Archives](archives/index.md)
 
