@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-04](index.md)
 
+* [2024-06-04, 20:10:23](https://news.ycombinator.com/item?id=40578460) - [Things the guys who stole my phone have texted me to try to get me to unlock it](https://gothamist.com/news/things-the-guys-who-stole-my-phone-have-texted-me-to-try-to-get-me-to-unlock-it)
+* [2024-06-04, 20:05:24](https://news.ycombinator.com/item?id=40578414) - [Debian's /tmpest in a teapot](https://lwn.net/SubscriberLink/975565/bcce68a68d82d63a/)
 * [2024-06-04, 19:39:26](https://news.ycombinator.com/item?id=40578176) - [Particle Accelerators for the Microchip Era](https://www.moore.org/article-detail?newsUrlName=particle-accelerators-for-the-microchip-era)
 * [2024-06-04, 19:09:48](https://news.ycombinator.com/item?id=40577894) - [TotalRecall: Windows 11 Recall Pwned](https://github.com/xaitax/TotalRecall)
 * [2024-06-04, 19:01:29](https://news.ycombinator.com/item?id=40577821) - [ARM's next-gen CPU and GPU cores are faster, more efficient](https://liliputing.com/arms-next-gen-cpu-and-graphics-cores-are-faster-more-efficient-and-now-come-bundled-together/)

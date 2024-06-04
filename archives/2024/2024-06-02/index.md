@@ -84,6 +84,7 @@
 * [2024-06-02, 07:18:08](https://news.ycombinator.com/item?id=40552090) - [Algorithms Interviews: Theory vs. Practice](https://danluu.com/algorithms-interviews/)
 * [2024-06-02, 07:14:24](https://news.ycombinator.com/item?id=40552069) - [Smartphone Camera Sensors: OmniVision, Samsung Isocell and Sony Exmor](https://ek.ua/en/post/3485/122-matricy-kamer-smartfonov-omnivision-samsung-isocell-i-sony-exmor/)
 * [2024-06-02, 06:57:04](https://news.ycombinator.com/item?id=40551974) - [Grain: The High-Level Language Optimized for WebAssembly](https://thenewstack.io/meet-grain-the-high-level-language-optimized-for-webassembly/)
+* [2024-06-02, 06:21:28](https://news.ycombinator.com/item?id=40551848) - [Nvidia's flagship gaming GPU can crack complex passwords in under an hour](https://www.tomshardware.com/pc-components/gpus/nvidias-flagship-gaming-gpu-can-crack-complex-passwords-in-under-an-hour)
 * [2024-06-02, 05:57:48](https://news.ycombinator.com/item?id=40551725) - [Parable of the Sofa](https://www.tbray.org/ongoing/When/202x/2024/06/01/Parable-of-the-Sofa)
 * [2024-06-02, 05:28:54](https://news.ycombinator.com/item?id=40551602) - [The Hat and the Spectre](https://momath.org/the-hat/)
 * [2024-06-02, 05:24:50](https://news.ycombinator.com/item?id=40551590) - [Highlights from \"I spent 6 years developing a game in Rust and it just shipped\"](https://gamesbymason.com/2024/06/01/wor-ama/)
