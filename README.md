@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-04, 18:51:22](https://news.ycombinator.com/item?id=40577724) - [AI's Desperate Hunger for News Training Data Has Publishers Fighting Back](https://tvnewscheck.com/ai/article/ais-desperate-hunger-for-news-training-data-has-publishers-fighting-back-heres-how/)
+* [2024-06-04, 18:50:21](https://news.ycombinator.com/item?id=40577715) - [Skip SDKs in Simple Integrations](https://www.epicweb.dev/skip-sdks-in-simple-integrations)
+* [2024-06-04, 18:27:14](https://news.ycombinator.com/item?id=40577485) - [Dr Pepper is now as popular as Pepsi. It's still shrouded in mystery](https://www.washingtonpost.com/food/2024/06/04/dr-pepper-questions-pepsi-mystery/)
 * [2024-06-04, 18:10:07](https://news.ycombinator.com/item?id=40577315) - [Charge Robotics (YC S21) is hiring SWEs to build solar construction robots](https://www.workatastartup.com/jobs/51266)
 * [2024-06-04, 18:00:44](https://news.ycombinator.com/item?id=40577216) - [Mozilla Builders Accelerator 2024](https://future.mozilla.org/builders/)
 * [2024-06-04, 17:52:27](https://news.ycombinator.com/item?id=40577150) - [Job openings fall to lowest level since February 2021](https://finance.yahoo.com/news/job-openings-fall-to-lowest-level-since-february-2021-141149453.html)
@@ -11,7 +12,6 @@
 * [2024-06-04, 14:36:49](https://news.ycombinator.com/item?id=40575081) - [CO2 helps viruses stay alive longer in the air](https://www.statnews.com/2024/06/04/co2-ventilation-research-virus-airborne-life-haddrell-celebs/)
 * [2024-06-04, 13:42:03](https://news.ycombinator.com/item?id=40574562) - [Reverse Z in 3D graphics (and why it's so awesome)](https://tomhultonharrop.com/mathematics/graphics/2023/08/06/reverse-z.html)
 * [2024-06-04, 12:29:16](https://news.ycombinator.com/item?id=40573790) - [Show HN: PlayBooks – Jupyter Notebooks style on-call investigation documents](https://github.com/DrDroidLab/PlayBooks)
-* [2024-06-04, 11:25:18](https://news.ycombinator.com/item?id=40573211) - [Encryption at Rest: Whose Threat Model Is It Anyway?](https://scottarc.blog/2024/06/02/encryption-at-rest-whose-threat-model-is-it-anyway/)
 * [2024-06-04, 08:25:19](https://news.ycombinator.com/item?id=40571995) - [A breakthrough towards the Riemann hypothesis](https://mathstodon.xyz/@tao/112557248794707738)
 * [2024-06-04, 07:42:01](https://news.ycombinator.com/item?id=40571727) - [Sphere Rendering: Flat Planets](https://emildziewanowski.com/flat-planets/)
 * [2024-06-04, 07:01:58](https://news.ycombinator.com/item?id=40571463) - [Show HN: Huewords, a Word and Logic Puzzle](https://huewords.snellman.net/)
