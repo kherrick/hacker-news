@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-04, 21:06:20](https://news.ycombinator.com/item?id=40578937) - [Neovim decision to use Lua is paying off](https://old.reddit.com/r/neovim/comments/1d6jy4h/neovim_decision_to_use_lua_is_truly_paying_off/)
 * [2024-06-04, 21:00:49](https://news.ycombinator.com/item?id=40578884) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-06-04, 20:39:52](https://news.ycombinator.com/item?id=40578705) - [An animated introduction to Fourier Series](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles)
 * [2024-06-04, 20:34:30](https://news.ycombinator.com/item?id=40578668) - [Some Notes on Influenceering](https://lcamtuf.substack.com/p/some-notes-on-influenceering)
@@ -16,7 +17,6 @@
 * [2024-06-04, 18:41:02](https://news.ycombinator.com/item?id=40577622) - [Attacking Android Binder: Analysis and Exploitation of CVE-2023-20938](https://androidoffsec.withgoogle.com/posts/attacking-android-binder-analysis-and-exploitation-of-cve-2023-20938/)
 * [2024-06-04, 18:13:11](https://news.ycombinator.com/item?id=40577338) - [Deception abilities emerged in large language models](https://www.pnas.org/doi/full/10.1073/pnas.2317967121)
 * [2024-06-04, 16:20:49](https://news.ycombinator.com/item?id=40576132) - [Why do electronic components have such odd values? (2021)](https://digilent.com/blog/why-do-electronic-components-have-such-odd-values/)
-* [2024-06-04, 14:36:49](https://news.ycombinator.com/item?id=40575081) - [CO2 helps viruses stay alive longer in the air](https://www.statnews.com/2024/06/04/co2-ventilation-research-virus-airborne-life-haddrell-celebs/)
 * [2024-06-04, 12:29:16](https://news.ycombinator.com/item?id=40573790) - [Show HN: PlayBooks – Jupyter Notebooks style on-call investigation documents](https://github.com/DrDroidLab/PlayBooks)
 * [2024-06-04, 11:44:39](https://news.ycombinator.com/item?id=40573387) - [Underscores are stupid? Get a Japanese keyboard (2012)](https://www.daveperrett.com/articles/2012/05/16/underscores-are-stupid-get-a-japanese-keyboard/)
 * [2024-06-04, 08:25:19](https://news.ycombinator.com/item?id=40571995) - [A breakthrough towards the Riemann hypothesis](https://mathstodon.xyz/@tao/112557248794707738)
