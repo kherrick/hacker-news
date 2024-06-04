@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-04, 12:31:31](https://news.ycombinator.com/item?id=40573814) - [Electing the Doge of Venice: analysis of a 13th Century protocol [pdf]](https://rangevoting.org/HPL-2007-28R1.pdf)
+* [2024-06-04, 13:28:42](https://news.ycombinator.com/item?id=40574423) - [Nintendo Hits 127 Switch Piracy Tutorial Repos After 'Cracking' URL Encryption](https://torrentfreak.com/nintendo-hits-127-switch-piracy-tutorial-repos-after-cracking-url-encryption-240604/)
+* [2024-06-04, 12:31:31](https://news.ycombinator.com/item?id=40573814) - [Electing the Doge of Venice: analysis of a 13th Century protocol [pdf] (2007)](https://rangevoting.org/HPL-2007-28R1.pdf)
 * [2024-06-04, 12:17:33](https://news.ycombinator.com/item?id=40573693) - [The world's largest 3D printer is building cozy homes from wood](https://www.cnn.com/style/worlds-largest-3d-printer-homes-maine-hnk-spc-intl/index.html)
 * [2024-06-04, 12:00:22](https://news.ycombinator.com/item?id=40573535) - [Langfuse (YC W23): Hiring Product Engineer (In-Person, Open Source)](https://github.com/langfuse/langfuse/blob/main/careers)
 * [2024-06-04, 11:25:18](https://news.ycombinator.com/item?id=40573211) - [Encryption at Rest: Whose Threat Model Is It Anyway?](https://scottarc.blog/2024/06/02/encryption-at-rest-whose-threat-model-is-it-anyway/)
@@ -25,7 +26,6 @@
 * [2024-06-02, 15:57:41](https://news.ycombinator.com/item?id=40555131) - [Here comes the Muybridge camera moment but for text](https://interconnected.org/home/2024/05/31/camera)
 * [2024-06-02, 12:55:25](https://news.ycombinator.com/item?id=40553720) - [Ligra – an open source image projector based off of flea marked parts](https://github.com/Jana-Marie/ligra)
 * [2024-06-02, 12:23:44](https://news.ycombinator.com/item?id=40553541) - [Optimizing 128-bit Division (2020)](https://danlark.org/2020/06/14/128-bit-division/)
-* [2024-06-02, 09:09:10](https://news.ycombinator.com/item?id=40552644) - [How to Walk and Talk: Everything We Know (2023) [pdf]](https://kk.org/thetechnium/files/2023/12/howtowalkandtalk.pdf)
 * [2024-06-02, 08:34:58](https://news.ycombinator.com/item?id=40552494) - [Ganjifa](https://en.wikipedia.org/wiki/Ganjifa)
 * [2024-06-02, 07:53:14](https://news.ycombinator.com/item?id=40552257) - [ht: Headless Terminal](https://github.com/andyk/ht)
 * [2024-06-01, 19:53:09](https://news.ycombinator.com/item?id=40548571) - [Seeing Like a Data Structure](https://www.belfercenter.org/publication/seeing-data-structure)
