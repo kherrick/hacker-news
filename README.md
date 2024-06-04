@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-04, 08:42:57](https://news.ycombinator.com/item?id=40572107) - [Epoch Times CFO charged in $67M crypto money laundering plot](https://www.bbc.com/news/articles/cg66xe59zyeo)
 * [2024-06-04, 08:29:45](https://news.ycombinator.com/item?id=40572026) - [ChatGPT Is Down](https://status.openai.com/incidents/rs49lmsh6xxw)
 * [2024-06-04, 07:08:48](https://news.ycombinator.com/item?id=40571500) - [Ask HN: Going low-level – what to learn next?](https://news.ycombinator.com/item?id=40571500)
 * [2024-06-04, 06:47:51](https://news.ycombinator.com/item?id=40571395) - [I Am So Sick of Leetcode-Style Interviews](https://nelson.cloud/i-am-so-sick-of-leetcode-style-interviews/)
@@ -21,7 +22,6 @@
 * [2024-06-03, 14:05:41](https://news.ycombinator.com/item?id=40562741) - [What if they gave an Industrial Revolution and nobody came? (2023)](https://rootsofprogress.org/robert-allen-british-industrial-revolution)
 * [2024-06-03, 13:31:47](https://news.ycombinator.com/item?id=40562458) - [Show HN: I made a tiny camera with super long battery life](https://toaster.llc/photon/)
 * [2024-06-03, 12:07:57](https://news.ycombinator.com/item?id=40561872) - [How many photons are received per bit transmitted from Voyager 1?](https://physics.stackexchange.com/questions/816698/how-many-photons-are-received-per-bit-transmitted-from-voyager-1)
-* [2024-06-03, 09:22:53](https://news.ycombinator.com/item?id=40560768) - [I'm forking Ladybird and stepping down as SerenityOS BDFL](https://awesomekling.substack.com/p/forking-ladybird-and-stepping-down-serenityos)
 * [2024-06-03, 07:10:02](https://news.ycombinator.com/item?id=40560101) - [In which five different paths lead to methods](https://technomancy.us/197)
 * [2024-06-02, 19:28:10](https://news.ycombinator.com/item?id=40556627) - [How to make a great government website](https://asteriskmag.com/issues/06/how-to-make-a-great-government-website)
 * [2024-06-02, 12:55:25](https://news.ycombinator.com/item?id=40553720) - [Ligra – an open source image projector based off of flea marked parts](https://github.com/Jana-Marie/ligra)

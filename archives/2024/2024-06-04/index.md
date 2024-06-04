@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-04](index.md)
 
+* [2024-06-04, 08:42:57](https://news.ycombinator.com/item?id=40572107) - [Epoch Times CFO charged in $67M crypto money laundering plot](https://www.bbc.com/news/articles/cg66xe59zyeo)
 * [2024-06-04, 08:29:45](https://news.ycombinator.com/item?id=40572026) - [ChatGPT Is Down](https://status.openai.com/incidents/rs49lmsh6xxw)
 * [2024-06-04, 07:08:48](https://news.ycombinator.com/item?id=40571500) - [Ask HN: Going low-level – what to learn next?](https://news.ycombinator.com/item?id=40571500)
 * [2024-06-04, 06:47:51](https://news.ycombinator.com/item?id=40571395) - [I Am So Sick of Leetcode-Style Interviews](https://nelson.cloud/i-am-so-sick-of-leetcode-style-interviews/)
