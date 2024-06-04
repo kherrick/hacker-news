@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-04](index.md)
 
+* [2024-06-04, 15:22:50](https://news.ycombinator.com/item?id=40575539) - [Claude is unavailable for some users. Web and Mobile.](https://status.anthropic.com)
 * [2024-06-04, 15:10:44](https://news.ycombinator.com/item?id=40575425) - [Tokyo dating app to promote marriage, keep out phonies](https://www.asahi.com/ajw/articles/15292637)
 * [2024-06-04, 13:46:55](https://news.ycombinator.com/item?id=40574604) - ['Extremely impressive': melanoma jab trial results excite doctors](https://www.theguardian.com/society/article/2024/jun/03/extremely-impressive-melanoma-jab-trial-results-excite-doctors)
 * [2024-06-04, 13:42:03](https://news.ycombinator.com/item?id=40574562) - [Reverse Z in 3D graphics (and why it's so awesome)](https://tomhultonharrop.com/mathematics/graphics/2023/08/06/reverse-z.html)
@@ -48,3 +49,4 @@
 * [2024-06-04, 01:17:54](https://news.ycombinator.com/item?id=40569686) - [Show HN: I created a Chrome extension that block media giants in Google search](https://chromewebstore.google.com/detail/secondpage-google-searche/koaojhnbfmmjnagblonbfilccbagjpgm)
 * [2024-06-04, 00:52:27](https://news.ycombinator.com/item?id=40569531) - [Diffusion on Syntax Trees for Program Synthesis](https://tree-diffusion.github.io/)
 * [2024-06-04, 00:39:22](https://news.ycombinator.com/item?id=40569458) - [Please support \"skip to main content\" on your docs site](https://technicalwriting.dev/a11y/skip.html)
+* [2024-06-04, 00:29:37](https://news.ycombinator.com/item?id=40569385) - [Show HN: Allocate poker chips optimally with mixed-integer nonlinear programming](https://github.com/jstrieb/poker-chipper)
