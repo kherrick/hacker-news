@@ -40,6 +40,7 @@
 * [2024-06-03, 17:00:45](https://news.ycombinator.com/item?id=40564642) - [Trellis (YC W24) is hiring Founding-Eng to build ETL for unstructured data with AI](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
 * [2024-06-03, 17:00:33](https://news.ycombinator.com/item?id=40564639) - [Why YC Went to DC](https://www.ycombinator.com/blog/why-yc-went-to-dc/)
 * [2024-06-03, 16:48:30](https://news.ycombinator.com/item?id=40564520) - [Cirkoban: Sokoban meets cellular automata written in Scheme](https://spritely.institute/news/cirkoban-sokoban-meets-cellular-automata-written-in-scheme.html)
+* [2024-06-03, 16:45:01](https://news.ycombinator.com/item?id=40564489) - [The state of the art in copter drones and flight control systems](https://www.mdpi.com/1424-8220/24/11/3349)
 * [2024-06-03, 16:32:21](https://news.ycombinator.com/item?id=40564345) - [Posthog – open-source analytics and UX research tool](https://github.com/PostHog/posthog)
 * [2024-06-03, 16:31:19](https://news.ycombinator.com/item?id=40564332) - [Go East from Seattle](https://finmoorhouse.com/writing/go-east/)
 * [2024-06-03, 16:10:02](https://news.ycombinator.com/item?id=40564104) - [Modern CSS Layouts: You Might Not Need a Framework for That](https://www.smashingmagazine.com/2024/05/modern-css-layouts-no-framework-needed/)
