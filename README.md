@@ -14,7 +14,6 @@
 * [2024-06-04, 18:13:11](https://news.ycombinator.com/item?id=40577338) - [Deception abilities emerged in large language models](https://www.pnas.org/doi/full/10.1073/pnas.2317967121)
 * [2024-06-04, 18:00:44](https://news.ycombinator.com/item?id=40577216) - [Mozilla Builders Accelerator 2024](https://future.mozilla.org/builders/)
 * [2024-06-04, 16:20:49](https://news.ycombinator.com/item?id=40576132) - [Why do electronic components have such odd values? (2021)](https://digilent.com/blog/why-do-electronic-components-have-such-odd-values/)
-* [2024-06-04, 15:22:31](https://news.ycombinator.com/item?id=40575538) - [Show HN: Shortbread App – AI-powered, romantic comics for women](https://www.shortbreadapp.com/)
 * [2024-06-04, 14:36:49](https://news.ycombinator.com/item?id=40575081) - [CO2 helps viruses stay alive longer in the air](https://www.statnews.com/2024/06/04/co2-ventilation-research-virus-airborne-life-haddrell-celebs/)
 * [2024-06-04, 12:29:16](https://news.ycombinator.com/item?id=40573790) - [Show HN: PlayBooks – Jupyter Notebooks style on-call investigation documents](https://github.com/DrDroidLab/PlayBooks)
 * [2024-06-04, 11:44:39](https://news.ycombinator.com/item?id=40573387) - [Underscores are stupid? Get a Japanese keyboard (2012)](https://www.daveperrett.com/articles/2012/05/16/underscores-are-stupid-get-a-japanese-keyboard/)
@@ -30,6 +29,7 @@
 * [2024-06-03, 04:22:18](https://news.ycombinator.com/item?id=40559316) - [Inbox Ten](https://boz.com/articles/inbox-ten)
 * [2024-06-02, 16:39:31](https://news.ycombinator.com/item?id=40555415) - [A Brief Look at the 3DS Cartridge Protocol](https://blog.winter-software.com/2024/06/02/ctr-cart-protocol)
 * [2024-06-02, 07:53:14](https://news.ycombinator.com/item?id=40552257) - [ht: Headless Terminal](https://github.com/andyk/ht)
+* [2024-06-01, 10:48:00](https://news.ycombinator.com/item?id=40544546) - [Learning to grow with the Hampton's pepper professionals](https://worldsensorium.com/learning-to-grow-with-the-hamptons-pepper-professionals/)
 
 ## [Archives](archives/index.md)
 
