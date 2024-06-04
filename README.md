@@ -28,7 +28,7 @@
 * [2024-06-03, 06:51:24](https://news.ycombinator.com/item?id=40560010) - [Hacking millions of modems and investigating who hacked my modem](https://samcurry.net/hacking-millions-of-modems)
 * [2024-06-02, 16:39:31](https://news.ycombinator.com/item?id=40555415) - [A Brief Look at the 3DS Cartridge Protocol](https://blog.winter-software.com/2024/06/02/ctr-cart-protocol)
 * [2024-06-02, 07:53:14](https://news.ycombinator.com/item?id=40552257) - [ht: Headless Terminal](https://github.com/andyk/ht)
-* [2024-06-02, 07:14:24](https://news.ycombinator.com/item?id=40552069) - [Smartphone Camera Sensors: OmniVision, Samsung Isocell and Sony Exmor](https://ek.ua/en/post/3485/122-matricy-kamer-smartfonov-omnivision-samsung-isocell-i-sony-exmor/)
+* [2024-06-02, 07:14:24](https://news.ycombinator.com/item?id=40552069) - [Smartphone Camera Sensors: OmniVision, Samsung Isocell and Sony Exmor (2022)](https://ek.ua/en/post/3485/122-matricy-kamer-smartfonov-omnivision-samsung-isocell-i-sony-exmor/)
 * [2024-06-02, 06:21:28](https://news.ycombinator.com/item?id=40551848) - [Nvidia's flagship gaming GPU can crack complex passwords in under an hour](https://www.tomshardware.com/pc-components/gpus/nvidias-flagship-gaming-gpu-can-crack-complex-passwords-in-under-an-hour)
 
 ## [Archives](archives/index.md)
