@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-04](index.md)
 
+* [2024-06-04, 15:10:44](https://news.ycombinator.com/item?id=40575425) - [Tokyo dating app to promote marriage, keep out phonies](https://www.asahi.com/ajw/articles/15292637)
 * [2024-06-04, 13:46:55](https://news.ycombinator.com/item?id=40574604) - ['Extremely impressive': melanoma jab trial results excite doctors](https://www.theguardian.com/society/article/2024/jun/03/extremely-impressive-melanoma-jab-trial-results-excite-doctors)
 * [2024-06-04, 13:42:03](https://news.ycombinator.com/item?id=40574562) - [Reverse Z in 3D graphics (and why it's so awesome)](https://tomhultonharrop.com/mathematics/graphics/2023/08/06/reverse-z.html)
 * [2024-06-04, 13:30:30](https://news.ycombinator.com/item?id=40574436) - [The FBI ran a cell phone company for criminals](https://www.npr.org/2024/05/31/1197959218/fbi-phone-company-anom)
@@ -32,7 +33,9 @@
 * [2024-06-04, 08:15:00](https://news.ycombinator.com/item?id=40571940) - [Excess mortality across the Western World since the Covid pandemic](https://bmjpublichealth.bmj.com/content/2/1/e000282)
 * [2024-06-04, 07:10:39](https://news.ycombinator.com/item?id=40571512) - [Raspberry Pi AI Kit available now at $70](https://www.raspberrypi.com/news/raspberry-pi-ai-kit-available-now-at-70/)
 * [2024-06-04, 07:08:48](https://news.ycombinator.com/item?id=40571500) - [Ask HN: Going low-level – what to learn next?](https://news.ycombinator.com/item?id=40571500)
+* [2024-06-04, 06:48:55](https://news.ycombinator.com/item?id=40571402) - [Don't be terrified of Pale Fire](https://unherd.com/2024/05/dont-be-terrified-of-pale-fire/)
 * [2024-06-04, 06:47:51](https://news.ycombinator.com/item?id=40571395) - [I Am So Sick of Leetcode-Style Interviews](https://nelson.cloud/i-am-so-sick-of-leetcode-style-interviews/)
+* [2024-06-04, 06:24:39](https://news.ycombinator.com/item?id=40571270) - [Creating a Safari webarchive from the command line](https://alexwlchan.net/2024/creating-a-safari-webarchive/)
 * [2024-06-04, 05:07:57](https://news.ycombinator.com/item?id=40570892) - [Koheesio: Nike's Python-based framework to build advanced data-pipelines](https://github.com/Nike-Inc/koheesio)
 * [2024-06-04, 04:46:58](https://news.ycombinator.com/item?id=40570781) - [Hacking Millions of Modems (and Investigating Who Hacked My Modem)](https://samcurry.net/hacking-millions-of-modems)
 * [2024-06-04, 03:17:48](https://news.ycombinator.com/item?id=40570356) - [Intel Unveils Lunar Lake Architecture: New P and E Cores, Xe2-LPG GPU, NPU 4](https://www.anandtech.com/show/21425/intel-lunar-lake-architecture-deep-dive-lion-cove-xe2-and-npu4)
