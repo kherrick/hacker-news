@@ -1,22 +1,42 @@
 [
   [
     [
-      "2024-06-03, 23:54:30",
-      "https://news.ycombinator.com/item?id=40569134"
+      "2024-06-04, 01:17:54",
+      "https://news.ycombinator.com/item?id=40569686"
     ],
     [
-      "Wind power and solar photovoltaics have higher energy returns than fossil fuels",
-      "https://www.nature.com/articles/s41560-024-01520-y"
+      "Show HN: I created a Chrome extension that block media giants in Google search",
+      "https://chromewebstore.google.com/detail/secondpage-google-searche/koaojhnbfmmjnagblonbfilccbagjpgm"
     ]
   ],
   [
     [
-      "2024-06-03, 23:31:56",
-      "https://news.ycombinator.com/item?id=40568965"
+      "2024-06-04, 00:52:27",
+      "https://news.ycombinator.com/item?id=40569531"
     ],
     [
-      "Scientists confirm that pasteurisation effectively inactivates influenza viruses",
-      "https://www.gla.ac.uk/news/headline_1078447_en.html"
+      "Diffusion on Syntax Trees for Program Synthesis",
+      "https://tree-diffusion.github.io/"
+    ]
+  ],
+  [
+    [
+      "2024-06-04, 00:39:22",
+      "https://news.ycombinator.com/item?id=40569458"
+    ],
+    [
+      "Please support \"skip to main content\" on your docs site",
+      "https://technicalwriting.dev/a11y/skip.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-03, 22:45:08",
+      "https://news.ycombinator.com/item?id=40568515"
+    ],
+    [
+      "Psychedelics are challenging the standard of randomized controlled trials",
+      "https://www.theatlantic.com/health/archive/2024/06/psychedelics-mdma-ptsd-fda-placebo/678588/"
     ]
   ],
   [
@@ -31,11 +51,31 @@
   ],
   [
     [
+      "2024-06-03, 21:19:42",
+      "https://news.ycombinator.com/item?id=40567676"
+    ],
+    [
+      "New theory suggests time is an illusion created by quantum entanglement",
+      "https://bgr.com/science/new-theory-suggests-time-is-an-illusion-created-by-quantum-entanglement/"
+    ]
+  ],
+  [
+    [
+      "2024-06-03, 21:18:04",
+      "https://news.ycombinator.com/item?id=40567667"
+    ],
+    [
+      "Why No Roman Industrial Revolution? (2022)",
+      "https://acoup.blog/2022/08/26/collections-why-no-roman-industrial-revolution/"
+    ]
+  ],
+  [
+    [
       "2024-06-03, 21:06:06",
       "https://news.ycombinator.com/item?id=40567562"
     ],
     [
-      "SnapMagic (YC S15), the AI copilot for electronics, is hiring a PM",
+      "SnapMagic (YC S15), AI copilot for electronics, is hiring a PM",
       "https://careers.snapmagic.com/o/technical-project-manager"
     ]
   ],
@@ -67,16 +107,6 @@
     [
       "If English was written like Chinese (1999)",
       "https://zompist.com/yingzi/yingzi.htm"
-    ]
-  ],
-  [
-    [
-      "2024-06-03, 17:33:31",
-      "https://news.ycombinator.com/item?id=40565048"
-    ],
-    [
-      "Shared Memory Versioning to improve slow interactions",
-      "https://blog.chromium.org/2024/06/introducing-shared-memory-versioning-to.html"
     ]
   ],
   [
@@ -121,42 +151,12 @@
   ],
   [
     [
-      "2024-06-03, 16:00:04",
-      "https://news.ycombinator.com/item?id=40563984"
-    ],
-    [
-      "Show HN: Brioche – A new Nix-like package manager",
-      "https://brioche.dev/blog/announcing-brioche/"
-    ]
-  ],
-  [
-    [
-      "2024-06-03, 15:38:47",
-      "https://news.ycombinator.com/item?id=40563763"
-    ],
-    [
-      "Ogma: Interpretable Symbolic General Problem-Solving Model",
-      "https://ogma.framer.website/"
-    ]
-  ],
-  [
-    [
       "2024-06-03, 15:23:19",
       "https://news.ycombinator.com/item?id=40563577"
     ],
     [
       "Pigeon towers: The rise and fall of a 17th-century status symbol (2015)",
       "https://www.atlasobscura.com/articles/dovecotes"
-    ]
-  ],
-  [
-    [
-      "2024-06-03, 15:03:06",
-      "https://news.ycombinator.com/item?id=40563301"
-    ],
-    [
-      "Consumer Electronics Control",
-      "https://computer.rip/2024-06-02-consumer-electronics-control.html"
     ]
   ],
   [
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2024-06-02, 15:57:41",
-      "https://news.ycombinator.com/item?id=40555131"
-    ],
-    [
-      "Here comes the Muybridge camera moment but for text",
-      "https://interconnected.org/home/2024/05/31/camera"
-    ]
-  ],
-  [
-    [
       "2024-06-02, 12:28:23",
       "https://news.ycombinator.com/item?id=40553566"
     ],
@@ -265,8 +255,18 @@
       "https://news.ycombinator.com/item?id=40552644"
     ],
     [
-      "How to Walk and Talk: Everything We Know [pdf]",
+      "How to Walk and Talk: Everything We Know (2023) [pdf]",
       "https://kk.org/thetechnium/files/2023/12/howtowalkandtalk.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-06-02, 05:22:42",
+      "https://news.ycombinator.com/item?id=40551583"
+    ],
+    [
+      "A Baseline Scrapscript Compiler",
+      "https://bernsteinbear.com/blog/scrapscript-baseline/"
     ]
   ],
   [
