@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-06-04](index.md)
 
+* [2024-06-04, 12:09:45](https://news.ycombinator.com/item?id=40573621) - [Porsche 911 Hybrid vs. Chevy Corvette E-Ray: Electrified Sports Cars Compared](https://www.thedrive.com/news/porsche-911-hybrid-vs-chevy-corvette-e-ray-electrified-sports-cars-compared)
+* [2024-06-04, 12:00:51](https://news.ycombinator.com/item?id=40573536) - [Delivering WordPress in 6KB (2018)](https://sustywp.com/)
+* [2024-06-04, 12:00:22](https://news.ycombinator.com/item?id=40573535) - [Langfuse (YC W23): Hiring Product Engineer (In-Person, Open Source)](https://github.com/langfuse/langfuse/blob/main/careers)
 * [2024-06-04, 11:44:26](https://news.ycombinator.com/item?id=40573386) - [Chang'e-6: Moon dark side samples collected and launched into lunar orbit](https://spacenews.com/change-6-moon-samples-collected-and-launched-into-lunar-orbit/)
 * [2024-06-04, 11:40:47](https://news.ycombinator.com/item?id=40573353) - [SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales](https://arxiv.org/abs/2405.20974)
+* [2024-06-04, 11:25:18](https://news.ycombinator.com/item?id=40573211) - [Encryption at Rest: Whose Threat Model Is It Anyway?](https://scottarc.blog/2024/06/02/encryption-at-rest-whose-threat-model-is-it-anyway/)
 * [2024-06-04, 11:11:34](https://news.ycombinator.com/item?id=40573104) - [Coding and Keyboards (2023)](https://www.hendrik-erz.de/post/coding-and-keyboards)
 * [2024-06-04, 11:11:06](https://news.ycombinator.com/item?id=40573097) - [Security researcher discovers Microsoft's Recall tool is woefully insecure](https://www.windowscentral.com/software-apps/windows-11/microsoft-should-recall-windows-recall-security-researcher-finds-microsofts-new-ai-tool-woefully-insecure)
 * [2024-06-04, 10:29:01](https://news.ycombinator.com/item?id=40572737) - [America's Commute to Work Is Getting Longer and Longer](https://www.wsj.com/lifestyle/workplace/americas-commute-to-work-is-getting-longer-and-longer-0fbf79c3)
