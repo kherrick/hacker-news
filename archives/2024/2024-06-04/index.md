@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-04](index.md)
 
+* [2024-06-04, 17:15:00](https://news.ycombinator.com/item?id=40576804) - [No physics? No problem. AI weather forecasting is already making strides](https://arstechnica.com/ai/2024/06/as-a-potentially-historic-hurricane-season-looms-can-ai-forecast-models-help/)
 * [2024-06-04, 17:04:55](https://news.ycombinator.com/item?id=40576696) - [Canada says online streaming services must hand over 5% of their revenues](https://stocks.apple.com/AYtO_yS1CTM2QxOHYsjKIaw)
 * [2024-06-04, 16:53:18](https://news.ycombinator.com/item?id=40576562) - [My simple theory on why we stopped building beautiful buildings](https://danfrank.ca/my-simple-theory-on-why-we-stopped-building-beautiful-buildings-and-why-many-other-things-suck-more-than-youd-expect/)
 * [2024-06-04, 16:38:02](https://news.ycombinator.com/item?id=40576356) - [Millions forced to use brain as OpenAI's ChatGPT takes morning off](https://www.theregister.com/2024/06/04/openai_chatgpt_outage/)
