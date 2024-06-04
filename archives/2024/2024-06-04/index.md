@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-04](index.md)
 
+* [2024-06-04, 16:38:02](https://news.ycombinator.com/item?id=40576356) - [Millions forced to use brain as OpenAI's ChatGPT takes morning off](https://www.theregister.com/2024/06/04/openai_chatgpt_outage/)
+* [2024-06-04, 16:33:52](https://news.ycombinator.com/item?id=40576305) - [See the Cybertruck's Steer-by-Wire System in Action (Including a Disturbing Lag)](https://gizmodo.com/see-the-cybertrucks-steer-by-wire-system-in-action-inc-1851518314)
+* [2024-06-04, 16:12:33](https://news.ycombinator.com/item?id=40576052) - [Online streaming services in Canada must hand over 5% of domestic revenues](https://www.cbc.ca/news/business/canada-online-streaming-services-1.7223840)
 * [2024-06-04, 16:11:26](https://news.ycombinator.com/item?id=40576045) - [Instagram tests forcing users to watch adverts](https://www.bbc.com/news/articles/c877y6mxdp7o)
 * [2024-06-04, 16:09:35](https://news.ycombinator.com/item?id=40576030) - [Databricks to Buy Data-Management Startup Tabular](https://www.wsj.com/articles/databricks-to-buy-data-management-startup-tabular-in-bid-for-ai-clients-829e5bcf)
 * [2024-06-04, 16:09:05](https://news.ycombinator.com/item?id=40576025) - [Current and former AI employees warn of the technology's dangers](https://www.washingtonpost.com/technology/2024/06/04/openai-employees-ai-whistleblowers/)
@@ -43,8 +46,10 @@
 * [2024-06-04, 08:29:45](https://news.ycombinator.com/item?id=40572026) - [ChatGPT Is Down](https://status.openai.com/incidents/rs49lmsh6xxw)
 * [2024-06-04, 08:25:19](https://news.ycombinator.com/item?id=40571995) - [A remarkable breakthrough towards the Riemann hypothesis](https://mathstodon.xyz/@tao/112557248794707738)
 * [2024-06-04, 08:15:00](https://news.ycombinator.com/item?id=40571940) - [Excess mortality across the Western World since the Covid pandemic](https://bmjpublichealth.bmj.com/content/2/1/e000282)
+* [2024-06-04, 07:42:01](https://news.ycombinator.com/item?id=40571727) - [Sphere Rendering: Flat Planets](https://emildziewanowski.com/flat-planets/)
 * [2024-06-04, 07:10:39](https://news.ycombinator.com/item?id=40571512) - [Raspberry Pi AI Kit available now at $70](https://www.raspberrypi.com/news/raspberry-pi-ai-kit-available-now-at-70/)
 * [2024-06-04, 07:08:48](https://news.ycombinator.com/item?id=40571500) - [Ask HN: Going low-level – what to learn next?](https://news.ycombinator.com/item?id=40571500)
+* [2024-06-04, 07:01:58](https://news.ycombinator.com/item?id=40571463) - [Show HN: Huewords, a Word and Logic Puzzle](https://huewords.snellman.net/)
 * [2024-06-04, 06:48:55](https://news.ycombinator.com/item?id=40571402) - [Don't be terrified of Pale Fire](https://unherd.com/2024/05/dont-be-terrified-of-pale-fire/)
 * [2024-06-04, 06:47:51](https://news.ycombinator.com/item?id=40571395) - [I Am So Sick of Leetcode-Style Interviews](https://nelson.cloud/i-am-so-sick-of-leetcode-style-interviews/)
 * [2024-06-04, 06:24:39](https://news.ycombinator.com/item?id=40571270) - [Creating a Safari webarchive from the command line](https://alexwlchan.net/2024/creating-a-safari-webarchive/)
