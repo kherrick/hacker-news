@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-04, 13:28:42](https://news.ycombinator.com/item?id=40574423) - [Nintendo Hits 127 Switch Piracy Tutorial Repos After 'Cracking' URL Encryption](https://torrentfreak.com/nintendo-hits-127-switch-piracy-tutorial-repos-after-cracking-url-encryption-240604/)
+* [2024-06-04, 13:46:55](https://news.ycombinator.com/item?id=40574604) - ['Extremely impressive': melanoma jab trial results excite doctors](https://www.theguardian.com/society/article/2024/jun/03/extremely-impressive-melanoma-jab-trial-results-excite-doctors)
+* [2024-06-04, 13:30:30](https://news.ycombinator.com/item?id=40574436) - [The FBI ran a cell phone company for criminals](https://www.npr.org/2024/05/31/1197959218/fbi-phone-company-anom)
 * [2024-06-04, 12:31:31](https://news.ycombinator.com/item?id=40573814) - [Electing the Doge of Venice: analysis of a 13th Century protocol [pdf] (2007)](https://rangevoting.org/HPL-2007-28R1.pdf)
 * [2024-06-04, 12:17:33](https://news.ycombinator.com/item?id=40573693) - [The world's largest 3D printer is building cozy homes from wood](https://www.cnn.com/style/worlds-largest-3d-printer-homes-maine-hnk-spc-intl/index.html)
 * [2024-06-04, 12:00:22](https://news.ycombinator.com/item?id=40573535) - [Langfuse (YC W23): Hiring Product Engineer (In-Person, Open Source)](https://github.com/langfuse/langfuse/blob/main/careers)
@@ -17,7 +18,6 @@
 * [2024-06-03, 18:57:30](https://news.ycombinator.com/item?id=40566142) - [The Moral Economy of the Shire](https://nathangoldwag.wordpress.com/2024/05/31/the-moral-economy-of-the-shire/)
 * [2024-06-03, 17:34:42](https://news.ycombinator.com/item?id=40565060) - [If English was written like Chinese (1999)](https://zompist.com/yingzi/yingzi.htm)
 * [2024-06-03, 17:00:33](https://news.ycombinator.com/item?id=40564639) - [Why YC went to DC](https://www.ycombinator.com/blog/why-yc-went-to-dc/)
-* [2024-06-03, 16:48:30](https://news.ycombinator.com/item?id=40564520) - [Cirkoban: Sokoban meets cellular automata written in Scheme](https://spritely.institute/news/cirkoban-sokoban-meets-cellular-automata-written-in-scheme.html)
 * [2024-06-03, 16:07:33](https://news.ycombinator.com/item?id=40564079) - [Feynman Computer Science Lecture – Hardware, Software, Heuristics (1985) [video]](https://www.youtube.com/watch?v=EKWGGDXe5MA)
 * [2024-06-03, 16:00:04](https://news.ycombinator.com/item?id=40563984) - [Show HN: Brioche – A new Nix-like package manager](https://brioche.dev/blog/announcing-brioche/)
 * [2024-06-03, 13:31:47](https://news.ycombinator.com/item?id=40562458) - [Show HN: I made a tiny camera with super long battery life](https://toaster.llc/photon/)

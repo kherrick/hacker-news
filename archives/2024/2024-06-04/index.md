@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-04](index.md)
 
+* [2024-06-04, 13:46:55](https://news.ycombinator.com/item?id=40574604) - ['Extremely impressive': melanoma jab trial results excite doctors](https://www.theguardian.com/society/article/2024/jun/03/extremely-impressive-melanoma-jab-trial-results-excite-doctors)
+* [2024-06-04, 13:30:30](https://news.ycombinator.com/item?id=40574436) - [The FBI ran a cell phone company for criminals](https://www.npr.org/2024/05/31/1197959218/fbi-phone-company-anom)
 * [2024-06-04, 13:28:42](https://news.ycombinator.com/item?id=40574423) - [Nintendo Hits 127 Switch Piracy Tutorial Repos After 'Cracking' URL Encryption](https://torrentfreak.com/nintendo-hits-127-switch-piracy-tutorial-repos-after-cracking-url-encryption-240604/)
 * [2024-06-04, 13:02:53](https://news.ycombinator.com/item?id=40574154) - [New all-optical approach to revolutionise night vision technology](https://www.tmos.org.au/research/new-all-optical-approach-to-revolutionise-night-vision-technology/)
 * [2024-06-04, 12:43:03](https://news.ycombinator.com/item?id=40573932) - [Siemens' battery trains set to save £3.5B and consign diesel trains to history](https://railuk.com/electrification/siemens-british-battery-trains-set-to-save-3-5bn-and-consign-diesel-trains-to-history/)
