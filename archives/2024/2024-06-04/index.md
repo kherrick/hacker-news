@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-04](index.md)
 
+* [2024-06-04, 03:03:10](https://news.ycombinator.com/item?id=40570294) - [Windows AI feature that screenshots everything labeled a security 'disaster'](https://www.theverge.com/2024/6/3/24170305/microsoft-windows-recall-ai-screenshots-security-privacy-issues)
 * [2024-06-04, 02:33:37](https://news.ycombinator.com/item?id=40570135) - [Radial Menus in Video Games](https://champicky.com/2022/01/21/radial-menus-in-video-games/)
 * [2024-06-04, 01:57:29](https://news.ycombinator.com/item?id=40569949) - [New telescope images of Jupiter's moon Io rival those from spacecraft](https://phys.org/news/2024-05-glimpses-volcanic-world-telescope-images.html)
 * [2024-06-04, 01:17:54](https://news.ycombinator.com/item?id=40569686) - [Show HN: I created a Chrome extension that block media giants in Google search](https://chromewebstore.google.com/detail/secondpage-google-searche/koaojhnbfmmjnagblonbfilccbagjpgm)

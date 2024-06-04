@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-04, 03:03:10](https://news.ycombinator.com/item?id=40570294) - [Windows AI feature that screenshots everything labeled a security 'disaster'](https://www.theverge.com/2024/6/3/24170305/microsoft-windows-recall-ai-screenshots-security-privacy-issues)
 * [2024-06-04, 02:33:37](https://news.ycombinator.com/item?id=40570135) - [Radial Menus in Video Games](https://champicky.com/2022/01/21/radial-menus-in-video-games/)
 * [2024-06-04, 01:57:29](https://news.ycombinator.com/item?id=40569949) - [New telescope images of Jupiter's moon Io rival those from spacecraft](https://phys.org/news/2024-05-glimpses-volcanic-world-telescope-images.html)
 * [2024-06-04, 00:52:27](https://news.ycombinator.com/item?id=40569531) - [Diffusion on Syntax Trees for Program Synthesis](https://tree-diffusion.github.io/)
@@ -27,7 +28,6 @@
 * [2024-06-02, 12:23:44](https://news.ycombinator.com/item?id=40553541) - [Optimizing 128-bit Division (2020)](https://danlark.org/2020/06/14/128-bit-division/)
 * [2024-06-02, 11:39:04](https://news.ycombinator.com/item?id=40553267) - [Show HN: Tunnelling TCP through a file](https://github.com/fiddyschmitt/File-Tunnel)
 * [2024-06-02, 09:09:10](https://news.ycombinator.com/item?id=40552644) - [How to Walk and Talk: Everything We Know (2023) [pdf]](https://kk.org/thetechnium/files/2023/12/howtowalkandtalk.pdf)
-* [2024-06-02, 05:22:42](https://news.ycombinator.com/item?id=40551583) - [A Baseline Scrapscript Compiler](https://bernsteinbear.com/blog/scrapscript-baseline/)
 * [2024-06-01, 20:14:29](https://news.ycombinator.com/item?id=40548744) - [Hermann Grassmann and the nature of abstractions](https://github.com/Dicklesworthstone/grassman_article)
 * [2024-06-01, 19:53:09](https://news.ycombinator.com/item?id=40548571) - [Seeing Like a Data Structure](https://www.belfercenter.org/publication/seeing-data-structure)
 
