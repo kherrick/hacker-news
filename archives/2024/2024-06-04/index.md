@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-06-04](index.md)
 
+* [2024-06-04, 19:39:26](https://news.ycombinator.com/item?id=40578176) - [Particle Accelerators for the Microchip Era](https://www.moore.org/article-detail?newsUrlName=particle-accelerators-for-the-microchip-era)
+* [2024-06-04, 19:09:48](https://news.ycombinator.com/item?id=40577894) - [TotalRecall: Windows 11 Recall Pwned](https://github.com/xaitax/TotalRecall)
 * [2024-06-04, 18:51:22](https://news.ycombinator.com/item?id=40577724) - [AI's Desperate Hunger for News Training Data Has Publishers Fighting Back](https://tvnewscheck.com/ai/article/ais-desperate-hunger-for-news-training-data-has-publishers-fighting-back-heres-how/)
 * [2024-06-04, 18:50:21](https://news.ycombinator.com/item?id=40577715) - [Skip SDKs in Simple Integrations](https://www.epicweb.dev/skip-sdks-in-simple-integrations)
 * [2024-06-04, 18:27:14](https://news.ycombinator.com/item?id=40577485) - [Dr Pepper is now as popular as Pepsi. It's still shrouded in mystery](https://www.washingtonpost.com/food/2024/06/04/dr-pepper-questions-pepsi-mystery/)
 * [2024-06-04, 18:10:07](https://news.ycombinator.com/item?id=40577315) - [Charge Robotics (YC S21) is hiring SWEs to build solar construction robots](https://www.workatastartup.com/jobs/51266)
 * [2024-06-04, 18:00:44](https://news.ycombinator.com/item?id=40577216) - [Mozilla Builders Accelerator 2024](https://future.mozilla.org/builders/)
+* [2024-06-04, 17:59:26](https://news.ycombinator.com/item?id=40577203) - [The warring conmen at the heart of a €5B carbon trading scam](https://www.theguardian.com/news/article/2024/jun/04/the-warring-conmen-at-the-heart-of-a-5bn-carbon-credit-scam)
 * [2024-06-04, 17:54:34](https://news.ycombinator.com/item?id=40577170) - [ChatGPT Is at Capacity Right Now](https://heymusic.ai/music/chatgpt-is-at-capacity-right-now-0nZWQ)
 * [2024-06-04, 17:52:27](https://news.ycombinator.com/item?id=40577150) - [Job openings fall to lowest level since February 2021](https://finance.yahoo.com/news/job-openings-fall-to-lowest-level-since-february-2021-141149453.html)
 * [2024-06-04, 17:15:00](https://news.ycombinator.com/item?id=40576804) - [No physics? No problem. AI weather forecasting is already making strides](https://arstechnica.com/ai/2024/06/as-a-potentially-historic-hurricane-season-looms-can-ai-forecast-models-help/)
