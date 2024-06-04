@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-03](index.md)
 
+* [2024-06-03, 23:54:30](https://news.ycombinator.com/item?id=40569134) - [Wind power and solar photovoltaics have higher energy returns than fossil fuels](https://www.nature.com/articles/s41560-024-01520-y)
+* [2024-06-03, 23:31:56](https://news.ycombinator.com/item?id=40568965) - [Scientists confirm that pasteurisation effectively inactivates influenza viruses](https://www.gla.ac.uk/news/headline_1078447_en.html)
 * [2024-06-03, 22:15:09](https://news.ycombinator.com/item?id=40568233) - [UniSuper Google Cloud Outage Reveals Need for Keen Backup and DR Planning](https://www.n-able.com/blog/unisuper-google-cloud-outage-reveals-need-for-keen-backup-and-dr-planning)
 * [2024-06-03, 21:54:09](https://news.ycombinator.com/item?id=40568026) - [Scientists should use AI as a tool, not an oracle](https://www.aisnakeoil.com/p/scientists-should-use-ai-as-a-tool)
 * [2024-06-03, 21:44:59](https://news.ycombinator.com/item?id=40567924) - [The Future Is Retro – ModRetro](https://modretro.com/blogs/blog/the-future-is-retro)
