@@ -65,28 +65,18 @@
       "https://news.ycombinator.com/item?id=40569531"
     ],
     [
-      "Diffusion on Syntax Trees for Program Synthesis",
+      "Diffusion on syntax trees for program synthesis",
       "https://tree-diffusion.github.io/"
     ]
   ],
   [
     [
-      "2024-06-04, 00:39:22",
-      "https://news.ycombinator.com/item?id=40569458"
+      "2024-06-03, 21:07:50",
+      "https://news.ycombinator.com/item?id=40567580"
     ],
     [
-      "Please support \"skip to main content\" on your docs site",
-      "https://technicalwriting.dev/a11y/skip.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-03, 21:19:42",
-      "https://news.ycombinator.com/item?id=40567676"
-    ],
-    [
-      "New theory suggests time is an illusion created by quantum entanglement",
-      "https://bgr.com/science/new-theory-suggests-time-is-an-illusion-created-by-quantum-entanglement/"
+      "Special-use domain 'home.arpa.' (2018)",
+      "https://datatracker.ietf.org/doc/html/rfc8375"
     ]
   ],
   [
@@ -107,6 +97,16 @@
     [
       "Grokfast: Accelerated Grokking by Amplifying Slow Gradients",
       "https://arxiv.org/abs/2405.20233"
+    ]
+  ],
+  [
+    [
+      "2024-06-03, 18:57:30",
+      "https://news.ycombinator.com/item?id=40566142"
+    ],
+    [
+      "The Moral Economy of the Shire",
+      "https://nathangoldwag.wordpress.com/2024/05/31/the-moral-economy-of-the-shire/"
     ]
   ],
   [
@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2024-06-03, 16:48:30",
-      "https://news.ycombinator.com/item?id=40564520"
-    ],
-    [
-      "Cirkoban: Sokoban meets cellular automata written in Scheme",
-      "https://spritely.institute/news/cirkoban-sokoban-meets-cellular-automata-written-in-scheme.html"
-    ]
-  ],
-  [
-    [
       "2024-06-03, 16:07:33",
       "https://news.ycombinator.com/item?id=40564079"
     ],
@@ -167,6 +157,16 @@
     [
       "Mamba-2 – State Space Duality",
       "https://tridao.me/blog/2024/mamba2-part1-model/"
+    ]
+  ],
+  [
+    [
+      "2024-06-03, 16:00:04",
+      "https://news.ycombinator.com/item?id=40563984"
+    ],
+    [
+      "Show HN: Brioche – A new Nix-like package manager",
+      "https://brioche.dev/blog/announcing-brioche/"
     ]
   ],
   [
@@ -221,22 +221,22 @@
   ],
   [
     [
-      "2024-06-03, 09:22:53",
-      "https://news.ycombinator.com/item?id=40560768"
-    ],
-    [
-      "I'm forking Ladybird and stepping down as SerenityOS BDFL",
-      "https://awesomekling.substack.com/p/forking-ladybird-and-stepping-down-serenityos"
-    ]
-  ],
-  [
-    [
       "2024-06-02, 19:28:10",
       "https://news.ycombinator.com/item?id=40556627"
     ],
     [
       "How to make a great government website",
       "https://asteriskmag.com/issues/06/how-to-make-a-great-government-website"
+    ]
+  ],
+  [
+    [
+      "2024-06-02, 12:55:25",
+      "https://news.ycombinator.com/item?id=40553720"
+    ],
+    [
+      "Ligra – an open source image projector based off of flea marked parts",
+      "https://github.com/Jana-Marie/ligra"
     ]
   ],
   [
