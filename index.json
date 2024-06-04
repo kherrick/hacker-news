@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2024-06-04, 20:25:35",
+      "https://news.ycombinator.com/item?id=40578585"
+    ],
+    [
+      "SpaceX received FAA approval for Starship flight 4",
+      "https://drs.faa.gov/browse/excelExternalWindow/DRSDOCID173891218620231102140506.0001%3FmodalOpened%3Dtrue%3FmodalOpened%3Dtrue?modalOpened=true"
+    ]
+  ],
+  [
+    [
       "2024-06-04, 20:10:23",
       "https://news.ycombinator.com/item?id=40578460"
     ],
@@ -91,6 +101,26 @@
   ],
   [
     [
+      "2024-06-04, 19:25:47",
+      "https://news.ycombinator.com/item?id=40578060"
+    ],
+    [
+      "Entropy, a CLI that scans files to find high entropy lines (might be secrets)",
+      "https://github.com/EwenQuim/entropy"
+    ]
+  ],
+  [
+    [
+      "2024-06-04, 18:59:40",
+      "https://news.ycombinator.com/item?id=40577800"
+    ],
+    [
+      "Herbie: Optimize Floating-Point Expressions",
+      "https://herbie.uwplse.org/demo/"
+    ]
+  ],
+  [
+    [
       "2024-06-04, 18:51:34",
       "https://news.ycombinator.com/item?id=40577726"
     ],
@@ -121,32 +151,12 @@
   ],
   [
     [
-      "2024-06-04, 18:00:44",
-      "https://news.ycombinator.com/item?id=40577216"
-    ],
-    [
-      "Mozilla Builders Accelerator 2024",
-      "https://future.mozilla.org/builders/"
-    ]
-  ],
-  [
-    [
       "2024-06-04, 16:20:49",
       "https://news.ycombinator.com/item?id=40576132"
     ],
     [
       "Why do electronic components have such odd values? (2021)",
       "https://digilent.com/blog/why-do-electronic-components-have-such-odd-values/"
-    ]
-  ],
-  [
-    [
-      "2024-06-04, 14:36:49",
-      "https://news.ycombinator.com/item?id=40575081"
-    ],
-    [
-      "CO2 helps viruses stay alive longer in the air",
-      "https://www.statnews.com/2024/06/04/co2-ventilation-research-virus-airborne-life-haddrell-celebs/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Hacking millions of modems and investigating who hacked my modem",
       "https://samcurry.net/hacking-millions-of-modems"
-    ]
-  ],
-  [
-    [
-      "2024-06-02, 16:39:31",
-      "https://news.ycombinator.com/item?id=40555415"
-    ],
-    [
-      "A Brief Look at the 3DS Cartridge Protocol",
-      "https://blog.winter-software.com/2024/06/02/ctr-cart-protocol"
     ]
   ],
   [
