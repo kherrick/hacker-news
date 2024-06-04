@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-04](index.md)
 
+* [2024-06-04, 16:53:18](https://news.ycombinator.com/item?id=40576562) - [My simple theory on why we stopped building beautiful buildings](https://danfrank.ca/my-simple-theory-on-why-we-stopped-building-beautiful-buildings-and-why-many-other-things-suck-more-than-youd-expect/)
 * [2024-06-04, 16:38:02](https://news.ycombinator.com/item?id=40576356) - [Millions forced to use brain as OpenAI's ChatGPT takes morning off](https://www.theregister.com/2024/06/04/openai_chatgpt_outage/)
 * [2024-06-04, 16:33:52](https://news.ycombinator.com/item?id=40576305) - [See the Cybertruck's Steer-by-Wire System in Action (Including a Disturbing Lag)](https://gizmodo.com/see-the-cybertrucks-steer-by-wire-system-in-action-inc-1851518314)
 * [2024-06-04, 16:12:33](https://news.ycombinator.com/item?id=40576052) - [Online streaming services in Canada must hand over 5% of domestic revenues](https://www.cbc.ca/news/business/canada-online-streaming-services-1.7223840)
@@ -22,6 +23,7 @@
 * [2024-06-04, 13:42:03](https://news.ycombinator.com/item?id=40574562) - [Reverse Z in 3D graphics (and why it's so awesome)](https://tomhultonharrop.com/mathematics/graphics/2023/08/06/reverse-z.html)
 * [2024-06-04, 13:30:30](https://news.ycombinator.com/item?id=40574436) - [The FBI ran a cell phone company for criminals](https://www.npr.org/2024/05/31/1197959218/fbi-phone-company-anom)
 * [2024-06-04, 13:28:42](https://news.ycombinator.com/item?id=40574423) - [Nintendo Hits 127 Switch Piracy Tutorial Repos After 'Cracking' URL Encryption](https://torrentfreak.com/nintendo-hits-127-switch-piracy-tutorial-repos-after-cracking-url-encryption-240604/)
+* [2024-06-04, 13:12:02](https://news.ycombinator.com/item?id=40574230) - [Show HN: A website that can generate rap lyrics and songs with AI](https://rapgenerator.net)
 * [2024-06-04, 13:02:53](https://news.ycombinator.com/item?id=40574154) - [New all-optical approach to revolutionise night vision technology](https://www.tmos.org.au/research/new-all-optical-approach-to-revolutionise-night-vision-technology/)
 * [2024-06-04, 12:43:03](https://news.ycombinator.com/item?id=40573932) - [Siemens' battery trains set to save £3.5B and consign diesel trains to history](https://railuk.com/electrification/siemens-british-battery-trains-set-to-save-3-5bn-and-consign-diesel-trains-to-history/)
 * [2024-06-04, 12:34:13](https://news.ycombinator.com/item?id=40573843) - [Harvard's Largest Faculty Division Will No Longer Require Diversity Statements](https://www.nytimes.com/2024/06/03/us/harvard-diversity-statements.html)
