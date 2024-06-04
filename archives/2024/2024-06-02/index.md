@@ -78,6 +78,7 @@
 * [2024-06-02, 08:16:04](https://news.ycombinator.com/item?id=40552395) - [China's Chang'e-6 probe successfully lands on far side of the moon](https://www.cnn.com/2024/06/01/china/china-change6-moon-landing-intl-hnk-scn/index.html)
 * [2024-06-02, 08:13:51](https://news.ycombinator.com/item?id=40552377) - [The Sword of Kumdor](https://lynn.github.io/kumdor/)
 * [2024-06-02, 07:58:45](https://news.ycombinator.com/item?id=40552291) - [Pre-Work for Setting OKRs](https://eleganthack.com/pre-work-for-setting-okrs/)
+* [2024-06-02, 07:53:14](https://news.ycombinator.com/item?id=40552257) - [ht: Headless Terminal](https://github.com/andyk/ht)
 * [2024-06-02, 07:21:56](https://news.ycombinator.com/item?id=40552108) - [China lands Chang'e 6 sample-return probe on far side of the moon](https://www.space.com/china-change-6-lands-on-moon-far-side-sample-return-mission)
 * [2024-06-02, 07:18:08](https://news.ycombinator.com/item?id=40552090) - [Algorithms Interviews: Theory vs. Practice](https://danluu.com/algorithms-interviews/)
 * [2024-06-02, 06:57:04](https://news.ycombinator.com/item?id=40551974) - [Grain: The High-Level Language Optimized for WebAssembly](https://thenewstack.io/meet-grain-the-high-level-language-optimized-for-webassembly/)
