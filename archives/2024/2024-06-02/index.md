@@ -71,6 +71,7 @@
 * [2024-06-02, 08:50:36](https://news.ycombinator.com/item?id=40552561) - [Paged Out: Issue 4 [pdf]](https://pagedout.institute/download/PagedOut_004_beta1.pdf)
 * [2024-06-02, 08:47:37](https://news.ycombinator.com/item?id=40552549) - [Show HN: Fusio 5.0 released – open-source API management platform](https://www.fusio-project.org/)
 * [2024-06-02, 08:47:36](https://news.ycombinator.com/item?id=40552548) - [FineWeb: Decanting the web for the finest text data at scale](https://huggingface.co/spaces/HuggingFaceFW/blogpost-fineweb-v1)
+* [2024-06-02, 08:34:58](https://news.ycombinator.com/item?id=40552494) - [Ganjifa](https://en.wikipedia.org/wiki/Ganjifa)
 * [2024-06-02, 08:22:11](https://news.ycombinator.com/item?id=40552431) - [Best DOS GUIs That I've Found (So Far)](https://multiboot-windows.dscloud.me/All_Pages_for_DOS_GUIs/DG00_The_Best_22_DOS_GUIs_Ive_Found.html)
 * [2024-06-02, 08:20:49](https://news.ycombinator.com/item?id=40552423) - [Voice analysis shows striking similarity between Scarlett Johansson and ChatGPT](https://www.npr.org/2024/05/31/g-s1-2263/voice-lab-analysis-striking-similarity-scarlett-johansson-chatgpt-sky-openai)
 * [2024-06-02, 08:16:13](https://news.ycombinator.com/item?id=40552398) - [If A.I. Can Do Your Job, Maybe It Can Also Replace Your CEO](https://www.msn.com/en-us/news/us/if-a-i-can-do-your-job-maybe-it-can-also-replace-your-c-e-o/ar-BB1nbdAX)

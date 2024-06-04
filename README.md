@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-04, 05:07:57](https://news.ycombinator.com/item?id=40570892) - [Koheesio: Nike's Python-based framework to build advanced data-pipelines](https://github.com/Nike-Inc/koheesio)
+* [2024-06-04, 04:46:58](https://news.ycombinator.com/item?id=40570781) - [Hacking Millions of Modems (and Investigating Who Hacked My Modem)](https://samcurry.net/hacking-millions-of-modems)
 * [2024-06-04, 03:17:48](https://news.ycombinator.com/item?id=40570356) - [Intel Unveils Lunar Lake Architecture](https://www.anandtech.com/show/21425/intel-lunar-lake-architecture-deep-dive-lion-cove-xe2-and-npu4)
 * [2024-06-04, 03:11:18](https://news.ycombinator.com/item?id=40570326) - [Intel's Lion Cove Architecture Preview](https://chipsandcheese.com/2024/06/03/intels-lion-cove-architecture-preview/)
 * [2024-06-04, 02:32:47](https://news.ycombinator.com/item?id=40570131) - [Rare and Amusing Insults, Volume 2](https://www.merriam-webster.com/wordplay/top-10-rare-and-amusing-insults-vol-2)
@@ -16,7 +17,6 @@
 * [2024-06-03, 16:48:30](https://news.ycombinator.com/item?id=40564520) - [Cirkoban: Sokoban meets cellular automata written in Scheme](https://spritely.institute/news/cirkoban-sokoban-meets-cellular-automata-written-in-scheme.html)
 * [2024-06-03, 16:07:33](https://news.ycombinator.com/item?id=40564079) - [Feynman Computer Science Lecture – Hardware, Software, Heuristics (1985) [video]](https://www.youtube.com/watch?v=EKWGGDXe5MA)
 * [2024-06-03, 16:07:13](https://news.ycombinator.com/item?id=40564067) - [Mamba-2 – State Space Duality](https://tridao.me/blog/2024/mamba2-part1-model/)
-* [2024-06-03, 15:23:19](https://news.ycombinator.com/item?id=40563577) - [Pigeon towers: The rise and fall of a 17th-century status symbol (2015)](https://www.atlasobscura.com/articles/dovecotes)
 * [2024-06-03, 15:01:54](https://news.ycombinator.com/item?id=40563283) - [Ask HN: Who is hiring? (June 2024)](https://news.ycombinator.com/item?id=40563283)
 * [2024-06-03, 15:01:52](https://news.ycombinator.com/item?id=40563280) - [Ask HN: Who wants to be hired? (June 2024)](https://news.ycombinator.com/item?id=40563280)
 * [2024-06-03, 14:05:41](https://news.ycombinator.com/item?id=40562741) - [What if they gave an Industrial Revolution and nobody came? (2023)](https://rootsofprogress.org/robert-allen-british-industrial-revolution)
@@ -24,10 +24,10 @@
 * [2024-06-03, 12:07:57](https://news.ycombinator.com/item?id=40561872) - [How many photons are received per bit transmitted from Voyager 1?](https://physics.stackexchange.com/questions/816698/how-many-photons-are-received-per-bit-transmitted-from-voyager-1)
 * [2024-06-03, 09:22:53](https://news.ycombinator.com/item?id=40560768) - [I'm forking Ladybird and stepping down as SerenityOS BDFL](https://awesomekling.substack.com/p/forking-ladybird-and-stepping-down-serenityos)
 * [2024-06-02, 19:28:10](https://news.ycombinator.com/item?id=40556627) - [How to make a great government website](https://asteriskmag.com/issues/06/how-to-make-a-great-government-website)
-* [2024-06-02, 12:55:25](https://news.ycombinator.com/item?id=40553720) - [Ligra – an open source image projector based off of flea marked parts](https://github.com/Jana-Marie/ligra)
 * [2024-06-02, 12:23:44](https://news.ycombinator.com/item?id=40553541) - [Optimizing 128-bit Division (2020)](https://danlark.org/2020/06/14/128-bit-division/)
 * [2024-06-02, 11:39:04](https://news.ycombinator.com/item?id=40553267) - [Show HN: Tunnelling TCP through a file](https://github.com/fiddyschmitt/File-Tunnel)
 * [2024-06-02, 09:09:10](https://news.ycombinator.com/item?id=40552644) - [How to Walk and Talk: Everything We Know (2023) [pdf]](https://kk.org/thetechnium/files/2023/12/howtowalkandtalk.pdf)
+* [2024-06-02, 08:34:58](https://news.ycombinator.com/item?id=40552494) - [Ganjifa](https://en.wikipedia.org/wiki/Ganjifa)
 * [2024-06-01, 20:14:29](https://news.ycombinator.com/item?id=40548744) - [Hermann Grassmann and the nature of abstractions](https://github.com/Dicklesworthstone/grassman_article)
 * [2024-06-01, 19:53:09](https://news.ycombinator.com/item?id=40548571) - [Seeing Like a Data Structure](https://www.belfercenter.org/publication/seeing-data-structure)
 
