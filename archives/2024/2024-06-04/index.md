@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-04](index.md)
 
 * [2024-06-04, 13:46:55](https://news.ycombinator.com/item?id=40574604) - ['Extremely impressive': melanoma jab trial results excite doctors](https://www.theguardian.com/society/article/2024/jun/03/extremely-impressive-melanoma-jab-trial-results-excite-doctors)
+* [2024-06-04, 13:42:03](https://news.ycombinator.com/item?id=40574562) - [Reverse Z in 3D graphics (and why it's so awesome)](https://tomhultonharrop.com/mathematics/graphics/2023/08/06/reverse-z.html)
 * [2024-06-04, 13:30:30](https://news.ycombinator.com/item?id=40574436) - [The FBI ran a cell phone company for criminals](https://www.npr.org/2024/05/31/1197959218/fbi-phone-company-anom)
 * [2024-06-04, 13:28:42](https://news.ycombinator.com/item?id=40574423) - [Nintendo Hits 127 Switch Piracy Tutorial Repos After 'Cracking' URL Encryption](https://torrentfreak.com/nintendo-hits-127-switch-piracy-tutorial-repos-after-cracking-url-encryption-240604/)
 * [2024-06-04, 13:02:53](https://news.ycombinator.com/item?id=40574154) - [New all-optical approach to revolutionise night vision technology](https://www.tmos.org.au/research/new-all-optical-approach-to-revolutionise-night-vision-technology/)

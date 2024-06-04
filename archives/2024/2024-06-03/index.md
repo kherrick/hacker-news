@@ -88,6 +88,7 @@
 * [2024-06-03, 07:53:46](https://news.ycombinator.com/item?id=40560300) - [Making USB devices – end to end guide to your first gadget](https://popovicu.com/posts/making-usb-devices/)
 * [2024-06-03, 07:40:41](https://news.ycombinator.com/item?id=40560233) - [The simdjson library](https://simdjson.org/)
 * [2024-06-03, 07:10:02](https://news.ycombinator.com/item?id=40560101) - [In which five different paths lead to methods](https://technomancy.us/197)
+* [2024-06-03, 06:20:13](https://news.ycombinator.com/item?id=40559849) - [What to Learn (2021)](https://danluu.com/learn-what/)
 * [2024-06-03, 05:37:27](https://news.ycombinator.com/item?id=40559657) - [Qimgv – Fast, simple image viewer](https://github.com/easymodo/qimgv)
 * [2024-06-03, 05:09:33](https://news.ycombinator.com/item?id=40559520) - [Her Blazing World](https://aeon.co/essays/the-contradictions-that-give-life-to-margaret-cavendishs-story)
 * [2024-06-03, 04:46:13](https://news.ycombinator.com/item?id=40559416) - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4360841006)
