@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-06-04, 12:34:13",
-      "https://news.ycombinator.com/item?id=40573843"
+      "2024-06-04, 12:43:03",
+      "https://news.ycombinator.com/item?id=40573932"
     ],
     [
-      "Harvard's Largest Faculty Division Will No Longer Require Diversity Statements",
-      "https://www.nytimes.com/2024/06/03/us/harvard-diversity-statements.html"
+      "Siemens' battery trains set to save £3.5B and consign diesel trains to history",
+      "https://railuk.com/electrification/siemens-british-battery-trains-set-to-save-3-5bn-and-consign-diesel-trains-to-history/"
     ]
   ],
   [
@@ -51,26 +51,6 @@
   ],
   [
     [
-      "2024-06-04, 11:40:47",
-      "https://news.ycombinator.com/item?id=40573353"
-    ],
-    [
-      "SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales",
-      "https://arxiv.org/abs/2405.20974"
-    ]
-  ],
-  [
-    [
-      "2024-06-04, 11:38:04",
-      "https://news.ycombinator.com/item?id=40573326"
-    ],
-    [
-      "Comparison of OSS photo management tools",
-      "https://meichthys.github.io/foss_photo_libraries/"
-    ]
-  ],
-  [
-    [
       "2024-06-04, 11:25:18",
       "https://news.ycombinator.com/item?id=40573211"
     ],
@@ -81,62 +61,12 @@
   ],
   [
     [
-      "2024-06-04, 11:11:06",
-      "https://news.ycombinator.com/item?id=40573097"
-    ],
-    [
-      "Security researcher discovers Microsoft's Recall tool is woefully insecure",
-      "https://www.windowscentral.com/software-apps/windows-11/microsoft-should-recall-windows-recall-security-researcher-finds-microsofts-new-ai-tool-woefully-insecure"
-    ]
-  ],
-  [
-    [
-      "2024-06-04, 10:29:01",
-      "https://news.ycombinator.com/item?id=40572737"
-    ],
-    [
-      "America's commute to work is getting longer and longer",
-      "https://www.wsj.com/lifestyle/workplace/americas-commute-to-work-is-getting-longer-and-longer-0fbf79c3"
-    ]
-  ],
-  [
-    [
-      "2024-06-04, 09:47:03",
-      "https://news.ycombinator.com/item?id=40572501"
-    ],
-    [
-      "Using Vectorize to build an unreasonably good search engine in 160 lines of code",
-      "https://blog.partykit.io/posts/using-vectorize-to-build-search/"
-    ]
-  ],
-  [
-    [
-      "2024-06-04, 08:58:02",
-      "https://news.ycombinator.com/item?id=40572219"
-    ],
-    [
-      "Show HN: Web Development with Htmx, Type-Guided Components, Pure Python",
-      "https://getludic.dev/docs/"
-    ]
-  ],
-  [
-    [
       "2024-06-04, 08:25:19",
       "https://news.ycombinator.com/item?id=40571995"
     ],
     [
       "A breakthrough towards the Riemann hypothesis",
       "https://mathstodon.xyz/@tao/112557248794707738"
-    ]
-  ],
-  [
-    [
-      "2024-06-04, 06:47:51",
-      "https://news.ycombinator.com/item?id=40571395"
-    ],
-    [
-      "I am sick of LeetCode-style interviews",
-      "https://nelson.cloud/i-am-so-sick-of-leetcode-style-interviews/"
     ]
   ],
   [
@@ -191,6 +121,16 @@
   ],
   [
     [
+      "2024-06-03, 22:45:08",
+      "https://news.ycombinator.com/item?id=40568515"
+    ],
+    [
+      "Psychedelics are challenging the standard of randomized controlled trials",
+      "https://www.theatlantic.com/health/archive/2024/06/psychedelics-mdma-ptsd-fda-placebo/678588/"
+    ]
+  ],
+  [
+    [
       "2024-06-03, 21:07:50",
       "https://news.ycombinator.com/item?id=40567580"
     ],
@@ -221,12 +161,42 @@
   ],
   [
     [
+      "2024-06-03, 17:34:42",
+      "https://news.ycombinator.com/item?id=40565060"
+    ],
+    [
+      "If English was written like Chinese (1999)",
+      "https://zompist.com/yingzi/yingzi.htm"
+    ]
+  ],
+  [
+    [
       "2024-06-03, 17:00:33",
       "https://news.ycombinator.com/item?id=40564639"
     ],
     [
       "Why YC went to DC",
       "https://www.ycombinator.com/blog/why-yc-went-to-dc/"
+    ]
+  ],
+  [
+    [
+      "2024-06-03, 16:07:33",
+      "https://news.ycombinator.com/item?id=40564079"
+    ],
+    [
+      "Feynman Computer Science Lecture – Hardware, Software, Heuristics (1985) [video]",
+      "https://www.youtube.com/watch?v=EKWGGDXe5MA"
+    ]
+  ],
+  [
+    [
+      "2024-06-03, 16:07:13",
+      "https://news.ycombinator.com/item?id=40564067"
+    ],
+    [
+      "Mamba-2 – State Space Duality",
+      "https://tridao.me/blog/2024/mamba2-part1-model/"
     ]
   ],
   [
@@ -241,12 +211,42 @@
   ],
   [
     [
+      "2024-06-03, 13:31:47",
+      "https://news.ycombinator.com/item?id=40562458"
+    ],
+    [
+      "Show HN: I made a tiny camera with super long battery life",
+      "https://toaster.llc/photon/"
+    ]
+  ],
+  [
+    [
       "2024-06-03, 12:07:57",
       "https://news.ycombinator.com/item?id=40561872"
     ],
     [
       "How many photons are received per bit transmitted from Voyager 1?",
       "https://physics.stackexchange.com/questions/816698/how-many-photons-are-received-per-bit-transmitted-from-voyager-1"
+    ]
+  ],
+  [
+    [
+      "2024-06-02, 23:56:58",
+      "https://news.ycombinator.com/item?id=40558102"
+    ],
+    [
+      "Formlabs Form 4 Teardown",
+      "https://www.bunniestudios.com/blog/2024/formlabs-form-4-teardown/"
+    ]
+  ],
+  [
+    [
+      "2024-06-02, 15:57:41",
+      "https://news.ycombinator.com/item?id=40555131"
+    ],
+    [
+      "Here comes the Muybridge camera moment but for text",
+      "https://interconnected.org/home/2024/05/31/camera"
     ]
   ],
   [
