@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-04, 20:10:23",
+      "https://news.ycombinator.com/item?id=40578460"
+    ],
+    [
+      "Things the guys who stole my phone have texted me to try to get me to unlock it",
+      "https://gothamist.com/news/things-the-guys-who-stole-my-phone-have-texted-me-to-try-to-get-me-to-unlock-it"
+    ]
+  ],
+  [
+    [
+      "2024-06-04, 20:05:24",
+      "https://news.ycombinator.com/item?id=40578414"
+    ],
+    [
+      "Debian's /tmpest in a teapot",
+      "https://lwn.net/SubscriberLink/975565/bcce68a68d82d63a/"
+    ]
+  ],
+  [
+    [
       "2024-06-04, 19:39:26",
       "https://news.ycombinator.com/item?id=40578176"
     ],
@@ -51,32 +71,12 @@
   ],
   [
     [
-      "2024-06-04, 18:04:36",
-      "https://news.ycombinator.com/item?id=40577263"
-    ],
-    [
-      "Arm aims to capture 50% of PC market in five years, CEO says",
-      "https://www.reuters.com/technology/arm-aims-capture-50-pc-market-five-years-ceo-says-2024-06-03/"
-    ]
-  ],
-  [
-    [
       "2024-06-04, 18:00:44",
       "https://news.ycombinator.com/item?id=40577216"
     ],
     [
       "Mozilla Builders Accelerator 2024",
       "https://future.mozilla.org/builders/"
-    ]
-  ],
-  [
-    [
-      "2024-06-04, 17:15:00",
-      "https://news.ycombinator.com/item?id=40576804"
-    ],
-    [
-      "No physics? No problem. AI weather forecasting is already making strides",
-      "https://arstechnica.com/ai/2024/06/as-a-potentially-historic-hurricane-season-looms-can-ai-forecast-models-help/"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2024-06-03, 07:06:30",
-      "https://news.ycombinator.com/item?id=40560087"
-    ],
-    [
-      "Interactive Sky Map",
-      "https://www.wikisky.org/?locale=EN"
-    ]
-  ],
-  [
-    [
       "2024-06-03, 06:51:24",
       "https://news.ycombinator.com/item?id=40560010"
     ],
@@ -297,6 +287,16 @@
     [
       "Smartphone Camera Sensors: OmniVision, Samsung Isocell and Sony Exmor",
       "https://ek.ua/en/post/3485/122-matricy-kamer-smartfonov-omnivision-samsung-isocell-i-sony-exmor/"
+    ]
+  ],
+  [
+    [
+      "2024-06-02, 06:21:28",
+      "https://news.ycombinator.com/item?id=40551848"
+    ],
+    [
+      "Nvidia's flagship gaming GPU can crack complex passwords in under an hour",
+      "https://www.tomshardware.com/pc-components/gpus/nvidias-flagship-gaming-gpu-can-crack-complex-passwords-in-under-an-hour"
     ]
   ]
 ]
