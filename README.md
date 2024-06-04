@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-04, 17:04:55](https://news.ycombinator.com/item?id=40576696) - [Canada says online streaming services must hand over 5% of their revenues](https://stocks.apple.com/AYtO_yS1CTM2QxOHYsjKIaw)
 * [2024-06-04, 16:53:18](https://news.ycombinator.com/item?id=40576562) - [My simple theory on why we stopped building beautiful buildings](https://danfrank.ca/my-simple-theory-on-why-we-stopped-building-beautiful-buildings-and-why-many-other-things-suck-more-than-youd-expect/)
-* [2024-06-04, 16:31:45](https://news.ycombinator.com/item?id=40576281) - [Connect joins the CNCF: gRPC you can bet your business on](https://buf.build/blog/connect-rpc-joins-cncf)
-* [2024-06-04, 16:20:49](https://news.ycombinator.com/item?id=40576132) - [Why do electronic components have such odd values?](https://digilent.com/blog/why-do-electronic-components-have-such-odd-values/)
+* [2024-06-04, 16:20:49](https://news.ycombinator.com/item?id=40576132) - [Why do electronic components have such odd values? (2021)](https://digilent.com/blog/why-do-electronic-components-have-such-odd-values/)
 * [2024-06-04, 16:09:35](https://news.ycombinator.com/item?id=40576030) - [Databricks to Buy Data-Management Startup Tabular](https://www.wsj.com/articles/databricks-to-buy-data-management-startup-tabular-in-bid-for-ai-clients-829e5bcf)
 * [2024-06-04, 14:36:49](https://news.ycombinator.com/item?id=40575081) - [A new discovery about carbon dioxide is challenging old ventilation doctrine](https://www.statnews.com/2024/06/04/co2-ventilation-research-virus-airborne-life-haddrell-celebs/)
 * [2024-06-04, 13:42:03](https://news.ycombinator.com/item?id=40574562) - [Reverse Z in 3D graphics (and why it's so awesome)](https://tomhultonharrop.com/mathematics/graphics/2023/08/06/reverse-z.html)
@@ -26,8 +26,8 @@
 * [2024-06-03, 07:20:59](https://news.ycombinator.com/item?id=40560155) - [Working as unexpected](https://www.chainguard.dev/unchained/working-as-unexpected)
 * [2024-06-03, 07:06:30](https://news.ycombinator.com/item?id=40560087) - [Interactive Sky Map](https://www.wikisky.org/?locale=EN)
 * [2024-06-03, 06:51:24](https://news.ycombinator.com/item?id=40560010) - [Hacking millions of modems and investigating who hacked my modem](https://samcurry.net/hacking-millions-of-modems)
-* [2024-06-02, 08:34:58](https://news.ycombinator.com/item?id=40552494) - [Ganjifa](https://en.wikipedia.org/wiki/Ganjifa)
 * [2024-06-02, 07:53:14](https://news.ycombinator.com/item?id=40552257) - [ht: Headless Terminal](https://github.com/andyk/ht)
+* [2024-06-02, 07:14:24](https://news.ycombinator.com/item?id=40552069) - [Smartphone Camera Sensors: OmniVision, Samsung Isocell and Sony Exmor](https://ek.ua/en/post/3485/122-matricy-kamer-smartfonov-omnivision-samsung-isocell-i-sony-exmor/)
 * [2024-06-01, 19:23:46](https://news.ycombinator.com/item?id=40548379) - [At the Webster Apartments](https://www.theparisreview.org/blog/2024/05/28/at-the-webster-apartments-one-of-manhattans-last-all-womens-boarding-houses/)
 * [2024-06-01, 06:19:30](https://news.ycombinator.com/item?id=40543336) - [What use is prehistory to the historian?](https://www.historytoday.com/archive/head-head/what-use-prehistory-historian)
 
