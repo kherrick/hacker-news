@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-06-04, 12:43:03",
-      "https://news.ycombinator.com/item?id=40573932"
+      "2024-06-04, 13:02:53",
+      "https://news.ycombinator.com/item?id=40574154"
     ],
     [
-      "Siemens' battery trains set to save £3.5B and consign diesel trains to history",
-      "https://railuk.com/electrification/siemens-british-battery-trains-set-to-save-3-5bn-and-consign-diesel-trains-to-history/"
+      "New all-optical approach to revolutionise night vision technology",
+      "https://www.tmos.org.au/research/new-all-optical-approach-to-revolutionise-night-vision-technology/"
+    ]
+  ],
+  [
+    [
+      "2024-06-04, 12:34:13",
+      "https://news.ycombinator.com/item?id=40573843"
+    ],
+    [
+      "Harvard's Largest Faculty Division Will No Longer Require Diversity Statements",
+      "https://www.nytimes.com/2024/06/03/us/harvard-diversity-statements.html"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2024-06-03, 16:07:13",
-      "https://news.ycombinator.com/item?id=40564067"
-    ],
-    [
-      "Mamba-2 – State Space Duality",
-      "https://tridao.me/blog/2024/mamba2-part1-model/"
-    ]
-  ],
-  [
-    [
       "2024-06-03, 16:00:04",
       "https://news.ycombinator.com/item?id=40563984"
     ],
@@ -227,16 +227,6 @@
     [
       "How many photons are received per bit transmitted from Voyager 1?",
       "https://physics.stackexchange.com/questions/816698/how-many-photons-are-received-per-bit-transmitted-from-voyager-1"
-    ]
-  ],
-  [
-    [
-      "2024-06-02, 23:56:58",
-      "https://news.ycombinator.com/item?id=40558102"
-    ],
-    [
-      "Formlabs Form 4 Teardown",
-      "https://www.bunniestudios.com/blog/2024/formlabs-form-4-teardown/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Ganjifa",
       "https://en.wikipedia.org/wiki/Ganjifa"
+    ]
+  ],
+  [
+    [
+      "2024-06-02, 07:53:14",
+      "https://news.ycombinator.com/item?id=40552257"
+    ],
+    [
+      "ht: Headless Terminal",
+      "https://github.com/andyk/ht"
     ]
   ],
   [
