@@ -6,8 +6,10 @@
 
 * [2024-06-04, 19:39:26](https://news.ycombinator.com/item?id=40578176) - [Particle Accelerators for the Microchip Era](https://www.moore.org/article-detail?newsUrlName=particle-accelerators-for-the-microchip-era)
 * [2024-06-04, 19:09:48](https://news.ycombinator.com/item?id=40577894) - [TotalRecall: Windows 11 Recall Pwned](https://github.com/xaitax/TotalRecall)
+* [2024-06-04, 18:51:34](https://news.ycombinator.com/item?id=40577726) - [How influencer cartels manipulate social media](https://cepr.org/voxeu/columns/how-influencer-cartels-manipulate-social-media-fraudulent-behaviour-hidden-plain)
 * [2024-06-04, 18:51:22](https://news.ycombinator.com/item?id=40577724) - [AI's Desperate Hunger for News Training Data Has Publishers Fighting Back](https://tvnewscheck.com/ai/article/ais-desperate-hunger-for-news-training-data-has-publishers-fighting-back-heres-how/)
 * [2024-06-04, 18:50:21](https://news.ycombinator.com/item?id=40577715) - [Skip SDKs in Simple Integrations](https://www.epicweb.dev/skip-sdks-in-simple-integrations)
+* [2024-06-04, 18:41:02](https://news.ycombinator.com/item?id=40577622) - [Attacking Android Binder: Analysis and Exploitation of CVE-2023-20938](https://androidoffsec.withgoogle.com/posts/attacking-android-binder-analysis-and-exploitation-of-cve-2023-20938/)
 * [2024-06-04, 18:27:14](https://news.ycombinator.com/item?id=40577485) - [Dr Pepper is now as popular as Pepsi. It's still shrouded in mystery](https://www.washingtonpost.com/food/2024/06/04/dr-pepper-questions-pepsi-mystery/)
 * [2024-06-04, 18:10:07](https://news.ycombinator.com/item?id=40577315) - [Charge Robotics (YC S21) is hiring SWEs to build solar construction robots](https://www.workatastartup.com/jobs/51266)
 * [2024-06-04, 18:00:44](https://news.ycombinator.com/item?id=40577216) - [Mozilla Builders Accelerator 2024](https://future.mozilla.org/builders/)
