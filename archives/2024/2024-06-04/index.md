@@ -19,6 +19,7 @@
 * [2024-06-04, 16:04:32](https://news.ycombinator.com/item?id=40575986) - [Nvidia and Salesforce double down on AI startup Cohere in $450M round](https://finance.yahoo.com/news/nvidia-salesforce-double-down-ai-152311241.html)
 * [2024-06-04, 15:30:23](https://news.ycombinator.com/item?id=40575621) - [Door slammed on last remaining easy Windows 11 local account setup workaround](https://www.tomshardware.com/software/windows/door-slammed-on-last-remaining-easy-windows-11-local-account-setup-workaround)
 * [2024-06-04, 15:22:50](https://news.ycombinator.com/item?id=40575539) - [Claude is unavailable for some users. Web and Mobile.](https://status.anthropic.com)
+* [2024-06-04, 15:22:31](https://news.ycombinator.com/item?id=40575538) - [Show HN: Shortbread App – AI-powered, romantic comics for women](https://www.shortbreadapp.com/)
 * [2024-06-04, 15:10:44](https://news.ycombinator.com/item?id=40575425) - [Tokyo dating app to promote marriage, keep out phonies](https://www.asahi.com/ajw/articles/15292637)
 * [2024-06-04, 14:51:33](https://news.ycombinator.com/item?id=40575239) - [Python's many command-line utilities](https://www.pythonmorsels.com/cli-tools/#cheat-sheet)
 * [2024-06-04, 14:36:49](https://news.ycombinator.com/item?id=40575081) - [A new discovery about carbon dioxide is challenging old ventilation doctrine](https://www.statnews.com/2024/06/04/co2-ventilation-research-virus-airborne-life-haddrell-celebs/)
