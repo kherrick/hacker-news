@@ -6,10 +6,13 @@
 
 * [2024-06-03, 23:54:30](https://news.ycombinator.com/item?id=40569134) - [Wind power and solar photovoltaics have higher energy returns than fossil fuels](https://www.nature.com/articles/s41560-024-01520-y)
 * [2024-06-03, 23:31:56](https://news.ycombinator.com/item?id=40568965) - [Scientists confirm that pasteurisation effectively inactivates influenza viruses](https://www.gla.ac.uk/news/headline_1078447_en.html)
+* [2024-06-03, 22:45:08](https://news.ycombinator.com/item?id=40568515) - [Psychedelics are challenging the standard of randomized controlled trials](https://www.theatlantic.com/health/archive/2024/06/psychedelics-mdma-ptsd-fda-placebo/678588/)
 * [2024-06-03, 22:15:09](https://news.ycombinator.com/item?id=40568233) - [UniSuper Google Cloud Outage Reveals Need for Keen Backup and DR Planning](https://www.n-able.com/blog/unisuper-google-cloud-outage-reveals-need-for-keen-backup-and-dr-planning)
 * [2024-06-03, 21:54:09](https://news.ycombinator.com/item?id=40568026) - [Scientists should use AI as a tool, not an oracle](https://www.aisnakeoil.com/p/scientists-should-use-ai-as-a-tool)
 * [2024-06-03, 21:44:59](https://news.ycombinator.com/item?id=40567924) - [The Future Is Retro – ModRetro](https://modretro.com/blogs/blog/the-future-is-retro)
 * [2024-06-03, 21:34:17](https://news.ycombinator.com/item?id=40567806) - [Whiteboard interviews are a test of obedience, not intelligence](https://ashgw.me/blog/white-board-interviews)
+* [2024-06-03, 21:19:42](https://news.ycombinator.com/item?id=40567676) - [New theory suggests time is an illusion created by quantum entanglement](https://bgr.com/science/new-theory-suggests-time-is-an-illusion-created-by-quantum-entanglement/)
+* [2024-06-03, 21:18:04](https://news.ycombinator.com/item?id=40567667) - [Why No Roman Industrial Revolution? (2022)](https://acoup.blog/2022/08/26/collections-why-no-roman-industrial-revolution/)
 * [2024-06-03, 21:07:50](https://news.ycombinator.com/item?id=40567580) - [Special-Use Domain 'Home.arpa.'](https://datatracker.ietf.org/doc/html/rfc8375)
 * [2024-06-03, 21:06:06](https://news.ycombinator.com/item?id=40567562) - [SnapMagic (YC S15), the AI copilot for electronics, is hiring a PM](https://careers.snapmagic.com/o/technical-project-manager)
 * [2024-06-03, 21:03:59](https://news.ycombinator.com/item?id=40567532) - [Python's many command-line utilities](https://www.pythonmorsels.com/cli-tools/)
