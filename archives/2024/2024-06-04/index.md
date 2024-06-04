@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-06-04](index.md)
 
+* [2024-06-04, 20:34:30](https://news.ycombinator.com/item?id=40578668) - [Some Notes on Influenceering](https://lcamtuf.substack.com/p/some-notes-on-influenceering)
 * [2024-06-04, 20:10:23](https://news.ycombinator.com/item?id=40578460) - [Things the guys who stole my phone have texted me to try to get me to unlock it](https://gothamist.com/news/things-the-guys-who-stole-my-phone-have-texted-me-to-try-to-get-me-to-unlock-it)
 * [2024-06-04, 20:05:24](https://news.ycombinator.com/item?id=40578414) - [Debian's /tmpest in a teapot](https://lwn.net/SubscriberLink/975565/bcce68a68d82d63a/)
+* [2024-06-04, 19:52:50](https://news.ycombinator.com/item?id=40578285) - [Internet addiction alters brain chemistry in young people, study finds](https://www.theguardian.com/technology/article/2024/jun/04/internet-addiction-alters-brain-chemistry-in-young-people-study-finds)
 * [2024-06-04, 19:39:26](https://news.ycombinator.com/item?id=40578176) - [Particle Accelerators for the Microchip Era](https://www.moore.org/article-detail?newsUrlName=particle-accelerators-for-the-microchip-era)
 * [2024-06-04, 19:09:48](https://news.ycombinator.com/item?id=40577894) - [TotalRecall: Windows 11 Recall Pwned](https://github.com/xaitax/TotalRecall)
 * [2024-06-04, 19:01:29](https://news.ycombinator.com/item?id=40577821) - [ARM's next-gen CPU and GPU cores are faster, more efficient](https://liliputing.com/arms-next-gen-cpu-and-graphics-cores-are-faster-more-efficient-and-now-come-bundled-together/)
@@ -14,6 +16,7 @@
 * [2024-06-04, 18:50:21](https://news.ycombinator.com/item?id=40577715) - [Skip SDKs in Simple Integrations](https://www.epicweb.dev/skip-sdks-in-simple-integrations)
 * [2024-06-04, 18:41:02](https://news.ycombinator.com/item?id=40577622) - [Attacking Android Binder: Analysis and Exploitation of CVE-2023-20938](https://androidoffsec.withgoogle.com/posts/attacking-android-binder-analysis-and-exploitation-of-cve-2023-20938/)
 * [2024-06-04, 18:27:14](https://news.ycombinator.com/item?id=40577485) - [Dr Pepper is now as popular as Pepsi. It's still shrouded in mystery](https://www.washingtonpost.com/food/2024/06/04/dr-pepper-questions-pepsi-mystery/)
+* [2024-06-04, 18:13:11](https://news.ycombinator.com/item?id=40577338) - [Deception abilities emerged in large language models](https://www.pnas.org/doi/full/10.1073/pnas.2317967121)
 * [2024-06-04, 18:10:07](https://news.ycombinator.com/item?id=40577315) - [Charge Robotics (YC S21) is hiring SWEs to build solar construction robots](https://www.workatastartup.com/jobs/51266)
 * [2024-06-04, 18:04:36](https://news.ycombinator.com/item?id=40577263) - [Arm aims to capture 50% of PC market in five years, CEO says](https://www.reuters.com/technology/arm-aims-capture-50-pc-market-five-years-ceo-says-2024-06-03/)
 * [2024-06-04, 18:00:44](https://news.ycombinator.com/item?id=40577216) - [Mozilla Builders Accelerator 2024](https://future.mozilla.org/builders/)
