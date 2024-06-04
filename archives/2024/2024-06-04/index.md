@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-06-04](index.md)
 
+* [2024-06-04, 16:11:26](https://news.ycombinator.com/item?id=40576045) - [Instagram tests forcing users to watch adverts](https://www.bbc.com/news/articles/c877y6mxdp7o)
+* [2024-06-04, 16:09:35](https://news.ycombinator.com/item?id=40576030) - [Databricks to Buy Data-Management Startup Tabular](https://www.wsj.com/articles/databricks-to-buy-data-management-startup-tabular-in-bid-for-ai-clients-829e5bcf)
+* [2024-06-04, 16:09:05](https://news.ycombinator.com/item?id=40576025) - [Current and former AI employees warn of the technology's dangers](https://www.washingtonpost.com/technology/2024/06/04/openai-employees-ai-whistleblowers/)
 * [2024-06-04, 15:22:50](https://news.ycombinator.com/item?id=40575539) - [Claude is unavailable for some users. Web and Mobile.](https://status.anthropic.com)
 * [2024-06-04, 15:10:44](https://news.ycombinator.com/item?id=40575425) - [Tokyo dating app to promote marriage, keep out phonies](https://www.asahi.com/ajw/articles/15292637)
+* [2024-06-04, 14:51:33](https://news.ycombinator.com/item?id=40575239) - [Python's many command-line utilities](https://www.pythonmorsels.com/cli-tools/#cheat-sheet)
+* [2024-06-04, 14:36:49](https://news.ycombinator.com/item?id=40575081) - [A new discovery about carbon dioxide is challenging old ventilation doctrine](https://www.statnews.com/2024/06/04/co2-ventilation-research-virus-airborne-life-haddrell-celebs/)
 * [2024-06-04, 14:18:40](https://news.ycombinator.com/item?id=40574912) - [Instagram confirms test of 'unskippable' ads](https://techcrunch.com/2024/06/03/instagram-confirms-test-of-unskippable-ads/)
 * [2024-06-04, 13:46:55](https://news.ycombinator.com/item?id=40574604) - ['Extremely impressive': melanoma jab trial results excite doctors](https://www.theguardian.com/society/article/2024/jun/03/extremely-impressive-melanoma-jab-trial-results-excite-doctors)
 * [2024-06-04, 13:42:03](https://news.ycombinator.com/item?id=40574562) - [Reverse Z in 3D graphics (and why it's so awesome)](https://tomhultonharrop.com/mathematics/graphics/2023/08/06/reverse-z.html)
