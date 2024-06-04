@@ -105,18 +105,8 @@
       "https://news.ycombinator.com/item?id=40577622"
     ],
     [
-      "Attacking Android Binder: Analysis and Exploitation of CVE-2023-20938",
+      "Attacking Android Binder",
       "https://androidoffsec.withgoogle.com/posts/attacking-android-binder-analysis-and-exploitation-of-cve-2023-20938/"
-    ]
-  ],
-  [
-    [
-      "2024-06-04, 18:13:11",
-      "https://news.ycombinator.com/item?id=40577338"
-    ],
-    [
-      "Deception abilities emerged in large language models",
-      "https://www.pnas.org/doi/full/10.1073/pnas.2317967121"
     ]
   ],
   [
@@ -227,6 +217,16 @@
     [
       "Show HN: Allocate poker chips optimally with mixed-integer nonlinear programming",
       "https://github.com/jstrieb/poker-chipper"
+    ]
+  ],
+  [
+    [
+      "2024-06-03, 16:45:01",
+      "https://news.ycombinator.com/item?id=40564489"
+    ],
+    [
+      "The state of the art in copter drones and flight control systems",
+      "https://www.mdpi.com/1424-8220/24/11/3349"
     ]
   ],
   [
