@@ -9,7 +9,7 @@
 * [2024-06-04, 19:39:26](https://news.ycombinator.com/item?id=40578176) - [Particle Accelerators for the Microchip Era](https://www.moore.org/article-detail?newsUrlName=particle-accelerators-for-the-microchip-era)
 * [2024-06-04, 19:25:47](https://news.ycombinator.com/item?id=40578060) - [Entropy, a CLI that scans files to find high entropy lines (might be secrets)](https://github.com/EwenQuim/entropy)
 * [2024-06-04, 18:59:40](https://news.ycombinator.com/item?id=40577800) - [Herbie: Optimize Floating-Point Expressions](https://herbie.uwplse.org/demo/)
-* [2024-06-04, 18:51:34](https://news.ycombinator.com/item?id=40577726) - [How influencer cartels manipulate social media](https://cepr.org/voxeu/columns/how-influencer-cartels-manipulate-social-media-fraudulent-behaviour-hidden-plain)
+* [2024-06-04, 18:51:34](https://news.ycombinator.com/item?id=40577726) - [Influencer cartels manipulate social media](https://cepr.org/voxeu/columns/how-influencer-cartels-manipulate-social-media-fraudulent-behaviour-hidden-plain)
 * [2024-06-04, 18:41:02](https://news.ycombinator.com/item?id=40577622) - [Attacking Android Binder: Analysis and Exploitation of CVE-2023-20938](https://androidoffsec.withgoogle.com/posts/attacking-android-binder-analysis-and-exploitation-of-cve-2023-20938/)
 * [2024-06-04, 18:13:11](https://news.ycombinator.com/item?id=40577338) - [Deception abilities emerged in large language models](https://www.pnas.org/doi/full/10.1073/pnas.2317967121)
 * [2024-06-04, 18:00:44](https://news.ycombinator.com/item?id=40577216) - [Mozilla Builders Accelerator 2024](https://future.mozilla.org/builders/)
