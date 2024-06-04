@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-04, 03:17:48](https://news.ycombinator.com/item?id=40570356) - [Intel Unveils Lunar Lake Architecture: New P and E Cores, Xe2-LPG GPU, NPU 4](https://www.anandtech.com/show/21425/intel-lunar-lake-architecture-deep-dive-lion-cove-xe2-and-npu4)
+* [2024-06-04, 03:17:48](https://news.ycombinator.com/item?id=40570356) - [Intel Unveils Lunar Lake Architecture](https://www.anandtech.com/show/21425/intel-lunar-lake-architecture-deep-dive-lion-cove-xe2-and-npu4)
 * [2024-06-04, 03:11:18](https://news.ycombinator.com/item?id=40570326) - [Intel's Lion Cove Architecture Preview](https://chipsandcheese.com/2024/06/03/intels-lion-cove-architecture-preview/)
 * [2024-06-04, 02:32:47](https://news.ycombinator.com/item?id=40570131) - [Rare and Amusing Insults, Volume 2](https://www.merriam-webster.com/wordplay/top-10-rare-and-amusing-insults-vol-2)
 * [2024-06-04, 01:57:29](https://news.ycombinator.com/item?id=40569949) - [New telescope images of Jupiter's moon Io rival those from spacecraft](https://phys.org/news/2024-05-glimpses-volcanic-world-telescope-images.html)
