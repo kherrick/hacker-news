@@ -142,11 +142,11 @@
             <h4>
               <span>2024-06-04 @ 17:15:00</span
               ><span class="points-container"
-                >Points: <span class="points">8</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40576804"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -163,11 +163,11 @@
             <h4>
               <span>2024-06-04 @ 16:20:49</span
               ><span class="points-container"
-                >Points: <span class="points">34</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40576132"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -184,13 +184,118 @@
             <h4>
               <span>2024-06-04 @ 16:09:35</span
               ><span class="points-container"
-                >Points: <span class="points">36</span></span
+                >Points: <span class="points">47</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40576030"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="40575538">
+          <h3>
+            <a class="item" href="https://www.shortbreadapp.com/"
+              >Show HN: Shortbread App – AI-powered, romantic comics for
+              women</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-06-04 @ 15:22:31</span
+              ><span class="points-container"
+                >Points: <span class="points">12</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40575538"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                You can see two comics episodes at
+                <a
+                  href="https://create.shortbread.ai/viewer/3d25370c-a4eb-4df4-af8e-9980a72f2bd5"
+                  >https://create.shortbread.ai/viewer/3d25370c-a4eb-4df4-af8e-...</a
+                >
+                <a
+                  href="https://create.shortbread.ai/viewer/866c2873-9962-4ebe-8f0c-64a154c263bf"
+                  >https://create.shortbread.ai/viewer/866c2873-9962-4ebe-8f0c-...</a
+                >, and read more in the app via
+                <a href="https://www.shortbreadapp.com/"
+                  >https://www.shortbreadapp.com/</a
+                >.
+              </p>
+              <p>
+                All comics in the app are made by artists using the Shortbread
+                AI Comics Studio (<a href="https://shortbread.ai"
+                  >https://shortbread.ai</a
+                >). It is a powerful Photoshop-like editor that speeds up comic
+                creation 10x with AI. The editor provides consistency and
+                granular artistic control. More below.
+              </p>
+              <p>
+                We first posted on HN 6 months ago when we built a
+                prompt-to-comics AI (<a
+                  href="https://news.ycombinator.com/item?id=37792444"
+                  >https://news.ycombinator.com/item?id=37792444</a
+                >). We sunsetted this soon after - it was a fun experiment but
+                it didn’t meet the real need of comic artists. Shortbread Studio
+                now changes this by enhancing how creators naturally work
+                instead of replacing them.
+              </p>
+              <p>The tech:</p>
+              <p>
+                One-shot Character LoRA: Artists upload a single photo of their
+                character. Our backend uses prompt engineering and ControlNet
+                pipelines to generate a synthetic dataset from this photo. This
+                dataset shows the character in all kinds of angles, poses and
+                facial expressions that the artist can pick the best from. It’s
+                then sent to our LoRA training service to create a LoRA model.
+                This takes about 7 minutes.
+              </p>
+              <p>
+                Control -&gt; Redraw -&gt; Refine Workflow: In real life
+                drawing, you draw, erase, and draw again. The human creative
+                process is iterative. In Shortbread Studio, artists can start
+                from a text prompt, a sketch, a web image or a pose reference as
+                a basis, create an initial panel and quickly modify and
+                regenerate until they get what they want. If you spend 5
+                seconds, you get a decent panel. If you spend 10 minutes, you
+                can push the limits and get pro results.
+              </p>
+              <p>
+                Built-in Post-Processing: The editor’s features include liquify,
+                upscale, remove background, and outpainting to extend an image.
+                This allows artists to remove, add, or modify parts of an image
+                on a pixel level without drawing by hand. We combine this with
+                segmentation models like Segment Anything (<a
+                  href="https://github.com/facebookresearch/segment-anything"
+                  >https://github.com/facebookresearch/segment-anything</a
+                >) to support intelligently selecting and editing a part of an
+                image.
+              </p>
+              <p>
+                Google-docs like collaboration: The Studio runs in the browser
+                and supports comments and collaboration.
+              </p>
+              <p>
+                LLM Powered Copy Editor: Comics need text. An AI agent
+                proofreads speech bubbles, fixes lettering and identifies
+                grammar mistakes.
+              </p>
+              <p>
+                Read our comics:
+                <a href="https://shortbreadapp.com/"
+                  >https://shortbreadapp.com/</a
+                >
+                (free to download + read, iOS + Android)
+              </p>
+              <p>
+                All of the above are built by a team of 3 engineers including
+                myself. I will be around to answer any questions in this thread!
+              </p>
+            </div>
           </section>
         </section>
         <section id="40575081">
@@ -198,19 +303,18 @@
             <a
               class="item"
               href="https://www.statnews.com/2024/06/04/co2-ventilation-research-virus-airborne-life-haddrell-celebs/"
-              >A new discovery about carbon dioxide is challenging old
-              ventilation doctrine</a
+              >CO2 helps viruses stay alive longer in the air</a
             >
           </h3>
           <section>
             <h4>
               <span>2024-06-04 @ 14:36:49</span
               ><span class="points-container"
-                >Points: <span class="points">51</span></span
+                >Points: <span class="points">64</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40575081"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 43</span></span
               >
             </h4>
           </section>
@@ -227,31 +331,11 @@
             <h4>
               <span>2024-06-04 @ 13:42:03</span
               ><span class="points-container"
-                >Points: <span class="points">38</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40574562"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="40574230">
-          <h3>
-            <a class="item" href="https://rapgenerator.net"
-              >Show HN: A website that can generate rap lyrics and songs with
-              AI</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-06-04 @ 13:12:02</span
-              ><span class="points-container"
-                >Points: <span class="points">8</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40574230"
-                  >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 26</span></span
               >
             </h4>
           </section>
@@ -267,11 +351,11 @@
             <h4>
               <span>2024-06-04 @ 12:29:16</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">31</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40573790"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
             <div class="text">
@@ -394,11 +478,11 @@
             <h4>
               <span>2024-06-04 @ 11:25:18</span
               ><span class="points-container"
-                >Points: <span class="points">164</span></span
+                >Points: <span class="points">166</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40573211"
                   >Comments</a
-                ><span class="descendants">: 118</span></span
+                ><span class="descendants">: 121</span></span
               >
             </h4>
           </section>
@@ -415,11 +499,11 @@
             <h4>
               <span>2024-06-04 @ 08:25:19</span
               ><span class="points-container"
-                >Points: <span class="points">273</span></span
+                >Points: <span class="points">282</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40571995"
                   >Comments</a
-                ><span class="descendants">: 70</span></span
+                ><span class="descendants">: 73</span></span
               >
             </h4>
           </section>
@@ -434,11 +518,11 @@
             <h4>
               <span>2024-06-04 @ 07:42:01</span
               ><span class="points-container"
-                >Points: <span class="points">21</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40571727"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -453,7 +537,7 @@
             <h4>
               <span>2024-06-04 @ 07:01:58</span
               ><span class="points-container"
-                >Points: <span class="points">8</span></span
+                >Points: <span class="points">10</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40571463"
                   >Comments</a
@@ -496,11 +580,11 @@
             <h4>
               <span>2024-06-04 @ 06:48:55</span
               ><span class="points-container"
-                >Points: <span class="points">76</span></span
+                >Points: <span class="points">83</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40571402"
                   >Comments</a
-                ><span class="descendants">: 75</span></span
+                ><span class="descendants">: 78</span></span
               >
             </h4>
           </section>
@@ -517,11 +601,11 @@
             <h4>
               <span>2024-06-04 @ 06:24:39</span
               ><span class="points-container"
-                >Points: <span class="points">75</span></span
+                >Points: <span class="points">80</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40571270"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 36</span></span
               >
             </h4>
           </section>
@@ -537,11 +621,11 @@
             <h4>
               <span>2024-06-04 @ 05:07:57</span
               ><span class="points-container"
-                >Points: <span class="points">165</span></span
+                >Points: <span class="points">170</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40570892"
                   >Comments</a
-                ><span class="descendants">: 51</span></span
+                ><span class="descendants">: 52</span></span
               >
             </h4>
           </section>
@@ -558,11 +642,11 @@
             <h4>
               <span>2024-06-04 @ 03:11:18</span
               ><span class="points-container"
-                >Points: <span class="points">144</span></span
+                >Points: <span class="points">146</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40570326"
                   >Comments</a
-                ><span class="descendants">: 78</span></span
+                ><span class="descendants">: 80</span></span
               >
             </h4>
           </section>
@@ -580,7 +664,7 @@
             <h4>
               <span>2024-06-04 @ 01:57:29</span
               ><span class="points-container"
-                >Points: <span class="points">161</span></span
+                >Points: <span class="points">163</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40569949"
                   >Comments</a
@@ -599,11 +683,11 @@
             <h4>
               <span>2024-06-04 @ 00:52:27</span
               ><span class="points-container"
-                >Points: <span class="points">347</span></span
+                >Points: <span class="points">353</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40569531"
                   >Comments</a
-                ><span class="descendants">: 78</span></span
+                ><span class="descendants">: 81</span></span
               >
             </h4>
           </section>
@@ -619,11 +703,11 @@
             <h4>
               <span>2024-06-04 @ 00:29:37</span
               ><span class="points-container"
-                >Points: <span class="points">81</span></span
+                >Points: <span class="points">89</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40569385"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
             <div class="text">
@@ -674,11 +758,11 @@
             <h4>
               <span>2024-06-03 @ 18:57:30</span
               ><span class="points-container"
-                >Points: <span class="points">201</span></span
+                >Points: <span class="points">203</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40566142"
                   >Comments</a
-                ><span class="descendants">: 200</span></span
+                ><span class="descendants">: 202</span></span
               >
             </h4>
           </section>
@@ -695,11 +779,11 @@
             <h4>
               <span>2024-06-03 @ 11:04:06</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40561440"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 18</span></span
               >
             </h4>
           </section>
@@ -714,11 +798,11 @@
             <h4>
               <span>2024-06-03 @ 09:51:37</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">23</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40560979"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -754,7 +838,7 @@
             <h4>
               <span>2024-06-03 @ 07:06:30</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40560087"
                   >Comments</a
@@ -776,11 +860,11 @@
             <h4>
               <span>2024-06-03 @ 06:51:24</span
               ><span class="points-container"
-                >Points: <span class="points">166</span></span
+                >Points: <span class="points">182</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40560010"
                   >Comments</a
-                ><span class="descendants">: 179</span></span
+                ><span class="descendants">: 183</span></span
               >
             </h4>
           </section>
@@ -814,11 +898,11 @@
             <h4>
               <span>2024-06-02 @ 07:53:14</span
               ><span class="points-container"
-                >Points: <span class="points">115</span></span
+                >Points: <span class="points">121</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40552257"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
           </section>
@@ -836,7 +920,7 @@
             <h4>
               <span>2024-06-02 @ 07:14:24</span
               ><span class="points-container"
-                >Points: <span class="points">5</span></span
+                >Points: <span class="points">8</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40552069"
                   >Comments</a
@@ -857,7 +941,7 @@
             <h4>
               <span>2024-06-01 @ 19:23:46</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">27</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40548379"
                   >Comments</a
@@ -878,7 +962,7 @@
             <h4>
               <span>2024-06-01 @ 06:19:30</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40543336"
                   >Comments</a
