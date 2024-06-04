@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-04, 14:18:40](https://news.ycombinator.com/item?id=40574912) - [Instagram confirms test of 'unskippable' ads](https://techcrunch.com/2024/06/03/instagram-confirms-test-of-unskippable-ads/)
 * [2024-06-04, 13:42:03](https://news.ycombinator.com/item?id=40574562) - [Reverse Z in 3D graphics (and why it's so awesome)](https://tomhultonharrop.com/mathematics/graphics/2023/08/06/reverse-z.html)
 * [2024-06-04, 12:31:31](https://news.ycombinator.com/item?id=40573814) - [Electing the Doge of Venice: analysis of a 13th Century protocol [pdf] (2007)](https://rangevoting.org/HPL-2007-28R1.pdf)
 * [2024-06-04, 12:00:22](https://news.ycombinator.com/item?id=40573535) - [Langfuse (YC W23): Hiring Product Engineer (In-Person, Open Source)](https://github.com/langfuse/langfuse/blob/main/careers)
@@ -25,6 +24,7 @@
 * [2024-06-03, 13:31:47](https://news.ycombinator.com/item?id=40562458) - [Show HN: I made a tiny camera with super long battery life](https://toaster.llc/photon/)
 * [2024-06-03, 12:07:57](https://news.ycombinator.com/item?id=40561872) - [How many photons are received per bit transmitted from Voyager 1?](https://physics.stackexchange.com/questions/816698/how-many-photons-are-received-per-bit-transmitted-from-voyager-1)
 * [2024-06-02, 12:55:25](https://news.ycombinator.com/item?id=40553720) - [Ligra – an open source image projector based off of flea marked parts](https://github.com/Jana-Marie/ligra)
+* [2024-06-02, 12:23:44](https://news.ycombinator.com/item?id=40553541) - [Optimizing 128-bit Division (2020)](https://danlark.org/2020/06/14/128-bit-division/)
 * [2024-06-02, 08:34:58](https://news.ycombinator.com/item?id=40552494) - [Ganjifa](https://en.wikipedia.org/wiki/Ganjifa)
 * [2024-06-02, 07:53:14](https://news.ycombinator.com/item?id=40552257) - [ht: Headless Terminal](https://github.com/andyk/ht)
 * [2024-06-01, 19:53:09](https://news.ycombinator.com/item?id=40548571) - [Seeing Like a Data Structure](https://www.belfercenter.org/publication/seeing-data-structure)
