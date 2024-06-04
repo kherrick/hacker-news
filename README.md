@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-04, 08:42:57](https://news.ycombinator.com/item?id=40572107) - [Epoch Times CFO charged in $67M crypto money laundering plot](https://www.bbc.com/news/articles/cg66xe59zyeo)
-* [2024-06-04, 07:10:39](https://news.ycombinator.com/item?id=40571512) - [Raspberry Pi AI Kit available now at $70](https://www.raspberrypi.com/news/raspberry-pi-ai-kit-available-now-at-70/)
 * [2024-06-04, 07:08:48](https://news.ycombinator.com/item?id=40571500) - [Ask HN: Going low-level – what to learn next?](https://news.ycombinator.com/item?id=40571500)
 * [2024-06-04, 06:47:51](https://news.ycombinator.com/item?id=40571395) - [I Am So Sick of Leetcode-Style Interviews](https://nelson.cloud/i-am-so-sick-of-leetcode-style-interviews/)
 * [2024-06-04, 05:07:57](https://news.ycombinator.com/item?id=40570892) - [Koheesio: Nike's Python-based framework to build advanced data-pipelines](https://github.com/Nike-Inc/koheesio)
@@ -17,6 +16,7 @@
 * [2024-06-03, 18:57:30](https://news.ycombinator.com/item?id=40566142) - [The Moral Economy of the Shire](https://nathangoldwag.wordpress.com/2024/05/31/the-moral-economy-of-the-shire/)
 * [2024-06-03, 17:34:42](https://news.ycombinator.com/item?id=40565060) - [If English was written like Chinese (1999)](https://zompist.com/yingzi/yingzi.htm)
 * [2024-06-03, 17:00:33](https://news.ycombinator.com/item?id=40564639) - [Why YC went to DC](https://www.ycombinator.com/blog/why-yc-went-to-dc/)
+* [2024-06-03, 16:48:30](https://news.ycombinator.com/item?id=40564520) - [Cirkoban: Sokoban meets cellular automata written in Scheme](https://spritely.institute/news/cirkoban-sokoban-meets-cellular-automata-written-in-scheme.html)
 * [2024-06-03, 16:07:13](https://news.ycombinator.com/item?id=40564067) - [Mamba-2 – State Space Duality](https://tridao.me/blog/2024/mamba2-part1-model/)
 * [2024-06-03, 16:00:04](https://news.ycombinator.com/item?id=40563984) - [Show HN: Brioche – A new Nix-like package manager](https://brioche.dev/blog/announcing-brioche/)
 * [2024-06-03, 12:07:57](https://news.ycombinator.com/item?id=40561872) - [How many photons are received per bit transmitted from Voyager 1?](https://physics.stackexchange.com/questions/816698/how-many-photons-are-received-per-bit-transmitted-from-voyager-1)
