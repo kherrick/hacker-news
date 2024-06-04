@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-06-04](index.md)
 
+* [2024-06-04, 21:00:49](https://news.ycombinator.com/item?id=40578884) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+* [2024-06-04, 20:39:52](https://news.ycombinator.com/item?id=40578705) - [An animated introduction to Fourier Series](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles)
 * [2024-06-04, 20:34:30](https://news.ycombinator.com/item?id=40578668) - [Some Notes on Influenceering](https://lcamtuf.substack.com/p/some-notes-on-influenceering)
 * [2024-06-04, 20:10:23](https://news.ycombinator.com/item?id=40578460) - [Things the guys who stole my phone have texted me to try to get me to unlock it](https://gothamist.com/news/things-the-guys-who-stole-my-phone-have-texted-me-to-try-to-get-me-to-unlock-it)
+* [2024-06-04, 20:06:51](https://news.ycombinator.com/item?id=40578433) - [Anthropic Courses](https://github.com/anthropics/courses)
 * [2024-06-04, 20:05:24](https://news.ycombinator.com/item?id=40578414) - [Debian's /tmpest in a teapot](https://lwn.net/SubscriberLink/975565/bcce68a68d82d63a/)
 * [2024-06-04, 19:52:50](https://news.ycombinator.com/item?id=40578285) - [Internet addiction alters brain chemistry in young people, study finds](https://www.theguardian.com/technology/article/2024/jun/04/internet-addiction-alters-brain-chemistry-in-young-people-study-finds)
+* [2024-06-04, 19:42:02](https://news.ycombinator.com/item?id=40578206) - [Bit-twiddling abstract addition with unknown bits](https://dougallj.wordpress.com/2020/01/13/bit-twiddling-addition-with-unknown-bits/)
 * [2024-06-04, 19:39:26](https://news.ycombinator.com/item?id=40578176) - [Particle Accelerators for the Microchip Era](https://www.moore.org/article-detail?newsUrlName=particle-accelerators-for-the-microchip-era)
 * [2024-06-04, 19:09:48](https://news.ycombinator.com/item?id=40577894) - [TotalRecall: Windows 11 Recall Pwned](https://github.com/xaitax/TotalRecall)
 * [2024-06-04, 19:01:29](https://news.ycombinator.com/item?id=40577821) - [ARM's next-gen CPU and GPU cores are faster, more efficient](https://liliputing.com/arms-next-gen-cpu-and-graphics-cores-are-faster-more-efficient-and-now-come-bundled-together/)
