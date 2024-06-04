@@ -5,6 +5,9 @@
 ### [Archives](../../index.md) for [2024-06-04](index.md)
 
 * [2024-06-04, 18:10:07](https://news.ycombinator.com/item?id=40577315) - [Charge Robotics (YC S21) is hiring SWEs to build solar construction robots](https://www.workatastartup.com/jobs/51266)
+* [2024-06-04, 18:00:44](https://news.ycombinator.com/item?id=40577216) - [Mozilla Builders Accelerator 2024](https://future.mozilla.org/builders/)
+* [2024-06-04, 17:54:34](https://news.ycombinator.com/item?id=40577170) - [ChatGPT Is at Capacity Right Now](https://heymusic.ai/music/chatgpt-is-at-capacity-right-now-0nZWQ)
+* [2024-06-04, 17:52:27](https://news.ycombinator.com/item?id=40577150) - [Job openings fall to lowest level since February 2021](https://finance.yahoo.com/news/job-openings-fall-to-lowest-level-since-february-2021-141149453.html)
 * [2024-06-04, 17:15:00](https://news.ycombinator.com/item?id=40576804) - [No physics? No problem. AI weather forecasting is already making strides](https://arstechnica.com/ai/2024/06/as-a-potentially-historic-hurricane-season-looms-can-ai-forecast-models-help/)
 * [2024-06-04, 17:04:55](https://news.ycombinator.com/item?id=40576696) - [Canada says online streaming services must hand over 5% of their revenues](https://stocks.apple.com/AYtO_yS1CTM2QxOHYsjKIaw)
 * [2024-06-04, 16:53:18](https://news.ycombinator.com/item?id=40576562) - [My simple theory on why we stopped building beautiful buildings](https://danfrank.ca/my-simple-theory-on-why-we-stopped-building-beautiful-buildings-and-why-many-other-things-suck-more-than-youd-expect/)
