@@ -7,6 +7,8 @@
 * [2024-06-04, 16:53:18](https://news.ycombinator.com/item?id=40576562) - [My simple theory on why we stopped building beautiful buildings](https://danfrank.ca/my-simple-theory-on-why-we-stopped-building-beautiful-buildings-and-why-many-other-things-suck-more-than-youd-expect/)
 * [2024-06-04, 16:38:02](https://news.ycombinator.com/item?id=40576356) - [Millions forced to use brain as OpenAI's ChatGPT takes morning off](https://www.theregister.com/2024/06/04/openai_chatgpt_outage/)
 * [2024-06-04, 16:33:52](https://news.ycombinator.com/item?id=40576305) - [See the Cybertruck's Steer-by-Wire System in Action (Including a Disturbing Lag)](https://gizmodo.com/see-the-cybertrucks-steer-by-wire-system-in-action-inc-1851518314)
+* [2024-06-04, 16:31:45](https://news.ycombinator.com/item?id=40576281) - [Connect joins the CNCF: gRPC you can bet your business on](https://buf.build/blog/connect-rpc-joins-cncf)
+* [2024-06-04, 16:20:49](https://news.ycombinator.com/item?id=40576132) - [Why do electronic components have such odd values?](https://digilent.com/blog/why-do-electronic-components-have-such-odd-values/)
 * [2024-06-04, 16:12:33](https://news.ycombinator.com/item?id=40576052) - [Online streaming services in Canada must hand over 5% of domestic revenues](https://www.cbc.ca/news/business/canada-online-streaming-services-1.7223840)
 * [2024-06-04, 16:11:26](https://news.ycombinator.com/item?id=40576045) - [Instagram tests forcing users to watch adverts](https://www.bbc.com/news/articles/c877y6mxdp7o)
 * [2024-06-04, 16:09:35](https://news.ycombinator.com/item?id=40576030) - [Databricks to Buy Data-Management Startup Tabular](https://www.wsj.com/articles/databricks-to-buy-data-management-startup-tabular-in-bid-for-ai-clients-829e5bcf)
