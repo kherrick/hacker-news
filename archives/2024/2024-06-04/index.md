@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-04](index.md)
 
+* [2024-06-04, 11:44:26](https://news.ycombinator.com/item?id=40573386) - [Chang'e-6: Moon dark side samples collected and launched into lunar orbit](https://spacenews.com/change-6-moon-samples-collected-and-launched-into-lunar-orbit/)
+* [2024-06-04, 11:40:47](https://news.ycombinator.com/item?id=40573353) - [SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales](https://arxiv.org/abs/2405.20974)
+* [2024-06-04, 11:11:34](https://news.ycombinator.com/item?id=40573104) - [Coding and Keyboards (2023)](https://www.hendrik-erz.de/post/coding-and-keyboards)
 * [2024-06-04, 11:11:06](https://news.ycombinator.com/item?id=40573097) - [Security researcher discovers Microsoft's Recall tool is woefully insecure](https://www.windowscentral.com/software-apps/windows-11/microsoft-should-recall-windows-recall-security-researcher-finds-microsofts-new-ai-tool-woefully-insecure)
 * [2024-06-04, 10:29:01](https://news.ycombinator.com/item?id=40572737) - [America's Commute to Work Is Getting Longer and Longer](https://www.wsj.com/lifestyle/workplace/americas-commute-to-work-is-getting-longer-and-longer-0fbf79c3)
 * [2024-06-04, 09:47:03](https://news.ycombinator.com/item?id=40572501) - [Using Vectorize to build an unreasonably good search engine in 160 lines of code](https://blog.partykit.io/posts/using-vectorize-to-build-search/)
@@ -11,6 +14,7 @@
 * [2024-06-04, 08:58:02](https://news.ycombinator.com/item?id=40572219) - [Show HN: Web Development with Htmx, Type-Guided Components, Pure Python](https://getludic.dev/docs/)
 * [2024-06-04, 08:42:57](https://news.ycombinator.com/item?id=40572107) - [Epoch Times CFO charged in $67M crypto money laundering plot](https://www.bbc.com/news/articles/cg66xe59zyeo)
 * [2024-06-04, 08:29:45](https://news.ycombinator.com/item?id=40572026) - [ChatGPT Is Down](https://status.openai.com/incidents/rs49lmsh6xxw)
+* [2024-06-04, 08:25:19](https://news.ycombinator.com/item?id=40571995) - [A remarkable breakthrough towards the Riemann hypothesis](https://mathstodon.xyz/@tao/112557248794707738)
 * [2024-06-04, 08:15:00](https://news.ycombinator.com/item?id=40571940) - [Excess mortality across the Western World since the Covid pandemic](https://bmjpublichealth.bmj.com/content/2/1/e000282)
 * [2024-06-04, 07:10:39](https://news.ycombinator.com/item?id=40571512) - [Raspberry Pi AI Kit available now at $70](https://www.raspberrypi.com/news/raspberry-pi-ai-kit-available-now-at-70/)
 * [2024-06-04, 07:08:48](https://news.ycombinator.com/item?id=40571500) - [Ask HN: Going low-level – what to learn next?](https://news.ycombinator.com/item?id=40571500)
