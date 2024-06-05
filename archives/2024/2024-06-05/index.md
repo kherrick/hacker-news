@@ -69,6 +69,7 @@
 * [2024-06-05, 05:43:06](https://news.ycombinator.com/item?id=40581723) - [Apple M4 iPad Pro Has a New Security Exclave for Camera and Microphone Activity](https://9to5mac.com/2024/06/03/m4-ipad-pro-security-feature-apple-hasnt-told-anyone-about/)
 * [2024-06-05, 05:09:14](https://news.ycombinator.com/item?id=40581565) - [Japan's Most Actively Traded Stock Is a Fraud and Ticking Time Bomb [pdf]](https://scorpionreports.s3.us-east-2.amazonaws.com/6920.pdf)
 * [2024-06-05, 05:02:09](https://news.ycombinator.com/item?id=40581545) - [GitHub now provides Arm-based runners](https://github.blog/2024-06-03-arm64-on-github-actions-powering-faster-more-efficient-build-systems/)
+* [2024-06-05, 04:57:26](https://news.ycombinator.com/item?id=40581519) - [Reading awc](https://akamayu-ouo.srht.site/2024-06-01-ksimple)
 * [2024-06-05, 04:52:21](https://news.ycombinator.com/item?id=40581495) - [Tetris Is Forty Years Old](https://www.bbc.com/russian/articles/cg33yn232z7o)
 * [2024-06-05, 04:43:21](https://news.ycombinator.com/item?id=40581464) - [Rejecting GMOs hinders human progress and keeps the poor hungry](https://www.theupwing.com/rejecting-gmos-hinders-human-progress-and-keeps-the-poor-hungry/)
 * [2024-06-05, 04:31:24](https://news.ycombinator.com/item?id=40581424) - [User Interfaces](https://history.user-interface.io/)
