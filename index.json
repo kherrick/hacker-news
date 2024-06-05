@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-06-05, 17:04:20",
-      "https://news.ycombinator.com/item?id=40587485"
+      "2024-06-05, 17:19:13",
+      "https://news.ycombinator.com/item?id=40587685"
     ],
     [
-      "NYC Congestion Pricing Delayed Indefinitely by Governor Kathy Hochul",
-      "https://www.bloomberg.com/news/articles/2024-06-05/nyc-congestion-pricing-risks-delay-after-hochul-weighs-pause"
+      "Stable Audio Open – Stability AI",
+      "https://stability.ai/news/introducing-stable-audio-open"
     ]
   ],
   [
@@ -17,6 +17,26 @@
     [
       "RankScience (YC W17) is hiring to supercharge SEO for startups",
       "https://remotejobs.org/companies/rankscience-remote-jobs"
+    ]
+  ],
+  [
+    [
+      "2024-06-05, 16:32:40",
+      "https://news.ycombinator.com/item?id=40586998"
+    ],
+    [
+      "Study shows banning false info traffickers online can improve public discourse",
+      "https://phys.org/news/2024-06-false-traffickers-online-discourse.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-05, 16:13:39",
+      "https://news.ycombinator.com/item?id=40586757"
+    ],
+    [
+      "We Improved the Performance of a Userspace TCP Stack in Go by 5X",
+      "https://coder.com/blog/delivering-5x-faster-throughput-in-coder-2-12-0"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2024-06-04, 19:39:26",
-      "https://news.ycombinator.com/item?id=40578176"
-    ],
-    [
-      "Particle accelerators for the microchip era",
-      "https://www.moore.org/article-detail?newsUrlName=particle-accelerators-for-the-microchip-era"
-    ]
-  ],
-  [
-    [
       "2024-06-04, 19:34:53",
       "https://news.ycombinator.com/item?id=40578145"
     ],
@@ -231,22 +241,12 @@
   ],
   [
     [
-      "2024-06-04, 06:48:55",
-      "https://news.ycombinator.com/item?id=40571402"
+      "2024-06-04, 05:51:26",
+      "https://news.ycombinator.com/item?id=40571088"
     ],
     [
-      "Don't be terrified of Pale Fire",
-      "https://unherd.com/2024/05/dont-be-terrified-of-pale-fire/"
-    ]
-  ],
-  [
-    [
-      "2024-06-04, 06:24:39",
-      "https://news.ycombinator.com/item?id=40571270"
-    ],
-    [
-      "Creating a Safari webarchive from the command line",
-      "https://alexwlchan.net/2024/creating-a-safari-webarchive/"
+      "Building a serverless secured dead drop",
+      "https://ayende.com/blog/201153-B/building-a-serverless-secured-dead-drop"
     ]
   ],
   [
