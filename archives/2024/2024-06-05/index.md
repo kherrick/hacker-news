@@ -27,6 +27,7 @@
 * [2024-06-05, 14:01:51](https://news.ycombinator.com/item?id=40584901) - [Study finds 268% higher failure rates for Agile software projects](https://www.theregister.com/2024/06/05/agile_failure_rates/)
 * [2024-06-05, 13:58:44](https://news.ycombinator.com/item?id=40584866) - [E.U. Censorship Laws Mostly Suppress Legal Speech](https://reason.com/2024/06/05/report-e-u-censorship-laws-mostly-suppress-legal-speech/)
 * [2024-06-05, 13:57:45](https://news.ycombinator.com/item?id=40584853) - [The Rise and Fall of Preview](https://pxlnv.com/linklog/preview-rise-and-fall/)
+* [2024-06-05, 13:38:49](https://news.ycombinator.com/item?id=40584612) - [Prototype of AROS ABIv0 emulator for 64-bit AROS](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1218&rowstart=60#post_5437)
 * [2024-06-05, 13:38:05](https://news.ycombinator.com/item?id=40584606) - [Popular Mac app 'Bartender' acquired by new unknown developer](https://9to5mac.com/2024/06/04/bartender-acquired-unknown-developer/)
 * [2024-06-05, 13:33:04](https://news.ycombinator.com/item?id=40584563) - [Texas poised to get own stock exchange – with less red tape than NYSE or Nasdaq](https://www.businessinsider.com/texas-stock-exchange-nyse-nasdaq-elon-musk-tesla-exxon-mobil-2024-6)
 * [2024-06-05, 13:24:14](https://news.ycombinator.com/item?id=40584498) - [Superfast Microsoft AI is first to predict air pollution for the whole world](https://www.nature.com/articles/d41586-024-01677-2)
