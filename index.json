@@ -1,6 +1,46 @@
 [
   [
     [
+      "2024-06-05, 14:13:39",
+      "https://news.ycombinator.com/item?id=40585039"
+    ],
+    [
+      "Alice in Wonderland: Simple Tasks Showing Complete Reasoning Breakdown in LLMs",
+      "https://arxiv.org/abs/2406.02061"
+    ]
+  ],
+  [
+    [
+      "2024-06-05, 14:01:51",
+      "https://news.ycombinator.com/item?id=40584901"
+    ],
+    [
+      "Study finds 268% higher failure rates for Agile software projects",
+      "https://www.theregister.com/2024/06/05/agile_failure_rates/"
+    ]
+  ],
+  [
+    [
+      "2024-06-05, 13:58:44",
+      "https://news.ycombinator.com/item?id=40584866"
+    ],
+    [
+      "E.U. Censorship Laws Mostly Suppress Legal Speech",
+      "https://reason.com/2024/06/05/report-e-u-censorship-laws-mostly-suppress-legal-speech/"
+    ]
+  ],
+  [
+    [
+      "2024-06-05, 13:57:45",
+      "https://news.ycombinator.com/item?id=40584853"
+    ],
+    [
+      "The Rise and Fall of Preview",
+      "https://pxlnv.com/linklog/preview-rise-and-fall/"
+    ]
+  ],
+  [
+    [
       "2024-06-05, 13:38:05",
       "https://news.ycombinator.com/item?id=40584606"
     ],
@@ -27,6 +67,16 @@
     [
       "Superfast Microsoft AI is first to predict air pollution for the whole world",
       "https://www.nature.com/articles/d41586-024-01677-2"
+    ]
+  ],
+  [
+    [
+      "2024-06-05, 13:17:33",
+      "https://news.ycombinator.com/item?id=40584435"
+    ],
+    [
+      "McDonald's Loses 'Big Mac' Trademark in European Union",
+      "https://apnews.com/article/mcdonalds-big-mac-eu-trademark-ireland-14922a383563c60592bd3ee152a73d87"
     ]
   ],
   [
@@ -131,16 +181,6 @@
   ],
   [
     [
-      "2024-06-04, 20:34:30",
-      "https://news.ycombinator.com/item?id=40578668"
-    ],
-    [
-      "Some notes on influenceering",
-      "https://lcamtuf.substack.com/p/some-notes-on-influenceering"
-    ]
-  ],
-  [
-    [
       "2024-06-04, 19:39:26",
       "https://news.ycombinator.com/item?id=40578176"
     ],
@@ -181,16 +221,6 @@
   ],
   [
     [
-      "2024-06-04, 11:44:26",
-      "https://news.ycombinator.com/item?id=40573386"
-    ],
-    [
-      "Chang'e-6: Moon dark side samples collected and launched into lunar orbit",
-      "https://spacenews.com/change-6-moon-samples-collected-and-launched-into-lunar-orbit/"
-    ]
-  ],
-  [
-    [
       "2024-06-04, 11:25:41",
       "https://news.ycombinator.com/item?id=40573213"
     ],
@@ -211,32 +241,12 @@
   ],
   [
     [
-      "2024-06-04, 08:25:19",
-      "https://news.ycombinator.com/item?id=40571995"
-    ],
-    [
-      "A breakthrough towards the Riemann hypothesis",
-      "https://mathstodon.xyz/@tao/112557248794707738"
-    ]
-  ],
-  [
-    [
       "2024-06-04, 07:42:01",
       "https://news.ycombinator.com/item?id=40571727"
     ],
     [
       "Sphere Rendering: Flat Planets",
       "https://emildziewanowski.com/flat-planets/"
-    ]
-  ],
-  [
-    [
-      "2024-06-04, 07:25:34",
-      "https://news.ycombinator.com/item?id=40571614"
-    ],
-    [
-      "Atash Behram – Types of Fire",
-      "https://en.wikipedia.org/wiki/Atash_Behram"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Show HN: Allocate poker chips optimally with mixed-integer nonlinear programming",
       "https://github.com/jstrieb/poker-chipper"
-    ]
-  ],
-  [
-    [
-      "2024-06-03, 19:50:20",
-      "https://news.ycombinator.com/item?id=40566784"
-    ],
-    [
-      "Use context-free grammars instead of parser combinators and PEG",
-      "https://safinaskar.writeas.com/"
     ]
   ],
   [
