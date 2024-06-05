@@ -89,6 +89,7 @@
 * [2024-06-04, 08:29:45](https://news.ycombinator.com/item?id=40572026) - [ChatGPT Is Down](https://status.openai.com/incidents/rs49lmsh6xxw)
 * [2024-06-04, 08:25:19](https://news.ycombinator.com/item?id=40571995) - [A remarkable breakthrough towards the Riemann hypothesis](https://mathstodon.xyz/@tao/112557248794707738)
 * [2024-06-04, 08:15:00](https://news.ycombinator.com/item?id=40571940) - [Excess mortality across the Western World since the Covid pandemic](https://bmjpublichealth.bmj.com/content/2/1/e000282)
+* [2024-06-04, 08:13:45](https://news.ycombinator.com/item?id=40571925) - [Google to shut down Google One VPN on June 20](https://www.zdnet.com/article/google-to-shut-down-google-one-vpn-on-june-20-here-are-some-alternatives/)
 * [2024-06-04, 07:42:01](https://news.ycombinator.com/item?id=40571727) - [Sphere Rendering: Flat Planets](https://emildziewanowski.com/flat-planets/)
 * [2024-06-04, 07:25:34](https://news.ycombinator.com/item?id=40571614) - [Atash Behram – Types of Fire](https://en.wikipedia.org/wiki/Atash_Behram)
 * [2024-06-04, 07:10:39](https://news.ycombinator.com/item?id=40571512) - [Raspberry Pi AI Kit available now at $70](https://www.raspberrypi.com/news/raspberry-pi-ai-kit-available-now-at-70/)
