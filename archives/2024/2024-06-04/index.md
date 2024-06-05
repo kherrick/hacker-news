@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2024-06-04](index.md)
 
 * [2024-06-04, 23:14:40](https://news.ycombinator.com/item?id=40579898) - [Not Just Scale](https://brooker.co.za/blog/2024/06/04/scale.html)
+* [2024-06-04, 23:13:28](https://news.ycombinator.com/item?id=40579892) - [Architectures for Central Server Collaboration](https://mattweidner.com/2024/06/04/server-architectures.html)
 * [2024-06-04, 22:51:48](https://news.ycombinator.com/item?id=40579761) - [Study shows most doctors endorsing drugs on X are paid to do so](https://medicalxpress.com/news/2024-05-doctors-endorsing-drugs-paid.html)
 * [2024-06-04, 22:34:56](https://news.ycombinator.com/item?id=40579660) - [macOS Bartender Auto-Update Signed by Unknown New Owner](https://www.macrumors.com/2024/06/04/bartender-mac-app-new-owner/)
+* [2024-06-04, 22:21:30](https://news.ycombinator.com/item?id=40579564) - [Implementing the Goodfellow GANs paper](https://ym2132.github.io/GenerativeAdversarialNetworks_Goodfellow)
 * [2024-06-04, 22:21:21](https://news.ycombinator.com/item?id=40579563) - [The Positive Hacker News RSS Feed](https://github.com/garritfra/positive_hackernews)
 * [2024-06-04, 22:15:16](https://news.ycombinator.com/item?id=40579508) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-06-04, 21:45:57](https://news.ycombinator.com/item?id=40579278) - [US Job openings fall to new 3-year low](https://www.cnn.com/2024/06/04/economy/job-openings-quits-jolts-april/index.html)
@@ -73,6 +75,7 @@
 * [2024-06-04, 12:17:33](https://news.ycombinator.com/item?id=40573693) - [The world's largest 3D printer is building cozy homes from wood](https://www.cnn.com/style/worlds-largest-3d-printer-homes-maine-hnk-spc-intl/index.html)
 * [2024-06-04, 12:11:03](https://news.ycombinator.com/item?id=40573634) - [Intel Brings a Big Fork to a Server CPU Knife Fight](https://www.nextplatform.com/2024/06/03/intel-brings-a-big-fork-to-a-server-cpu-knife-fight/)
 * [2024-06-04, 12:09:45](https://news.ycombinator.com/item?id=40573621) - [Porsche 911 Hybrid vs. Chevy Corvette E-Ray: Electrified Sports Cars Compared](https://www.thedrive.com/news/porsche-911-hybrid-vs-chevy-corvette-e-ray-electrified-sports-cars-compared)
+* [2024-06-04, 12:03:24](https://news.ycombinator.com/item?id=40573555) - [Regular, Recursive, Restricted](https://matklad.github.io/2024/06/04/regular-recursive-restricted.html)
 * [2024-06-04, 12:00:51](https://news.ycombinator.com/item?id=40573536) - [Delivering WordPress in 6KB (2018)](https://sustywp.com/)
 * [2024-06-04, 12:00:22](https://news.ycombinator.com/item?id=40573535) - [Langfuse (YC W23): Hiring Product Engineer (In-Person, Open Source)](https://github.com/langfuse/langfuse/blob/main/careers)
 * [2024-06-04, 11:44:39](https://news.ycombinator.com/item?id=40573387) - [Underscores are stupid? Get a Japanese keyboard (2012)](https://www.daveperrett.com/articles/2012/05/16/underscores-are-stupid-get-a-japanese-keyboard/)
