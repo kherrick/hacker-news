@@ -76,6 +76,7 @@
 * [2024-06-04, 11:40:47](https://news.ycombinator.com/item?id=40573353) - [SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales](https://arxiv.org/abs/2405.20974)
 * [2024-06-04, 11:38:04](https://news.ycombinator.com/item?id=40573326) - [Comparison of OSS photo management tools](https://meichthys.github.io/foss_photo_libraries/)
 * [2024-06-04, 11:33:25](https://news.ycombinator.com/item?id=40573274) - [Why I'm building a Home Lab with K8s on Raspberry Pis](https://iamsafts.com/posts/homelab-intro/)
+* [2024-06-04, 11:25:41](https://news.ycombinator.com/item?id=40573213) - [How to chop off bytes of an UTF-8 string to fit into a small slot and look nice](https://domm.plix.at/perl/2024_06_chopping_utf8.html)
 * [2024-06-04, 11:25:18](https://news.ycombinator.com/item?id=40573211) - [Encryption at Rest: Whose Threat Model Is It Anyway?](https://scottarc.blog/2024/06/02/encryption-at-rest-whose-threat-model-is-it-anyway/)
 * [2024-06-04, 11:11:34](https://news.ycombinator.com/item?id=40573104) - [Coding and Keyboards (2023)](https://www.hendrik-erz.de/post/coding-and-keyboards)
 * [2024-06-04, 11:11:06](https://news.ycombinator.com/item?id=40573097) - [Security researcher discovers Microsoft's Recall tool is woefully insecure](https://www.windowscentral.com/software-apps/windows-11/microsoft-should-recall-windows-recall-security-researcher-finds-microsofts-new-ai-tool-woefully-insecure)
