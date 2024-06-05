@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-05, 13:33:04",
+      "https://news.ycombinator.com/item?id=40584563"
+    ],
+    [
+      "Texas poised to get own stock exchange – with less red tape than NYSE or Nasdaq",
+      "https://www.businessinsider.com/texas-stock-exchange-nyse-nasdaq-elon-musk-tesla-exxon-mobil-2024-6"
+    ]
+  ],
+  [
+    [
+      "2024-06-05, 13:24:14",
+      "https://news.ycombinator.com/item?id=40584498"
+    ],
+    [
+      "Superfast Microsoft AI is first to predict air pollution for the whole world",
+      "https://www.nature.com/articles/d41586-024-01677-2"
+    ]
+  ],
+  [
+    [
       "2024-06-05, 13:12:58",
       "https://news.ycombinator.com/item?id=40584399"
     ],
@@ -57,6 +77,16 @@
     [
       "Show HN: zfind – CLI like find but using SQL syntax and also does tar/zip",
       "https://github.com/laktak/zfind"
+    ]
+  ],
+  [
+    [
+      "2024-06-05, 05:02:09",
+      "https://news.ycombinator.com/item?id=40581545"
+    ],
+    [
+      "GitHub now provides Arm-based runners",
+      "https://github.blog/2024-06-03-arm64-on-github-actions-powering-faster-more-efficient-build-systems/"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2024-06-04, 11:33:25",
-      "https://news.ycombinator.com/item?id=40573274"
-    ],
-    [
-      "Why I'm building a Home Lab with K8s on Raspberry Pis",
-      "https://iamsafts.com/posts/homelab-intro/"
-    ]
-  ],
-  [
-    [
       "2024-06-04, 11:25:41",
       "https://news.ycombinator.com/item?id=40573213"
     ],
@@ -217,16 +237,6 @@
     [
       "Atash Behram – Types of Fire",
       "https://en.wikipedia.org/wiki/Atash_Behram"
-    ]
-  ],
-  [
-    [
-      "2024-06-04, 07:01:58",
-      "https://news.ycombinator.com/item?id=40571463"
-    ],
-    [
-      "Show HN: Huewords, a Word and Logic Puzzle",
-      "https://huewords.snellman.net/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Hacking millions of modems and investigating who hacked my modem",
       "https://samcurry.net/hacking-millions-of-modems"
-    ]
-  ],
-  [
-    [
-      "2024-06-02, 16:39:31",
-      "https://news.ycombinator.com/item?id=40555415"
-    ],
-    [
-      "A Brief Look at the 3DS Cartridge Protocol",
-      "https://blog.winter-software.com/2024/06/02/ctr-cart-protocol"
     ]
   ]
 ]
