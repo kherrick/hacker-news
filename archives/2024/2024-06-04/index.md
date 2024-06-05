@@ -66,6 +66,7 @@
 * [2024-06-04, 13:12:02](https://news.ycombinator.com/item?id=40574230) - [Show HN: A website that can generate rap lyrics and songs with AI](https://rapgenerator.net)
 * [2024-06-04, 13:02:53](https://news.ycombinator.com/item?id=40574154) - [New all-optical approach to revolutionise night vision technology](https://www.tmos.org.au/research/new-all-optical-approach-to-revolutionise-night-vision-technology/)
 * [2024-06-04, 12:43:03](https://news.ycombinator.com/item?id=40573932) - [Siemens' battery trains set to save £3.5B and consign diesel trains to history](https://railuk.com/electrification/siemens-british-battery-trains-set-to-save-3-5bn-and-consign-diesel-trains-to-history/)
+* [2024-06-04, 12:34:51](https://news.ycombinator.com/item?id=40573852) - [Ask HN: How to bring traffic to my product](https://news.ycombinator.com/item?id=40573852)
 * [2024-06-04, 12:34:13](https://news.ycombinator.com/item?id=40573843) - [Harvard's Largest Faculty Division Will No Longer Require Diversity Statements](https://www.nytimes.com/2024/06/03/us/harvard-diversity-statements.html)
 * [2024-06-04, 12:31:31](https://news.ycombinator.com/item?id=40573814) - [Electing the Doge of Venice: analysis of a 13th Century protocol [pdf]](https://rangevoting.org/HPL-2007-28R1.pdf)
 * [2024-06-04, 12:29:16](https://news.ycombinator.com/item?id=40573790) - [Show HN: PlayBooks – Jupyter Notebooks style on-call investigation documents](https://github.com/DrDroidLab/PlayBooks)
