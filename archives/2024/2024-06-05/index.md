@@ -7,6 +7,7 @@
 * [2024-06-05, 21:01:57](https://news.ycombinator.com/item?id=40590570) - [Memories of an Enron Summer](https://www.dropbox.com/scl/fi/6i1800ml23i6x4wn6jp0q/Enron-Summer.pdf?rlkey=i6eyhsa658w4la0vzkdhfy7uj&e=1&st=2yjulw6q&dl=0)
 * [2024-06-05, 19:45:31](https://news.ycombinator.com/item?id=40589625) - [Democrat calls only 7 EV-charging stations deployed under US program 'pathetic'](https://finance.yahoo.com/news/democrat-calls-only-7-ev-182511859.html)
 * [2024-06-05, 19:43:34](https://news.ycombinator.com/item?id=40589585) - [Nvidia hits $3T market cap on back of AI boom](https://www.cnbc.com/2024/06/05/nvidia-briefly-passes-3-trillion-market-cap-on-back-of-ai-boom.html)
+* [2024-06-05, 19:07:59](https://news.ycombinator.com/item?id=40589011) - [Show HN: A website that tailors your resume for each job you apply for](https://resume.ink)
 * [2024-06-05, 19:07:34](https://news.ycombinator.com/item?id=40589008) - [Rabbit R1 It's a Scam](https://paulogpd.bearblog.dev/en-rabbit-r1-its-a-scam/)
 * [2024-06-05, 19:04:36](https://news.ycombinator.com/item?id=40588977) - [85% of People Want Global Ban on Single-Use Plastics](https://www.worldwildlife.org/press-releases/85-of-people-want-global-ban-on-single-use-plastics)
 * [2024-06-05, 18:36:08](https://news.ycombinator.com/item?id=40588639) - [Employees Who Stay in Companies Longer Than Two Years Get Paid 50% Less (2014)](https://www.forbes.com/sites/cameronkeng/2014/06/22/employees-that-stay-in-companies-longer-than-2-years-get-paid-50-less/)
