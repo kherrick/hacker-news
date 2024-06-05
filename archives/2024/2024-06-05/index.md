@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-05](index.md)
 
+* [2024-06-05, 09:41:10](https://news.ycombinator.com/item?id=40583070) - [Song of GPT-4o](https://heymusic.ai/music/song-of-gpt-4o-DcFz6)
 * [2024-06-05, 09:40:36](https://news.ycombinator.com/item?id=40583068) - [Israel Targets U.S. Lawmakers with Influence Campaign on Gaza War](https://www.nytimes.com/2024/06/05/technology/israel-campaign-gaza-social-media.html)
 * [2024-06-05, 08:46:16](https://news.ycombinator.com/item?id=40582767) - [Warren Buffett Controls 3% of the Treasury Bill Market](https://ca.finance.yahoo.com/news/warren-buffett-controls-3-treasury-130200874.html)
 * [2024-06-05, 08:13:24](https://news.ycombinator.com/item?id=40582566) - [Remote Amazon tribe connects to internet – wind up hooked on porn, social media](https://nypost.com/2024/06/04/lifestyle/remote-amazon-tribe-connects-to-elon-musks-starlink-internet-service-become-hooked-on-porn-social-media/)
