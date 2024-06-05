@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-05](index.md)
 
+* [2024-06-05, 12:10:16](https://news.ycombinator.com/item?id=40583909) - [Shuttle (YC S20) Is Hiring](https://news.ycombinator.com/item?id=40583909)
 * [2024-06-05, 11:05:42](https://news.ycombinator.com/item?id=40583538) - [Vitamin D for the prevention of disease: Clinical practice guideline](https://academic.oup.com/jcem/advance-article/doi/10.1210/clinem/dgae290/7685305)
 * [2024-06-05, 09:41:10](https://news.ycombinator.com/item?id=40583070) - [Song of GPT-4o](https://heymusic.ai/music/song-of-gpt-4o-DcFz6)
 * [2024-06-05, 09:40:36](https://news.ycombinator.com/item?id=40583068) - [Israel Targets U.S. Lawmakers with Influence Campaign on Gaza War](https://www.nytimes.com/2024/06/05/technology/israel-campaign-gaza-social-media.html)

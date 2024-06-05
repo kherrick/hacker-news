@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-05, 12:10:16](https://news.ycombinator.com/item?id=40583909) - [Shuttle (YC S20) Is Hiring](https://news.ycombinator.com/item?id=40583909)
 * [2024-06-05, 09:20:20](https://news.ycombinator.com/item?id=40582964) - [Show HN: Extract Data from Line Chart Image](https://github.com/tdsone/extract-line-chart-data)
 * [2024-06-05, 01:25:09](https://news.ycombinator.com/item?id=40580549) - [You'll regret using natural keys](https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/)
-* [2024-06-04, 22:15:16](https://news.ycombinator.com/item?id=40579508) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-06-04, 20:39:52](https://news.ycombinator.com/item?id=40578705) - [An animated introduction to Fourier series](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles)
 * [2024-06-04, 20:34:30](https://news.ycombinator.com/item?id=40578668) - [Some notes on influenceering](https://lcamtuf.substack.com/p/some-notes-on-influenceering)
 * [2024-06-04, 20:05:24](https://news.ycombinator.com/item?id=40578414) - [Debian's /tmpest in a teapot](https://lwn.net/SubscriberLink/975565/bcce68a68d82d63a/)
