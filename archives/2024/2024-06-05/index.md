@@ -10,6 +10,7 @@
 * [2024-06-05, 19:04:36](https://news.ycombinator.com/item?id=40588977) - [85% of People Want Global Ban on Single-Use Plastics](https://www.worldwildlife.org/press-releases/85-of-people-want-global-ban-on-single-use-plastics)
 * [2024-06-05, 18:36:08](https://news.ycombinator.com/item?id=40588639) - [Employees Who Stay in Companies Longer Than Two Years Get Paid 50% Less (2014)](https://www.forbes.com/sites/cameronkeng/2014/06/22/employees-that-stay-in-companies-longer-than-2-years-get-paid-50-less/)
 * [2024-06-05, 18:26:02](https://news.ycombinator.com/item?id=40588508) - [Feature Flags in Bazel Builds](https://pigweed.dev/docs/blog/02-bazel-feature-flags.html)
+* [2024-06-05, 18:01:57](https://news.ycombinator.com/item?id=40588218) - [The Thousand Brains Project](https://www.numenta.com/thousand-brains-project/)
 * [2024-06-05, 17:19:13](https://news.ycombinator.com/item?id=40587685) - [Stable Audio Open – Stability AI](https://stability.ai/news/introducing-stable-audio-open)
 * [2024-06-05, 17:04:20](https://news.ycombinator.com/item?id=40587485) - [NYC Congestion Pricing Delayed Indefinitely by Governor Kathy Hochul](https://www.bloomberg.com/news/articles/2024-06-05/nyc-congestion-pricing-risks-delay-after-hochul-weighs-pause)
 * [2024-06-05, 17:00:19](https://news.ycombinator.com/item?id=40587419) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
