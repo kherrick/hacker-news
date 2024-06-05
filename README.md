@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-05, 22:48:03](https://news.ycombinator.com/item?id=40591532) - [We Worked at Meta. Democracies Need to Fix the Feed Before It's Too Late](https://www.techpolicy.press/we-worked-on-election-integrity-at-meta-the-eu-and-all-democracies-need-to-fix-the-feed-before-its-too-late/)
 * [2024-06-05, 22:25:02](https://news.ycombinator.com/item?id=40591323) - [For sale replica of the mustang aircraft](https://www.scalewings.com/sw-51-mustang/)
 * [2024-06-05, 22:07:27](https://news.ycombinator.com/item?id=40591158) - [DHCPv6-PD – First Steps](https://sha256.net/dhcpv6-pd-first-steps.html)
 * [2024-06-05, 21:35:53](https://news.ycombinator.com/item?id=40590910) - [Show HN: Original 8x16 ASCII Fixed Width Font: Classic Console Neue](https://webdraft.hu/fonts/classic-console/)
@@ -8,7 +9,6 @@
 * [2024-06-05, 17:31:41](https://news.ycombinator.com/item?id=40587839) - [A primer on the next generation of antibodies](https://www.abhishaike.com/p/a-primer-to-the-next-generation-of-antibodies)
 * [2024-06-05, 17:00:19](https://news.ycombinator.com/item?id=40587419) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2024-06-05, 16:13:39](https://news.ycombinator.com/item?id=40586757) - [We improved the performance of a userspace TCP stack in Go](https://coder.com/blog/delivering-5x-faster-throughput-in-coder-2-12-0)
-* [2024-06-05, 16:01:01](https://news.ycombinator.com/item?id=40586587) - [Managing my motivation as a solo dev](https://mbuffett.com/posts/maintaining-motivation/)
 * [2024-06-05, 15:53:17](https://news.ycombinator.com/item?id=40586475) - [History of the Paper Clip (2016)](http://www.officemuseum.com/paper_clips.htm)
 * [2024-06-05, 15:24:26](https://news.ycombinator.com/item?id=40586030) - [Computer Networks: A Systems Approach (2019)](https://book.systemsapproach.org/)
 * [2024-06-05, 15:16:50](https://news.ycombinator.com/item?id=40585932) - [Show HN: Foosbar – My autonomous foosball-playing robot](https://github.com/misprit7/foosbar)
