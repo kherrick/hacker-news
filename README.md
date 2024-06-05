@@ -2,6 +2,7 @@
 
 * [2024-06-05, 06:42:42](https://news.ycombinator.com/item?id=40582029) - [In defence of swap: common misconceptions](https://chrisdown.name/2018/01/02/in-defence-of-swap.html)
 * [2024-06-05, 06:25:10](https://news.ycombinator.com/item?id=40581918) - [SpaceX's fourth Starship launch approved for Thursday](https://arstechnica.com/space/2024/06/we-know-starship-can-fly-now-its-time-to-see-if-it-can-come-back-to-earth/)
+* [2024-06-05, 06:12:01](https://news.ycombinator.com/item?id=40581854) - [Ask HN: Is Google Dead?](https://news.ycombinator.com/item?id=40581854)
 * [2024-06-05, 05:43:06](https://news.ycombinator.com/item?id=40581723) - [Apple M4 iPad Pro OS Has New Security Exclave for Camera and Microphone Activity](https://9to5mac.com/2024/06/03/m4-ipad-pro-security-feature-apple-hasnt-told-anyone-about/)
 * [2024-06-05, 05:09:14](https://news.ycombinator.com/item?id=40581565) - [Japan's Most Actively Traded Stock Is a Fraud and Ticking Time Bomb [pdf]](https://scorpionreports.s3.us-east-2.amazonaws.com/6920.pdf)
 * [2024-06-05, 04:20:35](https://news.ycombinator.com/item?id=40581369) - [Toyota raided as safety testing scandal grows](https://www.bbc.com/news/articles/c1wwj1p2wdyo)
@@ -14,7 +15,6 @@
 * [2024-06-04, 19:39:26](https://news.ycombinator.com/item?id=40578176) - [Particle accelerators for the microchip era](https://www.moore.org/article-detail?newsUrlName=particle-accelerators-for-the-microchip-era)
 * [2024-06-04, 19:25:47](https://news.ycombinator.com/item?id=40578060) - [Entropy, a CLI that scans files to find high entropy lines (might be secrets)](https://github.com/EwenQuim/entropy)
 * [2024-06-04, 18:59:40](https://news.ycombinator.com/item?id=40577800) - [Herbie: Optimize Floating-Point Expressions](https://herbie.uwplse.org/demo/)
-* [2024-06-04, 18:41:02](https://news.ycombinator.com/item?id=40577622) - [Attacking Android Binder](https://androidoffsec.withgoogle.com/posts/attacking-android-binder-analysis-and-exploitation-of-cve-2023-20938/)
 * [2024-06-04, 16:20:49](https://news.ycombinator.com/item?id=40576132) - [Why do electronic components have such odd values? (2021)](https://digilent.com/blog/why-do-electronic-components-have-such-odd-values/)
 * [2024-06-04, 12:29:16](https://news.ycombinator.com/item?id=40573790) - [Show HN: PlayBooks – Jupyter Notebooks style on-call investigation documents](https://github.com/DrDroidLab/PlayBooks)
 * [2024-06-04, 11:25:41](https://news.ycombinator.com/item?id=40573213) - [How to chop off bytes of an UTF-8 string to fit into a small slot and look nice](https://domm.plix.at/perl/2024_06_chopping_utf8.html)
