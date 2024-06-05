@@ -21,6 +21,7 @@
 * [2024-06-02, 19:54:23](https://news.ycombinator.com/item?id=40556793) - [Atomic polling intervals for highly concurrent workloads](https://www.byronwasti.com/polling-atomics/)
 * [2024-06-02, 19:37:01](https://news.ycombinator.com/item?id=40556687) - [cuDF – GPU DataFrame Library](https://github.com/rapidsai/cudf)
 * [2024-06-02, 19:28:10](https://news.ycombinator.com/item?id=40556627) - [How to make a great government website](https://asteriskmag.com/issues/06/how-to-make-a-great-government-website)
+* [2024-06-02, 19:23:20](https://news.ycombinator.com/item?id=40556590) - [Fighting an anti-doping finding](https://lizzybanks.co.uk/2024/05/15/hello-world/)
 * [2024-06-02, 19:18:53](https://news.ycombinator.com/item?id=40556559) - [Inequality Without Class](https://www.dissentmagazine.org/article/inequality-without-class/)
 * [2024-06-02, 19:11:49](https://news.ycombinator.com/item?id=40556516) - [Just Live](https://drb.ie/articles/just-live/)
 * [2024-06-02, 18:41:52](https://news.ycombinator.com/item?id=40556342) - [The Disappointment Frontier](https://www.theengineeringmanager.com/growth/the-disappointment-frontier/)

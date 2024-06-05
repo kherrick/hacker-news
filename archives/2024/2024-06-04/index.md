@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-06-04](index.md)
 
 * [2024-06-04, 22:51:48](https://news.ycombinator.com/item?id=40579761) - [Study shows most doctors endorsing drugs on X are paid to do so](https://medicalxpress.com/news/2024-05-doctors-endorsing-drugs-paid.html)
+* [2024-06-04, 22:34:56](https://news.ycombinator.com/item?id=40579660) - [macOS Bartender Auto-Update Signed by Unknown New Owner](https://www.macrumors.com/2024/06/04/bartender-mac-app-new-owner/)
+* [2024-06-04, 22:21:21](https://news.ycombinator.com/item?id=40579563) - [The Positive Hacker News RSS Feed](https://github.com/garritfra/positive_hackernews)
 * [2024-06-04, 22:15:16](https://news.ycombinator.com/item?id=40579508) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-06-04, 21:45:57](https://news.ycombinator.com/item?id=40579278) - [US Job openings fall to new 3-year low](https://www.cnn.com/2024/06/04/economy/job-openings-quits-jolts-april/index.html)
 * [2024-06-04, 21:06:20](https://news.ycombinator.com/item?id=40578937) - [Neovim decision to use Lua is paying off](https://old.reddit.com/r/neovim/comments/1d6jy4h/neovim_decision_to_use_lua_is_truly_paying_off/)
