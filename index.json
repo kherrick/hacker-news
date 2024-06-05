@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-06-05, 12:15:37",
+      "https://news.ycombinator.com/item?id=40583946"
+    ],
+    [
+      "Google Maps is killing Timeline for Web",
+      "https://www.androidauthority.com/google-maps-killing-timeline-web-access-3449017/"
+    ]
+  ],
+  [
+    [
       "2024-06-05, 12:10:16",
       "https://news.ycombinator.com/item?id=40583909"
     ],
@@ -107,16 +117,6 @@
     [
       "Entropy, a CLI that scans files to find high entropy lines (might be secrets)",
       "https://github.com/EwenQuim/entropy"
-    ]
-  ],
-  [
-    [
-      "2024-06-04, 18:41:02",
-      "https://news.ycombinator.com/item?id=40577622"
-    ],
-    [
-      "Attacking Android Binder",
-      "https://androidoffsec.withgoogle.com/posts/attacking-android-binder-analysis-and-exploitation-of-cve-2023-20938/"
     ]
   ],
   [
