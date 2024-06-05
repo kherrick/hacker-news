@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-05, 16:06:05](https://news.ycombinator.com/item?id=40586654) - [Squatting in Spain: Understanding Spain's \"okupas\" problem](https://www.idealista.com/en/news/legal-advice-in-spain/2024/04/15/816509-squatting-in-spain-understanding-spain-s-okupas-problem)
+* [2024-06-05, 15:16:50](https://news.ycombinator.com/item?id=40585932) - [Foosbar: The (unverifiably but plausibly) Best Foosball Robot](https://github.com/misprit7/foosbar)
+* [2024-06-05, 15:11:01](https://news.ycombinator.com/item?id=40585842) - [Vulkan1.3 on the M1 in 1 Month](https://rosenzweig.io/blog/vk13-on-the-m1-in-1-month.html)
 * [2024-06-05, 15:04:03](https://news.ycombinator.com/item?id=40585728) - [Boeing Starliner launches first crewed mission](https://www.bbc.co.uk/news/live/world-us-canada-69094213)
 * [2024-06-05, 14:28:20](https://news.ycombinator.com/item?id=40585207) - [Jury finds Boeing stole technology from electric airplane startup Zunum](https://www.seattletimes.com/business/boeing-aerospace/jury-finds-boeing-stole-technology-from-electric-airplane-startup-zunum/)
 * [2024-06-05, 14:13:39](https://news.ycombinator.com/item?id=40585039) - [Alice in Wonderland: Simple Tasks Showing Complete Reasoning Breakdown in LLMs](https://arxiv.org/abs/2406.02061)
@@ -12,7 +15,6 @@
 * [2024-06-05, 01:25:09](https://news.ycombinator.com/item?id=40580549) - [You'll regret using natural keys](https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/)
 * [2024-06-04, 20:39:52](https://news.ycombinator.com/item?id=40578705) - [An animated introduction to Fourier series](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles)
 * [2024-06-04, 20:34:30](https://news.ycombinator.com/item?id=40578668) - [Some notes on influenceering](https://lcamtuf.substack.com/p/some-notes-on-influenceering)
-* [2024-06-04, 19:42:02](https://news.ycombinator.com/item?id=40578206) - [Bit-twiddling abstract addition with unknown bits (2020)](https://dougallj.wordpress.com/2020/01/13/bit-twiddling-addition-with-unknown-bits/)
 * [2024-06-04, 19:39:26](https://news.ycombinator.com/item?id=40578176) - [Particle accelerators for the microchip era](https://www.moore.org/article-detail?newsUrlName=particle-accelerators-for-the-microchip-era)
 * [2024-06-04, 19:25:47](https://news.ycombinator.com/item?id=40578060) - [Entropy, a CLI that scans files to find high entropy lines (might be secrets)](https://github.com/EwenQuim/entropy)
 * [2024-06-04, 16:20:49](https://news.ycombinator.com/item?id=40576132) - [Why do electronic components have such odd values? (2021)](https://digilent.com/blog/why-do-electronic-components-have-such-odd-values/)
@@ -23,11 +25,9 @@
 * [2024-06-04, 08:25:19](https://news.ycombinator.com/item?id=40571995) - [A breakthrough towards the Riemann hypothesis](https://mathstodon.xyz/@tao/112557248794707738)
 * [2024-06-04, 07:42:01](https://news.ycombinator.com/item?id=40571727) - [Sphere Rendering: Flat Planets](https://emildziewanowski.com/flat-planets/)
 * [2024-06-04, 07:25:34](https://news.ycombinator.com/item?id=40571614) - [Atash Behram – Types of Fire](https://en.wikipedia.org/wiki/Atash_Behram)
-* [2024-06-04, 07:01:58](https://news.ycombinator.com/item?id=40571463) - [Show HN: Huewords, a Word and Logic Puzzle](https://huewords.snellman.net/)
 * [2024-06-04, 06:48:55](https://news.ycombinator.com/item?id=40571402) - [Don't be terrified of Pale Fire](https://unherd.com/2024/05/dont-be-terrified-of-pale-fire/)
 * [2024-06-04, 06:24:39](https://news.ycombinator.com/item?id=40571270) - [Creating a Safari webarchive from the command line](https://alexwlchan.net/2024/creating-a-safari-webarchive/)
 * [2024-06-04, 00:29:37](https://news.ycombinator.com/item?id=40569385) - [Show HN: Allocate poker chips optimally with mixed-integer nonlinear programming](https://github.com/jstrieb/poker-chipper)
-* [2024-06-03, 19:50:20](https://news.ycombinator.com/item?id=40566784) - [Use context-free grammars instead of parser combinators and PEG](https://safinaskar.writeas.com/)
 * [2024-06-03, 16:45:01](https://news.ycombinator.com/item?id=40564489) - [The state of the art in copter drones and flight control systems](https://www.mdpi.com/1424-8220/24/11/3349)
 * [2024-06-03, 06:51:24](https://news.ycombinator.com/item?id=40560010) - [Hacking millions of modems and investigating who hacked my modem](https://samcurry.net/hacking-millions-of-modems)
 

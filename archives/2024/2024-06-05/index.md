@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-05](index.md)
 
+* [2024-06-05, 16:06:05](https://news.ycombinator.com/item?id=40586654) - [Squatting in Spain: Understanding Spain's \"okupas\" problem](https://www.idealista.com/en/news/legal-advice-in-spain/2024/04/15/816509-squatting-in-spain-understanding-spain-s-okupas-problem)
+* [2024-06-05, 15:16:50](https://news.ycombinator.com/item?id=40585932) - [Foosbar: The (unverifiably but plausibly) Best Foosball Robot](https://github.com/misprit7/foosbar)
+* [2024-06-05, 15:11:01](https://news.ycombinator.com/item?id=40585842) - [Vulkan1.3 on the M1 in 1 Month](https://rosenzweig.io/blog/vk13-on-the-m1-in-1-month.html)
 * [2024-06-05, 15:04:03](https://news.ycombinator.com/item?id=40585728) - [Boeing Starliner launches first crewed mission](https://www.bbc.co.uk/news/live/world-us-canada-69094213)
 * [2024-06-05, 14:58:46](https://news.ycombinator.com/item?id=40585655) - [Ask HN: People who make $10k+/month working on AI tools, what do you do?](https://news.ycombinator.com/item?id=40585655)
 * [2024-06-05, 14:28:46](https://news.ycombinator.com/item?id=40585212) - [Is Microsoft trying to commit suicide?](https://www.antipope.org/charlie/blog-static/2024/06/is-microsoft-trying-to-commit-.html)
