@@ -11,6 +11,7 @@
 * [2024-06-05, 21:59:53](https://news.ycombinator.com/item?id=40591106) - [Follow along implementing a VSCode extension in 5 minutes](https://github.com/brisktest/brisk-extension/blob/main/WALKTHROUGH.md)
 * [2024-06-05, 21:35:53](https://news.ycombinator.com/item?id=40590910) - [Show HN: Original 8x16 ASCII Fixed Width Font: Classic Console Neue](https://webdraft.hu/fonts/classic-console/)
 * [2024-06-05, 21:01:57](https://news.ycombinator.com/item?id=40590570) - [Memories of an Enron Summer](https://www.dropbox.com/scl/fi/6i1800ml23i6x4wn6jp0q/Enron-Summer.pdf?rlkey=i6eyhsa658w4la0vzkdhfy7uj&e=1&st=2yjulw6q&dl=0)
+* [2024-06-05, 20:59:33](https://news.ycombinator.com/item?id=40590546) - [Largest Autonomous Ride-Hail Territory in US Now Even Larger](https://waymo.com/blog/2024/06/largest-autonomous-ride-hail-territory-in-us-now-even-larger/)
 * [2024-06-05, 19:45:31](https://news.ycombinator.com/item?id=40589625) - [Democrat calls only 7 EV-charging stations deployed under US program 'pathetic'](https://finance.yahoo.com/news/democrat-calls-only-7-ev-182511859.html)
 * [2024-06-05, 19:43:34](https://news.ycombinator.com/item?id=40589585) - [Nvidia hits $3T market cap on back of AI boom](https://www.cnbc.com/2024/06/05/nvidia-briefly-passes-3-trillion-market-cap-on-back-of-ai-boom.html)
 * [2024-06-05, 19:07:59](https://news.ycombinator.com/item?id=40589011) - [Show HN: A website that tailors your resume for each job you apply for](https://resume.ink)
