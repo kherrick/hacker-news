@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-05](index.md)
 
+* [2024-06-05, 13:12:58](https://news.ycombinator.com/item?id=40584399) - [Nintendo leak employee accessing private YouTube videos](https://www.gamesradar.com/games/platformer/nintendo-leak-reportedly-came-from-an-employee-accessing-private-youtube-videos-but-google-says-it-was-non-intentional-because-they-only-showed-it-to-a-friend/)
+* [2024-06-05, 12:28:13](https://news.ycombinator.com/item?id=40584042) - [Online Privacy and Overfishing](https://www.schneier.com/blog/archives/2024/06/online-privacy-and-overfishing.html)
 * [2024-06-05, 12:17:52](https://news.ycombinator.com/item?id=40583965) - [What kind of bug would make machine learning suddenly 40% worse at NetHack?](https://arstechnica.com/gaming/2024/06/what-kind-of-bug-would-make-machine-learning-suddenly-40-worse-at-nethack/)
 * [2024-06-05, 12:15:37](https://news.ycombinator.com/item?id=40583946) - [Google Maps is killing Timeline for Web](https://www.androidauthority.com/google-maps-killing-timeline-web-access-3449017/)
 * [2024-06-05, 12:10:16](https://news.ycombinator.com/item?id=40583909) - [Shuttle (YC S20) Is Hiring](https://news.ycombinator.com/item?id=40583909)
