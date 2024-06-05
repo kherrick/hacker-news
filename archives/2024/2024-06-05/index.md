@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-06-05](index.md)
 
+* [2024-06-05, 14:13:39](https://news.ycombinator.com/item?id=40585039) - [Alice in Wonderland: Simple Tasks Showing Complete Reasoning Breakdown in LLMs](https://arxiv.org/abs/2406.02061)
+* [2024-06-05, 14:01:51](https://news.ycombinator.com/item?id=40584901) - [Study finds 268% higher failure rates for Agile software projects](https://www.theregister.com/2024/06/05/agile_failure_rates/)
+* [2024-06-05, 13:58:44](https://news.ycombinator.com/item?id=40584866) - [E.U. Censorship Laws Mostly Suppress Legal Speech](https://reason.com/2024/06/05/report-e-u-censorship-laws-mostly-suppress-legal-speech/)
+* [2024-06-05, 13:57:45](https://news.ycombinator.com/item?id=40584853) - [The Rise and Fall of Preview](https://pxlnv.com/linklog/preview-rise-and-fall/)
 * [2024-06-05, 13:38:05](https://news.ycombinator.com/item?id=40584606) - [Popular Mac app 'Bartender' acquired by new unknown developer](https://9to5mac.com/2024/06/04/bartender-acquired-unknown-developer/)
 * [2024-06-05, 13:33:04](https://news.ycombinator.com/item?id=40584563) - [Texas poised to get own stock exchange – with less red tape than NYSE or Nasdaq](https://www.businessinsider.com/texas-stock-exchange-nyse-nasdaq-elon-musk-tesla-exxon-mobil-2024-6)
 * [2024-06-05, 13:24:14](https://news.ycombinator.com/item?id=40584498) - [Superfast Microsoft AI is first to predict air pollution for the whole world](https://www.nature.com/articles/d41586-024-01677-2)
+* [2024-06-05, 13:17:33](https://news.ycombinator.com/item?id=40584435) - [McDonald's Loses 'Big Mac' Trademark in European Union](https://apnews.com/article/mcdonalds-big-mac-eu-trademark-ireland-14922a383563c60592bd3ee152a73d87)
 * [2024-06-05, 13:12:58](https://news.ycombinator.com/item?id=40584399) - [Nintendo leak employee accessing private YouTube videos](https://www.gamesradar.com/games/platformer/nintendo-leak-reportedly-came-from-an-employee-accessing-private-youtube-videos-but-google-says-it-was-non-intentional-because-they-only-showed-it-to-a-friend/)
 * [2024-06-05, 12:41:24](https://news.ycombinator.com/item?id=40584135) - [Israel Faked Social Media Accounts to Garner Support from US Lawmakers on Gaza](https://www.forbes.com/sites/siladityaray/2024/06/05/israel-reportedly-used-fake-social-media-accounts-to-garner-support-from-us-lawmakers-on-gaza-war/)
 * [2024-06-05, 12:28:13](https://news.ycombinator.com/item?id=40584042) - [Online Privacy and Overfishing](https://www.schneier.com/blog/archives/2024/06/online-privacy-and-overfishing.html)
