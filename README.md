@@ -14,7 +14,7 @@
 * [2024-06-05, 14:52:37](https://news.ycombinator.com/item?id=40585559) - [Show HN: Laudspeaker – Open-source mobile push, SMS and email automation](https://github.com/laudspeaker/laudspeaker)
 * [2024-06-05, 14:13:39](https://news.ycombinator.com/item?id=40585039) - [Simple tasks showing reasoning breakdown in state-of-the-art LLMs](https://arxiv.org/abs/2406.02061)
 * [2024-06-05, 13:38:49](https://news.ycombinator.com/item?id=40584612) - [Prototype of AROS ABIv0 emulator for 64-bit AROS](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1218&rowstart=60#post_5437)
-* [2024-06-05, 13:04:55](https://news.ycombinator.com/item?id=40584327) - [To Believe or Not Believe Your LLM](https://arxiv.org/abs/2406.02543)
+* [2024-06-05, 13:29:06](https://news.ycombinator.com/item?id=40584534) - [What no one has seen before: gravitational waveforms from warp drive collapse](https://arxiv.org/abs/2406.02466)
 * [2024-06-05, 12:41:24](https://news.ycombinator.com/item?id=40584135) - [Israel reportedly used fake social accounts to garner support from US lawmakers](https://www.haaretz.com/israel-news/security-aviation/2024-06-05/ty-article-magazine/.premium/israel-secretly-targeted-american-lawmakers-with-gaza-war-influence-campaign/0000018f-e7c8-d11f-a5cf-e7cb62af0000)
 * [2024-06-05, 08:19:23](https://news.ycombinator.com/item?id=40582603) - [Show HN: zfind – CLI like find but using SQL syntax and also does tar/zip](https://github.com/laktak/zfind)
 * [2024-06-05, 06:43:45](https://news.ycombinator.com/item?id=40582035) - [Minimalistic Beat Maker](https://martinwecke.de/108/)
@@ -29,7 +29,7 @@
 * [2024-06-04, 03:34:34](https://news.ycombinator.com/item?id=40570428) - [Win for copyright user rights in Canada: Digital locks do not trump fair dealing](https://www.michaelgeist.ca/2024/06/huge-win-for-copyright-user-rights-in-canada-federal-court-rules-digital-lock-rules-do-not-trump-fair-dealing/)
 * [2024-06-04, 01:56:05](https://news.ycombinator.com/item?id=40569940) - [New vestiges of the first life on Earth discovered](https://phys.org/news/2024-05-vestiges-life-earth-saudi-arabia.html)
 * [2024-06-03, 20:44:16](https://news.ycombinator.com/item?id=40567327) - [Show HN: Mesop – Open-source Python UI framework](https://google.github.io/mesop/)
-* [2024-06-03, 16:45:01](https://news.ycombinator.com/item?id=40564489) - [The state of the art in copter drones and flight control systems](https://www.mdpi.com/1424-8220/24/11/3349)
+* [2024-06-02, 19:19:21](https://news.ycombinator.com/item?id=40556564) - [Fink, a Police Informer](https://blog.oup.com/2024/05/fink-a-police-informer/)
 
 ## [Archives](archives/index.md)
 

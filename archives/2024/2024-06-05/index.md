@@ -30,6 +30,7 @@
 * [2024-06-05, 13:38:49](https://news.ycombinator.com/item?id=40584612) - [Prototype of AROS ABIv0 emulator for 64-bit AROS](https://www.arosworld.org/infusions/forum/viewthread.php?thread_id=1218&rowstart=60#post_5437)
 * [2024-06-05, 13:38:05](https://news.ycombinator.com/item?id=40584606) - [Popular Mac app 'Bartender' acquired by new unknown developer](https://9to5mac.com/2024/06/04/bartender-acquired-unknown-developer/)
 * [2024-06-05, 13:33:04](https://news.ycombinator.com/item?id=40584563) - [Texas poised to get own stock exchange – with less red tape than NYSE or Nasdaq](https://www.businessinsider.com/texas-stock-exchange-nyse-nasdaq-elon-musk-tesla-exxon-mobil-2024-6)
+* [2024-06-05, 13:29:06](https://news.ycombinator.com/item?id=40584534) - [What no one has seen before: gravitational waveforms from warp drive collapse](https://arxiv.org/abs/2406.02466)
 * [2024-06-05, 13:24:14](https://news.ycombinator.com/item?id=40584498) - [Superfast Microsoft AI is first to predict air pollution for the whole world](https://www.nature.com/articles/d41586-024-01677-2)
 * [2024-06-05, 13:19:17](https://news.ycombinator.com/item?id=40584449) - [Anat Ashkenazi to Join Google and Alphabet as Chief Financial Officer](https://abc.xyz/2024-0605/)
 * [2024-06-05, 13:17:33](https://news.ycombinator.com/item?id=40584435) - [McDonald's Loses 'Big Mac' Trademark in European Union](https://apnews.com/article/mcdonalds-big-mac-eu-trademark-ireland-14922a383563c60592bd3ee152a73d87)
