@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-05](index.md)
 
+* [2024-06-05, 14:28:20](https://news.ycombinator.com/item?id=40585207) - [Jury finds Boeing stole technology from electric airplane startup Zunum](https://www.seattletimes.com/business/boeing-aerospace/jury-finds-boeing-stole-technology-from-electric-airplane-startup-zunum/)
 * [2024-06-05, 14:13:39](https://news.ycombinator.com/item?id=40585039) - [Alice in Wonderland: Simple Tasks Showing Complete Reasoning Breakdown in LLMs](https://arxiv.org/abs/2406.02061)
 * [2024-06-05, 14:01:51](https://news.ycombinator.com/item?id=40584901) - [Study finds 268% higher failure rates for Agile software projects](https://www.theregister.com/2024/06/05/agile_failure_rates/)
 * [2024-06-05, 13:58:44](https://news.ycombinator.com/item?id=40584866) - [E.U. Censorship Laws Mostly Suppress Legal Speech](https://reason.com/2024/06/05/report-e-u-censorship-laws-mostly-suppress-legal-speech/)

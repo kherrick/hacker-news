@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-05, 14:28:20](https://news.ycombinator.com/item?id=40585207) - [Jury finds Boeing stole technology from electric airplane startup Zunum](https://www.seattletimes.com/business/boeing-aerospace/jury-finds-boeing-stole-technology-from-electric-airplane-startup-zunum/)
 * [2024-06-05, 14:13:39](https://news.ycombinator.com/item?id=40585039) - [Alice in Wonderland: Simple Tasks Showing Complete Reasoning Breakdown in LLMs](https://arxiv.org/abs/2406.02061)
 * [2024-06-05, 14:01:51](https://news.ycombinator.com/item?id=40584901) - [Study finds 268% higher failure rates for Agile software projects](https://www.theregister.com/2024/06/05/agile_failure_rates/)
 * [2024-06-05, 13:58:44](https://news.ycombinator.com/item?id=40584866) - [E.U. Censorship Laws Mostly Suppress Legal Speech](https://reason.com/2024/06/05/report-e-u-censorship-laws-mostly-suppress-legal-speech/)
@@ -26,7 +27,6 @@
 * [2024-06-04, 08:43:59](https://news.ycombinator.com/item?id=40572113) - [The Long-Lost Tarzan Atari Game, Preserved](https://gamehistory.org/atari-2600-tarzan/)
 * [2024-06-04, 07:42:01](https://news.ycombinator.com/item?id=40571727) - [Sphere Rendering: Flat Planets](https://emildziewanowski.com/flat-planets/)
 * [2024-06-04, 06:48:55](https://news.ycombinator.com/item?id=40571402) - [Don't be terrified of Pale Fire](https://unherd.com/2024/05/dont-be-terrified-of-pale-fire/)
-* [2024-06-04, 06:24:39](https://news.ycombinator.com/item?id=40571270) - [Creating a Safari webarchive from the command line](https://alexwlchan.net/2024/creating-a-safari-webarchive/)
 * [2024-06-04, 00:29:37](https://news.ycombinator.com/item?id=40569385) - [Show HN: Allocate poker chips optimally with mixed-integer nonlinear programming](https://github.com/jstrieb/poker-chipper)
 * [2024-06-03, 16:45:01](https://news.ycombinator.com/item?id=40564489) - [The state of the art in copter drones and flight control systems](https://www.mdpi.com/1424-8220/24/11/3349)
 * [2024-06-03, 06:51:24](https://news.ycombinator.com/item?id=40560010) - [Hacking millions of modems and investigating who hacked my modem](https://samcurry.net/hacking-millions-of-modems)
