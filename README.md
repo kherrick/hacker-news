@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-05, 19:45:31](https://news.ycombinator.com/item?id=40589625) - [Democrat calls only 7 EV-charging stations deployed under US program 'pathetic'](https://finance.yahoo.com/news/democrat-calls-only-7-ev-182511859.html)
 * [2024-06-05, 19:43:34](https://news.ycombinator.com/item?id=40589585) - [Nvidia hits $3T market cap on back of AI boom](https://www.cnbc.com/2024/06/05/nvidia-briefly-passes-3-trillion-market-cap-on-back-of-ai-boom.html)
 * [2024-06-05, 18:36:08](https://news.ycombinator.com/item?id=40588639) - [Employees Who Stay in Companies Longer Than Two Years Get Paid 50% Less (2014)](https://www.forbes.com/sites/cameronkeng/2014/06/22/employees-that-stay-in-companies-longer-than-2-years-get-paid-50-less/)
 * [2024-06-05, 18:26:02](https://news.ycombinator.com/item?id=40588508) - [Feature Flags in Bazel Builds](https://pigweed.dev/docs/blog/02-bazel-feature-flags.html)
@@ -22,6 +21,7 @@
 * [2024-06-05, 08:19:23](https://news.ycombinator.com/item?id=40582603) - [Show HN: zfind – CLI like find but using SQL syntax and also does tar/zip](https://github.com/laktak/zfind)
 * [2024-06-05, 06:43:45](https://news.ycombinator.com/item?id=40582035) - [Minimalistic Beat Maker](https://martinwecke.de/108/)
 * [2024-06-05, 01:25:09](https://news.ycombinator.com/item?id=40580549) - [You'll regret using natural keys](https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/)
+* [2024-06-04, 20:39:52](https://news.ycombinator.com/item?id=40578705) - [An animated introduction to Fourier series](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles)
 * [2024-06-04, 13:21:02](https://news.ycombinator.com/item?id=40574331) - [Research as leisure activity](https://www.personalcanon.com/p/research-as-leisure-activity)
 * [2024-06-04, 09:09:55](https://news.ycombinator.com/item?id=40572288) - [XLSTM code release by NX-AI](https://github.com/NX-AI/xlstm)
 * [2024-06-04, 08:43:59](https://news.ycombinator.com/item?id=40572113) - [The Long-Lost Tarzan Atari Game, Preserved](https://gamehistory.org/atari-2600-tarzan/)
