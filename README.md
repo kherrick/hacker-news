@@ -23,13 +23,13 @@
 * [2024-06-05, 01:25:09](https://news.ycombinator.com/item?id=40580549) - [You'll regret using natural keys](https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/)
 * [2024-06-04, 20:39:52](https://news.ycombinator.com/item?id=40578705) - [An animated introduction to Fourier series](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles)
 * [2024-06-04, 13:21:02](https://news.ycombinator.com/item?id=40574331) - [Research as leisure activity](https://www.personalcanon.com/p/research-as-leisure-activity)
+* [2024-06-04, 09:58:38](https://news.ycombinator.com/item?id=40572571) - [Sound Rules Life Underwater](https://nautil.us/how-sound-rules-life-underwater-633318/)
 * [2024-06-04, 09:09:55](https://news.ycombinator.com/item?id=40572288) - [XLSTM code release by NX-AI](https://github.com/NX-AI/xlstm)
 * [2024-06-04, 08:43:59](https://news.ycombinator.com/item?id=40572113) - [The Long-Lost Tarzan Atari Game, Preserved](https://gamehistory.org/atari-2600-tarzan/)
 * [2024-06-04, 05:51:26](https://news.ycombinator.com/item?id=40571088) - [Building a serverless secured dead drop](https://ayende.com/blog/201153-B/building-a-serverless-secured-dead-drop)
 * [2024-06-04, 03:34:34](https://news.ycombinator.com/item?id=40570428) - [Win for copyright user rights in Canada: Digital locks do not trump fair dealing](https://www.michaelgeist.ca/2024/06/huge-win-for-copyright-user-rights-in-canada-federal-court-rules-digital-lock-rules-do-not-trump-fair-dealing/)
 * [2024-06-04, 01:56:05](https://news.ycombinator.com/item?id=40569940) - [New vestiges of the first life on Earth discovered](https://phys.org/news/2024-05-vestiges-life-earth-saudi-arabia.html)
 * [2024-06-03, 20:44:16](https://news.ycombinator.com/item?id=40567327) - [Show HN: Mesop – Open-source Python UI framework](https://google.github.io/mesop/)
-* [2024-06-02, 19:19:21](https://news.ycombinator.com/item?id=40556564) - [Fink, a Police Informer](https://blog.oup.com/2024/05/fink-a-police-informer/)
 
 ## [Archives](archives/index.md)
 

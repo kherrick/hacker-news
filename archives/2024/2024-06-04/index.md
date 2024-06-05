@@ -88,6 +88,7 @@
 * [2024-06-04, 10:31:14](https://news.ycombinator.com/item?id=40572753) - [Succinctness Is Power (2002)](https://www.paulgraham.com/power.html)
 * [2024-06-04, 10:29:01](https://news.ycombinator.com/item?id=40572737) - [America's Commute to Work Is Getting Longer and Longer](https://www.wsj.com/lifestyle/workplace/americas-commute-to-work-is-getting-longer-and-longer-0fbf79c3)
 * [2024-06-04, 10:00:32](https://news.ycombinator.com/item?id=40572585) - [I Think, Therefore I Relate](https://worldsensorium.com/i-think-therefore-i-relate/)
+* [2024-06-04, 09:58:38](https://news.ycombinator.com/item?id=40572571) - [Sound Rules Life Underwater](https://nautil.us/how-sound-rules-life-underwater-633318/)
 * [2024-06-04, 09:47:03](https://news.ycombinator.com/item?id=40572501) - [Using Vectorize to build an unreasonably good search engine in 160 lines of code](https://blog.partykit.io/posts/using-vectorize-to-build-search/)
 * [2024-06-04, 09:10:10](https://news.ycombinator.com/item?id=40572289) - [Microsoft blocks Windows 11 workaround that enabled local accounts](https://www.pcworld.com/article/2354686/microsoft-blocks-windows-11-workaround-local-accounts.html)
 * [2024-06-04, 09:09:55](https://news.ycombinator.com/item?id=40572288) - [XLSTM code release by NX-AI](https://github.com/NX-AI/xlstm)
