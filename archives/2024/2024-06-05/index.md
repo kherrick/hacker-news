@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-05](index.md)
 
+* [2024-06-05, 04:20:35](https://news.ycombinator.com/item?id=40581369) - [Toyota raided as safety testing scandal grows](https://www.bbc.com/news/articles/c1wwj1p2wdyo)
 * [2024-06-05, 04:09:17](https://news.ycombinator.com/item?id=40581308) - [He trained cops to fight crypto crime and allegedly ran a dark-web drug market](https://www.wired.com/story/lin-rui-siang-incognito-market/)
 * [2024-06-05, 04:04:03](https://news.ycombinator.com/item?id=40581285) - [Ask HN: 30y After 'On Lisp', PAIP etc., Is Lisp Still \"Beating the Averages\"?](https://news.ycombinator.com/item?id=40581285)
 * [2024-06-05, 02:48:32](https://news.ycombinator.com/item?id=40580926) - [Meta Withheld Information on Instagram, WhatsApp Deals: FTC](https://www.bloomberg.com/news/articles/2024-06-05/meta-withheld-information-on-instagram-whatsapp-deals-ftc-says)
