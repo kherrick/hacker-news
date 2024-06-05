@@ -2,7 +2,6 @@
 
 * [2024-06-05, 04:09:17](https://news.ycombinator.com/item?id=40581308) - [He trained cops to fight crypto crime and allegedly ran a dark-web drug market](https://www.wired.com/story/lin-rui-siang-incognito-market/)
 * [2024-06-05, 04:04:03](https://news.ycombinator.com/item?id=40581285) - [Ask HN: 30y After 'On Lisp', PAIP etc., Is Lisp Still \"Beating the Averages\"?](https://news.ycombinator.com/item?id=40581285)
-* [2024-06-05, 02:48:32](https://news.ycombinator.com/item?id=40580926) - [Meta Withheld Information on Instagram, WhatsApp Deals: FTC](https://www.bloomberg.com/news/articles/2024-06-05/meta-withheld-information-on-instagram-whatsapp-deals-ftc-says)
 * [2024-06-05, 01:25:09](https://news.ycombinator.com/item?id=40580549) - [You'll regret using natural keys](https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/)
 * [2024-06-04, 23:14:40](https://news.ycombinator.com/item?id=40579898) - [Not Just Scale](https://brooker.co.za/blog/2024/06/04/scale.html)
 * [2024-06-04, 22:15:16](https://news.ycombinator.com/item?id=40579508) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
@@ -13,6 +12,7 @@
 * [2024-06-04, 19:39:26](https://news.ycombinator.com/item?id=40578176) - [Particle accelerators for the microchip era](https://www.moore.org/article-detail?newsUrlName=particle-accelerators-for-the-microchip-era)
 * [2024-06-04, 19:25:47](https://news.ycombinator.com/item?id=40578060) - [Entropy, a CLI that scans files to find high entropy lines (might be secrets)](https://github.com/EwenQuim/entropy)
 * [2024-06-04, 18:59:40](https://news.ycombinator.com/item?id=40577800) - [Herbie: Optimize Floating-Point Expressions](https://herbie.uwplse.org/demo/)
+* [2024-06-04, 18:51:34](https://news.ycombinator.com/item?id=40577726) - [Influencer cartels manipulate social media](https://cepr.org/voxeu/columns/how-influencer-cartels-manipulate-social-media-fraudulent-behaviour-hidden-plain)
 * [2024-06-04, 18:41:02](https://news.ycombinator.com/item?id=40577622) - [Attacking Android Binder](https://androidoffsec.withgoogle.com/posts/attacking-android-binder-analysis-and-exploitation-of-cve-2023-20938/)
 * [2024-06-04, 16:20:49](https://news.ycombinator.com/item?id=40576132) - [Why do electronic components have such odd values? (2021)](https://digilent.com/blog/why-do-electronic-components-have-such-odd-values/)
 * [2024-06-04, 12:29:16](https://news.ycombinator.com/item?id=40573790) - [Show HN: PlayBooks – Jupyter Notebooks style on-call investigation documents](https://github.com/DrDroidLab/PlayBooks)
