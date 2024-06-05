@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-05, 12:17:52](https://news.ycombinator.com/item?id=40583965) - [What kind of bug would make machine learning suddenly 40% worse at NetHack?](https://arstechnica.com/gaming/2024/06/what-kind-of-bug-would-make-machine-learning-suddenly-40-worse-at-nethack/)
+* [2024-06-05, 12:15:37](https://news.ycombinator.com/item?id=40583946) - [Google Maps is killing Timeline for Web](https://www.androidauthority.com/google-maps-killing-timeline-web-access-3449017/)
 * [2024-06-05, 12:10:16](https://news.ycombinator.com/item?id=40583909) - [Shuttle (YC S20) Is Hiring](https://news.ycombinator.com/item?id=40583909)
 * [2024-06-05, 10:14:47](https://news.ycombinator.com/item?id=40583282) - [Is It Time to Stop Filming Strangers in Public?](https://petapixel.com/2024/06/04/is-it-time-to-stop-filming-strangers-in-public/)
 * [2024-06-05, 04:11:49](https://news.ycombinator.com/item?id=40581321) - [really divisionless random numbers](https://dotat.at/@/2022-04-20-really-divisionless.html)
@@ -11,7 +12,6 @@
 * [2024-06-04, 19:42:02](https://news.ycombinator.com/item?id=40578206) - [Bit-twiddling abstract addition with unknown bits (2020)](https://dougallj.wordpress.com/2020/01/13/bit-twiddling-addition-with-unknown-bits/)
 * [2024-06-04, 19:39:26](https://news.ycombinator.com/item?id=40578176) - [Particle accelerators for the microchip era](https://www.moore.org/article-detail?newsUrlName=particle-accelerators-for-the-microchip-era)
 * [2024-06-04, 19:25:47](https://news.ycombinator.com/item?id=40578060) - [Entropy, a CLI that scans files to find high entropy lines (might be secrets)](https://github.com/EwenQuim/entropy)
-* [2024-06-04, 18:41:02](https://news.ycombinator.com/item?id=40577622) - [Attacking Android Binder](https://androidoffsec.withgoogle.com/posts/attacking-android-binder-analysis-and-exploitation-of-cve-2023-20938/)
 * [2024-06-04, 16:20:49](https://news.ycombinator.com/item?id=40576132) - [Why do electronic components have such odd values? (2021)](https://digilent.com/blog/why-do-electronic-components-have-such-odd-values/)
 * [2024-06-04, 12:29:16](https://news.ycombinator.com/item?id=40573790) - [Show HN: PlayBooks – Jupyter Notebooks style on-call investigation documents](https://github.com/DrDroidLab/PlayBooks)
 * [2024-06-04, 11:44:26](https://news.ycombinator.com/item?id=40573386) - [Chang'e-6: Moon dark side samples collected and launched into lunar orbit](https://spacenews.com/change-6-moon-samples-collected-and-launched-into-lunar-orbit/)

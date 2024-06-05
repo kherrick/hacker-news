@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-05](index.md)
 
 * [2024-06-05, 12:17:52](https://news.ycombinator.com/item?id=40583965) - [What kind of bug would make machine learning suddenly 40% worse at NetHack?](https://arstechnica.com/gaming/2024/06/what-kind-of-bug-would-make-machine-learning-suddenly-40-worse-at-nethack/)
+* [2024-06-05, 12:15:37](https://news.ycombinator.com/item?id=40583946) - [Google Maps is killing Timeline for Web](https://www.androidauthority.com/google-maps-killing-timeline-web-access-3449017/)
 * [2024-06-05, 12:10:16](https://news.ycombinator.com/item?id=40583909) - [Shuttle (YC S20) Is Hiring](https://news.ycombinator.com/item?id=40583909)
 * [2024-06-05, 11:05:42](https://news.ycombinator.com/item?id=40583538) - [Vitamin D for the prevention of disease: Clinical practice guideline](https://academic.oup.com/jcem/advance-article/doi/10.1210/clinem/dgae290/7685305)
 * [2024-06-05, 10:14:47](https://news.ycombinator.com/item?id=40583282) - [Is It Time to Stop Filming Strangers in Public?](https://petapixel.com/2024/06/04/is-it-time-to-stop-filming-strangers-in-public/)
