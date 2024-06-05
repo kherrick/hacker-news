@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-05, 22:07:27",
+      "https://news.ycombinator.com/item?id=40591158"
+    ],
+    [
+      "DHCPv6-PD – First Steps",
+      "https://sha256.net/dhcpv6-pd-first-steps.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-05, 21:59:53",
+      "https://news.ycombinator.com/item?id=40591106"
+    ],
+    [
+      "Follow along implementing a VSCode extension in 5 minutes",
+      "https://github.com/brisktest/brisk-extension/blob/main/WALKTHROUGH.md"
+    ]
+  ],
+  [
+    [
       "2024-06-05, 19:07:59",
       "https://news.ycombinator.com/item?id=40589011"
     ],
@@ -67,16 +87,6 @@
     [
       "We improved the performance of a userspace TCP stack in Go",
       "https://coder.com/blog/delivering-5x-faster-throughput-in-coder-2-12-0"
-    ]
-  ],
-  [
-    [
-      "2024-06-05, 16:07:45",
-      "https://news.ycombinator.com/item?id=40586676"
-    ],
-    [
-      "Researchers identify major driver of inflammatory bowel and related diseases",
-      "https://www.theguardian.com/society/article/2024/jun/05/bowel-disease-hope-researchers-find-biological-pathway"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Win for copyright user rights in Canada: Digital locks do not trump fair dealing",
       "https://www.michaelgeist.ca/2024/06/huge-win-for-copyright-user-rights-in-canada-federal-court-rules-digital-lock-rules-do-not-trump-fair-dealing/"
-    ]
-  ],
-  [
-    [
-      "2024-06-04, 01:56:05",
-      "https://news.ycombinator.com/item?id=40569940"
-    ],
-    [
-      "New vestiges of the first life on Earth discovered",
-      "https://phys.org/news/2024-05-vestiges-life-earth-saudi-arabia.html"
     ]
   ]
 ]
