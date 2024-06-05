@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-05, 22:05:05](https://news.ycombinator.com/item?id=40591141) - [Microsoft Recall should make you consider Linux](https://creativegood.com/blog/24/recall-switch-to-linux.html)
 * [2024-06-05, 19:07:59](https://news.ycombinator.com/item?id=40589011) - [Show HN: A website that tailors your resume for each job you apply for](https://resume.ink)
 * [2024-06-05, 18:28:53](https://news.ycombinator.com/item?id=40588540) - [How big a deal was the Industrial Revolution? (2017)](https://lukemuehlhauser.com/industrial-revolution/)
 * [2024-06-05, 18:26:02](https://news.ycombinator.com/item?id=40588508) - [Feature flags in Bazel builds](https://pigweed.dev/docs/blog/02-bazel-feature-flags.html)
@@ -7,7 +8,6 @@
 * [2024-06-05, 17:19:13](https://news.ycombinator.com/item?id=40587685) - [Stable Audio Open](https://stability.ai/news/introducing-stable-audio-open)
 * [2024-06-05, 17:00:19](https://news.ycombinator.com/item?id=40587419) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2024-06-05, 16:13:39](https://news.ycombinator.com/item?id=40586757) - [We improved the performance of a userspace TCP stack in Go](https://coder.com/blog/delivering-5x-faster-throughput-in-coder-2-12-0)
-* [2024-06-05, 16:07:45](https://news.ycombinator.com/item?id=40586676) - [Researchers identify major driver of inflammatory bowel and related diseases](https://www.theguardian.com/society/article/2024/jun/05/bowel-disease-hope-researchers-find-biological-pathway)
 * [2024-06-05, 16:01:01](https://news.ycombinator.com/item?id=40586587) - [Managing my motivation as a solo dev](https://mbuffett.com/posts/maintaining-motivation/)
 * [2024-06-05, 15:53:17](https://news.ycombinator.com/item?id=40586475) - [History of the Paper Clip (2016)](http://www.officemuseum.com/paper_clips.htm)
 * [2024-06-05, 15:24:26](https://news.ycombinator.com/item?id=40586030) - [Computer Networks: A Systems Approach (2019)](https://book.systemsapproach.org/)
