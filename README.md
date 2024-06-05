@@ -10,7 +10,7 @@
 * [2024-06-04, 22:15:16](https://news.ycombinator.com/item?id=40579508) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-06-04, 20:39:52](https://news.ycombinator.com/item?id=40578705) - [An animated introduction to Fourier series](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles)
 * [2024-06-04, 20:34:30](https://news.ycombinator.com/item?id=40578668) - [Some notes on influenceering](https://lcamtuf.substack.com/p/some-notes-on-influenceering)
-* [2024-06-04, 19:42:02](https://news.ycombinator.com/item?id=40578206) - [Bit-twiddling abstract addition with unknown bits](https://dougallj.wordpress.com/2020/01/13/bit-twiddling-addition-with-unknown-bits/)
+* [2024-06-04, 19:42:02](https://news.ycombinator.com/item?id=40578206) - [Bit-twiddling abstract addition with unknown bits (2020)](https://dougallj.wordpress.com/2020/01/13/bit-twiddling-addition-with-unknown-bits/)
 * [2024-06-04, 19:39:26](https://news.ycombinator.com/item?id=40578176) - [Particle accelerators for the microchip era](https://www.moore.org/article-detail?newsUrlName=particle-accelerators-for-the-microchip-era)
 * [2024-06-04, 19:25:47](https://news.ycombinator.com/item?id=40578060) - [Entropy, a CLI that scans files to find high entropy lines (might be secrets)](https://github.com/EwenQuim/entropy)
 * [2024-06-04, 18:59:40](https://news.ycombinator.com/item?id=40577800) - [Herbie: Optimize Floating-Point Expressions](https://herbie.uwplse.org/demo/)
