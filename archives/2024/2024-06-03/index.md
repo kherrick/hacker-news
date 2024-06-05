@@ -19,6 +19,7 @@
 * [2024-06-03, 20:42:49](https://news.ycombinator.com/item?id=40567312) - [Show HN: Keyword Research Tool Without Fuzz](https://helseo.com/)
 * [2024-06-03, 20:27:21](https://news.ycombinator.com/item?id=40567165) - [Grokfast: Accelerated Grokking by Amplifying Slow Gradients](https://arxiv.org/abs/2405.20233)
 * [2024-06-03, 20:07:36](https://news.ycombinator.com/item?id=40566938) - [Crooks threaten to leak 3B personal records 'stolen from background check firm'](https://www.theregister.com/2024/06/03/usdod_data_dump/)
+* [2024-06-03, 19:50:20](https://news.ycombinator.com/item?id=40566784) - [Use context-free grammars instead of parser combinators and PEG](https://safinaskar.writeas.com/)
 * [2024-06-03, 19:33:16](https://news.ycombinator.com/item?id=40566605) - [Sam Altman, Lately](http://oftheclock.com/sam-altman-lately)
 * [2024-06-03, 19:26:51](https://news.ycombinator.com/item?id=40566533) - [Oldest largest German Minecraft server shut down and open sourced everything](https://github.com/muxcraftserver/MuxSystem)
 * [2024-06-03, 19:07:43](https://news.ycombinator.com/item?id=40566289) - [Servo Web Engine Continues Advancing but Seeing Just $1.6k in Monthly Donations](https://www.phoronix.com/news/Servo-Engine-May-2024)
