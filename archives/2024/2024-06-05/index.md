@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-05](index.md)
 
+* [2024-06-05, 17:04:20](https://news.ycombinator.com/item?id=40587485) - [NYC Congestion Pricing Delayed Indefinitely by Governor Kathy Hochul](https://www.bloomberg.com/news/articles/2024-06-05/nyc-congestion-pricing-risks-delay-after-hochul-weighs-pause)
 * [2024-06-05, 17:00:19](https://news.ycombinator.com/item?id=40587419) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2024-06-05, 16:32:40](https://news.ycombinator.com/item?id=40586998) - [Study shows banning false info traffickers online can improve public discourse](https://phys.org/news/2024-06-false-traffickers-online-discourse.html)
 * [2024-06-05, 16:21:41](https://news.ycombinator.com/item?id=40586853) - [Major cause of inflammatory bowel disease found](https://www.bbc.com/news/articles/c1wwdd6v2wjo)
