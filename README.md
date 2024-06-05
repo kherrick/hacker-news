@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-05, 07:22:28](https://news.ycombinator.com/item?id=40582259) - [Palmer Luckey is selling pixel-perfect ultrabright magnesium Game Boys for $199](https://www.theverge.com/2024/6/3/24170572/modretro-chromatic-game-boy-color-palmer-luckey-price-release-date)
 * [2024-06-05, 06:42:42](https://news.ycombinator.com/item?id=40582029) - [In defence of swap: common misconceptions](https://chrisdown.name/2018/01/02/in-defence-of-swap.html)
 * [2024-06-05, 06:25:10](https://news.ycombinator.com/item?id=40581918) - [SpaceX's fourth Starship launch approved for Thursday](https://arstechnica.com/space/2024/06/we-know-starship-can-fly-now-its-time-to-see-if-it-can-come-back-to-earth/)
 * [2024-06-05, 06:12:01](https://news.ycombinator.com/item?id=40581854) - [Ask HN: Is Google Dead?](https://news.ycombinator.com/item?id=40581854)
@@ -7,7 +8,6 @@
 * [2024-06-05, 05:09:14](https://news.ycombinator.com/item?id=40581565) - [Japan's Most Actively Traded Stock Is a Fraud and Ticking Time Bomb [pdf]](https://scorpionreports.s3.us-east-2.amazonaws.com/6920.pdf)
 * [2024-06-05, 04:20:35](https://news.ycombinator.com/item?id=40581369) - [Toyota raided as safety testing scandal grows](https://www.bbc.com/news/articles/c1wwj1p2wdyo)
 * [2024-06-05, 01:25:09](https://news.ycombinator.com/item?id=40580549) - [You'll regret using natural keys](https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/)
-* [2024-06-04, 23:14:40](https://news.ycombinator.com/item?id=40579898) - [Not Just Scale](https://brooker.co.za/blog/2024/06/04/scale.html)
 * [2024-06-04, 22:15:16](https://news.ycombinator.com/item?id=40579508) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-06-04, 20:39:52](https://news.ycombinator.com/item?id=40578705) - [An animated introduction to Fourier series](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles)
 * [2024-06-04, 20:34:30](https://news.ycombinator.com/item?id=40578668) - [Some notes on influenceering](https://lcamtuf.substack.com/p/some-notes-on-influenceering)

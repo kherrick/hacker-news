@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-05](index.md)
 
+* [2024-06-05, 07:22:28](https://news.ycombinator.com/item?id=40582259) - [Palmer Luckey is selling pixel-perfect ultrabright magnesium Game Boys for $199](https://www.theverge.com/2024/6/3/24170572/modretro-chromatic-game-boy-color-palmer-luckey-price-release-date)
 * [2024-06-05, 06:42:42](https://news.ycombinator.com/item?id=40582029) - [In defence of swap: common misconceptions](https://chrisdown.name/2018/01/02/in-defence-of-swap.html)
 * [2024-06-05, 06:25:10](https://news.ycombinator.com/item?id=40581918) - [SpaceX's fourth Starship launch approved for Thursday](https://arstechnica.com/space/2024/06/we-know-starship-can-fly-now-its-time-to-see-if-it-can-come-back-to-earth/)
 * [2024-06-05, 06:12:01](https://news.ycombinator.com/item?id=40581854) - [Ask HN: Is Google Dead?](https://news.ycombinator.com/item?id=40581854)
