@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-05](index.md)
 
+* [2024-06-05, 06:25:10](https://news.ycombinator.com/item?id=40581918) - [SpaceX's fourth Starship launch approved for Thursday](https://arstechnica.com/space/2024/06/we-know-starship-can-fly-now-its-time-to-see-if-it-can-come-back-to-earth/)
+* [2024-06-05, 06:06:51](https://news.ycombinator.com/item?id=40581826) - [An intergenerational crime against humanity](https://theconversation.com/an-intergenerational-crime-against-humanity-what-will-it-take-for-political-leaders-to-start-taking-climate-change-seriously-231383)
 * [2024-06-05, 05:43:06](https://news.ycombinator.com/item?id=40581723) - [Apple M4 iPad Pro Has a New Security Exclave for Camera and Microphone Activity](https://9to5mac.com/2024/06/03/m4-ipad-pro-security-feature-apple-hasnt-told-anyone-about/)
 * [2024-06-05, 04:43:21](https://news.ycombinator.com/item?id=40581464) - [Rejecting GMOs hinders human progress and keeps the poor hungry](https://www.theupwing.com/rejecting-gmos-hinders-human-progress-and-keeps-the-poor-hungry/)
 * [2024-06-05, 04:20:35](https://news.ycombinator.com/item?id=40581369) - [Toyota raided as safety testing scandal grows](https://www.bbc.com/news/articles/c1wwj1p2wdyo)

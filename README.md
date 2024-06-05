@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-05, 06:25:10](https://news.ycombinator.com/item?id=40581918) - [SpaceX's fourth Starship launch approved for Thursday](https://arstechnica.com/space/2024/06/we-know-starship-can-fly-now-its-time-to-see-if-it-can-come-back-to-earth/)
+* [2024-06-05, 06:06:51](https://news.ycombinator.com/item?id=40581826) - [An intergenerational crime against humanity](https://theconversation.com/an-intergenerational-crime-against-humanity-what-will-it-take-for-political-leaders-to-start-taking-climate-change-seriously-231383)
 * [2024-06-05, 05:43:06](https://news.ycombinator.com/item?id=40581723) - [Apple M4 iPad Pro Has a New Security Exclave for Camera and Microphone Activity](https://9to5mac.com/2024/06/03/m4-ipad-pro-security-feature-apple-hasnt-told-anyone-about/)
-* [2024-06-05, 04:43:21](https://news.ycombinator.com/item?id=40581464) - [Rejecting GMOs hinders human progress and keeps the poor hungry](https://www.theupwing.com/rejecting-gmos-hinders-human-progress-and-keeps-the-poor-hungry/)
 * [2024-06-05, 04:20:35](https://news.ycombinator.com/item?id=40581369) - [Toyota raided as safety testing scandal grows](https://www.bbc.com/news/articles/c1wwj1p2wdyo)
-* [2024-06-05, 04:04:03](https://news.ycombinator.com/item?id=40581285) - [Ask HN: 30y After 'On Lisp', PAIP etc., Is Lisp Still \"Beating the Averages\"?](https://news.ycombinator.com/item?id=40581285)
 * [2024-06-05, 01:25:09](https://news.ycombinator.com/item?id=40580549) - [You'll regret using natural keys](https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/)
 * [2024-06-04, 23:14:40](https://news.ycombinator.com/item?id=40579898) - [Not Just Scale](https://brooker.co.za/blog/2024/06/04/scale.html)
 * [2024-06-04, 22:15:16](https://news.ycombinator.com/item?id=40579508) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
