@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-05, 09:40:36](https://news.ycombinator.com/item?id=40583068) - [Israel Targets U.S. Lawmakers with Influence Campaign on Gaza War](https://www.nytimes.com/2024/06/05/technology/israel-campaign-gaza-social-media.html)
 * [2024-06-05, 08:46:16](https://news.ycombinator.com/item?id=40582767) - [Warren Buffett Controls 3% of the Treasury Bill Market](https://ca.finance.yahoo.com/news/warren-buffett-controls-3-treasury-130200874.html)
 * [2024-06-05, 08:13:24](https://news.ycombinator.com/item?id=40582566) - [Remote Amazon tribe connects to internet – wind up hooked on porn, social media](https://nypost.com/2024/06/04/lifestyle/remote-amazon-tribe-connects-to-elon-musks-starlink-internet-service-become-hooked-on-porn-social-media/)
-* [2024-06-05, 06:42:42](https://news.ycombinator.com/item?id=40582029) - [In defence of swap: common misconceptions](https://chrisdown.name/2018/01/02/in-defence-of-swap.html)
 * [2024-06-05, 06:25:10](https://news.ycombinator.com/item?id=40581918) - [SpaceX's fourth Starship launch approved for Thursday](https://arstechnica.com/space/2024/06/we-know-starship-can-fly-now-its-time-to-see-if-it-can-come-back-to-earth/)
 * [2024-06-05, 04:20:35](https://news.ycombinator.com/item?id=40581369) - [Toyota raided as safety testing scandal grows](https://www.bbc.com/news/articles/c1wwj1p2wdyo)
 * [2024-06-05, 01:25:09](https://news.ycombinator.com/item?id=40580549) - [You'll regret using natural keys](https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/)
