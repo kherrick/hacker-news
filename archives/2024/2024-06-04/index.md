@@ -86,6 +86,7 @@
 * [2024-06-04, 10:00:32](https://news.ycombinator.com/item?id=40572585) - [I Think, Therefore I Relate](https://worldsensorium.com/i-think-therefore-i-relate/)
 * [2024-06-04, 09:47:03](https://news.ycombinator.com/item?id=40572501) - [Using Vectorize to build an unreasonably good search engine in 160 lines of code](https://blog.partykit.io/posts/using-vectorize-to-build-search/)
 * [2024-06-04, 09:10:10](https://news.ycombinator.com/item?id=40572289) - [Microsoft blocks Windows 11 workaround that enabled local accounts](https://www.pcworld.com/article/2354686/microsoft-blocks-windows-11-workaround-local-accounts.html)
+* [2024-06-04, 09:09:55](https://news.ycombinator.com/item?id=40572288) - [XLSTM code release by NX-AI](https://github.com/NX-AI/xlstm)
 * [2024-06-04, 08:58:02](https://news.ycombinator.com/item?id=40572219) - [Show HN: Web Development with Htmx, Type-Guided Components, Pure Python](https://getludic.dev/docs/)
 * [2024-06-04, 08:43:59](https://news.ycombinator.com/item?id=40572113) - [The Long-Lost Tarzan Atari Game, Preserved](https://gamehistory.org/atari-2600-tarzan/)
 * [2024-06-04, 08:42:57](https://news.ycombinator.com/item?id=40572107) - [Epoch Times CFO charged in $67M crypto money laundering plot](https://www.bbc.com/news/articles/cg66xe59zyeo)
