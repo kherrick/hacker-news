@@ -4,6 +4,7 @@
 * [2024-06-05, 22:07:27](https://news.ycombinator.com/item?id=40591158) - [DHCPv6-PD – First Steps](https://sha256.net/dhcpv6-pd-first-steps.html)
 * [2024-06-05, 21:35:53](https://news.ycombinator.com/item?id=40590910) - [Show HN: Original 8x16 ASCII Fixed Width Font: Classic Console Neue](https://webdraft.hu/fonts/classic-console/)
 * [2024-06-05, 20:59:33](https://news.ycombinator.com/item?id=40590546) - [Largest Autonomous Ride-Hail Territory in US Now Even Larger](https://waymo.com/blog/2024/06/largest-autonomous-ride-hail-territory-in-us-now-even-larger/)
+* [2024-06-05, 20:02:57](https://news.ycombinator.com/item?id=40589844) - [Jury Finds Boeing Stole Tech from Electric Airplane Startup](https://www.govtech.com/public-safety/jury-finds-boeing-stole-tech-from-electric-airplane-startup)
 * [2024-06-05, 18:28:53](https://news.ycombinator.com/item?id=40588540) - [How big a deal was the Industrial Revolution? (2017)](https://lukemuehlhauser.com/industrial-revolution/)
 * [2024-06-05, 18:26:02](https://news.ycombinator.com/item?id=40588508) - [Feature flags in Bazel builds](https://pigweed.dev/docs/blog/02-bazel-feature-flags.html)
 * [2024-06-05, 17:31:41](https://news.ycombinator.com/item?id=40587839) - [A primer on the next generation of antibodies](https://www.abhishaike.com/p/a-primer-to-the-next-generation-of-antibodies)
@@ -29,7 +30,6 @@
 * [2024-06-04, 09:09:55](https://news.ycombinator.com/item?id=40572288) - [xLSTM code release by NX-AI](https://github.com/NX-AI/xlstm)
 * [2024-06-04, 05:51:26](https://news.ycombinator.com/item?id=40571088) - [Building a serverless secured dead drop](https://ayende.com/blog/201153-B/building-a-serverless-secured-dead-drop)
 * [2024-06-04, 03:34:34](https://news.ycombinator.com/item?id=40570428) - [Win for copyright user rights in Canada: Digital locks do not trump fair dealing](https://www.michaelgeist.ca/2024/06/huge-win-for-copyright-user-rights-in-canada-federal-court-rules-digital-lock-rules-do-not-trump-fair-dealing/)
-* [2024-06-04, 01:56:05](https://news.ycombinator.com/item?id=40569940) - [New vestiges of the first life on Earth discovered](https://phys.org/news/2024-05-vestiges-life-earth-saudi-arabia.html)
 
 ## [Archives](archives/index.md)
 
