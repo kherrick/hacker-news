@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-05, 09:20:20](https://news.ycombinator.com/item?id=40582964) - [Show HN: Extract Data from Line Chart Image](https://github.com/tdsone/extract-line-chart-data)
 * [2024-06-05, 04:11:49](https://news.ycombinator.com/item?id=40581321) - [really divisionless random numbers](https://dotat.at/@/2022-04-20-really-divisionless.html)
 * [2024-06-05, 01:25:09](https://news.ycombinator.com/item?id=40580549) - [You'll regret using natural keys](https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/)
 * [2024-06-04, 22:15:16](https://news.ycombinator.com/item?id=40579508) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
@@ -14,7 +15,6 @@
 * [2024-06-04, 16:20:49](https://news.ycombinator.com/item?id=40576132) - [Why do electronic components have such odd values? (2021)](https://digilent.com/blog/why-do-electronic-components-have-such-odd-values/)
 * [2024-06-04, 12:29:16](https://news.ycombinator.com/item?id=40573790) - [Show HN: PlayBooks – Jupyter Notebooks style on-call investigation documents](https://github.com/DrDroidLab/PlayBooks)
 * [2024-06-04, 11:25:41](https://news.ycombinator.com/item?id=40573213) - [How to chop off bytes of an UTF-8 string to fit into a small slot and look nice](https://domm.plix.at/perl/2024_06_chopping_utf8.html)
-* [2024-06-04, 10:31:14](https://news.ycombinator.com/item?id=40572753) - [Succinctness Is Power (2002)](https://www.paulgraham.com/power.html)
 * [2024-06-04, 08:43:59](https://news.ycombinator.com/item?id=40572113) - [The Long-Lost Tarzan Atari Game, Preserved](https://gamehistory.org/atari-2600-tarzan/)
 * [2024-06-04, 08:25:19](https://news.ycombinator.com/item?id=40571995) - [A breakthrough towards the Riemann hypothesis](https://mathstodon.xyz/@tao/112557248794707738)
 * [2024-06-04, 07:42:01](https://news.ycombinator.com/item?id=40571727) - [Sphere Rendering: Flat Planets](https://emildziewanowski.com/flat-planets/)
