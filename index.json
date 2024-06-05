@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-06-05, 11:05:42",
-      "https://news.ycombinator.com/item?id=40583538"
-    ],
-    [
-      "Vitamin D for the prevention of disease: Clinical practice guideline",
-      "https://academic.oup.com/jcem/advance-article/doi/10.1210/clinem/dgae290/7685305"
-    ]
-  ],
-  [
-    [
       "2024-06-05, 09:20:20",
       "https://news.ycombinator.com/item?id=40582964"
     ],
@@ -97,16 +87,6 @@
     [
       "Entropy, a CLI that scans files to find high entropy lines (might be secrets)",
       "https://github.com/EwenQuim/entropy"
-    ]
-  ],
-  [
-    [
-      "2024-06-04, 18:59:40",
-      "https://news.ycombinator.com/item?id=40577800"
-    ],
-    [
-      "Herbie: Optimize Floating-Point Expressions",
-      "https://herbie.uwplse.org/demo/"
     ]
   ],
   [
@@ -261,6 +241,16 @@
   ],
   [
     [
+      "2024-06-03, 11:04:06",
+      "https://news.ycombinator.com/item?id=40561440"
+    ],
+    [
+      "Half a century of SQL",
+      "https://www.theregister.com/2024/05/31/fifty_years_of_sql/"
+    ]
+  ],
+  [
+    [
       "2024-06-03, 09:51:37",
       "https://news.ycombinator.com/item?id=40560979"
     ],
@@ -287,6 +277,16 @@
     [
       "Hacking millions of modems and investigating who hacked my modem",
       "https://samcurry.net/hacking-millions-of-modems"
+    ]
+  ],
+  [
+    [
+      "2024-06-02, 23:56:58",
+      "https://news.ycombinator.com/item?id=40558102"
+    ],
+    [
+      "Formlabs Form 4 Teardown",
+      "https://www.bunniestudios.com/blog/2024/formlabs-form-4-teardown/"
     ]
   ],
   [
