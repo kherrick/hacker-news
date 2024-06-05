@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-04](index.md)
 
+* [2024-06-04, 23:14:40](https://news.ycombinator.com/item?id=40579898) - [Not Just Scale](https://brooker.co.za/blog/2024/06/04/scale.html)
 * [2024-06-04, 22:51:48](https://news.ycombinator.com/item?id=40579761) - [Study shows most doctors endorsing drugs on X are paid to do so](https://medicalxpress.com/news/2024-05-doctors-endorsing-drugs-paid.html)
 * [2024-06-04, 22:34:56](https://news.ycombinator.com/item?id=40579660) - [macOS Bartender Auto-Update Signed by Unknown New Owner](https://www.macrumors.com/2024/06/04/bartender-mac-app-new-owner/)
 * [2024-06-04, 22:21:21](https://news.ycombinator.com/item?id=40579563) - [The Positive Hacker News RSS Feed](https://github.com/garritfra/positive_hackernews)
