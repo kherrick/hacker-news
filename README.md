@@ -22,12 +22,12 @@
 * [2024-06-04, 08:25:19](https://news.ycombinator.com/item?id=40571995) - [A breakthrough towards the Riemann hypothesis](https://mathstodon.xyz/@tao/112557248794707738)
 * [2024-06-04, 07:42:01](https://news.ycombinator.com/item?id=40571727) - [Sphere Rendering: Flat Planets](https://emildziewanowski.com/flat-planets/)
 * [2024-06-04, 07:25:34](https://news.ycombinator.com/item?id=40571614) - [Atash Behram – Types of Fire](https://en.wikipedia.org/wiki/Atash_Behram)
+* [2024-06-04, 07:01:58](https://news.ycombinator.com/item?id=40571463) - [Show HN: Huewords, a Word and Logic Puzzle](https://huewords.snellman.net/)
 * [2024-06-04, 06:48:55](https://news.ycombinator.com/item?id=40571402) - [Don't be terrified of Pale Fire](https://unherd.com/2024/05/dont-be-terrified-of-pale-fire/)
 * [2024-06-04, 06:24:39](https://news.ycombinator.com/item?id=40571270) - [Creating a Safari webarchive from the command line](https://alexwlchan.net/2024/creating-a-safari-webarchive/)
 * [2024-06-04, 00:29:37](https://news.ycombinator.com/item?id=40569385) - [Show HN: Allocate poker chips optimally with mixed-integer nonlinear programming](https://github.com/jstrieb/poker-chipper)
 * [2024-06-03, 19:50:20](https://news.ycombinator.com/item?id=40566784) - [Use context-free grammars instead of parser combinators and PEG](https://safinaskar.writeas.com/)
 * [2024-06-03, 16:45:01](https://news.ycombinator.com/item?id=40564489) - [The state of the art in copter drones and flight control systems](https://www.mdpi.com/1424-8220/24/11/3349)
-* [2024-06-03, 09:51:37](https://news.ycombinator.com/item?id=40560979) - [Poets' Odd Jobs](https://poets.org/text/poets-odd-jobs)
 * [2024-06-03, 07:46:23](https://news.ycombinator.com/item?id=40560261) - [Why camera calibration is so important in computer vision](https://www.opencv.ai/blog/camera-calibration)
 * [2024-06-03, 06:51:24](https://news.ycombinator.com/item?id=40560010) - [Hacking millions of modems and investigating who hacked my modem](https://samcurry.net/hacking-millions-of-modems)
 
