@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-05](index.md)
 
+* [2024-06-05, 15:04:03](https://news.ycombinator.com/item?id=40585728) - [Boeing Starliner launches first crewed mission](https://www.bbc.co.uk/news/live/world-us-canada-69094213)
 * [2024-06-05, 14:28:46](https://news.ycombinator.com/item?id=40585212) - [Is Microsoft trying to commit suicide?](https://www.antipope.org/charlie/blog-static/2024/06/is-microsoft-trying-to-commit-.html)
 * [2024-06-05, 14:28:20](https://news.ycombinator.com/item?id=40585207) - [Jury finds Boeing stole technology from electric airplane startup Zunum](https://www.seattletimes.com/business/boeing-aerospace/jury-finds-boeing-stole-technology-from-electric-airplane-startup-zunum/)
 * [2024-06-05, 14:13:39](https://news.ycombinator.com/item?id=40585039) - [Alice in Wonderland: Simple Tasks Showing Complete Reasoning Breakdown in LLMs](https://arxiv.org/abs/2406.02061)

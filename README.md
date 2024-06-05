@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-05, 15:04:03](https://news.ycombinator.com/item?id=40585728) - [Boeing Starliner launches first crewed mission](https://www.bbc.co.uk/news/live/world-us-canada-69094213)
 * [2024-06-05, 14:28:46](https://news.ycombinator.com/item?id=40585212) - [Is Microsoft trying to commit suicide?](https://www.antipope.org/charlie/blog-static/2024/06/is-microsoft-trying-to-commit-.html)
 * [2024-06-05, 14:28:20](https://news.ycombinator.com/item?id=40585207) - [Jury finds Boeing stole technology from electric airplane startup Zunum](https://www.seattletimes.com/business/boeing-aerospace/jury-finds-boeing-stole-technology-from-electric-airplane-startup-zunum/)
 * [2024-06-05, 14:13:39](https://news.ycombinator.com/item?id=40585039) - [Alice in Wonderland: Simple Tasks Showing Complete Reasoning Breakdown in LLMs](https://arxiv.org/abs/2406.02061)
 * [2024-06-05, 14:12:18](https://news.ycombinator.com/item?id=40585029) - [Human Computers: The Women Who Powered Early Technology](https://rarehistoricalphotos.com/human-computer-women-profession/)
 * [2024-06-05, 14:01:51](https://news.ycombinator.com/item?id=40584901) - [Study finds 268% higher failure rates for Agile software projects](https://www.theregister.com/2024/06/05/agile_failure_rates/)
-* [2024-06-05, 13:58:44](https://news.ycombinator.com/item?id=40584866) - [E.U. Censorship Laws Mostly Suppress Legal Speech](https://reason.com/2024/06/05/report-e-u-censorship-laws-mostly-suppress-legal-speech/)
 * [2024-06-05, 13:57:45](https://news.ycombinator.com/item?id=40584853) - [The Rise and Fall of Preview](https://pxlnv.com/linklog/preview-rise-and-fall/)
 * [2024-06-05, 13:38:05](https://news.ycombinator.com/item?id=40584606) - [Popular Mac app 'Bartender' acquired by new unknown developer](https://9to5mac.com/2024/06/04/bartender-acquired-unknown-developer/)
 * [2024-06-05, 13:33:04](https://news.ycombinator.com/item?id=40584563) - [Texas poised to get own stock exchange – with less red tape than NYSE or Nasdaq](https://www.businessinsider.com/texas-stock-exchange-nyse-nasdaq-elon-musk-tesla-exxon-mobil-2024-6)
