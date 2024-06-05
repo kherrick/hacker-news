@@ -41,6 +41,7 @@
 * [2024-06-05, 05:02:09](https://news.ycombinator.com/item?id=40581545) - [GitHub now provides Arm-based runners](https://github.blog/2024-06-03-arm64-on-github-actions-powering-faster-more-efficient-build-systems/)
 * [2024-06-05, 04:52:21](https://news.ycombinator.com/item?id=40581495) - [Tetris Is Forty Years Old](https://www.bbc.com/russian/articles/cg33yn232z7o)
 * [2024-06-05, 04:43:21](https://news.ycombinator.com/item?id=40581464) - [Rejecting GMOs hinders human progress and keeps the poor hungry](https://www.theupwing.com/rejecting-gmos-hinders-human-progress-and-keeps-the-poor-hungry/)
+* [2024-06-05, 04:31:24](https://news.ycombinator.com/item?id=40581424) - [User Interfaces](https://history.user-interface.io/)
 * [2024-06-05, 04:20:35](https://news.ycombinator.com/item?id=40581369) - [Toyota raided as safety testing scandal grows](https://www.bbc.com/news/articles/c1wwj1p2wdyo)
 * [2024-06-05, 04:11:49](https://news.ycombinator.com/item?id=40581321) - [really divisionless random numbers](https://dotat.at/@/2022-04-20-really-divisionless.html)
 * [2024-06-05, 04:09:17](https://news.ycombinator.com/item?id=40581308) - [He trained cops to fight crypto crime and allegedly ran a dark-web drug market](https://www.wired.com/story/lin-rui-siang-incognito-market/)
