@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-05, 21:01:57](https://news.ycombinator.com/item?id=40590570) - [Memories of an Enron Summer](https://www.dropbox.com/scl/fi/6i1800ml23i6x4wn6jp0q/Enron-Summer.pdf?rlkey=i6eyhsa658w4la0vzkdhfy7uj&e=1&st=2yjulw6q&dl=0)
 * [2024-06-05, 18:28:53](https://news.ycombinator.com/item?id=40588540) - [How big a deal was the Industrial Revolution? (2017)](https://lukemuehlhauser.com/industrial-revolution/)
 * [2024-06-05, 18:26:02](https://news.ycombinator.com/item?id=40588508) - [Feature flags in Bazel builds](https://pigweed.dev/docs/blog/02-bazel-feature-flags.html)
 * [2024-06-05, 17:31:41](https://news.ycombinator.com/item?id=40587839) - [A primer on the next generation of antibodies](https://www.abhishaike.com/p/a-primer-to-the-next-generation-of-antibodies)
@@ -14,7 +15,6 @@
 * [2024-06-05, 15:11:01](https://news.ycombinator.com/item?id=40585842) - [Vulkan1.3 on the M1 in one month](https://rosenzweig.io/blog/vk13-on-the-m1-in-1-month.html)
 * [2024-06-05, 15:04:03](https://news.ycombinator.com/item?id=40585728) - [Boeing Starliner launches first crewed mission](https://www.bbc.co.uk/news/live/world-us-canada-69094213)
 * [2024-06-05, 14:52:37](https://news.ycombinator.com/item?id=40585559) - [Show HN: Laudspeaker – Open-source mobile push, SMS and email automation](https://github.com/laudspeaker/laudspeaker)
-* [2024-06-05, 14:13:39](https://news.ycombinator.com/item?id=40585039) - [Simple tasks showing reasoning breakdown in state-of-the-art LLMs](https://arxiv.org/abs/2406.02061)
 * [2024-06-05, 13:29:06](https://news.ycombinator.com/item?id=40584534) - [What no one has seen before: gravitational waveforms from warp drive collapse](https://arxiv.org/abs/2406.02466)
 * [2024-06-05, 06:43:45](https://news.ycombinator.com/item?id=40582035) - [Minimalistic Beat Maker](https://martinwecke.de/108/)
 * [2024-06-05, 04:58:44](https://news.ycombinator.com/item?id=40581528) - [Our Man in Fotheringhay](https://literaryreview.co.uk/our-man-in-fotheringhay)

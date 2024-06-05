@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-05](index.md)
 
+* [2024-06-05, 21:01:57](https://news.ycombinator.com/item?id=40590570) - [Memories of an Enron Summer](https://www.dropbox.com/scl/fi/6i1800ml23i6x4wn6jp0q/Enron-Summer.pdf?rlkey=i6eyhsa658w4la0vzkdhfy7uj&e=1&st=2yjulw6q&dl=0)
 * [2024-06-05, 19:45:31](https://news.ycombinator.com/item?id=40589625) - [Democrat calls only 7 EV-charging stations deployed under US program 'pathetic'](https://finance.yahoo.com/news/democrat-calls-only-7-ev-182511859.html)
 * [2024-06-05, 19:43:34](https://news.ycombinator.com/item?id=40589585) - [Nvidia hits $3T market cap on back of AI boom](https://www.cnbc.com/2024/06/05/nvidia-briefly-passes-3-trillion-market-cap-on-back-of-ai-boom.html)
 * [2024-06-05, 19:07:34](https://news.ycombinator.com/item?id=40589008) - [Rabbit R1 It's a Scam](https://paulogpd.bearblog.dev/en-rabbit-r1-its-a-scam/)
