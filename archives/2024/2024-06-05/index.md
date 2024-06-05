@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-06-05](index.md)
 
+* [2024-06-05, 17:19:13](https://news.ycombinator.com/item?id=40587685) - [Stable Audio Open – Stability AI](https://stability.ai/news/introducing-stable-audio-open)
 * [2024-06-05, 17:04:20](https://news.ycombinator.com/item?id=40587485) - [NYC Congestion Pricing Delayed Indefinitely by Governor Kathy Hochul](https://www.bloomberg.com/news/articles/2024-06-05/nyc-congestion-pricing-risks-delay-after-hochul-weighs-pause)
 * [2024-06-05, 17:00:19](https://news.ycombinator.com/item?id=40587419) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2024-06-05, 16:32:40](https://news.ycombinator.com/item?id=40586998) - [Study shows banning false info traffickers online can improve public discourse](https://phys.org/news/2024-06-false-traffickers-online-discourse.html)
 * [2024-06-05, 16:21:41](https://news.ycombinator.com/item?id=40586853) - [Major cause of inflammatory bowel disease found](https://www.bbc.com/news/articles/c1wwdd6v2wjo)
+* [2024-06-05, 16:13:39](https://news.ycombinator.com/item?id=40586757) - [We Improved the Performance of a Userspace TCP Stack in Go by 5X](https://coder.com/blog/delivering-5x-faster-throughput-in-coder-2-12-0)
 * [2024-06-05, 16:07:45](https://news.ycombinator.com/item?id=40586676) - [Researchers identify major driver of inflammatory bowel and related diseases](https://www.theguardian.com/society/article/2024/jun/05/bowel-disease-hope-researchers-find-biological-pathway)
 * [2024-06-05, 16:06:05](https://news.ycombinator.com/item?id=40586654) - [Squatting in Spain: Understanding Spain's \"okupas\" problem](https://www.idealista.com/en/news/legal-advice-in-spain/2024/04/15/816509-squatting-in-spain-understanding-spain-s-okupas-problem)
 * [2024-06-05, 16:01:01](https://news.ycombinator.com/item?id=40586587) - [Managing my motivation as a solo dev](https://mbuffett.com/posts/maintaining-motivation/)

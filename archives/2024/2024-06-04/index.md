@@ -105,6 +105,7 @@
 * [2024-06-04, 06:48:55](https://news.ycombinator.com/item?id=40571402) - [Don't be terrified of Pale Fire](https://unherd.com/2024/05/dont-be-terrified-of-pale-fire/)
 * [2024-06-04, 06:47:51](https://news.ycombinator.com/item?id=40571395) - [I Am So Sick of Leetcode-Style Interviews](https://nelson.cloud/i-am-so-sick-of-leetcode-style-interviews/)
 * [2024-06-04, 06:24:39](https://news.ycombinator.com/item?id=40571270) - [Creating a Safari webarchive from the command line](https://alexwlchan.net/2024/creating-a-safari-webarchive/)
+* [2024-06-04, 05:51:26](https://news.ycombinator.com/item?id=40571088) - [Building a serverless secured dead drop](https://ayende.com/blog/201153-B/building-a-serverless-secured-dead-drop)
 * [2024-06-04, 05:07:57](https://news.ycombinator.com/item?id=40570892) - [Koheesio: Nike's Python-based framework to build advanced data-pipelines](https://github.com/Nike-Inc/koheesio)
 * [2024-06-04, 04:46:58](https://news.ycombinator.com/item?id=40570781) - [Hacking Millions of Modems (and Investigating Who Hacked My Modem)](https://samcurry.net/hacking-millions-of-modems)
 * [2024-06-04, 03:34:34](https://news.ycombinator.com/item?id=40570428) - [Win for copyright user rights in Canada: Digital locks do not trump fair dealing](https://www.michaelgeist.ca/2024/06/huge-win-for-copyright-user-rights-in-canada-federal-court-rules-digital-lock-rules-do-not-trump-fair-dealing/)
