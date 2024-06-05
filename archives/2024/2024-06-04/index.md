@@ -87,6 +87,7 @@
 * [2024-06-04, 08:25:19](https://news.ycombinator.com/item?id=40571995) - [A remarkable breakthrough towards the Riemann hypothesis](https://mathstodon.xyz/@tao/112557248794707738)
 * [2024-06-04, 08:15:00](https://news.ycombinator.com/item?id=40571940) - [Excess mortality across the Western World since the Covid pandemic](https://bmjpublichealth.bmj.com/content/2/1/e000282)
 * [2024-06-04, 07:42:01](https://news.ycombinator.com/item?id=40571727) - [Sphere Rendering: Flat Planets](https://emildziewanowski.com/flat-planets/)
+* [2024-06-04, 07:25:34](https://news.ycombinator.com/item?id=40571614) - [Atash Behram – Types of Fire](https://en.wikipedia.org/wiki/Atash_Behram)
 * [2024-06-04, 07:10:39](https://news.ycombinator.com/item?id=40571512) - [Raspberry Pi AI Kit available now at $70](https://www.raspberrypi.com/news/raspberry-pi-ai-kit-available-now-at-70/)
 * [2024-06-04, 07:08:48](https://news.ycombinator.com/item?id=40571500) - [Ask HN: Going low-level – what to learn next?](https://news.ycombinator.com/item?id=40571500)
 * [2024-06-04, 07:01:58](https://news.ycombinator.com/item?id=40571463) - [Show HN: Huewords, a Word and Logic Puzzle](https://huewords.snellman.net/)

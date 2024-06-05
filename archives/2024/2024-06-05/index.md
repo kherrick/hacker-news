@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-06-05](index.md)
 
+* [2024-06-05, 01:09:31](https://news.ycombinator.com/item?id=40580456) - [New AI system detects rare epileptic seizures](https://viterbischool.usc.edu/news/2024/06/ai-detects-rare-epilepsy/)
 * [2024-06-05, 00:16:25](https://news.ycombinator.com/item?id=40580217) - [Hacker Tool Extracts All the Data Collected by Windows' New Recall AI](https://www.wired.com/story/total-recall-windows-recall-ai/)
