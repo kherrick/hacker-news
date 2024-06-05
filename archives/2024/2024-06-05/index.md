@@ -16,6 +16,7 @@
 * [2024-06-05, 05:09:14](https://news.ycombinator.com/item?id=40581565) - [Japan's Most Actively Traded Stock Is a Fraud and Ticking Time Bomb [pdf]](https://scorpionreports.s3.us-east-2.amazonaws.com/6920.pdf)
 * [2024-06-05, 04:43:21](https://news.ycombinator.com/item?id=40581464) - [Rejecting GMOs hinders human progress and keeps the poor hungry](https://www.theupwing.com/rejecting-gmos-hinders-human-progress-and-keeps-the-poor-hungry/)
 * [2024-06-05, 04:20:35](https://news.ycombinator.com/item?id=40581369) - [Toyota raided as safety testing scandal grows](https://www.bbc.com/news/articles/c1wwj1p2wdyo)
+* [2024-06-05, 04:11:49](https://news.ycombinator.com/item?id=40581321) - [really divisionless random numbers](https://dotat.at/@/2022-04-20-really-divisionless.html)
 * [2024-06-05, 04:09:17](https://news.ycombinator.com/item?id=40581308) - [He trained cops to fight crypto crime and allegedly ran a dark-web drug market](https://www.wired.com/story/lin-rui-siang-incognito-market/)
 * [2024-06-05, 04:04:03](https://news.ycombinator.com/item?id=40581285) - [Ask HN: 30y After 'On Lisp', PAIP etc., Is Lisp Still \"Beating the Averages\"?](https://news.ycombinator.com/item?id=40581285)
 * [2024-06-05, 02:48:32](https://news.ycombinator.com/item?id=40580926) - [Meta Withheld Information on Instagram, WhatsApp Deals: FTC](https://www.bloomberg.com/news/articles/2024-06-05/meta-withheld-information-on-instagram-whatsapp-deals-ftc-says)

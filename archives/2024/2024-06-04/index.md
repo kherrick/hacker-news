@@ -81,6 +81,7 @@
 * [2024-06-04, 11:25:18](https://news.ycombinator.com/item?id=40573211) - [Encryption at Rest: Whose Threat Model Is It Anyway?](https://scottarc.blog/2024/06/02/encryption-at-rest-whose-threat-model-is-it-anyway/)
 * [2024-06-04, 11:11:34](https://news.ycombinator.com/item?id=40573104) - [Coding and Keyboards (2023)](https://www.hendrik-erz.de/post/coding-and-keyboards)
 * [2024-06-04, 11:11:06](https://news.ycombinator.com/item?id=40573097) - [Security researcher discovers Microsoft's Recall tool is woefully insecure](https://www.windowscentral.com/software-apps/windows-11/microsoft-should-recall-windows-recall-security-researcher-finds-microsofts-new-ai-tool-woefully-insecure)
+* [2024-06-04, 10:31:14](https://news.ycombinator.com/item?id=40572753) - [Succinctness Is Power (2002)](https://www.paulgraham.com/power.html)
 * [2024-06-04, 10:29:01](https://news.ycombinator.com/item?id=40572737) - [America's Commute to Work Is Getting Longer and Longer](https://www.wsj.com/lifestyle/workplace/americas-commute-to-work-is-getting-longer-and-longer-0fbf79c3)
 * [2024-06-04, 10:00:32](https://news.ycombinator.com/item?id=40572585) - [I Think, Therefore I Relate](https://worldsensorium.com/i-think-therefore-i-relate/)
 * [2024-06-04, 09:47:03](https://news.ycombinator.com/item?id=40572501) - [Using Vectorize to build an unreasonably good search engine in 160 lines of code](https://blog.partykit.io/posts/using-vectorize-to-build-search/)
