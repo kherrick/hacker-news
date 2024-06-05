@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-05, 22:07:27](https://news.ycombinator.com/item?id=40591158) - [DHCPv6-PD – First Steps](https://sha256.net/dhcpv6-pd-first-steps.html)
+* [2024-06-05, 21:59:53](https://news.ycombinator.com/item?id=40591106) - [Follow along implementing a VSCode extension in 5 minutes](https://github.com/brisktest/brisk-extension/blob/main/WALKTHROUGH.md)
 * [2024-06-05, 19:07:59](https://news.ycombinator.com/item?id=40589011) - [Show HN: A website that tailors your resume for each job you apply for](https://resume.ink)
 * [2024-06-05, 18:28:53](https://news.ycombinator.com/item?id=40588540) - [How big a deal was the Industrial Revolution? (2017)](https://lukemuehlhauser.com/industrial-revolution/)
 * [2024-06-05, 18:26:02](https://news.ycombinator.com/item?id=40588508) - [Feature flags in Bazel builds](https://pigweed.dev/docs/blog/02-bazel-feature-flags.html)
@@ -7,7 +9,6 @@
 * [2024-06-05, 17:19:13](https://news.ycombinator.com/item?id=40587685) - [Stable Audio Open](https://stability.ai/news/introducing-stable-audio-open)
 * [2024-06-05, 17:00:19](https://news.ycombinator.com/item?id=40587419) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2024-06-05, 16:13:39](https://news.ycombinator.com/item?id=40586757) - [We improved the performance of a userspace TCP stack in Go](https://coder.com/blog/delivering-5x-faster-throughput-in-coder-2-12-0)
-* [2024-06-05, 16:07:45](https://news.ycombinator.com/item?id=40586676) - [Researchers identify major driver of inflammatory bowel and related diseases](https://www.theguardian.com/society/article/2024/jun/05/bowel-disease-hope-researchers-find-biological-pathway)
 * [2024-06-05, 16:01:01](https://news.ycombinator.com/item?id=40586587) - [Managing my motivation as a solo dev](https://mbuffett.com/posts/maintaining-motivation/)
 * [2024-06-05, 15:53:17](https://news.ycombinator.com/item?id=40586475) - [History of the Paper Clip (2016)](http://www.officemuseum.com/paper_clips.htm)
 * [2024-06-05, 15:24:26](https://news.ycombinator.com/item?id=40586030) - [Computer Networks: A Systems Approach (2019)](https://book.systemsapproach.org/)
@@ -29,7 +30,6 @@
 * [2024-06-04, 09:09:55](https://news.ycombinator.com/item?id=40572288) - [xLSTM code release by NX-AI](https://github.com/NX-AI/xlstm)
 * [2024-06-04, 05:51:26](https://news.ycombinator.com/item?id=40571088) - [Building a serverless secured dead drop](https://ayende.com/blog/201153-B/building-a-serverless-secured-dead-drop)
 * [2024-06-04, 03:34:34](https://news.ycombinator.com/item?id=40570428) - [Win for copyright user rights in Canada: Digital locks do not trump fair dealing](https://www.michaelgeist.ca/2024/06/huge-win-for-copyright-user-rights-in-canada-federal-court-rules-digital-lock-rules-do-not-trump-fair-dealing/)
-* [2024-06-04, 01:56:05](https://news.ycombinator.com/item?id=40569940) - [New vestiges of the first life on Earth discovered](https://phys.org/news/2024-05-vestiges-life-earth-saudi-arabia.html)
 
 ## [Archives](archives/index.md)
 
