@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-05, 01:25:09](https://news.ycombinator.com/item?id=40580549) - [You'll regret using natural keys](https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/)
+* [2024-06-04, 22:51:48](https://news.ycombinator.com/item?id=40579761) - [Study shows most doctors endorsing drugs on X are paid to do so](https://medicalxpress.com/news/2024-05-doctors-endorsing-drugs-paid.html)
 * [2024-06-04, 22:34:56](https://news.ycombinator.com/item?id=40579660) - [macOS Bartender Auto-Update Signed by Unknown New Owner](https://www.macrumors.com/2024/06/04/bartender-mac-app-new-owner/)
 * [2024-06-04, 22:15:16](https://news.ycombinator.com/item?id=40579508) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-06-04, 20:39:52](https://news.ycombinator.com/item?id=40578705) - [An animated introduction to Fourier series](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles)
@@ -29,7 +30,6 @@
 * [2024-06-03, 06:51:24](https://news.ycombinator.com/item?id=40560010) - [Hacking millions of modems and investigating who hacked my modem](https://samcurry.net/hacking-millions-of-modems)
 * [2024-06-03, 04:22:18](https://news.ycombinator.com/item?id=40559316) - [Inbox Ten](https://boz.com/articles/inbox-ten)
 * [2024-06-02, 16:39:31](https://news.ycombinator.com/item?id=40555415) - [A Brief Look at the 3DS Cartridge Protocol](https://blog.winter-software.com/2024/06/02/ctr-cart-protocol)
-* [2024-06-02, 07:53:14](https://news.ycombinator.com/item?id=40552257) - [ht: Headless Terminal](https://github.com/andyk/ht)
 
 ## [Archives](archives/index.md)
 
