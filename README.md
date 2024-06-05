@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-05, 01:25:09](https://news.ycombinator.com/item?id=40580549) - [You'll regret using natural keys](https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/)
 * [2024-06-05, 01:09:31](https://news.ycombinator.com/item?id=40580456) - [New AI system detects rare epileptic seizures](https://viterbischool.usc.edu/news/2024/06/ai-detects-rare-epilepsy/)
 * [2024-06-04, 22:51:48](https://news.ycombinator.com/item?id=40579761) - [Study shows most doctors endorsing drugs on X are paid to do so](https://medicalxpress.com/news/2024-05-doctors-endorsing-drugs-paid.html)
 * [2024-06-04, 22:34:56](https://news.ycombinator.com/item?id=40579660) - [macOS Bartender Auto-Update Signed by Unknown New Owner](https://www.macrumors.com/2024/06/04/bartender-mac-app-new-owner/)
@@ -11,9 +12,9 @@
 * [2024-06-04, 19:39:26](https://news.ycombinator.com/item?id=40578176) - [Particle accelerators for the microchip era](https://www.moore.org/article-detail?newsUrlName=particle-accelerators-for-the-microchip-era)
 * [2024-06-04, 19:25:47](https://news.ycombinator.com/item?id=40578060) - [Entropy, a CLI that scans files to find high entropy lines (might be secrets)](https://github.com/EwenQuim/entropy)
 * [2024-06-04, 18:59:40](https://news.ycombinator.com/item?id=40577800) - [Herbie: Optimize Floating-Point Expressions](https://herbie.uwplse.org/demo/)
+* [2024-06-04, 18:51:34](https://news.ycombinator.com/item?id=40577726) - [Influencer cartels manipulate social media](https://cepr.org/voxeu/columns/how-influencer-cartels-manipulate-social-media-fraudulent-behaviour-hidden-plain)
 * [2024-06-04, 18:41:02](https://news.ycombinator.com/item?id=40577622) - [Attacking Android Binder](https://androidoffsec.withgoogle.com/posts/attacking-android-binder-analysis-and-exploitation-of-cve-2023-20938/)
 * [2024-06-04, 16:20:49](https://news.ycombinator.com/item?id=40576132) - [Why do electronic components have such odd values? (2021)](https://digilent.com/blog/why-do-electronic-components-have-such-odd-values/)
-* [2024-06-04, 15:22:31](https://news.ycombinator.com/item?id=40575538) - [Show HN: Shortbread App – AI-powered, romantic comics for women](https://www.shortbreadapp.com/)
 * [2024-06-04, 12:29:16](https://news.ycombinator.com/item?id=40573790) - [Show HN: PlayBooks – Jupyter Notebooks style on-call investigation documents](https://github.com/DrDroidLab/PlayBooks)
 * [2024-06-04, 08:25:19](https://news.ycombinator.com/item?id=40571995) - [A breakthrough towards the Riemann hypothesis](https://mathstodon.xyz/@tao/112557248794707738)
 * [2024-06-04, 07:42:01](https://news.ycombinator.com/item?id=40571727) - [Sphere Rendering: Flat Planets](https://emildziewanowski.com/flat-planets/)
@@ -27,9 +28,8 @@
 * [2024-06-03, 09:51:37](https://news.ycombinator.com/item?id=40560979) - [Poets' Odd Jobs](https://poets.org/text/poets-odd-jobs)
 * [2024-06-03, 06:51:24](https://news.ycombinator.com/item?id=40560010) - [Hacking millions of modems and investigating who hacked my modem](https://samcurry.net/hacking-millions-of-modems)
 * [2024-06-03, 04:22:18](https://news.ycombinator.com/item?id=40559316) - [Inbox Ten](https://boz.com/articles/inbox-ten)
-* [2024-06-02, 19:23:20](https://news.ycombinator.com/item?id=40556590) - [Fighting an anti-doping finding](https://lizzybanks.co.uk/2024/05/15/hello-world/)
+* [2024-06-02, 16:39:31](https://news.ycombinator.com/item?id=40555415) - [A Brief Look at the 3DS Cartridge Protocol](https://blog.winter-software.com/2024/06/02/ctr-cart-protocol)
 * [2024-06-02, 07:53:14](https://news.ycombinator.com/item?id=40552257) - [ht: Headless Terminal](https://github.com/andyk/ht)
-* [2024-06-01, 10:48:00](https://news.ycombinator.com/item?id=40544546) - [Learning to grow with the Hampton's pepper professionals](https://worldsensorium.com/learning-to-grow-with-the-hamptons-pepper-professionals/)
 
 ## [Archives](archives/index.md)
 
