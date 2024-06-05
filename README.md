@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-05, 14:28:46](https://news.ycombinator.com/item?id=40585212) - [Is Microsoft trying to commit suicide?](https://www.antipope.org/charlie/blog-static/2024/06/is-microsoft-trying-to-commit-.html)
 * [2024-06-05, 14:28:20](https://news.ycombinator.com/item?id=40585207) - [Jury finds Boeing stole technology from electric airplane startup Zunum](https://www.seattletimes.com/business/boeing-aerospace/jury-finds-boeing-stole-technology-from-electric-airplane-startup-zunum/)
 * [2024-06-05, 14:13:39](https://news.ycombinator.com/item?id=40585039) - [Alice in Wonderland: Simple Tasks Showing Complete Reasoning Breakdown in LLMs](https://arxiv.org/abs/2406.02061)
+* [2024-06-05, 14:12:18](https://news.ycombinator.com/item?id=40585029) - [Human Computers: The Women Who Powered Early Technology](https://rarehistoricalphotos.com/human-computer-women-profession/)
 * [2024-06-05, 14:01:51](https://news.ycombinator.com/item?id=40584901) - [Study finds 268% higher failure rates for Agile software projects](https://www.theregister.com/2024/06/05/agile_failure_rates/)
 * [2024-06-05, 13:58:44](https://news.ycombinator.com/item?id=40584866) - [E.U. Censorship Laws Mostly Suppress Legal Speech](https://reason.com/2024/06/05/report-e-u-censorship-laws-mostly-suppress-legal-speech/)
 * [2024-06-05, 13:57:45](https://news.ycombinator.com/item?id=40584853) - [The Rise and Fall of Preview](https://pxlnv.com/linklog/preview-rise-and-fall/)
@@ -19,8 +21,6 @@
 * [2024-06-05, 04:52:21](https://news.ycombinator.com/item?id=40581495) - [Tetris Is Forty Years Old](https://www.bbc.com/russian/articles/cg33yn232z7o)
 * [2024-06-05, 01:25:09](https://news.ycombinator.com/item?id=40580549) - [You'll regret using natural keys](https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/)
 * [2024-06-04, 20:39:52](https://news.ycombinator.com/item?id=40578705) - [An animated introduction to Fourier series](https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles)
-* [2024-06-04, 19:39:26](https://news.ycombinator.com/item?id=40578176) - [Particle accelerators for the microchip era](https://www.moore.org/article-detail?newsUrlName=particle-accelerators-for-the-microchip-era)
-* [2024-06-04, 19:25:47](https://news.ycombinator.com/item?id=40578060) - [Entropy, a CLI that scans files to find high entropy lines (might be secrets)](https://github.com/EwenQuim/entropy)
 * [2024-06-04, 16:20:49](https://news.ycombinator.com/item?id=40576132) - [Why do electronic components have such odd values? (2021)](https://digilent.com/blog/why-do-electronic-components-have-such-odd-values/)
 * [2024-06-04, 12:29:16](https://news.ycombinator.com/item?id=40573790) - [Show HN: PlayBooks – Jupyter Notebooks style on-call investigation documents](https://github.com/DrDroidLab/PlayBooks)
 * [2024-06-04, 11:25:41](https://news.ycombinator.com/item?id=40573213) - [How to chop off bytes of an UTF-8 string to fit into a small slot and look nice](https://domm.plix.at/perl/2024_06_chopping_utf8.html)
