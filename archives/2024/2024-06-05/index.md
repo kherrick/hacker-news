@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-06-05](index.md)
 
+* [2024-06-05, 12:17:52](https://news.ycombinator.com/item?id=40583965) - [What kind of bug would make machine learning suddenly 40% worse at NetHack?](https://arstechnica.com/gaming/2024/06/what-kind-of-bug-would-make-machine-learning-suddenly-40-worse-at-nethack/)
 * [2024-06-05, 12:10:16](https://news.ycombinator.com/item?id=40583909) - [Shuttle (YC S20) Is Hiring](https://news.ycombinator.com/item?id=40583909)
 * [2024-06-05, 11:05:42](https://news.ycombinator.com/item?id=40583538) - [Vitamin D for the prevention of disease: Clinical practice guideline](https://academic.oup.com/jcem/advance-article/doi/10.1210/clinem/dgae290/7685305)
+* [2024-06-05, 10:14:47](https://news.ycombinator.com/item?id=40583282) - [Is It Time to Stop Filming Strangers in Public?](https://petapixel.com/2024/06/04/is-it-time-to-stop-filming-strangers-in-public/)
 * [2024-06-05, 09:41:10](https://news.ycombinator.com/item?id=40583070) - [Song of GPT-4o](https://heymusic.ai/music/song-of-gpt-4o-DcFz6)
 * [2024-06-05, 09:40:36](https://news.ycombinator.com/item?id=40583068) - [Israel Targets U.S. Lawmakers with Influence Campaign on Gaza War](https://www.nytimes.com/2024/06/05/technology/israel-campaign-gaza-social-media.html)
 * [2024-06-05, 09:20:20](https://news.ycombinator.com/item?id=40582964) - [Show HN: Extract Data from Line Chart Image](https://github.com/tdsone/extract-line-chart-data)
