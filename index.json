@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-05, 14:28:46",
+      "https://news.ycombinator.com/item?id=40585212"
+    ],
+    [
+      "Is Microsoft trying to commit suicide?",
+      "https://www.antipope.org/charlie/blog-static/2024/06/is-microsoft-trying-to-commit-.html"
+    ]
+  ],
+  [
+    [
       "2024-06-05, 14:28:20",
       "https://news.ycombinator.com/item?id=40585207"
     ],
@@ -17,6 +27,16 @@
     [
       "Alice in Wonderland: Simple Tasks Showing Complete Reasoning Breakdown in LLMs",
       "https://arxiv.org/abs/2406.02061"
+    ]
+  ],
+  [
+    [
+      "2024-06-05, 14:12:18",
+      "https://news.ycombinator.com/item?id=40585029"
+    ],
+    [
+      "Human Computers: The Women Who Powered Early Technology",
+      "https://rarehistoricalphotos.com/human-computer-women-profession/"
     ]
   ],
   [
@@ -187,26 +207,6 @@
     [
       "An animated introduction to Fourier series",
       "https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles"
-    ]
-  ],
-  [
-    [
-      "2024-06-04, 19:39:26",
-      "https://news.ycombinator.com/item?id=40578176"
-    ],
-    [
-      "Particle accelerators for the microchip era",
-      "https://www.moore.org/article-detail?newsUrlName=particle-accelerators-for-the-microchip-era"
-    ]
-  ],
-  [
-    [
-      "2024-06-04, 19:25:47",
-      "https://news.ycombinator.com/item?id=40578060"
-    ],
-    [
-      "Entropy, a CLI that scans files to find high entropy lines (might be secrets)",
-      "https://github.com/EwenQuim/entropy"
     ]
   ],
   [
