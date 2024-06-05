@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2024-06-05, 16:01:01",
+      "https://news.ycombinator.com/item?id=40586587"
+    ],
+    [
+      "Managing my motivation as a solo dev",
+      "https://mbuffett.com/posts/maintaining-motivation/"
+    ]
+  ],
+  [
+    [
+      "2024-06-05, 15:53:17",
+      "https://news.ycombinator.com/item?id=40586475"
+    ],
+    [
+      "History of the Paper Clip",
+      "http://www.officemuseum.com/paper_clips.htm"
+    ]
+  ],
+  [
+    [
       "2024-06-05, 15:16:50",
       "https://news.ycombinator.com/item?id=40585932"
     ],
@@ -41,12 +61,12 @@
   ],
   [
     [
-      "2024-06-05, 14:28:20",
-      "https://news.ycombinator.com/item?id=40585207"
+      "2024-06-05, 14:52:37",
+      "https://news.ycombinator.com/item?id=40585559"
     ],
     [
-      "Jury finds Boeing stole technology from electric airplane startup Zunum",
-      "https://www.seattletimes.com/business/boeing-aerospace/jury-finds-boeing-stole-technology-from-electric-airplane-startup-zunum/"
+      "Show HN: Laudspeaker – Open-source mobile push, SMS and email automation",
+      "https://github.com/laudspeaker/laudspeaker"
     ]
   ],
   [
@@ -71,12 +91,32 @@
   ],
   [
     [
-      "2024-06-05, 12:28:13",
-      "https://news.ycombinator.com/item?id=40584042"
+      "2024-06-05, 13:04:55",
+      "https://news.ycombinator.com/item?id=40584327"
     ],
     [
-      "Online Privacy and Overfishing",
-      "https://www.schneier.com/blog/archives/2024/06/online-privacy-and-overfishing.html"
+      "To Believe or Not Believe Your LLM",
+      "https://arxiv.org/abs/2406.02543"
+    ]
+  ],
+  [
+    [
+      "2024-06-05, 12:50:21",
+      "https://news.ycombinator.com/item?id=40584190"
+    ],
+    [
+      "Microsoft has gone radio silent on Windows Recall",
+      "https://twitter.com/zacbowden/status/1798221879741931847"
+    ]
+  ],
+  [
+    [
+      "2024-06-05, 12:41:24",
+      "https://news.ycombinator.com/item?id=40584135"
+    ],
+    [
+      "Israel reportedly used fake social accounts to garner support from US lawmakers",
+      "https://www.forbes.com/sites/siladityaray/2024/06/05/israel-reportedly-used-fake-social-media-accounts-to-garner-support-from-us-lawmakers-on-gaza-war/"
     ]
   ],
   [
@@ -141,32 +181,12 @@
   ],
   [
     [
-      "2024-06-04, 20:34:30",
-      "https://news.ycombinator.com/item?id=40578668"
-    ],
-    [
-      "Some notes on influenceering",
-      "https://lcamtuf.substack.com/p/some-notes-on-influenceering"
-    ]
-  ],
-  [
-    [
       "2024-06-04, 19:39:26",
       "https://news.ycombinator.com/item?id=40578176"
     ],
     [
       "Particle accelerators for the microchip era",
       "https://www.moore.org/article-detail?newsUrlName=particle-accelerators-for-the-microchip-era"
-    ]
-  ],
-  [
-    [
-      "2024-06-04, 19:25:47",
-      "https://news.ycombinator.com/item?id=40578060"
-    ],
-    [
-      "Entropy, a CLI that scans files to find high entropy lines (might be secrets)",
-      "https://github.com/EwenQuim/entropy"
     ]
   ],
   [
@@ -191,12 +211,12 @@
   ],
   [
     [
-      "2024-06-04, 11:25:41",
-      "https://news.ycombinator.com/item?id=40573213"
+      "2024-06-04, 10:45:27",
+      "https://news.ycombinator.com/item?id=40572868"
     ],
     [
-      "How to chop off bytes of an UTF-8 string to fit into a small slot and look nice",
-      "https://domm.plix.at/perl/2024_06_chopping_utf8.html"
+      "Medium's decade-long journey to find its own identity",
+      "https://www.fastcompany.com/91134093/medium-growth-under-tony-stubblebine"
     ]
   ],
   [
@@ -217,16 +237,6 @@
     [
       "The Long-Lost Tarzan Atari Game, Preserved",
       "https://gamehistory.org/atari-2600-tarzan/"
-    ]
-  ],
-  [
-    [
-      "2024-06-04, 08:25:19",
-      "https://news.ycombinator.com/item?id=40571995"
-    ],
-    [
-      "A breakthrough towards the Riemann hypothesis",
-      "https://mathstodon.xyz/@tao/112557248794707738"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Don't be terrified of Pale Fire",
       "https://unherd.com/2024/05/dont-be-terrified-of-pale-fire/"
-    ]
-  ],
-  [
-    [
-      "2024-06-04, 06:24:39",
-      "https://news.ycombinator.com/item?id=40571270"
-    ],
-    [
-      "Creating a Safari webarchive from the command line",
-      "https://alexwlchan.net/2024/creating-a-safari-webarchive/"
     ]
   ],
   [
