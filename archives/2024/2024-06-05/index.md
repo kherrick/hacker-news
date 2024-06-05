@@ -23,6 +23,7 @@
 * [2024-06-05, 12:17:52](https://news.ycombinator.com/item?id=40583965) - [What kind of bug would make machine learning suddenly 40% worse at NetHack?](https://arstechnica.com/gaming/2024/06/what-kind-of-bug-would-make-machine-learning-suddenly-40-worse-at-nethack/)
 * [2024-06-05, 12:15:37](https://news.ycombinator.com/item?id=40583946) - [Google Maps is killing Timeline for Web](https://www.androidauthority.com/google-maps-killing-timeline-web-access-3449017/)
 * [2024-06-05, 12:10:16](https://news.ycombinator.com/item?id=40583909) - [Shuttle (YC S20) Is Hiring](https://news.ycombinator.com/item?id=40583909)
+* [2024-06-05, 11:56:41](https://news.ycombinator.com/item?id=40583821) - [Denmark's Genius Housing Fix](https://www.businessinsider.com/denmark-mortgage-rates-lock-in-effect-home-buying-selling-easier-2024-5)
 * [2024-06-05, 11:05:42](https://news.ycombinator.com/item?id=40583538) - [Vitamin D for the prevention of disease: Clinical practice guideline](https://academic.oup.com/jcem/advance-article/doi/10.1210/clinem/dgae290/7685305)
 * [2024-06-05, 10:14:47](https://news.ycombinator.com/item?id=40583282) - [Is It Time to Stop Filming Strangers in Public?](https://petapixel.com/2024/06/04/is-it-time-to-stop-filming-strangers-in-public/)
 * [2024-06-05, 09:41:10](https://news.ycombinator.com/item?id=40583070) - [Song of GPT-4o](https://heymusic.ai/music/song-of-gpt-4o-DcFz6)
