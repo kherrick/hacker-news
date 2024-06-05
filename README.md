@@ -25,10 +25,10 @@
 * [2024-06-04, 00:29:37](https://news.ycombinator.com/item?id=40569385) - [Show HN: Allocate poker chips optimally with mixed-integer nonlinear programming](https://github.com/jstrieb/poker-chipper)
 * [2024-06-03, 19:50:20](https://news.ycombinator.com/item?id=40566784) - [Use context-free grammars instead of parser combinators and PEG](https://safinaskar.writeas.com/)
 * [2024-06-03, 16:45:01](https://news.ycombinator.com/item?id=40564489) - [The state of the art in copter drones and flight control systems](https://www.mdpi.com/1424-8220/24/11/3349)
+* [2024-06-03, 11:04:06](https://news.ycombinator.com/item?id=40561440) - [Half a century of SQL](https://www.theregister.com/2024/05/31/fifty_years_of_sql/)
 * [2024-06-03, 09:51:37](https://news.ycombinator.com/item?id=40560979) - [Poets' Odd Jobs](https://poets.org/text/poets-odd-jobs)
 * [2024-06-03, 07:46:23](https://news.ycombinator.com/item?id=40560261) - [Why camera calibration is so important in computer vision](https://www.opencv.ai/blog/camera-calibration)
 * [2024-06-03, 06:51:24](https://news.ycombinator.com/item?id=40560010) - [Hacking millions of modems and investigating who hacked my modem](https://samcurry.net/hacking-millions-of-modems)
-* [2024-06-03, 04:22:18](https://news.ycombinator.com/item?id=40559316) - [Inbox Ten](https://boz.com/articles/inbox-ten)
 * [2024-06-02, 16:39:31](https://news.ycombinator.com/item?id=40555415) - [A Brief Look at the 3DS Cartridge Protocol](https://blog.winter-software.com/2024/06/02/ctr-cart-protocol)
 
 ## [Archives](archives/index.md)
