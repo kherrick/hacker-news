@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-05](index.md)
 
+* [2024-06-05, 16:21:41](https://news.ycombinator.com/item?id=40586853) - [Major cause of inflammatory bowel disease found](https://www.bbc.com/news/articles/c1wwdd6v2wjo)
 * [2024-06-05, 16:06:05](https://news.ycombinator.com/item?id=40586654) - [Squatting in Spain: Understanding Spain's \"okupas\" problem](https://www.idealista.com/en/news/legal-advice-in-spain/2024/04/15/816509-squatting-in-spain-understanding-spain-s-okupas-problem)
 * [2024-06-05, 16:01:01](https://news.ycombinator.com/item?id=40586587) - [Managing my motivation as a solo dev](https://mbuffett.com/posts/maintaining-motivation/)
 * [2024-06-05, 15:53:17](https://news.ycombinator.com/item?id=40586475) - [History of the Paper Clip](http://www.officemuseum.com/paper_clips.htm)
@@ -22,6 +23,7 @@
 * [2024-06-05, 13:38:05](https://news.ycombinator.com/item?id=40584606) - [Popular Mac app 'Bartender' acquired by new unknown developer](https://9to5mac.com/2024/06/04/bartender-acquired-unknown-developer/)
 * [2024-06-05, 13:33:04](https://news.ycombinator.com/item?id=40584563) - [Texas poised to get own stock exchange – with less red tape than NYSE or Nasdaq](https://www.businessinsider.com/texas-stock-exchange-nyse-nasdaq-elon-musk-tesla-exxon-mobil-2024-6)
 * [2024-06-05, 13:24:14](https://news.ycombinator.com/item?id=40584498) - [Superfast Microsoft AI is first to predict air pollution for the whole world](https://www.nature.com/articles/d41586-024-01677-2)
+* [2024-06-05, 13:19:17](https://news.ycombinator.com/item?id=40584449) - [Anat Ashkenazi to Join Google and Alphabet as Chief Financial Officer](https://abc.xyz/2024-0605/)
 * [2024-06-05, 13:17:33](https://news.ycombinator.com/item?id=40584435) - [McDonald's Loses 'Big Mac' Trademark in European Union](https://apnews.com/article/mcdonalds-big-mac-eu-trademark-ireland-14922a383563c60592bd3ee152a73d87)
 * [2024-06-05, 13:12:58](https://news.ycombinator.com/item?id=40584399) - [Nintendo leak employee accessing private YouTube videos](https://www.gamesradar.com/games/platformer/nintendo-leak-reportedly-came-from-an-employee-accessing-private-youtube-videos-but-google-says-it-was-non-intentional-because-they-only-showed-it-to-a-friend/)
 * [2024-06-05, 13:04:55](https://news.ycombinator.com/item?id=40584327) - [To Believe or Not Believe Your LLM](https://arxiv.org/abs/2406.02543)
