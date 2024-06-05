@@ -68,6 +68,7 @@
 * [2024-06-04, 12:31:31](https://news.ycombinator.com/item?id=40573814) - [Electing the Doge of Venice: analysis of a 13th Century protocol [pdf]](https://rangevoting.org/HPL-2007-28R1.pdf)
 * [2024-06-04, 12:29:16](https://news.ycombinator.com/item?id=40573790) - [Show HN: PlayBooks – Jupyter Notebooks style on-call investigation documents](https://github.com/DrDroidLab/PlayBooks)
 * [2024-06-04, 12:17:33](https://news.ycombinator.com/item?id=40573693) - [The world's largest 3D printer is building cozy homes from wood](https://www.cnn.com/style/worlds-largest-3d-printer-homes-maine-hnk-spc-intl/index.html)
+* [2024-06-04, 12:11:03](https://news.ycombinator.com/item?id=40573634) - [Intel Brings a Big Fork to a Server CPU Knife Fight](https://www.nextplatform.com/2024/06/03/intel-brings-a-big-fork-to-a-server-cpu-knife-fight/)
 * [2024-06-04, 12:09:45](https://news.ycombinator.com/item?id=40573621) - [Porsche 911 Hybrid vs. Chevy Corvette E-Ray: Electrified Sports Cars Compared](https://www.thedrive.com/news/porsche-911-hybrid-vs-chevy-corvette-e-ray-electrified-sports-cars-compared)
 * [2024-06-04, 12:00:51](https://news.ycombinator.com/item?id=40573536) - [Delivering WordPress in 6KB (2018)](https://sustywp.com/)
 * [2024-06-04, 12:00:22](https://news.ycombinator.com/item?id=40573535) - [Langfuse (YC W23): Hiring Product Engineer (In-Person, Open Source)](https://github.com/langfuse/langfuse/blob/main/careers)

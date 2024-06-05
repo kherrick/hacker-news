@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-05, 07:22:28](https://news.ycombinator.com/item?id=40582259) - [Palmer Luckey is selling pixel-perfect ultrabright magnesium Game Boys for $199](https://www.theverge.com/2024/6/3/24170572/modretro-chromatic-game-boy-color-palmer-luckey-price-release-date)
 * [2024-06-05, 06:42:42](https://news.ycombinator.com/item?id=40582029) - [In defence of swap: common misconceptions](https://chrisdown.name/2018/01/02/in-defence-of-swap.html)
 * [2024-06-05, 06:25:10](https://news.ycombinator.com/item?id=40581918) - [SpaceX's fourth Starship launch approved for Thursday](https://arstechnica.com/space/2024/06/we-know-starship-can-fly-now-its-time-to-see-if-it-can-come-back-to-earth/)
 * [2024-06-05, 05:09:14](https://news.ycombinator.com/item?id=40581565) - [Japan's Most Actively Traded Stock Is a Fraud and Ticking Time Bomb [pdf]](https://scorpionreports.s3.us-east-2.amazonaws.com/6920.pdf)
@@ -16,6 +15,7 @@
 * [2024-06-04, 18:59:40](https://news.ycombinator.com/item?id=40577800) - [Herbie: Optimize Floating-Point Expressions](https://herbie.uwplse.org/demo/)
 * [2024-06-04, 16:20:49](https://news.ycombinator.com/item?id=40576132) - [Why do electronic components have such odd values? (2021)](https://digilent.com/blog/why-do-electronic-components-have-such-odd-values/)
 * [2024-06-04, 12:29:16](https://news.ycombinator.com/item?id=40573790) - [Show HN: PlayBooks – Jupyter Notebooks style on-call investigation documents](https://github.com/DrDroidLab/PlayBooks)
+* [2024-06-04, 12:11:03](https://news.ycombinator.com/item?id=40573634) - [Intel Brings a Big Fork to a Server CPU Knife Fight](https://www.nextplatform.com/2024/06/03/intel-brings-a-big-fork-to-a-server-cpu-knife-fight/)
 * [2024-06-04, 11:25:41](https://news.ycombinator.com/item?id=40573213) - [How to chop off bytes of an UTF-8 string to fit into a small slot and look nice](https://domm.plix.at/perl/2024_06_chopping_utf8.html)
 * [2024-06-04, 08:43:59](https://news.ycombinator.com/item?id=40572113) - [The Long-Lost Tarzan Atari Game, Preserved](https://gamehistory.org/atari-2600-tarzan/)
 * [2024-06-04, 08:25:19](https://news.ycombinator.com/item?id=40571995) - [A breakthrough towards the Riemann hypothesis](https://mathstodon.xyz/@tao/112557248794707738)
