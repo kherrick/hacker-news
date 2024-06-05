@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-05](index.md)
 
+* [2024-06-05, 08:46:16](https://news.ycombinator.com/item?id=40582767) - [Warren Buffett Controls 3% of the Treasury Bill Market](https://ca.finance.yahoo.com/news/warren-buffett-controls-3-treasury-130200874.html)
 * [2024-06-05, 08:13:24](https://news.ycombinator.com/item?id=40582566) - [Remote Amazon tribe connects to internet – wind up hooked on porn, social media](https://nypost.com/2024/06/04/lifestyle/remote-amazon-tribe-connects-to-elon-musks-starlink-internet-service-become-hooked-on-porn-social-media/)
 * [2024-06-05, 07:22:28](https://news.ycombinator.com/item?id=40582259) - [Palmer Luckey is selling pixel-perfect ultrabright magnesium Game Boys for $199](https://www.theverge.com/2024/6/3/24170572/modretro-chromatic-game-boy-color-palmer-luckey-price-release-date)
 * [2024-06-05, 06:42:42](https://news.ycombinator.com/item?id=40582029) - [In defence of swap: common misconceptions](https://chrisdown.name/2018/01/02/in-defence-of-swap.html)
