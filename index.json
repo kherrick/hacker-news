@@ -1,21 +1,11 @@
 [
   [
     [
-      "2024-06-05, 18:36:08",
-      "https://news.ycombinator.com/item?id=40588639"
-    ],
-    [
-      "Employees who stay in companies longer than two years get paid 50% less (2014)",
-      "https://www.forbes.com/sites/cameronkeng/2014/06/22/employees-that-stay-in-companies-longer-than-2-years-get-paid-50-less/"
-    ]
-  ],
-  [
-    [
       "2024-06-05, 18:26:02",
       "https://news.ycombinator.com/item?id=40588508"
     ],
     [
-      "Feature Flags in Bazel Builds",
+      "Feature flags in Bazel builds",
       "https://pigweed.dev/docs/blog/02-bazel-feature-flags.html"
     ]
   ],
@@ -45,7 +35,7 @@
       "https://news.ycombinator.com/item?id=40586757"
     ],
     [
-      "We Improved the Performance of a Userspace TCP Stack in Go by 5X",
+      "We improved the performance of a userspace TCP stack in Go",
       "https://coder.com/blog/delivering-5x-faster-throughput-in-coder-2-12-0"
     ]
   ],
@@ -85,7 +75,7 @@
       "https://news.ycombinator.com/item?id=40586030"
     ],
     [
-      "Computer Networks: A Systems Approach",
+      "Computer Networks: A Systems Approach (2019)",
       "https://book.systemsapproach.org/"
     ]
   ],
@@ -161,6 +151,16 @@
   ],
   [
     [
+      "2024-06-05, 13:04:55",
+      "https://news.ycombinator.com/item?id=40584327"
+    ],
+    [
+      "To Believe or Not Believe Your LLM",
+      "https://arxiv.org/abs/2406.02543"
+    ]
+  ],
+  [
+    [
       "2024-06-05, 12:41:24",
       "https://news.ycombinator.com/item?id=40584135"
     ],
@@ -201,22 +201,22 @@
   ],
   [
     [
-      "2024-06-05, 01:25:09",
-      "https://news.ycombinator.com/item?id=40580549"
+      "2024-06-05, 04:57:26",
+      "https://news.ycombinator.com/item?id=40581519"
     ],
     [
-      "You'll regret using natural keys",
-      "https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/"
+      "Reading awc",
+      "https://akamayu-ouo.srht.site/2024-06-01-ksimple"
     ]
   ],
   [
     [
-      "2024-06-04, 20:39:52",
-      "https://news.ycombinator.com/item?id=40578705"
+      "2024-06-04, 19:34:53",
+      "https://news.ycombinator.com/item?id=40578145"
     ],
     [
-      "An animated introduction to Fourier series",
-      "https://www.andreinc.net/2024/04/24/from-the-circle-to-epicycles"
+      "ShadowFinder: Find possible locations of shadows around the world",
+      "https://github.com/bellingcat/ShadowFinder"
     ]
   ],
   [
@@ -235,7 +235,7 @@
       "https://news.ycombinator.com/item?id=40572571"
     ],
     [
-      "Sound Rules Life Underwater",
+      "Sound rules life underwater",
       "https://nautil.us/how-sound-rules-life-underwater-633318/"
     ]
   ],
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=40572288"
     ],
     [
-      "XLSTM code release by NX-AI",
+      "xLSTM code release by NX-AI",
       "https://github.com/NX-AI/xlstm"
     ]
   ],
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=40572113"
     ],
     [
-      "The Long-Lost Tarzan Atari Game, Preserved",
+      "The long-lost Tarzan Atari game, preserved",
       "https://gamehistory.org/atari-2600-tarzan/"
     ]
   ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2024-06-03, 20:44:16",
-      "https://news.ycombinator.com/item?id=40567327"
+      "2024-06-03, 16:45:01",
+      "https://news.ycombinator.com/item?id=40564489"
     ],
     [
-      "Show HN: Mesop – Open-source Python UI framework",
-      "https://google.github.io/mesop/"
+      "The state of the art in copter drones and flight control systems",
+      "https://www.mdpi.com/1424-8220/24/11/3349"
     ]
   ]
 ]
