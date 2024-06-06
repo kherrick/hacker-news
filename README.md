@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-06, 03:19:36](https://news.ycombinator.com/item?id=40593078) - [GameStop stock influencer Roaring Kitty may lose access to E-Trade, report says](https://arstechnica.com/tech-policy/2024/06/gamestop-stock-influencer-roaring-kitty-may-lose-access-to-e-trade-report-says/)
-* [2024-06-06, 03:03:59](https://news.ycombinator.com/item?id=40592998) - [PSA: If you're a fan of ATmega, try AVR Dx](https://lcamtuf.substack.com/p/psa-if-youre-a-fan-of-atmega-try)
 * [2024-06-06, 02:25:25](https://news.ycombinator.com/item?id=40592789) - [Microsoft AI Spying Scandal: Time to Rethink Privacy Standards](https://spectrum.ieee.org/online-privacy)
 * [2024-06-06, 01:50:49](https://news.ycombinator.com/item?id=40592611) - [Save Team Fortress 2 (#savetf2)](https://save.tf/)
 * [2024-06-06, 01:45:25](https://news.ycombinator.com/item?id=40592575) - [Most Life on Earth Is Dormant, After Pulling an 'Emergency Brake'](https://www.quantamagazine.org/most-life-on-earth-is-dormant-after-pulling-an-emergency-brake-20240605/)
@@ -23,6 +22,7 @@
 * [2024-06-05, 00:00:42](https://news.ycombinator.com/item?id=40580142) - [Mathematical Optimization for Cargo Ships](https://research.google/blog/heuristics-on-the-high-seas-mathematical-optimization-for-cargo-ships/)
 * [2024-06-04, 23:13:28](https://news.ycombinator.com/item?id=40579892) - [Architectures for Central Server Collaboration](https://mattweidner.com/2024/06/04/server-architectures.html)
 * [2024-06-04, 22:21:30](https://news.ycombinator.com/item?id=40579564) - [Implementing the Goodfellow GANs paper](https://ym2132.github.io/GenerativeAdversarialNetworks_Goodfellow)
+* [2024-06-04, 13:21:02](https://news.ycombinator.com/item?id=40574331) - [Research as leisure activity](https://www.personalcanon.com/p/research-as-leisure-activity)
 * [2024-06-04, 12:17:12](https://news.ycombinator.com/item?id=40573689) - [An Overview of the Starlark Language](https://laurent.le-brun.eu/blog/an-overview-of-starlark)
 * [2024-06-04, 12:03:24](https://news.ycombinator.com/item?id=40573555) - [Regular, Recursive, Restricted](https://matklad.github.io/2024/06/04/regular-recursive-restricted.html)
 * [2024-06-04, 10:01:41](https://news.ycombinator.com/item?id=40572593) - [Is mathematics a single science or a set of arts? [pdf]](https://math.ucr.edu/home/baez/Polymath.pdf)
