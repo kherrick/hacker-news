@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-06, 23:38:12](https://news.ycombinator.com/item?id=40603704) - [Turns out Spotify can't open-source Car Thing because it's a potato](https://www.androidauthority.com/spotify-car-thing-open-source-3449487/)
 * [2024-06-06, 23:36:20](https://news.ycombinator.com/item?id=40603692) - [Uganda's Sweeping Surveillance State Is Built on National ID Cards](https://www.bloomberg.com/news/features/2024-06-04/uganda-yoweri-museveni-s-critics-targeted-via-biometric-id-system)
 * [2024-06-06, 22:56:05](https://news.ycombinator.com/item?id=40603376) - [Oklahoma Stakes Its Claim to the Tallest Building in the U.S.](https://www.nytimes.com/2024/06/06/realestate/oklahoma-tallest-building.html)
 * [2024-06-06, 22:44:52](https://news.ycombinator.com/item?id=40603259) - [Driver AI (YC W24) Is Hiring a Senior Front-End Engineer](https://www.ycombinator.com/companies/driver-ai/jobs/V2OQgdd-senior-frontend-engineer)
@@ -7,7 +8,6 @@
 * [2024-06-06, 20:40:58](https://news.ycombinator.com/item?id=40602147) - [Shu Ha Ri](https://www.martinfowler.com/bliki/ShuHaRi.html)
 * [2024-06-06, 20:22:32](https://news.ycombinator.com/item?id=40601934) - [Costco is building out an ad business using its shoppers' data](https://www.marketingbrew.com/stories/2024/06/06/costco-is-building-out-an-ad-business-using-shopper-data)
 * [2024-06-06, 18:31:04](https://news.ycombinator.com/item?id=40600775) - [Dragonfly: A large vision-language model with multi-resolution zoom](https://www.together.ai/blog/dragonfly-v1)
-* [2024-06-06, 18:28:22](https://news.ycombinator.com/item?id=40600748) - [An Interview with Lola De La Mata about tinnitus](https://thequietus.com/interviews/lola-de-la-mata-oceans-on-azimuth-tinnitus-interview/)
 * [2024-06-06, 17:55:28](https://news.ycombinator.com/item?id=40600384) - [Let rand = main as usize (2022)](https://codeandbitters.com/main-as-usize/)
 * [2024-06-06, 17:01:37](https://news.ycombinator.com/item?id=40599749) - [Extracting concepts from GPT-4](https://openai.com/index/extracting-concepts-from-gpt-4/)
 * [2024-06-06, 16:34:31](https://news.ycombinator.com/item?id=40599419) - [Show HN: XPipe, a brand-new type of remote file browser and shell connection hub](https://xpipe.io)

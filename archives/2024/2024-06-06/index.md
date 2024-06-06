@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-06](index.md)
 
+* [2024-06-06, 23:38:12](https://news.ycombinator.com/item?id=40603704) - [Turns out Spotify can't open-source Car Thing because it's a potato](https://www.androidauthority.com/spotify-car-thing-open-source-3449487/)
 * [2024-06-06, 23:36:20](https://news.ycombinator.com/item?id=40603692) - [Uganda's Sweeping Surveillance State Is Built on National ID Cards](https://www.bloomberg.com/news/features/2024-06-04/uganda-yoweri-museveni-s-critics-targeted-via-biometric-id-system)
 * [2024-06-06, 23:13:02](https://news.ycombinator.com/item?id=40603515) - [Shopify is acquiring the Threads team](https://twitter.com/rousseaukazi/status/1798724339841319186)
 * [2024-06-06, 22:56:05](https://news.ycombinator.com/item?id=40603376) - [Oklahoma Stakes Its Claim to the Tallest Building in the U.S.](https://www.nytimes.com/2024/06/06/realestate/oklahoma-tallest-building.html)
