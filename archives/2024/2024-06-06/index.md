@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-06-06](index.md)
 
+* [2024-06-06, 16:42:43](https://news.ycombinator.com/item?id=40599522) - [Starship survives reentry during fourth test flight](https://spacenews.com/starship-survives-reentry-during-fourth-test-flight/)
 * [2024-06-06, 16:20:04](https://news.ycombinator.com/item?id=40599248) - [Prime Video uses obviously AI-generated movie thumbnails](https://twitter.com/ultrabrilliant/status/1798470587230171369)
 * [2024-06-06, 16:14:22](https://news.ycombinator.com/item?id=40599172) - [Extreme Climate Impacts from Collapse of AMOC Could Be Worse Than Expected](https://insideclimatenews.org/news/09022024/climate-impacts-from-collapse-of-atlantic-meridional-overturning-current-could-be-worse-than-expected/)
 * [2024-06-06, 16:01:13](https://news.ycombinator.com/item?id=40599018) - [Qwen2 LLM Released](https://qwenlm.github.io/blog/qwen2/)
 * [2024-06-06, 15:48:12](https://news.ycombinator.com/item?id=40598848) - [Lake Tahoe full for first time since 2019, US officials say](https://www.google.com/search?q=lake+tahoe+full&rlz=1C5GCEM_enUS977US977&oq=lake+tahoe+full&gs_lcrp=EgZjaHJvbWUyDwgAEEUYORiDARixAxiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIICAUQABgWGB4yCAgGEAAYFhgeMggIBxAAGBYYHjIICAgQABgWGB4yCggJEAAYDxgWGB7SAQgxNzY1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
 * [2024-06-06, 15:47:07](https://news.ycombinator.com/item?id=40598833) - [SpaceX's Starship rocket completes test flight, successfully splashes down](https://www.cnbc.com/2024/06/06/spacex-starship-fourth-test-spaceflight.html)
+* [2024-06-06, 15:29:56](https://news.ycombinator.com/item?id=40598629) - [lsix: Like \"ls\", but for images](https://github.com/hackerb9/lsix)
 * [2024-06-06, 15:23:44](https://news.ycombinator.com/item?id=40598541) - [TikTok confirms CNN account hijacked via zero-day vulnerability](https://www.theregister.com/2024/06/05/tiktok_confirms_cnn_accounts_hijacked/)
+* [2024-06-06, 15:12:25](https://news.ycombinator.com/item?id=40598393) - [Firefox \"Bug\" Leaked Saved Logins Across Profiles and Caused Break Up (2005)](https://bugzilla.mozilla.org/show_bug.cgi?id=330884)
 * [2024-06-06, 15:10:12](https://news.ycombinator.com/item?id=40598353) - [The secret D-Day scientists and engineers](https://www.bbc.com/news/articles/c3gg580p3kjo)
 * [2024-06-06, 15:05:23](https://news.ycombinator.com/item?id=40598292) - [Indie dev baffled after acquaintance clones his game, puts it on Steam](https://www.pcgamer.com/games/card-games/dire-decks-wildcard-clone/)
 * [2024-06-06, 15:04:36](https://news.ycombinator.com/item?id=40598283) - [Change to Adobe terms and conditions outrages many professionals](https://9to5mac.com/2024/06/06/change-to-adobe-terms-amp-conditions/)
