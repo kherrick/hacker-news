@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-06-06](index.md)
 
+* [2024-06-06, 12:38:58](https://news.ycombinator.com/item?id=40596687) - [OSS Auth0 Alternative Ory Kratos Now with Full PassKey Support](https://github.com/ory/kratos/releases/tag/v1.2.0)
+* [2024-06-06, 12:24:15](https://news.ycombinator.com/item?id=40596596) - [JEP-455: Primitive types in patterns, instanceof and switch](https://openjdk.org/jeps/455)
 * [2024-06-06, 12:01:07](https://news.ycombinator.com/item?id=40596386) - [PermitFlow (YC W22) Is Hiring Software Engineers](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
+* [2024-06-06, 10:24:23](https://news.ycombinator.com/item?id=40595741) - [I learned Vulkan and wrote a small game engine with it (in 3 months)](https://edw.is/learning-vulkan/)
 * [2024-06-06, 09:48:59](https://news.ycombinator.com/item?id=40595499) - [St Michael Sword investigation: Are the 7 Cathedrals on a straight line?](https://geospatial.netlify.app/posts/gds-2024-04-20-cathedrals/)
 * [2024-06-06, 09:45:40](https://news.ycombinator.com/item?id=40595465) - [Study Finds 268% Higher Failure Rates for Agile Software Projects](https://tech.slashdot.org/story/24/06/06/022253/study-finds-268-higher-failure-rates-for-agile-software-projects)
 * [2024-06-06, 09:44:11](https://news.ycombinator.com/item?id=40595456) - [The Distinctiveness of Human Aggression](https://www.robkhenderson.com/p/the-distinctiveness-of-human-aggression)
