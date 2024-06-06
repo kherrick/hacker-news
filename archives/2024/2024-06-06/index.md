@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-06](index.md)
 
 * [2024-06-06, 20:08:31](https://news.ycombinator.com/item?id=40601801) - [Mike Lynch cleared in Autonomy fraud trial](https://www.theregister.com/2024/06/06/mike_lynch_cleared/)
+* [2024-06-06, 20:06:33](https://news.ycombinator.com/item?id=40601776) - [Boeing's Starliner Docks at ISS After Five Thrusters Unexpectedly Shut Off](https://gizmodo.com/watch-boeing-starliner-dock-iss-astronauts-1851521917)
 * [2024-06-06, 20:01:37](https://news.ycombinator.com/item?id=40601711) - [HP bricks customers laptops with faulty automatic BIOS upgrade](https://h30434.www3.hp.com/t5/Notebook-Operating-System-and-Recovery/HP-Probook-BIOS-Upgrade-1-17-failed/td-p/9081096/page/3)
 * [2024-06-06, 19:46:42](https://news.ycombinator.com/item?id=40601565) - [Microsoft Issues New Warning for 70% of All Windows Users](https://www.forbes.com/sites/zakdoffman/2024/06/05/new-microsoft-warning-for-windows-10-windows-11-free-upgrade/)
 * [2024-06-06, 19:38:51](https://news.ycombinator.com/item?id=40601498) - [Tech tycoon Mike Lynch cleared of all fraud charges in Hewlett-Packard trial](https://www.theguardian.com/business/article/2024/jun/06/mike-lynch-fraud-trial-acquittal)

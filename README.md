@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-06, 20:08:31](https://news.ycombinator.com/item?id=40601801) - [Mike Lynch cleared in Autonomy fraud trial](https://www.theregister.com/2024/06/06/mike_lynch_cleared/)
+* [2024-06-06, 20:06:33](https://news.ycombinator.com/item?id=40601776) - [Boeing's Starliner Docks at ISS After Five Thrusters Unexpectedly Shut Off](https://gizmodo.com/watch-boeing-starliner-dock-iss-astronauts-1851521917)
 * [2024-06-06, 20:01:37](https://news.ycombinator.com/item?id=40601711) - [HP bricks customers laptops with faulty automatic BIOS upgrade](https://h30434.www3.hp.com/t5/Notebook-Operating-System-and-Recovery/HP-Probook-BIOS-Upgrade-1-17-failed/td-p/9081096/page/3)
 * [2024-06-06, 19:46:42](https://news.ycombinator.com/item?id=40601565) - [Microsoft Issues New Warning for 70% of All Windows Users](https://www.forbes.com/sites/zakdoffman/2024/06/05/new-microsoft-warning-for-windows-10-windows-11-free-upgrade/)
 * [2024-06-06, 19:38:51](https://news.ycombinator.com/item?id=40601498) - [Tech tycoon Mike Lynch cleared of all fraud charges in Hewlett-Packard trial](https://www.theguardian.com/business/article/2024/jun/06/mike-lynch-fraud-trial-acquittal)
@@ -25,7 +26,6 @@
 * [2024-06-06, 09:33:19](https://news.ycombinator.com/item?id=40595384) - [Understanding QEMU Devices (2018)](https://www.qemu.org/2018/02/09/understanding-qemu-devices/)
 * [2024-06-06, 04:34:57](https://news.ycombinator.com/item?id=40593540) - [TPM GPIO fail: How bad OEM firmware ruins Intel TPM security](https://mkukri.xyz/2024/06/01/tpm-gpio-fail.html)
 * [2024-06-05, 14:33:51](https://news.ycombinator.com/item?id=40585277) - [Dr. George Merryweather's 1851 Tempest Prognosticator](https://victorianweb.org/technology/packer/merryweather.html)
-* [2024-06-05, 11:59:06](https://news.ycombinator.com/item?id=40583836) - [The dual nature of Japanese Knotweed](https://worldsensorium.com/the-dual-nature-of-japanese-knotweed/)
 * [2024-06-05, 07:57:12](https://news.ycombinator.com/item?id=40582475) - [Kiosk mode bypass for an Ariane Allegro Scenario Player based hotel check-in te](https://www.pentagrid.ch/en/blog/ariane-allegro-hotel-check-in-terminal-kios-escape/)
 * [2024-06-05, 07:37:38](https://news.ycombinator.com/item?id=40582357) - [Show HN: 2d web paddle game](https://raould.github.io/pn0gstr0m/)
 * [2024-06-05, 06:22:26](https://news.ycombinator.com/item?id=40581904) - [Compromised Visions Are Superior](https://ericnormand.substack.com/p/compromised-visions-are-superior)
