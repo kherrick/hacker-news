@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-06](index.md)
 
+* [2024-06-06, 07:37:52](https://news.ycombinator.com/item?id=40594608) - [Microsoft Research chief scientist has no issue with Recall](https://www.theregister.com/2024/06/06/microsoft_research_recall/)
 * [2024-06-06, 07:00:58](https://news.ycombinator.com/item?id=40594379) - [Scientists find security risk in RISC-V open-source chip architecture](https://www.scmp.com/news/china/science/article/3265493/scientists-find-security-risk-risc-v-open-source-chip-architecture-china-hopes-can-help-sidestep-us)
 * [2024-06-06, 06:24:19](https://news.ycombinator.com/item?id=40594152) - [Durability of Polymers in the Space Environment [pdf]](https://ntrs.nasa.gov/api/citations/20190025446/downloads/20190025446.pdf)
 * [2024-06-06, 05:50:52](https://news.ycombinator.com/item?id=40593943) - [Rust Is for the Engine, Not the Game](https://barretts.club/posts/rust-for-the-engine/)
