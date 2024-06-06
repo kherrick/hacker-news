@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-06](index.md)
 
 * [2024-06-06, 13:02:48](https://news.ycombinator.com/item?id=40596883) - [Super Heavy has splashed down in The Gulf of Mexico](https://twitter.com/SpaceX/status/1798701489097183286)
+* [2024-06-06, 12:48:54](https://news.ycombinator.com/item?id=40596765) - [Watch SpaceX Starship FLIGHT 4 launch and reenter LIVE [video]](https://www.youtube.com/watch?v=8VESowgMbjA)
 * [2024-06-06, 12:44:15](https://news.ycombinator.com/item?id=40596728) - [Cars are becoming data harvesting nightmares](https://tuta.com/blog/cars-have-terrible-privacy)
 * [2024-06-06, 12:38:58](https://news.ycombinator.com/item?id=40596687) - [OSS Auth0 Alternative Ory Kratos Now with Full PassKey Support](https://github.com/ory/kratos/releases/tag/v1.2.0)
 * [2024-06-06, 12:24:15](https://news.ycombinator.com/item?id=40596596) - [JEP-455: Primitive types in patterns, instanceof and switch](https://openjdk.org/jeps/455)

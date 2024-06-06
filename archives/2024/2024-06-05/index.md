@@ -74,6 +74,7 @@
 * [2024-06-05, 09:40:36](https://news.ycombinator.com/item?id=40583068) - [Israel Targets U.S. Lawmakers with Influence Campaign on Gaza War](https://www.nytimes.com/2024/06/05/technology/israel-campaign-gaza-social-media.html)
 * [2024-06-05, 09:20:20](https://news.ycombinator.com/item?id=40582964) - [Show HN: Extract Data from Line Chart Image](https://github.com/tdsone/extract-line-chart-data)
 * [2024-06-05, 08:46:16](https://news.ycombinator.com/item?id=40582767) - [Warren Buffett Controls 3% of the Treasury Bill Market](https://ca.finance.yahoo.com/news/warren-buffett-controls-3-treasury-130200874.html)
+* [2024-06-05, 08:36:35](https://news.ycombinator.com/item?id=40582712) - [My Programming Journey](https://gavinhoward.com/2024/06/my-programming-journey/)
 * [2024-06-05, 08:19:23](https://news.ycombinator.com/item?id=40582603) - [Show HN: zfind – CLI like find but using SQL syntax and also does tar/zip](https://github.com/laktak/zfind)
 * [2024-06-05, 08:13:24](https://news.ycombinator.com/item?id=40582566) - [Remote Amazon tribe connects to internet – wind up hooked on porn, social media](https://nypost.com/2024/06/04/lifestyle/remote-amazon-tribe-connects-to-elon-musks-starlink-internet-service-become-hooked-on-porn-social-media/)
 * [2024-06-05, 07:22:28](https://news.ycombinator.com/item?id=40582259) - [Palmer Luckey is selling pixel-perfect ultrabright magnesium Game Boys for $199](https://www.theverge.com/2024/6/3/24170572/modretro-chromatic-game-boy-color-palmer-luckey-price-release-date)
