@@ -4,6 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-06-06](index.md)
 
+* [2024-06-06, 14:03:17](https://news.ycombinator.com/item?id=40597503) - [The Right Not to Be Subjected to AI Profiling Based on Publicly Available Data](https://link.springer.com/article/10.1007/s13347-023-00616-9)
+* [2024-06-06, 14:01:36](https://news.ycombinator.com/item?id=40597479) - [JIT and GIL removal are not even my most anticipated Python 3.13 features](https://blog.vslira.net/2024/05/jit-and-gil-removal-are-not-even-my.html)
+* [2024-06-06, 13:35:24](https://news.ycombinator.com/item?id=40597249) - [Martha Gellhorn – The Only Woman to Report on the D-Day Landings from the Ground](https://www.smithsonianmag.com/history/martha-gellhorn-was-the-only-woman-to-report-on-the-d-day-landings-from-the-ground-180984456/)
+* [2024-06-06, 13:32:36](https://news.ycombinator.com/item?id=40597216) - [The Roads of Ancient Rome Visualized in the Style of Modern Subway Maps](https://www.openculture.com/2024/06/the-roads-of-ancient-rome-visualized-in-modern-subway-maps.html)
+* [2024-06-06, 13:21:49](https://news.ycombinator.com/item?id=40597094) - [Browsing Log Streams with Fzf](https://junegunn.github.io/fzf/tips/browsing-log-streams/)
+* [2024-06-06, 13:16:08](https://news.ycombinator.com/item?id=40597031) - [How does hardware acceleration work with containers?](https://torizon.github.io/blog/how-does-hardware-acceleration-work-with-containers/)
 * [2024-06-06, 13:02:48](https://news.ycombinator.com/item?id=40596883) - [Super Heavy has splashed down in The Gulf of Mexico](https://twitter.com/SpaceX/status/1798701489097183286)
 * [2024-06-06, 12:48:54](https://news.ycombinator.com/item?id=40596765) - [Watch SpaceX Starship FLIGHT 4 launch and reenter LIVE [video]](https://www.youtube.com/watch?v=8VESowgMbjA)
 * [2024-06-06, 12:44:15](https://news.ycombinator.com/item?id=40596728) - [Cars are becoming data harvesting nightmares](https://tuta.com/blog/cars-have-terrible-privacy)
@@ -11,6 +17,7 @@
 * [2024-06-06, 12:24:15](https://news.ycombinator.com/item?id=40596596) - [JEP-455: Primitive types in patterns, instanceof and switch](https://openjdk.org/jeps/455)
 * [2024-06-06, 12:01:07](https://news.ycombinator.com/item?id=40596386) - [PermitFlow (YC W22) Is Hiring Software Engineers](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 * [2024-06-06, 11:23:02](https://news.ycombinator.com/item?id=40596105) - [WHO confirms first death in Mexico from bird flu never seen in humans](https://www.nbcnews.com/health/health-news/confirms-first-death-mexico-bird-flu-never-seen-humans-rcna155745)
+* [2024-06-06, 10:55:32](https://news.ycombinator.com/item?id=40595920) - [The Misfit Who Built the IBM PC](https://every.to/the-crazy-ones/the-misfit-who-built-the-ibm-pc)
 * [2024-06-06, 10:24:23](https://news.ycombinator.com/item?id=40595741) - [I learned Vulkan and wrote a small game engine with it (in 3 months)](https://edw.is/learning-vulkan/)
 * [2024-06-06, 09:48:59](https://news.ycombinator.com/item?id=40595499) - [St Michael Sword investigation: Are the 7 Cathedrals on a straight line?](https://geospatial.netlify.app/posts/gds-2024-04-20-cathedrals/)
 * [2024-06-06, 09:45:40](https://news.ycombinator.com/item?id=40595465) - [Study Finds 268% Higher Failure Rates for Agile Software Projects](https://tech.slashdot.org/story/24/06/06/022253/study-finds-268-higher-failure-rates-for-agile-software-projects)
