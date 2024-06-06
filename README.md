@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-06, 09:48:59](https://news.ycombinator.com/item?id=40595499) - [St Michael Sword investigation: Are the 7 Cathedrals on a straight line?](https://geospatial.netlify.app/posts/gds-2024-04-20-cathedrals/)
-* [2024-06-06, 09:45:40](https://news.ycombinator.com/item?id=40595465) - [Study Finds 268% Higher Failure Rates for Agile Software Projects](https://tech.slashdot.org/story/24/06/06/022253/study-finds-268-higher-failure-rates-for-agile-software-projects)
 * [2024-06-06, 09:44:11](https://news.ycombinator.com/item?id=40595456) - [The Distinctiveness of Human Aggression (2022)](https://www.robkhenderson.com/p/the-distinctiveness-of-human-aggression)
-* [2024-06-06, 09:33:19](https://news.ycombinator.com/item?id=40595384) - [Understanding QEMU Devices](https://www.qemu.org/2018/02/09/understanding-qemu-devices/)
+* [2024-06-06, 09:33:19](https://news.ycombinator.com/item?id=40595384) - [Understanding QEMU Devices (2018)](https://www.qemu.org/2018/02/09/understanding-qemu-devices/)
 * [2024-06-06, 09:11:34](https://news.ycombinator.com/item?id=40595222) - [Ariane 6 inaugural launch targeted for 9 July](https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Ariane_6_inaugural_launch_targeted_for_9_July)
 * [2024-06-06, 09:04:32](https://news.ycombinator.com/item?id=40595164) - [Starship's Fourth Flight Test: Window Opens 07:00 AM Central Time](https://www.spacex.com/launches/mission/?missionId=starship-flight-4)
 * [2024-06-06, 07:28:11](https://news.ycombinator.com/item?id=40594533) - [FBI has obtained 7k Lockbit ransomware decryption keys](https://www.fbi.gov/news/speeches/fbi-cyber-assistant-director-bryan-vorndran-s-remarks-at-the-2024-boston-conference-on-cyber-security)
@@ -22,6 +21,7 @@
 * [2024-06-05, 15:16:50](https://news.ycombinator.com/item?id=40585932) - [Show HN: Foosbar – My autonomous foosball-playing robot](https://github.com/misprit7/foosbar)
 * [2024-06-05, 15:11:01](https://news.ycombinator.com/item?id=40585842) - [Vulkan1.3 on the M1 in one month](https://rosenzweig.io/blog/vk13-on-the-m1-in-1-month.html)
 * [2024-06-05, 15:04:03](https://news.ycombinator.com/item?id=40585728) - [Boeing Starliner launches first crewed mission](https://www.bbc.co.uk/news/live/world-us-canada-69094213)
+* [2024-06-05, 14:52:37](https://news.ycombinator.com/item?id=40585559) - [Show HN: Laudspeaker – Open-source mobile push, SMS and email automation](https://github.com/laudspeaker/laudspeaker)
 * [2024-06-05, 06:43:45](https://news.ycombinator.com/item?id=40582035) - [Minimalistic Beat Maker](https://martinwecke.de/108/)
 * [2024-06-05, 04:58:44](https://news.ycombinator.com/item?id=40581528) - [Our Man in Fotheringhay](https://literaryreview.co.uk/our-man-in-fotheringhay)
 * [2024-06-05, 02:35:58](https://news.ycombinator.com/item?id=40580874) - [FBI raids Atlanta corporate landlord in probe of rental market price fixing](https://www.entrepreneur.com/business-news/realpage-rent-price-fixing-probe-escalates-with-fbi-raid/475109)
