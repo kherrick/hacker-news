@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-06](index.md)
 
+* [2024-06-06, 20:58:12](https://news.ycombinator.com/item?id=40602327) - [DuckDuckGo offers \"anonymous\" access to AI chatbots through new service](https://arstechnica.com/information-technology/2024/06/duckduckgo-offers-anonymous-access-to-ai-chatbots-through-new-service/)
+* [2024-06-06, 20:25:16](https://news.ycombinator.com/item?id=40601957) - [The New R1S and R1T](https://stories.rivian.com/meet-the-new-r1)
 * [2024-06-06, 20:08:31](https://news.ycombinator.com/item?id=40601801) - [Mike Lynch cleared in Autonomy fraud trial](https://www.theregister.com/2024/06/06/mike_lynch_cleared/)
 * [2024-06-06, 20:06:33](https://news.ycombinator.com/item?id=40601776) - [Boeing's Starliner Docks at ISS After Five Thrusters Unexpectedly Shut Off](https://gizmodo.com/watch-boeing-starliner-dock-iss-astronauts-1851521917)
 * [2024-06-06, 20:01:37](https://news.ycombinator.com/item?id=40601711) - [HP bricks customers laptops with faulty automatic BIOS upgrade](https://h30434.www3.hp.com/t5/Notebook-Operating-System-and-Recovery/HP-Probook-BIOS-Upgrade-1-17-failed/td-p/9081096/page/3)
