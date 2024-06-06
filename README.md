@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-06, 05:40:40](https://news.ycombinator.com/item?id=40593891) - [Nvidia passes Apple in market cap, becoming the second-most valuable company](https://www.cnbc.com/2024/06/05/nvidia-passes-apple-in-market-cap.html)
 * [2024-06-06, 05:00:25](https://news.ycombinator.com/item?id=40593674) - [Mitsubishi robot solves Rubik's Cube in 0.305s](https://soranews24.com/2024/05/28/mitsubishi-develops-robot-that-solves-rubiks-cube-style-puzzle-in-0-305-seconds%e3%80%90video%e3%80%91/)
 * [2024-06-06, 03:52:42](https://news.ycombinator.com/item?id=40593275) - [U.S. clears way for antitrust inquiries of Nvidia, Microsoft and OpenAI](https://www.nytimes.com/2024/06/05/technology/nvidia-microsoft-openai-antitrust-doj-ftc.html)
 * [2024-06-06, 03:16:11](https://news.ycombinator.com/item?id=40593060) - [Show HN: Built a free VS Code extension to help share code updates](https://marketplace.visualstudio.com/items?itemName=HarveenAtwal.vscode-publicdev)
@@ -26,7 +27,6 @@
 * [2024-06-04, 12:17:12](https://news.ycombinator.com/item?id=40573689) - [An Overview of the Starlark Language](https://laurent.le-brun.eu/blog/an-overview-of-starlark)
 * [2024-06-04, 12:03:24](https://news.ycombinator.com/item?id=40573555) - [Regular, Recursive, Restricted](https://matklad.github.io/2024/06/04/regular-recursive-restricted.html)
 * [2024-06-04, 10:01:41](https://news.ycombinator.com/item?id=40572593) - [Polymathematics: Is mathematics a single science or a set of arts? (1999) [pdf]](https://math.ucr.edu/home/baez/Polymath.pdf)
-* [2024-06-04, 09:58:38](https://news.ycombinator.com/item?id=40572571) - [Sound rules life underwater](https://nautil.us/how-sound-rules-life-underwater-633318/)
 * [2024-06-04, 09:09:55](https://news.ycombinator.com/item?id=40572288) - [xLSTM code release by NX-AI](https://github.com/NX-AI/xlstm)
 * [2024-06-04, 05:51:26](https://news.ycombinator.com/item?id=40571088) - [Building a serverless secured dead drop](https://ayende.com/blog/201153-B/building-a-serverless-secured-dead-drop)
 * [2024-06-04, 03:34:34](https://news.ycombinator.com/item?id=40570428) - [Win for copyright user rights in Canada: Digital locks do not trump fair dealing](https://www.michaelgeist.ca/2024/06/huge-win-for-copyright-user-rights-in-canada-federal-court-rules-digital-lock-rules-do-not-trump-fair-dealing/)
