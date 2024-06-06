@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-06](index.md)
 
+* [2024-06-06, 19:18:35](https://news.ycombinator.com/item?id=40601303) - [Eric Schmidt Is Testing AI Military Drones](https://www.forbes.com/sites/sarahemerson/2024/06/06/eric-schmidt-is-secretly-testing-ai-military-drones-in-a-wealthy-silicon-valley-suburb/)
 * [2024-06-06, 18:31:04](https://news.ycombinator.com/item?id=40600775) - [Dragonfly: A large vision-language model with multi-resolution zoom](https://www.together.ai/blog/dragonfly-v1)
 * [2024-06-06, 18:28:22](https://news.ycombinator.com/item?id=40600748) - [First recording of tinnitus raises new questions](https://thequietus.com/interviews/lola-de-la-mata-oceans-on-azimuth-tinnitus-interview/)
 * [2024-06-06, 18:25:17](https://news.ycombinator.com/item?id=40600715) - [Surveillance Pricing](https://pluralistic.net/2024/06/05/your-price-named/)
@@ -16,6 +17,7 @@
 * [2024-06-06, 17:27:08](https://news.ycombinator.com/item?id=40600083) - [Yarn (YC W24) Is Hiring Founding Engineers in NYC](https://www.workatastartup.com/jobs/66928)
 * [2024-06-06, 17:24:32](https://news.ycombinator.com/item?id=40600052) - ['Washington Post' publisher tried to kill a story about allegations against him](https://text.npr.org/nx-s1-4995105)
 * [2024-06-06, 17:11:13](https://news.ycombinator.com/item?id=40599868) - [Whitney Stratifications and Intersection Homology (2023) [pdf]](https://n.ethz.ch/~ssetlur/download/whitney-stratifications-intersection-hom.pdf)
+* [2024-06-06, 17:09:58](https://news.ycombinator.com/item?id=40599857) - [Telegram Stars: Pay for Digital Goods and More](https://telegram.org/blog/telegram-stars)
 * [2024-06-06, 17:07:38](https://news.ycombinator.com/item?id=40599834) - [HSBC Writes Down Byju's, Once $22B Indian Edtech Giant, to Zero](https://indiadispatch.com/2024/06/06/hsbc-writes-down-byjus-once-22-billion-indian-edtech-giant-to-zero/)
 * [2024-06-06, 17:01:37](https://news.ycombinator.com/item?id=40599749) - [Extracting Concepts from GPT-4](https://openai.com/index/extracting-concepts-from-gpt-4/)
 * [2024-06-06, 16:42:43](https://news.ycombinator.com/item?id=40599522) - [Starship survives reentry during fourth test flight](https://spacenews.com/starship-survives-reentry-during-fourth-test-flight/)
