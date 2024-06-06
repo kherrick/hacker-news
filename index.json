@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-06-06, 04:34:57",
+      "https://news.ycombinator.com/item?id=40593540"
+    ],
+    [
+      "TPM GPIO fail: How bad OEM firmware ruins Intel TPM security",
+      "https://mkukri.xyz/2024/06/01/tpm-gpio-fail.html"
+    ]
+  ],
+  [
+    [
       "2024-06-06, 03:52:42",
       "https://news.ycombinator.com/item?id=40593275"
     ],
@@ -37,6 +47,16 @@
     [
       "Show HN: Built a free VS Code extension to help share code updates",
       "https://marketplace.visualstudio.com/items?itemName=HarveenAtwal.vscode-publicdev"
+    ]
+  ],
+  [
+    [
+      "2024-06-06, 03:03:59",
+      "https://news.ycombinator.com/item?id=40592998"
+    ],
+    [
+      "PSA: If you're a fan of ATmega, try AVR Dx",
+      "https://lcamtuf.substack.com/p/psa-if-youre-a-fan-of-atmega-try"
     ]
   ],
   [
@@ -97,6 +117,16 @@
     [
       "How big a deal was the Industrial Revolution? (2017)",
       "https://lukemuehlhauser.com/industrial-revolution/"
+    ]
+  ],
+  [
+    [
+      "2024-06-05, 17:00:19",
+      "https://news.ycombinator.com/item?id=40587419"
+    ],
+    [
+      "RankScience (YC W17) is hiring to supercharge SEO for startups",
+      "https://remotejobs.org/companies/rankscience-remote-jobs"
     ]
   ],
   [
@@ -201,32 +231,12 @@
   ],
   [
     [
-      "2024-06-04, 23:13:28",
-      "https://news.ycombinator.com/item?id=40579892"
-    ],
-    [
-      "Architectures for Central Server Collaboration",
-      "https://mattweidner.com/2024/06/04/server-architectures.html"
-    ]
-  ],
-  [
-    [
       "2024-06-04, 22:21:30",
       "https://news.ycombinator.com/item?id=40579564"
     ],
     [
       "Implementing the Goodfellow GANs paper",
       "https://ym2132.github.io/GenerativeAdversarialNetworks_Goodfellow"
-    ]
-  ],
-  [
-    [
-      "2024-06-04, 13:21:02",
-      "https://news.ycombinator.com/item?id=40574331"
-    ],
-    [
-      "Research as leisure activity",
-      "https://www.personalcanon.com/p/research-as-leisure-activity"
     ]
   ],
   [
@@ -251,32 +261,22 @@
   ],
   [
     [
-      "2024-06-04, 10:01:41",
-      "https://news.ycombinator.com/item?id=40572593"
-    ],
-    [
-      "Polymathematics: Is mathematics a single science or a set of arts? (1999) [pdf]",
-      "https://math.ucr.edu/home/baez/Polymath.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-06-04, 09:58:38",
-      "https://news.ycombinator.com/item?id=40572571"
-    ],
-    [
-      "Sound rules life underwater",
-      "https://nautil.us/how-sound-rules-life-underwater-633318/"
-    ]
-  ],
-  [
-    [
       "2024-06-04, 09:09:55",
       "https://news.ycombinator.com/item?id=40572288"
     ],
     [
       "xLSTM code release by NX-AI",
       "https://github.com/NX-AI/xlstm"
+    ]
+  ],
+  [
+    [
+      "2024-06-04, 07:46:00",
+      "https://news.ycombinator.com/item?id=40571759"
+    ],
+    [
+      "You'll regret using natural keys",
+      "https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/"
     ]
   ],
   [
