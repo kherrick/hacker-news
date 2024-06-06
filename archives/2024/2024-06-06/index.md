@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-06-06](index.md)
 
+* [2024-06-06, 15:47:07](https://news.ycombinator.com/item?id=40598833) - [SpaceX's Starship rocket completes test flight, successfully splashes down](https://www.cnbc.com/2024/06/06/spacex-starship-fourth-test-spaceflight.html)
 * [2024-06-06, 15:23:44](https://news.ycombinator.com/item?id=40598541) - [TikTok confirms CNN account hijacked via zero-day vulnerability](https://www.theregister.com/2024/06/05/tiktok_confirms_cnn_accounts_hijacked/)
 * [2024-06-06, 15:10:12](https://news.ycombinator.com/item?id=40598353) - [The secret D-Day scientists and engineers](https://www.bbc.com/news/articles/c3gg580p3kjo)
+* [2024-06-06, 15:05:23](https://news.ycombinator.com/item?id=40598292) - [Indie dev baffled after acquaintance clones his game, puts it on Steam](https://www.pcgamer.com/games/card-games/dire-decks-wildcard-clone/)
 * [2024-06-06, 15:04:36](https://news.ycombinator.com/item?id=40598283) - [Change to Adobe terms and conditions outrages many professionals](https://9to5mac.com/2024/06/06/change-to-adobe-terms-amp-conditions/)
 * [2024-06-06, 14:48:24](https://news.ycombinator.com/item?id=40598059) - ['Most exciting moment' since birth of WiFi: chipmakers hail arrival of AI PCs](https://www.ft.com/content/6a546ad6-ae03-4c2d-92f5-c8efdd4bba3b)
 * [2024-06-06, 14:37:07](https://news.ycombinator.com/item?id=40597929) - [Why Canadians are angry with their biggest supermarket](https://www.bbc.com/news/articles/cd11ywyg6p0o)
