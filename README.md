@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-06, 05:00:25](https://news.ycombinator.com/item?id=40593674) - [Mitsubishi robot solves Rubik's Cube in 0.305s](https://soranews24.com/2024/05/28/mitsubishi-develops-robot-that-solves-rubiks-cube-style-puzzle-in-0-305-seconds%e3%80%90video%e3%80%91/)
 * [2024-06-06, 03:52:42](https://news.ycombinator.com/item?id=40593275) - [U.S. Clears Way for Antitrust Inquiries of Nvidia, Microsoft and OpenAI](https://www.nytimes.com/2024/06/05/technology/nvidia-microsoft-openai-antitrust-doj-ftc.html)
 * [2024-06-06, 03:16:11](https://news.ycombinator.com/item?id=40593060) - [Show HN: Built a free VS Code extension to help share code updates](https://marketplace.visualstudio.com/items?itemName=HarveenAtwal.vscode-publicdev)
-* [2024-06-06, 02:25:25](https://news.ycombinator.com/item?id=40592789) - [Microsoft AI Spying Scandal: Time to Rethink Privacy Standards](https://spectrum.ieee.org/online-privacy)
-* [2024-06-06, 01:50:49](https://news.ycombinator.com/item?id=40592611) - [Save Team Fortress 2 (#savetf2)](https://save.tf/)
-* [2024-06-06, 01:45:25](https://news.ycombinator.com/item?id=40592575) - [Most Life on Earth Is Dormant, After Pulling an 'Emergency Brake'](https://www.quantamagazine.org/most-life-on-earth-is-dormant-after-pulling-an-emergency-brake-20240605/)
+* [2024-06-06, 02:25:25](https://news.ycombinator.com/item?id=40592789) - [Microsoft AI spying scandal: time to rethink privacy standards](https://spectrum.ieee.org/online-privacy)
+* [2024-06-06, 01:45:25](https://news.ycombinator.com/item?id=40592575) - [Most life on Earth is dormant, after pulling an 'emergency brake'](https://www.quantamagazine.org/most-life-on-earth-is-dormant-after-pulling-an-emergency-brake-20240605/)
 * [2024-06-05, 22:55:05](https://news.ycombinator.com/item?id=40591582) - [FBI raids Atlanta corporate landlord in probe of rental market price fixing](https://www.ajc.com/news/atlanta-news/fbi-raids-atlanta-corporate-landlord-with-ties-to-realpage/PT65C57YUFF2JGB7TRVRC7IFLE/)
 * [2024-06-05, 22:07:27](https://news.ycombinator.com/item?id=40591158) - [DHCPv6-PD – First Steps](https://sha256.net/dhcpv6-pd-first-steps.html)
 * [2024-06-05, 21:35:53](https://news.ycombinator.com/item?id=40590910) - [Show HN: Original 8x16 ASCII Fixed Width Font: Classic Console Neue](https://webdraft.hu/fonts/classic-console/)
