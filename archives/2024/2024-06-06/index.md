@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-06](index.md)
 
+* [2024-06-06, 14:37:07](https://news.ycombinator.com/item?id=40597929) - [Why Canadians are angry with their biggest supermarket](https://www.bbc.com/news/articles/cd11ywyg6p0o)
 * [2024-06-06, 14:28:32](https://news.ycombinator.com/item?id=40597833) - [YC Hacker News: A Comprehensive Trend Analysis](https://dupeless.com/yc-analysis)
 * [2024-06-06, 14:04:23](https://news.ycombinator.com/item?id=40597514) - [Minnesota Strikes Down Preemption Laws Blocking Municipal Broadband](https://communitynets.org/content/minnesota-strikes-down-preemption-laws-blocking-municipal-broadband)
 * [2024-06-06, 14:03:17](https://news.ycombinator.com/item?id=40597503) - [The Right Not to Be Subjected to AI Profiling Based on Publicly Available Data](https://link.springer.com/article/10.1007/s13347-023-00616-9)
@@ -16,6 +17,7 @@
 * [2024-06-06, 13:02:48](https://news.ycombinator.com/item?id=40596883) - [Super Heavy has splashed down in The Gulf of Mexico](https://twitter.com/SpaceX/status/1798701489097183286)
 * [2024-06-06, 12:48:54](https://news.ycombinator.com/item?id=40596765) - [Watch SpaceX Starship FLIGHT 4 launch and reenter LIVE [video]](https://www.youtube.com/watch?v=8VESowgMbjA)
 * [2024-06-06, 12:44:15](https://news.ycombinator.com/item?id=40596728) - [Cars are becoming data harvesting nightmares](https://tuta.com/blog/cars-have-terrible-privacy)
+* [2024-06-06, 12:42:13](https://news.ycombinator.com/item?id=40596711) - [Show HN: Synthesize TikZ Graphics Programs for Scientific Figures and Sketches](https://github.com/potamides/DeTikZify)
 * [2024-06-06, 12:39:01](https://news.ycombinator.com/item?id=40596689) - [AeroSpace is an i3-like tiling window manager for macOS](https://github.com/nikitabobko/AeroSpace)
 * [2024-06-06, 12:38:58](https://news.ycombinator.com/item?id=40596687) - [OSS Auth0 Alternative Ory Kratos Now with Full PassKey Support](https://github.com/ory/kratos/releases/tag/v1.2.0)
 * [2024-06-06, 12:24:15](https://news.ycombinator.com/item?id=40596596) - [JEP-455: Primitive types in patterns, instanceof and switch](https://openjdk.org/jeps/455)
