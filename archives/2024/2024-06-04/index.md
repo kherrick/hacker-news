@@ -92,6 +92,7 @@
 * [2024-06-04, 10:45:27](https://news.ycombinator.com/item?id=40572868) - [Medium's decade-long journey to find its own identity](https://www.fastcompany.com/91134093/medium-growth-under-tony-stubblebine)
 * [2024-06-04, 10:31:14](https://news.ycombinator.com/item?id=40572753) - [Succinctness Is Power (2002)](https://www.paulgraham.com/power.html)
 * [2024-06-04, 10:29:01](https://news.ycombinator.com/item?id=40572737) - [America's Commute to Work Is Getting Longer and Longer](https://www.wsj.com/lifestyle/workplace/americas-commute-to-work-is-getting-longer-and-longer-0fbf79c3)
+* [2024-06-04, 10:01:41](https://news.ycombinator.com/item?id=40572593) - [Is mathematics a single science or a set of arts? [pdf]](https://math.ucr.edu/home/baez/Polymath.pdf)
 * [2024-06-04, 10:00:32](https://news.ycombinator.com/item?id=40572585) - [I Think, Therefore I Relate](https://worldsensorium.com/i-think-therefore-i-relate/)
 * [2024-06-04, 09:58:38](https://news.ycombinator.com/item?id=40572571) - [Sound Rules Life Underwater](https://nautil.us/how-sound-rules-life-underwater-633318/)
 * [2024-06-04, 09:47:03](https://news.ycombinator.com/item?id=40572501) - [Using Vectorize to build an unreasonably good search engine in 160 lines of code](https://blog.partykit.io/posts/using-vectorize-to-build-search/)
