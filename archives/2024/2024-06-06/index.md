@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-06](index.md)
 
+* [2024-06-06, 17:55:28](https://news.ycombinator.com/item?id=40600384) - [Let Rand = Main as Usize](https://codeandbitters.com/main-as-usize/)
 * [2024-06-06, 17:52:02](https://news.ycombinator.com/item?id=40600343) - [US eyes antitrust investigation against Nvidia as market value surpasses $3T](https://www.semafor.com/article/06/06/2024/us-government-doj-antitrust-nvidia-semiconductor-chips-artificial-intelligence)
+* [2024-06-06, 17:47:35](https://news.ycombinator.com/item?id=40600310) - [Bill Ackman Wants a Lot of Your Money](https://www.bloomberg.com/opinion/articles/2024-06-06/bill-ackman-wants-a-lot-of-your-money)
 * [2024-06-06, 17:27:08](https://news.ycombinator.com/item?id=40600083) - [Yarn (YC W24) Is Hiring Founding Engineers in NYC](https://www.workatastartup.com/jobs/66928)
 * [2024-06-06, 17:11:13](https://news.ycombinator.com/item?id=40599868) - [Whitney Stratifications and Intersection Homology (2023) [pdf]](https://n.ethz.ch/~ssetlur/download/whitney-stratifications-intersection-hom.pdf)
 * [2024-06-06, 17:07:38](https://news.ycombinator.com/item?id=40599834) - [HSBC Writes Down Byju's, Once $22B Indian Edtech Giant, to Zero](https://indiadispatch.com/2024/06/06/hsbc-writes-down-byjus-once-22-billion-indian-edtech-giant-to-zero/)

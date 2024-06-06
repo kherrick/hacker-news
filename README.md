@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-06, 17:55:28](https://news.ycombinator.com/item?id=40600384) - [Let Rand = Main as Usize](https://codeandbitters.com/main-as-usize/)
 * [2024-06-06, 17:52:02](https://news.ycombinator.com/item?id=40600343) - [US eyes antitrust investigation against Nvidia as market value surpasses $3T](https://www.semafor.com/article/06/06/2024/us-government-doj-antitrust-nvidia-semiconductor-chips-artificial-intelligence)
+* [2024-06-06, 17:47:35](https://news.ycombinator.com/item?id=40600310) - [Bill Ackman Wants a Lot of Your Money](https://www.bloomberg.com/opinion/articles/2024-06-06/bill-ackman-wants-a-lot-of-your-money)
 * [2024-06-06, 17:27:08](https://news.ycombinator.com/item?id=40600083) - [Yarn (YC W24) Is Hiring Founding Engineers in NYC](https://www.workatastartup.com/jobs/66928)
 * [2024-06-06, 17:11:13](https://news.ycombinator.com/item?id=40599868) - [Whitney Stratifications and Intersection Homology (2023) [pdf]](https://n.ethz.ch/~ssetlur/download/whitney-stratifications-intersection-hom.pdf)
 * [2024-06-06, 16:34:31](https://news.ycombinator.com/item?id=40599419) - [Show HN: XPipe, a brand-new type of remote file browser and shell connection hub](https://xpipe.io)
@@ -23,12 +25,10 @@
 * [2024-06-06, 03:03:59](https://news.ycombinator.com/item?id=40592998) - [PSA: If you're a fan of ATmega, try AVR Dx](https://lcamtuf.substack.com/p/psa-if-youre-a-fan-of-atmega-try)
 * [2024-06-06, 02:25:25](https://news.ycombinator.com/item?id=40592789) - [Microsoft AI spying scandal: time to rethink privacy standards](https://spectrum.ieee.org/online-privacy)
 * [2024-06-05, 20:03:26](https://news.ycombinator.com/item?id=40589852) - [Show HN: Mark Scroll Positions](https://www.rugu.dev/en/blog/mark-scroll-positions/)
-* [2024-06-05, 19:49:18](https://news.ycombinator.com/item?id=40589675) - [Researchers to retract landmark Alzheimer's paper containing doctored images](https://www.science.org/content/article/researchers-plan-retract-landmark-alzheimers-paper-containing-doctored-images)
 * [2024-06-05, 16:06:05](https://news.ycombinator.com/item?id=40586654) - [Squatting in Spain: Understanding Spain's \"okupas\" problem](https://www.idealista.com/en/news/legal-advice-in-spain/2024/04/15/816509-squatting-in-spain-understanding-spain-s-okupas-problem)
-* [2024-06-05, 11:59:06](https://news.ycombinator.com/item?id=40583836) - [The Dual Nature of Japanese Knotweed](https://worldsensorium.com/the-dual-nature-of-japanese-knotweed/)
+* [2024-06-05, 11:59:06](https://news.ycombinator.com/item?id=40583836) - [The dual nature of Japanese Knotweed](https://worldsensorium.com/the-dual-nature-of-japanese-knotweed/)
 * [2024-06-05, 07:57:12](https://news.ycombinator.com/item?id=40582475) - [Kiosk mode bypass for an Ariane Allegro Scenario Player based hotel check-in te](https://www.pentagrid.ch/en/blog/ariane-allegro-hotel-check-in-terminal-kios-escape/)
 * [2024-06-05, 07:37:38](https://news.ycombinator.com/item?id=40582357) - [Show HN: 2d web paddle game](https://raould.github.io/pn0gstr0m/)
-* [2024-06-05, 00:00:42](https://news.ycombinator.com/item?id=40580142) - [Mathematical Optimization for Cargo Ships](https://research.google/blog/heuristics-on-the-high-seas-mathematical-optimization-for-cargo-ships/)
 * [2024-06-04, 11:42:13](https://news.ycombinator.com/item?id=40573364) - [Night-vision lenses so thin and light that we can all see in the dark](https://newatlas.com/technology/night-vision-thin-light-lens/)
 
 ## [Archives](archives/index.md)
