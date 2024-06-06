@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-06, 14:48:24",
+      "https://news.ycombinator.com/item?id=40598059"
+    ],
+    [
+      "'Most exciting moment' since birth of WiFi: chipmakers hail arrival of AI PCs",
+      "https://www.ft.com/content/6a546ad6-ae03-4c2d-92f5-c8efdd4bba3b"
+    ]
+  ],
+  [
+    [
       "2024-06-06, 14:37:07",
       "https://news.ycombinator.com/item?id=40597929"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=40597833"
     ],
     [
-      "YC Hacker News: A Comprehensive Trend Analysis",
+      "Analysis of Hacker News Community Trends",
       "https://dupeless.com/yc-analysis"
     ]
   ],
@@ -51,32 +61,12 @@
   ],
   [
     [
-      "2024-06-06, 13:16:08",
-      "https://news.ycombinator.com/item?id=40597031"
-    ],
-    [
-      "How does hardware acceleration work with containers?",
-      "https://torizon.github.io/blog/how-does-hardware-acceleration-work-with-containers/"
-    ]
-  ],
-  [
-    [
       "2024-06-06, 13:08:36",
       "https://news.ycombinator.com/item?id=40596946"
     ],
     [
       "Fine-tune and deploy open LLMs as containers using AIKit - Part 1",
       "https://huggingface.co/blog/sozercan/finetune-deploy-aikit-part1"
-    ]
-  ],
-  [
-    [
-      "2024-06-06, 13:02:48",
-      "https://news.ycombinator.com/item?id=40596883"
-    ],
-    [
-      "Super Heavy has splashed down in The Gulf of Mexico",
-      "https://twitter.com/SpaceX/status/1798701489097183286"
     ]
   ],
   [
@@ -135,7 +125,7 @@
       "https://news.ycombinator.com/item?id=40595920"
     ],
     [
-      "The Misfit Who Built the IBM PC",
+      "Don Estridge: A misfit who built the IBM PC",
       "https://every.to/the-crazy-ones/the-misfit-who-built-the-ibm-pc"
     ]
   ],
@@ -237,6 +227,16 @@
     [
       "We improved the performance of a userspace TCP stack in Go",
       "https://coder.com/blog/delivering-5x-faster-throughput-in-coder-2-12-0"
+    ]
+  ],
+  [
+    [
+      "2024-06-05, 16:06:05",
+      "https://news.ycombinator.com/item?id=40586654"
+    ],
+    [
+      "Squatting in Spain: Understanding Spain's \"okupas\" problem",
+      "https://www.idealista.com/en/news/legal-advice-in-spain/2024/04/15/816509-squatting-in-spain-understanding-spain-s-okupas-problem"
     ]
   ],
   [
