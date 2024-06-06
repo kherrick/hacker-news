@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-06, 07:00:58](https://news.ycombinator.com/item?id=40594379) - [Scientists find security risk in RISC-V open-source chip architecture](https://www.scmp.com/news/china/science/article/3265493/scientists-find-security-risk-risc-v-open-source-chip-architecture-china-hopes-can-help-sidestep-us)
 * [2024-06-06, 06:24:19](https://news.ycombinator.com/item?id=40594152) - [Durability of Polymers in the Space Environment [pdf]](https://ntrs.nasa.gov/api/citations/20190025446/downloads/20190025446.pdf)
 * [2024-06-06, 05:50:52](https://news.ycombinator.com/item?id=40593943) - [Rust Is for the Engine, Not the Game](https://barretts.club/posts/rust-for-the-engine/)
 * [2024-06-06, 05:00:25](https://news.ycombinator.com/item?id=40593674) - [Mitsubishi robot solves Rubik's Cube in 0.305s](https://soranews24.com/2024/05/28/mitsubishi-develops-robot-that-solves-rubiks-cube-style-puzzle-in-0-305-seconds%e3%80%90video%e3%80%91/)
@@ -25,7 +26,6 @@
 * [2024-06-05, 00:00:42](https://news.ycombinator.com/item?id=40580142) - [Mathematical Optimization for Cargo Ships](https://research.google/blog/heuristics-on-the-high-seas-mathematical-optimization-for-cargo-ships/)
 * [2024-06-04, 22:21:30](https://news.ycombinator.com/item?id=40579564) - [Implementing the Goodfellow GANs paper](https://ym2132.github.io/GenerativeAdversarialNetworks_Goodfellow)
 * [2024-06-04, 12:17:12](https://news.ycombinator.com/item?id=40573689) - [An Overview of the Starlark Language](https://laurent.le-brun.eu/blog/an-overview-of-starlark)
-* [2024-06-04, 12:03:24](https://news.ycombinator.com/item?id=40573555) - [Regular, Recursive, Restricted](https://matklad.github.io/2024/06/04/regular-recursive-restricted.html)
 * [2024-06-04, 11:57:18](https://news.ycombinator.com/item?id=40573506) - [Infrared Infrastructure](https://shkspr.mobi/blog/2024/06/infrared-infrastructure/)
 * [2024-06-04, 10:01:41](https://news.ycombinator.com/item?id=40572593) - [Polymathematics: Is mathematics a single science or a set of arts? (1999) [pdf]](https://math.ucr.edu/home/baez/Polymath.pdf)
 * [2024-06-04, 05:51:26](https://news.ycombinator.com/item?id=40571088) - [Building a serverless secured dead drop](https://ayende.com/blog/201153-B/building-a-serverless-secured-dead-drop)
