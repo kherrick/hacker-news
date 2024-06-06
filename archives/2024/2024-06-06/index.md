@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-06](index.md)
 
+* [2024-06-06, 17:27:08](https://news.ycombinator.com/item?id=40600083) - [Yarn (YC W24) Is Hiring Founding Engineers in NYC](https://www.workatastartup.com/jobs/66928)
+* [2024-06-06, 17:11:13](https://news.ycombinator.com/item?id=40599868) - [Whitney Stratifications and Intersection Homology (2023) [pdf]](https://n.ethz.ch/~ssetlur/download/whitney-stratifications-intersection-hom.pdf)
+* [2024-06-06, 17:07:38](https://news.ycombinator.com/item?id=40599834) - [HSBC Writes Down Byju's, Once $22B Indian Edtech Giant, to Zero](https://indiadispatch.com/2024/06/06/hsbc-writes-down-byjus-once-22-billion-indian-edtech-giant-to-zero/)
 * [2024-06-06, 16:42:43](https://news.ycombinator.com/item?id=40599522) - [Starship survives reentry during fourth test flight](https://spacenews.com/starship-survives-reentry-during-fourth-test-flight/)
 * [2024-06-06, 16:34:31](https://news.ycombinator.com/item?id=40599419) - [Show HN: XPipe, a brand-new type of remote file browser and shell connection hub](https://xpipe.io)
 * [2024-06-06, 16:20:04](https://news.ycombinator.com/item?id=40599248) - [Prime Video uses obviously AI-generated movie thumbnails](https://twitter.com/ultrabrilliant/status/1798470587230171369)
@@ -28,6 +31,7 @@
 * [2024-06-06, 13:54:19](https://news.ycombinator.com/item?id=40597402) - [3D Math Primer for Graphics and Game Development](https://gamemath.com/)
 * [2024-06-06, 13:35:24](https://news.ycombinator.com/item?id=40597249) - [Martha Gellhorn – The Only Woman to Report on the D-Day Landings from the Ground](https://www.smithsonianmag.com/history/martha-gellhorn-was-the-only-woman-to-report-on-the-d-day-landings-from-the-ground-180984456/)
 * [2024-06-06, 13:32:36](https://news.ycombinator.com/item?id=40597216) - [The Roads of Ancient Rome Visualized in the Style of Modern Subway Maps](https://www.openculture.com/2024/06/the-roads-of-ancient-rome-visualized-in-modern-subway-maps.html)
+* [2024-06-06, 13:32:36](https://news.ycombinator.com/item?id=40597216) - [Roman Roads (2017)](https://sashamaps.net/docs/maps/roman-roads-original/)
 * [2024-06-06, 13:21:49](https://news.ycombinator.com/item?id=40597094) - [Browsing Log Streams with Fzf](https://junegunn.github.io/fzf/tips/browsing-log-streams/)
 * [2024-06-06, 13:16:08](https://news.ycombinator.com/item?id=40597031) - [How does hardware acceleration work with containers?](https://torizon.github.io/blog/how-does-hardware-acceleration-work-with-containers/)
 * [2024-06-06, 13:08:36](https://news.ycombinator.com/item?id=40596946) - [Fine-tune and deploy open LLMs as containers using AIKit - Part 1](https://huggingface.co/blog/sozercan/finetune-deploy-aikit-part1)
