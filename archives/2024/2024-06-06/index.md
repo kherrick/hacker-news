@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-06-06](index.md)
 
+* [2024-06-06, 15:04:36](https://news.ycombinator.com/item?id=40598283) - [Change to Adobe terms and conditions outrages many professionals](https://9to5mac.com/2024/06/06/change-to-adobe-terms-amp-conditions/)
 * [2024-06-06, 14:48:24](https://news.ycombinator.com/item?id=40598059) - ['Most exciting moment' since birth of WiFi: chipmakers hail arrival of AI PCs](https://www.ft.com/content/6a546ad6-ae03-4c2d-92f5-c8efdd4bba3b)
 * [2024-06-06, 14:37:07](https://news.ycombinator.com/item?id=40597929) - [Why Canadians are angry with their biggest supermarket](https://www.bbc.com/news/articles/cd11ywyg6p0o)
 * [2024-06-06, 14:28:32](https://news.ycombinator.com/item?id=40597833) - [YC Hacker News: A Comprehensive Trend Analysis](https://dupeless.com/yc-analysis)
+* [2024-06-06, 14:09:02](https://news.ycombinator.com/item?id=40597587) - [Accidental prompt injection against RAG applications](https://simonwillison.net/2024/Jun/6/accidental-prompt-injection/)
 * [2024-06-06, 14:04:23](https://news.ycombinator.com/item?id=40597514) - [Minnesota Strikes Down Preemption Laws Blocking Municipal Broadband](https://communitynets.org/content/minnesota-strikes-down-preemption-laws-blocking-municipal-broadband)
 * [2024-06-06, 14:03:17](https://news.ycombinator.com/item?id=40597503) - [The Right Not to Be Subjected to AI Profiling Based on Publicly Available Data](https://link.springer.com/article/10.1007/s13347-023-00616-9)
 * [2024-06-06, 14:01:36](https://news.ycombinator.com/item?id=40597479) - [JIT and GIL removal are not even my most anticipated Python 3.13 features](https://blog.vslira.net/2024/05/jit-and-gil-removal-are-not-even-my.html)
+* [2024-06-06, 13:54:19](https://news.ycombinator.com/item?id=40597402) - [3D Math Primer for Graphics and Game Development](https://gamemath.com/)
 * [2024-06-06, 13:35:24](https://news.ycombinator.com/item?id=40597249) - [Martha Gellhorn – The Only Woman to Report on the D-Day Landings from the Ground](https://www.smithsonianmag.com/history/martha-gellhorn-was-the-only-woman-to-report-on-the-d-day-landings-from-the-ground-180984456/)
 * [2024-06-06, 13:32:36](https://news.ycombinator.com/item?id=40597216) - [The Roads of Ancient Rome Visualized in the Style of Modern Subway Maps](https://www.openculture.com/2024/06/the-roads-of-ancient-rome-visualized-in-modern-subway-maps.html)
 * [2024-06-06, 13:21:49](https://news.ycombinator.com/item?id=40597094) - [Browsing Log Streams with Fzf](https://junegunn.github.io/fzf/tips/browsing-log-streams/)
