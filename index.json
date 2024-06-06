@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-06-06, 19:46:42",
-      "https://news.ycombinator.com/item?id=40601565"
-    ],
-    [
-      "Microsoft Issues New Warning for 70% of All Windows Users",
-      "https://www.forbes.com/sites/zakdoffman/2024/06/05/new-microsoft-warning-for-windows-10-windows-11-free-upgrade/"
-    ]
-  ],
-  [
-    [
       "2024-06-06, 19:38:51",
       "https://news.ycombinator.com/item?id=40601498"
     ],
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=40600384"
     ],
     [
-      "Let rand = main as usize",
+      "Let rand = main as usize (2022)",
       "https://codeandbitters.com/main-as-usize/"
     ]
   ],
@@ -247,6 +237,16 @@
     [
       "TPM GPIO fail: How bad OEM firmware ruins Intel TPM security",
       "https://mkukri.xyz/2024/06/01/tpm-gpio-fail.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-06, 02:25:25",
+      "https://news.ycombinator.com/item?id=40592789"
+    ],
+    [
+      "Microsoft AI spying scandal: time to rethink privacy standards",
+      "https://spectrum.ieee.org/online-privacy"
     ]
   ],
   [
