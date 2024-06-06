@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-06](index.md)
 
+* [2024-06-06, 07:00:58](https://news.ycombinator.com/item?id=40594379) - [Scientists find security risk in RISC-V open-source chip architecture](https://www.scmp.com/news/china/science/article/3265493/scientists-find-security-risk-risc-v-open-source-chip-architecture-china-hopes-can-help-sidestep-us)
 * [2024-06-06, 06:24:19](https://news.ycombinator.com/item?id=40594152) - [Durability of Polymers in the Space Environment [pdf]](https://ntrs.nasa.gov/api/citations/20190025446/downloads/20190025446.pdf)
 * [2024-06-06, 05:50:52](https://news.ycombinator.com/item?id=40593943) - [Rust Is for the Engine, Not the Game](https://barretts.club/posts/rust-for-the-engine/)
 * [2024-06-06, 05:40:40](https://news.ycombinator.com/item?id=40593891) - [Nvidia passes Apple in market cap, becoming the second-most valuable company](https://www.cnbc.com/2024/06/05/nvidia-passes-apple-in-market-cap.html)
