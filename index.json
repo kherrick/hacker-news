@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-06, 15:04:36",
+      "https://news.ycombinator.com/item?id=40598283"
+    ],
+    [
+      "Change to Adobe terms and conditions outrages many professionals",
+      "https://9to5mac.com/2024/06/06/change-to-adobe-terms-amp-conditions/"
+    ]
+  ],
+  [
+    [
       "2024-06-06, 14:48:24",
       "https://news.ycombinator.com/item?id=40598059"
     ],
@@ -11,22 +21,12 @@
   ],
   [
     [
-      "2024-06-06, 14:37:07",
-      "https://news.ycombinator.com/item?id=40597929"
+      "2024-06-06, 14:09:02",
+      "https://news.ycombinator.com/item?id=40597587"
     ],
     [
-      "Why Canadians are angry with their biggest supermarket",
-      "https://www.bbc.com/news/articles/cd11ywyg6p0o"
-    ]
-  ],
-  [
-    [
-      "2024-06-06, 14:28:32",
-      "https://news.ycombinator.com/item?id=40597833"
-    ],
-    [
-      "Analysis of Hacker News Community Trends",
-      "https://dupeless.com/yc-analysis"
+      "Accidental prompt injection against RAG applications",
+      "https://simonwillison.net/2024/Jun/6/accidental-prompt-injection/"
     ]
   ],
   [
@@ -37,6 +37,16 @@
     [
       "The Right Not to Be Subjected to AI Profiling Based on Publicly Available Data",
       "https://link.springer.com/article/10.1007/s13347-023-00616-9"
+    ]
+  ],
+  [
+    [
+      "2024-06-06, 13:54:19",
+      "https://news.ycombinator.com/item?id=40597402"
+    ],
+    [
+      "3D Math Primer for Graphics and Game Development",
+      "https://gamemath.com/"
     ]
   ],
   [
@@ -67,6 +77,16 @@
     [
       "Fine-tune and deploy open LLMs as containers using AIKit - Part 1",
       "https://huggingface.co/blog/sozercan/finetune-deploy-aikit-part1"
+    ]
+  ],
+  [
+    [
+      "2024-06-06, 12:48:54",
+      "https://news.ycombinator.com/item?id=40596765"
+    ],
+    [
+      "Watch SpaceX Starship FLIGHT 4 launch and reenter LIVE [video]",
+      "https://www.youtube.com/watch?v=8VESowgMbjA"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "PermitFlow (YC W22) Is Hiring Software Engineers",
       "https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808"
-    ]
-  ],
-  [
-    [
-      "2024-06-06, 11:20:55",
-      "https://news.ycombinator.com/item?id=40596089"
-    ],
-    [
-      "Xylitol is associated with cardiovascular risk",
-      "https://academic.oup.com/eurheartj/advance-article-abstract/doi/10.1093/eurheartj/ehae244/7683453?redirectedFrom=fulltext"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2024-06-05, 16:13:39",
-      "https://news.ycombinator.com/item?id=40586757"
-    ],
-    [
-      "We improved the performance of a userspace TCP stack in Go",
-      "https://coder.com/blog/delivering-5x-faster-throughput-in-coder-2-12-0"
-    ]
-  ],
-  [
-    [
       "2024-06-05, 16:06:05",
       "https://news.ycombinator.com/item?id=40586654"
     ],
@@ -241,12 +241,22 @@
   ],
   [
     [
-      "2024-06-05, 15:16:50",
-      "https://news.ycombinator.com/item?id=40585932"
+      "2024-06-05, 15:11:01",
+      "https://news.ycombinator.com/item?id=40585842"
     ],
     [
-      "Show HN: Foosbar – My autonomous foosball-playing robot",
-      "https://github.com/misprit7/foosbar"
+      "Vulkan1.3 on the M1 in one month",
+      "https://rosenzweig.io/blog/vk13-on-the-m1-in-1-month.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-05, 15:04:03",
+      "https://news.ycombinator.com/item?id=40585728"
+    ],
+    [
+      "Boeing Starliner launches first crewed mission",
+      "https://www.bbc.co.uk/news/live/world-us-canada-69094213"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "The Age of the Drone Police Is Here",
       "https://www.wired.com/story/the-age-of-the-drone-police-is-here/"
-    ]
-  ],
-  [
-    [
-      "2024-06-05, 08:36:35",
-      "https://news.ycombinator.com/item?id=40582712"
-    ],
-    [
-      "My Programming Journey",
-      "https://gavinhoward.com/2024/06/my-programming-journey/"
     ]
   ],
   [
