@@ -73,6 +73,7 @@
 * [2024-06-04, 12:31:31](https://news.ycombinator.com/item?id=40573814) - [Electing the Doge of Venice: analysis of a 13th Century protocol [pdf]](https://rangevoting.org/HPL-2007-28R1.pdf)
 * [2024-06-04, 12:29:16](https://news.ycombinator.com/item?id=40573790) - [Show HN: PlayBooks – Jupyter Notebooks style on-call investigation documents](https://github.com/DrDroidLab/PlayBooks)
 * [2024-06-04, 12:17:33](https://news.ycombinator.com/item?id=40573693) - [The world's largest 3D printer is building cozy homes from wood](https://www.cnn.com/style/worlds-largest-3d-printer-homes-maine-hnk-spc-intl/index.html)
+* [2024-06-04, 12:17:12](https://news.ycombinator.com/item?id=40573689) - [An Overview of the Starlark Language](https://laurent.le-brun.eu/blog/an-overview-of-starlark)
 * [2024-06-04, 12:16:17](https://news.ycombinator.com/item?id=40573677) - [Howard Hughes injured in 1946 plane crash (2018)](https://www.latimes.com/visuals/photography/la-me-fw-archives-howard-hughes-injured-in-1946-plane-crash-20180918-htmlstory.html)
 * [2024-06-04, 12:11:03](https://news.ycombinator.com/item?id=40573634) - [Intel Brings a Big Fork to a Server CPU Knife Fight](https://www.nextplatform.com/2024/06/03/intel-brings-a-big-fork-to-a-server-cpu-knife-fight/)
 * [2024-06-04, 12:09:45](https://news.ycombinator.com/item?id=40573621) - [Porsche 911 Hybrid vs. Chevy Corvette E-Ray: Electrified Sports Cars Compared](https://www.thedrive.com/news/porsche-911-hybrid-vs-chevy-corvette-e-ray-electrified-sports-cars-compared)
