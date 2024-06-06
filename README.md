@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-06, 06:24:19](https://news.ycombinator.com/item?id=40594152) - [Durability of Polymers in the Space Environment [pdf]](https://ntrs.nasa.gov/api/citations/20190025446/downloads/20190025446.pdf)
 * [2024-06-06, 05:50:52](https://news.ycombinator.com/item?id=40593943) - [Rust Is for the Engine, Not the Game](https://barretts.club/posts/rust-for-the-engine/)
 * [2024-06-06, 05:00:25](https://news.ycombinator.com/item?id=40593674) - [Mitsubishi robot solves Rubik's Cube in 0.305s](https://soranews24.com/2024/05/28/mitsubishi-develops-robot-that-solves-rubiks-cube-style-puzzle-in-0-305-seconds%e3%80%90video%e3%80%91/)
 * [2024-06-06, 04:34:57](https://news.ycombinator.com/item?id=40593540) - [TPM GPIO fail: How bad OEM firmware ruins Intel TPM security](https://mkukri.xyz/2024/06/01/tpm-gpio-fail.html)
@@ -24,10 +25,9 @@
 * [2024-06-05, 00:00:42](https://news.ycombinator.com/item?id=40580142) - [Mathematical Optimization for Cargo Ships](https://research.google/blog/heuristics-on-the-high-seas-mathematical-optimization-for-cargo-ships/)
 * [2024-06-04, 23:13:28](https://news.ycombinator.com/item?id=40579892) - [Architectures for Central Server Collaboration](https://mattweidner.com/2024/06/04/server-architectures.html)
 * [2024-06-04, 22:21:30](https://news.ycombinator.com/item?id=40579564) - [Implementing the Goodfellow GANs paper](https://ym2132.github.io/GenerativeAdversarialNetworks_Goodfellow)
-* [2024-06-04, 13:21:02](https://news.ycombinator.com/item?id=40574331) - [Research as leisure activity](https://www.personalcanon.com/p/research-as-leisure-activity)
 * [2024-06-04, 12:17:12](https://news.ycombinator.com/item?id=40573689) - [An Overview of the Starlark Language](https://laurent.le-brun.eu/blog/an-overview-of-starlark)
 * [2024-06-04, 12:03:24](https://news.ycombinator.com/item?id=40573555) - [Regular, Recursive, Restricted](https://matklad.github.io/2024/06/04/regular-recursive-restricted.html)
-* [2024-06-04, 07:46:00](https://news.ycombinator.com/item?id=40571759) - [You'll regret using natural keys](https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/)
+* [2024-06-04, 10:01:41](https://news.ycombinator.com/item?id=40572593) - [Polymathematics: Is mathematics a single science or a set of arts? (1999) [pdf]](https://math.ucr.edu/home/baez/Polymath.pdf)
 * [2024-06-04, 05:51:26](https://news.ycombinator.com/item?id=40571088) - [Building a serverless secured dead drop](https://ayende.com/blog/201153-B/building-a-serverless-secured-dead-drop)
 * [2024-06-04, 03:34:34](https://news.ycombinator.com/item?id=40570428) - [Win for copyright user rights in Canada: Digital locks do not trump fair dealing](https://www.michaelgeist.ca/2024/06/huge-win-for-copyright-user-rights-in-canada-federal-court-rules-digital-lock-rules-do-not-trump-fair-dealing/)
 
