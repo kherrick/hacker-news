@@ -1,6 +1,66 @@
 [
   [
     [
+      "2024-06-06, 14:03:17",
+      "https://news.ycombinator.com/item?id=40597503"
+    ],
+    [
+      "The Right Not to Be Subjected to AI Profiling Based on Publicly Available Data",
+      "https://link.springer.com/article/10.1007/s13347-023-00616-9"
+    ]
+  ],
+  [
+    [
+      "2024-06-06, 14:01:36",
+      "https://news.ycombinator.com/item?id=40597479"
+    ],
+    [
+      "JIT and GIL removal are not even my most anticipated Python 3.13 features",
+      "https://blog.vslira.net/2024/05/jit-and-gil-removal-are-not-even-my.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-06, 13:35:24",
+      "https://news.ycombinator.com/item?id=40597249"
+    ],
+    [
+      "Martha Gellhorn – The Only Woman to Report on the D-Day Landings from the Ground",
+      "https://www.smithsonianmag.com/history/martha-gellhorn-was-the-only-woman-to-report-on-the-d-day-landings-from-the-ground-180984456/"
+    ]
+  ],
+  [
+    [
+      "2024-06-06, 13:32:36",
+      "https://news.ycombinator.com/item?id=40597216"
+    ],
+    [
+      "The Roads of Ancient Rome Visualized in the Style of Modern Subway Maps",
+      "https://www.openculture.com/2024/06/the-roads-of-ancient-rome-visualized-in-modern-subway-maps.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-06, 13:21:49",
+      "https://news.ycombinator.com/item?id=40597094"
+    ],
+    [
+      "Browsing Log Streams with Fzf",
+      "https://junegunn.github.io/fzf/tips/browsing-log-streams/"
+    ]
+  ],
+  [
+    [
+      "2024-06-06, 13:16:08",
+      "https://news.ycombinator.com/item?id=40597031"
+    ],
+    [
+      "How does hardware acceleration work with containers?",
+      "https://torizon.github.io/blog/how-does-hardware-acceleration-work-with-containers/"
+    ]
+  ],
+  [
+    [
       "2024-06-06, 13:02:48",
       "https://news.ycombinator.com/item?id=40596883"
     ],
@@ -17,6 +77,16 @@
     [
       "PermitFlow (YC W22) Is Hiring Software Engineers",
       "https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808"
+    ]
+  ],
+  [
+    [
+      "2024-06-06, 10:55:32",
+      "https://news.ycombinator.com/item?id=40595920"
+    ],
+    [
+      "The Misfit Who Built the IBM PC",
+      "https://every.to/the-crazy-ones/the-misfit-who-built-the-ibm-pc"
     ]
   ],
   [
@@ -47,16 +117,6 @@
     [
       "Understanding QEMU Devices (2018)",
       "https://www.qemu.org/2018/02/09/understanding-qemu-devices/"
-    ]
-  ],
-  [
-    [
-      "2024-06-06, 06:24:19",
-      "https://news.ycombinator.com/item?id=40594152"
-    ],
-    [
-      "Durability of Polymers in the Space Environment [pdf]",
-      "https://ntrs.nasa.gov/api/citations/20190025446/downloads/20190025446.pdf"
     ]
   ],
   [
@@ -181,16 +241,6 @@
   ],
   [
     [
-      "2024-06-05, 14:52:37",
-      "https://news.ycombinator.com/item?id=40585559"
-    ],
-    [
-      "Show HN: Laudspeaker – Open-source mobile push, SMS and email automation",
-      "https://github.com/laudspeaker/laudspeaker"
-    ]
-  ],
-  [
-    [
       "2024-06-05, 08:36:35",
       "https://news.ycombinator.com/item?id=40582712"
     ],
@@ -211,32 +261,12 @@
   ],
   [
     [
-      "2024-06-05, 04:58:44",
-      "https://news.ycombinator.com/item?id=40581528"
-    ],
-    [
-      "Our Man in Fotheringhay",
-      "https://literaryreview.co.uk/our-man-in-fotheringhay"
-    ]
-  ],
-  [
-    [
       "2024-06-05, 00:00:42",
       "https://news.ycombinator.com/item?id=40580142"
     ],
     [
       "Mathematical Optimization for Cargo Ships",
       "https://research.google/blog/heuristics-on-the-high-seas-mathematical-optimization-for-cargo-ships/"
-    ]
-  ],
-  [
-    [
-      "2024-06-04, 22:21:30",
-      "https://news.ycombinator.com/item?id=40579564"
-    ],
-    [
-      "Implementing the Goodfellow GANs paper",
-      "https://ym2132.github.io/GenerativeAdversarialNetworks_Goodfellow"
     ]
   ],
   [
@@ -251,16 +281,6 @@
   ],
   [
     [
-      "2024-06-04, 13:21:02",
-      "https://news.ycombinator.com/item?id=40574331"
-    ],
-    [
-      "Research as leisure activity",
-      "https://www.personalcanon.com/p/research-as-leisure-activity"
-    ]
-  ],
-  [
-    [
       "2024-06-04, 12:17:12",
       "https://news.ycombinator.com/item?id=40573689"
     ],
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2024-06-04, 11:57:18",
-      "https://news.ycombinator.com/item?id=40573506"
-    ],
-    [
-      "Infrared Infrastructure",
-      "https://shkspr.mobi/blog/2024/06/infrared-infrastructure/"
-    ]
-  ],
-  [
-    [
       "2024-06-04, 11:42:13",
       "https://news.ycombinator.com/item?id=40573364"
     ],
     [
       "Night-vision lenses so thin and light that we can all see in the dark",
       "https://newatlas.com/technology/night-vision-thin-light-lens/"
-    ]
-  ],
-  [
-    [
-      "2024-06-04, 05:51:26",
-      "https://news.ycombinator.com/item?id=40571088"
-    ],
-    [
-      "Building a serverless secured dead drop",
-      "https://ayende.com/blog/201153-B/building-a-serverless-secured-dead-drop"
     ]
   ]
 ]
