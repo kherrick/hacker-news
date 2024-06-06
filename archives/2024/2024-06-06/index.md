@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-06](index.md)
 
 * [2024-06-06, 15:23:44](https://news.ycombinator.com/item?id=40598541) - [TikTok confirms CNN account hijacked via zero-day vulnerability](https://www.theregister.com/2024/06/05/tiktok_confirms_cnn_accounts_hijacked/)
+* [2024-06-06, 15:10:12](https://news.ycombinator.com/item?id=40598353) - [The secret D-Day scientists and engineers](https://www.bbc.com/news/articles/c3gg580p3kjo)
 * [2024-06-06, 15:04:36](https://news.ycombinator.com/item?id=40598283) - [Change to Adobe terms and conditions outrages many professionals](https://9to5mac.com/2024/06/06/change-to-adobe-terms-amp-conditions/)
 * [2024-06-06, 14:48:24](https://news.ycombinator.com/item?id=40598059) - ['Most exciting moment' since birth of WiFi: chipmakers hail arrival of AI PCs](https://www.ft.com/content/6a546ad6-ae03-4c2d-92f5-c8efdd4bba3b)
 * [2024-06-06, 14:37:07](https://news.ycombinator.com/item?id=40597929) - [Why Canadians are angry with their biggest supermarket](https://www.bbc.com/news/articles/cd11ywyg6p0o)
@@ -22,6 +23,7 @@
 * [2024-06-06, 13:02:48](https://news.ycombinator.com/item?id=40596883) - [Super Heavy has splashed down in The Gulf of Mexico](https://twitter.com/SpaceX/status/1798701489097183286)
 * [2024-06-06, 12:48:54](https://news.ycombinator.com/item?id=40596765) - [Watch SpaceX Starship FLIGHT 4 launch and reenter LIVE [video]](https://www.youtube.com/watch?v=8VESowgMbjA)
 * [2024-06-06, 12:44:15](https://news.ycombinator.com/item?id=40596728) - [Cars are becoming data harvesting nightmares](https://tuta.com/blog/cars-have-terrible-privacy)
+* [2024-06-06, 12:42:45](https://news.ycombinator.com/item?id=40596714) - [NASA Software Safety Guidebook [pdf]](https://standards.nasa.gov/sites/default/files/standards/NASA/Baseline/0/nasa-gb-871913.pdf)
 * [2024-06-06, 12:42:13](https://news.ycombinator.com/item?id=40596711) - [Show HN: Synthesize TikZ Graphics Programs for Scientific Figures and Sketches](https://github.com/potamides/DeTikZify)
 * [2024-06-06, 12:39:01](https://news.ycombinator.com/item?id=40596689) - [AeroSpace is an i3-like tiling window manager for macOS](https://github.com/nikitabobko/AeroSpace)
 * [2024-06-06, 12:38:58](https://news.ycombinator.com/item?id=40596687) - [OSS Auth0 Alternative Ory Kratos Now with Full PassKey Support](https://github.com/ory/kratos/releases/tag/v1.2.0)
