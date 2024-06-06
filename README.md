@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-06, 07:37:52](https://news.ycombinator.com/item?id=40594608) - [Microsoft Research chief scientist has no issue with Recall](https://www.theregister.com/2024/06/06/microsoft_research_recall/)
+* [2024-06-06, 07:28:11](https://news.ycombinator.com/item?id=40594533) - [FBI has obtained 7k Lockbit ransomware decryption keys](https://www.fbi.gov/news/speeches/fbi-cyber-assistant-director-bryan-vorndran-s-remarks-at-the-2024-boston-conference-on-cyber-security)
 * [2024-06-06, 06:24:19](https://news.ycombinator.com/item?id=40594152) - [Durability of Polymers in the Space Environment [pdf]](https://ntrs.nasa.gov/api/citations/20190025446/downloads/20190025446.pdf)
 * [2024-06-06, 05:50:52](https://news.ycombinator.com/item?id=40593943) - [Rust Is for the Engine, Not the Game](https://barretts.club/posts/rust-for-the-engine/)
 * [2024-06-06, 05:00:25](https://news.ycombinator.com/item?id=40593674) - [Mitsubishi robot solves Rubik's Cube in 0.305s](https://soranews24.com/2024/05/28/mitsubishi-develops-robot-that-solves-rubiks-cube-style-puzzle-in-0-305-seconds%e3%80%90video%e3%80%91/)
@@ -25,11 +26,10 @@
 * [2024-06-05, 02:35:58](https://news.ycombinator.com/item?id=40580874) - [FBI raids Atlanta corporate landlord in probe of rental market price fixing](https://www.entrepreneur.com/business-news/realpage-rent-price-fixing-probe-escalates-with-fbi-raid/475109)
 * [2024-06-05, 00:00:42](https://news.ycombinator.com/item?id=40580142) - [Mathematical Optimization for Cargo Ships](https://research.google/blog/heuristics-on-the-high-seas-mathematical-optimization-for-cargo-ships/)
 * [2024-06-04, 22:21:30](https://news.ycombinator.com/item?id=40579564) - [Implementing the Goodfellow GANs paper](https://ym2132.github.io/GenerativeAdversarialNetworks_Goodfellow)
-* [2024-06-04, 13:21:02](https://news.ycombinator.com/item?id=40574331) - [Research as leisure activity](https://www.personalcanon.com/p/research-as-leisure-activity)
+* [2024-06-04, 19:33:38](https://news.ycombinator.com/item?id=40578137) - [Televised Music Is a Pointless Rigmarole (1968)](https://www.theparisreview.org/blog/2024/05/20/televised-music-is-a-pointless-rigmarole/)
 * [2024-06-04, 12:17:12](https://news.ycombinator.com/item?id=40573689) - [An Overview of the Starlark Language](https://laurent.le-brun.eu/blog/an-overview-of-starlark)
 * [2024-06-04, 11:57:18](https://news.ycombinator.com/item?id=40573506) - [Infrared Infrastructure](https://shkspr.mobi/blog/2024/06/infrared-infrastructure/)
 * [2024-06-04, 10:01:41](https://news.ycombinator.com/item?id=40572593) - [Polymathematics: Is mathematics a single science or a set of arts? (1999) [pdf]](https://math.ucr.edu/home/baez/Polymath.pdf)
-* [2024-06-04, 05:51:26](https://news.ycombinator.com/item?id=40571088) - [Building a serverless secured dead drop](https://ayende.com/blog/201153-B/building-a-serverless-secured-dead-drop)
 
 ## [Archives](archives/index.md)
 

@@ -24,6 +24,7 @@
 * [2024-06-04, 19:42:02](https://news.ycombinator.com/item?id=40578206) - [Bit-twiddling abstract addition with unknown bits](https://dougallj.wordpress.com/2020/01/13/bit-twiddling-addition-with-unknown-bits/)
 * [2024-06-04, 19:39:26](https://news.ycombinator.com/item?id=40578176) - [Particle Accelerators for the Microchip Era](https://www.moore.org/article-detail?newsUrlName=particle-accelerators-for-the-microchip-era)
 * [2024-06-04, 19:34:53](https://news.ycombinator.com/item?id=40578145) - [ShadowFinder: Find possible locations of shadows around the world](https://github.com/bellingcat/ShadowFinder)
+* [2024-06-04, 19:33:38](https://news.ycombinator.com/item?id=40578137) - [Televised Music Is a Pointless Rigmarole (1968)](https://www.theparisreview.org/blog/2024/05/20/televised-music-is-a-pointless-rigmarole/)
 * [2024-06-04, 19:25:47](https://news.ycombinator.com/item?id=40578060) - [Entropy, a CLI that scans files to find high entropy lines (might be secrets)](https://github.com/EwenQuim/entropy)
 * [2024-06-04, 19:09:48](https://news.ycombinator.com/item?id=40577894) - [TotalRecall: Windows 11 Recall Pwned](https://github.com/xaitax/TotalRecall)
 * [2024-06-04, 19:01:29](https://news.ycombinator.com/item?id=40577821) - [ARM's next-gen CPU and GPU cores are faster, more efficient](https://liliputing.com/arms-next-gen-cpu-and-graphics-cores-are-faster-more-efficient-and-now-come-bundled-together/)
