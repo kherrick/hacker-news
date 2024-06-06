@@ -86,6 +86,7 @@
 * [2024-06-05, 06:43:45](https://news.ycombinator.com/item?id=40582035) - [Minimalistic Beat Maker](https://martinwecke.de/108/)
 * [2024-06-05, 06:42:42](https://news.ycombinator.com/item?id=40582029) - [In defence of swap: common misconceptions](https://chrisdown.name/2018/01/02/in-defence-of-swap.html)
 * [2024-06-05, 06:25:10](https://news.ycombinator.com/item?id=40581918) - [SpaceX's fourth Starship launch approved for Thursday](https://arstechnica.com/space/2024/06/we-know-starship-can-fly-now-its-time-to-see-if-it-can-come-back-to-earth/)
+* [2024-06-05, 06:22:26](https://news.ycombinator.com/item?id=40581904) - [Compromised Visions Are Superior](https://ericnormand.substack.com/p/compromised-visions-are-superior)
 * [2024-06-05, 06:12:01](https://news.ycombinator.com/item?id=40581854) - [Ask HN: Is Google Dead?](https://news.ycombinator.com/item?id=40581854)
 * [2024-06-05, 06:06:51](https://news.ycombinator.com/item?id=40581826) - [An intergenerational crime against humanity](https://theconversation.com/an-intergenerational-crime-against-humanity-what-will-it-take-for-political-leaders-to-start-taking-climate-change-seriously-231383)
 * [2024-06-05, 05:47:37](https://news.ycombinator.com/item?id=40581746) - [My Favorite Programming Problem to Teach: Digit Length](https://jstrieb.github.io/posts/digit-length/)

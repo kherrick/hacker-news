@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-06-06](index.md)
 
+* [2024-06-06, 18:31:04](https://news.ycombinator.com/item?id=40600775) - [Dragonfly: A large vision-language model with multi-resolution zoom](https://www.together.ai/blog/dragonfly-v1)
+* [2024-06-06, 18:28:22](https://news.ycombinator.com/item?id=40600748) - [First recording of tinnitus raises new questions](https://thequietus.com/interviews/lola-de-la-mata-oceans-on-azimuth-tinnitus-interview/)
 * [2024-06-06, 18:25:17](https://news.ycombinator.com/item?id=40600715) - [Surveillance Pricing](https://pluralistic.net/2024/06/05/your-price-named/)
+* [2024-06-06, 18:21:19](https://news.ycombinator.com/item?id=40600664) - [A Parents Guide to Understanding the Harms of the Phone-Based Childhood](https://www.afterbabel.com/p/parents-guide-to-smartphones)
+* [2024-06-06, 18:06:55](https://news.ycombinator.com/item?id=40600506) - [High resolution logo for any domain or stock ticker](https://logo.synthfinance.com/)
 * [2024-06-06, 17:55:28](https://news.ycombinator.com/item?id=40600384) - [Let Rand = Main as Usize](https://codeandbitters.com/main-as-usize/)
 * [2024-06-06, 17:52:02](https://news.ycombinator.com/item?id=40600343) - [US eyes antitrust investigation against Nvidia as market value surpasses $3T](https://www.semafor.com/article/06/06/2024/us-government-doj-antitrust-nvidia-semiconductor-chips-artificial-intelligence)
 * [2024-06-06, 17:47:35](https://news.ycombinator.com/item?id=40600310) - [Bill Ackman Wants a Lot of Your Money](https://www.bloomberg.com/opinion/articles/2024-06-06/bill-ackman-wants-a-lot-of-your-money)
