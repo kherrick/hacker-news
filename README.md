@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-06, 12:38:58](https://news.ycombinator.com/item?id=40596687) - [OSS Auth0 Alternative Ory Kratos Now with Full PassKey Support](https://github.com/ory/kratos/releases/tag/v1.2.0)
-* [2024-06-06, 12:24:15](https://news.ycombinator.com/item?id=40596596) - [JEP-455: Primitive types in patterns, instanceof and switch](https://openjdk.org/jeps/455)
+* [2024-06-06, 13:02:48](https://news.ycombinator.com/item?id=40596883) - [Super Heavy has splashed down in The Gulf of Mexico](https://twitter.com/SpaceX/status/1798701489097183286)
+* [2024-06-06, 12:44:15](https://news.ycombinator.com/item?id=40596728) - [Cars are becoming data harvesting nightmares](https://tuta.com/blog/cars-have-terrible-privacy)
 * [2024-06-06, 12:01:07](https://news.ycombinator.com/item?id=40596386) - [PermitFlow (YC W22) Is Hiring Software Engineers](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
+* [2024-06-06, 11:23:02](https://news.ycombinator.com/item?id=40596105) - [WHO confirms first death in Mexico from bird flu never seen in humans](https://www.nbcnews.com/health/health-news/confirms-first-death-mexico-bird-flu-never-seen-humans-rcna155745)
 * [2024-06-06, 10:24:23](https://news.ycombinator.com/item?id=40595741) - [I learned Vulkan and wrote a small game engine with it (in 3 months)](https://edw.is/learning-vulkan/)
 * [2024-06-06, 09:48:59](https://news.ycombinator.com/item?id=40595499) - [St Michael Sword investigation: Are the 7 Cathedrals on a straight line?](https://geospatial.netlify.app/posts/gds-2024-04-20-cathedrals/)
 * [2024-06-06, 09:33:19](https://news.ycombinator.com/item?id=40595384) - [Understanding QEMU Devices (2018)](https://www.qemu.org/2018/02/09/understanding-qemu-devices/)
@@ -27,7 +28,6 @@
 * [2024-06-04, 13:21:02](https://news.ycombinator.com/item?id=40574331) - [Research as leisure activity](https://www.personalcanon.com/p/research-as-leisure-activity)
 * [2024-06-04, 12:17:12](https://news.ycombinator.com/item?id=40573689) - [An Overview of the Starlark Language](https://laurent.le-brun.eu/blog/an-overview-of-starlark)
 * [2024-06-04, 11:57:18](https://news.ycombinator.com/item?id=40573506) - [Infrared Infrastructure](https://shkspr.mobi/blog/2024/06/infrared-infrastructure/)
-* [2024-06-04, 11:44:39](https://news.ycombinator.com/item?id=40573387) - [Underscores are stupid? Get a Japanese keyboard (2012)](https://www.daveperrett.com/articles/2012/05/16/underscores-are-stupid-get-a-japanese-keyboard/)
 * [2024-06-04, 11:42:13](https://news.ycombinator.com/item?id=40573364) - [Night-vision lenses so thin and light that we can all see in the dark](https://newatlas.com/technology/night-vision-thin-light-lens/)
 * [2024-06-04, 05:51:26](https://news.ycombinator.com/item?id=40571088) - [Building a serverless secured dead drop](https://ayende.com/blog/201153-B/building-a-serverless-secured-dead-drop)
 
