@@ -4,7 +4,7 @@
 * [2024-06-06, 17:11:13](https://news.ycombinator.com/item?id=40599868) - [Whitney Stratifications and Intersection Homology (2023) [pdf]](https://n.ethz.ch/~ssetlur/download/whitney-stratifications-intersection-hom.pdf)
 * [2024-06-06, 17:07:38](https://news.ycombinator.com/item?id=40599834) - [HSBC Writes Down Byju's, Once $22B Indian Edtech Giant, to Zero](https://indiadispatch.com/2024/06/06/hsbc-writes-down-byjus-once-22-billion-indian-edtech-giant-to-zero/)
 * [2024-06-06, 16:34:31](https://news.ycombinator.com/item?id=40599419) - [Show HN: XPipe, a brand-new type of remote file browser and shell connection hub](https://xpipe.io)
-* [2024-06-06, 16:20:04](https://news.ycombinator.com/item?id=40599248) - [Prime Video uses obviously AI-generated movie thumbnails](https://twitter.com/ultrabrilliant/status/1798470587230171369)
+* [2024-06-06, 16:20:04](https://news.ycombinator.com/item?id=40599248) - [Just watching that classic movie on Prime Video, 19 Terrifying Men](https://twitter.com/ultrabrilliant/status/1798470587230171369)
 * [2024-06-06, 16:01:13](https://news.ycombinator.com/item?id=40599018) - [Qwen2 LLM Released](https://qwenlm.github.io/blog/qwen2/)
 * [2024-06-06, 15:58:32](https://news.ycombinator.com/item?id=40598979) - [Observability for LLM apps with structlog and DuckDB](https://ploomber.io/blog/json-monitor-llm/)
 * [2024-06-06, 15:29:56](https://news.ycombinator.com/item?id=40598629) - [lsix: Like \"ls\", but for images](https://github.com/hackerb9/lsix)
