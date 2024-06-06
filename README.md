@@ -2,6 +2,7 @@
 
 * [2024-06-06, 02:25:25](https://news.ycombinator.com/item?id=40592789) - [Microsoft AI Spying Scandal: Time to Rethink Privacy Standards](https://spectrum.ieee.org/online-privacy)
 * [2024-06-06, 02:23:42](https://news.ycombinator.com/item?id=40592779) - [Nvidia overtakes Apple as No. 2 most valuable company](https://www.reuters.com/technology/nvidia-verge-overtaking-apple-no-2-most-valuable-company-2024-06-05/)
+* [2024-06-06, 01:45:25](https://news.ycombinator.com/item?id=40592575) - [Most Life on Earth Is Dormant, After Pulling an 'Emergency Brake'](https://www.quantamagazine.org/most-life-on-earth-is-dormant-after-pulling-an-emergency-brake-20240605/)
 * [2024-06-05, 23:02:57](https://news.ycombinator.com/item?id=40591644) - [JSON extra uses orjson instead of ujson (2019)](https://github.com/pydantic/pydantic/pull/599)
 * [2024-06-05, 22:55:05](https://news.ycombinator.com/item?id=40591582) - [FBI raids Atlanta corporate landlord in probe of rental market price fixing](https://www.ajc.com/news/atlanta-news/fbi-raids-atlanta-corporate-landlord-with-ties-to-realpage/PT65C57YUFF2JGB7TRVRC7IFLE/)
 * [2024-06-05, 22:07:27](https://news.ycombinator.com/item?id=40591158) - [DHCPv6-PD – First Steps](https://sha256.net/dhcpv6-pd-first-steps.html)
@@ -11,7 +12,6 @@
 * [2024-06-05, 17:31:41](https://news.ycombinator.com/item?id=40587839) - [A primer on the next generation of antibodies](https://www.abhishaike.com/p/a-primer-to-the-next-generation-of-antibodies)
 * [2024-06-05, 17:00:19](https://news.ycombinator.com/item?id=40587419) - [RankScience (YC W17) is hiring to supercharge SEO for startups](https://remotejobs.org/companies/rankscience-remote-jobs)
 * [2024-06-05, 16:13:39](https://news.ycombinator.com/item?id=40586757) - [We improved the performance of a userspace TCP stack in Go](https://coder.com/blog/delivering-5x-faster-throughput-in-coder-2-12-0)
-* [2024-06-05, 15:53:17](https://news.ycombinator.com/item?id=40586475) - [History of the Paper Clip (2016)](http://www.officemuseum.com/paper_clips.htm)
 * [2024-06-05, 15:24:26](https://news.ycombinator.com/item?id=40586030) - [Computer Networks: A Systems Approach (2019)](https://book.systemsapproach.org/)
 * [2024-06-05, 15:16:50](https://news.ycombinator.com/item?id=40585932) - [Show HN: Foosbar – My autonomous foosball-playing robot](https://github.com/misprit7/foosbar)
 * [2024-06-05, 15:11:01](https://news.ycombinator.com/item?id=40585842) - [Vulkan1.3 on the M1 in one month](https://rosenzweig.io/blog/vk13-on-the-m1-in-1-month.html)
