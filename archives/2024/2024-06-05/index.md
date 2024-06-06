@@ -72,6 +72,7 @@
 * [2024-06-05, 11:59:06](https://news.ycombinator.com/item?id=40583836) - [The Dual Nature of Japanese Knotweed](https://worldsensorium.com/the-dual-nature-of-japanese-knotweed/)
 * [2024-06-05, 11:56:41](https://news.ycombinator.com/item?id=40583821) - [Denmark's Genius Housing Fix](https://www.businessinsider.com/denmark-mortgage-rates-lock-in-effect-home-buying-selling-easier-2024-5)
 * [2024-06-05, 11:35:25](https://news.ycombinator.com/item?id=40583698) - [The Age of the Drone Police Is Here](https://www.wired.com/story/the-age-of-the-drone-police-is-here/)
+* [2024-06-05, 11:24:21](https://news.ycombinator.com/item?id=40583632) - [Hybrid Bonding: 3D Chip Tech to Save Moore's Law](https://spectrum.ieee.org/hybrid-bonding)
 * [2024-06-05, 11:05:42](https://news.ycombinator.com/item?id=40583538) - [Vitamin D for the prevention of disease: Clinical practice guideline](https://academic.oup.com/jcem/advance-article/doi/10.1210/clinem/dgae290/7685305)
 * [2024-06-05, 10:14:47](https://news.ycombinator.com/item?id=40583282) - [Is It Time to Stop Filming Strangers in Public?](https://petapixel.com/2024/06/04/is-it-time-to-stop-filming-strangers-in-public/)
 * [2024-06-05, 09:41:10](https://news.ycombinator.com/item?id=40583070) - [Song of GPT-4o](https://heymusic.ai/music/song-of-gpt-4o-DcFz6)
