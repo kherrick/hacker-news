@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-06](index.md)
 
+* [2024-06-06, 05:50:52](https://news.ycombinator.com/item?id=40593943) - [Rust Is for the Engine, Not the Game](https://barretts.club/posts/rust-for-the-engine/)
 * [2024-06-06, 05:40:40](https://news.ycombinator.com/item?id=40593891) - [Nvidia passes Apple in market cap, becoming the second-most valuable company](https://www.cnbc.com/2024/06/05/nvidia-passes-apple-in-market-cap.html)
 * [2024-06-06, 05:00:25](https://news.ycombinator.com/item?id=40593674) - [Mitsubishi robot solves Rubik's Cube in 0.305s](https://soranews24.com/2024/05/28/mitsubishi-develops-robot-that-solves-rubiks-cube-style-puzzle-in-0-305-seconds%e3%80%90video%e3%80%91/)
 * [2024-06-06, 03:52:42](https://news.ycombinator.com/item?id=40593275) - [U.S. Clears Way for Antitrust Inquiries of Nvidia, Microsoft and OpenAI](https://www.nytimes.com/2024/06/05/technology/nvidia-microsoft-openai-antitrust-doj-ftc.html)
