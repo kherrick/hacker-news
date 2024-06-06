@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-06, 15:47:07](https://news.ycombinator.com/item?id=40598833) - [SpaceX's Starship rocket completes test flight, successfully splashes down](https://www.cnbc.com/2024/06/06/spacex-starship-fourth-test-spaceflight.html)
+* [2024-06-06, 15:48:12](https://news.ycombinator.com/item?id=40598848) - [Lake Tahoe full for first time since 2019, US officials say](https://www.google.com/search?q=lake+tahoe+full&rlz=1C5GCEM_enUS977US977&oq=lake+tahoe+full&gs_lcrp=EgZjaHJvbWUyDwgAEEUYORiDARixAxiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIICAUQABgWGB4yCAgGEAAYFhgeMggIBxAAGBYYHjIICAgQABgWGB4yCggJEAAYDxgWGB7SAQgxNzY1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
 * [2024-06-06, 15:10:12](https://news.ycombinator.com/item?id=40598353) - [The secret D-Day scientists and engineers](https://www.bbc.com/news/articles/c3gg580p3kjo)
-* [2024-06-06, 15:05:23](https://news.ycombinator.com/item?id=40598292) - [Indie dev baffled after acquaintance clones his game, puts it on Steam](https://www.pcgamer.com/games/card-games/dire-decks-wildcard-clone/)
 * [2024-06-06, 14:03:17](https://news.ycombinator.com/item?id=40597503) - [The Right Not to Be Subjected to AI Profiling Based on Publicly Available Data](https://link.springer.com/article/10.1007/s13347-023-00616-9)
 * [2024-06-06, 13:54:19](https://news.ycombinator.com/item?id=40597402) - [3D Math Primer for Graphics and Game Development](https://gamemath.com/)
 * [2024-06-06, 13:35:24](https://news.ycombinator.com/item?id=40597249) - [Martha Gellhorn – The Only Woman to Report on the D-Day Landings from the Ground](https://www.smithsonianmag.com/history/martha-gellhorn-was-the-only-woman-to-report-on-the-d-day-landings-from-the-ground-180984456/)
@@ -29,6 +28,7 @@
 * [2024-06-05, 15:04:03](https://news.ycombinator.com/item?id=40585728) - [Boeing Starliner launches first crewed mission](https://www.bbc.co.uk/news/live/world-us-canada-69094213)
 * [2024-06-05, 00:00:42](https://news.ycombinator.com/item?id=40580142) - [Mathematical Optimization for Cargo Ships](https://research.google/blog/heuristics-on-the-high-seas-mathematical-optimization-for-cargo-ships/)
 * [2024-06-04, 19:33:38](https://news.ycombinator.com/item?id=40578137) - [Televised Music Is a Pointless Rigmarole (1968)](https://www.theparisreview.org/blog/2024/05/20/televised-music-is-a-pointless-rigmarole/)
+* [2024-06-04, 12:17:12](https://news.ycombinator.com/item?id=40573689) - [An Overview of the Starlark Language](https://laurent.le-brun.eu/blog/an-overview-of-starlark)
 * [2024-06-04, 11:42:13](https://news.ycombinator.com/item?id=40573364) - [Night-vision lenses so thin and light that we can all see in the dark](https://newatlas.com/technology/night-vision-thin-light-lens/)
 
 ## [Archives](archives/index.md)
