@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-06, 14:04:23](https://news.ycombinator.com/item?id=40597514) - [Minnesota Strikes Down Preemption Laws Blocking Municipal Broadband](https://communitynets.org/content/minnesota-strikes-down-preemption-laws-blocking-municipal-broadband)
+* [2024-06-06, 14:28:32](https://news.ycombinator.com/item?id=40597833) - [YC Hacker News: A Comprehensive Trend Analysis](https://dupeless.com/yc-analysis)
 * [2024-06-06, 14:03:17](https://news.ycombinator.com/item?id=40597503) - [The Right Not to Be Subjected to AI Profiling Based on Publicly Available Data](https://link.springer.com/article/10.1007/s13347-023-00616-9)
 * [2024-06-06, 13:35:24](https://news.ycombinator.com/item?id=40597249) - [Martha Gellhorn – The Only Woman to Report on the D-Day Landings from the Ground](https://www.smithsonianmag.com/history/martha-gellhorn-was-the-only-woman-to-report-on-the-d-day-landings-from-the-ground-180984456/)
 * [2024-06-06, 13:32:36](https://news.ycombinator.com/item?id=40597216) - [The Roads of Ancient Rome Visualized in the Style of Modern Subway Maps](https://www.openculture.com/2024/06/the-roads-of-ancient-rome-visualized-in-modern-subway-maps.html)
@@ -10,6 +10,7 @@
 * [2024-06-06, 12:39:01](https://news.ycombinator.com/item?id=40596689) - [AeroSpace is an i3-like tiling window manager for macOS](https://github.com/nikitabobko/AeroSpace)
 * [2024-06-06, 12:22:48](https://news.ycombinator.com/item?id=40596578) - [How Much Water Is in Earth's Crust? Over 10.5M Cubic Miles](https://www.worldatlas.com/geology/how-much-water-is-in-earth-s-crust.html)
 * [2024-06-06, 12:01:07](https://news.ycombinator.com/item?id=40596386) - [PermitFlow (YC W22) Is Hiring Software Engineers](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
+* [2024-06-06, 11:20:55](https://news.ycombinator.com/item?id=40596089) - [Xylitol is associated with cardiovascular risk](https://academic.oup.com/eurheartj/advance-article-abstract/doi/10.1093/eurheartj/ehae244/7683453?redirectedFrom=fulltext)
 * [2024-06-06, 10:55:32](https://news.ycombinator.com/item?id=40595920) - [The Misfit Who Built the IBM PC](https://every.to/the-crazy-ones/the-misfit-who-built-the-ibm-pc)
 * [2024-06-06, 10:24:23](https://news.ycombinator.com/item?id=40595741) - [I learned Vulkan and wrote a small game engine with it](https://edw.is/learning-vulkan/)
 * [2024-06-06, 09:48:59](https://news.ycombinator.com/item?id=40595499) - [St Michael Sword investigation: Are the 7 Cathedrals on a straight line?](https://geospatial.netlify.app/posts/gds-2024-04-20-cathedrals/)
@@ -21,7 +22,6 @@
 * [2024-06-06, 01:45:25](https://news.ycombinator.com/item?id=40592575) - [Most life on Earth is dormant, after pulling an 'emergency brake'](https://www.quantamagazine.org/most-life-on-earth-is-dormant-after-pulling-an-emergency-brake-20240605/)
 * [2024-06-05, 19:49:18](https://news.ycombinator.com/item?id=40589675) - [Researchers to retract landmark Alzheimer's paper containing doctored images](https://www.science.org/content/article/researchers-plan-retract-landmark-alzheimers-paper-containing-doctored-images)
 * [2024-06-05, 16:13:39](https://news.ycombinator.com/item?id=40586757) - [We improved the performance of a userspace TCP stack in Go](https://coder.com/blog/delivering-5x-faster-throughput-in-coder-2-12-0)
-* [2024-06-05, 16:06:05](https://news.ycombinator.com/item?id=40586654) - [Squatting in Spain: Understanding Spain's \"okupas\" problem](https://www.idealista.com/en/news/legal-advice-in-spain/2024/04/15/816509-squatting-in-spain-understanding-spain-s-okupas-problem)
 * [2024-06-05, 15:16:50](https://news.ycombinator.com/item?id=40585932) - [Show HN: Foosbar – My autonomous foosball-playing robot](https://github.com/misprit7/foosbar)
 * [2024-06-05, 15:11:01](https://news.ycombinator.com/item?id=40585842) - [Vulkan1.3 on the M1 in one month](https://rosenzweig.io/blog/vk13-on-the-m1-in-1-month.html)
 * [2024-06-05, 15:04:03](https://news.ycombinator.com/item?id=40585728) - [Boeing Starliner launches first crewed mission](https://www.bbc.co.uk/news/live/world-us-canada-69094213)

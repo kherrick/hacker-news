@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-06](index.md)
 
+* [2024-06-06, 14:28:32](https://news.ycombinator.com/item?id=40597833) - [YC Hacker News: A Comprehensive Trend Analysis](https://dupeless.com/yc-analysis)
 * [2024-06-06, 14:04:23](https://news.ycombinator.com/item?id=40597514) - [Minnesota Strikes Down Preemption Laws Blocking Municipal Broadband](https://communitynets.org/content/minnesota-strikes-down-preemption-laws-blocking-municipal-broadband)
 * [2024-06-06, 14:03:17](https://news.ycombinator.com/item?id=40597503) - [The Right Not to Be Subjected to AI Profiling Based on Publicly Available Data](https://link.springer.com/article/10.1007/s13347-023-00616-9)
 * [2024-06-06, 14:01:36](https://news.ycombinator.com/item?id=40597479) - [JIT and GIL removal are not even my most anticipated Python 3.13 features](https://blog.vslira.net/2024/05/jit-and-gil-removal-are-not-even-my.html)
@@ -21,6 +22,7 @@
 * [2024-06-06, 12:22:48](https://news.ycombinator.com/item?id=40596578) - [How Much Water Is in Earth's Crust? Over 10.5M Cubic Miles](https://www.worldatlas.com/geology/how-much-water-is-in-earth-s-crust.html)
 * [2024-06-06, 12:01:07](https://news.ycombinator.com/item?id=40596386) - [PermitFlow (YC W22) Is Hiring Software Engineers](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 * [2024-06-06, 11:23:02](https://news.ycombinator.com/item?id=40596105) - [WHO confirms first death in Mexico from bird flu never seen in humans](https://www.nbcnews.com/health/health-news/confirms-first-death-mexico-bird-flu-never-seen-humans-rcna155745)
+* [2024-06-06, 11:20:55](https://news.ycombinator.com/item?id=40596089) - [Xylitol is associated with cardiovascular risk](https://academic.oup.com/eurheartj/advance-article-abstract/doi/10.1093/eurheartj/ehae244/7683453?redirectedFrom=fulltext)
 * [2024-06-06, 10:55:32](https://news.ycombinator.com/item?id=40595920) - [The Misfit Who Built the IBM PC](https://every.to/the-crazy-ones/the-misfit-who-built-the-ibm-pc)
 * [2024-06-06, 10:24:23](https://news.ycombinator.com/item?id=40595741) - [I learned Vulkan and wrote a small game engine with it (in 3 months)](https://edw.is/learning-vulkan/)
 * [2024-06-06, 09:48:59](https://news.ycombinator.com/item?id=40595499) - [St Michael Sword investigation: Are the 7 Cathedrals on a straight line?](https://geospatial.netlify.app/posts/gds-2024-04-20-cathedrals/)
