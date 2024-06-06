@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-06, 13:02:48](https://news.ycombinator.com/item?id=40596883) - [Super Heavy has splashed down in The Gulf of Mexico](https://twitter.com/SpaceX/status/1798701489097183286)
-* [2024-06-06, 12:48:54](https://news.ycombinator.com/item?id=40596765) - [Watch SpaceX Starship FLIGHT 4 launch and reenter LIVE [video]](https://www.youtube.com/watch?v=8VESowgMbjA)
 * [2024-06-06, 12:01:07](https://news.ycombinator.com/item?id=40596386) - [PermitFlow (YC W22) Is Hiring Software Engineers](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
-* [2024-06-06, 10:24:23](https://news.ycombinator.com/item?id=40595741) - [I learned Vulkan and wrote a small game engine with it (in 3 months)](https://edw.is/learning-vulkan/)
+* [2024-06-06, 10:24:23](https://news.ycombinator.com/item?id=40595741) - [I learned Vulkan and wrote a small game engine with it](https://edw.is/learning-vulkan/)
 * [2024-06-06, 09:48:59](https://news.ycombinator.com/item?id=40595499) - [St Michael Sword investigation: Are the 7 Cathedrals on a straight line?](https://geospatial.netlify.app/posts/gds-2024-04-20-cathedrals/)
 * [2024-06-06, 09:33:19](https://news.ycombinator.com/item?id=40595384) - [Understanding QEMU Devices (2018)](https://www.qemu.org/2018/02/09/understanding-qemu-devices/)
 * [2024-06-06, 06:24:19](https://news.ycombinator.com/item?id=40594152) - [Durability of Polymers in the Space Environment [pdf]](https://ntrs.nasa.gov/api/citations/20190025446/downloads/20190025446.pdf)
@@ -24,6 +23,7 @@
 * [2024-06-05, 06:43:45](https://news.ycombinator.com/item?id=40582035) - [Minimalistic Beat Maker](https://martinwecke.de/108/)
 * [2024-06-05, 04:58:44](https://news.ycombinator.com/item?id=40581528) - [Our Man in Fotheringhay](https://literaryreview.co.uk/our-man-in-fotheringhay)
 * [2024-06-05, 00:00:42](https://news.ycombinator.com/item?id=40580142) - [Mathematical Optimization for Cargo Ships](https://research.google/blog/heuristics-on-the-high-seas-mathematical-optimization-for-cargo-ships/)
+* [2024-06-04, 22:21:30](https://news.ycombinator.com/item?id=40579564) - [Implementing the Goodfellow GANs paper](https://ym2132.github.io/GenerativeAdversarialNetworks_Goodfellow)
 * [2024-06-04, 19:33:38](https://news.ycombinator.com/item?id=40578137) - [Televised Music Is a Pointless Rigmarole (1968)](https://www.theparisreview.org/blog/2024/05/20/televised-music-is-a-pointless-rigmarole/)
 * [2024-06-04, 13:21:02](https://news.ycombinator.com/item?id=40574331) - [Research as leisure activity](https://www.personalcanon.com/p/research-as-leisure-activity)
 * [2024-06-04, 12:17:12](https://news.ycombinator.com/item?id=40573689) - [An Overview of the Starlark Language](https://laurent.le-brun.eu/blog/an-overview-of-starlark)
