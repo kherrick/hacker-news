@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-06-06, 12:48:54",
-      "https://news.ycombinator.com/item?id=40596765"
-    ],
-    [
-      "Watch SpaceX Starship FLIGHT 4 launch and reenter LIVE [video]",
-      "https://www.youtube.com/watch?v=8VESowgMbjA"
-    ]
-  ],
-  [
-    [
       "2024-06-06, 12:01:07",
       "https://news.ycombinator.com/item?id=40596386"
     ],
@@ -35,7 +25,7 @@
       "https://news.ycombinator.com/item?id=40595741"
     ],
     [
-      "I learned Vulkan and wrote a small game engine with it (in 3 months)",
+      "I learned Vulkan and wrote a small game engine with it",
       "https://edw.is/learning-vulkan/"
     ]
   ],
@@ -237,6 +227,16 @@
     [
       "Mathematical Optimization for Cargo Ships",
       "https://research.google/blog/heuristics-on-the-high-seas-mathematical-optimization-for-cargo-ships/"
+    ]
+  ],
+  [
+    [
+      "2024-06-04, 22:21:30",
+      "https://news.ycombinator.com/item?id=40579564"
+    ],
+    [
+      "Implementing the Goodfellow GANs paper",
+      "https://ym2132.github.io/GenerativeAdversarialNetworks_Goodfellow"
     ]
   ],
   [
