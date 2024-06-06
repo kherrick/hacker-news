@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-05](index.md)
 
+* [2024-06-05, 23:34:48](https://news.ycombinator.com/item?id=40591860) - [Photoshop ToS grants Adobe access to user projects for 'content moderation'](https://nichegamer.com/photoshop-terms-of-service-grants-adobe-access-to-user-projects-for-content-moderation/)
 * [2024-06-05, 23:02:57](https://news.ycombinator.com/item?id=40591644) - [JSON extra uses orjson instead of ujson](https://github.com/pydantic/pydantic/pull/599)
 * [2024-06-05, 22:55:05](https://news.ycombinator.com/item?id=40591582) - [FBI raids Atlanta corporate landlord in probe of rental market price fixing](https://www.ajc.com/news/atlanta-news/fbi-raids-atlanta-corporate-landlord-with-ties-to-realpage/PT65C57YUFF2JGB7TRVRC7IFLE/)
 * [2024-06-05, 22:48:03](https://news.ycombinator.com/item?id=40591532) - [We Worked at Meta. Democracies Need to Fix the Feed Before It's Too Late](https://www.techpolicy.press/we-worked-on-election-integrity-at-meta-the-eu-and-all-democracies-need-to-fix-the-feed-before-its-too-late/)
