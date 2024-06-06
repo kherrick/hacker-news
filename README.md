@@ -15,7 +15,6 @@
 * [2024-06-06, 15:58:32](https://news.ycombinator.com/item?id=40598979) - [Observability for LLM apps with structlog and DuckDB](https://ploomber.io/blog/json-monitor-llm/)
 * [2024-06-06, 15:29:56](https://news.ycombinator.com/item?id=40598629) - [lsix: Like \"ls\", but for images](https://github.com/hackerb9/lsix)
 * [2024-06-06, 14:03:17](https://news.ycombinator.com/item?id=40597503) - [The right not to be subjected to AI profiling based on publicly available data](https://link.springer.com/article/10.1007/s13347-023-00616-9)
-* [2024-06-06, 13:54:19](https://news.ycombinator.com/item?id=40597402) - [3D Math Primer for Graphics and Game Development (2011)](https://gamemath.com/)
 * [2024-06-06, 13:35:24](https://news.ycombinator.com/item?id=40597249) - [Martha Gellhorn, the only woman to report on the D-Day landings from the ground](https://www.smithsonianmag.com/history/martha-gellhorn-was-the-only-woman-to-report-on-the-d-day-landings-from-the-ground-180984456/)
 * [2024-06-06, 13:32:36](https://news.ycombinator.com/item?id=40597216) - [Roman Roads (2017)](https://sashamaps.net/docs/maps/roman-roads-original/)
 * [2024-06-06, 13:02:48](https://news.ycombinator.com/item?id=40596883) - [Super Heavy has splashed down in The Gulf of Mexico](https://twitter.com/SpaceX/status/1798701489097183286)
@@ -30,6 +29,7 @@
 * [2024-06-05, 07:57:12](https://news.ycombinator.com/item?id=40582475) - [Kiosk mode bypass for an Ariane Allegro Scenario Player based hotel check-in te](https://www.pentagrid.ch/en/blog/ariane-allegro-hotel-check-in-terminal-kios-escape/)
 * [2024-06-05, 07:37:38](https://news.ycombinator.com/item?id=40582357) - [Show HN: 2d web paddle game](https://raould.github.io/pn0gstr0m/)
 * [2024-06-05, 06:22:26](https://news.ycombinator.com/item?id=40581904) - [Compromised Visions Are Superior](https://ericnormand.substack.com/p/compromised-visions-are-superior)
+* [2024-06-04, 23:13:28](https://news.ycombinator.com/item?id=40579892) - [Architectures for Central Server Collaboration](https://mattweidner.com/2024/06/04/server-architectures.html)
 
 ## [Archives](archives/index.md)
 
