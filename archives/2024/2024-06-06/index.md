@@ -5,9 +5,11 @@
 ### [Archives](../../index.md) for [2024-06-06](index.md)
 
 * [2024-06-06, 16:42:43](https://news.ycombinator.com/item?id=40599522) - [Starship survives reentry during fourth test flight](https://spacenews.com/starship-survives-reentry-during-fourth-test-flight/)
+* [2024-06-06, 16:34:31](https://news.ycombinator.com/item?id=40599419) - [Show HN: XPipe, a brand-new type of remote file browser and shell connection hub](https://xpipe.io)
 * [2024-06-06, 16:20:04](https://news.ycombinator.com/item?id=40599248) - [Prime Video uses obviously AI-generated movie thumbnails](https://twitter.com/ultrabrilliant/status/1798470587230171369)
 * [2024-06-06, 16:14:22](https://news.ycombinator.com/item?id=40599172) - [Extreme Climate Impacts from Collapse of AMOC Could Be Worse Than Expected](https://insideclimatenews.org/news/09022024/climate-impacts-from-collapse-of-atlantic-meridional-overturning-current-could-be-worse-than-expected/)
 * [2024-06-06, 16:01:13](https://news.ycombinator.com/item?id=40599018) - [Qwen2 LLM Released](https://qwenlm.github.io/blog/qwen2/)
+* [2024-06-06, 15:58:32](https://news.ycombinator.com/item?id=40598979) - [Observability for LLM apps with structlog and DuckDB](https://ploomber.io/blog/json-monitor-llm/)
 * [2024-06-06, 15:48:12](https://news.ycombinator.com/item?id=40598848) - [Lake Tahoe full for first time since 2019, US officials say](https://www.google.com/search?q=lake+tahoe+full&rlz=1C5GCEM_enUS977US977&oq=lake+tahoe+full&gs_lcrp=EgZjaHJvbWUyDwgAEEUYORiDARixAxiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIICAUQABgWGB4yCAgGEAAYFhgeMggIBxAAGBYYHjIICAgQABgWGB4yCggJEAAYDxgWGB7SAQgxNzY1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
 * [2024-06-06, 15:47:07](https://news.ycombinator.com/item?id=40598833) - [SpaceX's Starship rocket completes test flight, successfully splashes down](https://www.cnbc.com/2024/06/06/spacex-starship-fourth-test-spaceflight.html)
 * [2024-06-06, 15:29:56](https://news.ycombinator.com/item?id=40598629) - [lsix: Like \"ls\", but for images](https://github.com/hackerb9/lsix)
