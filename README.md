@@ -2,7 +2,8 @@
 
 * [2024-06-06, 22:44:52](https://news.ycombinator.com/item?id=40603259) - [Driver AI (YC W24) Is Hiring a Senior Front-End Engineer](https://www.ycombinator.com/companies/driver-ai/jobs/V2OQgdd-senior-frontend-engineer)
 * [2024-06-06, 22:39:20](https://news.ycombinator.com/item?id=40603205) - [How Apple Fell Behind in the AI Arms Race](https://www.wsj.com/tech/ai/apple-ai-siri-development-behind-9ea65ee8)
-* [2024-06-06, 22:04:26](https://news.ycombinator.com/item?id=40602886) - [PSA: How to keep using adblockers on Chrome and Chromium](https://gist.github.com/velzie/053ffedeaecea1a801a2769ab86ab376)
+* [2024-06-06, 22:34:23](https://news.ycombinator.com/item?id=40603156) - [Show HN: 3D Website](https://safwur.com)
+* [2024-06-06, 21:59:42](https://news.ycombinator.com/item?id=40602853) - [Japan's birth rate falls to a record low as the number of marriages also drops](https://abcnews.go.com/International/wireStory/japans-birth-rate-falls-record-low-number-marriages-110866091)
 * [2024-06-06, 20:08:31](https://news.ycombinator.com/item?id=40601801) - [Mike Lynch cleared in Autonomy fraud trial](https://www.theregister.com/2024/06/06/mike_lynch_cleared/)
 * [2024-06-06, 20:06:33](https://news.ycombinator.com/item?id=40601776) - [Boeing's starliner docks at ISS after five thrusters unexpectedly shut off](https://gizmodo.com/watch-boeing-starliner-dock-iss-astronauts-1851521917)
 * [2024-06-06, 18:31:04](https://news.ycombinator.com/item?id=40600775) - [Dragonfly: A large vision-language model with multi-resolution zoom](https://www.together.ai/blog/dragonfly-v1)
@@ -24,7 +25,6 @@
 * [2024-06-06, 09:48:59](https://news.ycombinator.com/item?id=40595499) - [Saint Michael Sword: Are the cathedrals really on a straight line?](https://geospatial.netlify.app/posts/gds-2024-04-20-cathedrals/)
 * [2024-06-06, 09:33:19](https://news.ycombinator.com/item?id=40595384) - [Understanding QEMU Devices (2018)](https://www.qemu.org/2018/02/09/understanding-qemu-devices/)
 * [2024-06-06, 04:34:57](https://news.ycombinator.com/item?id=40593540) - [TPM GPIO fail: How bad OEM firmware ruins Intel TPM security](https://mkukri.xyz/2024/06/01/tpm-gpio-fail.html)
-* [2024-06-05, 14:33:51](https://news.ycombinator.com/item?id=40585277) - [Dr. George Merryweather's 1851 Tempest Prognosticator](https://victorianweb.org/technology/packer/merryweather.html)
 * [2024-06-05, 11:24:21](https://news.ycombinator.com/item?id=40583632) - [Hybrid Bonding: 3D Chip Tech to Save Moore's Law](https://spectrum.ieee.org/hybrid-bonding)
 * [2024-06-05, 07:57:12](https://news.ycombinator.com/item?id=40582475) - [Kiosk mode bypass for an Ariane Allegro Scenario Player based hotel check-in te](https://www.pentagrid.ch/en/blog/ariane-allegro-hotel-check-in-terminal-kios-escape/)
 * [2024-06-05, 07:37:38](https://news.ycombinator.com/item?id=40582357) - [Show HN: 2d web paddle game](https://raould.github.io/pn0gstr0m/)
