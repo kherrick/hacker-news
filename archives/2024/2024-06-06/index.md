@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-06](index.md)
 
+* [2024-06-06, 19:46:42](https://news.ycombinator.com/item?id=40601565) - [Microsoft Issues New Warning for 70% of All Windows Users](https://www.forbes.com/sites/zakdoffman/2024/06/05/new-microsoft-warning-for-windows-10-windows-11-free-upgrade/)
+* [2024-06-06, 19:31:16](https://news.ycombinator.com/item?id=40601423) - [Windows Recall: Microsoft has lost trust with its users](https://www.windowscentral.com/software-apps/nvidia-3-trillion-market-valuation-second-most-valuable-company)
 * [2024-06-06, 19:18:35](https://news.ycombinator.com/item?id=40601303) - [Eric Schmidt Is Testing AI Military Drones](https://www.forbes.com/sites/sarahemerson/2024/06/06/eric-schmidt-is-secretly-testing-ai-military-drones-in-a-wealthy-silicon-valley-suburb/)
 * [2024-06-06, 18:31:04](https://news.ycombinator.com/item?id=40600775) - [Dragonfly: A large vision-language model with multi-resolution zoom](https://www.together.ai/blog/dragonfly-v1)
 * [2024-06-06, 18:28:22](https://news.ycombinator.com/item?id=40600748) - [First recording of tinnitus raises new questions](https://thequietus.com/interviews/lola-de-la-mata-oceans-on-azimuth-tinnitus-interview/)

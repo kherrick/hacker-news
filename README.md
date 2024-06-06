@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-06, 19:46:42](https://news.ycombinator.com/item?id=40601565) - [Microsoft Issues New Warning for 70% of All Windows Users](https://www.forbes.com/sites/zakdoffman/2024/06/05/new-microsoft-warning-for-windows-10-windows-11-free-upgrade/)
+* [2024-06-06, 19:31:16](https://news.ycombinator.com/item?id=40601423) - [Windows Recall: Microsoft has lost trust with its users](https://www.windowscentral.com/software-apps/nvidia-3-trillion-market-valuation-second-most-valuable-company)
 * [2024-06-06, 18:31:04](https://news.ycombinator.com/item?id=40600775) - [Dragonfly: A large vision-language model with multi-resolution zoom](https://www.together.ai/blog/dragonfly-v1)
 * [2024-06-06, 18:28:22](https://news.ycombinator.com/item?id=40600748) - [An Interview with Lola De La Mata about tinnitus](https://thequietus.com/interviews/lola-de-la-mata-oceans-on-azimuth-tinnitus-interview/)
 * [2024-06-06, 18:06:55](https://news.ycombinator.com/item?id=40600506) - [High resolution logo for any domain or stock ticker](https://logo.synthfinance.com/)
@@ -22,9 +24,7 @@
 * [2024-06-06, 09:48:59](https://news.ycombinator.com/item?id=40595499) - [St Michael Sword investigation: Are the 7 Cathedrals on a straight line?](https://geospatial.netlify.app/posts/gds-2024-04-20-cathedrals/)
 * [2024-06-06, 09:33:19](https://news.ycombinator.com/item?id=40595384) - [Understanding QEMU Devices (2018)](https://www.qemu.org/2018/02/09/understanding-qemu-devices/)
 * [2024-06-06, 04:34:57](https://news.ycombinator.com/item?id=40593540) - [TPM GPIO fail: How bad OEM firmware ruins Intel TPM security](https://mkukri.xyz/2024/06/01/tpm-gpio-fail.html)
-* [2024-06-06, 03:03:59](https://news.ycombinator.com/item?id=40592998) - [PSA: If you're a fan of ATmega, try AVR Dx](https://lcamtuf.substack.com/p/psa-if-youre-a-fan-of-atmega-try)
 * [2024-06-06, 02:25:25](https://news.ycombinator.com/item?id=40592789) - [Microsoft AI spying scandal: time to rethink privacy standards](https://spectrum.ieee.org/online-privacy)
-* [2024-06-05, 20:03:26](https://news.ycombinator.com/item?id=40589852) - [Show HN: Mark Scroll Positions](https://www.rugu.dev/en/blog/mark-scroll-positions/)
 * [2024-06-05, 11:59:06](https://news.ycombinator.com/item?id=40583836) - [The dual nature of Japanese Knotweed](https://worldsensorium.com/the-dual-nature-of-japanese-knotweed/)
 * [2024-06-05, 07:57:12](https://news.ycombinator.com/item?id=40582475) - [Kiosk mode bypass for an Ariane Allegro Scenario Player based hotel check-in te](https://www.pentagrid.ch/en/blog/ariane-allegro-hotel-check-in-terminal-kios-escape/)
 * [2024-06-05, 07:37:38](https://news.ycombinator.com/item?id=40582357) - [Show HN: 2d web paddle game](https://raould.github.io/pn0gstr0m/)
