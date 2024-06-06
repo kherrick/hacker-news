@@ -71,6 +71,7 @@
 * [2024-06-05, 12:10:16](https://news.ycombinator.com/item?id=40583909) - [Shuttle (YC S20) Is Hiring](https://news.ycombinator.com/item?id=40583909)
 * [2024-06-05, 11:59:06](https://news.ycombinator.com/item?id=40583836) - [The Dual Nature of Japanese Knotweed](https://worldsensorium.com/the-dual-nature-of-japanese-knotweed/)
 * [2024-06-05, 11:56:41](https://news.ycombinator.com/item?id=40583821) - [Denmark's Genius Housing Fix](https://www.businessinsider.com/denmark-mortgage-rates-lock-in-effect-home-buying-selling-easier-2024-5)
+* [2024-06-05, 11:36:38](https://news.ycombinator.com/item?id=40583702) - [How Large is a 160 Bit Number?](https://www.dolthub.com/blog/2024-05-28-160-bits/)
 * [2024-06-05, 11:35:25](https://news.ycombinator.com/item?id=40583698) - [The Age of the Drone Police Is Here](https://www.wired.com/story/the-age-of-the-drone-police-is-here/)
 * [2024-06-05, 11:24:21](https://news.ycombinator.com/item?id=40583632) - [Hybrid Bonding: 3D Chip Tech to Save Moore's Law](https://spectrum.ieee.org/hybrid-bonding)
 * [2024-06-05, 11:05:42](https://news.ycombinator.com/item?id=40583538) - [Vitamin D for the prevention of disease: Clinical practice guideline](https://academic.oup.com/jcem/advance-article/doi/10.1210/clinem/dgae290/7685305)
