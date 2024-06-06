@@ -6,6 +6,7 @@
 
 * [2024-06-06, 09:48:59](https://news.ycombinator.com/item?id=40595499) - [St Michael Sword investigation: Are the 7 Cathedrals on a straight line?](https://geospatial.netlify.app/posts/gds-2024-04-20-cathedrals/)
 * [2024-06-06, 09:45:40](https://news.ycombinator.com/item?id=40595465) - [Study Finds 268% Higher Failure Rates for Agile Software Projects](https://tech.slashdot.org/story/24/06/06/022253/study-finds-268-higher-failure-rates-for-agile-software-projects)
+* [2024-06-06, 09:44:11](https://news.ycombinator.com/item?id=40595456) - [The Distinctiveness of Human Aggression](https://www.robkhenderson.com/p/the-distinctiveness-of-human-aggression)
 * [2024-06-06, 09:33:19](https://news.ycombinator.com/item?id=40595384) - [Understanding QEMU Devices](https://www.qemu.org/2018/02/09/understanding-qemu-devices/)
 * [2024-06-06, 09:04:32](https://news.ycombinator.com/item?id=40595164) - [Starship's Fourth Flight Test: Window Opens 07:00 AM Central Time](https://www.spacex.com/launches/mission/?missionId=starship-flight-4)
 * [2024-06-06, 07:37:52](https://news.ycombinator.com/item?id=40594608) - [Microsoft Research chief scientist has no issue with Recall](https://www.theregister.com/2024/06/06/microsoft_research_recall/)

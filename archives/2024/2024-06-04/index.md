@@ -84,6 +84,7 @@
 * [2024-06-04, 11:57:18](https://news.ycombinator.com/item?id=40573506) - [Infrared Infrastructure](https://shkspr.mobi/blog/2024/06/infrared-infrastructure/)
 * [2024-06-04, 11:44:39](https://news.ycombinator.com/item?id=40573387) - [Underscores are stupid? Get a Japanese keyboard (2012)](https://www.daveperrett.com/articles/2012/05/16/underscores-are-stupid-get-a-japanese-keyboard/)
 * [2024-06-04, 11:44:26](https://news.ycombinator.com/item?id=40573386) - [Chang'e-6: Moon dark side samples collected and launched into lunar orbit](https://spacenews.com/change-6-moon-samples-collected-and-launched-into-lunar-orbit/)
+* [2024-06-04, 11:42:13](https://news.ycombinator.com/item?id=40573364) - [Night-vision lenses so thin and light that we can all see in the dark](https://newatlas.com/technology/night-vision-thin-light-lens/)
 * [2024-06-04, 11:40:47](https://news.ycombinator.com/item?id=40573353) - [SaySelf: Teaching LLMs to Express Confidence with Self-Reflective Rationales](https://arxiv.org/abs/2405.20974)
 * [2024-06-04, 11:38:04](https://news.ycombinator.com/item?id=40573326) - [Comparison of OSS photo management tools](https://meichthys.github.io/foss_photo_libraries/)
 * [2024-06-04, 11:33:25](https://news.ycombinator.com/item?id=40573274) - [Why I'm building a Home Lab with K8s on Raspberry Pis](https://iamsafts.com/posts/homelab-intro/)

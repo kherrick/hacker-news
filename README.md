@@ -2,6 +2,7 @@
 
 * [2024-06-06, 09:48:59](https://news.ycombinator.com/item?id=40595499) - [St Michael Sword investigation: Are the 7 Cathedrals on a straight line?](https://geospatial.netlify.app/posts/gds-2024-04-20-cathedrals/)
 * [2024-06-06, 09:45:40](https://news.ycombinator.com/item?id=40595465) - [Study Finds 268% Higher Failure Rates for Agile Software Projects](https://tech.slashdot.org/story/24/06/06/022253/study-finds-268-higher-failure-rates-for-agile-software-projects)
+* [2024-06-06, 09:44:11](https://news.ycombinator.com/item?id=40595456) - [The Distinctiveness of Human Aggression](https://www.robkhenderson.com/p/the-distinctiveness-of-human-aggression)
 * [2024-06-06, 09:33:19](https://news.ycombinator.com/item?id=40595384) - [Understanding QEMU Devices](https://www.qemu.org/2018/02/09/understanding-qemu-devices/)
 * [2024-06-06, 09:04:32](https://news.ycombinator.com/item?id=40595164) - [Starship's Fourth Flight Test: Window Opens 07:00 AM Central Time](https://www.spacex.com/launches/mission/?missionId=starship-flight-4)
 * [2024-06-06, 07:28:11](https://news.ycombinator.com/item?id=40594533) - [FBI has obtained 7k Lockbit ransomware decryption keys](https://www.fbi.gov/news/speeches/fbi-cyber-assistant-director-bryan-vorndran-s-remarks-at-the-2024-boston-conference-on-cyber-security)
@@ -26,10 +27,9 @@
 * [2024-06-05, 02:35:58](https://news.ycombinator.com/item?id=40580874) - [FBI raids Atlanta corporate landlord in probe of rental market price fixing](https://www.entrepreneur.com/business-news/realpage-rent-price-fixing-probe-escalates-with-fbi-raid/475109)
 * [2024-06-05, 00:00:42](https://news.ycombinator.com/item?id=40580142) - [Mathematical Optimization for Cargo Ships](https://research.google/blog/heuristics-on-the-high-seas-mathematical-optimization-for-cargo-ships/)
 * [2024-06-04, 19:33:38](https://news.ycombinator.com/item?id=40578137) - [Televised Music Is a Pointless Rigmarole (1968)](https://www.theparisreview.org/blog/2024/05/20/televised-music-is-a-pointless-rigmarole/)
-* [2024-06-04, 13:21:02](https://news.ycombinator.com/item?id=40574331) - [Research as leisure activity](https://www.personalcanon.com/p/research-as-leisure-activity)
 * [2024-06-04, 12:17:12](https://news.ycombinator.com/item?id=40573689) - [An Overview of the Starlark Language](https://laurent.le-brun.eu/blog/an-overview-of-starlark)
 * [2024-06-04, 11:57:18](https://news.ycombinator.com/item?id=40573506) - [Infrared Infrastructure](https://shkspr.mobi/blog/2024/06/infrared-infrastructure/)
-* [2024-06-04, 05:51:26](https://news.ycombinator.com/item?id=40571088) - [Building a serverless secured dead drop](https://ayende.com/blog/201153-B/building-a-serverless-secured-dead-drop)
+* [2024-06-04, 11:42:13](https://news.ycombinator.com/item?id=40573364) - [Night-vision lenses so thin and light that we can all see in the dark](https://newatlas.com/technology/night-vision-thin-light-lens/)
 
 ## [Archives](archives/index.md)
 
