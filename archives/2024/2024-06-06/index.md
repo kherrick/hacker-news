@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-06](index.md)
 
+* [2024-06-06, 16:20:04](https://news.ycombinator.com/item?id=40599248) - [Prime Video uses obviously AI-generated movie thumbnails](https://twitter.com/ultrabrilliant/status/1798470587230171369)
 * [2024-06-06, 16:14:22](https://news.ycombinator.com/item?id=40599172) - [Extreme Climate Impacts from Collapse of AMOC Could Be Worse Than Expected](https://insideclimatenews.org/news/09022024/climate-impacts-from-collapse-of-atlantic-meridional-overturning-current-could-be-worse-than-expected/)
 * [2024-06-06, 15:48:12](https://news.ycombinator.com/item?id=40598848) - [Lake Tahoe full for first time since 2019, US officials say](https://www.google.com/search?q=lake+tahoe+full&rlz=1C5GCEM_enUS977US977&oq=lake+tahoe+full&gs_lcrp=EgZjaHJvbWUyDwgAEEUYORiDARixAxiABDIHCAEQABiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIICAUQABgWGB4yCAgGEAAYFhgeMggIBxAAGBYYHjIICAgQABgWGB4yCggJEAAYDxgWGB7SAQgxNzY1ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
 * [2024-06-06, 15:47:07](https://news.ycombinator.com/item?id=40598833) - [SpaceX's Starship rocket completes test flight, successfully splashes down](https://www.cnbc.com/2024/06/06/spacex-starship-fourth-test-spaceflight.html)
@@ -33,6 +34,7 @@
 * [2024-06-06, 12:38:58](https://news.ycombinator.com/item?id=40596687) - [OSS Auth0 Alternative Ory Kratos Now with Full PassKey Support](https://github.com/ory/kratos/releases/tag/v1.2.0)
 * [2024-06-06, 12:24:15](https://news.ycombinator.com/item?id=40596596) - [JEP-455: Primitive types in patterns, instanceof and switch](https://openjdk.org/jeps/455)
 * [2024-06-06, 12:22:48](https://news.ycombinator.com/item?id=40596578) - [How Much Water Is in Earth's Crust? Over 10.5M Cubic Miles](https://www.worldatlas.com/geology/how-much-water-is-in-earth-s-crust.html)
+* [2024-06-06, 12:18:39](https://news.ycombinator.com/item?id=40596535) - [Brain overgrowth dictates autism severity, new research suggests](https://medicalxpress.com/news/2024-06-brain-overgrowth-dictates-autism-severity.html)
 * [2024-06-06, 12:01:07](https://news.ycombinator.com/item?id=40596386) - [PermitFlow (YC W22) Is Hiring Software Engineers](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 * [2024-06-06, 11:23:02](https://news.ycombinator.com/item?id=40596105) - [WHO confirms first death in Mexico from bird flu never seen in humans](https://www.nbcnews.com/health/health-news/confirms-first-death-mexico-bird-flu-never-seen-humans-rcna155745)
 * [2024-06-06, 11:20:55](https://news.ycombinator.com/item?id=40596089) - [Xylitol is associated with cardiovascular risk](https://academic.oup.com/eurheartj/advance-article-abstract/doi/10.1093/eurheartj/ehae244/7683453?redirectedFrom=fulltext)
