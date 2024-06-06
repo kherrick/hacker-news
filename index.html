@@ -141,13 +141,96 @@
             <h4>
               <span>2024-06-06 @ 16:42:43</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">38</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40599522"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="40599419">
+          <h3>
+            <a class="item" href="https://xpipe.io"
+              >Show HN: XPipe, a brand-new type of remote file browser and shell
+              connection hub</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-06-06 @ 16:34:31</span
+              ><span class="points-container"
+                >Points: <span class="points">5</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40599419"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                At first glance it might not look very novel, but if you dig a
+                little deeper, you will see that the entire foundation of how it
+                communicates with remote systems is completely different from
+                any other solution out there. What happens in the background can
+                essentially be explained this way: It launches a local shell
+                process like cmd, sh, etc. and in it executes a command that
+                opens a remote shell connection such as ssh user@host. All
+                communication is then done through the stdin/stdout/stderr of
+                that process. From there, it detects what kind of server and
+                environment, e.g. shell type, os, etc. you have logged into and
+                adjusts how it talks to the remote system. By then using file
+                system related commands such as ls, rm, touch, etc. and its
+                equivalents, it can realize a functional file manager that works
+                on essentially every system without any protocol requirements.
+                For other types of connections, it can just execute things like
+                docker exec -i to open a shell into a container and work the
+                same way. Right now it supports: - SSH by running your locally
+                installed SSH CLI client - Docker, Podman, LXD, and Kubernetes
+                containers - WSL, MSYS2, and Cygwin environments on Windows -
+                Various other things like some VMs for VMware and Proxmox, but
+                work is still going on on there
+              </p>
+              <p>
+                This approach to delegate everything to your installed tools is
+                also utilized for other tasks. That means that I can save a lot
+                of development time while you can happily use the tools you are
+                comfortable with in conjunction with XPipe. In fact, XPipe
+                doesn't ship with any libraries or tools for remote shell
+                connections, protocol handling, or terminal integration at all.
+                It just delegates everything to your own text editor, terminal
+                emulator, RDP clients, and more.
+              </p>
+              <p>
+                Due to its nature, XPipe has to handle a lot of sensitive
+                information like passwords, keys, and more. To tackle the topics
+                of security and privacy, I put an emphasis on security settings
+                and created a dedicated security page in the docs that should
+                hopefully contain all relevant information. There is also a
+                password manager integration, so you don't have to store any
+                sensitive information in XPipe itself if you use a compatible
+                password manager.
+              </p>
+              <p>
+                As it is a common use case to synchronize connection information
+                across many systems, e.g. your desktop at home and laptop for
+                travel, there is also a git integration which allows you to have
+                XPipe automatically synchronize all connection information with
+                a remote git repository of your choice. It supports any git
+                remote repository, advanced authentication measures like SSH
+                auth, GPG signing, and more. You can also use this for
+                collaboration if you're working in a team.
+              </p>
+              <p>
+                The early stage development has been quite challenging as this
+                new approach requires a completely new implementation, but I am
+                confident that it's ready now. I appreciate any kind of feedback
+                from you to guide me in the right development direction from
+                here.
+              </p>
+              <p>Enjoy!</p>
+            </div>
           </section>
         </section>
         <section id="40599248">
@@ -162,33 +245,11 @@
             <h4>
               <span>2024-06-06 @ 16:20:04</span
               ><span class="points-container"
-                >Points: <span class="points">47</span></span
+                >Points: <span class="points">58</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40599248"
                   >Comments</a
-                ><span class="descendants">: 28</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="40599172">
-          <h3>
-            <a
-              class="item"
-              href="https://insideclimatenews.org/news/09022024/climate-impacts-from-collapse-of-atlantic-meridional-overturning-current-could-be-worse-than-expected/"
-              >Extreme Climate Impacts from Collapse of AMOC Could Be Worse Than
-              Expected</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-06-06 @ 16:14:22</span
-              ><span class="points-container"
-                >Points: <span class="points">32</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40599172"
-                  >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
@@ -203,11 +264,30 @@
             <h4>
               <span>2024-06-06 @ 16:01:13</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40599018"
                   >Comments</a
-                ><span class="descendants">: 21</span></span
+                ><span class="descendants">: 24</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="40598979">
+          <h3>
+            <a class="item" href="https://ploomber.io/blog/json-monitor-llm/"
+              >Observability for LLM apps with structlog and DuckDB</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-06-06 @ 15:58:32</span
+              ><span class="points-container"
+                >Points: <span class="points">10</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40598979"
+                  >Comments</a
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -222,7 +302,7 @@
             <h4>
               <span>2024-06-06 @ 15:29:56</span
               ><span class="points-container"
-                >Points: <span class="points">13</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40598629"
                   >Comments</a
@@ -244,7 +324,7 @@
             <h4>
               <span>2024-06-06 @ 15:12:25</span
               ><span class="points-container"
-                >Points: <span class="points">20</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40598393"
                   >Comments</a
@@ -265,11 +345,11 @@
             <h4>
               <span>2024-06-06 @ 15:10:12</span
               ><span class="points-container"
-                >Points: <span class="points">16</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40598353"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -287,11 +367,11 @@
             <h4>
               <span>2024-06-06 @ 14:03:17</span
               ><span class="points-container"
-                >Points: <span class="points">129</span></span
+                >Points: <span class="points">133</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40597503"
                   >Comments</a
-                ><span class="descendants">: 76</span></span
+                ><span class="descendants">: 82</span></span
               >
             </h4>
           </section>
@@ -306,11 +386,11 @@
             <h4>
               <span>2024-06-06 @ 13:54:19</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">64</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40597402"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -328,7 +408,7 @@
             <h4>
               <span>2024-06-06 @ 13:35:24</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">47</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40597249"
                   >Comments</a
@@ -350,11 +430,32 @@
             <h4>
               <span>2024-06-06 @ 13:32:36</span
               ><span class="points-container"
-                >Points: <span class="points">183</span></span
+                >Points: <span class="points">188</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40597216"
                   >Comments</a
-                ><span class="descendants">: 51</span></span
+                ><span class="descendants">: 54</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="40596883">
+          <h3>
+            <a
+              class="item"
+              href="https://twitter.com/SpaceX/status/1798701489097183286"
+              >Super Heavy has splashed down in The Gulf of Mexico</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-06-06 @ 13:02:48</span
+              ><span class="points-container"
+                >Points: <span class="points">257</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40596883"
+                  >Comments</a
+                ><span class="descendants">: 329</span></span
               >
             </h4>
           </section>
@@ -402,32 +503,11 @@
             <h4>
               <span>2024-06-06 @ 12:39:01</span
               ><span class="points-container"
-                >Points: <span class="points">133</span></span
+                >Points: <span class="points">140</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40596689"
                   >Comments</a
-                ><span class="descendants">: 66</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="40596578">
-          <h3>
-            <a
-              class="item"
-              href="https://www.worldatlas.com/geology/how-much-water-is-in-earth-s-crust.html"
-              >How Much Water Is in Earth's Crust? Over 10.5M Cubic Miles</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-06-06 @ 12:22:48</span
-              ><span class="points-container"
-                >Points: <span class="points">31</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40596578"
-                  >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 69</span></span
               >
             </h4>
           </section>
@@ -461,7 +541,7 @@
             <h4>
               <span>2024-06-06 @ 10:55:32</span
               ><span class="points-container"
-                >Points: <span class="points">72</span></span
+                >Points: <span class="points">73</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40595920"
                   >Comments</a
@@ -480,11 +560,11 @@
             <h4>
               <span>2024-06-06 @ 10:24:23</span
               ><span class="points-container"
-                >Points: <span class="points">233</span></span
+                >Points: <span class="points">241</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40595741"
                   >Comments</a
-                ><span class="descendants">: 82</span></span
+                ><span class="descendants">: 83</span></span
               >
             </h4>
           </section>
@@ -502,11 +582,11 @@
             <h4>
               <span>2024-06-06 @ 09:48:59</span
               ><span class="points-container"
-                >Points: <span class="points">230</span></span
+                >Points: <span class="points">231</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40595499"
                   >Comments</a
-                ><span class="descendants">: 159</span></span
+                ><span class="descendants">: 160</span></span
               >
             </h4>
           </section>
@@ -523,32 +603,11 @@
             <h4>
               <span>2024-06-06 @ 09:33:19</span
               ><span class="points-container"
-                >Points: <span class="points">98</span></span
+                >Points: <span class="points">99</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40595384"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="40593674">
-          <h3>
-            <a
-              class="item"
-              href="https://soranews24.com/2024/05/28/mitsubishi-develops-robot-that-solves-rubiks-cube-style-puzzle-in-0-305-seconds%e3%80%90video%e3%80%91/"
-              >Mitsubishi robot solves Rubik's Cube in 0.305s</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-06-06 @ 05:00:25</span
-              ><span class="points-container"
-                >Points: <span class="points">245</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40593674"
-                  >Comments</a
-                ><span class="descendants">: 167</span></span
+                ><span class="descendants">: 32</span></span
               >
             </h4>
           </section>
@@ -565,11 +624,11 @@
             <h4>
               <span>2024-06-06 @ 04:34:57</span
               ><span class="points-container"
-                >Points: <span class="points">146</span></span
+                >Points: <span class="points">148</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40593540"
                   >Comments</a
-                ><span class="descendants">: 91</span></span
+                ><span class="descendants">: 92</span></span
               >
             </h4>
           </section>
@@ -590,7 +649,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40592998"
                   >Comments</a
-                ><span class="descendants">: 72</span></span
+                ><span class="descendants">: 74</span></span
               >
             </h4>
           </section>
@@ -605,11 +664,11 @@
             <h4>
               <span>2024-06-06 @ 02:25:25</span
               ><span class="points-container"
-                >Points: <span class="points">720</span></span
+                >Points: <span class="points">722</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40592789"
                   >Comments</a
-                ><span class="descendants">: 300</span></span
+                ><span class="descendants">: 302</span></span
               >
             </h4>
           </section>
@@ -630,7 +689,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40589852"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
             <div class="text">
@@ -657,11 +716,11 @@
             <h4>
               <span>2024-06-05 @ 19:49:18</span
               ><span class="points-container"
-                >Points: <span class="points">248</span></span
+                >Points: <span class="points">250</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40589675"
                   >Comments</a
-                ><span class="descendants">: 116</span></span
+                ><span class="descendants">: 119</span></span
               >
             </h4>
           </section>
@@ -678,11 +737,11 @@
             <h4>
               <span>2024-06-05 @ 16:06:05</span
               ><span class="points-container"
-                >Points: <span class="points">131</span></span
+                >Points: <span class="points">135</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40586654"
                   >Comments</a
-                ><span class="descendants">: 485</span></span
+                ><span class="descendants">: 494</span></span
               >
             </h4>
           </section>
@@ -703,7 +762,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40585728"
                   >Comments</a
-                ><span class="descendants">: 638</span></span
+                ><span class="descendants">: 639</span></span
               >
             </h4>
           </section>
@@ -721,7 +780,7 @@
             <h4>
               <span>2024-06-05 @ 07:57:12</span
               ><span class="points-container"
-                >Points: <span class="points">14</span></span
+                >Points: <span class="points">18</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40582475"
                   >Comments</a
@@ -742,11 +801,11 @@
             <h4>
               <span>2024-06-05 @ 00:00:42</span
               ><span class="points-container"
-                >Points: <span class="points">296</span></span
+                >Points: <span class="points">297</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40580142"
                   >Comments</a
-                ><span class="descendants">: 124</span></span
+                ><span class="descendants">: 125</span></span
               >
             </h4>
           </section>
@@ -764,7 +823,7 @@
             <h4>
               <span>2024-06-04 @ 11:42:13</span
               ><span class="points-container"
-                >Points: <span class="points">156</span></span
+                >Points: <span class="points">157</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40573364"
                   >Comments</a
