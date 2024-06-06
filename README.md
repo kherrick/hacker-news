@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-06, 20:58:12](https://news.ycombinator.com/item?id=40602327) - [DuckDuckGo offers \"anonymous\" access to AI chatbots through new service](https://arstechnica.com/information-technology/2024/06/duckduckgo-offers-anonymous-access-to-ai-chatbots-through-new-service/)
-* [2024-06-06, 20:25:16](https://news.ycombinator.com/item?id=40601957) - [The New R1S and R1T](https://stories.rivian.com/meet-the-new-r1)
 * [2024-06-06, 20:08:31](https://news.ycombinator.com/item?id=40601801) - [Mike Lynch cleared in Autonomy fraud trial](https://www.theregister.com/2024/06/06/mike_lynch_cleared/)
 * [2024-06-06, 20:06:33](https://news.ycombinator.com/item?id=40601776) - [Boeing's starliner docks at ISS after five thrusters unexpectedly shut off](https://gizmodo.com/watch-boeing-starliner-dock-iss-astronauts-1851521917)
 * [2024-06-06, 18:31:04](https://news.ycombinator.com/item?id=40600775) - [Dragonfly: A large vision-language model with multi-resolution zoom](https://www.together.ai/blog/dragonfly-v1)
+* [2024-06-06, 18:28:22](https://news.ycombinator.com/item?id=40600748) - [An Interview with Lola De La Mata about tinnitus](https://thequietus.com/interviews/lola-de-la-mata-oceans-on-azimuth-tinnitus-interview/)
 * [2024-06-06, 17:55:28](https://news.ycombinator.com/item?id=40600384) - [Let rand = main as usize (2022)](https://codeandbitters.com/main-as-usize/)
 * [2024-06-06, 17:27:08](https://news.ycombinator.com/item?id=40600083) - [Yarn (YC W24) Is Hiring Founding Engineers in NYC](https://www.workatastartup.com/jobs/66928)
 * [2024-06-06, 17:09:58](https://news.ycombinator.com/item?id=40599857) - [Telegram Stars: Pay for Digital Goods and More](https://telegram.org/blog/telegram-stars)
