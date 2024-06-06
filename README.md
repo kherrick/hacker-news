@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-06, 21:39:15](https://news.ycombinator.com/item?id=40602708) - [Bank Rescinds a Job Offer Because It Had Cancelled Candidate's Credit Cards](https://www.nytimes.com/2024/06/06/your-money/chase-account-closed-job.html)
+* [2024-06-06, 21:10:18](https://news.ycombinator.com/item?id=40602455) - [Stallman Was Right](https://twitter.com/snowden/status/1798728673698443638)
 * [2024-06-06, 20:08:31](https://news.ycombinator.com/item?id=40601801) - [Mike Lynch cleared in Autonomy fraud trial](https://www.theregister.com/2024/06/06/mike_lynch_cleared/)
 * [2024-06-06, 20:06:33](https://news.ycombinator.com/item?id=40601776) - [Boeing's starliner docks at ISS after five thrusters unexpectedly shut off](https://gizmodo.com/watch-boeing-starliner-dock-iss-astronauts-1851521917)
 * [2024-06-06, 18:31:04](https://news.ycombinator.com/item?id=40600775) - [Dragonfly: A large vision-language model with multi-resolution zoom](https://www.together.ai/blog/dragonfly-v1)
@@ -12,7 +14,6 @@
 * [2024-06-06, 16:01:13](https://news.ycombinator.com/item?id=40599018) - [Qwen2 LLM Released](https://qwenlm.github.io/blog/qwen2/)
 * [2024-06-06, 15:29:56](https://news.ycombinator.com/item?id=40598629) - [lsix: Like \"ls\", but for images](https://github.com/hackerb9/lsix)
 * [2024-06-06, 14:03:17](https://news.ycombinator.com/item?id=40597503) - [The right not to be subjected to AI profiling based on publicly available data](https://link.springer.com/article/10.1007/s13347-023-00616-9)
-* [2024-06-06, 13:54:19](https://news.ycombinator.com/item?id=40597402) - [3D Math Primer for Graphics and Game Development (2011)](https://gamemath.com/)
 * [2024-06-06, 13:35:24](https://news.ycombinator.com/item?id=40597249) - [Martha Gellhorn, the only woman to report on the D-Day landings from the ground](https://www.smithsonianmag.com/history/martha-gellhorn-was-the-only-woman-to-report-on-the-d-day-landings-from-the-ground-180984456/)
 * [2024-06-06, 13:32:36](https://news.ycombinator.com/item?id=40597216) - [Roman Roads (2017)](https://sashamaps.net/docs/maps/roman-roads-original/)
 * [2024-06-06, 13:02:48](https://news.ycombinator.com/item?id=40596883) - [Super Heavy has splashed down in The Gulf of Mexico](https://twitter.com/SpaceX/status/1798701489097183286)
@@ -24,7 +25,6 @@
 * [2024-06-06, 09:48:59](https://news.ycombinator.com/item?id=40595499) - [Saint Michael Sword: Are the cathedrals really on a straight line?](https://geospatial.netlify.app/posts/gds-2024-04-20-cathedrals/)
 * [2024-06-06, 09:33:19](https://news.ycombinator.com/item?id=40595384) - [Understanding QEMU Devices (2018)](https://www.qemu.org/2018/02/09/understanding-qemu-devices/)
 * [2024-06-06, 04:34:57](https://news.ycombinator.com/item?id=40593540) - [TPM GPIO fail: How bad OEM firmware ruins Intel TPM security](https://mkukri.xyz/2024/06/01/tpm-gpio-fail.html)
-* [2024-06-06, 02:25:25](https://news.ycombinator.com/item?id=40592789) - [Microsoft AI spying scandal: time to rethink privacy standards](https://spectrum.ieee.org/online-privacy)
 * [2024-06-05, 14:33:51](https://news.ycombinator.com/item?id=40585277) - [Dr. George Merryweather's 1851 Tempest Prognosticator](https://victorianweb.org/technology/packer/merryweather.html)
 * [2024-06-05, 07:57:12](https://news.ycombinator.com/item?id=40582475) - [Kiosk mode bypass for an Ariane Allegro Scenario Player based hotel check-in te](https://www.pentagrid.ch/en/blog/ariane-allegro-hotel-check-in-terminal-kios-escape/)
 * [2024-06-05, 07:37:38](https://news.ycombinator.com/item?id=40582357) - [Show HN: 2d web paddle game](https://raould.github.io/pn0gstr0m/)

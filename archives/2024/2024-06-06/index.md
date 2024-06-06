@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-06](index.md)
 
+* [2024-06-06, 21:39:15](https://news.ycombinator.com/item?id=40602708) - [Bank Rescinds a Job Offer Because It Had Cancelled Candidate's Credit Cards](https://www.nytimes.com/2024/06/06/your-money/chase-account-closed-job.html)
+* [2024-06-06, 21:10:18](https://news.ycombinator.com/item?id=40602455) - [Stallman Was Right](https://twitter.com/snowden/status/1798728673698443638)
 * [2024-06-06, 20:58:12](https://news.ycombinator.com/item?id=40602327) - [DuckDuckGo offers \"anonymous\" access to AI chatbots through new service](https://arstechnica.com/information-technology/2024/06/duckduckgo-offers-anonymous-access-to-ai-chatbots-through-new-service/)
 * [2024-06-06, 20:25:16](https://news.ycombinator.com/item?id=40601957) - [The New R1S and R1T](https://stories.rivian.com/meet-the-new-r1)
 * [2024-06-06, 20:08:31](https://news.ycombinator.com/item?id=40601801) - [Mike Lynch cleared in Autonomy fraud trial](https://www.theregister.com/2024/06/06/mike_lynch_cleared/)
