@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-06](index.md)
 
+* [2024-06-06, 22:04:26](https://news.ycombinator.com/item?id=40602886) - [PSA: How to keep using adblockers on Chrome and Chromium](https://gist.github.com/velzie/053ffedeaecea1a801a2769ab86ab376)
 * [2024-06-06, 21:43:42](https://news.ycombinator.com/item?id=40602735) - [GOG will delete cloud saves bigger than 200MB after August 31st](https://support.gog.com/hc/en-us/articles/18730340487709-Review-your-Cloud-Saves-to-avoid-loss-of-files?product=gog)
 * [2024-06-06, 21:39:15](https://news.ycombinator.com/item?id=40602708) - [Bank Rescinds a Job Offer Because It Had Cancelled Candidate's Credit Cards](https://www.nytimes.com/2024/06/06/your-money/chase-account-closed-job.html)
 * [2024-06-06, 21:10:18](https://news.ycombinator.com/item?id=40602455) - [Stallman Was Right](https://twitter.com/snowden/status/1798728673698443638)
