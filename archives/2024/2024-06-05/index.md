@@ -79,6 +79,7 @@
 * [2024-06-05, 08:36:35](https://news.ycombinator.com/item?id=40582712) - [My Programming Journey](https://gavinhoward.com/2024/06/my-programming-journey/)
 * [2024-06-05, 08:19:23](https://news.ycombinator.com/item?id=40582603) - [Show HN: zfind – CLI like find but using SQL syntax and also does tar/zip](https://github.com/laktak/zfind)
 * [2024-06-05, 08:13:24](https://news.ycombinator.com/item?id=40582566) - [Remote Amazon tribe connects to internet – wind up hooked on porn, social media](https://nypost.com/2024/06/04/lifestyle/remote-amazon-tribe-connects-to-elon-musks-starlink-internet-service-become-hooked-on-porn-social-media/)
+* [2024-06-05, 07:57:12](https://news.ycombinator.com/item?id=40582475) - [Kiosk mode bypass for an Ariane Allegro Scenario Player based hotel check-in te](https://www.pentagrid.ch/en/blog/ariane-allegro-hotel-check-in-terminal-kios-escape/)
 * [2024-06-05, 07:22:28](https://news.ycombinator.com/item?id=40582259) - [Palmer Luckey is selling pixel-perfect ultrabright magnesium Game Boys for $199](https://www.theverge.com/2024/6/3/24170572/modretro-chromatic-game-boy-color-palmer-luckey-price-release-date)
 * [2024-06-05, 06:43:45](https://news.ycombinator.com/item?id=40582035) - [Minimalistic Beat Maker](https://martinwecke.de/108/)
 * [2024-06-05, 06:42:42](https://news.ycombinator.com/item?id=40582029) - [In defence of swap: common misconceptions](https://chrisdown.name/2018/01/02/in-defence-of-swap.html)
