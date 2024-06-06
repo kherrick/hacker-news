@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-06, 20:58:12](https://news.ycombinator.com/item?id=40602327) - [DuckDuckGo offers \"anonymous\" access to AI chatbots through new service](https://arstechnica.com/information-technology/2024/06/duckduckgo-offers-anonymous-access-to-ai-chatbots-through-new-service/)
 * [2024-06-06, 20:08:31](https://news.ycombinator.com/item?id=40601801) - [Mike Lynch cleared in Autonomy fraud trial](https://www.theregister.com/2024/06/06/mike_lynch_cleared/)
 * [2024-06-06, 20:06:33](https://news.ycombinator.com/item?id=40601776) - [Boeing's starliner docks at ISS after five thrusters unexpectedly shut off](https://gizmodo.com/watch-boeing-starliner-dock-iss-astronauts-1851521917)
 * [2024-06-06, 18:31:04](https://news.ycombinator.com/item?id=40600775) - [Dragonfly: A large vision-language model with multi-resolution zoom](https://www.together.ai/blog/dragonfly-v1)
@@ -19,6 +18,7 @@
 * [2024-06-06, 13:02:48](https://news.ycombinator.com/item?id=40596883) - [Super Heavy has splashed down in The Gulf of Mexico](https://twitter.com/SpaceX/status/1798701489097183286)
 * [2024-06-06, 12:42:13](https://news.ycombinator.com/item?id=40596711) - [Show HN: Synthesize TikZ Graphics Programs for Scientific Figures and Sketches](https://github.com/potamides/DeTikZify)
 * [2024-06-06, 12:39:01](https://news.ycombinator.com/item?id=40596689) - [AeroSpace is an i3-like tiling window manager for macOS](https://github.com/nikitabobko/AeroSpace)
+* [2024-06-06, 12:18:39](https://news.ycombinator.com/item?id=40596535) - [Brain overgrowth dictates autism severity, new research suggests](https://medicalxpress.com/news/2024-06-brain-overgrowth-dictates-autism-severity.html)
 * [2024-06-06, 10:55:32](https://news.ycombinator.com/item?id=40595920) - [Don Estridge: A misfit who built the IBM PC](https://every.to/the-crazy-ones/the-misfit-who-built-the-ibm-pc)
 * [2024-06-06, 10:24:23](https://news.ycombinator.com/item?id=40595741) - [I learned Vulkan and wrote a small game engine with it](https://edw.is/learning-vulkan/)
 * [2024-06-06, 09:48:59](https://news.ycombinator.com/item?id=40595499) - [Saint Michael Sword: Are the cathedrals really on a straight line?](https://geospatial.netlify.app/posts/gds-2024-04-20-cathedrals/)
