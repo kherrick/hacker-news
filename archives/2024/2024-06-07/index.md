@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-07](index.md)
 
+* [2024-06-07, 12:07:16](https://news.ycombinator.com/item?id=40607864) - [I rage-converted my RTX4090 into an eGPU](https://tanelpoder.com/posts/rtx4090-egpu/)
+* [2024-06-07, 12:03:22](https://news.ycombinator.com/item?id=40607825) - [Software MVPs can no longer be low quality](https://threadreaderapp.com/thread/1798770556571144638.html)
 * [2024-06-07, 12:00:03](https://news.ycombinator.com/item?id=40607794) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
 * [2024-06-07, 11:17:20](https://news.ycombinator.com/item?id=40607476) - [Developer posts secret key on GitHub, loses $40K in 2 minutes](https://cointelegraph.com/news/web3-dev-loses-40k-github-key-leak)
 * [2024-06-07, 11:12:02](https://news.ycombinator.com/item?id=40607442) - [Cancel Adobe if you are a creative under NDA with your clients](https://twitter.com/Stretchedwiener/status/1798153619285708909)

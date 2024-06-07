@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-07, 12:07:16](https://news.ycombinator.com/item?id=40607864) - [I rage-converted my RTX4090 into an eGPU](https://tanelpoder.com/posts/rtx4090-egpu/)
+* [2024-06-07, 12:03:22](https://news.ycombinator.com/item?id=40607825) - [Software MVPs can no longer be low quality](https://threadreaderapp.com/thread/1798770556571144638.html)
 * [2024-06-07, 12:00:03](https://news.ycombinator.com/item?id=40607794) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
 * [2024-06-07, 11:17:20](https://news.ycombinator.com/item?id=40607476) - [Developer posts secret key on GitHub, loses $40K in 2 minutes](https://cointelegraph.com/news/web3-dev-loses-40k-github-key-leak)
-* [2024-06-07, 11:12:02](https://news.ycombinator.com/item?id=40607442) - [Cancel Adobe if you are a creative under NDA with your clients](https://twitter.com/Stretchedwiener/status/1798153619285708909)
 * [2024-06-07, 10:42:03](https://news.ycombinator.com/item?id=40607273) - [What is the \"God Mode\" folder in Windows 10, and how do I enable it?](https://www.howtogeek.com/402458/enable-god-mode-in-windows-10/)
 * [2024-06-07, 10:37:22](https://news.ycombinator.com/item?id=40607244) - [I was denied tenure – how do I cope?](https://www.nature.com/articles/d41586-024-01694-1)
 * [2024-06-07, 10:03:22](https://news.ycombinator.com/item?id=40607060) - [The Twitch DJ Program](https://blog.twitch.tv/en/2024/06/06/introducing-the-twitch-dj-program/)
@@ -21,7 +22,6 @@
 * [2024-06-06, 13:35:24](https://news.ycombinator.com/item?id=40597249) - [Martha Gellhorn, the only woman to report on the D-Day landings from the ground](https://www.smithsonianmag.com/history/martha-gellhorn-was-the-only-woman-to-report-on-the-d-day-landings-from-the-ground-180984456/)
 * [2024-06-06, 13:32:36](https://news.ycombinator.com/item?id=40597216) - [Roman Roads (2017)](https://sashamaps.net/docs/maps/roman-roads-original/)
 * [2024-06-06, 13:02:48](https://news.ycombinator.com/item?id=40596883) - [Super Heavy has splashed down in The Gulf of Mexico](https://twitter.com/SpaceX/status/1798701489097183286)
-* [2024-06-06, 12:42:13](https://news.ycombinator.com/item?id=40596711) - [Show HN: Synthesize TikZ Graphics Programs for Scientific Figures and Sketches](https://github.com/potamides/DeTikZify)
 * [2024-06-06, 12:39:01](https://news.ycombinator.com/item?id=40596689) - [AeroSpace is an i3-like tiling window manager for macOS](https://github.com/nikitabobko/AeroSpace)
 * [2024-06-06, 12:18:39](https://news.ycombinator.com/item?id=40596535) - [Brain overgrowth dictates autism severity, new research suggests](https://medicalxpress.com/news/2024-06-brain-overgrowth-dictates-autism-severity.html)
 * [2024-06-06, 10:55:32](https://news.ycombinator.com/item?id=40595920) - [Don Estridge: A misfit who built the IBM PC](https://every.to/the-crazy-ones/the-misfit-who-built-the-ibm-pc)
