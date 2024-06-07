@@ -4,7 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-06-07](index.md)
 
+* [2024-06-07, 16:05:08](https://news.ycombinator.com/item?id=40609952) - [Washington Post CEO tried to kill story about himself. It wasn't the first time](https://www.npr.org/2024/06/07/nx-s1-4995105/washington-post-will-lewis-tries-to-kill-story-buzbee)
+* [2024-06-07, 16:02:17](https://news.ycombinator.com/item?id=40609922) - [270GB of source code from The New York Times leaked to 4Chan](https://twitter.com/vxunderground/status/1798856571931263480)
+* [2024-06-07, 16:01:13](https://news.ycombinator.com/item?id=40609908) - [We migrated from AWS to GCP with minimal downtime](https://postgresml.org/blog/how-we-migrated-from-aws-to-gcp-with-minimal-downtime)
+* [2024-06-07, 15:54:32](https://news.ycombinator.com/item?id=40609838) - [Ask HN: How to revoke AI consent from Meta/IG?](https://news.ycombinator.com/item?id=40609838)
+* [2024-06-07, 15:51:31](https://news.ycombinator.com/item?id=40609819) - [Workers at TJ Maxx and Marshalls are wearing police-like body cameras](https://www.cnn.com/2024/06/05/business/tj-maxx-body-cameras-shoplifting/index.html)
 * [2024-06-07, 15:28:02](https://news.ycombinator.com/item?id=40609599) - [Illegally parked cars are now getting hit by this dystopian windscreen barnacle](https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/forget-wheel-clamps-illegally-parked-cars-are-now-getting-hit-by-this-dystopian-windscreen-barnacle)
+* [2024-06-07, 15:24:54](https://news.ycombinator.com/item?id=40609574) - [Adobe Photoshop's New Terms of Service Demands the Right to Access Your Work](https://lifehacker.com/tech/photoshops-terms-of-service-demands-the-right-to-your-content)
 * [2024-06-07, 15:03:10](https://news.ycombinator.com/item?id=40609388) - [Microsoft's Recall is already exploited](https://github.com/Pennyw0rth/NetExec/pull/335)
 * [2024-06-07, 14:55:48](https://news.ycombinator.com/item?id=40609326) - [LedgerStore Supports Trillions of Indexes at Uber](https://www.uber.com/blog/how-ledgerstore-supports-trillions-of-indexes/?uclick_id=67d612cb-12f8-470a-98fd-e9f7144dfafb)
 * [2024-06-07, 14:33:05](https://news.ycombinator.com/item?id=40609126) - [Recovery after HP tech support bricked my father's laptop](https://github.com/ctag/hp_envy_reviver)
