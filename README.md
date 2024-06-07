@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-07, 03:47:30](https://news.ycombinator.com/item?id=40605130) - [How to build a DOA product: Humane AI Pin founders banned internal criticism](https://arstechnica.com/gadgets/2024/06/report-humane-ai-pin-did-7-million-in-sales-wants-to-sell-for-1-billion/)
-* [2024-06-07, 03:23:09](https://news.ycombinator.com/item?id=40605000) - [eBay will no longer accept American Express cards over 'unacceptably high' fees](https://www.theverge.com/2024/6/6/24173108/ebay-american-express-payment-fees)
+* [2024-06-07, 05:11:21](https://news.ycombinator.com/item?id=40605530) - [The \"full-stack framework\" fallacy](https://stack.convex.dev/full-stack-framework-fallacy)
+* [2024-06-07, 04:49:07](https://news.ycombinator.com/item?id=40605445) - [Ask HN: How do you juggle side projects vs. \"just for fun\" projects](https://news.ycombinator.com/item?id=40605445)
 * [2024-06-07, 03:17:51](https://news.ycombinator.com/item?id=40604972) - [Stupid Slow: The Perceived Speed of Computers](https://www.datagubbe.se/stupidslow/)
 * [2024-06-07, 01:59:21](https://news.ycombinator.com/item?id=40604596) - [CPU Energy Meter: A tool for measuring energy consumption of Intel CPUs](https://github.com/sosy-lab/cpu-energy-meter)
 * [2024-06-07, 01:00:55](https://news.ycombinator.com/item?id=40604246) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=40604246)
