@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-07, 11:12:02](https://news.ycombinator.com/item?id=40607442) - [Cancel Adobe if you are a creative under NDA with your clients](https://twitter.com/Stretchedwiener/status/1798153619285708909)
+* [2024-06-07, 10:37:22](https://news.ycombinator.com/item?id=40607244) - [I was denied tenure – how do I cope?](https://www.nature.com/articles/d41586-024-01694-1)
 * [2024-06-07, 10:03:22](https://news.ycombinator.com/item?id=40607060) - [The Twitch DJ Program](https://blog.twitch.tv/en/2024/06/06/introducing-the-twitch-dj-program/)
 * [2024-06-07, 09:52:54](https://news.ycombinator.com/item?id=40607017) - [Alan Turing died 70 years ago](https://en.wikipedia.org/wiki/Alan_Turing)
 * [2024-06-07, 09:15:16](https://news.ycombinator.com/item?id=40606802) - [Samsung union stages its first ever strike](https://www.theregister.com/2024/06/07/samsung_union_strike/)
@@ -29,7 +30,6 @@
 * [2024-06-05, 11:24:21](https://news.ycombinator.com/item?id=40583632) - [Hybrid Bonding: 3D Chip Tech to Save Moore's Law](https://spectrum.ieee.org/hybrid-bonding)
 * [2024-06-05, 07:57:12](https://news.ycombinator.com/item?id=40582475) - [Kiosk mode bypass for an Ariane Allegro Scenario Player based hotel check-in te](https://www.pentagrid.ch/en/blog/ariane-allegro-hotel-check-in-terminal-kios-escape/)
 * [2024-06-05, 07:37:38](https://news.ycombinator.com/item?id=40582357) - [Show HN: 2d web paddle game](https://raould.github.io/pn0gstr0m/)
-* [2024-06-05, 04:57:26](https://news.ycombinator.com/item?id=40581519) - [Reading awc](https://akamayu-ouo.srht.site/2024-06-01-ksimple)
 
 ## [Archives](archives/index.md)
 
