@@ -43,6 +43,7 @@
 * [2024-06-06, 17:55:28](https://news.ycombinator.com/item?id=40600384) - [Let Rand = Main as Usize](https://codeandbitters.com/main-as-usize/)
 * [2024-06-06, 17:52:02](https://news.ycombinator.com/item?id=40600343) - [US eyes antitrust investigation against Nvidia as market value surpasses $3T](https://www.semafor.com/article/06/06/2024/us-government-doj-antitrust-nvidia-semiconductor-chips-artificial-intelligence)
 * [2024-06-06, 17:47:35](https://news.ycombinator.com/item?id=40600310) - [Bill Ackman Wants a Lot of Your Money](https://www.bloomberg.com/opinion/articles/2024-06-06/bill-ackman-wants-a-lot-of-your-money)
+* [2024-06-06, 17:32:50](https://news.ycombinator.com/item?id=40600145) - ['Cold lava' floods Philippines village after eruption](https://www.bbc.com/news/videos/c3gg5g0z4g6o)
 * [2024-06-06, 17:27:27](https://news.ycombinator.com/item?id=40600086) - [US Regulators to Open Antitrust Inquiries of Microsoft, OpenAI and Nvidia](https://www.insurancejournal.com/news/national/2024/06/06/778447.htm)
 * [2024-06-06, 17:27:08](https://news.ycombinator.com/item?id=40600083) - [Yarn (YC W24) Is Hiring Founding Engineers in NYC](https://www.workatastartup.com/jobs/66928)
 * [2024-06-06, 17:24:32](https://news.ycombinator.com/item?id=40600052) - ['Washington Post' publisher tried to kill a story about allegations against him](https://text.npr.org/nx-s1-4995105)

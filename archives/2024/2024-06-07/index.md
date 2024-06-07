@@ -9,6 +9,7 @@
 * [2024-06-07, 20:01:08](https://news.ycombinator.com/item?id=40612365) - [The aging U.S. power grid is about to get a jolt](https://www.wsj.com/business/energy-oil/the-aging-u-s-power-grid-is-about-to-get-a-jolt-144e7fdc)
 * [2024-06-07, 19:57:03](https://news.ycombinator.com/item?id=40612321) - [Why are debut novels failing to launch?](https://www.esquire.com/entertainment/books/a60924704/debut-fiction-challenges/)
 * [2024-06-07, 19:56:38](https://news.ycombinator.com/item?id=40612318) - [Clues to disappearance of North America's large mammals 50k years ago](https://phys.org/news/2024-05-clues-mysterious-north-america-large.html)
+* [2024-06-07, 19:53:38](https://news.ycombinator.com/item?id=40612285) - [Feynman's Razor (if an expert can't understand, you've dumbed it down too much)](https://defenderofthebasic.substack.com/p/feynmans-razor)
 * [2024-06-07, 19:53:32](https://news.ycombinator.com/item?id=40612281) - [Fighting an anti-doping finding](https://lizzybanks.co.uk/2024/05/15/hello-world/)
 * [2024-06-07, 19:15:29](https://news.ycombinator.com/item?id=40611925) - [Zig Goals](https://github.com/ziglang/zig/tree/4236b85c722b36cb31595634bae0ff28d6082761)
 * [2024-06-07, 18:45:59](https://news.ycombinator.com/item?id=40611638) - [Alarms in Medical Equipment](https://th.id.au/alarms/)
