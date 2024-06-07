@@ -12,6 +12,7 @@
 * [2024-06-07, 16:47:28](https://news.ycombinator.com/item?id=40610435) - [Microsoft Will Switch Off Recall by Default After Security Backlash](https://www.wired.com/story/microsoft-recall-off-default-security-concerns/)
 * [2024-06-07, 16:32:25](https://news.ycombinator.com/item?id=40610239) - [Boeing 737 flight from UK was 'seconds from disaster after software glitch'](https://metro.co.uk/2024/06/07/boeing-737-flight-uk-seconds-disaster-glitch-20990507/)
 * [2024-06-07, 16:27:09](https://news.ycombinator.com/item?id=40610181) - [Lite.cnn.com](https://lite.cnn.com/)
+* [2024-06-07, 16:23:08](https://news.ycombinator.com/item?id=40610133) - [Gravity Without Mass: UAH Study Proposes Alternative to Dark Matter](https://www.azoquantum.com/News.aspx?newsID=10305)
 * [2024-06-07, 16:09:07](https://news.ycombinator.com/item?id=40609986) - [Zany ideas to slow polar melting are gathering momentum](https://www.economist.com/science-and-technology/2024/06/06/zany-ideas-to-slow-polar-melting-are-gathering-momentum)
 * [2024-06-07, 16:07:25](https://news.ycombinator.com/item?id=40609968) - [Writing memory safe JIT compilers](https://medium.com/graalvm/writing-truly-memory-safe-jit-compilers-f79ad44558dd)
 * [2024-06-07, 16:05:08](https://news.ycombinator.com/item?id=40609952) - [Washington Post CEO tried to kill story about himself. It wasn't the first time](https://www.npr.org/2024/06/07/nx-s1-4995105/washington-post-will-lewis-tries-to-kill-story-buzbee)
