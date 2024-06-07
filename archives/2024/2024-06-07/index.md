@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-07](index.md)
 
+* [2024-06-07, 05:11:58](https://news.ycombinator.com/item?id=40605532) - [Ice - open source bar manager for macOS](https://github.com/jordanbaird/Ice)
 * [2024-06-07, 05:11:21](https://news.ycombinator.com/item?id=40605530) - [The \"full-stack framework\" fallacy](https://stack.convex.dev/full-stack-framework-fallacy)
 * [2024-06-07, 04:49:07](https://news.ycombinator.com/item?id=40605445) - [Ask HN: How do you juggle side projects vs. \"just for fun\" projects](https://news.ycombinator.com/item?id=40605445)
 * [2024-06-07, 03:47:30](https://news.ycombinator.com/item?id=40605130) - [How to build a DOA product: Humane AI Pin founders banned internal criticism](https://arstechnica.com/gadgets/2024/06/report-humane-ai-pin-did-7-million-in-sales-wants-to-sell-for-1-billion/)
