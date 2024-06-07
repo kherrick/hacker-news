@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-07](index.md)
 
+* [2024-06-07, 10:03:22](https://news.ycombinator.com/item?id=40607060) - [The Twitch DJ Program](https://blog.twitch.tv/en/2024/06/06/introducing-the-twitch-dj-program/)
 * [2024-06-07, 09:52:54](https://news.ycombinator.com/item?id=40607017) - [Alan Turing died 70 years ago](https://en.wikipedia.org/wiki/Alan_Turing)
 * [2024-06-07, 09:15:16](https://news.ycombinator.com/item?id=40606802) - [Samsung union stages its first ever strike](https://www.theregister.com/2024/06/07/samsung_union_strike/)
 * [2024-06-07, 08:01:17](https://news.ycombinator.com/item?id=40606358) - [Show HN: Fluo – Immersive Chats](https://fluo.chat/)
