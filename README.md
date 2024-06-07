@@ -2,7 +2,7 @@
 
 * [2024-06-07, 07:24:16](https://news.ycombinator.com/item?id=40606119) - [Kling (Chinese Sora Alternative)](https://kling.kuaishou.com/mobile)
 * [2024-06-07, 07:07:39](https://news.ycombinator.com/item?id=40606044) - [Desktop Linux is an Untapped Gold Mine](https://gebna.gg/blog/desktop-linux-is-an-untapped-gold-mine)
-* [2024-06-07, 06:51:08](https://news.ycombinator.com/item?id=40605970) - [GNU JUSTIFIED PUBLIC LICENSE](http://tom7.org/bovex/JCOPYING)
+* [2024-06-07, 06:51:08](https://news.ycombinator.com/item?id=40605970) - [GNU Justified Public License (2007)](http://tom7.org/bovex/JCOPYING)
 * [2024-06-07, 05:11:58](https://news.ycombinator.com/item?id=40605532) - [Ice - open source bar manager for macOS](https://github.com/jordanbaird/Ice)
 * [2024-06-07, 03:17:51](https://news.ycombinator.com/item?id=40604972) - [Stupid Slow: The Perceived Speed of Computers](https://www.datagubbe.se/stupidslow/)
 * [2024-06-07, 01:59:21](https://news.ycombinator.com/item?id=40604596) - [CPU Energy Meter: A tool for measuring energy consumption of Intel CPUs](https://github.com/sosy-lab/cpu-energy-meter)
