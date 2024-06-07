@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2024-06-07, 11:53:27",
-      "https://news.ycombinator.com/item?id=40607733"
-    ],
-    [
-      "The illusion of state in state-space models",
-      "https://arxiv.org/abs/2404.08819"
-    ]
-  ],
-  [
-    [
       "2024-06-07, 10:47:22",
       "https://news.ycombinator.com/item?id=40607307"
     ],
@@ -287,6 +277,16 @@
     [
       "Attacking NIST SP 800-108 (Loss of Key Control Security)",
       "https://scottarc.blog/2024/06/04/attacking-nist-sp-800-108/"
+    ]
+  ],
+  [
+    [
+      "2024-06-06, 12:39:01",
+      "https://news.ycombinator.com/item?id=40596689"
+    ],
+    [
+      "AeroSpace is an i3-like tiling window manager for macOS",
+      "https://github.com/nikitabobko/AeroSpace"
     ]
   ],
   [
