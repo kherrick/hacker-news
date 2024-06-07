@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-07](index.md)
 
+* [2024-06-07, 11:12:02](https://news.ycombinator.com/item?id=40607442) - [Cancel Adobe if you are a creative under NDA with your clients](https://twitter.com/Stretchedwiener/status/1798153619285708909)
 * [2024-06-07, 10:03:22](https://news.ycombinator.com/item?id=40607060) - [The Twitch DJ Program](https://blog.twitch.tv/en/2024/06/06/introducing-the-twitch-dj-program/)
 * [2024-06-07, 09:52:54](https://news.ycombinator.com/item?id=40607017) - [Alan Turing died 70 years ago](https://en.wikipedia.org/wiki/Alan_Turing)
 * [2024-06-07, 09:15:16](https://news.ycombinator.com/item?id=40606802) - [Samsung union stages its first ever strike](https://www.theregister.com/2024/06/07/samsung_union_strike/)
@@ -13,6 +14,7 @@
 * [2024-06-07, 06:51:08](https://news.ycombinator.com/item?id=40605970) - [GNU JUSTIFIED PUBLIC LICENSE](http://tom7.org/bovex/JCOPYING)
 * [2024-06-07, 06:26:07](https://news.ycombinator.com/item?id=40605827) - [US has the highest rate of maternal deaths among rich nations. Norway has zero](https://www.cnn.com/2024/06/04/health/maternal-deaths-high-income-nations/index.html)
 * [2024-06-07, 06:06:16](https://news.ycombinator.com/item?id=40605748) - [Google accidentally published internal Search documentation to GitHub](https://arstechnica.com/gadgets/2024/06/google-accidentally-published-internal-search-documentation-to-github/)
+* [2024-06-07, 05:26:34](https://news.ycombinator.com/item?id=40605586) - [Dblab: Interactive Terminal Client for PostgreSQL, MySQL, SQLite3 and Oracle](https://github.com/danvergara/dblab)
 * [2024-06-07, 05:11:58](https://news.ycombinator.com/item?id=40605532) - [Ice - open source bar manager for macOS](https://github.com/jordanbaird/Ice)
 * [2024-06-07, 05:11:21](https://news.ycombinator.com/item?id=40605530) - [The \"full-stack framework\" fallacy](https://stack.convex.dev/full-stack-framework-fallacy)
 * [2024-06-07, 04:49:07](https://news.ycombinator.com/item?id=40605445) - [Ask HN: How do you juggle side projects vs. \"just for fun\" projects](https://news.ycombinator.com/item?id=40605445)
