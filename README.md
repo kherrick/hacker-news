@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-07, 06:51:08](https://news.ycombinator.com/item?id=40605970) - [GNU JUSTIFIED PUBLIC LICENSE](http://tom7.org/bovex/JCOPYING)
 * [2024-06-07, 06:26:07](https://news.ycombinator.com/item?id=40605827) - [US has the highest rate of maternal deaths among rich nations. Norway has zero](https://www.cnn.com/2024/06/04/health/maternal-deaths-high-income-nations/index.html)
 * [2024-06-07, 05:11:58](https://news.ycombinator.com/item?id=40605532) - [Ice - open source bar manager for macOS](https://github.com/jordanbaird/Ice)
 * [2024-06-07, 03:17:51](https://news.ycombinator.com/item?id=40604972) - [Stupid Slow: The Perceived Speed of Computers](https://www.datagubbe.se/stupidslow/)
@@ -28,7 +29,6 @@
 * [2024-06-05, 11:24:21](https://news.ycombinator.com/item?id=40583632) - [Hybrid Bonding: 3D Chip Tech to Save Moore's Law](https://spectrum.ieee.org/hybrid-bonding)
 * [2024-06-05, 07:57:12](https://news.ycombinator.com/item?id=40582475) - [Kiosk mode bypass for an Ariane Allegro Scenario Player based hotel check-in te](https://www.pentagrid.ch/en/blog/ariane-allegro-hotel-check-in-terminal-kios-escape/)
 * [2024-06-05, 07:37:38](https://news.ycombinator.com/item?id=40582357) - [Show HN: 2d web paddle game](https://raould.github.io/pn0gstr0m/)
-* [2024-06-05, 06:22:26](https://news.ycombinator.com/item?id=40581904) - [Compromised Visions Are Superior](https://ericnormand.substack.com/p/compromised-visions-are-superior)
 * [2024-06-05, 04:57:26](https://news.ycombinator.com/item?id=40581519) - [Reading awc](https://akamayu-ouo.srht.site/2024-06-01-ksimple)
 
 ## [Archives](archives/index.md)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-07](index.md)
 
+* [2024-06-07, 06:51:08](https://news.ycombinator.com/item?id=40605970) - [GNU JUSTIFIED PUBLIC LICENSE](http://tom7.org/bovex/JCOPYING)
 * [2024-06-07, 06:26:07](https://news.ycombinator.com/item?id=40605827) - [US has the highest rate of maternal deaths among rich nations. Norway has zero](https://www.cnn.com/2024/06/04/health/maternal-deaths-high-income-nations/index.html)
 * [2024-06-07, 06:06:16](https://news.ycombinator.com/item?id=40605748) - [Google accidentally published internal Search documentation to GitHub](https://arstechnica.com/gadgets/2024/06/google-accidentally-published-internal-search-documentation-to-github/)
 * [2024-06-07, 05:11:58](https://news.ycombinator.com/item?id=40605532) - [Ice - open source bar manager for macOS](https://github.com/jordanbaird/Ice)
