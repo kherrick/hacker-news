@@ -10,6 +10,7 @@
 * [2024-06-06, 18:59:34](https://news.ycombinator.com/item?id=40601116) - [AI in software engineering at Google: Progress and the path ahead](https://research.google/blog/ai-in-software-engineering-at-google-progress-and-the-path-ahead/)
 * [2024-06-06, 18:31:04](https://news.ycombinator.com/item?id=40600775) - [Dragonfly: A large vision-language model with multi-resolution zoom](https://www.together.ai/blog/dragonfly-v1)
 * [2024-06-06, 17:55:28](https://news.ycombinator.com/item?id=40600384) - [Let rand = main as usize (2022)](https://codeandbitters.com/main-as-usize/)
+* [2024-06-06, 17:09:58](https://news.ycombinator.com/item?id=40599857) - [Telegram Stars: Pay for Digital Goods and More](https://telegram.org/blog/telegram-stars)
 * [2024-06-06, 17:01:37](https://news.ycombinator.com/item?id=40599749) - [Extracting concepts from GPT-4](https://openai.com/index/extracting-concepts-from-gpt-4/)
 * [2024-06-06, 16:34:31](https://news.ycombinator.com/item?id=40599419) - [Show HN: XPipe, a brand-new type of remote file browser and shell connection hub](https://xpipe.io)
 * [2024-06-06, 16:01:13](https://news.ycombinator.com/item?id=40599018) - [Qwen2 LLM Released](https://qwenlm.github.io/blog/qwen2/)
@@ -29,7 +30,6 @@
 * [2024-06-05, 07:37:38](https://news.ycombinator.com/item?id=40582357) - [Show HN: 2d web paddle game](https://raould.github.io/pn0gstr0m/)
 * [2024-06-05, 06:22:26](https://news.ycombinator.com/item?id=40581904) - [Compromised Visions Are Superior](https://ericnormand.substack.com/p/compromised-visions-are-superior)
 * [2024-06-05, 04:57:26](https://news.ycombinator.com/item?id=40581519) - [Reading awc](https://akamayu-ouo.srht.site/2024-06-01-ksimple)
-* [2024-06-04, 23:13:28](https://news.ycombinator.com/item?id=40579892) - [Architectures for Central Server Collaboration](https://mattweidner.com/2024/06/04/server-architectures.html)
 
 ## [Archives](archives/index.md)
 
