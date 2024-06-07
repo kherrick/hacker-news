@@ -1,26 +1,6 @@
 [
   [
     [
-      "2024-06-07, 12:07:16",
-      "https://news.ycombinator.com/item?id=40607864"
-    ],
-    [
-      "I rage-converted my RTX4090 into an eGPU",
-      "https://tanelpoder.com/posts/rtx4090-egpu/"
-    ]
-  ],
-  [
-    [
-      "2024-06-07, 12:03:22",
-      "https://news.ycombinator.com/item?id=40607825"
-    ],
-    [
-      "Software MVPs can no longer be low quality",
-      "https://threadreaderapp.com/thread/1798770556571144638.html"
-    ]
-  ],
-  [
-    [
       "2024-06-07, 12:00:03",
       "https://news.ycombinator.com/item?id=40607794"
     ],
@@ -41,22 +21,12 @@
   ],
   [
     [
-      "2024-06-07, 10:42:03",
-      "https://news.ycombinator.com/item?id=40607273"
+      "2024-06-07, 11:12:02",
+      "https://news.ycombinator.com/item?id=40607442"
     ],
     [
-      "What is the \"God Mode\" folder in Windows 10, and how do I enable it?",
-      "https://www.howtogeek.com/402458/enable-god-mode-in-windows-10/"
-    ]
-  ],
-  [
-    [
-      "2024-06-07, 10:37:22",
-      "https://news.ycombinator.com/item?id=40607244"
-    ],
-    [
-      "I was denied tenure – how do I cope?",
-      "https://www.nature.com/articles/d41586-024-01694-1"
+      "Cancel Adobe if you are a creative under NDA with your clients",
+      "https://twitter.com/Stretchedwiener/status/1798153619285708909"
     ]
   ],
   [
@@ -67,16 +37,6 @@
     [
       "The Twitch DJ Program",
       "https://blog.twitch.tv/en/2024/06/06/introducing-the-twitch-dj-program/"
-    ]
-  ],
-  [
-    [
-      "2024-06-07, 09:52:54",
-      "https://news.ycombinator.com/item?id=40607017"
-    ],
-    [
-      "Alan Turing died 70 years ago",
-      "https://en.wikipedia.org/wiki/Alan_Turing"
     ]
   ],
   [
@@ -121,16 +81,6 @@
   ],
   [
     [
-      "2024-06-07, 00:34:56",
-      "https://news.ycombinator.com/item?id=40604093"
-    ],
-    [
-      "Generative AI Handbook: A Roadmap for Learning Resources",
-      "https://genai-handbook.github.io/"
-    ]
-  ],
-  [
-    [
       "2024-06-06, 20:40:58",
       "https://news.ycombinator.com/item?id=40602147"
     ],
@@ -147,6 +97,16 @@
     [
       "AI in software engineering at Google: Progress and the path ahead",
       "https://research.google/blog/ai-in-software-engineering-at-google-progress-and-the-path-ahead/"
+    ]
+  ],
+  [
+    [
+      "2024-06-06, 18:31:04",
+      "https://news.ycombinator.com/item?id=40600775"
+    ],
+    [
+      "Dragonfly: A large vision-language model with multi-resolution zoom",
+      "https://www.together.ai/blog/dragonfly-v1"
     ]
   ],
   [
@@ -177,6 +137,16 @@
     [
       "Show HN: XPipe, a brand-new type of remote file browser and shell connection hub",
       "https://xpipe.io"
+    ]
+  ],
+  [
+    [
+      "2024-06-06, 16:01:13",
+      "https://news.ycombinator.com/item?id=40599018"
+    ],
+    [
+      "Qwen2 LLM Released",
+      "https://qwenlm.github.io/blog/qwen2/"
     ]
   ],
   [
@@ -217,6 +187,16 @@
     [
       "Super Heavy has splashed down in The Gulf of Mexico",
       "https://twitter.com/SpaceX/status/1798701489097183286"
+    ]
+  ],
+  [
+    [
+      "2024-06-06, 12:42:13",
+      "https://news.ycombinator.com/item?id=40596711"
+    ],
+    [
+      "Show HN: Synthesize TikZ Graphics Programs for Scientific Figures and Sketches",
+      "https://github.com/potamides/DeTikZify"
     ]
   ],
   [
@@ -281,6 +261,16 @@
   ],
   [
     [
+      "2024-06-05, 16:06:05",
+      "https://news.ycombinator.com/item?id=40586654"
+    ],
+    [
+      "Squatting in Spain: Understanding Spain's \"okupas\" problem",
+      "https://www.idealista.com/en/news/legal-advice-in-spain/2024/04/15/816509-squatting-in-spain-understanding-spain-s-okupas-problem"
+    ]
+  ],
+  [
+    [
       "2024-06-05, 07:57:12",
       "https://news.ycombinator.com/item?id=40582475"
     ],
@@ -297,6 +287,16 @@
     [
       "Show HN: 2d web paddle game",
       "https://raould.github.io/pn0gstr0m/"
+    ]
+  ],
+  [
+    [
+      "2024-06-05, 04:57:26",
+      "https://news.ycombinator.com/item?id=40581519"
+    ],
+    [
+      "Reading awc",
+      "https://akamayu-ouo.srht.site/2024-06-01-ksimple"
     ]
   ]
 ]
