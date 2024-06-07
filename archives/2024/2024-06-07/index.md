@@ -18,6 +18,7 @@
 * [2024-06-07, 15:03:10](https://news.ycombinator.com/item?id=40609388) - [Microsoft's Recall is already exploited](https://github.com/Pennyw0rth/NetExec/pull/335)
 * [2024-06-07, 14:55:48](https://news.ycombinator.com/item?id=40609326) - [LedgerStore Supports Trillions of Indexes at Uber](https://www.uber.com/blog/how-ledgerstore-supports-trillions-of-indexes/?uclick_id=67d612cb-12f8-470a-98fd-e9f7144dfafb)
 * [2024-06-07, 14:33:05](https://news.ycombinator.com/item?id=40609126) - [Recovery after HP tech support bricked my father's laptop](https://github.com/ctag/hp_envy_reviver)
+* [2024-06-07, 14:10:57](https://news.ycombinator.com/item?id=40608919) - [100% of Cancer Patients Cured Long-Term in Human Trial](https://us.gsk.com/en-us/media/press-releases/jemperli-dostarlimab-gxly-trial-continues-to-show-unprecedented-results/)
 * [2024-06-07, 13:32:26](https://news.ycombinator.com/item?id=40608539) - [Don't name packages common nouns](https://brandur.org/fragments/go-no-common-nouns)
 * [2024-06-07, 13:18:10](https://news.ycombinator.com/item?id=40608439) - [Andrew Ng on AI Regulation](https://twitter.com/AndrewYNg/status/1788648531873628607)
 * [2024-06-07, 13:12:31](https://news.ycombinator.com/item?id=40608413) - [Σ-GPTs: A New Approach to Autoregressive Models](https://arxiv.org/abs/2404.09562)
