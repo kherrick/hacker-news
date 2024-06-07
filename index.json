@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-06-07, 20:08:07",
+      "https://news.ycombinator.com/item?id=40612445"
+    ],
+    [
+      "D-Day, as told by paratroopers",
+      "https://www.politico.com/news/magazine/2024/06/06/d-day-normandy-world-war-ii-paratroopers-00161916?ref=thebrowser.com"
+    ]
+  ],
+  [
+    [
+      "2024-06-07, 19:56:38",
+      "https://news.ycombinator.com/item?id=40612318"
+    ],
+    [
+      "Clues to disappearance of North America's large mammals 50k years ago",
+      "https://phys.org/news/2024-05-clues-mysterious-north-america-large.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-07, 19:53:32",
+      "https://news.ycombinator.com/item?id=40612281"
+    ],
+    [
+      "Fighting an anti-doping finding",
+      "https://lizzybanks.co.uk/2024/05/15/hello-world/"
+    ]
+  ],
+  [
+    [
       "2024-06-07, 19:15:29",
       "https://news.ycombinator.com/item?id=40611925"
     ],
@@ -21,12 +51,12 @@
   ],
   [
     [
-      "2024-06-07, 17:26:34",
-      "https://news.ycombinator.com/item?id=40610794"
+      "2024-06-07, 17:51:37",
+      "https://news.ycombinator.com/item?id=40611058"
     ],
     [
-      "Ask HN: Machine Learning Engineers, what do you do at work?",
-      "https://news.ycombinator.com/item?id=40610794"
+      "How Mount Everest killed George Mallory",
+      "https://thespectator.com/book-and-art/mount-everest-killed-george-mallory-mick-conefrey-fallen/"
     ]
   ],
   [
@@ -47,16 +77,6 @@
     [
       "OpenSSH introduces options to penalize undesirable behavior",
       "https://undeadly.org/cgi?action=article;sid=20240607042157"
-    ]
-  ],
-  [
-    [
-      "2024-06-07, 17:02:25",
-      "https://news.ycombinator.com/item?id=40610574"
-    ],
-    [
-      "Webring Starter: a modern, simple webring",
-      "https://github.com/krusynth/webring-starter"
     ]
   ],
   [
@@ -91,12 +111,12 @@
   ],
   [
     [
-      "2024-06-07, 15:16:09",
-      "https://news.ycombinator.com/item?id=40609499"
+      "2024-06-07, 15:21:16",
+      "https://news.ycombinator.com/item?id=40609541"
     ],
     [
-      "Motile Living Biobots Self-Construct from Human Somatic Progenitor Seed Cells",
-      "https://onlinelibrary.wiley.com/doi/epdf/10.1002/advs.202303575"
+      "Shopify acquires Threads (no, not that one)",
+      "https://techcrunch.com/2024/06/07/shopify-acquires-threads-no-not-that-one/"
     ]
   ],
   [
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2024-06-07, 10:47:22",
-      "https://news.ycombinator.com/item?id=40607307"
+      "2024-06-07, 10:44:27",
+      "https://news.ycombinator.com/item?id=40607289"
     ],
     [
-      "We Are Made of Waves",
-      "https://nautil.us/we-are-made-of-waves-640732/"
-    ]
-  ],
-  [
-    [
-      "2024-06-07, 09:36:48",
-      "https://news.ycombinator.com/item?id=40606924"
-    ],
-    [
-      "Secret Hand Gestures in Paintings (2019)",
-      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233791/"
-    ]
-  ],
-  [
-    [
-      "2024-06-07, 06:25:21",
-      "https://news.ycombinator.com/item?id=40605824"
-    ],
-    [
-      "Cracking the Scheduling Code in Hay Day",
-      "https://thinhcorner.com/blog/hayday-game-schedule"
+      "The flip-flop on whether alcohol is good for you (2023)",
+      "https://slate.com/technology/2023/04/alcohol-wine-drinking-healthy-dangerous-study.html"
     ]
   ],
   [
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=40605532"
     ],
     [
-      "Ice - open source bar manager for macOS",
+      "Ice – open source menu bar manager for macOS",
       "https://github.com/jordanbaird/Ice"
     ]
   ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2024-06-06, 19:25:24",
-      "https://news.ycombinator.com/item?id=40601356"
+      "2024-06-05, 17:39:39",
+      "https://news.ycombinator.com/item?id=40587934"
     ],
     [
-      "Attacking NIST SP 800-108 (Loss of Key Control Security)",
-      "https://scottarc.blog/2024/06/04/attacking-nist-sp-800-108/"
+      "LaTeX is the first PDF/UA-2 compliance accessible PDF producer",
+      "https://github.com/latex3/tagging-project/discussions/72"
     ]
   ],
   [
