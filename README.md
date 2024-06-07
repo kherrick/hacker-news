@@ -2,7 +2,6 @@
 
 * [2024-06-07, 19:15:29](https://news.ycombinator.com/item?id=40611925) - [Zig Goals](https://github.com/ziglang/zig/tree/4236b85c722b36cb31595634bae0ff28d6082761)
 * [2024-06-07, 18:45:59](https://news.ycombinator.com/item?id=40611638) - [Alarms in Medical Equipment](https://th.id.au/alarms/)
-* [2024-06-07, 18:34:40](https://news.ycombinator.com/item?id=40611531) - [YouTube is A/B testing limiting logged out access to videos](https://twitter.com/justusecobalt/status/1799043789967036620)
 * [2024-06-07, 17:26:34](https://news.ycombinator.com/item?id=40610794) - [Ask HN: Machine Learning Engineers, what do you do at work?](https://news.ycombinator.com/item?id=40610794)
 * [2024-06-07, 17:10:00](https://news.ycombinator.com/item?id=40610641) - [ASCII Silhouettify](https://meatfighter.com/ascii-silhouettify/)
 * [2024-06-07, 17:08:23](https://news.ycombinator.com/item?id=40610621) - [OpenSSH introduces options to penalize undesirable behavior](https://undeadly.org/cgi?action=article;sid=20240607042157)
@@ -14,6 +13,7 @@
 * [2024-06-07, 15:14:29](https://news.ycombinator.com/item?id=40609485) - [Turn On, Tune In, Write Code](https://www.thenewatlantis.com/publications/turn-on-tune-in-write-code)
 * [2024-06-07, 14:55:48](https://news.ycombinator.com/item?id=40609326) - [LedgerStore Supports Trillions of Indexes at Uber](https://www.uber.com/blog/how-ledgerstore-supports-trillions-of-indexes/?uclick_id=67d612cb-12f8-470a-98fd-e9f7144dfafb)
 * [2024-06-07, 13:42:02](https://news.ycombinator.com/item?id=40608615) - [Italian streets that don't exist on any map (2022)](https://www.atlasobscura.com/articles/italian-streets-not-on-map)
+* [2024-06-07, 13:29:35](https://news.ycombinator.com/item?id=40608523) - [The Man Who Reinvented the Cat](https://www.newyorker.com/magazine/2024/06/10/catland-louis-wain-and-the-great-cat-mania-kathryn-hughes-book-review)
 * [2024-06-07, 13:12:31](https://news.ycombinator.com/item?id=40608413) - [Σ-GPTs: A New Approach to Autoregressive Models](https://arxiv.org/abs/2404.09562)
 * [2024-06-07, 13:06:43](https://news.ycombinator.com/item?id=40608373) - [Instruction Sets Should Be Free: The Case for RISC-V [pdf] (2014)](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-146.pdf)
 * [2024-06-07, 13:01:15](https://news.ycombinator.com/item?id=40608332) - [Tom 7: Badness 0 (Three ways)](http://tom7.org/bovex/)

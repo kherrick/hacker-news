@@ -34,6 +34,7 @@
 * [2024-06-07, 14:10:57](https://news.ycombinator.com/item?id=40608919) - [100% of Cancer Patients Cured Long-Term in Human Trial](https://us.gsk.com/en-us/media/press-releases/jemperli-dostarlimab-gxly-trial-continues-to-show-unprecedented-results/)
 * [2024-06-07, 13:42:02](https://news.ycombinator.com/item?id=40608615) - [Italian streets that don't exist on any map](https://www.atlasobscura.com/articles/italian-streets-not-on-map)
 * [2024-06-07, 13:32:26](https://news.ycombinator.com/item?id=40608539) - [Don't name packages common nouns](https://brandur.org/fragments/go-no-common-nouns)
+* [2024-06-07, 13:29:35](https://news.ycombinator.com/item?id=40608523) - [The Man Who Reinvented the Cat](https://www.newyorker.com/magazine/2024/06/10/catland-louis-wain-and-the-great-cat-mania-kathryn-hughes-book-review)
 * [2024-06-07, 13:18:10](https://news.ycombinator.com/item?id=40608439) - [Andrew Ng on AI Regulation](https://twitter.com/AndrewYNg/status/1788648531873628607)
 * [2024-06-07, 13:12:31](https://news.ycombinator.com/item?id=40608413) - [Σ-GPTs: A New Approach to Autoregressive Models](https://arxiv.org/abs/2404.09562)
 * [2024-06-07, 13:06:43](https://news.ycombinator.com/item?id=40608373) - [Instruction Sets Should Be Free: The Case for RISC-V [pdf] (2014)](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-146.pdf)
