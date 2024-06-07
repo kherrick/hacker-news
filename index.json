@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2024-06-07, 19:15:29",
-      "https://news.ycombinator.com/item?id=40611925"
-    ],
-    [
-      "Zig Goals",
-      "https://github.com/ziglang/zig/tree/4236b85c722b36cb31595634bae0ff28d6082761"
-    ]
-  ],
-  [
-    [
       "2024-06-07, 18:45:59",
       "https://news.ycombinator.com/item?id=40611638"
     ],
@@ -121,22 +111,22 @@
   ],
   [
     [
+      "2024-06-07, 16:23:08",
+      "https://news.ycombinator.com/item?id=40610133"
+    ],
+    [
+      "Gravity Without Mass: UAH Study Proposes Alternative to Dark Matter",
+      "https://www.azoquantum.com/News.aspx?newsID=10305"
+    ]
+  ],
+  [
+    [
       "2024-06-07, 16:07:25",
       "https://news.ycombinator.com/item?id=40609968"
     ],
     [
       "Writing memory safe JIT compilers",
       "https://medium.com/graalvm/writing-truly-memory-safe-jit-compilers-f79ad44558dd"
-    ]
-  ],
-  [
-    [
-      "2024-06-07, 15:21:16",
-      "https://news.ycombinator.com/item?id=40609541"
-    ],
-    [
-      "Shopify acquires Threads (no, not that one)",
-      "https://techcrunch.com/2024/06/07/shopify-acquires-threads-no-not-that-one/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "How the Creation of the Bahai House of Worship Changed Architecture (2023)",
       "https://design.newcity.com/2023/11/01/concrete-faith-how-the-creation-of-the-bahai-house-of-worship-changed-the-course-of-architecture-cab-2023/"
+    ]
+  ],
+  [
+    [
+      "2024-06-06, 21:52:02",
+      "https://news.ycombinator.com/item?id=40602792"
+    ],
+    [
+      "Saving Three Months of Latency with a Single OpenTelemetry Trace",
+      "https://www.checklyhq.com/blog/coralogix-and-opentelemetry-on-checkly/"
     ]
   ],
   [
