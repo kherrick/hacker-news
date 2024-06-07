@@ -9,6 +9,7 @@
 * [2024-06-06, 23:36:20](https://news.ycombinator.com/item?id=40603692) - [Uganda's Sweeping Surveillance State Is Built on National ID Cards](https://www.bloomberg.com/news/features/2024-06-04/uganda-yoweri-museveni-s-critics-targeted-via-biometric-id-system)
 * [2024-06-06, 23:28:41](https://news.ycombinator.com/item?id=40603625) - [Make Your Program Slower with Threads](https://brooker.co.za/blog/2014/12/06/random.html)
 * [2024-06-06, 23:13:02](https://news.ycombinator.com/item?id=40603515) - [Shopify is acquiring the Threads team](https://twitter.com/rousseaukazi/status/1798724339841319186)
+* [2024-06-06, 23:12:02](https://news.ycombinator.com/item?id=40603509) - [How the Creation of the Bahai House of Worship Changed Architecture (2023)](https://design.newcity.com/2023/11/01/concrete-faith-how-the-creation-of-the-bahai-house-of-worship-changed-the-course-of-architecture-cab-2023/)
 * [2024-06-06, 22:56:05](https://news.ycombinator.com/item?id=40603376) - [Oklahoma Stakes Its Claim to the Tallest Building in the U.S.](https://www.nytimes.com/2024/06/06/realestate/oklahoma-tallest-building.html)
 * [2024-06-06, 22:44:52](https://news.ycombinator.com/item?id=40603259) - [Driver AI (YC W24) Is Hiring a Senior Front-End Engineer](https://www.ycombinator.com/companies/driver-ai/jobs/V2OQgdd-senior-frontend-engineer)
 * [2024-06-06, 22:39:20](https://news.ycombinator.com/item?id=40603205) - [How Apple Fell Behind in the AI Arms Race](https://www.wsj.com/tech/ai/apple-ai-siri-development-behind-9ea65ee8)
