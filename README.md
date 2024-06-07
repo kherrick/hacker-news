@@ -1,12 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-07, 16:32:25](https://news.ycombinator.com/item?id=40610239) - [Boeing 737 flight from UK was 'seconds from disaster after software glitch'](https://metro.co.uk/2024/06/07/boeing-737-flight-uk-seconds-disaster-glitch-20990507/)
-* [2024-06-07, 16:27:09](https://news.ycombinator.com/item?id=40610181) - [Lite.cnn.com](https://lite.cnn.com/)
 * [2024-06-07, 16:09:07](https://news.ycombinator.com/item?id=40609986) - [Zany ideas to slow polar melting are gathering momentum](https://www.economist.com/science-and-technology/2024/06/06/zany-ideas-to-slow-polar-melting-are-gathering-momentum)
-* [2024-06-07, 16:02:17](https://news.ycombinator.com/item?id=40609922) - [270GB of source code from The New York Times leaked to 4Chan](https://twitter.com/vxunderground/status/1798856571931263480)
-* [2024-06-07, 16:01:13](https://news.ycombinator.com/item?id=40609908) - [We migrated from AWS to GCP with minimal downtime](https://postgresml.org/blog/how-we-migrated-from-aws-to-gcp-with-minimal-downtime)
-* [2024-06-07, 15:54:32](https://news.ycombinator.com/item?id=40609838) - [Ask HN: How to revoke AI consent from Meta/IG?](https://news.ycombinator.com/item?id=40609838)
+* [2024-06-07, 16:07:25](https://news.ycombinator.com/item?id=40609968) - [Writing memory safe JIT compilers](https://medium.com/graalvm/writing-truly-memory-safe-jit-compilers-f79ad44558dd)
 * [2024-06-07, 14:55:48](https://news.ycombinator.com/item?id=40609326) - [LedgerStore Supports Trillions of Indexes at Uber](https://www.uber.com/blog/how-ledgerstore-supports-trillions-of-indexes/?uclick_id=67d612cb-12f8-470a-98fd-e9f7144dfafb)
+* [2024-06-07, 13:18:10](https://news.ycombinator.com/item?id=40608439) - [Andrew Ng on AI Regulation](https://twitter.com/AndrewYNg/status/1788648531873628607)
 * [2024-06-07, 13:12:31](https://news.ycombinator.com/item?id=40608413) - [Σ-GPTs: A New Approach to Autoregressive Models](https://arxiv.org/abs/2404.09562)
 * [2024-06-07, 13:06:43](https://news.ycombinator.com/item?id=40608373) - [Instruction Sets Should Be Free: The Case for RISC-V [pdf] (2014)](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-146.pdf)
 * [2024-06-07, 13:01:15](https://news.ycombinator.com/item?id=40608332) - [Tom 7: Badness 0 (Three ways)](http://tom7.org/bovex/)
@@ -28,8 +25,11 @@
 * [2024-06-06, 15:29:56](https://news.ycombinator.com/item?id=40598629) - [lsix: Like \"ls\", but for images](https://github.com/hackerb9/lsix)
 * [2024-06-06, 13:32:36](https://news.ycombinator.com/item?id=40597216) - [Roman Roads (2017)](https://sashamaps.net/docs/maps/roman-roads-original/)
 * [2024-06-06, 12:39:01](https://news.ycombinator.com/item?id=40596689) - [AeroSpace is an i3-like tiling window manager for macOS](https://github.com/nikitabobko/AeroSpace)
+* [2024-06-06, 12:18:39](https://news.ycombinator.com/item?id=40596535) - [Brain overgrowth dictates autism severity, new research suggests](https://medicalxpress.com/news/2024-06-brain-overgrowth-dictates-autism-severity.html)
+* [2024-06-06, 10:55:32](https://news.ycombinator.com/item?id=40595920) - [Don Estridge: A misfit who built the IBM PC](https://every.to/the-crazy-ones/the-misfit-who-built-the-ibm-pc)
 * [2024-06-06, 10:24:23](https://news.ycombinator.com/item?id=40595741) - [I learned Vulkan and wrote a small game engine with it](https://edw.is/learning-vulkan/)
 * [2024-06-06, 09:48:59](https://news.ycombinator.com/item?id=40595499) - [Saint Michael Sword: Are the cathedrals really on a straight line?](https://geospatial.netlify.app/posts/gds-2024-04-20-cathedrals/)
+* [2024-06-05, 07:37:38](https://news.ycombinator.com/item?id=40582357) - [Show HN: 2d web paddle game](https://raould.github.io/pn0gstr0m/)
 
 ## [Archives](archives/index.md)
 
