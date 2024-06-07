@@ -16,6 +16,7 @@
 * [2024-06-07, 19:56:38](https://news.ycombinator.com/item?id=40612318) - [Clues to disappearance of North America's large mammals 50k years ago](https://phys.org/news/2024-05-clues-mysterious-north-america-large.html)
 * [2024-06-07, 19:53:38](https://news.ycombinator.com/item?id=40612285) - [Feynman's Razor (if an expert can't understand, you've dumbed it down too much)](https://defenderofthebasic.substack.com/p/feynmans-razor)
 * [2024-06-07, 19:53:32](https://news.ycombinator.com/item?id=40612281) - [Fighting an anti-doping finding](https://lizzybanks.co.uk/2024/05/15/hello-world/)
+* [2024-06-07, 19:37:09](https://news.ycombinator.com/item?id=40612139) - [Comments on the FTC antitrust investigation of Google](https://danluu.com/ftc-google-antitrust/)
 * [2024-06-07, 19:15:29](https://news.ycombinator.com/item?id=40611925) - [Zig Goals](https://github.com/ziglang/zig/tree/4236b85c722b36cb31595634bae0ff28d6082761)
 * [2024-06-07, 18:45:59](https://news.ycombinator.com/item?id=40611638) - [Alarms in Medical Equipment](https://th.id.au/alarms/)
 * [2024-06-07, 18:34:40](https://news.ycombinator.com/item?id=40611531) - [YouTube is A/B testing limiting logged out access to videos](https://twitter.com/justusecobalt/status/1799043789967036620)
