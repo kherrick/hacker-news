@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-07, 21:46:30](https://news.ycombinator.com/item?id=40613312) - [Slow-spinning radio neutron star breaks all the rules](https://www.sydney.edu.au/news-opinion/news/2024/06/05/slow-spinning-radio-neutron-star-breaks-all-the-rules.html)
+* [2024-06-07, 21:42:58](https://news.ycombinator.com/item?id=40613287) - [What Is PID 0?](https://blog.dave.tf/post/linux-pid0/)
 * [2024-06-07, 21:22:05](https://news.ycombinator.com/item?id=40613126) - [Xv6, a simple Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2023/xv6.html)
 * [2024-06-07, 20:08:07](https://news.ycombinator.com/item?id=40612445) - [D-Day, as told by paratroopers](https://www.politico.com/news/magazine/2024/06/06/d-day-normandy-world-war-ii-paratroopers-00161916?ref=thebrowser.com)
 * [2024-06-07, 20:02:27](https://news.ycombinator.com/item?id=40612387) - [Yes, you can play Duck Hunt without a television (but I can't)](https://nicole.express/2024/no-screen-no-cpu-one-problem.html)
@@ -29,7 +30,6 @@
 * [2024-06-07, 06:25:21](https://news.ycombinator.com/item?id=40605824) - [Cracking the Scheduling Code in Hay Day](https://thinhcorner.com/blog/hayday-game-schedule)
 * [2024-06-06, 23:12:02](https://news.ycombinator.com/item?id=40603509) - [Concrete Faith: The creation of the Bahá’í house of worship (2023)](https://design.newcity.com/2023/11/01/concrete-faith-how-the-creation-of-the-bahai-house-of-worship-changed-the-course-of-architecture-cab-2023/)
 * [2024-06-05, 17:39:39](https://news.ycombinator.com/item?id=40587934) - [LaTeX is the first PDF/UA-2 compliance accessible PDF producer](https://github.com/latex3/tagging-project/discussions/72)
-* [2024-06-05, 01:09:55](https://news.ycombinator.com/item?id=40580458) - [A lifetime of love for the charismatic narwhal](https://knowablemagazine.org/content/article/living-world/2024/life-of-the-narwhal-martin-nweeia)
 
 ## [Archives](archives/index.md)
 

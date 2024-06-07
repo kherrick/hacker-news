@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-07](index.md)
 
 * [2024-06-07, 21:46:30](https://news.ycombinator.com/item?id=40613312) - [Slow-spinning radio neutron star breaks all the rules](https://www.sydney.edu.au/news-opinion/news/2024/06/05/slow-spinning-radio-neutron-star-breaks-all-the-rules.html)
+* [2024-06-07, 21:42:58](https://news.ycombinator.com/item?id=40613287) - [What Is PID 0?](https://blog.dave.tf/post/linux-pid0/)
 * [2024-06-07, 21:31:21](https://news.ycombinator.com/item?id=40613196) - [How Liberals Talk About Children](https://www.newyorker.com/news/fault-lines/how-liberals-talk-about-children)
 * [2024-06-07, 21:22:05](https://news.ycombinator.com/item?id=40613126) - [Xv6, a simple Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2023/xv6.html)
 * [2024-06-07, 20:08:07](https://news.ycombinator.com/item?id=40612445) - [D-Day, as told by paratroopers](https://www.politico.com/news/magazine/2024/06/06/d-day-normandy-world-war-ii-paratroopers-00161916?ref=thebrowser.com)
