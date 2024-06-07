@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-06-07, 03:22:30",
-      "https://news.ycombinator.com/item?id=40604997"
-    ],
-    [
-      "Shopify is acquiring the Threads team",
-      "https://framer.threads.com/announcement"
-    ]
-  ],
-  [
-    [
       "2024-06-07, 03:17:51",
       "https://news.ycombinator.com/item?id=40604972"
     ],
@@ -31,32 +21,12 @@
   ],
   [
     [
-      "2024-06-07, 02:05:50",
-      "https://news.ycombinator.com/item?id=40604626"
-    ],
-    [
-      "Linguistic Antipatterns",
-      "https://www.linguistic-antipatterns.com/"
-    ]
-  ],
-  [
-    [
       "2024-06-07, 01:59:21",
       "https://news.ycombinator.com/item?id=40604596"
     ],
     [
-      "CPU-energy-meter: A tool for measuring energy consumption of Intel CPUs",
+      "CPU Energy Meter: A tool for measuring energy consumption of Intel CPUs",
       "https://github.com/sosy-lab/cpu-energy-meter"
-    ]
-  ],
-  [
-    [
-      "2024-06-07, 01:40:20",
-      "https://news.ycombinator.com/item?id=40604488"
-    ],
-    [
-      "Badness 0 (Apostrophe's Version) (tom7 for SigBovik 2024)) [video]",
-      "https://www.youtube.com/watch?v=Y65FRxE7uMc"
     ]
   ],
   [
@@ -87,6 +57,16 @@
     [
       "Make your program slower with threads (2014)",
       "https://brooker.co.za/blog/2014/12/06/random.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-06, 21:26:16",
+      "https://news.ycombinator.com/item?id=40602603"
+    ],
+    [
+      "The problem with lying is keeping track of all the lies",
+      "https://materialize.com/blog/engineering/keeping-track-lies/"
     ]
   ],
   [
@@ -151,6 +131,16 @@
   ],
   [
     [
+      "2024-06-06, 16:01:13",
+      "https://news.ycombinator.com/item?id=40599018"
+    ],
+    [
+      "Qwen2 LLM Released",
+      "https://qwenlm.github.io/blog/qwen2/"
+    ]
+  ],
+  [
+    [
       "2024-06-06, 15:29:56",
       "https://news.ycombinator.com/item?id=40598629"
     ],
@@ -187,6 +177,16 @@
     [
       "Super Heavy has splashed down in The Gulf of Mexico",
       "https://twitter.com/SpaceX/status/1798701489097183286"
+    ]
+  ],
+  [
+    [
+      "2024-06-06, 12:42:13",
+      "https://news.ycombinator.com/item?id=40596711"
+    ],
+    [
+      "Show HN: Synthesize TikZ Graphics Programs for Scientific Figures and Sketches",
+      "https://github.com/potamides/DeTikZify"
     ]
   ],
   [
