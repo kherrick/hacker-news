@@ -1,9 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-07, 13:32:26](https://news.ycombinator.com/item?id=40608539) - [Don't name packages common nouns](https://brandur.org/fragments/go-no-common-nouns)
 * [2024-06-07, 13:12:31](https://news.ycombinator.com/item?id=40608413) - [Σ-GPTs: A New Approach to Autoregressive Models](https://arxiv.org/abs/2404.09562)
+* [2024-06-07, 13:01:15](https://news.ycombinator.com/item?id=40608332) - [Tom 7: Badness 0 (Three ways)](http://tom7.org/bovex/)
 * [2024-06-07, 12:54:27](https://news.ycombinator.com/item?id=40608269) - [A Picture Is Worth 170 Tokens: How Does GPT-4o Encode Images?](https://www.oranlooney.com/post/gpt-cnn/)
 * [2024-06-07, 12:00:03](https://news.ycombinator.com/item?id=40607794) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
 * [2024-06-07, 10:03:22](https://news.ycombinator.com/item?id=40607060) - [The Twitch DJ Program](https://blog.twitch.tv/en/2024/06/06/introducing-the-twitch-dj-program/)
+* [2024-06-07, 09:36:48](https://news.ycombinator.com/item?id=40606924) - [Secret Hand Gestures in Paintings](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233791/)
 * [2024-06-07, 05:26:34](https://news.ycombinator.com/item?id=40605586) - [Dblab: Interactive Terminal Client for PostgreSQL, MySQL, SQLite3 and Oracle](https://github.com/danvergara/dblab)
 * [2024-06-07, 05:11:58](https://news.ycombinator.com/item?id=40605532) - [Ice - open source bar manager for macOS](https://github.com/jordanbaird/Ice)
 * [2024-06-07, 01:59:21](https://news.ycombinator.com/item?id=40604596) - [CPU Energy Meter: A tool for measuring energy consumption of Intel CPUs](https://github.com/sosy-lab/cpu-energy-meter)
@@ -14,7 +17,6 @@
 * [2024-06-06, 17:55:28](https://news.ycombinator.com/item?id=40600384) - [Let rand = main as usize (2022)](https://codeandbitters.com/main-as-usize/)
 * [2024-06-06, 17:01:37](https://news.ycombinator.com/item?id=40599749) - [Extracting concepts from GPT-4](https://openai.com/index/extracting-concepts-from-gpt-4/)
 * [2024-06-06, 16:34:31](https://news.ycombinator.com/item?id=40599419) - [Show HN: XPipe, a brand-new type of remote file browser and shell connection hub](https://xpipe.io)
-* [2024-06-06, 16:01:13](https://news.ycombinator.com/item?id=40599018) - [Qwen2 LLM Released](https://qwenlm.github.io/blog/qwen2/)
 * [2024-06-06, 15:29:56](https://news.ycombinator.com/item?id=40598629) - [lsix: Like \"ls\", but for images](https://github.com/hackerb9/lsix)
 * [2024-06-06, 13:35:24](https://news.ycombinator.com/item?id=40597249) - [Martha Gellhorn, the only woman to report on the D-Day landings from the ground](https://www.smithsonianmag.com/history/martha-gellhorn-was-the-only-woman-to-report-on-the-d-day-landings-from-the-ground-180984456/)
 * [2024-06-06, 13:32:36](https://news.ycombinator.com/item?id=40597216) - [Roman Roads (2017)](https://sashamaps.net/docs/maps/roman-roads-original/)
@@ -26,10 +28,8 @@
 * [2024-06-06, 10:24:23](https://news.ycombinator.com/item?id=40595741) - [I learned Vulkan and wrote a small game engine with it](https://edw.is/learning-vulkan/)
 * [2024-06-06, 09:48:59](https://news.ycombinator.com/item?id=40595499) - [Saint Michael Sword: Are the cathedrals really on a straight line?](https://geospatial.netlify.app/posts/gds-2024-04-20-cathedrals/)
 * [2024-06-06, 09:33:19](https://news.ycombinator.com/item?id=40595384) - [Understanding QEMU Devices (2018)](https://www.qemu.org/2018/02/09/understanding-qemu-devices/)
-* [2024-06-05, 16:06:05](https://news.ycombinator.com/item?id=40586654) - [Squatting in Spain: Understanding Spain's \"okupas\" problem](https://www.idealista.com/en/news/legal-advice-in-spain/2024/04/15/816509-squatting-in-spain-understanding-spain-s-okupas-problem)
 * [2024-06-05, 07:57:12](https://news.ycombinator.com/item?id=40582475) - [Kiosk mode bypass for an Ariane Allegro Scenario Player based hotel check-in te](https://www.pentagrid.ch/en/blog/ariane-allegro-hotel-check-in-terminal-kios-escape/)
 * [2024-06-05, 07:37:38](https://news.ycombinator.com/item?id=40582357) - [Show HN: 2d web paddle game](https://raould.github.io/pn0gstr0m/)
-* [2024-06-05, 04:57:26](https://news.ycombinator.com/item?id=40581519) - [Reading awc](https://akamayu-ouo.srht.site/2024-06-01-ksimple)
 
 ## [Archives](archives/index.md)
 

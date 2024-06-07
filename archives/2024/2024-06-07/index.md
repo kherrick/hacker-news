@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-07](index.md)
 
+* [2024-06-07, 13:32:26](https://news.ycombinator.com/item?id=40608539) - [Don't name packages common nouns](https://brandur.org/fragments/go-no-common-nouns)
 * [2024-06-07, 13:12:31](https://news.ycombinator.com/item?id=40608413) - [Σ-GPTs: A New Approach to Autoregressive Models](https://arxiv.org/abs/2404.09562)
+* [2024-06-07, 13:01:15](https://news.ycombinator.com/item?id=40608332) - [Tom 7: Badness 0 (Three ways)](http://tom7.org/bovex/)
 * [2024-06-07, 12:54:27](https://news.ycombinator.com/item?id=40608269) - [A Picture Is Worth 170 Tokens: How Does GPT-4o Encode Images?](https://www.oranlooney.com/post/gpt-cnn/)
 * [2024-06-07, 12:07:16](https://news.ycombinator.com/item?id=40607864) - [I rage-converted my RTX4090 into an eGPU](https://tanelpoder.com/posts/rtx4090-egpu/)
 * [2024-06-07, 12:03:22](https://news.ycombinator.com/item?id=40607825) - [Software MVPs can no longer be low quality](https://threadreaderapp.com/thread/1798770556571144638.html)
@@ -15,6 +17,7 @@
 * [2024-06-07, 10:37:22](https://news.ycombinator.com/item?id=40607244) - [I was denied tenure – how do I cope?](https://www.nature.com/articles/d41586-024-01694-1)
 * [2024-06-07, 10:03:22](https://news.ycombinator.com/item?id=40607060) - [The Twitch DJ Program](https://blog.twitch.tv/en/2024/06/06/introducing-the-twitch-dj-program/)
 * [2024-06-07, 09:52:54](https://news.ycombinator.com/item?id=40607017) - [Alan Turing died 70 years ago](https://en.wikipedia.org/wiki/Alan_Turing)
+* [2024-06-07, 09:36:48](https://news.ycombinator.com/item?id=40606924) - [Secret Hand Gestures in Paintings](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233791/)
 * [2024-06-07, 09:15:16](https://news.ycombinator.com/item?id=40606802) - [Samsung union stages its first ever strike](https://www.theregister.com/2024/06/07/samsung_union_strike/)
 * [2024-06-07, 08:01:17](https://news.ycombinator.com/item?id=40606358) - [Show HN: Fluo – Immersive Chats](https://fluo.chat/)
 * [2024-06-07, 07:24:16](https://news.ycombinator.com/item?id=40606119) - [Kling (Chinese Sora Alternative)](https://kling.kuaishou.com/mobile)
