@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-06-07](index.md)
 
+* [2024-06-07, 12:00:03](https://news.ycombinator.com/item?id=40607794) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
 * [2024-06-07, 11:17:20](https://news.ycombinator.com/item?id=40607476) - [Developer posts secret key on GitHub, loses $40K in 2 minutes](https://cointelegraph.com/news/web3-dev-loses-40k-github-key-leak)
 * [2024-06-07, 11:12:02](https://news.ycombinator.com/item?id=40607442) - [Cancel Adobe if you are a creative under NDA with your clients](https://twitter.com/Stretchedwiener/status/1798153619285708909)
+* [2024-06-07, 10:42:03](https://news.ycombinator.com/item?id=40607273) - [What is the \"God Mode\" folder in Windows 10, and how do I enable it?](https://www.howtogeek.com/402458/enable-god-mode-in-windows-10/)
 * [2024-06-07, 10:37:22](https://news.ycombinator.com/item?id=40607244) - [I was denied tenure – how do I cope?](https://www.nature.com/articles/d41586-024-01694-1)
 * [2024-06-07, 10:03:22](https://news.ycombinator.com/item?id=40607060) - [The Twitch DJ Program](https://blog.twitch.tv/en/2024/06/06/introducing-the-twitch-dj-program/)
 * [2024-06-07, 09:52:54](https://news.ycombinator.com/item?id=40607017) - [Alan Turing died 70 years ago](https://en.wikipedia.org/wiki/Alan_Turing)

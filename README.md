@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-07, 12:00:03](https://news.ycombinator.com/item?id=40607794) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
 * [2024-06-07, 11:17:20](https://news.ycombinator.com/item?id=40607476) - [Developer posts secret key on GitHub, loses $40K in 2 minutes](https://cointelegraph.com/news/web3-dev-loses-40k-github-key-leak)
 * [2024-06-07, 11:12:02](https://news.ycombinator.com/item?id=40607442) - [Cancel Adobe if you are a creative under NDA with your clients](https://twitter.com/Stretchedwiener/status/1798153619285708909)
+* [2024-06-07, 10:42:03](https://news.ycombinator.com/item?id=40607273) - [What is the \"God Mode\" folder in Windows 10, and how do I enable it?](https://www.howtogeek.com/402458/enable-god-mode-in-windows-10/)
 * [2024-06-07, 10:37:22](https://news.ycombinator.com/item?id=40607244) - [I was denied tenure – how do I cope?](https://www.nature.com/articles/d41586-024-01694-1)
 * [2024-06-07, 10:03:22](https://news.ycombinator.com/item?id=40607060) - [The Twitch DJ Program](https://blog.twitch.tv/en/2024/06/06/introducing-the-twitch-dj-program/)
 * [2024-06-07, 09:52:54](https://news.ycombinator.com/item?id=40607017) - [Alan Turing died 70 years ago](https://en.wikipedia.org/wiki/Alan_Turing)
@@ -9,7 +11,6 @@
 * [2024-06-07, 05:26:34](https://news.ycombinator.com/item?id=40605586) - [Dblab: Interactive Terminal Client for PostgreSQL, MySQL, SQLite3 and Oracle](https://github.com/danvergara/dblab)
 * [2024-06-07, 05:11:58](https://news.ycombinator.com/item?id=40605532) - [Ice - open source bar manager for macOS](https://github.com/jordanbaird/Ice)
 * [2024-06-07, 01:59:21](https://news.ycombinator.com/item?id=40604596) - [CPU Energy Meter: A tool for measuring energy consumption of Intel CPUs](https://github.com/sosy-lab/cpu-energy-meter)
-* [2024-06-07, 01:00:55](https://news.ycombinator.com/item?id=40604246) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=40604246)
 * [2024-06-07, 00:34:56](https://news.ycombinator.com/item?id=40604093) - [Generative AI Handbook: A Roadmap for Learning Resources](https://genai-handbook.github.io/)
 * [2024-06-06, 20:40:58](https://news.ycombinator.com/item?id=40602147) - [Shu Ha Ri (2014)](https://www.martinfowler.com/bliki/ShuHaRi.html)
 * [2024-06-06, 18:59:34](https://news.ycombinator.com/item?id=40601116) - [AI in software engineering at Google: Progress and the path ahead](https://research.google/blog/ai-in-software-engineering-at-google-progress-and-the-path-ahead/)
@@ -27,7 +28,6 @@
 * [2024-06-06, 10:24:23](https://news.ycombinator.com/item?id=40595741) - [I learned Vulkan and wrote a small game engine with it](https://edw.is/learning-vulkan/)
 * [2024-06-06, 09:48:59](https://news.ycombinator.com/item?id=40595499) - [Saint Michael Sword: Are the cathedrals really on a straight line?](https://geospatial.netlify.app/posts/gds-2024-04-20-cathedrals/)
 * [2024-06-06, 09:33:19](https://news.ycombinator.com/item?id=40595384) - [Understanding QEMU Devices (2018)](https://www.qemu.org/2018/02/09/understanding-qemu-devices/)
-* [2024-06-05, 11:24:21](https://news.ycombinator.com/item?id=40583632) - [Hybrid Bonding: 3D Chip Tech to Save Moore's Law](https://spectrum.ieee.org/hybrid-bonding)
 * [2024-06-05, 07:57:12](https://news.ycombinator.com/item?id=40582475) - [Kiosk mode bypass for an Ariane Allegro Scenario Player based hotel check-in te](https://www.pentagrid.ch/en/blog/ariane-allegro-hotel-check-in-terminal-kios-escape/)
 * [2024-06-05, 07:37:38](https://news.ycombinator.com/item?id=40582357) - [Show HN: 2d web paddle game](https://raould.github.io/pn0gstr0m/)
 
