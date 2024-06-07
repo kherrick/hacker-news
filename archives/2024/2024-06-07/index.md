@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-07](index.md)
 
+* [2024-06-07, 09:52:54](https://news.ycombinator.com/item?id=40607017) - [Alan Turing died 70 years ago](https://en.wikipedia.org/wiki/Alan_Turing)
+* [2024-06-07, 09:15:16](https://news.ycombinator.com/item?id=40606802) - [Samsung union stages its first ever strike](https://www.theregister.com/2024/06/07/samsung_union_strike/)
 * [2024-06-07, 08:01:17](https://news.ycombinator.com/item?id=40606358) - [Show HN: Fluo – Immersive Chats](https://fluo.chat/)
 * [2024-06-07, 07:24:16](https://news.ycombinator.com/item?id=40606119) - [Kling (Chinese Sora Alternative)](https://kling.kuaishou.com/mobile)
 * [2024-06-07, 07:07:39](https://news.ycombinator.com/item?id=40606044) - [Desktop Linux is an Untapped Gold Mine](https://gebna.gg/blog/desktop-linux-is-an-untapped-gold-mine)
