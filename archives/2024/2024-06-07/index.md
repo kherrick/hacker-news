@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2024-06-07](index.md)
 
 * [2024-06-07, 03:47:30](https://news.ycombinator.com/item?id=40605130) - [How to build a DOA product: Humane AI Pin founders banned internal criticism](https://arstechnica.com/gadgets/2024/06/report-humane-ai-pin-did-7-million-in-sales-wants-to-sell-for-1-billion/)
+* [2024-06-07, 03:47:03](https://news.ycombinator.com/item?id=40605126) - [How the Fourier Transform Works: Abstract Concepts Made Simple](https://howthefouriertransformworks.com/)
 * [2024-06-07, 03:40:57](https://news.ycombinator.com/item?id=40605103) - [ThankYouHN: 14 Years](https://news.ycombinator.com/item?id=40605103)
 * [2024-06-07, 03:33:06](https://news.ycombinator.com/item?id=40605056) - [Meta's Ad Algorithm Directs Black Users to For-Profit Colleges](https://peopleofcolorintech.com/articles/metas-ad-system-shows-racial-bias-directing-black-users-to-for-profit-colleges/)
+* [2024-06-07, 03:23:09](https://news.ycombinator.com/item?id=40605000) - [eBay will no longer accept American Express cards over 'unacceptably high' fees](https://www.theverge.com/2024/6/6/24173108/ebay-american-express-payment-fees)
 * [2024-06-07, 03:22:30](https://news.ycombinator.com/item?id=40604997) - [Shopify is acquiring the Threads team](https://framer.threads.com/announcement)
 * [2024-06-07, 03:17:51](https://news.ycombinator.com/item?id=40604972) - [Stupid Slow: The Perceived Speed of Computers](https://www.datagubbe.se/stupidslow/)
 * [2024-06-07, 02:14:52](https://news.ycombinator.com/item?id=40604674) - [Best Buy is shutting down its Samsung repair program](https://www.theverge.com/2024/6/6/24164777/best-buy-ends-samsung-repair-program-geek-squad)
