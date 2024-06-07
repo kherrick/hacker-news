@@ -7,6 +7,7 @@
 * [2024-06-07, 17:22:31](https://news.ycombinator.com/item?id=40610750) - [United Airlines starts serving passengers personalized ads on seatback screens](https://www.cnbc.com/2024/06/07/united-airlines-personalized-ads-seatback-screens.html)
 * [2024-06-07, 17:10:00](https://news.ycombinator.com/item?id=40610641) - [ASCII Silhouettify](https://meatfighter.com/ascii-silhouettify/)
 * [2024-06-07, 17:08:23](https://news.ycombinator.com/item?id=40610621) - [OpenSSH introduces options to penalize undesirable behavior](https://undeadly.org/cgi?action=article;sid=20240607042157)
+* [2024-06-07, 17:02:25](https://news.ycombinator.com/item?id=40610574) - [Webring Starter: a modern, simple webring](https://github.com/krusynth/webring-starter)
 * [2024-06-07, 16:47:28](https://news.ycombinator.com/item?id=40610435) - [Microsoft Will Switch Off Recall by Default After Security Backlash](https://www.wired.com/story/microsoft-recall-off-default-security-concerns/)
 * [2024-06-07, 16:32:25](https://news.ycombinator.com/item?id=40610239) - [Boeing 737 flight from UK was 'seconds from disaster after software glitch'](https://metro.co.uk/2024/06/07/boeing-737-flight-uk-seconds-disaster-glitch-20990507/)
 * [2024-06-07, 16:27:09](https://news.ycombinator.com/item?id=40610181) - [Lite.cnn.com](https://lite.cnn.com/)
