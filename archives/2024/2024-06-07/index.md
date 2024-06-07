@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-07](index.md)
 
+* [2024-06-07, 17:22:31](https://news.ycombinator.com/item?id=40610750) - [United Airlines starts serving passengers personalized ads on seatback screens](https://www.cnbc.com/2024/06/07/united-airlines-personalized-ads-seatback-screens.html)
 * [2024-06-07, 17:10:00](https://news.ycombinator.com/item?id=40610641) - [ASCII Silhouettify](https://meatfighter.com/ascii-silhouettify/)
 * [2024-06-07, 17:08:23](https://news.ycombinator.com/item?id=40610621) - [OpenSSH introduces options to penalize undesirable behavior](https://undeadly.org/cgi?action=article;sid=20240607042157)
 * [2024-06-07, 16:47:28](https://news.ycombinator.com/item?id=40610435) - [Microsoft Will Switch Off Recall by Default After Security Backlash](https://www.wired.com/story/microsoft-recall-off-default-security-concerns/)
@@ -19,6 +20,7 @@
 * [2024-06-07, 15:28:02](https://news.ycombinator.com/item?id=40609599) - [Illegally parked cars are now getting hit by this dystopian windscreen barnacle](https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/forget-wheel-clamps-illegally-parked-cars-are-now-getting-hit-by-this-dystopian-windscreen-barnacle)
 * [2024-06-07, 15:24:54](https://news.ycombinator.com/item?id=40609574) - [Adobe Photoshop's New Terms of Service Demands the Right to Access Your Work](https://lifehacker.com/tech/photoshops-terms-of-service-demands-the-right-to-your-content)
 * [2024-06-07, 15:16:09](https://news.ycombinator.com/item?id=40609499) - [Motile Living Biobots Self-Construct from Human Somatic Progenitor Seed Cells](https://onlinelibrary.wiley.com/doi/epdf/10.1002/advs.202303575)
+* [2024-06-07, 15:14:29](https://news.ycombinator.com/item?id=40609485) - [Turn On, Tune In, Write Code](https://www.thenewatlantis.com/publications/turn-on-tune-in-write-code)
 * [2024-06-07, 15:03:10](https://news.ycombinator.com/item?id=40609388) - [Microsoft's Recall is already exploited](https://github.com/Pennyw0rth/NetExec/pull/335)
 * [2024-06-07, 14:55:48](https://news.ycombinator.com/item?id=40609326) - [LedgerStore Supports Trillions of Indexes at Uber](https://www.uber.com/blog/how-ledgerstore-supports-trillions-of-indexes/?uclick_id=67d612cb-12f8-470a-98fd-e9f7144dfafb)
 * [2024-06-07, 14:33:05](https://news.ycombinator.com/item?id=40609126) - [Recovery after HP tech support bricked my father's laptop](https://github.com/ctag/hp_envy_reviver)
