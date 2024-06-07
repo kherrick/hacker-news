@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-06-07, 18:31:07",
-      "https://news.ycombinator.com/item?id=40611495"
-    ],
-    [
-      "Nvidia is now worth $102M per employee",
-      "https://sherwood.news/markets/nvidia-is-now-worth-usd102m-per-employee/"
-    ]
-  ],
-  [
-    [
       "2024-06-07, 17:26:34",
       "https://news.ycombinator.com/item?id=40610794"
     ],
@@ -247,6 +237,16 @@
     [
       "Ice - open source bar manager for macOS",
       "https://github.com/jordanbaird/Ice"
+    ]
+  ],
+  [
+    [
+      "2024-06-07, 01:59:21",
+      "https://news.ycombinator.com/item?id=40604596"
+    ],
+    [
+      "CPU Energy Meter: A tool for measuring energy consumption of Intel CPUs",
+      "https://github.com/sosy-lab/cpu-energy-meter"
     ]
   ],
   [
