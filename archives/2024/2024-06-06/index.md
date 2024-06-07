@@ -48,6 +48,7 @@
 * [2024-06-06, 17:27:08](https://news.ycombinator.com/item?id=40600083) - [Yarn (YC W24) Is Hiring Founding Engineers in NYC](https://www.workatastartup.com/jobs/66928)
 * [2024-06-06, 17:24:32](https://news.ycombinator.com/item?id=40600052) - ['Washington Post' publisher tried to kill a story about allegations against him](https://text.npr.org/nx-s1-4995105)
 * [2024-06-06, 17:11:13](https://news.ycombinator.com/item?id=40599868) - [Whitney Stratifications and Intersection Homology (2023) [pdf]](https://n.ethz.ch/~ssetlur/download/whitney-stratifications-intersection-hom.pdf)
+* [2024-06-06, 17:11:08](https://news.ycombinator.com/item?id=40599867) - [Programming Prayer: The Woven Book of Hours (1886–87)](https://publicdomainreview.org/collection/lyon-woven-prayer-book/)
 * [2024-06-06, 17:09:58](https://news.ycombinator.com/item?id=40599857) - [Telegram Stars: Pay for Digital Goods and More](https://telegram.org/blog/telegram-stars)
 * [2024-06-06, 17:07:38](https://news.ycombinator.com/item?id=40599834) - [HSBC Writes Down Byju's, Once $22B Indian Edtech Giant, to Zero](https://indiadispatch.com/2024/06/06/hsbc-writes-down-byjus-once-22-billion-indian-edtech-giant-to-zero/)
 * [2024-06-06, 17:01:37](https://news.ycombinator.com/item?id=40599749) - [Extracting Concepts from GPT-4](https://openai.com/index/extracting-concepts-from-gpt-4/)
