@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-07, 18:45:59](https://news.ycombinator.com/item?id=40611638) - [Alarms in Medical Equipment](https://th.id.au/alarms/)
+* [2024-06-07, 18:34:40](https://news.ycombinator.com/item?id=40611531) - [YouTube is A/B testing limiting logged out access to videos](https://twitter.com/justusecobalt/status/1799043789967036620)
 * [2024-06-07, 18:31:07](https://news.ycombinator.com/item?id=40611495) - [Nvidia is now worth $102M per employee](https://sherwood.news/markets/nvidia-is-now-worth-usd102m-per-employee/)
 * [2024-06-07, 17:26:34](https://news.ycombinator.com/item?id=40610794) - [Ask HN: Machine Learning Engineers, what do you do at work?](https://news.ycombinator.com/item?id=40610794)
 * [2024-06-07, 17:10:00](https://news.ycombinator.com/item?id=40610641) - [ASCII Silhouettify](https://meatfighter.com/ascii-silhouettify/)
@@ -21,15 +22,14 @@
 * [2024-06-07, 12:00:03](https://news.ycombinator.com/item?id=40607794) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
 * [2024-06-07, 10:47:22](https://news.ycombinator.com/item?id=40607307) - [We Are Made of Waves](https://nautil.us/we-are-made-of-waves-640732/)
 * [2024-06-07, 09:36:48](https://news.ycombinator.com/item?id=40606924) - [Secret Hand Gestures in Paintings (2019)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233791/)
-* [2024-06-07, 08:22:47](https://news.ycombinator.com/item?id=40606503) - [Towards Federated Key Transparency](https://soatok.blog/2024/06/06/towards-federated-key-transparency/)
 * [2024-06-07, 06:25:21](https://news.ycombinator.com/item?id=40605824) - [Cracking the Scheduling Code in Hay Day](https://thinhcorner.com/blog/hayday-game-schedule)
 * [2024-06-07, 05:21:54](https://news.ycombinator.com/item?id=40605574) - [Quieting the Global Growl](https://hakaimagazine.com/features/quieting-the-global-growl/)
 * [2024-06-07, 05:11:58](https://news.ycombinator.com/item?id=40605532) - [Ice - open source bar manager for macOS](https://github.com/jordanbaird/Ice)
-* [2024-06-07, 01:59:21](https://news.ycombinator.com/item?id=40604596) - [CPU Energy Meter: A tool for measuring energy consumption of Intel CPUs](https://github.com/sosy-lab/cpu-energy-meter)
 * [2024-06-06, 23:12:02](https://news.ycombinator.com/item?id=40603509) - [How the Creation of the Bahai House of Worship Changed Architecture (2023)](https://design.newcity.com/2023/11/01/concrete-faith-how-the-creation-of-the-bahai-house-of-worship-changed-the-course-of-architecture-cab-2023/)
 * [2024-06-06, 21:52:02](https://news.ycombinator.com/item?id=40602792) - [Saving Three Months of Latency with a Single OpenTelemetry Trace](https://www.checklyhq.com/blog/coralogix-and-opentelemetry-on-checkly/)
 * [2024-06-06, 19:25:24](https://news.ycombinator.com/item?id=40601356) - [Attacking NIST SP 800-108 (Loss of Key Control Security)](https://scottarc.blog/2024/06/04/attacking-nist-sp-800-108/)
 * [2024-06-05, 01:09:55](https://news.ycombinator.com/item?id=40580458) - [A lifetime of love for the charismatic narwhal](https://knowablemagazine.org/content/article/living-world/2024/life-of-the-narwhal-martin-nweeia)
+* [2024-06-04, 21:18:17](https://news.ycombinator.com/item?id=40579045) - [The largest solar farm just came online in China](https://electrek.co/2024/06/04/worlds-largest-solar-farm-china/)
 
 ## [Archives](archives/index.md)
 
