@@ -27,3 +27,4 @@
 * [2024-06-07, 01:21:46](https://news.ycombinator.com/item?id=40604382) - [Wallace and Gromit return to face penguin nemesis](https://www.bbc.com/news/articles/cd11kj0d97jo)
 * [2024-06-07, 01:15:57](https://news.ycombinator.com/item?id=40604349) - [Florida woman's Apple Watch traces lost luggage to airport worker's home](https://www.washingtonpost.com/travel/2024/06/06/lost-luggage-tracking-apple-watch-florida-airport-worker/)
 * [2024-06-07, 01:00:55](https://news.ycombinator.com/item?id=40604246) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=40604246)
+* [2024-06-07, 00:34:56](https://news.ycombinator.com/item?id=40604093) - [Generative AI Handbook: A Roadmap for Learning Resources](https://genai-handbook.github.io/)
