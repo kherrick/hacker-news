@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-06-07, 13:32:26",
-      "https://news.ycombinator.com/item?id=40608539"
-    ],
-    [
-      "Don't name packages common nouns",
-      "https://brandur.org/fragments/go-no-common-nouns"
-    ]
-  ],
-  [
-    [
       "2024-06-07, 13:12:31",
       "https://news.ycombinator.com/item?id=40608413"
     ],
@@ -21,12 +11,12 @@
   ],
   [
     [
-      "2024-06-07, 13:01:15",
-      "https://news.ycombinator.com/item?id=40608332"
+      "2024-06-07, 13:06:43",
+      "https://news.ycombinator.com/item?id=40608373"
     ],
     [
-      "Tom 7: Badness 0 (Three ways)",
-      "http://tom7.org/bovex/"
+      "Instruction Sets Should Be Free: The Case for RISC-V [pdf] (2014)",
+      "https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-146.pdf"
     ]
   ],
   [
@@ -41,12 +31,32 @@
   ],
   [
     [
+      "2024-06-07, 12:10:30",
+      "https://news.ycombinator.com/item?id=40607889"
+    ],
+    [
+      "Show HN: E-Paper 7-color display showing the current weather",
+      "https://github.com/blixt/sol-mate-eink"
+    ]
+  ],
+  [
+    [
       "2024-06-07, 12:00:03",
       "https://news.ycombinator.com/item?id=40607794"
     ],
     [
       "Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook",
       "https://deepnote.com/join-us"
+    ]
+  ],
+  [
+    [
+      "2024-06-07, 10:47:22",
+      "https://news.ycombinator.com/item?id=40607307"
+    ],
+    [
+      "We Are Made of Waves",
+      "https://nautil.us/we-are-made-of-waves-640732/"
     ]
   ],
   [
@@ -71,12 +81,52 @@
   ],
   [
     [
+      "2024-06-07, 08:22:47",
+      "https://news.ycombinator.com/item?id=40606503"
+    ],
+    [
+      "Towards Federated Key Transparency",
+      "https://soatok.blog/2024/06/06/towards-federated-key-transparency/"
+    ]
+  ],
+  [
+    [
+      "2024-06-07, 08:19:12",
+      "https://news.ycombinator.com/item?id=40606477"
+    ],
+    [
+      "A Better Regex Experience",
+      "https://polar.sh/eval/posts/a-better-regex-experience"
+    ]
+  ],
+  [
+    [
+      "2024-06-07, 06:25:21",
+      "https://news.ycombinator.com/item?id=40605824"
+    ],
+    [
+      "Cracking the Scheduling Code in Hay Day",
+      "https://thinhcorner.com/blog/hayday-game-schedule"
+    ]
+  ],
+  [
+    [
       "2024-06-07, 05:26:34",
       "https://news.ycombinator.com/item?id=40605586"
     ],
     [
       "Dblab: Interactive Terminal Client for PostgreSQL, MySQL, SQLite3 and Oracle",
       "https://github.com/danvergara/dblab"
+    ]
+  ],
+  [
+    [
+      "2024-06-07, 05:21:54",
+      "https://news.ycombinator.com/item?id=40605574"
+    ],
+    [
+      "Quieting the Global Growl",
+      "https://hakaimagazine.com/features/quieting-the-global-growl/"
     ]
   ],
   [
@@ -121,32 +171,12 @@
   ],
   [
     [
-      "2024-06-06, 18:59:34",
-      "https://news.ycombinator.com/item?id=40601116"
+      "2024-06-06, 19:25:24",
+      "https://news.ycombinator.com/item?id=40601356"
     ],
     [
-      "AI in software engineering at Google: Progress and the path ahead",
-      "https://research.google/blog/ai-in-software-engineering-at-google-progress-and-the-path-ahead/"
-    ]
-  ],
-  [
-    [
-      "2024-06-06, 18:31:04",
-      "https://news.ycombinator.com/item?id=40600775"
-    ],
-    [
-      "Dragonfly: A large vision-language model with multi-resolution zoom",
-      "https://www.together.ai/blog/dragonfly-v1"
-    ]
-  ],
-  [
-    [
-      "2024-06-06, 17:55:28",
-      "https://news.ycombinator.com/item?id=40600384"
-    ],
-    [
-      "Let rand = main as usize (2022)",
-      "https://codeandbitters.com/main-as-usize/"
+      "Attacking NIST SP 800-108 (Loss of Key Control Security)",
+      "https://scottarc.blog/2024/06/04/attacking-nist-sp-800-108/"
     ]
   ],
   [
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2024-06-06, 13:35:24",
-      "https://news.ycombinator.com/item?id=40597249"
-    ],
-    [
-      "Martha Gellhorn, the only woman to report on the D-Day landings from the ground",
-      "https://www.smithsonianmag.com/history/martha-gellhorn-was-the-only-woman-to-report-on-the-d-day-landings-from-the-ground-180984456/"
-    ]
-  ],
-  [
-    [
       "2024-06-06, 13:32:36",
       "https://news.ycombinator.com/item?id=40597216"
     ],
@@ -207,16 +227,6 @@
     [
       "Super Heavy has splashed down in The Gulf of Mexico",
       "https://twitter.com/SpaceX/status/1798701489097183286"
-    ]
-  ],
-  [
-    [
-      "2024-06-06, 12:42:13",
-      "https://news.ycombinator.com/item?id=40596711"
-    ],
-    [
-      "Show HN: Synthesize TikZ Graphics Programs for Scientific Figures and Sketches",
-      "https://github.com/potamides/DeTikZify"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Understanding QEMU Devices (2018)",
       "https://www.qemu.org/2018/02/09/understanding-qemu-devices/"
-    ]
-  ],
-  [
-    [
-      "2024-06-05, 07:57:12",
-      "https://news.ycombinator.com/item?id=40582475"
-    ],
-    [
-      "Kiosk mode bypass for an Ariane Allegro Scenario Player based hotel check-in te",
-      "https://www.pentagrid.ch/en/blog/ariane-allegro-hotel-check-in-terminal-kios-escape/"
     ]
   ],
   [
