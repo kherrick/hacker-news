@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-07](index.md)
 
+* [2024-06-07, 03:47:30](https://news.ycombinator.com/item?id=40605130) - [How to build a DOA product: Humane AI Pin founders banned internal criticism](https://arstechnica.com/gadgets/2024/06/report-humane-ai-pin-did-7-million-in-sales-wants-to-sell-for-1-billion/)
 * [2024-06-07, 03:40:57](https://news.ycombinator.com/item?id=40605103) - [ThankYouHN: 14 Years](https://news.ycombinator.com/item?id=40605103)
 * [2024-06-07, 03:33:06](https://news.ycombinator.com/item?id=40605056) - [Meta's Ad Algorithm Directs Black Users to For-Profit Colleges](https://peopleofcolorintech.com/articles/metas-ad-system-shows-racial-bias-directing-black-users-to-for-profit-colleges/)
 * [2024-06-07, 03:22:30](https://news.ycombinator.com/item?id=40604997) - [Shopify is acquiring the Threads team](https://framer.threads.com/announcement)
