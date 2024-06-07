@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-07, 17:26:34](https://news.ycombinator.com/item?id=40610794) - [Ask HN: Machine Learning Engineers, what do you do at work?](https://news.ycombinator.com/item?id=40610794)
 * [2024-06-07, 17:10:00](https://news.ycombinator.com/item?id=40610641) - [ASCII Silhouettify](https://meatfighter.com/ascii-silhouettify/)
 * [2024-06-07, 17:08:23](https://news.ycombinator.com/item?id=40610621) - [OpenSSH introduces options to penalize undesirable behavior](https://undeadly.org/cgi?action=article;sid=20240607042157)
 * [2024-06-07, 17:02:25](https://news.ycombinator.com/item?id=40610574) - [Webring Starter: a modern, simple webring](https://github.com/krusynth/webring-starter)
@@ -28,7 +29,6 @@
 * [2024-06-06, 21:52:02](https://news.ycombinator.com/item?id=40602792) - [Saving Three Months of Latency with a Single OpenTelemetry Trace](https://www.checklyhq.com/blog/coralogix-and-opentelemetry-on-checkly/)
 * [2024-06-06, 19:25:24](https://news.ycombinator.com/item?id=40601356) - [Attacking NIST SP 800-108 (Loss of Key Control Security)](https://scottarc.blog/2024/06/04/attacking-nist-sp-800-108/)
 * [2024-06-06, 13:32:36](https://news.ycombinator.com/item?id=40597216) - [Roman Roads (2017)](https://sashamaps.net/docs/maps/roman-roads-original/)
-* [2024-06-06, 12:39:01](https://news.ycombinator.com/item?id=40596689) - [AeroSpace is an i3-like tiling window manager for macOS](https://github.com/nikitabobko/AeroSpace)
 * [2024-06-06, 10:24:23](https://news.ycombinator.com/item?id=40595741) - [I learned Vulkan and wrote a small game engine with it](https://edw.is/learning-vulkan/)
 
 ## [Archives](archives/index.md)

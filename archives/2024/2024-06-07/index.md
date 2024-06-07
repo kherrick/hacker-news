@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-07](index.md)
 
+* [2024-06-07, 17:26:34](https://news.ycombinator.com/item?id=40610794) - [Ask HN: Machine Learning Engineers, what do you do at work?](https://news.ycombinator.com/item?id=40610794)
 * [2024-06-07, 17:22:31](https://news.ycombinator.com/item?id=40610750) - [United Airlines starts serving passengers personalized ads on seatback screens](https://www.cnbc.com/2024/06/07/united-airlines-personalized-ads-seatback-screens.html)
 * [2024-06-07, 17:10:00](https://news.ycombinator.com/item?id=40610641) - [ASCII Silhouettify](https://meatfighter.com/ascii-silhouettify/)
 * [2024-06-07, 17:08:23](https://news.ycombinator.com/item?id=40610621) - [OpenSSH introduces options to penalize undesirable behavior](https://undeadly.org/cgi?action=article;sid=20240607042157)
