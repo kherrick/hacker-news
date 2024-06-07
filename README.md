@@ -2,6 +2,7 @@
 
 * [2024-06-07, 20:08:07](https://news.ycombinator.com/item?id=40612445) - [D-Day, as told by paratroopers](https://www.politico.com/news/magazine/2024/06/06/d-day-normandy-world-war-ii-paratroopers-00161916?ref=thebrowser.com)
 * [2024-06-07, 20:02:27](https://news.ycombinator.com/item?id=40612387) - [Yes, you can play Duck Hunt without a television (but I can't)](https://nicole.express/2024/no-screen-no-cpu-one-problem.html)
+* [2024-06-07, 20:01:08](https://news.ycombinator.com/item?id=40612365) - [The aging U.S. power grid is about to get a jolt](https://www.wsj.com/business/energy-oil/the-aging-u-s-power-grid-is-about-to-get-a-jolt-144e7fdc)
 * [2024-06-07, 19:57:03](https://news.ycombinator.com/item?id=40612321) - [Why are debut novels failing to launch?](https://www.esquire.com/entertainment/books/a60924704/debut-fiction-challenges/)
 * [2024-06-07, 19:56:38](https://news.ycombinator.com/item?id=40612318) - [Clues to disappearance of North America's large mammals 50k years ago](https://phys.org/news/2024-05-clues-mysterious-north-america-large.html)
 * [2024-06-07, 19:53:32](https://news.ycombinator.com/item?id=40612281) - [Fighting an anti-doping finding](https://lizzybanks.co.uk/2024/05/15/hello-world/)
@@ -24,7 +25,6 @@
 * [2024-06-07, 12:10:30](https://news.ycombinator.com/item?id=40607889) - [Show HN: E-Paper 7-color display showing the current weather](https://github.com/blixt/sol-mate-eink)
 * [2024-06-07, 12:00:03](https://news.ycombinator.com/item?id=40607794) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
 * [2024-06-07, 10:44:27](https://news.ycombinator.com/item?id=40607289) - [The flip-flop on whether alcohol is good for you (2023)](https://slate.com/technology/2023/04/alcohol-wine-drinking-healthy-dangerous-study.html)
-* [2024-06-07, 05:21:54](https://news.ycombinator.com/item?id=40605574) - [Quieting the Global Growl](https://hakaimagazine.com/features/quieting-the-global-growl/)
 * [2024-06-07, 05:11:58](https://news.ycombinator.com/item?id=40605532) - [Ice – open source menu bar manager for macOS](https://github.com/jordanbaird/Ice)
 * [2024-06-06, 23:12:02](https://news.ycombinator.com/item?id=40603509) - [How the Creation of the Bahai House of Worship Changed Architecture (2023)](https://design.newcity.com/2023/11/01/concrete-faith-how-the-creation-of-the-bahai-house-of-worship-changed-the-course-of-architecture-cab-2023/)
 * [2024-06-05, 17:39:39](https://news.ycombinator.com/item?id=40587934) - [LaTeX is the first PDF/UA-2 compliance accessible PDF producer](https://github.com/latex3/tagging-project/discussions/72)

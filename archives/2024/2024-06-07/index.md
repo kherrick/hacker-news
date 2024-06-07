@@ -6,6 +6,7 @@
 
 * [2024-06-07, 20:08:07](https://news.ycombinator.com/item?id=40612445) - [D-Day, as told by paratroopers](https://www.politico.com/news/magazine/2024/06/06/d-day-normandy-world-war-ii-paratroopers-00161916?ref=thebrowser.com)
 * [2024-06-07, 20:02:27](https://news.ycombinator.com/item?id=40612387) - [Yes, you can play Duck Hunt without a television (but I can't)](https://nicole.express/2024/no-screen-no-cpu-one-problem.html)
+* [2024-06-07, 20:01:08](https://news.ycombinator.com/item?id=40612365) - [The aging U.S. power grid is about to get a jolt](https://www.wsj.com/business/energy-oil/the-aging-u-s-power-grid-is-about-to-get-a-jolt-144e7fdc)
 * [2024-06-07, 19:57:03](https://news.ycombinator.com/item?id=40612321) - [Why are debut novels failing to launch?](https://www.esquire.com/entertainment/books/a60924704/debut-fiction-challenges/)
 * [2024-06-07, 19:56:38](https://news.ycombinator.com/item?id=40612318) - [Clues to disappearance of North America's large mammals 50k years ago](https://phys.org/news/2024-05-clues-mysterious-north-america-large.html)
 * [2024-06-07, 19:53:32](https://news.ycombinator.com/item?id=40612281) - [Fighting an anti-doping finding](https://lizzybanks.co.uk/2024/05/15/hello-world/)
