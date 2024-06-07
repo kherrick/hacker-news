@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-07, 06:06:16](https://news.ycombinator.com/item?id=40605748) - [Google accidentally published internal Search documentation to GitHub](https://arstechnica.com/gadgets/2024/06/google-accidentally-published-internal-search-documentation-to-github/)
 * [2024-06-07, 05:11:58](https://news.ycombinator.com/item?id=40605532) - [Ice - open source bar manager for macOS](https://github.com/jordanbaird/Ice)
-* [2024-06-07, 05:11:21](https://news.ycombinator.com/item?id=40605530) - [The \"full-stack framework\" fallacy](https://stack.convex.dev/full-stack-framework-fallacy)
-* [2024-06-07, 04:49:07](https://news.ycombinator.com/item?id=40605445) - [Ask HN: How do you juggle side projects vs. \"just for fun\" projects](https://news.ycombinator.com/item?id=40605445)
 * [2024-06-07, 03:17:51](https://news.ycombinator.com/item?id=40604972) - [Stupid Slow: The Perceived Speed of Computers](https://www.datagubbe.se/stupidslow/)
 * [2024-06-07, 01:59:21](https://news.ycombinator.com/item?id=40604596) - [CPU Energy Meter: A tool for measuring energy consumption of Intel CPUs](https://github.com/sosy-lab/cpu-energy-meter)
 * [2024-06-07, 01:00:55](https://news.ycombinator.com/item?id=40604246) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=40604246)
@@ -19,6 +18,7 @@
 * [2024-06-06, 13:35:24](https://news.ycombinator.com/item?id=40597249) - [Martha Gellhorn, the only woman to report on the D-Day landings from the ground](https://www.smithsonianmag.com/history/martha-gellhorn-was-the-only-woman-to-report-on-the-d-day-landings-from-the-ground-180984456/)
 * [2024-06-06, 13:32:36](https://news.ycombinator.com/item?id=40597216) - [Roman Roads (2017)](https://sashamaps.net/docs/maps/roman-roads-original/)
 * [2024-06-06, 13:02:48](https://news.ycombinator.com/item?id=40596883) - [Super Heavy has splashed down in The Gulf of Mexico](https://twitter.com/SpaceX/status/1798701489097183286)
+* [2024-06-06, 12:42:13](https://news.ycombinator.com/item?id=40596711) - [Show HN: Synthesize TikZ Graphics Programs for Scientific Figures and Sketches](https://github.com/potamides/DeTikZify)
 * [2024-06-06, 12:39:01](https://news.ycombinator.com/item?id=40596689) - [AeroSpace is an i3-like tiling window manager for macOS](https://github.com/nikitabobko/AeroSpace)
 * [2024-06-06, 12:18:39](https://news.ycombinator.com/item?id=40596535) - [Brain overgrowth dictates autism severity, new research suggests](https://medicalxpress.com/news/2024-06-brain-overgrowth-dictates-autism-severity.html)
 * [2024-06-06, 10:55:32](https://news.ycombinator.com/item?id=40595920) - [Don Estridge: A misfit who built the IBM PC](https://every.to/the-crazy-ones/the-misfit-who-built-the-ibm-pc)

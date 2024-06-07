@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-07](index.md)
 
+* [2024-06-07, 06:06:16](https://news.ycombinator.com/item?id=40605748) - [Google accidentally published internal Search documentation to GitHub](https://arstechnica.com/gadgets/2024/06/google-accidentally-published-internal-search-documentation-to-github/)
 * [2024-06-07, 05:11:58](https://news.ycombinator.com/item?id=40605532) - [Ice - open source bar manager for macOS](https://github.com/jordanbaird/Ice)
 * [2024-06-07, 05:11:21](https://news.ycombinator.com/item?id=40605530) - [The \"full-stack framework\" fallacy](https://stack.convex.dev/full-stack-framework-fallacy)
 * [2024-06-07, 04:49:07](https://news.ycombinator.com/item?id=40605445) - [Ask HN: How do you juggle side projects vs. \"just for fun\" projects](https://news.ycombinator.com/item?id=40605445)
