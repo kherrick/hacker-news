@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-07, 15:03:10](https://news.ycombinator.com/item?id=40609388) - [Microsoft's Recall is already exploited](https://github.com/Pennyw0rth/NetExec/pull/335)
+* [2024-06-07, 15:28:02](https://news.ycombinator.com/item?id=40609599) - [Illegally parked cars are now getting hit by this dystopian windscreen barnacle](https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/forget-wheel-clamps-illegally-parked-cars-are-now-getting-hit-by-this-dystopian-windscreen-barnacle)
 * [2024-06-07, 14:55:48](https://news.ycombinator.com/item?id=40609326) - [LedgerStore Supports Trillions of Indexes at Uber](https://www.uber.com/blog/how-ledgerstore-supports-trillions-of-indexes/?uclick_id=67d612cb-12f8-470a-98fd-e9f7144dfafb)
 * [2024-06-07, 14:33:05](https://news.ycombinator.com/item?id=40609126) - [Recovery after HP tech support bricked my father's laptop](https://github.com/ctag/hp_envy_reviver)
 * [2024-06-07, 13:12:31](https://news.ycombinator.com/item?id=40608413) - [Σ-GPTs: A New Approach to Autoregressive Models](https://arxiv.org/abs/2404.09562)
