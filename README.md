@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-07, 02:14:52](https://news.ycombinator.com/item?id=40604674) - [Best Buy is shutting down its Samsung repair program](https://www.theverge.com/2024/6/6/24164777/best-buy-ends-samsung-repair-program-geek-squad)
 * [2024-06-07, 01:59:21](https://news.ycombinator.com/item?id=40604596) - [CPU-energy-meter: A tool for measuring energy consumption of Intel CPUs](https://github.com/sosy-lab/cpu-energy-meter)
 * [2024-06-07, 01:40:20](https://news.ycombinator.com/item?id=40604488) - [Badness 0 (Apostrophe's Version) (tom7 for SigBovik 2024)) [video]](https://www.youtube.com/watch?v=Y65FRxE7uMc)
 * [2024-06-07, 01:00:55](https://news.ycombinator.com/item?id=40604246) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=40604246)
@@ -10,7 +11,6 @@
 * [2024-06-06, 18:59:34](https://news.ycombinator.com/item?id=40601116) - [AI in software engineering at Google: Progress and the path ahead](https://research.google/blog/ai-in-software-engineering-at-google-progress-and-the-path-ahead/)
 * [2024-06-06, 18:31:04](https://news.ycombinator.com/item?id=40600775) - [Dragonfly: A large vision-language model with multi-resolution zoom](https://www.together.ai/blog/dragonfly-v1)
 * [2024-06-06, 17:55:28](https://news.ycombinator.com/item?id=40600384) - [Let rand = main as usize (2022)](https://codeandbitters.com/main-as-usize/)
-* [2024-06-06, 17:09:58](https://news.ycombinator.com/item?id=40599857) - [Telegram Stars: Pay for Digital Goods and More](https://telegram.org/blog/telegram-stars)
 * [2024-06-06, 17:01:37](https://news.ycombinator.com/item?id=40599749) - [Extracting concepts from GPT-4](https://openai.com/index/extracting-concepts-from-gpt-4/)
 * [2024-06-06, 16:34:31](https://news.ycombinator.com/item?id=40599419) - [Show HN: XPipe, a brand-new type of remote file browser and shell connection hub](https://xpipe.io)
 * [2024-06-06, 16:01:13](https://news.ycombinator.com/item?id=40599018) - [Qwen2 LLM Released](https://qwenlm.github.io/blog/qwen2/)
