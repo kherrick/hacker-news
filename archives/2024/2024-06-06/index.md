@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-06-06](index.md)
 
+* [2024-06-06, 23:46:49](https://news.ycombinator.com/item?id=40603777) - [Show HN: A Short IPv6 Guide for Home IPv4 Admins](https://gist.github.com/timothyham/dd003dbad5614b425a8325ec820fd785)
 * [2024-06-06, 23:38:12](https://news.ycombinator.com/item?id=40603704) - [Turns out Spotify can't open-source Car Thing because it's a potato](https://www.androidauthority.com/spotify-car-thing-open-source-3449487/)
 * [2024-06-06, 23:36:20](https://news.ycombinator.com/item?id=40603692) - [Uganda's Sweeping Surveillance State Is Built on National ID Cards](https://www.bloomberg.com/news/features/2024-06-04/uganda-yoweri-museveni-s-critics-targeted-via-biometric-id-system)
+* [2024-06-06, 23:28:41](https://news.ycombinator.com/item?id=40603625) - [Make Your Program Slower with Threads](https://brooker.co.za/blog/2014/12/06/random.html)
 * [2024-06-06, 23:13:02](https://news.ycombinator.com/item?id=40603515) - [Shopify is acquiring the Threads team](https://twitter.com/rousseaukazi/status/1798724339841319186)
 * [2024-06-06, 22:56:05](https://news.ycombinator.com/item?id=40603376) - [Oklahoma Stakes Its Claim to the Tallest Building in the U.S.](https://www.nytimes.com/2024/06/06/realestate/oklahoma-tallest-building.html)
 * [2024-06-06, 22:44:52](https://news.ycombinator.com/item?id=40603259) - [Driver AI (YC W24) Is Hiring a Senior Front-End Engineer](https://www.ycombinator.com/companies/driver-ai/jobs/V2OQgdd-senior-frontend-engineer)
@@ -29,6 +31,7 @@
 * [2024-06-06, 19:38:51](https://news.ycombinator.com/item?id=40601498) - [Tech tycoon Mike Lynch cleared of all fraud charges in Hewlett-Packard trial](https://www.theguardian.com/business/article/2024/jun/06/mike-lynch-fraud-trial-acquittal)
 * [2024-06-06, 19:31:16](https://news.ycombinator.com/item?id=40601423) - [Windows Recall: Microsoft has lost trust with its users](https://www.windowscentral.com/software-apps/nvidia-3-trillion-market-valuation-second-most-valuable-company)
 * [2024-06-06, 19:18:35](https://news.ycombinator.com/item?id=40601303) - [Eric Schmidt Is Testing AI Military Drones](https://www.forbes.com/sites/sarahemerson/2024/06/06/eric-schmidt-is-secretly-testing-ai-military-drones-in-a-wealthy-silicon-valley-suburb/)
+* [2024-06-06, 18:59:34](https://news.ycombinator.com/item?id=40601116) - [AI in software engineering at Google: Progress and the path ahead](https://research.google/blog/ai-in-software-engineering-at-google-progress-and-the-path-ahead/)
 * [2024-06-06, 18:31:04](https://news.ycombinator.com/item?id=40600775) - [Dragonfly: A large vision-language model with multi-resolution zoom](https://www.together.ai/blog/dragonfly-v1)
 * [2024-06-06, 18:28:22](https://news.ycombinator.com/item?id=40600748) - [First recording of tinnitus raises new questions](https://thequietus.com/interviews/lola-de-la-mata-oceans-on-azimuth-tinnitus-interview/)
 * [2024-06-06, 18:25:17](https://news.ycombinator.com/item?id=40600715) - [Surveillance Pricing](https://pluralistic.net/2024/06/05/your-price-named/)
