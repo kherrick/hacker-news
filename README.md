@@ -2,7 +2,7 @@
 
 * [2024-06-07, 13:12:31](https://news.ycombinator.com/item?id=40608413) - [Σ-GPTs: A New Approach to Autoregressive Models](https://arxiv.org/abs/2404.09562)
 * [2024-06-07, 13:06:43](https://news.ycombinator.com/item?id=40608373) - [Instruction Sets Should Be Free: The Case for RISC-V [pdf] (2014)](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-146.pdf)
-* [2024-06-07, 12:54:27](https://news.ycombinator.com/item?id=40608269) - [A Picture Is Worth 170 Tokens: How Does GPT-4o Encode Images?](https://www.oranlooney.com/post/gpt-cnn/)
+* [2024-06-07, 12:54:27](https://news.ycombinator.com/item?id=40608269) - [How Does GPT-4o Encode Images?](https://www.oranlooney.com/post/gpt-cnn/)
 * [2024-06-07, 12:10:30](https://news.ycombinator.com/item?id=40607889) - [Show HN: E-Paper 7-color display showing the current weather](https://github.com/blixt/sol-mate-eink)
 * [2024-06-07, 12:00:03](https://news.ycombinator.com/item?id=40607794) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
 * [2024-06-07, 11:53:27](https://news.ycombinator.com/item?id=40607733) - [The illusion of state in state-space models](https://arxiv.org/abs/2404.08819)
