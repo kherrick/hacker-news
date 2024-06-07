@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-06-07, 17:22:31",
-      "https://news.ycombinator.com/item?id=40610750"
-    ],
-    [
-      "United Airlines starts serving passengers personalized ads on seatback screens",
-      "https://www.cnbc.com/2024/06/07/united-airlines-personalized-ads-seatback-screens.html"
-    ]
-  ],
-  [
-    [
       "2024-06-07, 17:10:00",
       "https://news.ycombinator.com/item?id=40610641"
     ],
@@ -27,6 +17,16 @@
     [
       "OpenSSH introduces options to penalize undesirable behavior",
       "https://undeadly.org/cgi?action=article;sid=20240607042157"
+    ]
+  ],
+  [
+    [
+      "2024-06-07, 17:02:25",
+      "https://news.ycombinator.com/item?id=40610574"
+    ],
+    [
+      "Webring Starter: a modern, simple webring",
+      "https://github.com/krusynth/webring-starter"
     ]
   ],
   [
