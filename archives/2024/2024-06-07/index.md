@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-07](index.md)
 
+* [2024-06-07, 21:46:30](https://news.ycombinator.com/item?id=40613312) - [Slow-spinning radio neutron star breaks all the rules](https://www.sydney.edu.au/news-opinion/news/2024/06/05/slow-spinning-radio-neutron-star-breaks-all-the-rules.html)
 * [2024-06-07, 21:31:21](https://news.ycombinator.com/item?id=40613196) - [How Liberals Talk About Children](https://www.newyorker.com/news/fault-lines/how-liberals-talk-about-children)
 * [2024-06-07, 21:22:05](https://news.ycombinator.com/item?id=40613126) - [Xv6, a simple Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2023/xv6.html)
 * [2024-06-07, 20:08:07](https://news.ycombinator.com/item?id=40612445) - [D-Day, as told by paratroopers](https://www.politico.com/news/magazine/2024/06/06/d-day-normandy-world-war-ii-paratroopers-00161916?ref=thebrowser.com)
@@ -66,6 +67,7 @@
 * [2024-06-07, 09:52:54](https://news.ycombinator.com/item?id=40607017) - [Alan Turing died 70 years ago](https://en.wikipedia.org/wiki/Alan_Turing)
 * [2024-06-07, 09:36:48](https://news.ycombinator.com/item?id=40606924) - [Secret Hand Gestures in Paintings](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233791/)
 * [2024-06-07, 09:15:16](https://news.ycombinator.com/item?id=40606802) - [Samsung union stages its first ever strike](https://www.theregister.com/2024/06/07/samsung_union_strike/)
+* [2024-06-07, 09:05:57](https://news.ycombinator.com/item?id=40606756) - [An open source vuln scanner in Python: OXO](https://oxo.ostorlab.co/)
 * [2024-06-07, 08:22:47](https://news.ycombinator.com/item?id=40606503) - [Towards Federated Key Transparency](https://soatok.blog/2024/06/06/towards-federated-key-transparency/)
 * [2024-06-07, 08:19:12](https://news.ycombinator.com/item?id=40606477) - [A Better Regex Experience](https://polar.sh/eval/posts/a-better-regex-experience)
 * [2024-06-07, 08:01:17](https://news.ycombinator.com/item?id=40606358) - [Show HN: Fluo – Immersive Chats](https://fluo.chat/)

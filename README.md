@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-07, 21:46:30](https://news.ycombinator.com/item?id=40613312) - [Slow-spinning radio neutron star breaks all the rules](https://www.sydney.edu.au/news-opinion/news/2024/06/05/slow-spinning-radio-neutron-star-breaks-all-the-rules.html)
 * [2024-06-07, 21:22:05](https://news.ycombinator.com/item?id=40613126) - [Xv6, a simple Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2023/xv6.html)
 * [2024-06-07, 20:08:07](https://news.ycombinator.com/item?id=40612445) - [D-Day, as told by paratroopers](https://www.politico.com/news/magazine/2024/06/06/d-day-normandy-world-war-ii-paratroopers-00161916?ref=thebrowser.com)
 * [2024-06-07, 20:02:27](https://news.ycombinator.com/item?id=40612387) - [Yes, you can play Duck Hunt without a television (but I can't)](https://nicole.express/2024/no-screen-no-cpu-one-problem.html)
@@ -20,16 +21,15 @@
 * [2024-06-07, 13:12:31](https://news.ycombinator.com/item?id=40608413) - [σ-GPTs: A new approach to autoregressive models](https://arxiv.org/abs/2404.09562)
 * [2024-06-07, 13:06:43](https://news.ycombinator.com/item?id=40608373) - [Instruction Sets Should Be Free: The Case for RISC-V [pdf] (2014)](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-146.pdf)
 * [2024-06-07, 13:01:15](https://news.ycombinator.com/item?id=40608332) - [Tom 7: Badness 0 (Three ways)](http://tom7.org/bovex/)
-* [2024-06-07, 12:54:27](https://news.ycombinator.com/item?id=40608269) - [How Does GPT-4o Encode Images?](https://www.oranlooney.com/post/gpt-cnn/)
 * [2024-06-07, 12:10:30](https://news.ycombinator.com/item?id=40607889) - [Show HN: E-Paper 7-color display showing the current weather](https://github.com/blixt/sol-mate-eink)
 * [2024-06-07, 12:00:03](https://news.ycombinator.com/item?id=40607794) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
 * [2024-06-07, 10:44:27](https://news.ycombinator.com/item?id=40607289) - [The flip-flop on whether alcohol is good for you (2023)](https://slate.com/technology/2023/04/alcohol-wine-drinking-healthy-dangerous-study.html)
 * [2024-06-07, 09:36:48](https://news.ycombinator.com/item?id=40606924) - [Secret Hand Gestures in Paintings (2019)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233791/)
+* [2024-06-07, 09:05:57](https://news.ycombinator.com/item?id=40606756) - [An open source vuln scanner in Python: OXO](https://oxo.ostorlab.co/)
 * [2024-06-07, 06:25:21](https://news.ycombinator.com/item?id=40605824) - [Cracking the Scheduling Code in Hay Day](https://thinhcorner.com/blog/hayday-game-schedule)
 * [2024-06-07, 05:21:54](https://news.ycombinator.com/item?id=40605574) - [Quieting the Global Growl](https://hakaimagazine.com/features/quieting-the-global-growl/)
 * [2024-06-06, 23:12:02](https://news.ycombinator.com/item?id=40603509) - [Concrete Faith: The creation of the Bahá’í house of worship (2023)](https://design.newcity.com/2023/11/01/concrete-faith-how-the-creation-of-the-bahai-house-of-worship-changed-the-course-of-architecture-cab-2023/)
 * [2024-06-05, 17:39:39](https://news.ycombinator.com/item?id=40587934) - [LaTeX is the first PDF/UA-2 compliance accessible PDF producer](https://github.com/latex3/tagging-project/discussions/72)
-* [2024-06-05, 01:09:55](https://news.ycombinator.com/item?id=40580458) - [A lifetime of love for the charismatic narwhal](https://knowablemagazine.org/content/article/living-world/2024/life-of-the-narwhal-martin-nweeia)
 
 ## [Archives](archives/index.md)
 
