@@ -15,7 +15,7 @@
 * [2024-06-07, 15:14:29](https://news.ycombinator.com/item?id=40609485) - [Turn On, Tune In, Write Code](https://www.thenewatlantis.com/publications/turn-on-tune-in-write-code)
 * [2024-06-07, 14:55:48](https://news.ycombinator.com/item?id=40609326) - [LedgerStore Supports Trillions of Indexes at Uber](https://www.uber.com/blog/how-ledgerstore-supports-trillions-of-indexes/?uclick_id=67d612cb-12f8-470a-98fd-e9f7144dfafb)
 * [2024-06-07, 13:42:02](https://news.ycombinator.com/item?id=40608615) - [Italian streets that don't exist on any map (2022)](https://www.atlasobscura.com/articles/italian-streets-not-on-map)
-* [2024-06-07, 13:29:35](https://news.ycombinator.com/item?id=40608523) - [The Man Who Reinvented the Cat](https://www.newyorker.com/magazine/2024/06/10/catland-louis-wain-and-the-great-cat-mania-kathryn-hughes-book-review)
+* [2024-06-07, 13:29:35](https://news.ycombinator.com/item?id=40608523) - [The man who reinvented the cat](https://www.newyorker.com/magazine/2024/06/10/catland-louis-wain-and-the-great-cat-mania-kathryn-hughes-book-review)
 * [2024-06-07, 13:12:31](https://news.ycombinator.com/item?id=40608413) - [σ-GPTs: A new approach to autoregressive models](https://arxiv.org/abs/2404.09562)
 * [2024-06-07, 13:06:43](https://news.ycombinator.com/item?id=40608373) - [Instruction Sets Should Be Free: The Case for RISC-V [pdf] (2014)](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-146.pdf)
 * [2024-06-07, 13:01:15](https://news.ycombinator.com/item?id=40608332) - [Tom 7: Badness 0 (Three ways)](http://tom7.org/bovex/)
