@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2024-06-07, 05:26:34",
+      "https://news.ycombinator.com/item?id=40605586"
+    ],
+    [
+      "Dblab: Interactive Terminal Client for PostgreSQL, MySQL, SQLite3 and Oracle",
+      "https://github.com/danvergara/dblab"
+    ]
+  ],
+  [
+    [
       "2024-06-07, 05:21:54",
       "https://news.ycombinator.com/item?id=40605574"
     ],
@@ -237,16 +247,6 @@
     [
       "Ice - open source bar manager for macOS",
       "https://github.com/jordanbaird/Ice"
-    ]
-  ],
-  [
-    [
-      "2024-06-07, 01:59:21",
-      "https://news.ycombinator.com/item?id=40604596"
-    ],
-    [
-      "CPU Energy Meter: A tool for measuring energy consumption of Intel CPUs",
-      "https://github.com/sosy-lab/cpu-energy-meter"
     ]
   ],
   [
