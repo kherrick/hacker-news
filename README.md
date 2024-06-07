@@ -2,11 +2,12 @@
 
 * [2024-06-07, 09:52:54](https://news.ycombinator.com/item?id=40607017) - [Alan Turing died 70 years ago](https://en.wikipedia.org/wiki/Alan_Turing)
 * [2024-06-07, 09:15:16](https://news.ycombinator.com/item?id=40606802) - [Samsung union stages its first ever strike](https://www.theregister.com/2024/06/07/samsung_union_strike/)
-* [2024-06-07, 06:51:08](https://news.ycombinator.com/item?id=40605970) - [GNU Justified Public License (2007)](http://tom7.org/bovex/JCOPYING)
+* [2024-06-07, 06:51:08](https://news.ycombinator.com/item?id=40605970) - [GNU Justified Public License](http://tom7.org/bovex/JCOPYING)
 * [2024-06-07, 05:11:58](https://news.ycombinator.com/item?id=40605532) - [Ice - open source bar manager for macOS](https://github.com/jordanbaird/Ice)
 * [2024-06-07, 01:59:21](https://news.ycombinator.com/item?id=40604596) - [CPU Energy Meter: A tool for measuring energy consumption of Intel CPUs](https://github.com/sosy-lab/cpu-energy-meter)
 * [2024-06-07, 01:00:55](https://news.ycombinator.com/item?id=40604246) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=40604246)
 * [2024-06-07, 00:34:56](https://news.ycombinator.com/item?id=40604093) - [Generative AI Handbook: A Roadmap for Learning Resources](https://genai-handbook.github.io/)
+* [2024-06-06, 23:36:20](https://news.ycombinator.com/item?id=40603692) - [Uganda's surveillance state is built on national ID cards](https://www.bloomberg.com/news/features/2024-06-04/uganda-yoweri-museveni-s-critics-targeted-via-biometric-id-system)
 * [2024-06-06, 20:40:58](https://news.ycombinator.com/item?id=40602147) - [Shu Ha Ri (2014)](https://www.martinfowler.com/bliki/ShuHaRi.html)
 * [2024-06-06, 18:59:34](https://news.ycombinator.com/item?id=40601116) - [AI in software engineering at Google: Progress and the path ahead](https://research.google/blog/ai-in-software-engineering-at-google-progress-and-the-path-ahead/)
 * [2024-06-06, 18:31:04](https://news.ycombinator.com/item?id=40600775) - [Dragonfly: A large vision-language model with multi-resolution zoom](https://www.together.ai/blog/dragonfly-v1)
@@ -28,7 +29,6 @@
 * [2024-06-05, 11:24:21](https://news.ycombinator.com/item?id=40583632) - [Hybrid Bonding: 3D Chip Tech to Save Moore's Law](https://spectrum.ieee.org/hybrid-bonding)
 * [2024-06-05, 07:57:12](https://news.ycombinator.com/item?id=40582475) - [Kiosk mode bypass for an Ariane Allegro Scenario Player based hotel check-in te](https://www.pentagrid.ch/en/blog/ariane-allegro-hotel-check-in-terminal-kios-escape/)
 * [2024-06-05, 07:37:38](https://news.ycombinator.com/item?id=40582357) - [Show HN: 2d web paddle game](https://raould.github.io/pn0gstr0m/)
-* [2024-06-05, 06:22:26](https://news.ycombinator.com/item?id=40581904) - [Compromised Visions Are Superior](https://ericnormand.substack.com/p/compromised-visions-are-superior)
 * [2024-06-05, 04:57:26](https://news.ycombinator.com/item?id=40581519) - [Reading awc](https://akamayu-ouo.srht.site/2024-06-01-ksimple)
 
 ## [Archives](archives/index.md)
