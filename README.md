@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-07, 15:28:02](https://news.ycombinator.com/item?id=40609599) - [Illegally parked cars are now getting hit by this dystopian windscreen barnacle](https://www.techradar.com/vehicle-tech/hybrid-electric-vehicles/forget-wheel-clamps-illegally-parked-cars-are-now-getting-hit-by-this-dystopian-windscreen-barnacle)
 * [2024-06-07, 14:55:48](https://news.ycombinator.com/item?id=40609326) - [LedgerStore Supports Trillions of Indexes at Uber](https://www.uber.com/blog/how-ledgerstore-supports-trillions-of-indexes/?uclick_id=67d612cb-12f8-470a-98fd-e9f7144dfafb)
 * [2024-06-07, 14:33:05](https://news.ycombinator.com/item?id=40609126) - [Recovery after HP tech support bricked my father's laptop](https://github.com/ctag/hp_envy_reviver)
 * [2024-06-07, 13:12:31](https://news.ycombinator.com/item?id=40608413) - [Σ-GPTs: A New Approach to Autoregressive Models](https://arxiv.org/abs/2404.09562)
@@ -20,6 +19,7 @@
 * [2024-06-06, 21:52:02](https://news.ycombinator.com/item?id=40602792) - [Saving Three Months of Latency with a Single OpenTelemetry Trace](https://www.checklyhq.com/blog/coralogix-and-opentelemetry-on-checkly/)
 * [2024-06-06, 19:25:24](https://news.ycombinator.com/item?id=40601356) - [Attacking NIST SP 800-108 (Loss of Key Control Security)](https://scottarc.blog/2024/06/04/attacking-nist-sp-800-108/)
 * [2024-06-06, 17:01:37](https://news.ycombinator.com/item?id=40599749) - [Extracting concepts from GPT-4](https://openai.com/index/extracting-concepts-from-gpt-4/)
+* [2024-06-06, 16:34:31](https://news.ycombinator.com/item?id=40599419) - [Show HN: XPipe, a brand-new type of remote file browser and shell connection hub](https://xpipe.io)
 * [2024-06-06, 15:29:56](https://news.ycombinator.com/item?id=40598629) - [lsix: Like \"ls\", but for images](https://github.com/hackerb9/lsix)
 * [2024-06-06, 13:32:36](https://news.ycombinator.com/item?id=40597216) - [Roman Roads (2017)](https://sashamaps.net/docs/maps/roman-roads-original/)
 * [2024-06-06, 13:02:48](https://news.ycombinator.com/item?id=40596883) - [Super Heavy has splashed down in The Gulf of Mexico](https://twitter.com/SpaceX/status/1798701489097183286)
