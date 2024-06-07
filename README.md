@@ -10,6 +10,7 @@
 * [2024-06-07, 15:16:09](https://news.ycombinator.com/item?id=40609499) - [Motile Living Biobots Self-Construct from Human Somatic Progenitor Seed Cells](https://onlinelibrary.wiley.com/doi/epdf/10.1002/advs.202303575)
 * [2024-06-07, 15:14:29](https://news.ycombinator.com/item?id=40609485) - [Turn On, Tune In, Write Code](https://www.thenewatlantis.com/publications/turn-on-tune-in-write-code)
 * [2024-06-07, 14:55:48](https://news.ycombinator.com/item?id=40609326) - [LedgerStore Supports Trillions of Indexes at Uber](https://www.uber.com/blog/how-ledgerstore-supports-trillions-of-indexes/?uclick_id=67d612cb-12f8-470a-98fd-e9f7144dfafb)
+* [2024-06-07, 13:42:02](https://news.ycombinator.com/item?id=40608615) - [Italian streets that don't exist on any map](https://www.atlasobscura.com/articles/italian-streets-not-on-map)
 * [2024-06-07, 13:12:31](https://news.ycombinator.com/item?id=40608413) - [Σ-GPTs: A New Approach to Autoregressive Models](https://arxiv.org/abs/2404.09562)
 * [2024-06-07, 13:06:43](https://news.ycombinator.com/item?id=40608373) - [Instruction Sets Should Be Free: The Case for RISC-V [pdf] (2014)](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-146.pdf)
 * [2024-06-07, 13:01:15](https://news.ycombinator.com/item?id=40608332) - [Tom 7: Badness 0 (Three ways)](http://tom7.org/bovex/)
@@ -28,8 +29,7 @@
 * [2024-06-06, 23:12:02](https://news.ycombinator.com/item?id=40603509) - [How the Creation of the Bahai House of Worship Changed Architecture (2023)](https://design.newcity.com/2023/11/01/concrete-faith-how-the-creation-of-the-bahai-house-of-worship-changed-the-course-of-architecture-cab-2023/)
 * [2024-06-06, 21:52:02](https://news.ycombinator.com/item?id=40602792) - [Saving Three Months of Latency with a Single OpenTelemetry Trace](https://www.checklyhq.com/blog/coralogix-and-opentelemetry-on-checkly/)
 * [2024-06-06, 19:25:24](https://news.ycombinator.com/item?id=40601356) - [Attacking NIST SP 800-108 (Loss of Key Control Security)](https://scottarc.blog/2024/06/04/attacking-nist-sp-800-108/)
-* [2024-06-06, 13:32:36](https://news.ycombinator.com/item?id=40597216) - [Roman Roads (2017)](https://sashamaps.net/docs/maps/roman-roads-original/)
-* [2024-06-06, 10:24:23](https://news.ycombinator.com/item?id=40595741) - [I learned Vulkan and wrote a small game engine with it](https://edw.is/learning-vulkan/)
+* [2024-06-05, 01:09:55](https://news.ycombinator.com/item?id=40580458) - [A lifetime of love for the charismatic narwhal](https://knowablemagazine.org/content/article/living-world/2024/life-of-the-narwhal-martin-nweeia)
 
 ## [Archives](archives/index.md)
 
