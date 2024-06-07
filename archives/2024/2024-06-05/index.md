@@ -27,6 +27,7 @@
 * [2024-06-05, 18:28:53](https://news.ycombinator.com/item?id=40588540) - [How big a deal was the Industrial Revolution? (2017)](https://lukemuehlhauser.com/industrial-revolution/)
 * [2024-06-05, 18:26:02](https://news.ycombinator.com/item?id=40588508) - [Feature Flags in Bazel Builds](https://pigweed.dev/docs/blog/02-bazel-feature-flags.html)
 * [2024-06-05, 18:01:57](https://news.ycombinator.com/item?id=40588218) - [The Thousand Brains Project](https://www.numenta.com/thousand-brains-project/)
+* [2024-06-05, 17:39:39](https://news.ycombinator.com/item?id=40587934) - [LaTeX is the first PDF/UA-2 compliance accessible PDF producer](https://github.com/latex3/tagging-project/discussions/72)
 * [2024-06-05, 17:31:41](https://news.ycombinator.com/item?id=40587839) - [A primer on the next generation of antibodies](https://www.abhishaike.com/p/a-primer-to-the-next-generation-of-antibodies)
 * [2024-06-05, 17:19:13](https://news.ycombinator.com/item?id=40587685) - [Stable Audio Open – Stability AI](https://stability.ai/news/introducing-stable-audio-open)
 * [2024-06-05, 17:04:20](https://news.ycombinator.com/item?id=40587485) - [NYC Congestion Pricing Delayed Indefinitely by Governor Kathy Hochul](https://www.bloomberg.com/news/articles/2024-06-05/nyc-congestion-pricing-risks-delay-after-hochul-weighs-pause)
