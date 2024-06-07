@@ -17,7 +17,6 @@
 * [2024-06-07, 12:54:27](https://news.ycombinator.com/item?id=40608269) - [How Does GPT-4o Encode Images?](https://www.oranlooney.com/post/gpt-cnn/)
 * [2024-06-07, 12:10:30](https://news.ycombinator.com/item?id=40607889) - [Show HN: E-Paper 7-color display showing the current weather](https://github.com/blixt/sol-mate-eink)
 * [2024-06-07, 12:00:03](https://news.ycombinator.com/item?id=40607794) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
-* [2024-06-07, 11:53:27](https://news.ycombinator.com/item?id=40607733) - [The illusion of state in state-space models](https://arxiv.org/abs/2404.08819)
 * [2024-06-07, 10:47:22](https://news.ycombinator.com/item?id=40607307) - [We Are Made of Waves](https://nautil.us/we-are-made-of-waves-640732/)
 * [2024-06-07, 09:36:48](https://news.ycombinator.com/item?id=40606924) - [Secret Hand Gestures in Paintings (2019)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233791/)
 * [2024-06-07, 08:22:47](https://news.ycombinator.com/item?id=40606503) - [Towards Federated Key Transparency](https://soatok.blog/2024/06/06/towards-federated-key-transparency/)
@@ -29,6 +28,7 @@
 * [2024-06-06, 23:12:02](https://news.ycombinator.com/item?id=40603509) - [How the Creation of the Bahai House of Worship Changed Architecture (2023)](https://design.newcity.com/2023/11/01/concrete-faith-how-the-creation-of-the-bahai-house-of-worship-changed-the-course-of-architecture-cab-2023/)
 * [2024-06-06, 21:52:02](https://news.ycombinator.com/item?id=40602792) - [Saving Three Months of Latency with a Single OpenTelemetry Trace](https://www.checklyhq.com/blog/coralogix-and-opentelemetry-on-checkly/)
 * [2024-06-06, 19:25:24](https://news.ycombinator.com/item?id=40601356) - [Attacking NIST SP 800-108 (Loss of Key Control Security)](https://scottarc.blog/2024/06/04/attacking-nist-sp-800-108/)
+* [2024-06-06, 12:39:01](https://news.ycombinator.com/item?id=40596689) - [AeroSpace is an i3-like tiling window manager for macOS](https://github.com/nikitabobko/AeroSpace)
 * [2024-06-05, 01:09:55](https://news.ycombinator.com/item?id=40580458) - [A lifetime of love for the charismatic narwhal](https://knowablemagazine.org/content/article/living-world/2024/life-of-the-narwhal-martin-nweeia)
 
 ## [Archives](archives/index.md)
