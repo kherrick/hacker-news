@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-06-07, 13:32:26",
+      "https://news.ycombinator.com/item?id=40608539"
+    ],
+    [
+      "Don't name packages common nouns",
+      "https://brandur.org/fragments/go-no-common-nouns"
+    ]
+  ],
+  [
+    [
       "2024-06-07, 13:12:31",
       "https://news.ycombinator.com/item?id=40608413"
     ],
     [
       "Σ-GPTs: A New Approach to Autoregressive Models",
       "https://arxiv.org/abs/2404.09562"
+    ]
+  ],
+  [
+    [
+      "2024-06-07, 13:01:15",
+      "https://news.ycombinator.com/item?id=40608332"
+    ],
+    [
+      "Tom 7: Badness 0 (Three ways)",
+      "http://tom7.org/bovex/"
     ]
   ],
   [
@@ -37,6 +57,16 @@
     [
       "The Twitch DJ Program",
       "https://blog.twitch.tv/en/2024/06/06/introducing-the-twitch-dj-program/"
+    ]
+  ],
+  [
+    [
+      "2024-06-07, 09:36:48",
+      "https://news.ycombinator.com/item?id=40606924"
+    ],
+    [
+      "Secret Hand Gestures in Paintings",
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233791/"
     ]
   ],
   [
@@ -137,16 +167,6 @@
     [
       "Show HN: XPipe, a brand-new type of remote file browser and shell connection hub",
       "https://xpipe.io"
-    ]
-  ],
-  [
-    [
-      "2024-06-06, 16:01:13",
-      "https://news.ycombinator.com/item?id=40599018"
-    ],
-    [
-      "Qwen2 LLM Released",
-      "https://qwenlm.github.io/blog/qwen2/"
     ]
   ],
   [
@@ -261,16 +281,6 @@
   ],
   [
     [
-      "2024-06-05, 16:06:05",
-      "https://news.ycombinator.com/item?id=40586654"
-    ],
-    [
-      "Squatting in Spain: Understanding Spain's \"okupas\" problem",
-      "https://www.idealista.com/en/news/legal-advice-in-spain/2024/04/15/816509-squatting-in-spain-understanding-spain-s-okupas-problem"
-    ]
-  ],
-  [
-    [
       "2024-06-05, 07:57:12",
       "https://news.ycombinator.com/item?id=40582475"
     ],
@@ -287,16 +297,6 @@
     [
       "Show HN: 2d web paddle game",
       "https://raould.github.io/pn0gstr0m/"
-    ]
-  ],
-  [
-    [
-      "2024-06-05, 04:57:26",
-      "https://news.ycombinator.com/item?id=40581519"
-    ],
-    [
-      "Reading awc",
-      "https://akamayu-ouo.srht.site/2024-06-01-ksimple"
     ]
   ]
 ]
