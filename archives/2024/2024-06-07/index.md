@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-07](index.md)
 
 * [2024-06-07, 21:31:21](https://news.ycombinator.com/item?id=40613196) - [How Liberals Talk About Children](https://www.newyorker.com/news/fault-lines/how-liberals-talk-about-children)
+* [2024-06-07, 21:22:05](https://news.ycombinator.com/item?id=40613126) - [Xv6, a simple Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2023/xv6.html)
 * [2024-06-07, 20:08:07](https://news.ycombinator.com/item?id=40612445) - [D-Day, as told by paratroopers](https://www.politico.com/news/magazine/2024/06/06/d-day-normandy-world-war-ii-paratroopers-00161916?ref=thebrowser.com)
 * [2024-06-07, 20:02:27](https://news.ycombinator.com/item?id=40612387) - [Yes, you can play Duck Hunt without a television (but I can't)](https://nicole.express/2024/no-screen-no-cpu-one-problem.html)
 * [2024-06-07, 20:01:08](https://news.ycombinator.com/item?id=40612365) - [The aging U.S. power grid is about to get a jolt](https://www.wsj.com/business/energy-oil/the-aging-u-s-power-grid-is-about-to-get-a-jolt-144e7fdc)

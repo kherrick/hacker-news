@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-07, 21:31:21](https://news.ycombinator.com/item?id=40613196) - [How Liberals Talk About Children](https://www.newyorker.com/news/fault-lines/how-liberals-talk-about-children)
+* [2024-06-07, 21:22:05](https://news.ycombinator.com/item?id=40613126) - [Xv6, a simple Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2023/xv6.html)
 * [2024-06-07, 20:08:07](https://news.ycombinator.com/item?id=40612445) - [D-Day, as told by paratroopers](https://www.politico.com/news/magazine/2024/06/06/d-day-normandy-world-war-ii-paratroopers-00161916?ref=thebrowser.com)
 * [2024-06-07, 20:02:27](https://news.ycombinator.com/item?id=40612387) - [Yes, you can play Duck Hunt without a television (but I can't)](https://nicole.express/2024/no-screen-no-cpu-one-problem.html)
 * [2024-06-07, 20:01:08](https://news.ycombinator.com/item?id=40612365) - [The aging U.S. power grid is about to get a jolt](https://www.wsj.com/business/energy-oil/the-aging-u-s-power-grid-is-about-to-get-a-jolt-144e7fdc)
 * [2024-06-07, 19:57:03](https://news.ycombinator.com/item?id=40612321) - [Why are debut novels failing to launch?](https://www.esquire.com/entertainment/books/a60924704/debut-fiction-challenges/)
 * [2024-06-07, 19:56:38](https://news.ycombinator.com/item?id=40612318) - [Clues to disappearance of North America's large mammals 50k years ago](https://phys.org/news/2024-05-clues-mysterious-north-america-large.html)
-* [2024-06-07, 19:53:38](https://news.ycombinator.com/item?id=40612285) - [Feynman's Razor (if an expert can't understand, you've dumbed it down too much)](https://defenderofthebasic.substack.com/p/feynmans-razor)
+* [2024-06-07, 19:53:38](https://news.ycombinator.com/item?id=40612285) - [Feynman’s Razor](https://defenderofthebasic.substack.com/p/feynmans-razor)
 * [2024-06-07, 18:45:59](https://news.ycombinator.com/item?id=40611638) - [Alarms in medical equipment](https://th.id.au/alarms/)
 * [2024-06-07, 17:51:37](https://news.ycombinator.com/item?id=40611058) - [How Mount Everest killed George Mallory](https://thespectator.com/book-and-art/mount-everest-killed-george-mallory-mick-conefrey-fallen/)
 * [2024-06-07, 17:10:00](https://news.ycombinator.com/item?id=40610641) - [ASCII Silhouettify](https://meatfighter.com/ascii-silhouettify/)
@@ -26,10 +26,10 @@
 * [2024-06-07, 10:44:27](https://news.ycombinator.com/item?id=40607289) - [The flip-flop on whether alcohol is good for you (2023)](https://slate.com/technology/2023/04/alcohol-wine-drinking-healthy-dangerous-study.html)
 * [2024-06-07, 09:36:48](https://news.ycombinator.com/item?id=40606924) - [Secret Hand Gestures in Paintings (2019)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233791/)
 * [2024-06-07, 06:25:21](https://news.ycombinator.com/item?id=40605824) - [Cracking the Scheduling Code in Hay Day](https://thinhcorner.com/blog/hayday-game-schedule)
+* [2024-06-07, 05:21:54](https://news.ycombinator.com/item?id=40605574) - [Quieting the Global Growl](https://hakaimagazine.com/features/quieting-the-global-growl/)
 * [2024-06-06, 23:12:02](https://news.ycombinator.com/item?id=40603509) - [Concrete Faith: The creation of the Bahá’í house of worship (2023)](https://design.newcity.com/2023/11/01/concrete-faith-how-the-creation-of-the-bahai-house-of-worship-changed-the-course-of-architecture-cab-2023/)
 * [2024-06-05, 17:39:39](https://news.ycombinator.com/item?id=40587934) - [LaTeX is the first PDF/UA-2 compliance accessible PDF producer](https://github.com/latex3/tagging-project/discussions/72)
 * [2024-06-05, 01:09:55](https://news.ycombinator.com/item?id=40580458) - [A lifetime of love for the charismatic narwhal](https://knowablemagazine.org/content/article/living-world/2024/life-of-the-narwhal-martin-nweeia)
-* [2024-06-04, 21:18:17](https://news.ycombinator.com/item?id=40579045) - [The largest solar farm just came online in China](https://electrek.co/2024/06/04/worlds-largest-solar-farm-china/)
 
 ## [Archives](archives/index.md)
 
