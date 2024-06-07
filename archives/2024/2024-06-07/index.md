@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-07](index.md)
 
+* [2024-06-07, 16:32:25](https://news.ycombinator.com/item?id=40610239) - [Boeing 737 flight from UK was 'seconds from disaster after software glitch'](https://metro.co.uk/2024/06/07/boeing-737-flight-uk-seconds-disaster-glitch-20990507/)
+* [2024-06-07, 16:27:09](https://news.ycombinator.com/item?id=40610181) - [Lite.cnn.com](https://lite.cnn.com/)
+* [2024-06-07, 16:09:07](https://news.ycombinator.com/item?id=40609986) - [Zany ideas to slow polar melting are gathering momentum](https://www.economist.com/science-and-technology/2024/06/06/zany-ideas-to-slow-polar-melting-are-gathering-momentum)
 * [2024-06-07, 16:05:08](https://news.ycombinator.com/item?id=40609952) - [Washington Post CEO tried to kill story about himself. It wasn't the first time](https://www.npr.org/2024/06/07/nx-s1-4995105/washington-post-will-lewis-tries-to-kill-story-buzbee)
 * [2024-06-07, 16:02:17](https://news.ycombinator.com/item?id=40609922) - [270GB of source code from The New York Times leaked to 4Chan](https://twitter.com/vxunderground/status/1798856571931263480)
 * [2024-06-07, 16:01:13](https://news.ycombinator.com/item?id=40609908) - [We migrated from AWS to GCP with minimal downtime](https://postgresml.org/blog/how-we-migrated-from-aws-to-gcp-with-minimal-downtime)
