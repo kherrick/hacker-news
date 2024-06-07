@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-07](index.md)
 
+* [2024-06-07, 15:03:10](https://news.ycombinator.com/item?id=40609388) - [Microsoft's Recall is already exploited](https://github.com/Pennyw0rth/NetExec/pull/335)
 * [2024-06-07, 14:55:48](https://news.ycombinator.com/item?id=40609326) - [LedgerStore Supports Trillions of Indexes at Uber](https://www.uber.com/blog/how-ledgerstore-supports-trillions-of-indexes/?uclick_id=67d612cb-12f8-470a-98fd-e9f7144dfafb)
+* [2024-06-07, 14:33:05](https://news.ycombinator.com/item?id=40609126) - [Recovery after HP tech support bricked my father's laptop](https://github.com/ctag/hp_envy_reviver)
 * [2024-06-07, 13:32:26](https://news.ycombinator.com/item?id=40608539) - [Don't name packages common nouns](https://brandur.org/fragments/go-no-common-nouns)
 * [2024-06-07, 13:12:31](https://news.ycombinator.com/item?id=40608413) - [Σ-GPTs: A New Approach to Autoregressive Models](https://arxiv.org/abs/2404.09562)
 * [2024-06-07, 13:06:43](https://news.ycombinator.com/item?id=40608373) - [Instruction Sets Should Be Free: The Case for RISC-V [pdf] (2014)](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-146.pdf)
