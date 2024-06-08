@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-08](index.md)
 
+* [2024-06-08, 18:51:28](https://news.ycombinator.com/item?id=40619501) - [Auditing TikTok](https://tiktok-audit.com/blog/)
 * [2024-06-08, 17:57:09](https://news.ycombinator.com/item?id=40619227) - [New York Times source code stolen using exposed GitHub token](https://www.bleepingcomputer.com/news/security/new-york-times-source-code-stolen-using-exposed-github-token/)
 * [2024-06-08, 17:25:05](https://news.ycombinator.com/item?id=40619008) - [Scientists wonder if shape of the universe is like a doughnut](https://www.theguardian.com/science/article/2024/jun/08/shape-universe-topology-doughnut-flat-curvature-dimensions)
 * [2024-06-08, 17:16:04](https://news.ycombinator.com/item?id=40618954) - [Ask HN: Share Your YoutTube Channel](https://news.ycombinator.com/item?id=40618954)

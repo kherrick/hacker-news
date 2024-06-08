@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-08, 18:51:28](https://news.ycombinator.com/item?id=40619501) - [Auditing TikTok](https://tiktok-audit.com/blog/)
 * [2024-06-08, 17:25:05](https://news.ycombinator.com/item?id=40619008) - [Scientists wonder if shape of the universe is like a doughnut](https://www.theguardian.com/science/article/2024/jun/08/shape-universe-topology-doughnut-flat-curvature-dimensions)
 * [2024-06-08, 16:43:46](https://news.ycombinator.com/item?id=40618766) - [My favorite 1980's Canadian TV show: Bits and Bytes](https://omarshehata.substack.com/p/my-favorite-1980s-canadian-tv-show)
 * [2024-06-08, 16:05:45](https://news.ycombinator.com/item?id=40618459) - [Detecting a PS2 Emulator: When 1*X does not equal X](https://fobes.dev/ps2/detecting-emu-vu-floats)
@@ -28,7 +29,6 @@
 * [2024-06-07, 01:58:33](https://news.ycombinator.com/item?id=40604592) - [Evidence of earth's first rains found trapped within primordial crystals](https://www.sciencealert.com/evidence-of-earths-first-rains-found-trapped-within-primordial-crystals)
 * [2024-06-06, 22:46:46](https://news.ycombinator.com/item?id=40603277) - [Bali's stone sarcophagi included global goods](https://www.atlasobscura.com/articles/bali-stone-sarcophagus-artifacts)
 * [2024-06-06, 18:58:20](https://news.ycombinator.com/item?id=40601098) - [Zero Tolerance for Bias](https://queue.acm.org/detail.cfm?id=3664645)
-* [2024-06-06, 06:59:05](https://news.ycombinator.com/item?id=40594367) - [A humble Indian fabric became a symbol of luxury in 1960s America](https://www.cnn.com/2024/06/05/style/india-madras-fabric-us-fashion-intl-hnk/index.html)
 * [2024-06-05, 20:09:22](https://news.ycombinator.com/item?id=40589922) - [Cloud Performance on a \"Toy\" Computer: From Python to Rust](https://progscrape.com/blog/2024-06-06/cloud-performance-on-a-toy-computer-from-python-to-rust)
 
 ## [Archives](archives/index.md)
