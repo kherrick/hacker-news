@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-08, 06:34:03](https://news.ycombinator.com/item?id=40615723) - [What happened to Captura? OSS maintainer burnout (2023)](https://mathewsachin.github.io/blog/2023/04/09/captura-unmaintained.html)
 * [2024-06-08, 05:43:48](https://news.ycombinator.com/item?id=40615537) - [Replit used legal threats to kill my open-source project](https://intuitiveexplanations.com/tech/replit/)
 * [2024-06-08, 04:33:29](https://news.ycombinator.com/item?id=40615301) - [Welcome to the safest time to give birth in human history](https://www.theupwing.com/the-radical-drop-in-maternal-mortality-was-a-public-health-miracle/)
 * [2024-06-08, 01:04:34](https://news.ycombinator.com/item?id=40614467) - [Memory-safe, clean implementation of classic Posix \"BC\" calculator](https://github.com/rustcoreutils/posixutils-rs/tree/main/calc/src)
@@ -27,7 +28,6 @@
 * [2024-06-07, 09:36:48](https://news.ycombinator.com/item?id=40606924) - [Secret Hand Gestures in Paintings (2019)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233791/)
 * [2024-06-06, 07:55:49](https://news.ycombinator.com/item?id=40594743) - [A pure NumPy implementation of Mamba](https://github.com/idoh/mamba.np)
 * [2024-06-06, 05:05:05](https://news.ycombinator.com/item?id=40593707) - [Le vieux Paris n'est plus](https://davidabell.substack.com/p/le-vieux-paris-nest-plus)
-* [2024-06-05, 21:17:54](https://news.ycombinator.com/item?id=40590735) - [Beginning the End: In the zero thickness of the International Date Line (2009)](https://www.cabinetmagazine.org/issues/32/calame.php)
 * [2024-06-05, 19:18:44](https://news.ycombinator.com/item?id=40589172) - [Own a weather station? We want your data](https://www.weather.gov/iln/cwop)
 * [2024-06-05, 17:39:39](https://news.ycombinator.com/item?id=40587934) - [LaTeX is the first PDF/UA-2 compliance accessible PDF producer](https://github.com/latex3/tagging-project/discussions/72)
 

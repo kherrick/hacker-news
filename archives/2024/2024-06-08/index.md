@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-08](index.md)
 
+* [2024-06-08, 06:34:03](https://news.ycombinator.com/item?id=40615723) - [What happened to Captura? OSS maintainer burnout (2023)](https://mathewsachin.github.io/blog/2023/04/09/captura-unmaintained.html)
 * [2024-06-08, 05:43:48](https://news.ycombinator.com/item?id=40615537) - [Replit used legal threats to kill my open-source project](https://intuitiveexplanations.com/tech/replit/)
 * [2024-06-08, 04:33:29](https://news.ycombinator.com/item?id=40615301) - [Welcome to the safest time to give birth in human history](https://www.theupwing.com/the-radical-drop-in-maternal-mortality-was-a-public-health-miracle/)
 * [2024-06-08, 01:27:45](https://news.ycombinator.com/item?id=40614577) - [Cloud Performance on a \"Toy\" Computer: From Python to Rust](https://progscrape.com/blog/2024-06-06/cloud-performance-on-a-toy-computer-from-python-to-rust)
