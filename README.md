@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-08, 18:56:29](https://news.ycombinator.com/item?id=40619521) - [Beware anti patterns in event driven architecture](https://codeopinion.com/beware-anti-patterns-in-event-driven-architecture/)
-* [2024-06-08, 18:17:57](https://news.ycombinator.com/item?id=40619344) - [A Single Vulnerability Can Bring Down the JavaScript Ecosystem](https://www.landh.tech/blog/20240603-npm-cache-poisoning/)
 * [2024-06-08, 17:25:05](https://news.ycombinator.com/item?id=40619008) - [Scientists wonder if shape of the universe is like a doughnut](https://www.theguardian.com/science/article/2024/jun/08/shape-universe-topology-doughnut-flat-curvature-dimensions)
 * [2024-06-08, 16:43:46](https://news.ycombinator.com/item?id=40618766) - [My favorite 1980's Canadian TV show: Bits and Bytes](https://omarshehata.substack.com/p/my-favorite-1980s-canadian-tv-show)
 * [2024-06-08, 16:05:45](https://news.ycombinator.com/item?id=40618459) - [Detecting a PS2 Emulator: When 1*X does not equal X](https://fobes.dev/ps2/detecting-emu-vu-floats)
@@ -9,12 +8,12 @@
 * [2024-06-08, 12:39:56](https://news.ycombinator.com/item?id=40617160) - [Finite-Time Topology Identification of Delayed Complex Dynamical Networks](https://spj.science.org/doi/10.34133/cbsystems.0092)
 * [2024-06-08, 12:24:58](https://news.ycombinator.com/item?id=40617082) - [LSP-AI: open-source language server serving as back end for AI code assistance](https://github.com/SilasMarvin/lsp-ai)
 * [2024-06-08, 11:54:08](https://news.ycombinator.com/item?id=40616966) - [Garbage collect your technical debt (2021)](https://ieeexplore.ieee.org/document/9520328)
-* [2024-06-08, 11:28:41](https://news.ycombinator.com/item?id=40616881) - [A Scheme Primer](https://spritely.institute/static/papers/scheme-primer.html)
 * [2024-06-08, 11:02:32](https://news.ycombinator.com/item?id=40616778) - [Tiny fern has the largest genome of any organism on Earth](https://phys.org/news/2024-05-tiny-fern-largest-genome-earth.html)
 * [2024-06-08, 08:14:54](https://news.ycombinator.com/item?id=40616121) - [Breaking up is hard to do: Chunking in RAG applications](https://stackoverflow.blog/2024/06/06/breaking-up-is-hard-to-do-chunking-in-rag-applications/)
+* [2024-06-08, 06:58:36](https://news.ycombinator.com/item?id=40615808) - [BES – OSS Windows software to control per-process CPU usage](https://mion.yosei.fi/BES/)
 * [2024-06-08, 05:41:43](https://news.ycombinator.com/item?id=40615530) - [South Pole Water Infrastructure](https://brr.fyi/posts/south-pole-water-infrastructure)
 * [2024-06-08, 00:01:04](https://news.ycombinator.com/item?id=40614144) - [Moving CHERIoT RTOS to a tickless model](https://cheriot.org/scheduler/2024/06/07/tickless-scheduler.html)
-* [2024-06-07, 23:11:01](https://news.ycombinator.com/item?id=40613854) - [3dfx Voodoo 4 video card in MXM format (2023)](https://www.vogons.org/viewtopic.php?t=100871)
+* [2024-06-07, 23:11:01](https://news.ycombinator.com/item?id=40613854) - [3dfx Voodoo 4 video card in MXM format](https://www.vogons.org/viewtopic.php?t=100871)
 * [2024-06-07, 20:04:19](https://news.ycombinator.com/item?id=40612406) - [My lunches with the queen of cookbooks](https://tastecooking.com/my-lunches-with-judith-jones-the-queen-of-cookbooks/)
 * [2024-06-07, 20:03:35](https://news.ycombinator.com/item?id=40612398) - [Embedding with America's top hostage negotiator](https://www.vanityfair.com/news/story/americas-top-hostage-negotiator-exclusive)
 * [2024-06-07, 20:01:33](https://news.ycombinator.com/item?id=40612370) - [Roman Women and the Oppian Law](https://www.historytoday.com/history-matters/womens-march-rome)
@@ -30,6 +29,7 @@
 * [2024-06-06, 18:58:20](https://news.ycombinator.com/item?id=40601098) - [Zero Tolerance for Bias](https://queue.acm.org/detail.cfm?id=3664645)
 * [2024-06-05, 20:42:30](https://news.ycombinator.com/item?id=40590353) - [Real VT102 emulation with MAME (2020)](https://zork.net/~st/jottings/Real-VT102-emulation-with-MAME.html)
 * [2024-06-05, 20:09:22](https://news.ycombinator.com/item?id=40589922) - [Cloud Performance on a \"Toy\" Computer: From Python to Rust](https://progscrape.com/blog/2024-06-06/cloud-performance-on-a-toy-computer-from-python-to-rust)
+* [2024-06-05, 17:39:39](https://news.ycombinator.com/item?id=40587934) - [LaTeX is the first PDF/UA-2 compliance accessible PDF producer](https://github.com/latex3/tagging-project/discussions/72)
 
 ## [Archives](archives/index.md)
 

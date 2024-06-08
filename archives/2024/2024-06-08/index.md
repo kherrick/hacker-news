@@ -37,6 +37,7 @@
 * [2024-06-08, 08:14:54](https://news.ycombinator.com/item?id=40616121) - [Breaking up is hard to do: Chunking in RAG applications](https://stackoverflow.blog/2024/06/06/breaking-up-is-hard-to-do-chunking-in-rag-applications/)
 * [2024-06-08, 07:34:43](https://news.ycombinator.com/item?id=40615953) - [Tokyo's Government Is Building Its Own Dating App to Combat Falling Birthrates](https://time.com/6986142/japan-tokyo-government-dating-app-marriage/)
 * [2024-06-08, 07:31:46](https://news.ycombinator.com/item?id=40615940) - [Asahi Installer](https://github.com/AsahiLinux/asahi-installer)
+* [2024-06-08, 06:58:36](https://news.ycombinator.com/item?id=40615808) - [BES – OSS Windows software to control per-process CPU usage](https://mion.yosei.fi/BES/)
 * [2024-06-08, 06:52:09](https://news.ycombinator.com/item?id=40615786) - [Boeing Passenger Jet Nearly Crashes Because of Known Software Bug](https://www.independent.co.uk/travel/tui-boeing-flight-bristol-disaster-avoided-b2558536.html)
 * [2024-06-08, 06:34:03](https://news.ycombinator.com/item?id=40615723) - [What happened to Captura? OSS maintainer burnout (2023)](https://mathewsachin.github.io/blog/2023/04/09/captura-unmaintained.html)
 * [2024-06-08, 06:15:11](https://news.ycombinator.com/item?id=40615653) - [Content Injection Attack on GitHub](https://github.com/younesbram/younesbram)
