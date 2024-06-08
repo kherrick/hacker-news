@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-08, 00:37:57",
+      "https://news.ycombinator.com/item?id=40614338"
+    ],
+    [
+      "Chebyshev approximation and how it can help",
+      "https://www.EmbeddedRelated.com/showarticle/152.php"
+    ]
+  ],
+  [
+    [
       "2024-06-08, 00:16:35",
       "https://news.ycombinator.com/item?id=40614227"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=40613854"
     ],
     [
-      "3dfx Voodoo 4 video card in MXM format",
+      "3dfx Voodoo 4 video card in MXM format (2023)",
       "https://www.vogons.org/viewtopic.php?t=100871"
     ]
   ],
@@ -97,16 +107,6 @@
     [
       "Feynman’s Razor",
       "https://defenderofthebasic.substack.com/p/feynmans-razor"
-    ]
-  ],
-  [
-    [
-      "2024-06-07, 19:37:09",
-      "https://news.ycombinator.com/item?id=40612139"
-    ],
-    [
-      "Comments on the FTC antitrust investigation of Google",
-      "https://danluu.com/ftc-google-antitrust/"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2024-06-07, 09:05:57",
-      "https://news.ycombinator.com/item?id=40606756"
-    ],
-    [
-      "An open source vuln scanner in Python: OXO",
-      "https://oxo.ostorlab.co/"
-    ]
-  ],
-  [
-    [
       "2024-06-06, 23:12:02",
       "https://news.ycombinator.com/item?id=40603509"
     ],
@@ -277,6 +267,16 @@
     [
       "What makes a great contribution to a codebase?",
       "https://blog.eliperkins.com/great-contributions-to-a-codebase"
+    ]
+  ],
+  [
+    [
+      "2024-06-05, 21:21:52",
+      "https://news.ycombinator.com/item?id=40590778"
+    ],
+    [
+      "New Racket Deep Learning Library",
+      "https://github.com/dev-null321/MIND"
     ]
   ],
   [
