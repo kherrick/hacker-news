@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-08, 10:25:28](https://news.ycombinator.com/item?id=40616611) - [Critical Vulnerabilities in Package Manager Revealed by Secret Scanning Research](https://sockpuppets.medium.com/exposing-hidden-dangers-the-essential-guide-to-secret-scanning-in-package-repositories-c483dcf3b82f)
 * [2024-06-08, 06:52:09](https://news.ycombinator.com/item?id=40615786) - [Boeing Passenger Jet Nearly Crashes Because of Known Software Bug](https://www.independent.co.uk/travel/tui-boeing-flight-bristol-disaster-avoided-b2558536.html)
 * [2024-06-08, 06:34:03](https://news.ycombinator.com/item?id=40615723) - [What happened to Captura? OSS maintainer burnout (2023)](https://mathewsachin.github.io/blog/2023/04/09/captura-unmaintained.html)
 * [2024-06-08, 06:15:11](https://news.ycombinator.com/item?id=40615653) - [Content Injection Attack on GitHub](https://github.com/younesbram/younesbram)
@@ -22,6 +21,7 @@
 * [2024-06-07, 17:08:23](https://news.ycombinator.com/item?id=40610621) - [OpenSSH introduces options to penalize undesirable behavior](https://undeadly.org/cgi?action=article;sid=20240607042157)
 * [2024-06-07, 14:55:48](https://news.ycombinator.com/item?id=40609326) - [LedgerStore Supports Trillions of Indexes at Uber](https://www.uber.com/blog/how-ledgerstore-supports-trillions-of-indexes/?uclick_id=67d612cb-12f8-470a-98fd-e9f7144dfafb)
 * [2024-06-07, 14:12:42](https://news.ycombinator.com/item?id=40608941) - [Show HN: Scipress.io – a Markdown writing platform like Notion Medium MkDocs](https://www.scipress.io/post/kehluzWG8Iq9y1Nu7IMP/docs)
+* [2024-06-07, 13:06:43](https://news.ycombinator.com/item?id=40608373) - [Instruction Sets Should Be Free: The Case for RISC-V [pdf] (2014)](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-146.pdf)
 * [2024-06-07, 13:01:15](https://news.ycombinator.com/item?id=40608332) - [Tom 7: Badness 0 (Three ways)](http://tom7.org/bovex/)
 * [2024-06-07, 09:36:48](https://news.ycombinator.com/item?id=40606924) - [Secret Hand Gestures in Paintings (2019)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233791/)
 * [2024-06-06, 17:02:51](https://news.ycombinator.com/item?id=40599763) - [Show HN: I created this land use visualisation for the Netherlands](https://koenvangilst.nl/labs/ons-land)
