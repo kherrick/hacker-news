@@ -23,6 +23,7 @@
 * [2024-06-05, 19:49:18](https://news.ycombinator.com/item?id=40589675) - [Researchers to retract landmark Alzheimer's paper containing doctored images](https://www.science.org/content/article/researchers-plan-retract-landmark-alzheimers-paper-containing-doctored-images)
 * [2024-06-05, 19:45:31](https://news.ycombinator.com/item?id=40589625) - [Democrat calls only 7 EV-charging stations deployed under US program 'pathetic'](https://finance.yahoo.com/news/democrat-calls-only-7-ev-182511859.html)
 * [2024-06-05, 19:43:34](https://news.ycombinator.com/item?id=40589585) - [Nvidia hits $3T market cap on back of AI boom](https://www.cnbc.com/2024/06/05/nvidia-briefly-passes-3-trillion-market-cap-on-back-of-ai-boom.html)
+* [2024-06-05, 19:18:44](https://news.ycombinator.com/item?id=40589172) - [Own a Weather Station? We Want Your Data](https://www.weather.gov/iln/cwop)
 * [2024-06-05, 19:07:59](https://news.ycombinator.com/item?id=40589011) - [Show HN: A website that tailors your resume for each job you apply for](https://resume.ink)
 * [2024-06-05, 19:07:34](https://news.ycombinator.com/item?id=40589008) - [Rabbit R1 It's a Scam](https://paulogpd.bearblog.dev/en-rabbit-r1-its-a-scam/)
 * [2024-06-05, 19:04:36](https://news.ycombinator.com/item?id=40588977) - [85% of People Want Global Ban on Single-Use Plastics](https://www.worldwildlife.org/press-releases/85-of-people-want-global-ban-on-single-use-plastics)
