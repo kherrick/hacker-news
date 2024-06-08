@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=40618335"
     ],
     [
-      "Leafy Vegetables Found to Contain Tire Additives",
+      "Leafy vegetables found to contain tire additives",
       "https://e360.yale.edu/digest/tire-chemicals-vegetables-study"
     ]
   ],
@@ -91,22 +91,22 @@
   ],
   [
     [
+      "2024-06-08, 00:01:04",
+      "https://news.ycombinator.com/item?id=40614144"
+    ],
+    [
+      "Moving CHERIoT RTOS to a tickless model",
+      "https://cheriot.org/scheduler/2024/06/07/tickless-scheduler.html"
+    ]
+  ],
+  [
+    [
       "2024-06-07, 23:11:01",
       "https://news.ycombinator.com/item?id=40613854"
     ],
     [
       "3dfx Voodoo 4 video card in MXM format (2023)",
       "https://www.vogons.org/viewtopic.php?t=100871"
-    ]
-  ],
-  [
-    [
-      "2024-06-07, 21:42:58",
-      "https://news.ycombinator.com/item?id=40613287"
-    ],
-    [
-      "What Is PID 0?",
-      "https://blog.dave.tf/post/linux-pid0/"
     ]
   ],
   [
@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2024-06-07, 19:43:25",
-      "https://news.ycombinator.com/item?id=40612190"
-    ],
-    [
-      "Ask HN: How to OCR a PDF and preserve whitespace?",
-      "https://news.ycombinator.com/item?id=40612190"
-    ]
-  ],
-  [
-    [
       "2024-06-07, 17:37:52",
       "https://news.ycombinator.com/item?id=40610909"
     ],
@@ -181,12 +171,12 @@
   ],
   [
     [
-      "2024-06-07, 17:04:11",
-      "https://news.ycombinator.com/item?id=40610595"
+      "2024-06-07, 17:26:34",
+      "https://news.ycombinator.com/item?id=40610794"
     ],
     [
-      "Show HN: Bonsai Alternative",
-      "https://linkycal.com"
+      "Ask HN: Machine learning engineers, what do you do at work?",
+      "https://news.ycombinator.com/item?id=40610794"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Secret Hand Gestures in Paintings (2019)",
       "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233791/"
+    ]
+  ],
+  [
+    [
+      "2024-06-07, 06:42:52",
+      "https://news.ycombinator.com/item?id=40605922"
+    ],
+    [
+      "Simple, Efficient, and Robust Hash Tables for Join Processing",
+      "https://cedardb.com/blog/simple_efficient_hash_tables/"
     ]
   ],
   [
