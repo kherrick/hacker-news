@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-08, 17:57:09](https://news.ycombinator.com/item?id=40619227) - [New York Times source code stolen using exposed GitHub token](https://www.bleepingcomputer.com/news/security/new-york-times-source-code-stolen-using-exposed-github-token/)
 * [2024-06-08, 17:25:05](https://news.ycombinator.com/item?id=40619008) - [Scientists wonder if shape of the universe is like a doughnut](https://www.theguardian.com/science/article/2024/jun/08/shape-universe-topology-doughnut-flat-curvature-dimensions)
 * [2024-06-08, 16:43:46](https://news.ycombinator.com/item?id=40618766) - [My favorite 1980's Canadian TV show: Bits and Bytes](https://omarshehata.substack.com/p/my-favorite-1980s-canadian-tv-show)
 * [2024-06-08, 16:05:45](https://news.ycombinator.com/item?id=40618459) - [Detecting a PS2 Emulator: When 1*X does not equal X](https://fobes.dev/ps2/detecting-emu-vu-floats)
@@ -12,6 +11,7 @@
 * [2024-06-08, 08:14:54](https://news.ycombinator.com/item?id=40616121) - [Breaking up is hard to do: Chunking in RAG applications](https://stackoverflow.blog/2024/06/06/breaking-up-is-hard-to-do-chunking-in-rag-applications/)
 * [2024-06-08, 05:41:43](https://news.ycombinator.com/item?id=40615530) - [South Pole Water Infrastructure](https://brr.fyi/posts/south-pole-water-infrastructure)
 * [2024-06-08, 00:01:04](https://news.ycombinator.com/item?id=40614144) - [Moving CHERIoT RTOS to a tickless model](https://cheriot.org/scheduler/2024/06/07/tickless-scheduler.html)
+* [2024-06-07, 23:11:01](https://news.ycombinator.com/item?id=40613854) - [3dfx Voodoo 4 video card in MXM format (2023)](https://www.vogons.org/viewtopic.php?t=100871)
 * [2024-06-07, 21:18:52](https://news.ycombinator.com/item?id=40613106) - [The Promise of 5-MeO-DMT](https://undark.org/2024/06/03/toad-toxin-to-medicine-dmt/)
 * [2024-06-07, 20:06:40](https://news.ycombinator.com/item?id=40612431) - [Loose Ends (2018)](https://www.lastwordonnothing.com/2018/06/05/loose-ends/)
 * [2024-06-07, 20:04:19](https://news.ycombinator.com/item?id=40612406) - [My lunches with the queen of cookbooks](https://tastecooking.com/my-lunches-with-judith-jones-the-queen-of-cookbooks/)
@@ -24,7 +24,7 @@
 * [2024-06-07, 16:02:00](https://news.ycombinator.com/item?id=40609916) - [CodeAid: A classroom deployment of an LLM-based coding assistant](https://austinhenley.com/blog/codeaid.html)
 * [2024-06-07, 15:45:09](https://news.ycombinator.com/item?id=40609753) - [In highly connected networks, there's always a loop](https://www.quantamagazine.org/in-highly-connected-networks-theres-always-a-loop-20240607/)
 * [2024-06-07, 12:11:17](https://news.ycombinator.com/item?id=40607897) - [The regenerative urban garden I: No-till gardening](https://makegathergrow.com/blog/regenerative-no-till-gardening)
-* [2024-06-07, 06:42:52](https://news.ycombinator.com/item?id=40605922) - [Simple, Efficient, and Robust Hash Tables for Join Processing](https://cedardb.com/blog/simple_efficient_hash_tables/)
+* [2024-06-07, 10:40:54](https://news.ycombinator.com/item?id=40607266) - [Untrusted – a meta-JavaScript adventure game](https://alexnisnevich.github.io/untrusted/)
 * [2024-06-07, 01:58:33](https://news.ycombinator.com/item?id=40604592) - [Evidence of earth's first rains found trapped within primordial crystals](https://www.sciencealert.com/evidence-of-earths-first-rains-found-trapped-within-primordial-crystals)
 * [2024-06-06, 22:46:46](https://news.ycombinator.com/item?id=40603277) - [Bali's stone sarcophagi included global goods](https://www.atlasobscura.com/articles/bali-stone-sarcophagus-artifacts)
 * [2024-06-06, 18:58:20](https://news.ycombinator.com/item?id=40601098) - [Zero Tolerance for Bias](https://queue.acm.org/detail.cfm?id=3664645)
