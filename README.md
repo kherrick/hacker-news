@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-08, 17:25:05](https://news.ycombinator.com/item?id=40619008) - [Scientists wonder if shape of the universe is like a doughnut](https://www.theguardian.com/science/article/2024/jun/08/shape-universe-topology-doughnut-flat-curvature-dimensions)
-* [2024-06-08, 16:55:51](https://news.ycombinator.com/item?id=40618850) - [Sid Meier's Civilization VII – Official Teaser Trailer](https://www.youtube.com/watch?v=pygcgE3a_uY)
 * [2024-06-08, 16:43:46](https://news.ycombinator.com/item?id=40618766) - [My favorite 1980's Canadian TV show: Bits and Bytes](https://omarshehata.substack.com/p/my-favorite-1980s-canadian-tv-show)
 * [2024-06-08, 16:05:45](https://news.ycombinator.com/item?id=40618459) - [Detecting a PS2 Emulator: When 1*X does not equal X](https://fobes.dev/ps2/detecting-emu-vu-floats)
 * [2024-06-08, 15:17:53](https://news.ycombinator.com/item?id=40618079) - [The Backrooms of the Internet Archive](https://blog.archive.org/2024/06/01/the-backrooms-of-the-internet-archive/)
@@ -24,6 +23,7 @@
 * [2024-06-07, 12:45:49](https://news.ycombinator.com/item?id=40608189) - [Systems Thinking Playbook (1995)](https://archive.org/details/systemsthinkingp0000lind)
 * [2024-06-07, 12:11:17](https://news.ycombinator.com/item?id=40607897) - [The regenerative urban garden I: No-till gardening](https://makegathergrow.com/blog/regenerative-no-till-gardening)
 * [2024-06-07, 10:40:54](https://news.ycombinator.com/item?id=40607266) - [Untrusted – a meta-JavaScript adventure game](https://alexnisnevich.github.io/untrusted/)
+* [2024-06-07, 08:05:08](https://news.ycombinator.com/item?id=40606385) - [Promptframes: Evolving the Wireframe for the Age of AI](https://www.nngroup.com/articles/promptframes/)
 * [2024-06-07, 06:42:52](https://news.ycombinator.com/item?id=40605922) - [Simple, Efficient, and Robust Hash Tables for Join Processing](https://cedardb.com/blog/simple_efficient_hash_tables/)
 * [2024-06-07, 01:58:33](https://news.ycombinator.com/item?id=40604592) - [Evidence of earth's first rains found trapped within primordial crystals](https://www.sciencealert.com/evidence-of-earths-first-rains-found-trapped-within-primordial-crystals)
 * [2024-06-06, 06:59:05](https://news.ycombinator.com/item?id=40594367) - [A humble Indian fabric became a symbol of luxury in 1960s America](https://www.cnn.com/2024/06/05/style/india-madras-fabric-us-fashion-intl-hnk/index.html)
