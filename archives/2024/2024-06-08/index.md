@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-08](index.md)
 
+* [2024-06-08, 12:00:30](https://news.ycombinator.com/item?id=40616992) - [Flexport (YC W14) Is Hiring a Senior Applied Research Scientist](https://boards.greenhouse.io/flexport/jobs/5806177?gh_jid=5806177)
 * [2024-06-08, 10:25:28](https://news.ycombinator.com/item?id=40616611) - [Critical Vulnerabilities in Package Manager Revealed by Secret Scanning Research](https://sockpuppets.medium.com/exposing-hidden-dangers-the-essential-guide-to-secret-scanning-in-package-repositories-c483dcf3b82f)
 * [2024-06-08, 07:34:43](https://news.ycombinator.com/item?id=40615953) - [Tokyo's Government Is Building Its Own Dating App to Combat Falling Birthrates](https://time.com/6986142/japan-tokyo-government-dating-app-marriage/)
 * [2024-06-08, 06:52:09](https://news.ycombinator.com/item?id=40615786) - [Boeing Passenger Jet Nearly Crashes Because of Known Software Bug](https://www.independent.co.uk/travel/tui-boeing-flight-bristol-disaster-avoided-b2558536.html)

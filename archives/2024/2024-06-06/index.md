@@ -6,6 +6,7 @@
 
 * [2024-06-06, 23:46:49](https://news.ycombinator.com/item?id=40603777) - [Show HN: A Short IPv6 Guide for Home IPv4 Admins](https://gist.github.com/timothyham/dd003dbad5614b425a8325ec820fd785)
 * [2024-06-06, 23:38:12](https://news.ycombinator.com/item?id=40603704) - [Turns out Spotify can't open-source Car Thing because it's a potato](https://www.androidauthority.com/spotify-car-thing-open-source-3449487/)
+* [2024-06-06, 23:36:44](https://news.ycombinator.com/item?id=40603696) - [R or Python for Bioinformatics?](https://divingintogeneticsandgenomics.com/post/r-or-python-for-bioinformatics/)
 * [2024-06-06, 23:36:20](https://news.ycombinator.com/item?id=40603692) - [Uganda's Sweeping Surveillance State Is Built on National ID Cards](https://www.bloomberg.com/news/features/2024-06-04/uganda-yoweri-museveni-s-critics-targeted-via-biometric-id-system)
 * [2024-06-06, 23:28:41](https://news.ycombinator.com/item?id=40603625) - [Make Your Program Slower with Threads](https://brooker.co.za/blog/2014/12/06/random.html)
 * [2024-06-06, 23:13:02](https://news.ycombinator.com/item?id=40603515) - [Shopify is acquiring the Threads team](https://twitter.com/rousseaukazi/status/1798724339841319186)
