@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-08, 06:52:09](https://news.ycombinator.com/item?id=40615786) - [Boeing Passenger Jet Nearly Crashes Because of Known Software Bug](https://www.independent.co.uk/travel/tui-boeing-flight-bristol-disaster-avoided-b2558536.html)
 * [2024-06-08, 06:34:03](https://news.ycombinator.com/item?id=40615723) - [What happened to Captura? OSS maintainer burnout (2023)](https://mathewsachin.github.io/blog/2023/04/09/captura-unmaintained.html)
 * [2024-06-08, 06:15:11](https://news.ycombinator.com/item?id=40615653) - [Content Injection Attack on GitHub](https://github.com/younesbram/younesbram)
 * [2024-06-08, 05:43:48](https://news.ycombinator.com/item?id=40615537) - [Replit used legal threats to kill my open-source project (2021)](https://intuitiveexplanations.com/tech/replit/)
 * [2024-06-08, 05:41:43](https://news.ycombinator.com/item?id=40615530) - [South Pole Water Infrastructure](https://brr.fyi/posts/south-pole-water-infrastructure)
-* [2024-06-08, 04:33:29](https://news.ycombinator.com/item?id=40615301) - [Welcome to the safest time to give birth in human history](https://www.theupwing.com/the-radical-drop-in-maternal-mortality-was-a-public-health-miracle/)
 * [2024-06-08, 01:04:34](https://news.ycombinator.com/item?id=40614467) - [Memory-safe, clean implementation of classic Posix \"BC\" calculator](https://github.com/rustcoreutils/posixutils-rs/tree/main/calc/src)
 * [2024-06-08, 00:37:57](https://news.ycombinator.com/item?id=40614338) - [Chebyshev approximation and how it can help (2012)](https://www.EmbeddedRelated.com/showarticle/152.php)
 * [2024-06-08, 00:16:35](https://news.ycombinator.com/item?id=40614227) - [Apollo 8 astronaut William Anders ID'd in WA plane crash](https://www.fox13seattle.com/news/william-anders-wa-plane-crash)

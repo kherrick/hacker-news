@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-08](index.md)
 
+* [2024-06-08, 06:52:09](https://news.ycombinator.com/item?id=40615786) - [Boeing Passenger Jet Nearly Crashes Because of Known Software Bug](https://www.independent.co.uk/travel/tui-boeing-flight-bristol-disaster-avoided-b2558536.html)
 * [2024-06-08, 06:34:03](https://news.ycombinator.com/item?id=40615723) - [What happened to Captura? OSS maintainer burnout (2023)](https://mathewsachin.github.io/blog/2023/04/09/captura-unmaintained.html)
 * [2024-06-08, 06:15:11](https://news.ycombinator.com/item?id=40615653) - [Content Injection Attack on GitHub](https://github.com/younesbram/younesbram)
 * [2024-06-08, 05:43:48](https://news.ycombinator.com/item?id=40615537) - [Replit used legal threats to kill my open-source project](https://intuitiveexplanations.com/tech/replit/)
