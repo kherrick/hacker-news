@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-08, 20:55:04](https://news.ycombinator.com/item?id=40620122) - [Why do people drop litter?](https://notoriousbfg.com/why-drop-litter/)
 * [2024-06-08, 20:37:58](https://news.ycombinator.com/item?id=40620048) - [What makes gambling wrong but insurance right? (2017)](https://www.bbc.com/news/business-38905963)
 * [2024-06-08, 19:59:38](https://news.ycombinator.com/item?id=40619862) - [Start calculating digital carbon emissions in 5 minutes with CO2.js](https://www.thegreenwebfoundation.org/news/start-calculating-digital-carbon-emissions-in-5-minutes-with-co2-js/)
 * [2024-06-08, 19:52:20](https://news.ycombinator.com/item?id=40619822) - [Ventoy – Bootable USB Solution](https://github.com/ventoy/Ventoy)
@@ -17,6 +16,7 @@
 * [2024-06-08, 06:58:36](https://news.ycombinator.com/item?id=40615808) - [BES – OSS Windows software to control per-process CPU usage](https://mion.yosei.fi/BES/)
 * [2024-06-08, 05:41:43](https://news.ycombinator.com/item?id=40615530) - [South Pole Water Infrastructure](https://brr.fyi/posts/south-pole-water-infrastructure)
 * [2024-06-08, 00:01:04](https://news.ycombinator.com/item?id=40614144) - [Moving CHERIoT RTOS to a tickless model](https://cheriot.org/scheduler/2024/06/07/tickless-scheduler.html)
+* [2024-06-07, 23:11:01](https://news.ycombinator.com/item?id=40613854) - [3dfx Voodoo 4 video card in MXM format](https://www.vogons.org/viewtopic.php?t=100871)
 * [2024-06-07, 20:04:19](https://news.ycombinator.com/item?id=40612406) - [My lunches with the queen of cookbooks](https://tastecooking.com/my-lunches-with-judith-jones-the-queen-of-cookbooks/)
 * [2024-06-07, 20:03:35](https://news.ycombinator.com/item?id=40612398) - [Embedding with America's top hostage negotiator](https://www.vanityfair.com/news/story/americas-top-hostage-negotiator-exclusive)
 * [2024-06-07, 20:01:33](https://news.ycombinator.com/item?id=40612370) - [Roman Women and the Oppian Law](https://www.historytoday.com/history-matters/womens-march-rome)
