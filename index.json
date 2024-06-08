@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-06-08, 14:34:22",
-      "https://news.ycombinator.com/item?id=40617786"
-    ],
-    [
-      "Ask HN: How to handle a senior hire turning out to be junior?",
-      "https://news.ycombinator.com/item?id=40617786"
-    ]
-  ],
-  [
-    [
       "2024-06-08, 12:39:56",
       "https://news.ycombinator.com/item?id=40617160"
     ],
@@ -77,16 +67,6 @@
     [
       "South Pole Water Infrastructure",
       "https://brr.fyi/posts/south-pole-water-infrastructure"
-    ]
-  ],
-  [
-    [
-      "2024-06-08, 04:22:39",
-      "https://news.ycombinator.com/item?id=40615271"
-    ],
-    [
-      "Ask HN: If you are starting in 2024, what is the most productive solo dev stack?",
-      "https://news.ycombinator.com/item?id=40615271"
     ]
   ],
   [
@@ -201,6 +181,16 @@
   ],
   [
     [
+      "2024-06-07, 17:04:11",
+      "https://news.ycombinator.com/item?id=40610595"
+    ],
+    [
+      "Show HN: Bonsai Alternative",
+      "https://linkycal.com"
+    ]
+  ],
+  [
+    [
       "2024-06-07, 16:02:00",
       "https://news.ycombinator.com/item?id=40609916"
     ],
@@ -217,6 +207,16 @@
     [
       "In highly connected networks, there's always a loop",
       "https://www.quantamagazine.org/in-highly-connected-networks-theres-always-a-loop-20240607/"
+    ]
+  ],
+  [
+    [
+      "2024-06-07, 12:45:49",
+      "https://news.ycombinator.com/item?id=40608189"
+    ],
+    [
+      "Systems Thinking Playbook (1995)",
+      "https://archive.org/details/systemsthinkingp0000lind"
     ]
   ],
   [
@@ -241,26 +241,6 @@
   ],
   [
     [
-      "2024-06-07, 10:17:54",
-      "https://news.ycombinator.com/item?id=40607138"
-    ],
-    [
-      "The code that lived in my head rent free for 30 years",
-      "https://ayende.com/blog/201185-B/the-code-that-lived-in-my-head-rent-free-for-30-years?key=d5d7b74bbb4d4890936cb3fba32b2423"
-    ]
-  ],
-  [
-    [
-      "2024-06-07, 09:04:52",
-      "https://news.ycombinator.com/item?id=40606748"
-    ],
-    [
-      "CERN's $17B supercollider in question as top funder criticizes cost",
-      "https://www.nature.com/articles/d41586-024-01671-8"
-    ]
-  ],
-  [
-    [
       "2024-06-07, 08:05:08",
       "https://news.ycombinator.com/item?id=40606385"
     ],
@@ -277,6 +257,26 @@
     [
       "Evidence of earth's first rains found trapped within primordial crystals",
       "https://www.sciencealert.com/evidence-of-earths-first-rains-found-trapped-within-primordial-crystals"
+    ]
+  ],
+  [
+    [
+      "2024-06-06, 07:55:49",
+      "https://news.ycombinator.com/item?id=40594743"
+    ],
+    [
+      "A pure NumPy implementation of Mamba",
+      "https://github.com/idoh/mamba.np"
+    ]
+  ],
+  [
+    [
+      "2024-06-05, 20:09:22",
+      "https://news.ycombinator.com/item?id=40589922"
+    ],
+    [
+      "Cloud Performance on a \"Toy\" Computer: From Python to Rust",
+      "https://progscrape.com/blog/2024-06-06/cloud-performance-on-a-toy-computer-from-python-to-rust"
     ]
   ],
   [
