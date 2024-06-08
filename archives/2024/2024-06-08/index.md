@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-08](index.md)
 
+* [2024-06-08, 23:34:30](https://news.ycombinator.com/item?id=40620864) - [Bluesky first cross-post from Threads](https://bsky.app/profile/shnarfed.threads.net.ap.brid.gy/post/3kueehvhfloj2)
 * [2024-06-08, 21:50:07](https://news.ycombinator.com/item?id=40620401) - [Evaluation of Machine Learning Primitives on a Digital Signal Processor](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1457863&dswid=-740)
 * [2024-06-08, 20:55:04](https://news.ycombinator.com/item?id=40620122) - [Why do people drop litter?](https://notoriousbfg.com/why-drop-litter/)
 * [2024-06-08, 20:40:16](https://news.ycombinator.com/item?id=40620056) - [Gene therapy restores hearing to children with inherited deafness](https://cosmosmagazine.com/science/biology/gene-therapy-restores-hearing-to-children-with-inherited-deafness/)
@@ -24,6 +25,7 @@
 * [2024-06-08, 17:25:05](https://news.ycombinator.com/item?id=40619008) - [Scientists wonder if shape of the universe is like a doughnut](https://www.theguardian.com/science/article/2024/jun/08/shape-universe-topology-doughnut-flat-curvature-dimensions)
 * [2024-06-08, 17:16:04](https://news.ycombinator.com/item?id=40618954) - [Ask HN: Share Your YoutTube Channel](https://news.ycombinator.com/item?id=40618954)
 * [2024-06-08, 16:55:51](https://news.ycombinator.com/item?id=40618850) - [Sid Meier's Civilization VII – Official Teaser Trailer](https://www.youtube.com/watch?v=pygcgE3a_uY)
+* [2024-06-08, 16:55:08](https://news.ycombinator.com/item?id=40618841) - [Building a SaaS product with Htmx – Are you sure you need all the complexity?](https://www.chatterpulseai.com/blog/building-a-saas-product-with-htmx/)
 * [2024-06-08, 16:43:46](https://news.ycombinator.com/item?id=40618766) - [My favorite 1980's Canadian TV show: Bits and Bytes](https://omarshehata.substack.com/p/my-favorite-1980s-canadian-tv-show)
 * [2024-06-08, 16:05:45](https://news.ycombinator.com/item?id=40618459) - [Detecting a PS2 Emulator: When 1*X does not equal X](https://fobes.dev/ps2/detecting-emu-vu-floats)
 * [2024-06-08, 15:48:49](https://news.ycombinator.com/item?id=40618335) - [Leafy Vegetables Found to Contain Tire Additives](https://e360.yale.edu/digest/tire-chemicals-vegetables-study)

@@ -1,11 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-08, 23:34:30](https://news.ycombinator.com/item?id=40620864) - [Bluesky first cross-post from Threads](https://bsky.app/profile/shnarfed.threads.net.ap.brid.gy/post/3kueehvhfloj2)
 * [2024-06-08, 21:50:07](https://news.ycombinator.com/item?id=40620401) - [Evaluation of Machine Learning Primitives on a Digital Signal Processor](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1457863&dswid=-740)
 * [2024-06-08, 20:40:16](https://news.ycombinator.com/item?id=40620056) - [Gene therapy restores hearing to children with inherited deafness](https://cosmosmagazine.com/science/biology/gene-therapy-restores-hearing-to-children-with-inherited-deafness/)
 * [2024-06-08, 20:04:56](https://news.ycombinator.com/item?id=40619891) - [Chat TUI for Ollama](https://github.com/ggozad/oterm)
 * [2024-06-08, 19:38:53](https://news.ycombinator.com/item?id=40619752) - [Creating a matchmaker for your multiplayer game](https://mas-bandwidth.com/creating-a-matchmaker-for-your-multiplayer-game/)
 * [2024-06-08, 18:56:29](https://news.ycombinator.com/item?id=40619521) - [Beware anti patterns in event driven architecture](https://codeopinion.com/beware-anti-patterns-in-event-driven-architecture/)
 * [2024-06-08, 18:41:54](https://news.ycombinator.com/item?id=40619445) - [By harnessing wind power, high-tech sails can help cut marine pollution](https://www.economist.com/science-and-technology/2024/05/21/a-new-age-of-sail-begins)
+* [2024-06-08, 16:55:08](https://news.ycombinator.com/item?id=40618841) - [Building a SaaS product with Htmx – Are you sure you need all the complexity?](https://www.chatterpulseai.com/blog/building-a-saas-product-with-htmx/)
 * [2024-06-08, 16:43:46](https://news.ycombinator.com/item?id=40618766) - [My favorite 1980's Canadian TV show: Bits and Bytes](https://omarshehata.substack.com/p/my-favorite-1980s-canadian-tv-show)
 * [2024-06-08, 16:05:45](https://news.ycombinator.com/item?id=40618459) - [Detecting a PS2 Emulator: When 1*X does not equal X](https://fobes.dev/ps2/detecting-emu-vu-floats)
 * [2024-06-08, 15:17:53](https://news.ycombinator.com/item?id=40618079) - [The Backrooms of the Internet Archive](https://blog.archive.org/2024/06/01/the-backrooms-of-the-internet-archive/)
@@ -25,11 +27,9 @@
 * [2024-06-07, 19:55:54](https://news.ycombinator.com/item?id=40612314) - [Morphing Arbitrary Paths in SVG](https://minus-ze.ro/posts/morphing-arbitrary-paths-in-svg/)
 * [2024-06-07, 15:45:09](https://news.ycombinator.com/item?id=40609753) - [In highly connected networks, there's always a loop](https://www.quantamagazine.org/in-highly-connected-networks-theres-always-a-loop-20240607/)
 * [2024-06-07, 01:42:51](https://news.ycombinator.com/item?id=40604504) - [Can You Pump Water Without Any Electricity?](https://www.wired.com/story/water-pump-without-electricity/)
-* [2024-06-06, 22:46:46](https://news.ycombinator.com/item?id=40603277) - [Bali's stone sarcophagi included global goods](https://www.atlasobscura.com/articles/bali-stone-sarcophagus-artifacts)
 * [2024-06-06, 19:46:26](https://news.ycombinator.com/item?id=40601562) - [Ask HN: Compiler speed-up or Build Caching tool. Hard to find?](https://news.ycombinator.com/item?id=40601562)
 * [2024-06-06, 18:58:20](https://news.ycombinator.com/item?id=40601098) - [Zero Tolerance for Bias](https://queue.acm.org/detail.cfm?id=3664645)
 * [2024-06-06, 14:35:09](https://news.ycombinator.com/item?id=40597904) - [The Lost Art of the Negative](https://www.nytimes.com/2024/06/06/arts/film-photography-negatives.html)
-* [2024-06-05, 20:42:30](https://news.ycombinator.com/item?id=40590353) - [Real VT102 emulation with MAME (2020)](https://zork.net/~st/jottings/Real-VT102-emulation-with-MAME.html)
 
 ## [Archives](archives/index.md)
 
