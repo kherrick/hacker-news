@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-06-08, 01:27:45",
-      "https://news.ycombinator.com/item?id=40614577"
-    ],
-    [
-      "Cloud Performance on a \"Toy\" Computer: From Python to Rust",
-      "https://progscrape.com/blog/2024-06-06/cloud-performance-on-a-toy-computer-from-python-to-rust"
-    ]
-  ],
-  [
-    [
       "2024-06-08, 01:04:34",
       "https://news.ycombinator.com/item?id=40614467"
     ],
@@ -25,7 +15,7 @@
       "https://news.ycombinator.com/item?id=40614338"
     ],
     [
-      "Chebyshev approximation and how it can help",
+      "Chebyshev approximation and how it can help (2012)",
       "https://www.EmbeddedRelated.com/showarticle/152.php"
     ]
   ],
@@ -181,6 +171,16 @@
   ],
   [
     [
+      "2024-06-07, 13:42:02",
+      "https://news.ycombinator.com/item?id=40608615"
+    ],
+    [
+      "Italian streets that don't exist on any map (2022)",
+      "https://www.atlasobscura.com/articles/italian-streets-not-on-map"
+    ]
+  ],
+  [
+    [
       "2024-06-07, 13:12:31",
       "https://news.ycombinator.com/item?id=40608413"
     ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=40589172"
     ],
     [
-      "Own a Weather Station? We Want Your Data",
+      "Own a weather station? We want your data",
       "https://www.weather.gov/iln/cwop"
     ]
   ],
