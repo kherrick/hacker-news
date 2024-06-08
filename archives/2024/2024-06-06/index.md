@@ -101,6 +101,7 @@
 * [2024-06-06, 09:33:19](https://news.ycombinator.com/item?id=40595384) - [Understanding QEMU Devices](https://www.qemu.org/2018/02/09/understanding-qemu-devices/)
 * [2024-06-06, 09:11:34](https://news.ycombinator.com/item?id=40595222) - [Ariane 6 inaugural launch targeted for 9 July](https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Ariane_6_inaugural_launch_targeted_for_9_July)
 * [2024-06-06, 09:04:32](https://news.ycombinator.com/item?id=40595164) - [Starship's Fourth Flight Test: Window Opens 07:00 AM Central Time](https://www.spacex.com/launches/mission/?missionId=starship-flight-4)
+* [2024-06-06, 07:55:49](https://news.ycombinator.com/item?id=40594743) - [A pure NumPy implementation of Mamba](https://github.com/idoh/mamba.np)
 * [2024-06-06, 07:37:52](https://news.ycombinator.com/item?id=40594608) - [Microsoft Research chief scientist has no issue with Recall](https://www.theregister.com/2024/06/06/microsoft_research_recall/)
 * [2024-06-06, 07:28:11](https://news.ycombinator.com/item?id=40594533) - [FBI has obtained 7k Lockbit ransomware decryption keys](https://www.fbi.gov/news/speeches/fbi-cyber-assistant-director-bryan-vorndran-s-remarks-at-the-2024-boston-conference-on-cyber-security)
 * [2024-06-06, 07:00:58](https://news.ycombinator.com/item?id=40594379) - [Scientists find security risk in RISC-V open-source chip architecture](https://www.scmp.com/news/china/science/article/3265493/scientists-find-security-risk-risc-v-open-source-chip-architecture-china-hopes-can-help-sidestep-us)
