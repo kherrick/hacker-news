@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-06-08, 17:57:09",
-      "https://news.ycombinator.com/item?id=40619227"
-    ],
-    [
-      "New York Times source code stolen using exposed GitHub token",
-      "https://www.bleepingcomputer.com/news/security/new-york-times-source-code-stolen-using-exposed-github-token/"
-    ]
-  ],
-  [
-    [
       "2024-06-08, 17:25:05",
       "https://news.ycombinator.com/item?id=40619008"
     ],
@@ -117,6 +107,16 @@
     [
       "Moving CHERIoT RTOS to a tickless model",
       "https://cheriot.org/scheduler/2024/06/07/tickless-scheduler.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-07, 23:11:01",
+      "https://news.ycombinator.com/item?id=40613854"
+    ],
+    [
+      "3dfx Voodoo 4 video card in MXM format (2023)",
+      "https://www.vogons.org/viewtopic.php?t=100871"
     ]
   ],
   [
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2024-06-07, 06:42:52",
-      "https://news.ycombinator.com/item?id=40605922"
+      "2024-06-07, 10:40:54",
+      "https://news.ycombinator.com/item?id=40607266"
     ],
     [
-      "Simple, Efficient, and Robust Hash Tables for Join Processing",
-      "https://cedardb.com/blog/simple_efficient_hash_tables/"
+      "Untrusted – a meta-JavaScript adventure game",
+      "https://alexnisnevich.github.io/untrusted/"
     ]
   ],
   [
