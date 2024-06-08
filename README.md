@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-08, 23:34:30](https://news.ycombinator.com/item?id=40620864) - [Bluesky first cross-post from Threads](https://bsky.app/profile/shnarfed.threads.net.ap.brid.gy/post/3kueehvhfloj2)
+* [2024-06-08, 23:39:42](https://news.ycombinator.com/item?id=40620880) - [USA Solar Panel Manufacturing Capacity Soared 71% in Q1 2024](https://cleantechnica.com/2024/06/06/usa-solar-panel-manufacturing-capacity-soared-71-in-q1-2024/)
 * [2024-06-08, 21:50:07](https://news.ycombinator.com/item?id=40620401) - [Evaluation of Machine Learning Primitives on a Digital Signal Processor](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1457863&dswid=-740)
 * [2024-06-08, 20:40:16](https://news.ycombinator.com/item?id=40620056) - [Gene therapy restores hearing to children with inherited deafness](https://cosmosmagazine.com/science/biology/gene-therapy-restores-hearing-to-children-with-inherited-deafness/)
 * [2024-06-08, 20:04:56](https://news.ycombinator.com/item?id=40619891) - [Chat TUI for Ollama](https://github.com/ggozad/oterm)
@@ -17,7 +17,6 @@
 * [2024-06-08, 10:02:15](https://news.ycombinator.com/item?id=40616509) - [Show HN: I wrote a partial re-implementation of DirectMusic](https://github.com/GothicKit/dmusic)
 * [2024-06-08, 08:14:54](https://news.ycombinator.com/item?id=40616121) - [Breaking up is hard to do: Chunking in RAG applications](https://stackoverflow.blog/2024/06/06/breaking-up-is-hard-to-do-chunking-in-rag-applications/)
 * [2024-06-08, 06:58:36](https://news.ycombinator.com/item?id=40615808) - [BES – OSS Windows software to control per-process CPU usage](https://mion.yosei.fi/BES/)
-* [2024-06-08, 05:41:43](https://news.ycombinator.com/item?id=40615530) - [South Pole Water Infrastructure](https://brr.fyi/posts/south-pole-water-infrastructure)
 * [2024-06-08, 00:01:04](https://news.ycombinator.com/item?id=40614144) - [Moving CHERIoT RTOS to a tickless model](https://cheriot.org/scheduler/2024/06/07/tickless-scheduler.html)
 * [2024-06-07, 20:04:19](https://news.ycombinator.com/item?id=40612406) - [My lunches with the queen of cookbooks](https://tastecooking.com/my-lunches-with-judith-jones-the-queen-of-cookbooks/)
 * [2024-06-07, 20:03:35](https://news.ycombinator.com/item?id=40612398) - [Embedding with America's top hostage negotiator](https://www.vanityfair.com/news/story/americas-top-hostage-negotiator-exclusive)
@@ -27,6 +26,7 @@
 * [2024-06-07, 19:55:54](https://news.ycombinator.com/item?id=40612314) - [Morphing Arbitrary Paths in SVG](https://minus-ze.ro/posts/morphing-arbitrary-paths-in-svg/)
 * [2024-06-07, 15:45:09](https://news.ycombinator.com/item?id=40609753) - [In highly connected networks, there's always a loop](https://www.quantamagazine.org/in-highly-connected-networks-theres-always-a-loop-20240607/)
 * [2024-06-07, 01:42:51](https://news.ycombinator.com/item?id=40604504) - [Can You Pump Water Without Any Electricity?](https://www.wired.com/story/water-pump-without-electricity/)
+* [2024-06-06, 22:46:46](https://news.ycombinator.com/item?id=40603277) - [Bali's stone sarcophagi included global goods](https://www.atlasobscura.com/articles/bali-stone-sarcophagus-artifacts)
 * [2024-06-06, 19:46:26](https://news.ycombinator.com/item?id=40601562) - [Ask HN: Compiler speed-up or Build Caching tool. Hard to find?](https://news.ycombinator.com/item?id=40601562)
 * [2024-06-06, 18:58:20](https://news.ycombinator.com/item?id=40601098) - [Zero Tolerance for Bias](https://queue.acm.org/detail.cfm?id=3664645)
 * [2024-06-06, 14:35:09](https://news.ycombinator.com/item?id=40597904) - [The Lost Art of the Negative](https://www.nytimes.com/2024/06/06/arts/film-photography-negatives.html)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-08](index.md)
 
+* [2024-06-08, 23:39:42](https://news.ycombinator.com/item?id=40620880) - [USA Solar Panel Manufacturing Capacity Soared 71% in Q1 2024](https://cleantechnica.com/2024/06/06/usa-solar-panel-manufacturing-capacity-soared-71-in-q1-2024/)
 * [2024-06-08, 23:34:30](https://news.ycombinator.com/item?id=40620864) - [Bluesky first cross-post from Threads](https://bsky.app/profile/shnarfed.threads.net.ap.brid.gy/post/3kueehvhfloj2)
 * [2024-06-08, 21:50:07](https://news.ycombinator.com/item?id=40620401) - [Evaluation of Machine Learning Primitives on a Digital Signal Processor](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1457863&dswid=-740)
 * [2024-06-08, 20:55:04](https://news.ycombinator.com/item?id=40620122) - [Why do people drop litter?](https://notoriousbfg.com/why-drop-litter/)
