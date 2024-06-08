@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-08, 14:46:53](https://news.ycombinator.com/item?id=40617877) - [Show HN: Speed up your Postgres queries by upto 90%](https://github.com/sushrut141/pg_analytica)
+* [2024-06-08, 14:34:22](https://news.ycombinator.com/item?id=40617786) - [Ask HN: How to handle a senior hire turning out to be junior?](https://news.ycombinator.com/item?id=40617786)
 * [2024-06-08, 12:27:14](https://news.ycombinator.com/item?id=40617096) - [Forested wetlands are missing from maps](https://www.hcn.org/articles/the-wests-wetlands-are-struggling-some-have-been-overlooked-altogether/)
 * [2024-06-08, 11:23:05](https://news.ycombinator.com/item?id=40616856) - [Reveiw of June 7, 2023 Wildfire Smoke Event (National Weather Service)](https://storymaps.arcgis.com/stories/cf05c50f058a40e99e2da54ec098a40a)
-* [2024-06-08, 10:00:07](https://news.ycombinator.com/item?id=40616500) - [Cars Are Way Less Colorful Today Than They Were 20 Years Ago: Study](https://www.thedrive.com/news/cars-are-way-less-colorful-today-than-they-were-20-years-ago-study)
-* [2024-06-08, 09:18:15](https://news.ycombinator.com/item?id=40616347) - [Giant earthworms have transformed the Isle of Rum's landscape](https://theconversation.com/how-giant-earthworms-have-transformed-the-isle-of-rums-landscape-231638)
 * [2024-06-08, 05:41:43](https://news.ycombinator.com/item?id=40615530) - [South Pole Water Infrastructure](https://brr.fyi/posts/south-pole-water-infrastructure)
 * [2024-06-08, 00:37:57](https://news.ycombinator.com/item?id=40614338) - [Chebyshev approximation and how it can help (2012)](https://www.EmbeddedRelated.com/showarticle/152.php)
 * [2024-06-08, 00:16:35](https://news.ycombinator.com/item?id=40614227) - [Apollo 8 astronaut William Anders ID'd in WA plane crash](https://www.fox13seattle.com/news/william-anders-wa-plane-crash)

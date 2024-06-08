@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-08](index.md)
 
+* [2024-06-08, 14:46:53](https://news.ycombinator.com/item?id=40617877) - [Show HN: Speed up your Postgres queries by upto 90%](https://github.com/sushrut141/pg_analytica)
+* [2024-06-08, 14:34:22](https://news.ycombinator.com/item?id=40617786) - [Ask HN: How to handle a senior hire turning out to be junior?](https://news.ycombinator.com/item?id=40617786)
 * [2024-06-08, 13:05:31](https://news.ycombinator.com/item?id=40617299) - [Enabling a USB Serial Console on Linux (2022)](https://mattray.github.io/2022/02/27/enabling-usb-serial-console.html)
 * [2024-06-08, 12:32:35](https://news.ycombinator.com/item?id=40617118) - [BYD aims to replace Routemaster with 400-mile EV London bus](https://www.autocar.co.uk/car-news/new-cars/byd-aims-replace-routemaster-400-mile-ev-london-bus)
 * [2024-06-08, 12:27:14](https://news.ycombinator.com/item?id=40617096) - [Forested Wetlands Are Missing from Maps](https://www.hcn.org/articles/the-wests-wetlands-are-struggling-some-have-been-overlooked-altogether/)
