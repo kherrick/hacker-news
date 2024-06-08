@@ -52,6 +52,7 @@
 * [2024-06-06, 17:09:58](https://news.ycombinator.com/item?id=40599857) - [Telegram Stars: Pay for Digital Goods and More](https://telegram.org/blog/telegram-stars)
 * [2024-06-06, 17:07:38](https://news.ycombinator.com/item?id=40599834) - [HSBC Writes Down Byju's, Once $22B Indian Edtech Giant, to Zero](https://indiadispatch.com/2024/06/06/hsbc-writes-down-byjus-once-22-billion-indian-edtech-giant-to-zero/)
 * [2024-06-06, 17:01:37](https://news.ycombinator.com/item?id=40599749) - [Extracting Concepts from GPT-4](https://openai.com/index/extracting-concepts-from-gpt-4/)
+* [2024-06-06, 16:43:03](https://news.ycombinator.com/item?id=40599524) - [VGG Specs: Next-Gen Cross-Platform Vector Graphics with Advanced UI Effects](https://github.com/verygoodgraphics)
 * [2024-06-06, 16:42:43](https://news.ycombinator.com/item?id=40599522) - [Starship survives reentry during fourth test flight](https://spacenews.com/starship-survives-reentry-during-fourth-test-flight/)
 * [2024-06-06, 16:34:31](https://news.ycombinator.com/item?id=40599419) - [Show HN: XPipe, a brand-new type of remote file browser and shell connection hub](https://xpipe.io)
 * [2024-06-06, 16:20:04](https://news.ycombinator.com/item?id=40599248) - [Prime Video uses obviously AI-generated movie thumbnails](https://twitter.com/ultrabrilliant/status/1798470587230171369)
