@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-08](index.md)
 
+* [2024-06-08, 13:05:31](https://news.ycombinator.com/item?id=40617299) - [Enabling a USB Serial Console on Linux (2022)](https://mattray.github.io/2022/02/27/enabling-usb-serial-console.html)
 * [2024-06-08, 12:32:35](https://news.ycombinator.com/item?id=40617118) - [BYD aims to replace Routemaster with 400-mile EV London bus](https://www.autocar.co.uk/car-news/new-cars/byd-aims-replace-routemaster-400-mile-ev-london-bus)
 * [2024-06-08, 12:27:14](https://news.ycombinator.com/item?id=40617096) - [Forested Wetlands Are Missing from Maps](https://www.hcn.org/articles/the-wests-wetlands-are-struggling-some-have-been-overlooked-altogether/)
 * [2024-06-08, 12:15:26](https://news.ycombinator.com/item?id=40617047) - [The Crusader-Era Knights Who Volunteered to Fight World War I](https://www.military.com/history/crusader-era-knights-who-volunteered-fight-world-war-i.html)
@@ -11,12 +12,14 @@
 * [2024-06-08, 10:43:42](https://news.ycombinator.com/item?id=40616689) - [Google cut Uncle Sam a $2M check so it could avoid a jury trial](https://www.cnn.com/2024/06/07/business/google-doj-antitrust-case-judge-decision/index.html)
 * [2024-06-08, 10:25:28](https://news.ycombinator.com/item?id=40616611) - [Critical Vulnerabilities in Package Manager Revealed by Secret Scanning Research](https://sockpuppets.medium.com/exposing-hidden-dangers-the-essential-guide-to-secret-scanning-in-package-repositories-c483dcf3b82f)
 * [2024-06-08, 07:34:43](https://news.ycombinator.com/item?id=40615953) - [Tokyo's Government Is Building Its Own Dating App to Combat Falling Birthrates](https://time.com/6986142/japan-tokyo-government-dating-app-marriage/)
+* [2024-06-08, 07:31:46](https://news.ycombinator.com/item?id=40615940) - [Asahi Installer](https://github.com/AsahiLinux/asahi-installer)
 * [2024-06-08, 06:52:09](https://news.ycombinator.com/item?id=40615786) - [Boeing Passenger Jet Nearly Crashes Because of Known Software Bug](https://www.independent.co.uk/travel/tui-boeing-flight-bristol-disaster-avoided-b2558536.html)
 * [2024-06-08, 06:34:03](https://news.ycombinator.com/item?id=40615723) - [What happened to Captura? OSS maintainer burnout (2023)](https://mathewsachin.github.io/blog/2023/04/09/captura-unmaintained.html)
 * [2024-06-08, 06:15:11](https://news.ycombinator.com/item?id=40615653) - [Content Injection Attack on GitHub](https://github.com/younesbram/younesbram)
 * [2024-06-08, 05:43:48](https://news.ycombinator.com/item?id=40615537) - [Replit used legal threats to kill my open-source project](https://intuitiveexplanations.com/tech/replit/)
 * [2024-06-08, 05:41:43](https://news.ycombinator.com/item?id=40615530) - [South Pole Water Infrastructure](https://brr.fyi/posts/south-pole-water-infrastructure)
 * [2024-06-08, 04:33:29](https://news.ycombinator.com/item?id=40615301) - [Welcome to the safest time to give birth in human history](https://www.theupwing.com/the-radical-drop-in-maternal-mortality-was-a-public-health-miracle/)
+* [2024-06-08, 04:33:09](https://news.ycombinator.com/item?id=40615299) - [Tools for Better Thinking](https://untools.co/)
 * [2024-06-08, 01:27:45](https://news.ycombinator.com/item?id=40614577) - [Cloud Performance on a \"Toy\" Computer: From Python to Rust](https://progscrape.com/blog/2024-06-06/cloud-performance-on-a-toy-computer-from-python-to-rust)
 * [2024-06-08, 01:04:34](https://news.ycombinator.com/item?id=40614467) - [Memory-safe, clean implementation of classic Posix \"BC\" calculator](https://github.com/rustcoreutils/posixutils-rs/tree/main/calc/src)
 * [2024-06-08, 00:37:57](https://news.ycombinator.com/item?id=40614338) - [Chebyshev approximation and how it can help](https://www.EmbeddedRelated.com/showarticle/152.php)
