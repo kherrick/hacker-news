@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-08](index.md)
 
+* [2024-06-08, 20:29:51](https://news.ycombinator.com/item?id=40620014) - [EU Plans Major Expansion of Mass Surveillance](https://reclaimthenet.org/eu-plans-mass-surveillance-data-collection-device-monitoring-encryption-backdoors)
 * [2024-06-08, 19:03:40](https://news.ycombinator.com/item?id=40619561) - [Court rules Meta must face lawsuit over fraudulent ads](https://signalscv.com/2024/06/court-rules-meta-must-face-lawsuit-over-fraudulent-ads/)
 * [2024-06-08, 18:56:29](https://news.ycombinator.com/item?id=40619521) - [Beware anti patterns in event driven architecture](https://codeopinion.com/beware-anti-patterns-in-event-driven-architecture/)
 * [2024-06-08, 18:51:28](https://news.ycombinator.com/item?id=40619501) - [Auditing TikTok](https://tiktok-audit.com/blog/)

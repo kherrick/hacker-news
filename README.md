@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-08, 20:29:51](https://news.ycombinator.com/item?id=40620014) - [EU Plans Major Expansion of Mass Surveillance](https://reclaimthenet.org/eu-plans-mass-surveillance-data-collection-device-monitoring-encryption-backdoors)
 * [2024-06-08, 18:56:29](https://news.ycombinator.com/item?id=40619521) - [Beware anti patterns in event driven architecture](https://codeopinion.com/beware-anti-patterns-in-event-driven-architecture/)
 * [2024-06-08, 17:25:05](https://news.ycombinator.com/item?id=40619008) - [Scientists wonder if shape of the universe is like a doughnut](https://www.theguardian.com/science/article/2024/jun/08/shape-universe-topology-doughnut-flat-curvature-dimensions)
 * [2024-06-08, 16:43:46](https://news.ycombinator.com/item?id=40618766) - [My favorite 1980's Canadian TV show: Bits and Bytes](https://omarshehata.substack.com/p/my-favorite-1980s-canadian-tv-show)
@@ -29,7 +30,6 @@
 * [2024-06-06, 18:58:20](https://news.ycombinator.com/item?id=40601098) - [Zero Tolerance for Bias](https://queue.acm.org/detail.cfm?id=3664645)
 * [2024-06-05, 20:42:30](https://news.ycombinator.com/item?id=40590353) - [Real VT102 emulation with MAME (2020)](https://zork.net/~st/jottings/Real-VT102-emulation-with-MAME.html)
 * [2024-06-05, 20:09:22](https://news.ycombinator.com/item?id=40589922) - [Cloud Performance on a \"Toy\" Computer: From Python to Rust](https://progscrape.com/blog/2024-06-06/cloud-performance-on-a-toy-computer-from-python-to-rust)
-* [2024-06-05, 19:18:44](https://news.ycombinator.com/item?id=40589172) - [Own a weather station? We want your data](https://www.weather.gov/iln/cwop)
 
 ## [Archives](archives/index.md)
 
