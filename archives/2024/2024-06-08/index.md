@@ -11,6 +11,7 @@
 * [2024-06-08, 12:00:30](https://news.ycombinator.com/item?id=40616992) - [Flexport (YC W14) Is Hiring a Senior Applied Research Scientist](https://boards.greenhouse.io/flexport/jobs/5806177?gh_jid=5806177)
 * [2024-06-08, 10:43:42](https://news.ycombinator.com/item?id=40616689) - [Google cut Uncle Sam a $2M check so it could avoid a jury trial](https://www.cnn.com/2024/06/07/business/google-doj-antitrust-case-judge-decision/index.html)
 * [2024-06-08, 10:25:28](https://news.ycombinator.com/item?id=40616611) - [Critical Vulnerabilities in Package Manager Revealed by Secret Scanning Research](https://sockpuppets.medium.com/exposing-hidden-dangers-the-essential-guide-to-secret-scanning-in-package-repositories-c483dcf3b82f)
+* [2024-06-08, 10:00:07](https://news.ycombinator.com/item?id=40616500) - [Cars Are Way Less Colorful Today Than They Were 20 Years Ago: Study](https://www.thedrive.com/news/cars-are-way-less-colorful-today-than-they-were-20-years-ago-study)
 * [2024-06-08, 07:34:43](https://news.ycombinator.com/item?id=40615953) - [Tokyo's Government Is Building Its Own Dating App to Combat Falling Birthrates](https://time.com/6986142/japan-tokyo-government-dating-app-marriage/)
 * [2024-06-08, 07:31:46](https://news.ycombinator.com/item?id=40615940) - [Asahi Installer](https://github.com/AsahiLinux/asahi-installer)
 * [2024-06-08, 06:52:09](https://news.ycombinator.com/item?id=40615786) - [Boeing Passenger Jet Nearly Crashes Because of Known Software Bug](https://www.independent.co.uk/travel/tui-boeing-flight-bristol-disaster-avoided-b2558536.html)
