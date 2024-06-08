@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-08, 12:27:14](https://news.ycombinator.com/item?id=40617096) - [Forested Wetlands Are Missing from Maps](https://www.hcn.org/articles/the-wests-wetlands-are-struggling-some-have-been-overlooked-altogether/)
-* [2024-06-08, 12:00:30](https://news.ycombinator.com/item?id=40616992) - [Flexport (YC W14) Is Hiring a Senior Applied Research Scientist](https://boards.greenhouse.io/flexport/jobs/5806177?gh_jid=5806177)
+* [2024-06-08, 12:27:14](https://news.ycombinator.com/item?id=40617096) - [Forested wetlands are missing from maps](https://www.hcn.org/articles/the-wests-wetlands-are-struggling-some-have-been-overlooked-altogether/)
 * [2024-06-08, 10:00:07](https://news.ycombinator.com/item?id=40616500) - [Cars Are Way Less Colorful Today Than They Were 20 Years Ago: Study](https://www.thedrive.com/news/cars-are-way-less-colorful-today-than-they-were-20-years-ago-study)
 * [2024-06-08, 09:18:15](https://news.ycombinator.com/item?id=40616347) - [Giant earthworms have transformed the Isle of Rum's landscape](https://theconversation.com/how-giant-earthworms-have-transformed-the-isle-of-rums-landscape-231638)
 * [2024-06-08, 05:41:43](https://news.ycombinator.com/item?id=40615530) - [South Pole Water Infrastructure](https://brr.fyi/posts/south-pole-water-infrastructure)
@@ -26,6 +25,7 @@
 * [2024-06-07, 14:12:42](https://news.ycombinator.com/item?id=40608941) - [Show HN: Scipress.io – a Markdown writing platform like Notion Medium MkDocs](https://www.scipress.io/post/kehluzWG8Iq9y1Nu7IMP/docs)
 * [2024-06-07, 13:42:02](https://news.ycombinator.com/item?id=40608615) - [Italian streets that don't exist on any map (2022)](https://www.atlasobscura.com/articles/italian-streets-not-on-map)
 * [2024-06-07, 09:36:48](https://news.ycombinator.com/item?id=40606924) - [Secret Hand Gestures in Paintings (2019)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233791/)
+* [2024-06-06, 23:12:02](https://news.ycombinator.com/item?id=40603509) - [Concrete Faith: The creation of the Bahá’í house of worship (2023)](https://design.newcity.com/2023/11/01/concrete-faith-how-the-creation-of-the-bahai-house-of-worship-changed-the-course-of-architecture-cab-2023/)
 * [2024-06-06, 11:26:29](https://news.ycombinator.com/item?id=40596130) - [101 Macros for Lotus 1-2-3 and Unnamed Lotus Symphony Adventure Game (2022)](https://www.smoliva.blog/post/computer-chronicles-revisited-070-101-macros-lotus-123-unnamed-lotus-symphony-adventure-game/)
 * [2024-06-06, 07:55:49](https://news.ycombinator.com/item?id=40594743) - [A pure NumPy implementation of Mamba](https://github.com/idoh/mamba.np)
 * [2024-06-05, 19:18:44](https://news.ycombinator.com/item?id=40589172) - [Own a weather station? We want your data](https://www.weather.gov/iln/cwop)
