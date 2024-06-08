@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-06-08](index.md)
 
+* [2024-06-08, 19:03:40](https://news.ycombinator.com/item?id=40619561) - [Court rules Meta must face lawsuit over fraudulent ads](https://signalscv.com/2024/06/court-rules-meta-must-face-lawsuit-over-fraudulent-ads/)
 * [2024-06-08, 18:51:28](https://news.ycombinator.com/item?id=40619501) - [Auditing TikTok](https://tiktok-audit.com/blog/)
 * [2024-06-08, 18:17:57](https://news.ycombinator.com/item?id=40619344) - [A Single Vulnerability Can Bring Down the JavaScript Ecosystem](https://www.landh.tech/blog/20240603-npm-cache-poisoning/)
+* [2024-06-08, 18:14:43](https://news.ycombinator.com/item?id=40619329) - [Adobe users are outraged over vague new policy's AI implications](https://mashable.com/article/adobe-users-outaged-new-policy-trains-ai-their-work)
 * [2024-06-08, 17:57:09](https://news.ycombinator.com/item?id=40619227) - [New York Times source code stolen using exposed GitHub token](https://www.bleepingcomputer.com/news/security/new-york-times-source-code-stolen-using-exposed-github-token/)
 * [2024-06-08, 17:25:05](https://news.ycombinator.com/item?id=40619008) - [Scientists wonder if shape of the universe is like a doughnut](https://www.theguardian.com/science/article/2024/jun/08/shape-universe-topology-doughnut-flat-curvature-dimensions)
 * [2024-06-08, 17:16:04](https://news.ycombinator.com/item?id=40618954) - [Ask HN: Share Your YoutTube Channel](https://news.ycombinator.com/item?id=40618954)
