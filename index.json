@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-06-08, 01:04:34",
+      "https://news.ycombinator.com/item?id=40614467"
+    ],
+    [
+      "Memory-safe, clean implementation of classic Posix \"BC\" calculator",
+      "https://github.com/rustcoreutils/posixutils-rs/tree/main/calc/src"
+    ]
+  ],
+  [
+    [
       "2024-06-08, 00:37:57",
       "https://news.ycombinator.com/item?id=40614338"
     ],
@@ -257,16 +267,6 @@
     [
       "What makes a great contribution to a codebase?",
       "https://blog.eliperkins.com/great-contributions-to-a-codebase"
-    ]
-  ],
-  [
-    [
-      "2024-06-05, 21:21:52",
-      "https://news.ycombinator.com/item?id=40590778"
-    ],
-    [
-      "New Racket Deep Learning Library",
-      "https://github.com/dev-null321/MIND"
     ]
   ],
   [
