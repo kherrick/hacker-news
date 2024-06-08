@@ -123,6 +123,7 @@
 * [2024-06-07, 02:05:50](https://news.ycombinator.com/item?id=40604626) - [Linguistic Antipatterns](https://www.linguistic-antipatterns.com/)
 * [2024-06-07, 01:59:21](https://news.ycombinator.com/item?id=40604596) - [CPU-energy-meter: A tool for measuring energy consumption of Intel CPUs](https://github.com/sosy-lab/cpu-energy-meter)
 * [2024-06-07, 01:58:33](https://news.ycombinator.com/item?id=40604592) - [Evidence of earth's first rains found trapped within primordial crystals](https://www.sciencealert.com/evidence-of-earths-first-rains-found-trapped-within-primordial-crystals)
+* [2024-06-07, 01:42:51](https://news.ycombinator.com/item?id=40604504) - [Can You Pump Water Without Any Electricity?](https://www.wired.com/story/water-pump-without-electricity/)
 * [2024-06-07, 01:40:20](https://news.ycombinator.com/item?id=40604488) - [Badness 0 (Apostrophe's Version) (tom7 for SigBovik 2024)) [video]](https://www.youtube.com/watch?v=Y65FRxE7uMc)
 * [2024-06-07, 01:21:46](https://news.ycombinator.com/item?id=40604382) - [Wallace and Gromit return to face penguin nemesis](https://www.bbc.com/news/articles/cd11kj0d97jo)
 * [2024-06-07, 01:15:57](https://news.ycombinator.com/item?id=40604349) - [Florida woman's Apple Watch traces lost luggage to airport worker's home](https://www.washingtonpost.com/travel/2024/06/06/lost-luggage-tracking-apple-watch-florida-airport-worker/)
