@@ -14,6 +14,7 @@
 * [2024-06-05, 22:05:05](https://news.ycombinator.com/item?id=40591141) - [Microsoft Recall should make you consider Linux](https://creativegood.com/blog/24/recall-switch-to-linux.html)
 * [2024-06-05, 21:59:53](https://news.ycombinator.com/item?id=40591106) - [Follow along implementing a VSCode extension in 5 minutes](https://github.com/brisktest/brisk-extension/blob/main/WALKTHROUGH.md)
 * [2024-06-05, 21:35:53](https://news.ycombinator.com/item?id=40590910) - [Show HN: Original 8x16 ASCII Fixed Width Font: Classic Console Neue](https://webdraft.hu/fonts/classic-console/)
+* [2024-06-05, 21:21:52](https://news.ycombinator.com/item?id=40590778) - [New Racket Deep Learning Library](https://github.com/dev-null321/MIND)
 * [2024-06-05, 21:17:54](https://news.ycombinator.com/item?id=40590735) - [Beginning the End: In the zero thickness of the International Date Line (2009)](https://www.cabinetmagazine.org/issues/32/calame.php)
 * [2024-06-05, 21:01:57](https://news.ycombinator.com/item?id=40590570) - [Memories of an Enron Summer](https://www.dropbox.com/scl/fi/6i1800ml23i6x4wn6jp0q/Enron-Summer.pdf?rlkey=i6eyhsa658w4la0vzkdhfy7uj&e=1&st=2yjulw6q&dl=0)
 * [2024-06-05, 20:59:33](https://news.ycombinator.com/item?id=40590546) - [Largest Autonomous Ride-Hail Territory in US Now Even Larger](https://waymo.com/blog/2024/06/largest-autonomous-ride-hail-territory-in-us-now-even-larger/)
