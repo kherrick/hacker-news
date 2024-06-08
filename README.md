@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-08, 20:40:16](https://news.ycombinator.com/item?id=40620056) - [Gene therapy restores hearing to children with inherited deafness](https://cosmosmagazine.com/science/biology/gene-therapy-restores-hearing-to-children-with-inherited-deafness/)
-* [2024-06-08, 20:37:58](https://news.ycombinator.com/item?id=40620048) - [What makes gambling wrong but insurance right? (2017)](https://www.bbc.com/news/business-38905963)
+* [2024-06-08, 20:04:56](https://news.ycombinator.com/item?id=40619891) - [Chat TUI for Ollama](https://github.com/ggozad/oterm)
 * [2024-06-08, 19:38:53](https://news.ycombinator.com/item?id=40619752) - [Creating a matchmaker for your multiplayer game](https://mas-bandwidth.com/creating-a-matchmaker-for-your-multiplayer-game/)
 * [2024-06-08, 18:56:29](https://news.ycombinator.com/item?id=40619521) - [Beware anti patterns in event driven architecture](https://codeopinion.com/beware-anti-patterns-in-event-driven-architecture/)
 * [2024-06-08, 16:43:46](https://news.ycombinator.com/item?id=40618766) - [My favorite 1980's Canadian TV show: Bits and Bytes](https://omarshehata.substack.com/p/my-favorite-1980s-canadian-tv-show)
