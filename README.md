@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-08, 01:27:45](https://news.ycombinator.com/item?id=40614577) - [Cloud Performance on a \"Toy\" Computer: From Python to Rust](https://progscrape.com/blog/2024-06-06/cloud-performance-on-a-toy-computer-from-python-to-rust)
+* [2024-06-08, 01:04:34](https://news.ycombinator.com/item?id=40614467) - [Memory-safe, clean implementation of classic Posix \"BC\" calculator](https://github.com/rustcoreutils/posixutils-rs/tree/main/calc/src)
 * [2024-06-08, 00:37:57](https://news.ycombinator.com/item?id=40614338) - [Chebyshev approximation and how it can help](https://www.EmbeddedRelated.com/showarticle/152.php)
 * [2024-06-08, 00:16:35](https://news.ycombinator.com/item?id=40614227) - [Apollo 8 astronaut William Anders ID'd in WA plane crash](https://www.fox13seattle.com/news/william-anders-wa-plane-crash)
 * [2024-06-07, 23:11:01](https://news.ycombinator.com/item?id=40613854) - [3dfx Voodoo 4 video card in MXM format (2023)](https://www.vogons.org/viewtopic.php?t=100871)
@@ -26,7 +27,6 @@
 * [2024-06-06, 23:12:02](https://news.ycombinator.com/item?id=40603509) - [Concrete Faith: The creation of the Bahá’í house of worship (2023)](https://design.newcity.com/2023/11/01/concrete-faith-how-the-creation-of-the-bahai-house-of-worship-changed-the-course-of-architecture-cab-2023/)
 * [2024-06-06, 17:11:08](https://news.ycombinator.com/item?id=40599867) - [Programming Prayer: The Woven Book of Hours (1886–87)](https://publicdomainreview.org/collection/lyon-woven-prayer-book/)
 * [2024-06-05, 23:06:24](https://news.ycombinator.com/item?id=40591671) - [What makes a great contribution to a codebase?](https://blog.eliperkins.com/great-contributions-to-a-codebase)
-* [2024-06-05, 21:21:52](https://news.ycombinator.com/item?id=40590778) - [New Racket Deep Learning Library](https://github.com/dev-null321/MIND)
 * [2024-06-05, 21:17:54](https://news.ycombinator.com/item?id=40590735) - [Beginning the End: In the zero thickness of the International Date Line (2009)](https://www.cabinetmagazine.org/issues/32/calame.php)
 * [2024-06-05, 19:18:44](https://news.ycombinator.com/item?id=40589172) - [Own a Weather Station? We Want Your Data](https://www.weather.gov/iln/cwop)
 * [2024-06-05, 17:39:39](https://news.ycombinator.com/item?id=40587934) - [LaTeX is the first PDF/UA-2 compliance accessible PDF producer](https://github.com/latex3/tagging-project/discussions/72)
