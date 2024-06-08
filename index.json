@@ -1,11 +1,21 @@
 [
   [
     [
+      "2024-06-08, 15:17:53",
+      "https://news.ycombinator.com/item?id=40618079"
+    ],
+    [
+      "The Backrooms of the Internet Archive",
+      "https://blog.archive.org/2024/06/01/the-backrooms-of-the-internet-archive/"
+    ]
+  ],
+  [
+    [
       "2024-06-08, 14:46:53",
       "https://news.ycombinator.com/item?id=40617877"
     ],
     [
-      "Show HN: Speed up your Postgres queries by upto 90%",
+      "Show HN: Pg_analytica – Speed up queries by exporting tables to columnar format",
       "https://github.com/sushrut141/pg_analytica"
     ]
   ],
@@ -21,6 +31,16 @@
   ],
   [
     [
+      "2024-06-08, 12:39:56",
+      "https://news.ycombinator.com/item?id=40617160"
+    ],
+    [
+      "Finite-Time Topology Identification of Delayed Complex Dynamical Networks",
+      "https://spj.science.org/doi/10.34133/cbsystems.0092"
+    ]
+  ],
+  [
+    [
       "2024-06-08, 12:27:14",
       "https://news.ycombinator.com/item?id=40617096"
     ],
@@ -31,11 +51,31 @@
   ],
   [
     [
+      "2024-06-08, 12:24:58",
+      "https://news.ycombinator.com/item?id=40617082"
+    ],
+    [
+      "LSP-AI: open-source language server serving as back end for AI code assistance",
+      "https://github.com/SilasMarvin/lsp-ai"
+    ]
+  ],
+  [
+    [
+      "2024-06-08, 11:28:41",
+      "https://news.ycombinator.com/item?id=40616881"
+    ],
+    [
+      "A Scheme Primer",
+      "https://spritely.institute/static/papers/scheme-primer.html"
+    ]
+  ],
+  [
+    [
       "2024-06-08, 11:23:05",
       "https://news.ycombinator.com/item?id=40616856"
     ],
     [
-      "Reveiw of June 7, 2023 Wildfire Smoke Event (National Weather Service)",
+      "June 7, 2023 Wildfire Smoke Event",
       "https://storymaps.arcgis.com/stories/cf05c50f058a40e99e2da54ec098a40a"
     ]
   ],
@@ -141,22 +181,12 @@
   ],
   [
     [
-      "2024-06-07, 18:45:59",
-      "https://news.ycombinator.com/item?id=40611638"
+      "2024-06-07, 17:37:52",
+      "https://news.ycombinator.com/item?id=40610909"
     ],
     [
-      "Alarms in medical equipment",
-      "https://th.id.au/alarms/"
-    ]
-  ],
-  [
-    [
-      "2024-06-07, 17:51:37",
-      "https://news.ycombinator.com/item?id=40611058"
-    ],
-    [
-      "How Mount Everest killed George Mallory",
-      "https://thespectator.com/book-and-art/mount-everest-killed-george-mallory-mick-conefrey-fallen/"
+      "The Poor Man's 3D Camera (2017)",
+      "https://etodd.io/2017/11/28/poor-mans-3d-camera/"
     ]
   ],
   [
@@ -177,36 +207,6 @@
     [
       "ASCII Silhouettify",
       "https://meatfighter.com/ascii-silhouettify/"
-    ]
-  ],
-  [
-    [
-      "2024-06-07, 17:08:23",
-      "https://news.ycombinator.com/item?id=40610621"
-    ],
-    [
-      "OpenSSH introduces options to penalize undesirable behavior",
-      "https://undeadly.org/cgi?action=article;sid=20240607042157"
-    ]
-  ],
-  [
-    [
-      "2024-06-07, 16:07:25",
-      "https://news.ycombinator.com/item?id=40609968"
-    ],
-    [
-      "Writing memory safe JIT compilers",
-      "https://medium.com/graalvm/writing-truly-memory-safe-jit-compilers-f79ad44558dd"
-    ]
-  ],
-  [
-    [
-      "2024-06-07, 15:14:29",
-      "https://news.ycombinator.com/item?id=40609485"
-    ],
-    [
-      "Turn On, Tune In, Write Code",
-      "https://www.thenewatlantis.com/publications/turn-on-tune-in-write-code"
     ]
   ],
   [
@@ -241,22 +241,22 @@
   ],
   [
     [
-      "2024-06-07, 13:42:02",
-      "https://news.ycombinator.com/item?id=40608615"
-    ],
-    [
-      "Italian streets that don't exist on any map (2022)",
-      "https://www.atlasobscura.com/articles/italian-streets-not-on-map"
-    ]
-  ],
-  [
-    [
       "2024-06-07, 09:36:48",
       "https://news.ycombinator.com/item?id=40606924"
     ],
     [
       "Secret Hand Gestures in Paintings (2019)",
       "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233791/"
+    ]
+  ],
+  [
+    [
+      "2024-06-07, 06:42:52",
+      "https://news.ycombinator.com/item?id=40605922"
+    ],
+    [
+      "Simple, Efficient, and Robust Hash Tables for Join Processing",
+      "https://cedardb.com/blog/simple_efficient_hash_tables/"
     ]
   ],
   [
