@@ -75,6 +75,7 @@
 * [2024-06-06, 15:04:36](https://news.ycombinator.com/item?id=40598283) - [Change to Adobe terms and conditions outrages many professionals](https://9to5mac.com/2024/06/06/change-to-adobe-terms-amp-conditions/)
 * [2024-06-06, 14:48:24](https://news.ycombinator.com/item?id=40598059) - ['Most exciting moment' since birth of WiFi: chipmakers hail arrival of AI PCs](https://www.ft.com/content/6a546ad6-ae03-4c2d-92f5-c8efdd4bba3b)
 * [2024-06-06, 14:37:07](https://news.ycombinator.com/item?id=40597929) - [Why Canadians are angry with their biggest supermarket](https://www.bbc.com/news/articles/cd11ywyg6p0o)
+* [2024-06-06, 14:35:09](https://news.ycombinator.com/item?id=40597904) - [The Lost Art of the Negative](https://www.nytimes.com/2024/06/06/arts/film-photography-negatives.html)
 * [2024-06-06, 14:28:32](https://news.ycombinator.com/item?id=40597833) - [YC Hacker News: A Comprehensive Trend Analysis](https://dupeless.com/yc-analysis)
 * [2024-06-06, 14:09:02](https://news.ycombinator.com/item?id=40597587) - [Accidental prompt injection against RAG applications](https://simonwillison.net/2024/Jun/6/accidental-prompt-injection/)
 * [2024-06-06, 14:04:23](https://news.ycombinator.com/item?id=40597514) - [Minnesota Strikes Down Preemption Laws Blocking Municipal Broadband](https://communitynets.org/content/minnesota-strikes-down-preemption-laws-blocking-municipal-broadband)
