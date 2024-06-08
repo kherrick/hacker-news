@@ -20,6 +20,7 @@
 * [2024-06-08, 10:25:28](https://news.ycombinator.com/item?id=40616611) - [Critical Vulnerabilities in Package Manager Revealed by Secret Scanning Research](https://sockpuppets.medium.com/exposing-hidden-dangers-the-essential-guide-to-secret-scanning-in-package-repositories-c483dcf3b82f)
 * [2024-06-08, 10:00:07](https://news.ycombinator.com/item?id=40616500) - [Cars Are Way Less Colorful Today Than They Were 20 Years Ago: Study](https://www.thedrive.com/news/cars-are-way-less-colorful-today-than-they-were-20-years-ago-study)
 * [2024-06-08, 09:18:15](https://news.ycombinator.com/item?id=40616347) - [Giant earthworms have transformed the Isle of Rum's landscape](https://theconversation.com/how-giant-earthworms-have-transformed-the-isle-of-rums-landscape-231638)
+* [2024-06-08, 08:14:54](https://news.ycombinator.com/item?id=40616121) - [Breaking up is hard to do: Chunking in RAG applications](https://stackoverflow.blog/2024/06/06/breaking-up-is-hard-to-do-chunking-in-rag-applications/)
 * [2024-06-08, 07:34:43](https://news.ycombinator.com/item?id=40615953) - [Tokyo's Government Is Building Its Own Dating App to Combat Falling Birthrates](https://time.com/6986142/japan-tokyo-government-dating-app-marriage/)
 * [2024-06-08, 07:31:46](https://news.ycombinator.com/item?id=40615940) - [Asahi Installer](https://github.com/AsahiLinux/asahi-installer)
 * [2024-06-08, 06:52:09](https://news.ycombinator.com/item?id=40615786) - [Boeing Passenger Jet Nearly Crashes Because of Known Software Bug](https://www.independent.co.uk/travel/tui-boeing-flight-bristol-disaster-avoided-b2558536.html)
@@ -33,3 +34,4 @@
 * [2024-06-08, 01:04:34](https://news.ycombinator.com/item?id=40614467) - [Memory-safe, clean implementation of classic Posix \"BC\" calculator](https://github.com/rustcoreutils/posixutils-rs/tree/main/calc/src)
 * [2024-06-08, 00:37:57](https://news.ycombinator.com/item?id=40614338) - [Chebyshev approximation and how it can help](https://www.EmbeddedRelated.com/showarticle/152.php)
 * [2024-06-08, 00:16:35](https://news.ycombinator.com/item?id=40614227) - [Apollo 8 astronaut William Anders ID'd in WA plane crash](https://www.fox13seattle.com/news/william-anders-wa-plane-crash)
+* [2024-06-08, 00:01:04](https://news.ycombinator.com/item?id=40614144) - [Moving CHERIoT RTOS to a tickless model](https://cheriot.org/scheduler/2024/06/07/tickless-scheduler.html)
