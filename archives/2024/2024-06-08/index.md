@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-08](index.md)
 
 * [2024-06-08, 17:16:04](https://news.ycombinator.com/item?id=40618954) - [Ask HN: Share Your YoutTube Channel](https://news.ycombinator.com/item?id=40618954)
+* [2024-06-08, 16:55:51](https://news.ycombinator.com/item?id=40618850) - [Sid Meier's Civilization VII – Official Teaser Trailer](https://www.youtube.com/watch?v=pygcgE3a_uY)
 * [2024-06-08, 16:43:46](https://news.ycombinator.com/item?id=40618766) - [My favorite 1980's Canadian TV show: Bits and Bytes](https://omarshehata.substack.com/p/my-favorite-1980s-canadian-tv-show)
 * [2024-06-08, 16:05:45](https://news.ycombinator.com/item?id=40618459) - [Detecting a PS2 Emulator: When 1*X does not equal X](https://fobes.dev/ps2/detecting-emu-vu-floats)
 * [2024-06-08, 15:48:49](https://news.ycombinator.com/item?id=40618335) - [Leafy Vegetables Found to Contain Tire Additives](https://e360.yale.edu/digest/tire-chemicals-vegetables-study)
