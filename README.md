@@ -27,9 +27,9 @@
 * [2024-06-07, 15:45:09](https://news.ycombinator.com/item?id=40609753) - [In highly connected networks, there's always a loop](https://www.quantamagazine.org/in-highly-connected-networks-theres-always-a-loop-20240607/)
 * [2024-06-07, 10:40:54](https://news.ycombinator.com/item?id=40607266) - [Untrusted – a meta-JavaScript adventure game](https://alexnisnevich.github.io/untrusted/)
 * [2024-06-06, 22:46:46](https://news.ycombinator.com/item?id=40603277) - [Bali's stone sarcophagi included global goods](https://www.atlasobscura.com/articles/bali-stone-sarcophagus-artifacts)
+* [2024-06-06, 19:46:26](https://news.ycombinator.com/item?id=40601562) - [Ask HN: Compiler speed-up or Build Caching tool. Hard to find?](https://news.ycombinator.com/item?id=40601562)
 * [2024-06-06, 18:58:20](https://news.ycombinator.com/item?id=40601098) - [Zero Tolerance for Bias](https://queue.acm.org/detail.cfm?id=3664645)
 * [2024-06-05, 20:42:30](https://news.ycombinator.com/item?id=40590353) - [Real VT102 emulation with MAME (2020)](https://zork.net/~st/jottings/Real-VT102-emulation-with-MAME.html)
-* [2024-06-05, 20:09:22](https://news.ycombinator.com/item?id=40589922) - [Cloud Performance on a \"Toy\" Computer: From Python to Rust](https://progscrape.com/blog/2024-06-06/cloud-performance-on-a-toy-computer-from-python-to-rust)
 
 ## [Archives](archives/index.md)
 
