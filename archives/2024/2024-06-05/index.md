@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-05](index.md)
 
 * [2024-06-05, 23:34:48](https://news.ycombinator.com/item?id=40591860) - [Photoshop ToS grants Adobe access to user projects for 'content moderation'](https://nichegamer.com/photoshop-terms-of-service-grants-adobe-access-to-user-projects-for-content-moderation/)
+* [2024-06-05, 23:06:24](https://news.ycombinator.com/item?id=40591671) - [What makes a great contribution to a codebase?](https://blog.eliperkins.com/great-contributions-to-a-codebase)
 * [2024-06-05, 23:02:57](https://news.ycombinator.com/item?id=40591644) - [JSON extra uses orjson instead of ujson](https://github.com/pydantic/pydantic/pull/599)
 * [2024-06-05, 22:55:05](https://news.ycombinator.com/item?id=40591582) - [FBI raids Atlanta corporate landlord in probe of rental market price fixing](https://www.ajc.com/news/atlanta-news/fbi-raids-atlanta-corporate-landlord-with-ties-to-realpage/PT65C57YUFF2JGB7TRVRC7IFLE/)
 * [2024-06-05, 22:48:03](https://news.ycombinator.com/item?id=40591532) - [We Worked at Meta. Democracies Need to Fix the Feed Before It's Too Late](https://www.techpolicy.press/we-worked-on-election-integrity-at-meta-the-eu-and-all-democracies-need-to-fix-the-feed-before-its-too-late/)
@@ -13,6 +14,7 @@
 * [2024-06-05, 22:05:05](https://news.ycombinator.com/item?id=40591141) - [Microsoft Recall should make you consider Linux](https://creativegood.com/blog/24/recall-switch-to-linux.html)
 * [2024-06-05, 21:59:53](https://news.ycombinator.com/item?id=40591106) - [Follow along implementing a VSCode extension in 5 minutes](https://github.com/brisktest/brisk-extension/blob/main/WALKTHROUGH.md)
 * [2024-06-05, 21:35:53](https://news.ycombinator.com/item?id=40590910) - [Show HN: Original 8x16 ASCII Fixed Width Font: Classic Console Neue](https://webdraft.hu/fonts/classic-console/)
+* [2024-06-05, 21:17:54](https://news.ycombinator.com/item?id=40590735) - [Beginning the End: In the zero thickness of the International Date Line (2009)](https://www.cabinetmagazine.org/issues/32/calame.php)
 * [2024-06-05, 21:01:57](https://news.ycombinator.com/item?id=40590570) - [Memories of an Enron Summer](https://www.dropbox.com/scl/fi/6i1800ml23i6x4wn6jp0q/Enron-Summer.pdf?rlkey=i6eyhsa658w4la0vzkdhfy7uj&e=1&st=2yjulw6q&dl=0)
 * [2024-06-05, 20:59:33](https://news.ycombinator.com/item?id=40590546) - [Largest Autonomous Ride-Hail Territory in US Now Even Larger](https://waymo.com/blog/2024/06/largest-autonomous-ride-hail-territory-in-us-now-even-larger/)
 * [2024-06-05, 20:03:26](https://news.ycombinator.com/item?id=40589852) - [Show HN: Mark Scroll Positions](https://www.rugu.dev/en/blog/mark-scroll-positions/)

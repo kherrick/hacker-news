@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-07](index.md)
 
+* [2024-06-07, 23:11:01](https://news.ycombinator.com/item?id=40613854) - [3dfx Voodoo 4 video card in MXM format](https://www.vogons.org/viewtopic.php?t=100871)
 * [2024-06-07, 22:46:48](https://news.ycombinator.com/item?id=40613724) - [No One Wants a New Car Now. Here's Why](https://www.wsj.com/lifestyle/cars/no-one-wants-a-new-car-now-heres-why-41eba32b)
 * [2024-06-07, 21:46:30](https://news.ycombinator.com/item?id=40613312) - [Slow-spinning radio neutron star breaks all the rules](https://www.sydney.edu.au/news-opinion/news/2024/06/05/slow-spinning-radio-neutron-star-breaks-all-the-rules.html)
 * [2024-06-07, 21:42:58](https://news.ycombinator.com/item?id=40613287) - [What Is PID 0?](https://blog.dave.tf/post/linux-pid0/)
