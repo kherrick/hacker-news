@@ -29,7 +29,7 @@
 * [2024-06-06, 18:58:20](https://news.ycombinator.com/item?id=40601098) - [Zero Tolerance for Bias](https://queue.acm.org/detail.cfm?id=3664645)
 * [2024-06-05, 20:42:30](https://news.ycombinator.com/item?id=40590353) - [Real VT102 emulation with MAME (2020)](https://zork.net/~st/jottings/Real-VT102-emulation-with-MAME.html)
 * [2024-06-05, 20:09:22](https://news.ycombinator.com/item?id=40589922) - [Cloud Performance on a \"Toy\" Computer: From Python to Rust](https://progscrape.com/blog/2024-06-06/cloud-performance-on-a-toy-computer-from-python-to-rust)
-* [2024-06-05, 17:39:39](https://news.ycombinator.com/item?id=40587934) - [LaTeX is the first PDF/UA-2 compliance accessible PDF producer](https://github.com/latex3/tagging-project/discussions/72)
+* [2024-06-05, 19:18:44](https://news.ycombinator.com/item?id=40589172) - [Own a weather station? We want your data](https://www.weather.gov/iln/cwop)
 
 ## [Archives](archives/index.md)
 
