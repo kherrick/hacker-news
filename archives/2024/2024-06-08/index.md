@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-08](index.md)
 
 * [2024-06-08, 19:03:40](https://news.ycombinator.com/item?id=40619561) - [Court rules Meta must face lawsuit over fraudulent ads](https://signalscv.com/2024/06/court-rules-meta-must-face-lawsuit-over-fraudulent-ads/)
+* [2024-06-08, 18:56:29](https://news.ycombinator.com/item?id=40619521) - [Beware anti patterns in event driven architecture](https://codeopinion.com/beware-anti-patterns-in-event-driven-architecture/)
 * [2024-06-08, 18:51:28](https://news.ycombinator.com/item?id=40619501) - [Auditing TikTok](https://tiktok-audit.com/blog/)
 * [2024-06-08, 18:17:57](https://news.ycombinator.com/item?id=40619344) - [A Single Vulnerability Can Bring Down the JavaScript Ecosystem](https://www.landh.tech/blog/20240603-npm-cache-poisoning/)
 * [2024-06-08, 18:14:43](https://news.ycombinator.com/item?id=40619329) - [Adobe users are outraged over vague new policy's AI implications](https://mashable.com/article/adobe-users-outaged-new-policy-trains-ai-their-work)
