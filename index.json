@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-06-08, 18:17:57",
-      "https://news.ycombinator.com/item?id=40619344"
-    ],
-    [
-      "A Single Vulnerability Can Bring Down the JavaScript Ecosystem",
-      "https://www.landh.tech/blog/20240603-npm-cache-poisoning/"
-    ]
-  ],
-  [
-    [
       "2024-06-08, 17:25:05",
       "https://news.ycombinator.com/item?id=40619008"
     ],
@@ -91,16 +81,6 @@
   ],
   [
     [
-      "2024-06-08, 11:28:41",
-      "https://news.ycombinator.com/item?id=40616881"
-    ],
-    [
-      "A Scheme Primer",
-      "https://spritely.institute/static/papers/scheme-primer.html"
-    ]
-  ],
-  [
-    [
       "2024-06-08, 11:02:32",
       "https://news.ycombinator.com/item?id=40616778"
     ],
@@ -117,6 +97,16 @@
     [
       "Breaking up is hard to do: Chunking in RAG applications",
       "https://stackoverflow.blog/2024/06/06/breaking-up-is-hard-to-do-chunking-in-rag-applications/"
+    ]
+  ],
+  [
+    [
+      "2024-06-08, 06:58:36",
+      "https://news.ycombinator.com/item?id=40615808"
+    ],
+    [
+      "BES – OSS Windows software to control per-process CPU usage",
+      "https://mion.yosei.fi/BES/"
     ]
   ],
   [
@@ -145,7 +135,7 @@
       "https://news.ycombinator.com/item?id=40613854"
     ],
     [
-      "3dfx Voodoo 4 video card in MXM format (2023)",
+      "3dfx Voodoo 4 video card in MXM format",
       "https://www.vogons.org/viewtopic.php?t=100871"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "Cloud Performance on a \"Toy\" Computer: From Python to Rust",
       "https://progscrape.com/blog/2024-06-06/cloud-performance-on-a-toy-computer-from-python-to-rust"
+    ]
+  ],
+  [
+    [
+      "2024-06-05, 17:39:39",
+      "https://news.ycombinator.com/item?id=40587934"
+    ],
+    [
+      "LaTeX is the first PDF/UA-2 compliance accessible PDF producer",
+      "https://github.com/latex3/tagging-project/discussions/72"
     ]
   ]
 ]
