@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-08, 13:05:31",
+      "https://news.ycombinator.com/item?id=40617299"
+    ],
+    [
+      "Enabling a USB Serial Console on Linux (2022)",
+      "https://mattray.github.io/2022/02/27/enabling-usb-serial-console.html"
+    ]
+  ],
+  [
+    [
       "2024-06-08, 12:27:14",
       "https://news.ycombinator.com/item?id=40617096"
     ],
@@ -31,12 +41,12 @@
   ],
   [
     [
-      "2024-06-08, 06:52:09",
-      "https://news.ycombinator.com/item?id=40615786"
+      "2024-06-08, 07:31:46",
+      "https://news.ycombinator.com/item?id=40615940"
     ],
     [
-      "Boeing Passenger Jet Nearly Crashes Because of Known Software Bug",
-      "https://www.independent.co.uk/travel/tui-boeing-flight-bristol-disaster-avoided-b2558536.html"
+      "Asahi Installer",
+      "https://github.com/AsahiLinux/asahi-installer"
     ]
   ],
   [
@@ -57,6 +67,16 @@
     [
       "South Pole Water Infrastructure",
       "https://brr.fyi/posts/south-pole-water-infrastructure"
+    ]
+  ],
+  [
+    [
+      "2024-06-08, 04:33:09",
+      "https://news.ycombinator.com/item?id=40615299"
+    ],
+    [
+      "Tools for Better Thinking",
+      "https://untools.co/"
     ]
   ],
   [
@@ -161,6 +181,16 @@
   ],
   [
     [
+      "2024-06-07, 17:51:37",
+      "https://news.ycombinator.com/item?id=40611058"
+    ],
+    [
+      "How Mount Everest killed George Mallory",
+      "https://thespectator.com/book-and-art/mount-everest-killed-george-mallory-mick-conefrey-fallen/"
+    ]
+  ],
+  [
+    [
       "2024-06-07, 17:26:34",
       "https://news.ycombinator.com/item?id=40610794"
     ],
@@ -191,6 +221,16 @@
   ],
   [
     [
+      "2024-06-07, 15:14:29",
+      "https://news.ycombinator.com/item?id=40609485"
+    ],
+    [
+      "Turn On, Tune In, Write Code",
+      "https://www.thenewatlantis.com/publications/turn-on-tune-in-write-code"
+    ]
+  ],
+  [
+    [
       "2024-06-07, 14:55:48",
       "https://news.ycombinator.com/item?id=40609326"
     ],
@@ -211,52 +251,12 @@
   ],
   [
     [
-      "2024-06-07, 13:01:15",
-      "https://news.ycombinator.com/item?id=40608332"
-    ],
-    [
-      "Tom 7: Badness 0 (Three ways)",
-      "http://tom7.org/bovex/"
-    ]
-  ],
-  [
-    [
       "2024-06-07, 09:36:48",
       "https://news.ycombinator.com/item?id=40606924"
     ],
     [
       "Secret Hand Gestures in Paintings (2019)",
       "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233791/"
-    ]
-  ],
-  [
-    [
-      "2024-06-06, 23:36:44",
-      "https://news.ycombinator.com/item?id=40603696"
-    ],
-    [
-      "R or Python for Bioinformatics?",
-      "https://divingintogeneticsandgenomics.com/post/r-or-python-for-bioinformatics/"
-    ]
-  ],
-  [
-    [
-      "2024-06-06, 17:02:51",
-      "https://news.ycombinator.com/item?id=40599763"
-    ],
-    [
-      "Show HN: I created this land use visualisation for the Netherlands",
-      "https://koenvangilst.nl/labs/ons-land"
-    ]
-  ],
-  [
-    [
-      "2024-06-06, 16:43:03",
-      "https://news.ycombinator.com/item?id=40599524"
-    ],
-    [
-      "VGG Specs: Next-Gen Cross-Platform Vector Graphics with Advanced UI Effects",
-      "https://github.com/verygoodgraphics"
     ]
   ],
   [
