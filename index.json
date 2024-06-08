@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-08, 01:27:45",
+      "https://news.ycombinator.com/item?id=40614577"
+    ],
+    [
+      "Cloud Performance on a \"Toy\" Computer: From Python to Rust",
+      "https://progscrape.com/blog/2024-06-06/cloud-performance-on-a-toy-computer-from-python-to-rust"
+    ]
+  ],
+  [
+    [
       "2024-06-08, 00:37:57",
       "https://news.ycombinator.com/item?id=40614338"
     ],
@@ -57,16 +67,6 @@
     [
       "Xv6, a simple Unix-like teaching operating system",
       "https://pdos.csail.mit.edu/6.828/2023/xv6.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-07, 20:08:07",
-      "https://news.ycombinator.com/item?id=40612445"
-    ],
-    [
-      "D-Day, as told by paratroopers",
-      "https://www.politico.com/news/magazine/2024/06/06/d-day-normandy-world-war-ii-paratroopers-00161916?ref=thebrowser.com"
     ]
   ],
   [
@@ -157,16 +157,6 @@
     [
       "Writing memory safe JIT compilers",
       "https://medium.com/graalvm/writing-truly-memory-safe-jit-compilers-f79ad44558dd"
-    ]
-  ],
-  [
-    [
-      "2024-06-07, 15:14:29",
-      "https://news.ycombinator.com/item?id=40609485"
-    ],
-    [
-      "Turn On, Tune In, Write Code",
-      "https://www.thenewatlantis.com/publications/turn-on-tune-in-write-code"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Beginning the End: In the zero thickness of the International Date Line (2009)",
       "https://www.cabinetmagazine.org/issues/32/calame.php"
+    ]
+  ],
+  [
+    [
+      "2024-06-05, 19:18:44",
+      "https://news.ycombinator.com/item?id=40589172"
+    ],
+    [
+      "Own a Weather Station? We Want Your Data",
+      "https://www.weather.gov/iln/cwop"
     ]
   ],
   [
