@@ -4,13 +4,17 @@
 
 ### [Archives](../../index.md) for [2024-06-08](index.md)
 
+* [2024-06-08, 15:17:53](https://news.ycombinator.com/item?id=40618079) - [The Backrooms of the Internet Archive](https://blog.archive.org/2024/06/01/the-backrooms-of-the-internet-archive/)
 * [2024-06-08, 14:46:53](https://news.ycombinator.com/item?id=40617877) - [Show HN: Speed up your Postgres queries by upto 90%](https://github.com/sushrut141/pg_analytica)
 * [2024-06-08, 14:34:22](https://news.ycombinator.com/item?id=40617786) - [Ask HN: How to handle a senior hire turning out to be junior?](https://news.ycombinator.com/item?id=40617786)
 * [2024-06-08, 13:05:31](https://news.ycombinator.com/item?id=40617299) - [Enabling a USB Serial Console on Linux (2022)](https://mattray.github.io/2022/02/27/enabling-usb-serial-console.html)
+* [2024-06-08, 12:39:56](https://news.ycombinator.com/item?id=40617160) - [Finite-Time Topology Identification of Delayed Complex Dynamical Networks](https://spj.science.org/doi/10.34133/cbsystems.0092)
 * [2024-06-08, 12:32:35](https://news.ycombinator.com/item?id=40617118) - [BYD aims to replace Routemaster with 400-mile EV London bus](https://www.autocar.co.uk/car-news/new-cars/byd-aims-replace-routemaster-400-mile-ev-london-bus)
 * [2024-06-08, 12:27:14](https://news.ycombinator.com/item?id=40617096) - [Forested Wetlands Are Missing from Maps](https://www.hcn.org/articles/the-wests-wetlands-are-struggling-some-have-been-overlooked-altogether/)
+* [2024-06-08, 12:24:58](https://news.ycombinator.com/item?id=40617082) - [LSP-AI: open-source language server serving as back end for AI code assistance](https://github.com/SilasMarvin/lsp-ai)
 * [2024-06-08, 12:15:26](https://news.ycombinator.com/item?id=40617047) - [The Crusader-Era Knights Who Volunteered to Fight World War I](https://www.military.com/history/crusader-era-knights-who-volunteered-fight-world-war-i.html)
 * [2024-06-08, 12:00:30](https://news.ycombinator.com/item?id=40616992) - [Flexport (YC W14) Is Hiring a Senior Applied Research Scientist](https://boards.greenhouse.io/flexport/jobs/5806177?gh_jid=5806177)
+* [2024-06-08, 11:28:41](https://news.ycombinator.com/item?id=40616881) - [A Scheme Primer](https://spritely.institute/static/papers/scheme-primer.html)
 * [2024-06-08, 11:23:05](https://news.ycombinator.com/item?id=40616856) - [Reveiw of June 7, 2023 Wildfire Smoke Event (National Weather Service)](https://storymaps.arcgis.com/stories/cf05c50f058a40e99e2da54ec098a40a)
 * [2024-06-08, 10:43:42](https://news.ycombinator.com/item?id=40616689) - [Google cut Uncle Sam a $2M check so it could avoid a jury trial](https://www.cnn.com/2024/06/07/business/google-doj-antitrust-case-judge-decision/index.html)
 * [2024-06-08, 10:25:28](https://news.ycombinator.com/item?id=40616611) - [Critical Vulnerabilities in Package Manager Revealed by Secret Scanning Research](https://sockpuppets.medium.com/exposing-hidden-dangers-the-essential-guide-to-secret-scanning-in-package-repositories-c483dcf3b82f)
