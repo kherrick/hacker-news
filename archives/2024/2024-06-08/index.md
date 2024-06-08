@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-08](index.md)
 
+* [2024-06-08, 17:57:09](https://news.ycombinator.com/item?id=40619227) - [New York Times source code stolen using exposed GitHub token](https://www.bleepingcomputer.com/news/security/new-york-times-source-code-stolen-using-exposed-github-token/)
 * [2024-06-08, 17:25:05](https://news.ycombinator.com/item?id=40619008) - [Scientists wonder if shape of the universe is like a doughnut](https://www.theguardian.com/science/article/2024/jun/08/shape-universe-topology-doughnut-flat-curvature-dimensions)
 * [2024-06-08, 17:16:04](https://news.ycombinator.com/item?id=40618954) - [Ask HN: Share Your YoutTube Channel](https://news.ycombinator.com/item?id=40618954)
 * [2024-06-08, 16:55:51](https://news.ycombinator.com/item?id=40618850) - [Sid Meier's Civilization VII – Official Teaser Trailer](https://www.youtube.com/watch?v=pygcgE3a_uY)
@@ -20,6 +21,7 @@
 * [2024-06-08, 12:24:58](https://news.ycombinator.com/item?id=40617082) - [LSP-AI: open-source language server serving as back end for AI code assistance](https://github.com/SilasMarvin/lsp-ai)
 * [2024-06-08, 12:15:26](https://news.ycombinator.com/item?id=40617047) - [The Crusader-Era Knights Who Volunteered to Fight World War I](https://www.military.com/history/crusader-era-knights-who-volunteered-fight-world-war-i.html)
 * [2024-06-08, 12:00:30](https://news.ycombinator.com/item?id=40616992) - [Flexport (YC W14) Is Hiring a Senior Applied Research Scientist](https://boards.greenhouse.io/flexport/jobs/5806177?gh_jid=5806177)
+* [2024-06-08, 11:54:08](https://news.ycombinator.com/item?id=40616966) - [Garbage collect your technical debt (2021)](https://ieeexplore.ieee.org/document/9520328)
 * [2024-06-08, 11:28:41](https://news.ycombinator.com/item?id=40616881) - [A Scheme Primer](https://spritely.institute/static/papers/scheme-primer.html)
 * [2024-06-08, 11:23:05](https://news.ycombinator.com/item?id=40616856) - [Reveiw of June 7, 2023 Wildfire Smoke Event (National Weather Service)](https://storymaps.arcgis.com/stories/cf05c50f058a40e99e2da54ec098a40a)
 * [2024-06-08, 11:02:32](https://news.ycombinator.com/item?id=40616778) - [Tiny fern has the largest genome of any organism on Earth](https://phys.org/news/2024-05-tiny-fern-largest-genome-earth.html)
