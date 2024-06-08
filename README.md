@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-08, 12:32:35](https://news.ycombinator.com/item?id=40617118) - [BYD aims to replace Routemaster with 400-mile EV London bus](https://www.autocar.co.uk/car-news/new-cars/byd-aims-replace-routemaster-400-mile-ev-london-bus)
+* [2024-06-08, 12:27:14](https://news.ycombinator.com/item?id=40617096) - [Forested Wetlands Are Missing from Maps](https://www.hcn.org/articles/the-wests-wetlands-are-struggling-some-have-been-overlooked-altogether/)
 * [2024-06-08, 12:00:30](https://news.ycombinator.com/item?id=40616992) - [Flexport (YC W14) Is Hiring a Senior Applied Research Scientist](https://boards.greenhouse.io/flexport/jobs/5806177?gh_jid=5806177)
-* [2024-06-08, 10:43:42](https://news.ycombinator.com/item?id=40616689) - [Google cut Uncle Sam a $2M check so it could avoid a jury trial](https://www.cnn.com/2024/06/07/business/google-doj-antitrust-case-judge-decision/index.html)
 * [2024-06-08, 06:52:09](https://news.ycombinator.com/item?id=40615786) - [Boeing Passenger Jet Nearly Crashes Because of Known Software Bug](https://www.independent.co.uk/travel/tui-boeing-flight-bristol-disaster-avoided-b2558536.html)
 * [2024-06-08, 06:34:03](https://news.ycombinator.com/item?id=40615723) - [What happened to Captura? OSS maintainer burnout (2023)](https://mathewsachin.github.io/blog/2023/04/09/captura-unmaintained.html)
 * [2024-06-08, 06:15:11](https://news.ycombinator.com/item?id=40615653) - [Content Injection Attack on GitHub](https://github.com/younesbram/younesbram)
