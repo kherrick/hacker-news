@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-08](index.md)
 
 * [2024-06-08, 20:55:04](https://news.ycombinator.com/item?id=40620122) - [Why do people drop litter?](https://notoriousbfg.com/why-drop-litter/)
+* [2024-06-08, 20:40:16](https://news.ycombinator.com/item?id=40620056) - [Gene therapy restores hearing to children with inherited deafness](https://cosmosmagazine.com/science/biology/gene-therapy-restores-hearing-to-children-with-inherited-deafness/)
 * [2024-06-08, 20:37:58](https://news.ycombinator.com/item?id=40620048) - [What makes gambling wrong but insurance right? (2017)](https://www.bbc.com/news/business-38905963)
 * [2024-06-08, 20:29:51](https://news.ycombinator.com/item?id=40620014) - [EU Plans Major Expansion of Mass Surveillance](https://reclaimthenet.org/eu-plans-mass-surveillance-data-collection-device-monitoring-encryption-backdoors)
 * [2024-06-08, 19:59:38](https://news.ycombinator.com/item?id=40619862) - [Start calculating digital carbon emissions in 5 minutes with CO2.js](https://www.thegreenwebfoundation.org/news/start-calculating-digital-carbon-emissions-in-5-minutes-with-co2-js/)
