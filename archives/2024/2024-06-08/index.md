@@ -6,6 +6,7 @@
 
 * [2024-06-08, 12:32:35](https://news.ycombinator.com/item?id=40617118) - [BYD aims to replace Routemaster with 400-mile EV London bus](https://www.autocar.co.uk/car-news/new-cars/byd-aims-replace-routemaster-400-mile-ev-london-bus)
 * [2024-06-08, 12:27:14](https://news.ycombinator.com/item?id=40617096) - [Forested Wetlands Are Missing from Maps](https://www.hcn.org/articles/the-wests-wetlands-are-struggling-some-have-been-overlooked-altogether/)
+* [2024-06-08, 12:15:26](https://news.ycombinator.com/item?id=40617047) - [The Crusader-Era Knights Who Volunteered to Fight World War I](https://www.military.com/history/crusader-era-knights-who-volunteered-fight-world-war-i.html)
 * [2024-06-08, 12:00:30](https://news.ycombinator.com/item?id=40616992) - [Flexport (YC W14) Is Hiring a Senior Applied Research Scientist](https://boards.greenhouse.io/flexport/jobs/5806177?gh_jid=5806177)
 * [2024-06-08, 10:43:42](https://news.ycombinator.com/item?id=40616689) - [Google cut Uncle Sam a $2M check so it could avoid a jury trial](https://www.cnn.com/2024/06/07/business/google-doj-antitrust-case-judge-decision/index.html)
 * [2024-06-08, 10:25:28](https://news.ycombinator.com/item?id=40616611) - [Critical Vulnerabilities in Package Manager Revealed by Secret Scanning Research](https://sockpuppets.medium.com/exposing-hidden-dangers-the-essential-guide-to-secret-scanning-in-package-repositories-c483dcf3b82f)
