@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-09, 20:37:28](https://news.ycombinator.com/item?id=40627395) - [Ask HN: What macOS apps/programs do you use daily and recommend?](https://news.ycombinator.com/item?id=40627395)
 * [2024-06-09, 20:11:09](https://news.ycombinator.com/item?id=40627208) - [British Nuclear Warning System](http://www.ringbell.co.uk/ukwmo/Page211.htm)
 * [2024-06-09, 19:23:08](https://news.ycombinator.com/item?id=40626807) - [Designing a Lego orrery](https://marian42.de/article/orrery/)
 * [2024-06-09, 18:13:34](https://news.ycombinator.com/item?id=40626332) - [A Revolution in Biology](https://www.bitsofwonder.co/p/a-revolution-in-biology)
@@ -29,7 +30,6 @@
 * [2024-06-08, 00:32:06](https://news.ycombinator.com/item?id=40614308) - [WARC-GPT: An open-source tool for exploring web archives using AI](https://lil.law.harvard.edu/blog/2024/02/12/warc-gpt-an-open-source-tool-for-exploring-web-archives-with-ai/)
 * [2024-06-08, 00:04:14](https://news.ycombinator.com/item?id=40614159) - [When does knowledge sharing lead to knowledge production?](https://www.hbs.edu/faculty/Pages/item.aspx?num=57216)
 * [2024-06-07, 01:58:33](https://news.ycombinator.com/item?id=40604592) - [Evidence of earth's first rains found trapped within primordial crystals](https://www.sciencealert.com/evidence-of-earths-first-rains-found-trapped-within-primordial-crystals)
-* [2024-06-06, 22:08:40](https://news.ycombinator.com/item?id=40602928) - [Is there a BNF grammar of the TeX language? (2010)](https://tex.stackexchange.com/questions/4201/is-there-a-bnf-grammar-of-the-tex-language)
 
 ## [Archives](archives/index.md)
 
