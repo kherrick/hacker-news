@@ -54,6 +54,7 @@
 * [2024-06-08, 10:25:28](https://news.ycombinator.com/item?id=40616611) - [Critical Vulnerabilities in Package Manager Revealed by Secret Scanning Research](https://sockpuppets.medium.com/exposing-hidden-dangers-the-essential-guide-to-secret-scanning-in-package-repositories-c483dcf3b82f)
 * [2024-06-08, 10:02:15](https://news.ycombinator.com/item?id=40616509) - [Show HN: I wrote a partial re-implementation of DirectMusic](https://github.com/GothicKit/dmusic)
 * [2024-06-08, 10:01:56](https://news.ycombinator.com/item?id=40616504) - [StarkeBlog – Reverse Engineering MenuetOS 64 – Primary Boot Loader](https://starkeblog.com/bios/menuetos/2022/09/22/reverse-engineering-menuetos.html)
+* [2024-06-08, 10:01:38](https://news.ycombinator.com/item?id=40616503) - [Libg203lightsync: Lib for interacting with the Logitech G203 LS mouse](https://github.com/carlos-menezes/libg203lightsync)
 * [2024-06-08, 10:00:07](https://news.ycombinator.com/item?id=40616500) - [Cars Are Way Less Colorful Today Than They Were 20 Years Ago: Study](https://www.thedrive.com/news/cars-are-way-less-colorful-today-than-they-were-20-years-ago-study)
 * [2024-06-08, 09:18:15](https://news.ycombinator.com/item?id=40616347) - [Giant earthworms have transformed the Isle of Rum's landscape](https://theconversation.com/how-giant-earthworms-have-transformed-the-isle-of-rums-landscape-231638)
 * [2024-06-08, 08:27:09](https://news.ycombinator.com/item?id=40616155) - [Truck: a Rust CAD Kernel](https://github.com/ricosjp/truck)
