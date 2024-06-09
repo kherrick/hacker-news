@@ -72,6 +72,7 @@
 * [2024-06-07, 13:18:10](https://news.ycombinator.com/item?id=40608439) - [Andrew Ng on AI Regulation](https://twitter.com/AndrewYNg/status/1788648531873628607)
 * [2024-06-07, 13:12:31](https://news.ycombinator.com/item?id=40608413) - [Σ-GPTs: A New Approach to Autoregressive Models](https://arxiv.org/abs/2404.09562)
 * [2024-06-07, 13:06:43](https://news.ycombinator.com/item?id=40608373) - [Instruction Sets Should Be Free: The Case for RISC-V [pdf] (2014)](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2014/EECS-2014-146.pdf)
+* [2024-06-07, 13:04:40](https://news.ycombinator.com/item?id=40608358) - [I didn't touch a thing – just some cables and a monitor – and my computer broke](https://www.theregister.com/2024/06/07/on_call/)
 * [2024-06-07, 13:01:15](https://news.ycombinator.com/item?id=40608332) - [Tom 7: Badness 0 (Three ways)](http://tom7.org/bovex/)
 * [2024-06-07, 12:54:27](https://news.ycombinator.com/item?id=40608269) - [A Picture Is Worth 170 Tokens: How Does GPT-4o Encode Images?](https://www.oranlooney.com/post/gpt-cnn/)
 * [2024-06-07, 12:45:49](https://news.ycombinator.com/item?id=40608189) - [Systems Thinking Playbook (1995)](https://archive.org/details/systemsthinkingp0000lind)
