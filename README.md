@@ -22,7 +22,7 @@
 * [2024-06-08, 11:54:08](https://news.ycombinator.com/item?id=40616966) - [Garbage collect your technical debt (2021)](https://ieeexplore.ieee.org/document/9520328)
 * [2024-06-08, 11:02:32](https://news.ycombinator.com/item?id=40616778) - [Tiny fern has the largest genome of any organism on Earth](https://phys.org/news/2024-05-tiny-fern-largest-genome-earth.html)
 * [2024-06-08, 10:31:19](https://news.ycombinator.com/item?id=40616632) - [What does it feel like to read RSS feeds?](https://hamatti.org/posts/what-does-it-feel-like-to-read-rss-feeds/)
-* [2024-06-08, 06:31:26](https://news.ycombinator.com/item?id=40615711) - [Needlessly Public](https://euroquis.nl//kde/2024/06/06/public.html)
+* [2024-06-08, 06:58:36](https://news.ycombinator.com/item?id=40615808) - [BES – OSS Windows software to control per-process CPU usage](https://mion.yosei.fi/BES/)
 * [2024-06-08, 06:30:57](https://news.ycombinator.com/item?id=40615708) - [I Open-Sourced KeyEcho: Fast-Responsive Keyboard Sounds with Every Keystroke](https://webdeveloper.beehiiv.com/p/opensourced-keyecho-fastresponsive-keyboard-sounds-every-keystroke-using-tauri)
 * [2024-06-08, 06:18:04](https://news.ycombinator.com/item?id=40615666) - [Compilers Are (Too) Smart](http://msinilo.pl/blog2/post/compilers-are-too-smart/)
 * [2024-06-07, 15:45:09](https://news.ycombinator.com/item?id=40609753) - [In highly connected networks, there's always a loop](https://www.quantamagazine.org/in-highly-connected-networks-theres-always-a-loop-20240607/)
