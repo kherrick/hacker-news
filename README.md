@@ -4,7 +4,7 @@
 * [2024-06-09, 12:03:26](https://news.ycombinator.com/item?id=40623872) - [UpCodes (YC S17) is hiring remote SWEs, PMs to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
 * [2024-06-09, 11:57:32](https://news.ycombinator.com/item?id=40623843) - [Economic Termites Are Everywhere: stats hide the experience of being cheated](https://www.thebignewsletter.com/p/economic-termites-are-everywhere)
 * [2024-06-09, 11:28:40](https://news.ycombinator.com/item?id=40623711) - [Interview with Ton Roosendaal, the man behind Blender(2018)[video]](https://www.youtube.com/watch?v=qJEWOTZnFeg)
-* [2024-06-09, 11:13:53](https://news.ycombinator.com/item?id=40623654) - [Discussions: Flat or Threaded? (2006)](https://blog.codinghorror.com/discussions-flat-or-threaded/)
+* [2024-06-09, 10:49:12](https://news.ycombinator.com/item?id=40623542) - [KickC is a C-compiler for 6502-based platforms creating readable assembler code](https://gitlab.com/camelot/kickc)
 * [2024-06-09, 10:48:21](https://news.ycombinator.com/item?id=40623538) - [Napoleon's Traveling Libraries](https://twitter.com/napsarkozy/status/1755629139237671332)
 * [2024-06-09, 08:38:27](https://news.ycombinator.com/item?id=40622912) - [Högertrafikomläggningen](https://en.wikipedia.org/wiki/Dagen_H)
 * [2024-06-09, 08:10:23](https://news.ycombinator.com/item?id=40622799) - [How many High Streets are there in London?](https://diamondgeezer.blogspot.com/2024/06/londons-high-streets.html)
