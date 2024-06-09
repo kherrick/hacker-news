@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-09, 06:05:21](https://news.ycombinator.com/item?id=40622384) - [We went solar and here are the real numbers (2011)](https://joshuatauberer.medium.com/we-went-solar-and-here-are-the-real-numbers-7a7f28d51897)
-* [2024-06-09, 04:16:51](https://news.ycombinator.com/item?id=40621998) - [Your Phone, Minus the Distractions](https://getbrick.app/)
 * [2024-06-09, 03:51:58](https://news.ycombinator.com/item?id=40621891) - [Super Heavy landing burn and soft splashdown in the Gulf of Mexico [video]](https://twitter.com/SpaceX/status/1799458854067118450)
 * [2024-06-09, 03:23:35](https://news.ycombinator.com/item?id=40621769) - [Termux – Response Following GooglePlayStore App Updates](https://github.com/termux/termux-app/discussions/4000)
 * [2024-06-09, 02:13:49](https://news.ycombinator.com/item?id=40621534) - [Fixing a knockoff Altera USB Blaster that never worked](https://www.downtowndougbrown.com/2024/06/fixing-a-knockoff-altera-usb-blaster-that-never-worked/)
@@ -14,6 +13,7 @@
 * [2024-06-08, 20:40:16](https://news.ycombinator.com/item?id=40620056) - [Gene therapy restores hearing to children with inherited deafness](https://cosmosmagazine.com/science/biology/gene-therapy-restores-hearing-to-children-with-inherited-deafness/)
 * [2024-06-08, 20:37:58](https://news.ycombinator.com/item?id=40620048) - [What makes gambling wrong but insurance right? (2017)](https://www.bbc.com/news/business-38905963)
 * [2024-06-08, 19:38:53](https://news.ycombinator.com/item?id=40619752) - [Creating a matchmaker for your multiplayer game](https://mas-bandwidth.com/creating-a-matchmaker-for-your-multiplayer-game/)
+* [2024-06-08, 18:41:54](https://news.ycombinator.com/item?id=40619445) - [By harnessing wind power, high-tech sails can help cut marine pollution](https://www.economist.com/science-and-technology/2024/05/21/a-new-age-of-sail-begins)
 * [2024-06-08, 16:43:46](https://news.ycombinator.com/item?id=40618766) - [My favorite 1980's Canadian TV show: Bits and Bytes](https://omarshehata.substack.com/p/my-favorite-1980s-canadian-tv-show)
 * [2024-06-08, 16:05:45](https://news.ycombinator.com/item?id=40618459) - [Detecting a PS2 Emulator: When 1*X does not equal X](https://fobes.dev/ps2/detecting-emu-vu-floats)
 * [2024-06-08, 15:17:53](https://news.ycombinator.com/item?id=40618079) - [The Backrooms of the Internet Archive](https://blog.archive.org/2024/06/01/the-backrooms-of-the-internet-archive/)
