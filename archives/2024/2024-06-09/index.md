@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-09](index.md)
 
+* [2024-06-09, 11:24:29](https://news.ycombinator.com/item?id=40623695) - [Spanish government to raise minimum age for social media accounts from 14 to 16](https://www.surinenglish.com/spain/the-government-will-raise-the-minimum-age-20240605082629-nt.html)
 * [2024-06-09, 10:48:21](https://news.ycombinator.com/item?id=40623538) - [Napoleon's Traveling Libraries](https://twitter.com/napsarkozy/status/1755629139237671332)
 * [2024-06-09, 10:10:33](https://news.ycombinator.com/item?id=40623332) - [Tell HN: Domain migrated from Google to Squarespace went down after 1 month](https://news.ycombinator.com/item?id=40623332)
 * [2024-06-09, 08:38:27](https://news.ycombinator.com/item?id=40622912) - [Högertrafikomläggningen](https://en.wikipedia.org/wiki/Dagen_H)
@@ -21,6 +22,7 @@
 * [2024-06-09, 03:13:29](https://news.ycombinator.com/item?id=40621736) - [The Mere Presence of One's Own Smartphone Reduces Available Cognitive Capacity](https://www.journals.uchicago.edu/doi/10.1086/691462)
 * [2024-06-09, 02:32:27](https://news.ycombinator.com/item?id=40621611) - [Mozilla silently bans 2 anti-state-censorship add-ons in Russia](https://discourse.mozilla.org/t/the-censorship-circumvention-extension-has-disappeared-from-the-russian-version-of-mozilla-addons/130914)
 * [2024-06-09, 02:13:49](https://news.ycombinator.com/item?id=40621534) - [Fixing a knockoff Altera USB Blaster that never worked](https://www.downtowndougbrown.com/2024/06/fixing-a-knockoff-altera-usb-blaster-that-never-worked/)
+* [2024-06-09, 01:35:46](https://news.ycombinator.com/item?id=40621362) - [200ms Voice LLM](https://github.com/fixie-ai/ultravox)
 * [2024-06-09, 00:32:09](https://news.ycombinator.com/item?id=40621085) - [Next-generation web framework Teo, supports Node.js, Python and Rust](https://teodev.io)
 * [2024-06-09, 00:10:29](https://news.ycombinator.com/item?id=40620993) - [Synapse bankruptcy trustee says $85M of customer savings is missing](https://www.cnbc.com/2024/06/07/synapse-bankruptcy-trustee-85-million-of-customer-savings-is-missing.html)
 * [2024-06-09, 00:00:48](https://news.ycombinator.com/item?id=40620955) - [Scalable MatMul-Free Language Modeling](https://arxiv.org/abs/2406.02528)
