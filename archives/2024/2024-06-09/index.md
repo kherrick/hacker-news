@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-09](index.md)
 
+* [2024-06-09, 10:48:21](https://news.ycombinator.com/item?id=40623538) - [Napoleon's Traveling Libraries](https://twitter.com/napsarkozy/status/1755629139237671332)
 * [2024-06-09, 10:10:33](https://news.ycombinator.com/item?id=40623332) - [Tell HN: Domain migrated from Google to Squarespace went down after 1 month](https://news.ycombinator.com/item?id=40623332)
 * [2024-06-09, 08:38:27](https://news.ycombinator.com/item?id=40622912) - [Högertrafikomläggningen](https://en.wikipedia.org/wiki/Dagen_H)
 * [2024-06-09, 08:21:29](https://news.ycombinator.com/item?id=40622851) - [Shrink the Economy, Save the World?](https://www.nytimes.com/2024/06/08/books/review/shrink-the-economy-save-the-world.html)
