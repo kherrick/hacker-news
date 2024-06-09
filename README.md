@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-09, 03:51:58](https://news.ycombinator.com/item?id=40621891) - [Super Heavy landing burn and soft splashdown in the Gulf of Mexico [video]](https://twitter.com/SpaceX/status/1799458854067118450)
 * [2024-06-09, 02:13:49](https://news.ycombinator.com/item?id=40621534) - [Fixing a knockoff Altera USB Blaster that never worked](https://www.downtowndougbrown.com/2024/06/fixing-a-knockoff-altera-usb-blaster-that-never-worked/)
 * [2024-06-09, 00:32:09](https://news.ycombinator.com/item?id=40621085) - [Next-generation web framework Teo, supports Node.js, Python and Rust](https://teodev.io)
 * [2024-06-09, 00:00:48](https://news.ycombinator.com/item?id=40620955) - [Scalable MatMul-Free Language Modeling](https://arxiv.org/abs/2406.02528)
@@ -19,7 +20,6 @@
 * [2024-06-08, 11:02:32](https://news.ycombinator.com/item?id=40616778) - [Tiny fern has the largest genome of any organism on Earth](https://phys.org/news/2024-05-tiny-fern-largest-genome-earth.html)
 * [2024-06-08, 08:14:54](https://news.ycombinator.com/item?id=40616121) - [Breaking up is hard to do: Chunking in RAG applications](https://stackoverflow.blog/2024/06/06/breaking-up-is-hard-to-do-chunking-in-rag-applications/)
 * [2024-06-08, 06:58:36](https://news.ycombinator.com/item?id=40615808) - [BES – OSS Windows software to control per-process CPU usage](https://mion.yosei.fi/BES/)
-* [2024-06-08, 06:30:57](https://news.ycombinator.com/item?id=40615708) - [I Open-Sourced KeyEcho: Fast-Responsive Keyboard Sounds with Every Keystroke](https://webdeveloper.beehiiv.com/p/opensourced-keyecho-fastresponsive-keyboard-sounds-every-keystroke-using-tauri)
 * [2024-06-08, 06:18:04](https://news.ycombinator.com/item?id=40615666) - [Compilers Are (Too) Smart](http://msinilo.pl/blog2/post/compilers-are-too-smart/)
 * [2024-06-07, 20:00:56](https://news.ycombinator.com/item?id=40612363) - [Edo-period teens tackling math's toughest problems](https://www.nippon.com/en/japan-topics/c12802/)
 * [2024-06-07, 19:57:46](https://news.ycombinator.com/item?id=40612329) - [K-D Tree Art Generator](https://colab.research.google.com/drive/1Ou3WRwicz31enMKVWl5v4F1f1_haSlTI?usp=sharing)
