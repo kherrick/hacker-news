@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-09, 20:11:09](https://news.ycombinator.com/item?id=40627208) - [British Nuclear Warning System](http://www.ringbell.co.uk/ukwmo/Page211.htm)
+* [2024-06-09, 20:09:17](https://news.ycombinator.com/item?id=40627187) - [The Uber-wealthy families who control much of the food system](https://www.abc.net.au/news/2024-06-07/meet-the-mega-rich-families-controlling-the-us-food-system/103874576)
 * [2024-06-09, 19:23:08](https://news.ycombinator.com/item?id=40626807) - [Designing a Lego orrery](https://marian42.de/article/orrery/)
 * [2024-06-09, 18:13:34](https://news.ycombinator.com/item?id=40626332) - [A Revolution in Biology](https://www.bitsofwonder.co/p/a-revolution-in-biology)
 * [2024-06-09, 17:29:00](https://news.ycombinator.com/item?id=40626014) - [Keylogger discovered in image generator extension](https://old.reddit.com/r/comfyui/comments/1dbls5n/psa_if_youve_used_the_comfyui_llmvision_node_from/)
 * [2024-06-09, 17:28:50](https://news.ycombinator.com/item?id=40626011) - [A look at search engines with their own indexes (2021)](https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/)
-* [2024-06-09, 17:00:22](https://news.ycombinator.com/item?id=40625800) - [Ask HN: Is KDB a sane choice for a datalake in 2024?](https://news.ycombinator.com/item?id=40625800)
 * [2024-06-09, 14:35:43](https://news.ycombinator.com/item?id=40624709) - [Ultrasonic investigations in shopping centres](https://www.windytan.com/2024/06/ultrasonic-investigations-in-shopping.html)
 * [2024-06-09, 12:05:53](https://news.ycombinator.com/item?id=40623883) - [Show HN: We've open-sourced our LLM attention visualization library](https://github.com/labmlai/inspectus)
 * [2024-06-09, 12:04:29](https://news.ycombinator.com/item?id=40623877) - [Show HN: I made a web game that makes practicing basic arithmetic fun](https://www.worchle.com/mathic/)
