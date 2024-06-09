@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-06-09, 18:21:13",
+      "https://news.ycombinator.com/item?id=40626383"
+    ],
+    [
+      "Dad's Diet Before Conception Affects Kids' Health",
+      "https://neurosciencenews.com/dad-diet-child-health-26255/"
+    ]
+  ],
+  [
+    [
       "2024-06-09, 17:49:37",
       "https://news.ycombinator.com/item?id=40626154"
     ],
     [
       "It's all unraveling at OpenAI (again)",
       "https://www.businessinsider.com/openai-mess-concerns-over-nda-safety-sam-altman-2024-6"
+    ]
+  ],
+  [
+    [
+      "2024-06-09, 17:36:43",
+      "https://news.ycombinator.com/item?id=40626064"
+    ],
+    [
+      "Dask DataFrame Is Fast Now",
+      "https://docs.coiled.io/blog/dask-dataframe-is-fast.html"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "UpCodes (YC S17) is hiring remote SWEs, PMs to help make buildings cheaper",
       "https://up.codes/careers?utm_source=HN"
-    ]
-  ],
-  [
-    [
-      "2024-06-09, 11:28:40",
-      "https://news.ycombinator.com/item?id=40623711"
-    ],
-    [
-      "Interview with Ton Roosendaal, the man behind Blender (2018) [video]",
-      "https://www.youtube.com/watch?v=qJEWOTZnFeg"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Show HN: I wrote a partial re-implementation of DirectMusic",
       "https://github.com/GothicKit/dmusic"
-    ]
-  ],
-  [
-    [
-      "2024-06-08, 10:01:38",
-      "https://news.ycombinator.com/item?id=40616503"
-    ],
-    [
-      "Libg203lightsync: Lib for interacting with the Logitech G203 LS mouse",
-      "https://github.com/carlos-menezes/libg203lightsync"
     ]
   ],
   [
