@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-09, 22:11:58](https://news.ycombinator.com/item?id=40628050) - [The Functional Programming Hiring Problem](https://blog.janissary.xyz/posts/hiring-functional-programming)
 * [2024-06-09, 20:51:26](https://news.ycombinator.com/item?id=40627522) - [Woman set up a table to share her collection of washers. Nothing was for sale](https://twitter.com/revjaydub/status/1799212814646796648)
 * [2024-06-09, 20:11:09](https://news.ycombinator.com/item?id=40627208) - [British Nuclear Warning System](http://www.ringbell.co.uk/ukwmo/Page211.htm)
 * [2024-06-09, 19:53:10](https://news.ycombinator.com/item?id=40627056) - [A DSL for Implementing Math Functions](https://blog.sigplan.org/2024/06/03/a-dsl-for-implementing-math-functions/)
@@ -18,7 +19,6 @@
 * [2024-06-09, 09:11:07](https://news.ycombinator.com/item?id=40623048) - [So you want to build a browser engine](https://robert.ocallahan.org/2024/06/browser-engine.html)
 * [2024-06-09, 07:47:26](https://news.ycombinator.com/item?id=40622724) - [Orwell on the Isle of Jura](https://www.bbc.com/news/articles/cyrrylklzjdo)
 * [2024-06-09, 07:40:25](https://news.ycombinator.com/item?id=40622704) - [Piku: Allows git push deployments to your own servers](https://github.com/piku/piku)
-* [2024-06-09, 07:19:51](https://news.ycombinator.com/item?id=40622634) - [Electric headset for treating depression recommended after NHS trial](https://news.sky.com/story/electric-headset-for-treating-depression-recommended-as-widespread-treatment-after-nhs-trial-13150095)
 * [2024-06-09, 05:07:06](https://news.ycombinator.com/item?id=40622189) - [Betula – federated bookmarking software for the independent web](https://betula.mycorrhiza.wiki/)
 * [2024-06-09, 02:13:49](https://news.ycombinator.com/item?id=40621534) - [Fixing a knockoff Altera USB Blaster that never worked](https://www.downtowndougbrown.com/2024/06/fixing-a-knockoff-altera-usb-blaster-that-never-worked/)
 * [2024-06-08, 20:40:12](https://news.ycombinator.com/item?id=40620055) - [Claude's Character](https://www.anthropic.com/research/claude-character)
