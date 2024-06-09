@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-09](index.md)
 
+* [2024-06-09, 20:11:09](https://news.ycombinator.com/item?id=40627208) - [British Nuclear Warning System](http://www.ringbell.co.uk/ukwmo/Page211.htm)
 * [2024-06-09, 19:27:45](https://news.ycombinator.com/item?id=40626850) - [Want to Pay Cash? That'll Cost You Extra](https://www.wsj.com/personal-finance/paying-cash-fees-reverse-atm-744d1bd6)
 * [2024-06-09, 19:23:08](https://news.ycombinator.com/item?id=40626807) - [Designing a Lego Orrery](https://marian42.de/article/orrery/)
 * [2024-06-09, 19:05:42](https://news.ycombinator.com/item?id=40626692) - [ChatGPT Is Bullshit](https://link.springer.com/article/10.1007/s10676-024-09775-5)
