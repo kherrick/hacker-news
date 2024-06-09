@@ -37,6 +37,7 @@
 * [2024-06-08, 16:55:51](https://news.ycombinator.com/item?id=40618850) - [Sid Meier's Civilization VII – Official Teaser Trailer](https://www.youtube.com/watch?v=pygcgE3a_uY)
 * [2024-06-08, 16:55:08](https://news.ycombinator.com/item?id=40618841) - [Building a SaaS product with Htmx – Are you sure you need all the complexity?](https://www.chatterpulseai.com/blog/building-a-saas-product-with-htmx/)
 * [2024-06-08, 16:43:46](https://news.ycombinator.com/item?id=40618766) - [My favorite 1980's Canadian TV show: Bits and Bytes](https://omarshehata.substack.com/p/my-favorite-1980s-canadian-tv-show)
+* [2024-06-08, 16:23:37](https://news.ycombinator.com/item?id=40618615) - [The South Pole Power Plant (2012)](https://www.jeffreydonenfeld.com/blog/2012/12/the-south-pole-power-plant/)
 * [2024-06-08, 16:05:45](https://news.ycombinator.com/item?id=40618459) - [Detecting a PS2 Emulator: When 1*X does not equal X](https://fobes.dev/ps2/detecting-emu-vu-floats)
 * [2024-06-08, 15:48:49](https://news.ycombinator.com/item?id=40618335) - [Leafy Vegetables Found to Contain Tire Additives](https://e360.yale.edu/digest/tire-chemicals-vegetables-study)
 * [2024-06-08, 15:17:53](https://news.ycombinator.com/item?id=40618079) - [The Backrooms of the Internet Archive](https://blog.archive.org/2024/06/01/the-backrooms-of-the-internet-archive/)
