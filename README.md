@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-09, 02:13:49](https://news.ycombinator.com/item?id=40621534) - [Fixing a knockoff Altera USB Blaster that never worked](https://www.downtowndougbrown.com/2024/06/fixing-a-knockoff-altera-usb-blaster-that-never-worked/)
 * [2024-06-09, 00:10:29](https://news.ycombinator.com/item?id=40620993) - [Synapse bankruptcy trustee says $85M of customer savings is missing](https://www.cnbc.com/2024/06/07/synapse-bankruptcy-trustee-85-million-of-customer-savings-is-missing.html)
 * [2024-06-09, 00:00:48](https://news.ycombinator.com/item?id=40620955) - [Scalable MatMul-Free Language Modeling](https://arxiv.org/abs/2406.02528)
 * [2024-06-08, 23:31:40](https://news.ycombinator.com/item?id=40620856) - [The binding of cosmological structures by massless topological defects](https://academic.oup.com/mnras/article/531/1/1630/7673084)
@@ -19,7 +20,6 @@
 * [2024-06-08, 11:02:32](https://news.ycombinator.com/item?id=40616778) - [Tiny fern has the largest genome of any organism on Earth](https://phys.org/news/2024-05-tiny-fern-largest-genome-earth.html)
 * [2024-06-08, 10:02:15](https://news.ycombinator.com/item?id=40616509) - [Show HN: I wrote a partial re-implementation of DirectMusic](https://github.com/GothicKit/dmusic)
 * [2024-06-08, 06:58:36](https://news.ycombinator.com/item?id=40615808) - [BES – OSS Windows software to control per-process CPU usage](https://mion.yosei.fi/BES/)
-* [2024-06-07, 20:04:19](https://news.ycombinator.com/item?id=40612406) - [My lunches with the queen of cookbooks](https://tastecooking.com/my-lunches-with-judith-jones-the-queen-of-cookbooks/)
 * [2024-06-07, 20:03:35](https://news.ycombinator.com/item?id=40612398) - [Embedding with America's top hostage negotiator](https://www.vanityfair.com/news/story/americas-top-hostage-negotiator-exclusive)
 * [2024-06-07, 19:57:46](https://news.ycombinator.com/item?id=40612329) - [K-D Tree Art Generator](https://colab.research.google.com/drive/1Ou3WRwicz31enMKVWl5v4F1f1_haSlTI?usp=sharing)
 * [2024-06-07, 19:55:54](https://news.ycombinator.com/item?id=40612314) - [Morphing Arbitrary Paths in SVG](https://minus-ze.ro/posts/morphing-arbitrary-paths-in-svg/)
