@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-09, 14:15:06](https://news.ycombinator.com/item?id=40624563) - [Teams of LLM Agents Can Exploit Zero-Day Vulnerabilities](https://arxiv.org/abs/2406.01637)
+* [2024-06-09, 13:52:08](https://news.ycombinator.com/item?id=40624439) - [Spam blocklist SORBS closed by its owner, Proofpoint](https://www.theregister.com/2024/06/07/sorbs_closed/)
 * [2024-06-09, 13:40:08](https://news.ycombinator.com/item?id=40624366) - [The Era of the Autodidact Is Here](https://medium.com/swlh/the-era-of-the-autodidact-has-arrived-9fb085cc51af)
 * [2024-06-09, 13:22:57](https://news.ycombinator.com/item?id=40624255) - [Code of Hammurabi](https://en.wikipedia.org/wiki/Code_of_Hammurabi)
 * [2024-06-09, 12:19:40](https://news.ycombinator.com/item?id=40623940) - [Venezuela's Last Glacier, Humboldt, Has Melted Away](https://scitechdaily.com/venezuelas-last-glacier-humboldt-has-melted-away/)
@@ -16,7 +17,6 @@
 * [2024-06-08, 22:55:13](https://news.ycombinator.com/item?id=40620739) - [Viagra improves brain blood flow and could help to prevent dementia](https://www.ox.ac.uk/news/2024-06-07-sildenafil-viagra-improves-brain-blood-flow-and-could-help-prevent-dementia)
 * [2024-06-08, 22:04:24](https://news.ycombinator.com/item?id=40620472) - [Draw an iceberg and see how it will float](https://joshdata.me/iceberger.html)
 * [2024-06-08, 20:40:16](https://news.ycombinator.com/item?id=40620056) - [Gene therapy restores hearing to children with inherited deafness](https://cosmosmagazine.com/science/biology/gene-therapy-restores-hearing-to-children-with-inherited-deafness/)
-* [2024-06-08, 19:38:53](https://news.ycombinator.com/item?id=40619752) - [Creating a matchmaker for your multiplayer game](https://mas-bandwidth.com/creating-a-matchmaker-for-your-multiplayer-game/)
 * [2024-06-08, 16:43:46](https://news.ycombinator.com/item?id=40618766) - [My favorite 1980's Canadian TV show: Bits and Bytes](https://omarshehata.substack.com/p/my-favorite-1980s-canadian-tv-show)
 * [2024-06-08, 16:05:45](https://news.ycombinator.com/item?id=40618459) - [Detecting a PS2 Emulator: When 1*X does not equal X](https://fobes.dev/ps2/detecting-emu-vu-floats)
 * [2024-06-08, 15:17:53](https://news.ycombinator.com/item?id=40618079) - [The Backrooms of the Internet Archive](https://blog.archive.org/2024/06/01/the-backrooms-of-the-internet-archive/)
