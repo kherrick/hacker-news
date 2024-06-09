@@ -16,6 +16,7 @@
 * [2024-06-06, 22:44:52](https://news.ycombinator.com/item?id=40603259) - [Driver AI (YC W24) Is Hiring a Senior Front-End Engineer](https://www.ycombinator.com/companies/driver-ai/jobs/V2OQgdd-senior-frontend-engineer)
 * [2024-06-06, 22:39:20](https://news.ycombinator.com/item?id=40603205) - [How Apple Fell Behind in the AI Arms Race](https://www.wsj.com/tech/ai/apple-ai-siri-development-behind-9ea65ee8)
 * [2024-06-06, 22:34:23](https://news.ycombinator.com/item?id=40603156) - [Show HN: 3D Website](https://safwur.com)
+* [2024-06-06, 22:08:40](https://news.ycombinator.com/item?id=40602928) - [Is there a BNF grammar of the TeX language? (2010)](https://tex.stackexchange.com/questions/4201/is-there-a-bnf-grammar-of-the-tex-language)
 * [2024-06-06, 22:04:26](https://news.ycombinator.com/item?id=40602886) - [PSA: How to keep using adblockers on Chrome and Chromium](https://gist.github.com/velzie/053ffedeaecea1a801a2769ab86ab376)
 * [2024-06-06, 21:59:42](https://news.ycombinator.com/item?id=40602853) - [Japan's birth rate falls to a record low as the number of marriages also drops](https://abcnews.go.com/International/wireStory/japans-birth-rate-falls-record-low-number-marriages-110866091)
 * [2024-06-06, 21:57:38](https://news.ycombinator.com/item?id=40602838) - [Google to start permanently deleting users' location history](https://www.theguardian.com/technology/article/2024/jun/06/google-to-start-permanently-deleting-users-location-history)
