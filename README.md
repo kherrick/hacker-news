@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-09, 08:38:27](https://news.ycombinator.com/item?id=40622912) - [Högertrafikomläggningen](https://en.wikipedia.org/wiki/Dagen_H)
 * [2024-06-09, 08:10:23](https://news.ycombinator.com/item?id=40622799) - [How many High Streets are there in London?](https://diamondgeezer.blogspot.com/2024/06/londons-high-streets.html)
 * [2024-06-09, 08:00:47](https://news.ycombinator.com/item?id=40622759) - [Remember When You Named Your Girlfriend as a Beneficiary? He Didn't Either](https://www.williamhalaw.com/post/8/)
 * [2024-06-09, 07:40:25](https://news.ycombinator.com/item?id=40622704) - [piku: The tiniest PaaS you've ever seen](https://github.com/piku/piku)
@@ -23,6 +22,7 @@
 * [2024-06-08, 11:02:32](https://news.ycombinator.com/item?id=40616778) - [Tiny fern has the largest genome of any organism on Earth](https://phys.org/news/2024-05-tiny-fern-largest-genome-earth.html)
 * [2024-06-08, 10:31:19](https://news.ycombinator.com/item?id=40616632) - [What does it feel like to read RSS feeds?](https://hamatti.org/posts/what-does-it-feel-like-to-read-rss-feeds/)
 * [2024-06-08, 10:01:56](https://news.ycombinator.com/item?id=40616504) - [StarkeBlog – Reverse Engineering MenuetOS 64 – Primary Boot Loader](https://starkeblog.com/bios/menuetos/2022/09/22/reverse-engineering-menuetos.html)
+* [2024-06-08, 06:58:36](https://news.ycombinator.com/item?id=40615808) - [BES – OSS Windows software to control per-process CPU usage](https://mion.yosei.fi/BES/)
 * [2024-06-08, 06:30:57](https://news.ycombinator.com/item?id=40615708) - [I Open-Sourced KeyEcho: Fast-Responsive Keyboard Sounds with Every Keystroke](https://webdeveloper.beehiiv.com/p/opensourced-keyecho-fastresponsive-keyboard-sounds-every-keystroke-using-tauri)
 * [2024-06-08, 06:18:04](https://news.ycombinator.com/item?id=40615666) - [Compilers Are (Too) Smart](http://msinilo.pl/blog2/post/compilers-are-too-smart/)
 * [2024-06-07, 15:45:09](https://news.ycombinator.com/item?id=40609753) - [In highly connected networks, there's always a loop](https://www.quantamagazine.org/in-highly-connected-networks-theres-always-a-loop-20240607/)
