@@ -9,6 +9,8 @@
 * [2024-06-09, 13:40:08](https://news.ycombinator.com/item?id=40624366) - [The Era of the Autodidact Is Here](https://medium.com/swlh/the-era-of-the-autodidact-has-arrived-9fb085cc51af)
 * [2024-06-09, 13:22:57](https://news.ycombinator.com/item?id=40624255) - [Code of Hammurabi](https://en.wikipedia.org/wiki/Code_of_Hammurabi)
 * [2024-06-09, 12:19:40](https://news.ycombinator.com/item?id=40623940) - [Venezuela's Last Glacier, Humboldt, Has Melted Away](https://scitechdaily.com/venezuelas-last-glacier-humboldt-has-melted-away/)
+* [2024-06-09, 12:05:53](https://news.ycombinator.com/item?id=40623883) - [Show HN: We've open-sourced our LLM attention visualization library](https://github.com/labmlai/inspectus)
+* [2024-06-09, 12:04:29](https://news.ycombinator.com/item?id=40623877) - [Show HN: I made a web game that makes practicing basic arithmetic fun](https://www.worchle.com/mathic/)
 * [2024-06-09, 12:03:26](https://news.ycombinator.com/item?id=40623872) - [UpCodes (YC S17) is hiring remote SWEs, PMs to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
 * [2024-06-09, 11:57:32](https://news.ycombinator.com/item?id=40623843) - [Economic Termites Are Everywhere: stats hide the experience of being cheated](https://www.thebignewsletter.com/p/economic-termites-are-everywhere)
 * [2024-06-09, 11:28:40](https://news.ycombinator.com/item?id=40623711) - [Interview with Ton Roosendaal, the man behind Blender(2018)[video]](https://www.youtube.com/watch?v=qJEWOTZnFeg)
