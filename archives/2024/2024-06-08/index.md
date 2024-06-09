@@ -54,6 +54,7 @@
 * [2024-06-08, 10:02:15](https://news.ycombinator.com/item?id=40616509) - [Show HN: I wrote a partial re-implementation of DirectMusic](https://github.com/GothicKit/dmusic)
 * [2024-06-08, 10:00:07](https://news.ycombinator.com/item?id=40616500) - [Cars Are Way Less Colorful Today Than They Were 20 Years Ago: Study](https://www.thedrive.com/news/cars-are-way-less-colorful-today-than-they-were-20-years-ago-study)
 * [2024-06-08, 09:18:15](https://news.ycombinator.com/item?id=40616347) - [Giant earthworms have transformed the Isle of Rum's landscape](https://theconversation.com/how-giant-earthworms-have-transformed-the-isle-of-rums-landscape-231638)
+* [2024-06-08, 08:27:09](https://news.ycombinator.com/item?id=40616155) - [Truck: a Rust CAD Kernel](https://github.com/ricosjp/truck)
 * [2024-06-08, 08:14:54](https://news.ycombinator.com/item?id=40616121) - [Breaking up is hard to do: Chunking in RAG applications](https://stackoverflow.blog/2024/06/06/breaking-up-is-hard-to-do-chunking-in-rag-applications/)
 * [2024-06-08, 07:34:43](https://news.ycombinator.com/item?id=40615953) - [Tokyo's Government Is Building Its Own Dating App to Combat Falling Birthrates](https://time.com/6986142/japan-tokyo-government-dating-app-marriage/)
 * [2024-06-08, 07:31:46](https://news.ycombinator.com/item?id=40615940) - [Asahi Installer](https://github.com/AsahiLinux/asahi-installer)
