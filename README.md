@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-09, 04:16:51](https://news.ycombinator.com/item?id=40621998) - [Your Phone, Minus the Distractions](https://getbrick.app/)
 * [2024-06-09, 03:51:58](https://news.ycombinator.com/item?id=40621891) - [Super Heavy landing burn and soft splashdown in the Gulf of Mexico [video]](https://twitter.com/SpaceX/status/1799458854067118450)
 * [2024-06-09, 02:13:49](https://news.ycombinator.com/item?id=40621534) - [Fixing a knockoff Altera USB Blaster that never worked](https://www.downtowndougbrown.com/2024/06/fixing-a-knockoff-altera-usb-blaster-that-never-worked/)
 * [2024-06-09, 00:32:09](https://news.ycombinator.com/item?id=40621085) - [Next-generation web framework Teo, supports Node.js, Python and Rust](https://teodev.io)
@@ -24,7 +25,6 @@
 * [2024-06-07, 20:00:56](https://news.ycombinator.com/item?id=40612363) - [Edo-period teens tackling math's toughest problems](https://www.nippon.com/en/japan-topics/c12802/)
 * [2024-06-07, 19:57:46](https://news.ycombinator.com/item?id=40612329) - [K-D Tree Art Generator](https://colab.research.google.com/drive/1Ou3WRwicz31enMKVWl5v4F1f1_haSlTI?usp=sharing)
 * [2024-06-07, 19:55:54](https://news.ycombinator.com/item?id=40612314) - [Morphing Arbitrary Paths in SVG](https://minus-ze.ro/posts/morphing-arbitrary-paths-in-svg/)
-* [2024-06-07, 19:53:32](https://news.ycombinator.com/item?id=40612281) - [Fighting an anti-doping finding](https://lizzybanks.co.uk/2024/05/15/hello-world/)
 * [2024-06-07, 15:45:09](https://news.ycombinator.com/item?id=40609753) - [In highly connected networks, there's always a loop](https://www.quantamagazine.org/in-highly-connected-networks-theres-always-a-loop-20240607/)
 * [2024-06-07, 13:04:40](https://news.ycombinator.com/item?id=40608358) - [I didn't touch a thing – just some cables and a monitor – and my computer broke](https://www.theregister.com/2024/06/07/on_call/)
 * [2024-06-07, 12:11:17](https://news.ycombinator.com/item?id=40607897) - [The regenerative urban garden I: No-till gardening](https://makegathergrow.com/blog/regenerative-no-till-gardening)

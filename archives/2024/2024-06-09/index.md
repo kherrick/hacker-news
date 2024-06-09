@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-09](index.md)
 
+* [2024-06-09, 04:16:51](https://news.ycombinator.com/item?id=40621998) - [Your Phone, Minus the Distractions](https://getbrick.app/)
 * [2024-06-09, 03:51:58](https://news.ycombinator.com/item?id=40621891) - [Super Heavy landing burn and soft splashdown in the Gulf of Mexico [video]](https://twitter.com/SpaceX/status/1799458854067118450)
 * [2024-06-09, 03:13:29](https://news.ycombinator.com/item?id=40621736) - [The Mere Presence of One's Own Smartphone Reduces Available Cognitive Capacity](https://www.journals.uchicago.edu/doi/10.1086/691462)
 * [2024-06-09, 02:32:27](https://news.ycombinator.com/item?id=40621611) - [Mozilla silently bans 2 anti-state-censorship add-ons in Russia](https://discourse.mozilla.org/t/the-censorship-circumvention-extension-has-disappeared-from-the-russian-version-of-mozilla-addons/130914)
