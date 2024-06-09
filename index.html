@@ -129,6 +129,28 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="40626058">
+          <h3>
+            <a
+              class="item"
+              href="https://outerproduct.net/2021-02-13_att-asm.html"
+              >Why no one should use the AT&amp;amp;T syntax ever, for any
+              reason (2021)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-06-09 @ 17:36:13</span
+              ><span class="points-container"
+                >Points: <span class="points">34</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40626058"
+                  >Comments</a
+                ><span class="descendants">: 22</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="40626014">
           <h3>
             <a
@@ -141,34 +163,117 @@
             <h4>
               <span>2024-06-09 @ 17:29:00</span
               ><span class="points-container"
-                >Points: <span class="points">60</span></span
+                >Points: <span class="points">83</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40626014"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="40625823">
+        <section id="40625800">
           <h3>
-            <a
-              class="item"
-              href="https://en.wikipedia.org/wiki/Strategic_Computing_Initiative"
-              >Strategic Computing Initiative</a
+            <a class="item" href="https://news.ycombinator.com/item?id=40625800"
+              >Is KDB a sane choice for a datalake in 2024?</a
             >
           </h3>
           <section>
             <h4>
-              <span>2024-06-09 @ 17:02:42</span
+              <span>2024-06-09 @ 17:00:22</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">9</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40625823"
+                ><a href="https://news.ycombinator.com/item?id=40625800"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
+            <div class="text">
+              <p>
+                It's also extremely expensive and written in a language with
+                origins so obtuse that it's progenitor APL needed a custom
+                keyboard laden with mathematical symbols.
+              </p>
+              <p>
+                Within my firm, it's very hard to get an outside perspective,
+                the KDB developers are true believers in KDB, but they they
+                obviously don't want to be professionally replaced. So I'm
+                asking the more forward leaning HN.
+              </p>
+              <p>
+                One nail in my job, is KDB as a data-lake and I'm being driven
+                nuts by it. I write code in Rust that prices options. There's a
+                lot of complex code involved in this, I use a mix of numeric
+                simulations to calculate greeks and somewhat lengthy analytical
+                formulas.
+              </p>
+              <p>
+                The data that I save to KDB is quite raw, I save the market data
+                and derived volatility surfaces, which are themselves
+                complex-ish models needing some carefully unit-tested code to
+                convert in to implied vols.
+              </p>
+              <p>
+                Right now my desk has no proper tooling for backtesting that
+                uses our own data. And I'm constantly being asked to do
+                something about it, and I don't know what to do!
+              </p>
+              <p>
+                I'm 99% sure KDB is the wrong tool for the job, because of three
+                things:
+              </p>
+              <p>
+                - It's not horizontally scalable. A divide and conquer algo on
+                N&lt;{small_number} cores is pointless.
+              </p>
+              <p>
+                - I'm scared to do queries that return a lot of data. It's non
+                trivial to get a day's worth of data. The query will just often
+                freeze, it doesn't even buffer. Even if I'm just trying to fetch
+                what should be a logical partition, the wire format is really
+                inefficient and uncompressed. I feel like I need to engineering
+                work for trivial things.
+              </p>
+              <p>
+                - The main thing is that I need to do complex math to convert my
+                raw data, order-books and vol-surfaces into useful data to
+                backtest.
+              </p>
+              <p>
+                I have no idea how do do any of this in KDB. My firm is
+                primarily a spot desk, and while I respect my colleagues, their
+                answer is:
+              </p>
+              <p>
+                &gt; Other firms are really invested in KDB and use KDB for
+                this, just figure it out.
+              </p>
+              <p>
+                I'm going nuts because I'm under the assumption that these other
+                firms are way larger and have teams of KDB-quants doing the
+                actual research. While we have some quant traders who know a bit
+                of KDB but they work in the spot side with far more simple math.
+              </p>
+              <p>
+                I keep on advocating for some Parquet style data-store with
+                Spark/Dask/Arrow/Polars running on top of it that can be
+                horizontally scaled and most importantly, with Polars, I can
+                write my backtests in Rust and leverage the libraries I've
+                already written.
+              </p>
+              <p>
+                I get shot down with "we use KDB here". I just don't know how I
+                can deliver a maintainable solution to my traders with this
+                current infrastructure. Bizarrely, and this is a financial firm,
+                no one in a team of ~100 devs has ever touched Spark style tech
+                other than me here.
+              </p>
+              <p>
+                What should I do? Are my concerns overblown? Am I
+                misunderstanding the power of KDB?
+              </p>
+            </div>
           </section>
         </section>
         <section id="40624924">
@@ -183,11 +288,11 @@
             <h4>
               <span>2024-06-09 @ 15:06:50</span
               ><span class="points-container"
-                >Points: <span class="points">178</span></span
+                >Points: <span class="points">183</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40624924"
                   >Comments</a
-                ><span class="descendants">: 159</span></span
+                ><span class="descendants">: 171</span></span
               >
             </h4>
           </section>
@@ -204,11 +309,11 @@
             <h4>
               <span>2024-06-09 @ 14:35:43</span
               ><span class="points-container"
-                >Points: <span class="points">74</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40624709"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
@@ -223,11 +328,11 @@
             <h4>
               <span>2024-06-09 @ 14:27:04</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">12</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40624645"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -244,7 +349,7 @@
             <h4>
               <span>2024-06-09 @ 13:52:08</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40624439"
                   >Comments</a
@@ -264,11 +369,11 @@
             <h4>
               <span>2024-06-09 @ 12:05:53</span
               ><span class="points-container"
-                >Points: <span class="points">51</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40623883"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
             <div class="text">
@@ -292,11 +397,11 @@
             <h4>
               <span>2024-06-09 @ 12:04:29</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40623877"
                   >Comments</a
-                ><span class="descendants">: 29</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
             <div class="text">
@@ -377,7 +482,7 @@
             <h4>
               <span>2024-06-09 @ 10:49:12</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">25</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40623542"
                   >Comments</a
@@ -396,11 +501,11 @@
             <h4>
               <span>2024-06-09 @ 08:38:27</span
               ><span class="points-container"
-                >Points: <span class="points">130</span></span
+                >Points: <span class="points">132</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40622912"
                   >Comments</a
-                ><span class="descendants">: 133</span></span
+                ><span class="descendants">: 135</span></span
               >
             </h4>
           </section>
@@ -408,14 +513,14 @@
         <section id="40622704">
           <h3>
             <a class="item" href="https://github.com/piku/piku"
-              >piku: The tiniest PaaS you've ever seen</a
+              >Piku: Allows git push deployments to your own servers</a
             >
           </h3>
           <section>
             <h4>
               <span>2024-06-09 @ 07:40:25</span
               ><span class="points-container"
-                >Points: <span class="points">417</span></span
+                >Points: <span class="points">426</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40622704"
                   >Comments</a
@@ -435,11 +540,11 @@
             <h4>
               <span>2024-06-09 @ 05:07:06</span
               ><span class="points-container"
-                >Points: <span class="points">100</span></span
+                >Points: <span class="points">103</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40622189"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 38</span></span
               >
             </h4>
           </section>
@@ -456,7 +561,7 @@
             <h4>
               <span>2024-06-09 @ 02:13:49</span
               ><span class="points-container"
-                >Points: <span class="points">129</span></span
+                >Points: <span class="points">130</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40621534"
                   >Comments</a
@@ -494,7 +599,7 @@
             <h4>
               <span>2024-06-08 @ 22:04:24</span
               ><span class="points-container"
-                >Points: <span class="points">267</span></span
+                >Points: <span class="points">269</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40620472"
                   >Comments</a
@@ -516,32 +621,11 @@
             <h4>
               <span>2024-06-08 @ 20:40:16</span
               ><span class="points-container"
-                >Points: <span class="points">447</span></span
+                >Points: <span class="points">454</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40620056"
                   >Comments</a
                 ><span class="descendants">: 188</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="40619752">
-          <h3>
-            <a
-              class="item"
-              href="https://mas-bandwidth.com/creating-a-matchmaker-for-your-multiplayer-game/"
-              >Creating a matchmaker for your multiplayer game</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-06-08 @ 19:38:53</span
-              ><span class="points-container"
-                >Points: <span class="points">98</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40619752"
-                  >Comments</a
-                ><span class="descendants">: 40</span></span
               >
             </h4>
           </section>
@@ -639,11 +723,11 @@
             <h4>
               <span>2024-06-08 @ 11:41:42</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40616927"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -658,7 +742,7 @@
             <h4>
               <span>2024-06-08 @ 10:02:15</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">47</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40616509"
                   >Comments</a
@@ -748,7 +832,7 @@
             <h4>
               <span>2024-06-08 @ 10:01:38</span
               ><span class="points-container"
-                >Points: <span class="points">16</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40616503"
                   >Comments</a
@@ -773,7 +857,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40615666"
                   >Comments</a
-                ><span class="descendants">: 45</span></span
+                ><span class="descendants">: 46</span></span
               >
             </h4>
           </section>
@@ -791,7 +875,7 @@
             <h4>
               <span>2024-06-07 @ 01:58:33</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40604592"
                   >Comments</a
@@ -831,7 +915,7 @@
             <h4>
               <span>2024-06-06 @ 18:58:20</span
               ><span class="points-container"
-                >Points: <span class="points">182</span></span
+                >Points: <span class="points">183</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40601098"
                   >Comments</a
