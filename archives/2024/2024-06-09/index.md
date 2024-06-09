@@ -7,6 +7,7 @@
 * [2024-06-09, 08:38:27](https://news.ycombinator.com/item?id=40622912) - [Högertrafikomläggningen](https://en.wikipedia.org/wiki/Dagen_H)
 * [2024-06-09, 08:21:29](https://news.ycombinator.com/item?id=40622851) - [Shrink the Economy, Save the World?](https://www.nytimes.com/2024/06/08/books/review/shrink-the-economy-save-the-world.html)
 * [2024-06-09, 08:10:23](https://news.ycombinator.com/item?id=40622799) - [How many High Streets are there in London?](https://diamondgeezer.blogspot.com/2024/06/londons-high-streets.html)
+* [2024-06-09, 08:00:47](https://news.ycombinator.com/item?id=40622759) - [Remember When You Named Your Girlfriend as a Beneficiary? He Didn't Either](https://www.williamhalaw.com/post/8/)
 * [2024-06-09, 07:55:59](https://news.ycombinator.com/item?id=40622744) - [Volvo to shift EV production to Europe to escape China tariffs](https://www.thetimes.com/business-money/companies/article/volvo-to-shift-ev-production-to-europe-to-escape-china-tariffs-btx9swhr6)
 * [2024-06-09, 07:40:25](https://news.ycombinator.com/item?id=40622704) - [piku: The tiniest PaaS you've ever seen](https://github.com/piku/piku)
 * [2024-06-09, 06:05:21](https://news.ycombinator.com/item?id=40622384) - [We went solar and here are the real numbers (2011)](https://joshuatauberer.medium.com/we-went-solar-and-here-are-the-real-numbers-7a7f28d51897)
