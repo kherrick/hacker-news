@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-09](index.md)
 
+* [2024-06-09, 18:21:13](https://news.ycombinator.com/item?id=40626383) - [Dad's Diet Before Conception Affects Kids' Health](https://neurosciencenews.com/dad-diet-child-health-26255/)
 * [2024-06-09, 17:49:37](https://news.ycombinator.com/item?id=40626154) - [It's all unraveling at OpenAI (again)](https://www.businessinsider.com/openai-mess-concerns-over-nda-safety-sam-altman-2024-6)
+* [2024-06-09, 17:36:43](https://news.ycombinator.com/item?id=40626064) - [Dask DataFrame Is Fast Now](https://docs.coiled.io/blog/dask-dataframe-is-fast.html)
 * [2024-06-09, 17:36:13](https://news.ycombinator.com/item?id=40626058) - [Why no one should use the AT&T syntax ever, for any reason (2021)](https://outerproduct.net/2021-02-13_att-asm.html)
 * [2024-06-09, 17:29:00](https://news.ycombinator.com/item?id=40626014) - [Keylogger discovered in image generator extension](https://old.reddit.com/r/comfyui/comments/1dbls5n/psa_if_youve_used_the_comfyui_llmvision_node_from/)
 * [2024-06-09, 17:28:50](https://news.ycombinator.com/item?id=40626011) - [A look at search engines with their own indexes](https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/)
