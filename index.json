@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-06-09, 20:56:29",
-      "https://news.ycombinator.com/item?id=40627558"
-    ],
-    [
-      "How a single ChatGPT mistake cost us $10k",
-      "https://asim.bearblog.dev/how-a-single-chatgpt-mistake-cost-us-10000/"
-    ]
-  ],
-  [
-    [
       "2024-06-09, 20:51:26",
       "https://news.ycombinator.com/item?id=40627522"
     ],
@@ -21,12 +11,32 @@
   ],
   [
     [
+      "2024-06-09, 20:43:24",
+      "https://news.ycombinator.com/item?id=40627441"
+    ],
+    [
+      "How MBAs failed Boeing: Business Case study [video]",
+      "https://www.youtube.com/watch?v=AnOqz5TsumU"
+    ]
+  ],
+  [
+    [
       "2024-06-09, 20:11:09",
       "https://news.ycombinator.com/item?id=40627208"
     ],
     [
       "British Nuclear Warning System",
       "http://www.ringbell.co.uk/ukwmo/Page211.htm"
+    ]
+  ],
+  [
+    [
+      "2024-06-09, 19:53:10",
+      "https://news.ycombinator.com/item?id=40627056"
+    ],
+    [
+      "A DSL for Implementing Math Functions",
+      "https://blog.sigplan.org/2024/06/03/a-dsl-for-implementing-math-functions/"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Fixing a knockoff Altera USB Blaster that never worked",
       "https://www.downtowndougbrown.com/2024/06/fixing-a-knockoff-altera-usb-blaster-that-never-worked/"
-    ]
-  ],
-  [
-    [
-      "2024-06-09, 00:00:48",
-      "https://news.ycombinator.com/item?id=40620955"
-    ],
-    [
-      "Scalable MatMul-Free Language Modeling",
-      "https://arxiv.org/abs/2406.02528"
     ]
   ],
   [
