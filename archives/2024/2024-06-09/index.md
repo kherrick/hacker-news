@@ -6,6 +6,7 @@
 
 * [2024-06-09, 15:26:16](https://news.ycombinator.com/item?id=40625077) - [Our Fight to Keep the Law Free](https://up.codes/free-law)
 * [2024-06-09, 15:06:50](https://news.ycombinator.com/item?id=40624924) - [The Weird Nerd comes with trade-offs](https://www.writingruxandrabio.com/p/the-weird-nerd-comes-with-trade-offs)
+* [2024-06-09, 14:35:43](https://news.ycombinator.com/item?id=40624709) - [Ultrasonic Investigations in Shopping Centres](https://www.windytan.com/2024/06/ultrasonic-investigations-in-shopping.html)
 * [2024-06-09, 14:15:06](https://news.ycombinator.com/item?id=40624563) - [Teams of LLM Agents Can Exploit Zero-Day Vulnerabilities](https://arxiv.org/abs/2406.01637)
 * [2024-06-09, 13:52:08](https://news.ycombinator.com/item?id=40624439) - [Spam blocklist SORBS closed by its owner, Proofpoint](https://www.theregister.com/2024/06/07/sorbs_closed/)
 * [2024-06-09, 13:40:08](https://news.ycombinator.com/item?id=40624366) - [The Era of the Autodidact Is Here](https://medium.com/swlh/the-era-of-the-autodidact-has-arrived-9fb085cc51af)
