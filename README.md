@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-09, 08:38:27](https://news.ycombinator.com/item?id=40622912) - [Högertrafikomläggningen](https://en.wikipedia.org/wiki/Dagen_H)
 * [2024-06-09, 08:21:29](https://news.ycombinator.com/item?id=40622851) - [Shrink the Economy, Save the World?](https://www.nytimes.com/2024/06/08/books/review/shrink-the-economy-save-the-world.html)
+* [2024-06-09, 08:10:23](https://news.ycombinator.com/item?id=40622799) - [How many High Streets are there in London?](https://diamondgeezer.blogspot.com/2024/06/londons-high-streets.html)
 * [2024-06-09, 07:40:25](https://news.ycombinator.com/item?id=40622704) - [piku: The tiniest PaaS you've ever seen](https://github.com/piku/piku)
-* [2024-06-09, 06:05:21](https://news.ycombinator.com/item?id=40622384) - [We went solar and here are the real numbers (2021)](https://joshuatauberer.medium.com/we-went-solar-and-here-are-the-real-numbers-7a7f28d51897)
 * [2024-06-09, 05:07:06](https://news.ycombinator.com/item?id=40622189) - [Betula – federated bookmarking software for the independent web](https://betula.mycorrhiza.wiki/)
 * [2024-06-09, 04:22:39](https://news.ycombinator.com/item?id=40622022) - [Decent Patterns](https://decentpatterns.com/)
 * [2024-06-09, 02:13:49](https://news.ycombinator.com/item?id=40621534) - [Fixing a knockoff Altera USB Blaster that never worked](https://www.downtowndougbrown.com/2024/06/fixing-a-knockoff-altera-usb-blaster-that-never-worked/)
@@ -25,7 +26,6 @@
 * [2024-06-08, 06:31:26](https://news.ycombinator.com/item?id=40615711) - [Needlessly Public](https://euroquis.nl//kde/2024/06/06/public.html)
 * [2024-06-08, 06:30:57](https://news.ycombinator.com/item?id=40615708) - [I Open-Sourced KeyEcho: Fast-Responsive Keyboard Sounds with Every Keystroke](https://webdeveloper.beehiiv.com/p/opensourced-keyecho-fastresponsive-keyboard-sounds-every-keystroke-using-tauri)
 * [2024-06-08, 06:18:04](https://news.ycombinator.com/item?id=40615666) - [Compilers Are (Too) Smart](http://msinilo.pl/blog2/post/compilers-are-too-smart/)
-* [2024-06-07, 19:57:46](https://news.ycombinator.com/item?id=40612329) - [K-D Tree Art Generator](https://colab.research.google.com/drive/1Ou3WRwicz31enMKVWl5v4F1f1_haSlTI?usp=sharing)
 * [2024-06-07, 15:45:09](https://news.ycombinator.com/item?id=40609753) - [In highly connected networks, there's always a loop](https://www.quantamagazine.org/in-highly-connected-networks-theres-always-a-loop-20240607/)
 * [2024-06-07, 12:11:17](https://news.ycombinator.com/item?id=40607897) - [The regenerative urban garden I: No-till gardening](https://makegathergrow.com/blog/regenerative-no-till-gardening)
 * [2024-06-06, 18:58:20](https://news.ycombinator.com/item?id=40601098) - [Zero Tolerance for Bias](https://queue.acm.org/detail.cfm?id=3664645)
