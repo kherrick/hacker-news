@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-09, 21:18:58](https://news.ycombinator.com/item?id=40627707) - [From Long Covid Odds to Lost IQ Points: Ongoing Threats You Don't Know About](https://www.ineteconomics.org/perspectives/blog/from-long-covid-odds-to-lost-iq-points-ongoing-threats-you-dont-know-about)
+* [2024-06-09, 20:56:29](https://news.ycombinator.com/item?id=40627558) - [How a single ChatGPT mistake cost us $10k](https://asim.bearblog.dev/how-a-single-chatgpt-mistake-cost-us-10000/)
+* [2024-06-09, 20:51:26](https://news.ycombinator.com/item?id=40627522) - [Woman set up a table to share her collection of washers. Nothing was for sale](https://twitter.com/revjaydub/status/1799212814646796648)
 * [2024-06-09, 20:11:09](https://news.ycombinator.com/item?id=40627208) - [British Nuclear Warning System](http://www.ringbell.co.uk/ukwmo/Page211.htm)
 * [2024-06-09, 19:42:03](https://news.ycombinator.com/item?id=40626969) - [Libtree: Ldd as a tree saying why a library is found or not](https://github.com/haampie/libtree)
 * [2024-06-09, 19:23:08](https://news.ycombinator.com/item?id=40626807) - [Designing a Lego orrery](https://marian42.de/article/orrery/)
@@ -29,7 +30,6 @@
 * [2024-06-08, 00:32:06](https://news.ycombinator.com/item?id=40614308) - [WARC-GPT: An open-source tool for exploring web archives using AI](https://lil.law.harvard.edu/blog/2024/02/12/warc-gpt-an-open-source-tool-for-exploring-web-archives-with-ai/)
 * [2024-06-08, 00:04:14](https://news.ycombinator.com/item?id=40614159) - [When does knowledge sharing lead to knowledge production?](https://www.hbs.edu/faculty/Pages/item.aspx?num=57216)
 * [2024-06-07, 20:00:05](https://news.ycombinator.com/item?id=40612350) - [Experiments with Calculo Analog Computer Kit (1959) [pdf]](https://www.ccapitalia.net/descarga/docs/1959-calculo-analog-computer.pdf)
-* [2024-06-07, 01:58:33](https://news.ycombinator.com/item?id=40604592) - [Evidence of earth's first rains found trapped within primordial crystals](https://www.sciencealert.com/evidence-of-earths-first-rains-found-trapped-within-primordial-crystals)
 
 ## [Archives](archives/index.md)
 
