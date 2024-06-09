@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=40621736"
     ],
     [
-      "The Mere Presence of One's Own Smartphone Reduces Available Cognitive Capacity",
+      "The Mere Presence of One's Own Smartphone Reduces Available Cognitive Capacity (2017)",
       "https://www.journals.uchicago.edu/doi/10.1086/691462"
     ]
   ],
@@ -37,6 +37,16 @@
     [
       "Next-generation web framework Teo, supports Node.js, Python and Rust",
       "https://teodev.io"
+    ]
+  ],
+  [
+    [
+      "2024-06-09, 00:10:29",
+      "https://news.ycombinator.com/item?id=40620993"
+    ],
+    [
+      "Synapse bankruptcy trustee says $85M of customer savings is missing",
+      "https://www.cnbc.com/2024/06/07/synapse-bankruptcy-trustee-85-million-of-customer-savings-is-missing.html"
     ]
   ],
   [
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2024-06-08, 16:55:08",
-      "https://news.ycombinator.com/item?id=40618841"
-    ],
-    [
-      "Building a SaaS product with Htmx – Are you sure you need all the complexity?",
-      "https://www.chatterpulseai.com/blog/building-a-saas-product-with-htmx/"
-    ]
-  ],
-  [
-    [
       "2024-06-08, 16:43:46",
       "https://news.ycombinator.com/item?id=40618766"
     ],
@@ -191,12 +191,12 @@
   ],
   [
     [
-      "2024-06-08, 10:02:15",
-      "https://news.ycombinator.com/item?id=40616509"
+      "2024-06-08, 08:27:09",
+      "https://news.ycombinator.com/item?id=40616155"
     ],
     [
-      "Show HN: I wrote a partial re-implementation of DirectMusic",
-      "https://github.com/GothicKit/dmusic"
+      "Truck: a Rust CAD Kernel",
+      "https://github.com/ricosjp/truck"
     ]
   ],
   [
