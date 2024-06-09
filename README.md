@@ -21,7 +21,6 @@
 * [2024-06-09, 05:07:06](https://news.ycombinator.com/item?id=40622189) - [Betula – federated bookmarking software for the independent web](https://betula.mycorrhiza.wiki/)
 * [2024-06-09, 02:13:49](https://news.ycombinator.com/item?id=40621534) - [Fixing a knockoff Altera USB Blaster that never worked](https://www.downtowndougbrown.com/2024/06/fixing-a-knockoff-altera-usb-blaster-that-never-worked/)
 * [2024-06-09, 00:00:48](https://news.ycombinator.com/item?id=40620955) - [Scalable MatMul-Free Language Modeling](https://arxiv.org/abs/2406.02528)
-* [2024-06-08, 22:04:24](https://news.ycombinator.com/item?id=40620472) - [Draw an iceberg and see how it will float](https://joshdata.me/iceberger.html)
 * [2024-06-08, 20:40:12](https://news.ycombinator.com/item?id=40620055) - [Claude's Character](https://www.anthropic.com/research/claude-character)
 * [2024-06-08, 19:23:32](https://news.ycombinator.com/item?id=40619664) - [Finding out where syscalls are called from: Stack traces with strace](https://abstractexpr.com/2024/06/08/finding-out-where-syscalls-are-called-from-stack-traces-with-strace/)
 * [2024-06-08, 18:12:09](https://news.ycombinator.com/item?id=40619311) - [Western Pennsylvania dirt is used in the infields of most MLB stadiums (2017)](https://www.post-gazette.com/sports/pirates/2017/08/31/baseball-infield-dirt-mix-prices-duraedge-pnc-park-wrigley-field-duraedge-slippery-rock-soil-pennsylvania/stories/201708310111)
@@ -30,6 +29,7 @@
 * [2024-06-08, 00:32:06](https://news.ycombinator.com/item?id=40614308) - [WARC-GPT: An open-source tool for exploring web archives using AI](https://lil.law.harvard.edu/blog/2024/02/12/warc-gpt-an-open-source-tool-for-exploring-web-archives-with-ai/)
 * [2024-06-08, 00:04:14](https://news.ycombinator.com/item?id=40614159) - [When does knowledge sharing lead to knowledge production?](https://www.hbs.edu/faculty/Pages/item.aspx?num=57216)
 * [2024-06-07, 20:00:05](https://news.ycombinator.com/item?id=40612350) - [Experiments with Calculo Analog Computer Kit (1959) [pdf]](https://www.ccapitalia.net/descarga/docs/1959-calculo-analog-computer.pdf)
+* [2024-06-07, 01:58:33](https://news.ycombinator.com/item?id=40604592) - [Evidence of earth's first rains found trapped within primordial crystals](https://www.sciencealert.com/evidence-of-earths-first-rains-found-trapped-within-primordial-crystals)
 
 ## [Archives](archives/index.md)
 
