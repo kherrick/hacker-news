@@ -1,22 +1,22 @@
 [
   [
     [
+      "2024-06-09, 19:23:08",
+      "https://news.ycombinator.com/item?id=40626807"
+    ],
+    [
+      "Designing a Lego Orrery",
+      "https://marian42.de/article/orrery/"
+    ]
+  ],
+  [
+    [
       "2024-06-09, 18:13:34",
       "https://news.ycombinator.com/item?id=40626332"
     ],
     [
       "A Revolution in Biology",
       "https://www.bitsofwonder.co/p/a-revolution-in-biology"
-    ]
-  ],
-  [
-    [
-      "2024-06-09, 17:36:13",
-      "https://news.ycombinator.com/item?id=40626058"
-    ],
-    [
-      "No one should use the AT&T syntax (2021)",
-      "https://outerproduct.net/2021-02-13_att-asm.html"
     ]
   ],
   [
@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2024-06-09, 14:27:04",
-      "https://news.ycombinator.com/item?id=40624645"
-    ],
-    [
-      "SVT-AV1 Encoder and Decoder",
-      "https://gitlab.com/AOMediaCodec/SVT-AV1"
-    ]
-  ],
-  [
-    [
       "2024-06-09, 12:05:53",
       "https://news.ycombinator.com/item?id=40623883"
     ],
@@ -121,16 +111,6 @@
   ],
   [
     [
-      "2024-06-09, 11:28:40",
-      "https://news.ycombinator.com/item?id=40623711"
-    ],
-    [
-      "Interview with Ton Roosendaal, the man behind Blender (2018) [video]",
-      "https://www.youtube.com/watch?v=qJEWOTZnFeg"
-    ]
-  ],
-  [
-    [
       "2024-06-09, 10:49:12",
       "https://news.ycombinator.com/item?id=40623542"
     ],
@@ -151,12 +131,12 @@
   ],
   [
     [
-      "2024-06-09, 08:38:27",
-      "https://news.ycombinator.com/item?id=40622912"
+      "2024-06-09, 07:47:26",
+      "https://news.ycombinator.com/item?id=40622724"
     ],
     [
-      "Högertrafikomläggningen",
-      "https://en.wikipedia.org/wiki/Dagen_H"
+      "Orwell on the Isle of Jura",
+      "https://www.bbc.com/news/articles/cyrrylklzjdo"
     ]
   ],
   [
@@ -167,6 +147,16 @@
     [
       "Piku: Allows git push deployments to your own servers",
       "https://github.com/piku/piku"
+    ]
+  ],
+  [
+    [
+      "2024-06-09, 07:19:51",
+      "https://news.ycombinator.com/item?id=40622634"
+    ],
+    [
+      "Electric headset for treating depression recommended after NHS trial",
+      "https://news.sky.com/story/electric-headset-for-treating-depression-recommended-as-widespread-treatment-after-nhs-trial-13150095"
     ]
   ],
   [
@@ -211,32 +201,32 @@
   ],
   [
     [
-      "2024-06-08, 20:40:16",
-      "https://news.ycombinator.com/item?id=40620056"
+      "2024-06-08, 20:40:12",
+      "https://news.ycombinator.com/item?id=40620055"
     ],
     [
-      "Gene therapy restores hearing to children with inherited deafness",
-      "https://cosmosmagazine.com/science/biology/gene-therapy-restores-hearing-to-children-with-inherited-deafness/"
+      "Claude's Character",
+      "https://www.anthropic.com/research/claude-character"
     ]
   ],
   [
     [
-      "2024-06-08, 15:17:53",
-      "https://news.ycombinator.com/item?id=40618079"
+      "2024-06-08, 19:23:32",
+      "https://news.ycombinator.com/item?id=40619664"
     ],
     [
-      "The Backrooms of the Internet Archive",
-      "https://blog.archive.org/2024/06/01/the-backrooms-of-the-internet-archive/"
+      "Finding out where syscalls are called from: Stack traces with strace",
+      "https://abstractexpr.com/2024/06/08/finding-out-where-syscalls-are-called-from-stack-traces-with-strace/"
     ]
   ],
   [
     [
-      "2024-06-08, 12:24:58",
-      "https://news.ycombinator.com/item?id=40617082"
+      "2024-06-08, 18:09:15",
+      "https://news.ycombinator.com/item?id=40619297"
     ],
     [
-      "LSP-AI: open-source language server serving as back end for AI code assistance",
-      "https://github.com/SilasMarvin/lsp-ai"
+      "Records of Pompeii's survivors have been found",
+      "https://theconversation.com/records-of-pompeiis-survivors-have-been-found-and-archaeologists-are-starting-to-understand-how-they-rebuilt-their-lives-230641"
     ]
   ],
   [
@@ -251,6 +241,16 @@
   ],
   [
     [
+      "2024-06-08, 11:02:22",
+      "https://news.ycombinator.com/item?id=40616776"
+    ],
+    [
+      "Like Diogenes Across the Atlantic",
+      "https://floatmagazin.de/en/people/jean-jaques-savin-tonne-like-diogenes-across-theatlantic/"
+    ]
+  ],
+  [
+    [
       "2024-06-08, 10:02:15",
       "https://news.ycombinator.com/item?id=40616509"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2024-06-08, 10:01:38",
-      "https://news.ycombinator.com/item?id=40616503"
+      "2024-06-08, 00:32:06",
+      "https://news.ycombinator.com/item?id=40614308"
     ],
     [
-      "Libg203lightsync: Lib for interacting with the Logitech G203 LS mouse",
-      "https://github.com/carlos-menezes/libg203lightsync"
+      "WARC-GPT: An open-source tool for exploring web archives using AI",
+      "https://lil.law.harvard.edu/blog/2024/02/12/warc-gpt-an-open-source-tool-for-exploring-web-archives-with-ai/"
     ]
   ],
   [
     [
-      "2024-06-08, 06:18:04",
-      "https://news.ycombinator.com/item?id=40615666"
+      "2024-06-08, 00:04:14",
+      "https://news.ycombinator.com/item?id=40614159"
     ],
     [
-      "Compilers are too smart",
-      "http://msinilo.pl/blog2/post/compilers-are-too-smart/"
+      "When does knowledge sharing lead to knowledge production?",
+      "https://www.hbs.edu/faculty/Pages/item.aspx?num=57216"
     ]
   ],
   [
