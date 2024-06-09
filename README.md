@@ -20,6 +20,7 @@
 * [2024-06-08, 11:02:32](https://news.ycombinator.com/item?id=40616778) - [Tiny fern has the largest genome of any organism on Earth](https://phys.org/news/2024-05-tiny-fern-largest-genome-earth.html)
 * [2024-06-08, 10:02:15](https://news.ycombinator.com/item?id=40616509) - [Show HN: I wrote a partial re-implementation of DirectMusic](https://github.com/GothicKit/dmusic)
 * [2024-06-08, 06:58:36](https://news.ycombinator.com/item?id=40615808) - [BES – OSS Windows software to control per-process CPU usage](https://mion.yosei.fi/BES/)
+* [2024-06-08, 06:30:57](https://news.ycombinator.com/item?id=40615708) - [I Open-Sourced KeyEcho: Fast-Responsive Keyboard Sounds with Every Keystroke](https://webdeveloper.beehiiv.com/p/opensourced-keyecho-fastresponsive-keyboard-sounds-every-keystroke-using-tauri)
 * [2024-06-07, 20:03:35](https://news.ycombinator.com/item?id=40612398) - [Embedding with America's top hostage negotiator](https://www.vanityfair.com/news/story/americas-top-hostage-negotiator-exclusive)
 * [2024-06-07, 19:57:46](https://news.ycombinator.com/item?id=40612329) - [K-D Tree Art Generator](https://colab.research.google.com/drive/1Ou3WRwicz31enMKVWl5v4F1f1_haSlTI?usp=sharing)
 * [2024-06-07, 19:55:54](https://news.ycombinator.com/item?id=40612314) - [Morphing Arbitrary Paths in SVG](https://minus-ze.ro/posts/morphing-arbitrary-paths-in-svg/)
@@ -29,7 +30,6 @@
 * [2024-06-07, 12:11:17](https://news.ycombinator.com/item?id=40607897) - [The regenerative urban garden I: No-till gardening](https://makegathergrow.com/blog/regenerative-no-till-gardening)
 * [2024-06-06, 18:58:20](https://news.ycombinator.com/item?id=40601098) - [Zero Tolerance for Bias](https://queue.acm.org/detail.cfm?id=3664645)
 * [2024-06-06, 14:35:09](https://news.ycombinator.com/item?id=40597904) - [The Lost Art of the Negative](https://www.nytimes.com/2024/06/06/arts/film-photography-negatives.html)
-* [2024-06-06, 04:04:28](https://news.ycombinator.com/item?id=40593347) - [The Uses and Misuses of Spinoza](https://www.thenation.com/article/culture/spinoza-ian-buruma-review/)
 
 ## [Archives](archives/index.md)
 
