@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-09, 10:10:33](https://news.ycombinator.com/item?id=40623332) - [Tell HN: Domain migrated from Google to Squarespace went down after 1 month](https://news.ycombinator.com/item?id=40623332)
 * [2024-06-09, 08:10:23](https://news.ycombinator.com/item?id=40622799) - [How many High Streets are there in London?](https://diamondgeezer.blogspot.com/2024/06/londons-high-streets.html)
 * [2024-06-09, 08:00:47](https://news.ycombinator.com/item?id=40622759) - [Remember When You Named Your Girlfriend as a Beneficiary? He Didn't Either](https://www.williamhalaw.com/post/8/)
 * [2024-06-09, 07:40:25](https://news.ycombinator.com/item?id=40622704) - [piku: The tiniest PaaS you've ever seen](https://github.com/piku/piku)
@@ -13,7 +14,6 @@
 * [2024-06-08, 20:40:16](https://news.ycombinator.com/item?id=40620056) - [Gene therapy restores hearing to children with inherited deafness](https://cosmosmagazine.com/science/biology/gene-therapy-restores-hearing-to-children-with-inherited-deafness/)
 * [2024-06-08, 20:37:58](https://news.ycombinator.com/item?id=40620048) - [What makes gambling wrong but insurance right? (2017)](https://www.bbc.com/news/business-38905963)
 * [2024-06-08, 19:38:53](https://news.ycombinator.com/item?id=40619752) - [Creating a matchmaker for your multiplayer game](https://mas-bandwidth.com/creating-a-matchmaker-for-your-multiplayer-game/)
-* [2024-06-08, 18:41:54](https://news.ycombinator.com/item?id=40619445) - [By harnessing wind power, high-tech sails can help cut marine pollution](https://www.economist.com/science-and-technology/2024/05/21/a-new-age-of-sail-begins)
 * [2024-06-08, 16:43:46](https://news.ycombinator.com/item?id=40618766) - [My favorite 1980's Canadian TV show: Bits and Bytes](https://omarshehata.substack.com/p/my-favorite-1980s-canadian-tv-show)
 * [2024-06-08, 16:05:45](https://news.ycombinator.com/item?id=40618459) - [Detecting a PS2 Emulator: When 1*X does not equal X](https://fobes.dev/ps2/detecting-emu-vu-floats)
 * [2024-06-08, 15:17:53](https://news.ycombinator.com/item?id=40618079) - [The Backrooms of the Internet Archive](https://blog.archive.org/2024/06/01/the-backrooms-of-the-internet-archive/)
