@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-09](index.md)
 
+* [2024-06-09, 15:56:23](https://news.ycombinator.com/item?id=40625307) - [With congestion pricing stop, New York City enters new era of economic gridlock](https://www.cnbc.com/2024/06/09/with-congestion-pricing-stop-nyc-enters-new-economic-gridlock-era.html)
 * [2024-06-09, 15:26:16](https://news.ycombinator.com/item?id=40625077) - [Our Fight to Keep the Law Free](https://up.codes/free-law)
 * [2024-06-09, 15:06:50](https://news.ycombinator.com/item?id=40624924) - [The Weird Nerd comes with trade-offs](https://www.writingruxandrabio.com/p/the-weird-nerd-comes-with-trade-offs)
 * [2024-06-09, 14:35:43](https://news.ycombinator.com/item?id=40624709) - [Ultrasonic Investigations in Shopping Centres](https://www.windytan.com/2024/06/ultrasonic-investigations-in-shopping.html)
