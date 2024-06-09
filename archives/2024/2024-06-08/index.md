@@ -10,6 +10,7 @@
 * [2024-06-08, 23:11:59](https://news.ycombinator.com/item?id=40620799) - [AI Appears to Rapidly Be Approaching Brick Wall Where It Can't Get Smarter](https://futurism.com/the-byte/ai-running-out-data-smarter)
 * [2024-06-08, 23:00:28](https://news.ycombinator.com/item?id=40620764) - [Anyone else lurk and feel like they understand nothing?](https://news.ycombinator.com/item?id=40620764)
 * [2024-06-08, 22:55:13](https://news.ycombinator.com/item?id=40620739) - [Viagra improves brain blood flow and could help to prevent dementia](https://www.ox.ac.uk/news/2024-06-07-sildenafil-viagra-improves-brain-blood-flow-and-could-help-prevent-dementia)
+* [2024-06-08, 22:04:24](https://news.ycombinator.com/item?id=40620472) - [Draw an iceberg and see how it will float](https://joshdata.me/iceberger.html)
 * [2024-06-08, 21:50:07](https://news.ycombinator.com/item?id=40620401) - [Evaluation of Machine Learning Primitives on a Digital Signal Processor](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1457863&dswid=-740)
 * [2024-06-08, 20:55:04](https://news.ycombinator.com/item?id=40620122) - [Why do people drop litter?](https://notoriousbfg.com/why-drop-litter/)
 * [2024-06-08, 20:40:16](https://news.ycombinator.com/item?id=40620056) - [Gene therapy restores hearing to children with inherited deafness](https://cosmosmagazine.com/science/biology/gene-therapy-restores-hearing-to-children-with-inherited-deafness/)
