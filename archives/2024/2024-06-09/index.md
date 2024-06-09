@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-06-09](index.md)
 
+* [2024-06-09, 12:03:26](https://news.ycombinator.com/item?id=40623872) - [UpCodes (YC S17) is hiring remote SWEs, PMs to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
+* [2024-06-09, 11:28:40](https://news.ycombinator.com/item?id=40623711) - [Interview with Ton Roosendaal, the man behind Blender(2018)[video]](https://www.youtube.com/watch?v=qJEWOTZnFeg)
 * [2024-06-09, 11:24:29](https://news.ycombinator.com/item?id=40623695) - [Spanish government to raise minimum age for social media accounts from 14 to 16](https://www.surinenglish.com/spain/the-government-will-raise-the-minimum-age-20240605082629-nt.html)
 * [2024-06-09, 11:13:53](https://news.ycombinator.com/item?id=40623654) - [Discussions: Flat or Threaded? (2006)](https://blog.codinghorror.com/discussions-flat-or-threaded/)
 * [2024-06-09, 11:11:28](https://news.ycombinator.com/item?id=40623644) - [Bird Aren't Real: What one man learned when he made up a conspiracy theory](https://www.thestar.com/politics/federal/he-made-up-a-conspiracy-theory-to-see-how-people-would-respond-to-it-and/article_b15bf5ea-1c4b-11ef-a624-6b03a5ba7502.html)
 * [2024-06-09, 10:48:21](https://news.ycombinator.com/item?id=40623538) - [Napoleon's Traveling Libraries](https://twitter.com/napsarkozy/status/1755629139237671332)
+* [2024-06-09, 10:34:01](https://news.ycombinator.com/item?id=40623463) - [Async Ruby on Rails](https://thoughtbot.com/blog/async-ruby-on-rails)
 * [2024-06-09, 10:10:33](https://news.ycombinator.com/item?id=40623332) - [Tell HN: Domain migrated from Google to Squarespace went down after 1 month](https://news.ycombinator.com/item?id=40623332)
 * [2024-06-09, 10:05:40](https://news.ycombinator.com/item?id=40623307) - [PaddleOCR: Multilingual OCR toolkits based on PaddlePaddle](https://github.com/PaddlePaddle/PaddleOCR)
 * [2024-06-09, 08:38:27](https://news.ycombinator.com/item?id=40622912) - [Högertrafikomläggningen](https://en.wikipedia.org/wiki/Dagen_H)
