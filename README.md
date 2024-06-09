@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-09, 12:19:40](https://news.ycombinator.com/item?id=40623940) - [Venezuela's Last Glacier, Humboldt, Has Melted Away](https://scitechdaily.com/venezuelas-last-glacier-humboldt-has-melted-away/)
 * [2024-06-09, 12:03:26](https://news.ycombinator.com/item?id=40623872) - [UpCodes (YC S17) is hiring remote SWEs, PMs to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
 * [2024-06-09, 11:57:32](https://news.ycombinator.com/item?id=40623843) - [Economic Termites Are Everywhere: stats hide the experience of being cheated](https://www.thebignewsletter.com/p/economic-termites-are-everywhere)
 * [2024-06-09, 11:28:40](https://news.ycombinator.com/item?id=40623711) - [Interview with Ton Roosendaal, the man behind Blender(2018)[video]](https://www.youtube.com/watch?v=qJEWOTZnFeg)
@@ -14,7 +15,6 @@
 * [2024-06-08, 22:55:13](https://news.ycombinator.com/item?id=40620739) - [Viagra improves brain blood flow and could help to prevent dementia](https://www.ox.ac.uk/news/2024-06-07-sildenafil-viagra-improves-brain-blood-flow-and-could-help-prevent-dementia)
 * [2024-06-08, 22:04:24](https://news.ycombinator.com/item?id=40620472) - [Draw an iceberg and see how it will float](https://joshdata.me/iceberger.html)
 * [2024-06-08, 20:40:16](https://news.ycombinator.com/item?id=40620056) - [Gene therapy restores hearing to children with inherited deafness](https://cosmosmagazine.com/science/biology/gene-therapy-restores-hearing-to-children-with-inherited-deafness/)
-* [2024-06-08, 20:37:58](https://news.ycombinator.com/item?id=40620048) - [What makes gambling wrong but insurance right? (2017)](https://www.bbc.com/news/business-38905963)
 * [2024-06-08, 19:38:53](https://news.ycombinator.com/item?id=40619752) - [Creating a matchmaker for your multiplayer game](https://mas-bandwidth.com/creating-a-matchmaker-for-your-multiplayer-game/)
 * [2024-06-08, 18:41:54](https://news.ycombinator.com/item?id=40619445) - [By harnessing wind power, high-tech sails can help cut marine pollution](https://www.economist.com/science-and-technology/2024/05/21/a-new-age-of-sail-begins)
 * [2024-06-08, 16:43:46](https://news.ycombinator.com/item?id=40618766) - [My favorite 1980's Canadian TV show: Bits and Bytes](https://omarshehata.substack.com/p/my-favorite-1980s-canadian-tv-show)

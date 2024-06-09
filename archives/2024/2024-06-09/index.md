@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-09](index.md)
 
+* [2024-06-09, 12:19:40](https://news.ycombinator.com/item?id=40623940) - [Venezuela's Last Glacier, Humboldt, Has Melted Away](https://scitechdaily.com/venezuelas-last-glacier-humboldt-has-melted-away/)
 * [2024-06-09, 12:03:26](https://news.ycombinator.com/item?id=40623872) - [UpCodes (YC S17) is hiring remote SWEs, PMs to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
 * [2024-06-09, 11:57:32](https://news.ycombinator.com/item?id=40623843) - [Economic Termites Are Everywhere: stats hide the experience of being cheated](https://www.thebignewsletter.com/p/economic-termites-are-everywhere)
 * [2024-06-09, 11:28:40](https://news.ycombinator.com/item?id=40623711) - [Interview with Ton Roosendaal, the man behind Blender(2018)[video]](https://www.youtube.com/watch?v=qJEWOTZnFeg)
