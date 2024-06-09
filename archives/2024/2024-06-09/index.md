@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-09](index.md)
 
+* [2024-06-09, 14:15:06](https://news.ycombinator.com/item?id=40624563) - [Teams of LLM Agents Can Exploit Zero-Day Vulnerabilities](https://arxiv.org/abs/2406.01637)
 * [2024-06-09, 13:40:08](https://news.ycombinator.com/item?id=40624366) - [The Era of the Autodidact Is Here](https://medium.com/swlh/the-era-of-the-autodidact-has-arrived-9fb085cc51af)
 * [2024-06-09, 13:22:57](https://news.ycombinator.com/item?id=40624255) - [Code of Hammurabi](https://en.wikipedia.org/wiki/Code_of_Hammurabi)
 * [2024-06-09, 12:19:40](https://news.ycombinator.com/item?id=40623940) - [Venezuela's Last Glacier, Humboldt, Has Melted Away](https://scitechdaily.com/venezuelas-last-glacier-humboldt-has-melted-away/)
