@@ -21,6 +21,7 @@
 * [2024-06-08, 16:43:46](https://news.ycombinator.com/item?id=40618766) - [My favorite 1980's Canadian TV show: Bits and Bytes](https://omarshehata.substack.com/p/my-favorite-1980s-canadian-tv-show)
 * [2024-06-08, 16:05:45](https://news.ycombinator.com/item?id=40618459) - [Detecting a PS2 Emulator: When 1*X does not equal X](https://fobes.dev/ps2/detecting-emu-vu-floats)
 * [2024-06-08, 15:17:53](https://news.ycombinator.com/item?id=40618079) - [The Backrooms of the Internet Archive](https://blog.archive.org/2024/06/01/the-backrooms-of-the-internet-archive/)
+* [2024-06-08, 12:24:58](https://news.ycombinator.com/item?id=40617082) - [LSP-AI: open-source language server serving as back end for AI code assistance](https://github.com/SilasMarvin/lsp-ai)
 * [2024-06-08, 11:28:41](https://news.ycombinator.com/item?id=40616881) - [A Scheme Primer](https://spritely.institute/static/papers/scheme-primer.html)
 * [2024-06-08, 11:02:32](https://news.ycombinator.com/item?id=40616778) - [Tiny fern has the largest genome of any organism on Earth](https://phys.org/news/2024-05-tiny-fern-largest-genome-earth.html)
 * [2024-06-08, 10:01:56](https://news.ycombinator.com/item?id=40616504) - [StarkeBlog – Reverse Engineering MenuetOS 64 – Primary Boot Loader](https://starkeblog.com/bios/menuetos/2022/09/22/reverse-engineering-menuetos.html)
@@ -29,7 +30,6 @@
 * [2024-06-07, 12:11:17](https://news.ycombinator.com/item?id=40607897) - [The regenerative urban garden I: No-till gardening](https://makegathergrow.com/blog/regenerative-no-till-gardening)
 * [2024-06-06, 22:08:40](https://news.ycombinator.com/item?id=40602928) - [Is there a BNF grammar of the TeX language? (2010)](https://tex.stackexchange.com/questions/4201/is-there-a-bnf-grammar-of-the-tex-language)
 * [2024-06-06, 18:58:20](https://news.ycombinator.com/item?id=40601098) - [Zero Tolerance for Bias](https://queue.acm.org/detail.cfm?id=3664645)
-* [2024-06-06, 14:35:09](https://news.ycombinator.com/item?id=40597904) - [The Lost Art of the Negative](https://www.nytimes.com/2024/06/06/arts/film-photography-negatives.html)
 
 ## [Archives](archives/index.md)
 
