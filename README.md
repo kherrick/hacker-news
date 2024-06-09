@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-09, 20:56:29](https://news.ycombinator.com/item?id=40627558) - [How a single ChatGPT mistake cost us $10k](https://asim.bearblog.dev/how-a-single-chatgpt-mistake-cost-us-10000/)
 * [2024-06-09, 20:51:26](https://news.ycombinator.com/item?id=40627522) - [Woman set up a table to share her collection of washers. Nothing was for sale](https://twitter.com/revjaydub/status/1799212814646796648)
+* [2024-06-09, 20:43:24](https://news.ycombinator.com/item?id=40627441) - [How MBAs failed Boeing: Business Case study [video]](https://www.youtube.com/watch?v=AnOqz5TsumU)
 * [2024-06-09, 20:11:09](https://news.ycombinator.com/item?id=40627208) - [British Nuclear Warning System](http://www.ringbell.co.uk/ukwmo/Page211.htm)
+* [2024-06-09, 19:53:10](https://news.ycombinator.com/item?id=40627056) - [A DSL for Implementing Math Functions](https://blog.sigplan.org/2024/06/03/a-dsl-for-implementing-math-functions/)
 * [2024-06-09, 19:42:03](https://news.ycombinator.com/item?id=40626969) - [Libtree: Ldd as a tree saying why a library is found or not](https://github.com/haampie/libtree)
 * [2024-06-09, 19:23:08](https://news.ycombinator.com/item?id=40626807) - [Designing a Lego orrery](https://marian42.de/article/orrery/)
 * [2024-06-09, 19:16:21](https://news.ycombinator.com/item?id=40626764) - [Researcher suggests that gravity can exist without mass](https://phys.org/news/2024-06-gravity-mass-mitigating-hypothetical-dark.html)
@@ -20,7 +21,6 @@
 * [2024-06-09, 07:19:51](https://news.ycombinator.com/item?id=40622634) - [Electric headset for treating depression recommended after NHS trial](https://news.sky.com/story/electric-headset-for-treating-depression-recommended-as-widespread-treatment-after-nhs-trial-13150095)
 * [2024-06-09, 05:07:06](https://news.ycombinator.com/item?id=40622189) - [Betula – federated bookmarking software for the independent web](https://betula.mycorrhiza.wiki/)
 * [2024-06-09, 02:13:49](https://news.ycombinator.com/item?id=40621534) - [Fixing a knockoff Altera USB Blaster that never worked](https://www.downtowndougbrown.com/2024/06/fixing-a-knockoff-altera-usb-blaster-that-never-worked/)
-* [2024-06-09, 00:00:48](https://news.ycombinator.com/item?id=40620955) - [Scalable MatMul-Free Language Modeling](https://arxiv.org/abs/2406.02528)
 * [2024-06-08, 20:40:12](https://news.ycombinator.com/item?id=40620055) - [Claude's Character](https://www.anthropic.com/research/claude-character)
 * [2024-06-08, 19:23:32](https://news.ycombinator.com/item?id=40619664) - [Finding out where syscalls are called from: Stack traces with strace](https://abstractexpr.com/2024/06/08/finding-out-where-syscalls-are-called-from-stack-traces-with-strace/)
 * [2024-06-08, 18:12:09](https://news.ycombinator.com/item?id=40619311) - [Western Pennsylvania dirt is used in the infields of most MLB stadiums (2017)](https://www.post-gazette.com/sports/pirates/2017/08/31/baseball-infield-dirt-mix-prices-duraedge-pnc-park-wrigley-field-duraedge-slippery-rock-soil-pennsylvania/stories/201708310111)
