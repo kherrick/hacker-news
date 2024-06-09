@@ -57,6 +57,7 @@
 * [2024-06-08, 10:01:56](https://news.ycombinator.com/item?id=40616504) - [StarkeBlog – Reverse Engineering MenuetOS 64 – Primary Boot Loader](https://starkeblog.com/bios/menuetos/2022/09/22/reverse-engineering-menuetos.html)
 * [2024-06-08, 10:01:38](https://news.ycombinator.com/item?id=40616503) - [Libg203lightsync: Lib for interacting with the Logitech G203 LS mouse](https://github.com/carlos-menezes/libg203lightsync)
 * [2024-06-08, 10:00:07](https://news.ycombinator.com/item?id=40616500) - [Cars Are Way Less Colorful Today Than They Were 20 Years Ago: Study](https://www.thedrive.com/news/cars-are-way-less-colorful-today-than-they-were-20-years-ago-study)
+* [2024-06-08, 09:51:47](https://news.ycombinator.com/item?id=40616467) - [Situational Awareness [pdf]](https://situational-awareness.ai/wp-content/uploads/2024/06/situationalawareness.pdf)
 * [2024-06-08, 09:18:15](https://news.ycombinator.com/item?id=40616347) - [Giant earthworms have transformed the Isle of Rum's landscape](https://theconversation.com/how-giant-earthworms-have-transformed-the-isle-of-rums-landscape-231638)
 * [2024-06-08, 08:27:09](https://news.ycombinator.com/item?id=40616155) - [Truck: a Rust CAD Kernel](https://github.com/ricosjp/truck)
 * [2024-06-08, 08:14:54](https://news.ycombinator.com/item?id=40616121) - [Breaking up is hard to do: Chunking in RAG applications](https://stackoverflow.blog/2024/06/06/breaking-up-is-hard-to-do-chunking-in-rag-applications/)
