@@ -27,6 +27,7 @@
 * [2024-06-09, 17:36:13](https://news.ycombinator.com/item?id=40626058) - [Why no one should use the AT&T syntax ever, for any reason (2021)](https://outerproduct.net/2021-02-13_att-asm.html)
 * [2024-06-09, 17:29:00](https://news.ycombinator.com/item?id=40626014) - [Keylogger discovered in image generator extension](https://old.reddit.com/r/comfyui/comments/1dbls5n/psa_if_youve_used_the_comfyui_llmvision_node_from/)
 * [2024-06-09, 17:28:50](https://news.ycombinator.com/item?id=40626011) - [A look at search engines with their own indexes](https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/)
+* [2024-06-09, 17:21:18](https://news.ycombinator.com/item?id=40625959) - [A new world of DIY medical testing](https://www.washingtonpost.com/technology/2024/06/09/home-health-tests-doctors-fda/)
 * [2024-06-09, 17:02:42](https://news.ycombinator.com/item?id=40625823) - [Strategic Computing Initiative](https://en.wikipedia.org/wiki/Strategic_Computing_Initiative)
 * [2024-06-09, 17:02:42](https://news.ycombinator.com/item?id=40625823) - [DARPA Spent $1B Trying to Build a Real-Life Skynet in the 1980s (2013)](https://paleofuture.com/blog/2013/4/30/darpa-spent-1-billion-trying-to-build-a-real-life-skynet-in-the-1980s)
 * [2024-06-09, 17:00:22](https://news.ycombinator.com/item?id=40625800) - [Is KDB a sane choice for a datalake in 2024?](https://news.ycombinator.com/item?id=40625800)

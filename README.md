@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-09, 22:11:58](https://news.ycombinator.com/item?id=40628050) - [The Functional Programming Hiring Problem](https://blog.janissary.xyz/posts/hiring-functional-programming)
 * [2024-06-09, 21:56:04](https://news.ycombinator.com/item?id=40627946) - [On being brought up by libertarian economists](https://daviddfriedman.substack.com/p/on-being-brought-up-by-libertarian)
 * [2024-06-09, 21:30:45](https://news.ycombinator.com/item?id=40627786) - [Heretical thoughts about science and society (2005)](https://www.edge.org/conversation/freeman_dyson-heretical-thoughts-about-science-and-society)
 * [2024-06-09, 20:56:29](https://news.ycombinator.com/item?id=40627558) - [A ChatGPT mistake cost us $10k](https://asim.bearblog.dev/how-a-single-chatgpt-mistake-cost-us-10000/)
@@ -11,6 +10,7 @@
 * [2024-06-09, 19:23:08](https://news.ycombinator.com/item?id=40626807) - [Designing a Lego orrery](https://marian42.de/article/orrery/)
 * [2024-06-09, 19:16:21](https://news.ycombinator.com/item?id=40626764) - [Researcher suggests that gravity can exist without mass](https://phys.org/news/2024-06-gravity-mass-mitigating-hypothetical-dark.html)
 * [2024-06-09, 18:13:34](https://news.ycombinator.com/item?id=40626332) - [A Revolution in Biology?](https://www.bitsofwonder.co/p/a-revolution-in-biology)
+* [2024-06-09, 17:21:18](https://news.ycombinator.com/item?id=40625959) - [A new world of DIY medical testing](https://www.washingtonpost.com/technology/2024/06/09/home-health-tests-doctors-fda/)
 * [2024-06-09, 15:56:23](https://news.ycombinator.com/item?id=40625307) - [With congestion pricing stop, New York City enters new era of economic gridlock](https://www.cnbc.com/2024/06/09/with-congestion-pricing-stop-nyc-enters-new-economic-gridlock-era.html)
 * [2024-06-09, 15:35:21](https://news.ycombinator.com/item?id=40625141) - [A nanoGPT pipeline packed in a spreadsheet](https://github.com/dabochen/spreadsheet-is-all-you-need)
 * [2024-06-09, 15:31:19](https://news.ycombinator.com/item?id=40625107) - [Everything about Mars is the worst (2017)](https://fivethirtyeight.com/features/everything-about-mars-is-the-worst/)
