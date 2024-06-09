@@ -129,6 +129,133 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="40623332">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=40623332"
+              >Tell HN: Domain migrated from Google to Squarespace went down
+              after 1 month</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-06-09 @ 10:10:33</span
+              ><span class="points-container"
+                >Points: <span class="points">13</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40623332"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                After more than 1 month, it randomly went down, at the worst
+                time possible (the weekend, when it's the busiest time for my
+                platform and when all the engineers are off). My company's main
+                domain and email have been down for more than 12 hours and
+                customer support is now asking for us to wait even more.
+              </p>
+              <p>
+                Not very hopeful posting here will help, but thought people
+                should know.
+              </p>
+              <p>Here's the timeline:</p>
+              <p>
+                (1) Saturday, 6PM UTC - our customers start reaching out that
+                they cannot load our platform.
+              </p>
+              <p>
+                DNS requests are returning `ns1.unknown-nameservers.com` and
+                `ns2.unknown-nameservers.com` as the name servers.
+              </p>
+              <p>
+                I send an email to from my personal inbox to my work inbox. It
+                doesn't arrive. So not only my platform is down, most of our
+                customer emails don't arrive too!
+              </p>
+              <p>
+                Trying to access Squarespace account just shows a message that
+                says "This account is currently unavailable. Please contact
+                Customer Care."
+              </p>
+              <p>
+                Panic ensues and me and my co-founder start trying to reach out
+                to customer support via email, their helpdesk, Twitter,
+                Facebook, Linkedin. Even have someone we know who knows a PM at
+                Squarespace escalate our case.
+              </p>
+              <p>
+                Squarespace says they have 24/7 support but we cannot get anyone
+                to respond. Various Facebook and Twitter messages indicate that
+                this happens to others too.
+              </p>
+              <p>
+                (2) Saturday, 11:00 PM UTC - it's been 5 hours. Whatever users
+                were able to access the platform will likely have had their DNS
+                caches updated by now. My co-founder and I decide it's time to
+                migrate to a different domain. So I spend the next 30 minutes
+                deploying and updating third party services with our new domain
+                name. I set up our voicemail to tell people to use the new
+                domain while the main one is down. Hopefully they will find our
+                number even if the main domain is down.
+              </p>
+              <p>
+                (3) Saturday, 11:30 PM UTC - Squarespace still has not responded
+                on any of the channels. But now I notice they changed the name
+                server to `ns-cloud-a1.googledomains.com.`. That's almost
+                correct, but before they were randomly changed by Squarespace,
+                they actually were `ns-cloud-e1.googledomains.com.` (with e
+                instead of a)
+              </p>
+              <p>
+                Next 30 minutes I spend playing the lottery: I keep creating new
+                Cloud DNS zones on GCP hoping that it would be assigned
+                `ns-cloud-a1.googledomains.com.` as the name server (instead of
+                b1, c1, e1 or d1). No luck. Seems GCP is now reserving
+                `ns-cloud-a1.googledomains.com.` so I will need Squarespace to
+                undo whatever they did for this to work.
+              </p>
+              <p>
+                I then send GCP an email asking them to create us a zone with
+                `ns-cloud-a1.googledomains.com.` name server. It seems like
+                their API for creating zones has a parameter called
+                nameServerSets which may help (but the parameter documentation
+                says to contact account manager if we want to use it).
+              </p>
+              <p>
+                (4) Sunday, 01:10 AM UTC - Squarespace finally responds on
+                Facebook and Twitter. They suggest
+                `ns-cloud-a1.googledomains.com.` is a default Squarespace name
+                server and that it shouldn't matter whether it's e1 or a1.
+              </p>
+              <p>
+                They say it doesn't matter, but they refuse to change it back.
+              </p>
+              <p>
+                What's even more frustrating is that I can run `dig
+                @ns-cloud-a1.googledomains.com mydomain.com` and `dig
+                @ns-cloud-e1.googledomains.com mydomain.com` and see that the
+                former doesn't work and the latter does work.
+              </p>
+              <p>
+                They send me a form to submit for account recovery. I submit the
+                form.
+              </p>
+              <p>
+                (5) Sunday, 02:05 AM UTC - Squarespace responds via email to the
+                form I submitted to gain access to my account. They say it will
+                take 1 business day to get a response.
+              </p>
+              <p>
+                (6) Sunday, 10:00 AM UTC - I managed to get some sleep.
+                Squarespace is not responding. All the while thousands of
+                customers are not able to access our platform and missing out on
+                their sales. At least now that I know I've exhausted all the
+                options, I can write this rant.
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="40622799">
           <h3>
             <a
@@ -141,11 +268,11 @@
             <h4>
               <span>2024-06-09 @ 08:10:23</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">18</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40622799"
                   >Comments</a
-                ><span class="descendants">: 20</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -161,11 +288,11 @@
             <h4>
               <span>2024-06-09 @ 08:00:47</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">25</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40622759"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
@@ -180,7 +307,7 @@
             <h4>
               <span>2024-06-09 @ 07:40:25</span
               ><span class="points-container"
-                >Points: <span class="points">120</span></span
+                >Points: <span class="points">128</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40622704"
                   >Comments</a
@@ -200,7 +327,7 @@
             <h4>
               <span>2024-06-09 @ 05:07:06</span
               ><span class="points-container"
-                >Points: <span class="points">28</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40622189"
                   >Comments</a
@@ -240,7 +367,7 @@
             <h4>
               <span>2024-06-09 @ 02:13:49</span
               ><span class="points-container"
-                >Points: <span class="points">90</span></span
+                >Points: <span class="points">91</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40621534"
                   >Comments</a
@@ -279,11 +406,11 @@
             <h4>
               <span>2024-06-09 @ 00:00:48</span
               ><span class="points-container"
-                >Points: <span class="points">106</span></span
+                >Points: <span class="points">107</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40620955"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -301,7 +428,7 @@
             <h4>
               <span>2024-06-08 @ 22:55:13</span
               ><span class="points-container"
-                >Points: <span class="points">286</span></span
+                >Points: <span class="points">288</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40620739"
                   >Comments</a
@@ -320,7 +447,7 @@
             <h4>
               <span>2024-06-08 @ 22:04:24</span
               ><span class="points-container"
-                >Points: <span class="points">112</span></span
+                >Points: <span class="points">113</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40620472"
                   >Comments</a
@@ -342,11 +469,11 @@
             <h4>
               <span>2024-06-08 @ 20:40:16</span
               ><span class="points-container"
-                >Points: <span class="points">309</span></span
+                >Points: <span class="points">316</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40620056"
                   >Comments</a
-                ><span class="descendants">: 136</span></span
+                ><span class="descendants">: 137</span></span
               >
             </h4>
           </section>
@@ -361,7 +488,7 @@
             <h4>
               <span>2024-06-08 @ 20:37:58</span
               ><span class="points-container"
-                >Points: <span class="points">116</span></span
+                >Points: <span class="points">117</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40620048"
                   >Comments</a
@@ -387,28 +514,6 @@
                 ><a href="https://news.ycombinator.com/item?id=40619752"
                   >Comments</a
                 ><span class="descendants">: 23</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="40619445">
-          <h3>
-            <a
-              class="item"
-              href="https://www.economist.com/science-and-technology/2024/05/21/a-new-age-of-sail-begins"
-              >By harnessing wind power, high-tech sails can help cut marine
-              pollution</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-06-08 @ 18:41:54</span
-              ><span class="points-container"
-                >Points: <span class="points">41</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40619445"
-                  >Comments</a
-                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -444,7 +549,7 @@
             <h4>
               <span>2024-06-08 @ 16:05:45</span
               ><span class="points-container"
-                >Points: <span class="points">257</span></span
+                >Points: <span class="points">258</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40618459"
                   >Comments</a
@@ -465,7 +570,7 @@
             <h4>
               <span>2024-06-08 @ 15:17:53</span
               ><span class="points-container"
-                >Points: <span class="points">578</span></span
+                >Points: <span class="points">581</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40618079"
                   >Comments</a
@@ -485,7 +590,7 @@
             <h4>
               <span>2024-06-08 @ 12:24:58</span
               ><span class="points-container"
-                >Points: <span class="points">192</span></span
+                >Points: <span class="points">194</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40617082"
                   >Comments</a
@@ -508,7 +613,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40616966"
                   >Comments</a
-                ><span class="descendants">: 45</span></span
+                ><span class="descendants">: 46</span></span
               >
             </h4>
           </section>
@@ -525,11 +630,11 @@
             <h4>
               <span>2024-06-08 @ 11:02:32</span
               ><span class="points-container"
-                >Points: <span class="points">159</span></span
+                >Points: <span class="points">162</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40616778"
                   >Comments</a
-                ><span class="descendants">: 97</span></span
+                ><span class="descendants">: 98</span></span
               >
             </h4>
           </section>
@@ -546,11 +651,11 @@
             <h4>
               <span>2024-06-08 @ 10:31:19</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40616632"
                   >Comments</a
-                ><span class="descendants">: 43</span></span
+                ><span class="descendants">: 45</span></span
               >
             </h4>
           </section>
@@ -587,7 +692,7 @@
             <h4>
               <span>2024-06-08 @ 06:58:36</span
               ><span class="points-container"
-                >Points: <span class="points">44</span></span
+                >Points: <span class="points">45</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40615808"
                   >Comments</a
@@ -630,7 +735,7 @@
             <h4>
               <span>2024-06-08 @ 06:18:04</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">59</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40615666"
                   >Comments</a
@@ -670,11 +775,11 @@
             <h4>
               <span>2024-06-07 @ 13:34:01</span
               ><span class="points-container"
-                >Points: <span class="points">41</span></span
+                >Points: <span class="points">42</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40608555"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -710,7 +815,7 @@
             <h4>
               <span>2024-06-06 @ 18:58:20</span
               ><span class="points-container"
-                >Points: <span class="points">148</span></span
+                >Points: <span class="points">149</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40601098"
                   >Comments</a
