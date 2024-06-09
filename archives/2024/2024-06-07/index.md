@@ -67,6 +67,7 @@
 * [2024-06-07, 14:12:42](https://news.ycombinator.com/item?id=40608941) - [Show HN: Scipress.io – a Markdown writing platform like Notion Medium MkDocs](https://www.scipress.io/post/kehluzWG8Iq9y1Nu7IMP/docs)
 * [2024-06-07, 14:10:57](https://news.ycombinator.com/item?id=40608919) - [100% of Cancer Patients Cured Long-Term in Human Trial](https://us.gsk.com/en-us/media/press-releases/jemperli-dostarlimab-gxly-trial-continues-to-show-unprecedented-results/)
 * [2024-06-07, 13:42:02](https://news.ycombinator.com/item?id=40608615) - [Italian streets that don't exist on any map](https://www.atlasobscura.com/articles/italian-streets-not-on-map)
+* [2024-06-07, 13:34:01](https://news.ycombinator.com/item?id=40608555) - [Vulkan Tutorial](https://vulkan-tutorial.com/)
 * [2024-06-07, 13:32:26](https://news.ycombinator.com/item?id=40608539) - [Don't name packages common nouns](https://brandur.org/fragments/go-no-common-nouns)
 * [2024-06-07, 13:29:35](https://news.ycombinator.com/item?id=40608523) - [The Man Who Reinvented the Cat](https://www.newyorker.com/magazine/2024/06/10/catland-louis-wain-and-the-great-cat-mania-kathryn-hughes-book-review)
 * [2024-06-07, 13:18:10](https://news.ycombinator.com/item?id=40608439) - [Andrew Ng on AI Regulation](https://twitter.com/AndrewYNg/status/1788648531873628607)
