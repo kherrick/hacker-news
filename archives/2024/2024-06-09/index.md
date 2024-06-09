@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-09](index.md)
 
 * [2024-06-09, 19:27:45](https://news.ycombinator.com/item?id=40626850) - [Want to Pay Cash? That'll Cost You Extra](https://www.wsj.com/personal-finance/paying-cash-fees-reverse-atm-744d1bd6)
+* [2024-06-09, 19:23:08](https://news.ycombinator.com/item?id=40626807) - [Designing a Lego Orrery](https://marian42.de/article/orrery/)
 * [2024-06-09, 19:05:42](https://news.ycombinator.com/item?id=40626692) - [ChatGPT Is Bullshit](https://link.springer.com/article/10.1007/s10676-024-09775-5)
 * [2024-06-09, 18:21:13](https://news.ycombinator.com/item?id=40626383) - [Dad's Diet Before Conception Affects Kids' Health](https://neurosciencenews.com/dad-diet-child-health-26255/)
 * [2024-06-09, 18:13:34](https://news.ycombinator.com/item?id=40626332) - [A Revolution in Biology](https://www.bitsofwonder.co/p/a-revolution-in-biology)
@@ -51,7 +52,9 @@
 * [2024-06-09, 08:10:23](https://news.ycombinator.com/item?id=40622799) - [How many High Streets are there in London?](https://diamondgeezer.blogspot.com/2024/06/londons-high-streets.html)
 * [2024-06-09, 08:00:47](https://news.ycombinator.com/item?id=40622759) - [Remember When You Named Your Girlfriend as a Beneficiary? He Didn't Either](https://www.williamhalaw.com/post/8/)
 * [2024-06-09, 07:55:59](https://news.ycombinator.com/item?id=40622744) - [Volvo to shift EV production to Europe to escape China tariffs](https://www.thetimes.com/business-money/companies/article/volvo-to-shift-ev-production-to-europe-to-escape-china-tariffs-btx9swhr6)
+* [2024-06-09, 07:47:26](https://news.ycombinator.com/item?id=40622724) - [Orwell on the Isle of Jura](https://www.bbc.com/news/articles/cyrrylklzjdo)
 * [2024-06-09, 07:40:25](https://news.ycombinator.com/item?id=40622704) - [piku: The tiniest PaaS you've ever seen](https://github.com/piku/piku)
+* [2024-06-09, 07:19:51](https://news.ycombinator.com/item?id=40622634) - [Electric headset for treating depression recommended after NHS trial](https://news.sky.com/story/electric-headset-for-treating-depression-recommended-as-widespread-treatment-after-nhs-trial-13150095)
 * [2024-06-09, 06:05:21](https://news.ycombinator.com/item?id=40622384) - [We went solar and here are the real numbers (2011)](https://joshuatauberer.medium.com/we-went-solar-and-here-are-the-real-numbers-7a7f28d51897)
 * [2024-06-09, 05:07:06](https://news.ycombinator.com/item?id=40622189) - [Betula – federated bookmarking software for the independent web](https://betula.mycorrhiza.wiki/)
 * [2024-06-09, 04:22:39](https://news.ycombinator.com/item?id=40622022) - [Decent Patterns](https://decentpatterns.com/)
