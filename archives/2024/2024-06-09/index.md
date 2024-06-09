@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-09](index.md)
 
+* [2024-06-09, 16:50:12](https://news.ycombinator.com/item?id=40625727) - [Steve Jackson Games, Inc. vs. United States Secret Service (1993)](https://en.wikipedia.org/wiki/Steve_Jackson_Games,_Inc._v._United_States_Secret_Service)
+* [2024-06-09, 16:40:35](https://news.ycombinator.com/item?id=40625638) - [US hits 180 GW of solar power](https://www.freethink.com/energy/solar-power-in-the-us)
+* [2024-06-09, 16:37:04](https://news.ycombinator.com/item?id=40625614) - [Tesla Threatens Customer with $50K Fine If He Tries to Sell His Cybertruck](https://jalopnik.com/tesla-threatens-customer-threatened-with-50-000-fine-i-1851521421)
 * [2024-06-09, 16:06:46](https://news.ycombinator.com/item?id=40625388) - [A physicist runs the math on direct air capture and warns it's a distraction](https://www.wired.com/story/the-stupendous-energy-cost-of-direct-air-capture/)
 * [2024-06-09, 15:56:23](https://news.ycombinator.com/item?id=40625307) - [With congestion pricing stop, New York City enters new era of economic gridlock](https://www.cnbc.com/2024/06/09/with-congestion-pricing-stop-nyc-enters-new-economic-gridlock-era.html)
 * [2024-06-09, 15:26:16](https://news.ycombinator.com/item?id=40625077) - [Our Fight to Keep the Law Free](https://up.codes/free-law)
