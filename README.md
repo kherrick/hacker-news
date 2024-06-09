@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-09, 19:27:45](https://news.ycombinator.com/item?id=40626850) - [Want to Pay Cash? That'll Cost You Extra](https://www.wsj.com/personal-finance/paying-cash-fees-reverse-atm-744d1bd6)
 * [2024-06-09, 18:13:34](https://news.ycombinator.com/item?id=40626332) - [A Revolution in Biology](https://www.bitsofwonder.co/p/a-revolution-in-biology)
 * [2024-06-09, 17:36:13](https://news.ycombinator.com/item?id=40626058) - [No one should use the AT&T syntax (2021)](https://outerproduct.net/2021-02-13_att-asm.html)
 * [2024-06-09, 17:29:00](https://news.ycombinator.com/item?id=40626014) - [Keylogger discovered in image generator extension](https://old.reddit.com/r/comfyui/comments/1dbls5n/psa_if_youve_used_the_comfyui_llmvision_node_from/)
@@ -14,6 +13,7 @@
 * [2024-06-09, 12:03:26](https://news.ycombinator.com/item?id=40623872) - [UpCodes (YC S17) is hiring remote SWEs, PMs to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
 * [2024-06-09, 11:28:40](https://news.ycombinator.com/item?id=40623711) - [Interview with Ton Roosendaal, the man behind Blender (2018) [video]](https://www.youtube.com/watch?v=qJEWOTZnFeg)
 * [2024-06-09, 10:49:12](https://news.ycombinator.com/item?id=40623542) - [KickC is a C-compiler for 6502-based platforms creating readable assembler code](https://gitlab.com/camelot/kickc)
+* [2024-06-09, 09:11:07](https://news.ycombinator.com/item?id=40623048) - [So you want to build a browser engine](https://robert.ocallahan.org/2024/06/browser-engine.html)
 * [2024-06-09, 08:38:27](https://news.ycombinator.com/item?id=40622912) - [Högertrafikomläggningen](https://en.wikipedia.org/wiki/Dagen_H)
 * [2024-06-09, 07:40:25](https://news.ycombinator.com/item?id=40622704) - [Piku: Allows git push deployments to your own servers](https://github.com/piku/piku)
 * [2024-06-09, 05:07:06](https://news.ycombinator.com/item?id=40622189) - [Betula – federated bookmarking software for the independent web](https://betula.mycorrhiza.wiki/)
@@ -24,7 +24,7 @@
 * [2024-06-08, 15:17:53](https://news.ycombinator.com/item?id=40618079) - [The Backrooms of the Internet Archive](https://blog.archive.org/2024/06/01/the-backrooms-of-the-internet-archive/)
 * [2024-06-08, 12:24:58](https://news.ycombinator.com/item?id=40617082) - [LSP-AI: open-source language server serving as back end for AI code assistance](https://github.com/SilasMarvin/lsp-ai)
 * [2024-06-08, 11:54:08](https://news.ycombinator.com/item?id=40616966) - [Garbage collect your technical debt (2021)](https://ieeexplore.ieee.org/document/9520328)
-* [2024-06-08, 11:41:42](https://news.ycombinator.com/item?id=40616927) - [How a Cable Changed Finance](https://tontinecoffeehouse.com/2019/10/14/how-a-cable-changed-finance/)
+* [2024-06-08, 11:41:42](https://news.ycombinator.com/item?id=40616927) - [How the transatlantic telegraph cable changed finance (2019)](https://tontinecoffeehouse.com/2019/10/14/how-a-cable-changed-finance/)
 * [2024-06-08, 10:02:15](https://news.ycombinator.com/item?id=40616509) - [Show HN: I wrote a partial re-implementation of DirectMusic](https://github.com/GothicKit/dmusic)
 * [2024-06-08, 10:01:38](https://news.ycombinator.com/item?id=40616503) - [Libg203lightsync: Lib for interacting with the Logitech G203 LS mouse](https://github.com/carlos-menezes/libg203lightsync)
 * [2024-06-08, 06:18:04](https://news.ycombinator.com/item?id=40615666) - [Compilers are too smart](http://msinilo.pl/blog2/post/compilers-are-too-smart/)

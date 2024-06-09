@@ -45,6 +45,7 @@
 * [2024-06-09, 10:34:01](https://news.ycombinator.com/item?id=40623463) - [Async Ruby on Rails](https://thoughtbot.com/blog/async-ruby-on-rails)
 * [2024-06-09, 10:10:33](https://news.ycombinator.com/item?id=40623332) - [Tell HN: Domain migrated from Google to Squarespace went down after 1 month](https://news.ycombinator.com/item?id=40623332)
 * [2024-06-09, 10:05:40](https://news.ycombinator.com/item?id=40623307) - [PaddleOCR: Multilingual OCR toolkits based on PaddlePaddle](https://github.com/PaddlePaddle/PaddleOCR)
+* [2024-06-09, 09:11:07](https://news.ycombinator.com/item?id=40623048) - [So you want to build a browser engine](https://robert.ocallahan.org/2024/06/browser-engine.html)
 * [2024-06-09, 08:38:27](https://news.ycombinator.com/item?id=40622912) - [Högertrafikomläggningen](https://en.wikipedia.org/wiki/Dagen_H)
 * [2024-06-09, 08:21:29](https://news.ycombinator.com/item?id=40622851) - [Shrink the Economy, Save the World?](https://www.nytimes.com/2024/06/08/books/review/shrink-the-economy-save-the-world.html)
 * [2024-06-09, 08:10:23](https://news.ycombinator.com/item?id=40622799) - [How many High Streets are there in London?](https://diamondgeezer.blogspot.com/2024/06/londons-high-streets.html)
