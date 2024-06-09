@@ -26,8 +26,8 @@
 * [2024-06-07, 19:57:46](https://news.ycombinator.com/item?id=40612329) - [K-D Tree Art Generator](https://colab.research.google.com/drive/1Ou3WRwicz31enMKVWl5v4F1f1_haSlTI?usp=sharing)
 * [2024-06-07, 19:55:54](https://news.ycombinator.com/item?id=40612314) - [Morphing Arbitrary Paths in SVG](https://minus-ze.ro/posts/morphing-arbitrary-paths-in-svg/)
 * [2024-06-07, 15:45:09](https://news.ycombinator.com/item?id=40609753) - [In highly connected networks, there's always a loop](https://www.quantamagazine.org/in-highly-connected-networks-theres-always-a-loop-20240607/)
-* [2024-06-07, 13:04:40](https://news.ycombinator.com/item?id=40608358) - [I didn't touch a thing – just some cables and a monitor – and my computer broke](https://www.theregister.com/2024/06/07/on_call/)
 * [2024-06-07, 12:11:17](https://news.ycombinator.com/item?id=40607897) - [The regenerative urban garden I: No-till gardening](https://makegathergrow.com/blog/regenerative-no-till-gardening)
+* [2024-06-07, 10:40:54](https://news.ycombinator.com/item?id=40607266) - [Untrusted – a meta-JavaScript adventure game](https://alexnisnevich.github.io/untrusted/)
 * [2024-06-06, 18:58:20](https://news.ycombinator.com/item?id=40601098) - [Zero Tolerance for Bias](https://queue.acm.org/detail.cfm?id=3664645)
 * [2024-06-06, 14:35:09](https://news.ycombinator.com/item?id=40597904) - [The Lost Art of the Negative](https://www.nytimes.com/2024/06/06/arts/film-photography-negatives.html)
 
