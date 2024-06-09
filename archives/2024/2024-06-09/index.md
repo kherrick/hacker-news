@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-06-09](index.md)
 
+* [2024-06-09, 17:36:13](https://news.ycombinator.com/item?id=40626058) - [Why no one should use the AT&T syntax ever, for any reason (2021)](https://outerproduct.net/2021-02-13_att-asm.html)
 * [2024-06-09, 17:29:00](https://news.ycombinator.com/item?id=40626014) - [Keylogger discovered in image generator extension](https://old.reddit.com/r/comfyui/comments/1dbls5n/psa_if_youve_used_the_comfyui_llmvision_node_from/)
 * [2024-06-09, 17:02:42](https://news.ycombinator.com/item?id=40625823) - [Strategic Computing Initiative](https://en.wikipedia.org/wiki/Strategic_Computing_Initiative)
 * [2024-06-09, 17:02:42](https://news.ycombinator.com/item?id=40625823) - [DARPA Spent $1B Trying to Build a Real-Life Skynet in the 1980s (2013)](https://paleofuture.com/blog/2013/4/30/darpa-spent-1-billion-trying-to-build-a-real-life-skynet-in-the-1980s)
+* [2024-06-09, 17:00:22](https://news.ycombinator.com/item?id=40625800) - [Is KDB a sane choice for a datalake in 2024?](https://news.ycombinator.com/item?id=40625800)
 * [2024-06-09, 16:50:12](https://news.ycombinator.com/item?id=40625727) - [Steve Jackson Games, Inc. vs. United States Secret Service (1993)](https://en.wikipedia.org/wiki/Steve_Jackson_Games,_Inc._v._United_States_Secret_Service)
 * [2024-06-09, 16:40:35](https://news.ycombinator.com/item?id=40625638) - [US hits 180 GW of solar power](https://www.freethink.com/energy/solar-power-in-the-us)
 * [2024-06-09, 16:37:04](https://news.ycombinator.com/item?id=40625614) - [Tesla Threatens Customer with $50K Fine If He Tries to Sell His Cybertruck](https://jalopnik.com/tesla-threatens-customer-threatened-with-50-000-fine-i-1851521421)
