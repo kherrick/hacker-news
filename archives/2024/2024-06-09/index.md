@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-09](index.md)
 
+* [2024-06-09, 13:40:08](https://news.ycombinator.com/item?id=40624366) - [The Era of the Autodidact Is Here](https://medium.com/swlh/the-era-of-the-autodidact-has-arrived-9fb085cc51af)
+* [2024-06-09, 13:22:57](https://news.ycombinator.com/item?id=40624255) - [Code of Hammurabi](https://en.wikipedia.org/wiki/Code_of_Hammurabi)
 * [2024-06-09, 12:19:40](https://news.ycombinator.com/item?id=40623940) - [Venezuela's Last Glacier, Humboldt, Has Melted Away](https://scitechdaily.com/venezuelas-last-glacier-humboldt-has-melted-away/)
 * [2024-06-09, 12:03:26](https://news.ycombinator.com/item?id=40623872) - [UpCodes (YC S17) is hiring remote SWEs, PMs to help make buildings cheaper](https://up.codes/careers?utm_source=HN)
 * [2024-06-09, 11:57:32](https://news.ycombinator.com/item?id=40623843) - [Economic Termites Are Everywhere: stats hide the experience of being cheated](https://www.thebignewsletter.com/p/economic-termites-are-everywhere)
