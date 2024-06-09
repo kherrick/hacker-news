@@ -121,6 +121,7 @@
 * [2024-06-06, 05:05:05](https://news.ycombinator.com/item?id=40593707) - [Le vieux Paris n'est plus](https://davidabell.substack.com/p/le-vieux-paris-nest-plus)
 * [2024-06-06, 05:00:25](https://news.ycombinator.com/item?id=40593674) - [Mitsubishi robot solves Rubik's Cube in 0.305s](https://soranews24.com/2024/05/28/mitsubishi-develops-robot-that-solves-rubiks-cube-style-puzzle-in-0-305-seconds%e3%80%90video%e3%80%91/)
 * [2024-06-06, 04:34:57](https://news.ycombinator.com/item?id=40593540) - [TPM GPIO fail: How bad OEM firmware ruins Intel TPM security](https://mkukri.xyz/2024/06/01/tpm-gpio-fail.html)
+* [2024-06-06, 04:04:28](https://news.ycombinator.com/item?id=40593347) - [The Uses and Misuses of Spinoza](https://www.thenation.com/article/culture/spinoza-ian-buruma-review/)
 * [2024-06-06, 03:52:42](https://news.ycombinator.com/item?id=40593275) - [U.S. Clears Way for Antitrust Inquiries of Nvidia, Microsoft and OpenAI](https://www.nytimes.com/2024/06/05/technology/nvidia-microsoft-openai-antitrust-doj-ftc.html)
 * [2024-06-06, 03:19:36](https://news.ycombinator.com/item?id=40593078) - [GameStop stock influencer Roaring Kitty may lose access to E-Trade, report says](https://arstechnica.com/tech-policy/2024/06/gamestop-stock-influencer-roaring-kitty-may-lose-access-to-e-trade-report-says/)
 * [2024-06-06, 03:16:11](https://news.ycombinator.com/item?id=40593060) - [Show HN: Built a free VS Code extension to help share code updates](https://marketplace.visualstudio.com/items?itemName=HarveenAtwal.vscode-publicdev)
