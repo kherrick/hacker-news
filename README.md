@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-09, 16:06:46](https://news.ycombinator.com/item?id=40625388) - [A physicist runs the math on direct air capture and warns it's a distraction](https://www.wired.com/story/the-stupendous-energy-cost-of-direct-air-capture/)
 * [2024-06-09, 15:56:23](https://news.ycombinator.com/item?id=40625307) - [With congestion pricing stop, New York City enters new era of economic gridlock](https://www.cnbc.com/2024/06/09/with-congestion-pricing-stop-nyc-enters-new-economic-gridlock-era.html)
 * [2024-06-09, 15:06:50](https://news.ycombinator.com/item?id=40624924) - [The Weird Nerd comes with trade-offs](https://www.writingruxandrabio.com/p/the-weird-nerd-comes-with-trade-offs)
 * [2024-06-09, 14:35:43](https://news.ycombinator.com/item?id=40624709) - [Ultrasonic Investigations in Shopping Centres](https://www.windytan.com/2024/06/ultrasonic-investigations-in-shopping.html)
@@ -11,6 +10,7 @@
 * [2024-06-09, 11:57:32](https://news.ycombinator.com/item?id=40623843) - [Economic Termites Are Everywhere: stats hide the experience of being cheated](https://www.thebignewsletter.com/p/economic-termites-are-everywhere)
 * [2024-06-09, 11:28:40](https://news.ycombinator.com/item?id=40623711) - [Interview with Ton Roosendaal, the man behind Blender (2018) [video]](https://www.youtube.com/watch?v=qJEWOTZnFeg)
 * [2024-06-09, 10:49:12](https://news.ycombinator.com/item?id=40623542) - [KickC is a C-compiler for 6502-based platforms creating readable assembler code](https://gitlab.com/camelot/kickc)
+* [2024-06-09, 08:38:27](https://news.ycombinator.com/item?id=40622912) - [Högertrafikomläggningen](https://en.wikipedia.org/wiki/Dagen_H)
 * [2024-06-09, 07:40:25](https://news.ycombinator.com/item?id=40622704) - [piku: The tiniest PaaS you've ever seen](https://github.com/piku/piku)
 * [2024-06-09, 05:07:06](https://news.ycombinator.com/item?id=40622189) - [Betula – federated bookmarking software for the independent web](https://betula.mycorrhiza.wiki/)
 * [2024-06-09, 02:13:49](https://news.ycombinator.com/item?id=40621534) - [Fixing a knockoff Altera USB Blaster that never worked](https://www.downtowndougbrown.com/2024/06/fixing-a-knockoff-altera-usb-blaster-that-never-worked/)
