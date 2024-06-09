@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2024-06-09, 13:52:08",
-      "https://news.ycombinator.com/item?id=40624439"
-    ],
-    [
-      "Spam blocklist SORBS closed by its owner, Proofpoint",
-      "https://www.theregister.com/2024/06/07/sorbs_closed/"
-    ]
-  ],
-  [
-    [
       "2024-06-09, 12:05:53",
       "https://news.ycombinator.com/item?id=40623883"
     ],
@@ -247,6 +237,16 @@
     [
       "Show HN: I wrote a partial re-implementation of DirectMusic",
       "https://github.com/GothicKit/dmusic"
+    ]
+  ],
+  [
+    [
+      "2024-06-08, 10:01:38",
+      "https://news.ycombinator.com/item?id=40616503"
+    ],
+    [
+      "Libg203lightsync: Lib for interacting with the Logitech G203 LS mouse",
+      "https://github.com/carlos-menezes/libg203lightsync"
     ]
   ],
   [
