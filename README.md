@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-09, 03:13:29](https://news.ycombinator.com/item?id=40621736) - [The Mere Presence of One's Own Smartphone Reduces Available Cognitive Capacity](https://www.journals.uchicago.edu/doi/10.1086/691462)
+* [2024-06-09, 02:32:27](https://news.ycombinator.com/item?id=40621611) - [Mozilla silently bans 2 anti-state-censorship add-ons in Russia](https://discourse.mozilla.org/t/the-censorship-circumvention-extension-has-disappeared-from-the-russian-version-of-mozilla-addons/130914)
 * [2024-06-09, 02:13:49](https://news.ycombinator.com/item?id=40621534) - [Fixing a knockoff Altera USB Blaster that never worked](https://www.downtowndougbrown.com/2024/06/fixing-a-knockoff-altera-usb-blaster-that-never-worked/)
 * [2024-06-09, 00:10:29](https://news.ycombinator.com/item?id=40620993) - [Synapse bankruptcy trustee says $85M of customer savings is missing](https://www.cnbc.com/2024/06/07/synapse-bankruptcy-trustee-85-million-of-customer-savings-is-missing.html)
 * [2024-06-09, 00:00:48](https://news.ycombinator.com/item?id=40620955) - [Scalable MatMul-Free Language Modeling](https://arxiv.org/abs/2406.02528)
@@ -10,7 +12,6 @@
 * [2024-06-08, 20:40:16](https://news.ycombinator.com/item?id=40620056) - [Gene therapy restores hearing to children with inherited deafness](https://cosmosmagazine.com/science/biology/gene-therapy-restores-hearing-to-children-with-inherited-deafness/)
 * [2024-06-08, 20:37:58](https://news.ycombinator.com/item?id=40620048) - [What makes gambling wrong but insurance right? (2017)](https://www.bbc.com/news/business-38905963)
 * [2024-06-08, 19:38:53](https://news.ycombinator.com/item?id=40619752) - [Creating a matchmaker for your multiplayer game](https://mas-bandwidth.com/creating-a-matchmaker-for-your-multiplayer-game/)
-* [2024-06-08, 18:41:54](https://news.ycombinator.com/item?id=40619445) - [By harnessing wind power, high-tech sails can help cut marine pollution](https://www.economist.com/science-and-technology/2024/05/21/a-new-age-of-sail-begins)
 * [2024-06-08, 16:55:08](https://news.ycombinator.com/item?id=40618841) - [Building a SaaS product with Htmx – Are you sure you need all the complexity?](https://www.chatterpulseai.com/blog/building-a-saas-product-with-htmx/)
 * [2024-06-08, 16:43:46](https://news.ycombinator.com/item?id=40618766) - [My favorite 1980's Canadian TV show: Bits and Bytes](https://omarshehata.substack.com/p/my-favorite-1980s-canadian-tv-show)
 * [2024-06-08, 16:05:45](https://news.ycombinator.com/item?id=40618459) - [Detecting a PS2 Emulator: When 1*X does not equal X](https://fobes.dev/ps2/detecting-emu-vu-floats)
@@ -21,7 +22,6 @@
 * [2024-06-08, 10:02:15](https://news.ycombinator.com/item?id=40616509) - [Show HN: I wrote a partial re-implementation of DirectMusic](https://github.com/GothicKit/dmusic)
 * [2024-06-08, 06:58:36](https://news.ycombinator.com/item?id=40615808) - [BES – OSS Windows software to control per-process CPU usage](https://mion.yosei.fi/BES/)
 * [2024-06-08, 06:30:57](https://news.ycombinator.com/item?id=40615708) - [I Open-Sourced KeyEcho: Fast-Responsive Keyboard Sounds with Every Keystroke](https://webdeveloper.beehiiv.com/p/opensourced-keyecho-fastresponsive-keyboard-sounds-every-keystroke-using-tauri)
-* [2024-06-07, 20:03:35](https://news.ycombinator.com/item?id=40612398) - [Embedding with America's top hostage negotiator](https://www.vanityfair.com/news/story/americas-top-hostage-negotiator-exclusive)
 * [2024-06-07, 19:57:46](https://news.ycombinator.com/item?id=40612329) - [K-D Tree Art Generator](https://colab.research.google.com/drive/1Ou3WRwicz31enMKVWl5v4F1f1_haSlTI?usp=sharing)
 * [2024-06-07, 19:55:54](https://news.ycombinator.com/item?id=40612314) - [Morphing Arbitrary Paths in SVG](https://minus-ze.ro/posts/morphing-arbitrary-paths-in-svg/)
 * [2024-06-07, 19:53:32](https://news.ycombinator.com/item?id=40612281) - [Fighting an anti-doping finding](https://lizzybanks.co.uk/2024/05/15/hello-world/)
