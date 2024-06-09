@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-09](index.md)
 
+* [2024-06-09, 19:27:45](https://news.ycombinator.com/item?id=40626850) - [Want to Pay Cash? That'll Cost You Extra](https://www.wsj.com/personal-finance/paying-cash-fees-reverse-atm-744d1bd6)
 * [2024-06-09, 19:05:42](https://news.ycombinator.com/item?id=40626692) - [ChatGPT Is Bullshit](https://link.springer.com/article/10.1007/s10676-024-09775-5)
 * [2024-06-09, 18:21:13](https://news.ycombinator.com/item?id=40626383) - [Dad's Diet Before Conception Affects Kids' Health](https://neurosciencenews.com/dad-diet-child-health-26255/)
 * [2024-06-09, 18:13:34](https://news.ycombinator.com/item?id=40626332) - [A Revolution in Biology](https://www.bitsofwonder.co/p/a-revolution-in-biology)

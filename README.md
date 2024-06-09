@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-09, 19:05:42](https://news.ycombinator.com/item?id=40626692) - [ChatGPT Is Bullshit](https://link.springer.com/article/10.1007/s10676-024-09775-5)
+* [2024-06-09, 19:27:45](https://news.ycombinator.com/item?id=40626850) - [Want to Pay Cash? That'll Cost You Extra](https://www.wsj.com/personal-finance/paying-cash-fees-reverse-atm-744d1bd6)
 * [2024-06-09, 18:13:34](https://news.ycombinator.com/item?id=40626332) - [A Revolution in Biology](https://www.bitsofwonder.co/p/a-revolution-in-biology)
 * [2024-06-09, 17:36:13](https://news.ycombinator.com/item?id=40626058) - [No one should use the AT&T syntax (2021)](https://outerproduct.net/2021-02-13_att-asm.html)
 * [2024-06-09, 17:29:00](https://news.ycombinator.com/item?id=40626014) - [Keylogger discovered in image generator extension](https://old.reddit.com/r/comfyui/comments/1dbls5n/psa_if_youve_used_the_comfyui_llmvision_node_from/)
 * [2024-06-09, 17:28:50](https://news.ycombinator.com/item?id=40626011) - [A look at search engines with their own indexes (2021)](https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/)
-* [2024-06-09, 17:00:22](https://news.ycombinator.com/item?id=40625800) - [Is KDB a sane choice for a datalake in 2024?](https://news.ycombinator.com/item?id=40625800)
+* [2024-06-09, 17:00:22](https://news.ycombinator.com/item?id=40625800) - [Ask HN: Is KDB a sane choice for a datalake in 2024?](https://news.ycombinator.com/item?id=40625800)
 * [2024-06-09, 15:06:50](https://news.ycombinator.com/item?id=40624924) - [The Weird Nerd comes with trade-offs](https://www.writingruxandrabio.com/p/the-weird-nerd-comes-with-trade-offs)
 * [2024-06-09, 14:35:43](https://news.ycombinator.com/item?id=40624709) - [Ultrasonic investigations in shopping centres](https://www.windytan.com/2024/06/ultrasonic-investigations-in-shopping.html)
 * [2024-06-09, 14:27:04](https://news.ycombinator.com/item?id=40624645) - [SVT-AV1 Encoder and Decoder](https://gitlab.com/AOMediaCodec/SVT-AV1)
