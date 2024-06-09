@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2024-06-09](index.md)
 
 * [2024-06-09, 08:21:29](https://news.ycombinator.com/item?id=40622851) - [Shrink the Economy, Save the World?](https://www.nytimes.com/2024/06/08/books/review/shrink-the-economy-save-the-world.html)
+* [2024-06-09, 07:40:25](https://news.ycombinator.com/item?id=40622704) - [piku: The tiniest PaaS you've ever seen](https://github.com/piku/piku)
 * [2024-06-09, 06:05:21](https://news.ycombinator.com/item?id=40622384) - [We went solar and here are the real numbers (2011)](https://joshuatauberer.medium.com/we-went-solar-and-here-are-the-real-numbers-7a7f28d51897)
+* [2024-06-09, 05:07:06](https://news.ycombinator.com/item?id=40622189) - [Betula – federated bookmarking software for the independent web](https://betula.mycorrhiza.wiki/)
 * [2024-06-09, 04:22:39](https://news.ycombinator.com/item?id=40622022) - [Decent Patterns](https://decentpatterns.com/)
 * [2024-06-09, 04:16:51](https://news.ycombinator.com/item?id=40621998) - [Your Phone, Minus the Distractions](https://getbrick.app/)
 * [2024-06-09, 03:51:58](https://news.ycombinator.com/item?id=40621891) - [Super Heavy landing burn and soft splashdown in the Gulf of Mexico [video]](https://twitter.com/SpaceX/status/1799458854067118450)
