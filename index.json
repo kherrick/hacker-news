@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=40626058"
     ],
     [
-      "Why no one should use the AT&T syntax ever, for any reason (2021)",
+      "No one should use the AT&T syntax (2021)",
       "https://outerproduct.net/2021-02-13_att-asm.html"
     ]
   ],
@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=40626011"
     ],
     [
-      "A look at search engines with their own indexes",
+      "A look at search engines with their own indexes (2021)",
       "https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/"
     ]
   ],
@@ -75,7 +75,7 @@
       "https://news.ycombinator.com/item?id=40624709"
     ],
     [
-      "Ultrasonic Investigations in Shopping Centres",
+      "Ultrasonic investigations in shopping centres",
       "https://www.windytan.com/2024/06/ultrasonic-investigations-in-shopping.html"
     ]
   ],
@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2024-06-09, 08:38:27",
+      "https://news.ycombinator.com/item?id=40622912"
+    ],
+    [
+      "Högertrafikomläggningen",
+      "https://en.wikipedia.org/wiki/Dagen_H"
+    ]
+  ],
+  [
+    [
       "2024-06-09, 07:40:25",
       "https://news.ycombinator.com/item?id=40622704"
     ],
@@ -201,32 +211,32 @@
   ],
   [
     [
-      "2024-06-08, 16:43:46",
-      "https://news.ycombinator.com/item?id=40618766"
-    ],
-    [
-      "My favorite 1980's Canadian TV show: Bits and Bytes",
-      "https://omarshehata.substack.com/p/my-favorite-1980s-canadian-tv-show"
-    ]
-  ],
-  [
-    [
-      "2024-06-08, 16:05:45",
-      "https://news.ycombinator.com/item?id=40618459"
-    ],
-    [
-      "Detecting a PS2 Emulator: When 1*X does not equal X",
-      "https://fobes.dev/ps2/detecting-emu-vu-floats"
-    ]
-  ],
-  [
-    [
       "2024-06-08, 15:17:53",
       "https://news.ycombinator.com/item?id=40618079"
     ],
     [
       "The Backrooms of the Internet Archive",
       "https://blog.archive.org/2024/06/01/the-backrooms-of-the-internet-archive/"
+    ]
+  ],
+  [
+    [
+      "2024-06-08, 12:24:58",
+      "https://news.ycombinator.com/item?id=40617082"
+    ],
+    [
+      "LSP-AI: open-source language server serving as back end for AI code assistance",
+      "https://github.com/SilasMarvin/lsp-ai"
+    ]
+  ],
+  [
+    [
+      "2024-06-08, 11:54:08",
+      "https://news.ycombinator.com/item?id=40616966"
+    ],
+    [
+      "Garbage collect your technical debt (2021)",
+      "https://ieeexplore.ieee.org/document/9520328"
     ]
   ],
   [
@@ -251,12 +261,12 @@
   ],
   [
     [
-      "2024-06-08, 10:02:02",
-      "https://news.ycombinator.com/item?id=40616505"
+      "2024-06-08, 10:01:38",
+      "https://news.ycombinator.com/item?id=40616503"
     ],
     [
-      "Unboxer.tf",
-      "https://unboxer.tf/"
+      "Libg203lightsync: Lib for interacting with the Logitech G203 LS mouse",
+      "https://github.com/carlos-menezes/libg203lightsync"
     ]
   ],
   [
@@ -265,7 +275,7 @@
       "https://news.ycombinator.com/item?id=40615666"
     ],
     [
-      "Compilers Are (Too) Smart",
+      "Compilers are too smart",
       "http://msinilo.pl/blog2/post/compilers-are-too-smart/"
     ]
   ],
@@ -287,16 +297,6 @@
     [
       "Is there a BNF grammar of the TeX language? (2010)",
       "https://tex.stackexchange.com/questions/4201/is-there-a-bnf-grammar-of-the-tex-language"
-    ]
-  ],
-  [
-    [
-      "2024-06-06, 18:58:20",
-      "https://news.ycombinator.com/item?id=40601098"
-    ],
-    [
-      "Zero Tolerance for Bias",
-      "https://queue.acm.org/detail.cfm?id=3664645"
     ]
   ]
 ]
