@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-09](index.md)
 
+* [2024-06-09, 17:02:42](https://news.ycombinator.com/item?id=40625823) - [DARPA Spent $1B Trying to Build a Real-Life Skynet in the 1980s (2013)](https://paleofuture.com/blog/2013/4/30/darpa-spent-1-billion-trying-to-build-a-real-life-skynet-in-the-1980s)
 * [2024-06-09, 16:50:12](https://news.ycombinator.com/item?id=40625727) - [Steve Jackson Games, Inc. vs. United States Secret Service (1993)](https://en.wikipedia.org/wiki/Steve_Jackson_Games,_Inc._v._United_States_Secret_Service)
 * [2024-06-09, 16:40:35](https://news.ycombinator.com/item?id=40625638) - [US hits 180 GW of solar power](https://www.freethink.com/energy/solar-power-in-the-us)
 * [2024-06-09, 16:37:04](https://news.ycombinator.com/item?id=40625614) - [Tesla Threatens Customer with $50K Fine If He Tries to Sell His Cybertruck](https://jalopnik.com/tesla-threatens-customer-threatened-with-50-000-fine-i-1851521421)
@@ -12,6 +13,7 @@
 * [2024-06-09, 15:26:16](https://news.ycombinator.com/item?id=40625077) - [Our Fight to Keep the Law Free](https://up.codes/free-law)
 * [2024-06-09, 15:06:50](https://news.ycombinator.com/item?id=40624924) - [The Weird Nerd comes with trade-offs](https://www.writingruxandrabio.com/p/the-weird-nerd-comes-with-trade-offs)
 * [2024-06-09, 14:35:43](https://news.ycombinator.com/item?id=40624709) - [Ultrasonic Investigations in Shopping Centres](https://www.windytan.com/2024/06/ultrasonic-investigations-in-shopping.html)
+* [2024-06-09, 14:27:04](https://news.ycombinator.com/item?id=40624645) - [SVT-AV1 Encoder and Decoder](https://gitlab.com/AOMediaCodec/SVT-AV1)
 * [2024-06-09, 14:15:06](https://news.ycombinator.com/item?id=40624563) - [Teams of LLM Agents Can Exploit Zero-Day Vulnerabilities](https://arxiv.org/abs/2406.01637)
 * [2024-06-09, 13:52:08](https://news.ycombinator.com/item?id=40624439) - [Spam blocklist SORBS closed by its owner, Proofpoint](https://www.theregister.com/2024/06/07/sorbs_closed/)
 * [2024-06-09, 13:40:08](https://news.ycombinator.com/item?id=40624366) - [The Era of the Autodidact Is Here](https://medium.com/swlh/the-era-of-the-autodidact-has-arrived-9fb085cc51af)
