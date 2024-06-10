@@ -24,12 +24,12 @@
 * [2024-06-08, 20:40:12](https://news.ycombinator.com/item?id=40620055) - [Claude's Character](https://www.anthropic.com/research/claude-character)
 * [2024-06-08, 19:23:32](https://news.ycombinator.com/item?id=40619664) - [Finding out where syscalls are called from: Stack traces with strace](https://abstractexpr.com/2024/06/08/finding-out-where-syscalls-are-called-from-stack-traces-with-strace/)
 * [2024-06-08, 18:48:45](https://news.ycombinator.com/item?id=40619482) - [Interactive Theorem Proving, Guest Lecture – Introduction to HOL [video]](https://www.youtube.com/watch?v=uvMjgKcZDec)
+* [2024-06-08, 18:09:15](https://news.ycombinator.com/item?id=40619297) - [Records of Pompeii's survivors have been found](https://theconversation.com/records-of-pompeiis-survivors-have-been-found-and-archaeologists-are-starting-to-understand-how-they-rebuilt-their-lives-230641)
 * [2024-06-08, 11:42:50](https://news.ycombinator.com/item?id=40616930) - [An Introduction to ARM64 Assembly on Apple Silicon Macs](https://github.com/below/HelloSilicon)
 * [2024-06-08, 00:32:06](https://news.ycombinator.com/item?id=40614308) - [WARC-GPT: An open-source tool for exploring web archives using AI](https://lil.law.harvard.edu/blog/2024/02/12/warc-gpt-an-open-source-tool-for-exploring-web-archives-with-ai/)
 * [2024-06-07, 20:04:19](https://news.ycombinator.com/item?id=40612406) - [My lunches with the queen of cookbooks](https://tastecooking.com/my-lunches-with-judith-jones-the-queen-of-cookbooks/)
 * [2024-06-07, 12:05:54](https://news.ycombinator.com/item?id=40607845) - [Inline Assembly Dangers](https://fobes.dev/general/2024/02/29/inline-assembly-dangers.html)
 * [2024-06-06, 22:46:46](https://news.ycombinator.com/item?id=40603277) - [Bali's stone sarcophagi included global goods](https://www.atlasobscura.com/articles/bali-stone-sarcophagus-artifacts)
-* [2024-06-06, 21:30:19](https://news.ycombinator.com/item?id=40602631) - [A web server running on an old, broken phone](https://compost.party/)
 
 ## [Archives](archives/index.md)
 
