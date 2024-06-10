@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-10, 17:34:38](https://news.ycombinator.com/item?id=40635959) - [OpenAI Welcomes Sarah Friar (CFO) and Kevin Weil (CPO)](https://openai.com/index/openai-welcomes-cfo-cpo/)
 * [2024-06-10, 17:29:26](https://news.ycombinator.com/item?id=40635906) - [Apple unveils iOS 18 with new home screen](https://9to5mac.com/2024/06/10/ios-18-new-features-launch-release-date/)
 * [2024-06-10, 17:15:05](https://news.ycombinator.com/item?id=40635749) - [Apple Debuts VisionOS 2](https://techcrunch.com/2024/06/10/apple-debuts-visionos-2/)
 * [2024-06-10, 17:01:58](https://news.ycombinator.com/item?id=40635628) - [Brainbase (YC W24) Is Hiring Head of Product](https://www.ycombinator.com/companies/brainbase/jobs/W62qIfA-founding-head-of-product)
@@ -20,7 +21,6 @@
 * [2024-06-09, 20:57:15](https://news.ycombinator.com/item?id=40627563) - [Deep Dive into Ownership in Mojo](https://www.modular.com/blog/deep-dive-into-ownership-in-mojo)
 * [2024-06-09, 19:42:03](https://news.ycombinator.com/item?id=40626969) - [Libtree: Ldd as a tree saying why a library is found or not](https://github.com/haampie/libtree)
 * [2024-06-09, 19:23:08](https://news.ycombinator.com/item?id=40626807) - [Designing a Lego orrery](https://marian42.de/article/orrery/)
-* [2024-06-09, 18:13:34](https://news.ycombinator.com/item?id=40626332) - [A Revolution in Biology?](https://www.bitsofwonder.co/p/a-revolution-in-biology)
 * [2024-06-09, 14:35:43](https://news.ycombinator.com/item?id=40624709) - [Ultrasonic investigations in shopping centres](https://www.windytan.com/2024/06/ultrasonic-investigations-in-shopping.html)
 * [2024-06-09, 10:40:27](https://news.ycombinator.com/item?id=40623497) - [Fingerprinting VPNs with Custom Router Firmware [pdf]](https://censorbib.nymity.ch/pdf/Almutairi2024a.pdf)
 * [2024-06-09, 07:31:41](https://news.ycombinator.com/item?id=40622671) - [PiDP-10 – a modern replica of the PDP-10](https://obsolescence.dev/pidp10.html)
