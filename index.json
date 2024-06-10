@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-10, 12:00:20",
+      "https://news.ycombinator.com/item?id=40632641"
+    ],
+    [
+      "Meticulous (YC S21) is hiring to eliminate UI E2E tests",
+      "https://news.ycombinator.com/item?id=40632641"
+    ]
+  ],
+  [
+    [
+      "2024-06-10, 11:58:54",
+      "https://news.ycombinator.com/item?id=40632625"
+    ],
+    [
+      "Senior employees, ordered back to the office, are jumping ship",
+      "https://www.computerworld.com/article/2138277/senior-employees-ordered-back-to-the-office-are-jumping-ship.html"
+    ]
+  ],
+  [
+    [
       "2024-06-10, 10:27:56",
       "https://news.ycombinator.com/item?id=40632027"
     ],
@@ -11,32 +31,12 @@
   ],
   [
     [
-      "2024-06-10, 10:15:08",
-      "https://news.ycombinator.com/item?id=40631959"
-    ],
-    [
-      "Germany trials the four-day workweek: \"Free time is invaluable\"",
-      "https://www.welcometothejungle.com/en/articles/germany-trials-four-day-workweek"
-    ]
-  ],
-  [
-    [
       "2024-06-10, 09:22:40",
       "https://news.ycombinator.com/item?id=40631663"
     ],
     [
       "\"How people fall apart\": The Neuroscience of Burnout",
       "https://yaledailynews.com/blog/2022/03/29/how-people-fall-apart-yale-faculty-discuss-the-impact-of-burnout-on-the-brain/"
-    ]
-  ],
-  [
-    [
-      "2024-06-10, 09:15:08",
-      "https://news.ycombinator.com/item?id=40631623"
-    ],
-    [
-      "Understanding the Burnt-Out Brain",
-      "https://www.neurovine.ai/blog/understanding-the-burntout-brain"
     ]
   ],
   [
@@ -57,16 +57,6 @@
     [
       "WebKit fix: Quirk news.ycombinator to skip TextAutoSizing",
       "https://github.com/WebKit/WebKit/commit/84ae355619354ee1bfa7daaa1fc95565a6726be3"
-    ]
-  ],
-  [
-    [
-      "2024-06-10, 08:26:52",
-      "https://news.ycombinator.com/item?id=40631370"
-    ],
-    [
-      "Elsevier embeds a hash in the PDF metadata that is unique for each download (2022)",
-      "https://social.coop/@jonny/107685726645817029"
     ]
   ],
   [
@@ -151,12 +141,12 @@
   ],
   [
     [
-      "2024-06-09, 11:13:53",
-      "https://news.ycombinator.com/item?id=40623654"
+      "2024-06-09, 12:04:29",
+      "https://news.ycombinator.com/item?id=40623877"
     ],
     [
-      "Discussions: Flat or Threaded? (2006)",
-      "https://blog.codinghorror.com/discussions-flat-or-threaded/"
+      "Show HN: I made a web game that makes practicing basic arithmetic fun",
+      "https://www.worchle.com/mathic/"
     ]
   ],
   [
@@ -197,6 +187,16 @@
     [
       "Piku: Allows git push deployments to your own servers",
       "https://github.com/piku/piku"
+    ]
+  ],
+  [
+    [
+      "2024-06-09, 07:31:41",
+      "https://news.ycombinator.com/item?id=40622671"
+    ],
+    [
+      "PiDP-10 – a modern replica of the PDP-10",
+      "https://obsolescence.dev/pidp10.html"
     ]
   ],
   [
