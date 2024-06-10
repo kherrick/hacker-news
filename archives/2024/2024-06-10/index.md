@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-10](index.md)
 
+* [2024-06-10, 02:48:46](https://news.ycombinator.com/item?id=40629654) - [Gravatar Is Back](https://ma.tt/2024/06/gravatar-is-back/)
 * [2024-06-10, 02:31:40](https://news.ycombinator.com/item?id=40629570) - [Tesla's unsold inventory is creating stockpiles you can see from space](https://sherwood.news/business/elon-musk-tesla-extra-inventory-satellite-imagery/)
 * [2024-06-10, 01:27:56](https://news.ycombinator.com/item?id=40629213) - [Monumental snake engravings of the Orinoco River](https://www.cambridge.org/core/journals/antiquity/article/monumental-snake-engravings-of-the-orinoco-river/147F83AA4381153C4D0F4EA4817B3766)
 * [2024-06-10, 01:17:53](https://news.ycombinator.com/item?id=40629146) - [Show HN: I Build an AI-Powered API That Instantly Obtains Website Information](https://siteprofile.io/)
