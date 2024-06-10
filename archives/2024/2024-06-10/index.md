@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-10](index.md)
 
+* [2024-06-10, 17:15:05](https://news.ycombinator.com/item?id=40635749) - [Apple Debuts VisionOS 2](https://techcrunch.com/2024/06/10/apple-debuts-visionos-2/)
 * [2024-06-10, 17:01:58](https://news.ycombinator.com/item?id=40635628) - [Brainbase (YC W24) Is Hiring Head of Product](https://www.ycombinator.com/companies/brainbase/jobs/W62qIfA-founding-head-of-product)
+* [2024-06-10, 16:52:57](https://news.ycombinator.com/item?id=40635512) - [Evidence for transient morning water frost on the Tharsis volcanoes of Mars](https://www.nature.com/articles/s41561-024-01457-7)
 * [2024-06-10, 16:40:05](https://news.ycombinator.com/item?id=40635397) - [Show HN: Probabilistic Tic-Tac-Toe](https://www.csun.io/2024/06/08/probabilistic-tic-tac-toe.html)
 * [2024-06-10, 16:09:26](https://news.ycombinator.com/item?id=40635092) - [WWDC 2024 [video]](https://www.youtube.com/watch?v=RXeOiIDNNek)
 * [2024-06-10, 15:46:14](https://news.ycombinator.com/item?id=40634823) - [XScreenSaver is available on Android. Google requires a privacy policy](https://chaos.social/@scy/112591102162587559)
