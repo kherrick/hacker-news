@@ -10,3 +10,4 @@
 * [2024-06-10, 01:17:53](https://news.ycombinator.com/item?id=40629146) - [Show HN: I Build an AI-Powered API That Instantly Obtains Website Information](https://siteprofile.io/)
 * [2024-06-10, 01:15:12](https://news.ycombinator.com/item?id=40629131) - [Ken Burns, Faux \"Storyteller\"](https://albertcory50.substack.com/p/ken-burns-faux-storyteller)
 * [2024-06-10, 00:51:03](https://news.ycombinator.com/item?id=40628950) - [Google Mesop: Build web apps in Python](https://github.com/google/mesop)
+* [2024-06-10, 00:27:58](https://news.ycombinator.com/item?id=40628804) - [\"AI-powered\" has become a red flag](https://iml.bearblog.dev/ai-powered-has-become-a-red-flag/)
