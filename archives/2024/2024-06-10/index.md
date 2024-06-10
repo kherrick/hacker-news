@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-06-10](index.md)
 
+* [2024-06-10, 21:42:11](https://news.ycombinator.com/item?id=40639506) - [Apple's On-Device and Server Foundation Models](https://machinelearning.apple.com/research/introducing-apple-foundation-models)
 * [2024-06-10, 21:10:37](https://news.ycombinator.com/item?id=40639148) - [Heard of Idempotency but unsure what it is?](https://timmoth.github.io/AsyncMonolith/posts/idempotency/)
 * [2024-06-10, 21:10:03](https://news.ycombinator.com/item?id=40639137) - [New GitHub Organization for the Swift Project](https://www.swift.org/blog/swiftlang-github/)
 * [2024-06-10, 21:00:43](https://news.ycombinator.com/item?id=40639032) - [Trieve (YC W24) Is Hiring an DevRel Software Engineer](https://www.ycombinator.com/companies/trieve/jobs/2jeeXLs-developer-relations-software-engineer)
+* [2024-06-10, 20:42:04](https://news.ycombinator.com/item?id=40638764) - [The New Math of How Large-Scale Order Emerges](https://www.quantamagazine.org/the-new-math-of-how-large-scale-order-emerges-20240610/)
 * [2024-06-10, 20:40:24](https://news.ycombinator.com/item?id=40638741) - [The British Newspaper Archive](https://www.britishnewspaperarchive.co.uk/)
+* [2024-06-10, 20:19:29](https://news.ycombinator.com/item?id=40638445) - [Printable Popup Horizontal Sundials](https://www.blocklayer.com/sundial-popeng)
 * [2024-06-10, 20:16:33](https://news.ycombinator.com/item?id=40638386) - [Controversial pesticide research all but vanished from a major conference](https://usrtk.org/bees-neonics/entomological-society-america-corporate-partners/)
 * [2024-06-10, 19:38:50](https://news.ycombinator.com/item?id=40637778) - [MS makes 1984-style monitoring, so how does the Linux community respond?](https://github.com/openrecall/openrecall)
 * [2024-06-10, 19:00:26](https://news.ycombinator.com/item?id=40637102) - [Deterioration of Local Community a Major Driver of Loss of Play-Based Childhood](https://www.afterbabel.com/p/community-based-childhood)
