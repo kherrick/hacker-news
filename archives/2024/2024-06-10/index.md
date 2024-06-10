@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-10](index.md)
 
+* [2024-06-10, 21:00:43](https://news.ycombinator.com/item?id=40639032) - [Trieve (YC W24) Is Hiring an DevRel Software Engineer](https://www.ycombinator.com/companies/trieve/jobs/2jeeXLs-developer-relations-software-engineer)
+* [2024-06-10, 20:40:24](https://news.ycombinator.com/item?id=40638741) - [The British Newspaper Archive](https://www.britishnewspaperarchive.co.uk/)
+* [2024-06-10, 19:38:50](https://news.ycombinator.com/item?id=40637778) - [MS makes 1984-style monitoring, so how does the Linux community respond?](https://github.com/openrecall/openrecall)
 * [2024-06-10, 18:55:13](https://news.ycombinator.com/item?id=40636980) - [OpenAI and Apple Announce Partnership](https://openai.com/index/openai-and-apple-announce-partnership/)
 * [2024-06-10, 18:50:53](https://news.ycombinator.com/item?id=40636883) - [The rarest move in chess [video]](https://www.youtube.com/watch?v=iDnW0WiCqNc)
 * [2024-06-10, 18:49:07](https://news.ycombinator.com/item?id=40636854) - [macOS Sequoia Preview](https://www.apple.com/macos/macos-sequoia-preview/)
