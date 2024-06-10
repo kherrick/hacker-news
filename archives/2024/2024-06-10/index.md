@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-06-10](index.md)
 
+* [2024-06-10, 08:53:03](https://news.ycombinator.com/item?id=40631517) - [Patrick Breyer and Pirate Party Lose EU Parliament Seats](https://stackdiary.com/patrick-breyer-and-pirate-party-lose-eu-parliament-seats/)
+* [2024-06-10, 08:38:42](https://news.ycombinator.com/item?id=40631439) - [WebKit Fix: Quirk News.Y Combinator to Skip TextAutoSizing](https://github.com/WebKit/WebKit/commit/84ae355619354ee1bfa7daaa1fc95565a6726be3)
+* [2024-06-10, 08:12:08](https://news.ycombinator.com/item?id=40631309) - [When (if ever) did the Sun set on the British Empire?](https://what-if.xkcd.com/48/)
+* [2024-06-10, 06:10:11](https://news.ycombinator.com/item?id=40630699) - [The Magical Mystery Merge Or Why we run FreeBSD-current at Netflix (2023) [pdf]](https://people.freebsd.org/~gallatin/talks/OpenFest2023.pdf)
 * [2024-06-10, 04:31:59](https://news.ycombinator.com/item?id=40630174) - [Omakub – Opinionated Ubuntu Setup](https://github.com/basecamp/omakub)
 * [2024-06-10, 04:21:25](https://news.ycombinator.com/item?id=40630105) - [Apple WWDC Event Will Show Whether It Can Be a Force in AI Industry](https://www.bloomberg.com/news/articles/2024-06-10/apple-wwdc-event-will-show-whether-it-can-be-a-force-in-ai-industry)
 * [2024-06-10, 04:15:26](https://news.ycombinator.com/item?id=40630067) - [GPT-4 autonomously hacks zero-day security flaws with 53% success rate](https://newatlas.com/technology/gpt4-autonomously-hack-zero-day-security-flaws/)
