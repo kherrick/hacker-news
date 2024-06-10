@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-10](index.md)
 
+* [2024-06-10, 12:24:17](https://news.ycombinator.com/item?id=40632809) - [Tuxedo on ARM Is Coming](https://www.tuxedocomputers.com/en/TUXEDO-on-ARM-is-coming.tuxedo)
 * [2024-06-10, 12:00:20](https://news.ycombinator.com/item?id=40632641) - [Meticulous (YC S21) is hiring to eliminate UI E2E tests](https://news.ycombinator.com/item?id=40632641)
 * [2024-06-10, 11:58:54](https://news.ycombinator.com/item?id=40632625) - [Senior employees, ordered back to the office, are jumping ship](https://www.computerworld.com/article/2138277/senior-employees-ordered-back-to-the-office-are-jumping-ship.html)
 * [2024-06-10, 10:49:16](https://news.ycombinator.com/item?id=40632139) - [Paleontologists Are Fuming over AI Depictions of Prehistoric Animals](https://gizmodo.com/paleontologists-upset-ai-generated-art-dinosaurs-1851503634)
