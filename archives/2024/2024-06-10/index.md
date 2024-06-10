@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-10](index.md)
 
+* [2024-06-10, 14:14:24](https://news.ycombinator.com/item?id=40633902) - [Mexican Computers: A Brief Technical and Historical Overview](https://arxiv.org/abs/2406.04912)
+* [2024-06-10, 13:46:37](https://news.ycombinator.com/item?id=40633666) - [AI Hype is completely out of control – especially since ChatGPT-4o [video]](https://www.youtube.com/watch?v=VctsqOo8wsc)
 * [2024-06-10, 12:57:38](https://news.ycombinator.com/item?id=40633108) - [Ask HN: Was Sun Microsystems the last respectable tech company?](https://news.ycombinator.com/item?id=40633108)
 * [2024-06-10, 12:49:14](https://news.ycombinator.com/item?id=40633020) - [Welcome to the Era of Garbage Film and Television Streaming](https://jacobin.com/2024/06/tv-streaming-private-equity/)
 * [2024-06-10, 12:32:52](https://news.ycombinator.com/item?id=40632881) - [The Meaning of Bitcoin](https://maraoz.com/2024/06/10/bitcoin/)

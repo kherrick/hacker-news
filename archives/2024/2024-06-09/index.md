@@ -60,6 +60,7 @@
 * [2024-06-09, 11:11:28](https://news.ycombinator.com/item?id=40623644) - [Bird Aren't Real: What one man learned when he made up a conspiracy theory](https://www.thestar.com/politics/federal/he-made-up-a-conspiracy-theory-to-see-how-people-would-respond-to-it-and/article_b15bf5ea-1c4b-11ef-a624-6b03a5ba7502.html)
 * [2024-06-09, 10:49:12](https://news.ycombinator.com/item?id=40623542) - [KickC is a C-compiler for 6502-based platforms creating readable assembler code](https://gitlab.com/camelot/kickc)
 * [2024-06-09, 10:48:21](https://news.ycombinator.com/item?id=40623538) - [Napoleon's Traveling Libraries](https://twitter.com/napsarkozy/status/1755629139237671332)
+* [2024-06-09, 10:47:58](https://news.ycombinator.com/item?id=40623536) - [Andrée and the Aeronauts' Voyage to the Top of the World (2013)](https://www.damninteresting.com/andree-and-the-aeronauts-voyage-to-the-top-of-the-world/)
 * [2024-06-09, 10:42:03](https://news.ycombinator.com/item?id=40623504) - [Waiting for PostgreSQL 14: SEARCH and CYCLE clauses](https://www.depesz.com/2021/02/04/waiting-for-postgresql-14-search-and-cycle-clauses/)
 * [2024-06-09, 10:40:27](https://news.ycombinator.com/item?id=40623497) - [Fingerprinting VPNs with Custom Router Firmware [pdf]](https://censorbib.nymity.ch/pdf/Almutairi2024a.pdf)
 * [2024-06-09, 10:34:01](https://news.ycombinator.com/item?id=40623463) - [Async Ruby on Rails](https://thoughtbot.com/blog/async-ruby-on-rails)
