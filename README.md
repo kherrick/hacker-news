@@ -2,7 +2,6 @@
 
 * [2024-06-10, 01:27:56](https://news.ycombinator.com/item?id=40629213) - [Monumental snake engravings of the Orinoco River](https://www.cambridge.org/core/journals/antiquity/article/monumental-snake-engravings-of-the-orinoco-river/147F83AA4381153C4D0F4EA4817B3766)
 * [2024-06-10, 01:17:53](https://news.ycombinator.com/item?id=40629146) - [Show HN: I Build an AI-Powered API That Instantly Obtains Website Information](https://siteprofile.io/)
-* [2024-06-10, 01:15:12](https://news.ycombinator.com/item?id=40629131) - [Ken Burns, Faux \"Storyteller\"](https://albertcory50.substack.com/p/ken-burns-faux-storyteller)
 * [2024-06-10, 00:51:03](https://news.ycombinator.com/item?id=40628950) - [Google Mesop: Build web apps in Python](https://github.com/google/mesop)
 * [2024-06-09, 23:46:29](https://news.ycombinator.com/item?id=40628573) - [Qualcomm Snapdragon X Elite prototype that runs Linux emerges](https://www.techradar.com/pro/qualcomm-snapdragon-x-elite-prototype-that-runs-linux-emerges-from-a-brand-youve-probably-never-heard-of-schenker-tuxedo-has-12-core-cpu-with-32gb-ram-and-surprise-surprise-debian)
 * [2024-06-09, 23:12:20](https://news.ycombinator.com/item?id=40628395) - [\"Confidential\" 988 Conversation Records Shared with Corporations](https://www.madinamerica.com/2024/06/988-records-shared/)
@@ -30,6 +29,7 @@
 * [2024-06-08, 16:23:37](https://news.ycombinator.com/item?id=40618615) - [The South Pole Power Plant (2012)](https://www.jeffreydonenfeld.com/blog/2012/12/the-south-pole-power-plant/)
 * [2024-06-08, 11:42:50](https://news.ycombinator.com/item?id=40616930) - [An Introduction to ARM64 Assembly on Apple Silicon Macs](https://github.com/below/HelloSilicon)
 * [2024-06-08, 00:32:06](https://news.ycombinator.com/item?id=40614308) - [WARC-GPT: An open-source tool for exploring web archives using AI](https://lil.law.harvard.edu/blog/2024/02/12/warc-gpt-an-open-source-tool-for-exploring-web-archives-with-ai/)
+* [2024-06-07, 12:05:54](https://news.ycombinator.com/item?id=40607845) - [(Debugging Story) Inline Assembly Dangers](https://fobes.dev/general/2024/02/29/inline-assembly-dangers.html)
 
 ## [Archives](archives/index.md)
 

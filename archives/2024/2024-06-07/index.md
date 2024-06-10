@@ -80,6 +80,7 @@
 * [2024-06-07, 12:11:17](https://news.ycombinator.com/item?id=40607897) - [The regenerative urban garden I: No-till gardening](https://makegathergrow.com/blog/regenerative-no-till-gardening)
 * [2024-06-07, 12:10:30](https://news.ycombinator.com/item?id=40607889) - [Show HN: E-Paper 7-color display showing the current weather](https://github.com/blixt/sol-mate-eink)
 * [2024-06-07, 12:07:16](https://news.ycombinator.com/item?id=40607864) - [I rage-converted my RTX4090 into an eGPU](https://tanelpoder.com/posts/rtx4090-egpu/)
+* [2024-06-07, 12:05:54](https://news.ycombinator.com/item?id=40607845) - [(Debugging Story) Inline Assembly Dangers](https://fobes.dev/general/2024/02/29/inline-assembly-dangers.html)
 * [2024-06-07, 12:03:22](https://news.ycombinator.com/item?id=40607825) - [Software MVPs can no longer be low quality](https://threadreaderapp.com/thread/1798770556571144638.html)
 * [2024-06-07, 12:00:03](https://news.ycombinator.com/item?id=40607794) - [Deepnote (YC S19) is hiring engineers to build a better Jupyter notebook](https://deepnote.com/join-us)
 * [2024-06-07, 11:53:27](https://news.ycombinator.com/item?id=40607733) - [The illusion of state in state-space models](https://arxiv.org/abs/2404.08819)
