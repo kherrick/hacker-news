@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-10, 21:10:37",
+      "https://news.ycombinator.com/item?id=40639148"
+    ],
+    [
+      "Heard of Idempotency but unsure what it is?",
+      "https://timmoth.github.io/AsyncMonolith/posts/idempotency/"
+    ]
+  ],
+  [
+    [
+      "2024-06-10, 21:10:03",
+      "https://news.ycombinator.com/item?id=40639137"
+    ],
+    [
+      "New GitHub Organization for the Swift Project",
+      "https://www.swift.org/blog/swiftlang-github/"
+    ]
+  ],
+  [
+    [
       "2024-06-10, 21:00:43",
       "https://news.ycombinator.com/item?id=40639032"
     ],
@@ -67,16 +87,6 @@
     [
       "Apple Intelligence for iPhone, iPad, and Mac",
       "https://www.apple.com/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/"
-    ]
-  ],
-  [
-    [
-      "2024-06-10, 18:23:05",
-      "https://news.ycombinator.com/item?id=40636502"
-    ],
-    [
-      "Apple is launching its own password manager app",
-      "https://techcrunch.com/2024/06/10/apple-is-launching-its-own-password-manager-app/"
     ]
   ],
   [
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2024-06-10, 09:02:22",
-      "https://news.ycombinator.com/item?id=40631558"
-    ],
-    [
-      "The Mythical Non-Roboticist: Wouldn't it be great if everyone could do robotics?",
-      "https://spectrum.ieee.org/the-mythical-non-roboticist"
-    ]
-  ],
-  [
-    [
       "2024-06-10, 08:38:42",
       "https://news.ycombinator.com/item?id=40631439"
     ],
@@ -251,6 +251,16 @@
   ],
   [
     [
+      "2024-06-09, 19:59:39",
+      "https://news.ycombinator.com/item?id=40627113"
+    ],
+    [
+      "Researchers demonstrate the first chip-based 3D printer",
+      "https://news.mit.edu/2024/researchers-demonstrate-first-chip-based-3d-printer-0606"
+    ]
+  ],
+  [
+    [
       "2024-06-09, 12:02:19",
       "https://news.ycombinator.com/item?id=40623864"
     ],
@@ -287,16 +297,6 @@
     [
       "Western Pennsylvania dirt is used in the infields of most MLB stadiums (2017)",
       "https://www.post-gazette.com/sports/pirates/2017/08/31/baseball-infield-dirt-mix-prices-duraedge-pnc-park-wrigley-field-duraedge-slippery-rock-soil-pennsylvania/stories/201708310111"
-    ]
-  ],
-  [
-    [
-      "2024-06-08, 10:56:52",
-      "https://news.ycombinator.com/item?id=40616752"
-    ],
-    [
-      "`Bytes`: The Lesser-Known Python Built-In Sequence",
-      "https://www.thepythoncodingstack.com/p/bytes-python-built-in-unicode-utf-8-encoding"
     ]
   ]
 ]
