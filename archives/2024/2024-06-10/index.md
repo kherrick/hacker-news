@@ -63,6 +63,7 @@
 * [2024-06-10, 08:12:08](https://news.ycombinator.com/item?id=40631309) - [When (if ever) did the Sun set on the British Empire?](https://what-if.xkcd.com/48/)
 * [2024-06-10, 07:56:00](https://news.ycombinator.com/item?id=40631233) - [MOOC – free courses from University of Helsinki](https://www.mooc.fi/en/)
 * [2024-06-10, 06:10:11](https://news.ycombinator.com/item?id=40630699) - [The Magical Mystery Merge Or Why we run FreeBSD-current at Netflix (2023) [pdf]](https://people.freebsd.org/~gallatin/talks/OpenFest2023.pdf)
+* [2024-06-10, 06:00:09](https://news.ycombinator.com/item?id=40630656) - [The Engine of the Future](https://c0de517e.com/014_future_engines.htm)
 * [2024-06-10, 04:31:59](https://news.ycombinator.com/item?id=40630174) - [Omakub – Opinionated Ubuntu Setup](https://github.com/basecamp/omakub)
 * [2024-06-10, 04:21:25](https://news.ycombinator.com/item?id=40630105) - [Apple WWDC Event Will Show Whether It Can Be a Force in AI Industry](https://www.bloomberg.com/news/articles/2024-06-10/apple-wwdc-event-will-show-whether-it-can-be-a-force-in-ai-industry)
 * [2024-06-10, 04:15:26](https://news.ycombinator.com/item?id=40630067) - [GPT-4 autonomously hacks zero-day security flaws with 53% success rate](https://newatlas.com/technology/gpt4-autonomously-hack-zero-day-security-flaws/)
