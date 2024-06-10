@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-10, 02:31:40](https://news.ycombinator.com/item?id=40629570) - [Tesla's unsold inventory is creating stockpiles you can see from space](https://sherwood.news/business/elon-musk-tesla-extra-inventory-satellite-imagery/)
 * [2024-06-10, 01:27:56](https://news.ycombinator.com/item?id=40629213) - [Monumental snake engravings of the Orinoco River](https://www.cambridge.org/core/journals/antiquity/article/monumental-snake-engravings-of-the-orinoco-river/147F83AA4381153C4D0F4EA4817B3766)
 * [2024-06-10, 01:17:53](https://news.ycombinator.com/item?id=40629146) - [Show HN: I Build an AI-Powered API That Instantly Obtains Website Information](https://siteprofile.io/)
 * [2024-06-10, 00:51:03](https://news.ycombinator.com/item?id=40628950) - [Google Mesop: Build web apps in Python](https://github.com/google/mesop)
@@ -25,6 +24,7 @@
 * [2024-06-08, 20:40:12](https://news.ycombinator.com/item?id=40620055) - [Claude's Character](https://www.anthropic.com/research/claude-character)
 * [2024-06-08, 19:23:32](https://news.ycombinator.com/item?id=40619664) - [Finding out where syscalls are called from: Stack traces with strace](https://abstractexpr.com/2024/06/08/finding-out-where-syscalls-are-called-from-stack-traces-with-strace/)
 * [2024-06-08, 18:56:29](https://news.ycombinator.com/item?id=40619521) - [Anti-patterns in event-driven architecture](https://codeopinion.com/beware-anti-patterns-in-event-driven-architecture/)
+* [2024-06-08, 18:48:45](https://news.ycombinator.com/item?id=40619482) - [Interactive Theorem Proving, Guest Lecture – Introduction to HOL [video]](https://www.youtube.com/watch?v=uvMjgKcZDec)
 * [2024-06-08, 18:09:15](https://news.ycombinator.com/item?id=40619297) - [Records of Pompeii's survivors have been found](https://theconversation.com/records-of-pompeiis-survivors-have-been-found-and-archaeologists-are-starting-to-understand-how-they-rebuilt-their-lives-230641)
 * [2024-06-08, 16:23:37](https://news.ycombinator.com/item?id=40618615) - [The South Pole Power Plant (2012)](https://www.jeffreydonenfeld.com/blog/2012/12/the-south-pole-power-plant/)
 * [2024-06-08, 11:42:50](https://news.ycombinator.com/item?id=40616930) - [An Introduction to ARM64 Assembly on Apple Silicon Macs](https://github.com/below/HelloSilicon)
