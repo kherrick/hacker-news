@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-06-10](index.md)
 
+* [2024-06-10, 15:17:12](https://news.ycombinator.com/item?id=40634539) - [IRS makes Direct File a permanent option to file federal tax returns](https://www.irs.gov/newsroom/irs-makes-direct-file-a-permanent-option-to-file-federal-tax-returns-expanded-access-for-more-taxpayers-planned-for-the-2025-filing-season)
+* [2024-06-10, 15:09:22](https://news.ycombinator.com/item?id=40634465) - [Gainax, known for 'Evangelion' anime production, goes bankrupt](https://www.japantimes.co.jp/business/2024/06/08/evangelion-anime-production-company-bankrupt/)
+* [2024-06-10, 15:09:13](https://news.ycombinator.com/item?id=40634461) - [NetBSD 10 on a Pinebook Pro laptop](https://www.idatum.net/netbsd-10-on-a-pinebook-pro-laptop.html)
 * [2024-06-10, 15:00:32](https://news.ycombinator.com/item?id=40634365) - [OpenAI Insider Estimates 70% Chance AI Will Destroy or Tragically Harm Humanity](https://futurism.com/the-byte/openai-insider-70-percent-doom)
+* [2024-06-10, 14:41:30](https://news.ycombinator.com/item?id=40634151) - [Tuxedo Developing a Snapdragon X Elite Linux Laptop](https://www.phoronix.com/news/TUXEDO-Snapdragon-X-Elite)
 * [2024-06-10, 14:36:58](https://news.ycombinator.com/item?id=40634116) - [Berkshire Hathaway Doesn't Hold Nvidia Stock](https://www.investopedia.com/berkshire-hathaway-does-not-hold-nvidia-stock-will-warren-buffett-come-to-regret-it-8600072)
 * [2024-06-10, 14:30:27](https://news.ycombinator.com/item?id=40634042) - [23words.com](https://23words.com)
 * [2024-06-10, 14:22:16](https://news.ycombinator.com/item?id=40633971) - [Canada's Parliament Rocked by Allegations of Treason and Foreign Interference](https://www.politico.com/news/2024/06/10/canada-parliament-treason-allegations-00162163)
