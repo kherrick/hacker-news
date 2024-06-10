@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-06-10](index.md)
 
+* [2024-06-10, 18:07:24](https://news.ycombinator.com/item?id=40636331) - [Apple blocks PC emulator in iOS App Store and third-party app stores](https://9to5mac.com/2024/06/09/apple-blocks-pc-emulator-utm-app-store/)
+* [2024-06-10, 18:04:10](https://news.ycombinator.com/item?id=40636292) - [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)
 * [2024-06-10, 17:34:38](https://news.ycombinator.com/item?id=40635959) - [OpenAI Welcomes Sarah Friar (CFO) and Kevin Weil (CPO)](https://openai.com/index/openai-welcomes-cfo-cpo/)
 * [2024-06-10, 17:29:26](https://news.ycombinator.com/item?id=40635906) - [Apple unveils iOS 18 with new home screen](https://9to5mac.com/2024/06/10/ios-18-new-features-launch-release-date/)
+* [2024-06-10, 17:22:46](https://news.ycombinator.com/item?id=40635834) - [Google has been blocking Invidious with error \"This helps protect our community\"](https://github.com/iv-org/invidious/issues/4734)
+* [2024-06-10, 17:18:43](https://news.ycombinator.com/item?id=40635789) - [How Two Rebel Physicists Changed Quantum Theory](https://daily.jstor.org/how-two-rebel-physicists-changed-quantum-theory/)
 * [2024-06-10, 17:15:05](https://news.ycombinator.com/item?id=40635749) - [Apple Debuts VisionOS 2](https://techcrunch.com/2024/06/10/apple-debuts-visionos-2/)
+* [2024-06-10, 17:09:52](https://news.ycombinator.com/item?id=40635697) - [pico9918: A replacement TMS9918A/TMS9929A VDP using a Raspberry Pi Pico](https://github.com/visrealm/pico9918)
 * [2024-06-10, 17:01:58](https://news.ycombinator.com/item?id=40635628) - [Brainbase (YC W24) Is Hiring Head of Product](https://www.ycombinator.com/companies/brainbase/jobs/W62qIfA-founding-head-of-product)
 * [2024-06-10, 16:52:57](https://news.ycombinator.com/item?id=40635512) - [Evidence for transient morning water frost on the Tharsis volcanoes of Mars](https://www.nature.com/articles/s41561-024-01457-7)
 * [2024-06-10, 16:40:05](https://news.ycombinator.com/item?id=40635397) - [Show HN: Probabilistic Tic-Tac-Toe](https://www.csun.io/2024/06/08/probabilistic-tic-tac-toe.html)
