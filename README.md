@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-10, 09:02:22](https://news.ycombinator.com/item?id=40631558) - [Robot Programming: Stop Designing Software for Non-Roboticists](https://spectrum.ieee.org/the-mythical-non-roboticist)
-* [2024-06-10, 08:53:03](https://news.ycombinator.com/item?id=40631517) - [Patrick Breyer and Pirate Party Lose EU Parliament Seats](https://stackdiary.com/patrick-breyer-and-pirate-party-lose-eu-parliament-seats/)
 * [2024-06-10, 08:38:42](https://news.ycombinator.com/item?id=40631439) - [WebKit fix: Quirk news.ycombinator to skip TextAutoSizing](https://github.com/WebKit/WebKit/commit/84ae355619354ee1bfa7daaa1fc95565a6726be3)
 * [2024-06-10, 08:26:52](https://news.ycombinator.com/item?id=40631370) - [Elsevier embeds a hash in the PDF metadata that is unique for each download](https://social.coop/@jonny/107685726645817029)
+* [2024-06-10, 08:22:36](https://news.ycombinator.com/item?id=40631350) - [Perl v5.40.0 is now available](https://perldoc.perl.org/perldelta)
 * [2024-06-10, 08:12:08](https://news.ycombinator.com/item?id=40631309) - [When (if ever) did the Sun set on the British Empire?](https://what-if.xkcd.com/48/)
 * [2024-06-10, 06:10:11](https://news.ycombinator.com/item?id=40630699) - [The Magical Mystery Merge Or Why we run FreeBSD-current at Netflix (2023) [pdf]](https://people.freebsd.org/~gallatin/talks/OpenFest2023.pdf)
 * [2024-06-10, 03:26:32](https://news.ycombinator.com/item?id=40629849) - [It is time for more holistic practices in mental health](https://journals.plos.org/mentalhealth/article?id=10.1371/journal.pmen.0000028)
@@ -21,6 +21,7 @@
 * [2024-06-09, 09:11:07](https://news.ycombinator.com/item?id=40623048) - [So you want to build a browser engine](https://robert.ocallahan.org/2024/06/browser-engine.html)
 * [2024-06-09, 08:10:23](https://news.ycombinator.com/item?id=40622799) - [How many High Streets are there in London?](https://diamondgeezer.blogspot.com/2024/06/londons-high-streets.html)
 * [2024-06-09, 07:40:25](https://news.ycombinator.com/item?id=40622704) - [Piku: Allows git push deployments to your own servers](https://github.com/piku/piku)
+* [2024-06-09, 05:14:51](https://news.ycombinator.com/item?id=40622209) - [Scratchapixel 4.0, Learn Computer Graphics Programming](https://www.scratchapixel.com/index.html)
 * [2024-06-09, 05:07:14](https://news.ycombinator.com/item?id=40622191) - [Dmv.org](https://computer.rip/2024-06-08-dmv.org.html)
 * [2024-06-08, 20:40:12](https://news.ycombinator.com/item?id=40620055) - [Claude's Character](https://www.anthropic.com/research/claude-character)
 * [2024-06-08, 19:23:32](https://news.ycombinator.com/item?id=40619664) - [Finding out where syscalls are called from: Stack traces with strace](https://abstractexpr.com/2024/06/08/finding-out-where-syscalls-are-called-from-stack-traces-with-strace/)
@@ -29,7 +30,6 @@
 * [2024-06-08, 00:32:06](https://news.ycombinator.com/item?id=40614308) - [WARC-GPT: An open-source tool for exploring web archives using AI](https://lil.law.harvard.edu/blog/2024/02/12/warc-gpt-an-open-source-tool-for-exploring-web-archives-with-ai/)
 * [2024-06-07, 20:04:19](https://news.ycombinator.com/item?id=40612406) - [My lunches with the queen of cookbooks](https://tastecooking.com/my-lunches-with-judith-jones-the-queen-of-cookbooks/)
 * [2024-06-07, 12:05:54](https://news.ycombinator.com/item?id=40607845) - [Inline Assembly Dangers](https://fobes.dev/general/2024/02/29/inline-assembly-dangers.html)
-* [2024-06-06, 22:46:46](https://news.ycombinator.com/item?id=40603277) - [Bali's stone sarcophagi included global goods](https://www.atlasobscura.com/articles/bali-stone-sarcophagus-artifacts)
 
 ## [Archives](archives/index.md)
 
