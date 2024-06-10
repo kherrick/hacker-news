@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-10, 12:32:52](https://news.ycombinator.com/item?id=40632881) - [The Meaning of Bitcoin](https://maraoz.com/2024/06/10/bitcoin/)
 * [2024-06-10, 12:24:17](https://news.ycombinator.com/item?id=40632809) - [Tuxedo on ARM Is Coming](https://www.tuxedocomputers.com/en/TUXEDO-on-ARM-is-coming.tuxedo)
+* [2024-06-10, 12:19:46](https://news.ycombinator.com/item?id=40632773) - [Show HN: Markdown HN profiles at {user}.at.hn](https://at.hn)
 * [2024-06-10, 12:00:20](https://news.ycombinator.com/item?id=40632641) - [Meticulous (YC S21) is hiring to eliminate UI E2E tests](https://news.ycombinator.com/item?id=40632641)
 * [2024-06-10, 11:58:54](https://news.ycombinator.com/item?id=40632625) - [Senior employees, ordered back to the office, are jumping ship](https://www.computerworld.com/article/2138277/senior-employees-ordered-back-to-the-office-are-jumping-ship.html)
 * [2024-06-10, 10:27:56](https://news.ycombinator.com/item?id=40632027) - [First detection of negative ions on the Moon](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/First_detection_of_negative_ions_on_the_Moon)
@@ -15,7 +17,6 @@
 * [2024-06-09, 15:06:50](https://news.ycombinator.com/item?id=40624924) - [The Weird Nerd comes with trade-offs](https://www.writingruxandrabio.com/p/the-weird-nerd-comes-with-trade-offs)
 * [2024-06-09, 14:35:43](https://news.ycombinator.com/item?id=40624709) - [Ultrasonic investigations in shopping centres](https://www.windytan.com/2024/06/ultrasonic-investigations-in-shopping.html)
 * [2024-06-09, 12:05:53](https://news.ycombinator.com/item?id=40623883) - [Show HN: We've open-sourced our LLM attention visualization library](https://github.com/labmlai/inspectus)
-* [2024-06-09, 11:13:53](https://news.ycombinator.com/item?id=40623654) - [Discussions: Flat or Threaded? (2006)](https://blog.codinghorror.com/discussions-flat-or-threaded/)
 * [2024-06-09, 10:40:27](https://news.ycombinator.com/item?id=40623497) - [Fingerprinting VPNs with Custom Router Firmware [pdf]](https://censorbib.nymity.ch/pdf/Almutairi2024a.pdf)
 * [2024-06-09, 09:11:07](https://news.ycombinator.com/item?id=40623048) - [So you want to build a browser engine](https://robert.ocallahan.org/2024/06/browser-engine.html)
 * [2024-06-09, 08:10:23](https://news.ycombinator.com/item?id=40622799) - [How many High Streets are there in London?](https://diamondgeezer.blogspot.com/2024/06/londons-high-streets.html)
@@ -29,7 +30,6 @@
 * [2024-06-08, 00:32:06](https://news.ycombinator.com/item?id=40614308) - [WARC-GPT: An open-source tool for exploring web archives using AI](https://lil.law.harvard.edu/blog/2024/02/12/warc-gpt-an-open-source-tool-for-exploring-web-archives-with-ai/)
 * [2024-06-07, 20:04:19](https://news.ycombinator.com/item?id=40612406) - [My lunches with the queen of cookbooks](https://tastecooking.com/my-lunches-with-judith-jones-the-queen-of-cookbooks/)
 * [2024-06-07, 12:05:54](https://news.ycombinator.com/item?id=40607845) - [Inline Assembly Dangers](https://fobes.dev/general/2024/02/29/inline-assembly-dangers.html)
-* [2024-06-06, 22:46:46](https://news.ycombinator.com/item?id=40603277) - [Bali's stone sarcophagi included global goods](https://www.atlasobscura.com/articles/bali-stone-sarcophagus-artifacts)
 
 ## [Archives](archives/index.md)
 
