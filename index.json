@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-06-10, 00:51:03",
+      "https://news.ycombinator.com/item?id=40628950"
+    ],
+    [
+      "Google Mesop: Build web apps in Python",
+      "https://github.com/google/mesop"
+    ]
+  ],
+  [
+    [
       "2024-06-09, 23:46:29",
       "https://news.ycombinator.com/item?id=40628573"
     ],
     [
       "Qualcomm Snapdragon X Elite prototype that runs Linux emerges",
       "https://www.techradar.com/pro/qualcomm-snapdragon-x-elite-prototype-that-runs-linux-emerges-from-a-brand-youve-probably-never-heard-of-schenker-tuxedo-has-12-core-cpu-with-32gb-ram-and-surprise-surprise-debian"
+    ]
+  ],
+  [
+    [
+      "2024-06-09, 23:12:20",
+      "https://news.ycombinator.com/item?id=40628395"
+    ],
+    [
+      "\"Confidential\" 988 Conversation Records Shared with Corporations",
+      "https://www.madinamerica.com/2024/06/988-records-shared/"
+    ]
+  ],
+  [
+    [
+      "2024-06-09, 22:11:58",
+      "https://news.ycombinator.com/item?id=40628050"
+    ],
+    [
+      "The Functional Programming Hiring Problem",
+      "https://blog.janissary.xyz/posts/hiring-functional-programming"
     ]
   ],
   [
@@ -91,16 +121,6 @@
   ],
   [
     [
-      "2024-06-09, 19:16:21",
-      "https://news.ycombinator.com/item?id=40626764"
-    ],
-    [
-      "Researcher suggests that gravity can exist without mass",
-      "https://phys.org/news/2024-06-gravity-mass-mitigating-hypothetical-dark.html"
-    ]
-  ],
-  [
-    [
       "2024-06-09, 18:13:34",
       "https://news.ycombinator.com/item?id=40626332"
     ],
@@ -131,22 +151,22 @@
   ],
   [
     [
-      "2024-06-09, 15:35:21",
-      "https://news.ycombinator.com/item?id=40625141"
-    ],
-    [
-      "A nanoGPT pipeline packed in a spreadsheet",
-      "https://github.com/dabochen/spreadsheet-is-all-you-need"
-    ]
-  ],
-  [
-    [
       "2024-06-09, 15:31:19",
       "https://news.ycombinator.com/item?id=40625107"
     ],
     [
       "Everything about Mars is the worst (2017)",
       "https://fivethirtyeight.com/features/everything-about-mars-is-the-worst/"
+    ]
+  ],
+  [
+    [
+      "2024-06-09, 15:06:50",
+      "https://news.ycombinator.com/item?id=40624924"
+    ],
+    [
+      "The Weird Nerd comes with trade-offs",
+      "https://www.writingruxandrabio.com/p/the-weird-nerd-comes-with-trade-offs"
     ]
   ],
   [
@@ -171,32 +191,22 @@
   ],
   [
     [
-      "2024-06-09, 12:03:26",
-      "https://news.ycombinator.com/item?id=40623872"
-    ],
-    [
-      "UpCodes (YC S17) is hiring remote SWEs, PMs to help make buildings cheaper",
-      "https://up.codes/careers?utm_source=HN"
-    ]
-  ],
-  [
-    [
-      "2024-06-09, 09:11:07",
-      "https://news.ycombinator.com/item?id=40623048"
-    ],
-    [
-      "So you want to build a browser engine",
-      "https://robert.ocallahan.org/2024/06/browser-engine.html"
-    ]
-  ],
-  [
-    [
       "2024-06-09, 08:10:23",
       "https://news.ycombinator.com/item?id=40622799"
     ],
     [
       "How many High Streets are there in London?",
       "https://diamondgeezer.blogspot.com/2024/06/londons-high-streets.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-09, 07:47:26",
+      "https://news.ycombinator.com/item?id=40622724"
+    ],
+    [
+      "Orwell on the Isle of Jura",
+      "https://www.bbc.com/news/articles/cyrrylklzjdo"
     ]
   ],
   [
@@ -271,12 +281,12 @@
   ],
   [
     [
-      "2024-06-08, 11:41:42",
-      "https://news.ycombinator.com/item?id=40616927"
+      "2024-06-08, 11:42:50",
+      "https://news.ycombinator.com/item?id=40616930"
     ],
     [
-      "How the transatlantic telegraph cable changed finance (2019)",
-      "https://tontinecoffeehouse.com/2019/10/14/how-a-cable-changed-finance/"
+      "An Introduction to ARM64 Assembly on Apple Silicon Macs",
+      "https://github.com/below/HelloSilicon"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "WARC-GPT: An open-source tool for exploring web archives using AI",
       "https://lil.law.harvard.edu/blog/2024/02/12/warc-gpt-an-open-source-tool-for-exploring-web-archives-with-ai/"
-    ]
-  ],
-  [
-    [
-      "2024-06-07, 20:00:05",
-      "https://news.ycombinator.com/item?id=40612350"
-    ],
-    [
-      "Experiments with Calculo Analog Computer Kit (1959) [pdf]",
-      "https://www.ccapitalia.net/descarga/docs/1959-calculo-analog-computer.pdf"
     ]
   ]
 ]
