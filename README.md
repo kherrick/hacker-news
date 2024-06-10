@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-10, 15:46:14](https://news.ycombinator.com/item?id=40634823) - [XScreenSaver is available on Android. Google requires a privacy policy](https://chaos.social/@scy/112591102162587559)
 * [2024-06-10, 15:42:33](https://news.ycombinator.com/item?id=40634774) - [Why Triplebyte Failed](https://www.otherbranch.com/blog/why-triplebyte-failed)
 * [2024-06-10, 15:09:22](https://news.ycombinator.com/item?id=40634465) - [Gainax, known for 'Evangelion' anime production, goes bankrupt](https://www.japantimes.co.jp/business/2024/06/08/evangelion-anime-production-company-bankrupt/)
 * [2024-06-10, 14:30:27](https://news.ycombinator.com/item?id=40634042) - [23words.com](https://23words.com)
@@ -7,7 +8,7 @@
 * [2024-06-10, 13:59:22](https://news.ycombinator.com/item?id=40633773) - [Show HN: Thread – AI-powered Jupyter Notebook built using React](https://github.com/squaredtechnologies/thread)
 * [2024-06-10, 12:19:46](https://news.ycombinator.com/item?id=40632773) - [Show HN: Markdown HN profiles at {user}.at.hn](https://at.hn)
 * [2024-06-10, 12:00:20](https://news.ycombinator.com/item?id=40632641) - [Meticulous (YC S21) is hiring to eliminate UI E2E tests](https://news.ycombinator.com/item?id=40632641)
-* [2024-06-10, 09:22:40](https://news.ycombinator.com/item?id=40631663) - [Understanding the neuroscience behind burnout (2022)](https://yaledailynews.com/blog/2022/03/29/how-people-fall-apart-yale-faculty-discuss-the-impact-of-burnout-on-the-brain/)
+* [2024-06-10, 11:47:00](https://news.ycombinator.com/item?id=40632533) - [Show HN: Crawl a modern website to a zip, serve the website from the zip](https://github.com/potahtml/mpa-archive)
 * [2024-06-10, 09:02:22](https://news.ycombinator.com/item?id=40631558) - [The Mythical Non-Roboticist: Wouldn't it be great if everyone could do robotics?](https://spectrum.ieee.org/the-mythical-non-roboticist)
 * [2024-06-10, 08:38:42](https://news.ycombinator.com/item?id=40631439) - [WebKit fix: Quirk news.ycombinator to skip TextAutoSizing](https://github.com/WebKit/WebKit/commit/84ae355619354ee1bfa7daaa1fc95565a6726be3)
 * [2024-06-10, 06:10:11](https://news.ycombinator.com/item?id=40630699) - [The Magical Mystery Merge Or Why we run FreeBSD-current at Netflix (2023) [pdf]](https://people.freebsd.org/~gallatin/talks/OpenFest2023.pdf)
@@ -28,7 +29,6 @@
 * [2024-06-08, 19:23:32](https://news.ycombinator.com/item?id=40619664) - [Finding out where syscalls are called from: Stack traces with strace](https://abstractexpr.com/2024/06/08/finding-out-where-syscalls-are-called-from-stack-traces-with-strace/)
 * [2024-06-08, 11:42:50](https://news.ycombinator.com/item?id=40616930) - [An Introduction to ARM64 Assembly on Apple Silicon Macs](https://github.com/below/HelloSilicon)
 * [2024-06-08, 00:32:06](https://news.ycombinator.com/item?id=40614308) - [WARC-GPT: An open-source tool for exploring web archives using AI](https://lil.law.harvard.edu/blog/2024/02/12/warc-gpt-an-open-source-tool-for-exploring-web-archives-with-ai/)
-* [2024-06-07, 20:04:19](https://news.ycombinator.com/item?id=40612406) - [My lunches with the queen of cookbooks](https://tastecooking.com/my-lunches-with-judith-jones-the-queen-of-cookbooks/)
 * [2024-06-07, 12:05:54](https://news.ycombinator.com/item?id=40607845) - [Inline Assembly Dangers](https://fobes.dev/general/2024/02/29/inline-assembly-dangers.html)
 
 ## [Archives](archives/index.md)

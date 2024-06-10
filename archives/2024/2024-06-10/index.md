@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-10](index.md)
 
+* [2024-06-10, 15:46:14](https://news.ycombinator.com/item?id=40634823) - [XScreenSaver is available on Android. Google requires a privacy policy](https://chaos.social/@scy/112591102162587559)
 * [2024-06-10, 15:42:33](https://news.ycombinator.com/item?id=40634774) - [Why Triplebyte Failed](https://www.otherbranch.com/blog/why-triplebyte-failed)
 * [2024-06-10, 15:17:12](https://news.ycombinator.com/item?id=40634539) - [IRS makes Direct File a permanent option to file federal tax returns](https://www.irs.gov/newsroom/irs-makes-direct-file-a-permanent-option-to-file-federal-tax-returns-expanded-access-for-more-taxpayers-planned-for-the-2025-filing-season)
 * [2024-06-10, 15:09:22](https://news.ycombinator.com/item?id=40634465) - [Gainax, known for 'Evangelion' anime production, goes bankrupt](https://www.japantimes.co.jp/business/2024/06/08/evangelion-anime-production-company-bankrupt/)
@@ -24,6 +25,7 @@
 * [2024-06-10, 12:19:46](https://news.ycombinator.com/item?id=40632773) - [Show HN: Markdown HN profiles at {user}.at.hn](https://at.hn)
 * [2024-06-10, 12:00:20](https://news.ycombinator.com/item?id=40632641) - [Meticulous (YC S21) is hiring to eliminate UI E2E tests](https://news.ycombinator.com/item?id=40632641)
 * [2024-06-10, 11:58:54](https://news.ycombinator.com/item?id=40632625) - [Senior employees, ordered back to the office, are jumping ship](https://www.computerworld.com/article/2138277/senior-employees-ordered-back-to-the-office-are-jumping-ship.html)
+* [2024-06-10, 11:47:00](https://news.ycombinator.com/item?id=40632533) - [Show HN: Crawl a modern website to a zip, serve the website from the zip](https://github.com/potahtml/mpa-archive)
 * [2024-06-10, 11:35:27](https://news.ycombinator.com/item?id=40632446) - [DeGoogling 2024: Replacing Photos, Gmail, and Search](https://guissmo.com/blog/degoogling-2024-alternatives-to-google-that-i-am-using/)
 * [2024-06-10, 10:49:16](https://news.ycombinator.com/item?id=40632139) - [Paleontologists Are Fuming over AI Depictions of Prehistoric Animals](https://gizmodo.com/paleontologists-upset-ai-generated-art-dinosaurs-1851503634)
 * [2024-06-10, 10:44:19](https://news.ycombinator.com/item?id=40632115) - [Study finds a quarter of bosses hoped RTO would make employees quit](https://www.theregister.com/2024/06/09/rto_quit_study/)
