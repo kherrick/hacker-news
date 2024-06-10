@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-10](index.md)
 
+* [2024-06-10, 15:00:32](https://news.ycombinator.com/item?id=40634365) - [OpenAI Insider Estimates 70% Chance AI Will Destroy or Tragically Harm Humanity](https://futurism.com/the-byte/openai-insider-70-percent-doom)
 * [2024-06-10, 14:36:58](https://news.ycombinator.com/item?id=40634116) - [Berkshire Hathaway Doesn't Hold Nvidia Stock](https://www.investopedia.com/berkshire-hathaway-does-not-hold-nvidia-stock-will-warren-buffett-come-to-regret-it-8600072)
 * [2024-06-10, 14:30:27](https://news.ycombinator.com/item?id=40634042) - [23words.com](https://23words.com)
 * [2024-06-10, 14:22:16](https://news.ycombinator.com/item?id=40633971) - [Canada's Parliament Rocked by Allegations of Treason and Foreign Interference](https://www.politico.com/news/2024/06/10/canada-parliament-treason-allegations-00162163)
