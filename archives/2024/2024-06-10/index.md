@@ -6,6 +6,7 @@
 
 * [2024-06-10, 08:53:03](https://news.ycombinator.com/item?id=40631517) - [Patrick Breyer and Pirate Party Lose EU Parliament Seats](https://stackdiary.com/patrick-breyer-and-pirate-party-lose-eu-parliament-seats/)
 * [2024-06-10, 08:38:42](https://news.ycombinator.com/item?id=40631439) - [WebKit Fix: Quirk News.Y Combinator to Skip TextAutoSizing](https://github.com/WebKit/WebKit/commit/84ae355619354ee1bfa7daaa1fc95565a6726be3)
+* [2024-06-10, 08:26:52](https://news.ycombinator.com/item?id=40631370) - [Elsevier embeds a hash in the PDF metadata that is unique for each download](https://social.coop/@jonny/107685726645817029)
 * [2024-06-10, 08:12:08](https://news.ycombinator.com/item?id=40631309) - [When (if ever) did the Sun set on the British Empire?](https://what-if.xkcd.com/48/)
 * [2024-06-10, 06:10:11](https://news.ycombinator.com/item?id=40630699) - [The Magical Mystery Merge Or Why we run FreeBSD-current at Netflix (2023) [pdf]](https://people.freebsd.org/~gallatin/talks/OpenFest2023.pdf)
 * [2024-06-10, 04:31:59](https://news.ycombinator.com/item?id=40630174) - [Omakub – Opinionated Ubuntu Setup](https://github.com/basecamp/omakub)
