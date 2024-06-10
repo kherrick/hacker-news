@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-10](index.md)
 
+* [2024-06-10, 21:10:37](https://news.ycombinator.com/item?id=40639148) - [Heard of Idempotency but unsure what it is?](https://timmoth.github.io/AsyncMonolith/posts/idempotency/)
+* [2024-06-10, 21:10:03](https://news.ycombinator.com/item?id=40639137) - [New GitHub Organization for the Swift Project](https://www.swift.org/blog/swiftlang-github/)
 * [2024-06-10, 21:00:43](https://news.ycombinator.com/item?id=40639032) - [Trieve (YC W24) Is Hiring an DevRel Software Engineer](https://www.ycombinator.com/companies/trieve/jobs/2jeeXLs-developer-relations-software-engineer)
 * [2024-06-10, 20:40:24](https://news.ycombinator.com/item?id=40638741) - [The British Newspaper Archive](https://www.britishnewspaperarchive.co.uk/)
 * [2024-06-10, 20:16:33](https://news.ycombinator.com/item?id=40638386) - [Controversial pesticide research all but vanished from a major conference](https://usrtk.org/bees-neonics/entomological-society-america-corporate-partners/)

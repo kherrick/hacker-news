@@ -17,6 +17,7 @@
 * [2024-06-09, 20:37:28](https://news.ycombinator.com/item?id=40627395) - [Ask HN: What macOS apps/programs do you use daily and recommend?](https://news.ycombinator.com/item?id=40627395)
 * [2024-06-09, 20:11:09](https://news.ycombinator.com/item?id=40627208) - [British Nuclear Warning System](http://www.ringbell.co.uk/ukwmo/Page211.htm)
 * [2024-06-09, 20:09:17](https://news.ycombinator.com/item?id=40627187) - [The Uber-wealthy families who control much of the food system](https://www.abc.net.au/news/2024-06-07/meet-the-mega-rich-families-controlling-the-us-food-system/103874576)
+* [2024-06-09, 19:59:39](https://news.ycombinator.com/item?id=40627113) - [Researchers demonstrate the first chip-based 3D printer](https://news.mit.edu/2024/researchers-demonstrate-first-chip-based-3d-printer-0606)
 * [2024-06-09, 19:53:10](https://news.ycombinator.com/item?id=40627056) - [A DSL for Implementing Math Functions](https://blog.sigplan.org/2024/06/03/a-dsl-for-implementing-math-functions/)
 * [2024-06-09, 19:42:03](https://news.ycombinator.com/item?id=40626969) - [Libtree: Ldd as a tree saying why a library is found or not](https://github.com/haampie/libtree)
 * [2024-06-09, 19:27:45](https://news.ycombinator.com/item?id=40626850) - [Want to Pay Cash? That'll Cost You Extra](https://www.wsj.com/personal-finance/paying-cash-fees-reverse-atm-744d1bd6)
