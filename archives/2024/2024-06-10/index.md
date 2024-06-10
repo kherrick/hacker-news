@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-10](index.md)
 
+* [2024-06-10, 15:42:33](https://news.ycombinator.com/item?id=40634774) - [Why Triplebyte Failed](https://www.otherbranch.com/blog/why-triplebyte-failed)
 * [2024-06-10, 15:17:12](https://news.ycombinator.com/item?id=40634539) - [IRS makes Direct File a permanent option to file federal tax returns](https://www.irs.gov/newsroom/irs-makes-direct-file-a-permanent-option-to-file-federal-tax-returns-expanded-access-for-more-taxpayers-planned-for-the-2025-filing-season)
 * [2024-06-10, 15:09:22](https://news.ycombinator.com/item?id=40634465) - [Gainax, known for 'Evangelion' anime production, goes bankrupt](https://www.japantimes.co.jp/business/2024/06/08/evangelion-anime-production-company-bankrupt/)
 * [2024-06-10, 15:09:13](https://news.ycombinator.com/item?id=40634461) - [NetBSD 10 on a Pinebook Pro laptop](https://www.idatum.net/netbsd-10-on-a-pinebook-pro-laptop.html)
@@ -14,6 +15,7 @@
 * [2024-06-10, 14:30:27](https://news.ycombinator.com/item?id=40634042) - [23words.com](https://23words.com)
 * [2024-06-10, 14:22:16](https://news.ycombinator.com/item?id=40633971) - [Canada's Parliament Rocked by Allegations of Treason and Foreign Interference](https://www.politico.com/news/2024/06/10/canada-parliament-treason-allegations-00162163)
 * [2024-06-10, 14:14:24](https://news.ycombinator.com/item?id=40633902) - [Mexican Computers: A Brief Technical and Historical Overview](https://arxiv.org/abs/2406.04912)
+* [2024-06-10, 13:59:22](https://news.ycombinator.com/item?id=40633773) - [Show HN: Thread – AI-powered Jupyter Notebook built using React](https://github.com/squaredtechnologies/thread)
 * [2024-06-10, 13:46:37](https://news.ycombinator.com/item?id=40633666) - [AI Hype is completely out of control – especially since ChatGPT-4o [video]](https://www.youtube.com/watch?v=VctsqOo8wsc)
 * [2024-06-10, 12:57:38](https://news.ycombinator.com/item?id=40633108) - [Ask HN: Was Sun Microsystems the last respectable tech company?](https://news.ycombinator.com/item?id=40633108)
 * [2024-06-10, 12:49:14](https://news.ycombinator.com/item?id=40633020) - [Welcome to the Era of Garbage Film and Television Streaming](https://jacobin.com/2024/06/tv-streaming-private-equity/)

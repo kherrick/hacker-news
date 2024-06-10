@@ -10,6 +10,7 @@
 * [2024-06-09, 21:56:04](https://news.ycombinator.com/item?id=40627946) - [On Being Brought Up by Libertarian Economists](https://daviddfriedman.substack.com/p/on-being-brought-up-by-libertarian)
 * [2024-06-09, 21:30:45](https://news.ycombinator.com/item?id=40627786) - [Heretical thoughts about science and society](https://www.edge.org/conversation/freeman_dyson-heretical-thoughts-about-science-and-society)
 * [2024-06-09, 21:18:58](https://news.ycombinator.com/item?id=40627707) - [From Long Covid Odds to Lost IQ Points: Ongoing Threats You Don't Know About](https://www.ineteconomics.org/perspectives/blog/from-long-covid-odds-to-lost-iq-points-ongoing-threats-you-dont-know-about)
+* [2024-06-09, 20:57:15](https://news.ycombinator.com/item?id=40627563) - [Deep Dive into Ownership in Mojo](https://www.modular.com/blog/deep-dive-into-ownership-in-mojo)
 * [2024-06-09, 20:56:29](https://news.ycombinator.com/item?id=40627558) - [How a single ChatGPT mistake cost us $10k](https://asim.bearblog.dev/how-a-single-chatgpt-mistake-cost-us-10000/)
 * [2024-06-09, 20:51:26](https://news.ycombinator.com/item?id=40627522) - [Woman set up a table to share her collection of washers. Nothing was for sale](https://twitter.com/revjaydub/status/1799212814646796648)
 * [2024-06-09, 20:43:24](https://news.ycombinator.com/item?id=40627441) - [How MBAs failed Boeing: Business Case study [video]](https://www.youtube.com/watch?v=AnOqz5TsumU)
