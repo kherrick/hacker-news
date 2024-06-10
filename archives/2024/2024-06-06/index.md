@@ -23,6 +23,7 @@
 * [2024-06-06, 21:52:02](https://news.ycombinator.com/item?id=40602792) - [Saving Three Months of Latency with a Single OpenTelemetry Trace](https://www.checklyhq.com/blog/coralogix-and-opentelemetry-on-checkly/)
 * [2024-06-06, 21:43:42](https://news.ycombinator.com/item?id=40602735) - [GOG will delete cloud saves bigger than 200MB after August 31st](https://support.gog.com/hc/en-us/articles/18730340487709-Review-your-Cloud-Saves-to-avoid-loss-of-files?product=gog)
 * [2024-06-06, 21:39:15](https://news.ycombinator.com/item?id=40602708) - [Bank Rescinds a Job Offer Because It Had Cancelled Candidate's Credit Cards](https://www.nytimes.com/2024/06/06/your-money/chase-account-closed-job.html)
+* [2024-06-06, 21:30:19](https://news.ycombinator.com/item?id=40602631) - [A web server running on an old, broken phone](https://compost.party/)
 * [2024-06-06, 21:26:16](https://news.ycombinator.com/item?id=40602603) - [The Problem with Lying Is Keeping Track of All the Lies](https://materialize.com/blog/engineering/keeping-track-lies/)
 * [2024-06-06, 21:10:18](https://news.ycombinator.com/item?id=40602455) - [Stallman Was Right](https://twitter.com/snowden/status/1798728673698443638)
 * [2024-06-06, 20:58:12](https://news.ycombinator.com/item?id=40602327) - [DuckDuckGo offers \"anonymous\" access to AI chatbots through new service](https://arstechnica.com/information-technology/2024/06/duckduckgo-offers-anonymous-access-to-ai-chatbots-through-new-service/)
