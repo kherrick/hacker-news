@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-10, 22:40:25](https://news.ycombinator.com/item?id=40640076) - [Wild elephants may have names that other elephants use to call them](https://www.npr.org/2024/06/07/nx-s1-4994426/wild-elephants-individual-names)
 * [2024-06-10, 21:53:07](https://news.ycombinator.com/item?id=40639606) - [Private Cloud Compute: A new frontier for AI privacy in the cloud](https://security.apple.com/blog/private-cloud-compute/)
 * [2024-06-10, 21:42:11](https://news.ycombinator.com/item?id=40639506) - [Apple's On-Device and Server Foundation Models](https://machinelearning.apple.com/research/introducing-apple-foundation-models)
 * [2024-06-10, 21:10:37](https://news.ycombinator.com/item?id=40639148) - [Heard of Idempotency but unsure what it is?](https://timmoth.github.io/AsyncMonolith/posts/idempotency/)
@@ -23,7 +24,6 @@
 * [2024-06-10, 11:47:00](https://news.ycombinator.com/item?id=40632533) - [Show HN: Crawl a modern website to a zip, serve the website from the zip](https://github.com/potahtml/mpa-archive)
 * [2024-06-10, 09:02:22](https://news.ycombinator.com/item?id=40631558) - [The Mythical Non-Roboticist: Wouldn't it be great if everyone could do robotics?](https://spectrum.ieee.org/the-mythical-non-roboticist)
 * [2024-06-10, 07:53:35](https://news.ycombinator.com/item?id=40631223) - [Anti-Cheat Expert: all your pixels are belong to us](https://invlpg.dev/post/ace_screenshots/)
-* [2024-06-10, 06:49:52](https://news.ycombinator.com/item?id=40630909) - [PostgREST Tutorial: APIs made easy](https://notso.boringsql.com/guides/postgrest-apis-made-easy/)
 * [2024-06-10, 06:00:09](https://news.ycombinator.com/item?id=40630656) - [The Engine of the Future](https://c0de517e.com/014_future_engines.htm)
 * [2024-06-09, 19:59:39](https://news.ycombinator.com/item?id=40627113) - [Researchers demonstrate the first chip-based 3D printer](https://news.mit.edu/2024/researchers-demonstrate-first-chip-based-3d-printer-0606)
 * [2024-06-09, 12:02:19](https://news.ycombinator.com/item?id=40623864) - [I built an ROV to solve missing person cases](https://suanto.com/2024/06/06/the-time-I-built-an-ROV-01/)
