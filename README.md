@@ -2,11 +2,11 @@
 
 * [2024-06-10, 12:19:46](https://news.ycombinator.com/item?id=40632773) - [Show HN: Markdown HN profiles at {user}.at.hn](https://at.hn)
 * [2024-06-10, 12:00:20](https://news.ycombinator.com/item?id=40632641) - [Meticulous (YC S21) is hiring to eliminate UI E2E tests](https://news.ycombinator.com/item?id=40632641)
+* [2024-06-10, 11:35:27](https://news.ycombinator.com/item?id=40632446) - [DeGoogling 2024: Replacing Photos, Gmail, and Search](https://guissmo.com/blog/degoogling-2024-alternatives-to-google-that-i-am-using/)
 * [2024-06-10, 10:27:56](https://news.ycombinator.com/item?id=40632027) - [First detection of negative ions on the Moon](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/First_detection_of_negative_ions_on_the_Moon)
 * [2024-06-10, 09:22:40](https://news.ycombinator.com/item?id=40631663) - [\"How people fall apart\": The Neuroscience of Burnout (2022)](https://yaledailynews.com/blog/2022/03/29/how-people-fall-apart-yale-faculty-discuss-the-impact-of-burnout-on-the-brain/)
 * [2024-06-10, 09:02:22](https://news.ycombinator.com/item?id=40631558) - [The Mythical Non-Roboticist: Wouldn't it be great if everyone could do robotics?](https://spectrum.ieee.org/the-mythical-non-roboticist)
 * [2024-06-10, 08:38:42](https://news.ycombinator.com/item?id=40631439) - [WebKit fix: Quirk news.ycombinator to skip TextAutoSizing](https://github.com/WebKit/WebKit/commit/84ae355619354ee1bfa7daaa1fc95565a6726be3)
-* [2024-06-10, 07:56:00](https://news.ycombinator.com/item?id=40631233) - [MOOC – free courses from University of Helsinki](https://www.mooc.fi/en/)
 * [2024-06-10, 06:10:11](https://news.ycombinator.com/item?id=40630699) - [The Magical Mystery Merge Or Why we run FreeBSD-current at Netflix (2023) [pdf]](https://people.freebsd.org/~gallatin/talks/OpenFest2023.pdf)
 * [2024-06-10, 01:27:56](https://news.ycombinator.com/item?id=40629213) - [Monumental snake engravings of the Orinoco River](https://www.cambridge.org/core/journals/antiquity/article/monumental-snake-engravings-of-the-orinoco-river/147F83AA4381153C4D0F4EA4817B3766)
 * [2024-06-09, 19:42:03](https://news.ycombinator.com/item?id=40626969) - [Libtree: Ldd as a tree saying why a library is found or not](https://github.com/haampie/libtree)
