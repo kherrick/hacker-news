@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-10, 10:49:16](https://news.ycombinator.com/item?id=40632139) - [Paleontologists Are Fuming over AI Depictions of Prehistoric Animals](https://gizmodo.com/paleontologists-upset-ai-generated-art-dinosaurs-1851503634)
 * [2024-06-10, 10:27:56](https://news.ycombinator.com/item?id=40632027) - [First detection of negative ions on the Moon](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/First_detection_of_negative_ions_on_the_Moon)
 * [2024-06-10, 10:15:08](https://news.ycombinator.com/item?id=40631959) - [Germany trials the four-day workweek: \"Free time is invaluable\"](https://www.welcometothejungle.com/en/articles/germany-trials-four-day-workweek)
 * [2024-06-10, 09:22:40](https://news.ycombinator.com/item?id=40631663) - [\"How people fall apart\": The Neuroscience of Burnout](https://yaledailynews.com/blog/2022/03/29/how-people-fall-apart-yale-faculty-discuss-the-impact-of-burnout-on-the-brain/)
@@ -16,6 +15,7 @@
 * [2024-06-09, 15:06:50](https://news.ycombinator.com/item?id=40624924) - [The Weird Nerd comes with trade-offs](https://www.writingruxandrabio.com/p/the-weird-nerd-comes-with-trade-offs)
 * [2024-06-09, 14:35:43](https://news.ycombinator.com/item?id=40624709) - [Ultrasonic investigations in shopping centres](https://www.windytan.com/2024/06/ultrasonic-investigations-in-shopping.html)
 * [2024-06-09, 12:05:53](https://news.ycombinator.com/item?id=40623883) - [Show HN: We've open-sourced our LLM attention visualization library](https://github.com/labmlai/inspectus)
+* [2024-06-09, 11:13:53](https://news.ycombinator.com/item?id=40623654) - [Discussions: Flat or Threaded? (2006)](https://blog.codinghorror.com/discussions-flat-or-threaded/)
 * [2024-06-09, 10:40:27](https://news.ycombinator.com/item?id=40623497) - [Fingerprinting VPNs with Custom Router Firmware [pdf]](https://censorbib.nymity.ch/pdf/Almutairi2024a.pdf)
 * [2024-06-09, 09:11:07](https://news.ycombinator.com/item?id=40623048) - [So you want to build a browser engine](https://robert.ocallahan.org/2024/06/browser-engine.html)
 * [2024-06-09, 08:10:23](https://news.ycombinator.com/item?id=40622799) - [How many High Streets are there in London?](https://diamondgeezer.blogspot.com/2024/06/londons-high-streets.html)
@@ -24,7 +24,7 @@
 * [2024-06-09, 05:07:14](https://news.ycombinator.com/item?id=40622191) - [Dmv.org](https://computer.rip/2024-06-08-dmv.org.html)
 * [2024-06-08, 20:40:12](https://news.ycombinator.com/item?id=40620055) - [Claude's Character](https://www.anthropic.com/research/claude-character)
 * [2024-06-08, 19:23:32](https://news.ycombinator.com/item?id=40619664) - [Finding out where syscalls are called from: Stack traces with strace](https://abstractexpr.com/2024/06/08/finding-out-where-syscalls-are-called-from-stack-traces-with-strace/)
-* [2024-06-08, 18:48:45](https://news.ycombinator.com/item?id=40619482) - [Interactive Theorem Proving, Guest Lecture – Introduction to HOL [video]](https://www.youtube.com/watch?v=uvMjgKcZDec)
+* [2024-06-08, 18:09:15](https://news.ycombinator.com/item?id=40619297) - [Records of Pompeii's survivors have been found](https://theconversation.com/records-of-pompeiis-survivors-have-been-found-and-archaeologists-are-starting-to-understand-how-they-rebuilt-their-lives-230641)
 * [2024-06-08, 11:42:50](https://news.ycombinator.com/item?id=40616930) - [An Introduction to ARM64 Assembly on Apple Silicon Macs](https://github.com/below/HelloSilicon)
 * [2024-06-08, 00:32:06](https://news.ycombinator.com/item?id=40614308) - [WARC-GPT: An open-source tool for exploring web archives using AI](https://lil.law.harvard.edu/blog/2024/02/12/warc-gpt-an-open-source-tool-for-exploring-web-archives-with-ai/)
 * [2024-06-07, 20:04:19](https://news.ycombinator.com/item?id=40612406) - [My lunches with the queen of cookbooks](https://tastecooking.com/my-lunches-with-judith-jones-the-queen-of-cookbooks/)
