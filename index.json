@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-10, 14:14:24",
+      "https://news.ycombinator.com/item?id=40633902"
+    ],
+    [
+      "Mexican Computers: A Brief Technical and Historical Overview",
+      "https://arxiv.org/abs/2406.04912"
+    ]
+  ],
+  [
+    [
+      "2024-06-10, 13:46:37",
+      "https://news.ycombinator.com/item?id=40633666"
+    ],
+    [
+      "AI Hype is completely out of control – especially since ChatGPT-4o [video]",
+      "https://www.youtube.com/watch?v=VctsqOo8wsc"
+    ]
+  ],
+  [
+    [
       "2024-06-10, 12:19:46",
       "https://news.ycombinator.com/item?id=40632773"
     ],
@@ -17,16 +37,6 @@
     [
       "Meticulous (YC S21) is hiring to eliminate UI E2E tests",
       "https://news.ycombinator.com/item?id=40632641"
-    ]
-  ],
-  [
-    [
-      "2024-06-10, 11:35:27",
-      "https://news.ycombinator.com/item?id=40632446"
-    ],
-    [
-      "DeGoogling 2024: Replacing Photos, Gmail, and Search",
-      "https://guissmo.com/blog/degoogling-2024-alternatives-to-google-that-i-am-using/"
     ]
   ],
   [
@@ -67,6 +77,16 @@
     [
       "WebKit fix: Quirk news.ycombinator to skip TextAutoSizing",
       "https://github.com/WebKit/WebKit/commit/84ae355619354ee1bfa7daaa1fc95565a6726be3"
+    ]
+  ],
+  [
+    [
+      "2024-06-10, 07:56:00",
+      "https://news.ycombinator.com/item?id=40631233"
+    ],
+    [
+      "MOOC – free courses from University of Helsinki",
+      "https://www.mooc.fi/en/"
     ]
   ],
   [
@@ -151,6 +171,16 @@
   ],
   [
     [
+      "2024-06-09, 10:47:58",
+      "https://news.ycombinator.com/item?id=40623536"
+    ],
+    [
+      "Andrée and the Aeronauts' Voyage to the Top of the World (2013)",
+      "https://www.damninteresting.com/andree-and-the-aeronauts-voyage-to-the-top-of-the-world/"
+    ]
+  ],
+  [
+    [
       "2024-06-09, 10:40:27",
       "https://news.ycombinator.com/item?id=40623497"
     ],
@@ -167,26 +197,6 @@
     [
       "So you want to build a browser engine",
       "https://robert.ocallahan.org/2024/06/browser-engine.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-09, 08:10:23",
-      "https://news.ycombinator.com/item?id=40622799"
-    ],
-    [
-      "How many High Streets are there in London?",
-      "https://diamondgeezer.blogspot.com/2024/06/londons-high-streets.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-09, 07:40:25",
-      "https://news.ycombinator.com/item?id=40622704"
-    ],
-    [
-      "Piku: Allows git push deployments to your own servers",
-      "https://github.com/piku/piku"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Inline Assembly Dangers",
       "https://fobes.dev/general/2024/02/29/inline-assembly-dangers.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-06, 22:46:46",
-      "https://news.ycombinator.com/item?id=40603277"
-    ],
-    [
-      "Bali's stone sarcophagi included global goods",
-      "https://www.atlasobscura.com/articles/bali-stone-sarcophagus-artifacts"
     ]
   ]
 ]
