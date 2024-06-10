@@ -6,7 +6,9 @@
 
 * [2024-06-10, 21:00:43](https://news.ycombinator.com/item?id=40639032) - [Trieve (YC W24) Is Hiring an DevRel Software Engineer](https://www.ycombinator.com/companies/trieve/jobs/2jeeXLs-developer-relations-software-engineer)
 * [2024-06-10, 20:40:24](https://news.ycombinator.com/item?id=40638741) - [The British Newspaper Archive](https://www.britishnewspaperarchive.co.uk/)
+* [2024-06-10, 20:16:33](https://news.ycombinator.com/item?id=40638386) - [Controversial pesticide research all but vanished from a major conference](https://usrtk.org/bees-neonics/entomological-society-america-corporate-partners/)
 * [2024-06-10, 19:38:50](https://news.ycombinator.com/item?id=40637778) - [MS makes 1984-style monitoring, so how does the Linux community respond?](https://github.com/openrecall/openrecall)
+* [2024-06-10, 19:00:26](https://news.ycombinator.com/item?id=40637102) - [Deterioration of Local Community a Major Driver of Loss of Play-Based Childhood](https://www.afterbabel.com/p/community-based-childhood)
 * [2024-06-10, 18:55:13](https://news.ycombinator.com/item?id=40636980) - [OpenAI and Apple Announce Partnership](https://openai.com/index/openai-and-apple-announce-partnership/)
 * [2024-06-10, 18:50:53](https://news.ycombinator.com/item?id=40636883) - [The rarest move in chess [video]](https://www.youtube.com/watch?v=iDnW0WiCqNc)
 * [2024-06-10, 18:49:07](https://news.ycombinator.com/item?id=40636854) - [macOS Sequoia Preview](https://www.apple.com/macos/macos-sequoia-preview/)
