@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-10, 02:31:40](https://news.ycombinator.com/item?id=40629570) - [Tesla's unsold inventory is creating stockpiles you can see from space](https://sherwood.news/business/elon-musk-tesla-extra-inventory-satellite-imagery/)
 * [2024-06-10, 01:27:56](https://news.ycombinator.com/item?id=40629213) - [Monumental snake engravings of the Orinoco River](https://www.cambridge.org/core/journals/antiquity/article/monumental-snake-engravings-of-the-orinoco-river/147F83AA4381153C4D0F4EA4817B3766)
 * [2024-06-10, 01:17:53](https://news.ycombinator.com/item?id=40629146) - [Show HN: I Build an AI-Powered API That Instantly Obtains Website Information](https://siteprofile.io/)
 * [2024-06-10, 00:51:03](https://news.ycombinator.com/item?id=40628950) - [Google Mesop: Build web apps in Python](https://github.com/google/mesop)
@@ -21,7 +22,6 @@
 * [2024-06-09, 12:05:53](https://news.ycombinator.com/item?id=40623883) - [Show HN: We've open-sourced our LLM attention visualization library](https://github.com/labmlai/inspectus)
 * [2024-06-09, 08:10:23](https://news.ycombinator.com/item?id=40622799) - [How many High Streets are there in London?](https://diamondgeezer.blogspot.com/2024/06/londons-high-streets.html)
 * [2024-06-09, 07:47:26](https://news.ycombinator.com/item?id=40622724) - [Orwell on the Isle of Jura](https://www.bbc.com/news/articles/cyrrylklzjdo)
-* [2024-06-09, 07:40:25](https://news.ycombinator.com/item?id=40622704) - [Piku: Allows git push deployments to your own servers](https://github.com/piku/piku)
 * [2024-06-08, 20:40:12](https://news.ycombinator.com/item?id=40620055) - [Claude's Character](https://www.anthropic.com/research/claude-character)
 * [2024-06-08, 19:23:32](https://news.ycombinator.com/item?id=40619664) - [Finding out where syscalls are called from: Stack traces with strace](https://abstractexpr.com/2024/06/08/finding-out-where-syscalls-are-called-from-stack-traces-with-strace/)
 * [2024-06-08, 18:56:29](https://news.ycombinator.com/item?id=40619521) - [Anti-patterns in event-driven architecture](https://codeopinion.com/beware-anti-patterns-in-event-driven-architecture/)
