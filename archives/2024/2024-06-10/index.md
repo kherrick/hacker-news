@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-10](index.md)
 
 * [2024-06-10, 18:55:13](https://news.ycombinator.com/item?id=40636980) - [OpenAI and Apple Announce Partnership](https://openai.com/index/openai-and-apple-announce-partnership/)
+* [2024-06-10, 18:50:53](https://news.ycombinator.com/item?id=40636883) - [The rarest move in chess [video]](https://www.youtube.com/watch?v=iDnW0WiCqNc)
 * [2024-06-10, 18:49:07](https://news.ycombinator.com/item?id=40636854) - [macOS Sequoia Preview](https://www.apple.com/macos/macos-sequoia-preview/)
 * [2024-06-10, 18:48:47](https://news.ycombinator.com/item?id=40636844) - [Introducing Apple Intelligence, the personal intelligence system](https://www.apple.com/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
 * [2024-06-10, 18:29:58](https://news.ycombinator.com/item?id=40636581) - [YouTube starts requiring login to watch videos](https://files.catbox.moe/gtwa1g.PNG)
@@ -28,6 +29,7 @@
 * [2024-06-10, 15:09:22](https://news.ycombinator.com/item?id=40634465) - [Gainax, known for 'Evangelion' anime production, goes bankrupt](https://www.japantimes.co.jp/business/2024/06/08/evangelion-anime-production-company-bankrupt/)
 * [2024-06-10, 15:09:13](https://news.ycombinator.com/item?id=40634461) - [NetBSD 10 on a Pinebook Pro laptop](https://www.idatum.net/netbsd-10-on-a-pinebook-pro-laptop.html)
 * [2024-06-10, 15:00:32](https://news.ycombinator.com/item?id=40634365) - [OpenAI Insider Estimates 70% Chance AI Will Destroy or Tragically Harm Humanity](https://futurism.com/the-byte/openai-insider-70-percent-doom)
+* [2024-06-10, 14:52:57](https://news.ycombinator.com/item?id=40634269) - [Creating Perfect Font Fallbacks in CSS](https://www.aleksandrhovhannisyan.com/blog/perfect-font-fallbacks/)
 * [2024-06-10, 14:42:43](https://news.ycombinator.com/item?id=40634165) - [The U.S. Economy Reaches Superstar Status](https://www.theatlantic.com/ideas/archive/2024/06/us-economy-excellent/678630/)
 * [2024-06-10, 14:41:30](https://news.ycombinator.com/item?id=40634151) - [Tuxedo Developing a Snapdragon X Elite Linux Laptop](https://www.phoronix.com/news/TUXEDO-Snapdragon-X-Elite)
 * [2024-06-10, 14:36:58](https://news.ycombinator.com/item?id=40634116) - [Berkshire Hathaway Doesn't Hold Nvidia Stock](https://www.investopedia.com/berkshire-hathaway-does-not-hold-nvidia-stock-will-warren-buffett-come-to-regret-it-8600072)
