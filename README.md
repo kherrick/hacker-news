@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-10, 14:36:58](https://news.ycombinator.com/item?id=40634116) - [Berkshire Hathaway Doesn't Hold Nvidia Stock](https://www.investopedia.com/berkshire-hathaway-does-not-hold-nvidia-stock-will-warren-buffett-come-to-regret-it-8600072)
 * [2024-06-10, 14:22:16](https://news.ycombinator.com/item?id=40633971) - [Canada's Parliament Rocked by Allegations of Treason and Foreign Interference](https://www.politico.com/news/2024/06/10/canada-parliament-treason-allegations-00162163)
 * [2024-06-10, 14:14:24](https://news.ycombinator.com/item?id=40633902) - [Mexican Computers: A Brief Technical and Historical Overview](https://arxiv.org/abs/2406.04912)
 * [2024-06-10, 13:46:37](https://news.ycombinator.com/item?id=40633666) - [AI Hype is completely out of control – especially since ChatGPT-4o [video]](https://www.youtube.com/watch?v=VctsqOo8wsc)
@@ -19,7 +20,6 @@
 * [2024-06-09, 10:47:58](https://news.ycombinator.com/item?id=40623536) - [Andrée and the Aeronauts' Voyage to the Top of the World (2013)](https://www.damninteresting.com/andree-and-the-aeronauts-voyage-to-the-top-of-the-world/)
 * [2024-06-09, 10:40:27](https://news.ycombinator.com/item?id=40623497) - [Fingerprinting VPNs with Custom Router Firmware [pdf]](https://censorbib.nymity.ch/pdf/Almutairi2024a.pdf)
 * [2024-06-09, 09:11:07](https://news.ycombinator.com/item?id=40623048) - [So you want to build a browser engine](https://robert.ocallahan.org/2024/06/browser-engine.html)
-* [2024-06-09, 08:10:23](https://news.ycombinator.com/item?id=40622799) - [How many High Streets are there in London?](https://diamondgeezer.blogspot.com/2024/06/londons-high-streets.html)
 * [2024-06-09, 07:31:41](https://news.ycombinator.com/item?id=40622671) - [PiDP-10 – a modern replica of the PDP-10](https://obsolescence.dev/pidp10.html)
 * [2024-06-09, 05:14:51](https://news.ycombinator.com/item?id=40622209) - [Scratchapixel 4.0, Learn Computer Graphics Programming](https://www.scratchapixel.com/index.html)
 * [2024-06-09, 05:07:14](https://news.ycombinator.com/item?id=40622191) - [Dmv.org](https://computer.rip/2024-06-08-dmv.org.html)
