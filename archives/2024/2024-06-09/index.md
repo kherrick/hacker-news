@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-09](index.md)
 
 * [2024-06-09, 23:46:29](https://news.ycombinator.com/item?id=40628573) - [Qualcomm Snapdragon X Elite prototype that runs Linux emerges](https://www.techradar.com/pro/qualcomm-snapdragon-x-elite-prototype-that-runs-linux-emerges-from-a-brand-youve-probably-never-heard-of-schenker-tuxedo-has-12-core-cpu-with-32gb-ram-and-surprise-surprise-debian)
+* [2024-06-09, 23:12:20](https://news.ycombinator.com/item?id=40628395) - [\"Confidential\" 988 Conversation Records Shared with Corporations](https://www.madinamerica.com/2024/06/988-records-shared/)
 * [2024-06-09, 22:11:58](https://news.ycombinator.com/item?id=40628050) - [The Functional Programming Hiring Problem](https://blog.janissary.xyz/posts/hiring-functional-programming)
 * [2024-06-09, 21:56:04](https://news.ycombinator.com/item?id=40627946) - [On Being Brought Up by Libertarian Economists](https://daviddfriedman.substack.com/p/on-being-brought-up-by-libertarian)
 * [2024-06-09, 21:30:45](https://news.ycombinator.com/item?id=40627786) - [Heretical thoughts about science and society](https://www.edge.org/conversation/freeman_dyson-heretical-thoughts-about-science-and-society)

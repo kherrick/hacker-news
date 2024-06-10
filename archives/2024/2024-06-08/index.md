@@ -51,6 +51,7 @@
 * [2024-06-08, 12:15:26](https://news.ycombinator.com/item?id=40617047) - [The Crusader-Era Knights Who Volunteered to Fight World War I](https://www.military.com/history/crusader-era-knights-who-volunteered-fight-world-war-i.html)
 * [2024-06-08, 12:00:30](https://news.ycombinator.com/item?id=40616992) - [Flexport (YC W14) Is Hiring a Senior Applied Research Scientist](https://boards.greenhouse.io/flexport/jobs/5806177?gh_jid=5806177)
 * [2024-06-08, 11:54:08](https://news.ycombinator.com/item?id=40616966) - [Garbage collect your technical debt (2021)](https://ieeexplore.ieee.org/document/9520328)
+* [2024-06-08, 11:42:50](https://news.ycombinator.com/item?id=40616930) - [An Introduction to ARM64 Assembly on Apple Silicon Macs](https://github.com/below/HelloSilicon)
 * [2024-06-08, 11:41:42](https://news.ycombinator.com/item?id=40616927) - [How a Cable Changed Finance](https://tontinecoffeehouse.com/2019/10/14/how-a-cable-changed-finance/)
 * [2024-06-08, 11:28:41](https://news.ycombinator.com/item?id=40616881) - [A Scheme Primer](https://spritely.institute/static/papers/scheme-primer.html)
 * [2024-06-08, 11:23:05](https://news.ycombinator.com/item?id=40616856) - [Reveiw of June 7, 2023 Wildfire Smoke Event (National Weather Service)](https://storymaps.arcgis.com/stories/cf05c50f058a40e99e2da54ec098a40a)
