@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-10, 18:48:47](https://news.ycombinator.com/item?id=40636844) - [Introducing Apple Intelligence, the personal intelligence system](https://www.apple.com/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
+* [2024-06-10, 18:29:58](https://news.ycombinator.com/item?id=40636581) - [YouTube starts requiring login to watch videos](https://files.catbox.moe/gtwa1g.PNG)
 * [2024-06-10, 18:23:05](https://news.ycombinator.com/item?id=40636502) - [Apple is launching its own password manager app](https://techcrunch.com/2024/06/10/apple-is-launching-its-own-password-manager-app/)
-* [2024-06-10, 18:08:55](https://news.ycombinator.com/item?id=40636351) - [Apple announces Apple Intelligence for iOS, iPad, and Mac](https://techcrunch.com/2024/06/10/apple-intelligence-is-the-companys-new-generative-ai-offering/)
 * [2024-06-10, 18:07:24](https://news.ycombinator.com/item?id=40636331) - [Apple blocks PC emulator in iOS App Store and third-party app stores](https://9to5mac.com/2024/06/09/apple-blocks-pc-emulator-utm-app-store/)
-* [2024-06-10, 18:04:10](https://news.ycombinator.com/item?id=40636292) - [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)
 * [2024-06-10, 17:34:38](https://news.ycombinator.com/item?id=40635959) - [OpenAI Welcomes Sarah Friar (CFO) and Kevin Weil (CPO)](https://openai.com/index/openai-welcomes-cfo-cpo/)
 * [2024-06-10, 17:22:46](https://news.ycombinator.com/item?id=40635834) - [Google has been blocking Invidious with error \"This helps protect our community\"](https://github.com/iv-org/invidious/issues/4734)
 * [2024-06-10, 17:18:43](https://news.ycombinator.com/item?id=40635789) - [How Two Rebel Physicists Changed Quantum Theory](https://daily.jstor.org/how-two-rebel-physicists-changed-quantum-theory/)
