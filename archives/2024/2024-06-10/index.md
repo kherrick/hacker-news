@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-10](index.md)
 
+* [2024-06-10, 22:48:42](https://news.ycombinator.com/item?id=40640159) - [What's new in Xcode 16 [video]](https://developer.apple.com/videos/play/wwdc2024/10135/)
 * [2024-06-10, 22:26:50](https://news.ycombinator.com/item?id=40639943) - [Oracle Java police start knocking on Fortune 200's doors for first time](https://www.theregister.com/2024/06/10/fortune_200_oracle_java_audit/)
 * [2024-06-10, 21:53:07](https://news.ycombinator.com/item?id=40639606) - [Private Cloud Compute: A new frontier for AI privacy in the cloud](https://security.apple.com/blog/private-cloud-compute/)
 * [2024-06-10, 21:42:11](https://news.ycombinator.com/item?id=40639506) - [Apple's On-Device and Server Foundation Models](https://machinelearning.apple.com/research/introducing-apple-foundation-models)

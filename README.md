@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-10, 22:48:42](https://news.ycombinator.com/item?id=40640159) - [What's new in Xcode 16 [video]](https://developer.apple.com/videos/play/wwdc2024/10135/)
 * [2024-06-10, 22:26:50](https://news.ycombinator.com/item?id=40639943) - [Oracle Java police start knocking on Fortune 200's doors for first time](https://www.theregister.com/2024/06/10/fortune_200_oracle_java_audit/)
 * [2024-06-10, 21:53:07](https://news.ycombinator.com/item?id=40639606) - [Private Cloud Compute: A new frontier for AI privacy in the cloud](https://security.apple.com/blog/private-cloud-compute/)
 * [2024-06-10, 21:42:11](https://news.ycombinator.com/item?id=40639506) - [Apple's On-Device and Server Foundation Models](https://machinelearning.apple.com/research/introducing-apple-foundation-models)
@@ -9,7 +10,6 @@
 * [2024-06-10, 21:00:43](https://news.ycombinator.com/item?id=40639032) - [Trieve (YC W24) Is Hiring an DevRel Software Engineer](https://www.ycombinator.com/companies/trieve/jobs/2jeeXLs-developer-relations-software-engineer)
 * [2024-06-10, 20:42:04](https://news.ycombinator.com/item?id=40638764) - [The New Math of How Large-Scale Order Emerges](https://www.quantamagazine.org/the-new-math-of-how-large-scale-order-emerges-20240610/)
 * [2024-06-10, 20:40:24](https://news.ycombinator.com/item?id=40638741) - [The British Newspaper Archive](https://www.britishnewspaperarchive.co.uk/)
-* [2024-06-10, 20:19:29](https://news.ycombinator.com/item?id=40638445) - [Printable Popup Horizontal Sundials](https://www.blocklayer.com/sundial-popeng)
 * [2024-06-10, 20:16:33](https://news.ycombinator.com/item?id=40638386) - [Controversial pesticide research all but vanished from a major conference](https://usrtk.org/bees-neonics/entomological-society-america-corporate-partners/)
 * [2024-06-10, 19:13:39](https://news.ycombinator.com/item?id=40637374) - [Pyrophone](https://en.wikipedia.org/wiki/Pyrophone)
 * [2024-06-10, 19:00:26](https://news.ycombinator.com/item?id=40637102) - [Deterioration of Local Community a Major Driver of Loss of Play-Based Childhood](https://www.afterbabel.com/p/community-based-childhood)
