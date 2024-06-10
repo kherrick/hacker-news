@@ -78,6 +78,7 @@
 * [2024-06-10, 08:22:36](https://news.ycombinator.com/item?id=40631350) - [Perl v5.40.0 is now available](https://perldoc.perl.org/perldelta)
 * [2024-06-10, 08:12:08](https://news.ycombinator.com/item?id=40631309) - [When (if ever) did the Sun set on the British Empire?](https://what-if.xkcd.com/48/)
 * [2024-06-10, 07:56:00](https://news.ycombinator.com/item?id=40631233) - [MOOC – free courses from University of Helsinki](https://www.mooc.fi/en/)
+* [2024-06-10, 07:53:35](https://news.ycombinator.com/item?id=40631223) - [Anti-Cheat Expert: all your pixels are belong to us](https://invlpg.dev/post/ace_screenshots/)
 * [2024-06-10, 06:49:52](https://news.ycombinator.com/item?id=40630909) - [PostgREST Tutorial: APIs made easy](https://notso.boringsql.com/guides/postgrest-apis-made-easy/)
 * [2024-06-10, 06:10:11](https://news.ycombinator.com/item?id=40630699) - [The Magical Mystery Merge Or Why we run FreeBSD-current at Netflix (2023) [pdf]](https://people.freebsd.org/~gallatin/talks/OpenFest2023.pdf)
 * [2024-06-10, 06:00:09](https://news.ycombinator.com/item?id=40630656) - [The Engine of the Future](https://c0de517e.com/014_future_engines.htm)
