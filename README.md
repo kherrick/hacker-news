@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-10, 03:26:32](https://news.ycombinator.com/item?id=40629849) - [It is time for more holistic practices in mental health](https://journals.plos.org/mentalhealth/article?id=10.1371/journal.pmen.0000028)
-* [2024-06-10, 02:53:07](https://news.ycombinator.com/item?id=40629681) - [Adobe Swears It's Not Training Its A.I. On Your Photoshops](https://slate.com/technology/2024/06/adobe-terms-use-backlash-licensing-royalty-generative-ai-creative-cloud.html)
 * [2024-06-10, 01:27:56](https://news.ycombinator.com/item?id=40629213) - [Monumental snake engravings of the Orinoco River](https://www.cambridge.org/core/journals/antiquity/article/monumental-snake-engravings-of-the-orinoco-river/147F83AA4381153C4D0F4EA4817B3766)
 * [2024-06-09, 23:46:29](https://news.ycombinator.com/item?id=40628573) - [Qualcomm Snapdragon X Elite prototype that runs Linux emerges](https://www.techradar.com/pro/qualcomm-snapdragon-x-elite-prototype-that-runs-linux-emerges-from-a-brand-youve-probably-never-heard-of-schenker-tuxedo-has-12-core-cpu-with-32gb-ram-and-surprise-surprise-debian)
 * [2024-06-09, 20:56:29](https://news.ycombinator.com/item?id=40627558) - [A ChatGPT mistake cost us $10k](https://asim.bearblog.dev/how-a-single-chatgpt-mistake-cost-us-10000/)
@@ -10,6 +9,7 @@
 * [2024-06-09, 19:23:08](https://news.ycombinator.com/item?id=40626807) - [Designing a Lego orrery](https://marian42.de/article/orrery/)
 * [2024-06-09, 18:13:34](https://news.ycombinator.com/item?id=40626332) - [A Revolution in Biology?](https://www.bitsofwonder.co/p/a-revolution-in-biology)
 * [2024-06-09, 17:21:18](https://news.ycombinator.com/item?id=40625959) - [A new world of DIY medical testing](https://www.washingtonpost.com/technology/2024/06/09/home-health-tests-doctors-fda/)
+* [2024-06-09, 15:35:21](https://news.ycombinator.com/item?id=40625141) - [A nanoGPT pipeline packed in a spreadsheet](https://github.com/dabochen/spreadsheet-is-all-you-need)
 * [2024-06-09, 15:31:19](https://news.ycombinator.com/item?id=40625107) - [Everything about Mars is the worst (2017)](https://fivethirtyeight.com/features/everything-about-mars-is-the-worst/)
 * [2024-06-09, 15:06:50](https://news.ycombinator.com/item?id=40624924) - [The Weird Nerd comes with trade-offs](https://www.writingruxandrabio.com/p/the-weird-nerd-comes-with-trade-offs)
 * [2024-06-09, 14:35:43](https://news.ycombinator.com/item?id=40624709) - [Ultrasonic investigations in shopping centres](https://www.windytan.com/2024/06/ultrasonic-investigations-in-shopping.html)
