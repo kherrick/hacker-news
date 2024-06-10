@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-10](index.md)
 
+* [2024-06-10, 12:57:38](https://news.ycombinator.com/item?id=40633108) - [Ask HN: Was Sun Microsystems the last respectable tech company?](https://news.ycombinator.com/item?id=40633108)
+* [2024-06-10, 12:49:14](https://news.ycombinator.com/item?id=40633020) - [Welcome to the Era of Garbage Film and Television Streaming](https://jacobin.com/2024/06/tv-streaming-private-equity/)
 * [2024-06-10, 12:32:52](https://news.ycombinator.com/item?id=40632881) - [The Meaning of Bitcoin](https://maraoz.com/2024/06/10/bitcoin/)
 * [2024-06-10, 12:24:17](https://news.ycombinator.com/item?id=40632809) - [Tuxedo on ARM Is Coming](https://www.tuxedocomputers.com/en/TUXEDO-on-ARM-is-coming.tuxedo)
 * [2024-06-10, 12:19:46](https://news.ycombinator.com/item?id=40632773) - [Show HN: Markdown HN profiles at {user}.at.hn](https://at.hn)
