@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-10](index.md)
 
+* [2024-06-10, 22:26:50](https://news.ycombinator.com/item?id=40639943) - [Oracle Java police start knocking on Fortune 200's doors for first time](https://www.theregister.com/2024/06/10/fortune_200_oracle_java_audit/)
 * [2024-06-10, 21:42:11](https://news.ycombinator.com/item?id=40639506) - [Apple's On-Device and Server Foundation Models](https://machinelearning.apple.com/research/introducing-apple-foundation-models)
 * [2024-06-10, 21:10:37](https://news.ycombinator.com/item?id=40639148) - [Heard of Idempotency but unsure what it is?](https://timmoth.github.io/AsyncMonolith/posts/idempotency/)
 * [2024-06-10, 21:10:03](https://news.ycombinator.com/item?id=40639137) - [New GitHub Organization for the Swift Project](https://www.swift.org/blog/swiftlang-github/)
@@ -74,6 +75,7 @@
 * [2024-06-10, 08:22:36](https://news.ycombinator.com/item?id=40631350) - [Perl v5.40.0 is now available](https://perldoc.perl.org/perldelta)
 * [2024-06-10, 08:12:08](https://news.ycombinator.com/item?id=40631309) - [When (if ever) did the Sun set on the British Empire?](https://what-if.xkcd.com/48/)
 * [2024-06-10, 07:56:00](https://news.ycombinator.com/item?id=40631233) - [MOOC – free courses from University of Helsinki](https://www.mooc.fi/en/)
+* [2024-06-10, 06:49:52](https://news.ycombinator.com/item?id=40630909) - [PostgREST Tutorial: APIs made easy](https://notso.boringsql.com/guides/postgrest-apis-made-easy/)
 * [2024-06-10, 06:10:11](https://news.ycombinator.com/item?id=40630699) - [The Magical Mystery Merge Or Why we run FreeBSD-current at Netflix (2023) [pdf]](https://people.freebsd.org/~gallatin/talks/OpenFest2023.pdf)
 * [2024-06-10, 06:00:09](https://news.ycombinator.com/item?id=40630656) - [The Engine of the Future](https://c0de517e.com/014_future_engines.htm)
 * [2024-06-10, 04:31:59](https://news.ycombinator.com/item?id=40630174) - [Omakub – Opinionated Ubuntu Setup](https://github.com/basecamp/omakub)
