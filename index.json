@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-10, 17:29:26",
+      "https://news.ycombinator.com/item?id=40635906"
+    ],
+    [
+      "Apple unveils iOS 18 with new home screen",
+      "https://9to5mac.com/2024/06/10/ios-18-new-features-launch-release-date/"
+    ]
+  ],
+  [
+    [
       "2024-06-10, 17:15:05",
       "https://news.ycombinator.com/item?id=40635749"
     ],
@@ -111,6 +121,16 @@
   ],
   [
     [
+      "2024-06-10, 12:14:56",
+      "https://news.ycombinator.com/item?id=40632745"
+    ],
+    [
+      "Sending Emails to my three-year-old",
+      "https://blog.haschek.at/2024/leaving-a-digital-legacy.html"
+    ]
+  ],
+  [
+    [
       "2024-06-10, 11:47:00",
       "https://news.ycombinator.com/item?id=40632533"
     ],
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2024-06-09, 11:08:09",
-      "https://news.ycombinator.com/item?id=40623629"
-    ],
-    [
-      "Cheap, outsourced labour in Africa is shaping AI English",
-      "https://www.theguardian.com/technology/2024/apr/16/techscape-ai-gadgest-humane-ai-pin-chatgpt"
-    ]
-  ],
-  [
-    [
       "2024-06-09, 10:40:27",
       "https://news.ycombinator.com/item?id=40623497"
     ],
     [
       "Fingerprinting VPNs with Custom Router Firmware [pdf]",
       "https://censorbib.nymity.ch/pdf/Almutairi2024a.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-06-09, 09:11:07",
-      "https://news.ycombinator.com/item?id=40623048"
-    ],
-    [
-      "So you want to build a browser engine",
-      "https://robert.ocallahan.org/2024/06/browser-engine.html"
     ]
   ],
   [
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2024-06-08, 20:40:12",
-      "https://news.ycombinator.com/item?id=40620055"
-    ],
-    [
-      "Claude's Character",
-      "https://www.anthropic.com/research/claude-character"
-    ]
-  ],
-  [
-    [
       "2024-06-08, 11:42:50",
       "https://news.ycombinator.com/item?id=40616930"
     ],
     [
       "An Introduction to ARM64 Assembly on Apple Silicon Macs",
       "https://github.com/below/HelloSilicon"
+    ]
+  ],
+  [
+    [
+      "2024-06-08, 10:56:52",
+      "https://news.ycombinator.com/item?id=40616752"
+    ],
+    [
+      "`Bytes`: The Lesser-Known Python Built-In Sequence",
+      "https://www.thepythoncodingstack.com/p/bytes-python-built-in-unicode-utf-8-encoding"
     ]
   ],
   [
