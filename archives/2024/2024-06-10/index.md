@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2024-06-10](index.md)
 
 * [2024-06-10, 22:26:50](https://news.ycombinator.com/item?id=40639943) - [Oracle Java police start knocking on Fortune 200's doors for first time](https://www.theregister.com/2024/06/10/fortune_200_oracle_java_audit/)
+* [2024-06-10, 21:53:07](https://news.ycombinator.com/item?id=40639606) - [Private Cloud Compute: A new frontier for AI privacy in the cloud](https://security.apple.com/blog/private-cloud-compute/)
 * [2024-06-10, 21:42:11](https://news.ycombinator.com/item?id=40639506) - [Apple's On-Device and Server Foundation Models](https://machinelearning.apple.com/research/introducing-apple-foundation-models)
+* [2024-06-10, 21:35:20](https://news.ycombinator.com/item?id=40639429) - [Malicious VSCode extensions with installs discovered](https://www.bleepingcomputer.com/news/security/malicious-vscode-extensions-with-millions-of-installs-discovered/)
 * [2024-06-10, 21:10:37](https://news.ycombinator.com/item?id=40639148) - [Heard of Idempotency but unsure what it is?](https://timmoth.github.io/AsyncMonolith/posts/idempotency/)
 * [2024-06-10, 21:10:03](https://news.ycombinator.com/item?id=40639137) - [New GitHub Organization for the Swift Project](https://www.swift.org/blog/swiftlang-github/)
 * [2024-06-10, 21:00:43](https://news.ycombinator.com/item?id=40639032) - [Trieve (YC W24) Is Hiring an DevRel Software Engineer](https://www.ycombinator.com/companies/trieve/jobs/2jeeXLs-developer-relations-software-engineer)
