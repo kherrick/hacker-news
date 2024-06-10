@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-10, 18:55:13](https://news.ycombinator.com/item?id=40636980) - [OpenAI and Apple Announce Partnership](https://openai.com/index/openai-and-apple-announce-partnership/)
+* [2024-06-10, 18:49:07](https://news.ycombinator.com/item?id=40636854) - [macOS Sequoia Preview](https://www.apple.com/macos/macos-sequoia-preview/)
 * [2024-06-10, 18:48:47](https://news.ycombinator.com/item?id=40636844) - [Introducing Apple Intelligence, the personal intelligence system](https://www.apple.com/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
-* [2024-06-10, 18:29:58](https://news.ycombinator.com/item?id=40636581) - [YouTube starts requiring login to watch videos](https://files.catbox.moe/gtwa1g.PNG)
 * [2024-06-10, 18:23:05](https://news.ycombinator.com/item?id=40636502) - [Apple is launching its own password manager app](https://techcrunch.com/2024/06/10/apple-is-launching-its-own-password-manager-app/)
 * [2024-06-10, 18:07:24](https://news.ycombinator.com/item?id=40636331) - [Apple blocks PC emulator in iOS App Store and third-party app stores](https://9to5mac.com/2024/06/09/apple-blocks-pc-emulator-utm-app-store/)
 * [2024-06-10, 17:34:38](https://news.ycombinator.com/item?id=40635959) - [OpenAI Welcomes Sarah Friar (CFO) and Kevin Weil (CPO)](https://openai.com/index/openai-welcomes-cfo-cpo/)
@@ -9,7 +10,6 @@
 * [2024-06-10, 17:18:43](https://news.ycombinator.com/item?id=40635789) - [How Two Rebel Physicists Changed Quantum Theory](https://daily.jstor.org/how-two-rebel-physicists-changed-quantum-theory/)
 * [2024-06-10, 17:09:52](https://news.ycombinator.com/item?id=40635697) - [pico9918: A replacement TMS9918A/TMS9929A VDP using a Raspberry Pi Pico](https://github.com/visrealm/pico9918)
 * [2024-06-10, 17:01:58](https://news.ycombinator.com/item?id=40635628) - [Brainbase (YC W24) Is Hiring Head of Product](https://www.ycombinator.com/companies/brainbase/jobs/W62qIfA-founding-head-of-product)
-* [2024-06-10, 16:52:57](https://news.ycombinator.com/item?id=40635512) - [Evidence for transient morning water frost on the Tharsis volcanoes of Mars](https://www.nature.com/articles/s41561-024-01457-7)
 * [2024-06-10, 16:40:05](https://news.ycombinator.com/item?id=40635397) - [Show HN: Probabilistic Tic-Tac-Toe](https://www.csun.io/2024/06/08/probabilistic-tic-tac-toe.html)
 * [2024-06-10, 15:46:14](https://news.ycombinator.com/item?id=40634823) - [XScreenSaver is available on Android. Google requires a privacy policy](https://chaos.social/@scy/112591102162587559)
 * [2024-06-10, 15:42:33](https://news.ycombinator.com/item?id=40634774) - [Why Triplebyte Failed](https://www.otherbranch.com/blog/why-triplebyte-failed)

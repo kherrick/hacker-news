@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-10](index.md)
 
+* [2024-06-10, 18:55:13](https://news.ycombinator.com/item?id=40636980) - [OpenAI and Apple Announce Partnership](https://openai.com/index/openai-and-apple-announce-partnership/)
+* [2024-06-10, 18:49:07](https://news.ycombinator.com/item?id=40636854) - [macOS Sequoia Preview](https://www.apple.com/macos/macos-sequoia-preview/)
 * [2024-06-10, 18:48:47](https://news.ycombinator.com/item?id=40636844) - [Introducing Apple Intelligence, the personal intelligence system](https://www.apple.com/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
 * [2024-06-10, 18:29:58](https://news.ycombinator.com/item?id=40636581) - [YouTube starts requiring login to watch videos](https://files.catbox.moe/gtwa1g.PNG)
 * [2024-06-10, 18:23:05](https://news.ycombinator.com/item?id=40636502) - [Apple is launching its own password manager app](https://techcrunch.com/2024/06/10/apple-is-launching-its-own-password-manager-app/)
