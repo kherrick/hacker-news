@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-10, 10:44:19](https://news.ycombinator.com/item?id=40632115) - [Study finds a quarter of bosses hoped RTO would make employees quit](https://www.theregister.com/2024/06/09/rto_quit_study/)
 * [2024-06-10, 10:30:03](https://news.ycombinator.com/item?id=40632040) - [Passenger tracks missing luggage to home of airport store worker](https://www.cnn.com/travel/airline-passenger-tracks-missing-bag-felony-theft/index.html)
 * [2024-06-10, 09:02:22](https://news.ycombinator.com/item?id=40631558) - [The Mythical Non-Roboticist: Wouldn't it be great if everyone could do robotics?](https://spectrum.ieee.org/the-mythical-non-roboticist)
 * [2024-06-10, 08:38:42](https://news.ycombinator.com/item?id=40631439) - [WebKit fix: Quirk news.ycombinator to skip TextAutoSizing](https://github.com/WebKit/WebKit/commit/84ae355619354ee1bfa7daaa1fc95565a6726be3)
-* [2024-06-10, 08:26:52](https://news.ycombinator.com/item?id=40631370) - [Elsevier embeds a hash in the PDF metadata that is unique for each download](https://social.coop/@jonny/107685726645817029)
+* [2024-06-10, 08:26:52](https://news.ycombinator.com/item?id=40631370) - [Elsevier embeds a hash in the PDF metadata that is unique for each download (2022)](https://social.coop/@jonny/107685726645817029)
 * [2024-06-10, 08:22:36](https://news.ycombinator.com/item?id=40631350) - [Perl v5.40.0 is now available](https://perldoc.perl.org/perldelta)
 * [2024-06-10, 08:12:08](https://news.ycombinator.com/item?id=40631309) - [When (if ever) did the Sun set on the British Empire?](https://what-if.xkcd.com/48/)
 * [2024-06-10, 06:10:11](https://news.ycombinator.com/item?id=40630699) - [The Magical Mystery Merge Or Why we run FreeBSD-current at Netflix (2023) [pdf]](https://people.freebsd.org/~gallatin/talks/OpenFest2023.pdf)
@@ -29,7 +30,6 @@
 * [2024-06-08, 00:32:06](https://news.ycombinator.com/item?id=40614308) - [WARC-GPT: An open-source tool for exploring web archives using AI](https://lil.law.harvard.edu/blog/2024/02/12/warc-gpt-an-open-source-tool-for-exploring-web-archives-with-ai/)
 * [2024-06-07, 20:04:19](https://news.ycombinator.com/item?id=40612406) - [My lunches with the queen of cookbooks](https://tastecooking.com/my-lunches-with-judith-jones-the-queen-of-cookbooks/)
 * [2024-06-07, 12:05:54](https://news.ycombinator.com/item?id=40607845) - [Inline Assembly Dangers](https://fobes.dev/general/2024/02/29/inline-assembly-dangers.html)
-* [2024-06-06, 22:46:46](https://news.ycombinator.com/item?id=40603277) - [Bali's stone sarcophagi included global goods](https://www.atlasobscura.com/articles/bali-stone-sarcophagus-artifacts)
 
 ## [Archives](archives/index.md)
 

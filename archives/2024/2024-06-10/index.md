@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-10](index.md)
 
+* [2024-06-10, 10:44:19](https://news.ycombinator.com/item?id=40632115) - [Study finds a quarter of bosses hoped RTO would make employees quit](https://www.theregister.com/2024/06/09/rto_quit_study/)
 * [2024-06-10, 10:30:03](https://news.ycombinator.com/item?id=40632040) - [Passenger tracks missing luggage to home of airport store worker](https://www.cnn.com/travel/airline-passenger-tracks-missing-bag-felony-theft/index.html)
 * [2024-06-10, 09:02:22](https://news.ycombinator.com/item?id=40631558) - [Robot Programming: Stop Designing Software for Non-Roboticists](https://spectrum.ieee.org/the-mythical-non-roboticist)
 * [2024-06-10, 08:53:03](https://news.ycombinator.com/item?id=40631517) - [Patrick Breyer and Pirate Party Lose EU Parliament Seats](https://stackdiary.com/patrick-breyer-and-pirate-party-lose-eu-parliament-seats/)
