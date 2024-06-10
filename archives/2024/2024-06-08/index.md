@@ -58,6 +58,7 @@
 * [2024-06-08, 11:23:05](https://news.ycombinator.com/item?id=40616856) - [Reveiw of June 7, 2023 Wildfire Smoke Event (National Weather Service)](https://storymaps.arcgis.com/stories/cf05c50f058a40e99e2da54ec098a40a)
 * [2024-06-08, 11:02:32](https://news.ycombinator.com/item?id=40616778) - [Tiny fern has the largest genome of any organism on Earth](https://phys.org/news/2024-05-tiny-fern-largest-genome-earth.html)
 * [2024-06-08, 11:02:22](https://news.ycombinator.com/item?id=40616776) - [Like Diogenes Across the Atlantic](https://floatmagazin.de/en/people/jean-jaques-savin-tonne-like-diogenes-across-theatlantic/)
+* [2024-06-08, 10:56:52](https://news.ycombinator.com/item?id=40616752) - [`Bytes`: The Lesser-Known Python Built-In Sequence](https://www.thepythoncodingstack.com/p/bytes-python-built-in-unicode-utf-8-encoding)
 * [2024-06-08, 10:43:42](https://news.ycombinator.com/item?id=40616689) - [Google cut Uncle Sam a $2M check so it could avoid a jury trial](https://www.cnn.com/2024/06/07/business/google-doj-antitrust-case-judge-decision/index.html)
 * [2024-06-08, 10:31:19](https://news.ycombinator.com/item?id=40616632) - [What does it feel like to read RSS feeds?](https://hamatti.org/posts/what-does-it-feel-like-to-read-rss-feeds/)
 * [2024-06-08, 10:25:28](https://news.ycombinator.com/item?id=40616611) - [Critical Vulnerabilities in Package Manager Revealed by Secret Scanning Research](https://sockpuppets.medium.com/exposing-hidden-dangers-the-essential-guide-to-secret-scanning-in-package-repositories-c483dcf3b82f)

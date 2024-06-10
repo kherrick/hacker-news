@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-10](index.md)
 
+* [2024-06-10, 17:29:26](https://news.ycombinator.com/item?id=40635906) - [Apple unveils iOS 18 with new home screen](https://9to5mac.com/2024/06/10/ios-18-new-features-launch-release-date/)
 * [2024-06-10, 17:15:05](https://news.ycombinator.com/item?id=40635749) - [Apple Debuts VisionOS 2](https://techcrunch.com/2024/06/10/apple-debuts-visionos-2/)
 * [2024-06-10, 17:01:58](https://news.ycombinator.com/item?id=40635628) - [Brainbase (YC W24) Is Hiring Head of Product](https://www.ycombinator.com/companies/brainbase/jobs/W62qIfA-founding-head-of-product)
 * [2024-06-10, 16:52:57](https://news.ycombinator.com/item?id=40635512) - [Evidence for transient morning water frost on the Tharsis volcanoes of Mars](https://www.nature.com/articles/s41561-024-01457-7)
@@ -28,6 +29,7 @@
 * [2024-06-10, 12:32:52](https://news.ycombinator.com/item?id=40632881) - [The Meaning of Bitcoin](https://maraoz.com/2024/06/10/bitcoin/)
 * [2024-06-10, 12:24:17](https://news.ycombinator.com/item?id=40632809) - [Tuxedo on ARM Is Coming](https://www.tuxedocomputers.com/en/TUXEDO-on-ARM-is-coming.tuxedo)
 * [2024-06-10, 12:19:46](https://news.ycombinator.com/item?id=40632773) - [Show HN: Markdown HN profiles at {user}.at.hn](https://at.hn)
+* [2024-06-10, 12:14:56](https://news.ycombinator.com/item?id=40632745) - [Sending Emails to my three-year-old](https://blog.haschek.at/2024/leaving-a-digital-legacy.html)
 * [2024-06-10, 12:00:20](https://news.ycombinator.com/item?id=40632641) - [Meticulous (YC S21) is hiring to eliminate UI E2E tests](https://news.ycombinator.com/item?id=40632641)
 * [2024-06-10, 11:58:54](https://news.ycombinator.com/item?id=40632625) - [Senior employees, ordered back to the office, are jumping ship](https://www.computerworld.com/article/2138277/senior-employees-ordered-back-to-the-office-are-jumping-ship.html)
 * [2024-06-10, 11:47:00](https://news.ycombinator.com/item?id=40632533) - [Show HN: Crawl a modern website to a zip, serve the website from the zip](https://github.com/potahtml/mpa-archive)
