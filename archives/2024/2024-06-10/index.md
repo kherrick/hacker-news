@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-10](index.md)
 
+* [2024-06-10, 17:01:58](https://news.ycombinator.com/item?id=40635628) - [Brainbase (YC W24) Is Hiring Head of Product](https://www.ycombinator.com/companies/brainbase/jobs/W62qIfA-founding-head-of-product)
+* [2024-06-10, 16:40:05](https://news.ycombinator.com/item?id=40635397) - [Show HN: Probabilistic Tic-Tac-Toe](https://www.csun.io/2024/06/08/probabilistic-tic-tac-toe.html)
+* [2024-06-10, 16:09:26](https://news.ycombinator.com/item?id=40635092) - [WWDC 2024 [video]](https://www.youtube.com/watch?v=RXeOiIDNNek)
 * [2024-06-10, 15:46:14](https://news.ycombinator.com/item?id=40634823) - [XScreenSaver is available on Android. Google requires a privacy policy](https://chaos.social/@scy/112591102162587559)
 * [2024-06-10, 15:42:33](https://news.ycombinator.com/item?id=40634774) - [Why Triplebyte Failed](https://www.otherbranch.com/blog/why-triplebyte-failed)
 * [2024-06-10, 15:17:12](https://news.ycombinator.com/item?id=40634539) - [IRS makes Direct File a permanent option to file federal tax returns](https://www.irs.gov/newsroom/irs-makes-direct-file-a-permanent-option-to-file-federal-tax-returns-expanded-access-for-more-taxpayers-planned-for-the-2025-filing-season)
