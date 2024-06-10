@@ -9,6 +9,7 @@
 * [2024-06-10, 04:15:26](https://news.ycombinator.com/item?id=40630067) - [GPT-4 autonomously hacks zero-day security flaws with 53% success rate](https://newatlas.com/technology/gpt4-autonomously-hack-zero-day-security-flaws/)
 * [2024-06-10, 04:04:52](https://news.ycombinator.com/item?id=40630024) - [My Month Without a Smartphone](https://collabfund.com/blog/my-month-without-a-smartphone/)
 * [2024-06-10, 03:26:32](https://news.ycombinator.com/item?id=40629849) - [It is time for more holistic practices in mental health](https://journals.plos.org/mentalhealth/article?id=10.1371/journal.pmen.0000028)
+* [2024-06-10, 02:53:07](https://news.ycombinator.com/item?id=40629681) - [Adobe Swears It's Not Training Its A.I. On Your Photoshops](https://slate.com/technology/2024/06/adobe-terms-use-backlash-licensing-royalty-generative-ai-creative-cloud.html)
 * [2024-06-10, 02:48:46](https://news.ycombinator.com/item?id=40629654) - [Gravatar Is Back](https://ma.tt/2024/06/gravatar-is-back/)
 * [2024-06-10, 02:31:40](https://news.ycombinator.com/item?id=40629570) - [Tesla's unsold inventory is creating stockpiles you can see from space](https://sherwood.news/business/elon-musk-tesla-extra-inventory-satellite-imagery/)
 * [2024-06-10, 01:27:56](https://news.ycombinator.com/item?id=40629213) - [Monumental snake engravings of the Orinoco River](https://www.cambridge.org/core/journals/antiquity/article/monumental-snake-engravings-of-the-orinoco-river/147F83AA4381153C4D0F4EA4817B3766)
