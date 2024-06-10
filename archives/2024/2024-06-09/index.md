@@ -73,6 +73,7 @@
 * [2024-06-09, 07:55:59](https://news.ycombinator.com/item?id=40622744) - [Volvo to shift EV production to Europe to escape China tariffs](https://www.thetimes.com/business-money/companies/article/volvo-to-shift-ev-production-to-europe-to-escape-china-tariffs-btx9swhr6)
 * [2024-06-09, 07:47:26](https://news.ycombinator.com/item?id=40622724) - [Orwell on the Isle of Jura](https://www.bbc.com/news/articles/cyrrylklzjdo)
 * [2024-06-09, 07:40:25](https://news.ycombinator.com/item?id=40622704) - [piku: The tiniest PaaS you've ever seen](https://github.com/piku/piku)
+* [2024-06-09, 07:31:41](https://news.ycombinator.com/item?id=40622671) - [PiDP-10 – a modern replica of the PDP-10](https://obsolescence.dev/pidp10.html)
 * [2024-06-09, 07:19:51](https://news.ycombinator.com/item?id=40622634) - [Electric headset for treating depression recommended after NHS trial](https://news.sky.com/story/electric-headset-for-treating-depression-recommended-as-widespread-treatment-after-nhs-trial-13150095)
 * [2024-06-09, 06:05:21](https://news.ycombinator.com/item?id=40622384) - [We went solar and here are the real numbers (2011)](https://joshuatauberer.medium.com/we-went-solar-and-here-are-the-real-numbers-7a7f28d51897)
 * [2024-06-09, 05:14:51](https://news.ycombinator.com/item?id=40622209) - [Scratchapixel 4.0, Learn Computer Graphics Programming](https://www.scratchapixel.com/index.html)
