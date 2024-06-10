@@ -24,6 +24,7 @@
 * [2024-06-10, 08:26:52](https://news.ycombinator.com/item?id=40631370) - [Elsevier embeds a hash in the PDF metadata that is unique for each download](https://social.coop/@jonny/107685726645817029)
 * [2024-06-10, 08:22:36](https://news.ycombinator.com/item?id=40631350) - [Perl v5.40.0 is now available](https://perldoc.perl.org/perldelta)
 * [2024-06-10, 08:12:08](https://news.ycombinator.com/item?id=40631309) - [When (if ever) did the Sun set on the British Empire?](https://what-if.xkcd.com/48/)
+* [2024-06-10, 07:56:00](https://news.ycombinator.com/item?id=40631233) - [MOOC – free courses from University of Helsinki](https://www.mooc.fi/en/)
 * [2024-06-10, 06:10:11](https://news.ycombinator.com/item?id=40630699) - [The Magical Mystery Merge Or Why we run FreeBSD-current at Netflix (2023) [pdf]](https://people.freebsd.org/~gallatin/talks/OpenFest2023.pdf)
 * [2024-06-10, 04:31:59](https://news.ycombinator.com/item?id=40630174) - [Omakub – Opinionated Ubuntu Setup](https://github.com/basecamp/omakub)
 * [2024-06-10, 04:21:25](https://news.ycombinator.com/item?id=40630105) - [Apple WWDC Event Will Show Whether It Can Be a Force in AI Industry](https://www.bloomberg.com/news/articles/2024-06-10/apple-wwdc-event-will-show-whether-it-can-be-a-force-in-ai-industry)
