@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-11, 18:26:14](https://news.ycombinator.com/item?id=40649746) - [Mastercard Launches Its Biometric Retail Payment System in Europe](https://www.nakedcapitalism.com/2024/06/mastercards-biometric-retail-payment-system-finally-arrives-in-europe-following-pilot-tests-in-global-south.html)
 * [2024-06-11, 17:30:09](https://news.ycombinator.com/item?id=40649091) - [London–Calcutta Bus Service](https://en.wikipedia.org/wiki/London%E2%80%93Calcutta_bus_service)
 * [2024-06-11, 16:58:16](https://news.ycombinator.com/item?id=40648697) - [Show HN: A cartoon intro to how the attention mechanism works](https://ai-explained.yoko.dev/1-attention-explained)
 * [2024-06-11, 16:44:11](https://news.ycombinator.com/item?id=40648470) - [Lynn Conway Has Died](https://en.wikipedia.org/wiki/Lynn_Conway)
 * [2024-06-11, 16:25:16](https://news.ycombinator.com/item?id=40648193) - [Coqui.ai TTS: A Deep Learning Toolkit for Text-to-Speech](https://github.com/coqui-ai/TTS)
 * [2024-06-11, 15:34:37](https://news.ycombinator.com/item?id=40647491) - [FDA denies petition against use of phthalates in food packaging](https://www.fda.gov/food/cfsan-constituent-updates/fda-responds-petition-phthalates-food-packaging-and-food-contact-applications)
-* [2024-06-11, 15:10:11](https://news.ycombinator.com/item?id=40647096) - [The Light Phone III](https://www.thelightphone.com/lightiii)
 * [2024-06-11, 14:49:05](https://news.ycombinator.com/item?id=40646820) - [Meta Open-Sources Megalodon LLM for Efficient Long Sequence Modeling](https://www.infoq.com/news/2024/06/meta-llm-megalodon/)
 * [2024-06-11, 14:43:31](https://news.ycombinator.com/item?id=40646741) - [Show HN: Revideo – Create Videos with Code](https://github.com/redotvideo/revideo)
 * [2024-06-11, 14:38:41](https://news.ycombinator.com/item?id=40646684) - [Motion (YC W20) Is Hiring Senior Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
