@@ -75,6 +75,7 @@
 * [2024-06-10, 10:15:08](https://news.ycombinator.com/item?id=40631959) - [Germany trials the four-day workweek: \"Free time is invaluable\"](https://www.welcometothejungle.com/en/articles/germany-trials-four-day-workweek)
 * [2024-06-10, 09:22:40](https://news.ycombinator.com/item?id=40631663) - [\"How people fall apart\": The Neuroscience of Burnout](https://yaledailynews.com/blog/2022/03/29/how-people-fall-apart-yale-faculty-discuss-the-impact-of-burnout-on-the-brain/)
 * [2024-06-10, 09:15:08](https://news.ycombinator.com/item?id=40631623) - [Understanding the Burnt-Out Brain](https://www.neurovine.ai/blog/understanding-the-burntout-brain)
+* [2024-06-10, 09:14:08](https://news.ycombinator.com/item?id=40631614) - [An Arduino interface for 8088 CPUs](https://github.com/dbalsom/arduino_8088)
 * [2024-06-10, 09:07:51](https://news.ycombinator.com/item?id=40631585) - [Filmed.js: film strip image effect](https://www.netzgesta.de/filmed/)
 * [2024-06-10, 09:02:22](https://news.ycombinator.com/item?id=40631558) - [Robot Programming: Stop Designing Software for Non-Roboticists](https://spectrum.ieee.org/the-mythical-non-roboticist)
 * [2024-06-10, 08:53:03](https://news.ycombinator.com/item?id=40631517) - [Patrick Breyer and Pirate Party Lose EU Parliament Seats](https://stackdiary.com/patrick-breyer-and-pirate-party-lose-eu-parliament-seats/)
