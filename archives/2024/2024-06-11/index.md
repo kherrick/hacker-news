@@ -14,6 +14,7 @@
 * [2024-06-11, 09:43:51](https://news.ycombinator.com/item?id=40644323) - [Exploring TrustZone-M on the NRF9160](https://lenas-fieldnotes.de/minimal-tz/)
 * [2024-06-11, 09:26:15](https://news.ycombinator.com/item?id=40644205) - [Omnivore: A read-it-later app sponsored with the help of Open Collective](https://opencollective.com/omnivore)
 * [2024-06-11, 08:58:31](https://news.ycombinator.com/item?id=40644040) - [OpenRecall](https://github.com/openrecall/openrecall)
+* [2024-06-11, 07:36:12](https://news.ycombinator.com/item?id=40643588) - [Jgs Font](https://adelfaure.net/tools/jgs/)
 * [2024-06-11, 06:36:44](https://news.ycombinator.com/item?id=40643207) - [POV-Ray – The Persistence of Vision Raytracer](http://www.povray.org/)
 * [2024-06-11, 06:31:49](https://news.ycombinator.com/item?id=40643181) - [macOS Sequoia to Allow iCloud Logins in Virtual Machines on ARM Macs](https://developer.apple.com/documentation/virtualization/using_icloud_with_macos_virtual_machines?language=objc)
 * [2024-06-11, 06:29:49](https://news.ycombinator.com/item?id=40643167) - [Exploring Gleam, a type-safe language on the BEAM](https://christopher.engineering/en/blog/gleam-overview/)
