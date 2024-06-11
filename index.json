@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-11, 04:26:29",
+      "https://news.ycombinator.com/item?id=40642328"
+    ],
+    [
+      "macOS 15.0 supports Nested Virtualization on M3 chips",
+      "https://developer.apple.com/documentation/virtualization/vzgenericplatformconfiguration/4360553-isnestedvirtualizationsupported"
+    ]
+  ],
+  [
+    [
       "2024-06-11, 02:55:17",
       "https://news.ycombinator.com/item?id=40641795"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2024-06-10, 17:09:52",
-      "https://news.ycombinator.com/item?id=40635697"
-    ],
-    [
-      "pico9918: A replacement TMS9918A/TMS9929A VDP using a Raspberry Pi Pico",
-      "https://github.com/visrealm/pico9918"
-    ]
-  ],
-  [
-    [
       "2024-06-10, 16:40:05",
       "https://news.ycombinator.com/item?id=40635397"
     ],
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2024-06-10, 11:47:00",
-      "https://news.ycombinator.com/item?id=40632533"
-    ],
-    [
-      "Show HN: Crawl a modern website to a zip, serve the website from the zip",
-      "https://github.com/potahtml/mpa-archive"
-    ]
-  ],
-  [
-    [
       "2024-06-10, 11:26:56",
       "https://news.ycombinator.com/item?id=40632397"
     ],
@@ -277,6 +267,16 @@
     [
       "An Arduino interface for 8088 CPUs",
       "https://github.com/dbalsom/arduino_8088"
+    ]
+  ],
+  [
+    [
+      "2024-06-10, 09:04:41",
+      "https://news.ycombinator.com/item?id=40631573"
+    ],
+    [
+      "Wooden bowling arm that bested Australian cricketer in 1909 rebuilt",
+      "https://www.theguardian.com/technology/article/2024/jun/10/wooden-bowling-arm-john-venn-machine-rebuilt-cambridge-australia-1909-cricket-team"
     ]
   ],
   [
