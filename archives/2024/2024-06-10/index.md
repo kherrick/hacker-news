@@ -65,6 +65,7 @@
 * [2024-06-10, 12:47:48](https://news.ycombinator.com/item?id=40633003) - [Forsp: A Forth+Lisp Hybrid Lambda Calculus Language](https://xorvoid.com/forsp.html)
 * [2024-06-10, 12:32:52](https://news.ycombinator.com/item?id=40632881) - [The Meaning of Bitcoin](https://maraoz.com/2024/06/10/bitcoin/)
 * [2024-06-10, 12:24:17](https://news.ycombinator.com/item?id=40632809) - [Tuxedo on ARM Is Coming](https://www.tuxedocomputers.com/en/TUXEDO-on-ARM-is-coming.tuxedo)
+* [2024-06-10, 12:19:52](https://news.ycombinator.com/item?id=40632774) - [First chip-based 3D printer is smaller than a coin with no moving parts](https://www.tomshardware.com/3d-printing/worlds-first-chip-based-3d-printer-is-smaller-than-a-coin-benefits-from-having-no-moving-parts)
 * [2024-06-10, 12:19:46](https://news.ycombinator.com/item?id=40632773) - [Show HN: Markdown HN profiles at {user}.at.hn](https://at.hn)
 * [2024-06-10, 12:14:56](https://news.ycombinator.com/item?id=40632745) - [Sending Emails to my three-year-old](https://blog.haschek.at/2024/leaving-a-digital-legacy.html)
 * [2024-06-10, 12:00:20](https://news.ycombinator.com/item?id=40632641) - [Meticulous (YC S21) is hiring to eliminate UI E2E tests](https://news.ycombinator.com/item?id=40632641)
