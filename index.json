@@ -21,11 +21,21 @@
   ],
   [
     [
+      "2024-06-11, 14:32:10",
+      "https://news.ycombinator.com/item?id=40646602"
+    ],
+    [
+      "Some People with Insomnia Think They're Awake When They're Asleep",
+      "https://www.scientificamerican.com/article/some-people-with-insomnia-think-theyre-awake-when-theyre-asleep/"
+    ]
+  ],
+  [
+    [
       "2024-06-11, 14:25:49",
       "https://news.ycombinator.com/item?id=40646534"
     ],
     [
-      "Spam, junk ... slop? The latest wave of AI behind the 'zombie internet'",
+      "Spam, junk, slop? The latest wave of AI behind the 'zombie internet'",
       "https://www.theguardian.com/technology/article/2024/may/19/spam-junk-slop-the-latest-wave-of-ai-behind-the-zombie-internet"
     ]
   ],
@@ -211,32 +221,12 @@
   ],
   [
     [
-      "2024-06-10, 20:42:04",
-      "https://news.ycombinator.com/item?id=40638764"
-    ],
-    [
-      "The new math of how large-scale order emerges",
-      "https://www.quantamagazine.org/the-new-math-of-how-large-scale-order-emerges-20240610/"
-    ]
-  ],
-  [
-    [
       "2024-06-10, 18:50:53",
       "https://news.ycombinator.com/item?id=40636883"
     ],
     [
       "The rarest move in chess [video]",
       "https://www.youtube.com/watch?v=iDnW0WiCqNc"
-    ]
-  ],
-  [
-    [
-      "2024-06-10, 18:48:47",
-      "https://news.ycombinator.com/item?id=40636844"
-    ],
-    [
-      "Apple Intelligence for iPhone, iPad, and Mac",
-      "https://www.apple.com/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "The Backbone of Cybersecurity: Hardware Security Modules",
       "https://www.join.tech/blog/2024-0x10-the-backbone-of-cybersecurity-hardware-security-modules.php"
+    ]
+  ],
+  [
+    [
+      "2024-06-10, 06:05:30",
+      "https://news.ycombinator.com/item?id=40630676"
+    ],
+    [
+      "SIMD < SIMT < SMT: Parallelism in Nvidia GPUs (2011)",
+      "https://yosefk.com/blog/simd-simt-smt-parallelism-in-nvidia-gpus.html"
     ]
   ],
   [
