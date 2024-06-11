@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-11](index.md)
 
+* [2024-06-11, 06:36:44](https://news.ycombinator.com/item?id=40643207) - [POV-Ray – The Persistence of Vision Raytracer](http://www.povray.org/)
 * [2024-06-11, 06:31:49](https://news.ycombinator.com/item?id=40643181) - [macOS Sequoia to Allow iCloud Logins in Virtual Machines on ARM Macs](https://developer.apple.com/documentation/virtualization/using_icloud_with_macos_virtual_machines?language=objc)
 * [2024-06-11, 06:18:16](https://news.ycombinator.com/item?id=40643071) - [Spotify: Droppin' Some Fake Beats](https://lcamtuf.substack.com/p/spotify-droppin-some-fake-beats)
 * [2024-06-11, 05:40:13](https://news.ycombinator.com/item?id=40642801) - [British duo arrested for SMS phishing via homemade cell tower](https://www.cityoflondon.police.uk/news/city-of-london/news/2024/june/two-people-arrested-in-connection-with-investigation-into-homemade-mobile-antenna-used-to-send-thousands-of-smishing-text-messages-to-the-public/)
