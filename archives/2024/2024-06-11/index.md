@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-11](index.md)
 
 * [2024-06-11, 17:30:09](https://news.ycombinator.com/item?id=40649091) - [London–Calcutta Bus Service](https://en.wikipedia.org/wiki/London%E2%80%93Calcutta_bus_service)
+* [2024-06-11, 16:58:16](https://news.ycombinator.com/item?id=40648697) - [Show HN: A cartoon intro to how the attention mechanism works](https://ai-explained.yoko.dev/1-attention-explained)
 * [2024-06-11, 16:56:43](https://news.ycombinator.com/item?id=40648673) - [Kia Issues 'Park Outside' Recall for 2020-2024 Telluride Vehicles for Fire Risk](https://www.nhtsa.gov/press-releases/kia-telluride-recall-fire-risk)
 * [2024-06-11, 16:56:10](https://news.ycombinator.com/item?id=40648659) - [Twitch's New UI Is Awful](https://old.reddit.com/r/Twitch/comments/1d3h8e2/new_ui_is_awful/)
 * [2024-06-11, 16:44:11](https://news.ycombinator.com/item?id=40648470) - [Lynn Conway Has Died](https://en.wikipedia.org/wiki/Lynn_Conway)
