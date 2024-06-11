@@ -6,7 +6,7 @@
 * [2024-06-11, 10:30:18](https://news.ycombinator.com/item?id=40644585) - [The Google Pay app is dead](https://arstechnica.com/gadgets/2024/06/google-shuts-down-the-google-pay-app/)
 * [2024-06-11, 09:43:51](https://news.ycombinator.com/item?id=40644323) - [Exploring TrustZone-M on the NRF9160](https://lenas-fieldnotes.de/minimal-tz/)
 * [2024-06-11, 07:36:12](https://news.ycombinator.com/item?id=40643588) - [Jgs Font](https://adelfaure.net/tools/jgs/)
-* [2024-06-11, 06:36:44](https://news.ycombinator.com/item?id=40643207) - [POV-Ray – The Persistence of Vision Raytracer](http://www.povray.org/)
+* [2024-06-11, 06:36:44](https://news.ycombinator.com/item?id=40643207) - [POV-Ray – The Persistence of Vision Raytracer (2021)](http://www.povray.org/)
 * [2024-06-11, 02:55:17](https://news.ycombinator.com/item?id=40641795) - [Blackmagic Cine Immersive Capture for Vision Pro 8160x7200 Resolution per Eye](https://www.newsshooter.com/2024/06/10/blackmagic-ursa-cine-immersive-capture-content-for-apple-vision-pro-with-8160-x-7200-resolution-per-eye/)
 * [2024-06-11, 02:38:36](https://news.ycombinator.com/item?id=40641704) - [Biodiversity enhances immune regulation among daycare children (2020)](https://www.science.org/doi/10.1126/sciadv.aba2578)
 * [2024-06-11, 00:15:00](https://news.ycombinator.com/item?id=40640833) - [Siberia's 'mammoth graveyard' reveals 800-year human interactions with mammoths](https://phys.org/news/2024-06-siberia-mammoth-graveyard-reveals-year.html)
