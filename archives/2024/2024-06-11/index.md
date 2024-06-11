@@ -6,6 +6,7 @@
 
 * [2024-06-11, 11:13:16](https://news.ycombinator.com/item?id=40644872) - [The Toxic Consequences of Attending a High Achieving School](https://petergray.substack.com/p/43-the-toxic-consequences-of-attending)
 * [2024-06-11, 10:54:08](https://news.ycombinator.com/item?id=40644745) - [Battery-swap networks are preventing emergency blackouts](https://www.technologyreview.com/2024/06/11/1093465/battery-swap-gogoro-taiwan-earthquake/)
+* [2024-06-11, 10:07:33](https://news.ycombinator.com/item?id=40644454) - [Humans May Be Able to Grow New Teeth Within Just 6 Years](https://www.popularmechanics.com/science/health/a60952102/tooth-regrowth-human-trials-japan/)
 * [2024-06-11, 09:43:51](https://news.ycombinator.com/item?id=40644323) - [Exploring TrustZone-M on the NRF9160](https://lenas-fieldnotes.de/minimal-tz/)
 * [2024-06-11, 09:26:15](https://news.ycombinator.com/item?id=40644205) - [Omnivore: A read-it-later app sponsored with the help of Open Collective](https://opencollective.com/omnivore)
 * [2024-06-11, 08:58:31](https://news.ycombinator.com/item?id=40644040) - [OpenRecall](https://github.com/openrecall/openrecall)
