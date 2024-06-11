@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-11, 18:58:52](https://news.ycombinator.com/item?id=40650087) - [Google's Pixel 8 series gets USB-C to DisplayPort; desktop mode rumors heat up](https://arstechnica.com/gadgets/2024/06/googles-pixel-8-series-finally-supports-displayport/)
+* [2024-06-11, 18:55:24](https://news.ycombinator.com/item?id=40650050) - [Release Notes: Edge Functions on SQLite Cloud](https://blog.sqlitecloud.io/release-notes-edge-functions-webhooks)
 * [2024-06-11, 18:26:14](https://news.ycombinator.com/item?id=40649746) - [Mastercard Launches Its Biometric Retail Payment System in Europe](https://www.nakedcapitalism.com/2024/06/mastercards-biometric-retail-payment-system-finally-arrives-in-europe-following-pilot-tests-in-global-south.html)
 * [2024-06-11, 17:30:09](https://news.ycombinator.com/item?id=40649091) - [London–Calcutta Bus Service](https://en.wikipedia.org/wiki/London%E2%80%93Calcutta_bus_service)
 * [2024-06-11, 16:58:16](https://news.ycombinator.com/item?id=40648697) - [Show HN: A cartoon intro to how the attention mechanism works](https://ai-explained.yoko.dev/1-attention-explained)
@@ -20,7 +21,6 @@
 * [2024-06-11, 07:36:12](https://news.ycombinator.com/item?id=40643588) - [Jgs Font](https://adelfaure.net/tools/jgs/)
 * [2024-06-11, 06:36:44](https://news.ycombinator.com/item?id=40643207) - [POV-Ray – The Persistence of Vision Raytracer (2021)](http://www.povray.org/)
 * [2024-06-11, 05:40:13](https://news.ycombinator.com/item?id=40642801) - [British duo arrested for SMS phishing via homemade cell tower](https://www.theregister.com/2024/06/10/two_arrested_in_uk_over/)
-* [2024-06-10, 23:34:58](https://news.ycombinator.com/item?id=40640567) - [The Discovery of Superconductivity (2010)](https://pubs.aip.org/physicstoday/article/63/9/38/386608/The-discovery-of-superconductivityA-century-ago)
 * [2024-06-10, 21:42:11](https://news.ycombinator.com/item?id=40639506) - [Apple's On-Device and Server Foundation Models](https://machinelearning.apple.com/research/introducing-apple-foundation-models)
 * [2024-06-10, 18:04:10](https://news.ycombinator.com/item?id=40636292) - [Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)
 * [2024-06-10, 12:47:48](https://news.ycombinator.com/item?id=40633003) - [Forsp: A Forth+Lisp Hybrid Lambda Calculus Language](https://xorvoid.com/forsp.html)

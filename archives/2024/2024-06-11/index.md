@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-11](index.md)
 
 * [2024-06-11, 18:58:52](https://news.ycombinator.com/item?id=40650087) - [Google's Pixel 8 series gets USB-C to DisplayPort; desktop mode rumors heat up](https://arstechnica.com/gadgets/2024/06/googles-pixel-8-series-finally-supports-displayport/)
+* [2024-06-11, 18:55:24](https://news.ycombinator.com/item?id=40650050) - [Release Notes: Edge Functions on SQLite Cloud](https://blog.sqlitecloud.io/release-notes-edge-functions-webhooks)
 * [2024-06-11, 18:26:14](https://news.ycombinator.com/item?id=40649746) - [Mastercard Launches Its Biometric Retail Payment System in Europe](https://www.nakedcapitalism.com/2024/06/mastercards-biometric-retail-payment-system-finally-arrives-in-europe-following-pilot-tests-in-global-south.html)
 * [2024-06-11, 17:30:09](https://news.ycombinator.com/item?id=40649091) - [London–Calcutta Bus Service](https://en.wikipedia.org/wiki/London%E2%80%93Calcutta_bus_service)
 * [2024-06-11, 16:58:16](https://news.ycombinator.com/item?id=40648697) - [Show HN: A cartoon intro to how the attention mechanism works](https://ai-explained.yoko.dev/1-attention-explained)
