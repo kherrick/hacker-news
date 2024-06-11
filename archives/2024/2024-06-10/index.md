@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-10](index.md)
 
+* [2024-06-10, 23:34:58](https://news.ycombinator.com/item?id=40640567) - [The Discovery of Superconductivity (2010)](https://pubs.aip.org/physicstoday/article/63/9/38/386608/The-discovery-of-superconductivityA-century-ago)
 * [2024-06-10, 23:26:49](https://news.ycombinator.com/item?id=40640499) - [Intel pauses work on $25B Israel fab](https://www.theregister.com/2024/06/10/intel_israeli_fab/)
 * [2024-06-10, 23:18:06](https://news.ycombinator.com/item?id=40640424) - [The Geometry of Categorical and Hierarchical Concepts in Large Language Models](https://arxiv.org/abs/2406.01506)
 * [2024-06-10, 22:48:42](https://news.ycombinator.com/item?id=40640159) - [What's new in Xcode 16 [video]](https://developer.apple.com/videos/play/wwdc2024/10135/)
@@ -71,6 +72,7 @@
 * [2024-06-10, 11:47:00](https://news.ycombinator.com/item?id=40632533) - [Show HN: Crawl a modern website to a zip, serve the website from the zip](https://github.com/potahtml/mpa-archive)
 * [2024-06-10, 11:35:27](https://news.ycombinator.com/item?id=40632446) - [DeGoogling 2024: Replacing Photos, Gmail, and Search](https://guissmo.com/blog/degoogling-2024-alternatives-to-google-that-i-am-using/)
 * [2024-06-10, 11:26:56](https://news.ycombinator.com/item?id=40632397) - [Water](https://johncarlosbaez.wordpress.com/2013/11/29/water/)
+* [2024-06-10, 10:55:32](https://news.ycombinator.com/item?id=40632175) - [How to Check Which JavaScript Runtime Is Running Your Code](https://blog.vite.host/identifying-the-javascript-runtime-running-your-code)
 * [2024-06-10, 10:49:16](https://news.ycombinator.com/item?id=40632139) - [Paleontologists Are Fuming over AI Depictions of Prehistoric Animals](https://gizmodo.com/paleontologists-upset-ai-generated-art-dinosaurs-1851503634)
 * [2024-06-10, 10:44:19](https://news.ycombinator.com/item?id=40632115) - [Study finds a quarter of bosses hoped RTO would make employees quit](https://www.theregister.com/2024/06/09/rto_quit_study/)
 * [2024-06-10, 10:36:33](https://news.ycombinator.com/item?id=40632064) - [A Short History of CP/M-86 – By Bradford Morgan White](https://www.abortretry.fail/p/a-short-history-of-cpm-86)
