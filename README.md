@@ -6,6 +6,7 @@
 * [2024-06-11, 06:18:16](https://news.ycombinator.com/item?id=40643071) - [Spotify: Droppin' Some Fake Beats](https://lcamtuf.substack.com/p/spotify-droppin-some-fake-beats)
 * [2024-06-11, 05:49:27](https://news.ycombinator.com/item?id=40642871) - [NanoGPT: The simplest, fastest repository for training medium-sized GPTs](https://github.com/karpathy/nanoGPT)
 * [2024-06-11, 05:40:13](https://news.ycombinator.com/item?id=40642801) - [British duo arrested for SMS phishing via homemade cell tower](https://www.cityoflondon.police.uk/news/city-of-london/news/2024/june/two-people-arrested-in-connection-with-investigation-into-homemade-mobile-antenna-used-to-send-thousands-of-smishing-text-messages-to-the-public/)
+* [2024-06-11, 04:51:55](https://news.ycombinator.com/item?id=40642476) - [DuckDB Isn't Just Fast](https://csvbase.com/blog/6)
 * [2024-06-11, 02:55:17](https://news.ycombinator.com/item?id=40641795) - [Blackmagic Cine Immersive Capture for Vision Pro 8160x7200 Resolution per Eye](https://www.newsshooter.com/2024/06/10/blackmagic-ursa-cine-immersive-capture-content-for-apple-vision-pro-with-8160-x-7200-resolution-per-eye/)
 * [2024-06-11, 02:38:36](https://news.ycombinator.com/item?id=40641704) - [Biodiversity enhances immune regulation among daycare children](https://www.science.org/doi/10.1126/sciadv.aba2578)
 * [2024-06-11, 00:28:25](https://news.ycombinator.com/item?id=40640927) - [Ship Something Every Day](https://maxleiter.com/blog/ship-every-day)
@@ -29,7 +30,6 @@
 * [2024-06-10, 09:04:41](https://news.ycombinator.com/item?id=40631573) - [Wooden bowling arm that bested Australian cricketer in 1909 rebuilt](https://www.theguardian.com/technology/article/2024/jun/10/wooden-bowling-arm-john-venn-machine-rebuilt-cambridge-australia-1909-cricket-team)
 * [2024-06-10, 08:43:55](https://news.ycombinator.com/item?id=40631466) - [The Last Mathematical Testament of Galois](https://www.ias.ac.in/article/fulltext/reso/004/10/0093-0100)
 * [2024-06-09, 12:02:19](https://news.ycombinator.com/item?id=40623864) - [I built an ROV to solve missing person cases](https://suanto.com/2024/06/06/the-time-I-built-an-ROV-01/)
-* [2024-06-08, 03:15:39](https://news.ycombinator.com/item?id=40615002) - [Policing the Chôra: Law Enforcement in Ptolemaic Egypt (2005) [pdf]](https://www.u.arizona.edu/~jbausch1/cv/BauschatzFullDissertation.pdf)
 
 ## [Archives](archives/index.md)
 
