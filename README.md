@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-11, 06:31:49](https://news.ycombinator.com/item?id=40643181) - [macOS Sequoia to Allow iCloud Logins in Virtual Machines on ARM Macs](https://developer.apple.com/documentation/virtualization/using_icloud_with_macos_virtual_machines?language=objc)
+* [2024-06-11, 06:18:16](https://news.ycombinator.com/item?id=40643071) - [Spotify: Droppin' Some Fake Beats](https://lcamtuf.substack.com/p/spotify-droppin-some-fake-beats)
 * [2024-06-11, 05:40:13](https://news.ycombinator.com/item?id=40642801) - [British duo arrested for SMS phishing via homemade cell tower](https://www.cityoflondon.police.uk/news/city-of-london/news/2024/june/two-people-arrested-in-connection-with-investigation-into-homemade-mobile-antenna-used-to-send-thousands-of-smishing-text-messages-to-the-public/)
 * [2024-06-11, 02:55:17](https://news.ycombinator.com/item?id=40641795) - [Blackmagic Cine Immersive Capture for Vision Pro 8160x7200 Resolution per Eye](https://www.newsshooter.com/2024/06/10/blackmagic-ursa-cine-immersive-capture-content-for-apple-vision-pro-with-8160-x-7200-resolution-per-eye/)
 * [2024-06-11, 02:38:36](https://news.ycombinator.com/item?id=40641704) - [Biodiversity enhances immune regulation among daycare children](https://www.science.org/doi/10.1126/sciadv.aba2578)
@@ -15,7 +16,6 @@
 * [2024-06-10, 21:37:18](https://news.ycombinator.com/item?id=40639450) - [Big Tech's role in enabling link fraud – take 2](https://eligrey.com/blog/link-fraud/)
 * [2024-06-10, 21:00:43](https://news.ycombinator.com/item?id=40639032) - [Trieve (YC W24) Is Hiring a DevRel Software Engineer](https://www.ycombinator.com/companies/trieve/jobs/2jeeXLs-developer-relations-software-engineer)
 * [2024-06-10, 20:42:04](https://news.ycombinator.com/item?id=40638764) - [The new math of how large-scale order emerges](https://www.quantamagazine.org/the-new-math-of-how-large-scale-order-emerges-20240610/)
-* [2024-06-10, 19:39:29](https://news.ycombinator.com/item?id=40637785) - [Possible exposure of Earth to dense interstellar medium 2-3M years ago](https://www.nature.com/articles/s41550-024-02279-8)
 * [2024-06-10, 19:13:39](https://news.ycombinator.com/item?id=40637374) - [Pyrophone](https://en.wikipedia.org/wiki/Pyrophone)
 * [2024-06-10, 19:00:26](https://news.ycombinator.com/item?id=40637102) - [Deterioration of local community a major driver of loss of play-based childhood](https://www.afterbabel.com/p/community-based-childhood)
 * [2024-06-10, 18:50:53](https://news.ycombinator.com/item?id=40636883) - [The rarest move in chess [video]](https://www.youtube.com/watch?v=iDnW0WiCqNc)
