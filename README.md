@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-11, 04:26:29](https://news.ycombinator.com/item?id=40642328) - [macOS 15.0 supports Nested Virtualization on M3 chips](https://developer.apple.com/documentation/virtualization/vzgenericplatformconfiguration/4360553-isnestedvirtualizationsupported)
 * [2024-06-11, 02:55:17](https://news.ycombinator.com/item?id=40641795) - [Blackmagic Cine Immersive Capture for Vision Pro 8160x7200 Resolution per Eye](https://www.newsshooter.com/2024/06/10/blackmagic-ursa-cine-immersive-capture-content-for-apple-vision-pro-with-8160-x-7200-resolution-per-eye/)
 * [2024-06-11, 02:38:36](https://news.ycombinator.com/item?id=40641704) - [Biodiversity enhances immune regulation among daycare children](https://www.science.org/doi/10.1126/sciadv.aba2578)
 * [2024-06-11, 02:23:50](https://news.ycombinator.com/item?id=40641615) - [Genes protective during Black Death may now be increasing autoimmune disorders](https://www.health.harvard.edu/blog/genes-protective-during-the-black-death-may-now-be-increasing-autoimmune-disorders-202212012859)
@@ -20,14 +21,13 @@
 * [2024-06-10, 18:50:53](https://news.ycombinator.com/item?id=40636883) - [The rarest move in chess [video]](https://www.youtube.com/watch?v=iDnW0WiCqNc)
 * [2024-06-10, 18:48:47](https://news.ycombinator.com/item?id=40636844) - [Apple Intelligence for iPhone, iPad, and Mac](https://www.apple.com/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
 * [2024-06-10, 18:04:10](https://news.ycombinator.com/item?id=40636292) - [Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)
-* [2024-06-10, 17:09:52](https://news.ycombinator.com/item?id=40635697) - [pico9918: A replacement TMS9918A/TMS9929A VDP using a Raspberry Pi Pico](https://github.com/visrealm/pico9918)
 * [2024-06-10, 16:40:05](https://news.ycombinator.com/item?id=40635397) - [Show HN: Probabilistic Tic-Tac-Toe](https://www.csun.io/2024/06/08/probabilistic-tic-tac-toe.html)
 * [2024-06-10, 14:14:24](https://news.ycombinator.com/item?id=40633902) - [Mexican Computers: A Brief Technical and Historical Overview](https://arxiv.org/abs/2406.04912)
 * [2024-06-10, 12:47:48](https://news.ycombinator.com/item?id=40633003) - [Forsp: A Forth+Lisp Hybrid Lambda Calculus Language](https://xorvoid.com/forsp.html)
 * [2024-06-10, 12:14:56](https://news.ycombinator.com/item?id=40632745) - [Sending emails to my three-year-old](https://blog.haschek.at/2024/leaving-a-digital-legacy.html)
-* [2024-06-10, 11:47:00](https://news.ycombinator.com/item?id=40632533) - [Show HN: Crawl a modern website to a zip, serve the website from the zip](https://github.com/potahtml/mpa-archive)
 * [2024-06-10, 11:26:56](https://news.ycombinator.com/item?id=40632397) - [Water](https://johncarlosbaez.wordpress.com/2013/11/29/water/)
 * [2024-06-10, 09:14:08](https://news.ycombinator.com/item?id=40631614) - [An Arduino interface for 8088 CPUs](https://github.com/dbalsom/arduino_8088)
+* [2024-06-10, 09:04:41](https://news.ycombinator.com/item?id=40631573) - [Wooden bowling arm that bested Australian cricketer in 1909 rebuilt](https://www.theguardian.com/technology/article/2024/jun/10/wooden-bowling-arm-john-venn-machine-rebuilt-cambridge-australia-1909-cricket-team)
 * [2024-06-10, 07:53:35](https://news.ycombinator.com/item?id=40631223) - [Anti-Cheat Expert: all your pixels are belong to us](https://invlpg.dev/post/ace_screenshots/)
 * [2024-06-09, 12:02:19](https://news.ycombinator.com/item?id=40623864) - [I built an ROV to solve missing person cases](https://suanto.com/2024/06/06/the-time-I-built-an-ROV-01/)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-11](index.md)
 
+* [2024-06-11, 04:26:29](https://news.ycombinator.com/item?id=40642328) - [macOS 15.0 supports Nested Virtualization on M3 chips](https://developer.apple.com/documentation/virtualization/vzgenericplatformconfiguration/4360553-isnestedvirtualizationsupported)
 * [2024-06-11, 02:55:17](https://news.ycombinator.com/item?id=40641795) - [Blackmagic Cine Immersive Capture for Vision Pro 8160x7200 Resolution per Eye](https://www.newsshooter.com/2024/06/10/blackmagic-ursa-cine-immersive-capture-content-for-apple-vision-pro-with-8160-x-7200-resolution-per-eye/)
 * [2024-06-11, 02:38:36](https://news.ycombinator.com/item?id=40641704) - [Biodiversity enhances immune regulation among daycare children](https://www.science.org/doi/10.1126/sciadv.aba2578)
 * [2024-06-11, 02:23:50](https://news.ycombinator.com/item?id=40641615) - [Genes protective during Black Death may now be increasing autoimmune disorders](https://www.health.harvard.edu/blog/genes-protective-during-the-black-death-may-now-be-increasing-autoimmune-disorders-202212012859)

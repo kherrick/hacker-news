@@ -80,6 +80,7 @@
 * [2024-06-10, 09:15:08](https://news.ycombinator.com/item?id=40631623) - [Understanding the Burnt-Out Brain](https://www.neurovine.ai/blog/understanding-the-burntout-brain)
 * [2024-06-10, 09:14:08](https://news.ycombinator.com/item?id=40631614) - [An Arduino interface for 8088 CPUs](https://github.com/dbalsom/arduino_8088)
 * [2024-06-10, 09:07:51](https://news.ycombinator.com/item?id=40631585) - [Filmed.js: film strip image effect](https://www.netzgesta.de/filmed/)
+* [2024-06-10, 09:04:41](https://news.ycombinator.com/item?id=40631573) - [Wooden bowling arm that bested Australian cricketer in 1909 rebuilt](https://www.theguardian.com/technology/article/2024/jun/10/wooden-bowling-arm-john-venn-machine-rebuilt-cambridge-australia-1909-cricket-team)
 * [2024-06-10, 09:02:22](https://news.ycombinator.com/item?id=40631558) - [Robot Programming: Stop Designing Software for Non-Roboticists](https://spectrum.ieee.org/the-mythical-non-roboticist)
 * [2024-06-10, 08:53:03](https://news.ycombinator.com/item?id=40631517) - [Patrick Breyer and Pirate Party Lose EU Parliament Seats](https://stackdiary.com/patrick-breyer-and-pirate-party-lose-eu-parliament-seats/)
 * [2024-06-10, 08:38:42](https://news.ycombinator.com/item?id=40631439) - [WebKit Fix: Quirk News.Y Combinator to Skip TextAutoSizing](https://github.com/WebKit/WebKit/commit/84ae355619354ee1bfa7daaa1fc95565a6726be3)
