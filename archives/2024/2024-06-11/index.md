@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-11](index.md)
 
+* [2024-06-11, 15:53:29](https://news.ycombinator.com/item?id=40647799) - [Canada's Extremist Attack on Free Speech](https://www.theatlantic.com/ideas/archive/2024/06/canada-online-harms-act/678605/)
+* [2024-06-11, 15:36:25](https://news.ycombinator.com/item?id=40647517) - [Google shuts down GPay app and P2P payments in the US](https://9to5google.com/2024/06/09/gpay-us/)
+* [2024-06-11, 15:34:37](https://news.ycombinator.com/item?id=40647491) - [FDA denies petition against use of phthalates in food packaging](https://www.fda.gov/food/cfsan-constituent-updates/fda-responds-petition-phthalates-food-packaging-and-food-contact-applications)
 * [2024-06-11, 15:27:02](https://news.ycombinator.com/item?id=40647360) - [Child safety advocates disrupt Apple developers conference](https://www.mercurynews.com/2024/06/10/cupertino-child-safety-advocates-disrupt-apple-developers-conference/)
 * [2024-06-11, 15:22:00](https://news.ycombinator.com/item?id=40647278) - [Microsoft's official Minesweeper app has ads, pay-to-win, and is hundreds of MBs](https://tech.lgbt/@nina_kali_nina/112594910070716090)
 * [2024-06-11, 15:12:30](https://news.ycombinator.com/item?id=40647123) - [Firefox will upgrade more Mixed Content in Version 127](https://blog.mozilla.org/security/2024/06/05/firefox-will-upgrade-more-mixed-content-in-version-127/)
