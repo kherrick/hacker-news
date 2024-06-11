@@ -23,12 +23,12 @@
 * [2024-06-10, 18:48:47](https://news.ycombinator.com/item?id=40636844) - [Apple Intelligence for iPhone, iPad, and Mac](https://www.apple.com/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
 * [2024-06-10, 18:04:10](https://news.ycombinator.com/item?id=40636292) - [Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)
 * [2024-06-10, 16:40:05](https://news.ycombinator.com/item?id=40635397) - [Show HN: Probabilistic Tic-Tac-Toe](https://www.csun.io/2024/06/08/probabilistic-tic-tac-toe.html)
+* [2024-06-10, 14:14:24](https://news.ycombinator.com/item?id=40633902) - [Mexican Computers: A Brief Technical and Historical Overview](https://arxiv.org/abs/2406.04912)
 * [2024-06-10, 12:47:48](https://news.ycombinator.com/item?id=40633003) - [Forsp: A Forth+Lisp Hybrid Lambda Calculus Language](https://xorvoid.com/forsp.html)
 * [2024-06-10, 12:14:56](https://news.ycombinator.com/item?id=40632745) - [Sending emails to my three-year-old](https://blog.haschek.at/2024/leaving-a-digital-legacy.html)
 * [2024-06-10, 09:47:45](https://news.ycombinator.com/item?id=40631796) - [Free Quality SoundFonts (Sf2)](https://sites.google.com/site/soundfonts4u/)
 * [2024-06-10, 09:14:08](https://news.ycombinator.com/item?id=40631614) - [An Arduino interface for 8088 CPUs](https://github.com/dbalsom/arduino_8088)
 * [2024-06-10, 09:04:41](https://news.ycombinator.com/item?id=40631573) - [Wooden bowling arm that bested Australian cricketer in 1909 rebuilt](https://www.theguardian.com/technology/article/2024/jun/10/wooden-bowling-arm-john-venn-machine-rebuilt-cambridge-australia-1909-cricket-team)
-* [2024-06-10, 08:43:55](https://news.ycombinator.com/item?id=40631466) - [The Last Mathematical Testament of Galois](https://www.ias.ac.in/article/fulltext/reso/004/10/0093-0100)
 * [2024-06-09, 12:02:19](https://news.ycombinator.com/item?id=40623864) - [I built an ROV to solve missing person cases](https://suanto.com/2024/06/06/the-time-I-built-an-ROV-01/)
 
 ## [Archives](archives/index.md)
