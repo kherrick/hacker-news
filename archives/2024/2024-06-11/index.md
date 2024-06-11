@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-11](index.md)
 
+* [2024-06-11, 16:56:43](https://news.ycombinator.com/item?id=40648673) - [Kia Issues 'Park Outside' Recall for 2020-2024 Telluride Vehicles for Fire Risk](https://www.nhtsa.gov/press-releases/kia-telluride-recall-fire-risk)
 * [2024-06-11, 16:44:11](https://news.ycombinator.com/item?id=40648470) - [Lynn Conway Has Died](https://en.wikipedia.org/wiki/Lynn_Conway)
 * [2024-06-11, 16:25:16](https://news.ycombinator.com/item?id=40648193) - [Coqui.ai TTS: A Deep Learning Toolkit for Text-to-Speech](https://github.com/coqui-ai/TTS)
 * [2024-06-11, 15:53:29](https://news.ycombinator.com/item?id=40647799) - [Canada's Extremist Attack on Free Speech](https://www.theatlantic.com/ideas/archive/2024/06/canada-online-harms-act/678605/)
