@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-11, 14:18:52](https://news.ycombinator.com/item?id=40646446) - [Restaurants Place Big Bets on Cooking Robots](https://www.axios.com/2024/06/11/restaurant-technology-robots-food-ramen)
 * [2024-06-11, 13:43:14](https://news.ycombinator.com/item?id=40646090) - [Private Equity–Backed Firm Bowlero Is Ruining Bowling](https://jacobin.com/2024/05/private-equity-bowlero-ruining-bowling/)
 * [2024-06-11, 13:39:49](https://news.ycombinator.com/item?id=40646061) - [I like the RP2040](https://dgroshev.com/blog/rp2040/)
 * [2024-06-11, 13:32:10](https://news.ycombinator.com/item?id=40645983) - [First Came 'Spam.' Now, with A.I., We've Got 'Slop'](https://www.nytimes.com/2024/06/11/style/ai-search-slop.html)
@@ -25,7 +26,6 @@
 * [2024-06-10, 12:47:48](https://news.ycombinator.com/item?id=40633003) - [Forsp: A Forth+Lisp Hybrid Lambda Calculus Language](https://xorvoid.com/forsp.html)
 * [2024-06-10, 12:19:52](https://news.ycombinator.com/item?id=40632774) - [First chip-based 3D printer is smaller than a coin with no moving parts](https://www.tomshardware.com/3d-printing/worlds-first-chip-based-3d-printer-is-smaller-than-a-coin-benefits-from-having-no-moving-parts)
 * [2024-06-10, 11:47:00](https://news.ycombinator.com/item?id=40632533) - [Show HN: Crawl a modern website to a zip, serve the website from the zip](https://github.com/potahtml/mpa-archive)
-* [2024-06-10, 11:26:56](https://news.ycombinator.com/item?id=40632397) - [Water](https://johncarlosbaez.wordpress.com/2013/11/29/water/)
 * [2024-06-10, 10:36:33](https://news.ycombinator.com/item?id=40632064) - [A Short History of CP/M-86 – By Bradford Morgan White](https://www.abortretry.fail/p/a-short-history-of-cpm-86)
 * [2024-06-10, 09:14:08](https://news.ycombinator.com/item?id=40631614) - [An Arduino interface for 8088 CPUs](https://github.com/dbalsom/arduino_8088)
 * [2024-06-10, 07:46:12](https://news.ycombinator.com/item?id=40631186) - [The Backbone of Cybersecurity: Hardware Security Modules](https://www.join.tech/blog/2024-0x10-the-backbone-of-cybersecurity-hardware-security-modules.php)

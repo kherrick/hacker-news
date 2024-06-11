@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-11](index.md)
 
+* [2024-06-11, 14:18:52](https://news.ycombinator.com/item?id=40646446) - [Restaurants Place Big Bets on Cooking Robots](https://www.axios.com/2024/06/11/restaurant-technology-robots-food-ramen)
 * [2024-06-11, 13:43:14](https://news.ycombinator.com/item?id=40646090) - [Private Equity–Backed Firm Bowlero Is Ruining Bowling](https://jacobin.com/2024/05/private-equity-bowlero-ruining-bowling/)
 * [2024-06-11, 13:39:49](https://news.ycombinator.com/item?id=40646061) - [I like the RP2040](https://dgroshev.com/blog/rp2040/)
 * [2024-06-11, 13:32:10](https://news.ycombinator.com/item?id=40645983) - [First Came 'Spam.' Now, with A.I., We've Got 'Slop'](https://www.nytimes.com/2024/06/11/style/ai-search-slop.html)
