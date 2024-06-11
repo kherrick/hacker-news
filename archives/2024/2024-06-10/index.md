@@ -96,6 +96,7 @@
 * [2024-06-10, 08:22:36](https://news.ycombinator.com/item?id=40631350) - [Perl v5.40.0 is now available](https://perldoc.perl.org/perldelta)
 * [2024-06-10, 08:12:08](https://news.ycombinator.com/item?id=40631309) - [When (if ever) did the Sun set on the British Empire?](https://what-if.xkcd.com/48/)
 * [2024-06-10, 07:56:00](https://news.ycombinator.com/item?id=40631233) - [MOOC – free courses from University of Helsinki](https://www.mooc.fi/en/)
+* [2024-06-10, 07:55:26](https://news.ycombinator.com/item?id=40631231) - [Multitasking, parallel processing, and concurrency in Swift](https://eclecticlight.co/2024/06/10/multitasking-parallel-processing-and-concurrency-in-swift/)
 * [2024-06-10, 07:53:35](https://news.ycombinator.com/item?id=40631223) - [Anti-Cheat Expert: all your pixels are belong to us](https://invlpg.dev/post/ace_screenshots/)
 * [2024-06-10, 07:46:12](https://news.ycombinator.com/item?id=40631186) - [The Backbone of Cybersecurity: Hardware Security Modules](https://www.join.tech/blog/2024-0x10-the-backbone-of-cybersecurity-hardware-security-modules.php)
 * [2024-06-10, 06:58:47](https://news.ycombinator.com/item?id=40630952) - [OpenWorm – creating a virtual organism in a computer](https://openworm.org/)

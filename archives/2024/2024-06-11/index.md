@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-11](index.md)
 
+* [2024-06-11, 16:44:11](https://news.ycombinator.com/item?id=40648470) - [Lynn Conway Has Died](https://en.wikipedia.org/wiki/Lynn_Conway)
 * [2024-06-11, 16:25:16](https://news.ycombinator.com/item?id=40648193) - [Coqui.ai TTS: A Deep Learning Toolkit for Text-to-Speech](https://github.com/coqui-ai/TTS)
 * [2024-06-11, 15:53:29](https://news.ycombinator.com/item?id=40647799) - [Canada's Extremist Attack on Free Speech](https://www.theatlantic.com/ideas/archive/2024/06/canada-online-harms-act/678605/)
 * [2024-06-11, 15:36:25](https://news.ycombinator.com/item?id=40647517) - [Google shuts down GPay app and P2P payments in the US](https://9to5google.com/2024/06/09/gpay-us/)
@@ -12,6 +13,7 @@
 * [2024-06-11, 15:22:00](https://news.ycombinator.com/item?id=40647278) - [Microsoft's official Minesweeper app has ads, pay-to-win, and is hundreds of MBs](https://tech.lgbt/@nina_kali_nina/112594910070716090)
 * [2024-06-11, 15:12:30](https://news.ycombinator.com/item?id=40647123) - [Firefox will upgrade more Mixed Content in Version 127](https://blog.mozilla.org/security/2024/06/05/firefox-will-upgrade-more-mixed-content-in-version-127/)
 * [2024-06-11, 14:49:05](https://news.ycombinator.com/item?id=40646820) - [Meta Open-Sources Megalodon LLM for Efficient Long Sequence Modeling – InfoQ](https://www.infoq.com/news/2024/06/meta-llm-megalodon/)
+* [2024-06-11, 14:43:31](https://news.ycombinator.com/item?id=40646741) - [Show HN: Revideo – Create Videos with Code](https://github.com/redotvideo/revideo)
 * [2024-06-11, 14:38:41](https://news.ycombinator.com/item?id=40646684) - [Motion (YC W20) Is Hiring Senior Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2024-06-11, 14:36:34](https://news.ycombinator.com/item?id=40646658) - [Norway discovers Europe's largest deposit of rare earth metals](https://www.cnbc.com/2024/06/11/norway-discovers-europes-largest-deposit-of-rare-earth-metals.html)
 * [2024-06-11, 14:32:10](https://news.ycombinator.com/item?id=40646602) - [Some People with Insomnia Think They're Awake When They're Asleep](https://www.scientificamerican.com/article/some-people-with-insomnia-think-theyre-awake-when-theyre-asleep/)
