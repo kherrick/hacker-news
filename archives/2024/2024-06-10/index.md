@@ -73,6 +73,7 @@
 * [2024-06-10, 11:26:56](https://news.ycombinator.com/item?id=40632397) - [Water](https://johncarlosbaez.wordpress.com/2013/11/29/water/)
 * [2024-06-10, 10:49:16](https://news.ycombinator.com/item?id=40632139) - [Paleontologists Are Fuming over AI Depictions of Prehistoric Animals](https://gizmodo.com/paleontologists-upset-ai-generated-art-dinosaurs-1851503634)
 * [2024-06-10, 10:44:19](https://news.ycombinator.com/item?id=40632115) - [Study finds a quarter of bosses hoped RTO would make employees quit](https://www.theregister.com/2024/06/09/rto_quit_study/)
+* [2024-06-10, 10:36:33](https://news.ycombinator.com/item?id=40632064) - [A Short History of CP/M-86 – By Bradford Morgan White](https://www.abortretry.fail/p/a-short-history-of-cpm-86)
 * [2024-06-10, 10:30:03](https://news.ycombinator.com/item?id=40632040) - [Passenger tracks missing luggage to home of airport store worker](https://www.cnn.com/travel/airline-passenger-tracks-missing-bag-felony-theft/index.html)
 * [2024-06-10, 10:27:56](https://news.ycombinator.com/item?id=40632027) - [First detection of negative ions on the Moon](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/First_detection_of_negative_ions_on_the_Moon)
 * [2024-06-10, 10:15:08](https://news.ycombinator.com/item?id=40631959) - [Germany trials the four-day workweek: \"Free time is invaluable\"](https://www.welcometothejungle.com/en/articles/germany-trials-four-day-workweek)
