@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-06-11, 11:13:16",
-      "https://news.ycombinator.com/item?id=40644872"
+      "2024-06-11, 11:21:58",
+      "https://news.ycombinator.com/item?id=40644944"
     ],
     [
-      "The Toxic Consequences of Attending a High Achieving School",
-      "https://petergray.substack.com/p/43-the-toxic-consequences-of-attending"
+      "Computing firm Raspberry Pi pops 31% in rare London market debut",
+      "https://www.cnbc.com/2024/06/11/rasperry-pi-ipo-computing-firm-to-raise-211-million.html"
     ]
   ],
   [
@@ -21,12 +21,12 @@
   ],
   [
     [
-      "2024-06-11, 10:07:33",
-      "https://news.ycombinator.com/item?id=40644454"
+      "2024-06-11, 10:18:59",
+      "https://news.ycombinator.com/item?id=40644513"
     ],
     [
-      "Humans May Be Able to Grow New Teeth Within Just 6 Years",
-      "https://www.popularmechanics.com/science/health/a60952102/tooth-regrowth-human-trials-japan/"
+      "The Work of Art",
+      "https://theconvivialsociety.substack.com/p/the-work-of-art"
     ]
   ],
   [
@@ -41,42 +41,12 @@
   ],
   [
     [
-      "2024-06-11, 09:26:15",
-      "https://news.ycombinator.com/item?id=40644205"
-    ],
-    [
-      "Omnivore: A read-it-later app sponsored with the help of Open Collective",
-      "https://opencollective.com/omnivore"
-    ]
-  ],
-  [
-    [
-      "2024-06-11, 08:58:31",
-      "https://news.ycombinator.com/item?id=40644040"
-    ],
-    [
-      "OpenRecall",
-      "https://github.com/openrecall/openrecall"
-    ]
-  ],
-  [
-    [
       "2024-06-11, 06:36:44",
       "https://news.ycombinator.com/item?id=40643207"
     ],
     [
       "POV-Ray – The Persistence of Vision Raytracer",
       "http://www.povray.org/"
-    ]
-  ],
-  [
-    [
-      "2024-06-11, 06:31:49",
-      "https://news.ycombinator.com/item?id=40643181"
-    ],
-    [
-      "macOS Sequoia to Allow iCloud Logins in Virtual Machines on ARM Macs",
-      "https://developer.apple.com/documentation/virtualization/using_icloud_with_macos_virtual_machines?language=objc"
     ]
   ],
   [
@@ -101,22 +71,12 @@
   ],
   [
     [
-      "2024-06-11, 05:49:27",
-      "https://news.ycombinator.com/item?id=40642871"
+      "2024-06-11, 02:55:17",
+      "https://news.ycombinator.com/item?id=40641795"
     ],
     [
-      "NanoGPT: The simplest, fastest repository for training medium-sized GPTs",
-      "https://github.com/karpathy/nanoGPT"
-    ]
-  ],
-  [
-    [
-      "2024-06-11, 04:51:55",
-      "https://news.ycombinator.com/item?id=40642476"
-    ],
-    [
-      "DuckDB Isn't Just Fast",
-      "https://csvbase.com/blog/6"
+      "Blackmagic Cine Immersive Capture for Vision Pro 8160x7200 Resolution per Eye",
+      "https://www.newsshooter.com/2024/06/10/blackmagic-ursa-cine-immersive-capture-content-for-apple-vision-pro-with-8160-x-7200-resolution-per-eye/"
     ]
   ],
   [
@@ -127,6 +87,16 @@
     [
       "Biodiversity enhances immune regulation among daycare children",
       "https://www.science.org/doi/10.1126/sciadv.aba2578"
+    ]
+  ],
+  [
+    [
+      "2024-06-11, 02:23:50",
+      "https://news.ycombinator.com/item?id=40641615"
+    ],
+    [
+      "Genes protective during Black Death may now be increasing autoimmune disorders (2022)",
+      "https://www.health.harvard.edu/blog/genes-protective-during-the-black-death-may-now-be-increasing-autoimmune-disorders-202212012859"
     ]
   ],
   [
@@ -147,6 +117,16 @@
     [
       "Siberia's 'mammoth graveyard' reveals 800-year human interactions with mammoths",
       "https://phys.org/news/2024-06-siberia-mammoth-graveyard-reveals-year.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-10, 23:18:06",
+      "https://news.ycombinator.com/item?id=40640424"
+    ],
+    [
+      "The Geometry of Categorical and Hierarchical Concepts in Large Language Models",
+      "https://arxiv.org/abs/2406.01506"
     ]
   ],
   [
@@ -181,22 +161,32 @@
   ],
   [
     [
-      "2024-06-10, 21:37:18",
-      "https://news.ycombinator.com/item?id=40639450"
-    ],
-    [
-      "Big Tech's role in enabling link fraud – take 2",
-      "https://eligrey.com/blog/link-fraud/"
-    ]
-  ],
-  [
-    [
       "2024-06-10, 20:42:04",
       "https://news.ycombinator.com/item?id=40638764"
     ],
     [
       "The new math of how large-scale order emerges",
       "https://www.quantamagazine.org/the-new-math-of-how-large-scale-order-emerges-20240610/"
+    ]
+  ],
+  [
+    [
+      "2024-06-10, 19:39:29",
+      "https://news.ycombinator.com/item?id=40637785"
+    ],
+    [
+      "Possible exposure of Earth to dense interstellar medium 2-3M years ago",
+      "https://www.nature.com/articles/s41550-024-02279-8"
+    ]
+  ],
+  [
+    [
+      "2024-06-10, 19:13:39",
+      "https://news.ycombinator.com/item?id=40637374"
+    ],
+    [
+      "Pyrophone",
+      "https://en.wikipedia.org/wiki/Pyrophone"
     ]
   ],
   [
@@ -251,6 +241,16 @@
   ],
   [
     [
+      "2024-06-10, 11:47:00",
+      "https://news.ycombinator.com/item?id=40632533"
+    ],
+    [
+      "Show HN: Crawl a modern website to a zip, serve the website from the zip",
+      "https://github.com/potahtml/mpa-archive"
+    ]
+  ],
+  [
+    [
       "2024-06-10, 10:36:33",
       "https://news.ycombinator.com/item?id=40632064"
     ],
@@ -261,12 +261,12 @@
   ],
   [
     [
-      "2024-06-10, 09:47:45",
-      "https://news.ycombinator.com/item?id=40631796"
+      "2024-06-10, 09:14:08",
+      "https://news.ycombinator.com/item?id=40631614"
     ],
     [
-      "Free Quality SoundFonts (Sf2)",
-      "https://sites.google.com/site/soundfonts4u/"
+      "An Arduino interface for 8088 CPUs",
+      "https://github.com/dbalsom/arduino_8088"
     ]
   ],
   [
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2024-06-10, 06:58:47",
-      "https://news.ycombinator.com/item?id=40630952"
-    ],
-    [
-      "OpenWorm – creating a virtual organism in a computer",
-      "https://openworm.org/"
-    ]
-  ],
-  [
-    [
       "2024-06-09, 12:02:19",
       "https://news.ycombinator.com/item?id=40623864"
     ],
     [
       "I built an ROV to solve missing person cases",
       "https://suanto.com/2024/06/06/the-time-I-built-an-ROV-01/"
+    ]
+  ],
+  [
+    [
+      "2024-06-08, 03:15:39",
+      "https://news.ycombinator.com/item?id=40615002"
+    ],
+    [
+      "Policing the Chôra: Law Enforcement in Ptolemaic Egypt (2005) [pdf]",
+      "https://www.u.arizona.edu/~jbausch1/cv/BauschatzFullDissertation.pdf"
     ]
   ]
 ]
