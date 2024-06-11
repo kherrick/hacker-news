@@ -85,6 +85,7 @@
 * [2024-06-08, 04:33:29](https://news.ycombinator.com/item?id=40615301) - [Welcome to the safest time to give birth in human history](https://www.theupwing.com/the-radical-drop-in-maternal-mortality-was-a-public-health-miracle/)
 * [2024-06-08, 04:33:09](https://news.ycombinator.com/item?id=40615299) - [Tools for Better Thinking](https://untools.co/)
 * [2024-06-08, 04:22:39](https://news.ycombinator.com/item?id=40615271) - [Ask HN: If you are starting in 2024, what is the most productive solo dev stack?](https://news.ycombinator.com/item?id=40615271)
+* [2024-06-08, 03:15:39](https://news.ycombinator.com/item?id=40615002) - [Policing the Chôra: Law Enforcement in Ptolemaic Egypt (2005) [pdf]](https://www.u.arizona.edu/~jbausch1/cv/BauschatzFullDissertation.pdf)
 * [2024-06-08, 01:27:45](https://news.ycombinator.com/item?id=40614577) - [Cloud Performance on a \"Toy\" Computer: From Python to Rust](https://progscrape.com/blog/2024-06-06/cloud-performance-on-a-toy-computer-from-python-to-rust)
 * [2024-06-08, 01:04:34](https://news.ycombinator.com/item?id=40614467) - [Memory-safe, clean implementation of classic Posix \"BC\" calculator](https://github.com/rustcoreutils/posixutils-rs/tree/main/calc/src)
 * [2024-06-08, 00:37:57](https://news.ycombinator.com/item?id=40614338) - [Chebyshev approximation and how it can help](https://www.EmbeddedRelated.com/showarticle/152.php)
