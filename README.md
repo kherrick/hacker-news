@@ -2,11 +2,11 @@
 
 * [2024-06-11, 17:30:09](https://news.ycombinator.com/item?id=40649091) - [London–Calcutta Bus Service](https://en.wikipedia.org/wiki/London%E2%80%93Calcutta_bus_service)
 * [2024-06-11, 16:56:43](https://news.ycombinator.com/item?id=40648673) - [Kia Issues 'Park Outside' Recall for 2020-2024 Telluride Vehicles for Fire Risk](https://www.nhtsa.gov/press-releases/kia-telluride-recall-fire-risk)
-* [2024-06-11, 16:56:10](https://news.ycombinator.com/item?id=40648659) - [Twitch's New UI Is Awful](https://old.reddit.com/r/Twitch/comments/1d3h8e2/new_ui_is_awful/)
 * [2024-06-11, 16:44:11](https://news.ycombinator.com/item?id=40648470) - [Lynn Conway Has Died](https://en.wikipedia.org/wiki/Lynn_Conway)
 * [2024-06-11, 16:25:16](https://news.ycombinator.com/item?id=40648193) - [Coqui.ai TTS: A Deep Learning Toolkit for Text-to-Speech](https://github.com/coqui-ai/TTS)
 * [2024-06-11, 15:36:25](https://news.ycombinator.com/item?id=40647517) - [Google shuts down GPay app and P2P payments in the US](https://9to5google.com/2024/06/09/gpay-us/)
 * [2024-06-11, 15:34:37](https://news.ycombinator.com/item?id=40647491) - [FDA denies petition against use of phthalates in food packaging](https://www.fda.gov/food/cfsan-constituent-updates/fda-responds-petition-phthalates-food-packaging-and-food-contact-applications)
+* [2024-06-11, 15:10:11](https://news.ycombinator.com/item?id=40647096) - [The Light Phone III](https://www.thelightphone.com/lightiii)
 * [2024-06-11, 14:49:05](https://news.ycombinator.com/item?id=40646820) - [Meta Open-Sources Megalodon LLM for Efficient Long Sequence Modeling](https://www.infoq.com/news/2024/06/meta-llm-megalodon/)
 * [2024-06-11, 14:43:31](https://news.ycombinator.com/item?id=40646741) - [Show HN: Revideo – Create Videos with Code](https://github.com/redotvideo/revideo)
 * [2024-06-11, 14:38:41](https://news.ycombinator.com/item?id=40646684) - [Motion (YC W20) Is Hiring Senior Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)

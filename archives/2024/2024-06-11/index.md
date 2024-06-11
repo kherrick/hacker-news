@@ -15,6 +15,7 @@
 * [2024-06-11, 15:27:02](https://news.ycombinator.com/item?id=40647360) - [Child safety advocates disrupt Apple developers conference](https://www.mercurynews.com/2024/06/10/cupertino-child-safety-advocates-disrupt-apple-developers-conference/)
 * [2024-06-11, 15:22:00](https://news.ycombinator.com/item?id=40647278) - [Microsoft's official Minesweeper app has ads, pay-to-win, and is hundreds of MBs](https://tech.lgbt/@nina_kali_nina/112594910070716090)
 * [2024-06-11, 15:12:30](https://news.ycombinator.com/item?id=40647123) - [Firefox will upgrade more Mixed Content in Version 127](https://blog.mozilla.org/security/2024/06/05/firefox-will-upgrade-more-mixed-content-in-version-127/)
+* [2024-06-11, 15:10:11](https://news.ycombinator.com/item?id=40647096) - [The Light Phone III](https://www.thelightphone.com/lightiii)
 * [2024-06-11, 14:49:05](https://news.ycombinator.com/item?id=40646820) - [Meta Open-Sources Megalodon LLM for Efficient Long Sequence Modeling – InfoQ](https://www.infoq.com/news/2024/06/meta-llm-megalodon/)
 * [2024-06-11, 14:43:31](https://news.ycombinator.com/item?id=40646741) - [Show HN: Revideo – Create Videos with Code](https://github.com/redotvideo/revideo)
 * [2024-06-11, 14:38:41](https://news.ycombinator.com/item?id=40646684) - [Motion (YC W20) Is Hiring Senior Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
