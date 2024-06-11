@@ -61,6 +61,7 @@
 * [2024-06-10, 13:59:22](https://news.ycombinator.com/item?id=40633773) - [Show HN: Thread – AI-powered Jupyter Notebook built using React](https://github.com/squaredtechnologies/thread)
 * [2024-06-10, 13:46:37](https://news.ycombinator.com/item?id=40633666) - [AI Hype is completely out of control – especially since ChatGPT-4o [video]](https://www.youtube.com/watch?v=VctsqOo8wsc)
 * [2024-06-10, 12:57:38](https://news.ycombinator.com/item?id=40633108) - [Ask HN: Was Sun Microsystems the last respectable tech company?](https://news.ycombinator.com/item?id=40633108)
+* [2024-06-10, 12:49:50](https://news.ycombinator.com/item?id=40633029) - [Home-Cooked Software and Barefoot Developers](https://maggieappleton.com/home-cooked-software)
 * [2024-06-10, 12:49:14](https://news.ycombinator.com/item?id=40633020) - [Welcome to the Era of Garbage Film and Television Streaming](https://jacobin.com/2024/06/tv-streaming-private-equity/)
 * [2024-06-10, 12:47:48](https://news.ycombinator.com/item?id=40633003) - [Forsp: A Forth+Lisp Hybrid Lambda Calculus Language](https://xorvoid.com/forsp.html)
 * [2024-06-10, 12:32:52](https://news.ycombinator.com/item?id=40632881) - [The Meaning of Bitcoin](https://maraoz.com/2024/06/10/bitcoin/)
