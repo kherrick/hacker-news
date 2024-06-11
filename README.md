@@ -4,7 +4,7 @@
 * [2024-06-11, 00:28:25](https://news.ycombinator.com/item?id=40640927) - [Ship Something Every Day](https://maxleiter.com/blog/ship-every-day)
 * [2024-06-11, 00:15:00](https://news.ycombinator.com/item?id=40640833) - [Siberia's 'mammoth graveyard' reveals 800-year human interactions with mammoths](https://phys.org/news/2024-06-siberia-mammoth-graveyard-reveals-year.html)
 * [2024-06-10, 23:26:49](https://news.ycombinator.com/item?id=40640499) - [Intel pauses work on $25B Israel fab](https://www.theregister.com/2024/06/10/intel_israeli_fab/)
-* [2024-06-10, 22:40:25](https://news.ycombinator.com/item?id=40640076) - [Wild elephants may have names that other elephants use to call them](https://www.npr.org/2024/06/07/nx-s1-4994426/wild-elephants-individual-names)
+* [2024-06-10, 23:18:06](https://news.ycombinator.com/item?id=40640424) - [The Geometry of Categorical and Hierarchical Concepts in Large Language Models](https://arxiv.org/abs/2406.01506)
 * [2024-06-10, 21:55:13](https://news.ycombinator.com/item?id=40639628) - [Engage your audience: get to the point, use story structure, force specificity](https://iandanielstewart.com/2024/06/09/engage-your-audience-by-getting-to-the-point-using-story-structure-and-forcing-specificity/)
 * [2024-06-10, 21:53:07](https://news.ycombinator.com/item?id=40639606) - [Private Cloud Compute: A new frontier for AI privacy in the cloud](https://security.apple.com/blog/private-cloud-compute/)
 * [2024-06-10, 21:42:11](https://news.ycombinator.com/item?id=40639506) - [Apple's On-Device and Server Foundation Models](https://machinelearning.apple.com/research/introducing-apple-foundation-models)

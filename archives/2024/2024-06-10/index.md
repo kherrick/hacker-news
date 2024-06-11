@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-10](index.md)
 
 * [2024-06-10, 23:26:49](https://news.ycombinator.com/item?id=40640499) - [Intel pauses work on $25B Israel fab](https://www.theregister.com/2024/06/10/intel_israeli_fab/)
+* [2024-06-10, 23:18:06](https://news.ycombinator.com/item?id=40640424) - [The Geometry of Categorical and Hierarchical Concepts in Large Language Models](https://arxiv.org/abs/2406.01506)
 * [2024-06-10, 22:48:42](https://news.ycombinator.com/item?id=40640159) - [What's new in Xcode 16 [video]](https://developer.apple.com/videos/play/wwdc2024/10135/)
 * [2024-06-10, 22:40:25](https://news.ycombinator.com/item?id=40640076) - [Wild elephants may have names that other elephants use to call them](https://www.npr.org/2024/06/07/nx-s1-4994426/wild-elephants-individual-names)
 * [2024-06-10, 22:26:50](https://news.ycombinator.com/item?id=40639943) - [Oracle Java police start knocking on Fortune 200's doors for first time](https://www.theregister.com/2024/06/10/fortune_200_oracle_java_audit/)
