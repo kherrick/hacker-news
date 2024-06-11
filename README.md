@@ -9,6 +9,7 @@
 * [2024-06-11, 04:51:55](https://news.ycombinator.com/item?id=40642476) - [DuckDB Isn't Just Fast](https://csvbase.com/blog/6)
 * [2024-06-11, 02:55:17](https://news.ycombinator.com/item?id=40641795) - [Blackmagic Cine Immersive Capture for Vision Pro 8160x7200 Resolution per Eye](https://www.newsshooter.com/2024/06/10/blackmagic-ursa-cine-immersive-capture-content-for-apple-vision-pro-with-8160-x-7200-resolution-per-eye/)
 * [2024-06-11, 02:38:36](https://news.ycombinator.com/item?id=40641704) - [Biodiversity enhances immune regulation among daycare children](https://www.science.org/doi/10.1126/sciadv.aba2578)
+* [2024-06-11, 02:23:50](https://news.ycombinator.com/item?id=40641615) - [Genes protective during Black Death may now be increasing autoimmune disorders (2022)](https://www.health.harvard.edu/blog/genes-protective-during-the-black-death-may-now-be-increasing-autoimmune-disorders-202212012859)
 * [2024-06-11, 00:28:25](https://news.ycombinator.com/item?id=40640927) - [Ship Something Every Day](https://maxleiter.com/blog/ship-every-day)
 * [2024-06-11, 00:15:00](https://news.ycombinator.com/item?id=40640833) - [Siberia's 'mammoth graveyard' reveals 800-year human interactions with mammoths](https://phys.org/news/2024-06-siberia-mammoth-graveyard-reveals-year.html)
 * [2024-06-10, 21:55:13](https://news.ycombinator.com/item?id=40639628) - [Engage your audience: get to the point, use story structure, force specificity](https://iandanielstewart.com/2024/06/09/engage-your-audience-by-getting-to-the-point-using-story-structure-and-forcing-specificity/)
@@ -28,7 +29,6 @@
 * [2024-06-10, 10:36:33](https://news.ycombinator.com/item?id=40632064) - [A Short History of CP/M-86 – By Bradford Morgan White](https://www.abortretry.fail/p/a-short-history-of-cpm-86)
 * [2024-06-10, 09:47:45](https://news.ycombinator.com/item?id=40631796) - [Free Quality SoundFonts (Sf2)](https://sites.google.com/site/soundfonts4u/)
 * [2024-06-10, 09:14:08](https://news.ycombinator.com/item?id=40631614) - [An Arduino interface for 8088 CPUs](https://github.com/dbalsom/arduino_8088)
-* [2024-06-10, 09:04:41](https://news.ycombinator.com/item?id=40631573) - [Wooden bowling arm that bested Australian cricketer in 1909 rebuilt](https://www.theguardian.com/technology/article/2024/jun/10/wooden-bowling-arm-john-venn-machine-rebuilt-cambridge-australia-1909-cricket-team)
 * [2024-06-09, 12:02:19](https://news.ycombinator.com/item?id=40623864) - [I built an ROV to solve missing person cases](https://suanto.com/2024/06/06/the-time-I-built-an-ROV-01/)
 
 ## [Archives](archives/index.md)
