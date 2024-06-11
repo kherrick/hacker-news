@@ -1,13 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-10, 23:26:49](https://news.ycombinator.com/item?id=40640499) - [Intel pauses work on $25B Israel fab](https://www.theregister.com/2024/06/10/intel_israeli_fab/)
 * [2024-06-10, 22:40:25](https://news.ycombinator.com/item?id=40640076) - [Wild elephants may have names that other elephants use to call them](https://www.npr.org/2024/06/07/nx-s1-4994426/wild-elephants-individual-names)
+* [2024-06-10, 21:55:13](https://news.ycombinator.com/item?id=40639628) - [Engage your audience: get to the point, use story structure, force specificity](https://iandanielstewart.com/2024/06/09/engage-your-audience-by-getting-to-the-point-using-story-structure-and-forcing-specificity/)
 * [2024-06-10, 21:53:07](https://news.ycombinator.com/item?id=40639606) - [Private Cloud Compute: A new frontier for AI privacy in the cloud](https://security.apple.com/blog/private-cloud-compute/)
 * [2024-06-10, 21:42:11](https://news.ycombinator.com/item?id=40639506) - [Apple's On-Device and Server Foundation Models](https://machinelearning.apple.com/research/introducing-apple-foundation-models)
-* [2024-06-10, 21:10:37](https://news.ycombinator.com/item?id=40639148) - [Heard of Idempotency but unsure what it is?](https://timmoth.github.io/AsyncMonolith/posts/idempotency/)
-* [2024-06-10, 21:10:03](https://news.ycombinator.com/item?id=40639137) - [New GitHub Organization for the Swift Project](https://www.swift.org/blog/swiftlang-github/)
 * [2024-06-10, 21:00:43](https://news.ycombinator.com/item?id=40639032) - [Trieve (YC W24) Is Hiring an DevRel Software Engineer](https://www.ycombinator.com/companies/trieve/jobs/2jeeXLs-developer-relations-software-engineer)
 * [2024-06-10, 20:42:04](https://news.ycombinator.com/item?id=40638764) - [The New Math of How Large-Scale Order Emerges](https://www.quantamagazine.org/the-new-math-of-how-large-scale-order-emerges-20240610/)
-* [2024-06-10, 20:40:24](https://news.ycombinator.com/item?id=40638741) - [The British Newspaper Archive](https://www.britishnewspaperarchive.co.uk/)
 * [2024-06-10, 20:19:29](https://news.ycombinator.com/item?id=40638445) - [Printable Popup Horizontal Sundials](https://www.blocklayer.com/sundial-popeng)
 * [2024-06-10, 20:16:33](https://news.ycombinator.com/item?id=40638386) - [Controversial pesticide research all but vanished from a major conference](https://usrtk.org/bees-neonics/entomological-society-america-corporate-partners/)
 * [2024-06-10, 19:39:29](https://news.ycombinator.com/item?id=40637785) - [Possible exposure of Earth to dense interstellar medium 2-3M years ago](https://www.nature.com/articles/s41550-024-02279-8)
@@ -28,6 +27,7 @@
 * [2024-06-09, 19:59:39](https://news.ycombinator.com/item?id=40627113) - [Researchers demonstrate the first chip-based 3D printer](https://news.mit.edu/2024/researchers-demonstrate-first-chip-based-3d-printer-0606)
 * [2024-06-09, 12:02:19](https://news.ycombinator.com/item?id=40623864) - [I built an ROV to solve missing person cases](https://suanto.com/2024/06/06/the-time-I-built-an-ROV-01/)
 * [2024-06-09, 09:00:33](https://news.ycombinator.com/item?id=40622999) - [From Steampunk to Solarpunk (2008)](http://republicofthebees.blogspot.com/2008/04/from-steampunk-to-solarpunk.html)
+* [2024-06-09, 05:14:51](https://news.ycombinator.com/item?id=40622209) - [Scratchapixel 4.0, Learn Computer Graphics Programming](https://www.scratchapixel.com/index.html)
 * [2024-06-07, 16:57:41](https://news.ycombinator.com/item?id=40610526) - [Before 'Fans,' There Were 'Kranks,' 'Longhairs,' and 'Lions'](https://www.atlasobscura.com/articles/fandom-names)
 * [2024-06-07, 05:42:30](https://news.ycombinator.com/item?id=40605654) - [In the Ruins of Edward Gibbon's Masterpiece](https://newrepublic.com/article/181667/ruins-edward-gibbons-masterpiece-mike-duncan)
 
