@@ -68,6 +68,7 @@
 * [2024-06-10, 11:58:54](https://news.ycombinator.com/item?id=40632625) - [Senior employees, ordered back to the office, are jumping ship](https://www.computerworld.com/article/2138277/senior-employees-ordered-back-to-the-office-are-jumping-ship.html)
 * [2024-06-10, 11:47:00](https://news.ycombinator.com/item?id=40632533) - [Show HN: Crawl a modern website to a zip, serve the website from the zip](https://github.com/potahtml/mpa-archive)
 * [2024-06-10, 11:35:27](https://news.ycombinator.com/item?id=40632446) - [DeGoogling 2024: Replacing Photos, Gmail, and Search](https://guissmo.com/blog/degoogling-2024-alternatives-to-google-that-i-am-using/)
+* [2024-06-10, 11:26:56](https://news.ycombinator.com/item?id=40632397) - [Water](https://johncarlosbaez.wordpress.com/2013/11/29/water/)
 * [2024-06-10, 10:49:16](https://news.ycombinator.com/item?id=40632139) - [Paleontologists Are Fuming over AI Depictions of Prehistoric Animals](https://gizmodo.com/paleontologists-upset-ai-generated-art-dinosaurs-1851503634)
 * [2024-06-10, 10:44:19](https://news.ycombinator.com/item?id=40632115) - [Study finds a quarter of bosses hoped RTO would make employees quit](https://www.theregister.com/2024/06/09/rto_quit_study/)
 * [2024-06-10, 10:30:03](https://news.ycombinator.com/item?id=40632040) - [Passenger tracks missing luggage to home of airport store worker](https://www.cnn.com/travel/airline-passenger-tracks-missing-bag-felony-theft/index.html)

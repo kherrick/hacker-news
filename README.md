@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-11, 01:39:35](https://news.ycombinator.com/item?id=40641361) - [Noam Chomsky 'no longer able to talk' after 'medical event'](https://www.independent.co.uk/arts-entertainment/books/news/noam-chomsky-health-update-tributes-b2559831.html)
 * [2024-06-11, 01:00:58](https://news.ycombinator.com/item?id=40641116) - [Back To Atoms: Why we can stop building SaaS and build the future instead.](https://carllippert.com/back-to-atoms/)
 * [2024-06-11, 00:28:25](https://news.ycombinator.com/item?id=40640927) - [Ship Something Every Day](https://maxleiter.com/blog/ship-every-day)
 * [2024-06-11, 00:15:00](https://news.ycombinator.com/item?id=40640833) - [Siberia's 'mammoth graveyard' reveals 800-year human interactions with mammoths](https://phys.org/news/2024-06-siberia-mammoth-graveyard-reveals-year.html)
@@ -12,7 +13,6 @@
 * [2024-06-10, 20:42:04](https://news.ycombinator.com/item?id=40638764) - [The new math of how large-scale order emerges](https://www.quantamagazine.org/the-new-math-of-how-large-scale-order-emerges-20240610/)
 * [2024-06-10, 20:16:33](https://news.ycombinator.com/item?id=40638386) - [Controversial pesticide research all but vanished from a major conference](https://usrtk.org/bees-neonics/entomological-society-america-corporate-partners/)
 * [2024-06-10, 19:39:29](https://news.ycombinator.com/item?id=40637785) - [Possible exposure of Earth to dense interstellar medium 2-3M years ago](https://www.nature.com/articles/s41550-024-02279-8)
-* [2024-06-10, 19:13:39](https://news.ycombinator.com/item?id=40637374) - [Pyrophone](https://en.wikipedia.org/wiki/Pyrophone)
 * [2024-06-10, 19:00:26](https://news.ycombinator.com/item?id=40637102) - [Deterioration of local community a major driver of loss of play-based childhood](https://www.afterbabel.com/p/community-based-childhood)
 * [2024-06-10, 18:50:53](https://news.ycombinator.com/item?id=40636883) - [The rarest move in chess [video]](https://www.youtube.com/watch?v=iDnW0WiCqNc)
 * [2024-06-10, 18:48:47](https://news.ycombinator.com/item?id=40636844) - [Apple Intelligence for iPhone, iPad, and Mac](https://www.apple.com/newsroom/2024/06/introducing-apple-intelligence-for-iphone-ipad-and-mac/)
@@ -24,12 +24,12 @@
 * [2024-06-10, 13:59:22](https://news.ycombinator.com/item?id=40633773) - [Show HN: Thread – AI-powered Jupyter Notebook built using React](https://github.com/squaredtechnologies/thread)
 * [2024-06-10, 12:14:56](https://news.ycombinator.com/item?id=40632745) - [Sending emails to my three-year-old](https://blog.haschek.at/2024/leaving-a-digital-legacy.html)
 * [2024-06-10, 11:47:00](https://news.ycombinator.com/item?id=40632533) - [Show HN: Crawl a modern website to a zip, serve the website from the zip](https://github.com/potahtml/mpa-archive)
+* [2024-06-10, 11:26:56](https://news.ycombinator.com/item?id=40632397) - [Water](https://johncarlosbaez.wordpress.com/2013/11/29/water/)
 * [2024-06-10, 09:14:08](https://news.ycombinator.com/item?id=40631614) - [An Arduino interface for 8088 CPUs](https://github.com/dbalsom/arduino_8088)
 * [2024-06-10, 09:07:51](https://news.ycombinator.com/item?id=40631585) - [Filmed.js: film strip image effect](https://www.netzgesta.de/filmed/)
 * [2024-06-10, 07:53:35](https://news.ycombinator.com/item?id=40631223) - [Anti-Cheat Expert: all your pixels are belong to us](https://invlpg.dev/post/ace_screenshots/)
 * [2024-06-09, 19:59:39](https://news.ycombinator.com/item?id=40627113) - [Researchers demonstrate the first chip-based 3D printer](https://news.mit.edu/2024/researchers-demonstrate-first-chip-based-3d-printer-0606)
 * [2024-06-09, 12:02:19](https://news.ycombinator.com/item?id=40623864) - [I built an ROV to solve missing person cases](https://suanto.com/2024/06/06/the-time-I-built-an-ROV-01/)
-* [2024-06-07, 05:42:30](https://news.ycombinator.com/item?id=40605654) - [In the Ruins of Edward Gibbon's Masterpiece](https://newrepublic.com/article/181667/ruins-edward-gibbons-masterpiece-mike-duncan)
 
 ## [Archives](archives/index.md)
 
