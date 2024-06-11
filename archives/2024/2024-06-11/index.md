@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-11](index.md)
 
+* [2024-06-11, 16:25:16](https://news.ycombinator.com/item?id=40648193) - [Coqui.ai TTS: A Deep Learning Toolkit for Text-to-Speech](https://github.com/coqui-ai/TTS)
 * [2024-06-11, 15:53:29](https://news.ycombinator.com/item?id=40647799) - [Canada's Extremist Attack on Free Speech](https://www.theatlantic.com/ideas/archive/2024/06/canada-online-harms-act/678605/)
 * [2024-06-11, 15:36:25](https://news.ycombinator.com/item?id=40647517) - [Google shuts down GPay app and P2P payments in the US](https://9to5google.com/2024/06/09/gpay-us/)
 * [2024-06-11, 15:34:37](https://news.ycombinator.com/item?id=40647491) - [FDA denies petition against use of phthalates in food packaging](https://www.fda.gov/food/cfsan-constituent-updates/fda-responds-petition-phthalates-food-packaging-and-food-contact-applications)
