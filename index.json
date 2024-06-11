@@ -1,32 +1,12 @@
 [
   [
     [
-      "2024-06-11, 11:21:58",
-      "https://news.ycombinator.com/item?id=40644944"
-    ],
-    [
-      "Computing firm Raspberry Pi pops 31% in rare London market debut",
-      "https://www.cnbc.com/2024/06/11/rasperry-pi-ipo-computing-firm-to-raise-211-million.html"
-    ]
-  ],
-  [
-    [
       "2024-06-11, 10:54:08",
       "https://news.ycombinator.com/item?id=40644745"
     ],
     [
       "Battery-swap networks are preventing emergency blackouts",
       "https://www.technologyreview.com/2024/06/11/1093465/battery-swap-gogoro-taiwan-earthquake/"
-    ]
-  ],
-  [
-    [
-      "2024-06-11, 10:18:59",
-      "https://news.ycombinator.com/item?id=40644513"
-    ],
-    [
-      "The Work of Art",
-      "https://theconvivialsociety.substack.com/p/the-work-of-art"
     ]
   ],
   [
@@ -171,16 +151,6 @@
   ],
   [
     [
-      "2024-06-10, 19:39:29",
-      "https://news.ycombinator.com/item?id=40637785"
-    ],
-    [
-      "Possible exposure of Earth to dense interstellar medium 2-3M years ago",
-      "https://www.nature.com/articles/s41550-024-02279-8"
-    ]
-  ],
-  [
-    [
       "2024-06-10, 19:13:39",
       "https://news.ycombinator.com/item?id=40637374"
     ],
@@ -231,6 +201,26 @@
   ],
   [
     [
+      "2024-06-10, 17:09:52",
+      "https://news.ycombinator.com/item?id=40635697"
+    ],
+    [
+      "pico9918: A replacement TMS9918A/TMS9929A VDP using a Raspberry Pi Pico",
+      "https://github.com/visrealm/pico9918"
+    ]
+  ],
+  [
+    [
+      "2024-06-10, 13:59:22",
+      "https://news.ycombinator.com/item?id=40633773"
+    ],
+    [
+      "Show HN: Thread – AI-powered Jupyter Notebook built using React",
+      "https://github.com/squaredtechnologies/thread"
+    ]
+  ],
+  [
+    [
       "2024-06-10, 12:47:48",
       "https://news.ycombinator.com/item?id=40633003"
     ],
@@ -257,6 +247,16 @@
     [
       "A Short History of CP/M-86 – By Bradford Morgan White",
       "https://www.abortretry.fail/p/a-short-history-of-cpm-86"
+    ]
+  ],
+  [
+    [
+      "2024-06-10, 10:10:55",
+      "https://news.ycombinator.com/item?id=40631931"
+    ],
+    [
+      "Data Compression Explained (2011)",
+      "https://mattmahoney.net/dc/dce.html"
     ]
   ],
   [
