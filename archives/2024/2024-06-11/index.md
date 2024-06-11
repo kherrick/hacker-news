@@ -6,6 +6,7 @@
 
 * [2024-06-11, 14:38:41](https://news.ycombinator.com/item?id=40646684) - [Motion (YC W20) Is Hiring Senior Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2024-06-11, 14:36:34](https://news.ycombinator.com/item?id=40646658) - [Norway discovers Europe's largest deposit of rare earth metals](https://www.cnbc.com/2024/06/11/norway-discovers-europes-largest-deposit-of-rare-earth-metals.html)
+* [2024-06-11, 14:32:10](https://news.ycombinator.com/item?id=40646602) - [Some People with Insomnia Think They're Awake When They're Asleep](https://www.scientificamerican.com/article/some-people-with-insomnia-think-theyre-awake-when-theyre-asleep/)
 * [2024-06-11, 14:25:49](https://news.ycombinator.com/item?id=40646534) - [Spam, junk ... slop? The latest wave of AI behind the 'zombie internet'](https://www.theguardian.com/technology/article/2024/may/19/spam-junk-slop-the-latest-wave-of-ai-behind-the-zombie-internet)
 * [2024-06-11, 14:24:44](https://news.ycombinator.com/item?id=40646518) - [All three game console makers have now abandoned X integration](https://www.theverge.com/2024/6/11/24175932/nintendo-switch-console-x-twitter-integration-removed)
 * [2024-06-11, 14:20:57](https://news.ycombinator.com/item?id=40646477) - [Firefox 127](https://www.mozilla.org/en-US/firefox/127.0/releasenotes/)
