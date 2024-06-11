@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-06-11](index.md)
 
+* [2024-06-11, 11:21:58](https://news.ycombinator.com/item?id=40644944) - [Computing firm Raspberry Pi pops 31% in rare London market debut](https://www.cnbc.com/2024/06/11/rasperry-pi-ipo-computing-firm-to-raise-211-million.html)
 * [2024-06-11, 11:13:16](https://news.ycombinator.com/item?id=40644872) - [The Toxic Consequences of Attending a High Achieving School](https://petergray.substack.com/p/43-the-toxic-consequences-of-attending)
 * [2024-06-11, 10:54:08](https://news.ycombinator.com/item?id=40644745) - [Battery-swap networks are preventing emergency blackouts](https://www.technologyreview.com/2024/06/11/1093465/battery-swap-gogoro-taiwan-earthquake/)
+* [2024-06-11, 10:18:59](https://news.ycombinator.com/item?id=40644513) - [The Work of Art](https://theconvivialsociety.substack.com/p/the-work-of-art)
 * [2024-06-11, 10:07:33](https://news.ycombinator.com/item?id=40644454) - [Humans May Be Able to Grow New Teeth Within Just 6 Years](https://www.popularmechanics.com/science/health/a60952102/tooth-regrowth-human-trials-japan/)
 * [2024-06-11, 09:43:51](https://news.ycombinator.com/item?id=40644323) - [Exploring TrustZone-M on the NRF9160](https://lenas-fieldnotes.de/minimal-tz/)
 * [2024-06-11, 09:26:15](https://news.ycombinator.com/item?id=40644205) - [Omnivore: A read-it-later app sponsored with the help of Open Collective](https://opencollective.com/omnivore)
