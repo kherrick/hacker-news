@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-11](index.md)
 
+* [2024-06-11, 13:30:59](https://news.ycombinator.com/item?id=40645976) - [Australian Border Force searched phones of 10k travellers in past two years](https://www.theguardian.com/australia-news/article/2024/jun/11/australian-border-force-abf-searching-phones-travellers-data)
 * [2024-06-11, 12:29:24](https://news.ycombinator.com/item?id=40645439) - [The Titan Submersible Disaster. The Inside Story Is More Disturbing](https://www.wired.com/story/titan-submersible-disaster-inside-story-oceangate-files/)
 * [2024-06-11, 11:21:58](https://news.ycombinator.com/item?id=40644944) - [Computing firm Raspberry Pi pops 31% in rare London market debut](https://www.cnbc.com/2024/06/11/rasperry-pi-ipo-computing-firm-to-raise-211-million.html)
 * [2024-06-11, 11:13:16](https://news.ycombinator.com/item?id=40644872) - [The Toxic Consequences of Attending a High Achieving School](https://petergray.substack.com/p/43-the-toxic-consequences-of-attending)
