@@ -77,6 +77,7 @@
 * [2024-06-10, 10:30:03](https://news.ycombinator.com/item?id=40632040) - [Passenger tracks missing luggage to home of airport store worker](https://www.cnn.com/travel/airline-passenger-tracks-missing-bag-felony-theft/index.html)
 * [2024-06-10, 10:27:56](https://news.ycombinator.com/item?id=40632027) - [First detection of negative ions on the Moon](https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/First_detection_of_negative_ions_on_the_Moon)
 * [2024-06-10, 10:15:08](https://news.ycombinator.com/item?id=40631959) - [Germany trials the four-day workweek: \"Free time is invaluable\"](https://www.welcometothejungle.com/en/articles/germany-trials-four-day-workweek)
+* [2024-06-10, 10:10:55](https://news.ycombinator.com/item?id=40631931) - [Data Compression Explained (2011)](https://mattmahoney.net/dc/dce.html)
 * [2024-06-10, 09:47:45](https://news.ycombinator.com/item?id=40631796) - [Free Quality SoundFonts (Sf2)](https://sites.google.com/site/soundfonts4u/)
 * [2024-06-10, 09:22:40](https://news.ycombinator.com/item?id=40631663) - [\"How people fall apart\": The Neuroscience of Burnout](https://yaledailynews.com/blog/2022/03/29/how-people-fall-apart-yale-faculty-discuss-the-impact-of-burnout-on-the-brain/)
 * [2024-06-10, 09:15:08](https://news.ycombinator.com/item?id=40631623) - [Understanding the Burnt-Out Brain](https://www.neurovine.ai/blog/understanding-the-burntout-brain)
