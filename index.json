@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-11, 05:40:13",
+      "https://news.ycombinator.com/item?id=40642801"
+    ],
+    [
+      "British duo arrested for SMS phishing via homemade cell tower",
+      "https://www.cityoflondon.police.uk/news/city-of-london/news/2024/june/two-people-arrested-in-connection-with-investigation-into-homemade-mobile-antenna-used-to-send-thousands-of-smishing-text-messages-to-the-public/"
+    ]
+  ],
+  [
+    [
       "2024-06-11, 04:26:29",
       "https://news.ycombinator.com/item?id=40642328"
     ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=40641615"
     ],
     [
-      "Genes protective during Black Death may now be increasing autoimmune disorders",
+      "Genes protective during Black Death may now be increasing autoimmune disorders (2022)",
       "https://www.health.harvard.edu/blog/genes-protective-during-the-black-death-may-now-be-increasing-autoimmune-disorders-202212012859"
     ]
   ],
@@ -47,16 +57,6 @@
     [
       "Noam Chomsky 'no longer able to talk' after 'medical event'",
       "https://www.independent.co.uk/arts-entertainment/books/news/noam-chomsky-health-update-tributes-b2559831.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-11, 01:00:58",
-      "https://news.ycombinator.com/item?id=40641116"
-    ],
-    [
-      "Back To Atoms: Why we can stop building SaaS and build the future instead.",
-      "https://carllippert.com/back-to-atoms/"
     ]
   ],
   [
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2024-06-10, 11:26:56",
-      "https://news.ycombinator.com/item?id=40632397"
+      "2024-06-10, 11:47:00",
+      "https://news.ycombinator.com/item?id=40632533"
     ],
     [
-      "Water",
-      "https://johncarlosbaez.wordpress.com/2013/11/29/water/"
+      "Show HN: Crawl a modern website to a zip, serve the website from the zip",
+      "https://github.com/potahtml/mpa-archive"
     ]
   ],
   [
