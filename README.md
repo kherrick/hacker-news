@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-12, 16:20:36](https://news.ycombinator.com/item?id=40659830) - [Official documentation of Framework Laptop 16 (Now featuring 3D CAD models)](https://github.com/FrameworkComputer/Framework-Laptop-16)
 * [2024-06-12, 16:00:25](https://news.ycombinator.com/item?id=40659597) - [Code Finder – The ultimate search engine for GitHub repositories](https://codefinder.dev)
 * [2024-06-12, 15:35:55](https://news.ycombinator.com/item?id=40659281) - [Alexa Dropped the Ball on Being the Top Conversational System on the Planet](https://www.mihaileric.com/posts/how-alexa-dropped-the-ball-conversational-ai/)
 * [2024-06-12, 15:32:53](https://news.ycombinator.com/item?id=40659236) - [Launch HN: Overwatch (YC S22): OSINT platform for cyber and fraud risk](https://news.ycombinator.com/item?id=40659236)
@@ -28,7 +29,6 @@
 * [2024-06-10, 22:51:51](https://news.ycombinator.com/item?id=40640190) - [Wild horses reintroduced to Kazakhstan steppes after absence of two centuries](https://www.theguardian.com/environment/article/2024/jun/10/przewalskis-horses-only-wild-species-return-central-asian-steppes-kazakhstan)
 * [2024-06-10, 22:06:23](https://news.ycombinator.com/item?id=40639742) - [Spilo: High Availability PostgreSQL cluster using Docker](https://github.com/zalando/spilo)
 * [2024-06-10, 19:41:06](https://news.ycombinator.com/item?id=40637816) - [Beyond the wall: Working with aperiodic tilings using finite-state transducers](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-transducers/)
-* [2024-06-10, 17:38:04](https://news.ycombinator.com/item?id=40635989) - [Apple is finally bringing RCS messaging to the iPhone](https://www.theverge.com/2024/6/10/24171315/apple-messages-rcs-ios-18-imessage-green-bubble)
 * [2024-06-10, 12:02:19](https://news.ycombinator.com/item?id=40632654) - [How to make colored fire at home (2020)](https://sciencenotes.org/how-to-make-colored-fire/)
 
 ## [Archives](archives/index.md)
