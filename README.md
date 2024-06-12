@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-12, 21:31:32](https://news.ycombinator.com/item?id=40663356) - [Japan enacts law to curb Apple, Google's app dominance](https://english.kyodonews.net/news/2024/06/bc2d7f45d456-japan-enacts-law-to-curb-apple-googles-app-dominance.html)
 * [2024-06-12, 21:01:21](https://news.ycombinator.com/item?id=40663070) - [Etleap (YC W13) Is Hiring Customer Success Manager (SF)](https://etleap.com/careers/customer-success-manager/)
 * [2024-06-12, 19:43:50](https://news.ycombinator.com/item?id=40662176) - [Japan enacts law to curb Apple, Google's app dominance](https://english.kyodonews.net/news/2024/06/bc2d7f45d456-japan-enacts-law-to-curb-apple-googles-app-dominance.html#google_vignette)
 * [2024-06-12, 17:58:14](https://news.ycombinator.com/item?id=40660986) - [Designing the avocado of uncertainty visualization](https://stamen.com/designing-the-avocado-of-uncertainty/)
@@ -27,7 +28,6 @@
 * [2024-06-11, 09:51:48](https://news.ycombinator.com/item?id=40644366) - [Medieval game pieces emerge from the ruins of a German castle](https://news.artnet.com/art-world/medieval-game-pieces-emerge-from-the-ruins-of-a-mysterious-german-castle-2497815)
 * [2024-06-11, 05:40:57](https://news.ycombinator.com/item?id=40642803) - [How to get the most out of Postgres memory settings](https://tembo.io/blog/optimizing-memory-usage)
 * [2024-06-10, 22:51:51](https://news.ycombinator.com/item?id=40640190) - [Wild horses reintroduced to Kazakhstan steppes after absence of two centuries](https://www.theguardian.com/environment/article/2024/jun/10/przewalskis-horses-only-wild-species-return-central-asian-steppes-kazakhstan)
-* [2024-06-10, 22:06:23](https://news.ycombinator.com/item?id=40639742) - [Spilo: High Availability PostgreSQL cluster using Docker](https://github.com/zalando/spilo)
 * [2024-06-10, 13:47:18](https://news.ycombinator.com/item?id=40633671) - [Real-Time Settlers of Catan](https://robert.ocallahan.org/2024/06/real-time-settlers.html)
 * [2024-06-10, 13:18:14](https://news.ycombinator.com/item?id=40633329) - [Tomorrow people: For a century, it felt like telepathy was around the corner](https://aeon.co/essays/for-over-a-century-telepathy-has-been-just-around-the-corner)
 
