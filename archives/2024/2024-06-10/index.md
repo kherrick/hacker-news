@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-10](index.md)
 
 * [2024-06-10, 23:34:58](https://news.ycombinator.com/item?id=40640567) - [The Discovery of Superconductivity (2010)](https://pubs.aip.org/physicstoday/article/63/9/38/386608/The-discovery-of-superconductivityA-century-ago)
+* [2024-06-10, 23:30:55](https://news.ycombinator.com/item?id=40640534) - [Jank's new persistent string is fast (2023)](https://jank-lang.org/blog/2023-12-30-fast-string/)
 * [2024-06-10, 23:26:49](https://news.ycombinator.com/item?id=40640499) - [Intel pauses work on $25B Israel fab](https://www.theregister.com/2024/06/10/intel_israeli_fab/)
 * [2024-06-10, 23:19:52](https://news.ycombinator.com/item?id=40640432) - [My War (1982)](https://harpers.org/archive/1982/01/my-war/)
 * [2024-06-10, 23:18:06](https://news.ycombinator.com/item?id=40640424) - [The Geometry of Categorical and Hierarchical Concepts in Large Language Models](https://arxiv.org/abs/2406.01506)
@@ -36,6 +37,7 @@
 * [2024-06-10, 18:08:55](https://news.ycombinator.com/item?id=40636351) - [Apple announces Apple Intelligence for iOS, iPad, and Mac](https://techcrunch.com/2024/06/10/apple-intelligence-is-the-companys-new-generative-ai-offering/)
 * [2024-06-10, 18:07:24](https://news.ycombinator.com/item?id=40636331) - [Apple blocks PC emulator in iOS App Store and third-party app stores](https://9to5mac.com/2024/06/09/apple-blocks-pc-emulator-utm-app-store/)
 * [2024-06-10, 18:04:10](https://news.ycombinator.com/item?id=40636292) - [Forget LastPass: Apple unveils 'Passwords' manager app at WWDC 2024](https://www.zdnet.com/article/forget-lastpass-apple-unveils-passwords-manager-app-at-wwdc-2024/)
+* [2024-06-10, 17:38:04](https://news.ycombinator.com/item?id=40635989) - [Apple is finally bringing RCS messaging to the iPhone](https://www.theverge.com/2024/6/10/24171315/apple-messages-rcs-ios-18-imessage-green-bubble)
 * [2024-06-10, 17:34:38](https://news.ycombinator.com/item?id=40635959) - [OpenAI Welcomes Sarah Friar (CFO) and Kevin Weil (CPO)](https://openai.com/index/openai-welcomes-cfo-cpo/)
 * [2024-06-10, 17:29:26](https://news.ycombinator.com/item?id=40635906) - [Apple unveils iOS 18 with new home screen](https://9to5mac.com/2024/06/10/ios-18-new-features-launch-release-date/)
 * [2024-06-10, 17:22:46](https://news.ycombinator.com/item?id=40635834) - [Google has been blocking Invidious with error \"This helps protect our community\"](https://github.com/iv-org/invidious/issues/4734)
