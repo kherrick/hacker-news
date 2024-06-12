@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-06-12](index.md)
 
+* [2024-06-12, 17:00:04](https://news.ycombinator.com/item?id=40660338) - [Streak (YC W22) is hiring a remote web designer (senior)](https://www.streak.com/careers/designer-web-and-marketing)
 * [2024-06-12, 16:45:16](https://news.ycombinator.com/item?id=40660161) - [Draft Legislation to End Federal Dependence on Insecure, Proprietary Software](https://www.wyden.senate.gov/news/press-releases/wyden-releases-draft-legislation-to-end-federal-dependence-on-insecure-proprietary-software-in-response-to-repeated-damaging-breaches-of-government-systems)
 * [2024-06-12, 16:20:36](https://news.ycombinator.com/item?id=40659830) - [Official documentation of Framework Laptop 16 (Now featuring 3D CAD models)](https://github.com/FrameworkComputer/Framework-Laptop-16)
 * [2024-06-12, 16:00:25](https://news.ycombinator.com/item?id=40659597) - [Code Finder – The ultimate search engine for GitHub repositories](https://codefinder.dev)
+* [2024-06-12, 15:55:20](https://news.ycombinator.com/item?id=40659533) - [Americans Get News on TikTok, X, Facebook and Instagram](https://www.pewresearch.org/journalism/2024/06/12/how-americans-get-news-on-tiktok-x-facebook-and-instagram/)
 * [2024-06-12, 15:35:55](https://news.ycombinator.com/item?id=40659281) - [Alexa Dropped the Ball on Being the Top Conversational System on the Planet](https://www.mihaileric.com/posts/how-alexa-dropped-the-ball-conversational-ai/)
 * [2024-06-12, 15:32:53](https://news.ycombinator.com/item?id=40659236) - [Launch HN: Overwatch (YC S22): OSINT platform for cyber and fraud risk](https://news.ycombinator.com/item?id=40659236)
 * [2024-06-12, 15:25:23](https://news.ycombinator.com/item?id=40659160) - [Show HN: Restate, low-latency durable workflows for JavaScript/Java, in Rust](https://restate.dev/blog/announcing-restate-1.0-restate-cloud-and-our-seed-funding-round/)
