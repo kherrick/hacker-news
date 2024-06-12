@@ -69,6 +69,7 @@
 * [2024-06-10, 14:04:25](https://news.ycombinator.com/item?id=40633824) - [The Mythical Promise of Tin Foil Hats](https://gizmodo.com/myth-tinfoil-hat-mit-conspiracy-theories-aliens-5g-1851529370)
 * [2024-06-10, 13:59:22](https://news.ycombinator.com/item?id=40633773) - [Show HN: Thread – AI-powered Jupyter Notebook built using React](https://github.com/squaredtechnologies/thread)
 * [2024-06-10, 13:58:55](https://news.ycombinator.com/item?id=40633766) - [Show HN: Collaborative ASCII Drawing with Telnet](https://jott.live/markdown/telnet_draw)
+* [2024-06-10, 13:47:18](https://news.ycombinator.com/item?id=40633671) - [Real-Time Settlers of Catan](https://robert.ocallahan.org/2024/06/real-time-settlers.html)
 * [2024-06-10, 13:46:37](https://news.ycombinator.com/item?id=40633666) - [AI Hype is completely out of control – especially since ChatGPT-4o [video]](https://www.youtube.com/watch?v=VctsqOo8wsc)
 * [2024-06-10, 13:44:59](https://news.ycombinator.com/item?id=40633650) - [Francis Ford Coppola's “Godfather Notebook”](https://jillianhess.substack.com/p/re-noted-francis-ford-coppolas-godfather)
 * [2024-06-10, 13:18:14](https://news.ycombinator.com/item?id=40633329) - [Tomorrow people: For a century, it felt like telepathy was around the corner](https://aeon.co/essays/for-over-a-century-telepathy-has-been-just-around-the-corner)
