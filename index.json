@@ -11,12 +11,12 @@
   ],
   [
     [
-      "2024-06-12, 13:28:42",
-      "https://news.ycombinator.com/item?id=40657937"
+      "2024-06-12, 12:07:19",
+      "https://news.ycombinator.com/item?id=40657138"
     ],
     [
-      "Google Dataset Search Engine",
-      "https://datasetsearch.research.google.com/"
+      "Relative Evaluation Report on S1, iPhone (2010) [pdf]",
+      "https://ia600908.us.archive.org/30/items/436142-samsung-relative-evaluation-report-on-s1-iphone/436142-samsung-relative-evaluation-report-on-s1-iphone.pdf"
     ]
   ],
   [
@@ -27,6 +27,26 @@
     [
       "Fini (YC S22) Is Hiring a Front-End Engineer",
       "https://news.ycombinator.com/item?id=40657088"
+    ]
+  ],
+  [
+    [
+      "2024-06-12, 11:20:16",
+      "https://news.ycombinator.com/item?id=40656780"
+    ],
+    [
+      "Faxes from the Far Side of the Moon (2018)",
+      "https://www.damninteresting.com/faxes-from-the-far-side/"
+    ]
+  ],
+  [
+    [
+      "2024-06-12, 11:13:52",
+      "https://news.ycombinator.com/item?id=40656747"
+    ],
+    [
+      "Elixir 1.17 released: set-theoretic types in patterns, durations, OTP 27",
+      "https://elixir-lang.org/blog/2024/06/12/elixir-v1-17-0-released/"
     ]
   ],
   [
@@ -51,32 +71,12 @@
   ],
   [
     [
-      "2024-06-11, 23:11:31",
-      "https://news.ycombinator.com/item?id=40652731"
-    ],
-    [
-      "Edward C. Stone, 1936-2024",
-      "https://www.caltech.edu/about/news/edward-stone-1936-2024"
-    ]
-  ],
-  [
-    [
       "2024-06-11, 20:03:57",
       "https://news.ycombinator.com/item?id=40650844"
     ],
     [
       "Flameshot – Open-source screenshot software",
       "https://flameshot.org/"
-    ]
-  ],
-  [
-    [
-      "2024-06-11, 19:19:24",
-      "https://news.ycombinator.com/item?id=40650316"
-    ],
-    [
-      "Decade of the Battery",
-      "https://www.noahpinion.blog/p/decade-of-the-battery-334"
     ]
   ],
   [
@@ -101,12 +101,12 @@
   ],
   [
     [
-      "2024-06-11, 16:44:11",
-      "https://news.ycombinator.com/item?id=40648470"
+      "2024-06-11, 16:41:01",
+      "https://news.ycombinator.com/item?id=40648422"
     ],
     [
-      "Lynn Conway has died",
-      "https://en.wikipedia.org/wiki/Lynn_Conway"
+      "Water is bursting from another abandoned West Texas oil well, continuing a trend",
+      "https://www.texastribune.org/2024/06/11/west-texas-orphan-wells-water-bursts/"
     ]
   ],
   [
@@ -117,6 +117,16 @@
     [
       "Coqui.ai TTS: A Deep Learning Toolkit for Text-to-Speech",
       "https://github.com/coqui-ai/TTS"
+    ]
+  ],
+  [
+    [
+      "2024-06-11, 14:58:52",
+      "https://news.ycombinator.com/item?id=40646940"
+    ],
+    [
+      "Banana giant Chiquita held liable by US court for funding paramilitaries",
+      "https://www.bbc.com/news/articles/c6pprpd3x96o"
     ]
   ],
   [
@@ -171,6 +181,16 @@
   ],
   [
     [
+      "2024-06-11, 10:42:03",
+      "https://news.ycombinator.com/item?id=40644674"
+    ],
+    [
+      "George Gorton Machine Co engraver typefaces",
+      "http://luc.devroye.org/fonts-80708.html"
+    ]
+  ],
+  [
+    [
       "2024-06-11, 10:33:03",
       "https://news.ycombinator.com/item?id=40644605"
     ],
@@ -191,22 +211,22 @@
   ],
   [
     [
-      "2024-06-11, 09:35:34",
-      "https://news.ycombinator.com/item?id=40644261"
-    ],
-    [
-      "Perspective-Correct Interpolation",
-      "https://andrewkchan.dev/posts/perspective-interpolation.html"
-    ]
-  ],
-  [
-    [
       "2024-06-11, 05:40:57",
       "https://news.ycombinator.com/item?id=40642803"
     ],
     [
       "How to Get the Most Out of Postgres Memory Settings",
       "https://tembo.io/blog/optimizing-memory-usage"
+    ]
+  ],
+  [
+    [
+      "2024-06-10, 23:30:55",
+      "https://news.ycombinator.com/item?id=40640534"
+    ],
+    [
+      "Jank's new persistent string is fast (2023)",
+      "https://jank-lang.org/blog/2023-12-30-fast-string/"
     ]
   ],
   [
@@ -221,12 +241,12 @@
   ],
   [
     [
-      "2024-06-10, 14:04:25",
-      "https://news.ycombinator.com/item?id=40633824"
+      "2024-06-10, 17:38:04",
+      "https://news.ycombinator.com/item?id=40635989"
     ],
     [
-      "The Mythical Promise of Tin Foil Hats",
-      "https://gizmodo.com/myth-tinfoil-hat-mit-conspiracy-theories-aliens-5g-1851529370"
+      "Apple is finally bringing RCS messaging to the iPhone",
+      "https://www.theverge.com/2024/6/10/24171315/apple-messages-rcs-ios-18-imessage-green-bubble"
     ]
   ],
   [
@@ -267,26 +287,6 @@
     [
       "How to make colored fire at home (2020)",
       "https://sciencenotes.org/how-to-make-colored-fire/"
-    ]
-  ],
-  [
-    [
-      "2024-06-10, 10:37:46",
-      "https://news.ycombinator.com/item?id=40632070"
-    ],
-    [
-      "Demystifying NPUs: Questions and Answers",
-      "https://thechipletter.substack.com/p/demystifying-npus-questions-and-answers"
-    ]
-  ],
-  [
-    [
-      "2024-06-10, 06:05:30",
-      "https://news.ycombinator.com/item?id=40630676"
-    ],
-    [
-      "SIMD < SIMT < SMT: Parallelism in Nvidia GPUs (2011)",
-      "https://yosefk.com/blog/simd-simt-smt-parallelism-in-nvidia-gpus.html"
     ]
   ],
   [
