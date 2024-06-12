@@ -13,6 +13,7 @@
 * [2024-06-12, 21:03:28](https://news.ycombinator.com/item?id=40663091) - [Forget Copilot+, Windows is already tracking everything you do](https://www.xda-developers.com/how-disable-activity-history-windows/)
 * [2024-06-12, 21:01:21](https://news.ycombinator.com/item?id=40663070) - [Etleap (YC W13) Is Hiring Customer Success Manager (SF)](https://etleap.com/careers/customer-success-manager/)
 * [2024-06-12, 20:53:29](https://news.ycombinator.com/item?id=40662984) - [A beginners guide to fine tuning LLM using LoRA](https://zohaib.me/a-beginners-guide-to-fine-tuning-llm-using-lora/)
+* [2024-06-12, 20:49:53](https://news.ycombinator.com/item?id=40662957) - [Honda's Hidden Resonators Keep Tire Noise to a Minimum](https://jalopnik.com/here-s-how-honda-s-hidden-resonators-keep-tire-noise-to-1851535905)
 * [2024-06-12, 20:24:33](https://news.ycombinator.com/item?id=40662670) - [Using AI to spark connections at a conference](https://swizec.com/blog/using-ai-to-spark-connections-at-a-conference/)
 * [2024-06-12, 20:11:26](https://news.ycombinator.com/item?id=40662508) - [Cheapest source of fossil fuel generation is double the cost of solar](https://pv-magazine-usa.com/2024/06/11/cheapest-source-of-fossil-fuel-generation-is-double-the-cost-of-utility-scale-solar/)
 * [2024-06-12, 19:51:04](https://news.ycombinator.com/item?id=40662282) - [AI in education may require us to return to 15th-century pedagogy](https://www.chatterpulseai.com/blog/ai-in-education-may-require-us-to-return-to-15th-century-pedagogy/?r=hn)
