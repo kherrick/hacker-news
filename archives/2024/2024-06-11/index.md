@@ -60,6 +60,7 @@
 * [2024-06-11, 10:30:18](https://news.ycombinator.com/item?id=40644585) - [The Google Pay app is dead](https://arstechnica.com/gadgets/2024/06/google-shuts-down-the-google-pay-app/)
 * [2024-06-11, 10:18:59](https://news.ycombinator.com/item?id=40644513) - [The Work of Art](https://theconvivialsociety.substack.com/p/the-work-of-art)
 * [2024-06-11, 10:07:33](https://news.ycombinator.com/item?id=40644454) - [Humans May Be Able to Grow New Teeth Within Just 6 Years](https://www.popularmechanics.com/science/health/a60952102/tooth-regrowth-human-trials-japan/)
+* [2024-06-11, 09:51:48](https://news.ycombinator.com/item?id=40644366) - [Medieval Game Pieces Emerge from the Ruins of a German Castle](https://news.artnet.com/art-world/medieval-game-pieces-emerge-from-the-ruins-of-a-mysterious-german-castle-2497815)
 * [2024-06-11, 09:43:51](https://news.ycombinator.com/item?id=40644323) - [Exploring TrustZone-M on the NRF9160](https://lenas-fieldnotes.de/minimal-tz/)
 * [2024-06-11, 09:35:34](https://news.ycombinator.com/item?id=40644261) - [Perspective-Correct Interpolation](https://andrewkchan.dev/posts/perspective-interpolation.html)
 * [2024-06-11, 09:26:15](https://news.ycombinator.com/item?id=40644205) - [Omnivore: A read-it-later app sponsored with the help of Open Collective](https://opencollective.com/omnivore)
