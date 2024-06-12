@@ -61,6 +61,7 @@
 * [2024-06-11, 10:18:59](https://news.ycombinator.com/item?id=40644513) - [The Work of Art](https://theconvivialsociety.substack.com/p/the-work-of-art)
 * [2024-06-11, 10:07:33](https://news.ycombinator.com/item?id=40644454) - [Humans May Be Able to Grow New Teeth Within Just 6 Years](https://www.popularmechanics.com/science/health/a60952102/tooth-regrowth-human-trials-japan/)
 * [2024-06-11, 09:43:51](https://news.ycombinator.com/item?id=40644323) - [Exploring TrustZone-M on the NRF9160](https://lenas-fieldnotes.de/minimal-tz/)
+* [2024-06-11, 09:35:34](https://news.ycombinator.com/item?id=40644261) - [Perspective-Correct Interpolation](https://andrewkchan.dev/posts/perspective-interpolation.html)
 * [2024-06-11, 09:26:15](https://news.ycombinator.com/item?id=40644205) - [Omnivore: A read-it-later app sponsored with the help of Open Collective](https://opencollective.com/omnivore)
 * [2024-06-11, 09:24:40](https://news.ycombinator.com/item?id=40644194) - [Ask HN: Am I dead meat already?](https://news.ycombinator.com/item?id=40644194)
 * [2024-06-11, 08:58:31](https://news.ycombinator.com/item?id=40644040) - [OpenRecall](https://github.com/openrecall/openrecall)
