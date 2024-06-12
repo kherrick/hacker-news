@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-06-12](index.md)
 
+* [2024-06-12, 17:41:25](https://news.ycombinator.com/item?id=40660823) - [Don't bother voting in European election](https://www.politico.eu/article/european-election-voting-democracy-propaganda-activism-far-right-green-deal/)
 * [2024-06-12, 17:27:25](https://news.ycombinator.com/item?id=40660685) - [US Government allows Russian citizens to use and pay for internet services](https://ofac.treasury.gov/media/932931/download?inline)
 * [2024-06-12, 17:00:04](https://news.ycombinator.com/item?id=40660338) - [Streak (YC W22) is hiring a remote web designer (senior)](https://www.streak.com/careers/designer-web-and-marketing)
 * [2024-06-12, 16:45:16](https://news.ycombinator.com/item?id=40660161) - [Draft Legislation to End Federal Dependence on Insecure, Proprietary Software](https://www.wyden.senate.gov/news/press-releases/wyden-releases-draft-legislation-to-end-federal-dependence-on-insecure-proprietary-software-in-response-to-repeated-damaging-breaches-of-government-systems)
 * [2024-06-12, 16:20:36](https://news.ycombinator.com/item?id=40659830) - [Official documentation of Framework Laptop 16 (Now featuring 3D CAD models)](https://github.com/FrameworkComputer/Framework-Laptop-16)
+* [2024-06-12, 16:01:21](https://news.ycombinator.com/item?id=40659606) - [Calm Company Fund Is Taking a Break](https://calmfund.com/writing/pause)
 * [2024-06-12, 16:00:25](https://news.ycombinator.com/item?id=40659597) - [Code Finder – The ultimate search engine for GitHub repositories](https://codefinder.dev)
 * [2024-06-12, 15:55:20](https://news.ycombinator.com/item?id=40659533) - [Americans Get News on TikTok, X, Facebook and Instagram](https://www.pewresearch.org/journalism/2024/06/12/how-americans-get-news-on-tiktok-x-facebook-and-instagram/)
 * [2024-06-12, 15:35:55](https://news.ycombinator.com/item?id=40659281) - [Alexa Dropped the Ball on Being the Top Conversational System on the Planet](https://www.mihaileric.com/posts/how-alexa-dropped-the-ball-conversational-ai/)
