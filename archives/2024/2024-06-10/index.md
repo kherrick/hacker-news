@@ -22,6 +22,7 @@
 * [2024-06-10, 21:00:43](https://news.ycombinator.com/item?id=40639032) - [Trieve (YC W24) Is Hiring an DevRel Software Engineer](https://www.ycombinator.com/companies/trieve/jobs/2jeeXLs-developer-relations-software-engineer)
 * [2024-06-10, 20:42:04](https://news.ycombinator.com/item?id=40638764) - [The New Math of How Large-Scale Order Emerges](https://www.quantamagazine.org/the-new-math-of-how-large-scale-order-emerges-20240610/)
 * [2024-06-10, 20:40:24](https://news.ycombinator.com/item?id=40638741) - [The British Newspaper Archive](https://www.britishnewspaperarchive.co.uk/)
+* [2024-06-10, 20:35:27](https://news.ycombinator.com/item?id=40638673) - [My journey with Obsidian](https://kyry.cz/articles/get-organized.html)
 * [2024-06-10, 20:19:29](https://news.ycombinator.com/item?id=40638445) - [Printable Popup Horizontal Sundials](https://www.blocklayer.com/sundial-popeng)
 * [2024-06-10, 20:16:33](https://news.ycombinator.com/item?id=40638386) - [Controversial pesticide research all but vanished from a major conference](https://usrtk.org/bees-neonics/entomological-society-america-corporate-partners/)
 * [2024-06-10, 19:39:29](https://news.ycombinator.com/item?id=40637785) - [Possible exposure of Earth to dense interstellar medium 2-3M years ago](https://www.nature.com/articles/s41550-024-02279-8)

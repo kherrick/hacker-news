@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-12](index.md)
 
+* [2024-06-12, 14:59:04](https://news.ycombinator.com/item?id=40658901) - [Star botanist likely made up data about nutritional supplements, new probe finds](https://www.science.org/content/article/star-botanist-likely-made-data-about-nutritional-supplements-new-probe-finds)
 * [2024-06-12, 14:07:17](https://news.ycombinator.com/item?id=40658335) - [Firefox Browser Blocks anti-censorship add-ons at Russia's request](https://theintercept.com/2024/06/12/mozilla-firefox-russia-censorship-blocked/)
 * [2024-06-12, 13:45:46](https://news.ycombinator.com/item?id=40658095) - [Intel is trucking a 916,000-pound 'Super Load' across Ohio to its new fab](https://www.tomshardware.com/pc-components/cpus/intel-is-trucking-a-916000-pound-super-load-across-ohio-to-its-new-fab-spawning-road-closures-over-nine-days)
 * [2024-06-12, 13:39:15](https://news.ycombinator.com/item?id=40658038) - [Announcing the Open Release of Stable Diffusion 3 Medium](https://stability.ai/news/stable-diffusion-3-medium)
