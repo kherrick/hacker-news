@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-06-12](index.md)
 
+* [2024-06-12, 19:02:46](https://news.ycombinator.com/item?id=40661703) - [Building a faster, smarter, Chromebook experience with the best of Google](https://blog.chromium.org/2024/06/building-faster-smarter-chromebook.html)
+* [2024-06-12, 18:58:08](https://news.ycombinator.com/item?id=40661653) - [Fired employee deleted servers, causing it to lose S$918,000](https://www.channelnewsasia.com/singapore/former-employee-hack-ncs-delete-virtual-servers-quality-testing-4402141)
 * [2024-06-12, 18:55:50](https://news.ycombinator.com/item?id=40661621) - [Hybrid working from home improves retention without damaging performance](https://www.nature.com/articles/s41586-024-07500-2)
 * [2024-06-12, 18:15:42](https://news.ycombinator.com/item?id=40661163) - [AI is not a Net Positive for Society](https://innovationnation.blog/p/ai-is-not-a-net-positive-for-society)
 * [2024-06-12, 18:05:55](https://news.ycombinator.com/item?id=40661073) - [Is Google SEO Gaslighting the Internet?](https://www.newyorker.com/culture/infinite-scroll/is-google-seo-gaslighting-the-internet)
 * [2024-06-12, 17:59:30](https://news.ycombinator.com/item?id=40661001) - [Apple didn't fix Swift's biggest flaw](https://danielchasehooper.com/posts/why-swift-is-slow/)
 * [2024-06-12, 17:52:52](https://news.ycombinator.com/item?id=40660942) - [Remote Amazon Tribe Did Not Get Addicted to Porn](https://www.nytimes.com/2024/06/11/world/americas/no-a-remote-amazon-tribe-did-not-get-addicted-to-porn.html)
 * [2024-06-12, 17:41:25](https://news.ycombinator.com/item?id=40660823) - [Don't bother voting in European election](https://www.politico.eu/article/european-election-voting-democracy-propaganda-activism-far-right-green-deal/)
+* [2024-06-12, 17:27:33](https://news.ycombinator.com/item?id=40660689) - [Diffractive Chocolate](https://wp.optics.arizona.edu/oscoutreach/diffractive-chocolate/)
 * [2024-06-12, 17:27:25](https://news.ycombinator.com/item?id=40660685) - [US Government allows Russian citizens to use and pay for internet services](https://ofac.treasury.gov/media/932931/download?inline)
 * [2024-06-12, 17:13:55](https://news.ycombinator.com/item?id=40660528) - [The Safety-Critical Rust Consortium](https://foundation.rust-lang.org/news/announcing-the-safety-critical-rust-consortium/)
 * [2024-06-12, 17:04:01](https://news.ycombinator.com/item?id=40660397) - [Poll: Are you still using your Vision Pro?](https://news.ycombinator.com/item?id=40660397)
