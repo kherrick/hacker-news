@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2024-06-12](index.md)
 
 * [2024-06-12, 13:45:46](https://news.ycombinator.com/item?id=40658095) - [Intel is trucking a 916,000-pound 'Super Load' across Ohio to its new fab](https://www.tomshardware.com/pc-components/cpus/intel-is-trucking-a-916000-pound-super-load-across-ohio-to-its-new-fab-spawning-road-closures-over-nine-days)
+* [2024-06-12, 13:39:15](https://news.ycombinator.com/item?id=40658038) - [Announcing the Open Release of Stable Diffusion 3 Medium](https://stability.ai/news/stable-diffusion-3-medium)
 * [2024-06-12, 13:28:42](https://news.ycombinator.com/item?id=40657937) - [Google Launches New Dataset Search Engine](https://datasetsearch.research.google.com/)
+* [2024-06-12, 13:28:18](https://news.ycombinator.com/item?id=40657933) - [YouTube experimenting with server-side ad injection](https://fosstodon.org/@sponsorblock/112603139898164385)
 * [2024-06-12, 13:25:19](https://news.ycombinator.com/item?id=40657890) - [iTerm2 v3.5.1 moves AI features into external plugin](https://iterm2.com/ai-plugin.html)
 * [2024-06-12, 12:28:23](https://news.ycombinator.com/item?id=40657307) - [Study shows N95 masks near-perfect at blocking escape of airborne Covid-19](https://sph.umd.edu/news/study-shows-n95-masks-near-perfect-blocking-escape-airborne-covid-19)
 * [2024-06-12, 12:19:02](https://news.ycombinator.com/item?id=40657238) - [AI Detectors Get It Wrong. Writers Are Being Fired Anyway](https://gizmodo.com/ai-detectors-inaccurate-freelance-writers-fired-1851529820)
