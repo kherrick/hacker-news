@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-12, 12:19:02",
+      "https://news.ycombinator.com/item?id=40657238"
+    ],
+    [
+      "AI Detectors Get It Wrong. Writers Are Being Fired Anyway",
+      "https://gizmodo.com/ai-detectors-inaccurate-freelance-writers-fired-1851529820"
+    ]
+  ],
+  [
+    [
+      "2024-06-12, 12:01:01",
+      "https://news.ycombinator.com/item?id=40657088"
+    ],
+    [
+      "Fini (YC S22) Is Hiring a Front-End Engineer",
+      "https://news.ycombinator.com/item?id=40657088"
+    ]
+  ],
+  [
+    [
       "2024-06-12, 11:13:52",
       "https://news.ycombinator.com/item?id=40656747"
     ],
@@ -21,16 +41,6 @@
   ],
   [
     [
-      "2024-06-12, 05:07:31",
-      "https://news.ycombinator.com/item?id=40654734"
-    ],
-    [
-      "Why SQLite Is Taking over with Brian Holt and Marco Bambini",
-      "https://syntax.fm/show/779/why-sqlite-is-taking-over-with-brian-holt-and-marco-bambini"
-    ]
-  ],
-  [
-    [
       "2024-06-12, 03:32:43",
       "https://news.ycombinator.com/item?id=40654190"
     ],
@@ -47,16 +57,6 @@
     [
       "AES-GCM and breaking it on nonce reuse",
       "https://frereit.de/aes_gcm/"
-    ]
-  ],
-  [
-    [
-      "2024-06-11, 23:38:12",
-      "https://news.ycombinator.com/item?id=40652917"
-    ],
-    [
-      "How much of a genius-level move was binary space partitioning in Doom? (2019)",
-      "https://twobithistory.org/2019/11/06/doom-bsp.html"
     ]
   ],
   [
@@ -201,12 +201,12 @@
   ],
   [
     [
-      "2024-06-11, 07:12:04",
-      "https://news.ycombinator.com/item?id=40643454"
+      "2024-06-11, 05:40:57",
+      "https://news.ycombinator.com/item?id=40642803"
     ],
     [
-      "Inside Mexico’s anti-avocado militias",
-      "https://www.theguardian.com/news/article/2024/jun/11/inside-mexico-anti-avocado-militias"
+      "How to Get the Most Out of Postgres Memory Settings",
+      "https://tembo.io/blog/optimizing-memory-usage"
     ]
   ],
   [
