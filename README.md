@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-12, 19:51:04](https://news.ycombinator.com/item?id=40662282) - [AI in education may require us to return to 15th-century pedagogy](https://www.chatterpulseai.com/blog/ai-in-education-may-require-us-to-return-to-15th-century-pedagogy/?r=hn)
+* [2024-06-12, 20:24:33](https://news.ycombinator.com/item?id=40662670) - [Using AI to spark connections at a conference](https://swizec.com/blog/using-ai-to-spark-connections-at-a-conference/)
+* [2024-06-12, 20:11:26](https://news.ycombinator.com/item?id=40662508) - [Cheapest source of fossil fuel generation is double the cost of solar](https://pv-magazine-usa.com/2024/06/11/cheapest-source-of-fossil-fuel-generation-is-double-the-cost-of-utility-scale-solar/)
 * [2024-06-12, 19:43:13](https://news.ycombinator.com/item?id=40662164) - [ChromeOS to Migrate to Android-Based Tech Stack](https://chromeos.dev/en/posts/building-a-faster-smarter-chromebook-experience-with-the-best-of-google)
 * [2024-06-12, 17:59:30](https://news.ycombinator.com/item?id=40661001) - [The Swift compiler is slow due to how types are inferred](https://danielchasehooper.com/posts/why-swift-is-slow/)
 * [2024-06-12, 17:58:14](https://news.ycombinator.com/item?id=40660986) - [Designing the avocado of uncertainty visualization](https://stamen.com/designing-the-avocado-of-uncertainty/)
@@ -28,7 +29,6 @@
 * [2024-06-11, 10:33:03](https://news.ycombinator.com/item?id=40644605) - [When Water Flows Uphill [video]](https://www.youtube.com/watch?v=zzKgnNGqxMw)
 * [2024-06-11, 09:51:48](https://news.ycombinator.com/item?id=40644366) - [Medieval game pieces emerge from the ruins of a German castle](https://news.artnet.com/art-world/medieval-game-pieces-emerge-from-the-ruins-of-a-mysterious-german-castle-2497815)
 * [2024-06-11, 05:40:57](https://news.ycombinator.com/item?id=40642803) - [How to get the most out of Postgres memory settings](https://tembo.io/blog/optimizing-memory-usage)
-* [2024-06-10, 14:04:25](https://news.ycombinator.com/item?id=40633824) - [Where did the idea of the tin foil hat come from?](https://gizmodo.com/myth-tinfoil-hat-mit-conspiracy-theories-aliens-5g-1851529370)
 * [2024-06-10, 13:18:14](https://news.ycombinator.com/item?id=40633329) - [Tomorrow people: For a century, it felt like telepathy was around the corner](https://aeon.co/essays/for-over-a-century-telepathy-has-been-just-around-the-corner)
 
 ## [Archives](archives/index.md)

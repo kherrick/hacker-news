@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-12](index.md)
 
+* [2024-06-12, 20:24:33](https://news.ycombinator.com/item?id=40662670) - [Using AI to spark connections at a conference](https://swizec.com/blog/using-ai-to-spark-connections-at-a-conference/)
+* [2024-06-12, 20:11:26](https://news.ycombinator.com/item?id=40662508) - [Cheapest source of fossil fuel generation is double the cost of solar](https://pv-magazine-usa.com/2024/06/11/cheapest-source-of-fossil-fuel-generation-is-double-the-cost-of-utility-scale-solar/)
 * [2024-06-12, 19:51:04](https://news.ycombinator.com/item?id=40662282) - [AI in education may require us to return to 15th-century pedagogy](https://www.chatterpulseai.com/blog/ai-in-education-may-require-us-to-return-to-15th-century-pedagogy/?r=hn)
 * [2024-06-12, 19:43:13](https://news.ycombinator.com/item?id=40662164) - [ChromeOS to Migrate to Android-Based Tech Stack](https://chromeos.dev/en/posts/building-a-faster-smarter-chromebook-experience-with-the-best-of-google)
 * [2024-06-12, 19:39:19](https://news.ycombinator.com/item?id=40662116) - [Hybrid working has benefits over in-person working – the evidence mounts](https://www.nature.com/articles/d41586-024-01713-1)
