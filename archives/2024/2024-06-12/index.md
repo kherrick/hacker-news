@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-12](index.md)
 
+* [2024-06-12, 17:27:25](https://news.ycombinator.com/item?id=40660685) - [US Government allows Russian citizens to use and pay for internet services](https://ofac.treasury.gov/media/932931/download?inline)
 * [2024-06-12, 17:00:04](https://news.ycombinator.com/item?id=40660338) - [Streak (YC W22) is hiring a remote web designer (senior)](https://www.streak.com/careers/designer-web-and-marketing)
 * [2024-06-12, 16:45:16](https://news.ycombinator.com/item?id=40660161) - [Draft Legislation to End Federal Dependence on Insecure, Proprietary Software](https://www.wyden.senate.gov/news/press-releases/wyden-releases-draft-legislation-to-end-federal-dependence-on-insecure-proprietary-software-in-response-to-repeated-damaging-breaches-of-government-systems)
 * [2024-06-12, 16:20:36](https://news.ycombinator.com/item?id=40659830) - [Official documentation of Framework Laptop 16 (Now featuring 3D CAD models)](https://github.com/FrameworkComputer/Framework-Laptop-16)
