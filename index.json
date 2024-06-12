@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2024-06-11, 21:46:13",
-      "https://news.ycombinator.com/item?id=40651955"
-    ],
-    [
-      "My Favourite Gleam Feature",
-      "https://erikarow.land/notes/gleam-favorite-feature"
-    ]
-  ],
-  [
-    [
       "2024-06-11, 20:03:57",
       "https://news.ycombinator.com/item?id=40650844"
     ],
@@ -287,6 +277,16 @@
     [
       "Demystifying NPUs: Questions and Answers",
       "https://thechipletter.substack.com/p/demystifying-npus-questions-and-answers"
+    ]
+  ],
+  [
+    [
+      "2024-06-10, 06:05:30",
+      "https://news.ycombinator.com/item?id=40630676"
+    ],
+    [
+      "SIMD < SIMT < SMT: Parallelism in Nvidia GPUs (2011)",
+      "https://yosefk.com/blog/simd-simt-smt-parallelism-in-nvidia-gpus.html"
     ]
   ],
   [
