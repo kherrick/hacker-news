@@ -73,6 +73,7 @@
 * [2024-06-11, 06:29:49](https://news.ycombinator.com/item?id=40643167) - [Exploring Gleam, a type-safe language on the BEAM](https://christopher.engineering/en/blog/gleam-overview/)
 * [2024-06-11, 06:18:16](https://news.ycombinator.com/item?id=40643071) - [Spotify: Droppin' Some Fake Beats](https://lcamtuf.substack.com/p/spotify-droppin-some-fake-beats)
 * [2024-06-11, 05:49:27](https://news.ycombinator.com/item?id=40642871) - [NanoGPT: The simplest, fastest repository for training medium-sized GPTs](https://github.com/karpathy/nanoGPT)
+* [2024-06-11, 05:40:57](https://news.ycombinator.com/item?id=40642803) - [How to Get the Most Out of Postgres Memory Settings](https://tembo.io/blog/optimizing-memory-usage)
 * [2024-06-11, 05:40:13](https://news.ycombinator.com/item?id=40642801) - [British duo arrested for SMS phishing via homemade cell tower](https://www.theregister.com/2024/06/10/two_arrested_in_uk_over/)
 * [2024-06-11, 05:40:13](https://news.ycombinator.com/item?id=40642801) - [British duo arrested for SMS phishing via homemade cell tower](https://www.cityoflondon.police.uk/news/city-of-london/news/2024/june/two-people-arrested-in-connection-with-investigation-into-homemade-mobile-antenna-used-to-send-thousands-of-smishing-text-messages-to-the-public/)
 * [2024-06-11, 04:51:55](https://news.ycombinator.com/item?id=40642476) - [DuckDB Isn't Just Fast](https://csvbase.com/blog/6)

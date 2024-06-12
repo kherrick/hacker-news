@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-12](index.md)
 
+* [2024-06-12, 12:19:02](https://news.ycombinator.com/item?id=40657238) - [AI Detectors Get It Wrong. Writers Are Being Fired Anyway](https://gizmodo.com/ai-detectors-inaccurate-freelance-writers-fired-1851529820)
+* [2024-06-12, 12:01:01](https://news.ycombinator.com/item?id=40657088) - [Fini (YC S22) Is Hiring a Front-End Engineer](https://news.ycombinator.com/item?id=40657088)
 * [2024-06-12, 11:13:52](https://news.ycombinator.com/item?id=40656747) - [Elixir 1.17 released: set-theoretic types in patterns, durations, OTP 27](https://elixir-lang.org/blog/2024/06/12/elixir-v1-17-0-released/)
 * [2024-06-12, 10:48:39](https://news.ycombinator.com/item?id=40656603) - [Raspberry Pi is now a public company](https://techcrunch.com/2024/06/11/raspberry-pi-is-now-a-public-company-as-its-shares-pops-after-ipo-pricing/)
 * [2024-06-12, 08:30:20](https://news.ycombinator.com/item?id=40655846) - [Germany gets informal EU go-ahead to support gas-fired power, sources say](https://www.reuters.com/business/energy/germany-gets-informal-eus-go-ahead-support-gas-fired-power-sources-say-2024-06-07/)
