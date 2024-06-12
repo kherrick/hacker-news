@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-12, 15:25:23",
+      "https://news.ycombinator.com/item?id=40659160"
+    ],
+    [
+      "Show HN: Restate, low-latency durable workflows for JavaScript/Java, in Rust",
+      "https://restate.dev/blog/announcing-restate-1.0-restate-cloud-and-our-seed-funding-round/"
+    ]
+  ],
+  [
+    [
       "2024-06-12, 14:59:04",
       "https://news.ycombinator.com/item?id=40658901"
     ],
@@ -17,16 +27,6 @@
     [
       "Intel is trucking a 916,000-pound 'Super Load' across Ohio to its new fab",
       "https://www.tomshardware.com/pc-components/cpus/intel-is-trucking-a-916000-pound-super-load-across-ohio-to-its-new-fab-spawning-road-closures-over-nine-days"
-    ]
-  ],
-  [
-    [
-      "2024-06-12, 12:07:19",
-      "https://news.ycombinator.com/item?id=40657138"
-    ],
-    [
-      "Relative Evaluation Report on S1, iPhone (2010) [pdf]",
-      "https://ia600908.us.archive.org/30/items/436142-samsung-relative-evaluation-report-on-s1-iphone/436142-samsung-relative-evaluation-report-on-s1-iphone.pdf"
     ]
   ],
   [
@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2024-06-11, 20:16:23",
+      "https://news.ycombinator.com/item?id=40650974"
+    ],
+    [
+      "Lexbor – an open source HTML Renderer library",
+      "https://github.com/lexbor/lexbor"
+    ]
+  ],
+  [
+    [
       "2024-06-11, 17:19:41",
       "https://news.ycombinator.com/item?id=40648960"
     ],
@@ -97,6 +107,16 @@
     [
       "Water is bursting from another abandoned West Texas oil well, continuing a trend",
       "https://www.texastribune.org/2024/06/11/west-texas-orphan-wells-water-bursts/"
+    ]
+  ],
+  [
+    [
+      "2024-06-11, 16:15:47",
+      "https://news.ycombinator.com/item?id=40648082"
+    ],
+    [
+      "Twenty, a modern CRM alternative to Salesforce",
+      "https://twenty.com"
     ]
   ],
   [
@@ -141,22 +161,22 @@
   ],
   [
     [
-      "2024-06-11, 13:02:23",
-      "https://news.ycombinator.com/item?id=40645743"
-    ],
-    [
-      "Show HN: Unforget, the note-taking app I always wanted: offline first, encrypted",
-      "https://unforget.computing-den.com/demo"
-    ]
-  ],
-  [
-    [
       "2024-06-11, 11:54:24",
       "https://news.ycombinator.com/item?id=40645161"
     ],
     [
       "Making iron gall ink from oak galls",
       "https://nyanpasu64.gitlab.io/blog/iron-gall-ink/"
+    ]
+  ],
+  [
+    [
+      "2024-06-11, 10:55:01",
+      "https://news.ycombinator.com/item?id=40644750"
+    ],
+    [
+      "Researchers make a supercapacitor from water, cement, and carbon black",
+      "https://www.bbc.com/future/article/20240610-how-the-concrete-in-your-house-could-be-turned-into-a-battery"
     ]
   ],
   [
@@ -221,22 +241,22 @@
   ],
   [
     [
-      "2024-06-10, 23:19:52",
-      "https://news.ycombinator.com/item?id=40640432"
-    ],
-    [
-      "My War (1982)",
-      "https://harpers.org/archive/1982/01/my-war/"
-    ]
-  ],
-  [
-    [
       "2024-06-10, 22:40:25",
       "https://news.ycombinator.com/item?id=40640076"
     ],
     [
       "Wild elephants may have names that other elephants use to call them",
       "https://www.npr.org/2024/06/07/nx-s1-4994426/wild-elephants-individual-names"
+    ]
+  ],
+  [
+    [
+      "2024-06-10, 22:06:23",
+      "https://news.ycombinator.com/item?id=40639742"
+    ],
+    [
+      "Spilo: High Availability PostgreSQL cluster using Docker",
+      "https://github.com/zalando/spilo"
     ]
   ],
   [
@@ -257,26 +277,6 @@
     [
       "Apple is finally bringing RCS messaging to the iPhone",
       "https://www.theverge.com/2024/6/10/24171315/apple-messages-rcs-ios-18-imessage-green-bubble"
-    ]
-  ],
-  [
-    [
-      "2024-06-10, 13:58:55",
-      "https://news.ycombinator.com/item?id=40633766"
-    ],
-    [
-      "Show HN: Collaborative ASCII Drawing with Telnet",
-      "https://jott.live/markdown/telnet_draw"
-    ]
-  ],
-  [
-    [
-      "2024-06-10, 13:44:59",
-      "https://news.ycombinator.com/item?id=40633650"
-    ],
-    [
-      "Francis Ford Coppola's “Godfather Notebook”",
-      "https://jillianhess.substack.com/p/re-noted-francis-ford-coppolas-godfather"
     ]
   ],
   [
