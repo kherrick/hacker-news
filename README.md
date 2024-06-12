@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-12, 08:30:20](https://news.ycombinator.com/item?id=40655846) - [Germany gets informal EU go-ahead to support gas-fired power, sources say](https://www.reuters.com/business/energy/germany-gets-informal-eus-go-ahead-support-gas-fired-power-sources-say-2024-06-07/)
 * [2024-06-12, 07:28:20](https://news.ycombinator.com/item?id=40655516) - [ARM torpedoes Windows on ARM: Demands destruction of all PCs with Snapdragon X](https://www.heise.de/en/news/ARM-torpedoes-Windows-on-ARM-Demands-destruction-of-all-PCs-with-Snapdragon-X-9758434.html)
 * [2024-06-12, 05:07:31](https://news.ycombinator.com/item?id=40654734) - [Why SQLite Is Taking over with Brian Holt and Marco Bambini](https://syntax.fm/show/779/why-sqlite-is-taking-over-with-brian-holt-and-marco-bambini)
 * [2024-06-12, 03:32:43](https://news.ycombinator.com/item?id=40654190) - [Silicon Valley's best kept secret: Founder liquidity](https://www.stefantheard.com/silicon-valleys-best-kept-secret-founder-liquidity/)
@@ -9,7 +10,6 @@
 * [2024-06-11, 23:11:31](https://news.ycombinator.com/item?id=40652731) - [Edward C. Stone, 1936-2024](https://www.caltech.edu/about/news/edward-stone-1936-2024)
 * [2024-06-11, 21:46:13](https://news.ycombinator.com/item?id=40651955) - [My Favourite Gleam Feature](https://erikarow.land/notes/gleam-favorite-feature)
 * [2024-06-11, 20:03:57](https://news.ycombinator.com/item?id=40650844) - [Flameshot – Open-source screenshot software](https://flameshot.org/)
-* [2024-06-11, 19:19:24](https://news.ycombinator.com/item?id=40650316) - [Decade of the Battery](https://www.noahpinion.blog/p/decade-of-the-battery-334)
 * [2024-06-11, 19:06:39](https://news.ycombinator.com/item?id=40650173) - [The Rise and Fall of BNN Breaking, an AI-Generated News Outlet](https://www.nytimes.com/2024/06/06/technology/bnn-breaking-ai-generated-news.html)
 * [2024-06-11, 19:00:31](https://news.ycombinator.com/item?id=40650104) - [Gruen Transfer](https://en.wikipedia.org/wiki/Gruen_transfer)
 * [2024-06-11, 17:19:41](https://news.ycombinator.com/item?id=40648960) - [ARC Prize – a $1M+ competition towards open AGI progress](https://arcprize.org/blog/launch)
