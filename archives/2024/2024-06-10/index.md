@@ -59,6 +59,7 @@
 * [2024-06-10, 14:30:27](https://news.ycombinator.com/item?id=40634042) - [23words.com](https://23words.com)
 * [2024-06-10, 14:22:16](https://news.ycombinator.com/item?id=40633971) - [Canada's Parliament Rocked by Allegations of Treason and Foreign Interference](https://www.politico.com/news/2024/06/10/canada-parliament-treason-allegations-00162163)
 * [2024-06-10, 14:14:24](https://news.ycombinator.com/item?id=40633902) - [Mexican Computers: A Brief Technical and Historical Overview](https://arxiv.org/abs/2406.04912)
+* [2024-06-10, 14:04:25](https://news.ycombinator.com/item?id=40633824) - [The Mythical Promise of Tin Foil Hats](https://gizmodo.com/myth-tinfoil-hat-mit-conspiracy-theories-aliens-5g-1851529370)
 * [2024-06-10, 13:59:22](https://news.ycombinator.com/item?id=40633773) - [Show HN: Thread – AI-powered Jupyter Notebook built using React](https://github.com/squaredtechnologies/thread)
 * [2024-06-10, 13:58:55](https://news.ycombinator.com/item?id=40633766) - [Show HN: Collaborative ASCII Drawing with Telnet](https://jott.live/markdown/telnet_draw)
 * [2024-06-10, 13:46:37](https://news.ycombinator.com/item?id=40633666) - [AI Hype is completely out of control – especially since ChatGPT-4o [video]](https://www.youtube.com/watch?v=VctsqOo8wsc)
