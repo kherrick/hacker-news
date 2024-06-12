@@ -24,6 +24,7 @@
 * [2024-06-12, 19:02:46](https://news.ycombinator.com/item?id=40661703) - [Building a faster, smarter, Chromebook experience with the best of Google](https://blog.chromium.org/2024/06/building-faster-smarter-chromebook.html)
 * [2024-06-12, 18:58:08](https://news.ycombinator.com/item?id=40661653) - [Fired employee deleted servers, causing it to lose S$918,000](https://www.channelnewsasia.com/singapore/former-employee-hack-ncs-delete-virtual-servers-quality-testing-4402141)
 * [2024-06-12, 18:55:50](https://news.ycombinator.com/item?id=40661621) - [Hybrid working from home improves retention without damaging performance](https://www.nature.com/articles/s41586-024-07500-2)
+* [2024-06-12, 18:52:39](https://news.ycombinator.com/item?id=40661578) - [How Queen Victoria’s Matchmaking Helped Cause World War I](https://www.history.com/news/queen-victoria-grandchildren-matchmaking-wwi)
 * [2024-06-12, 18:22:58](https://news.ycombinator.com/item?id=40661232) - [Don't Refactor Like Uncle Bob](https://theaxolot.wordpress.com/2024/05/08/dont-refactor-like-uncle-bob-please/)
 * [2024-06-12, 18:15:42](https://news.ycombinator.com/item?id=40661163) - [AI is not a Net Positive for Society](https://innovationnation.blog/p/ai-is-not-a-net-positive-for-society)
 * [2024-06-12, 18:05:55](https://news.ycombinator.com/item?id=40661073) - [Is Google SEO Gaslighting the Internet?](https://www.newyorker.com/culture/infinite-scroll/is-google-seo-gaslighting-the-internet)
