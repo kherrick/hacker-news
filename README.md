@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-12, 23:08:09](https://news.ycombinator.com/item?id=40664181) - [An outlandish molecule may be lurking inside Uranus and Neptune](https://phys.org/news/2024-05-outlandish-molecule-lurking-uranus-neptune.html)
 * [2024-06-12, 22:04:59](https://news.ycombinator.com/item?id=40663724) - [Martin-Baker Ejection Seat Made Its First of 7,722 Saves 75 Years Ago Today](https://www.twz.com/air/martin-baker-ejection-seat-made-its-first-of-7722-saves-75-yeats-ago-today)
 * [2024-06-12, 22:02:27](https://news.ycombinator.com/item?id=40663704) - [Gerald Sussman: Programming is (should be) fun (2022) [video]](https://www.youtube.com/watch?v=2MYzvQ1v8Ww)
 * [2024-06-12, 21:01:21](https://news.ycombinator.com/item?id=40663070) - [Etleap (YC W13) Is Hiring Customer Success Manager (SF)](https://etleap.com/careers/customer-success-manager/)
@@ -16,9 +17,9 @@
 * [2024-06-12, 11:20:16](https://news.ycombinator.com/item?id=40656780) - [Faxes from the Far Side of the Moon (2018)](https://www.damninteresting.com/faxes-from-the-far-side/)
 * [2024-06-12, 11:13:52](https://news.ycombinator.com/item?id=40656747) - [Elixir 1.17 released: set-theoretic types in patterns, durations, OTP 27](https://elixir-lang.org/blog/2024/06/12/elixir-v1-17-0-released/)
 * [2024-06-12, 03:32:43](https://news.ycombinator.com/item?id=40654190) - [Silicon Valley's best kept secret: Founder liquidity](https://www.stefantheard.com/silicon-valleys-best-kept-secret-founder-liquidity/)
+* [2024-06-12, 01:05:40](https://news.ycombinator.com/item?id=40653417) - [Show HN: PDF to Podcast – Convert Any PDF into a Podcast Episode](https://pdf-to-podcast.com)
 * [2024-06-11, 20:25:18](https://news.ycombinator.com/item?id=40651054) - [Swift Static Linux SDK](https://www.swift.org/documentation/articles/static-linux-getting-started.html)
 * [2024-06-11, 20:16:23](https://news.ycombinator.com/item?id=40650974) - [Lexbor – An open source HTML Renderer library](https://github.com/lexbor/lexbor)
-* [2024-06-11, 16:40:12](https://news.ycombinator.com/item?id=40648404) - [Show HN: A keyboard-centric clipboard history app for macOS](https://clipbook.app/)
 * [2024-06-11, 16:15:47](https://news.ycombinator.com/item?id=40648082) - [Twenty, a modern CRM alternative to Salesforce](https://twenty.com)
 * [2024-06-11, 14:58:52](https://news.ycombinator.com/item?id=40646940) - [Banana giant Chiquita held liable by US court for funding paramilitaries](https://www.bbc.com/news/articles/c6pprpd3x96o)
 * [2024-06-11, 14:56:38](https://news.ycombinator.com/item?id=40646909) - [Terence Tao on proof checkers and AI programs](https://www.scientificamerican.com/article/ai-will-become-mathematicians-co-pilot/)
@@ -29,7 +30,6 @@
 * [2024-06-11, 05:40:57](https://news.ycombinator.com/item?id=40642803) - [How to get the most out of Postgres memory settings](https://tembo.io/blog/optimizing-memory-usage)
 * [2024-06-10, 19:41:06](https://news.ycombinator.com/item?id=40637816) - [Beyond the wall: Working with aperiodic tilings using finite-state transducers](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-transducers/)
 * [2024-06-10, 13:47:18](https://news.ycombinator.com/item?id=40633671) - [Real-Time Settlers of Catan](https://robert.ocallahan.org/2024/06/real-time-settlers.html)
-* [2024-06-10, 13:18:14](https://news.ycombinator.com/item?id=40633329) - [Tomorrow people: For a century, it felt like telepathy was around the corner](https://aeon.co/essays/for-over-a-century-telepathy-has-been-just-around-the-corner)
 
 ## [Archives](archives/index.md)
 

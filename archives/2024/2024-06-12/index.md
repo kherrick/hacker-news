@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-12](index.md)
 
+* [2024-06-12, 23:08:09](https://news.ycombinator.com/item?id=40664181) - [An outlandish molecule may be lurking inside Uranus and Neptune](https://phys.org/news/2024-05-outlandish-molecule-lurking-uranus-neptune.html)
 * [2024-06-12, 22:04:59](https://news.ycombinator.com/item?id=40663724) - [Martin-Baker Ejection Seat Made Its First of 7,722 Saves 75 Years Ago Today](https://www.twz.com/air/martin-baker-ejection-seat-made-its-first-of-7722-saves-75-yeats-ago-today)
 * [2024-06-12, 22:02:27](https://news.ycombinator.com/item?id=40663704) - [Gerald Sussman: Programming is (should be) fun (2022) [video]](https://www.youtube.com/watch?v=2MYzvQ1v8Ww)
 * [2024-06-12, 21:58:03](https://news.ycombinator.com/item?id=40663659) - [21.2× faster than llama.cpp? plus 40% memory usage reduction](https://arxiv.org/abs/2406.06282)
