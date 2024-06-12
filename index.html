@@ -129,6 +129,77 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="40659160">
+          <h3>
+            <a
+              class="item"
+              href="https://restate.dev/blog/announcing-restate-1.0-restate-cloud-and-our-seed-funding-round/"
+              >Show HN: Restate, low-latency durable workflows for
+              JavaScript/Java, in Rust</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-06-12 @ 15:25:23</span
+              ><span class="points-container"
+                >Points: <span class="points">23</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40659160"
+                  >Comments</a
+                ><span class="descendants">: 13</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                <a href="https://github.com/restatedev/"
+                  >https://github.com/restatedev/</a
+                >
+                <a href="https://restate.dev/">https://restate.dev/</a>
+              </p>
+              <p>
+                It is free and open, SDKs are MIT-licensed, runtime permissive
+                BSL (basically just the minimal Amazon defense). We worked on
+                that for a bit over a year. A few points I think are worth
+                mentioning:
+              </p>
+              <p>
+                - Restate's runtime is a single binary, self-contained, no
+                dependencies aside from a durable disk. It contains basically a
+                lightweight integrated version of a durable log, workflow state
+                machine, state storage, etc. That makes it very compact and easy
+                to run both on a laptop and a server.
+              </p>
+              <p>
+                - Restate implements durable execution not only for workflows,
+                but the core building block is durable RPC handlers (or event
+                handler). It adds a few concepts on top of durable execution,
+                like virtual objects (turn RPC handlers into virtual actors),
+                durable communication, and durable promises. Here are more
+                details:
+                <a href="https://restate.dev/programming-model"
+                  >https://restate.dev/programming-model</a
+                >
+              </p>
+              <p>
+                - Core design goal for APIs was to keep a familiar style. An app
+                developer should look at Restate examples and say "hey, that
+                looks quite familiar". You can let us know if that worked out.
+              </p>
+              <p>
+                - Basically every operation (handler invocation, step, ...) goes
+                through a consensus layer, for a high degree of resilience and
+                consistency.
+              </p>
+              <p>
+                - The lightweight log-centric architecture gives Restate still
+                good latencies: For example around 50ms roundtrip (invoke to
+                result) for a 3-step durable workflow handler (Restate on EBS
+                with fsync for every step).
+              </p>
+              <p>We'd love to hear what you think of it!</p>
+            </div>
+          </section>
+        </section>
         <section id="40658901">
           <h3>
             <a
@@ -142,11 +213,11 @@
             <h4>
               <span>2024-06-12 @ 14:59:04</span
               ><span class="points-container"
-                >Points: <span class="points">24</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40658901"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -164,32 +235,11 @@
             <h4>
               <span>2024-06-12 @ 13:45:46</span
               ><span class="points-container"
-                >Points: <span class="points">112</span></span
+                >Points: <span class="points">119</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40658095"
                   >Comments</a
-                ><span class="descendants">: 74</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="40657138">
-          <h3>
-            <a
-              class="item"
-              href="https://ia600908.us.archive.org/30/items/436142-samsung-relative-evaluation-report-on-s1-iphone/436142-samsung-relative-evaluation-report-on-s1-iphone.pdf"
-              >Relative Evaluation Report on S1, iPhone (2010) [pdf]</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-06-12 @ 12:07:19</span
-              ><span class="points-container"
-                >Points: <span class="points">54</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40657138"
-                  >Comments</a
-                ><span class="descendants">: 46</span></span
+                ><span class="descendants">: 80</span></span
               >
             </h4>
           </section>
@@ -243,11 +293,11 @@
             <h4>
               <span>2024-06-12 @ 11:20:16</span
               ><span class="points-container"
-                >Points: <span class="points">6</span></span
+                >Points: <span class="points">13</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40656780"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -265,7 +315,7 @@
             <h4>
               <span>2024-06-12 @ 11:13:52</span
               ><span class="points-container"
-                >Points: <span class="points">204</span></span
+                >Points: <span class="points">211</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40656747"
                   >Comments</a
@@ -286,11 +336,11 @@
             <h4>
               <span>2024-06-12 @ 03:32:43</span
               ><span class="points-container"
-                >Points: <span class="points">1118</span></span
+                >Points: <span class="points">1139</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40654190"
                   >Comments</a
-                ><span class="descendants">: 464</span></span
+                ><span class="descendants">: 477</span></span
               >
             </h4>
           </section>
@@ -309,7 +359,26 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40653125"
                   >Comments</a
-                ><span class="descendants">: 41</span></span
+                ><span class="descendants">: 42</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="40650974">
+          <h3>
+            <a class="item" href="https://github.com/lexbor/lexbor"
+              >Lexbor – an open source HTML Renderer library</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-06-11 @ 20:16:23</span
+              ><span class="points-container"
+                >Points: <span class="points">20</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40650974"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
               >
             </h4>
           </section>
@@ -324,11 +393,11 @@
             <h4>
               <span>2024-06-11 @ 17:19:41</span
               ><span class="points-container"
-                >Points: <span class="points">526</span></span
+                >Points: <span class="points">529</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40648960"
                   >Comments</a
-                ><span class="descendants">: 265</span></span
+                ><span class="descendants">: 267</span></span
               >
             </h4>
             <div class="text">
@@ -404,11 +473,30 @@
             <h4>
               <span>2024-06-11 @ 16:41:01</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40648422"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 18</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="40648082">
+          <h3>
+            <a class="item" href="https://twenty.com"
+              >Twenty, a modern CRM alternative to Salesforce</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-06-11 @ 16:15:47</span
+              ><span class="points-container"
+                >Points: <span class="points">17</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40648082"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -426,11 +514,11 @@
             <h4>
               <span>2024-06-11 @ 14:58:52</span
               ><span class="points-container"
-                >Points: <span class="points">95</span></span
+                >Points: <span class="points">99</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40646940"
                   >Comments</a
-                ><span class="descendants">: 16</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -447,11 +535,11 @@
             <h4>
               <span>2024-06-11 @ 14:56:38</span
               ><span class="points-container"
-                >Points: <span class="points">25</span></span
+                >Points: <span class="points">28</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40646909"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -590,71 +678,13 @@
             <h4>
               <span>2024-06-11 @ 13:39:49</span
               ><span class="points-container"
-                >Points: <span class="points">608</span></span
+                >Points: <span class="points">609</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40646061"
                   >Comments</a
-                ><span class="descendants">: 334</span></span
+                ><span class="descendants">: 335</span></span
               >
             </h4>
-          </section>
-        </section>
-        <section id="40645743">
-          <h3>
-            <a class="item" href="https://unforget.computing-den.com/demo"
-              >Show HN: Unforget, the note-taking app I always wanted: offline
-              first, encrypted</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-06-11 @ 13:02:23</span
-              ><span class="points-container"
-                >Points: <span class="points">239</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40645743"
-                  >Comments</a
-                ><span class="descendants">: 127</span></span
-              >
-            </h4>
-            <div class="text">
-              <p>Features include:</p>
-              <p></p>
-              <pre><code>  - import from Google Keep
-  - offline first including search
-  - sync when online
-  - own your data and fully encrypted
-  - Desktop, mobile, web
-  - lightweight, progressive web app without Electron.js
-  - markdown support
-  - programmable with public APIs
-  - open source [1]
-</code></pre>
-              While I still use org mode for long-form notes with lots of code,
-              Unforget has become my go-to for quickly jotting down ideas and
-              to-do lists after migrating the thousands of notes I had on Google
-              Keep.
-              <p>
-                In addition, I'm thrilled to announce the opening of our
-                software agency, Computing Den [2]. We specialize in helping
-                businesses transition from legacy software, manual workflows,
-                and Excel spreadsheets to modern, automated systems. Please get
-                it touch to discuss how we can help you or if you wish to join
-                our team.
-              </p>
-              <p>
-                [1]
-                <a href="https://github.com/computing-den/unforget"
-                  >https://github.com/computing-den/unforget</a
-                >
-              </p>
-              <p>
-                [2]
-                <a href="https://computing-den.com"
-                  >https://computing-den.com</a
-                >
-              </p>
-            </div>
           </section>
         </section>
         <section id="40645161">
@@ -678,6 +708,28 @@
             </h4>
           </section>
         </section>
+        <section id="40644750">
+          <h3>
+            <a
+              class="item"
+              href="https://www.bbc.com/future/article/20240610-how-the-concrete-in-your-house-could-be-turned-into-a-battery"
+              >Researchers make a supercapacitor from water, cement, and carbon
+              black</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-06-11 @ 10:55:01</span
+              ><span class="points-container"
+                >Points: <span class="points">12</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40644750"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="40644674">
           <h3>
             <a class="item" href="http://luc.devroye.org/fonts-80708.html"
@@ -688,7 +740,7 @@
             <h4>
               <span>2024-06-11 @ 10:42:03</span
               ><span class="points-container"
-                >Points: <span class="points">9</span></span
+                >Points: <span class="points">10</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40644674"
                   >Comments</a
@@ -707,7 +759,7 @@
             <h4>
               <span>2024-06-11 @ 10:33:03</span
               ><span class="points-container"
-                >Points: <span class="points">168</span></span
+                >Points: <span class="points">171</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40644605"
                   >Comments</a
@@ -728,11 +780,11 @@
             <h4>
               <span>2024-06-11 @ 09:51:48</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">53</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40644366"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -747,11 +799,11 @@
             <h4>
               <span>2024-06-11 @ 05:40:57</span
               ><span class="points-container"
-                >Points: <span class="points">88</span></span
+                >Points: <span class="points">92</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40642803"
                   >Comments</a
-                ><span class="descendants">: 27</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -768,11 +820,11 @@
             <h4>
               <span>2024-06-11 @ 01:00:32</span
               ><span class="points-container"
-                >Points: <span class="points">16</span></span
+                >Points: <span class="points">22</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40641108"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -789,30 +841,11 @@
             <h4>
               <span>2024-06-10 @ 23:30:55</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">31</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40640534"
                   >Comments</a
                 ><span class="descendants">: 1</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="40640432">
-          <h3>
-            <a class="item" href="https://harpers.org/archive/1982/01/my-war/"
-              >My War (1982)</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-06-10 @ 23:19:52</span
-              ><span class="points-container"
-                >Points: <span class="points">84</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40640432"
-                  >Comments</a
-                ><span class="descendants">: 41</span></span
               >
             </h4>
           </section>
@@ -839,6 +872,25 @@
             </h4>
           </section>
         </section>
+        <section id="40639742">
+          <h3>
+            <a class="item" href="https://github.com/zalando/spilo"
+              >Spilo: High Availability PostgreSQL cluster using Docker</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-06-10 @ 22:06:23</span
+              ><span class="points-container"
+                >Points: <span class="points">18</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40639742"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+          </section>
+        </section>
         <section id="40638673">
           <h3>
             <a class="item" href="https://kyry.cz/articles/get-organized.html"
@@ -849,7 +901,7 @@
             <h4>
               <span>2024-06-10 @ 20:35:27</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40638673"
                   >Comments</a
@@ -870,51 +922,11 @@
             <h4>
               <span>2024-06-10 @ 17:38:04</span
               ><span class="points-container"
-                >Points: <span class="points">81</span></span
+                >Points: <span class="points">84</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40635989"
                   >Comments</a
-                ><span class="descendants">: 57</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="40633766">
-          <h3>
-            <a class="item" href="https://jott.live/markdown/telnet_draw"
-              >Show HN: Collaborative ASCII Drawing with Telnet</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-06-10 @ 13:58:55</span
-              ><span class="points-container"
-                >Points: <span class="points">89</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40633766"
-                  >Comments</a
-                ><span class="descendants">: 17</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="40633650">
-          <h3>
-            <a
-              class="item"
-              href="https://jillianhess.substack.com/p/re-noted-francis-ford-coppolas-godfather"
-              >Francis Ford Coppola's “Godfather Notebook”</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-06-10 @ 13:44:59</span
-              ><span class="points-container"
-                >Points: <span class="points">136</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40633650"
-                  >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 63</span></span
               >
             </h4>
           </section>
@@ -931,11 +943,11 @@
             <h4>
               <span>2024-06-10 @ 12:02:19</span
               ><span class="points-container"
-                >Points: <span class="points">88</span></span
+                >Points: <span class="points">89</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40632654"
                   >Comments</a
-                ><span class="descendants">: 19</span></span
+                ><span class="descendants">: 20</span></span
               >
             </h4>
           </section>
@@ -952,7 +964,7 @@
             <h4>
               <span>2024-06-09 @ 12:02:19</span
               ><span class="points-container"
-                >Points: <span class="points">1056</span></span
+                >Points: <span class="points">1062</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40623864"
                   >Comments</a
