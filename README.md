@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-12, 17:00:04](https://news.ycombinator.com/item?id=40660338) - [Streak (YC W22) is hiring a remote web designer (senior)](https://www.streak.com/careers/designer-web-and-marketing)
-* [2024-06-12, 15:55:20](https://news.ycombinator.com/item?id=40659533) - [Americans Get News on TikTok, X, Facebook and Instagram](https://www.pewresearch.org/journalism/2024/06/12/how-americans-get-news-on-tiktok-x-facebook-and-instagram/)
 * [2024-06-12, 15:35:55](https://news.ycombinator.com/item?id=40659281) - [How Alexa dropped the ball on being the top conversational system](https://www.mihaileric.com/posts/how-alexa-dropped-the-ball-conversational-ai/)
 * [2024-06-12, 15:32:53](https://news.ycombinator.com/item?id=40659236) - [Launch HN: Overwatch (YC S22): OSINT platform for cyber and fraud risk](https://news.ycombinator.com/item?id=40659236)
 * [2024-06-12, 15:25:23](https://news.ycombinator.com/item?id=40659160) - [Show HN: Restate – Low-latency durable workflows for JavaScript/Java, in Rust](https://restate.dev/)
@@ -29,6 +28,7 @@
 * [2024-06-10, 22:40:25](https://news.ycombinator.com/item?id=40640076) - [Wild elephants may have names that other elephants use to call them](https://www.npr.org/2024/06/07/nx-s1-4994426/wild-elephants-individual-names)
 * [2024-06-10, 22:06:23](https://news.ycombinator.com/item?id=40639742) - [Spilo: High Availability PostgreSQL cluster using Docker](https://github.com/zalando/spilo)
 * [2024-06-10, 19:41:06](https://news.ycombinator.com/item?id=40637816) - [Beyond the wall: Working with aperiodic tilings using finite-state transducers](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-transducers/)
+* [2024-06-10, 13:18:14](https://news.ycombinator.com/item?id=40633329) - [Tomorrow people: For a century, it felt like telepathy was around the corner](https://aeon.co/essays/for-over-a-century-telepathy-has-been-just-around-the-corner)
 * [2024-06-10, 12:02:19](https://news.ycombinator.com/item?id=40632654) - [How to make colored fire at home (2020)](https://sciencenotes.org/how-to-make-colored-fire/)
 
 ## [Archives](archives/index.md)

@@ -71,6 +71,7 @@
 * [2024-06-10, 13:58:55](https://news.ycombinator.com/item?id=40633766) - [Show HN: Collaborative ASCII Drawing with Telnet](https://jott.live/markdown/telnet_draw)
 * [2024-06-10, 13:46:37](https://news.ycombinator.com/item?id=40633666) - [AI Hype is completely out of control – especially since ChatGPT-4o [video]](https://www.youtube.com/watch?v=VctsqOo8wsc)
 * [2024-06-10, 13:44:59](https://news.ycombinator.com/item?id=40633650) - [Francis Ford Coppola's “Godfather Notebook”](https://jillianhess.substack.com/p/re-noted-francis-ford-coppolas-godfather)
+* [2024-06-10, 13:18:14](https://news.ycombinator.com/item?id=40633329) - [Tomorrow people: For a century, it felt like telepathy was around the corner](https://aeon.co/essays/for-over-a-century-telepathy-has-been-just-around-the-corner)
 * [2024-06-10, 12:57:38](https://news.ycombinator.com/item?id=40633108) - [Ask HN: Was Sun Microsystems the last respectable tech company?](https://news.ycombinator.com/item?id=40633108)
 * [2024-06-10, 12:49:50](https://news.ycombinator.com/item?id=40633029) - [Home-Cooked Software and Barefoot Developers](https://maggieappleton.com/home-cooked-software)
 * [2024-06-10, 12:49:14](https://news.ycombinator.com/item?id=40633020) - [Welcome to the Era of Garbage Film and Television Streaming](https://jacobin.com/2024/06/tv-streaming-private-equity/)
