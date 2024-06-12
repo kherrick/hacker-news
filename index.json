@@ -11,12 +11,32 @@
   ],
   [
     [
+      "2024-06-12, 13:39:15",
+      "https://news.ycombinator.com/item?id=40658038"
+    ],
+    [
+      "Announcing the Open Release of Stable Diffusion 3 Medium",
+      "https://stability.ai/news/stable-diffusion-3-medium"
+    ]
+  ],
+  [
+    [
       "2024-06-12, 13:28:42",
       "https://news.ycombinator.com/item?id=40657937"
     ],
     [
       "Google Dataset Search Engine",
       "https://datasetsearch.research.google.com/"
+    ]
+  ],
+  [
+    [
+      "2024-06-12, 13:28:18",
+      "https://news.ycombinator.com/item?id=40657933"
+    ],
+    [
+      "YouTube experimenting with server-side ad injection",
+      "https://fosstodon.org/@sponsorblock/112603139898164385"
     ]
   ],
   [
@@ -141,32 +161,12 @@
   ],
   [
     [
-      "2024-06-11, 16:25:16",
-      "https://news.ycombinator.com/item?id=40648193"
-    ],
-    [
-      "Coqui.ai TTS: A Deep Learning Toolkit for Text-to-Speech",
-      "https://github.com/coqui-ai/TTS"
-    ]
-  ],
-  [
-    [
       "2024-06-11, 14:43:31",
       "https://news.ycombinator.com/item?id=40646741"
     ],
     [
       "Show HN: Revideo – Create Videos with Code",
       "https://github.com/redotvideo/revideo"
-    ]
-  ],
-  [
-    [
-      "2024-06-11, 14:04:36",
-      "https://news.ycombinator.com/item?id=40646312"
-    ],
-    [
-      "Self-Serve Dashboards",
-      "https://briefer.cloud/blog/posts/self-serve-bi-myth/"
     ]
   ],
   [
@@ -211,22 +211,22 @@
   ],
   [
     [
+      "2024-06-11, 10:08:14",
+      "https://news.ycombinator.com/item?id=40644459"
+    ],
+    [
+      "Why curl closes PRs on GitHub",
+      "https://daniel.haxx.se/blog/2024/06/11/why-curl-closes-prs-on-github/"
+    ]
+  ],
+  [
+    [
       "2024-06-11, 09:51:48",
       "https://news.ycombinator.com/item?id=40644366"
     ],
     [
       "Medieval Game Pieces Emerge from the Ruins of a German Castle",
       "https://news.artnet.com/art-world/medieval-game-pieces-emerge-from-the-ruins-of-a-mysterious-german-castle-2497815"
-    ]
-  ],
-  [
-    [
-      "2024-06-11, 09:35:34",
-      "https://news.ycombinator.com/item?id=40644261"
-    ],
-    [
-      "Perspective-Correct Interpolation",
-      "https://andrewkchan.dev/posts/perspective-interpolation.html"
     ]
   ],
   [
