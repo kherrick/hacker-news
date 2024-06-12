@@ -2,7 +2,6 @@
 
 * [2024-06-12, 20:24:33](https://news.ycombinator.com/item?id=40662670) - [Using AI to spark connections at a conference](https://swizec.com/blog/using-ai-to-spark-connections-at-a-conference/)
 * [2024-06-12, 20:11:26](https://news.ycombinator.com/item?id=40662508) - [Cheapest source of fossil fuel generation is double the cost of solar](https://pv-magazine-usa.com/2024/06/11/cheapest-source-of-fossil-fuel-generation-is-double-the-cost-of-utility-scale-solar/)
-* [2024-06-12, 19:43:13](https://news.ycombinator.com/item?id=40662164) - [ChromeOS to Migrate to Android-Based Tech Stack](https://chromeos.dev/en/posts/building-a-faster-smarter-chromebook-experience-with-the-best-of-google)
 * [2024-06-12, 17:59:30](https://news.ycombinator.com/item?id=40661001) - [The Swift compiler is slow due to how types are inferred](https://danielchasehooper.com/posts/why-swift-is-slow/)
 * [2024-06-12, 17:58:14](https://news.ycombinator.com/item?id=40660986) - [Designing the avocado of uncertainty visualization](https://stamen.com/designing-the-avocado-of-uncertainty/)
 * [2024-06-12, 17:35:09](https://news.ycombinator.com/item?id=40660761) - [The GJK Algorithm: A weird and beautiful way to do a simple thing](https://computerwebsite.net/writing/gjk)
@@ -20,6 +19,7 @@
 * [2024-06-11, 20:25:18](https://news.ycombinator.com/item?id=40651054) - [Swift Static Linux SDK](https://www.swift.org/documentation/articles/static-linux-getting-started.html)
 * [2024-06-11, 20:16:23](https://news.ycombinator.com/item?id=40650974) - [Lexbor – An open source HTML Renderer library](https://github.com/lexbor/lexbor)
 * [2024-06-11, 16:41:01](https://news.ycombinator.com/item?id=40648422) - [Water is bursting from another abandoned West Texas oil well, continuing a trend](https://www.texastribune.org/2024/06/11/west-texas-orphan-wells-water-bursts/)
+* [2024-06-11, 16:40:12](https://news.ycombinator.com/item?id=40648404) - [Show HN: A keyboard-centric clipboard history app for macOS](https://clipbook.app/)
 * [2024-06-11, 16:15:47](https://news.ycombinator.com/item?id=40648082) - [Twenty, a modern CRM alternative to Salesforce](https://twenty.com)
 * [2024-06-11, 14:56:38](https://news.ycombinator.com/item?id=40646909) - [Terence Tao on proof checkers and AI programs](https://www.scientificamerican.com/article/ai-will-become-mathematicians-co-pilot/)
 * [2024-06-11, 14:14:37](https://news.ycombinator.com/item?id=40646397) - [Stoke Space ignites its ambitious main engine](https://arstechnica.com/space/2024/06/stoke-space-ignites-its-ambitious-main-engine-for-the-first-time/)
