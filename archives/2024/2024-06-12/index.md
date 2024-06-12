@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-06-12](index.md)
 
+* [2024-06-12, 18:15:42](https://news.ycombinator.com/item?id=40661163) - [AI is not a Net Positive for Society](https://innovationnation.blog/p/ai-is-not-a-net-positive-for-society)
+* [2024-06-12, 18:05:55](https://news.ycombinator.com/item?id=40661073) - [Is Google SEO Gaslighting the Internet?](https://www.newyorker.com/culture/infinite-scroll/is-google-seo-gaslighting-the-internet)
+* [2024-06-12, 17:59:30](https://news.ycombinator.com/item?id=40661001) - [Apple didn't fix Swift's biggest flaw](https://danielchasehooper.com/posts/why-swift-is-slow/)
+* [2024-06-12, 17:52:52](https://news.ycombinator.com/item?id=40660942) - [Remote Amazon Tribe Did Not Get Addicted to Porn](https://www.nytimes.com/2024/06/11/world/americas/no-a-remote-amazon-tribe-did-not-get-addicted-to-porn.html)
 * [2024-06-12, 17:41:25](https://news.ycombinator.com/item?id=40660823) - [Don't bother voting in European election](https://www.politico.eu/article/european-election-voting-democracy-propaganda-activism-far-right-green-deal/)
 * [2024-06-12, 17:27:25](https://news.ycombinator.com/item?id=40660685) - [US Government allows Russian citizens to use and pay for internet services](https://ofac.treasury.gov/media/932931/download?inline)
+* [2024-06-12, 17:13:55](https://news.ycombinator.com/item?id=40660528) - [The Safety-Critical Rust Consortium](https://foundation.rust-lang.org/news/announcing-the-safety-critical-rust-consortium/)
 * [2024-06-12, 17:00:04](https://news.ycombinator.com/item?id=40660338) - [Streak (YC W22) is hiring a remote web designer (senior)](https://www.streak.com/careers/designer-web-and-marketing)
 * [2024-06-12, 16:45:16](https://news.ycombinator.com/item?id=40660161) - [Draft Legislation to End Federal Dependence on Insecure, Proprietary Software](https://www.wyden.senate.gov/news/press-releases/wyden-releases-draft-legislation-to-end-federal-dependence-on-insecure-proprietary-software-in-response-to-repeated-damaging-breaches-of-government-systems)
 * [2024-06-12, 16:20:36](https://news.ycombinator.com/item?id=40659830) - [Official documentation of Framework Laptop 16 (Now featuring 3D CAD models)](https://github.com/FrameworkComputer/Framework-Laptop-16)
@@ -18,6 +23,7 @@
 * [2024-06-12, 15:25:23](https://news.ycombinator.com/item?id=40659160) - [Show HN: Restate – low-latency durable workflows for JavaScript/Java, in Rust](https://restate.dev/)
 * [2024-06-12, 15:01:30](https://news.ycombinator.com/item?id=40658928) - [Python wheel filenames have no canonical form](https://blog.yossarian.net/2024/06/12/Python-wheel-filenames-have-no-canonical-form)
 * [2024-06-12, 14:59:04](https://news.ycombinator.com/item?id=40658901) - [Star botanist likely made up data about nutritional supplements, new probe finds](https://www.science.org/content/article/star-botanist-likely-made-data-about-nutritional-supplements-new-probe-finds)
+* [2024-06-12, 14:53:53](https://news.ycombinator.com/item?id=40658852) - [We just broke ground on America's first next-gen nuclear facility](https://www.gatesnotes.com/Wyoming-TerraPower-groundbreaking)
 * [2024-06-12, 14:07:17](https://news.ycombinator.com/item?id=40658335) - [Firefox Browser Blocks anti-censorship add-ons at Russia's request](https://theintercept.com/2024/06/12/mozilla-firefox-russia-censorship-blocked/)
 * [2024-06-12, 13:45:46](https://news.ycombinator.com/item?id=40658095) - [Intel is trucking a 916,000-pound 'Super Load' across Ohio to its new fab](https://www.tomshardware.com/pc-components/cpus/intel-is-trucking-a-916000-pound-super-load-across-ohio-to-its-new-fab-spawning-road-closures-over-nine-days)
 * [2024-06-12, 13:39:15](https://news.ycombinator.com/item?id=40658038) - [Announcing the Open Release of Stable Diffusion 3 Medium](https://stability.ai/news/stable-diffusion-3-medium)
