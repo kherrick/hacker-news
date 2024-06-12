@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-12](index.md)
 
+* [2024-06-12, 18:55:50](https://news.ycombinator.com/item?id=40661621) - [Hybrid working from home improves retention without damaging performance](https://www.nature.com/articles/s41586-024-07500-2)
 * [2024-06-12, 18:15:42](https://news.ycombinator.com/item?id=40661163) - [AI is not a Net Positive for Society](https://innovationnation.blog/p/ai-is-not-a-net-positive-for-society)
 * [2024-06-12, 18:05:55](https://news.ycombinator.com/item?id=40661073) - [Is Google SEO Gaslighting the Internet?](https://www.newyorker.com/culture/infinite-scroll/is-google-seo-gaslighting-the-internet)
 * [2024-06-12, 17:59:30](https://news.ycombinator.com/item?id=40661001) - [Apple didn't fix Swift's biggest flaw](https://danielchasehooper.com/posts/why-swift-is-slow/)
@@ -15,6 +16,7 @@
 * [2024-06-12, 17:00:04](https://news.ycombinator.com/item?id=40660338) - [Streak (YC W22) is hiring a remote web designer (senior)](https://www.streak.com/careers/designer-web-and-marketing)
 * [2024-06-12, 16:54:21](https://news.ycombinator.com/item?id=40660270) - [Ask HN: Are you still using your Vision Pro?](https://news.ycombinator.com/item?id=40660270)
 * [2024-06-12, 16:45:16](https://news.ycombinator.com/item?id=40660161) - [Draft Legislation to End Federal Dependence on Insecure, Proprietary Software](https://www.wyden.senate.gov/news/press-releases/wyden-releases-draft-legislation-to-end-federal-dependence-on-insecure-proprietary-software-in-response-to-repeated-damaging-breaches-of-government-systems)
+* [2024-06-12, 16:35:06](https://news.ycombinator.com/item?id=40660036) - [Show HN: Semantic clusters and embeddings for 500k Hacker News comments](https://app.airtrain.ai/dataset/eb91081f-2003-494f-bd5d-084104db01f1/null/1/0)
 * [2024-06-12, 16:20:36](https://news.ycombinator.com/item?id=40659830) - [Official documentation of Framework Laptop 16 (Now featuring 3D CAD models)](https://github.com/FrameworkComputer/Framework-Laptop-16)
 * [2024-06-12, 16:01:21](https://news.ycombinator.com/item?id=40659606) - [Calm Company Fund Is Taking a Break](https://calmfund.com/writing/pause)
 * [2024-06-12, 16:00:25](https://news.ycombinator.com/item?id=40659597) - [Code Finder – The ultimate search engine for GitHub repositories](https://codefinder.dev)

@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-12, 18:55:50](https://news.ycombinator.com/item?id=40661621) - [Hybrid working from home improves retention without damaging performance](https://www.nature.com/articles/s41586-024-07500-2)
 * [2024-06-12, 17:59:30](https://news.ycombinator.com/item?id=40661001) - [The Swift compiler is slow due to how types are inferred](https://danielchasehooper.com/posts/why-swift-is-slow/)
-* [2024-06-12, 17:52:52](https://news.ycombinator.com/item?id=40660942) - [Remote Amazon tribe did not get addicted to porn](https://www.nytimes.com/2024/06/11/world/americas/no-a-remote-amazon-tribe-did-not-get-addicted-to-porn.html)
 * [2024-06-12, 17:00:04](https://news.ycombinator.com/item?id=40660338) - [Streak (YC W22) is hiring a remote web designer (senior)](https://www.streak.com/careers/designer-web-and-marketing)
-* [2024-06-12, 16:54:21](https://news.ycombinator.com/item?id=40660270) - [Ask HN: Are you still using your Vision Pro?](https://news.ycombinator.com/item?id=40660270)
+* [2024-06-12, 16:35:06](https://news.ycombinator.com/item?id=40660036) - [Show HN: Semantic clusters and embeddings for 500k Hacker News comments](https://app.airtrain.ai/dataset/eb91081f-2003-494f-bd5d-084104db01f1/null/1/0)
 * [2024-06-12, 16:01:21](https://news.ycombinator.com/item?id=40659606) - [Calm Company Fund Is Taking a Break](https://calmfund.com/writing/pause)
 * [2024-06-12, 15:35:55](https://news.ycombinator.com/item?id=40659281) - [How Alexa dropped the ball on being the top conversational system](https://www.mihaileric.com/posts/how-alexa-dropped-the-ball-conversational-ai/)
 * [2024-06-12, 15:32:53](https://news.ycombinator.com/item?id=40659236) - [Launch HN: Overwatch (YC S22): OSINT platform for cyber and fraud risk](https://news.ycombinator.com/item?id=40659236)
