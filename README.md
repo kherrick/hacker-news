@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-12, 16:45:16](https://news.ycombinator.com/item?id=40660161) - [Draft Legislation to End Federal Dependence on Insecure, Proprietary Software](https://www.wyden.senate.gov/news/press-releases/wyden-releases-draft-legislation-to-end-federal-dependence-on-insecure-proprietary-software-in-response-to-repeated-damaging-breaches-of-government-systems)
 * [2024-06-12, 15:35:55](https://news.ycombinator.com/item?id=40659281) - [How Alexa dropped the ball on being the top conversational system](https://www.mihaileric.com/posts/how-alexa-dropped-the-ball-conversational-ai/)
 * [2024-06-12, 15:32:53](https://news.ycombinator.com/item?id=40659236) - [Launch HN: Overwatch (YC S22): OSINT platform for cyber and fraud risk](https://news.ycombinator.com/item?id=40659236)
 * [2024-06-12, 15:25:23](https://news.ycombinator.com/item?id=40659160) - [Show HN: Restate – Low-latency durable workflows for JavaScript/Java, in Rust](https://restate.dev/)
@@ -26,7 +27,6 @@
 * [2024-06-11, 05:40:57](https://news.ycombinator.com/item?id=40642803) - [How to get the most out of Postgres memory settings](https://tembo.io/blog/optimizing-memory-usage)
 * [2024-06-10, 22:59:43](https://news.ycombinator.com/item?id=40640246) - [Eye Miniatures (ca. 1790–1810)](https://publicdomainreview.org/collection/eye-miniatures/)
 * [2024-06-10, 22:51:51](https://news.ycombinator.com/item?id=40640190) - [Wild horses reintroduced to Kazakhstan steppes after absence of two centuries](https://www.theguardian.com/environment/article/2024/jun/10/przewalskis-horses-only-wild-species-return-central-asian-steppes-kazakhstan)
-* [2024-06-10, 22:40:25](https://news.ycombinator.com/item?id=40640076) - [Wild elephants may have names that other elephants use to call them](https://www.npr.org/2024/06/07/nx-s1-4994426/wild-elephants-individual-names)
 * [2024-06-10, 22:06:23](https://news.ycombinator.com/item?id=40639742) - [Spilo: High Availability PostgreSQL cluster using Docker](https://github.com/zalando/spilo)
 * [2024-06-10, 19:41:06](https://news.ycombinator.com/item?id=40637816) - [Beyond the wall: Working with aperiodic tilings using finite-state transducers](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-transducers/)
 * [2024-06-10, 12:02:19](https://news.ycombinator.com/item?id=40632654) - [How to make colored fire at home (2020)](https://sciencenotes.org/how-to-make-colored-fire/)
