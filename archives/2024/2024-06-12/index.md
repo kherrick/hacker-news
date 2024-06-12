@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-12](index.md)
 
+* [2024-06-12, 19:51:04](https://news.ycombinator.com/item?id=40662282) - [AI in education may require us to return to 15th-century pedagogy](https://www.chatterpulseai.com/blog/ai-in-education-may-require-us-to-return-to-15th-century-pedagogy/?r=hn)
+* [2024-06-12, 19:43:13](https://news.ycombinator.com/item?id=40662164) - [ChromeOS to Migrate to Android-Based Tech Stack](https://chromeos.dev/en/posts/building-a-faster-smarter-chromebook-experience-with-the-best-of-google)
 * [2024-06-12, 19:39:19](https://news.ycombinator.com/item?id=40662116) - [Hybrid working has benefits over in-person working – the evidence mounts](https://www.nature.com/articles/d41586-024-01713-1)
 * [2024-06-12, 19:17:42](https://news.ycombinator.com/item?id=40661864) - [The diminishing returns of in-office mandates](https://www.bbc.com/worklife/article/20240612-the-diminishing-returns-of-in-office-mandates)
 * [2024-06-12, 19:13:11](https://news.ycombinator.com/item?id=40661811) - [iOS 18 cracks down on apps asking for full address book access](https://techcrunch.com/2024/06/12/ios-18-cracks-down-on-apps-asking-for-full-address-book-access/)
@@ -16,6 +18,7 @@
 * [2024-06-12, 17:58:14](https://news.ycombinator.com/item?id=40660986) - [Designing the Avocado of Uncertainty Visualization](https://stamen.com/designing-the-avocado-of-uncertainty/)
 * [2024-06-12, 17:52:52](https://news.ycombinator.com/item?id=40660942) - [Remote Amazon Tribe Did Not Get Addicted to Porn](https://www.nytimes.com/2024/06/11/world/americas/no-a-remote-amazon-tribe-did-not-get-addicted-to-porn.html)
 * [2024-06-12, 17:41:25](https://news.ycombinator.com/item?id=40660823) - [Don't bother voting in European election](https://www.politico.eu/article/european-election-voting-democracy-propaganda-activism-far-right-green-deal/)
+* [2024-06-12, 17:35:09](https://news.ycombinator.com/item?id=40660761) - [The GJK Algorithm: A weird and beautiful way to do a simple thing](https://computerwebsite.net/writing/gjk)
 * [2024-06-12, 17:27:33](https://news.ycombinator.com/item?id=40660689) - [Diffractive Chocolate](https://wp.optics.arizona.edu/oscoutreach/diffractive-chocolate/)
 * [2024-06-12, 17:27:25](https://news.ycombinator.com/item?id=40660685) - [US Government allows Russian citizens to use and pay for internet services](https://ofac.treasury.gov/media/932931/download?inline)
 * [2024-06-12, 17:13:55](https://news.ycombinator.com/item?id=40660528) - [The Safety-Critical Rust Consortium](https://foundation.rust-lang.org/news/announcing-the-safety-critical-rust-consortium/)
