@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-12](index.md)
 
+* [2024-06-12, 11:13:52](https://news.ycombinator.com/item?id=40656747) - [Elixir 1.17 released: set-theoretic types in patterns, durations, OTP 27](https://elixir-lang.org/blog/2024/06/12/elixir-v1-17-0-released/)
 * [2024-06-12, 10:48:39](https://news.ycombinator.com/item?id=40656603) - [Raspberry Pi is now a public company](https://techcrunch.com/2024/06/11/raspberry-pi-is-now-a-public-company-as-its-shares-pops-after-ipo-pricing/)
 * [2024-06-12, 08:30:20](https://news.ycombinator.com/item?id=40655846) - [Germany gets informal EU go-ahead to support gas-fired power, sources say](https://www.reuters.com/business/energy/germany-gets-informal-eus-go-ahead-support-gas-fired-power-sources-say-2024-06-07/)
 * [2024-06-12, 07:28:20](https://news.ycombinator.com/item?id=40655516) - [ARM torpedoes Windows on ARM: Demands destruction of all PCs with Snapdragon X](https://www.heise.de/en/news/ARM-torpedoes-Windows-on-ARM-Demands-destruction-of-all-PCs-with-Snapdragon-X-9758434.html)

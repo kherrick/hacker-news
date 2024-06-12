@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-12, 11:13:52](https://news.ycombinator.com/item?id=40656747) - [Elixir 1.17 released: set-theoretic types in patterns, durations, OTP 27](https://elixir-lang.org/blog/2024/06/12/elixir-v1-17-0-released/)
 * [2024-06-12, 10:48:39](https://news.ycombinator.com/item?id=40656603) - [Raspberry Pi is now a public company](https://techcrunch.com/2024/06/11/raspberry-pi-is-now-a-public-company-as-its-shares-pops-after-ipo-pricing/)
 * [2024-06-12, 05:07:31](https://news.ycombinator.com/item?id=40654734) - [Why SQLite Is Taking over with Brian Holt and Marco Bambini](https://syntax.fm/show/779/why-sqlite-is-taking-over-with-brian-holt-and-marco-bambini)
 * [2024-06-12, 03:32:43](https://news.ycombinator.com/item?id=40654190) - [Silicon Valley's best kept secret: Founder liquidity](https://www.stefantheard.com/silicon-valleys-best-kept-secret-founder-liquidity/)
@@ -20,7 +21,6 @@
 * [2024-06-11, 10:33:03](https://news.ycombinator.com/item?id=40644605) - [When Water Flows Uphill [video]](https://www.youtube.com/watch?v=zzKgnNGqxMw)
 * [2024-06-11, 09:35:34](https://news.ycombinator.com/item?id=40644261) - [Perspective-Correct Interpolation](https://andrewkchan.dev/posts/perspective-interpolation.html)
 * [2024-06-11, 07:12:04](https://news.ycombinator.com/item?id=40643454) - [Inside Mexico’s anti-avocado militias](https://www.theguardian.com/news/article/2024/jun/11/inside-mexico-anti-avocado-militias)
-* [2024-06-11, 06:43:07](https://news.ycombinator.com/item?id=40643259) - [The 'Dead Internet Theory'](https://theconversation.com/the-dead-internet-theory-makes-eerie-claims-about-an-ai-run-web-the-truth-is-more-sinister-229609)
 * [2024-06-10, 23:19:52](https://news.ycombinator.com/item?id=40640432) - [My War (1982)](https://harpers.org/archive/1982/01/my-war/)
 * [2024-06-10, 14:04:25](https://news.ycombinator.com/item?id=40633824) - [The Mythical Promise of Tin Foil Hats](https://gizmodo.com/myth-tinfoil-hat-mit-conspiracy-theories-aliens-5g-1851529370)
 * [2024-06-10, 13:58:55](https://news.ycombinator.com/item?id=40633766) - [Show HN: Collaborative ASCII Drawing with Telnet](https://jott.live/markdown/telnet_draw)
