@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-06-12, 20:24:33",
-      "https://news.ycombinator.com/item?id=40662670"
+      "2024-06-12, 21:01:21",
+      "https://news.ycombinator.com/item?id=40663070"
     ],
     [
-      "Using AI to spark connections at a conference",
-      "https://swizec.com/blog/using-ai-to-spark-connections-at-a-conference/"
+      "Etleap (YC W13) Is Hiring Customer Success Manager (SF)",
+      "https://etleap.com/careers/customer-success-manager/"
+    ]
+  ],
+  [
+    [
+      "2024-06-12, 20:53:29",
+      "https://news.ycombinator.com/item?id=40662984"
+    ],
+    [
+      "A beginners guide to fine tuning LLM using LoRA",
+      "https://zohaib.me/a-beginners-guide-to-fine-tuning-llm-using-lora/"
     ]
   ],
   [
@@ -21,12 +31,12 @@
   ],
   [
     [
-      "2024-06-12, 17:59:30",
-      "https://news.ycombinator.com/item?id=40661001"
+      "2024-06-12, 18:22:58",
+      "https://news.ycombinator.com/item?id=40661232"
     ],
     [
-      "The Swift compiler is slow due to how types are inferred",
-      "https://danielchasehooper.com/posts/why-swift-is-slow/"
+      "Don't Refactor Like Uncle Bob",
+      "https://theaxolot.wordpress.com/2024/05/08/dont-refactor-like-uncle-bob-please/"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "Diffractive Chocolate",
       "https://wp.optics.arizona.edu/oscoutreach/diffractive-chocolate/"
-    ]
-  ],
-  [
-    [
-      "2024-06-12, 17:00:04",
-      "https://news.ycombinator.com/item?id=40660338"
-    ],
-    [
-      "Streak (YC W22) is hiring a remote web designer (senior)",
-      "https://www.streak.com/careers/designer-web-and-marketing"
     ]
   ],
   [
@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2024-06-11, 16:41:01",
-      "https://news.ycombinator.com/item?id=40648422"
-    ],
-    [
-      "Water is bursting from another abandoned West Texas oil well, continuing a trend",
-      "https://www.texastribune.org/2024/06/11/west-texas-orphan-wells-water-bursts/"
-    ]
-  ],
-  [
-    [
       "2024-06-11, 16:40:12",
       "https://news.ycombinator.com/item?id=40648404"
     ],
@@ -287,6 +277,16 @@
     [
       "How to get the most out of Postgres memory settings",
       "https://tembo.io/blog/optimizing-memory-usage"
+    ]
+  ],
+  [
+    [
+      "2024-06-10, 13:47:18",
+      "https://news.ycombinator.com/item?id=40633671"
+    ],
+    [
+      "Real-Time Settlers of Catan",
+      "https://robert.ocallahan.org/2024/06/real-time-settlers.html"
     ]
   ],
   [
