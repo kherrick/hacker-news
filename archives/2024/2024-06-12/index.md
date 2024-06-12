@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-12](index.md)
 
+* [2024-06-12, 21:11:49](https://news.ycombinator.com/item?id=40663175) - [Photographer Disqualified from AI Image Contest After Winning with Real Photo](https://petapixel.com/2024/06/12/photographer-disqualified-from-ai-image-contest-after-winning-with-real-photo/)
+* [2024-06-12, 21:03:28](https://news.ycombinator.com/item?id=40663091) - [Forget Copilot+, Windows is already tracking everything you do](https://www.xda-developers.com/how-disable-activity-history-windows/)
 * [2024-06-12, 21:01:21](https://news.ycombinator.com/item?id=40663070) - [Etleap (YC W13) Is Hiring Customer Success Manager (SF)](https://etleap.com/careers/customer-success-manager/)
 * [2024-06-12, 20:53:29](https://news.ycombinator.com/item?id=40662984) - [A beginners guide to fine tuning LLM using LoRA](https://zohaib.me/a-beginners-guide-to-fine-tuning-llm-using-lora/)
 * [2024-06-12, 20:24:33](https://news.ycombinator.com/item?id=40662670) - [Using AI to spark connections at a conference](https://swizec.com/blog/using-ai-to-spark-connections-at-a-conference/)

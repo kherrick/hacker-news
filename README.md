@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-12, 21:11:49](https://news.ycombinator.com/item?id=40663175) - [Photographer Disqualified from AI Image Contest After Winning with Real Photo](https://petapixel.com/2024/06/12/photographer-disqualified-from-ai-image-contest-after-winning-with-real-photo/)
+* [2024-06-12, 21:03:28](https://news.ycombinator.com/item?id=40663091) - [Forget Copilot+, Windows is already tracking everything you do](https://www.xda-developers.com/how-disable-activity-history-windows/)
 * [2024-06-12, 21:01:21](https://news.ycombinator.com/item?id=40663070) - [Etleap (YC W13) Is Hiring Customer Success Manager (SF)](https://etleap.com/careers/customer-success-manager/)
-* [2024-06-12, 20:53:29](https://news.ycombinator.com/item?id=40662984) - [A beginners guide to fine tuning LLM using LoRA](https://zohaib.me/a-beginners-guide-to-fine-tuning-llm-using-lora/)
 * [2024-06-12, 20:11:26](https://news.ycombinator.com/item?id=40662508) - [Cheapest source of fossil fuel generation is double the cost of solar](https://pv-magazine-usa.com/2024/06/11/cheapest-source-of-fossil-fuel-generation-is-double-the-cost-of-utility-scale-solar/)
 * [2024-06-12, 18:22:58](https://news.ycombinator.com/item?id=40661232) - [Don't Refactor Like Uncle Bob](https://theaxolot.wordpress.com/2024/05/08/dont-refactor-like-uncle-bob-please/)
 * [2024-06-12, 17:58:14](https://news.ycombinator.com/item?id=40660986) - [Designing the avocado of uncertainty visualization](https://stamen.com/designing-the-avocado-of-uncertainty/)
@@ -25,7 +26,6 @@
 * [2024-06-11, 11:34:17](https://news.ycombinator.com/item?id=40645015) - [Metaflora](https://flora.metazooa.com)
 * [2024-06-11, 11:24:20](https://news.ycombinator.com/item?id=40644960) - [Author Clock: a novel way to tell time](https://www.authorclock.com/)
 * [2024-06-11, 10:55:01](https://news.ycombinator.com/item?id=40644750) - [Researchers make a supercapacitor from water, cement, and carbon black](https://www.bbc.com/future/article/20240610-how-the-concrete-in-your-house-could-be-turned-into-a-battery)
-* [2024-06-11, 10:33:03](https://news.ycombinator.com/item?id=40644605) - [When Water Flows Uphill [video]](https://www.youtube.com/watch?v=zzKgnNGqxMw)
 * [2024-06-11, 09:51:48](https://news.ycombinator.com/item?id=40644366) - [Medieval game pieces emerge from the ruins of a German castle](https://news.artnet.com/art-world/medieval-game-pieces-emerge-from-the-ruins-of-a-mysterious-german-castle-2497815)
 * [2024-06-11, 05:40:57](https://news.ycombinator.com/item?id=40642803) - [How to get the most out of Postgres memory settings](https://tembo.io/blog/optimizing-memory-usage)
 * [2024-06-10, 13:47:18](https://news.ycombinator.com/item?id=40633671) - [Real-Time Settlers of Catan](https://robert.ocallahan.org/2024/06/real-time-settlers.html)
