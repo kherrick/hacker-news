@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-12](index.md)
 
+* [2024-06-12, 15:32:53](https://news.ycombinator.com/item?id=40659236) - [Launch HN: Overwatch (YC S22): OSINT platform for cyber and fraud risk](https://news.ycombinator.com/item?id=40659236)
 * [2024-06-12, 15:25:23](https://news.ycombinator.com/item?id=40659160) - [Show HN: Restate, low-latency durable workflows for JavaScript/Java, in Rust](https://restate.dev/blog/announcing-restate-1.0-restate-cloud-and-our-seed-funding-round/)
 * [2024-06-12, 14:59:04](https://news.ycombinator.com/item?id=40658901) - [Star botanist likely made up data about nutritional supplements, new probe finds](https://www.science.org/content/article/star-botanist-likely-made-data-about-nutritional-supplements-new-probe-finds)
 * [2024-06-12, 14:07:17](https://news.ycombinator.com/item?id=40658335) - [Firefox Browser Blocks anti-censorship add-ons at Russia's request](https://theintercept.com/2024/06/12/mozilla-firefox-russia-censorship-blocked/)
@@ -25,4 +26,5 @@
 * [2024-06-12, 05:07:31](https://news.ycombinator.com/item?id=40654734) - [Why SQLite Is Taking over with Brian Holt and Marco Bambini](https://syntax.fm/show/779/why-sqlite-is-taking-over-with-brian-holt-and-marco-bambini)
 * [2024-06-12, 03:32:43](https://news.ycombinator.com/item?id=40654190) - [Silicon Valley's best kept secret: Founder liquidity](https://www.stefantheard.com/silicon-valleys-best-kept-secret-founder-liquidity/)
 * [2024-06-12, 02:09:46](https://news.ycombinator.com/item?id=40653785) - [T-Mobile users thought they had a lifetime price lock–guess what happened next](https://arstechnica.com/tech-policy/2024/06/t-mobile-users-thought-they-had-a-lifetime-price-lock-guess-what-happened-next/)
+* [2024-06-12, 01:05:40](https://news.ycombinator.com/item?id=40653417) - [Show HN: PDF to Podcast – Convert Any PDF into a Podcast Episode](https://pdf-to-podcast.com)
 * [2024-06-12, 00:09:23](https://news.ycombinator.com/item?id=40653125) - [AES-GCM and breaking it on nonce reuse](https://frereit.de/aes_gcm/)
