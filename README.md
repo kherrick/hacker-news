@@ -5,7 +5,6 @@
 * [2024-06-12, 02:09:46](https://news.ycombinator.com/item?id=40653785) - [T-Mobile users thought they had a lifetime price lock–guess what happened next](https://arstechnica.com/tech-policy/2024/06/t-mobile-users-thought-they-had-a-lifetime-price-lock-guess-what-happened-next/)
 * [2024-06-12, 00:09:23](https://news.ycombinator.com/item?id=40653125) - [AES-GCM and breaking it on nonce reuse](https://frereit.de/aes_gcm/)
 * [2024-06-11, 23:11:31](https://news.ycombinator.com/item?id=40652731) - [Edward C. Stone, 1936-2024](https://www.caltech.edu/about/news/edward-stone-1936-2024)
-* [2024-06-11, 21:46:13](https://news.ycombinator.com/item?id=40651955) - [My Favourite Gleam Feature](https://erikarow.land/notes/gleam-favorite-feature)
 * [2024-06-11, 20:03:57](https://news.ycombinator.com/item?id=40650844) - [Flameshot – Open-source screenshot software](https://flameshot.org/)
 * [2024-06-11, 19:19:24](https://news.ycombinator.com/item?id=40650316) - [Decade of the Battery](https://www.noahpinion.blog/p/decade-of-the-battery-334)
 * [2024-06-11, 19:06:39](https://news.ycombinator.com/item?id=40650173) - [The Rise and Fall of BNN Breaking, an AI-Generated News Outlet](https://www.nytimes.com/2024/06/06/technology/bnn-breaking-ai-generated-news.html)
@@ -29,6 +28,7 @@
 * [2024-06-10, 12:49:50](https://news.ycombinator.com/item?id=40633029) - [Home-Cooked Software and Barefoot Developers](https://maggieappleton.com/home-cooked-software)
 * [2024-06-10, 12:02:19](https://news.ycombinator.com/item?id=40632654) - [How to make colored fire at home (2020)](https://sciencenotes.org/how-to-make-colored-fire/)
 * [2024-06-10, 10:37:46](https://news.ycombinator.com/item?id=40632070) - [Demystifying NPUs: Questions and Answers](https://thechipletter.substack.com/p/demystifying-npus-questions-and-answers)
+* [2024-06-10, 06:05:30](https://news.ycombinator.com/item?id=40630676) - [SIMD < SIMT < SMT: Parallelism in Nvidia GPUs (2011)](https://yosefk.com/blog/simd-simt-smt-parallelism-in-nvidia-gpus.html)
 * [2024-06-09, 12:02:19](https://news.ycombinator.com/item?id=40623864) - [I built an ROV to solve missing person cases](https://suanto.com/2024/06/06/the-time-I-built-an-ROV-01/)
 
 ## [Archives](archives/index.md)
