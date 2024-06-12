@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-12](index.md)
 
+* [2024-06-12, 19:39:19](https://news.ycombinator.com/item?id=40662116) - [Hybrid working has benefits over in-person working – the evidence mounts](https://www.nature.com/articles/d41586-024-01713-1)
 * [2024-06-12, 19:02:46](https://news.ycombinator.com/item?id=40661703) - [Building a faster, smarter, Chromebook experience with the best of Google](https://blog.chromium.org/2024/06/building-faster-smarter-chromebook.html)
 * [2024-06-12, 18:58:08](https://news.ycombinator.com/item?id=40661653) - [Fired employee deleted servers, causing it to lose S$918,000](https://www.channelnewsasia.com/singapore/former-employee-hack-ncs-delete-virtual-servers-quality-testing-4402141)
 * [2024-06-12, 18:55:50](https://news.ycombinator.com/item?id=40661621) - [Hybrid working from home improves retention without damaging performance](https://www.nature.com/articles/s41586-024-07500-2)
@@ -24,6 +25,7 @@
 * [2024-06-12, 16:01:21](https://news.ycombinator.com/item?id=40659606) - [Calm Company Fund Is Taking a Break](https://calmfund.com/writing/pause)
 * [2024-06-12, 16:00:25](https://news.ycombinator.com/item?id=40659597) - [Code Finder – The ultimate search engine for GitHub repositories](https://codefinder.dev)
 * [2024-06-12, 15:55:20](https://news.ycombinator.com/item?id=40659533) - [Americans Get News on TikTok, X, Facebook and Instagram](https://www.pewresearch.org/journalism/2024/06/12/how-americans-get-news-on-tiktok-x-facebook-and-instagram/)
+* [2024-06-12, 15:38:45](https://news.ycombinator.com/item?id=40659322) - [Accessing Math Solutions via Monte Carlo Self-Refine with LLaMa-3 8B](https://arxiv.org/abs/2406.07394)
 * [2024-06-12, 15:35:55](https://news.ycombinator.com/item?id=40659281) - [Alexa Dropped the Ball on Being the Top Conversational System on the Planet](https://www.mihaileric.com/posts/how-alexa-dropped-the-ball-conversational-ai/)
 * [2024-06-12, 15:32:53](https://news.ycombinator.com/item?id=40659236) - [Launch HN: Overwatch (YC S22): OSINT platform for cyber and fraud risk](https://news.ycombinator.com/item?id=40659236)
 * [2024-06-12, 15:25:23](https://news.ycombinator.com/item?id=40659160) - [Show HN: Restate, low-latency durable workflows for JavaScript/Java, in Rust](https://restate.dev/blog/announcing-restate-1.0-restate-cloud-and-our-seed-funding-round/)
