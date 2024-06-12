@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-06-12](index.md)
 
 * [2024-06-12, 19:39:19](https://news.ycombinator.com/item?id=40662116) - [Hybrid working has benefits over in-person working – the evidence mounts](https://www.nature.com/articles/d41586-024-01713-1)
+* [2024-06-12, 19:17:42](https://news.ycombinator.com/item?id=40661864) - [The diminishing returns of in-office mandates](https://www.bbc.com/worklife/article/20240612-the-diminishing-returns-of-in-office-mandates)
+* [2024-06-12, 19:13:11](https://news.ycombinator.com/item?id=40661811) - [iOS 18 cracks down on apps asking for full address book access](https://techcrunch.com/2024/06/12/ios-18-cracks-down-on-apps-asking-for-full-address-book-access/)
 * [2024-06-12, 19:02:46](https://news.ycombinator.com/item?id=40661703) - [Building a faster, smarter, Chromebook experience with the best of Google](https://blog.chromium.org/2024/06/building-faster-smarter-chromebook.html)
 * [2024-06-12, 18:58:08](https://news.ycombinator.com/item?id=40661653) - [Fired employee deleted servers, causing it to lose S$918,000](https://www.channelnewsasia.com/singapore/former-employee-hack-ncs-delete-virtual-servers-quality-testing-4402141)
 * [2024-06-12, 18:55:50](https://news.ycombinator.com/item?id=40661621) - [Hybrid working from home improves retention without damaging performance](https://www.nature.com/articles/s41586-024-07500-2)
