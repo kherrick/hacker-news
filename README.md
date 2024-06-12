@@ -2,7 +2,6 @@
 
 * [2024-06-12, 05:07:31](https://news.ycombinator.com/item?id=40654734) - [Why SQLite Is Taking over with Brian Holt and Marco Bambini](https://syntax.fm/show/779/why-sqlite-is-taking-over-with-brian-holt-and-marco-bambini)
 * [2024-06-12, 03:32:43](https://news.ycombinator.com/item?id=40654190) - [Silicon Valley's best kept secret: Founder liquidity](https://www.stefantheard.com/silicon-valleys-best-kept-secret-founder-liquidity/)
-* [2024-06-12, 02:09:46](https://news.ycombinator.com/item?id=40653785) - [T-Mobile users thought they had a lifetime price lock–guess what happened next](https://arstechnica.com/tech-policy/2024/06/t-mobile-users-thought-they-had-a-lifetime-price-lock-guess-what-happened-next/)
 * [2024-06-12, 00:09:23](https://news.ycombinator.com/item?id=40653125) - [AES-GCM and breaking it on nonce reuse](https://frereit.de/aes_gcm/)
 * [2024-06-11, 23:11:31](https://news.ycombinator.com/item?id=40652731) - [Edward C. Stone, 1936-2024](https://www.caltech.edu/about/news/edward-stone-1936-2024)
 * [2024-06-11, 20:03:57](https://news.ycombinator.com/item?id=40650844) - [Flameshot – Open-source screenshot software](https://flameshot.org/)
@@ -19,6 +18,7 @@
 * [2024-06-11, 12:00:24](https://news.ycombinator.com/item?id=40645203) - [A baseball loving physicist looks at the knuckleball](https://www.baseballprospectus.com/news/article/15919/baseball-proguestus-the-knuckleball-mystique-using-pitchfx-to-distinguish-perception-from-reality/)
 * [2024-06-11, 11:54:24](https://news.ycombinator.com/item?id=40645161) - [Making iron gall ink from oak galls](https://nyanpasu64.gitlab.io/blog/iron-gall-ink/)
 * [2024-06-11, 10:33:03](https://news.ycombinator.com/item?id=40644605) - [When Water Flows Uphill [video]](https://www.youtube.com/watch?v=zzKgnNGqxMw)
+* [2024-06-11, 09:24:40](https://news.ycombinator.com/item?id=40644194) - [Ask HN: Am I dead meat already?](https://news.ycombinator.com/item?id=40644194)
 * [2024-06-11, 07:12:04](https://news.ycombinator.com/item?id=40643454) - [Inside Mexico’s anti-avocado militias](https://www.theguardian.com/news/article/2024/jun/11/inside-mexico-anti-avocado-militias)
 * [2024-06-11, 06:43:07](https://news.ycombinator.com/item?id=40643259) - [The 'Dead Internet Theory'](https://theconversation.com/the-dead-internet-theory-makes-eerie-claims-about-an-ai-run-web-the-truth-is-more-sinister-229609)
 * [2024-06-10, 23:19:52](https://news.ycombinator.com/item?id=40640432) - [My War (1982)](https://harpers.org/archive/1982/01/my-war/)
