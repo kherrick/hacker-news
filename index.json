@@ -1,12 +1,52 @@
 [
   [
     [
-      "2024-06-12, 17:41:25",
-      "https://news.ycombinator.com/item?id=40660823"
+      "2024-06-12, 18:15:42",
+      "https://news.ycombinator.com/item?id=40661163"
     ],
     [
-      "Don't bother voting in European election",
-      "https://www.politico.eu/article/european-election-voting-democracy-propaganda-activism-far-right-green-deal/"
+      "AI is not a Net Positive for Society",
+      "https://innovationnation.blog/p/ai-is-not-a-net-positive-for-society"
+    ]
+  ],
+  [
+    [
+      "2024-06-12, 18:05:55",
+      "https://news.ycombinator.com/item?id=40661073"
+    ],
+    [
+      "Is Google SEO Gaslighting the Internet?",
+      "https://www.newyorker.com/culture/infinite-scroll/is-google-seo-gaslighting-the-internet"
+    ]
+  ],
+  [
+    [
+      "2024-06-12, 17:59:30",
+      "https://news.ycombinator.com/item?id=40661001"
+    ],
+    [
+      "Apple didn't fix Swift's biggest flaw",
+      "https://danielchasehooper.com/posts/why-swift-is-slow/"
+    ]
+  ],
+  [
+    [
+      "2024-06-12, 17:52:52",
+      "https://news.ycombinator.com/item?id=40660942"
+    ],
+    [
+      "Remote Amazon Tribe Did Not Get Addicted to Porn",
+      "https://www.nytimes.com/2024/06/11/world/americas/no-a-remote-amazon-tribe-did-not-get-addicted-to-porn.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-12, 17:13:55",
+      "https://news.ycombinator.com/item?id=40660528"
+    ],
+    [
+      "The Safety-Critical Rust Consortium",
+      "https://foundation.rust-lang.org/news/announcing-the-safety-critical-rust-consortium/"
     ]
   ],
   [
@@ -61,12 +101,12 @@
   ],
   [
     [
-      "2024-06-12, 15:01:30",
-      "https://news.ycombinator.com/item?id=40658928"
+      "2024-06-12, 14:53:53",
+      "https://news.ycombinator.com/item?id=40658852"
     ],
     [
-      "Python wheel filenames have no canonical form",
-      "https://blog.yossarian.net/2024/06/12/Python-wheel-filenames-have-no-canonical-form"
+      "We just broke ground on America's first next-gen nuclear facility",
+      "https://www.gatesnotes.com/Wyoming-TerraPower-groundbreaking"
     ]
   ],
   [
@@ -97,16 +137,6 @@
     [
       "Silicon Valley's best kept secret: Founder liquidity",
       "https://www.stefantheard.com/silicon-valleys-best-kept-secret-founder-liquidity/"
-    ]
-  ],
-  [
-    [
-      "2024-06-12, 00:09:23",
-      "https://news.ycombinator.com/item?id=40653125"
-    ],
-    [
-      "AES-GCM and breaking it on nonce reuse",
-      "https://frereit.de/aes_gcm/"
     ]
   ],
   [
@@ -191,32 +221,22 @@
   ],
   [
     [
+      "2024-06-11, 11:24:20",
+      "https://news.ycombinator.com/item?id=40644960"
+    ],
+    [
+      "Author Clock: a novel way to tell time",
+      "https://www.authorclock.com/"
+    ]
+  ],
+  [
+    [
       "2024-06-11, 10:55:01",
       "https://news.ycombinator.com/item?id=40644750"
     ],
     [
       "Researchers make a supercapacitor from water, cement, and carbon black",
       "https://www.bbc.com/future/article/20240610-how-the-concrete-in-your-house-could-be-turned-into-a-battery"
-    ]
-  ],
-  [
-    [
-      "2024-06-11, 10:46:32",
-      "https://news.ycombinator.com/item?id=40644701"
-    ],
-    [
-      "The Cast Iron Gallery",
-      "https://castirongallery.com/"
-    ]
-  ],
-  [
-    [
-      "2024-06-11, 10:42:03",
-      "https://news.ycombinator.com/item?id=40644674"
-    ],
-    [
-      "George Gorton Machine Co engraver typefaces",
-      "http://luc.devroye.org/fonts-80708.html"
     ]
   ],
   [
@@ -257,26 +277,6 @@
     [
       "Wild horses reintroduced to Kazakhstan steppes after absence of two centuries",
       "https://www.theguardian.com/environment/article/2024/jun/10/przewalskis-horses-only-wild-species-return-central-asian-steppes-kazakhstan"
-    ]
-  ],
-  [
-    [
-      "2024-06-10, 22:06:23",
-      "https://news.ycombinator.com/item?id=40639742"
-    ],
-    [
-      "Spilo: High Availability PostgreSQL cluster using Docker",
-      "https://github.com/zalando/spilo"
-    ]
-  ],
-  [
-    [
-      "2024-06-10, 19:41:06",
-      "https://news.ycombinator.com/item?id=40637816"
-    ],
-    [
-      "Beyond the wall: Working with aperiodic tilings using finite-state transducers",
-      "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-transducers/"
     ]
   ],
   [
