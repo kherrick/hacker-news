@@ -13,6 +13,7 @@
 * [2024-06-12, 17:13:55](https://news.ycombinator.com/item?id=40660528) - [The Safety-Critical Rust Consortium](https://foundation.rust-lang.org/news/announcing-the-safety-critical-rust-consortium/)
 * [2024-06-12, 17:04:01](https://news.ycombinator.com/item?id=40660397) - [Poll: Are you still using your Vision Pro?](https://news.ycombinator.com/item?id=40660397)
 * [2024-06-12, 17:00:04](https://news.ycombinator.com/item?id=40660338) - [Streak (YC W22) is hiring a remote web designer (senior)](https://www.streak.com/careers/designer-web-and-marketing)
+* [2024-06-12, 16:54:21](https://news.ycombinator.com/item?id=40660270) - [Ask HN: Are you still using your Vision Pro?](https://news.ycombinator.com/item?id=40660270)
 * [2024-06-12, 16:45:16](https://news.ycombinator.com/item?id=40660161) - [Draft Legislation to End Federal Dependence on Insecure, Proprietary Software](https://www.wyden.senate.gov/news/press-releases/wyden-releases-draft-legislation-to-end-federal-dependence-on-insecure-proprietary-software-in-response-to-repeated-damaging-breaches-of-government-systems)
 * [2024-06-12, 16:20:36](https://news.ycombinator.com/item?id=40659830) - [Official documentation of Framework Laptop 16 (Now featuring 3D CAD models)](https://github.com/FrameworkComputer/Framework-Laptop-16)
 * [2024-06-12, 16:01:21](https://news.ycombinator.com/item?id=40659606) - [Calm Company Fund Is Taking a Break](https://calmfund.com/writing/pause)
