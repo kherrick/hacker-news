@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-12](index.md)
 
+* [2024-06-12, 13:45:46](https://news.ycombinator.com/item?id=40658095) - [Intel is trucking a 916,000-pound 'Super Load' across Ohio to its new fab](https://www.tomshardware.com/pc-components/cpus/intel-is-trucking-a-916000-pound-super-load-across-ohio-to-its-new-fab-spawning-road-closures-over-nine-days)
 * [2024-06-12, 13:28:42](https://news.ycombinator.com/item?id=40657937) - [Google Launches New Dataset Search Engine](https://datasetsearch.research.google.com/)
+* [2024-06-12, 13:25:19](https://news.ycombinator.com/item?id=40657890) - [iTerm2 v3.5.1 moves AI features into external plugin](https://iterm2.com/ai-plugin.html)
 * [2024-06-12, 12:28:23](https://news.ycombinator.com/item?id=40657307) - [Study shows N95 masks near-perfect at blocking escape of airborne Covid-19](https://sph.umd.edu/news/study-shows-n95-masks-near-perfect-blocking-escape-airborne-covid-19)
 * [2024-06-12, 12:19:02](https://news.ycombinator.com/item?id=40657238) - [AI Detectors Get It Wrong. Writers Are Being Fired Anyway](https://gizmodo.com/ai-detectors-inaccurate-freelance-writers-fired-1851529820)
 * [2024-06-12, 12:07:19](https://news.ycombinator.com/item?id=40657138) - [Samsung Document Showed 126 Ways iPhone Was Better Than S1 (2010) [pdf]](https://ia600908.us.archive.org/30/items/436142-samsung-relative-evaluation-report-on-s1-iphone/436142-samsung-relative-evaluation-report-on-s1-iphone.pdf)

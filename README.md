@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-12, 13:28:42](https://news.ycombinator.com/item?id=40657937) - [Google Launches New Dataset Search Engine](https://datasetsearch.research.google.com/)
+* [2024-06-12, 13:45:46](https://news.ycombinator.com/item?id=40658095) - [Intel is trucking a 916,000-pound 'Super Load' across Ohio to its new fab](https://www.tomshardware.com/pc-components/cpus/intel-is-trucking-a-916000-pound-super-load-across-ohio-to-its-new-fab-spawning-road-closures-over-nine-days)
+* [2024-06-12, 13:28:42](https://news.ycombinator.com/item?id=40657937) - [Google Dataset Search Engine](https://datasetsearch.research.google.com/)
+* [2024-06-12, 13:25:19](https://news.ycombinator.com/item?id=40657890) - [iTerm2 v3.5.1 moves AI features into external plugin](https://iterm2.com/ai-plugin.html)
 * [2024-06-12, 12:19:02](https://news.ycombinator.com/item?id=40657238) - [AI Detectors Get It Wrong. Writers Are Being Fired Anyway](https://gizmodo.com/ai-detectors-inaccurate-freelance-writers-fired-1851529820)
 * [2024-06-12, 12:07:19](https://news.ycombinator.com/item?id=40657138) - [Samsung Document Showed 126 Ways iPhone Was Better Than S1 (2010) [pdf]](https://ia600908.us.archive.org/30/items/436142-samsung-relative-evaluation-report-on-s1-iphone/436142-samsung-relative-evaluation-report-on-s1-iphone.pdf)
 * [2024-06-12, 12:01:01](https://news.ycombinator.com/item?id=40657088) - [Fini (YC S22) Is Hiring a Front-End Engineer](https://news.ycombinator.com/item?id=40657088)
@@ -9,7 +11,6 @@
 * [2024-06-12, 10:48:39](https://news.ycombinator.com/item?id=40656603) - [Raspberry Pi is now a public company](https://techcrunch.com/2024/06/11/raspberry-pi-is-now-a-public-company-as-its-shares-pops-after-ipo-pricing/)
 * [2024-06-12, 03:32:43](https://news.ycombinator.com/item?id=40654190) - [Silicon Valley's best kept secret: Founder liquidity](https://www.stefantheard.com/silicon-valleys-best-kept-secret-founder-liquidity/)
 * [2024-06-12, 00:09:23](https://news.ycombinator.com/item?id=40653125) - [AES-GCM and breaking it on nonce reuse](https://frereit.de/aes_gcm/)
-* [2024-06-11, 20:03:57](https://news.ycombinator.com/item?id=40650844) - [Flameshot – Open-source screenshot software](https://flameshot.org/)
 * [2024-06-11, 19:06:39](https://news.ycombinator.com/item?id=40650173) - [The Rise and Fall of BNN Breaking, an AI-Generated News Outlet](https://www.nytimes.com/2024/06/06/technology/bnn-breaking-ai-generated-news.html)
 * [2024-06-11, 17:19:41](https://news.ycombinator.com/item?id=40648960) - [ARC Prize – a $1M+ competition towards open AGI progress](https://arcprize.org/blog/launch)
 * [2024-06-11, 16:44:11](https://news.ycombinator.com/item?id=40648470) - [Lynn Conway has died](https://en.wikipedia.org/wiki/Lynn_Conway)
@@ -28,7 +29,6 @@
 * [2024-06-10, 13:44:59](https://news.ycombinator.com/item?id=40633650) - [Francis Ford Coppola's “Godfather Notebook”](https://jillianhess.substack.com/p/re-noted-francis-ford-coppolas-godfather)
 * [2024-06-10, 12:49:50](https://news.ycombinator.com/item?id=40633029) - [Home-Cooked Software and Barefoot Developers](https://maggieappleton.com/home-cooked-software)
 * [2024-06-10, 12:02:19](https://news.ycombinator.com/item?id=40632654) - [How to make colored fire at home (2020)](https://sciencenotes.org/how-to-make-colored-fire/)
-* [2024-06-10, 10:37:46](https://news.ycombinator.com/item?id=40632070) - [Demystifying NPUs: Questions and Answers](https://thechipletter.substack.com/p/demystifying-npus-questions-and-answers)
 * [2024-06-09, 12:02:19](https://news.ycombinator.com/item?id=40623864) - [I built an ROV to solve missing person cases](https://suanto.com/2024/06/06/the-time-I-built-an-ROV-01/)
 
 ## [Archives](archives/index.md)
