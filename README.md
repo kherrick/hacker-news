@@ -4,7 +4,6 @@
 * [2024-06-12, 05:07:31](https://news.ycombinator.com/item?id=40654734) - [Why SQLite Is Taking over with Brian Holt and Marco Bambini](https://syntax.fm/show/779/why-sqlite-is-taking-over-with-brian-holt-and-marco-bambini)
 * [2024-06-12, 03:32:43](https://news.ycombinator.com/item?id=40654190) - [Silicon Valley's best kept secret: Founder liquidity](https://www.stefantheard.com/silicon-valleys-best-kept-secret-founder-liquidity/)
 * [2024-06-12, 00:09:23](https://news.ycombinator.com/item?id=40653125) - [AES-GCM and breaking it on nonce reuse](https://frereit.de/aes_gcm/)
-* [2024-06-11, 23:38:12](https://news.ycombinator.com/item?id=40652917) - [How much of a genius-level move was binary space partitioning in Doom? (2019)](https://twobithistory.org/2019/11/06/doom-bsp.html)
 * [2024-06-11, 23:11:31](https://news.ycombinator.com/item?id=40652731) - [Edward C. Stone, 1936-2024](https://www.caltech.edu/about/news/edward-stone-1936-2024)
 * [2024-06-11, 21:46:13](https://news.ycombinator.com/item?id=40651955) - [My Favourite Gleam Feature](https://erikarow.land/notes/gleam-favorite-feature)
 * [2024-06-11, 20:03:57](https://news.ycombinator.com/item?id=40650844) - [Flameshot – Open-source screenshot software](https://flameshot.org/)
@@ -29,6 +28,7 @@
 * [2024-06-10, 13:44:59](https://news.ycombinator.com/item?id=40633650) - [Francis Ford Coppola's “Godfather Notebook”](https://jillianhess.substack.com/p/re-noted-francis-ford-coppolas-godfather)
 * [2024-06-10, 12:49:50](https://news.ycombinator.com/item?id=40633029) - [Home-Cooked Software and Barefoot Developers](https://maggieappleton.com/home-cooked-software)
 * [2024-06-10, 12:02:19](https://news.ycombinator.com/item?id=40632654) - [How to make colored fire at home (2020)](https://sciencenotes.org/how-to-make-colored-fire/)
+* [2024-06-10, 10:37:46](https://news.ycombinator.com/item?id=40632070) - [Demystifying NPUs: Questions and Answers](https://thechipletter.substack.com/p/demystifying-npus-questions-and-answers)
 * [2024-06-09, 12:02:19](https://news.ycombinator.com/item?id=40623864) - [I built an ROV to solve missing person cases](https://suanto.com/2024/06/06/the-time-I-built-an-ROV-01/)
 
 ## [Archives](archives/index.md)
