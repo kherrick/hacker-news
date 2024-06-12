@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-12, 22:02:27](https://news.ycombinator.com/item?id=40663704) - [Gerald Sussman: Programming is (should be) fun (2022) [video]](https://www.youtube.com/watch?v=2MYzvQ1v8Ww)
 * [2024-06-12, 21:31:32](https://news.ycombinator.com/item?id=40663356) - [Japan enacts law to curb Apple, Google's app dominance](https://english.kyodonews.net/news/2024/06/bc2d7f45d456-japan-enacts-law-to-curb-apple-googles-app-dominance.html)
 * [2024-06-12, 21:01:21](https://news.ycombinator.com/item?id=40663070) - [Etleap (YC W13) Is Hiring Customer Success Manager (SF)](https://etleap.com/careers/customer-success-manager/)
 * [2024-06-12, 19:43:50](https://news.ycombinator.com/item?id=40662176) - [Japan enacts law to curb Apple, Google's app dominance](https://english.kyodonews.net/news/2024/06/bc2d7f45d456-japan-enacts-law-to-curb-apple-googles-app-dominance.html#google_vignette)
 * [2024-06-12, 17:58:14](https://news.ycombinator.com/item?id=40660986) - [Designing the avocado of uncertainty visualization](https://stamen.com/designing-the-avocado-of-uncertainty/)
 * [2024-06-12, 17:35:09](https://news.ycombinator.com/item?id=40660761) - [The GJK Algorithm: A weird and beautiful way to do a simple thing](https://computerwebsite.net/writing/gjk)
 * [2024-06-12, 17:27:33](https://news.ycombinator.com/item?id=40660689) - [Diffractive Chocolate](https://wp.optics.arizona.edu/oscoutreach/diffractive-chocolate/)
-* [2024-06-12, 16:35:06](https://news.ycombinator.com/item?id=40660036) - [Show HN: Semantic clusters and embeddings for 500k Hacker News comments](https://app.airtrain.ai/dataset/eb91081f-2003-494f-bd5d-084104db01f1/null/1/0)
 * [2024-06-12, 15:38:45](https://news.ycombinator.com/item?id=40659322) - [Accessing Math Solutions via Monte Carlo Self-Refine with LLaMa-3 8B](https://arxiv.org/abs/2406.07394)
 * [2024-06-12, 15:35:55](https://news.ycombinator.com/item?id=40659281) - [How Alexa dropped the ball on being the top conversational system](https://www.mihaileric.com/posts/how-alexa-dropped-the-ball-conversational-ai/)
 * [2024-06-12, 15:32:53](https://news.ycombinator.com/item?id=40659236) - [Launch HN: Overwatch (YC S22): OSINT platform for cyber and fraud risk](https://news.ycombinator.com/item?id=40659236)
