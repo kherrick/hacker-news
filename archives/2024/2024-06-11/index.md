@@ -64,6 +64,7 @@
 * [2024-06-11, 11:13:16](https://news.ycombinator.com/item?id=40644872) - [The Toxic Consequences of Attending a High Achieving School](https://petergray.substack.com/p/43-the-toxic-consequences-of-attending)
 * [2024-06-11, 10:55:01](https://news.ycombinator.com/item?id=40644750) - [Researchers make a supercapacitor from water, cement, and carbon black](https://www.bbc.com/future/article/20240610-how-the-concrete-in-your-house-could-be-turned-into-a-battery)
 * [2024-06-11, 10:54:08](https://news.ycombinator.com/item?id=40644745) - [Battery-swap networks are preventing emergency blackouts](https://www.technologyreview.com/2024/06/11/1093465/battery-swap-gogoro-taiwan-earthquake/)
+* [2024-06-11, 10:46:32](https://news.ycombinator.com/item?id=40644701) - [The Cast Iron Gallery](https://castirongallery.com/)
 * [2024-06-11, 10:42:03](https://news.ycombinator.com/item?id=40644674) - [George Gorton Machine Co engraver typefaces](http://luc.devroye.org/fonts-80708.html)
 * [2024-06-11, 10:33:03](https://news.ycombinator.com/item?id=40644605) - [When Water Flows Uphill [video]](https://www.youtube.com/watch?v=zzKgnNGqxMw)
 * [2024-06-11, 10:30:18](https://news.ycombinator.com/item?id=40644585) - [The Google Pay app is dead](https://arstechnica.com/gadgets/2024/06/google-shuts-down-the-google-pay-app/)

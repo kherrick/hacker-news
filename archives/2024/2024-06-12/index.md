@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-12](index.md)
 
+* [2024-06-12, 16:00:25](https://news.ycombinator.com/item?id=40659597) - [Code Finder – The ultimate search engine for GitHub repositories](https://codefinder.dev)
+* [2024-06-12, 15:35:55](https://news.ycombinator.com/item?id=40659281) - [Alexa Dropped the Ball on Being the Top Conversational System on the Planet](https://www.mihaileric.com/posts/how-alexa-dropped-the-ball-conversational-ai/)
 * [2024-06-12, 15:32:53](https://news.ycombinator.com/item?id=40659236) - [Launch HN: Overwatch (YC S22): OSINT platform for cyber and fraud risk](https://news.ycombinator.com/item?id=40659236)
 * [2024-06-12, 15:25:23](https://news.ycombinator.com/item?id=40659160) - [Show HN: Restate, low-latency durable workflows for JavaScript/Java, in Rust](https://restate.dev/blog/announcing-restate-1.0-restate-cloud-and-our-seed-funding-round/)
 * [2024-06-12, 15:25:23](https://news.ycombinator.com/item?id=40659160) - [Show HN: Restate – low-latency durable workflows for JavaScript/Java, in Rust](https://restate.dev/)
