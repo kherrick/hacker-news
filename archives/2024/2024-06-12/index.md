@@ -6,6 +6,8 @@
 
 * [2024-06-12, 15:32:53](https://news.ycombinator.com/item?id=40659236) - [Launch HN: Overwatch (YC S22): OSINT platform for cyber and fraud risk](https://news.ycombinator.com/item?id=40659236)
 * [2024-06-12, 15:25:23](https://news.ycombinator.com/item?id=40659160) - [Show HN: Restate, low-latency durable workflows for JavaScript/Java, in Rust](https://restate.dev/blog/announcing-restate-1.0-restate-cloud-and-our-seed-funding-round/)
+* [2024-06-12, 15:25:23](https://news.ycombinator.com/item?id=40659160) - [Show HN: Restate – low-latency durable workflows for JavaScript/Java, in Rust](https://restate.dev/)
+* [2024-06-12, 15:01:30](https://news.ycombinator.com/item?id=40658928) - [Python wheel filenames have no canonical form](https://blog.yossarian.net/2024/06/12/Python-wheel-filenames-have-no-canonical-form)
 * [2024-06-12, 14:59:04](https://news.ycombinator.com/item?id=40658901) - [Star botanist likely made up data about nutritional supplements, new probe finds](https://www.science.org/content/article/star-botanist-likely-made-data-about-nutritional-supplements-new-probe-finds)
 * [2024-06-12, 14:07:17](https://news.ycombinator.com/item?id=40658335) - [Firefox Browser Blocks anti-censorship add-ons at Russia's request](https://theintercept.com/2024/06/12/mozilla-firefox-russia-censorship-blocked/)
 * [2024-06-12, 13:45:46](https://news.ycombinator.com/item?id=40658095) - [Intel is trucking a 916,000-pound 'Super Load' across Ohio to its new fab](https://www.tomshardware.com/pc-components/cpus/intel-is-trucking-a-916000-pound-super-load-across-ohio-to-its-new-fab-spawning-road-closures-over-nine-days)

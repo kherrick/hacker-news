@@ -59,6 +59,7 @@
 * [2024-06-11, 12:29:24](https://news.ycombinator.com/item?id=40645439) - [The Titan Submersible Disaster. The Inside Story Is More Disturbing](https://www.wired.com/story/titan-submersible-disaster-inside-story-oceangate-files/)
 * [2024-06-11, 12:00:24](https://news.ycombinator.com/item?id=40645203) - [A baseball loving physicist looks at the knuckleball](https://www.baseballprospectus.com/news/article/15919/baseball-proguestus-the-knuckleball-mystique-using-pitchfx-to-distinguish-perception-from-reality/)
 * [2024-06-11, 11:54:24](https://news.ycombinator.com/item?id=40645161) - [Making iron gall ink from oak galls](https://nyanpasu64.gitlab.io/blog/iron-gall-ink/)
+* [2024-06-11, 11:34:17](https://news.ycombinator.com/item?id=40645015) - [Metaflora](https://flora.metazooa.com)
 * [2024-06-11, 11:21:58](https://news.ycombinator.com/item?id=40644944) - [Computing firm Raspberry Pi pops 31% in rare London market debut](https://www.cnbc.com/2024/06/11/rasperry-pi-ipo-computing-firm-to-raise-211-million.html)
 * [2024-06-11, 11:13:16](https://news.ycombinator.com/item?id=40644872) - [The Toxic Consequences of Attending a High Achieving School](https://petergray.substack.com/p/43-the-toxic-consequences-of-attending)
 * [2024-06-11, 10:55:01](https://news.ycombinator.com/item?id=40644750) - [Researchers make a supercapacitor from water, cement, and carbon black](https://www.bbc.com/future/article/20240610-how-the-concrete-in-your-house-could-be-turned-into-a-battery)
