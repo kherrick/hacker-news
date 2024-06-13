@@ -14,6 +14,7 @@
 * [2024-06-13, 20:53:48](https://news.ycombinator.com/item?id=40674649) - [Encodings for flattened heap values](https://cr.openjdk.org/~jrose/values/flattened-values.html)
 * [2024-06-13, 20:49:25](https://news.ycombinator.com/item?id=40674590) - [Unity Catalog: Open, Multi-Modal Catalog for Data and AI](https://github.com/unitycatalog/unitycatalog)
 * [2024-06-13, 20:38:39](https://news.ycombinator.com/item?id=40674439) - [Boeing's Starliner Now Has 5 Leaks While Parked Outside the ISS](https://gizmodo.com/boeing-starliner-spacecraft-fifth-helium-leak-iss-nasa-1851534977)
+* [2024-06-13, 20:18:06](https://news.ycombinator.com/item?id=40674208) - [Rent in Cities Skylines 2 was too high, so the devs removed landlords](https://arstechnica.com/gaming/2024/06/the-rent-is-too-dang-high-in-cities-skylines-2-so-the-devs-nuked-the-landlords/)
 * [2024-06-13, 20:07:22](https://news.ycombinator.com/item?id=40674073) - [Taking away iPhone made daughter a better person](https://www.theguardian.com/technology/article/2024/jun/13/kids-no-iphone-screen-time)
 * [2024-06-13, 19:52:53](https://news.ycombinator.com/item?id=40673877) - [Kavanaugh writes 9-0 opinion rejecting restriction on abortion pill access [pdf]](https://www.supremecourt.gov/opinions/23pdf/23-235_n7ip.pdf)
 * [2024-06-13, 19:49:27](https://news.ycombinator.com/item?id=40673833) - [Pay $1 to Hear Wu-Tang Clan’s Secret Album (Eventually)](https://www.nytimes.com/2024/06/13/arts/music/wu-tang-clan-once-upon-a-time-in-shaolin.html)
