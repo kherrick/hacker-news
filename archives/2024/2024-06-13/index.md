@@ -7,6 +7,7 @@
 * [2024-06-13, 21:12:47](https://news.ycombinator.com/item?id=40674835) - [OpenAI Appoints Retired U.S. Army General to Board of Directors](https://openai.com/index/openai-appoints-retired-us-army-general/)
 * [2024-06-13, 21:02:14](https://news.ycombinator.com/item?id=40674743) - [Skio (Subscriptions for Shopify, ReCharge migrations) is hiring](https://skio.com/careers/)
 * [2024-06-13, 21:00:05](https://news.ycombinator.com/item?id=40674722) - [European Content Removal Laws Scrub the Internet of Legal Content](https://www.techdirt.com/2024/06/13/european-content-removal-laws-are-scrubbing-the-internet-of-completely-legal-content/)
+* [2024-06-13, 20:38:39](https://news.ycombinator.com/item?id=40674439) - [Boeing's Starliner Now Has 5 Leaks While Parked Outside the ISS](https://gizmodo.com/boeing-starliner-spacecraft-fifth-helium-leak-iss-nasa-1851534977)
 * [2024-06-13, 20:07:22](https://news.ycombinator.com/item?id=40674073) - [Taking away iPhone made daughter a better person](https://www.theguardian.com/technology/article/2024/jun/13/kids-no-iphone-screen-time)
 * [2024-06-13, 19:49:27](https://news.ycombinator.com/item?id=40673833) - [Pay $1 to Hear Wu-Tang Clan’s Secret Album (Eventually)](https://www.nytimes.com/2024/06/13/arts/music/wu-tang-clan-once-upon-a-time-in-shaolin.html)
 * [2024-06-13, 19:28:22](https://news.ycombinator.com/item?id=40673567) - [Saudi Arabia ends 50-year petrodollar pact with US](https://www.nasdaq.com/articles/us-saudi-petrodollar-pact-ends-after-50-years)
