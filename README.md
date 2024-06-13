@@ -1,7 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-13, 23:30:43](https://news.ycombinator.com/item?id=40676021) - [The Stanford Internet Observatory is being dismantled](https://www.platformer.news/stanford-internet-observatory-shutdown-stamos-diresta-sio/)
-* [2024-06-13, 22:17:57](https://news.ycombinator.com/item?id=40675468) - [OpenAI Doubles Annualized Revenue to $3.4B](https://www.bloomberg.com/news/articles/2024-06-12/openai-doubles-annualized-revenue-to-3-4-billion-information)
 * [2024-06-13, 20:53:48](https://news.ycombinator.com/item?id=40674649) - [Encodings for flattened heap values](https://cr.openjdk.org/~jrose/values/flattened-values.html)
 * [2024-06-13, 20:18:06](https://news.ycombinator.com/item?id=40674208) - [Rent in Cities Skylines 2 was too high, so the devs removed landlords](https://arstechnica.com/gaming/2024/06/the-rent-is-too-dang-high-in-cities-skylines-2-so-the-devs-nuked-the-landlords/)
 * [2024-06-13, 20:12:14](https://news.ycombinator.com/item?id=40674135) - [IKEA's retailer's solved global 'unhappy worker' crisis by raising salaries](https://fortune.com/europe/2024/06/11/ikeas-boss-solved-swedish-retailers-global-unhappy-worker-crisis-raising-salaries-introducing-flexible-working-subsidized-childcare/)
@@ -10,7 +8,9 @@
 * [2024-06-13, 18:43:17](https://news.ycombinator.com/item?id=40673091) - [Mouth-based touchpad enables people living with paralysis to use computers](https://news.mit.edu/2024/mouth-based-touchpad-augmental-0605)
 * [2024-06-13, 18:20:31](https://news.ycombinator.com/item?id=40672843) - [Show HN: Paramount – Human Evals of AI Customer Support](https://github.com/ask-fini/paramount)
 * [2024-06-13, 18:01:34](https://news.ycombinator.com/item?id=40672653) - [The Art of the Epigraph](https://themillions.com/2014/06/the-art-of-the-epigraph.html)
+* [2024-06-13, 17:14:33](https://news.ycombinator.com/item?id=40672158) - [Ted Chiang has won the PEN/Faulkner Foundation's short story prize](https://lithub.com/ted-chiang-has-won-the-pen-faulkner-foundations-short-story-prize/)
 * [2024-06-13, 17:00:56](https://news.ycombinator.com/item?id=40672027) - [Tesorio (YC S15) Is Hiring a Senior GenAI/LLM Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
+* [2024-06-13, 16:34:05](https://news.ycombinator.com/item?id=40671738) - [IntelliJ GitHub Plugin leaking credentials](https://blog.jetbrains.com/security/2024/06/updates-for-security-issue-affecting-intellij-based-ides-2023-1-and-github-plugin/)
 * [2024-06-13, 15:31:30](https://news.ycombinator.com/item?id=40670898) - [AMD CEO Lisa Su reminisces about designing the PS3's infamous Cell processor](https://www.tomshardware.com/tech-industry/amd-ceo-lisa-su-reminisces-on-helping-design-the-ps3s-infamous-cell-processor-at-ibm)
 * [2024-06-13, 15:05:18](https://news.ycombinator.com/item?id=40670612) - [MLow: Meta's low bitrate audio codec](https://engineering.fb.com/2024/06/13/web/mlow-metas-low-bitrate-audio-codec/)
 * [2024-06-13, 14:25:51](https://news.ycombinator.com/item?id=40670096) - [Luma AI Dream Machine](https://lumalabs.ai/dream-machine)
@@ -24,12 +24,12 @@
 * [2024-06-12, 12:44:14](https://news.ycombinator.com/item?id=40657467) - [Drawing Machines](https://drawingmachines.org/)
 * [2024-06-12, 12:34:39](https://news.ycombinator.com/item?id=40657371) - [Ideal OS: Rebooting the Desktop Operating System (2017)](https://joshondesign.com/2017/08/18/idealos_essay)
 * [2024-06-12, 09:19:20](https://news.ycombinator.com/item?id=40656125) - [My Thoughts on Python in Excel](https://www.xlwings.org/blog/my-thoughts-on-python-in-excel)
-* [2024-06-12, 07:47:06](https://news.ycombinator.com/item?id=40655605) - [Textile-based electrochemical sensors](https://medhir.com/blog/textile-based-electrochemical-sensors)
 * [2024-06-11, 17:44:41](https://news.ycombinator.com/item?id=40649282) - [Progressive Web Apps (PWAs) Phishing](https://mrd0x.com/progressive-web-apps-pwa-phishing/)
 * [2024-06-11, 15:54:24](https://news.ycombinator.com/item?id=40647811) - [Borges on Chaos Theory](https://aethermug.com/posts/borges-on-chaos-theory)
 * [2024-06-11, 14:25:28](https://news.ycombinator.com/item?id=40646528) - [Solving Probabilistic Tic-Tac-Toe](https://louisabraham.github.io/articles/probabilistic-tic-tac-toe)
 * [2024-06-11, 13:05:52](https://news.ycombinator.com/item?id=40645773) - [Mushroom hunters can't stop finding mysterious fungi](https://www.nytimes.com/2024/06/11/science/mushroom-hunters-dna.html)
 * [2024-06-11, 10:26:21](https://news.ycombinator.com/item?id=40644562) - [Scan HTML faster with SIMD instructions – Chrome edition](https://lemire.me/blog/2024/06/08/scan-html-faster-with-simd-instructions-chrome-edition/)
+* [2024-06-11, 09:35:34](https://news.ycombinator.com/item?id=40644261) - [Perspective-Correct Interpolation](https://andrewkchan.dev/posts/perspective-interpolation.html)
 
 ## [Archives](archives/index.md)
 
