@@ -82,6 +82,7 @@
 * [2024-06-12, 11:13:52](https://news.ycombinator.com/item?id=40656747) - [Elixir 1.17 released: set-theoretic types in patterns, durations, OTP 27](https://elixir-lang.org/blog/2024/06/12/elixir-v1-17-0-released/)
 * [2024-06-12, 10:48:39](https://news.ycombinator.com/item?id=40656603) - [Raspberry Pi is now a public company](https://techcrunch.com/2024/06/11/raspberry-pi-is-now-a-public-company-as-its-shares-pops-after-ipo-pricing/)
 * [2024-06-12, 10:20:42](https://news.ycombinator.com/item?id=40656466) - [Waymo issues software and mapping recall after robotaxi crashes into a pole](https://www.theverge.com/2024/6/12/24175489/waymo-recall-telephone-poll-crash-phoenix-software-map)
+* [2024-06-12, 09:19:20](https://news.ycombinator.com/item?id=40656125) - [My Thoughts on Python in Excel](https://www.xlwings.org/blog/my-thoughts-on-python-in-excel)
 * [2024-06-12, 09:12:31](https://news.ycombinator.com/item?id=40656099) - [Diminuendo Lagrimoso: Tracing the decline of big opera voices (2023) [pdf]](https://www.princeton.edu/~amoravcs/library/Diminuedo%20Lagrimoso.pdf)
 * [2024-06-12, 08:30:20](https://news.ycombinator.com/item?id=40655846) - [Germany gets informal EU go-ahead to support gas-fired power, sources say](https://www.reuters.com/business/energy/germany-gets-informal-eus-go-ahead-support-gas-fired-power-sources-say-2024-06-07/)
 * [2024-06-12, 07:58:53](https://news.ycombinator.com/item?id=40655668) - [How to Untangle Phone Numbers](https://factbranch.com/blog/2024/normalize-phone-numbers/)
