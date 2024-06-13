@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-13, 09:57:58](https://news.ycombinator.com/item?id=40667733) - [Apple to 'Pay' OpenAI for ChatGPT Through Distribution, Not Cash](https://www.bloomberg.com/news/articles/2024-06-12/apple-to-pay-openai-for-chatgpt-through-distribution-not-cash)
+* [2024-06-13, 09:33:12](https://news.ycombinator.com/item?id=40667606) - [Arm says it wants all Snapdragon X Elite laptops destroyed](https://www.xda-developers.com/arm-says-it-wants-all-snapdragon-x-elite-laptops-destroyed/)
+* [2024-06-13, 08:58:48](https://news.ycombinator.com/item?id=40667416) - [Apple to 'Pay' OpenAI for ChatGPT Through Distribution, Not Cash](https://www.bnnbloomberg.ca/apple-to-pay-openai-for-chatgpt-through-distribution-not-cash-1.2084539)
 * [2024-06-13, 07:57:56](https://news.ycombinator.com/item?id=40667102) - [AMD's MI300X Outperforms Nvidia's H100 for LLM Inference](https://www.blog.tensorwave.com/amds-mi300x-outperforms-nvidias-h100-for-llm-inference/)
 * [2024-06-13, 03:44:55](https://news.ycombinator.com/item?id=40665734) - [What If We Recaption Billions of Web Images with LLaMA-3?](https://arxiv.org/abs/2406.08478)
 * [2024-06-13, 03:42:39](https://news.ycombinator.com/item?id=40665721) - [Uncensor any LLM with abliteration](https://huggingface.co/blog/mlabonne/abliteration)
@@ -13,11 +16,9 @@
 * [2024-06-12, 17:35:09](https://news.ycombinator.com/item?id=40660761) - [The GJK Algorithm: A weird and beautiful way to do a simple thing](https://computerwebsite.net/writing/gjk)
 * [2024-06-12, 17:27:33](https://news.ycombinator.com/item?id=40660689) - [Diffractive Chocolate](https://wp.optics.arizona.edu/oscoutreach/diffractive-chocolate/)
 * [2024-06-12, 15:32:53](https://news.ycombinator.com/item?id=40659236) - [Launch HN: Overwatch (YC S22): OSINT platform for cyber and fraud risk](https://news.ycombinator.com/item?id=40659236)
-* [2024-06-12, 14:59:04](https://news.ycombinator.com/item?id=40658901) - [Star botanist likely made up data about nutritional supplements, new probe finds](https://www.science.org/content/article/star-botanist-likely-made-data-about-nutritional-supplements-new-probe-finds)
 * [2024-06-12, 12:55:15](https://news.ycombinator.com/item?id=40657574) - [Serious Sam handled massive amounts of enemies on 56k modem connections](https://staniks.github.io/articles/serious-engine-networking-analysis)
 * [2024-06-12, 11:20:16](https://news.ycombinator.com/item?id=40656780) - [Faxes From the Far Side (2015)](https://www.damninteresting.com/faxes-from-the-far-side/)
 * [2024-06-12, 11:13:52](https://news.ycombinator.com/item?id=40656747) - [Elixir 1.17 released: set-theoretic types in patterns, durations, OTP 27](https://elixir-lang.org/blog/2024/06/12/elixir-v1-17-0-released/)
-* [2024-06-12, 01:05:40](https://news.ycombinator.com/item?id=40653417) - [Show HN: PDF to Podcast – Convert Any PDF into a Podcast Episode](https://pdf-to-podcast.com)
 * [2024-06-11, 20:16:23](https://news.ycombinator.com/item?id=40650974) - [Lexbor – An open source HTML Renderer library](https://github.com/lexbor/lexbor)
 * [2024-06-11, 16:40:12](https://news.ycombinator.com/item?id=40648404) - [Show HN: A keyboard-centric clipboard history app for macOS](https://clipbook.app/)
 * [2024-06-11, 16:15:47](https://news.ycombinator.com/item?id=40648082) - [Twenty, a modern CRM alternative to Salesforce](https://twenty.com)
@@ -29,7 +30,6 @@
 * [2024-06-11, 11:24:20](https://news.ycombinator.com/item?id=40644960) - [Author Clock: a novel way to tell time](https://www.authorclock.com/)
 * [2024-06-11, 10:55:01](https://news.ycombinator.com/item?id=40644750) - [Researchers make a supercapacitor from water, cement, and carbon black](https://www.bbc.com/future/article/20240610-how-the-concrete-in-your-house-could-be-turned-into-a-battery)
 * [2024-06-11, 09:51:48](https://news.ycombinator.com/item?id=40644366) - [Medieval game pieces emerge from the ruins of a German castle](https://news.artnet.com/art-world/medieval-game-pieces-emerge-from-the-ruins-of-a-mysterious-german-castle-2497815)
-* [2024-06-10, 19:41:06](https://news.ycombinator.com/item?id=40637816) - [Beyond the wall: Working with aperiodic tilings using finite-state transducers](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-transducers/)
 
 ## [Archives](archives/index.md)
 
