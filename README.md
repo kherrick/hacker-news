@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-13, 22:29:40](https://news.ycombinator.com/item?id=40675577) - [Lamini Memory Tuning: 10x Fewer Hallucinations](https://www.lamini.ai/blog/lamini-memory-tuning)
 * [2024-06-13, 20:53:48](https://news.ycombinator.com/item?id=40674649) - [Encodings for flattened heap values](https://cr.openjdk.org/~jrose/values/flattened-values.html)
 * [2024-06-13, 20:18:06](https://news.ycombinator.com/item?id=40674208) - [Rent in Cities Skylines 2 was too high, so the devs removed landlords](https://arstechnica.com/gaming/2024/06/the-rent-is-too-dang-high-in-cities-skylines-2-so-the-devs-nuked-the-landlords/)
 * [2024-06-13, 20:12:14](https://news.ycombinator.com/item?id=40674135) - [IKEA's retailer's solved global 'unhappy worker' crisis by raising salaries](https://fortune.com/europe/2024/06/11/ikeas-boss-solved-swedish-retailers-global-unhappy-worker-crisis-raising-salaries-introducing-flexible-working-subsidized-childcare/)
@@ -29,7 +30,6 @@
 * [2024-06-11, 14:25:28](https://news.ycombinator.com/item?id=40646528) - [Solving Probabilistic Tic-Tac-Toe](https://louisabraham.github.io/articles/probabilistic-tic-tac-toe)
 * [2024-06-11, 13:05:52](https://news.ycombinator.com/item?id=40645773) - [Mushroom hunters can't stop finding mysterious fungi](https://www.nytimes.com/2024/06/11/science/mushroom-hunters-dna.html)
 * [2024-06-11, 10:26:21](https://news.ycombinator.com/item?id=40644562) - [Scan HTML faster with SIMD instructions – Chrome edition](https://lemire.me/blog/2024/06/08/scan-html-faster-with-simd-instructions-chrome-edition/)
-* [2024-06-11, 09:35:34](https://news.ycombinator.com/item?id=40644261) - [Perspective-Correct Interpolation](https://andrewkchan.dev/posts/perspective-interpolation.html)
 
 ## [Archives](archives/index.md)
 
