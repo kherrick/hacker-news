@@ -3,7 +3,6 @@
 * [2024-06-13, 10:23:51](https://news.ycombinator.com/item?id=40667878) - [Germany is No 1 in Europe for EV production, No 2 in the world](https://electrek.co/2024/06/11/germany-automakers-ev-production/)
 * [2024-06-13, 10:20:10](https://news.ycombinator.com/item?id=40667863) - [Surprising New Renewable Power Source Has 'Negative Carbon Emissions'](https://www.newsweek.com/algae-renewable-power-source-1911875)
 * [2024-06-13, 10:06:26](https://news.ycombinator.com/item?id=40667786) - [Potential Ozone Depletion from Satellite Demise During Atmospheric Reentry](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL109280)
-* [2024-06-13, 10:04:13](https://news.ycombinator.com/item?id=40667775) - [What Do Google's AI Answers Cost the Environment?](https://www.scientificamerican.com/article/what-do-googles-ai-answers-cost-the-environment/)
 * [2024-06-13, 09:33:12](https://news.ycombinator.com/item?id=40667606) - [Arm says it wants all Snapdragon X Elite laptops destroyed](https://www.xda-developers.com/arm-says-it-wants-all-snapdragon-x-elite-laptops-destroyed/)
 * [2024-06-13, 09:20:52](https://news.ycombinator.com/item?id=40667545) - [Is Aschenbrenner's 165 page paper on AI the naivety of a 25 year old?](https://fikisipi.substack.com/p/is-aschenbrenners-165-page-paper)
 * [2024-06-13, 09:17:10](https://news.ycombinator.com/item?id=40667524) - [Is the Future of Moore's Law in a Particle Accelerator?](https://spectrum.ieee.org/euv-fel)
@@ -29,6 +28,7 @@
 * [2024-06-11, 14:58:52](https://news.ycombinator.com/item?id=40646940) - [Banana giant Chiquita held liable by US court for funding paramilitaries](https://www.bbc.com/news/articles/c6pprpd3x96o)
 * [2024-06-11, 13:00:37](https://news.ycombinator.com/item?id=40645726) - [Centuries of Childhood](https://resobscura.substack.com/p/centuries-of-childhood)
 * [2024-06-11, 11:24:20](https://news.ycombinator.com/item?id=40644960) - [Author Clock: a novel way to tell time](https://www.authorclock.com/)
+* [2024-06-11, 10:55:01](https://news.ycombinator.com/item?id=40644750) - [Researchers make a supercapacitor from water, cement, and carbon black](https://www.bbc.com/future/article/20240610-how-the-concrete-in-your-house-could-be-turned-into-a-battery)
 * [2024-06-11, 09:51:48](https://news.ycombinator.com/item?id=40644366) - [Medieval game pieces emerge from the ruins of a German castle](https://news.artnet.com/art-world/medieval-game-pieces-emerge-from-the-ruins-of-a-mysterious-german-castle-2497815)
 
 ## [Archives](archives/index.md)
