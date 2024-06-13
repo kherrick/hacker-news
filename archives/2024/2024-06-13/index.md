@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-13](index.md)
 
+* [2024-06-13, 19:28:22](https://news.ycombinator.com/item?id=40673567) - [Saudi Arabia ends 50-year petrodollar pact with US](https://www.nasdaq.com/articles/us-saudi-petrodollar-pact-ends-after-50-years)
 * [2024-06-13, 18:43:17](https://news.ycombinator.com/item?id=40673091) - [Mouth-based touchpad enables people living with paralysis to use computers](https://news.mit.edu/2024/mouth-based-touchpad-augmental-0605)
 * [2024-06-13, 18:40:19](https://news.ycombinator.com/item?id=40673064) - [Chinese Yuan becomes Russia's main foreign currency, replacing Dollar and Euro](https://unn.ua/en/news/the-chinese-yuan-officially-became-russias-main-foreign-currency-replacing-the-dollar-and-the-euro)
 * [2024-06-13, 18:37:59](https://news.ycombinator.com/item?id=40673039) - [Ask HN: Widespread Apathy?](https://news.ycombinator.com/item?id=40673039)
@@ -28,6 +29,7 @@
 * [2024-06-13, 14:41:18](https://news.ycombinator.com/item?id=40670309) - [US Supreme Court backs Starbucks over fired pro-union workers](https://www.reuters.com/legal/us-supreme-court-backs-starbucks-over-fired-pro-union-workers-2024-06-13/)
 * [2024-06-13, 14:37:06](https://news.ycombinator.com/item?id=40670242) - [Iridescence in Meat Caused by Surface Gratings](https://www.mdpi.com/2304-8158/2/4/499)
 * [2024-06-13, 14:33:29](https://news.ycombinator.com/item?id=40670191) - [Wells Fargo Fires over a Dozen for 'Simulation of Keyboard Activity'](https://finance.yahoo.com/news/wells-fargo-fires-over-dozen-133711267.html)
+* [2024-06-13, 14:25:51](https://news.ycombinator.com/item?id=40670096) - [Luma AI Dream Machine](https://lumalabs.ai/dream-machine)
 * [2024-06-13, 14:08:49](https://news.ycombinator.com/item?id=40669866) - [Wells Fargo Fires Over a Dozen for 'Simulation of Keyboard Activity'](https://www.bloomberg.com/news/articles/2024-06-13/wells-fires-over-a-dozen-for-simulation-of-keyboard-activity)
 * [2024-06-13, 14:06:31](https://news.ycombinator.com/item?id=40669827) - [The Qualcomm Snapdragon X Architecture Deep Dive: Getting to Know Oryon](https://www.anandtech.com/show/21445/qualcomm-snapdragon-x-architecture-deep-dive)
 * [2024-06-13, 13:48:22](https://news.ycombinator.com/item?id=40669603) - [China has become a scientific superpower](https://www.economist.com/science-and-technology/2024/06/12/china-has-become-a-scientific-superpower)
