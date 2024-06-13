@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-13, 05:08:10](https://news.ycombinator.com/item?id=40666152) - [Microsoft's Nadella is building an AI empire](https://www.wsj.com/tech/ai/microsoft-nadella-openai-inflection-9727e77a)
 * [2024-06-13, 03:42:39](https://news.ycombinator.com/item?id=40665721) - [Uncensor Any LLM with Abliteration](https://huggingface.co/blog/mlabonne/abliteration)
 * [2024-06-13, 01:58:34](https://news.ycombinator.com/item?id=40665194) - [Can LLMs invent better ways to train LLMs?](https://sakana.ai/llm-squared/)
 * [2024-06-13, 00:08:09](https://news.ycombinator.com/item?id=40664541) - [Minuimus is a file optimiser utility script](https://birds-are-nice.me/software/minuimus.html)
@@ -18,7 +19,6 @@
 * [2024-06-12, 12:55:15](https://news.ycombinator.com/item?id=40657574) - [Serious Sam handled massive amounts of enemies on 56k modem connections](https://staniks.github.io/articles/serious-engine-networking-analysis)
 * [2024-06-12, 11:20:16](https://news.ycombinator.com/item?id=40656780) - [Faxes from the Far Side of the Moon (2018)](https://www.damninteresting.com/faxes-from-the-far-side/)
 * [2024-06-12, 11:13:52](https://news.ycombinator.com/item?id=40656747) - [Elixir 1.17 released: set-theoretic types in patterns, durations, OTP 27](https://elixir-lang.org/blog/2024/06/12/elixir-v1-17-0-released/)
-* [2024-06-12, 01:05:40](https://news.ycombinator.com/item?id=40653417) - [Show HN: PDF to Podcast – Convert Any PDF into a Podcast Episode](https://pdf-to-podcast.com)
 * [2024-06-11, 20:16:23](https://news.ycombinator.com/item?id=40650974) - [Lexbor – An open source HTML Renderer library](https://github.com/lexbor/lexbor)
 * [2024-06-11, 16:15:47](https://news.ycombinator.com/item?id=40648082) - [Twenty, a modern CRM alternative to Salesforce](https://twenty.com)
 * [2024-06-11, 14:58:52](https://news.ycombinator.com/item?id=40646940) - [Banana giant Chiquita held liable by US court for funding paramilitaries](https://www.bbc.com/news/articles/c6pprpd3x96o)
