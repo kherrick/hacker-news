@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2024-06-12, 15:38:45",
-      "https://news.ycombinator.com/item?id=40659322"
-    ],
-    [
-      "Accessing Math Solutions via Monte Carlo Self-Refine with LLaMa-3 8B",
-      "https://arxiv.org/abs/2406.07394"
-    ]
-  ],
-  [
-    [
       "2024-06-12, 15:32:53",
       "https://news.ycombinator.com/item?id=40659236"
     ],
@@ -287,6 +277,16 @@
     [
       "How to get the most out of Postgres memory settings",
       "https://tembo.io/blog/optimizing-memory-usage"
+    ]
+  ],
+  [
+    [
+      "2024-06-10, 19:41:06",
+      "https://news.ycombinator.com/item?id=40637816"
+    ],
+    [
+      "Beyond the wall: Working with aperiodic tilings using finite-state transducers",
+      "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-transducers/"
     ]
   ],
   [
