@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-06-13](index.md)
 
+* [2024-06-13, 10:23:51](https://news.ycombinator.com/item?id=40667878) - [Germany is No 1 in Europe for EV production, No 2 in the world](https://electrek.co/2024/06/11/germany-automakers-ev-production/)
+* [2024-06-13, 10:20:10](https://news.ycombinator.com/item?id=40667863) - [Surprising New Renewable Power Source Has 'Negative Carbon Emissions'](https://www.newsweek.com/algae-renewable-power-source-1911875)
+* [2024-06-13, 10:15:47](https://news.ycombinator.com/item?id=40667837) - [Why don't women like nuclear power?](https://twitter.com/Andercot/status/1800872960896700839)
 * [2024-06-13, 10:04:13](https://news.ycombinator.com/item?id=40667775) - [What Do Google's AI Answers Cost the Environment?](https://www.scientificamerican.com/article/what-do-googles-ai-answers-cost-the-environment/)
 * [2024-06-13, 09:57:58](https://news.ycombinator.com/item?id=40667733) - [Apple to 'Pay' OpenAI for ChatGPT Through Distribution, Not Cash](https://www.bloomberg.com/news/articles/2024-06-12/apple-to-pay-openai-for-chatgpt-through-distribution-not-cash)
 * [2024-06-13, 09:33:12](https://news.ycombinator.com/item?id=40667606) - [Arm says it wants all Snapdragon X Elite laptops destroyed](https://www.xda-developers.com/arm-says-it-wants-all-snapdragon-x-elite-laptops-destroyed/)
+* [2024-06-13, 09:20:52](https://news.ycombinator.com/item?id=40667545) - [Is Aschenbrenner's 165 page paper on AI the naivety of a 25 year old?](https://fikisipi.substack.com/p/is-aschenbrenners-165-page-paper)
+* [2024-06-13, 09:17:10](https://news.ycombinator.com/item?id=40667524) - [Is the Future of Moore's Law in a Particle Accelerator?](https://spectrum.ieee.org/euv-fel)
 * [2024-06-13, 08:58:48](https://news.ycombinator.com/item?id=40667416) - [Apple to 'Pay' OpenAI for ChatGPT Through Distribution, Not Cash](https://www.bnnbloomberg.ca/apple-to-pay-openai-for-chatgpt-through-distribution-not-cash-1.2084539)
 * [2024-06-13, 07:57:56](https://news.ycombinator.com/item?id=40667102) - [AMD's MI300X Outperforms Nvidia's H100 for LLM Inference](https://www.blog.tensorwave.com/amds-mi300x-outperforms-nvidias-h100-for-llm-inference/)
 * [2024-06-13, 06:56:53](https://news.ycombinator.com/item?id=40666757) - [Ray Tracing with POV-Ray: 25 Scenes in 25 Days](https://github.com/susam/pov25)
