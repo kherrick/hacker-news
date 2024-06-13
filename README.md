@@ -1,11 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-13, 13:30:38](https://news.ycombinator.com/item?id=40669419) - [Canada Imposes 5% Tax on Streaming to Fund Local News, Diverse Content](https://www.techdirt.com/2024/06/13/canada-imposes-5-tax-on-streaming-to-fund-local-news-diverse-content/)
 * [2024-06-13, 13:22:29](https://news.ycombinator.com/item?id=40669337) - [Show HN: Shpool, a Lightweight Tmux Alternative](https://github.com/shell-pool/shpool)
 * [2024-06-13, 12:27:22](https://news.ycombinator.com/item?id=40668803) - [iTerm 3.5.1 removes automatic OpenAI integration, requires opt-in](https://iterm2.com/downloads.html)
 * [2024-06-13, 12:00:36](https://news.ycombinator.com/item?id=40668572) - [Reworkd (YC S23) Is Hiring a founding back end/infrastructure engineer](https://www.ycombinator.com/companies/reworkd/jobs/4f6BHpT-founding-engineer)
 * [2024-06-13, 11:53:11](https://news.ycombinator.com/item?id=40668504) - [Southwest Airlines Boeing 737-8 Max Experienced Dutch Roll](https://avherald.com/h?article=519ce679)
-* [2024-06-13, 11:48:46](https://news.ycombinator.com/item?id=40668459) - [Ask HN: Is it just me, or does the job market for IT seem bad today?](https://news.ycombinator.com/item?id=40668459)
 * [2024-06-13, 11:02:11](https://news.ycombinator.com/item?id=40668088) - [Indian Startup 3D Prints Rocket Engine in Just 72 Hours](https://spectrum.ieee.org/3d-printed-rocket)
 * [2024-06-13, 10:39:45](https://news.ycombinator.com/item?id=40667976) - [Microsoft Chose Profit over Security, Whistleblower Says](https://www.propublica.org/article/microsoft-solarwinds-golden-saml-data-breach-russian-hackers)
 * [2024-06-13, 10:06:26](https://news.ycombinator.com/item?id=40667786) - [Potential Ozone Depletion from Satellite Demise During Atmospheric Reentry](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL109280)
@@ -26,8 +24,10 @@
 * [2024-06-12, 17:27:33](https://news.ycombinator.com/item?id=40660689) - [Diffractive Chocolate](https://wp.optics.arizona.edu/oscoutreach/diffractive-chocolate/)
 * [2024-06-12, 15:32:53](https://news.ycombinator.com/item?id=40659236) - [Launch HN: Overwatch (YC S22): OSINT platform for cyber and fraud risk](https://news.ycombinator.com/item?id=40659236)
 * [2024-06-12, 12:55:15](https://news.ycombinator.com/item?id=40657574) - [Serious Sam handled massive amounts of enemies on 56k modem connections](https://staniks.github.io/articles/serious-engine-networking-analysis)
+* [2024-06-12, 11:20:16](https://news.ycombinator.com/item?id=40656780) - [Faxes From the Far Side (2015)](https://www.damninteresting.com/faxes-from-the-far-side/)
 * [2024-06-11, 20:16:23](https://news.ycombinator.com/item?id=40650974) - [Lexbor – An open source HTML Renderer library](https://github.com/lexbor/lexbor)
 * [2024-06-11, 16:15:47](https://news.ycombinator.com/item?id=40648082) - [Twenty, a modern CRM alternative to Salesforce](https://twenty.com)
+* [2024-06-11, 13:05:52](https://news.ycombinator.com/item?id=40645773) - [Mushroom Hunters Can't Stop Finding Mysterious Fungi](https://www.nytimes.com/2024/06/11/science/mushroom-hunters-dna.html)
 * [2024-06-11, 13:00:37](https://news.ycombinator.com/item?id=40645726) - [Centuries of Childhood](https://resobscura.substack.com/p/centuries-of-childhood)
 * [2024-06-11, 09:51:48](https://news.ycombinator.com/item?id=40644366) - [Medieval game pieces emerge from the ruins of a German castle](https://news.artnet.com/art-world/medieval-game-pieces-emerge-from-the-ruins-of-a-mysterious-german-castle-2497815)
 
