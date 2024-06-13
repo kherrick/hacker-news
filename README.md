@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-13, 10:04:13](https://news.ycombinator.com/item?id=40667775) - [What Do Google's AI Answers Cost the Environment?](https://www.scientificamerican.com/article/what-do-googles-ai-answers-cost-the-environment/)
 * [2024-06-13, 09:57:58](https://news.ycombinator.com/item?id=40667733) - [Apple to 'Pay' OpenAI for ChatGPT Through Distribution, Not Cash](https://www.bloomberg.com/news/articles/2024-06-12/apple-to-pay-openai-for-chatgpt-through-distribution-not-cash)
 * [2024-06-13, 09:33:12](https://news.ycombinator.com/item?id=40667606) - [Arm says it wants all Snapdragon X Elite laptops destroyed](https://www.xda-developers.com/arm-says-it-wants-all-snapdragon-x-elite-laptops-destroyed/)
 * [2024-06-13, 08:58:48](https://news.ycombinator.com/item?id=40667416) - [Apple to 'Pay' OpenAI for ChatGPT Through Distribution, Not Cash](https://www.bnnbloomberg.ca/apple-to-pay-openai-for-chatgpt-through-distribution-not-cash-1.2084539)
@@ -21,7 +22,6 @@
 * [2024-06-12, 11:20:16](https://news.ycombinator.com/item?id=40656780) - [Faxes From the Far Side (2015)](https://www.damninteresting.com/faxes-from-the-far-side/)
 * [2024-06-12, 11:13:52](https://news.ycombinator.com/item?id=40656747) - [Elixir 1.17 released: set-theoretic types in patterns, durations, OTP 27](https://elixir-lang.org/blog/2024/06/12/elixir-v1-17-0-released/)
 * [2024-06-11, 20:16:23](https://news.ycombinator.com/item?id=40650974) - [Lexbor – An open source HTML Renderer library](https://github.com/lexbor/lexbor)
-* [2024-06-11, 16:40:12](https://news.ycombinator.com/item?id=40648404) - [Show HN: A keyboard-centric clipboard history app for macOS](https://clipbook.app/)
 * [2024-06-11, 16:15:47](https://news.ycombinator.com/item?id=40648082) - [Twenty, a modern CRM alternative to Salesforce](https://twenty.com)
 * [2024-06-11, 14:58:52](https://news.ycombinator.com/item?id=40646940) - [Banana giant Chiquita held liable by US court for funding paramilitaries](https://www.bbc.com/news/articles/c6pprpd3x96o)
 * [2024-06-11, 13:05:52](https://news.ycombinator.com/item?id=40645773) - [Mushroom Hunters Can't Stop Finding Mysterious Fungi](https://www.nytimes.com/2024/06/11/science/mushroom-hunters-dna.html)

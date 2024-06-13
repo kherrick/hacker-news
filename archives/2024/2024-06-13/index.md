@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-13](index.md)
 
+* [2024-06-13, 10:04:13](https://news.ycombinator.com/item?id=40667775) - [What Do Google's AI Answers Cost the Environment?](https://www.scientificamerican.com/article/what-do-googles-ai-answers-cost-the-environment/)
 * [2024-06-13, 09:57:58](https://news.ycombinator.com/item?id=40667733) - [Apple to 'Pay' OpenAI for ChatGPT Through Distribution, Not Cash](https://www.bloomberg.com/news/articles/2024-06-12/apple-to-pay-openai-for-chatgpt-through-distribution-not-cash)
 * [2024-06-13, 09:33:12](https://news.ycombinator.com/item?id=40667606) - [Arm says it wants all Snapdragon X Elite laptops destroyed](https://www.xda-developers.com/arm-says-it-wants-all-snapdragon-x-elite-laptops-destroyed/)
 * [2024-06-13, 08:58:48](https://news.ycombinator.com/item?id=40667416) - [Apple to 'Pay' OpenAI for ChatGPT Through Distribution, Not Cash](https://www.bnnbloomberg.ca/apple-to-pay-openai-for-chatgpt-through-distribution-not-cash-1.2084539)
