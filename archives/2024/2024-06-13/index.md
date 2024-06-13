@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-13](index.md)
 
+* [2024-06-13, 18:43:17](https://news.ycombinator.com/item?id=40673091) - [Mouth-based touchpad enables people living with paralysis to use computers](https://news.mit.edu/2024/mouth-based-touchpad-augmental-0605)
 * [2024-06-13, 18:40:19](https://news.ycombinator.com/item?id=40673064) - [Chinese Yuan becomes Russia's main foreign currency, replacing Dollar and Euro](https://unn.ua/en/news/the-chinese-yuan-officially-became-russias-main-foreign-currency-replacing-the-dollar-and-the-euro)
 * [2024-06-13, 18:37:59](https://news.ycombinator.com/item?id=40673039) - [Ask HN: Widespread Apathy?](https://news.ycombinator.com/item?id=40673039)
 * [2024-06-13, 18:29:05](https://news.ycombinator.com/item?id=40672955) - [How Google is helping create a new model for clean energy](https://blog.google/outreach-initiatives/sustainability/google-clean-energy-partnership/)
