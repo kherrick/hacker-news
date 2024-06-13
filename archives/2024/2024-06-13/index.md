@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-06-13](index.md)
 
+* [2024-06-13, 15:05:18](https://news.ycombinator.com/item?id=40670612) - [MLow: Meta's low bitrate audio codec](https://engineering.fb.com/2024/06/13/web/mlow-metas-low-bitrate-audio-codec/)
+* [2024-06-13, 14:41:18](https://news.ycombinator.com/item?id=40670309) - [US Supreme Court backs Starbucks over fired pro-union workers](https://www.reuters.com/legal/us-supreme-court-backs-starbucks-over-fired-pro-union-workers-2024-06-13/)
+* [2024-06-13, 14:33:29](https://news.ycombinator.com/item?id=40670191) - [Wells Fargo Fires over a Dozen for 'Simulation of Keyboard Activity'](https://finance.yahoo.com/news/wells-fargo-fires-over-dozen-133711267.html)
+* [2024-06-13, 14:08:49](https://news.ycombinator.com/item?id=40669866) - [Wells Fargo Fires Over a Dozen for 'Simulation of Keyboard Activity'](https://www.bloomberg.com/news/articles/2024-06-13/wells-fires-over-a-dozen-for-simulation-of-keyboard-activity)
 * [2024-06-13, 14:06:31](https://news.ycombinator.com/item?id=40669827) - [The Qualcomm Snapdragon X Architecture Deep Dive: Getting to Know Oryon](https://www.anandtech.com/show/21445/qualcomm-snapdragon-x-architecture-deep-dive)
 * [2024-06-13, 13:30:38](https://news.ycombinator.com/item?id=40669419) - [Canada Imposes 5% Tax on Streaming to Fund Local News, Diverse Content](https://www.techdirt.com/2024/06/13/canada-imposes-5-tax-on-streaming-to-fund-local-news-diverse-content/)
 * [2024-06-13, 13:24:25](https://news.ycombinator.com/item?id=40669362) - [OpenAI expands lobbying team to influence regulation](https://www.ft.com/content/2bee634c-b8c4-459e-b80c-07a4e552322c)
@@ -41,4 +45,5 @@
 * [2024-06-13, 02:01:46](https://news.ycombinator.com/item?id=40665211) - [VRChat is Laying Off 30% of Team](https://ask.vrchat.com/t/an-email-from-our-ceo/25060)
 * [2024-06-13, 01:58:34](https://news.ycombinator.com/item?id=40665194) - [Can LLMs invent better ways to train LLMs?](https://sakana.ai/llm-squared/)
 * [2024-06-13, 01:47:12](https://news.ycombinator.com/item?id=40665110) - [Roughly 5 Percent of All Cybertrucks Are for Sale Online](https://jalopnik.com/roughly-5-percent-of-all-cybertrucks-are-for-sale-onlin-1851535582)
+* [2024-06-13, 01:31:28](https://news.ycombinator.com/item?id=40665023) - [Whose CIDR is it anyway?](https://www.netmeister.org/blog/cidr-allocations.html)
 * [2024-06-13, 00:08:09](https://news.ycombinator.com/item?id=40664541) - [Minuimus is a file optimiser utility script](https://birds-are-nice.me/software/minuimus.html)
