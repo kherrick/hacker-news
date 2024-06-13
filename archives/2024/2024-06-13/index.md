@@ -9,6 +9,7 @@
 * [2024-06-13, 21:02:14](https://news.ycombinator.com/item?id=40674743) - [Skio (Subscriptions for Shopify, ReCharge migrations) is hiring](https://skio.com/careers/)
 * [2024-06-13, 21:00:05](https://news.ycombinator.com/item?id=40674722) - [European Content Removal Laws Scrub the Internet of Legal Content](https://www.techdirt.com/2024/06/13/european-content-removal-laws-are-scrubbing-the-internet-of-completely-legal-content/)
 * [2024-06-13, 20:53:48](https://news.ycombinator.com/item?id=40674649) - [Encodings for flattened heap values](https://cr.openjdk.org/~jrose/values/flattened-values.html)
+* [2024-06-13, 20:49:25](https://news.ycombinator.com/item?id=40674590) - [Unity Catalog: Open, Multi-Modal Catalog for Data and AI](https://github.com/unitycatalog/unitycatalog)
 * [2024-06-13, 20:38:39](https://news.ycombinator.com/item?id=40674439) - [Boeing's Starliner Now Has 5 Leaks While Parked Outside the ISS](https://gizmodo.com/boeing-starliner-spacecraft-fifth-helium-leak-iss-nasa-1851534977)
 * [2024-06-13, 20:07:22](https://news.ycombinator.com/item?id=40674073) - [Taking away iPhone made daughter a better person](https://www.theguardian.com/technology/article/2024/jun/13/kids-no-iphone-screen-time)
 * [2024-06-13, 19:52:53](https://news.ycombinator.com/item?id=40673877) - [Kavanaugh writes 9-0 opinion rejecting restriction on abortion pill access [pdf]](https://www.supremecourt.gov/opinions/23pdf/23-235_n7ip.pdf)

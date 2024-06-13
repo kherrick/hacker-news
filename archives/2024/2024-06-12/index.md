@@ -72,6 +72,7 @@
 * [2024-06-12, 13:12:54](https://news.ycombinator.com/item?id=40657753) - [How to save an old printer from the e-waste pile with a Raspberry Pi](https://ounapuu.ee/posts/2024/06/12/save-old-printer/)
 * [2024-06-12, 12:55:15](https://news.ycombinator.com/item?id=40657574) - [Serious Sam handled massive amounts of enemies on 56k modem connections](https://staniks.github.io/articles/serious-engine-networking-analysis)
 * [2024-06-12, 12:44:14](https://news.ycombinator.com/item?id=40657467) - [Drawing Machines](https://drawingmachines.org/)
+* [2024-06-12, 12:34:39](https://news.ycombinator.com/item?id=40657371) - [Ideal OS: Rebooting the Desktop Operating System (2017)](https://joshondesign.com/2017/08/18/idealos_essay)
 * [2024-06-12, 12:28:23](https://news.ycombinator.com/item?id=40657307) - [Study shows N95 masks near-perfect at blocking escape of airborne Covid-19](https://sph.umd.edu/news/study-shows-n95-masks-near-perfect-blocking-escape-airborne-covid-19)
 * [2024-06-12, 12:19:02](https://news.ycombinator.com/item?id=40657238) - [AI Detectors Get It Wrong. Writers Are Being Fired Anyway](https://gizmodo.com/ai-detectors-inaccurate-freelance-writers-fired-1851529820)
 * [2024-06-12, 12:07:19](https://news.ycombinator.com/item?id=40657138) - [Samsung Document Showed 126 Ways iPhone Was Better Than S1 (2010) [pdf]](https://ia600908.us.archive.org/30/items/436142-samsung-relative-evaluation-report-on-s1-iphone/436142-samsung-relative-evaluation-report-on-s1-iphone.pdf)
