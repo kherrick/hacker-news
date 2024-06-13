@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-06-13, 17:20:14",
-      "https://news.ycombinator.com/item?id=40672215"
+      "2024-06-13, 17:31:52",
+      "https://news.ycombinator.com/item?id=40672306"
     ],
     [
-      "You can help Anna's Archive by seeding torrents",
-      "https://annas-archive.org/torrents"
+      "Spectrum of Covid-19: From Asymptomatic Organ Damage to Long Covid Syndrome",
+      "https://whn.global/scientific/spectrum-of-covid-19-from-asymptomatic-organ-damage-to-long-covid-syndrome/"
     ]
   ],
   [
@@ -51,12 +51,32 @@
   ],
   [
     [
+      "2024-06-13, 16:06:42",
+      "https://news.ycombinator.com/item?id=40671381"
+    ],
+    [
+      "Please maintain eye contact for the duration of the ad",
+      "https://twitter.com/soren_iverson/status/1801253187602788424"
+    ]
+  ],
+  [
+    [
       "2024-06-13, 15:31:30",
       "https://news.ycombinator.com/item?id=40670898"
     ],
     [
       "AMD CEO Lisa Su reminisces about designing the PS3's infamous Cell processor",
       "https://www.tomshardware.com/tech-industry/amd-ceo-lisa-su-reminisces-on-helping-design-the-ps3s-infamous-cell-processor-at-ibm"
+    ]
+  ],
+  [
+    [
+      "2024-06-13, 15:30:21",
+      "https://news.ycombinator.com/item?id=40670880"
+    ],
+    [
+      "The American West is figuring out how to keep cool",
+      "https://www.bbc.com/future/article/20240613-how-to-cool-down-urban-heat-islands-in-americas-heatwaves"
     ]
   ],
   [
@@ -81,26 +101,6 @@
   ],
   [
     [
-      "2024-06-13, 14:06:31",
-      "https://news.ycombinator.com/item?id=40669827"
-    ],
-    [
-      "The Qualcomm Snapdragon X Architecture Deep Dive: Getting to Know Oryon",
-      "https://www.anandtech.com/show/21445/qualcomm-snapdragon-x-architecture-deep-dive"
-    ]
-  ],
-  [
-    [
-      "2024-06-13, 13:31:53",
-      "https://news.ycombinator.com/item?id=40669434"
-    ],
-    [
-      "Show HN: Pathway – Build Mission Critical ETL and RAG in Python (NATO, F1 Used)",
-      "https://github.com/pathwaycom/pathway"
-    ]
-  ],
-  [
-    [
       "2024-06-13, 13:22:29",
       "https://news.ycombinator.com/item?id=40669337"
     ],
@@ -115,7 +115,7 @@
       "https://news.ycombinator.com/item?id=40668088"
     ],
     [
-      "Indian Startup 3D Prints Rocket Engine in Just 72 Hours",
+      "Indian startup 3D prints rocket engine in 72 hours",
       "https://spectrum.ieee.org/3d-printed-rocket"
     ]
   ],
@@ -135,48 +135,18 @@
       "https://news.ycombinator.com/item?id=40667786"
     ],
     [
-      "Potential Ozone Depletion from Satellite Demise During Atmospheric Reentry",
+      "Potential ozone depletion from satellite demise during atmospheric reentry",
       "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL109280"
     ]
   ],
   [
     [
-      "2024-06-13, 03:44:55",
-      "https://news.ycombinator.com/item?id=40665734"
+      "2024-06-13, 05:26:02",
+      "https://news.ycombinator.com/item?id=40666237"
     ],
     [
-      "What If We Recaption Billions of Web Images with LLaMA-3?",
-      "https://arxiv.org/abs/2406.08478"
-    ]
-  ],
-  [
-    [
-      "2024-06-13, 03:42:39",
-      "https://news.ycombinator.com/item?id=40665721"
-    ],
-    [
-      "Uncensor any LLM with abliteration",
-      "https://huggingface.co/blog/mlabonne/abliteration"
-    ]
-  ],
-  [
-    [
-      "2024-06-13, 01:31:28",
-      "https://news.ycombinator.com/item?id=40665023"
-    ],
-    [
-      "Whose CIDR is it anyway?",
-      "https://www.netmeister.org/blog/cidr-allocations.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-12, 23:35:08",
-      "https://news.ycombinator.com/item?id=40664339"
-    ],
-    [
-      "How Meta trains large language models at scale",
-      "https://engineering.fb.com/2024/06/12/data-infrastructure/training-large-language-models-at-scale-meta/"
+      "SSH agent extensions as an arbitrary RPC mechanism",
+      "https://mjg59.dreamwidth.org/69646.html"
     ]
   ],
   [
@@ -191,22 +161,32 @@
   ],
   [
     [
-      "2024-06-12, 19:43:50",
-      "https://news.ycombinator.com/item?id=40662176"
+      "2024-06-12, 19:34:45",
+      "https://news.ycombinator.com/item?id=40662056"
     ],
     [
-      "Japan enacts law to promote competition in smartphone app stores",
-      "https://english.kyodonews.net/news/2024/06/bc2d7f45d456-japan-enacts-law-to-curb-apple-googles-app-dominance.html#google_vignette"
+      "Bibliography keys: It's as easy as [1], [2], [3]",
+      "http://blog.cr.yp.to/20240612-bibkeys.html"
     ]
   ],
   [
     [
-      "2024-06-12, 19:02:46",
-      "https://news.ycombinator.com/item?id=40661703"
+      "2024-06-12, 18:29:42",
+      "https://news.ycombinator.com/item?id=40661293"
     ],
     [
-      "ChromeOS will soon be developed on large portions of the Android stack",
-      "https://blog.chromium.org/2024/06/building-faster-smarter-chromebook.html"
+      "Patterns of data loading: Topics and broadcast",
+      "https://shermanonsoftware.com/2024/06/12/patterns-of-data-loading-topics-and-broadcast/"
+    ]
+  ],
+  [
+    [
+      "2024-06-12, 17:45:07",
+      "https://news.ycombinator.com/item?id=40660867"
+    ],
+    [
+      "Group chats rule the world",
+      "https://sriramk.com/group-chats-rule-the-world"
     ]
   ],
   [
@@ -217,26 +197,6 @@
     [
       "The GJK Algorithm: A weird and beautiful way to do a simple thing",
       "https://computerwebsite.net/writing/gjk"
-    ]
-  ],
-  [
-    [
-      "2024-06-12, 17:27:33",
-      "https://news.ycombinator.com/item?id=40660689"
-    ],
-    [
-      "Diffractive Chocolate",
-      "https://wp.optics.arizona.edu/oscoutreach/diffractive-chocolate/"
-    ]
-  ],
-  [
-    [
-      "2024-06-12, 12:55:15",
-      "https://news.ycombinator.com/item?id=40657574"
-    ],
-    [
-      "Serious Sam handled massive amounts of enemies on 56k modem connections",
-      "https://staniks.github.io/articles/serious-engine-networking-analysis"
     ]
   ],
   [
@@ -261,42 +221,82 @@
   ],
   [
     [
-      "2024-06-11, 20:16:23",
-      "https://news.ycombinator.com/item?id=40650974"
+      "2024-06-12, 07:47:06",
+      "https://news.ycombinator.com/item?id=40655605"
     ],
     [
-      "Lexbor – An open source HTML Renderer library",
-      "https://github.com/lexbor/lexbor"
+      "Textile-based electrochemical sensors",
+      "https://medhir.com/blog/textile-based-electrochemical-sensors"
     ]
   ],
   [
     [
-      "2024-06-11, 16:15:47",
-      "https://news.ycombinator.com/item?id=40648082"
+      "2024-06-11, 17:44:41",
+      "https://news.ycombinator.com/item?id=40649282"
     ],
     [
-      "Twenty, a modern CRM alternative to Salesforce",
-      "https://twenty.com"
+      "Progressive Web Apps (PWAs) Phishing",
+      "https://mrd0x.com/progressive-web-apps-pwa-phishing/"
     ]
   ],
   [
     [
-      "2024-06-11, 13:00:37",
-      "https://news.ycombinator.com/item?id=40645726"
+      "2024-06-11, 16:45:37",
+      "https://news.ycombinator.com/item?id=40648490"
     ],
     [
-      "Centuries of Childhood",
-      "https://resobscura.substack.com/p/centuries-of-childhood"
+      "Wrong Map of Europe",
+      "https://phinjensen.com/blog/2024/wrong-map-of-europe/"
     ]
   ],
   [
     [
-      "2024-06-11, 09:51:48",
-      "https://news.ycombinator.com/item?id=40644366"
+      "2024-06-11, 15:54:24",
+      "https://news.ycombinator.com/item?id=40647811"
     ],
     [
-      "Medieval game pieces emerge from the ruins of a German castle",
-      "https://news.artnet.com/art-world/medieval-game-pieces-emerge-from-the-ruins-of-a-mysterious-german-castle-2497815"
+      "Borges on Chaos Theory",
+      "https://aethermug.com/posts/borges-on-chaos-theory"
+    ]
+  ],
+  [
+    [
+      "2024-06-11, 14:25:28",
+      "https://news.ycombinator.com/item?id=40646528"
+    ],
+    [
+      "Solving Probabilistic Tic-Tac-Toe",
+      "https://louisabraham.github.io/articles/probabilistic-tic-tac-toe"
+    ]
+  ],
+  [
+    [
+      "2024-06-11, 10:26:21",
+      "https://news.ycombinator.com/item?id=40644562"
+    ],
+    [
+      "Scan HTML faster with SIMD instructions – Chrome edition",
+      "https://lemire.me/blog/2024/06/08/scan-html-faster-with-simd-instructions-chrome-edition/"
+    ]
+  ],
+  [
+    [
+      "2024-06-11, 09:35:34",
+      "https://news.ycombinator.com/item?id=40644261"
+    ],
+    [
+      "Perspective-Correct Interpolation",
+      "https://andrewkchan.dev/posts/perspective-interpolation.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-11, 02:18:54",
+      "https://news.ycombinator.com/item?id=40641598"
+    ],
+    [
+      "Designing a website without 404s",
+      "https://pillser.com/engineering/2024-06-10-website-without-404s"
     ]
   ]
 ]
