@@ -59,6 +59,7 @@
 * [2024-06-11, 13:39:49](https://news.ycombinator.com/item?id=40646061) - [I like the RP2040](https://dgroshev.com/blog/rp2040/)
 * [2024-06-11, 13:32:10](https://news.ycombinator.com/item?id=40645983) - [First Came 'Spam.' Now, with A.I., We've Got 'Slop'](https://www.nytimes.com/2024/06/11/style/ai-search-slop.html)
 * [2024-06-11, 13:30:59](https://news.ycombinator.com/item?id=40645976) - [Australian Border Force searched phones of 10k travellers in past two years](https://www.theguardian.com/australia-news/article/2024/jun/11/australian-border-force-abf-searching-phones-travellers-data)
+* [2024-06-11, 13:05:52](https://news.ycombinator.com/item?id=40645773) - [Mushroom Hunters Can't Stop Finding Mysterious Fungi](https://www.nytimes.com/2024/06/11/science/mushroom-hunters-dna.html)
 * [2024-06-11, 13:02:23](https://news.ycombinator.com/item?id=40645743) - [Show HN: Unforget, the note-taking app I always wanted: offline first, encrypted](https://unforget.computing-den.com/demo)
 * [2024-06-11, 12:29:24](https://news.ycombinator.com/item?id=40645439) - [The Titan Submersible Disaster. The Inside Story Is More Disturbing](https://www.wired.com/story/titan-submersible-disaster-inside-story-oceangate-files/)
 * [2024-06-11, 12:00:24](https://news.ycombinator.com/item?id=40645203) - [A baseball loving physicist looks at the knuckleball](https://www.baseballprospectus.com/news/article/15919/baseball-proguestus-the-knuckleball-mystique-using-pitchfx-to-distinguish-perception-from-reality/)

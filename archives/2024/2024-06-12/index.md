@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-12](index.md)
 
+* [2024-06-12, 23:35:08](https://news.ycombinator.com/item?id=40664339) - [How Meta trains large language models at scale](https://engineering.fb.com/2024/06/12/data-infrastructure/training-large-language-models-at-scale-meta/)
 * [2024-06-12, 23:08:09](https://news.ycombinator.com/item?id=40664181) - [An outlandish molecule may be lurking inside Uranus and Neptune](https://phys.org/news/2024-05-outlandish-molecule-lurking-uranus-neptune.html)
 * [2024-06-12, 22:54:07](https://news.ycombinator.com/item?id=40664078) - [Cryptoterrestrial hypothesis: Science openness to concealed earthly UAP](https://www.researchgate.net/publication/381041896_The_cryptoterrestrial_hypothesis_A_case_for_scientific_openness_to_a_concealed_earthly_explanation_for_Unidentified_Anomalous_Phenomena)
 * [2024-06-12, 22:04:59](https://news.ycombinator.com/item?id=40663724) - [Martin-Baker Ejection Seat Made Its First of 7,722 Saves 75 Years Ago Today](https://www.twz.com/air/martin-baker-ejection-seat-made-its-first-of-7722-saves-75-yeats-ago-today)
