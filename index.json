@@ -1,26 +1,6 @@
 [
   [
     [
-      "2024-06-13, 06:45:35",
-      "https://news.ycombinator.com/item?id=40666658"
-    ],
-    [
-      "Altman backed AI Social Network 'Maven' imported 1.12M Fediverse posts",
-      "https://wedistribute.org/2024/06/maven-mastodon-posts/"
-    ]
-  ],
-  [
-    [
-      "2024-06-13, 05:42:08",
-      "https://news.ycombinator.com/item?id=40666304"
-    ],
-    [
-      "YouTube's next move might make it virtually impossible to block ads",
-      "https://www.androidpolice.com/youtube-next-server-injected-ads-impossible-to-block/"
-    ]
-  ],
-  [
-    [
       "2024-06-13, 05:08:10",
       "https://news.ycombinator.com/item?id=40666152"
     ],
@@ -41,16 +21,6 @@
   ],
   [
     [
-      "2024-06-13, 01:58:34",
-      "https://news.ycombinator.com/item?id=40665194"
-    ],
-    [
-      "Can LLMs invent better ways to train LLMs?",
-      "https://sakana.ai/llm-squared/"
-    ]
-  ],
-  [
-    [
       "2024-06-13, 00:08:09",
       "https://news.ycombinator.com/item?id=40664541"
     ],
@@ -67,6 +37,16 @@
     [
       "How Meta trains large language models at scale",
       "https://engineering.fb.com/2024/06/12/data-infrastructure/training-large-language-models-at-scale-meta/"
+    ]
+  ],
+  [
+    [
+      "2024-06-12, 22:04:59",
+      "https://news.ycombinator.com/item?id=40663724"
+    ],
+    [
+      "Martin-Baker Ejection Seat Made Its First of 7,722 Saves 75 Years Ago Today",
+      "https://www.twz.com/air/martin-baker-ejection-seat-made-its-first-of-7722-saves-75-yeats-ago-today"
     ]
   ],
   [
@@ -161,6 +141,16 @@
   ],
   [
     [
+      "2024-06-12, 14:59:04",
+      "https://news.ycombinator.com/item?id=40658901"
+    ],
+    [
+      "Star botanist likely made up data about nutritional supplements, new probe finds",
+      "https://www.science.org/content/article/star-botanist-likely-made-data-about-nutritional-supplements-new-probe-finds"
+    ]
+  ],
+  [
+    [
       "2024-06-12, 12:55:15",
       "https://news.ycombinator.com/item?id=40657574"
     ],
@@ -201,6 +191,16 @@
   ],
   [
     [
+      "2024-06-11, 16:40:12",
+      "https://news.ycombinator.com/item?id=40648404"
+    ],
+    [
+      "Show HN: A keyboard-centric clipboard history app for macOS",
+      "https://clipbook.app/"
+    ]
+  ],
+  [
+    [
       "2024-06-11, 16:15:47",
       "https://news.ycombinator.com/item?id=40648082"
     ],
@@ -217,16 +217,6 @@
     [
       "Banana giant Chiquita held liable by US court for funding paramilitaries",
       "https://www.bbc.com/news/articles/c6pprpd3x96o"
-    ]
-  ],
-  [
-    [
-      "2024-06-11, 14:56:38",
-      "https://news.ycombinator.com/item?id=40646909"
-    ],
-    [
-      "Terence Tao on proof checkers and AI programs",
-      "https://www.scientificamerican.com/article/ai-will-become-mathematicians-co-pilot/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "My First Production Bug",
       "https://robinverschueren.com/2024/06/08/my-very-first-production-bug/"
+    ]
+  ],
+  [
+    [
+      "2024-06-10, 19:41:06",
+      "https://news.ycombinator.com/item?id=40637816"
+    ],
+    [
+      "Beyond the wall: Working with aperiodic tilings using finite-state transducers",
+      "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-transducers/"
     ]
   ]
 ]
