@@ -4,12 +4,17 @@
 
 ### [Archives](../../index.md) for [2024-06-13](index.md)
 
+* [2024-06-13, 12:00:36](https://news.ycombinator.com/item?id=40668572) - [Reworkd (YC S23) Is Hiring a founding back end/infrastructure engineer](https://www.ycombinator.com/companies/reworkd/jobs/4f6BHpT-founding-engineer)
+* [2024-06-13, 11:53:11](https://news.ycombinator.com/item?id=40668504) - [Southwest Airlines Boeing 737-8 Max Experienced Dutch Roll](https://avherald.com/h?article=519ce679)
+* [2024-06-13, 11:02:11](https://news.ycombinator.com/item?id=40668088) - [Indian Startup 3D Prints Rocket Engine in Just 72 Hours](https://spectrum.ieee.org/3d-printed-rocket)
 * [2024-06-13, 10:23:51](https://news.ycombinator.com/item?id=40667878) - [Germany is No 1 in Europe for EV production, No 2 in the world](https://electrek.co/2024/06/11/germany-automakers-ev-production/)
 * [2024-06-13, 10:20:10](https://news.ycombinator.com/item?id=40667863) - [Surprising New Renewable Power Source Has 'Negative Carbon Emissions'](https://www.newsweek.com/algae-renewable-power-source-1911875)
 * [2024-06-13, 10:15:47](https://news.ycombinator.com/item?id=40667837) - [Why don't women like nuclear power?](https://twitter.com/Andercot/status/1800872960896700839)
 * [2024-06-13, 10:06:26](https://news.ycombinator.com/item?id=40667786) - [Potential Ozone Depletion from Satellite Demise During Atmospheric Reentry](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GL109280)
 * [2024-06-13, 10:04:13](https://news.ycombinator.com/item?id=40667775) - [What Do Google's AI Answers Cost the Environment?](https://www.scientificamerican.com/article/what-do-googles-ai-answers-cost-the-environment/)
 * [2024-06-13, 09:57:58](https://news.ycombinator.com/item?id=40667733) - [Apple to 'Pay' OpenAI for ChatGPT Through Distribution, Not Cash](https://www.bloomberg.com/news/articles/2024-06-12/apple-to-pay-openai-for-chatgpt-through-distribution-not-cash)
+* [2024-06-13, 09:49:48](https://news.ycombinator.com/item?id=40667687) - [One of the major sellers of detailed driver behavioral data is shutting down](https://arstechnica.com/cars/2024/06/one-of-the-major-sellers-of-detailed-driver-behavioral-data-is-shutting-down/)
+* [2024-06-13, 09:41:51](https://news.ycombinator.com/item?id=40667644) - [Swedish company launches bio-based plastic derived from forest residues](https://packagingeurope.com/news/swedish-company-launches-bio-based-plastic-derived-from-forest-residues/11459.article)
 * [2024-06-13, 09:33:12](https://news.ycombinator.com/item?id=40667606) - [Arm says it wants all Snapdragon X Elite laptops destroyed](https://www.xda-developers.com/arm-says-it-wants-all-snapdragon-x-elite-laptops-destroyed/)
 * [2024-06-13, 09:20:52](https://news.ycombinator.com/item?id=40667545) - [Is Aschenbrenner's 165 page paper on AI the naivety of a 25 year old?](https://fikisipi.substack.com/p/is-aschenbrenners-165-page-paper)
 * [2024-06-13, 09:17:10](https://news.ycombinator.com/item?id=40667524) - [Is the Future of Moore's Law in a Particle Accelerator?](https://spectrum.ieee.org/euv-fel)
