@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-06-13](index.md)
 
+* [2024-06-13, 18:40:19](https://news.ycombinator.com/item?id=40673064) - [Chinese Yuan becomes Russia's main foreign currency, replacing Dollar and Euro](https://unn.ua/en/news/the-chinese-yuan-officially-became-russias-main-foreign-currency-replacing-the-dollar-and-the-euro)
+* [2024-06-13, 18:37:59](https://news.ycombinator.com/item?id=40673039) - [Ask HN: Widespread Apathy?](https://news.ycombinator.com/item?id=40673039)
 * [2024-06-13, 18:29:05](https://news.ycombinator.com/item?id=40672955) - [How Google is helping create a new model for clean energy](https://blog.google/outreach-initiatives/sustainability/google-clean-energy-partnership/)
 * [2024-06-13, 18:07:21](https://news.ycombinator.com/item?id=40672700) - [Beneath the AGI and Foundational Model Hype, Sober AI Is the Enterprise Default](https://www.dbreunig.com/2024/06/12/sober-ai-is-the-norm.html)
+* [2024-06-13, 18:02:03](https://news.ycombinator.com/item?id=40672659) - [The fastest path to African prosperity](https://www.palladiummag.com/2024/06/07/the-fastest-path-to-african-prosperity/)
 * [2024-06-13, 17:31:52](https://news.ycombinator.com/item?id=40672306) - [Spectrum of Covid-19: From Asymptomatic Organ Damage to Long Covid Syndrome](https://whn.global/scientific/spectrum-of-covid-19-from-asymptomatic-organ-damage-to-long-covid-syndrome/)
 * [2024-06-13, 17:20:14](https://news.ycombinator.com/item?id=40672215) - [You can help Anna's Archive by seeding torrents](https://annas-archive.org/torrents)
 * [2024-06-13, 17:14:33](https://news.ycombinator.com/item?id=40672158) - [Ted Chiang has won the PEN/Faulkner Foundation's short story prize](https://lithub.com/ted-chiang-has-won-the-pen-faulkner-foundations-short-story-prize/)
