@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-13](index.md)
 
+* [2024-06-13, 21:12:47](https://news.ycombinator.com/item?id=40674835) - [OpenAI Appoints Retired U.S. Army General to Board of Directors](https://openai.com/index/openai-appoints-retired-us-army-general/)
 * [2024-06-13, 21:02:14](https://news.ycombinator.com/item?id=40674743) - [Skio (Subscriptions for Shopify, ReCharge migrations) is hiring](https://skio.com/careers/)
 * [2024-06-13, 21:00:05](https://news.ycombinator.com/item?id=40674722) - [European Content Removal Laws Scrub the Internet of Legal Content](https://www.techdirt.com/2024/06/13/european-content-removal-laws-are-scrubbing-the-internet-of-completely-legal-content/)
 * [2024-06-13, 20:07:22](https://news.ycombinator.com/item?id=40674073) - [Taking away iPhone made daughter a better person](https://www.theguardian.com/technology/article/2024/jun/13/kids-no-iphone-screen-time)

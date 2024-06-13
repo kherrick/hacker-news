@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-13, 21:12:47](https://news.ycombinator.com/item?id=40674835) - [OpenAI Appoints Retired U.S. Army General to Board of Directors](https://openai.com/index/openai-appoints-retired-us-army-general/)
 * [2024-06-13, 21:02:14](https://news.ycombinator.com/item?id=40674743) - [Skio (Subscriptions for Shopify, ReCharge migrations) is hiring](https://skio.com/careers/)
 * [2024-06-13, 21:00:05](https://news.ycombinator.com/item?id=40674722) - [European Content Removal Laws Scrub the Internet of Legal Content](https://www.techdirt.com/2024/06/13/european-content-removal-laws-are-scrubbing-the-internet-of-completely-legal-content/)
 * [2024-06-13, 20:07:22](https://news.ycombinator.com/item?id=40674073) - [Taking away iPhone made daughter a better person](https://www.theguardian.com/technology/article/2024/jun/13/kids-no-iphone-screen-time)
@@ -10,7 +11,6 @@
 * [2024-06-13, 17:57:10](https://news.ycombinator.com/item?id=40672606) - [An Empirical Study of Mamba-Based Language Models](https://arxiv.org/abs/2406.07887)
 * [2024-06-13, 17:14:33](https://news.ycombinator.com/item?id=40672158) - [Ted Chiang has won the PEN/Faulkner Foundation's short story prize](https://lithub.com/ted-chiang-has-won-the-pen-faulkner-foundations-short-story-prize/)
 * [2024-06-13, 16:34:05](https://news.ycombinator.com/item?id=40671738) - [IntelliJ GitHub Plugin leaking credentials](https://blog.jetbrains.com/security/2024/06/updates-for-security-issue-affecting-intellij-based-ides-2023-1-and-github-plugin/)
-* [2024-06-13, 16:06:42](https://news.ycombinator.com/item?id=40671381) - [Please maintain eye contact for the duration of the ad](https://twitter.com/soren_iverson/status/1801253187602788424)
 * [2024-06-13, 15:31:30](https://news.ycombinator.com/item?id=40670898) - [AMD CEO Lisa Su reminisces about designing the PS3's infamous Cell processor](https://www.tomshardware.com/tech-industry/amd-ceo-lisa-su-reminisces-on-helping-design-the-ps3s-infamous-cell-processor-at-ibm)
 * [2024-06-13, 15:05:18](https://news.ycombinator.com/item?id=40670612) - [MLow: Meta's low bitrate audio codec](https://engineering.fb.com/2024/06/13/web/mlow-metas-low-bitrate-audio-codec/)
 * [2024-06-13, 14:25:51](https://news.ycombinator.com/item?id=40670096) - [Luma AI Dream Machine](https://lumalabs.ai/dream-machine)
