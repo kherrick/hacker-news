@@ -1,26 +1,6 @@
 [
   [
     [
-      "2024-06-13, 23:30:43",
-      "https://news.ycombinator.com/item?id=40676021"
-    ],
-    [
-      "The Stanford Internet Observatory is being dismantled",
-      "https://www.platformer.news/stanford-internet-observatory-shutdown-stamos-diresta-sio/"
-    ]
-  ],
-  [
-    [
-      "2024-06-13, 22:17:57",
-      "https://news.ycombinator.com/item?id=40675468"
-    ],
-    [
-      "OpenAI Doubles Annualized Revenue to $3.4B",
-      "https://www.bloomberg.com/news/articles/2024-06-12/openai-doubles-annualized-revenue-to-3-4-billion-information"
-    ]
-  ],
-  [
-    [
       "2024-06-13, 20:53:48",
       "https://news.ycombinator.com/item?id=40674649"
     ],
@@ -101,12 +81,32 @@
   ],
   [
     [
+      "2024-06-13, 17:14:33",
+      "https://news.ycombinator.com/item?id=40672158"
+    ],
+    [
+      "Ted Chiang has won the PEN/Faulkner Foundation's short story prize",
+      "https://lithub.com/ted-chiang-has-won-the-pen-faulkner-foundations-short-story-prize/"
+    ]
+  ],
+  [
+    [
       "2024-06-13, 17:00:56",
       "https://news.ycombinator.com/item?id=40672027"
     ],
     [
       "Tesorio (YC S15) Is Hiring a Senior GenAI/LLM Engineer (100% Remote)",
       "https://www.tesorio.com/careers#job-openings"
+    ]
+  ],
+  [
+    [
+      "2024-06-13, 16:34:05",
+      "https://news.ycombinator.com/item?id=40671738"
+    ],
+    [
+      "IntelliJ GitHub Plugin leaking credentials",
+      "https://blog.jetbrains.com/security/2024/06/updates-for-security-issue-affecting-intellij-based-ides-2023-1-and-github-plugin/"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2024-06-12, 07:47:06",
-      "https://news.ycombinator.com/item?id=40655605"
-    ],
-    [
-      "Textile-based electrochemical sensors",
-      "https://medhir.com/blog/textile-based-electrochemical-sensors"
-    ]
-  ],
-  [
-    [
       "2024-06-11, 17:44:41",
       "https://news.ycombinator.com/item?id=40649282"
     ],
@@ -297,6 +287,16 @@
     [
       "Scan HTML faster with SIMD instructions – Chrome edition",
       "https://lemire.me/blog/2024/06/08/scan-html-faster-with-simd-instructions-chrome-edition/"
+    ]
+  ],
+  [
+    [
+      "2024-06-11, 09:35:34",
+      "https://news.ycombinator.com/item?id=40644261"
+    ],
+    [
+      "Perspective-Correct Interpolation",
+      "https://andrewkchan.dev/posts/perspective-interpolation.html"
     ]
   ]
 ]
