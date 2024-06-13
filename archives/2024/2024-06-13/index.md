@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-13](index.md)
 
+* [2024-06-13, 07:57:56](https://news.ycombinator.com/item?id=40667102) - [AMD's MI300X Outperforms Nvidia's H100 for LLM Inference](https://www.blog.tensorwave.com/amds-mi300x-outperforms-nvidias-h100-for-llm-inference/)
 * [2024-06-13, 06:45:35](https://news.ycombinator.com/item?id=40666658) - [Altman backed AI Social Network 'Maven' imported 1.12M Fediverse posts](https://wedistribute.org/2024/06/maven-mastodon-posts/)
 * [2024-06-13, 05:42:08](https://news.ycombinator.com/item?id=40666304) - [YouTube's next move might make it virtually impossible to block ads](https://www.androidpolice.com/youtube-next-server-injected-ads-impossible-to-block/)
 * [2024-06-13, 05:08:10](https://news.ycombinator.com/item?id=40666152) - [Microsoft's Nadella is building an AI empire](https://www.wsj.com/tech/ai/microsoft-nadella-openai-inflection-9727e77a)
