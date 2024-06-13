@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-13](index.md)
 
+* [2024-06-13, 17:00:56](https://news.ycombinator.com/item?id=40672027) - [Tesorio (YC S15) Is Hiring a Senior GenAI/LLM Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
+* [2024-06-13, 16:45:57](https://news.ycombinator.com/item?id=40671858) - [Postgres 17: Streaming I/O for sequential scans and ANALYZE](https://pganalyze.com/blog/5mins-postgres-17-streaming-io)
 * [2024-06-13, 16:32:11](https://news.ycombinator.com/item?id=40671712) - [Phishing scammers impersonate AH employee to drain crypto wallets](https://www.web3isgoinggreat.com/single/andreessen-horowitz-phishing)
 * [2024-06-13, 16:06:42](https://news.ycombinator.com/item?id=40671381) - [Please maintain eye contact for the duration of the ad](https://twitter.com/soren_iverson/status/1801253187602788424)
 * [2024-06-13, 15:46:34](https://news.ycombinator.com/item?id=40671078) - [Supreme Court Upholds Broad Access to Abortion Pill Mifepristone](https://www.nytimes.com/live/2024/06/13/us/abortion-pill-supreme-court)
@@ -18,6 +20,7 @@
 * [2024-06-13, 14:06:31](https://news.ycombinator.com/item?id=40669827) - [The Qualcomm Snapdragon X Architecture Deep Dive: Getting to Know Oryon](https://www.anandtech.com/show/21445/qualcomm-snapdragon-x-architecture-deep-dive)
 * [2024-06-13, 13:48:22](https://news.ycombinator.com/item?id=40669603) - [China has become a scientific superpower](https://www.economist.com/science-and-technology/2024/06/12/china-has-become-a-scientific-superpower)
 * [2024-06-13, 13:47:41](https://news.ycombinator.com/item?id=40669590) - [Nvidia Conquers Latest AI Tests](https://spectrum.ieee.org/mlperf-nvidia-conquers)
+* [2024-06-13, 13:31:53](https://news.ycombinator.com/item?id=40669434) - [Show HN: Pathway – Build Mission Critical ETL and RAG in Python (NATO, F1 Used)](https://github.com/pathwaycom/pathway)
 * [2024-06-13, 13:30:38](https://news.ycombinator.com/item?id=40669419) - [Canada Imposes 5% Tax on Streaming to Fund Local News, Diverse Content](https://www.techdirt.com/2024/06/13/canada-imposes-5-tax-on-streaming-to-fund-local-news-diverse-content/)
 * [2024-06-13, 13:24:25](https://news.ycombinator.com/item?id=40669362) - [OpenAI expands lobbying team to influence regulation](https://www.ft.com/content/2bee634c-b8c4-459e-b80c-07a4e552322c)
 * [2024-06-13, 13:22:29](https://news.ycombinator.com/item?id=40669337) - [Show HN: Shpool, a Lightweight Tmux Alternative](https://github.com/shell-pool/shpool)
