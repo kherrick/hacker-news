@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2024-06-13](index.md)
 
 * [2024-06-13, 17:00:56](https://news.ycombinator.com/item?id=40672027) - [Tesorio (YC S15) Is Hiring a Senior GenAI/LLM Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
+* [2024-06-13, 16:57:23](https://news.ycombinator.com/item?id=40671980) - [The Great American Poisoning](https://justinmares.substack.com/p/the-great-american-poisoning)
 * [2024-06-13, 16:45:57](https://news.ycombinator.com/item?id=40671858) - [Postgres 17: Streaming I/O for sequential scans and ANALYZE](https://pganalyze.com/blog/5mins-postgres-17-streaming-io)
+* [2024-06-13, 16:44:05](https://news.ycombinator.com/item?id=40671842) - [Ask HN: What alternatives to Adobe products are you switching to?](https://news.ycombinator.com/item?id=40671842)
 * [2024-06-13, 16:32:11](https://news.ycombinator.com/item?id=40671712) - [Phishing scammers impersonate AH employee to drain crypto wallets](https://www.web3isgoinggreat.com/single/andreessen-horowitz-phishing)
 * [2024-06-13, 16:06:42](https://news.ycombinator.com/item?id=40671381) - [Please maintain eye contact for the duration of the ad](https://twitter.com/soren_iverson/status/1801253187602788424)
 * [2024-06-13, 15:46:34](https://news.ycombinator.com/item?id=40671078) - [Supreme Court Upholds Broad Access to Abortion Pill Mifepristone](https://www.nytimes.com/live/2024/06/13/us/abortion-pill-supreme-court)
