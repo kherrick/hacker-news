@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-13, 03:42:39](https://news.ycombinator.com/item?id=40665721) - [Uncensor Any LLM with Abliteration](https://huggingface.co/blog/mlabonne/abliteration)
-* [2024-06-13, 01:58:34](https://news.ycombinator.com/item?id=40665194) - [Can LLMs invent better ways to train LLMs?](https://sakana.ai/llm-squared/)
 * [2024-06-13, 01:47:12](https://news.ycombinator.com/item?id=40665110) - [Roughly 5 Percent of All Cybertrucks Are for Sale Online](https://jalopnik.com/roughly-5-percent-of-all-cybertrucks-are-for-sale-onlin-1851535582)
 * [2024-06-13, 00:08:09](https://news.ycombinator.com/item?id=40664541) - [Minuimus is a file optimiser utility script](https://birds-are-nice.me/software/minuimus.html)
 * [2024-06-12, 23:35:08](https://news.ycombinator.com/item?id=40664339) - [How Meta trains large language models at scale](https://engineering.fb.com/2024/06/12/data-infrastructure/training-large-language-models-at-scale-meta/)
@@ -30,6 +29,7 @@
 * [2024-06-11, 11:24:20](https://news.ycombinator.com/item?id=40644960) - [Author Clock: a novel way to tell time](https://www.authorclock.com/)
 * [2024-06-11, 10:55:01](https://news.ycombinator.com/item?id=40644750) - [Researchers make a supercapacitor from water, cement, and carbon black](https://www.bbc.com/future/article/20240610-how-the-concrete-in-your-house-could-be-turned-into-a-battery)
 * [2024-06-11, 09:51:48](https://news.ycombinator.com/item?id=40644366) - [Medieval game pieces emerge from the ruins of a German castle](https://news.artnet.com/art-world/medieval-game-pieces-emerge-from-the-ruins-of-a-mysterious-german-castle-2497815)
+* [2024-06-11, 08:22:55](https://news.ycombinator.com/item?id=40643847) - [My First Production Bug](https://robinverschueren.com/2024/06/08/my-very-first-production-bug/)
 
 ## [Archives](archives/index.md)
 
