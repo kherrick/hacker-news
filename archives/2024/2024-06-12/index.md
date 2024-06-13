@@ -19,6 +19,7 @@
 * [2024-06-12, 20:53:29](https://news.ycombinator.com/item?id=40662984) - [A beginners guide to fine tuning LLM using LoRA](https://zohaib.me/a-beginners-guide-to-fine-tuning-llm-using-lora/)
 * [2024-06-12, 20:49:53](https://news.ycombinator.com/item?id=40662957) - [Honda's Hidden Resonators Keep Tire Noise to a Minimum](https://jalopnik.com/here-s-how-honda-s-hidden-resonators-keep-tire-noise-to-1851535905)
 * [2024-06-12, 20:36:43](https://news.ycombinator.com/item?id=40662803) - [Boeing Starliner Stuck on Space Station as More Leaks Discovered](https://futurism.com/the-byte/boeing-starliner-stuck-space-station-more-leaks)
+* [2024-06-12, 20:29:35](https://news.ycombinator.com/item?id=40662735) - [Pg_lakehouse: A DuckDB Alternative in Postgres](https://blog.paradedb.com/pages/introducing_lakehouse)
 * [2024-06-12, 20:24:33](https://news.ycombinator.com/item?id=40662670) - [Using AI to spark connections at a conference](https://swizec.com/blog/using-ai-to-spark-connections-at-a-conference/)
 * [2024-06-12, 20:11:26](https://news.ycombinator.com/item?id=40662508) - [Cheapest source of fossil fuel generation is double the cost of solar](https://pv-magazine-usa.com/2024/06/11/cheapest-source-of-fossil-fuel-generation-is-double-the-cost-of-utility-scale-solar/)
 * [2024-06-12, 19:51:04](https://news.ycombinator.com/item?id=40662282) - [AI in education may require us to return to 15th-century pedagogy](https://www.chatterpulseai.com/blog/ai-in-education-may-require-us-to-return-to-15th-century-pedagogy/?r=hn)
