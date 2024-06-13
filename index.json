@@ -1,11 +1,21 @@
 [
   [
     [
+      "2024-06-13, 20:07:22",
+      "https://news.ycombinator.com/item?id=40674073"
+    ],
+    [
+      "Taking away iPhone made daughter a better person",
+      "https://www.theguardian.com/technology/article/2024/jun/13/kids-no-iphone-screen-time"
+    ]
+  ],
+  [
+    [
       "2024-06-13, 19:28:22",
       "https://news.ycombinator.com/item?id=40673567"
     ],
     [
-      "Saudi Arabia ends 50-year petrodollar pact with US",
+      "U.S.-Saudi petrodollar pact ends after 50 years",
       "https://www.nasdaq.com/articles/us-saudi-petrodollar-pact-ends-after-50-years"
     ]
   ],
@@ -21,32 +31,12 @@
   ],
   [
     [
-      "2024-06-13, 18:29:05",
-      "https://news.ycombinator.com/item?id=40672955"
+      "2024-06-13, 17:57:10",
+      "https://news.ycombinator.com/item?id=40672606"
     ],
     [
-      "How Google is helping create a new model for clean energy",
-      "https://blog.google/outreach-initiatives/sustainability/google-clean-energy-partnership/"
-    ]
-  ],
-  [
-    [
-      "2024-06-13, 18:07:21",
-      "https://news.ycombinator.com/item?id=40672700"
-    ],
-    [
-      "Beneath the AGI and Foundational Model Hype, Sober AI Is the Enterprise Default",
-      "https://www.dbreunig.com/2024/06/12/sober-ai-is-the-norm.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-13, 17:31:52",
-      "https://news.ycombinator.com/item?id=40672306"
-    ],
-    [
-      "Spectrum of Covid-19: From Asymptomatic Organ Damage to Long Covid Syndrome",
-      "https://whn.global/scientific/spectrum-of-covid-19-from-asymptomatic-organ-damage-to-long-covid-syndrome/"
+      "An Empirical Study of Mamba-Based Language Models",
+      "https://arxiv.org/abs/2406.07887"
     ]
   ],
   [
@@ -207,6 +197,16 @@
     [
       "Group chats rule the world",
       "https://sriramk.com/group-chats-rule-the-world"
+    ]
+  ],
+  [
+    [
+      "2024-06-12, 17:35:09",
+      "https://news.ycombinator.com/item?id=40660761"
+    ],
+    [
+      "The GJK Algorithm: A weird and beautiful way to do a simple thing",
+      "https://computerwebsite.net/writing/gjk"
     ]
   ],
   [
