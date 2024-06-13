@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-06-12, 22:04:59",
-      "https://news.ycombinator.com/item?id=40663724"
-    ],
-    [
-      "Martin-Baker Ejection Seat Made Its First of 7,722 Saves 75 Years Ago Today",
-      "https://www.twz.com/air/martin-baker-ejection-seat-made-its-first-of-7722-saves-75-yeats-ago-today"
-    ]
-  ],
-  [
-    [
       "2024-06-12, 22:02:27",
       "https://news.ycombinator.com/item?id=40663704"
     ],
@@ -297,6 +287,16 @@
     [
       "My First Production Bug",
       "https://robinverschueren.com/2024/06/08/my-very-first-production-bug/"
+    ]
+  ],
+  [
+    [
+      "2024-06-10, 19:41:06",
+      "https://news.ycombinator.com/item?id=40637816"
+    ],
+    [
+      "Beyond the wall: Working with aperiodic tilings using finite-state transducers",
+      "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-transducers/"
     ]
   ]
 ]
