@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-13](index.md)
 
+* [2024-06-13, 23:30:43](https://news.ycombinator.com/item?id=40676021) - [The Stanford Internet Observatory is being dismantled](https://www.platformer.news/stanford-internet-observatory-shutdown-stamos-diresta-sio/)
+* [2024-06-13, 22:17:57](https://news.ycombinator.com/item?id=40675468) - [OpenAI Doubles Annualized Revenue to $3.4B](https://www.bloomberg.com/news/articles/2024-06-12/openai-doubles-annualized-revenue-to-3-4-billion-information)
 * [2024-06-13, 22:09:55](https://news.ycombinator.com/item?id=40675397) - [Notebooks Are McDonalds of Code](https://yobibyte.github.io/notebooks.html)
 * [2024-06-13, 21:59:58](https://news.ycombinator.com/item?id=40675326) - [The 'Compact' Version of Stable Diffusion 3 Is Generating Monstrous Human Bodies](https://www.xatakaon.com/robotics-and-ai/the-compact-version-of-stable-diffusion-3-is-here-and-its-generating-monstrous-human-bodies)
 * [2024-06-13, 21:30:17](https://news.ycombinator.com/item?id=40675013) - [California's wage gap is the biggest in the US](https://www.sfgate.com/bayarea/article/california-wage-gap-biggest-us-19513144.php)
@@ -15,6 +17,7 @@
 * [2024-06-13, 20:49:25](https://news.ycombinator.com/item?id=40674590) - [Unity Catalog: Open, Multi-Modal Catalog for Data and AI](https://github.com/unitycatalog/unitycatalog)
 * [2024-06-13, 20:38:39](https://news.ycombinator.com/item?id=40674439) - [Boeing's Starliner Now Has 5 Leaks While Parked Outside the ISS](https://gizmodo.com/boeing-starliner-spacecraft-fifth-helium-leak-iss-nasa-1851534977)
 * [2024-06-13, 20:18:06](https://news.ycombinator.com/item?id=40674208) - [Rent in Cities Skylines 2 was too high, so the devs removed landlords](https://arstechnica.com/gaming/2024/06/the-rent-is-too-dang-high-in-cities-skylines-2-so-the-devs-nuked-the-landlords/)
+* [2024-06-13, 20:12:14](https://news.ycombinator.com/item?id=40674135) - [IKEA's retailer's solved global 'unhappy worker' crisis by raising salaries](https://fortune.com/europe/2024/06/11/ikeas-boss-solved-swedish-retailers-global-unhappy-worker-crisis-raising-salaries-introducing-flexible-working-subsidized-childcare/)
 * [2024-06-13, 20:07:22](https://news.ycombinator.com/item?id=40674073) - [Taking away iPhone made daughter a better person](https://www.theguardian.com/technology/article/2024/jun/13/kids-no-iphone-screen-time)
 * [2024-06-13, 19:52:53](https://news.ycombinator.com/item?id=40673877) - [Kavanaugh writes 9-0 opinion rejecting restriction on abortion pill access [pdf]](https://www.supremecourt.gov/opinions/23pdf/23-235_n7ip.pdf)
 * [2024-06-13, 19:49:27](https://news.ycombinator.com/item?id=40673833) - [Pay $1 to Hear Wu-Tang Clan’s Secret Album (Eventually)](https://www.nytimes.com/2024/06/13/arts/music/wu-tang-clan-once-upon-a-time-in-shaolin.html)
