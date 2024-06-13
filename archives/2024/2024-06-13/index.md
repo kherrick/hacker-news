@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-13](index.md)
 
+* [2024-06-13, 16:32:11](https://news.ycombinator.com/item?id=40671712) - [Phishing scammers impersonate AH employee to drain crypto wallets](https://www.web3isgoinggreat.com/single/andreessen-horowitz-phishing)
+* [2024-06-13, 16:06:42](https://news.ycombinator.com/item?id=40671381) - [Please maintain eye contact for the duration of the ad](https://twitter.com/soren_iverson/status/1801253187602788424)
 * [2024-06-13, 15:46:34](https://news.ycombinator.com/item?id=40671078) - [Supreme Court Upholds Broad Access to Abortion Pill Mifepristone](https://www.nytimes.com/live/2024/06/13/us/abortion-pill-supreme-court)
 * [2024-06-13, 15:31:30](https://news.ycombinator.com/item?id=40670898) - [AMD CEO Lisa Su reminisces about designing the PS3's infamous Cell processor](https://www.tomshardware.com/tech-industry/amd-ceo-lisa-su-reminisces-on-helping-design-the-ps3s-infamous-cell-processor-at-ibm)
 * [2024-06-13, 15:30:37](https://news.ycombinator.com/item?id=40670887) - [New Programming Langauge Makes Bash Scripting Easier](https://news.itsfoss.com/amber-lang/)

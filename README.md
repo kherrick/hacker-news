@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-13, 16:32:11](https://news.ycombinator.com/item?id=40671712) - [Phishing scammers impersonate AH employee to drain crypto wallets](https://www.web3isgoinggreat.com/single/andreessen-horowitz-phishing)
+* [2024-06-13, 16:06:42](https://news.ycombinator.com/item?id=40671381) - [Please maintain eye contact for the duration of the ad](https://twitter.com/soren_iverson/status/1801253187602788424)
 * [2024-06-13, 15:46:34](https://news.ycombinator.com/item?id=40671078) - [Supreme Court Upholds Broad Access to Abortion Pill Mifepristone](https://www.nytimes.com/live/2024/06/13/us/abortion-pill-supreme-court)
 * [2024-06-13, 15:31:30](https://news.ycombinator.com/item?id=40670898) - [AMD CEO Lisa Su reminisces about designing the PS3's infamous Cell processor](https://www.tomshardware.com/tech-industry/amd-ceo-lisa-su-reminisces-on-helping-design-the-ps3s-infamous-cell-processor-at-ibm)
 * [2024-06-13, 15:05:18](https://news.ycombinator.com/item?id=40670612) - [MLow: Meta's low bitrate audio codec](https://engineering.fb.com/2024/06/13/web/mlow-metas-low-bitrate-audio-codec/)
@@ -23,12 +25,10 @@
 * [2024-06-12, 15:32:53](https://news.ycombinator.com/item?id=40659236) - [Launch HN: Overwatch (YC S22): OSINT platform for cyber and fraud risk](https://news.ycombinator.com/item?id=40659236)
 * [2024-06-12, 12:55:15](https://news.ycombinator.com/item?id=40657574) - [Serious Sam handled massive amounts of enemies on 56k modem connections](https://staniks.github.io/articles/serious-engine-networking-analysis)
 * [2024-06-12, 12:44:14](https://news.ycombinator.com/item?id=40657467) - [Drawing Machines](https://drawingmachines.org/)
-* [2024-06-12, 11:20:16](https://news.ycombinator.com/item?id=40656780) - [Faxes From the Far Side (2015)](https://www.damninteresting.com/faxes-from-the-far-side/)
 * [2024-06-11, 20:16:23](https://news.ycombinator.com/item?id=40650974) - [Lexbor – An open source HTML Renderer library](https://github.com/lexbor/lexbor)
 * [2024-06-11, 16:15:47](https://news.ycombinator.com/item?id=40648082) - [Twenty, a modern CRM alternative to Salesforce](https://twenty.com)
 * [2024-06-11, 13:05:52](https://news.ycombinator.com/item?id=40645773) - [Mushroom Hunters Can't Stop Finding Mysterious Fungi](https://www.nytimes.com/2024/06/11/science/mushroom-hunters-dna.html)
 * [2024-06-11, 13:00:37](https://news.ycombinator.com/item?id=40645726) - [Centuries of Childhood](https://resobscura.substack.com/p/centuries-of-childhood)
-* [2024-06-11, 11:24:20](https://news.ycombinator.com/item?id=40644960) - [Author Clock: a novel way to tell time](https://www.authorclock.com/)
 * [2024-06-11, 09:51:48](https://news.ycombinator.com/item?id=40644366) - [Medieval game pieces emerge from the ruins of a German castle](https://news.artnet.com/art-world/medieval-game-pieces-emerge-from-the-ruins-of-a-mysterious-german-castle-2497815)
 
 ## [Archives](archives/index.md)
