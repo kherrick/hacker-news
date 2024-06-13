@@ -22,6 +22,7 @@
 * [2024-06-11, 16:40:12](https://news.ycombinator.com/item?id=40648404) - [Show HN: A keyboard-centric clipboard history app for macOS](https://clipbook.app/)
 * [2024-06-11, 16:15:47](https://news.ycombinator.com/item?id=40648082) - [Twenty, a modern CRM alternative to Salesforce](https://twenty.com)
 * [2024-06-11, 14:58:52](https://news.ycombinator.com/item?id=40646940) - [Banana giant Chiquita held liable by US court for funding paramilitaries](https://www.bbc.com/news/articles/c6pprpd3x96o)
+* [2024-06-11, 14:56:38](https://news.ycombinator.com/item?id=40646909) - [Terence Tao on proof checkers and AI programs](https://www.scientificamerican.com/article/ai-will-become-mathematicians-co-pilot/)
 * [2024-06-11, 13:05:52](https://news.ycombinator.com/item?id=40645773) - [Mushroom Hunters Can't Stop Finding Mysterious Fungi](https://www.nytimes.com/2024/06/11/science/mushroom-hunters-dna.html)
 * [2024-06-11, 13:00:37](https://news.ycombinator.com/item?id=40645726) - [Centuries of Childhood](https://resobscura.substack.com/p/centuries-of-childhood)
 * [2024-06-11, 11:34:17](https://news.ycombinator.com/item?id=40645015) - [Metaflora](https://flora.metazooa.com)
@@ -29,7 +30,6 @@
 * [2024-06-11, 10:55:01](https://news.ycombinator.com/item?id=40644750) - [Researchers make a supercapacitor from water, cement, and carbon black](https://www.bbc.com/future/article/20240610-how-the-concrete-in-your-house-could-be-turned-into-a-battery)
 * [2024-06-11, 09:51:48](https://news.ycombinator.com/item?id=40644366) - [Medieval game pieces emerge from the ruins of a German castle](https://news.artnet.com/art-world/medieval-game-pieces-emerge-from-the-ruins-of-a-mysterious-german-castle-2497815)
 * [2024-06-11, 08:22:55](https://news.ycombinator.com/item?id=40643847) - [My First Production Bug](https://robinverschueren.com/2024/06/08/my-very-first-production-bug/)
-* [2024-06-10, 19:41:06](https://news.ycombinator.com/item?id=40637816) - [Beyond the wall: Working with aperiodic tilings using finite-state transducers](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-transducers/)
 
 ## [Archives](archives/index.md)
 
