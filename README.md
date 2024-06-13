@@ -3,7 +3,7 @@
 * [2024-06-13, 17:20:14](https://news.ycombinator.com/item?id=40672215) - [You can help Anna's Archive by seeding torrents](https://annas-archive.org/torrents)
 * [2024-06-13, 17:00:56](https://news.ycombinator.com/item?id=40672027) - [Tesorio (YC S15) Is Hiring a Senior GenAI/LLM Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
 * [2024-06-13, 16:45:57](https://news.ycombinator.com/item?id=40671858) - [Postgres 17: Streaming I/O for sequential scans and ANALYZE](https://pganalyze.com/blog/5mins-postgres-17-streaming-io)
-* [2024-06-13, 16:44:05](https://news.ycombinator.com/item?id=40671842) - [Ask HN: What alternatives to Adobe products are you switching to?](https://news.ycombinator.com/item?id=40671842)
+* [2024-06-13, 16:34:05](https://news.ycombinator.com/item?id=40671738) - [IntelliJ GitHub Plugin leaking credentials](https://blog.jetbrains.com/security/2024/06/updates-for-security-issue-affecting-intellij-based-ides-2023-1-and-github-plugin/)
 * [2024-06-13, 16:32:11](https://news.ycombinator.com/item?id=40671712) - [Phishing scammers impersonate AH employee to drain crypto wallets](https://www.web3isgoinggreat.com/single/andreessen-horowitz-phishing)
 * [2024-06-13, 15:31:30](https://news.ycombinator.com/item?id=40670898) - [AMD CEO Lisa Su reminisces about designing the PS3's infamous Cell processor](https://www.tomshardware.com/tech-industry/amd-ceo-lisa-su-reminisces-on-helping-design-the-ps3s-infamous-cell-processor-at-ibm)
 * [2024-06-13, 15:05:18](https://news.ycombinator.com/item?id=40670612) - [MLow: Meta's low bitrate audio codec](https://engineering.fb.com/2024/06/13/web/mlow-metas-low-bitrate-audio-codec/)
