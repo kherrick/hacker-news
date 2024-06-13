@@ -8,6 +8,7 @@
 * [2024-06-13, 09:33:12](https://news.ycombinator.com/item?id=40667606) - [Arm says it wants all Snapdragon X Elite laptops destroyed](https://www.xda-developers.com/arm-says-it-wants-all-snapdragon-x-elite-laptops-destroyed/)
 * [2024-06-13, 08:58:48](https://news.ycombinator.com/item?id=40667416) - [Apple to 'Pay' OpenAI for ChatGPT Through Distribution, Not Cash](https://www.bnnbloomberg.ca/apple-to-pay-openai-for-chatgpt-through-distribution-not-cash-1.2084539)
 * [2024-06-13, 07:57:56](https://news.ycombinator.com/item?id=40667102) - [AMD's MI300X Outperforms Nvidia's H100 for LLM Inference](https://www.blog.tensorwave.com/amds-mi300x-outperforms-nvidias-h100-for-llm-inference/)
+* [2024-06-13, 06:56:53](https://news.ycombinator.com/item?id=40666757) - [Ray Tracing with POV-Ray: 25 Scenes in 25 Days](https://github.com/susam/pov25)
 * [2024-06-13, 06:45:35](https://news.ycombinator.com/item?id=40666658) - [Altman backed AI Social Network 'Maven' imported 1.12M Fediverse posts](https://wedistribute.org/2024/06/maven-mastodon-posts/)
 * [2024-06-13, 05:42:08](https://news.ycombinator.com/item?id=40666304) - [YouTube's next move might make it virtually impossible to block ads](https://www.androidpolice.com/youtube-next-server-injected-ads-impossible-to-block/)
 * [2024-06-13, 05:08:10](https://news.ycombinator.com/item?id=40666152) - [Microsoft's Nadella is building an AI empire](https://www.wsj.com/tech/ai/microsoft-nadella-openai-inflection-9727e77a)
