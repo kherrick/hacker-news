@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-13](index.md)
 
+* [2024-06-13, 17:31:52](https://news.ycombinator.com/item?id=40672306) - [Spectrum of Covid-19: From Asymptomatic Organ Damage to Long Covid Syndrome](https://whn.global/scientific/spectrum-of-covid-19-from-asymptomatic-organ-damage-to-long-covid-syndrome/)
 * [2024-06-13, 17:20:14](https://news.ycombinator.com/item?id=40672215) - [You can help Anna's Archive by seeding torrents](https://annas-archive.org/torrents)
 * [2024-06-13, 17:00:56](https://news.ycombinator.com/item?id=40672027) - [Tesorio (YC S15) Is Hiring a Senior GenAI/LLM Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
 * [2024-06-13, 16:57:23](https://news.ycombinator.com/item?id=40671980) - [The Great American Poisoning](https://justinmares.substack.com/p/the-great-american-poisoning)
@@ -53,6 +54,7 @@
 * [2024-06-13, 06:45:35](https://news.ycombinator.com/item?id=40666658) - [Altman backed AI Social Network 'Maven' imported 1.12M Fediverse posts](https://wedistribute.org/2024/06/maven-mastodon-posts/)
 * [2024-06-13, 06:29:04](https://news.ycombinator.com/item?id=40666557) - [Taboos and Self-Censorship Among U.S. Psychology Professors](https://journals.sagepub.com/doi/10.1177/17456916241252085)
 * [2024-06-13, 05:42:08](https://news.ycombinator.com/item?id=40666304) - [YouTube's next move might make it virtually impossible to block ads](https://www.androidpolice.com/youtube-next-server-injected-ads-impossible-to-block/)
+* [2024-06-13, 05:26:02](https://news.ycombinator.com/item?id=40666237) - [SSH agent extensions as an arbitrary RPC mechanism](https://mjg59.dreamwidth.org/69646.html)
 * [2024-06-13, 05:08:10](https://news.ycombinator.com/item?id=40666152) - [Microsoft's Nadella is building an AI empire](https://www.wsj.com/tech/ai/microsoft-nadella-openai-inflection-9727e77a)
 * [2024-06-13, 03:44:55](https://news.ycombinator.com/item?id=40665734) - [What If We Recaption Billions of Web Images with LLaMA-3?](https://arxiv.org/abs/2406.08478)
 * [2024-06-13, 03:42:39](https://news.ycombinator.com/item?id=40665721) - [Uncensor Any LLM with Abliteration](https://huggingface.co/blog/mlabonne/abliteration)
