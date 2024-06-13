@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-13, 02:01:46](https://news.ycombinator.com/item?id=40665211) - [VRChat is Laying Off 30% of Team](https://ask.vrchat.com/t/an-email-from-our-ceo/25060)
 * [2024-06-13, 00:08:09](https://news.ycombinator.com/item?id=40664541) - [Minuimus is a file optimiser utility script](https://birds-are-nice.me/software/minuimus.html)
 * [2024-06-12, 23:35:08](https://news.ycombinator.com/item?id=40664339) - [How Meta trains large language models at scale](https://engineering.fb.com/2024/06/12/data-infrastructure/training-large-language-models-at-scale-meta/)
 * [2024-06-12, 22:04:59](https://news.ycombinator.com/item?id=40663724) - [Martin-Baker Ejection Seat Made Its First of 7,722 Saves 75 Years Ago Today](https://www.twz.com/air/martin-baker-ejection-seat-made-its-first-of-7722-saves-75-yeats-ago-today)
@@ -14,9 +15,9 @@
 * [2024-06-12, 15:38:45](https://news.ycombinator.com/item?id=40659322) - [Accessing Math Solutions via Monte Carlo Self-Refine with LLaMa-3 8B](https://arxiv.org/abs/2406.07394)
 * [2024-06-12, 15:32:53](https://news.ycombinator.com/item?id=40659236) - [Launch HN: Overwatch (YC S22): OSINT platform for cyber and fraud risk](https://news.ycombinator.com/item?id=40659236)
 * [2024-06-12, 14:59:04](https://news.ycombinator.com/item?id=40658901) - [Star botanist likely made up data about nutritional supplements, new probe finds](https://www.science.org/content/article/star-botanist-likely-made-data-about-nutritional-supplements-new-probe-finds)
+* [2024-06-12, 12:55:15](https://news.ycombinator.com/item?id=40657574) - [Serious Sam handled massive amounts of enemies on 56k modem connections](https://staniks.github.io/articles/serious-engine-networking-analysis)
 * [2024-06-12, 11:20:16](https://news.ycombinator.com/item?id=40656780) - [Faxes from the Far Side of the Moon (2018)](https://www.damninteresting.com/faxes-from-the-far-side/)
 * [2024-06-12, 11:13:52](https://news.ycombinator.com/item?id=40656747) - [Elixir 1.17 released: set-theoretic types in patterns, durations, OTP 27](https://elixir-lang.org/blog/2024/06/12/elixir-v1-17-0-released/)
-* [2024-06-12, 01:05:40](https://news.ycombinator.com/item?id=40653417) - [Show HN: PDF to Podcast – Convert Any PDF into a Podcast Episode](https://pdf-to-podcast.com)
 * [2024-06-11, 20:25:18](https://news.ycombinator.com/item?id=40651054) - [Swift Static Linux SDK](https://www.swift.org/documentation/articles/static-linux-getting-started.html)
 * [2024-06-11, 20:16:23](https://news.ycombinator.com/item?id=40650974) - [Lexbor – An open source HTML Renderer library](https://github.com/lexbor/lexbor)
 * [2024-06-11, 16:15:47](https://news.ycombinator.com/item?id=40648082) - [Twenty, a modern CRM alternative to Salesforce](https://twenty.com)
@@ -28,7 +29,6 @@
 * [2024-06-11, 10:55:01](https://news.ycombinator.com/item?id=40644750) - [Researchers make a supercapacitor from water, cement, and carbon black](https://www.bbc.com/future/article/20240610-how-the-concrete-in-your-house-could-be-turned-into-a-battery)
 * [2024-06-11, 09:51:48](https://news.ycombinator.com/item?id=40644366) - [Medieval game pieces emerge from the ruins of a German castle](https://news.artnet.com/art-world/medieval-game-pieces-emerge-from-the-ruins-of-a-mysterious-german-castle-2497815)
 * [2024-06-11, 05:40:57](https://news.ycombinator.com/item?id=40642803) - [How to get the most out of Postgres memory settings](https://tembo.io/blog/optimizing-memory-usage)
-* [2024-06-10, 19:41:06](https://news.ycombinator.com/item?id=40637816) - [Beyond the wall: Working with aperiodic tilings using finite-state transducers](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-transducers/)
 * [2024-06-10, 13:47:18](https://news.ycombinator.com/item?id=40633671) - [Real-Time Settlers of Catan](https://robert.ocallahan.org/2024/06/real-time-settlers.html)
 
 ## [Archives](archives/index.md)
