@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-06-13](index.md)
 
+* [2024-06-13, 22:09:55](https://news.ycombinator.com/item?id=40675397) - [Notebooks Are McDonalds of Code](https://yobibyte.github.io/notebooks.html)
 * [2024-06-13, 21:59:58](https://news.ycombinator.com/item?id=40675326) - [The 'Compact' Version of Stable Diffusion 3 Is Generating Monstrous Human Bodies](https://www.xatakaon.com/robotics-and-ai/the-compact-version-of-stable-diffusion-3-is-here-and-its-generating-monstrous-human-bodies)
 * [2024-06-13, 21:30:17](https://news.ycombinator.com/item?id=40675013) - [California's wage gap is the biggest in the US](https://www.sfgate.com/bayarea/article/california-wage-gap-biggest-us-19513144.php)
+* [2024-06-13, 21:25:08](https://news.ycombinator.com/item?id=40674958) - [Adobe employees slam the company over AI controversy: 'Avoid becoming like IBM'](https://archive.is/2024.06.13-185505/https://www.businessinsider.com/adobe-employees-slam-company-over-ai-controversy-2024-6)
 * [2024-06-13, 21:12:47](https://news.ycombinator.com/item?id=40674835) - [OpenAI Appoints Retired U.S. Army General to Board of Directors](https://openai.com/index/openai-appoints-retired-us-army-general/)
 * [2024-06-13, 21:02:14](https://news.ycombinator.com/item?id=40674743) - [Skio (Subscriptions for Shopify, ReCharge migrations) is hiring](https://skio.com/careers/)
 * [2024-06-13, 21:00:05](https://news.ycombinator.com/item?id=40674722) - [European Content Removal Laws Scrub the Internet of Legal Content](https://www.techdirt.com/2024/06/13/european-content-removal-laws-are-scrubbing-the-internet-of-completely-legal-content/)
