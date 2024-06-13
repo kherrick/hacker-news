@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-13, 21:30:17",
+      "https://news.ycombinator.com/item?id=40675013"
+    ],
+    [
+      "California's wage gap is the biggest in the US",
+      "https://www.sfgate.com/bayarea/article/california-wage-gap-biggest-us-19513144.php"
+    ]
+  ],
+  [
+    [
       "2024-06-13, 21:12:47",
       "https://news.ycombinator.com/item?id=40674835"
     ],
@@ -11,32 +21,12 @@
   ],
   [
     [
-      "2024-06-13, 21:02:14",
-      "https://news.ycombinator.com/item?id=40674743"
+      "2024-06-13, 20:53:48",
+      "https://news.ycombinator.com/item?id=40674649"
     ],
     [
-      "Skio (Subscriptions for Shopify, ReCharge migrations) is hiring",
-      "https://skio.com/careers/"
-    ]
-  ],
-  [
-    [
-      "2024-06-13, 21:00:05",
-      "https://news.ycombinator.com/item?id=40674722"
-    ],
-    [
-      "European Content Removal Laws Scrub the Internet of Legal Content",
-      "https://www.techdirt.com/2024/06/13/european-content-removal-laws-are-scrubbing-the-internet-of-completely-legal-content/"
-    ]
-  ],
-  [
-    [
-      "2024-06-13, 20:38:39",
-      "https://news.ycombinator.com/item?id=40674439"
-    ],
-    [
-      "Boeing's Starliner Now Has 5 Leaks While Parked Outside the ISS",
-      "https://gizmodo.com/boeing-starliner-spacecraft-fifth-helium-leak-iss-nasa-1851534977"
+      "Encodings for flattened heap values",
+      "https://cr.openjdk.org/~jrose/values/flattened-values.html"
     ]
   ],
   [
@@ -47,6 +37,26 @@
     [
       "Taking away iPhone made daughter a better person",
       "https://www.theguardian.com/technology/article/2024/jun/13/kids-no-iphone-screen-time"
+    ]
+  ],
+  [
+    [
+      "2024-06-13, 19:52:53",
+      "https://news.ycombinator.com/item?id=40673877"
+    ],
+    [
+      "Kavanaugh writes 9-0 opinion rejecting restriction on abortion pill access [pdf]",
+      "https://www.supremecourt.gov/opinions/23pdf/23-235_n7ip.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-06-13, 19:49:27",
+      "https://news.ycombinator.com/item?id=40673833"
+    ],
+    [
+      "Pay $1 to Hear Wu-Tang Clan’s Secret Album (Eventually)",
+      "https://www.nytimes.com/2024/06/13/arts/music/wu-tang-clan-once-upon-a-time-in-shaolin.html"
     ]
   ],
   [
@@ -97,6 +107,16 @@
     [
       "Ted Chiang has won the PEN/Faulkner Foundation's short story prize",
       "https://lithub.com/ted-chiang-has-won-the-pen-faulkner-foundations-short-story-prize/"
+    ]
+  ],
+  [
+    [
+      "2024-06-13, 17:00:56",
+      "https://news.ycombinator.com/item?id=40672027"
+    ],
+    [
+      "Tesorio (YC S15) Is Hiring a Senior GenAI/LLM Engineer (100% Remote)",
+      "https://www.tesorio.com/careers#job-openings"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2024-06-11, 13:05:52",
-      "https://news.ycombinator.com/item?id=40645773"
-    ],
-    [
-      "Mushroom hunters can't stop finding mysterious fungi",
-      "https://www.nytimes.com/2024/06/11/science/mushroom-hunters-dna.html"
-    ]
-  ],
-  [
-    [
       "2024-06-11, 10:26:21",
       "https://news.ycombinator.com/item?id=40644562"
     ],
     [
       "Scan HTML faster with SIMD instructions – Chrome edition",
       "https://lemire.me/blog/2024/06/08/scan-html-faster-with-simd-instructions-chrome-edition/"
-    ]
-  ],
-  [
-    [
-      "2024-06-11, 09:35:34",
-      "https://news.ycombinator.com/item?id=40644261"
-    ],
-    [
-      "Perspective-Correct Interpolation",
-      "https://andrewkchan.dev/posts/perspective-interpolation.html"
     ]
   ]
 ]
