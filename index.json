@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-13, 14:06:31",
+      "https://news.ycombinator.com/item?id=40669827"
+    ],
+    [
+      "The Qualcomm Snapdragon X Architecture Deep Dive: Getting to Know Oryon",
+      "https://www.anandtech.com/show/21445/qualcomm-snapdragon-x-architecture-deep-dive"
+    ]
+  ],
+  [
+    [
+      "2024-06-13, 13:24:25",
+      "https://news.ycombinator.com/item?id=40669362"
+    ],
+    [
+      "OpenAI expands lobbying team to influence regulation",
+      "https://www.ft.com/content/2bee634c-b8c4-459e-b80c-07a4e552322c"
+    ]
+  ],
+  [
+    [
       "2024-06-13, 13:22:29",
       "https://news.ycombinator.com/item?id=40669337"
     ],
@@ -11,32 +31,12 @@
   ],
   [
     [
-      "2024-06-13, 12:27:22",
-      "https://news.ycombinator.com/item?id=40668803"
-    ],
-    [
-      "iTerm 3.5.1 removes automatic OpenAI integration, requires opt-in",
-      "https://iterm2.com/downloads.html"
-    ]
-  ],
-  [
-    [
       "2024-06-13, 12:00:36",
       "https://news.ycombinator.com/item?id=40668572"
     ],
     [
       "Reworkd (YC S23) Is Hiring a founding back end/infrastructure engineer",
       "https://www.ycombinator.com/companies/reworkd/jobs/4f6BHpT-founding-engineer"
-    ]
-  ],
-  [
-    [
-      "2024-06-13, 11:53:11",
-      "https://news.ycombinator.com/item?id=40668504"
-    ],
-    [
-      "Southwest Airlines Boeing 737-8 Max Experienced Dutch Roll",
-      "https://avherald.com/h?article=519ce679"
     ]
   ],
   [
@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2024-06-13, 09:49:48",
-      "https://news.ycombinator.com/item?id=40667687"
-    ],
-    [
-      "One of the major sellers of detailed driver behavioral data is shutting down",
-      "https://arstechnica.com/cars/2024/06/one-of-the-major-sellers-of-detailed-driver-behavioral-data-is-shutting-down/"
-    ]
-  ],
-  [
-    [
       "2024-06-13, 09:41:51",
       "https://news.ycombinator.com/item?id=40667644"
     ],
@@ -107,26 +97,6 @@
     [
       "Is the Future of Moore's Law in a Particle Accelerator?",
       "https://spectrum.ieee.org/euv-fel"
-    ]
-  ],
-  [
-    [
-      "2024-06-13, 07:57:56",
-      "https://news.ycombinator.com/item?id=40667102"
-    ],
-    [
-      "AMD's MI300X Outperforms Nvidia's H100 for LLM Inference",
-      "https://www.blog.tensorwave.com/amds-mi300x-outperforms-nvidias-h100-for-llm-inference/"
-    ]
-  ],
-  [
-    [
-      "2024-06-13, 06:56:53",
-      "https://news.ycombinator.com/item?id=40666757"
-    ],
-    [
-      "Ray Tracing with POV-Ray: 25 Scenes in 25 Days",
-      "https://github.com/susam/pov25"
     ]
   ],
   [
@@ -241,6 +211,16 @@
   ],
   [
     [
+      "2024-06-12, 12:44:14",
+      "https://news.ycombinator.com/item?id=40657467"
+    ],
+    [
+      "Drawing Machines",
+      "https://drawingmachines.org/"
+    ]
+  ],
+  [
+    [
       "2024-06-12, 11:20:16",
       "https://news.ycombinator.com/item?id=40656780"
     ],
@@ -287,6 +267,26 @@
     [
       "Centuries of Childhood",
       "https://resobscura.substack.com/p/centuries-of-childhood"
+    ]
+  ],
+  [
+    [
+      "2024-06-11, 11:34:17",
+      "https://news.ycombinator.com/item?id=40645015"
+    ],
+    [
+      "Metaflora",
+      "https://flora.metazooa.com"
+    ]
+  ],
+  [
+    [
+      "2024-06-11, 11:24:20",
+      "https://news.ycombinator.com/item?id=40644960"
+    ],
+    [
+      "Author Clock: a novel way to tell time",
+      "https://www.authorclock.com/"
     ]
   ],
   [
