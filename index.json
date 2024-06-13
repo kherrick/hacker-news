@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2024-06-12, 15:38:45",
+      "https://news.ycombinator.com/item?id=40659322"
+    ],
+    [
+      "Accessing Math Solutions via Monte Carlo Self-Refine with LLaMa-3 8B",
+      "https://arxiv.org/abs/2406.07394"
+    ]
+  ],
+  [
+    [
       "2024-06-12, 15:32:53",
       "https://news.ycombinator.com/item?id=40659236"
     ],
@@ -187,16 +197,6 @@
     [
       "Wipeout XL/2097: The Making of an Iconic PlayStation Soundtrack [video]",
       "https://www.youtube.com/watch?v=-nwWpQJFGp8"
-    ]
-  ],
-  [
-    [
-      "2024-06-11, 20:25:18",
-      "https://news.ycombinator.com/item?id=40651054"
-    ],
-    [
-      "Swift Static Linux SDK",
-      "https://www.swift.org/documentation/articles/static-linux-getting-started.html"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2024-06-11, 05:40:57",
-      "https://news.ycombinator.com/item?id=40642803"
+      "2024-06-10, 19:41:06",
+      "https://news.ycombinator.com/item?id=40637816"
     ],
     [
-      "How to get the most out of Postgres memory settings",
-      "https://tembo.io/blog/optimizing-memory-usage"
+      "Beyond the wall: Working with aperiodic tilings using finite-state transducers",
+      "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-transducers/"
     ]
   ]
 ]
