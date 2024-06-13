@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-13](index.md)
 
+* [2024-06-13, 15:31:30](https://news.ycombinator.com/item?id=40670898) - [AMD CEO Lisa Su reminisces about designing the PS3's infamous Cell processor](https://www.tomshardware.com/tech-industry/amd-ceo-lisa-su-reminisces-on-helping-design-the-ps3s-infamous-cell-processor-at-ibm)
 * [2024-06-13, 15:30:37](https://news.ycombinator.com/item?id=40670887) - [New Programming Langauge Makes Bash Scripting Easier](https://news.itsfoss.com/amber-lang/)
 * [2024-06-13, 15:30:21](https://news.ycombinator.com/item?id=40670880) - [How do you cool a 100F city?](https://www.bbc.com/future/article/20240613-how-to-cool-down-urban-heat-islands-in-americas-heatwaves)
 * [2024-06-13, 15:05:18](https://news.ycombinator.com/item?id=40670612) - [MLow: Meta's low bitrate audio codec](https://engineering.fb.com/2024/06/13/web/mlow-metas-low-bitrate-audio-codec/)
