@@ -4,7 +4,6 @@
 * [2024-06-13, 02:55:28](https://news.ycombinator.com/item?id=40665462) - [NASA accidentally broadcasts simulation of distressed astronauts](https://www.reuters.com/technology/space/nasa-accidentally-broadcasts-simulation-distressed-astronauts-space-station-2024-06-13/)
 * [2024-06-13, 00:08:09](https://news.ycombinator.com/item?id=40664541) - [Minuimus is a file optimiser utility script](https://birds-are-nice.me/software/minuimus.html)
 * [2024-06-12, 23:35:08](https://news.ycombinator.com/item?id=40664339) - [How Meta trains large language models at scale](https://engineering.fb.com/2024/06/12/data-infrastructure/training-large-language-models-at-scale-meta/)
-* [2024-06-12, 22:04:59](https://news.ycombinator.com/item?id=40663724) - [Martin-Baker Ejection Seat Made Its First of 7,722 Saves 75 Years Ago Today](https://www.twz.com/air/martin-baker-ejection-seat-made-its-first-of-7722-saves-75-yeats-ago-today)
 * [2024-06-12, 22:02:27](https://news.ycombinator.com/item?id=40663704) - [Gerald Sussman: Programming is (should be) fun (2022) [video]](https://www.youtube.com/watch?v=2MYzvQ1v8Ww)
 * [2024-06-12, 21:01:21](https://news.ycombinator.com/item?id=40663070) - [Etleap (YC W13) Is Hiring Customer Success Manager (SF)](https://etleap.com/careers/customer-success-manager/)
 * [2024-06-12, 19:43:50](https://news.ycombinator.com/item?id=40662176) - [Japan enacts law to promote competition in smartphone app stores](https://english.kyodonews.net/news/2024/06/bc2d7f45d456-japan-enacts-law-to-curb-apple-googles-app-dominance.html#google_vignette)
@@ -30,6 +29,7 @@
 * [2024-06-11, 10:55:01](https://news.ycombinator.com/item?id=40644750) - [Researchers make a supercapacitor from water, cement, and carbon black](https://www.bbc.com/future/article/20240610-how-the-concrete-in-your-house-could-be-turned-into-a-battery)
 * [2024-06-11, 09:51:48](https://news.ycombinator.com/item?id=40644366) - [Medieval game pieces emerge from the ruins of a German castle](https://news.artnet.com/art-world/medieval-game-pieces-emerge-from-the-ruins-of-a-mysterious-german-castle-2497815)
 * [2024-06-11, 08:22:55](https://news.ycombinator.com/item?id=40643847) - [My First Production Bug](https://robinverschueren.com/2024/06/08/my-very-first-production-bug/)
+* [2024-06-10, 19:41:06](https://news.ycombinator.com/item?id=40637816) - [Beyond the wall: Working with aperiodic tilings using finite-state transducers](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-transducers/)
 
 ## [Archives](archives/index.md)
 
