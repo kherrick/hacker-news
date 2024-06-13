@@ -7,6 +7,7 @@
 * [2024-06-11, 23:38:12](https://news.ycombinator.com/item?id=40652917) - [How much of a genius-level move was binary space partitioning in Doom? (2019)](https://twobithistory.org/2019/11/06/doom-bsp.html)
 * [2024-06-11, 23:11:31](https://news.ycombinator.com/item?id=40652731) - [Edward C. Stone, 1936-2024](https://www.caltech.edu/about/news/edward-stone-1936-2024)
 * [2024-06-11, 21:46:13](https://news.ycombinator.com/item?id=40651955) - [My Favourite Gleam Feature](https://erikarow.land/notes/gleam-favorite-feature)
+* [2024-06-11, 20:54:26](https://news.ycombinator.com/item?id=40651349) - [Wipeout XL/2097: The Making of an Iconic PlayStation Soundtrack [video]](https://www.youtube.com/watch?v=-nwWpQJFGp8)
 * [2024-06-11, 20:46:33](https://news.ycombinator.com/item?id=40651274) - [Tea Punch Was the First Cocktail](https://www.atlasobscura.com/articles/tea-punch-was-the-first-cocktail)
 * [2024-06-11, 20:25:18](https://news.ycombinator.com/item?id=40651054) - [Swift Static Linux SDK](https://www.swift.org/documentation/articles/static-linux-getting-started.html)
 * [2024-06-11, 20:16:23](https://news.ycombinator.com/item?id=40650974) - [Lexbor – an open source HTML Renderer library](https://github.com/lexbor/lexbor)
