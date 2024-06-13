@@ -10,6 +10,8 @@
 * [2024-06-13, 14:33:29](https://news.ycombinator.com/item?id=40670191) - [Wells Fargo Fires over a Dozen for 'Simulation of Keyboard Activity'](https://finance.yahoo.com/news/wells-fargo-fires-over-dozen-133711267.html)
 * [2024-06-13, 14:08:49](https://news.ycombinator.com/item?id=40669866) - [Wells Fargo Fires Over a Dozen for 'Simulation of Keyboard Activity'](https://www.bloomberg.com/news/articles/2024-06-13/wells-fires-over-a-dozen-for-simulation-of-keyboard-activity)
 * [2024-06-13, 14:06:31](https://news.ycombinator.com/item?id=40669827) - [The Qualcomm Snapdragon X Architecture Deep Dive: Getting to Know Oryon](https://www.anandtech.com/show/21445/qualcomm-snapdragon-x-architecture-deep-dive)
+* [2024-06-13, 13:48:22](https://news.ycombinator.com/item?id=40669603) - [China has become a scientific superpower](https://www.economist.com/science-and-technology/2024/06/12/china-has-become-a-scientific-superpower)
+* [2024-06-13, 13:47:41](https://news.ycombinator.com/item?id=40669590) - [Nvidia Conquers Latest AI Tests](https://spectrum.ieee.org/mlperf-nvidia-conquers)
 * [2024-06-13, 13:30:38](https://news.ycombinator.com/item?id=40669419) - [Canada Imposes 5% Tax on Streaming to Fund Local News, Diverse Content](https://www.techdirt.com/2024/06/13/canada-imposes-5-tax-on-streaming-to-fund-local-news-diverse-content/)
 * [2024-06-13, 13:24:25](https://news.ycombinator.com/item?id=40669362) - [OpenAI expands lobbying team to influence regulation](https://www.ft.com/content/2bee634c-b8c4-459e-b80c-07a4e552322c)
 * [2024-06-13, 13:22:29](https://news.ycombinator.com/item?id=40669337) - [Show HN: Shpool, a Lightweight Tmux Alternative](https://github.com/shell-pool/shpool)
