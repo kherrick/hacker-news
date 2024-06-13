@@ -6,6 +6,7 @@
 
 * [2024-06-13, 15:05:18](https://news.ycombinator.com/item?id=40670612) - [MLow: Meta's low bitrate audio codec](https://engineering.fb.com/2024/06/13/web/mlow-metas-low-bitrate-audio-codec/)
 * [2024-06-13, 14:41:18](https://news.ycombinator.com/item?id=40670309) - [US Supreme Court backs Starbucks over fired pro-union workers](https://www.reuters.com/legal/us-supreme-court-backs-starbucks-over-fired-pro-union-workers-2024-06-13/)
+* [2024-06-13, 14:37:06](https://news.ycombinator.com/item?id=40670242) - [Iridescence in Meat Caused by Surface Gratings](https://www.mdpi.com/2304-8158/2/4/499)
 * [2024-06-13, 14:33:29](https://news.ycombinator.com/item?id=40670191) - [Wells Fargo Fires over a Dozen for 'Simulation of Keyboard Activity'](https://finance.yahoo.com/news/wells-fargo-fires-over-dozen-133711267.html)
 * [2024-06-13, 14:08:49](https://news.ycombinator.com/item?id=40669866) - [Wells Fargo Fires Over a Dozen for 'Simulation of Keyboard Activity'](https://www.bloomberg.com/news/articles/2024-06-13/wells-fires-over-a-dozen-for-simulation-of-keyboard-activity)
 * [2024-06-13, 14:06:31](https://news.ycombinator.com/item?id=40669827) - [The Qualcomm Snapdragon X Architecture Deep Dive: Getting to Know Oryon](https://www.anandtech.com/show/21445/qualcomm-snapdragon-x-architecture-deep-dive)
