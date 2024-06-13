@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-13, 06:45:35](https://news.ycombinator.com/item?id=40666658) - [Altman backed AI Social Network 'Maven' imported 1.12M Fediverse posts](https://wedistribute.org/2024/06/maven-mastodon-posts/)
 * [2024-06-13, 05:42:08](https://news.ycombinator.com/item?id=40666304) - [YouTube's next move might make it virtually impossible to block ads](https://www.androidpolice.com/youtube-next-server-injected-ads-impossible-to-block/)
 * [2024-06-13, 05:08:10](https://news.ycombinator.com/item?id=40666152) - [Microsoft's Nadella is building an AI empire](https://www.wsj.com/tech/ai/microsoft-nadella-openai-inflection-9727e77a)
 * [2024-06-13, 03:42:39](https://news.ycombinator.com/item?id=40665721) - [Uncensor any LLM with abliteration](https://huggingface.co/blog/mlabonne/abliteration)
 * [2024-06-13, 01:58:34](https://news.ycombinator.com/item?id=40665194) - [Can LLMs invent better ways to train LLMs?](https://sakana.ai/llm-squared/)
 * [2024-06-13, 00:08:09](https://news.ycombinator.com/item?id=40664541) - [Minuimus is a file optimiser utility script](https://birds-are-nice.me/software/minuimus.html)
 * [2024-06-12, 23:35:08](https://news.ycombinator.com/item?id=40664339) - [How Meta trains large language models at scale](https://engineering.fb.com/2024/06/12/data-infrastructure/training-large-language-models-at-scale-meta/)
-* [2024-06-12, 22:04:59](https://news.ycombinator.com/item?id=40663724) - [Martin-Baker Ejection Seat Made Its First of 7,722 Saves 75 Years Ago Today](https://www.twz.com/air/martin-baker-ejection-seat-made-its-first-of-7722-saves-75-yeats-ago-today)
 * [2024-06-12, 22:02:27](https://news.ycombinator.com/item?id=40663704) - [Gerald Sussman: Programming is (should be) fun (2022) [video]](https://www.youtube.com/watch?v=2MYzvQ1v8Ww)
 * [2024-06-12, 21:01:21](https://news.ycombinator.com/item?id=40663070) - [Etleap (YC W13) Is Hiring Customer Success Manager (SF)](https://etleap.com/careers/customer-success-manager/)
 * [2024-06-12, 19:43:50](https://news.ycombinator.com/item?id=40662176) - [Japan enacts law to promote competition in smartphone app stores](https://english.kyodonews.net/news/2024/06/bc2d7f45d456-japan-enacts-law-to-curb-apple-googles-app-dominance.html#google_vignette)
