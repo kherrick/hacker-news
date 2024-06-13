@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-13, 15:30:37](https://news.ycombinator.com/item?id=40670887) - [New Programming Langauge Makes Bash Scripting Easier](https://news.itsfoss.com/amber-lang/)
+* [2024-06-13, 15:30:21](https://news.ycombinator.com/item?id=40670880) - [How do you cool a 100F city?](https://www.bbc.com/future/article/20240613-how-to-cool-down-urban-heat-islands-in-americas-heatwaves)
 * [2024-06-13, 15:05:18](https://news.ycombinator.com/item?id=40670612) - [MLow: Meta's low bitrate audio codec](https://engineering.fb.com/2024/06/13/web/mlow-metas-low-bitrate-audio-codec/)
 * [2024-06-13, 14:41:18](https://news.ycombinator.com/item?id=40670309) - [US Supreme Court backs Starbucks over fired pro-union workers](https://www.reuters.com/legal/us-supreme-court-backs-starbucks-over-fired-pro-union-workers-2024-06-13/)
 * [2024-06-13, 14:37:06](https://news.ycombinator.com/item?id=40670242) - [Iridescence in Meat Caused by Surface Gratings](https://www.mdpi.com/2304-8158/2/4/499)
@@ -18,9 +20,7 @@
 * [2024-06-13, 03:42:39](https://news.ycombinator.com/item?id=40665721) - [Uncensor any LLM with abliteration](https://huggingface.co/blog/mlabonne/abliteration)
 * [2024-06-12, 23:35:08](https://news.ycombinator.com/item?id=40664339) - [How Meta trains large language models at scale](https://engineering.fb.com/2024/06/12/data-infrastructure/training-large-language-models-at-scale-meta/)
 * [2024-06-12, 22:02:27](https://news.ycombinator.com/item?id=40663704) - [Gerald Sussman: Programming is (should be) fun (2022) [video]](https://www.youtube.com/watch?v=2MYzvQ1v8Ww)
-* [2024-06-12, 19:43:50](https://news.ycombinator.com/item?id=40662176) - [Japan enacts law to promote competition in smartphone app stores](https://english.kyodonews.net/news/2024/06/bc2d7f45d456-japan-enacts-law-to-curb-apple-googles-app-dominance.html#google_vignette)
 * [2024-06-12, 19:02:46](https://news.ycombinator.com/item?id=40661703) - [ChromeOS will soon be developed on large portions of the Android stack](https://blog.chromium.org/2024/06/building-faster-smarter-chromebook.html)
-* [2024-06-12, 17:58:14](https://news.ycombinator.com/item?id=40660986) - [Designing the avocado of uncertainty visualization](https://stamen.com/designing-the-avocado-of-uncertainty/)
 * [2024-06-12, 17:35:09](https://news.ycombinator.com/item?id=40660761) - [The GJK Algorithm: A weird and beautiful way to do a simple thing](https://computerwebsite.net/writing/gjk)
 * [2024-06-12, 17:27:33](https://news.ycombinator.com/item?id=40660689) - [Diffractive Chocolate](https://wp.optics.arizona.edu/oscoutreach/diffractive-chocolate/)
 * [2024-06-12, 15:32:53](https://news.ycombinator.com/item?id=40659236) - [Launch HN: Overwatch (YC S22): OSINT platform for cyber and fraud risk](https://news.ycombinator.com/item?id=40659236)
