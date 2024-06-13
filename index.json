@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-06-13, 02:55:28",
-      "https://news.ycombinator.com/item?id=40665462"
-    ],
-    [
-      "NASA accidentally broadcasts simulation of distressed astronauts",
-      "https://www.reuters.com/technology/space/nasa-accidentally-broadcasts-simulation-distressed-astronauts-space-station-2024-06-13/"
-    ]
-  ],
-  [
-    [
       "2024-06-13, 00:08:09",
       "https://news.ycombinator.com/item?id=40664541"
     ],
@@ -297,6 +287,16 @@
     [
       "Medieval game pieces emerge from the ruins of a German castle",
       "https://news.artnet.com/art-world/medieval-game-pieces-emerge-from-the-ruins-of-a-mysterious-german-castle-2497815"
+    ]
+  ],
+  [
+    [
+      "2024-06-10, 19:41:06",
+      "https://news.ycombinator.com/item?id=40637816"
+    ],
+    [
+      "Beyond the wall: Working with aperiodic tilings using finite-state transducers",
+      "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-transducers/"
     ]
   ]
 ]
