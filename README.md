@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-13, 03:44:55](https://news.ycombinator.com/item?id=40665734) - [What If We Recaption Billions of Web Images with LLaMA-3?](https://arxiv.org/abs/2406.08478)
 * [2024-06-13, 03:42:39](https://news.ycombinator.com/item?id=40665721) - [Uncensor any LLM with abliteration](https://huggingface.co/blog/mlabonne/abliteration)
 * [2024-06-13, 02:55:28](https://news.ycombinator.com/item?id=40665462) - [NASA accidentally broadcasts simulation of distressed astronauts](https://www.reuters.com/technology/space/nasa-accidentally-broadcasts-simulation-distressed-astronauts-space-station-2024-06-13/)
 * [2024-06-13, 00:08:09](https://news.ycombinator.com/item?id=40664541) - [Minuimus is a file optimiser utility script](https://birds-are-nice.me/software/minuimus.html)
@@ -28,7 +29,6 @@
 * [2024-06-11, 11:24:20](https://news.ycombinator.com/item?id=40644960) - [Author Clock: a novel way to tell time](https://www.authorclock.com/)
 * [2024-06-11, 10:55:01](https://news.ycombinator.com/item?id=40644750) - [Researchers make a supercapacitor from water, cement, and carbon black](https://www.bbc.com/future/article/20240610-how-the-concrete-in-your-house-could-be-turned-into-a-battery)
 * [2024-06-11, 09:51:48](https://news.ycombinator.com/item?id=40644366) - [Medieval game pieces emerge from the ruins of a German castle](https://news.artnet.com/art-world/medieval-game-pieces-emerge-from-the-ruins-of-a-mysterious-german-castle-2497815)
-* [2024-06-11, 08:22:55](https://news.ycombinator.com/item?id=40643847) - [My First Production Bug](https://robinverschueren.com/2024/06/08/my-very-first-production-bug/)
 * [2024-06-10, 19:41:06](https://news.ycombinator.com/item?id=40637816) - [Beyond the wall: Working with aperiodic tilings using finite-state transducers](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-transducers/)
 
 ## [Archives](archives/index.md)
