@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-13, 21:59:58](https://news.ycombinator.com/item?id=40675326) - [The 'Compact' Version of Stable Diffusion 3 Is Generating Monstrous Human Bodies](https://www.xatakaon.com/robotics-and-ai/the-compact-version-of-stable-diffusion-3-is-here-and-its-generating-monstrous-human-bodies)
 * [2024-06-13, 21:30:17](https://news.ycombinator.com/item?id=40675013) - [California's wage gap is the biggest in the US](https://www.sfgate.com/bayarea/article/california-wage-gap-biggest-us-19513144.php)
 * [2024-06-13, 20:53:48](https://news.ycombinator.com/item?id=40674649) - [Encodings for flattened heap values](https://cr.openjdk.org/~jrose/values/flattened-values.html)
 * [2024-06-13, 20:49:25](https://news.ycombinator.com/item?id=40674590) - [Unity Catalog: Open, Multi-Modal Catalog for Data and AI](https://github.com/unitycatalog/unitycatalog)
-* [2024-06-13, 20:38:39](https://news.ycombinator.com/item?id=40674439) - [Boeing's Starliner Now Has 5 Leaks While Parked Outside the ISS](https://gizmodo.com/boeing-starliner-spacecraft-fifth-helium-leak-iss-nasa-1851534977)
 * [2024-06-13, 19:49:27](https://news.ycombinator.com/item?id=40673833) - [Pay $1 to Hear Wu-Tang Clan’s Secret Album (Eventually)](https://www.nytimes.com/2024/06/13/arts/music/wu-tang-clan-once-upon-a-time-in-shaolin.html)
 * [2024-06-13, 19:28:22](https://news.ycombinator.com/item?id=40673567) - [U.S.-Saudi petrodollar pact ends after 50 years](https://www.nasdaq.com/articles/us-saudi-petrodollar-pact-ends-after-50-years)
 * [2024-06-13, 18:43:17](https://news.ycombinator.com/item?id=40673091) - [Mouth-based touchpad enables people living with paralysis to use computers](https://news.mit.edu/2024/mouth-based-touchpad-augmental-0605)

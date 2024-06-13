@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-13](index.md)
 
+* [2024-06-13, 21:59:58](https://news.ycombinator.com/item?id=40675326) - [The 'Compact' Version of Stable Diffusion 3 Is Generating Monstrous Human Bodies](https://www.xatakaon.com/robotics-and-ai/the-compact-version-of-stable-diffusion-3-is-here-and-its-generating-monstrous-human-bodies)
 * [2024-06-13, 21:30:17](https://news.ycombinator.com/item?id=40675013) - [California's wage gap is the biggest in the US](https://www.sfgate.com/bayarea/article/california-wage-gap-biggest-us-19513144.php)
 * [2024-06-13, 21:12:47](https://news.ycombinator.com/item?id=40674835) - [OpenAI Appoints Retired U.S. Army General to Board of Directors](https://openai.com/index/openai-appoints-retired-us-army-general/)
 * [2024-06-13, 21:02:14](https://news.ycombinator.com/item?id=40674743) - [Skio (Subscriptions for Shopify, ReCharge migrations) is hiring](https://skio.com/careers/)
