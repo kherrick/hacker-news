@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-13, 18:29:05](https://news.ycombinator.com/item?id=40672955) - [How Google is helping create a new model for clean energy](https://blog.google/outreach-initiatives/sustainability/google-clean-energy-partnership/)
 * [2024-06-13, 18:07:21](https://news.ycombinator.com/item?id=40672700) - [Beneath the AGI and Foundational Model Hype, Sober AI Is the Enterprise Default](https://www.dbreunig.com/2024/06/12/sober-ai-is-the-norm.html)
 * [2024-06-13, 17:14:33](https://news.ycombinator.com/item?id=40672158) - [Ted Chiang has won the PEN/Faulkner Foundation's short story prize](https://lithub.com/ted-chiang-has-won-the-pen-faulkner-foundations-short-story-prize/)
 * [2024-06-13, 17:00:56](https://news.ycombinator.com/item?id=40672027) - [Tesorio (YC S15) Is Hiring a Senior GenAI/LLM Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
@@ -17,7 +18,6 @@
 * [2024-06-13, 05:26:02](https://news.ycombinator.com/item?id=40666237) - [SSH agent extensions as an arbitrary RPC mechanism](https://mjg59.dreamwidth.org/69646.html)
 * [2024-06-12, 22:02:27](https://news.ycombinator.com/item?id=40663704) - [Gerald Sussman: Programming is (should be) fun (2022) [video]](https://www.youtube.com/watch?v=2MYzvQ1v8Ww)
 * [2024-06-12, 19:34:45](https://news.ycombinator.com/item?id=40662056) - [Bibliography keys: It's as easy as [1], [2], [3]](http://blog.cr.yp.to/20240612-bibkeys.html)
-* [2024-06-12, 18:29:42](https://news.ycombinator.com/item?id=40661293) - [Patterns of data loading: Topics and broadcast](https://shermanonsoftware.com/2024/06/12/patterns-of-data-loading-topics-and-broadcast/)
 * [2024-06-12, 17:45:07](https://news.ycombinator.com/item?id=40660867) - [Group chats rule the world](https://sriramk.com/group-chats-rule-the-world)
 * [2024-06-12, 17:35:09](https://news.ycombinator.com/item?id=40660761) - [The GJK Algorithm: A weird and beautiful way to do a simple thing](https://computerwebsite.net/writing/gjk)
 * [2024-06-12, 12:44:14](https://news.ycombinator.com/item?id=40657467) - [Drawing Machines](https://drawingmachines.org/)

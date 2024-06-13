@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-13](index.md)
 
+* [2024-06-13, 18:29:05](https://news.ycombinator.com/item?id=40672955) - [How Google is helping create a new model for clean energy](https://blog.google/outreach-initiatives/sustainability/google-clean-energy-partnership/)
 * [2024-06-13, 18:07:21](https://news.ycombinator.com/item?id=40672700) - [Beneath the AGI and Foundational Model Hype, Sober AI Is the Enterprise Default](https://www.dbreunig.com/2024/06/12/sober-ai-is-the-norm.html)
 * [2024-06-13, 17:31:52](https://news.ycombinator.com/item?id=40672306) - [Spectrum of Covid-19: From Asymptomatic Organ Damage to Long Covid Syndrome](https://whn.global/scientific/spectrum-of-covid-19-from-asymptomatic-organ-damage-to-long-covid-syndrome/)
 * [2024-06-13, 17:20:14](https://news.ycombinator.com/item?id=40672215) - [You can help Anna's Archive by seeding torrents](https://annas-archive.org/torrents)
