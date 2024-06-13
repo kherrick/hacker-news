@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-06-13, 15:30:37",
-      "https://news.ycombinator.com/item?id=40670887"
+      "2024-06-13, 15:31:30",
+      "https://news.ycombinator.com/item?id=40670898"
     ],
     [
-      "New Programming Langauge Makes Bash Scripting Easier",
-      "https://news.itsfoss.com/amber-lang/"
+      "AMD CEO Lisa Su reminisces about designing the PS3's infamous Cell processor",
+      "https://www.tomshardware.com/tech-industry/amd-ceo-lisa-su-reminisces-on-helping-design-the-ps3s-infamous-cell-processor-at-ibm"
     ]
   ],
   [
@@ -31,32 +31,12 @@
   ],
   [
     [
-      "2024-06-13, 14:41:18",
-      "https://news.ycombinator.com/item?id=40670309"
-    ],
-    [
-      "US Supreme Court backs Starbucks over fired pro-union workers",
-      "https://www.reuters.com/legal/us-supreme-court-backs-starbucks-over-fired-pro-union-workers-2024-06-13/"
-    ]
-  ],
-  [
-    [
       "2024-06-13, 14:37:06",
       "https://news.ycombinator.com/item?id=40670242"
     ],
     [
       "Iridescence in Meat Caused by Surface Gratings",
       "https://www.mdpi.com/2304-8158/2/4/499"
-    ]
-  ],
-  [
-    [
-      "2024-06-13, 14:33:29",
-      "https://news.ycombinator.com/item?id=40670191"
-    ],
-    [
-      "Wells Fargo Fires over a Dozen for 'Simulation of Keyboard Activity'",
-      "https://finance.yahoo.com/news/wells-fargo-fires-over-dozen-133711267.html"
     ]
   ],
   [
@@ -77,26 +57,6 @@
     [
       "The Qualcomm Snapdragon X Architecture Deep Dive: Getting to Know Oryon",
       "https://www.anandtech.com/show/21445/qualcomm-snapdragon-x-architecture-deep-dive"
-    ]
-  ],
-  [
-    [
-      "2024-06-13, 13:48:22",
-      "https://news.ycombinator.com/item?id=40669603"
-    ],
-    [
-      "China has become a scientific superpower",
-      "https://www.economist.com/science-and-technology/2024/06/12/china-has-become-a-scientific-superpower"
-    ]
-  ],
-  [
-    [
-      "2024-06-13, 13:47:41",
-      "https://news.ycombinator.com/item?id=40669590"
-    ],
-    [
-      "Nvidia Conquers Latest AI Tests",
-      "https://spectrum.ieee.org/mlperf-nvidia-conquers"
     ]
   ],
   [
@@ -151,16 +111,6 @@
   ],
   [
     [
-      "2024-06-13, 09:17:10",
-      "https://news.ycombinator.com/item?id=40667524"
-    ],
-    [
-      "Is the Future of Moore's Law in a Particle Accelerator?",
-      "https://spectrum.ieee.org/euv-fel"
-    ]
-  ],
-  [
-    [
       "2024-06-13, 03:44:55",
       "https://news.ycombinator.com/item?id=40665734"
     ],
@@ -177,6 +127,16 @@
     [
       "Uncensor any LLM with abliteration",
       "https://huggingface.co/blog/mlabonne/abliteration"
+    ]
+  ],
+  [
+    [
+      "2024-06-13, 01:31:28",
+      "https://news.ycombinator.com/item?id=40665023"
+    ],
+    [
+      "Whose CIDR is it anyway?",
+      "https://www.netmeister.org/blog/cidr-allocations.html"
     ]
   ],
   [
@@ -201,12 +161,32 @@
   ],
   [
     [
+      "2024-06-12, 19:43:50",
+      "https://news.ycombinator.com/item?id=40662176"
+    ],
+    [
+      "Japan enacts law to promote competition in smartphone app stores",
+      "https://english.kyodonews.net/news/2024/06/bc2d7f45d456-japan-enacts-law-to-curb-apple-googles-app-dominance.html#google_vignette"
+    ]
+  ],
+  [
+    [
       "2024-06-12, 19:02:46",
       "https://news.ycombinator.com/item?id=40661703"
     ],
     [
       "ChromeOS will soon be developed on large portions of the Android stack",
       "https://blog.chromium.org/2024/06/building-faster-smarter-chromebook.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-12, 17:58:14",
+      "https://news.ycombinator.com/item?id=40660986"
+    ],
+    [
+      "Designing the avocado of uncertainty visualization",
+      "https://stamen.com/designing-the-avocado-of-uncertainty/"
     ]
   ],
   [
@@ -281,12 +261,32 @@
   ],
   [
     [
+      "2024-06-11, 13:05:52",
+      "https://news.ycombinator.com/item?id=40645773"
+    ],
+    [
+      "Mushroom Hunters Can't Stop Finding Mysterious Fungi",
+      "https://www.nytimes.com/2024/06/11/science/mushroom-hunters-dna.html"
+    ]
+  ],
+  [
+    [
       "2024-06-11, 13:00:37",
       "https://news.ycombinator.com/item?id=40645726"
     ],
     [
       "Centuries of Childhood",
       "https://resobscura.substack.com/p/centuries-of-childhood"
+    ]
+  ],
+  [
+    [
+      "2024-06-11, 11:24:20",
+      "https://news.ycombinator.com/item?id=40644960"
+    ],
+    [
+      "Author Clock: a novel way to tell time",
+      "https://www.authorclock.com/"
     ]
   ],
   [
