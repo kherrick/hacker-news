@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-13, 13:30:38](https://news.ycombinator.com/item?id=40669419) - [Canada Imposes 5% Tax on Streaming to Fund Local News, Diverse Content](https://www.techdirt.com/2024/06/13/canada-imposes-5-tax-on-streaming-to-fund-local-news-diverse-content/)
 * [2024-06-13, 12:27:22](https://news.ycombinator.com/item?id=40668803) - [iTerm 3.5.1 removes automatic OpenAI integration, requires opt-in](https://iterm2.com/downloads.html)
 * [2024-06-13, 12:00:36](https://news.ycombinator.com/item?id=40668572) - [Reworkd (YC S23) Is Hiring a founding back end/infrastructure engineer](https://www.ycombinator.com/companies/reworkd/jobs/4f6BHpT-founding-engineer)
 * [2024-06-13, 11:53:11](https://news.ycombinator.com/item?id=40668504) - [Southwest Airlines Boeing 737-8 Max Experienced Dutch Roll](https://avherald.com/h?article=519ce679)
@@ -24,7 +25,6 @@
 * [2024-06-12, 17:27:33](https://news.ycombinator.com/item?id=40660689) - [Diffractive Chocolate](https://wp.optics.arizona.edu/oscoutreach/diffractive-chocolate/)
 * [2024-06-12, 15:32:53](https://news.ycombinator.com/item?id=40659236) - [Launch HN: Overwatch (YC S22): OSINT platform for cyber and fraud risk](https://news.ycombinator.com/item?id=40659236)
 * [2024-06-12, 12:55:15](https://news.ycombinator.com/item?id=40657574) - [Serious Sam handled massive amounts of enemies on 56k modem connections](https://staniks.github.io/articles/serious-engine-networking-analysis)
-* [2024-06-12, 11:20:16](https://news.ycombinator.com/item?id=40656780) - [Faxes From the Far Side (2015)](https://www.damninteresting.com/faxes-from-the-far-side/)
 * [2024-06-11, 20:16:23](https://news.ycombinator.com/item?id=40650974) - [Lexbor – An open source HTML Renderer library](https://github.com/lexbor/lexbor)
 * [2024-06-11, 16:15:47](https://news.ycombinator.com/item?id=40648082) - [Twenty, a modern CRM alternative to Salesforce](https://twenty.com)
 * [2024-06-11, 13:00:37](https://news.ycombinator.com/item?id=40645726) - [Centuries of Childhood](https://resobscura.substack.com/p/centuries-of-childhood)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-13](index.md)
 
+* [2024-06-13, 13:30:38](https://news.ycombinator.com/item?id=40669419) - [Canada Imposes 5% Tax on Streaming to Fund Local News, Diverse Content](https://www.techdirt.com/2024/06/13/canada-imposes-5-tax-on-streaming-to-fund-local-news-diverse-content/)
 * [2024-06-13, 12:48:50](https://news.ycombinator.com/item?id=40669005) - [Stop using Brave Browser Seriously. (2023)](https://www.spacebar.news/stop-using-brave-browser/)
 * [2024-06-13, 12:27:22](https://news.ycombinator.com/item?id=40668803) - [iTerm 3.5.1 removes automatic OpenAI integration, requires opt-in](https://iterm2.com/downloads.html)
 * [2024-06-13, 12:00:36](https://news.ycombinator.com/item?id=40668572) - [Reworkd (YC S23) Is Hiring a founding back end/infrastructure engineer](https://www.ycombinator.com/companies/reworkd/jobs/4f6BHpT-founding-engineer)
