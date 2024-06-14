@@ -25,11 +25,11 @@
 * [2024-06-13, 18:43:17](https://news.ycombinator.com/item?id=40673091) - [Mouth-based touchpad enables people living with paralysis to use computers](https://news.mit.edu/2024/mouth-based-touchpad-augmental-0605)
 * [2024-06-13, 16:44:23](https://news.ycombinator.com/item?id=40671846) - [Dark Software](https://notes.mtb.xyz/p/dark-software)
 * [2024-06-13, 15:51:11](https://news.ycombinator.com/item?id=40671140) - [Show HN: XDeck – An ad-blocking client app for macOS, like TweetDeck](https://github.com/morishin/XDeck)
-* [2024-06-12, 22:03:33](https://news.ycombinator.com/item?id=40663715) - [The development process of Wordbots (2016–2023)](https://alex.nisnevich.com/blog/2024/06/02/wordbots_retrospective.html)
 * [2024-06-12, 15:52:53](https://news.ycombinator.com/item?id=40659511) - [The Microsoft Excel superstars throw down in Vegas](https://www.theverge.com/c/24133822/microsoft-excel-spreadsheet-competition-championship)
 * [2024-06-12, 12:17:04](https://news.ycombinator.com/item?id=40657220) - [The oldest ecosystems on Earth](https://nautil.us/the-oldest-ecosystems-on-earth-650875/)
 * [2024-06-12, 09:19:20](https://news.ycombinator.com/item?id=40656125) - [My thoughts on Python in Excel](https://www.xlwings.org/blog/my-thoughts-on-python-in-excel)
 * [2024-06-11, 19:53:06](https://news.ycombinator.com/item?id=40650727) - [Hydra: Generalizing Peephole Optimizations with Program Synthesis [pdf]](https://users.cs.utah.edu/~regehr/generalization-oopsla24.pdf)
+* [2024-06-11, 12:20:28](https://news.ycombinator.com/item?id=40645362) - [Edmond Albius's method of pollination is now used by all vanilla growers](https://nautil.us/the-boy-who-was-king-of-vanilla-522772/)
 
 ## [Archives](archives/index.md)
 
