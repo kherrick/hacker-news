@@ -9,6 +9,7 @@
 * [2024-06-14, 12:11:28](https://news.ycombinator.com/item?id=40680107) - [Map of Forest Sounds from Around the World](https://timberfestival.org.uk/soundsoftheforest-soundmap/)
 * [2024-06-14, 12:01:08](https://news.ycombinator.com/item?id=40680018) - [Santé (YC S23) Is Hiring](https://www.ycombinator.com/companies/sante/jobs/Xw3ujU8-technical-account-manager)
 * [2024-06-14, 11:26:01](https://news.ycombinator.com/item?id=40679742) - [The Surprising Brain-Health Benefits of Weightlifting](https://www.psychologytoday.com/us/blog/the-modern-brain/202402/the-surprising-benefits-of-weightlifting-for-brain-health)
+* [2024-06-14, 11:17:24](https://news.ycombinator.com/item?id=40679696) - [First RISC-V laptop with Ubuntu preloaded touts AI and 8-core chip](https://www.theregister.com/2024/06/13/riscv_laptop_ubuntu/)
 * [2024-06-14, 11:16:09](https://news.ycombinator.com/item?id=40679689) - [Android Drivers - News and updates from the Project Zero team at Google](https://googleprojectzero.blogspot.com/2024/06/driving-forward-in-android-drivers.html)
 * [2024-06-14, 11:15:50](https://news.ycombinator.com/item?id=40679685) - [Apple's new AI leaves out more than 90% of current iPhone users](https://english.elpais.com/technology/2024-06-14/apples-new-artificial-intelligence-leaves-out-more-than-90-of-current-iphone-users.html)
 * [2024-06-14, 11:00:12](https://news.ycombinator.com/item?id=40679599) - [FAA Investigating How Counterfeit Titanium Got into Boeing and Airbus Jets](https://www.nytimes.com/2024/06/14/us/politics/boeing-airbus-titanium-faa.html)
