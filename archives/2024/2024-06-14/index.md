@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-14](index.md)
 
+* [2024-06-14, 13:48:14](https://news.ycombinator.com/item?id=40680885) - [Statistics Blunder at the Supreme Court](https://statmodeling.stat.columbia.edu/2024/06/14/statistics-blunder-at-the-supreme-court/)
 * [2024-06-14, 13:28:56](https://news.ycombinator.com/item?id=40680737) - [Nvidia Warp: A Python framework for high performance GPU simulation and graphics](https://github.com/NVIDIA/warp)
 * [2024-06-14, 13:17:11](https://news.ycombinator.com/item?id=40680648) - [Start Presentations on the Second Slide](https://tidyfirst.substack.com/p/start-presentations-on-the-second)
 * [2024-06-14, 13:01:26](https://news.ycombinator.com/item?id=40680509) - [Kaprekar's Magic 6174](https://www.oranlooney.com/post/kaprekar/)

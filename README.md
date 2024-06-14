@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-14, 13:48:14](https://news.ycombinator.com/item?id=40680885) - [Statistics Blunder at the Supreme Court](https://statmodeling.stat.columbia.edu/2024/06/14/statistics-blunder-at-the-supreme-court/)
 * [2024-06-14, 13:28:56](https://news.ycombinator.com/item?id=40680737) - [Nvidia Warp: A Python framework for high performance GPU simulation and graphics](https://github.com/NVIDIA/warp)
 * [2024-06-14, 13:17:11](https://news.ycombinator.com/item?id=40680648) - [Start Presentations on the Second Slide](https://tidyfirst.substack.com/p/start-presentations-on-the-second)
 * [2024-06-14, 13:01:26](https://news.ycombinator.com/item?id=40680509) - [Kaprekar's Magic 6174](https://www.oranlooney.com/post/kaprekar/)
@@ -19,7 +20,6 @@
 * [2024-06-13, 14:25:51](https://news.ycombinator.com/item?id=40670096) - [Luma AI Dream Machine](https://lumalabs.ai/dream-machine)
 * [2024-06-13, 05:26:02](https://news.ycombinator.com/item?id=40666237) - [SSH agent extensions as an arbitrary RPC mechanism](https://mjg59.dreamwidth.org/69646.html)
 * [2024-06-12, 19:34:45](https://news.ycombinator.com/item?id=40662056) - [Bibliography keys: It's as easy as [1], [2], [3]](http://blog.cr.yp.to/20240612-bibkeys.html)
-* [2024-06-12, 11:02:30](https://news.ycombinator.com/item?id=40656671) - [Reminiscences of the VLSI Revolution – Lynn Conway [pdf]](http://ai.eecs.umich.edu/people/conway/Memoirs/VLSI/Lynn_Conway_VLSI_Reminiscences.pdf)
 * [2024-06-12, 09:50:14](https://news.ycombinator.com/item?id=40656310) - [ASHA for Linux](https://github.com/thewierdnut/asha_pipewire_sink)
 * [2024-06-12, 09:19:33](https://news.ycombinator.com/item?id=40656126) - [Spreadsheet Assassins – A short history of \"software as a service\"](https://thebaffler.com/latest/spreadsheet-assassins-king)
 * [2024-06-12, 09:19:20](https://news.ycombinator.com/item?id=40656125) - [My thoughts on Python in Excel](https://www.xlwings.org/blog/my-thoughts-on-python-in-excel)
