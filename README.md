@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-14, 22:13:38](https://news.ycombinator.com/item?id=40685644) - [Snowden: \"They've gone full mask-off: do not ever trust OpenAI or its products\"](https://twitter.com/Snowden/status/1801610725229498403)
 * [2024-06-14, 20:42:03](https://news.ycombinator.com/item?id=40684901) - [Exponentially Better Rotations](http://thenumb.at/Exponential-Rotations/)
 * [2024-06-14, 20:11:48](https://news.ycombinator.com/item?id=40684608) - [The first 'major lunar standstill' in more than 18 years is about to occur](https://www.livescience.com/space/the-moon/the-1st-major-lunar-standstill-in-more-than-18-years-is-about-to-occur-heres-how-to-see-it)
 * [2024-06-14, 18:47:34](https://news.ycombinator.com/item?id=40683697) - [AI Search: The Bitter-Er Lesson](https://yellow-apartment-148.notion.site/AI-Search-The-Bitter-er-Lesson-44c11acd27294f4495c3de778cd09c8d)
 * [2024-06-14, 17:00:10](https://news.ycombinator.com/item?id=40682525) - [Aviator (YC S21) Is Hiring Engineers to Build a DevEx Platform](https://www.aviator.co/jobs)
+* [2024-06-14, 16:55:23](https://news.ycombinator.com/item?id=40682480) - [The challenge of writing a on-demand transcoder](https://zoriya.dev/blogs/transcoder/)
 * [2024-06-14, 16:48:33](https://news.ycombinator.com/item?id=40682401) - [The sun's magnetic field is about to flip](https://www.space.com/sun-magnetic-field-flip-solar-maximum-2024)
 * [2024-06-14, 14:35:21](https://news.ycombinator.com/item?id=40681306) - [H.264 Is Magic (2016)](https://sidbala.com/h-264-is-magic/)
 * [2024-06-14, 14:03:28](https://news.ycombinator.com/item?id=40681022) - [How to design and manufacture your own chip [video]](https://www.youtube.com/watch?v=caXwuuXSB-A)
