@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-14, 22:30:30](https://news.ycombinator.com/item?id=40685752) - [Poll: Is AI Hype a Bubble?](https://news.ycombinator.com/item?id=40685752)
 * [2024-06-14, 20:42:03](https://news.ycombinator.com/item?id=40684901) - [Exponentially Better Rotations](http://thenumb.at/Exponential-Rotations/)
 * [2024-06-14, 20:11:48](https://news.ycombinator.com/item?id=40684608) - [The first 'major lunar standstill' in more than 18 years is about to occur](https://www.livescience.com/space/the-moon/the-1st-major-lunar-standstill-in-more-than-18-years-is-about-to-occur-heres-how-to-see-it)
 * [2024-06-14, 18:47:34](https://news.ycombinator.com/item?id=40683697) - [AI Search: The Bitter-Er Lesson](https://yellow-apartment-148.notion.site/AI-Search-The-Bitter-er-Lesson-44c11acd27294f4495c3de778cd09c8d)
@@ -27,7 +28,6 @@
 * [2024-06-13, 00:05:21](https://news.ycombinator.com/item?id=40664526) - [Satellite data show electromagnetic anomalies 19 days before Turkey earthquake](https://phys.org/news/2024-06-satellite-reveal-electromagnetic-anomalies-days.html)
 * [2024-06-12, 15:52:53](https://news.ycombinator.com/item?id=40659511) - [The Microsoft Excel superstars throw down in Vegas](https://www.theverge.com/c/24133822/microsoft-excel-spreadsheet-competition-championship)
 * [2024-06-12, 13:00:08](https://news.ycombinator.com/item?id=40657626) - [The borrow checker within](https://smallcultfollowing.com/babysteps/blog/2024/06/02/the-borrow-checker-within/)
-* [2024-06-12, 08:56:06](https://news.ycombinator.com/item?id=40655994) - [\"The Door Problem\" (2014)](https://lizengland.com/blog/2014/04/the-door-problem/)
 * [2024-06-11, 14:58:38](https://news.ycombinator.com/item?id=40646936) - [The rise and fall of Koo, India’s once-thriving Twitter alternative](https://restofworld.org/2024/twitter-alternative-koo/)
 * [2024-06-10, 21:12:10](https://news.ycombinator.com/item?id=40639165) - [Tracing Intel's Atom Journey: Goldmont Plus](https://chipsandcheese.com/2024/06/10/tracing-intels-atom-journey-goldmont-plus/)
 
