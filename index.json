@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-14, 16:14:10",
+      "https://news.ycombinator.com/item?id=40682088"
+    ],
+    [
+      "Dark Fibre",
+      "https://en.wikipedia.org/wiki/Dark_fibre"
+    ]
+  ],
+  [
+    [
       "2024-06-14, 16:04:24",
       "https://news.ycombinator.com/item?id=40682021"
     ],
@@ -37,6 +47,16 @@
     [
       "I am not yet ready to switch to Zig from Rust",
       "https://medium.com/@penberg/why-i-am-not-yet-ready-to-switch-to-zig-from-rust-3660e02f0060"
+    ]
+  ],
+  [
+    [
+      "2024-06-14, 15:30:58",
+      "https://news.ycombinator.com/item?id=40681784"
+    ],
+    [
+      "Cost Per 1M tokens Of Self Hosting Llama-3",
+      "https://blog.lytix.co/posts/self-hosting-llama-3"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2024-06-14, 00:36:21",
-      "https://news.ycombinator.com/item?id=40676408"
-    ],
-    [
-      "Land value tax in online games and virtual worlds (2022)",
-      "https://progressandpoverty.substack.com/p/land-value-tax-in-online-games-and"
-    ]
-  ],
-  [
-    [
       "2024-06-14, 00:04:51",
       "https://news.ycombinator.com/item?id=40676239"
     ],
@@ -287,16 +297,6 @@
     [
       "Scan HTML faster with SIMD instructions – Chrome edition",
       "https://lemire.me/blog/2024/06/08/scan-html-faster-with-simd-instructions-chrome-edition/"
-    ]
-  ],
-  [
-    [
-      "2024-06-11, 02:18:54",
-      "https://news.ycombinator.com/item?id=40641598"
-    ],
-    [
-      "Designing a website without 404s",
-      "https://pillser.com/engineering/2024-06-10-website-without-404s"
     ]
   ]
 ]
