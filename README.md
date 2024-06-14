@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-14, 19:34:21](https://news.ycombinator.com/item?id=40684195) - [Seattle tumbles to No. 20 in global ranking of startup ecosystems](https://www.geekwire.com/2024/seattle-tumbles-to-no-20-in-global-ranking-of-startup-ecosystems/)
+* [2024-06-14, 19:09:28](https://news.ycombinator.com/item?id=40683947) - [Orange FM Prototype – Analogue Pocket Demo](https://orangegb.com/orangefm/)
 * [2024-06-14, 18:03:09](https://news.ycombinator.com/item?id=40683210) - [Microsoft's Recall AI feature is now indefinitely delayed](https://blogs.windows.com/windowsexperience/2024/06/07/update-on-the-recall-preview-feature-for-copilot-pcs/)
 * [2024-06-14, 17:55:24](https://news.ycombinator.com/item?id=40683121) - [Boeing and Airbus may have used 'counterfeit' titanium in planes, FAA says](https://www.nbcnews.com/business/business-news/boeing-airbus-may-used-counterfeit-titanium-planes-faa-investigating-rcna157160)
 * [2024-06-14, 17:42:13](https://news.ycombinator.com/item?id=40682959) - [Turning the Tables on AI](https://ia.net/topics/turning-the-tables-on-ai)
@@ -18,7 +20,6 @@
 * [2024-06-14, 12:36:32](https://news.ycombinator.com/item?id=40680291) - [The problem with OpenTelemetry](https://cra.mr/the-problem-with-otel/)
 * [2024-06-14, 12:24:06](https://news.ycombinator.com/item?id=40680218) - [I found a 55 year old bug in the first Lunar Lander game](https://martincmartin.com/2024/06/14/how-i-found-a-55-year-old-bug-in-the-first-lunar-lander-game/)
 * [2024-06-14, 12:11:28](https://news.ycombinator.com/item?id=40680107) - [Map of forest sounds from around the world](https://timberfestival.org.uk/soundsoftheforest-soundmap/)
-* [2024-06-14, 11:37:28](https://news.ycombinator.com/item?id=40679809) - [POSIX.1-2024 is published](https://ieeexplore.ieee.org/document/10555529)
 * [2024-06-14, 09:20:12](https://news.ycombinator.com/item?id=40679086) - [Effect of passenger position on crash injury risk in aircraft (2015) [pdf]](https://www.tc.faa.gov/its/worldpac/techrpt/am15-17.pdf)
 * [2024-06-14, 00:04:51](https://news.ycombinator.com/item?id=40676239) - [Fungus breaks down ocean plastic](https://www.nioz.nl/en/news/fungus-breaks-down-ocean-plastic)
 * [2024-06-13, 18:43:17](https://news.ycombinator.com/item?id=40673091) - [Mouth-based touchpad enables people living with paralysis to use computers](https://news.mit.edu/2024/mouth-based-touchpad-augmental-0605)
@@ -29,7 +30,6 @@
 * [2024-06-12, 12:17:04](https://news.ycombinator.com/item?id=40657220) - [The oldest ecosystems on Earth](https://nautil.us/the-oldest-ecosystems-on-earth-650875/)
 * [2024-06-12, 09:19:20](https://news.ycombinator.com/item?id=40656125) - [My thoughts on Python in Excel](https://www.xlwings.org/blog/my-thoughts-on-python-in-excel)
 * [2024-06-11, 19:53:06](https://news.ycombinator.com/item?id=40650727) - [Hydra: Generalizing Peephole Optimizations with Program Synthesis [pdf]](https://users.cs.utah.edu/~regehr/generalization-oopsla24.pdf)
-* [2024-06-11, 12:20:28](https://news.ycombinator.com/item?id=40645362) - [Edmond Albius's method of pollination is now used by all vanilla growers](https://nautil.us/the-boy-who-was-king-of-vanilla-522772/)
 
 ## [Archives](archives/index.md)
 
