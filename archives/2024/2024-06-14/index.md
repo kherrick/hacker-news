@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-14](index.md)
 
+* [2024-06-14, 04:21:10](https://news.ycombinator.com/item?id=40677448) - [Sandy Hook families want to seize Alex Jones' social media accounts](https://www.reuters.com/world/us/sandy-hook-families-want-seize-alex-jones-social-media-accounts-2024-06-13/)
+* [2024-06-14, 04:14:04](https://news.ycombinator.com/item?id=40677424) - [Microsoft to delay release of Recall AI feature on security concerns](https://www.reuters.com/technology/artificial-intelligence/microsoft-delay-release-recall-ai-feature-security-concerns-2024-06-14/)
 * [2024-06-14, 02:39:52](https://news.ycombinator.com/item?id=40677059) - [SF startup bosses illegally peddled $100M in Adderall, Feds say](https://sfstandard.com/2024/06/13/telemedicine-adderall-vyvanse-ritalin-done-global-brody-he/)
 * [2024-06-14, 02:23:06](https://news.ycombinator.com/item?id=40676974) - [ASML Aims for Hyper-NA EUV, Shrinking Chip Limits](https://www.eetimes.com/asml-aims-for-hyper-na-euv-shrinking-chip-limits/)
 * [2024-06-14, 02:16:46](https://news.ycombinator.com/item?id=40676937) - [Brew-Nix: a flake automatically packaging all homebrew casks](https://discourse.nixos.org/t/brew-nix-a-flake-automatically-packaging-all-homebrew-casks/44880)
