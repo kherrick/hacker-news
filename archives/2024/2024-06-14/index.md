@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-14](index.md)
 
+* [2024-06-14, 02:39:52](https://news.ycombinator.com/item?id=40677059) - [SF startup bosses illegally peddled $100M in Adderall, Feds say](https://sfstandard.com/2024/06/13/telemedicine-adderall-vyvanse-ritalin-done-global-brody-he/)
 * [2024-06-14, 02:23:06](https://news.ycombinator.com/item?id=40676974) - [ASML Aims for Hyper-NA EUV, Shrinking Chip Limits](https://www.eetimes.com/asml-aims-for-hyper-na-euv-shrinking-chip-limits/)
 * [2024-06-14, 02:16:46](https://news.ycombinator.com/item?id=40676937) - [Brew-Nix: a flake automatically packaging all homebrew casks](https://discourse.nixos.org/t/brew-nix-a-flake-automatically-packaging-all-homebrew-casks/44880)
 * [2024-06-14, 01:42:52](https://news.ycombinator.com/item?id=40676754) - [Firefox development is moving from Mercurial to Git (2023)](https://bugzilla.mozilla.org/show_bug.cgi?id=1863519)

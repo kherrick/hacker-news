@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-14, 02:39:52](https://news.ycombinator.com/item?id=40677059) - [SF startup bosses illegally peddled $100M in Adderall, Feds say](https://sfstandard.com/2024/06/13/telemedicine-adderall-vyvanse-ritalin-done-global-brody-he/)
 * [2024-06-14, 02:23:06](https://news.ycombinator.com/item?id=40676974) - [ASML Aims for Hyper-NA EUV, Shrinking Chip Limits](https://www.eetimes.com/asml-aims-for-hyper-na-euv-shrinking-chip-limits/)
 * [2024-06-14, 02:16:46](https://news.ycombinator.com/item?id=40676937) - [Brew-Nix: a flake automatically packaging all homebrew casks](https://discourse.nixos.org/t/brew-nix-a-flake-automatically-packaging-all-homebrew-casks/44880)
 * [2024-06-14, 01:17:01](https://news.ycombinator.com/item?id=40676634) - [Clearview AI Used Your Face. Now You May Get a Stake in the Company](https://www.nytimes.com/2024/06/13/technology/clearview-ai-facial-recognition-settlement.html)
@@ -20,7 +21,6 @@
 * [2024-06-13, 05:26:02](https://news.ycombinator.com/item?id=40666237) - [SSH agent extensions as an arbitrary RPC mechanism](https://mjg59.dreamwidth.org/69646.html)
 * [2024-06-12, 17:45:07](https://news.ycombinator.com/item?id=40660867) - [Group chats rule the world](https://sriramk.com/group-chats-rule-the-world)
 * [2024-06-12, 12:44:14](https://news.ycombinator.com/item?id=40657467) - [Drawing Machines](https://drawingmachines.org/)
-* [2024-06-12, 12:34:39](https://news.ycombinator.com/item?id=40657371) - [Ideal OS: Rebooting the Desktop Operating System (2017)](https://joshondesign.com/2017/08/18/idealos_essay)
 * [2024-06-12, 09:19:20](https://news.ycombinator.com/item?id=40656125) - [My thoughts on Python in Excel](https://www.xlwings.org/blog/my-thoughts-on-python-in-excel)
 * [2024-06-12, 07:54:37](https://news.ycombinator.com/item?id=40655635) - [A new map of medieval London](https://londonist.substack.com/p/a-new-map-of-medieval-london)
 * [2024-06-12, 05:54:23](https://news.ycombinator.com/item?id=40654974) - [Lambda Calculus Interpreter](https://lambda-calculus-interpreter.netlify.app/?term=(%CE%BBt.%20t%20t%20(%CE%BBh%20f%20n.%20n%20h%20f%20n)%20t%20t%20t)%20(%CE%BBf%20x.%20f%20(f%20x)))
