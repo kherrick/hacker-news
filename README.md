@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-14, 09:20:12](https://news.ycombinator.com/item?id=40679086) - [Effect of Passenger Position on Crash Injury Risk in Aircraft (2015) [pdf]](https://www.tc.faa.gov/its/worldpac/techrpt/am15-17.pdf)
 * [2024-06-14, 06:15:59](https://news.ycombinator.com/item?id=40678015) - [From One RSS Feed Entry to 186850 Hits](https://susam.net/from-web-feed-to-186850-hits.html)
 * [2024-06-14, 05:36:47](https://news.ycombinator.com/item?id=40677810) - [A look at Apple's technical approach to AI including core model performance etc.](https://www.interconnects.ai/p/apple-intelligence)
 * [2024-06-14, 05:32:45](https://news.ycombinator.com/item?id=40677784) - [Generative AI Is Not Going to Build Your Engineering Team for You](https://simonwillison.net/2024/Jun/12/generative-ai-is-not-going-to-build-your-engineering-team/)
@@ -12,7 +13,6 @@
 * [2024-06-13, 18:43:17](https://news.ycombinator.com/item?id=40673091) - [Mouth-based touchpad enables people living with paralysis to use computers](https://news.mit.edu/2024/mouth-based-touchpad-augmental-0605)
 * [2024-06-13, 18:20:31](https://news.ycombinator.com/item?id=40672843) - [Show HN: Paramount – Human Evals of AI Customer Support](https://github.com/ask-fini/paramount)
 * [2024-06-13, 18:02:15](https://news.ycombinator.com/item?id=40672663) - [The \"uncanny\" is the experience of a loss of control](https://ykulbashian.medium.com/the-uncanny-is-the-experience-of-a-loss-of-control-06a3fb4dbcd1)
-* [2024-06-13, 17:00:56](https://news.ycombinator.com/item?id=40672027) - [Tesorio (YC S15) Is Hiring a Senior GenAI/LLM Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
 * [2024-06-13, 15:31:30](https://news.ycombinator.com/item?id=40670898) - [AMD CEO Lisa Su reminisces about designing the PS3's infamous Cell processor](https://www.tomshardware.com/tech-industry/amd-ceo-lisa-su-reminisces-on-helping-design-the-ps3s-infamous-cell-processor-at-ibm)
 * [2024-06-13, 15:05:18](https://news.ycombinator.com/item?id=40670612) - [MLow: Meta's low bitrate audio codec](https://engineering.fb.com/2024/06/13/web/mlow-metas-low-bitrate-audio-codec/)
 * [2024-06-13, 15:04:01](https://news.ycombinator.com/item?id=40670600) - [Why not just embed Neovim?](https://zed.dev/blog/zed-decoded-vim)
