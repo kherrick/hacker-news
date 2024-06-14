@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-14, 04:21:10](https://news.ycombinator.com/item?id=40677448) - [Sandy Hook families want to seize Alex Jones' social media accounts](https://www.reuters.com/world/us/sandy-hook-families-want-seize-alex-jones-social-media-accounts-2024-06-13/)
-* [2024-06-14, 04:14:04](https://news.ycombinator.com/item?id=40677424) - [Microsoft to delay release of Recall AI feature on security concerns](https://www.reuters.com/technology/artificial-intelligence/microsoft-delay-release-recall-ai-feature-security-concerns-2024-06-14/)
 * [2024-06-14, 02:23:06](https://news.ycombinator.com/item?id=40676974) - [ASML Aims for Hyper-NA EUV, Shrinking Chip Limits](https://www.eetimes.com/asml-aims-for-hyper-na-euv-shrinking-chip-limits/)
 * [2024-06-14, 02:16:46](https://news.ycombinator.com/item?id=40676937) - [Brew-Nix: a flake automatically packaging all homebrew casks](https://discourse.nixos.org/t/brew-nix-a-flake-automatically-packaging-all-homebrew-casks/44880)
 * [2024-06-14, 00:36:21](https://news.ycombinator.com/item?id=40676408) - [Land value tax in online games and virtual worlds](https://progressandpoverty.substack.com/p/land-value-tax-in-online-games-and)
@@ -9,6 +8,7 @@
 * [2024-06-13, 22:29:40](https://news.ycombinator.com/item?id=40675577) - [Lamini Memory Tuning: 10x Fewer Hallucinations](https://www.lamini.ai/blog/lamini-memory-tuning)
 * [2024-06-13, 22:09:55](https://news.ycombinator.com/item?id=40675397) - [Notebooks Are McDonalds of Code](https://yobibyte.github.io/notebooks.html)
 * [2024-06-13, 20:53:48](https://news.ycombinator.com/item?id=40674649) - [Encodings for flattened heap values](https://cr.openjdk.org/~jrose/values/flattened-values.html)
+* [2024-06-13, 20:48:45](https://news.ycombinator.com/item?id=40674578) - ['Noodle Rat' a New Cross-Platform Malware Targets Windows and Linux Systems](https://thesecuritypivot.com/2024/06/13/noodle-rat-a-new-cross-platform-malware-targets-windows-and-linux-systems/)
 * [2024-06-13, 20:12:14](https://news.ycombinator.com/item?id=40674135) - [IKEA's retailer's solved global 'unhappy worker' crisis by raising salaries](https://fortune.com/europe/2024/06/11/ikeas-boss-solved-swedish-retailers-global-unhappy-worker-crisis-raising-salaries-introducing-flexible-working-subsidized-childcare/)
 * [2024-06-13, 18:43:17](https://news.ycombinator.com/item?id=40673091) - [Mouth-based touchpad enables people living with paralysis to use computers](https://news.mit.edu/2024/mouth-based-touchpad-augmental-0605)
 * [2024-06-13, 18:20:31](https://news.ycombinator.com/item?id=40672843) - [Show HN: Paramount – Human Evals of AI Customer Support](https://github.com/ask-fini/paramount)
