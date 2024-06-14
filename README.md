@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-14, 09:01:19](https://news.ycombinator.com/item?id=40678990) - [Teachers: AI is making children dumb as fuck](https://old.reddit.com/r/Teachers/comments/1df6qep/ai_is_making_children_dumb_as_fuck/)
 * [2024-06-14, 06:15:59](https://news.ycombinator.com/item?id=40678015) - [From One RSS Feed Entry to 186850 Hits](https://susam.net/from-web-feed-to-186850-hits.html)
 * [2024-06-14, 05:36:47](https://news.ycombinator.com/item?id=40677810) - [A look at Apple's technical approach to AI including core model performance etc.](https://www.interconnects.ai/p/apple-intelligence)
 * [2024-06-14, 05:06:10](https://news.ycombinator.com/item?id=40677637) - [Sustain Open Source, sustain the planet: A new conversation](https://opensource.net/oss-for-climate-podcast/)
@@ -8,7 +9,6 @@
 * [2024-06-14, 00:36:21](https://news.ycombinator.com/item?id=40676408) - [Land value tax in online games and virtual worlds](https://progressandpoverty.substack.com/p/land-value-tax-in-online-games-and)
 * [2024-06-14, 00:04:51](https://news.ycombinator.com/item?id=40676239) - [Fungus breaks down ocean plastic](https://www.nioz.nl/en/news/fungus-breaks-down-ocean-plastic)
 * [2024-06-13, 23:18:50](https://news.ycombinator.com/item?id=40675947) - [Why I Bought an Encyclopedia](https://www.optoutproject.net/what-is-true-on-the-internet/)
-* [2024-06-13, 22:29:40](https://news.ycombinator.com/item?id=40675577) - [Lamini Memory Tuning: 10x Fewer Hallucinations](https://www.lamini.ai/blog/lamini-memory-tuning)
 * [2024-06-13, 20:53:48](https://news.ycombinator.com/item?id=40674649) - [Encodings for flattened heap values](https://cr.openjdk.org/~jrose/values/flattened-values.html)
 * [2024-06-13, 18:43:17](https://news.ycombinator.com/item?id=40673091) - [Mouth-based touchpad enables people living with paralysis to use computers](https://news.mit.edu/2024/mouth-based-touchpad-augmental-0605)
 * [2024-06-13, 18:20:31](https://news.ycombinator.com/item?id=40672843) - [Show HN: Paramount – Human Evals of AI Customer Support](https://github.com/ask-fini/paramount)

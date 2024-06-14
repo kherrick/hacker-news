@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-14](index.md)
 
+* [2024-06-14, 09:01:19](https://news.ycombinator.com/item?id=40678990) - [Teachers: AI is making children dumb as fuck](https://old.reddit.com/r/Teachers/comments/1df6qep/ai_is_making_children_dumb_as_fuck/)
 * [2024-06-14, 06:15:59](https://news.ycombinator.com/item?id=40678015) - [From One RSS Feed Entry to 186850 Hits](https://susam.net/from-web-feed-to-186850-hits.html)
 * [2024-06-14, 05:59:17](https://news.ycombinator.com/item?id=40677926) - [40 out of 60 German climate greening endavours fraudulent](https://www.fr.de/politik/warnungen-milliarden-an-konzerne-gezahlt-betrugsverdacht-beim-klimaschutz-trotz-zr-93122965.html)
 * [2024-06-14, 05:36:47](https://news.ycombinator.com/item?id=40677810) - [A look at Apple's technical approach to AI including core model performance etc.](https://www.interconnects.ai/p/apple-intelligence)
