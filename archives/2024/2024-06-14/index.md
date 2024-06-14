@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-14](index.md)
 
+* [2024-06-14, 22:13:38](https://news.ycombinator.com/item?id=40685644) - [Snowden: \"They've gone full mask-off: do not ever trust OpenAI or its products\"](https://twitter.com/Snowden/status/1801610725229498403)
 * [2024-06-14, 20:42:03](https://news.ycombinator.com/item?id=40684901) - [Exponentially Better Rotations](http://thenumb.at/Exponential-Rotations/)
 * [2024-06-14, 20:11:48](https://news.ycombinator.com/item?id=40684608) - [The first 'major lunar standstill' in more than 18 years is about to occur](https://www.livescience.com/space/the-moon/the-1st-major-lunar-standstill-in-more-than-18-years-is-about-to-occur-heres-how-to-see-it)
 * [2024-06-14, 20:07:27](https://news.ycombinator.com/item?id=40684560) - [Southwest Plane Plunged Within 400 Feet of Ocean Near Hawaii](https://www.bloomberg.com/news/articles/2024-06-14/southwest-plane-plunges-within-400-feet-of-ocean-near-hawaii)
