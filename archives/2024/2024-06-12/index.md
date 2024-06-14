@@ -86,6 +86,7 @@
 * [2024-06-12, 09:19:33](https://news.ycombinator.com/item?id=40656126) - [Spreadsheet Assassins – A short history of \"software as a service\"](https://thebaffler.com/latest/spreadsheet-assassins-king)
 * [2024-06-12, 09:19:20](https://news.ycombinator.com/item?id=40656125) - [My Thoughts on Python in Excel](https://www.xlwings.org/blog/my-thoughts-on-python-in-excel)
 * [2024-06-12, 09:12:31](https://news.ycombinator.com/item?id=40656099) - [Diminuendo Lagrimoso: Tracing the decline of big opera voices (2023) [pdf]](https://www.princeton.edu/~amoravcs/library/Diminuedo%20Lagrimoso.pdf)
+* [2024-06-12, 08:56:06](https://news.ycombinator.com/item?id=40655994) - [\"The Door Problem\" (2014)](https://lizengland.com/blog/2014/04/the-door-problem/)
 * [2024-06-12, 08:47:48](https://news.ycombinator.com/item?id=40655951) - [Stupid Slow: The Perceived Speed of Computers](https://datagubbe.se/stupidslow/)
 * [2024-06-12, 08:30:20](https://news.ycombinator.com/item?id=40655846) - [Germany gets informal EU go-ahead to support gas-fired power, sources say](https://www.reuters.com/business/energy/germany-gets-informal-eus-go-ahead-support-gas-fired-power-sources-say-2024-06-07/)
 * [2024-06-12, 07:58:53](https://news.ycombinator.com/item?id=40655668) - [How to Untangle Phone Numbers](https://factbranch.com/blog/2024/normalize-phone-numbers/)

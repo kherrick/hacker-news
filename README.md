@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-14, 09:01:19](https://news.ycombinator.com/item?id=40678990) - [Teachers: AI is making children dumb as fuck](https://old.reddit.com/r/Teachers/comments/1df6qep/ai_is_making_children_dumb_as_fuck/)
 * [2024-06-14, 06:15:59](https://news.ycombinator.com/item?id=40678015) - [From One RSS Feed Entry to 186850 Hits](https://susam.net/from-web-feed-to-186850-hits.html)
 * [2024-06-14, 05:36:47](https://news.ycombinator.com/item?id=40677810) - [A look at Apple's technical approach to AI including core model performance etc.](https://www.interconnects.ai/p/apple-intelligence)
 * [2024-06-14, 05:06:10](https://news.ycombinator.com/item?id=40677637) - [Sustain Open Source, sustain the planet: A new conversation](https://opensource.net/oss-for-climate-podcast/)
@@ -23,6 +22,7 @@
 * [2024-06-12, 19:34:45](https://news.ycombinator.com/item?id=40662056) - [Bibliography keys: It's as easy as [1], [2], [3]](http://blog.cr.yp.to/20240612-bibkeys.html)
 * [2024-06-12, 09:19:33](https://news.ycombinator.com/item?id=40656126) - [Spreadsheet Assassins – A short history of \"software as a service\"](https://thebaffler.com/latest/spreadsheet-assassins-king)
 * [2024-06-12, 09:19:20](https://news.ycombinator.com/item?id=40656125) - [My thoughts on Python in Excel](https://www.xlwings.org/blog/my-thoughts-on-python-in-excel)
+* [2024-06-12, 08:56:06](https://news.ycombinator.com/item?id=40655994) - [\"The Door Problem\" (2014)](https://lizengland.com/blog/2014/04/the-door-problem/)
 * [2024-06-12, 07:54:37](https://news.ycombinator.com/item?id=40655635) - [A new map of medieval London](https://londonist.substack.com/p/a-new-map-of-medieval-london)
 * [2024-06-11, 17:44:41](https://news.ycombinator.com/item?id=40649282) - [Progressive Web Apps (PWAs) Phishing](https://mrd0x.com/progressive-web-apps-pwa-phishing/)
 * [2024-06-11, 15:54:24](https://news.ycombinator.com/item?id=40647811) - [Borges on Chaos Theory](https://aethermug.com/posts/borges-on-chaos-theory)
