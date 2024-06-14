@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-14](index.md)
 
+* [2024-06-14, 15:49:33](https://news.ycombinator.com/item?id=40681920) - [Apple set to be first Big Tech group to face charges under EU digital law](https://www.ft.com/content/31a996d5-b472-4357-953e-ace078494604)
+* [2024-06-14, 15:42:34](https://news.ycombinator.com/item?id=40681862) - [I am not yet ready to switch to Zig from Rust](https://medium.com/@penberg/why-i-am-not-yet-ready-to-switch-to-zig-from-rust-3660e02f0060)
+* [2024-06-14, 14:41:52](https://news.ycombinator.com/item?id=40681375) - [Japan Passes Law to Allow Third-Party App Stores on the iPhone](https://www.macrumors.com/2024/06/14/japan-passes-law-to-allow-third-party-app-stores/)
 * [2024-06-14, 14:39:07](https://news.ycombinator.com/item?id=40681345) - [Why sleep deprivation disrupts memory](https://www.nature.com/articles/d41586-024-01732-y)
 * [2024-06-14, 14:08:55](https://news.ycombinator.com/item?id=40681072) - [Apple will reportedly pay OpenAI with 'exposure'](https://www.windowscentral.com/apple/apple-will-reportedly-pay-openai-with-exposure-to-hundreds-of-millions-of-its-devices-for-the-chatgpt-plug)
 * [2024-06-14, 14:03:28](https://news.ycombinator.com/item?id=40681022) - [How to Design and Manufacture Your Own Chip [video]](https://www.youtube.com/watch?v=caXwuuXSB-A)
