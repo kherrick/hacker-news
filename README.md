@@ -20,16 +20,16 @@
 * [2024-06-13, 11:02:11](https://news.ycombinator.com/item?id=40668088) - [Indian startup 3D prints rocket engine in 72 hours](https://spectrum.ieee.org/3d-printed-rocket)
 * [2024-06-13, 10:39:45](https://news.ycombinator.com/item?id=40667976) - [Microsoft Chose Profit over Security, Whistleblower Says](https://www.propublica.org/article/microsoft-solarwinds-golden-saml-data-breach-russian-hackers)
 * [2024-06-13, 05:26:02](https://news.ycombinator.com/item?id=40666237) - [SSH agent extensions as an arbitrary RPC mechanism](https://mjg59.dreamwidth.org/69646.html)
+* [2024-06-12, 19:34:45](https://news.ycombinator.com/item?id=40662056) - [Bibliography keys: It's as easy as [1], [2], [3]](http://blog.cr.yp.to/20240612-bibkeys.html)
 * [2024-06-12, 17:56:20](https://news.ycombinator.com/item?id=40660973) - [The \"blooming, buzzing confusion\" of William James (2010)](https://johnhawks.net/weblog/the-blooming-buzzing-confusion-of-william-james/)
 * [2024-06-12, 17:45:07](https://news.ycombinator.com/item?id=40660867) - [Group chats rule the world](https://sriramk.com/group-chats-rule-the-world)
 * [2024-06-12, 12:44:14](https://news.ycombinator.com/item?id=40657467) - [Drawing Machines](https://drawingmachines.org/)
 * [2024-06-12, 12:34:39](https://news.ycombinator.com/item?id=40657371) - [Ideal OS: Rebooting the Desktop Operating System (2017)](https://joshondesign.com/2017/08/18/idealos_essay)
 * [2024-06-12, 09:19:20](https://news.ycombinator.com/item?id=40656125) - [My thoughts on Python in Excel](https://www.xlwings.org/blog/my-thoughts-on-python-in-excel)
 * [2024-06-12, 07:54:37](https://news.ycombinator.com/item?id=40655635) - [A New Map of Medieval London](https://londonist.substack.com/p/a-new-map-of-medieval-london)
+* [2024-06-12, 05:54:23](https://news.ycombinator.com/item?id=40654974) - [Lambda Calculus Interpreter](https://lambda-calculus-interpreter.netlify.app/?term=(%CE%BBt.%20t%20t%20(%CE%BBh%20f%20n.%20n%20h%20f%20n)%20t%20t%20t)%20(%CE%BBf%20x.%20f%20(f%20x)))
 * [2024-06-11, 17:44:41](https://news.ycombinator.com/item?id=40649282) - [Progressive Web Apps (PWAs) Phishing](https://mrd0x.com/progressive-web-apps-pwa-phishing/)
 * [2024-06-11, 15:54:24](https://news.ycombinator.com/item?id=40647811) - [Borges on Chaos Theory](https://aethermug.com/posts/borges-on-chaos-theory)
-* [2024-06-11, 14:25:28](https://news.ycombinator.com/item?id=40646528) - [Solving Probabilistic Tic-Tac-Toe](https://louisabraham.github.io/articles/probabilistic-tic-tac-toe)
-* [2024-06-11, 10:26:21](https://news.ycombinator.com/item?id=40644562) - [Scan HTML faster with SIMD instructions – Chrome edition](https://lemire.me/blog/2024/06/08/scan-html-faster-with-simd-instructions-chrome-edition/)
 
 ## [Archives](archives/index.md)
 
