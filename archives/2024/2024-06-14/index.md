@@ -5,9 +5,11 @@
 ### [Archives](../../index.md) for [2024-06-14](index.md)
 
 * [2024-06-14, 17:00:10](https://news.ycombinator.com/item?id=40682525) - [Aviator (YC S21) Is Hiring Engineers to Build a DevEx Platform](https://www.aviator.co/jobs)
+* [2024-06-14, 16:48:40](https://news.ycombinator.com/item?id=40682403) - [SoftBank's new AI makes angry customers sound calm on phone](https://www.asahi.com/ajw/articles/15300914)
 * [2024-06-14, 16:48:33](https://news.ycombinator.com/item?id=40682401) - [The sun's magnetic field is about to flip](https://www.space.com/sun-magnetic-field-flip-solar-maximum-2024)
 * [2024-06-14, 16:29:53](https://news.ycombinator.com/item?id=40682244) - [Llm.mojo: Andrej Karpathy's Llm.c in Mojo](https://github.com/dorjeduck/llm.mojo)
 * [2024-06-14, 16:28:50](https://news.ycombinator.com/item?id=40682232) - [AIM Jacking on Macintosh Systems (2001)](http://mazur-archives.s3.amazonaws.com/aol-files/articles/names_hypah_aimexploit.html)
+* [2024-06-14, 16:22:14](https://news.ycombinator.com/item?id=40682173) - [Ask HN: What skillsets/stacks will keep me employable over the next 5-10 years?](https://news.ycombinator.com/item?id=40682173)
 * [2024-06-14, 16:20:06](https://news.ycombinator.com/item?id=40682149) - [Effect – Build robust apps in TypeScript](https://effect.website/)
 * [2024-06-14, 16:19:29](https://news.ycombinator.com/item?id=40682141) - [Handwriting is good for your brain](https://kids.frontiersin.org/articles/10.3389/frym.2022.623953)
 * [2024-06-14, 16:14:10](https://news.ycombinator.com/item?id=40682088) - [Dark Fibre](https://en.wikipedia.org/wiki/Dark_fibre)
