@@ -39,6 +39,7 @@
 * [2024-06-12, 18:05:55](https://news.ycombinator.com/item?id=40661073) - [Is Google SEO Gaslighting the Internet?](https://www.newyorker.com/culture/infinite-scroll/is-google-seo-gaslighting-the-internet)
 * [2024-06-12, 17:59:30](https://news.ycombinator.com/item?id=40661001) - [Apple didn't fix Swift's biggest flaw](https://danielchasehooper.com/posts/why-swift-is-slow/)
 * [2024-06-12, 17:58:14](https://news.ycombinator.com/item?id=40660986) - [Designing the Avocado of Uncertainty Visualization](https://stamen.com/designing-the-avocado-of-uncertainty/)
+* [2024-06-12, 17:56:20](https://news.ycombinator.com/item?id=40660973) - [The \"blooming, buzzing confusion\" of William James (2010)](https://johnhawks.net/weblog/the-blooming-buzzing-confusion-of-william-james/)
 * [2024-06-12, 17:52:52](https://news.ycombinator.com/item?id=40660942) - [Remote Amazon Tribe Did Not Get Addicted to Porn](https://www.nytimes.com/2024/06/11/world/americas/no-a-remote-amazon-tribe-did-not-get-addicted-to-porn.html)
 * [2024-06-12, 17:45:07](https://news.ycombinator.com/item?id=40660867) - [Group chats rule the world](https://sriramk.com/group-chats-rule-the-world)
 * [2024-06-12, 17:41:25](https://news.ycombinator.com/item?id=40660823) - [Don't bother voting in European election](https://www.politico.eu/article/european-election-voting-democracy-propaganda-activism-far-right-green-deal/)
