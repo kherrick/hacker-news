@@ -10,6 +10,7 @@
 * [2024-06-14, 09:33:42](https://news.ycombinator.com/item?id=40679144) - [Turning away from smartphones: 'We need to go places and touch things'](https://www.theguardian.com/lifeandstyle/article/2024/jun/12/young-people-turning-away-from-phones-social-media-addiction)
 * [2024-06-14, 09:20:12](https://news.ycombinator.com/item?id=40679086) - [Effect of Passenger Position on Crash Injury Risk in Aircraft (2015) [pdf]](https://www.tc.faa.gov/its/worldpac/techrpt/am15-17.pdf)
 * [2024-06-14, 09:01:19](https://news.ycombinator.com/item?id=40678990) - [Teachers: AI is making children dumb as fuck](https://old.reddit.com/r/Teachers/comments/1df6qep/ai_is_making_children_dumb_as_fuck/)
+* [2024-06-14, 07:56:46](https://news.ycombinator.com/item?id=40678619) - [Scale is a meritocracy, and we must always remain one](https://scale.com/blog/meritocracy-at-scale)
 * [2024-06-14, 06:15:59](https://news.ycombinator.com/item?id=40678015) - [From One RSS Feed Entry to 186850 Hits](https://susam.net/from-web-feed-to-186850-hits.html)
 * [2024-06-14, 05:59:17](https://news.ycombinator.com/item?id=40677926) - [40 out of 60 German climate greening endavours fraudulent](https://www.fr.de/politik/warnungen-milliarden-an-konzerne-gezahlt-betrugsverdacht-beim-klimaschutz-trotz-zr-93122965.html)
 * [2024-06-14, 05:36:47](https://news.ycombinator.com/item?id=40677810) - [A look at Apple's technical approach to AI including core model performance etc.](https://www.interconnects.ai/p/apple-intelligence)
