@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-06-14](index.md)
 
+* [2024-06-14, 14:08:55](https://news.ycombinator.com/item?id=40681072) - [Apple will reportedly pay OpenAI with 'exposure'](https://www.windowscentral.com/apple/apple-will-reportedly-pay-openai-with-exposure-to-hundreds-of-millions-of-its-devices-for-the-chatgpt-plug)
 * [2024-06-14, 13:48:14](https://news.ycombinator.com/item?id=40680885) - [Statistics Blunder at the Supreme Court](https://statmodeling.stat.columbia.edu/2024/06/14/statistics-blunder-at-the-supreme-court/)
 * [2024-06-14, 13:28:56](https://news.ycombinator.com/item?id=40680737) - [Nvidia Warp: A Python framework for high performance GPU simulation and graphics](https://github.com/NVIDIA/warp)
 * [2024-06-14, 13:17:11](https://news.ycombinator.com/item?id=40680648) - [Start Presentations on the Second Slide](https://tidyfirst.substack.com/p/start-presentations-on-the-second)
 * [2024-06-14, 13:01:26](https://news.ycombinator.com/item?id=40680509) - [Kaprekar's Magic 6174](https://www.oranlooney.com/post/kaprekar/)
 * [2024-06-14, 12:46:57](https://news.ycombinator.com/item?id=40680380) - [Europe's biggest problem: It is falling way behind America's powerhouse economy](https://www.washingtonpost.com/opinions/2024/06/14/europe-competition-economy-reform-populism/)
+* [2024-06-14, 12:36:32](https://news.ycombinator.com/item?id=40680291) - [The Problem with OpenTelemetry](https://cra.mr/the-problem-with-otel/)
 * [2024-06-14, 12:29:52](https://news.ycombinator.com/item?id=40680260) - [Developing an LLM: Building, Training, Finetuning (A 1h Video Explainer)](https://www.youtube.com/watch?v=kPGTx4wcm_w)
 * [2024-06-14, 12:24:06](https://news.ycombinator.com/item?id=40680218) - [I Found a 55 Year Old Bug in the First Lunar Lander Game](https://martincmartin.com/2024/06/14/how-i-found-a-55-year-old-bug-in-the-first-lunar-lander-game/)
 * [2024-06-14, 12:11:28](https://news.ycombinator.com/item?id=40680107) - [Map of Forest Sounds from Around the World](https://timberfestival.org.uk/soundsoftheforest-soundmap/)
@@ -24,6 +26,7 @@
 * [2024-06-14, 09:20:12](https://news.ycombinator.com/item?id=40679086) - [Effect of Passenger Position on Crash Injury Risk in Aircraft (2015) [pdf]](https://www.tc.faa.gov/its/worldpac/techrpt/am15-17.pdf)
 * [2024-06-14, 09:01:19](https://news.ycombinator.com/item?id=40678990) - [Teachers: AI is making children dumb as fuck](https://old.reddit.com/r/Teachers/comments/1df6qep/ai_is_making_children_dumb_as_fuck/)
 * [2024-06-14, 07:56:46](https://news.ycombinator.com/item?id=40678619) - [Scale is a meritocracy, and we must always remain one](https://scale.com/blog/meritocracy-at-scale)
+* [2024-06-14, 07:35:27](https://news.ycombinator.com/item?id=40678494) - [How to Solve LLM Hallucinations](https://morethanmoore.substack.com/p/how-to-solve-llm-hallucinations)
 * [2024-06-14, 06:15:59](https://news.ycombinator.com/item?id=40678015) - [From One RSS Feed Entry to 186850 Hits](https://susam.net/from-web-feed-to-186850-hits.html)
 * [2024-06-14, 05:59:17](https://news.ycombinator.com/item?id=40677926) - [40 out of 60 German climate greening endavours fraudulent](https://www.fr.de/politik/warnungen-milliarden-an-konzerne-gezahlt-betrugsverdacht-beim-klimaschutz-trotz-zr-93122965.html)
 * [2024-06-14, 05:36:47](https://news.ycombinator.com/item?id=40677810) - [A look at Apple's technical approach to AI including core model performance etc.](https://www.interconnects.ai/p/apple-intelligence)
