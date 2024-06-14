@@ -44,6 +44,7 @@
 * [2024-06-13, 17:00:56](https://news.ycombinator.com/item?id=40672027) - [Tesorio (YC S15) Is Hiring a Senior GenAI/LLM Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
 * [2024-06-13, 16:57:23](https://news.ycombinator.com/item?id=40671980) - [The Great American Poisoning](https://justinmares.substack.com/p/the-great-american-poisoning)
 * [2024-06-13, 16:45:57](https://news.ycombinator.com/item?id=40671858) - [Postgres 17: Streaming I/O for sequential scans and ANALYZE](https://pganalyze.com/blog/5mins-postgres-17-streaming-io)
+* [2024-06-13, 16:44:23](https://news.ycombinator.com/item?id=40671846) - [Dark Software](https://notes.mtb.xyz/p/dark-software)
 * [2024-06-13, 16:44:05](https://news.ycombinator.com/item?id=40671842) - [Ask HN: What alternatives to Adobe products are you switching to?](https://news.ycombinator.com/item?id=40671842)
 * [2024-06-13, 16:34:05](https://news.ycombinator.com/item?id=40671738) - [IntelliJ GitHub Plugin leaking credentials](https://blog.jetbrains.com/security/2024/06/updates-for-security-issue-affecting-intellij-based-ides-2023-1-and-github-plugin/)
 * [2024-06-13, 16:32:11](https://news.ycombinator.com/item?id=40671712) - [Phishing scammers impersonate AH employee to drain crypto wallets](https://www.web3isgoinggreat.com/single/andreessen-horowitz-phishing)
