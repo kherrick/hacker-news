@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-14, 16:14:10](https://news.ycombinator.com/item?id=40682088) - [Dark Fibre](https://en.wikipedia.org/wiki/Dark_fibre)
 * [2024-06-14, 16:04:24](https://news.ycombinator.com/item?id=40682021) - [TempleOS Reverse Engineering](https://starkeblog.com/bootsector/templeos/2024/06/13/templeos-reverse-engineering-part-i.html)
 * [2024-06-14, 16:01:46](https://news.ycombinator.com/item?id=40682000) - [Nemotron-4-340B](https://blogs.nvidia.com/blog/nemotron-4-synthetic-data-generation-llm-training/)
 * [2024-06-14, 15:49:33](https://news.ycombinator.com/item?id=40681920) - [Apple set to be first Big Tech group to face charges under EU digital law](https://www.ft.com/content/31a996d5-b472-4357-953e-ace078494604)
 * [2024-06-14, 15:42:34](https://news.ycombinator.com/item?id=40681862) - [I am not yet ready to switch to Zig from Rust](https://medium.com/@penberg/why-i-am-not-yet-ready-to-switch-to-zig-from-rust-3660e02f0060)
+* [2024-06-14, 15:30:58](https://news.ycombinator.com/item?id=40681784) - [Cost Per 1M tokens Of Self Hosting Llama-3](https://blog.lytix.co/posts/self-hosting-llama-3)
 * [2024-06-14, 14:41:52](https://news.ycombinator.com/item?id=40681375) - [Japan Passes Law to Allow Third-Party App Stores on the iPhone](https://www.macrumors.com/2024/06/14/japan-passes-law-to-allow-third-party-app-stores/)
 * [2024-06-14, 14:40:37](https://news.ycombinator.com/item?id=40681360) - [Why are so many books listed as \"Borrow Unavailable\" at the Internet Archive?](https://help.archive.org/help/why-are-so-many-books-listed-as-borrow-unavailable-at-the-internet-archive/)
 * [2024-06-14, 14:39:07](https://news.ycombinator.com/item?id=40681345) - [Why sleep deprivation disrupts memory](https://www.nature.com/articles/d41586-024-01732-y)
@@ -17,7 +19,6 @@
 * [2024-06-14, 12:01:08](https://news.ycombinator.com/item?id=40680018) - [Santé (YC S23) Is Hiring](https://www.ycombinator.com/companies/sante/jobs/Xw3ujU8-technical-account-manager)
 * [2024-06-14, 11:37:28](https://news.ycombinator.com/item?id=40679809) - [POSIX.1-2024 is published](https://ieeexplore.ieee.org/document/10555529)
 * [2024-06-14, 11:16:09](https://news.ycombinator.com/item?id=40679689) - [Driving forward in Android drivers](https://googleprojectzero.blogspot.com/2024/06/driving-forward-in-android-drivers.html)
-* [2024-06-14, 00:36:21](https://news.ycombinator.com/item?id=40676408) - [Land value tax in online games and virtual worlds (2022)](https://progressandpoverty.substack.com/p/land-value-tax-in-online-games-and)
 * [2024-06-14, 00:04:51](https://news.ycombinator.com/item?id=40676239) - [Fungus breaks down ocean plastic](https://www.nioz.nl/en/news/fungus-breaks-down-ocean-plastic)
 * [2024-06-13, 18:43:17](https://news.ycombinator.com/item?id=40673091) - [Mouth-based touchpad enables people living with paralysis to use computers](https://news.mit.edu/2024/mouth-based-touchpad-augmental-0605)
 * [2024-06-13, 18:02:15](https://news.ycombinator.com/item?id=40672663) - [The \"uncanny\" is the experience of a loss of control](https://ykulbashian.medium.com/the-uncanny-is-the-experience-of-a-loss-of-control-06a3fb4dbcd1)
@@ -29,7 +30,6 @@
 * [2024-06-12, 07:54:37](https://news.ycombinator.com/item?id=40655635) - [A new map of medieval London](https://londonist.substack.com/p/a-new-map-of-medieval-london)
 * [2024-06-11, 12:20:28](https://news.ycombinator.com/item?id=40645362) - [Edmond Albius's method of pollination is now used by all vanilla growers](https://nautil.us/the-boy-who-was-king-of-vanilla-522772/)
 * [2024-06-11, 10:26:21](https://news.ycombinator.com/item?id=40644562) - [Scan HTML faster with SIMD instructions – Chrome edition](https://lemire.me/blog/2024/06/08/scan-html-faster-with-simd-instructions-chrome-edition/)
-* [2024-06-11, 02:18:54](https://news.ycombinator.com/item?id=40641598) - [Designing a website without 404s](https://pillser.com/engineering/2024-06-10-website-without-404s)
 
 ## [Archives](archives/index.md)
 
