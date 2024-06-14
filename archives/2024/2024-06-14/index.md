@@ -6,6 +6,7 @@
 
 * [2024-06-14, 12:29:52](https://news.ycombinator.com/item?id=40680260) - [Developing an LLM: Building, Training, Finetuning (A 1h Video Explainer)](https://www.youtube.com/watch?v=kPGTx4wcm_w)
 * [2024-06-14, 12:24:06](https://news.ycombinator.com/item?id=40680218) - [I Found a 55 Year Old Bug in the First Lunar Lander Game](https://martincmartin.com/2024/06/14/how-i-found-a-55-year-old-bug-in-the-first-lunar-lander-game/)
+* [2024-06-14, 12:11:28](https://news.ycombinator.com/item?id=40680107) - [Map of Forest Sounds from Around the World](https://timberfestival.org.uk/soundsoftheforest-soundmap/)
 * [2024-06-14, 12:01:08](https://news.ycombinator.com/item?id=40680018) - [Santé (YC S23) Is Hiring](https://www.ycombinator.com/companies/sante/jobs/Xw3ujU8-technical-account-manager)
 * [2024-06-14, 11:26:01](https://news.ycombinator.com/item?id=40679742) - [The Surprising Brain-Health Benefits of Weightlifting](https://www.psychologytoday.com/us/blog/the-modern-brain/202402/the-surprising-benefits-of-weightlifting-for-brain-health)
 * [2024-06-14, 11:16:09](https://news.ycombinator.com/item?id=40679689) - [Android Drivers - News and updates from the Project Zero team at Google](https://googleprojectzero.blogspot.com/2024/06/driving-forward-in-android-drivers.html)

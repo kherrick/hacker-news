@@ -2,10 +2,10 @@
 
 * [2024-06-14, 12:29:52](https://news.ycombinator.com/item?id=40680260) - [Developing an LLM: Building, Training, Finetuning (A 1h Video Explainer)](https://www.youtube.com/watch?v=kPGTx4wcm_w)
 * [2024-06-14, 12:24:06](https://news.ycombinator.com/item?id=40680218) - [I Found a 55 Year Old Bug in the First Lunar Lander Game](https://martincmartin.com/2024/06/14/how-i-found-a-55-year-old-bug-in-the-first-lunar-lander-game/)
+* [2024-06-14, 12:11:28](https://news.ycombinator.com/item?id=40680107) - [Map of Forest Sounds from Around the World](https://timberfestival.org.uk/soundsoftheforest-soundmap/)
 * [2024-06-14, 12:01:08](https://news.ycombinator.com/item?id=40680018) - [Santé (YC S23) Is Hiring](https://www.ycombinator.com/companies/sante/jobs/Xw3ujU8-technical-account-manager)
 * [2024-06-14, 11:26:01](https://news.ycombinator.com/item?id=40679742) - [The Surprising Brain-Health Benefits of Weightlifting](https://www.psychologytoday.com/us/blog/the-modern-brain/202402/the-surprising-benefits-of-weightlifting-for-brain-health)
 * [2024-06-14, 11:16:09](https://news.ycombinator.com/item?id=40679689) - [Android Drivers - News and updates from the Project Zero team at Google](https://googleprojectzero.blogspot.com/2024/06/driving-forward-in-android-drivers.html)
-* [2024-06-14, 11:00:12](https://news.ycombinator.com/item?id=40679599) - [FAA Investigating How Counterfeit Titanium Got into Boeing and Airbus Jets](https://www.nytimes.com/2024/06/14/us/politics/boeing-airbus-titanium-faa.html)
 * [2024-06-14, 09:33:42](https://news.ycombinator.com/item?id=40679144) - [Turning away from smartphones: 'We need to go places and touch things'](https://www.theguardian.com/lifeandstyle/article/2024/jun/12/young-people-turning-away-from-phones-social-media-addiction)
 * [2024-06-14, 06:15:59](https://news.ycombinator.com/item?id=40678015) - [From One RSS Feed Entry to 186850 Hits](https://susam.net/from-web-feed-to-186850-hits.html)
 * [2024-06-14, 05:36:47](https://news.ycombinator.com/item?id=40677810) - [A look at Apple's technical approach to AI including core model performance etc.](https://www.interconnects.ai/p/apple-intelligence)
