@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-14](index.md)
 
+* [2024-06-14, 14:39:07](https://news.ycombinator.com/item?id=40681345) - [Why sleep deprivation disrupts memory](https://www.nature.com/articles/d41586-024-01732-y)
 * [2024-06-14, 14:08:55](https://news.ycombinator.com/item?id=40681072) - [Apple will reportedly pay OpenAI with 'exposure'](https://www.windowscentral.com/apple/apple-will-reportedly-pay-openai-with-exposure-to-hundreds-of-millions-of-its-devices-for-the-chatgpt-plug)
+* [2024-06-14, 14:03:28](https://news.ycombinator.com/item?id=40681022) - [How to Design and Manufacture Your Own Chip [video]](https://www.youtube.com/watch?v=caXwuuXSB-A)
 * [2024-06-14, 13:48:14](https://news.ycombinator.com/item?id=40680885) - [Statistics Blunder at the Supreme Court](https://statmodeling.stat.columbia.edu/2024/06/14/statistics-blunder-at-the-supreme-court/)
 * [2024-06-14, 13:28:56](https://news.ycombinator.com/item?id=40680737) - [Nvidia Warp: A Python framework for high performance GPU simulation and graphics](https://github.com/NVIDIA/warp)
 * [2024-06-14, 13:17:11](https://news.ycombinator.com/item?id=40680648) - [Start Presentations on the Second Slide](https://tidyfirst.substack.com/p/start-presentations-on-the-second)
