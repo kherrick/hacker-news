@@ -32,6 +32,7 @@
 * [2024-06-13, 18:24:46](https://news.ycombinator.com/item?id=40672899) - [Ask HN: What is a good web/SaaS alternative to Adobe lightroom?](https://news.ycombinator.com/item?id=40672899)
 * [2024-06-13, 18:20:31](https://news.ycombinator.com/item?id=40672843) - [Show HN: Paramount – Human Evals of AI Customer Support](https://github.com/ask-fini/paramount)
 * [2024-06-13, 18:07:21](https://news.ycombinator.com/item?id=40672700) - [Beneath the AGI and Foundational Model Hype, Sober AI Is the Enterprise Default](https://www.dbreunig.com/2024/06/12/sober-ai-is-the-norm.html)
+* [2024-06-13, 18:02:15](https://news.ycombinator.com/item?id=40672663) - [The \"uncanny\" is the experience of a loss of control](https://ykulbashian.medium.com/the-uncanny-is-the-experience-of-a-loss-of-control-06a3fb4dbcd1)
 * [2024-06-13, 18:02:03](https://news.ycombinator.com/item?id=40672659) - [The fastest path to African prosperity](https://www.palladiummag.com/2024/06/07/the-fastest-path-to-african-prosperity/)
 * [2024-06-13, 18:01:34](https://news.ycombinator.com/item?id=40672653) - [The Art of the Epigraph](https://themillions.com/2014/06/the-art-of-the-epigraph.html)
 * [2024-06-13, 17:57:10](https://news.ycombinator.com/item?id=40672606) - [An Empirical Study of Mamba-Based Language Models](https://arxiv.org/abs/2406.07887)
