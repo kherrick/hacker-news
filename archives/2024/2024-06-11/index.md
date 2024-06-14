@@ -67,6 +67,7 @@
 * [2024-06-11, 13:02:23](https://news.ycombinator.com/item?id=40645743) - [Show HN: Unforget, the note-taking app I always wanted: offline first, encrypted](https://unforget.computing-den.com/demo)
 * [2024-06-11, 13:00:37](https://news.ycombinator.com/item?id=40645726) - [Centuries of Childhood: The history of childhood is one of multiplicity](https://resobscura.substack.com/p/centuries-of-childhood)
 * [2024-06-11, 12:29:24](https://news.ycombinator.com/item?id=40645439) - [The Titan Submersible Disaster. The Inside Story Is More Disturbing](https://www.wired.com/story/titan-submersible-disaster-inside-story-oceangate-files/)
+* [2024-06-11, 12:19:46](https://news.ycombinator.com/item?id=40645359) - [Magic died when art and science split](https://nautil.us/magic-died-when-art-and-science-split-650412/)
 * [2024-06-11, 12:00:24](https://news.ycombinator.com/item?id=40645203) - [A baseball loving physicist looks at the knuckleball](https://www.baseballprospectus.com/news/article/15919/baseball-proguestus-the-knuckleball-mystique-using-pitchfx-to-distinguish-perception-from-reality/)
 * [2024-06-11, 11:54:24](https://news.ycombinator.com/item?id=40645161) - [Making iron gall ink from oak galls](https://nyanpasu64.gitlab.io/blog/iron-gall-ink/)
 * [2024-06-11, 11:34:17](https://news.ycombinator.com/item?id=40645015) - [Metaflora](https://flora.metazooa.com)
