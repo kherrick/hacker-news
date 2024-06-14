@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-14](index.md)
 
+* [2024-06-14, 17:01:19](https://news.ycombinator.com/item?id=40682531) - [Google AI might kill you: identified Destroying Angel as edible\"button mushroom\"](https://boingboing.net/2024/06/03/google-ai-just-might-kill-you-it-misidentified-a-destroying-angel-mushroom-as-an-ediblebutton-mushroom.html)
 * [2024-06-14, 17:00:10](https://news.ycombinator.com/item?id=40682525) - [Aviator (YC S21) Is Hiring Engineers to Build a DevEx Platform](https://www.aviator.co/jobs)
 * [2024-06-14, 16:48:40](https://news.ycombinator.com/item?id=40682403) - [SoftBank's new AI makes angry customers sound calm on phone](https://www.asahi.com/ajw/articles/15300914)
 * [2024-06-14, 16:48:33](https://news.ycombinator.com/item?id=40682401) - [The sun's magnetic field is about to flip](https://www.space.com/sun-magnetic-field-flip-solar-maximum-2024)
@@ -21,6 +22,7 @@
 * [2024-06-14, 14:41:52](https://news.ycombinator.com/item?id=40681375) - [Japan Passes Law to Allow Third-Party App Stores on the iPhone](https://www.macrumors.com/2024/06/14/japan-passes-law-to-allow-third-party-app-stores/)
 * [2024-06-14, 14:40:37](https://news.ycombinator.com/item?id=40681360) - [Why are so many books listed as \"Borrow Unavailable\" at the Internet Archive?](https://help.archive.org/help/why-are-so-many-books-listed-as-borrow-unavailable-at-the-internet-archive/)
 * [2024-06-14, 14:39:07](https://news.ycombinator.com/item?id=40681345) - [Why sleep deprivation disrupts memory](https://www.nature.com/articles/d41586-024-01732-y)
+* [2024-06-14, 14:35:21](https://news.ycombinator.com/item?id=40681306) - [H.264 Is Magic (2016)](https://sidbala.com/h-264-is-magic/)
 * [2024-06-14, 14:08:55](https://news.ycombinator.com/item?id=40681072) - [Apple will reportedly pay OpenAI with 'exposure'](https://www.windowscentral.com/apple/apple-will-reportedly-pay-openai-with-exposure-to-hundreds-of-millions-of-its-devices-for-the-chatgpt-plug)
 * [2024-06-14, 14:03:28](https://news.ycombinator.com/item?id=40681022) - [How to Design and Manufacture Your Own Chip [video]](https://www.youtube.com/watch?v=caXwuuXSB-A)
 * [2024-06-14, 13:48:14](https://news.ycombinator.com/item?id=40680885) - [Statistics Blunder at the Supreme Court](https://statmodeling.stat.columbia.edu/2024/06/14/statistics-blunder-at-the-supreme-court/)

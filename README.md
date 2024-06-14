@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-14, 17:01:19](https://news.ycombinator.com/item?id=40682531) - [Google AI might kill you: identified Destroying Angel as edible\"button mushroom\"](https://boingboing.net/2024/06/03/google-ai-just-might-kill-you-it-misidentified-a-destroying-angel-mushroom-as-an-ediblebutton-mushroom.html)
 * [2024-06-14, 17:00:10](https://news.ycombinator.com/item?id=40682525) - [Aviator (YC S21) Is Hiring Engineers to Build a DevEx Platform](https://www.aviator.co/jobs)
 * [2024-06-14, 16:48:40](https://news.ycombinator.com/item?id=40682403) - [SoftBank's new AI makes angry customers sound calm on phone](https://www.asahi.com/ajw/articles/15300914)
 * [2024-06-14, 16:48:33](https://news.ycombinator.com/item?id=40682401) - [The sun's magnetic field is about to flip](https://www.space.com/sun-magnetic-field-flip-solar-maximum-2024)
@@ -13,7 +14,7 @@
 * [2024-06-14, 14:41:52](https://news.ycombinator.com/item?id=40681375) - [Japan Passes Law to Allow Third-Party App Stores on the iPhone](https://www.macrumors.com/2024/06/14/japan-passes-law-to-allow-third-party-app-stores/)
 * [2024-06-14, 14:40:37](https://news.ycombinator.com/item?id=40681360) - [Why are so many books listed as \"Borrow Unavailable\" at the Internet Archive?](https://help.archive.org/help/why-are-so-many-books-listed-as-borrow-unavailable-at-the-internet-archive/)
 * [2024-06-14, 14:39:07](https://news.ycombinator.com/item?id=40681345) - [Why sleep deprivation disrupts memory](https://www.nature.com/articles/d41586-024-01732-y)
-* [2024-06-14, 14:03:28](https://news.ycombinator.com/item?id=40681022) - [How to Design and Manufacture Your Own Chip [video]](https://www.youtube.com/watch?v=caXwuuXSB-A)
+* [2024-06-14, 14:35:21](https://news.ycombinator.com/item?id=40681306) - [H.264 Is Magic (2016)](https://sidbala.com/h-264-is-magic/)
 * [2024-06-14, 13:28:56](https://news.ycombinator.com/item?id=40680737) - [Nvidia Warp: A Python framework for high performance GPU simulation and graphics](https://github.com/NVIDIA/warp)
 * [2024-06-14, 13:17:11](https://news.ycombinator.com/item?id=40680648) - [Start Presentations on the Second Slide](https://tidyfirst.substack.com/p/start-presentations-on-the-second)
 * [2024-06-14, 13:01:26](https://news.ycombinator.com/item?id=40680509) - [Kaprekar's Magic 6174](https://www.oranlooney.com/post/kaprekar/)
@@ -21,7 +22,6 @@
 * [2024-06-14, 12:24:06](https://news.ycombinator.com/item?id=40680218) - [I Found a 55 Year Old Bug in the First Lunar Lander Game](https://martincmartin.com/2024/06/14/how-i-found-a-55-year-old-bug-in-the-first-lunar-lander-game/)
 * [2024-06-14, 12:11:28](https://news.ycombinator.com/item?id=40680107) - [Map of Forest Sounds from Around the World](https://timberfestival.org.uk/soundsoftheforest-soundmap/)
 * [2024-06-14, 11:37:28](https://news.ycombinator.com/item?id=40679809) - [POSIX.1-2024 is published](https://ieeexplore.ieee.org/document/10555529)
-* [2024-06-14, 11:16:09](https://news.ycombinator.com/item?id=40679689) - [Driving forward in Android drivers](https://googleprojectzero.blogspot.com/2024/06/driving-forward-in-android-drivers.html)
 * [2024-06-13, 18:43:17](https://news.ycombinator.com/item?id=40673091) - [Mouth-based touchpad enables people living with paralysis to use computers](https://news.mit.edu/2024/mouth-based-touchpad-augmental-0605)
 * [2024-06-13, 16:44:23](https://news.ycombinator.com/item?id=40671846) - [Dark Software](https://notes.mtb.xyz/p/dark-software)
 * [2024-06-13, 15:51:11](https://news.ycombinator.com/item?id=40671140) - [Show HN: XDeck – An ad-blocking client app for macOS, like TweetDeck](https://github.com/morishin/XDeck)
