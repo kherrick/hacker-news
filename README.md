@@ -9,7 +9,7 @@
 * [2024-06-14, 06:15:59](https://news.ycombinator.com/item?id=40678015) - [From One RSS Feed Entry to 186850 Hits](https://susam.net/from-web-feed-to-186850-hits.html)
 * [2024-06-14, 05:36:47](https://news.ycombinator.com/item?id=40677810) - [A look at Apple's technical approach to AI including core model performance etc.](https://www.interconnects.ai/p/apple-intelligence)
 * [2024-06-14, 05:06:10](https://news.ycombinator.com/item?id=40677637) - [Sustain Open Source, sustain the planet: A new conversation](https://opensource.net/oss-for-climate-podcast/)
-* [2024-06-14, 02:23:06](https://news.ycombinator.com/item?id=40676974) - [ASML Aims for Hyper-NA EUV, Shrinking Chip Limits](https://www.eetimes.com/asml-aims-for-hyper-na-euv-shrinking-chip-limits/)
+* [2024-06-14, 04:39:15](https://news.ycombinator.com/item?id=40677525) - [Gen AI will increase demand for software engineers](https://roarepally.com/blog/ai-and-software-engineers)
 * [2024-06-14, 00:36:21](https://news.ycombinator.com/item?id=40676408) - [Land value tax in online games and virtual worlds](https://progressandpoverty.substack.com/p/land-value-tax-in-online-games-and)
 * [2024-06-14, 00:04:51](https://news.ycombinator.com/item?id=40676239) - [Fungus breaks down ocean plastic](https://www.nioz.nl/en/news/fungus-breaks-down-ocean-plastic)
 * [2024-06-13, 23:18:50](https://news.ycombinator.com/item?id=40675947) - [Why I Bought an Encyclopedia](https://www.optoutproject.net/what-is-true-on-the-internet/)
