@@ -4,11 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-06-14](index.md)
 
+* [2024-06-14, 13:28:56](https://news.ycombinator.com/item?id=40680737) - [Nvidia Warp: A Python framework for high performance GPU simulation and graphics](https://github.com/NVIDIA/warp)
+* [2024-06-14, 13:17:11](https://news.ycombinator.com/item?id=40680648) - [Start Presentations on the Second Slide](https://tidyfirst.substack.com/p/start-presentations-on-the-second)
+* [2024-06-14, 13:01:26](https://news.ycombinator.com/item?id=40680509) - [Kaprekar's Magic 6174](https://www.oranlooney.com/post/kaprekar/)
 * [2024-06-14, 12:46:57](https://news.ycombinator.com/item?id=40680380) - [Europe's biggest problem: It is falling way behind America's powerhouse economy](https://www.washingtonpost.com/opinions/2024/06/14/europe-competition-economy-reform-populism/)
 * [2024-06-14, 12:29:52](https://news.ycombinator.com/item?id=40680260) - [Developing an LLM: Building, Training, Finetuning (A 1h Video Explainer)](https://www.youtube.com/watch?v=kPGTx4wcm_w)
 * [2024-06-14, 12:24:06](https://news.ycombinator.com/item?id=40680218) - [I Found a 55 Year Old Bug in the First Lunar Lander Game](https://martincmartin.com/2024/06/14/how-i-found-a-55-year-old-bug-in-the-first-lunar-lander-game/)
 * [2024-06-14, 12:11:28](https://news.ycombinator.com/item?id=40680107) - [Map of Forest Sounds from Around the World](https://timberfestival.org.uk/soundsoftheforest-soundmap/)
 * [2024-06-14, 12:01:08](https://news.ycombinator.com/item?id=40680018) - [Santé (YC S23) Is Hiring](https://www.ycombinator.com/companies/sante/jobs/Xw3ujU8-technical-account-manager)
+* [2024-06-14, 11:37:28](https://news.ycombinator.com/item?id=40679809) - [POSIX.1-2024 is published](https://ieeexplore.ieee.org/document/10555529)
 * [2024-06-14, 11:26:01](https://news.ycombinator.com/item?id=40679742) - [The Surprising Brain-Health Benefits of Weightlifting](https://www.psychologytoday.com/us/blog/the-modern-brain/202402/the-surprising-benefits-of-weightlifting-for-brain-health)
 * [2024-06-14, 11:17:24](https://news.ycombinator.com/item?id=40679696) - [First RISC-V laptop with Ubuntu preloaded touts AI and 8-core chip](https://www.theregister.com/2024/06/13/riscv_laptop_ubuntu/)
 * [2024-06-14, 11:16:09](https://news.ycombinator.com/item?id=40679689) - [Android Drivers - News and updates from the Project Zero team at Google](https://googleprojectzero.blogspot.com/2024/06/driving-forward-in-android-drivers.html)
