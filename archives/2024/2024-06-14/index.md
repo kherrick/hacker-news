@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-14](index.md)
 
+* [2024-06-14, 12:46:57](https://news.ycombinator.com/item?id=40680380) - [Europe's biggest problem: It is falling way behind America's powerhouse economy](https://www.washingtonpost.com/opinions/2024/06/14/europe-competition-economy-reform-populism/)
 * [2024-06-14, 12:29:52](https://news.ycombinator.com/item?id=40680260) - [Developing an LLM: Building, Training, Finetuning (A 1h Video Explainer)](https://www.youtube.com/watch?v=kPGTx4wcm_w)
 * [2024-06-14, 12:24:06](https://news.ycombinator.com/item?id=40680218) - [I Found a 55 Year Old Bug in the First Lunar Lander Game](https://martincmartin.com/2024/06/14/how-i-found-a-55-year-old-bug-in-the-first-lunar-lander-game/)
 * [2024-06-14, 12:11:28](https://news.ycombinator.com/item?id=40680107) - [Map of Forest Sounds from Around the World](https://timberfestival.org.uk/soundsoftheforest-soundmap/)
