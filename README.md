@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-14, 14:08:55](https://news.ycombinator.com/item?id=40681072) - [Apple will reportedly pay OpenAI with 'exposure'](https://www.windowscentral.com/apple/apple-will-reportedly-pay-openai-with-exposure-to-hundreds-of-millions-of-its-devices-for-the-chatgpt-plug)
 * [2024-06-14, 13:28:56](https://news.ycombinator.com/item?id=40680737) - [Nvidia Warp: A Python framework for high performance GPU simulation and graphics](https://github.com/NVIDIA/warp)
 * [2024-06-14, 13:17:11](https://news.ycombinator.com/item?id=40680648) - [Start Presentations on the Second Slide](https://tidyfirst.substack.com/p/start-presentations-on-the-second)
 * [2024-06-14, 13:01:26](https://news.ycombinator.com/item?id=40680509) - [Kaprekar's Magic 6174](https://www.oranlooney.com/post/kaprekar/)
@@ -9,7 +8,7 @@
 * [2024-06-14, 12:11:28](https://news.ycombinator.com/item?id=40680107) - [Map of Forest Sounds from Around the World](https://timberfestival.org.uk/soundsoftheforest-soundmap/)
 * [2024-06-14, 12:01:08](https://news.ycombinator.com/item?id=40680018) - [Santé (YC S23) Is Hiring](https://www.ycombinator.com/companies/sante/jobs/Xw3ujU8-technical-account-manager)
 * [2024-06-14, 11:37:28](https://news.ycombinator.com/item?id=40679809) - [POSIX.1-2024 is published](https://ieeexplore.ieee.org/document/10555529)
-* [2024-06-14, 11:16:09](https://news.ycombinator.com/item?id=40679689) - [Android Drivers - News and updates from the Project Zero team at Google](https://googleprojectzero.blogspot.com/2024/06/driving-forward-in-android-drivers.html)
+* [2024-06-14, 11:16:09](https://news.ycombinator.com/item?id=40679689) - [Driving forward in Android drivers](https://googleprojectzero.blogspot.com/2024/06/driving-forward-in-android-drivers.html)
 * [2024-06-14, 07:35:27](https://news.ycombinator.com/item?id=40678494) - [How to Solve LLM Hallucinations](https://morethanmoore.substack.com/p/how-to-solve-llm-hallucinations)
 * [2024-06-14, 00:36:21](https://news.ycombinator.com/item?id=40676408) - [Land value tax in online games and virtual worlds](https://progressandpoverty.substack.com/p/land-value-tax-in-online-games-and)
 * [2024-06-14, 00:04:51](https://news.ycombinator.com/item?id=40676239) - [Fungus breaks down ocean plastic](https://www.nioz.nl/en/news/fungus-breaks-down-ocean-plastic)
@@ -24,6 +23,7 @@
 * [2024-06-12, 09:19:33](https://news.ycombinator.com/item?id=40656126) - [Spreadsheet Assassins – A short history of \"software as a service\"](https://thebaffler.com/latest/spreadsheet-assassins-king)
 * [2024-06-12, 09:19:20](https://news.ycombinator.com/item?id=40656125) - [My thoughts on Python in Excel](https://www.xlwings.org/blog/my-thoughts-on-python-in-excel)
 * [2024-06-12, 07:54:37](https://news.ycombinator.com/item?id=40655635) - [A new map of medieval London](https://londonist.substack.com/p/a-new-map-of-medieval-london)
+* [2024-06-12, 07:47:06](https://news.ycombinator.com/item?id=40655605) - [Textile-based electrochemical sensors](https://medhir.com/blog/textile-based-electrochemical-sensors)
 * [2024-06-11, 17:44:41](https://news.ycombinator.com/item?id=40649282) - [Progressive Web Apps (PWAs) Phishing](https://mrd0x.com/progressive-web-apps-pwa-phishing/)
 * [2024-06-11, 15:54:24](https://news.ycombinator.com/item?id=40647811) - [Borges on Chaos Theory](https://aethermug.com/posts/borges-on-chaos-theory)
 * [2024-06-11, 14:25:28](https://news.ycombinator.com/item?id=40646528) - [Solving Probabilistic Tic-Tac-Toe](https://louisabraham.github.io/articles/probabilistic-tic-tac-toe)
