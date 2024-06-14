@@ -9,6 +9,7 @@
 * [2024-06-14, 18:47:34](https://news.ycombinator.com/item?id=40683697) - [AI Search: The Bitter-Er Lesson](https://yellow-apartment-148.notion.site/AI-Search-The-Bitter-er-Lesson-44c11acd27294f4495c3de778cd09c8d)
 * [2024-06-14, 18:03:09](https://news.ycombinator.com/item?id=40683210) - [Microsoft's Recall AI feature is now indefinitely delayed](https://blogs.windows.com/windowsexperience/2024/06/07/update-on-the-recall-preview-feature-for-copilot-pcs/)
 * [2024-06-14, 17:55:24](https://news.ycombinator.com/item?id=40683121) - [Boeing and Airbus may have used 'counterfeit' titanium in planes, FAA says](https://www.nbcnews.com/business/business-news/boeing-airbus-may-used-counterfeit-titanium-planes-faa-investigating-rcna157160)
+* [2024-06-14, 17:42:13](https://news.ycombinator.com/item?id=40682959) - [Turning the Tables on AI](https://ia.net/topics/turning-the-tables-on-ai)
 * [2024-06-14, 17:39:41](https://news.ycombinator.com/item?id=40682929) - [Oracle Is Shutting Down Its Ad Business](https://www.adweek.com/programmatic/oracle-is-shutting-down-its-ad-business/)
 * [2024-06-14, 17:00:10](https://news.ycombinator.com/item?id=40682525) - [Aviator (YC S21) Is Hiring Engineers to Build a DevEx Platform](https://www.aviator.co/jobs)
 * [2024-06-14, 16:48:33](https://news.ycombinator.com/item?id=40682401) - [The sun's magnetic field is about to flip](https://www.space.com/sun-magnetic-field-flip-solar-maximum-2024)
@@ -27,7 +28,6 @@
 * [2024-06-13, 15:26:39](https://news.ycombinator.com/item?id=40670832) - [Does chaos theory square classical physics with human agency? Essays](https://aeon.co/essays/does-chaos-theory-square-classical-physics-with-human-agency)
 * [2024-06-12, 15:52:53](https://news.ycombinator.com/item?id=40659511) - [The Microsoft Excel superstars throw down in Vegas](https://www.theverge.com/c/24133822/microsoft-excel-spreadsheet-competition-championship)
 * [2024-06-12, 12:17:04](https://news.ycombinator.com/item?id=40657220) - [The oldest ecosystems on Earth](https://nautil.us/the-oldest-ecosystems-on-earth-650875/)
-* [2024-06-12, 09:19:20](https://news.ycombinator.com/item?id=40656125) - [My thoughts on Python in Excel](https://www.xlwings.org/blog/my-thoughts-on-python-in-excel)
 * [2024-06-11, 19:53:06](https://news.ycombinator.com/item?id=40650727) - [Hydra: Generalizing Peephole Optimizations with Program Synthesis [pdf]](https://users.cs.utah.edu/~regehr/generalization-oopsla24.pdf)
 * [2024-06-10, 16:43:33](https://news.ycombinator.com/item?id=40635425) - [Ciex, Inc – It's just this tiny flaw (2018)](https://ciexinc.com/blog/its-just-this-tiny-flaw.html)
 
