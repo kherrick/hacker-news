@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-14](index.md)
 
+* [2024-06-14, 04:41:41](https://news.ycombinator.com/item?id=40677532) - [Tesla Releases Results of 2024 Annual Meeting of Stockholders](https://ir.tesla.com/press-release/tesla-releases-results-2024-annual-meeting-stockholders)
 * [2024-06-14, 04:21:10](https://news.ycombinator.com/item?id=40677448) - [Sandy Hook families want to seize Alex Jones' social media accounts](https://www.reuters.com/world/us/sandy-hook-families-want-seize-alex-jones-social-media-accounts-2024-06-13/)
 * [2024-06-14, 04:14:04](https://news.ycombinator.com/item?id=40677424) - [Microsoft to delay release of Recall AI feature on security concerns](https://www.reuters.com/technology/artificial-intelligence/microsoft-delay-release-recall-ai-feature-security-concerns-2024-06-14/)
 * [2024-06-14, 02:39:52](https://news.ycombinator.com/item?id=40677059) - [SF startup bosses illegally peddled $100M in Adderall, Feds say](https://sfstandard.com/2024/06/13/telemedicine-adderall-vyvanse-ritalin-done-global-brody-he/)
