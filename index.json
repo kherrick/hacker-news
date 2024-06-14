@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-06-13, 20:18:06",
-      "https://news.ycombinator.com/item?id=40674208"
-    ],
-    [
-      "Rent in Cities Skylines 2 was too high, so the devs removed landlords",
-      "https://arstechnica.com/gaming/2024/06/the-rent-is-too-dang-high-in-cities-skylines-2-so-the-devs-nuked-the-landlords/"
-    ]
-  ],
-  [
-    [
       "2024-06-13, 20:12:14",
       "https://news.ycombinator.com/item?id=40674135"
     ],
@@ -85,18 +75,8 @@
       "https://news.ycombinator.com/item?id=40672653"
     ],
     [
-      "The Art of the Epigraph",
+      "The Art of the Epigraph (2014)",
       "https://themillions.com/2014/06/the-art-of-the-epigraph.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-13, 17:14:33",
-      "https://news.ycombinator.com/item?id=40672158"
-    ],
-    [
-      "Ted Chiang has won the PEN/Faulkner Foundation's short story prize",
-      "https://lithub.com/ted-chiang-has-won-the-pen-faulkner-foundations-short-story-prize/"
     ]
   ],
   [
@@ -107,16 +87,6 @@
     [
       "Tesorio (YC S15) Is Hiring a Senior GenAI/LLM Engineer (100% Remote)",
       "https://www.tesorio.com/careers#job-openings"
-    ]
-  ],
-  [
-    [
-      "2024-06-13, 16:34:05",
-      "https://news.ycombinator.com/item?id=40671738"
-    ],
-    [
-      "IntelliJ GitHub Plugin leaking credentials",
-      "https://blog.jetbrains.com/security/2024/06/updates-for-security-issue-affecting-intellij-based-ides-2023-1-and-github-plugin/"
     ]
   ],
   [
@@ -251,6 +221,26 @@
   ],
   [
     [
+      "2024-06-12, 07:54:37",
+      "https://news.ycombinator.com/item?id=40655635"
+    ],
+    [
+      "A New Map of Medieval London",
+      "https://londonist.substack.com/p/a-new-map-of-medieval-london"
+    ]
+  ],
+  [
+    [
+      "2024-06-12, 05:56:32",
+      "https://news.ycombinator.com/item?id=40654989"
+    ],
+    [
+      "The Vogue Archive",
+      "https://artsandculture.google.com/project/vogue-archive"
+    ]
+  ],
+  [
+    [
       "2024-06-11, 17:44:41",
       "https://news.ycombinator.com/item?id=40649282"
     ],
@@ -297,6 +287,16 @@
     [
       "Scan HTML faster with SIMD instructions – Chrome edition",
       "https://lemire.me/blog/2024/06/08/scan-html-faster-with-simd-instructions-chrome-edition/"
+    ]
+  ],
+  [
+    [
+      "2024-06-11, 09:35:34",
+      "https://news.ycombinator.com/item?id=40644261"
+    ],
+    [
+      "Perspective-Correct Interpolation",
+      "https://andrewkchan.dev/posts/perspective-interpolation.html"
     ]
   ]
 ]
