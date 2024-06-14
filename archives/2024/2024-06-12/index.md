@@ -73,6 +73,7 @@
 * [2024-06-12, 13:28:18](https://news.ycombinator.com/item?id=40657933) - [YouTube experimenting with server-side ad injection](https://fosstodon.org/@sponsorblock/112603139898164385)
 * [2024-06-12, 13:25:19](https://news.ycombinator.com/item?id=40657890) - [iTerm2 v3.5.1 moves AI features into external plugin](https://iterm2.com/ai-plugin.html)
 * [2024-06-12, 13:12:54](https://news.ycombinator.com/item?id=40657753) - [How to save an old printer from the e-waste pile with a Raspberry Pi](https://ounapuu.ee/posts/2024/06/12/save-old-printer/)
+* [2024-06-12, 13:00:08](https://news.ycombinator.com/item?id=40657626) - [The borrow checker within](https://smallcultfollowing.com/babysteps/blog/2024/06/02/the-borrow-checker-within/)
 * [2024-06-12, 12:55:15](https://news.ycombinator.com/item?id=40657574) - [Serious Sam handled massive amounts of enemies on 56k modem connections](https://staniks.github.io/articles/serious-engine-networking-analysis)
 * [2024-06-12, 12:44:14](https://news.ycombinator.com/item?id=40657467) - [Drawing Machines](https://drawingmachines.org/)
 * [2024-06-12, 12:34:39](https://news.ycombinator.com/item?id=40657371) - [Ideal OS: Rebooting the Desktop Operating System (2017)](https://joshondesign.com/2017/08/18/idealos_essay)

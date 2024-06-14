@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-14](index.md)
 
+* [2024-06-14, 20:11:48](https://news.ycombinator.com/item?id=40684608) - [The first 'major lunar standstill' in more than 18 years is about to occur](https://www.livescience.com/space/the-moon/the-1st-major-lunar-standstill-in-more-than-18-years-is-about-to-occur-heres-how-to-see-it)
 * [2024-06-14, 20:07:27](https://news.ycombinator.com/item?id=40684560) - [Southwest Plane Plunged Within 400 Feet of Ocean Near Hawaii](https://www.bloomberg.com/news/articles/2024-06-14/southwest-plane-plunges-within-400-feet-of-ocean-near-hawaii)
 * [2024-06-14, 20:06:58](https://news.ycombinator.com/item?id=40684556) - [OpenAI adds former NSA chief to its board](https://www.cnbc.com/2024/06/13/openai-adds-former-nsa-chief-to-its-board-paul-nakasone-sam-altman.html)
 * [2024-06-14, 19:45:46](https://news.ycombinator.com/item?id=40684327) - [What Is the Opposite of Oil Drilling?](https://www.newyorker.com/news/annals-of-a-warming-planet/what-is-the-opposite-of-oil-drilling)
