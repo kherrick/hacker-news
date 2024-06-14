@@ -16,6 +16,7 @@
 * [2024-06-13, 15:05:18](https://news.ycombinator.com/item?id=40670612) - [MLow: Meta's low bitrate audio codec](https://engineering.fb.com/2024/06/13/web/mlow-metas-low-bitrate-audio-codec/)
 * [2024-06-13, 14:25:51](https://news.ycombinator.com/item?id=40670096) - [Luma AI Dream Machine](https://lumalabs.ai/dream-machine)
 * [2024-06-13, 13:22:29](https://news.ycombinator.com/item?id=40669337) - [Show HN: Shpool, a Lightweight Tmux Alternative](https://github.com/shell-pool/shpool)
+* [2024-06-13, 11:02:11](https://news.ycombinator.com/item?id=40668088) - [Indian startup 3D prints rocket engine in 72 hours](https://spectrum.ieee.org/3d-printed-rocket)
 * [2024-06-13, 05:26:02](https://news.ycombinator.com/item?id=40666237) - [SSH agent extensions as an arbitrary RPC mechanism](https://mjg59.dreamwidth.org/69646.html)
 * [2024-06-12, 17:45:07](https://news.ycombinator.com/item?id=40660867) - [Group chats rule the world](https://sriramk.com/group-chats-rule-the-world)
 * [2024-06-12, 12:44:14](https://news.ycombinator.com/item?id=40657467) - [Drawing Machines](https://drawingmachines.org/)
@@ -27,7 +28,6 @@
 * [2024-06-11, 15:54:24](https://news.ycombinator.com/item?id=40647811) - [Borges on Chaos Theory](https://aethermug.com/posts/borges-on-chaos-theory)
 * [2024-06-11, 14:25:28](https://news.ycombinator.com/item?id=40646528) - [Solving Probabilistic Tic-Tac-Toe](https://louisabraham.github.io/articles/probabilistic-tic-tac-toe)
 * [2024-06-11, 12:20:28](https://news.ycombinator.com/item?id=40645362) - [Edmond Albius's method of pollination is now used by all vanilla growers](https://worldsensorium.com/the-boy-who-was-king-of-vanilla/)
-* [2024-06-11, 12:19:46](https://news.ycombinator.com/item?id=40645359) - [Magic died when art and science split](https://nautil.us/magic-died-when-art-and-science-split-650412/)
 * [2024-06-11, 10:26:21](https://news.ycombinator.com/item?id=40644562) - [Scan HTML faster with SIMD instructions – Chrome edition](https://lemire.me/blog/2024/06/08/scan-html-faster-with-simd-instructions-chrome-edition/)
 * [2024-06-11, 02:18:54](https://news.ycombinator.com/item?id=40641598) - [Designing a website without 404s](https://pillser.com/engineering/2024-06-10-website-without-404s)
 
