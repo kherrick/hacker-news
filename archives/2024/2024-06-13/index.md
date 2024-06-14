@@ -36,6 +36,7 @@
 * [2024-06-13, 18:02:15](https://news.ycombinator.com/item?id=40672663) - [The \"uncanny\" is the experience of a loss of control](https://ykulbashian.medium.com/the-uncanny-is-the-experience-of-a-loss-of-control-06a3fb4dbcd1)
 * [2024-06-13, 18:02:03](https://news.ycombinator.com/item?id=40672659) - [The fastest path to African prosperity](https://www.palladiummag.com/2024/06/07/the-fastest-path-to-african-prosperity/)
 * [2024-06-13, 18:01:34](https://news.ycombinator.com/item?id=40672653) - [The Art of the Epigraph](https://themillions.com/2014/06/the-art-of-the-epigraph.html)
+* [2024-06-13, 18:01:13](https://news.ycombinator.com/item?id=40672648) - [Anticipatory Anxiety](https://www.lrb.co.uk/the-paper/v46/n12/william-davies/anticipatory-anxiety)
 * [2024-06-13, 17:57:10](https://news.ycombinator.com/item?id=40672606) - [An Empirical Study of Mamba-Based Language Models](https://arxiv.org/abs/2406.07887)
 * [2024-06-13, 17:31:52](https://news.ycombinator.com/item?id=40672306) - [Spectrum of Covid-19: From Asymptomatic Organ Damage to Long Covid Syndrome](https://whn.global/scientific/spectrum-of-covid-19-from-asymptomatic-organ-damage-to-long-covid-syndrome/)
 * [2024-06-13, 17:20:14](https://news.ycombinator.com/item?id=40672215) - [You can help Anna's Archive by seeding torrents](https://annas-archive.org/torrents)
