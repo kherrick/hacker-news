@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-14](index.md)
 
+* [2024-06-14, 20:07:27](https://news.ycombinator.com/item?id=40684560) - [Southwest Plane Plunged Within 400 Feet of Ocean Near Hawaii](https://www.bloomberg.com/news/articles/2024-06-14/southwest-plane-plunges-within-400-feet-of-ocean-near-hawaii)
+* [2024-06-14, 20:06:58](https://news.ycombinator.com/item?id=40684556) - [OpenAI adds former NSA chief to its board](https://www.cnbc.com/2024/06/13/openai-adds-former-nsa-chief-to-its-board-paul-nakasone-sam-altman.html)
 * [2024-06-14, 19:45:46](https://news.ycombinator.com/item?id=40684327) - [What Is the Opposite of Oil Drilling?](https://www.newyorker.com/news/annals-of-a-warming-planet/what-is-the-opposite-of-oil-drilling)
 * [2024-06-14, 19:34:21](https://news.ycombinator.com/item?id=40684195) - [Seattle tumbles to No. 20 in global ranking of startup ecosystems](https://www.geekwire.com/2024/seattle-tumbles-to-no-20-in-global-ranking-of-startup-ecosystems/)
 * [2024-06-14, 19:32:39](https://news.ycombinator.com/item?id=40684176) - [Dan's the man: Why Chinese women are looking to ChatGPT for love](https://www.bbc.com/articles/c4nnje9rpjgo)

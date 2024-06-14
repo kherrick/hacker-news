@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-14, 20:07:27](https://news.ycombinator.com/item?id=40684560) - [Southwest Plane Plunged Within 400 Feet of Ocean Near Hawaii](https://www.bloomberg.com/news/articles/2024-06-14/southwest-plane-plunges-within-400-feet-of-ocean-near-hawaii)
+* [2024-06-14, 20:06:58](https://news.ycombinator.com/item?id=40684556) - [OpenAI adds former NSA chief to its board](https://www.cnbc.com/2024/06/13/openai-adds-former-nsa-chief-to-its-board-paul-nakasone-sam-altman.html)
 * [2024-06-14, 19:45:46](https://news.ycombinator.com/item?id=40684327) - [What Is the Opposite of Oil Drilling?](https://www.newyorker.com/news/annals-of-a-warming-planet/what-is-the-opposite-of-oil-drilling)
 * [2024-06-14, 19:34:21](https://news.ycombinator.com/item?id=40684195) - [Seattle tumbles to No. 20 in global ranking of startup ecosystems](https://www.geekwire.com/2024/seattle-tumbles-to-no-20-in-global-ranking-of-startup-ecosystems/)
 * [2024-06-14, 19:32:39](https://news.ycombinator.com/item?id=40684176) - [Dan's the man: Why Chinese women are looking to ChatGPT for love](https://www.bbc.com/articles/c4nnje9rpjgo)
@@ -12,7 +14,6 @@
 * [2024-06-14, 17:00:10](https://news.ycombinator.com/item?id=40682525) - [Aviator (YC S21) Is Hiring Engineers to Build a DevEx Platform](https://www.aviator.co/jobs)
 * [2024-06-14, 16:48:33](https://news.ycombinator.com/item?id=40682401) - [The sun's magnetic field is about to flip](https://www.space.com/sun-magnetic-field-flip-solar-maximum-2024)
 * [2024-06-14, 16:20:06](https://news.ycombinator.com/item?id=40682149) - [Effect – Build robust apps in TypeScript](https://effect.website/)
-* [2024-06-14, 16:01:46](https://news.ycombinator.com/item?id=40682000) - [Nemotron-4-340B](https://blogs.nvidia.com/blog/nemotron-4-synthetic-data-generation-llm-training/)
 * [2024-06-14, 15:30:58](https://news.ycombinator.com/item?id=40681784) - [Cost of self hosting Llama-3 8B-Instruct](https://blog.lytix.co/posts/self-hosting-llama-3)
 * [2024-06-14, 14:39:07](https://news.ycombinator.com/item?id=40681345) - [Sleep deprivation disrupts memory](https://www.nature.com/articles/d41586-024-01732-y)
 * [2024-06-14, 14:35:21](https://news.ycombinator.com/item?id=40681306) - [H.264 Is Magic (2016)](https://sidbala.com/h-264-is-magic/)
@@ -23,7 +24,6 @@
 * [2024-06-14, 12:24:06](https://news.ycombinator.com/item?id=40680218) - [I found a 55 year old bug in the first Lunar Lander game](https://martincmartin.com/2024/06/14/how-i-found-a-55-year-old-bug-in-the-first-lunar-lander-game/)
 * [2024-06-14, 12:11:28](https://news.ycombinator.com/item?id=40680107) - [Map of forest sounds from around the world](https://timberfestival.org.uk/soundsoftheforest-soundmap/)
 * [2024-06-14, 09:20:12](https://news.ycombinator.com/item?id=40679086) - [Effect of passenger position on crash injury risk in aircraft (2015) [pdf]](https://www.tc.faa.gov/its/worldpac/techrpt/am15-17.pdf)
-* [2024-06-14, 00:04:51](https://news.ycombinator.com/item?id=40676239) - [Fungus breaks down ocean plastic](https://www.nioz.nl/en/news/fungus-breaks-down-ocean-plastic)
 * [2024-06-13, 16:44:23](https://news.ycombinator.com/item?id=40671846) - [Dark Software](https://notes.mtb.xyz/p/dark-software)
 * [2024-06-13, 15:26:39](https://news.ycombinator.com/item?id=40670832) - [Does chaos theory square classical physics with human agency? Essays](https://aeon.co/essays/does-chaos-theory-square-classical-physics-with-human-agency)
 * [2024-06-12, 15:52:53](https://news.ycombinator.com/item?id=40659511) - [The Microsoft Excel superstars throw down in Vegas](https://www.theverge.com/c/24133822/microsoft-excel-spreadsheet-competition-championship)
