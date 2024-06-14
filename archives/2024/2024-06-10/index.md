@@ -51,6 +51,7 @@
 * [2024-06-10, 17:09:52](https://news.ycombinator.com/item?id=40635697) - [pico9918: A replacement TMS9918A/TMS9929A VDP using a Raspberry Pi Pico](https://github.com/visrealm/pico9918)
 * [2024-06-10, 17:01:58](https://news.ycombinator.com/item?id=40635628) - [Brainbase (YC W24) Is Hiring Head of Product](https://www.ycombinator.com/companies/brainbase/jobs/W62qIfA-founding-head-of-product)
 * [2024-06-10, 16:52:57](https://news.ycombinator.com/item?id=40635512) - [Evidence for transient morning water frost on the Tharsis volcanoes of Mars](https://www.nature.com/articles/s41561-024-01457-7)
+* [2024-06-10, 16:43:33](https://news.ycombinator.com/item?id=40635425) - [Ciex, Inc – It's just this tiny flaw (2018)](https://ciexinc.com/blog/its-just-this-tiny-flaw.html)
 * [2024-06-10, 16:40:05](https://news.ycombinator.com/item?id=40635397) - [Show HN: Probabilistic Tic-Tac-Toe](https://www.csun.io/2024/06/08/probabilistic-tic-tac-toe.html)
 * [2024-06-10, 16:09:26](https://news.ycombinator.com/item?id=40635092) - [WWDC 2024 [video]](https://www.youtube.com/watch?v=RXeOiIDNNek)
 * [2024-06-10, 15:46:14](https://news.ycombinator.com/item?id=40634823) - [XScreenSaver is available on Android. Google requires a privacy policy](https://chaos.social/@scy/112591102162587559)

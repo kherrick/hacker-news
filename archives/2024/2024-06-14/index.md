@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-06-14](index.md)
 
+* [2024-06-14, 19:45:46](https://news.ycombinator.com/item?id=40684327) - [What Is the Opposite of Oil Drilling?](https://www.newyorker.com/news/annals-of-a-warming-planet/what-is-the-opposite-of-oil-drilling)
 * [2024-06-14, 19:34:21](https://news.ycombinator.com/item?id=40684195) - [Seattle tumbles to No. 20 in global ranking of startup ecosystems](https://www.geekwire.com/2024/seattle-tumbles-to-no-20-in-global-ranking-of-startup-ecosystems/)
+* [2024-06-14, 19:32:39](https://news.ycombinator.com/item?id=40684176) - [Dan's the man: Why Chinese women are looking to ChatGPT for love](https://www.bbc.com/articles/c4nnje9rpjgo)
 * [2024-06-14, 19:09:28](https://news.ycombinator.com/item?id=40683947) - [Orange FM Prototype – Analogue Pocket Demo](https://orangegb.com/orangefm/)
+* [2024-06-14, 18:47:34](https://news.ycombinator.com/item?id=40683697) - [AI Search: The Bitter-Er Lesson](https://yellow-apartment-148.notion.site/AI-Search-The-Bitter-er-Lesson-44c11acd27294f4495c3de778cd09c8d)
 * [2024-06-14, 18:25:07](https://news.ycombinator.com/item?id=40683458) - [Sidebar Is Taking a Break](https://sidebar.io/break/)
 * [2024-06-14, 18:03:19](https://news.ycombinator.com/item?id=40683212) - [Nemotron-4 340B](https://research.nvidia.com/publication/2024-06_nemotron-4-340b)
 * [2024-06-14, 18:03:09](https://news.ycombinator.com/item?id=40683210) - [Microsoft's Recall AI feature is now indefinitely delayed](https://blogs.windows.com/windowsexperience/2024/06/07/update-on-the-recall-preview-feature-for-copilot-pcs/)
