@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-14](index.md)
 
 * [2024-06-14, 11:15:50](https://news.ycombinator.com/item?id=40679685) - [Apple's new AI leaves out more than 90% of current iPhone users](https://english.elpais.com/technology/2024-06-14/apples-new-artificial-intelligence-leaves-out-more-than-90-of-current-iphone-users.html)
+* [2024-06-14, 11:00:12](https://news.ycombinator.com/item?id=40679599) - [FAA Investigating How Counterfeit Titanium Got into Boeing and Airbus Jets](https://www.nytimes.com/2024/06/14/us/politics/boeing-airbus-titanium-faa.html)
 * [2024-06-14, 10:43:47](https://news.ycombinator.com/item?id=40679507) - [Germany sees company bankruptcies soar](https://www.dw.com/en/germany-sees-company-bankruptcies-soar/a-69358663)
 * [2024-06-14, 09:33:42](https://news.ycombinator.com/item?id=40679144) - [Turning away from smartphones: 'We need to go places and touch things'](https://www.theguardian.com/lifeandstyle/article/2024/jun/12/young-people-turning-away-from-phones-social-media-addiction)
 * [2024-06-14, 09:20:12](https://news.ycombinator.com/item?id=40679086) - [Effect of Passenger Position on Crash Injury Risk in Aircraft (2015) [pdf]](https://www.tc.faa.gov/its/worldpac/techrpt/am15-17.pdf)

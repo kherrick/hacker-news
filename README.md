@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-14, 11:15:50](https://news.ycombinator.com/item?id=40679685) - [Apple's new AI leaves out more than 90% of current iPhone users](https://english.elpais.com/technology/2024-06-14/apples-new-artificial-intelligence-leaves-out-more-than-90-of-current-iphone-users.html)
+* [2024-06-14, 11:00:12](https://news.ycombinator.com/item?id=40679599) - [FAA Investigating How Counterfeit Titanium Got into Boeing and Airbus Jets](https://www.nytimes.com/2024/06/14/us/politics/boeing-airbus-titanium-faa.html)
 * [2024-06-14, 10:43:47](https://news.ycombinator.com/item?id=40679507) - [Germany sees company bankruptcies soar](https://www.dw.com/en/germany-sees-company-bankruptcies-soar/a-69358663)
 * [2024-06-14, 09:33:42](https://news.ycombinator.com/item?id=40679144) - [Turning away from smartphones: 'We need to go places and touch things'](https://www.theguardian.com/lifeandstyle/article/2024/jun/12/young-people-turning-away-from-phones-social-media-addiction)
 * [2024-06-14, 09:20:12](https://news.ycombinator.com/item?id=40679086) - [Effect of Passenger Position on Crash Injury Risk in Aircraft (2015) [pdf]](https://www.tc.faa.gov/its/worldpac/techrpt/am15-17.pdf)
@@ -14,7 +15,6 @@
 * [2024-06-13, 18:43:17](https://news.ycombinator.com/item?id=40673091) - [Mouth-based touchpad enables people living with paralysis to use computers](https://news.mit.edu/2024/mouth-based-touchpad-augmental-0605)
 * [2024-06-13, 18:20:31](https://news.ycombinator.com/item?id=40672843) - [Show HN: Paramount – Human Evals of AI Customer Support](https://github.com/ask-fini/paramount)
 * [2024-06-13, 18:02:15](https://news.ycombinator.com/item?id=40672663) - [The \"uncanny\" is the experience of a loss of control](https://ykulbashian.medium.com/the-uncanny-is-the-experience-of-a-loss-of-control-06a3fb4dbcd1)
-* [2024-06-13, 17:00:56](https://news.ycombinator.com/item?id=40672027) - [Tesorio (YC S15) Is Hiring a Senior GenAI/LLM Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
 * [2024-06-13, 15:05:18](https://news.ycombinator.com/item?id=40670612) - [MLow: Meta's low bitrate audio codec](https://engineering.fb.com/2024/06/13/web/mlow-metas-low-bitrate-audio-codec/)
 * [2024-06-13, 14:25:51](https://news.ycombinator.com/item?id=40670096) - [Luma AI Dream Machine](https://lumalabs.ai/dream-machine)
 * [2024-06-13, 05:26:02](https://news.ycombinator.com/item?id=40666237) - [SSH agent extensions as an arbitrary RPC mechanism](https://mjg59.dreamwidth.org/69646.html)
