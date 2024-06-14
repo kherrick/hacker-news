@@ -12,6 +12,7 @@
 * [2024-06-11, 20:25:18](https://news.ycombinator.com/item?id=40651054) - [Swift Static Linux SDK](https://www.swift.org/documentation/articles/static-linux-getting-started.html)
 * [2024-06-11, 20:16:23](https://news.ycombinator.com/item?id=40650974) - [Lexbor – an open source HTML Renderer library](https://github.com/lexbor/lexbor)
 * [2024-06-11, 20:03:57](https://news.ycombinator.com/item?id=40650844) - [Flameshot – Open-source screenshot software](https://flameshot.org/)
+* [2024-06-11, 19:53:06](https://news.ycombinator.com/item?id=40650727) - [Hydra: Generalizing Peephole Optimizations with Program Synthesis [pdf]](https://users.cs.utah.edu/~regehr/generalization-oopsla24.pdf)
 * [2024-06-11, 19:33:03](https://news.ycombinator.com/item?id=40650503) - [Federighi says Apple hopes to add Google Gemini and other AI models to iOS 18](https://9to5mac.com/2024/06/10/craig-federighi-says-apple-hopes-to-add-google-gemini-and-other-ai-models-to-ios-18/)
 * [2024-06-11, 19:19:24](https://news.ycombinator.com/item?id=40650316) - [Decade of the Battery](https://www.noahpinion.blog/p/decade-of-the-battery-334)
 * [2024-06-11, 19:06:39](https://news.ycombinator.com/item?id=40650173) - [The Rise and Fall of BNN Breaking, an AI-Generated News Outlet](https://www.nytimes.com/2024/06/06/technology/bnn-breaking-ai-generated-news.html)
