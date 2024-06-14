@@ -76,6 +76,7 @@
 * [2024-06-12, 12:34:39](https://news.ycombinator.com/item?id=40657371) - [Ideal OS: Rebooting the Desktop Operating System (2017)](https://joshondesign.com/2017/08/18/idealos_essay)
 * [2024-06-12, 12:28:23](https://news.ycombinator.com/item?id=40657307) - [Study shows N95 masks near-perfect at blocking escape of airborne Covid-19](https://sph.umd.edu/news/study-shows-n95-masks-near-perfect-blocking-escape-airborne-covid-19)
 * [2024-06-12, 12:19:02](https://news.ycombinator.com/item?id=40657238) - [AI Detectors Get It Wrong. Writers Are Being Fired Anyway](https://gizmodo.com/ai-detectors-inaccurate-freelance-writers-fired-1851529820)
+* [2024-06-12, 12:17:04](https://news.ycombinator.com/item?id=40657220) - [The Oldest Ecosystems on Earth](https://nautil.us/the-oldest-ecosystems-on-earth-650875/)
 * [2024-06-12, 12:07:19](https://news.ycombinator.com/item?id=40657138) - [Samsung Document Showed 126 Ways iPhone Was Better Than S1 (2010) [pdf]](https://ia600908.us.archive.org/30/items/436142-samsung-relative-evaluation-report-on-s1-iphone/436142-samsung-relative-evaluation-report-on-s1-iphone.pdf)
 * [2024-06-12, 12:01:01](https://news.ycombinator.com/item?id=40657088) - [Fini (YC S22) Is Hiring a Front-End Engineer](https://news.ycombinator.com/item?id=40657088)
 * [2024-06-12, 11:39:36](https://news.ycombinator.com/item?id=40656915) - [Show HN: I 'integrated' ChatGPT in iOS-iPadOS-macOS with out official support](https://giuliomagnifico.blog/tips/2024/06/12/chatgpt-before-ios18.html)

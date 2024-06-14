@@ -19,7 +19,7 @@
 * [2024-06-13, 15:51:11](https://news.ycombinator.com/item?id=40671140) - [Show HN: XDeck – An ad-blocking client app for macOS, like TweetDeck](https://github.com/morishin/XDeck)
 * [2024-06-13, 15:05:18](https://news.ycombinator.com/item?id=40670612) - [MLow: Meta's low bitrate audio codec](https://engineering.fb.com/2024/06/13/web/mlow-metas-low-bitrate-audio-codec/)
 * [2024-06-13, 14:25:51](https://news.ycombinator.com/item?id=40670096) - [Luma AI Dream Machine](https://lumalabs.ai/dream-machine)
-* [2024-06-13, 05:26:02](https://news.ycombinator.com/item?id=40666237) - [SSH agent extensions as an arbitrary RPC mechanism](https://mjg59.dreamwidth.org/69646.html)
+* [2024-06-12, 12:17:04](https://news.ycombinator.com/item?id=40657220) - [The Oldest Ecosystems on Earth](https://nautil.us/the-oldest-ecosystems-on-earth-650875/)
 * [2024-06-12, 09:50:14](https://news.ycombinator.com/item?id=40656310) - [ASHA for Linux](https://github.com/thewierdnut/asha_pipewire_sink)
 * [2024-06-12, 09:19:20](https://news.ycombinator.com/item?id=40656125) - [My thoughts on Python in Excel](https://www.xlwings.org/blog/my-thoughts-on-python-in-excel)
 * [2024-06-12, 07:54:37](https://news.ycombinator.com/item?id=40655635) - [A new map of medieval London](https://londonist.substack.com/p/a-new-map-of-medieval-london)
