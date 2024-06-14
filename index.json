@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-06-14, 04:41:41",
-      "https://news.ycombinator.com/item?id=40677532"
-    ],
-    [
-      "Tesla Releases Results of 2024 Annual Meeting of Stockholders",
-      "https://ir.tesla.com/press-release/tesla-releases-results-2024-annual-meeting-stockholders"
-    ]
-  ],
-  [
-    [
       "2024-06-14, 02:23:06",
       "https://news.ycombinator.com/item?id=40676974"
     ],
@@ -191,22 +181,22 @@
   ],
   [
     [
+      "2024-06-13, 11:02:11",
+      "https://news.ycombinator.com/item?id=40668088"
+    ],
+    [
+      "Indian startup 3D prints rocket engine in 72 hours",
+      "https://spectrum.ieee.org/3d-printed-rocket"
+    ]
+  ],
+  [
+    [
       "2024-06-13, 05:26:02",
       "https://news.ycombinator.com/item?id=40666237"
     ],
     [
       "SSH agent extensions as an arbitrary RPC mechanism",
       "https://mjg59.dreamwidth.org/69646.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-12, 12:44:14",
-      "https://news.ycombinator.com/item?id=40657467"
-    ],
-    [
-      "Drawing Machines",
-      "https://drawingmachines.org/"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "A new map of medieval London",
       "https://londonist.substack.com/p/a-new-map-of-medieval-london"
+    ]
+  ],
+  [
+    [
+      "2024-06-12, 05:54:23",
+      "https://news.ycombinator.com/item?id=40654974"
+    ],
+    [
+      "Lambda Calculus Interpreter",
+      "https://lambda-calculus-interpreter.netlify.app/?term=(%CE%BBt.%20t%20t%20(%CE%BBh%20f%20n.%20n%20h%20f%20n)%20t%20t%20t)%20(%CE%BBf%20x.%20f%20(f%20x))"
     ]
   ],
   [
