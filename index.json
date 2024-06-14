@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-06-14, 01:42:52",
+      "https://news.ycombinator.com/item?id=40676754"
+    ],
+    [
+      "Firefox development is moving from Mercurial to Git (2023)",
+      "https://bugzilla.mozilla.org/show_bug.cgi?id=1863519"
+    ]
+  ],
+  [
+    [
+      "2024-06-14, 01:17:01",
+      "https://news.ycombinator.com/item?id=40676634"
+    ],
+    [
+      "Clearview AI Used Your Face. Now You May Get a Stake in the Company",
+      "https://www.nytimes.com/2024/06/13/technology/clearview-ai-facial-recognition-settlement.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-14, 00:36:21",
+      "https://news.ycombinator.com/item?id=40676408"
+    ],
+    [
+      "Land value tax in online games and virtual worlds: A how-to guide",
+      "https://progressandpoverty.substack.com/p/land-value-tax-in-online-games-and"
+    ]
+  ],
+  [
+    [
       "2024-06-13, 22:29:40",
       "https://news.ycombinator.com/item?id=40675577"
     ],
@@ -37,16 +67,6 @@
     [
       "Pay $1 to Hear Wu-Tang Clan’s Secret Album (Eventually)",
       "https://www.nytimes.com/2024/06/13/arts/music/wu-tang-clan-once-upon-a-time-in-shaolin.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-13, 19:28:22",
-      "https://news.ycombinator.com/item?id=40673567"
-    ],
-    [
-      "U.S.-Saudi petrodollar pact ends after 50 years",
-      "https://www.nasdaq.com/articles/us-saudi-petrodollar-pact-ends-after-50-years"
     ]
   ],
   [
@@ -181,6 +201,16 @@
   ],
   [
     [
+      "2024-06-12, 17:56:20",
+      "https://news.ycombinator.com/item?id=40660973"
+    ],
+    [
+      "The \"blooming, buzzing confusion\" of William James (2010)",
+      "https://johnhawks.net/weblog/the-blooming-buzzing-confusion-of-william-james/"
+    ]
+  ],
+  [
+    [
       "2024-06-12, 17:45:07",
       "https://news.ycombinator.com/item?id=40660867"
     ],
@@ -215,7 +245,7 @@
       "https://news.ycombinator.com/item?id=40656125"
     ],
     [
-      "My Thoughts on Python in Excel",
+      "My thoughts on Python in Excel",
       "https://www.xlwings.org/blog/my-thoughts-on-python-in-excel"
     ]
   ],
@@ -227,16 +257,6 @@
     [
       "A New Map of Medieval London",
       "https://londonist.substack.com/p/a-new-map-of-medieval-london"
-    ]
-  ],
-  [
-    [
-      "2024-06-12, 05:56:32",
-      "https://news.ycombinator.com/item?id=40654989"
-    ],
-    [
-      "The Vogue Archive",
-      "https://artsandculture.google.com/project/vogue-archive"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2024-06-11, 13:05:52",
-      "https://news.ycombinator.com/item?id=40645773"
-    ],
-    [
-      "Mushroom hunters can't stop finding mysterious fungi",
-      "https://www.nytimes.com/2024/06/11/science/mushroom-hunters-dna.html"
-    ]
-  ],
-  [
-    [
       "2024-06-11, 10:26:21",
       "https://news.ycombinator.com/item?id=40644562"
     ],
     [
       "Scan HTML faster with SIMD instructions – Chrome edition",
       "https://lemire.me/blog/2024/06/08/scan-html-faster-with-simd-instructions-chrome-edition/"
-    ]
-  ],
-  [
-    [
-      "2024-06-11, 09:35:34",
-      "https://news.ycombinator.com/item?id=40644261"
-    ],
-    [
-      "Perspective-Correct Interpolation",
-      "https://andrewkchan.dev/posts/perspective-interpolation.html"
     ]
   ]
 ]
