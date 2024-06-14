@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-13](index.md)
 
 * [2024-06-13, 23:30:43](https://news.ycombinator.com/item?id=40676021) - [The Stanford Internet Observatory is being dismantled](https://www.platformer.news/stanford-internet-observatory-shutdown-stamos-diresta-sio/)
+* [2024-06-13, 23:18:50](https://news.ycombinator.com/item?id=40675947) - [Why I Bought an Encyclopedia](https://www.optoutproject.net/what-is-true-on-the-internet/)
 * [2024-06-13, 22:29:40](https://news.ycombinator.com/item?id=40675577) - [Lamini Memory Tuning: 10x Fewer Hallucinations](https://www.lamini.ai/blog/lamini-memory-tuning)
 * [2024-06-13, 22:17:57](https://news.ycombinator.com/item?id=40675468) - [OpenAI Doubles Annualized Revenue to $3.4B](https://www.bloomberg.com/news/articles/2024-06-12/openai-doubles-annualized-revenue-to-3-4-billion-information)
 * [2024-06-13, 22:09:55](https://news.ycombinator.com/item?id=40675397) - [Notebooks Are McDonalds of Code](https://yobibyte.github.io/notebooks.html)
