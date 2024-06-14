@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-14, 05:59:17](https://news.ycombinator.com/item?id=40677926) - [40 out of 60 German climate greening endavours fraudulent](https://www.fr.de/politik/warnungen-milliarden-an-konzerne-gezahlt-betrugsverdacht-beim-klimaschutz-trotz-zr-93122965.html)
+* [2024-06-14, 06:15:59](https://news.ycombinator.com/item?id=40678015) - [From One RSS Feed Entry to 186850 Hits](https://susam.net/from-web-feed-to-186850-hits.html)
 * [2024-06-14, 05:36:47](https://news.ycombinator.com/item?id=40677810) - [A look at Apple's technical approach to AI including core model performance etc.](https://www.interconnects.ai/p/apple-intelligence)
 * [2024-06-14, 05:06:10](https://news.ycombinator.com/item?id=40677637) - [Sustain Open Source, sustain the planet: A new conversation](https://opensource.net/oss-for-climate-podcast/)
 * [2024-06-14, 02:23:06](https://news.ycombinator.com/item?id=40676974) - [ASML Aims for Hyper-NA EUV, Shrinking Chip Limits](https://www.eetimes.com/asml-aims-for-hyper-na-euv-shrinking-chip-limits/)
