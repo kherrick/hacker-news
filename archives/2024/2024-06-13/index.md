@@ -6,6 +6,7 @@
 
 * [2024-06-13, 23:30:43](https://news.ycombinator.com/item?id=40676021) - [The Stanford Internet Observatory is being dismantled](https://www.platformer.news/stanford-internet-observatory-shutdown-stamos-diresta-sio/)
 * [2024-06-13, 23:18:50](https://news.ycombinator.com/item?id=40675947) - [Why I Bought an Encyclopedia](https://www.optoutproject.net/what-is-true-on-the-internet/)
+* [2024-06-13, 22:48:19](https://news.ycombinator.com/item?id=40675724) - [From grep to SPLADE: a journey through semantic search](https://blog.elicit.com/semantic-search/)
 * [2024-06-13, 22:29:40](https://news.ycombinator.com/item?id=40675577) - [Lamini Memory Tuning: 10x Fewer Hallucinations](https://www.lamini.ai/blog/lamini-memory-tuning)
 * [2024-06-13, 22:17:57](https://news.ycombinator.com/item?id=40675468) - [OpenAI Doubles Annualized Revenue to $3.4B](https://www.bloomberg.com/news/articles/2024-06-12/openai-doubles-annualized-revenue-to-3-4-billion-information)
 * [2024-06-13, 22:09:55](https://news.ycombinator.com/item?id=40675397) - [Notebooks Are McDonalds of Code](https://yobibyte.github.io/notebooks.html)
@@ -92,6 +93,7 @@
 * [2024-06-13, 09:17:10](https://news.ycombinator.com/item?id=40667524) - [Is the Future of Moore's Law in a Particle Accelerator?](https://spectrum.ieee.org/euv-fel)
 * [2024-06-13, 08:58:48](https://news.ycombinator.com/item?id=40667416) - [Apple to 'Pay' OpenAI for ChatGPT Through Distribution, Not Cash](https://www.bnnbloomberg.ca/apple-to-pay-openai-for-chatgpt-through-distribution-not-cash-1.2084539)
 * [2024-06-13, 07:57:56](https://news.ycombinator.com/item?id=40667102) - [AMD's MI300X Outperforms Nvidia's H100 for LLM Inference](https://www.blog.tensorwave.com/amds-mi300x-outperforms-nvidias-h100-for-llm-inference/)
+* [2024-06-13, 07:19:07](https://news.ycombinator.com/item?id=40666879) - [The ‘Network of Web Trees’ in Gaza](https://globalvoices.org/2024/06/13/the-ingenious-network-tree-defying-gazas-connectivity-blockade/)
 * [2024-06-13, 06:56:53](https://news.ycombinator.com/item?id=40666757) - [Ray Tracing with POV-Ray: 25 Scenes in 25 Days](https://github.com/susam/pov25)
 * [2024-06-13, 06:45:35](https://news.ycombinator.com/item?id=40666658) - [Altman backed AI Social Network 'Maven' imported 1.12M Fediverse posts](https://wedistribute.org/2024/06/maven-mastodon-posts/)
 * [2024-06-13, 06:29:04](https://news.ycombinator.com/item?id=40666557) - [Taboos and Self-Censorship Among U.S. Psychology Professors](https://journals.sagepub.com/doi/10.1177/17456916241252085)

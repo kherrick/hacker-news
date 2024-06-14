@@ -45,6 +45,7 @@
 * [2024-06-11, 15:12:30](https://news.ycombinator.com/item?id=40647123) - [Firefox will upgrade more Mixed Content in Version 127](https://blog.mozilla.org/security/2024/06/05/firefox-will-upgrade-more-mixed-content-in-version-127/)
 * [2024-06-11, 15:10:11](https://news.ycombinator.com/item?id=40647096) - [The Light Phone III](https://www.thelightphone.com/lightiii)
 * [2024-06-11, 14:58:52](https://news.ycombinator.com/item?id=40646940) - [Banana giant Chiquita held liable by US court for funding paramilitaries](https://www.bbc.com/news/articles/c6pprpd3x96o)
+* [2024-06-11, 14:58:38](https://news.ycombinator.com/item?id=40646936) - [The rise and fall of Koo, India’s once-thriving Twitter alternative](https://restofworld.org/2024/twitter-alternative-koo/)
 * [2024-06-11, 14:56:38](https://news.ycombinator.com/item?id=40646909) - [Terence Tao on proof checkers and AI programs](https://www.scientificamerican.com/article/ai-will-become-mathematicians-co-pilot/)
 * [2024-06-11, 14:49:05](https://news.ycombinator.com/item?id=40646820) - [Meta Open-Sources Megalodon LLM for Efficient Long Sequence Modeling – InfoQ](https://www.infoq.com/news/2024/06/meta-llm-megalodon/)
 * [2024-06-11, 14:43:31](https://news.ycombinator.com/item?id=40646741) - [Show HN: Revideo – Create Videos with Code](https://github.com/redotvideo/revideo)
