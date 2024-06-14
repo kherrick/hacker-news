@@ -99,6 +99,7 @@
 * [2024-06-13, 06:29:04](https://news.ycombinator.com/item?id=40666557) - [Taboos and Self-Censorship Among U.S. Psychology Professors](https://journals.sagepub.com/doi/10.1177/17456916241252085)
 * [2024-06-13, 05:42:08](https://news.ycombinator.com/item?id=40666304) - [YouTube's next move might make it virtually impossible to block ads](https://www.androidpolice.com/youtube-next-server-injected-ads-impossible-to-block/)
 * [2024-06-13, 05:26:02](https://news.ycombinator.com/item?id=40666237) - [SSH agent extensions as an arbitrary RPC mechanism](https://mjg59.dreamwidth.org/69646.html)
+* [2024-06-13, 05:14:20](https://news.ycombinator.com/item?id=40666178) - [Chaos in the medium: Watercolour plotting](https://www.amygoodchild.com/blog/watercolour-plots)
 * [2024-06-13, 05:08:10](https://news.ycombinator.com/item?id=40666152) - [Microsoft's Nadella is building an AI empire](https://www.wsj.com/tech/ai/microsoft-nadella-openai-inflection-9727e77a)
 * [2024-06-13, 03:44:55](https://news.ycombinator.com/item?id=40665734) - [What If We Recaption Billions of Web Images with LLaMA-3?](https://arxiv.org/abs/2406.08478)
 * [2024-06-13, 03:42:39](https://news.ycombinator.com/item?id=40665721) - [Uncensor Any LLM with Abliteration](https://huggingface.co/blog/mlabonne/abliteration)
