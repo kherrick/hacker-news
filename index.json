@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2024-06-12, 19:34:45",
+      "https://news.ycombinator.com/item?id=40662056"
+    ],
+    [
+      "Bibliography keys: It's as easy as [1], [2], [3]",
+      "http://blog.cr.yp.to/20240612-bibkeys.html"
+    ]
+  ],
+  [
+    [
       "2024-06-12, 17:56:20",
       "https://news.ycombinator.com/item?id=40660973"
     ],
@@ -261,6 +271,16 @@
   ],
   [
     [
+      "2024-06-12, 05:54:23",
+      "https://news.ycombinator.com/item?id=40654974"
+    ],
+    [
+      "Lambda Calculus Interpreter",
+      "https://lambda-calculus-interpreter.netlify.app/?term=(%CE%BBt.%20t%20t%20(%CE%BBh%20f%20n.%20n%20h%20f%20n)%20t%20t%20t)%20(%CE%BBf%20x.%20f%20(f%20x))"
+    ]
+  ],
+  [
+    [
       "2024-06-11, 17:44:41",
       "https://news.ycombinator.com/item?id=40649282"
     ],
@@ -277,26 +297,6 @@
     [
       "Borges on Chaos Theory",
       "https://aethermug.com/posts/borges-on-chaos-theory"
-    ]
-  ],
-  [
-    [
-      "2024-06-11, 14:25:28",
-      "https://news.ycombinator.com/item?id=40646528"
-    ],
-    [
-      "Solving Probabilistic Tic-Tac-Toe",
-      "https://louisabraham.github.io/articles/probabilistic-tic-tac-toe"
-    ]
-  ],
-  [
-    [
-      "2024-06-11, 10:26:21",
-      "https://news.ycombinator.com/item?id=40644562"
-    ],
-    [
-      "Scan HTML faster with SIMD instructions – Chrome edition",
-      "https://lemire.me/blog/2024/06/08/scan-html-faster-with-simd-instructions-chrome-edition/"
     ]
   ]
 ]
