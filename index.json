@@ -1,12 +1,32 @@
 [
   [
     [
-      "2024-06-14, 12:46:57",
-      "https://news.ycombinator.com/item?id=40680380"
+      "2024-06-14, 13:28:56",
+      "https://news.ycombinator.com/item?id=40680737"
     ],
     [
-      "Europe's biggest problem: It is falling way behind America's powerhouse economy",
-      "https://www.washingtonpost.com/opinions/2024/06/14/europe-competition-economy-reform-populism/"
+      "Nvidia Warp: A Python framework for high performance GPU simulation and graphics",
+      "https://github.com/NVIDIA/warp"
+    ]
+  ],
+  [
+    [
+      "2024-06-14, 13:17:11",
+      "https://news.ycombinator.com/item?id=40680648"
+    ],
+    [
+      "Start Presentations on the Second Slide",
+      "https://tidyfirst.substack.com/p/start-presentations-on-the-second"
+    ]
+  ],
+  [
+    [
+      "2024-06-14, 13:01:26",
+      "https://news.ycombinator.com/item?id=40680509"
+    ],
+    [
+      "Kaprekar's Magic 6174",
+      "https://www.oranlooney.com/post/kaprekar/"
     ]
   ],
   [
@@ -41,32 +61,22 @@
   ],
   [
     [
+      "2024-06-14, 11:37:28",
+      "https://news.ycombinator.com/item?id=40679809"
+    ],
+    [
+      "POSIX.1-2024 is published",
+      "https://ieeexplore.ieee.org/document/10555529"
+    ]
+  ],
+  [
+    [
       "2024-06-14, 11:16:09",
       "https://news.ycombinator.com/item?id=40679689"
     ],
     [
       "Android Drivers - News and updates from the Project Zero team at Google",
       "https://googleprojectzero.blogspot.com/2024/06/driving-forward-in-android-drivers.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-14, 05:36:47",
-      "https://news.ycombinator.com/item?id=40677810"
-    ],
-    [
-      "A look at Apple's technical approach to AI including core model performance etc.",
-      "https://www.interconnects.ai/p/apple-intelligence"
-    ]
-  ],
-  [
-    [
-      "2024-06-14, 02:23:06",
-      "https://news.ycombinator.com/item?id=40676974"
-    ],
-    [
-      "ASML Aims for Hyper-NA EUV, Shrinking Chip Limits",
-      "https://www.eetimes.com/asml-aims-for-hyper-na-euv-shrinking-chip-limits/"
     ]
   ],
   [
@@ -97,16 +107,6 @@
     [
       "Why I Bought an Encyclopedia",
       "https://www.optoutproject.net/what-is-true-on-the-internet/"
-    ]
-  ],
-  [
-    [
-      "2024-06-13, 22:09:55",
-      "https://news.ycombinator.com/item?id=40675397"
-    ],
-    [
-      "Notebooks Are McDonalds of Code",
-      "https://yobibyte.github.io/notebooks.html"
     ]
   ],
   [
