@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-14](index.md)
 
+* [2024-06-14, 05:59:17](https://news.ycombinator.com/item?id=40677926) - [40 out of 60 German climate greening endavours fraudulent](https://www.fr.de/politik/warnungen-milliarden-an-konzerne-gezahlt-betrugsverdacht-beim-klimaschutz-trotz-zr-93122965.html)
+* [2024-06-14, 05:36:47](https://news.ycombinator.com/item?id=40677810) - [A look at Apple's technical approach to AI including core model performance etc.](https://www.interconnects.ai/p/apple-intelligence)
+* [2024-06-14, 05:06:10](https://news.ycombinator.com/item?id=40677637) - [Sustain Open Source, sustain the planet: A new conversation](https://opensource.net/oss-for-climate-podcast/)
 * [2024-06-14, 04:41:41](https://news.ycombinator.com/item?id=40677532) - [Tesla Releases Results of 2024 Annual Meeting of Stockholders](https://ir.tesla.com/press-release/tesla-releases-results-2024-annual-meeting-stockholders)
 * [2024-06-14, 04:21:10](https://news.ycombinator.com/item?id=40677448) - [Sandy Hook families want to seize Alex Jones' social media accounts](https://www.reuters.com/world/us/sandy-hook-families-want-seize-alex-jones-social-media-accounts-2024-06-13/)
 * [2024-06-14, 04:14:04](https://news.ycombinator.com/item?id=40677424) - [Microsoft to delay release of Recall AI feature on security concerns](https://www.reuters.com/technology/artificial-intelligence/microsoft-delay-release-recall-ai-feature-security-concerns-2024-06-14/)
