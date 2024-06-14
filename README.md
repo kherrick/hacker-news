@@ -2,9 +2,7 @@
 
 * [2024-06-14, 20:42:03](https://news.ycombinator.com/item?id=40684901) - [Exponentially Better Rotations](http://thenumb.at/Exponential-Rotations/)
 * [2024-06-14, 20:11:48](https://news.ycombinator.com/item?id=40684608) - [The first 'major lunar standstill' in more than 18 years is about to occur](https://www.livescience.com/space/the-moon/the-1st-major-lunar-standstill-in-more-than-18-years-is-about-to-occur-heres-how-to-see-it)
-* [2024-06-14, 19:45:46](https://news.ycombinator.com/item?id=40684327) - [What is the opposite of oil drilling?](https://www.newyorker.com/news/annals-of-a-warming-planet/what-is-the-opposite-of-oil-drilling)
 * [2024-06-14, 18:47:34](https://news.ycombinator.com/item?id=40683697) - [AI Search: The Bitter-Er Lesson](https://yellow-apartment-148.notion.site/AI-Search-The-Bitter-er-Lesson-44c11acd27294f4495c3de778cd09c8d)
-* [2024-06-14, 17:39:41](https://news.ycombinator.com/item?id=40682929) - [Oracle is shutting down its ad business](https://www.adweek.com/programmatic/oracle-is-shutting-down-its-ad-business/)
 * [2024-06-14, 17:00:10](https://news.ycombinator.com/item?id=40682525) - [Aviator (YC S21) Is Hiring Engineers to Build a DevEx Platform](https://www.aviator.co/jobs)
 * [2024-06-14, 16:48:33](https://news.ycombinator.com/item?id=40682401) - [The sun's magnetic field is about to flip](https://www.space.com/sun-magnetic-field-flip-solar-maximum-2024)
 * [2024-06-14, 15:30:58](https://news.ycombinator.com/item?id=40681784) - [Cost of self hosting Llama-3 8B-Instruct](https://blog.lytix.co/posts/self-hosting-llama-3)
@@ -19,6 +17,7 @@
 * [2024-06-14, 04:14:04](https://news.ycombinator.com/item?id=40677424) - [Microsoft to delay release of Recall AI feature on security concerns](https://www.reuters.com/technology/artificial-intelligence/microsoft-delay-release-recall-ai-feature-security-concerns-2024-06-14/)
 * [2024-06-14, 02:20:35](https://news.ycombinator.com/item?id=40676963) - [Japanese addresses: No street names. Block numbers (2009)](https://sive.rs/jadr)
 * [2024-06-14, 00:22:51](https://news.ycombinator.com/item?id=40676335) - [Freenet 2024 – a drop-in decentralized replacement for the web [video]](https://www.youtube.com/watch?v=enTAromEeHo)
+* [2024-06-13, 23:18:50](https://news.ycombinator.com/item?id=40675947) - [I bought an encyclopedia](https://www.optoutproject.net/what-is-true-on-the-internet/)
 * [2024-06-13, 22:48:19](https://news.ycombinator.com/item?id=40675724) - [From grep to SPLADE: a journey through semantic search](https://blog.elicit.com/semantic-search/)
 * [2024-06-13, 19:43:27](https://news.ycombinator.com/item?id=40673751) - [New algorithm discovers language just by watching videos](https://www.csail.mit.edu/news/new-algorithm-discovers-language-just-watching-videos)
 * [2024-06-13, 15:26:39](https://news.ycombinator.com/item?id=40670832) - [Does chaos theory square classical physics with human agency?](https://aeon.co/essays/does-chaos-theory-square-classical-physics-with-human-agency)
@@ -30,6 +29,7 @@
 * [2024-06-12, 13:00:08](https://news.ycombinator.com/item?id=40657626) - [The borrow checker within](https://smallcultfollowing.com/babysteps/blog/2024/06/02/the-borrow-checker-within/)
 * [2024-06-12, 08:56:06](https://news.ycombinator.com/item?id=40655994) - [\"The Door Problem\" (2014)](https://lizengland.com/blog/2014/04/the-door-problem/)
 * [2024-06-11, 14:58:38](https://news.ycombinator.com/item?id=40646936) - [The rise and fall of Koo, India’s once-thriving Twitter alternative](https://restofworld.org/2024/twitter-alternative-koo/)
+* [2024-06-10, 21:12:10](https://news.ycombinator.com/item?id=40639165) - [Tracing Intel's Atom Journey: Goldmont Plus](https://chipsandcheese.com/2024/06/10/tracing-intels-atom-journey-goldmont-plus/)
 
 ## [Archives](archives/index.md)
 
