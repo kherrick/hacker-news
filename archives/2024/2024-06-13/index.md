@@ -51,6 +51,7 @@
 * [2024-06-13, 15:30:37](https://news.ycombinator.com/item?id=40670887) - [New Programming Langauge Makes Bash Scripting Easier](https://news.itsfoss.com/amber-lang/)
 * [2024-06-13, 15:30:21](https://news.ycombinator.com/item?id=40670880) - [How do you cool a 100F city?](https://www.bbc.com/future/article/20240613-how-to-cool-down-urban-heat-islands-in-americas-heatwaves)
 * [2024-06-13, 15:05:18](https://news.ycombinator.com/item?id=40670612) - [MLow: Meta's low bitrate audio codec](https://engineering.fb.com/2024/06/13/web/mlow-metas-low-bitrate-audio-codec/)
+* [2024-06-13, 15:04:01](https://news.ycombinator.com/item?id=40670600) - [Why not just embed Neovim?](https://zed.dev/blog/zed-decoded-vim)
 * [2024-06-13, 14:41:18](https://news.ycombinator.com/item?id=40670309) - [US Supreme Court backs Starbucks over fired pro-union workers](https://www.reuters.com/legal/us-supreme-court-backs-starbucks-over-fired-pro-union-workers-2024-06-13/)
 * [2024-06-13, 14:37:06](https://news.ycombinator.com/item?id=40670242) - [Iridescence in Meat Caused by Surface Gratings](https://www.mdpi.com/2304-8158/2/4/499)
 * [2024-06-13, 14:33:29](https://news.ycombinator.com/item?id=40670191) - [Wells Fargo Fires over a Dozen for 'Simulation of Keyboard Activity'](https://finance.yahoo.com/news/wells-fargo-fires-over-dozen-133711267.html)
