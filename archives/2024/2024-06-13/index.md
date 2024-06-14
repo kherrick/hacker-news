@@ -9,6 +9,7 @@
 * [2024-06-13, 22:17:57](https://news.ycombinator.com/item?id=40675468) - [OpenAI Doubles Annualized Revenue to $3.4B](https://www.bloomberg.com/news/articles/2024-06-12/openai-doubles-annualized-revenue-to-3-4-billion-information)
 * [2024-06-13, 22:09:55](https://news.ycombinator.com/item?id=40675397) - [Notebooks Are McDonalds of Code](https://yobibyte.github.io/notebooks.html)
 * [2024-06-13, 21:59:58](https://news.ycombinator.com/item?id=40675326) - [The 'Compact' Version of Stable Diffusion 3 Is Generating Monstrous Human Bodies](https://www.xatakaon.com/robotics-and-ai/the-compact-version-of-stable-diffusion-3-is-here-and-its-generating-monstrous-human-bodies)
+* [2024-06-13, 21:59:03](https://news.ycombinator.com/item?id=40675315) - [React 19 Breaks Async Composability](https://github.com/facebook/react/pull/26380)
 * [2024-06-13, 21:30:17](https://news.ycombinator.com/item?id=40675013) - [California's wage gap is the biggest in the US](https://www.sfgate.com/bayarea/article/california-wage-gap-biggest-us-19513144.php)
 * [2024-06-13, 21:25:08](https://news.ycombinator.com/item?id=40674958) - [Adobe employees slam the company over AI controversy: 'Avoid becoming like IBM'](https://archive.is/2024.06.13-185505/https://www.businessinsider.com/adobe-employees-slam-company-over-ai-controversy-2024-6)
 * [2024-06-13, 21:12:47](https://news.ycombinator.com/item?id=40674835) - [OpenAI Appoints Retired U.S. Army General to Board of Directors](https://openai.com/index/openai-appoints-retired-us-army-general/)
