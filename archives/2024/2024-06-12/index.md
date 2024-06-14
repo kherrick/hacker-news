@@ -81,6 +81,7 @@
 * [2024-06-12, 11:39:36](https://news.ycombinator.com/item?id=40656915) - [Show HN: I 'integrated' ChatGPT in iOS-iPadOS-macOS with out official support](https://giuliomagnifico.blog/tips/2024/06/12/chatgpt-before-ios18.html)
 * [2024-06-12, 11:20:16](https://news.ycombinator.com/item?id=40656780) - [Faxes from the Far Side of the Moon (2018)](https://www.damninteresting.com/faxes-from-the-far-side/)
 * [2024-06-12, 11:13:52](https://news.ycombinator.com/item?id=40656747) - [Elixir 1.17 released: set-theoretic types in patterns, durations, OTP 27](https://elixir-lang.org/blog/2024/06/12/elixir-v1-17-0-released/)
+* [2024-06-12, 11:02:30](https://news.ycombinator.com/item?id=40656671) - [Reminiscences of the VLSI Revolution – Lynn Conway [pdf]](http://ai.eecs.umich.edu/people/conway/Memoirs/VLSI/Lynn_Conway_VLSI_Reminiscences.pdf)
 * [2024-06-12, 10:48:39](https://news.ycombinator.com/item?id=40656603) - [Raspberry Pi is now a public company](https://techcrunch.com/2024/06/11/raspberry-pi-is-now-a-public-company-as-its-shares-pops-after-ipo-pricing/)
 * [2024-06-12, 10:20:42](https://news.ycombinator.com/item?id=40656466) - [Waymo issues software and mapping recall after robotaxi crashes into a pole](https://www.theverge.com/2024/6/12/24175489/waymo-recall-telephone-poll-crash-phoenix-software-map)
 * [2024-06-12, 09:50:14](https://news.ycombinator.com/item?id=40656310) - [ASHA for Linux](https://github.com/thewierdnut/asha_pipewire_sink)
