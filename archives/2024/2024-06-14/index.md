@@ -18,6 +18,7 @@
 * [2024-06-14, 19:34:08](https://news.ycombinator.com/item?id=40684191) - [Survival Situation: The debate over evolution and its discoverer](https://theamericanscholar.org/survival-situation/)
 * [2024-06-14, 19:32:39](https://news.ycombinator.com/item?id=40684176) - [Dan's the man: Why Chinese women are looking to ChatGPT for love](https://www.bbc.com/articles/c4nnje9rpjgo)
 * [2024-06-14, 19:09:28](https://news.ycombinator.com/item?id=40683947) - [Orange FM Prototype – Analogue Pocket Demo](https://orangegb.com/orangefm/)
+* [2024-06-14, 18:51:58](https://news.ycombinator.com/item?id=40683747) - [Is This the First Nintendo Commercial?](https://gamehistory.org/mego-time-out-commercial/)
 * [2024-06-14, 18:47:34](https://news.ycombinator.com/item?id=40683697) - [AI Search: The Bitter-Er Lesson](https://yellow-apartment-148.notion.site/AI-Search-The-Bitter-er-Lesson-44c11acd27294f4495c3de778cd09c8d)
 * [2024-06-14, 18:25:07](https://news.ycombinator.com/item?id=40683458) - [Sidebar Is Taking a Break](https://sidebar.io/break/)
 * [2024-06-14, 18:03:19](https://news.ycombinator.com/item?id=40683212) - [Nemotron-4 340B](https://research.nvidia.com/publication/2024-06_nemotron-4-340b)

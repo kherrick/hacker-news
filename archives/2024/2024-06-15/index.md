@@ -9,6 +9,7 @@
 * [2024-06-15, 17:03:26](https://news.ycombinator.com/item?id=40690990) - [Show HN: Keydogger – Minimal keyboard macro for Linux(Wayland)](https://github.com/jarusll/keydogger)
 * [2024-06-15, 16:55:09](https://news.ycombinator.com/item?id=40690936) - [Perfectionism is optimizing at the wrong scale](https://www.autodidacts.io/holistic-perfectionism/)
 * [2024-06-15, 16:48:13](https://news.ycombinator.com/item?id=40690898) - [Perplexity AI Is Lying about Their User Agent](https://rknight.me/blog/perplexity-ai-is-lying-about-its-user-agent/)
+* [2024-06-15, 16:36:55](https://news.ycombinator.com/item?id=40690807) - [Acorn Computer Systems catalogue circa 1983](https://blog.jgc.org/2024/06/acorn-computer-systems-catalogue-circa.html)
 * [2024-06-15, 16:31:09](https://news.ycombinator.com/item?id=40690771) - [The Day I Learned to Think Like a Browser](https://www.thebookwormsburrow.com/p/the-day-i-learned-to-think-like-a)
 * [2024-06-15, 16:25:03](https://news.ycombinator.com/item?id=40690718) - [Engineer's Solar Panels Are Breaking Efficiency Records](https://spectrum.ieee.org/solar-panels-breaking-efficiency-records)
 * [2024-06-15, 15:44:44](https://news.ycombinator.com/item?id=40690460) - [Data-fueled neurotargeting could kill democracy](https://thereader.mitpress.mit.edu/how-data-fueled-neurotargeting-could-kill-democracy/)
