@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-15, 09:11:13](https://news.ycombinator.com/item?id=40688505) - ['The big problem is water': UK ebike owners plagued by failing motors](https://www.theguardian.com/lifeandstyle/article/2024/jun/15/the-big-problem-is-water-uk-ebike-owners-plagued-by-failing-motors)
 * [2024-06-15, 07:04:29](https://news.ycombinator.com/item?id=40688001) - [Tesla's FSD – A Useless Technology Demo](https://tomverbeure.github.io/2024/05/20/Tesla-FSD-First-and-Last-Impressions.html)
 * [2024-06-15, 05:12:45](https://news.ycombinator.com/item?id=40687660) - [Voyager 1 is back online! NASA spacecraft returns data from all 4 instruments](https://www.space.com/voyager-1-fully-operational)
 * [2024-06-15, 04:02:54](https://news.ycombinator.com/item?id=40687443) - [Show HN: An open source extension to block large media brands from Google search](https://github.com/hp27596/secondpage)
@@ -13,7 +14,6 @@
 * [2024-06-14, 16:48:33](https://news.ycombinator.com/item?id=40682401) - [The sun's magnetic field is about to flip](https://www.space.com/sun-magnetic-field-flip-solar-maximum-2024)
 * [2024-06-14, 16:05:29](https://news.ycombinator.com/item?id=40682026) - [Overcoming pitfalls of Postgres logical decoding](https://blog.peerdb.io/overcoming-pitfalls-of-postgres-logical-decoding)
 * [2024-06-14, 14:35:21](https://news.ycombinator.com/item?id=40681306) - [H.264 Is Magic (2016)](https://sidbala.com/h-264-is-magic/)
-* [2024-06-14, 14:03:28](https://news.ycombinator.com/item?id=40681022) - [How to design and manufacture your own chip [video]](https://www.youtube.com/watch?v=caXwuuXSB-A)
 * [2024-06-14, 13:28:56](https://news.ycombinator.com/item?id=40680737) - [Nvidia Warp: A Python framework for high performance GPU simulation and graphics](https://github.com/NVIDIA/warp)
 * [2024-06-14, 13:17:11](https://news.ycombinator.com/item?id=40680648) - [Start presentations on the second slide](https://tidyfirst.substack.com/p/start-presentations-on-the-second)
 * [2024-06-14, 12:24:06](https://news.ycombinator.com/item?id=40680218) - [I found a 55 year old bug in the first Lunar Lander game](https://martincmartin.com/2024/06/14/how-i-found-a-55-year-old-bug-in-the-first-lunar-lander-game/)
