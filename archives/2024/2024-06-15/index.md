@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-15](index.md)
 
+* [2024-06-15, 15:44:44](https://news.ycombinator.com/item?id=40690460) - [Data-fueled neurotargeting could kill democracy](https://thereader.mitpress.mit.edu/how-data-fueled-neurotargeting-could-kill-democracy/)
 * [2024-06-15, 15:37:40](https://news.ycombinator.com/item?id=40690417) - [Tesla in self-drive mode slams into police car in Orange County](https://ktla.com/news/local-news/tesla-in-self-drive-mode-slams-into-police-car-in-orange-county/)
 * [2024-06-15, 15:13:48](https://news.ycombinator.com/item?id=40690289) - [America Is Losing the Shoe Race with China](https://www.csis.org/blogs/working-papers/america-losing-shoe-race-china)
 * [2024-06-15, 15:08:10](https://news.ycombinator.com/item?id=40690265) - [Useful and Overlooked Skills](https://collabfund.com/blog/useful-and-overlooked-skills/)
@@ -15,6 +16,7 @@
 * [2024-06-15, 14:30:14](https://news.ycombinator.com/item?id=40690045) - [What About libjpeg v9?](https://libjpeg-turbo.org/About/Jpeg-9)
 * [2024-06-15, 13:54:57](https://news.ycombinator.com/item?id=40689833) - [Exhaustive Survey of Rickrolling in Academic Literature [pdf]](https://arxiv.org/abs/2204.06826)
 * [2024-06-15, 13:51:37](https://news.ycombinator.com/item?id=40689814) - [What, Me Worry? Or Should We Fear Intelligent Machines? – Gerald Jay Sussman [video]](https://www.youtube.com/watch?v=skvP2tlVPVA)
+* [2024-06-15, 13:47:32](https://news.ycombinator.com/item?id=40689779) - [The number of CS grads who don't even know basic Git commands is astounding](https://twitter.com/t3dotgg/status/1801503098927779902)
 * [2024-06-15, 13:43:40](https://news.ycombinator.com/item?id=40689759) - [A most profound video game: a good cognitive aid for research](https://thoughtforms.life/a-most-profound-video-game-a-good-cognitive-aid-for-research-at-the-frontier-of-life-and-mind/)
 * [2024-06-15, 13:42:08](https://news.ycombinator.com/item?id=40689750) - [Address Sanitizer Internals](https://blog.gistre.epita.fr/posts/benjamin.peter-2022-10-28-address_sanitizer_internals/)
 * [2024-06-15, 13:38:30](https://news.ycombinator.com/item?id=40689724) - [How to Raise a Tribal Army in Pre-Roman Europe, Part II](https://acoup.blog/2024/06/14/collections-how-to-raise-a-tribal-army-in-pre-roman-europe-part-ii-government-without-states/)
