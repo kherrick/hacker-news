@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-15, 10:34:29](https://news.ycombinator.com/item?id=40688829) - [Amazon has a secret way to scrape Microsoft's GitHub and feed its AI model](https://dataconomy.com/2024/06/14/amazon-has-a-secret-way-to-scrape-microsofts-github-and-feed-its-ai-model/)
-* [2024-06-15, 10:20:52](https://news.ycombinator.com/item?id=40688776) - [Some Technical Facts About My Website](https://susam.net/some-technical-facts-about-my-website.html)
 * [2024-06-15, 10:05:17](https://news.ycombinator.com/item?id=40688714) - [Britain's 'Pompeii': UK's Largest Bronze Age Find](https://www.bbc.com/news/articles/cx8q32rj2yjo)
 * [2024-06-15, 09:53:29](https://news.ycombinator.com/item?id=40688666) - [Information Security: \"We Can Do It, We Just Choose Not To\"](https://www.hezmatt.org/~mpalmer/blog/2024/06/14/information-security-we-can-do-it-right-we-choose-not-to.html)
 * [2024-06-15, 09:11:13](https://news.ycombinator.com/item?id=40688505) - ['The big problem is water': UK ebike owners plagued by failing motors](https://www.theguardian.com/lifeandstyle/article/2024/jun/15/the-big-problem-is-water-uk-ebike-owners-plagued-by-failing-motors)
@@ -21,6 +20,7 @@
 * [2024-06-14, 14:35:21](https://news.ycombinator.com/item?id=40681306) - [H.264 Is Magic (2016)](https://sidbala.com/h-264-is-magic/)
 * [2024-06-14, 13:28:56](https://news.ycombinator.com/item?id=40680737) - [Nvidia Warp: A Python framework for high performance GPU simulation and graphics](https://github.com/NVIDIA/warp)
 * [2024-06-14, 13:17:11](https://news.ycombinator.com/item?id=40680648) - [Start presentations on the second slide](https://tidyfirst.substack.com/p/start-presentations-on-the-second)
+* [2024-06-14, 12:24:06](https://news.ycombinator.com/item?id=40680218) - [I found a 55 year old bug in the first Lunar Lander game](https://martincmartin.com/2024/06/14/how-i-found-a-55-year-old-bug-in-the-first-lunar-lander-game/)
 * [2024-06-13, 19:43:27](https://news.ycombinator.com/item?id=40673751) - [New algorithm discovers language just by watching videos](https://www.csail.mit.edu/news/new-algorithm-discovers-language-just-watching-videos)
 * [2024-06-13, 14:16:16](https://news.ycombinator.com/item?id=40669959) - [Study finds juvenile dolphins who play together are more successful as adults](https://phys.org/news/2024-06-juvenile-dolphins-play-successful-adults.html)
 * [2024-06-13, 05:14:20](https://news.ycombinator.com/item?id=40666178) - [Chaos in the medium: Watercolour plotting](https://www.amygoodchild.com/blog/watercolour-plots)
