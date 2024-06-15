@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-15, 14:30:14](https://news.ycombinator.com/item?id=40690045) - [What About libjpeg v9?](https://libjpeg-turbo.org/About/Jpeg-9)
+* [2024-06-15, 14:30:14](https://news.ycombinator.com/item?id=40690045) - [What About libjpeg v9? (2013)](https://libjpeg-turbo.org/About/Jpeg-9)
 * [2024-06-15, 13:42:08](https://news.ycombinator.com/item?id=40689750) - [Address Sanitizer Internals](https://blog.gistre.epita.fr/posts/benjamin.peter-2022-10-28-address_sanitizer_internals/)
 * [2024-06-15, 13:38:30](https://news.ycombinator.com/item?id=40689724) - [How to Raise a Tribal Army in Pre-Roman Europe, Part II](https://acoup.blog/2024/06/14/collections-how-to-raise-a-tribal-army-in-pre-roman-europe-part-ii-government-without-states/)
-* [2024-06-15, 13:26:09](https://news.ycombinator.com/item?id=40689660) - [Good code is rarely read](https://www.alexmolas.com/2024/06/06/good-code.html)
+* [2024-06-15, 13:20:37](https://news.ycombinator.com/item?id=40689629) - [Ventoy: Remove BLOBs from the Source Tree](https://github.com/ventoy/Ventoy/issues/2795)
 * [2024-06-15, 12:25:12](https://news.ycombinator.com/item?id=40689338) - [Can Language Models Serve as Text-Based World Simulators?](https://arxiv.org/abs/2406.06485)
 * [2024-06-15, 12:13:43](https://news.ycombinator.com/item?id=40689296) - [Threescaper: A website for loading Townscaper models into Three.js](https://github.com/meliharvey/threescaper)
 * [2024-06-15, 12:01:07](https://news.ycombinator.com/item?id=40689234) - [Nango (YC W23) Is Hiring a Senior Product Engineer (100% Remote)](https://www.nango.dev/jobs)

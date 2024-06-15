@@ -8,6 +8,7 @@
 * [2024-06-15, 13:42:08](https://news.ycombinator.com/item?id=40689750) - [Address Sanitizer Internals](https://blog.gistre.epita.fr/posts/benjamin.peter-2022-10-28-address_sanitizer_internals/)
 * [2024-06-15, 13:38:30](https://news.ycombinator.com/item?id=40689724) - [How to Raise a Tribal Army in Pre-Roman Europe, Part II](https://acoup.blog/2024/06/14/collections-how-to-raise-a-tribal-army-in-pre-roman-europe-part-ii-government-without-states/)
 * [2024-06-15, 13:26:09](https://news.ycombinator.com/item?id=40689660) - [Good code is rarely read](https://www.alexmolas.com/2024/06/06/good-code.html)
+* [2024-06-15, 13:20:37](https://news.ycombinator.com/item?id=40689629) - [Ventoy: Remove BLOBs from the Source Tree](https://github.com/ventoy/Ventoy/issues/2795)
 * [2024-06-15, 13:17:42](https://news.ycombinator.com/item?id=40689613) - [Denmark recalls Korean ramen for being too spicy](https://marginalrevolution.com/marginalrevolution/2024/06/denmark-recalls-korean-ramen-for-being-too-spicy.html)
 * [2024-06-15, 12:25:12](https://news.ycombinator.com/item?id=40689338) - [Can Language Models Serve as Text-Based World Simulators?](https://arxiv.org/abs/2406.06485)
 * [2024-06-15, 12:13:43](https://news.ycombinator.com/item?id=40689296) - [Threescaper: A website for loading Townscaper models into Three.js](https://github.com/meliharvey/threescaper)
