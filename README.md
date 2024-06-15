@@ -1,13 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-15, 13:26:09](https://news.ycombinator.com/item?id=40689660) - [Good code is rarely read](https://www.alexmolas.com/2024/06/06/good-code.html)
 * [2024-06-15, 12:13:43](https://news.ycombinator.com/item?id=40689296) - [Threescaper: A website for loading Townscaper models into Three.js](https://github.com/meliharvey/threescaper)
 * [2024-06-15, 12:01:07](https://news.ycombinator.com/item?id=40689234) - [Nango (YC W23) Is Hiring a Senior Product Engineer (100% Remote)](https://www.nango.dev/jobs)
 * [2024-06-15, 11:10:10](https://news.ycombinator.com/item?id=40688988) - [DARPA unveils 6 new designs for uncrewed vertical-takeoff military aircraft](https://www.livescience.com/technology/engineering/darpa-considers-6-new-designs-for-uncrewed-vtol-aircraft-that-carry-weapons-payloads-with-test-flights-set-for-2026)
 * [2024-06-15, 10:05:17](https://news.ycombinator.com/item?id=40688714) - [Britain's 'Pompeii': UK's Largest Bronze Age Find](https://www.bbc.com/news/articles/cx8q32rj2yjo)
-* [2024-06-15, 09:56:14](https://news.ycombinator.com/item?id=40688676) - [Nvidia open source LLM Nemotron 4 340B at top of the charts [pdf]](https://d1qx31qr3h6wln.cloudfront.net/publications/Nemotron_4_340B_8T_0.pdf)
 * [2024-06-15, 05:12:45](https://news.ycombinator.com/item?id=40687660) - [Voyager 1 is back online! NASA spacecraft returns data from all 4 instruments](https://www.space.com/voyager-1-fully-operational)
 * [2024-06-15, 01:31:55](https://news.ycombinator.com/item?id=40686787) - [Syzygy: An open standard for low cost, compact and high-performance peripherals](https://syzygyfpga.io/)
 * [2024-06-15, 01:20:00](https://news.ycombinator.com/item?id=40686727) - [Face of ancient Australian 'giga-goose' revealed after fossil skull found](https://www.nhm.ac.uk/discover/news/2024/june/face-ancient-australian-giga-goose-revealed-after-fossil-skull-found.html)
+* [2024-06-14, 21:20:37](https://news.ycombinator.com/item?id=40685254) - [Spaced repetition for teaching two-year olds how to read](https://chrislakin.blog/p/spaced-repetition-for-teaching-two)
 * [2024-06-14, 20:42:03](https://news.ycombinator.com/item?id=40684901) - [Exponentially Better Rotations (2022)](http://thenumb.at/Exponential-Rotations/)
 * [2024-06-14, 18:47:34](https://news.ycombinator.com/item?id=40683697) - [AI Search: The Bitter-Er Lesson](https://yellow-apartment-148.notion.site/AI-Search-The-Bitter-er-Lesson-44c11acd27294f4495c3de778cd09c8d)
 * [2024-06-14, 17:34:47](https://news.ycombinator.com/item?id=40682863) - [Leveraging Zig's Allocators](https://www.openmymind.net/Leveraging-Zigs-Allocators/)
@@ -27,7 +28,6 @@
 * [2024-06-13, 04:58:58](https://news.ycombinator.com/item?id=40666111) - [The Four Kinds of Research-and-Development Teams](http://blogs.newardassociates.com/blog/2024/four-kinds-of-rd-teams.html)
 * [2024-06-12, 20:13:12](https://news.ycombinator.com/item?id=40662538) - [Eden Abhez: The strangest hit songwriter](https://www.honest-broker.com/p/the-strangest-hit-songwriter-in-history)
 * [2024-06-12, 18:56:22](https://news.ycombinator.com/item?id=40661631) - [Kizhi Pogost](https://whc.unesco.org/en/list/544/)
-* [2024-06-12, 13:13:57](https://news.ycombinator.com/item?id=40657763) - [Fear and hardship for the last community inside Chitwan, Nepal's tiger central](https://news.mongabay.com/2024/06/fear-and-hardship-for-the-last-community-inside-chitwan-nepals-tiger-central/)
 * [2024-06-12, 13:00:08](https://news.ycombinator.com/item?id=40657626) - [The borrow checker within](https://smallcultfollowing.com/babysteps/blog/2024/06/02/the-borrow-checker-within/)
 * [2024-06-11, 17:58:19](https://news.ycombinator.com/item?id=40649407) - [Nondeterminism in Formal Specification](https://buttondown.email/hillelwayne/archive/nondeterminism-in-formal-specification/)
 

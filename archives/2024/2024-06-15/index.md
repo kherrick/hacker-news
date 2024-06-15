@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-15](index.md)
 
+* [2024-06-15, 13:26:09](https://news.ycombinator.com/item?id=40689660) - [Good code is rarely read](https://www.alexmolas.com/2024/06/06/good-code.html)
 * [2024-06-15, 13:17:42](https://news.ycombinator.com/item?id=40689613) - [Denmark recalls Korean ramen for being too spicy](https://marginalrevolution.com/marginalrevolution/2024/06/denmark-recalls-korean-ramen-for-being-too-spicy.html)
 * [2024-06-15, 12:13:43](https://news.ycombinator.com/item?id=40689296) - [Threescaper: A website for loading Townscaper models into Three.js](https://github.com/meliharvey/threescaper)
 * [2024-06-15, 12:01:07](https://news.ycombinator.com/item?id=40689234) - [Nango (YC W23) Is Hiring a Senior Product Engineer (100% Remote)](https://www.nango.dev/jobs)
