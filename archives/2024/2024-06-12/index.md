@@ -10,6 +10,7 @@
 * [2024-06-12, 22:04:59](https://news.ycombinator.com/item?id=40663724) - [Martin-Baker Ejection Seat Made Its First of 7,722 Saves 75 Years Ago Today](https://www.twz.com/air/martin-baker-ejection-seat-made-its-first-of-7722-saves-75-yeats-ago-today)
 * [2024-06-12, 22:03:33](https://news.ycombinator.com/item?id=40663715) - [The development process of Wordbots (2016–2023)](https://alex.nisnevich.com/blog/2024/06/02/wordbots_retrospective.html)
 * [2024-06-12, 22:02:27](https://news.ycombinator.com/item?id=40663704) - [Gerald Sussman: Programming is (should be) fun (2022) [video]](https://www.youtube.com/watch?v=2MYzvQ1v8Ww)
+* [2024-06-12, 22:00:10](https://news.ycombinator.com/item?id=40663686) - [Finding New Pastures: Big Nerd Ranch's Next Chapter](https://bignerdranch.com/blog/finding-new-pastures-big-nerd-ranchs-next-chapter/)
 * [2024-06-12, 21:58:03](https://news.ycombinator.com/item?id=40663659) - [21.2× faster than llama.cpp? plus 40% memory usage reduction](https://arxiv.org/abs/2406.06282)
 * [2024-06-12, 21:55:04](https://news.ycombinator.com/item?id=40663635) - [Apple is shipping WebXR on Safari for Vision Pro [video]](https://developer.apple.com/videos/play/wwdc2024/10066/)
 * [2024-06-12, 21:31:37](https://news.ycombinator.com/item?id=40663358) - [The legacy of Lynn Conway, chip design pioneer and transgender-rights advocate](https://news.engin.umich.edu/2024/06/the-legacy-of-lynn-conway-chip-design-pioneer-and-transgender-rights-advocate/)
