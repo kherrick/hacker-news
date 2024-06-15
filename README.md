@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-15, 20:37:28](https://news.ycombinator.com/item?id=40692535) - [Reverse Engineering a Restaurant Pager System](https://k3xec.com/td158/)
-* [2024-06-15, 19:40:54](https://news.ycombinator.com/item?id=40692197) - [Sans Bullshit Sans](https://www.sansbullshitsans.com/)
+* [2024-06-15, 19:40:54](https://news.ycombinator.com/item?id=40692197) - [Sans Bullshit Sans (2015)](https://www.sansbullshitsans.com/)
 * [2024-06-15, 19:13:10](https://news.ycombinator.com/item?id=40691999) - [Impulse Tracker source code now available on GitHub](https://github.com/jthlim/impulse-tracker)
 * [2024-06-15, 19:02:38](https://news.ycombinator.com/item?id=40691929) - [Book: Just Enough Software Architecture](https://www.georgefairbanks.com/book/)
 * [2024-06-15, 18:51:18](https://news.ycombinator.com/item?id=40691840) - [The State of Carbon Dioxide Removal](https://www.stateofcdr.org)
@@ -25,7 +25,7 @@
 * [2024-06-15, 09:11:13](https://news.ycombinator.com/item?id=40688505) - ['The big problem is water': UK ebike owners plagued by failing motors](https://www.theguardian.com/lifeandstyle/article/2024/jun/15/the-big-problem-is-water-uk-ebike-owners-plagued-by-failing-motors)
 * [2024-06-15, 05:12:45](https://news.ycombinator.com/item?id=40687660) - [Voyager 1 is back online! NASA spacecraft returns data from all 4 instruments](https://www.space.com/voyager-1-fully-operational)
 * [2024-06-15, 01:20:21](https://news.ycombinator.com/item?id=40686728) - [Topological Problems in Voting](https://www.ryantolsma.com/thoughts/2024/06/14/topological-voting.html)
-* [2024-06-14, 21:28:25](https://news.ycombinator.com/item?id=40685316) - [Martin Amis and the Pursuit of Pleasure](https://www.newstatesman.com/culture/books/2024/06/martin-amis-and-the-pursuit-of-pleasure)
+* [2024-06-14, 21:28:25](https://news.ycombinator.com/item?id=40685316) - [Martin Amis and the pursuit of pleasure](https://www.newstatesman.com/culture/books/2024/06/martin-amis-and-the-pursuit-of-pleasure)
 * [2024-06-14, 18:51:58](https://news.ycombinator.com/item?id=40683747) - [Is This the First Nintendo Commercial?](https://gamehistory.org/mego-time-out-commercial/)
 * [2024-06-14, 17:34:47](https://news.ycombinator.com/item?id=40682863) - [Leveraging Zig's Allocators](https://www.openmymind.net/Leveraging-Zigs-Allocators/)
 * [2024-06-12, 22:00:10](https://news.ycombinator.com/item?id=40663686) - [Finding New Pastures: Big Nerd Ranch's Next Chapter](https://bignerdranch.com/blog/finding-new-pastures-big-nerd-ranchs-next-chapter/)
