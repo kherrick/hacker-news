@@ -114,5 +114,6 @@
 * [2024-06-13, 01:58:34](https://news.ycombinator.com/item?id=40665194) - [Can LLMs invent better ways to train LLMs?](https://sakana.ai/llm-squared/)
 * [2024-06-13, 01:47:12](https://news.ycombinator.com/item?id=40665110) - [Roughly 5 Percent of All Cybertrucks Are for Sale Online](https://jalopnik.com/roughly-5-percent-of-all-cybertrucks-are-for-sale-onlin-1851535582)
 * [2024-06-13, 01:31:28](https://news.ycombinator.com/item?id=40665023) - [Whose CIDR is it anyway?](https://www.netmeister.org/blog/cidr-allocations.html)
+* [2024-06-13, 01:02:57](https://news.ycombinator.com/item?id=40664874) - [Embedded Swift [video]](https://www.youtube.com/watch?v=LqxbsADqDI4)
 * [2024-06-13, 00:08:09](https://news.ycombinator.com/item?id=40664541) - [Minuimus is a file optimiser utility script](https://birds-are-nice.me/software/minuimus.html)
 * [2024-06-13, 00:05:21](https://news.ycombinator.com/item?id=40664526) - [Satellite data show electromagnetic anomalies 19 days before Turkey earthquake](https://phys.org/news/2024-06-satellite-reveal-electromagnetic-anomalies-days.html)
