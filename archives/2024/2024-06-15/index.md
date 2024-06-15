@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-15](index.md)
 
+* [2024-06-15, 13:17:42](https://news.ycombinator.com/item?id=40689613) - [Denmark recalls Korean ramen for being too spicy](https://marginalrevolution.com/marginalrevolution/2024/06/denmark-recalls-korean-ramen-for-being-too-spicy.html)
+* [2024-06-15, 12:13:43](https://news.ycombinator.com/item?id=40689296) - [Threescaper: A website for loading Townscaper models into Three.js](https://github.com/meliharvey/threescaper)
 * [2024-06-15, 12:01:07](https://news.ycombinator.com/item?id=40689234) - [Nango (YC W23) Is Hiring a Senior Product Engineer (100% Remote)](https://www.nango.dev/jobs)
 * [2024-06-15, 11:55:52](https://news.ycombinator.com/item?id=40689206) - [A judge ordered us to turn over privileged documents](https://mississippitoday.org/2024/06/06/mississippi-today-supreme-court-appeal/)
 * [2024-06-15, 11:10:10](https://news.ycombinator.com/item?id=40688988) - [DARPA unveils 6 new designs for uncrewed vertical-takeoff military aircraft](https://www.livescience.com/technology/engineering/darpa-considers-6-new-designs-for-uncrewed-vtol-aircraft-that-carry-weapons-payloads-with-test-flights-set-for-2026)
