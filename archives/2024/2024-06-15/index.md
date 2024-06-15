@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-06-15](index.md)
 
+* [2024-06-15, 23:45:59](https://news.ycombinator.com/item?id=40693524) - [North Dakota voters just approved an age limit for congressional candidates](https://apnews.com/article/north-dakota-congressional-candidates-age-limit-b9ffa598e76bf1dd440b3fb8efd4c33b)
 * [2024-06-15, 21:54:02](https://news.ycombinator.com/item?id=40692970) - [Ollama v0.1.45](https://github.com/ollama/ollama/releases/tag/v0.1.45-rc1)
 * [2024-06-15, 20:37:28](https://news.ycombinator.com/item?id=40692535) - [Reverse Engineering a Restaurant Pager System](https://k3xec.com/td158/)
+* [2024-06-15, 20:06:57](https://news.ycombinator.com/item?id=40692355) - [Subducting plate structure and megathrust morphology at Cascadia](https://www.science.org/doi/10.1126/sciadv.adl3198)
 * [2024-06-15, 19:40:54](https://news.ycombinator.com/item?id=40692197) - [Sans Bullshit Sans](https://www.sansbullshitsans.com/)
 * [2024-06-15, 19:13:10](https://news.ycombinator.com/item?id=40691999) - [Impulse Tracker source code now available on GitHub](https://github.com/jthlim/impulse-tracker)
 * [2024-06-15, 19:02:38](https://news.ycombinator.com/item?id=40691929) - [Book: Just Enough Software Architecture](https://www.georgefairbanks.com/book/)
