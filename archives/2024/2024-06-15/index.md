@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-06-15](index.md)
 
+* [2024-06-15, 10:34:29](https://news.ycombinator.com/item?id=40688829) - [Amazon has a secret way to scrape Microsoft's GitHub and feed its AI model](https://dataconomy.com/2024/06/14/amazon-has-a-secret-way-to-scrape-microsofts-github-and-feed-its-ai-model/)
 * [2024-06-15, 10:20:52](https://news.ycombinator.com/item?id=40688776) - [Some Technical Facts About My Website](https://susam.net/some-technical-facts-about-my-website.html)
 * [2024-06-15, 10:05:17](https://news.ycombinator.com/item?id=40688714) - [Britain's 'Pompeii': UK's Largest Bronze Age Find](https://www.bbc.com/news/articles/cx8q32rj2yjo)
+* [2024-06-15, 09:53:29](https://news.ycombinator.com/item?id=40688666) - [Information Security: \"We Can Do It, We Just Choose Not To\"](https://www.hezmatt.org/~mpalmer/blog/2024/06/14/information-security-we-can-do-it-right-we-choose-not-to.html)
 * [2024-06-15, 09:11:13](https://news.ycombinator.com/item?id=40688505) - ['The big problem is water': UK ebike owners plagued by failing motors](https://www.theguardian.com/lifeandstyle/article/2024/jun/15/the-big-problem-is-water-uk-ebike-owners-plagued-by-failing-motors)
 * [2024-06-15, 08:30:20](https://news.ycombinator.com/item?id=40688336) - [Django SQLite Production Config](https://blog.pecar.me/sqlite-django-config)
 * [2024-06-15, 07:04:29](https://news.ycombinator.com/item?id=40688001) - [Tesla's FSD – A Useless Technology Demo](https://tomverbeure.github.io/2024/05/20/Tesla-FSD-First-and-Last-Impressions.html)
