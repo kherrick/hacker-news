@@ -33,6 +33,7 @@
 * [2024-06-12, 19:13:11](https://news.ycombinator.com/item?id=40661811) - [iOS 18 cracks down on apps asking for full address book access](https://techcrunch.com/2024/06/12/ios-18-cracks-down-on-apps-asking-for-full-address-book-access/)
 * [2024-06-12, 19:02:46](https://news.ycombinator.com/item?id=40661703) - [Building a faster, smarter, Chromebook experience with the best of Google](https://blog.chromium.org/2024/06/building-faster-smarter-chromebook.html)
 * [2024-06-12, 18:58:08](https://news.ycombinator.com/item?id=40661653) - [Fired employee deleted servers, causing it to lose S$918,000](https://www.channelnewsasia.com/singapore/former-employee-hack-ncs-delete-virtual-servers-quality-testing-4402141)
+* [2024-06-12, 18:56:22](https://news.ycombinator.com/item?id=40661631) - [Kizhi Pogost](https://whc.unesco.org/en/list/544/)
 * [2024-06-12, 18:55:50](https://news.ycombinator.com/item?id=40661621) - [Hybrid working from home improves retention without damaging performance](https://www.nature.com/articles/s41586-024-07500-2)
 * [2024-06-12, 18:52:39](https://news.ycombinator.com/item?id=40661578) - [How Queen Victoria’s Matchmaking Helped Cause World War I](https://www.history.com/news/queen-victoria-grandchildren-matchmaking-wwi)
 * [2024-06-12, 18:29:42](https://news.ycombinator.com/item?id=40661293) - [Patterns of data loading: Topics and broadcast](https://shermanonsoftware.com/2024/06/12/patterns-of-data-loading-topics-and-broadcast/)
