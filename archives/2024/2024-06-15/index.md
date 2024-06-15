@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-15](index.md)
 
 * [2024-06-15, 20:37:28](https://news.ycombinator.com/item?id=40692535) - [Reverse Engineering a Restaurant Pager System](https://k3xec.com/td158/)
+* [2024-06-15, 19:40:54](https://news.ycombinator.com/item?id=40692197) - [Sans Bullshit Sans](https://www.sansbullshitsans.com/)
 * [2024-06-15, 19:13:10](https://news.ycombinator.com/item?id=40691999) - [Impulse Tracker source code now available on GitHub](https://github.com/jthlim/impulse-tracker)
 * [2024-06-15, 19:02:38](https://news.ycombinator.com/item?id=40691929) - [Book: Just Enough Software Architecture](https://www.georgefairbanks.com/book/)
 * [2024-06-15, 18:51:18](https://news.ycombinator.com/item?id=40691840) - [The State of Carbon Dioxide Removal](https://www.stateofcdr.org)
