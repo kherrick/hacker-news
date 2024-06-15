@@ -1,11 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-15, 12:01:07](https://news.ycombinator.com/item?id=40689234) - [Nango (YC W23) Is Hiring a Senior Product Engineer (100% Remote)](https://www.nango.dev/jobs)
-* [2024-06-15, 10:34:29](https://news.ycombinator.com/item?id=40688829) - [Amazon has a secret way to scrape Microsoft's GitHub and feed its AI model](https://dataconomy.com/2024/06/14/amazon-has-a-secret-way-to-scrape-microsofts-github-and-feed-its-ai-model/)
-* [2024-06-15, 10:17:16](https://news.ycombinator.com/item?id=40688761) - [Nigerian faces up to 102 years in the slammer for $1.5M phishing scam](https://www.theregister.com/2024/06/14/phishing_scam_conviction/)
+* [2024-06-15, 11:10:10](https://news.ycombinator.com/item?id=40688988) - [DARPA unveils 6 new designs for uncrewed vertical-takeoff military aircraft](https://www.livescience.com/technology/engineering/darpa-considers-6-new-designs-for-uncrewed-vtol-aircraft-that-carry-weapons-payloads-with-test-flights-set-for-2026)
 * [2024-06-15, 10:05:17](https://news.ycombinator.com/item?id=40688714) - [Britain's 'Pompeii': UK's Largest Bronze Age Find](https://www.bbc.com/news/articles/cx8q32rj2yjo)
-* [2024-06-15, 09:53:29](https://news.ycombinator.com/item?id=40688666) - [Information Security: \"We Can Do It, We Just Choose Not To\"](https://www.hezmatt.org/~mpalmer/blog/2024/06/14/information-security-we-can-do-it-right-we-choose-not-to.html)
-* [2024-06-15, 08:30:20](https://news.ycombinator.com/item?id=40688336) - [Django SQLite Production Config](https://blog.pecar.me/sqlite-django-config)
 * [2024-06-15, 05:12:45](https://news.ycombinator.com/item?id=40687660) - [Voyager 1 is back online! NASA spacecraft returns data from all 4 instruments](https://www.space.com/voyager-1-fully-operational)
 * [2024-06-15, 04:02:54](https://news.ycombinator.com/item?id=40687443) - [Show HN: An open source extension to block large media brands from Google search](https://github.com/hp27596/secondpage)
 * [2024-06-15, 01:31:55](https://news.ycombinator.com/item?id=40686787) - [Syzygy: An open standard for low cost, compact and high-performance peripherals](https://syzygyfpga.io/)
@@ -18,8 +15,10 @@
 * [2024-06-14, 16:48:33](https://news.ycombinator.com/item?id=40682401) - [The sun's magnetic field is about to flip](https://www.space.com/sun-magnetic-field-flip-solar-maximum-2024)
 * [2024-06-14, 16:05:29](https://news.ycombinator.com/item?id=40682026) - [Overcoming pitfalls of Postgres logical decoding](https://blog.peerdb.io/overcoming-pitfalls-of-postgres-logical-decoding)
 * [2024-06-14, 14:35:21](https://news.ycombinator.com/item?id=40681306) - [H.264 Is Magic (2016)](https://sidbala.com/h-264-is-magic/)
+* [2024-06-14, 14:03:28](https://news.ycombinator.com/item?id=40681022) - [How to design and manufacture your own chip [video]](https://www.youtube.com/watch?v=caXwuuXSB-A)
 * [2024-06-14, 13:28:56](https://news.ycombinator.com/item?id=40680737) - [Nvidia Warp: A Python framework for high performance GPU simulation and graphics](https://github.com/NVIDIA/warp)
 * [2024-06-14, 12:24:06](https://news.ycombinator.com/item?id=40680218) - [I found a 55 year old bug in the first Lunar Lander game](https://martincmartin.com/2024/06/14/how-i-found-a-55-year-old-bug-in-the-first-lunar-lander-game/)
+* [2024-06-13, 22:58:53](https://news.ycombinator.com/item?id=40675820) - [Show HN: Elles – A nicer /bin/ls](https://github.com/arp242/elles)
 * [2024-06-13, 19:43:27](https://news.ycombinator.com/item?id=40673751) - [New algorithm discovers language just by watching videos](https://www.csail.mit.edu/news/new-algorithm-discovers-language-just-watching-videos)
 * [2024-06-13, 14:16:16](https://news.ycombinator.com/item?id=40669959) - [Study finds juvenile dolphins who play together are more successful as adults](https://phys.org/news/2024-06-juvenile-dolphins-play-successful-adults.html)
 * [2024-06-13, 05:14:20](https://news.ycombinator.com/item?id=40666178) - [Chaos in the medium: Watercolour plotting](https://www.amygoodchild.com/blog/watercolour-plots)
@@ -30,6 +29,7 @@
 * [2024-06-12, 13:13:57](https://news.ycombinator.com/item?id=40657763) - [Fear and hardship for the last community inside Chitwan, Nepal's tiger central](https://news.mongabay.com/2024/06/fear-and-hardship-for-the-last-community-inside-chitwan-nepals-tiger-central/)
 * [2024-06-12, 13:00:08](https://news.ycombinator.com/item?id=40657626) - [The borrow checker within](https://smallcultfollowing.com/babysteps/blog/2024/06/02/the-borrow-checker-within/)
 * [2024-06-11, 17:58:19](https://news.ycombinator.com/item?id=40649407) - [Nondeterminism in Formal Specification](https://buttondown.email/hillelwayne/archive/nondeterminism-in-formal-specification/)
+* [2024-06-10, 21:12:10](https://news.ycombinator.com/item?id=40639165) - [Tracing Intel's Atom Journey: Goldmont Plus](https://chipsandcheese.com/2024/06/10/tracing-intels-atom-journey-goldmont-plus/)
 
 ## [Archives](archives/index.md)
 
