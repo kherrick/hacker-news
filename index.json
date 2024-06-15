@@ -11,22 +11,12 @@
   ],
   [
     [
-      "2024-06-15, 10:34:29",
-      "https://news.ycombinator.com/item?id=40688829"
+      "2024-06-15, 11:10:10",
+      "https://news.ycombinator.com/item?id=40688988"
     ],
     [
-      "Amazon has a secret way to scrape Microsoft's GitHub and feed its AI model",
-      "https://dataconomy.com/2024/06/14/amazon-has-a-secret-way-to-scrape-microsofts-github-and-feed-its-ai-model/"
-    ]
-  ],
-  [
-    [
-      "2024-06-15, 10:17:16",
-      "https://news.ycombinator.com/item?id=40688761"
-    ],
-    [
-      "Nigerian faces up to 102 years in the slammer for $1.5M phishing scam",
-      "https://www.theregister.com/2024/06/14/phishing_scam_conviction/"
+      "DARPA unveils 6 new designs for uncrewed vertical-takeoff military aircraft",
+      "https://www.livescience.com/technology/engineering/darpa-considers-6-new-designs-for-uncrewed-vtol-aircraft-that-carry-weapons-payloads-with-test-flights-set-for-2026"
     ]
   ],
   [
@@ -37,26 +27,6 @@
     [
       "Britain's 'Pompeii': UK's Largest Bronze Age Find",
       "https://www.bbc.com/news/articles/cx8q32rj2yjo"
-    ]
-  ],
-  [
-    [
-      "2024-06-15, 09:53:29",
-      "https://news.ycombinator.com/item?id=40688666"
-    ],
-    [
-      "Information Security: \"We Can Do It, We Just Choose Not To\"",
-      "https://www.hezmatt.org/~mpalmer/blog/2024/06/14/information-security-we-can-do-it-right-we-choose-not-to.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-15, 08:30:20",
-      "https://news.ycombinator.com/item?id=40688336"
-    ],
-    [
-      "Django SQLite Production Config",
-      "https://blog.pecar.me/sqlite-django-config"
     ]
   ],
   [
@@ -181,6 +151,16 @@
   ],
   [
     [
+      "2024-06-14, 14:03:28",
+      "https://news.ycombinator.com/item?id=40681022"
+    ],
+    [
+      "How to design and manufacture your own chip [video]",
+      "https://www.youtube.com/watch?v=caXwuuXSB-A"
+    ]
+  ],
+  [
+    [
       "2024-06-14, 13:28:56",
       "https://news.ycombinator.com/item?id=40680737"
     ],
@@ -197,6 +177,16 @@
     [
       "I found a 55 year old bug in the first Lunar Lander game",
       "https://martincmartin.com/2024/06/14/how-i-found-a-55-year-old-bug-in-the-first-lunar-lander-game/"
+    ]
+  ],
+  [
+    [
+      "2024-06-13, 22:58:53",
+      "https://news.ycombinator.com/item?id=40675820"
+    ],
+    [
+      "Show HN: Elles – A nicer /bin/ls",
+      "https://github.com/arp242/elles"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Nondeterminism in Formal Specification",
       "https://buttondown.email/hillelwayne/archive/nondeterminism-in-formal-specification/"
+    ]
+  ],
+  [
+    [
+      "2024-06-10, 21:12:10",
+      "https://news.ycombinator.com/item?id=40639165"
+    ],
+    [
+      "Tracing Intel's Atom Journey: Goldmont Plus",
+      "https://chipsandcheese.com/2024/06/10/tracing-intels-atom-journey-goldmont-plus/"
     ]
   ]
 ]
