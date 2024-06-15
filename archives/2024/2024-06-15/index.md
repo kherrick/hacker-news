@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-15](index.md)
 
+* [2024-06-15, 18:34:30](https://news.ycombinator.com/item?id=40691706) - [You've Read Your Last Free Article, Such Is the Nature of Mortality](https://www.mcsweeneys.net/articles/youve-read-your-last-free-article-such-is-the-nature-of-mortality)
 * [2024-06-15, 17:45:48](https://news.ycombinator.com/item?id=40691312) - [Southwest flight came within 400 feet of crashing into the ocean](https://www.cnn.com/2024/06/15/us/southwest-flight-hawaii-federal-investigation/index.html)
 * [2024-06-15, 17:24:12](https://news.ycombinator.com/item?id=40691133) - [Two announcements: AI for Math resources, and erdosproblems.com](https://terrytao.wordpress.com/2024/04/19/two-announcements-ai-for-math-resources-and-erdosproblems-com/)
 * [2024-06-15, 17:14:16](https://news.ycombinator.com/item?id=40691066) - [Apple announced RCS with a whimper when it should have been a bang](https://www.theverge.com/2024/6/15/24178470/apple-rcs-support-wwdc-announcement-android-imessage)
