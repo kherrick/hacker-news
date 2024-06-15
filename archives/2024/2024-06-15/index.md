@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-15](index.md)
 
+* [2024-06-15, 15:37:40](https://news.ycombinator.com/item?id=40690417) - [Tesla in self-drive mode slams into police car in Orange County](https://ktla.com/news/local-news/tesla-in-self-drive-mode-slams-into-police-car-in-orange-county/)
 * [2024-06-15, 15:13:48](https://news.ycombinator.com/item?id=40690289) - [America Is Losing the Shoe Race with China](https://www.csis.org/blogs/working-papers/america-losing-shoe-race-china)
 * [2024-06-15, 15:08:10](https://news.ycombinator.com/item?id=40690265) - [Useful and Overlooked Skills](https://collabfund.com/blog/useful-and-overlooked-skills/)
 * [2024-06-15, 15:07:53](https://news.ycombinator.com/item?id=40690262) - [Scientists develop fatigue-free ferroelectric material](https://phys.org/news/2024-06-scientists-fatigue-free-ferroelectric-material.html)
