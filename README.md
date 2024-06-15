@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-15, 13:17:42](https://news.ycombinator.com/item?id=40689613) - [Denmark recalls Korean ramen for being too spicy](https://marginalrevolution.com/marginalrevolution/2024/06/denmark-recalls-korean-ramen-for-being-too-spicy.html)
 * [2024-06-15, 12:13:43](https://news.ycombinator.com/item?id=40689296) - [Threescaper: A website for loading Townscaper models into Three.js](https://github.com/meliharvey/threescaper)
 * [2024-06-15, 12:01:07](https://news.ycombinator.com/item?id=40689234) - [Nango (YC W23) Is Hiring a Senior Product Engineer (100% Remote)](https://www.nango.dev/jobs)
 * [2024-06-15, 11:10:10](https://news.ycombinator.com/item?id=40688988) - [DARPA unveils 6 new designs for uncrewed vertical-takeoff military aircraft](https://www.livescience.com/technology/engineering/darpa-considers-6-new-designs-for-uncrewed-vtol-aircraft-that-carry-weapons-payloads-with-test-flights-set-for-2026)
 * [2024-06-15, 10:05:17](https://news.ycombinator.com/item?id=40688714) - [Britain's 'Pompeii': UK's Largest Bronze Age Find](https://www.bbc.com/news/articles/cx8q32rj2yjo)
+* [2024-06-15, 09:56:14](https://news.ycombinator.com/item?id=40688676) - [Nvidia open source LLM Nemotron 4 340B at top of the charts [pdf]](https://d1qx31qr3h6wln.cloudfront.net/publications/Nemotron_4_340B_8T_0.pdf)
 * [2024-06-15, 05:12:45](https://news.ycombinator.com/item?id=40687660) - [Voyager 1 is back online! NASA spacecraft returns data from all 4 instruments](https://www.space.com/voyager-1-fully-operational)
 * [2024-06-15, 01:31:55](https://news.ycombinator.com/item?id=40686787) - [Syzygy: An open standard for low cost, compact and high-performance peripherals](https://syzygyfpga.io/)
 * [2024-06-15, 01:20:00](https://news.ycombinator.com/item?id=40686727) - [Face of ancient Australian 'giga-goose' revealed after fossil skull found](https://www.nhm.ac.uk/discover/news/2024/june/face-ancient-australian-giga-goose-revealed-after-fossil-skull-found.html)
