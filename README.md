@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-15, 14:30:14](https://news.ycombinator.com/item?id=40690045) - [What About libjpeg v9?](https://libjpeg-turbo.org/About/Jpeg-9)
 * [2024-06-15, 13:42:08](https://news.ycombinator.com/item?id=40689750) - [Address Sanitizer Internals](https://blog.gistre.epita.fr/posts/benjamin.peter-2022-10-28-address_sanitizer_internals/)
 * [2024-06-15, 13:38:30](https://news.ycombinator.com/item?id=40689724) - [How to Raise a Tribal Army in Pre-Roman Europe, Part II](https://acoup.blog/2024/06/14/collections-how-to-raise-a-tribal-army-in-pre-roman-europe-part-ii-government-without-states/)
 * [2024-06-15, 13:26:09](https://news.ycombinator.com/item?id=40689660) - [Good code is rarely read](https://www.alexmolas.com/2024/06/06/good-code.html)
 * [2024-06-15, 12:25:12](https://news.ycombinator.com/item?id=40689338) - [Can Language Models Serve as Text-Based World Simulators?](https://arxiv.org/abs/2406.06485)
 * [2024-06-15, 12:13:43](https://news.ycombinator.com/item?id=40689296) - [Threescaper: A website for loading Townscaper models into Three.js](https://github.com/meliharvey/threescaper)
 * [2024-06-15, 12:01:07](https://news.ycombinator.com/item?id=40689234) - [Nango (YC W23) Is Hiring a Senior Product Engineer (100% Remote)](https://www.nango.dev/jobs)
-* [2024-06-15, 11:10:10](https://news.ycombinator.com/item?id=40688988) - [DARPA unveils 6 new designs for uncrewed vertical-takeoff military aircraft](https://www.livescience.com/technology/engineering/darpa-considers-6-new-designs-for-uncrewed-vtol-aircraft-that-carry-weapons-payloads-with-test-flights-set-for-2026)
 * [2024-06-15, 05:12:45](https://news.ycombinator.com/item?id=40687660) - [Voyager 1 is back online! NASA spacecraft returns data from all 4 instruments](https://www.space.com/voyager-1-fully-operational)
 * [2024-06-15, 01:31:55](https://news.ycombinator.com/item?id=40686787) - [Syzygy: An open standard for low cost, compact and high-performance peripherals](https://syzygyfpga.io/)
 * [2024-06-15, 01:20:00](https://news.ycombinator.com/item?id=40686727) - [Face of ancient Australian 'giga-goose' revealed after fossil skull found](https://www.nhm.ac.uk/discover/news/2024/june/face-ancient-australian-giga-goose-revealed-after-fossil-skull-found.html)
