@@ -22,6 +22,7 @@
 * [2024-06-11, 18:46:39](https://news.ycombinator.com/item?id=40649943) - [Boeing sales tumble as company gets no orders for 737 MAX for 2nd straight month](https://abcnews.go.com/Business/wireStory/boeing-sales-tumble-company-gets-orders-737-max-111021215)
 * [2024-06-11, 18:26:14](https://news.ycombinator.com/item?id=40649746) - [Mastercard Launches Its Biometric Retail Payment System in Europe](https://www.nakedcapitalism.com/2024/06/mastercards-biometric-retail-payment-system-finally-arrives-in-europe-following-pilot-tests-in-global-south.html)
 * [2024-06-11, 17:59:32](https://news.ycombinator.com/item?id=40649430) - [What Do We Want Computers to Do?](https://lmnt.me/blog/what-do-we-want-computers-to-do.html)
+* [2024-06-11, 17:58:19](https://news.ycombinator.com/item?id=40649407) - [Nondeterminism in Formal Specification](https://buttondown.email/hillelwayne/archive/nondeterminism-in-formal-specification/)
 * [2024-06-11, 17:44:41](https://news.ycombinator.com/item?id=40649282) - [Progressive Web Apps (PWAs) Phishing](https://mrd0x.com/progressive-web-apps-pwa-phishing/)
 * [2024-06-11, 17:30:09](https://news.ycombinator.com/item?id=40649091) - [London–Calcutta Bus Service](https://en.wikipedia.org/wiki/London%E2%80%93Calcutta_bus_service)
 * [2024-06-11, 17:29:59](https://news.ycombinator.com/item?id=40649088) - [Orwell: The Rewrite](https://drb.ie/articles/orwell-the-rewrite/)

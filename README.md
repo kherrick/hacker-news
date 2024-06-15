@@ -28,7 +28,7 @@
 * [2024-06-12, 20:13:12](https://news.ycombinator.com/item?id=40662538) - [Eden Abhez: The strangest hit songwriter](https://www.honest-broker.com/p/the-strangest-hit-songwriter-in-history)
 * [2024-06-12, 18:56:22](https://news.ycombinator.com/item?id=40661631) - [Kizhi Pogost](https://whc.unesco.org/en/list/544/)
 * [2024-06-12, 13:00:08](https://news.ycombinator.com/item?id=40657626) - [The borrow checker within](https://smallcultfollowing.com/babysteps/blog/2024/06/02/the-borrow-checker-within/)
-* [2024-06-11, 14:58:38](https://news.ycombinator.com/item?id=40646936) - [The rise and fall of Koo, India’s once-thriving Twitter alternative](https://restofworld.org/2024/twitter-alternative-koo/)
+* [2024-06-11, 17:58:19](https://news.ycombinator.com/item?id=40649407) - [Nondeterminism in Formal Specification](https://buttondown.email/hillelwayne/archive/nondeterminism-in-formal-specification/)
 * [2024-06-10, 21:12:10](https://news.ycombinator.com/item?id=40639165) - [Tracing Intel's Atom Journey: Goldmont Plus](https://chipsandcheese.com/2024/06/10/tracing-intels-atom-journey-goldmont-plus/)
 
 ## [Archives](archives/index.md)
