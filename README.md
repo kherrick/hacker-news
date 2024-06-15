@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-15, 15:44:44](https://news.ycombinator.com/item?id=40690460) - [Data-fueled neurotargeting could kill democracy](https://thereader.mitpress.mit.edu/how-data-fueled-neurotargeting-could-kill-democracy/)
 * [2024-06-15, 15:08:10](https://news.ycombinator.com/item?id=40690265) - [Useful and Overlooked Skills](https://collabfund.com/blog/useful-and-overlooked-skills/)
 * [2024-06-15, 14:56:20](https://news.ycombinator.com/item?id=40690196) - [Radioactive drugs strike cancer with precision](https://knowablemagazine.org/content/article/health-disease/2024/cancer-fighting-radiopharmaceuticals-are-taking-off)
 * [2024-06-15, 14:35:03](https://news.ycombinator.com/item?id=40690070) - [DARPA Shows Concepts for the Future of VTOL Uncrewed Aerial Systems](https://www.darpa.mil/news-events/2024-05-22)
@@ -21,13 +20,14 @@
 * [2024-06-14, 19:34:08](https://news.ycombinator.com/item?id=40684191) - [Survival Situation: The debate over evolution and its discoverer](https://theamericanscholar.org/survival-situation/)
 * [2024-06-14, 18:47:34](https://news.ycombinator.com/item?id=40683697) - [AI Search: The Bitter-Er Lesson](https://yellow-apartment-148.notion.site/AI-Search-The-Bitter-er-Lesson-44c11acd27294f4495c3de778cd09c8d)
 * [2024-06-14, 17:34:47](https://news.ycombinator.com/item?id=40682863) - [Leveraging Zig's Allocators](https://www.openmymind.net/Leveraging-Zigs-Allocators/)
-* [2024-06-14, 16:55:36](https://news.ycombinator.com/item?id=40682485) - [True Defamation [pdf]](https://www.journaloffreespeechlaw.org/helmreich.pdf)
 * [2024-06-14, 16:55:28](https://news.ycombinator.com/item?id=40682482) - [The Impossibility of Supersized Machines (2017)](https://arxiv.org/abs/1703.10987)
 * [2024-06-14, 16:48:33](https://news.ycombinator.com/item?id=40682401) - [The sun's magnetic field is about to flip](https://www.space.com/sun-magnetic-field-flip-solar-maximum-2024)
+* [2024-06-13, 22:48:19](https://news.ycombinator.com/item?id=40675724) - [From grep to SPLADE: a journey through semantic search](https://blog.elicit.com/semantic-search/)
 * [2024-06-13, 05:14:20](https://news.ycombinator.com/item?id=40666178) - [Chaos in the medium: Watercolour plotting](https://www.amygoodchild.com/blog/watercolour-plots)
 * [2024-06-13, 04:58:58](https://news.ycombinator.com/item?id=40666111) - [The Four Kinds of Research-and-Development Teams](http://blogs.newardassociates.com/blog/2024/four-kinds-of-rd-teams.html)
 * [2024-06-13, 01:02:57](https://news.ycombinator.com/item?id=40664874) - [Embedded Swift [video]](https://www.youtube.com/watch?v=LqxbsADqDI4)
 * [2024-06-12, 20:13:12](https://news.ycombinator.com/item?id=40662538) - [Eden Abhez: The strangest hit songwriter](https://www.honest-broker.com/p/the-strangest-hit-songwriter-in-history)
+* [2024-06-12, 13:00:08](https://news.ycombinator.com/item?id=40657626) - [The borrow checker within](https://smallcultfollowing.com/babysteps/blog/2024/06/02/the-borrow-checker-within/)
 * [2024-06-12, 00:53:14](https://news.ycombinator.com/item?id=40653352) - [Diagnosing video signal loss on Wii and GBS-Control](https://nyanpasu64.gitlab.io/blog/wii-gbs-c-sync-loss/)
 * [2024-06-11, 17:58:19](https://news.ycombinator.com/item?id=40649407) - [Nondeterminism in Formal Specification](https://buttondown.email/hillelwayne/archive/nondeterminism-in-formal-specification/)
 
