@@ -36,6 +36,7 @@
 * [2024-06-14, 16:20:06](https://news.ycombinator.com/item?id=40682149) - [Effect – Build robust apps in TypeScript](https://effect.website/)
 * [2024-06-14, 16:19:29](https://news.ycombinator.com/item?id=40682141) - [Handwriting is good for your brain](https://kids.frontiersin.org/articles/10.3389/frym.2022.623953)
 * [2024-06-14, 16:14:10](https://news.ycombinator.com/item?id=40682088) - [Dark Fibre](https://en.wikipedia.org/wiki/Dark_fibre)
+* [2024-06-14, 16:05:29](https://news.ycombinator.com/item?id=40682026) - [Overcoming pitfalls of Postgres logical decoding](https://blog.peerdb.io/overcoming-pitfalls-of-postgres-logical-decoding)
 * [2024-06-14, 16:04:24](https://news.ycombinator.com/item?id=40682021) - [TempleOS Reverse Engineering](https://starkeblog.com/bootsector/templeos/2024/06/13/templeos-reverse-engineering-part-i.html)
 * [2024-06-14, 16:01:46](https://news.ycombinator.com/item?id=40682000) - [Nemotron-4-340B](https://blogs.nvidia.com/blog/nemotron-4-synthetic-data-generation-llm-training/)
 * [2024-06-14, 15:49:33](https://news.ycombinator.com/item?id=40681920) - [Apple set to be first Big Tech group to face charges under EU digital law](https://www.ft.com/content/31a996d5-b472-4357-953e-ace078494604)
