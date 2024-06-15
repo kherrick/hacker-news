@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-15, 21:54:02",
+      "https://news.ycombinator.com/item?id=40692970"
+    ],
+    [
+      "Ollama v0.1.45",
+      "https://github.com/ollama/ollama/releases/tag/v0.1.45-rc1"
+    ]
+  ],
+  [
+    [
       "2024-06-15, 20:37:28",
       "https://news.ycombinator.com/item?id=40692535"
     ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=40691929"
     ],
     [
-      "Book: Just Enough Software Architecture",
+      "Just Enough Software Architecture",
       "https://www.georgefairbanks.com/book/"
     ]
   ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=40691840"
     ],
     [
-      "The State of Carbon Dioxide Removal",
+      "The state of carbon dioxide removal",
       "https://www.stateofcdr.org"
     ]
   ],
@@ -187,16 +197,6 @@
     [
       "Address Sanitizer Internals",
       "https://blog.gistre.epita.fr/posts/benjamin.peter-2022-10-28-address_sanitizer_internals/"
-    ]
-  ],
-  [
-    [
-      "2024-06-15, 12:25:12",
-      "https://news.ycombinator.com/item?id=40689338"
-    ],
-    [
-      "Can Language Models Serve as Text-Based World Simulators?",
-      "https://arxiv.org/abs/2406.06485"
     ]
   ],
   [
