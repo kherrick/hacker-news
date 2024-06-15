@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-06-15](index.md)
 
+* [2024-06-15, 15:13:48](https://news.ycombinator.com/item?id=40690289) - [America Is Losing the Shoe Race with China](https://www.csis.org/blogs/working-papers/america-losing-shoe-race-china)
+* [2024-06-15, 15:08:10](https://news.ycombinator.com/item?id=40690265) - [Useful and Overlooked Skills](https://collabfund.com/blog/useful-and-overlooked-skills/)
 * [2024-06-15, 15:07:53](https://news.ycombinator.com/item?id=40690262) - [Scientists develop fatigue-free ferroelectric material](https://phys.org/news/2024-06-scientists-fatigue-free-ferroelectric-material.html)
 * [2024-06-15, 15:05:16](https://news.ycombinator.com/item?id=40690248) - [We Are Starting to Enjoy Hatred](https://www.wsj.com/articles/we-are-starting-to-enjoy-hatred-c3005b05)
 * [2024-06-15, 14:56:20](https://news.ycombinator.com/item?id=40690196) - [Radioactive drugs strike cancer with precision](https://knowablemagazine.org/content/article/health-disease/2024/cancer-fighting-radiopharmaceuticals-are-taking-off)
+* [2024-06-15, 14:47:36](https://news.ycombinator.com/item?id=40690146) - [Nvidia CEO: One of the most 'profound learnings in my life' came from a gardener](https://www.cnbc.com/2024/06/15/nvidia-ceo-one-of-my-most-profound-learnings-came-from-a-gardener.html)
 * [2024-06-15, 14:35:03](https://news.ycombinator.com/item?id=40690070) - [DARPA Shows Concepts for the Future of VTOL Uncrewed Aerial Systems](https://www.darpa.mil/news-events/2024-05-22)
 * [2024-06-15, 14:30:14](https://news.ycombinator.com/item?id=40690045) - [What About libjpeg v9?](https://libjpeg-turbo.org/About/Jpeg-9)
 * [2024-06-15, 13:54:57](https://news.ycombinator.com/item?id=40689833) - [Exhaustive Survey of Rickrolling in Academic Literature [pdf]](https://arxiv.org/abs/2204.06826)
