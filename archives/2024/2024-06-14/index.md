@@ -25,6 +25,7 @@
 * [2024-06-14, 17:55:24](https://news.ycombinator.com/item?id=40683121) - [Boeing and Airbus may have used 'counterfeit' titanium in planes, FAA says](https://www.nbcnews.com/business/business-news/boeing-airbus-may-used-counterfeit-titanium-planes-faa-investigating-rcna157160)
 * [2024-06-14, 17:42:13](https://news.ycombinator.com/item?id=40682959) - [Turning the Tables on AI](https://ia.net/topics/turning-the-tables-on-ai)
 * [2024-06-14, 17:39:41](https://news.ycombinator.com/item?id=40682929) - [Oracle Is Shutting Down Its Ad Business](https://www.adweek.com/programmatic/oracle-is-shutting-down-its-ad-business/)
+* [2024-06-14, 17:34:47](https://news.ycombinator.com/item?id=40682863) - [Leveraging Zig's Allocators](https://www.openmymind.net/Leveraging-Zigs-Allocators/)
 * [2024-06-14, 17:19:38](https://news.ycombinator.com/item?id=40682711) - [Vercel ends open-source sponsorship program giving projects 24hr notice](https://vercel.com/guides/can-vercel-sponsor-my-open-source-project)
 * [2024-06-14, 17:01:19](https://news.ycombinator.com/item?id=40682531) - [Google AI might kill you: identified Destroying Angel as edible\"button mushroom\"](https://boingboing.net/2024/06/03/google-ai-just-might-kill-you-it-misidentified-a-destroying-angel-mushroom-as-an-ediblebutton-mushroom.html)
 * [2024-06-14, 17:00:10](https://news.ycombinator.com/item?id=40682525) - [Aviator (YC S21) Is Hiring Engineers to Build a DevEx Platform](https://www.aviator.co/jobs)

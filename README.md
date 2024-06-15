@@ -10,6 +10,7 @@
 * [2024-06-15, 01:20:00](https://news.ycombinator.com/item?id=40686727) - [Face of ancient Australian 'giga-goose' revealed after fossil skull found](https://www.nhm.ac.uk/discover/news/2024/june/face-ancient-australian-giga-goose-revealed-after-fossil-skull-found.html)
 * [2024-06-14, 20:42:03](https://news.ycombinator.com/item?id=40684901) - [Exponentially Better Rotations (2022)](http://thenumb.at/Exponential-Rotations/)
 * [2024-06-14, 18:47:34](https://news.ycombinator.com/item?id=40683697) - [AI Search: The Bitter-Er Lesson](https://yellow-apartment-148.notion.site/AI-Search-The-Bitter-er-Lesson-44c11acd27294f4495c3de778cd09c8d)
+* [2024-06-14, 17:34:47](https://news.ycombinator.com/item?id=40682863) - [Leveraging Zig's Allocators](https://www.openmymind.net/Leveraging-Zigs-Allocators/)
 * [2024-06-14, 16:55:36](https://news.ycombinator.com/item?id=40682485) - [True Defamation [pdf]](https://www.journaloffreespeechlaw.org/helmreich.pdf)
 * [2024-06-14, 16:55:28](https://news.ycombinator.com/item?id=40682482) - [The Impossibility of Supersized Machines (2017)](https://arxiv.org/abs/1703.10987)
 * [2024-06-14, 16:48:33](https://news.ycombinator.com/item?id=40682401) - [The sun's magnetic field is about to flip](https://www.space.com/sun-magnetic-field-flip-solar-maximum-2024)
@@ -29,7 +30,6 @@
 * [2024-06-12, 13:13:57](https://news.ycombinator.com/item?id=40657763) - [Fear and hardship for the last community inside Chitwan, Nepal's tiger central](https://news.mongabay.com/2024/06/fear-and-hardship-for-the-last-community-inside-chitwan-nepals-tiger-central/)
 * [2024-06-12, 13:00:08](https://news.ycombinator.com/item?id=40657626) - [The borrow checker within](https://smallcultfollowing.com/babysteps/blog/2024/06/02/the-borrow-checker-within/)
 * [2024-06-11, 17:58:19](https://news.ycombinator.com/item?id=40649407) - [Nondeterminism in Formal Specification](https://buttondown.email/hillelwayne/archive/nondeterminism-in-formal-specification/)
-* [2024-06-10, 21:12:10](https://news.ycombinator.com/item?id=40639165) - [Tracing Intel's Atom Journey: Goldmont Plus](https://chipsandcheese.com/2024/06/10/tracing-intels-atom-journey-goldmont-plus/)
 
 ## [Archives](archives/index.md)
 
