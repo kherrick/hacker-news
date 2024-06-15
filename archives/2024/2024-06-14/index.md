@@ -28,6 +28,7 @@
 * [2024-06-14, 17:01:19](https://news.ycombinator.com/item?id=40682531) - [Google AI might kill you: identified Destroying Angel as edible\"button mushroom\"](https://boingboing.net/2024/06/03/google-ai-just-might-kill-you-it-misidentified-a-destroying-angel-mushroom-as-an-ediblebutton-mushroom.html)
 * [2024-06-14, 17:00:10](https://news.ycombinator.com/item?id=40682525) - [Aviator (YC S21) Is Hiring Engineers to Build a DevEx Platform](https://www.aviator.co/jobs)
 * [2024-06-14, 16:55:36](https://news.ycombinator.com/item?id=40682485) - [True Defamation [pdf]](https://www.journaloffreespeechlaw.org/helmreich.pdf)
+* [2024-06-14, 16:55:28](https://news.ycombinator.com/item?id=40682482) - [The Impossibility of Supersized Machines (2017)](https://arxiv.org/abs/1703.10987)
 * [2024-06-14, 16:55:23](https://news.ycombinator.com/item?id=40682480) - [The challenge of writing a on-demand transcoder](https://zoriya.dev/blogs/transcoder/)
 * [2024-06-14, 16:48:40](https://news.ycombinator.com/item?id=40682403) - [SoftBank's new AI makes angry customers sound calm on phone](https://www.asahi.com/ajw/articles/15300914)
 * [2024-06-14, 16:48:33](https://news.ycombinator.com/item?id=40682401) - [The sun's magnetic field is about to flip](https://www.space.com/sun-magnetic-field-flip-solar-maximum-2024)
