@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-06-15](index.md)
 
+* [2024-06-15, 17:10:57](https://news.ycombinator.com/item?id=40691042) - [ESASky](https://sky.esa.int/esasky/)
+* [2024-06-15, 17:04:44](https://news.ycombinator.com/item?id=40690996) - [This LED mask hides your face behind a creepy pixelated smile](https://www.theverge.com/2024/6/13/24177741/mask-led-qudimask2-emotive-emoji)
+* [2024-06-15, 17:03:26](https://news.ycombinator.com/item?id=40690990) - [Show HN: Keydogger – Minimal keyboard macro for Linux(Wayland)](https://github.com/jarusll/keydogger)
 * [2024-06-15, 16:55:09](https://news.ycombinator.com/item?id=40690936) - [Perfectionism is optimizing at the wrong scale](https://www.autodidacts.io/holistic-perfectionism/)
 * [2024-06-15, 16:48:13](https://news.ycombinator.com/item?id=40690898) - [Perplexity AI Is Lying about Their User Agent](https://rknight.me/blog/perplexity-ai-is-lying-about-its-user-agent/)
 * [2024-06-15, 16:31:09](https://news.ycombinator.com/item?id=40690771) - [The Day I Learned to Think Like a Browser](https://www.thebookwormsburrow.com/p/the-day-i-learned-to-think-like-a)
+* [2024-06-15, 16:25:03](https://news.ycombinator.com/item?id=40690718) - [Engineer's Solar Panels Are Breaking Efficiency Records](https://spectrum.ieee.org/solar-panels-breaking-efficiency-records)
 * [2024-06-15, 15:44:44](https://news.ycombinator.com/item?id=40690460) - [Data-fueled neurotargeting could kill democracy](https://thereader.mitpress.mit.edu/how-data-fueled-neurotargeting-could-kill-democracy/)
 * [2024-06-15, 15:37:40](https://news.ycombinator.com/item?id=40690417) - [Tesla in self-drive mode slams into police car in Orange County](https://ktla.com/news/local-news/tesla-in-self-drive-mode-slams-into-police-car-in-orange-county/)
 * [2024-06-15, 15:13:48](https://news.ycombinator.com/item?id=40690289) - [America Is Losing the Shoe Race with China](https://www.csis.org/blogs/working-papers/america-losing-shoe-race-china)
