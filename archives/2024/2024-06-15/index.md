@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-06-15](index.md)
 
 * [2024-06-15, 19:13:10](https://news.ycombinator.com/item?id=40691999) - [Impulse Tracker source code now available on GitHub](https://github.com/jthlim/impulse-tracker)
+* [2024-06-15, 19:02:38](https://news.ycombinator.com/item?id=40691929) - [Book: Just Enough Software Architecture](https://www.georgefairbanks.com/book/)
+* [2024-06-15, 18:51:18](https://news.ycombinator.com/item?id=40691840) - [The State of Carbon Dioxide Removal](https://www.stateofcdr.org)
 * [2024-06-15, 18:34:30](https://news.ycombinator.com/item?id=40691706) - [You've Read Your Last Free Article, Such Is the Nature of Mortality](https://www.mcsweeneys.net/articles/youve-read-your-last-free-article-such-is-the-nature-of-mortality)
 * [2024-06-15, 17:45:48](https://news.ycombinator.com/item?id=40691312) - [Southwest flight came within 400 feet of crashing into the ocean](https://www.cnn.com/2024/06/15/us/southwest-flight-hawaii-federal-investigation/index.html)
 * [2024-06-15, 17:24:12](https://news.ycombinator.com/item?id=40691133) - [Two announcements: AI for Math resources, and erdosproblems.com](https://terrytao.wordpress.com/2024/04/19/two-announcements-ai-for-math-resources-and-erdosproblems-com/)
