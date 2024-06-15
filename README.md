@@ -2,7 +2,6 @@
 
 * [2024-06-15, 01:20:00](https://news.ycombinator.com/item?id=40686727) - [Face of ancient Australian 'giga-goose' revealed after fossil skull found](https://www.nhm.ac.uk/discover/news/2024/june/face-ancient-australian-giga-goose-revealed-after-fossil-skull-found.html)
 * [2024-06-15, 00:12:09](https://news.ycombinator.com/item?id=40686396) - [Making my local LLM voice assistant faster and more scalable with RAG](https://johnthenerd.com/blog/faster-local-llm-assistant/)
-* [2024-06-14, 23:12:19](https://news.ycombinator.com/item?id=40686048) - [The Costco of Housing is Costco? The retailer's plan to use CA housing laws](https://www.urbanproxima.com/p/the-costco-of-housing-iscostco)
 * [2024-06-14, 21:20:37](https://news.ycombinator.com/item?id=40685254) - [Spaced repetition for teaching two-year olds how to read](https://chrislakin.blog/p/spaced-repetition-for-teaching-two)
 * [2024-06-14, 20:42:03](https://news.ycombinator.com/item?id=40684901) - [Exponentially Better Rotations](http://thenumb.at/Exponential-Rotations/)
 * [2024-06-14, 20:11:48](https://news.ycombinator.com/item?id=40684608) - [The first 'major lunar standstill' in more than 18 years is about to occur](https://www.livescience.com/space/the-moon/the-1st-major-lunar-standstill-in-more-than-18-years-is-about-to-occur-heres-how-to-see-it)
@@ -27,6 +26,7 @@
 * [2024-06-13, 05:14:20](https://news.ycombinator.com/item?id=40666178) - [Chaos in the medium: Watercolour plotting](https://www.amygoodchild.com/blog/watercolour-plots)
 * [2024-06-13, 00:05:21](https://news.ycombinator.com/item?id=40664526) - [Satellite data show electromagnetic anomalies 19 days before Turkey earthquake](https://phys.org/news/2024-06-satellite-reveal-electromagnetic-anomalies-days.html)
 * [2024-06-12, 20:13:12](https://news.ycombinator.com/item?id=40662538) - [Eden Abhez: The strangest hit songwriter](https://www.honest-broker.com/p/the-strangest-hit-songwriter-in-history)
+* [2024-06-12, 15:52:53](https://news.ycombinator.com/item?id=40659511) - [The Microsoft Excel superstars throw down in Vegas](https://www.theverge.com/c/24133822/microsoft-excel-spreadsheet-competition-championship)
 * [2024-06-12, 13:00:08](https://news.ycombinator.com/item?id=40657626) - [The borrow checker within](https://smallcultfollowing.com/babysteps/blog/2024/06/02/the-borrow-checker-within/)
 * [2024-06-11, 14:58:38](https://news.ycombinator.com/item?id=40646936) - [The rise and fall of Koo, India’s once-thriving Twitter alternative](https://restofworld.org/2024/twitter-alternative-koo/)
 * [2024-06-10, 21:12:10](https://news.ycombinator.com/item?id=40639165) - [Tracing Intel's Atom Journey: Goldmont Plus](https://chipsandcheese.com/2024/06/10/tracing-intels-atom-journey-goldmont-plus/)
