@@ -12,6 +12,7 @@
 * [2024-06-15, 16:48:13](https://news.ycombinator.com/item?id=40690898) - [Perplexity AI is lying about their user agent](https://rknight.me/blog/perplexity-ai-is-lying-about-its-user-agent/)
 * [2024-06-15, 16:36:55](https://news.ycombinator.com/item?id=40690807) - [Acorn Computer Systems catalogue circa 1983](https://blog.jgc.org/2024/06/acorn-computer-systems-catalogue-circa.html)
 * [2024-06-15, 16:25:03](https://news.ycombinator.com/item?id=40690718) - [Engineer's solar panels are breaking efficiency records](https://spectrum.ieee.org/solar-panels-breaking-efficiency-records)
+* [2024-06-15, 16:11:53](https://news.ycombinator.com/item?id=40690633) - [The Sociological Study of Mental Illness: A Historical Perspective (2016)](https://www.madinamerica.com/2016/07/the-sociological-study-of-mental-illness-a-historical-perspective/)
 * [2024-06-15, 14:35:03](https://news.ycombinator.com/item?id=40690070) - [DARPA Shows Concepts for the Future of VTOL Uncrewed Aerial Systems](https://www.darpa.mil/news-events/2024-05-22)
 * [2024-06-15, 13:43:40](https://news.ycombinator.com/item?id=40689759) - [A most profound video game: a good cognitive aid for research](https://thoughtforms.life/a-most-profound-video-game-a-good-cognitive-aid-for-research-at-the-frontier-of-life-and-mind/)
 * [2024-06-15, 13:42:08](https://news.ycombinator.com/item?id=40689750) - [Address Sanitizer Internals](https://blog.gistre.epita.fr/posts/benjamin.peter-2022-10-28-address_sanitizer_internals/)
@@ -29,7 +30,6 @@
 * [2024-06-13, 04:58:58](https://news.ycombinator.com/item?id=40666111) - [The Four Kinds of Research-and-Development Teams](http://blogs.newardassociates.com/blog/2024/four-kinds-of-rd-teams.html)
 * [2024-06-13, 01:02:57](https://news.ycombinator.com/item?id=40664874) - [Embedded Swift [video]](https://www.youtube.com/watch?v=LqxbsADqDI4)
 * [2024-06-12, 01:11:44](https://news.ycombinator.com/item?id=40653454) - [Some early results for feed reader behavior monitoring](http://rachelbythebay.com/w/2024/06/11/fsr/)
-* [2024-06-12, 00:53:14](https://news.ycombinator.com/item?id=40653352) - [Diagnosing video signal loss on Wii and GBS-Control](https://nyanpasu64.gitlab.io/blog/wii-gbs-c-sync-loss/)
 
 ## [Archives](archives/index.md)
 

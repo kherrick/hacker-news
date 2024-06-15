@@ -19,6 +19,7 @@
 * [2024-06-15, 16:36:55](https://news.ycombinator.com/item?id=40690807) - [Acorn Computer Systems catalogue circa 1983](https://blog.jgc.org/2024/06/acorn-computer-systems-catalogue-circa.html)
 * [2024-06-15, 16:31:09](https://news.ycombinator.com/item?id=40690771) - [The Day I Learned to Think Like a Browser](https://www.thebookwormsburrow.com/p/the-day-i-learned-to-think-like-a)
 * [2024-06-15, 16:25:03](https://news.ycombinator.com/item?id=40690718) - [Engineer's Solar Panels Are Breaking Efficiency Records](https://spectrum.ieee.org/solar-panels-breaking-efficiency-records)
+* [2024-06-15, 16:11:53](https://news.ycombinator.com/item?id=40690633) - [The Sociological Study of Mental Illness: A Historical Perspective (2016)](https://www.madinamerica.com/2016/07/the-sociological-study-of-mental-illness-a-historical-perspective/)
 * [2024-06-15, 15:44:44](https://news.ycombinator.com/item?id=40690460) - [Data-fueled neurotargeting could kill democracy](https://thereader.mitpress.mit.edu/how-data-fueled-neurotargeting-could-kill-democracy/)
 * [2024-06-15, 15:37:40](https://news.ycombinator.com/item?id=40690417) - [Tesla in self-drive mode slams into police car in Orange County](https://ktla.com/news/local-news/tesla-in-self-drive-mode-slams-into-police-car-in-orange-county/)
 * [2024-06-15, 15:13:48](https://news.ycombinator.com/item?id=40690289) - [America Is Losing the Shoe Race with China](https://www.csis.org/blogs/working-papers/america-losing-shoe-race-china)
