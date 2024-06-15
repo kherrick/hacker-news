@@ -15,6 +15,7 @@
 * [2024-06-14, 20:06:58](https://news.ycombinator.com/item?id=40684556) - [OpenAI adds former NSA chief to its board](https://www.cnbc.com/2024/06/13/openai-adds-former-nsa-chief-to-its-board-paul-nakasone-sam-altman.html)
 * [2024-06-14, 19:45:46](https://news.ycombinator.com/item?id=40684327) - [What Is the Opposite of Oil Drilling?](https://www.newyorker.com/news/annals-of-a-warming-planet/what-is-the-opposite-of-oil-drilling)
 * [2024-06-14, 19:34:21](https://news.ycombinator.com/item?id=40684195) - [Seattle tumbles to No. 20 in global ranking of startup ecosystems](https://www.geekwire.com/2024/seattle-tumbles-to-no-20-in-global-ranking-of-startup-ecosystems/)
+* [2024-06-14, 19:34:08](https://news.ycombinator.com/item?id=40684191) - [Survival Situation: The debate over evolution and its discoverer](https://theamericanscholar.org/survival-situation/)
 * [2024-06-14, 19:32:39](https://news.ycombinator.com/item?id=40684176) - [Dan's the man: Why Chinese women are looking to ChatGPT for love](https://www.bbc.com/articles/c4nnje9rpjgo)
 * [2024-06-14, 19:09:28](https://news.ycombinator.com/item?id=40683947) - [Orange FM Prototype – Analogue Pocket Demo](https://orangegb.com/orangefm/)
 * [2024-06-14, 18:47:34](https://news.ycombinator.com/item?id=40683697) - [AI Search: The Bitter-Er Lesson](https://yellow-apartment-148.notion.site/AI-Search-The-Bitter-er-Lesson-44c11acd27294f4495c3de778cd09c8d)
