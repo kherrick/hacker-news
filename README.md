@@ -17,7 +17,6 @@
 * [2024-06-14, 12:11:28](https://news.ycombinator.com/item?id=40680107) - [Map of forest sounds from around the world](https://timberfestival.org.uk/soundsoftheforest-soundmap/)
 * [2024-06-14, 11:00:12](https://news.ycombinator.com/item?id=40679599) - [FAA investigating how counterfeit titanium got into Boeing and Airbus jets](https://www.nytimes.com/2024/06/14/us/politics/boeing-airbus-titanium-faa.html)
 * [2024-06-14, 04:14:04](https://news.ycombinator.com/item?id=40677424) - [Microsoft to delay release of Recall AI feature on security concerns](https://www.reuters.com/technology/artificial-intelligence/microsoft-delay-release-recall-ai-feature-security-concerns-2024-06-14/)
-* [2024-06-14, 00:22:51](https://news.ycombinator.com/item?id=40676335) - [Freenet 2024 – a drop-in decentralized replacement for the web [video]](https://www.youtube.com/watch?v=enTAromEeHo)
 * [2024-06-13, 23:18:50](https://news.ycombinator.com/item?id=40675947) - [I bought an encyclopedia](https://www.optoutproject.net/what-is-true-on-the-internet/)
 * [2024-06-13, 22:48:19](https://news.ycombinator.com/item?id=40675724) - [From grep to SPLADE: a journey through semantic search](https://blog.elicit.com/semantic-search/)
 * [2024-06-13, 21:08:12](https://news.ycombinator.com/item?id=40674803) - [Herbert A. Simon and Jorge Luis Borges About Free Will (2023)](https://www.cambridge.org/core/journals/journal-of-the-history-of-economic-thought/article/abs/on-herbert-a-simon-and-jorge-luis-borges-about-free-will/27D7CC976FF4C903881C7F5C91C53664)
@@ -29,6 +28,7 @@
 * [2024-06-12, 18:56:22](https://news.ycombinator.com/item?id=40661631) - [Kizhi Pogost](https://whc.unesco.org/en/list/544/)
 * [2024-06-12, 13:00:08](https://news.ycombinator.com/item?id=40657626) - [The borrow checker within](https://smallcultfollowing.com/babysteps/blog/2024/06/02/the-borrow-checker-within/)
 * [2024-06-11, 17:58:19](https://news.ycombinator.com/item?id=40649407) - [Nondeterminism in Formal Specification](https://buttondown.email/hillelwayne/archive/nondeterminism-in-formal-specification/)
+* [2024-06-11, 14:58:38](https://news.ycombinator.com/item?id=40646936) - [The rise and fall of Koo, India’s once-thriving Twitter alternative](https://restofworld.org/2024/twitter-alternative-koo/)
 * [2024-06-10, 21:12:10](https://news.ycombinator.com/item?id=40639165) - [Tracing Intel's Atom Journey: Goldmont Plus](https://chipsandcheese.com/2024/06/10/tracing-intels-atom-journey-goldmont-plus/)
 
 ## [Archives](archives/index.md)
