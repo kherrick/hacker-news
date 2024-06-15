@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-06-15](index.md)
 
+* [2024-06-15, 15:05:16](https://news.ycombinator.com/item?id=40690248) - [We Are Starting to Enjoy Hatred](https://www.wsj.com/articles/we-are-starting-to-enjoy-hatred-c3005b05)
+* [2024-06-15, 14:56:20](https://news.ycombinator.com/item?id=40690196) - [Radioactive drugs strike cancer with precision](https://knowablemagazine.org/content/article/health-disease/2024/cancer-fighting-radiopharmaceuticals-are-taking-off)
+* [2024-06-15, 14:35:03](https://news.ycombinator.com/item?id=40690070) - [DARPA Shows Concepts for the Future of VTOL Uncrewed Aerial Systems](https://www.darpa.mil/news-events/2024-05-22)
 * [2024-06-15, 14:30:14](https://news.ycombinator.com/item?id=40690045) - [What About libjpeg v9?](https://libjpeg-turbo.org/About/Jpeg-9)
+* [2024-06-15, 13:54:57](https://news.ycombinator.com/item?id=40689833) - [Exhaustive Survey of Rickrolling in Academic Literature [pdf]](https://arxiv.org/abs/2204.06826)
+* [2024-06-15, 13:51:37](https://news.ycombinator.com/item?id=40689814) - [What, Me Worry? Or Should We Fear Intelligent Machines? – Gerald Jay Sussman [video]](https://www.youtube.com/watch?v=skvP2tlVPVA)
 * [2024-06-15, 13:42:08](https://news.ycombinator.com/item?id=40689750) - [Address Sanitizer Internals](https://blog.gistre.epita.fr/posts/benjamin.peter-2022-10-28-address_sanitizer_internals/)
 * [2024-06-15, 13:38:30](https://news.ycombinator.com/item?id=40689724) - [How to Raise a Tribal Army in Pre-Roman Europe, Part II](https://acoup.blog/2024/06/14/collections-how-to-raise-a-tribal-army-in-pre-roman-europe-part-ii-government-without-states/)
 * [2024-06-15, 13:26:09](https://news.ycombinator.com/item?id=40689660) - [Good code is rarely read](https://www.alexmolas.com/2024/06/06/good-code.html)
@@ -15,6 +20,7 @@
 * [2024-06-15, 12:01:07](https://news.ycombinator.com/item?id=40689234) - [Nango (YC W23) Is Hiring a Senior Product Engineer (100% Remote)](https://www.nango.dev/jobs)
 * [2024-06-15, 11:55:52](https://news.ycombinator.com/item?id=40689206) - [A judge ordered us to turn over privileged documents](https://mississippitoday.org/2024/06/06/mississippi-today-supreme-court-appeal/)
 * [2024-06-15, 11:10:10](https://news.ycombinator.com/item?id=40688988) - [DARPA unveils 6 new designs for uncrewed vertical-takeoff military aircraft](https://www.livescience.com/technology/engineering/darpa-considers-6-new-designs-for-uncrewed-vtol-aircraft-that-carry-weapons-payloads-with-test-flights-set-for-2026)
+* [2024-06-15, 10:51:20](https://news.ycombinator.com/item?id=40688899) - [Introduction to the Odin Programming Language](https://zylinski.se/posts/introduction-to-odin/)
 * [2024-06-15, 10:34:29](https://news.ycombinator.com/item?id=40688829) - [Amazon has a secret way to scrape Microsoft's GitHub and feed its AI model](https://dataconomy.com/2024/06/14/amazon-has-a-secret-way-to-scrape-microsofts-github-and-feed-its-ai-model/)
 * [2024-06-15, 10:20:52](https://news.ycombinator.com/item?id=40688776) - [Some Technical Facts About My Website](https://susam.net/some-technical-facts-about-my-website.html)
 * [2024-06-15, 10:17:16](https://news.ycombinator.com/item?id=40688761) - [Nigerian faces up to 102 years in the slammer for $1.5M phishing scam](https://www.theregister.com/2024/06/14/phishing_scam_conviction/)
@@ -23,6 +29,7 @@
 * [2024-06-15, 09:53:29](https://news.ycombinator.com/item?id=40688666) - [Information Security: \"We Can Do It, We Just Choose Not To\"](https://www.hezmatt.org/~mpalmer/blog/2024/06/14/information-security-we-can-do-it-right-we-choose-not-to.html)
 * [2024-06-15, 09:11:13](https://news.ycombinator.com/item?id=40688505) - ['The big problem is water': UK ebike owners plagued by failing motors](https://www.theguardian.com/lifeandstyle/article/2024/jun/15/the-big-problem-is-water-uk-ebike-owners-plagued-by-failing-motors)
 * [2024-06-15, 08:30:20](https://news.ycombinator.com/item?id=40688336) - [Django SQLite Production Config](https://blog.pecar.me/sqlite-django-config)
+* [2024-06-15, 08:10:02](https://news.ycombinator.com/item?id=40688264) - [Sonos changes terms and conditions and may now pass on data to third parties](https://www.notebookcheck.net/Sonos-changes-terms-and-conditions-and-may-now-pass-on-data-to-third-parties.848124.0.html)
 * [2024-06-15, 07:04:29](https://news.ycombinator.com/item?id=40688001) - [Tesla's FSD – A Useless Technology Demo](https://tomverbeure.github.io/2024/05/20/Tesla-FSD-First-and-Last-Impressions.html)
 * [2024-06-15, 05:12:45](https://news.ycombinator.com/item?id=40687660) - [Voyager 1 is back online! NASA spacecraft returns data from all 4 instruments](https://www.space.com/voyager-1-fully-operational)
 * [2024-06-15, 04:02:54](https://news.ycombinator.com/item?id=40687443) - [Show HN: An open source extension to block large media brands from Google search](https://github.com/hp27596/secondpage)
