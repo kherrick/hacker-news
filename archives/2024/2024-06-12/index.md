@@ -22,6 +22,7 @@
 * [2024-06-12, 20:36:43](https://news.ycombinator.com/item?id=40662803) - [Boeing Starliner Stuck on Space Station as More Leaks Discovered](https://futurism.com/the-byte/boeing-starliner-stuck-space-station-more-leaks)
 * [2024-06-12, 20:29:35](https://news.ycombinator.com/item?id=40662735) - [Pg_lakehouse: A DuckDB Alternative in Postgres](https://blog.paradedb.com/pages/introducing_lakehouse)
 * [2024-06-12, 20:24:33](https://news.ycombinator.com/item?id=40662670) - [Using AI to spark connections at a conference](https://swizec.com/blog/using-ai-to-spark-connections-at-a-conference/)
+* [2024-06-12, 20:13:12](https://news.ycombinator.com/item?id=40662538) - [The Strangest Hit Songwriter in History](https://www.honest-broker.com/p/the-strangest-hit-songwriter-in-history)
 * [2024-06-12, 20:11:26](https://news.ycombinator.com/item?id=40662508) - [Cheapest source of fossil fuel generation is double the cost of solar](https://pv-magazine-usa.com/2024/06/11/cheapest-source-of-fossil-fuel-generation-is-double-the-cost-of-utility-scale-solar/)
 * [2024-06-12, 19:51:04](https://news.ycombinator.com/item?id=40662282) - [AI in education may require us to return to 15th-century pedagogy](https://www.chatterpulseai.com/blog/ai-in-education-may-require-us-to-return-to-15th-century-pedagogy/?r=hn)
 * [2024-06-12, 19:43:50](https://news.ycombinator.com/item?id=40662176) - [Japan enacts law to curb Apple, Google's app dominance](https://english.kyodonews.net/news/2024/06/bc2d7f45d456-japan-enacts-law-to-curb-apple-googles-app-dominance.html#google_vignette)
