@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2024-06-14, 17:34:47",
+      "https://news.ycombinator.com/item?id=40682863"
+    ],
+    [
+      "Leveraging Zig's Allocators",
+      "https://www.openmymind.net/Leveraging-Zigs-Allocators/"
+    ]
+  ],
+  [
+    [
       "2024-06-14, 16:55:36",
       "https://news.ycombinator.com/item?id=40682485"
     ],
@@ -287,16 +297,6 @@
     [
       "Nondeterminism in Formal Specification",
       "https://buttondown.email/hillelwayne/archive/nondeterminism-in-formal-specification/"
-    ]
-  ],
-  [
-    [
-      "2024-06-10, 21:12:10",
-      "https://news.ycombinator.com/item?id=40639165"
-    ],
-    [
-      "Tracing Intel's Atom Journey: Goldmont Plus",
-      "https://chipsandcheese.com/2024/06/10/tracing-intels-atom-journey-goldmont-plus/"
     ]
   ]
 ]
