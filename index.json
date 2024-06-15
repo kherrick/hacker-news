@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-06-15, 13:42:08",
+      "https://news.ycombinator.com/item?id=40689750"
+    ],
+    [
+      "Address Sanitizer Internals",
+      "https://blog.gistre.epita.fr/posts/benjamin.peter-2022-10-28-address_sanitizer_internals/"
+    ]
+  ],
+  [
+    [
+      "2024-06-15, 13:38:30",
+      "https://news.ycombinator.com/item?id=40689724"
+    ],
+    [
+      "How to Raise a Tribal Army in Pre-Roman Europe, Part II",
+      "https://acoup.blog/2024/06/14/collections-how-to-raise-a-tribal-army-in-pre-roman-europe-part-ii-government-without-states/"
+    ]
+  ],
+  [
+    [
       "2024-06-15, 13:26:09",
       "https://news.ycombinator.com/item?id=40689660"
     ],
     [
       "Good code is rarely read",
       "https://www.alexmolas.com/2024/06/06/good-code.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-15, 12:25:12",
+      "https://news.ycombinator.com/item?id=40689338"
+    ],
+    [
+      "Can Language Models Serve as Text-Based World Simulators?",
+      "https://arxiv.org/abs/2406.06485"
     ]
   ],
   [
@@ -37,16 +67,6 @@
     [
       "DARPA unveils 6 new designs for uncrewed vertical-takeoff military aircraft",
       "https://www.livescience.com/technology/engineering/darpa-considers-6-new-designs-for-uncrewed-vtol-aircraft-that-carry-weapons-payloads-with-test-flights-set-for-2026"
-    ]
-  ],
-  [
-    [
-      "2024-06-15, 10:05:17",
-      "https://news.ycombinator.com/item?id=40688714"
-    ],
-    [
-      "Britain's 'Pompeii': UK's Largest Bronze Age Find",
-      "https://www.bbc.com/news/articles/cx8q32rj2yjo"
     ]
   ],
   [
@@ -171,42 +191,12 @@
   ],
   [
     [
-      "2024-06-14, 14:03:28",
-      "https://news.ycombinator.com/item?id=40681022"
-    ],
-    [
-      "How to design and manufacture your own chip [video]",
-      "https://www.youtube.com/watch?v=caXwuuXSB-A"
-    ]
-  ],
-  [
-    [
       "2024-06-14, 13:28:56",
       "https://news.ycombinator.com/item?id=40680737"
     ],
     [
       "Nvidia Warp: A Python framework for high performance GPU simulation and graphics",
       "https://github.com/NVIDIA/warp"
-    ]
-  ],
-  [
-    [
-      "2024-06-14, 12:24:06",
-      "https://news.ycombinator.com/item?id=40680218"
-    ],
-    [
-      "I found a 55 year old bug in the first Lunar Lander game",
-      "https://martincmartin.com/2024/06/14/how-i-found-a-55-year-old-bug-in-the-first-lunar-lander-game/"
-    ]
-  ],
-  [
-    [
-      "2024-06-13, 22:58:53",
-      "https://news.ycombinator.com/item?id=40675820"
-    ],
-    [
-      "Show HN: Elles – A nicer /bin/ls",
-      "https://github.com/arp242/elles"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "The borrow checker within",
       "https://smallcultfollowing.com/babysteps/blog/2024/06/02/the-borrow-checker-within/"
+    ]
+  ],
+  [
+    [
+      "2024-06-12, 00:53:14",
+      "https://news.ycombinator.com/item?id=40653352"
+    ],
+    [
+      "Diagnosing video signal loss on Wii and GBS-Control",
+      "https://nyanpasu64.gitlab.io/blog/wii-gbs-c-sync-loss/"
     ]
   ],
   [
