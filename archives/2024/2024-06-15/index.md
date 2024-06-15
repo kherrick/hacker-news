@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-15](index.md)
 
+* [2024-06-15, 17:45:48](https://news.ycombinator.com/item?id=40691312) - [Southwest flight came within 400 feet of crashing into the ocean](https://www.cnn.com/2024/06/15/us/southwest-flight-hawaii-federal-investigation/index.html)
 * [2024-06-15, 17:10:57](https://news.ycombinator.com/item?id=40691042) - [ESASky](https://sky.esa.int/esasky/)
 * [2024-06-15, 17:04:44](https://news.ycombinator.com/item?id=40690996) - [This LED mask hides your face behind a creepy pixelated smile](https://www.theverge.com/2024/6/13/24177741/mask-led-qudimask2-emotive-emoji)
 * [2024-06-15, 17:03:26](https://news.ycombinator.com/item?id=40690990) - [Show HN: Keydogger – Minimal keyboard macro for Linux(Wayland)](https://github.com/jarusll/keydogger)

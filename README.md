@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-15, 17:45:48](https://news.ycombinator.com/item?id=40691312) - [Southwest flight came within 400 feet of crashing into the ocean](https://www.cnn.com/2024/06/15/us/southwest-flight-hawaii-federal-investigation/index.html)
 * [2024-06-15, 17:10:57](https://news.ycombinator.com/item?id=40691042) - [ESASky](https://sky.esa.int/esasky/)
 * [2024-06-15, 17:03:26](https://news.ycombinator.com/item?id=40690990) - [Show HN: Keydogger – Minimal keyboard macro for Linux(Wayland)](https://github.com/jarusll/keydogger)
 * [2024-06-15, 16:55:09](https://news.ycombinator.com/item?id=40690936) - [Perfectionism is optimizing at the wrong scale](https://www.autodidacts.io/holistic-perfectionism/)
@@ -24,7 +25,6 @@
 * [2024-06-14, 20:42:03](https://news.ycombinator.com/item?id=40684901) - [Exponentially Better Rotations (2022)](http://thenumb.at/Exponential-Rotations/)
 * [2024-06-14, 18:51:58](https://news.ycombinator.com/item?id=40683747) - [Is This the First Nintendo Commercial?](https://gamehistory.org/mego-time-out-commercial/)
 * [2024-06-14, 17:34:47](https://news.ycombinator.com/item?id=40682863) - [Leveraging Zig's Allocators](https://www.openmymind.net/Leveraging-Zigs-Allocators/)
-* [2024-06-14, 16:55:28](https://news.ycombinator.com/item?id=40682482) - [The Impossibility of Supersized Machines (2017)](https://arxiv.org/abs/1703.10987)
 * [2024-06-13, 05:14:20](https://news.ycombinator.com/item?id=40666178) - [Chaos in the medium: Watercolour plotting](https://www.amygoodchild.com/blog/watercolour-plots)
 * [2024-06-13, 04:58:58](https://news.ycombinator.com/item?id=40666111) - [The Four Kinds of Research-and-Development Teams](http://blogs.newardassociates.com/blog/2024/four-kinds-of-rd-teams.html)
 * [2024-06-13, 01:02:57](https://news.ycombinator.com/item?id=40664874) - [Embedded Swift [video]](https://www.youtube.com/watch?v=LqxbsADqDI4)
