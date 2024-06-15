@@ -17,7 +17,7 @@
 * [2024-06-14, 12:11:28](https://news.ycombinator.com/item?id=40680107) - [Map of forest sounds from around the world](https://timberfestival.org.uk/soundsoftheforest-soundmap/)
 * [2024-06-14, 11:00:12](https://news.ycombinator.com/item?id=40679599) - [FAA investigating how counterfeit titanium got into Boeing and Airbus jets](https://www.nytimes.com/2024/06/14/us/politics/boeing-airbus-titanium-faa.html)
 * [2024-06-14, 04:14:04](https://news.ycombinator.com/item?id=40677424) - [Microsoft to delay release of Recall AI feature on security concerns](https://www.reuters.com/technology/artificial-intelligence/microsoft-delay-release-recall-ai-feature-security-concerns-2024-06-14/)
-* [2024-06-14, 02:20:35](https://news.ycombinator.com/item?id=40676963) - [Japanese addresses: No street names. Block numbers (2009)](https://sive.rs/jadr)
+* [2024-06-14, 00:22:51](https://news.ycombinator.com/item?id=40676335) - [Freenet 2024 – a drop-in decentralized replacement for the web [video]](https://www.youtube.com/watch?v=enTAromEeHo)
 * [2024-06-13, 23:18:50](https://news.ycombinator.com/item?id=40675947) - [I bought an encyclopedia](https://www.optoutproject.net/what-is-true-on-the-internet/)
 * [2024-06-13, 22:48:19](https://news.ycombinator.com/item?id=40675724) - [From grep to SPLADE: a journey through semantic search](https://blog.elicit.com/semantic-search/)
 * [2024-06-13, 19:43:27](https://news.ycombinator.com/item?id=40673751) - [New algorithm discovers language just by watching videos](https://www.csail.mit.edu/news/new-algorithm-discovers-language-just-watching-videos)
