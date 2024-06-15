@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-15](index.md)
 
+* [2024-06-15, 16:55:09](https://news.ycombinator.com/item?id=40690936) - [Perfectionism is optimizing at the wrong scale](https://www.autodidacts.io/holistic-perfectionism/)
+* [2024-06-15, 16:48:13](https://news.ycombinator.com/item?id=40690898) - [Perplexity AI Is Lying about Their User Agent](https://rknight.me/blog/perplexity-ai-is-lying-about-its-user-agent/)
+* [2024-06-15, 16:31:09](https://news.ycombinator.com/item?id=40690771) - [The Day I Learned to Think Like a Browser](https://www.thebookwormsburrow.com/p/the-day-i-learned-to-think-like-a)
 * [2024-06-15, 15:44:44](https://news.ycombinator.com/item?id=40690460) - [Data-fueled neurotargeting could kill democracy](https://thereader.mitpress.mit.edu/how-data-fueled-neurotargeting-could-kill-democracy/)
 * [2024-06-15, 15:37:40](https://news.ycombinator.com/item?id=40690417) - [Tesla in self-drive mode slams into police car in Orange County](https://ktla.com/news/local-news/tesla-in-self-drive-mode-slams-into-police-car-in-orange-county/)
 * [2024-06-15, 15:13:48](https://news.ycombinator.com/item?id=40690289) - [America Is Losing the Shoe Race with China](https://www.csis.org/blogs/working-papers/america-losing-shoe-race-china)

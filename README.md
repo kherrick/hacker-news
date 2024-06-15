@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-15, 16:55:09](https://news.ycombinator.com/item?id=40690936) - [Perfectionism is optimizing at the wrong scale](https://www.autodidacts.io/holistic-perfectionism/)
+* [2024-06-15, 16:48:13](https://news.ycombinator.com/item?id=40690898) - [Perplexity AI Is Lying about Their User Agent](https://rknight.me/blog/perplexity-ai-is-lying-about-its-user-agent/)
+* [2024-06-15, 16:31:09](https://news.ycombinator.com/item?id=40690771) - [The Day I Learned to Think Like a Browser](https://www.thebookwormsburrow.com/p/the-day-i-learned-to-think-like-a)
 * [2024-06-15, 15:13:48](https://news.ycombinator.com/item?id=40690289) - [America Is Losing the Shoe Race with China](https://www.csis.org/blogs/working-papers/america-losing-shoe-race-china)
 * [2024-06-15, 15:08:10](https://news.ycombinator.com/item?id=40690265) - [Useful and Overlooked Skills](https://collabfund.com/blog/useful-and-overlooked-skills/)
 * [2024-06-15, 14:56:20](https://news.ycombinator.com/item?id=40690196) - [Radioactive drugs strike cancer with precision](https://knowablemagazine.org/content/article/health-disease/2024/cancer-fighting-radiopharmaceuticals-are-taking-off)
@@ -18,7 +21,6 @@
 * [2024-06-15, 01:31:55](https://news.ycombinator.com/item?id=40686787) - [Syzygy: An open standard for low cost, compact and high-performance peripherals](https://syzygyfpga.io/)
 * [2024-06-15, 01:20:00](https://news.ycombinator.com/item?id=40686727) - [Face of ancient Australian 'giga-goose' revealed after fossil skull found](https://www.nhm.ac.uk/discover/news/2024/june/face-ancient-australian-giga-goose-revealed-after-fossil-skull-found.html)
 * [2024-06-14, 20:42:03](https://news.ycombinator.com/item?id=40684901) - [Exponentially Better Rotations (2022)](http://thenumb.at/Exponential-Rotations/)
-* [2024-06-14, 19:34:08](https://news.ycombinator.com/item?id=40684191) - [Survival Situation: The debate over evolution and its discoverer](https://theamericanscholar.org/survival-situation/)
 * [2024-06-14, 18:47:34](https://news.ycombinator.com/item?id=40683697) - [AI Search: The Bitter-Er Lesson](https://yellow-apartment-148.notion.site/AI-Search-The-Bitter-er-Lesson-44c11acd27294f4495c3de778cd09c8d)
 * [2024-06-14, 17:34:47](https://news.ycombinator.com/item?id=40682863) - [Leveraging Zig's Allocators](https://www.openmymind.net/Leveraging-Zigs-Allocators/)
 * [2024-06-14, 16:55:28](https://news.ycombinator.com/item?id=40682482) - [The Impossibility of Supersized Machines (2017)](https://arxiv.org/abs/1703.10987)
@@ -27,9 +29,7 @@
 * [2024-06-13, 04:58:58](https://news.ycombinator.com/item?id=40666111) - [The Four Kinds of Research-and-Development Teams](http://blogs.newardassociates.com/blog/2024/four-kinds-of-rd-teams.html)
 * [2024-06-13, 01:02:57](https://news.ycombinator.com/item?id=40664874) - [Embedded Swift [video]](https://www.youtube.com/watch?v=LqxbsADqDI4)
 * [2024-06-12, 20:13:12](https://news.ycombinator.com/item?id=40662538) - [Eden Abhez: The strangest hit songwriter](https://www.honest-broker.com/p/the-strangest-hit-songwriter-in-history)
-* [2024-06-12, 13:00:08](https://news.ycombinator.com/item?id=40657626) - [The borrow checker within](https://smallcultfollowing.com/babysteps/blog/2024/06/02/the-borrow-checker-within/)
 * [2024-06-12, 00:53:14](https://news.ycombinator.com/item?id=40653352) - [Diagnosing video signal loss on Wii and GBS-Control](https://nyanpasu64.gitlab.io/blog/wii-gbs-c-sync-loss/)
-* [2024-06-11, 17:58:19](https://news.ycombinator.com/item?id=40649407) - [Nondeterminism in Formal Specification](https://buttondown.email/hillelwayne/archive/nondeterminism-in-formal-specification/)
 
 ## [Archives](archives/index.md)
 
