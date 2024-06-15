@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-15, 19:13:10](https://news.ycombinator.com/item?id=40691999) - [Impulse Tracker source code now available on GitHub](https://github.com/jthlim/impulse-tracker)
 * [2024-06-15, 18:34:30](https://news.ycombinator.com/item?id=40691706) - [You've Read Your Last Free Article, Such Is the Nature of Mortality](https://www.mcsweeneys.net/articles/youve-read-your-last-free-article-such-is-the-nature-of-mortality)
 * [2024-06-15, 17:45:48](https://news.ycombinator.com/item?id=40691312) - [Southwest flight came within 400 feet of crashing into the ocean](https://www.cnn.com/2024/06/15/us/southwest-flight-hawaii-federal-investigation/index.html)
 * [2024-06-15, 17:24:12](https://news.ycombinator.com/item?id=40691133) - [Two announcements: AI for Math resources, and erdosproblems.com](https://terrytao.wordpress.com/2024/04/19/two-announcements-ai-for-math-resources-and-erdosproblems-com/)
@@ -9,7 +10,6 @@
 * [2024-06-15, 16:48:13](https://news.ycombinator.com/item?id=40690898) - [Perplexity AI Is Lying about Their User Agent](https://rknight.me/blog/perplexity-ai-is-lying-about-its-user-agent/)
 * [2024-06-15, 16:36:55](https://news.ycombinator.com/item?id=40690807) - [Acorn Computer Systems catalogue circa 1983](https://blog.jgc.org/2024/06/acorn-computer-systems-catalogue-circa.html)
 * [2024-06-15, 16:25:03](https://news.ycombinator.com/item?id=40690718) - [Engineer's Solar Panels Are Breaking Efficiency Records](https://spectrum.ieee.org/solar-panels-breaking-efficiency-records)
-* [2024-06-15, 14:56:20](https://news.ycombinator.com/item?id=40690196) - [Radioactive drugs strike cancer with precision](https://knowablemagazine.org/content/article/health-disease/2024/cancer-fighting-radiopharmaceuticals-are-taking-off)
 * [2024-06-15, 14:35:03](https://news.ycombinator.com/item?id=40690070) - [DARPA Shows Concepts for the Future of VTOL Uncrewed Aerial Systems](https://www.darpa.mil/news-events/2024-05-22)
 * [2024-06-15, 13:54:57](https://news.ycombinator.com/item?id=40689833) - [Survey of Rickrolling in Academic Literature [pdf]](https://arxiv.org/abs/2204.06826)
 * [2024-06-15, 13:43:40](https://news.ycombinator.com/item?id=40689759) - [A most profound video game: a good cognitive aid for research](https://thoughtforms.life/a-most-profound-video-game-a-good-cognitive-aid-for-research-at-the-frontier-of-life-and-mind/)
