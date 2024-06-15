@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-15](index.md)
 
 * [2024-06-15, 09:11:13](https://news.ycombinator.com/item?id=40688505) - ['The big problem is water': UK ebike owners plagued by failing motors](https://www.theguardian.com/lifeandstyle/article/2024/jun/15/the-big-problem-is-water-uk-ebike-owners-plagued-by-failing-motors)
+* [2024-06-15, 08:30:20](https://news.ycombinator.com/item?id=40688336) - [Django SQLite Production Config](https://blog.pecar.me/sqlite-django-config)
 * [2024-06-15, 07:04:29](https://news.ycombinator.com/item?id=40688001) - [Tesla's FSD – A Useless Technology Demo](https://tomverbeure.github.io/2024/05/20/Tesla-FSD-First-and-Last-Impressions.html)
 * [2024-06-15, 05:12:45](https://news.ycombinator.com/item?id=40687660) - [Voyager 1 is back online! NASA spacecraft returns data from all 4 instruments](https://www.space.com/voyager-1-fully-operational)
 * [2024-06-15, 04:02:54](https://news.ycombinator.com/item?id=40687443) - [Show HN: An open source extension to block large media brands from Google search](https://github.com/hp27596/secondpage)
