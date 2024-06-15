@@ -1,12 +1,62 @@
 [
   [
     [
+      "2024-06-15, 15:05:16",
+      "https://news.ycombinator.com/item?id=40690248"
+    ],
+    [
+      "We Are Starting to Enjoy Hatred",
+      "https://www.wsj.com/articles/we-are-starting-to-enjoy-hatred-c3005b05"
+    ]
+  ],
+  [
+    [
+      "2024-06-15, 14:56:20",
+      "https://news.ycombinator.com/item?id=40690196"
+    ],
+    [
+      "Radioactive drugs strike cancer with precision",
+      "https://knowablemagazine.org/content/article/health-disease/2024/cancer-fighting-radiopharmaceuticals-are-taking-off"
+    ]
+  ],
+  [
+    [
+      "2024-06-15, 14:35:03",
+      "https://news.ycombinator.com/item?id=40690070"
+    ],
+    [
+      "DARPA Shows Concepts for the Future of VTOL Uncrewed Aerial Systems",
+      "https://www.darpa.mil/news-events/2024-05-22"
+    ]
+  ],
+  [
+    [
       "2024-06-15, 14:30:14",
       "https://news.ycombinator.com/item?id=40690045"
     ],
     [
       "What About libjpeg v9? (2013)",
       "https://libjpeg-turbo.org/About/Jpeg-9"
+    ]
+  ],
+  [
+    [
+      "2024-06-15, 13:54:57",
+      "https://news.ycombinator.com/item?id=40689833"
+    ],
+    [
+      "Exhaustive Survey of Rickrolling in Academic Literature [pdf]",
+      "https://arxiv.org/abs/2204.06826"
+    ]
+  ],
+  [
+    [
+      "2024-06-15, 13:51:37",
+      "https://news.ycombinator.com/item?id=40689814"
+    ],
+    [
+      "What, Me Worry? Or Should We Fear Intelligent Machines? – Gerald Jay Sussman [video]",
+      "https://www.youtube.com/watch?v=skvP2tlVPVA"
     ]
   ],
   [
@@ -71,6 +121,26 @@
   ],
   [
     [
+      "2024-06-15, 10:51:20",
+      "https://news.ycombinator.com/item?id=40688899"
+    ],
+    [
+      "Introduction to the Odin Programming Language",
+      "https://zylinski.se/posts/introduction-to-odin/"
+    ]
+  ],
+  [
+    [
+      "2024-06-15, 08:10:02",
+      "https://news.ycombinator.com/item?id=40688264"
+    ],
+    [
+      "Sonos changes terms and conditions and may now pass on data to third parties",
+      "https://www.notebookcheck.net/Sonos-changes-terms-and-conditions-and-may-now-pass-on-data-to-third-parties.848124.0.html"
+    ]
+  ],
+  [
+    [
       "2024-06-15, 05:12:45",
       "https://news.ycombinator.com/item?id=40687660"
     ],
@@ -87,26 +157,6 @@
     [
       "Syzygy: An open standard for low cost, compact and high-performance peripherals",
       "https://syzygyfpga.io/"
-    ]
-  ],
-  [
-    [
-      "2024-06-15, 01:20:00",
-      "https://news.ycombinator.com/item?id=40686727"
-    ],
-    [
-      "Face of ancient Australian 'giga-goose' revealed after fossil skull found",
-      "https://www.nhm.ac.uk/discover/news/2024/june/face-ancient-australian-giga-goose-revealed-after-fossil-skull-found.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-14, 21:20:37",
-      "https://news.ycombinator.com/item?id=40685254"
-    ],
-    [
-      "Spaced repetition for teaching two-year olds how to read",
-      "https://chrislakin.blog/p/spaced-repetition-for-teaching-two"
     ]
   ],
   [
@@ -171,32 +221,12 @@
   ],
   [
     [
-      "2024-06-14, 16:05:29",
-      "https://news.ycombinator.com/item?id=40682026"
-    ],
-    [
-      "Overcoming pitfalls of Postgres logical decoding",
-      "https://blog.peerdb.io/overcoming-pitfalls-of-postgres-logical-decoding"
-    ]
-  ],
-  [
-    [
       "2024-06-14, 14:35:21",
       "https://news.ycombinator.com/item?id=40681306"
     ],
     [
       "H.264 Is Magic (2016)",
       "https://sidbala.com/h-264-is-magic/"
-    ]
-  ],
-  [
-    [
-      "2024-06-14, 13:28:56",
-      "https://news.ycombinator.com/item?id=40680737"
-    ],
-    [
-      "Nvidia Warp: A Python framework for high performance GPU simulation and graphics",
-      "https://github.com/NVIDIA/warp"
     ]
   ],
   [
@@ -261,42 +291,12 @@
   ],
   [
     [
-      "2024-06-12, 18:56:22",
-      "https://news.ycombinator.com/item?id=40661631"
-    ],
-    [
-      "Kizhi Pogost",
-      "https://whc.unesco.org/en/list/544/"
-    ]
-  ],
-  [
-    [
-      "2024-06-12, 13:00:08",
-      "https://news.ycombinator.com/item?id=40657626"
-    ],
-    [
-      "The borrow checker within",
-      "https://smallcultfollowing.com/babysteps/blog/2024/06/02/the-borrow-checker-within/"
-    ]
-  ],
-  [
-    [
       "2024-06-12, 00:53:14",
       "https://news.ycombinator.com/item?id=40653352"
     ],
     [
       "Diagnosing video signal loss on Wii and GBS-Control",
       "https://nyanpasu64.gitlab.io/blog/wii-gbs-c-sync-loss/"
-    ]
-  ],
-  [
-    [
-      "2024-06-11, 17:58:19",
-      "https://news.ycombinator.com/item?id=40649407"
-    ],
-    [
-      "Nondeterminism in Formal Specification",
-      "https://buttondown.email/hillelwayne/archive/nondeterminism-in-formal-specification/"
     ]
   ]
 ]
