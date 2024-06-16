@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-16, 07:39:28](https://news.ycombinator.com/item?id=40695365) - [R.A. Lafferty: \"The Greatest Catholic Novelist You Never Heard of\" (2018)](https://benedictinstitute.org/2018/02/r-lafferty-greatest-catholic-novelist-never-heard/)
 * [2024-06-16, 06:51:25](https://news.ycombinator.com/item?id=40695165) - [Making my first embedded Linux system](https://popovicu.com/posts/making-my-first-embedded-linux-system/)
 * [2024-06-16, 05:45:27](https://news.ycombinator.com/item?id=40694948) - [Show HN: I made first declaritive SVG,canvas framework](https://flitter.pages.dev)
 * [2024-06-16, 05:33:12](https://news.ycombinator.com/item?id=40694909) - [Harvard Railroad Economics Exam (1906)](https://www.irwincollier.com/harvard-enrollment-and-final-exam-for-railroad-practice-daggett-1906-1907/)
@@ -10,7 +11,6 @@
 * [2024-06-16, 02:26:55](https://news.ycombinator.com/item?id=40694254) - [Show HN: We Made The World's Smallest and Cheapest Network Switch](https://docs.murexrobotics.com/elec/boards/networking/switch)
 * [2024-06-16, 01:51:54](https://news.ycombinator.com/item?id=40694103) - [The Architecture Behind a One-Person Tech Startup (2021)](https://anthonynsimon.com/blog/one-man-saas-architecture/)
 * [2024-06-16, 01:12:38](https://news.ycombinator.com/item?id=40693944) - [SimCity in the web browser using WebAssembly and OpenGL](https://micropolisweb.com/)
-* [2024-06-15, 23:26:20](https://news.ycombinator.com/item?id=40693451) - [Google, Cloudflare and Cisco will poison DNS to stop piracy block circumvention](https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/)
 * [2024-06-15, 20:37:28](https://news.ycombinator.com/item?id=40692535) - [Reverse engineering a restaurant pager system](https://k3xec.com/td158/)
 * [2024-06-15, 19:02:38](https://news.ycombinator.com/item?id=40691929) - [Just Enough Software Architecture (2010)](https://www.georgefairbanks.com/book/)
 * [2024-06-15, 17:24:12](https://news.ycombinator.com/item?id=40691133) - [AI for math resources, and erdosproblems.com](https://terrytao.wordpress.com/2024/04/19/two-announcements-ai-for-math-resources-and-erdosproblems-com/)
