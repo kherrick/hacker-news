@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-15, 23:26:20](https://news.ycombinator.com/item?id=40693451) - [Cloudflare Will Poison DNS to Stop Piracy Block Circumvention](https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/)
 * [2024-06-15, 22:46:35](https://news.ycombinator.com/item?id=40693264) - [Reformatting 100k Files at Google in 2011](https://laurent.le-brun.eu/blog/the-story-of-reformatting-100k-files-at-google-in-2011)
 * [2024-06-15, 21:54:02](https://news.ycombinator.com/item?id=40692970) - [Ollama v0.1.45](https://github.com/ollama/ollama/releases/tag/v0.1.45-rc1)
 * [2024-06-15, 21:06:07](https://news.ycombinator.com/item?id=40692698) - [Why you shouldn't parse the output of ls(1)](https://mywiki.wooledge.org/ParsingLs)
@@ -9,7 +8,6 @@
 * [2024-06-15, 19:40:54](https://news.ycombinator.com/item?id=40692197) - [Sans Bullshit Sans (2015)](https://www.sansbullshitsans.com/)
 * [2024-06-15, 19:13:10](https://news.ycombinator.com/item?id=40691999) - [Impulse Tracker source code now available on GitHub](https://github.com/jthlim/impulse-tracker)
 * [2024-06-15, 19:02:38](https://news.ycombinator.com/item?id=40691929) - [Just Enough Software Architecture](https://www.georgefairbanks.com/book/)
-* [2024-06-15, 18:51:18](https://news.ycombinator.com/item?id=40691840) - [The state of carbon dioxide removal](https://www.stateofcdr.org)
 * [2024-06-15, 18:34:30](https://news.ycombinator.com/item?id=40691706) - [You've Read Your Last Free Article, Such Is the Nature of Mortality](https://www.mcsweeneys.net/articles/youve-read-your-last-free-article-such-is-the-nature-of-mortality)
 * [2024-06-15, 17:24:12](https://news.ycombinator.com/item?id=40691133) - [AI for math resources, and erdosproblems.com](https://terrytao.wordpress.com/2024/04/19/two-announcements-ai-for-math-resources-and-erdosproblems-com/)
 * [2024-06-15, 17:10:57](https://news.ycombinator.com/item?id=40691042) - [ESASky](https://sky.esa.int/esasky/)
@@ -26,8 +24,10 @@
 * [2024-06-15, 05:12:45](https://news.ycombinator.com/item?id=40687660) - [Voyager 1 is back online! NASA spacecraft returns data from all 4 instruments](https://www.space.com/voyager-1-fully-operational)
 * [2024-06-15, 01:20:21](https://news.ycombinator.com/item?id=40686728) - [Topological Problems in Voting](https://www.ryantolsma.com/thoughts/2024/06/14/topological-voting.html)
 * [2024-06-14, 21:28:25](https://news.ycombinator.com/item?id=40685316) - [Martin Amis and the pursuit of pleasure](https://www.newstatesman.com/culture/books/2024/06/martin-amis-and-the-pursuit-of-pleasure)
+* [2024-06-14, 18:51:58](https://news.ycombinator.com/item?id=40683747) - [Is This the First Nintendo Commercial?](https://gamehistory.org/mego-time-out-commercial/)
 * [2024-06-14, 17:34:47](https://news.ycombinator.com/item?id=40682863) - [Leveraging Zig's Allocators](https://www.openmymind.net/Leveraging-Zigs-Allocators/)
 * [2024-06-14, 12:53:07](https://news.ycombinator.com/item?id=40680446) - [Observable Framework 1.9](https://github.com/observablehq/framework/releases/tag/v1.9.0)
+* [2024-06-13, 22:44:20](https://news.ycombinator.com/item?id=40675696) - [How/Why to Sweep Async Tasks Under a Postgres Table [video]](https://www.youtube.com/watch?v=wXXJuz_spcU&list=PLlrxD0HtieHg5ldHlEn3nMMpClX0RUntH&index=29)
 * [2024-06-12, 22:00:10](https://news.ycombinator.com/item?id=40663686) - [Finding New Pastures: Big Nerd Ranch's Next Chapter](https://bignerdranch.com/blog/finding-new-pastures-big-nerd-ranchs-next-chapter/)
 * [2024-06-12, 01:11:44](https://news.ycombinator.com/item?id=40653454) - [Some early results for feed reader behavior monitoring](http://rachelbythebay.com/w/2024/06/11/fsr/)
 
