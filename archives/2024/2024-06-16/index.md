@@ -6,6 +6,7 @@
 
 * [2024-06-16, 06:51:25](https://news.ycombinator.com/item?id=40695165) - [Making my first embedded Linux system](https://popovicu.com/posts/making-my-first-embedded-linux-system/)
 * [2024-06-16, 05:45:27](https://news.ycombinator.com/item?id=40694948) - [Show HN: I made first declaritive SVG,canvas framework](https://flitter.pages.dev)
+* [2024-06-16, 05:33:12](https://news.ycombinator.com/item?id=40694909) - [Harvard Railroad Economics Exam (1906)](https://www.irwincollier.com/harvard-enrollment-and-final-exam-for-railroad-practice-daggett-1906-1907/)
 * [2024-06-16, 05:05:43](https://news.ycombinator.com/item?id=40694805) - [Show HN: Paste2Download – No Login, No Ads, Download Videos Watermark Free](https://www.paste2download.com/)
 * [2024-06-16, 04:52:12](https://news.ycombinator.com/item?id=40694768) - [What You Get After Running an SSH Honeypot for 30 Days](https://blog.sofiane.cc/ssh_honeypot/)
 * [2024-06-16, 04:08:19](https://news.ycombinator.com/item?id=40694616) - [Doom for SNES full source code released by former Sculptured Software employee](https://gbatemp.net/threads/doom-for-snes-full-source-code-released-by-former-sculptured-software-employees.657118/)

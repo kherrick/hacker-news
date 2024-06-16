@@ -2,6 +2,7 @@
 
 * [2024-06-16, 06:51:25](https://news.ycombinator.com/item?id=40695165) - [Making my first embedded Linux system](https://popovicu.com/posts/making-my-first-embedded-linux-system/)
 * [2024-06-16, 05:45:27](https://news.ycombinator.com/item?id=40694948) - [Show HN: I made first declaritive SVG,canvas framework](https://flitter.pages.dev)
+* [2024-06-16, 05:33:12](https://news.ycombinator.com/item?id=40694909) - [Harvard Railroad Economics Exam (1906)](https://www.irwincollier.com/harvard-enrollment-and-final-exam-for-railroad-practice-daggett-1906-1907/)
 * [2024-06-16, 05:05:43](https://news.ycombinator.com/item?id=40694805) - [Show HN: Paste2Download – No Login, No Ads, Download Videos Watermark Free](https://www.paste2download.com/)
 * [2024-06-16, 04:52:12](https://news.ycombinator.com/item?id=40694768) - [What You Get After Running an SSH Honeypot for 30 Days](https://blog.sofiane.cc/ssh_honeypot/)
 * [2024-06-16, 04:08:19](https://news.ycombinator.com/item?id=40694616) - [Doom for SNES full source code released by former Sculptured Software employee](https://gbatemp.net/threads/doom-for-snes-full-source-code-released-by-former-sculptured-software-employees.657118/)
@@ -10,7 +11,6 @@
 * [2024-06-16, 01:12:38](https://news.ycombinator.com/item?id=40693944) - [SimCity in the web browser using WebAssembly and OpenGL](https://micropolisweb.com/)
 * [2024-06-15, 23:26:20](https://news.ycombinator.com/item?id=40693451) - [Google, Cloudflare and Cisco will poison DNS to stop piracy block circumvention](https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/)
 * [2024-06-15, 20:37:28](https://news.ycombinator.com/item?id=40692535) - [Reverse engineering a restaurant pager system](https://k3xec.com/td158/)
-* [2024-06-15, 19:40:54](https://news.ycombinator.com/item?id=40692197) - [Sans Bullshit Sans (2015)](https://www.sansbullshitsans.com/)
 * [2024-06-15, 19:02:38](https://news.ycombinator.com/item?id=40691929) - [Just Enough Software Architecture (2010)](https://www.georgefairbanks.com/book/)
 * [2024-06-15, 17:24:12](https://news.ycombinator.com/item?id=40691133) - [AI for math resources, and erdosproblems.com](https://terrytao.wordpress.com/2024/04/19/two-announcements-ai-for-math-resources-and-erdosproblems-com/)
 * [2024-06-15, 17:10:57](https://news.ycombinator.com/item?id=40691042) - [ESASky](https://sky.esa.int/esasky/)
