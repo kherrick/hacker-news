@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-16](index.md)
 
+* [2024-06-16, 22:09:50](https://news.ycombinator.com/item?id=40700530) - [To see is to forget the name of the thing one sees](https://geopolicraticus.wordpress.com/2009/08/21/to-see-is-to-forget-the-name-of-the-thing-one-sees/)
 * [2024-06-16, 21:39:18](https://news.ycombinator.com/item?id=40700343) - [Show HN: SQLite Database Explorer](https://github.com/frectonz/sqlite-studio)
 * [2024-06-16, 21:29:04](https://news.ycombinator.com/item?id=40700259) - [NumPy 2.0 Is Released](https://numpy.org/news/)
 * [2024-06-16, 21:01:34](https://news.ycombinator.com/item?id=40700076) - [ChatGPT Is Bullshit](https://www.researchgate.net/publication/381278855_ChatGPT_is_bullshit)
