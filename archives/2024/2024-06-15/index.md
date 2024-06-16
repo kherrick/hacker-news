@@ -67,6 +67,7 @@
 * [2024-06-15, 09:11:13](https://news.ycombinator.com/item?id=40688505) - ['The big problem is water': UK ebike owners plagued by failing motors](https://www.theguardian.com/lifeandstyle/article/2024/jun/15/the-big-problem-is-water-uk-ebike-owners-plagued-by-failing-motors)
 * [2024-06-15, 08:30:20](https://news.ycombinator.com/item?id=40688336) - [Django SQLite Production Config](https://blog.pecar.me/sqlite-django-config)
 * [2024-06-15, 08:10:02](https://news.ycombinator.com/item?id=40688264) - [Sonos changes terms and conditions and may now pass on data to third parties](https://www.notebookcheck.net/Sonos-changes-terms-and-conditions-and-may-now-pass-on-data-to-third-parties.848124.0.html)
+* [2024-06-15, 07:39:41](https://news.ycombinator.com/item?id=40688138) - [A brief history of Mac enclaves and exclaves](https://eclecticlight.co/2024/06/15/a-brief-history-of-mac-enclaves-and-exclaves/)
 * [2024-06-15, 07:04:29](https://news.ycombinator.com/item?id=40688001) - [Tesla's FSD – A Useless Technology Demo](https://tomverbeure.github.io/2024/05/20/Tesla-FSD-First-and-Last-Impressions.html)
 * [2024-06-15, 05:41:06](https://news.ycombinator.com/item?id=40687751) - [VVVV – A hybrid visual/textual development environment for .NET](https://visualprogramming.net/)
 * [2024-06-15, 05:12:45](https://news.ycombinator.com/item?id=40687660) - [Voyager 1 is back online! NASA spacecraft returns data from all 4 instruments](https://www.space.com/voyager-1-fully-operational)

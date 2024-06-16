@@ -11,6 +11,7 @@
 * [2024-06-16, 04:52:12](https://news.ycombinator.com/item?id=40694768) - [What You Get After Running an SSH Honeypot for 30 Days](https://blog.sofiane.cc/ssh_honeypot/)
 * [2024-06-16, 04:08:19](https://news.ycombinator.com/item?id=40694616) - [Doom for SNES full source code released by former Sculptured Software employee](https://gbatemp.net/threads/doom-for-snes-full-source-code-released-by-former-sculptured-software-employees.657118/)
 * [2024-06-16, 03:16:50](https://news.ycombinator.com/item?id=40694432) - [Why Government Unions–Unlike Trade Unions–Corrupt Democracy](https://time.com/6267979/government-unions-corrupt-democracy/)
+* [2024-06-16, 03:04:31](https://news.ycombinator.com/item?id=40694375) - [Highly realistic talking head video generation](https://github.com/fudan-generative-vision/hallo)
 * [2024-06-16, 02:26:55](https://news.ycombinator.com/item?id=40694254) - [Show HN: We Made The World's Smallest and Cheapest Network Switch](https://docs.murexrobotics.com/elec/boards/networking/switch)
 * [2024-06-16, 01:51:54](https://news.ycombinator.com/item?id=40694103) - [The Architecture Behind a One-Person Tech Startup](https://anthonynsimon.com/blog/one-man-saas-architecture/)
 * [2024-06-16, 01:19:59](https://news.ycombinator.com/item?id=40693969) - [Astronomers discover Earth-sized exoplanet orbiting a nearby cool dwarf star](https://phys.org/news/2024-06-astronomers-earth-sized-exoplanet-orbiting.html)
