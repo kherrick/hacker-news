@@ -2,6 +2,7 @@
 
 * [2024-06-16, 18:46:15](https://news.ycombinator.com/item?id=40699153) - [Logo: Programming with Turtle Graphics (IBM PC) (1983)](https://archive.org/details/logo-programming-with-turtle-graphics-ibm-pc)
 * [2024-06-16, 18:33:18](https://news.ycombinator.com/item?id=40699079) - [Experts vs. Imitators](https://fs.blog/experts-vs-imitators/)
+* [2024-06-16, 18:20:38](https://news.ycombinator.com/item?id=40699007) - [Japanese Words and Names Sound African. Why?](https://www.farooqkperogi.com/2022/10/japanese-words-and-names-sound-african.html)
 * [2024-06-16, 18:16:58](https://news.ycombinator.com/item?id=40698990) - [OpenAI and Microsoft Azure to deprecate GPT-4 32K](https://twitter.com/headinthebox/status/1802404482174820398)
 * [2024-06-16, 17:19:17](https://news.ycombinator.com/item?id=40698610) - [The Banana Pi M7](https://taoofmac.com/space/blog/2024/06/16/1800)
 * [2024-06-16, 17:07:56](https://news.ycombinator.com/item?id=40698536) - [I've compared nearly all Rust crates.io crates to contents of their Git repos](https://mastodon.social/@kornel/112626463128422583)
@@ -26,7 +27,6 @@
 * [2024-06-16, 01:51:54](https://news.ycombinator.com/item?id=40694103) - [The Architecture Behind a One-Person Tech Startup (2021)](https://anthonynsimon.com/blog/one-man-saas-architecture/)
 * [2024-06-16, 01:12:38](https://news.ycombinator.com/item?id=40693944) - [SimCity in the web browser using WebAssembly and OpenGL](https://micropolisweb.com/)
 * [2024-06-15, 12:25:42](https://news.ycombinator.com/item?id=40689341) - [Using a 1965 Dutch Rotary Phone via VoIP (T65) in 2024](https://raymii.org/s/blog/Using_a_1965_Dutch_Rotaty_Phone_T65_via_VoIP_in_2024.html)
-* [2024-06-15, 08:44:27](https://news.ycombinator.com/item?id=40688403) - [Building an O2 concentrator for welding and vacuum tube work](https://www.nickpoole.me/2024/06/01/building-an-oxikit-o2-concentrator-part-2/)
 * [2024-06-15, 08:23:12](https://news.ycombinator.com/item?id=40688311) - [PaperTapeReader: A DIY reader for vintage 8-bit paper tapes](https://github.com/dhansel/PaperTapeReader)
 * [2024-06-15, 06:10:31](https://news.ycombinator.com/item?id=40687840) - [Sales happen when buyers fear missing out](https://tidyfirst.substack.com/p/sales-happen-when-buyers-fear-missing)
 * [2024-06-13, 01:30:54](https://news.ycombinator.com/item?id=40665015) - [How to enumerate trees from a context-free grammar](https://arxiv.org/abs/2305.00522)

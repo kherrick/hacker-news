@@ -6,6 +6,7 @@
 
 * [2024-06-16, 18:46:15](https://news.ycombinator.com/item?id=40699153) - [Logo: Programming with Turtle Graphics (IBM PC) (1983)](https://archive.org/details/logo-programming-with-turtle-graphics-ibm-pc)
 * [2024-06-16, 18:33:18](https://news.ycombinator.com/item?id=40699079) - [Experts vs. Imitators](https://fs.blog/experts-vs-imitators/)
+* [2024-06-16, 18:20:38](https://news.ycombinator.com/item?id=40699007) - [Japanese Words and Names Sound African. Why?](https://www.farooqkperogi.com/2022/10/japanese-words-and-names-sound-african.html)
 * [2024-06-16, 18:16:58](https://news.ycombinator.com/item?id=40698990) - [OpenAI and Microsoft Azure to deprecate GPT-4 32K](https://twitter.com/headinthebox/status/1802404482174820398)
 * [2024-06-16, 17:19:17](https://news.ycombinator.com/item?id=40698610) - [The Banana Pi M7](https://taoofmac.com/space/blog/2024/06/16/1800)
 * [2024-06-16, 17:07:56](https://news.ycombinator.com/item?id=40698536) - [I've compared nearly all Rust crates.io crates to contents of their Git repos](https://mastodon.social/@kornel/112626463128422583)
