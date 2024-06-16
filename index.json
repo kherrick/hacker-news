@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-16, 02:26:55",
+      "https://news.ycombinator.com/item?id=40694254"
+    ],
+    [
+      "Show HN: We Made The World's Smallest and Cheapest Network Switch",
+      "https://docs.murexrobotics.com/elec/boards/networking/switch"
+    ]
+  ],
+  [
+    [
       "2024-06-16, 00:42:05",
       "https://news.ycombinator.com/item?id=40693787"
     ],
@@ -257,16 +267,6 @@
     [
       "Leveraging Zig's Allocators",
       "https://www.openmymind.net/Leveraging-Zigs-Allocators/"
-    ]
-  ],
-  [
-    [
-      "2024-06-14, 12:53:07",
-      "https://news.ycombinator.com/item?id=40680446"
-    ],
-    [
-      "Observable Framework 1.9",
-      "https://github.com/observablehq/framework/releases/tag/v1.9.0"
     ]
   ],
   [
