@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-06-16](index.md)
 
+* [2024-06-16, 22:18:19](https://news.ycombinator.com/item?id=40700586) - [Maintaining large-scale AI capacity at Meta](https://engineering.fb.com/2024/06/12/production-engineering/maintaining-large-scale-ai-capacity-meta/)
 * [2024-06-16, 22:11:27](https://news.ycombinator.com/item?id=40700549) - [Starlark Language](https://github.com/bazelbuild/starlark)
 * [2024-06-16, 22:11:11](https://news.ycombinator.com/item?id=40700546) - [Roger Linn reviews MPC Live 2](https://www.youtube.com/watch?v=0bhSWwf-i1k)
 * [2024-06-16, 22:09:50](https://news.ycombinator.com/item?id=40700530) - [To see is to forget the name of the thing one sees](https://geopolicraticus.wordpress.com/2009/08/21/to-see-is-to-forget-the-name-of-the-thing-one-sees/)
 * [2024-06-16, 21:39:18](https://news.ycombinator.com/item?id=40700343) - [Show HN: SQLite Database Explorer](https://github.com/frectonz/sqlite-studio)
 * [2024-06-16, 21:29:04](https://news.ycombinator.com/item?id=40700259) - [NumPy 2.0 Is Released](https://numpy.org/news/)
+* [2024-06-16, 21:23:12](https://news.ycombinator.com/item?id=40700213) - [Sheaf Theory Through Examples](https://direct.mit.edu/books/oa-monograph/5460/Sheaf-Theory-through-Examples)
 * [2024-06-16, 21:01:34](https://news.ycombinator.com/item?id=40700076) - [ChatGPT Is Bullshit](https://www.researchgate.net/publication/381278855_ChatGPT_is_bullshit)
 * [2024-06-16, 20:59:12](https://news.ycombinator.com/item?id=40700066) - [Sam Bankman-Fried funded a group with racist ties. FTX wants its $5M back](https://www.theguardian.com/technology/article/2024/jun/16/sam-bankman-fried-ftx-eugenics-scientific-racism)
 * [2024-06-16, 20:31:16](https://news.ycombinator.com/item?id=40699858) - [Agile Dating: A Less Painful Way to Date](https://jessicafan.substack.com/p/agile-dating-a-less-painful-way-to)

@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-16, 22:18:19](https://news.ycombinator.com/item?id=40700586) - [Maintaining large-scale AI capacity at Meta](https://engineering.fb.com/2024/06/12/production-engineering/maintaining-large-scale-ai-capacity-meta/)
 * [2024-06-16, 22:11:27](https://news.ycombinator.com/item?id=40700549) - [Starlark Language](https://github.com/bazelbuild/starlark)
 * [2024-06-16, 22:11:11](https://news.ycombinator.com/item?id=40700546) - [Roger Linn reviews MPC Live 2](https://www.youtube.com/watch?v=0bhSWwf-i1k)
 * [2024-06-16, 22:09:50](https://news.ycombinator.com/item?id=40700530) - [To see is to forget the name of the thing one sees](https://geopolicraticus.wordpress.com/2009/08/21/to-see-is-to-forget-the-name-of-the-thing-one-sees/)
 * [2024-06-16, 21:39:18](https://news.ycombinator.com/item?id=40700343) - [Show HN: SQLite Database Explorer](https://github.com/frectonz/sqlite-studio)
+* [2024-06-16, 21:23:12](https://news.ycombinator.com/item?id=40700213) - [Sheaf Theory Through Examples](https://direct.mit.edu/books/oa-monograph/5460/Sheaf-Theory-through-Examples)
 * [2024-06-16, 20:02:47](https://news.ycombinator.com/item?id=40699684) - [MicroMac, a Macintosh for under £5](https://axio.ms/projects/2024/06/16/MicroMac.html)
 * [2024-06-16, 19:50:16](https://news.ycombinator.com/item?id=40699583) - [Bouba/kiki effect](https://en.wikipedia.org/wiki/Bouba/kiki_effect)
 * [2024-06-16, 19:39:27](https://news.ycombinator.com/item?id=40699504) - [First look at the upcoming Starlink Mini](https://www.starlinkhardware.com/first-look-at-the-upcoming-starlink-mini/)
@@ -14,7 +16,6 @@
 * [2024-06-16, 18:33:18](https://news.ycombinator.com/item?id=40699079) - [Experts vs. Imitators](https://fs.blog/experts-vs-imitators/)
 * [2024-06-16, 18:20:38](https://news.ycombinator.com/item?id=40699007) - [Japanese words and names sound African (2022)](https://www.farooqkperogi.com/2022/10/japanese-words-and-names-sound-african.html)
 * [2024-06-16, 18:02:42](https://news.ycombinator.com/item?id=40698906) - [Why Structure and Interpretation of Computer Programs Matters](https://people.eecs.berkeley.edu/~bh/sicp.html)
-* [2024-06-16, 17:07:56](https://news.ycombinator.com/item?id=40698536) - [I've compared nearly all Rust crates.io crates to contents of their Git repos](https://mastodon.social/@kornel/112626463128422583)
 * [2024-06-16, 17:01:09](https://news.ycombinator.com/item?id=40698487) - [Lago (YC S21, open source usage based billing) is hiring a head of finance (SF)](https://jobs.lever.co/getlago/5f75502e-ecc5-4660-a2ad-e66f91e81e59)
 * [2024-06-16, 16:55:31](https://news.ycombinator.com/item?id=40698442) - [Building SimCity: How to put the world in a machine](https://mitpress.mit.edu/9780262547482/building-simcity/)
 * [2024-06-16, 15:59:47](https://news.ycombinator.com/item?id=40697992) - [Packaging Swift Apps for Alpine Linux](https://mko.re/blog/swift-alpine-packaging/)
@@ -29,7 +30,6 @@
 * [2024-06-15, 11:41:38](https://news.ycombinator.com/item?id=40689137) - [Unveiling URI, URL, and URN](https://blog.logto.io/unveiling-uri-url-and-urn/)
 * [2024-06-15, 08:23:12](https://news.ycombinator.com/item?id=40688311) - [PaperTapeReader: A DIY reader for vintage 8-bit paper tapes](https://github.com/dhansel/PaperTapeReader)
 * [2024-06-15, 06:10:31](https://news.ycombinator.com/item?id=40687840) - [Sales happen when buyers fear missing out](https://tidyfirst.substack.com/p/sales-happen-when-buyers-fear-missing)
-* [2024-06-13, 01:30:54](https://news.ycombinator.com/item?id=40665015) - [How to enumerate trees from a context-free grammar](https://arxiv.org/abs/2305.00522)
 
 ## [Archives](archives/index.md)
 
