@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2024-06-16](index.md)
 
 * [2024-06-16, 20:02:47](https://news.ycombinator.com/item?id=40699684) - [MicroMac, a Macintosh for Under £5](https://axio.ms/projects/2024/06/16/MicroMac.html)
+* [2024-06-16, 19:50:16](https://news.ycombinator.com/item?id=40699583) - [Bouba/Kiki Effect](https://en.wikipedia.org/wiki/Bouba/kiki_effect)
 * [2024-06-16, 19:39:27](https://news.ycombinator.com/item?id=40699504) - [First look at the upcoming Starlink Mini](https://www.starlinkhardware.com/first-look-at-the-upcoming-starlink-mini/)
 * [2024-06-16, 19:32:23](https://news.ycombinator.com/item?id=40699470) - [NumPy 2.0.0](https://pypi.org/project/numpy/)
+* [2024-06-16, 19:30:58](https://news.ycombinator.com/item?id=40699462) - [8 days downtime: Cloudflare r2 subscription bug ruins my business](https://news.ycombinator.com/item?id=40699462)
 * [2024-06-16, 19:30:30](https://news.ycombinator.com/item?id=40699459) - [Quake 1 potential original font](https://cohost.org/bekoha/post/2859948-quake-1-potential-or)
 * [2024-06-16, 19:05:04](https://news.ycombinator.com/item?id=40699278) - [Show HN: Searchable Kubernetes CSI provider listing](https://storageclass.info/storageclasses/)
 * [2024-06-16, 18:46:15](https://news.ycombinator.com/item?id=40699153) - [Logo: Programming with Turtle Graphics (IBM PC) (1983)](https://archive.org/details/logo-programming-with-turtle-graphics-ibm-pc)
