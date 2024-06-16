@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-16, 17:07:56",
+      "https://news.ycombinator.com/item?id=40698536"
+    ],
+    [
+      "I've compared nearly all Rust crates.io crates to contents of their Git repos",
+      "https://mastodon.social/@kornel/112626463128422583"
+    ]
+  ],
+  [
+    [
       "2024-06-16, 17:01:09",
       "https://news.ycombinator.com/item?id=40698487"
     ],
@@ -41,32 +51,12 @@
   ],
   [
     [
-      "2024-06-16, 15:02:47",
-      "https://news.ycombinator.com/item?id=40697591"
-    ],
-    [
-      "Are animals conscious? How new research is changing minds",
-      "https://www.bbc.com/news/articles/cv223z15mpmo"
-    ]
-  ],
-  [
-    [
       "2024-06-16, 13:40:26",
       "https://news.ycombinator.com/item?id=40696992"
     ],
     [
       "NLRB judge declares non-compete clause is an unfair labor practice",
       "https://www.nlrbedge.com/p/in-first-case-of-its-kind-nlrb-judge"
-    ]
-  ],
-  [
-    [
-      "2024-06-16, 13:10:15",
-      "https://news.ycombinator.com/item?id=40696788"
-    ],
-    [
-      "TerraPower's Natrium: A Fast Neutron Reactor with Built-In Grid Level Storage",
-      "https://hackaday.com/2021/07/06/terrapowers-natrium-combining-a-fast-neutron-reactor-with-built-in-grid-level-storage/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Sales happen when buyers fear missing out",
       "https://tidyfirst.substack.com/p/sales-happen-when-buyers-fear-missing"
+    ]
+  ],
+  [
+    [
+      "2024-06-15, 05:41:06",
+      "https://news.ycombinator.com/item?id=40687751"
+    ],
+    [
+      "VVVV – A hybrid visual/textual development environment for .NET",
+      "https://visualprogramming.net/"
     ]
   ]
 ]
