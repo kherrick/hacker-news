@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-16](index.md)
 
+* [2024-06-16, 21:01:34](https://news.ycombinator.com/item?id=40700076) - [ChatGPT Is Bullshit](https://www.researchgate.net/publication/381278855_ChatGPT_is_bullshit)
+* [2024-06-16, 20:59:12](https://news.ycombinator.com/item?id=40700066) - [Sam Bankman-Fried funded a group with racist ties. FTX wants its $5M back](https://www.theguardian.com/technology/article/2024/jun/16/sam-bankman-fried-ftx-eugenics-scientific-racism)
+* [2024-06-16, 20:31:16](https://news.ycombinator.com/item?id=40699858) - [Agile Dating: A Less Painful Way to Date](https://jessicafan.substack.com/p/agile-dating-a-less-painful-way-to)
 * [2024-06-16, 20:02:47](https://news.ycombinator.com/item?id=40699684) - [MicroMac, a Macintosh for Under £5](https://axio.ms/projects/2024/06/16/MicroMac.html)
 * [2024-06-16, 19:50:16](https://news.ycombinator.com/item?id=40699583) - [Bouba/Kiki Effect](https://en.wikipedia.org/wiki/Bouba/kiki_effect)
 * [2024-06-16, 19:39:27](https://news.ycombinator.com/item?id=40699504) - [First look at the upcoming Starlink Mini](https://www.starlinkhardware.com/first-look-at-the-upcoming-starlink-mini/)
@@ -62,6 +65,7 @@
 * [2024-06-16, 03:04:31](https://news.ycombinator.com/item?id=40694375) - [Highly realistic talking head video generation](https://github.com/fudan-generative-vision/hallo)
 * [2024-06-16, 02:26:55](https://news.ycombinator.com/item?id=40694254) - [Show HN: We Made The World's Smallest and Cheapest Network Switch](https://docs.murexrobotics.com/elec/boards/networking/switch)
 * [2024-06-16, 01:51:54](https://news.ycombinator.com/item?id=40694103) - [The Architecture Behind a One-Person Tech Startup](https://anthonynsimon.com/blog/one-man-saas-architecture/)
+* [2024-06-16, 01:25:07](https://news.ycombinator.com/item?id=40693984) - [Quantum entangled photons react to Earth's spin](https://phys.org/news/2024-06-quantum-entangled-photons-react-earth.html)
 * [2024-06-16, 01:19:59](https://news.ycombinator.com/item?id=40693969) - [Astronomers discover Earth-sized exoplanet orbiting a nearby cool dwarf star](https://phys.org/news/2024-06-astronomers-earth-sized-exoplanet-orbiting.html)
 * [2024-06-16, 01:12:38](https://news.ycombinator.com/item?id=40693944) - [SimCity in the web browser using WebAssembly and OpenGL](https://micropolisweb.com/)
 * [2024-06-16, 00:42:05](https://news.ycombinator.com/item?id=40693787) - [A collection of 2,299 blogs about every topic](https://ooh.directory/)
