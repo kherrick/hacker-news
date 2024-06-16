@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-16, 09:17:56](https://news.ycombinator.com/item?id=40695754) - [European Alternatives](https://european-alternatives.eu)
+* [2024-06-16, 08:43:42](https://news.ycombinator.com/item?id=40695628) - [Htmd: A turndown.js inspired HTML-to-Markdown converter for Rust](https://github.com/letmutex/htmd)
 * [2024-06-16, 06:51:25](https://news.ycombinator.com/item?id=40695165) - [Making my first embedded Linux system](https://popovicu.com/posts/making-my-first-embedded-linux-system/)
 * [2024-06-16, 05:45:27](https://news.ycombinator.com/item?id=40694948) - [Show HN: I made first declaritive SVG,canvas framework](https://flitter.pages.dev)
 * [2024-06-16, 05:33:12](https://news.ycombinator.com/item?id=40694909) - [Harvard Railroad Economics Exam (1906)](https://www.irwincollier.com/harvard-enrollment-and-final-exam-for-railroad-practice-daggett-1906-1907/)
@@ -15,8 +17,6 @@
 * [2024-06-15, 17:24:12](https://news.ycombinator.com/item?id=40691133) - [AI for math resources, and erdosproblems.com](https://terrytao.wordpress.com/2024/04/19/two-announcements-ai-for-math-resources-and-erdosproblems-com/)
 * [2024-06-15, 17:10:57](https://news.ycombinator.com/item?id=40691042) - [ESASky](https://sky.esa.int/esasky/)
 * [2024-06-15, 17:03:26](https://news.ycombinator.com/item?id=40690990) - [Show HN: Keydogger – Minimal keyboard macro for Linux (Wayland)](https://github.com/jarusll/keydogger)
-* [2024-06-15, 16:25:03](https://news.ycombinator.com/item?id=40690718) - [Engineer's solar panels are breaking efficiency records](https://spectrum.ieee.org/solar-panels-breaking-efficiency-records)
-* [2024-06-15, 14:35:03](https://news.ycombinator.com/item?id=40690070) - [DARPA Shows Concepts for the Future of VTOL Uncrewed Aerial Systems](https://www.darpa.mil/news-events/2024-05-22)
 * [2024-06-15, 13:43:40](https://news.ycombinator.com/item?id=40689759) - [A most profound video game: a good cognitive aid for research](https://thoughtforms.life/a-most-profound-video-game-a-good-cognitive-aid-for-research-at-the-frontier-of-life-and-mind/)
 * [2024-06-15, 12:13:43](https://news.ycombinator.com/item?id=40689296) - [Threescaper: A website for loading Townscaper models into Three.js](https://github.com/meliharvey/threescaper)
 * [2024-06-15, 12:00:31](https://news.ycombinator.com/item?id=40689231) - [Survival of the Mediocre Mediocre (2018)](https://www.ribbonfarm.com/2018/04/24/survival-of-the-mediocre-mediocre/)
