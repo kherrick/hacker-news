@@ -1,22 +1,32 @@
 [
   [
     [
-      "2024-06-16, 16:37:19",
-      "https://news.ycombinator.com/item?id=40698307"
+      "2024-06-16, 17:01:09",
+      "https://news.ycombinator.com/item?id=40698487"
     ],
     [
-      "Displaying a QR Code in MicroPython on the Tildagon Badge",
-      "https://shkspr.mobi/blog/2024/06/displaying-a-qr-code-in-micropython-on-the-tildagon-badge/"
+      "Lago (Open Source Usage Based Billing) Is Hiring a Head of Finance (SF)",
+      "https://jobs.lever.co/getlago/5f75502e-ecc5-4660-a2ad-e66f91e81e59"
     ]
   ],
   [
     [
-      "2024-06-16, 16:16:48",
-      "https://news.ycombinator.com/item?id=40698128"
+      "2024-06-16, 16:55:31",
+      "https://news.ycombinator.com/item?id=40698442"
     ],
     [
-      "Unlocking ADMIN ON AT&T 4G-LTE ROUTER",
-      "https://thecybersecguru.com/hardware-hacking/unlocking-admin-on-att-4g-lte-router/"
+      "Building SimCity: How to Put the World in a Machine (MIT Press, 2024)",
+      "https://mitpress.mit.edu/9780262547482/building-simcity/"
+    ]
+  ],
+  [
+    [
+      "2024-06-16, 15:59:47",
+      "https://news.ycombinator.com/item?id=40697992"
+    ],
+    [
+      "Packaging Swift Apps for Alpine Linux",
+      "https://mko.re/blog/swift-alpine-packaging/"
     ]
   ],
   [
@@ -285,18 +295,8 @@
       "https://news.ycombinator.com/item?id=40687840"
     ],
     [
-      "Sales Happen When Buyers Fear Missing Out",
+      "Sales happen when buyers fear missing out",
       "https://tidyfirst.substack.com/p/sales-happen-when-buyers-fear-missing"
-    ]
-  ],
-  [
-    [
-      "2024-06-15, 05:41:06",
-      "https://news.ycombinator.com/item?id=40687751"
-    ],
-    [
-      "VVVV – A hybrid visual/textual development environment for .NET",
-      "https://visualprogramming.net/"
     ]
   ]
 ]
