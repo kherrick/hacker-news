@@ -54,6 +54,7 @@
 * [2024-06-15, 12:00:31](https://news.ycombinator.com/item?id=40689231) - [Survival of the Mediocre Mediocre (2018)](https://www.ribbonfarm.com/2018/04/24/survival-of-the-mediocre-mediocre/)
 * [2024-06-15, 11:55:52](https://news.ycombinator.com/item?id=40689206) - [A judge ordered us to turn over privileged documents](https://mississippitoday.org/2024/06/06/mississippi-today-supreme-court-appeal/)
 * [2024-06-15, 11:10:10](https://news.ycombinator.com/item?id=40688988) - [DARPA unveils 6 new designs for uncrewed vertical-takeoff military aircraft](https://www.livescience.com/technology/engineering/darpa-considers-6-new-designs-for-uncrewed-vtol-aircraft-that-carry-weapons-payloads-with-test-flights-set-for-2026)
+* [2024-06-15, 11:07:54](https://news.ycombinator.com/item?id=40688975) - [Sharing wildlife sounds from all over the world](https://xeno-canto.org/)
 * [2024-06-15, 10:56:17](https://news.ycombinator.com/item?id=40688921) - [Hokusai's 'Great Wave' features on new Japanese banknotes](https://www.cnn.com/style/article/japan-new-banknotes-great-wave/index.html)
 * [2024-06-15, 10:51:20](https://news.ycombinator.com/item?id=40688899) - [Introduction to the Odin Programming Language](https://zylinski.se/posts/introduction-to-odin/)
 * [2024-06-15, 10:34:29](https://news.ycombinator.com/item?id=40688829) - [Amazon has a secret way to scrape Microsoft's GitHub and feed its AI model](https://dataconomy.com/2024/06/14/amazon-has-a-secret-way-to-scrape-microsofts-github-and-feed-its-ai-model/)
