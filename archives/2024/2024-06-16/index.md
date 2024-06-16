@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-16](index.md)
 
+* [2024-06-16, 09:39:52](https://news.ycombinator.com/item?id=40695839) - [Simple Sabotage for Software](https://erikbern.com/2023/12/13/simple-sabotage-for-software.html)
 * [2024-06-16, 09:17:56](https://news.ycombinator.com/item?id=40695754) - [European Alternatives](https://european-alternatives.eu)
 * [2024-06-16, 09:00:32](https://news.ycombinator.com/item?id=40695679) - [Ask HN: Freelancers, how do you get work?](https://news.ycombinator.com/item?id=40695679)
 * [2024-06-16, 08:43:42](https://news.ycombinator.com/item?id=40695628) - [Htmd: A turndown.js inspired HTML-to-Markdown converter for Rust](https://github.com/letmutex/htmd)

@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-16, 09:39:52](https://news.ycombinator.com/item?id=40695839) - [Simple Sabotage for Software](https://erikbern.com/2023/12/13/simple-sabotage-for-software.html)
 * [2024-06-16, 09:17:56](https://news.ycombinator.com/item?id=40695754) - [European Alternatives](https://european-alternatives.eu)
 * [2024-06-16, 09:00:32](https://news.ycombinator.com/item?id=40695679) - [Ask HN: Freelancers, how do you get work?](https://news.ycombinator.com/item?id=40695679)
 * [2024-06-16, 08:43:42](https://news.ycombinator.com/item?id=40695628) - [Htmd: A turndown.js inspired HTML-to-Markdown converter for Rust](https://github.com/letmutex/htmd)
@@ -29,7 +30,6 @@
 * [2024-06-15, 05:41:06](https://news.ycombinator.com/item?id=40687751) - [VVVV – A hybrid visual/textual development environment for .NET](https://visualprogramming.net/)
 * [2024-06-15, 01:20:21](https://news.ycombinator.com/item?id=40686728) - [Topological Problems in Voting](https://www.ryantolsma.com/thoughts/2024/06/14/topological-voting.html)
 * [2024-06-14, 21:10:41](https://news.ycombinator.com/item?id=40685173) - [Sequential Search, Correctly](http://siek.blogspot.com/2024/06/sequential-search-correctly.html)
-* [2024-06-14, 17:34:47](https://news.ycombinator.com/item?id=40682863) - [Leveraging Zig's Allocators](https://www.openmymind.net/Leveraging-Zigs-Allocators/)
 
 ## [Archives](archives/index.md)
 
