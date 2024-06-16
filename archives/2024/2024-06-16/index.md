@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-16](index.md)
 
+* [2024-06-16, 06:51:25](https://news.ycombinator.com/item?id=40695165) - [Making my first embedded Linux system](https://popovicu.com/posts/making-my-first-embedded-linux-system/)
 * [2024-06-16, 05:45:27](https://news.ycombinator.com/item?id=40694948) - [Show HN: I made first declaritive SVG,canvas framework](https://flitter.pages.dev)
 * [2024-06-16, 05:05:43](https://news.ycombinator.com/item?id=40694805) - [Show HN: Paste2Download – No Login, No Ads, Download Videos Watermark Free](https://www.paste2download.com/)
 * [2024-06-16, 04:52:12](https://news.ycombinator.com/item?id=40694768) - [What You Get After Running an SSH Honeypot for 30 Days](https://blog.sofiane.cc/ssh_honeypot/)

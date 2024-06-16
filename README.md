@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-16, 06:51:25](https://news.ycombinator.com/item?id=40695165) - [Making my first embedded Linux system](https://popovicu.com/posts/making-my-first-embedded-linux-system/)
 * [2024-06-16, 05:45:27](https://news.ycombinator.com/item?id=40694948) - [Show HN: I made first declaritive SVG,canvas framework](https://flitter.pages.dev)
 * [2024-06-16, 05:05:43](https://news.ycombinator.com/item?id=40694805) - [Show HN: Paste2Download – No Login, No Ads, Download Videos Watermark Free](https://www.paste2download.com/)
 * [2024-06-16, 04:52:12](https://news.ycombinator.com/item?id=40694768) - [What You Get After Running an SSH Honeypot for 30 Days](https://blog.sofiane.cc/ssh_honeypot/)
@@ -15,7 +16,6 @@
 * [2024-06-15, 17:10:57](https://news.ycombinator.com/item?id=40691042) - [ESASky](https://sky.esa.int/esasky/)
 * [2024-06-15, 17:03:26](https://news.ycombinator.com/item?id=40690990) - [Show HN: Keydogger – Minimal keyboard macro for Linux (Wayland)](https://github.com/jarusll/keydogger)
 * [2024-06-15, 16:25:03](https://news.ycombinator.com/item?id=40690718) - [Engineer's solar panels are breaking efficiency records](https://spectrum.ieee.org/solar-panels-breaking-efficiency-records)
-* [2024-06-15, 16:11:53](https://news.ycombinator.com/item?id=40690633) - [The Sociological Study of Mental Illness: A Historical Perspective (2016)](https://www.madinamerica.com/2016/07/the-sociological-study-of-mental-illness-a-historical-perspective/)
 * [2024-06-15, 14:35:03](https://news.ycombinator.com/item?id=40690070) - [DARPA Shows Concepts for the Future of VTOL Uncrewed Aerial Systems](https://www.darpa.mil/news-events/2024-05-22)
 * [2024-06-15, 13:43:40](https://news.ycombinator.com/item?id=40689759) - [A most profound video game: a good cognitive aid for research](https://thoughtforms.life/a-most-profound-video-game-a-good-cognitive-aid-for-research-at-the-frontier-of-life-and-mind/)
 * [2024-06-15, 13:42:08](https://news.ycombinator.com/item?id=40689750) - [Address Sanitizer Internals](https://blog.gistre.epita.fr/posts/benjamin.peter-2022-10-28-address_sanitizer_internals/)
