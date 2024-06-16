@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-16](index.md)
 
+* [2024-06-16, 17:07:56](https://news.ycombinator.com/item?id=40698536) - [I've compared nearly all Rust crates.io crates to contents of their Git repos](https://mastodon.social/@kornel/112626463128422583)
 * [2024-06-16, 17:01:09](https://news.ycombinator.com/item?id=40698487) - [Lago (Open Source Usage Based Billing) Is Hiring a Head of Finance (SF)](https://jobs.lever.co/getlago/5f75502e-ecc5-4660-a2ad-e66f91e81e59)
 * [2024-06-16, 16:55:31](https://news.ycombinator.com/item?id=40698442) - [Building SimCity: How to Put the World in a Machine (MIT Press, 2024)](https://mitpress.mit.edu/9780262547482/building-simcity/)
 * [2024-06-16, 16:37:19](https://news.ycombinator.com/item?id=40698307) - [Displaying a QR Code in MicroPython on the Tildagon Badge](https://shkspr.mobi/blog/2024/06/displaying-a-qr-code-in-micropython-on-the-tildagon-badge/)
