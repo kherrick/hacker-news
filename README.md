@@ -18,7 +18,6 @@
 * [2024-06-15, 19:02:38](https://news.ycombinator.com/item?id=40691929) - [Just Enough Software Architecture (2010)](https://www.georgefairbanks.com/book/)
 * [2024-06-15, 17:24:12](https://news.ycombinator.com/item?id=40691133) - [AI for math resources, and erdosproblems.com](https://terrytao.wordpress.com/2024/04/19/two-announcements-ai-for-math-resources-and-erdosproblems-com/)
 * [2024-06-15, 17:10:57](https://news.ycombinator.com/item?id=40691042) - [ESASky](https://sky.esa.int/esasky/)
-* [2024-06-15, 17:03:26](https://news.ycombinator.com/item?id=40690990) - [Show HN: Keydogger – Minimal keyboard macro for Linux (Wayland)](https://github.com/jarusll/keydogger)
 * [2024-06-15, 13:43:40](https://news.ycombinator.com/item?id=40689759) - [A most profound video game: a good cognitive aid for research](https://thoughtforms.life/a-most-profound-video-game-a-good-cognitive-aid-for-research-at-the-frontier-of-life-and-mind/)
 * [2024-06-15, 12:00:31](https://news.ycombinator.com/item?id=40689231) - [Survival of the Mediocre Mediocre (2018)](https://www.ribbonfarm.com/2018/04/24/survival-of-the-mediocre-mediocre/)
 * [2024-06-15, 11:07:54](https://news.ycombinator.com/item?id=40688975) - [Sharing wildlife sounds from all over the world](https://xeno-canto.org/)
@@ -29,6 +28,7 @@
 * [2024-06-15, 07:39:41](https://news.ycombinator.com/item?id=40688138) - [A brief history of Mac enclaves and exclaves](https://eclecticlight.co/2024/06/15/a-brief-history-of-mac-enclaves-and-exclaves/)
 * [2024-06-15, 06:50:16](https://news.ycombinator.com/item?id=40687952) - [When to Write a Simulator (2021)](https://sirupsen.com/napkin/problem-16-simulation)
 * [2024-06-15, 05:41:06](https://news.ycombinator.com/item?id=40687751) - [VVVV – A hybrid visual/textual development environment for .NET](https://visualprogramming.net/)
+* [2024-06-15, 01:20:21](https://news.ycombinator.com/item?id=40686728) - [Topological Problems in Voting](https://www.ryantolsma.com/thoughts/2024/06/14/topological-voting.html)
 * [2024-06-14, 21:10:41](https://news.ycombinator.com/item?id=40685173) - [Sequential Search, Correctly](http://siek.blogspot.com/2024/06/sequential-search-correctly.html)
 
 ## [Archives](archives/index.md)
