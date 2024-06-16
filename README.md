@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-16, 21:39:18](https://news.ycombinator.com/item?id=40700343) - [Show HN: SQLite Database Explorer](https://github.com/frectonz/sqlite-studio)
+* [2024-06-16, 21:29:04](https://news.ycombinator.com/item?id=40700259) - [NumPy 2.0 Is Released](https://numpy.org/news/)
 * [2024-06-16, 20:02:47](https://news.ycombinator.com/item?id=40699684) - [MicroMac, a Macintosh for Under £5](https://axio.ms/projects/2024/06/16/MicroMac.html)
 * [2024-06-16, 19:50:16](https://news.ycombinator.com/item?id=40699583) - [Bouba/Kiki Effect](https://en.wikipedia.org/wiki/Bouba/kiki_effect)
 * [2024-06-16, 19:39:27](https://news.ycombinator.com/item?id=40699504) - [First look at the upcoming Starlink Mini](https://www.starlinkhardware.com/first-look-at-the-upcoming-starlink-mini/)
@@ -9,7 +11,6 @@
 * [2024-06-16, 18:46:15](https://news.ycombinator.com/item?id=40699153) - [Logo: Programming with Turtle Graphics (IBM PC) (1983)](https://archive.org/details/logo-programming-with-turtle-graphics-ibm-pc)
 * [2024-06-16, 18:33:18](https://news.ycombinator.com/item?id=40699079) - [Experts vs. Imitators](https://fs.blog/experts-vs-imitators/)
 * [2024-06-16, 18:20:38](https://news.ycombinator.com/item?id=40699007) - [Japanese Words and Names Sound African. Why? (2022)](https://www.farooqkperogi.com/2022/10/japanese-words-and-names-sound-african.html)
-* [2024-06-16, 18:16:58](https://news.ycombinator.com/item?id=40698990) - [OpenAI and Microsoft Azure to deprecate GPT-4 32K](https://twitter.com/headinthebox/status/1802404482174820398)
 * [2024-06-16, 18:05:02](https://news.ycombinator.com/item?id=40698926) - [How The Economist’s presidential forecast works](https://www.economist.com/interactive/us-2024-election/prediction-model/president/how-this-works)
 * [2024-06-16, 18:02:42](https://news.ycombinator.com/item?id=40698906) - [Why Structure and Interpretation of Computer Programs Matters](https://people.eecs.berkeley.edu/~bh/sicp.html)
 * [2024-06-16, 17:07:56](https://news.ycombinator.com/item?id=40698536) - [I've compared nearly all Rust crates.io crates to contents of their Git repos](https://mastodon.social/@kornel/112626463128422583)
@@ -19,7 +20,6 @@
 * [2024-06-16, 15:38:03](https://news.ycombinator.com/item?id=40697831) - [The Raspberry Pi 5 Is No Match for a Tini-Mini-Micro PC](https://louwrentius.com/the-raspberry-pi-5-is-no-match-for-a-tini-mini-micro-pc.html)
 * [2024-06-16, 09:39:52](https://news.ycombinator.com/item?id=40695839) - [Simple sabotage for software (2023)](https://erikbern.com/2023/12/13/simple-sabotage-for-software.html)
 * [2024-06-16, 09:32:38](https://news.ycombinator.com/item?id=40695814) - [The History of DR DOS](https://www.abortretry.fail/p/the-history-of-dr-dos)
-* [2024-06-16, 06:51:25](https://news.ycombinator.com/item?id=40695165) - [Making my first embedded Linux system](https://popovicu.com/posts/making-my-first-embedded-linux-system/)
 * [2024-06-16, 05:17:41](https://news.ycombinator.com/item?id=40694854) - [Do you still count on your fingers?](https://thonyc.wordpress.com/2024/06/13/do-you-still-count-on-your-fingers/)
 * [2024-06-16, 05:13:56](https://news.ycombinator.com/item?id=40694837) - [The Theft of the Ghent Altarpiece](https://www.historytoday.com/archive/missing-pieces/theft-ghent-altarpiece)
 * [2024-06-16, 04:39:58](https://news.ycombinator.com/item?id=40694726) - [From Fire Hazards to Family Trees: The Sanborn Fire Insurance Maps](https://publicdomainreview.org/essay/sanborn-fire-insurance-maps/)

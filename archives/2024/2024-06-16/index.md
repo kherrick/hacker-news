@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-16](index.md)
 
+* [2024-06-16, 21:39:18](https://news.ycombinator.com/item?id=40700343) - [Show HN: SQLite Database Explorer](https://github.com/frectonz/sqlite-studio)
+* [2024-06-16, 21:29:04](https://news.ycombinator.com/item?id=40700259) - [NumPy 2.0 Is Released](https://numpy.org/news/)
 * [2024-06-16, 21:01:34](https://news.ycombinator.com/item?id=40700076) - [ChatGPT Is Bullshit](https://www.researchgate.net/publication/381278855_ChatGPT_is_bullshit)
 * [2024-06-16, 20:59:12](https://news.ycombinator.com/item?id=40700066) - [Sam Bankman-Fried funded a group with racist ties. FTX wants its $5M back](https://www.theguardian.com/technology/article/2024/jun/16/sam-bankman-fried-ftx-eugenics-scientific-racism)
 * [2024-06-16, 20:31:16](https://news.ycombinator.com/item?id=40699858) - [Agile Dating: A Less Painful Way to Date](https://jessicafan.substack.com/p/agile-dating-a-less-painful-way-to)
