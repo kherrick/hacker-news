@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-16, 03:16:50](https://news.ycombinator.com/item?id=40694432) - [Why Government Unions–Unlike Trade Unions–Corrupt Democracy](https://time.com/6267979/government-unions-corrupt-democracy/)
 * [2024-06-16, 02:26:55](https://news.ycombinator.com/item?id=40694254) - [Show HN: We Made The World's Smallest and Cheapest Network Switch](https://docs.murexrobotics.com/elec/boards/networking/switch)
 * [2024-06-16, 00:42:05](https://news.ycombinator.com/item?id=40693787) - [A collection of 2,299 blogs about every topic](https://ooh.directory/)
 * [2024-06-15, 23:26:20](https://news.ycombinator.com/item?id=40693451) - [Google, Cloudflare and Cisco will poison DNS to stop piracy block circumvention](https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/)
@@ -22,6 +21,7 @@
 * [2024-06-15, 13:42:08](https://news.ycombinator.com/item?id=40689750) - [Address Sanitizer Internals](https://blog.gistre.epita.fr/posts/benjamin.peter-2022-10-28-address_sanitizer_internals/)
 * [2024-06-15, 12:13:43](https://news.ycombinator.com/item?id=40689296) - [Threescaper: A website for loading Townscaper models into Three.js](https://github.com/meliharvey/threescaper)
 * [2024-06-15, 10:20:16](https://news.ycombinator.com/item?id=40688771) - [Ernest Shackleton's Last Ship, Quest, Discovered Off the Coast of Canada](https://www.smithsonianmag.com/smart-news/ernest-shackletons-last-ship-quest-discovered-off-the-coast-of-canada-180984545/)
+* [2024-06-15, 09:59:48](https://news.ycombinator.com/item?id=40688695) - [Is there an algorithm as beautiful as a poem?](https://tblm.substack.com/p/as-lovely-as-a-tree)
 * [2024-06-15, 09:11:13](https://news.ycombinator.com/item?id=40688505) - ['The big problem is water': UK ebike owners plagued by failing motors](https://www.theguardian.com/lifeandstyle/article/2024/jun/15/the-big-problem-is-water-uk-ebike-owners-plagued-by-failing-motors)
 * [2024-06-15, 05:41:06](https://news.ycombinator.com/item?id=40687751) - [VVVV – A hybrid visual/textual development environment for .NET](https://visualprogramming.net/)
 * [2024-06-15, 05:12:45](https://news.ycombinator.com/item?id=40687660) - [Voyager 1 is back online: NASA spacecraft returns data from all 4 instruments](https://www.space.com/voyager-1-fully-operational)

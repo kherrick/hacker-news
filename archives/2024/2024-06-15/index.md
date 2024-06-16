@@ -59,6 +59,7 @@
 * [2024-06-15, 10:20:16](https://news.ycombinator.com/item?id=40688771) - [Ernest Shackleton's Last Ship, Quest, Discovered Off the Coast of Canada](https://www.smithsonianmag.com/smart-news/ernest-shackletons-last-ship-quest-discovered-off-the-coast-of-canada-180984545/)
 * [2024-06-15, 10:17:16](https://news.ycombinator.com/item?id=40688761) - [Nigerian faces up to 102 years in the slammer for $1.5M phishing scam](https://www.theregister.com/2024/06/14/phishing_scam_conviction/)
 * [2024-06-15, 10:05:17](https://news.ycombinator.com/item?id=40688714) - [Britain's 'Pompeii': UK's Largest Bronze Age Find](https://www.bbc.com/news/articles/cx8q32rj2yjo)
+* [2024-06-15, 09:59:48](https://news.ycombinator.com/item?id=40688695) - [Is there an algorithm as beautiful as a poem?](https://tblm.substack.com/p/as-lovely-as-a-tree)
 * [2024-06-15, 09:56:14](https://news.ycombinator.com/item?id=40688676) - [Nvidia open source LLM Nemotron 4 340B at top of the charts [pdf]](https://d1qx31qr3h6wln.cloudfront.net/publications/Nemotron_4_340B_8T_0.pdf)
 * [2024-06-15, 09:53:29](https://news.ycombinator.com/item?id=40688666) - [Information Security: \"We Can Do It, We Just Choose Not To\"](https://www.hezmatt.org/~mpalmer/blog/2024/06/14/information-security-we-can-do-it-right-we-choose-not-to.html)
 * [2024-06-15, 09:11:13](https://news.ycombinator.com/item?id=40688505) - ['The big problem is water': UK ebike owners plagued by failing motors](https://www.theguardian.com/lifeandstyle/article/2024/jun/15/the-big-problem-is-water-uk-ebike-owners-plagued-by-failing-motors)
