@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-16](index.md)
 
+* [2024-06-16, 13:10:15](https://news.ycombinator.com/item?id=40696788) - [TerraPower's Natrium: A Fast Neutron Reactor with Built-In Grid Level Storage](https://hackaday.com/2021/07/06/terrapowers-natrium-combining-a-fast-neutron-reactor-with-built-in-grid-level-storage/)
+* [2024-06-16, 12:26:33](https://news.ycombinator.com/item?id=40696539) - [Flesh-Eating Bacteria That Can Kill in Two Days Spreads in Japan](https://www.bloomberg.com/news/articles/2024-06-15/flesh-eating-bacteria-that-can-kill-in-two-days-spreads-in-japan)
 * [2024-06-16, 11:04:56](https://news.ycombinator.com/item?id=40696158) - ['Nemotron-4 340B' model redefines synthetic data generation, rivals GPT-4](https://venturebeat.com/ai/nvidias-nemotron-4-340b-model-redefines-synthetic-data-generation-rivals-gpt-4/)
 * [2024-06-16, 10:52:13](https://news.ycombinator.com/item?id=40696110) - [Ask HN: Best way to remove CO2 in a bedroom?](https://news.ycombinator.com/item?id=40696110)
 * [2024-06-16, 10:45:46](https://news.ycombinator.com/item?id=40696077) - [Post Office scandal victims in Scotland have convictions quashed](https://www.computerweekly.com/news/366588932/Post-Office-scandal-victims-in-Scotland-have-convictions-quashed)
