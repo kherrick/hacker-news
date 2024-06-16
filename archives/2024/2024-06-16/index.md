@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-16](index.md)
 
 * [2024-06-16, 20:02:47](https://news.ycombinator.com/item?id=40699684) - [MicroMac, a Macintosh for Under £5](https://axio.ms/projects/2024/06/16/MicroMac.html)
+* [2024-06-16, 19:32:23](https://news.ycombinator.com/item?id=40699470) - [NumPy 2.0.0](https://pypi.org/project/numpy/)
 * [2024-06-16, 19:30:30](https://news.ycombinator.com/item?id=40699459) - [Quake 1 potential original font](https://cohost.org/bekoha/post/2859948-quake-1-potential-or)
 * [2024-06-16, 19:05:04](https://news.ycombinator.com/item?id=40699278) - [Show HN: Searchable Kubernetes CSI provider listing](https://storageclass.info/storageclasses/)
 * [2024-06-16, 18:46:15](https://news.ycombinator.com/item?id=40699153) - [Logo: Programming with Turtle Graphics (IBM PC) (1983)](https://archive.org/details/logo-programming-with-turtle-graphics-ibm-pc)
@@ -52,6 +53,7 @@
 * [2024-06-16, 05:13:56](https://news.ycombinator.com/item?id=40694837) - [The Theft of the Ghent Altarpiece](https://www.historytoday.com/archive/missing-pieces/theft-ghent-altarpiece)
 * [2024-06-16, 05:05:43](https://news.ycombinator.com/item?id=40694805) - [Show HN: Paste2Download – No Login, No Ads, Download Videos Watermark Free](https://www.paste2download.com/)
 * [2024-06-16, 04:52:12](https://news.ycombinator.com/item?id=40694768) - [What You Get After Running an SSH Honeypot for 30 Days](https://blog.sofiane.cc/ssh_honeypot/)
+* [2024-06-16, 04:39:58](https://news.ycombinator.com/item?id=40694726) - [From Fire Hazards to Family Trees: The Sanborn Fire Insurance Maps](https://publicdomainreview.org/essay/sanborn-fire-insurance-maps/)
 * [2024-06-16, 04:08:19](https://news.ycombinator.com/item?id=40694616) - [Doom for SNES full source code released by former Sculptured Software employee](https://gbatemp.net/threads/doom-for-snes-full-source-code-released-by-former-sculptured-software-employees.657118/)
 * [2024-06-16, 03:16:50](https://news.ycombinator.com/item?id=40694432) - [Why Government Unions–Unlike Trade Unions–Corrupt Democracy](https://time.com/6267979/government-unions-corrupt-democracy/)
 * [2024-06-16, 03:04:31](https://news.ycombinator.com/item?id=40694375) - [Highly realistic talking head video generation](https://github.com/fudan-generative-vision/hallo)
