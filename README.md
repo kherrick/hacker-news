@@ -2,6 +2,7 @@
 
 * [2024-06-16, 02:26:55](https://news.ycombinator.com/item?id=40694254) - [Show HN: We Made The World's Smallest and Cheapest Network Switch](https://docs.murexrobotics.com/elec/boards/networking/switch)
 * [2024-06-16, 01:51:54](https://news.ycombinator.com/item?id=40694103) - [The Architecture Behind a One-Person Tech Startup](https://anthonynsimon.com/blog/one-man-saas-architecture/)
+* [2024-06-16, 01:12:38](https://news.ycombinator.com/item?id=40693944) - [SimCity in the web browser using WebAssembly and OpenGL](https://micropolisweb.com/)
 * [2024-06-15, 23:26:20](https://news.ycombinator.com/item?id=40693451) - [Google, Cloudflare and Cisco will poison DNS to stop piracy block circumvention](https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/)
 * [2024-06-15, 21:06:07](https://news.ycombinator.com/item?id=40692698) - [Why you shouldn't parse the output of ls(1)](https://mywiki.wooledge.org/ParsingLs)
 * [2024-06-15, 20:37:28](https://news.ycombinator.com/item?id=40692535) - [Reverse engineering a restaurant pager system](https://k3xec.com/td158/)
@@ -26,7 +27,6 @@
 * [2024-06-15, 05:12:45](https://news.ycombinator.com/item?id=40687660) - [Voyager 1 is back online: NASA spacecraft returns data from all 4 instruments](https://www.space.com/voyager-1-fully-operational)
 * [2024-06-15, 01:20:21](https://news.ycombinator.com/item?id=40686728) - [Topological Problems in Voting](https://www.ryantolsma.com/thoughts/2024/06/14/topological-voting.html)
 * [2024-06-14, 21:28:25](https://news.ycombinator.com/item?id=40685316) - [Martin Amis and the pursuit of pleasure](https://www.newstatesman.com/culture/books/2024/06/martin-amis-and-the-pursuit-of-pleasure)
-* [2024-06-14, 18:51:58](https://news.ycombinator.com/item?id=40683747) - [Is This the First Nintendo Commercial?](https://gamehistory.org/mego-time-out-commercial/)
 * [2024-06-14, 17:34:47](https://news.ycombinator.com/item?id=40682863) - [Leveraging Zig's Allocators](https://www.openmymind.net/Leveraging-Zigs-Allocators/)
 * [2024-06-13, 22:44:20](https://news.ycombinator.com/item?id=40675696) - [How/Why to Sweep Async Tasks Under a Postgres Table [video]](https://www.youtube.com/watch?v=wXXJuz_spcU&list=PLlrxD0HtieHg5ldHlEn3nMMpClX0RUntH&index=29)
 * [2024-06-12, 22:00:10](https://news.ycombinator.com/item?id=40663686) - [Finding New Pastures: Big Nerd Ranch's Next Chapter](https://bignerdranch.com/blog/finding-new-pastures-big-nerd-ranchs-next-chapter/)
