@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-06-15, 23:45:59",
-      "https://news.ycombinator.com/item?id=40693524"
+      "2024-06-15, 23:26:20",
+      "https://news.ycombinator.com/item?id=40693451"
     ],
     [
-      "North Dakota voters just approved an age limit for congressional candidates",
-      "https://apnews.com/article/north-dakota-congressional-candidates-age-limit-b9ffa598e76bf1dd440b3fb8efd4c33b"
+      "Cloudflare Will Poison DNS to Stop Piracy Block Circumvention",
+      "https://torrentfreak.com/google-cloudflare-cisco-will-poison-dns-to-stop-piracy-block-circumvention-240613/"
+    ]
+  ],
+  [
+    [
+      "2024-06-15, 22:46:35",
+      "https://news.ycombinator.com/item?id=40693264"
+    ],
+    [
+      "Reformatting 100k Files at Google in 2011",
+      "https://laurent.le-brun.eu/blog/the-story-of-reformatting-100k-files-at-google-in-2011"
     ]
   ],
   [
@@ -21,11 +31,21 @@
   ],
   [
     [
+      "2024-06-15, 21:06:07",
+      "https://news.ycombinator.com/item?id=40692698"
+    ],
+    [
+      "Why you shouldn't parse the output of ls(1)",
+      "https://mywiki.wooledge.org/ParsingLs"
+    ]
+  ],
+  [
+    [
       "2024-06-15, 20:37:28",
       "https://news.ycombinator.com/item?id=40692535"
     ],
     [
-      "Reverse Engineering a Restaurant Pager System",
+      "Reverse engineering a restaurant pager system",
       "https://k3xec.com/td158/"
     ]
   ],
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2024-06-15, 18:44:37",
-      "https://news.ycombinator.com/item?id=40691792"
-    ],
-    [
-      "Ask HN: Do You Have a Copy of IBM \"Logo: Programming with Turtle Graphics\"?",
-      "https://news.ycombinator.com/item?id=40691792"
-    ]
-  ],
-  [
-    [
       "2024-06-15, 18:34:30",
       "https://news.ycombinator.com/item?id=40691706"
     ],
@@ -105,7 +115,7 @@
       "https://news.ycombinator.com/item?id=40691133"
     ],
     [
-      "Two announcements: AI for Math resources, and erdosproblems.com",
+      "AI for math resources, and erdosproblems.com",
       "https://terrytao.wordpress.com/2024/04/19/two-announcements-ai-for-math-resources-and-erdosproblems-com/"
     ]
   ],
@@ -127,16 +137,6 @@
     [
       "Show HN: Keydogger – Minimal keyboard macro for Linux (Wayland)",
       "https://github.com/jarusll/keydogger"
-    ]
-  ],
-  [
-    [
-      "2024-06-15, 16:48:13",
-      "https://news.ycombinator.com/item?id=40690898"
-    ],
-    [
-      "Perplexity AI is lying about their user agent",
-      "https://rknight.me/blog/perplexity-ai-is-lying-about-its-user-agent/"
     ]
   ],
   [
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2024-06-14, 18:51:58",
-      "https://news.ycombinator.com/item?id=40683747"
-    ],
-    [
-      "Is This the First Nintendo Commercial?",
-      "https://gamehistory.org/mego-time-out-commercial/"
-    ]
-  ],
-  [
-    [
       "2024-06-14, 17:34:47",
       "https://news.ycombinator.com/item?id=40682863"
     ],
     [
       "Leveraging Zig's Allocators",
       "https://www.openmymind.net/Leveraging-Zigs-Allocators/"
+    ]
+  ],
+  [
+    [
+      "2024-06-14, 12:53:07",
+      "https://news.ycombinator.com/item?id=40680446"
+    ],
+    [
+      "Observable Framework 1.9",
+      "https://github.com/observablehq/framework/releases/tag/v1.9.0"
     ]
   ],
   [
