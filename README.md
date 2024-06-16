@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-16, 13:40:26](https://news.ycombinator.com/item?id=40696992) - [NLRB Judge Declares Non-Compete Clause Is an Unfair Labor Practice](https://www.nlrbedge.com/p/in-first-case-of-its-kind-nlrb-judge)
+* [2024-06-16, 13:36:05](https://news.ycombinator.com/item?id=40696959) - [Is there ever a good reason to disable swap?](https://news.ycombinator.com/item?id=40696959)
 * [2024-06-16, 13:10:15](https://news.ycombinator.com/item?id=40696788) - [TerraPower's Natrium: A Fast Neutron Reactor with Built-In Grid Level Storage](https://hackaday.com/2021/07/06/terrapowers-natrium-combining-a-fast-neutron-reactor-with-built-in-grid-level-storage/)
-* [2024-06-16, 13:03:26](https://news.ycombinator.com/item?id=40696743) - [Tesla Cybertruck deliveries halted amid problem with giant windshield wiper](https://electrek.co/2024/06/15/tesla-cybertruck-deliveries-halted-amid-problem-giant-windshield-wiper/)
 * [2024-06-16, 12:26:33](https://news.ycombinator.com/item?id=40696539) - [Flesh-Eating Bacteria That Can Kill in Two Days Spreads in Japan](https://www.bloomberg.com/news/articles/2024-06-15/flesh-eating-bacteria-that-can-kill-in-two-days-spreads-in-japan)
 * [2024-06-16, 11:53:34](https://news.ycombinator.com/item?id=40696384) - [Insider view on how AMD lost the GPU oppty](https://twitter.com/MohapatraHemant/status/1285234687267356672)
-* [2024-06-16, 11:04:56](https://news.ycombinator.com/item?id=40696158) - ['Nemotron-4 340B' model redefines synthetic data generation, rivals GPT-4](https://venturebeat.com/ai/nvidias-nemotron-4-340b-model-redefines-synthetic-data-generation-rivals-gpt-4/)
 * [2024-06-16, 10:27:23](https://news.ycombinator.com/item?id=40695997) - [Do not try to be the smartest in the room; try to be the kindest](https://www.jorgegalindo.me/en/blog/posts/do-not-be-the-smartest-in-the-room-try-to-be-the-kindest)
 * [2024-06-16, 10:09:01](https://news.ycombinator.com/item?id=40695941) - [Voyager Spacecraft and Fortran 5](http://www.geonius.com/writing/other/voyager.html)
 * [2024-06-16, 09:39:52](https://news.ycombinator.com/item?id=40695839) - [Simple sabotage for software (2023)](https://erikbern.com/2023/12/13/simple-sabotage-for-software.html)
