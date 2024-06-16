@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-16, 17:19:17](https://news.ycombinator.com/item?id=40698610) - [The Banana Pi M7](https://taoofmac.com/space/blog/2024/06/16/1800)
 * [2024-06-16, 17:07:56](https://news.ycombinator.com/item?id=40698536) - [I've compared nearly all Rust crates.io crates to contents of their Git repos](https://mastodon.social/@kornel/112626463128422583)
 * [2024-06-16, 17:01:09](https://news.ycombinator.com/item?id=40698487) - [Lago (Open Source Usage Based Billing) Is Hiring a Head of Finance (SF)](https://jobs.lever.co/getlago/5f75502e-ecc5-4660-a2ad-e66f91e81e59)
 * [2024-06-16, 16:55:31](https://news.ycombinator.com/item?id=40698442) - [Building SimCity: How to Put the World in a Machine (MIT Press, 2024)](https://mitpress.mit.edu/9780262547482/building-simcity/)
@@ -24,12 +25,11 @@
 * [2024-06-15, 19:02:38](https://news.ycombinator.com/item?id=40691929) - [Just Enough Software Architecture (2010)](https://www.georgefairbanks.com/book/)
 * [2024-06-15, 17:10:57](https://news.ycombinator.com/item?id=40691042) - [ESASky](https://sky.esa.int/esasky/)
 * [2024-06-15, 12:25:42](https://news.ycombinator.com/item?id=40689341) - [Using a 1965 Dutch Rotary Phone via VoIP (T65) in 2024](https://raymii.org/s/blog/Using_a_1965_Dutch_Rotaty_Phone_T65_via_VoIP_in_2024.html)
-* [2024-06-15, 11:07:54](https://news.ycombinator.com/item?id=40688975) - [Sharing wildlife sounds from all over the world](https://xeno-canto.org/)
 * [2024-06-15, 10:20:16](https://news.ycombinator.com/item?id=40688771) - [Ernest Shackleton's Last Ship, Quest, Discovered Off the Coast of Canada](https://www.smithsonianmag.com/smart-news/ernest-shackletons-last-ship-quest-discovered-off-the-coast-of-canada-180984545/)
 * [2024-06-15, 08:44:27](https://news.ycombinator.com/item?id=40688403) - [Building an O2 concentrator for welding and vacuum tube work](https://www.nickpoole.me/2024/06/01/building-an-oxikit-o2-concentrator-part-2/)
 * [2024-06-15, 08:23:12](https://news.ycombinator.com/item?id=40688311) - [PaperTapeReader: A DIY reader for vintage 8-bit paper tapes](https://github.com/dhansel/PaperTapeReader)
 * [2024-06-15, 06:10:31](https://news.ycombinator.com/item?id=40687840) - [Sales happen when buyers fear missing out](https://tidyfirst.substack.com/p/sales-happen-when-buyers-fear-missing)
-* [2024-06-15, 05:41:06](https://news.ycombinator.com/item?id=40687751) - [VVVV – A hybrid visual/textual development environment for .NET](https://visualprogramming.net/)
+* [2024-06-13, 01:30:54](https://news.ycombinator.com/item?id=40665015) - [How to enumerate trees from a context-free grammar](https://arxiv.org/abs/2305.00522)
 
 ## [Archives](archives/index.md)
 
