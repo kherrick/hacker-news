@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-06-16](index.md)
 
+* [2024-06-16, 17:01:09](https://news.ycombinator.com/item?id=40698487) - [Lago (Open Source Usage Based Billing) Is Hiring a Head of Finance (SF)](https://jobs.lever.co/getlago/5f75502e-ecc5-4660-a2ad-e66f91e81e59)
+* [2024-06-16, 16:55:31](https://news.ycombinator.com/item?id=40698442) - [Building SimCity: How to Put the World in a Machine (MIT Press, 2024)](https://mitpress.mit.edu/9780262547482/building-simcity/)
 * [2024-06-16, 16:37:19](https://news.ycombinator.com/item?id=40698307) - [Displaying a QR Code in MicroPython on the Tildagon Badge](https://shkspr.mobi/blog/2024/06/displaying-a-qr-code-in-micropython-on-the-tildagon-badge/)
 * [2024-06-16, 16:16:48](https://news.ycombinator.com/item?id=40698128) - [Unlocking ADMIN ON AT&T 4G-LTE ROUTER](https://thecybersecguru.com/hardware-hacking/unlocking-admin-on-att-4g-lte-router/)
+* [2024-06-16, 15:59:47](https://news.ycombinator.com/item?id=40697992) - [Packaging Swift Apps for Alpine Linux](https://mko.re/blog/swift-alpine-packaging/)
 * [2024-06-16, 15:38:03](https://news.ycombinator.com/item?id=40697831) - [The Raspberry Pi 5 Is No Match for a Tini-Mini-Micro PC](https://louwrentius.com/the-raspberry-pi-5-is-no-match-for-a-tini-mini-micro-pc.html)
 * [2024-06-16, 15:02:47](https://news.ycombinator.com/item?id=40697591) - [Are animals conscious? How new research is changing minds](https://www.bbc.com/news/articles/cv223z15mpmo)
 * [2024-06-16, 14:13:53](https://news.ycombinator.com/item?id=40697234) - [$20k MRR in one month, Stripe destroyed everything on 1 second](https://twitter.com/theanimeshs/status/1801967433827451322)
