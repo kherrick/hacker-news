@@ -49,6 +49,7 @@
 * [2024-06-15, 13:20:37](https://news.ycombinator.com/item?id=40689629) - [Ventoy: Remove BLOBs from the Source Tree](https://github.com/ventoy/Ventoy/issues/2795)
 * [2024-06-15, 13:17:42](https://news.ycombinator.com/item?id=40689613) - [Denmark recalls Korean ramen for being too spicy](https://marginalrevolution.com/marginalrevolution/2024/06/denmark-recalls-korean-ramen-for-being-too-spicy.html)
 * [2024-06-15, 12:46:17](https://news.ycombinator.com/item?id=40689449) - [Go is more than a language; Go is a platform](https://eltonminetto.dev/en/post/2024-06-12-go-is-a-plataform/)
+* [2024-06-15, 12:25:42](https://news.ycombinator.com/item?id=40689341) - [Using a 1965 Dutch Rotary Phone via VoIP (T65) in 2024](https://raymii.org/s/blog/Using_a_1965_Dutch_Rotaty_Phone_T65_via_VoIP_in_2024.html)
 * [2024-06-15, 12:25:12](https://news.ycombinator.com/item?id=40689338) - [Can Language Models Serve as Text-Based World Simulators?](https://arxiv.org/abs/2406.06485)
 * [2024-06-15, 12:13:43](https://news.ycombinator.com/item?id=40689296) - [Threescaper: A website for loading Townscaper models into Three.js](https://github.com/meliharvey/threescaper)
 * [2024-06-15, 12:01:07](https://news.ycombinator.com/item?id=40689234) - [Nango (YC W23) Is Hiring a Senior Product Engineer (100% Remote)](https://www.nango.dev/jobs)
