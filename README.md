@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-16, 02:26:55](https://news.ycombinator.com/item?id=40694254) - [Show HN: We Made The World's Smallest and Cheapest Network Switch](https://docs.murexrobotics.com/elec/boards/networking/switch)
 * [2024-06-16, 00:42:05](https://news.ycombinator.com/item?id=40693787) - [A collection of 2,299 blogs about every topic](https://ooh.directory/)
 * [2024-06-15, 22:46:35](https://news.ycombinator.com/item?id=40693264) - [Reformatting 100k Files at Google in 2011](https://laurent.le-brun.eu/blog/the-story-of-reformatting-100k-files-at-google-in-2011)
 * [2024-06-15, 21:54:02](https://news.ycombinator.com/item?id=40692970) - [Ollama v0.1.45](https://github.com/ollama/ollama/releases/tag/v0.1.45-rc1)
@@ -26,7 +27,6 @@
 * [2024-06-14, 21:28:25](https://news.ycombinator.com/item?id=40685316) - [Martin Amis and the pursuit of pleasure](https://www.newstatesman.com/culture/books/2024/06/martin-amis-and-the-pursuit-of-pleasure)
 * [2024-06-14, 18:51:58](https://news.ycombinator.com/item?id=40683747) - [Is This the First Nintendo Commercial?](https://gamehistory.org/mego-time-out-commercial/)
 * [2024-06-14, 17:34:47](https://news.ycombinator.com/item?id=40682863) - [Leveraging Zig's Allocators](https://www.openmymind.net/Leveraging-Zigs-Allocators/)
-* [2024-06-14, 12:53:07](https://news.ycombinator.com/item?id=40680446) - [Observable Framework 1.9](https://github.com/observablehq/framework/releases/tag/v1.9.0)
 * [2024-06-13, 22:44:20](https://news.ycombinator.com/item?id=40675696) - [How/Why to Sweep Async Tasks Under a Postgres Table [video]](https://www.youtube.com/watch?v=wXXJuz_spcU&list=PLlrxD0HtieHg5ldHlEn3nMMpClX0RUntH&index=29)
 * [2024-06-12, 22:00:10](https://news.ycombinator.com/item?id=40663686) - [Finding New Pastures: Big Nerd Ranch's Next Chapter](https://bignerdranch.com/blog/finding-new-pastures-big-nerd-ranchs-next-chapter/)
 * [2024-06-12, 01:11:44](https://news.ycombinator.com/item?id=40653454) - [Some early results for feed reader behavior monitoring](http://rachelbythebay.com/w/2024/06/11/fsr/)
