@@ -10,6 +10,7 @@
 * [2024-06-14, 22:13:38](https://news.ycombinator.com/item?id=40685644) - [Snowden: \"They've gone full mask-off: do not ever trust OpenAI or its products\"](https://twitter.com/Snowden/status/1801610725229498403)
 * [2024-06-14, 21:28:25](https://news.ycombinator.com/item?id=40685316) - [Martin Amis and the Pursuit of Pleasure](https://www.newstatesman.com/culture/books/2024/06/martin-amis-and-the-pursuit-of-pleasure)
 * [2024-06-14, 21:20:37](https://news.ycombinator.com/item?id=40685254) - [Spaced repetition for teaching two-year olds how to read](https://chrislakin.blog/p/spaced-repetition-for-teaching-two)
+* [2024-06-14, 21:10:41](https://news.ycombinator.com/item?id=40685173) - [Sequential Search, Correctly](http://siek.blogspot.com/2024/06/sequential-search-correctly.html)
 * [2024-06-14, 20:42:03](https://news.ycombinator.com/item?id=40684901) - [Exponentially Better Rotations](http://thenumb.at/Exponential-Rotations/)
 * [2024-06-14, 20:11:48](https://news.ycombinator.com/item?id=40684608) - [The first 'major lunar standstill' in more than 18 years is about to occur](https://www.livescience.com/space/the-moon/the-1st-major-lunar-standstill-in-more-than-18-years-is-about-to-occur-heres-how-to-see-it)
 * [2024-06-14, 20:07:27](https://news.ycombinator.com/item?id=40684560) - [Southwest Plane Plunged Within 400 Feet of Ocean Near Hawaii](https://www.bloomberg.com/news/articles/2024-06-14/southwest-plane-plunges-within-400-feet-of-ocean-near-hawaii)
