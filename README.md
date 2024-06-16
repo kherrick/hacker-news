@@ -1,8 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-16, 11:04:56](https://news.ycombinator.com/item?id=40696158) - ['Nemotron-4 340B' model redefines synthetic data generation, rivals GPT-4](https://venturebeat.com/ai/nvidias-nemotron-4-340b-model-redefines-synthetic-data-generation-rivals-gpt-4/)
 * [2024-06-16, 10:52:13](https://news.ycombinator.com/item?id=40696110) - [Ask HN: Best way to remove CO2 in a bedroom?](https://news.ycombinator.com/item?id=40696110)
 * [2024-06-16, 10:45:46](https://news.ycombinator.com/item?id=40696077) - [Post Office scandal victims in Scotland have convictions quashed](https://www.computerweekly.com/news/366588932/Post-Office-scandal-victims-in-Scotland-have-convictions-quashed)
+* [2024-06-16, 10:09:01](https://news.ycombinator.com/item?id=40695941) - [Voyager Spacecraft and Fortran 5](http://www.geonius.com/writing/other/voyager.html)
 * [2024-06-16, 09:39:52](https://news.ycombinator.com/item?id=40695839) - [Simple sabotage for software (2023)](https://erikbern.com/2023/12/13/simple-sabotage-for-software.html)
+* [2024-06-16, 09:32:38](https://news.ycombinator.com/item?id=40695814) - [The History of DR DOS](https://www.abortretry.fail/p/the-history-of-dr-dos)
+* [2024-06-16, 09:28:15](https://news.ycombinator.com/item?id=40695795) - [The 286's internal registers (2022)](https://rep-lodsb.mataroa.blog/blog/the-286s-internal-registers/)
 * [2024-06-16, 09:00:32](https://news.ycombinator.com/item?id=40695679) - [Ask HN: Freelancers, how do you get work?](https://news.ycombinator.com/item?id=40695679)
 * [2024-06-16, 08:43:42](https://news.ycombinator.com/item?id=40695628) - [Htmd: A turndown.js inspired HTML-to-Markdown converter for Rust](https://github.com/letmutex/htmd)
 * [2024-06-16, 06:51:25](https://news.ycombinator.com/item?id=40695165) - [Making my first embedded Linux system](https://popovicu.com/posts/making-my-first-embedded-linux-system/)
@@ -23,13 +27,9 @@
 * [2024-06-15, 11:07:54](https://news.ycombinator.com/item?id=40688975) - [Sharing wildlife sounds from all over the world](https://xeno-canto.org/)
 * [2024-06-15, 10:56:17](https://news.ycombinator.com/item?id=40688921) - [Hokusai's 'Great Wave' features on new Japanese banknotes (2019)](https://www.cnn.com/style/article/japan-new-banknotes-great-wave/index.html)
 * [2024-06-15, 10:20:16](https://news.ycombinator.com/item?id=40688771) - [Ernest Shackleton's Last Ship, Quest, Discovered Off the Coast of Canada](https://www.smithsonianmag.com/smart-news/ernest-shackletons-last-ship-quest-discovered-off-the-coast-of-canada-180984545/)
-* [2024-06-15, 09:11:13](https://news.ycombinator.com/item?id=40688505) - ['The big problem is water': UK ebike owners plagued by failing motors](https://www.theguardian.com/lifeandstyle/article/2024/jun/15/the-big-problem-is-water-uk-ebike-owners-plagued-by-failing-motors)
 * [2024-06-15, 08:44:27](https://news.ycombinator.com/item?id=40688403) - [Building an O2 concentrator for welding and vacuum tube work](https://www.nickpoole.me/2024/06/01/building-an-oxikit-o2-concentrator-part-2/)
-* [2024-06-15, 07:39:41](https://news.ycombinator.com/item?id=40688138) - [A brief history of Mac enclaves and exclaves](https://eclecticlight.co/2024/06/15/a-brief-history-of-mac-enclaves-and-exclaves/)
 * [2024-06-15, 06:50:16](https://news.ycombinator.com/item?id=40687952) - [When to Write a Simulator (2021)](https://sirupsen.com/napkin/problem-16-simulation)
 * [2024-06-15, 05:41:06](https://news.ycombinator.com/item?id=40687751) - [VVVV – A hybrid visual/textual development environment for .NET](https://visualprogramming.net/)
-* [2024-06-15, 01:20:21](https://news.ycombinator.com/item?id=40686728) - [Topological Problems in Voting](https://www.ryantolsma.com/thoughts/2024/06/14/topological-voting.html)
-* [2024-06-14, 21:10:41](https://news.ycombinator.com/item?id=40685173) - [Sequential Search, Correctly](http://siek.blogspot.com/2024/06/sequential-search-correctly.html)
 
 ## [Archives](archives/index.md)
 

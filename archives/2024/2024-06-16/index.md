@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-06-16](index.md)
 
+* [2024-06-16, 11:04:56](https://news.ycombinator.com/item?id=40696158) - ['Nemotron-4 340B' model redefines synthetic data generation, rivals GPT-4](https://venturebeat.com/ai/nvidias-nemotron-4-340b-model-redefines-synthetic-data-generation-rivals-gpt-4/)
 * [2024-06-16, 10:52:13](https://news.ycombinator.com/item?id=40696110) - [Ask HN: Best way to remove CO2 in a bedroom?](https://news.ycombinator.com/item?id=40696110)
 * [2024-06-16, 10:45:46](https://news.ycombinator.com/item?id=40696077) - [Post Office scandal victims in Scotland have convictions quashed](https://www.computerweekly.com/news/366588932/Post-Office-scandal-victims-in-Scotland-have-convictions-quashed)
+* [2024-06-16, 10:09:01](https://news.ycombinator.com/item?id=40695941) - [Voyager Spacecraft and Fortran 5](http://www.geonius.com/writing/other/voyager.html)
 * [2024-06-16, 09:39:52](https://news.ycombinator.com/item?id=40695839) - [Simple Sabotage for Software](https://erikbern.com/2023/12/13/simple-sabotage-for-software.html)
+* [2024-06-16, 09:32:38](https://news.ycombinator.com/item?id=40695814) - [The History of DR DOS](https://www.abortretry.fail/p/the-history-of-dr-dos)
+* [2024-06-16, 09:28:15](https://news.ycombinator.com/item?id=40695795) - [The 286's internal registers (2022)](https://rep-lodsb.mataroa.blog/blog/the-286s-internal-registers/)
 * [2024-06-16, 09:17:56](https://news.ycombinator.com/item?id=40695754) - [European Alternatives](https://european-alternatives.eu)
 * [2024-06-16, 09:00:32](https://news.ycombinator.com/item?id=40695679) - [Ask HN: Freelancers, how do you get work?](https://news.ycombinator.com/item?id=40695679)
 * [2024-06-16, 08:43:42](https://news.ycombinator.com/item?id=40695628) - [Htmd: A turndown.js inspired HTML-to-Markdown converter for Rust](https://github.com/letmutex/htmd)
