@@ -2,6 +2,7 @@
 
 * [2024-06-16, 15:38:03](https://news.ycombinator.com/item?id=40697831) - [The Raspberry Pi 5 Is No Match for a Tini-Mini-Micro PC](https://louwrentius.com/the-raspberry-pi-5-is-no-match-for-a-tini-mini-micro-pc.html)
 * [2024-06-16, 15:02:47](https://news.ycombinator.com/item?id=40697591) - [Are animals conscious? How new research is changing minds](https://www.bbc.com/news/articles/cv223z15mpmo)
+* [2024-06-16, 14:13:53](https://news.ycombinator.com/item?id=40697234) - [$20k MRR in one month, Stripe destroyed everything on 1 second](https://twitter.com/theanimeshs/status/1801967433827451322)
 * [2024-06-16, 13:40:26](https://news.ycombinator.com/item?id=40696992) - [NLRB judge declares non-compete clause is an unfair labor practice](https://www.nlrbedge.com/p/in-first-case-of-its-kind-nlrb-judge)
 * [2024-06-16, 13:10:15](https://news.ycombinator.com/item?id=40696788) - [TerraPower's Natrium: A Fast Neutron Reactor with Built-In Grid Level Storage](https://hackaday.com/2021/07/06/terrapowers-natrium-combining-a-fast-neutron-reactor-with-built-in-grid-level-storage/)
 * [2024-06-16, 12:26:33](https://news.ycombinator.com/item?id=40696539) - [Flesh-Eating Bacteria That Can Kill in Two Days Spreads in Japan](https://www.bloomberg.com/news/articles/2024-06-15/flesh-eating-bacteria-that-can-kill-in-two-days-spreads-in-japan)
@@ -21,7 +22,6 @@
 * [2024-06-16, 02:26:55](https://news.ycombinator.com/item?id=40694254) - [Show HN: We Made The World's Smallest and Cheapest Network Switch](https://docs.murexrobotics.com/elec/boards/networking/switch)
 * [2024-06-16, 01:51:54](https://news.ycombinator.com/item?id=40694103) - [The Architecture Behind a One-Person Tech Startup (2021)](https://anthonynsimon.com/blog/one-man-saas-architecture/)
 * [2024-06-16, 01:12:38](https://news.ycombinator.com/item?id=40693944) - [SimCity in the web browser using WebAssembly and OpenGL](https://micropolisweb.com/)
-* [2024-06-15, 20:37:28](https://news.ycombinator.com/item?id=40692535) - [Reverse engineering a restaurant pager system](https://k3xec.com/td158/)
 * [2024-06-15, 19:02:38](https://news.ycombinator.com/item?id=40691929) - [Just Enough Software Architecture (2010)](https://www.georgefairbanks.com/book/)
 * [2024-06-15, 17:10:57](https://news.ycombinator.com/item?id=40691042) - [ESASky](https://sky.esa.int/esasky/)
 * [2024-06-15, 11:07:54](https://news.ycombinator.com/item?id=40688975) - [Sharing wildlife sounds from all over the world](https://xeno-canto.org/)

@@ -6,6 +6,7 @@
 
 * [2024-06-16, 15:38:03](https://news.ycombinator.com/item?id=40697831) - [The Raspberry Pi 5 Is No Match for a Tini-Mini-Micro PC](https://louwrentius.com/the-raspberry-pi-5-is-no-match-for-a-tini-mini-micro-pc.html)
 * [2024-06-16, 15:02:47](https://news.ycombinator.com/item?id=40697591) - [Are animals conscious? How new research is changing minds](https://www.bbc.com/news/articles/cv223z15mpmo)
+* [2024-06-16, 14:13:53](https://news.ycombinator.com/item?id=40697234) - [$20k MRR in one month, Stripe destroyed everything on 1 second](https://twitter.com/theanimeshs/status/1801967433827451322)
 * [2024-06-16, 13:40:26](https://news.ycombinator.com/item?id=40696992) - [NLRB Judge Declares Non-Compete Clause Is an Unfair Labor Practice](https://www.nlrbedge.com/p/in-first-case-of-its-kind-nlrb-judge)
 * [2024-06-16, 13:36:05](https://news.ycombinator.com/item?id=40696959) - [Is there ever a good reason to disable swap?](https://news.ycombinator.com/item?id=40696959)
 * [2024-06-16, 13:16:40](https://news.ycombinator.com/item?id=40696840) - [Gulf of Mexico Dead Zone](https://www.nature.org/en-us/about-us/where-we-work/priority-landscapes/gulf-of-mexico/stories-in-the-gulf-of-mexico/gulf-of-mexico-dead-zone/)
