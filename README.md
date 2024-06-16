@@ -2,7 +2,6 @@
 
 * [2024-06-16, 13:40:26](https://news.ycombinator.com/item?id=40696992) - [NLRB judge declares non-compete clause is an unfair labor practice](https://www.nlrbedge.com/p/in-first-case-of-its-kind-nlrb-judge)
 * [2024-06-16, 13:36:05](https://news.ycombinator.com/item?id=40696959) - [Is there ever a good reason to disable swap?](https://news.ycombinator.com/item?id=40696959)
-* [2024-06-16, 13:16:40](https://news.ycombinator.com/item?id=40696840) - [Gulf of Mexico Dead Zone](https://www.nature.org/en-us/about-us/where-we-work/priority-landscapes/gulf-of-mexico/stories-in-the-gulf-of-mexico/gulf-of-mexico-dead-zone/)
 * [2024-06-16, 13:10:15](https://news.ycombinator.com/item?id=40696788) - [TerraPower's Natrium: A Fast Neutron Reactor with Built-In Grid Level Storage](https://hackaday.com/2021/07/06/terrapowers-natrium-combining-a-fast-neutron-reactor-with-built-in-grid-level-storage/)
 * [2024-06-16, 12:26:33](https://news.ycombinator.com/item?id=40696539) - [Flesh-Eating Bacteria That Can Kill in Two Days Spreads in Japan](https://www.bloomberg.com/news/articles/2024-06-15/flesh-eating-bacteria-that-can-kill-in-two-days-spreads-in-japan)
 * [2024-06-16, 10:27:23](https://news.ycombinator.com/item?id=40695997) - [Do not try to be the smartest in the room; try to be the kindest](https://www.jorgegalindo.me/en/blog/posts/do-not-be-the-smartest-in-the-room-try-to-be-the-kindest)
@@ -23,6 +22,7 @@
 * [2024-06-15, 20:37:28](https://news.ycombinator.com/item?id=40692535) - [Reverse engineering a restaurant pager system](https://k3xec.com/td158/)
 * [2024-06-15, 19:02:38](https://news.ycombinator.com/item?id=40691929) - [Just Enough Software Architecture (2010)](https://www.georgefairbanks.com/book/)
 * [2024-06-15, 17:10:57](https://news.ycombinator.com/item?id=40691042) - [ESASky](https://sky.esa.int/esasky/)
+* [2024-06-15, 13:43:40](https://news.ycombinator.com/item?id=40689759) - [A most profound video game: a good cognitive aid for research](https://thoughtforms.life/a-most-profound-video-game-a-good-cognitive-aid-for-research-at-the-frontier-of-life-and-mind/)
 * [2024-06-15, 11:07:54](https://news.ycombinator.com/item?id=40688975) - [Sharing wildlife sounds from all over the world](https://xeno-canto.org/)
 * [2024-06-15, 10:20:16](https://news.ycombinator.com/item?id=40688771) - [Ernest Shackleton's Last Ship, Quest, Discovered Off the Coast of Canada](https://www.smithsonianmag.com/smart-news/ernest-shackletons-last-ship-quest-discovered-off-the-coast-of-canada-180984545/)
 * [2024-06-15, 08:44:27](https://news.ycombinator.com/item?id=40688403) - [Building an O2 concentrator for welding and vacuum tube work](https://www.nickpoole.me/2024/06/01/building-an-oxikit-o2-concentrator-part-2/)
