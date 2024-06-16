@@ -6,6 +6,7 @@
 
 * [2024-06-16, 13:40:26](https://news.ycombinator.com/item?id=40696992) - [NLRB Judge Declares Non-Compete Clause Is an Unfair Labor Practice](https://www.nlrbedge.com/p/in-first-case-of-its-kind-nlrb-judge)
 * [2024-06-16, 13:36:05](https://news.ycombinator.com/item?id=40696959) - [Is there ever a good reason to disable swap?](https://news.ycombinator.com/item?id=40696959)
+* [2024-06-16, 13:16:40](https://news.ycombinator.com/item?id=40696840) - [Gulf of Mexico Dead Zone](https://www.nature.org/en-us/about-us/where-we-work/priority-landscapes/gulf-of-mexico/stories-in-the-gulf-of-mexico/gulf-of-mexico-dead-zone/)
 * [2024-06-16, 13:10:15](https://news.ycombinator.com/item?id=40696788) - [TerraPower's Natrium: A Fast Neutron Reactor with Built-In Grid Level Storage](https://hackaday.com/2021/07/06/terrapowers-natrium-combining-a-fast-neutron-reactor-with-built-in-grid-level-storage/)
 * [2024-06-16, 13:03:26](https://news.ycombinator.com/item?id=40696743) - [Tesla Cybertruck deliveries halted amid problem with giant windshield wiper](https://electrek.co/2024/06/15/tesla-cybertruck-deliveries-halted-amid-problem-giant-windshield-wiper/)
 * [2024-06-16, 12:26:33](https://news.ycombinator.com/item?id=40696539) - [Flesh-Eating Bacteria That Can Kill in Two Days Spreads in Japan](https://www.bloomberg.com/news/articles/2024-06-15/flesh-eating-bacteria-that-can-kill-in-two-days-spreads-in-japan)

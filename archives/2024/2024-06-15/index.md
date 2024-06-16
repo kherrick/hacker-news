@@ -74,6 +74,7 @@
 * [2024-06-15, 07:39:41](https://news.ycombinator.com/item?id=40688138) - [A brief history of Mac enclaves and exclaves](https://eclecticlight.co/2024/06/15/a-brief-history-of-mac-enclaves-and-exclaves/)
 * [2024-06-15, 07:04:29](https://news.ycombinator.com/item?id=40688001) - [Tesla's FSD – A Useless Technology Demo](https://tomverbeure.github.io/2024/05/20/Tesla-FSD-First-and-Last-Impressions.html)
 * [2024-06-15, 06:50:16](https://news.ycombinator.com/item?id=40687952) - [When to Write a Simulator](https://sirupsen.com/napkin/problem-16-simulation)
+* [2024-06-15, 06:10:31](https://news.ycombinator.com/item?id=40687840) - [Sales Happen When Buyers Fear Missing Out](https://tidyfirst.substack.com/p/sales-happen-when-buyers-fear-missing)
 * [2024-06-15, 05:41:06](https://news.ycombinator.com/item?id=40687751) - [VVVV – A hybrid visual/textual development environment for .NET](https://visualprogramming.net/)
 * [2024-06-15, 05:12:45](https://news.ycombinator.com/item?id=40687660) - [Voyager 1 is back online! NASA spacecraft returns data from all 4 instruments](https://www.space.com/voyager-1-fully-operational)
 * [2024-06-15, 04:02:54](https://news.ycombinator.com/item?id=40687443) - [Show HN: An open source extension to block large media brands from Google search](https://github.com/hp27596/secondpage)
