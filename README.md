@@ -5,7 +5,7 @@
 * [2024-06-16, 22:11:11](https://news.ycombinator.com/item?id=40700546) - [Roger Linn reviews MPC Live 2](https://www.youtube.com/watch?v=0bhSWwf-i1k)
 * [2024-06-16, 22:09:50](https://news.ycombinator.com/item?id=40700530) - [To see is to forget the name of the thing one sees](https://geopolicraticus.wordpress.com/2009/08/21/to-see-is-to-forget-the-name-of-the-thing-one-sees/)
 * [2024-06-16, 21:39:18](https://news.ycombinator.com/item?id=40700343) - [Show HN: SQLite Database Explorer](https://github.com/frectonz/sqlite-studio)
-* [2024-06-16, 21:29:03](https://news.ycombinator.com/item?id=40700258) - [SpaceWar is back Rebuilding the first gaming computer](https://www.theguardian.com/technology/article/2024/jun/06/reinventing-the-pdp-10)
+* [2024-06-16, 21:29:03](https://news.ycombinator.com/item?id=40700258) - [Tech nostalgia enthusiasts have made a PiDP-10, a replica of the PDP-10](https://www.theguardian.com/technology/article/2024/jun/06/reinventing-the-pdp-10)
 * [2024-06-16, 21:23:12](https://news.ycombinator.com/item?id=40700213) - [Sheaf Theory Through Examples](https://direct.mit.edu/books/oa-monograph/5460/Sheaf-Theory-through-Examples)
 * [2024-06-16, 21:12:03](https://news.ycombinator.com/item?id=40700146) - [Why Google Takeout is sooo bad](https://marcin.cylke.com.pl/2024/06/16/why-google-takeout-is-sooo-bad/)
 * [2024-06-16, 20:02:47](https://news.ycombinator.com/item?id=40699684) - [MicroMac, a Macintosh for under £5](https://axio.ms/projects/2024/06/16/MicroMac.html)
