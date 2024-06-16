@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-16, 13:10:15",
+      "https://news.ycombinator.com/item?id=40696788"
+    ],
+    [
+      "TerraPower's Natrium: A Fast Neutron Reactor with Built-In Grid Level Storage",
+      "https://hackaday.com/2021/07/06/terrapowers-natrium-combining-a-fast-neutron-reactor-with-built-in-grid-level-storage/"
+    ]
+  ],
+  [
+    [
+      "2024-06-16, 12:26:33",
+      "https://news.ycombinator.com/item?id=40696539"
+    ],
+    [
+      "Flesh-Eating Bacteria That Can Kill in Two Days Spreads in Japan",
+      "https://www.bloomberg.com/news/articles/2024-06-15/flesh-eating-bacteria-that-can-kill-in-two-days-spreads-in-japan"
+    ]
+  ],
+  [
+    [
       "2024-06-16, 11:04:56",
       "https://news.ycombinator.com/item?id=40696158"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2024-06-15, 17:24:12",
-      "https://news.ycombinator.com/item?id=40691133"
-    ],
-    [
-      "AI for math resources, and erdosproblems.com",
-      "https://terrytao.wordpress.com/2024/04/19/two-announcements-ai-for-math-resources-and-erdosproblems-com/"
-    ]
-  ],
-  [
-    [
       "2024-06-15, 17:10:57",
       "https://news.ycombinator.com/item?id=40691042"
     ],
@@ -261,22 +271,12 @@
   ],
   [
     [
-      "2024-06-15, 09:11:13",
-      "https://news.ycombinator.com/item?id=40688505"
+      "2024-06-15, 08:23:12",
+      "https://news.ycombinator.com/item?id=40688311"
     ],
     [
-      "'The big problem is water': UK ebike owners plagued by failing motors",
-      "https://www.theguardian.com/lifeandstyle/article/2024/jun/15/the-big-problem-is-water-uk-ebike-owners-plagued-by-failing-motors"
-    ]
-  ],
-  [
-    [
-      "2024-06-15, 08:44:27",
-      "https://news.ycombinator.com/item?id=40688403"
-    ],
-    [
-      "Building an O2 concentrator for welding and vacuum tube work",
-      "https://www.nickpoole.me/2024/06/01/building-an-oxikit-o2-concentrator-part-2/"
+      "PaperTapeReader: A DIY reader for vintage 8-bit paper tapes",
+      "https://github.com/dhansel/PaperTapeReader"
     ]
   ],
   [
