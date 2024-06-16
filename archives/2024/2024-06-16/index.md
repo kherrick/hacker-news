@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-16](index.md)
 
+* [2024-06-16, 22:11:27](https://news.ycombinator.com/item?id=40700549) - [Starlark Language](https://github.com/bazelbuild/starlark)
 * [2024-06-16, 22:11:11](https://news.ycombinator.com/item?id=40700546) - [Roger Linn reviews MPC Live 2](https://www.youtube.com/watch?v=0bhSWwf-i1k)
 * [2024-06-16, 22:09:50](https://news.ycombinator.com/item?id=40700530) - [To see is to forget the name of the thing one sees](https://geopolicraticus.wordpress.com/2009/08/21/to-see-is-to-forget-the-name-of-the-thing-one-sees/)
 * [2024-06-16, 21:39:18](https://news.ycombinator.com/item?id=40700343) - [Show HN: SQLite Database Explorer](https://github.com/frectonz/sqlite-studio)
@@ -14,6 +15,7 @@
 * [2024-06-16, 20:02:47](https://news.ycombinator.com/item?id=40699684) - [MicroMac, a Macintosh for Under £5](https://axio.ms/projects/2024/06/16/MicroMac.html)
 * [2024-06-16, 19:50:16](https://news.ycombinator.com/item?id=40699583) - [Bouba/Kiki Effect](https://en.wikipedia.org/wiki/Bouba/kiki_effect)
 * [2024-06-16, 19:39:27](https://news.ycombinator.com/item?id=40699504) - [First look at the upcoming Starlink Mini](https://www.starlinkhardware.com/first-look-at-the-upcoming-starlink-mini/)
+* [2024-06-16, 19:32:23](https://news.ycombinator.com/item?id=40699470) - [NumPy 2.0](https://numpy.org/devdocs/release/2.0.0-notes.html)
 * [2024-06-16, 19:32:23](https://news.ycombinator.com/item?id=40699470) - [NumPy 2.0.0](https://pypi.org/project/numpy/)
 * [2024-06-16, 19:30:58](https://news.ycombinator.com/item?id=40699462) - [8 days downtime: Cloudflare r2 subscription bug ruins my business](https://news.ycombinator.com/item?id=40699462)
 * [2024-06-16, 19:30:30](https://news.ycombinator.com/item?id=40699459) - [Quake 1 potential original font](https://cohost.org/bekoha/post/2859948-quake-1-potential-or)
