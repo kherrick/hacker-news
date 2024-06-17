@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-06-17, 12:47:41",
+      "https://news.ycombinator.com/item?id=40705079"
+    ],
+    [
+      "Can you inherit memories from your ancestors?",
+      "https://www.theguardian.com/books/article/2024/jun/17/the-big-idea-can-you-inherit-memories-from-your-ancestors"
+    ]
+  ],
+  [
+    [
+      "2024-06-17, 12:35:08",
+      "https://news.ycombinator.com/item?id=40704961"
+    ],
+    [
+      "Apache Arrow DataFusion: A Fast, Embeddable, Modular Analytic Query Engine",
+      "https://dl.acm.org/doi/10.1145/3626246.3653368"
+    ]
+  ],
+  [
+    [
+      "2024-06-17, 12:33:51",
+      "https://news.ycombinator.com/item?id=40704950"
+    ],
+    [
+      "TinyLetter, in Memoriam",
+      "https://www.theverge.com/24085737/tinyletter-mailchimp-shut-down-email-newsletters"
+    ]
+  ],
+  [
+    [
       "2024-06-17, 11:29:56",
       "https://news.ycombinator.com/item?id=40704505"
     ],
@@ -47,16 +77,6 @@
     [
       "Nsss: A secure NSS-like implementation for static linking",
       "https://skarnet.org/software/nsss/"
-    ]
-  ],
-  [
-    [
-      "2024-06-17, 07:40:18",
-      "https://news.ycombinator.com/item?id=40703176"
-    ],
-    [
-      "Developer Takes 'Retro' Concept to New Level by Creating Physical Winamp Player",
-      "https://www.xatakaon.com/makers/a-developer-has-just-taken-the-concept-of-retro-to-a-new-level-by-creating-a-physical-winamp-player"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2024-06-16, 22:11:11",
-      "https://news.ycombinator.com/item?id=40700546"
-    ],
-    [
-      "Roger Linn reviews MPC Live 2",
-      "https://www.youtube.com/watch?v=0bhSWwf-i1k"
-    ]
-  ],
-  [
-    [
       "2024-06-16, 21:39:18",
       "https://news.ycombinator.com/item?id=40700343"
     ],
@@ -217,16 +227,6 @@
     [
       "Building SimCity: How to put the world in a machine",
       "https://mitpress.mit.edu/9780262547482/building-simcity/"
-    ]
-  ],
-  [
-    [
-      "2024-06-16, 15:59:47",
-      "https://news.ycombinator.com/item?id=40697992"
-    ],
-    [
-      "Packaging Swift Apps for Alpine Linux",
-      "https://mko.re/blog/swift-alpine-packaging/"
     ]
   ],
   [
