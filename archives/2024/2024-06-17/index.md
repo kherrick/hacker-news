@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-06-17](index.md)
 
+* [2024-06-17, 15:17:40](https://news.ycombinator.com/item?id=40706467) - [Crossing the Impossible FFI Boundary, and My Gradual Descent into Madness](https://verdagon.dev/blog/exploring-seamless-rust-interop-part-2)
+* [2024-06-17, 15:10:29](https://news.ycombinator.com/item?id=40706373) - [The Pay Raise People Say They Need to Be Happy](https://www.wsj.com/personal-finance/income-raise-happiness-06a70900)
 * [2024-06-17, 15:07:17](https://news.ycombinator.com/item?id=40706337) - [BYD and CATL aim to launch new EV batteries with 6C charge rate](https://www.teslarati.com/byd-catl-6c-charge-rate-electric-vehicle-battery/)
 * [2024-06-17, 15:04:42](https://news.ycombinator.com/item?id=40706310) - [A Day in the Life of a California Fast-Food Manager Who Makes $174,000 a Year](https://www.wsj.com/business/hospitality/a-day-in-the-life-of-a-california-fast-food-manager-who-makes-174-000-a-year-15f81393)
 * [2024-06-17, 15:02:55](https://news.ycombinator.com/item?id=40706288) - [Group of 17 London secondary schools join up to go smartphone-free](https://www.theguardian.com/technology/article/2024/jun/06/group-of-17-london-secondary-schools-join-up-to-go-smartphone-free)
+* [2024-06-17, 14:13:58](https://news.ycombinator.com/item?id=40705839) - [Show HN: Create a stunning portrait painting from one photo](https://drawbert.ai)
 * [2024-06-17, 13:31:50](https://news.ycombinator.com/item?id=40705464) - [Mocking Is an Anti-Pattern](https://www.amazingcto.com/mocking-is-an-antipattern-how-to-test-without-mocking/)
 * [2024-06-17, 13:11:17](https://news.ycombinator.com/item?id=40705280) - [Ask HN: My manager is bad. Should I care?](https://news.ycombinator.com/item?id=40705280)
 * [2024-06-17, 13:09:43](https://news.ycombinator.com/item?id=40705265) - [Privacy app maker Proton transitions to non-profit foundation structure](https://techcrunch.com/2024/06/17/privacy-app-maker-proton-transitions-to-non-profit-foundation-structure/)
