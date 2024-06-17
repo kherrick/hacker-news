@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-06-17](index.md)
 
+* [2024-06-17, 13:09:43](https://news.ycombinator.com/item?id=40705265) - [Privacy app maker Proton transitions to non-profit foundation structure](https://techcrunch.com/2024/06/17/privacy-app-maker-proton-transitions-to-non-profit-foundation-structure/)
+* [2024-06-17, 13:06:09](https://news.ycombinator.com/item?id=40705238) - [Google Chrome Will Track You for the Next 200 Days–Then It May Get Worse](https://www.forbes.com/sites/zakdoffman/2024/06/16/google-chrome-tracking-on-windows-android-iphone-for-200-more-days/)
+* [2024-06-17, 12:50:55](https://news.ycombinator.com/item?id=40705116) - [Monopolies across the grocery supply chain squeeze consumers, small businesses](https://prospect.org/economy/2024-06-12-war-in-the-aisles/)
 * [2024-06-17, 12:47:41](https://news.ycombinator.com/item?id=40705079) - [Can you inherit memories from your ancestors?](https://www.theguardian.com/books/article/2024/jun/17/the-big-idea-can-you-inherit-memories-from-your-ancestors)
+* [2024-06-17, 12:46:57](https://news.ycombinator.com/item?id=40705074) - [How A.I. Is Revolutionizing Drug Development](https://www.nytimes.com/2024/06/17/business/ai-drugs-development-terray.html)
 * [2024-06-17, 12:35:08](https://news.ycombinator.com/item?id=40704961) - [Apache Arrow DataFusion: A Fast, Embeddable, Modular Analytic Query Engine](https://dl.acm.org/doi/10.1145/3626246.3653368)
 * [2024-06-17, 12:33:51](https://news.ycombinator.com/item?id=40704950) - [TinyLetter, in Memoriam](https://www.theverge.com/24085737/tinyletter-mailchimp-shut-down-email-newsletters)
 * [2024-06-17, 11:29:56](https://news.ycombinator.com/item?id=40704505) - [Backdoor in D-Link routers enables telnet access](https://supportannouncement.us.dlink.com/security/publication.aspx?name=SAP10398)
