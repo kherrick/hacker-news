@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-17](index.md)
 
+* [2024-06-17, 19:14:47](https://news.ycombinator.com/item?id=40709824) - [Wired Amazon-Powered AI Cameras Used to Detect Emotions of UK Train Passengers](https://www.wired.com/story/amazon-ai-cameras-emotions-uk-train-passengers/)
 * [2024-06-17, 19:10:24](https://news.ycombinator.com/item?id=40709769) - [Htmx 2.0.0 has been released](https://htmx.org/posts/2024-06-17-htmx-2-0-0-is-released/)
+* [2024-06-17, 19:07:05](https://news.ycombinator.com/item?id=40709719) - [Unskilled and unaware: Misjudgments rise with overconfidence in low performers](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1252520/full)
 * [2024-06-17, 19:05:17](https://news.ycombinator.com/item?id=40709700) - [What is intelligent life? Portia Spiders and GPT](https://aeon.co/essays/why-intelligence-exists-only-in-the-eye-of-the-beholder)
 * [2024-06-17, 19:04:33](https://news.ycombinator.com/item?id=40709688) - [High-severity vulnerabilities affect a wide range of Asus router models](https://arstechnica.com/security/2024/06/high-severity-vulnerabilities-affect-a-wide-range-of-asus-router-models/)
 * [2024-06-17, 18:35:21](https://news.ycombinator.com/item?id=40709337) - [How a Car Salesman Became a Community Banking Pioneer](https://xiva.com/blog/dave-fishwick-community-banking-pioneer)

@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-17, 19:14:47](https://news.ycombinator.com/item?id=40709824) - [Wired Amazon-Powered AI Cameras Used to Detect Emotions of UK Train Passengers](https://www.wired.com/story/amazon-ai-cameras-emotions-uk-train-passengers/)
 * [2024-06-17, 19:10:24](https://news.ycombinator.com/item?id=40709769) - [Htmx 2.0.0 has been released](https://htmx.org/posts/2024-06-17-htmx-2-0-0-is-released/)
+* [2024-06-17, 19:07:05](https://news.ycombinator.com/item?id=40709719) - [Unskilled and unaware: Misjudgments rise with overconfidence in low performers](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1252520/full)
 * [2024-06-17, 19:05:17](https://news.ycombinator.com/item?id=40709700) - [What is intelligent life? Portia Spiders and GPT](https://aeon.co/essays/why-intelligence-exists-only-in-the-eye-of-the-beholder)
 * [2024-06-17, 19:04:33](https://news.ycombinator.com/item?id=40709688) - [High-severity vulnerabilities affect a wide range of Asus router models](https://arstechnica.com/security/2024/06/high-severity-vulnerabilities-affect-a-wide-range-of-asus-router-models/)
 * [2024-06-17, 18:24:25](https://news.ycombinator.com/item?id=40709181) - [Making Serverless Orchestration 25x Faster](https://www.dbos.dev/blog/dbos-vs-aws-step-functions-benchmark)
@@ -24,12 +26,10 @@
 * [2024-06-17, 07:28:03](https://news.ycombinator.com/item?id=40703088) - [How innovative is China in nuclear power?](https://itif.org/publications/2024/06/17/how-innovative-is-china-in-nuclear-power/)
 * [2024-06-17, 05:38:39](https://news.ycombinator.com/item?id=40702617) - [Creativity has left the chat: The price of debiasing language models](https://arxiv.org/abs/2406.05587)
 * [2024-06-17, 00:58:31](https://news.ycombinator.com/item?id=40701391) - [Augmenting biological intelligence with RL in C.elegans using optogenetics [pdf]](https://klab.tch.harvard.edu/publications/PDFs/gk8172.pdf)
-* [2024-06-16, 22:27:23](https://news.ycombinator.com/item?id=40700643) - [Horses may have been domesticated twice](https://www.sciencenews.org/article/horses-domesticated-mobility-timing)
 * [2024-06-16, 20:02:47](https://news.ycombinator.com/item?id=40699684) - [MicroMac, a Macintosh for under £5](https://axio.ms/projects/2024/06/16/MicroMac.html)
 * [2024-06-16, 14:29:14](https://news.ycombinator.com/item?id=40697341) - [An interview with AMD CEO Lisa Su about solving hard problems](https://stratechery.com/2024/an-interview-with-amd-ceo-lisa-su-about-solving-hard-problems/)
 * [2024-06-16, 08:08:40](https://news.ycombinator.com/item?id=40695497) - [Bolivia's little-known African tribal kingdom (2021)](https://www.bbc.com/travel/article/20210310-bolivias-little-known-tribal-kingdom)
 * [2024-06-16, 06:04:18](https://news.ycombinator.com/item?id=40695001) - [Hello world in C inline assembly (2020)](https://jameshfisher.com/2018/02/20/c-inline-assembly-hello-world/)
-* [2024-06-16, 02:26:55](https://news.ycombinator.com/item?id=40694254) - [Show HN: We made a small and cheap network switch](https://docs.murexrobotics.com/elec/boards/networking/switch)
 
 ## [Archives](archives/index.md)
 
