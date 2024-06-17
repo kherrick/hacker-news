@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-17](index.md)
 
+* [2024-06-17, 15:07:17](https://news.ycombinator.com/item?id=40706337) - [BYD and CATL aim to launch new EV batteries with 6C charge rate](https://www.teslarati.com/byd-catl-6c-charge-rate-electric-vehicle-battery/)
 * [2024-06-17, 15:04:42](https://news.ycombinator.com/item?id=40706310) - [A Day in the Life of a California Fast-Food Manager Who Makes $174,000 a Year](https://www.wsj.com/business/hospitality/a-day-in-the-life-of-a-california-fast-food-manager-who-makes-174-000-a-year-15f81393)
 * [2024-06-17, 15:02:55](https://news.ycombinator.com/item?id=40706288) - [Group of 17 London secondary schools join up to go smartphone-free](https://www.theguardian.com/technology/article/2024/jun/06/group-of-17-london-secondary-schools-join-up-to-go-smartphone-free)
 * [2024-06-17, 13:31:50](https://news.ycombinator.com/item?id=40705464) - [Mocking Is an Anti-Pattern](https://www.amazingcto.com/mocking-is-an-antipattern-how-to-test-without-mocking/)
