@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-17, 07:00:40](https://news.ycombinator.com/item?id=40702965) - [Firezone (YC W22) Is Hiring a Senior Rust Engineer (Mountain View)](https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-rust-engineer-systems)
+* [2024-06-17, 06:39:31](https://news.ycombinator.com/item?id=40702886) - [Meta won't train AI on Euro posts after all, as watchdogs put their paws down](https://www.theregister.com/2024/06/14/meta_eu_privacy/)
 * [2024-06-17, 05:38:39](https://news.ycombinator.com/item?id=40702617) - [Creativity Has Left the Chat: The Price of Debiasing Language Models](https://arxiv.org/abs/2406.05587)
 * [2024-06-17, 05:23:15](https://news.ycombinator.com/item?id=40702546) - [Marion Stokes, the Woman Who Spent over 30 Years Recording Every Minute of US TV](https://allthatsinteresting.com/marion-stokes)
 * [2024-06-17, 03:53:28](https://news.ycombinator.com/item?id=40702180) - [OpenBSD, the computer appliance maker's secret weapon](https://hiandrewquinn.github.io/til-site/posts/openbsd-the-computer-appliance-maker-s-secret-weapon/)
@@ -12,7 +13,6 @@
 * [2024-06-16, 22:11:11](https://news.ycombinator.com/item?id=40700546) - [Roger Linn reviews MPC Live 2](https://www.youtube.com/watch?v=0bhSWwf-i1k)
 * [2024-06-16, 22:09:50](https://news.ycombinator.com/item?id=40700530) - [To see is to forget the name of the thing one sees (2009)](https://geopolicraticus.wordpress.com/2009/08/21/to-see-is-to-forget-the-name-of-the-thing-one-sees/)
 * [2024-06-16, 21:39:18](https://news.ycombinator.com/item?id=40700343) - [Show HN: SQLite Database Explorer](https://github.com/frectonz/sqlite-studio)
-* [2024-06-16, 21:29:03](https://news.ycombinator.com/item?id=40700258) - [Tech nostalgia enthusiasts have made a PiDP-10, a replica of the PDP-10](https://www.theguardian.com/technology/article/2024/jun/06/reinventing-the-pdp-10)
 * [2024-06-16, 21:23:12](https://news.ycombinator.com/item?id=40700213) - [Sheaf Theory Through Examples](https://direct.mit.edu/books/oa-monograph/5460/Sheaf-Theory-through-Examples)
 * [2024-06-16, 20:02:47](https://news.ycombinator.com/item?id=40699684) - [MicroMac, a Macintosh for under £5](https://axio.ms/projects/2024/06/16/MicroMac.html)
 * [2024-06-16, 19:50:16](https://news.ycombinator.com/item?id=40699583) - [Bouba/kiki effect](https://en.wikipedia.org/wiki/Bouba/kiki_effect)
