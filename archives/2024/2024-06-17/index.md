@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-17](index.md)
 
+* [2024-06-17, 15:04:42](https://news.ycombinator.com/item?id=40706310) - [A Day in the Life of a California Fast-Food Manager Who Makes $174,000 a Year](https://www.wsj.com/business/hospitality/a-day-in-the-life-of-a-california-fast-food-manager-who-makes-174-000-a-year-15f81393)
+* [2024-06-17, 15:02:55](https://news.ycombinator.com/item?id=40706288) - [Group of 17 London secondary schools join up to go smartphone-free](https://www.theguardian.com/technology/article/2024/jun/06/group-of-17-london-secondary-schools-join-up-to-go-smartphone-free)
+* [2024-06-17, 13:31:50](https://news.ycombinator.com/item?id=40705464) - [Mocking Is an Anti-Pattern](https://www.amazingcto.com/mocking-is-an-antipattern-how-to-test-without-mocking/)
 * [2024-06-17, 13:11:17](https://news.ycombinator.com/item?id=40705280) - [Ask HN: My manager is bad. Should I care?](https://news.ycombinator.com/item?id=40705280)
 * [2024-06-17, 13:09:43](https://news.ycombinator.com/item?id=40705265) - [Privacy app maker Proton transitions to non-profit foundation structure](https://techcrunch.com/2024/06/17/privacy-app-maker-proton-transitions-to-non-profit-foundation-structure/)
 * [2024-06-17, 13:06:09](https://news.ycombinator.com/item?id=40705238) - [Google Chrome Will Track You for the Next 200 Days–Then It May Get Worse](https://www.forbes.com/sites/zakdoffman/2024/06/16/google-chrome-tracking-on-windows-android-iphone-for-200-more-days/)
