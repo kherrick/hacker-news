@@ -11,6 +11,7 @@
 * [2024-06-15, 21:06:07](https://news.ycombinator.com/item?id=40692698) - [Why you shouldn't parse the output of ls(1)](https://mywiki.wooledge.org/ParsingLs)
 * [2024-06-15, 20:37:28](https://news.ycombinator.com/item?id=40692535) - [Reverse Engineering a Restaurant Pager System](https://k3xec.com/td158/)
 * [2024-06-15, 20:06:57](https://news.ycombinator.com/item?id=40692355) - [Subducting plate structure and megathrust morphology at Cascadia](https://www.science.org/doi/10.1126/sciadv.adl3198)
+* [2024-06-15, 20:03:27](https://news.ycombinator.com/item?id=40692333) - [London Underground hosts tests for 'quantum compass' that could replace GPS](https://www.theguardian.com/science/article/2024/jun/15/london-underground-quantum-compass-gps-subatomic-instrument-locations)
 * [2024-06-15, 19:40:54](https://news.ycombinator.com/item?id=40692197) - [Sans Bullshit Sans](https://www.sansbullshitsans.com/)
 * [2024-06-15, 19:13:10](https://news.ycombinator.com/item?id=40691999) - [Impulse Tracker source code now available on GitHub](https://github.com/jthlim/impulse-tracker)
 * [2024-06-15, 19:02:38](https://news.ycombinator.com/item?id=40691929) - [Book: Just Enough Software Architecture](https://www.georgefairbanks.com/book/)
