@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-17](index.md)
 
+* [2024-06-17, 16:01:43](https://news.ycombinator.com/item?id=40707084) - [Let Readers Read](https://blog.archive.org/2024/06/17/let-readers-read/)
+* [2024-06-17, 15:58:55](https://news.ycombinator.com/item?id=40707037) - [US sues Adobe for 'deceiving' subscriptions that are too hard to cancel](https://www.theverge.com/2024/6/17/24180196/adobe-us-ftc-doj-sues-subscriptions-cancel)
 * [2024-06-17, 15:48:09](https://news.ycombinator.com/item?id=40706872) - [NASA again delays Boeing Starliner's return home](https://phys.org/news/2024-06-nasa-delays-boeing-starliner-home.html)
 * [2024-06-17, 15:17:40](https://news.ycombinator.com/item?id=40706467) - [Crossing the Impossible FFI Boundary, and My Gradual Descent into Madness](https://verdagon.dev/blog/exploring-seamless-rust-interop-part-2)
 * [2024-06-17, 15:10:29](https://news.ycombinator.com/item?id=40706373) - [The Pay Raise People Say They Need to Be Happy](https://www.wsj.com/personal-finance/income-raise-happiness-06a70900)
