@@ -11,6 +11,8 @@
 * [2024-06-17, 22:02:59](https://news.ycombinator.com/item?id=40711600) - [Google DeepMind Shifts from Research Lab to AI Product Factory](https://www.bloomberg.com/news/articles/2024-06-17/google-deepmind-shifts-from-research-lab-to-ai-product-factory)
 * [2024-06-17, 21:55:37](https://news.ycombinator.com/item?id=40711526) - [FPGA-Based Disk Controller for Apple II](https://www.bigmessowires.com/2017/12/07/fpga-based-disk-controller-for-apple-ii/)
 * [2024-06-17, 21:51:14](https://news.ycombinator.com/item?id=40711484) - [Getting 50% (SoTA) on Arc-AGI with GPT-4o](https://redwoodresearch.substack.com/p/getting-50-sota-on-arc-agi-with-gpt)
+* [2024-06-17, 21:47:34](https://news.ycombinator.com/item?id=40711447) - [LLM that can call multiple tool APIs with one request](https://cohere.com/blog/multi-step-tool-use)
+* [2024-06-17, 21:37:48](https://news.ycombinator.com/item?id=40711355) - [The Decompilation Wiki: categorized knowledge on decompilation](https://decompilation.wiki/)
 * [2024-06-17, 21:11:16](https://news.ycombinator.com/item?id=40711107) - [What Happens If You Swallow Gum?](https://health.clevelandclinic.org/what-happens-when-you-swallow-gum)
 * [2024-06-17, 21:08:11](https://news.ycombinator.com/item?id=40711086) - [Stop Using Fandom](https://j3s.sh/thought/stop-using-fandom.html)
 * [2024-06-17, 21:00:14](https://news.ycombinator.com/item?id=40711008) - [Suiteness (YC S16) Is Hiring for TypeScript/Qwik](https://www.ycombinator.com/companies/suiteness/jobs/DIrk9Sf-front-end-engineer)
