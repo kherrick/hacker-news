@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-17, 20:04:19",
+      "https://news.ycombinator.com/item?id=40710417"
+    ],
+    [
+      "Sam Altman is not on YC's board. So why claim to be its chair?",
+      "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2024/04/15/sam-altman-y-combinator-board-chair.html"
+    ]
+  ],
+  [
+    [
       "2024-06-17, 20:02:34",
       "https://news.ycombinator.com/item?id=40710397"
     ],
@@ -11,32 +21,22 @@
   ],
   [
     [
+      "2024-06-17, 19:56:38",
+      "https://news.ycombinator.com/item?id=40710301"
+    ],
+    [
+      "At 15, Darlene Stubbs left a polygamous cult, found a new life through running",
+      "https://www.runnersworld.com/runners-stories/a60791305/short-creek-running-club-flds-polygamy/"
+    ]
+  ],
+  [
+    [
       "2024-06-17, 19:49:10",
       "https://news.ycombinator.com/item?id=40710201"
     ],
     [
       "Sei pays out $2M bug bounty",
       "https://usmannkhan.com/bug%20reports/2024/06/17/sei-bug-report.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-17, 19:42:42",
-      "https://news.ycombinator.com/item?id=40710133"
-    ],
-    [
-      "Stable Diffusion 3 banned on CivitAI due to license",
-      "https://civitai.com/articles/5732/temporary-stable-diffusion-3-ban"
-    ]
-  ],
-  [
-    [
-      "2024-06-17, 19:34:24",
-      "https://news.ycombinator.com/item?id=40710061"
-    ],
-    [
-      "NZ at the centre of cross-govt group sharing personal traveller records",
-      "https://www.rnz.co.nz/programmes/in-depth-special-projects/story/2018942840/nz-at-the-centre-of-cross-govt-group-sharing-millions-of-personal-traveller-records-between-countries"
     ]
   ],
   [
@@ -77,16 +77,6 @@
     [
       "What is intelligent life? Portia Spiders and GPT",
       "https://aeon.co/essays/why-intelligence-exists-only-in-the-eye-of-the-beholder"
-    ]
-  ],
-  [
-    [
-      "2024-06-17, 19:04:33",
-      "https://news.ycombinator.com/item?id=40709688"
-    ],
-    [
-      "High-severity vulnerabilities affect a wide range of Asus router models",
-      "https://arstechnica.com/security/2024/06/high-severity-vulnerabilities-affect-a-wide-range-of-asus-router-models/"
     ]
   ],
   [
@@ -141,21 +131,11 @@
   ],
   [
     [
-      "2024-06-17, 16:49:00",
-      "https://news.ycombinator.com/item?id=40707845"
-    ],
-    [
-      "Kubernetes attacked by patent troll Intellectual Ventures",
-      "https://www.unifiedpatents.com/insights/2024/6/14/iv-open-source-patent-kubernetes-challenge-instituted"
-    ]
-  ],
-  [
-    [
       "2024-06-17, 16:41:39",
       "https://news.ycombinator.com/item?id=40707724"
     ],
     [
-      "Plant-Based Substitute Leather Developed from Pineapple Leaf Fiber and Rubber",
+      "Plant-based substitute leather developed from pineapple leaf fiber and rubber",
       "https://www.asiaresearchnews.com/content/green-leather-innovative-plant-based-substitute-developed-pineapple-leaf-fiber-and-natural"
     ]
   ],
@@ -221,12 +201,12 @@
   ],
   [
     [
-      "2024-06-17, 13:31:50",
-      "https://news.ycombinator.com/item?id=40705464"
+      "2024-06-17, 13:46:04",
+      "https://news.ycombinator.com/item?id=40705574"
     ],
     [
-      "How to test without mocking",
-      "https://www.amazingcto.com/mocking-is-an-antipattern-how-to-test-without-mocking/"
+      "Lindroid",
+      "https://twitter.com/Khode_Erfan/status/1802331845633212554"
     ]
   ],
   [
@@ -261,22 +241,22 @@
   ],
   [
     [
-      "2024-06-17, 12:15:49",
-      "https://news.ycombinator.com/item?id=40704812"
+      "2024-06-17, 01:07:28",
+      "https://news.ycombinator.com/item?id=40701433"
     ],
     [
-      "The Programmer's Brain (2021)",
-      "https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/the-programmers-brain"
+      "Comparing OCaml and Standard ML (2008)",
+      "http://adam.chlipala.net/mlcomp/"
     ]
   ],
   [
     [
-      "2024-06-16, 14:29:14",
-      "https://news.ycombinator.com/item?id=40697341"
+      "2024-06-16, 18:40:50",
+      "https://news.ycombinator.com/item?id=40699115"
     ],
     [
-      "An interview with AMD CEO Lisa Su about solving hard problems",
-      "https://stratechery.com/2024/an-interview-with-amd-ceo-lisa-su-about-solving-hard-problems/"
+      "Dbmate: A lightweight, framework-agnostic database migration tool",
+      "https://github.com/amacneil/dbmate"
     ]
   ],
   [
@@ -287,6 +267,26 @@
     [
       "Bolivia's little-known African tribal kingdom (2021)",
       "https://www.bbc.com/travel/article/20210310-bolivias-little-known-tribal-kingdom"
+    ]
+  ],
+  [
+    [
+      "2024-06-16, 02:36:03",
+      "https://news.ycombinator.com/item?id=40694284"
+    ],
+    [
+      "Are animals conscious? New research",
+      "https://www.bbc.com/news/articles/cv223z15mpmo"
+    ]
+  ],
+  [
+    [
+      "2024-06-15, 21:45:35",
+      "https://news.ycombinator.com/item?id=40692926"
+    ],
+    [
+      "Fifty Years of Diff",
+      "https://exple.tive.org/blarg/2024/06/14/fifty-years-of-diff-and-merge/"
     ]
   ],
   [
