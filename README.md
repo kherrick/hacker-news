@@ -4,7 +4,6 @@
 * [2024-06-17, 07:05:42](https://news.ycombinator.com/item?id=40702985) - [The time keepers: pg_cron and pg_timetable](https://notso.boringsql.com/posts/time-keepers-pg-cron-pg-timetable/)
 * [2024-06-17, 07:00:40](https://news.ycombinator.com/item?id=40702965) - [Firezone (YC W22) Is Hiring a Senior Rust Engineer (Mountain View)](https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-rust-engineer-systems)
 * [2024-06-17, 06:14:50](https://news.ycombinator.com/item?id=40702782) - [How to get stuff repaired when the manufacturer don't wanna: take 'em to court](https://blog.simonrumble.com/how-to-get-your-stuff-repaired-when-the-retailer-and-manufacturer-dont-wanna-take-em-to-court)
-* [2024-06-17, 05:38:39](https://news.ycombinator.com/item?id=40702617) - [Creativity Has Left the Chat: The Price of Debiasing Language Models](https://arxiv.org/abs/2406.05587)
 * [2024-06-17, 05:23:15](https://news.ycombinator.com/item?id=40702546) - [Marion Stokes, the Woman Who Spent over 30 Years Recording Every Minute of US TV](https://allthatsinteresting.com/marion-stokes)
 * [2024-06-17, 03:53:28](https://news.ycombinator.com/item?id=40702180) - [OpenBSD, the computer appliance maker's secret weapon](https://hiandrewquinn.github.io/til-site/posts/openbsd-the-computer-appliance-maker-s-secret-weapon/)
 * [2024-06-17, 03:44:20](https://news.ycombinator.com/item?id=40702146) - [I learned Haskell in just 15 years](https://duckrabbit.tech/articles/learning-haskell.html)
@@ -28,6 +27,7 @@
 * [2024-06-16, 14:29:14](https://news.ycombinator.com/item?id=40697341) - [An Interview with AMD CEO Lisa Su About Solving Hard Problems](https://stratechery.com/2024/an-interview-with-amd-ceo-lisa-su-about-solving-hard-problems/)
 * [2024-06-16, 08:08:40](https://news.ycombinator.com/item?id=40695497) - [Bolivia's little-known African tribal kingdom (2021)](https://www.bbc.com/travel/article/20210310-bolivias-little-known-tribal-kingdom)
 * [2024-06-16, 06:04:18](https://news.ycombinator.com/item?id=40695001) - [Hello world in C inline assembly (2020)](https://jameshfisher.com/2018/02/20/c-inline-assembly-hello-world/)
+* [2024-06-16, 04:39:58](https://news.ycombinator.com/item?id=40694726) - [From Fire Hazards to Family Trees: The Sanborn Fire Insurance Maps](https://publicdomainreview.org/essay/sanborn-fire-insurance-maps/)
 * [2024-06-16, 01:25:07](https://news.ycombinator.com/item?id=40693984) - [Quantum entangled photons react to Earth's spin](https://phys.org/news/2024-06-quantum-entangled-photons-react-earth.html)
 * [2024-06-15, 06:10:31](https://news.ycombinator.com/item?id=40687840) - [Sales happen when buyers fear missing out](https://tidyfirst.substack.com/p/sales-happen-when-buyers-fear-missing)
 
