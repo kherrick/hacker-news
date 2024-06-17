@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-17, 00:58:31](https://news.ycombinator.com/item?id=40701391) - [Augmenting biological intelligence with RL in C.elegans using optogenetics [pdf]](https://klab.tch.harvard.edu/publications/PDFs/gk8172.pdf)
 * [2024-06-17, 00:37:57](https://news.ycombinator.com/item?id=40701310) - [They make USB-C cables with displays now](https://ounapuu.ee/posts/2024/06/05/usb-c-cables/)
 * [2024-06-17, 00:07:51](https://news.ycombinator.com/item?id=40701177) - [Using the C preprocessor as an HTML templating engine](https://github.com/cedric-h/c-website)
 * [2024-06-16, 22:18:19](https://news.ycombinator.com/item?id=40700586) - [Maintaining large-scale AI capacity at Meta](https://engineering.fb.com/2024/06/12/production-engineering/maintaining-large-scale-ai-capacity-meta/)
@@ -9,7 +10,6 @@
 * [2024-06-16, 21:39:18](https://news.ycombinator.com/item?id=40700343) - [Show HN: SQLite Database Explorer](https://github.com/frectonz/sqlite-studio)
 * [2024-06-16, 21:29:03](https://news.ycombinator.com/item?id=40700258) - [Tech nostalgia enthusiasts have made a PiDP-10, a replica of the PDP-10](https://www.theguardian.com/technology/article/2024/jun/06/reinventing-the-pdp-10)
 * [2024-06-16, 21:23:12](https://news.ycombinator.com/item?id=40700213) - [Sheaf Theory Through Examples](https://direct.mit.edu/books/oa-monograph/5460/Sheaf-Theory-through-Examples)
-* [2024-06-16, 21:12:03](https://news.ycombinator.com/item?id=40700146) - [Why Google Takeout is sooo bad](https://marcin.cylke.com.pl/2024/06/16/why-google-takeout-is-sooo-bad/)
 * [2024-06-16, 20:02:47](https://news.ycombinator.com/item?id=40699684) - [MicroMac, a Macintosh for under £5](https://axio.ms/projects/2024/06/16/MicroMac.html)
 * [2024-06-16, 19:50:16](https://news.ycombinator.com/item?id=40699583) - [Bouba/kiki effect](https://en.wikipedia.org/wiki/Bouba/kiki_effect)
 * [2024-06-16, 19:39:27](https://news.ycombinator.com/item?id=40699504) - [First look at the upcoming Starlink Mini](https://www.starlinkhardware.com/first-look-at-the-upcoming-starlink-mini/)
