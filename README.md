@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-17, 21:00:14](https://news.ycombinator.com/item?id=40711008) - [Suiteness (YC S16) Is Hiring for TypeScript/Qwik](https://www.ycombinator.com/companies/suiteness/jobs/DIrk9Sf-front-end-engineer)
+* [2024-06-17, 20:58:42](https://news.ycombinator.com/item?id=40710993) - [EU to greenlight Chat Control tomorrow](https://www.patrick-breyer.de/en/council-to-greenlight-chat-control-take-action-now/)
 * [2024-06-17, 20:02:34](https://news.ycombinator.com/item?id=40710397) - [Where did you go, Ms. Pac-Man?](https://www.thrillingtalesofoldvideogames.com/blog/ms-pac-man-disappear-pac-mom)
-* [2024-06-17, 19:56:38](https://news.ycombinator.com/item?id=40710301) - [At 15, Darlene Stubbs left a polygamous cult, found a new life through running](https://www.runnersworld.com/runners-stories/a60791305/short-creek-running-club-flds-polygamy/)
 * [2024-06-17, 19:49:10](https://news.ycombinator.com/item?id=40710201) - [Sei pays out $2M bug bounty](https://usmannkhan.com/bug%20reports/2024/06/17/sei-bug-report.html)
 * [2024-06-17, 19:44:53](https://news.ycombinator.com/item?id=40710154) - [Show HN: Token price calculator for 400+ LLMs](https://github.com/AgentOps-AI/tokencost)
 * [2024-06-17, 19:43:13](https://news.ycombinator.com/item?id=40710138) - [Show HN: ThreadQuilt: AI-Free Thread Aggregator](https://www.threadquilt.com)
