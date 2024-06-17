@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-06-17](index.md)
 
+* [2024-06-17, 17:43:58](https://news.ycombinator.com/item?id=40708615) - [Tim Cook is 'not 100 percent' sure Apple can stop AI hallucinations](https://www.theverge.com/2024/6/11/24176035/tim-cook-apple-stop-ai-hallucinations)
 * [2024-06-17, 17:05:05](https://news.ycombinator.com/item?id=40708046) - [Proton is taking its privacy-first apps to a nonprofit foundation model](https://arstechnica.com/gadgets/2024/06/proton-is-taking-its-privacy-first-apps-to-a-nonprofit-foundation-model/)
 * [2024-06-17, 17:00:13](https://news.ycombinator.com/item?id=40707986) - [Carma (YC W24) Hiring a Founding Full-Stack SWE to Get Fleets Same-Day Auto Repair](https://www.ycombinator.com/companies/carma/jobs/v6CTeFv-founding-full-stack-software-engineer-react-react-native-node-js-nestjs)
+* [2024-06-17, 16:51:54](https://news.ycombinator.com/item?id=40707880) - [London Underground hosts tests for 'quantum compass' that could replace GPS](https://www.theguardian.com/science/article/2024/jun/15/london-underground-quantum-compass-gps-subatomic-instrument-locations)
+* [2024-06-17, 16:38:30](https://news.ycombinator.com/item?id=40707682) - [Nvidia gets 20% weighting, more investor demand; Apple demoted in major techfund](https://www.cnbc.com/2024/06/17/nvidia-to-get-20percent-weighting-and-billions-in-investor-demand-while-apple-demoted-in-major-tech-fund.html)
 * [2024-06-17, 16:29:53](https://news.ycombinator.com/item?id=40707558) - [FTC Takes Action Against Adobe and Executives for Deceiving Customers About Fees](https://www.ftc.gov/news-events/news/press-releases/2024/06/ftc-takes-action-against-adobe-executives-hiding-fees-preventing-consumers-easily-cancelling)
 * [2024-06-17, 16:26:21](https://news.ycombinator.com/item?id=40707490) - [The darker side of being a doctor](https://drericlevi1.substack.com/p/the-darker-side-of-being-a-doctor)
 * [2024-06-17, 16:10:06](https://news.ycombinator.com/item?id=40707222) - [Wells Fargo Bet on a Flashy Rent Credit Card. It Is Costing the Bank Dearly](https://www.wsj.com/finance/banking/wells-fargo-credit-card-rent-rewards-8e380852)
