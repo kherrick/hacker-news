@@ -7,6 +7,7 @@
 * [2024-06-17, 20:02:34](https://news.ycombinator.com/item?id=40710397) - [Where did you go, Ms. Pac-Man?](https://www.thrillingtalesofoldvideogames.com/blog/ms-pac-man-disappear-pac-mom)
 * [2024-06-17, 19:49:10](https://news.ycombinator.com/item?id=40710201) - [Sei pays out $2M Bug Bounty](https://usmannkhan.com/bug%20reports/2024/06/17/sei-bug-report.html)
 * [2024-06-17, 19:42:42](https://news.ycombinator.com/item?id=40710133) - [Stable Diffusion 3 banned on CivitAI due to license](https://civitai.com/articles/5732/temporary-stable-diffusion-3-ban)
+* [2024-06-17, 19:34:24](https://news.ycombinator.com/item?id=40710061) - [NZ at the centre of cross-govt group sharing personal traveller records](https://www.rnz.co.nz/programmes/in-depth-special-projects/story/2018942840/nz-at-the-centre-of-cross-govt-group-sharing-millions-of-personal-traveller-records-between-countries)
 * [2024-06-17, 19:14:47](https://news.ycombinator.com/item?id=40709824) - [Wired Amazon-Powered AI Cameras Used to Detect Emotions of UK Train Passengers](https://www.wired.com/story/amazon-ai-cameras-emotions-uk-train-passengers/)
 * [2024-06-17, 19:10:24](https://news.ycombinator.com/item?id=40709769) - [Htmx 2.0.0 has been released](https://htmx.org/posts/2024-06-17-htmx-2-0-0-is-released/)
 * [2024-06-17, 19:07:05](https://news.ycombinator.com/item?id=40709719) - [Unskilled and unaware: Misjudgments rise with overconfidence in low performers](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1252520/full)
