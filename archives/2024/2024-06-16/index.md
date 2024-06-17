@@ -34,6 +34,7 @@
 * [2024-06-16, 17:07:56](https://news.ycombinator.com/item?id=40698536) - [I've compared nearly all Rust crates.io crates to contents of their Git repos](https://mastodon.social/@kornel/112626463128422583)
 * [2024-06-16, 17:01:09](https://news.ycombinator.com/item?id=40698487) - [Lago (Open Source Usage Based Billing) Is Hiring a Head of Finance (SF)](https://jobs.lever.co/getlago/5f75502e-ecc5-4660-a2ad-e66f91e81e59)
 * [2024-06-16, 16:55:31](https://news.ycombinator.com/item?id=40698442) - [Building SimCity: How to Put the World in a Machine (MIT Press, 2024)](https://mitpress.mit.edu/9780262547482/building-simcity/)
+* [2024-06-16, 16:50:48](https://news.ycombinator.com/item?id=40698415) - [The Unending Allure of High Mountains](https://www.noemamag.com/the-unending-allure-of-high-mountains/)
 * [2024-06-16, 16:50:18](https://news.ycombinator.com/item?id=40698412) - [Edinburgh, Scotland makes it illegal to advertise SUVs](https://www.washingtonpost.com/climate-solutions/2024/06/15/fossil-fuel-advertising-bans-edinburgh/)
 * [2024-06-16, 16:41:25](https://news.ycombinator.com/item?id=40698348) - [F-35 Gen III Helmet Mounted Display System](https://www.collinsaerospace.com/what-we-do/industries/military-and-defense/displays-and-controls/airborne/helmet-mounted-displays/f-35-gen-iii-helmet-mounted-display-system)
 * [2024-06-16, 16:37:19](https://news.ycombinator.com/item?id=40698307) - [Displaying a QR Code in MicroPython on the Tildagon Badge](https://shkspr.mobi/blog/2024/06/displaying-a-qr-code-in-micropython-on-the-tildagon-badge/)
