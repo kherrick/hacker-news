@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-17](index.md)
 
+* [2024-06-17, 20:04:19](https://news.ycombinator.com/item?id=40710417) - [Sam Altman is not on YC's board. So why claim to be its chair?](https://www.bizjournals.com/sanfrancisco/inno/stories/news/2024/04/15/sam-altman-y-combinator-board-chair.html)
 * [2024-06-17, 20:02:34](https://news.ycombinator.com/item?id=40710397) - [Where did you go, Ms. Pac-Man?](https://www.thrillingtalesofoldvideogames.com/blog/ms-pac-man-disappear-pac-mom)
+* [2024-06-17, 19:56:38](https://news.ycombinator.com/item?id=40710301) - [At 15, Darlene Stubbs left a polygamous cult, found a new life through running](https://www.runnersworld.com/runners-stories/a60791305/short-creek-running-club-flds-polygamy/)
 * [2024-06-17, 19:49:10](https://news.ycombinator.com/item?id=40710201) - [Sei pays out $2M Bug Bounty](https://usmannkhan.com/bug%20reports/2024/06/17/sei-bug-report.html)
 * [2024-06-17, 19:42:42](https://news.ycombinator.com/item?id=40710133) - [Stable Diffusion 3 banned on CivitAI due to license](https://civitai.com/articles/5732/temporary-stable-diffusion-3-ban)
 * [2024-06-17, 19:34:24](https://news.ycombinator.com/item?id=40710061) - [NZ at the centre of cross-govt group sharing personal traveller records](https://www.rnz.co.nz/programmes/in-depth-special-projects/story/2018942840/nz-at-the-centre-of-cross-govt-group-sharing-millions-of-personal-traveller-records-between-countries)
@@ -47,6 +49,7 @@
 * [2024-06-17, 14:41:12](https://news.ycombinator.com/item?id=40706083) - [Smart devices a privacy nightmare, Amazon Alexa, Google Home worst offenders](https://www.firstpost.com/tech/smart-home-devices-a-privacy-nightmare-amazon-alexa-google-home-worst-offenders-finds-study-13783175.html)
 * [2024-06-17, 14:14:04](https://news.ycombinator.com/item?id=40705841) - [How React 19 Almost Made the Internet Slower](https://blog.codeminer42.com/how-react-19-almost-made-the-internet-slower/)
 * [2024-06-17, 14:13:58](https://news.ycombinator.com/item?id=40705839) - [Show HN: Create a stunning portrait painting from one photo](https://drawbert.ai)
+* [2024-06-17, 13:46:04](https://news.ycombinator.com/item?id=40705574) - [Lindroid](https://twitter.com/Khode_Erfan/status/1802331845633212554)
 * [2024-06-17, 13:31:50](https://news.ycombinator.com/item?id=40705464) - [Mocking Is an Anti-Pattern](https://www.amazingcto.com/mocking-is-an-antipattern-how-to-test-without-mocking/)
 * [2024-06-17, 13:11:17](https://news.ycombinator.com/item?id=40705280) - [Ask HN: My manager is bad. Should I care?](https://news.ycombinator.com/item?id=40705280)
 * [2024-06-17, 13:09:43](https://news.ycombinator.com/item?id=40705265) - [Privacy app maker Proton transitions to non-profit foundation structure](https://techcrunch.com/2024/06/17/privacy-app-maker-proton-transitions-to-non-profit-foundation-structure/)
@@ -85,6 +88,7 @@
 * [2024-06-17, 02:35:18](https://news.ycombinator.com/item?id=40701868) - [McDonald's will stop testing AI to take drive-thru orders, for now](https://www.theverge.com/2024/6/16/24179679/mcdonalds-ending-ai-chatbot-drive-thru-ordering-test-ibm)
 * [2024-06-17, 01:44:13](https://news.ycombinator.com/item?id=40701607) - [Changing a mean reversion strategy to deliver 30% annual returns since 1999](https://www.quantitativo.com/p/the-holy-grail-still-works)
 * [2024-06-17, 01:17:42](https://news.ycombinator.com/item?id=40701480) - [The Tyranny of the Flake Equation](https://www.moderndescartes.com/essays/flake_equation/)
+* [2024-06-17, 01:07:28](https://news.ycombinator.com/item?id=40701433) - [Comparing OCaml and Standard ML (2008)](http://adam.chlipala.net/mlcomp/)
 * [2024-06-17, 01:03:47](https://news.ycombinator.com/item?id=40701416) - [In AI we trust, part II: Wherein AI adjudicates every Supreme Court case](https://adamunikowsky.substack.com/p/in-ai-we-trust-part-ii)
 * [2024-06-17, 00:58:31](https://news.ycombinator.com/item?id=40701391) - [Augmenting biological intelligence with RL in C.elegans using optogenetics [pdf]](https://klab.tch.harvard.edu/publications/PDFs/gk8172.pdf)
 * [2024-06-17, 00:37:57](https://news.ycombinator.com/item?id=40701310) - [They make USB-C cables with displays now](https://ounapuu.ee/posts/2024/06/05/usb-c-cables/)
