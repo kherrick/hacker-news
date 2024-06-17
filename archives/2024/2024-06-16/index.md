@@ -70,6 +70,7 @@
 * [2024-06-16, 07:44:47](https://news.ycombinator.com/item?id=40695387) - [On Dromomania](https://sophiefuji.com/travels.html)
 * [2024-06-16, 07:39:28](https://news.ycombinator.com/item?id=40695365) - [R.A. Lafferty: \"The Greatest Catholic Novelist You Never Heard of\" (2018)](https://benedictinstitute.org/2018/02/r-lafferty-greatest-catholic-novelist-never-heard/)
 * [2024-06-16, 07:36:23](https://news.ycombinator.com/item?id=40695350) - [2 GHz Active Probe](https://jmw.name/projects/active-probe/)
+* [2024-06-16, 07:22:19](https://news.ycombinator.com/item?id=40695295) - [Excerpts from Coders at Work: Joe Armstrong Interview (2013)](http://ivory.idyll.org/blog/coders-at-work-joe-armstrong.html)
 * [2024-06-16, 06:51:25](https://news.ycombinator.com/item?id=40695165) - [Making my first embedded Linux system](https://popovicu.com/posts/making-my-first-embedded-linux-system/)
 * [2024-06-16, 06:46:52](https://news.ycombinator.com/item?id=40695151) - [Urban spatial order: street network orientation, configuration, and entropy](https://appliednetsci.springeropen.com/articles/10.1007/s41109-019-0189-1)
 * [2024-06-16, 06:04:18](https://news.ycombinator.com/item?id=40695001) - [Hello world in C inline assembly (2020)](https://jameshfisher.com/2018/02/20/c-inline-assembly-hello-world/)
