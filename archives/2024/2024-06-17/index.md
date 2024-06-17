@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-17](index.md)
 
+* [2024-06-17, 21:11:16](https://news.ycombinator.com/item?id=40711107) - [What Happens If You Swallow Gum?](https://health.clevelandclinic.org/what-happens-when-you-swallow-gum)
+* [2024-06-17, 21:08:11](https://news.ycombinator.com/item?id=40711086) - [Stop Using Fandom](https://j3s.sh/thought/stop-using-fandom.html)
 * [2024-06-17, 21:00:14](https://news.ycombinator.com/item?id=40711008) - [Suiteness (YC S16) Is Hiring for TypeScript/Qwik](https://www.ycombinator.com/companies/suiteness/jobs/DIrk9Sf-front-end-engineer)
 * [2024-06-17, 20:58:42](https://news.ycombinator.com/item?id=40710993) - [EU to greenlight Chat Control tomorrow](https://www.patrick-breyer.de/en/council-to-greenlight-chat-control-take-action-now/)
 * [2024-06-17, 20:04:19](https://news.ycombinator.com/item?id=40710417) - [Sam Altman is not on YC's board. So why claim to be its chair?](https://www.bizjournals.com/sanfrancisco/inno/stories/news/2024/04/15/sam-altman-y-combinator-board-chair.html)
