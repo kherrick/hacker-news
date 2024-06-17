@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-17, 00:37:57",
+      "https://news.ycombinator.com/item?id=40701310"
+    ],
+    [
+      "They make USB-C cables with displays now",
+      "https://ounapuu.ee/posts/2024/06/05/usb-c-cables/"
+    ]
+  ],
+  [
+    [
+      "2024-06-17, 00:07:51",
+      "https://news.ycombinator.com/item?id=40701177"
+    ],
+    [
+      "Using the C preprocessor as an HTML templating engine",
+      "https://github.com/cedric-h/c-website"
+    ]
+  ],
+  [
+    [
       "2024-06-16, 22:18:19",
       "https://news.ycombinator.com/item?id=40700586"
     ],
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=40700530"
     ],
     [
-      "To see is to forget the name of the thing one sees",
+      "To see is to forget the name of the thing one sees (2009)",
       "https://geopolicraticus.wordpress.com/2009/08/21/to-see-is-to-forget-the-name-of-the-thing-one-sees/"
     ]
   ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2024-06-16, 18:20:38",
-      "https://news.ycombinator.com/item?id=40699007"
-    ],
-    [
-      "Japanese words and names sound African (2022)",
-      "https://www.farooqkperogi.com/2022/10/japanese-words-and-names-sound-african.html"
-    ]
-  ],
-  [
-    [
       "2024-06-16, 18:02:42",
       "https://news.ycombinator.com/item?id=40698906"
     ],
@@ -187,16 +197,6 @@
     [
       "Building SimCity: How to put the world in a machine",
       "https://mitpress.mit.edu/9780262547482/building-simcity/"
-    ]
-  ],
-  [
-    [
-      "2024-06-16, 16:50:48",
-      "https://news.ycombinator.com/item?id=40698415"
-    ],
-    [
-      "The Unending Allure of High Mountains",
-      "https://www.noemamag.com/the-unending-allure-of-high-mountains/"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2024-06-16, 05:45:38",
+      "https://news.ycombinator.com/item?id=40694949"
+    ],
+    [
+      "Purified Silicon Makes Bigger, Faster Quantum Computers",
+      "https://spectrum.ieee.org/silicon-quantum-computing-purified-si"
+    ]
+  ],
+  [
+    [
       "2024-06-16, 04:39:58",
       "https://news.ycombinator.com/item?id=40694726"
     ],
@@ -277,16 +287,6 @@
     [
       "Unveiling URI, URL, and URN",
       "https://blog.logto.io/unveiling-uri-url-and-urn/"
-    ]
-  ],
-  [
-    [
-      "2024-06-15, 08:23:12",
-      "https://news.ycombinator.com/item?id=40688311"
-    ],
-    [
-      "PaperTapeReader: A DIY reader for vintage 8-bit paper tapes",
-      "https://github.com/dhansel/PaperTapeReader"
     ]
   ],
   [
