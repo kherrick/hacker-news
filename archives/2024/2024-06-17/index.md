@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-17](index.md)
 
+* [2024-06-17, 17:52:03](https://news.ycombinator.com/item?id=40708733) - [User is locked out every day when she goes to lunch](https://old.reddit.com/r/sysadmin/comments/1dhy8ca/user_is_locked_out_every_day_when_she_goes_to/)
 * [2024-06-17, 17:43:58](https://news.ycombinator.com/item?id=40708615) - [Tim Cook is 'not 100 percent' sure Apple can stop AI hallucinations](https://www.theverge.com/2024/6/11/24176035/tim-cook-apple-stop-ai-hallucinations)
+* [2024-06-17, 17:40:17](https://news.ycombinator.com/item?id=40708557) - [Florida Sheriff Grady Judd Decides He's Capable of Running an AI Crime Thingy](https://www.techdirt.com/2024/06/17/florida-sheriff-grady-judd-decides-hes-capable-of-running-an-ai-crime-thingy/)
 * [2024-06-17, 17:05:05](https://news.ycombinator.com/item?id=40708046) - [Proton is taking its privacy-first apps to a nonprofit foundation model](https://arstechnica.com/gadgets/2024/06/proton-is-taking-its-privacy-first-apps-to-a-nonprofit-foundation-model/)
 * [2024-06-17, 17:00:13](https://news.ycombinator.com/item?id=40707986) - [Carma (YC W24) Hiring a Founding Full-Stack SWE to Get Fleets Same-Day Auto Repair](https://www.ycombinator.com/companies/carma/jobs/v6CTeFv-founding-full-stack-software-engineer-react-react-native-node-js-nestjs)
 * [2024-06-17, 16:51:54](https://news.ycombinator.com/item?id=40707880) - [London Underground hosts tests for 'quantum compass' that could replace GPS](https://www.theguardian.com/science/article/2024/jun/15/london-underground-quantum-compass-gps-subatomic-instrument-locations)
@@ -20,6 +22,7 @@
 * [2024-06-17, 15:07:17](https://news.ycombinator.com/item?id=40706337) - [BYD and CATL aim to launch new EV batteries with 6C charge rate](https://www.teslarati.com/byd-catl-6c-charge-rate-electric-vehicle-battery/)
 * [2024-06-17, 15:04:42](https://news.ycombinator.com/item?id=40706310) - [A Day in the Life of a California Fast-Food Manager Who Makes $174,000 a Year](https://www.wsj.com/business/hospitality/a-day-in-the-life-of-a-california-fast-food-manager-who-makes-174-000-a-year-15f81393)
 * [2024-06-17, 15:02:55](https://news.ycombinator.com/item?id=40706288) - [Group of 17 London secondary schools join up to go smartphone-free](https://www.theguardian.com/technology/article/2024/jun/06/group-of-17-london-secondary-schools-join-up-to-go-smartphone-free)
+* [2024-06-17, 14:52:14](https://news.ycombinator.com/item?id=40706183) - [First randomized trial of Ozempic for alcoholism shows big drops in drinking](https://recursiveadaptation.com/p/first-ever-randomized-trial-of-ozempic)
 * [2024-06-17, 14:50:32](https://news.ycombinator.com/item?id=40706164) - [TDK claims insane energy density in solid state battery breakthrough](https://arstechnica.com/gadgets/2024/06/tdk-claims-insane-energy-density-in-solid-state-battery-breakthrough/)
 * [2024-06-17, 14:41:12](https://news.ycombinator.com/item?id=40706083) - [Smart devices a privacy nightmare, Amazon Alexa, Google Home worst offenders](https://www.firstpost.com/tech/smart-home-devices-a-privacy-nightmare-amazon-alexa-google-home-worst-offenders-finds-study-13783175.html)
 * [2024-06-17, 14:13:58](https://news.ycombinator.com/item?id=40705839) - [Show HN: Create a stunning portrait painting from one photo](https://drawbert.ai)
