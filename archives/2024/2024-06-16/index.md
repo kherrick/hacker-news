@@ -69,6 +69,7 @@
 * [2024-06-16, 07:36:23](https://news.ycombinator.com/item?id=40695350) - [2 GHz Active Probe](https://jmw.name/projects/active-probe/)
 * [2024-06-16, 06:51:25](https://news.ycombinator.com/item?id=40695165) - [Making my first embedded Linux system](https://popovicu.com/posts/making-my-first-embedded-linux-system/)
 * [2024-06-16, 06:46:52](https://news.ycombinator.com/item?id=40695151) - [Urban spatial order: street network orientation, configuration, and entropy](https://appliednetsci.springeropen.com/articles/10.1007/s41109-019-0189-1)
+* [2024-06-16, 06:04:18](https://news.ycombinator.com/item?id=40695001) - [Hello world in C inline assembly (2020)](https://jameshfisher.com/2018/02/20/c-inline-assembly-hello-world/)
 * [2024-06-16, 05:45:38](https://news.ycombinator.com/item?id=40694949) - [Purified Silicon Makes Bigger, Faster Quantum Computers](https://spectrum.ieee.org/silicon-quantum-computing-purified-si)
 * [2024-06-16, 05:45:27](https://news.ycombinator.com/item?id=40694948) - [Show HN: I made first declaritive SVG,canvas framework](https://flitter.pages.dev)
 * [2024-06-16, 05:33:12](https://news.ycombinator.com/item?id=40694909) - [Harvard Railroad Economics Exam (1906)](https://www.irwincollier.com/harvard-enrollment-and-final-exam-for-railroad-practice-daggett-1906-1907/)
