@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-17, 02:35:18](https://news.ycombinator.com/item?id=40701868) - [McDonald's will stop testing AI to take drive-thru orders, for now](https://www.theverge.com/2024/6/16/24179679/mcdonalds-ending-ai-chatbot-drive-thru-ordering-test-ibm)
 * [2024-06-17, 00:58:31](https://news.ycombinator.com/item?id=40701391) - [Augmenting biological intelligence with RL in C.elegans using optogenetics [pdf]](https://klab.tch.harvard.edu/publications/PDFs/gk8172.pdf)
 * [2024-06-17, 00:37:57](https://news.ycombinator.com/item?id=40701310) - [They make USB-C cables with displays now](https://ounapuu.ee/posts/2024/06/05/usb-c-cables/)
 * [2024-06-17, 00:07:51](https://news.ycombinator.com/item?id=40701177) - [Using the C preprocessor as an HTML templating engine](https://github.com/cedric-h/c-website)
@@ -23,7 +24,6 @@
 * [2024-06-16, 16:55:31](https://news.ycombinator.com/item?id=40698442) - [Building SimCity: How to put the world in a machine](https://mitpress.mit.edu/9780262547482/building-simcity/)
 * [2024-06-16, 15:59:47](https://news.ycombinator.com/item?id=40697992) - [Packaging Swift Apps for Alpine Linux](https://mko.re/blog/swift-alpine-packaging/)
 * [2024-06-16, 15:38:03](https://news.ycombinator.com/item?id=40697831) - [The Raspberry Pi 5 Is No Match for a Tini-Mini-Micro PC](https://louwrentius.com/the-raspberry-pi-5-is-no-match-for-a-tini-mini-micro-pc.html)
-* [2024-06-16, 09:39:52](https://news.ycombinator.com/item?id=40695839) - [Simple sabotage for software (2023)](https://erikbern.com/2023/12/13/simple-sabotage-for-software.html)
 * [2024-06-16, 06:46:52](https://news.ycombinator.com/item?id=40695151) - [Urban spatial order: street network orientation, configuration, and entropy](https://appliednetsci.springeropen.com/articles/10.1007/s41109-019-0189-1)
 * [2024-06-16, 05:45:38](https://news.ycombinator.com/item?id=40694949) - [Purified Silicon Makes Bigger, Faster Quantum Computers](https://spectrum.ieee.org/silicon-quantum-computing-purified-si)
 * [2024-06-16, 04:39:58](https://news.ycombinator.com/item?id=40694726) - [From Fire Hazards to Family Trees: The Sanborn Fire Insurance Maps](https://publicdomainreview.org/essay/sanborn-fire-insurance-maps/)
