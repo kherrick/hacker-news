@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-16](index.md)
 
+* [2024-06-16, 22:27:23](https://news.ycombinator.com/item?id=40700643) - [Horses may have been domesticated twice. Only one attempt stuck](https://www.sciencenews.org/article/horses-domesticated-mobility-timing)
 * [2024-06-16, 22:18:19](https://news.ycombinator.com/item?id=40700586) - [Maintaining large-scale AI capacity at Meta](https://engineering.fb.com/2024/06/12/production-engineering/maintaining-large-scale-ai-capacity-meta/)
 * [2024-06-16, 22:11:27](https://news.ycombinator.com/item?id=40700549) - [Starlark Language](https://github.com/bazelbuild/starlark)
 * [2024-06-16, 22:11:11](https://news.ycombinator.com/item?id=40700546) - [Roger Linn reviews MPC Live 2](https://www.youtube.com/watch?v=0bhSWwf-i1k)
