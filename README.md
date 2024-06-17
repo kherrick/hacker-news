@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-17, 01:44:13](https://news.ycombinator.com/item?id=40701607) - [Changing a mean reversion strategy to deliver 30% annual returns since 1999](https://www.quantitativo.com/p/the-holy-grail-still-works)
 * [2024-06-17, 00:58:31](https://news.ycombinator.com/item?id=40701391) - [Augmenting biological intelligence with RL in C.elegans using optogenetics [pdf]](https://klab.tch.harvard.edu/publications/PDFs/gk8172.pdf)
 * [2024-06-17, 00:37:57](https://news.ycombinator.com/item?id=40701310) - [They make USB-C cables with displays now](https://ounapuu.ee/posts/2024/06/05/usb-c-cables/)
 * [2024-06-17, 00:07:51](https://news.ycombinator.com/item?id=40701177) - [Using the C preprocessor as an HTML templating engine](https://github.com/cedric-h/c-website)
 * [2024-06-16, 22:27:23](https://news.ycombinator.com/item?id=40700643) - [Horses may have been domesticated twice. Only one attempt stuck](https://www.sciencenews.org/article/horses-domesticated-mobility-timing)
+* [2024-06-16, 22:18:19](https://news.ycombinator.com/item?id=40700586) - [Maintaining large-scale AI capacity at Meta](https://engineering.fb.com/2024/06/12/production-engineering/maintaining-large-scale-ai-capacity-meta/)
 * [2024-06-16, 22:11:27](https://news.ycombinator.com/item?id=40700549) - [Starlark Language](https://github.com/bazelbuild/starlark)
 * [2024-06-16, 22:11:11](https://news.ycombinator.com/item?id=40700546) - [Roger Linn reviews MPC Live 2](https://www.youtube.com/watch?v=0bhSWwf-i1k)
 * [2024-06-16, 22:09:50](https://news.ycombinator.com/item?id=40700530) - [To see is to forget the name of the thing one sees (2009)](https://geopolicraticus.wordpress.com/2009/08/21/to-see-is-to-forget-the-name-of-the-thing-one-sees/)
