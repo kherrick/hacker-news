@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-17, 13:11:17](https://news.ycombinator.com/item?id=40705280) - [Ask HN: My manager is bad. Should I care?](https://news.ycombinator.com/item?id=40705280)
+* [2024-06-17, 13:04:29](https://news.ycombinator.com/item?id=40705222) - [How I Made Trading Cards with E-Ink Displays](https://howtoware.co/wyldcard)
 * [2024-06-17, 12:50:55](https://news.ycombinator.com/item?id=40705116) - [Monopolies across the grocery supply chain squeeze consumers, small businesses](https://prospect.org/economy/2024-06-12-war-in-the-aisles/)
-* [2024-06-17, 12:47:41](https://news.ycombinator.com/item?id=40705079) - [Can you inherit memories from your ancestors?](https://www.theguardian.com/books/article/2024/jun/17/the-big-idea-can-you-inherit-memories-from-your-ancestors)
 * [2024-06-17, 12:33:51](https://news.ycombinator.com/item?id=40704950) - [TinyLetter, in Memoriam](https://www.theverge.com/24085737/tinyletter-mailchimp-shut-down-email-newsletters)
 * [2024-06-17, 12:15:49](https://news.ycombinator.com/item?id=40704812) - [The Programmer's Brain](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/the-programmers-brain)
 * [2024-06-17, 11:14:40](https://news.ycombinator.com/item?id=40704428) - [Being laid off and unplanned entrepreneurship](https://www.deepsouthventures.com/on-being-laid-off-unplanned-entrepreneurship/)
@@ -16,7 +17,6 @@
 * [2024-06-17, 03:44:20](https://news.ycombinator.com/item?id=40702146) - [I learned Haskell in just 15 years](https://duckrabbit.tech/articles/learning-haskell.html)
 * [2024-06-17, 01:17:42](https://news.ycombinator.com/item?id=40701480) - [The Tyranny of the Flake Equation](https://www.moderndescartes.com/essays/flake_equation/)
 * [2024-06-17, 00:58:31](https://news.ycombinator.com/item?id=40701391) - [Augmenting biological intelligence with RL in C.elegans using optogenetics [pdf]](https://klab.tch.harvard.edu/publications/PDFs/gk8172.pdf)
-* [2024-06-16, 22:11:11](https://news.ycombinator.com/item?id=40700546) - [Roger Linn reviews MPC Live 2](https://www.youtube.com/watch?v=0bhSWwf-i1k)
 * [2024-06-16, 22:09:50](https://news.ycombinator.com/item?id=40700530) - [To see is to forget the name of the thing one sees (2009)](https://geopolicraticus.wordpress.com/2009/08/21/to-see-is-to-forget-the-name-of-the-thing-one-sees/)
 * [2024-06-16, 20:02:47](https://news.ycombinator.com/item?id=40699684) - [MicroMac, a Macintosh for under £5](https://axio.ms/projects/2024/06/16/MicroMac.html)
 * [2024-06-16, 19:50:16](https://news.ycombinator.com/item?id=40699583) - [Bouba/kiki effect](https://en.wikipedia.org/wiki/Bouba/kiki_effect)

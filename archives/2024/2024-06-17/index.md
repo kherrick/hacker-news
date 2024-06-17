@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-06-17](index.md)
 
+* [2024-06-17, 13:11:17](https://news.ycombinator.com/item?id=40705280) - [Ask HN: My manager is bad. Should I care?](https://news.ycombinator.com/item?id=40705280)
 * [2024-06-17, 13:09:43](https://news.ycombinator.com/item?id=40705265) - [Privacy app maker Proton transitions to non-profit foundation structure](https://techcrunch.com/2024/06/17/privacy-app-maker-proton-transitions-to-non-profit-foundation-structure/)
 * [2024-06-17, 13:06:09](https://news.ycombinator.com/item?id=40705238) - [Google Chrome Will Track You for the Next 200 Days–Then It May Get Worse](https://www.forbes.com/sites/zakdoffman/2024/06/16/google-chrome-tracking-on-windows-android-iphone-for-200-more-days/)
+* [2024-06-17, 13:04:29](https://news.ycombinator.com/item?id=40705222) - [How I Made Trading Cards with E-Ink Displays](https://howtoware.co/wyldcard)
 * [2024-06-17, 12:50:55](https://news.ycombinator.com/item?id=40705116) - [Monopolies across the grocery supply chain squeeze consumers, small businesses](https://prospect.org/economy/2024-06-12-war-in-the-aisles/)
 * [2024-06-17, 12:47:41](https://news.ycombinator.com/item?id=40705079) - [Can you inherit memories from your ancestors?](https://www.theguardian.com/books/article/2024/jun/17/the-big-idea-can-you-inherit-memories-from-your-ancestors)
 * [2024-06-17, 12:46:57](https://news.ycombinator.com/item?id=40705074) - [How A.I. Is Revolutionizing Drug Development](https://www.nytimes.com/2024/06/17/business/ai-drugs-development-terray.html)
