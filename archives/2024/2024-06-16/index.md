@@ -59,6 +59,7 @@
 * [2024-06-16, 10:52:13](https://news.ycombinator.com/item?id=40696110) - [Ask HN: Best way to remove CO2 in a bedroom?](https://news.ycombinator.com/item?id=40696110)
 * [2024-06-16, 10:45:46](https://news.ycombinator.com/item?id=40696077) - [Post Office scandal victims in Scotland have convictions quashed](https://www.computerweekly.com/news/366588932/Post-Office-scandal-victims-in-Scotland-have-convictions-quashed)
 * [2024-06-16, 10:27:23](https://news.ycombinator.com/item?id=40695997) - [Do not try to be the smartest in the room; try to be the kindest](https://www.jorgegalindo.me/en/blog/posts/do-not-be-the-smartest-in-the-room-try-to-be-the-kindest)
+* [2024-06-16, 10:22:49](https://news.ycombinator.com/item?id=40695979) - [Static arrays are the best vectors](https://mynameistrez.github.io/2024/04/09/static-arrays-are-the-best-vectors.html)
 * [2024-06-16, 10:09:01](https://news.ycombinator.com/item?id=40695941) - [Voyager Spacecraft and Fortran 5](http://www.geonius.com/writing/other/voyager.html)
 * [2024-06-16, 09:39:52](https://news.ycombinator.com/item?id=40695839) - [Simple Sabotage for Software](https://erikbern.com/2023/12/13/simple-sabotage-for-software.html)
 * [2024-06-16, 09:32:38](https://news.ycombinator.com/item?id=40695814) - [The History of DR DOS](https://www.abortretry.fail/p/the-history-of-dr-dos)
