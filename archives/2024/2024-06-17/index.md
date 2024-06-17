@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-17](index.md)
 
+* [2024-06-17, 22:44:44](https://news.ycombinator.com/item?id=40712020) - [Intel-undervolt: CPU undervolting and throttling configuration tool for Linux](https://github.com/kitsunyan/intel-undervolt)
+* [2024-06-17, 22:24:47](https://news.ycombinator.com/item?id=40711835) - [Intel Details Skymont](https://chipsandcheese.com/2024/06/15/intel-details-skymont/)
 * [2024-06-17, 22:19:38](https://news.ycombinator.com/item?id=40711780) - [Tsutomu Yamaguchi: The Man Who Survived Both Atomic Bombings](https://www.biography.com/history-culture/a44577392/tsutomu-yamaguchi-hiroshima-and-nagasaki-bombing-survivor)
 * [2024-06-17, 22:08:19](https://news.ycombinator.com/item?id=40711661) - [A Note on Essential Complexity](https://olano.dev/blog/a-note-on-essential-complexity)
 * [2024-06-17, 22:08:14](https://news.ycombinator.com/item?id=40711657) - [Three of Vietnam's five undersea internet cables are down](https://www.reuters.com/world/asia-pacific/three-vietnams-five-undersea-internet-cables-are-down-2024-06-17/)
