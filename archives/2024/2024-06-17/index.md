@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-06-17](index.md)
 
+* [2024-06-17, 22:19:38](https://news.ycombinator.com/item?id=40711780) - [Tsutomu Yamaguchi: The Man Who Survived Both Atomic Bombings](https://www.biography.com/history-culture/a44577392/tsutomu-yamaguchi-hiroshima-and-nagasaki-bombing-survivor)
+* [2024-06-17, 22:08:19](https://news.ycombinator.com/item?id=40711661) - [A Note on Essential Complexity](https://olano.dev/blog/a-note-on-essential-complexity)
 * [2024-06-17, 22:08:14](https://news.ycombinator.com/item?id=40711657) - [Three of Vietnam's five undersea internet cables are down](https://www.reuters.com/world/asia-pacific/three-vietnams-five-undersea-internet-cables-are-down-2024-06-17/)
 * [2024-06-17, 22:06:54](https://news.ycombinator.com/item?id=40711640) - [The Pitfalls of Comparing BigDecimals in Java](https://igorstechnoclub.com/java-bigdecimal/)
 * [2024-06-17, 22:02:59](https://news.ycombinator.com/item?id=40711600) - [Google DeepMind Shifts from Research Lab to AI Product Factory](https://www.bloomberg.com/news/articles/2024-06-17/google-deepmind-shifts-from-research-lab-to-ai-product-factory)
 * [2024-06-17, 21:55:37](https://news.ycombinator.com/item?id=40711526) - [FPGA-Based Disk Controller for Apple II](https://www.bigmessowires.com/2017/12/07/fpga-based-disk-controller-for-apple-ii/)
+* [2024-06-17, 21:51:14](https://news.ycombinator.com/item?id=40711484) - [Getting 50% (SoTA) on Arc-AGI with GPT-4o](https://redwoodresearch.substack.com/p/getting-50-sota-on-arc-agi-with-gpt)
 * [2024-06-17, 21:11:16](https://news.ycombinator.com/item?id=40711107) - [What Happens If You Swallow Gum?](https://health.clevelandclinic.org/what-happens-when-you-swallow-gum)
 * [2024-06-17, 21:08:11](https://news.ycombinator.com/item?id=40711086) - [Stop Using Fandom](https://j3s.sh/thought/stop-using-fandom.html)
 * [2024-06-17, 21:00:14](https://news.ycombinator.com/item?id=40711008) - [Suiteness (YC S16) Is Hiring for TypeScript/Qwik](https://www.ycombinator.com/companies/suiteness/jobs/DIrk9Sf-front-end-engineer)
