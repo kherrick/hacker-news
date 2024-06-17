@@ -8,6 +8,7 @@
 * [2024-06-17, 20:02:34](https://news.ycombinator.com/item?id=40710397) - [Where did you go, Ms. Pac-Man?](https://www.thrillingtalesofoldvideogames.com/blog/ms-pac-man-disappear-pac-mom)
 * [2024-06-17, 19:56:38](https://news.ycombinator.com/item?id=40710301) - [At 15, Darlene Stubbs left a polygamous cult, found a new life through running](https://www.runnersworld.com/runners-stories/a60791305/short-creek-running-club-flds-polygamy/)
 * [2024-06-17, 19:49:10](https://news.ycombinator.com/item?id=40710201) - [Sei pays out $2M Bug Bounty](https://usmannkhan.com/bug%20reports/2024/06/17/sei-bug-report.html)
+* [2024-06-17, 19:44:53](https://news.ycombinator.com/item?id=40710154) - [Show HN: Token price calculator for 400+ LLMs](https://github.com/AgentOps-AI/tokencost)
 * [2024-06-17, 19:42:42](https://news.ycombinator.com/item?id=40710133) - [Stable Diffusion 3 banned on CivitAI due to license](https://civitai.com/articles/5732/temporary-stable-diffusion-3-ban)
 * [2024-06-17, 19:34:24](https://news.ycombinator.com/item?id=40710061) - [NZ at the centre of cross-govt group sharing personal traveller records](https://www.rnz.co.nz/programmes/in-depth-special-projects/story/2018942840/nz-at-the-centre-of-cross-govt-group-sharing-millions-of-personal-traveller-records-between-countries)
 * [2024-06-17, 19:14:47](https://news.ycombinator.com/item?id=40709824) - [Wired Amazon-Powered AI Cameras Used to Detect Emotions of UK Train Passengers](https://www.wired.com/story/amazon-ai-cameras-emotions-uk-train-passengers/)
