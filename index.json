@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-06-17, 20:02:34",
+      "https://news.ycombinator.com/item?id=40710397"
+    ],
+    [
+      "Where did you go, Ms. Pac-Man?",
+      "https://www.thrillingtalesofoldvideogames.com/blog/ms-pac-man-disappear-pac-mom"
+    ]
+  ],
+  [
+    [
       "2024-06-17, 19:49:10",
       "https://news.ycombinator.com/item?id=40710201"
     ],
     [
-      "Sei pays out $2M Bug Bounty",
+      "Sei pays out $2M bug bounty",
       "https://usmannkhan.com/bug%20reports/2024/06/17/sei-bug-report.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-17, 19:42:42",
+      "https://news.ycombinator.com/item?id=40710133"
+    ],
+    [
+      "Stable Diffusion 3 banned on CivitAI due to license",
+      "https://civitai.com/articles/5732/temporary-stable-diffusion-3-ban"
     ]
   ],
   [
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=40709824"
     ],
     [
-      "Wired Amazon-Powered AI Cameras Used to Detect Emotions of UK Train Passengers",
+      "Amazon-powered AI cameras used to detect emotions of unwitting train passengers",
       "https://www.wired.com/story/amazon-ai-cameras-emotions-uk-train-passengers/"
     ]
   ],
@@ -61,22 +81,12 @@
   ],
   [
     [
-      "2024-06-17, 18:59:22",
-      "https://news.ycombinator.com/item?id=40709622"
+      "2024-06-17, 18:44:54",
+      "https://news.ycombinator.com/item?id=40709451"
     ],
     [
-      "Ask HN: Boss thinks I'm dumb, now what?",
-      "https://news.ycombinator.com/item?id=40709622"
-    ]
-  ],
-  [
-    [
-      "2024-06-17, 18:24:25",
-      "https://news.ycombinator.com/item?id=40709181"
-    ],
-    [
-      "Making Serverless Orchestration 25x Faster",
-      "https://www.dbos.dev/blog/dbos-vs-aws-step-functions-benchmark"
+      "Apple Discontinuing Apple Pay Later",
+      "https://9to5mac.com/2024/06/17/apple-pay-later-united-states-ending/"
     ]
   ],
   [
@@ -91,21 +101,11 @@
   ],
   [
     [
-      "2024-06-17, 17:58:33",
-      "https://news.ycombinator.com/item?id=40708827"
-    ],
-    [
-      "Asus agrees to a whole raft of US warranty service improvements after complaints",
-      "https://www.pcgamer.com/hardware/asus-agrees-to-a-whole-raft-of-us-warranty-service-improvements-after-it-meets-with-gamers-nexus/"
-    ]
-  ],
-  [
-    [
       "2024-06-17, 17:50:50",
       "https://news.ycombinator.com/item?id=40708720"
     ],
     [
-      "What policy makers need to know about AI (and what goes wrong if they don't)",
+      "What policy makers need to know about AI",
       "https://www.answer.ai/posts/2024-06-11-os-ai.html"
     ]
   ],
@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2024-06-17, 17:05:05",
-      "https://news.ycombinator.com/item?id=40708046"
-    ],
-    [
-      "Proton is taking its privacy-first apps to a nonprofit foundation model",
-      "https://arstechnica.com/gadgets/2024/06/proton-is-taking-its-privacy-first-apps-to-a-nonprofit-foundation-model/"
-    ]
-  ],
-  [
-    [
       "2024-06-17, 17:00:13",
       "https://news.ycombinator.com/item?id=40707986"
     ],
@@ -141,12 +131,22 @@
   ],
   [
     [
-      "2024-06-17, 16:51:54",
-      "https://news.ycombinator.com/item?id=40707880"
+      "2024-06-17, 16:49:00",
+      "https://news.ycombinator.com/item?id=40707845"
     ],
     [
-      "London Underground hosts tests for 'quantum compass' that could replace GPS",
-      "https://www.theguardian.com/science/article/2024/jun/15/london-underground-quantum-compass-gps-subatomic-instrument-locations"
+      "Kubernetes attacked by patent troll Intellectual Ventures",
+      "https://www.unifiedpatents.com/insights/2024/6/14/iv-open-source-patent-kubernetes-challenge-instituted"
+    ]
+  ],
+  [
+    [
+      "2024-06-17, 16:41:39",
+      "https://news.ycombinator.com/item?id=40707724"
+    ],
+    [
+      "Plant-Based Substitute Leather Developed from Pineapple Leaf Fiber and Rubber",
+      "https://www.asiaresearchnews.com/content/green-leather-innovative-plant-based-substitute-developed-pineapple-leaf-fiber-and-natural"
     ]
   ],
   [
@@ -175,7 +175,7 @@
       "https://news.ycombinator.com/item?id=40706951"
     ],
     [
-      "New Branding, Same Scanning: Upload Moderation Undermines End-to-End Encryption [pdf]",
+      "New branding, same scanning: Upload moderation undermines end-to-end encryption [pdf]",
       "https://signal.org/blog/pdfs/upload-moderation.pdf"
     ]
   ],
@@ -197,16 +197,6 @@
     [
       "TDK claims solid state battery breakthrough",
       "https://arstechnica.com/gadgets/2024/06/tdk-claims-insane-energy-density-in-solid-state-battery-breakthrough/"
-    ]
-  ],
-  [
-    [
-      "2024-06-17, 14:14:04",
-      "https://news.ycombinator.com/item?id=40705841"
-    ],
-    [
-      "How React 19 Almost Made the Internet Slower",
-      "https://blog.codeminer42.com/how-react-19-almost-made-the-internet-slower/"
     ]
   ],
   [
@@ -261,12 +251,12 @@
   ],
   [
     [
-      "2024-06-17, 00:58:31",
-      "https://news.ycombinator.com/item?id=40701391"
+      "2024-06-17, 05:38:39",
+      "https://news.ycombinator.com/item?id=40702617"
     ],
     [
-      "Augmenting biological intelligence with RL in C.elegans using optogenetics [pdf]",
-      "https://klab.tch.harvard.edu/publications/PDFs/gk8172.pdf"
+      "Creativity has left the chat: The price of debiasing language models",
+      "https://arxiv.org/abs/2406.05587"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Bolivia's little-known African tribal kingdom (2021)",
       "https://www.bbc.com/travel/article/20210310-bolivias-little-known-tribal-kingdom"
+    ]
+  ],
+  [
+    [
+      "2024-06-15, 20:03:27",
+      "https://news.ycombinator.com/item?id=40692333"
+    ],
+    [
+      "London Underground hosts tests for 'quantum compass' that could replace GPS",
+      "https://www.theguardian.com/science/article/2024/jun/15/london-underground-quantum-compass-gps-subatomic-instrument-locations"
     ]
   ]
 ]
