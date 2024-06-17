@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-06-17](index.md)
 
+* [2024-06-17, 19:10:24](https://news.ycombinator.com/item?id=40709769) - [Htmx 2.0.0 has been released](https://htmx.org/posts/2024-06-17-htmx-2-0-0-is-released/)
+* [2024-06-17, 19:05:17](https://news.ycombinator.com/item?id=40709700) - [What is intelligent life? Portia Spiders and GPT](https://aeon.co/essays/why-intelligence-exists-only-in-the-eye-of-the-beholder)
+* [2024-06-17, 19:04:33](https://news.ycombinator.com/item?id=40709688) - [High-severity vulnerabilities affect a wide range of Asus router models](https://arstechnica.com/security/2024/06/high-severity-vulnerabilities-affect-a-wide-range-of-asus-router-models/)
 * [2024-06-17, 18:35:21](https://news.ycombinator.com/item?id=40709337) - [How a Car Salesman Became a Community Banking Pioneer](https://xiva.com/blog/dave-fishwick-community-banking-pioneer)
 * [2024-06-17, 18:24:25](https://news.ycombinator.com/item?id=40709181) - [Making Serverless Orchestration 25x Faster](https://www.dbos.dev/blog/dbos-vs-aws-step-functions-benchmark)
+* [2024-06-17, 18:07:45](https://news.ycombinator.com/item?id=40708963) - [Correlation Between Fecal Microplastics and Inflammatory Bowel Disease](https://pubs.acs.org/doi/abs/10.1021/acs.est.1c03924)
 * [2024-06-17, 17:58:33](https://news.ycombinator.com/item?id=40708827) - [Asus agrees to a whole raft of US warranty service improvements after complaints](https://www.pcgamer.com/hardware/asus-agrees-to-a-whole-raft-of-us-warranty-service-improvements-after-it-meets-with-gamers-nexus/)
 * [2024-06-17, 17:52:03](https://news.ycombinator.com/item?id=40708733) - [User is locked out every day when she goes to lunch](https://old.reddit.com/r/sysadmin/comments/1dhy8ca/user_is_locked_out_every_day_when_she_goes_to/)
 * [2024-06-17, 17:50:50](https://news.ycombinator.com/item?id=40708720) - [A policy maker's introduction to AI fundamentals](https://www.answer.ai/posts/2024-06-11-os-ai.html)
