@@ -17,6 +17,7 @@
 * [2024-06-17, 03:32:24](https://news.ycombinator.com/item?id=40702092) - [Feds Arrest Telehealth Execs for Overprescribing Adderall](https://reason.com/2024/06/14/feds-arrest-telehealth-execs-for-overprescribing-adderall/)
 * [2024-06-17, 02:35:18](https://news.ycombinator.com/item?id=40701868) - [McDonald's will stop testing AI to take drive-thru orders, for now](https://www.theverge.com/2024/6/16/24179679/mcdonalds-ending-ai-chatbot-drive-thru-ordering-test-ibm)
 * [2024-06-17, 01:44:13](https://news.ycombinator.com/item?id=40701607) - [Changing a mean reversion strategy to deliver 30% annual returns since 1999](https://www.quantitativo.com/p/the-holy-grail-still-works)
+* [2024-06-17, 01:17:42](https://news.ycombinator.com/item?id=40701480) - [The Tyranny of the Flake Equation](https://www.moderndescartes.com/essays/flake_equation/)
 * [2024-06-17, 01:03:47](https://news.ycombinator.com/item?id=40701416) - [In AI we trust, part II: Wherein AI adjudicates every Supreme Court case](https://adamunikowsky.substack.com/p/in-ai-we-trust-part-ii)
 * [2024-06-17, 00:58:31](https://news.ycombinator.com/item?id=40701391) - [Augmenting biological intelligence with RL in C.elegans using optogenetics [pdf]](https://klab.tch.harvard.edu/publications/PDFs/gk8172.pdf)
 * [2024-06-17, 00:37:57](https://news.ycombinator.com/item?id=40701310) - [They make USB-C cables with displays now](https://ounapuu.ee/posts/2024/06/05/usb-c-cables/)
