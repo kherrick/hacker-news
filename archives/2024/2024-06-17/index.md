@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-17](index.md)
 
+* [2024-06-17, 05:23:15](https://news.ycombinator.com/item?id=40702546) - [Marion Stokes, the Woman Who Spent over 30 Years Recording Every Minute of US TV](https://allthatsinteresting.com/marion-stokes)
+* [2024-06-17, 03:53:28](https://news.ycombinator.com/item?id=40702180) - [OpenBSD, the computer appliance maker's secret weapon](https://hiandrewquinn.github.io/til-site/posts/openbsd-the-computer-appliance-maker-s-secret-weapon/)
 * [2024-06-17, 03:44:20](https://news.ycombinator.com/item?id=40702146) - [I learned Haskell in just 15 years](https://duckrabbit.tech/articles/learning-haskell.html)
 * [2024-06-17, 02:35:18](https://news.ycombinator.com/item?id=40701868) - [McDonald's will stop testing AI to take drive-thru orders, for now](https://www.theverge.com/2024/6/16/24179679/mcdonalds-ending-ai-chatbot-drive-thru-ordering-test-ibm)
 * [2024-06-17, 01:44:13](https://news.ycombinator.com/item?id=40701607) - [Changing a mean reversion strategy to deliver 30% annual returns since 1999](https://www.quantitativo.com/p/the-holy-grail-still-works)
