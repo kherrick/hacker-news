@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-17, 09:16:48](https://news.ycombinator.com/item?id=40703758) - [Commercial perovskite solar modules at SNEC 2024 trade show](https://www.pv-magazine.com/2024/06/13/commercial-perovskite-solar-modules-at-snec-2024-trade-show/)
 * [2024-06-17, 07:40:18](https://news.ycombinator.com/item?id=40703176) - [Developer Takes 'Retro' Concept to New Level by Creating Physical Winamp Player](https://www.xatakaon.com/makers/a-developer-has-just-taken-the-concept-of-retro-to-a-new-level-by-creating-a-physical-winamp-player)
 * [2024-06-17, 07:05:42](https://news.ycombinator.com/item?id=40702985) - [The time keepers: pg_cron and pg_timetable](https://notso.boringsql.com/posts/time-keepers-pg-cron-pg-timetable/)
 * [2024-06-17, 07:00:40](https://news.ycombinator.com/item?id=40702965) - [Firezone (YC W22) Is Hiring a Senior Rust Engineer (Mountain View)](https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-rust-engineer-systems)
@@ -27,7 +28,6 @@
 * [2024-06-16, 14:29:14](https://news.ycombinator.com/item?id=40697341) - [An Interview with AMD CEO Lisa Su About Solving Hard Problems](https://stratechery.com/2024/an-interview-with-amd-ceo-lisa-su-about-solving-hard-problems/)
 * [2024-06-16, 08:08:40](https://news.ycombinator.com/item?id=40695497) - [Bolivia's little-known African tribal kingdom (2021)](https://www.bbc.com/travel/article/20210310-bolivias-little-known-tribal-kingdom)
 * [2024-06-16, 06:04:18](https://news.ycombinator.com/item?id=40695001) - [Hello world in C inline assembly (2020)](https://jameshfisher.com/2018/02/20/c-inline-assembly-hello-world/)
-* [2024-06-16, 04:39:58](https://news.ycombinator.com/item?id=40694726) - [From Fire Hazards to Family Trees: The Sanborn Fire Insurance Maps](https://publicdomainreview.org/essay/sanborn-fire-insurance-maps/)
 * [2024-06-16, 01:25:07](https://news.ycombinator.com/item?id=40693984) - [Quantum entangled photons react to Earth's spin](https://phys.org/news/2024-06-quantum-entangled-photons-react-earth.html)
 * [2024-06-15, 06:10:31](https://news.ycombinator.com/item?id=40687840) - [Sales happen when buyers fear missing out](https://tidyfirst.substack.com/p/sales-happen-when-buyers-fear-missing)
 
