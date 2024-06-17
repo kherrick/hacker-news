@@ -34,6 +34,7 @@
 * [2024-06-16, 17:19:17](https://news.ycombinator.com/item?id=40698610) - [The Banana Pi M7](https://taoofmac.com/space/blog/2024/06/16/1800)
 * [2024-06-16, 17:07:56](https://news.ycombinator.com/item?id=40698536) - [I've compared nearly all Rust crates.io crates to contents of their Git repos](https://mastodon.social/@kornel/112626463128422583)
 * [2024-06-16, 17:01:09](https://news.ycombinator.com/item?id=40698487) - [Lago (Open Source Usage Based Billing) Is Hiring a Head of Finance (SF)](https://jobs.lever.co/getlago/5f75502e-ecc5-4660-a2ad-e66f91e81e59)
+* [2024-06-16, 16:56:05](https://news.ycombinator.com/item?id=40698451) - [A Step Forward in Stingray Science](https://hakaimagazine.com/features/a-step-forward-in-stingray-science/)
 * [2024-06-16, 16:55:31](https://news.ycombinator.com/item?id=40698442) - [Building SimCity: How to Put the World in a Machine (MIT Press, 2024)](https://mitpress.mit.edu/9780262547482/building-simcity/)
 * [2024-06-16, 16:50:48](https://news.ycombinator.com/item?id=40698415) - [The Unending Allure of High Mountains](https://www.noemamag.com/the-unending-allure-of-high-mountains/)
 * [2024-06-16, 16:50:18](https://news.ycombinator.com/item?id=40698412) - [Edinburgh, Scotland makes it illegal to advertise SUVs](https://www.washingtonpost.com/climate-solutions/2024/06/15/fossil-fuel-advertising-bans-edinburgh/)
