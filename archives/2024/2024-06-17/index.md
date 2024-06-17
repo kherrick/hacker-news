@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2024-06-17](index.md)
 
 * [2024-06-17, 18:24:25](https://news.ycombinator.com/item?id=40709181) - [Making Serverless Orchestration 25x Faster](https://www.dbos.dev/blog/dbos-vs-aws-step-functions-benchmark)
+* [2024-06-17, 17:58:33](https://news.ycombinator.com/item?id=40708827) - [Asus agrees to a whole raft of US warranty service improvements after complaints](https://www.pcgamer.com/hardware/asus-agrees-to-a-whole-raft-of-us-warranty-service-improvements-after-it-meets-with-gamers-nexus/)
 * [2024-06-17, 17:52:03](https://news.ycombinator.com/item?id=40708733) - [User is locked out every day when she goes to lunch](https://old.reddit.com/r/sysadmin/comments/1dhy8ca/user_is_locked_out_every_day_when_she_goes_to/)
+* [2024-06-17, 17:50:50](https://news.ycombinator.com/item?id=40708720) - [A policy maker's introduction to AI fundamentals](https://www.answer.ai/posts/2024-06-11-os-ai.html)
 * [2024-06-17, 17:43:58](https://news.ycombinator.com/item?id=40708615) - [Tim Cook is 'not 100 percent' sure Apple can stop AI hallucinations](https://www.theverge.com/2024/6/11/24176035/tim-cook-apple-stop-ai-hallucinations)
 * [2024-06-17, 17:40:17](https://news.ycombinator.com/item?id=40708557) - [Florida Sheriff Grady Judd Decides He's Capable of Running an AI Crime Thingy](https://www.techdirt.com/2024/06/17/florida-sheriff-grady-judd-decides-hes-capable-of-running-an-ai-crime-thingy/)
 * [2024-06-17, 17:05:05](https://news.ycombinator.com/item?id=40708046) - [Proton is taking its privacy-first apps to a nonprofit foundation model](https://arstechnica.com/gadgets/2024/06/proton-is-taking-its-privacy-first-apps-to-a-nonprofit-foundation-model/)
