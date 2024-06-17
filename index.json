@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-17, 15:17:40",
+      "https://news.ycombinator.com/item?id=40706467"
+    ],
+    [
+      "Crossing the Impossible FFI Boundary, and My Gradual Descent into Madness",
+      "https://verdagon.dev/blog/exploring-seamless-rust-interop-part-2"
+    ]
+  ],
+  [
+    [
+      "2024-06-17, 15:10:29",
+      "https://news.ycombinator.com/item?id=40706373"
+    ],
+    [
+      "The Pay Raise People Say They Need to Be Happy",
+      "https://www.wsj.com/personal-finance/income-raise-happiness-06a70900"
+    ]
+  ],
+  [
+    [
       "2024-06-17, 15:07:17",
       "https://news.ycombinator.com/item?id=40706337"
     ],
@@ -31,6 +51,16 @@
   ],
   [
     [
+      "2024-06-17, 14:13:58",
+      "https://news.ycombinator.com/item?id=40705839"
+    ],
+    [
+      "Show HN: Create a stunning portrait painting from one photo",
+      "https://drawbert.ai"
+    ]
+  ],
+  [
+    [
       "2024-06-17, 13:31:50",
       "https://news.ycombinator.com/item?id=40705464"
     ],
@@ -45,7 +75,7 @@
       "https://news.ycombinator.com/item?id=40705222"
     ],
     [
-      "How I Made Trading Cards with E-Ink Displays (2023)",
+      "Trading cards with e-ink displays (2023)",
       "https://howtoware.co/wyldcard"
     ]
   ],
@@ -91,12 +121,12 @@
   ],
   [
     [
-      "2024-06-17, 09:16:48",
-      "https://news.ycombinator.com/item?id=40703758"
+      "2024-06-17, 10:22:17",
+      "https://news.ycombinator.com/item?id=40704096"
     ],
     [
-      "Commercial perovskite solar modules at SNEC 2024 trade show",
-      "https://www.pv-magazine.com/2024/06/13/commercial-perovskite-solar-modules-at-snec-2024-trade-show/"
+      "Pop Culture Has Become an Oligopoly (2022)",
+      "https://www.experimental-history.com/p/pop-culture-has-become-an-oligopoly"
     ]
   ],
   [
@@ -141,12 +171,12 @@
   ],
   [
     [
-      "2024-06-17, 06:14:50",
-      "https://news.ycombinator.com/item?id=40702782"
+      "2024-06-17, 05:38:39",
+      "https://news.ycombinator.com/item?id=40702617"
     ],
     [
-      "How to get stuff repaired when the manufacturer don't wanna: take 'em to court",
-      "https://blog.simonrumble.com/how-to-get-your-stuff-repaired-when-the-retailer-and-manufacturer-dont-wanna-take-em-to-court"
+      "Creativity has left the chat: The price of debiasing language models",
+      "https://arxiv.org/abs/2406.05587"
     ]
   ],
   [
@@ -161,12 +191,12 @@
   ],
   [
     [
-      "2024-06-17, 05:23:15",
-      "https://news.ycombinator.com/item?id=40702546"
+      "2024-06-17, 03:44:20",
+      "https://news.ycombinator.com/item?id=40702146"
     ],
     [
-      "Marion Stokes, the Woman Who Spent over 30 Years Recording Every Minute of US TV",
-      "https://allthatsinteresting.com/marion-stokes"
+      "I learned Haskell in just 15 years",
+      "https://duckrabbit.tech/articles/learning-haskell.html"
     ]
   ],
   [
@@ -191,12 +221,12 @@
   ],
   [
     [
-      "2024-06-16, 22:09:50",
-      "https://news.ycombinator.com/item?id=40700530"
+      "2024-06-16, 22:27:23",
+      "https://news.ycombinator.com/item?id=40700643"
     ],
     [
-      "To see is to forget the name of the thing one sees (2009)",
-      "https://geopolicraticus.wordpress.com/2009/08/21/to-see-is-to-forget-the-name-of-the-thing-one-sees/"
+      "Horses may have been domesticated twice",
+      "https://www.sciencenews.org/article/horses-domesticated-mobility-timing"
     ]
   ],
   [
@@ -207,16 +237,6 @@
     [
       "MicroMac, a Macintosh for under £5",
       "https://axio.ms/projects/2024/06/16/MicroMac.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-16, 19:50:16",
-      "https://news.ycombinator.com/item?id=40699583"
-    ],
-    [
-      "Bouba/kiki effect",
-      "https://en.wikipedia.org/wiki/Bouba/kiki_effect"
     ]
   ],
   [
@@ -237,16 +257,6 @@
     [
       "Building SimCity: How to put the world in a machine",
       "https://mitpress.mit.edu/9780262547482/building-simcity/"
-    ]
-  ],
-  [
-    [
-      "2024-06-16, 15:59:47",
-      "https://news.ycombinator.com/item?id=40697992"
-    ],
-    [
-      "Packaging Swift Apps for Alpine Linux",
-      "https://mko.re/blog/swift-alpine-packaging/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Hello world in C inline assembly (2020)",
       "https://jameshfisher.com/2018/02/20/c-inline-assembly-hello-world/"
-    ]
-  ],
-  [
-    [
-      "2024-06-16, 01:25:07",
-      "https://news.ycombinator.com/item?id=40693984"
-    ],
-    [
-      "Quantum entangled photons react to Earth's spin",
-      "https://phys.org/news/2024-06-quantum-entangled-photons-react-earth.html"
     ]
   ]
 ]
