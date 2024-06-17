@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-17, 18:24:25](https://news.ycombinator.com/item?id=40709181) - [Making Serverless Orchestration 25x Faster](https://www.dbos.dev/blog/dbos-vs-aws-step-functions-benchmark)
 * [2024-06-17, 17:52:03](https://news.ycombinator.com/item?id=40708733) - [User is locked out every day when she goes to lunch](https://old.reddit.com/r/sysadmin/comments/1dhy8ca/user_is_locked_out_every_day_when_she_goes_to/)
-* [2024-06-17, 17:40:17](https://news.ycombinator.com/item?id=40708557) - [Florida Sheriff Grady Judd Decides He's Capable of Running an AI Crime Thingy](https://www.techdirt.com/2024/06/17/florida-sheriff-grady-judd-decides-hes-capable-of-running-an-ai-crime-thingy/)
 * [2024-06-17, 17:05:05](https://news.ycombinator.com/item?id=40708046) - [Proton is taking its privacy-first apps to a nonprofit foundation model](https://arstechnica.com/gadgets/2024/06/proton-is-taking-its-privacy-first-apps-to-a-nonprofit-foundation-model/)
 * [2024-06-17, 17:00:13](https://news.ycombinator.com/item?id=40707986) - [Carma (YC W24) Hiring a Founding Full-Stack SWE to Get Fleets Same-Day Auto Repair](https://www.ycombinator.com/companies/carma/jobs/v6CTeFv-founding-full-stack-software-engineer-react-react-native-node-js-nestjs)
 * [2024-06-17, 16:51:54](https://news.ycombinator.com/item?id=40707880) - [London Underground hosts tests for 'quantum compass' that could replace GPS](https://www.theguardian.com/science/article/2024/jun/15/london-underground-quantum-compass-gps-subatomic-instrument-locations)
@@ -9,8 +9,8 @@
 * [2024-06-17, 16:29:53](https://news.ycombinator.com/item?id=40707558) - [FTC sues Adobe for hiding fees and inhibiting cancellations](https://www.ftc.gov/news-events/news/press-releases/2024/06/ftc-takes-action-against-adobe-executives-hiding-fees-preventing-consumers-easily-cancelling)
 * [2024-06-17, 16:01:43](https://news.ycombinator.com/item?id=40707084) - [Let Readers Read](https://blog.archive.org/2024/06/17/let-readers-read/)
 * [2024-06-17, 15:17:40](https://news.ycombinator.com/item?id=40706467) - [Crossing the impossible FFI boundary, and my gradual descent into madness](https://verdagon.dev/blog/exploring-seamless-rust-interop-part-2)
-* [2024-06-17, 14:52:14](https://news.ycombinator.com/item?id=40706183) - [First randomized trial of Ozempic for alcoholism shows big drops in drinking](https://recursiveadaptation.com/p/first-ever-randomized-trial-of-ozempic)
 * [2024-06-17, 14:50:32](https://news.ycombinator.com/item?id=40706164) - [TDK claims solid state battery breakthrough](https://arstechnica.com/gadgets/2024/06/tdk-claims-insane-energy-density-in-solid-state-battery-breakthrough/)
+* [2024-06-17, 14:14:04](https://news.ycombinator.com/item?id=40705841) - [How React 19 Almost Made the Internet Slower](https://blog.codeminer42.com/how-react-19-almost-made-the-internet-slower/)
 * [2024-06-17, 13:31:50](https://news.ycombinator.com/item?id=40705464) - [How to test without mocking](https://www.amazingcto.com/mocking-is-an-antipattern-how-to-test-without-mocking/)
 * [2024-06-17, 13:04:29](https://news.ycombinator.com/item?id=40705222) - [Trading cards with e-ink displays (2023)](https://howtoware.co/wyldcard)
 * [2024-06-17, 13:00:35](https://news.ycombinator.com/item?id=40705196) - [DJI ban passes the House and moves on to the Senate](https://dronedj.com/2024/06/14/dji-ban-passes-the-house-and-moves-on-to-the-senate/)
