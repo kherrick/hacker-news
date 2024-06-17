@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=40707558"
     ],
     [
-      "FTC Takes Action Against Adobe and Executives for Deceiving Customers About Fees",
+      "FTC sues Adobe for hiding fees and inhibiting cancellations",
       "https://www.ftc.gov/news-events/news/press-releases/2024/06/ftc-takes-action-against-adobe-executives-hiding-fees-preventing-consumers-easily-cancelling"
     ]
   ],
@@ -17,16 +17,6 @@
     [
       "Let Readers Read",
       "https://blog.archive.org/2024/06/17/let-readers-read/"
-    ]
-  ],
-  [
-    [
-      "2024-06-17, 15:58:55",
-      "https://news.ycombinator.com/item?id=40707037"
-    ],
-    [
-      "US sues Adobe for 'deceiving' subscriptions that are too hard to cancel",
-      "https://www.theverge.com/2024/6/17/24180196/adobe-us-ftc-doj-sues-subscriptions-cancel"
     ]
   ],
   [
@@ -47,16 +37,6 @@
     [
       "Crossing the impossible FFI boundary, and my gradual descent into madness",
       "https://verdagon.dev/blog/exploring-seamless-rust-interop-part-2"
-    ]
-  ],
-  [
-    [
-      "2024-06-17, 15:02:55",
-      "https://news.ycombinator.com/item?id=40706288"
-    ],
-    [
-      "Group of 17 London secondary schools join up to go smartphone-free",
-      "https://www.theguardian.com/technology/article/2024/jun/06/group-of-17-london-secondary-schools-join-up-to-go-smartphone-free"
     ]
   ],
   [
@@ -85,7 +65,7 @@
       "https://news.ycombinator.com/item?id=40705464"
     ],
     [
-      "Mocking Is an Anti-Pattern",
+      "How to test without mocking",
       "https://www.amazingcto.com/mocking-is-an-antipattern-how-to-test-without-mocking/"
     ]
   ],
@@ -147,6 +127,16 @@
     [
       "Pop culture has become an oligopoly (2022)",
       "https://www.experimental-history.com/p/pop-culture-has-become-an-oligopoly"
+    ]
+  ],
+  [
+    [
+      "2024-06-17, 09:15:23",
+      "https://news.ycombinator.com/item?id=40703751"
+    ],
+    [
+      "A discussion of discussions on AI Bias",
+      "https://danluu.com/ai-bias/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Show HN: We made a small and cheap network switch",
       "https://docs.murexrobotics.com/elec/boards/networking/switch"
+    ]
+  ],
+  [
+    [
+      "2024-06-16, 01:25:07",
+      "https://news.ycombinator.com/item?id=40693984"
+    ],
+    [
+      "Quantum entangled photons react to Earth's spin",
+      "https://phys.org/news/2024-06-quantum-entangled-photons-react-earth.html"
     ]
   ]
 ]
