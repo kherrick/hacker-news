@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-17, 03:44:20",
+      "https://news.ycombinator.com/item?id=40702146"
+    ],
+    [
+      "I learned Haskell in just 15 years",
+      "https://duckrabbit.tech/articles/learning-haskell.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-17, 01:03:47",
+      "https://news.ycombinator.com/item?id=40701416"
+    ],
+    [
+      "In AI we trust, part II: Wherein AI adjudicates every Supreme Court case",
+      "https://adamunikowsky.substack.com/p/in-ai-we-trust-part-ii"
+    ]
+  ],
+  [
+    [
       "2024-06-17, 00:58:31",
       "https://news.ycombinator.com/item?id=40701391"
     ],
@@ -37,16 +57,6 @@
     [
       "Horses may have been domesticated twice. Only one attempt stuck",
       "https://www.sciencenews.org/article/horses-domesticated-mobility-timing"
-    ]
-  ],
-  [
-    [
-      "2024-06-16, 22:18:19",
-      "https://news.ycombinator.com/item?id=40700586"
-    ],
-    [
-      "Maintaining large-scale AI capacity at Meta",
-      "https://engineering.fb.com/2024/06/12/production-engineering/maintaining-large-scale-ai-capacity-meta/"
     ]
   ],
   [
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2024-06-16, 19:05:04",
-      "https://news.ycombinator.com/item?id=40699278"
-    ],
-    [
-      "Show HN: Searchable Kubernetes CSI provider listing",
-      "https://storageclass.info/storageclasses/"
-    ]
-  ],
-  [
-    [
       "2024-06-16, 18:33:18",
       "https://news.ycombinator.com/item?id=40699079"
     ],
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2024-06-16, 07:44:47",
-      "https://news.ycombinator.com/item?id=40695387"
+      "2024-06-16, 14:29:14",
+      "https://news.ycombinator.com/item?id=40697341"
     ],
     [
-      "On Dromomania",
-      "https://sophiefuji.com/travels.html"
+      "An Interview with AMD CEO Lisa Su About Solving Hard Problems",
+      "https://stratechery.com/2024/an-interview-with-amd-ceo-lisa-su-about-solving-hard-problems/"
     ]
   ],
   [
