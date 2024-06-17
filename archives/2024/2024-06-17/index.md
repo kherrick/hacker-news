@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-06-17](index.md)
 
+* [2024-06-17, 21:00:14](https://news.ycombinator.com/item?id=40711008) - [Suiteness (YC S16) Is Hiring for TypeScript/Qwik](https://www.ycombinator.com/companies/suiteness/jobs/DIrk9Sf-front-end-engineer)
 * [2024-06-17, 20:04:19](https://news.ycombinator.com/item?id=40710417) - [Sam Altman is not on YC's board. So why claim to be its chair?](https://www.bizjournals.com/sanfrancisco/inno/stories/news/2024/04/15/sam-altman-y-combinator-board-chair.html)
 * [2024-06-17, 20:02:34](https://news.ycombinator.com/item?id=40710397) - [Where did you go, Ms. Pac-Man?](https://www.thrillingtalesofoldvideogames.com/blog/ms-pac-man-disappear-pac-mom)
 * [2024-06-17, 19:56:38](https://news.ycombinator.com/item?id=40710301) - [At 15, Darlene Stubbs left a polygamous cult, found a new life through running](https://www.runnersworld.com/runners-stories/a60791305/short-creek-running-club-flds-polygamy/)
 * [2024-06-17, 19:49:10](https://news.ycombinator.com/item?id=40710201) - [Sei pays out $2M Bug Bounty](https://usmannkhan.com/bug%20reports/2024/06/17/sei-bug-report.html)
 * [2024-06-17, 19:44:53](https://news.ycombinator.com/item?id=40710154) - [Show HN: Token price calculator for 400+ LLMs](https://github.com/AgentOps-AI/tokencost)
+* [2024-06-17, 19:43:13](https://news.ycombinator.com/item?id=40710138) - [Show HN: ThreadQuilt: AI-Free Thread Aggregator](https://www.threadquilt.com)
 * [2024-06-17, 19:42:42](https://news.ycombinator.com/item?id=40710133) - [Stable Diffusion 3 banned on CivitAI due to license](https://civitai.com/articles/5732/temporary-stable-diffusion-3-ban)
 * [2024-06-17, 19:34:24](https://news.ycombinator.com/item?id=40710061) - [NZ at the centre of cross-govt group sharing personal traveller records](https://www.rnz.co.nz/programmes/in-depth-special-projects/story/2018942840/nz-at-the-centre-of-cross-govt-group-sharing-millions-of-personal-traveller-records-between-countries)
 * [2024-06-17, 19:14:47](https://news.ycombinator.com/item?id=40709824) - [Wired Amazon-Powered AI Cameras Used to Detect Emotions of UK Train Passengers](https://www.wired.com/story/amazon-ai-cameras-emotions-uk-train-passengers/)
@@ -20,6 +22,7 @@
 * [2024-06-17, 18:44:54](https://news.ycombinator.com/item?id=40709451) - [Apple Discontinuing Apple Pay Later](https://9to5mac.com/2024/06/17/apple-pay-later-united-states-ending/)
 * [2024-06-17, 18:35:21](https://news.ycombinator.com/item?id=40709337) - [How a Car Salesman Became a Community Banking Pioneer](https://xiva.com/blog/dave-fishwick-community-banking-pioneer)
 * [2024-06-17, 18:24:25](https://news.ycombinator.com/item?id=40709181) - [Making Serverless Orchestration 25x Faster](https://www.dbos.dev/blog/dbos-vs-aws-step-functions-benchmark)
+* [2024-06-17, 18:18:05](https://news.ycombinator.com/item?id=40709099) - [Spain's AI Doctor](https://pulitzercenter.org/stories/spains-ai-doctor)
 * [2024-06-17, 18:07:45](https://news.ycombinator.com/item?id=40708963) - [Correlation Between Fecal Microplastics and Inflammatory Bowel Disease](https://pubs.acs.org/doi/abs/10.1021/acs.est.1c03924)
 * [2024-06-17, 17:58:33](https://news.ycombinator.com/item?id=40708827) - [Asus agrees to a whole raft of US warranty service improvements after complaints](https://www.pcgamer.com/hardware/asus-agrees-to-a-whole-raft-of-us-warranty-service-improvements-after-it-meets-with-gamers-nexus/)
 * [2024-06-17, 17:52:03](https://news.ycombinator.com/item?id=40708733) - [User is locked out every day when she goes to lunch](https://old.reddit.com/r/sysadmin/comments/1dhy8ca/user_is_locked_out_every_day_when_she_goes_to/)
