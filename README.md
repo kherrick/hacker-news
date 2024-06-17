@@ -2,11 +2,11 @@
 
 * [2024-06-17, 13:11:17](https://news.ycombinator.com/item?id=40705280) - [Ask HN: My manager is bad. Should I care?](https://news.ycombinator.com/item?id=40705280)
 * [2024-06-17, 13:04:29](https://news.ycombinator.com/item?id=40705222) - [How I Made Trading Cards with E-Ink Displays](https://howtoware.co/wyldcard)
+* [2024-06-17, 13:00:35](https://news.ycombinator.com/item?id=40705196) - [DJI ban passes the House and moves on to the Senate](https://dronedj.com/2024/06/14/dji-ban-passes-the-house-and-moves-on-to-the-senate/)
 * [2024-06-17, 12:50:55](https://news.ycombinator.com/item?id=40705116) - [Monopolies across the grocery supply chain squeeze consumers, small businesses](https://prospect.org/economy/2024-06-12-war-in-the-aisles/)
 * [2024-06-17, 12:33:51](https://news.ycombinator.com/item?id=40704950) - [TinyLetter, in Memoriam](https://www.theverge.com/24085737/tinyletter-mailchimp-shut-down-email-newsletters)
 * [2024-06-17, 12:15:49](https://news.ycombinator.com/item?id=40704812) - [The Programmer's Brain](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/the-programmers-brain)
 * [2024-06-17, 11:14:40](https://news.ycombinator.com/item?id=40704428) - [Being laid off and unplanned entrepreneurship](https://www.deepsouthventures.com/on-being-laid-off-unplanned-entrepreneurship/)
-* [2024-06-17, 10:22:17](https://news.ycombinator.com/item?id=40704096) - [Pop Culture Has Become an Oligopoly (2022)](https://www.experimental-history.com/p/pop-culture-has-become-an-oligopoly)
 * [2024-06-17, 09:16:48](https://news.ycombinator.com/item?id=40703758) - [Commercial perovskite solar modules at SNEC 2024 trade show](https://www.pv-magazine.com/2024/06/13/commercial-perovskite-solar-modules-at-snec-2024-trade-show/)
 * [2024-06-17, 09:15:23](https://news.ycombinator.com/item?id=40703751) - [A discussion of discussions on AI Bias](https://danluu.com/ai-bias/)
 * [2024-06-17, 08:42:03](https://news.ycombinator.com/item?id=40703554) - [Nsss: A secure NSS-like implementation for static linking](https://skarnet.org/software/nsss/)
