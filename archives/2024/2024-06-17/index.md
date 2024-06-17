@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-06-17](index.md)
 
+* [2024-06-17, 17:00:13](https://news.ycombinator.com/item?id=40707986) - [Carma (YC W24) Hiring a Founding Full-Stack SWE to Get Fleets Same-Day Auto Repair](https://www.ycombinator.com/companies/carma/jobs/v6CTeFv-founding-full-stack-software-engineer-react-react-native-node-js-nestjs)
 * [2024-06-17, 16:29:53](https://news.ycombinator.com/item?id=40707558) - [FTC Takes Action Against Adobe and Executives for Deceiving Customers About Fees](https://www.ftc.gov/news-events/news/press-releases/2024/06/ftc-takes-action-against-adobe-executives-hiding-fees-preventing-consumers-easily-cancelling)
+* [2024-06-17, 16:26:21](https://news.ycombinator.com/item?id=40707490) - [The darker side of being a doctor](https://drericlevi1.substack.com/p/the-darker-side-of-being-a-doctor)
+* [2024-06-17, 16:10:06](https://news.ycombinator.com/item?id=40707222) - [Wells Fargo Bet on a Flashy Rent Credit Card. It Is Costing the Bank Dearly](https://www.wsj.com/finance/banking/wells-fargo-credit-card-rent-rewards-8e380852)
 * [2024-06-17, 16:01:43](https://news.ycombinator.com/item?id=40707084) - [Let Readers Read](https://blog.archive.org/2024/06/17/let-readers-read/)
 * [2024-06-17, 15:58:55](https://news.ycombinator.com/item?id=40707037) - [US sues Adobe for 'deceiving' subscriptions that are too hard to cancel](https://www.theverge.com/2024/6/17/24180196/adobe-us-ftc-doj-sues-subscriptions-cancel)
 * [2024-06-17, 15:48:09](https://news.ycombinator.com/item?id=40706872) - [NASA again delays Boeing Starliner's return home](https://phys.org/news/2024-06-nasa-delays-boeing-starliner-home.html)
