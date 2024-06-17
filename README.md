@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-17, 16:29:53](https://news.ycombinator.com/item?id=40707558) - [FTC Takes Action Against Adobe and Executives for Deceiving Customers About Fees](https://www.ftc.gov/news-events/news/press-releases/2024/06/ftc-takes-action-against-adobe-executives-hiding-fees-preventing-consumers-easily-cancelling)
 * [2024-06-17, 16:01:43](https://news.ycombinator.com/item?id=40707084) - [Let Readers Read](https://blog.archive.org/2024/06/17/let-readers-read/)
 * [2024-06-17, 15:58:55](https://news.ycombinator.com/item?id=40707037) - [US sues Adobe for 'deceiving' subscriptions that are too hard to cancel](https://www.theverge.com/2024/6/17/24180196/adobe-us-ftc-doj-sues-subscriptions-cancel)
 * [2024-06-17, 15:48:09](https://news.ycombinator.com/item?id=40706872) - [NASA again delays Boeing Starliner's return home](https://phys.org/news/2024-06-nasa-delays-boeing-starliner-home.html)
@@ -14,7 +15,6 @@
 * [2024-06-17, 12:15:49](https://news.ycombinator.com/item?id=40704812) - [The Programmer's Brain (2021)](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/the-programmers-brain)
 * [2024-06-17, 11:14:40](https://news.ycombinator.com/item?id=40704428) - [Being laid off and unplanned entrepreneurship](https://www.deepsouthventures.com/on-being-laid-off-unplanned-entrepreneurship/)
 * [2024-06-17, 10:22:17](https://news.ycombinator.com/item?id=40704096) - [Pop culture has become an oligopoly (2022)](https://www.experimental-history.com/p/pop-culture-has-become-an-oligopoly)
-* [2024-06-17, 09:15:23](https://news.ycombinator.com/item?id=40703751) - [A discussion of discussions on AI Bias](https://danluu.com/ai-bias/)
 * [2024-06-17, 08:42:03](https://news.ycombinator.com/item?id=40703554) - [Nsss: A secure NSS-like implementation for static linking](https://skarnet.org/software/nsss/)
 * [2024-06-17, 07:28:03](https://news.ycombinator.com/item?id=40703088) - [How innovative is China in nuclear power?](https://itif.org/publications/2024/06/17/how-innovative-is-china-in-nuclear-power/)
 * [2024-06-17, 07:00:40](https://news.ycombinator.com/item?id=40702965) - [Firezone (YC W22) Is Hiring a Senior Rust Engineer (Mountain View)](https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-rust-engineer-systems)
