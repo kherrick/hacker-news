@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-17, 16:01:43",
+      "https://news.ycombinator.com/item?id=40707084"
+    ],
+    [
+      "Let Readers Read",
+      "https://blog.archive.org/2024/06/17/let-readers-read/"
+    ]
+  ],
+  [
+    [
+      "2024-06-17, 15:58:55",
+      "https://news.ycombinator.com/item?id=40707037"
+    ],
+    [
+      "US sues Adobe for 'deceiving' subscriptions that are too hard to cancel",
+      "https://www.theverge.com/2024/6/17/24180196/adobe-us-ftc-doj-sues-subscriptions-cancel"
+    ]
+  ],
+  [
+    [
       "2024-06-17, 15:48:09",
       "https://news.ycombinator.com/item?id=40706872"
     ],
@@ -21,26 +41,6 @@
   ],
   [
     [
-      "2024-06-17, 15:10:29",
-      "https://news.ycombinator.com/item?id=40706373"
-    ],
-    [
-      "The Pay Raise People Say They Need to Be Happy",
-      "https://www.wsj.com/personal-finance/income-raise-happiness-06a70900"
-    ]
-  ],
-  [
-    [
-      "2024-06-17, 15:07:17",
-      "https://news.ycombinator.com/item?id=40706337"
-    ],
-    [
-      "BYD and CATL aim to launch new EV batteries with 6C charge rate",
-      "https://www.teslarati.com/byd-catl-6c-charge-rate-electric-vehicle-battery/"
-    ]
-  ],
-  [
-    [
       "2024-06-17, 15:02:55",
       "https://news.ycombinator.com/item?id=40706288"
     ],
@@ -55,18 +55,8 @@
       "https://news.ycombinator.com/item?id=40706164"
     ],
     [
-      "TDK claims insane energy density in solid state battery breakthrough",
+      "TDK claims solid state battery breakthrough",
       "https://arstechnica.com/gadgets/2024/06/tdk-claims-insane-energy-density-in-solid-state-battery-breakthrough/"
-    ]
-  ],
-  [
-    [
-      "2024-06-17, 14:41:12",
-      "https://news.ycombinator.com/item?id=40706083"
-    ],
-    [
-      "Smart devices a privacy nightmare, Amazon Alexa, Google Home worst offenders",
-      "https://www.firstpost.com/tech/smart-home-devices-a-privacy-nightmare-amazon-alexa-google-home-worst-offenders-finds-study-13783175.html"
     ]
   ],
   [
@@ -75,7 +65,7 @@
       "https://news.ycombinator.com/item?id=40705839"
     ],
     [
-      "Show HN: Create a stunning portrait painting from one photo",
+      "Show HN: Create a portrait painting from one photo",
       "https://drawbert.ai"
     ]
   ],
@@ -145,7 +135,7 @@
       "https://news.ycombinator.com/item?id=40704096"
     ],
     [
-      "Pop Culture Has Become an Oligopoly (2022)",
+      "Pop culture has become an oligopoly (2022)",
       "https://www.experimental-history.com/p/pop-culture-has-become-an-oligopoly"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "Hello world in C inline assembly (2020)",
       "https://jameshfisher.com/2018/02/20/c-inline-assembly-hello-world/"
+    ]
+  ],
+  [
+    [
+      "2024-06-16, 02:26:55",
+      "https://news.ycombinator.com/item?id=40694254"
+    ],
+    [
+      "Show HN: We made a small and cheap network switch",
+      "https://docs.murexrobotics.com/elec/boards/networking/switch"
     ]
   ]
 ]
