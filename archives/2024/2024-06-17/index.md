@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-17](index.md)
 
+* [2024-06-17, 18:35:21](https://news.ycombinator.com/item?id=40709337) - [How a Car Salesman Became a Community Banking Pioneer](https://xiva.com/blog/dave-fishwick-community-banking-pioneer)
 * [2024-06-17, 18:24:25](https://news.ycombinator.com/item?id=40709181) - [Making Serverless Orchestration 25x Faster](https://www.dbos.dev/blog/dbos-vs-aws-step-functions-benchmark)
 * [2024-06-17, 17:58:33](https://news.ycombinator.com/item?id=40708827) - [Asus agrees to a whole raft of US warranty service improvements after complaints](https://www.pcgamer.com/hardware/asus-agrees-to-a-whole-raft-of-us-warranty-service-improvements-after-it-meets-with-gamers-nexus/)
 * [2024-06-17, 17:52:03](https://news.ycombinator.com/item?id=40708733) - [User is locked out every day when she goes to lunch](https://old.reddit.com/r/sysadmin/comments/1dhy8ca/user_is_locked_out_every_day_when_she_goes_to/)
@@ -19,6 +20,7 @@
 * [2024-06-17, 16:10:06](https://news.ycombinator.com/item?id=40707222) - [Wells Fargo Bet on a Flashy Rent Credit Card. It Is Costing the Bank Dearly](https://www.wsj.com/finance/banking/wells-fargo-credit-card-rent-rewards-8e380852)
 * [2024-06-17, 16:01:43](https://news.ycombinator.com/item?id=40707084) - [Let Readers Read](https://blog.archive.org/2024/06/17/let-readers-read/)
 * [2024-06-17, 15:58:55](https://news.ycombinator.com/item?id=40707037) - [US sues Adobe for 'deceiving' subscriptions that are too hard to cancel](https://www.theverge.com/2024/6/17/24180196/adobe-us-ftc-doj-sues-subscriptions-cancel)
+* [2024-06-17, 15:54:04](https://news.ycombinator.com/item?id=40706951) - [New Branding, Same Scanning: Upload Moderation Undermines End-to-End Encryption [pdf]](https://signal.org/blog/pdfs/upload-moderation.pdf)
 * [2024-06-17, 15:48:09](https://news.ycombinator.com/item?id=40706872) - [NASA again delays Boeing Starliner's return home](https://phys.org/news/2024-06-nasa-delays-boeing-starliner-home.html)
 * [2024-06-17, 15:17:40](https://news.ycombinator.com/item?id=40706467) - [Crossing the Impossible FFI Boundary, and My Gradual Descent into Madness](https://verdagon.dev/blog/exploring-seamless-rust-interop-part-2)
 * [2024-06-17, 15:10:29](https://news.ycombinator.com/item?id=40706373) - [The Pay Raise People Say They Need to Be Happy](https://www.wsj.com/personal-finance/income-raise-happiness-06a70900)
