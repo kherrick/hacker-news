@@ -28,6 +28,7 @@
 * [2024-06-17, 06:39:31](https://news.ycombinator.com/item?id=40702886) - [Meta won't train AI on Euro posts after all, as watchdogs put their paws down](https://www.theregister.com/2024/06/14/meta_eu_privacy/)
 * [2024-06-17, 06:14:50](https://news.ycombinator.com/item?id=40702782) - [How to get stuff repaired when the manufacturer don't wanna: take 'em to court](https://blog.simonrumble.com/how-to-get-your-stuff-repaired-when-the-retailer-and-manufacturer-dont-wanna-take-em-to-court)
 * [2024-06-17, 05:38:39](https://news.ycombinator.com/item?id=40702617) - [Creativity Has Left the Chat: The Price of Debiasing Language Models](https://arxiv.org/abs/2406.05587)
+* [2024-06-17, 05:29:30](https://news.ycombinator.com/item?id=40702580) - [Understanding a Python Closure Oddity](https://utcc.utoronto.ca/~cks/space/blog/python/UnderstandingClosureOddity)
 * [2024-06-17, 05:23:15](https://news.ycombinator.com/item?id=40702546) - [Marion Stokes, the Woman Who Spent over 30 Years Recording Every Minute of US TV](https://allthatsinteresting.com/marion-stokes)
 * [2024-06-17, 03:53:28](https://news.ycombinator.com/item?id=40702180) - [OpenBSD, the computer appliance maker's secret weapon](https://hiandrewquinn.github.io/til-site/posts/openbsd-the-computer-appliance-maker-s-secret-weapon/)
 * [2024-06-17, 03:44:20](https://news.ycombinator.com/item?id=40702146) - [I learned Haskell in just 15 years](https://duckrabbit.tech/articles/learning-haskell.html)
