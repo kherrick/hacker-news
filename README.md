@@ -12,13 +12,12 @@
 * [2024-06-17, 03:44:20](https://news.ycombinator.com/item?id=40702146) - [I learned Haskell in just 15 years](https://duckrabbit.tech/articles/learning-haskell.html)
 * [2024-06-17, 01:17:42](https://news.ycombinator.com/item?id=40701480) - [The Tyranny of the Flake Equation](https://www.moderndescartes.com/essays/flake_equation/)
 * [2024-06-17, 00:58:31](https://news.ycombinator.com/item?id=40701391) - [Augmenting biological intelligence with RL in C.elegans using optogenetics [pdf]](https://klab.tch.harvard.edu/publications/PDFs/gk8172.pdf)
+* [2024-06-17, 00:37:57](https://news.ycombinator.com/item?id=40701310) - [They make USB-C cables with displays now](https://ounapuu.ee/posts/2024/06/05/usb-c-cables/)
 * [2024-06-16, 22:11:11](https://news.ycombinator.com/item?id=40700546) - [Roger Linn reviews MPC Live 2](https://www.youtube.com/watch?v=0bhSWwf-i1k)
 * [2024-06-16, 22:09:50](https://news.ycombinator.com/item?id=40700530) - [To see is to forget the name of the thing one sees (2009)](https://geopolicraticus.wordpress.com/2009/08/21/to-see-is-to-forget-the-name-of-the-thing-one-sees/)
 * [2024-06-16, 21:39:18](https://news.ycombinator.com/item?id=40700343) - [Show HN: SQLite Database Explorer](https://github.com/frectonz/sqlite-studio)
-* [2024-06-16, 21:23:12](https://news.ycombinator.com/item?id=40700213) - [Sheaf Theory Through Examples](https://direct.mit.edu/books/oa-monograph/5460/Sheaf-Theory-through-Examples)
 * [2024-06-16, 20:02:47](https://news.ycombinator.com/item?id=40699684) - [MicroMac, a Macintosh for under £5](https://axio.ms/projects/2024/06/16/MicroMac.html)
 * [2024-06-16, 19:50:16](https://news.ycombinator.com/item?id=40699583) - [Bouba/kiki effect](https://en.wikipedia.org/wiki/Bouba/kiki_effect)
-* [2024-06-16, 19:39:27](https://news.ycombinator.com/item?id=40699504) - [First look at the upcoming Starlink Mini](https://www.starlinkhardware.com/first-look-at-the-upcoming-starlink-mini/)
 * [2024-06-16, 19:30:30](https://news.ycombinator.com/item?id=40699459) - [Quake 1 potential original font](https://cohost.org/bekoha/post/2859948-quake-1-potential-or)
 * [2024-06-16, 18:02:42](https://news.ycombinator.com/item?id=40698906) - [Why \"Structure and Interpretation of Computer Programs\" matters (2011)](https://people.eecs.berkeley.edu/~bh/sicp.html)
 * [2024-06-16, 17:30:28](https://news.ycombinator.com/item?id=40698680) - [How to Romhack: Mega Man Legends 2 [video]](https://www.youtube.com/watch?v=S0RmHFpdf-Y)
@@ -30,6 +29,7 @@
 * [2024-06-16, 07:22:19](https://news.ycombinator.com/item?id=40695295) - [Excerpts from Coders at Work: Joe Armstrong Interview (2013)](http://ivory.idyll.org/blog/coders-at-work-joe-armstrong.html)
 * [2024-06-16, 06:04:18](https://news.ycombinator.com/item?id=40695001) - [Hello world in C inline assembly (2020)](https://jameshfisher.com/2018/02/20/c-inline-assembly-hello-world/)
 * [2024-06-16, 01:25:07](https://news.ycombinator.com/item?id=40693984) - [Quantum entangled photons react to Earth's spin](https://phys.org/news/2024-06-quantum-entangled-photons-react-earth.html)
+* [2024-06-15, 06:10:31](https://news.ycombinator.com/item?id=40687840) - [Sales happen when buyers fear missing out](https://tidyfirst.substack.com/p/sales-happen-when-buyers-fear-missing)
 
 ## [Archives](archives/index.md)
 
