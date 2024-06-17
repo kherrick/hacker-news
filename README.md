@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-17, 02:35:18](https://news.ycombinator.com/item?id=40701868) - [McDonald's will stop testing AI to take drive-thru orders, for now](https://www.theverge.com/2024/6/16/24179679/mcdonalds-ending-ai-chatbot-drive-thru-ordering-test-ibm)
 * [2024-06-17, 01:44:13](https://news.ycombinator.com/item?id=40701607) - [Changing a mean reversion strategy to deliver 30% annual returns since 1999](https://www.quantitativo.com/p/the-holy-grail-still-works)
 * [2024-06-17, 00:58:31](https://news.ycombinator.com/item?id=40701391) - [Augmenting biological intelligence with RL in C.elegans using optogenetics [pdf]](https://klab.tch.harvard.edu/publications/PDFs/gk8172.pdf)
 * [2024-06-17, 00:37:57](https://news.ycombinator.com/item?id=40701310) - [They make USB-C cables with displays now](https://ounapuu.ee/posts/2024/06/05/usb-c-cables/)
@@ -17,6 +16,7 @@
 * [2024-06-16, 19:39:27](https://news.ycombinator.com/item?id=40699504) - [First look at the upcoming Starlink Mini](https://www.starlinkhardware.com/first-look-at-the-upcoming-starlink-mini/)
 * [2024-06-16, 19:32:23](https://news.ycombinator.com/item?id=40699470) - [NumPy 2.0](https://numpy.org/devdocs/release/2.0.0-notes.html)
 * [2024-06-16, 19:30:30](https://news.ycombinator.com/item?id=40699459) - [Quake 1 potential original font](https://cohost.org/bekoha/post/2859948-quake-1-potential-or)
+* [2024-06-16, 19:05:04](https://news.ycombinator.com/item?id=40699278) - [Show HN: Searchable Kubernetes CSI provider listing](https://storageclass.info/storageclasses/)
 * [2024-06-16, 18:33:18](https://news.ycombinator.com/item?id=40699079) - [Experts vs. Imitators](https://fs.blog/experts-vs-imitators/)
 * [2024-06-16, 18:02:42](https://news.ycombinator.com/item?id=40698906) - [Why Structure and Interpretation of Computer Programs Matters](https://people.eecs.berkeley.edu/~bh/sicp.html)
 * [2024-06-16, 17:01:09](https://news.ycombinator.com/item?id=40698487) - [Lago (YC S21, open source usage based billing) is hiring a head of finance (SF)](https://jobs.lever.co/getlago/5f75502e-ecc5-4660-a2ad-e66f91e81e59)
