@@ -63,6 +63,7 @@
 * [2024-06-16, 09:17:56](https://news.ycombinator.com/item?id=40695754) - [European Alternatives](https://european-alternatives.eu)
 * [2024-06-16, 09:00:32](https://news.ycombinator.com/item?id=40695679) - [Ask HN: Freelancers, how do you get work?](https://news.ycombinator.com/item?id=40695679)
 * [2024-06-16, 08:43:42](https://news.ycombinator.com/item?id=40695628) - [Htmd: A turndown.js inspired HTML-to-Markdown converter for Rust](https://github.com/letmutex/htmd)
+* [2024-06-16, 07:44:47](https://news.ycombinator.com/item?id=40695387) - [On Dromomania](https://sophiefuji.com/travels.html)
 * [2024-06-16, 07:39:28](https://news.ycombinator.com/item?id=40695365) - [R.A. Lafferty: \"The Greatest Catholic Novelist You Never Heard of\" (2018)](https://benedictinstitute.org/2018/02/r-lafferty-greatest-catholic-novelist-never-heard/)
 * [2024-06-16, 07:36:23](https://news.ycombinator.com/item?id=40695350) - [2 GHz Active Probe](https://jmw.name/projects/active-probe/)
 * [2024-06-16, 06:51:25](https://news.ycombinator.com/item?id=40695165) - [Making my first embedded Linux system](https://popovicu.com/posts/making-my-first-embedded-linux-system/)
