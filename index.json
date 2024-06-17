@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-06-17, 13:09:43",
+      "https://news.ycombinator.com/item?id=40705265"
+    ],
+    [
+      "Privacy app maker Proton transitions to non-profit foundation structure",
+      "https://techcrunch.com/2024/06/17/privacy-app-maker-proton-transitions-to-non-profit-foundation-structure/"
+    ]
+  ],
+  [
+    [
+      "2024-06-17, 13:06:09",
+      "https://news.ycombinator.com/item?id=40705238"
+    ],
+    [
+      "Google Chrome Will Track You for the Next 200 Days–Then It May Get Worse",
+      "https://www.forbes.com/sites/zakdoffman/2024/06/16/google-chrome-tracking-on-windows-android-iphone-for-200-more-days/"
+    ]
+  ],
+  [
+    [
+      "2024-06-17, 12:50:55",
+      "https://news.ycombinator.com/item?id=40705116"
+    ],
+    [
+      "Monopolies across the grocery supply chain squeeze consumers, small businesses",
+      "https://prospect.org/economy/2024-06-12-war-in-the-aisles/"
+    ]
+  ],
+  [
+    [
       "2024-06-17, 12:47:41",
       "https://news.ycombinator.com/item?id=40705079"
     ],
@@ -11,12 +41,12 @@
   ],
   [
     [
-      "2024-06-17, 12:35:08",
-      "https://news.ycombinator.com/item?id=40704961"
+      "2024-06-17, 12:46:57",
+      "https://news.ycombinator.com/item?id=40705074"
     ],
     [
-      "Apache Arrow DataFusion: A Fast, Embeddable, Modular Analytic Query Engine",
-      "https://dl.acm.org/doi/10.1145/3626246.3653368"
+      "How A.I. Is Revolutionizing Drug Development",
+      "https://www.nytimes.com/2024/06/17/business/ai-drugs-development-terray.html"
     ]
   ],
   [
@@ -31,32 +61,12 @@
   ],
   [
     [
-      "2024-06-17, 11:29:56",
-      "https://news.ycombinator.com/item?id=40704505"
-    ],
-    [
-      "Backdoor in D-Link routers enables telnet access",
-      "https://supportannouncement.us.dlink.com/security/publication.aspx?name=SAP10398"
-    ]
-  ],
-  [
-    [
       "2024-06-17, 11:14:40",
       "https://news.ycombinator.com/item?id=40704428"
     ],
     [
       "Being laid off and unplanned entrepreneurship",
       "https://www.deepsouthventures.com/on-being-laid-off-unplanned-entrepreneurship/"
-    ]
-  ],
-  [
-    [
-      "2024-06-17, 10:48:57",
-      "https://news.ycombinator.com/item?id=40704261"
-    ],
-    [
-      "Don't store your cucumbers in the fridge (2012)",
-      "https://www.rootsimple.com/2012/06/dont-store-your-cucumbers-in-the-fridge/"
     ]
   ],
   [
@@ -77,16 +87,6 @@
     [
       "Nsss: A secure NSS-like implementation for static linking",
       "https://skarnet.org/software/nsss/"
-    ]
-  ],
-  [
-    [
-      "2024-06-17, 07:05:42",
-      "https://news.ycombinator.com/item?id=40702985"
-    ],
-    [
-      "The time keepers: pg_cron and pg_timetable",
-      "https://notso.boringsql.com/posts/time-keepers-pg-cron-pg-timetable/"
     ]
   ],
   [
@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2024-06-17, 03:53:28",
-      "https://news.ycombinator.com/item?id=40702180"
-    ],
-    [
-      "OpenBSD, the computer appliance maker's secret weapon",
-      "https://hiandrewquinn.github.io/til-site/posts/openbsd-the-computer-appliance-maker-s-secret-weapon/"
-    ]
-  ],
-  [
-    [
       "2024-06-17, 03:44:20",
       "https://news.ycombinator.com/item?id=40702146"
     ],
@@ -157,6 +147,16 @@
     [
       "Augmenting biological intelligence with RL in C.elegans using optogenetics [pdf]",
       "https://klab.tch.harvard.edu/publications/PDFs/gk8172.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-06-16, 22:11:11",
+      "https://news.ycombinator.com/item?id=40700546"
+    ],
+    [
+      "Roger Linn reviews MPC Live 2",
+      "https://www.youtube.com/watch?v=0bhSWwf-i1k"
     ]
   ],
   [
@@ -241,6 +241,16 @@
   ],
   [
     [
+      "2024-06-16, 12:03:08",
+      "https://news.ycombinator.com/item?id=40696431"
+    ],
+    [
+      "Searching for a female partner for the \"loneliest\" plant",
+      "https://arstechnica.com/science/2024/06/searching-for-a-female-partner-for-the-worlds-loneliest-plant/"
+    ]
+  ],
+  [
+    [
       "2024-06-16, 10:22:49",
       "https://news.ycombinator.com/item?id=40695979"
     ],
@@ -257,16 +267,6 @@
     [
       "Bolivia's little-known African tribal kingdom (2021)",
       "https://www.bbc.com/travel/article/20210310-bolivias-little-known-tribal-kingdom"
-    ]
-  ],
-  [
-    [
-      "2024-06-16, 08:06:54",
-      "https://news.ycombinator.com/item?id=40695488"
-    ],
-    [
-      "Vestas Sailrocket",
-      "https://en.wikipedia.org/wiki/Vestas_Sailrocket"
     ]
   ],
   [
