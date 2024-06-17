@@ -1,11 +1,21 @@
 [
   [
     [
+      "2024-06-17, 15:48:09",
+      "https://news.ycombinator.com/item?id=40706872"
+    ],
+    [
+      "NASA again delays Boeing Starliner's return home",
+      "https://phys.org/news/2024-06-nasa-delays-boeing-starliner-home.html"
+    ]
+  ],
+  [
+    [
       "2024-06-17, 15:17:40",
       "https://news.ycombinator.com/item?id=40706467"
     ],
     [
-      "Crossing the Impossible FFI Boundary, and My Gradual Descent into Madness",
+      "Crossing the impossible FFI boundary, and my gradual descent into madness",
       "https://verdagon.dev/blog/exploring-seamless-rust-interop-part-2"
     ]
   ],
@@ -31,16 +41,6 @@
   ],
   [
     [
-      "2024-06-17, 15:04:42",
-      "https://news.ycombinator.com/item?id=40706310"
-    ],
-    [
-      "A Day in the Life of a California Fast-Food Manager Who Makes $174,000 a Year",
-      "https://www.wsj.com/business/hospitality/a-day-in-the-life-of-a-california-fast-food-manager-who-makes-174-000-a-year-15f81393"
-    ]
-  ],
-  [
-    [
       "2024-06-17, 15:02:55",
       "https://news.ycombinator.com/item?id=40706288"
     ],
@@ -57,6 +57,16 @@
     [
       "TDK claims insane energy density in solid state battery breakthrough",
       "https://arstechnica.com/gadgets/2024/06/tdk-claims-insane-energy-density-in-solid-state-battery-breakthrough/"
+    ]
+  ],
+  [
+    [
+      "2024-06-17, 14:41:12",
+      "https://news.ycombinator.com/item?id=40706083"
+    ],
+    [
+      "Smart devices a privacy nightmare, Amazon Alexa, Google Home worst offenders",
+      "https://www.firstpost.com/tech/smart-home-devices-a-privacy-nightmare-amazon-alexa-google-home-worst-offenders-finds-study-13783175.html"
     ]
   ],
   [
@@ -115,7 +125,7 @@
       "https://news.ycombinator.com/item?id=40704812"
     ],
     [
-      "The Programmer's Brain",
+      "The Programmer's Brain (2021)",
       "https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/the-programmers-brain"
     ]
   ],
@@ -251,21 +261,11 @@
   ],
   [
     [
-      "2024-06-16, 16:55:31",
-      "https://news.ycombinator.com/item?id=40698442"
-    ],
-    [
-      "Building SimCity: How to put the world in a machine",
-      "https://mitpress.mit.edu/9780262547482/building-simcity/"
-    ]
-  ],
-  [
-    [
       "2024-06-16, 14:29:14",
       "https://news.ycombinator.com/item?id=40697341"
     ],
     [
-      "An Interview with AMD CEO Lisa Su About Solving Hard Problems",
+      "An interview with AMD CEO Lisa Su about solving hard problems",
       "https://stratechery.com/2024/an-interview-with-amd-ceo-lisa-su-about-solving-hard-problems/"
     ]
   ],
