@@ -18,7 +18,7 @@
 * [2024-06-16, 19:30:30](https://news.ycombinator.com/item?id=40699459) - [Quake 1 potential original font](https://cohost.org/bekoha/post/2859948-quake-1-potential-or)
 * [2024-06-16, 19:05:04](https://news.ycombinator.com/item?id=40699278) - [Show HN: Searchable Kubernetes CSI provider listing](https://storageclass.info/storageclasses/)
 * [2024-06-16, 18:33:18](https://news.ycombinator.com/item?id=40699079) - [Experts vs. Imitators](https://fs.blog/experts-vs-imitators/)
-* [2024-06-16, 18:02:42](https://news.ycombinator.com/item?id=40698906) - [Why Structure and Interpretation of Computer Programs Matters](https://people.eecs.berkeley.edu/~bh/sicp.html)
+* [2024-06-16, 18:02:42](https://news.ycombinator.com/item?id=40698906) - [Why \"Structure and Interpretation of Computer Programs\" matters (2011)](https://people.eecs.berkeley.edu/~bh/sicp.html)
 * [2024-06-16, 17:01:09](https://news.ycombinator.com/item?id=40698487) - [Lago (YC S21, open source usage based billing) is hiring a head of finance (SF)](https://jobs.lever.co/getlago/5f75502e-ecc5-4660-a2ad-e66f91e81e59)
 * [2024-06-16, 16:55:31](https://news.ycombinator.com/item?id=40698442) - [Building SimCity: How to put the world in a machine](https://mitpress.mit.edu/9780262547482/building-simcity/)
 * [2024-06-16, 15:59:47](https://news.ycombinator.com/item?id=40697992) - [Packaging Swift Apps for Alpine Linux](https://mko.re/blog/swift-alpine-packaging/)
