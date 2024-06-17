@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-17](index.md)
 
+* [2024-06-17, 05:38:39](https://news.ycombinator.com/item?id=40702617) - [Creativity Has Left the Chat: The Price of Debiasing Language Models](https://arxiv.org/abs/2406.05587)
 * [2024-06-17, 05:23:15](https://news.ycombinator.com/item?id=40702546) - [Marion Stokes, the Woman Who Spent over 30 Years Recording Every Minute of US TV](https://allthatsinteresting.com/marion-stokes)
 * [2024-06-17, 03:53:28](https://news.ycombinator.com/item?id=40702180) - [OpenBSD, the computer appliance maker's secret weapon](https://hiandrewquinn.github.io/til-site/posts/openbsd-the-computer-appliance-maker-s-secret-weapon/)
 * [2024-06-17, 03:44:20](https://news.ycombinator.com/item?id=40702146) - [I learned Haskell in just 15 years](https://duckrabbit.tech/articles/learning-haskell.html)
