@@ -31,6 +31,7 @@
 * [2024-06-16, 18:16:58](https://news.ycombinator.com/item?id=40698990) - [OpenAI and Microsoft Azure to deprecate GPT-4 32K](https://twitter.com/headinthebox/status/1802404482174820398)
 * [2024-06-16, 18:05:02](https://news.ycombinator.com/item?id=40698926) - [How The Economist’s presidential forecast works](https://www.economist.com/interactive/us-2024-election/prediction-model/president/how-this-works)
 * [2024-06-16, 18:02:42](https://news.ycombinator.com/item?id=40698906) - [Why Structure and Interpretation of Computer Programs Matters](https://people.eecs.berkeley.edu/~bh/sicp.html)
+* [2024-06-16, 17:30:28](https://news.ycombinator.com/item?id=40698680) - [How to Romhack: Mega Man Legends 2 [video]](https://www.youtube.com/watch?v=S0RmHFpdf-Y)
 * [2024-06-16, 17:19:17](https://news.ycombinator.com/item?id=40698610) - [The Banana Pi M7](https://taoofmac.com/space/blog/2024/06/16/1800)
 * [2024-06-16, 17:07:56](https://news.ycombinator.com/item?id=40698536) - [I've compared nearly all Rust crates.io crates to contents of their Git repos](https://mastodon.social/@kornel/112626463128422583)
 * [2024-06-16, 17:01:09](https://news.ycombinator.com/item?id=40698487) - [Lago (Open Source Usage Based Billing) Is Hiring a Head of Finance (SF)](https://jobs.lever.co/getlago/5f75502e-ecc5-4660-a2ad-e66f91e81e59)
