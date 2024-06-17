@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-06-17, 19:10:24",
+      "https://news.ycombinator.com/item?id=40709769"
+    ],
+    [
+      "Htmx 2.0.0 has been released",
+      "https://htmx.org/posts/2024-06-17-htmx-2-0-0-is-released/"
+    ]
+  ],
+  [
+    [
+      "2024-06-17, 19:05:17",
+      "https://news.ycombinator.com/item?id=40709700"
+    ],
+    [
+      "What is intelligent life? Portia Spiders and GPT",
+      "https://aeon.co/essays/why-intelligence-exists-only-in-the-eye-of-the-beholder"
+    ]
+  ],
+  [
+    [
+      "2024-06-17, 19:04:33",
+      "https://news.ycombinator.com/item?id=40709688"
+    ],
+    [
+      "High-severity vulnerabilities affect a wide range of Asus router models",
+      "https://arstechnica.com/security/2024/06/high-severity-vulnerabilities-affect-a-wide-range-of-asus-router-models/"
+    ]
+  ],
+  [
+    [
       "2024-06-17, 18:35:21",
       "https://news.ycombinator.com/item?id=40709337"
     ],
@@ -17,6 +47,16 @@
     [
       "Making Serverless Orchestration 25x Faster",
       "https://www.dbos.dev/blog/dbos-vs-aws-step-functions-benchmark"
+    ]
+  ],
+  [
+    [
+      "2024-06-17, 18:07:45",
+      "https://news.ycombinator.com/item?id=40708963"
+    ],
+    [
+      "Correlation Between Fecal Microplastics and Inflammatory Bowel Disease",
+      "https://pubs.acs.org/doi/abs/10.1021/acs.est.1c03924"
     ]
   ],
   [
@@ -67,16 +107,6 @@
     [
       "London Underground hosts tests for 'quantum compass' that could replace GPS",
       "https://www.theguardian.com/science/article/2024/jun/15/london-underground-quantum-compass-gps-subatomic-instrument-locations"
-    ]
-  ],
-  [
-    [
-      "2024-06-17, 16:38:30",
-      "https://news.ycombinator.com/item?id=40707682"
-    ],
-    [
-      "Nvidia gets 20% weighting, more investor demand; Apple demoted in major techfund",
-      "https://www.cnbc.com/2024/06/17/nvidia-to-get-20percent-weighting-and-billions-in-investor-demand-while-apple-demoted-in-major-tech-fund.html"
     ]
   ],
   [
@@ -191,16 +221,6 @@
   ],
   [
     [
-      "2024-06-17, 10:22:17",
-      "https://news.ycombinator.com/item?id=40704096"
-    ],
-    [
-      "Pop culture has become an oligopoly (2022)",
-      "https://www.experimental-history.com/p/pop-culture-has-become-an-oligopoly"
-    ]
-  ],
-  [
-    [
       "2024-06-17, 07:28:03",
       "https://news.ycombinator.com/item?id=40703088"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2024-06-17, 05:29:30",
-      "https://news.ycombinator.com/item?id=40702580"
-    ],
-    [
-      "Understanding a Python Closure Oddity",
-      "https://utcc.utoronto.ca/~cks/space/blog/python/UnderstandingClosureOddity"
-    ]
-  ],
-  [
-    [
       "2024-06-17, 00:58:31",
       "https://news.ycombinator.com/item?id=40701391"
     ],
     [
       "Augmenting biological intelligence with RL in C.elegans using optogenetics [pdf]",
       "https://klab.tch.harvard.edu/publications/PDFs/gk8172.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-06-16, 22:27:23",
-      "https://news.ycombinator.com/item?id=40700643"
-    ],
-    [
-      "Horses may have been domesticated twice",
-      "https://www.sciencenews.org/article/horses-domesticated-mobility-timing"
     ]
   ],
   [
