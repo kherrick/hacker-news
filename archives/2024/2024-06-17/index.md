@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-17](index.md)
 
+* [2024-06-17, 12:47:41](https://news.ycombinator.com/item?id=40705079) - [Can you inherit memories from your ancestors?](https://www.theguardian.com/books/article/2024/jun/17/the-big-idea-can-you-inherit-memories-from-your-ancestors)
+* [2024-06-17, 12:35:08](https://news.ycombinator.com/item?id=40704961) - [Apache Arrow DataFusion: A Fast, Embeddable, Modular Analytic Query Engine](https://dl.acm.org/doi/10.1145/3626246.3653368)
+* [2024-06-17, 12:33:51](https://news.ycombinator.com/item?id=40704950) - [TinyLetter, in Memoriam](https://www.theverge.com/24085737/tinyletter-mailchimp-shut-down-email-newsletters)
 * [2024-06-17, 11:29:56](https://news.ycombinator.com/item?id=40704505) - [Backdoor in D-Link routers enables telnet access](https://supportannouncement.us.dlink.com/security/publication.aspx?name=SAP10398)
 * [2024-06-17, 11:16:03](https://news.ycombinator.com/item?id=40704435) - [McDonald's is ending its drive-thru AI test](https://www.restaurantbusinessonline.com/technology/mcdonalds-ending-its-drive-thru-ai-test)
 * [2024-06-17, 11:14:40](https://news.ycombinator.com/item?id=40704428) - [Being laid off and unplanned entrepreneurship](https://www.deepsouthventures.com/on-being-laid-off-unplanned-entrepreneurship/)
