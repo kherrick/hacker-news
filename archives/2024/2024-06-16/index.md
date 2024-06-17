@@ -43,6 +43,7 @@
 * [2024-06-16, 15:59:47](https://news.ycombinator.com/item?id=40697992) - [Packaging Swift Apps for Alpine Linux](https://mko.re/blog/swift-alpine-packaging/)
 * [2024-06-16, 15:38:03](https://news.ycombinator.com/item?id=40697831) - [The Raspberry Pi 5 Is No Match for a Tini-Mini-Micro PC](https://louwrentius.com/the-raspberry-pi-5-is-no-match-for-a-tini-mini-micro-pc.html)
 * [2024-06-16, 15:02:47](https://news.ycombinator.com/item?id=40697591) - [Are animals conscious? How new research is changing minds](https://www.bbc.com/news/articles/cv223z15mpmo)
+* [2024-06-16, 14:29:14](https://news.ycombinator.com/item?id=40697341) - [An Interview with AMD CEO Lisa Su About Solving Hard Problems](https://stratechery.com/2024/an-interview-with-amd-ceo-lisa-su-about-solving-hard-problems/)
 * [2024-06-16, 14:22:01](https://news.ycombinator.com/item?id=40697284) - [FastLanes Compression Layout: Decoding >100B Integers/SEC with Scalar Code [pdf]](https://ir.cwi.nl/pub/32992/32992.pdf)
 * [2024-06-16, 14:13:53](https://news.ycombinator.com/item?id=40697234) - [$20k MRR in one month, Stripe destroyed everything on 1 second](https://twitter.com/theanimeshs/status/1801967433827451322)
 * [2024-06-16, 13:40:26](https://news.ycombinator.com/item?id=40696992) - [NLRB Judge Declares Non-Compete Clause Is an Unfair Labor Practice](https://www.nlrbedge.com/p/in-first-case-of-its-kind-nlrb-judge)
