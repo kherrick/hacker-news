@@ -8,7 +8,6 @@
 * [2024-06-17, 21:55:37](https://news.ycombinator.com/item?id=40711526) - [FPGA-Based Disk Controller for Apple II](https://www.bigmessowires.com/2017/12/07/fpga-based-disk-controller-for-apple-ii/)
 * [2024-06-17, 21:51:14](https://news.ycombinator.com/item?id=40711484) - [Getting 50% (SoTA) on Arc-AGI with GPT-4o](https://redwoodresearch.substack.com/p/getting-50-sota-on-arc-agi-with-gpt)
 * [2024-06-17, 21:47:34](https://news.ycombinator.com/item?id=40711447) - [LLM that can call multiple tool APIs with one request](https://cohere.com/blog/multi-step-tool-use)
-* [2024-06-17, 21:37:48](https://news.ycombinator.com/item?id=40711355) - [The Decompilation Wiki: categorized knowledge on decompilation](https://decompilation.wiki/)
 * [2024-06-17, 21:11:16](https://news.ycombinator.com/item?id=40711107) - [What happens if you swallow gum?](https://health.clevelandclinic.org/what-happens-when-you-swallow-gum)
 * [2024-06-17, 21:08:11](https://news.ycombinator.com/item?id=40711086) - [“Attention assault” on Fandom](https://j3s.sh/thought/stop-using-fandom.html)
 * [2024-06-17, 21:00:14](https://news.ycombinator.com/item?id=40711008) - [Suiteness (YC S16) Is Hiring for TypeScript/Qwik](https://www.ycombinator.com/companies/suiteness/jobs/DIrk9Sf-front-end-engineer)
@@ -28,6 +27,7 @@
 * [2024-06-17, 01:07:28](https://news.ycombinator.com/item?id=40701433) - [Comparing OCaml and Standard ML (2008)](http://adam.chlipala.net/mlcomp/)
 * [2024-06-16, 16:56:05](https://news.ycombinator.com/item?id=40698451) - [A Step Forward in Stingray Science](https://hakaimagazine.com/features/a-step-forward-in-stingray-science/)
 * [2024-06-16, 16:50:48](https://news.ycombinator.com/item?id=40698415) - [The Unending Allure of High Mountains](https://www.noemamag.com/the-unending-allure-of-high-mountains/)
+* [2024-06-16, 02:36:03](https://news.ycombinator.com/item?id=40694284) - [Are animals conscious? New research](https://www.bbc.com/news/articles/cv223z15mpmo)
 * [2024-06-15, 21:45:35](https://news.ycombinator.com/item?id=40692926) - [Fifty Years of Diff](https://exple.tive.org/blarg/2024/06/14/fifty-years-of-diff-and-merge/)
 * [2024-06-15, 20:03:27](https://news.ycombinator.com/item?id=40692333) - [London Underground hosts tests for 'quantum compass' that could replace GPS](https://www.theguardian.com/science/article/2024/jun/15/london-underground-quantum-compass-gps-subatomic-instrument-locations)
 
