@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-17, 17:05:05](https://news.ycombinator.com/item?id=40708046) - [Proton is taking its privacy-first apps to a nonprofit foundation model](https://arstechnica.com/gadgets/2024/06/proton-is-taking-its-privacy-first-apps-to-a-nonprofit-foundation-model/)
 * [2024-06-17, 17:00:13](https://news.ycombinator.com/item?id=40707986) - [Carma (YC W24) Hiring a Founding Full-Stack SWE to Get Fleets Same-Day Auto Repair](https://www.ycombinator.com/companies/carma/jobs/v6CTeFv-founding-full-stack-software-engineer-react-react-native-node-js-nestjs)
 * [2024-06-17, 16:29:53](https://news.ycombinator.com/item?id=40707558) - [FTC sues Adobe for hiding fees and inhibiting cancellations](https://www.ftc.gov/news-events/news/press-releases/2024/06/ftc-takes-action-against-adobe-executives-hiding-fees-preventing-consumers-easily-cancelling)
 * [2024-06-17, 16:26:21](https://news.ycombinator.com/item?id=40707490) - [The darker side of being a doctor](https://drericlevi1.substack.com/p/the-darker-side-of-being-a-doctor)
@@ -27,7 +28,6 @@
 * [2024-06-16, 18:02:42](https://news.ycombinator.com/item?id=40698906) - [Why \"Structure and Interpretation of Computer Programs\" matters (2011)](https://people.eecs.berkeley.edu/~bh/sicp.html)
 * [2024-06-16, 14:29:14](https://news.ycombinator.com/item?id=40697341) - [An interview with AMD CEO Lisa Su about solving hard problems](https://stratechery.com/2024/an-interview-with-amd-ceo-lisa-su-about-solving-hard-problems/)
 * [2024-06-16, 08:08:40](https://news.ycombinator.com/item?id=40695497) - [Bolivia's little-known African tribal kingdom (2021)](https://www.bbc.com/travel/article/20210310-bolivias-little-known-tribal-kingdom)
-* [2024-06-16, 07:22:19](https://news.ycombinator.com/item?id=40695295) - [Excerpts from Coders at Work: Joe Armstrong Interview (2013)](http://ivory.idyll.org/blog/coders-at-work-joe-armstrong.html)
 * [2024-06-16, 06:04:18](https://news.ycombinator.com/item?id=40695001) - [Hello world in C inline assembly (2020)](https://jameshfisher.com/2018/02/20/c-inline-assembly-hello-world/)
 * [2024-06-16, 02:26:55](https://news.ycombinator.com/item?id=40694254) - [Show HN: We made a small and cheap network switch](https://docs.murexrobotics.com/elec/boards/networking/switch)
 

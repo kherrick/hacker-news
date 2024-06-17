@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-17](index.md)
 
+* [2024-06-17, 17:05:05](https://news.ycombinator.com/item?id=40708046) - [Proton is taking its privacy-first apps to a nonprofit foundation model](https://arstechnica.com/gadgets/2024/06/proton-is-taking-its-privacy-first-apps-to-a-nonprofit-foundation-model/)
 * [2024-06-17, 17:00:13](https://news.ycombinator.com/item?id=40707986) - [Carma (YC W24) Hiring a Founding Full-Stack SWE to Get Fleets Same-Day Auto Repair](https://www.ycombinator.com/companies/carma/jobs/v6CTeFv-founding-full-stack-software-engineer-react-react-native-node-js-nestjs)
 * [2024-06-17, 16:29:53](https://news.ycombinator.com/item?id=40707558) - [FTC Takes Action Against Adobe and Executives for Deceiving Customers About Fees](https://www.ftc.gov/news-events/news/press-releases/2024/06/ftc-takes-action-against-adobe-executives-hiding-fees-preventing-consumers-easily-cancelling)
 * [2024-06-17, 16:26:21](https://news.ycombinator.com/item?id=40707490) - [The darker side of being a doctor](https://drericlevi1.substack.com/p/the-darker-side-of-being-a-doctor)
