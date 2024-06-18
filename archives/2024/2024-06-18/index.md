@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-18](index.md)
 
+* [2024-06-18, 17:08:36](https://news.ycombinator.com/item?id=40719975) - [3D Gaussian Splatting as Markov Chain Monte Carlo](https://ubc-vision.github.io/3dgs-mcmc/)
+* [2024-06-18, 17:03:47](https://news.ycombinator.com/item?id=40719940) - [The Deadly Mining Complex Powering the EV Revolution](https://www.bloomberg.com/features/2024-indonesia-sulawesi-nickel-fire/)
+* [2024-06-18, 17:01:45](https://news.ycombinator.com/item?id=40719921) - [Sharing new research, models, and datasets from Meta FAIR](https://ai.meta.com/blog/meta-fair-research-new-releases/)
 * [2024-06-18, 17:00:50](https://news.ycombinator.com/item?id=40719910) - [Ubicloud (YC W24) Hiring Founding Engineer for \"Managed Kubernetes Service\"](https://www.ycombinator.com/companies/ubicloud/jobs/zyE7d9T-founding-engineer-for-managed-kubernetes-service)
 * [2024-06-18, 15:54:16](https://news.ycombinator.com/item?id=40719279) - [The Farmer Was Replaced (A Python-esque automated farming game)](https://store.steampowered.com/app/2060160/The_Farmer_Was_Replaced/)
 * [2024-06-18, 15:52:11](https://news.ycombinator.com/item?id=40719253) - [Ask HN: What are some iconic comments on HN?](https://news.ycombinator.com/item?id=40719253)

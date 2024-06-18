@@ -59,6 +59,7 @@
 * [2024-06-14, 13:48:14](https://news.ycombinator.com/item?id=40680885) - [Statistics Blunder at the Supreme Court](https://statmodeling.stat.columbia.edu/2024/06/14/statistics-blunder-at-the-supreme-court/)
 * [2024-06-14, 13:28:56](https://news.ycombinator.com/item?id=40680737) - [Nvidia Warp: A Python framework for high performance GPU simulation and graphics](https://github.com/NVIDIA/warp)
 * [2024-06-14, 13:17:11](https://news.ycombinator.com/item?id=40680648) - [Start Presentations on the Second Slide](https://tidyfirst.substack.com/p/start-presentations-on-the-second)
+* [2024-06-14, 13:03:48](https://news.ycombinator.com/item?id=40680524) - [Show HN: Quickly scan HN for new articles](https://github.com/bachmitre/hacker-news-highlighter)
 * [2024-06-14, 13:01:26](https://news.ycombinator.com/item?id=40680509) - [Kaprekar's Magic 6174](https://www.oranlooney.com/post/kaprekar/)
 * [2024-06-14, 12:59:39](https://news.ycombinator.com/item?id=40680494) - [Making a Bignum Library for Fun](https://austinhenley.com/blog/bignum1.html)
 * [2024-06-14, 12:53:07](https://news.ycombinator.com/item?id=40680446) - [Observable Framework 1.9](https://github.com/observablehq/framework/releases/tag/v1.9.0)
