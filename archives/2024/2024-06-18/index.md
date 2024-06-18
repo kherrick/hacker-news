@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-18](index.md)
 
+* [2024-06-18, 20:13:04](https://news.ycombinator.com/item?id=40721756) - [EV startup Fisker files for bankruptcy](https://techcrunch.com/2024/06/18/ev-startup-fisker-files-for-bankruptcy/)
+* [2024-06-18, 20:04:53](https://news.ycombinator.com/item?id=40721680) - [Nvidia is most valuable company](https://companiesmarketcap.com/)
 * [2024-06-18, 19:30:47](https://news.ycombinator.com/item?id=40721271) - [Noam Chomsky has passed away](https://twitter.com/PeoplesMomentum/status/1803142677174911102)
 * [2024-06-18, 19:23:40](https://news.ycombinator.com/item?id=40721208) - [Linguist and philosopher Noam Chomsky dies at age 95](https://www-diariodocentrodomundo-com-br.translate.goog/morre-o-professor-e-ativista-noam-chomsky-aos-95-anos/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)
 * [2024-06-18, 18:52:46](https://news.ycombinator.com/item?id=40720876) - [We Remember Noam Chomsky, the Intellectual and Moral Giant](https://jacobin.com/2024/06/noam-chomsky-obituary-media-theory-elites/)

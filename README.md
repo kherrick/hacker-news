@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-18, 20:13:04](https://news.ycombinator.com/item?id=40721756) - [EV startup Fisker files for bankruptcy](https://techcrunch.com/2024/06/18/ev-startup-fisker-files-for-bankruptcy/)
+* [2024-06-18, 20:04:53](https://news.ycombinator.com/item?id=40721680) - [Nvidia is most valuable company](https://companiesmarketcap.com/)
 * [2024-06-18, 18:23:10](https://news.ycombinator.com/item?id=40720629) - [Nature retracts paper that claimed adult stem cell could become any type of cell](https://retractionwatch.com/2024/06/18/nature-retracts-highly-cited-2002-paper-that-claimed-adult-stem-cells-could-become-any-type-of-cell/)
 * [2024-06-18, 17:31:49](https://news.ycombinator.com/item?id=40720183) - [Electricity prices in France turn negative as renewable energy floods the grid](https://fortune.com/2024/06/16/electricity-prices-france-negative-renewable-energy-supply-solar-power-wind-turbines/)
-* [2024-06-18, 17:25:42](https://news.ycombinator.com/item?id=40720121) - [Ask HN: Tell me your stories of taking lower paid work to be happier](https://news.ycombinator.com/item?id=40720121)
 * [2024-06-18, 17:08:36](https://news.ycombinator.com/item?id=40719975) - [3D Gaussian Splatting as Markov Chain Monte Carlo](https://ubc-vision.github.io/3dgs-mcmc/)
 * [2024-06-18, 17:01:45](https://news.ycombinator.com/item?id=40719921) - [Sharing new research, models, and datasets from Meta FAIR](https://ai.meta.com/blog/meta-fair-research-new-releases/)
 * [2024-06-18, 17:00:50](https://news.ycombinator.com/item?id=40719910) - [Ubicloud (YC W24) is hiring a founding engineer for \"managed Kubernetes service\"](https://www.ycombinator.com/companies/ubicloud/jobs/zyE7d9T-founding-engineer-for-managed-kubernetes-service)
@@ -20,7 +21,6 @@
 * [2024-06-18, 05:37:59](https://news.ycombinator.com/item?id=40714371) - [The Public Interest Internet](https://berjon.com/public-interest-internet/)
 * [2024-06-17, 22:44:44](https://news.ycombinator.com/item?id=40712020) - [Intel-undervolt: CPU undervolting and throttling configuration tool for Linux](https://github.com/kitsunyan/intel-undervolt)
 * [2024-06-17, 19:59:25](https://news.ycombinator.com/item?id=40710346) - [Oulipo's use of the Tohoku paper (2014)](http://www.neverendingbooks.org/oulipos-use-of-the-tohoku-paper/)
-* [2024-06-17, 10:38:34](https://news.ycombinator.com/item?id=40704179) - [NumPy-style broadcasting in Futhark](https://futhark-lang.org/blog/2024-06-17-automap.html)
 * [2024-06-17, 09:42:40](https://news.ycombinator.com/item?id=40703892) - [Lnav Logfile Navigator](https://lnav.org/)
 * [2024-06-17, 06:06:29](https://news.ycombinator.com/item?id=40702748) - [Software Friction](https://www.hillelwayne.com/post/software-friction/)
 * [2024-06-14, 18:33:40](https://news.ycombinator.com/item?id=40683564) - [Show HN: SHAllenge – Compete to get the lowest hash](https://shallenge.quirino.net/)
