@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-17](index.md)
 
+* [2024-06-17, 23:45:33](https://news.ycombinator.com/item?id=40712550) - [The March of Dimes Syndrome](https://www.city-journal.org/article/the-march-of-dimes-syndrome)
 * [2024-06-17, 22:44:44](https://news.ycombinator.com/item?id=40712020) - [Intel-undervolt: CPU undervolting and throttling configuration tool for Linux](https://github.com/kitsunyan/intel-undervolt)
 * [2024-06-17, 22:24:47](https://news.ycombinator.com/item?id=40711835) - [Intel Details Skymont](https://chipsandcheese.com/2024/06/15/intel-details-skymont/)
 * [2024-06-17, 22:19:38](https://news.ycombinator.com/item?id=40711780) - [Tsutomu Yamaguchi: The Man Who Survived Both Atomic Bombings](https://www.biography.com/history-culture/a44577392/tsutomu-yamaguchi-hiroshima-and-nagasaki-bombing-survivor)
@@ -69,6 +70,7 @@
 * [2024-06-17, 14:14:04](https://news.ycombinator.com/item?id=40705841) - [How React 19 Almost Made the Internet Slower](https://blog.codeminer42.com/how-react-19-almost-made-the-internet-slower/)
 * [2024-06-17, 14:13:58](https://news.ycombinator.com/item?id=40705839) - [Show HN: Create a stunning portrait painting from one photo](https://drawbert.ai)
 * [2024-06-17, 13:46:04](https://news.ycombinator.com/item?id=40705574) - [Lindroid](https://twitter.com/Khode_Erfan/status/1802331845633212554)
+* [2024-06-17, 13:40:15](https://news.ycombinator.com/item?id=40705522) - [FPGA-Based Disk Controller for the Apple II](https://www.bigmessowires.com/2017/12/07/fpga-based-disk-controller-for-apple-ii/)
 * [2024-06-17, 13:31:50](https://news.ycombinator.com/item?id=40705464) - [Mocking Is an Anti-Pattern](https://www.amazingcto.com/mocking-is-an-antipattern-how-to-test-without-mocking/)
 * [2024-06-17, 13:11:17](https://news.ycombinator.com/item?id=40705280) - [Ask HN: My manager is bad. Should I care?](https://news.ycombinator.com/item?id=40705280)
 * [2024-06-17, 13:09:43](https://news.ycombinator.com/item?id=40705265) - [Privacy app maker Proton transitions to non-profit foundation structure](https://techcrunch.com/2024/06/17/privacy-app-maker-proton-transitions-to-non-profit-foundation-structure/)
@@ -89,6 +91,7 @@
 * [2024-06-17, 10:48:57](https://news.ycombinator.com/item?id=40704261) - [Don't store your cucumbers in the fridge](https://www.rootsimple.com/2012/06/dont-store-your-cucumbers-in-the-fridge/)
 * [2024-06-17, 10:22:17](https://news.ycombinator.com/item?id=40704096) - [Pop Culture Has Become an Oligopoly (2022)](https://www.experimental-history.com/p/pop-culture-has-become-an-oligopoly)
 * [2024-06-17, 09:45:42](https://news.ycombinator.com/item?id=40703908) - [Cities: Skylines II Found a Solution for High Rents: Get Rid of Landlords](https://www.wired.com/story/cities-skylines-ii-found-a-solution-for-high-rents-removing-landlords/)
+* [2024-06-17, 09:40:54](https://news.ycombinator.com/item?id=40703882) - [Sonoluminescence](https://en.wikipedia.org/wiki/Sonoluminescence)
 * [2024-06-17, 09:16:48](https://news.ycombinator.com/item?id=40703758) - [Commercial perovskite solar modules at SNEC 2024 trade show](https://www.pv-magazine.com/2024/06/13/commercial-perovskite-solar-modules-at-snec-2024-trade-show/)
 * [2024-06-17, 09:15:23](https://news.ycombinator.com/item?id=40703751) - [A discussion of discussions on AI Bias](https://danluu.com/ai-bias/)
 * [2024-06-17, 08:42:03](https://news.ycombinator.com/item?id=40703554) - [Nsss: A secure NSS-like implementation for static linking](https://skarnet.org/software/nsss/)
