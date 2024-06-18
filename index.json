@@ -1,26 +1,6 @@
 [
   [
     [
-      "2024-06-18, 20:13:04",
-      "https://news.ycombinator.com/item?id=40721756"
-    ],
-    [
-      "EV startup Fisker files for bankruptcy",
-      "https://techcrunch.com/2024/06/18/ev-startup-fisker-files-for-bankruptcy/"
-    ]
-  ],
-  [
-    [
-      "2024-06-18, 20:04:53",
-      "https://news.ycombinator.com/item?id=40721680"
-    ],
-    [
-      "Nvidia is most valuable company",
-      "https://companiesmarketcap.com/"
-    ]
-  ],
-  [
-    [
       "2024-06-18, 18:23:10",
       "https://news.ycombinator.com/item?id=40720629"
     ],
@@ -211,6 +191,36 @@
   ],
   [
     [
+      "2024-06-17, 16:29:53",
+      "https://news.ycombinator.com/item?id=40707558"
+    ],
+    [
+      "FTC sues Adobe for hiding fees and inhibiting cancellations",
+      "https://www.ftc.gov/news-events/news/press-releases/2024/06/ftc-takes-action-against-adobe-executives-hiding-fees-preventing-consumers-easily-cancelling"
+    ]
+  ],
+  [
+    [
+      "2024-06-17, 13:40:15",
+      "https://news.ycombinator.com/item?id=40705522"
+    ],
+    [
+      "FPGA-Based Disk Controller for the Apple II (2017)",
+      "https://www.bigmessowires.com/2017/12/07/fpga-based-disk-controller-for-apple-ii/"
+    ]
+  ],
+  [
+    [
+      "2024-06-17, 10:38:34",
+      "https://news.ycombinator.com/item?id=40704179"
+    ],
+    [
+      "NumPy-style broadcasting in Futhark",
+      "https://futhark-lang.org/blog/2024-06-17-automap.html"
+    ]
+  ],
+  [
+    [
       "2024-06-17, 09:42:40",
       "https://news.ycombinator.com/item?id=40703892"
     ],
@@ -267,16 +277,6 @@
     [
       "Show HN: Quickly scan HN for new articles",
       "https://github.com/bachmitre/hacker-news-highlighter"
-    ]
-  ],
-  [
-    [
-      "2024-06-14, 00:26:02",
-      "https://news.ycombinator.com/item?id=40676355"
-    ],
-    [
-      "A common misunderstanding about wave-particle duality",
-      "https://www.chemistryworld.com/opinion/a-common-misunderstanding-about-wave-particle-duality/4019585.article"
     ]
   ],
   [
