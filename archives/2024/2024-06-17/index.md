@@ -68,6 +68,7 @@
 * [2024-06-17, 14:52:14](https://news.ycombinator.com/item?id=40706183) - [First randomized trial of Ozempic for alcoholism shows big drops in drinking](https://recursiveadaptation.com/p/first-ever-randomized-trial-of-ozempic)
 * [2024-06-17, 14:50:32](https://news.ycombinator.com/item?id=40706164) - [TDK claims insane energy density in solid state battery breakthrough](https://arstechnica.com/gadgets/2024/06/tdk-claims-insane-energy-density-in-solid-state-battery-breakthrough/)
 * [2024-06-17, 14:41:12](https://news.ycombinator.com/item?id=40706083) - [Smart devices a privacy nightmare, Amazon Alexa, Google Home worst offenders](https://www.firstpost.com/tech/smart-home-devices-a-privacy-nightmare-amazon-alexa-google-home-worst-offenders-finds-study-13783175.html)
+* [2024-06-17, 14:26:18](https://news.ycombinator.com/item?id=40705956) - [The enduring mystery of how water freezes](https://www.quantamagazine.org/the-enduring-mystery-of-how-water-freezes-20240617/)
 * [2024-06-17, 14:14:04](https://news.ycombinator.com/item?id=40705841) - [How React 19 Almost Made the Internet Slower](https://blog.codeminer42.com/how-react-19-almost-made-the-internet-slower/)
 * [2024-06-17, 14:13:58](https://news.ycombinator.com/item?id=40705839) - [Show HN: Create a stunning portrait painting from one photo](https://drawbert.ai)
 * [2024-06-17, 13:46:04](https://news.ycombinator.com/item?id=40705574) - [Lindroid](https://twitter.com/Khode_Erfan/status/1802331845633212554)

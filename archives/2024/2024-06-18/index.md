@@ -4,6 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-06-18](index.md)
 
+* [2024-06-18, 23:08:22](https://news.ycombinator.com/item?id=40723040) - [SpaceX's Starlink may be keeping the ozone from healing, research finds](https://futurism.com/the-byte/spacex-starlink-ozone-healing)
+* [2024-06-18, 23:02:35](https://news.ycombinator.com/item?id=40723008) - [AridSpy targeting Egypt and Palestinian territories in new espionage campaigns](https://therecord.media/malware-aridspy-egypt-palestine-viper)
+* [2024-06-18, 22:59:52](https://news.ycombinator.com/item?id=40722985) - [House prices are surging once again](https://www.economist.com/finance-and-economics/2024/06/16/why-house-prices-are-surging-once-again)
+* [2024-06-18, 22:49:03](https://news.ycombinator.com/item?id=40722911) - [Apple has 'serious' issues under EU digital rules, competition chief says](https://www.cnbc.com/2024/06/18/apple-issues-very-serious-under-landmark-eu-rules-vestager.html)
+* [2024-06-18, 22:40:18](https://news.ycombinator.com/item?id=40722850) - [IPC in Rust – A Ping Pong Comparison](https://3tilley.github.io/posts/simple-ipc-ping-pong/)
 * [2024-06-18, 22:36:11](https://news.ycombinator.com/item?id=40722816) - [U.S..D.A. Suspends Avocado Inspections in Mexico, Citing Security Concerns](https://www.nytimes.com/2024/06/17/world/americas/mexico-avocado-inspections-suspended.html)
 * [2024-06-18, 22:03:00](https://news.ycombinator.com/item?id=40722573) - [US Navy successfully connects aircraft carrier to the cloud](https://www.datacenterdynamics.com/en/news/navy-successfully-connects-aircraft-carrier-to-the-cloud/)
 * [2024-06-18, 21:38:38](https://news.ycombinator.com/item?id=40722394) - [AI bot running for mayor in Wyoming (sort of)](https://www.wired.com/story/ai-bot-running-for-mayor-wyoming/)
