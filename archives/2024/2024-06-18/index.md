@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-18](index.md)
 
+* [2024-06-18, 15:21:36](https://news.ycombinator.com/item?id=40718837) - [Framework: A new RISC-V Mainboard from DeepComputing](https://frame.work/fr/en/blog/introducing-a-new-risc-v-mainboard-from-deepcomputing)
+* [2024-06-18, 14:58:34](https://news.ycombinator.com/item?id=40718566) - [What Is ChatGPT Doing and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 * [2024-06-18, 14:56:43](https://news.ycombinator.com/item?id=40718545) - [Gavin Newsom wants to take smartphones out of schools](https://www.politico.com/news/2024/06/18/gavin-newsom-wants-to-take-smart-phones-out-of-schools-00163852)
 * [2024-06-18, 14:51:35](https://news.ycombinator.com/item?id=40718498) - [Ask HN: How do you structure your shared finances with your spouse/partner](https://news.ycombinator.com/item?id=40718498)
 * [2024-06-18, 14:42:23](https://news.ycombinator.com/item?id=40718403) - [Canadian MPs suspected of treason kept anonymous and in office](https://www.theglobeandmail.com/opinion/article-we-need-to-know-the-names-of-the-traitor-mps-but-dont-count-on-any-of/)
