@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-18, 04:01:43](https://news.ycombinator.com/item?id=40713952) - [Every Way to Get Structured Output from LLMs](https://www.boundaryml.com/blog/structured-output-from-llms)
-* [2024-06-18, 00:41:08](https://news.ycombinator.com/item?id=40712872) - [Now that UUIDv7 is lexicographic, does that mean there is no use for ULID?](https://www.npmjs.com/package/uuidv7)
 * [2024-06-18, 00:15:03](https://news.ycombinator.com/item?id=40712720) - [The upcoming iterator design for Go 1.23](https://www.gingerbill.org/article/2024/06/17/go-iterator-design/)
 * [2024-06-17, 22:44:44](https://news.ycombinator.com/item?id=40712020) - [Intel-undervolt: CPU undervolting and throttling configuration tool for Linux](https://github.com/kitsunyan/intel-undervolt)
 * [2024-06-17, 22:24:47](https://news.ycombinator.com/item?id=40711835) - [Intel details Skymont](https://chipsandcheese.com/2024/06/15/intel-details-skymont/)
@@ -22,6 +21,7 @@
 * [2024-06-17, 13:40:15](https://news.ycombinator.com/item?id=40705522) - [FPGA-Based Disk Controller for the Apple II](https://www.bigmessowires.com/2017/12/07/fpga-based-disk-controller-for-apple-ii/)
 * [2024-06-17, 13:04:29](https://news.ycombinator.com/item?id=40705222) - [Trading cards with e-ink displays (2023)](https://howtoware.co/wyldcard)
 * [2024-06-17, 11:42:08](https://news.ycombinator.com/item?id=40704594) - [Optical PCIe 7.0 connection hits 128 GT/s](https://www.tomshardware.com/tech-industry/optical-pcie-70-connection-hits-a-blazing-128-gts)
+* [2024-06-17, 10:49:55](https://news.ycombinator.com/item?id=40704267) - [Complexity fills the space it's given](https://medium.com/@wilsontomass/complexity-fills-the-space-its-given-762fabc401c8)
 * [2024-06-17, 10:38:34](https://news.ycombinator.com/item?id=40704179) - [NumPy-style broadcasting in Futhark](https://futhark-lang.org/blog/2024-06-17-automap.html)
 * [2024-06-17, 09:42:40](https://news.ycombinator.com/item?id=40703892) - [Lnav Logfile Navigator](https://lnav.org/)
 * [2024-06-17, 08:42:03](https://news.ycombinator.com/item?id=40703554) - [Nsss: A secure NSS-like implementation for static linking](https://skarnet.org/software/nsss/)

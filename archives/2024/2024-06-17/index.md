@@ -88,6 +88,7 @@
 * [2024-06-17, 11:29:56](https://news.ycombinator.com/item?id=40704505) - [Backdoor in D-Link routers enables telnet access](https://supportannouncement.us.dlink.com/security/publication.aspx?name=SAP10398)
 * [2024-06-17, 11:16:03](https://news.ycombinator.com/item?id=40704435) - [McDonald's is ending its drive-thru AI test](https://www.restaurantbusinessonline.com/technology/mcdonalds-ending-its-drive-thru-ai-test)
 * [2024-06-17, 11:14:40](https://news.ycombinator.com/item?id=40704428) - [Being laid off and unplanned entrepreneurship](https://www.deepsouthventures.com/on-being-laid-off-unplanned-entrepreneurship/)
+* [2024-06-17, 10:49:55](https://news.ycombinator.com/item?id=40704267) - [Complexity fills the space it's given](https://medium.com/@wilsontomass/complexity-fills-the-space-its-given-762fabc401c8)
 * [2024-06-17, 10:48:57](https://news.ycombinator.com/item?id=40704261) - [Don't store your cucumbers in the fridge](https://www.rootsimple.com/2012/06/dont-store-your-cucumbers-in-the-fridge/)
 * [2024-06-17, 10:38:34](https://news.ycombinator.com/item?id=40704179) - [NumPy-style broadcasting in Futhark](https://futhark-lang.org/blog/2024-06-17-automap.html)
 * [2024-06-17, 10:28:19](https://news.ycombinator.com/item?id=40704124) - [Architecture Styles Worksheet [pdf]](https://www.developertoarchitect.com/downloads/architecture-styles-worksheet.pdf)
