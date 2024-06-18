@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-18](index.md)
 
 * [2024-06-18, 14:56:43](https://news.ycombinator.com/item?id=40718545) - [Gavin Newsom wants to take smartphones out of schools](https://www.politico.com/news/2024/06/18/gavin-newsom-wants-to-take-smart-phones-out-of-schools-00163852)
+* [2024-06-18, 14:51:35](https://news.ycombinator.com/item?id=40718498) - [Ask HN: How do you structure your shared finances with your spouse/partner](https://news.ycombinator.com/item?id=40718498)
 * [2024-06-18, 14:42:23](https://news.ycombinator.com/item?id=40718403) - [Canadian MPs suspected of treason kept anonymous and in office](https://www.theglobeandmail.com/opinion/article-we-need-to-know-the-names-of-the-traitor-mps-but-dont-count-on-any-of/)
 * [2024-06-18, 14:31:31](https://news.ycombinator.com/item?id=40718289) - [CISA Publishes \"Enhancing Election Security Through Public Communications\" [pdf]](https://www.cisa.gov/sites/default/files/2024-06/Enhancing%20Election%20Security%20Through%20Public%20Communications_508c.pdf)
 * [2024-06-18, 14:15:16](https://news.ycombinator.com/item?id=40718124) - [Framework: A new RISC-V Mainboard from DeepComputing](https://frame.work/blog/introducing-a-new-risc-v-mainboard-from-deepcomputing)

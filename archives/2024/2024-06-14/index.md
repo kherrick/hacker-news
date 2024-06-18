@@ -81,6 +81,7 @@
 * [2024-06-14, 07:56:46](https://news.ycombinator.com/item?id=40678619) - [Scale is a meritocracy, and we must always remain one](https://scale.com/blog/meritocracy-at-scale)
 * [2024-06-14, 07:35:27](https://news.ycombinator.com/item?id=40678494) - [How to Solve LLM Hallucinations](https://morethanmoore.substack.com/p/how-to-solve-llm-hallucinations)
 * [2024-06-14, 06:15:59](https://news.ycombinator.com/item?id=40678015) - [From One RSS Feed Entry to 186850 Hits](https://susam.net/from-web-feed-to-186850-hits.html)
+* [2024-06-14, 06:13:51](https://news.ycombinator.com/item?id=40678006) - [Programming with Lambda Calculus](https://hbr.github.io/Lambda-Calculus/lambda2/lambda.html)
 * [2024-06-14, 05:59:17](https://news.ycombinator.com/item?id=40677926) - [40 out of 60 German climate greening endavours fraudulent](https://www.fr.de/politik/warnungen-milliarden-an-konzerne-gezahlt-betrugsverdacht-beim-klimaschutz-trotz-zr-93122965.html)
 * [2024-06-14, 05:36:47](https://news.ycombinator.com/item?id=40677810) - [A look at Apple's technical approach to AI including core model performance etc.](https://www.interconnects.ai/p/apple-intelligence)
 * [2024-06-14, 05:32:45](https://news.ycombinator.com/item?id=40677784) - [Generative AI Is Not Going to Build Your Engineering Team for You](https://simonwillison.net/2024/Jun/12/generative-ai-is-not-going-to-build-your-engineering-team/)
