@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-18, 05:13:49](https://news.ycombinator.com/item?id=40714264) - [Teachers: Inclusion is the worst thing to have happened to education](https://old.reddit.com/r/Teachers/comments/1dhx1vm/inclusion_is_the_worst_thing_to_have_happened_to/)
 * [2024-06-18, 04:01:43](https://news.ycombinator.com/item?id=40713952) - [Every Way to Get Structured Output from LLMs](https://www.boundaryml.com/blog/structured-output-from-llms)
+* [2024-06-18, 00:41:08](https://news.ycombinator.com/item?id=40712872) - [Now that UUIDv7 is lexicographic, does that mean there is no use for ULID?](https://www.npmjs.com/package/uuidv7)
 * [2024-06-18, 00:15:03](https://news.ycombinator.com/item?id=40712720) - [The upcoming iterator design for Go 1.23](https://www.gingerbill.org/article/2024/06/17/go-iterator-design/)
 * [2024-06-17, 22:44:44](https://news.ycombinator.com/item?id=40712020) - [Intel-undervolt: CPU undervolting and throttling configuration tool for Linux](https://github.com/kitsunyan/intel-undervolt)
 * [2024-06-17, 22:24:47](https://news.ycombinator.com/item?id=40711835) - [Intel details Skymont](https://chipsandcheese.com/2024/06/15/intel-details-skymont/)
