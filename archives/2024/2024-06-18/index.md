@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-06-18](index.md)
 
+* [2024-06-18, 18:28:04](https://news.ycombinator.com/item?id=40720674) - [Booking.com ignores twofactor, lets everyone email-login without a password](https://news.ycombinator.com/item?id=40720674)
 * [2024-06-18, 18:15:49](https://news.ycombinator.com/item?id=40720576) - [BNSF ordered to pay $395M after years of trespassing on Swinomish land](https://www.kuow.org/stories/bnsf-ordered-to-pay-395-million-after-years-of-trespassing-on-swinomish-land)
+* [2024-06-18, 17:31:49](https://news.ycombinator.com/item?id=40720183) - [Electricity prices in France turn negative as renewable energy floods the grid](https://fortune.com/2024/06/16/electricity-prices-france-negative-renewable-energy-supply-solar-power-wind-turbines/)
 * [2024-06-18, 17:08:36](https://news.ycombinator.com/item?id=40719975) - [3D Gaussian Splatting as Markov Chain Monte Carlo](https://ubc-vision.github.io/3dgs-mcmc/)
 * [2024-06-18, 17:03:47](https://news.ycombinator.com/item?id=40719940) - [The Deadly Mining Complex Powering the EV Revolution](https://www.bloomberg.com/features/2024-indonesia-sulawesi-nickel-fire/)
 * [2024-06-18, 17:01:45](https://news.ycombinator.com/item?id=40719921) - [Sharing new research, models, and datasets from Meta FAIR](https://ai.meta.com/blog/meta-fair-research-new-releases/)
 * [2024-06-18, 17:00:50](https://news.ycombinator.com/item?id=40719910) - [Ubicloud (YC W24) Hiring Founding Engineer for \"Managed Kubernetes Service\"](https://www.ycombinator.com/companies/ubicloud/jobs/zyE7d9T-founding-engineer-for-managed-kubernetes-service)
+* [2024-06-18, 17:00:34](https://news.ycombinator.com/item?id=40719905) - ['Glowing' plants could help scientists predict flash drought](https://www.jpl.nasa.gov/news/ow-glowing-plants-could-help-scientists-predict-flash-drought)
 * [2024-06-18, 16:45:45](https://news.ycombinator.com/item?id=40719782) - [Show HN: Billard – Generate music from ball collisions in 2D space](https://billard.medusis.com/)
 * [2024-06-18, 16:17:45](https://news.ycombinator.com/item?id=40719514) - [Waymo Driver 3.5x better at avoiding injuries over 14.8M miles in SF and Phoenix](https://twitter.com/Waymo/status/1803095329304088922)
 * [2024-06-18, 15:54:16](https://news.ycombinator.com/item?id=40719279) - [The Farmer Was Replaced (A Python-esque automated farming game)](https://store.steampowered.com/app/2060160/The_Farmer_Was_Replaced/)
@@ -26,6 +29,7 @@
 * [2024-06-18, 13:37:04](https://news.ycombinator.com/item?id=40717721) - [A New Look: Solar Plant Prospection with Automated Viewshed Analysis](https://www.go-inicio.com/blog/a-new-look-revolutionizing-solar-plant-prospection-with-automated-viewshed-analysis)
 * [2024-06-18, 13:19:34](https://news.ycombinator.com/item?id=40717519) - [Visualizing Data on a Mesh with Displacement Mapping in R](https://www.tylermw.com/posts/rayverse/displacement-mapping.html)
 * [2024-06-18, 13:19:29](https://news.ycombinator.com/item?id=40717516) - [Hard to change people's opinions, but easier to nudge them, research suggests](https://www.nature.com/articles/d41586-024-01696-z)
+* [2024-06-18, 13:12:53](https://news.ycombinator.com/item?id=40717448) - [Grief is not a process with five stages. It is shattered glass](https://psyche.co/ideas/grief-is-not-a-process-with-five-stages-it-is-shattered-glass)
 * [2024-06-18, 13:02:46](https://news.ycombinator.com/item?id=40717342) - [The Surgeon General Calls for a Warning Label on Social Media](https://www.afterbabel.com/p/surgeon-general-warning)
 * [2024-06-18, 12:56:45](https://news.ycombinator.com/item?id=40717285) - [AI can't fix what automation already broke](https://www.bloodinthemachine.com/p/ai-cant-fix-everything-automation)
 * [2024-06-18, 12:50:49](https://news.ycombinator.com/item?id=40717221) - [Social-Media Influencers Aren't Getting Rich–They're Barely Getting By](https://www.wsj.com/tech/social-media-influencers-arent-getting-richtheyre-barely-getting-by-71e0aad3)
