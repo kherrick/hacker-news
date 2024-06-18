@@ -21,22 +21,22 @@
   ],
   [
     [
+      "2024-06-18, 05:37:59",
+      "https://news.ycombinator.com/item?id=40714371"
+    ],
+    [
+      "The Public Interest Internet, by Robin Berjon",
+      "https://berjon.com/public-interest-internet/"
+    ]
+  ],
+  [
+    [
       "2024-06-18, 04:01:43",
       "https://news.ycombinator.com/item?id=40713952"
     ],
     [
       "Every Way to Get Structured Output from LLMs",
       "https://www.boundaryml.com/blog/structured-output-from-llms"
-    ]
-  ],
-  [
-    [
-      "2024-06-18, 00:41:08",
-      "https://news.ycombinator.com/item?id=40712872"
-    ],
-    [
-      "Now that UUIDv7 is lexicographic, does that mean there is no use for ULID?",
-      "https://www.npmjs.com/package/uuidv7"
     ]
   ],
   [
@@ -117,16 +117,6 @@
     [
       "Humans began to rapidly accumulate technological knowledge 600k years ago",
       "https://news.asu.edu/20240617-science-and-technology-asu-study-points-origin-cumulative-culture-human-evolution"
-    ]
-  ],
-  [
-    [
-      "2024-06-17, 21:08:11",
-      "https://news.ycombinator.com/item?id=40711086"
-    ],
-    [
-      "“Attention assault” on Fandom",
-      "https://j3s.sh/thought/stop-using-fandom.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "London Underground hosts tests for 'quantum compass' that could replace GPS",
       "https://www.theguardian.com/science/article/2024/jun/15/london-underground-quantum-compass-gps-subatomic-instrument-locations"
+    ]
+  ],
+  [
+    [
+      "2024-06-15, 07:19:59",
+      "https://news.ycombinator.com/item?id=40688055"
+    ],
+    [
+      "An Introduction to CSS-Doodle",
+      "https://yuanchuan.github.io/intro-to-css-doodle/"
     ]
   ]
 ]
