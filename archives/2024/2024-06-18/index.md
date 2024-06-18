@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-18](index.md)
 
+* [2024-06-18, 15:52:11](https://news.ycombinator.com/item?id=40719253) - [Ask HN: What are some iconic comments on HN?](https://news.ycombinator.com/item?id=40719253)
+* [2024-06-18, 15:33:34](https://news.ycombinator.com/item?id=40719018) - [Solid-state battery with 100x energy density could be used in Apple devices](https://9to5mac.com/2024/06/18/solid-state-battery-tdk/)
 * [2024-06-18, 15:21:36](https://news.ycombinator.com/item?id=40718837) - [Framework: A new RISC-V Mainboard from DeepComputing](https://frame.work/fr/en/blog/introducing-a-new-risc-v-mainboard-from-deepcomputing)
 * [2024-06-18, 14:58:34](https://news.ycombinator.com/item?id=40718566) - [What Is ChatGPT Doing and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 * [2024-06-18, 14:56:43](https://news.ycombinator.com/item?id=40718545) - [Gavin Newsom wants to take smartphones out of schools](https://www.politico.com/news/2024/06/18/gavin-newsom-wants-to-take-smart-phones-out-of-schools-00163852)
