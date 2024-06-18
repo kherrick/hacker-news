@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-18, 20:21:22](https://news.ycombinator.com/item?id=40721828) - [Statement by President of Signal app about EU chat control for mass scanning](https://twitter.com/mer__edith/status/1802612199426306150)
+* [2024-06-18, 19:59:31](https://news.ycombinator.com/item?id=40721623) - [Versioning FreeCAD Files with Git](https://blog.lambda.cx/posts/freecad-and-git/)
 * [2024-06-18, 18:23:10](https://news.ycombinator.com/item?id=40720629) - [Nature retracts paper that claimed adult stem cell could become any type of cell](https://retractionwatch.com/2024/06/18/nature-retracts-highly-cited-2002-paper-that-claimed-adult-stem-cells-could-become-any-type-of-cell/)
-* [2024-06-18, 17:31:49](https://news.ycombinator.com/item?id=40720183) - [Electricity prices in France turn negative as renewable energy floods the grid](https://fortune.com/2024/06/16/electricity-prices-france-negative-renewable-energy-supply-solar-power-wind-turbines/)
 * [2024-06-18, 17:08:36](https://news.ycombinator.com/item?id=40719975) - [3D Gaussian Splatting as Markov Chain Monte Carlo](https://ubc-vision.github.io/3dgs-mcmc/)
 * [2024-06-18, 17:01:45](https://news.ycombinator.com/item?id=40719921) - [Sharing new research, models, and datasets from Meta FAIR](https://ai.meta.com/blog/meta-fair-research-new-releases/)
 * [2024-06-18, 17:00:50](https://news.ycombinator.com/item?id=40719910) - [Ubicloud (YC W24) is hiring a founding engineer for \"managed Kubernetes service\"](https://www.ycombinator.com/companies/ubicloud/jobs/zyE7d9T-founding-engineer-for-managed-kubernetes-service)
@@ -28,7 +29,6 @@
 * [2024-06-14, 18:13:29](https://news.ycombinator.com/item?id=40683317) - [Mimicking an Elephant Trunk](https://physics.aps.org/articles/v17/98)
 * [2024-06-14, 16:26:48](https://news.ycombinator.com/item?id=40682212) - [Erica Synths DIY Prototyping Breadboard](https://cdm.link/2024/06/labor-diy/)
 * [2024-06-14, 13:03:48](https://news.ycombinator.com/item?id=40680524) - [Show HN: Quickly scan HN for new articles](https://github.com/bachmitre/hacker-news-highlighter)
-* [2024-06-13, 23:04:16](https://news.ycombinator.com/item?id=40675864) - [About the solar powered website (2022)](https://solar.lowtechmagazine.com/about/the-solar-website/)
 * [2024-06-13, 19:12:08](https://news.ycombinator.com/item?id=40673402) - [Enhancing Code Completion for Rust in Cody](https://sourcegraph.com/blog/enhancing-code-completion-for-rust-in-cody)
 
 ## [Archives](archives/index.md)
