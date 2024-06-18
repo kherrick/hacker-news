@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-18, 09:34:06](https://news.ycombinator.com/item?id=40715695) - [Chat Control: Incompatible with Fundamental Rights](https://freiheitsrechte.org/en/themen/digitale-grundrechte/chatkontrolle)
 * [2024-06-18, 08:49:26](https://news.ycombinator.com/item?id=40715449) - [Chat Control Must Be Stopped – Now](https://threema.ch/en/blog/posts/stop-chat-control)
 * [2024-06-18, 08:08:02](https://news.ycombinator.com/item?id=40715250) - [Cyber Scarecrow, making your computer look 'scary' to malware](https://www.cyberscarecrow.com/)
 * [2024-06-18, 06:10:40](https://news.ycombinator.com/item?id=40714544) - [What happens to latency if service time is cut in half](https://pveentjer.github.io/misc/2022/04/18/service-time-cut-in-half.html)
@@ -21,7 +22,6 @@
 * [2024-06-17, 13:46:04](https://news.ycombinator.com/item?id=40705574) - [Lindroid](https://twitter.com/Khode_Erfan/status/1802331845633212554)
 * [2024-06-17, 13:40:15](https://news.ycombinator.com/item?id=40705522) - [FPGA-Based Disk Controller for the Apple II](https://www.bigmessowires.com/2017/12/07/fpga-based-disk-controller-for-apple-ii/)
 * [2024-06-17, 11:42:08](https://news.ycombinator.com/item?id=40704594) - [Optical PCIe 7.0 connection hits 128 GT/s](https://www.tomshardware.com/tech-industry/optical-pcie-70-connection-hits-a-blazing-128-gts)
-* [2024-06-17, 10:49:55](https://news.ycombinator.com/item?id=40704267) - [Complexity fills the space it's given](https://medium.com/@wilsontomass/complexity-fills-the-space-its-given-762fabc401c8)
 * [2024-06-17, 10:38:34](https://news.ycombinator.com/item?id=40704179) - [NumPy-style broadcasting in Futhark](https://futhark-lang.org/blog/2024-06-17-automap.html)
 * [2024-06-17, 09:42:40](https://news.ycombinator.com/item?id=40703892) - [Lnav Logfile Navigator](https://lnav.org/)
 * [2024-06-17, 08:04:36](https://news.ycombinator.com/item?id=40703335) - [A long guide to giving a short academic talk (2022)](https://benjaminnoble.org/blog/short-talk)

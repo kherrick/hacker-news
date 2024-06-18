@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-18](index.md)
 
+* [2024-06-18, 09:34:06](https://news.ycombinator.com/item?id=40715695) - [Chat Control: Incompatible with Fundamental Rights](https://freiheitsrechte.org/en/themen/digitale-grundrechte/chatkontrolle)
 * [2024-06-18, 08:49:26](https://news.ycombinator.com/item?id=40715449) - [Chat Control Must Be Stopped – Now](https://threema.ch/en/blog/posts/stop-chat-control)
 * [2024-06-18, 08:08:02](https://news.ycombinator.com/item?id=40715250) - [Cyber Scarecrow, making your computer look 'scary' to malware](https://www.cyberscarecrow.com/)
 * [2024-06-18, 06:54:58](https://news.ycombinator.com/item?id=40714815) - [Creating a Doom-style 3D engine in C [video]](https://www.youtube.com/watch?v=HQYsFshbkYw)
