@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-18, 13:19:29](https://news.ycombinator.com/item?id=40717516) - [Hard to change people's opinions, but easier to nudge them, research suggests](https://www.nature.com/articles/d41586-024-01696-z)
-* [2024-06-18, 12:50:49](https://news.ycombinator.com/item?id=40717221) - [Social-Media Influencers Aren't Getting Rich–They're Barely Getting By](https://www.wsj.com/tech/social-media-influencers-arent-getting-richtheyre-barely-getting-by-71e0aad3)
+* [2024-06-18, 13:42:55](https://news.ycombinator.com/item?id=40717775) - [Longer and Longer Freight Trains Drive Up the Odds of Derailment](https://www.scientificamerican.com/article/longer-freight-trains-are-more-likely-to-derail/)
+* [2024-06-18, 13:19:34](https://news.ycombinator.com/item?id=40717519) - [Visualizing Data on a Mesh with Displacement Mapping in R](https://www.tylermw.com/posts/rayverse/displacement-mapping.html)
 * [2024-06-18, 10:58:24](https://news.ycombinator.com/item?id=40716235) - [Understanding the Misunderstood Kessler Syndrome](https://aerospaceamerica.aiaa.org/features/understanding-the-misunderstood-kessler-syndrome/)
 * [2024-06-18, 09:34:06](https://news.ycombinator.com/item?id=40715695) - [Chat Control: Incompatible with Fundamental Rights (2022)](https://freiheitsrechte.org/en/themen/digitale-grundrechte/chatkontrolle)
 * [2024-06-18, 08:08:02](https://news.ycombinator.com/item?id=40715250) - [Cyber Scarecrow, making your computer look 'scary' to malware](https://www.cyberscarecrow.com/)
@@ -27,9 +27,9 @@
 * [2024-06-17, 09:42:40](https://news.ycombinator.com/item?id=40703892) - [Lnav Logfile Navigator](https://lnav.org/)
 * [2024-06-17, 08:04:36](https://news.ycombinator.com/item?id=40703335) - [A long guide to giving a short academic talk (2022)](https://benjaminnoble.org/blog/short-talk)
 * [2024-06-17, 06:06:29](https://news.ycombinator.com/item?id=40702748) - [Software Friction](https://www.hillelwayne.com/post/software-friction/)
-* [2024-06-16, 16:50:48](https://news.ycombinator.com/item?id=40698415) - [The unending allure of high mountains](https://www.noemamag.com/the-unending-allure-of-high-mountains/)
 * [2024-06-16, 02:36:03](https://news.ycombinator.com/item?id=40694284) - [Are animals conscious? New research](https://www.bbc.com/news/articles/cv223z15mpmo)
 * [2024-06-15, 20:03:27](https://news.ycombinator.com/item?id=40692333) - [London Underground hosts tests for 'quantum compass' that could replace GPS](https://www.theguardian.com/science/article/2024/jun/15/london-underground-quantum-compass-gps-subatomic-instrument-locations)
+* [2024-06-14, 12:59:39](https://news.ycombinator.com/item?id=40680494) - [Making a Bignum Library for Fun](https://austinhenley.com/blog/bignum1.html)
 
 ## [Archives](archives/index.md)
 
