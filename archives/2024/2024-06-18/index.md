@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-06-18](index.md)
 
+* [2024-06-18, 14:42:23](https://news.ycombinator.com/item?id=40718403) - [Canadian MPs suspected of treason kept anonymous and in office](https://www.theglobeandmail.com/opinion/article-we-need-to-know-the-names-of-the-traitor-mps-but-dont-count-on-any-of/)
+* [2024-06-18, 14:31:31](https://news.ycombinator.com/item?id=40718289) - [CISA Publishes \"Enhancing Election Security Through Public Communications\" [pdf]](https://www.cisa.gov/sites/default/files/2024-06/Enhancing%20Election%20Security%20Through%20Public%20Communications_508c.pdf)
 * [2024-06-18, 14:15:16](https://news.ycombinator.com/item?id=40718124) - [Framework: A new RISC-V Mainboard from DeepComputing](https://frame.work/blog/introducing-a-new-risc-v-mainboard-from-deepcomputing)
+* [2024-06-18, 13:45:07](https://news.ycombinator.com/item?id=40717804) - [Tiny beauty: how I make scientific art from behind the microscope](https://www.nature.com/immersive/d41586-024-02011-6/index.html)
 * [2024-06-18, 13:42:55](https://news.ycombinator.com/item?id=40717775) - [Longer and Longer Freight Trains Drive Up the Odds of Derailment](https://www.scientificamerican.com/article/longer-freight-trains-are-more-likely-to-derail/)
 * [2024-06-18, 13:19:34](https://news.ycombinator.com/item?id=40717519) - [Visualizing Data on a Mesh with Displacement Mapping in R](https://www.tylermw.com/posts/rayverse/displacement-mapping.html)
 * [2024-06-18, 13:19:29](https://news.ycombinator.com/item?id=40717516) - [Hard to change people's opinions, but easier to nudge them, research suggests](https://www.nature.com/articles/d41586-024-01696-z)
