@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-06-18](index.md)
 
+* [2024-06-18, 18:52:46](https://news.ycombinator.com/item?id=40720876) - [We Remember Noam Chomsky, the Intellectual and Moral Giant](https://jacobin.com/2024/06/noam-chomsky-obituary-media-theory-elites/)
 * [2024-06-18, 18:37:09](https://news.ycombinator.com/item?id=40720744) - [Massachusetts officials dealing with statewide 911 system outage](https://whdh.com/news/massachusetts-officials-dealing-with-statewide-911-system-outage/)
 * [2024-06-18, 18:28:48](https://news.ycombinator.com/item?id=40720680) - [Translate Datadog Metrics into OTLP](https://grafana.com/blog/2024/06/18/translate-datadog-metrics-into-otlp-with-the-opentelemetry-collector-and-grafana-alloy/)
+* [2024-06-18, 18:28:23](https://news.ycombinator.com/item?id=40720677) - [Nvidia Passes Microsoft to Become Largest U.S. Company](https://www.wsj.com/livecoverage/stock-market-today-dow-sp500-nasdaq-live-06-18-2024/card/nvidia-moves-into-the-top-spot-for-market-cap-4i1SFFzMdA4HO4OwnWSk)
 * [2024-06-18, 18:28:04](https://news.ycombinator.com/item?id=40720674) - [Booking.com ignores twofactor, lets everyone email-login without a password](https://news.ycombinator.com/item?id=40720674)
 * [2024-06-18, 18:23:10](https://news.ycombinator.com/item?id=40720629) - [Nature retracts 2002 paper that claimed stem cells could become any type of cell](https://retractionwatch.com/2024/06/18/nature-retracts-highly-cited-2002-paper-that-claimed-adult-stem-cells-could-become-any-type-of-cell/)
 * [2024-06-18, 18:15:49](https://news.ycombinator.com/item?id=40720576) - [BNSF ordered to pay $395M after years of trespassing on Swinomish land](https://www.kuow.org/stories/bnsf-ordered-to-pay-395-million-after-years-of-trespassing-on-swinomish-land)
