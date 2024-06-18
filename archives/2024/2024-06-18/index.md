@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-18](index.md)
 
+* [2024-06-18, 18:37:09](https://news.ycombinator.com/item?id=40720744) - [Massachusetts officials dealing with statewide 911 system outage](https://whdh.com/news/massachusetts-officials-dealing-with-statewide-911-system-outage/)
 * [2024-06-18, 18:28:48](https://news.ycombinator.com/item?id=40720680) - [Translate Datadog Metrics into OTLP](https://grafana.com/blog/2024/06/18/translate-datadog-metrics-into-otlp-with-the-opentelemetry-collector-and-grafana-alloy/)
 * [2024-06-18, 18:28:04](https://news.ycombinator.com/item?id=40720674) - [Booking.com ignores twofactor, lets everyone email-login without a password](https://news.ycombinator.com/item?id=40720674)
 * [2024-06-18, 18:23:10](https://news.ycombinator.com/item?id=40720629) - [Nature retracts 2002 paper that claimed stem cells could become any type of cell](https://retractionwatch.com/2024/06/18/nature-retracts-highly-cited-2002-paper-that-claimed-adult-stem-cells-could-become-any-type-of-cell/)

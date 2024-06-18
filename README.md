@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-18, 18:37:09](https://news.ycombinator.com/item?id=40720744) - [Massachusetts officials dealing with statewide 911 system outage](https://whdh.com/news/massachusetts-officials-dealing-with-statewide-911-system-outage/)
 * [2024-06-18, 18:28:48](https://news.ycombinator.com/item?id=40720680) - [Translate Datadog Metrics into OTLP](https://grafana.com/blog/2024/06/18/translate-datadog-metrics-into-otlp-with-the-opentelemetry-collector-and-grafana-alloy/)
 * [2024-06-18, 18:28:04](https://news.ycombinator.com/item?id=40720674) - [Booking.com ignores twofactor, lets everyone email-login without a password](https://news.ycombinator.com/item?id=40720674)
 * [2024-06-18, 18:23:10](https://news.ycombinator.com/item?id=40720629) - [Nature retracts 2002 paper that claimed stem cells could become any type of cell](https://retractionwatch.com/2024/06/18/nature-retracts-highly-cited-2002-paper-that-claimed-adult-stem-cells-could-become-any-type-of-cell/)
@@ -21,7 +22,6 @@
 * [2024-06-18, 07:15:37](https://news.ycombinator.com/item?id=40714950) - [Spur – RISC IV: The Lisp Multiprocessor Workstation](https://thechipletter.substack.com/p/spur-risc-iv-the-lisp-multiprocessor)
 * [2024-06-17, 19:59:25](https://news.ycombinator.com/item?id=40710346) - [Oulipo's use of the Tohoku paper (2014)](http://www.neverendingbooks.org/oulipos-use-of-the-tohoku-paper/)
 * [2024-06-17, 10:49:55](https://news.ycombinator.com/item?id=40704267) - [Complexity fills the space it's given](https://medium.com/@wilsontomass/complexity-fills-the-space-its-given-762fabc401c8)
-* [2024-06-17, 09:42:40](https://news.ycombinator.com/item?id=40703892) - [Lnav Logfile Navigator](https://lnav.org/)
 * [2024-06-17, 06:06:29](https://news.ycombinator.com/item?id=40702748) - [Software Friction](https://www.hillelwayne.com/post/software-friction/)
 * [2024-06-14, 19:02:09](https://news.ycombinator.com/item?id=40683862) - [In Praise of 5-Over-1 Buildings](https://www.archdaily.com/978264/in-praise-of-5-over-1-buildings)
 * [2024-06-14, 18:33:40](https://news.ycombinator.com/item?id=40683564) - [Show HN: SHAllenge – Compete to get the lowest hash](https://shallenge.quirino.net/)
