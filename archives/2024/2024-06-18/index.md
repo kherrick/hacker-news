@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-18](index.md)
 
+* [2024-06-18, 13:19:29](https://news.ycombinator.com/item?id=40717516) - [Hard to change people's opinions, but easier to nudge them, research suggests](https://www.nature.com/articles/d41586-024-01696-z)
 * [2024-06-18, 13:02:46](https://news.ycombinator.com/item?id=40717342) - [The Surgeon General Calls for a Warning Label on Social Media](https://www.afterbabel.com/p/surgeon-general-warning)
 * [2024-06-18, 12:56:45](https://news.ycombinator.com/item?id=40717285) - [AI can't fix what automation already broke](https://www.bloodinthemachine.com/p/ai-cant-fix-everything-automation)
 * [2024-06-18, 12:50:49](https://news.ycombinator.com/item?id=40717221) - [Social-Media Influencers Aren't Getting Rich–They're Barely Getting By](https://www.wsj.com/tech/social-media-influencers-arent-getting-richtheyre-barely-getting-by-71e0aad3)
