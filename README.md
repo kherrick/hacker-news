@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-18, 19:30:47](https://news.ycombinator.com/item?id=40721271) - [Noam Chomsky has passed away](https://twitter.com/PeoplesMomentum/status/1803142677174911102)
 * [2024-06-18, 18:23:10](https://news.ycombinator.com/item?id=40720629) - [Nature retracts paper that claimed adult stem cell could become any type of cell](https://retractionwatch.com/2024/06/18/nature-retracts-highly-cited-2002-paper-that-claimed-adult-stem-cells-could-become-any-type-of-cell/)
 * [2024-06-18, 17:31:49](https://news.ycombinator.com/item?id=40720183) - [Electricity prices in France turn negative as renewable energy floods the grid](https://fortune.com/2024/06/16/electricity-prices-france-negative-renewable-energy-supply-solar-power-wind-turbines/)
 * [2024-06-18, 17:25:42](https://news.ycombinator.com/item?id=40720121) - [Ask HN: Tell me your stories of taking lower paid work to be happier](https://news.ycombinator.com/item?id=40720121)
@@ -19,6 +18,7 @@
 * [2024-06-18, 07:28:18](https://news.ycombinator.com/item?id=40715018) - [TikTag: Breaking ARM's memory tagging extension with speculative execution](https://arxiv.org/abs/2406.08719)
 * [2024-06-18, 07:15:37](https://news.ycombinator.com/item?id=40714950) - [Spur – RISC IV: The Lisp Multiprocessor Workstation](https://thechipletter.substack.com/p/spur-risc-iv-the-lisp-multiprocessor)
 * [2024-06-18, 06:10:40](https://news.ycombinator.com/item?id=40714544) - [What happens to latency if service time is cut in half (2022)](https://pveentjer.github.io/misc/2022/04/18/service-time-cut-in-half.html)
+* [2024-06-18, 05:37:59](https://news.ycombinator.com/item?id=40714371) - [The Public Interest Internet](https://berjon.com/public-interest-internet/)
 * [2024-06-17, 19:59:25](https://news.ycombinator.com/item?id=40710346) - [Oulipo's use of the Tohoku paper (2014)](http://www.neverendingbooks.org/oulipos-use-of-the-tohoku-paper/)
 * [2024-06-17, 09:42:40](https://news.ycombinator.com/item?id=40703892) - [Lnav Logfile Navigator](https://lnav.org/)
 * [2024-06-17, 06:06:29](https://news.ycombinator.com/item?id=40702748) - [Software Friction](https://www.hillelwayne.com/post/software-friction/)
