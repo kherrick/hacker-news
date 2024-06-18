@@ -103,6 +103,7 @@
 * [2024-06-17, 07:28:03](https://news.ycombinator.com/item?id=40703088) - [How Innovative Is China in Nuclear Power?](https://itif.org/publications/2024/06/17/how-innovative-is-china-in-nuclear-power/)
 * [2024-06-17, 07:05:42](https://news.ycombinator.com/item?id=40702985) - [The time keepers: pg_cron and pg_timetable](https://notso.boringsql.com/posts/time-keepers-pg-cron-pg-timetable/)
 * [2024-06-17, 07:00:40](https://news.ycombinator.com/item?id=40702965) - [Firezone (YC W22) Is Hiring a Senior Rust Engineer (Mountain View)](https://www.ycombinator.com/companies/firezone/jobs/entppUR-senior-rust-engineer-systems)
+* [2024-06-17, 06:42:12](https://news.ycombinator.com/item?id=40702895) - ['Equals' has more than one meaning in math](https://www.sciencealert.com/mathematician-reveals-equals-has-more-than-one-meaning-in-math)
 * [2024-06-17, 06:39:31](https://news.ycombinator.com/item?id=40702886) - [Meta won't train AI on Euro posts after all, as watchdogs put their paws down](https://www.theregister.com/2024/06/14/meta_eu_privacy/)
 * [2024-06-17, 06:14:50](https://news.ycombinator.com/item?id=40702782) - [How to get stuff repaired when the manufacturer don't wanna: take 'em to court](https://blog.simonrumble.com/how-to-get-your-stuff-repaired-when-the-retailer-and-manufacturer-dont-wanna-take-em-to-court)
 * [2024-06-17, 05:38:39](https://news.ycombinator.com/item?id=40702617) - [Creativity Has Left the Chat: The Price of Debiasing Language Models](https://arxiv.org/abs/2406.05587)
