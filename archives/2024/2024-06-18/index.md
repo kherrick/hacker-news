@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-06-18](index.md)
 
+* [2024-06-18, 23:30:33](https://news.ycombinator.com/item?id=40723174) - [Reports: Apple is halting its next high-end Vision in favor of something cheaper](https://arstechnica.com/gadgets/2024/06/apple-is-reportedly-shifting-its-next-vision-headset-to-a-cheaper-model/)
 * [2024-06-18, 23:21:18](https://news.ycombinator.com/item?id=40723113) - [California Lawmakers Should Reject Mandatory Internet ID Checks](https://www.eff.org/deeplinks/2024/06/california-lawmakers-should-reject-mandatory-internet-id-checks)
 * [2024-06-18, 23:14:54](https://news.ycombinator.com/item?id=40723083) - [Nvidia overtakes Microsoft as the most valuable company](https://www.theverge.com/2024/6/18/24181393/nvidia-most-valuable-company-microsoft-apple-google)
+* [2024-06-18, 23:12:57](https://news.ycombinator.com/item?id=40723074) - [Intel Delivers Leading-Edge Foundry Node with Intel 3 Technology, 5N4Y on Track](https://community.intel.com/t5/Blogs/Intel-Foundry/Intel-Foundry/Intel-Delivers-Leading-Edge-Foundry-Node-with-Intel-3-Technology/post/1607454)
 * [2024-06-18, 23:08:22](https://news.ycombinator.com/item?id=40723040) - [SpaceX's Starlink may be keeping the ozone from healing, research finds](https://futurism.com/the-byte/spacex-starlink-ozone-healing)
 * [2024-06-18, 23:02:35](https://news.ycombinator.com/item?id=40723008) - [AridSpy targeting Egypt and Palestinian territories in new espionage campaigns](https://therecord.media/malware-aridspy-egypt-palestine-viper)
 * [2024-06-18, 22:59:52](https://news.ycombinator.com/item?id=40722985) - [House prices are surging once again](https://www.economist.com/finance-and-economics/2024/06/16/why-house-prices-are-surging-once-again)
