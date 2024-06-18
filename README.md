@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-18, 13:02:46](https://news.ycombinator.com/item?id=40717342) - [The Surgeon General Calls for a Warning Label on Social Media](https://www.afterbabel.com/p/surgeon-general-warning)
 * [2024-06-18, 12:56:45](https://news.ycombinator.com/item?id=40717285) - [AI can't fix what automation already broke](https://www.bloodinthemachine.com/p/ai-cant-fix-everything-automation)
 * [2024-06-18, 12:50:49](https://news.ycombinator.com/item?id=40717221) - [Social-Media Influencers Aren't Getting Rich–They're Barely Getting By](https://www.wsj.com/tech/social-media-influencers-arent-getting-richtheyre-barely-getting-by-71e0aad3)
 * [2024-06-18, 10:58:24](https://news.ycombinator.com/item?id=40716235) - [Understanding the Misunderstood Kessler Syndrome](https://aerospaceamerica.aiaa.org/features/understanding-the-misunderstood-kessler-syndrome/)
@@ -13,6 +12,7 @@
 * [2024-06-17, 22:44:44](https://news.ycombinator.com/item?id=40712020) - [Intel-undervolt: CPU undervolting and throttling configuration tool for Linux](https://github.com/kitsunyan/intel-undervolt)
 * [2024-06-17, 22:24:47](https://news.ycombinator.com/item?id=40711835) - [Intel details Skymont](https://chipsandcheese.com/2024/06/15/intel-details-skymont/)
 * [2024-06-17, 22:08:19](https://news.ycombinator.com/item?id=40711661) - [A Note on Essential Complexity](https://olano.dev/blog/a-note-on-essential-complexity)
+* [2024-06-17, 22:02:59](https://news.ycombinator.com/item?id=40711600) - [Google DeepMind shifts from research lab to AI product factory](https://www.bloomberg.com/news/articles/2024-06-17/google-deepmind-shifts-from-research-lab-to-ai-product-factory)
 * [2024-06-17, 21:51:14](https://news.ycombinator.com/item?id=40711484) - [Getting 50% (SoTA) on Arc-AGI with GPT-4o](https://redwoodresearch.substack.com/p/getting-50-sota-on-arc-agi-with-gpt)
 * [2024-06-17, 21:28:50](https://news.ycombinator.com/item?id=40711284) - [Humans began to rapidly accumulate technological knowledge 600k years ago](https://news.asu.edu/20240617-science-and-technology-asu-study-points-origin-cumulative-culture-human-evolution)
 * [2024-06-17, 21:00:14](https://news.ycombinator.com/item?id=40711008) - [Suiteness (YC S16) Is Hiring for TypeScript/Qwik](https://www.ycombinator.com/companies/suiteness/jobs/DIrk9Sf-front-end-engineer)
@@ -26,8 +26,8 @@
 * [2024-06-17, 10:38:34](https://news.ycombinator.com/item?id=40704179) - [NumPy-style broadcasting in Futhark](https://futhark-lang.org/blog/2024-06-17-automap.html)
 * [2024-06-17, 09:42:40](https://news.ycombinator.com/item?id=40703892) - [Lnav Logfile Navigator](https://lnav.org/)
 * [2024-06-17, 08:04:36](https://news.ycombinator.com/item?id=40703335) - [A long guide to giving a short academic talk (2022)](https://benjaminnoble.org/blog/short-talk)
-* [2024-06-17, 07:39:04](https://news.ycombinator.com/item?id=40703161) - [Show HN: After 2 months my project management software is finally finished](https://www.flourishfreelance.com/)
 * [2024-06-17, 06:06:29](https://news.ycombinator.com/item?id=40702748) - [Software Friction](https://www.hillelwayne.com/post/software-friction/)
+* [2024-06-16, 16:50:48](https://news.ycombinator.com/item?id=40698415) - [The unending allure of high mountains](https://www.noemamag.com/the-unending-allure-of-high-mountains/)
 * [2024-06-16, 02:36:03](https://news.ycombinator.com/item?id=40694284) - [Are animals conscious? New research](https://www.bbc.com/news/articles/cv223z15mpmo)
 * [2024-06-15, 20:03:27](https://news.ycombinator.com/item?id=40692333) - [London Underground hosts tests for 'quantum compass' that could replace GPS](https://www.theguardian.com/science/article/2024/jun/15/london-underground-quantum-compass-gps-subatomic-instrument-locations)
 
