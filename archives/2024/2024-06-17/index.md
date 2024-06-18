@@ -23,6 +23,7 @@
 * [2024-06-17, 20:58:42](https://news.ycombinator.com/item?id=40710993) - [EU to greenlight Chat Control tomorrow](https://www.patrick-breyer.de/en/council-to-greenlight-chat-control-take-action-now/)
 * [2024-06-17, 20:04:19](https://news.ycombinator.com/item?id=40710417) - [Sam Altman is not on YC's board. So why claim to be its chair?](https://www.bizjournals.com/sanfrancisco/inno/stories/news/2024/04/15/sam-altman-y-combinator-board-chair.html)
 * [2024-06-17, 20:02:34](https://news.ycombinator.com/item?id=40710397) - [Where did you go, Ms. Pac-Man?](https://www.thrillingtalesofoldvideogames.com/blog/ms-pac-man-disappear-pac-mom)
+* [2024-06-17, 19:59:25](https://news.ycombinator.com/item?id=40710346) - [Oulipo's use of the Tohoku paper (2014)](http://www.neverendingbooks.org/oulipos-use-of-the-tohoku-paper/)
 * [2024-06-17, 19:56:38](https://news.ycombinator.com/item?id=40710301) - [At 15, Darlene Stubbs left a polygamous cult, found a new life through running](https://www.runnersworld.com/runners-stories/a60791305/short-creek-running-club-flds-polygamy/)
 * [2024-06-17, 19:49:10](https://news.ycombinator.com/item?id=40710201) - [Sei pays out $2M Bug Bounty](https://usmannkhan.com/bug%20reports/2024/06/17/sei-bug-report.html)
 * [2024-06-17, 19:44:53](https://news.ycombinator.com/item?id=40710154) - [Show HN: Token price calculator for 400+ LLMs](https://github.com/AgentOps-AI/tokencost)
