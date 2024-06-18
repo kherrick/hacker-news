@@ -6,6 +6,7 @@
 
 * [2024-06-13, 23:30:43](https://news.ycombinator.com/item?id=40676021) - [The Stanford Internet Observatory is being dismantled](https://www.platformer.news/stanford-internet-observatory-shutdown-stamos-diresta-sio/)
 * [2024-06-13, 23:18:50](https://news.ycombinator.com/item?id=40675947) - [Why I Bought an Encyclopedia](https://www.optoutproject.net/what-is-true-on-the-internet/)
+* [2024-06-13, 23:04:16](https://news.ycombinator.com/item?id=40675864) - [About the Solar Powered Website](https://solar.lowtechmagazine.com/about/the-solar-website/)
 * [2024-06-13, 22:58:53](https://news.ycombinator.com/item?id=40675820) - [Show HN: Elles – A nicer /bin/ls](https://github.com/arp242/elles)
 * [2024-06-13, 22:48:19](https://news.ycombinator.com/item?id=40675724) - [From grep to SPLADE: a journey through semantic search](https://blog.elicit.com/semantic-search/)
 * [2024-06-13, 22:44:20](https://news.ycombinator.com/item?id=40675696) - [How/Why to Sweep Async Tasks Under a Postgres Table [video]](https://www.youtube.com/watch?v=wXXJuz_spcU&list=PLlrxD0HtieHg5ldHlEn3nMMpClX0RUntH&index=29)

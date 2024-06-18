@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-18](index.md)
 
+* [2024-06-18, 15:54:16](https://news.ycombinator.com/item?id=40719279) - [The Farmer Was Replaced (A Python-esque automated farming game)](https://store.steampowered.com/app/2060160/The_Farmer_Was_Replaced/)
 * [2024-06-18, 15:52:11](https://news.ycombinator.com/item?id=40719253) - [Ask HN: What are some iconic comments on HN?](https://news.ycombinator.com/item?id=40719253)
 * [2024-06-18, 15:33:34](https://news.ycombinator.com/item?id=40719018) - [Solid-state battery with 100x energy density could be used in Apple devices](https://9to5mac.com/2024/06/18/solid-state-battery-tdk/)
 * [2024-06-18, 15:21:36](https://news.ycombinator.com/item?id=40718837) - [Framework: A new RISC-V Mainboard from DeepComputing](https://frame.work/fr/en/blog/introducing-a-new-risc-v-mainboard-from-deepcomputing)
@@ -28,6 +29,7 @@
 * [2024-06-18, 10:58:24](https://news.ycombinator.com/item?id=40716235) - [Understanding the Misunderstood Kessler Syndrome](https://aerospaceamerica.aiaa.org/features/understanding-the-misunderstood-kessler-syndrome/)
 * [2024-06-18, 09:44:56](https://news.ycombinator.com/item?id=40715752) - [Malaysia to Join BRICS](https://www.aljazeera.com/economy/2024/6/18/malaysias-anwar-flags-brics-membership-praises-xi-as-outstanding-leader)
 * [2024-06-18, 09:34:06](https://news.ycombinator.com/item?id=40715695) - [Chat Control: Incompatible with Fundamental Rights](https://freiheitsrechte.org/en/themen/digitale-grundrechte/chatkontrolle)
+* [2024-06-18, 09:05:18](https://news.ycombinator.com/item?id=40715520) - [Peak Population Projections](https://dothemath.ucsd.edu/2024/06/peak-population-projections/)
 * [2024-06-18, 08:49:26](https://news.ycombinator.com/item?id=40715449) - [Chat Control Must Be Stopped – Now](https://threema.ch/en/blog/posts/stop-chat-control)
 * [2024-06-18, 08:08:02](https://news.ycombinator.com/item?id=40715250) - [Cyber Scarecrow, making your computer look 'scary' to malware](https://www.cyberscarecrow.com/)
 * [2024-06-18, 07:28:18](https://news.ycombinator.com/item?id=40715018) - [TikTag: bypassing ARM CPU MemTag via speculative execution attack](https://arxiv.org/abs/2406.08719)
