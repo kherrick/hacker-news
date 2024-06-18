@@ -15,7 +15,7 @@
 * [2024-06-17, 21:51:14](https://news.ycombinator.com/item?id=40711484) - [Getting 50% (SoTA) on Arc-AGI with GPT-4o](https://redwoodresearch.substack.com/p/getting-50-sota-on-arc-agi-with-gpt)
 * [2024-06-17, 21:47:34](https://news.ycombinator.com/item?id=40711447) - [LLM that can call multiple tool APIs with one request](https://cohere.com/blog/multi-step-tool-use)
 * [2024-06-17, 21:28:50](https://news.ycombinator.com/item?id=40711284) - [Humans began to rapidly accumulate technological knowledge 600k years ago](https://news.asu.edu/20240617-science-and-technology-asu-study-points-origin-cumulative-culture-human-evolution)
-* [2024-06-17, 21:00:14](https://news.ycombinator.com/item?id=40711008) - [Suiteness (YC S16) Is Hiring for TypeScript/Qwik](https://www.ycombinator.com/companies/suiteness/jobs/DIrk9Sf-front-end-engineer)
+* [2024-06-17, 20:02:34](https://news.ycombinator.com/item?id=40710397) - [Where did you go, Ms. Pac-Man?](https://www.thrillingtalesofoldvideogames.com/blog/ms-pac-man-disappear-pac-mom)
 * [2024-06-17, 19:44:53](https://news.ycombinator.com/item?id=40710154) - [Show HN: Token price calculator for 400+ LLMs](https://github.com/AgentOps-AI/tokencost)
 * [2024-06-17, 17:35:20](https://news.ycombinator.com/item?id=40708476) - [Understanding SPF, DKIM, and DMARC: A Simple Guide](https://github.com/nicanorflavier/spf-dkim-dmarc-simplified)
 * [2024-06-17, 16:29:53](https://news.ycombinator.com/item?id=40707558) - [FTC sues Adobe for hiding fees and inhibiting cancellations](https://www.ftc.gov/news-events/news/press-releases/2024/06/ftc-takes-action-against-adobe-executives-hiding-fees-preventing-consumers-easily-cancelling)
