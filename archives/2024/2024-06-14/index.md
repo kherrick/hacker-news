@@ -8,6 +8,7 @@
 * [2024-06-14, 22:30:30](https://news.ycombinator.com/item?id=40685752) - [Poll: Is AI Hype a Bubble?](https://news.ycombinator.com/item?id=40685752)
 * [2024-06-14, 22:27:29](https://news.ycombinator.com/item?id=40685733) - [Inkdown is an open source Markdown reading, editing, and sharing tool](https://github.com/1943time/bluestone)
 * [2024-06-14, 22:13:38](https://news.ycombinator.com/item?id=40685644) - [Snowden: \"They've gone full mask-off: do not ever trust OpenAI or its products\"](https://twitter.com/Snowden/status/1801610725229498403)
+* [2024-06-14, 21:44:33](https://news.ycombinator.com/item?id=40685427) - [Serialization for C# Games](https://chickensoft.games/blog/serialization-for-csharp-games/)
 * [2024-06-14, 21:28:25](https://news.ycombinator.com/item?id=40685316) - [Martin Amis and the Pursuit of Pleasure](https://www.newstatesman.com/culture/books/2024/06/martin-amis-and-the-pursuit-of-pleasure)
 * [2024-06-14, 21:20:37](https://news.ycombinator.com/item?id=40685254) - [Spaced repetition for teaching two-year olds how to read](https://chrislakin.blog/p/spaced-repetition-for-teaching-two)
 * [2024-06-14, 21:10:41](https://news.ycombinator.com/item?id=40685173) - [Sequential Search, Correctly](http://siek.blogspot.com/2024/06/sequential-search-correctly.html)

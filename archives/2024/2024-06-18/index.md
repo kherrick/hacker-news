@@ -16,6 +16,7 @@
 * [2024-06-18, 21:00:51](https://news.ycombinator.com/item?id=40722164) - [Hadrius (YC W23) is hiring engineers looking to grow into future founders](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
 * [2024-06-18, 20:59:37](https://news.ycombinator.com/item?id=40722155) - [Amazon fined $5.9M for breaking labor law in California](https://www.washingtonpost.com/technology/2024/06/18/amazon-fine-labor-law-california/)
 * [2024-06-18, 20:59:32](https://news.ycombinator.com/item?id=40722154) - [KOSA gains enough supporters to pass the Senate](https://www.theverge.com/2024/2/15/24073878/kids-online-safety-act-new-senate-support)
+* [2024-06-18, 20:50:32](https://news.ycombinator.com/item?id=40722096) - [Show HN: Chatting with AI Sucks. Try Mindmapping](https://www.fuzzyflo.com/map)
 * [2024-06-18, 20:39:32](https://news.ycombinator.com/item?id=40721998) - [Nvidia Becomes Most Valuable Public Company, Topping Microsoft and Apple](https://www.nytimes.com/2024/06/18/technology/nvidia-most-valuable-company.html)
 * [2024-06-18, 20:21:22](https://news.ycombinator.com/item?id=40721828) - [Statement by President of Signal app about EU chat control for mass scanning](https://twitter.com/mer__edith/status/1802612199426306150)
 * [2024-06-18, 20:13:04](https://news.ycombinator.com/item?id=40721756) - [EV startup Fisker files for bankruptcy](https://techcrunch.com/2024/06/18/ev-startup-fisker-files-for-bankruptcy/)
