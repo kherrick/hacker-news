@@ -76,6 +76,7 @@
 * [2024-06-15, 08:23:12](https://news.ycombinator.com/item?id=40688311) - [PaperTapeReader: A DIY reader for vintage 8-bit paper tapes](https://github.com/dhansel/PaperTapeReader)
 * [2024-06-15, 08:10:02](https://news.ycombinator.com/item?id=40688264) - [Sonos changes terms and conditions and may now pass on data to third parties](https://www.notebookcheck.net/Sonos-changes-terms-and-conditions-and-may-now-pass-on-data-to-third-parties.848124.0.html)
 * [2024-06-15, 07:39:41](https://news.ycombinator.com/item?id=40688138) - [A brief history of Mac enclaves and exclaves](https://eclecticlight.co/2024/06/15/a-brief-history-of-mac-enclaves-and-exclaves/)
+* [2024-06-15, 07:19:59](https://news.ycombinator.com/item?id=40688055) - [An Introduction to CSS-Doodle](https://yuanchuan.github.io/intro-to-css-doodle/)
 * [2024-06-15, 07:04:29](https://news.ycombinator.com/item?id=40688001) - [Tesla's FSD – A Useless Technology Demo](https://tomverbeure.github.io/2024/05/20/Tesla-FSD-First-and-Last-Impressions.html)
 * [2024-06-15, 06:50:16](https://news.ycombinator.com/item?id=40687952) - [When to Write a Simulator](https://sirupsen.com/napkin/problem-16-simulation)
 * [2024-06-15, 06:10:31](https://news.ycombinator.com/item?id=40687840) - [Sales Happen When Buyers Fear Missing Out](https://tidyfirst.substack.com/p/sales-happen-when-buyers-fear-missing)
