@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-18, 02:04:52](https://news.ycombinator.com/item?id=40713389) - [Will We Run Out of Data? Limits of LLM Scaling Based on Human-Generated Data](https://epochai.org/blog/will-we-run-out-of-data-limits-of-llm-scaling-based-on-human-generated-data)
+* [2024-06-18, 05:13:49](https://news.ycombinator.com/item?id=40714264) - [Teachers: Inclusion is the worst thing to have happened to education](https://old.reddit.com/r/Teachers/comments/1dhx1vm/inclusion_is_the_worst_thing_to_have_happened_to/)
+* [2024-06-18, 04:01:43](https://news.ycombinator.com/item?id=40713952) - [Every Way to Get Structured Output from LLMs](https://www.boundaryml.com/blog/structured-output-from-llms)
 * [2024-06-18, 00:15:03](https://news.ycombinator.com/item?id=40712720) - [The upcoming iterator design for Go 1.23](https://www.gingerbill.org/article/2024/06/17/go-iterator-design/)
 * [2024-06-17, 22:44:44](https://news.ycombinator.com/item?id=40712020) - [Intel-undervolt: CPU undervolting and throttling configuration tool for Linux](https://github.com/kitsunyan/intel-undervolt)
 * [2024-06-17, 22:24:47](https://news.ycombinator.com/item?id=40711835) - [Intel details Skymont](https://chipsandcheese.com/2024/06/15/intel-details-skymont/)
@@ -15,7 +16,6 @@
 * [2024-06-17, 20:04:19](https://news.ycombinator.com/item?id=40710417) - [Sam Altman is not on YC's board. So why claim to be its chair?](https://www.bizjournals.com/sanfrancisco/inno/stories/news/2024/04/15/sam-altman-y-combinator-board-chair.html)
 * [2024-06-17, 20:02:34](https://news.ycombinator.com/item?id=40710397) - [Where did you go, Ms. Pac-Man?](https://www.thrillingtalesofoldvideogames.com/blog/ms-pac-man-disappear-pac-mom)
 * [2024-06-17, 19:44:53](https://news.ycombinator.com/item?id=40710154) - [Show HN: Token price calculator for 400+ LLMs](https://github.com/AgentOps-AI/tokencost)
-* [2024-06-17, 19:43:13](https://news.ycombinator.com/item?id=40710138) - [Show HN: ThreadQuilt: AI-Free Thread Aggregator](https://www.threadquilt.com)
 * [2024-06-17, 17:35:20](https://news.ycombinator.com/item?id=40708476) - [Understanding SPF, DKIM, and DMARC: A Simple Guide](https://github.com/nicanorflavier/spf-dkim-dmarc-simplified)
 * [2024-06-17, 16:29:53](https://news.ycombinator.com/item?id=40707558) - [FTC sues Adobe for hiding fees and inhibiting cancellations](https://www.ftc.gov/news-events/news/press-releases/2024/06/ftc-takes-action-against-adobe-executives-hiding-fees-preventing-consumers-easily-cancelling)
 * [2024-06-17, 13:46:04](https://news.ycombinator.com/item?id=40705574) - [Lindroid](https://twitter.com/Khode_Erfan/status/1802331845633212554)
