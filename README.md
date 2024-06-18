@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-18, 17:08:36](https://news.ycombinator.com/item?id=40719975) - [3D Gaussian Splatting as Markov Chain Monte Carlo](https://ubc-vision.github.io/3dgs-mcmc/)
-* [2024-06-18, 17:03:47](https://news.ycombinator.com/item?id=40719940) - [The Deadly Mining Complex Powering the EV Revolution](https://www.bloomberg.com/features/2024-indonesia-sulawesi-nickel-fire/)
 * [2024-06-18, 17:01:45](https://news.ycombinator.com/item?id=40719921) - [Sharing new research, models, and datasets from Meta FAIR](https://ai.meta.com/blog/meta-fair-research-new-releases/)
 * [2024-06-18, 17:00:50](https://news.ycombinator.com/item?id=40719910) - [Ubicloud (YC W24) Hiring Founding Engineer for \"Managed Kubernetes Service\"](https://www.ycombinator.com/companies/ubicloud/jobs/zyE7d9T-founding-engineer-for-managed-kubernetes-service)
+* [2024-06-18, 16:17:45](https://news.ycombinator.com/item?id=40719514) - [Waymo Driver 3.5x better at avoiding injuries over 14.8M miles in SF and Phoenix](https://twitter.com/Waymo/status/1803095329304088922)
+* [2024-06-18, 15:52:11](https://news.ycombinator.com/item?id=40719253) - [Ask HN: What are some iconic comments on HN?](https://news.ycombinator.com/item?id=40719253)
 * [2024-06-18, 14:58:34](https://news.ycombinator.com/item?id=40718566) - [What Is ChatGPT Doing and Why Does It Work? (2023)](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 * [2024-06-18, 14:15:16](https://news.ycombinator.com/item?id=40718124) - [Framework: A new RISC-V Mainboard from DeepComputing](https://frame.work/blog/introducing-a-new-risc-v-mainboard-from-deepcomputing)
 * [2024-06-18, 13:37:04](https://news.ycombinator.com/item?id=40717721) - [A New Look: Solar Plant Prospection with Automated Viewshed Analysis](https://www.go-inicio.com/blog/a-new-look-revolutionizing-solar-plant-prospection-with-automated-viewshed-analysis)
@@ -27,7 +28,6 @@
 * [2024-06-17, 09:42:40](https://news.ycombinator.com/item?id=40703892) - [Lnav Logfile Navigator](https://lnav.org/)
 * [2024-06-17, 08:04:36](https://news.ycombinator.com/item?id=40703335) - [A long guide to giving a short academic talk (2022)](https://benjaminnoble.org/blog/short-talk)
 * [2024-06-17, 06:06:29](https://news.ycombinator.com/item?id=40702748) - [Software Friction](https://www.hillelwayne.com/post/software-friction/)
-* [2024-06-15, 20:03:27](https://news.ycombinator.com/item?id=40692333) - [London Underground hosts tests for 'quantum compass' that could replace GPS](https://www.theguardian.com/science/article/2024/jun/15/london-underground-quantum-compass-gps-subatomic-instrument-locations)
 * [2024-06-14, 13:03:48](https://news.ycombinator.com/item?id=40680524) - [Show HN: Quickly scan HN for new articles](https://github.com/bachmitre/hacker-news-highlighter)
 * [2024-06-13, 23:04:16](https://news.ycombinator.com/item?id=40675864) - [About the Solar Powered Website (2022)](https://solar.lowtechmagazine.com/about/the-solar-website/)
 

@@ -8,6 +8,7 @@
 * [2024-06-18, 17:03:47](https://news.ycombinator.com/item?id=40719940) - [The Deadly Mining Complex Powering the EV Revolution](https://www.bloomberg.com/features/2024-indonesia-sulawesi-nickel-fire/)
 * [2024-06-18, 17:01:45](https://news.ycombinator.com/item?id=40719921) - [Sharing new research, models, and datasets from Meta FAIR](https://ai.meta.com/blog/meta-fair-research-new-releases/)
 * [2024-06-18, 17:00:50](https://news.ycombinator.com/item?id=40719910) - [Ubicloud (YC W24) Hiring Founding Engineer for \"Managed Kubernetes Service\"](https://www.ycombinator.com/companies/ubicloud/jobs/zyE7d9T-founding-engineer-for-managed-kubernetes-service)
+* [2024-06-18, 16:17:45](https://news.ycombinator.com/item?id=40719514) - [Waymo Driver 3.5x better at avoiding injuries over 14.8M miles in SF and Phoenix](https://twitter.com/Waymo/status/1803095329304088922)
 * [2024-06-18, 15:54:16](https://news.ycombinator.com/item?id=40719279) - [The Farmer Was Replaced (A Python-esque automated farming game)](https://store.steampowered.com/app/2060160/The_Farmer_Was_Replaced/)
 * [2024-06-18, 15:52:11](https://news.ycombinator.com/item?id=40719253) - [Ask HN: What are some iconic comments on HN?](https://news.ycombinator.com/item?id=40719253)
 * [2024-06-18, 15:33:34](https://news.ycombinator.com/item?id=40719018) - [Solid-state battery with 100x energy density could be used in Apple devices](https://9to5mac.com/2024/06/18/solid-state-battery-tdk/)
