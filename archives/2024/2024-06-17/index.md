@@ -93,6 +93,7 @@
 * [2024-06-17, 10:28:19](https://news.ycombinator.com/item?id=40704124) - [Architecture Styles Worksheet [pdf]](https://www.developertoarchitect.com/downloads/architecture-styles-worksheet.pdf)
 * [2024-06-17, 10:22:17](https://news.ycombinator.com/item?id=40704096) - [Pop Culture Has Become an Oligopoly (2022)](https://www.experimental-history.com/p/pop-culture-has-become-an-oligopoly)
 * [2024-06-17, 09:45:42](https://news.ycombinator.com/item?id=40703908) - [Cities: Skylines II Found a Solution for High Rents: Get Rid of Landlords](https://www.wired.com/story/cities-skylines-ii-found-a-solution-for-high-rents-removing-landlords/)
+* [2024-06-17, 09:42:40](https://news.ycombinator.com/item?id=40703892) - [Lnav Logfile Navigator](https://lnav.org/)
 * [2024-06-17, 09:40:54](https://news.ycombinator.com/item?id=40703882) - [Sonoluminescence](https://en.wikipedia.org/wiki/Sonoluminescence)
 * [2024-06-17, 09:16:48](https://news.ycombinator.com/item?id=40703758) - [Commercial perovskite solar modules at SNEC 2024 trade show](https://www.pv-magazine.com/2024/06/13/commercial-perovskite-solar-modules-at-snec-2024-trade-show/)
 * [2024-06-17, 09:15:23](https://news.ycombinator.com/item?id=40703751) - [A discussion of discussions on AI Bias](https://danluu.com/ai-bias/)
