@@ -33,6 +33,7 @@
 * [2024-06-13, 19:49:27](https://news.ycombinator.com/item?id=40673833) - [Pay $1 to Hear Wu-Tang Clan’s Secret Album (Eventually)](https://www.nytimes.com/2024/06/13/arts/music/wu-tang-clan-once-upon-a-time-in-shaolin.html)
 * [2024-06-13, 19:43:27](https://news.ycombinator.com/item?id=40673751) - [New algorithm discovers language just by watching videos](https://www.csail.mit.edu/news/new-algorithm-discovers-language-just-watching-videos)
 * [2024-06-13, 19:28:22](https://news.ycombinator.com/item?id=40673567) - [Saudi Arabia ends 50-year petrodollar pact with US](https://www.nasdaq.com/articles/us-saudi-petrodollar-pact-ends-after-50-years)
+* [2024-06-13, 19:12:08](https://news.ycombinator.com/item?id=40673402) - [Enhancing Code Completion for Rust in Cody](https://sourcegraph.com/blog/enhancing-code-completion-for-rust-in-cody)
 * [2024-06-13, 18:43:17](https://news.ycombinator.com/item?id=40673091) - [Mouth-based touchpad enables people living with paralysis to use computers](https://news.mit.edu/2024/mouth-based-touchpad-augmental-0605)
 * [2024-06-13, 18:40:19](https://news.ycombinator.com/item?id=40673064) - [Chinese Yuan becomes Russia's main foreign currency, replacing Dollar and Euro](https://unn.ua/en/news/the-chinese-yuan-officially-became-russias-main-foreign-currency-replacing-the-dollar-and-the-euro)
 * [2024-06-13, 18:37:59](https://news.ycombinator.com/item?id=40673039) - [Ask HN: Widespread Apathy?](https://news.ycombinator.com/item?id=40673039)

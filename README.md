@@ -1,8 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-18, 18:52:46](https://news.ycombinator.com/item?id=40720876) - [We Remember Noam Chomsky, the Intellectual and Moral Giant](https://jacobin.com/2024/06/noam-chomsky-obituary-media-theory-elites/)
 * [2024-06-18, 18:28:48](https://news.ycombinator.com/item?id=40720680) - [Translate Datadog Metrics into OTLP](https://grafana.com/blog/2024/06/18/translate-datadog-metrics-into-otlp-with-the-opentelemetry-collector-and-grafana-alloy/)
-* [2024-06-18, 18:28:23](https://news.ycombinator.com/item?id=40720677) - [Nvidia Passes Microsoft to Become Largest U.S. Company](https://www.wsj.com/livecoverage/stock-market-today-dow-sp500-nasdaq-live-06-18-2024/card/nvidia-moves-into-the-top-spot-for-market-cap-4i1SFFzMdA4HO4OwnWSk)
 * [2024-06-18, 18:23:10](https://news.ycombinator.com/item?id=40720629) - [Nature retracts 2002 paper that claimed stem cells could become any type of cell](https://retractionwatch.com/2024/06/18/nature-retracts-highly-cited-2002-paper-that-claimed-adult-stem-cells-could-become-any-type-of-cell/)
 * [2024-06-18, 17:31:49](https://news.ycombinator.com/item?id=40720183) - [Electricity prices in France turn negative as renewable energy floods the grid](https://fortune.com/2024/06/16/electricity-prices-france-negative-renewable-energy-supply-solar-power-wind-turbines/)
 * [2024-06-18, 17:08:36](https://news.ycombinator.com/item?id=40719975) - [3D Gaussian Splatting as Markov Chain Monte Carlo](https://ubc-vision.github.io/3dgs-mcmc/)
@@ -19,6 +17,7 @@
 * [2024-06-18, 08:08:02](https://news.ycombinator.com/item?id=40715250) - [Cyber Scarecrow](https://www.cyberscarecrow.com/)
 * [2024-06-18, 07:28:18](https://news.ycombinator.com/item?id=40715018) - [TikTag: Breaking ARM's memory tagging extension with speculative execution](https://arxiv.org/abs/2406.08719)
 * [2024-06-18, 07:15:37](https://news.ycombinator.com/item?id=40714950) - [Spur – RISC IV: The Lisp Multiprocessor Workstation](https://thechipletter.substack.com/p/spur-risc-iv-the-lisp-multiprocessor)
+* [2024-06-18, 06:10:40](https://news.ycombinator.com/item?id=40714544) - [What happens to latency if service time is cut in half (2022)](https://pveentjer.github.io/misc/2022/04/18/service-time-cut-in-half.html)
 * [2024-06-18, 05:37:59](https://news.ycombinator.com/item?id=40714371) - [The Public Interest Internet](https://berjon.com/public-interest-internet/)
 * [2024-06-17, 19:59:25](https://news.ycombinator.com/item?id=40710346) - [Oulipo's use of the Tohoku paper (2014)](http://www.neverendingbooks.org/oulipos-use-of-the-tohoku-paper/)
 * [2024-06-17, 09:42:40](https://news.ycombinator.com/item?id=40703892) - [Lnav Logfile Navigator](https://lnav.org/)
@@ -30,6 +29,7 @@
 * [2024-06-14, 13:03:48](https://news.ycombinator.com/item?id=40680524) - [Show HN: Quickly scan HN for new articles](https://github.com/bachmitre/hacker-news-highlighter)
 * [2024-06-14, 00:26:02](https://news.ycombinator.com/item?id=40676355) - [A common misunderstanding about wave-particle duality](https://www.chemistryworld.com/opinion/a-common-misunderstanding-about-wave-particle-duality/4019585.article)
 * [2024-06-13, 23:04:16](https://news.ycombinator.com/item?id=40675864) - [About the solar powered website (2022)](https://solar.lowtechmagazine.com/about/the-solar-website/)
+* [2024-06-13, 19:12:08](https://news.ycombinator.com/item?id=40673402) - [Enhancing Code Completion for Rust in Cody](https://sourcegraph.com/blog/enhancing-code-completion-for-rust-in-cody)
 
 ## [Archives](archives/index.md)
 
