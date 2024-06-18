@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-18, 02:38:47](https://news.ycombinator.com/item?id=40713561) - [Maryland pardons 175,000 people of cannabis convictions](https://www.bbc.com/news/articles/cx99kpgkg4wo)
 * [2024-06-18, 00:37:12](https://news.ycombinator.com/item?id=40712847) - [Hitachi to Release PCs with Preinstalled BeOS for the Consumer Market (1998)](https://www.hitachi.com/New/cnews/E/1998/981111B.html)
 * [2024-06-18, 00:15:03](https://news.ycombinator.com/item?id=40712720) - [The upcoming iterator design for Go 1.23](https://www.gingerbill.org/article/2024/06/17/go-iterator-design/)
 * [2024-06-17, 22:44:44](https://news.ycombinator.com/item?id=40712020) - [Intel-undervolt: CPU undervolting and throttling configuration tool for Linux](https://github.com/kitsunyan/intel-undervolt)
@@ -24,7 +25,6 @@
 * [2024-06-17, 13:40:15](https://news.ycombinator.com/item?id=40705522) - [FPGA-Based Disk Controller for the Apple II](https://www.bigmessowires.com/2017/12/07/fpga-based-disk-controller-for-apple-ii/)
 * [2024-06-17, 13:04:29](https://news.ycombinator.com/item?id=40705222) - [Trading cards with e-ink displays (2023)](https://howtoware.co/wyldcard)
 * [2024-06-17, 11:42:08](https://news.ycombinator.com/item?id=40704594) - [Optical PCIe 7.0 connection hits 128 GT/s](https://www.tomshardware.com/tech-industry/optical-pcie-70-connection-hits-a-blazing-128-gts)
-* [2024-06-17, 09:40:54](https://news.ycombinator.com/item?id=40703882) - [Sonoluminescence](https://en.wikipedia.org/wiki/Sonoluminescence)
 * [2024-06-17, 08:04:36](https://news.ycombinator.com/item?id=40703335) - [A long guide to giving a short academic talk (2022)](https://benjaminnoble.org/blog/short-talk)
 * [2024-06-16, 16:56:05](https://news.ycombinator.com/item?id=40698451) - [A Step Forward in Stingray Science](https://hakaimagazine.com/features/a-step-forward-in-stingray-science/)
 * [2024-06-16, 16:50:48](https://news.ycombinator.com/item?id=40698415) - [The unending allure of high mountains](https://www.noemamag.com/the-unending-allure-of-high-mountains/)
