@@ -104,6 +104,7 @@
 * [2024-06-17, 08:04:36](https://news.ycombinator.com/item?id=40703335) - [A Long Guide to Giving a Short Academic Talk](https://benjaminnoble.org/blog/short-talk)
 * [2024-06-17, 08:02:15](https://news.ycombinator.com/item?id=40703316) - [New material for solid-state batteries with 100-times higher energy density](https://www.tdk.com/en/news_center/press/20240617_01.html)
 * [2024-06-17, 07:40:18](https://news.ycombinator.com/item?id=40703176) - [Developer Takes 'Retro' Concept to New Level by Creating Physical Winamp Player](https://www.xatakaon.com/makers/a-developer-has-just-taken-the-concept-of-retro-to-a-new-level-by-creating-a-physical-winamp-player)
+* [2024-06-17, 07:39:04](https://news.ycombinator.com/item?id=40703161) - [Show HN: After 2 months my project management software is finally finished](https://www.flourishfreelance.com/)
 * [2024-06-17, 07:28:03](https://news.ycombinator.com/item?id=40703088) - [How Innovative Is China in Nuclear Power?](https://itif.org/publications/2024/06/17/how-innovative-is-china-in-nuclear-power/)
 * [2024-06-17, 07:09:54](https://news.ycombinator.com/item?id=40703003) - [How to Use Secure Sockets in C on Linux](https://netprivacypro.com/how-to-use-secure-sockets-in-c-on-linux/)
 * [2024-06-17, 07:05:42](https://news.ycombinator.com/item?id=40702985) - [The time keepers: pg_cron and pg_timetable](https://notso.boringsql.com/posts/time-keepers-pg-cron-pg-timetable/)

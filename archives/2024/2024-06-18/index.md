@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-18](index.md)
 
+* [2024-06-18, 13:02:46](https://news.ycombinator.com/item?id=40717342) - [The Surgeon General Calls for a Warning Label on Social Media](https://www.afterbabel.com/p/surgeon-general-warning)
+* [2024-06-18, 12:50:49](https://news.ycombinator.com/item?id=40717221) - [Social-Media Influencers Aren't Getting Rich–They're Barely Getting By](https://www.wsj.com/tech/social-media-influencers-arent-getting-richtheyre-barely-getting-by-71e0aad3)
 * [2024-06-18, 12:06:49](https://news.ycombinator.com/item?id=40716804) - [\"I've Got Nothing to Hide\" and Other Misunderstandings of Privacy (2008) [pdf]](https://www.cs.ru.nl/~jhh/pub/secsem/solove-nothing-to-hide.pdf)
 * [2024-06-18, 11:44:17](https://news.ycombinator.com/item?id=40716606) - [A Hollywood star lobbies the EU for more surveillance](https://netzpolitik.org/2022/dude-wheres-my-privacy-how-a-hollywood-star-lobbies-the-eu-for-more-surveillance/)
 * [2024-06-18, 11:06:22](https://news.ycombinator.com/item?id=40716301) - [Social Media Messed Up Our Kids. Now It Is Making Us Ungovernable](https://www.noemamag.com/social-media-messed-up-our-kids-now-it-is-making-us-ungovernable/)
