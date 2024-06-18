@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-18, 06:54:58](https://news.ycombinator.com/item?id=40714815) - [Creating a Doom-style 3D engine in C [video]](https://www.youtube.com/watch?v=HQYsFshbkYw)
+* [2024-06-18, 06:10:40](https://news.ycombinator.com/item?id=40714544) - [What happens to latency if service time is cut in half](https://pveentjer.github.io/misc/2022/04/18/service-time-cut-in-half.html)
 * [2024-06-18, 04:01:43](https://news.ycombinator.com/item?id=40713952) - [Every Way to Get Structured Output from LLMs](https://www.boundaryml.com/blog/structured-output-from-llms)
-* [2024-06-18, 02:04:52](https://news.ycombinator.com/item?id=40713389) - [Will We Run Out of Data? Limits of LLM Scaling Based on Human-Generated Data](https://epochai.org/blog/will-we-run-out-of-data-limits-of-llm-scaling-based-on-human-generated-data)
 * [2024-06-18, 00:41:08](https://news.ycombinator.com/item?id=40712872) - [Now that UUIDv7 is lexicographic, does that mean there is no use for ULID?](https://www.npmjs.com/package/uuidv7)
-* [2024-06-18, 00:15:03](https://news.ycombinator.com/item?id=40712720) - [The upcoming iterator design for Go 1.23](https://www.gingerbill.org/article/2024/06/17/go-iterator-design/)
 * [2024-06-17, 22:44:44](https://news.ycombinator.com/item?id=40712020) - [Intel-undervolt: CPU undervolting and throttling configuration tool for Linux](https://github.com/kitsunyan/intel-undervolt)
 * [2024-06-17, 22:24:47](https://news.ycombinator.com/item?id=40711835) - [Intel details Skymont](https://chipsandcheese.com/2024/06/15/intel-details-skymont/)
 * [2024-06-17, 22:19:38](https://news.ycombinator.com/item?id=40711780) - [Tsutomu Yamaguchi – A man who survived both atomic bombings (2023)](https://www.biography.com/history-culture/a44577392/tsutomu-yamaguchi-hiroshima-and-nagasaki-bombing-survivor)

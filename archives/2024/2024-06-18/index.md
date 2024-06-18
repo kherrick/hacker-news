@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-18](index.md)
 
+* [2024-06-18, 06:54:58](https://news.ycombinator.com/item?id=40714815) - [Creating a Doom-style 3D engine in C [video]](https://www.youtube.com/watch?v=HQYsFshbkYw)
+* [2024-06-18, 06:10:40](https://news.ycombinator.com/item?id=40714544) - [What happens to latency if service time is cut in half](https://pveentjer.github.io/misc/2022/04/18/service-time-cut-in-half.html)
 * [2024-06-18, 05:13:49](https://news.ycombinator.com/item?id=40714264) - [Teachers: Inclusion is the worst thing to have happened to education](https://old.reddit.com/r/Teachers/comments/1dhx1vm/inclusion_is_the_worst_thing_to_have_happened_to/)
 * [2024-06-18, 04:01:43](https://news.ycombinator.com/item?id=40713952) - [Every Way to Get Structured Output from LLMs](https://www.boundaryml.com/blog/structured-output-from-llms)
 * [2024-06-18, 02:38:47](https://news.ycombinator.com/item?id=40713561) - [Maryland pardons 175,000 people of cannabis convictions](https://www.bbc.com/news/articles/cx99kpgkg4wo)
