@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-18, 22:03:00](https://news.ycombinator.com/item?id=40722573) - [US Navy successfully connects aircraft carrier to the cloud](https://www.datacenterdynamics.com/en/news/navy-successfully-connects-aircraft-carrier-to-the-cloud/)
+* [2024-06-18, 22:36:11](https://news.ycombinator.com/item?id=40722816) - [U.S..D.A. Suspends Avocado Inspections in Mexico, Citing Security Concerns](https://www.nytimes.com/2024/06/17/world/americas/mexico-avocado-inspections-suspended.html)
 * [2024-06-18, 21:38:38](https://news.ycombinator.com/item?id=40722394) - [AI bot running for mayor in Wyoming (sort of)](https://www.wired.com/story/ai-bot-running-for-mayor-wyoming/)
 * [2024-06-18, 21:00:51](https://news.ycombinator.com/item?id=40722164) - [Hadrius (YC W23) is hiring engineers looking to grow into future founders](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
 * [2024-06-18, 20:59:37](https://news.ycombinator.com/item?id=40722155) - [Amazon fined $5.9M for breaking labor law in California](https://www.washingtonpost.com/technology/2024/06/18/amazon-fine-labor-law-california/)
-* [2024-06-18, 19:59:31](https://news.ycombinator.com/item?id=40721623) - [Versioning FreeCAD Files with Git](https://blog.lambda.cx/posts/freecad-and-git/)
+* [2024-06-18, 19:59:31](https://news.ycombinator.com/item?id=40721623) - [Versioning FreeCAD Files with Git (2021)](https://blog.lambda.cx/posts/freecad-and-git/)
 * [2024-06-18, 18:23:10](https://news.ycombinator.com/item?id=40720629) - [Nature retracts paper that claimed adult stem cell could become any type of cell](https://retractionwatch.com/2024/06/18/nature-retracts-highly-cited-2002-paper-that-claimed-adult-stem-cells-could-become-any-type-of-cell/)
 * [2024-06-18, 17:09:26](https://news.ycombinator.com/item?id=40719981) - [Refusal in Language Models Is Mediated by a Single Direction](https://arxiv.org/abs/2406.11717)
 * [2024-06-18, 17:08:36](https://news.ycombinator.com/item?id=40719975) - [3D Gaussian Splatting as Markov Chain Monte Carlo](https://ubc-vision.github.io/3dgs-mcmc/)
