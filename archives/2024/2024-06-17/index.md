@@ -99,6 +99,7 @@
 * [2024-06-17, 09:16:48](https://news.ycombinator.com/item?id=40703758) - [Commercial perovskite solar modules at SNEC 2024 trade show](https://www.pv-magazine.com/2024/06/13/commercial-perovskite-solar-modules-at-snec-2024-trade-show/)
 * [2024-06-17, 09:15:23](https://news.ycombinator.com/item?id=40703751) - [A discussion of discussions on AI Bias](https://danluu.com/ai-bias/)
 * [2024-06-17, 08:42:03](https://news.ycombinator.com/item?id=40703554) - [Nsss: A secure NSS-like implementation for static linking](https://skarnet.org/software/nsss/)
+* [2024-06-17, 08:10:56](https://news.ycombinator.com/item?id=40703374) - [Confusion Is a Muse](https://notes.eatonphil.com/2024-06-14-confusion-is-a-muse.html)
 * [2024-06-17, 08:04:36](https://news.ycombinator.com/item?id=40703335) - [A Long Guide to Giving a Short Academic Talk](https://benjaminnoble.org/blog/short-talk)
 * [2024-06-17, 08:02:15](https://news.ycombinator.com/item?id=40703316) - [New material for solid-state batteries with 100-times higher energy density](https://www.tdk.com/en/news_center/press/20240617_01.html)
 * [2024-06-17, 07:40:18](https://news.ycombinator.com/item?id=40703176) - [Developer Takes 'Retro' Concept to New Level by Creating Physical Winamp Player](https://www.xatakaon.com/makers/a-developer-has-just-taken-the-concept-of-retro-to-a-new-level-by-creating-a-physical-winamp-player)
