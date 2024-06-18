@@ -98,5 +98,6 @@
 * [2024-06-14, 01:42:52](https://news.ycombinator.com/item?id=40676754) - [Firefox development is moving from Mercurial to Git (2023)](https://bugzilla.mozilla.org/show_bug.cgi?id=1863519)
 * [2024-06-14, 01:17:01](https://news.ycombinator.com/item?id=40676634) - [Clearview AI Used Your Face. Now You May Get a Stake in the Company](https://www.nytimes.com/2024/06/13/technology/clearview-ai-facial-recognition-settlement.html)
 * [2024-06-14, 00:36:21](https://news.ycombinator.com/item?id=40676408) - [Land value tax in online games and virtual worlds: A how-to guide](https://progressandpoverty.substack.com/p/land-value-tax-in-online-games-and)
+* [2024-06-14, 00:26:02](https://news.ycombinator.com/item?id=40676355) - [A common misunderstanding about wave-particle duality](https://www.chemistryworld.com/opinion/a-common-misunderstanding-about-wave-particle-duality/4019585.article)
 * [2024-06-14, 00:22:51](https://news.ycombinator.com/item?id=40676335) - [Freenet 2024 – a drop-in decentralized replacement for the web [video]](https://www.youtube.com/watch?v=enTAromEeHo)
 * [2024-06-14, 00:04:51](https://news.ycombinator.com/item?id=40676239) - [Fungus breaks down ocean plastic](https://www.nioz.nl/en/news/fungus-breaks-down-ocean-plastic)
