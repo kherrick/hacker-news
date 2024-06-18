@@ -57,6 +57,7 @@
 * [2024-06-16, 12:26:33](https://news.ycombinator.com/item?id=40696539) - [Flesh-Eating Bacteria That Can Kill in Two Days Spreads in Japan](https://www.bloomberg.com/news/articles/2024-06-15/flesh-eating-bacteria-that-can-kill-in-two-days-spreads-in-japan)
 * [2024-06-16, 12:03:08](https://news.ycombinator.com/item?id=40696431) - [Searching for a female partner for the \"loneliest\" plant](https://arstechnica.com/science/2024/06/searching-for-a-female-partner-for-the-worlds-loneliest-plant/)
 * [2024-06-16, 11:53:34](https://news.ycombinator.com/item?id=40696384) - [Insider view on how AMD lost the GPU oppty](https://twitter.com/MohapatraHemant/status/1285234687267356672)
+* [2024-06-16, 11:16:34](https://news.ycombinator.com/item?id=40696211) - [Homunculus](https://homunculus.jp/)
 * [2024-06-16, 11:04:56](https://news.ycombinator.com/item?id=40696158) - ['Nemotron-4 340B' model redefines synthetic data generation, rivals GPT-4](https://venturebeat.com/ai/nvidias-nemotron-4-340b-model-redefines-synthetic-data-generation-rivals-gpt-4/)
 * [2024-06-16, 10:52:13](https://news.ycombinator.com/item?id=40696110) - [Ask HN: Best way to remove CO2 in a bedroom?](https://news.ycombinator.com/item?id=40696110)
 * [2024-06-16, 10:45:46](https://news.ycombinator.com/item?id=40696077) - [Post Office scandal victims in Scotland have convictions quashed](https://www.computerweekly.com/news/366588932/Post-Office-scandal-victims-in-Scotland-have-convictions-quashed)

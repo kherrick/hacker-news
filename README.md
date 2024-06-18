@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-18, 00:37:12](https://news.ycombinator.com/item?id=40712847) - [Hitachi to Release PCs with Preinstalled BeOS for the Consumer Market (1998)](https://www.hitachi.com/New/cnews/E/1998/981111B.html)
-* [2024-06-18, 00:15:03](https://news.ycombinator.com/item?id=40712720) - [Why people are angry over Go 1.23 Iterators](https://www.gingerbill.org/article/2024/06/17/go-iterator-design/)
-* [2024-06-17, 23:45:33](https://news.ycombinator.com/item?id=40712550) - [The March of Dimes Syndrome](https://www.city-journal.org/article/the-march-of-dimes-syndrome)
+* [2024-06-18, 00:15:03](https://news.ycombinator.com/item?id=40712720) - [The upcoming iterator design for Go 1.23](https://www.gingerbill.org/article/2024/06/17/go-iterator-design/)
 * [2024-06-17, 22:44:44](https://news.ycombinator.com/item?id=40712020) - [Intel-undervolt: CPU undervolting and throttling configuration tool for Linux](https://github.com/kitsunyan/intel-undervolt)
 * [2024-06-17, 22:24:47](https://news.ycombinator.com/item?id=40711835) - [Intel details Skymont](https://chipsandcheese.com/2024/06/15/intel-details-skymont/)
 * [2024-06-17, 22:19:38](https://news.ycombinator.com/item?id=40711780) - [Tsutomu Yamaguchi – A man who survived both atomic bombings (2023)](https://www.biography.com/history-culture/a44577392/tsutomu-yamaguchi-hiroshima-and-nagasaki-bombing-survivor)
@@ -29,6 +28,7 @@
 * [2024-06-17, 08:04:36](https://news.ycombinator.com/item?id=40703335) - [A long guide to giving a short academic talk (2022)](https://benjaminnoble.org/blog/short-talk)
 * [2024-06-16, 16:56:05](https://news.ycombinator.com/item?id=40698451) - [A Step Forward in Stingray Science](https://hakaimagazine.com/features/a-step-forward-in-stingray-science/)
 * [2024-06-16, 16:50:48](https://news.ycombinator.com/item?id=40698415) - [The unending allure of high mountains](https://www.noemamag.com/the-unending-allure-of-high-mountains/)
+* [2024-06-16, 11:16:34](https://news.ycombinator.com/item?id=40696211) - [Homunculus](https://homunculus.jp/)
 * [2024-06-15, 20:03:27](https://news.ycombinator.com/item?id=40692333) - [London Underground hosts tests for 'quantum compass' that could replace GPS](https://www.theguardian.com/science/article/2024/jun/15/london-underground-quantum-compass-gps-subatomic-instrument-locations)
 
 ## [Archives](archives/index.md)
