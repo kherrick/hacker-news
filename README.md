@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-18, 08:08:02](https://news.ycombinator.com/item?id=40715250) - [Cyber Scarecrow, making your computer look 'scary' to malware](https://www.cyberscarecrow.com/)
-* [2024-06-18, 06:54:58](https://news.ycombinator.com/item?id=40714815) - [Creating a Doom-style 3D engine in C [video]](https://www.youtube.com/watch?v=HQYsFshbkYw)
 * [2024-06-18, 06:10:40](https://news.ycombinator.com/item?id=40714544) - [What happens to latency if service time is cut in half](https://pveentjer.github.io/misc/2022/04/18/service-time-cut-in-half.html)
 * [2024-06-18, 05:37:59](https://news.ycombinator.com/item?id=40714371) - [The Public Interest Internet, by Robin Berjon](https://berjon.com/public-interest-internet/)
 * [2024-06-18, 04:01:43](https://news.ycombinator.com/item?id=40713952) - [Every Way to Get Structured Output from LLMs](https://www.boundaryml.com/blog/structured-output-from-llms)
@@ -28,6 +27,7 @@
 * [2024-06-17, 08:04:36](https://news.ycombinator.com/item?id=40703335) - [A long guide to giving a short academic talk (2022)](https://benjaminnoble.org/blog/short-talk)
 * [2024-06-17, 06:10:58](https://news.ycombinator.com/item?id=40702767) - [52-Hertz Whale](https://en.wikipedia.org/wiki/52-hertz_whale)
 * [2024-06-16, 16:50:48](https://news.ycombinator.com/item?id=40698415) - [The unending allure of high mountains](https://www.noemamag.com/the-unending-allure-of-high-mountains/)
+* [2024-06-16, 02:36:03](https://news.ycombinator.com/item?id=40694284) - [Are animals conscious? New research](https://www.bbc.com/news/articles/cv223z15mpmo)
 * [2024-06-15, 20:03:27](https://news.ycombinator.com/item?id=40692333) - [London Underground hosts tests for 'quantum compass' that could replace GPS](https://www.theguardian.com/science/article/2024/jun/15/london-underground-quantum-compass-gps-subatomic-instrument-locations)
 * [2024-06-15, 07:19:59](https://news.ycombinator.com/item?id=40688055) - [An Introduction to CSS-Doodle](https://yuanchuan.github.io/intro-to-css-doodle/)
 
