@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-18](index.md)
 
+* [2024-06-18, 19:30:47](https://news.ycombinator.com/item?id=40721271) - [Noam Chomsky has passed away](https://twitter.com/PeoplesMomentum/status/1803142677174911102)
+* [2024-06-18, 19:23:40](https://news.ycombinator.com/item?id=40721208) - [Linguist and philosopher Noam Chomsky dies at age 95](https://www-diariodocentrodomundo-com-br.translate.goog/morre-o-professor-e-ativista-noam-chomsky-aos-95-anos/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp)
 * [2024-06-18, 18:52:46](https://news.ycombinator.com/item?id=40720876) - [We Remember Noam Chomsky, the Intellectual and Moral Giant](https://jacobin.com/2024/06/noam-chomsky-obituary-media-theory-elites/)
 * [2024-06-18, 18:37:09](https://news.ycombinator.com/item?id=40720744) - [Massachusetts officials dealing with statewide 911 system outage](https://whdh.com/news/massachusetts-officials-dealing-with-statewide-911-system-outage/)
 * [2024-06-18, 18:28:48](https://news.ycombinator.com/item?id=40720680) - [Translate Datadog Metrics into OTLP](https://grafana.com/blog/2024/06/18/translate-datadog-metrics-into-otlp-with-the-opentelemetry-collector-and-grafana-alloy/)
