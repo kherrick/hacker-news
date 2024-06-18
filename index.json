@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-06-18, 18:28:48",
+      "https://news.ycombinator.com/item?id=40720680"
+    ],
+    [
+      "Translate Datadog Metrics into OTLP",
+      "https://grafana.com/blog/2024/06/18/translate-datadog-metrics-into-otlp-with-the-opentelemetry-collector-and-grafana-alloy/"
+    ]
+  ],
+  [
+    [
       "2024-06-18, 18:28:04",
       "https://news.ycombinator.com/item?id=40720674"
     ],
     [
       "Booking.com ignores twofactor, lets everyone email-login without a password",
       "https://news.ycombinator.com/item?id=40720674"
+    ]
+  ],
+  [
+    [
+      "2024-06-18, 18:23:10",
+      "https://news.ycombinator.com/item?id=40720629"
+    ],
+    [
+      "Nature retracts 2002 paper that claimed stem cells could become any type of cell",
+      "https://retractionwatch.com/2024/06/18/nature-retracts-highly-cited-2002-paper-that-claimed-adult-stem-cells-could-become-any-type-of-cell/"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2024-06-18, 09:05:18",
-      "https://news.ycombinator.com/item?id=40715520"
-    ],
-    [
-      "Peak Population Projections",
-      "https://dothemath.ucsd.edu/2024/06/peak-population-projections/"
-    ]
-  ],
-  [
-    [
       "2024-06-18, 08:08:02",
       "https://news.ycombinator.com/item?id=40715250"
     ],
@@ -181,36 +191,6 @@
   ],
   [
     [
-      "2024-06-18, 06:10:40",
-      "https://news.ycombinator.com/item?id=40714544"
-    ],
-    [
-      "What happens to latency if service time is cut in half (2022)",
-      "https://pveentjer.github.io/misc/2022/04/18/service-time-cut-in-half.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-18, 05:37:59",
-      "https://news.ycombinator.com/item?id=40714371"
-    ],
-    [
-      "The Public Interest Internet",
-      "https://berjon.com/public-interest-internet/"
-    ]
-  ],
-  [
-    [
-      "2024-06-17, 22:44:44",
-      "https://news.ycombinator.com/item?id=40712020"
-    ],
-    [
-      "Intel-undervolt: CPU undervolting and throttling configuration tool for Linux",
-      "https://github.com/kitsunyan/intel-undervolt"
-    ]
-  ],
-  [
-    [
       "2024-06-17, 19:59:25",
       "https://news.ycombinator.com/item?id=40710346"
     ],
@@ -221,32 +201,12 @@
   ],
   [
     [
-      "2024-06-17, 19:44:53",
-      "https://news.ycombinator.com/item?id=40710154"
-    ],
-    [
-      "Show HN: Token price calculator for 400+ LLMs",
-      "https://github.com/AgentOps-AI/tokencost"
-    ]
-  ],
-  [
-    [
       "2024-06-17, 10:49:55",
       "https://news.ycombinator.com/item?id=40704267"
     ],
     [
       "Complexity fills the space it's given",
       "https://medium.com/@wilsontomass/complexity-fills-the-space-its-given-762fabc401c8"
-    ]
-  ],
-  [
-    [
-      "2024-06-17, 10:38:34",
-      "https://news.ycombinator.com/item?id=40704179"
-    ],
-    [
-      "NumPy-style broadcasting in Futhark",
-      "https://futhark-lang.org/blog/2024-06-17-automap.html"
     ]
   ],
   [
@@ -267,6 +227,46 @@
     [
       "Software Friction",
       "https://www.hillelwayne.com/post/software-friction/"
+    ]
+  ],
+  [
+    [
+      "2024-06-14, 19:02:09",
+      "https://news.ycombinator.com/item?id=40683862"
+    ],
+    [
+      "In Praise of 5-Over-1 Buildings",
+      "https://www.archdaily.com/978264/in-praise-of-5-over-1-buildings"
+    ]
+  ],
+  [
+    [
+      "2024-06-14, 18:33:40",
+      "https://news.ycombinator.com/item?id=40683564"
+    ],
+    [
+      "Show HN: SHAllenge – Compete to get the lowest hash",
+      "https://shallenge.quirino.net/"
+    ]
+  ],
+  [
+    [
+      "2024-06-14, 18:13:29",
+      "https://news.ycombinator.com/item?id=40683317"
+    ],
+    [
+      "Mimicking an Elephant Trunk",
+      "https://physics.aps.org/articles/v17/98"
+    ]
+  ],
+  [
+    [
+      "2024-06-14, 16:26:48",
+      "https://news.ycombinator.com/item?id=40682212"
+    ],
+    [
+      "Erica Synths DIY Prototyping Breadboard",
+      "https://cdm.link/2024/06/labor-diy/"
     ]
   ],
   [
