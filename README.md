@@ -19,6 +19,7 @@
 * [2024-06-17, 17:35:20](https://news.ycombinator.com/item?id=40708476) - [Understanding SPF, DKIM, and DMARC: A Simple Guide](https://github.com/nicanorflavier/spf-dkim-dmarc-simplified)
 * [2024-06-17, 16:29:53](https://news.ycombinator.com/item?id=40707558) - [FTC sues Adobe for hiding fees and inhibiting cancellations](https://www.ftc.gov/news-events/news/press-releases/2024/06/ftc-takes-action-against-adobe-executives-hiding-fees-preventing-consumers-easily-cancelling)
 * [2024-06-17, 14:14:04](https://news.ycombinator.com/item?id=40705841) - [React 19 almost made the internet slower](https://blog.codeminer42.com/how-react-19-almost-made-the-internet-slower/)
+* [2024-06-17, 13:46:04](https://news.ycombinator.com/item?id=40705574) - [Lindroid](https://twitter.com/Khode_Erfan/status/1802331845633212554)
 * [2024-06-17, 13:40:15](https://news.ycombinator.com/item?id=40705522) - [FPGA-Based Disk Controller for the Apple II](https://www.bigmessowires.com/2017/12/07/fpga-based-disk-controller-for-apple-ii/)
 * [2024-06-17, 13:04:29](https://news.ycombinator.com/item?id=40705222) - [Trading cards with e-ink displays (2023)](https://howtoware.co/wyldcard)
 * [2024-06-17, 11:42:08](https://news.ycombinator.com/item?id=40704594) - [Optical PCIe 7.0 connection hits 128 GT/s](https://www.tomshardware.com/tech-industry/optical-pcie-70-connection-hits-a-blazing-128-gts)
@@ -28,7 +29,6 @@
 * [2024-06-17, 08:42:03](https://news.ycombinator.com/item?id=40703554) - [Nsss: A secure NSS-like implementation for static linking](https://skarnet.org/software/nsss/)
 * [2024-06-17, 08:04:36](https://news.ycombinator.com/item?id=40703335) - [A long guide to giving a short academic talk (2022)](https://benjaminnoble.org/blog/short-talk)
 * [2024-06-16, 16:50:48](https://news.ycombinator.com/item?id=40698415) - [The unending allure of high mountains](https://www.noemamag.com/the-unending-allure-of-high-mountains/)
-* [2024-06-16, 11:16:34](https://news.ycombinator.com/item?id=40696211) - [Homunculus](https://homunculus.jp/)
 * [2024-06-15, 20:03:27](https://news.ycombinator.com/item?id=40692333) - [London Underground hosts tests for 'quantum compass' that could replace GPS](https://www.theguardian.com/science/article/2024/jun/15/london-underground-quantum-compass-gps-subatomic-instrument-locations)
 
 ## [Archives](archives/index.md)
