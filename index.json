@@ -1,32 +1,42 @@
 [
   [
     [
+      "2024-06-18, 17:08:36",
+      "https://news.ycombinator.com/item?id=40719975"
+    ],
+    [
+      "3D Gaussian Splatting as Markov Chain Monte Carlo",
+      "https://ubc-vision.github.io/3dgs-mcmc/"
+    ]
+  ],
+  [
+    [
+      "2024-06-18, 17:03:47",
+      "https://news.ycombinator.com/item?id=40719940"
+    ],
+    [
+      "The Deadly Mining Complex Powering the EV Revolution",
+      "https://www.bloomberg.com/features/2024-indonesia-sulawesi-nickel-fire/"
+    ]
+  ],
+  [
+    [
+      "2024-06-18, 17:01:45",
+      "https://news.ycombinator.com/item?id=40719921"
+    ],
+    [
+      "Sharing new research, models, and datasets from Meta FAIR",
+      "https://ai.meta.com/blog/meta-fair-research-new-releases/"
+    ]
+  ],
+  [
+    [
       "2024-06-18, 17:00:50",
       "https://news.ycombinator.com/item?id=40719910"
     ],
     [
       "Ubicloud (YC W24) Hiring Founding Engineer for \"Managed Kubernetes Service\"",
       "https://www.ycombinator.com/companies/ubicloud/jobs/zyE7d9T-founding-engineer-for-managed-kubernetes-service"
-    ]
-  ],
-  [
-    [
-      "2024-06-18, 15:54:16",
-      "https://news.ycombinator.com/item?id=40719279"
-    ],
-    [
-      "The Farmer Was Replaced (A Python-esque automated farming game)",
-      "https://store.steampowered.com/app/2060160/The_Farmer_Was_Replaced/"
-    ]
-  ],
-  [
-    [
-      "2024-06-18, 15:21:36",
-      "https://news.ycombinator.com/item?id=40718837"
-    ],
-    [
-      "Framework: A new RISC-V Mainboard from DeepComputing",
-      "https://frame.work/fr/en/blog/introducing-a-new-risc-v-mainboard-from-deepcomputing"
     ]
   ],
   [
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2024-06-18, 09:05:18",
-      "https://news.ycombinator.com/item?id=40715520"
-    ],
-    [
-      "Peak Population Projections",
-      "https://dothemath.ucsd.edu/2024/06/peak-population-projections/"
-    ]
-  ],
-  [
-    [
       "2024-06-18, 08:08:02",
       "https://news.ycombinator.com/item?id=40715250"
     ],
@@ -135,7 +135,7 @@
       "https://news.ycombinator.com/item?id=40714544"
     ],
     [
-      "What happens to latency if service time is cut in half",
+      "What happens to latency if service time is cut in half (2022)",
       "https://pveentjer.github.io/misc/2022/04/18/service-time-cut-in-half.html"
     ]
   ],
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2024-06-17, 11:42:08",
-      "https://news.ycombinator.com/item?id=40704594"
-    ],
-    [
-      "Optical PCIe 7.0 connection hits 128 GT/s",
-      "https://www.tomshardware.com/tech-industry/optical-pcie-70-connection-hits-a-blazing-128-gts"
-    ]
-  ],
-  [
-    [
       "2024-06-17, 10:38:34",
       "https://news.ycombinator.com/item?id=40704179"
     ],
@@ -291,11 +281,21 @@
   ],
   [
     [
+      "2024-06-14, 13:03:48",
+      "https://news.ycombinator.com/item?id=40680524"
+    ],
+    [
+      "Show HN: Quickly scan HN for new articles",
+      "https://github.com/bachmitre/hacker-news-highlighter"
+    ]
+  ],
+  [
+    [
       "2024-06-13, 23:04:16",
       "https://news.ycombinator.com/item?id=40675864"
     ],
     [
-      "About the Solar Powered Website",
+      "About the Solar Powered Website (2022)",
       "https://solar.lowtechmagazine.com/about/the-solar-website/"
     ]
   ]
