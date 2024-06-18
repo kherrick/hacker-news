@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-18](index.md)
 
+* [2024-06-18, 18:28:48](https://news.ycombinator.com/item?id=40720680) - [Translate Datadog Metrics into OTLP](https://grafana.com/blog/2024/06/18/translate-datadog-metrics-into-otlp-with-the-opentelemetry-collector-and-grafana-alloy/)
 * [2024-06-18, 18:28:04](https://news.ycombinator.com/item?id=40720674) - [Booking.com ignores twofactor, lets everyone email-login without a password](https://news.ycombinator.com/item?id=40720674)
+* [2024-06-18, 18:23:10](https://news.ycombinator.com/item?id=40720629) - [Nature retracts 2002 paper that claimed stem cells could become any type of cell](https://retractionwatch.com/2024/06/18/nature-retracts-highly-cited-2002-paper-that-claimed-adult-stem-cells-could-become-any-type-of-cell/)
 * [2024-06-18, 18:15:49](https://news.ycombinator.com/item?id=40720576) - [BNSF ordered to pay $395M after years of trespassing on Swinomish land](https://www.kuow.org/stories/bnsf-ordered-to-pay-395-million-after-years-of-trespassing-on-swinomish-land)
 * [2024-06-18, 17:31:49](https://news.ycombinator.com/item?id=40720183) - [Electricity prices in France turn negative as renewable energy floods the grid](https://fortune.com/2024/06/16/electricity-prices-france-negative-renewable-energy-supply-solar-power-wind-turbines/)
 * [2024-06-18, 17:08:36](https://news.ycombinator.com/item?id=40719975) - [3D Gaussian Splatting as Markov Chain Monte Carlo](https://ubc-vision.github.io/3dgs-mcmc/)
