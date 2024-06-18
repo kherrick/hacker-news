@@ -68,6 +68,7 @@
 * [2024-06-14, 13:01:26](https://news.ycombinator.com/item?id=40680509) - [Kaprekar's Magic 6174](https://www.oranlooney.com/post/kaprekar/)
 * [2024-06-14, 12:59:39](https://news.ycombinator.com/item?id=40680494) - [Making a Bignum Library for Fun](https://austinhenley.com/blog/bignum1.html)
 * [2024-06-14, 12:53:07](https://news.ycombinator.com/item?id=40680446) - [Observable Framework 1.9](https://github.com/observablehq/framework/releases/tag/v1.9.0)
+* [2024-06-14, 12:49:28](https://news.ycombinator.com/item?id=40680414) - [Does anybody know this fractal? (2012)](https://www.gibney.org/does_anybody_know_this_fractal)
 * [2024-06-14, 12:46:57](https://news.ycombinator.com/item?id=40680380) - [Europe's biggest problem: It is falling way behind America's powerhouse economy](https://www.washingtonpost.com/opinions/2024/06/14/europe-competition-economy-reform-populism/)
 * [2024-06-14, 12:36:32](https://news.ycombinator.com/item?id=40680291) - [The Problem with OpenTelemetry](https://cra.mr/the-problem-with-otel/)
 * [2024-06-14, 12:29:52](https://news.ycombinator.com/item?id=40680260) - [Developing an LLM: Building, Training, Finetuning (A 1h Video Explainer)](https://www.youtube.com/watch?v=kPGTx4wcm_w)
