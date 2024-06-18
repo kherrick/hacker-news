@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-18](index.md)
 
+* [2024-06-18, 17:00:50](https://news.ycombinator.com/item?id=40719910) - [Ubicloud (YC W24) Hiring Founding Engineer for \"Managed Kubernetes Service\"](https://www.ycombinator.com/companies/ubicloud/jobs/zyE7d9T-founding-engineer-for-managed-kubernetes-service)
 * [2024-06-18, 15:54:16](https://news.ycombinator.com/item?id=40719279) - [The Farmer Was Replaced (A Python-esque automated farming game)](https://store.steampowered.com/app/2060160/The_Farmer_Was_Replaced/)
 * [2024-06-18, 15:52:11](https://news.ycombinator.com/item?id=40719253) - [Ask HN: What are some iconic comments on HN?](https://news.ycombinator.com/item?id=40719253)
 * [2024-06-18, 15:33:34](https://news.ycombinator.com/item?id=40719018) - [Solid-state battery with 100x energy density could be used in Apple devices](https://9to5mac.com/2024/06/18/solid-state-battery-tdk/)
