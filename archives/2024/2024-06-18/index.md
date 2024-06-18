@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-18](index.md)
 
+* [2024-06-18, 14:15:16](https://news.ycombinator.com/item?id=40718124) - [Framework: A new RISC-V Mainboard from DeepComputing](https://frame.work/blog/introducing-a-new-risc-v-mainboard-from-deepcomputing)
 * [2024-06-18, 13:42:55](https://news.ycombinator.com/item?id=40717775) - [Longer and Longer Freight Trains Drive Up the Odds of Derailment](https://www.scientificamerican.com/article/longer-freight-trains-are-more-likely-to-derail/)
 * [2024-06-18, 13:19:34](https://news.ycombinator.com/item?id=40717519) - [Visualizing Data on a Mesh with Displacement Mapping in R](https://www.tylermw.com/posts/rayverse/displacement-mapping.html)
 * [2024-06-18, 13:19:29](https://news.ycombinator.com/item?id=40717516) - [Hard to change people's opinions, but easier to nudge them, research suggests](https://www.nature.com/articles/d41586-024-01696-z)
@@ -11,6 +12,7 @@
 * [2024-06-18, 12:56:45](https://news.ycombinator.com/item?id=40717285) - [AI can't fix what automation already broke](https://www.bloodinthemachine.com/p/ai-cant-fix-everything-automation)
 * [2024-06-18, 12:50:49](https://news.ycombinator.com/item?id=40717221) - [Social-Media Influencers Aren't Getting Rich–They're Barely Getting By](https://www.wsj.com/tech/social-media-influencers-arent-getting-richtheyre-barely-getting-by-71e0aad3)
 * [2024-06-18, 12:06:49](https://news.ycombinator.com/item?id=40716804) - [\"I've Got Nothing to Hide\" and Other Misunderstandings of Privacy (2008) [pdf]](https://www.cs.ru.nl/~jhh/pub/secsem/solove-nothing-to-hide.pdf)
+* [2024-06-18, 11:54:33](https://news.ycombinator.com/item?id=40716701) - [YaFSDP from Yandex, 20% faster for pre-training LLMs](https://github.com/yandex/YaFSDP)
 * [2024-06-18, 11:44:17](https://news.ycombinator.com/item?id=40716606) - [A Hollywood star lobbies the EU for more surveillance](https://netzpolitik.org/2022/dude-wheres-my-privacy-how-a-hollywood-star-lobbies-the-eu-for-more-surveillance/)
 * [2024-06-18, 11:06:22](https://news.ycombinator.com/item?id=40716301) - [Social Media Messed Up Our Kids. Now It Is Making Us Ungovernable](https://www.noemamag.com/social-media-messed-up-our-kids-now-it-is-making-us-ungovernable/)
 * [2024-06-18, 10:58:24](https://news.ycombinator.com/item?id=40716235) - [Understanding the Misunderstood Kessler Syndrome](https://aerospaceamerica.aiaa.org/features/understanding-the-misunderstood-kessler-syndrome/)
