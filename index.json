@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-18, 18:15:49",
+      "https://news.ycombinator.com/item?id=40720576"
+    ],
+    [
+      "BNSF ordered to pay $395M after years of trespassing on Swinomish land",
+      "https://www.kuow.org/stories/bnsf-ordered-to-pay-395-million-after-years-of-trespassing-on-swinomish-land"
+    ]
+  ],
+  [
+    [
       "2024-06-18, 17:08:36",
       "https://news.ycombinator.com/item?id=40719975"
     ],
@@ -31,6 +41,16 @@
   ],
   [
     [
+      "2024-06-18, 16:45:45",
+      "https://news.ycombinator.com/item?id=40719782"
+    ],
+    [
+      "Show HN: Billard – Generate music from ball collisions in 2D space",
+      "https://billard.medusis.com/"
+    ]
+  ],
+  [
+    [
       "2024-06-18, 14:58:34",
       "https://news.ycombinator.com/item?id=40718566"
     ],
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=40718124"
     ],
     [
-      "Framework: A new RISC-V Mainboard from DeepComputing",
+      "A new RISC-V Mainboard from DeepComputing",
       "https://frame.work/blog/introducing-a-new-risc-v-mainboard-from-deepcomputing"
     ]
   ],
@@ -65,7 +85,7 @@
       "https://news.ycombinator.com/item?id=40717519"
     ],
     [
-      "Visualizing Data on a Mesh with Displacement Mapping in R",
+      "Sculpting the moon in R: Subdivision surfaces and displacement mapping",
       "https://www.tylermw.com/posts/rayverse/displacement-mapping.html"
     ]
   ],
@@ -95,7 +115,7 @@
       "https://news.ycombinator.com/item?id=40715250"
     ],
     [
-      "Cyber Scarecrow, making your computer look 'scary' to malware",
+      "Cyber Scarecrow",
       "https://www.cyberscarecrow.com/"
     ]
   ],
@@ -105,7 +125,7 @@
       "https://news.ycombinator.com/item?id=40715018"
     ],
     [
-      "TikTag: bypassing ARM CPU MemTag via speculative execution attack",
+      "Tiktag: Breaking ARM's memory tagging extension with speculative execution",
       "https://arxiv.org/abs/2406.08719"
     ]
   ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2024-06-17, 22:08:19",
-      "https://news.ycombinator.com/item?id=40711661"
-    ],
-    [
-      "A Note on Essential Complexity",
-      "https://olano.dev/blog/a-note-on-essential-complexity"
-    ]
-  ],
-  [
-    [
       "2024-06-17, 21:51:14",
       "https://news.ycombinator.com/item?id=40711484"
     ],
@@ -215,7 +225,7 @@
       "https://news.ycombinator.com/item?id=40705522"
     ],
     [
-      "FPGA-Based Disk Controller for the Apple II",
+      "FPGA-Based Disk Controller for the Apple II (2017)",
       "https://www.bigmessowires.com/2017/12/07/fpga-based-disk-controller-for-apple-ii/"
     ]
   ],
@@ -241,32 +251,12 @@
   ],
   [
     [
-      "2024-06-17, 08:04:36",
-      "https://news.ycombinator.com/item?id=40703335"
-    ],
-    [
-      "A long guide to giving a short academic talk (2022)",
-      "https://benjaminnoble.org/blog/short-talk"
-    ]
-  ],
-  [
-    [
       "2024-06-17, 06:06:29",
       "https://news.ycombinator.com/item?id=40702748"
     ],
     [
       "Software Friction",
       "https://www.hillelwayne.com/post/software-friction/"
-    ]
-  ],
-  [
-    [
-      "2024-06-16, 02:36:03",
-      "https://news.ycombinator.com/item?id=40694284"
-    ],
-    [
-      "Are animals conscious? New research",
-      "https://www.bbc.com/news/articles/cv223z15mpmo"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Show HN: Quickly scan HN for new articles",
       "https://github.com/bachmitre/hacker-news-highlighter"
+    ]
+  ],
+  [
+    [
+      "2024-06-14, 00:26:02",
+      "https://news.ycombinator.com/item?id=40676355"
+    ],
+    [
+      "A common misunderstanding about wave-particle duality",
+      "https://www.chemistryworld.com/opinion/a-common-misunderstanding-about-wave-particle-duality/4019585.article"
     ]
   ],
   [
