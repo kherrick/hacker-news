@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-06-18, 00:37:12",
+      "https://news.ycombinator.com/item?id=40712847"
+    ],
+    [
+      "Hitachi to Release PCs with Preinstalled BeOS for the Consumer Market (1998)",
+      "https://www.hitachi.com/New/cnews/E/1998/981111B.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-18, 00:15:03",
+      "https://news.ycombinator.com/item?id=40712720"
+    ],
+    [
+      "Why people are angry over Go 1.23 Iterators",
+      "https://www.gingerbill.org/article/2024/06/17/go-iterator-design/"
+    ]
+  ],
+  [
+    [
+      "2024-06-17, 23:45:33",
+      "https://news.ycombinator.com/item?id=40712550"
+    ],
+    [
+      "The March of Dimes Syndrome",
+      "https://www.city-journal.org/article/the-march-of-dimes-syndrome"
+    ]
+  ],
+  [
+    [
       "2024-06-17, 22:44:44",
       "https://news.ycombinator.com/item?id=40712020"
     ],
@@ -15,7 +45,7 @@
       "https://news.ycombinator.com/item?id=40711835"
     ],
     [
-      "Intel Details Skymont",
+      "Intel details Skymont",
       "https://chipsandcheese.com/2024/06/15/intel-details-skymont/"
     ]
   ],
@@ -41,21 +71,11 @@
   ],
   [
     [
-      "2024-06-17, 22:08:14",
-      "https://news.ycombinator.com/item?id=40711657"
-    ],
-    [
-      "Three of Vietnam's five undersea internet cables are down",
-      "https://www.reuters.com/world/asia-pacific/three-vietnams-five-undersea-internet-cables-are-down-2024-06-17/"
-    ]
-  ],
-  [
-    [
       "2024-06-17, 22:06:54",
       "https://news.ycombinator.com/item?id=40711640"
     ],
     [
-      "The Pitfalls of Comparing BigDecimals in Java",
+      "Pitfalls of comparing BigDecimals in Java",
       "https://igorstechnoclub.com/java-bigdecimal/"
     ]
   ],
@@ -65,18 +85,8 @@
       "https://news.ycombinator.com/item?id=40711600"
     ],
     [
-      "Google DeepMind Shifts from Research Lab to AI Product Factory",
+      "Google DeepMind shifts from research lab to AI product factory",
       "https://www.bloomberg.com/news/articles/2024-06-17/google-deepmind-shifts-from-research-lab-to-ai-product-factory"
-    ]
-  ],
-  [
-    [
-      "2024-06-17, 21:55:37",
-      "https://news.ycombinator.com/item?id=40711526"
-    ],
-    [
-      "FPGA-Based Disk Controller for Apple II",
-      "https://www.bigmessowires.com/2017/12/07/fpga-based-disk-controller-for-apple-ii/"
     ]
   ],
   [
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2024-06-17, 21:11:16",
-      "https://news.ycombinator.com/item?id=40711107"
-    ],
-    [
-      "What happens if you swallow gum?",
-      "https://health.clevelandclinic.org/what-happens-when-you-swallow-gum"
-    ]
-  ],
-  [
-    [
       "2024-06-17, 21:08:11",
       "https://news.ycombinator.com/item?id=40711086"
     ],
@@ -151,12 +151,12 @@
   ],
   [
     [
-      "2024-06-17, 20:58:42",
-      "https://news.ycombinator.com/item?id=40710993"
+      "2024-06-17, 20:04:19",
+      "https://news.ycombinator.com/item?id=40710417"
     ],
     [
-      "EU to greenlight Chat Control tomorrow",
-      "https://www.patrick-breyer.de/en/council-to-greenlight-chat-control-take-action-now/"
+      "Sam Altman is not on YC's board. So why claim to be its chair?",
+      "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2024/04/15/sam-altman-y-combinator-board-chair.html"
     ]
   ],
   [
@@ -167,16 +167,6 @@
     [
       "Where did you go, Ms. Pac-Man?",
       "https://www.thrillingtalesofoldvideogames.com/blog/ms-pac-man-disappear-pac-mom"
-    ]
-  ],
-  [
-    [
-      "2024-06-17, 19:49:10",
-      "https://news.ycombinator.com/item?id=40710201"
-    ],
-    [
-      "Sei pays out $2M bug bounty",
-      "https://usmannkhan.com/bug%20reports/2024/06/17/sei-bug-report.html"
     ]
   ],
   [
@@ -231,12 +221,12 @@
   ],
   [
     [
-      "2024-06-17, 13:46:04",
-      "https://news.ycombinator.com/item?id=40705574"
+      "2024-06-17, 13:40:15",
+      "https://news.ycombinator.com/item?id=40705522"
     ],
     [
-      "Lindroid",
-      "https://twitter.com/Khode_Erfan/status/1802331845633212554"
+      "FPGA-Based Disk Controller for the Apple II",
+      "https://www.bigmessowires.com/2017/12/07/fpga-based-disk-controller-for-apple-ii/"
     ]
   ],
   [
@@ -255,8 +245,18 @@
       "https://news.ycombinator.com/item?id=40704594"
     ],
     [
-      "Optical PCIe 7.0 connection hits a blazing 128 GT/s",
+      "Optical PCIe 7.0 connection hits 128 GT/s",
       "https://www.tomshardware.com/tech-industry/optical-pcie-70-connection-hits-a-blazing-128-gts"
+    ]
+  ],
+  [
+    [
+      "2024-06-17, 09:40:54",
+      "https://news.ycombinator.com/item?id=40703882"
+    ],
+    [
+      "Sonoluminescence",
+      "https://en.wikipedia.org/wiki/Sonoluminescence"
     ]
   ],
   [
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=40703335"
     ],
     [
-      "A Long Guide to Giving a Short Academic Talk",
+      "A long guide to giving a short academic talk (2022)",
       "https://benjaminnoble.org/blog/short-talk"
     ]
   ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=40698415"
     ],
     [
-      "The Unending Allure of High Mountains",
+      "The unending allure of high mountains",
       "https://www.noemamag.com/the-unending-allure-of-high-mountains/"
     ]
   ],
