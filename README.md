@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-18, 23:30:33](https://news.ycombinator.com/item?id=40723174) - [Reports: Apple is halting its next high-end Vision in favor of something cheaper](https://arstechnica.com/gadgets/2024/06/apple-is-reportedly-shifting-its-next-vision-headset-to-a-cheaper-model/)
-* [2024-06-18, 23:12:57](https://news.ycombinator.com/item?id=40723074) - [Intel Delivers Leading-Edge Foundry Node with Intel 3 Technology, 5N4Y on Track](https://community.intel.com/t5/Blogs/Intel-Foundry/Intel-Foundry/Intel-Delivers-Leading-Edge-Foundry-Node-with-Intel-3-Technology/post/1607454)
 * [2024-06-18, 22:40:18](https://news.ycombinator.com/item?id=40722850) - [IPC in Rust – A Ping Pong Comparison](https://3tilley.github.io/posts/simple-ipc-ping-pong/)
 * [2024-06-18, 21:38:38](https://news.ycombinator.com/item?id=40722394) - [An AI bot is (sort of) running for mayor in Wyoming](https://www.wired.com/story/ai-bot-running-for-mayor-wyoming/)
 * [2024-06-18, 21:00:51](https://news.ycombinator.com/item?id=40722164) - [Hadrius (YC W23) is hiring engineers looking to grow into future founders](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
 * [2024-06-18, 20:59:37](https://news.ycombinator.com/item?id=40722155) - [Amazon fined $5.9M for breaking labor law in California](https://www.washingtonpost.com/technology/2024/06/18/amazon-fine-labor-law-california/)
+* [2024-06-18, 20:21:25](https://news.ycombinator.com/item?id=40721829) - [A Sense of Rebellion — A Podcast Series by Evgeny Morozov](https://www.sense-of-rebellion.com/)
 * [2024-06-18, 19:59:31](https://news.ycombinator.com/item?id=40721623) - [Versioning FreeCAD Files with Git (2021)](https://blog.lambda.cx/posts/freecad-and-git/)
 * [2024-06-18, 18:23:10](https://news.ycombinator.com/item?id=40720629) - [Nature retracts paper that claimed adult stem cell could become any type of cell](https://retractionwatch.com/2024/06/18/nature-retracts-highly-cited-2002-paper-that-claimed-adult-stem-cells-could-become-any-type-of-cell/)
 * [2024-06-18, 17:09:26](https://news.ycombinator.com/item?id=40719981) - [Refusal in Language Models Is Mediated by a Single Direction](https://arxiv.org/abs/2406.11717)
