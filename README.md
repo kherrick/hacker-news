@@ -27,7 +27,7 @@
 * [2024-06-17, 08:04:36](https://news.ycombinator.com/item?id=40703335) - [A long guide to giving a short academic talk (2022)](https://benjaminnoble.org/blog/short-talk)
 * [2024-06-17, 06:10:58](https://news.ycombinator.com/item?id=40702767) - [52-Hertz Whale](https://en.wikipedia.org/wiki/52-hertz_whale)
 * [2024-06-17, 06:06:29](https://news.ycombinator.com/item?id=40702748) - [Software Friction](https://www.hillelwayne.com/post/software-friction/)
-* [2024-06-16, 16:50:48](https://news.ycombinator.com/item?id=40698415) - [The unending allure of high mountains](https://www.noemamag.com/the-unending-allure-of-high-mountains/)
+* [2024-06-16, 02:36:03](https://news.ycombinator.com/item?id=40694284) - [Are animals conscious? New research](https://www.bbc.com/news/articles/cv223z15mpmo)
 * [2024-06-15, 20:03:27](https://news.ycombinator.com/item?id=40692333) - [London Underground hosts tests for 'quantum compass' that could replace GPS](https://www.theguardian.com/science/article/2024/jun/15/london-underground-quantum-compass-gps-subatomic-instrument-locations)
 * [2024-06-15, 07:19:59](https://news.ycombinator.com/item?id=40688055) - [An Introduction to CSS-Doodle](https://yuanchuan.github.io/intro-to-css-doodle/)
 
