@@ -1,32 +1,12 @@
 [
   [
     [
-      "2024-06-18, 18:52:46",
-      "https://news.ycombinator.com/item?id=40720876"
-    ],
-    [
-      "We Remember Noam Chomsky, the Intellectual and Moral Giant",
-      "https://jacobin.com/2024/06/noam-chomsky-obituary-media-theory-elites/"
-    ]
-  ],
-  [
-    [
       "2024-06-18, 18:28:48",
       "https://news.ycombinator.com/item?id=40720680"
     ],
     [
       "Translate Datadog Metrics into OTLP",
       "https://grafana.com/blog/2024/06/18/translate-datadog-metrics-into-otlp-with-the-opentelemetry-collector-and-grafana-alloy/"
-    ]
-  ],
-  [
-    [
-      "2024-06-18, 18:28:23",
-      "https://news.ycombinator.com/item?id=40720677"
-    ],
-    [
-      "Nvidia Passes Microsoft to Become Largest U.S. Company",
-      "https://www.wsj.com/livecoverage/stock-market-today-dow-sp500-nasdaq-live-06-18-2024/card/nvidia-moves-into-the-top-spot-for-market-cap-4i1SFFzMdA4HO4OwnWSk"
     ]
   ],
   [
@@ -191,6 +171,16 @@
   ],
   [
     [
+      "2024-06-18, 06:10:40",
+      "https://news.ycombinator.com/item?id=40714544"
+    ],
+    [
+      "What happens to latency if service time is cut in half (2022)",
+      "https://pveentjer.github.io/misc/2022/04/18/service-time-cut-in-half.html"
+    ]
+  ],
+  [
+    [
       "2024-06-18, 05:37:59",
       "https://news.ycombinator.com/item?id=40714371"
     ],
@@ -297,6 +287,16 @@
     [
       "About the solar powered website (2022)",
       "https://solar.lowtechmagazine.com/about/the-solar-website/"
+    ]
+  ],
+  [
+    [
+      "2024-06-13, 19:12:08",
+      "https://news.ycombinator.com/item?id=40673402"
+    ],
+    [
+      "Enhancing Code Completion for Rust in Cody",
+      "https://sourcegraph.com/blog/enhancing-code-completion-for-rust-in-cody"
     ]
   ]
 ]
