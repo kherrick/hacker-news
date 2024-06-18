@@ -25,6 +25,7 @@
 * [2024-06-18, 17:31:49](https://news.ycombinator.com/item?id=40720183) - [Electricity prices in France turn negative as renewable energy floods the grid](https://fortune.com/2024/06/16/electricity-prices-france-negative-renewable-energy-supply-solar-power-wind-turbines/)
 * [2024-06-18, 17:25:42](https://news.ycombinator.com/item?id=40720121) - [Ask HN: Tell me your stories of taking lower paid work to be happier](https://news.ycombinator.com/item?id=40720121)
 * [2024-06-18, 17:19:22](https://news.ycombinator.com/item?id=40720071) - [DoorDash, Grubhub, and Uber deploy subpoenas to squash advocacy, press](https://www.amny.com/opinion/corporate-giants-deploy-subpoenas-to-squash-advocacy-press/)
+* [2024-06-18, 17:09:26](https://news.ycombinator.com/item?id=40719981) - [Refusal in Language Models Is Mediated by a Single Direction](https://arxiv.org/abs/2406.11717)
 * [2024-06-18, 17:08:36](https://news.ycombinator.com/item?id=40719975) - [3D Gaussian Splatting as Markov Chain Monte Carlo](https://ubc-vision.github.io/3dgs-mcmc/)
 * [2024-06-18, 17:03:47](https://news.ycombinator.com/item?id=40719940) - [The Deadly Mining Complex Powering the EV Revolution](https://www.bloomberg.com/features/2024-indonesia-sulawesi-nickel-fire/)
 * [2024-06-18, 17:01:45](https://news.ycombinator.com/item?id=40719921) - [Sharing new research, models, and datasets from Meta FAIR](https://ai.meta.com/blog/meta-fair-research-new-releases/)
