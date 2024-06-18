@@ -108,6 +108,7 @@
 * [2024-06-17, 06:42:12](https://news.ycombinator.com/item?id=40702895) - ['Equals' has more than one meaning in math](https://www.sciencealert.com/mathematician-reveals-equals-has-more-than-one-meaning-in-math)
 * [2024-06-17, 06:39:31](https://news.ycombinator.com/item?id=40702886) - [Meta won't train AI on Euro posts after all, as watchdogs put their paws down](https://www.theregister.com/2024/06/14/meta_eu_privacy/)
 * [2024-06-17, 06:14:50](https://news.ycombinator.com/item?id=40702782) - [How to get stuff repaired when the manufacturer don't wanna: take 'em to court](https://blog.simonrumble.com/how-to-get-your-stuff-repaired-when-the-retailer-and-manufacturer-dont-wanna-take-em-to-court)
+* [2024-06-17, 06:10:58](https://news.ycombinator.com/item?id=40702767) - [52-Hertz Whale](https://en.wikipedia.org/wiki/52-hertz_whale)
 * [2024-06-17, 05:38:39](https://news.ycombinator.com/item?id=40702617) - [Creativity Has Left the Chat: The Price of Debiasing Language Models](https://arxiv.org/abs/2406.05587)
 * [2024-06-17, 05:29:30](https://news.ycombinator.com/item?id=40702580) - [Understanding a Python Closure Oddity](https://utcc.utoronto.ca/~cks/space/blog/python/UnderstandingClosureOddity)
 * [2024-06-17, 05:23:15](https://news.ycombinator.com/item?id=40702546) - [Marion Stokes, the Woman Who Spent over 30 Years Recording Every Minute of US TV](https://allthatsinteresting.com/marion-stokes)
