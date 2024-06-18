@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-18](index.md)
 
+* [2024-06-18, 11:44:17](https://news.ycombinator.com/item?id=40716606) - [A Hollywood star lobbies the EU for more surveillance](https://netzpolitik.org/2022/dude-wheres-my-privacy-how-a-hollywood-star-lobbies-the-eu-for-more-surveillance/)
 * [2024-06-18, 10:58:24](https://news.ycombinator.com/item?id=40716235) - [Understanding the Misunderstood Kessler Syndrome](https://aerospaceamerica.aiaa.org/features/understanding-the-misunderstood-kessler-syndrome/)
 * [2024-06-18, 09:44:56](https://news.ycombinator.com/item?id=40715752) - [Malaysia to Join BRICS](https://www.aljazeera.com/economy/2024/6/18/malaysias-anwar-flags-brics-membership-praises-xi-as-outstanding-leader)
 * [2024-06-18, 09:34:06](https://news.ycombinator.com/item?id=40715695) - [Chat Control: Incompatible with Fundamental Rights](https://freiheitsrechte.org/en/themen/digitale-grundrechte/chatkontrolle)
