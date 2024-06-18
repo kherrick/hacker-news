@@ -53,6 +53,7 @@
 * [2024-06-14, 16:01:46](https://news.ycombinator.com/item?id=40682000) - [Nemotron-4-340B](https://blogs.nvidia.com/blog/nemotron-4-synthetic-data-generation-llm-training/)
 * [2024-06-14, 15:49:33](https://news.ycombinator.com/item?id=40681920) - [Apple set to be first Big Tech group to face charges under EU digital law](https://www.ft.com/content/31a996d5-b472-4357-953e-ace078494604)
 * [2024-06-14, 15:42:34](https://news.ycombinator.com/item?id=40681862) - [I am not yet ready to switch to Zig from Rust](https://medium.com/@penberg/why-i-am-not-yet-ready-to-switch-to-zig-from-rust-3660e02f0060)
+* [2024-06-14, 15:40:30](https://news.ycombinator.com/item?id=40681848) - [Mini Interviews with Entrepreneurs and Founders](https://www.amongfounders.com)
 * [2024-06-14, 15:30:58](https://news.ycombinator.com/item?id=40681784) - [Cost Per 1M tokens Of Self Hosting Llama-3](https://blog.lytix.co/posts/self-hosting-llama-3)
 * [2024-06-14, 14:41:52](https://news.ycombinator.com/item?id=40681375) - [Japan Passes Law to Allow Third-Party App Stores on the iPhone](https://www.macrumors.com/2024/06/14/japan-passes-law-to-allow-third-party-app-stores/)
 * [2024-06-14, 14:40:37](https://news.ycombinator.com/item?id=40681360) - [Why are so many books listed as \"Borrow Unavailable\" at the Internet Archive?](https://help.archive.org/help/why-are-so-many-books-listed-as-borrow-unavailable-at-the-internet-archive/)

@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-18, 21:00:51](https://news.ycombinator.com/item?id=40722164) - [Hadrius (YC W23) is hiring engineers looking to grow into future founders](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
+* [2024-06-18, 20:59:37](https://news.ycombinator.com/item?id=40722155) - [Amazon fined $5.9M for breaking labor law in California](https://www.washingtonpost.com/technology/2024/06/18/amazon-fine-labor-law-california/)
 * [2024-06-18, 19:59:31](https://news.ycombinator.com/item?id=40721623) - [Versioning FreeCAD Files with Git](https://blog.lambda.cx/posts/freecad-and-git/)
 * [2024-06-18, 18:23:10](https://news.ycombinator.com/item?id=40720629) - [Nature retracts paper that claimed adult stem cell could become any type of cell](https://retractionwatch.com/2024/06/18/nature-retracts-highly-cited-2002-paper-that-claimed-adult-stem-cells-could-become-any-type-of-cell/)
 * [2024-06-18, 17:08:36](https://news.ycombinator.com/item?id=40719975) - [3D Gaussian Splatting as Markov Chain Monte Carlo](https://ubc-vision.github.io/3dgs-mcmc/)
@@ -20,14 +21,13 @@
 * [2024-06-17, 22:44:44](https://news.ycombinator.com/item?id=40712020) - [Intel-undervolt: CPU undervolting and throttling configuration tool for Linux](https://github.com/kitsunyan/intel-undervolt)
 * [2024-06-17, 19:59:25](https://news.ycombinator.com/item?id=40710346) - [Oulipo's use of the Tohoku paper (2014)](http://www.neverendingbooks.org/oulipos-use-of-the-tohoku-paper/)
 * [2024-06-17, 16:29:53](https://news.ycombinator.com/item?id=40707558) - [FTC sues Adobe for hiding fees and inhibiting cancellations](https://www.ftc.gov/news-events/news/press-releases/2024/06/ftc-takes-action-against-adobe-executives-hiding-fees-preventing-consumers-easily-cancelling)
-* [2024-06-17, 13:46:04](https://news.ycombinator.com/item?id=40705574) - [Lindroid](https://twitter.com/Khode_Erfan/status/1802331845633212554)
 * [2024-06-17, 13:40:15](https://news.ycombinator.com/item?id=40705522) - [FPGA-Based Disk Controller for the Apple II (2017)](https://www.bigmessowires.com/2017/12/07/fpga-based-disk-controller-for-apple-ii/)
-* [2024-06-17, 10:38:34](https://news.ycombinator.com/item?id=40704179) - [NumPy-style broadcasting in Futhark](https://futhark-lang.org/blog/2024-06-17-automap.html)
 * [2024-06-17, 09:42:40](https://news.ycombinator.com/item?id=40703892) - [Lnav Logfile Navigator](https://lnav.org/)
 * [2024-06-17, 06:06:29](https://news.ycombinator.com/item?id=40702748) - [Software Friction](https://www.hillelwayne.com/post/software-friction/)
 * [2024-06-14, 18:33:40](https://news.ycombinator.com/item?id=40683564) - [Show HN: SHAllenge – Compete to get the lowest hash](https://shallenge.quirino.net/)
 * [2024-06-14, 18:13:29](https://news.ycombinator.com/item?id=40683317) - [Mimicking an Elephant Trunk](https://physics.aps.org/articles/v17/98)
 * [2024-06-14, 16:26:48](https://news.ycombinator.com/item?id=40682212) - [Erica Synths DIY Prototyping Breadboard](https://cdm.link/2024/06/labor-diy/)
+* [2024-06-14, 15:40:30](https://news.ycombinator.com/item?id=40681848) - [Mini Interviews with Entrepreneurs and Founders](https://www.amongfounders.com)
 * [2024-06-14, 13:03:48](https://news.ycombinator.com/item?id=40680524) - [Show HN: Quickly scan HN for new articles](https://github.com/bachmitre/hacker-news-highlighter)
 * [2024-06-13, 19:12:08](https://news.ycombinator.com/item?id=40673402) - [Enhancing Code Completion for Rust in Cody](https://sourcegraph.com/blog/enhancing-code-completion-for-rust-in-cody)
 
