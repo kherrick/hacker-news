@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-18](index.md)
 
+* [2024-06-18, 21:38:38](https://news.ycombinator.com/item?id=40722394) - [AI bot running for mayor in Wyoming (sort of)](https://www.wired.com/story/ai-bot-running-for-mayor-wyoming/)
 * [2024-06-18, 21:22:26](https://news.ycombinator.com/item?id=40722288) - [Noam Chomsky's wife denies reports of death](https://www.usnews.com/news/best-states/new-york/articles/2024-06-18/noam-chomskys-wife-says-reports-of-famed-linguists-death-are-false)
 * [2024-06-18, 21:00:51](https://news.ycombinator.com/item?id=40722164) - [Hadrius (YC W23) is hiring engineers looking to grow into future founders](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
 * [2024-06-18, 20:59:37](https://news.ycombinator.com/item?id=40722155) - [Amazon fined $5.9M for breaking labor law in California](https://www.washingtonpost.com/technology/2024/06/18/amazon-fine-labor-law-california/)
