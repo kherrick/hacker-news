@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-19, 17:35:48](https://news.ycombinator.com/item?id=40730494) - [Stages of Argument (2000)](http://legacy.earlham.edu/~peters/courses/argstages.htm)
 * [2024-06-19, 17:14:13](https://news.ycombinator.com/item?id=40730228) - [F (2006)](http://www.nsl.com/k/f/f.htm)
 * [2024-06-19, 17:06:16](https://news.ycombinator.com/item?id=40730156) - [Ilya Sutskever starts Safe Superintelligence Inc](https://ssi.inc)
 * [2024-06-19, 17:01:12](https://news.ycombinator.com/item?id=40730117) - [Blacksmith (YC W24) is hiring a front end engineer to improve GitHub Actions](https://www.ycombinator.com/companies/blacksmith/jobs/SgZiNoi-founding-engineer-frontend)
@@ -7,6 +8,7 @@
 * [2024-06-19, 16:30:14](https://news.ycombinator.com/item?id=40729809) - [The Return of Pneumatic Tubes](https://www.technologyreview.com/2024/06/19/1093446/pneumatic-tubes-hospitals/)
 * [2024-06-19, 16:17:01](https://news.ycombinator.com/item?id=40729671) - [The demise of the mildly dynamic website (2022)](https://www.devever.net/~hl/mildlydynamic)
 * [2024-06-19, 15:57:28](https://news.ycombinator.com/item?id=40729501) - [Fast Crimes at Lambda School](https://www.sandofsky.com/lambda-school/)
+* [2024-06-19, 15:08:32](https://news.ycombinator.com/item?id=40729007) - [Vannevar Bush Engineered the 20th Century](https://spectrum.ieee.org/vannevar-bush)
 * [2024-06-19, 14:44:50](https://news.ycombinator.com/item?id=40728814) - [Arvind has died](https://news.mit.edu/2024/computer-science-professor-arvind-dies-0618)
 * [2024-06-19, 14:31:27](https://news.ycombinator.com/item?id=40728671) - [Mrs Perkins's Quilt (2017)](http://www.squaring.net/quilts/mrs-perkins-quilts.html)
 * [2024-06-19, 13:20:01](https://news.ycombinator.com/item?id=40728032) - [Agilent 2000a / 3000a Oscilloscope NAND Recovery](https://salvagedcircuitry.com/2000a-nand-recovery.html)
@@ -21,7 +23,6 @@
 * [2024-06-19, 00:02:23](https://news.ycombinator.com/item?id=40723356) - [Open Source Python ETL](https://amphi.ai/)
 * [2024-06-18, 23:38:40](https://news.ycombinator.com/item?id=40723220) - [KidPix](https://kidpix.app)
 * [2024-06-18, 23:27:36](https://news.ycombinator.com/item?id=40723150) - [Off-path TCP hijacking in NAT-enabled Wi-Fi networks](https://blog.apnic.net/2024/06/18/off-path-tcp-hijacking-in-nat-enabled-wi-fi-networks/)
-* [2024-06-18, 22:40:18](https://news.ycombinator.com/item?id=40722850) - [IPC in Rust – A Ping Pong Comparison](https://3tilley.github.io/posts/simple-ipc-ping-pong/)
 * [2024-06-18, 16:45:45](https://news.ycombinator.com/item?id=40719782) - [Show HN: Billard – Generate music from ball collisions in 2D space](https://billard.medusis.com/)
 * [2024-06-18, 13:08:15](https://news.ycombinator.com/item?id=40717398) - [Show HN: Radius – A Meetup.com alternative](https://www.radius.to)
 * [2024-06-18, 12:32:06](https://news.ycombinator.com/item?id=40717052) - [Show HN: Flowery – Vocabulary builder powered by LLM and spaced repetition](https://flowery.app)
@@ -29,7 +30,6 @@
 * [2024-06-17, 11:57:50](https://news.ycombinator.com/item?id=40704688) - [Logit Prisms: Decomposing Transformer Outputs for Mechanistic Interpretability](https://neuralblog.github.io/logit-prisms/)
 * [2024-06-14, 17:56:16](https://news.ycombinator.com/item?id=40683130) - [Unraveling the Physics of Knitting](https://research.gatech.edu/unraveling-physics-knitting)
 * [2024-06-14, 09:40:26](https://news.ycombinator.com/item?id=40679184) - [Show HN: ESP32S3 ZXSpectrum](https://news.ycombinator.com/item?id=40679184)
-* [2024-06-14, 00:09:41](https://news.ycombinator.com/item?id=40676266) - [Detailed Data Analysis of Japan's J2 Football League](https://www.shogunsoccer.com/p/j2-2024-mid-season-review)
 
 ## [Archives](archives/index.md)
 

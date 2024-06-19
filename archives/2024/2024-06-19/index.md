@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-19](index.md)
 
+* [2024-06-19, 17:35:48](https://news.ycombinator.com/item?id=40730494) - [Stages of Argument (2000)](http://legacy.earlham.edu/~peters/courses/argstages.htm)
 * [2024-06-19, 17:14:13](https://news.ycombinator.com/item?id=40730228) - [F](http://www.nsl.com/k/f/f.htm)
 * [2024-06-19, 17:06:16](https://news.ycombinator.com/item?id=40730156) - [Ilya Sutskever starts Safe Superintelligence Inc](https://ssi.inc)
 * [2024-06-19, 17:02:59](https://news.ycombinator.com/item?id=40730132) - [Safe Superintelligence Inc. – Ilya Sutskever](https://twitter.com/ssi/status/1803472825476587910)
@@ -19,6 +20,7 @@
 * [2024-06-19, 15:57:28](https://news.ycombinator.com/item?id=40729501) - [Fast Crimes at Lambda School](https://www.sandofsky.com/lambda-school/)
 * [2024-06-19, 15:44:21](https://news.ycombinator.com/item?id=40729338) - [Campaigns Can Now See What You Watch on TV](https://www.notus.org/2024-election/streaming-tv-campaign-ads)
 * [2024-06-19, 15:11:40](https://news.ycombinator.com/item?id=40729035) - [Stonehenge Damaged by Protesters](https://www.nbcnews.com/news/world/stonehenge-climate-protesters-arrested-painting-monument-rcna157911)
+* [2024-06-19, 15:08:32](https://news.ycombinator.com/item?id=40729007) - [Vannevar Bush Engineered the 20th Century](https://spectrum.ieee.org/vannevar-bush)
 * [2024-06-19, 15:06:29](https://news.ycombinator.com/item?id=40728988) - [Not all 'open source' AI models are open](https://www.nature.com/articles/d41586-024-02012-5)
 * [2024-06-19, 15:02:41](https://news.ycombinator.com/item?id=40728965) - [Even Apple cannot explain why we need AI in our lives](https://www.ft.com/content/1355ccd9-4a2d-49d2-9e42-250aab0c38aa)
 * [2024-06-19, 14:50:09](https://news.ycombinator.com/item?id=40728865) - [All the Data on Earth Can Fit in a Cup of DNA in MIT's Jurassic Park Project](https://www.xatakaon.com/research/all-the-data-on-earth-can-fit-in-a-cup-full-of-dna-this-is-mits-jurassic-park-inspired-project)
