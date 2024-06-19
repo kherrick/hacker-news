@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-19, 16:25:54](https://news.ycombinator.com/item?id=40729760) - [Tomorrow, EU executive branches will vote on ChatControl](https://www.patrick-breyer.de/en/chat-control-politicians-industry-raise-alarm-over-eus-unprecedented-messenger-surveillance-plans/)
-* [2024-06-19, 16:17:36](https://news.ycombinator.com/item?id=40729673) - [Android 10 Smartphone and Termux: Booting Alpine Linux with QEMU 8.0.2 and 8.2.5](https://gist.github.com/NoteAfterNote/7614b0137ac6959e3bba35df66eaa75a)
+* [2024-06-19, 16:30:14](https://news.ycombinator.com/item?id=40729809) - [The Return of Pneumatic Tubes](https://www.technologyreview.com/2024/06/19/1093446/pneumatic-tubes-hospitals/)
 * [2024-06-19, 15:57:28](https://news.ycombinator.com/item?id=40729501) - [Fast Crimes at Lambda School](https://www.sandofsky.com/lambda-school/)
+* [2024-06-19, 14:50:09](https://news.ycombinator.com/item?id=40728865) - [All the Data on Earth Can Fit in a Cup of DNA in MIT's Jurassic Park Project](https://www.xatakaon.com/research/all-the-data-on-earth-can-fit-in-a-cup-full-of-dna-this-is-mits-jurassic-park-inspired-project)
 * [2024-06-19, 14:44:50](https://news.ycombinator.com/item?id=40728814) - [Arvind has died](https://news.mit.edu/2024/computer-science-professor-arvind-dies-0618)
 * [2024-06-19, 14:31:27](https://news.ycombinator.com/item?id=40728671) - [Mrs Perkins's Quilt (2017)](http://www.squaring.net/quilts/mrs-perkins-quilts.html)
 * [2024-06-19, 13:20:01](https://news.ycombinator.com/item?id=40728032) - [Recovering an Agilent 2000A/3000A Oscilloscope with Corrupt Firmware NAND Flash](https://salvagedcircuitry.com/2000a-nand-recovery.html)

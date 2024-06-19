@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-19](index.md)
 
+* [2024-06-19, 16:30:14](https://news.ycombinator.com/item?id=40729809) - [The Return of Pneumatic Tubes](https://www.technologyreview.com/2024/06/19/1093446/pneumatic-tubes-hospitals/)
 * [2024-06-19, 16:25:54](https://news.ycombinator.com/item?id=40729760) - [Tomorrow, EU executive branches will vote on ChatControl](https://www.patrick-breyer.de/en/chat-control-politicians-industry-raise-alarm-over-eus-unprecedented-messenger-surveillance-plans/)
 * [2024-06-19, 16:17:36](https://news.ycombinator.com/item?id=40729673) - [Android 10 Smartphone and Termux: Booting Alpine Linux with QEMU 8.0.2 and 8.2.5](https://gist.github.com/NoteAfterNote/7614b0137ac6959e3bba35df66eaa75a)
 * [2024-06-19, 16:16:53](https://news.ycombinator.com/item?id=40729670) - [PS5 is finally integrating Discord into the console's UI](https://www.polygon.com/24177882/ps5-playstation5-discord-integration-how-to)
@@ -14,6 +15,7 @@
 * [2024-06-19, 15:11:40](https://news.ycombinator.com/item?id=40729035) - [Stonehenge Damaged by Protesters](https://www.nbcnews.com/news/world/stonehenge-climate-protesters-arrested-painting-monument-rcna157911)
 * [2024-06-19, 15:06:29](https://news.ycombinator.com/item?id=40728988) - [Not all 'open source' AI models are open](https://www.nature.com/articles/d41586-024-02012-5)
 * [2024-06-19, 15:02:41](https://news.ycombinator.com/item?id=40728965) - [Even Apple cannot explain why we need AI in our lives](https://www.ft.com/content/1355ccd9-4a2d-49d2-9e42-250aab0c38aa)
+* [2024-06-19, 14:50:09](https://news.ycombinator.com/item?id=40728865) - [All the Data on Earth Can Fit in a Cup of DNA in MIT's Jurassic Park Project](https://www.xatakaon.com/research/all-the-data-on-earth-can-fit-in-a-cup-full-of-dna-this-is-mits-jurassic-park-inspired-project)
 * [2024-06-19, 14:44:50](https://news.ycombinator.com/item?id=40728814) - [Arvind, longtime MIT professor and prolific computer scientist, dies at 77](https://news.mit.edu/2024/computer-science-professor-arvind-dies-0618)
 * [2024-06-19, 14:37:54](https://news.ycombinator.com/item?id=40728732) - [Perplexity Is a Bullshit Machine](https://www.wired.com/story/perplexity-is-a-bullshit-machine/)
 * [2024-06-19, 14:31:27](https://news.ycombinator.com/item?id=40728671) - [Mrs Perkins's Quilt (2017)](http://www.squaring.net/quilts/mrs-perkins-quilts.html)
