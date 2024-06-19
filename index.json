@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-06-19, 14:25:06",
-      "https://news.ycombinator.com/item?id=40728625"
-    ],
-    [
-      "9p filesystem has been added to FreeBSD",
-      "https://cgit.freebsd.org/src/commit/?id=e97ad33a89a78f55280b0485b3249ee9b907a718"
-    ]
-  ],
-  [
-    [
       "2024-06-19, 13:54:50",
       "https://news.ycombinator.com/item?id=40728331"
     ],
@@ -47,16 +37,6 @@
     [
       "Astronomers see a black hole awaken in real time",
       "https://www.eso.org/public/germany/news/eso2409/"
-    ]
-  ],
-  [
-    [
-      "2024-06-19, 10:49:22",
-      "https://news.ycombinator.com/item?id=40726974"
-    ],
-    [
-      "Neofetch developer archives all his repositories: \"Have taken up farming\"",
-      "https://github.com/dylanaraps"
     ]
   ],
   [
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2024-06-18, 13:45:07",
+      "https://news.ycombinator.com/item?id=40717804"
+    ],
+    [
+      "Tiny beauty: how I make scientific art from behind the microscope",
+      "https://www.nature.com/immersive/d41586-024-02011-6/index.html"
+    ]
+  ],
+  [
+    [
       "2024-06-17, 17:16:29",
       "https://news.ycombinator.com/item?id=40708201"
     ],
@@ -267,6 +257,16 @@
     [
       "Logit Prisms: Decomposing Transformer Outputs for Mechanistic Interpretability",
       "https://neuralblog.github.io/logit-prisms/"
+    ]
+  ],
+  [
+    [
+      "2024-06-14, 21:44:33",
+      "https://news.ycombinator.com/item?id=40685427"
+    ],
+    [
+      "Serialization for C# Games",
+      "https://chickensoft.games/blog/serialization-for-csharp-games/"
     ]
   ],
   [
