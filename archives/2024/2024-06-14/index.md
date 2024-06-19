@@ -35,6 +35,7 @@
 * [2024-06-14, 17:39:41](https://news.ycombinator.com/item?id=40682929) - [Oracle Is Shutting Down Its Ad Business](https://www.adweek.com/programmatic/oracle-is-shutting-down-its-ad-business/)
 * [2024-06-14, 17:34:47](https://news.ycombinator.com/item?id=40682863) - [Leveraging Zig's Allocators](https://www.openmymind.net/Leveraging-Zigs-Allocators/)
 * [2024-06-14, 17:19:38](https://news.ycombinator.com/item?id=40682711) - [Vercel ends open-source sponsorship program giving projects 24hr notice](https://vercel.com/guides/can-vercel-sponsor-my-open-source-project)
+* [2024-06-14, 17:11:46](https://news.ycombinator.com/item?id=40682632) - [Ask HN: How do you find developers for open source bug bounties?](https://news.ycombinator.com/item?id=40682632)
 * [2024-06-14, 17:01:19](https://news.ycombinator.com/item?id=40682531) - [Google AI might kill you: identified Destroying Angel as edible\"button mushroom\"](https://boingboing.net/2024/06/03/google-ai-just-might-kill-you-it-misidentified-a-destroying-angel-mushroom-as-an-ediblebutton-mushroom.html)
 * [2024-06-14, 17:00:10](https://news.ycombinator.com/item?id=40682525) - [Aviator (YC S21) Is Hiring Engineers to Build a DevEx Platform](https://www.aviator.co/jobs)
 * [2024-06-14, 16:55:36](https://news.ycombinator.com/item?id=40682485) - [True Defamation [pdf]](https://www.journaloffreespeechlaw.org/helmreich.pdf)
