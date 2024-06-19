@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2024-06-19, 10:49:15",
+      "https://news.ycombinator.com/item?id=40726971"
+    ],
+    [
+      "Boeing sent two astronauts into space, now it needs to get them home",
+      "https://www.wsj.com/science/space-astronomy/boeing-sent-two-astronauts-into-space-now-it-needs-to-get-them-home-99d96633"
+    ]
+  ],
+  [
+    [
       "2024-06-19, 10:16:08",
       "https://news.ycombinator.com/item?id=40726792"
     ],
@@ -65,8 +75,8 @@
       "https://news.ycombinator.com/item?id=40726648"
     ],
     [
-      "Slack Combines ASTs with LLMs to Automatically Convert 80% of 15,000 Unit Tests",
-      "https://www.infoq.com/news/2024/06/slack-automatic-test-conversion/"
+      "AI-Powered Conversion From Enzyme to React Testing Library",
+      "https://slack.engineering/balancing-old-tricks-with-new-feats-ai-powered-conversion-from-enzyme-to-react-testing-library-at-slack/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Show HN: I made an open source and local translation app",
       "https://github.com/niedev/RTranslator"
-    ]
-  ],
-  [
-    [
-      "2024-06-18, 17:09:26",
-      "https://news.ycombinator.com/item?id=40719981"
-    ],
-    [
-      "Refusal in language models is mediated by a single direction",
-      "https://arxiv.org/abs/2406.11717"
     ]
   ],
   [
