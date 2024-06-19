@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-06-19](index.md)
 
+* [2024-06-19, 19:35:38](https://news.ycombinator.com/item?id=40731673) - [My personal reasons to not run my Nginx reverse-proxy inside Docker](https://ewaldbenes.com/blog/my-personal-reasons-to-not-run-my-nginx-reverse-proxy-inside-docker)
+* [2024-06-19, 18:59:40](https://news.ycombinator.com/item?id=40731360) - [EasyOS: An Experimental Linux Distribution](https://easyos.org/)
 * [2024-06-19, 18:51:53](https://news.ycombinator.com/item?id=40731274) - [Discovery of new white blood cell function](https://www.cam.ac.uk/research/news/discovery-of-new-rules-of-the-immune-system-could-improve-treatment-of-inflammatory-diseases-say)
+* [2024-06-19, 17:43:37](https://news.ycombinator.com/item?id=40730589) - [Ask HN: Anyone else private information get sold by namecheap?](https://news.ycombinator.com/item?id=40730589)
 * [2024-06-19, 17:35:48](https://news.ycombinator.com/item?id=40730494) - [Stages of Argument (2000)](http://legacy.earlham.edu/~peters/courses/argstages.htm)
 * [2024-06-19, 17:16:18](https://news.ycombinator.com/item?id=40730245) - [Show HN: Modular Pi Cam](https://github.com/jdc-cunningham/modular-pi-cam/tree/master/cameras/pi-zero/large-display)
 * [2024-06-19, 17:14:13](https://news.ycombinator.com/item?id=40730228) - [F](http://www.nsl.com/k/f/f.htm)

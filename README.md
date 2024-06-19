@@ -1,6 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-19, 19:35:38](https://news.ycombinator.com/item?id=40731673) - [My personal reasons to not run my Nginx reverse-proxy inside Docker](https://ewaldbenes.com/blog/my-personal-reasons-to-not-run-my-nginx-reverse-proxy-inside-docker)
+* [2024-06-19, 18:59:40](https://news.ycombinator.com/item?id=40731360) - [EasyOS: An Experimental Linux Distribution](https://easyos.org/)
 * [2024-06-19, 18:51:53](https://news.ycombinator.com/item?id=40731274) - [Discovery of new white blood cell function](https://www.cam.ac.uk/research/news/discovery-of-new-rules-of-the-immune-system-could-improve-treatment-of-inflammatory-diseases-say)
+* [2024-06-19, 17:43:37](https://news.ycombinator.com/item?id=40730589) - [Ask HN: Anyone else private information get sold by namecheap?](https://news.ycombinator.com/item?id=40730589)
 * [2024-06-19, 17:35:48](https://news.ycombinator.com/item?id=40730494) - [Stages of Argument (2000)](http://legacy.earlham.edu/~peters/courses/argstages.htm)
 * [2024-06-19, 17:16:18](https://news.ycombinator.com/item?id=40730245) - [Show HN: Modular Pi Cam](https://github.com/jdc-cunningham/modular-pi-cam/tree/master/cameras/pi-zero/large-display)
 * [2024-06-19, 17:14:13](https://news.ycombinator.com/item?id=40730228) - [F (2006)](http://www.nsl.com/k/f/f.htm)
@@ -15,10 +18,8 @@
 * [2024-06-19, 13:20:01](https://news.ycombinator.com/item?id=40728032) - [Agilent 2000a / 3000a Oscilloscope NAND Recovery](https://salvagedcircuitry.com/2000a-nand-recovery.html)
 * [2024-06-19, 10:57:22](https://news.ycombinator.com/item?id=40727022) - [Astronomers see a black hole awaken in real time](https://www.eso.org/public/germany/news/eso2409/)
 * [2024-06-19, 10:16:08](https://news.ycombinator.com/item?id=40726792) - [Beyond velocity and acceleration: jerk, snap and higher derivatives (2016)](https://iopscience.iop.org/article/10.1088/0143-0807/37/6/065008)
-* [2024-06-19, 09:51:55](https://news.ycombinator.com/item?id=40726648) - [AI-powered conversion from Enzyme to React Testing Library](https://slack.engineering/balancing-old-tricks-with-new-feats-ai-powered-conversion-from-enzyme-to-react-testing-library-at-slack/)
 * [2024-06-19, 09:51:05](https://news.ycombinator.com/item?id=40726641) - [There's more to mathematics than rigour and proofs (2007)](https://terrytao.wordpress.com/career-advice/theres-more-to-mathematics-than-rigour-and-proofs/)
 * [2024-06-19, 09:40:40](https://news.ycombinator.com/item?id=40726585) - [Comma Gets a Cure (2000)](https://www.dialectsarchive.com/comma-gets-a-cure)
-* [2024-06-19, 09:15:34](https://news.ycombinator.com/item?id=40726426) - [Monitoring marine litter from space](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Monitoring_marine_litter_from_space_is_now_a_reality)
 * [2024-06-19, 06:32:01](https://news.ycombinator.com/item?id=40725451) - [ExectOS – brand new operating system which derives from NT architecture](https://exectos.eu.org/)
 * [2024-06-18, 22:10:40](https://news.ycombinator.com/item?id=40722635) - [The difference between Mastodon, Bluesky, and Threads](https://www.eff.org/deeplinks/2024/06/whats-difference-between-mastodon-bluesky-and-threads)
 * [2024-06-18, 15:26:38](https://news.ycombinator.com/item?id=40718908) - [When are SSDs slow?](https://cedardb.com/blog/ssd_latency/)
@@ -27,7 +28,6 @@
 * [2024-06-18, 03:49:27](https://news.ycombinator.com/item?id=40713893) - [Brain circuit scores identify clinically distinct biotypes in depression/anxiety](https://www.nature.com/articles/s41591-024-03057-9)
 * [2024-06-17, 23:23:09](https://news.ycombinator.com/item?id=40712359) - [What happens to our breath when we type, tap, scroll](https://www.npr.org/2024/06/10/1247296780/screen-apnea-why-screens-cause-shallow-breathing)
 * [2024-06-14, 17:56:16](https://news.ycombinator.com/item?id=40683130) - [Unraveling the physics of knitting](https://research.gatech.edu/unraveling-physics-knitting)
-* [2024-06-14, 11:54:23](https://news.ycombinator.com/item?id=40679957) - [Inner core backtracking by seismic waveform change reversals](https://www.nature.com/articles/s41586-024-07536-4)
 * [2024-06-14, 08:17:23](https://news.ycombinator.com/item?id=40678757) - [Why black boxes are important](https://philosophyinpractice.substack.com/p/why-black-boxes-are-important)
 * [2024-06-14, 04:43:16](https://news.ycombinator.com/item?id=40677541) - [Using a 1965 Dutch rotary phone via VoIP](https://raymii.org/s/blog/Using_a_1965_Dutch_Rotaty_Phone_T65_via_VoIP_in_2024.html)
 
