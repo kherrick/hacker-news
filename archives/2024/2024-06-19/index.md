@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-19](index.md)
 
+* [2024-06-19, 14:25:06](https://news.ycombinator.com/item?id=40728625) - [9p filesystem has been added to FreeBSD](https://cgit.freebsd.org/src/commit/?id=e97ad33a89a78f55280b0485b3249ee9b907a718)
 * [2024-06-19, 13:54:50](https://news.ycombinator.com/item?id=40728331) - [Can holographic optical storage displace Hard Disk Drives?](https://www.nature.com/articles/s44172-024-00225-0)
 * [2024-06-19, 13:46:12](https://news.ycombinator.com/item?id=40728245) - [Biocompatible electroluminescent device with enhanced luminance](https://www.nature.com/articles/s41528-024-00322-2)
 * [2024-06-19, 13:23:31](https://news.ycombinator.com/item?id=40728059) - [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/)
@@ -15,9 +16,11 @@
 * [2024-06-19, 10:49:15](https://news.ycombinator.com/item?id=40726971) - [Boeing Sent Two Astronauts into Space. Now It Needs to Get Them Home](https://www.wsj.com/science/space-astronomy/boeing-sent-two-astronauts-into-space-now-it-needs-to-get-them-home-99d96633)
 * [2024-06-19, 10:29:15](https://news.ycombinator.com/item?id=40726855) - [Boeing CEO blasted by Senate: 'It's a travesty that you are still in your job'](https://www.cnbc.com/2024/06/18/boeing-ceo-dave-calhoun-senate-hearing.html)
 * [2024-06-19, 10:16:08](https://news.ycombinator.com/item?id=40726792) - [Beyond velocity and acceleration: jerk, snap and higher derivatives (2016)](https://iopscience.iop.org/article/10.1088/0143-0807/37/6/065008)
+* [2024-06-19, 10:06:54](https://news.ycombinator.com/item?id=40726735) - [Ask HN: What happens when I click \"Request for quote\" on your SaaS?](https://news.ycombinator.com/item?id=40726735)
 * [2024-06-19, 09:51:55](https://news.ycombinator.com/item?id=40726648) - [Slack Combines ASTs with LLMs to Automatically Convert 80% of 15,000 Unit Tests](https://www.infoq.com/news/2024/06/slack-automatic-test-conversion/)
 * [2024-06-19, 09:51:55](https://news.ycombinator.com/item?id=40726648) - [AI-Powered Conversion From Enzyme to React Testing Library](https://slack.engineering/balancing-old-tricks-with-new-feats-ai-powered-conversion-from-enzyme-to-react-testing-library-at-slack/)
 * [2024-06-19, 09:51:05](https://news.ycombinator.com/item?id=40726641) - [There's more to mathematics than rigour and proofs](https://terrytao.wordpress.com/career-advice/theres-more-to-mathematics-than-rigour-and-proofs/)
+* [2024-06-19, 09:36:24](https://news.ycombinator.com/item?id=40726555) - [Ask HN: What does RISC-V custom chips for under $100K mean?](https://news.ycombinator.com/item?id=40726555)
 * [2024-06-19, 09:15:34](https://news.ycombinator.com/item?id=40726426) - [Monitoring marine litter from space is now a reality](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Monitoring_marine_litter_from_space_is_now_a_reality)
 * [2024-06-19, 09:15:12](https://news.ycombinator.com/item?id=40726422) - [Why Dolphin Isn't Coming to the App Store (Spoiler: It Needs a JIT)](https://daringfireball.net/linked/2024/06/18/dolphin-jit-apple)
 * [2024-06-19, 09:12:01](https://news.ycombinator.com/item?id=40726397) - [Linux China, which supported the Chinese open source community, has ended](https://linux.cn/article-16602-1.html)
