@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-06-19, 22:02:53",
-      "https://news.ycombinator.com/item?id=40732899"
-    ],
-    [
-      "CISA Advisory on Motorola Solutions ALPR Vulnerabilities",
-      "https://www.cisa.gov/news-events/ics-advisories/icsa-24-165-19"
-    ]
-  ],
-  [
-    [
       "2024-06-19, 21:20:03",
       "https://news.ycombinator.com/item?id=40732490"
     ],
@@ -57,6 +47,16 @@
     [
       "EasyOS: An Experimental Linux Distribution",
       "https://easyos.org/"
+    ]
+  ],
+  [
+    [
+      "2024-06-19, 17:21:38",
+      "https://news.ycombinator.com/item?id=40730309"
+    ],
+    [
+      "Finite Curve",
+      "https://www.finitecurve.com/"
     ]
   ],
   [
@@ -241,16 +241,6 @@
   ],
   [
     [
-      "2024-06-18, 22:59:54",
-      "https://news.ycombinator.com/item?id=40722988"
-    ],
-    [
-      "The growing pains of science",
-      "https://www.theguardian.com/science/political-science/2016/jun/08/how-should-we-treat-sciences-growing-pains"
-    ]
-  ],
-  [
-    [
       "2024-06-18, 15:26:38",
       "https://news.ycombinator.com/item?id=40718908"
     ],
@@ -297,6 +287,16 @@
     [
       "What happens to our breath when we type, tap, scroll",
       "https://www.npr.org/2024/06/10/1247296780/screen-apnea-why-screens-cause-shallow-breathing"
+    ]
+  ],
+  [
+    [
+      "2024-06-17, 11:57:50",
+      "https://news.ycombinator.com/item?id=40704688"
+    ],
+    [
+      "Logit Prisms: Decomposing Transformer Outputs for Mechanistic Interpretability",
+      "https://neuralblog.github.io/logit-prisms/"
     ]
   ]
 ]
