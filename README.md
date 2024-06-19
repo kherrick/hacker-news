@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-19, 13:23:31](https://news.ycombinator.com/item?id=40728059) - [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/)
 * [2024-06-19, 12:00:49](https://news.ycombinator.com/item?id=40727427) - [Ribbon Health (YC S17) Is Hiring a Sales Eng Director for Enterprises](https://www.ribbonhealth.com/open-roles?gh_jid=5179134004)
 * [2024-06-19, 11:59:00](https://news.ycombinator.com/item?id=40727410) - [2.6M Piracy Reports Against French Users Resulted in 234 Financial Penalties](https://torrentfreak.com/2-6m-piracy-reports-against-french-users-resulted-in-234-financial-penalties-2240618/)
 * [2024-06-19, 10:57:22](https://news.ycombinator.com/item?id=40727022) - [Astronomers see a black hole awaken in real time](https://www.eso.org/public/germany/news/eso2409/)
@@ -21,7 +22,6 @@
 * [2024-06-18, 22:40:18](https://news.ycombinator.com/item?id=40722850) - [IPC in Rust – A Ping Pong Comparison](https://3tilley.github.io/posts/simple-ipc-ping-pong/)
 * [2024-06-18, 21:26:51](https://news.ycombinator.com/item?id=40722317) - [Show HN: I made an open source and local translation app](https://github.com/niedev/RTranslator)
 * [2024-06-18, 17:09:26](https://news.ycombinator.com/item?id=40719981) - [Refusal in language models is mediated by a single direction](https://arxiv.org/abs/2406.11717)
-* [2024-06-18, 17:08:36](https://news.ycombinator.com/item?id=40719975) - [3D Gaussian Splatting as Markov Chain Monte Carlo](https://ubc-vision.github.io/3dgs-mcmc/)
 * [2024-06-18, 16:45:45](https://news.ycombinator.com/item?id=40719782) - [Show HN: Billard – Generate music from ball collisions in 2D space](https://billard.medusis.com/)
 * [2024-06-17, 17:16:29](https://news.ycombinator.com/item?id=40708201) - [All Aquiver: The Decadent Movement](https://aeon.co/essays/the-danger-of-decadence-is-also-its-value-we-need-more-of-it)
 * [2024-06-17, 14:26:18](https://news.ycombinator.com/item?id=40705956) - [The enduring mystery of how water freezes](https://www.quantamagazine.org/the-enduring-mystery-of-how-water-freezes-20240617/)

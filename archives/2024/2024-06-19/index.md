@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-19](index.md)
 
+* [2024-06-19, 13:23:31](https://news.ycombinator.com/item?id=40728059) - [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/)
 * [2024-06-19, 12:00:49](https://news.ycombinator.com/item?id=40727427) - [Ribbon Health (YC S17) Is Hiring a Sales Eng Director for Enterprises](https://www.ribbonhealth.com/open-roles?gh_jid=5179134004)
 * [2024-06-19, 11:59:00](https://news.ycombinator.com/item?id=40727410) - [2.6M Piracy Reports Against French Users Resulted in 234 Financial Penalties](https://torrentfreak.com/2-6m-piracy-reports-against-french-users-resulted-in-234-financial-penalties-2240618/)
 * [2024-06-19, 10:57:22](https://news.ycombinator.com/item?id=40727022) - [Astronomers see a black hole awaken in real time](https://www.eso.org/public/germany/news/eso2409/)
