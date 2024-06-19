@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-19, 01:11:00",
+      "https://news.ycombinator.com/item?id=40723758"
+    ],
+    [
+      "Willie Mays, SF Giants legend and MLB all-time great, is dead",
+      "https://www.sfchronicle.com/sports/giants/article/willie-mays-dead-obituary-17815215.php"
+    ]
+  ],
+  [
+    [
       "2024-06-19, 00:23:20",
       "https://news.ycombinator.com/item?id=40723465"
     ],
@@ -21,12 +31,22 @@
   ],
   [
     [
-      "2024-06-18, 23:50:39",
-      "https://news.ycombinator.com/item?id=40723302"
+      "2024-06-18, 23:57:39",
+      "https://news.ycombinator.com/item?id=40723335"
     ],
     [
-      "Ask HN: Why do message queue-based architectures seem less popular now?",
-      "https://news.ycombinator.com/item?id=40723302"
+      "Reed–Solomon Codes for Coders",
+      "https://en.wikiversity.org/wiki/Reed%E2%80%93Solomon_codes_for_coders"
+    ]
+  ],
+  [
+    [
+      "2024-06-18, 23:42:48",
+      "https://news.ycombinator.com/item?id=40723251"
+    ],
+    [
+      "Large language model data pipelines and Common Crawl",
+      "https://blog.christianperone.com/2023/06/appreciating-llms-data-pipelines/"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "Off-path TCP hijacking in NAT-enabled Wi-Fi networks",
       "https://blog.apnic.net/2024/06/18/off-path-tcp-hijacking-in-nat-enabled-wi-fi-networks/"
-    ]
-  ],
-  [
-    [
-      "2024-06-18, 22:59:50",
-      "https://news.ycombinator.com/item?id=40722983"
-    ],
-    [
-      "Donating clothes is contributing to Africa's 'mitumba' problem",
-      "https://www.washingtonpost.com/opinions/2024/05/22/clothes-donations-africa-kenya-waste/"
     ]
   ],
   [
@@ -221,22 +231,12 @@
   ],
   [
     [
-      "2024-06-18, 08:08:02",
-      "https://news.ycombinator.com/item?id=40715250"
+      "2024-06-18, 07:15:37",
+      "https://news.ycombinator.com/item?id=40714950"
     ],
     [
-      "Cyber Scarecrow",
-      "https://www.cyberscarecrow.com/"
-    ]
-  ],
-  [
-    [
-      "2024-06-18, 07:28:18",
-      "https://news.ycombinator.com/item?id=40715018"
-    ],
-    [
-      "TikTag: Breaking ARM's memory tagging extension with speculative execution",
-      "https://arxiv.org/abs/2406.08719"
+      "Spur – RISC IV: The Lisp Multiprocessor Workstation",
+      "https://thechipletter.substack.com/p/spur-risc-iv-the-lisp-multiprocessor"
     ]
   ],
   [
