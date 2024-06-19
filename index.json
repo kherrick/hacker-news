@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2024-06-19, 17:21:38",
+      "https://news.ycombinator.com/item?id=40730309"
+    ],
+    [
+      "Finite Curve",
+      "https://www.finitecurve.com/"
+    ]
+  ],
+  [
+    [
       "2024-06-19, 17:16:18",
       "https://news.ycombinator.com/item?id=40730245"
     ],
@@ -287,16 +297,6 @@
     [
       "What happens to our breath when we type, tap, scroll",
       "https://www.npr.org/2024/06/10/1247296780/screen-apnea-why-screens-cause-shallow-breathing"
-    ]
-  ],
-  [
-    [
-      "2024-06-17, 11:57:50",
-      "https://news.ycombinator.com/item?id=40704688"
-    ],
-    [
-      "Logit Prisms: Decomposing Transformer Outputs for Mechanistic Interpretability",
-      "https://neuralblog.github.io/logit-prisms/"
     ]
   ]
 ]
