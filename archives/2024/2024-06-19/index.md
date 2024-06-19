@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-06-19](index.md)
 
+* [2024-06-19, 12:00:49](https://news.ycombinator.com/item?id=40727427) - [Ribbon Health (YC S17) Is Hiring a Sales Eng Director for Enterprises](https://www.ribbonhealth.com/open-roles?gh_jid=5179134004)
 * [2024-06-19, 10:57:22](https://news.ycombinator.com/item?id=40727022) - [Astronomers see a black hole awaken in real time](https://www.eso.org/public/germany/news/eso2409/)
 * [2024-06-19, 10:49:22](https://news.ycombinator.com/item?id=40726974) - [Neofetch developer archives all his repositories: \"Have taken up farming\"](https://github.com/dylanaraps)
 * [2024-06-19, 10:49:15](https://news.ycombinator.com/item?id=40726971) - [Boeing Sent Two Astronauts into Space. Now It Needs to Get Them Home](https://www.wsj.com/science/space-astronomy/boeing-sent-two-astronauts-into-space-now-it-needs-to-get-them-home-99d96633)
+* [2024-06-19, 10:29:15](https://news.ycombinator.com/item?id=40726855) - [Boeing CEO blasted by Senate: 'It's a travesty that you are still in your job'](https://www.cnbc.com/2024/06/18/boeing-ceo-dave-calhoun-senate-hearing.html)
 * [2024-06-19, 10:16:08](https://news.ycombinator.com/item?id=40726792) - [Beyond velocity and acceleration: jerk, snap and higher derivatives (2016)](https://iopscience.iop.org/article/10.1088/0143-0807/37/6/065008)
 * [2024-06-19, 09:51:55](https://news.ycombinator.com/item?id=40726648) - [Slack Combines ASTs with LLMs to Automatically Convert 80% of 15,000 Unit Tests](https://www.infoq.com/news/2024/06/slack-automatic-test-conversion/)
 * [2024-06-19, 09:15:34](https://news.ycombinator.com/item?id=40726426) - [Monitoring marine litter from space is now a reality](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Monitoring_marine_litter_from_space_is_now_a_reality)
