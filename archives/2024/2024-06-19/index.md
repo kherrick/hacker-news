@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-06-19](index.md)
 
+* [2024-06-19, 16:08:22](https://news.ycombinator.com/item?id=40729588) - [Almost half of Dell's full-time US workforce has rejected the company's RTO push](https://www.businessinsider.com/us-dell-workers-reject-return-to-office-hybrid-work-2024-6)
+* [2024-06-19, 16:01:30](https://news.ycombinator.com/item?id=40729535) - [Client-Side-Scanning: Chat Control Is Pure Surveillance State](https://netzpolitik.org/2024/client-side-scanning-chat-control-is-pure-surveillance-state/)
+* [2024-06-19, 15:57:28](https://news.ycombinator.com/item?id=40729501) - [Fast Crimes at Lambda School](https://www.sandofsky.com/lambda-school/)
+* [2024-06-19, 15:44:21](https://news.ycombinator.com/item?id=40729338) - [Campaigns Can Now See What You Watch on TV](https://www.notus.org/2024-election/streaming-tv-campaign-ads)
 * [2024-06-19, 15:11:40](https://news.ycombinator.com/item?id=40729035) - [Stonehenge Damaged by Protesters](https://www.nbcnews.com/news/world/stonehenge-climate-protesters-arrested-painting-monument-rcna157911)
 * [2024-06-19, 15:02:41](https://news.ycombinator.com/item?id=40728965) - [Even Apple cannot explain why we need AI in our lives](https://www.ft.com/content/1355ccd9-4a2d-49d2-9e42-250aab0c38aa)
 * [2024-06-19, 14:44:50](https://news.ycombinator.com/item?id=40728814) - [Arvind, longtime MIT professor and prolific computer scientist, dies at 77](https://news.mit.edu/2024/computer-science-professor-arvind-dies-0618)
