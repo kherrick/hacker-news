@@ -1,22 +1,22 @@
 [
   [
     [
+      "2024-06-19, 16:25:54",
+      "https://news.ycombinator.com/item?id=40729760"
+    ],
+    [
+      "Tomorrow, EU executive branches will vote on ChatControl",
+      "https://www.patrick-breyer.de/en/chat-control-politicians-industry-raise-alarm-over-eus-unprecedented-messenger-surveillance-plans/"
+    ]
+  ],
+  [
+    [
       "2024-06-19, 16:17:36",
       "https://news.ycombinator.com/item?id=40729673"
     ],
     [
       "Android 10 Smartphone and Termux: Booting Alpine Linux with QEMU 8.0.2 and 8.2.5",
       "https://gist.github.com/NoteAfterNote/7614b0137ac6959e3bba35df66eaa75a"
-    ]
-  ],
-  [
-    [
-      "2024-06-19, 16:16:53",
-      "https://news.ycombinator.com/item?id=40729670"
-    ],
-    [
-      "PS5 is finally integrating Discord into the console's UI",
-      "https://www.polygon.com/24177882/ps5-playstation5-discord-integration-how-to"
     ]
   ],
   [
@@ -31,31 +31,11 @@
   ],
   [
     [
-      "2024-06-19, 15:44:21",
-      "https://news.ycombinator.com/item?id=40729338"
-    ],
-    [
-      "Campaigns Can Now See What You Watch on TV",
-      "https://www.notus.org/2024-election/streaming-tv-campaign-ads"
-    ]
-  ],
-  [
-    [
-      "2024-06-19, 15:06:29",
-      "https://news.ycombinator.com/item?id=40728988"
-    ],
-    [
-      "Not all 'open source' AI models are open",
-      "https://www.nature.com/articles/d41586-024-02012-5"
-    ]
-  ],
-  [
-    [
       "2024-06-19, 14:44:50",
       "https://news.ycombinator.com/item?id=40728814"
     ],
     [
-      "Arvind Mithal has died",
+      "Arvind has died",
       "https://news.mit.edu/2024/computer-science-professor-arvind-dies-0618"
     ]
   ],
@@ -191,6 +171,16 @@
   ],
   [
     [
+      "2024-06-18, 23:42:48",
+      "https://news.ycombinator.com/item?id=40723251"
+    ],
+    [
+      "Large language model data pipelines and Common Crawl",
+      "https://blog.christianperone.com/2023/06/appreciating-llms-data-pipelines/"
+    ]
+  ],
+  [
+    [
       "2024-06-18, 23:38:40",
       "https://news.ycombinator.com/item?id=40723220"
     ],
@@ -237,6 +227,16 @@
     [
       "Refusal in language models is mediated by a single direction",
       "https://arxiv.org/abs/2406.11717"
+    ]
+  ],
+  [
+    [
+      "2024-06-18, 17:08:36",
+      "https://news.ycombinator.com/item?id=40719975"
+    ],
+    [
+      "3D Gaussian Splatting as Markov Chain Monte Carlo",
+      "https://ubc-vision.github.io/3dgs-mcmc/"
     ]
   ],
   [
