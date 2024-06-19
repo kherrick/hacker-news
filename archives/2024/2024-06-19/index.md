@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-19](index.md)
 
+* [2024-06-19, 21:14:24](https://news.ycombinator.com/item?id=40732444) - [OpenAI's former chief scientist is starting a new AI company](https://www.theverge.com/2024/6/19/24181870/openai-former-chief-scientist-ilya-sutskever-ssi-safe-superintelligence)
 * [2024-06-19, 21:09:45](https://news.ycombinator.com/item?id=40732400) - [Austria to 'Super-Speeders': We're Taking Your Car](https://www.bloomberg.com/news/articles/2024-06-19/austria-aims-to-curb-crashes-with-crackdown-on-super-speeders)
 * [2024-06-19, 21:00:05](https://news.ycombinator.com/item?id=40732320) - [Zep AI (YC W24) is hiring back end engineers to build LLM long-term memory](https://www.ycombinator.com/companies/zep-ai/jobs/J5TD9KW-backend-engineer)
 * [2024-06-19, 20:57:46](https://news.ycombinator.com/item?id=40732301) - [Louisiana Requires Ten Commandments to Be Displayed in Public-School Classrooms](https://www.wsj.com/us-news/education/louisiana-requires-ten-commandments-to-be-displayed-in-public-school-classrooms-f2e855b2)
