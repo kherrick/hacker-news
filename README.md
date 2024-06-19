@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-19, 15:11:40](https://news.ycombinator.com/item?id=40729035) - [Stonehenge Damaged by Protesters](https://www.nbcnews.com/news/world/stonehenge-climate-protesters-arrested-painting-monument-rcna157911)
 * [2024-06-19, 15:02:41](https://news.ycombinator.com/item?id=40728965) - [Even Apple cannot explain why we need AI in our lives](https://www.ft.com/content/1355ccd9-4a2d-49d2-9e42-250aab0c38aa)
 * [2024-06-19, 14:31:27](https://news.ycombinator.com/item?id=40728671) - [Mrs Perkins's Quilt (2017)](http://www.squaring.net/quilts/mrs-perkins-quilts.html)
 * [2024-06-19, 13:54:50](https://news.ycombinator.com/item?id=40728331) - [Can holographic optical storage displace Hard Disk Drives?](https://www.nature.com/articles/s44172-024-00225-0)
@@ -26,7 +27,6 @@
 * [2024-06-17, 17:16:29](https://news.ycombinator.com/item?id=40708201) - [All Aquiver: The Decadent Movement](https://aeon.co/essays/the-danger-of-decadence-is-also-its-value-we-need-more-of-it)
 * [2024-06-17, 14:26:18](https://news.ycombinator.com/item?id=40705956) - [The enduring mystery of how water freezes](https://www.quantamagazine.org/the-enduring-mystery-of-how-water-freezes-20240617/)
 * [2024-06-17, 11:57:50](https://news.ycombinator.com/item?id=40704688) - [Logit Prisms: Decomposing Transformer Outputs for Mechanistic Interpretability](https://neuralblog.github.io/logit-prisms/)
-* [2024-06-14, 21:44:33](https://news.ycombinator.com/item?id=40685427) - [Serialization for C# Games](https://chickensoft.games/blog/serialization-for-csharp-games/)
 * [2024-06-14, 17:56:16](https://news.ycombinator.com/item?id=40683130) - [Unraveling the Physics of Knitting](https://research.gatech.edu/unraveling-physics-knitting)
 * [2024-06-14, 09:40:26](https://news.ycombinator.com/item?id=40679184) - [Show HN: ESP32S3 ZXSpectrum](https://news.ycombinator.com/item?id=40679184)
 * [2024-06-14, 04:43:16](https://news.ycombinator.com/item?id=40677541) - [Using a 1965 Dutch Rotary Phone via VoIP (T65) in 2024](https://raymii.org/s/blog/Using_a_1965_Dutch_Rotaty_Phone_T65_via_VoIP_in_2024.html)

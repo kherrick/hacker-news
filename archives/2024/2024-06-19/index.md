@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-19](index.md)
 
+* [2024-06-19, 15:11:40](https://news.ycombinator.com/item?id=40729035) - [Stonehenge Damaged by Protesters](https://www.nbcnews.com/news/world/stonehenge-climate-protesters-arrested-painting-monument-rcna157911)
 * [2024-06-19, 15:02:41](https://news.ycombinator.com/item?id=40728965) - [Even Apple cannot explain why we need AI in our lives](https://www.ft.com/content/1355ccd9-4a2d-49d2-9e42-250aab0c38aa)
 * [2024-06-19, 14:37:54](https://news.ycombinator.com/item?id=40728732) - [Perplexity Is a Bullshit Machine](https://www.wired.com/story/perplexity-is-a-bullshit-machine/)
 * [2024-06-19, 14:31:27](https://news.ycombinator.com/item?id=40728671) - [Mrs Perkins's Quilt (2017)](http://www.squaring.net/quilts/mrs-perkins-quilts.html)
