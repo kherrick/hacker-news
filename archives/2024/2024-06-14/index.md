@@ -117,4 +117,5 @@
 * [2024-06-14, 00:36:21](https://news.ycombinator.com/item?id=40676408) - [Land value tax in online games and virtual worlds: A how-to guide](https://progressandpoverty.substack.com/p/land-value-tax-in-online-games-and)
 * [2024-06-14, 00:26:02](https://news.ycombinator.com/item?id=40676355) - [A common misunderstanding about wave-particle duality](https://www.chemistryworld.com/opinion/a-common-misunderstanding-about-wave-particle-duality/4019585.article)
 * [2024-06-14, 00:22:51](https://news.ycombinator.com/item?id=40676335) - [Freenet 2024 – a drop-in decentralized replacement for the web [video]](https://www.youtube.com/watch?v=enTAromEeHo)
+* [2024-06-14, 00:09:41](https://news.ycombinator.com/item?id=40676266) - [Detailed Data Analysis of Japan's J2 Football League](https://www.shogunsoccer.com/p/j2-2024-mid-season-review)
 * [2024-06-14, 00:04:51](https://news.ycombinator.com/item?id=40676239) - [Fungus breaks down ocean plastic](https://www.nioz.nl/en/news/fungus-breaks-down-ocean-plastic)
