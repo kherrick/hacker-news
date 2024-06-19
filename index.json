@@ -1,12 +1,32 @@
 [
   [
     [
-      "2024-06-19, 13:23:31",
-      "https://news.ycombinator.com/item?id=40728059"
+      "2024-06-19, 13:54:50",
+      "https://news.ycombinator.com/item?id=40728331"
     ],
     [
-      "Advanced Bash-Scripting Guide",
-      "https://tldp.org/LDP/abs/html/"
+      "Can holographic optical storage displace Hard Disk Drives?",
+      "https://www.nature.com/articles/s44172-024-00225-0"
+    ]
+  ],
+  [
+    [
+      "2024-06-19, 13:46:12",
+      "https://news.ycombinator.com/item?id=40728245"
+    ],
+    [
+      "Biocompatible electroluminescent device with enhanced luminance",
+      "https://www.nature.com/articles/s41528-024-00322-2"
+    ]
+  ],
+  [
+    [
+      "2024-06-19, 13:20:01",
+      "https://news.ycombinator.com/item?id=40728032"
+    ],
+    [
+      "Recovering an Agilent 2000A/3000A Oscilloscope with Corrupt Firmware NAND Flash",
+      "https://salvagedcircuitry.com/2000a-nand-recovery.html"
     ]
   ],
   [
@@ -17,16 +37,6 @@
     [
       "Ribbon Health (YC S17) Is Hiring a Sales Eng Director for Enterprises",
       "https://www.ribbonhealth.com/open-roles?gh_jid=5179134004"
-    ]
-  ],
-  [
-    [
-      "2024-06-19, 11:59:00",
-      "https://news.ycombinator.com/item?id=40727410"
-    ],
-    [
-      "2.6M Piracy Reports Against French Users Resulted in 234 Financial Penalties",
-      "https://torrentfreak.com/2-6m-piracy-reports-against-french-users-resulted-in-234-financial-penalties-2240618/"
     ]
   ],
   [
@@ -47,16 +57,6 @@
     [
       "Neofetch developer archives all his repositories: \"Have taken up farming\"",
       "https://github.com/dylanaraps"
-    ]
-  ],
-  [
-    [
-      "2024-06-19, 10:49:15",
-      "https://news.ycombinator.com/item?id=40726971"
-    ],
-    [
-      "Boeing sent two astronauts into space, now it needs to get them home",
-      "https://www.wsj.com/science/space-astronomy/boeing-sent-two-astronauts-into-space-now-it-needs-to-get-them-home-99d96633"
     ]
   ],
   [
@@ -101,26 +101,6 @@
   ],
   [
     [
-      "2024-06-19, 09:12:01",
-      "https://news.ycombinator.com/item?id=40726397"
-    ],
-    [
-      "Linux China, which supported the Chinese open source community, has ended",
-      "https://linux.cn/article-16602-1.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-19, 09:10:39",
-      "https://news.ycombinator.com/item?id=40726388"
-    ],
-    [
-      "Rethinking Open Source Generative AI: Open-Washing and the EU AI Act",
-      "https://opening-up-chatgpt.github.io/"
-    ]
-  ],
-  [
-    [
       "2024-06-19, 06:43:43",
       "https://news.ycombinator.com/item?id=40725517"
     ],
@@ -147,16 +127,6 @@
     [
       "Fern Hollow Bridge should have been closed years before it collapsed",
       "https://practical.engineering/blog/2024/6/18/this-bridge-should-have-been-closed-years-before-it-collapsed"
-    ]
-  ],
-  [
-    [
-      "2024-06-19, 03:55:21",
-      "https://news.ycombinator.com/item?id=40724638"
-    ],
-    [
-      "One year of solo dev, wrapping up the grant-funded work",
-      "https://www.marginalia.nu/log/a_107_nlnext/"
     ]
   ],
   [
@@ -221,12 +191,42 @@
   ],
   [
     [
+      "2024-06-18, 17:09:26",
+      "https://news.ycombinator.com/item?id=40719981"
+    ],
+    [
+      "Refusal in language models is mediated by a single direction",
+      "https://arxiv.org/abs/2406.11717"
+    ]
+  ],
+  [
+    [
+      "2024-06-18, 17:08:36",
+      "https://news.ycombinator.com/item?id=40719975"
+    ],
+    [
+      "3D Gaussian Splatting as Markov Chain Monte Carlo",
+      "https://ubc-vision.github.io/3dgs-mcmc/"
+    ]
+  ],
+  [
+    [
       "2024-06-18, 16:45:45",
       "https://news.ycombinator.com/item?id=40719782"
     ],
     [
       "Show HN: Billard – Generate music from ball collisions in 2D space",
       "https://billard.medusis.com/"
+    ]
+  ],
+  [
+    [
+      "2024-06-18, 13:45:07",
+      "https://news.ycombinator.com/item?id=40717804"
+    ],
+    [
+      "Tiny beauty: how I make scientific art from behind the microscope",
+      "https://www.nature.com/immersive/d41586-024-02011-6/index.html"
     ]
   ],
   [
@@ -261,6 +261,16 @@
   ],
   [
     [
+      "2024-06-14, 21:44:33",
+      "https://news.ycombinator.com/item?id=40685427"
+    ],
+    [
+      "Serialization for C# Games",
+      "https://chickensoft.games/blog/serialization-for-csharp-games/"
+    ]
+  ],
+  [
+    [
       "2024-06-14, 17:56:16",
       "https://news.ycombinator.com/item?id=40683130"
     ],
@@ -277,16 +287,6 @@
     [
       "Show HN: ESP32S3 ZXSpectrum",
       "https://news.ycombinator.com/item?id=40679184"
-    ]
-  ],
-  [
-    [
-      "2024-06-14, 05:05:31",
-      "https://news.ycombinator.com/item?id=40677630"
-    ],
-    [
-      "Rare twin elephants born in Thailand",
-      "https://www.bbc.com/news/articles/c8445lyjndvo"
     ]
   ],
   [
