@@ -26,6 +26,7 @@
 * [2024-06-14, 18:51:58](https://news.ycombinator.com/item?id=40683747) - [Is This the First Nintendo Commercial?](https://gamehistory.org/mego-time-out-commercial/)
 * [2024-06-14, 18:47:34](https://news.ycombinator.com/item?id=40683697) - [AI Search: The Bitter-Er Lesson](https://yellow-apartment-148.notion.site/AI-Search-The-Bitter-er-Lesson-44c11acd27294f4495c3de778cd09c8d)
 * [2024-06-14, 18:33:40](https://news.ycombinator.com/item?id=40683564) - [Show HN: SHAllenge – Compete to get the lowest hash](https://shallenge.quirino.net/)
+* [2024-06-14, 18:30:27](https://news.ycombinator.com/item?id=40683523) - [A market mystery: Why do capers come in such tiny jars?](https://www.cnn.com/2024/03/23/business/curious-consumer-capers-tiny-jars/index.html)
 * [2024-06-14, 18:25:07](https://news.ycombinator.com/item?id=40683458) - [Sidebar Is Taking a Break](https://sidebar.io/break/)
 * [2024-06-14, 18:13:29](https://news.ycombinator.com/item?id=40683317) - [Mimicking an Elephant Trunk](https://physics.aps.org/articles/v17/98)
 * [2024-06-14, 18:03:19](https://news.ycombinator.com/item?id=40683212) - [Nemotron-4 340B](https://research.nvidia.com/publication/2024-06_nemotron-4-340b)
