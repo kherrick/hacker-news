@@ -68,6 +68,7 @@
 * [2024-06-18, 13:45:07](https://news.ycombinator.com/item?id=40717804) - [Tiny beauty: how I make scientific art from behind the microscope](https://www.nature.com/immersive/d41586-024-02011-6/index.html)
 * [2024-06-18, 13:42:55](https://news.ycombinator.com/item?id=40717775) - [Longer and Longer Freight Trains Drive Up the Odds of Derailment](https://www.scientificamerican.com/article/longer-freight-trains-are-more-likely-to-derail/)
 * [2024-06-18, 13:37:04](https://news.ycombinator.com/item?id=40717721) - [A New Look: Solar Plant Prospection with Automated Viewshed Analysis](https://www.go-inicio.com/blog/a-new-look-revolutionizing-solar-plant-prospection-with-automated-viewshed-analysis)
+* [2024-06-18, 13:35:58](https://news.ycombinator.com/item?id=40717706) - [Vannevar Bush Engineered the 20th Century](https://spectrum.ieee.org/vannevar-bush)
 * [2024-06-18, 13:19:34](https://news.ycombinator.com/item?id=40717519) - [Visualizing Data on a Mesh with Displacement Mapping in R](https://www.tylermw.com/posts/rayverse/displacement-mapping.html)
 * [2024-06-18, 13:19:29](https://news.ycombinator.com/item?id=40717516) - [Hard to change people's opinions, but easier to nudge them, research suggests](https://www.nature.com/articles/d41586-024-01696-z)
 * [2024-06-18, 13:12:53](https://news.ycombinator.com/item?id=40717448) - [Grief is not a process with five stages. It is shattered glass](https://psyche.co/ideas/grief-is-not-a-process-with-five-stages-it-is-shattered-glass)
