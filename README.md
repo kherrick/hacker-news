@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-19, 22:02:53](https://news.ycombinator.com/item?id=40732899) - [CISA Advisory on Motorola Solutions ALPR Vulnerabilities](https://www.cisa.gov/news-events/ics-advisories/icsa-24-165-19)
 * [2024-06-19, 21:20:03](https://news.ycombinator.com/item?id=40732490) - [Unique3D: Image-to-3D Generation from a Single Image in 30 seconds](https://github.com/AiuniAI/Unique3D)
 * [2024-06-19, 21:00:05](https://news.ycombinator.com/item?id=40732320) - [Zep AI (YC W24) is hiring back end engineers to build LLM long-term memory](https://www.ycombinator.com/companies/zep-ai/jobs/J5TD9KW-backend-engineer)
 * [2024-06-19, 20:39:40](https://news.ycombinator.com/item?id=40732161) - [The the the the induction of jamais vu: word alienation and semantic satiation](https://www.tandfonline.com/doi/full/10.1080/09658211.2020.1727519)
 * [2024-06-19, 20:09:38](https://news.ycombinator.com/item?id=40731922) - [X debut 40 years ago (1984)](https://www.talisman.org/x-debut.shtml)
 * [2024-06-19, 18:59:40](https://news.ycombinator.com/item?id=40731360) - [EasyOS: An Experimental Linux Distribution](https://easyos.org/)
+* [2024-06-19, 17:21:38](https://news.ycombinator.com/item?id=40730309) - [Finite Curve](https://www.finitecurve.com/)
 * [2024-06-19, 17:16:18](https://news.ycombinator.com/item?id=40730245) - [Show HN: Modular Pi Cam](https://github.com/jdc-cunningham/modular-pi-cam/tree/master/cameras/pi-zero/large-display)
 * [2024-06-19, 17:14:13](https://news.ycombinator.com/item?id=40730228) - [F (2006)](http://www.nsl.com/k/f/f.htm)
 * [2024-06-19, 17:06:16](https://news.ycombinator.com/item?id=40730156) - [Safe Superintelligence Inc.](https://ssi.inc)
@@ -24,12 +24,12 @@
 * [2024-06-19, 09:15:34](https://news.ycombinator.com/item?id=40726426) - [Monitoring marine litter from space](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Monitoring_marine_litter_from_space_is_now_a_reality)
 * [2024-06-19, 06:32:01](https://news.ycombinator.com/item?id=40725451) - [ExectOS – brand new operating system which derives from NT architecture](https://exectos.eu.org/)
 * [2024-06-18, 23:38:40](https://news.ycombinator.com/item?id=40723220) - [KidPix](https://kidpix.app)
-* [2024-06-18, 22:59:54](https://news.ycombinator.com/item?id=40722988) - [The growing pains of science](https://www.theguardian.com/science/political-science/2016/jun/08/how-should-we-treat-sciences-growing-pains)
 * [2024-06-18, 15:26:38](https://news.ycombinator.com/item?id=40718908) - [When are SSDs slow?](https://cedardb.com/blog/ssd_latency/)
 * [2024-06-18, 13:35:58](https://news.ycombinator.com/item?id=40717706) - [Vannevar Bush Engineered the 20th Century](https://spectrum.ieee.org/vannevar-bush)
 * [2024-06-18, 13:08:15](https://news.ycombinator.com/item?id=40717398) - [Show HN: Radius – A Meetup.com alternative](https://www.radius.to)
 * [2024-06-18, 03:49:27](https://news.ycombinator.com/item?id=40713893) - [Brain circuit scores identify clinically distinct biotypes in depression/anxiety](https://www.nature.com/articles/s41591-024-03057-9)
 * [2024-06-17, 23:23:09](https://news.ycombinator.com/item?id=40712359) - [What happens to our breath when we type, tap, scroll](https://www.npr.org/2024/06/10/1247296780/screen-apnea-why-screens-cause-shallow-breathing)
+* [2024-06-17, 11:57:50](https://news.ycombinator.com/item?id=40704688) - [Logit Prisms: Decomposing Transformer Outputs for Mechanistic Interpretability](https://neuralblog.github.io/logit-prisms/)
 
 ## [Archives](archives/index.md)
 
