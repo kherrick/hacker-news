@@ -81,6 +81,7 @@
 * [2024-06-14, 12:11:28](https://news.ycombinator.com/item?id=40680107) - [Map of Forest Sounds from Around the World](https://timberfestival.org.uk/soundsoftheforest-soundmap/)
 * [2024-06-14, 12:01:08](https://news.ycombinator.com/item?id=40680018) - [Santé (YC S23) Is Hiring](https://www.ycombinator.com/companies/sante/jobs/Xw3ujU8-technical-account-manager)
 * [2024-06-14, 11:37:28](https://news.ycombinator.com/item?id=40679809) - [POSIX.1-2024 is published](https://ieeexplore.ieee.org/document/10555529)
+* [2024-06-14, 11:34:27](https://news.ycombinator.com/item?id=40679788) - [A Boy Who Was King of Vanilla](https://worldsensorium.com/the-boy-who-was-king-of-vanilla/)
 * [2024-06-14, 11:26:01](https://news.ycombinator.com/item?id=40679742) - [The Surprising Brain-Health Benefits of Weightlifting](https://www.psychologytoday.com/us/blog/the-modern-brain/202402/the-surprising-benefits-of-weightlifting-for-brain-health)
 * [2024-06-14, 11:17:24](https://news.ycombinator.com/item?id=40679696) - [First RISC-V laptop with Ubuntu preloaded touts AI and 8-core chip](https://www.theregister.com/2024/06/13/riscv_laptop_ubuntu/)
 * [2024-06-14, 11:16:09](https://news.ycombinator.com/item?id=40679689) - [Android Drivers - News and updates from the Project Zero team at Google](https://googleprojectzero.blogspot.com/2024/06/driving-forward-in-android-drivers.html)
