@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-19](index.md)
 
+* [2024-06-19, 14:37:54](https://news.ycombinator.com/item?id=40728732) - [Perplexity Is a Bullshit Machine](https://www.wired.com/story/perplexity-is-a-bullshit-machine/)
+* [2024-06-19, 14:31:27](https://news.ycombinator.com/item?id=40728671) - [Mrs Perkins's Quilt (2017)](http://www.squaring.net/quilts/mrs-perkins-quilts.html)
 * [2024-06-19, 14:25:06](https://news.ycombinator.com/item?id=40728625) - [9p filesystem has been added to FreeBSD](https://cgit.freebsd.org/src/commit/?id=e97ad33a89a78f55280b0485b3249ee9b907a718)
 * [2024-06-19, 13:54:50](https://news.ycombinator.com/item?id=40728331) - [Can holographic optical storage displace Hard Disk Drives?](https://www.nature.com/articles/s44172-024-00225-0)
 * [2024-06-19, 13:46:12](https://news.ycombinator.com/item?id=40728245) - [Biocompatible electroluminescent device with enhanced luminance](https://www.nature.com/articles/s41528-024-00322-2)
