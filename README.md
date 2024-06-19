@@ -15,7 +15,6 @@
 * [2024-06-19, 13:20:01](https://news.ycombinator.com/item?id=40728032) - [Agilent 2000a / 3000a Oscilloscope NAND Recovery](https://salvagedcircuitry.com/2000a-nand-recovery.html)
 * [2024-06-19, 10:57:22](https://news.ycombinator.com/item?id=40727022) - [Astronomers see a black hole awaken in real time](https://www.eso.org/public/germany/news/eso2409/)
 * [2024-06-19, 10:16:08](https://news.ycombinator.com/item?id=40726792) - [Beyond velocity and acceleration: jerk, snap and higher derivatives (2016)](https://iopscience.iop.org/article/10.1088/0143-0807/37/6/065008)
-* [2024-06-19, 09:51:55](https://news.ycombinator.com/item?id=40726648) - [AI-Powered Conversion From Enzyme to React Testing Library](https://slack.engineering/balancing-old-tricks-with-new-feats-ai-powered-conversion-from-enzyme-to-react-testing-library-at-slack/)
 * [2024-06-19, 09:51:05](https://news.ycombinator.com/item?id=40726641) - [There's more to mathematics than rigour and proofs (2007)](https://terrytao.wordpress.com/career-advice/theres-more-to-mathematics-than-rigour-and-proofs/)
 * [2024-06-19, 09:36:24](https://news.ycombinator.com/item?id=40726555) - [Ask HN: What does RISC-V custom chips for under $100K mean?](https://news.ycombinator.com/item?id=40726555)
 * [2024-06-19, 09:15:34](https://news.ycombinator.com/item?id=40726426) - [Monitoring marine litter from space is now a reality](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Monitoring_marine_litter_from_space_is_now_a_reality)
@@ -29,6 +28,7 @@
 * [2024-06-17, 14:26:18](https://news.ycombinator.com/item?id=40705956) - [The enduring mystery of how water freezes](https://www.quantamagazine.org/the-enduring-mystery-of-how-water-freezes-20240617/)
 * [2024-06-17, 11:57:50](https://news.ycombinator.com/item?id=40704688) - [Logit Prisms: Decomposing Transformer Outputs for Mechanistic Interpretability](https://neuralblog.github.io/logit-prisms/)
 * [2024-06-14, 17:56:16](https://news.ycombinator.com/item?id=40683130) - [Unraveling the physics of knitting](https://research.gatech.edu/unraveling-physics-knitting)
+* [2024-06-14, 11:54:23](https://news.ycombinator.com/item?id=40679957) - [Inner core backtracking by seismic waveform change reversals](https://www.nature.com/articles/s41586-024-07536-4)
 * [2024-06-14, 09:40:26](https://news.ycombinator.com/item?id=40679184) - [Show HN: ESP32S3 ZXSpectrum](https://news.ycombinator.com/item?id=40679184)
 
 ## [Archives](archives/index.md)

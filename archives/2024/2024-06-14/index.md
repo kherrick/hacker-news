@@ -81,6 +81,7 @@
 * [2024-06-14, 12:24:06](https://news.ycombinator.com/item?id=40680218) - [I Found a 55 Year Old Bug in the First Lunar Lander Game](https://martincmartin.com/2024/06/14/how-i-found-a-55-year-old-bug-in-the-first-lunar-lander-game/)
 * [2024-06-14, 12:11:28](https://news.ycombinator.com/item?id=40680107) - [Map of Forest Sounds from Around the World](https://timberfestival.org.uk/soundsoftheforest-soundmap/)
 * [2024-06-14, 12:01:08](https://news.ycombinator.com/item?id=40680018) - [Santé (YC S23) Is Hiring](https://www.ycombinator.com/companies/sante/jobs/Xw3ujU8-technical-account-manager)
+* [2024-06-14, 11:54:23](https://news.ycombinator.com/item?id=40679957) - [Inner core backtracking by seismic waveform change reversals](https://www.nature.com/articles/s41586-024-07536-4)
 * [2024-06-14, 11:37:28](https://news.ycombinator.com/item?id=40679809) - [POSIX.1-2024 is published](https://ieeexplore.ieee.org/document/10555529)
 * [2024-06-14, 11:34:27](https://news.ycombinator.com/item?id=40679788) - [A Boy Who Was King of Vanilla](https://worldsensorium.com/the-boy-who-was-king-of-vanilla/)
 * [2024-06-14, 11:26:01](https://news.ycombinator.com/item?id=40679742) - [The Surprising Brain-Health Benefits of Weightlifting](https://www.psychologytoday.com/us/blog/the-modern-brain/202402/the-surprising-benefits-of-weightlifting-for-brain-health)
