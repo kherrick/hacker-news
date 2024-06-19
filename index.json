@@ -21,12 +21,12 @@
   ],
   [
     [
-      "2024-06-19, 00:23:20",
-      "https://news.ycombinator.com/item?id=40723465"
+      "2024-06-19, 00:12:20",
+      "https://news.ycombinator.com/item?id=40723411"
     ],
     [
-      "California Moves to Modify Law Letting Workers Sue Employers",
-      "https://www.nytimes.com/2024/06/18/business/economy/california-newsom-labor.html"
+      "One in four US households likely exceed new soil lead guidance levels",
+      "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GH001045"
     ]
   ],
   [
@@ -47,6 +47,16 @@
     [
       "Reed–Solomon Codes for Coders",
       "https://en.wikiversity.org/wiki/Reed%E2%80%93Solomon_codes_for_coders"
+    ]
+  ],
+  [
+    [
+      "2024-06-18, 23:50:39",
+      "https://news.ycombinator.com/item?id=40723302"
+    ],
+    [
+      "Ask HN: Why do message queue-based architectures seem less popular now?",
+      "https://news.ycombinator.com/item?id=40723302"
     ]
   ],
   [
@@ -117,36 +127,6 @@
     [
       "Hadrius (YC W23) is hiring engineers looking to grow into future founders",
       "https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer"
-    ]
-  ],
-  [
-    [
-      "2024-06-18, 20:59:37",
-      "https://news.ycombinator.com/item?id=40722155"
-    ],
-    [
-      "Amazon fined $5.9M for breaking labor law in California",
-      "https://www.washingtonpost.com/technology/2024/06/18/amazon-fine-labor-law-california/"
-    ]
-  ],
-  [
-    [
-      "2024-06-18, 20:21:25",
-      "https://news.ycombinator.com/item?id=40721829"
-    ],
-    [
-      "A Sense of Rebellion — A Podcast Series by Evgeny Morozov",
-      "https://www.sense-of-rebellion.com/"
-    ]
-  ],
-  [
-    [
-      "2024-06-18, 19:59:31",
-      "https://news.ycombinator.com/item?id=40721623"
-    ],
-    [
-      "Versioning FreeCAD Files with Git (2021)",
-      "https://blog.lambda.cx/posts/freecad-and-git/"
     ]
   ],
   [
@@ -251,12 +231,42 @@
   ],
   [
     [
+      "2024-06-17, 07:15:16",
+      "https://news.ycombinator.com/item?id=40703027"
+    ],
+    [
+      "Is seat-based pricing dead?",
+      "https://cloudedjudgement.substack.com/p/clouded-judgement-61424-is-seat-based"
+    ]
+  ],
+  [
+    [
+      "2024-06-17, 06:42:12",
+      "https://news.ycombinator.com/item?id=40702895"
+    ],
+    [
+      "'Equals' has more than one meaning in math",
+      "https://www.sciencealert.com/mathematician-reveals-equals-has-more-than-one-meaning-in-math"
+    ]
+  ],
+  [
+    [
       "2024-06-14, 21:44:33",
       "https://news.ycombinator.com/item?id=40685427"
     ],
     [
       "Serialization for C# Games",
       "https://chickensoft.games/blog/serialization-for-csharp-games/"
+    ]
+  ],
+  [
+    [
+      "2024-06-14, 19:02:09",
+      "https://news.ycombinator.com/item?id=40683862"
+    ],
+    [
+      "In Praise of 5-Over-1 Buildings (2019)",
+      "https://commonedge.org/in-praise-of-5-over-1-buildings/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Does anybody know this fractal? (2012)",
       "https://www.gibney.org/does_anybody_know_this_fractal"
-    ]
-  ],
-  [
-    [
-      "2024-06-13, 19:12:08",
-      "https://news.ycombinator.com/item?id=40673402"
-    ],
-    [
-      "Enhancing Code Completion for Rust in Cody",
-      "https://sourcegraph.com/blog/enhancing-code-completion-for-rust-in-cody"
     ]
   ]
 ]
