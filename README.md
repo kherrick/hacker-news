@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-19, 20:09:38](https://news.ycombinator.com/item?id=40731922) - [X debut 40 years ago (1984)](https://www.talisman.org/x-debut.shtml)
 * [2024-06-19, 18:59:40](https://news.ycombinator.com/item?id=40731360) - [EasyOS: An Experimental Linux Distribution](https://easyos.org/)
-* [2024-06-19, 18:51:53](https://news.ycombinator.com/item?id=40731274) - [Discovery of new white blood cell function](https://www.cam.ac.uk/research/news/discovery-of-new-rules-of-the-immune-system-could-improve-treatment-of-inflammatory-diseases-say)
 * [2024-06-19, 17:35:48](https://news.ycombinator.com/item?id=40730494) - [Stages of Argument (2000)](http://legacy.earlham.edu/~peters/courses/argstages.htm)
 * [2024-06-19, 17:16:18](https://news.ycombinator.com/item?id=40730245) - [Show HN: Modular Pi Cam](https://github.com/jdc-cunningham/modular-pi-cam/tree/master/cameras/pi-zero/large-display)
 * [2024-06-19, 17:14:13](https://news.ycombinator.com/item?id=40730228) - [F (2006)](http://www.nsl.com/k/f/f.htm)
