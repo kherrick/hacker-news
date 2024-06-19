@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-19, 08:05:15](https://news.ycombinator.com/item?id=40725983) - [EU to Greenlight Chat Scanning Proposal](https://www.patrick-breyer.de/en/posts/chat-control/)
+* [2024-06-19, 07:36:25](https://news.ycombinator.com/item?id=40725826) - [New UNESCO report warns that Generative AI threatens Holocaust memory](https://www.unesco.org/en/articles/new-unesco-report-warns-generative-ai-threatens-holocaust-memory)
 * [2024-06-19, 06:43:43](https://news.ycombinator.com/item?id=40725517) - [Show HN: Pomoglorbo, a TUI Pomodoro timer for your terminal](https://codeberg.org/justusw/Pomoglorbo)
 * [2024-06-19, 06:32:01](https://news.ycombinator.com/item?id=40725451) - [ExectOS – brand new operating system which derives from NT architecture](https://exectos.eu.org/)
 * [2024-06-19, 05:45:53](https://news.ycombinator.com/item?id=40725214) - [Fern Hollow Bridge should have been closed years before it collapsed](https://practical.engineering/blog/2024/6/18/this-bridge-should-have-been-closed-years-before-it-collapsed)
@@ -23,7 +24,6 @@
 * [2024-06-17, 06:42:12](https://news.ycombinator.com/item?id=40702895) - ['Equals' has more than one meaning in math](https://www.sciencealert.com/mathematician-reveals-equals-has-more-than-one-meaning-in-math)
 * [2024-06-14, 21:44:33](https://news.ycombinator.com/item?id=40685427) - [Serialization for C# Games](https://chickensoft.games/blog/serialization-for-csharp-games/)
 * [2024-06-14, 19:02:09](https://news.ycombinator.com/item?id=40683862) - [In Praise of 5-Over-1 Buildings (2019)](https://commonedge.org/in-praise-of-5-over-1-buildings/)
-* [2024-06-14, 18:30:27](https://news.ycombinator.com/item?id=40683523) - [A market mystery: Why do capers come in such tiny jars?](https://www.cnn.com/2024/03/23/business/curious-consumer-capers-tiny-jars/index.html)
 * [2024-06-14, 17:11:46](https://news.ycombinator.com/item?id=40682632) - [Ask HN: How do you find developers for open source bug bounties?](https://news.ycombinator.com/item?id=40682632)
 * [2024-06-14, 16:26:48](https://news.ycombinator.com/item?id=40682212) - [Erica Synths DIY Prototyping Breadboard](https://cdm.link/2024/06/labor-diy/)
 * [2024-06-14, 16:03:29](https://news.ycombinator.com/item?id=40682013) - [Agrippa (A Book of the Dead)](https://www.filfre.net/2018/09/agrippa-a-book-of-the-dead/)
