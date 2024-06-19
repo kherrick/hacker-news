@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-19](index.md)
 
+* [2024-06-19, 20:39:40](https://news.ycombinator.com/item?id=40732161) - [Semantic Satiation – Repeated Exposure Causes Words to Lose Meaning](https://www.tandfonline.com/doi/full/10.1080/09658211.2020.1727519)
 * [2024-06-19, 20:09:38](https://news.ycombinator.com/item?id=40731922) - [X debut 40 years ago (1984)](https://www.talisman.org/x-debut.shtml)
+* [2024-06-19, 20:01:41](https://news.ycombinator.com/item?id=40731859) - [BBCode](https://en.wikipedia.org/wiki/BBCode)
 * [2024-06-19, 19:35:38](https://news.ycombinator.com/item?id=40731673) - [My personal reasons to not run my Nginx reverse-proxy inside Docker](https://ewaldbenes.com/blog/my-personal-reasons-to-not-run-my-nginx-reverse-proxy-inside-docker)
 * [2024-06-19, 18:59:40](https://news.ycombinator.com/item?id=40731360) - [EasyOS: An Experimental Linux Distribution](https://easyos.org/)
 * [2024-06-19, 18:51:53](https://news.ycombinator.com/item?id=40731274) - [Discovery of new white blood cell function](https://www.cam.ac.uk/research/news/discovery-of-new-rules-of-the-immune-system-could-improve-treatment-of-inflammatory-diseases-say)
