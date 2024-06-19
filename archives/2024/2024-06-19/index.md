@@ -13,6 +13,7 @@
 * [2024-06-19, 05:18:53](https://news.ycombinator.com/item?id=40725096) - [I'm the hacker that brought down North Korea's Internet for over a week. AMA](https://old.reddit.com/r/IAmA/comments/1divlp3/im_the_hacker_that_brought_down_north_koreas/)
 * [2024-06-19, 04:20:14](https://news.ycombinator.com/item?id=40724774) - [Ask HN: Who has had a successful PWA product?](https://news.ycombinator.com/item?id=40724774)
 * [2024-06-19, 04:01:47](https://news.ycombinator.com/item?id=40724667) - [Satellites like Starlink could deplete Earth's ozone layer, study says](https://www.independent.co.uk/space/elon-musk-starlink-satellite-internet-b2564344.html)
+* [2024-06-19, 03:55:21](https://news.ycombinator.com/item?id=40724638) - [One year of solo dev, wrapping up the grant-funded work](https://www.marginalia.nu/log/a_107_nlnext/)
 * [2024-06-19, 03:18:46](https://news.ycombinator.com/item?id=40724417) - [MacBook Air gets hosed in macOS 15 as Intel support fades](https://arstechnica.com/gadgets/2024/06/the-case-for-and-against-macos-15-sequoia-being-the-final-release-for-intel-macs/)
 * [2024-06-19, 02:50:32](https://news.ycombinator.com/item?id=40724283) - [Google Gemini tried to kill me](https://old.reddit.com/r/ChatGPT/comments/1diljf2/google_gemini_tried_to_kill_me/)
 * [2024-06-19, 02:35:36](https://news.ycombinator.com/item?id=40724201) - [U.S. Senate passes bill to support advanced nuclear energy deployment](https://www.reuters.com/business/energy/us-senate-passes-bill-support-advanced-nuclear-energy-deployment-2024-06-19/)
