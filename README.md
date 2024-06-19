@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-19, 02:35:36](https://news.ycombinator.com/item?id=40724201) - [U.S. Senate passes bill to support advanced nuclear energy deployment](https://www.reuters.com/business/energy/us-senate-passes-bill-support-advanced-nuclear-energy-deployment-2024-06-19/)
 * [2024-06-19, 01:11:00](https://news.ycombinator.com/item?id=40723758) - [Willie Mays, SF Giants legend and MLB all-time great, is dead](https://www.sfchronicle.com/sports/giants/article/willie-mays-dead-obituary-17815215.php)
 * [2024-06-19, 00:23:20](https://news.ycombinator.com/item?id=40723465) - [California Moves to Modify Law Letting Workers Sue Employers](https://www.nytimes.com/2024/06/18/business/economy/california-newsom-labor.html)
 * [2024-06-19, 00:02:23](https://news.ycombinator.com/item?id=40723356) - [Open Source Python ETL](https://amphi.ai/)
@@ -23,7 +24,6 @@
 * [2024-06-18, 14:15:16](https://news.ycombinator.com/item?id=40718124) - [A new RISC-V Mainboard from DeepComputing](https://frame.work/blog/introducing-a-new-risc-v-mainboard-from-deepcomputing)
 * [2024-06-18, 13:45:07](https://news.ycombinator.com/item?id=40717804) - [Tiny beauty: how I make scientific art from behind the microscope](https://www.nature.com/immersive/d41586-024-02011-6/index.html)
 * [2024-06-18, 13:19:34](https://news.ycombinator.com/item?id=40717519) - [Sculpting the moon in R: Subdivision surfaces and displacement mapping](https://www.tylermw.com/posts/rayverse/displacement-mapping.html)
-* [2024-06-18, 07:15:37](https://news.ycombinator.com/item?id=40714950) - [Spur – RISC IV: The Lisp Multiprocessor Workstation](https://thechipletter.substack.com/p/spur-risc-iv-the-lisp-multiprocessor)
 * [2024-06-17, 14:26:18](https://news.ycombinator.com/item?id=40705956) - [The enduring mystery of how water freezes](https://www.quantamagazine.org/the-enduring-mystery-of-how-water-freezes-20240617/)
 * [2024-06-14, 21:44:33](https://news.ycombinator.com/item?id=40685427) - [Serialization for C# Games](https://chickensoft.games/blog/serialization-for-csharp-games/)
 * [2024-06-14, 17:11:46](https://news.ycombinator.com/item?id=40682632) - [Ask HN: How do you find developers for open source bug bounties?](https://news.ycombinator.com/item?id=40682632)
