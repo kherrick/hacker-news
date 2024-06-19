@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-06-19](index.md)
 
+* [2024-06-19, 17:14:13](https://news.ycombinator.com/item?id=40730228) - [F](http://www.nsl.com/k/f/f.htm)
+* [2024-06-19, 17:06:16](https://news.ycombinator.com/item?id=40730156) - [Ilya Sutskever starts Safe Superintelligence Inc](https://ssi.inc)
+* [2024-06-19, 17:02:59](https://news.ycombinator.com/item?id=40730132) - [Safe Superintelligence Inc. – Ilya Sutskever](https://twitter.com/ssi/status/1803472825476587910)
+* [2024-06-19, 17:01:12](https://news.ycombinator.com/item?id=40730117) - [Blacksmith (YC W24) is hiring a front end engineer to improve GitHub Actions](https://www.ycombinator.com/companies/blacksmith/jobs/SgZiNoi-founding-engineer-frontend)
 * [2024-06-19, 16:30:14](https://news.ycombinator.com/item?id=40729809) - [The Return of Pneumatic Tubes](https://www.technologyreview.com/2024/06/19/1093446/pneumatic-tubes-hospitals/)
 * [2024-06-19, 16:25:54](https://news.ycombinator.com/item?id=40729760) - [Tomorrow, EU executive branches will vote on ChatControl](https://www.patrick-breyer.de/en/chat-control-politicians-industry-raise-alarm-over-eus-unprecedented-messenger-surveillance-plans/)
 * [2024-06-19, 16:17:36](https://news.ycombinator.com/item?id=40729673) - [Android 10 Smartphone and Termux: Booting Alpine Linux with QEMU 8.0.2 and 8.2.5](https://gist.github.com/NoteAfterNote/7614b0137ac6959e3bba35df66eaa75a)
+* [2024-06-19, 16:17:01](https://news.ycombinator.com/item?id=40729671) - [The Demise of the Mildly Dynamic Website (2022)](https://www.devever.net/~hl/mildlydynamic)
 * [2024-06-19, 16:16:53](https://news.ycombinator.com/item?id=40729670) - [PS5 is finally integrating Discord into the console's UI](https://www.polygon.com/24177882/ps5-playstation5-discord-integration-how-to)
 * [2024-06-19, 16:08:22](https://news.ycombinator.com/item?id=40729588) - [Almost half of Dell's full-time US workforce has rejected the company's RTO push](https://www.businessinsider.com/us-dell-workers-reject-return-to-office-hybrid-work-2024-6)
 * [2024-06-19, 16:01:30](https://news.ycombinator.com/item?id=40729535) - [Client-Side-Scanning: Chat Control Is Pure Surveillance State](https://netzpolitik.org/2024/client-side-scanning-chat-control-is-pure-surveillance-state/)
