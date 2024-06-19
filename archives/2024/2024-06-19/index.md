@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-19](index.md)
 
+* [2024-06-19, 16:25:54](https://news.ycombinator.com/item?id=40729760) - [Tomorrow, EU executive branches will vote on ChatControl](https://www.patrick-breyer.de/en/chat-control-politicians-industry-raise-alarm-over-eus-unprecedented-messenger-surveillance-plans/)
 * [2024-06-19, 16:17:36](https://news.ycombinator.com/item?id=40729673) - [Android 10 Smartphone and Termux: Booting Alpine Linux with QEMU 8.0.2 and 8.2.5](https://gist.github.com/NoteAfterNote/7614b0137ac6959e3bba35df66eaa75a)
 * [2024-06-19, 16:16:53](https://news.ycombinator.com/item?id=40729670) - [PS5 is finally integrating Discord into the console's UI](https://www.polygon.com/24177882/ps5-playstation5-discord-integration-how-to)
 * [2024-06-19, 16:08:22](https://news.ycombinator.com/item?id=40729588) - [Almost half of Dell's full-time US workforce has rejected the company's RTO push](https://www.businessinsider.com/us-dell-workers-reject-return-to-office-hybrid-work-2024-6)
