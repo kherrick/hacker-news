@@ -90,6 +90,7 @@
 * [2024-06-14, 09:20:12](https://news.ycombinator.com/item?id=40679086) - [Effect of Passenger Position on Crash Injury Risk in Aircraft (2015) [pdf]](https://www.tc.faa.gov/its/worldpac/techrpt/am15-17.pdf)
 * [2024-06-14, 09:01:19](https://news.ycombinator.com/item?id=40678990) - [Teachers: AI is making children dumb as fuck](https://old.reddit.com/r/Teachers/comments/1df6qep/ai_is_making_children_dumb_as_fuck/)
 * [2024-06-14, 07:56:46](https://news.ycombinator.com/item?id=40678619) - [Scale is a meritocracy, and we must always remain one](https://scale.com/blog/meritocracy-at-scale)
+* [2024-06-14, 07:45:10](https://news.ycombinator.com/item?id=40678549) - [My life-changing SaaS exit](https://shai.io/rightmessage-exit/)
 * [2024-06-14, 07:35:27](https://news.ycombinator.com/item?id=40678494) - [How to Solve LLM Hallucinations](https://morethanmoore.substack.com/p/how-to-solve-llm-hallucinations)
 * [2024-06-14, 06:15:59](https://news.ycombinator.com/item?id=40678015) - [From One RSS Feed Entry to 186850 Hits](https://susam.net/from-web-feed-to-186850-hits.html)
 * [2024-06-14, 06:13:51](https://news.ycombinator.com/item?id=40678006) - [Programming with Lambda Calculus](https://hbr.github.io/Lambda-Calculus/lambda2/lambda.html)

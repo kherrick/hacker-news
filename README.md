@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-19, 03:18:46](https://news.ycombinator.com/item?id=40724417) - [MacBook Air gets hosed in macOS 15 as Intel support fades](https://arstechnica.com/gadgets/2024/06/the-case-for-and-against-macos-15-sequoia-being-the-final-release-for-intel-macs/)
-* [2024-06-19, 02:35:36](https://news.ycombinator.com/item?id=40724201) - [U.S. Senate passes bill to support advanced nuclear energy deployment](https://www.reuters.com/business/energy/us-senate-passes-bill-support-advanced-nuclear-energy-deployment-2024-06-19/)
+* [2024-06-19, 03:18:46](https://news.ycombinator.com/item?id=40724417) - [Sequoia is both more and less generous to Intel Macs, depending on the model](https://arstechnica.com/gadgets/2024/06/the-case-for-and-against-macos-15-sequoia-being-the-final-release-for-intel-macs/)
 * [2024-06-19, 01:11:00](https://news.ycombinator.com/item?id=40723758) - [Willie Mays, SF Giants legend and MLB all-time great, is dead](https://www.sfchronicle.com/sports/giants/article/willie-mays-dead-obituary-17815215.php)
 * [2024-06-19, 00:02:23](https://news.ycombinator.com/item?id=40723356) - [Open Source Python ETL](https://amphi.ai/)
 * [2024-06-18, 23:50:39](https://news.ycombinator.com/item?id=40723302) - [Ask HN: Why do message queue-based architectures seem less popular now?](https://news.ycombinator.com/item?id=40723302)
@@ -12,7 +11,7 @@
 * [2024-06-18, 21:26:51](https://news.ycombinator.com/item?id=40722317) - [Show HN: I made an open source and local translation app](https://github.com/niedev/RTranslator)
 * [2024-06-18, 21:00:51](https://news.ycombinator.com/item?id=40722164) - [Hadrius (YC W23) is hiring engineers looking to grow into future founders](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
 * [2024-06-18, 18:23:10](https://news.ycombinator.com/item?id=40720629) - [Nature retracts paper that claimed adult stem cell could become any type of cell](https://retractionwatch.com/2024/06/18/nature-retracts-highly-cited-2002-paper-that-claimed-adult-stem-cells-could-become-any-type-of-cell/)
-* [2024-06-18, 17:09:26](https://news.ycombinator.com/item?id=40719981) - [Refusal in Language Models Is Mediated by a Single Direction](https://arxiv.org/abs/2406.11717)
+* [2024-06-18, 17:09:26](https://news.ycombinator.com/item?id=40719981) - [Refusal in language models is mediated by a single direction](https://arxiv.org/abs/2406.11717)
 * [2024-06-18, 17:08:36](https://news.ycombinator.com/item?id=40719975) - [3D Gaussian Splatting as Markov Chain Monte Carlo](https://ubc-vision.github.io/3dgs-mcmc/)
 * [2024-06-18, 17:01:45](https://news.ycombinator.com/item?id=40719921) - [Sharing new research, models, and datasets from Meta FAIR](https://ai.meta.com/blog/meta-fair-research-new-releases/)
 * [2024-06-18, 17:00:34](https://news.ycombinator.com/item?id=40719905) - ['Glowing' plants could help scientists predict flash drought](https://www.jpl.nasa.gov/news/ow-glowing-plants-could-help-scientists-predict-flash-drought)
@@ -28,8 +27,9 @@
 * [2024-06-14, 19:02:09](https://news.ycombinator.com/item?id=40683862) - [In Praise of 5-Over-1 Buildings (2019)](https://commonedge.org/in-praise-of-5-over-1-buildings/)
 * [2024-06-14, 17:11:46](https://news.ycombinator.com/item?id=40682632) - [Ask HN: How do you find developers for open source bug bounties?](https://news.ycombinator.com/item?id=40682632)
 * [2024-06-14, 16:26:48](https://news.ycombinator.com/item?id=40682212) - [Erica Synths DIY Prototyping Breadboard](https://cdm.link/2024/06/labor-diy/)
-* [2024-06-14, 16:03:29](https://news.ycombinator.com/item?id=40682013) - [Article about Agrippa (A Book of the Dead)](https://www.filfre.net/2018/09/agrippa-a-book-of-the-dead/)
+* [2024-06-14, 16:03:29](https://news.ycombinator.com/item?id=40682013) - [Agrippa (A Book of the Dead)](https://www.filfre.net/2018/09/agrippa-a-book-of-the-dead/)
 * [2024-06-14, 12:49:28](https://news.ycombinator.com/item?id=40680414) - [Does anybody know this fractal? (2012)](https://www.gibney.org/does_anybody_know_this_fractal)
+* [2024-06-14, 07:45:10](https://news.ycombinator.com/item?id=40678549) - [My life-changing SaaS exit](https://shai.io/rightmessage-exit/)
 
 ## [Archives](archives/index.md)
 
