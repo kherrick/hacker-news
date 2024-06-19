@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-19, 09:51:55",
+      "https://news.ycombinator.com/item?id=40726648"
+    ],
+    [
+      "Slack Combines ASTs with LLMs to Automatically Convert 80% of 15,000 Unit Tests",
+      "https://www.infoq.com/news/2024/06/slack-automatic-test-conversion/"
+    ]
+  ],
+  [
+    [
       "2024-06-19, 09:15:34",
       "https://news.ycombinator.com/item?id=40726426"
     ],
@@ -17,6 +27,16 @@
     [
       "Why Dolphin Isn't Coming to the App Store (Spoiler: It Needs a JIT)",
       "https://daringfireball.net/linked/2024/06/18/dolphin-jit-apple"
+    ]
+  ],
+  [
+    [
+      "2024-06-19, 09:12:01",
+      "https://news.ycombinator.com/item?id=40726397"
+    ],
+    [
+      "Linux China, which supported the Chinese open source community, has ended",
+      "https://linux.cn/article-16602-1.html"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2024-06-18, 18:23:10",
-      "https://news.ycombinator.com/item?id=40720629"
-    ],
-    [
-      "Nature retracts paper that claimed adult stem cell could become any type of cell",
-      "https://retractionwatch.com/2024/06/18/nature-retracts-highly-cited-2002-paper-that-claimed-adult-stem-cells-could-become-any-type-of-cell/"
-    ]
-  ],
-  [
-    [
       "2024-06-18, 17:09:26",
       "https://news.ycombinator.com/item?id=40719981"
     ],
@@ -237,16 +247,6 @@
     [
       "Serialization for C# Games",
       "https://chickensoft.games/blog/serialization-for-csharp-games/"
-    ]
-  ],
-  [
-    [
-      "2024-06-14, 19:02:09",
-      "https://news.ycombinator.com/item?id=40683862"
-    ],
-    [
-      "In Praise of 5-Over-1 Buildings (2019)",
-      "https://commonedge.org/in-praise-of-5-over-1-buildings/"
     ]
   ],
   [
