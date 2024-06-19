@@ -2,7 +2,6 @@
 
 * [2024-06-19, 05:18:53](https://news.ycombinator.com/item?id=40725096) - [I'm the hacker that brought down North Korea's Internet for over a week. AMA](https://old.reddit.com/r/IAmA/comments/1divlp3/im_the_hacker_that_brought_down_north_koreas/)
 * [2024-06-19, 04:20:14](https://news.ycombinator.com/item?id=40724774) - [Ask HN: Who has had a successful PWA product?](https://news.ycombinator.com/item?id=40724774)
-* [2024-06-19, 04:01:47](https://news.ycombinator.com/item?id=40724667) - [Satellites like Starlink could deplete Earth's ozone layer, study says](https://www.independent.co.uk/space/elon-musk-starlink-satellite-internet-b2564344.html)
 * [2024-06-19, 03:18:46](https://news.ycombinator.com/item?id=40724417) - [Sequoia is both more and less generous to Intel Macs, depending on the model](https://arstechnica.com/gadgets/2024/06/the-case-for-and-against-macos-15-sequoia-being-the-final-release-for-intel-macs/)
 * [2024-06-19, 01:11:00](https://news.ycombinator.com/item?id=40723758) - [Willie Mays, SF Giants baseball player, has died](https://www.sfchronicle.com/sports/giants/article/willie-mays-dead-obituary-17815215.php)
 * [2024-06-19, 00:02:23](https://news.ycombinator.com/item?id=40723356) - [Open Source Python ETL](https://amphi.ai/)
@@ -17,6 +16,7 @@
 * [2024-06-18, 17:09:26](https://news.ycombinator.com/item?id=40719981) - [Refusal in language models is mediated by a single direction](https://arxiv.org/abs/2406.11717)
 * [2024-06-18, 17:08:36](https://news.ycombinator.com/item?id=40719975) - [3D Gaussian Splatting as Markov Chain Monte Carlo](https://ubc-vision.github.io/3dgs-mcmc/)
 * [2024-06-18, 17:01:45](https://news.ycombinator.com/item?id=40719921) - [Sharing new research, models, and datasets from Meta FAIR](https://ai.meta.com/blog/meta-fair-research-new-releases/)
+* [2024-06-18, 17:00:34](https://news.ycombinator.com/item?id=40719905) - ['Glowing' plants could help scientists predict flash drought](https://www.jpl.nasa.gov/news/ow-glowing-plants-could-help-scientists-predict-flash-drought)
 * [2024-06-18, 16:45:45](https://news.ycombinator.com/item?id=40719782) - [Show HN: Billard – Generate music from ball collisions in 2D space](https://billard.medusis.com/)
 * [2024-06-18, 14:15:16](https://news.ycombinator.com/item?id=40718124) - [A new RISC-V Mainboard from DeepComputing](https://frame.work/blog/introducing-a-new-risc-v-mainboard-from-deepcomputing)
 * [2024-06-18, 13:45:07](https://news.ycombinator.com/item?id=40717804) - [Tiny beauty: how I make scientific art from behind the microscope](https://www.nature.com/immersive/d41586-024-02011-6/index.html)
