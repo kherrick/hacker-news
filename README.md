@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-19, 02:50:32](https://news.ycombinator.com/item?id=40724283) - [Google Gemini tried to kill me](https://old.reddit.com/r/ChatGPT/comments/1diljf2/google_gemini_tried_to_kill_me/)
 * [2024-06-19, 02:35:36](https://news.ycombinator.com/item?id=40724201) - [U.S. Senate passes bill to support advanced nuclear energy deployment](https://www.reuters.com/business/energy/us-senate-passes-bill-support-advanced-nuclear-energy-deployment-2024-06-19/)
 * [2024-06-19, 01:11:00](https://news.ycombinator.com/item?id=40723758) - [Willie Mays, SF Giants legend and MLB all-time great, is dead](https://www.sfchronicle.com/sports/giants/article/willie-mays-dead-obituary-17815215.php)
 * [2024-06-19, 00:12:20](https://news.ycombinator.com/item?id=40723411) - [One in four US households likely exceed new soil lead guidance levels](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GH001045)
@@ -23,12 +24,11 @@
 * [2024-06-18, 13:45:07](https://news.ycombinator.com/item?id=40717804) - [Tiny beauty: how I make scientific art from behind the microscope](https://www.nature.com/immersive/d41586-024-02011-6/index.html)
 * [2024-06-18, 13:19:34](https://news.ycombinator.com/item?id=40717519) - [Sculpting the moon in R: Subdivision surfaces and displacement mapping](https://www.tylermw.com/posts/rayverse/displacement-mapping.html)
 * [2024-06-17, 14:26:18](https://news.ycombinator.com/item?id=40705956) - [The enduring mystery of how water freezes](https://www.quantamagazine.org/the-enduring-mystery-of-how-water-freezes-20240617/)
-* [2024-06-17, 07:15:16](https://news.ycombinator.com/item?id=40703027) - [Is seat-based pricing dead?](https://cloudedjudgement.substack.com/p/clouded-judgement-61424-is-seat-based)
 * [2024-06-17, 06:42:12](https://news.ycombinator.com/item?id=40702895) - ['Equals' has more than one meaning in math](https://www.sciencealert.com/mathematician-reveals-equals-has-more-than-one-meaning-in-math)
 * [2024-06-14, 21:44:33](https://news.ycombinator.com/item?id=40685427) - [Serialization for C# Games](https://chickensoft.games/blog/serialization-for-csharp-games/)
 * [2024-06-14, 19:02:09](https://news.ycombinator.com/item?id=40683862) - [In Praise of 5-Over-1 Buildings (2019)](https://commonedge.org/in-praise-of-5-over-1-buildings/)
 * [2024-06-14, 17:11:46](https://news.ycombinator.com/item?id=40682632) - [Ask HN: How do you find developers for open source bug bounties?](https://news.ycombinator.com/item?id=40682632)
-* [2024-06-14, 16:26:48](https://news.ycombinator.com/item?id=40682212) - [Erica Synths DIY Prototyping Breadboard](https://cdm.link/2024/06/labor-diy/)
+* [2024-06-14, 16:03:29](https://news.ycombinator.com/item?id=40682013) - [Article about Agrippa (A Book of the Dead)](https://www.filfre.net/2018/09/agrippa-a-book-of-the-dead/)
 * [2024-06-14, 12:49:28](https://news.ycombinator.com/item?id=40680414) - [Does anybody know this fractal? (2012)](https://www.gibney.org/does_anybody_know_this_fractal)
 
 ## [Archives](archives/index.md)
