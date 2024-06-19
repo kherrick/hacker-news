@@ -1,10 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-19, 07:46:07](https://news.ycombinator.com/item?id=40725879) - [The Power Behind Apple's M4 SoC](https://www.techinsights.com/blog/introducing-tsmc-n3e-power-behind-apples-m4-soc)
 * [2024-06-19, 07:36:25](https://news.ycombinator.com/item?id=40725826) - [New UNESCO report warns that Generative AI threatens Holocaust memory](https://www.unesco.org/en/articles/new-unesco-report-warns-generative-ai-threatens-holocaust-memory)
 * [2024-06-19, 06:32:01](https://news.ycombinator.com/item?id=40725451) - [ExectOS – brand new operating system which derives from NT architecture](https://exectos.eu.org/)
 * [2024-06-19, 05:45:53](https://news.ycombinator.com/item?id=40725214) - [Fern Hollow Bridge should have been closed years before it collapsed](https://practical.engineering/blog/2024/6/18/this-bridge-should-have-been-closed-years-before-it-collapsed)
-* [2024-06-19, 04:20:14](https://news.ycombinator.com/item?id=40724774) - [Ask HN: Who has had a successful PWA product?](https://news.ycombinator.com/item?id=40724774)
 * [2024-06-19, 00:02:23](https://news.ycombinator.com/item?id=40723356) - [Open Source Python ETL](https://amphi.ai/)
 * [2024-06-18, 23:50:39](https://news.ycombinator.com/item?id=40723302) - [Ask HN: Why do message queue-based architectures seem less popular now?](https://news.ycombinator.com/item?id=40723302)
 * [2024-06-18, 23:42:48](https://news.ycombinator.com/item?id=40723251) - [Large language model data pipelines and Common Crawl](https://blog.christianperone.com/2023/06/appreciating-llms-data-pipelines/)
@@ -20,6 +18,7 @@
 * [2024-06-18, 14:15:16](https://news.ycombinator.com/item?id=40718124) - [A new RISC-V Mainboard from DeepComputing](https://frame.work/blog/introducing-a-new-risc-v-mainboard-from-deepcomputing)
 * [2024-06-18, 13:45:07](https://news.ycombinator.com/item?id=40717804) - [Tiny beauty: how I make scientific art from behind the microscope](https://www.nature.com/immersive/d41586-024-02011-6/index.html)
 * [2024-06-18, 13:19:34](https://news.ycombinator.com/item?id=40717519) - [Sculpting the moon in R: Subdivision surfaces and displacement mapping](https://www.tylermw.com/posts/rayverse/displacement-mapping.html)
+* [2024-06-18, 07:15:37](https://news.ycombinator.com/item?id=40714950) - [Spur – RISC IV: The Lisp Multiprocessor Workstation](https://thechipletter.substack.com/p/spur-risc-iv-the-lisp-multiprocessor)
 * [2024-06-17, 14:26:18](https://news.ycombinator.com/item?id=40705956) - [The enduring mystery of how water freezes](https://www.quantamagazine.org/the-enduring-mystery-of-how-water-freezes-20240617/)
 * [2024-06-17, 06:42:12](https://news.ycombinator.com/item?id=40702895) - ['Equals' has more than one meaning in math](https://www.sciencealert.com/mathematician-reveals-equals-has-more-than-one-meaning-in-math)
 * [2024-06-14, 21:44:33](https://news.ycombinator.com/item?id=40685427) - [Serialization for C# Games](https://chickensoft.games/blog/serialization-for-csharp-games/)
@@ -29,6 +28,7 @@
 * [2024-06-14, 16:26:48](https://news.ycombinator.com/item?id=40682212) - [Erica Synths DIY Prototyping Breadboard](https://cdm.link/2024/06/labor-diy/)
 * [2024-06-14, 16:03:29](https://news.ycombinator.com/item?id=40682013) - [Agrippa (A Book of the Dead)](https://www.filfre.net/2018/09/agrippa-a-book-of-the-dead/)
 * [2024-06-14, 12:49:28](https://news.ycombinator.com/item?id=40680414) - [Does anybody know this fractal? (2012)](https://www.gibney.org/does_anybody_know_this_fractal)
+* [2024-06-14, 05:05:31](https://news.ycombinator.com/item?id=40677630) - [Rare twin elephants born in Thailand](https://www.bbc.com/news/articles/c8445lyjndvo)
 * [2024-06-14, 04:43:16](https://news.ycombinator.com/item?id=40677541) - [Using a 1965 Dutch Rotary Phone via VoIP (T65) in 2024](https://raymii.org/s/blog/Using_a_1965_Dutch_Rotaty_Phone_T65_via_VoIP_in_2024.html)
 
 ## [Archives](archives/index.md)
