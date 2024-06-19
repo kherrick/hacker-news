@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-19, 22:02:53",
+      "https://news.ycombinator.com/item?id=40732899"
+    ],
+    [
+      "CISA Advisory on Motorola Solutions ALPR Vulnerabilities",
+      "https://www.cisa.gov/news-events/ics-advisories/icsa-24-165-19"
+    ]
+  ],
+  [
+    [
       "2024-06-19, 21:00:05",
       "https://news.ycombinator.com/item?id=40732320"
     ],
@@ -217,16 +227,6 @@
     [
       "KidPix",
       "https://kidpix.app"
-    ]
-  ],
-  [
-    [
-      "2024-06-18, 23:27:36",
-      "https://news.ycombinator.com/item?id=40723150"
-    ],
-    [
-      "Off-path TCP hijacking in NAT-enabled Wi-Fi networks",
-      "https://blog.apnic.net/2024/06/18/off-path-tcp-hijacking-in-nat-enabled-wi-fi-networks/"
     ]
   ],
   [
