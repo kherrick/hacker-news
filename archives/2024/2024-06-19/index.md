@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-19](index.md)
 
 * [2024-06-19, 22:02:53](https://news.ycombinator.com/item?id=40732899) - [CISA Advisory on Motorola Solutions ALPR Vulnerabilities](https://www.cisa.gov/news-events/ics-advisories/icsa-24-165-19)
+* [2024-06-19, 21:20:03](https://news.ycombinator.com/item?id=40732490) - [Unique3D: Image-to-3D Generation from a Single Image in 30 seconds](https://github.com/AiuniAI/Unique3D)
 * [2024-06-19, 21:14:24](https://news.ycombinator.com/item?id=40732444) - [OpenAI's former chief scientist is starting a new AI company](https://www.theverge.com/2024/6/19/24181870/openai-former-chief-scientist-ilya-sutskever-ssi-safe-superintelligence)
 * [2024-06-19, 21:09:45](https://news.ycombinator.com/item?id=40732400) - [Austria to 'Super-Speeders': We're Taking Your Car](https://www.bloomberg.com/news/articles/2024-06-19/austria-aims-to-curb-crashes-with-crackdown-on-super-speeders)
 * [2024-06-19, 21:00:05](https://news.ycombinator.com/item?id=40732320) - [Zep AI (YC W24) is hiring back end engineers to build LLM long-term memory](https://www.ycombinator.com/companies/zep-ai/jobs/J5TD9KW-backend-engineer)

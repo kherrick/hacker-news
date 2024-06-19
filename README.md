@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-19, 22:02:53](https://news.ycombinator.com/item?id=40732899) - [CISA Advisory on Motorola Solutions ALPR Vulnerabilities](https://www.cisa.gov/news-events/ics-advisories/icsa-24-165-19)
+* [2024-06-19, 21:20:03](https://news.ycombinator.com/item?id=40732490) - [Unique3D: Image-to-3D Generation from a Single Image in 30 seconds](https://github.com/AiuniAI/Unique3D)
 * [2024-06-19, 21:00:05](https://news.ycombinator.com/item?id=40732320) - [Zep AI (YC W24) is hiring back end engineers to build LLM long-term memory](https://www.ycombinator.com/companies/zep-ai/jobs/J5TD9KW-backend-engineer)
 * [2024-06-19, 20:39:40](https://news.ycombinator.com/item?id=40732161) - [The the the the induction of jamais vu: word alienation and semantic satiation](https://www.tandfonline.com/doi/full/10.1080/09658211.2020.1727519)
 * [2024-06-19, 20:09:38](https://news.ycombinator.com/item?id=40731922) - [X debut 40 years ago (1984)](https://www.talisman.org/x-debut.shtml)
 * [2024-06-19, 18:59:40](https://news.ycombinator.com/item?id=40731360) - [EasyOS: An Experimental Linux Distribution](https://easyos.org/)
-* [2024-06-19, 17:21:38](https://news.ycombinator.com/item?id=40730309) - [Finite Curve](https://www.finitecurve.com/)
 * [2024-06-19, 17:16:18](https://news.ycombinator.com/item?id=40730245) - [Show HN: Modular Pi Cam](https://github.com/jdc-cunningham/modular-pi-cam/tree/master/cameras/pi-zero/large-display)
 * [2024-06-19, 17:14:13](https://news.ycombinator.com/item?id=40730228) - [F (2006)](http://www.nsl.com/k/f/f.htm)
 * [2024-06-19, 17:06:16](https://news.ycombinator.com/item?id=40730156) - [Safe Superintelligence Inc.](https://ssi.inc)
