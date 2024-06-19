@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-19, 15:02:41](https://news.ycombinator.com/item?id=40728965) - [Even Apple cannot explain why we need AI in our lives](https://www.ft.com/content/1355ccd9-4a2d-49d2-9e42-250aab0c38aa)
 * [2024-06-19, 14:31:27](https://news.ycombinator.com/item?id=40728671) - [Mrs Perkins's Quilt (2017)](http://www.squaring.net/quilts/mrs-perkins-quilts.html)
 * [2024-06-19, 13:54:50](https://news.ycombinator.com/item?id=40728331) - [Can holographic optical storage displace Hard Disk Drives?](https://www.nature.com/articles/s44172-024-00225-0)
 * [2024-06-19, 13:20:01](https://news.ycombinator.com/item?id=40728032) - [Recovering an Agilent 2000A/3000A Oscilloscope with Corrupt Firmware NAND Flash](https://salvagedcircuitry.com/2000a-nand-recovery.html)
 * [2024-06-19, 12:00:49](https://news.ycombinator.com/item?id=40727427) - [Ribbon Health (YC S17) Is Hiring a Sales Eng Director for Enterprises](https://www.ribbonhealth.com/open-roles?gh_jid=5179134004)
 * [2024-06-19, 10:57:22](https://news.ycombinator.com/item?id=40727022) - [Astronomers see a black hole awaken in real time](https://www.eso.org/public/germany/news/eso2409/)
 * [2024-06-19, 10:16:08](https://news.ycombinator.com/item?id=40726792) - [Beyond velocity and acceleration: jerk, snap and higher derivatives (2016)](https://iopscience.iop.org/article/10.1088/0143-0807/37/6/065008)
-* [2024-06-19, 10:06:54](https://news.ycombinator.com/item?id=40726735) - [Ask HN: What happens when I click \"Request for quote\" on your SaaS?](https://news.ycombinator.com/item?id=40726735)
 * [2024-06-19, 09:51:55](https://news.ycombinator.com/item?id=40726648) - [AI-Powered Conversion From Enzyme to React Testing Library](https://slack.engineering/balancing-old-tricks-with-new-feats-ai-powered-conversion-from-enzyme-to-react-testing-library-at-slack/)
 * [2024-06-19, 09:51:05](https://news.ycombinator.com/item?id=40726641) - [There's more to mathematics than rigour and proofs (2007)](https://terrytao.wordpress.com/career-advice/theres-more-to-mathematics-than-rigour-and-proofs/)
 * [2024-06-19, 09:36:24](https://news.ycombinator.com/item?id=40726555) - [Ask HN: What does RISC-V custom chips for under $100K mean?](https://news.ycombinator.com/item?id=40726555)

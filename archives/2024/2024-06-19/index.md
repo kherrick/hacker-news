@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-19](index.md)
 
+* [2024-06-19, 15:02:41](https://news.ycombinator.com/item?id=40728965) - [Even Apple cannot explain why we need AI in our lives](https://www.ft.com/content/1355ccd9-4a2d-49d2-9e42-250aab0c38aa)
 * [2024-06-19, 14:37:54](https://news.ycombinator.com/item?id=40728732) - [Perplexity Is a Bullshit Machine](https://www.wired.com/story/perplexity-is-a-bullshit-machine/)
 * [2024-06-19, 14:31:27](https://news.ycombinator.com/item?id=40728671) - [Mrs Perkins's Quilt (2017)](http://www.squaring.net/quilts/mrs-perkins-quilts.html)
 * [2024-06-19, 14:25:06](https://news.ycombinator.com/item?id=40728625) - [9p filesystem has been added to FreeBSD](https://cgit.freebsd.org/src/commit/?id=e97ad33a89a78f55280b0485b3249ee9b907a718)
