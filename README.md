@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-19, 10:49:15](https://news.ycombinator.com/item?id=40726971) - [Boeing Sent Two Astronauts into Space. Now It Needs to Get Them Home](https://www.wsj.com/science/space-astronomy/boeing-sent-two-astronauts-into-space-now-it-needs-to-get-them-home-99d96633)
+* [2024-06-19, 10:16:08](https://news.ycombinator.com/item?id=40726792) - [Beyond velocity and acceleration: jerk, snap and higher derivatives (2016)](https://iopscience.iop.org/article/10.1088/0143-0807/37/6/065008)
 * [2024-06-19, 09:51:55](https://news.ycombinator.com/item?id=40726648) - [Slack Combines ASTs with LLMs to Automatically Convert 80% of 15,000 Unit Tests](https://www.infoq.com/news/2024/06/slack-automatic-test-conversion/)
 * [2024-06-19, 09:15:34](https://news.ycombinator.com/item?id=40726426) - [Monitoring marine litter from space is now a reality](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Monitoring_marine_litter_from_space_is_now_a_reality)
 * [2024-06-19, 09:15:12](https://news.ycombinator.com/item?id=40726422) - [Why Dolphin Isn't Coming to the App Store (Spoiler: It Needs a JIT)](https://daringfireball.net/linked/2024/06/18/dolphin-jit-apple)
@@ -23,9 +25,7 @@
 * [2024-06-18, 13:45:07](https://news.ycombinator.com/item?id=40717804) - [Tiny beauty: how I make scientific art from behind the microscope](https://www.nature.com/immersive/d41586-024-02011-6/index.html)
 * [2024-06-17, 17:16:29](https://news.ycombinator.com/item?id=40708201) - [All Aquiver: The Decadent Movement](https://aeon.co/essays/the-danger-of-decadence-is-also-its-value-we-need-more-of-it)
 * [2024-06-17, 14:26:18](https://news.ycombinator.com/item?id=40705956) - [The enduring mystery of how water freezes](https://www.quantamagazine.org/the-enduring-mystery-of-how-water-freezes-20240617/)
-* [2024-06-17, 06:42:12](https://news.ycombinator.com/item?id=40702895) - ['Equals' has more than one meaning in math](https://www.sciencealert.com/mathematician-reveals-equals-has-more-than-one-meaning-in-math)
 * [2024-06-14, 21:44:33](https://news.ycombinator.com/item?id=40685427) - [Serialization for C# Games](https://chickensoft.games/blog/serialization-for-csharp-games/)
-* [2024-06-14, 19:02:09](https://news.ycombinator.com/item?id=40683862) - [In Praise of 5-Over-1 Buildings (2019)](https://commonedge.org/in-praise-of-5-over-1-buildings/)
 * [2024-06-14, 12:49:28](https://news.ycombinator.com/item?id=40680414) - [Does anybody know this fractal? (2012)](https://www.gibney.org/does_anybody_know_this_fractal)
 * [2024-06-14, 05:05:31](https://news.ycombinator.com/item?id=40677630) - [Rare twin elephants born in Thailand](https://www.bbc.com/news/articles/c8445lyjndvo)
 * [2024-06-14, 04:43:16](https://news.ycombinator.com/item?id=40677541) - [Using a 1965 Dutch Rotary Phone via VoIP (T65) in 2024](https://raymii.org/s/blog/Using_a_1965_Dutch_Rotaty_Phone_T65_via_VoIP_in_2024.html)
