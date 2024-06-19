@@ -9,7 +9,7 @@
 * [2024-06-19, 16:40:15](https://news.ycombinator.com/item?id=40729906) - [1/25-scale Cray C90 wristwatch](http://www.chrisfenton.com/1-25-scale-cray-c90-wristwatch/)
 * [2024-06-19, 16:30:14](https://news.ycombinator.com/item?id=40729809) - [The return of pneumatic tubes](https://www.technologyreview.com/2024/06/19/1093446/pneumatic-tubes-hospitals/)
 * [2024-06-19, 16:17:01](https://news.ycombinator.com/item?id=40729671) - [The demise of the mildly dynamic website (2022)](https://www.devever.net/~hl/mildlydynamic)
-* [2024-06-19, 16:15:46](https://news.ycombinator.com/item?id=40729655) - [Create Node Modules in Swift](https://github.com/kabiroberai/node-swift)
+* [2024-06-19, 16:15:46](https://news.ycombinator.com/item?id=40729655) - [NodeSwift: Bridge Node.js and Swift](https://github.com/kabiroberai/node-swift)
 * [2024-06-19, 15:57:28](https://news.ycombinator.com/item?id=40729501) - [Fast Crimes at Lambda School](https://www.sandofsky.com/lambda-school/)
 * [2024-06-19, 14:31:27](https://news.ycombinator.com/item?id=40728671) - [Mrs Perkins's Quilt (2017)](http://www.squaring.net/quilts/mrs-perkins-quilts.html)
 * [2024-06-19, 13:20:01](https://news.ycombinator.com/item?id=40728032) - [Agilent 2000a / 3000a Oscilloscope NAND Recovery](https://salvagedcircuitry.com/2000a-nand-recovery.html)
