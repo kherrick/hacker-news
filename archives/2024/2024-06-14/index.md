@@ -51,6 +51,7 @@
 * [2024-06-14, 16:14:10](https://news.ycombinator.com/item?id=40682088) - [Dark Fibre](https://en.wikipedia.org/wiki/Dark_fibre)
 * [2024-06-14, 16:05:29](https://news.ycombinator.com/item?id=40682026) - [Overcoming pitfalls of Postgres logical decoding](https://blog.peerdb.io/overcoming-pitfalls-of-postgres-logical-decoding)
 * [2024-06-14, 16:04:24](https://news.ycombinator.com/item?id=40682021) - [TempleOS Reverse Engineering](https://starkeblog.com/bootsector/templeos/2024/06/13/templeos-reverse-engineering-part-i.html)
+* [2024-06-14, 16:03:29](https://news.ycombinator.com/item?id=40682013) - [Article about Agrippa (A Book of the Dead)](https://www.filfre.net/2018/09/agrippa-a-book-of-the-dead/)
 * [2024-06-14, 16:01:46](https://news.ycombinator.com/item?id=40682000) - [Nemotron-4-340B](https://blogs.nvidia.com/blog/nemotron-4-synthetic-data-generation-llm-training/)
 * [2024-06-14, 15:49:33](https://news.ycombinator.com/item?id=40681920) - [Apple set to be first Big Tech group to face charges under EU digital law](https://www.ft.com/content/31a996d5-b472-4357-953e-ace078494604)
 * [2024-06-14, 15:42:34](https://news.ycombinator.com/item?id=40681862) - [I am not yet ready to switch to Zig from Rust](https://medium.com/@penberg/why-i-am-not-yet-ready-to-switch-to-zig-from-rust-3660e02f0060)
