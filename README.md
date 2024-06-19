@@ -5,6 +5,7 @@
 * [2024-06-19, 20:39:40](https://news.ycombinator.com/item?id=40732161) - [The the the the induction of jamais vu: word alienation and semantic satiation](https://www.tandfonline.com/doi/full/10.1080/09658211.2020.1727519)
 * [2024-06-19, 20:09:38](https://news.ycombinator.com/item?id=40731922) - [X debut 40 years ago (1984)](https://www.talisman.org/x-debut.shtml)
 * [2024-06-19, 18:59:40](https://news.ycombinator.com/item?id=40731360) - [EasyOS: An Experimental Linux Distribution](https://easyos.org/)
+* [2024-06-19, 17:21:38](https://news.ycombinator.com/item?id=40730309) - [Finite Curve](https://www.finitecurve.com/)
 * [2024-06-19, 17:16:18](https://news.ycombinator.com/item?id=40730245) - [Show HN: Modular Pi Cam](https://github.com/jdc-cunningham/modular-pi-cam/tree/master/cameras/pi-zero/large-display)
 * [2024-06-19, 17:14:13](https://news.ycombinator.com/item?id=40730228) - [F (2006)](http://www.nsl.com/k/f/f.htm)
 * [2024-06-19, 17:06:16](https://news.ycombinator.com/item?id=40730156) - [Safe Superintelligence Inc.](https://ssi.inc)
@@ -29,7 +30,6 @@
 * [2024-06-18, 13:08:15](https://news.ycombinator.com/item?id=40717398) - [Show HN: Radius – A Meetup.com alternative](https://www.radius.to)
 * [2024-06-18, 03:49:27](https://news.ycombinator.com/item?id=40713893) - [Brain circuit scores identify clinically distinct biotypes in depression/anxiety](https://www.nature.com/articles/s41591-024-03057-9)
 * [2024-06-17, 23:23:09](https://news.ycombinator.com/item?id=40712359) - [What happens to our breath when we type, tap, scroll](https://www.npr.org/2024/06/10/1247296780/screen-apnea-why-screens-cause-shallow-breathing)
-* [2024-06-17, 11:57:50](https://news.ycombinator.com/item?id=40704688) - [Logit Prisms: Decomposing Transformer Outputs for Mechanistic Interpretability](https://neuralblog.github.io/logit-prisms/)
 
 ## [Archives](archives/index.md)
 
