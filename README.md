@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-19, 04:20:14](https://news.ycombinator.com/item?id=40724774) - [Ask HN: Who has had a successful PWA product?](https://news.ycombinator.com/item?id=40724774)
 * [2024-06-19, 04:01:47](https://news.ycombinator.com/item?id=40724667) - [Satellites like Starlink could deplete Earth's ozone layer, study says](https://www.independent.co.uk/space/elon-musk-starlink-satellite-internet-b2564344.html)
 * [2024-06-19, 03:18:46](https://news.ycombinator.com/item?id=40724417) - [Sequoia is both more and less generous to Intel Macs, depending on the model](https://arstechnica.com/gadgets/2024/06/the-case-for-and-against-macos-15-sequoia-being-the-final-release-for-intel-macs/)
 * [2024-06-19, 01:11:00](https://news.ycombinator.com/item?id=40723758) - [Willie Mays, SF Giants baseball player, has died](https://www.sfchronicle.com/sports/giants/article/willie-mays-dead-obituary-17815215.php)
@@ -29,7 +30,6 @@
 * [2024-06-14, 16:26:48](https://news.ycombinator.com/item?id=40682212) - [Erica Synths DIY Prototyping Breadboard](https://cdm.link/2024/06/labor-diy/)
 * [2024-06-14, 16:03:29](https://news.ycombinator.com/item?id=40682013) - [Agrippa (A Book of the Dead)](https://www.filfre.net/2018/09/agrippa-a-book-of-the-dead/)
 * [2024-06-14, 12:49:28](https://news.ycombinator.com/item?id=40680414) - [Does anybody know this fractal? (2012)](https://www.gibney.org/does_anybody_know_this_fractal)
-* [2024-06-14, 07:45:10](https://news.ycombinator.com/item?id=40678549) - [My life-changing SaaS exit](https://shai.io/rightmessage-exit/)
 
 ## [Archives](archives/index.md)
 
