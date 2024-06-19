@@ -35,6 +35,7 @@
 * [2024-06-19, 13:46:12](https://news.ycombinator.com/item?id=40728245) - [Biocompatible electroluminescent device with enhanced luminance](https://www.nature.com/articles/s41528-024-00322-2)
 * [2024-06-19, 13:23:31](https://news.ycombinator.com/item?id=40728059) - [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/)
 * [2024-06-19, 13:20:01](https://news.ycombinator.com/item?id=40728032) - [Recovering an Agilent 2000A/3000A Oscilloscope with Corrupt Firmware NAND Flash](https://salvagedcircuitry.com/2000a-nand-recovery.html)
+* [2024-06-19, 12:14:11](https://news.ycombinator.com/item?id=40727523) - [The hacking of culture and the creation of socio-technical debt](https://www.schneier.com/blog/archives/2024/06/the-hacking-of-culture-and-the-creation-of-socio-technical-debt.html)
 * [2024-06-19, 12:00:49](https://news.ycombinator.com/item?id=40727427) - [Ribbon Health (YC S17) Is Hiring a Sales Eng Director for Enterprises](https://www.ribbonhealth.com/open-roles?gh_jid=5179134004)
 * [2024-06-19, 11:59:00](https://news.ycombinator.com/item?id=40727410) - [2.6M Piracy Reports Against French Users Resulted in 234 Financial Penalties](https://torrentfreak.com/2-6m-piracy-reports-against-french-users-resulted-in-234-financial-penalties-2240618/)
 * [2024-06-19, 10:57:22](https://news.ycombinator.com/item?id=40727022) - [Astronomers see a black hole awaken in real time](https://www.eso.org/public/germany/news/eso2409/)
