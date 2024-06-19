@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-19, 04:01:47](https://news.ycombinator.com/item?id=40724667) - [Satellites like Starlink could deplete Earth's ozone layer, study says](https://www.independent.co.uk/space/elon-musk-starlink-satellite-internet-b2564344.html)
 * [2024-06-19, 03:18:46](https://news.ycombinator.com/item?id=40724417) - [Sequoia is both more and less generous to Intel Macs, depending on the model](https://arstechnica.com/gadgets/2024/06/the-case-for-and-against-macos-15-sequoia-being-the-final-release-for-intel-macs/)
-* [2024-06-19, 01:11:00](https://news.ycombinator.com/item?id=40723758) - [Willie Mays, SF Giants legend and MLB all-time great, is dead](https://www.sfchronicle.com/sports/giants/article/willie-mays-dead-obituary-17815215.php)
+* [2024-06-19, 01:11:00](https://news.ycombinator.com/item?id=40723758) - [Willie Mays, SF Giants baseball player, has died](https://www.sfchronicle.com/sports/giants/article/willie-mays-dead-obituary-17815215.php)
 * [2024-06-19, 00:02:23](https://news.ycombinator.com/item?id=40723356) - [Open Source Python ETL](https://amphi.ai/)
 * [2024-06-18, 23:50:39](https://news.ycombinator.com/item?id=40723302) - [Ask HN: Why do message queue-based architectures seem less popular now?](https://news.ycombinator.com/item?id=40723302)
 * [2024-06-18, 23:42:48](https://news.ycombinator.com/item?id=40723251) - [Large language model data pipelines and Common Crawl](https://blog.christianperone.com/2023/06/appreciating-llms-data-pipelines/)
@@ -18,7 +19,6 @@
 * [2024-06-18, 16:45:45](https://news.ycombinator.com/item?id=40719782) - [Show HN: Billard – Generate music from ball collisions in 2D space](https://billard.medusis.com/)
 * [2024-06-18, 14:15:16](https://news.ycombinator.com/item?id=40718124) - [A new RISC-V Mainboard from DeepComputing](https://frame.work/blog/introducing-a-new-risc-v-mainboard-from-deepcomputing)
 * [2024-06-18, 13:45:07](https://news.ycombinator.com/item?id=40717804) - [Tiny beauty: how I make scientific art from behind the microscope](https://www.nature.com/immersive/d41586-024-02011-6/index.html)
-* [2024-06-18, 13:37:04](https://news.ycombinator.com/item?id=40717721) - [Revolutionizing solar plant prospection with automated viewshed analysis](https://www.go-inicio.com/blog/a-new-look-revolutionizing-solar-plant-prospection-with-automated-viewshed-analysis)
 * [2024-06-18, 13:19:34](https://news.ycombinator.com/item?id=40717519) - [Sculpting the moon in R: Subdivision surfaces and displacement mapping](https://www.tylermw.com/posts/rayverse/displacement-mapping.html)
 * [2024-06-18, 07:15:37](https://news.ycombinator.com/item?id=40714950) - [Spur – RISC IV: The Lisp Multiprocessor Workstation](https://thechipletter.substack.com/p/spur-risc-iv-the-lisp-multiprocessor)
 * [2024-06-17, 14:26:18](https://news.ycombinator.com/item?id=40705956) - [The enduring mystery of how water freezes](https://www.quantamagazine.org/the-enduring-mystery-of-how-water-freezes-20240617/)
