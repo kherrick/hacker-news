@@ -1,6 +1,46 @@
 [
   [
     [
+      "2024-06-19, 17:14:13",
+      "https://news.ycombinator.com/item?id=40730228"
+    ],
+    [
+      "F",
+      "http://www.nsl.com/k/f/f.htm"
+    ]
+  ],
+  [
+    [
+      "2024-06-19, 17:06:16",
+      "https://news.ycombinator.com/item?id=40730156"
+    ],
+    [
+      "Ilya Sutskever starts Safe Superintelligence Inc",
+      "https://ssi.inc"
+    ]
+  ],
+  [
+    [
+      "2024-06-19, 17:02:59",
+      "https://news.ycombinator.com/item?id=40730132"
+    ],
+    [
+      "Safe Superintelligence Inc. – Ilya Sutskever",
+      "https://twitter.com/ssi/status/1803472825476587910"
+    ]
+  ],
+  [
+    [
+      "2024-06-19, 17:01:12",
+      "https://news.ycombinator.com/item?id=40730117"
+    ],
+    [
+      "Blacksmith (YC W24) is hiring a front end engineer to improve GitHub Actions",
+      "https://www.ycombinator.com/companies/blacksmith/jobs/SgZiNoi-founding-engineer-frontend"
+    ]
+  ],
+  [
+    [
       "2024-06-19, 16:30:14",
       "https://news.ycombinator.com/item?id=40729809"
     ],
@@ -11,22 +51,22 @@
   ],
   [
     [
+      "2024-06-19, 16:17:01",
+      "https://news.ycombinator.com/item?id=40729671"
+    ],
+    [
+      "The Demise of the Mildly Dynamic Website (2022)",
+      "https://www.devever.net/~hl/mildlydynamic"
+    ]
+  ],
+  [
+    [
       "2024-06-19, 15:57:28",
       "https://news.ycombinator.com/item?id=40729501"
     ],
     [
       "Fast Crimes at Lambda School",
       "https://www.sandofsky.com/lambda-school/"
-    ]
-  ],
-  [
-    [
-      "2024-06-19, 14:50:09",
-      "https://news.ycombinator.com/item?id=40728865"
-    ],
-    [
-      "All the Data on Earth Can Fit in a Cup of DNA in MIT's Jurassic Park Project",
-      "https://www.xatakaon.com/research/all-the-data-on-earth-can-fit-in-a-cup-full-of-dna-this-is-mits-jurassic-park-inspired-project"
     ]
   ],
   [
@@ -55,18 +95,8 @@
       "https://news.ycombinator.com/item?id=40728032"
     ],
     [
-      "Recovering an Agilent 2000A/3000A Oscilloscope with Corrupt Firmware NAND Flash",
+      "Agilent 2000a / 3000a Oscilloscope NAND Recovery",
       "https://salvagedcircuitry.com/2000a-nand-recovery.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-19, 12:00:49",
-      "https://news.ycombinator.com/item?id=40727427"
-    ],
-    [
-      "Ribbon Health (YC S17) Is Hiring a Sales Eng Director for Enterprises",
-      "https://www.ribbonhealth.com/open-roles?gh_jid=5179134004"
     ]
   ],
   [
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2024-06-19, 06:43:43",
-      "https://news.ycombinator.com/item?id=40725517"
-    ],
-    [
-      "Show HN: Pomoglorbo, a TUI Pomodoro timer for your terminal",
-      "https://codeberg.org/justusw/Pomoglorbo"
-    ]
-  ],
-  [
-    [
       "2024-06-19, 06:32:01",
       "https://news.ycombinator.com/item?id=40725451"
     ],
@@ -167,16 +187,6 @@
     [
       "Open Source Python ETL",
       "https://amphi.ai/"
-    ]
-  ],
-  [
-    [
-      "2024-06-18, 23:42:48",
-      "https://news.ycombinator.com/item?id=40723251"
-    ],
-    [
-      "Large language model data pipelines and Common Crawl",
-      "https://blog.christianperone.com/2023/06/appreciating-llms-data-pipelines/"
     ]
   ],
   [
@@ -211,42 +221,32 @@
   ],
   [
     [
-      "2024-06-18, 21:26:51",
-      "https://news.ycombinator.com/item?id=40722317"
-    ],
-    [
-      "Show HN: I made an open source and local translation app",
-      "https://github.com/niedev/RTranslator"
-    ]
-  ],
-  [
-    [
-      "2024-06-18, 17:09:26",
-      "https://news.ycombinator.com/item?id=40719981"
-    ],
-    [
-      "Refusal in language models is mediated by a single direction",
-      "https://arxiv.org/abs/2406.11717"
-    ]
-  ],
-  [
-    [
-      "2024-06-18, 17:08:36",
-      "https://news.ycombinator.com/item?id=40719975"
-    ],
-    [
-      "3D Gaussian Splatting as Markov Chain Monte Carlo",
-      "https://ubc-vision.github.io/3dgs-mcmc/"
-    ]
-  ],
-  [
-    [
       "2024-06-18, 16:45:45",
       "https://news.ycombinator.com/item?id=40719782"
     ],
     [
       "Show HN: Billard – Generate music from ball collisions in 2D space",
       "https://billard.medusis.com/"
+    ]
+  ],
+  [
+    [
+      "2024-06-18, 13:08:15",
+      "https://news.ycombinator.com/item?id=40717398"
+    ],
+    [
+      "Show HN: Radius – A Meetup.com alternative",
+      "https://www.radius.to"
+    ]
+  ],
+  [
+    [
+      "2024-06-18, 12:32:06",
+      "https://news.ycombinator.com/item?id=40717052"
+    ],
+    [
+      "Show HN: Flowery – Vocabulary builder powered by LLM and spaced repetition",
+      "https://flowery.app"
     ]
   ],
   [
