@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-06-19, 19:35:38",
-      "https://news.ycombinator.com/item?id=40731673"
-    ],
-    [
-      "My personal reasons to not run my Nginx reverse-proxy inside Docker",
-      "https://ewaldbenes.com/blog/my-personal-reasons-to-not-run-my-nginx-reverse-proxy-inside-docker"
-    ]
-  ],
-  [
-    [
       "2024-06-19, 18:59:40",
       "https://news.ycombinator.com/item?id=40731360"
     ],
@@ -27,16 +17,6 @@
     [
       "Discovery of new white blood cell function",
       "https://www.cam.ac.uk/research/news/discovery-of-new-rules-of-the-immune-system-could-improve-treatment-of-inflammatory-diseases-say"
-    ]
-  ],
-  [
-    [
-      "2024-06-19, 17:43:37",
-      "https://news.ycombinator.com/item?id=40730589"
-    ],
-    [
-      "Ask HN: Anyone else private information get sold by namecheap?",
-      "https://news.ycombinator.com/item?id=40730589"
     ]
   ],
   [
@@ -161,6 +141,16 @@
   ],
   [
     [
+      "2024-06-19, 12:14:11",
+      "https://news.ycombinator.com/item?id=40727523"
+    ],
+    [
+      "The hacking of culture and the creation of socio-technical debt",
+      "https://www.schneier.com/blog/archives/2024/06/the-hacking-of-culture-and-the-creation-of-socio-technical-debt.html"
+    ]
+  ],
+  [
+    [
       "2024-06-19, 10:57:22",
       "https://news.ycombinator.com/item?id=40727022"
     ],
@@ -201,22 +191,22 @@
   ],
   [
     [
+      "2024-06-19, 09:15:34",
+      "https://news.ycombinator.com/item?id=40726426"
+    ],
+    [
+      "Monitoring marine litter from space",
+      "https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Monitoring_marine_litter_from_space_is_now_a_reality"
+    ]
+  ],
+  [
+    [
       "2024-06-19, 06:32:01",
       "https://news.ycombinator.com/item?id=40725451"
     ],
     [
       "ExectOS – brand new operating system which derives from NT architecture",
       "https://exectos.eu.org/"
-    ]
-  ],
-  [
-    [
-      "2024-06-18, 22:10:40",
-      "https://news.ycombinator.com/item?id=40722635"
-    ],
-    [
-      "The difference between Mastodon, Bluesky, and Threads",
-      "https://www.eff.org/deeplinks/2024/06/whats-difference-between-mastodon-bluesky-and-threads"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Unraveling the physics of knitting",
       "https://research.gatech.edu/unraveling-physics-knitting"
+    ]
+  ],
+  [
+    [
+      "2024-06-14, 11:54:23",
+      "https://news.ycombinator.com/item?id=40679957"
+    ],
+    [
+      "Inner core backtracking by seismic waveform change reversals",
+      "https://www.nature.com/articles/s41586-024-07536-4"
     ]
   ],
   [
