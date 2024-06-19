@@ -99,6 +99,7 @@
 * [2024-06-14, 05:36:47](https://news.ycombinator.com/item?id=40677810) - [A look at Apple's technical approach to AI including core model performance etc.](https://www.interconnects.ai/p/apple-intelligence)
 * [2024-06-14, 05:32:45](https://news.ycombinator.com/item?id=40677784) - [Generative AI Is Not Going to Build Your Engineering Team for You](https://simonwillison.net/2024/Jun/12/generative-ai-is-not-going-to-build-your-engineering-team/)
 * [2024-06-14, 05:06:10](https://news.ycombinator.com/item?id=40677637) - [Sustain Open Source, sustain the planet: A new conversation](https://opensource.net/oss-for-climate-podcast/)
+* [2024-06-14, 04:43:16](https://news.ycombinator.com/item?id=40677541) - [Using a 1965 Dutch Rotary Phone via VoIP (T65) in 2024](https://raymii.org/s/blog/Using_a_1965_Dutch_Rotaty_Phone_T65_via_VoIP_in_2024.html)
 * [2024-06-14, 04:41:41](https://news.ycombinator.com/item?id=40677532) - [Tesla Releases Results of 2024 Annual Meeting of Stockholders](https://ir.tesla.com/press-release/tesla-releases-results-2024-annual-meeting-stockholders)
 * [2024-06-14, 04:39:15](https://news.ycombinator.com/item?id=40677525) - [Gen AI will increase demand for software engineers](https://roarepally.com/blog/ai-and-software-engineers)
 * [2024-06-14, 04:21:10](https://news.ycombinator.com/item?id=40677448) - [Sandy Hook families want to seize Alex Jones' social media accounts](https://www.reuters.com/world/us/sandy-hook-families-want-seize-alex-jones-social-media-accounts-2024-06-13/)
