@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-19, 10:57:22](https://news.ycombinator.com/item?id=40727022) - [Astronomers see a black hole awaken in real time](https://www.eso.org/public/germany/news/eso2409/)
+* [2024-06-19, 10:49:22](https://news.ycombinator.com/item?id=40726974) - [Neofetch developer archives all his repositories: \"Have taken up farming\"](https://github.com/dylanaraps)
 * [2024-06-19, 10:49:15](https://news.ycombinator.com/item?id=40726971) - [Boeing Sent Two Astronauts into Space. Now It Needs to Get Them Home](https://www.wsj.com/science/space-astronomy/boeing-sent-two-astronauts-into-space-now-it-needs-to-get-them-home-99d96633)
 * [2024-06-19, 10:16:08](https://news.ycombinator.com/item?id=40726792) - [Beyond velocity and acceleration: jerk, snap and higher derivatives (2016)](https://iopscience.iop.org/article/10.1088/0143-0807/37/6/065008)
 * [2024-06-19, 09:51:55](https://news.ycombinator.com/item?id=40726648) - [Slack Combines ASTs with LLMs to Automatically Convert 80% of 15,000 Unit Tests](https://www.infoq.com/news/2024/06/slack-automatic-test-conversion/)
@@ -19,7 +20,6 @@
 * [2024-06-18, 23:27:36](https://news.ycombinator.com/item?id=40723150) - [Off-path TCP hijacking in NAT-enabled Wi-Fi networks](https://blog.apnic.net/2024/06/18/off-path-tcp-hijacking-in-nat-enabled-wi-fi-networks/)
 * [2024-06-18, 22:40:18](https://news.ycombinator.com/item?id=40722850) - [IPC in Rust – A Ping Pong Comparison](https://3tilley.github.io/posts/simple-ipc-ping-pong/)
 * [2024-06-18, 21:26:51](https://news.ycombinator.com/item?id=40722317) - [Show HN: I made an open source and local translation app](https://github.com/niedev/RTranslator)
-* [2024-06-18, 21:00:51](https://news.ycombinator.com/item?id=40722164) - [Hadrius (YC W23) is hiring engineers looking to grow into future founders](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
 * [2024-06-18, 17:09:26](https://news.ycombinator.com/item?id=40719981) - [Refusal in language models is mediated by a single direction](https://arxiv.org/abs/2406.11717)
 * [2024-06-18, 17:08:36](https://news.ycombinator.com/item?id=40719975) - [3D Gaussian Splatting as Markov Chain Monte Carlo](https://ubc-vision.github.io/3dgs-mcmc/)
 * [2024-06-18, 16:45:45](https://news.ycombinator.com/item?id=40719782) - [Show HN: Billard – Generate music from ball collisions in 2D space](https://billard.medusis.com/)
