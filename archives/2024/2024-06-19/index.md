@@ -7,4 +7,5 @@
 * [2024-06-19, 02:35:36](https://news.ycombinator.com/item?id=40724201) - [U.S. Senate passes bill to support advanced nuclear energy deployment](https://www.reuters.com/business/energy/us-senate-passes-bill-support-advanced-nuclear-energy-deployment-2024-06-19/)
 * [2024-06-19, 01:11:00](https://news.ycombinator.com/item?id=40723758) - [Willie Mays, SF Giants legend and MLB all-time great, is dead](https://www.sfchronicle.com/sports/giants/article/willie-mays-dead-obituary-17815215.php)
 * [2024-06-19, 00:23:20](https://news.ycombinator.com/item?id=40723465) - [California Moves to Modify Law Letting Workers Sue Employers](https://www.nytimes.com/2024/06/18/business/economy/california-newsom-labor.html)
+* [2024-06-19, 00:12:20](https://news.ycombinator.com/item?id=40723411) - [One in four US households likely exceed new soil lead guidance levels](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GH001045)
 * [2024-06-19, 00:02:23](https://news.ycombinator.com/item?id=40723356) - [Open Source Python ETL](https://amphi.ai/)
