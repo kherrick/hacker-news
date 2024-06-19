@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-19, 10:57:22](https://news.ycombinator.com/item?id=40727022) - [Astronomers see a black hole awaken in real time](https://www.eso.org/public/germany/news/eso2409/)
 * [2024-06-19, 10:49:15](https://news.ycombinator.com/item?id=40726971) - [Boeing Sent Two Astronauts into Space. Now It Needs to Get Them Home](https://www.wsj.com/science/space-astronomy/boeing-sent-two-astronauts-into-space-now-it-needs-to-get-them-home-99d96633)
 * [2024-06-19, 10:16:08](https://news.ycombinator.com/item?id=40726792) - [Beyond velocity and acceleration: jerk, snap and higher derivatives (2016)](https://iopscience.iop.org/article/10.1088/0143-0807/37/6/065008)
 * [2024-06-19, 09:51:55](https://news.ycombinator.com/item?id=40726648) - [Slack Combines ASTs with LLMs to Automatically Convert 80% of 15,000 Unit Tests](https://www.infoq.com/news/2024/06/slack-automatic-test-conversion/)
@@ -29,7 +30,6 @@
 * [2024-06-14, 12:49:28](https://news.ycombinator.com/item?id=40680414) - [Does anybody know this fractal? (2012)](https://www.gibney.org/does_anybody_know_this_fractal)
 * [2024-06-14, 05:05:31](https://news.ycombinator.com/item?id=40677630) - [Rare twin elephants born in Thailand](https://www.bbc.com/news/articles/c8445lyjndvo)
 * [2024-06-14, 04:43:16](https://news.ycombinator.com/item?id=40677541) - [Using a 1965 Dutch Rotary Phone via VoIP (T65) in 2024](https://raymii.org/s/blog/Using_a_1965_Dutch_Rotaty_Phone_T65_via_VoIP_in_2024.html)
-* [2024-06-14, 00:26:02](https://news.ycombinator.com/item?id=40676355) - [A common misunderstanding about wave-particle duality](https://www.chemistryworld.com/opinion/a-common-misunderstanding-about-wave-particle-duality/4019585.article)
 
 ## [Archives](archives/index.md)
 

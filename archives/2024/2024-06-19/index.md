@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-19](index.md)
 
+* [2024-06-19, 10:57:22](https://news.ycombinator.com/item?id=40727022) - [Astronomers see a black hole awaken in real time](https://www.eso.org/public/germany/news/eso2409/)
 * [2024-06-19, 10:49:15](https://news.ycombinator.com/item?id=40726971) - [Boeing Sent Two Astronauts into Space. Now It Needs to Get Them Home](https://www.wsj.com/science/space-astronomy/boeing-sent-two-astronauts-into-space-now-it-needs-to-get-them-home-99d96633)
 * [2024-06-19, 10:16:08](https://news.ycombinator.com/item?id=40726792) - [Beyond velocity and acceleration: jerk, snap and higher derivatives (2016)](https://iopscience.iop.org/article/10.1088/0143-0807/37/6/065008)
 * [2024-06-19, 09:51:55](https://news.ycombinator.com/item?id=40726648) - [Slack Combines ASTs with LLMs to Automatically Convert 80% of 15,000 Unit Tests](https://www.infoq.com/news/2024/06/slack-automatic-test-conversion/)
