@@ -8,6 +8,7 @@
 * [2024-06-19, 17:06:16](https://news.ycombinator.com/item?id=40730156) - [Ilya Sutskever starts Safe Superintelligence Inc](https://ssi.inc)
 * [2024-06-19, 17:02:59](https://news.ycombinator.com/item?id=40730132) - [Safe Superintelligence Inc. – Ilya Sutskever](https://twitter.com/ssi/status/1803472825476587910)
 * [2024-06-19, 17:01:12](https://news.ycombinator.com/item?id=40730117) - [Blacksmith (YC W24) is hiring a front end engineer to improve GitHub Actions](https://www.ycombinator.com/companies/blacksmith/jobs/SgZiNoi-founding-engineer-frontend)
+* [2024-06-19, 16:40:15](https://news.ycombinator.com/item?id=40729906) - [1/25-Scale Cray C90 Wristwatch](http://www.chrisfenton.com/1-25-scale-cray-c90-wristwatch/)
 * [2024-06-19, 16:30:14](https://news.ycombinator.com/item?id=40729809) - [The Return of Pneumatic Tubes](https://www.technologyreview.com/2024/06/19/1093446/pneumatic-tubes-hospitals/)
 * [2024-06-19, 16:25:54](https://news.ycombinator.com/item?id=40729760) - [Tomorrow, EU executive branches will vote on ChatControl](https://www.patrick-breyer.de/en/chat-control-politicians-industry-raise-alarm-over-eus-unprecedented-messenger-surveillance-plans/)
 * [2024-06-19, 16:17:36](https://news.ycombinator.com/item?id=40729673) - [Android 10 Smartphone and Termux: Booting Alpine Linux with QEMU 8.0.2 and 8.2.5](https://gist.github.com/NoteAfterNote/7614b0137ac6959e3bba35df66eaa75a)
