@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-06-19](index.md)
 
+* [2024-06-19, 08:05:15](https://news.ycombinator.com/item?id=40725983) - [EU to Greenlight Chat Scanning Proposal](https://www.patrick-breyer.de/en/posts/chat-control/)
 * [2024-06-19, 07:46:07](https://news.ycombinator.com/item?id=40725879) - [The Power Behind Apple's M4 SoC](https://www.techinsights.com/blog/introducing-tsmc-n3e-power-behind-apples-m4-soc)
 * [2024-06-19, 07:36:25](https://news.ycombinator.com/item?id=40725826) - [New UNESCO report warns that Generative AI threatens Holocaust memory](https://www.unesco.org/en/articles/new-unesco-report-warns-generative-ai-threatens-holocaust-memory)
+* [2024-06-19, 06:43:43](https://news.ycombinator.com/item?id=40725517) - [Show HN: Pomoglorbo, a TUI Pomodoro timer for your terminal](https://codeberg.org/justusw/Pomoglorbo)
 * [2024-06-19, 06:32:01](https://news.ycombinator.com/item?id=40725451) - [ExectOS – brand new operating system which derives from NT architecture](https://exectos.eu.org/)
 * [2024-06-19, 05:45:53](https://news.ycombinator.com/item?id=40725214) - [Fern Hollow Bridge should have been closed years before it collapsed](https://practical.engineering/blog/2024/6/18/this-bridge-should-have-been-closed-years-before-it-collapsed)
 * [2024-06-19, 05:18:53](https://news.ycombinator.com/item?id=40725096) - [I'm the hacker that brought down North Korea's Internet for over a week. AMA](https://old.reddit.com/r/IAmA/comments/1divlp3/im_the_hacker_that_brought_down_north_koreas/)
