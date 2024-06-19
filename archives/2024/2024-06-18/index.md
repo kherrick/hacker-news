@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-18](index.md)
 
+* [2024-06-18, 23:57:39](https://news.ycombinator.com/item?id=40723335) - [Reed–Solomon Codes for Coders](https://en.wikiversity.org/wiki/Reed%E2%80%93Solomon_codes_for_coders)
 * [2024-06-18, 23:50:39](https://news.ycombinator.com/item?id=40723302) - [Ask HN: Why do message queue-based architectures seem less popular now?](https://news.ycombinator.com/item?id=40723302)
+* [2024-06-18, 23:42:48](https://news.ycombinator.com/item?id=40723251) - [Large language model data pipelines and Common Crawl](https://blog.christianperone.com/2023/06/appreciating-llms-data-pipelines/)
 * [2024-06-18, 23:38:40](https://news.ycombinator.com/item?id=40723220) - [KidPix](https://kidpix.app)
 * [2024-06-18, 23:30:33](https://news.ycombinator.com/item?id=40723174) - [Reports: Apple is halting its next high-end Vision in favor of something cheaper](https://arstechnica.com/gadgets/2024/06/apple-is-reportedly-shifting-its-next-vision-headset-to-a-cheaper-model/)
 * [2024-06-18, 23:27:36](https://news.ycombinator.com/item?id=40723150) - [Off-path TCP hijacking in NAT-enabled Wi-Fi networks](https://blog.apnic.net/2024/06/18/off-path-tcp-hijacking-in-nat-enabled-wi-fi-networks/)
