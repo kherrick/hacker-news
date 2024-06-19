@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-19](index.md)
 
+* [2024-06-19, 09:15:34](https://news.ycombinator.com/item?id=40726426) - [Monitoring marine litter from space is now a reality](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Monitoring_marine_litter_from_space_is_now_a_reality)
 * [2024-06-19, 08:05:15](https://news.ycombinator.com/item?id=40725983) - [EU to Greenlight Chat Scanning Proposal](https://www.patrick-breyer.de/en/posts/chat-control/)
 * [2024-06-19, 07:46:07](https://news.ycombinator.com/item?id=40725879) - [The Power Behind Apple's M4 SoC](https://www.techinsights.com/blog/introducing-tsmc-n3e-power-behind-apples-m4-soc)
 * [2024-06-19, 07:36:25](https://news.ycombinator.com/item?id=40725826) - [New UNESCO report warns that Generative AI threatens Holocaust memory](https://www.unesco.org/en/articles/new-unesco-report-warns-generative-ai-threatens-holocaust-memory)
