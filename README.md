@@ -26,7 +26,7 @@
 * [2024-06-17, 17:16:29](https://news.ycombinator.com/item?id=40708201) - [All Aquiver: The Decadent Movement](https://aeon.co/essays/the-danger-of-decadence-is-also-its-value-we-need-more-of-it)
 * [2024-06-17, 14:26:18](https://news.ycombinator.com/item?id=40705956) - [The enduring mystery of how water freezes](https://www.quantamagazine.org/the-enduring-mystery-of-how-water-freezes-20240617/)
 * [2024-06-17, 11:57:50](https://news.ycombinator.com/item?id=40704688) - [Logit Prisms: Decomposing Transformer Outputs for Mechanistic Interpretability](https://neuralblog.github.io/logit-prisms/)
-* [2024-06-14, 21:44:33](https://news.ycombinator.com/item?id=40685427) - [Serialization for C# Games](https://chickensoft.games/blog/serialization-for-csharp-games/)
+* [2024-06-14, 17:56:16](https://news.ycombinator.com/item?id=40683130) - [Unraveling the Physics of Knitting](https://research.gatech.edu/unraveling-physics-knitting)
 * [2024-06-14, 09:40:26](https://news.ycombinator.com/item?id=40679184) - [Show HN: ESP32S3 ZXSpectrum](https://news.ycombinator.com/item?id=40679184)
 * [2024-06-14, 05:05:31](https://news.ycombinator.com/item?id=40677630) - [Rare twin elephants born in Thailand](https://www.bbc.com/news/articles/c8445lyjndvo)
 * [2024-06-14, 04:43:16](https://news.ycombinator.com/item?id=40677541) - [Using a 1965 Dutch Rotary Phone via VoIP (T65) in 2024](https://raymii.org/s/blog/Using_a_1965_Dutch_Rotaty_Phone_T65_via_VoIP_in_2024.html)
