@@ -1,22 +1,22 @@
 [
   [
     [
+      "2024-06-19, 14:25:06",
+      "https://news.ycombinator.com/item?id=40728625"
+    ],
+    [
+      "9p filesystem has been added to FreeBSD",
+      "https://cgit.freebsd.org/src/commit/?id=e97ad33a89a78f55280b0485b3249ee9b907a718"
+    ]
+  ],
+  [
+    [
       "2024-06-19, 13:54:50",
       "https://news.ycombinator.com/item?id=40728331"
     ],
     [
       "Can holographic optical storage displace Hard Disk Drives?",
       "https://www.nature.com/articles/s44172-024-00225-0"
-    ]
-  ],
-  [
-    [
-      "2024-06-19, 13:46:12",
-      "https://news.ycombinator.com/item?id=40728245"
-    ],
-    [
-      "Biocompatible electroluminescent device with enhanced luminance",
-      "https://www.nature.com/articles/s41528-024-00322-2"
     ]
   ],
   [
@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2024-06-19, 10:06:54",
+      "https://news.ycombinator.com/item?id=40726735"
+    ],
+    [
+      "Ask HN: What happens when I click \"Request for quote\" on your SaaS?",
+      "https://news.ycombinator.com/item?id=40726735"
+    ]
+  ],
+  [
+    [
       "2024-06-19, 09:51:55",
       "https://news.ycombinator.com/item?id=40726648"
     ],
@@ -87,6 +97,16 @@
     [
       "There's more to mathematics than rigour and proofs",
       "https://terrytao.wordpress.com/career-advice/theres-more-to-mathematics-than-rigour-and-proofs/"
+    ]
+  ],
+  [
+    [
+      "2024-06-19, 09:36:24",
+      "https://news.ycombinator.com/item?id=40726555"
+    ],
+    [
+      "Ask HN: What does RISC-V custom chips for under $100K mean?",
+      "https://news.ycombinator.com/item?id=40726555"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2024-06-18, 13:45:07",
-      "https://news.ycombinator.com/item?id=40717804"
-    ],
-    [
-      "Tiny beauty: how I make scientific art from behind the microscope",
-      "https://www.nature.com/immersive/d41586-024-02011-6/index.html"
-    ]
-  ],
-  [
-    [
       "2024-06-17, 17:16:29",
       "https://news.ycombinator.com/item?id=40708201"
     ],
@@ -257,16 +267,6 @@
     [
       "Logit Prisms: Decomposing Transformer Outputs for Mechanistic Interpretability",
       "https://neuralblog.github.io/logit-prisms/"
-    ]
-  ],
-  [
-    [
-      "2024-06-14, 21:44:33",
-      "https://news.ycombinator.com/item?id=40685427"
-    ],
-    [
-      "Serialization for C# Games",
-      "https://chickensoft.games/blog/serialization-for-csharp-games/"
     ]
   ],
   [
