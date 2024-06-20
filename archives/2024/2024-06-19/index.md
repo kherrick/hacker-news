@@ -59,6 +59,7 @@
 * [2024-06-19, 12:06:32](https://news.ycombinator.com/item?id=40727475) - [27 Years Ago, Nintendo Almost Revolutionized Digital Games with Nintendo Power](https://www.xatakaon.com/video-games/nintendo-power-how-nintendo-almost-revolutionized-gaming-by-creating-an-all-in-one-cartridge-27-years-ago)
 * [2024-06-19, 12:00:49](https://news.ycombinator.com/item?id=40727427) - [Ribbon Health (YC S17) Is Hiring a Sales Eng Director for Enterprises](https://www.ribbonhealth.com/open-roles?gh_jid=5179134004)
 * [2024-06-19, 11:59:00](https://news.ycombinator.com/item?id=40727410) - [2.6M Piracy Reports Against French Users Resulted in 234 Financial Penalties](https://torrentfreak.com/2-6m-piracy-reports-against-french-users-resulted-in-234-financial-penalties-2240618/)
+* [2024-06-19, 11:34:07](https://news.ycombinator.com/item?id=40727252) - [A Book on Linux](https://news.ycombinator.com/item?id=40727252)
 * [2024-06-19, 10:57:22](https://news.ycombinator.com/item?id=40727022) - [Astronomers see a black hole awaken in real time](https://www.eso.org/public/germany/news/eso2409/)
 * [2024-06-19, 10:49:22](https://news.ycombinator.com/item?id=40726974) - [Neofetch developer archives all his repositories: \"Have taken up farming\"](https://github.com/dylanaraps)
 * [2024-06-19, 10:49:15](https://news.ycombinator.com/item?id=40726971) - [Boeing Sent Two Astronauts into Space. Now It Needs to Get Them Home](https://www.wsj.com/science/space-astronomy/boeing-sent-two-astronauts-into-space-now-it-needs-to-get-them-home-99d96633)

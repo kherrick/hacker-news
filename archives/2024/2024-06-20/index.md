@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-20](index.md)
 
 * [2024-06-20, 22:10:17](https://news.ycombinator.com/item?id=40743975) - [Docker Is Having an Outage](https://downdetector.com/status/docker/)
+* [2024-06-20, 21:21:07](https://news.ycombinator.com/item?id=40743531) - [New York Establishes Stringent Protections to Safeguard Kids on Social Media](https://www.governor.ny.gov/news/governor-hochul-joins-attorney-general-james-and-bill-sponsors-sign-nation-leading-legislation)
 * [2024-06-20, 21:00:43](https://news.ycombinator.com/item?id=40743308) - [Promoted.ai (YC W21) Is Hiring a Sales Engineer](https://www.ycombinator.com/companies/promoted/jobs/5moymju-sales-engineer-new-grad)
 * [2024-06-20, 20:12:44](https://news.ycombinator.com/item?id=40742831) - [Ask HN: How do you stay organized for solo dev?](https://news.ycombinator.com/item?id=40742831)
 * [2024-06-20, 20:06:40](https://news.ycombinator.com/item?id=40742764) - [SUSE upgrades its distros with 19 years of support – no other Linux comes close](https://www.zdnet.com/article/suse-upgrades-its-distros-with-19-years-of-support-no-other-linux-comes-close/)
@@ -30,6 +31,7 @@
 * [2024-06-20, 17:24:36](https://news.ycombinator.com/item?id=40741068) - [Notes on Tajikistan](https://mattlakeman.org/2024/06/20/notes-on-tajikistan/)
 * [2024-06-20, 17:12:23](https://news.ycombinator.com/item?id=40740951) - [Virgin Orbit Had a Fake Takeover](https://www.bloomberg.com/opinion/articles/2024-06-20/virgin-orbit-had-a-fake-takeover)
 * [2024-06-20, 17:00:42](https://news.ycombinator.com/item?id=40740843) - [Artisan (YC W24) Is Hiring Exceptional Full-Stack Engineers](https://www.ycombinator.com/companies/artisan/jobs/HGhUCbv-full-stack-engineer)
+* [2024-06-20, 16:35:46](https://news.ycombinator.com/item?id=40740581) - [Using DuckDB as a Unix Tool](https://duckdb.org/2024/06/20/cli-data-processing-using-duckdb-as-a-unix-tool.html)
 * [2024-06-20, 16:03:18](https://news.ycombinator.com/item?id=40740237) - [Reining in America's $3.3T Tax-Exempt Economy](https://taxfoundation.org/research/all/federal/501c3-nonprofit-organization-tax-exempt/)
 * [2024-06-20, 15:55:20](https://news.ycombinator.com/item?id=40740152) - [Measuring Unikernel Cold Boot Time with Perf](https://nanovms.com/dev/tutorials/measuring-unikernel-cold-boot-time-with-perf)
 * [2024-06-20, 15:46:56](https://news.ycombinator.com/item?id=40740049) - [Kraken claims it is being 'extorted' as hacker demands reward after $3M theft](https://cryptobriefing.com/kraken-extortion-claims-white-hat-3m/)
