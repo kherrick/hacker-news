@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-20, 20:01:52](https://news.ycombinator.com/item?id=40742714) - [S. D. Butler – War is a Racket [pdf]](https://kether.com/words/butler-smedley--war-is-a-racket-1.pdf)
 * [2024-06-20, 19:54:44](https://news.ycombinator.com/item?id=40742621) - [New York bans 'addictive feeds' for teens](https://www.theverge.com/2024/6/20/24182396/new-york-governor-social-media-law-parental-consent-algorithms)
-* [2024-06-20, 19:25:38](https://news.ycombinator.com/item?id=40742301) - [Inventions that came from Waterloo](https://uwaterloo.ca/news/10-inventions-you-didnt-know-came-waterloo)
 * [2024-06-20, 19:12:00](https://news.ycombinator.com/item?id=40742163) - [Gilead Shot Prevents All HIV Cases in Trial of African Women](https://www.bloomberg.com/news/articles/2024-06-20/gilead-shot-prevents-100-of-hiv-cases-in-trial-of-african-women)
 * [2024-06-20, 19:00:39](https://news.ycombinator.com/item?id=40742026) - [More Disabled Americans Are Employed, Thanks to Remote Work](https://www.bloomberg.com/news/articles/2024-06-20/remote-work-helps-more-people-with-disabilities-get-employed)
 * [2024-06-20, 18:59:34](https://news.ycombinator.com/item?id=40742014) - [Fuzz Map](https://www.fuzzmap.io/)
@@ -22,7 +22,7 @@
 * [2024-06-20, 09:45:41](https://news.ycombinator.com/item?id=40736771) - [EU Council has withdrawn the vote on Chat Control](https://stackdiary.com/eu-council-has-withdrawn-the-vote-on-chat-control/)
 * [2024-06-20, 09:14:25](https://news.ycombinator.com/item?id=40736577) - [Free software hijacked Philip Hazel's life](https://lwn.net/SubscriberLink/978463/608c876c1153fd31/)
 * [2024-06-20, 06:58:01](https://news.ycombinator.com/item?id=40735743) - [Oldest white wine in the world found in a first-century tomb in Spain](https://doi.org/10.1016/j.jasrep.2024.104636)
-* [2024-06-19, 10:06:54](https://news.ycombinator.com/item?id=40726735) - [Ask HN: What happens when I click \"request for quote\" on your SaaS?](https://news.ycombinator.com/item?id=40726735)
+* [2024-06-20, 00:21:00](https://news.ycombinator.com/item?id=40733705) - [OSRD: Open-Source Railway Designer](https://osrd.fr/en/)
 * [2024-06-19, 09:28:10](https://news.ycombinator.com/item?id=40726497) - [The Prototype's Language](https://news.alvaroduran.com/p/the-prototypes-language)
 * [2024-06-19, 08:02:13](https://news.ycombinator.com/item?id=40725970) - [Two ways to use an LED as a light sensor with Arduino](https://blog.jgc.org/2024/06/two-ways-to-use-led-as-light-sensor.html)
 * [2024-06-19, 07:58:12](https://news.ycombinator.com/item?id=40725949) - [Ask HN: Create audio software akin to physics engines?](https://news.ycombinator.com/item?id=40725949)
