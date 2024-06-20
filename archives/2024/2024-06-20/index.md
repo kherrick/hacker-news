@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-20](index.md)
 
 * [2024-06-20, 13:01:02](https://news.ycombinator.com/item?id=40738281) - [Canonical and Ubuntu Are Down](https://status.canonical.com)
+* [2024-06-20, 12:25:10](https://news.ycombinator.com/item?id=40737901) - [Show HN: Midday – Run your business smarter (open-source)](https://midday.ai)
 * [2024-06-20, 12:22:45](https://news.ycombinator.com/item?id=40737883) - [Weird Test for Boeing's Starliner Uncovered Likely Cause of Failed Thrusters](https://www.inverse.com/science/boeing-starliner-thrusts-against-the-space-station)
 * [2024-06-20, 12:15:00](https://news.ycombinator.com/item?id=40737814) - [EU Chat Control Is Motivated by the American Cloud Act](https://twitter.com/AlecMuffett/status/1803734262354518483)
 * [2024-06-20, 12:00:23](https://news.ycombinator.com/item?id=40737674) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
