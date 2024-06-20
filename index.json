@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-20, 22:32:20",
+      "https://news.ycombinator.com/item?id=40744162"
+    ],
+    [
+      "Show HN: Text Status Hosting and Dashboard",
+      "https://github.com/madprops/curls"
+    ]
+  ],
+  [
+    [
       "2024-06-20, 22:10:17",
       "https://news.ycombinator.com/item?id=40743975"
     ],
@@ -27,16 +37,6 @@
     [
       "Promoted.ai (YC W21) Is Hiring a Sales Engineer",
       "https://www.ycombinator.com/companies/promoted/jobs/5moymju-sales-engineer-new-grad"
-    ]
-  ],
-  [
-    [
-      "2024-06-20, 20:12:44",
-      "https://news.ycombinator.com/item?id=40742831"
-    ],
-    [
-      "Ask HN: How do you stay organized for solo dev?",
-      "https://news.ycombinator.com/item?id=40742831"
     ]
   ],
   [
@@ -117,6 +117,16 @@
     [
       "Using DuckDB as a Unix Tool",
       "https://duckdb.org/2024/06/20/cli-data-processing-using-duckdb-as-a-unix-tool.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-20, 16:03:18",
+      "https://news.ycombinator.com/item?id=40740237"
+    ],
+    [
+      "Reining in America's $3.3T tax-exempt economy",
+      "https://taxfoundation.org/research/all/federal/501c3-nonprofit-organization-tax-exempt/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "ControlNet Game of Life",
       "https://www.jerpint.io/blog/diffusion-gol/"
-    ]
-  ],
-  [
-    [
-      "2024-06-18, 10:29:49",
-      "https://news.ycombinator.com/item?id=40716032"
-    ],
-    [
-      "Satellites Spotting Ships",
-      "https://tech.marksblogg.com/yolo-umbra-sar-satellites-ship-detection.html"
     ]
   ]
 ]
