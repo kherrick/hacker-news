@@ -18,6 +18,7 @@
 * [2024-06-20, 18:41:06](https://news.ycombinator.com/item?id=40741818) - [FBI raids Oakland Mayor Sheng Thao's home, 3 other locations: source](https://abc7news.com/post/fbi-raided-oakland-mayor-sheng-thaos-home-sources/14980538/)
 * [2024-06-20, 18:31:33](https://news.ycombinator.com/item?id=40741702) - [Cloudflare Connectivity Issues in Eastern US and Central Europe](https://www.cloudflarestatus.com/incidents/p7l6rrbhysck)
 * [2024-06-20, 18:28:27](https://news.ycombinator.com/item?id=40741672) - [Actor Donald Sutherland dies aged 88](https://www.bbc.com/news/articles/c9rrvdq3g9zo)
+* [2024-06-20, 18:27:01](https://news.ycombinator.com/item?id=40741658) - [Lilly Alzheimer's drug gets unanimous backing of FDA panel](https://www.biopharmadive.com/news/donanemab-alzheimers-fda-advisers-panel-vote-lilly/718505/)
 * [2024-06-20, 17:50:22](https://news.ycombinator.com/item?id=40741304) - [Ask HN: Well architected React and Node repos?](https://news.ycombinator.com/item?id=40741304)
 * [2024-06-20, 17:42:31](https://news.ycombinator.com/item?id=40741241) - [Rust's concurrency model vs. Go's concurrency model](https://kerkour.com/rust-vs-go-concurrency-models-stackfull-vs-stackless-coroutines)
 * [2024-06-20, 17:37:47](https://news.ycombinator.com/item?id=40741197) - [Small claims court became Meta's customer service hotline](https://www.engadget.com/how-small-claims-court-became-metas-customer-service-hotline-160224479.html)
