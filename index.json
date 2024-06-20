@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-06-20, 13:01:02",
-      "https://news.ycombinator.com/item?id=40738281"
-    ],
-    [
-      "Canonical and Ubuntu Are Down",
-      "https://status.canonical.com"
-    ]
-  ],
-  [
-    [
       "2024-06-20, 12:00:23",
       "https://news.ycombinator.com/item?id=40737674"
     ],
@@ -187,6 +177,16 @@
     [
       "Agilent 2000a / 3000a Oscilloscope NAND Recovery",
       "https://salvagedcircuitry.com/2000a-nand-recovery.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-19, 12:41:30",
+      "https://news.ycombinator.com/item?id=40727715"
+    ],
+    [
+      "Text-to-Music Editing for Music Language Models via Instruction Tuning",
+      "https://heymusic.ai/blog/papers/instruct-musicgen"
     ]
   ],
   [
