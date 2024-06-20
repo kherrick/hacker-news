@@ -3,7 +3,7 @@
 * [2024-06-20, 07:20:38](https://news.ycombinator.com/item?id=40735859) - [Lessons Learned from Scaling to Multi-Terabyte Datasets](https://v2thegreat.com/2024/06/19/lessons-learned-from-scaling-to-multi-terabyte-datasets/)
 * [2024-06-20, 07:00:24](https://news.ycombinator.com/item?id=40735764) - [Proposed ballot measure to raise corporate taxes, give every Oregonian $750/year](https://www.oregonlive.com/politics/2024/06/proposed-ballot-measure-proposal-to-raise-corporate-taxes-give-every-oregonian-750-a-year-likely-to-make-november-ballot.html)
 * [2024-06-20, 06:58:01](https://news.ycombinator.com/item?id=40735743) - [Oldest white wine in the world found in a first-century tomb in Spain](https://doi.org/10.1016/j.jasrep.2024.104636)
-* [2024-06-20, 06:20:32](https://news.ycombinator.com/item?id=40735531) - [What Is a Personal User Manual?](https://futureforum.com/2022/07/15/personal-user-manual/)
+* [2024-06-20, 06:20:32](https://news.ycombinator.com/item?id=40735531) - [What Is a Personal User Manual? (2022)](https://futureforum.com/2022/07/15/personal-user-manual/)
 * [2024-06-20, 03:24:41](https://news.ycombinator.com/item?id=40734560) - [Rosser's Theorem via Turing Machines (2011)](https://scottaaronson.blog/?p=710)
 * [2024-06-20, 03:22:46](https://news.ycombinator.com/item?id=40734553) - [A 30-meter pass in the Pyrenees through which insects migrate](https://english.elpais.com/climate/2024-06-13/the-30-meter-pass-in-the-pyrenees-through-which-millions-of-insects-migrate.html)
 * [2024-06-20, 00:21:00](https://news.ycombinator.com/item?id=40733705) - [OSRD: Open-Source Railway Designer](https://osrd.fr/en/)
