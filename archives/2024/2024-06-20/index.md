@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-20](index.md)
 
+* [2024-06-20, 11:18:53](https://news.ycombinator.com/item?id=40737349) - [Curl is inside 22,734 Steam games](https://daniel.haxx.se/blog/2024/06/20/inside-22734-steam-games/)
+* [2024-06-20, 11:11:16](https://news.ycombinator.com/item?id=40737294) - [Tetris as Font](https://erikdemaine.org/fonts/tetris/)
 * [2024-06-20, 10:37:18](https://news.ycombinator.com/item?id=40737095) - [Java string interpolation feature has been cancelled](https://bugs.openjdk.org/browse/JDK-8329949)
 * [2024-06-20, 10:18:02](https://news.ycombinator.com/item?id=40736966) - [Post office doxes all postmasters targeted in horizon scandal](https://www.bbc.co.uk/news/articles/cd110nl7dppo)
 * [2024-06-20, 09:45:41](https://news.ycombinator.com/item?id=40736771) - [EU Council has withdrawn the vote on Chat Control](https://stackdiary.com/eu-council-has-withdrawn-the-vote-on-chat-control/)

@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-20, 11:18:53](https://news.ycombinator.com/item?id=40737349) - [Curl is inside 22,734 Steam games](https://daniel.haxx.se/blog/2024/06/20/inside-22734-steam-games/)
+* [2024-06-20, 11:11:16](https://news.ycombinator.com/item?id=40737294) - [Tetris as Font](https://erikdemaine.org/fonts/tetris/)
 * [2024-06-20, 10:37:18](https://news.ycombinator.com/item?id=40737095) - [Java string interpolation feature has been cancelled](https://bugs.openjdk.org/browse/JDK-8329949)
-* [2024-06-20, 10:18:02](https://news.ycombinator.com/item?id=40736966) - [Post office doxes all postmasters targeted in horizon scandal](https://www.bbc.co.uk/news/articles/cd110nl7dppo)
 * [2024-06-20, 09:45:41](https://news.ycombinator.com/item?id=40736771) - [EU Council has withdrawn the vote on Chat Control](https://stackdiary.com/eu-council-has-withdrawn-the-vote-on-chat-control/)
 * [2024-06-20, 09:31:04](https://news.ycombinator.com/item?id=40736685) - [Bun is much faster than Node.js 22 at decoding Base64 but both rely on same lib](https://twitter.com/lemire/status/1803598132334436415)
 * [2024-06-20, 09:14:25](https://news.ycombinator.com/item?id=40736577) - [Free software hijacked Philip Hazel's life](https://lwn.net/SubscriberLink/978463/608c876c1153fd31/)
@@ -17,7 +18,6 @@
 * [2024-06-19, 17:06:16](https://news.ycombinator.com/item?id=40730156) - [Safe Superintelligence Inc.](https://ssi.inc)
 * [2024-06-19, 16:40:15](https://news.ycombinator.com/item?id=40729906) - [1/25-scale Cray C90 wristwatch](http://www.chrisfenton.com/1-25-scale-cray-c90-wristwatch/)
 * [2024-06-19, 16:30:14](https://news.ycombinator.com/item?id=40729809) - [The return of pneumatic tubes](https://www.technologyreview.com/2024/06/19/1093446/pneumatic-tubes-hospitals/)
-* [2024-06-19, 14:44:50](https://news.ycombinator.com/item?id=40728814) - [Arvind has died](https://news.mit.edu/2024/computer-science-professor-arvind-dies-0618)
 * [2024-06-19, 10:57:22](https://news.ycombinator.com/item?id=40727022) - [Astronomers see a black hole awaken in real time](https://www.eso.org/public/germany/news/eso2409/)
 * [2024-06-19, 07:53:34](https://news.ycombinator.com/item?id=40725924) - [NASA Releases Hubble Image Taken in New Pointing Mode Using Only Single Gyro](https://science.nasa.gov/missions/hubble/nasa-releases-hubble-image-taken-in-new-pointing-mode/)
 * [2024-06-18, 22:32:37](https://news.ycombinator.com/item?id=40722784) - [Agricultural drones are transforming rice farming in the Mekong River delta](https://hakaimagazine.com/videos-visuals/rice-farming-gets-an-ai-upgrade/)
