@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-06-20](index.md)
 
+* [2024-06-20, 00:21:00](https://news.ycombinator.com/item?id=40733705) - [OSRD: Open-Source Railway Designer](https://osrd.fr/en/)
 * [2024-06-20, 00:06:28](https://news.ycombinator.com/item?id=40733615) - [Nobody Knows What's Going On](https://www.raptitude.com/2024/06/nobody-knows-whats-going-on/)
