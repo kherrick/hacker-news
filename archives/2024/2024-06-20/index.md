@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-20](index.md)
 
+* [2024-06-20, 08:40:35](https://news.ycombinator.com/item?id=40736397) - [Ask HN: Is Google deliberately breaking Firefox?](https://news.ycombinator.com/item?id=40736397)
 * [2024-06-20, 07:39:24](https://news.ycombinator.com/item?id=40735973) - [Ask HN: Is Firefox better than Chrome when it comes to user security?](https://news.ycombinator.com/item?id=40735973)
 * [2024-06-20, 07:20:38](https://news.ycombinator.com/item?id=40735859) - [Lessons Learned from Scaling to Multi-Terabyte Datasets](https://v2thegreat.com/2024/06/19/lessons-learned-from-scaling-to-multi-terabyte-datasets/)
 * [2024-06-20, 07:00:24](https://news.ycombinator.com/item?id=40735764) - [Proposed ballot measure to raise corporate taxes, give every Oregonian $750/year](https://www.oregonlive.com/politics/2024/06/proposed-ballot-measure-proposal-to-raise-corporate-taxes-give-every-oregonian-750-a-year-likely-to-make-november-ballot.html)
