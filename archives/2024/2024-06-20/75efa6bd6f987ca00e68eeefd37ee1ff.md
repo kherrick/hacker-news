@@ -1,0 +1,3 @@
+# [Published on 2024-06-20](index.md)
+
+* [2024-06-20, 10:37:18](https://news.ycombinator.com/item?id=40737095) - [Java string interpolation feature has been cancelled](https://mail.openjdk.org/pipermail/amber-spec-experts/2024-April/004106.html)

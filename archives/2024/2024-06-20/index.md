@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-06-20](index.md)
 
+* [2024-06-20, 18:31:33](https://news.ycombinator.com/item?id=40741702) - [Cloudflare Connectivity Issues in Eastern US and Central Europe](https://www.cloudflarestatus.com/incidents/p7l6rrbhysck)
 * [2024-06-20, 17:50:22](https://news.ycombinator.com/item?id=40741304) - [Ask HN: Well architected React and Node repos?](https://news.ycombinator.com/item?id=40741304)
 * [2024-06-20, 17:42:31](https://news.ycombinator.com/item?id=40741241) - [Rust's concurrency model vs. Go's concurrency model](https://kerkour.com/rust-vs-go-concurrency-models-stackfull-vs-stackless-coroutines)
 * [2024-06-20, 17:37:47](https://news.ycombinator.com/item?id=40741197) - [Small claims court became Meta's customer service hotline](https://www.engadget.com/how-small-claims-court-became-metas-customer-service-hotline-160224479.html)
 * [2024-06-20, 17:33:41](https://news.ycombinator.com/item?id=40741160) - [Instagram Recommends Sexual Videos to Accounts for 13-Year-Olds, Tests Show](https://www.wsj.com/tech/instagram-recommends-sexual-videos-to-accounts-for-13-year-olds-tests-show-b6123c65)
+* [2024-06-20, 17:24:54](https://news.ycombinator.com/item?id=40741072) - [A Buffer Overflow in the XNU Kernel](https://jprx.io/cve-2024-27815/)
 * [2024-06-20, 17:24:36](https://news.ycombinator.com/item?id=40741068) - [Notes on Tajikistan](https://mattlakeman.org/2024/06/20/notes-on-tajikistan/)
 * [2024-06-20, 17:12:23](https://news.ycombinator.com/item?id=40740951) - [Virgin Orbit Had a Fake Takeover](https://www.bloomberg.com/opinion/articles/2024-06-20/virgin-orbit-had-a-fake-takeover)
 * [2024-06-20, 17:00:42](https://news.ycombinator.com/item?id=40740843) - [Artisan (YC W24) Is Hiring Exceptional Full-Stack Engineers](https://www.ycombinator.com/companies/artisan/jobs/HGhUCbv-full-stack-engineer)
@@ -44,6 +46,7 @@
 * [2024-06-20, 11:04:07](https://news.ycombinator.com/item?id=40737249) - [Rotation curves: still flat after a million light-years](https://tritonstation.com/2024/06/18/rotation-curves-still-flat-after-a-million-light-years/)
 * [2024-06-20, 10:56:39](https://news.ycombinator.com/item?id=40737204) - [Drugmaker to testify on why weight-loss drugs cost 15x more in the US](https://arstechnica.com/science/2024/06/drugmaker-ceo-to-testify-on-outrageously-priced-weight-loss-drugs/)
 * [2024-06-20, 10:49:51](https://news.ycombinator.com/item?id=40737168) - [Effectiveness of an walking intervention for the prevention of low back pain](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)00755-4/fulltext)
+* [2024-06-20, 10:37:18](https://news.ycombinator.com/item?id=40737095) - [Java string interpolation feature has been cancelled](https://mail.openjdk.org/pipermail/amber-spec-experts/2024-April/004106.html)
 * [2024-06-20, 10:37:18](https://news.ycombinator.com/item?id=40737095) - [Java string interpolation feature has been cancelled](https://bugs.openjdk.org/browse/JDK-8329949)
 * [2024-06-20, 10:18:02](https://news.ycombinator.com/item?id=40736966) - [Post office doxes all postmasters targeted in horizon scandal](https://www.bbc.co.uk/news/articles/cd110nl7dppo)
 * [2024-06-20, 09:45:41](https://news.ycombinator.com/item?id=40736771) - [EU Council has withdrawn the vote on Chat Control](https://stackdiary.com/eu-council-has-withdrawn-the-vote-on-chat-control/)
