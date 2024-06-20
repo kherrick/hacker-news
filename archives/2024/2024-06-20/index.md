@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-20](index.md)
 
+* [2024-06-20, 10:37:18](https://news.ycombinator.com/item?id=40737095) - [Java string interpolation feature has been cancelled](https://bugs.openjdk.org/browse/JDK-8329949)
 * [2024-06-20, 09:45:41](https://news.ycombinator.com/item?id=40736771) - [EU Council has withdrawn the vote on Chat Control](https://stackdiary.com/eu-council-has-withdrawn-the-vote-on-chat-control/)
 * [2024-06-20, 09:31:04](https://news.ycombinator.com/item?id=40736685) - [Bun is much faster than Node.js 22 at decoding Base64 but both rely on same lib](https://twitter.com/lemire/status/1803598132334436415)
 * [2024-06-20, 08:40:35](https://news.ycombinator.com/item?id=40736397) - [Ask HN: Is Google deliberately breaking Firefox?](https://news.ycombinator.com/item?id=40736397)
