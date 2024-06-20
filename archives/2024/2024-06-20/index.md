@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-20](index.md)
 
+* [2024-06-20, 14:03:46](https://news.ycombinator.com/item?id=40738916) - [Claude 3.5 Sonnet](https://www.anthropic.com/news/claude-3-5-sonnet)
 * [2024-06-20, 13:01:02](https://news.ycombinator.com/item?id=40738281) - [Canonical and Ubuntu Are Down](https://status.canonical.com)
 * [2024-06-20, 12:25:10](https://news.ycombinator.com/item?id=40737901) - [Show HN: Midday – Run your business smarter (open-source)](https://midday.ai)
 * [2024-06-20, 12:22:45](https://news.ycombinator.com/item?id=40737883) - [Weird Test for Boeing's Starliner Uncovered Likely Cause of Failed Thrusters](https://www.inverse.com/science/boeing-starliner-thrusts-against-the-space-station)

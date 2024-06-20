@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-20, 14:03:46](https://news.ycombinator.com/item?id=40738916) - [Claude 3.5 Sonnet](https://www.anthropic.com/news/claude-3-5-sonnet)
 * [2024-06-20, 12:25:10](https://news.ycombinator.com/item?id=40737901) - [Show HN: Midday – Run your business smarter (open-source)](https://midday.ai)
 * [2024-06-20, 12:00:23](https://news.ycombinator.com/item?id=40737674) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-06-20, 11:40:26](https://news.ycombinator.com/item?id=40737508) - [NPM and NodeJS should do more to make ES Modules easy to use](https://borischerny.com/javascript,/typescript/2024/06/19/ES-Modules-Are-A-Mess.html)
@@ -16,7 +17,6 @@
 * [2024-06-19, 18:59:40](https://news.ycombinator.com/item?id=40731360) - [EasyOS: An experimental Linux distribution](https://easyos.org/)
 * [2024-06-19, 17:06:16](https://news.ycombinator.com/item?id=40730156) - [Safe Superintelligence Inc.](https://ssi.inc)
 * [2024-06-19, 16:40:15](https://news.ycombinator.com/item?id=40729906) - [1/25-scale Cray C90 wristwatch](http://www.chrisfenton.com/1-25-scale-cray-c90-wristwatch/)
-* [2024-06-19, 16:30:14](https://news.ycombinator.com/item?id=40729809) - [The return of pneumatic tubes](https://www.technologyreview.com/2024/06/19/1093446/pneumatic-tubes-hospitals/)
 * [2024-06-19, 14:44:50](https://news.ycombinator.com/item?id=40728814) - [Arvind has died](https://news.mit.edu/2024/computer-science-professor-arvind-dies-0618)
 * [2024-06-19, 13:20:01](https://news.ycombinator.com/item?id=40728032) - [Agilent 2000a / 3000a Oscilloscope NAND Recovery](https://salvagedcircuitry.com/2000a-nand-recovery.html)
 * [2024-06-19, 12:41:30](https://news.ycombinator.com/item?id=40727715) - [Text-to-Music Editing for Music Language Models via Instruction Tuning](https://heymusic.ai/blog/papers/instruct-musicgen)
