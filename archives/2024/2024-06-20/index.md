@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-20](index.md)
 
+* [2024-06-20, 17:12:23](https://news.ycombinator.com/item?id=40740951) - [Virgin Orbit Had a Fake Takeover](https://www.bloomberg.com/opinion/articles/2024-06-20/virgin-orbit-had-a-fake-takeover)
 * [2024-06-20, 17:00:42](https://news.ycombinator.com/item?id=40740843) - [Artisan (YC W24) Is Hiring Exceptional Full-Stack Engineers](https://www.ycombinator.com/companies/artisan/jobs/HGhUCbv-full-stack-engineer)
 * [2024-06-20, 16:03:18](https://news.ycombinator.com/item?id=40740237) - [Reining in America's $3.3T Tax-Exempt Economy](https://taxfoundation.org/research/all/federal/501c3-nonprofit-organization-tax-exempt/)
 * [2024-06-20, 15:55:20](https://news.ycombinator.com/item?id=40740152) - [Measuring Unikernel Cold Boot Time with Perf](https://nanovms.com/dev/tutorials/measuring-unikernel-cold-boot-time-with-perf)
