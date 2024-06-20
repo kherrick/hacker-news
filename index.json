@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=40742301"
     ],
     [
-      "Inventions you didn't know came from Waterloo",
+      "Inventions that came from Waterloo",
       "https://uwaterloo.ca/news/10-inventions-you-didnt-know-came-waterloo"
     ]
   ],
@@ -37,16 +37,6 @@
     [
       "Fuzz Map",
       "https://www.fuzzmap.io/"
-    ]
-  ],
-  [
-    [
-      "2024-06-20, 18:56:32",
-      "https://news.ycombinator.com/item?id=40741978"
-    ],
-    [
-      "Many people don't pay full price, Most don't want to pay at all for news",
-      "https://www.niemanlab.org/2024/06/many-people-dont-pay-full-price-for-their-news-subscription-most-dont-want-to-pay-anything-at-all/"
     ]
   ],
   [
@@ -95,7 +85,7 @@
       "https://news.ycombinator.com/item?id=40741072"
     ],
     [
-      "A Buffer Overflow in the XNU Kernel",
+      "A buffer overflow in the XNU kernel",
       "https://jprx.io/cve-2024-27815/"
     ]
   ],
@@ -145,7 +135,7 @@
       "https://news.ycombinator.com/item?id=40739710"
     ],
     [
-      "Atkinson Dithering",
+      "Atkinson Dithering (2021)",
       "https://beyondloom.com/blog/dither.html"
     ]
   ],
@@ -195,7 +185,7 @@
       "https://news.ycombinator.com/item?id=40737294"
     ],
     [
-      "Tetris as Font",
+      "Tetris Font",
       "https://erikdemaine.org/fonts/tetris/"
     ]
   ],
@@ -297,6 +287,16 @@
     [
       "ControlNet Game of Life",
       "https://www.jerpint.io/blog/diffusion-gol/"
+    ]
+  ],
+  [
+    [
+      "2024-06-18, 10:29:49",
+      "https://news.ycombinator.com/item?id=40716032"
+    ],
+    [
+      "Satellites Spotting Ships",
+      "https://tech.marksblogg.com/yolo-umbra-sar-satellites-ship-detection.html"
     ]
   ]
 ]
