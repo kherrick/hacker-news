@@ -23,11 +23,11 @@
 * [2024-06-20, 09:14:25](https://news.ycombinator.com/item?id=40736577) - [Free software hijacked Philip Hazel's life](https://lwn.net/SubscriberLink/978463/608c876c1153fd31/)
 * [2024-06-20, 06:58:01](https://news.ycombinator.com/item?id=40735743) - [Oldest white wine in the world found in a first-century tomb in Spain](https://doi.org/10.1016/j.jasrep.2024.104636)
 * [2024-06-19, 10:06:54](https://news.ycombinator.com/item?id=40726735) - [Ask HN: What happens when I click \"request for quote\" on your SaaS?](https://news.ycombinator.com/item?id=40726735)
+* [2024-06-19, 09:28:10](https://news.ycombinator.com/item?id=40726497) - [The Prototype's Language](https://news.alvaroduran.com/p/the-prototypes-language)
 * [2024-06-19, 08:02:13](https://news.ycombinator.com/item?id=40725970) - [Two ways to use an LED as a light sensor with Arduino](https://blog.jgc.org/2024/06/two-ways-to-use-led-as-light-sensor.html)
 * [2024-06-19, 07:58:12](https://news.ycombinator.com/item?id=40725949) - [Ask HN: Create audio software akin to physics engines?](https://news.ycombinator.com/item?id=40725949)
 * [2024-06-19, 07:53:34](https://news.ycombinator.com/item?id=40725924) - [NASA Releases Hubble Image Taken in New Pointing Mode Using Only Single Gyro](https://science.nasa.gov/missions/hubble/nasa-releases-hubble-image-taken-in-new-pointing-mode/)
 * [2024-06-18, 23:05:54](https://news.ycombinator.com/item?id=40723024) - [The Shape of Information](https://kucharski.substack.com/p/the-shape-of-information)
-* [2024-06-18, 22:32:37](https://news.ycombinator.com/item?id=40722784) - [Agricultural drones are transforming rice farming in the Mekong River delta](https://hakaimagazine.com/videos-visuals/rice-farming-gets-an-ai-upgrade/)
 * [2024-06-18, 10:45:55](https://news.ycombinator.com/item?id=40716154) - [ControlNet Game of Life](https://www.jerpint.io/blog/diffusion-gol/)
 * [2024-06-18, 10:29:49](https://news.ycombinator.com/item?id=40716032) - [Satellites Spotting Ships](https://tech.marksblogg.com/yolo-umbra-sar-satellites-ship-detection.html)
 
