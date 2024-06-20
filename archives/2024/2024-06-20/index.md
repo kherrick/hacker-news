@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-20](index.md)
 
+* [2024-06-20, 21:00:43](https://news.ycombinator.com/item?id=40743308) - [Promoted.ai (YC W21) Is Hiring a Sales Engineer](https://www.ycombinator.com/companies/promoted/jobs/5moymju-sales-engineer-new-grad)
+* [2024-06-20, 20:12:44](https://news.ycombinator.com/item?id=40742831) - [Ask HN: How do you stay organized for solo dev?](https://news.ycombinator.com/item?id=40742831)
 * [2024-06-20, 20:01:52](https://news.ycombinator.com/item?id=40742714) - [S. D. Butler – War is a Racket [pdf]](https://kether.com/words/butler-smedley--war-is-a-racket-1.pdf)
 * [2024-06-20, 19:54:44](https://news.ycombinator.com/item?id=40742621) - [New York bans 'addictive feeds' for teens](https://www.theverge.com/2024/6/20/24182396/new-york-governor-social-media-law-parental-consent-algorithms)
 * [2024-06-20, 19:25:38](https://news.ycombinator.com/item?id=40742301) - [Inventions you didn't know came from Waterloo](https://uwaterloo.ca/news/10-inventions-you-didnt-know-came-waterloo)

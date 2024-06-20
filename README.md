@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-20, 21:00:43](https://news.ycombinator.com/item?id=40743308) - [Promoted.ai (YC W21) Is Hiring a Sales Engineer](https://www.ycombinator.com/companies/promoted/jobs/5moymju-sales-engineer-new-grad)
+* [2024-06-20, 20:12:44](https://news.ycombinator.com/item?id=40742831) - [Ask HN: How do you stay organized for solo dev?](https://news.ycombinator.com/item?id=40742831)
 * [2024-06-20, 20:01:52](https://news.ycombinator.com/item?id=40742714) - [S. D. Butler – War is a Racket [pdf]](https://kether.com/words/butler-smedley--war-is-a-racket-1.pdf)
 * [2024-06-20, 19:54:44](https://news.ycombinator.com/item?id=40742621) - [New York bans 'addictive feeds' for teens](https://www.theverge.com/2024/6/20/24182396/new-york-governor-social-media-law-parental-consent-algorithms)
 * [2024-06-20, 19:12:00](https://news.ycombinator.com/item?id=40742163) - [Gilead Shot Prevents All HIV Cases in Trial of African Women](https://www.bloomberg.com/news/articles/2024-06-20/gilead-shot-prevents-100-of-hiv-cases-in-trial-of-african-women)
@@ -10,8 +12,6 @@
 * [2024-06-20, 17:37:47](https://news.ycombinator.com/item?id=40741197) - [Small claims court became Meta's customer service hotline](https://www.engadget.com/how-small-claims-court-became-metas-customer-service-hotline-160224479.html)
 * [2024-06-20, 17:24:54](https://news.ycombinator.com/item?id=40741072) - [A buffer overflow in the XNU kernel](https://jprx.io/cve-2024-27815/)
 * [2024-06-20, 17:24:36](https://news.ycombinator.com/item?id=40741068) - [Notes on Tajikistan](https://mattlakeman.org/2024/06/20/notes-on-tajikistan/)
-* [2024-06-20, 17:00:42](https://news.ycombinator.com/item?id=40740843) - [Artisan (YC W24) Is Hiring Exceptional Full-Stack Engineers](https://www.ycombinator.com/companies/artisan/jobs/HGhUCbv-full-stack-engineer)
-* [2024-06-20, 16:03:18](https://news.ycombinator.com/item?id=40740237) - [Reining in America's $3.3T tax-exempt economy](https://taxfoundation.org/research/all/federal/501c3-nonprofit-organization-tax-exempt/)
 * [2024-06-20, 15:45:19](https://news.ycombinator.com/item?id=40740021) - [Show HN: I made a puzzle game that gently introduces my favorite math mysteries](https://www.rahulilango.com/coloring/)
 * [2024-06-20, 15:18:27](https://news.ycombinator.com/item?id=40739710) - [Atkinson Dithering (2021)](https://beyondloom.com/blog/dither.html)
 * [2024-06-20, 14:50:40](https://news.ycombinator.com/item?id=40739384) - [Calculating Empires: A Genealogy of Technology and Power Since 1500](https://calculatingempires.net/)
