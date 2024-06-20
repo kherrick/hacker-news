@@ -55,6 +55,7 @@
 * [2024-06-16, 13:10:15](https://news.ycombinator.com/item?id=40696788) - [TerraPower's Natrium: A Fast Neutron Reactor with Built-In Grid Level Storage](https://hackaday.com/2021/07/06/terrapowers-natrium-combining-a-fast-neutron-reactor-with-built-in-grid-level-storage/)
 * [2024-06-16, 13:03:26](https://news.ycombinator.com/item?id=40696743) - [Tesla Cybertruck deliveries halted amid problem with giant windshield wiper](https://electrek.co/2024/06/15/tesla-cybertruck-deliveries-halted-amid-problem-giant-windshield-wiper/)
 * [2024-06-16, 12:26:33](https://news.ycombinator.com/item?id=40696539) - [Flesh-Eating Bacteria That Can Kill in Two Days Spreads in Japan](https://www.bloomberg.com/news/articles/2024-06-15/flesh-eating-bacteria-that-can-kill-in-two-days-spreads-in-japan)
+* [2024-06-16, 12:07:40](https://news.ycombinator.com/item?id=40696448) - [Nobody Is Starting from Scratch](https://hiking.org/2018/08/26/nobody-is-starting-from-scratch/)
 * [2024-06-16, 12:03:08](https://news.ycombinator.com/item?id=40696431) - [Searching for a female partner for the \"loneliest\" plant](https://arstechnica.com/science/2024/06/searching-for-a-female-partner-for-the-worlds-loneliest-plant/)
 * [2024-06-16, 11:53:34](https://news.ycombinator.com/item?id=40696384) - [Insider view on how AMD lost the GPU oppty](https://twitter.com/MohapatraHemant/status/1285234687267356672)
 * [2024-06-16, 11:16:34](https://news.ycombinator.com/item?id=40696211) - [Homunculus](https://homunculus.jp/)
