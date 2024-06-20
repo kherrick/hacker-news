@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-20, 01:58:57](https://news.ycombinator.com/item?id=40734171) - [Qualcomm AI/Copilot PCs don't live up to the hype](https://semiaccurate.com/2024/06/18/qualcomm-ai-copilot-pcs-dont-live-up-to-the-hype/)
 * [2024-06-20, 00:21:00](https://news.ycombinator.com/item?id=40733705) - [OSRD: Open-Source Railway Designer](https://osrd.fr/en/)
 * [2024-06-20, 00:06:28](https://news.ycombinator.com/item?id=40733615) - [Nobody knows what's going on](https://www.raptitude.com/2024/06/nobody-knows-whats-going-on/)
 * [2024-06-19, 23:45:22](https://news.ycombinator.com/item?id=40733542) - [Trealla Prolog: Compact and efficient Prolog interpreter](https://trealla-prolog.github.io/trealla/)
@@ -17,7 +16,6 @@
 * [2024-06-19, 16:30:14](https://news.ycombinator.com/item?id=40729809) - [The return of pneumatic tubes](https://www.technologyreview.com/2024/06/19/1093446/pneumatic-tubes-hospitals/)
 * [2024-06-19, 16:17:01](https://news.ycombinator.com/item?id=40729671) - [The demise of the mildly dynamic website (2022)](https://www.devever.net/~hl/mildlydynamic)
 * [2024-06-19, 16:15:46](https://news.ycombinator.com/item?id=40729655) - [NodeSwift: Bridge Node.js and Swift](https://github.com/kabiroberai/node-swift)
-* [2024-06-19, 15:57:28](https://news.ycombinator.com/item?id=40729501) - [Fast Crimes at Lambda School](https://www.sandofsky.com/lambda-school/)
 * [2024-06-19, 13:20:01](https://news.ycombinator.com/item?id=40728032) - [Agilent 2000a / 3000a Oscilloscope NAND Recovery](https://salvagedcircuitry.com/2000a-nand-recovery.html)
 * [2024-06-19, 12:14:11](https://news.ycombinator.com/item?id=40727523) - [The hacking of culture and the creation of socio-technical debt](https://www.schneier.com/blog/archives/2024/06/the-hacking-of-culture-and-the-creation-of-socio-technical-debt.html)
 * [2024-06-19, 10:57:22](https://news.ycombinator.com/item?id=40727022) - [Astronomers see a black hole awaken in real time](https://www.eso.org/public/germany/news/eso2409/)
@@ -25,9 +23,11 @@
 * [2024-06-19, 09:51:05](https://news.ycombinator.com/item?id=40726641) - [There's more to mathematics than rigour and proofs (2007)](https://terrytao.wordpress.com/career-advice/theres-more-to-mathematics-than-rigour-and-proofs/)
 * [2024-06-19, 06:32:01](https://news.ycombinator.com/item?id=40725451) - [ExectOS – brand new operating system which derives from NT architecture](https://exectos.eu.org/)
 * [2024-06-18, 22:32:37](https://news.ycombinator.com/item?id=40722784) - [Agricultural drones are transforming rice farming in the Mekong River delta](https://hakaimagazine.com/videos-visuals/rice-farming-gets-an-ai-upgrade/)
-* [2024-06-18, 15:26:38](https://news.ycombinator.com/item?id=40718908) - [When are SSDs slow?](https://cedardb.com/blog/ssd_latency/)
+* [2024-06-18, 13:47:18](https://news.ycombinator.com/item?id=40717823) - [The short, happy reign of CD-ROM](https://www.fastcompany.com/91128052/history-of-cd-roms-encarta-myst)
 * [2024-06-18, 13:35:58](https://news.ycombinator.com/item?id=40717706) - [Vannevar Bush Engineered the 20th Century](https://spectrum.ieee.org/vannevar-bush)
 * [2024-06-18, 13:08:15](https://news.ycombinator.com/item?id=40717398) - [Show HN: Radius – A Meetup.com alternative](https://www.radius.to)
+* [2024-06-18, 12:18:35](https://news.ycombinator.com/item?id=40716917) - [The Vulture and the Little Girl](https://en.wikipedia.org/wiki/The_Vulture_and_the_Little_Girl)
+* [2024-06-18, 12:06:26](https://news.ycombinator.com/item?id=40716801) - [Code Models](https://openjdk.org/projects/babylon/articles/code-models)
 * [2024-06-18, 03:49:27](https://news.ycombinator.com/item?id=40713893) - [Brain circuit scores identify clinically distinct biotypes in depression/anxiety](https://www.nature.com/articles/s41591-024-03057-9)
 * [2024-06-17, 23:23:09](https://news.ycombinator.com/item?id=40712359) - [What happens to our breath when we type, tap, scroll](https://www.npr.org/2024/06/10/1247296780/screen-apnea-why-screens-cause-shallow-breathing)
 
