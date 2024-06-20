@@ -89,6 +89,7 @@
 * [2024-06-17, 12:33:51](https://news.ycombinator.com/item?id=40704950) - [TinyLetter, in Memoriam](https://www.theverge.com/24085737/tinyletter-mailchimp-shut-down-email-newsletters)
 * [2024-06-17, 12:15:49](https://news.ycombinator.com/item?id=40704812) - [The Programmer's Brain](https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/the-programmers-brain)
 * [2024-06-17, 11:57:50](https://news.ycombinator.com/item?id=40704688) - [Logit Prisms: Decomposing Transformer Outputs for Mechanistic Interpretability](https://neuralblog.github.io/logit-prisms/)
+* [2024-06-17, 11:53:10](https://news.ycombinator.com/item?id=40704662) - [Ingroups and Outgroups](https://effectiviology.com/ingroup-outgroup/)
 * [2024-06-17, 11:42:08](https://news.ycombinator.com/item?id=40704594) - [Optical PCIe 7.0 connection hits a blazing 128 GT/s](https://www.tomshardware.com/tech-industry/optical-pcie-70-connection-hits-a-blazing-128-gts)
 * [2024-06-17, 11:29:56](https://news.ycombinator.com/item?id=40704505) - [Backdoor in D-Link routers enables telnet access](https://supportannouncement.us.dlink.com/security/publication.aspx?name=SAP10398)
 * [2024-06-17, 11:16:03](https://news.ycombinator.com/item?id=40704435) - [McDonald's is ending its drive-thru AI test](https://www.restaurantbusinessonline.com/technology/mcdonalds-ending-its-drive-thru-ai-test)
