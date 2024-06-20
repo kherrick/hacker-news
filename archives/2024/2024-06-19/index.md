@@ -54,6 +54,7 @@
 * [2024-06-19, 13:46:12](https://news.ycombinator.com/item?id=40728245) - [Biocompatible electroluminescent device with enhanced luminance](https://www.nature.com/articles/s41528-024-00322-2)
 * [2024-06-19, 13:23:31](https://news.ycombinator.com/item?id=40728059) - [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/)
 * [2024-06-19, 13:20:01](https://news.ycombinator.com/item?id=40728032) - [Recovering an Agilent 2000A/3000A Oscilloscope with Corrupt Firmware NAND Flash](https://salvagedcircuitry.com/2000a-nand-recovery.html)
+* [2024-06-19, 12:41:30](https://news.ycombinator.com/item?id=40727715) - [Text-to-Music Editing for Music Language Models via Instruction Tuning](https://heymusic.ai/blog/papers/instruct-musicgen)
 * [2024-06-19, 12:14:11](https://news.ycombinator.com/item?id=40727523) - [The hacking of culture and the creation of socio-technical debt](https://www.schneier.com/blog/archives/2024/06/the-hacking-of-culture-and-the-creation-of-socio-technical-debt.html)
 * [2024-06-19, 12:06:32](https://news.ycombinator.com/item?id=40727475) - [27 Years Ago, Nintendo Almost Revolutionized Digital Games with Nintendo Power](https://www.xatakaon.com/video-games/nintendo-power-how-nintendo-almost-revolutionized-gaming-by-creating-an-all-in-one-cartridge-27-years-ago)
 * [2024-06-19, 12:00:49](https://news.ycombinator.com/item?id=40727427) - [Ribbon Health (YC S17) Is Hiring a Sales Eng Director for Enterprises](https://www.ribbonhealth.com/open-roles?gh_jid=5179134004)
