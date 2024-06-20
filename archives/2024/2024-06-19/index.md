@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-19](index.md)
 
 * [2024-06-19, 22:50:56](https://news.ycombinator.com/item?id=40733246) - [The other side of Formula 1: Barcelona residents protest for race-car exhibition](https://www.elnacional.cat/en/news/formula-1-barcelona-residents-protest-city-race-car-exhibition_1238607_102.html)
+* [2024-06-19, 22:39:41](https://news.ycombinator.com/item?id=40733160) - [Hypermedia Systems](https://hypermedia.systems/)
 * [2024-06-19, 22:02:53](https://news.ycombinator.com/item?id=40732899) - [CISA Advisory on Motorola Solutions ALPR Vulnerabilities](https://www.cisa.gov/news-events/ics-advisories/icsa-24-165-19)
 * [2024-06-19, 21:52:10](https://news.ycombinator.com/item?id=40732789) - [An 'Algorithm' Turned Apartment Pools Green](https://prospect.org/infrastructure/housing/2024-06-18-how-algorithm-turned-apartment-pools-green/)
 * [2024-06-19, 21:20:03](https://news.ycombinator.com/item?id=40732490) - [Unique3D: Image-to-3D Generation from a Single Image in 30 seconds](https://github.com/AiuniAI/Unique3D)
