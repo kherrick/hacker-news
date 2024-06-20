@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-20](index.md)
 
+* [2024-06-20, 17:00:42](https://news.ycombinator.com/item?id=40740843) - [Artisan (YC W24) Is Hiring Exceptional Full-Stack Engineers](https://www.ycombinator.com/companies/artisan/jobs/HGhUCbv-full-stack-engineer)
 * [2024-06-20, 16:03:18](https://news.ycombinator.com/item?id=40740237) - [Reining in America's $3.3T Tax-Exempt Economy](https://taxfoundation.org/research/all/federal/501c3-nonprofit-organization-tax-exempt/)
 * [2024-06-20, 15:55:20](https://news.ycombinator.com/item?id=40740152) - [Measuring Unikernel Cold Boot Time with Perf](https://nanovms.com/dev/tutorials/measuring-unikernel-cold-boot-time-with-perf)
 * [2024-06-20, 15:46:56](https://news.ycombinator.com/item?id=40740049) - [Kraken claims it is being 'extorted' as hacker demands reward after $3M theft](https://cryptobriefing.com/kraken-extortion-claims-white-hat-3m/)
@@ -30,6 +31,7 @@
 * [2024-06-20, 12:15:00](https://news.ycombinator.com/item?id=40737814) - [EU Chat Control Is Motivated by the American Cloud Act](https://twitter.com/AlecMuffett/status/1803734262354518483)
 * [2024-06-20, 12:00:23](https://news.ycombinator.com/item?id=40737674) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-06-20, 11:40:26](https://news.ycombinator.com/item?id=40737508) - [NPM and NodeJS should do more to make ES Modules easy to use](https://borischerny.com/javascript,/typescript/2024/06/19/ES-Modules-Are-A-Mess.html)
+* [2024-06-20, 11:21:56](https://news.ycombinator.com/item?id=40737370) - [Let's write a video game from scratch like it's 1987](https://gaultier.github.io/blog/write_a_video_game_from_scratch_like_1987.html)
 * [2024-06-20, 11:18:53](https://news.ycombinator.com/item?id=40737349) - [Curl is inside 22,734 Steam games](https://daniel.haxx.se/blog/2024/06/20/inside-22734-steam-games/)
 * [2024-06-20, 11:12:36](https://news.ycombinator.com/item?id=40737308) - [The Delusion of Advanced Plastic Recycling](https://www.propublica.org/article/delusion-advanced-chemical-plastic-recycling-pyrolysis)
 * [2024-06-20, 11:11:16](https://news.ycombinator.com/item?id=40737294) - [Tetris as Font](https://erikdemaine.org/fonts/tetris/)

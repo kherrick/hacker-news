@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-20, 16:03:18](https://news.ycombinator.com/item?id=40740237) - [Reining in America's $3.3T Tax-Exempt Economy](https://taxfoundation.org/research/all/federal/501c3-nonprofit-organization-tax-exempt/)
+* [2024-06-20, 17:00:42](https://news.ycombinator.com/item?id=40740843) - [Artisan (YC W24) Is Hiring Exceptional Full-Stack Engineers](https://www.ycombinator.com/companies/artisan/jobs/HGhUCbv-full-stack-engineer)
 * [2024-06-20, 15:55:20](https://news.ycombinator.com/item?id=40740152) - [Measuring Unikernel Cold Boot Time with Perf](https://nanovms.com/dev/tutorials/measuring-unikernel-cold-boot-time-with-perf)
 * [2024-06-20, 15:45:19](https://news.ycombinator.com/item?id=40740021) - [Show HN: I made a puzzle game & it gently introduces my favorite math mysteries](https://www.rahulilango.com/coloring/)
 * [2024-06-20, 15:24:02](https://news.ycombinator.com/item?id=40739778) - [RAR-B: Reasoning as Retrieval Benchmark](https://arxiv.org/abs/2404.06347)
@@ -12,6 +12,7 @@
 * [2024-06-20, 12:42:18](https://news.ycombinator.com/item?id=40738088) - [AdonisJS](https://adonisjs.com/)
 * [2024-06-20, 12:25:10](https://news.ycombinator.com/item?id=40737901) - [Show HN: Midday – Run your business smarter (open-source)](https://midday.ai)
 * [2024-06-20, 11:40:26](https://news.ycombinator.com/item?id=40737508) - [NPM and NodeJS should do more to make ES Modules easy to use](https://borischerny.com/javascript,/typescript/2024/06/19/ES-Modules-Are-A-Mess.html)
+* [2024-06-20, 11:21:56](https://news.ycombinator.com/item?id=40737370) - [Let's write a video game from scratch like it's 1987](https://gaultier.github.io/blog/write_a_video_game_from_scratch_like_1987.html)
 * [2024-06-20, 11:12:36](https://news.ycombinator.com/item?id=40737308) - [The Delusion of Advanced Plastic Recycling](https://www.propublica.org/article/delusion-advanced-chemical-plastic-recycling-pyrolysis)
 * [2024-06-20, 11:11:16](https://news.ycombinator.com/item?id=40737294) - [Tetris as Font](https://erikdemaine.org/fonts/tetris/)
 * [2024-06-20, 11:04:07](https://news.ycombinator.com/item?id=40737249) - [Rotation curves: still flat after a million light-years](https://tritonstation.com/2024/06/18/rotation-curves-still-flat-after-a-million-light-years/)
@@ -22,7 +23,6 @@
 * [2024-06-20, 03:24:41](https://news.ycombinator.com/item?id=40734560) - [Rosser's Theorem via Turing Machines (2011)](https://scottaaronson.blog/?p=710)
 * [2024-06-20, 00:21:00](https://news.ycombinator.com/item?id=40733705) - [OSRD: Open-Source Railway Designer](https://osrd.fr/en/)
 * [2024-06-19, 22:39:41](https://news.ycombinator.com/item?id=40733160) - [Hypermedia Systems](https://hypermedia.systems/)
-* [2024-06-19, 18:59:40](https://news.ycombinator.com/item?id=40731360) - [EasyOS: An experimental Linux distribution](https://easyos.org/)
 * [2024-06-19, 10:06:54](https://news.ycombinator.com/item?id=40726735) - [Ask HN: What happens when I click \"Request for quote\" on your SaaS?](https://news.ycombinator.com/item?id=40726735)
 * [2024-06-19, 08:02:13](https://news.ycombinator.com/item?id=40725970) - [Two ways to use an LED as a light sensor with Arduino](https://blog.jgc.org/2024/06/two-ways-to-use-led-as-light-sensor.html)
 * [2024-06-19, 07:53:34](https://news.ycombinator.com/item?id=40725924) - [NASA Releases Hubble Image Taken in New Pointing Mode Using Only Single Gyro](https://science.nasa.gov/missions/hubble/nasa-releases-hubble-image-taken-in-new-pointing-mode/)
