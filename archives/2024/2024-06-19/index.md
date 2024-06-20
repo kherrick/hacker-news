@@ -76,6 +76,7 @@
 * [2024-06-19, 09:15:12](https://news.ycombinator.com/item?id=40726422) - [Why Dolphin Isn't Coming to the App Store (Spoiler: It Needs a JIT)](https://daringfireball.net/linked/2024/06/18/dolphin-jit-apple)
 * [2024-06-19, 09:12:01](https://news.ycombinator.com/item?id=40726397) - [Linux China, which supported the Chinese open source community, has ended](https://linux.cn/article-16602-1.html)
 * [2024-06-19, 09:10:39](https://news.ycombinator.com/item?id=40726388) - [Rethinking Open Source Generative AI: Open-Washing and the EU AI Act](https://opening-up-chatgpt.github.io/)
+* [2024-06-19, 08:40:38](https://news.ycombinator.com/item?id=40726179) - [Tiny Teensy Executables](https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html)
 * [2024-06-19, 08:05:15](https://news.ycombinator.com/item?id=40725983) - [EU to Greenlight Chat Scanning Proposal](https://www.patrick-breyer.de/en/posts/chat-control/)
 * [2024-06-19, 08:02:13](https://news.ycombinator.com/item?id=40725970) - [Two ways to use an LED as a light sensor with Arduino](https://blog.jgc.org/2024/06/two-ways-to-use-led-as-light-sensor.html)
 * [2024-06-19, 07:58:12](https://news.ycombinator.com/item?id=40725949) - [Ask HN: Create audio software akin to physics engines?](https://news.ycombinator.com/item?id=40725949)
