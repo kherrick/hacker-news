@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-20, 03:24:41",
+      "https://news.ycombinator.com/item?id=40734560"
+    ],
+    [
+      "Rosser's Theorem via Turing Machines (2011)",
+      "https://scottaaronson.blog/?p=710"
+    ]
+  ],
+  [
+    [
       "2024-06-20, 00:21:00",
       "https://news.ycombinator.com/item?id=40733705"
     ],
@@ -45,7 +55,7 @@
       "https://news.ycombinator.com/item?id=40732490"
     ],
     [
-      "Unique3D: Image-to-3D Generation from a Single Image in 30 seconds",
+      "Unique3D: Image-to-3D Generation from a Single Image",
       "https://github.com/AiuniAI/Unique3D"
     ]
   ],
@@ -85,28 +95,8 @@
       "https://news.ycombinator.com/item?id=40731360"
     ],
     [
-      "EasyOS: An Experimental Linux Distribution",
+      "EasyOS: An experimental Linux distribution",
       "https://easyos.org/"
-    ]
-  ],
-  [
-    [
-      "2024-06-19, 17:16:18",
-      "https://news.ycombinator.com/item?id=40730245"
-    ],
-    [
-      "Show HN: Modular Pi Cam",
-      "https://github.com/jdc-cunningham/modular-pi-cam/tree/master/cameras/pi-zero/large-display"
-    ]
-  ],
-  [
-    [
-      "2024-06-19, 17:14:13",
-      "https://news.ycombinator.com/item?id=40730228"
-    ],
-    [
-      "F (2006)",
-      "http://www.nsl.com/k/f/f.htm"
     ]
   ],
   [
@@ -151,12 +141,12 @@
   ],
   [
     [
-      "2024-06-19, 16:15:46",
-      "https://news.ycombinator.com/item?id=40729655"
+      "2024-06-19, 14:44:50",
+      "https://news.ycombinator.com/item?id=40728814"
     ],
     [
-      "NodeSwift: Bridge Node.js and Swift",
-      "https://github.com/kabiroberai/node-swift"
+      "Arvind has died",
+      "https://news.mit.edu/2024/computer-science-professor-arvind-dies-0618"
     ]
   ],
   [
@@ -167,16 +157,6 @@
     [
       "Agilent 2000a / 3000a Oscilloscope NAND Recovery",
       "https://salvagedcircuitry.com/2000a-nand-recovery.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-19, 12:14:11",
-      "https://news.ycombinator.com/item?id=40727523"
-    ],
-    [
-      "The hacking of culture and the creation of socio-technical debt",
-      "https://www.schneier.com/blog/archives/2024/06/the-hacking-of-culture-and-the-creation-of-socio-technical-debt.html"
     ]
   ],
   [
@@ -201,32 +181,22 @@
   ],
   [
     [
-      "2024-06-19, 09:51:05",
-      "https://news.ycombinator.com/item?id=40726641"
-    ],
-    [
-      "There's more to mathematics than rigour and proofs (2007)",
-      "https://terrytao.wordpress.com/career-advice/theres-more-to-mathematics-than-rigour-and-proofs/"
-    ]
-  ],
-  [
-    [
-      "2024-06-19, 06:32:01",
-      "https://news.ycombinator.com/item?id=40725451"
-    ],
-    [
-      "ExectOS – brand new operating system which derives from NT architecture",
-      "https://exectos.eu.org/"
-    ]
-  ],
-  [
-    [
       "2024-06-18, 22:32:37",
       "https://news.ycombinator.com/item?id=40722784"
     ],
     [
       "Agricultural drones are transforming rice farming in the Mekong River delta",
       "https://hakaimagazine.com/videos-visuals/rice-farming-gets-an-ai-upgrade/"
+    ]
+  ],
+  [
+    [
+      "2024-06-18, 21:44:04",
+      "https://news.ycombinator.com/item?id=40722435"
+    ],
+    [
+      "Autonomous vehicles are great at driving straight",
+      "https://spectrum.ieee.org/autonomous-vehicles-great-at-straights"
     ]
   ],
   [
@@ -241,6 +211,16 @@
   ],
   [
     [
+      "2024-06-18, 13:44:25",
+      "https://news.ycombinator.com/item?id=40717797"
+    ],
+    [
+      "Show HN: Ritt – Tag-centric file manager",
+      "https://ritt.app/"
+    ]
+  ],
+  [
+    [
       "2024-06-18, 13:35:58",
       "https://news.ycombinator.com/item?id=40717706"
     ],
@@ -251,12 +231,32 @@
   ],
   [
     [
+      "2024-06-18, 13:35:10",
+      "https://news.ycombinator.com/item?id=40717698"
+    ],
+    [
+      "Loop: Open-source macOS window manager",
+      "https://github.com/MrKai77/Loop"
+    ]
+  ],
+  [
+    [
       "2024-06-18, 13:08:15",
       "https://news.ycombinator.com/item?id=40717398"
     ],
     [
       "Show HN: Radius – A Meetup.com alternative",
       "https://www.radius.to"
+    ]
+  ],
+  [
+    [
+      "2024-06-18, 12:40:32",
+      "https://news.ycombinator.com/item?id=40717126"
+    ],
+    [
+      "Carabiner Collection",
+      "https://www.carabinercollection.com/"
     ]
   ],
   [
