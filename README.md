@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-20, 05:27:32](https://news.ycombinator.com/item?id=40735214) - [U.S. home prices have far outpaced paychecks. See what it looks like](https://www.npr.org/2024/06/20/nx-s1-5005972/home-prices-wages-paychecks-rent-housing-harvard-report)
 * [2024-06-20, 03:24:41](https://news.ycombinator.com/item?id=40734560) - [Rosser's Theorem via Turing Machines (2011)](https://scottaaronson.blog/?p=710)
 * [2024-06-20, 03:22:46](https://news.ycombinator.com/item?id=40734553) - [A 30-meter pass in the Pyrenees through which insects migrate](https://english.elpais.com/climate/2024-06-13/the-30-meter-pass-in-the-pyrenees-through-which-millions-of-insects-migrate.html)
 * [2024-06-20, 02:20:47](https://news.ycombinator.com/item?id=40734285) - [Swapping GNU coreutils for uutils coreutils on Gentoo Linux](https://www.joshmcguigan.com/blog/gentoo-uutils-coreutils/)
@@ -16,6 +15,7 @@
 * [2024-06-19, 16:40:15](https://news.ycombinator.com/item?id=40729906) - [1/25-scale Cray C90 wristwatch](http://www.chrisfenton.com/1-25-scale-cray-c90-wristwatch/)
 * [2024-06-19, 16:30:14](https://news.ycombinator.com/item?id=40729809) - [The return of pneumatic tubes](https://www.technologyreview.com/2024/06/19/1093446/pneumatic-tubes-hospitals/)
 * [2024-06-19, 16:17:01](https://news.ycombinator.com/item?id=40729671) - [The demise of the mildly dynamic website (2022)](https://www.devever.net/~hl/mildlydynamic)
+* [2024-06-19, 16:15:46](https://news.ycombinator.com/item?id=40729655) - [NodeSwift: Bridge Node.js and Swift](https://github.com/kabiroberai/node-swift)
 * [2024-06-19, 14:44:50](https://news.ycombinator.com/item?id=40728814) - [Arvind has died](https://news.mit.edu/2024/computer-science-professor-arvind-dies-0618)
 * [2024-06-19, 13:20:01](https://news.ycombinator.com/item?id=40728032) - [Agilent 2000a / 3000a Oscilloscope NAND Recovery](https://salvagedcircuitry.com/2000a-nand-recovery.html)
 * [2024-06-19, 12:06:32](https://news.ycombinator.com/item?id=40727475) - [27 Years Ago, Nintendo Almost Revolutionized Digital Games with Nintendo Power](https://www.xatakaon.com/video-games/nintendo-power-how-nintendo-almost-revolutionized-gaming-by-creating-an-all-in-one-cartridge-27-years-ago)
