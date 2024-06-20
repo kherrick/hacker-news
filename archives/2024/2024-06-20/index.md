@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-20](index.md)
 
+* [2024-06-20, 18:49:35](https://news.ycombinator.com/item?id=40741901) - [TikTok says US ban is inevitable without a court order blocking law](https://www.reuters.com/legal/tiktok-says-us-ban-is-inevitable-without-court-order-blocking-law-2024-06-20/)
 * [2024-06-20, 18:41:06](https://news.ycombinator.com/item?id=40741818) - [FBI raids Oakland Mayor Sheng Thao's home, 3 other locations: source](https://abc7news.com/post/fbi-raided-oakland-mayor-sheng-thaos-home-sources/14980538/)
 * [2024-06-20, 18:31:33](https://news.ycombinator.com/item?id=40741702) - [Cloudflare Connectivity Issues in Eastern US and Central Europe](https://www.cloudflarestatus.com/incidents/p7l6rrbhysck)
 * [2024-06-20, 18:28:27](https://news.ycombinator.com/item?id=40741672) - [Actor Donald Sutherland dies aged 88](https://www.bbc.com/news/articles/c9rrvdq3g9zo)
@@ -11,6 +12,7 @@
 * [2024-06-20, 17:42:31](https://news.ycombinator.com/item?id=40741241) - [Rust's concurrency model vs. Go's concurrency model](https://kerkour.com/rust-vs-go-concurrency-models-stackfull-vs-stackless-coroutines)
 * [2024-06-20, 17:37:47](https://news.ycombinator.com/item?id=40741197) - [Small claims court became Meta's customer service hotline](https://www.engadget.com/how-small-claims-court-became-metas-customer-service-hotline-160224479.html)
 * [2024-06-20, 17:33:41](https://news.ycombinator.com/item?id=40741160) - [Instagram Recommends Sexual Videos to Accounts for 13-Year-Olds, Tests Show](https://www.wsj.com/tech/instagram-recommends-sexual-videos-to-accounts-for-13-year-olds-tests-show-b6123c65)
+* [2024-06-20, 17:30:45](https://news.ycombinator.com/item?id=40741132) - [Decompress Anything with \"X Uz\"](https://www.x-cmd.com/mod/zuz/)
 * [2024-06-20, 17:24:54](https://news.ycombinator.com/item?id=40741072) - [A Buffer Overflow in the XNU Kernel](https://jprx.io/cve-2024-27815/)
 * [2024-06-20, 17:24:36](https://news.ycombinator.com/item?id=40741068) - [Notes on Tajikistan](https://mattlakeman.org/2024/06/20/notes-on-tajikistan/)
 * [2024-06-20, 17:12:23](https://news.ycombinator.com/item?id=40740951) - [Virgin Orbit Had a Fake Takeover](https://www.bloomberg.com/opinion/articles/2024-06-20/virgin-orbit-had-a-fake-takeover)
