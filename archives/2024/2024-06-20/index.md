@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-20](index.md)
 
 * [2024-06-20, 19:25:38](https://news.ycombinator.com/item?id=40742301) - [Inventions you didn't know came from Waterloo](https://uwaterloo.ca/news/10-inventions-you-didnt-know-came-waterloo)
+* [2024-06-20, 19:12:00](https://news.ycombinator.com/item?id=40742163) - [Gilead Shot Prevents All HIV Cases in Trial of African Women](https://www.bloomberg.com/news/articles/2024-06-20/gilead-shot-prevents-100-of-hiv-cases-in-trial-of-african-women)
 * [2024-06-20, 19:00:39](https://news.ycombinator.com/item?id=40742026) - [More Disabled Americans Are Employed, Thanks to Remote Work](https://www.bloomberg.com/news/articles/2024-06-20/remote-work-helps-more-people-with-disabilities-get-employed)
 * [2024-06-20, 18:59:34](https://news.ycombinator.com/item?id=40742014) - [Fuzz Map](https://www.fuzzmap.io/)
 * [2024-06-20, 18:56:32](https://news.ycombinator.com/item?id=40741978) - [Many people don't pay full price, Most don't want to pay at all for news](https://www.niemanlab.org/2024/06/many-people-dont-pay-full-price-for-their-news-subscription-most-dont-want-to-pay-anything-at-all/)
