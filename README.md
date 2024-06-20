@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-20, 16:03:18](https://news.ycombinator.com/item?id=40740237) - [Reining in America's $3.3T Tax-Exempt Economy](https://taxfoundation.org/research/all/federal/501c3-nonprofit-organization-tax-exempt/)
 * [2024-06-20, 15:55:20](https://news.ycombinator.com/item?id=40740152) - [Measuring Unikernel Cold Boot Time with Perf](https://nanovms.com/dev/tutorials/measuring-unikernel-cold-boot-time-with-perf)
-* [2024-06-20, 15:46:25](https://news.ycombinator.com/item?id=40740041) - [Roblox has ported the entire front end JavaScript stack to Lua](https://twitter.com/zack_overflow/status/1803612884196532432)
 * [2024-06-20, 15:45:19](https://news.ycombinator.com/item?id=40740021) - [Show HN: I made a puzzle game & it gently introduces my favorite math mysteries](https://www.rahulilango.com/coloring/)
 * [2024-06-20, 15:24:02](https://news.ycombinator.com/item?id=40739778) - [RAR-B: Reasoning as Retrieval Benchmark](https://arxiv.org/abs/2404.06347)
 * [2024-06-20, 15:18:27](https://news.ycombinator.com/item?id=40739710) - [Atkinson Dithering](https://beyondloom.com/blog/dither.html)

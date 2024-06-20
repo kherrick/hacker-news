@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-20](index.md)
 
+* [2024-06-20, 16:03:18](https://news.ycombinator.com/item?id=40740237) - [Reining in America's $3.3T Tax-Exempt Economy](https://taxfoundation.org/research/all/federal/501c3-nonprofit-organization-tax-exempt/)
 * [2024-06-20, 15:55:20](https://news.ycombinator.com/item?id=40740152) - [Measuring Unikernel Cold Boot Time with Perf](https://nanovms.com/dev/tutorials/measuring-unikernel-cold-boot-time-with-perf)
 * [2024-06-20, 15:46:56](https://news.ycombinator.com/item?id=40740049) - [Kraken claims it is being 'extorted' as hacker demands reward after $3M theft](https://cryptobriefing.com/kraken-extortion-claims-white-hat-3m/)
 * [2024-06-20, 15:46:25](https://news.ycombinator.com/item?id=40740041) - [Roblox has ported the entire front end JavaScript stack to Lua](https://twitter.com/zack_overflow/status/1803612884196532432)
