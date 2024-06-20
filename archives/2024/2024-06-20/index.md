@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-20](index.md)
 
+* [2024-06-20, 19:00:39](https://news.ycombinator.com/item?id=40742026) - [More Disabled Americans Are Employed, Thanks to Remote Work](https://www.bloomberg.com/news/articles/2024-06-20/remote-work-helps-more-people-with-disabilities-get-employed)
+* [2024-06-20, 18:59:34](https://news.ycombinator.com/item?id=40742014) - [Fuzz Map](https://www.fuzzmap.io/)
 * [2024-06-20, 18:49:35](https://news.ycombinator.com/item?id=40741901) - [TikTok says US ban is inevitable without a court order blocking law](https://www.reuters.com/legal/tiktok-says-us-ban-is-inevitable-without-court-order-blocking-law-2024-06-20/)
 * [2024-06-20, 18:41:06](https://news.ycombinator.com/item?id=40741818) - [FBI raids Oakland Mayor Sheng Thao's home, 3 other locations: source](https://abc7news.com/post/fbi-raided-oakland-mayor-sheng-thaos-home-sources/14980538/)
 * [2024-06-20, 18:31:33](https://news.ycombinator.com/item?id=40741702) - [Cloudflare Connectivity Issues in Eastern US and Central Europe](https://www.cloudflarestatus.com/incidents/p7l6rrbhysck)
