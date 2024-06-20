@@ -2,7 +2,6 @@
 
 * [2024-06-20, 17:12:23](https://news.ycombinator.com/item?id=40740951) - [Virgin Orbit Had a Fake Takeover](https://www.bloomberg.com/opinion/articles/2024-06-20/virgin-orbit-had-a-fake-takeover)
 * [2024-06-20, 17:00:42](https://news.ycombinator.com/item?id=40740843) - [Artisan (YC W24) Is Hiring Exceptional Full-Stack Engineers](https://www.ycombinator.com/companies/artisan/jobs/HGhUCbv-full-stack-engineer)
-* [2024-06-20, 15:55:20](https://news.ycombinator.com/item?id=40740152) - [Measuring Unikernel Cold Boot Time with Perf](https://nanovms.com/dev/tutorials/measuring-unikernel-cold-boot-time-with-perf)
 * [2024-06-20, 15:45:19](https://news.ycombinator.com/item?id=40740021) - [Show HN: I made a puzzle game & it gently introduces my favorite math mysteries](https://www.rahulilango.com/coloring/)
 * [2024-06-20, 15:18:27](https://news.ycombinator.com/item?id=40739710) - [Atkinson Dithering](https://beyondloom.com/blog/dither.html)
 * [2024-06-20, 14:50:40](https://news.ycombinator.com/item?id=40739384) - [Calculating Empires: A Genealogy of Technology and Power Since 1500](https://calculatingempires.net/)
@@ -29,6 +28,7 @@
 * [2024-06-18, 23:05:54](https://news.ycombinator.com/item?id=40723024) - [The Shape of Information](https://kucharski.substack.com/p/the-shape-of-information)
 * [2024-06-18, 22:32:37](https://news.ycombinator.com/item?id=40722784) - [Agricultural drones are transforming rice farming in the Mekong River delta](https://hakaimagazine.com/videos-visuals/rice-farming-gets-an-ai-upgrade/)
 * [2024-06-18, 12:40:32](https://news.ycombinator.com/item?id=40717126) - [Carabiner Collection](https://www.carabinercollection.com/)
+* [2024-06-18, 10:45:55](https://news.ycombinator.com/item?id=40716154) - [ControlNet Game of Life](https://www.jerpint.io/blog/diffusion-gol/)
 * [2024-06-18, 10:29:49](https://news.ycombinator.com/item?id=40716032) - [Satellites Spotting Ships](https://tech.marksblogg.com/yolo-umbra-sar-satellites-ship-detection.html)
 
 ## [Archives](archives/index.md)
