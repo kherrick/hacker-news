@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-20, 19:54:44](https://news.ycombinator.com/item?id=40742621) - [New York bans 'addictive feeds' for teens](https://www.theverge.com/2024/6/20/24182396/new-york-governor-social-media-law-parental-consent-algorithms)
 * [2024-06-20, 19:25:38](https://news.ycombinator.com/item?id=40742301) - [Inventions that came from Waterloo](https://uwaterloo.ca/news/10-inventions-you-didnt-know-came-waterloo)
 * [2024-06-20, 19:12:00](https://news.ycombinator.com/item?id=40742163) - [Gilead Shot Prevents All HIV Cases in Trial of African Women](https://www.bloomberg.com/news/articles/2024-06-20/gilead-shot-prevents-100-of-hiv-cases-in-trial-of-african-women)
 * [2024-06-20, 19:00:39](https://news.ycombinator.com/item?id=40742026) - [More Disabled Americans Are Employed, Thanks to Remote Work](https://www.bloomberg.com/news/articles/2024-06-20/remote-work-helps-more-people-with-disabilities-get-employed)
@@ -7,7 +8,6 @@
 * [2024-06-20, 18:28:27](https://news.ycombinator.com/item?id=40741672) - [Donald Sutherland has died](https://www.bbc.com/news/articles/c9rrvdq3g9zo)
 * [2024-06-20, 17:50:22](https://news.ycombinator.com/item?id=40741304) - [Ask HN: Well architected React and Node repos?](https://news.ycombinator.com/item?id=40741304)
 * [2024-06-20, 17:37:47](https://news.ycombinator.com/item?id=40741197) - [Small claims court became Meta's customer service hotline](https://www.engadget.com/how-small-claims-court-became-metas-customer-service-hotline-160224479.html)
-* [2024-06-20, 17:30:45](https://news.ycombinator.com/item?id=40741132) - [Decompress Anything with \"X Uz\"](https://www.x-cmd.com/mod/zuz/)
 * [2024-06-20, 17:24:54](https://news.ycombinator.com/item?id=40741072) - [A buffer overflow in the XNU kernel](https://jprx.io/cve-2024-27815/)
 * [2024-06-20, 17:24:36](https://news.ycombinator.com/item?id=40741068) - [Notes on Tajikistan](https://mattlakeman.org/2024/06/20/notes-on-tajikistan/)
 * [2024-06-20, 17:00:42](https://news.ycombinator.com/item?id=40740843) - [Artisan (YC W24) Is Hiring Exceptional Full-Stack Engineers](https://www.ycombinator.com/companies/artisan/jobs/HGhUCbv-full-stack-engineer)
