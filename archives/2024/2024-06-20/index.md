@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-06-20](index.md)
 
+* [2024-06-20, 13:01:02](https://news.ycombinator.com/item?id=40738281) - [Canonical and Ubuntu Are Down](https://status.canonical.com)
 * [2024-06-20, 12:22:45](https://news.ycombinator.com/item?id=40737883) - [Weird Test for Boeing's Starliner Uncovered Likely Cause of Failed Thrusters](https://www.inverse.com/science/boeing-starliner-thrusts-against-the-space-station)
 * [2024-06-20, 12:15:00](https://news.ycombinator.com/item?id=40737814) - [EU Chat Control Is Motivated by the American Cloud Act](https://twitter.com/AlecMuffett/status/1803734262354518483)
 * [2024-06-20, 12:00:23](https://news.ycombinator.com/item?id=40737674) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+* [2024-06-20, 11:40:26](https://news.ycombinator.com/item?id=40737508) - [NPM and NodeJS should do more to make ES Modules easy to use](https://borischerny.com/javascript,/typescript/2024/06/19/ES-Modules-Are-A-Mess.html)
 * [2024-06-20, 11:18:53](https://news.ycombinator.com/item?id=40737349) - [Curl is inside 22,734 Steam games](https://daniel.haxx.se/blog/2024/06/20/inside-22734-steam-games/)
 * [2024-06-20, 11:12:36](https://news.ycombinator.com/item?id=40737308) - [The Delusion of Advanced Plastic Recycling](https://www.propublica.org/article/delusion-advanced-chemical-plastic-recycling-pyrolysis)
 * [2024-06-20, 11:11:16](https://news.ycombinator.com/item?id=40737294) - [Tetris as Font](https://erikdemaine.org/fonts/tetris/)
