@@ -95,6 +95,7 @@
 * [2024-06-18, 11:06:22](https://news.ycombinator.com/item?id=40716301) - [Social Media Messed Up Our Kids. Now It Is Making Us Ungovernable](https://www.noemamag.com/social-media-messed-up-our-kids-now-it-is-making-us-ungovernable/)
 * [2024-06-18, 10:58:24](https://news.ycombinator.com/item?id=40716235) - [Understanding the Misunderstood Kessler Syndrome](https://aerospaceamerica.aiaa.org/features/understanding-the-misunderstood-kessler-syndrome/)
 * [2024-06-18, 10:29:49](https://news.ycombinator.com/item?id=40716032) - [Satellites Spotting Ships](https://tech.marksblogg.com/yolo-umbra-sar-satellites-ship-detection.html)
+* [2024-06-18, 10:29:23](https://news.ycombinator.com/item?id=40716031) - [Street-Fighting Mathematics (2008)](https://ocw.mit.edu/courses/18-098-street-fighting-mathematics-january-iap-2008/)
 * [2024-06-18, 09:44:56](https://news.ycombinator.com/item?id=40715752) - [Malaysia to Join BRICS](https://www.aljazeera.com/economy/2024/6/18/malaysias-anwar-flags-brics-membership-praises-xi-as-outstanding-leader)
 * [2024-06-18, 09:34:06](https://news.ycombinator.com/item?id=40715695) - [Chat Control: Incompatible with Fundamental Rights](https://freiheitsrechte.org/en/themen/digitale-grundrechte/chatkontrolle)
 * [2024-06-18, 09:05:18](https://news.ycombinator.com/item?id=40715520) - [Peak Population Projections](https://dothemath.ucsd.edu/2024/06/peak-population-projections/)

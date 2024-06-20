@@ -3,7 +3,6 @@
 * [2024-06-20, 08:40:35](https://news.ycombinator.com/item?id=40736397) - [Ask HN: Is Google deliberately breaking Firefox?](https://news.ycombinator.com/item?id=40736397)
 * [2024-06-20, 07:39:24](https://news.ycombinator.com/item?id=40735973) - [Ask HN: Is Firefox better than Chrome when it comes to user security?](https://news.ycombinator.com/item?id=40735973)
 * [2024-06-20, 07:20:38](https://news.ycombinator.com/item?id=40735859) - [Lessons Learned from Scaling to Multi-Terabyte Datasets](https://v2thegreat.com/2024/06/19/lessons-learned-from-scaling-to-multi-terabyte-datasets/)
-* [2024-06-20, 07:00:24](https://news.ycombinator.com/item?id=40735764) - [Proposed ballot measure to raise corporate taxes, give every Oregonian $750/year](https://www.oregonlive.com/politics/2024/06/proposed-ballot-measure-proposal-to-raise-corporate-taxes-give-every-oregonian-750-a-year-likely-to-make-november-ballot.html)
 * [2024-06-20, 06:58:01](https://news.ycombinator.com/item?id=40735743) - [Oldest white wine in the world found in a first-century tomb in Spain](https://doi.org/10.1016/j.jasrep.2024.104636)
 * [2024-06-20, 06:20:32](https://news.ycombinator.com/item?id=40735531) - [What Is a Personal User Manual? (2022)](https://futureforum.com/2022/07/15/personal-user-manual/)
 * [2024-06-20, 03:24:41](https://news.ycombinator.com/item?id=40734560) - [Rosser's Theorem via Turing Machines (2011)](https://scottaaronson.blog/?p=710)
@@ -28,6 +27,7 @@
 * [2024-06-18, 12:40:32](https://news.ycombinator.com/item?id=40717126) - [Carabiner Collection](https://www.carabinercollection.com/)
 * [2024-06-18, 12:14:23](https://news.ycombinator.com/item?id=40716880) - [An icon taskbar for the Gnome Shell](https://github.com/home-sweet-gnome/dash-to-panel)
 * [2024-06-18, 10:29:49](https://news.ycombinator.com/item?id=40716032) - [Satellites Spotting Ships](https://tech.marksblogg.com/yolo-umbra-sar-satellites-ship-detection.html)
+* [2024-06-18, 10:29:23](https://news.ycombinator.com/item?id=40716031) - [Street-Fighting Mathematics (2008)](https://ocw.mit.edu/courses/18-098-street-fighting-mathematics-january-iap-2008/)
 * [2024-06-18, 03:49:27](https://news.ycombinator.com/item?id=40713893) - [Brain circuit scores identify clinically distinct biotypes in depression/anxiety](https://www.nature.com/articles/s41591-024-03057-9)
 * [2024-06-17, 23:23:09](https://news.ycombinator.com/item?id=40712359) - [What happens to our breath when we type, tap, scroll](https://www.npr.org/2024/06/10/1247296780/screen-apnea-why-screens-cause-shallow-breathing)
 
