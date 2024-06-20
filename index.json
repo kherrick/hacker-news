@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-20, 10:37:18",
+      "https://news.ycombinator.com/item?id=40737095"
+    ],
+    [
+      "Java string interpolation feature has been cancelled",
+      "https://bugs.openjdk.org/browse/JDK-8329949"
+    ]
+  ],
+  [
+    [
       "2024-06-20, 09:45:41",
       "https://news.ycombinator.com/item?id=40736771"
     ],
@@ -17,16 +27,6 @@
     [
       "Bun is much faster than Node.js 22 at decoding Base64 but both rely on same lib",
       "https://twitter.com/lemire/status/1803598132334436415"
-    ]
-  ],
-  [
-    [
-      "2024-06-20, 07:39:24",
-      "https://news.ycombinator.com/item?id=40735973"
-    ],
-    [
-      "Ask HN: Is Firefox better than Chrome when it comes to user security?",
-      "https://news.ycombinator.com/item?id=40735973"
     ]
   ],
   [
