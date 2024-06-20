@@ -74,6 +74,7 @@
 * [2024-06-19, 09:12:01](https://news.ycombinator.com/item?id=40726397) - [Linux China, which supported the Chinese open source community, has ended](https://linux.cn/article-16602-1.html)
 * [2024-06-19, 09:10:39](https://news.ycombinator.com/item?id=40726388) - [Rethinking Open Source Generative AI: Open-Washing and the EU AI Act](https://opening-up-chatgpt.github.io/)
 * [2024-06-19, 08:05:15](https://news.ycombinator.com/item?id=40725983) - [EU to Greenlight Chat Scanning Proposal](https://www.patrick-breyer.de/en/posts/chat-control/)
+* [2024-06-19, 07:53:34](https://news.ycombinator.com/item?id=40725924) - [NASA Releases Hubble Image Taken in New Pointing Mode Using Only Single Gyro](https://science.nasa.gov/missions/hubble/nasa-releases-hubble-image-taken-in-new-pointing-mode/)
 * [2024-06-19, 07:46:07](https://news.ycombinator.com/item?id=40725879) - [The Power Behind Apple's M4 SoC](https://www.techinsights.com/blog/introducing-tsmc-n3e-power-behind-apples-m4-soc)
 * [2024-06-19, 07:36:25](https://news.ycombinator.com/item?id=40725826) - [New UNESCO report warns that Generative AI threatens Holocaust memory](https://www.unesco.org/en/articles/new-unesco-report-warns-generative-ai-threatens-holocaust-memory)
 * [2024-06-19, 06:43:43](https://news.ycombinator.com/item?id=40725517) - [Show HN: Pomoglorbo, a TUI Pomodoro timer for your terminal](https://codeberg.org/justusw/Pomoglorbo)
