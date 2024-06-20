@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-20](index.md)
 
+* [2024-06-20, 22:32:20](https://news.ycombinator.com/item?id=40744162) - [Show HN: Text Status Hosting and Dashboard](https://github.com/madprops/curls)
 * [2024-06-20, 22:10:17](https://news.ycombinator.com/item?id=40743975) - [Docker Is Having an Outage](https://downdetector.com/status/docker/)
 * [2024-06-20, 21:21:07](https://news.ycombinator.com/item?id=40743531) - [New York Establishes Stringent Protections to Safeguard Kids on Social Media](https://www.governor.ny.gov/news/governor-hochul-joins-attorney-general-james-and-bill-sponsors-sign-nation-leading-legislation)
 * [2024-06-20, 21:00:43](https://news.ycombinator.com/item?id=40743308) - [Promoted.ai (YC W21) Is Hiring a Sales Engineer](https://www.ycombinator.com/companies/promoted/jobs/5moymju-sales-engineer-new-grad)
