@@ -87,6 +87,7 @@
 * [2024-06-18, 12:40:32](https://news.ycombinator.com/item?id=40717126) - [Carabiner Collection](https://www.carabinercollection.com/)
 * [2024-06-18, 12:32:06](https://news.ycombinator.com/item?id=40717052) - [Show HN: Flowery – Vocabulary builder powered by LLM and spaced repetition](https://flowery.app)
 * [2024-06-18, 12:18:35](https://news.ycombinator.com/item?id=40716917) - [The Vulture and the Little Girl](https://en.wikipedia.org/wiki/The_Vulture_and_the_Little_Girl)
+* [2024-06-18, 12:14:23](https://news.ycombinator.com/item?id=40716880) - [An icon taskbar for the Gnome Shell](https://github.com/home-sweet-gnome/dash-to-panel)
 * [2024-06-18, 12:06:49](https://news.ycombinator.com/item?id=40716804) - [\"I've Got Nothing to Hide\" and Other Misunderstandings of Privacy (2008) [pdf]](https://www.cs.ru.nl/~jhh/pub/secsem/solove-nothing-to-hide.pdf)
 * [2024-06-18, 12:06:26](https://news.ycombinator.com/item?id=40716801) - [Code Models](https://openjdk.org/projects/babylon/articles/code-models)
 * [2024-06-18, 11:54:33](https://news.ycombinator.com/item?id=40716701) - [YaFSDP from Yandex, 20% faster for pre-training LLMs](https://github.com/yandex/YaFSDP)

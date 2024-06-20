@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-20](index.md)
 
+* [2024-06-20, 07:20:38](https://news.ycombinator.com/item?id=40735859) - [Lessons Learned from Scaling to Multi-Terabyte Datasets](https://v2thegreat.com/2024/06/19/lessons-learned-from-scaling-to-multi-terabyte-datasets/)
 * [2024-06-20, 06:45:09](https://news.ycombinator.com/item?id=40735667) - [Zig vs. Rust at work: the choice we made](https://ludwigabap.bearblog.dev/zig-vs-rust-at-work-the-choice-we-made/)
 * [2024-06-20, 06:37:07](https://news.ycombinator.com/item?id=40735627) - [Protecting Children's Safety Requires End-to-End Encryption](https://simplex.chat/blog/20240601-protecting-children-safety-requires-e2e-encryption.html)
 * [2024-06-20, 06:35:19](https://news.ycombinator.com/item?id=40735618) - [EU says Apple has serious issues for not complying with DMA](https://9to5mac.com/2024/06/19/eu-apple-issues-dma/)
