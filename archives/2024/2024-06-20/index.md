@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-06-20](index.md)
 
+* [2024-06-20, 14:23:24](https://news.ycombinator.com/item?id=40739108) - [EPA rule limiting certain 'forever chemicals' in drinking water is challenged](https://www.npr.org/2024/06/20/nx-s1-5006553/epa-rule-limiting-certain-forever-chemicals-in-drinking-water-is-challenged)
 * [2024-06-20, 14:03:46](https://news.ycombinator.com/item?id=40738916) - [Claude 3.5 Sonnet](https://www.anthropic.com/news/claude-3-5-sonnet)
+* [2024-06-20, 13:54:51](https://news.ycombinator.com/item?id=40738833) - [Wc2: Investigates optimizing 'wc', the Unix word count program](https://github.com/robertdavidgraham/wc2)
+* [2024-06-20, 13:48:42](https://news.ycombinator.com/item?id=40738759) - [Eating cheese plays a role in healthy, happy aging – who are we to argue?](https://newatlas.com/health-wellbeing/cheese-happy-aging/)
 * [2024-06-20, 13:01:02](https://news.ycombinator.com/item?id=40738281) - [Canonical and Ubuntu Are Down](https://status.canonical.com)
 * [2024-06-20, 12:25:10](https://news.ycombinator.com/item?id=40737901) - [Show HN: Midday – Run your business smarter (open-source)](https://midday.ai)
 * [2024-06-20, 12:22:45](https://news.ycombinator.com/item?id=40737883) - [Weird Test for Boeing's Starliner Uncovered Likely Cause of Failed Thrusters](https://www.inverse.com/science/boeing-starliner-thrusts-against-the-space-station)
