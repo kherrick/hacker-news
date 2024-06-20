@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-20](index.md)
 
+* [2024-06-20, 14:38:05](https://news.ycombinator.com/item?id=40739250) - [A Judge Made Houston the Top Bankruptcy Court and Helped His Girlfriend Cash In](https://www.wsj.com/finance/bankruptcy-court-houston-jones-freeman-dbba77e9)
 * [2024-06-20, 14:23:24](https://news.ycombinator.com/item?id=40739108) - [EPA rule limiting certain 'forever chemicals' in drinking water is challenged](https://www.npr.org/2024/06/20/nx-s1-5006553/epa-rule-limiting-certain-forever-chemicals-in-drinking-water-is-challenged)
 * [2024-06-20, 14:03:46](https://news.ycombinator.com/item?id=40738916) - [Claude 3.5 Sonnet](https://www.anthropic.com/news/claude-3-5-sonnet)
 * [2024-06-20, 13:54:51](https://news.ycombinator.com/item?id=40738833) - [Wc2: Investigates optimizing 'wc', the Unix word count program](https://github.com/robertdavidgraham/wc2)

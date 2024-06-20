@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-20, 14:38:05](https://news.ycombinator.com/item?id=40739250) - [A Judge Made Houston the Top Bankruptcy Court and Helped His Girlfriend Cash In](https://www.wsj.com/finance/bankruptcy-court-houston-jones-freeman-dbba77e9)
 * [2024-06-20, 14:23:24](https://news.ycombinator.com/item?id=40739108) - [EPA rule limiting certain 'forever chemicals' in drinking water is challenged](https://www.npr.org/2024/06/20/nx-s1-5006553/epa-rule-limiting-certain-forever-chemicals-in-drinking-water-is-challenged)
 * [2024-06-20, 14:03:46](https://news.ycombinator.com/item?id=40738916) - [Claude 3.5 Sonnet](https://www.anthropic.com/news/claude-3-5-sonnet)
 * [2024-06-20, 13:54:51](https://news.ycombinator.com/item?id=40738833) - [Wc2: Investigates optimizing 'wc', the Unix word count program](https://github.com/robertdavidgraham/wc2)
@@ -23,7 +24,6 @@
 * [2024-06-19, 08:02:13](https://news.ycombinator.com/item?id=40725970) - [Two ways to use an LED as a light sensor with Arduino](https://blog.jgc.org/2024/06/two-ways-to-use-led-as-light-sensor.html)
 * [2024-06-19, 07:53:34](https://news.ycombinator.com/item?id=40725924) - [NASA Releases Hubble Image Taken in New Pointing Mode Using Only Single Gyro](https://science.nasa.gov/missions/hubble/nasa-releases-hubble-image-taken-in-new-pointing-mode/)
 * [2024-06-18, 22:32:37](https://news.ycombinator.com/item?id=40722784) - [Agricultural drones are transforming rice farming in the Mekong River delta](https://hakaimagazine.com/videos-visuals/rice-farming-gets-an-ai-upgrade/)
-* [2024-06-18, 13:35:10](https://news.ycombinator.com/item?id=40717698) - [Loop: Open-source macOS window manager](https://github.com/MrKai77/Loop)
 * [2024-06-18, 13:08:15](https://news.ycombinator.com/item?id=40717398) - [Show HN: Radius – A Meetup.com alternative](https://www.radius.to)
 * [2024-06-18, 12:40:32](https://news.ycombinator.com/item?id=40717126) - [Carabiner Collection](https://www.carabinercollection.com/)
 * [2024-06-18, 10:29:49](https://news.ycombinator.com/item?id=40716032) - [Satellites Spotting Ships](https://tech.marksblogg.com/yolo-umbra-sar-satellites-ship-detection.html)
