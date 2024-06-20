@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-20, 00:34:02](https://news.ycombinator.com/item?id=40733761) - [Big Oil and Big Corn Form Alliance to Challenge Pro-EV Policies](https://oilprice.com/Alternative-Energy/Biofuels/Big-Oil-and-Big-Corn-Form-Alliance-to-Challenge-Pro-EV-Policies.html)
 * [2024-06-20, 00:21:00](https://news.ycombinator.com/item?id=40733705) - [OSRD: Open-Source Railway Designer](https://osrd.fr/en/)
 * [2024-06-20, 00:06:28](https://news.ycombinator.com/item?id=40733615) - [Nobody knows what's going on](https://www.raptitude.com/2024/06/nobody-knows-whats-going-on/)
 * [2024-06-19, 22:39:41](https://news.ycombinator.com/item?id=40733160) - [Hypermedia Systems](https://hypermedia.systems/)
@@ -23,7 +24,6 @@
 * [2024-06-19, 09:51:05](https://news.ycombinator.com/item?id=40726641) - [There's more to mathematics than rigour and proofs (2007)](https://terrytao.wordpress.com/career-advice/theres-more-to-mathematics-than-rigour-and-proofs/)
 * [2024-06-19, 09:15:34](https://news.ycombinator.com/item?id=40726426) - [Monitoring marine litter from space](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Monitoring_marine_litter_from_space_is_now_a_reality)
 * [2024-06-19, 06:32:01](https://news.ycombinator.com/item?id=40725451) - [ExectOS – brand new operating system which derives from NT architecture](https://exectos.eu.org/)
-* [2024-06-18, 23:38:40](https://news.ycombinator.com/item?id=40723220) - [KidPix](https://kidpix.app)
 * [2024-06-18, 22:32:37](https://news.ycombinator.com/item?id=40722784) - [Agricultural drones are transforming rice farming in the Mekong River delta](https://hakaimagazine.com/videos-visuals/rice-farming-gets-an-ai-upgrade/)
 * [2024-06-18, 15:26:38](https://news.ycombinator.com/item?id=40718908) - [When are SSDs slow?](https://cedardb.com/blog/ssd_latency/)
 * [2024-06-18, 13:35:58](https://news.ycombinator.com/item?id=40717706) - [Vannevar Bush Engineered the 20th Century](https://spectrum.ieee.org/vannevar-bush)
