@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-20, 09:31:04](https://news.ycombinator.com/item?id=40736685) - [Bun is much faster than Node.js 22 at decoding Base64 but both rely on same lib](https://twitter.com/lemire/status/1803598132334436415)
 * [2024-06-20, 08:40:35](https://news.ycombinator.com/item?id=40736397) - [Ask HN: Is Google deliberately breaking Firefox?](https://news.ycombinator.com/item?id=40736397)
 * [2024-06-20, 07:39:24](https://news.ycombinator.com/item?id=40735973) - [Ask HN: Is Firefox better than Chrome when it comes to user security?](https://news.ycombinator.com/item?id=40735973)
 * [2024-06-20, 07:20:38](https://news.ycombinator.com/item?id=40735859) - [Lessons Learned from Scaling to Multi-Terabyte Datasets](https://v2thegreat.com/2024/06/19/lessons-learned-from-scaling-to-multi-terabyte-datasets/)
@@ -18,7 +19,6 @@
 * [2024-06-19, 14:44:50](https://news.ycombinator.com/item?id=40728814) - [Arvind has died](https://news.mit.edu/2024/computer-science-professor-arvind-dies-0618)
 * [2024-06-19, 13:20:01](https://news.ycombinator.com/item?id=40728032) - [Agilent 2000a / 3000a Oscilloscope NAND Recovery](https://salvagedcircuitry.com/2000a-nand-recovery.html)
 * [2024-06-19, 10:57:22](https://news.ycombinator.com/item?id=40727022) - [Astronomers see a black hole awaken in real time](https://www.eso.org/public/germany/news/eso2409/)
-* [2024-06-19, 06:08:10](https://news.ycombinator.com/item?id=40725329) - [Please don't mention AI again](https://ludic.mataroa.blog/blog/i-will-fucking-piledrive-you-if-you-mention-ai-again/)
 * [2024-06-18, 22:32:37](https://news.ycombinator.com/item?id=40722784) - [Agricultural drones are transforming rice farming in the Mekong River delta](https://hakaimagazine.com/videos-visuals/rice-farming-gets-an-ai-upgrade/)
 * [2024-06-18, 13:44:25](https://news.ycombinator.com/item?id=40717797) - [Show HN: Ritt – Tag-centric file manager](https://ritt.app/)
 * [2024-06-18, 13:35:58](https://news.ycombinator.com/item?id=40717706) - [Vannevar Bush Engineered the 20th Century](https://spectrum.ieee.org/vannevar-bush)
