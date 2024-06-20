@@ -90,6 +90,7 @@
 * [2024-06-18, 12:14:23](https://news.ycombinator.com/item?id=40716880) - [An icon taskbar for the Gnome Shell](https://github.com/home-sweet-gnome/dash-to-panel)
 * [2024-06-18, 12:06:49](https://news.ycombinator.com/item?id=40716804) - [\"I've Got Nothing to Hide\" and Other Misunderstandings of Privacy (2008) [pdf]](https://www.cs.ru.nl/~jhh/pub/secsem/solove-nothing-to-hide.pdf)
 * [2024-06-18, 12:06:26](https://news.ycombinator.com/item?id=40716801) - [Code Models](https://openjdk.org/projects/babylon/articles/code-models)
+* [2024-06-18, 11:56:12](https://news.ycombinator.com/item?id=40716717) - [Asus' first Snapdragon X Elite laptop (mostly) blows away the MacBook Air M3](https://www.tomsguide.com/computing/laptops/asus-vivobook-s-15-snapdragon-x-elite-review)
 * [2024-06-18, 11:54:33](https://news.ycombinator.com/item?id=40716701) - [YaFSDP from Yandex, 20% faster for pre-training LLMs](https://github.com/yandex/YaFSDP)
 * [2024-06-18, 11:44:17](https://news.ycombinator.com/item?id=40716606) - [A Hollywood star lobbies the EU for more surveillance](https://netzpolitik.org/2022/dude-wheres-my-privacy-how-a-hollywood-star-lobbies-the-eu-for-more-surveillance/)
 * [2024-06-18, 11:06:22](https://news.ycombinator.com/item?id=40716301) - [Social Media Messed Up Our Kids. Now It Is Making Us Ungovernable](https://www.noemamag.com/social-media-messed-up-our-kids-now-it-is-making-us-ungovernable/)
