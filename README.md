@@ -10,6 +10,7 @@
 * [2024-06-19, 20:39:40](https://news.ycombinator.com/item?id=40732161) - [The the the the induction of jamais vu: word alienation and semantic satiation](https://www.tandfonline.com/doi/full/10.1080/09658211.2020.1727519)
 * [2024-06-19, 20:09:38](https://news.ycombinator.com/item?id=40731922) - [X debut 40 years ago (1984)](https://www.talisman.org/x-debut.shtml)
 * [2024-06-19, 18:59:40](https://news.ycombinator.com/item?id=40731360) - [EasyOS: An experimental Linux distribution](https://easyos.org/)
+* [2024-06-19, 17:16:18](https://news.ycombinator.com/item?id=40730245) - [Show HN: Modular Pi Cam](https://github.com/jdc-cunningham/modular-pi-cam/tree/master/cameras/pi-zero/large-display)
 * [2024-06-19, 17:06:16](https://news.ycombinator.com/item?id=40730156) - [Safe Superintelligence Inc.](https://ssi.inc)
 * [2024-06-19, 16:40:15](https://news.ycombinator.com/item?id=40729906) - [1/25-scale Cray C90 wristwatch](http://www.chrisfenton.com/1-25-scale-cray-c90-wristwatch/)
 * [2024-06-19, 16:30:14](https://news.ycombinator.com/item?id=40729809) - [The return of pneumatic tubes](https://www.technologyreview.com/2024/06/19/1093446/pneumatic-tubes-hospitals/)
@@ -18,9 +19,9 @@
 * [2024-06-19, 14:44:50](https://news.ycombinator.com/item?id=40728814) - [Arvind has died](https://news.mit.edu/2024/computer-science-professor-arvind-dies-0618)
 * [2024-06-19, 13:20:01](https://news.ycombinator.com/item?id=40728032) - [Agilent 2000a / 3000a Oscilloscope NAND Recovery](https://salvagedcircuitry.com/2000a-nand-recovery.html)
 * [2024-06-19, 10:57:22](https://news.ycombinator.com/item?id=40727022) - [Astronomers see a black hole awaken in real time](https://www.eso.org/public/germany/news/eso2409/)
+* [2024-06-19, 09:51:05](https://news.ycombinator.com/item?id=40726641) - [There's more to mathematics than rigour and proofs (2007)](https://terrytao.wordpress.com/career-advice/theres-more-to-mathematics-than-rigour-and-proofs/)
 * [2024-06-19, 06:08:10](https://news.ycombinator.com/item?id=40725329) - [Please don't mention AI again](https://ludic.mataroa.blog/blog/i-will-fucking-piledrive-you-if-you-mention-ai-again/)
 * [2024-06-18, 22:32:37](https://news.ycombinator.com/item?id=40722784) - [Agricultural drones are transforming rice farming in the Mekong River delta](https://hakaimagazine.com/videos-visuals/rice-farming-gets-an-ai-upgrade/)
-* [2024-06-18, 21:44:04](https://news.ycombinator.com/item?id=40722435) - [Autonomous vehicles are great at driving straight](https://spectrum.ieee.org/autonomous-vehicles-great-at-straights)
 * [2024-06-18, 13:47:18](https://news.ycombinator.com/item?id=40717823) - [The short, happy reign of CD-ROM](https://www.fastcompany.com/91128052/history-of-cd-roms-encarta-myst)
 * [2024-06-18, 13:44:25](https://news.ycombinator.com/item?id=40717797) - [Show HN: Ritt – Tag-centric file manager](https://ritt.app/)
 * [2024-06-18, 13:35:58](https://news.ycombinator.com/item?id=40717706) - [Vannevar Bush Engineered the 20th Century](https://spectrum.ieee.org/vannevar-bush)
@@ -29,7 +30,6 @@
 * [2024-06-18, 12:40:32](https://news.ycombinator.com/item?id=40717126) - [Carabiner Collection](https://www.carabinercollection.com/)
 * [2024-06-18, 03:49:27](https://news.ycombinator.com/item?id=40713893) - [Brain circuit scores identify clinically distinct biotypes in depression/anxiety](https://www.nature.com/articles/s41591-024-03057-9)
 * [2024-06-17, 23:23:09](https://news.ycombinator.com/item?id=40712359) - [What happens to our breath when we type, tap, scroll](https://www.npr.org/2024/06/10/1247296780/screen-apnea-why-screens-cause-shallow-breathing)
-* [2024-06-16, 12:07:40](https://news.ycombinator.com/item?id=40696448) - [Nobody Is Starting from Scratch](https://hiking.org/2018/08/26/nobody-is-starting-from-scratch/)
 
 ## [Archives](archives/index.md)
 
