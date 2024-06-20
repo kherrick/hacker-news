@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-20, 15:19:02](https://news.ycombinator.com/item?id=40739725) - [Oracle Java license teams set to begin targeting unknowing Oracle users](https://www.theregister.com/2024/06/20/oracle_java_licence_teams/)
+* [2024-06-20, 15:18:27](https://news.ycombinator.com/item?id=40739710) - [Atkinson Dithering](https://beyondloom.com/blog/dither.html)
 * [2024-06-20, 14:54:23](https://news.ycombinator.com/item?id=40739431) - [Ask HN: Could AI be a dot com sized bubble?](https://news.ycombinator.com/item?id=40739431)
 * [2024-06-20, 14:03:46](https://news.ycombinator.com/item?id=40738916) - [Claude 3.5 Sonnet](https://www.anthropic.com/news/claude-3-5-sonnet)
 * [2024-06-20, 13:54:51](https://news.ycombinator.com/item?id=40738833) - [Wc2: Investigates optimizing 'wc', the Unix word count program](https://github.com/robertdavidgraham/wc2)
 * [2024-06-20, 12:42:18](https://news.ycombinator.com/item?id=40738088) - [AdonisJS](https://adonisjs.com/)
-* [2024-06-20, 12:25:10](https://news.ycombinator.com/item?id=40737901) - [Show HN: Midday – Run your business smarter (open-source)](https://midday.ai)
 * [2024-06-20, 12:00:23](https://news.ycombinator.com/item?id=40737674) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-06-20, 11:40:26](https://news.ycombinator.com/item?id=40737508) - [NPM and NodeJS should do more to make ES Modules easy to use](https://borischerny.com/javascript,/typescript/2024/06/19/ES-Modules-Are-A-Mess.html)
 * [2024-06-20, 11:12:36](https://news.ycombinator.com/item?id=40737308) - [The Delusion of Advanced Plastic Recycling](https://www.propublica.org/article/delusion-advanced-chemical-plastic-recycling-pyrolysis)
