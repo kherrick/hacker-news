@@ -73,6 +73,7 @@
 * [2024-06-21, 06:50:16](https://news.ycombinator.com/item?id=40746875) - [FDA, Industry Actions End Sales of PFAS Used in Food Packaging](https://www.fda.gov/news-events/press-announcements/fda-industry-actions-end-sales-pfas-used-us-food-packaging)
 * [2024-06-21, 06:39:33](https://news.ycombinator.com/item?id=40746826) - [Is Kotlin Multiplatform Replacing Flutter?](https://news.ycombinator.com/item?id=40746826)
 * [2024-06-21, 06:35:37](https://news.ycombinator.com/item?id=40746804) - [Ladybird browser spreads its wings](https://lwn.net/Articles/976822/)
+* [2024-06-21, 06:30:02](https://news.ycombinator.com/item?id=40746773) - [Show HN: Eidos – Offline alternative to Notion](https://github.com/mayneyao/eidos)
 * [2024-06-21, 06:20:25](https://news.ycombinator.com/item?id=40746721) - [SpaceX unveils backpack-sized 'Starlink Mini' internet antenna for $599](https://www.cnbc.com/2024/06/20/spacex-unveils-starlink-mini-satellite-internet-antenna-for-599.html)
 * [2024-06-21, 05:56:45](https://news.ycombinator.com/item?id=40746617) - [The exponential growth of solar power will change the world](https://www.economist.com/leaders/2024/06/20/the-exponential-growth-of-solar-power-will-change-the-world)
 * [2024-06-21, 05:42:26](https://news.ycombinator.com/item?id=40746524) - [US Bans Kaspersky Software](https://www.wired.com/story/us-bans-kaspersky-software/)
