@@ -26,6 +26,7 @@
 * [2024-06-19, 17:21:38](https://news.ycombinator.com/item?id=40730309) - [Finite Curve](https://www.finitecurve.com/)
 * [2024-06-19, 17:16:18](https://news.ycombinator.com/item?id=40730245) - [Show HN: Modular Pi Cam](https://github.com/jdc-cunningham/modular-pi-cam/tree/master/cameras/pi-zero/large-display)
 * [2024-06-19, 17:14:13](https://news.ycombinator.com/item?id=40730228) - [F](http://www.nsl.com/k/f/f.htm)
+* [2024-06-19, 17:08:17](https://news.ycombinator.com/item?id=40730178) - [The Back of the Envelope (1984) [pdf]](https://www.seltzer.com/margo/teaching/CS508.19/background/p180-bentley.pdf)
 * [2024-06-19, 17:06:16](https://news.ycombinator.com/item?id=40730156) - [Ilya Sutskever starts Safe Superintelligence Inc](https://ssi.inc)
 * [2024-06-19, 17:02:59](https://news.ycombinator.com/item?id=40730132) - [Safe Superintelligence Inc. – Ilya Sutskever](https://twitter.com/ssi/status/1803472825476587910)
 * [2024-06-19, 17:01:12](https://news.ycombinator.com/item?id=40730117) - [Blacksmith (YC W24) is hiring a front end engineer to improve GitHub Actions](https://www.ycombinator.com/companies/blacksmith/jobs/SgZiNoi-founding-engineer-frontend)
