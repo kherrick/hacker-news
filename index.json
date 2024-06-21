@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-06-21, 15:06:40",
-      "https://news.ycombinator.com/item?id=40750410"
-    ],
-    [
-      "Change Healthcare confirms hackers stole medical records of Americans",
-      "https://techcrunch.com/2024/06/21/change-healthcare-confirms-ransomware-hackers-stole-medical-records-on-a-substantial-proportion-of-americans/"
-    ]
-  ],
-  [
-    [
       "2024-06-21, 14:50:12",
       "https://news.ycombinator.com/item?id=40750230"
     ],
@@ -21,22 +11,22 @@
   ],
   [
     [
-      "2024-06-21, 14:45:59",
-      "https://news.ycombinator.com/item?id=40750182"
-    ],
-    [
-      "Multiple AI companies bypassing web standard to scrape publisher sites",
-      "https://www.reuters.com/technology/artificial-intelligence/multiple-ai-companies-bypassing-web-standard-scrape-publisher-sites-licensing-2024-06-21/"
-    ]
-  ],
-  [
-    [
       "2024-06-21, 14:44:59",
       "https://news.ycombinator.com/item?id=40750171"
     ],
     [
       "Twitter and the Spread of Academic Knowledge",
       "https://mattsclancy.substack.com/p/twitter-and-the-spread-of-academic"
+    ]
+  ],
+  [
+    [
+      "2024-06-21, 14:40:47",
+      "https://news.ycombinator.com/item?id=40750130"
+    ],
+    [
+      "Brain health is rooted in state of mind, finds study",
+      "https://medicalxpress.com/news/2024-06-brain-health-rooted-state-mind.html"
     ]
   ],
   [
@@ -77,6 +67,16 @@
     [
       "From Infocom to 80 Days: An oral history of text games and interactive fiction",
       "https://arstechnica.com/gaming/2024/06/from-infocom-to-80-days-an-oral-history-of-text-games-and-interactive-fiction/"
+    ]
+  ],
+  [
+    [
+      "2024-06-21, 13:13:20",
+      "https://news.ycombinator.com/item?id=40749275"
+    ],
+    [
+      "Ask HN: What indoor CO2 monitor do you recommend?",
+      "https://news.ycombinator.com/item?id=40749275"
     ]
   ],
   [
@@ -141,12 +141,32 @@
   ],
   [
     [
+      "2024-06-20, 23:19:40",
+      "https://news.ycombinator.com/item?id=40744558"
+    ],
+    [
+      "How babies and young children learn to understand language",
+      "https://lithub.com/how-babies-and-young-children-learn-to-understand-language/"
+    ]
+  ],
+  [
+    [
       "2024-06-20, 22:48:40",
       "https://news.ycombinator.com/item?id=40744293"
     ],
     [
       "Show HN: Local voice assistant using Ollama, transformers and Coqui TTS toolkit",
       "https://github.com/mezbaul-h/june"
+    ]
+  ],
+  [
+    [
+      "2024-06-20, 22:23:12",
+      "https://news.ycombinator.com/item?id=40744098"
+    ],
+    [
+      "Generating audio for video",
+      "https://deepmind.google/discover/blog/generating-audio-for-video/"
     ]
   ],
   [
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2024-06-20, 13:54:51",
-      "https://news.ycombinator.com/item?id=40738833"
-    ],
-    [
-      "Wc2: Investigates optimizing 'wc', the Unix word count program",
-      "https://github.com/robertdavidgraham/wc2"
-    ]
-  ],
-  [
-    [
       "2024-06-20, 11:21:56",
       "https://news.ycombinator.com/item?id=40737370"
     ],
     [
       "Let's write a video game from scratch like it's 1987",
       "https://gaultier.github.io/blog/write_a_video_game_from_scratch_like_1987.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-20, 11:11:16",
-      "https://news.ycombinator.com/item?id=40737294"
-    ],
-    [
-      "Tetris Font (2020)",
-      "https://erikdemaine.org/fonts/tetris/"
     ]
   ],
   [
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2024-06-19, 07:53:34",
-      "https://news.ycombinator.com/item?id=40725924"
-    ],
-    [
-      "NASA releases Hubble image taken in new pointing mode",
-      "https://science.nasa.gov/missions/hubble/nasa-releases-hubble-image-taken-in-new-pointing-mode/"
-    ]
-  ],
-  [
-    [
       "2024-06-19, 06:54:29",
       "https://news.ycombinator.com/item?id=40725568"
     ],
@@ -297,6 +287,16 @@
     [
       "Code Models",
       "https://openjdk.org/projects/babylon/articles/code-models"
+    ]
+  ],
+  [
+    [
+      "2024-06-18, 10:47:02",
+      "https://news.ycombinator.com/item?id=40716166"
+    ],
+    [
+      "Is Tetris Really 40 This Year?",
+      "https://www.timeextension.com/news/2024/06/anniversary-is-tetris-really-40-this-year"
     ]
   ]
 ]
