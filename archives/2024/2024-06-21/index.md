@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-21](index.md)
 
+* [2024-06-21, 18:55:36](https://news.ycombinator.com/item?id=40752518) - [Why SMBs Don't Deploy SSO](https://www.cisa.gov/news-events/news/why-smbs-dont-deploy-single-sign-sso)
+* [2024-06-21, 18:48:21](https://news.ycombinator.com/item?id=40752444) - [What good are whizzy new drugs if the world can't afford them?](https://www.economist.com/by-invitation/2024/06/14/what-good-are-whizzy-new-drugs-if-the-world-cant-afford-them)
 * [2024-06-21, 18:33:17](https://news.ycombinator.com/item?id=40752320) - [We now have even more evidence against the \"ecocide\" theory of Easter Island](https://arstechnica.com/science/2024/06/we-now-have-even-more-evidence-against-the-ecocide-theory-of-easter-island/)
 * [2024-06-21, 18:00:57](https://news.ycombinator.com/item?id=40752076) - [Huawei unveils its own programming language the \"Cangjie\"](https://gsmchina.com/huawei-unveils-its-own-programming-language-the-cangjie-8687/)
 * [2024-06-21, 17:39:54](https://news.ycombinator.com/item?id=40751885) - [Ollama Release v0.1.45. Support DeepSeek-Coder-V2](https://github.com/ollama/ollama/releases/tag/v0.1.45)
