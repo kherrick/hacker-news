@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-21, 16:16:31](https://news.ycombinator.com/item?id=40751020) - [Testing Generative AI for Circuit Board Design](https://blog.jitx.com/jitx-corporate-blog/testing-generative-ai-for-circuit-board-design)
+* [2024-06-21, 15:35:29](https://news.ycombinator.com/item?id=40750674) - [54 Humans in One 8-meter Gravitics Module](https://www.gravitics.com/news/54-humans-in-gravitics-modules)
 * [2024-06-21, 15:04:52](https://news.ycombinator.com/item?id=40750391) - [OpenAI Acquires Rockset](https://openai.com/index/openai-acquires-rockset/)
 * [2024-06-21, 14:50:12](https://news.ycombinator.com/item?id=40750230) - [How the Square Root of 2 Became a Number](https://www.quantamagazine.org/how-the-square-root-of-2-became-a-number-20240621/)
 * [2024-06-21, 14:44:59](https://news.ycombinator.com/item?id=40750171) - [Twitter and the Spread of Academic Knowledge](https://mattsclancy.substack.com/p/twitter-and-the-spread-of-academic)
@@ -23,13 +24,12 @@
 * [2024-06-20, 15:41:56](https://news.ycombinator.com/item?id=40739982) - [We no longer use LangChain for building our AI agents](https://www.octomind.dev/blog/why-we-no-longer-use-langchain-for-building-our-ai-agents)
 * [2024-06-20, 15:18:27](https://news.ycombinator.com/item?id=40739710) - [Atkinson Dithering (2021)](https://beyondloom.com/blog/dither.html)
 * [2024-06-20, 11:21:56](https://news.ycombinator.com/item?id=40737370) - [Let's write a video game from scratch like it's 1987](https://gaultier.github.io/blog/write_a_video_game_from_scratch_like_1987.html)
-* [2024-06-20, 03:25:09](https://news.ycombinator.com/item?id=40734564) - [Bog gravel filtration: Water cleaned by mother nature (2015)](https://www.pondtrademag.com/bog-gravel-filtration-water-cleaned-by-mother-nature/)
-* [2024-06-19, 17:08:17](https://news.ycombinator.com/item?id=40730178) - [The Back of the Envelope (1984) [pdf]](https://www.seltzer.com/margo/teaching/CS508.19/background/p180-bentley.pdf)
+* [2024-06-20, 11:11:16](https://news.ycombinator.com/item?id=40737294) - [Tetris Font (2020)](https://erikdemaine.org/fonts/tetris/)
+* [2024-06-20, 03:25:09](https://news.ycombinator.com/item?id=40734564) - [Bog gravel filtration: Water cleaned by Mother Nature (2015)](https://www.pondtrademag.com/bog-gravel-filtration-water-cleaned-by-mother-nature/)
 * [2024-06-19, 14:36:30](https://news.ycombinator.com/item?id=40728714) - [Software designers pick the path, not just the destination](https://tidyfirst.substack.com/p/the-trough-of-despair)
 * [2024-06-19, 09:32:22](https://news.ycombinator.com/item?id=40726529) - [Algorithmic Fitting of Japanese Candy](https://www.candyjapan.com/behind-the-scenes/algorithmic-fitting-of-japanese-candy)
 * [2024-06-19, 06:54:29](https://news.ycombinator.com/item?id=40725568) - [Chasing a Bug in a SAT Solver](https://ochagavia.nl/blog/chasing-a-bug-in-a-sat-solver/)
 * [2024-06-18, 12:06:26](https://news.ycombinator.com/item?id=40716801) - [Code Models](https://openjdk.org/projects/babylon/articles/code-models)
-* [2024-06-18, 10:47:02](https://news.ycombinator.com/item?id=40716166) - [Is Tetris Really 40 This Year?](https://www.timeextension.com/news/2024/06/anniversary-is-tetris-really-40-this-year)
 
 ## [Archives](archives/index.md)
 
