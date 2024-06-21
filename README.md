@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-21, 20:38:18](https://news.ycombinator.com/item?id=40753553) - [Ask HN: Privacy Friendly Smart Phone?](https://news.ycombinator.com/item?id=40753553)
 * [2024-06-21, 20:30:27](https://news.ycombinator.com/item?id=40753485) - [Stanford student collects her Master's degree at the age of 105](https://ed.stanford.edu/news/lifelong-learning-stanford-gse-student-collects-her-master-s-degree-after-80-years-education)
 * [2024-06-21, 19:38:18](https://news.ycombinator.com/item?id=40752904) - [Ontario Science Centre to close immediately](https://www.cbc.ca/news/canada/toronto/ontario-science-centre-closing-roof-1.7242810)
 * [2024-06-21, 19:34:01](https://news.ycombinator.com/item?id=40752856) - [Climate Zones](https://pudding.cool/2024/06/climate-zones/)
@@ -10,7 +11,6 @@
 * [2024-06-21, 17:33:28](https://news.ycombinator.com/item?id=40751813) - [A runaway plane took off by itself and spent 3 hours flying unpiloted in 1955](https://navyhistory.au/aster-shootdown-over-sydney-in-1955/)
 * [2024-06-21, 17:00:25](https://news.ycombinator.com/item?id=40751478) - [Patterns (YC S21) Is Hiring to Build Analytics Agents for Finance Teams](https://patterns.app/)
 * [2024-06-21, 16:59:52](https://news.ycombinator.com/item?id=40751468) - [CRIU, a project to implement checkpoint/restore functionality for Linux](https://criu.org/Main_Page)
-* [2024-06-21, 16:55:19](https://news.ycombinator.com/item?id=40751414) - [How to prolong lithium based batteries](https://batteryuniversity.com/article/bu-808-how-to-prolong-lithium-based-batteries)
 * [2024-06-21, 16:30:17](https://news.ycombinator.com/item?id=40751178) - [Show HN: High-Frequency Trading and Market-Making Backtesting Tool with Examples](https://github.com/nkaz001/hftbacktest/tree/master/rust)
 * [2024-06-21, 16:24:09](https://news.ycombinator.com/item?id=40751108) - [Self-driving Waymos secure final clearance for expansion beyond S.F](https://www.sfchronicle.com/bayarea/article/self-driving-cars-waymo-sf-19523750.php)
 * [2024-06-21, 16:16:31](https://news.ycombinator.com/item?id=40751020) - [Testing Generative AI for Circuit Board Design](https://blog.jitx.com/jitx-corporate-blog/testing-generative-ai-for-circuit-board-design)
