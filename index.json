@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-06-21, 18:55:36",
-      "https://news.ycombinator.com/item?id=40752518"
-    ],
-    [
-      "Why SMBs Don't Deploy SSO",
-      "https://www.cisa.gov/news-events/news/why-smbs-dont-deploy-single-sign-sso"
-    ]
-  ],
-  [
-    [
       "2024-06-21, 18:33:17",
       "https://news.ycombinator.com/item?id=40752320"
     ],
@@ -151,6 +141,16 @@
   ],
   [
     [
+      "2024-06-21, 14:52:14",
+      "https://news.ycombinator.com/item?id=40750247"
+    ],
+    [
+      "Reaching the Enchanted Forest",
+      "https://dansitu.substack.com/p/reaching-the-enchanted-forest"
+    ]
+  ],
+  [
+    [
       "2024-06-21, 14:50:12",
       "https://news.ycombinator.com/item?id=40750230"
     ],
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2024-06-20, 15:41:56",
-      "https://news.ycombinator.com/item?id=40739982"
+      "2024-06-20, 15:29:38",
+      "https://news.ycombinator.com/item?id=40739828"
     ],
     [
-      "We no longer use LangChain for building our AI agents",
-      "https://www.octomind.dev/blog/why-we-no-longer-use-langchain-for-building-our-ai-agents"
+      "My experience crafting an interpreter with Rust",
+      "https://ceronman.com/2021/07/22/my-experience-crafting-an-interpreter-with-rust/"
     ]
   ],
   [
