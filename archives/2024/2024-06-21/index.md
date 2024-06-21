@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-21](index.md)
 
+* [2024-06-21, 12:00:05](https://news.ycombinator.com/item?id=40748662) - [Athelas (YC S16) Is Hiring a Senior Full-Stack Software Engineer](https://www.athelas.com/careers?ashby_jid=55c6a105-80be-40b1-8644-cd44f48f1d08)
 * [2024-06-21, 11:31:08](https://news.ycombinator.com/item?id=40748423) - [Microsoft makes Copilot less useful on new Copilot Plus PCs](https://www.theverge.com/2024/6/21/24182979/microsoft-copilot-key-keyboard-shortcut-pwa)
 * [2024-06-21, 11:23:48](https://news.ycombinator.com/item?id=40748371) - [The Engineer Who Refused to Approve the Challenger Launch](https://www.npr.org/2021/03/07/974534021/remembering-allan-mcdonald-he-refused-to-approve-challenger-launch-exposed-cover)
 * [2024-06-21, 11:06:14](https://news.ycombinator.com/item?id=40748263) - [Pornhub prepares to block five more states rather than check IDs](https://arstechnica.com/tech-policy/2024/06/adult-sites-blocking-more-states-this-summer-to-protest-age-verification-laws/)
