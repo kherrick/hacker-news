@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-21, 05:02:25](https://news.ycombinator.com/item?id=40746310) - [MeshAnything – converts 3D representations into efficient 3D meshes](https://buaacyw.github.io/mesh-anything/)
 * [2024-06-21, 04:31:38](https://news.ycombinator.com/item?id=40746173) - [A Rant about Front-end Development](https://blog.frankmtaylor.com/2024/06/20/a-rant-about-front-end-development/)
 * [2024-06-21, 03:25:26](https://news.ycombinator.com/item?id=40745830) - [Bomb Jack display hardware](https://github.com/martinpiper/BombJack/blob/master/README.md)
 * [2024-06-21, 01:12:53](https://news.ycombinator.com/item?id=40745200) - [Thoughts on Desktop Operating Systems in 2024](https://tbolt.space/2024/6/20/desktop-operating-systems-2024)
@@ -12,7 +13,6 @@
 * [2024-06-20, 18:59:34](https://news.ycombinator.com/item?id=40742014) - [Fuzz Map](https://www.fuzzmap.io/)
 * [2024-06-20, 18:28:27](https://news.ycombinator.com/item?id=40741672) - [Donald Sutherland has died](https://www.bbc.com/news/articles/c9rrvdq3g9zo)
 * [2024-06-20, 17:37:47](https://news.ycombinator.com/item?id=40741197) - [Small claims court became Meta's customer service hotline](https://www.engadget.com/how-small-claims-court-became-metas-customer-service-hotline-160224479.html)
-* [2024-06-20, 17:24:54](https://news.ycombinator.com/item?id=40741072) - [A buffer overflow in the XNU kernel](https://jprx.io/cve-2024-27815/)
 * [2024-06-20, 17:24:36](https://news.ycombinator.com/item?id=40741068) - [Notes on Tajikistan](https://mattlakeman.org/2024/06/20/notes-on-tajikistan/)
 * [2024-06-20, 15:45:19](https://news.ycombinator.com/item?id=40740021) - [Show HN: I made a puzzle game that gently introduces my favorite math mysteries](https://www.rahulilango.com/coloring/)
 * [2024-06-20, 15:41:56](https://news.ycombinator.com/item?id=40739982) - [We no longer use LangChain for building our AI agents](https://www.octomind.dev/blog/why-we-no-longer-use-langchain-for-building-our-ai-agents)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-21](index.md)
 
+* [2024-06-21, 05:02:25](https://news.ycombinator.com/item?id=40746310) - [MeshAnything – converts 3D representations into efficient 3D meshes](https://buaacyw.github.io/mesh-anything/)
 * [2024-06-21, 04:31:38](https://news.ycombinator.com/item?id=40746173) - [A Rant about Front-end Development](https://blog.frankmtaylor.com/2024/06/20/a-rant-about-front-end-development/)
 * [2024-06-21, 03:34:50](https://news.ycombinator.com/item?id=40745890) - [Birth rates halve in richer countries as costs weigh, OECD report says](https://www.reuters.com/world/birth-rates-halve-richer-countries-costs-weigh-oecd-report-says-2024-06-20/)
 * [2024-06-21, 03:25:26](https://news.ycombinator.com/item?id=40745830) - [Homebrew board adds 8 layers, 16-bit color, sprite scaling and rotation to C64](https://github.com/martinpiper/BombJack/blob/master/README.md)
