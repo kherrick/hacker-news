@@ -39,6 +39,7 @@
 * [2024-06-20, 17:30:45](https://news.ycombinator.com/item?id=40741132) - [Decompress Anything with \"X Uz\"](https://www.x-cmd.com/mod/zuz/)
 * [2024-06-20, 17:24:54](https://news.ycombinator.com/item?id=40741072) - [A Buffer Overflow in the XNU Kernel](https://jprx.io/cve-2024-27815/)
 * [2024-06-20, 17:24:36](https://news.ycombinator.com/item?id=40741068) - [Notes on Tajikistan](https://mattlakeman.org/2024/06/20/notes-on-tajikistan/)
+* [2024-06-20, 17:13:06](https://news.ycombinator.com/item?id=40740956) - [Ask HN: Why is it so hard for devices to determine WiFi network health?](https://news.ycombinator.com/item?id=40740956)
 * [2024-06-20, 17:12:23](https://news.ycombinator.com/item?id=40740951) - [Virgin Orbit Had a Fake Takeover](https://www.bloomberg.com/opinion/articles/2024-06-20/virgin-orbit-had-a-fake-takeover)
 * [2024-06-20, 17:00:42](https://news.ycombinator.com/item?id=40740843) - [Artisan (YC W24) Is Hiring Exceptional Full-Stack Engineers](https://www.ycombinator.com/companies/artisan/jobs/HGhUCbv-full-stack-engineer)
 * [2024-06-20, 16:39:30](https://news.ycombinator.com/item?id=40740616) - [Electromechanical Lunar Lander](http://www.chrisfenton.com/electromechanical-lunar-lander/)

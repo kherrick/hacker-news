@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-21](index.md)
 
+* [2024-06-21, 21:00:43](https://news.ycombinator.com/item?id=40753752) - [Emerge Tools (YC W21) is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
 * [2024-06-21, 20:42:03](https://news.ycombinator.com/item?id=40753581) - [SVG: The Good, the Bad, and the Ugly](https://www.eisfunke.com/posts/2021/svg-the-good-the-bad-and-the-ugly.html)
 * [2024-06-21, 20:38:18](https://news.ycombinator.com/item?id=40753553) - [Ask HN: Privacy Friendly Smart Phone?](https://news.ycombinator.com/item?id=40753553)
 * [2024-06-21, 20:30:27](https://news.ycombinator.com/item?id=40753485) - [Stanford student collects her Master's degree at the age of 105](https://ed.stanford.edu/news/lifelong-learning-stanford-gse-student-collects-her-master-s-degree-after-80-years-education)
