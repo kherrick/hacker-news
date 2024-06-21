@@ -6,7 +6,10 @@
 
 * [2024-06-21, 13:43:58](https://news.ycombinator.com/item?id=40749564) - [Youth activists win 'unprecedented' climate settlement in Hawaii](https://www.theguardian.com/us-news/article/2024/jun/20/hawaii-youth-climate-activists-win)
 * [2024-06-21, 13:36:52](https://news.ycombinator.com/item?id=40749483) - [FDA Expands Approval of Gene Therapy for Patients with Muscular Dystrophy](https://www.fda.gov/news-events/press-announcements/fda-expands-approval-gene-therapy-patients-duchenne-muscular-dystrophy)
+* [2024-06-21, 13:13:20](https://news.ycombinator.com/item?id=40749275) - [Ask HN: What indoor CO2 monitor do you recommend?](https://news.ycombinator.com/item?id=40749275)
+* [2024-06-21, 13:05:21](https://news.ycombinator.com/item?id=40749211) - [It seems routine to see a bunch of browser User-Agents from the same IP](https://utcc.utoronto.ca/~cks/space/blog/web/MultipleUserAgentsSameIP)
 * [2024-06-21, 12:32:37](https://news.ycombinator.com/item?id=40748931) - [The Migrants Spending $72,000 to Illegally Immigrate to the US](https://www.reuters.com/investigates/special-report/migration-usa-smuggling/)
+* [2024-06-21, 12:22:39](https://news.ycombinator.com/item?id=40748851) - [Advanced Text Features and PDF](https://nibblestew.blogspot.com/2024/06/advanced-text-features-and-pdf.html)
 * [2024-06-21, 12:00:05](https://news.ycombinator.com/item?id=40748662) - [Athelas (YC S16) Is Hiring a Senior Full-Stack Software Engineer](https://www.athelas.com/careers?ashby_jid=55c6a105-80be-40b1-8644-cd44f48f1d08)
 * [2024-06-21, 11:31:08](https://news.ycombinator.com/item?id=40748423) - [Microsoft makes Copilot less useful on new Copilot Plus PCs](https://www.theverge.com/2024/6/21/24182979/microsoft-copilot-key-keyboard-shortcut-pwa)
 * [2024-06-21, 11:23:48](https://news.ycombinator.com/item?id=40748371) - [The Engineer Who Refused to Approve the Challenger Launch](https://www.npr.org/2021/03/07/974534021/remembering-allan-mcdonald-he-refused-to-approve-challenger-launch-exposed-cover)
