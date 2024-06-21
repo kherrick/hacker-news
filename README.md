@@ -1,9 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-21, 14:05:12](https://news.ycombinator.com/item?id=40749775) - [Claudette, a new friend that makes Claude 3.5 Sonnet even nicer](https://www.answer.ai/posts/2024-06-21-claudette.html)
-* [2024-06-21, 13:36:52](https://news.ycombinator.com/item?id=40749483) - [FDA Expands Approval of Gene Therapy for Patients with Muscular Dystrophy](https://www.fda.gov/news-events/press-announcements/fda-expands-approval-gene-therapy-patients-duchenne-muscular-dystrophy)
+* [2024-06-21, 14:21:23](https://news.ycombinator.com/item?id=40749927) - [A study has been following 'gifted' kids for 45 years. Here's what we've learned](https://www.upworthy.com/a-study-has-been-following-gifted-kids-for-45-years-heres-what-weve-learned-rp5)
+* [2024-06-21, 14:03:14](https://news.ycombinator.com/item?id=40749754) - [Why Innovation Heroes Are a Sign of a Dysfunctional Organization](https://steveblank.substack.com/p/why-innovation-heroes-are-a-sign)
+* [2024-06-21, 13:54:24](https://news.ycombinator.com/item?id=40749670) - [How does a computer/calculator compute logarithms?](https://zachartrand.github.io/SoME-3-Living/)
+* [2024-06-21, 13:49:55](https://news.ycombinator.com/item?id=40749624) - [Spending 3 months investigating a 7-year old bug and fixing it in 1 line of code](https://lemmy.world/post/16763534)
 * [2024-06-21, 13:30:21](https://news.ycombinator.com/item?id=40749426) - [From Infocom to 80 Days: An oral history of text games and interactive fiction](https://arstechnica.com/gaming/2024/06/from-infocom-to-80-days-an-oral-history-of-text-games-and-interactive-fiction/)
-* [2024-06-21, 12:48:24](https://news.ycombinator.com/item?id=40749046) - [Wireless power transfer system achieves 270-kilowatt charge](https://www.ornl.gov/news/polyphase-wireless-power-transfer-system-achieves-270-kilowatt-charge-sets-another-world)
 * [2024-06-21, 12:22:39](https://news.ycombinator.com/item?id=40748851) - [Advanced Text Features and PDF](https://nibblestew.blogspot.com/2024/06/advanced-text-features-and-pdf.html)
 * [2024-06-21, 12:00:05](https://news.ycombinator.com/item?id=40748662) - [Athelas (YC S16) Is Hiring a Senior Full-Stack Software Engineer](https://www.athelas.com/careers?ashby_jid=55c6a105-80be-40b1-8644-cd44f48f1d08)
 * [2024-06-21, 11:23:48](https://news.ycombinator.com/item?id=40748371) - [Allan McDonald Refused To Approve Challenger Launch, Exposed Cover-Up (2021)](https://www.npr.org/2021/03/07/974534021/remembering-allan-mcdonald-he-refused-to-approve-challenger-launch-exposed-cover)
@@ -28,7 +29,6 @@
 * [2024-06-19, 09:32:22](https://news.ycombinator.com/item?id=40726529) - [Algorithmic Fitting of Japanese Candy](https://www.candyjapan.com/behind-the-scenes/algorithmic-fitting-of-japanese-candy)
 * [2024-06-19, 07:53:34](https://news.ycombinator.com/item?id=40725924) - [NASA releases Hubble image taken in new pointing mode](https://science.nasa.gov/missions/hubble/nasa-releases-hubble-image-taken-in-new-pointing-mode/)
 * [2024-06-19, 06:54:29](https://news.ycombinator.com/item?id=40725568) - [Chasing a Bug in a SAT Solver](https://ochagavia.nl/blog/chasing-a-bug-in-a-sat-solver/)
-* [2024-06-18, 23:05:54](https://news.ycombinator.com/item?id=40723024) - [The shape of information](https://kucharski.substack.com/p/the-shape-of-information)
 * [2024-06-18, 12:06:26](https://news.ycombinator.com/item?id=40716801) - [Code Models](https://openjdk.org/projects/babylon/articles/code-models)
 
 ## [Archives](archives/index.md)

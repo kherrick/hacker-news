@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-06-21](index.md)
 
+* [2024-06-21, 14:21:23](https://news.ycombinator.com/item?id=40749927) - [A study has been following 'gifted' kids for 45 years. Here's what we've learned](https://www.upworthy.com/a-study-has-been-following-gifted-kids-for-45-years-heres-what-weve-learned-rp5)
 * [2024-06-21, 14:05:12](https://news.ycombinator.com/item?id=40749775) - [Claudette, a new friend that makes Claude 3.5 Sonnet even nicer](https://www.answer.ai/posts/2024-06-21-claudette.html)
+* [2024-06-21, 14:03:14](https://news.ycombinator.com/item?id=40749754) - [Why Innovation Heroes Are a Sign of a Dysfunctional Organization](https://steveblank.substack.com/p/why-innovation-heroes-are-a-sign)
+* [2024-06-21, 13:54:24](https://news.ycombinator.com/item?id=40749670) - [How does a computer/calculator compute logarithms?](https://zachartrand.github.io/SoME-3-Living/)
+* [2024-06-21, 13:49:55](https://news.ycombinator.com/item?id=40749624) - [Spending 3 months investigating a 7-year old bug and fixing it in 1 line of code](https://lemmy.world/post/16763534)
 * [2024-06-21, 13:43:58](https://news.ycombinator.com/item?id=40749564) - [Youth activists win 'unprecedented' climate settlement in Hawaii](https://www.theguardian.com/us-news/article/2024/jun/20/hawaii-youth-climate-activists-win)
 * [2024-06-21, 13:36:52](https://news.ycombinator.com/item?id=40749483) - [FDA Expands Approval of Gene Therapy for Patients with Muscular Dystrophy](https://www.fda.gov/news-events/press-announcements/fda-expands-approval-gene-therapy-patients-duchenne-muscular-dystrophy)
 * [2024-06-21, 13:30:21](https://news.ycombinator.com/item?id=40749426) - [From Infocom to 80 Days: An oral history of text games and interactive fiction](https://arstechnica.com/gaming/2024/06/from-infocom-to-80-days-an-oral-history-of-text-games-and-interactive-fiction/)
