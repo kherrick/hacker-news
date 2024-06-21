@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-21](index.md)
 
+* [2024-06-21, 13:36:52](https://news.ycombinator.com/item?id=40749483) - [FDA Expands Approval of Gene Therapy for Patients with Muscular Dystrophy](https://www.fda.gov/news-events/press-announcements/fda-expands-approval-gene-therapy-patients-duchenne-muscular-dystrophy)
 * [2024-06-21, 12:32:37](https://news.ycombinator.com/item?id=40748931) - [The Migrants Spending $72,000 to Illegally Immigrate to the US](https://www.reuters.com/investigates/special-report/migration-usa-smuggling/)
 * [2024-06-21, 12:00:05](https://news.ycombinator.com/item?id=40748662) - [Athelas (YC S16) Is Hiring a Senior Full-Stack Software Engineer](https://www.athelas.com/careers?ashby_jid=55c6a105-80be-40b1-8644-cd44f48f1d08)
 * [2024-06-21, 11:31:08](https://news.ycombinator.com/item?id=40748423) - [Microsoft makes Copilot less useful on new Copilot Plus PCs](https://www.theverge.com/2024/6/21/24182979/microsoft-copilot-key-keyboard-shortcut-pwa)
