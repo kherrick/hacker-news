@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-06-21](index.md)
 
+* [2024-06-21, 15:59:57](https://news.ycombinator.com/item?id=40750888) - [McDonald's AI Drive-Thru debacle is a warning to us all](https://www.creativebloq.com/design/branding/mcdonalds-ai-drive-thru-debacle-is-a-warning-to-us-all)
 * [2024-06-21, 15:08:02](https://news.ycombinator.com/item?id=40750423) - [Ask HN: Midlife crisis, which direction to go with?](https://news.ycombinator.com/item?id=40750423)
 * [2024-06-21, 15:06:40](https://news.ycombinator.com/item?id=40750410) - [Change Healthcare confirms hackers stole medical records of Americans](https://techcrunch.com/2024/06/21/change-healthcare-confirms-ransomware-hackers-stole-medical-records-on-a-substantial-proportion-of-americans/)
+* [2024-06-21, 15:04:52](https://news.ycombinator.com/item?id=40750391) - [OpenAI Acquires Rockset](https://openai.com/index/openai-acquires-rockset/)
+* [2024-06-21, 15:01:40](https://news.ycombinator.com/item?id=40750360) - [Fastly launches free developer accounts](https://www.fastly.com/blog/its-free-instant-and-yours-fastlys-free-developer-accounts-are-here)
 * [2024-06-21, 14:50:12](https://news.ycombinator.com/item?id=40750230) - [How the Square Root of 2 Became a Number](https://www.quantamagazine.org/how-the-square-root-of-2-became-a-number-20240621/)
 * [2024-06-21, 14:45:59](https://news.ycombinator.com/item?id=40750182) - [Multiple AI companies bypassing web standard to scrape publisher sites](https://www.reuters.com/technology/artificial-intelligence/multiple-ai-companies-bypassing-web-standard-scrape-publisher-sites-licensing-2024-06-21/)
 * [2024-06-21, 14:44:59](https://news.ycombinator.com/item?id=40750171) - [Twitter and the Spread of Academic Knowledge](https://mattsclancy.substack.com/p/twitter-and-the-spread-of-academic)
