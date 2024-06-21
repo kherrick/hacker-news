@@ -2,6 +2,7 @@
 
 * [2024-06-21, 06:39:33](https://news.ycombinator.com/item?id=40746826) - [Is Kotlin Multiplatform Replacing Flutter?](https://news.ycombinator.com/item?id=40746826)
 * [2024-06-21, 06:35:37](https://news.ycombinator.com/item?id=40746804) - [Ladybird browser spreads its wings](https://lwn.net/Articles/976822/)
+* [2024-06-21, 05:42:26](https://news.ycombinator.com/item?id=40746524) - [US Bans Kaspersky Software](https://www.wired.com/story/us-bans-kaspersky-software/)
 * [2024-06-21, 05:02:25](https://news.ycombinator.com/item?id=40746310) - [MeshAnything – converts 3D representations into efficient 3D meshes](https://buaacyw.github.io/mesh-anything/)
 * [2024-06-21, 03:25:26](https://news.ycombinator.com/item?id=40745830) - [Bomb Jack display hardware](https://github.com/martinpiper/BombJack/blob/master/README.md)
 * [2024-06-20, 23:19:40](https://news.ycombinator.com/item?id=40744558) - [How babies and young children learn to understand language](https://lithub.com/how-babies-and-young-children-learn-to-understand-language/)
@@ -21,7 +22,6 @@
 * [2024-06-20, 11:11:16](https://news.ycombinator.com/item?id=40737294) - [Tetris Font](https://erikdemaine.org/fonts/tetris/)
 * [2024-06-20, 09:45:41](https://news.ycombinator.com/item?id=40736771) - [EU Council has withdrawn the vote on Chat Control](https://stackdiary.com/eu-council-has-withdrawn-the-vote-on-chat-control/)
 * [2024-06-20, 03:25:09](https://news.ycombinator.com/item?id=40734564) - [Bog gravel filtration: Water cleaned by mother nature (2015)](https://www.pondtrademag.com/bog-gravel-filtration-water-cleaned-by-mother-nature/)
-* [2024-06-20, 00:21:00](https://news.ycombinator.com/item?id=40733705) - [OSRD: Open-Source Railway Designer](https://osrd.fr/en/)
 * [2024-06-19, 08:02:13](https://news.ycombinator.com/item?id=40725970) - [Two ways to use an LED as a light sensor with Arduino](https://blog.jgc.org/2024/06/two-ways-to-use-led-as-light-sensor.html)
 * [2024-06-19, 07:53:34](https://news.ycombinator.com/item?id=40725924) - [NASA releases Hubble image taken in new pointing mode](https://science.nasa.gov/missions/hubble/nasa-releases-hubble-image-taken-in-new-pointing-mode/)
 * [2024-06-19, 06:54:29](https://news.ycombinator.com/item?id=40725568) - [Chasing a Bug in a SAT Solver](https://ochagavia.nl/blog/chasing-a-bug-in-a-sat-solver/)
