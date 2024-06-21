@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-21, 22:18:23](https://news.ycombinator.com/item?id=40754445) - [Daylight Computer tablet review](https://twitter.com/patio11/status/1804217931557171612)
 * [2024-06-21, 21:53:54](https://news.ycombinator.com/item?id=40754229) - [Internet Archive forced to remove 500k books after publishers' court win](https://arstechnica.com/tech-policy/2024/06/internet-archive-forced-to-remove-500000-books-after-publishers-court-win/)
 * [2024-06-21, 21:10:28](https://news.ycombinator.com/item?id=40753856) - [Solving puzzles faster than humanly possible](https://biggieblog.com/solving-puzzles-faster-than-humanly-possible/)
 * [2024-06-21, 21:02:19](https://news.ycombinator.com/item?id=40753773) - [Hope without optimism – transcription of a talk by Dave Snowden (2022)](https://gist.github.com/owulveryck/4ac8c96c16f5a48de24f8a0e949ad9a5)
@@ -7,7 +8,6 @@
 * [2024-06-21, 20:42:03](https://news.ycombinator.com/item?id=40753581) - [SVG: The Good, the Bad, and the Ugly (2021)](https://www.eisfunke.com/posts/2021/svg-the-good-the-bad-and-the-ugly.html)
 * [2024-06-21, 20:29:42](https://news.ycombinator.com/item?id=40753476) - [The Vienna Secession: A History](https://www.theviennasecession.com/vienna-secession/)
 * [2024-06-21, 19:34:01](https://news.ycombinator.com/item?id=40752856) - [Climate Zones](https://pudding.cool/2024/06/climate-zones/)
-* [2024-06-21, 19:29:13](https://news.ycombinator.com/item?id=40752811) - [GitHub – Karpathy/LLM101n: LLM101n: Let's Build a Storyteller](https://github.com/karpathy/LLM101n)
 * [2024-06-21, 17:33:28](https://news.ycombinator.com/item?id=40751813) - [Aster shootdown over Sydney in 1955](https://navyhistory.au/aster-shootdown-over-sydney-in-1955/)
 * [2024-06-21, 16:59:52](https://news.ycombinator.com/item?id=40751468) - [CRIU, a project to implement checkpoint/restore functionality for Linux](https://criu.org/Main_Page)
 * [2024-06-21, 16:30:17](https://news.ycombinator.com/item?id=40751178) - [Show HN: High-frequency trading and market-making backtesting tool with examples](https://github.com/nkaz001/hftbacktest/tree/master/rust)
