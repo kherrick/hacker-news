@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-21](index.md)
 
+* [2024-06-21, 18:57:51](https://news.ycombinator.com/item?id=40752546) - [Migrating from Java 8 to Java 17: A Comprehensive Guide to New Features](https://igorstechnoclub.com/upgrading-to-java-17-a-comprehensive-guide-to-new-features/)
 * [2024-06-21, 18:55:36](https://news.ycombinator.com/item?id=40752518) - [Why SMBs Don't Deploy SSO](https://www.cisa.gov/news-events/news/why-smbs-dont-deploy-single-sign-sso)
 * [2024-06-21, 18:48:21](https://news.ycombinator.com/item?id=40752444) - [What good are whizzy new drugs if the world can't afford them?](https://www.economist.com/by-invitation/2024/06/14/what-good-are-whizzy-new-drugs-if-the-world-cant-afford-them)
 * [2024-06-21, 18:33:17](https://news.ycombinator.com/item?id=40752320) - [We now have even more evidence against the \"ecocide\" theory of Easter Island](https://arstechnica.com/science/2024/06/we-now-have-even-more-evidence-against-the-ecocide-theory-of-easter-island/)

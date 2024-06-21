@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-21, 18:57:51](https://news.ycombinator.com/item?id=40752546) - [Migrating from Java 8 to Java 17: A Comprehensive Guide to New Features](https://igorstechnoclub.com/upgrading-to-java-17-a-comprehensive-guide-to-new-features/)
 * [2024-06-21, 18:55:36](https://news.ycombinator.com/item?id=40752518) - [Why SMBs Don't Deploy SSO](https://www.cisa.gov/news-events/news/why-smbs-dont-deploy-single-sign-sso)
 * [2024-06-21, 18:48:21](https://news.ycombinator.com/item?id=40752444) - [What good are whizzy new drugs if the world can't afford them?](https://www.economist.com/by-invitation/2024/06/14/what-good-are-whizzy-new-drugs-if-the-world-cant-afford-them)
 * [2024-06-21, 18:33:17](https://news.ycombinator.com/item?id=40752320) - [We now have even more evidence against the \"ecocide\" theory of Easter Island](https://arstechnica.com/science/2024/06/we-now-have-even-more-evidence-against-the-ecocide-theory-of-easter-island/)
@@ -24,7 +25,6 @@
 * [2024-06-21, 09:40:40](https://news.ycombinator.com/item?id=40747845) - [Show HN: Lady Deirdre 2 – Rust Framework for Compilers and LSP Servers](https://github.com/Eliah-Lakhin/lady-deirdre)
 * [2024-06-21, 05:02:25](https://news.ycombinator.com/item?id=40746310) - [MeshAnything – Converts 3D representations into efficient 3D meshes](https://buaacyw.github.io/mesh-anything/)
 * [2024-06-20, 16:39:30](https://news.ycombinator.com/item?id=40740616) - [Electromechanical Lunar Lander](http://www.chrisfenton.com/electromechanical-lunar-lander/)
-* [2024-06-20, 15:45:19](https://news.ycombinator.com/item?id=40740021) - [Show HN: I made a puzzle game that gently introduces my favorite math mysteries](https://www.rahulilango.com/coloring/)
 * [2024-06-20, 15:41:56](https://news.ycombinator.com/item?id=40739982) - [We no longer use LangChain for building our AI agents](https://www.octomind.dev/blog/why-we-no-longer-use-langchain-for-building-our-ai-agents)
 * [2024-06-19, 14:36:30](https://news.ycombinator.com/item?id=40728714) - [Software design gets worse before it gets better](https://tidyfirst.substack.com/p/the-trough-of-despair)
 * [2024-06-19, 06:54:29](https://news.ycombinator.com/item?id=40725568) - [Chasing a Bug in a SAT Solver](https://ochagavia.nl/blog/chasing-a-bug-in-a-sat-solver/)
