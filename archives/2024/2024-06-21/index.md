@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-21](index.md)
 
+* [2024-06-21, 20:30:27](https://news.ycombinator.com/item?id=40753485) - [Stanford student collects her Master's degree at the age of 105](https://ed.stanford.edu/news/lifelong-learning-stanford-gse-student-collects-her-master-s-degree-after-80-years-education)
 * [2024-06-21, 19:38:18](https://news.ycombinator.com/item?id=40752904) - [Ontario Science Centre to close immediately](https://www.cbc.ca/news/canada/toronto/ontario-science-centre-closing-roof-1.7242810)
 * [2024-06-21, 19:34:01](https://news.ycombinator.com/item?id=40752856) - [Climate Zones](https://pudding.cool/2024/06/climate-zones/)
 * [2024-06-21, 19:23:02](https://news.ycombinator.com/item?id=40752761) - [Barcelona will eliminate ALL tourist apartments in 2028 following local backlash](https://www.theolivepress.es/spain-news/2024/06/21/breaking-barcelona-will-remove-all-tourist-apartments-in-2028-in-huge-win-for-anti-tourism-activists/)
@@ -12,6 +13,7 @@
 * [2024-06-21, 18:55:36](https://news.ycombinator.com/item?id=40752518) - [Why SMBs Don't Deploy SSO](https://www.cisa.gov/news-events/news/why-smbs-dont-deploy-single-sign-sso)
 * [2024-06-21, 18:48:21](https://news.ycombinator.com/item?id=40752444) - [What good are whizzy new drugs if the world can't afford them?](https://www.economist.com/by-invitation/2024/06/14/what-good-are-whizzy-new-drugs-if-the-world-cant-afford-them)
 * [2024-06-21, 18:33:17](https://news.ycombinator.com/item?id=40752320) - [We now have even more evidence against the \"ecocide\" theory of Easter Island](https://arstechnica.com/science/2024/06/we-now-have-even-more-evidence-against-the-ecocide-theory-of-easter-island/)
+* [2024-06-21, 18:31:11](https://news.ycombinator.com/item?id=40752306) - [Q*: Improving Multi-Step Reasoning for LLMs with Deliberative Planning](https://arxiv.org/abs/2406.14283)
 * [2024-06-21, 18:00:57](https://news.ycombinator.com/item?id=40752076) - [Huawei unveils its own programming language the \"Cangjie\"](https://gsmchina.com/huawei-unveils-its-own-programming-language-the-cangjie-8687/)
 * [2024-06-21, 17:39:54](https://news.ycombinator.com/item?id=40751885) - [Ollama Release v0.1.45. Support DeepSeek-Coder-V2](https://github.com/ollama/ollama/releases/tag/v0.1.45)
 * [2024-06-21, 17:33:28](https://news.ycombinator.com/item?id=40751813) - [A runaway plane took off by itself and spent 3 hours flying unpiloted in 1955](https://navyhistory.au/aster-shootdown-over-sydney-in-1955/)
@@ -28,6 +30,7 @@
 * [2024-06-21, 16:16:31](https://news.ycombinator.com/item?id=40751020) - [Testing Generative AI for Circuit Board Design](https://blog.jitx.com/jitx-corporate-blog/testing-generative-ai-for-circuit-board-design)
 * [2024-06-21, 15:59:57](https://news.ycombinator.com/item?id=40750888) - [McDonald's AI Drive-Thru debacle is a warning to us all](https://www.creativebloq.com/design/branding/mcdonalds-ai-drive-thru-debacle-is-a-warning-to-us-all)
 * [2024-06-21, 15:35:29](https://news.ycombinator.com/item?id=40750674) - [54 Humans in One 8-meter Gravitics Module](https://www.gravitics.com/news/54-humans-in-gravitics-modules)
+* [2024-06-21, 15:16:16](https://news.ycombinator.com/item?id=40750506) - [Why does current flow the opposite way from the electrons?](https://mathstodon.xyz/@johncarlosbaez/112653640999819867)
 * [2024-06-21, 15:08:02](https://news.ycombinator.com/item?id=40750423) - [Ask HN: Midlife crisis, which direction to go with?](https://news.ycombinator.com/item?id=40750423)
 * [2024-06-21, 15:06:40](https://news.ycombinator.com/item?id=40750410) - [Change Healthcare confirms hackers stole medical records of Americans](https://techcrunch.com/2024/06/21/change-healthcare-confirms-ransomware-hackers-stole-medical-records-on-a-substantial-proportion-of-americans/)
 * [2024-06-21, 15:04:52](https://news.ycombinator.com/item?id=40750391) - [OpenAI Acquires Rockset](https://openai.com/index/openai-acquires-rockset/)
