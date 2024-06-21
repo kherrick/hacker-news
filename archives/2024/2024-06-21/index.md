@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-21](index.md)
 
+* [2024-06-21, 18:00:57](https://news.ycombinator.com/item?id=40752076) - [Huawei unveils its own programming language the \"Cangjie\"](https://gsmchina.com/huawei-unveils-its-own-programming-language-the-cangjie-8687/)
 * [2024-06-21, 17:39:54](https://news.ycombinator.com/item?id=40751885) - [Ollama Release v0.1.45. Support DeepSeek-Coder-V2](https://github.com/ollama/ollama/releases/tag/v0.1.45)
+* [2024-06-21, 17:33:28](https://news.ycombinator.com/item?id=40751813) - [A runaway plane took off by itself and spent 3 hours flying unpiloted in 1955](https://navyhistory.au/aster-shootdown-over-sydney-in-1955/)
 * [2024-06-21, 17:27:11](https://news.ycombinator.com/item?id=40751756) - [ChatGPT Fails to Understand Causation](https://twitter.com/yudapearl/status/1804147019608658175)
 * [2024-06-21, 17:21:52](https://news.ycombinator.com/item?id=40751690) - [Kraken Says Hackers Turned to 'Extortion' After Exploiting Bug for $3M](https://www.coindesk.com/business/2024/06/19/kraken-says-hackers-turned-to-extortion-after-exploiting-bug-for-3m/)
 * [2024-06-21, 17:17:11](https://news.ycombinator.com/item?id=40751645) - [Thai Cabinet Formally Approves Bid for BRICS Membership](https://thediplomat.com/2024/05/thai-cabinet-formally-approves-bid-for-brics-membership/)
