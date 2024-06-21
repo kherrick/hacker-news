@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-21](index.md)
 
+* [2024-06-21, 19:38:18](https://news.ycombinator.com/item?id=40752904) - [Ontario Science Centre to close immediately](https://www.cbc.ca/news/canada/toronto/ontario-science-centre-closing-roof-1.7242810)
+* [2024-06-21, 19:34:01](https://news.ycombinator.com/item?id=40752856) - [Climate Zones](https://pudding.cool/2024/06/climate-zones/)
 * [2024-06-21, 19:23:02](https://news.ycombinator.com/item?id=40752761) - [Barcelona will eliminate ALL tourist apartments in 2028 following local backlash](https://www.theolivepress.es/spain-news/2024/06/21/breaking-barcelona-will-remove-all-tourist-apartments-in-2028-in-huge-win-for-anti-tourism-activists/)
 * [2024-06-21, 19:17:41](https://news.ycombinator.com/item?id=40752721) - [TSMC experimenting with rectangular wafers vs. round for more chips per wafer](https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-explores-radical-new-chip-packaging-approach-to-feed-AI-boom)
 * [2024-06-21, 18:57:51](https://news.ycombinator.com/item?id=40752546) - [Migrating from Java 8 to Java 17: A Comprehensive Guide to New Features](https://igorstechnoclub.com/upgrading-to-java-17-a-comprehensive-guide-to-new-features/)
