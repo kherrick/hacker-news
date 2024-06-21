@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-06-21](index.md)
 
+* [2024-06-21, 10:30:28](https://news.ycombinator.com/item?id=40748070) - [Many election-watching scientists are under pressure](https://www.nature.com/articles/d41586-024-02026-z)
 * [2024-06-21, 09:45:08](https://news.ycombinator.com/item?id=40747869) - [Starlink Mini brings space internet to backpackers](https://www.theverge.com/2024/6/21/24182970/starlink-mini-usb-power-specs-price)
 * [2024-06-21, 08:59:21](https://news.ycombinator.com/item?id=40747588) - [EVs Are Selling Well for Everyone Except Tesla](https://jalopnik.com/evs-are-selling-well-for-everyone-except-tesla-1851550953)
 * [2024-06-21, 08:40:25](https://news.ycombinator.com/item?id=40747476) - [Show HN: A collection of front end Learning Resources](https://github.com/requestly/awesome-frontend-resources)
+* [2024-06-21, 08:07:30](https://news.ycombinator.com/item?id=40747266) - [The Pre-Scheme Restoration project is now underway](https://prescheme.org/posts/announcing-the-pre-scheme-restoration.html)
 * [2024-06-21, 07:44:47](https://news.ycombinator.com/item?id=40747135) - [Bessemer Venture Partners' Anti-Portfolio](https://www.bvp.com/anti-portfolio)
 * [2024-06-21, 07:04:42](https://news.ycombinator.com/item?id=40746947) - [Google Search is indexing has halted](https://twitter.com/rustybrick/status/1803925912720642536)
 * [2024-06-21, 06:55:10](https://news.ycombinator.com/item?id=40746898) - [Europe's solar power surge hits prices, exposing storage needs](https://www.euractiv.com/section/energy-environment/news/europes-solar-power-surge-hits-prices-exposing-storage-needs/)
