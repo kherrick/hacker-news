@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-06-21](index.md)
 
+* [2024-06-21, 15:06:40](https://news.ycombinator.com/item?id=40750410) - [Change Healthcare confirms hackers stole medical records of Americans](https://techcrunch.com/2024/06/21/change-healthcare-confirms-ransomware-hackers-stole-medical-records-on-a-substantial-proportion-of-americans/)
+* [2024-06-21, 14:50:12](https://news.ycombinator.com/item?id=40750230) - [How the Square Root of 2 Became a Number](https://www.quantamagazine.org/how-the-square-root-of-2-became-a-number-20240621/)
+* [2024-06-21, 14:45:59](https://news.ycombinator.com/item?id=40750182) - [Multiple AI companies bypassing web standard to scrape publisher sites](https://www.reuters.com/technology/artificial-intelligence/multiple-ai-companies-bypassing-web-standard-scrape-publisher-sites-licensing-2024-06-21/)
+* [2024-06-21, 14:44:59](https://news.ycombinator.com/item?id=40750171) - [Twitter and the Spread of Academic Knowledge](https://mattsclancy.substack.com/p/twitter-and-the-spread-of-academic)
 * [2024-06-21, 14:21:23](https://news.ycombinator.com/item?id=40749927) - [A study has been following 'gifted' kids for 45 years. Here's what we've learned](https://www.upworthy.com/a-study-has-been-following-gifted-kids-for-45-years-heres-what-weve-learned-rp5)
 * [2024-06-21, 14:05:12](https://news.ycombinator.com/item?id=40749775) - [Claudette, a new friend that makes Claude 3.5 Sonnet even nicer](https://www.answer.ai/posts/2024-06-21-claudette.html)
 * [2024-06-21, 14:03:14](https://news.ycombinator.com/item?id=40749754) - [Why Innovation Heroes Are a Sign of a Dysfunctional Organization](https://steveblank.substack.com/p/why-innovation-heroes-are-a-sign)
@@ -24,6 +28,7 @@
 * [2024-06-21, 11:00:26](https://news.ycombinator.com/item?id=40748225) - [AI is exhausting the power grid](https://www.washingtonpost.com/business/2024/06/21/artificial-intelligence-nuclear-fusion-climate/)
 * [2024-06-21, 10:30:28](https://news.ycombinator.com/item?id=40748070) - [Many election-watching scientists are under pressure](https://www.nature.com/articles/d41586-024-02026-z)
 * [2024-06-21, 09:45:08](https://news.ycombinator.com/item?id=40747869) - [Starlink Mini brings space internet to backpackers](https://www.theverge.com/2024/6/21/24182970/starlink-mini-usb-power-specs-price)
+* [2024-06-21, 09:40:40](https://news.ycombinator.com/item?id=40747845) - [Show HN: Lady Deirdre 2 – Rust Framework for Compilers and LSP Servers](https://github.com/Eliah-Lakhin/lady-deirdre)
 * [2024-06-21, 08:59:21](https://news.ycombinator.com/item?id=40747588) - [EVs Are Selling Well for Everyone Except Tesla](https://jalopnik.com/evs-are-selling-well-for-everyone-except-tesla-1851550953)
 * [2024-06-21, 08:40:25](https://news.ycombinator.com/item?id=40747476) - [Show HN: A collection of front end Learning Resources](https://github.com/requestly/awesome-frontend-resources)
 * [2024-06-21, 08:07:30](https://news.ycombinator.com/item?id=40747266) - [The Pre-Scheme Restoration project is now underway](https://prescheme.org/posts/announcing-the-pre-scheme-restoration.html)
