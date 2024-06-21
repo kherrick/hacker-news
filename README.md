@@ -2,6 +2,7 @@
 
 * [2024-06-21, 06:39:33](https://news.ycombinator.com/item?id=40746826) - [Is Kotlin Multiplatform Replacing Flutter?](https://news.ycombinator.com/item?id=40746826)
 * [2024-06-21, 06:35:37](https://news.ycombinator.com/item?id=40746804) - [Ladybird browser spreads its wings](https://lwn.net/Articles/976822/)
+* [2024-06-21, 05:56:45](https://news.ycombinator.com/item?id=40746617) - [The exponential growth of solar power will change the world](https://www.economist.com/leaders/2024/06/20/the-exponential-growth-of-solar-power-will-change-the-world)
 * [2024-06-21, 05:42:26](https://news.ycombinator.com/item?id=40746524) - [US Bans Kaspersky Software](https://www.wired.com/story/us-bans-kaspersky-software/)
 * [2024-06-21, 05:02:25](https://news.ycombinator.com/item?id=40746310) - [MeshAnything – converts 3D representations into efficient 3D meshes](https://buaacyw.github.io/mesh-anything/)
 * [2024-06-21, 03:25:26](https://news.ycombinator.com/item?id=40745830) - [Bomb Jack display hardware](https://github.com/martinpiper/BombJack/blob/master/README.md)
@@ -26,7 +27,6 @@
 * [2024-06-19, 07:53:34](https://news.ycombinator.com/item?id=40725924) - [NASA releases Hubble image taken in new pointing mode](https://science.nasa.gov/missions/hubble/nasa-releases-hubble-image-taken-in-new-pointing-mode/)
 * [2024-06-19, 06:54:29](https://news.ycombinator.com/item?id=40725568) - [Chasing a Bug in a SAT Solver](https://ochagavia.nl/blog/chasing-a-bug-in-a-sat-solver/)
 * [2024-06-18, 23:05:54](https://news.ycombinator.com/item?id=40723024) - [The shape of information](https://kucharski.substack.com/p/the-shape-of-information)
-* [2024-06-18, 12:18:35](https://news.ycombinator.com/item?id=40716917) - [The Vulture and the Little Girl](https://en.wikipedia.org/wiki/The_Vulture_and_the_Little_Girl)
 * [2024-06-18, 12:11:43](https://news.ycombinator.com/item?id=40716856) - [Stellarium Web Online Star Map](https://stellarium-web.org/)
 * [2024-06-18, 10:45:55](https://news.ycombinator.com/item?id=40716154) - [ControlNet Game of Life](https://www.jerpint.io/blog/diffusion-gol/)
 * [2024-06-17, 17:11:53](https://news.ycombinator.com/item?id=40708125) - [How to live with dying (2020)](https://theamericanscholar.org/how-to-live-with-dying/)
