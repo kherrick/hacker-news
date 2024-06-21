@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-21, 02:02:32](https://news.ycombinator.com/item?id=40745466) - [Comparing the Framework Laptop with the MacBook Air M2: A Detailed Review](https://quail.ink/lyric_na/p/comparing-the-framework-laptop-with-the-macbook-air-m2-a-detailed-review)
+* [2024-06-21, 03:25:26](https://news.ycombinator.com/item?id=40745830) - [Homebrew board adds 8 layers, 16-bit color, sprite scaling and rotation to C64](https://github.com/martinpiper/BombJack/blob/master/README.md)
 * [2024-06-20, 23:59:35](https://news.ycombinator.com/item?id=40744812) - [How we made the Deno language server faster](https://deno.com/blog/optimizing-our-lsp)
 * [2024-06-20, 23:19:40](https://news.ycombinator.com/item?id=40744558) - [How babies and young children learn to understand language](https://lithub.com/how-babies-and-young-children-learn-to-understand-language/)
 * [2024-06-20, 22:57:49](https://news.ycombinator.com/item?id=40744379) - [How to Fix “AI’s Original Sin”](https://www.oreilly.com/radar/how-to-fix-ais-original-sin/)
