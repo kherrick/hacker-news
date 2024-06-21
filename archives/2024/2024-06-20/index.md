@@ -10,6 +10,7 @@
 * [2024-06-20, 22:48:40](https://news.ycombinator.com/item?id=40744293) - [Show HN: Local Voice Assistant Using Ollama, Transformers and Coqui TTS Toolkit](https://github.com/mezbaul-h/june)
 * [2024-06-20, 22:42:03](https://news.ycombinator.com/item?id=40744235) - [There are no particles, there are only fields (2012)](https://arxiv.org/abs/1204.4616)
 * [2024-06-20, 22:32:20](https://news.ycombinator.com/item?id=40744162) - [Show HN: Text Status Hosting and Dashboard](https://github.com/madprops/curls)
+* [2024-06-20, 22:30:08](https://news.ycombinator.com/item?id=40744146) - [Show HN: Directory of resources for learning German](https://infinitedeutsch.com)
 * [2024-06-20, 22:23:12](https://news.ycombinator.com/item?id=40744098) - [Generating Audio for Video](https://deepmind.google/discover/blog/generating-audio-for-video/)
 * [2024-06-20, 22:10:17](https://news.ycombinator.com/item?id=40743975) - [Docker Is Having an Outage](https://downdetector.com/status/docker/)
 * [2024-06-20, 21:21:07](https://news.ycombinator.com/item?id=40743531) - [New York Establishes Stringent Protections to Safeguard Kids on Social Media](https://www.governor.ny.gov/news/governor-hochul-joins-attorney-general-james-and-bill-sponsors-sign-nation-leading-legislation)
