@@ -3,7 +3,6 @@
 * [2024-06-21, 04:31:38](https://news.ycombinator.com/item?id=40746173) - [A Rant about Front-end Development](https://blog.frankmtaylor.com/2024/06/20/a-rant-about-front-end-development/)
 * [2024-06-21, 03:25:26](https://news.ycombinator.com/item?id=40745830) - [Bomb Jack display hardware](https://github.com/martinpiper/BombJack/blob/master/README.md)
 * [2024-06-21, 01:12:53](https://news.ycombinator.com/item?id=40745200) - [Thoughts on Desktop Operating Systems in 2024](https://tbolt.space/2024/6/20/desktop-operating-systems-2024)
-* [2024-06-21, 00:33:41](https://news.ycombinator.com/item?id=40744983) - [Walking to combat back pain: study shows dramatic improvement](https://lighthouse.mq.edu.au/article/june-2024/walking-away-from-pain-world-first-study-shows-dramatic-improvement-in-lower-back-trouble)
 * [2024-06-20, 23:19:40](https://news.ycombinator.com/item?id=40744558) - [How babies and young children learn to understand language](https://lithub.com/how-babies-and-young-children-learn-to-understand-language/)
 * [2024-06-20, 22:57:49](https://news.ycombinator.com/item?id=40744379) - [How to fix “AI’s original sin”](https://www.oreilly.com/radar/how-to-fix-ais-original-sin/)
 * [2024-06-20, 22:48:40](https://news.ycombinator.com/item?id=40744293) - [Show HN: Local voice assistant using Ollama, transformers and Coqui TTS toolkit](https://github.com/mezbaul-h/june)
@@ -28,6 +27,7 @@
 * [2024-06-19, 08:02:13](https://news.ycombinator.com/item?id=40725970) - [Two ways to use an LED as a light sensor with Arduino](https://blog.jgc.org/2024/06/two-ways-to-use-led-as-light-sensor.html)
 * [2024-06-19, 07:53:34](https://news.ycombinator.com/item?id=40725924) - [NASA Releases Hubble Image Taken in New Pointing Mode Using Only Single Gyro](https://science.nasa.gov/missions/hubble/nasa-releases-hubble-image-taken-in-new-pointing-mode/)
 * [2024-06-18, 23:05:54](https://news.ycombinator.com/item?id=40723024) - [The Shape of Information](https://kucharski.substack.com/p/the-shape-of-information)
+* [2024-06-18, 12:18:35](https://news.ycombinator.com/item?id=40716917) - [The Vulture and the Little Girl](https://en.wikipedia.org/wiki/The_Vulture_and_the_Little_Girl)
 * [2024-06-18, 12:11:43](https://news.ycombinator.com/item?id=40716856) - [Stellarium Web Online Star Map](https://stellarium-web.org/)
 * [2024-06-18, 10:45:55](https://news.ycombinator.com/item?id=40716154) - [ControlNet Game of Life](https://www.jerpint.io/blog/diffusion-gol/)
 
