@@ -62,6 +62,7 @@
 * [2024-06-18, 16:45:45](https://news.ycombinator.com/item?id=40719782) - [Show HN: Billard – Generate music from ball collisions in 2D space](https://billard.medusis.com/)
 * [2024-06-18, 16:17:45](https://news.ycombinator.com/item?id=40719514) - [Waymo Driver 3.5x better at avoiding injuries over 14.8M miles in SF and Phoenix](https://twitter.com/Waymo/status/1803095329304088922)
 * [2024-06-18, 15:54:16](https://news.ycombinator.com/item?id=40719279) - [The Farmer Was Replaced (A Python-esque automated farming game)](https://store.steampowered.com/app/2060160/The_Farmer_Was_Replaced/)
+* [2024-06-18, 15:54:14](https://news.ycombinator.com/item?id=40719278) - [An ingestible device to record gastric electrophysiological activity](https://medicalxpress.com/news/2024-06-ingestible-device-gastric-electrophysiological.html)
 * [2024-06-18, 15:52:11](https://news.ycombinator.com/item?id=40719253) - [Ask HN: What are some iconic comments on HN?](https://news.ycombinator.com/item?id=40719253)
 * [2024-06-18, 15:33:34](https://news.ycombinator.com/item?id=40719018) - [Solid-state battery with 100x energy density could be used in Apple devices](https://9to5mac.com/2024/06/18/solid-state-battery-tdk/)
 * [2024-06-18, 15:26:38](https://news.ycombinator.com/item?id=40718908) - [When are SSDs slow?](https://cedardb.com/blog/ssd_latency/)

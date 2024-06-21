@@ -8,7 +8,6 @@
 * [2024-06-21, 20:42:03](https://news.ycombinator.com/item?id=40753581) - [SVG: The Good, the Bad, and the Ugly (2021)](https://www.eisfunke.com/posts/2021/svg-the-good-the-bad-and-the-ugly.html)
 * [2024-06-21, 20:29:42](https://news.ycombinator.com/item?id=40753476) - [The Vienna Secession: A History](https://www.theviennasecession.com/vienna-secession/)
 * [2024-06-21, 20:23:14](https://news.ycombinator.com/item?id=40753417) - [NTS (TeX reimplementation in Java from 2001) still compiles under Java 16](https://github.com/jamespfennell/new-typesetting-system)
-* [2024-06-21, 19:34:01](https://news.ycombinator.com/item?id=40752856) - [Climate Zones](https://pudding.cool/2024/06/climate-zones/)
 * [2024-06-21, 17:33:28](https://news.ycombinator.com/item?id=40751813) - [Aster shootdown over Sydney in 1955](https://navyhistory.au/aster-shootdown-over-sydney-in-1955/)
 * [2024-06-21, 16:59:52](https://news.ycombinator.com/item?id=40751468) - [CRIU, a project to implement checkpoint/restore functionality for Linux](https://criu.org/Main_Page)
 * [2024-06-21, 16:30:17](https://news.ycombinator.com/item?id=40751178) - [Show HN: High-frequency trading and market-making backtesting tool with examples](https://github.com/nkaz001/hftbacktest/tree/master/rust)
@@ -28,6 +27,7 @@
 * [2024-06-19, 14:36:30](https://news.ycombinator.com/item?id=40728714) - [Software design gets worse before it gets better](https://tidyfirst.substack.com/p/the-trough-of-despair)
 * [2024-06-19, 09:32:22](https://news.ycombinator.com/item?id=40726529) - [Algorithmic fitting of Japanese candy](https://www.candyjapan.com/behind-the-scenes/algorithmic-fitting-of-japanese-candy)
 * [2024-06-18, 18:12:15](https://news.ycombinator.com/item?id=40720548) - [The Eggcorn Database](https://eggcorns.lascribe.net)
+* [2024-06-18, 15:54:14](https://news.ycombinator.com/item?id=40719278) - [An ingestible device to record gastric electrophysiological activity](https://medicalxpress.com/news/2024-06-ingestible-device-gastric-electrophysiological.html)
 * [2024-06-18, 13:47:18](https://news.ycombinator.com/item?id=40717823) - [The short, happy reign of CD-ROM](https://www.fastcompany.com/91128052/history-of-cd-roms-encarta-myst)
 * [2024-06-18, 12:06:26](https://news.ycombinator.com/item?id=40716801) - [Code Models](https://openjdk.org/projects/babylon/articles/code-models)
 
