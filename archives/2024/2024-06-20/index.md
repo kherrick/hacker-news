@@ -21,6 +21,7 @@
 * [2024-06-20, 20:06:40](https://news.ycombinator.com/item?id=40742764) - [SUSE upgrades its distros with 19 years of support – no other Linux comes close](https://www.zdnet.com/article/suse-upgrades-its-distros-with-19-years-of-support-no-other-linux-comes-close/)
 * [2024-06-20, 20:02:04](https://news.ycombinator.com/item?id=40742719) - [Why is Android Development so difficult/complex? (compared to Web and Desktop)](https://news.ycombinator.com/item?id=40742719)
 * [2024-06-20, 20:01:52](https://news.ycombinator.com/item?id=40742714) - [S. D. Butler – War is a Racket [pdf]](https://kether.com/words/butler-smedley--war-is-a-racket-1.pdf)
+* [2024-06-20, 19:55:17](https://news.ycombinator.com/item?id=40742628) - [I kind of like rebasing](https://rednafi.com/misc/on_rebasing/)
 * [2024-06-20, 19:54:44](https://news.ycombinator.com/item?id=40742621) - [New York bans 'addictive feeds' for teens](https://www.theverge.com/2024/6/20/24182396/new-york-governor-social-media-law-parental-consent-algorithms)
 * [2024-06-20, 19:25:38](https://news.ycombinator.com/item?id=40742301) - [Inventions you didn't know came from Waterloo](https://uwaterloo.ca/news/10-inventions-you-didnt-know-came-waterloo)
 * [2024-06-20, 19:12:00](https://news.ycombinator.com/item?id=40742163) - [Gilead Shot Prevents All HIV Cases in Trial of African Women](https://www.bloomberg.com/news/articles/2024-06-20/gilead-shot-prevents-100-of-hiv-cases-in-trial-of-african-women)
