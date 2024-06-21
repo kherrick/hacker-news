@@ -74,6 +74,7 @@
 * [2024-06-20, 11:18:53](https://news.ycombinator.com/item?id=40737349) - [Curl is inside 22,734 Steam games](https://daniel.haxx.se/blog/2024/06/20/inside-22734-steam-games/)
 * [2024-06-20, 11:12:36](https://news.ycombinator.com/item?id=40737308) - [The Delusion of Advanced Plastic Recycling](https://www.propublica.org/article/delusion-advanced-chemical-plastic-recycling-pyrolysis)
 * [2024-06-20, 11:11:16](https://news.ycombinator.com/item?id=40737294) - [Tetris as Font](https://erikdemaine.org/fonts/tetris/)
+* [2024-06-20, 11:08:15](https://news.ycombinator.com/item?id=40737271) - [The Skyline Problem in Racket](https://jeapostrophe.github.io/2013-07-01-skyline-post.html)
 * [2024-06-20, 11:04:07](https://news.ycombinator.com/item?id=40737249) - [Rotation curves: still flat after a million light-years](https://tritonstation.com/2024/06/18/rotation-curves-still-flat-after-a-million-light-years/)
 * [2024-06-20, 10:56:39](https://news.ycombinator.com/item?id=40737204) - [Drugmaker to testify on why weight-loss drugs cost 15x more in the US](https://arstechnica.com/science/2024/06/drugmaker-ceo-to-testify-on-outrageously-priced-weight-loss-drugs/)
 * [2024-06-20, 10:49:51](https://news.ycombinator.com/item?id=40737168) - [Effectiveness of an walking intervention for the prevention of low back pain](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)00755-4/fulltext)
