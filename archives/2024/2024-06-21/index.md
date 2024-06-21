@@ -8,6 +8,7 @@
 * [2024-06-21, 14:50:12](https://news.ycombinator.com/item?id=40750230) - [How the Square Root of 2 Became a Number](https://www.quantamagazine.org/how-the-square-root-of-2-became-a-number-20240621/)
 * [2024-06-21, 14:45:59](https://news.ycombinator.com/item?id=40750182) - [Multiple AI companies bypassing web standard to scrape publisher sites](https://www.reuters.com/technology/artificial-intelligence/multiple-ai-companies-bypassing-web-standard-scrape-publisher-sites-licensing-2024-06-21/)
 * [2024-06-21, 14:44:59](https://news.ycombinator.com/item?id=40750171) - [Twitter and the Spread of Academic Knowledge](https://mattsclancy.substack.com/p/twitter-and-the-spread-of-academic)
+* [2024-06-21, 14:40:47](https://news.ycombinator.com/item?id=40750130) - [Brain health is rooted in state of mind, finds study](https://medicalxpress.com/news/2024-06-brain-health-rooted-state-mind.html)
 * [2024-06-21, 14:21:23](https://news.ycombinator.com/item?id=40749927) - [A study has been following 'gifted' kids for 45 years. Here's what we've learned](https://www.upworthy.com/a-study-has-been-following-gifted-kids-for-45-years-heres-what-weve-learned-rp5)
 * [2024-06-21, 14:05:12](https://news.ycombinator.com/item?id=40749775) - [Claudette, a new friend that makes Claude 3.5 Sonnet even nicer](https://www.answer.ai/posts/2024-06-21-claudette.html)
 * [2024-06-21, 14:03:14](https://news.ycombinator.com/item?id=40749754) - [Why Innovation Heroes Are a Sign of a Dysfunctional Organization](https://steveblank.substack.com/p/why-innovation-heroes-are-a-sign)
