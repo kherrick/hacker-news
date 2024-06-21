@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-21](index.md)
 
+* [2024-06-21, 17:00:25](https://news.ycombinator.com/item?id=40751478) - [Patterns (YC S21) Is Hiring to Build Analytics Agents for Finance Teams](https://patterns.app/)
+* [2024-06-21, 16:46:50](https://news.ycombinator.com/item?id=40751339) - [Apple won't roll out AI tech in EU market over regulatory concerns](https://www.bloomberg.com/news/articles/2024-06-21/apple-won-t-roll-out-ai-tech-in-eu-market-over-regulatory-concerns)
 * [2024-06-21, 16:16:31](https://news.ycombinator.com/item?id=40751020) - [Testing Generative AI for Circuit Board Design](https://blog.jitx.com/jitx-corporate-blog/testing-generative-ai-for-circuit-board-design)
 * [2024-06-21, 15:59:57](https://news.ycombinator.com/item?id=40750888) - [McDonald's AI Drive-Thru debacle is a warning to us all](https://www.creativebloq.com/design/branding/mcdonalds-ai-drive-thru-debacle-is-a-warning-to-us-all)
 * [2024-06-21, 15:35:29](https://news.ycombinator.com/item?id=40750674) - [54 Humans in One 8-meter Gravitics Module](https://www.gravitics.com/news/54-humans-in-gravitics-modules)
