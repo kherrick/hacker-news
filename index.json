@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2024-06-20, 17:24:54",
-      "https://news.ycombinator.com/item?id=40741072"
-    ],
-    [
-      "A buffer overflow in the XNU kernel",
-      "https://jprx.io/cve-2024-27815/"
-    ]
-  ],
-  [
-    [
       "2024-06-20, 17:24:36",
       "https://news.ycombinator.com/item?id=40741068"
     ],
@@ -297,6 +287,16 @@
     [
       "ControlNet Game of Life",
       "https://www.jerpint.io/blog/diffusion-gol/"
+    ]
+  ],
+  [
+    [
+      "2024-06-17, 17:11:53",
+      "https://news.ycombinator.com/item?id=40708125"
+    ],
+    [
+      "How to Live with Dying (2020)",
+      "https://theamericanscholar.org/how-to-live-with-dying/"
     ]
   ]
 ]
