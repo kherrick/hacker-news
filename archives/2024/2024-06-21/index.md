@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-21](index.md)
 
+* [2024-06-21, 16:16:31](https://news.ycombinator.com/item?id=40751020) - [Testing Generative AI for Circuit Board Design](https://blog.jitx.com/jitx-corporate-blog/testing-generative-ai-for-circuit-board-design)
 * [2024-06-21, 15:59:57](https://news.ycombinator.com/item?id=40750888) - [McDonald's AI Drive-Thru debacle is a warning to us all](https://www.creativebloq.com/design/branding/mcdonalds-ai-drive-thru-debacle-is-a-warning-to-us-all)
 * [2024-06-21, 15:08:02](https://news.ycombinator.com/item?id=40750423) - [Ask HN: Midlife crisis, which direction to go with?](https://news.ycombinator.com/item?id=40750423)
 * [2024-06-21, 15:06:40](https://news.ycombinator.com/item?id=40750410) - [Change Healthcare confirms hackers stole medical records of Americans](https://techcrunch.com/2024/06/21/change-healthcare-confirms-ransomware-hackers-stole-medical-records-on-a-substantial-proportion-of-americans/)

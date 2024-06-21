@@ -49,6 +49,7 @@
 * [2024-06-19, 14:50:09](https://news.ycombinator.com/item?id=40728865) - [All the Data on Earth Can Fit in a Cup of DNA in MIT's Jurassic Park Project](https://www.xatakaon.com/research/all-the-data-on-earth-can-fit-in-a-cup-full-of-dna-this-is-mits-jurassic-park-inspired-project)
 * [2024-06-19, 14:44:50](https://news.ycombinator.com/item?id=40728814) - [Arvind, longtime MIT professor and prolific computer scientist, dies at 77](https://news.mit.edu/2024/computer-science-professor-arvind-dies-0618)
 * [2024-06-19, 14:37:54](https://news.ycombinator.com/item?id=40728732) - [Perplexity Is a Bullshit Machine](https://www.wired.com/story/perplexity-is-a-bullshit-machine/)
+* [2024-06-19, 14:36:30](https://news.ycombinator.com/item?id=40728714) - [Software designers pick the path, not just the destination](https://tidyfirst.substack.com/p/the-trough-of-despair)
 * [2024-06-19, 14:31:27](https://news.ycombinator.com/item?id=40728671) - [Mrs Perkins's Quilt (2017)](http://www.squaring.net/quilts/mrs-perkins-quilts.html)
 * [2024-06-19, 14:25:06](https://news.ycombinator.com/item?id=40728625) - [9p filesystem has been added to FreeBSD](https://cgit.freebsd.org/src/commit/?id=e97ad33a89a78f55280b0485b3249ee9b907a718)
 * [2024-06-19, 13:54:50](https://news.ycombinator.com/item?id=40728331) - [Can holographic optical storage displace Hard Disk Drives?](https://www.nature.com/articles/s44172-024-00225-0)
