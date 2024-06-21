@@ -6,6 +6,7 @@
 
 * [2024-06-21, 07:44:47](https://news.ycombinator.com/item?id=40747135) - [Bessemer Venture Partners' Anti-Portfolio](https://www.bvp.com/anti-portfolio)
 * [2024-06-21, 07:04:42](https://news.ycombinator.com/item?id=40746947) - [Google Search is indexing has halted](https://twitter.com/rustybrick/status/1803925912720642536)
+* [2024-06-21, 06:55:10](https://news.ycombinator.com/item?id=40746898) - [Europe's solar power surge hits prices, exposing storage needs](https://www.euractiv.com/section/energy-environment/news/europes-solar-power-surge-hits-prices-exposing-storage-needs/)
 * [2024-06-21, 06:39:33](https://news.ycombinator.com/item?id=40746826) - [Is Kotlin Multiplatform Replacing Flutter?](https://news.ycombinator.com/item?id=40746826)
 * [2024-06-21, 06:35:37](https://news.ycombinator.com/item?id=40746804) - [Ladybird browser spreads its wings](https://lwn.net/Articles/976822/)
 * [2024-06-21, 06:20:25](https://news.ycombinator.com/item?id=40746721) - [SpaceX unveils backpack-sized 'Starlink Mini' internet antenna for $599](https://www.cnbc.com/2024/06/20/spacex-unveils-starlink-mini-satellite-internet-antenna-for-599.html)
