@@ -1,22 +1,62 @@
 [
   [
     [
-      "2024-06-20, 22:32:20",
-      "https://news.ycombinator.com/item?id=40744162"
+      "2024-06-21, 00:07:02",
+      "https://news.ycombinator.com/item?id=40744851"
     ],
     [
-      "Show HN: Text Status Hosting and Dashboard",
-      "https://github.com/madprops/curls"
+      "Ask HN: Has anyone else found it harder to review code recently?",
+      "https://news.ycombinator.com/item?id=40744851"
     ]
   ],
   [
     [
-      "2024-06-20, 22:10:17",
-      "https://news.ycombinator.com/item?id=40743975"
+      "2024-06-21, 00:06:21",
+      "https://news.ycombinator.com/item?id=40744847"
     ],
     [
-      "Docker Is Having an Outage",
-      "https://downdetector.com/status/docker/"
+      "Tesla owners file class-action alleging repair, parts monopoly",
+      "https://driving.ca/auto-news/industry/tesla-class-action-lawsuite-parts-repairs-monopoly"
+    ]
+  ],
+  [
+    [
+      "2024-06-20, 23:19:40",
+      "https://news.ycombinator.com/item?id=40744558"
+    ],
+    [
+      "How babies and young children learn to understand language",
+      "https://lithub.com/how-babies-and-young-children-learn-to-understand-language/"
+    ]
+  ],
+  [
+    [
+      "2024-06-20, 22:57:49",
+      "https://news.ycombinator.com/item?id=40744379"
+    ],
+    [
+      "Tim O’Reilly: How to Fix \"AI's Original Sin\"",
+      "https://www.oreilly.com/radar/how-to-fix-ais-original-sin/"
+    ]
+  ],
+  [
+    [
+      "2024-06-20, 22:42:03",
+      "https://news.ycombinator.com/item?id=40744235"
+    ],
+    [
+      "There are no particles, there are only fields (2012)",
+      "https://arxiv.org/abs/1204.4616"
+    ]
+  ],
+  [
+    [
+      "2024-06-20, 22:23:12",
+      "https://news.ycombinator.com/item?id=40744098"
+    ],
+    [
+      "Generating Audio for Video",
+      "https://deepmind.google/discover/blog/generating-audio-for-video/"
     ]
   ],
   [
@@ -47,16 +87,6 @@
     [
       "What is ZIRP, and how did it impact the startup world?",
       "https://www.ycombinator.com/blog/what-is-zirp-and-how-did-it-impact-the-startup-world/"
-    ]
-  ],
-  [
-    [
-      "2024-06-20, 20:06:40",
-      "https://news.ycombinator.com/item?id=40742764"
-    ],
-    [
-      "SUSE upgrades its distros with 19 years of support – no other Linux comes close",
-      "https://www.zdnet.com/article/suse-upgrades-its-distros-with-19-years-of-support-no-other-linux-comes-close/"
     ]
   ],
   [
@@ -117,16 +147,6 @@
     [
       "A buffer overflow in the XNU kernel",
       "https://jprx.io/cve-2024-27815/"
-    ]
-  ],
-  [
-    [
-      "2024-06-20, 16:35:46",
-      "https://news.ycombinator.com/item?id=40740581"
-    ],
-    [
-      "Using DuckDB as a Unix Tool",
-      "https://duckdb.org/2024/06/20/cli-data-processing-using-duckdb-as-a-unix-tool.html"
     ]
   ],
   [
@@ -231,32 +251,12 @@
   ],
   [
     [
-      "2024-06-19, 11:34:07",
-      "https://news.ycombinator.com/item?id=40727252"
-    ],
-    [
-      "A Book on Linux",
-      "https://news.ycombinator.com/item?id=40727252"
-    ]
-  ],
-  [
-    [
       "2024-06-19, 09:28:10",
       "https://news.ycombinator.com/item?id=40726497"
     ],
     [
       "The Prototype's Language",
       "https://news.alvaroduran.com/p/the-prototypes-language"
-    ]
-  ],
-  [
-    [
-      "2024-06-19, 08:40:38",
-      "https://news.ycombinator.com/item?id=40726179"
-    ],
-    [
-      "Tiny Teensy Executables",
-      "https://www.muppetlabs.com/~breadbox/software/tiny/teensy.html"
     ]
   ],
   [
