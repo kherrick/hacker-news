@@ -72,6 +72,7 @@
 * [2024-06-19, 09:40:40](https://news.ycombinator.com/item?id=40726585) - [Comma Gets a Cure (2000)](https://www.dialectsarchive.com/comma-gets-a-cure)
 * [2024-06-19, 09:36:24](https://news.ycombinator.com/item?id=40726555) - [Ask HN: What does RISC-V custom chips for under $100K mean?](https://news.ycombinator.com/item?id=40726555)
 * [2024-06-19, 09:28:10](https://news.ycombinator.com/item?id=40726497) - [The Prototype's Language](https://news.alvaroduran.com/p/the-prototypes-language)
+* [2024-06-19, 09:19:41](https://news.ycombinator.com/item?id=40726445) - [The first attempt to replace SORBS didn't take long](https://www.theregister.com/2024/06/17/infosec_news_in_brief/)
 * [2024-06-19, 09:15:34](https://news.ycombinator.com/item?id=40726426) - [Monitoring marine litter from space is now a reality](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Monitoring_marine_litter_from_space_is_now_a_reality)
 * [2024-06-19, 09:15:12](https://news.ycombinator.com/item?id=40726422) - [Why Dolphin Isn't Coming to the App Store (Spoiler: It Needs a JIT)](https://daringfireball.net/linked/2024/06/18/dolphin-jit-apple)
 * [2024-06-19, 09:12:01](https://news.ycombinator.com/item?id=40726397) - [Linux China, which supported the Chinese open source community, has ended](https://linux.cn/article-16602-1.html)

@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-06-20](index.md)
 
+* [2024-06-20, 23:59:35](https://news.ycombinator.com/item?id=40744812) - [How We Made the Deno Language Server Ten Times Faster](https://deno.com/blog/optimizing-our-lsp)
 * [2024-06-20, 23:19:40](https://news.ycombinator.com/item?id=40744558) - [How babies and young children learn to understand language](https://lithub.com/how-babies-and-young-children-learn-to-understand-language/)
 * [2024-06-20, 22:57:49](https://news.ycombinator.com/item?id=40744379) - [Tim O’Reilly: How to Fix \"AI's Original Sin\"](https://www.oreilly.com/radar/how-to-fix-ais-original-sin/)
+* [2024-06-20, 22:48:40](https://news.ycombinator.com/item?id=40744293) - [Show HN: Local Voice Assistant Using Ollama, Transformers and Coqui TTS Toolkit](https://github.com/mezbaul-h/june)
 * [2024-06-20, 22:42:03](https://news.ycombinator.com/item?id=40744235) - [There are no particles, there are only fields (2012)](https://arxiv.org/abs/1204.4616)
 * [2024-06-20, 22:32:20](https://news.ycombinator.com/item?id=40744162) - [Show HN: Text Status Hosting and Dashboard](https://github.com/madprops/curls)
 * [2024-06-20, 22:23:12](https://news.ycombinator.com/item?id=40744098) - [Generating Audio for Video](https://deepmind.google/discover/blog/generating-audio-for-video/)
@@ -90,6 +92,7 @@
 * [2024-06-20, 06:20:32](https://news.ycombinator.com/item?id=40735531) - [What Is a Personal User Manual?](https://futureforum.com/2022/07/15/personal-user-manual/)
 * [2024-06-20, 05:27:32](https://news.ycombinator.com/item?id=40735214) - [U.S. home prices have far outpaced paychecks. See what it looks like](https://www.npr.org/2024/06/20/nx-s1-5005972/home-prices-wages-paychecks-rent-housing-harvard-report)
 * [2024-06-20, 04:17:08](https://news.ycombinator.com/item?id=40734846) - [Now is a good time to start a service business](https://www.zachocean.com/posts/service-business/)
+* [2024-06-20, 03:25:09](https://news.ycombinator.com/item?id=40734564) - [Bog Gravel Filtration: Water Cleaned by Mother Nature (2015)](https://www.pondtrademag.com/bog-gravel-filtration-water-cleaned-by-mother-nature/)
 * [2024-06-20, 03:24:41](https://news.ycombinator.com/item?id=40734560) - [Rosser's Theorem via Turing Machines (2011)](https://scottaaronson.blog/?p=710)
 * [2024-06-20, 03:22:46](https://news.ycombinator.com/item?id=40734553) - [A 30-meter pass in the Pyrenees through which insects migrate](https://english.elpais.com/climate/2024-06-13/the-30-meter-pass-in-the-pyrenees-through-which-millions-of-insects-migrate.html)
 * [2024-06-20, 02:20:47](https://news.ycombinator.com/item?id=40734285) - [Swapping GNU coreutils for uutils coreutils on Gentoo Linux](https://www.joshmcguigan.com/blog/gentoo-uutils-coreutils/)
