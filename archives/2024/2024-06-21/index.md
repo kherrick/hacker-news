@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-21](index.md)
 
+* [2024-06-21, 06:35:37](https://news.ycombinator.com/item?id=40746804) - [Ladybird browser spreads its wings](https://lwn.net/Articles/976822/)
 * [2024-06-21, 06:20:25](https://news.ycombinator.com/item?id=40746721) - [SpaceX unveils backpack-sized 'Starlink Mini' internet antenna for $599](https://www.cnbc.com/2024/06/20/spacex-unveils-starlink-mini-satellite-internet-antenna-for-599.html)
 * [2024-06-21, 05:02:25](https://news.ycombinator.com/item?id=40746310) - [MeshAnything – converts 3D representations into efficient 3D meshes](https://buaacyw.github.io/mesh-anything/)
 * [2024-06-21, 04:31:38](https://news.ycombinator.com/item?id=40746173) - [A Rant about Front-end Development](https://blog.frankmtaylor.com/2024/06/20/a-rant-about-front-end-development/)

@@ -84,6 +84,7 @@
 * [2024-06-19, 07:53:34](https://news.ycombinator.com/item?id=40725924) - [NASA Releases Hubble Image Taken in New Pointing Mode Using Only Single Gyro](https://science.nasa.gov/missions/hubble/nasa-releases-hubble-image-taken-in-new-pointing-mode/)
 * [2024-06-19, 07:46:07](https://news.ycombinator.com/item?id=40725879) - [The Power Behind Apple's M4 SoC](https://www.techinsights.com/blog/introducing-tsmc-n3e-power-behind-apples-m4-soc)
 * [2024-06-19, 07:36:25](https://news.ycombinator.com/item?id=40725826) - [New UNESCO report warns that Generative AI threatens Holocaust memory](https://www.unesco.org/en/articles/new-unesco-report-warns-generative-ai-threatens-holocaust-memory)
+* [2024-06-19, 06:54:29](https://news.ycombinator.com/item?id=40725568) - [Chasing a Bug in a SAT Solver](https://ochagavia.nl/blog/chasing-a-bug-in-a-sat-solver/)
 * [2024-06-19, 06:43:43](https://news.ycombinator.com/item?id=40725517) - [Show HN: Pomoglorbo, a TUI Pomodoro timer for your terminal](https://codeberg.org/justusw/Pomoglorbo)
 * [2024-06-19, 06:32:01](https://news.ycombinator.com/item?id=40725451) - [ExectOS – brand new operating system which derives from NT architecture](https://exectos.eu.org/)
 * [2024-06-19, 06:08:10](https://news.ycombinator.com/item?id=40725329) - [Please don't mention AI again](https://ludic.mataroa.blog/blog/i-will-fucking-piledrive-you-if-you-mention-ai-again/)
