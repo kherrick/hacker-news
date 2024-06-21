@@ -1,12 +1,32 @@
 [
   [
     [
-      "2024-06-21, 00:07:02",
-      "https://news.ycombinator.com/item?id=40744851"
+      "2024-06-21, 01:02:02",
+      "https://news.ycombinator.com/item?id=40745151"
     ],
     [
-      "Ask HN: Has anyone else found it harder to review code recently?",
-      "https://news.ycombinator.com/item?id=40744851"
+      "Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager",
+      "https://news.ycombinator.com/item?id=40745151"
+    ]
+  ],
+  [
+    [
+      "2024-06-21, 00:49:32",
+      "https://news.ycombinator.com/item?id=40745085"
+    ],
+    [
+      "Melamine sponges shed microplastics when scrubbed",
+      "https://pubs.acs.org/doi/10.1021/acs.est.4c00846"
+    ]
+  ],
+  [
+    [
+      "2024-06-21, 00:29:06",
+      "https://news.ycombinator.com/item?id=40744959"
+    ],
+    [
+      "US Bans Kaspersky Software",
+      "https://www.wired.com/story/us-bans-kaspersky-software/"
     ]
   ],
   [
@@ -17,6 +37,16 @@
     [
       "Tesla owners file class-action alleging repair, parts monopoly",
       "https://driving.ca/auto-news/industry/tesla-class-action-lawsuite-parts-repairs-monopoly"
+    ]
+  ],
+  [
+    [
+      "2024-06-20, 23:59:35",
+      "https://news.ycombinator.com/item?id=40744812"
+    ],
+    [
+      "How We Made the Deno Language Server Ten Times Faster",
+      "https://deno.com/blog/optimizing-our-lsp"
     ]
   ],
   [
@@ -41,6 +71,16 @@
   ],
   [
     [
+      "2024-06-20, 22:48:40",
+      "https://news.ycombinator.com/item?id=40744293"
+    ],
+    [
+      "Show HN: Local Voice Assistant Using Ollama, Transformers and Coqui TTS Toolkit",
+      "https://github.com/mezbaul-h/june"
+    ]
+  ],
+  [
+    [
       "2024-06-20, 22:42:03",
       "https://news.ycombinator.com/item?id=40744235"
     ],
@@ -57,26 +97,6 @@
     [
       "Generating Audio for Video",
       "https://deepmind.google/discover/blog/generating-audio-for-video/"
-    ]
-  ],
-  [
-    [
-      "2024-06-20, 21:21:07",
-      "https://news.ycombinator.com/item?id=40743531"
-    ],
-    [
-      "New York Establishes Stringent Protections to Safeguard Kids on Social Media",
-      "https://www.governor.ny.gov/news/governor-hochul-joins-attorney-general-james-and-bill-sponsors-sign-nation-leading-legislation"
-    ]
-  ],
-  [
-    [
-      "2024-06-20, 21:00:43",
-      "https://news.ycombinator.com/item?id=40743308"
-    ],
-    [
-      "Promoted.ai (YC W21) Is Hiring a Sales Engineer",
-      "https://www.ycombinator.com/companies/promoted/jobs/5moymju-sales-engineer-new-grad"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2024-06-20, 15:41:56",
-      "https://news.ycombinator.com/item?id=40739982"
-    ],
-    [
-      "We no longer use LangChain for building our AI agents",
-      "https://www.octomind.dev/blog/why-we-no-longer-use-langchain-for-building-our-ai-agents"
-    ]
-  ],
-  [
-    [
       "2024-06-20, 15:18:27",
       "https://news.ycombinator.com/item?id=40739710"
     ],
@@ -241,32 +251,22 @@
   ],
   [
     [
-      "2024-06-20, 06:58:01",
-      "https://news.ycombinator.com/item?id=40735743"
+      "2024-06-20, 03:25:09",
+      "https://news.ycombinator.com/item?id=40734564"
     ],
     [
-      "Oldest white wine in the world found in a first-century tomb in Spain",
-      "https://doi.org/10.1016/j.jasrep.2024.104636"
+      "Bog Gravel Filtration: Water Cleaned by Mother Nature (2015)",
+      "https://www.pondtrademag.com/bog-gravel-filtration-water-cleaned-by-mother-nature/"
     ]
   ],
   [
     [
-      "2024-06-19, 09:28:10",
-      "https://news.ycombinator.com/item?id=40726497"
+      "2024-06-19, 09:19:41",
+      "https://news.ycombinator.com/item?id=40726445"
     ],
     [
-      "The Prototype's Language",
-      "https://news.alvaroduran.com/p/the-prototypes-language"
-    ]
-  ],
-  [
-    [
-      "2024-06-19, 08:02:13",
-      "https://news.ycombinator.com/item?id=40725970"
-    ],
-    [
-      "Two ways to use an LED as a light sensor with Arduino",
-      "https://blog.jgc.org/2024/06/two-ways-to-use-led-as-light-sensor.html"
+      "The first attempt to replace SORBS didn't take long",
+      "https://www.theregister.com/2024/06/17/infosec_news_in_brief/"
     ]
   ],
   [
