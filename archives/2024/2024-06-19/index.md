@@ -72,6 +72,7 @@
 * [2024-06-19, 09:51:05](https://news.ycombinator.com/item?id=40726641) - [There's more to mathematics than rigour and proofs](https://terrytao.wordpress.com/career-advice/theres-more-to-mathematics-than-rigour-and-proofs/)
 * [2024-06-19, 09:40:40](https://news.ycombinator.com/item?id=40726585) - [Comma Gets a Cure (2000)](https://www.dialectsarchive.com/comma-gets-a-cure)
 * [2024-06-19, 09:36:24](https://news.ycombinator.com/item?id=40726555) - [Ask HN: What does RISC-V custom chips for under $100K mean?](https://news.ycombinator.com/item?id=40726555)
+* [2024-06-19, 09:32:22](https://news.ycombinator.com/item?id=40726529) - [Algorithmic Fitting of Japanese Candy](https://www.candyjapan.com/behind-the-scenes/algorithmic-fitting-of-japanese-candy)
 * [2024-06-19, 09:28:10](https://news.ycombinator.com/item?id=40726497) - [The Prototype's Language](https://news.alvaroduran.com/p/the-prototypes-language)
 * [2024-06-19, 09:19:41](https://news.ycombinator.com/item?id=40726445) - [The first attempt to replace SORBS didn't take long](https://www.theregister.com/2024/06/17/infosec_news_in_brief/)
 * [2024-06-19, 09:15:34](https://news.ycombinator.com/item?id=40726426) - [Monitoring marine litter from space is now a reality](https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Monitoring_marine_litter_from_space_is_now_a_reality)
