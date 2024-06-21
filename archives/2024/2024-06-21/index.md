@@ -26,6 +26,7 @@
 * [2024-06-21, 05:42:26](https://news.ycombinator.com/item?id=40746524) - [US Bans Kaspersky Software](https://www.wired.com/story/us-bans-kaspersky-software/)
 * [2024-06-21, 05:02:25](https://news.ycombinator.com/item?id=40746310) - [MeshAnything – converts 3D representations into efficient 3D meshes](https://buaacyw.github.io/mesh-anything/)
 * [2024-06-21, 04:31:38](https://news.ycombinator.com/item?id=40746173) - [A Rant about Front-end Development](https://blog.frankmtaylor.com/2024/06/20/a-rant-about-front-end-development/)
+* [2024-06-21, 04:24:54](https://news.ycombinator.com/item?id=40746137) - [Always Already Programming](https://gist.github.com/melaniehoff/95ca90df7ca47761dc3d3d58fead22d4)
 * [2024-06-21, 03:34:50](https://news.ycombinator.com/item?id=40745890) - [Birth rates halve in richer countries as costs weigh, OECD report says](https://www.reuters.com/world/birth-rates-halve-richer-countries-costs-weigh-oecd-report-says-2024-06-20/)
 * [2024-06-21, 03:25:26](https://news.ycombinator.com/item?id=40745830) - [Homebrew board adds 8 layers, 16-bit color, sprite scaling and rotation to C64](https://github.com/martinpiper/BombJack/blob/master/README.md)
 * [2024-06-21, 02:02:32](https://news.ycombinator.com/item?id=40745466) - [Comparing the Framework Laptop with the MacBook Air M2: A Detailed Review](https://quail.ink/lyric_na/p/comparing-the-framework-laptop-with-the-macbook-air-m2-a-detailed-review)
