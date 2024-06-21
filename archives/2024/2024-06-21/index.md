@@ -8,6 +8,7 @@
 * [2024-06-21, 17:27:11](https://news.ycombinator.com/item?id=40751756) - [ChatGPT Fails to Understand Causation](https://twitter.com/yudapearl/status/1804147019608658175)
 * [2024-06-21, 17:21:52](https://news.ycombinator.com/item?id=40751690) - [Kraken Says Hackers Turned to 'Extortion' After Exploiting Bug for $3M](https://www.coindesk.com/business/2024/06/19/kraken-says-hackers-turned-to-extortion-after-exploiting-bug-for-3m/)
 * [2024-06-21, 17:17:11](https://news.ycombinator.com/item?id=40751645) - [Thai Cabinet Formally Approves Bid for BRICS Membership](https://thediplomat.com/2024/05/thai-cabinet-formally-approves-bid-for-brics-membership/)
+* [2024-06-21, 17:02:11](https://news.ycombinator.com/item?id=40751499) - [Apple Intelligence Features Not Coming to Europe at Launch Due to DMA](https://www.macrumors.com/2024/06/21/apple-intelligence-europe-delay/)
 * [2024-06-21, 17:00:25](https://news.ycombinator.com/item?id=40751478) - [Patterns (YC S21) Is Hiring to Build Analytics Agents for Finance Teams](https://patterns.app/)
 * [2024-06-21, 16:59:52](https://news.ycombinator.com/item?id=40751468) - [CRIU, a project to implement checkpoint/restore functionality for Linux](https://criu.org/Main_Page)
 * [2024-06-21, 16:55:19](https://news.ycombinator.com/item?id=40751414) - [How to prolong lithium based batteries](https://batteryuniversity.com/article/bu-808-how-to-prolong-lithium-based-batteries)
