@@ -2,7 +2,6 @@
 
 * [2024-06-21, 11:00:26](https://news.ycombinator.com/item?id=40748225) - [AI is exhausting the power grid](https://www.washingtonpost.com/business/2024/06/21/artificial-intelligence-nuclear-fusion-climate/)
 * [2024-06-21, 09:45:08](https://news.ycombinator.com/item?id=40747869) - [Starlink Mini brings space internet to backpackers](https://www.theverge.com/2024/6/21/24182970/starlink-mini-usb-power-specs-price)
-* [2024-06-21, 08:59:21](https://news.ycombinator.com/item?id=40747588) - [EVs Are Selling Well for Everyone Except Tesla](https://jalopnik.com/evs-are-selling-well-for-everyone-except-tesla-1851550953)
 * [2024-06-21, 08:40:25](https://news.ycombinator.com/item?id=40747476) - [Show HN: A collection of front end Learning Resources](https://github.com/requestly/awesome-frontend-resources)
 * [2024-06-21, 08:07:30](https://news.ycombinator.com/item?id=40747266) - [The Pre-Scheme Restoration project is now underway](https://prescheme.org/posts/announcing-the-pre-scheme-restoration.html)
 * [2024-06-21, 07:44:47](https://news.ycombinator.com/item?id=40747135) - [Bessemer Venture Partners' Anti-Portfolio](https://www.bvp.com/anti-portfolio)
@@ -30,6 +29,7 @@
 * [2024-06-19, 06:54:29](https://news.ycombinator.com/item?id=40725568) - [Chasing a Bug in a SAT Solver](https://ochagavia.nl/blog/chasing-a-bug-in-a-sat-solver/)
 * [2024-06-18, 23:05:54](https://news.ycombinator.com/item?id=40723024) - [The shape of information](https://kucharski.substack.com/p/the-shape-of-information)
 * [2024-06-18, 12:11:43](https://news.ycombinator.com/item?id=40716856) - [Stellarium Web Online Star Map](https://stellarium-web.org/)
+* [2024-06-18, 12:06:26](https://news.ycombinator.com/item?id=40716801) - [Code Models](https://openjdk.org/projects/babylon/articles/code-models)
 
 ## [Archives](archives/index.md)
 
