@@ -21,7 +21,7 @@
 * [2024-06-20, 14:50:40](https://news.ycombinator.com/item?id=40739384) - [Calculating Empires: A Genealogy of Technology and Power Since 1500](https://calculatingempires.net/)
 * [2024-06-20, 13:54:51](https://news.ycombinator.com/item?id=40738833) - [Wc2: Investigates optimizing 'wc', the Unix word count program](https://github.com/robertdavidgraham/wc2)
 * [2024-06-20, 11:21:56](https://news.ycombinator.com/item?id=40737370) - [Let's write a video game from scratch like it's 1987](https://gaultier.github.io/blog/write_a_video_game_from_scratch_like_1987.html)
-* [2024-06-20, 11:11:16](https://news.ycombinator.com/item?id=40737294) - [Tetris Font](https://erikdemaine.org/fonts/tetris/)
+* [2024-06-20, 11:11:16](https://news.ycombinator.com/item?id=40737294) - [Tetris Font (2020)](https://erikdemaine.org/fonts/tetris/)
 * [2024-06-20, 09:45:41](https://news.ycombinator.com/item?id=40736771) - [EU Council has withdrawn the vote on Chat Control](https://stackdiary.com/eu-council-has-withdrawn-the-vote-on-chat-control/)
 * [2024-06-20, 03:25:09](https://news.ycombinator.com/item?id=40734564) - [Bog gravel filtration: Water cleaned by mother nature (2015)](https://www.pondtrademag.com/bog-gravel-filtration-water-cleaned-by-mother-nature/)
 * [2024-06-19, 17:08:17](https://news.ycombinator.com/item?id=40730178) - [The Back of the Envelope (1984) [pdf]](https://www.seltzer.com/margo/teaching/CS508.19/background/p180-bentley.pdf)
