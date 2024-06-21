@@ -49,6 +49,7 @@
 * [2024-06-20, 15:46:25](https://news.ycombinator.com/item?id=40740041) - [Roblox has ported the entire front end JavaScript stack to Lua](https://twitter.com/zack_overflow/status/1803612884196532432)
 * [2024-06-20, 15:45:19](https://news.ycombinator.com/item?id=40740021) - [Show HN: I made a puzzle game & it gently introduces my favorite math mysteries](https://www.rahulilango.com/coloring/)
 * [2024-06-20, 15:41:56](https://news.ycombinator.com/item?id=40739982) - [We no longer use LangChain for building our AI agents](https://www.octomind.dev/blog/why-we-no-longer-use-langchain-for-building-our-ai-agents)
+* [2024-06-20, 15:29:38](https://news.ycombinator.com/item?id=40739828) - [My experience crafting an interpreter with Rust](https://ceronman.com/2021/07/22/my-experience-crafting-an-interpreter-with-rust/)
 * [2024-06-20, 15:29:14](https://news.ycombinator.com/item?id=40739824) - [Author Finds Another's Name on an Elsevier Book Chapter She Wrote](https://retractionwatch.com/2024/06/20/exhausting-author-finds-anothers-name-on-an-elsevier-book-chapter-she-wrote/)
 * [2024-06-20, 15:24:02](https://news.ycombinator.com/item?id=40739778) - [RAR-B: Reasoning as Retrieval Benchmark](https://arxiv.org/abs/2404.06347)
 * [2024-06-20, 15:23:38](https://news.ycombinator.com/item?id=40739771) - [\"Search in Google\" always open Safari instead of default browser – Ask Different](https://apple.stackexchange.com/questions/10999/search-in-google-always-open-safari-instead-of-default-browser)
