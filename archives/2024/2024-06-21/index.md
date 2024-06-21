@@ -13,6 +13,7 @@
 * [2024-06-21, 20:38:18](https://news.ycombinator.com/item?id=40753553) - [Ask HN: Privacy Friendly Smart Phone?](https://news.ycombinator.com/item?id=40753553)
 * [2024-06-21, 20:30:27](https://news.ycombinator.com/item?id=40753485) - [Stanford student collects her Master's degree at the age of 105](https://ed.stanford.edu/news/lifelong-learning-stanford-gse-student-collects-her-master-s-degree-after-80-years-education)
 * [2024-06-21, 20:29:42](https://news.ycombinator.com/item?id=40753476) - [The Vienna Secession: A History](https://www.theviennasecession.com/vienna-secession/)
+* [2024-06-21, 20:23:14](https://news.ycombinator.com/item?id=40753417) - [NTS (TeX reimplementation in Java from 2001) still compiles under Java 16](https://github.com/jamespfennell/new-typesetting-system)
 * [2024-06-21, 19:38:18](https://news.ycombinator.com/item?id=40752904) - [Ontario Science Centre to close immediately](https://www.cbc.ca/news/canada/toronto/ontario-science-centre-closing-roof-1.7242810)
 * [2024-06-21, 19:34:01](https://news.ycombinator.com/item?id=40752856) - [Climate Zones](https://pudding.cool/2024/06/climate-zones/)
 * [2024-06-21, 19:29:13](https://news.ycombinator.com/item?id=40752811) - [GitHub – Karpathy/LLM101n: LLM101n: Let's Build a Storyteller](https://github.com/karpathy/LLM101n)
