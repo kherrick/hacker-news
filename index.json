@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-06-21, 04:31:38",
-      "https://news.ycombinator.com/item?id=40746173"
-    ],
-    [
-      "A Rant about Front-end Development",
-      "https://blog.frankmtaylor.com/2024/06/20/a-rant-about-front-end-development/"
-    ]
-  ],
-  [
-    [
       "2024-06-21, 03:25:26",
       "https://news.ycombinator.com/item?id=40745830"
     ],
@@ -35,7 +25,7 @@
       "https://news.ycombinator.com/item?id=40745200"
     ],
     [
-      "Thoughts on Desktop Operating Systems in 2024",
+      "Thoughts on desktop operating systems",
       "https://tbolt.space/2024/6/20/desktop-operating-systems-2024"
     ]
   ],
@@ -67,6 +57,16 @@
     [
       "Show HN: Local voice assistant using Ollama, transformers and Coqui TTS toolkit",
       "https://github.com/mezbaul-h/june"
+    ]
+  ],
+  [
+    [
+      "2024-06-20, 22:30:08",
+      "https://news.ycombinator.com/item?id=40744146"
+    ],
+    [
+      "Show HN: Directory of resources for learning German",
+      "https://infinitedeutsch.com"
     ]
   ],
   [
@@ -127,6 +127,16 @@
     [
       "Small claims court became Meta's customer service hotline",
       "https://www.engadget.com/how-small-claims-court-became-metas-customer-service-hotline-160224479.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-20, 17:24:54",
+      "https://news.ycombinator.com/item?id=40741072"
+    ],
+    [
+      "A buffer overflow in the XNU kernel",
+      "https://jprx.io/cve-2024-27815/"
     ]
   ],
   [
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2024-06-20, 09:14:25",
-      "https://news.ycombinator.com/item?id=40736577"
-    ],
-    [
-      "Free software hijacked Philip Hazel's life",
-      "https://lwn.net/SubscriberLink/978463/608c876c1153fd31/"
-    ]
-  ],
-  [
-    [
       "2024-06-20, 03:25:09",
       "https://news.ycombinator.com/item?id=40734564"
     ],
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=40725924"
     ],
     [
-      "NASA Releases Hubble Image Taken in New Pointing Mode Using Only Single Gyro",
+      "NASA releases Hubble image taken in new pointing mode",
       "https://science.nasa.gov/missions/hubble/nasa-releases-hubble-image-taken-in-new-pointing-mode/"
     ]
   ],
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=40723024"
     ],
     [
-      "The Shape of Information",
+      "The shape of information",
       "https://kucharski.substack.com/p/the-shape-of-information"
     ]
   ],
