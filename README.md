@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-21, 17:27:11](https://news.ycombinator.com/item?id=40751756) - [ChatGPT Fails to Understand Causation](https://twitter.com/yudapearl/status/1804147019608658175)
+* [2024-06-21, 17:39:54](https://news.ycombinator.com/item?id=40751885) - [Ollama Release v0.1.45. Support DeepSeek-Coder-V2](https://github.com/ollama/ollama/releases/tag/v0.1.45)
 * [2024-06-21, 17:21:52](https://news.ycombinator.com/item?id=40751690) - [Kraken Says Hackers Turned to 'Extortion' After Exploiting Bug for $3M](https://www.coindesk.com/business/2024/06/19/kraken-says-hackers-turned-to-extortion-after-exploiting-bug-for-3m/)
-* [2024-06-21, 17:17:11](https://news.ycombinator.com/item?id=40751645) - [Thai Cabinet Formally Approves Bid for BRICS Membership](https://thediplomat.com/2024/05/thai-cabinet-formally-approves-bid-for-brics-membership/)
 * [2024-06-21, 17:00:25](https://news.ycombinator.com/item?id=40751478) - [Patterns (YC S21) Is Hiring to Build Analytics Agents for Finance Teams](https://patterns.app/)
 * [2024-06-21, 16:59:52](https://news.ycombinator.com/item?id=40751468) - [CRIU, a project to implement checkpoint/restore functionality for Linux](https://criu.org/Main_Page)
 * [2024-06-21, 16:55:19](https://news.ycombinator.com/item?id=40751414) - [How to prolong lithium based batteries](https://batteryuniversity.com/article/bu-808-how-to-prolong-lithium-based-batteries)
@@ -21,6 +20,7 @@
 * [2024-06-21, 09:40:40](https://news.ycombinator.com/item?id=40747845) - [Show HN: Lady Deirdre 2 – Rust Framework for Compilers and LSP Servers](https://github.com/Eliah-Lakhin/lady-deirdre)
 * [2024-06-21, 05:02:25](https://news.ycombinator.com/item?id=40746310) - [MeshAnything – Converts 3D representations into efficient 3D meshes](https://buaacyw.github.io/mesh-anything/)
 * [2024-06-21, 03:25:26](https://news.ycombinator.com/item?id=40745830) - [Bomb Jack display hardware](https://github.com/martinpiper/BombJack/blob/master/README.md)
+* [2024-06-20, 18:59:34](https://news.ycombinator.com/item?id=40742014) - [Fuzz Map](https://www.fuzzmap.io/)
 * [2024-06-20, 16:39:30](https://news.ycombinator.com/item?id=40740616) - [Electromechanical Lunar Lander](http://www.chrisfenton.com/electromechanical-lunar-lander/)
 * [2024-06-20, 15:45:19](https://news.ycombinator.com/item?id=40740021) - [Show HN: I made a puzzle game that gently introduces my favorite math mysteries](https://www.rahulilango.com/coloring/)
 * [2024-06-20, 15:41:56](https://news.ycombinator.com/item?id=40739982) - [We no longer use LangChain for building our AI agents](https://www.octomind.dev/blog/why-we-no-longer-use-langchain-for-building-our-ai-agents)
