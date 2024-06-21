@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-21, 10:30:28](https://news.ycombinator.com/item?id=40748070) - [Many election-watching scientists are under pressure](https://www.nature.com/articles/d41586-024-02026-z)
+* [2024-06-21, 11:00:26](https://news.ycombinator.com/item?id=40748225) - [AI is exhausting the power grid](https://www.washingtonpost.com/business/2024/06/21/artificial-intelligence-nuclear-fusion-climate/)
 * [2024-06-21, 09:45:08](https://news.ycombinator.com/item?id=40747869) - [Starlink Mini brings space internet to backpackers](https://www.theverge.com/2024/6/21/24182970/starlink-mini-usb-power-specs-price)
 * [2024-06-21, 08:59:21](https://news.ycombinator.com/item?id=40747588) - [EVs Are Selling Well for Everyone Except Tesla](https://jalopnik.com/evs-are-selling-well-for-everyone-except-tesla-1851550953)
 * [2024-06-21, 08:40:25](https://news.ycombinator.com/item?id=40747476) - [Show HN: A collection of front end Learning Resources](https://github.com/requestly/awesome-frontend-resources)
