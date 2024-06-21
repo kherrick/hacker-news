@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-06-21, 20:42:03",
-      "https://news.ycombinator.com/item?id=40753581"
+      "2024-06-21, 21:00:43",
+      "https://news.ycombinator.com/item?id=40753752"
     ],
     [
-      "SVG: The Good, the Bad, and the Ugly",
-      "https://www.eisfunke.com/posts/2021/svg-the-good-the-bad-and-the-ugly.html"
+      "Emerge Tools (YC W21) is hiring a senior front end engineer",
+      "https://www.emergetools.com/careers/jobs/senior-frontend-engineer"
     ]
   ],
   [
@@ -25,7 +25,7 @@
       "https://news.ycombinator.com/item?id=40752904"
     ],
     [
-      "Ontario Science Centre to close immediately",
+      "Ontario Science Centre to close immediately due to risk of roof collapse",
       "https://www.cbc.ca/news/canada/toronto/ontario-science-centre-closing-roof-1.7242810"
     ]
   ],
@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=40752320"
     ],
     [
-      "We now have even more evidence against the \"ecocide\" theory of Easter Island",
+      "More evidence against the \"ecocide\" theory of Easter Island",
       "https://arstechnica.com/science/2024/06/we-now-have-even-more-evidence-against-the-ecocide-theory-of-easter-island/"
     ]
   ],
@@ -75,18 +75,8 @@
       "https://news.ycombinator.com/item?id=40751813"
     ],
     [
-      "A runaway plane took off by itself and spent 3 hours flying unpiloted in 1955",
+      "Aster shootdown over Sydney in 1955",
       "https://navyhistory.au/aster-shootdown-over-sydney-in-1955/"
-    ]
-  ],
-  [
-    [
-      "2024-06-21, 17:00:25",
-      "https://news.ycombinator.com/item?id=40751478"
-    ],
-    [
-      "Patterns (YC S21) Is Hiring to Build Analytics Agents for Finance Teams",
-      "https://patterns.app/"
     ]
   ],
   [
@@ -115,18 +105,8 @@
       "https://news.ycombinator.com/item?id=40751178"
     ],
     [
-      "Show HN: High-Frequency Trading and Market-Making Backtesting Tool with Examples",
+      "Show HN: High-frequency trading and market-making backtesting tool with examples",
       "https://github.com/nkaz001/hftbacktest/tree/master/rust"
-    ]
-  ],
-  [
-    [
-      "2024-06-21, 16:24:09",
-      "https://news.ycombinator.com/item?id=40751108"
-    ],
-    [
-      "Self-driving Waymos secure final clearance for expansion beyond S.F",
-      "https://www.sfchronicle.com/bayarea/article/self-driving-cars-waymo-sf-19523750.php"
     ]
   ],
   [
@@ -181,6 +161,16 @@
   ],
   [
     [
+      "2024-06-21, 13:49:55",
+      "https://news.ycombinator.com/item?id=40749624"
+    ],
+    [
+      "Spending 3 months investigating a 7-year old bug and fixing it in 1 line of code",
+      "https://lemmy.world/post/16763534"
+    ]
+  ],
+  [
+    [
       "2024-06-21, 13:30:21",
       "https://news.ycombinator.com/item?id=40749426"
     ],
@@ -231,6 +221,16 @@
   ],
   [
     [
+      "2024-06-20, 17:13:06",
+      "https://news.ycombinator.com/item?id=40740956"
+    ],
+    [
+      "Ask HN: Why is it so hard for devices to determine WiFi network health?",
+      "https://news.ycombinator.com/item?id=40740956"
+    ]
+  ],
+  [
+    [
       "2024-06-20, 16:39:30",
       "https://news.ycombinator.com/item?id=40740616"
     ],
@@ -241,12 +241,12 @@
   ],
   [
     [
-      "2024-06-20, 15:29:38",
-      "https://news.ycombinator.com/item?id=40739828"
+      "2024-06-20, 15:41:56",
+      "https://news.ycombinator.com/item?id=40739982"
     ],
     [
-      "My experience crafting an interpreter with Rust (2021)",
-      "https://ceronman.com/2021/07/22/my-experience-crafting-an-interpreter-with-rust/"
+      "We no longer use LangChain for building our AI agents",
+      "https://www.octomind.dev/blog/why-we-no-longer-use-langchain-for-building-our-ai-agents"
     ]
   ],
   [
