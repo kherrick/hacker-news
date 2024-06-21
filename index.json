@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2024-06-21, 20:23:14",
+      "https://news.ycombinator.com/item?id=40753417"
+    ],
+    [
+      "NTS (TeX reimplementation in Java from 2001) still compiles under Java 16",
+      "https://github.com/jamespfennell/new-typesetting-system"
+    ]
+  ],
+  [
+    [
       "2024-06-21, 19:34:01",
       "https://news.ycombinator.com/item?id=40752856"
     ],
@@ -207,16 +217,6 @@
     [
       "Show HN: Eidos – Offline alternative to Notion",
       "https://github.com/mayneyao/eidos"
-    ]
-  ],
-  [
-    [
-      "2024-06-21, 05:02:25",
-      "https://news.ycombinator.com/item?id=40746310"
-    ],
-    [
-      "MeshAnything – Converts 3D representations into efficient 3D meshes",
-      "https://buaacyw.github.io/mesh-anything/"
     ]
   ],
   [
