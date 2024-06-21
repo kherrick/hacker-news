@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-21, 14:05:12](https://news.ycombinator.com/item?id=40749775) - [Claudette, a new friend that makes Claude 3.5 Sonnet even nicer](https://www.answer.ai/posts/2024-06-21-claudette.html)
 * [2024-06-21, 13:36:52](https://news.ycombinator.com/item?id=40749483) - [FDA Expands Approval of Gene Therapy for Patients with Muscular Dystrophy](https://www.fda.gov/news-events/press-announcements/fda-expands-approval-gene-therapy-patients-duchenne-muscular-dystrophy)
-* [2024-06-21, 13:05:21](https://news.ycombinator.com/item?id=40749211) - [It seems routine to see a bunch of browser User-Agents from the same IP](https://utcc.utoronto.ca/~cks/space/blog/web/MultipleUserAgentsSameIP)
+* [2024-06-21, 13:30:21](https://news.ycombinator.com/item?id=40749426) - [From Infocom to 80 Days: An oral history of text games and interactive fiction](https://arstechnica.com/gaming/2024/06/from-infocom-to-80-days-an-oral-history-of-text-games-and-interactive-fiction/)
 * [2024-06-21, 12:48:24](https://news.ycombinator.com/item?id=40749046) - [Wireless power transfer system achieves 270-kilowatt charge](https://www.ornl.gov/news/polyphase-wireless-power-transfer-system-achieves-270-kilowatt-charge-sets-another-world)
 * [2024-06-21, 12:22:39](https://news.ycombinator.com/item?id=40748851) - [Advanced Text Features and PDF](https://nibblestew.blogspot.com/2024/06/advanced-text-features-and-pdf.html)
 * [2024-06-21, 12:00:05](https://news.ycombinator.com/item?id=40748662) - [Athelas (YC S16) Is Hiring a Senior Full-Stack Software Engineer](https://www.athelas.com/careers?ashby_jid=55c6a105-80be-40b1-8644-cd44f48f1d08)
@@ -18,7 +19,6 @@
 * [2024-06-20, 15:45:19](https://news.ycombinator.com/item?id=40740021) - [Show HN: I made a puzzle game that gently introduces my favorite math mysteries](https://www.rahulilango.com/coloring/)
 * [2024-06-20, 15:41:56](https://news.ycombinator.com/item?id=40739982) - [We no longer use LangChain for building our AI agents](https://www.octomind.dev/blog/why-we-no-longer-use-langchain-for-building-our-ai-agents)
 * [2024-06-20, 15:18:27](https://news.ycombinator.com/item?id=40739710) - [Atkinson Dithering (2021)](https://beyondloom.com/blog/dither.html)
-* [2024-06-20, 14:50:40](https://news.ycombinator.com/item?id=40739384) - [Calculating Empires: A Genealogy of Technology and Power Since 1500](https://calculatingempires.net/)
 * [2024-06-20, 13:54:51](https://news.ycombinator.com/item?id=40738833) - [Wc2: Investigates optimizing 'wc', the Unix word count program](https://github.com/robertdavidgraham/wc2)
 * [2024-06-20, 11:21:56](https://news.ycombinator.com/item?id=40737370) - [Let's write a video game from scratch like it's 1987](https://gaultier.github.io/blog/write_a_video_game_from_scratch_like_1987.html)
 * [2024-06-20, 11:11:16](https://news.ycombinator.com/item?id=40737294) - [Tetris Font (2020)](https://erikdemaine.org/fonts/tetris/)
