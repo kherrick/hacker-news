@@ -26,7 +26,7 @@
 * [2024-06-20, 11:21:56](https://news.ycombinator.com/item?id=40737370) - [Let's write a video game from scratch like it's 1987](https://gaultier.github.io/blog/write_a_video_game_from_scratch_like_1987.html)
 * [2024-06-20, 11:11:16](https://news.ycombinator.com/item?id=40737294) - [Tetris Font (2020)](https://erikdemaine.org/fonts/tetris/)
 * [2024-06-20, 03:25:09](https://news.ycombinator.com/item?id=40734564) - [Bog gravel filtration: Water cleaned by Mother Nature (2015)](https://www.pondtrademag.com/bog-gravel-filtration-water-cleaned-by-mother-nature/)
-* [2024-06-19, 14:36:30](https://news.ycombinator.com/item?id=40728714) - [Software designers pick the path, not just the destination](https://tidyfirst.substack.com/p/the-trough-of-despair)
+* [2024-06-19, 14:36:30](https://news.ycombinator.com/item?id=40728714) - [Software design gets worse before it gets better](https://tidyfirst.substack.com/p/the-trough-of-despair)
 * [2024-06-19, 09:32:22](https://news.ycombinator.com/item?id=40726529) - [Algorithmic Fitting of Japanese Candy](https://www.candyjapan.com/behind-the-scenes/algorithmic-fitting-of-japanese-candy)
 * [2024-06-19, 06:54:29](https://news.ycombinator.com/item?id=40725568) - [Chasing a Bug in a SAT Solver](https://ochagavia.nl/blog/chasing-a-bug-in-a-sat-solver/)
 * [2024-06-18, 12:06:26](https://news.ycombinator.com/item?id=40716801) - [Code Models](https://openjdk.org/projects/babylon/articles/code-models)
