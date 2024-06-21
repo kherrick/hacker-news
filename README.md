@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-21, 04:31:38](https://news.ycombinator.com/item?id=40746173) - [A Rant about Front-end Development](https://blog.frankmtaylor.com/2024/06/20/a-rant-about-front-end-development/)
 * [2024-06-21, 03:25:26](https://news.ycombinator.com/item?id=40745830) - [Bomb Jack display hardware](https://github.com/martinpiper/BombJack/blob/master/README.md)
-* [2024-06-21, 01:20:11](https://news.ycombinator.com/item?id=40745239) - [A ship off Israel's coast could shed light on the navigation of ancient mariners](https://phys.org/news/2024-06-ship-israel-coast-skills-ancient.html)
 * [2024-06-21, 01:12:53](https://news.ycombinator.com/item?id=40745200) - [Thoughts on Desktop Operating Systems in 2024](https://tbolt.space/2024/6/20/desktop-operating-systems-2024)
 * [2024-06-21, 00:33:41](https://news.ycombinator.com/item?id=40744983) - [Walking to combat back pain: study shows dramatic improvement](https://lighthouse.mq.edu.au/article/june-2024/walking-away-from-pain-world-first-study-shows-dramatic-improvement-in-lower-back-trouble)
 * [2024-06-20, 23:19:40](https://news.ycombinator.com/item?id=40744558) - [How babies and young children learn to understand language](https://lithub.com/how-babies-and-young-children-learn-to-understand-language/)
