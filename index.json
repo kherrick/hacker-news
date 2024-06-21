@@ -1,51 +1,11 @@
 [
   [
     [
-      "2024-06-21, 01:02:02",
-      "https://news.ycombinator.com/item?id=40745151"
-    ],
-    [
-      "Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager",
-      "https://news.ycombinator.com/item?id=40745151"
-    ]
-  ],
-  [
-    [
-      "2024-06-21, 00:49:32",
-      "https://news.ycombinator.com/item?id=40745085"
-    ],
-    [
-      "Melamine sponges shed microplastics when scrubbed",
-      "https://pubs.acs.org/doi/10.1021/acs.est.4c00846"
-    ]
-  ],
-  [
-    [
-      "2024-06-21, 00:29:06",
-      "https://news.ycombinator.com/item?id=40744959"
-    ],
-    [
-      "US Bans Kaspersky Software",
-      "https://www.wired.com/story/us-bans-kaspersky-software/"
-    ]
-  ],
-  [
-    [
-      "2024-06-21, 00:06:21",
-      "https://news.ycombinator.com/item?id=40744847"
-    ],
-    [
-      "Tesla owners file class-action alleging repair, parts monopoly",
-      "https://driving.ca/auto-news/industry/tesla-class-action-lawsuite-parts-repairs-monopoly"
-    ]
-  ],
-  [
-    [
       "2024-06-20, 23:59:35",
       "https://news.ycombinator.com/item?id=40744812"
     ],
     [
-      "How We Made the Deno Language Server Ten Times Faster",
+      "How we made the Deno language server faster",
       "https://deno.com/blog/optimizing-our-lsp"
     ]
   ],
@@ -95,8 +55,28 @@
       "https://news.ycombinator.com/item?id=40744098"
     ],
     [
-      "Generating Audio for Video",
+      "Generating audio for video",
       "https://deepmind.google/discover/blog/generating-audio-for-video/"
+    ]
+  ],
+  [
+    [
+      "2024-06-20, 21:21:07",
+      "https://news.ycombinator.com/item?id=40743531"
+    ],
+    [
+      "New York Establishes Stringent Protections to Safeguard Kids on Social Media",
+      "https://www.governor.ny.gov/news/governor-hochul-joins-attorney-general-james-and-bill-sponsors-sign-nation-leading-legislation"
+    ]
+  ],
+  [
+    [
+      "2024-06-20, 21:00:43",
+      "https://news.ycombinator.com/item?id=40743308"
+    ],
+    [
+      "Promoted.ai (YC W21) Is Hiring a Sales Engineer",
+      "https://www.ycombinator.com/companies/promoted/jobs/5moymju-sales-engineer-new-grad"
     ]
   ],
   [
@@ -125,7 +105,7 @@
       "https://news.ycombinator.com/item?id=40742026"
     ],
     [
-      "More Disabled Americans Are Employed, Thanks to Remote Work",
+      "More disabled Americans are employed, thanks to remote work",
       "https://www.bloomberg.com/news/articles/2024-06-20/remote-work-helps-more-people-with-disabilities-get-employed"
     ]
   ],
@@ -261,12 +241,32 @@
   ],
   [
     [
-      "2024-06-19, 09:19:41",
-      "https://news.ycombinator.com/item?id=40726445"
+      "2024-06-20, 00:21:00",
+      "https://news.ycombinator.com/item?id=40733705"
     ],
     [
-      "The first attempt to replace SORBS didn't take long",
-      "https://www.theregister.com/2024/06/17/infosec_news_in_brief/"
+      "OSRD: Open-Source Railway Designer",
+      "https://osrd.fr/en/"
+    ]
+  ],
+  [
+    [
+      "2024-06-19, 09:28:10",
+      "https://news.ycombinator.com/item?id=40726497"
+    ],
+    [
+      "The Prototype's Language",
+      "https://news.alvaroduran.com/p/the-prototypes-language"
+    ]
+  ],
+  [
+    [
+      "2024-06-19, 08:02:13",
+      "https://news.ycombinator.com/item?id=40725970"
+    ],
+    [
+      "Two ways to use an LED as a light sensor with Arduino",
+      "https://blog.jgc.org/2024/06/two-ways-to-use-led-as-light-sensor.html"
     ]
   ],
   [
