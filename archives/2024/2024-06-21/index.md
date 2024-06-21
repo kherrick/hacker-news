@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-06-21](index.md)
 
+* [2024-06-21, 21:10:28](https://news.ycombinator.com/item?id=40753856) - [Solving puzzles faster than humanly possible](https://biggieblog.com/solving-puzzles-faster-than-humanly-possible/)
+* [2024-06-21, 21:02:19](https://news.ycombinator.com/item?id=40753773) - [Hope without optimism – transcription of a talk by Dave Snowden (2022)](https://gist.github.com/owulveryck/4ac8c96c16f5a48de24f8a0e949ad9a5)
 * [2024-06-21, 21:00:43](https://news.ycombinator.com/item?id=40753752) - [Emerge Tools (YC W21) is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)
 * [2024-06-21, 20:42:03](https://news.ycombinator.com/item?id=40753581) - [SVG: The Good, the Bad, and the Ugly](https://www.eisfunke.com/posts/2021/svg-the-good-the-bad-and-the-ugly.html)
 * [2024-06-21, 20:38:18](https://news.ycombinator.com/item?id=40753553) - [Ask HN: Privacy Friendly Smart Phone?](https://news.ycombinator.com/item?id=40753553)
 * [2024-06-21, 20:30:27](https://news.ycombinator.com/item?id=40753485) - [Stanford student collects her Master's degree at the age of 105](https://ed.stanford.edu/news/lifelong-learning-stanford-gse-student-collects-her-master-s-degree-after-80-years-education)
+* [2024-06-21, 20:29:42](https://news.ycombinator.com/item?id=40753476) - [The Vienna Secession: A History](https://www.theviennasecession.com/vienna-secession/)
 * [2024-06-21, 19:38:18](https://news.ycombinator.com/item?id=40752904) - [Ontario Science Centre to close immediately](https://www.cbc.ca/news/canada/toronto/ontario-science-centre-closing-roof-1.7242810)
 * [2024-06-21, 19:34:01](https://news.ycombinator.com/item?id=40752856) - [Climate Zones](https://pudding.cool/2024/06/climate-zones/)
 * [2024-06-21, 19:29:13](https://news.ycombinator.com/item?id=40752811) - [GitHub – Karpathy/LLM101n: LLM101n: Let's Build a Storyteller](https://github.com/karpathy/LLM101n)
