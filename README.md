@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-21, 13:36:52](https://news.ycombinator.com/item?id=40749483) - [FDA Expands Approval of Gene Therapy for Patients with Muscular Dystrophy](https://www.fda.gov/news-events/press-announcements/fda-expands-approval-gene-therapy-patients-duchenne-muscular-dystrophy)
-* [2024-06-21, 13:13:20](https://news.ycombinator.com/item?id=40749275) - [Ask HN: What indoor CO2 monitor do you recommend?](https://news.ycombinator.com/item?id=40749275)
 * [2024-06-21, 13:05:21](https://news.ycombinator.com/item?id=40749211) - [It seems routine to see a bunch of browser User-Agents from the same IP](https://utcc.utoronto.ca/~cks/space/blog/web/MultipleUserAgentsSameIP)
 * [2024-06-21, 12:48:24](https://news.ycombinator.com/item?id=40749046) - [Wireless power transfer system achieves 270-kilowatt charge](https://www.ornl.gov/news/polyphase-wireless-power-transfer-system-achieves-270-kilowatt-charge-sets-another-world)
 * [2024-06-21, 12:22:39](https://news.ycombinator.com/item?id=40748851) - [Advanced Text Features and PDF](https://nibblestew.blogspot.com/2024/06/advanced-text-features-and-pdf.html)
@@ -12,7 +11,6 @@
 * [2024-06-20, 23:19:40](https://news.ycombinator.com/item?id=40744558) - [How babies and young children learn to understand language](https://lithub.com/how-babies-and-young-children-learn-to-understand-language/)
 * [2024-06-20, 22:48:40](https://news.ycombinator.com/item?id=40744293) - [Show HN: Local voice assistant using Ollama, transformers and Coqui TTS toolkit](https://github.com/mezbaul-h/june)
 * [2024-06-20, 22:23:12](https://news.ycombinator.com/item?id=40744098) - [Generating audio for video](https://deepmind.google/discover/blog/generating-audio-for-video/)
-* [2024-06-20, 20:28:57](https://news.ycombinator.com/item?id=40743003) - [Section 230 Sunset Act Would Cut Off Young People's Access to Online Communities](https://www.teenvogue.com/story/section-230-sunset-act-young-people)
 * [2024-06-20, 19:12:00](https://news.ycombinator.com/item?id=40742163) - [Gilead shot prevents all HIV cases in trial](https://www.bloomberg.com/news/articles/2024-06-20/gilead-shot-prevents-100-of-hiv-cases-in-trial-of-african-women)
 * [2024-06-20, 18:59:34](https://news.ycombinator.com/item?id=40742014) - [Fuzz Map](https://www.fuzzmap.io/)
 * [2024-06-20, 17:24:36](https://news.ycombinator.com/item?id=40741068) - [Notes on Tajikistan](https://mattlakeman.org/2024/06/20/notes-on-tajikistan/)
@@ -20,6 +18,7 @@
 * [2024-06-20, 15:45:19](https://news.ycombinator.com/item?id=40740021) - [Show HN: I made a puzzle game that gently introduces my favorite math mysteries](https://www.rahulilango.com/coloring/)
 * [2024-06-20, 15:41:56](https://news.ycombinator.com/item?id=40739982) - [We no longer use LangChain for building our AI agents](https://www.octomind.dev/blog/why-we-no-longer-use-langchain-for-building-our-ai-agents)
 * [2024-06-20, 15:18:27](https://news.ycombinator.com/item?id=40739710) - [Atkinson Dithering (2021)](https://beyondloom.com/blog/dither.html)
+* [2024-06-20, 14:50:40](https://news.ycombinator.com/item?id=40739384) - [Calculating Empires: A Genealogy of Technology and Power Since 1500](https://calculatingempires.net/)
 * [2024-06-20, 13:54:51](https://news.ycombinator.com/item?id=40738833) - [Wc2: Investigates optimizing 'wc', the Unix word count program](https://github.com/robertdavidgraham/wc2)
 * [2024-06-20, 11:21:56](https://news.ycombinator.com/item?id=40737370) - [Let's write a video game from scratch like it's 1987](https://gaultier.github.io/blog/write_a_video_game_from_scratch_like_1987.html)
 * [2024-06-20, 11:11:16](https://news.ycombinator.com/item?id=40737294) - [Tetris Font (2020)](https://erikdemaine.org/fonts/tetris/)
@@ -29,6 +28,7 @@
 * [2024-06-19, 09:32:22](https://news.ycombinator.com/item?id=40726529) - [Algorithmic Fitting of Japanese Candy](https://www.candyjapan.com/behind-the-scenes/algorithmic-fitting-of-japanese-candy)
 * [2024-06-19, 07:53:34](https://news.ycombinator.com/item?id=40725924) - [NASA releases Hubble image taken in new pointing mode](https://science.nasa.gov/missions/hubble/nasa-releases-hubble-image-taken-in-new-pointing-mode/)
 * [2024-06-19, 06:54:29](https://news.ycombinator.com/item?id=40725568) - [Chasing a Bug in a SAT Solver](https://ochagavia.nl/blog/chasing-a-bug-in-a-sat-solver/)
+* [2024-06-18, 23:05:54](https://news.ycombinator.com/item?id=40723024) - [The shape of information](https://kucharski.substack.com/p/the-shape-of-information)
 * [2024-06-18, 12:06:26](https://news.ycombinator.com/item?id=40716801) - [Code Models](https://openjdk.org/projects/babylon/articles/code-models)
 
 ## [Archives](archives/index.md)
