@@ -13,6 +13,7 @@
 * [2024-06-21, 16:59:52](https://news.ycombinator.com/item?id=40751468) - [CRIU, a project to implement checkpoint/restore functionality for Linux](https://criu.org/Main_Page)
 * [2024-06-21, 16:55:19](https://news.ycombinator.com/item?id=40751414) - [How to prolong lithium based batteries](https://batteryuniversity.com/article/bu-808-how-to-prolong-lithium-based-batteries)
 * [2024-06-21, 16:46:50](https://news.ycombinator.com/item?id=40751339) - [Apple won't roll out AI tech in EU market over regulatory concerns](https://www.bloomberg.com/news/articles/2024-06-21/apple-won-t-roll-out-ai-tech-in-eu-market-over-regulatory-concerns)
+* [2024-06-21, 16:24:09](https://news.ycombinator.com/item?id=40751108) - [Self-driving Waymos secure final clearance for expansion beyond S.F](https://www.sfchronicle.com/bayarea/article/self-driving-cars-waymo-sf-19523750.php)
 * [2024-06-21, 16:16:31](https://news.ycombinator.com/item?id=40751020) - [Testing Generative AI for Circuit Board Design](https://blog.jitx.com/jitx-corporate-blog/testing-generative-ai-for-circuit-board-design)
 * [2024-06-21, 15:59:57](https://news.ycombinator.com/item?id=40750888) - [McDonald's AI Drive-Thru debacle is a warning to us all](https://www.creativebloq.com/design/branding/mcdonalds-ai-drive-thru-debacle-is-a-warning-to-us-all)
 * [2024-06-21, 15:35:29](https://news.ycombinator.com/item?id=40750674) - [54 Humans in One 8-meter Gravitics Module](https://www.gravitics.com/news/54-humans-in-gravitics-modules)

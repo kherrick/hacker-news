@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-21, 17:02:11](https://news.ycombinator.com/item?id=40751499) - [Apple Intelligence Features Not Coming to Europe at Launch Due to DMA](https://www.macrumors.com/2024/06/21/apple-intelligence-europe-delay/)
 * [2024-06-21, 17:00:25](https://news.ycombinator.com/item?id=40751478) - [Patterns (YC S21) Is Hiring to Build Analytics Agents for Finance Teams](https://patterns.app/)
 * [2024-06-21, 16:59:52](https://news.ycombinator.com/item?id=40751468) - [CRIU, a project to implement checkpoint/restore functionality for Linux](https://criu.org/Main_Page)
 * [2024-06-21, 16:55:19](https://news.ycombinator.com/item?id=40751414) - [How to prolong lithium based batteries](https://batteryuniversity.com/article/bu-808-how-to-prolong-lithium-based-batteries)
+* [2024-06-21, 16:24:09](https://news.ycombinator.com/item?id=40751108) - [Self-driving Waymos secure final clearance for expansion beyond S.F](https://www.sfchronicle.com/bayarea/article/self-driving-cars-waymo-sf-19523750.php)
 * [2024-06-21, 16:16:31](https://news.ycombinator.com/item?id=40751020) - [Testing Generative AI for Circuit Board Design](https://blog.jitx.com/jitx-corporate-blog/testing-generative-ai-for-circuit-board-design)
 * [2024-06-21, 15:35:29](https://news.ycombinator.com/item?id=40750674) - [54 Humans in One 8-meter Gravitics Module](https://www.gravitics.com/news/54-humans-in-gravitics-modules)
 * [2024-06-21, 15:04:52](https://news.ycombinator.com/item?id=40750391) - [OpenAI Acquires Rockset](https://openai.com/index/openai-acquires-rockset/)
