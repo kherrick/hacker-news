@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-06-21, 20:38:18",
-      "https://news.ycombinator.com/item?id=40753553"
+      "2024-06-21, 20:42:03",
+      "https://news.ycombinator.com/item?id=40753581"
     ],
     [
-      "Ask HN: Privacy Friendly Smart Phone?",
-      "https://news.ycombinator.com/item?id=40753553"
+      "SVG: The Good, the Bad, and the Ugly",
+      "https://www.eisfunke.com/posts/2021/svg-the-good-the-bad-and-the-ugly.html"
     ]
   ],
   [
@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2024-06-21, 18:31:11",
-      "https://news.ycombinator.com/item?id=40752306"
-    ],
-    [
-      "Q*: Improving Multi-Step Reasoning for LLMs with Deliberative Planning",
-      "https://arxiv.org/abs/2406.14283"
-    ]
-  ],
-  [
-    [
       "2024-06-21, 17:33:28",
       "https://news.ycombinator.com/item?id=40751813"
     ],
@@ -107,6 +97,16 @@
     [
       "CRIU, a project to implement checkpoint/restore functionality for Linux",
       "https://criu.org/Main_Page"
+    ]
+  ],
+  [
+    [
+      "2024-06-21, 16:55:19",
+      "https://news.ycombinator.com/item?id=40751414"
+    ],
+    [
+      "How to prolong lithium based batteries",
+      "https://batteryuniversity.com/article/bu-808-how-to-prolong-lithium-based-batteries"
     ]
   ],
   [
@@ -245,7 +245,7 @@
       "https://news.ycombinator.com/item?id=40739828"
     ],
     [
-      "My experience crafting an interpreter with Rust",
+      "My experience crafting an interpreter with Rust (2021)",
       "https://ceronman.com/2021/07/22/my-experience-crafting-an-interpreter-with-rust/"
     ]
   ],
