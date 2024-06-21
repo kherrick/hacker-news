@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-21](index.md)
 
+* [2024-06-21, 11:31:08](https://news.ycombinator.com/item?id=40748423) - [Microsoft makes Copilot less useful on new Copilot Plus PCs](https://www.theverge.com/2024/6/21/24182979/microsoft-copilot-key-keyboard-shortcut-pwa)
+* [2024-06-21, 11:23:48](https://news.ycombinator.com/item?id=40748371) - [The Engineer Who Refused to Approve the Challenger Launch](https://www.npr.org/2021/03/07/974534021/remembering-allan-mcdonald-he-refused-to-approve-challenger-launch-exposed-cover)
+* [2024-06-21, 11:06:14](https://news.ycombinator.com/item?id=40748263) - [Pornhub prepares to block five more states rather than check IDs](https://arstechnica.com/tech-policy/2024/06/adult-sites-blocking-more-states-this-summer-to-protest-age-verification-laws/)
 * [2024-06-21, 11:00:26](https://news.ycombinator.com/item?id=40748225) - [AI is exhausting the power grid](https://www.washingtonpost.com/business/2024/06/21/artificial-intelligence-nuclear-fusion-climate/)
 * [2024-06-21, 10:30:28](https://news.ycombinator.com/item?id=40748070) - [Many election-watching scientists are under pressure](https://www.nature.com/articles/d41586-024-02026-z)
 * [2024-06-21, 09:45:08](https://news.ycombinator.com/item?id=40747869) - [Starlink Mini brings space internet to backpackers](https://www.theverge.com/2024/6/21/24182970/starlink-mini-usb-power-specs-price)
