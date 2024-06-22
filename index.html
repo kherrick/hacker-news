@@ -142,11 +142,11 @@
             <h4>
               <span>2024-06-22 @ 14:47:12</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">13</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40759480"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 6</span></span
               >
             </h4>
           </section>
@@ -157,14 +157,14 @@
               class="item"
               href="https://variety.com/2016/digital/news/netflix-meridian-imf-tools-open-source-1201859416/"
               >'Meridian': Why Netflix Is Helping Competitors with Content and
-              Code</a
+              Code (2016)</a
             >
           </h3>
           <section>
             <h4>
               <span>2024-06-22 @ 14:32:10</span
               ><span class="points-container"
-                >Points: <span class="points">9</span></span
+                >Points: <span class="points">11</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40759393"
                   >Comments</a
@@ -183,7 +183,7 @@
             <h4>
               <span>2024-06-22 @ 14:21:21</span
               ><span class="points-container"
-                >Points: <span class="points">16</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40759333"
                   >Comments</a
@@ -205,11 +205,11 @@
             <h4>
               <span>2024-06-22 @ 14:18:58</span
               ><span class="points-container"
-                >Points: <span class="points">17</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40759322"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 13</span></span
               >
             </h4>
           </section>
@@ -226,11 +226,11 @@
             <h4>
               <span>2024-06-22 @ 14:03:03</span
               ><span class="points-container"
-                >Points: <span class="points">44</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40759228"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -247,13 +247,82 @@
             <h4>
               <span>2024-06-22 @ 12:49:18</span
               ><span class="points-container"
-                >Points: <span class="points">136</span></span
+                >Points: <span class="points">143</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40758767"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="40758703">
+          <h3>
+            <a class="item" href="https://github.com/mattrighetti/envelope"
+              >Show HN: Envelope – A modern environment variable cli tool</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-06-22 @ 12:39:57</span
+              ><span class="points-container"
+                >Points: <span class="points">11</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40758703"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I had this idea when I made a big mistake and broke some
+                production stuff because I had a very messy .env file laying
+                around in my project.
+              </p>
+              <p>
+                I was implementing new features for one of my projects and in my
+                .env file I had the test database url commented out and the
+                production one was not. Long story short, I applied migrations
+                to the production database instead of my local test one and
+                broke a lot of production APIs :')
+              </p>
+              <p>
+                I wanted a tool that could easily help me spot these issues
+                before something bad happened, and so I built envelope for that
+                reason.
+              </p>
+              <p>
+                Instead of a \.env(\..+)? file, I now use this tool to add
+                variables to different configurations: dev, prod etc. and I feed
+                them to the program I am executing on a one liner.
+              </p>
+              <p></p>
+              <pre><code>  $ envelope init
+  $ envelope add dev db_url localhost:5432/postgres
+  $ envelope add dev db_username username
+  $ envelope add dev db_pwd pwd
+  $ export $(envelope list dev)
+  $ ./run.sh
+</code></pre>
+              This way I am explicitly exporting the dev environment without
+              relying on the fact that everything is in order in my .env file
+              (another approach would be to have a .env.dev file)
+              <p>
+                A very useful feature that I use quite a lot is the `check`
+                command which is going to tell you which environment you have
+                currently active
+              </p>
+              <p></p>
+              <pre><code>  $ export $(envelope list dev)
+  $ envelope check
+  &gt; dev
+</code></pre>
+              I don't think this tool is going to be useful to anybody, but I
+              wanted to share this with you in case there is someone that can
+              make good use of it or find particular scenarios where this could
+              be used instead of .env files, either way I had a lot of fun
+              building it
+            </div>
           </section>
         </section>
         <section id="40758415">
@@ -285,11 +354,11 @@
             <h4>
               <span>2024-06-22 @ 10:07:05</span
               ><span class="points-container"
-                >Points: <span class="points">100</span></span
+                >Points: <span class="points">102</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40757787"
                   >Comments</a
-                ><span class="descendants">: 56</span></span
+                ><span class="descendants">: 58</span></span
               >
             </h4>
           </section>
@@ -307,11 +376,11 @@
             <h4>
               <span>2024-06-22 @ 04:04:22</span
               ><span class="points-container"
-                >Points: <span class="points">324</span></span
+                >Points: <span class="points">325</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40756176"
                   >Comments</a
-                ><span class="descendants">: 233</span></span
+                ><span class="descendants">: 236</span></span
               >
             </h4>
           </section>
@@ -326,7 +395,7 @@
             <h4>
               <span>2024-06-22 @ 03:34:39</span
               ><span class="points-container"
-                >Points: <span class="points">169</span></span
+                >Points: <span class="points">170</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40756034"
                   >Comments</a
@@ -368,11 +437,11 @@
             <h4>
               <span>2024-06-21 @ 22:46:29</span
               ><span class="points-container"
-                >Points: <span class="points">7</span></span
+                >Points: <span class="points">8</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40754624"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -390,11 +459,11 @@
             <h4>
               <span>2024-06-21 @ 19:17:41</span
               ><span class="points-container"
-                >Points: <span class="points">79</span></span
+                >Points: <span class="points">81</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40752721"
                   >Comments</a
-                ><span class="descendants">: 71</span></span
+                ><span class="descendants">: 73</span></span
               >
             </h4>
           </section>
@@ -435,7 +504,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40751468"
                   >Comments</a
-                ><span class="descendants">: 59</span></span
+                ><span class="descendants">: 60</span></span
               >
             </h4>
           </section>
@@ -457,7 +526,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40751178"
                   >Comments</a
-                ><span class="descendants">: 61</span></span
+                ><span class="descendants">: 62</span></span
               >
             </h4>
           </section>
@@ -495,11 +564,11 @@
             <h4>
               <span>2024-06-21 @ 15:16:16</span
               ><span class="points-container"
-                >Points: <span class="points">145</span></span
+                >Points: <span class="points">146</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40750506"
                   >Comments</a
-                ><span class="descendants">: 132</span></span
+                ><span class="descendants">: 135</span></span
               >
             </h4>
             <div class="text">
@@ -519,7 +588,7 @@
             <h4>
               <span>2024-06-21 @ 13:54:24</span
               ><span class="points-container"
-                >Points: <span class="points">155</span></span
+                >Points: <span class="points">156</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40749670"
                   >Comments</a
@@ -560,11 +629,11 @@
             <h4>
               <span>2024-06-21 @ 06:30:02</span
               ><span class="points-container"
-                >Points: <span class="points">210</span></span
+                >Points: <span class="points">213</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40746773"
                   >Comments</a
-                ><span class="descendants">: 46</span></span
+                ><span class="descendants">: 47</span></span
               >
             </h4>
             <div class="text">
@@ -671,7 +740,7 @@
             <h4>
               <span>2024-06-20 @ 17:42:02</span
               ><span class="points-container"
-                >Points: <span class="points">15</span></span
+                >Points: <span class="points">17</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40741236"
                   >Comments</a
@@ -692,11 +761,11 @@
             <h4>
               <span>2024-06-20 @ 16:38:29</span
               ><span class="points-container"
-                >Points: <span class="points">62</span></span
+                >Points: <span class="points">65</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40740602"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 36</span></span
               >
             </h4>
           </section>
@@ -713,7 +782,7 @@
             <h4>
               <span>2024-06-20 @ 14:48:29</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">36</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40739356"
                   >Comments</a
@@ -755,30 +824,11 @@
             <h4>
               <span>2024-06-20 @ 13:25:52</span
               ><span class="points-container"
-                >Points: <span class="points">62</span></span
+                >Points: <span class="points">67</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40738534"
                   >Comments</a
                 ><span class="descendants">: 7</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="40720548">
-          <h3>
-            <a class="item" href="https://eggcorns.lascribe.net"
-              >The Eggcorn Database</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-06-18 @ 18:12:15</span
-              ><span class="points-container"
-                >Points: <span class="points">75</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40720548"
-                  >Comments</a
-                ><span class="descendants">: 29</span></span
               >
             </h4>
           </section>
@@ -797,7 +847,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40713595"
                   >Comments</a
-                ><span class="descendants">: 2</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
