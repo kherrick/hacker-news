@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-22](index.md)
 
+* [2024-06-22, 17:00:58](https://news.ycombinator.com/item?id=40760433) - [Trellis (YC W24) is hiring engineer to build AI-powered ETL for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
 * [2024-06-22, 16:08:08](https://news.ycombinator.com/item?id=40760042) - [Creative workers deserve better than a choice as to who rips them off](https://pluralistic.net/2024/06/21/off-the-menu/)
 * [2024-06-22, 16:07:29](https://news.ycombinator.com/item?id=40760037) - [Impossibly thin fabric could cool you down by 16-plus degrees](https://www.fastcompany.com/91142992/this-impossibly-thin-fabric-could-cool-you-down-by-16-degrees)
 * [2024-06-22, 16:01:39](https://news.ycombinator.com/item?id=40759981) - [The devil is intelligence without love](https://www.ggnotes.com/the-devil-is-intelligence-without-love/)
@@ -16,6 +17,7 @@
 * [2024-06-22, 14:32:10](https://news.ycombinator.com/item?id=40759393) - ['Meridian': Why Netflix Is Helping Competitors with Content and Code](https://variety.com/2016/digital/news/netflix-meridian-imf-tools-open-source-1201859416/)
 * [2024-06-22, 14:21:21](https://news.ycombinator.com/item?id=40759333) - [HybridNeRF: Efficient Neural Rendering](https://haithemturki.com/hybrid-nerf/)
 * [2024-06-22, 14:18:58](https://news.ycombinator.com/item?id=40759322) - [Harvard Study: Planetary Health Index Diet – lower mortality and 30% lower CO2](https://www.sciencedirect.com/science/article/abs/pii/S0002916524003897)
+* [2024-06-22, 14:12:02](https://news.ycombinator.com/item?id=40759277) - [Andrew S. Tanenbaum Receives ACM Software System Award](https://vu.nl/en/news/2024/andrew-s-tanenbaum-receives-acm-software-system-award)
 * [2024-06-22, 14:03:03](https://news.ycombinator.com/item?id=40759228) - [CSS Tip: An em isn't an \"m\", but an ex is an \"x\"](https://blog.frankmtaylor.com/2012/01/25/css-font-size-an-em-isnt-an-m-but-an-ex-is-an-x/)
 * [2024-06-22, 12:59:25](https://news.ycombinator.com/item?id=40758830) - [EU interior ministers want to exempt themselves from chat control bulk scanning](https://www.eureporter.co/business/data/mass-surveillance-data/2024/04/15/leak-eu-interior-ministers-want-to-exempt-themselves-from-chat-control-bulk-scanning-of-private-messages/)
 * [2024-06-22, 12:49:18](https://news.ycombinator.com/item?id=40758767) - [After my dad died, I ran and sold his company (2018)](https://anandsanwal.me/2018/06/19/dad-company-sale/)
