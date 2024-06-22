@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-06-22](index.md)
 
+* [2024-06-22, 18:50:31](https://news.ycombinator.com/item?id=40761210) - [Second Canadian scientist alleges brain illness investigation was shut down](https://www.theguardian.com/world/article/2024/jun/21/second-canadian-scientist-alleges-brain-illness-investigation-was-shut-down)
 * [2024-06-22, 18:14:42](https://news.ycombinator.com/item?id=40760962) - [An Anatomy of Algorithm Aversion](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4865492)
 * [2024-06-22, 17:36:39](https://news.ycombinator.com/item?id=40760687) - [Testing AMD's Bergamo: Zen 4c](https://chipsandcheese.com/2024/06/22/testing-amds-bergamo-zen-4c-spam/)
 * [2024-06-22, 17:19:36](https://news.ycombinator.com/item?id=40760552) - [GitHub Trending RSS](https://mshibanami.github.io/GitHubTrendingRSS/)
 * [2024-06-22, 17:18:25](https://news.ycombinator.com/item?id=40760546) - [German Court Fines Netflix €7.05M for Infringement of Broadcom HEVC Patent](https://www.broadcom.com/company/news/product-releases/61711)
 * [2024-06-22, 17:00:58](https://news.ycombinator.com/item?id=40760433) - [Trellis (YC W24) is hiring engineer to build AI-powered ETL for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
+* [2024-06-22, 16:44:44](https://news.ycombinator.com/item?id=40760320) - [Pi Gazing is a project to build meteor cameras using Raspberry Pi](https://pigazing.dcford.org.uk/)
 * [2024-06-22, 16:08:08](https://news.ycombinator.com/item?id=40760042) - [Creative workers deserve better than a choice as to who rips them off](https://pluralistic.net/2024/06/21/off-the-menu/)
 * [2024-06-22, 16:07:29](https://news.ycombinator.com/item?id=40760037) - [Impossibly thin fabric could cool you down by 16-plus degrees](https://www.fastcompany.com/91142992/this-impossibly-thin-fabric-could-cool-you-down-by-16-degrees)
 * [2024-06-22, 16:01:39](https://news.ycombinator.com/item?id=40759981) - [The devil is intelligence without love](https://www.ggnotes.com/the-devil-is-intelligence-without-love/)
