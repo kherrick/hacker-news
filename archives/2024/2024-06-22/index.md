@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-22](index.md)
 
+* [2024-06-22, 19:45:38](https://news.ycombinator.com/item?id=40761606) - [AI is exhausting the power grid. Tech firms are seeking a miracle solution](https://www.msn.com/en-us/money/technology/ai-is-exhausting-the-power-grid-tech-firms-are-seeking-a-miracle-solution/ar-BB1oDl5z)
 * [2024-06-22, 19:30:32](https://news.ycombinator.com/item?id=40761505) - [Greece introduces the six day work week](https://www.dw.com/en/greece-introduces-the-six-day-work-week/a-69439050)
 * [2024-06-22, 18:50:31](https://news.ycombinator.com/item?id=40761210) - [Second Canadian scientist alleges brain illness investigation was shut down](https://www.theguardian.com/world/article/2024/jun/21/second-canadian-scientist-alleges-brain-illness-investigation-was-shut-down)
 * [2024-06-22, 18:14:42](https://news.ycombinator.com/item?id=40760962) - [An Anatomy of Algorithm Aversion](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4865492)
