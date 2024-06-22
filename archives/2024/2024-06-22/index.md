@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-22](index.md)
 
+* [2024-06-22, 14:47:12](https://news.ycombinator.com/item?id=40759480) - [$200-ish laptop with a 386 and 8MB of RAM is a modern take on Windows 3.1 era](https://arstechnica.com/gadgets/2024/06/the-ultimate-windows-3-1-laptop-sellers-behind-book-8088-are-back-with-pocket-386/)
+* [2024-06-22, 14:32:10](https://news.ycombinator.com/item?id=40759393) - ['Meridian': Why Netflix Is Helping Competitors with Content and Code](https://variety.com/2016/digital/news/netflix-meridian-imf-tools-open-source-1201859416/)
 * [2024-06-22, 14:21:21](https://news.ycombinator.com/item?id=40759333) - [HybridNeRF: Efficient Neural Rendering](https://haithemturki.com/hybrid-nerf/)
 * [2024-06-22, 14:18:58](https://news.ycombinator.com/item?id=40759322) - [Harvard Study: Planetary Health Index Diet – lower mortality and 30% lower CO2](https://www.sciencedirect.com/science/article/abs/pii/S0002916524003897)
 * [2024-06-22, 14:03:03](https://news.ycombinator.com/item?id=40759228) - [CSS Tip: An em isn't an \"m\", but an ex is an \"x\"](https://blog.frankmtaylor.com/2012/01/25/css-font-size-an-em-isnt-an-m-but-an-ex-is-an-x/)
