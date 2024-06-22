@@ -25,10 +25,10 @@
 * [2024-06-20, 16:38:29](https://news.ycombinator.com/item?id=40740602) - [Atari 520ST Review in Creative Computing – By Paul Lefebvre](https://www.goto10retro.com/p/atari-520st-review-in-creative-computing)
 * [2024-06-20, 15:25:20](https://news.ycombinator.com/item?id=40739789) - [RuneLite – open-source RuneScape Client](https://runelite.net/)
 * [2024-06-20, 14:17:02](https://news.ycombinator.com/item?id=40739046) - [Connection Machine Lisp (1986)](https://dl.acm.org/doi/pdf/10.1145/319838.319870)
+* [2024-06-20, 13:25:52](https://news.ycombinator.com/item?id=40738534) - [Reconstructing Public Keys from Signatures](https://keymaterial.net/2024/06/15/reconstructing-public-keys-from-signatures/)
 * [2024-06-20, 11:00:27](https://news.ycombinator.com/item?id=40737226) - [20x Faster Background Removal in the Browser Using ONNX Runtime with WebGPU](https://img.ly/blog/browser-background-removal-using-onnx-runtime-webgpu/)
 * [2024-06-19, 14:36:30](https://news.ycombinator.com/item?id=40728714) - [Software design gets worse before it gets better](https://tidyfirst.substack.com/p/the-trough-of-despair)
 * [2024-06-19, 01:42:32](https://news.ycombinator.com/item?id=40723946) - [Smalltalk syntax in 7 minutes [video]](https://www.youtube.com/watch?v=WfAbOlmULjk)
-* [2024-06-18, 18:12:15](https://news.ycombinator.com/item?id=40720548) - [The Eggcorn Database](https://eggcorns.lascribe.net)
 * [2024-06-18, 02:45:57](https://news.ycombinator.com/item?id=40713595) - [An Introduction to Sleep Obfuscation for Malware (2023)](https://dtsec.us/2023-04-24-Sleep/)
 
 ## [Archives](archives/index.md)
