@@ -28,6 +28,7 @@
 * [2024-06-19, 17:14:13](https://news.ycombinator.com/item?id=40730228) - [F](http://www.nsl.com/k/f/f.htm)
 * [2024-06-19, 17:08:17](https://news.ycombinator.com/item?id=40730178) - [The Back of the Envelope (1984) [pdf]](https://www.seltzer.com/margo/teaching/CS508.19/background/p180-bentley.pdf)
 * [2024-06-19, 17:06:16](https://news.ycombinator.com/item?id=40730156) - [Ilya Sutskever starts Safe Superintelligence Inc](https://ssi.inc)
+* [2024-06-19, 17:06:04](https://news.ycombinator.com/item?id=40730153) - [Intel 3 Represents an Intel Foundry Milestone](https://www.eetimes.com/intel-3-represents-an-intel-foundry-milestone/)
 * [2024-06-19, 17:02:59](https://news.ycombinator.com/item?id=40730132) - [Safe Superintelligence Inc. – Ilya Sutskever](https://twitter.com/ssi/status/1803472825476587910)
 * [2024-06-19, 17:01:12](https://news.ycombinator.com/item?id=40730117) - [Blacksmith (YC W24) is hiring a front end engineer to improve GitHub Actions](https://www.ycombinator.com/companies/blacksmith/jobs/SgZiNoi-founding-engineer-frontend)
 * [2024-06-19, 16:47:58](https://news.ycombinator.com/item?id=40729980) - [Ask HN: React, Vue or Angular?](https://news.ycombinator.com/item?id=40729980)
