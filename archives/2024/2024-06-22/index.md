@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-22](index.md)
 
+* [2024-06-22, 10:07:05](https://news.ycombinator.com/item?id=40757787) - [Own Constant Folder in C/C++](https://www.neilhenning.dev/posts/yourownconstantfolder/)
 * [2024-06-22, 10:03:10](https://news.ycombinator.com/item?id=40757775) - [Aphantasia: I can not picture things in my mind](https://www.theguardian.com/wellness/2024/feb/26/what-is-aphantasia-like)
 * [2024-06-22, 09:33:08](https://news.ycombinator.com/item?id=40757655) - [Why Steve Jobs Went 'Thermonuclear' over Android (2014)](https://www.pcmag.com/opinions/why-steve-jobs-went-thermonuclear-over-android)
 * [2024-06-22, 08:52:24](https://news.ycombinator.com/item?id=40757496) - [I Love You! Yes, You!](https://schizophrenic.io/blog/i-love-you)
