@@ -107,5 +107,6 @@
 * [2024-06-21, 00:49:32](https://news.ycombinator.com/item?id=40745085) - [Melamine sponges shed microplastics when scrubbed](https://pubs.acs.org/doi/10.1021/acs.est.4c00846)
 * [2024-06-21, 00:33:41](https://news.ycombinator.com/item?id=40744983) - [Walking to combat back pain: study shows dramatic improvement](https://lighthouse.mq.edu.au/article/june-2024/walking-away-from-pain-world-first-study-shows-dramatic-improvement-in-lower-back-trouble)
 * [2024-06-21, 00:29:06](https://news.ycombinator.com/item?id=40744959) - [US Bans Kaspersky Software](https://www.wired.com/story/us-bans-kaspersky-software/)
+* [2024-06-21, 00:19:23](https://news.ycombinator.com/item?id=40744910) - [Reference Counting with Linear Types](https://github.com/alt-romes/reference-counting)
 * [2024-06-21, 00:07:02](https://news.ycombinator.com/item?id=40744851) - [Ask HN: Has anyone else found it harder to review code recently?](https://news.ycombinator.com/item?id=40744851)
 * [2024-06-21, 00:06:21](https://news.ycombinator.com/item?id=40744847) - [Tesla owners file class-action alleging repair, parts monopoly](https://driving.ca/auto-news/industry/tesla-class-action-lawsuite-parts-repairs-monopoly)
