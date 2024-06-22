@@ -23,13 +23,13 @@
 * [2024-06-21, 09:40:40](https://news.ycombinator.com/item?id=40747845) - [Show HN: Lady Deirdre 2 – Rust Framework for Compilers and LSP Servers](https://github.com/Eliah-Lakhin/lady-deirdre)
 * [2024-06-21, 06:30:02](https://news.ycombinator.com/item?id=40746773) - [Show HN: Eidos – Offline alternative to Notion](https://github.com/mayneyao/eidos)
 * [2024-06-21, 04:25:36](https://news.ycombinator.com/item?id=40746144) - [Using Stockfish to identify ideal squares](https://lichess.org/@/jk_182/blog/using-stockfish-to-identify-ideal-squares/x3U2g3NP)
-* [2024-06-20, 18:32:31](https://news.ycombinator.com/item?id=40741711) - [Sloth search for Ruby Weekly – a 100 minute hack turned 20h open sauce project](https://slothfinder.apishop.io/)
 * [2024-06-20, 15:05:14](https://news.ycombinator.com/item?id=40739549) - [Hobbyists who collect barf bags](https://www.cnn.com/2024/06/19/travel/barf-bag-collectors-hobby-cec/index.html)
 * [2024-06-20, 14:17:02](https://news.ycombinator.com/item?id=40739046) - [Connection Machine Lisp (1986)](https://dl.acm.org/doi/pdf/10.1145/319838.319870)
 * [2024-06-19, 14:36:30](https://news.ycombinator.com/item?id=40728714) - [Software design gets worse before it gets better](https://tidyfirst.substack.com/p/the-trough-of-despair)
 * [2024-06-18, 18:12:15](https://news.ycombinator.com/item?id=40720548) - [The Eggcorn Database](https://eggcorns.lascribe.net)
 * [2024-06-18, 15:54:14](https://news.ycombinator.com/item?id=40719278) - [An ingestible device to record gastric electrophysiological activity](https://medicalxpress.com/news/2024-06-ingestible-device-gastric-electrophysiological.html)
 * [2024-06-18, 13:47:18](https://news.ycombinator.com/item?id=40717823) - [The short, happy reign of CD-ROM](https://www.fastcompany.com/91128052/history-of-cd-roms-encarta-myst)
+* [2024-06-18, 02:45:57](https://news.ycombinator.com/item?id=40713595) - [An Introduction to Sleep Obfuscation for Malware (2023)](https://dtsec.us/2023-04-24-Sleep/)
 
 ## [Archives](archives/index.md)
 
