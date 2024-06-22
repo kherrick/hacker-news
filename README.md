@@ -21,7 +21,6 @@
 * [2024-06-21, 16:59:52](https://news.ycombinator.com/item?id=40751468) - [CRIU, a project to implement checkpoint/restore functionality for Linux](https://criu.org/Main_Page)
 * [2024-06-21, 16:16:31](https://news.ycombinator.com/item?id=40751020) - [Testing Generative AI for Circuit Board Design](https://blog.jitx.com/jitx-corporate-blog/testing-generative-ai-for-circuit-board-design)
 * [2024-06-21, 15:16:16](https://news.ycombinator.com/item?id=40750506) - [Why does current flow the opposite way from the electrons?](https://mathstodon.xyz/@johncarlosbaez/112653640999819867)
-* [2024-06-21, 06:30:02](https://news.ycombinator.com/item?id=40746773) - [Show HN: Eidos – Offline alternative to Notion](https://github.com/mayneyao/eidos)
 * [2024-06-20, 18:42:44](https://news.ycombinator.com/item?id=40741833) - [Memory sealing for the GNU C Library](https://lwn.net/Articles/978010/)
 * [2024-06-20, 17:42:02](https://news.ycombinator.com/item?id=40741236) - [Eight million pixels and counting: improving texture atlas allocation in Firefox (2021)](https://nical.github.io/posts/etagere.html)
 * [2024-06-20, 16:38:29](https://news.ycombinator.com/item?id=40740602) - [Atari 520ST Review in Creative Computing – By Paul Lefebvre](https://www.goto10retro.com/p/atari-520st-review-in-creative-computing)
@@ -30,6 +29,7 @@
 * [2024-06-20, 13:25:52](https://news.ycombinator.com/item?id=40738534) - [Reconstructing Public Keys from Signatures](https://keymaterial.net/2024/06/15/reconstructing-public-keys-from-signatures/)
 * [2024-06-20, 08:05:13](https://news.ycombinator.com/item?id=40736174) - [As you learn Forth, it learns from you (1981)](https://jupiter-ace.co.uk/Forth_general_practical_computing8108.html)
 * [2024-06-20, 04:53:37](https://news.ycombinator.com/item?id=40735038) - [A New Kind Of Dance Science (combinatorics of social dancing)](https://zacksdancelab.com/blog/a-new-kind-of-dance-science/)
+* [2024-06-17, 18:43:43](https://news.ycombinator.com/item?id=40709434) - [Scientists unlock secrets of how the third form of life makes energy](https://phys.org/news/2024-06-scientists-secrets-life-energy.html)
 
 ## [Archives](archives/index.md)
 

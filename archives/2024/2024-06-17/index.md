@@ -38,6 +38,7 @@
 * [2024-06-17, 19:04:33](https://news.ycombinator.com/item?id=40709688) - [High-severity vulnerabilities affect a wide range of Asus router models](https://arstechnica.com/security/2024/06/high-severity-vulnerabilities-affect-a-wide-range-of-asus-router-models/)
 * [2024-06-17, 18:59:22](https://news.ycombinator.com/item?id=40709622) - [Ask HN: Boss thinks I'm dumb, now what?](https://news.ycombinator.com/item?id=40709622)
 * [2024-06-17, 18:44:54](https://news.ycombinator.com/item?id=40709451) - [Apple Discontinuing Apple Pay Later](https://9to5mac.com/2024/06/17/apple-pay-later-united-states-ending/)
+* [2024-06-17, 18:43:43](https://news.ycombinator.com/item?id=40709434) - [Scientists unlock secrets of how the third form of life makes energy](https://phys.org/news/2024-06-scientists-secrets-life-energy.html)
 * [2024-06-17, 18:35:21](https://news.ycombinator.com/item?id=40709337) - [How a Car Salesman Became a Community Banking Pioneer](https://xiva.com/blog/dave-fishwick-community-banking-pioneer)
 * [2024-06-17, 18:24:25](https://news.ycombinator.com/item?id=40709181) - [Making Serverless Orchestration 25x Faster](https://www.dbos.dev/blog/dbos-vs-aws-step-functions-benchmark)
 * [2024-06-17, 18:18:05](https://news.ycombinator.com/item?id=40709099) - [Spain's AI Doctor](https://pulitzercenter.org/stories/spains-ai-doctor)
