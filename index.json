@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-22, 21:01:00",
+      "https://news.ycombinator.com/item?id=40762177"
+    ],
+    [
+      "Charge Robotics (YC S21) is hiring SWEs to build solar construction robots",
+      "https://www.workatastartup.com/jobs/51266"
+    ]
+  ],
+  [
+    [
       "2024-06-22, 20:18:23",
       "https://news.ycombinator.com/item?id=40761837"
     ],
@@ -47,16 +57,6 @@
     [
       "Testing AMD's Bergamo: Zen 4c",
       "https://chipsandcheese.com/2024/06/22/testing-amds-bergamo-zen-4c-spam/"
-    ]
-  ],
-  [
-    [
-      "2024-06-22, 17:00:58",
-      "https://news.ycombinator.com/item?id=40760433"
-    ],
-    [
-      "Trellis (YC W24) is hiring engineer to build AI-powered ETL for unstructured data",
-      "https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra"
     ]
   ],
   [
@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2024-06-22, 08:49:04",
-      "https://news.ycombinator.com/item?id=40757486"
-    ],
-    [
-      "Ask HN: Advice for Leading a Software Migration?",
-      "https://news.ycombinator.com/item?id=40757486"
-    ]
-  ],
-  [
-    [
       "2024-06-22, 03:59:41",
       "https://news.ycombinator.com/item?id=40756154"
     ],
@@ -207,6 +197,16 @@
     [
       "I kind of like rebasing",
       "https://rednafi.com/misc/on_rebasing/"
+    ]
+  ],
+  [
+    [
+      "2024-06-20, 18:42:44",
+      "https://news.ycombinator.com/item?id=40741833"
+    ],
+    [
+      "Memory sealing for the GNU C Library",
+      "https://lwn.net/Articles/978010/"
     ]
   ],
   [
