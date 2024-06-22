@@ -101,6 +101,7 @@
 * [2024-06-19, 03:18:46](https://news.ycombinator.com/item?id=40724417) - [MacBook Air gets hosed in macOS 15 as Intel support fades](https://arstechnica.com/gadgets/2024/06/the-case-for-and-against-macos-15-sequoia-being-the-final-release-for-intel-macs/)
 * [2024-06-19, 02:50:32](https://news.ycombinator.com/item?id=40724283) - [Google Gemini tried to kill me](https://old.reddit.com/r/ChatGPT/comments/1diljf2/google_gemini_tried_to_kill_me/)
 * [2024-06-19, 02:35:36](https://news.ycombinator.com/item?id=40724201) - [U.S. Senate passes bill to support advanced nuclear energy deployment](https://www.reuters.com/business/energy/us-senate-passes-bill-support-advanced-nuclear-energy-deployment-2024-06-19/)
+* [2024-06-19, 01:42:32](https://news.ycombinator.com/item?id=40723946) - [Smalltalk syntax in 7 minutes [video]](https://www.youtube.com/watch?v=WfAbOlmULjk)
 * [2024-06-19, 01:11:00](https://news.ycombinator.com/item?id=40723758) - [Willie Mays, SF Giants legend and MLB all-time great, is dead](https://www.sfchronicle.com/sports/giants/article/willie-mays-dead-obituary-17815215.php)
 * [2024-06-19, 00:23:20](https://news.ycombinator.com/item?id=40723465) - [California Moves to Modify Law Letting Workers Sue Employers](https://www.nytimes.com/2024/06/18/business/economy/california-newsom-labor.html)
 * [2024-06-19, 00:12:20](https://news.ycombinator.com/item?id=40723411) - [One in four US households likely exceed new soil lead guidance levels](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024GH001045)

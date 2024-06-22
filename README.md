@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-22, 08:52:24](https://news.ycombinator.com/item?id=40757496) - [I Love You! Yes, You!](https://schizophrenic.io/blog/i-love-you)
+* [2024-06-22, 10:03:10](https://news.ycombinator.com/item?id=40757775) - [Aphantasia: I can not picture things in my mind](https://www.theguardian.com/wellness/2024/feb/26/what-is-aphantasia-like)
 * [2024-06-22, 08:28:52](https://news.ycombinator.com/item?id=40757411) - [Why Swift's type checker is so slow](https://danielchasehooper.com/posts/why-swift-is-slow/?continueFlag=7ec373c00bdf01cb02736c00eeaadcc8)
 * [2024-06-22, 07:00:19](https://news.ycombinator.com/item?id=40757017) - [Photoroom (YC S20) Is Hiring a Django Back End Lead in Paris (PostgreSQL, REST)](https://jobs.lever.co/photoroom/b3661dfc-72c8-441b-8483-c0f8596af452?lever-origin=applied&lever-source%5B%5D=yc)
 * [2024-06-22, 04:04:22](https://news.ycombinator.com/item?id=40756176) - [Language is primarily a tool for communication rather than thought [pdf]](https://gwern.net/doc/psychology/linguistics/2024-fedorenko.pdf)
@@ -27,8 +27,8 @@
 * [2024-06-20, 11:00:27](https://news.ycombinator.com/item?id=40737226) - [20x Faster Background Removal in the Browser Using ONNX Runtime with WebGPU](https://img.ly/blog/browser-background-removal-using-onnx-runtime-webgpu/)
 * [2024-06-19, 17:06:04](https://news.ycombinator.com/item?id=40730153) - [Intel 3 Represents an Intel Foundry Milestone](https://www.eetimes.com/intel-3-represents-an-intel-foundry-milestone/)
 * [2024-06-19, 14:36:30](https://news.ycombinator.com/item?id=40728714) - [Software design gets worse before it gets better](https://tidyfirst.substack.com/p/the-trough-of-despair)
+* [2024-06-19, 01:42:32](https://news.ycombinator.com/item?id=40723946) - [Smalltalk syntax in 7 minutes [video]](https://www.youtube.com/watch?v=WfAbOlmULjk)
 * [2024-06-18, 18:12:15](https://news.ycombinator.com/item?id=40720548) - [The Eggcorn Database](https://eggcorns.lascribe.net)
-* [2024-06-18, 15:54:14](https://news.ycombinator.com/item?id=40719278) - [An ingestible device to record gastric electrophysiological activity](https://medicalxpress.com/news/2024-06-ingestible-device-gastric-electrophysiological.html)
 * [2024-06-18, 02:45:57](https://news.ycombinator.com/item?id=40713595) - [An Introduction to Sleep Obfuscation for Malware (2023)](https://dtsec.us/2023-04-24-Sleep/)
 
 ## [Archives](archives/index.md)
