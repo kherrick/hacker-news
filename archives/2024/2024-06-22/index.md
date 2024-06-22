@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-22](index.md)
 
+* [2024-06-22, 16:08:08](https://news.ycombinator.com/item?id=40760042) - [Creative workers deserve better than a choice as to who rips them off](https://pluralistic.net/2024/06/21/off-the-menu/)
+* [2024-06-22, 15:52:27](https://news.ycombinator.com/item?id=40759916) - [OpenAI, Anthropic ignoring rule that prevents bots scraping online content](https://www.businessinsider.com/openai-anthropic-ai-ignore-rule-scraping-web-contect-robotstxt)
+* [2024-06-22, 15:32:29](https://news.ycombinator.com/item?id=40759767) - [Microsoft insiders worry the company has become just 'IT for OpenAI'](https://www.businessinsider.com/microsoft-insiders-worry-company-has-become-just-it-for-openai-2024-3)
 * [2024-06-22, 15:23:31](https://news.ycombinator.com/item?id=40759712) - [Bedroom light at night increases inflammation and disrupts circadian rhythm](https://www.sciencedirect.com/science/article/pii/S0147651324006663)
 * [2024-06-22, 15:10:28](https://news.ycombinator.com/item?id=40759626) - [Training AI](https://lmnt.me/blog/training-ai.html)
 * [2024-06-22, 15:03:56](https://news.ycombinator.com/item?id=40759585) - [Sheryl Crow: 'Resurrecting Tupac with AI Is Hateful'](https://www.bbc.com/news/articles/cn00e695lpvo)

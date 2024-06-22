@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-22, 16:08:08](https://news.ycombinator.com/item?id=40760042) - [Creative workers deserve better than a choice as to who rips them off](https://pluralistic.net/2024/06/21/off-the-menu/)
+* [2024-06-22, 15:52:27](https://news.ycombinator.com/item?id=40759916) - [OpenAI, Anthropic ignoring rule that prevents bots scraping online content](https://www.businessinsider.com/openai-anthropic-ai-ignore-rule-scraping-web-contect-robotstxt)
+* [2024-06-22, 15:32:29](https://news.ycombinator.com/item?id=40759767) - [Microsoft insiders worry the company has become just 'IT for OpenAI'](https://www.businessinsider.com/microsoft-insiders-worry-company-has-become-just-it-for-openai-2024-3)
 * [2024-06-22, 15:23:31](https://news.ycombinator.com/item?id=40759712) - [Bedroom light at night increases inflammation and disrupts circadian rhythm](https://www.sciencedirect.com/science/article/pii/S0147651324006663)
 * [2024-06-22, 15:10:28](https://news.ycombinator.com/item?id=40759626) - [Training AI](https://lmnt.me/blog/training-ai.html)
-* [2024-06-22, 15:03:56](https://news.ycombinator.com/item?id=40759585) - [Sheryl Crow: 'Resurrecting Tupac with AI Is Hateful'](https://www.bbc.com/news/articles/cn00e695lpvo)
 * [2024-06-22, 14:32:10](https://news.ycombinator.com/item?id=40759393) - ['Meridian': Why Netflix Is Helping Competitors with Content and Code (2016)](https://variety.com/2016/digital/news/netflix-meridian-imf-tools-open-source-1201859416/)
 * [2024-06-22, 14:21:21](https://news.ycombinator.com/item?id=40759333) - [HybridNeRF: Efficient Neural Rendering](https://haithemturki.com/hybrid-nerf/)
 * [2024-06-22, 12:49:18](https://news.ycombinator.com/item?id=40758767) - [After my dad died, I ran and sold his company (2018)](https://anandsanwal.me/2018/06/19/dad-company-sale/)
@@ -15,10 +17,8 @@
 * [2024-06-21, 19:17:41](https://news.ycombinator.com/item?id=40752721) - [TSMC experimenting with rectangular wafers vs. round for more chips per wafer](https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-explores-radical-new-chip-packaging-approach-to-feed-AI-boom)
 * [2024-06-21, 17:33:28](https://news.ycombinator.com/item?id=40751813) - [Aster shootdown over Sydney in 1955](https://navyhistory.au/aster-shootdown-over-sydney-in-1955/)
 * [2024-06-21, 16:59:52](https://news.ycombinator.com/item?id=40751468) - [CRIU, a project to implement checkpoint/restore functionality for Linux](https://criu.org/Main_Page)
-* [2024-06-21, 16:30:17](https://news.ycombinator.com/item?id=40751178) - [Show HN: High-frequency trading and market-making backtesting tool with examples](https://github.com/nkaz001/hftbacktest/tree/master/rust)
 * [2024-06-21, 16:16:31](https://news.ycombinator.com/item?id=40751020) - [Testing Generative AI for Circuit Board Design](https://blog.jitx.com/jitx-corporate-blog/testing-generative-ai-for-circuit-board-design)
 * [2024-06-21, 15:16:16](https://news.ycombinator.com/item?id=40750506) - [Why does current flow the opposite way from the electrons?](https://mathstodon.xyz/@johncarlosbaez/112653640999819867)
-* [2024-06-21, 13:54:24](https://news.ycombinator.com/item?id=40749670) - [How does a computer/calculator compute logarithms?](https://zachartrand.github.io/SoME-3-Living/)
 * [2024-06-21, 13:30:21](https://news.ycombinator.com/item?id=40749426) - [From Infocom to 80 Days: An oral history of text games and interactive fiction](https://arstechnica.com/gaming/2024/06/from-infocom-to-80-days-an-oral-history-of-text-games-and-interactive-fiction/)
 * [2024-06-21, 06:30:02](https://news.ycombinator.com/item?id=40746773) - [Show HN: Eidos – Offline alternative to Notion](https://github.com/mayneyao/eidos)
 * [2024-06-21, 04:25:36](https://news.ycombinator.com/item?id=40746144) - [Using Stockfish to identify ideal squares](https://lichess.org/@/jk_182/blog/using-stockfish-to-identify-ideal-squares/x3U2g3NP)
@@ -28,8 +28,8 @@
 * [2024-06-20, 14:48:29](https://news.ycombinator.com/item?id=40739356) - [Curating my corner of the Internet with a freehand web editor](https://rafichaudhury.com/site/blog/Freehand-Web)
 * [2024-06-20, 14:17:02](https://news.ycombinator.com/item?id=40739046) - [Connection Machine Lisp (1986)](https://dl.acm.org/doi/pdf/10.1145/319838.319870)
 * [2024-06-20, 13:25:52](https://news.ycombinator.com/item?id=40738534) - [Reconstructing Public Keys from Signatures](https://keymaterial.net/2024/06/15/reconstructing-public-keys-from-signatures/)
+* [2024-06-20, 08:05:13](https://news.ycombinator.com/item?id=40736174) - [As you learn Forth, it learns from you (1981)](https://jupiter-ace.co.uk/Forth_general_practical_computing8108.html)
 * [2024-06-20, 04:53:37](https://news.ycombinator.com/item?id=40735038) - [A New Kind Of Dance Science (combinatorics of social dancing)](https://zacksdancelab.com/blog/a-new-kind-of-dance-science/)
-* [2024-06-18, 02:45:57](https://news.ycombinator.com/item?id=40713595) - [An Introduction to Sleep Obfuscation for Malware (2023)](https://dtsec.us/2023-04-24-Sleep/)
 
 ## [Archives](archives/index.md)
 
