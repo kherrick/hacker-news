@@ -8,6 +8,7 @@
 * [2024-06-22, 20:01:41](https://news.ycombinator.com/item?id=40761713) - [HH70, the first high-temperature superconducting Tokamak achieves first plasma](https://www.energysingularity.cn/en/hh70-the-worlds-first-high-temperature-superconducting-tokamak-achieves-first-plasma/)
 * [2024-06-22, 19:45:38](https://news.ycombinator.com/item?id=40761606) - [AI is exhausting the power grid. Tech firms are seeking a miracle solution](https://www.msn.com/en-us/money/technology/ai-is-exhausting-the-power-grid-tech-firms-are-seeking-a-miracle-solution/ar-BB1oDl5z)
 * [2024-06-22, 19:30:32](https://news.ycombinator.com/item?id=40761505) - [Greece introduces the six day work week](https://www.dw.com/en/greece-introduces-the-six-day-work-week/a-69439050)
+* [2024-06-22, 19:26:18](https://news.ycombinator.com/item?id=40761465) - [A black hole of inexplicable mass](https://phys.org/news/2024-06-black-hole-inexplicable-mass-jwst.html)
 * [2024-06-22, 18:50:31](https://news.ycombinator.com/item?id=40761210) - [Second Canadian scientist alleges brain illness investigation was shut down](https://www.theguardian.com/world/article/2024/jun/21/second-canadian-scientist-alleges-brain-illness-investigation-was-shut-down)
 * [2024-06-22, 18:14:42](https://news.ycombinator.com/item?id=40760962) - [An Anatomy of Algorithm Aversion](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4865492)
 * [2024-06-22, 18:01:45](https://news.ycombinator.com/item?id=40760858) - [AWS Lambda Web Adapter](https://github.com/awslabs/aws-lambda-web-adapter)

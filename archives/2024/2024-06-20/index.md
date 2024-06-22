@@ -18,6 +18,7 @@
 * [2024-06-20, 20:31:40](https://news.ycombinator.com/item?id=40743028) - [What is ZIRP, and how did it impact the startup world?](https://www.ycombinator.com/blog/what-is-zirp-and-how-did-it-impact-the-startup-world/)
 * [2024-06-20, 20:28:57](https://news.ycombinator.com/item?id=40743003) - [Section 230 Sunset Act Would Cut Off Young People's Access to Online Communities](https://www.teenvogue.com/story/section-230-sunset-act-young-people)
 * [2024-06-20, 20:12:44](https://news.ycombinator.com/item?id=40742831) - [Ask HN: How do you stay organized for solo dev?](https://news.ycombinator.com/item?id=40742831)
+* [2024-06-20, 20:11:41](https://news.ycombinator.com/item?id=40742821) - [The Era of the Line Cook](https://www.newyorker.com/magazine/2024/06/24/the-era-of-the-line-cook)
 * [2024-06-20, 20:06:40](https://news.ycombinator.com/item?id=40742764) - [SUSE upgrades its distros with 19 years of support – no other Linux comes close](https://www.zdnet.com/article/suse-upgrades-its-distros-with-19-years-of-support-no-other-linux-comes-close/)
 * [2024-06-20, 20:02:04](https://news.ycombinator.com/item?id=40742719) - [Why is Android Development so difficult/complex? (compared to Web and Desktop)](https://news.ycombinator.com/item?id=40742719)
 * [2024-06-20, 20:01:52](https://news.ycombinator.com/item?id=40742714) - [S. D. Butler – War is a Racket [pdf]](https://kether.com/words/butler-smedley--war-is-a-racket-1.pdf)
