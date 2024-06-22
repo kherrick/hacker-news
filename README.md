@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-22, 12:59:25](https://news.ycombinator.com/item?id=40758830) - [EU interior ministers want to exempt themselves from chat control bulk scanning](https://www.eureporter.co/business/data/mass-surveillance-data/2024/04/15/leak-eu-interior-ministers-want-to-exempt-themselves-from-chat-control-bulk-scanning-of-private-messages/)
 * [2024-06-22, 12:49:18](https://news.ycombinator.com/item?id=40758767) - [After my dad died, I ran and sold his company (2018)](https://anandsanwal.me/2018/06/19/dad-company-sale/)
 * [2024-06-22, 12:00:39](https://news.ycombinator.com/item?id=40758415) - [PermitFlow (YC W22) Is Hiring Software Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 * [2024-06-22, 10:07:05](https://news.ycombinator.com/item?id=40757787) - [Own Constant Folder in C/C++](https://www.neilhenning.dev/posts/yourownconstantfolder/)
@@ -17,6 +16,7 @@
 * [2024-06-21, 15:16:16](https://news.ycombinator.com/item?id=40750506) - [Why does current flow the opposite way from the electrons?](https://mathstodon.xyz/@johncarlosbaez/112653640999819867)
 * [2024-06-21, 14:44:59](https://news.ycombinator.com/item?id=40750171) - [Twitter and the spread of academic knowledge](https://mattsclancy.substack.com/p/twitter-and-the-spread-of-academic)
 * [2024-06-21, 13:54:24](https://news.ycombinator.com/item?id=40749670) - [How does a computer/calculator compute logarithms?](https://zachartrand.github.io/SoME-3-Living/)
+* [2024-06-21, 13:49:55](https://news.ycombinator.com/item?id=40749624) - [Spending 3 months investigating a 7-year old bug and fixing it in 1 line of code](https://lemmy.world/post/16763534)
 * [2024-06-21, 13:30:21](https://news.ycombinator.com/item?id=40749426) - [From Infocom to 80 Days: An oral history of text games and interactive fiction](https://arstechnica.com/gaming/2024/06/from-infocom-to-80-days-an-oral-history-of-text-games-and-interactive-fiction/)
 * [2024-06-21, 09:40:40](https://news.ycombinator.com/item?id=40747845) - [Show HN: Lady Deirdre 2 – Rust Framework for Compilers and LSP Servers](https://github.com/Eliah-Lakhin/lady-deirdre)
 * [2024-06-21, 06:30:02](https://news.ycombinator.com/item?id=40746773) - [Show HN: Eidos – Offline alternative to Notion](https://github.com/mayneyao/eidos)
@@ -27,8 +27,8 @@
 * [2024-06-20, 14:17:02](https://news.ycombinator.com/item?id=40739046) - [Connection Machine Lisp (1986)](https://dl.acm.org/doi/pdf/10.1145/319838.319870)
 * [2024-06-20, 13:25:52](https://news.ycombinator.com/item?id=40738534) - [Reconstructing Public Keys from Signatures](https://keymaterial.net/2024/06/15/reconstructing-public-keys-from-signatures/)
 * [2024-06-19, 14:36:30](https://news.ycombinator.com/item?id=40728714) - [Software design gets worse before it gets better](https://tidyfirst.substack.com/p/the-trough-of-despair)
-* [2024-06-18, 20:39:05](https://news.ycombinator.com/item?id=40721995) - [Study suggests at-camera gaze can increase scores in simulated interviews](https://phys.org/news/2024-06-camera-scores-simulated.html)
 * [2024-06-18, 18:12:15](https://news.ycombinator.com/item?id=40720548) - [The Eggcorn Database](https://eggcorns.lascribe.net)
+* [2024-06-18, 13:47:18](https://news.ycombinator.com/item?id=40717823) - [The short, happy reign of CD-ROM](https://www.fastcompany.com/91128052/history-of-cd-roms-encarta-myst)
 * [2024-06-18, 02:45:57](https://news.ycombinator.com/item?id=40713595) - [An Introduction to Sleep Obfuscation for Malware (2023)](https://dtsec.us/2023-04-24-Sleep/)
 
 ## [Archives](archives/index.md)
