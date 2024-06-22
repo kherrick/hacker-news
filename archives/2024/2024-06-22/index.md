@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-22](index.md)
 
+* [2024-06-22, 18:14:42](https://news.ycombinator.com/item?id=40760962) - [An Anatomy of Algorithm Aversion](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4865492)
 * [2024-06-22, 17:36:39](https://news.ycombinator.com/item?id=40760687) - [Testing AMD's Bergamo: Zen 4c](https://chipsandcheese.com/2024/06/22/testing-amds-bergamo-zen-4c-spam/)
 * [2024-06-22, 17:19:36](https://news.ycombinator.com/item?id=40760552) - [GitHub Trending RSS](https://mshibanami.github.io/GitHubTrendingRSS/)
 * [2024-06-22, 17:18:25](https://news.ycombinator.com/item?id=40760546) - [German Court Fines Netflix €7.05M for Infringement of Broadcom HEVC Patent](https://www.broadcom.com/company/news/product-releases/61711)

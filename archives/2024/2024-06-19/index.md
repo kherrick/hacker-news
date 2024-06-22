@@ -55,6 +55,7 @@
 * [2024-06-19, 14:25:06](https://news.ycombinator.com/item?id=40728625) - [9p filesystem has been added to FreeBSD](https://cgit.freebsd.org/src/commit/?id=e97ad33a89a78f55280b0485b3249ee9b907a718)
 * [2024-06-19, 13:54:50](https://news.ycombinator.com/item?id=40728331) - [Can holographic optical storage displace Hard Disk Drives?](https://www.nature.com/articles/s44172-024-00225-0)
 * [2024-06-19, 13:46:12](https://news.ycombinator.com/item?id=40728245) - [Biocompatible electroluminescent device with enhanced luminance](https://www.nature.com/articles/s41528-024-00322-2)
+* [2024-06-19, 13:42:32](https://news.ycombinator.com/item?id=40728219) - [Who Owns Alexander the Great? It's a Diplomatic Minefield](https://www.nytimes.com/2024/06/19/world/europe/north-macedonia-history-statues.html)
 * [2024-06-19, 13:23:31](https://news.ycombinator.com/item?id=40728059) - [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/)
 * [2024-06-19, 13:20:01](https://news.ycombinator.com/item?id=40728032) - [Recovering an Agilent 2000A/3000A Oscilloscope with Corrupt Firmware NAND Flash](https://salvagedcircuitry.com/2000a-nand-recovery.html)
 * [2024-06-19, 12:41:30](https://news.ycombinator.com/item?id=40727715) - [Text-to-Music Editing for Music Language Models via Instruction Tuning](https://heymusic.ai/blog/papers/instruct-musicgen)
