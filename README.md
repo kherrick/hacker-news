@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-22, 03:34:39](https://news.ycombinator.com/item?id=40756034) - [Farm: Fast vite compatible build tool written in Rust](https://www.farmfe.org/)
+* [2024-06-22, 03:17:30](https://news.ycombinator.com/item?id=40755969) - [NASA indefinitely delays return of Starliner to review propulsion data](https://arstechnica.com/space/2024/06/nasa-indefinitely-delays-return-of-starliner-to-review-propulsion-data/)
 * [2024-06-22, 02:26:14](https://news.ycombinator.com/item?id=40755688) - [A Forth Story (1995)](https://groups.google.com/g/comp.lang.forth/c/ThWiGXwKqv4)
 * [2024-06-22, 01:57:18](https://news.ycombinator.com/item?id=40755563) - [Researchers describe how to tell if ChatGPT is confabulating](https://arstechnica.com/ai/2024/06/researchers-describe-how-to-tell-if-chatgpt-is-confabulating/)
-* [2024-06-22, 01:48:52](https://news.ycombinator.com/item?id=40755528) - [OWASP Juice Shop: Hacking a Modern Web Application](https://blog.javascripttoday.com/blog/hacking-a-web-application/)
 * [2024-06-22, 01:29:24](https://news.ycombinator.com/item?id=40755444) - [My Windows Computer Just Doesn't Feel Like Mine Anymore](https://www.howtogeek.com/my-windows-computer-just-doesnt-feel-like-mine-anymore/)
 * [2024-06-21, 23:41:22](https://news.ycombinator.com/item?id=40754982) - [MACH.2 Multi-Actuator Hard Drives](https://www.seagate.com/innovation/multi-actuator-hard-drives/)
 * [2024-06-21, 21:53:54](https://news.ycombinator.com/item?id=40754229) - [Internet Archive forced to remove 500k books after publishers' court win](https://arstechnica.com/tech-policy/2024/06/internet-archive-forced-to-remove-500000-books-after-publishers-court-win/)
@@ -16,7 +17,6 @@
 * [2024-06-21, 16:24:09](https://news.ycombinator.com/item?id=40751108) - [Self-driving Waymos secure final clearance for expansion beyond S.F](https://www.sfchronicle.com/bayarea/article/self-driving-cars-waymo-sf-19523750.php)
 * [2024-06-21, 16:16:31](https://news.ycombinator.com/item?id=40751020) - [Testing Generative AI for Circuit Board Design](https://blog.jitx.com/jitx-corporate-blog/testing-generative-ai-for-circuit-board-design)
 * [2024-06-21, 14:44:59](https://news.ycombinator.com/item?id=40750171) - [Twitter and the spread of academic knowledge](https://mattsclancy.substack.com/p/twitter-and-the-spread-of-academic)
-* [2024-06-21, 14:03:14](https://news.ycombinator.com/item?id=40749754) - [Innovation heroes are a sign of a dysfunctional organization](https://steveblank.substack.com/p/why-innovation-heroes-are-a-sign)
 * [2024-06-21, 13:54:24](https://news.ycombinator.com/item?id=40749670) - [How does a computer/calculator compute logarithms?](https://zachartrand.github.io/SoME-3-Living/)
 * [2024-06-21, 13:49:55](https://news.ycombinator.com/item?id=40749624) - [Spending 3 months investigating a 7-year old bug and fixing it in 1 line of code](https://lemmy.world/post/16763534)
 * [2024-06-21, 13:30:21](https://news.ycombinator.com/item?id=40749426) - [From Infocom to 80 Days: An oral history of text games and interactive fiction](https://arstechnica.com/gaming/2024/06/from-infocom-to-80-days-an-oral-history-of-text-games-and-interactive-fiction/)
