@@ -5,7 +5,7 @@
 * [2024-06-22, 03:34:39](https://news.ycombinator.com/item?id=40756034) - [Farm: Fast vite compatible build tool written in Rust](https://www.farmfe.org/)
 * [2024-06-22, 02:26:14](https://news.ycombinator.com/item?id=40755688) - [A Forth Story (1995)](https://groups.google.com/g/comp.lang.forth/c/ThWiGXwKqv4)
 * [2024-06-22, 01:48:52](https://news.ycombinator.com/item?id=40755528) - [OWASP Juice Shop: Hacking a Modern Web Application](https://blog.javascripttoday.com/blog/hacking-a-web-application/)
-* [2024-06-21, 21:53:54](https://news.ycombinator.com/item?id=40754229) - [Internet Archive forced to remove 500k books after publishers' court win](https://arstechnica.com/tech-policy/2024/06/internet-archive-forced-to-remove-500000-books-after-publishers-court-win/)
+* [2024-06-22, 01:29:24](https://news.ycombinator.com/item?id=40755444) - [My Windows Computer Just Doesn't Feel Like Mine Anymore](https://www.howtogeek.com/my-windows-computer-just-doesnt-feel-like-mine-anymore/)
 * [2024-06-21, 20:23:14](https://news.ycombinator.com/item?id=40753417) - [NTS (TeX reimplementation in Java from 2001) still compiles under Java 16](https://github.com/jamespfennell/new-typesetting-system)
 * [2024-06-21, 17:33:28](https://news.ycombinator.com/item?id=40751813) - [Aster shootdown over Sydney in 1955](https://navyhistory.au/aster-shootdown-over-sydney-in-1955/)
 * [2024-06-21, 16:59:52](https://news.ycombinator.com/item?id=40751468) - [CRIU, a project to implement checkpoint/restore functionality for Linux](https://criu.org/Main_Page)
