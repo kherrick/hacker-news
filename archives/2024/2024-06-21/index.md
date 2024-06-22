@@ -11,6 +11,7 @@
 * [2024-06-21, 22:25:36](https://news.ycombinator.com/item?id=40754501) - [The End-of-Line Story (2004)](https://www.rfc-editor.org/old/EOLstory.txt)
 * [2024-06-21, 22:22:07](https://news.ycombinator.com/item?id=40754471) - [The biggest CRT ever made: Sony's PVM-4300 – The Silicon Underground](https://dfarq.homeip.net/the-biggest-crt-ever-made-sonys-pvm-4300/)
 * [2024-06-21, 22:18:23](https://news.ycombinator.com/item?id=40754445) - [Daylight Computer tablet review](https://twitter.com/patio11/status/1804217931557171612)
+* [2024-06-21, 22:03:10](https://news.ycombinator.com/item?id=40754316) - [New heroes of spaceflight: Not the astronauts but the software nerds](https://www.washingtonpost.com/technology/2024/06/11/space-heroes-software-engineer/)
 * [2024-06-21, 21:53:54](https://news.ycombinator.com/item?id=40754229) - [Internet Archive forced to remove 500k books after publishers' court win](https://arstechnica.com/tech-policy/2024/06/internet-archive-forced-to-remove-500000-books-after-publishers-court-win/)
 * [2024-06-21, 21:10:28](https://news.ycombinator.com/item?id=40753856) - [Solving puzzles faster than humanly possible](https://biggieblog.com/solving-puzzles-faster-than-humanly-possible/)
 * [2024-06-21, 21:02:19](https://news.ycombinator.com/item?id=40753773) - [Hope without optimism – transcription of a talk by Dave Snowden (2022)](https://gist.github.com/owulveryck/4ac8c96c16f5a48de24f8a0e949ad9a5)

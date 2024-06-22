@@ -16,6 +16,7 @@
 * [2024-06-22, 03:59:41](https://news.ycombinator.com/item?id=40756154) - [Bringing Roman Light to Life](https://www.journals.uchicago.edu/doi/10.1086/731029)
 * [2024-06-21, 22:25:36](https://news.ycombinator.com/item?id=40754501) - [The End-of-Line Story (2004)](https://www.rfc-editor.org/old/EOLstory.txt)
 * [2024-06-21, 22:22:07](https://news.ycombinator.com/item?id=40754471) - [The biggest CRT ever made: Sony's PVM-4300 – The Silicon Underground](https://dfarq.homeip.net/the-biggest-crt-ever-made-sonys-pvm-4300/)
+* [2024-06-21, 22:03:10](https://news.ycombinator.com/item?id=40754316) - [New heroes of spaceflight: Not the astronauts but the software nerds](https://www.washingtonpost.com/technology/2024/06/11/space-heroes-software-engineer/)
 * [2024-06-21, 20:28:31](https://news.ycombinator.com/item?id=40753468) - [Uh-Oh: A story of SpaghettiOs and forgotten history](https://snackstack.net/2024/05/25/uh-oh-a-story-of-spaghettios-and-forgotten-history/)
 * [2024-06-21, 17:01:56](https://news.ycombinator.com/item?id=40751496) - [Babylon's Mystery Goddess](https://www.historytoday.com/archive/great-debates/babylons-mystery-goddess)
 * [2024-06-20, 20:11:41](https://news.ycombinator.com/item?id=40742821) - [The Era of the Line Cook](https://www.newyorker.com/magazine/2024/06/24/the-era-of-the-line-cook)
@@ -28,7 +29,6 @@
 * [2024-06-20, 11:40:54](https://news.ycombinator.com/item?id=40737511) - [The Pre-Scheme Restoration](https://prescheme.org/posts/announcing-the-pre-scheme-restoration.html)
 * [2024-06-20, 08:05:13](https://news.ycombinator.com/item?id=40736174) - [As you learn Forth, it learns from you (1981)](https://jupiter-ace.co.uk/Forth_general_practical_computing8108.html)
 * [2024-06-20, 04:53:37](https://news.ycombinator.com/item?id=40735038) - [A New Kind Of Dance Science (combinatorics of social dancing)](https://zacksdancelab.com/blog/a-new-kind-of-dance-science/)
-* [2024-06-19, 19:35:12](https://news.ycombinator.com/item?id=40731667) - [Can men live without war? (1956)](https://www.theatlantic.com/past/docs/issues/56feb/5602bush.htm)
 * [2024-06-17, 18:43:43](https://news.ycombinator.com/item?id=40709434) - [Scientists unlock secrets of how the third form of life makes energy](https://phys.org/news/2024-06-scientists-secrets-life-energy.html)
 
 ## [Archives](archives/index.md)
