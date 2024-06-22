@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-22](index.md)
 
+* [2024-06-22, 07:00:19](https://news.ycombinator.com/item?id=40757017) - [Photoroom (YC S20) Is Hiring a Django Back End Lead in Paris (PostgreSQL, REST)](https://jobs.lever.co/photoroom/b3661dfc-72c8-441b-8483-c0f8596af452?lever-origin=applied&lever-source%5B%5D=yc)
 * [2024-06-22, 05:09:58](https://news.ycombinator.com/item?id=40756441) - [Americans Have Lost the Plot on Cooking Oil](https://www.theatlantic.com/health/archive/2024/06/olive-oil-canola-cooking/678761/)
 * [2024-06-22, 04:04:22](https://news.ycombinator.com/item?id=40756176) - [Language is primarily a tool for communication rather than thought [pdf]](https://gwern.net/doc/psychology/linguistics/2024-fedorenko.pdf)
 * [2024-06-22, 03:34:39](https://news.ycombinator.com/item?id=40756034) - [Farm: Fast vite compatible build tool written in Rust](https://www.farmfe.org/)
