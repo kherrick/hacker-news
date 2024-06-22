@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-22](index.md)
 
+* [2024-06-22, 20:18:23](https://news.ycombinator.com/item?id=40761837) - [Solar generates fifth of global electricity on summer solstice midday peak](https://ember-climate.org/insights/in-brief/the-global-solar-revolution/)
 * [2024-06-22, 20:01:41](https://news.ycombinator.com/item?id=40761713) - [HH70, the first high-temperature superconducting Tokamak achieves first plasma](https://www.energysingularity.cn/en/hh70-the-worlds-first-high-temperature-superconducting-tokamak-achieves-first-plasma/)
 * [2024-06-22, 19:45:38](https://news.ycombinator.com/item?id=40761606) - [AI is exhausting the power grid. Tech firms are seeking a miracle solution](https://www.msn.com/en-us/money/technology/ai-is-exhausting-the-power-grid-tech-firms-are-seeking-a-miracle-solution/ar-BB1oDl5z)
 * [2024-06-22, 19:30:32](https://news.ycombinator.com/item?id=40761505) - [Greece introduces the six day work week](https://www.dw.com/en/greece-introduces-the-six-day-work-week/a-69439050)
