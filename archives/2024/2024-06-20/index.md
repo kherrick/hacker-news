@@ -37,6 +37,7 @@
 * [2024-06-20, 18:27:01](https://news.ycombinator.com/item?id=40741658) - [Lilly Alzheimer's drug gets unanimous backing of FDA panel](https://www.biopharmadive.com/news/donanemab-alzheimers-fda-advisers-panel-vote-lilly/718505/)
 * [2024-06-20, 17:50:22](https://news.ycombinator.com/item?id=40741304) - [Ask HN: Well architected React and Node repos?](https://news.ycombinator.com/item?id=40741304)
 * [2024-06-20, 17:42:31](https://news.ycombinator.com/item?id=40741241) - [Rust's concurrency model vs. Go's concurrency model](https://kerkour.com/rust-vs-go-concurrency-models-stackfull-vs-stackless-coroutines)
+* [2024-06-20, 17:42:02](https://news.ycombinator.com/item?id=40741236) - [Eight million pixels and counting: improving texture atlas allocation in Firefox](https://nical.github.io/posts/etagere.html)
 * [2024-06-20, 17:37:47](https://news.ycombinator.com/item?id=40741197) - [Small claims court became Meta's customer service hotline](https://www.engadget.com/how-small-claims-court-became-metas-customer-service-hotline-160224479.html)
 * [2024-06-20, 17:33:41](https://news.ycombinator.com/item?id=40741160) - [Instagram Recommends Sexual Videos to Accounts for 13-Year-Olds, Tests Show](https://www.wsj.com/tech/instagram-recommends-sexual-videos-to-accounts-for-13-year-olds-tests-show-b6123c65)
 * [2024-06-20, 17:30:45](https://news.ycombinator.com/item?id=40741132) - [Decompress Anything with \"X Uz\"](https://www.x-cmd.com/mod/zuz/)

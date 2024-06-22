@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-22](index.md)
 
+* [2024-06-22, 14:18:58](https://news.ycombinator.com/item?id=40759322) - [Harvard Study: Planetary Health Index Diet – lower mortality and 30% lower CO2](https://www.sciencedirect.com/science/article/abs/pii/S0002916524003897)
 * [2024-06-22, 14:03:03](https://news.ycombinator.com/item?id=40759228) - [CSS Tip: An em isn't an \"m\", but an ex is an \"x\"](https://blog.frankmtaylor.com/2012/01/25/css-font-size-an-em-isnt-an-m-but-an-ex-is-an-x/)
 * [2024-06-22, 12:59:25](https://news.ycombinator.com/item?id=40758830) - [EU interior ministers want to exempt themselves from chat control bulk scanning](https://www.eureporter.co/business/data/mass-surveillance-data/2024/04/15/leak-eu-interior-ministers-want-to-exempt-themselves-from-chat-control-bulk-scanning-of-private-messages/)
 * [2024-06-22, 12:49:18](https://news.ycombinator.com/item?id=40758767) - [After my dad died, I ran and sold his company (2018)](https://anandsanwal.me/2018/06/19/dad-company-sale/)
