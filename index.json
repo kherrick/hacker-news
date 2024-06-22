@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-22, 04:04:22",
+      "https://news.ycombinator.com/item?id=40756176"
+    ],
+    [
+      "Language is primarily a tool for communication rather than thought [pdf]",
+      "https://gwern.net/doc/psychology/linguistics/2024-fedorenko.pdf"
+    ]
+  ],
+  [
+    [
       "2024-06-22, 03:34:39",
       "https://news.ycombinator.com/item?id=40756034"
     ],
@@ -161,32 +171,12 @@
   ],
   [
     [
-      "2024-06-21, 14:44:59",
-      "https://news.ycombinator.com/item?id=40750171"
-    ],
-    [
-      "Twitter and the spread of academic knowledge",
-      "https://mattsclancy.substack.com/p/twitter-and-the-spread-of-academic"
-    ]
-  ],
-  [
-    [
       "2024-06-21, 13:54:24",
       "https://news.ycombinator.com/item?id=40749670"
     ],
     [
       "How does a computer/calculator compute logarithms?",
       "https://zachartrand.github.io/SoME-3-Living/"
-    ]
-  ],
-  [
-    [
-      "2024-06-21, 13:49:55",
-      "https://news.ycombinator.com/item?id=40749624"
-    ],
-    [
-      "Spending 3 months investigating a 7-year old bug and fixing it in 1 line of code",
-      "https://lemmy.world/post/16763534"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Show HN: Primeval Numbers",
       "https://aravind.rs/numbers"
+    ]
+  ],
+  [
+    [
+      "2024-06-20, 11:00:27",
+      "https://news.ycombinator.com/item?id=40737226"
+    ],
+    [
+      "20x Faster Background Removal in the Browser Using ONNX Runtime with WebGPU",
+      "https://img.ly/blog/browser-background-removal-using-onnx-runtime-webgpu/"
     ]
   ],
   [
