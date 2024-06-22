@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-22, 07:00:19](https://news.ycombinator.com/item?id=40757017) - [Photoroom (YC S20) Is Hiring a Django Back End Lead in Paris (PostgreSQL, REST)](https://jobs.lever.co/photoroom/b3661dfc-72c8-441b-8483-c0f8596af452?lever-origin=applied&lever-source%5B%5D=yc)
-* [2024-06-22, 05:09:58](https://news.ycombinator.com/item?id=40756441) - [Americans Have Lost the Plot on Cooking Oil](https://www.theatlantic.com/health/archive/2024/06/olive-oil-canola-cooking/678761/)
 * [2024-06-22, 04:04:22](https://news.ycombinator.com/item?id=40756176) - [Language is primarily a tool for communication rather than thought [pdf]](https://gwern.net/doc/psychology/linguistics/2024-fedorenko.pdf)
 * [2024-06-22, 03:34:39](https://news.ycombinator.com/item?id=40756034) - [Farm: Fast vite compatible build tool written in Rust](https://www.farmfe.org/)
 * [2024-06-22, 02:26:14](https://news.ycombinator.com/item?id=40755688) - [A Forth Story (1995)](https://groups.google.com/g/comp.lang.forth/c/ThWiGXwKqv4)
@@ -16,6 +15,7 @@
 * [2024-06-21, 16:16:31](https://news.ycombinator.com/item?id=40751020) - [Testing Generative AI for Circuit Board Design](https://blog.jitx.com/jitx-corporate-blog/testing-generative-ai-for-circuit-board-design)
 * [2024-06-21, 14:44:59](https://news.ycombinator.com/item?id=40750171) - [Twitter and the spread of academic knowledge](https://mattsclancy.substack.com/p/twitter-and-the-spread-of-academic)
 * [2024-06-21, 13:54:24](https://news.ycombinator.com/item?id=40749670) - [How does a computer/calculator compute logarithms?](https://zachartrand.github.io/SoME-3-Living/)
+* [2024-06-21, 13:49:55](https://news.ycombinator.com/item?id=40749624) - [Spending 3 months investigating a 7-year old bug and fixing it in 1 line of code](https://lemmy.world/post/16763534)
 * [2024-06-21, 13:30:21](https://news.ycombinator.com/item?id=40749426) - [From Infocom to 80 Days: An oral history of text games and interactive fiction](https://arstechnica.com/gaming/2024/06/from-infocom-to-80-days-an-oral-history-of-text-games-and-interactive-fiction/)
 * [2024-06-21, 09:40:40](https://news.ycombinator.com/item?id=40747845) - [Show HN: Lady Deirdre 2 – Rust Framework for Compilers and LSP Servers](https://github.com/Eliah-Lakhin/lady-deirdre)
 * [2024-06-21, 06:30:02](https://news.ycombinator.com/item?id=40746773) - [Show HN: Eidos – Offline alternative to Notion](https://github.com/mayneyao/eidos)
