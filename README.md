@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-22, 16:08:08](https://news.ycombinator.com/item?id=40760042) - [Creative workers deserve better than a choice as to who rips them off](https://pluralistic.net/2024/06/21/off-the-menu/)
+* [2024-06-22, 16:07:29](https://news.ycombinator.com/item?id=40760037) - [Impossibly thin fabric could cool you down by 16-plus degrees](https://www.fastcompany.com/91142992/this-impossibly-thin-fabric-could-cool-you-down-by-16-degrees)
+* [2024-06-22, 16:01:39](https://news.ycombinator.com/item?id=40759981) - [The devil is intelligence without love](https://www.ggnotes.com/the-devil-is-intelligence-without-love/)
 * [2024-06-22, 15:32:29](https://news.ycombinator.com/item?id=40759767) - [Microsoft insiders worry the company has become just 'IT for OpenAI'](https://www.businessinsider.com/microsoft-insiders-worry-company-has-become-just-it-for-openai-2024-3)
 * [2024-06-22, 15:23:31](https://news.ycombinator.com/item?id=40759712) - [Bedroom light at night increases inflammation and disrupts circadian rhythm](https://www.sciencedirect.com/science/article/pii/S0147651324006663)
 * [2024-06-22, 15:10:28](https://news.ycombinator.com/item?id=40759626) - [Training AI](https://lmnt.me/blog/training-ai.html)
@@ -20,7 +22,6 @@
 * [2024-06-21, 15:16:16](https://news.ycombinator.com/item?id=40750506) - [Why does current flow the opposite way from the electrons?](https://mathstodon.xyz/@johncarlosbaez/112653640999819867)
 * [2024-06-21, 13:30:21](https://news.ycombinator.com/item?id=40749426) - [From Infocom to 80 Days: An oral history of text games and interactive fiction](https://arstechnica.com/gaming/2024/06/from-infocom-to-80-days-an-oral-history-of-text-games-and-interactive-fiction/)
 * [2024-06-21, 06:30:02](https://news.ycombinator.com/item?id=40746773) - [Show HN: Eidos – Offline alternative to Notion](https://github.com/mayneyao/eidos)
-* [2024-06-21, 04:25:36](https://news.ycombinator.com/item?id=40746144) - [Using Stockfish to identify ideal squares](https://lichess.org/@/jk_182/blog/using-stockfish-to-identify-ideal-squares/x3U2g3NP)
 * [2024-06-20, 18:42:44](https://news.ycombinator.com/item?id=40741833) - [Memory sealing for the GNU C Library](https://lwn.net/Articles/978010/)
 * [2024-06-20, 17:42:02](https://news.ycombinator.com/item?id=40741236) - [Eight million pixels and counting: improving texture atlas allocation in Firefox (2021)](https://nical.github.io/posts/etagere.html)
 * [2024-06-20, 16:38:29](https://news.ycombinator.com/item?id=40740602) - [Atari 520ST Review in Creative Computing – By Paul Lefebvre](https://www.goto10retro.com/p/atari-520st-review-in-creative-computing)
@@ -29,7 +30,6 @@
 * [2024-06-20, 13:25:52](https://news.ycombinator.com/item?id=40738534) - [Reconstructing Public Keys from Signatures](https://keymaterial.net/2024/06/15/reconstructing-public-keys-from-signatures/)
 * [2024-06-20, 08:05:13](https://news.ycombinator.com/item?id=40736174) - [As you learn Forth, it learns from you (1981)](https://jupiter-ace.co.uk/Forth_general_practical_computing8108.html)
 * [2024-06-20, 04:53:37](https://news.ycombinator.com/item?id=40735038) - [A New Kind Of Dance Science (combinatorics of social dancing)](https://zacksdancelab.com/blog/a-new-kind-of-dance-science/)
-* [2024-06-18, 02:45:57](https://news.ycombinator.com/item?id=40713595) - [An Introduction to Sleep Obfuscation for Malware (2023)](https://dtsec.us/2023-04-24-Sleep/)
 
 ## [Archives](archives/index.md)
 
