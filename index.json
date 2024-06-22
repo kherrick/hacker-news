@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-22, 14:47:12",
+      "https://news.ycombinator.com/item?id=40759480"
+    ],
+    [
+      "$200-ish laptop with a 386 and 8MB of RAM is a modern take on Windows 3.1 era",
+      "https://arstechnica.com/gadgets/2024/06/the-ultimate-windows-3-1-laptop-sellers-behind-book-8088-are-back-with-pocket-386/"
+    ]
+  ],
+  [
+    [
+      "2024-06-22, 14:32:10",
+      "https://news.ycombinator.com/item?id=40759393"
+    ],
+    [
+      "'Meridian': Why Netflix Is Helping Competitors with Content and Code",
+      "https://variety.com/2016/digital/news/netflix-meridian-imf-tools-open-source-1201859416/"
+    ]
+  ],
+  [
+    [
       "2024-06-22, 14:21:21",
       "https://news.ycombinator.com/item?id=40759333"
     ],
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=40759228"
     ],
     [
-      "CSS Tip: An em isn't an \"m\", but an ex is an \"x\"",
+      "CSS Tip: An em isn't an \"m\", but an ex is an \"x\" (2012)",
       "https://blog.frankmtaylor.com/2012/01/25/css-font-size-an-em-isnt-an-m-but-an-ex-is-an-x/"
     ]
   ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2024-06-21, 16:24:09",
-      "https://news.ycombinator.com/item?id=40751108"
-    ],
-    [
-      "Self-driving Waymos secure final clearance for expansion beyond S.F",
-      "https://www.sfchronicle.com/bayarea/article/self-driving-cars-waymo-sf-19523750.php"
-    ]
-  ],
-  [
-    [
       "2024-06-21, 16:16:31",
       "https://news.ycombinator.com/item?id=40751020"
     ],
@@ -187,16 +197,6 @@
     [
       "From Infocom to 80 Days: An oral history of text games and interactive fiction",
       "https://arstechnica.com/gaming/2024/06/from-infocom-to-80-days-an-oral-history-of-text-games-and-interactive-fiction/"
-    ]
-  ],
-  [
-    [
-      "2024-06-21, 09:40:40",
-      "https://news.ycombinator.com/item?id=40747845"
-    ],
-    [
-      "Show HN: Lady Deirdre 2 – Rust Framework for Compilers and LSP Servers",
-      "https://github.com/Eliah-Lakhin/lady-deirdre"
     ]
   ],
   [
