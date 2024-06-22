@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-06-22](index.md)
 
+* [2024-06-22, 11:21:31](https://news.ycombinator.com/item?id=40758160) - [Mr: Apple Intelligence Features Not Coming to EU at Launch Due to DMA](https://www.macrumors.com/2024/06/21/apple-intelligence-europe-delay/)
 * [2024-06-22, 10:07:05](https://news.ycombinator.com/item?id=40757787) - [Own Constant Folder in C/C++](https://www.neilhenning.dev/posts/yourownconstantfolder/)
 * [2024-06-22, 10:03:10](https://news.ycombinator.com/item?id=40757775) - [Aphantasia: I can not picture things in my mind](https://www.theguardian.com/wellness/2024/feb/26/what-is-aphantasia-like)
 * [2024-06-22, 09:33:08](https://news.ycombinator.com/item?id=40757655) - [Why Steve Jobs Went 'Thermonuclear' over Android (2014)](https://www.pcmag.com/opinions/why-steve-jobs-went-thermonuclear-over-android)
 * [2024-06-22, 09:18:16](https://news.ycombinator.com/item?id=40757600) - [When breast isn't best](https://thecritic.co.uk/when-breast-isnt-best/)
 * [2024-06-22, 08:52:24](https://news.ycombinator.com/item?id=40757496) - [I Love You! Yes, You!](https://schizophrenic.io/blog/i-love-you)
+* [2024-06-22, 08:48:41](https://news.ycombinator.com/item?id=40757484) - [The First Spatial Computing Hack](https://www.ryanpickren.com/vision-pro-hack)
 * [2024-06-22, 08:28:52](https://news.ycombinator.com/item?id=40757411) - [Why Swift's type checker is so slow](https://danielchasehooper.com/posts/why-swift-is-slow/?continueFlag=7ec373c00bdf01cb02736c00eeaadcc8)
 * [2024-06-22, 07:00:19](https://news.ycombinator.com/item?id=40757017) - [Photoroom (YC S20) Is Hiring a Django Back End Lead in Paris (PostgreSQL, REST)](https://jobs.lever.co/photoroom/b3661dfc-72c8-441b-8483-c0f8596af452?lever-origin=applied&lever-source%5B%5D=yc)
 * [2024-06-22, 06:09:59](https://news.ycombinator.com/item?id=40756744) - [Exposition of Front End Build Systems](https://sunsetglow.net/posts/frontend-build-systems.html)
