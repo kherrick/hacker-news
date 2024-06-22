@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-22, 17:19:36](https://news.ycombinator.com/item?id=40760552) - [GitHub Trending RSS](https://mshibanami.github.io/GitHubTrendingRSS/)
 * [2024-06-22, 17:18:25](https://news.ycombinator.com/item?id=40760546) - [German Court Fines Netflix €7.05M for Infringement of Broadcom HEVC Patent](https://www.broadcom.com/company/news/product-releases/61711)
 * [2024-06-22, 17:00:58](https://news.ycombinator.com/item?id=40760433) - [Trellis (YC W24) is hiring engineer to build AI-powered ETL for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
 * [2024-06-22, 16:08:08](https://news.ycombinator.com/item?id=40760042) - [Creative workers deserve better than a choice as to who rips them off](https://pluralistic.net/2024/06/21/off-the-menu/)
@@ -18,7 +19,6 @@
 * [2024-06-21, 16:59:52](https://news.ycombinator.com/item?id=40751468) - [CRIU, a project to implement checkpoint/restore functionality for Linux](https://criu.org/Main_Page)
 * [2024-06-21, 16:16:31](https://news.ycombinator.com/item?id=40751020) - [Testing Generative AI for Circuit Board Design](https://blog.jitx.com/jitx-corporate-blog/testing-generative-ai-for-circuit-board-design)
 * [2024-06-21, 15:16:16](https://news.ycombinator.com/item?id=40750506) - [Why does current flow the opposite way from the electrons?](https://mathstodon.xyz/@johncarlosbaez/112653640999819867)
-* [2024-06-21, 13:54:24](https://news.ycombinator.com/item?id=40749670) - [How does a computer/calculator compute logarithms?](https://zachartrand.github.io/SoME-3-Living/)
 * [2024-06-21, 13:30:21](https://news.ycombinator.com/item?id=40749426) - [From Infocom to 80 Days: An oral history of text games and interactive fiction](https://arstechnica.com/gaming/2024/06/from-infocom-to-80-days-an-oral-history-of-text-games-and-interactive-fiction/)
 * [2024-06-21, 06:30:02](https://news.ycombinator.com/item?id=40746773) - [Show HN: Eidos – Offline alternative to Notion](https://github.com/mayneyao/eidos)
 * [2024-06-21, 04:25:36](https://news.ycombinator.com/item?id=40746144) - [Using Stockfish to identify ideal squares](https://lichess.org/@/jk_182/blog/using-stockfish-to-identify-ideal-squares/x3U2g3NP)
