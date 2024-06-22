@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-22, 14:21:21](https://news.ycombinator.com/item?id=40759333) - [HybridNeRF: Efficient Neural Rendering](https://haithemturki.com/hybrid-nerf/)
 * [2024-06-22, 14:18:58](https://news.ycombinator.com/item?id=40759322) - [Harvard Study: Planetary Health Index Diet – lower mortality and 30% lower CO2](https://www.sciencedirect.com/science/article/abs/pii/S0002916524003897)
 * [2024-06-22, 14:03:03](https://news.ycombinator.com/item?id=40759228) - [CSS Tip: An em isn't an \"m\", but an ex is an \"x\"](https://blog.frankmtaylor.com/2012/01/25/css-font-size-an-em-isnt-an-m-but-an-ex-is-an-x/)
 * [2024-06-22, 12:49:18](https://news.ycombinator.com/item?id=40758767) - [After my dad died, I ran and sold his company (2018)](https://anandsanwal.me/2018/06/19/dad-company-sale/)
@@ -14,7 +15,6 @@
 * [2024-06-21, 17:33:28](https://news.ycombinator.com/item?id=40751813) - [Aster shootdown over Sydney in 1955](https://navyhistory.au/aster-shootdown-over-sydney-in-1955/)
 * [2024-06-21, 16:59:52](https://news.ycombinator.com/item?id=40751468) - [CRIU, a project to implement checkpoint/restore functionality for Linux](https://criu.org/Main_Page)
 * [2024-06-21, 16:30:17](https://news.ycombinator.com/item?id=40751178) - [Show HN: High-frequency trading and market-making backtesting tool with examples](https://github.com/nkaz001/hftbacktest/tree/master/rust)
-* [2024-06-21, 16:24:09](https://news.ycombinator.com/item?id=40751108) - [Self-driving Waymos secure final clearance for expansion beyond S.F](https://www.sfchronicle.com/bayarea/article/self-driving-cars-waymo-sf-19523750.php)
 * [2024-06-21, 16:16:31](https://news.ycombinator.com/item?id=40751020) - [Testing Generative AI for Circuit Board Design](https://blog.jitx.com/jitx-corporate-blog/testing-generative-ai-for-circuit-board-design)
 * [2024-06-21, 15:16:16](https://news.ycombinator.com/item?id=40750506) - [Why does current flow the opposite way from the electrons?](https://mathstodon.xyz/@johncarlosbaez/112653640999819867)
 * [2024-06-21, 13:54:24](https://news.ycombinator.com/item?id=40749670) - [How does a computer/calculator compute logarithms?](https://zachartrand.github.io/SoME-3-Living/)
