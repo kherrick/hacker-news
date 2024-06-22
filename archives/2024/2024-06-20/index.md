@@ -64,6 +64,7 @@
 * [2024-06-20, 15:05:14](https://news.ycombinator.com/item?id=40739549) - [Hobbyists who collect barf bags](https://www.cnn.com/2024/06/19/travel/barf-bag-collectors-hobby-cec/index.html)
 * [2024-06-20, 14:54:23](https://news.ycombinator.com/item?id=40739431) - [Ask HN: Could AI be a dot com sized bubble?](https://news.ycombinator.com/item?id=40739431)
 * [2024-06-20, 14:50:40](https://news.ycombinator.com/item?id=40739384) - [Calculating Empires: A Genealogy of Technology and Power Since 1500](https://calculatingempires.net/)
+* [2024-06-20, 14:48:29](https://news.ycombinator.com/item?id=40739356) - [Curating my corner of the Internet with a freehand web editor](https://rafichaudhury.com/site/blog/Freehand-Web)
 * [2024-06-20, 14:38:05](https://news.ycombinator.com/item?id=40739250) - [A Judge Made Houston the Top Bankruptcy Court and Helped His Girlfriend Cash In](https://www.wsj.com/finance/bankruptcy-court-houston-jones-freeman-dbba77e9)
 * [2024-06-20, 14:35:35](https://news.ycombinator.com/item?id=40739225) - [Optimizing AI Inference at Character.ai](https://research.character.ai/optimizing-inference/)
 * [2024-06-20, 14:23:24](https://news.ycombinator.com/item?id=40739108) - [EPA rule limiting certain 'forever chemicals' in drinking water is challenged](https://www.npr.org/2024/06/20/nx-s1-5006553/epa-rule-limiting-certain-forever-chemicals-in-drinking-water-is-challenged)
