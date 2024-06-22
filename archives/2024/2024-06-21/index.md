@@ -6,6 +6,7 @@
 
 * [2024-06-21, 23:49:05](https://news.ycombinator.com/item?id=40755014) - [Redbox missed a multimillion-dollar payment it couldn't afford to miss](https://www.theverge.com/2024/6/21/24183454/redbox-universal-missed-payment-17-million)
 * [2024-06-21, 23:41:22](https://news.ycombinator.com/item?id=40754982) - [Spinning hard disks with dual read-write heads exist](https://www.seagate.com/innovation/multi-actuator-hard-drives/)
+* [2024-06-21, 22:46:29](https://news.ycombinator.com/item?id=40754624) - [Technical Marvels, Part 3: The Yupana](https://cacm.acm.org/blogcacm/technical-marvels-part-3-the-yupana/)
 * [2024-06-21, 22:18:23](https://news.ycombinator.com/item?id=40754445) - [Daylight Computer tablet review](https://twitter.com/patio11/status/1804217931557171612)
 * [2024-06-21, 21:53:54](https://news.ycombinator.com/item?id=40754229) - [Internet Archive forced to remove 500k books after publishers' court win](https://arstechnica.com/tech-policy/2024/06/internet-archive-forced-to-remove-500000-books-after-publishers-court-win/)
 * [2024-06-21, 21:10:28](https://news.ycombinator.com/item?id=40753856) - [Solving puzzles faster than humanly possible](https://biggieblog.com/solving-puzzles-faster-than-humanly-possible/)

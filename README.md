@@ -8,6 +8,7 @@
 * [2024-06-22, 04:04:22](https://news.ycombinator.com/item?id=40756176) - [Language is primarily a tool for communication rather than thought [pdf]](https://gwern.net/doc/psychology/linguistics/2024-fedorenko.pdf)
 * [2024-06-22, 03:34:39](https://news.ycombinator.com/item?id=40756034) - [Farm: Fast vite compatible build tool written in Rust](https://www.farmfe.org/)
 * [2024-06-22, 02:26:14](https://news.ycombinator.com/item?id=40755688) - [A Forth Story (1995)](https://groups.google.com/g/comp.lang.forth/c/ThWiGXwKqv4)
+* [2024-06-21, 22:46:29](https://news.ycombinator.com/item?id=40754624) - [Technical Marvels, Part 3: The Yupana](https://cacm.acm.org/blogcacm/technical-marvels-part-3-the-yupana/)
 * [2024-06-21, 19:17:41](https://news.ycombinator.com/item?id=40752721) - [TSMC experimenting with rectangular wafers vs. round for more chips per wafer](https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-explores-radical-new-chip-packaging-approach-to-feed-AI-boom)
 * [2024-06-21, 17:33:28](https://news.ycombinator.com/item?id=40751813) - [Aster shootdown over Sydney in 1955](https://navyhistory.au/aster-shootdown-over-sydney-in-1955/)
 * [2024-06-21, 16:59:52](https://news.ycombinator.com/item?id=40751468) - [CRIU, a project to implement checkpoint/restore functionality for Linux](https://criu.org/Main_Page)
@@ -27,7 +28,6 @@
 * [2024-06-20, 14:48:29](https://news.ycombinator.com/item?id=40739356) - [Curating my corner of the Internet with a freehand web editor](https://rafichaudhury.com/site/blog/Freehand-Web)
 * [2024-06-20, 14:17:02](https://news.ycombinator.com/item?id=40739046) - [Connection Machine Lisp (1986)](https://dl.acm.org/doi/pdf/10.1145/319838.319870)
 * [2024-06-20, 13:25:52](https://news.ycombinator.com/item?id=40738534) - [Reconstructing Public Keys from Signatures](https://keymaterial.net/2024/06/15/reconstructing-public-keys-from-signatures/)
-* [2024-06-19, 14:36:30](https://news.ycombinator.com/item?id=40728714) - [Software design gets worse before it gets better](https://tidyfirst.substack.com/p/the-trough-of-despair)
 * [2024-06-18, 18:12:15](https://news.ycombinator.com/item?id=40720548) - [The Eggcorn Database](https://eggcorns.lascribe.net)
 * [2024-06-18, 02:45:57](https://news.ycombinator.com/item?id=40713595) - [An Introduction to Sleep Obfuscation for Malware (2023)](https://dtsec.us/2023-04-24-Sleep/)
 
