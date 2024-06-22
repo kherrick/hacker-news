@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-06-22](index.md)
+
+* [2024-06-22, 01:29:24](https://news.ycombinator.com/item?id=40755444) - [My Windows Computer Just Doesn't Feel Like Mine Anymore](https://www.howtogeek.com/my-windows-computer-just-doesnt-feel-like-mine-anymore/)
