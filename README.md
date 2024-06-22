@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-22, 19:30:32](https://news.ycombinator.com/item?id=40761505) - [Greece introduces the six day work week](https://www.dw.com/en/greece-introduces-the-six-day-work-week/a-69439050)
 * [2024-06-22, 18:14:42](https://news.ycombinator.com/item?id=40760962) - [An Anatomy of Algorithm Aversion](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4865492)
 * [2024-06-22, 18:01:45](https://news.ycombinator.com/item?id=40760858) - [AWS Lambda Web Adapter](https://github.com/awslabs/aws-lambda-web-adapter)
 * [2024-06-22, 17:36:39](https://news.ycombinator.com/item?id=40760687) - [Testing AMD's Bergamo: Zen 4c](https://chipsandcheese.com/2024/06/22/testing-amds-bergamo-zen-4c-spam/)
@@ -18,7 +19,6 @@
 * [2024-06-21, 22:46:29](https://news.ycombinator.com/item?id=40754624) - [Technical Marvels, Part 3: The Yupana](https://cacm.acm.org/blogcacm/technical-marvels-part-3-the-yupana/)
 * [2024-06-21, 19:17:41](https://news.ycombinator.com/item?id=40752721) - [TSMC experimenting with rectangular wafers vs. round for more chips per wafer](https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-explores-radical-new-chip-packaging-approach-to-feed-AI-boom)
 * [2024-06-21, 17:33:28](https://news.ycombinator.com/item?id=40751813) - [Aster shootdown over Sydney in 1955](https://navyhistory.au/aster-shootdown-over-sydney-in-1955/)
-* [2024-06-21, 16:59:52](https://news.ycombinator.com/item?id=40751468) - [CRIU, a project to implement checkpoint/restore functionality for Linux](https://criu.org/Main_Page)
 * [2024-06-21, 16:16:31](https://news.ycombinator.com/item?id=40751020) - [Testing Generative AI for Circuit Board Design](https://blog.jitx.com/jitx-corporate-blog/testing-generative-ai-for-circuit-board-design)
 * [2024-06-21, 15:16:16](https://news.ycombinator.com/item?id=40750506) - [Why does current flow the opposite way from the electrons?](https://mathstodon.xyz/@johncarlosbaez/112653640999819867)
 * [2024-06-20, 18:42:44](https://news.ycombinator.com/item?id=40741833) - [Memory sealing for the GNU C Library](https://lwn.net/Articles/978010/)

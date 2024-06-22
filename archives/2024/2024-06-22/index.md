@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-22](index.md)
 
+* [2024-06-22, 19:30:32](https://news.ycombinator.com/item?id=40761505) - [Greece introduces the six day work week](https://www.dw.com/en/greece-introduces-the-six-day-work-week/a-69439050)
 * [2024-06-22, 18:50:31](https://news.ycombinator.com/item?id=40761210) - [Second Canadian scientist alleges brain illness investigation was shut down](https://www.theguardian.com/world/article/2024/jun/21/second-canadian-scientist-alleges-brain-illness-investigation-was-shut-down)
 * [2024-06-22, 18:14:42](https://news.ycombinator.com/item?id=40760962) - [An Anatomy of Algorithm Aversion](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4865492)
 * [2024-06-22, 18:01:45](https://news.ycombinator.com/item?id=40760858) - [AWS Lambda Web Adapter](https://github.com/awslabs/aws-lambda-web-adapter)
