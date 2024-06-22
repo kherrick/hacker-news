@@ -109,6 +109,7 @@
 * [2024-06-20, 06:35:19](https://news.ycombinator.com/item?id=40735618) - [EU says Apple has serious issues for not complying with DMA](https://9to5mac.com/2024/06/19/eu-apple-issues-dma/)
 * [2024-06-20, 06:20:32](https://news.ycombinator.com/item?id=40735531) - [What Is a Personal User Manual?](https://futureforum.com/2022/07/15/personal-user-manual/)
 * [2024-06-20, 05:27:32](https://news.ycombinator.com/item?id=40735214) - [U.S. home prices have far outpaced paychecks. See what it looks like](https://www.npr.org/2024/06/20/nx-s1-5005972/home-prices-wages-paychecks-rent-housing-harvard-report)
+* [2024-06-20, 04:53:37](https://news.ycombinator.com/item?id=40735038) - [A New Kind Of Dance Science (combinatorics of social dancing)](https://zacksdancelab.com/blog/a-new-kind-of-dance-science/)
 * [2024-06-20, 04:17:08](https://news.ycombinator.com/item?id=40734846) - [Now is a good time to start a service business](https://www.zachocean.com/posts/service-business/)
 * [2024-06-20, 03:25:09](https://news.ycombinator.com/item?id=40734564) - [Bog Gravel Filtration: Water Cleaned by Mother Nature (2015)](https://www.pondtrademag.com/bog-gravel-filtration-water-cleaned-by-mother-nature/)
 * [2024-06-20, 03:24:41](https://news.ycombinator.com/item?id=40734560) - [Rosser's Theorem via Turing Machines (2011)](https://scottaaronson.blog/?p=710)
