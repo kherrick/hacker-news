@@ -32,6 +32,7 @@
 * [2024-06-20, 18:49:35](https://news.ycombinator.com/item?id=40741901) - [TikTok says US ban is inevitable without a court order blocking law](https://www.reuters.com/legal/tiktok-says-us-ban-is-inevitable-without-court-order-blocking-law-2024-06-20/)
 * [2024-06-20, 18:42:44](https://news.ycombinator.com/item?id=40741833) - [Memory sealing for the GNU C Library](https://lwn.net/Articles/978010/)
 * [2024-06-20, 18:41:06](https://news.ycombinator.com/item?id=40741818) - [FBI raids Oakland Mayor Sheng Thao's home, 3 other locations: source](https://abc7news.com/post/fbi-raided-oakland-mayor-sheng-thaos-home-sources/14980538/)
+* [2024-06-20, 18:33:22](https://news.ycombinator.com/item?id=40741723) - [Cognate: Readable and concise concatenative programming](https://cognate-lang.github.io/learn.html)
 * [2024-06-20, 18:32:31](https://news.ycombinator.com/item?id=40741711) - [Sloth search for Ruby Weekly – a 100 minute hack turned 20h open sauce project](https://slothfinder.apishop.io/)
 * [2024-06-20, 18:31:33](https://news.ycombinator.com/item?id=40741702) - [Cloudflare Connectivity Issues in Eastern US and Central Europe](https://www.cloudflarestatus.com/incidents/p7l6rrbhysck)
 * [2024-06-20, 18:28:27](https://news.ycombinator.com/item?id=40741672) - [Actor Donald Sutherland dies aged 88](https://www.bbc.com/news/articles/c9rrvdq3g9zo)

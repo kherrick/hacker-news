@@ -18,6 +18,7 @@
 * [2024-06-19, 20:09:38](https://news.ycombinator.com/item?id=40731922) - [X debut 40 years ago (1984)](https://www.talisman.org/x-debut.shtml)
 * [2024-06-19, 20:01:41](https://news.ycombinator.com/item?id=40731859) - [BBCode](https://en.wikipedia.org/wiki/BBCode)
 * [2024-06-19, 19:35:38](https://news.ycombinator.com/item?id=40731673) - [My personal reasons to not run my Nginx reverse-proxy inside Docker](https://ewaldbenes.com/blog/my-personal-reasons-to-not-run-my-nginx-reverse-proxy-inside-docker)
+* [2024-06-19, 19:35:12](https://news.ycombinator.com/item?id=40731667) - [Can men live without war? (1956)](https://www.theatlantic.com/past/docs/issues/56feb/5602bush.htm)
 * [2024-06-19, 19:10:33](https://news.ycombinator.com/item?id=40731448) - [Ilya Sutskever launches new AI company](https://techcrunch.com/2024/06/19/ilya-sutskever-openais-former-chief-scientist-launches-new-ai-company/)
 * [2024-06-19, 18:59:40](https://news.ycombinator.com/item?id=40731360) - [EasyOS: An Experimental Linux Distribution](https://easyos.org/)
 * [2024-06-19, 18:51:53](https://news.ycombinator.com/item?id=40731274) - [Discovery of new white blood cell function](https://www.cam.ac.uk/research/news/discovery-of-new-rules-of-the-immune-system-could-improve-treatment-of-inflammatory-diseases-say)
