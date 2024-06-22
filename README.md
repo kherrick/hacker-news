@@ -11,7 +11,6 @@
 * [2024-06-22, 01:48:52](https://news.ycombinator.com/item?id=40755528) - [OWASP Juice Shop: Hacking a Modern Web Application](https://blog.javascripttoday.com/blog/hacking-a-web-application/)
 * [2024-06-22, 01:29:24](https://news.ycombinator.com/item?id=40755444) - [My Windows Computer Just Doesn't Feel Like Mine Anymore](https://www.howtogeek.com/my-windows-computer-just-doesnt-feel-like-mine-anymore/)
 * [2024-06-21, 21:53:54](https://news.ycombinator.com/item?id=40754229) - [Internet Archive forced to remove 500k books after publishers' court win](https://arstechnica.com/tech-policy/2024/06/internet-archive-forced-to-remove-500000-books-after-publishers-court-win/)
-* [2024-06-21, 20:23:14](https://news.ycombinator.com/item?id=40753417) - [NTS (TeX reimplementation in Java from 2001) still compiles under Java 16](https://github.com/jamespfennell/new-typesetting-system)
 * [2024-06-21, 19:17:41](https://news.ycombinator.com/item?id=40752721) - [TSMC experimenting with rectangular wafers vs. round for more chips per wafer](https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-explores-radical-new-chip-packaging-approach-to-feed-AI-boom)
 * [2024-06-21, 17:33:28](https://news.ycombinator.com/item?id=40751813) - [Aster shootdown over Sydney in 1955](https://navyhistory.au/aster-shootdown-over-sydney-in-1955/)
 * [2024-06-21, 16:59:52](https://news.ycombinator.com/item?id=40751468) - [CRIU, a project to implement checkpoint/restore functionality for Linux](https://criu.org/Main_Page)
@@ -29,6 +28,7 @@
 * [2024-06-20, 11:00:27](https://news.ycombinator.com/item?id=40737226) - [20x Faster Background Removal in the Browser Using ONNX Runtime with WebGPU](https://img.ly/blog/browser-background-removal-using-onnx-runtime-webgpu/)
 * [2024-06-19, 14:36:30](https://news.ycombinator.com/item?id=40728714) - [Software design gets worse before it gets better](https://tidyfirst.substack.com/p/the-trough-of-despair)
 * [2024-06-19, 01:42:32](https://news.ycombinator.com/item?id=40723946) - [Smalltalk syntax in 7 minutes [video]](https://www.youtube.com/watch?v=WfAbOlmULjk)
+* [2024-06-18, 18:12:15](https://news.ycombinator.com/item?id=40720548) - [The Eggcorn Database](https://eggcorns.lascribe.net)
 * [2024-06-18, 02:45:57](https://news.ycombinator.com/item?id=40713595) - [An Introduction to Sleep Obfuscation for Malware (2023)](https://dtsec.us/2023-04-24-Sleep/)
 
 ## [Archives](archives/index.md)
