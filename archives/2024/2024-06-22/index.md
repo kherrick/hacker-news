@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-22](index.md)
 
+* [2024-06-22, 15:23:31](https://news.ycombinator.com/item?id=40759712) - [Bedroom light at night increases inflammation and disrupts circadian rhythm](https://www.sciencedirect.com/science/article/pii/S0147651324006663)
 * [2024-06-22, 15:10:28](https://news.ycombinator.com/item?id=40759626) - [Training AI](https://lmnt.me/blog/training-ai.html)
 * [2024-06-22, 15:03:56](https://news.ycombinator.com/item?id=40759585) - [Sheryl Crow: 'Resurrecting Tupac with AI Is Hateful'](https://www.bbc.com/news/articles/cn00e695lpvo)
 * [2024-06-22, 14:47:12](https://news.ycombinator.com/item?id=40759480) - [$200-ish laptop with a 386 and 8MB of RAM is a modern take on Windows 3.1 era](https://arstechnica.com/gadgets/2024/06/the-ultimate-windows-3-1-laptop-sellers-behind-book-8088-are-back-with-pocket-386/)
