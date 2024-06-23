@@ -2,6 +2,7 @@
 
 * [2024-06-23, 14:17:44](https://news.ycombinator.com/item?id=40767650) - [Traffic engineers build roads inviting crashes on outdated research, faulty data](https://theconversation.com/traffic-engineers-build-roads-that-invite-crashes-because-they-rely-on-outdated-research-and-faulty-data-223710)
 * [2024-06-23, 14:16:56](https://news.ycombinator.com/item?id=40767645) - [Picolisp a Railroad Simulation](https://picolisp-explored.com/a-railroad-simulation-with-des)
+* [2024-06-23, 13:54:22](https://news.ycombinator.com/item?id=40767487) - [A Person of Compute](https://geohot.github.io//blog/jekyll/update/2023/04/26/a-person-of-compute.html)
 * [2024-06-23, 13:49:30](https://news.ycombinator.com/item?id=40767459) - [Show HN: I am using AI to drop hats outside my window onto New Yorkers](https://dropofahat.zone/)
 * [2024-06-23, 13:22:23](https://news.ycombinator.com/item?id=40767299) - [Asynchronous Consensus Without Trusted Setup or Public-Key Cryptography](https://eprint.iacr.org/2024/677)
 * [2024-06-23, 12:51:31](https://news.ycombinator.com/item?id=40767108) - [I found an 8 years old bug in Xorg](https://trace.yshui.dev/2024-06-xorg-bug.html)
@@ -17,7 +18,6 @@
 * [2024-06-23, 03:23:03](https://news.ycombinator.com/item?id=40764507) - [Interface Upgrades in Go](http://avtok.com/2014/11/05/interface-upgrades.html)
 * [2024-06-23, 01:41:24](https://news.ycombinator.com/item?id=40763931) - [Words you can spell with a calculator](https://paperlined.org/apps/wikipedia/offsite_content/Calculator_spelling.txt)
 * [2024-06-22, 23:14:59](https://news.ycombinator.com/item?id=40763117) - [SSH as a Sudo Replacement](https://whynothugo.nl/journal/2024/06/13/ssh-as-a-sudo-replacement/)
-* [2024-06-22, 17:36:39](https://news.ycombinator.com/item?id=40760687) - [Testing AMD's Bergamo: Zen 4c](https://chipsandcheese.com/2024/06/22/testing-amds-bergamo-zen-4c-spam/)
 * [2024-06-22, 11:56:49](https://news.ycombinator.com/item?id=40758387) - [Coverage at a Crossroads](https://nedbatchelder.com/blog/202406/coverage_at_a_crossroads.html)
 * [2024-06-22, 11:44:04](https://news.ycombinator.com/item?id=40758302) - [Identifying Leap Years (2020)](https://davecturner.github.io/2020/08/07/leapyear-optimization.html)
 * [2024-06-22, 10:03:10](https://news.ycombinator.com/item?id=40757775) - [Aphantasia: I can not picture things in my mind](https://www.theguardian.com/wellness/2024/feb/26/what-is-aphantasia-like)

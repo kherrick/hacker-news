@@ -8,6 +8,7 @@
 * [2024-06-23, 14:16:56](https://news.ycombinator.com/item?id=40767645) - [Picolisp a Railroad Simulation](https://picolisp-explored.com/a-railroad-simulation-with-des)
 * [2024-06-23, 14:14:46](https://news.ycombinator.com/item?id=40767627) - [California AI bill becomes a lightning rod–for safety advocates and devs alike](https://thebulletin.org/2024/06/california-ai-bill-becomes-a-lightning-rod-for-safety-advocates-and-developers-alike/#post-heading)
 * [2024-06-23, 14:01:11](https://news.ycombinator.com/item?id=40767521) - [How GE Helped Launch The Computing Language That Changed The World (2019)](https://web.archive.org/web/20240222095617/https://www.ge.com/news/reports/basic-necessities-how-ge-helped-launch-the-computing-language-that-changed-the-world)
+* [2024-06-23, 13:54:22](https://news.ycombinator.com/item?id=40767487) - [A Person of Compute](https://geohot.github.io//blog/jekyll/update/2023/04/26/a-person-of-compute.html)
 * [2024-06-23, 13:49:30](https://news.ycombinator.com/item?id=40767459) - [Show HN: I am using AI to drop hats outside my window onto New Yorkers](https://dropofahat.zone/)
 * [2024-06-23, 13:22:23](https://news.ycombinator.com/item?id=40767299) - [Asynchronous Consensus Without Trusted Setup or Public-Key Cryptography](https://eprint.iacr.org/2024/677)
 * [2024-06-23, 12:51:31](https://news.ycombinator.com/item?id=40767108) - [I found an 8 years old bug in Xorg](https://trace.yshui.dev/2024-06-xorg-bug.html)
