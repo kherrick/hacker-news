@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-23, 00:04:21](https://news.ycombinator.com/item?id=40763405) - [A website where you write a message to the next visitor](https://www.dearnextvisitor.com/)
 * [2024-06-22, 23:18:29](https://news.ycombinator.com/item?id=40763133) - [Delving into ChatGPT usage in academic writing through excess vocabulary](https://arxiv.org/abs/2406.07016)
-* [2024-06-22, 22:36:34](https://news.ycombinator.com/item?id=40762840) - [Costco Broke into a Surprising New Market: Modular Housing](https://www.strongtowns.org/journal/2024/6/21/how-costco-broke-into-a-surprising-new-market-modular-housing)
+* [2024-06-22, 23:14:59](https://news.ycombinator.com/item?id=40763117) - [SSH as a Sudo Replacement](https://whynothugo.nl/journal/2024/06/13/ssh-as-a-sudo-replacement/)
 * [2024-06-22, 22:21:45](https://news.ycombinator.com/item?id=40762739) - [Daily Automated Testing for Milk-V Duo S RISC-V SBC (IKEA Tretakt, Apache NuttX)](https://lupyuen.codeberg.page/articles/sg2000a.html)
 * [2024-06-22, 21:38:18](https://news.ycombinator.com/item?id=40762433) - [Show HN: Simple script to cripple personalized targeting from Facebook](https://gist.github.com/HyperCrowd/edc9b461ec23cf2454ea4d1e910fd1c6)
 * [2024-06-22, 21:01:00](https://news.ycombinator.com/item?id=40762177) - [Charge Robotics (YC S21) is hiring SWEs to build solar construction robots](https://www.workatastartup.com/jobs/51266)
@@ -15,7 +16,7 @@
 * [2024-06-22, 14:12:02](https://news.ycombinator.com/item?id=40759277) - [Andrew S. Tanenbaum Receives ACM Software System Award](https://vu.nl/en/news/2024/andrew-s-tanenbaum-receives-acm-software-system-award)
 * [2024-06-22, 12:49:18](https://news.ycombinator.com/item?id=40758767) - [After my dad died, I ran and sold his company (2018)](https://anandsanwal.me/2018/06/19/dad-company-sale/)
 * [2024-06-22, 10:43:47](https://news.ycombinator.com/item?id=40757951) - [Show HN: I made tool that let's you see everything about any website](https://v1.web-check.xyz/)
-* [2024-06-22, 10:07:05](https://news.ycombinator.com/item?id=40757787) - [Own Constant Folder in C/C++](https://www.neilhenning.dev/posts/yourownconstantfolder/)
+* [2024-06-22, 10:03:10](https://news.ycombinator.com/item?id=40757775) - [Aphantasia: I can not picture things in my mind](https://www.theguardian.com/wellness/2024/feb/26/what-is-aphantasia-like)
 * [2024-06-21, 22:22:07](https://news.ycombinator.com/item?id=40754471) - [The biggest CRT ever made: Sony's PVM-4300](https://dfarq.homeip.net/the-biggest-crt-ever-made-sonys-pvm-4300/)
 * [2024-06-21, 20:28:31](https://news.ycombinator.com/item?id=40753468) - [Uh-Oh: A story of SpaghettiOs and forgotten history](https://snackstack.net/2024/05/25/uh-oh-a-story-of-spaghettios-and-forgotten-history/)
 * [2024-06-21, 17:01:56](https://news.ycombinator.com/item?id=40751496) - [Babylon's Mystery Goddess](https://www.historytoday.com/archive/great-debates/babylons-mystery-goddess)
@@ -28,7 +29,6 @@
 * [2024-06-20, 13:25:52](https://news.ycombinator.com/item?id=40738534) - [Reconstructing Public Keys from Signatures](https://keymaterial.net/2024/06/15/reconstructing-public-keys-from-signatures/)
 * [2024-06-20, 11:40:54](https://news.ycombinator.com/item?id=40737511) - [The Pre-Scheme Restoration](https://prescheme.org/posts/announcing-the-pre-scheme-restoration.html)
 * [2024-06-20, 08:05:13](https://news.ycombinator.com/item?id=40736174) - [As you learn Forth, it learns from you (1981)](https://jupiter-ace.co.uk/Forth_general_practical_computing8108.html)
-* [2024-06-19, 19:35:12](https://news.ycombinator.com/item?id=40731667) - [Can men live without war? (1956)](https://www.theatlantic.com/past/docs/issues/56feb/5602bush.htm)
 * [2024-06-17, 18:43:43](https://news.ycombinator.com/item?id=40709434) - [Scientists unlock secrets of how the third form of life makes energy](https://phys.org/news/2024-06-scientists-secrets-life-energy.html)
 
 ## [Archives](archives/index.md)

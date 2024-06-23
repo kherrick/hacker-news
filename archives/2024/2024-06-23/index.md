@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-06-23](index.md)
+
+* [2024-06-23, 00:04:21](https://news.ycombinator.com/item?id=40763405) - [A website where you write a message to the next visitor](https://www.dearnextvisitor.com/)
