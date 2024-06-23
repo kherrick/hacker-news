@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-23, 08:50:27](https://news.ycombinator.com/item?id=40765800) - [Why your brain is 3 milion more times efficient than GPT-4](https://grski.pl/vdb)
 * [2024-06-23, 07:50:21](https://news.ycombinator.com/item?id=40765509) - [Domino's retreats from Italy having failed to conquer the home of pizza (2022)](https://www.theguardian.com/world/2022/aug/10/dominos-retreats-from-italy-having-failed-to-conquer-the-home-of-the-pizza)
 * [2024-06-23, 06:26:22](https://news.ycombinator.com/item?id=40765183) - [I've Stopped Using Box Plots. Should You?](https://nightingaledvs.com/ive-stopped-using-box-plots-should-you/)
 * [2024-06-23, 06:22:05](https://news.ycombinator.com/item?id=40765171) - [Richard Stallman, su, and the 'wheel' group (2004)](https://www.meisterplanet.com/journal/2004/05/09/richard-stallman-su-and-the-wheel-group/)
@@ -25,11 +26,10 @@
 * [2024-06-22, 07:39:43](https://news.ycombinator.com/item?id=40757195) - [ECMA-17: Graphical representation of control characters (1968) [pdf]](https://ecma-international.org/wp-content/uploads/ECMA-17_1st_edition_november_1968.pdf)
 * [2024-06-21, 22:22:07](https://news.ycombinator.com/item?id=40754471) - [The biggest CRT ever made: Sony's PVM-4300](https://dfarq.homeip.net/the-biggest-crt-ever-made-sonys-pvm-4300/)
 * [2024-06-21, 21:02:19](https://news.ycombinator.com/item?id=40753773) - [Hope without optimism – transcription of a talk by Dave Snowden (2022)](https://gist.github.com/owulveryck/4ac8c96c16f5a48de24f8a0e949ad9a5)
-* [2024-06-21, 17:01:56](https://news.ycombinator.com/item?id=40751496) - [Babylon's Mystery Goddess](https://www.historytoday.com/archive/great-debates/babylons-mystery-goddess)
+* [2024-06-21, 03:05:17](https://news.ycombinator.com/item?id=40745718) - [Chimpanzees 'self-medicate' with healing plants](https://www.bbc.com/news/articles/ce994dv9q4eo)
 * [2024-06-20, 23:50:21](https://news.ycombinator.com/item?id=40744743) - [Flambda2 Ep. 2: Loopifying Tail-Recursive Functions](https://ocamlpro.com/blog/2024_05_07_the_flambda2_snippets_2/)
 * [2024-06-20, 19:55:17](https://news.ycombinator.com/item?id=40742628) - [I kind of like rebasing](https://rednafi.com/misc/on_rebasing/)
 * [2024-06-20, 11:40:54](https://news.ycombinator.com/item?id=40737511) - [The Pre-Scheme Restoration](https://prescheme.org/posts/announcing-the-pre-scheme-restoration.html)
-* [2024-06-20, 08:05:13](https://news.ycombinator.com/item?id=40736174) - [As you learn Forth, it learns from you (1981)](https://jupiter-ace.co.uk/Forth_general_practical_computing8108.html)
 
 ## [Archives](archives/index.md)
 

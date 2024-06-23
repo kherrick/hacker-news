@@ -100,6 +100,7 @@
 * [2024-06-21, 04:24:54](https://news.ycombinator.com/item?id=40746137) - [Always Already Programming](https://gist.github.com/melaniehoff/95ca90df7ca47761dc3d3d58fead22d4)
 * [2024-06-21, 03:34:50](https://news.ycombinator.com/item?id=40745890) - [Birth rates halve in richer countries as costs weigh, OECD report says](https://www.reuters.com/world/birth-rates-halve-richer-countries-costs-weigh-oecd-report-says-2024-06-20/)
 * [2024-06-21, 03:25:26](https://news.ycombinator.com/item?id=40745830) - [Homebrew board adds 8 layers, 16-bit color, sprite scaling and rotation to C64](https://github.com/martinpiper/BombJack/blob/master/README.md)
+* [2024-06-21, 03:05:17](https://news.ycombinator.com/item?id=40745718) - [Chimpanzees 'self-medicate' with healing plants](https://www.bbc.com/news/articles/ce994dv9q4eo)
 * [2024-06-21, 02:02:32](https://news.ycombinator.com/item?id=40745466) - [Comparing the Framework Laptop with the MacBook Air M2: A Detailed Review](https://quail.ink/lyric_na/p/comparing-the-framework-laptop-with-the-macbook-air-m2-a-detailed-review)
 * [2024-06-21, 02:01:58](https://news.ycombinator.com/item?id=40745462) - [Seven Conversation Hacks](https://randsinrepose.com/archives/seven-conversation-hacks/)
 * [2024-06-21, 01:37:57](https://news.ycombinator.com/item?id=40745332) - [Leachim – 4th grade teaching robot](https://en.wikipedia.org/wiki/Leachim_(Robot))
