@@ -107,6 +107,7 @@
 * [2024-06-21, 01:20:11](https://news.ycombinator.com/item?id=40745239) - [A ship off Israel's coast could shed light on the navigation of ancient mariners](https://phys.org/news/2024-06-ship-israel-coast-skills-ancient.html)
 * [2024-06-21, 01:12:53](https://news.ycombinator.com/item?id=40745200) - [Thoughts on Desktop Operating Systems in 2024](https://tbolt.space/2024/6/20/desktop-operating-systems-2024)
 * [2024-06-21, 01:02:02](https://news.ycombinator.com/item?id=40745151) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=40745151)
+* [2024-06-21, 00:58:40](https://news.ycombinator.com/item?id=40745133) - [Tonight with the Impressionists](https://mssv.net/2024/06/18/tonight-with-the-impressionists/)
 * [2024-06-21, 00:49:32](https://news.ycombinator.com/item?id=40745085) - [Melamine sponges shed microplastics when scrubbed](https://pubs.acs.org/doi/10.1021/acs.est.4c00846)
 * [2024-06-21, 00:33:41](https://news.ycombinator.com/item?id=40744983) - [Walking to combat back pain: study shows dramatic improvement](https://lighthouse.mq.edu.au/article/june-2024/walking-away-from-pain-world-first-study-shows-dramatic-improvement-in-lower-back-trouble)
 * [2024-06-21, 00:29:06](https://news.ycombinator.com/item?id=40744959) - [US Bans Kaspersky Software](https://www.wired.com/story/us-bans-kaspersky-software/)
