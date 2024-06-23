@@ -11,6 +11,36 @@
   ],
   [
     [
+      "2024-06-23, 20:02:33",
+      "https://news.ycombinator.com/item?id=40770171"
+    ],
+    [
+      "LINQPad – The .NET Programmer's Playground",
+      "https://www.linqpad.net/"
+    ]
+  ],
+  [
+    [
+      "2024-06-23, 19:54:46",
+      "https://news.ycombinator.com/item?id=40770130"
+    ],
+    [
+      "Looking ahead to 30 years of FreeDOS",
+      "https://www.both.org/?p=3991"
+    ]
+  ],
+  [
+    [
+      "2024-06-23, 19:43:52",
+      "https://news.ycombinator.com/item?id=40770049"
+    ],
+    [
+      "Renga 1.26 – An XMPP client for HaikuOS",
+      "https://pulkomandy.tk/projects/renga"
+    ]
+  ],
+  [
+    [
       "2024-06-23, 19:36:56",
       "https://news.ycombinator.com/item?id=40769994"
     ],
@@ -31,6 +61,16 @@
   ],
   [
     [
+      "2024-06-23, 19:19:01",
+      "https://news.ycombinator.com/item?id=40769867"
+    ],
+    [
+      "Deriving Dependently-Typed OOP from First Principles",
+      "https://arxiv.org/abs/2403.06707"
+    ]
+  ],
+  [
+    [
       "2024-06-23, 18:34:48",
       "https://news.ycombinator.com/item?id=40769516"
     ],
@@ -47,6 +87,16 @@
     [
       "Singapore doubles down on lab-grown meat as Silicon Valley backs off",
       "https://restofworld.org/2024/lab-grown-meat-singapore/"
+    ]
+  ],
+  [
+    [
+      "2024-06-23, 18:15:09",
+      "https://news.ycombinator.com/item?id=40769378"
+    ],
+    [
+      "Show HN: Tsellm: Interactive SQLite shell with LLM support",
+      "https://github.com/Florents-Tselai/tsellm"
     ]
   ],
   [
@@ -81,32 +131,12 @@
   ],
   [
     [
-      "2024-06-23, 16:11:45",
-      "https://news.ycombinator.com/item?id=40768448"
-    ],
-    [
-      "G'mic 3.4.0: Image Processing in Its Prime",
-      "https://gmic.eu/gmic340/"
-    ]
-  ],
-  [
-    [
       "2024-06-23, 15:38:19",
       "https://news.ycombinator.com/item?id=40768225"
     ],
     [
       "Arbitrary shell command evaluation in Org Mode (GNU Emacs)",
       "https://seclists.org/oss-sec/2024/q2/296"
-    ]
-  ],
-  [
-    [
-      "2024-06-23, 14:17:44",
-      "https://news.ycombinator.com/item?id=40767650"
-    ],
-    [
-      "Traffic engineers build roads relying on outdated research, faulty data",
-      "https://theconversation.com/traffic-engineers-build-roads-that-invite-crashes-because-they-rely-on-outdated-research-and-faulty-data-223710"
     ]
   ],
   [
@@ -147,16 +177,6 @@
     [
       "Asynchronous Consensus Without Trusted Setup or Public-Key Cryptography",
       "https://eprint.iacr.org/2024/677"
-    ]
-  ],
-  [
-    [
-      "2024-06-23, 12:51:31",
-      "https://news.ycombinator.com/item?id=40767108"
-    ],
-    [
-      "I found an 8 years old bug in Xorg",
-      "https://trace.yshui.dev/2024-06-xorg-bug.html"
     ]
   ],
   [
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2024-06-23, 05:56:43",
-      "https://news.ycombinator.com/item?id=40765094"
-    ],
-    [
-      "The City of London which is not part of London (2016)",
-      "https://www.thevintagenews.com/2016/08/02/explained-the-secret-city-of-london-which-is-not-part-of-london/"
-    ]
-  ],
-  [
-    [
       "2024-06-23, 01:41:24",
       "https://news.ycombinator.com/item?id=40763931"
     ],
     [
       "Words you can spell with a calculator (2005)",
       "https://paperlined.org/apps/wikipedia/offsite_content/Calculator_spelling.txt"
-    ]
-  ],
-  [
-    [
-      "2024-06-22, 23:14:59",
-      "https://news.ycombinator.com/item?id=40763117"
-    ],
-    [
-      "SSH as a Sudo Replacement",
-      "https://whynothugo.nl/journal/2024/06/13/ssh-as-a-sudo-replacement/"
     ]
   ],
   [
