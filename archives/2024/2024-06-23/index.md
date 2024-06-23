@@ -16,6 +16,7 @@
 * [2024-06-23, 09:38:44](https://news.ycombinator.com/item?id=40766071) - [BeyondCorp](https://research.google/pubs/beyondcorp-a-new-approach-to-enterprise-security/)
 * [2024-06-23, 09:14:45](https://news.ycombinator.com/item?id=40765938) - [Just open-sourced E25DX: a modern Hugo theme for tech documentations](https://github.com/dumindu/E25DX)
 * [2024-06-23, 09:02:48](https://news.ycombinator.com/item?id=40765872) - [Of Psion and Symbian](https://www.abortretry.fail/p/of-psion-and-symbian)
+* [2024-06-23, 08:53:01](https://news.ycombinator.com/item?id=40765808) - [Spotify and the big three labels collude to rip off artists](https://pluralistic.net/2024/06/21/off-the-menu/#universally-loathed)
 * [2024-06-23, 08:50:27](https://news.ycombinator.com/item?id=40765800) - [Why your brain is 3 milion more times efficient than GPT-4](https://grski.pl/vdb)
 * [2024-06-23, 08:42:03](https://news.ycombinator.com/item?id=40765761) - [The prevalence, persistence, and perils of lame delegations](https://blog.apnic.net/2021/03/16/the-prevalence-persistence-perils-of-lame-nameservers/)
 * [2024-06-23, 07:50:21](https://news.ycombinator.com/item?id=40765509) - [Domino's retreats from Italy having failed to conquer the home of pizza (2022)](https://www.theguardian.com/world/2022/aug/10/dominos-retreats-from-italy-having-failed-to-conquer-the-home-of-the-pizza)
