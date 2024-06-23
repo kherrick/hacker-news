@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-06-23, 01:41:24",
-      "https://news.ycombinator.com/item?id=40763931"
+      "2024-06-23, 04:52:38",
+      "https://news.ycombinator.com/item?id=40764901"
     ],
     [
-      "Words you can spell with a calculator",
-      "https://paperlined.org/apps/wikipedia/offsite_content/Calculator_spelling.txt"
+      "Native American Indian Star Charts",
+      "https://www.californiaindianeducation.org/science_lab/indian_stars.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-23, 03:34:44",
+      "https://news.ycombinator.com/item?id=40764579"
+    ],
+    [
+      "TinyLetter Shut Down by Mailchimp, So I Built the LetterDrop",
+      "https://github.com/i365dev/LetterDrop"
     ]
   ],
   [
@@ -67,16 +77,6 @@
     [
       "Daily Automated Testing for Milk-V Duo S RISC-V SBC (IKEA Tretakt, Apache NuttX)",
       "https://lupyuen.codeberg.page/articles/sg2000a.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-22, 21:38:18",
-      "https://news.ycombinator.com/item?id=40762433"
-    ],
-    [
-      "Show HN: Simple script to cripple personalized targeting from Facebook",
-      "https://gist.github.com/HyperCrowd/edc9b461ec23cf2454ea4d1e910fd1c6"
     ]
   ],
   [
@@ -251,22 +251,22 @@
   ],
   [
     [
+      "2024-06-20, 23:50:21",
+      "https://news.ycombinator.com/item?id=40744743"
+    ],
+    [
+      "Flambda2 Ep. 2: Loopifying Tail-Recursive Functions",
+      "https://ocamlpro.com/blog/2024_05_07_the_flambda2_snippets_2/"
+    ]
+  ],
+  [
+    [
       "2024-06-20, 19:55:17",
       "https://news.ycombinator.com/item?id=40742628"
     ],
     [
       "I kind of like rebasing",
       "https://rednafi.com/misc/on_rebasing/"
-    ]
-  ],
-  [
-    [
-      "2024-06-20, 13:25:52",
-      "https://news.ycombinator.com/item?id=40738534"
-    ],
-    [
-      "Reconstructing Public Keys from Signatures",
-      "https://keymaterial.net/2024/06/15/reconstructing-public-keys-from-signatures/"
     ]
   ],
   [
