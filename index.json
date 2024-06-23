@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-23, 18:45:59",
+      "https://news.ycombinator.com/item?id=40769607"
+    ],
+    [
+      "Some fundraisers pay >90% of the funds to themselves",
+      "https://www.propublica.org/article/political-nonprofits-fundraising-ftc-irs-527s-pacs"
+    ]
+  ],
+  [
+    [
+      "2024-06-23, 18:38:36",
+      "https://news.ycombinator.com/item?id=40769541"
+    ],
+    [
+      "Ask HN: What's the oldest file on your computer?",
+      "https://news.ycombinator.com/item?id=40769541"
+    ]
+  ],
+  [
+    [
       "2024-06-23, 18:34:48",
       "https://news.ycombinator.com/item?id=40769516"
     ],
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=40769362"
     ],
     [
-      "Start all of your commands with a comma",
+      "Start all of your commands with a comma (2009)",
       "https://rhodesmill.org/brandon/2009/commands-with-comma/"
     ]
   ],
@@ -87,16 +107,6 @@
     [
       "Arbitrary shell command evaluation in Org Mode (GNU Emacs)",
       "https://seclists.org/oss-sec/2024/q2/296"
-    ]
-  ],
-  [
-    [
-      "2024-06-23, 15:28:03",
-      "https://news.ycombinator.com/item?id=40768140"
-    ],
-    [
-      "Batteries as a Military Enabler",
-      "https://warontherocks.com/2024/06/batteries-as-a-military-enabler/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Coverage at a Crossroads",
       "https://nedbatchelder.com/blog/202406/coverage_at_a_crossroads.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-22, 07:39:43",
-      "https://news.ycombinator.com/item?id=40757195"
-    ],
-    [
-      "ECMA-17: Graphical representation of control characters (1968) [pdf]",
-      "https://ecma-international.org/wp-content/uploads/ECMA-17_1st_edition_november_1968.pdf"
     ]
   ],
   [
