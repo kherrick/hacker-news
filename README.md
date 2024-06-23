@@ -2,7 +2,6 @@
 
 * [2024-06-23, 19:20:25](https://news.ycombinator.com/item?id=40769880) - [Traffic noise hurts children's brains](https://www.bbc.com/future/article/20240621-how-traffic-noise-pollution-harms-childrens-health-and-development)
 * [2024-06-23, 18:45:59](https://news.ycombinator.com/item?id=40769607) - [Some fundraisers pay >90% of the funds to themselves](https://www.propublica.org/article/political-nonprofits-fundraising-ftc-irs-527s-pacs)
-* [2024-06-23, 18:38:36](https://news.ycombinator.com/item?id=40769541) - [Ask HN: What's the oldest file on your computer?](https://news.ycombinator.com/item?id=40769541)
 * [2024-06-23, 18:34:48](https://news.ycombinator.com/item?id=40769516) - [Review of Linux on Minisforum V3 AMD Ryzen Tablet](https://mudkip.me/2024/04/14/A-Brief-Review-of-the-Minisforum-V3-AMD-Tablet/)
 * [2024-06-23, 18:20:22](https://news.ycombinator.com/item?id=40769416) - [Singapore doubles down on lab-grown meat as Silicon Valley backs off](https://restofworld.org/2024/lab-grown-meat-singapore/)
 * [2024-06-23, 18:12:02](https://news.ycombinator.com/item?id=40769362) - [Start all of your commands with a comma (2009)](https://rhodesmill.org/brandon/2009/commands-with-comma/)
@@ -16,6 +15,7 @@
 * [2024-06-23, 14:02:08](https://news.ycombinator.com/item?id=40767529) - [SquirrelFS: Using the Rust compiler to check file-system crash consistency](https://arxiv.org/abs/2406.09649)
 * [2024-06-23, 13:49:30](https://news.ycombinator.com/item?id=40767459) - [I am using AI to drop hats outside my window onto New Yorkers](https://dropofahat.zone/)
 * [2024-06-23, 13:22:23](https://news.ycombinator.com/item?id=40767299) - [Asynchronous Consensus Without Trusted Setup or Public-Key Cryptography](https://eprint.iacr.org/2024/677)
+* [2024-06-23, 12:51:31](https://news.ycombinator.com/item?id=40767108) - [I found an 8 years old bug in Xorg](https://trace.yshui.dev/2024-06-xorg-bug.html)
 * [2024-06-23, 12:15:49](https://news.ycombinator.com/item?id=40766869) - [\"We argue that mitochondria are the processor of the cell\" (2022)](https://www.cell.com/action/showPdf?pii=S1550-4131%2822%2900459-4)
 * [2024-06-23, 12:01:45](https://news.ycombinator.com/item?id=40766791) - [Llama.ttf: A font which is also an LLM](https://fuglede.github.io/llama.ttf/)
 * [2024-06-23, 10:50:29](https://news.ycombinator.com/item?id=40766445) - [Character Tiling](http://uridiumauthor.blogspot.com/2024/06/character-tiling.html)
@@ -27,9 +27,9 @@
 * [2024-06-22, 23:14:59](https://news.ycombinator.com/item?id=40763117) - [SSH as a Sudo Replacement](https://whynothugo.nl/journal/2024/06/13/ssh-as-a-sudo-replacement/)
 * [2024-06-22, 12:28:42](https://news.ycombinator.com/item?id=40758618) - [Fixing a memory leak of xmlEntityPtr in librsvg](https://viruta.org/fixing-xml-entity-leak.html)
 * [2024-06-22, 10:54:14](https://news.ycombinator.com/item?id=40757996) - [Feral pigeons and the London Pigeon String Foot and Rescue group](https://www.bbc.com/future/article/20240620-why-do-people-persecute-city-pigeons)
-* [2024-06-22, 10:07:08](https://news.ycombinator.com/item?id=40757791) - [How to run an LLM on your PC, not in the cloud, in less than 10 minutes](https://www.theregister.com/2024/03/17/ai_pc_local_llm/)
 * [2024-06-22, 07:16:35](https://news.ycombinator.com/item?id=40757093) - [Hacking eInk Price Tags (2021)](https://dmitry.gr/?r=05.Projects&proj=29.%20eInk%20Price%20Tags)
 * [2024-06-22, 06:42:59](https://news.ycombinator.com/item?id=40756935) - [CHART: The Hackable Amateur Radio Telescope](https://astrochart.github.io/main_page)
+* [2024-06-21, 00:58:40](https://news.ycombinator.com/item?id=40745133) - [Tonight with the Impressionists](https://mssv.net/2024/06/18/tonight-with-the-impressionists/)
 
 ## [Archives](archives/index.md)
 
