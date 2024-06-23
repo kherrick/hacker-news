@@ -9,6 +9,8 @@
 * [2024-06-23, 14:01:11](https://news.ycombinator.com/item?id=40767521) - [How GE Helped Launch The Computing Language That Changed The World (2019)](https://web.archive.org/web/20240222095617/https://www.ge.com/news/reports/basic-necessities-how-ge-helped-launch-the-computing-language-that-changed-the-world)
 * [2024-06-23, 13:49:30](https://news.ycombinator.com/item?id=40767459) - [Show HN: I am using AI to drop hats outside my window onto New Yorkers](https://dropofahat.zone/)
 * [2024-06-23, 13:22:23](https://news.ycombinator.com/item?id=40767299) - [Asynchronous Consensus Without Trusted Setup or Public-Key Cryptography](https://eprint.iacr.org/2024/677)
+* [2024-06-23, 12:51:31](https://news.ycombinator.com/item?id=40767108) - [I found an 8 years old bug in Xorg](https://trace.yshui.dev/2024-06-xorg-bug.html)
+* [2024-06-23, 12:14:40](https://news.ycombinator.com/item?id=40766856) - [The Blank Sheet Method: From Passive Reading to Active Learning](https://fs.blog/blank-sheet-method/)
 * [2024-06-23, 12:01:45](https://news.ycombinator.com/item?id=40766791) - [Llama.ttf: A font which is also an LLM](https://fuglede.github.io/llama.ttf/)
 * [2024-06-23, 12:01:04](https://news.ycombinator.com/item?id=40766787) - [Deepnote (YC S19) is hiring engineers to build an AI data workspace](https://deepnote.com/join-us)
 * [2024-06-23, 11:56:11](https://news.ycombinator.com/item?id=40766757) - [The World Will Soon Witness \"One of the Rarest Space Events of Our Lives\"](https://www.iflscience.com/the-world-will-soon-witness-one-of-the-rarest-space-events-of-our-lives-74746)
