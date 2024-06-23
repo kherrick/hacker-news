@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-23, 02:08:24",
+      "https://news.ycombinator.com/item?id=40764106"
+    ],
+    [
+      "Is Guix full-source bootstrap a lie?",
+      "https://simon.tournier.info/posts/2023-10-01-bootstrapping.html"
+    ]
+  ],
+  [
+    [
       "2024-06-23, 01:39:33",
       "https://news.ycombinator.com/item?id=40763919"
     ],
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2024-06-20, 08:05:13",
-      "https://news.ycombinator.com/item?id=40736174"
+      "2024-06-20, 05:04:30",
+      "https://news.ycombinator.com/item?id=40735092"
     ],
     [
-      "As you learn Forth, it learns from you (1981)",
-      "https://jupiter-ace.co.uk/Forth_general_practical_computing8108.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-17, 18:43:43",
-      "https://news.ycombinator.com/item?id=40709434"
-    ],
-    [
-      "Scientists unlock secrets of how the third form of life makes energy",
-      "https://phys.org/news/2024-06-scientists-secrets-life-energy.html"
+      "Schema changes and the Postgres lock queue",
+      "https://xata.io/blog/migrations-and-exclusive-locks"
     ]
   ]
 ]
