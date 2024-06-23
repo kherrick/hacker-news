@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-06-23, 17:48:22",
+      "https://news.ycombinator.com/item?id=40769186"
+    ],
+    [
+      "How to Design an ISA",
+      "https://cacm.acm.org/practice/how-to-design-an-isa/"
+    ]
+  ],
+  [
+    [
       "2024-06-23, 17:38:13",
       "https://news.ycombinator.com/item?id=40769112"
     ],
@@ -111,6 +121,16 @@
   ],
   [
     [
+      "2024-06-23, 14:02:08",
+      "https://news.ycombinator.com/item?id=40767529"
+    ],
+    [
+      "SquirrelFS: Using the Rust compiler to check file-system crash consistency",
+      "https://arxiv.org/abs/2406.09649"
+    ]
+  ],
+  [
+    [
       "2024-06-23, 13:49:30",
       "https://news.ycombinator.com/item?id=40767459"
     ],
@@ -157,16 +177,6 @@
     [
       "Character Tiling",
       "http://uridiumauthor.blogspot.com/2024/06/character-tiling.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-23, 09:50:21",
-      "https://news.ycombinator.com/item?id=40766117"
-    ],
-    [
-      "The First Animal Ever Found That Doesn't Need Oxygen to Survive",
-      "https://www.sciencealert.com/this-is-the-first-animal-ever-found-that-doesnt-need-oxygen-to-survive"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2024-06-22, 08:11:13",
-      "https://news.ycombinator.com/item?id=40757335"
-    ],
-    [
-      "Shape Rotation 101: An Intro to Einsum and Jax Transformers",
-      "https://sankalp.bearblog.dev/einsum-new/"
-    ]
-  ],
-  [
-    [
       "2024-06-22, 07:39:43",
       "https://news.ycombinator.com/item?id=40757195"
     ],
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2024-06-21, 22:22:07",
-      "https://news.ycombinator.com/item?id=40754471"
-    ],
-    [
-      "The biggest CRT ever made: Sony's PVM-4300",
-      "https://dfarq.homeip.net/the-biggest-crt-ever-made-sonys-pvm-4300/"
-    ]
-  ],
-  [
-    [
       "2024-06-21, 00:58:40",
       "https://news.ycombinator.com/item?id=40745133"
     ],
@@ -297,6 +287,16 @@
     [
       "The Pre-Scheme Restoration",
       "https://prescheme.org/posts/announcing-the-pre-scheme-restoration.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-18, 12:45:02",
+      "https://news.ycombinator.com/item?id=40717172"
+    ],
+    [
+      "The ChatGPT Linux System",
+      "https://incoherency.co.uk/blog/stories/chatgpt-linux.html"
     ]
   ]
 ]
