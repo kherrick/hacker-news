@@ -9,7 +9,7 @@
 * [2024-06-23, 18:32:10](https://news.ycombinator.com/item?id=40769496) - [Detecting hallucinations in large language models using semantic entropy](https://www.nature.com/articles/s41586-024-07421-0)
 * [2024-06-23, 18:20:22](https://news.ycombinator.com/item?id=40769416) - [Singapore doubles down on lab-grown meat as Silicon Valley backs off](https://restofworld.org/2024/lab-grown-meat-singapore/)
 * [2024-06-23, 18:12:02](https://news.ycombinator.com/item?id=40769362) - [Start all of your commands with a comma (2009)](https://rhodesmill.org/brandon/2009/commands-with-comma/)
-* [2024-06-23, 18:06:52](https://news.ycombinator.com/item?id=40769325) - [82 Copies of Shakespeare's First Folio on Display at Folger Shakespeare Library](https://www.npr.org/2024/06/19/nx-s1-4950096/folger-shakespeare-library-renovation)
+* [2024-06-23, 18:06:52](https://news.ycombinator.com/item?id=40769325) - [Much Ado About First Folios — the world's largest Shakespeare collection reopens](https://www.npr.org/2024/06/19/nx-s1-4950096/folger-shakespeare-library-renovation)
 * [2024-06-23, 17:42:02](https://news.ycombinator.com/item?id=40769145) - [Optimizing the Roc parser/compiler with data-oriented design](https://tweedegolf.nl/en/blog/88/data-oriented-design)
 * [2024-06-23, 17:22:52](https://news.ycombinator.com/item?id=40769001) - [The tiny chip that powers Montreal subway tickets](http://www.righto.com/2024/06/montreal-mifare-ultralight-nfc.html)
 * [2024-06-23, 16:35:57](https://news.ycombinator.com/item?id=40768666) - [US Forest Service proposes protections for old-growth trees, without logging ban](https://www.opb.org/article/2024/06/22/us-forest-service-old-growth-tree-protections-proposal/)
