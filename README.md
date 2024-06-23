@@ -3,6 +3,7 @@
 * [2024-06-23, 21:00:57](https://news.ycombinator.com/item?id=40770554) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-06-23, 20:39:35](https://news.ycombinator.com/item?id=40770430) - [Writing an IR from Scratch and survive to write a post](https://farena.in/compilers/programming/writing-an-ir-from-scratch/)
 * [2024-06-23, 20:02:33](https://news.ycombinator.com/item?id=40770171) - [LINQPad – The .NET Programmer's Playground](https://www.linqpad.net/)
+* [2024-06-23, 19:36:52](https://news.ycombinator.com/item?id=40769993) - [The Encyclopedia Project, or How to Know in the Age of AI](https://www.publicbooks.org/the-encyclopedia-project-or-how-to-know-in-the-age-of-ai/)
 * [2024-06-23, 19:20:25](https://news.ycombinator.com/item?id=40769880) - [Traffic noise hurts children's brains](https://www.bbc.com/future/article/20240621-how-traffic-noise-pollution-harms-childrens-health-and-development)
 * [2024-06-23, 19:19:01](https://news.ycombinator.com/item?id=40769867) - [Deriving Dependently-Typed OOP from First Principles](https://arxiv.org/abs/2403.06707)
 * [2024-06-23, 19:06:12](https://news.ycombinator.com/item?id=40769759) - [Y combinator codex](https://phoe.github.io/codex.html)
@@ -23,13 +24,12 @@
 * [2024-06-23, 10:50:29](https://news.ycombinator.com/item?id=40766445) - [Character Tiling](http://uridiumauthor.blogspot.com/2024/06/character-tiling.html)
 * [2024-06-23, 09:40:34](https://news.ycombinator.com/item?id=40766079) - [Timeliness without datagrams using QUIC](https://quic.video/blog/never-use-datagrams/)
 * [2024-06-23, 09:02:48](https://news.ycombinator.com/item?id=40765872) - [Of Psion and Symbian](https://www.abortretry.fail/p/of-psion-and-symbian)
-* [2024-06-23, 01:41:24](https://news.ycombinator.com/item?id=40763931) - [Words you can spell with a calculator (2005)](https://paperlined.org/apps/wikipedia/offsite_content/Calculator_spelling.txt)
 * [2024-06-22, 12:55:53](https://news.ycombinator.com/item?id=40758802) - [The End-of-Line Story (2004)](https://www.rfc-editor.org/old/EOLstory.txt)
 * [2024-06-22, 12:28:42](https://news.ycombinator.com/item?id=40758618) - [Fixing a memory leak of xmlEntityPtr in librsvg](https://viruta.org/fixing-xml-entity-leak.html)
 * [2024-06-22, 10:54:14](https://news.ycombinator.com/item?id=40757996) - [Feral pigeons and the London Pigeon String Foot and Rescue group](https://www.bbc.com/future/article/20240620-why-do-people-persecute-city-pigeons)
 * [2024-06-22, 07:16:35](https://news.ycombinator.com/item?id=40757093) - [Hacking eInk Price Tags (2021)](https://dmitry.gr/?r=05.Projects&proj=29.%20eInk%20Price%20Tags)
 * [2024-06-22, 07:04:20](https://news.ycombinator.com/item?id=40757035) - [Adding view count and like button to 11ty](https://annoyscript.vercel.app/posts/Adding%20view%20count%20and%20like%20button%20to%2011ty/)
-* [2024-06-22, 06:42:59](https://news.ycombinator.com/item?id=40756935) - [CHART: The Hackable Amateur Radio Telescope](https://astrochart.github.io/main_page)
+* [2024-06-21, 21:25:33](https://news.ycombinator.com/item?id=40753989) - [Formal methods: Just good engineering practice?](https://brooker.co.za/blog/2024/04/17/formal.html)
 
 ## [Archives](archives/index.md)
 

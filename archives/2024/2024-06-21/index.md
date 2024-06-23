@@ -13,6 +13,7 @@
 * [2024-06-21, 22:18:23](https://news.ycombinator.com/item?id=40754445) - [Daylight Computer tablet review](https://twitter.com/patio11/status/1804217931557171612)
 * [2024-06-21, 22:03:10](https://news.ycombinator.com/item?id=40754316) - [New heroes of spaceflight: Not the astronauts but the software nerds](https://www.washingtonpost.com/technology/2024/06/11/space-heroes-software-engineer/)
 * [2024-06-21, 21:53:54](https://news.ycombinator.com/item?id=40754229) - [Internet Archive forced to remove 500k books after publishers' court win](https://arstechnica.com/tech-policy/2024/06/internet-archive-forced-to-remove-500000-books-after-publishers-court-win/)
+* [2024-06-21, 21:25:33](https://news.ycombinator.com/item?id=40753989) - [Formal methods: Just good engineering practice?](https://brooker.co.za/blog/2024/04/17/formal.html)
 * [2024-06-21, 21:10:28](https://news.ycombinator.com/item?id=40753856) - [Solving puzzles faster than humanly possible](https://biggieblog.com/solving-puzzles-faster-than-humanly-possible/)
 * [2024-06-21, 21:02:19](https://news.ycombinator.com/item?id=40753773) - [Hope without optimism – transcription of a talk by Dave Snowden (2022)](https://gist.github.com/owulveryck/4ac8c96c16f5a48de24f8a0e949ad9a5)
 * [2024-06-21, 21:00:43](https://news.ycombinator.com/item?id=40753752) - [Emerge Tools (YC W21) is hiring a senior front end engineer](https://www.emergetools.com/careers/jobs/senior-frontend-engineer)

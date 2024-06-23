@@ -14,6 +14,7 @@
 * [2024-06-23, 19:54:46](https://news.ycombinator.com/item?id=40770130) - [Looking ahead to 30 years of FreeDOS](https://www.both.org/?p=3991)
 * [2024-06-23, 19:43:52](https://news.ycombinator.com/item?id=40770049) - [Renga 1.26 – An XMPP client for HaikuOS](https://pulkomandy.tk/projects/renga)
 * [2024-06-23, 19:36:56](https://news.ycombinator.com/item?id=40769994) - [Top Libraries to Accelerate LLM Building](https://www.blog.aiport.tech/p/top-9-libraries-to-accelerate-llm)
+* [2024-06-23, 19:36:52](https://news.ycombinator.com/item?id=40769993) - [The Encyclopedia Project, or How to Know in the Age of AI](https://www.publicbooks.org/the-encyclopedia-project-or-how-to-know-in-the-age-of-ai/)
 * [2024-06-23, 19:20:25](https://news.ycombinator.com/item?id=40769880) - [Traffic noise hurts children's brains](https://www.bbc.com/future/article/20240621-how-traffic-noise-pollution-harms-childrens-health-and-development)
 * [2024-06-23, 19:19:01](https://news.ycombinator.com/item?id=40769867) - [Deriving Dependently-Typed OOP from First Principles](https://arxiv.org/abs/2403.06707)
 * [2024-06-23, 19:06:12](https://news.ycombinator.com/item?id=40769759) - [The Y Combinator Codex](https://phoe.github.io/codex.html)
