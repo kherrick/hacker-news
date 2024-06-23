@@ -48,6 +48,7 @@
 * [2024-06-22, 12:00:39](https://news.ycombinator.com/item?id=40758415) - [PermitFlow (YC W22) Is Hiring Software Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 * [2024-06-22, 11:56:49](https://news.ycombinator.com/item?id=40758387) - [Coverage at a Crossroads](https://nedbatchelder.com/blog/202406/coverage_at_a_crossroads.html)
 * [2024-06-22, 11:44:04](https://news.ycombinator.com/item?id=40758302) - [Identifying Leap Years](https://davecturner.github.io/2020/08/07/leapyear-optimization.html)
+* [2024-06-22, 11:37:29](https://news.ycombinator.com/item?id=40758254) - [Postgres Schema Changes and Locking](https://xata.io/blog/migrations-and-exclusive-locks)
 * [2024-06-22, 11:21:31](https://news.ycombinator.com/item?id=40758160) - [Mr: Apple Intelligence Features Not Coming to EU at Launch Due to DMA](https://www.macrumors.com/2024/06/21/apple-intelligence-europe-delay/)
 * [2024-06-22, 10:54:14](https://news.ycombinator.com/item?id=40757996) - [Feral pigeons and the London Pigeon String Foot and Rescue group](https://www.bbc.com/future/article/20240620-why-do-people-persecute-city-pigeons)
 * [2024-06-22, 10:43:47](https://news.ycombinator.com/item?id=40757951) - [Show HN: I made tool that let's you see everything about any website](https://v1.web-check.xyz/)
