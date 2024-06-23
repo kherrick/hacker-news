@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-06-23, 02:08:24",
-      "https://news.ycombinator.com/item?id=40764106"
-    ],
-    [
-      "Is Guix full-source bootstrap a lie?",
-      "https://simon.tournier.info/posts/2023-10-01-bootstrapping.html"
-    ]
-  ],
-  [
-    [
       "2024-06-23, 01:39:33",
       "https://news.ycombinator.com/item?id=40763919"
     ],
@@ -47,16 +37,6 @@
     [
       "OpenEMR: Open-source medical record software",
       "https://www.open-emr.org/"
-    ]
-  ],
-  [
-    [
-      "2024-06-23, 00:04:21",
-      "https://news.ycombinator.com/item?id=40763405"
-    ],
-    [
-      "A website where you write a message to the next visitor",
-      "https://www.dearnextvisitor.com/"
     ]
   ],
   [
@@ -101,16 +81,6 @@
   ],
   [
     [
-      "2024-06-22, 21:20:32",
-      "https://news.ycombinator.com/item?id=40762319"
-    ],
-    [
-      "Waymo the Leapfrog",
-      "https://loeber.substack.com/p/20-waymo-the-leapfrog"
-    ]
-  ],
-  [
-    [
       "2024-06-22, 21:01:00",
       "https://news.ycombinator.com/item?id=40762177"
     ],
@@ -127,6 +97,16 @@
     [
       "HH70, the first high-temperature superconducting Tokamak achieves first plasma",
       "https://www.energysingularity.cn/en/hh70-the-worlds-first-high-temperature-superconducting-tokamak-achieves-first-plasma/"
+    ]
+  ],
+  [
+    [
+      "2024-06-22, 18:01:45",
+      "https://news.ycombinator.com/item?id=40760858"
+    ],
+    [
+      "AWS Lambda Web Adapter",
+      "https://github.com/awslabs/aws-lambda-web-adapter"
     ]
   ],
   [
@@ -281,12 +261,32 @@
   ],
   [
     [
+      "2024-06-20, 13:25:52",
+      "https://news.ycombinator.com/item?id=40738534"
+    ],
+    [
+      "Reconstructing Public Keys from Signatures",
+      "https://keymaterial.net/2024/06/15/reconstructing-public-keys-from-signatures/"
+    ]
+  ],
+  [
+    [
       "2024-06-20, 11:40:54",
       "https://news.ycombinator.com/item?id=40737511"
     ],
     [
       "The Pre-Scheme Restoration",
       "https://prescheme.org/posts/announcing-the-pre-scheme-restoration.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-20, 08:05:13",
+      "https://news.ycombinator.com/item?id=40736174"
+    ],
+    [
+      "As you learn Forth, it learns from you (1981)",
+      "https://jupiter-ace.co.uk/Forth_general_practical_computing8108.html"
     ]
   ],
   [
