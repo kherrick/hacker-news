@@ -40,6 +40,7 @@
 * [2024-06-22, 14:12:02](https://news.ycombinator.com/item?id=40759277) - [Andrew S. Tanenbaum Receives ACM Software System Award](https://vu.nl/en/news/2024/andrew-s-tanenbaum-receives-acm-software-system-award)
 * [2024-06-22, 14:03:03](https://news.ycombinator.com/item?id=40759228) - [CSS Tip: An em isn't an \"m\", but an ex is an \"x\"](https://blog.frankmtaylor.com/2012/01/25/css-font-size-an-em-isnt-an-m-but-an-ex-is-an-x/)
 * [2024-06-22, 12:59:25](https://news.ycombinator.com/item?id=40758830) - [EU interior ministers want to exempt themselves from chat control bulk scanning](https://www.eureporter.co/business/data/mass-surveillance-data/2024/04/15/leak-eu-interior-ministers-want-to-exempt-themselves-from-chat-control-bulk-scanning-of-private-messages/)
+* [2024-06-22, 12:55:53](https://news.ycombinator.com/item?id=40758802) - [The End-of-Line Story (2004)](https://www.rfc-editor.org/old/EOLstory.txt)
 * [2024-06-22, 12:49:18](https://news.ycombinator.com/item?id=40758767) - [After my dad died, I ran and sold his company (2018)](https://anandsanwal.me/2018/06/19/dad-company-sale/)
 * [2024-06-22, 12:39:57](https://news.ycombinator.com/item?id=40758703) - [Show HN: Envelope – A modern environment variable cli tool](https://github.com/mattrighetti/envelope)
 * [2024-06-22, 12:31:05](https://news.ycombinator.com/item?id=40758638) - [Bugs, drugs and electric venom: is this the most deadly library in the world?](https://www.theguardian.com/science/article/2024/jun/22/bugs-drugs-and-electric-venom-is-this-the-most-deadly-library-in-the-world)
