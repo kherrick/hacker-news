@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-06-23, 21:15:01",
-      "https://news.ycombinator.com/item?id=40770624"
-    ],
-    [
-      "The pivot to AI: Pay no attention to the man behind the curtain",
-      "https://amycastor.com/2023/09/12/pivot-to-ai-pay-no-attention-to-the-man-behind-the-curtain/"
-    ]
-  ],
-  [
-    [
       "2024-06-23, 21:00:57",
       "https://news.ycombinator.com/item?id=40770554"
     ],
@@ -65,7 +55,7 @@
       "https://news.ycombinator.com/item?id=40769759"
     ],
     [
-      "The Y Combinator Codex",
+      "Y combinator codex",
       "https://phoe.github.io/codex.html"
     ]
   ],
@@ -97,16 +87,6 @@
     [
       "Singapore doubles down on lab-grown meat as Silicon Valley backs off",
       "https://restofworld.org/2024/lab-grown-meat-singapore/"
-    ]
-  ],
-  [
-    [
-      "2024-06-23, 18:15:09",
-      "https://news.ycombinator.com/item?id=40769378"
-    ],
-    [
-      "Show HN: Tsellm: Interactive SQLite shell with LLM support",
-      "https://github.com/Florents-Tselai/tsellm"
     ]
   ],
   [
@@ -261,6 +241,26 @@
   ],
   [
     [
+      "2024-06-23, 06:26:22",
+      "https://news.ycombinator.com/item?id=40765183"
+    ],
+    [
+      "I've stopped using box plots (2021)",
+      "https://nightingaledvs.com/ive-stopped-using-box-plots-should-you/"
+    ]
+  ],
+  [
+    [
+      "2024-06-23, 01:41:24",
+      "https://news.ycombinator.com/item?id=40763931"
+    ],
+    [
+      "Words you can spell with a calculator (2005)",
+      "https://paperlined.org/apps/wikipedia/offsite_content/Calculator_spelling.txt"
+    ]
+  ],
+  [
+    [
       "2024-06-22, 12:55:53",
       "https://news.ycombinator.com/item?id=40758802"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
-      "2024-06-22, 11:37:29",
-      "https://news.ycombinator.com/item?id=40758254"
-    ],
-    [
-      "Postgres Schema Changes and Locking",
-      "https://xata.io/blog/migrations-and-exclusive-locks"
-    ]
-  ],
-  [
-    [
       "2024-06-22, 10:54:14",
       "https://news.ycombinator.com/item?id=40757996"
     ],
     [
       "Feral pigeons and the London Pigeon String Foot and Rescue group",
       "https://www.bbc.com/future/article/20240620-why-do-people-persecute-city-pigeons"
+    ]
+  ],
+  [
+    [
+      "2024-06-22, 07:16:35",
+      "https://news.ycombinator.com/item?id=40757093"
+    ],
+    [
+      "Hacking eInk Price Tags (2021)",
+      "https://dmitry.gr/?r=05.Projects&proj=29.%20eInk%20Price%20Tags"
     ]
   ]
 ]
