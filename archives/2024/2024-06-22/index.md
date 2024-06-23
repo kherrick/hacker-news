@@ -55,6 +55,7 @@
 * [2024-06-22, 08:48:41](https://news.ycombinator.com/item?id=40757484) - [The First Spatial Computing Hack](https://www.ryanpickren.com/vision-pro-hack)
 * [2024-06-22, 08:28:52](https://news.ycombinator.com/item?id=40757411) - [Why Swift's type checker is so slow](https://danielchasehooper.com/posts/why-swift-is-slow/?continueFlag=7ec373c00bdf01cb02736c00eeaadcc8)
 * [2024-06-22, 08:11:13](https://news.ycombinator.com/item?id=40757335) - [Shape Rotation 101: An Intro to Einsum and Jax Transformers](https://sankalp.bearblog.dev/einsum-new/)
+* [2024-06-22, 07:47:55](https://news.ycombinator.com/item?id=40757232) - [DOS game \"F15 SE II\" reversing: more stories and now on GitHub](https://github.com/neuviemeporte/f15se2-re)
 * [2024-06-22, 07:39:43](https://news.ycombinator.com/item?id=40757195) - [ECMA-17: Graphical representation of control characters (1968) [pdf]](https://ecma-international.org/wp-content/uploads/ECMA-17_1st_edition_november_1968.pdf)
 * [2024-06-22, 07:00:19](https://news.ycombinator.com/item?id=40757017) - [Photoroom (YC S20) Is Hiring a Django Back End Lead in Paris (PostgreSQL, REST)](https://jobs.lever.co/photoroom/b3661dfc-72c8-441b-8483-c0f8596af452?lever-origin=applied&lever-source%5B%5D=yc)
 * [2024-06-22, 06:15:29](https://news.ycombinator.com/item?id=40756771) - [Universality and Diversity in Human Song](https://www.science.org/doi/10.1126/science.aax0868)
