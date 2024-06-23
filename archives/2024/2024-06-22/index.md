@@ -60,6 +60,7 @@
 * [2024-06-22, 07:00:19](https://news.ycombinator.com/item?id=40757017) - [Photoroom (YC S20) Is Hiring a Django Back End Lead in Paris (PostgreSQL, REST)](https://jobs.lever.co/photoroom/b3661dfc-72c8-441b-8483-c0f8596af452?lever-origin=applied&lever-source%5B%5D=yc)
 * [2024-06-22, 06:15:29](https://news.ycombinator.com/item?id=40756771) - [Universality and Diversity in Human Song](https://www.science.org/doi/10.1126/science.aax0868)
 * [2024-06-22, 06:09:59](https://news.ycombinator.com/item?id=40756744) - [Exposition of Front End Build Systems](https://sunsetglow.net/posts/frontend-build-systems.html)
+* [2024-06-22, 05:51:33](https://news.ycombinator.com/item?id=40756639) - [Virtually Hawaii](http://satftp.soest.hawaii.edu/space/hawaii/)
 * [2024-06-22, 05:09:58](https://news.ycombinator.com/item?id=40756441) - [Americans Have Lost the Plot on Cooking Oil](https://www.theatlantic.com/health/archive/2024/06/olive-oil-canola-cooking/678761/)
 * [2024-06-22, 04:04:22](https://news.ycombinator.com/item?id=40756176) - [Language is primarily a tool for communication rather than thought [pdf]](https://gwern.net/doc/psychology/linguistics/2024-fedorenko.pdf)
 * [2024-06-22, 03:59:41](https://news.ycombinator.com/item?id=40756154) - [Bringing Roman Light to Life](https://www.journals.uchicago.edu/doi/10.1086/731029)
