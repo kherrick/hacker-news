@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-23, 07:31:08](https://news.ycombinator.com/item?id=40765438) - [Mozilla's Original Sin](https://mastodon.social/@jwz/112662062948208951)
 * [2024-06-23, 06:26:22](https://news.ycombinator.com/item?id=40765183) - [I've Stopped Using Box Plots. Should You?](https://nightingaledvs.com/ive-stopped-using-box-plots-should-you/)
 * [2024-06-23, 04:52:38](https://news.ycombinator.com/item?id=40764901) - [Native American Indian Star Charts](https://www.californiaindianeducation.org/science_lab/indian_stars.html)
 * [2024-06-23, 04:33:36](https://news.ycombinator.com/item?id=40764816) - [visionOS thermally throttles based on how much it hears the fans in the mics](https://twitter.com/ShinyQuagsire/status/1804688365905756564)
@@ -12,7 +13,6 @@
 * [2024-06-22, 23:14:59](https://news.ycombinator.com/item?id=40763117) - [SSH as a Sudo Replacement](https://whynothugo.nl/journal/2024/06/13/ssh-as-a-sudo-replacement/)
 * [2024-06-22, 22:21:45](https://news.ycombinator.com/item?id=40762739) - [Daily Automated Testing for Milk-V Duo S RISC-V SBC (IKEA Tretakt, Apache NuttX)](https://lupyuen.codeberg.page/articles/sg2000a.html)
 * [2024-06-22, 21:01:00](https://news.ycombinator.com/item?id=40762177) - [Charge Robotics (YC S21) is hiring SWEs to build solar construction robots](https://www.workatastartup.com/jobs/51266)
-* [2024-06-22, 20:01:41](https://news.ycombinator.com/item?id=40761713) - [HH70, the first high-temperature superconducting Tokamak achieves first plasma](https://www.energysingularity.cn/en/hh70-the-worlds-first-high-temperature-superconducting-tokamak-achieves-first-plasma/)
 * [2024-06-22, 17:36:39](https://news.ycombinator.com/item?id=40760687) - [Testing AMD's Bergamo: Zen 4c](https://chipsandcheese.com/2024/06/22/testing-amds-bergamo-zen-4c-spam/)
 * [2024-06-22, 16:44:44](https://news.ycombinator.com/item?id=40760320) - [Pi Gazing is a project to build meteor cameras using Raspberry Pi](https://pigazing.dcford.org.uk/)
 * [2024-06-22, 14:21:21](https://news.ycombinator.com/item?id=40759333) - [HybridNeRF: Efficient Neural Rendering](https://haithemturki.com/hybrid-nerf/)
