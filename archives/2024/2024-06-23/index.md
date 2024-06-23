@@ -6,6 +6,7 @@
 
 * [2024-06-23, 14:17:44](https://news.ycombinator.com/item?id=40767650) - [Traffic engineers build roads inviting crashes on outdated research, faulty data](https://theconversation.com/traffic-engineers-build-roads-that-invite-crashes-because-they-rely-on-outdated-research-and-faulty-data-223710)
 * [2024-06-23, 14:14:46](https://news.ycombinator.com/item?id=40767627) - [California AI bill becomes a lightning rod–for safety advocates and devs alike](https://thebulletin.org/2024/06/california-ai-bill-becomes-a-lightning-rod-for-safety-advocates-and-developers-alike/#post-heading)
+* [2024-06-23, 14:01:11](https://news.ycombinator.com/item?id=40767521) - [How GE Helped Launch The Computing Language That Changed The World (2019)](https://web.archive.org/web/20240222095617/https://www.ge.com/news/reports/basic-necessities-how-ge-helped-launch-the-computing-language-that-changed-the-world)
 * [2024-06-23, 13:22:23](https://news.ycombinator.com/item?id=40767299) - [Asynchronous Consensus Without Trusted Setup or Public-Key Cryptography](https://eprint.iacr.org/2024/677)
 * [2024-06-23, 12:01:45](https://news.ycombinator.com/item?id=40766791) - [Llama.ttf: A font which is also an LLM](https://fuglede.github.io/llama.ttf/)
 * [2024-06-23, 12:01:04](https://news.ycombinator.com/item?id=40766787) - [Deepnote (YC S19) is hiring engineers to build an AI data workspace](https://deepnote.com/join-us)

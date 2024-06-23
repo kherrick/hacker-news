@@ -2,6 +2,7 @@
 
 * [2024-06-23, 14:17:44](https://news.ycombinator.com/item?id=40767650) - [Traffic engineers build roads inviting crashes on outdated research, faulty data](https://theconversation.com/traffic-engineers-build-roads-that-invite-crashes-because-they-rely-on-outdated-research-and-faulty-data-223710)
 * [2024-06-23, 14:14:46](https://news.ycombinator.com/item?id=40767627) - [California AI bill becomes a lightning rod–for safety advocates and devs alike](https://thebulletin.org/2024/06/california-ai-bill-becomes-a-lightning-rod-for-safety-advocates-and-developers-alike/#post-heading)
+* [2024-06-23, 14:01:11](https://news.ycombinator.com/item?id=40767521) - [How GE Helped Launch The Computing Language That Changed The World (2019)](https://web.archive.org/web/20240222095617/https://www.ge.com/news/reports/basic-necessities-how-ge-helped-launch-the-computing-language-that-changed-the-world)
 * [2024-06-23, 13:22:23](https://news.ycombinator.com/item?id=40767299) - [Asynchronous Consensus Without Trusted Setup or Public-Key Cryptography](https://eprint.iacr.org/2024/677)
 * [2024-06-23, 12:01:45](https://news.ycombinator.com/item?id=40766791) - [Llama.ttf: A font which is also an LLM](https://fuglede.github.io/llama.ttf/)
 * [2024-06-23, 12:01:04](https://news.ycombinator.com/item?id=40766787) - [Deepnote (YC S19) is hiring engineers to build an AI data workspace](https://deepnote.com/join-us)
@@ -16,7 +17,6 @@
 * [2024-06-23, 01:41:24](https://news.ycombinator.com/item?id=40763931) - [Words you can spell with a calculator](https://paperlined.org/apps/wikipedia/offsite_content/Calculator_spelling.txt)
 * [2024-06-22, 23:14:59](https://news.ycombinator.com/item?id=40763117) - [SSH as a Sudo Replacement](https://whynothugo.nl/journal/2024/06/13/ssh-as-a-sudo-replacement/)
 * [2024-06-22, 17:36:39](https://news.ycombinator.com/item?id=40760687) - [Testing AMD's Bergamo: Zen 4c](https://chipsandcheese.com/2024/06/22/testing-amds-bergamo-zen-4c-spam/)
-* [2024-06-22, 12:49:18](https://news.ycombinator.com/item?id=40758767) - [After my dad died, I ran and sold his company (2018)](https://anandsanwal.me/2018/06/19/dad-company-sale/)
 * [2024-06-22, 11:56:49](https://news.ycombinator.com/item?id=40758387) - [Coverage at a Crossroads](https://nedbatchelder.com/blog/202406/coverage_at_a_crossroads.html)
 * [2024-06-22, 11:44:04](https://news.ycombinator.com/item?id=40758302) - [Identifying Leap Years (2020)](https://davecturner.github.io/2020/08/07/leapyear-optimization.html)
 * [2024-06-22, 10:03:10](https://news.ycombinator.com/item?id=40757775) - [Aphantasia: I can not picture things in my mind](https://www.theguardian.com/wellness/2024/feb/26/what-is-aphantasia-like)
