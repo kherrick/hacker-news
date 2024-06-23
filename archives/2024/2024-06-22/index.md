@@ -44,6 +44,8 @@
 * [2024-06-22, 12:39:57](https://news.ycombinator.com/item?id=40758703) - [Show HN: Envelope – A modern environment variable cli tool](https://github.com/mattrighetti/envelope)
 * [2024-06-22, 12:31:05](https://news.ycombinator.com/item?id=40758638) - [Bugs, drugs and electric venom: is this the most deadly library in the world?](https://www.theguardian.com/science/article/2024/jun/22/bugs-drugs-and-electric-venom-is-this-the-most-deadly-library-in-the-world)
 * [2024-06-22, 12:00:39](https://news.ycombinator.com/item?id=40758415) - [PermitFlow (YC W22) Is Hiring Software Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
+* [2024-06-22, 11:56:49](https://news.ycombinator.com/item?id=40758387) - [Coverage at a Crossroads](https://nedbatchelder.com/blog/202406/coverage_at_a_crossroads.html)
+* [2024-06-22, 11:44:04](https://news.ycombinator.com/item?id=40758302) - [Identifying Leap Years](https://davecturner.github.io/2020/08/07/leapyear-optimization.html)
 * [2024-06-22, 11:21:31](https://news.ycombinator.com/item?id=40758160) - [Mr: Apple Intelligence Features Not Coming to EU at Launch Due to DMA](https://www.macrumors.com/2024/06/21/apple-intelligence-europe-delay/)
 * [2024-06-22, 10:43:47](https://news.ycombinator.com/item?id=40757951) - [Show HN: I made tool that let's you see everything about any website](https://v1.web-check.xyz/)
 * [2024-06-22, 10:27:57](https://news.ycombinator.com/item?id=40757870) - [Honoring the Legacy of Chip Design Innovator Lynn Conway](https://spectrum.ieee.org/chip-design-innovator-lynn-conway)
