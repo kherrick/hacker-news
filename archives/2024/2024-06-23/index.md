@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-23](index.md)
 
 * [2024-06-23, 10:15:30](https://news.ycombinator.com/item?id=40766242) - [Fresh water on Earth emerged 500M years earlier than previously thought](https://www.curtin.edu.au/news/media-release/fresh-findings-earliest-evidence-of-life-bringing-fresh-water-on-earth/)
+* [2024-06-23, 09:50:21](https://news.ycombinator.com/item?id=40766117) - [The First Animal Ever Found That Doesn't Need Oxygen to Survive](https://www.sciencealert.com/this-is-the-first-animal-ever-found-that-doesnt-need-oxygen-to-survive)
 * [2024-06-23, 09:40:34](https://news.ycombinator.com/item?id=40766079) - [Never* Use Datagrams](https://quic.video/blog/never-use-datagrams/)
 * [2024-06-23, 09:02:48](https://news.ycombinator.com/item?id=40765872) - [Of Psion and Symbian](https://www.abortretry.fail/p/of-psion-and-symbian)
 * [2024-06-23, 08:50:27](https://news.ycombinator.com/item?id=40765800) - [Why your brain is 3 milion more times efficient than GPT-4](https://grski.pl/vdb)

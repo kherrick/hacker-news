@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-23, 10:15:30](https://news.ycombinator.com/item?id=40766242) - [Fresh water on Earth emerged 500M years earlier than previously thought](https://www.curtin.edu.au/news/media-release/fresh-findings-earliest-evidence-of-life-bringing-fresh-water-on-earth/)
+* [2024-06-23, 09:50:21](https://news.ycombinator.com/item?id=40766117) - [The First Animal Ever Found That Doesn't Need Oxygen to Survive](https://www.sciencealert.com/this-is-the-first-animal-ever-found-that-doesnt-need-oxygen-to-survive)
 * [2024-06-23, 09:40:34](https://news.ycombinator.com/item?id=40766079) - [Never* Use Datagrams](https://quic.video/blog/never-use-datagrams/)
 * [2024-06-23, 09:02:48](https://news.ycombinator.com/item?id=40765872) - [Of Psion and Symbian](https://www.abortretry.fail/p/of-psion-and-symbian)
 * [2024-06-23, 08:50:27](https://news.ycombinator.com/item?id=40765800) - [Why your brain is 3 milion more times efficient than GPT-4](https://grski.pl/vdb)
@@ -11,9 +12,8 @@
 * [2024-06-23, 03:23:03](https://news.ycombinator.com/item?id=40764507) - [Interface Upgrades in Go](http://avtok.com/2014/11/05/interface-upgrades.html)
 * [2024-06-23, 01:41:24](https://news.ycombinator.com/item?id=40763931) - [Words you can spell with a calculator](https://paperlined.org/apps/wikipedia/offsite_content/Calculator_spelling.txt)
 * [2024-06-23, 00:46:26](https://news.ycombinator.com/item?id=40763640) - [Ruby: A great language for shell scripts](https://lucasoshiro.github.io/posts-en/2024-06-17-ruby-shellscript/)
-* [2024-06-23, 00:08:19](https://news.ycombinator.com/item?id=40763424) - [OpenEMR: Open-source medical record software](https://www.open-emr.org/)
-* [2024-06-22, 23:18:29](https://news.ycombinator.com/item?id=40763133) - [Delving into ChatGPT usage in academic writing through excess vocabulary](https://arxiv.org/abs/2406.07016)
 * [2024-06-22, 23:14:59](https://news.ycombinator.com/item?id=40763117) - [SSH as a Sudo Replacement](https://whynothugo.nl/journal/2024/06/13/ssh-as-a-sudo-replacement/)
+* [2024-06-22, 21:01:00](https://news.ycombinator.com/item?id=40762177) - [Charge Robotics (YC S21) is hiring SWEs to build solar construction robots](https://www.workatastartup.com/jobs/51266)
 * [2024-06-22, 17:36:39](https://news.ycombinator.com/item?id=40760687) - [Testing AMD's Bergamo: Zen 4c](https://chipsandcheese.com/2024/06/22/testing-amds-bergamo-zen-4c-spam/)
 * [2024-06-22, 16:44:44](https://news.ycombinator.com/item?id=40760320) - [Pi Gazing is a project to build meteor cameras using Raspberry Pi](https://pigazing.dcford.org.uk/)
 * [2024-06-22, 14:21:21](https://news.ycombinator.com/item?id=40759333) - [HybridNeRF: Efficient Neural Rendering](https://haithemturki.com/hybrid-nerf/)
