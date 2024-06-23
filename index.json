@@ -91,22 +91,22 @@
   ],
   [
     [
-      "2024-06-23, 16:00:03",
-      "https://news.ycombinator.com/item?id=40768365"
-    ],
-    [
-      "Inside Netflix's bet on advanced video encoding",
-      "https://www.theverge.com/2024/6/22/24171581/netflix-bet-advanced-encoding-anne-aaron"
-    ]
-  ],
-  [
-    [
       "2024-06-23, 15:38:19",
       "https://news.ycombinator.com/item?id=40768225"
     ],
     [
       "Arbitrary shell command evaluation in Org Mode (GNU Emacs)",
       "https://seclists.org/oss-sec/2024/q2/296"
+    ]
+  ],
+  [
+    [
+      "2024-06-23, 14:17:44",
+      "https://news.ycombinator.com/item?id=40767650"
+    ],
+    [
+      "Traffic engineers build roads relying on outdated research, faulty data",
+      "https://theconversation.com/traffic-engineers-build-roads-that-invite-crashes-because-they-rely-on-outdated-research-and-faulty-data-223710"
     ]
   ],
   [
@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2024-06-23, 09:40:34",
+      "https://news.ycombinator.com/item?id=40766079"
+    ],
+    [
+      "Timeliness without datagrams using QUIC",
+      "https://quic.video/blog/never-use-datagrams/"
+    ]
+  ],
+  [
+    [
       "2024-06-23, 09:02:48",
       "https://news.ycombinator.com/item?id=40765872"
     ],
@@ -211,12 +221,12 @@
   ],
   [
     [
-      "2024-06-23, 05:26:54",
-      "https://news.ycombinator.com/item?id=40765014"
+      "2024-06-23, 05:56:43",
+      "https://news.ycombinator.com/item?id=40765094"
     ],
     [
-      "Infinitone Microtonal Saxophone",
-      "https://xerocraft.org/news/298-maker-interview-the-infinitone-and-the-notes-between-the-notes"
+      "The City of London which is not part of London (2016)",
+      "https://www.thevintagenews.com/2016/08/02/explained-the-secret-city-of-london-which-is-not-part-of-london/"
     ]
   ],
   [
@@ -227,6 +237,16 @@
     [
       "SSH as a Sudo Replacement",
       "https://whynothugo.nl/journal/2024/06/13/ssh-as-a-sudo-replacement/"
+    ]
+  ],
+  [
+    [
+      "2024-06-22, 12:28:42",
+      "https://news.ycombinator.com/item?id=40758618"
+    ],
+    [
+      "Fixing a memory leak of xmlEntityPtr in librsvg",
+      "https://viruta.org/fixing-xml-entity-leak.html"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Tonight with the Impressionists",
       "https://mssv.net/2024/06/18/tonight-with-the-impressionists/"
-    ]
-  ],
-  [
-    [
-      "2024-06-20, 11:40:54",
-      "https://news.ycombinator.com/item?id=40737511"
-    ],
-    [
-      "The Pre-Scheme Restoration",
-      "https://prescheme.org/posts/announcing-the-pre-scheme-restoration.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-18, 12:45:02",
-      "https://news.ycombinator.com/item?id=40717172"
-    ],
-    [
-      "The ChatGPT Linux System",
-      "https://incoherency.co.uk/blog/stories/chatgpt-linux.html"
     ]
   ]
 ]
