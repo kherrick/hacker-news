@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-23, 18:20:22](https://news.ycombinator.com/item?id=40769416) - [Singapore doubles down on lab-grown meat as Silicon Valley backs off](https://restofworld.org/2024/lab-grown-meat-singapore/)
 * [2024-06-23, 18:12:02](https://news.ycombinator.com/item?id=40769362) - [Start all of your commands with a comma](https://rhodesmill.org/brandon/2009/commands-with-comma/)
+* [2024-06-23, 17:50:21](https://news.ycombinator.com/item?id=40769199) - [Download Accelerator – Async Rust Edition](https://ochagavia.nl/blog/download-accelerator-async-rust-edition/)
 * [2024-06-23, 17:48:32](https://news.ycombinator.com/item?id=40769187) - [Wikipedia: 97% of all articles lead to Philosophy](https://en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy)
 * [2024-06-23, 17:48:22](https://news.ycombinator.com/item?id=40769186) - [How to Design an ISA](https://cacm.acm.org/practice/how-to-design-an-isa/)
 * [2024-06-23, 17:38:13](https://news.ycombinator.com/item?id=40769112) - [I'm Switching from Laravel to Rails](https://old.reddit.com/r/rails/comments/1dkcegr/im_switching_from_laravel_to_rails/)
@@ -24,9 +26,7 @@
 * [2024-06-23, 03:23:03](https://news.ycombinator.com/item?id=40764507) - [Interface Upgrades in Go (2014)](http://avtok.com/2014/11/05/interface-upgrades.html)
 * [2024-06-22, 23:14:59](https://news.ycombinator.com/item?id=40763117) - [SSH as a Sudo Replacement](https://whynothugo.nl/journal/2024/06/13/ssh-as-a-sudo-replacement/)
 * [2024-06-22, 11:56:49](https://news.ycombinator.com/item?id=40758387) - [Coverage at a Crossroads](https://nedbatchelder.com/blog/202406/coverage_at_a_crossroads.html)
-* [2024-06-22, 07:39:43](https://news.ycombinator.com/item?id=40757195) - [ECMA-17: Graphical representation of control characters (1968) [pdf]](https://ecma-international.org/wp-content/uploads/ECMA-17_1st_edition_november_1968.pdf)
 * [2024-06-22, 07:16:35](https://news.ycombinator.com/item?id=40757093) - [Hacking eInk Price Tags (2021)](https://dmitry.gr/?r=05.Projects&proj=29.%20eInk%20Price%20Tags)
-* [2024-06-22, 06:42:59](https://news.ycombinator.com/item?id=40756935) - [CHART: The Hackable Amateur Radio Telescope](https://astrochart.github.io/main_page)
 * [2024-06-21, 00:58:40](https://news.ycombinator.com/item?id=40745133) - [Tonight with the Impressionists](https://mssv.net/2024/06/18/tonight-with-the-impressionists/)
 * [2024-06-20, 11:40:54](https://news.ycombinator.com/item?id=40737511) - [The Pre-Scheme Restoration](https://prescheme.org/posts/announcing-the-pre-scheme-restoration.html)
 * [2024-06-18, 12:45:02](https://news.ycombinator.com/item?id=40717172) - [The ChatGPT Linux System](https://incoherency.co.uk/blog/stories/chatgpt-linux.html)
