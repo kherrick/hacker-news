@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-23, 12:01:04](https://news.ycombinator.com/item?id=40766787) - [Deepnote (YC S19) is hiring engineers to build an AI data workspace](https://deepnote.com/join-us)
+* [2024-06-23, 11:56:11](https://news.ycombinator.com/item?id=40766757) - [The World Will Soon Witness \"One of the Rarest Space Events of Our Lives\"](https://www.iflscience.com/the-world-will-soon-witness-one-of-the-rarest-space-events-of-our-lives-74746)
 * [2024-06-23, 11:30:40](https://news.ycombinator.com/item?id=40766635) - [A Study Says Warp Drives Might Be Real–and We'll Find Them with Lasers](https://www.popularmechanics.com/space/deep-space/a61193854/warp-drive-gravitational-waves/)
 * [2024-06-23, 10:15:30](https://news.ycombinator.com/item?id=40766242) - [Fresh water on Earth emerged 500M years earlier than previously thought](https://www.curtin.edu.au/news/media-release/fresh-findings-earliest-evidence-of-life-bringing-fresh-water-on-earth/)
-* [2024-06-23, 10:00:56](https://news.ycombinator.com/item?id=40766169) - [Germany's autobahn bridges falling apart](https://www.dw.com/en/germanys-autobahn-bridges-falling-apart/a-69439952)
 * [2024-06-23, 09:50:21](https://news.ycombinator.com/item?id=40766117) - [The First Animal Ever Found That Doesn't Need Oxygen to Survive](https://www.sciencealert.com/this-is-the-first-animal-ever-found-that-doesnt-need-oxygen-to-survive)
 * [2024-06-23, 09:40:34](https://news.ycombinator.com/item?id=40766079) - [Never* Use Datagrams](https://quic.video/blog/never-use-datagrams/)
 * [2024-06-23, 09:38:44](https://news.ycombinator.com/item?id=40766071) - [BeyondCorp](https://research.google/pubs/beyondcorp-a-new-approach-to-enterprise-security/)
