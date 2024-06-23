@@ -10,6 +10,7 @@
 * [2024-06-23, 18:34:48](https://news.ycombinator.com/item?id=40769516) - [Review of Linux on Minisforum V3 AMD Ryzen Tablet](https://mudkip.me/2024/04/14/A-Brief-Review-of-the-Minisforum-V3-AMD-Tablet/)
 * [2024-06-23, 18:20:22](https://news.ycombinator.com/item?id=40769416) - [Singapore doubles down on lab-grown meat as Silicon Valley backs off](https://restofworld.org/2024/lab-grown-meat-singapore/)
 * [2024-06-23, 18:12:02](https://news.ycombinator.com/item?id=40769362) - [Start all of your commands with a comma](https://rhodesmill.org/brandon/2009/commands-with-comma/)
+* [2024-06-23, 18:03:19](https://news.ycombinator.com/item?id=40769301) - [Why Mount Rainier is the US volcano keeping scientists up at night](https://www.cnn.com/2024/06/23/science/mount-rainier-volcanic-eruption-lahar-scn/index.html)
 * [2024-06-23, 17:50:21](https://news.ycombinator.com/item?id=40769199) - [Download Accelerator – Async Rust Edition](https://ochagavia.nl/blog/download-accelerator-async-rust-edition/)
 * [2024-06-23, 17:48:32](https://news.ycombinator.com/item?id=40769187) - [Wikipedia: 97% of all articles lead to Philosophy](https://en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy)
 * [2024-06-23, 17:48:22](https://news.ycombinator.com/item?id=40769186) - [How to Design an ISA](https://cacm.acm.org/practice/how-to-design-an-isa/)
