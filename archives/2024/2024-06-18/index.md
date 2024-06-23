@@ -88,6 +88,7 @@
 * [2024-06-18, 13:02:46](https://news.ycombinator.com/item?id=40717342) - [The Surgeon General Calls for a Warning Label on Social Media](https://www.afterbabel.com/p/surgeon-general-warning)
 * [2024-06-18, 12:56:45](https://news.ycombinator.com/item?id=40717285) - [AI can't fix what automation already broke](https://www.bloodinthemachine.com/p/ai-cant-fix-everything-automation)
 * [2024-06-18, 12:50:49](https://news.ycombinator.com/item?id=40717221) - [Social-Media Influencers Aren't Getting Rich–They're Barely Getting By](https://www.wsj.com/tech/social-media-influencers-arent-getting-richtheyre-barely-getting-by-71e0aad3)
+* [2024-06-18, 12:45:02](https://news.ycombinator.com/item?id=40717172) - [The ChatGPT Linux System](https://incoherency.co.uk/blog/stories/chatgpt-linux.html)
 * [2024-06-18, 12:40:32](https://news.ycombinator.com/item?id=40717126) - [Carabiner Collection](https://www.carabinercollection.com/)
 * [2024-06-18, 12:32:06](https://news.ycombinator.com/item?id=40717052) - [Show HN: Flowery – Vocabulary builder powered by LLM and spaced repetition](https://flowery.app)
 * [2024-06-18, 12:18:35](https://news.ycombinator.com/item?id=40716917) - [The Vulture and the Little Girl](https://en.wikipedia.org/wiki/The_Vulture_and_the_Little_Girl)
