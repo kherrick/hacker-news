@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-20](index.md)
 
 * [2024-06-20, 23:59:35](https://news.ycombinator.com/item?id=40744812) - [How We Made the Deno Language Server Ten Times Faster](https://deno.com/blog/optimizing-our-lsp)
+* [2024-06-20, 23:50:21](https://news.ycombinator.com/item?id=40744743) - [Flambda2 Ep. 2: Loopifying Tail-Recursive Functions](https://ocamlpro.com/blog/2024_05_07_the_flambda2_snippets_2/)
 * [2024-06-20, 23:19:40](https://news.ycombinator.com/item?id=40744558) - [How babies and young children learn to understand language](https://lithub.com/how-babies-and-young-children-learn-to-understand-language/)
 * [2024-06-20, 22:57:49](https://news.ycombinator.com/item?id=40744379) - [Tim O’Reilly: How to Fix \"AI's Original Sin\"](https://www.oreilly.com/radar/how-to-fix-ais-original-sin/)
 * [2024-06-20, 22:48:40](https://news.ycombinator.com/item?id=40744293) - [Show HN: Local Voice Assistant Using Ollama, Transformers and Coqui TTS Toolkit](https://github.com/mezbaul-h/june)
