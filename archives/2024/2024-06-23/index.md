@@ -38,6 +38,7 @@
 * [2024-06-23, 06:26:22](https://news.ycombinator.com/item?id=40765183) - [I've Stopped Using Box Plots. Should You?](https://nightingaledvs.com/ive-stopped-using-box-plots-should-you/)
 * [2024-06-23, 06:22:05](https://news.ycombinator.com/item?id=40765171) - [Richard Stallman, su, and the 'wheel' group (2004)](https://www.meisterplanet.com/journal/2004/05/09/richard-stallman-su-and-the-wheel-group/)
 * [2024-06-23, 05:56:43](https://news.ycombinator.com/item?id=40765094) - [Explained: The secret City of London which is not part of London](https://www.thevintagenews.com/2016/08/02/explained-the-secret-city-of-london-which-is-not-part-of-london/)
+* [2024-06-23, 05:26:54](https://news.ycombinator.com/item?id=40765014) - [Infinitone Microtonal Saxophone](https://xerocraft.org/news/298-maker-interview-the-infinitone-and-the-notes-between-the-notes)
 * [2024-06-23, 04:52:38](https://news.ycombinator.com/item?id=40764901) - [Native American Indian Star Charts](https://www.californiaindianeducation.org/science_lab/indian_stars.html)
 * [2024-06-23, 04:33:36](https://news.ycombinator.com/item?id=40764816) - [visionOS thermally throttles based on how much it hears the fans in the mics](https://twitter.com/ShinyQuagsire/status/1804688365905756564)
 * [2024-06-23, 03:34:44](https://news.ycombinator.com/item?id=40764579) - [TinyLetter Shut Down by Mailchimp, So I Built the LetterDrop](https://github.com/i365dev/LetterDrop)
