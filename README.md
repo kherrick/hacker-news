@@ -16,7 +16,8 @@
 * [2024-06-22, 23:14:59](https://news.ycombinator.com/item?id=40763117) - [SSH as a Sudo Replacement](https://whynothugo.nl/journal/2024/06/13/ssh-as-a-sudo-replacement/)
 * [2024-06-22, 17:36:39](https://news.ycombinator.com/item?id=40760687) - [Testing AMD's Bergamo: Zen 4c](https://chipsandcheese.com/2024/06/22/testing-amds-bergamo-zen-4c-spam/)
 * [2024-06-22, 16:44:44](https://news.ycombinator.com/item?id=40760320) - [Pi Gazing is a project to build meteor cameras using Raspberry Pi](https://pigazing.dcford.org.uk/)
-* [2024-06-22, 12:31:05](https://news.ycombinator.com/item?id=40758638) - [Bugs, drugs and electric venom: is this the most deadly library in the world?](https://www.theguardian.com/science/article/2024/jun/22/bugs-drugs-and-electric-venom-is-this-the-most-deadly-library-in-the-world)
+* [2024-06-22, 14:21:21](https://news.ycombinator.com/item?id=40759333) - [HybridNeRF: Efficient Neural Rendering](https://haithemturki.com/hybrid-nerf/)
+* [2024-06-22, 12:49:18](https://news.ycombinator.com/item?id=40758767) - [After my dad died, I ran and sold his company (2018)](https://anandsanwal.me/2018/06/19/dad-company-sale/)
 * [2024-06-22, 11:56:49](https://news.ycombinator.com/item?id=40758387) - [Coverage at a Crossroads](https://nedbatchelder.com/blog/202406/coverage_at_a_crossroads.html)
 * [2024-06-22, 11:44:04](https://news.ycombinator.com/item?id=40758302) - [Identifying Leap Years](https://davecturner.github.io/2020/08/07/leapyear-optimization.html)
 * [2024-06-22, 10:03:10](https://news.ycombinator.com/item?id=40757775) - [Aphantasia: I can not picture things in my mind](https://www.theguardian.com/wellness/2024/feb/26/what-is-aphantasia-like)
@@ -28,7 +29,6 @@
 * [2024-06-21, 21:02:19](https://news.ycombinator.com/item?id=40753773) - [Hope without optimism – transcription of a talk by Dave Snowden (2022)](https://gist.github.com/owulveryck/4ac8c96c16f5a48de24f8a0e949ad9a5)
 * [2024-06-21, 03:05:17](https://news.ycombinator.com/item?id=40745718) - [Chimpanzees 'self-medicate' with healing plants](https://www.bbc.com/news/articles/ce994dv9q4eo)
 * [2024-06-20, 23:50:21](https://news.ycombinator.com/item?id=40744743) - [Flambda2 Ep. 2: Loopifying Tail-Recursive Functions](https://ocamlpro.com/blog/2024_05_07_the_flambda2_snippets_2/)
-* [2024-06-20, 19:55:17](https://news.ycombinator.com/item?id=40742628) - [I kind of like rebasing](https://rednafi.com/misc/on_rebasing/)
 * [2024-06-20, 11:40:54](https://news.ycombinator.com/item?id=40737511) - [The Pre-Scheme Restoration](https://prescheme.org/posts/announcing-the-pre-scheme-restoration.html)
 
 ## [Archives](archives/index.md)
