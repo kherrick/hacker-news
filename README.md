@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-23, 11:30:40](https://news.ycombinator.com/item?id=40766635) - [A Study Says Warp Drives Might Be Real–and We'll Find Them with Lasers](https://www.popularmechanics.com/space/deep-space/a61193854/warp-drive-gravitational-waves/)
 * [2024-06-23, 10:15:30](https://news.ycombinator.com/item?id=40766242) - [Fresh water on Earth emerged 500M years earlier than previously thought](https://www.curtin.edu.au/news/media-release/fresh-findings-earliest-evidence-of-life-bringing-fresh-water-on-earth/)
 * [2024-06-23, 10:00:56](https://news.ycombinator.com/item?id=40766169) - [Germany's autobahn bridges falling apart](https://www.dw.com/en/germanys-autobahn-bridges-falling-apart/a-69439952)
 * [2024-06-23, 09:50:21](https://news.ycombinator.com/item?id=40766117) - [The First Animal Ever Found That Doesn't Need Oxygen to Survive](https://www.sciencealert.com/this-is-the-first-animal-ever-found-that-doesnt-need-oxygen-to-survive)
@@ -17,7 +18,6 @@
 * [2024-06-22, 17:36:39](https://news.ycombinator.com/item?id=40760687) - [Testing AMD's Bergamo: Zen 4c](https://chipsandcheese.com/2024/06/22/testing-amds-bergamo-zen-4c-spam/)
 * [2024-06-22, 16:44:44](https://news.ycombinator.com/item?id=40760320) - [Pi Gazing is a project to build meteor cameras using Raspberry Pi](https://pigazing.dcford.org.uk/)
 * [2024-06-22, 14:21:21](https://news.ycombinator.com/item?id=40759333) - [HybridNeRF: Efficient Neural Rendering](https://haithemturki.com/hybrid-nerf/)
-* [2024-06-22, 14:12:02](https://news.ycombinator.com/item?id=40759277) - [Andrew S. Tanenbaum Receives ACM Software System Award](https://vu.nl/en/news/2024/andrew-s-tanenbaum-receives-acm-software-system-award)
 * [2024-06-22, 12:49:18](https://news.ycombinator.com/item?id=40758767) - [After my dad died, I ran and sold his company (2018)](https://anandsanwal.me/2018/06/19/dad-company-sale/)
 * [2024-06-22, 11:56:49](https://news.ycombinator.com/item?id=40758387) - [Coverage at a Crossroads](https://nedbatchelder.com/blog/202406/coverage_at_a_crossroads.html)
 * [2024-06-22, 11:44:04](https://news.ycombinator.com/item?id=40758302) - [Identifying Leap Years (2020)](https://davecturner.github.io/2020/08/07/leapyear-optimization.html)
