@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-23](index.md)
 
+* [2024-06-23, 14:17:44](https://news.ycombinator.com/item?id=40767650) - [Traffic engineers build roads inviting crashes on outdated research, faulty data](https://theconversation.com/traffic-engineers-build-roads-that-invite-crashes-because-they-rely-on-outdated-research-and-faulty-data-223710)
 * [2024-06-23, 13:22:23](https://news.ycombinator.com/item?id=40767299) - [Asynchronous Consensus Without Trusted Setup or Public-Key Cryptography](https://eprint.iacr.org/2024/677)
 * [2024-06-23, 12:01:45](https://news.ycombinator.com/item?id=40766791) - [Llama.ttf: A font which is also an LLM](https://fuglede.github.io/llama.ttf/)
 * [2024-06-23, 12:01:04](https://news.ycombinator.com/item?id=40766787) - [Deepnote (YC S19) is hiring engineers to build an AI data workspace](https://deepnote.com/join-us)
@@ -23,6 +24,7 @@
 * [2024-06-23, 07:31:08](https://news.ycombinator.com/item?id=40765438) - [Mozilla's Original Sin](https://mastodon.social/@jwz/112662062948208951)
 * [2024-06-23, 07:29:08](https://news.ycombinator.com/item?id=40765430) - [Shahed-136 kamikaze drone servomotor [video]](https://www.youtube.com/watch?v=_jKbRdsi8fA)
 * [2024-06-23, 07:00:29](https://news.ycombinator.com/item?id=40765308) - [Is Codeberg.org financially sustainable relying on member fees? Any precedents?](https://join.codeberg.org/)
+* [2024-06-23, 06:38:15](https://news.ycombinator.com/item?id=40765222) - [Is America approaching peak tip?](https://www.economist.com/finance-and-economics/2024/06/20/is-america-approaching-peak-tip)
 * [2024-06-23, 06:26:22](https://news.ycombinator.com/item?id=40765183) - [I've Stopped Using Box Plots. Should You?](https://nightingaledvs.com/ive-stopped-using-box-plots-should-you/)
 * [2024-06-23, 06:22:05](https://news.ycombinator.com/item?id=40765171) - [Richard Stallman, su, and the 'wheel' group (2004)](https://www.meisterplanet.com/journal/2004/05/09/richard-stallman-su-and-the-wheel-group/)
 * [2024-06-23, 05:56:43](https://news.ycombinator.com/item?id=40765094) - [Explained: The secret City of London which is not part of London](https://www.thevintagenews.com/2016/08/02/explained-the-secret-city-of-london-which-is-not-part-of-london/)
