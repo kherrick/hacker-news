@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-06-23, 21:08:14",
-      "https://news.ycombinator.com/item?id=40770595"
+      "2024-06-23, 21:15:01",
+      "https://news.ycombinator.com/item?id=40770624"
     ],
     [
-      "I switched to Vim – and it took me only 6 years to learn it",
-      "https://emanuelcepoi.com/preview/66785dd2d3170dd0332a47d9"
+      "The pivot to AI: Pay no attention to the man behind the curtain",
+      "https://amycastor.com/2023/09/12/pivot-to-ai-pay-no-attention-to-the-man-behind-the-curtain/"
     ]
   ],
   [
@@ -41,32 +41,12 @@
   ],
   [
     [
-      "2024-06-23, 19:54:46",
-      "https://news.ycombinator.com/item?id=40770130"
+      "2024-06-23, 19:20:25",
+      "https://news.ycombinator.com/item?id=40769880"
     ],
     [
-      "Looking ahead to 30 years of FreeDOS",
-      "https://www.both.org/?p=3991"
-    ]
-  ],
-  [
-    [
-      "2024-06-23, 19:43:52",
-      "https://news.ycombinator.com/item?id=40770049"
-    ],
-    [
-      "Renga 1.26 – An XMPP client for HaikuOS",
-      "https://pulkomandy.tk/projects/renga"
-    ]
-  ],
-  [
-    [
-      "2024-06-23, 19:36:56",
-      "https://news.ycombinator.com/item?id=40769994"
-    ],
-    [
-      "Top Libraries to Accelerate LLM Building",
-      "https://www.blog.aiport.tech/p/top-9-libraries-to-accelerate-llm"
+      "Traffic noise hurts children's brains",
+      "https://www.bbc.com/future/article/20240621-how-traffic-noise-pollution-harms-childrens-health-and-development"
     ]
   ],
   [
@@ -147,6 +127,16 @@
     [
       "82 Copies of Shakespeare's First Folio on Display at Folger Shakespeare Library",
       "https://www.npr.org/2024/06/19/nx-s1-4950096/folger-shakespeare-library-renovation"
+    ]
+  ],
+  [
+    [
+      "2024-06-23, 17:42:02",
+      "https://news.ycombinator.com/item?id=40769145"
+    ],
+    [
+      "Optimizing the Roc parser/compiler with data-oriented design",
+      "https://tweedegolf.nl/en/blog/88/data-oriented-design"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Fixing a memory leak of xmlEntityPtr in librsvg",
       "https://viruta.org/fixing-xml-entity-leak.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-22, 11:37:29",
+      "https://news.ycombinator.com/item?id=40758254"
+    ],
+    [
+      "Postgres Schema Changes and Locking",
+      "https://xata.io/blog/migrations-and-exclusive-locks"
     ]
   ],
   [
