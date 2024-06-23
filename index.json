@@ -1,6 +1,56 @@
 [
   [
     [
+      "2024-06-23, 01:39:33",
+      "https://news.ycombinator.com/item?id=40763919"
+    ],
+    [
+      "The manager's unbearable lack of endorphins",
+      "https://jamie.ideasasylum.com/2024/06/21/the-manager-s-unbearable-lack-of-endorphins"
+    ]
+  ],
+  [
+    [
+      "2024-06-23, 01:12:01",
+      "https://news.ycombinator.com/item?id=40763757"
+    ],
+    [
+      "Mozilla's Original Sin",
+      "https://www.jwz.org/blog/2024/06/mozillas-original-sin/"
+    ]
+  ],
+  [
+    [
+      "2024-06-23, 00:46:26",
+      "https://news.ycombinator.com/item?id=40763640"
+    ],
+    [
+      "Ruby: A great language for shell scripts",
+      "https://lucasoshiro.github.io/posts-en/2024-06-17-ruby-shellscript/"
+    ]
+  ],
+  [
+    [
+      "2024-06-23, 00:30:50",
+      "https://news.ycombinator.com/item?id=40763540"
+    ],
+    [
+      "ChatGPT is biased against resumes with credentials that imply a disability",
+      "https://www.washington.edu/news/2024/06/21/chatgpt-ai-bias-ableism-disability-resume-cv/"
+    ]
+  ],
+  [
+    [
+      "2024-06-23, 00:08:19",
+      "https://news.ycombinator.com/item?id=40763424"
+    ],
+    [
+      "OpenEMR: The leading open-source medical record software",
+      "https://www.open-emr.org/"
+    ]
+  ],
+  [
+    [
       "2024-06-23, 00:04:21",
       "https://news.ycombinator.com/item?id=40763405"
     ],
@@ -61,32 +111,12 @@
   ],
   [
     [
-      "2024-06-22, 20:18:23",
-      "https://news.ycombinator.com/item?id=40761837"
-    ],
-    [
-      "Solar generates fifth of global electricity on summer solstice midday peak",
-      "https://ember-climate.org/insights/in-brief/the-global-solar-revolution/"
-    ]
-  ],
-  [
-    [
       "2024-06-22, 20:01:41",
       "https://news.ycombinator.com/item?id=40761713"
     ],
     [
       "HH70, the first high-temperature superconducting Tokamak achieves first plasma",
       "https://www.energysingularity.cn/en/hh70-the-worlds-first-high-temperature-superconducting-tokamak-achieves-first-plasma/"
-    ]
-  ],
-  [
-    [
-      "2024-06-22, 18:14:42",
-      "https://news.ycombinator.com/item?id=40760962"
-    ],
-    [
-      "An Anatomy of Algorithm Aversion",
-      "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4865492"
     ]
   ],
   [
@@ -171,22 +201,22 @@
   ],
   [
     [
+      "2024-06-22, 08:11:13",
+      "https://news.ycombinator.com/item?id=40757335"
+    ],
+    [
+      "Shape Rotation 101: An Intro to Einsum and Jax Transformers",
+      "https://sankalp.bearblog.dev/einsum-new/"
+    ]
+  ],
+  [
+    [
       "2024-06-21, 22:22:07",
       "https://news.ycombinator.com/item?id=40754471"
     ],
     [
       "The biggest CRT ever made: Sony's PVM-4300",
       "https://dfarq.homeip.net/the-biggest-crt-ever-made-sonys-pvm-4300/"
-    ]
-  ],
-  [
-    [
-      "2024-06-21, 20:28:31",
-      "https://news.ycombinator.com/item?id=40753468"
-    ],
-    [
-      "Uh-Oh: A story of SpaghettiOs and forgotten history",
-      "https://snackstack.net/2024/05/25/uh-oh-a-story-of-spaghettios-and-forgotten-history/"
     ]
   ],
   [
@@ -211,32 +241,12 @@
   ],
   [
     [
-      "2024-06-21, 01:37:57",
-      "https://news.ycombinator.com/item?id=40745332"
-    ],
-    [
-      "Leachim – 4th grade teaching robot",
-      "https://en.wikipedia.org/wiki/Leachim_(Robot)"
-    ]
-  ],
-  [
-    [
       "2024-06-21, 00:19:23",
       "https://news.ycombinator.com/item?id=40744910"
     ],
     [
       "Reference Counting with Linear Types",
       "https://github.com/alt-romes/reference-counting"
-    ]
-  ],
-  [
-    [
-      "2024-06-20, 20:11:41",
-      "https://news.ycombinator.com/item?id=40742821"
-    ],
-    [
-      "The Era of the Line Cook",
-      "https://www.newyorker.com/magazine/2024/06/24/the-era-of-the-line-cook"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Cognate: Readable and concise concatenative programming",
       "https://cognate-lang.github.io/learn.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-20, 13:25:52",
-      "https://news.ycombinator.com/item?id=40738534"
-    ],
-    [
-      "Reconstructing Public Keys from Signatures",
-      "https://keymaterial.net/2024/06/15/reconstructing-public-keys-from-signatures/"
     ]
   ],
   [
