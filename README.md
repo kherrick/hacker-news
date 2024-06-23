@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-23, 17:00:06](https://news.ycombinator.com/item?id=40768838) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+* [2024-06-23, 16:49:49](https://news.ycombinator.com/item?id=40768760) - [Audit finds NYPD spent thousands of police hours on unconfirmed gunshot alerts](https://comptroller.nyc.gov/newsroom/nypds-shotspotter-gunshot-detection-system-overwhelmingly-sends-officers-to-locations-where-no-confirmed-shooting-occurred-new-audit-uncovers/)
 * [2024-06-23, 16:35:57](https://news.ycombinator.com/item?id=40768666) - [US Forest Service proposes protections for old-growth trees, without logging ban](https://www.opb.org/article/2024/06/22/us-forest-service-old-growth-tree-protections-proposal/)
 * [2024-06-23, 16:11:45](https://news.ycombinator.com/item?id=40768448) - [G'mic 3.4.0: Image Processing in Its Prime](https://gmic.eu/gmic340/)
 * [2024-06-23, 15:38:19](https://news.ycombinator.com/item?id=40768225) - [Arbitrary shell command evaluation in Org Mode (GNU Emacs)](https://seclists.org/oss-sec/2024/q2/296)
@@ -20,7 +21,6 @@
 * [2024-06-23, 01:41:24](https://news.ycombinator.com/item?id=40763931) - [Words you can spell with a calculator](https://paperlined.org/apps/wikipedia/offsite_content/Calculator_spelling.txt)
 * [2024-06-22, 23:14:59](https://news.ycombinator.com/item?id=40763117) - [SSH as a Sudo Replacement](https://whynothugo.nl/journal/2024/06/13/ssh-as-a-sudo-replacement/)
 * [2024-06-22, 11:56:49](https://news.ycombinator.com/item?id=40758387) - [Coverage at a Crossroads](https://nedbatchelder.com/blog/202406/coverage_at_a_crossroads.html)
-* [2024-06-22, 10:03:10](https://news.ycombinator.com/item?id=40757775) - [Aphantasia: I can not picture things in my mind](https://www.theguardian.com/wellness/2024/feb/26/what-is-aphantasia-like)
 * [2024-06-22, 08:11:13](https://news.ycombinator.com/item?id=40757335) - [Shape Rotation 101: An Intro to Einsum and Jax Transformers](https://sankalp.bearblog.dev/einsum-new/)
 * [2024-06-22, 07:39:43](https://news.ycombinator.com/item?id=40757195) - [ECMA-17: Graphical representation of control characters (1968) [pdf]](https://ecma-international.org/wp-content/uploads/ECMA-17_1st_edition_november_1968.pdf)
 * [2024-06-22, 07:16:35](https://news.ycombinator.com/item?id=40757093) - [Hacking eInk Price Tags (2021)](https://dmitry.gr/?r=05.Projects&proj=29.%20eInk%20Price%20Tags)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-23](index.md)
 
 * [2024-06-23, 17:00:06](https://news.ycombinator.com/item?id=40768838) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+* [2024-06-23, 16:49:49](https://news.ycombinator.com/item?id=40768760) - [Audit finds NYPD spent thousands of police hours on unconfirmed gunshot alerts](https://comptroller.nyc.gov/newsroom/nypds-shotspotter-gunshot-detection-system-overwhelmingly-sends-officers-to-locations-where-no-confirmed-shooting-occurred-new-audit-uncovers/)
 * [2024-06-23, 16:35:57](https://news.ycombinator.com/item?id=40768666) - [US Forest Service proposes protections for old-growth trees, without logging ban](https://www.opb.org/article/2024/06/22/us-forest-service-old-growth-tree-protections-proposal/)
 * [2024-06-23, 16:11:45](https://news.ycombinator.com/item?id=40768448) - [G'mic 3.4.0: Image Processing in Its Prime](https://gmic.eu/gmic340/)
 * [2024-06-23, 15:38:19](https://news.ycombinator.com/item?id=40768225) - [Arbitrary shell command evaluation in Org Mode (GNU Emacs)](https://seclists.org/oss-sec/2024/q2/296)
