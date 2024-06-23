@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-23](index.md)
 
+* [2024-06-23, 21:00:57](https://news.ycombinator.com/item?id=40770554) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
+* [2024-06-23, 19:36:56](https://news.ycombinator.com/item?id=40769994) - [Top Libraries to Accelerate LLM Building](https://www.blog.aiport.tech/p/top-9-libraries-to-accelerate-llm)
 * [2024-06-23, 19:20:25](https://news.ycombinator.com/item?id=40769880) - [Traffic noise hurts children's brains](https://www.bbc.com/future/article/20240621-how-traffic-noise-pollution-harms-childrens-health-and-development)
 * [2024-06-23, 18:45:59](https://news.ycombinator.com/item?id=40769607) - [Some fundraisers pay >90% of the funds to themselves](https://www.propublica.org/article/political-nonprofits-fundraising-ftc-irs-527s-pacs)
 * [2024-06-23, 18:38:36](https://news.ycombinator.com/item?id=40769541) - [Ask HN: What's the oldest file on your computer?](https://news.ycombinator.com/item?id=40769541)
