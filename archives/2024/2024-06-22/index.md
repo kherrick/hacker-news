@@ -57,6 +57,7 @@
 * [2024-06-22, 08:11:13](https://news.ycombinator.com/item?id=40757335) - [Shape Rotation 101: An Intro to Einsum and Jax Transformers](https://sankalp.bearblog.dev/einsum-new/)
 * [2024-06-22, 07:39:43](https://news.ycombinator.com/item?id=40757195) - [ECMA-17: Graphical representation of control characters (1968) [pdf]](https://ecma-international.org/wp-content/uploads/ECMA-17_1st_edition_november_1968.pdf)
 * [2024-06-22, 07:00:19](https://news.ycombinator.com/item?id=40757017) - [Photoroom (YC S20) Is Hiring a Django Back End Lead in Paris (PostgreSQL, REST)](https://jobs.lever.co/photoroom/b3661dfc-72c8-441b-8483-c0f8596af452?lever-origin=applied&lever-source%5B%5D=yc)
+* [2024-06-22, 06:15:29](https://news.ycombinator.com/item?id=40756771) - [Universality and Diversity in Human Song](https://www.science.org/doi/10.1126/science.aax0868)
 * [2024-06-22, 06:09:59](https://news.ycombinator.com/item?id=40756744) - [Exposition of Front End Build Systems](https://sunsetglow.net/posts/frontend-build-systems.html)
 * [2024-06-22, 05:09:58](https://news.ycombinator.com/item?id=40756441) - [Americans Have Lost the Plot on Cooking Oil](https://www.theatlantic.com/health/archive/2024/06/olive-oil-canola-cooking/678761/)
 * [2024-06-22, 04:04:22](https://news.ycombinator.com/item?id=40756176) - [Language is primarily a tool for communication rather than thought [pdf]](https://gwern.net/doc/psychology/linguistics/2024-fedorenko.pdf)
