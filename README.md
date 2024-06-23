@@ -15,7 +15,6 @@
 * [2024-06-23, 05:56:43](https://news.ycombinator.com/item?id=40765094) - [Explained: The secret City of London which is not part of London](https://www.thevintagenews.com/2016/08/02/explained-the-secret-city-of-london-which-is-not-part-of-london/)
 * [2024-06-23, 03:23:03](https://news.ycombinator.com/item?id=40764507) - [Interface Upgrades in Go](http://avtok.com/2014/11/05/interface-upgrades.html)
 * [2024-06-23, 01:41:24](https://news.ycombinator.com/item?id=40763931) - [Words you can spell with a calculator](https://paperlined.org/apps/wikipedia/offsite_content/Calculator_spelling.txt)
-* [2024-06-23, 00:46:26](https://news.ycombinator.com/item?id=40763640) - [Ruby: A great language for shell scripts](https://lucasoshiro.github.io/posts-en/2024-06-17-ruby-shellscript/)
 * [2024-06-22, 23:14:59](https://news.ycombinator.com/item?id=40763117) - [SSH as a Sudo Replacement](https://whynothugo.nl/journal/2024/06/13/ssh-as-a-sudo-replacement/)
 * [2024-06-22, 17:36:39](https://news.ycombinator.com/item?id=40760687) - [Testing AMD's Bergamo: Zen 4c](https://chipsandcheese.com/2024/06/22/testing-amds-bergamo-zen-4c-spam/)
 * [2024-06-22, 11:56:49](https://news.ycombinator.com/item?id=40758387) - [Coverage at a Crossroads](https://nedbatchelder.com/blog/202406/coverage_at_a_crossroads.html)
@@ -30,6 +29,7 @@
 * [2024-06-21, 00:58:40](https://news.ycombinator.com/item?id=40745133) - [Tonight with the Impressionists](https://mssv.net/2024/06/18/tonight-with-the-impressionists/)
 * [2024-06-20, 23:50:21](https://news.ycombinator.com/item?id=40744743) - [Flambda2 Ep. 2: Loopifying Tail-Recursive Functions](https://ocamlpro.com/blog/2024_05_07_the_flambda2_snippets_2/)
 * [2024-06-20, 11:40:54](https://news.ycombinator.com/item?id=40737511) - [The Pre-Scheme Restoration](https://prescheme.org/posts/announcing-the-pre-scheme-restoration.html)
+* [2024-06-19, 05:00:51](https://news.ycombinator.com/item?id=40725017) - [Napoleon: An Extraordinary Rendition](https://www.historytoday.com/archive/feature/napoleon-extraordinary-rendition)
 
 ## [Archives](archives/index.md)
 

@@ -96,6 +96,7 @@
 * [2024-06-19, 06:08:10](https://news.ycombinator.com/item?id=40725329) - [Please don't mention AI again](https://ludic.mataroa.blog/blog/i-will-fucking-piledrive-you-if-you-mention-ai-again/)
 * [2024-06-19, 05:45:53](https://news.ycombinator.com/item?id=40725214) - [Fern Hollow Bridge should have been closed years before it collapsed](https://practical.engineering/blog/2024/6/18/this-bridge-should-have-been-closed-years-before-it-collapsed)
 * [2024-06-19, 05:18:53](https://news.ycombinator.com/item?id=40725096) - [I'm the hacker that brought down North Korea's Internet for over a week. AMA](https://old.reddit.com/r/IAmA/comments/1divlp3/im_the_hacker_that_brought_down_north_koreas/)
+* [2024-06-19, 05:00:51](https://news.ycombinator.com/item?id=40725017) - [Napoleon: An Extraordinary Rendition](https://www.historytoday.com/archive/feature/napoleon-extraordinary-rendition)
 * [2024-06-19, 04:29:06](https://news.ycombinator.com/item?id=40724821) - [The Odd Couple: Evelyn Waugh and Graham Greene](https://thecritic.co.uk/the-odd-couple/)
 * [2024-06-19, 04:20:14](https://news.ycombinator.com/item?id=40724774) - [Ask HN: Who has had a successful PWA product?](https://news.ycombinator.com/item?id=40724774)
 * [2024-06-19, 04:01:47](https://news.ycombinator.com/item?id=40724667) - [Satellites like Starlink could deplete Earth's ozone layer, study says](https://www.independent.co.uk/space/elon-musk-starlink-satellite-internet-b2564344.html)
