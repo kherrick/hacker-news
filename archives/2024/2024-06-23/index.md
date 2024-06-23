@@ -8,6 +8,7 @@
 * [2024-06-23, 21:15:01](https://news.ycombinator.com/item?id=40770624) - [The pivot to AI: Pay no attention to the man behind the curtain](https://amycastor.com/2023/09/12/pivot-to-ai-pay-no-attention-to-the-man-behind-the-curtain/)
 * [2024-06-23, 21:08:14](https://news.ycombinator.com/item?id=40770595) - [I switched to Vim – and it took me only 6 years to learn it](https://emanuelcepoi.com/preview/66785dd2d3170dd0332a47d9)
 * [2024-06-23, 21:00:57](https://news.ycombinator.com/item?id=40770554) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
+* [2024-06-23, 20:39:35](https://news.ycombinator.com/item?id=40770430) - [Writing an IR from Scratch and survive to write a post](https://farena.in/compilers/programming/writing-an-ir-from-scratch/)
 * [2024-06-23, 20:26:08](https://news.ycombinator.com/item?id=40770358) - [The Crazy Economics of the Most Coveted Handbag](https://www.wsj.com/style/fashion/hermes-birkin-bag-investment-031c215c)
 * [2024-06-23, 20:02:33](https://news.ycombinator.com/item?id=40770171) - [LINQPad – The .NET Programmer's Playground](https://www.linqpad.net/)
 * [2024-06-23, 19:54:46](https://news.ycombinator.com/item?id=40770130) - [Looking ahead to 30 years of FreeDOS](https://www.both.org/?p=3991)

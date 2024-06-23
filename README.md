@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-23, 21:00:57](https://news.ycombinator.com/item?id=40770554) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
+* [2024-06-23, 20:39:35](https://news.ycombinator.com/item?id=40770430) - [Writing an IR from Scratch and survive to write a post](https://farena.in/compilers/programming/writing-an-ir-from-scratch/)
 * [2024-06-23, 20:02:33](https://news.ycombinator.com/item?id=40770171) - [LINQPad – The .NET Programmer's Playground](https://www.linqpad.net/)
 * [2024-06-23, 19:20:25](https://news.ycombinator.com/item?id=40769880) - [Traffic noise hurts children's brains](https://www.bbc.com/future/article/20240621-how-traffic-noise-pollution-harms-childrens-health-and-development)
 * [2024-06-23, 19:19:01](https://news.ycombinator.com/item?id=40769867) - [Deriving Dependently-Typed OOP from First Principles](https://arxiv.org/abs/2403.06707)
@@ -10,7 +11,6 @@
 * [2024-06-23, 18:20:22](https://news.ycombinator.com/item?id=40769416) - [Singapore doubles down on lab-grown meat as Silicon Valley backs off](https://restofworld.org/2024/lab-grown-meat-singapore/)
 * [2024-06-23, 18:12:02](https://news.ycombinator.com/item?id=40769362) - [Start all of your commands with a comma (2009)](https://rhodesmill.org/brandon/2009/commands-with-comma/)
 * [2024-06-23, 18:06:52](https://news.ycombinator.com/item?id=40769325) - [Much Ado About First Folios — the world's largest Shakespeare collection reopens](https://www.npr.org/2024/06/19/nx-s1-4950096/folger-shakespeare-library-renovation)
-* [2024-06-23, 17:42:02](https://news.ycombinator.com/item?id=40769145) - [Optimizing the Roc parser/compiler with data-oriented design](https://tweedegolf.nl/en/blog/88/data-oriented-design)
 * [2024-06-23, 17:22:52](https://news.ycombinator.com/item?id=40769001) - [The tiny chip that powers Montreal subway tickets](http://www.righto.com/2024/06/montreal-mifare-ultralight-nfc.html)
 * [2024-06-23, 16:35:57](https://news.ycombinator.com/item?id=40768666) - [US Forest Service proposes protections for old-growth trees, without logging ban](https://www.opb.org/article/2024/06/22/us-forest-service-old-growth-tree-protections-proposal/)
 * [2024-06-23, 15:38:19](https://news.ycombinator.com/item?id=40768225) - [Arbitrary shell command evaluation in Org Mode (GNU Emacs)](https://seclists.org/oss-sec/2024/q2/296)
