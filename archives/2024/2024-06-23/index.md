@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-23](index.md)
 
+* [2024-06-23, 18:45:59](https://news.ycombinator.com/item?id=40769607) - [Some fundraisers pay >90% of the funds to themselves](https://www.propublica.org/article/political-nonprofits-fundraising-ftc-irs-527s-pacs)
+* [2024-06-23, 18:38:36](https://news.ycombinator.com/item?id=40769541) - [Ask HN: What's the oldest file on your computer?](https://news.ycombinator.com/item?id=40769541)
 * [2024-06-23, 18:34:48](https://news.ycombinator.com/item?id=40769516) - [Review of Linux on Minisforum V3 AMD Ryzen Tablet](https://mudkip.me/2024/04/14/A-Brief-Review-of-the-Minisforum-V3-AMD-Tablet/)
 * [2024-06-23, 18:20:22](https://news.ycombinator.com/item?id=40769416) - [Singapore doubles down on lab-grown meat as Silicon Valley backs off](https://restofworld.org/2024/lab-grown-meat-singapore/)
 * [2024-06-23, 18:12:02](https://news.ycombinator.com/item?id=40769362) - [Start all of your commands with a comma](https://rhodesmill.org/brandon/2009/commands-with-comma/)
