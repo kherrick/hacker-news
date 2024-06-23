@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-23, 06:26:22",
+      "https://news.ycombinator.com/item?id=40765183"
+    ],
+    [
+      "I've Stopped Using Box Plots. Should You?",
+      "https://nightingaledvs.com/ive-stopped-using-box-plots-should-you/"
+    ]
+  ],
+  [
+    [
       "2024-06-23, 04:52:38",
       "https://news.ycombinator.com/item?id=40764901"
     ],
@@ -37,6 +47,16 @@
     [
       "Interface Upgrades in Go",
       "http://avtok.com/2014/11/05/interface-upgrades.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-23, 01:41:24",
+      "https://news.ycombinator.com/item?id=40763931"
+    ],
+    [
+      "Words you can spell with a calculator",
+      "https://paperlined.org/apps/wikipedia/offsite_content/Calculator_spelling.txt"
     ]
   ],
   [
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2024-06-21, 00:19:23",
-      "https://news.ycombinator.com/item?id=40744910"
-    ],
-    [
-      "Reference Counting with Linear Types",
-      "https://github.com/alt-romes/reference-counting"
-    ]
-  ],
-  [
-    [
       "2024-06-20, 23:50:21",
       "https://news.ycombinator.com/item?id=40744743"
     ],
@@ -287,16 +297,6 @@
     [
       "As you learn Forth, it learns from you (1981)",
       "https://jupiter-ace.co.uk/Forth_general_practical_computing8108.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-20, 05:04:30",
-      "https://news.ycombinator.com/item?id=40735092"
-    ],
-    [
-      "Schema changes and the Postgres lock queue",
-      "https://xata.io/blog/migrations-and-exclusive-locks"
     ]
   ]
 ]
