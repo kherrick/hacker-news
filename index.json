@@ -21,6 +21,26 @@
   ],
   [
     [
+      "2024-06-23, 16:11:45",
+      "https://news.ycombinator.com/item?id=40768448"
+    ],
+    [
+      "G'mic 3.4.0: Image Processing in Its Prime",
+      "https://gmic.eu/gmic340/"
+    ]
+  ],
+  [
+    [
+      "2024-06-23, 15:38:19",
+      "https://news.ycombinator.com/item?id=40768225"
+    ],
+    [
+      "Arbitrary shell command evaluation in Org Mode (GNU Emacs)",
+      "https://seclists.org/oss-sec/2024/q2/296"
+    ]
+  ],
+  [
+    [
       "2024-06-23, 15:28:03",
       "https://news.ycombinator.com/item?id=40768140"
     ],
@@ -31,22 +51,22 @@
   ],
   [
     [
-      "2024-06-23, 14:17:44",
-      "https://news.ycombinator.com/item?id=40767650"
-    ],
-    [
-      "Traffic engineers build roads inviting crashes on outdated research, faulty data",
-      "https://theconversation.com/traffic-engineers-build-roads-that-invite-crashes-because-they-rely-on-outdated-research-and-faulty-data-223710"
-    ]
-  ],
-  [
-    [
       "2024-06-23, 14:16:56",
       "https://news.ycombinator.com/item?id=40767645"
     ],
     [
       "Picolisp a Railroad Simulation",
       "https://picolisp-explored.com/a-railroad-simulation-with-des"
+    ]
+  ],
+  [
+    [
+      "2024-06-23, 14:02:08",
+      "https://news.ycombinator.com/item?id=40767529"
+    ],
+    [
+      "SquirrelFS: Using the Rust compiler to check file-system crash consistency",
+      "https://arxiv.org/abs/2406.09649"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2024-06-23, 08:42:03",
-      "https://news.ycombinator.com/item?id=40765761"
-    ],
-    [
-      "The prevalence, persistence, and perils of lame delegations (2021)",
-      "https://blog.apnic.net/2021/03/16/the-prevalence-persistence-perils-of-lame-nameservers/"
-    ]
-  ],
-  [
-    [
       "2024-06-23, 06:26:22",
       "https://news.ycombinator.com/item?id=40765183"
     ],
@@ -177,16 +187,6 @@
     [
       "SSH as a Sudo Replacement",
       "https://whynothugo.nl/journal/2024/06/13/ssh-as-a-sudo-replacement/"
-    ]
-  ],
-  [
-    [
-      "2024-06-22, 17:36:39",
-      "https://news.ycombinator.com/item?id=40760687"
-    ],
-    [
-      "Testing AMD's Bergamo: Zen 4c",
-      "https://chipsandcheese.com/2024/06/22/testing-amds-bergamo-zen-4c-spam/"
     ]
   ],
   [
