@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-23, 22:08:38](https://news.ycombinator.com/item?id=40771017) - [The unbearable sorrow of Apple Weather](https://leancrew.com/all-this/2024/06/the-unbearable-sorrow-of-apple-weather/)
 * [2024-06-23, 21:00:57](https://news.ycombinator.com/item?id=40770554) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-06-23, 20:26:08](https://news.ycombinator.com/item?id=40770358) - [The Crazy Economics of the Most Coveted Handbag](https://www.wsj.com/style/fashion/hermes-birkin-bag-investment-031c215c)
 * [2024-06-23, 20:02:33](https://news.ycombinator.com/item?id=40770171) - [LINQPad – The .NET Programmer's Playground](https://www.linqpad.net/)
@@ -25,7 +26,6 @@
 * [2024-06-23, 09:40:34](https://news.ycombinator.com/item?id=40766079) - [Timeliness without datagrams using QUIC](https://quic.video/blog/never-use-datagrams/)
 * [2024-06-23, 09:02:48](https://news.ycombinator.com/item?id=40765872) - [Of Psion and Symbian](https://www.abortretry.fail/p/of-psion-and-symbian)
 * [2024-06-23, 06:26:22](https://news.ycombinator.com/item?id=40765183) - [I've stopped using box plots (2021)](https://nightingaledvs.com/ive-stopped-using-box-plots-should-you/)
-* [2024-06-23, 01:41:24](https://news.ycombinator.com/item?id=40763931) - [Words you can spell with a calculator (2005)](https://paperlined.org/apps/wikipedia/offsite_content/Calculator_spelling.txt)
 * [2024-06-22, 12:55:53](https://news.ycombinator.com/item?id=40758802) - [The End-of-Line Story (2004)](https://www.rfc-editor.org/old/EOLstory.txt)
 * [2024-06-22, 12:28:42](https://news.ycombinator.com/item?id=40758618) - [Fixing a memory leak of xmlEntityPtr in librsvg](https://viruta.org/fixing-xml-entity-leak.html)
 * [2024-06-22, 10:54:14](https://news.ycombinator.com/item?id=40757996) - [Feral pigeons and the London Pigeon String Foot and Rescue group](https://www.bbc.com/future/article/20240620-why-do-people-persecute-city-pigeons)
