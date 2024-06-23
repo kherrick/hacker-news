@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-23, 18:12:02",
+      "https://news.ycombinator.com/item?id=40769362"
+    ],
+    [
+      "Start all of your commands with a comma",
+      "https://rhodesmill.org/brandon/2009/commands-with-comma/"
+    ]
+  ],
+  [
+    [
+      "2024-06-23, 17:48:32",
+      "https://news.ycombinator.com/item?id=40769187"
+    ],
+    [
+      "Wikipedia: 97% of all articles lead to Philosophy",
+      "https://en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy"
+    ]
+  ],
+  [
+    [
       "2024-06-23, 17:38:13",
       "https://news.ycombinator.com/item?id=40769112"
     ],
@@ -27,16 +47,6 @@
     [
       "EasyPost (YC S13) Is Hiring",
       "https://www.easypost.com/careers"
-    ]
-  ],
-  [
-    [
-      "2024-06-23, 16:49:49",
-      "https://news.ycombinator.com/item?id=40768760"
-    ],
-    [
-      "Audit finds NYPD spent thousands of police hours on unconfirmed gunshot alerts",
-      "https://comptroller.nyc.gov/newsroom/nypds-shotspotter-gunshot-detection-system-overwhelmingly-sends-officers-to-locations-where-no-confirmed-shooting-occurred-new-audit-uncovers/"
     ]
   ],
   [
@@ -97,16 +107,6 @@
     [
       "Picolisp a Railroad Simulation",
       "https://picolisp-explored.com/a-railroad-simulation-with-des"
-    ]
-  ],
-  [
-    [
-      "2024-06-23, 14:02:08",
-      "https://news.ycombinator.com/item?id=40767529"
-    ],
-    [
-      "SquirrelFS: Using the Rust compiler to check file-system crash consistency",
-      "https://arxiv.org/abs/2406.09649"
     ]
   ],
   [
