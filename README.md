@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-23, 19:20:25](https://news.ycombinator.com/item?id=40769880) - [Traffic noise hurts children's brains](https://www.bbc.com/future/article/20240621-how-traffic-noise-pollution-harms-childrens-health-and-development)
 * [2024-06-23, 18:45:59](https://news.ycombinator.com/item?id=40769607) - [Some fundraisers pay >90% of the funds to themselves](https://www.propublica.org/article/political-nonprofits-fundraising-ftc-irs-527s-pacs)
 * [2024-06-23, 18:38:36](https://news.ycombinator.com/item?id=40769541) - [Ask HN: What's the oldest file on your computer?](https://news.ycombinator.com/item?id=40769541)
 * [2024-06-23, 18:34:48](https://news.ycombinator.com/item?id=40769516) - [Review of Linux on Minisforum V3 AMD Ryzen Tablet](https://mudkip.me/2024/04/14/A-Brief-Review-of-the-Minisforum-V3-AMD-Tablet/)
@@ -29,7 +30,6 @@
 * [2024-06-22, 10:07:08](https://news.ycombinator.com/item?id=40757791) - [How to run an LLM on your PC, not in the cloud, in less than 10 minutes](https://www.theregister.com/2024/03/17/ai_pc_local_llm/)
 * [2024-06-22, 07:16:35](https://news.ycombinator.com/item?id=40757093) - [Hacking eInk Price Tags (2021)](https://dmitry.gr/?r=05.Projects&proj=29.%20eInk%20Price%20Tags)
 * [2024-06-22, 06:42:59](https://news.ycombinator.com/item?id=40756935) - [CHART: The Hackable Amateur Radio Telescope](https://astrochart.github.io/main_page)
-* [2024-06-21, 00:58:40](https://news.ycombinator.com/item?id=40745133) - [Tonight with the Impressionists](https://mssv.net/2024/06/18/tonight-with-the-impressionists/)
 
 ## [Archives](archives/index.md)
 
