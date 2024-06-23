@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-23, 02:08:24](https://news.ycombinator.com/item?id=40764106) - [Is Guix full-source bootstrap a lie?](https://simon.tournier.info/posts/2023-10-01-bootstrapping.html)
 * [2024-06-23, 01:39:33](https://news.ycombinator.com/item?id=40763919) - [The manager's unbearable lack of endorphins](https://jamie.ideasasylum.com/2024/06/21/the-manager-s-unbearable-lack-of-endorphins)
 * [2024-06-23, 00:46:26](https://news.ycombinator.com/item?id=40763640) - [Ruby: A great language for shell scripts](https://lucasoshiro.github.io/posts-en/2024-06-17-ruby-shellscript/)
 * [2024-06-23, 00:30:50](https://news.ycombinator.com/item?id=40763540) - [ChatGPT is biased against resumes with credentials that imply a disability](https://www.washington.edu/news/2024/06/21/chatgpt-ai-bias-ableism-disability-resume-cv/)
@@ -28,8 +29,7 @@
 * [2024-06-20, 19:55:17](https://news.ycombinator.com/item?id=40742628) - [I kind of like rebasing](https://rednafi.com/misc/on_rebasing/)
 * [2024-06-20, 18:33:22](https://news.ycombinator.com/item?id=40741723) - [Cognate: Readable and concise concatenative programming](https://cognate-lang.github.io/learn.html)
 * [2024-06-20, 11:40:54](https://news.ycombinator.com/item?id=40737511) - [The Pre-Scheme Restoration](https://prescheme.org/posts/announcing-the-pre-scheme-restoration.html)
-* [2024-06-20, 08:05:13](https://news.ycombinator.com/item?id=40736174) - [As you learn Forth, it learns from you (1981)](https://jupiter-ace.co.uk/Forth_general_practical_computing8108.html)
-* [2024-06-17, 18:43:43](https://news.ycombinator.com/item?id=40709434) - [Scientists unlock secrets of how the third form of life makes energy](https://phys.org/news/2024-06-scientists-secrets-life-energy.html)
+* [2024-06-20, 05:04:30](https://news.ycombinator.com/item?id=40735092) - [Schema changes and the Postgres lock queue](https://xata.io/blog/migrations-and-exclusive-locks)
 
 ## [Archives](archives/index.md)
 

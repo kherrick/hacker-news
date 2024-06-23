@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-23](index.md)
 
+* [2024-06-23, 02:08:24](https://news.ycombinator.com/item?id=40764106) - [Is Guix full-source bootstrap a lie?](https://simon.tournier.info/posts/2023-10-01-bootstrapping.html)
 * [2024-06-23, 01:39:33](https://news.ycombinator.com/item?id=40763919) - [The manager's unbearable lack of endorphins](https://jamie.ideasasylum.com/2024/06/21/the-manager-s-unbearable-lack-of-endorphins)
 * [2024-06-23, 01:12:01](https://news.ycombinator.com/item?id=40763757) - [Mozilla's Original Sin](https://www.jwz.org/blog/2024/06/mozillas-original-sin/)
 * [2024-06-23, 00:46:26](https://news.ycombinator.com/item?id=40763640) - [Ruby: A great language for shell scripts](https://lucasoshiro.github.io/posts-en/2024-06-17-ruby-shellscript/)
