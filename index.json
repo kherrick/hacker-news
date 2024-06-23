@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-23, 18:34:48",
+      "https://news.ycombinator.com/item?id=40769516"
+    ],
+    [
+      "Review of Linux on Minisforum V3 AMD Ryzen Tablet",
+      "https://mudkip.me/2024/04/14/A-Brief-Review-of-the-Minisforum-V3-AMD-Tablet/"
+    ]
+  ],
+  [
+    [
       "2024-06-23, 18:20:22",
       "https://news.ycombinator.com/item?id=40769416"
     ],
@@ -17,46 +27,6 @@
     [
       "Start all of your commands with a comma",
       "https://rhodesmill.org/brandon/2009/commands-with-comma/"
-    ]
-  ],
-  [
-    [
-      "2024-06-23, 17:50:21",
-      "https://news.ycombinator.com/item?id=40769199"
-    ],
-    [
-      "Download Accelerator – Async Rust Edition",
-      "https://ochagavia.nl/blog/download-accelerator-async-rust-edition/"
-    ]
-  ],
-  [
-    [
-      "2024-06-23, 17:48:32",
-      "https://news.ycombinator.com/item?id=40769187"
-    ],
-    [
-      "Wikipedia: 97% of all articles lead to Philosophy",
-      "https://en.wikipedia.org/wiki/Wikipedia:Getting_to_Philosophy"
-    ]
-  ],
-  [
-    [
-      "2024-06-23, 17:48:22",
-      "https://news.ycombinator.com/item?id=40769186"
-    ],
-    [
-      "How to Design an ISA",
-      "https://cacm.acm.org/practice/how-to-design-an-isa/"
-    ]
-  ],
-  [
-    [
-      "2024-06-23, 17:38:13",
-      "https://news.ycombinator.com/item?id=40769112"
-    ],
-    [
-      "I'm Switching from Laravel to Rails",
-      "https://old.reddit.com/r/rails/comments/1dkcegr/im_switching_from_laravel_to_rails/"
     ]
   ],
   [
@@ -181,6 +151,16 @@
   ],
   [
     [
+      "2024-06-23, 12:15:49",
+      "https://news.ycombinator.com/item?id=40766869"
+    ],
+    [
+      "\"We argue that mitochondria are the processor of the cell\" (2022)",
+      "https://www.cell.com/action/showPdf?pii=S1550-4131%2822%2900459-4"
+    ]
+  ],
+  [
+    [
       "2024-06-23, 12:01:45",
       "https://news.ycombinator.com/item?id=40766791"
     ],
@@ -261,12 +241,32 @@
   ],
   [
     [
+      "2024-06-22, 07:39:43",
+      "https://news.ycombinator.com/item?id=40757195"
+    ],
+    [
+      "ECMA-17: Graphical representation of control characters (1968) [pdf]",
+      "https://ecma-international.org/wp-content/uploads/ECMA-17_1st_edition_november_1968.pdf"
+    ]
+  ],
+  [
+    [
       "2024-06-22, 07:16:35",
       "https://news.ycombinator.com/item?id=40757093"
     ],
     [
       "Hacking eInk Price Tags (2021)",
       "https://dmitry.gr/?r=05.Projects&proj=29.%20eInk%20Price%20Tags"
+    ]
+  ],
+  [
+    [
+      "2024-06-22, 06:42:59",
+      "https://news.ycombinator.com/item?id=40756935"
+    ],
+    [
+      "CHART: The Hackable Amateur Radio Telescope",
+      "https://astrochart.github.io/main_page"
     ]
   ],
   [
