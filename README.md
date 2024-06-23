@@ -20,7 +20,7 @@
 * [2024-06-23, 06:26:22](https://news.ycombinator.com/item?id=40765183) - [I've stopped using box plots (2021)](https://nightingaledvs.com/ive-stopped-using-box-plots-should-you/)
 * [2024-06-23, 05:26:54](https://news.ycombinator.com/item?id=40765014) - [Infinitone Microtonal Saxophone](https://xerocraft.org/news/298-maker-interview-the-infinitone-and-the-notes-between-the-notes)
 * [2024-06-23, 03:23:03](https://news.ycombinator.com/item?id=40764507) - [Interface Upgrades in Go (2014)](http://avtok.com/2014/11/05/interface-upgrades.html)
-* [2024-06-23, 01:41:24](https://news.ycombinator.com/item?id=40763931) - [Words you can spell with a calculator](https://paperlined.org/apps/wikipedia/offsite_content/Calculator_spelling.txt)
+* [2024-06-23, 01:41:24](https://news.ycombinator.com/item?id=40763931) - [Words you can spell with a calculator (2005)](https://paperlined.org/apps/wikipedia/offsite_content/Calculator_spelling.txt)
 * [2024-06-22, 23:14:59](https://news.ycombinator.com/item?id=40763117) - [SSH as a Sudo Replacement](https://whynothugo.nl/journal/2024/06/13/ssh-as-a-sudo-replacement/)
 * [2024-06-22, 11:56:49](https://news.ycombinator.com/item?id=40758387) - [Coverage at a Crossroads](https://nedbatchelder.com/blog/202406/coverage_at_a_crossroads.html)
 * [2024-06-22, 08:11:13](https://news.ycombinator.com/item?id=40757335) - [Shape Rotation 101: An Intro to Einsum and Jax Transformers](https://sankalp.bearblog.dev/einsum-new/)
