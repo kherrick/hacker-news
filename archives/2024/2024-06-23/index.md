@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-23](index.md)
 
 * [2024-06-23, 14:17:44](https://news.ycombinator.com/item?id=40767650) - [Traffic engineers build roads inviting crashes on outdated research, faulty data](https://theconversation.com/traffic-engineers-build-roads-that-invite-crashes-because-they-rely-on-outdated-research-and-faulty-data-223710)
+* [2024-06-23, 14:16:56](https://news.ycombinator.com/item?id=40767645) - [Picolisp a Railroad Simulation](https://picolisp-explored.com/a-railroad-simulation-with-des)
 * [2024-06-23, 14:14:46](https://news.ycombinator.com/item?id=40767627) - [California AI bill becomes a lightning rod–for safety advocates and devs alike](https://thebulletin.org/2024/06/california-ai-bill-becomes-a-lightning-rod-for-safety-advocates-and-developers-alike/#post-heading)
 * [2024-06-23, 14:01:11](https://news.ycombinator.com/item?id=40767521) - [How GE Helped Launch The Computing Language That Changed The World (2019)](https://web.archive.org/web/20240222095617/https://www.ge.com/news/reports/basic-necessities-how-ge-helped-launch-the-computing-language-that-changed-the-world)
 * [2024-06-23, 13:49:30](https://news.ycombinator.com/item?id=40767459) - [Show HN: I am using AI to drop hats outside my window onto New Yorkers](https://dropofahat.zone/)
