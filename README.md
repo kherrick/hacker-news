@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-23, 17:22:52](https://news.ycombinator.com/item?id=40769001) - [The tiny chip that powers Montreal subway tickets](http://www.righto.com/2024/06/montreal-mifare-ultralight-nfc.html)
 * [2024-06-23, 17:00:06](https://news.ycombinator.com/item?id=40768838) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-06-23, 16:49:49](https://news.ycombinator.com/item?id=40768760) - [Audit finds NYPD spent thousands of police hours on unconfirmed gunshot alerts](https://comptroller.nyc.gov/newsroom/nypds-shotspotter-gunshot-detection-system-overwhelmingly-sends-officers-to-locations-where-no-confirmed-shooting-occurred-new-audit-uncovers/)
 * [2024-06-23, 16:35:57](https://news.ycombinator.com/item?id=40768666) - [US Forest Service proposes protections for old-growth trees, without logging ban](https://www.opb.org/article/2024/06/22/us-forest-service-old-growth-tree-protections-proposal/)
 * [2024-06-23, 16:11:45](https://news.ycombinator.com/item?id=40768448) - [G'mic 3.4.0: Image Processing in Its Prime](https://gmic.eu/gmic340/)
+* [2024-06-23, 16:00:03](https://news.ycombinator.com/item?id=40768365) - [Inside Netflix's bet on advanced video encoding](https://www.theverge.com/2024/6/22/24171581/netflix-bet-advanced-encoding-anne-aaron)
 * [2024-06-23, 15:38:19](https://news.ycombinator.com/item?id=40768225) - [Arbitrary shell command evaluation in Org Mode (GNU Emacs)](https://seclists.org/oss-sec/2024/q2/296)
 * [2024-06-23, 15:28:03](https://news.ycombinator.com/item?id=40768140) - [Batteries as a Military Enabler](https://warontherocks.com/2024/06/batteries-as-a-military-enabler/)
 * [2024-06-23, 14:16:56](https://news.ycombinator.com/item?id=40767645) - [Picolisp a Railroad Simulation](https://picolisp-explored.com/a-railroad-simulation-with-des)
@@ -27,9 +29,7 @@
 * [2024-06-22, 06:42:59](https://news.ycombinator.com/item?id=40756935) - [CHART: The Hackable Amateur Radio Telescope](https://astrochart.github.io/main_page)
 * [2024-06-21, 22:22:07](https://news.ycombinator.com/item?id=40754471) - [The biggest CRT ever made: Sony's PVM-4300](https://dfarq.homeip.net/the-biggest-crt-ever-made-sonys-pvm-4300/)
 * [2024-06-21, 00:58:40](https://news.ycombinator.com/item?id=40745133) - [Tonight with the Impressionists](https://mssv.net/2024/06/18/tonight-with-the-impressionists/)
-* [2024-06-20, 23:50:21](https://news.ycombinator.com/item?id=40744743) - [Flambda2 Ep. 2: Loopifying Tail-Recursive Functions](https://ocamlpro.com/blog/2024_05_07_the_flambda2_snippets_2/)
 * [2024-06-20, 11:40:54](https://news.ycombinator.com/item?id=40737511) - [The Pre-Scheme Restoration](https://prescheme.org/posts/announcing-the-pre-scheme-restoration.html)
-* [2024-06-19, 05:00:51](https://news.ycombinator.com/item?id=40725017) - [Napoleon: An Extraordinary Rendition (2010)](https://www.historytoday.com/archive/feature/napoleon-extraordinary-rendition)
 
 ## [Archives](archives/index.md)
 
