@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-23](index.md)
 
+* [2024-06-23, 17:00:06](https://news.ycombinator.com/item?id=40768838) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
+* [2024-06-23, 16:35:57](https://news.ycombinator.com/item?id=40768666) - [US Forest Service proposes protections for old-growth trees, without logging ban](https://www.opb.org/article/2024/06/22/us-forest-service-old-growth-tree-protections-proposal/)
 * [2024-06-23, 15:33:57](https://news.ycombinator.com/item?id=40768188) - [Citizens to End SuperPACs](https://www.citizenstoendsuperpacs.org)
 * [2024-06-23, 15:28:03](https://news.ycombinator.com/item?id=40768140) - [Batteries as a Military Enabler](https://warontherocks.com/2024/06/batteries-as-a-military-enabler/)
 * [2024-06-23, 14:17:44](https://news.ycombinator.com/item?id=40767650) - [Traffic engineers build roads inviting crashes on outdated research, faulty data](https://theconversation.com/traffic-engineers-build-roads-that-invite-crashes-because-they-rely-on-outdated-research-and-faulty-data-223710)
