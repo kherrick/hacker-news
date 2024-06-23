@@ -23,13 +23,13 @@
 * [2024-06-23, 10:50:29](https://news.ycombinator.com/item?id=40766445) - [Character Tiling](http://uridiumauthor.blogspot.com/2024/06/character-tiling.html)
 * [2024-06-23, 09:40:34](https://news.ycombinator.com/item?id=40766079) - [Timeliness without datagrams using QUIC](https://quic.video/blog/never-use-datagrams/)
 * [2024-06-23, 09:02:48](https://news.ycombinator.com/item?id=40765872) - [Of Psion and Symbian](https://www.abortretry.fail/p/of-psion-and-symbian)
-* [2024-06-23, 06:26:22](https://news.ycombinator.com/item?id=40765183) - [I've stopped using box plots (2021)](https://nightingaledvs.com/ive-stopped-using-box-plots-should-you/)
 * [2024-06-23, 01:41:24](https://news.ycombinator.com/item?id=40763931) - [Words you can spell with a calculator (2005)](https://paperlined.org/apps/wikipedia/offsite_content/Calculator_spelling.txt)
 * [2024-06-22, 12:55:53](https://news.ycombinator.com/item?id=40758802) - [The End-of-Line Story (2004)](https://www.rfc-editor.org/old/EOLstory.txt)
 * [2024-06-22, 12:28:42](https://news.ycombinator.com/item?id=40758618) - [Fixing a memory leak of xmlEntityPtr in librsvg](https://viruta.org/fixing-xml-entity-leak.html)
 * [2024-06-22, 10:54:14](https://news.ycombinator.com/item?id=40757996) - [Feral pigeons and the London Pigeon String Foot and Rescue group](https://www.bbc.com/future/article/20240620-why-do-people-persecute-city-pigeons)
 * [2024-06-22, 07:16:35](https://news.ycombinator.com/item?id=40757093) - [Hacking eInk Price Tags (2021)](https://dmitry.gr/?r=05.Projects&proj=29.%20eInk%20Price%20Tags)
 * [2024-06-22, 07:04:20](https://news.ycombinator.com/item?id=40757035) - [Adding view count and like button to 11ty](https://annoyscript.vercel.app/posts/Adding%20view%20count%20and%20like%20button%20to%2011ty/)
+* [2024-06-22, 06:42:59](https://news.ycombinator.com/item?id=40756935) - [CHART: The Hackable Amateur Radio Telescope](https://astrochart.github.io/main_page)
 
 ## [Archives](archives/index.md)
 
