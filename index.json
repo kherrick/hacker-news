@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-23, 17:22:52",
+      "https://news.ycombinator.com/item?id=40769001"
+    ],
+    [
+      "The tiny chip that powers Montreal subway tickets",
+      "http://www.righto.com/2024/06/montreal-mifare-ultralight-nfc.html"
+    ]
+  ],
+  [
+    [
       "2024-06-23, 17:00:06",
       "https://news.ycombinator.com/item?id=40768838"
     ],
@@ -37,6 +47,16 @@
     [
       "G'mic 3.4.0: Image Processing in Its Prime",
       "https://gmic.eu/gmic340/"
+    ]
+  ],
+  [
+    [
+      "2024-06-23, 16:00:03",
+      "https://news.ycombinator.com/item?id=40768365"
+    ],
+    [
+      "Inside Netflix's bet on advanced video encoding",
+      "https://www.theverge.com/2024/6/22/24171581/netflix-bet-advanced-encoding-anne-aaron"
     ]
   ],
   [
@@ -271,32 +291,12 @@
   ],
   [
     [
-      "2024-06-20, 23:50:21",
-      "https://news.ycombinator.com/item?id=40744743"
-    ],
-    [
-      "Flambda2 Ep. 2: Loopifying Tail-Recursive Functions",
-      "https://ocamlpro.com/blog/2024_05_07_the_flambda2_snippets_2/"
-    ]
-  ],
-  [
-    [
       "2024-06-20, 11:40:54",
       "https://news.ycombinator.com/item?id=40737511"
     ],
     [
       "The Pre-Scheme Restoration",
       "https://prescheme.org/posts/announcing-the-pre-scheme-restoration.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-19, 05:00:51",
-      "https://news.ycombinator.com/item?id=40725017"
-    ],
-    [
-      "Napoleon: An Extraordinary Rendition (2010)",
-      "https://www.historytoday.com/archive/feature/napoleon-extraordinary-rendition"
     ]
   ]
 ]
