@@ -7,6 +7,7 @@
 * [2024-06-23, 04:52:38](https://news.ycombinator.com/item?id=40764901) - [Native American Indian Star Charts](https://www.californiaindianeducation.org/science_lab/indian_stars.html)
 * [2024-06-23, 04:33:36](https://news.ycombinator.com/item?id=40764816) - [visionOS thermally throttles based on how much it hears the fans in the mics](https://twitter.com/ShinyQuagsire/status/1804688365905756564)
 * [2024-06-23, 03:34:44](https://news.ycombinator.com/item?id=40764579) - [TinyLetter Shut Down by Mailchimp, So I Built the LetterDrop](https://github.com/i365dev/LetterDrop)
+* [2024-06-23, 03:23:03](https://news.ycombinator.com/item?id=40764507) - [Interface Upgrades in Go](http://avtok.com/2014/11/05/interface-upgrades.html)
 * [2024-06-23, 02:08:24](https://news.ycombinator.com/item?id=40764106) - [Is Guix full-source bootstrap a lie?](https://simon.tournier.info/posts/2023-10-01-bootstrapping.html)
 * [2024-06-23, 01:41:24](https://news.ycombinator.com/item?id=40763931) - [Words you can spell with a calculator](https://paperlined.org/apps/wikipedia/offsite_content/Calculator_spelling.txt)
 * [2024-06-23, 01:39:33](https://news.ycombinator.com/item?id=40763919) - [The manager's unbearable lack of endorphins](https://jamie.ideasasylum.com/2024/06/21/the-manager-s-unbearable-lack-of-endorphins)

@@ -3,7 +3,7 @@
 * [2024-06-23, 04:52:38](https://news.ycombinator.com/item?id=40764901) - [Native American Indian Star Charts](https://www.californiaindianeducation.org/science_lab/indian_stars.html)
 * [2024-06-23, 04:33:36](https://news.ycombinator.com/item?id=40764816) - [visionOS thermally throttles based on how much it hears the fans in the mics](https://twitter.com/ShinyQuagsire/status/1804688365905756564)
 * [2024-06-23, 03:34:44](https://news.ycombinator.com/item?id=40764579) - [TinyLetter Shut Down by Mailchimp, So I Built the LetterDrop](https://github.com/i365dev/LetterDrop)
-* [2024-06-23, 01:41:24](https://news.ycombinator.com/item?id=40763931) - [Words you can spell with a calculator](https://paperlined.org/apps/wikipedia/offsite_content/Calculator_spelling.txt)
+* [2024-06-23, 03:23:03](https://news.ycombinator.com/item?id=40764507) - [Interface Upgrades in Go](http://avtok.com/2014/11/05/interface-upgrades.html)
 * [2024-06-23, 00:46:26](https://news.ycombinator.com/item?id=40763640) - [Ruby: A great language for shell scripts](https://lucasoshiro.github.io/posts-en/2024-06-17-ruby-shellscript/)
 * [2024-06-23, 00:08:19](https://news.ycombinator.com/item?id=40763424) - [OpenEMR: Open-source medical record software](https://www.open-emr.org/)
 * [2024-06-22, 23:18:29](https://news.ycombinator.com/item?id=40763133) - [Delving into ChatGPT usage in academic writing through excess vocabulary](https://arxiv.org/abs/2406.07016)
