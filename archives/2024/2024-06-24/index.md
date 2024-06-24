@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-24](index.md)
 
+* [2024-06-24, 12:00:13](https://news.ycombinator.com/item?id=40774980) - [UpCodes (YC S17) is hiring remote engineers across the Americas](https://up.codes/careers?utm_source=HN)
 * [2024-06-24, 11:05:18](https://news.ycombinator.com/item?id=40774563) - [Homegrown Rendering with Rust](https://medium.com/embarkstudios/homegrown-rendering-with-rust-1e39068e56a7)
 * [2024-06-24, 10:47:43](https://news.ycombinator.com/item?id=40774446) - [Ask HN: What is the most challenging programming course you have taken?](https://news.ycombinator.com/item?id=40774446)
 * [2024-06-24, 10:36:45](https://news.ycombinator.com/item?id=40774351) - [Lockbit 3.0 Claims Attack on Federal Reserve: 33 Terabytes Allegedly Compromised](https://www.redhotcyber.com/en/post/lockbit-3-0-claims-attack-on-federal-reserve-33-terabytes-of-sensitive-data-allegedly-compromised/)

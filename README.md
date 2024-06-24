@@ -1,12 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-24, 12:00:13](https://news.ycombinator.com/item?id=40774980) - [UpCodes (YC S17) is hiring remote engineers across the Americas](https://up.codes/careers?utm_source=HN)
 * [2024-06-24, 11:05:18](https://news.ycombinator.com/item?id=40774563) - [Homegrown Rendering with Rust](https://medium.com/embarkstudios/homegrown-rendering-with-rust-1e39068e56a7)
 * [2024-06-24, 10:47:43](https://news.ycombinator.com/item?id=40774446) - [Ask HN: What is the most challenging programming course you have taken?](https://news.ycombinator.com/item?id=40774446)
-* [2024-06-24, 10:36:45](https://news.ycombinator.com/item?id=40774351) - [Lockbit 3.0 Claims Attack on Federal Reserve: 33 Terabytes Allegedly Compromised](https://www.redhotcyber.com/en/post/lockbit-3-0-claims-attack-on-federal-reserve-33-terabytes-of-sensitive-data-allegedly-compromised/)
 * [2024-06-24, 10:34:11](https://news.ycombinator.com/item?id=40774336) - [Fire at South Korea lithium battery plant kills at least 16 people](https://www.nbcnews.com/news/world/fire-south-korea-lithium-battery-plant-kills-least-16-people-rcna158536)
 * [2024-06-24, 10:25:11](https://news.ycombinator.com/item?id=40774277) - [Microfeatures I Love in Blogs and Personal Websites](https://danilafe.com/blog/blog_microfeatures/)
 * [2024-06-24, 10:24:15](https://news.ycombinator.com/item?id=40774270) - [DIY Smart Doorbell for just $2, no soldering required (2019)](https://frenck.dev/diy-smart-doorbell-for-just-2-dollar/)
-* [2024-06-24, 09:57:39](https://news.ycombinator.com/item?id=40774138) - [Up to 78M batteries will be discarded daily by 2025, researchers warn](https://cordis.europa.eu/article/id/430457-up-to-78-million-batteries-will-be-discarded-daily-by-2025-researchers-warn)
 * [2024-06-24, 09:23:20](https://news.ycombinator.com/item?id=40773957) - [EPA releases report on Apple's hazardous waste violations in urban silicon fab](https://mastodon.social/@ashleygjovik/112668309100333232/?)
 * [2024-06-24, 09:10:56](https://news.ycombinator.com/item?id=40773883) - [Apple found in breach of EU competition rules](https://www.theguardian.com/technology/article/2024/jun/24/apple-breach-eu-competition-rules-digital-markets-act)
 * [2024-06-24, 09:01:32](https://news.ycombinator.com/item?id=40773843) - [Gren 0.4: New Foundations](https://gren-lang.org/news/240624_gren_04/)
@@ -28,6 +27,7 @@
 * [2024-06-22, 11:33:39](https://news.ycombinator.com/item?id=40758229) - [Show HN: Feedback on Sketch Colourisation](https://github.com/CHAITron/sketchdeco-code)
 * [2024-06-22, 10:04:03](https://news.ycombinator.com/item?id=40757777) - [Polytype: A Rosetta Stone for typesetting engines](https://polytype.dev/)
 * [2024-06-22, 09:49:15](https://news.ycombinator.com/item?id=40757717) - [Arm64EC – Run x86_64 and Arm code in the same process](https://learn.microsoft.com/en-us/windows/arm/arm64ec)
+* [2024-06-22, 03:59:41](https://news.ycombinator.com/item?id=40756154) - [Bringing Roman Light to Life](https://www.journals.uchicago.edu/doi/10.1086/731029)
 * [2024-06-21, 22:25:36](https://news.ycombinator.com/item?id=40754501) - [The End-of-Line Story (2004)](https://www.rfc-editor.org/old/EOLstory.txt)
 * [2024-06-20, 14:31:22](https://news.ycombinator.com/item?id=40739187) - [You can now write React in Lua](https://github.com/jsdotlua/react-lua)
 
