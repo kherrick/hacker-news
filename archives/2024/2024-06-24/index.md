@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-24](index.md)
 
 * [2024-06-24, 22:38:31](https://news.ycombinator.com/item?id=40781838) - [Round Rects Are Everywhere](https://www.folklore.org/Round_Rects_Are_Everywhere.html)
+* [2024-06-24, 21:32:20](https://news.ycombinator.com/item?id=40781060) - [Fearing Losses, Banks Are Quietly Dumping Real Estate Loans](https://www.nytimes.com/2024/06/24/business/commercial-real-estate-loans.html)
 * [2024-06-24, 21:30:43](https://news.ycombinator.com/item?id=40781048) - [Windows 11 is now enabling OneDrive folder backup without asking permission](https://www.neowin.net/news/windows-11-is-now-automatically-enabling-onedrive-folder-backup-without-asking-permission/)
 * [2024-06-24, 21:20:31](https://news.ycombinator.com/item?id=40780940) - [Ask HN: Those of you who've left the SWE world, what did you transition into?](https://news.ycombinator.com/item?id=40780940)
 * [2024-06-24, 21:17:40](https://news.ycombinator.com/item?id=40780914) - [Android Secret Security Codes You Need to Know](https://www.makeuseof.com/android-security-codes-you-need-to-know/)
@@ -19,6 +20,7 @@
 * [2024-06-24, 19:36:20](https://news.ycombinator.com/item?id=40779788) - [The Company Men](https://im1776.com/2024/06/19/the-company-men/)
 * [2024-06-24, 19:35:52](https://news.ycombinator.com/item?id=40779785) - [The case for not sanitising fairy tales](https://www.plough.com/en/topics/culture/literature/the-case-for-not-sanitizing-fairy-tales)
 * [2024-06-24, 19:32:20](https://news.ycombinator.com/item?id=40779758) - [Nuclear engineer dismisses claim that modular reactors commercially viable soon](https://www.theguardian.com/australia-news/article/2024/jun/21/peter-dutton-coalition-nuclear-policy-engineer-small-modular-reactors-no-commercially-viable)
+* [2024-06-24, 19:31:25](https://news.ycombinator.com/item?id=40779743) - [Leaking URLs to the Clown](http://rachelbythebay.com/w/2024/06/24/feed/)
 * [2024-06-24, 19:20:39](https://news.ycombinator.com/item?id=40779658) - [Komorebi: Tiling Window Management for Windows](https://github.com/LGUG2Z/komorebi)
 * [2024-06-24, 19:19:15](https://news.ycombinator.com/item?id=40779646) - [Lifesaving robots arrive on Lake Michigan beaches to prevent drownings](https://www.mlive.com/news/kalamazoo/2024/06/lifesaving-robots-arrive-on-lake-michigan-beaches-to-prevent-drownings.html)
 * [2024-06-24, 19:19:06](https://news.ycombinator.com/item?id=40779643) - [A journey into Kindle AI slop hell](https://maxread.substack.com/p/my-kindle-thinks-im-stupid-now)
