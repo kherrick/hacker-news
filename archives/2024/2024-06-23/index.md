@@ -87,6 +87,7 @@
 * [2024-06-23, 04:52:38](https://news.ycombinator.com/item?id=40764901) - [Native American Indian Star Charts](https://www.californiaindianeducation.org/science_lab/indian_stars.html)
 * [2024-06-23, 04:50:30](https://news.ycombinator.com/item?id=40764889) - [Truckstops on the Information Superhighway (2018)](https://www.americanacademy.de/truckstops-on-the-information-superhighway/)
 * [2024-06-23, 04:33:36](https://news.ycombinator.com/item?id=40764816) - [visionOS thermally throttles based on how much it hears the fans in the mics](https://twitter.com/ShinyQuagsire/status/1804688365905756564)
+* [2024-06-23, 04:13:42](https://news.ycombinator.com/item?id=40764736) - [Hans Hollein: Everything Is Architecture](https://designmanifestos.org/hans-hollein-everything-is-architecture/)
 * [2024-06-23, 03:34:44](https://news.ycombinator.com/item?id=40764579) - [TinyLetter Shut Down by Mailchimp, So I Built the LetterDrop](https://github.com/i365dev/LetterDrop)
 * [2024-06-23, 03:23:03](https://news.ycombinator.com/item?id=40764507) - [Interface Upgrades in Go](http://avtok.com/2014/11/05/interface-upgrades.html)
 * [2024-06-23, 02:08:24](https://news.ycombinator.com/item?id=40764106) - [Is Guix full-source bootstrap a lie?](https://simon.tournier.info/posts/2023-10-01-bootstrapping.html)
