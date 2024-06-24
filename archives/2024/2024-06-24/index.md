@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-06-24](index.md)
 
+* [2024-06-24, 21:00:35](https://news.ycombinator.com/item?id=40780712) - [Finley (YC W21) is hiring our first Sales Ops team member (SF, NY, Remote)](https://jobs.lever.co/FinleyTechnologies/ef9b46ab-6c97-4401-b7d1-8535c262f246)
 * [2024-06-24, 20:41:25](https://news.ycombinator.com/item?id=40780489) - [Bandwidth Conservation Society](https://kokorobot.ca/site/leaner_web.html)
+* [2024-06-24, 20:29:34](https://news.ycombinator.com/item?id=40780366) - [Carmakers File Challenge to Parts of New Automatic-Braking Rule](https://www.wsj.com/business/autos/carmakers-file-challenge-to-parts-of-new-automatic-braking-rule-ebb653e9)
 * [2024-06-24, 20:09:20](https://news.ycombinator.com/item?id=40780128) - [A working entropy encoder with output below the Shannon limit](https://github.com/Peter-Ebert/Valli-Encoding)
+* [2024-06-24, 20:05:09](https://news.ycombinator.com/item?id=40780075) - [Lawyers' Committee Opposes New Draft of American Privacy Rights Act](https://www.lawyerscommittee.org/lawyers-committee-opposes-new-draft-of-american-privacy-rights-act-urges-representatives-to-vote-no/)
 * [2024-06-24, 20:01:18](https://news.ycombinator.com/item?id=40780036) - [Y Combinator, AI startups oppose California AI safety bill](https://www.theregister.com/2024/06/24/ai_startups_california_bill/)
 * [2024-06-24, 19:36:20](https://news.ycombinator.com/item?id=40779788) - [The Company Men](https://im1776.com/2024/06/19/the-company-men/)
 * [2024-06-24, 19:35:52](https://news.ycombinator.com/item?id=40779785) - [The case for not sanitising fairy tales](https://www.plough.com/en/topics/culture/literature/the-case-for-not-sanitizing-fairy-tales)
@@ -13,6 +16,7 @@
 * [2024-06-24, 19:20:39](https://news.ycombinator.com/item?id=40779658) - [Komorebi: Tiling Window Management for Windows](https://github.com/LGUG2Z/komorebi)
 * [2024-06-24, 19:19:15](https://news.ycombinator.com/item?id=40779646) - [Lifesaving robots arrive on Lake Michigan beaches to prevent drownings](https://www.mlive.com/news/kalamazoo/2024/06/lifesaving-robots-arrive-on-lake-michigan-beaches-to-prevent-drownings.html)
 * [2024-06-24, 19:19:06](https://news.ycombinator.com/item?id=40779643) - [A journey into Kindle AI slop hell](https://maxread.substack.com/p/my-kindle-thinks-im-stupid-now)
+* [2024-06-24, 19:10:35](https://news.ycombinator.com/item?id=40779574) - [Uber Is Locking Out NYC Drivers Mid-Shift to Lower Minimum Pay](https://www.bloomberg.com/news/articles/2024-06-24/uber-is-locking-out-new-york-city-drivers-mid-shift-to-lower-minimum-pay)
 * [2024-06-24, 18:43:52](https://news.ycombinator.com/item?id=40779349) - [Google Maps and Street View running on a Commodore 64](https://readwrite.com/move-over-android-and-ios-these-guys-got-google-maps-running-on-a-commodore-64/)
 * [2024-06-24, 18:03:05](https://news.ycombinator.com/item?id=40778965) - [Cloudflare blocking my IP (2023)](https://community.cloudflare.com/t/cloudflare-blocking-my-ip/542685)
 * [2024-06-24, 18:02:26](https://news.ycombinator.com/item?id=40778958) - [Disney Executive expose reveals corporate discrimination on white hiring [video]](https://www.youtube.com/watch?v=XyffDzqb_6U)
