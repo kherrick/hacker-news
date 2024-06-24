@@ -7,7 +7,6 @@
 * [2024-06-23, 19:19:01](https://news.ycombinator.com/item?id=40769867) - [Deriving Dependently-Typed OOP from First Principles](https://arxiv.org/abs/2403.06707)
 * [2024-06-23, 19:06:12](https://news.ycombinator.com/item?id=40769759) - [Y combinator codex (2021)](https://phoe.github.io/codex.html)
 * [2024-06-23, 18:32:10](https://news.ycombinator.com/item?id=40769496) - [Detecting hallucinations in large language models using semantic entropy](https://www.nature.com/articles/s41586-024-07421-0)
-* [2024-06-23, 18:12:02](https://news.ycombinator.com/item?id=40769362) - [Start all of your commands with a comma (2009)](https://rhodesmill.org/brandon/2009/commands-with-comma/)
 * [2024-06-23, 18:06:52](https://news.ycombinator.com/item?id=40769325) - [Much Ado About First Folios — the world's largest Shakespeare collection reopens](https://www.npr.org/2024/06/19/nx-s1-4950096/folger-shakespeare-library-renovation)
 * [2024-06-23, 17:22:52](https://news.ycombinator.com/item?id=40769001) - [The tiny chip that powers Montreal subway tickets](http://www.righto.com/2024/06/montreal-mifare-ultralight-nfc.html)
 * [2024-06-23, 16:06:42](https://news.ycombinator.com/item?id=40768418) - [B-Trees Require Fewer Comparisons Than Balanced Binary Search Trees](http://databasearchitects.blogspot.com/2024/06/b-trees-require-fewer-comparisons-than.html)
@@ -30,6 +29,7 @@
 * [2024-06-22, 03:59:41](https://news.ycombinator.com/item?id=40756154) - [Bringing Roman Light to Life](https://www.journals.uchicago.edu/doi/10.1086/731029)
 * [2024-06-21, 21:25:33](https://news.ycombinator.com/item?id=40753989) - [Formal methods: Just good engineering practice?](https://brooker.co.za/blog/2024/04/17/formal.html)
 * [2024-06-21, 21:10:28](https://news.ycombinator.com/item?id=40753856) - [Solving puzzles faster than humanly possible](https://biggieblog.com/solving-puzzles-faster-than-humanly-possible/)
+* [2024-06-20, 14:31:22](https://news.ycombinator.com/item?id=40739187) - [You can now write React in Lua](https://github.com/jsdotlua/react-lua)
 
 ## [Archives](archives/index.md)
 

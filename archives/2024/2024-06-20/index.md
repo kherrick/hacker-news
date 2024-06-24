@@ -73,6 +73,7 @@
 * [2024-06-20, 14:48:29](https://news.ycombinator.com/item?id=40739356) - [Curating my corner of the Internet with a freehand web editor](https://rafichaudhury.com/site/blog/Freehand-Web)
 * [2024-06-20, 14:38:05](https://news.ycombinator.com/item?id=40739250) - [A Judge Made Houston the Top Bankruptcy Court and Helped His Girlfriend Cash In](https://www.wsj.com/finance/bankruptcy-court-houston-jones-freeman-dbba77e9)
 * [2024-06-20, 14:35:35](https://news.ycombinator.com/item?id=40739225) - [Optimizing AI Inference at Character.ai](https://research.character.ai/optimizing-inference/)
+* [2024-06-20, 14:31:22](https://news.ycombinator.com/item?id=40739187) - [You can now write React in Lua](https://github.com/jsdotlua/react-lua)
 * [2024-06-20, 14:23:24](https://news.ycombinator.com/item?id=40739108) - [EPA rule limiting certain 'forever chemicals' in drinking water is challenged](https://www.npr.org/2024/06/20/nx-s1-5006553/epa-rule-limiting-certain-forever-chemicals-in-drinking-water-is-challenged)
 * [2024-06-20, 14:17:02](https://news.ycombinator.com/item?id=40739046) - [Connection Machine Lisp (1986)](https://dl.acm.org/doi/pdf/10.1145/319838.319870)
 * [2024-06-20, 14:03:46](https://news.ycombinator.com/item?id=40738916) - [Claude 3.5 Sonnet](https://www.anthropic.com/news/claude-3-5-sonnet)
