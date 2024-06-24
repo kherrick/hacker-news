@@ -2,7 +2,6 @@
 
 * [2024-06-24, 15:09:22](https://news.ycombinator.com/item?id=40776951) - [Car dealerships revert to pens and paper after cyberattacks on software provider](https://apnews.com/article/car-dealerships-cyberattack-cdk-outage-3f7c81f6be0e212172b33cdc9f49feba)
 * [2024-06-24, 14:52:01](https://news.ycombinator.com/item?id=40776758) - [No computers. Keep books. Seattle library network outage nears a month](https://www.seattletimes.com/seattle-news/no-computers-keep-books-seattle-library-network-outage-nears-a-month/)
-* [2024-06-24, 14:15:23](https://news.ycombinator.com/item?id=40776319) - [Politics is still both local and personal – but only for independents](https://theconversation.com/politics-is-still-both-local-and-personal-but-only-for-independents-not-for-democrats-or-republicans-226207)
 * [2024-06-24, 13:32:45](https://news.ycombinator.com/item?id=40775858) - [Apple is first company charged with violating EU's DMA rules](https://www.theverge.com/2024/6/24/24184629/apple-dma-steering-infringement-ruling)
 * [2024-06-24, 12:53:22](https://news.ycombinator.com/item?id=40775417) - [Another drug approved despite review board](https://www.science.org/content/blog-post/sarepta-why)
 * [2024-06-24, 12:00:13](https://news.ycombinator.com/item?id=40774980) - [UpCodes (YC S17) is hiring remote engineers across the Americas](https://up.codes/careers?utm_source=HN)
@@ -29,7 +28,8 @@
 * [2024-06-22, 03:59:41](https://news.ycombinator.com/item?id=40756154) - [Bringing Roman Light to Life](https://www.journals.uchicago.edu/doi/10.1086/731029)
 * [2024-06-21, 22:25:36](https://news.ycombinator.com/item?id=40754501) - [The End-of-Line Story (2004)](https://www.rfc-editor.org/old/EOLstory.txt)
 * [2024-06-21, 13:13:39](https://news.ycombinator.com/item?id=40749279) - [Show HN: Online OPML editor to manage subscription lists](https://github.com/imdj/opml-editor)
-* [2024-06-20, 14:31:22](https://news.ycombinator.com/item?id=40739187) - [React Lua – Translation of upstream ReactJS 17.x into Lua](https://github.com/jsdotlua/react-lua)
+* [2024-06-20, 18:03:42](https://news.ycombinator.com/item?id=40741427) - [Show HN: Store Text in Minesweeper](https://sdk.scroll.pub/treeComponentFramework/sweepercraft/#rows/8/columns/47/layout/aaaaacd4.aei8kijaFmYeIat4awKaaFeb8HiabaiabcqGcaFGceEah8aaaaaaaa)
+* [2024-06-20, 14:31:22](https://news.ycombinator.com/item?id=40739187) - [React Lua](https://github.com/jsdotlua/react-lua)
 
 ## [Archives](archives/index.md)
 
