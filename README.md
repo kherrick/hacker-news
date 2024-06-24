@@ -18,7 +18,7 @@
 * [2024-06-23, 17:22:52](https://news.ycombinator.com/item?id=40769001) - [The tiny chip that powers Montreal subway tickets](http://www.righto.com/2024/06/montreal-mifare-ultralight-nfc.html)
 * [2024-06-23, 16:06:42](https://news.ycombinator.com/item?id=40768418) - [B-Trees Require Fewer Comparisons Than Balanced Binary Search Trees](http://databasearchitects.blogspot.com/2024/06/b-trees-require-fewer-comparisons-than.html)
 * [2024-06-23, 14:16:56](https://news.ycombinator.com/item?id=40767645) - [Picolisp a Railroad Simulation](https://picolisp-explored.com/a-railroad-simulation-with-des)
-* [2024-06-23, 10:40:17](https://news.ycombinator.com/item?id=40766391) - [My weekend project turned into a 3 years journey](https://blog.znote.io/2024/side-hustle-journey/)
+* [2024-06-23, 13:49:30](https://news.ycombinator.com/item?id=40767459) - [I am using AI to drop hats outside my window onto New Yorkers](https://dropofahat.zone/)
 * [2024-06-23, 09:40:34](https://news.ycombinator.com/item?id=40766079) - [Timeliness without datagrams using QUIC](https://quic.video/blog/never-use-datagrams/)
 * [2024-06-22, 12:05:11](https://news.ycombinator.com/item?id=40758451) - [Benjamin Thorpe translated almost all Old English texts (2016)](https://thijsporck.com/2016/04/08/benjamin-thorpe-the-man-who-translated-almost-all-old-english-texts/)
 * [2024-06-22, 10:04:03](https://news.ycombinator.com/item?id=40757777) - [Polytype: A Rosetta Stone for typesetting engines](https://polytype.dev/)
