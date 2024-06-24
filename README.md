@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-24, 17:15:43](https://news.ycombinator.com/item?id=40778522) - [CA has surrendered its streets to assholes: Too much tolerance destroys peace](https://unherd.com/2024/06/california-has-surrendered-its-streets-to-assholes/)
 * [2024-06-24, 17:00:35](https://news.ycombinator.com/item?id=40778389) - [Infisical (YC W23) is hiring to build the open source security stack for devs](https://www.ycombinator.com/companies/infisical/jobs/0tvPmoc-full-stack-engineer)
 * [2024-06-24, 15:09:22](https://news.ycombinator.com/item?id=40776951) - [Car dealerships revert to pens and paper after cyberattacks on software provider](https://apnews.com/article/car-dealerships-cyberattack-cdk-outage-3f7c81f6be0e212172b33cdc9f49feba)
 * [2024-06-24, 11:05:18](https://news.ycombinator.com/item?id=40774563) - [Homegrown Rendering with Rust (2021)](https://medium.com/embarkstudios/homegrown-rendering-with-rust-1e39068e56a7)
 * [2024-06-24, 10:25:11](https://news.ycombinator.com/item?id=40774277) - [Microfeatures I love in blogs and personal websites](https://danilafe.com/blog/blog_microfeatures/)
 * [2024-06-24, 09:10:56](https://news.ycombinator.com/item?id=40773883) - [Apple found in breach of EU competition rules](https://www.theguardian.com/technology/article/2024/jun/24/apple-breach-eu-competition-rules-digital-markets-act)
 * [2024-06-24, 09:01:32](https://news.ycombinator.com/item?id=40773843) - [Gren 0.4: New Foundations](https://gren-lang.org/news/240624_gren_04/)
-* [2024-06-24, 06:50:00](https://news.ycombinator.com/item?id=40773139) - [Cosmopolitan v3.5.0](https://github.com/jart/cosmopolitan/releases/tag/3.5.0)
 * [2024-06-24, 00:43:10](https://news.ycombinator.com/item?id=40771839) - [Neko: Portable framework for high-order spectral element flow simulations](https://github.com/ExtremeFLOW/neko)
 * [2024-06-23, 20:39:35](https://news.ycombinator.com/item?id=40770430) - [Writing an IR from Scratch and survive to write a post](https://farena.in/compilers/programming/writing-an-ir-from-scratch/)
 * [2024-06-23, 20:26:08](https://news.ycombinator.com/item?id=40770358) - [The economics of the Birkin handbag](https://www.wsj.com/style/fashion/hermes-birkin-bag-investment-031c215c)
