@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-06-24](index.md)
 
 * [2024-06-24, 10:34:11](https://news.ycombinator.com/item?id=40774336) - [Fire at South Korea lithium battery plant kills at least 16 people](https://www.nbcnews.com/news/world/fire-south-korea-lithium-battery-plant-kills-least-16-people-rcna158536)
+* [2024-06-24, 10:25:11](https://news.ycombinator.com/item?id=40774277) - [Microfeatures I Love in Blogs and Personal Websites](https://danilafe.com/blog/blog_microfeatures/)
+* [2024-06-24, 10:24:15](https://news.ycombinator.com/item?id=40774270) - [DIY Smart Doorbell for just $2, no soldering required](https://frenck.dev/diy-smart-doorbell-for-just-2-dollar/)
 * [2024-06-24, 09:57:39](https://news.ycombinator.com/item?id=40774138) - [Up to 78M batteries will be discarded daily by 2025, researchers warn](https://cordis.europa.eu/article/id/430457-up-to-78-million-batteries-will-be-discarded-daily-by-2025-researchers-warn)
 * [2024-06-24, 09:23:20](https://news.ycombinator.com/item?id=40773957) - [EPA releases report on Apple's hazardous waste violations in urban silicon fab](https://mastodon.social/@ashleygjovik/112668309100333232/?)
 * [2024-06-24, 09:10:56](https://news.ycombinator.com/item?id=40773883) - [Apple found in breach of EU competition rules](https://www.theguardian.com/technology/article/2024/jun/24/apple-breach-eu-competition-rules-digital-markets-act)
