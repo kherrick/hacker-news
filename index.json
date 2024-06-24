@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2024-06-24, 12:33:52",
+      "https://news.ycombinator.com/item?id=40775268"
+    ],
+    [
+      "LockBit claims to exfiltrate 33TB of data from US Federal Reserve",
+      "https://securityaffairs.com/164873/cyber-crime/lockbit-claims-hacked-us-federal-reserve.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-24, 12:29:54",
+      "https://news.ycombinator.com/item?id=40775234"
+    ],
+    [
+      "Bashbro – New software release (bashttpd rework)",
+      "https://github.com/victrixsoft/bashbro"
+    ]
+  ],
+  [
+    [
       "2024-06-24, 12:00:13",
       "https://news.ycombinator.com/item?id=40774980"
     ],
@@ -45,7 +65,7 @@
       "https://news.ycombinator.com/item?id=40774277"
     ],
     [
-      "Microfeatures I Love in Blogs and Personal Websites",
+      "Microfeatures I love in blogs and personal websites",
       "https://danilafe.com/blog/blog_microfeatures/"
     ]
   ],
@@ -55,7 +75,7 @@
       "https://news.ycombinator.com/item?id=40774270"
     ],
     [
-      "DIY Smart Doorbell for just $2, no soldering required (2019)",
+      "Convert an existing wired doorbell into a smart doorbell using ESPHome",
       "https://frenck.dev/diy-smart-doorbell-for-just-2-dollar/"
     ]
   ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2024-06-23, 20:39:35",
-      "https://news.ycombinator.com/item?id=40770430"
-    ],
-    [
-      "Writing an IR from Scratch and survive to write a post",
-      "https://farena.in/compilers/programming/writing-an-ir-from-scratch/"
-    ]
-  ],
-  [
-    [
       "2024-06-23, 20:26:08",
       "https://news.ycombinator.com/item?id=40770358"
     ],
@@ -211,16 +221,6 @@
   ],
   [
     [
-      "2024-06-23, 12:15:49",
-      "https://news.ycombinator.com/item?id=40766869"
-    ],
-    [
-      "\"We argue that mitochondria are the processor of the cell\" (2022)",
-      "https://www.cell.com/action/showPdf?pii=S1550-4131%2822%2900459-4"
-    ]
-  ],
-  [
-    [
       "2024-06-23, 12:01:45",
       "https://news.ycombinator.com/item?id=40766791"
     ],
@@ -237,16 +237,6 @@
     [
       "Benjamin Thorpe: The Man Who Translated Almost All Old English Texts",
       "https://thijsporck.com/2016/04/08/benjamin-thorpe-the-man-who-translated-almost-all-old-english-texts/"
-    ]
-  ],
-  [
-    [
-      "2024-06-22, 11:33:39",
-      "https://news.ycombinator.com/item?id=40758229"
-    ],
-    [
-      "Show HN: Feedback on Sketch Colourisation",
-      "https://github.com/CHAITron/sketchdeco-code"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "The End-of-Line Story (2004)",
       "https://www.rfc-editor.org/old/EOLstory.txt"
+    ]
+  ],
+  [
+    [
+      "2024-06-21, 13:13:39",
+      "https://news.ycombinator.com/item?id=40749279"
+    ],
+    [
+      "Show HN: Online OPML editor to manage subscription lists",
+      "https://github.com/imdj/opml-editor"
     ]
   ],
   [
