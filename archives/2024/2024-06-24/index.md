@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-24](index.md)
 
 * [2024-06-24, 11:05:18](https://news.ycombinator.com/item?id=40774563) - [Homegrown Rendering with Rust](https://medium.com/embarkstudios/homegrown-rendering-with-rust-1e39068e56a7)
+* [2024-06-24, 10:47:43](https://news.ycombinator.com/item?id=40774446) - [Ask HN: What is the most challenging programming course you have taken?](https://news.ycombinator.com/item?id=40774446)
 * [2024-06-24, 10:36:45](https://news.ycombinator.com/item?id=40774351) - [Lockbit 3.0 Claims Attack on Federal Reserve: 33 Terabytes Allegedly Compromised](https://www.redhotcyber.com/en/post/lockbit-3-0-claims-attack-on-federal-reserve-33-terabytes-of-sensitive-data-allegedly-compromised/)
 * [2024-06-24, 10:34:11](https://news.ycombinator.com/item?id=40774336) - [Fire at South Korea lithium battery plant kills at least 16 people](https://www.nbcnews.com/news/world/fire-south-korea-lithium-battery-plant-kills-least-16-people-rcna158536)
 * [2024-06-24, 10:25:11](https://news.ycombinator.com/item?id=40774277) - [Microfeatures I Love in Blogs and Personal Websites](https://danilafe.com/blog/blog_microfeatures/)
