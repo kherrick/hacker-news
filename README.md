@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-24, 09:57:39](https://news.ycombinator.com/item?id=40774138) - [Up to 78M batteries will be discarded daily by 2025, researchers warn](https://cordis.europa.eu/article/id/430457-up-to-78-million-batteries-will-be-discarded-daily-by-2025-researchers-warn)
 * [2024-06-24, 09:23:20](https://news.ycombinator.com/item?id=40773957) - [EPA releases report on Apple's hazardous waste violations in urban silicon fab](https://mastodon.social/@ashleygjovik/112668309100333232/?)
 * [2024-06-24, 09:10:56](https://news.ycombinator.com/item?id=40773883) - [Apple found in breach of EU competition rules](https://www.theguardian.com/technology/article/2024/jun/24/apple-breach-eu-competition-rules-digital-markets-act)
 * [2024-06-24, 09:01:32](https://news.ycombinator.com/item?id=40773843) - [Gren 0.4: New Foundations](https://gren-lang.org/news/240624_gren_04/)
@@ -9,7 +10,6 @@
 * [2024-06-24, 06:50:00](https://news.ycombinator.com/item?id=40773139) - [Cosmopolitan v3.5.0](https://github.com/jart/cosmopolitan/releases/tag/3.5.0)
 * [2024-06-24, 04:17:51](https://news.ycombinator.com/item?id=40772633) - [Synthesizer for Thought](https://thesephist.com/posts/synth/)
 * [2024-06-24, 00:43:10](https://news.ycombinator.com/item?id=40771839) - [Neko: Portable framework for high-order spectral element flow simulations](https://github.com/ExtremeFLOW/neko)
-* [2024-06-23, 21:00:57](https://news.ycombinator.com/item?id=40770554) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-06-23, 20:39:35](https://news.ycombinator.com/item?id=40770430) - [Writing an IR from Scratch and survive to write a post](https://farena.in/compilers/programming/writing-an-ir-from-scratch/)
 * [2024-06-23, 20:26:08](https://news.ycombinator.com/item?id=40770358) - [The economics of the Birkin handbag](https://www.wsj.com/style/fashion/hermes-birkin-bag-investment-031c215c)
 * [2024-06-23, 20:02:33](https://news.ycombinator.com/item?id=40770171) - [LINQPad – The .NET Programmer's Playground](https://www.linqpad.net/)
