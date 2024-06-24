@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-24, 10:34:11](https://news.ycombinator.com/item?id=40774336) - [Fire at South Korea lithium battery plant kills at least 16 people](https://www.nbcnews.com/news/world/fire-south-korea-lithium-battery-plant-kills-least-16-people-rcna158536)
 * [2024-06-24, 09:57:39](https://news.ycombinator.com/item?id=40774138) - [Up to 78M batteries will be discarded daily by 2025, researchers warn](https://cordis.europa.eu/article/id/430457-up-to-78-million-batteries-will-be-discarded-daily-by-2025-researchers-warn)
 * [2024-06-24, 09:23:20](https://news.ycombinator.com/item?id=40773957) - [EPA releases report on Apple's hazardous waste violations in urban silicon fab](https://mastodon.social/@ashleygjovik/112668309100333232/?)
 * [2024-06-24, 09:10:56](https://news.ycombinator.com/item?id=40773883) - [Apple found in breach of EU competition rules](https://www.theguardian.com/technology/article/2024/jun/24/apple-breach-eu-competition-rules-digital-markets-act)
@@ -27,7 +28,6 @@
 * [2024-06-22, 09:49:15](https://news.ycombinator.com/item?id=40757717) - [Arm64EC – Run x86_64 and Arm code in the same process](https://learn.microsoft.com/en-us/windows/arm/arm64ec)
 * [2024-06-22, 03:59:41](https://news.ycombinator.com/item?id=40756154) - [Bringing Roman Light to Life](https://www.journals.uchicago.edu/doi/10.1086/731029)
 * [2024-06-21, 21:25:33](https://news.ycombinator.com/item?id=40753989) - [Formal methods: Just good engineering practice?](https://brooker.co.za/blog/2024/04/17/formal.html)
-* [2024-06-20, 18:33:22](https://news.ycombinator.com/item?id=40741723) - [Cognate: Readable and concise concatenative programming](https://cognate-lang.github.io/learn.html)
 * [2024-06-20, 14:47:35](https://news.ycombinator.com/item?id=40739350) - [An essay on the history of mathematical typography (2017)](http://www.practicallyefficient.com/2017/10/13/from-boiling-lead-and-black-art.html)
 * [2024-06-20, 14:31:22](https://news.ycombinator.com/item?id=40739187) - [You can now write React in Lua](https://github.com/jsdotlua/react-lua)
 
