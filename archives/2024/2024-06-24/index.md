@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-24](index.md)
 
+* [2024-06-24, 12:44:14](https://news.ycombinator.com/item?id=40775349) - [Did Apple kill the MicroLED industry?](https://www.yolegroup.com/strategy-insights/did-apple-just-kill-the-microled-industry/)
 * [2024-06-24, 12:38:06](https://news.ycombinator.com/item?id=40775301) - [Microsoft Account to local account conversion guide erased from Windows 11 guide](https://www.tomshardware.com/software/windows/microsoft-account-to-local-account-conversion-guide-erased-from-official-windows-11-guide-instructions-redacted-earlier-this-week)
 * [2024-06-24, 12:33:52](https://news.ycombinator.com/item?id=40775268) - [LockBit claims to exfiltrate 33TB of data from US Federal Reserve](https://securityaffairs.com/164873/cyber-crime/lockbit-claims-hacked-us-federal-reserve.html)
 * [2024-06-24, 12:29:54](https://news.ycombinator.com/item?id=40775234) - [Bashbro – New software release (bashttpd rework)](https://github.com/victrixsoft/bashbro)

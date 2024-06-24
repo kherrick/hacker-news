@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-24, 12:44:14](https://news.ycombinator.com/item?id=40775349) - [Did Apple kill the MicroLED industry?](https://www.yolegroup.com/strategy-insights/did-apple-just-kill-the-microled-industry/)
 * [2024-06-24, 12:38:06](https://news.ycombinator.com/item?id=40775301) - [Microsoft Account to local account conversion guide erased from Windows 11 guide](https://www.tomshardware.com/software/windows/microsoft-account-to-local-account-conversion-guide-erased-from-official-windows-11-guide-instructions-redacted-earlier-this-week)
 * [2024-06-24, 12:33:52](https://news.ycombinator.com/item?id=40775268) - [LockBit claims to exfiltrate 33TB of data from US Federal Reserve](https://securityaffairs.com/164873/cyber-crime/lockbit-claims-hacked-us-federal-reserve.html)
 * [2024-06-24, 12:29:54](https://news.ycombinator.com/item?id=40775234) - [Bashbro – New software release (bashttpd rework)](https://github.com/victrixsoft/bashbro)
@@ -14,7 +15,6 @@
 * [2024-06-24, 08:45:20](https://news.ycombinator.com/item?id=40773749) - [CentOS Linux 7 will reach EOL on Sunday](https://www.redhat.com/en/topics/linux/centos-linux-eol)
 * [2024-06-24, 06:53:04](https://news.ycombinator.com/item?id=40773151) - [US prosecutors recommend Justice Department criminally charge Boeing](https://www.voanews.com/a/us-prosecutors-recommend-justice-department-criminally-charge-boeing-as-deadline-looms/7667194.html)
 * [2024-06-24, 06:50:00](https://news.ycombinator.com/item?id=40773139) - [Cosmopolitan v3.5.0](https://github.com/jart/cosmopolitan/releases/tag/3.5.0)
-* [2024-06-24, 00:43:10](https://news.ycombinator.com/item?id=40771839) - [Neko: Portable framework for high-order spectral element flow simulations](https://github.com/ExtremeFLOW/neko)
 * [2024-06-23, 20:26:08](https://news.ycombinator.com/item?id=40770358) - [The economics of the Birkin handbag](https://www.wsj.com/style/fashion/hermes-birkin-bag-investment-031c215c)
 * [2024-06-23, 20:02:33](https://news.ycombinator.com/item?id=40770171) - [LINQPad – The .NET Programmer's Playground](https://www.linqpad.net/)
 * [2024-06-23, 19:19:01](https://news.ycombinator.com/item?id=40769867) - [Deriving Dependently-Typed OOP from First Principles](https://arxiv.org/abs/2403.06707)
