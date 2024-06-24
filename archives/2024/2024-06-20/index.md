@@ -71,6 +71,7 @@
 * [2024-06-20, 14:54:23](https://news.ycombinator.com/item?id=40739431) - [Ask HN: Could AI be a dot com sized bubble?](https://news.ycombinator.com/item?id=40739431)
 * [2024-06-20, 14:50:40](https://news.ycombinator.com/item?id=40739384) - [Calculating Empires: A Genealogy of Technology and Power Since 1500](https://calculatingempires.net/)
 * [2024-06-20, 14:48:29](https://news.ycombinator.com/item?id=40739356) - [Curating my corner of the Internet with a freehand web editor](https://rafichaudhury.com/site/blog/Freehand-Web)
+* [2024-06-20, 14:47:35](https://news.ycombinator.com/item?id=40739350) - [An essay on the history of mathematical typography (2017)](http://www.practicallyefficient.com/2017/10/13/from-boiling-lead-and-black-art.html)
 * [2024-06-20, 14:38:05](https://news.ycombinator.com/item?id=40739250) - [A Judge Made Houston the Top Bankruptcy Court and Helped His Girlfriend Cash In](https://www.wsj.com/finance/bankruptcy-court-houston-jones-freeman-dbba77e9)
 * [2024-06-20, 14:35:35](https://news.ycombinator.com/item?id=40739225) - [Optimizing AI Inference at Character.ai](https://research.character.ai/optimizing-inference/)
 * [2024-06-20, 14:31:22](https://news.ycombinator.com/item?id=40739187) - [You can now write React in Lua](https://github.com/jsdotlua/react-lua)
