@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-23](index.md)
 
+* [2024-06-23, 23:32:17](https://news.ycombinator.com/item?id=40771514) - [How to Do The Jhanas](https://nadia.xyz/jhanas)
 * [2024-06-23, 22:08:38](https://news.ycombinator.com/item?id=40771017) - [The unbearable sorrow of Apple Weather](https://leancrew.com/all-this/2024/06/the-unbearable-sorrow-of-apple-weather/)
 * [2024-06-23, 21:15:01](https://news.ycombinator.com/item?id=40770624) - [The pivot to AI: Pay no attention to the man behind the curtain](https://amycastor.com/2023/09/12/pivot-to-ai-pay-no-attention-to-the-man-behind-the-curtain/)
 * [2024-06-23, 21:08:14](https://news.ycombinator.com/item?id=40770595) - [I switched to Vim – and it took me only 6 years to learn it](https://emanuelcepoi.com/preview/66785dd2d3170dd0332a47d9)
