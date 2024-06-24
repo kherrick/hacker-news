@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-06-24, 17:15:43",
-      "https://news.ycombinator.com/item?id=40778522"
-    ],
-    [
-      "CA has surrendered its streets to assholes: Too much tolerance destroys peace",
-      "https://unherd.com/2024/06/california-has-surrendered-its-streets-to-assholes/"
-    ]
-  ],
-  [
-    [
       "2024-06-24, 17:00:35",
       "https://news.ycombinator.com/item?id=40778389"
     ],
@@ -67,6 +57,16 @@
     [
       "Gren 0.4: New Foundations",
       "https://gren-lang.org/news/240624_gren_04/"
+    ]
+  ],
+  [
+    [
+      "2024-06-24, 04:17:51",
+      "https://news.ycombinator.com/item?id=40772633"
+    ],
+    [
+      "Synthesizer for Thought",
+      "https://thesephist.com/posts/synth/"
     ]
   ],
   [
@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2024-06-23, 14:02:08",
+      "https://news.ycombinator.com/item?id=40767529"
+    ],
+    [
+      "SquirrelFS: Using the Rust compiler to check file-system crash consistency",
+      "https://arxiv.org/abs/2406.09649"
+    ]
+  ],
+  [
+    [
       "2024-06-23, 13:49:30",
       "https://news.ycombinator.com/item?id=40767459"
     ],
@@ -171,12 +181,12 @@
   ],
   [
     [
-      "2024-06-23, 12:15:49",
-      "https://news.ycombinator.com/item?id=40766869"
+      "2024-06-23, 10:40:17",
+      "https://news.ycombinator.com/item?id=40766391"
     ],
     [
-      "Mitochondrial signal transduction (2022)",
-      "https://www.cell.com/action/showPdf?pii=S1550-4131%2822%2900459-4"
+      "My weekend project turned into a 3 years journey",
+      "https://blog.znote.io/2024/side-hustle-journey/"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Timeliness without datagrams using QUIC",
       "https://quic.video/blog/never-use-datagrams/"
-    ]
-  ],
-  [
-    [
-      "2024-06-23, 06:26:22",
-      "https://news.ycombinator.com/item?id=40765183"
-    ],
-    [
-      "I've stopped using box plots (2021)",
-      "https://nightingaledvs.com/ive-stopped-using-box-plots-should-you/"
     ]
   ],
   [
