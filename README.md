@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-24, 21:17:40](https://news.ycombinator.com/item?id=40780914) - [Android Secret Security Codes You Need to Know](https://www.makeuseof.com/android-security-codes-you-need-to-know/)
 * [2024-06-24, 21:00:35](https://news.ycombinator.com/item?id=40780712) - [Finley (YC W21) is hiring our first Sales Ops team member (SF, NY, Remote)](https://jobs.lever.co/FinleyTechnologies/ef9b46ab-6c97-4401-b7d1-8535c262f246)
 * [2024-06-24, 20:29:34](https://news.ycombinator.com/item?id=40780366) - [Carmakers File Challenge to Parts of New Automatic-Braking Rule](https://www.wsj.com/business/autos/carmakers-file-challenge-to-parts-of-new-automatic-braking-rule-ebb653e9)
 * [2024-06-24, 20:05:09](https://news.ycombinator.com/item?id=40780075) - [Lawyers' Committee Opposes New Draft of American Privacy Rights Act](https://www.lawyerscommittee.org/lawyers-committee-opposes-new-draft-of-american-privacy-rights-act-urges-representatives-to-vote-no/)
@@ -25,6 +24,7 @@
 * [2024-06-23, 04:50:30](https://news.ycombinator.com/item?id=40764889) - [Truckstops on the Information Superhighway (2018)](https://www.americanacademy.de/truckstops-on-the-information-superhighway/)
 * [2024-06-22, 12:05:11](https://news.ycombinator.com/item?id=40758451) - [Benjamin Thorpe translated almost all Old English texts (2016)](https://thijsporck.com/2016/04/08/benjamin-thorpe-the-man-who-translated-almost-all-old-english-texts/)
 * [2024-06-22, 11:35:13](https://news.ycombinator.com/item?id=40758241) - [Tachyonfx: A library for creating shader-like effects in terminal UIs](https://github.com/junkdog/tachyonfx)
+* [2024-06-22, 10:54:14](https://news.ycombinator.com/item?id=40757996) - [Feral pigeons and the London Pigeon String Foot and Rescue group](https://www.bbc.com/future/article/20240620-why-do-people-persecute-city-pigeons)
 * [2024-06-22, 10:04:03](https://news.ycombinator.com/item?id=40757777) - [Polytype: A Rosetta Stone for typesetting engines](https://polytype.dev/)
 * [2024-06-22, 09:49:15](https://news.ycombinator.com/item?id=40757717) - [Arm64EC – Build and port apps for native performance on Arm](https://learn.microsoft.com/en-us/windows/arm/arm64ec)
 * [2024-06-21, 20:28:31](https://news.ycombinator.com/item?id=40753468) - [Uh-Oh: A story of SpaghettiOs and forgotten history](https://snackstack.net/2024/05/25/uh-oh-a-story-of-spaghettios-and-forgotten-history/)
