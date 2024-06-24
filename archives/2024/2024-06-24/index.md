@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-24](index.md)
 
+* [2024-06-24, 20:41:25](https://news.ycombinator.com/item?id=40780489) - [Bandwidth Conservation Society](https://kokorobot.ca/site/leaner_web.html)
 * [2024-06-24, 20:09:20](https://news.ycombinator.com/item?id=40780128) - [A working entropy encoder with output below the Shannon limit](https://github.com/Peter-Ebert/Valli-Encoding)
 * [2024-06-24, 20:01:18](https://news.ycombinator.com/item?id=40780036) - [Y Combinator, AI startups oppose California AI safety bill](https://www.theregister.com/2024/06/24/ai_startups_california_bill/)
 * [2024-06-24, 19:36:20](https://news.ycombinator.com/item?id=40779788) - [The Company Men](https://im1776.com/2024/06/19/the-company-men/)

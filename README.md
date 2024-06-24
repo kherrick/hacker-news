@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-24, 20:41:25](https://news.ycombinator.com/item?id=40780489) - [Bandwidth Conservation Society](https://kokorobot.ca/site/leaner_web.html)
 * [2024-06-24, 20:09:20](https://news.ycombinator.com/item?id=40780128) - [A working entropy encoder with output below the Shannon limit](https://github.com/Peter-Ebert/Valli-Encoding)
 * [2024-06-24, 19:35:52](https://news.ycombinator.com/item?id=40779785) - [The case for not sanitising fairy tales](https://www.plough.com/en/topics/culture/literature/the-case-for-not-sanitizing-fairy-tales)
 * [2024-06-24, 19:20:39](https://news.ycombinator.com/item?id=40779658) - [Komorebi: Tiling Window Management for Windows](https://github.com/LGUG2Z/komorebi)
@@ -13,7 +14,6 @@
 * [2024-06-24, 03:35:40](https://news.ycombinator.com/item?id=40772495) - [Weighing Up Galileo's Evidence](https://www.historytoday.com/archive/great-debates/weighing-galileos-evidence)
 * [2024-06-24, 03:01:27](https://news.ycombinator.com/item?id=40772378) - [Copy-on-write performance and debugging](https://devblogs.microsoft.com/engineering-at-microsoft/copy-on-write-performance-and-debugging/)
 * [2024-06-23, 23:59:18](https://news.ycombinator.com/item?id=40771635) - [One index, two publishers and the global research economy](https://www.tandfonline.com/doi/full/10.1080/03054985.2024.2348448)
-* [2024-06-23, 23:58:02](https://news.ycombinator.com/item?id=40771627) - [Why do we still teach people to calculate?](https://freakonomics.com/podcast/why-do-we-still-teach-people-to-calculate/)
 * [2024-06-23, 20:26:08](https://news.ycombinator.com/item?id=40770358) - [The economics of the Birkin handbag](https://www.wsj.com/style/fashion/hermes-birkin-bag-investment-031c215c)
 * [2024-06-23, 19:20:53](https://news.ycombinator.com/item?id=40769882) - [Porting Python to a $3 smartwatch [video]](https://www.youtube.com/watch?v=sv58aPvIonw)
 * [2024-06-23, 19:19:01](https://news.ycombinator.com/item?id=40769867) - [Deriving Dependently-Typed OOP from First Principles](https://arxiv.org/abs/2403.06707)
