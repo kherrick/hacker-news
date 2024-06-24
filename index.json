@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-06-24, 17:29:08",
+      "https://news.ycombinator.com/item?id=40778655"
+    ],
+    [
+      "Human neuroscience is entering a new era – it mustn't forget its human dimension",
+      "https://www.nature.com/articles/d41586-024-02022-3"
+    ]
+  ],
+  [
+    [
+      "2024-06-24, 17:06:26",
+      "https://news.ycombinator.com/item?id=40778458"
+    ],
+    [
+      "Pocket Z project hopes to rekindle pocket PC form factor with a RPi Zero 2W",
+      "https://www.tomshardware.com/raspberry-pi/raspberry-pi-projects/pocket-z-project-hopes-to-rekindle-pocket-pc-form-factor-with-a-raspberry-pi-zero-2w-inside"
+    ]
+  ],
+  [
+    [
       "2024-06-24, 17:00:35",
       "https://news.ycombinator.com/item?id=40778389"
     ],
     [
       "Infisical (YC W23) is hiring to build the open source security stack for devs",
       "https://www.ycombinator.com/companies/infisical/jobs/0tvPmoc-full-stack-engineer"
+    ]
+  ],
+  [
+    [
+      "2024-06-24, 16:11:58",
+      "https://news.ycombinator.com/item?id=40777830"
+    ],
+    [
+      "'It's All Happening Again.' The Supply Chain Is Under Strain",
+      "https://www.nytimes.com/2024/06/24/business/global-shipping-rates.html"
     ]
   ],
   [
@@ -61,32 +91,12 @@
   ],
   [
     [
-      "2024-06-24, 04:17:51",
-      "https://news.ycombinator.com/item?id=40772633"
-    ],
-    [
-      "Synthesizer for Thought",
-      "https://thesephist.com/posts/synth/"
-    ]
-  ],
-  [
-    [
       "2024-06-24, 00:43:10",
       "https://news.ycombinator.com/item?id=40771839"
     ],
     [
       "Neko: Portable framework for high-order spectral element flow simulations",
       "https://github.com/ExtremeFLOW/neko"
-    ]
-  ],
-  [
-    [
-      "2024-06-23, 20:39:35",
-      "https://news.ycombinator.com/item?id=40770430"
-    ],
-    [
-      "Writing an IR from Scratch and survive to write a post",
-      "https://farena.in/compilers/programming/writing-an-ir-from-scratch/"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "Picolisp a Railroad Simulation",
       "https://picolisp-explored.com/a-railroad-simulation-with-des"
-    ]
-  ],
-  [
-    [
-      "2024-06-23, 14:02:08",
-      "https://news.ycombinator.com/item?id=40767529"
-    ],
-    [
-      "SquirrelFS: Using the Rust compiler to check file-system crash consistency",
-      "https://arxiv.org/abs/2406.09649"
     ]
   ],
   [
