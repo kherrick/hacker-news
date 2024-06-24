@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-06-24](index.md)
 
+* [2024-06-24, 17:29:08](https://news.ycombinator.com/item?id=40778655) - [Human neuroscience is entering a new era – it mustn't forget its human dimension](https://www.nature.com/articles/d41586-024-02022-3)
 * [2024-06-24, 17:15:43](https://news.ycombinator.com/item?id=40778522) - [CA has surrendered its streets to assholes: Too much tolerance destroys peace](https://unherd.com/2024/06/california-has-surrendered-its-streets-to-assholes/)
+* [2024-06-24, 17:06:26](https://news.ycombinator.com/item?id=40778458) - [Pocket Z project hopes to rekindle pocket PC form factor with a RPi Zero 2W](https://www.tomshardware.com/raspberry-pi/raspberry-pi-projects/pocket-z-project-hopes-to-rekindle-pocket-pc-form-factor-with-a-raspberry-pi-zero-2w-inside)
 * [2024-06-24, 17:00:35](https://news.ycombinator.com/item?id=40778389) - [Infisical (YC W23) is hiring to build the open source security stack for devs](https://www.ycombinator.com/companies/infisical/jobs/0tvPmoc-full-stack-engineer)
 * [2024-06-24, 16:29:43](https://news.ycombinator.com/item?id=40778038) - [Plastic Particles in Bottled Water](https://www.nih.gov/news-events/nih-research-matters/plastic-particles-bottled-water)
+* [2024-06-24, 16:11:58](https://news.ycombinator.com/item?id=40777830) - ['It's All Happening Again.' The Supply Chain Is Under Strain](https://www.nytimes.com/2024/06/24/business/global-shipping-rates.html)
 * [2024-06-24, 15:32:30](https://news.ycombinator.com/item?id=40777275) - [OpenAI Acquires Multi](https://multi.app/blog/multi-is-joining-openai)
 * [2024-06-24, 15:27:49](https://news.ycombinator.com/item?id=40777202) - [Apple vented toxic waste from semiconductor fab into residential apartment](https://twitter.com/ashleygjovik/status/1805006150410162322)
 * [2024-06-24, 15:27:25](https://news.ycombinator.com/item?id=40777196) - [Counterscale and the New Self-Hosted](https://benv.ca/blog/posts/counterscale-and-the-new-self-hosted)
