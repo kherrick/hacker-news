@@ -7,6 +7,7 @@
 * [2024-06-24, 21:30:43](https://news.ycombinator.com/item?id=40781048) - [Windows 11 is now enabling OneDrive folder backup without asking permission](https://www.neowin.net/news/windows-11-is-now-automatically-enabling-onedrive-folder-backup-without-asking-permission/)
 * [2024-06-24, 21:20:31](https://news.ycombinator.com/item?id=40780940) - [Ask HN: Those of you who've left the SWE world, what did you transition into?](https://news.ycombinator.com/item?id=40780940)
 * [2024-06-24, 21:17:40](https://news.ycombinator.com/item?id=40780914) - [Android Secret Security Codes You Need to Know](https://www.makeuseof.com/android-security-codes-you-need-to-know/)
+* [2024-06-24, 21:16:35](https://news.ycombinator.com/item?id=40780904) - [Layoffs in tech sector reach nearly 100k year to date](https://seekingalpha.com/news/4118529-layoffs-in-tech-sector-reach-near-100000-year-to-date)
 * [2024-06-24, 21:00:35](https://news.ycombinator.com/item?id=40780712) - [Finley (YC W21) is hiring our first Sales Ops team member (SF, NY, Remote)](https://jobs.lever.co/FinleyTechnologies/ef9b46ab-6c97-4401-b7d1-8535c262f246)
 * [2024-06-24, 20:59:28](https://news.ycombinator.com/item?id=40780696) - [MIME, RSS, and Existential Torment](https://xeiaso.net/blog/2024/fixing-rss-mailcap/)
 * [2024-06-24, 20:41:25](https://news.ycombinator.com/item?id=40780489) - [Bandwidth Conservation Society](https://kokorobot.ca/site/leaner_web.html)

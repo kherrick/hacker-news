@@ -2,6 +2,7 @@
 
 * [2024-06-24, 21:30:43](https://news.ycombinator.com/item?id=40781048) - [Windows 11 is now enabling OneDrive folder backup without asking permission](https://www.neowin.net/news/windows-11-is-now-automatically-enabling-onedrive-folder-backup-without-asking-permission/)
 * [2024-06-24, 21:20:31](https://news.ycombinator.com/item?id=40780940) - [Ask HN: Those of you who've left the SWE world, what did you transition into?](https://news.ycombinator.com/item?id=40780940)
+* [2024-06-24, 21:16:35](https://news.ycombinator.com/item?id=40780904) - [Layoffs in tech sector reach nearly 100k year to date](https://seekingalpha.com/news/4118529-layoffs-in-tech-sector-reach-near-100000-year-to-date)
 * [2024-06-24, 21:00:35](https://news.ycombinator.com/item?id=40780712) - [Finley (YC W21) is hiring our first Sales Ops team member (SF, NY, Remote)](https://jobs.lever.co/FinleyTechnologies/ef9b46ab-6c97-4401-b7d1-8535c262f246)
 * [2024-06-24, 20:59:28](https://news.ycombinator.com/item?id=40780696) - [MIME, RSS, and Existential Torment](https://xeiaso.net/blog/2024/fixing-rss-mailcap/)
 * [2024-06-24, 20:05:09](https://news.ycombinator.com/item?id=40780075) - [Lawyers' Committee Opposes New Draft of American Privacy Rights Act](https://www.lawyerscommittee.org/lawyers-committee-opposes-new-draft-of-american-privacy-rights-act-urges-representatives-to-vote-no/)
@@ -20,7 +21,6 @@
 * [2024-06-23, 19:20:53](https://news.ycombinator.com/item?id=40769882) - [Porting Python to a $3 smartwatch [video]](https://www.youtube.com/watch?v=sv58aPvIonw)
 * [2024-06-23, 19:19:01](https://news.ycombinator.com/item?id=40769867) - [Deriving Dependently-Typed OOP from First Principles](https://arxiv.org/abs/2403.06707)
 * [2024-06-23, 17:24:33](https://news.ycombinator.com/item?id=40769006) - [First we shape our social graph, then it shapes us (2022)](https://www.henrikkarlsson.xyz/p/first-we-shape-our-social-graph-then)
-* [2024-06-23, 16:06:42](https://news.ycombinator.com/item?id=40768418) - [B-Trees Require Fewer Comparisons Than Balanced Binary Search Trees](http://databasearchitects.blogspot.com/2024/06/b-trees-require-fewer-comparisons-than.html)
 * [2024-06-23, 14:16:56](https://news.ycombinator.com/item?id=40767645) - [A railroad simulation using discrete event simulation](https://picolisp-explored.com/a-railroad-simulation-with-des)
 * [2024-06-22, 12:05:11](https://news.ycombinator.com/item?id=40758451) - [Benjamin Thorpe translated almost all Old English texts (2016)](https://thijsporck.com/2016/04/08/benjamin-thorpe-the-man-who-translated-almost-all-old-english-texts/)
 * [2024-06-22, 11:35:13](https://news.ycombinator.com/item?id=40758241) - [Tachyonfx: A library for creating shader-like effects in terminal UIs](https://github.com/junkdog/tachyonfx)
