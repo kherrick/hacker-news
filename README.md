@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-24, 09:01:32](https://news.ycombinator.com/item?id=40773843) - [Gren 0.4: New Foundations](https://gren-lang.org/news/240624_gren_04/)
 * [2024-06-24, 08:56:08](https://news.ycombinator.com/item?id=40773806) - [Commission opens additional DMA investigation against Apple](https://ec.europa.eu/commission/presscorner/detail/en/ip_24_3433)
 * [2024-06-24, 06:53:04](https://news.ycombinator.com/item?id=40773151) - [US prosecutors recommend Justice Department criminally charge Boeing](https://www.voanews.com/a/us-prosecutors-recommend-justice-department-criminally-charge-boeing-as-deadline-looms/7667194.html)
 * [2024-06-24, 06:50:00](https://news.ycombinator.com/item?id=40773139) - [Cosmopolitan v3.5.0](https://github.com/jart/cosmopolitan/releases/tag/3.5.0)
@@ -17,7 +18,6 @@
 * [2024-06-23, 14:16:56](https://news.ycombinator.com/item?id=40767645) - [Picolisp a Railroad Simulation](https://picolisp-explored.com/a-railroad-simulation-with-des)
 * [2024-06-23, 14:02:08](https://news.ycombinator.com/item?id=40767529) - [SquirrelFS: Using the Rust compiler to check file-system crash consistency](https://arxiv.org/abs/2406.09649)
 * [2024-06-23, 13:49:30](https://news.ycombinator.com/item?id=40767459) - [I am using AI to drop hats outside my window onto New Yorkers](https://dropofahat.zone/)
-* [2024-06-23, 13:22:23](https://news.ycombinator.com/item?id=40767299) - [Asynchronous Consensus Without Trusted Setup or Public-Key Cryptography](https://eprint.iacr.org/2024/677)
 * [2024-06-23, 12:15:49](https://news.ycombinator.com/item?id=40766869) - [\"We argue that mitochondria are the processor of the cell\" (2022)](https://www.cell.com/action/showPdf?pii=S1550-4131%2822%2900459-4)
 * [2024-06-23, 12:01:45](https://news.ycombinator.com/item?id=40766791) - [Llama.ttf: A font which is also an LLM](https://fuglede.github.io/llama.ttf/)
 * [2024-06-23, 09:40:34](https://news.ycombinator.com/item?id=40766079) - [Timeliness without datagrams using QUIC](https://quic.video/blog/never-use-datagrams/)
