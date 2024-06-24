@@ -2,7 +2,6 @@
 
 * [2024-06-24, 06:53:04](https://news.ycombinator.com/item?id=40773151) - [US prosecutors recommend Justice Department criminally charge Boeing](https://www.voanews.com/a/us-prosecutors-recommend-justice-department-criminally-charge-boeing-as-deadline-looms/7667194.html)
 * [2024-06-24, 06:50:00](https://news.ycombinator.com/item?id=40773139) - [Cosmopolitan v3.5.0](https://github.com/jart/cosmopolitan/releases/tag/3.5.0)
-* [2024-06-24, 06:49:23](https://news.ycombinator.com/item?id=40773136) - [Apple's Secret Silicon Fab Next to Thousands of Homes](https://www.ashleygjovik.com/3250scott.html)
 * [2024-06-24, 00:43:10](https://news.ycombinator.com/item?id=40771839) - [Neko: Portable framework for high-order spectral element flow simulations](https://github.com/ExtremeFLOW/neko)
 * [2024-06-23, 21:00:57](https://news.ycombinator.com/item?id=40770554) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-06-23, 20:39:35](https://news.ycombinator.com/item?id=40770430) - [Writing an IR from Scratch and survive to write a post](https://farena.in/compilers/programming/writing-an-ir-from-scratch/)
@@ -29,6 +28,7 @@
 * [2024-06-22, 03:59:41](https://news.ycombinator.com/item?id=40756154) - [Bringing Roman Light to Life](https://www.journals.uchicago.edu/doi/10.1086/731029)
 * [2024-06-21, 21:25:33](https://news.ycombinator.com/item?id=40753989) - [Formal methods: Just good engineering practice?](https://brooker.co.za/blog/2024/04/17/formal.html)
 * [2024-06-21, 21:10:28](https://news.ycombinator.com/item?id=40753856) - [Solving puzzles faster than humanly possible](https://biggieblog.com/solving-puzzles-faster-than-humanly-possible/)
+* [2024-06-20, 18:33:22](https://news.ycombinator.com/item?id=40741723) - [Cognate: Readable and concise concatenative programming](https://cognate-lang.github.io/learn.html)
 * [2024-06-20, 14:31:22](https://news.ycombinator.com/item?id=40739187) - [You can now write React in Lua](https://github.com/jsdotlua/react-lua)
 
 ## [Archives](archives/index.md)
