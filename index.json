@@ -5,18 +5,18 @@
       "https://news.ycombinator.com/item?id=40779646"
     ],
     [
-      "Lifesaving robots arrive on Lake Michigan beaches to prevent drownings",
+      "Robots on Lake Michigan beaches to prevent drownings",
       "https://www.mlive.com/news/kalamazoo/2024/06/lifesaving-robots-arrive-on-lake-michigan-beaches-to-prevent-drownings.html"
     ]
   ],
   [
     [
-      "2024-06-24, 17:29:08",
-      "https://news.ycombinator.com/item?id=40778655"
+      "2024-06-24, 18:03:05",
+      "https://news.ycombinator.com/item?id=40778965"
     ],
     [
-      "Human neuroscience is entering a new era – it mustn't forget its human dimension",
-      "https://www.nature.com/articles/d41586-024-02022-3"
+      "Cloudflare blocking my IP (2023)",
+      "https://community.cloudflare.com/t/cloudflare-blocking-my-ip/542685"
     ]
   ],
   [
@@ -25,18 +25,8 @@
       "https://news.ycombinator.com/item?id=40778389"
     ],
     [
-      "Infisical (YC W23) is hiring to build the open source security stack for devs",
+      "Infisical (YC W23) is hiring to build an open source security stack for devs",
       "https://www.ycombinator.com/companies/infisical/jobs/0tvPmoc-full-stack-engineer"
-    ]
-  ],
-  [
-    [
-      "2024-06-24, 15:09:22",
-      "https://news.ycombinator.com/item?id=40776951"
-    ],
-    [
-      "Car dealerships revert to pens and paper after cyberattacks on software provider",
-      "https://apnews.com/article/car-dealerships-cyberattack-cdk-outage-3f7c81f6be0e212172b33cdc9f49feba"
     ]
   ],
   [
@@ -91,6 +81,16 @@
   ],
   [
     [
+      "2024-06-24, 06:50:00",
+      "https://news.ycombinator.com/item?id=40773139"
+    ],
+    [
+      "Cosmopolitan v3.5",
+      "https://github.com/jart/cosmopolitan/releases/tag/3.5.0"
+    ]
+  ],
+  [
+    [
       "2024-06-24, 03:35:40",
       "https://news.ycombinator.com/item?id=40772495"
     ],
@@ -117,16 +117,6 @@
     [
       "US EPA Enforcement and Compliance on Apple Fabrication",
       "https://www.dropbox.com/scl/fo/312oqvretg7yyhfx0ohx4/AGZduVXs0_1geqIyi0NA9nE?e=1&preview=2024_04_30_RCRA_Insp_Report_REPORT_Apple_3250_Scott_Redacted.pdf&rlkey=3aa2tw15ek3trqlbdh7pw9erh&st=4b364mkx&dl=0"
-    ]
-  ],
-  [
-    [
-      "2024-06-24, 00:43:10",
-      "https://news.ycombinator.com/item?id=40771839"
-    ],
-    [
-      "Neko: Portable framework for high-order spectral element flow simulations",
-      "https://github.com/ExtremeFLOW/neko"
     ]
   ],
   [
@@ -205,7 +195,7 @@
       "https://news.ycombinator.com/item?id=40766391"
     ],
     [
-      "My weekend project turned into a 3 years journey",
+      "My weekend project turned into a 3 year journey",
       "https://blog.znote.io/2024/side-hustle-journey/"
     ]
   ],
@@ -227,6 +217,16 @@
     [
       "Benjamin Thorpe translated almost all Old English texts (2016)",
       "https://thijsporck.com/2016/04/08/benjamin-thorpe-the-man-who-translated-almost-all-old-english-texts/"
+    ]
+  ],
+  [
+    [
+      "2024-06-22, 11:35:13",
+      "https://news.ycombinator.com/item?id=40758241"
+    ],
+    [
+      "Tachyonfx: A library for creating shader-like effects in terminal UIs",
+      "https://github.com/junkdog/tachyonfx"
     ]
   ],
   [
