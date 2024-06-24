@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-24, 09:23:20",
+      "https://news.ycombinator.com/item?id=40773957"
+    ],
+    [
+      "EPA releases report on Apple's hazardous waste violations in urban silicon fab",
+      "https://mastodon.social/@ashleygjovik/112668309100333232/?"
+    ]
+  ],
+  [
+    [
+      "2024-06-24, 09:10:56",
+      "https://news.ycombinator.com/item?id=40773883"
+    ],
+    [
+      "Apple found in breach of EU competition rules",
+      "https://www.theguardian.com/technology/article/2024/jun/24/apple-breach-eu-competition-rules-digital-markets-act"
+    ]
+  ],
+  [
+    [
       "2024-06-24, 09:01:32",
       "https://news.ycombinator.com/item?id=40773843"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2024-06-23, 14:02:08",
-      "https://news.ycombinator.com/item?id=40767529"
-    ],
-    [
-      "SquirrelFS: Using the Rust compiler to check file-system crash consistency",
-      "https://arxiv.org/abs/2406.09649"
-    ]
-  ],
-  [
-    [
       "2024-06-23, 13:49:30",
       "https://news.ycombinator.com/item?id=40767459"
     ],
@@ -197,16 +207,6 @@
     [
       "Llama.ttf: A font which is also an LLM",
       "https://fuglede.github.io/llama.ttf/"
-    ]
-  ],
-  [
-    [
-      "2024-06-23, 09:40:34",
-      "https://news.ycombinator.com/item?id=40766079"
-    ],
-    [
-      "Timeliness without datagrams using QUIC",
-      "https://quic.video/blog/never-use-datagrams/"
     ]
   ],
   [
