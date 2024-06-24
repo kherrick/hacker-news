@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-24](index.md)
 
 * [2024-06-24, 14:15:59](https://news.ycombinator.com/item?id=40776329) - [Using machine learning to detect bot attacks that leverage residential proxies](https://blog.cloudflare.com/residential-proxy-bot-detection-using-machine-learning)
+* [2024-06-24, 14:01:06](https://news.ycombinator.com/item?id=40776173) - [Sick of politics? Move off the grid](https://www.deseret.com/politics/2024/06/11/riverbed-ranch/)
 * [2024-06-24, 12:44:14](https://news.ycombinator.com/item?id=40775349) - [Did Apple kill the MicroLED industry?](https://www.yolegroup.com/strategy-insights/did-apple-just-kill-the-microled-industry/)
 * [2024-06-24, 12:42:36](https://news.ycombinator.com/item?id=40775336) - [Push Notification Fatigue Leads to LA County Health Department Data Breach](https://www.securityweek.com/push-notification-fatigue-leads-to-la-county-health-department-data-breach/)
 * [2024-06-24, 12:38:06](https://news.ycombinator.com/item?id=40775301) - [Microsoft Account to local account conversion guide erased from Windows 11 guide](https://www.tomshardware.com/software/windows/microsoft-account-to-local-account-conversion-guide-erased-from-official-windows-11-guide-instructions-redacted-earlier-this-week)
