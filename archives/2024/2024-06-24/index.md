@@ -6,6 +6,7 @@
 
 * [2024-06-24, 19:19:15](https://news.ycombinator.com/item?id=40779646) - [Lifesaving robots arrive on Lake Michigan beaches to prevent drownings](https://www.mlive.com/news/kalamazoo/2024/06/lifesaving-robots-arrive-on-lake-michigan-beaches-to-prevent-drownings.html)
 * [2024-06-24, 18:43:52](https://news.ycombinator.com/item?id=40779349) - [Google Maps and Street View running on a Commodore 64](https://readwrite.com/move-over-android-and-ios-these-guys-got-google-maps-running-on-a-commodore-64/)
+* [2024-06-24, 18:03:05](https://news.ycombinator.com/item?id=40778965) - [Cloudflare blocking my IP (2023)](https://community.cloudflare.com/t/cloudflare-blocking-my-ip/542685)
 * [2024-06-24, 18:02:26](https://news.ycombinator.com/item?id=40778958) - [Disney Executive expose reveals corporate discrimination on white hiring [video]](https://www.youtube.com/watch?v=XyffDzqb_6U)
 * [2024-06-24, 17:29:08](https://news.ycombinator.com/item?id=40778655) - [Human neuroscience is entering a new era – it mustn't forget its human dimension](https://www.nature.com/articles/d41586-024-02022-3)
 * [2024-06-24, 17:15:43](https://news.ycombinator.com/item?id=40778522) - [CA has surrendered its streets to assholes: Too much tolerance destroys peace](https://unherd.com/2024/06/california-has-surrendered-its-streets-to-assholes/)

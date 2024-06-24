@@ -50,6 +50,7 @@
 * [2024-06-22, 11:56:49](https://news.ycombinator.com/item?id=40758387) - [Coverage at a Crossroads](https://nedbatchelder.com/blog/202406/coverage_at_a_crossroads.html)
 * [2024-06-22, 11:44:04](https://news.ycombinator.com/item?id=40758302) - [Identifying Leap Years](https://davecturner.github.io/2020/08/07/leapyear-optimization.html)
 * [2024-06-22, 11:37:29](https://news.ycombinator.com/item?id=40758254) - [Postgres Schema Changes and Locking](https://xata.io/blog/migrations-and-exclusive-locks)
+* [2024-06-22, 11:35:13](https://news.ycombinator.com/item?id=40758241) - [Tachyonfx: A library for creating shader-like effects in terminal UIs](https://github.com/junkdog/tachyonfx)
 * [2024-06-22, 11:33:39](https://news.ycombinator.com/item?id=40758229) - [Show HN: Feedback on Sketch Colourisation](https://github.com/CHAITron/sketchdeco-code)
 * [2024-06-22, 11:21:31](https://news.ycombinator.com/item?id=40758160) - [Mr: Apple Intelligence Features Not Coming to EU at Launch Due to DMA](https://www.macrumors.com/2024/06/21/apple-intelligence-europe-delay/)
 * [2024-06-22, 10:54:14](https://news.ycombinator.com/item?id=40757996) - [Feral pigeons and the London Pigeon String Foot and Rescue group](https://www.bbc.com/future/article/20240620-why-do-people-persecute-city-pigeons)
