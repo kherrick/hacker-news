@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2024-06-23, 18:12:02",
-      "https://news.ycombinator.com/item?id=40769362"
-    ],
-    [
-      "Start all of your commands with a comma (2009)",
-      "https://rhodesmill.org/brandon/2009/commands-with-comma/"
-    ]
-  ],
-  [
-    [
       "2024-06-23, 18:06:52",
       "https://news.ycombinator.com/item?id=40769325"
     ],
@@ -297,6 +287,16 @@
     [
       "Solving puzzles faster than humanly possible",
       "https://biggieblog.com/solving-puzzles-faster-than-humanly-possible/"
+    ]
+  ],
+  [
+    [
+      "2024-06-20, 14:31:22",
+      "https://news.ycombinator.com/item?id=40739187"
+    ],
+    [
+      "You can now write React in Lua",
+      "https://github.com/jsdotlua/react-lua"
     ]
   ]
 ]
