@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-24, 00:43:10",
+      "https://news.ycombinator.com/item?id=40771839"
+    ],
+    [
+      "Neko: Portable framework for high-order spectral element flow simulations",
+      "https://github.com/ExtremeFLOW/neko"
+    ]
+  ],
+  [
+    [
       "2024-06-23, 21:00:57",
       "https://news.ycombinator.com/item?id=40770554"
     ],
@@ -57,16 +67,6 @@
     [
       "Detecting hallucinations in large language models using semantic entropy",
       "https://www.nature.com/articles/s41586-024-07421-0"
-    ]
-  ],
-  [
-    [
-      "2024-06-23, 18:12:02",
-      "https://news.ycombinator.com/item?id=40769362"
-    ],
-    [
-      "Start all of your commands with a comma (2009)",
-      "https://rhodesmill.org/brandon/2009/commands-with-comma/"
     ]
   ],
   [
