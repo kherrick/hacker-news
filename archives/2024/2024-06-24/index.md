@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-24](index.md)
 
+* [2024-06-24, 17:00:35](https://news.ycombinator.com/item?id=40778389) - [Infisical (YC W23) is hiring to build the open source security stack for devs](https://www.ycombinator.com/companies/infisical/jobs/0tvPmoc-full-stack-engineer)
 * [2024-06-24, 16:29:43](https://news.ycombinator.com/item?id=40778038) - [Plastic Particles in Bottled Water](https://www.nih.gov/news-events/nih-research-matters/plastic-particles-bottled-water)
 * [2024-06-24, 15:32:30](https://news.ycombinator.com/item?id=40777275) - [OpenAI Acquires Multi](https://multi.app/blog/multi-is-joining-openai)
 * [2024-06-24, 15:27:49](https://news.ycombinator.com/item?id=40777202) - [Apple vented toxic waste from semiconductor fab into residential apartment](https://twitter.com/ashleygjovik/status/1805006150410162322)
