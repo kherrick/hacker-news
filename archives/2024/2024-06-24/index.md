@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-24](index.md)
 
+* [2024-06-24, 18:02:26](https://news.ycombinator.com/item?id=40778958) - [Disney Executive expose reveals corporate discrimination on white hiring [video]](https://www.youtube.com/watch?v=XyffDzqb_6U)
 * [2024-06-24, 17:29:08](https://news.ycombinator.com/item?id=40778655) - [Human neuroscience is entering a new era – it mustn't forget its human dimension](https://www.nature.com/articles/d41586-024-02022-3)
 * [2024-06-24, 17:15:43](https://news.ycombinator.com/item?id=40778522) - [CA has surrendered its streets to assholes: Too much tolerance destroys peace](https://unherd.com/2024/06/california-has-surrendered-its-streets-to-assholes/)
 * [2024-06-24, 17:06:26](https://news.ycombinator.com/item?id=40778458) - [Pocket Z project hopes to rekindle pocket PC form factor with a RPi Zero 2W](https://www.tomshardware.com/raspberry-pi/raspberry-pi-projects/pocket-z-project-hopes-to-rekindle-pocket-pc-form-factor-with-a-raspberry-pi-zero-2w-inside)
@@ -26,6 +27,8 @@
 * [2024-06-24, 12:33:52](https://news.ycombinator.com/item?id=40775268) - [LockBit claims to exfiltrate 33TB of data from US Federal Reserve](https://securityaffairs.com/164873/cyber-crime/lockbit-claims-hacked-us-federal-reserve.html)
 * [2024-06-24, 12:31:01](https://news.ycombinator.com/item?id=40775252) - [Microsoft shelves its underwater data center](https://www.tomshardware.com/desktops/servers/microsoft-shelves-its-underwater-data-center)
 * [2024-06-24, 12:29:54](https://news.ycombinator.com/item?id=40775234) - [Bashbro – New software release (bashttpd rework)](https://github.com/victrixsoft/bashbro)
+* [2024-06-24, 12:17:01](https://news.ycombinator.com/item?id=40775127) - [Show HN: I Built a Tool to Break Free from YouTube's Addictive Algorithm](https://watchlist.so)
+* [2024-06-24, 12:16:27](https://news.ycombinator.com/item?id=40775123) - [Colorado has a first-in-the-nation law for AI – but what will it do?](https://www.cpr.org/2024/06/17/colorado-artificial-intelligence-law-implementation-ramifications/)
 * [2024-06-24, 12:00:13](https://news.ycombinator.com/item?id=40774980) - [UpCodes (YC S17) is hiring remote engineers across the Americas](https://up.codes/careers?utm_source=HN)
 * [2024-06-24, 11:05:18](https://news.ycombinator.com/item?id=40774563) - [Homegrown Rendering with Rust](https://medium.com/embarkstudios/homegrown-rendering-with-rust-1e39068e56a7)
 * [2024-06-24, 10:47:43](https://news.ycombinator.com/item?id=40774446) - [Ask HN: What is the most challenging programming course you have taken?](https://news.ycombinator.com/item?id=40774446)
@@ -44,6 +47,7 @@
 * [2024-06-24, 06:49:23](https://news.ycombinator.com/item?id=40773136) - [Apple's Silicon Fab Next to Homes](https://www.ashleygjovik.com/3250scott.html)
 * [2024-06-24, 06:35:35](https://news.ycombinator.com/item?id=40773074) - [My employer was dumping toxic waste into the apartment windows from their fab](https://mastodon.social/@ashleygjovik/112668372321990128)
 * [2024-06-24, 04:17:51](https://news.ycombinator.com/item?id=40772633) - [Synthesizer for Thought](https://thesephist.com/posts/synth/)
+* [2024-06-24, 03:01:27](https://news.ycombinator.com/item?id=40772378) - [Copy-on-Write Performance and Debugging](https://devblogs.microsoft.com/engineering-at-microsoft/copy-on-write-performance-and-debugging/)
 * [2024-06-24, 02:49:56](https://news.ycombinator.com/item?id=40772342) - [Show HN: All-in-one AI web assistant (open-source)](https://github.com/luyu0279/BrainyAI)
 * [2024-06-24, 02:20:35](https://news.ycombinator.com/item?id=40772224) - [US EPA Enforcement and Compliance on Apple Fabrication](https://www.dropbox.com/scl/fo/312oqvretg7yyhfx0ohx4/AGZduVXs0_1geqIyi0NA9nE?e=1&preview=2024_04_30_RCRA_Insp_Report_REPORT_Apple_3250_Scott_Redacted.pdf&rlkey=3aa2tw15ek3trqlbdh7pw9erh&st=4b364mkx&dl=0)
 * [2024-06-24, 00:43:10](https://news.ycombinator.com/item?id=40771839) - [Neko: Portable framework for high-order spectral element flow simulations](https://github.com/ExtremeFLOW/neko)
