@@ -4,8 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-06-24](index.md)
 
+* [2024-06-24, 15:09:22](https://news.ycombinator.com/item?id=40776951) - [Car dealerships revert to pens and paper after cyberattacks on software provider](https://apnews.com/article/car-dealerships-cyberattack-cdk-outage-3f7c81f6be0e212172b33cdc9f49feba)
+* [2024-06-24, 14:52:01](https://news.ycombinator.com/item?id=40776758) - [No computers. Keep books. Seattle library network outage nears a month](https://www.seattletimes.com/seattle-news/no-computers-keep-books-seattle-library-network-outage-nears-a-month/)
 * [2024-06-24, 14:15:59](https://news.ycombinator.com/item?id=40776329) - [Using machine learning to detect bot attacks that leverage residential proxies](https://blog.cloudflare.com/residential-proxy-bot-detection-using-machine-learning)
+* [2024-06-24, 14:15:23](https://news.ycombinator.com/item?id=40776319) - [Politics is still both local and personal – but only for independents](https://theconversation.com/politics-is-still-both-local-and-personal-but-only-for-independents-not-for-democrats-or-republicans-226207)
 * [2024-06-24, 14:01:06](https://news.ycombinator.com/item?id=40776173) - [Sick of politics? Move off the grid](https://www.deseret.com/politics/2024/06/11/riverbed-ranch/)
+* [2024-06-24, 13:32:45](https://news.ycombinator.com/item?id=40775858) - [Apple is first company charged with violating EU's DMA rules](https://www.theverge.com/2024/6/24/24184629/apple-dma-steering-infringement-ruling)
+* [2024-06-24, 12:53:22](https://news.ycombinator.com/item?id=40775417) - [Another drug approved despite review board](https://www.science.org/content/blog-post/sarepta-why)
 * [2024-06-24, 12:44:14](https://news.ycombinator.com/item?id=40775349) - [Did Apple kill the MicroLED industry?](https://www.yolegroup.com/strategy-insights/did-apple-just-kill-the-microled-industry/)
 * [2024-06-24, 12:42:36](https://news.ycombinator.com/item?id=40775336) - [Push Notification Fatigue Leads to LA County Health Department Data Breach](https://www.securityweek.com/push-notification-fatigue-leads-to-la-county-health-department-data-breach/)
 * [2024-06-24, 12:38:06](https://news.ycombinator.com/item?id=40775301) - [Microsoft Account to local account conversion guide erased from Windows 11 guide](https://www.tomshardware.com/software/windows/microsoft-account-to-local-account-conversion-guide-erased-from-official-windows-11-guide-instructions-redacted-earlier-this-week)

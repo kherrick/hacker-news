@@ -1,7 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-24, 12:44:14](https://news.ycombinator.com/item?id=40775349) - [Did Apple kill the MicroLED industry?](https://www.yolegroup.com/strategy-insights/did-apple-just-kill-the-microled-industry/)
-* [2024-06-24, 12:33:52](https://news.ycombinator.com/item?id=40775268) - [LockBit claims to exfiltrate 33TB of data from US Federal Reserve](https://securityaffairs.com/164873/cyber-crime/lockbit-claims-hacked-us-federal-reserve.html)
+* [2024-06-24, 15:09:22](https://news.ycombinator.com/item?id=40776951) - [Car dealerships revert to pens and paper after cyberattacks on software provider](https://apnews.com/article/car-dealerships-cyberattack-cdk-outage-3f7c81f6be0e212172b33cdc9f49feba)
+* [2024-06-24, 14:52:01](https://news.ycombinator.com/item?id=40776758) - [No computers. Keep books. Seattle library network outage nears a month](https://www.seattletimes.com/seattle-news/no-computers-keep-books-seattle-library-network-outage-nears-a-month/)
+* [2024-06-24, 14:15:23](https://news.ycombinator.com/item?id=40776319) - [Politics is still both local and personal – but only for independents](https://theconversation.com/politics-is-still-both-local-and-personal-but-only-for-independents-not-for-democrats-or-republicans-226207)
+* [2024-06-24, 13:32:45](https://news.ycombinator.com/item?id=40775858) - [Apple is first company charged with violating EU's DMA rules](https://www.theverge.com/2024/6/24/24184629/apple-dma-steering-infringement-ruling)
+* [2024-06-24, 12:53:22](https://news.ycombinator.com/item?id=40775417) - [Another drug approved despite review board](https://www.science.org/content/blog-post/sarepta-why)
 * [2024-06-24, 12:00:13](https://news.ycombinator.com/item?id=40774980) - [UpCodes (YC S17) is hiring remote engineers across the Americas](https://up.codes/careers?utm_source=HN)
 * [2024-06-24, 11:05:18](https://news.ycombinator.com/item?id=40774563) - [Homegrown Rendering with Rust (2021)](https://medium.com/embarkstudios/homegrown-rendering-with-rust-1e39068e56a7)
 * [2024-06-24, 10:25:11](https://news.ycombinator.com/item?id=40774277) - [Microfeatures I love in blogs and personal websites](https://danilafe.com/blog/blog_microfeatures/)
@@ -18,9 +21,7 @@
 * [2024-06-23, 16:06:42](https://news.ycombinator.com/item?id=40768418) - [B-Trees Require Fewer Comparisons Than Balanced Binary Search Trees](http://databasearchitects.blogspot.com/2024/06/b-trees-require-fewer-comparisons-than.html)
 * [2024-06-23, 14:16:56](https://news.ycombinator.com/item?id=40767645) - [Picolisp a Railroad Simulation](https://picolisp-explored.com/a-railroad-simulation-with-des)
 * [2024-06-23, 13:49:30](https://news.ycombinator.com/item?id=40767459) - [I am using AI to drop hats outside my window onto New Yorkers](https://dropofahat.zone/)
-* [2024-06-23, 12:15:49](https://news.ycombinator.com/item?id=40766869) - [Mitochondrial signal transduction (2022)](https://www.cell.com/action/showPdf?pii=S1550-4131%2822%2900459-4)
 * [2024-06-23, 12:01:45](https://news.ycombinator.com/item?id=40766791) - [Llama.ttf: A font which is also an LLM](https://fuglede.github.io/llama.ttf/)
-* [2024-06-23, 09:40:34](https://news.ycombinator.com/item?id=40766079) - [Timeliness without datagrams using QUIC](https://quic.video/blog/never-use-datagrams/)
 * [2024-06-22, 12:05:11](https://news.ycombinator.com/item?id=40758451) - [Benjamin Thorpe translated almost all Old English texts (2016)](https://thijsporck.com/2016/04/08/benjamin-thorpe-the-man-who-translated-almost-all-old-english-texts/)
 * [2024-06-22, 10:27:57](https://news.ycombinator.com/item?id=40757870) - [Honoring the Legacy of Chip Design Innovator Lynn Conway](https://spectrum.ieee.org/chip-design-innovator-lynn-conway)
 * [2024-06-22, 10:04:03](https://news.ycombinator.com/item?id=40757777) - [Polytype: A Rosetta Stone for typesetting engines](https://polytype.dev/)
@@ -28,8 +29,7 @@
 * [2024-06-22, 03:59:41](https://news.ycombinator.com/item?id=40756154) - [Bringing Roman Light to Life](https://www.journals.uchicago.edu/doi/10.1086/731029)
 * [2024-06-21, 22:25:36](https://news.ycombinator.com/item?id=40754501) - [The End-of-Line Story (2004)](https://www.rfc-editor.org/old/EOLstory.txt)
 * [2024-06-21, 13:13:39](https://news.ycombinator.com/item?id=40749279) - [Show HN: Online OPML editor to manage subscription lists](https://github.com/imdj/opml-editor)
-* [2024-06-20, 18:33:22](https://news.ycombinator.com/item?id=40741723) - [Cognate: Readable and concise concatenative programming](https://cognate-lang.github.io/learn.html)
-* [2024-06-20, 14:31:22](https://news.ycombinator.com/item?id=40739187) - [You can now write React in Lua](https://github.com/jsdotlua/react-lua)
+* [2024-06-20, 14:31:22](https://news.ycombinator.com/item?id=40739187) - [React Lua – Translation of upstream ReactJS 17.x into Lua](https://github.com/jsdotlua/react-lua)
 
 ## [Archives](archives/index.md)
 
