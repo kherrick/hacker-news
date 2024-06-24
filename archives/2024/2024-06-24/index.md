@@ -4,13 +4,17 @@
 
 ### [Archives](../../index.md) for [2024-06-24](index.md)
 
+* [2024-06-24, 20:09:20](https://news.ycombinator.com/item?id=40780128) - [A working entropy encoder with output below the Shannon limit](https://github.com/Peter-Ebert/Valli-Encoding)
+* [2024-06-24, 20:01:18](https://news.ycombinator.com/item?id=40780036) - [Y Combinator, AI startups oppose California AI safety bill](https://www.theregister.com/2024/06/24/ai_startups_california_bill/)
 * [2024-06-24, 19:32:20](https://news.ycombinator.com/item?id=40779758) - [Nuclear engineer dismisses claim that modular reactors commercially viable soon](https://www.theguardian.com/australia-news/article/2024/jun/21/peter-dutton-coalition-nuclear-policy-engineer-small-modular-reactors-no-commercially-viable)
+* [2024-06-24, 19:20:39](https://news.ycombinator.com/item?id=40779658) - [Komorebi: Tiling Window Management for Windows](https://github.com/LGUG2Z/komorebi)
 * [2024-06-24, 19:19:15](https://news.ycombinator.com/item?id=40779646) - [Lifesaving robots arrive on Lake Michigan beaches to prevent drownings](https://www.mlive.com/news/kalamazoo/2024/06/lifesaving-robots-arrive-on-lake-michigan-beaches-to-prevent-drownings.html)
 * [2024-06-24, 19:19:06](https://news.ycombinator.com/item?id=40779643) - [A journey into Kindle AI slop hell](https://maxread.substack.com/p/my-kindle-thinks-im-stupid-now)
 * [2024-06-24, 18:43:52](https://news.ycombinator.com/item?id=40779349) - [Google Maps and Street View running on a Commodore 64](https://readwrite.com/move-over-android-and-ios-these-guys-got-google-maps-running-on-a-commodore-64/)
 * [2024-06-24, 18:03:05](https://news.ycombinator.com/item?id=40778965) - [Cloudflare blocking my IP (2023)](https://community.cloudflare.com/t/cloudflare-blocking-my-ip/542685)
 * [2024-06-24, 18:02:26](https://news.ycombinator.com/item?id=40778958) - [Disney Executive expose reveals corporate discrimination on white hiring [video]](https://www.youtube.com/watch?v=XyffDzqb_6U)
 * [2024-06-24, 17:29:08](https://news.ycombinator.com/item?id=40778655) - [Human neuroscience is entering a new era – it mustn't forget its human dimension](https://www.nature.com/articles/d41586-024-02022-3)
+* [2024-06-24, 17:23:28](https://news.ycombinator.com/item?id=40778594) - [More Memory Safety for Let's Encrypt: Deploying ntpd-rs](https://letsencrypt.org/2024/06/24/ntpd-rs-deployment.html)
 * [2024-06-24, 17:15:43](https://news.ycombinator.com/item?id=40778522) - [CA has surrendered its streets to assholes: Too much tolerance destroys peace](https://unherd.com/2024/06/california-has-surrendered-its-streets-to-assholes/)
 * [2024-06-24, 17:06:26](https://news.ycombinator.com/item?id=40778458) - [Pocket Z project hopes to rekindle pocket PC form factor with a RPi Zero 2W](https://www.tomshardware.com/raspberry-pi/raspberry-pi-projects/pocket-z-project-hopes-to-rekindle-pocket-pc-form-factor-with-a-raspberry-pi-zero-2w-inside)
 * [2024-06-24, 17:00:35](https://news.ycombinator.com/item?id=40778389) - [Infisical (YC W23) is hiring to build the open source security stack for devs](https://www.ycombinator.com/companies/infisical/jobs/0tvPmoc-full-stack-engineer)
