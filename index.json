@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-24, 19:32:20",
+      "https://news.ycombinator.com/item?id=40779758"
+    ],
+    [
+      "Nuclear engineer dismisses claim that modular reactors commercially viable soon",
+      "https://www.theguardian.com/australia-news/article/2024/jun/21/peter-dutton-coalition-nuclear-policy-engineer-small-modular-reactors-no-commercially-viable"
+    ]
+  ],
+  [
+    [
       "2024-06-24, 19:19:15",
       "https://news.ycombinator.com/item?id=40779646"
     ],
@@ -31,12 +41,12 @@
   ],
   [
     [
-      "2024-06-24, 14:16:52",
-      "https://news.ycombinator.com/item?id=40776340"
+      "2024-06-24, 12:30:41",
+      "https://news.ycombinator.com/item?id=40775249"
     ],
     [
-      "Self and Self: Whys and Wherefores (2009) [video]",
-      "https://www.youtube.com/watch?v=3ka4KY7TMTU"
+      "No matter what they tell you, it's a people problem (2008)",
+      "https://blog.codinghorror.com/no-matter-what-they-tell-you-its-a-people-problem/"
     ]
   ],
   [
@@ -51,32 +61,12 @@
   ],
   [
     [
-      "2024-06-24, 11:05:18",
-      "https://news.ycombinator.com/item?id=40774563"
-    ],
-    [
-      "Homegrown Rendering with Rust (2021)",
-      "https://medium.com/embarkstudios/homegrown-rendering-with-rust-1e39068e56a7"
-    ]
-  ],
-  [
-    [
       "2024-06-24, 10:25:11",
       "https://news.ycombinator.com/item?id=40774277"
     ],
     [
       "Microfeatures I love in blogs and personal websites",
       "https://danilafe.com/blog/blog_microfeatures/"
-    ]
-  ],
-  [
-    [
-      "2024-06-24, 09:10:56",
-      "https://news.ycombinator.com/item?id=40773883"
-    ],
-    [
-      "Apple found in breach of EU competition rules",
-      "https://www.theguardian.com/technology/article/2024/jun/24/apple-breach-eu-competition-rules-digital-markets-act"
     ]
   ],
   [
@@ -111,12 +101,22 @@
   ],
   [
     [
-      "2024-06-24, 02:20:35",
-      "https://news.ycombinator.com/item?id=40772224"
+      "2024-06-23, 23:59:18",
+      "https://news.ycombinator.com/item?id=40771635"
     ],
     [
-      "US EPA Enforcement and Compliance on Apple Fabrication",
-      "https://www.dropbox.com/scl/fo/312oqvretg7yyhfx0ohx4/AGZduVXs0_1geqIyi0NA9nE?e=1&preview=2024_04_30_RCRA_Insp_Report_REPORT_Apple_3250_Scott_Redacted.pdf&rlkey=3aa2tw15ek3trqlbdh7pw9erh&st=4b364mkx&dl=0"
+      "One index, two publishers and the global research economy",
+      "https://www.tandfonline.com/doi/full/10.1080/03054985.2024.2348448"
+    ]
+  ],
+  [
+    [
+      "2024-06-23, 23:58:02",
+      "https://news.ycombinator.com/item?id=40771627"
+    ],
+    [
+      "Why do we still teach people to calculate?",
+      "https://freakonomics.com/podcast/why-do-we-still-teach-people-to-calculate/"
     ]
   ],
   [
@@ -131,12 +131,12 @@
   ],
   [
     [
-      "2024-06-23, 20:02:33",
-      "https://news.ycombinator.com/item?id=40770171"
+      "2024-06-23, 19:20:53",
+      "https://news.ycombinator.com/item?id=40769882"
     ],
     [
-      "LINQPad – The .NET Programmer's Playground",
-      "https://www.linqpad.net/"
+      "Porting Python to a $3 smartwatch [video]",
+      "https://www.youtube.com/watch?v=sv58aPvIonw"
     ]
   ],
   [
@@ -161,32 +161,12 @@
   ],
   [
     [
-      "2024-06-23, 17:22:52",
-      "https://news.ycombinator.com/item?id=40769001"
+      "2024-06-23, 17:24:33",
+      "https://news.ycombinator.com/item?id=40769006"
     ],
     [
-      "The tiny chip that powers Montreal subway tickets",
-      "http://www.righto.com/2024/06/montreal-mifare-ultralight-nfc.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-23, 16:06:42",
-      "https://news.ycombinator.com/item?id=40768418"
-    ],
-    [
-      "B-Trees Require Fewer Comparisons Than Balanced Binary Search Trees",
-      "http://databasearchitects.blogspot.com/2024/06/b-trees-require-fewer-comparisons-than.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-23, 14:16:56",
-      "https://news.ycombinator.com/item?id=40767645"
-    ],
-    [
-      "Picolisp a Railroad Simulation",
-      "https://picolisp-explored.com/a-railroad-simulation-with-des"
+      "First we shape our social graph, then it shapes us (2022)",
+      "https://www.henrikkarlsson.xyz/p/first-we-shape-our-social-graph-then"
     ]
   ],
   [
@@ -201,12 +181,42 @@
   ],
   [
     [
-      "2024-06-23, 09:40:34",
-      "https://news.ycombinator.com/item?id=40766079"
+      "2024-06-23, 04:50:30",
+      "https://news.ycombinator.com/item?id=40764889"
     ],
     [
-      "Timeliness without datagrams using QUIC",
-      "https://quic.video/blog/never-use-datagrams/"
+      "Truckstops on the Information Superhighway (2018)",
+      "https://www.americanacademy.de/truckstops-on-the-information-superhighway/"
+    ]
+  ],
+  [
+    [
+      "2024-06-23, 01:45:23",
+      "https://news.ycombinator.com/item?id=40763965"
+    ],
+    [
+      "A supermarket trip may soon look different, thanks to electronic shelf labels",
+      "https://www.npr.org/2024/06/17/nx-s1-5009271/electronic-shelf-labels-prices-walmart-grocery-store"
+    ]
+  ],
+  [
+    [
+      "2024-06-23, 01:34:37",
+      "https://news.ycombinator.com/item?id=40763885"
+    ],
+    [
+      "Asian groceries like H Mart and Patel Brothers are reshaping America",
+      "https://www.nytimes.com/2024/06/11/dining/asian-grocery-stores-america.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-22, 20:42:03",
+      "https://news.ycombinator.com/item?id=40762019"
+    ],
+    [
+      "Avoiding Emacs Bankruptcy",
+      "https://b.tuxes.uk/avoiding-emacs-bankruptcy.html"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Bringing Roman Light to Life",
       "https://www.journals.uchicago.edu/doi/10.1086/731029"
-    ]
-  ],
-  [
-    [
-      "2024-06-21, 22:25:36",
-      "https://news.ycombinator.com/item?id=40754501"
-    ],
-    [
-      "The End-of-Line Story (2004)",
-      "https://www.rfc-editor.org/old/EOLstory.txt"
     ]
   ],
   [
