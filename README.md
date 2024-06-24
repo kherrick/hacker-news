@@ -28,7 +28,7 @@
 * [2024-06-22, 12:28:42](https://news.ycombinator.com/item?id=40758618) - [Fixing a memory leak of xmlEntityPtr in librsvg](https://viruta.org/fixing-xml-entity-leak.html)
 * [2024-06-22, 12:05:11](https://news.ycombinator.com/item?id=40758451) - [Benjamin Thorpe: The Man Who Translated Almost All Old English Texts](https://thijsporck.com/2016/04/08/benjamin-thorpe-the-man-who-translated-almost-all-old-english-texts/)
 * [2024-06-22, 09:49:15](https://news.ycombinator.com/item?id=40757717) - [Arm64EC – Run x86_64 and Arm code in the same process](https://learn.microsoft.com/en-us/windows/arm/arm64ec)
-* [2024-06-22, 07:16:35](https://news.ycombinator.com/item?id=40757093) - [Hacking eInk Price Tags (2021)](https://dmitry.gr/?r=05.Projects&proj=29.%20eInk%20Price%20Tags)
+* [2024-06-22, 03:59:41](https://news.ycombinator.com/item?id=40756154) - [Bringing Roman Light to Life](https://www.journals.uchicago.edu/doi/10.1086/731029)
 * [2024-06-21, 21:25:33](https://news.ycombinator.com/item?id=40753989) - [Formal methods: Just good engineering practice?](https://brooker.co.za/blog/2024/04/17/formal.html)
 
 ## [Archives](archives/index.md)
