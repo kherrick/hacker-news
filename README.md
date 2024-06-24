@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-24, 00:43:10](https://news.ycombinator.com/item?id=40771839) - [Neko: Portable framework for high-order spectral element flow simulations](https://github.com/ExtremeFLOW/neko)
 * [2024-06-23, 23:32:17](https://news.ycombinator.com/item?id=40771514) - [How to Do The Jhanas](https://nadia.xyz/jhanas)
 * [2024-06-23, 21:00:57](https://news.ycombinator.com/item?id=40770554) - [Continue (YC S23) is hiring a founding engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-founding-engineer)
 * [2024-06-23, 20:39:35](https://news.ycombinator.com/item?id=40770430) - [Writing an IR from Scratch and survive to write a post](https://farena.in/compilers/programming/writing-an-ir-from-scratch/)
@@ -20,7 +21,6 @@
 * [2024-06-23, 13:22:23](https://news.ycombinator.com/item?id=40767299) - [Asynchronous Consensus Without Trusted Setup or Public-Key Cryptography](https://eprint.iacr.org/2024/677)
 * [2024-06-23, 12:15:49](https://news.ycombinator.com/item?id=40766869) - [\"We argue that mitochondria are the processor of the cell\" (2022)](https://www.cell.com/action/showPdf?pii=S1550-4131%2822%2900459-4)
 * [2024-06-23, 12:01:45](https://news.ycombinator.com/item?id=40766791) - [Llama.ttf: A font which is also an LLM](https://fuglede.github.io/llama.ttf/)
-* [2024-06-23, 10:50:29](https://news.ycombinator.com/item?id=40766445) - [Character Tiling](http://uridiumauthor.blogspot.com/2024/06/character-tiling.html)
 * [2024-06-23, 09:40:34](https://news.ycombinator.com/item?id=40766079) - [Timeliness without datagrams using QUIC](https://quic.video/blog/never-use-datagrams/)
 * [2024-06-23, 09:02:48](https://news.ycombinator.com/item?id=40765872) - [Of Psion and Symbian](https://www.abortretry.fail/p/of-psion-and-symbian)
 * [2024-06-23, 06:26:22](https://news.ycombinator.com/item?id=40765183) - [I've stopped using box plots (2021)](https://nightingaledvs.com/ive-stopped-using-box-plots-should-you/)
