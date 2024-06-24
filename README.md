@@ -2,9 +2,9 @@
 
 * [2024-06-24, 19:32:20](https://news.ycombinator.com/item?id=40779758) - [Nuclear engineer dismisses claim that modular reactors could be viable soon](https://www.theguardian.com/australia-news/article/2024/jun/21/peter-dutton-coalition-nuclear-policy-engineer-small-modular-reactors-no-commercially-viable)
 * [2024-06-24, 19:19:15](https://news.ycombinator.com/item?id=40779646) - [Robots on Lake Michigan beaches to prevent drownings](https://www.mlive.com/news/kalamazoo/2024/06/lifesaving-robots-arrive-on-lake-michigan-beaches-to-prevent-drownings.html)
+* [2024-06-24, 19:19:06](https://news.ycombinator.com/item?id=40779643) - [A journey into Kindle AI slop hell](https://maxread.substack.com/p/my-kindle-thinks-im-stupid-now)
 * [2024-06-24, 17:00:35](https://news.ycombinator.com/item?id=40778389) - [Infisical (YC W23) is hiring to build an open source security stack for devs](https://www.ycombinator.com/companies/infisical/jobs/0tvPmoc-full-stack-engineer)
 * [2024-06-24, 12:30:41](https://news.ycombinator.com/item?id=40775249) - [No matter what they tell you, it's a people problem (2008)](https://blog.codinghorror.com/no-matter-what-they-tell-you-its-a-people-problem/)
-* [2024-06-24, 12:16:27](https://news.ycombinator.com/item?id=40775123) - [Colorado has a first-in-the-nation law for AI – but what will it do?](https://www.cpr.org/2024/06/17/colorado-artificial-intelligence-law-implementation-ramifications/)
 * [2024-06-24, 10:25:11](https://news.ycombinator.com/item?id=40774277) - [Microfeatures I love in blogs and personal websites](https://danilafe.com/blog/blog_microfeatures/)
 * [2024-06-24, 09:10:56](https://news.ycombinator.com/item?id=40773883) - [Apple found in breach of EU competition rules](https://www.theguardian.com/technology/article/2024/jun/24/apple-breach-eu-competition-rules-digital-markets-act)
 * [2024-06-24, 06:50:00](https://news.ycombinator.com/item?id=40773139) - [Cosmopolitan v3.5](https://github.com/jart/cosmopolitan/releases/tag/3.5.0)
