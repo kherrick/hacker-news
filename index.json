@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-06-24, 14:15:59",
+      "https://news.ycombinator.com/item?id=40776329"
+    ],
+    [
+      "Using machine learning to detect bot attacks that leverage residential proxies",
+      "https://blog.cloudflare.com/residential-proxy-bot-detection-using-machine-learning"
+    ]
+  ],
+  [
+    [
+      "2024-06-24, 12:44:14",
+      "https://news.ycombinator.com/item?id=40775349"
+    ],
+    [
+      "Did Apple kill the MicroLED industry?",
+      "https://www.yolegroup.com/strategy-insights/did-apple-just-kill-the-microled-industry/"
+    ]
+  ],
+  [
+    [
+      "2024-06-24, 12:42:36",
+      "https://news.ycombinator.com/item?id=40775336"
+    ],
+    [
+      "Push Notification Fatigue Leads to LA County Health Department Data Breach",
+      "https://www.securityweek.com/push-notification-fatigue-leads-to-la-county-health-department-data-breach/"
+    ]
+  ],
+  [
+    [
       "2024-06-24, 12:38:06",
       "https://news.ycombinator.com/item?id=40775301"
     ],
@@ -51,16 +81,6 @@
   ],
   [
     [
-      "2024-06-24, 10:24:15",
-      "https://news.ycombinator.com/item?id=40774270"
-    ],
-    [
-      "Convert an existing wired doorbell into a smart doorbell using ESPHome",
-      "https://frenck.dev/diy-smart-doorbell-for-just-2-dollar/"
-    ]
-  ],
-  [
-    [
       "2024-06-24, 09:10:56",
       "https://news.ycombinator.com/item?id=40773883"
     ],
@@ -97,16 +117,6 @@
     [
       "Neko: Portable framework for high-order spectral element flow simulations",
       "https://github.com/ExtremeFLOW/neko"
-    ]
-  ],
-  [
-    [
-      "2024-06-23, 20:39:35",
-      "https://news.ycombinator.com/item?id=40770430"
-    ],
-    [
-      "Writing an IR from Scratch and survive to write a post",
-      "https://farena.in/compilers/programming/writing-an-ir-from-scratch/"
     ]
   ],
   [
@@ -171,16 +181,6 @@
   ],
   [
     [
-      "2024-06-23, 16:06:42",
-      "https://news.ycombinator.com/item?id=40768418"
-    ],
-    [
-      "B-Trees Require Fewer Comparisons Than Balanced Binary Search Trees",
-      "http://databasearchitects.blogspot.com/2024/06/b-trees-require-fewer-comparisons-than.html"
-    ]
-  ],
-  [
-    [
       "2024-06-23, 14:16:56",
       "https://news.ycombinator.com/item?id=40767645"
     ],
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2024-06-22, 11:33:39",
-      "https://news.ycombinator.com/item?id=40758229"
+      "2024-06-22, 10:27:57",
+      "https://news.ycombinator.com/item?id=40757870"
     ],
     [
-      "Show HN: Feedback on Sketch Colourisation",
-      "https://github.com/CHAITron/sketchdeco-code"
+      "Honoring the Legacy of Chip Design Innovator Lynn Conway",
+      "https://spectrum.ieee.org/chip-design-innovator-lynn-conway"
     ]
   ],
   [
