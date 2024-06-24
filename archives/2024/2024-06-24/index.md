@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-24](index.md)
 
+* [2024-06-24, 19:19:15](https://news.ycombinator.com/item?id=40779646) - [Lifesaving robots arrive on Lake Michigan beaches to prevent drownings](https://www.mlive.com/news/kalamazoo/2024/06/lifesaving-robots-arrive-on-lake-michigan-beaches-to-prevent-drownings.html)
 * [2024-06-24, 18:43:52](https://news.ycombinator.com/item?id=40779349) - [Google Maps and Street View running on a Commodore 64](https://readwrite.com/move-over-android-and-ios-these-guys-got-google-maps-running-on-a-commodore-64/)
 * [2024-06-24, 18:02:26](https://news.ycombinator.com/item?id=40778958) - [Disney Executive expose reveals corporate discrimination on white hiring [video]](https://www.youtube.com/watch?v=XyffDzqb_6U)
 * [2024-06-24, 17:29:08](https://news.ycombinator.com/item?id=40778655) - [Human neuroscience is entering a new era – it mustn't forget its human dimension](https://www.nature.com/articles/d41586-024-02022-3)
@@ -17,6 +18,7 @@
 * [2024-06-24, 15:27:25](https://news.ycombinator.com/item?id=40777196) - [Counterscale and the New Self-Hosted](https://benv.ca/blog/posts/counterscale-and-the-new-self-hosted)
 * [2024-06-24, 15:09:22](https://news.ycombinator.com/item?id=40776951) - [Car dealerships revert to pens and paper after cyberattacks on software provider](https://apnews.com/article/car-dealerships-cyberattack-cdk-outage-3f7c81f6be0e212172b33cdc9f49feba)
 * [2024-06-24, 14:52:01](https://news.ycombinator.com/item?id=40776758) - [No computers. Keep books. Seattle library network outage nears a month](https://www.seattletimes.com/seattle-news/no-computers-keep-books-seattle-library-network-outage-nears-a-month/)
+* [2024-06-24, 14:16:52](https://news.ycombinator.com/item?id=40776340) - [Self and Self: Whys and Wherefores (2009) [video]](https://www.youtube.com/watch?v=3ka4KY7TMTU)
 * [2024-06-24, 14:15:59](https://news.ycombinator.com/item?id=40776329) - [Using machine learning to detect bot attacks that leverage residential proxies](https://blog.cloudflare.com/residential-proxy-bot-detection-using-machine-learning)
 * [2024-06-24, 14:15:23](https://news.ycombinator.com/item?id=40776319) - [Politics is still both local and personal – but only for independents](https://theconversation.com/politics-is-still-both-local-and-personal-but-only-for-independents-not-for-democrats-or-republicans-226207)
 * [2024-06-24, 14:01:06](https://news.ycombinator.com/item?id=40776173) - [Sick of politics? Move off the grid](https://www.deseret.com/politics/2024/06/11/riverbed-ranch/)
@@ -48,6 +50,7 @@
 * [2024-06-24, 06:49:23](https://news.ycombinator.com/item?id=40773136) - [Apple's Silicon Fab Next to Homes](https://www.ashleygjovik.com/3250scott.html)
 * [2024-06-24, 06:35:35](https://news.ycombinator.com/item?id=40773074) - [My employer was dumping toxic waste into the apartment windows from their fab](https://mastodon.social/@ashleygjovik/112668372321990128)
 * [2024-06-24, 04:17:51](https://news.ycombinator.com/item?id=40772633) - [Synthesizer for Thought](https://thesephist.com/posts/synth/)
+* [2024-06-24, 03:35:40](https://news.ycombinator.com/item?id=40772495) - [Weighing Up Galileo's Evidence](https://www.historytoday.com/archive/great-debates/weighing-galileos-evidence)
 * [2024-06-24, 03:01:27](https://news.ycombinator.com/item?id=40772378) - [Copy-on-Write Performance and Debugging](https://devblogs.microsoft.com/engineering-at-microsoft/copy-on-write-performance-and-debugging/)
 * [2024-06-24, 02:49:56](https://news.ycombinator.com/item?id=40772342) - [Show HN: All-in-one AI web assistant (open-source)](https://github.com/luyu0279/BrainyAI)
 * [2024-06-24, 02:20:35](https://news.ycombinator.com/item?id=40772224) - [US EPA Enforcement and Compliance on Apple Fabrication](https://www.dropbox.com/scl/fo/312oqvretg7yyhfx0ohx4/AGZduVXs0_1geqIyi0NA9nE?e=1&preview=2024_04_30_RCRA_Insp_Report_REPORT_Apple_3250_Scott_Redacted.pdf&rlkey=3aa2tw15ek3trqlbdh7pw9erh&st=4b364mkx&dl=0)
