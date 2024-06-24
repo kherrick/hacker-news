@@ -1,26 +1,6 @@
 [
   [
     [
-      "2024-06-24, 14:01:06",
-      "https://news.ycombinator.com/item?id=40776173"
-    ],
-    [
-      "Sick of politics? Move off the grid",
-      "https://www.deseret.com/politics/2024/06/11/riverbed-ranch/"
-    ]
-  ],
-  [
-    [
-      "2024-06-24, 12:44:14",
-      "https://news.ycombinator.com/item?id=40775349"
-    ],
-    [
-      "Did Apple kill the MicroLED industry?",
-      "https://www.yolegroup.com/strategy-insights/did-apple-just-kill-the-microled-industry/"
-    ]
-  ],
-  [
-    [
       "2024-06-24, 12:42:36",
       "https://news.ycombinator.com/item?id=40775336"
     ],
@@ -65,7 +45,7 @@
       "https://news.ycombinator.com/item?id=40774563"
     ],
     [
-      "Homegrown Rendering with Rust",
+      "Homegrown Rendering with Rust (2021)",
       "https://medium.com/embarkstudios/homegrown-rendering-with-rust-1e39068e56a7"
     ]
   ],
@@ -181,6 +161,16 @@
   ],
   [
     [
+      "2024-06-23, 16:06:42",
+      "https://news.ycombinator.com/item?id=40768418"
+    ],
+    [
+      "B-Trees Require Fewer Comparisons Than Balanced Binary Search Trees",
+      "http://databasearchitects.blogspot.com/2024/06/b-trees-require-fewer-comparisons-than.html"
+    ]
+  ],
+  [
+    [
       "2024-06-23, 14:16:56",
       "https://news.ycombinator.com/item?id=40767645"
     ],
@@ -205,7 +195,7 @@
       "https://news.ycombinator.com/item?id=40766869"
     ],
     [
-      "\"We argue that mitochondria are the processor of the cell\" (2022)",
+      "Mitochondrial signal transduction (2022)",
       "https://www.cell.com/action/showPdf?pii=S1550-4131%2822%2900459-4"
     ]
   ],
@@ -221,11 +211,21 @@
   ],
   [
     [
+      "2024-06-23, 09:40:34",
+      "https://news.ycombinator.com/item?id=40766079"
+    ],
+    [
+      "Timeliness without datagrams using QUIC",
+      "https://quic.video/blog/never-use-datagrams/"
+    ]
+  ],
+  [
+    [
       "2024-06-22, 12:05:11",
       "https://news.ycombinator.com/item?id=40758451"
     ],
     [
-      "Benjamin Thorpe: The Man Who Translated Almost All Old English Texts",
+      "Benjamin Thorpe translated almost all Old English texts (2016)",
       "https://thijsporck.com/2016/04/08/benjamin-thorpe-the-man-who-translated-almost-all-old-english-texts/"
     ]
   ],
@@ -255,7 +255,7 @@
       "https://news.ycombinator.com/item?id=40757717"
     ],
     [
-      "Arm64EC – Run x86_64 and Arm code in the same process",
+      "Arm64EC – Build and port apps for native performance on Arm",
       "https://learn.microsoft.com/en-us/windows/arm/arm64ec"
     ]
   ],
