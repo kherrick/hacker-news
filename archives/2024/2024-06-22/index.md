@@ -57,6 +57,7 @@
 * [2024-06-22, 10:27:57](https://news.ycombinator.com/item?id=40757870) - [Honoring the Legacy of Chip Design Innovator Lynn Conway](https://spectrum.ieee.org/chip-design-innovator-lynn-conway)
 * [2024-06-22, 10:07:08](https://news.ycombinator.com/item?id=40757791) - [How to run an LLM on your PC, not in the cloud, in less than 10 minutes](https://www.theregister.com/2024/03/17/ai_pc_local_llm/)
 * [2024-06-22, 10:07:05](https://news.ycombinator.com/item?id=40757787) - [Own Constant Folder in C/C++](https://www.neilhenning.dev/posts/yourownconstantfolder/)
+* [2024-06-22, 10:04:03](https://news.ycombinator.com/item?id=40757777) - [Polytype: A Rosetta Stone for typesetting engines](https://polytype.dev/)
 * [2024-06-22, 10:03:10](https://news.ycombinator.com/item?id=40757775) - [Aphantasia: I can not picture things in my mind](https://www.theguardian.com/wellness/2024/feb/26/what-is-aphantasia-like)
 * [2024-06-22, 09:49:15](https://news.ycombinator.com/item?id=40757717) - [Arm64EC – Run x86_64 and Arm code in the same process](https://learn.microsoft.com/en-us/windows/arm/arm64ec)
 * [2024-06-22, 09:33:08](https://news.ycombinator.com/item?id=40757655) - [Why Steve Jobs Went 'Thermonuclear' over Android (2014)](https://www.pcmag.com/opinions/why-steve-jobs-went-thermonuclear-over-android)
