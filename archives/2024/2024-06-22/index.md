@@ -45,6 +45,7 @@
 * [2024-06-22, 12:39:57](https://news.ycombinator.com/item?id=40758703) - [Show HN: Envelope – A modern environment variable cli tool](https://github.com/mattrighetti/envelope)
 * [2024-06-22, 12:31:05](https://news.ycombinator.com/item?id=40758638) - [Bugs, drugs and electric venom: is this the most deadly library in the world?](https://www.theguardian.com/science/article/2024/jun/22/bugs-drugs-and-electric-venom-is-this-the-most-deadly-library-in-the-world)
 * [2024-06-22, 12:28:42](https://news.ycombinator.com/item?id=40758618) - [Fixing a memory leak of xmlEntityPtr in librsvg](https://viruta.org/fixing-xml-entity-leak.html)
+* [2024-06-22, 12:05:11](https://news.ycombinator.com/item?id=40758451) - [Benjamin Thorpe: The Man Who Translated Almost All Old English Texts](https://thijsporck.com/2016/04/08/benjamin-thorpe-the-man-who-translated-almost-all-old-english-texts/)
 * [2024-06-22, 12:00:39](https://news.ycombinator.com/item?id=40758415) - [PermitFlow (YC W22) Is Hiring Software Engineers in NYC](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 * [2024-06-22, 11:56:49](https://news.ycombinator.com/item?id=40758387) - [Coverage at a Crossroads](https://nedbatchelder.com/blog/202406/coverage_at_a_crossroads.html)
 * [2024-06-22, 11:44:04](https://news.ycombinator.com/item?id=40758302) - [Identifying Leap Years](https://davecturner.github.io/2020/08/07/leapyear-optimization.html)

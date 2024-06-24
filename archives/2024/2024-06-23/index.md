@@ -38,6 +38,7 @@
 * [2024-06-23, 16:49:49](https://news.ycombinator.com/item?id=40768760) - [Audit finds NYPD spent thousands of police hours on unconfirmed gunshot alerts](https://comptroller.nyc.gov/newsroom/nypds-shotspotter-gunshot-detection-system-overwhelmingly-sends-officers-to-locations-where-no-confirmed-shooting-occurred-new-audit-uncovers/)
 * [2024-06-23, 16:35:57](https://news.ycombinator.com/item?id=40768666) - [US Forest Service proposes protections for old-growth trees, without logging ban](https://www.opb.org/article/2024/06/22/us-forest-service-old-growth-tree-protections-proposal/)
 * [2024-06-23, 16:11:45](https://news.ycombinator.com/item?id=40768448) - [G'mic 3.4.0: Image Processing in Its Prime](https://gmic.eu/gmic340/)
+* [2024-06-23, 16:06:42](https://news.ycombinator.com/item?id=40768418) - [B-Trees Require Fewer Comparisons Than Balanced Binary Search Trees](http://databasearchitects.blogspot.com/2024/06/b-trees-require-fewer-comparisons-than.html)
 * [2024-06-23, 16:00:03](https://news.ycombinator.com/item?id=40768365) - [Inside Netflix's bet on advanced video encoding](https://www.theverge.com/2024/6/22/24171581/netflix-bet-advanced-encoding-anne-aaron)
 * [2024-06-23, 15:38:19](https://news.ycombinator.com/item?id=40768225) - [Arbitrary shell command evaluation in Org Mode (GNU Emacs)](https://seclists.org/oss-sec/2024/q2/296)
 * [2024-06-23, 15:33:57](https://news.ycombinator.com/item?id=40768188) - [Citizens to End SuperPACs](https://www.citizenstoendsuperpacs.org)
