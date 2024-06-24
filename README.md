@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-24, 21:17:40](https://news.ycombinator.com/item?id=40780914) - [Android Secret Security Codes You Need to Know](https://www.makeuseof.com/android-security-codes-you-need-to-know/)
 * [2024-06-24, 21:00:35](https://news.ycombinator.com/item?id=40780712) - [Finley (YC W21) is hiring our first Sales Ops team member (SF, NY, Remote)](https://jobs.lever.co/FinleyTechnologies/ef9b46ab-6c97-4401-b7d1-8535c262f246)
 * [2024-06-24, 20:29:34](https://news.ycombinator.com/item?id=40780366) - [Carmakers File Challenge to Parts of New Automatic-Braking Rule](https://www.wsj.com/business/autos/carmakers-file-challenge-to-parts-of-new-automatic-braking-rule-ebb653e9)
 * [2024-06-24, 20:05:09](https://news.ycombinator.com/item?id=40780075) - [Lawyers' Committee Opposes New Draft of American Privacy Rights Act](https://www.lawyerscommittee.org/lawyers-committee-opposes-new-draft-of-american-privacy-rights-act-urges-representatives-to-vote-no/)
@@ -26,7 +27,6 @@
 * [2024-06-22, 11:35:13](https://news.ycombinator.com/item?id=40758241) - [Tachyonfx: A library for creating shader-like effects in terminal UIs](https://github.com/junkdog/tachyonfx)
 * [2024-06-22, 10:04:03](https://news.ycombinator.com/item?id=40757777) - [Polytype: A Rosetta Stone for typesetting engines](https://polytype.dev/)
 * [2024-06-22, 09:49:15](https://news.ycombinator.com/item?id=40757717) - [Arm64EC – Build and port apps for native performance on Arm](https://learn.microsoft.com/en-us/windows/arm/arm64ec)
-* [2024-06-22, 03:59:41](https://news.ycombinator.com/item?id=40756154) - [Bringing Roman Light to Life](https://www.journals.uchicago.edu/doi/10.1086/731029)
 * [2024-06-21, 20:28:31](https://news.ycombinator.com/item?id=40753468) - [Uh-Oh: A story of SpaghettiOs and forgotten history](https://snackstack.net/2024/05/25/uh-oh-a-story-of-spaghettios-and-forgotten-history/)
 * [2024-06-21, 13:13:39](https://news.ycombinator.com/item?id=40749279) - [Show HN: Online OPML editor to manage subscription lists](https://github.com/imdj/opml-editor)
 * [2024-06-20, 14:31:22](https://news.ycombinator.com/item?id=40739187) - [React Lua](https://github.com/jsdotlua/react-lua)
