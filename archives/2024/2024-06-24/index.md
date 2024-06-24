@@ -4,5 +4,6 @@
 
 ### [Archives](../../index.md) for [2024-06-24](index.md)
 
+* [2024-06-24, 02:49:56](https://news.ycombinator.com/item?id=40772342) - [Show HN: All-in-one AI web assistant (open-source)](https://github.com/luyu0279/BrainyAI)
 * [2024-06-24, 02:20:35](https://news.ycombinator.com/item?id=40772224) - [US EPA Enforcement and Compliance on Apple Fabrication](https://www.dropbox.com/scl/fo/312oqvretg7yyhfx0ohx4/AGZduVXs0_1geqIyi0NA9nE?e=1&preview=2024_04_30_RCRA_Insp_Report_REPORT_Apple_3250_Scott_Redacted.pdf&rlkey=3aa2tw15ek3trqlbdh7pw9erh&st=4b364mkx&dl=0)
 * [2024-06-24, 00:43:10](https://news.ycombinator.com/item?id=40771839) - [Neko: Portable framework for high-order spectral element flow simulations](https://github.com/ExtremeFLOW/neko)
