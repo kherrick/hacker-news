@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-24, 11:05:18",
+      "https://news.ycombinator.com/item?id=40774563"
+    ],
+    [
+      "Homegrown Rendering with Rust",
+      "https://medium.com/embarkstudios/homegrown-rendering-with-rust-1e39068e56a7"
+    ]
+  ],
+  [
+    [
+      "2024-06-24, 10:36:45",
+      "https://news.ycombinator.com/item?id=40774351"
+    ],
+    [
+      "Lockbit 3.0 Claims Attack on Federal Reserve: 33 Terabytes Allegedly Compromised",
+      "https://www.redhotcyber.com/en/post/lockbit-3-0-claims-attack-on-federal-reserve-33-terabytes-of-sensitive-data-allegedly-compromised/"
+    ]
+  ],
+  [
+    [
       "2024-06-24, 10:34:11",
       "https://news.ycombinator.com/item?id=40774336"
     ],
@@ -37,6 +57,16 @@
     [
       "Up to 78M batteries will be discarded daily by 2025, researchers warn",
       "https://cordis.europa.eu/article/id/430457-up-to-78-million-batteries-will-be-discarded-daily-by-2025-researchers-warn"
+    ]
+  ],
+  [
+    [
+      "2024-06-24, 09:23:20",
+      "https://news.ycombinator.com/item?id=40773957"
+    ],
+    [
+      "EPA releases report on Apple's hazardous waste violations in urban silicon fab",
+      "https://mastodon.social/@ashleygjovik/112668309100333232/?"
     ]
   ],
   [
@@ -117,16 +147,6 @@
     [
       "Neko: Portable framework for high-order spectral element flow simulations",
       "https://github.com/ExtremeFLOW/neko"
-    ]
-  ],
-  [
-    [
-      "2024-06-23, 20:39:35",
-      "https://news.ycombinator.com/item?id=40770430"
-    ],
-    [
-      "Writing an IR from Scratch and survive to write a post",
-      "https://farena.in/compilers/programming/writing-an-ir-from-scratch/"
     ]
   ],
   [
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2024-06-22, 03:59:41",
-      "https://news.ycombinator.com/item?id=40756154"
-    ],
-    [
-      "Bringing Roman Light to Life",
-      "https://www.journals.uchicago.edu/doi/10.1086/731029"
-    ]
-  ],
-  [
-    [
       "2024-06-21, 22:25:36",
       "https://news.ycombinator.com/item?id=40754501"
     ],
     [
       "The End-of-Line Story (2004)",
       "https://www.rfc-editor.org/old/EOLstory.txt"
-    ]
-  ],
-  [
-    [
-      "2024-06-21, 21:25:33",
-      "https://news.ycombinator.com/item?id=40753989"
-    ],
-    [
-      "Formal methods: Just good engineering practice?",
-      "https://brooker.co.za/blog/2024/04/17/formal.html"
     ]
   ],
   [
