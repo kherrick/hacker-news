@@ -12,6 +12,7 @@
 * [2024-06-22, 21:20:32](https://news.ycombinator.com/item?id=40762319) - [Waymo the Leapfrog](https://loeber.substack.com/p/20-waymo-the-leapfrog)
 * [2024-06-22, 21:01:00](https://news.ycombinator.com/item?id=40762177) - [Charge Robotics (YC S21) is hiring SWEs to build solar construction robots](https://www.workatastartup.com/jobs/51266)
 * [2024-06-22, 20:54:53](https://news.ycombinator.com/item?id=40762133) - [Google is force canceling gsuite because I used unlimited storage as unlimited](https://twitter.com/warnvod/status/1804429256744706202)
+* [2024-06-22, 20:42:03](https://news.ycombinator.com/item?id=40762019) - [Avoiding Emacs Bankruptcy](https://b.tuxes.uk/avoiding-emacs-bankruptcy.html)
 * [2024-06-22, 20:18:23](https://news.ycombinator.com/item?id=40761837) - [Solar generates fifth of global electricity on summer solstice midday peak](https://ember-climate.org/insights/in-brief/the-global-solar-revolution/)
 * [2024-06-22, 20:01:41](https://news.ycombinator.com/item?id=40761713) - [HH70, the first high-temperature superconducting Tokamak achieves first plasma](https://www.energysingularity.cn/en/hh70-the-worlds-first-high-temperature-superconducting-tokamak-achieves-first-plasma/)
 * [2024-06-22, 19:45:38](https://news.ycombinator.com/item?id=40761606) - [AI is exhausting the power grid. Tech firms are seeking a miracle solution](https://www.msn.com/en-us/money/technology/ai-is-exhausting-the-power-grid-tech-firms-are-seeking-a-miracle-solution/ar-BB1oDl5z)

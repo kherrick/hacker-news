@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-24](index.md)
 
+* [2024-06-24, 19:32:20](https://news.ycombinator.com/item?id=40779758) - [Nuclear engineer dismisses claim that modular reactors commercially viable soon](https://www.theguardian.com/australia-news/article/2024/jun/21/peter-dutton-coalition-nuclear-policy-engineer-small-modular-reactors-no-commercially-viable)
 * [2024-06-24, 19:19:15](https://news.ycombinator.com/item?id=40779646) - [Lifesaving robots arrive on Lake Michigan beaches to prevent drownings](https://www.mlive.com/news/kalamazoo/2024/06/lifesaving-robots-arrive-on-lake-michigan-beaches-to-prevent-drownings.html)
 * [2024-06-24, 18:43:52](https://news.ycombinator.com/item?id=40779349) - [Google Maps and Street View running on a Commodore 64](https://readwrite.com/move-over-android-and-ios-these-guys-got-google-maps-running-on-a-commodore-64/)
 * [2024-06-24, 18:03:05](https://news.ycombinator.com/item?id=40778965) - [Cloudflare blocking my IP (2023)](https://community.cloudflare.com/t/cloudflare-blocking-my-ip/542685)
@@ -30,6 +31,7 @@
 * [2024-06-24, 12:38:06](https://news.ycombinator.com/item?id=40775301) - [Microsoft Account to local account conversion guide erased from Windows 11 guide](https://www.tomshardware.com/software/windows/microsoft-account-to-local-account-conversion-guide-erased-from-official-windows-11-guide-instructions-redacted-earlier-this-week)
 * [2024-06-24, 12:33:52](https://news.ycombinator.com/item?id=40775268) - [LockBit claims to exfiltrate 33TB of data from US Federal Reserve](https://securityaffairs.com/164873/cyber-crime/lockbit-claims-hacked-us-federal-reserve.html)
 * [2024-06-24, 12:31:01](https://news.ycombinator.com/item?id=40775252) - [Microsoft shelves its underwater data center](https://www.tomshardware.com/desktops/servers/microsoft-shelves-its-underwater-data-center)
+* [2024-06-24, 12:30:41](https://news.ycombinator.com/item?id=40775249) - [No matter what they tell you, it's a people problem (2008)](https://blog.codinghorror.com/no-matter-what-they-tell-you-its-a-people-problem/)
 * [2024-06-24, 12:29:54](https://news.ycombinator.com/item?id=40775234) - [Bashbro – New software release (bashttpd rework)](https://github.com/victrixsoft/bashbro)
 * [2024-06-24, 12:17:01](https://news.ycombinator.com/item?id=40775127) - [Show HN: I Built a Tool to Break Free from YouTube's Addictive Algorithm](https://watchlist.so)
 * [2024-06-24, 12:16:27](https://news.ycombinator.com/item?id=40775123) - [Colorado has a first-in-the-nation law for AI – but what will it do?](https://www.cpr.org/2024/06/17/colorado-artificial-intelligence-law-implementation-ramifications/)
