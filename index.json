@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-06-24, 20:09:20",
+      "https://news.ycombinator.com/item?id=40780128"
+    ],
+    [
+      "A working entropy encoder with output below the Shannon limit",
+      "https://github.com/Peter-Ebert/Valli-Encoding"
+    ]
+  ],
+  [
+    [
+      "2024-06-24, 20:01:18",
+      "https://news.ycombinator.com/item?id=40780036"
+    ],
+    [
+      "Y Combinator, AI startups oppose California AI safety bill",
+      "https://www.theregister.com/2024/06/24/ai_startups_california_bill/"
+    ]
+  ],
+  [
+    [
       "2024-06-24, 19:32:20",
       "https://news.ycombinator.com/item?id=40779758"
     ],
     [
       "Nuclear engineer dismisses claim that modular reactors could be viable soon",
       "https://www.theguardian.com/australia-news/article/2024/jun/21/peter-dutton-coalition-nuclear-policy-engineer-small-modular-reactors-no-commercially-viable"
+    ]
+  ],
+  [
+    [
+      "2024-06-24, 19:20:39",
+      "https://news.ycombinator.com/item?id=40779658"
+    ],
+    [
+      "Komorebi: Tiling Window Management for Windows",
+      "https://github.com/LGUG2Z/komorebi"
     ]
   ],
   [
@@ -27,6 +57,16 @@
     [
       "A journey into Kindle AI slop hell",
       "https://maxread.substack.com/p/my-kindle-thinks-im-stupid-now"
+    ]
+  ],
+  [
+    [
+      "2024-06-24, 17:23:28",
+      "https://news.ycombinator.com/item?id=40778594"
+    ],
+    [
+      "More Memory Safety for Let's Encrypt: Deploying ntpd-rs",
+      "https://letsencrypt.org/2024/06/24/ntpd-rs-deployment.html"
     ]
   ],
   [
@@ -67,16 +107,6 @@
     [
       "Apple found in breach of EU competition rules",
       "https://www.theguardian.com/technology/article/2024/jun/24/apple-breach-eu-competition-rules-digital-markets-act"
-    ]
-  ],
-  [
-    [
-      "2024-06-24, 06:50:00",
-      "https://news.ycombinator.com/item?id=40773139"
-    ],
-    [
-      "Cosmopolitan v3.5",
-      "https://github.com/jart/cosmopolitan/releases/tag/3.5.0"
     ]
   ],
   [
@@ -181,32 +211,12 @@
   ],
   [
     [
-      "2024-06-23, 04:50:30",
-      "https://news.ycombinator.com/item?id=40764889"
-    ],
-    [
-      "Truckstops on the Information Superhighway (2018)",
-      "https://www.americanacademy.de/truckstops-on-the-information-superhighway/"
-    ]
-  ],
-  [
-    [
       "2024-06-23, 01:45:23",
       "https://news.ycombinator.com/item?id=40763965"
     ],
     [
       "A supermarket trip may soon look different, thanks to electronic shelf labels",
       "https://www.npr.org/2024/06/17/nx-s1-5009271/electronic-shelf-labels-prices-walmart-grocery-store"
-    ]
-  ],
-  [
-    [
-      "2024-06-23, 01:34:37",
-      "https://news.ycombinator.com/item?id=40763885"
-    ],
-    [
-      "Asian groceries like H Mart and Patel Brothers are reshaping America",
-      "https://www.nytimes.com/2024/06/11/dining/asian-grocery-stores-america.html"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Arm64EC – Build and port apps for native performance on Arm",
       "https://learn.microsoft.com/en-us/windows/arm/arm64ec"
-    ]
-  ],
-  [
-    [
-      "2024-06-22, 03:59:41",
-      "https://news.ycombinator.com/item?id=40756154"
-    ],
-    [
-      "Bringing Roman Light to Life",
-      "https://www.journals.uchicago.edu/doi/10.1086/731029"
     ]
   ],
   [
