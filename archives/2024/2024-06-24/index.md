@@ -6,6 +6,8 @@
 
 * [2024-06-24, 20:09:20](https://news.ycombinator.com/item?id=40780128) - [A working entropy encoder with output below the Shannon limit](https://github.com/Peter-Ebert/Valli-Encoding)
 * [2024-06-24, 20:01:18](https://news.ycombinator.com/item?id=40780036) - [Y Combinator, AI startups oppose California AI safety bill](https://www.theregister.com/2024/06/24/ai_startups_california_bill/)
+* [2024-06-24, 19:36:20](https://news.ycombinator.com/item?id=40779788) - [The Company Men](https://im1776.com/2024/06/19/the-company-men/)
+* [2024-06-24, 19:35:52](https://news.ycombinator.com/item?id=40779785) - [The case for not sanitising fairy tales](https://www.plough.com/en/topics/culture/literature/the-case-for-not-sanitizing-fairy-tales)
 * [2024-06-24, 19:32:20](https://news.ycombinator.com/item?id=40779758) - [Nuclear engineer dismisses claim that modular reactors commercially viable soon](https://www.theguardian.com/australia-news/article/2024/jun/21/peter-dutton-coalition-nuclear-policy-engineer-small-modular-reactors-no-commercially-viable)
 * [2024-06-24, 19:20:39](https://news.ycombinator.com/item?id=40779658) - [Komorebi: Tiling Window Management for Windows](https://github.com/LGUG2Z/komorebi)
 * [2024-06-24, 19:19:15](https://news.ycombinator.com/item?id=40779646) - [Lifesaving robots arrive on Lake Michigan beaches to prevent drownings](https://www.mlive.com/news/kalamazoo/2024/06/lifesaving-robots-arrive-on-lake-michigan-beaches-to-prevent-drownings.html)
