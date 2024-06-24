@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-06-24](index.md)
 
 * [2024-06-24, 12:38:06](https://news.ycombinator.com/item?id=40775301) - [Microsoft Account to local account conversion guide erased from Windows 11 guide](https://www.tomshardware.com/software/windows/microsoft-account-to-local-account-conversion-guide-erased-from-official-windows-11-guide-instructions-redacted-earlier-this-week)
+* [2024-06-24, 12:33:52](https://news.ycombinator.com/item?id=40775268) - [LockBit claims to exfiltrate 33TB of data from US Federal Reserve](https://securityaffairs.com/164873/cyber-crime/lockbit-claims-hacked-us-federal-reserve.html)
+* [2024-06-24, 12:29:54](https://news.ycombinator.com/item?id=40775234) - [Bashbro – New software release (bashttpd rework)](https://github.com/victrixsoft/bashbro)
 * [2024-06-24, 12:00:13](https://news.ycombinator.com/item?id=40774980) - [UpCodes (YC S17) is hiring remote engineers across the Americas](https://up.codes/careers?utm_source=HN)
 * [2024-06-24, 11:05:18](https://news.ycombinator.com/item?id=40774563) - [Homegrown Rendering with Rust](https://medium.com/embarkstudios/homegrown-rendering-with-rust-1e39068e56a7)
 * [2024-06-24, 10:47:43](https://news.ycombinator.com/item?id=40774446) - [Ask HN: What is the most challenging programming course you have taken?](https://news.ycombinator.com/item?id=40774446)
