@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-24](index.md)
 
+* [2024-06-24, 06:53:04](https://news.ycombinator.com/item?id=40773151) - [US prosecutors recommend Justice Department criminally charge Boeing](https://www.voanews.com/a/us-prosecutors-recommend-justice-department-criminally-charge-boeing-as-deadline-looms/7667194.html)
 * [2024-06-24, 06:50:00](https://news.ycombinator.com/item?id=40773139) - [Cosmopolitan v3.5.0](https://github.com/jart/cosmopolitan/releases/tag/3.5.0)
 * [2024-06-24, 06:49:23](https://news.ycombinator.com/item?id=40773136) - [Apple's Silicon Fab Next to Homes](https://www.ashleygjovik.com/3250scott.html)
 * [2024-06-24, 02:49:56](https://news.ycombinator.com/item?id=40772342) - [Show HN: All-in-one AI web assistant (open-source)](https://github.com/luyu0279/BrainyAI)
