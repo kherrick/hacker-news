@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-24](index.md)
 
+* [2024-06-24, 16:29:43](https://news.ycombinator.com/item?id=40778038) - [Plastic Particles in Bottled Water](https://www.nih.gov/news-events/nih-research-matters/plastic-particles-bottled-water)
 * [2024-06-24, 15:32:30](https://news.ycombinator.com/item?id=40777275) - [OpenAI Acquires Multi](https://multi.app/blog/multi-is-joining-openai)
 * [2024-06-24, 15:27:49](https://news.ycombinator.com/item?id=40777202) - [Apple vented toxic waste from semiconductor fab into residential apartment](https://twitter.com/ashleygjovik/status/1805006150410162322)
 * [2024-06-24, 15:27:25](https://news.ycombinator.com/item?id=40777196) - [Counterscale and the New Self-Hosted](https://benv.ca/blog/posts/counterscale-and-the-new-self-hosted)

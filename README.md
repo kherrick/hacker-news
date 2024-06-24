@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-24, 16:29:43](https://news.ycombinator.com/item?id=40778038) - [Plastic Particles in Bottled Water](https://www.nih.gov/news-events/nih-research-matters/plastic-particles-bottled-water)
 * [2024-06-24, 15:32:30](https://news.ycombinator.com/item?id=40777275) - [OpenAI Acquires Multi](https://multi.app/blog/multi-is-joining-openai)
 * [2024-06-24, 15:09:22](https://news.ycombinator.com/item?id=40776951) - [Car dealerships revert to pens and paper after cyberattacks on software provider](https://apnews.com/article/car-dealerships-cyberattack-cdk-outage-3f7c81f6be0e212172b33cdc9f49feba)
 * [2024-06-24, 12:00:13](https://news.ycombinator.com/item?id=40774980) - [UpCodes (YC S17) is hiring remote engineers across the Americas](https://up.codes/careers?utm_source=HN)
@@ -19,7 +20,6 @@
 * [2024-06-23, 14:16:56](https://news.ycombinator.com/item?id=40767645) - [Picolisp a Railroad Simulation](https://picolisp-explored.com/a-railroad-simulation-with-des)
 * [2024-06-23, 13:49:30](https://news.ycombinator.com/item?id=40767459) - [I am using AI to drop hats outside my window onto New Yorkers](https://dropofahat.zone/)
 * [2024-06-23, 12:01:45](https://news.ycombinator.com/item?id=40766791) - [Llama.ttf: A font which is also an LLM](https://fuglede.github.io/llama.ttf/)
-* [2024-06-23, 09:40:34](https://news.ycombinator.com/item?id=40766079) - [Timeliness without datagrams using QUIC](https://quic.video/blog/never-use-datagrams/)
 * [2024-06-22, 12:05:11](https://news.ycombinator.com/item?id=40758451) - [Benjamin Thorpe translated almost all Old English texts (2016)](https://thijsporck.com/2016/04/08/benjamin-thorpe-the-man-who-translated-almost-all-old-english-texts/)
 * [2024-06-22, 10:27:57](https://news.ycombinator.com/item?id=40757870) - [Honoring the Legacy of Chip Design Innovator Lynn Conway](https://spectrum.ieee.org/chip-design-innovator-lynn-conway)
 * [2024-06-22, 10:04:03](https://news.ycombinator.com/item?id=40757777) - [Polytype: A Rosetta Stone for typesetting engines](https://polytype.dev/)
