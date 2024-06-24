@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-24](index.md)
 
+* [2024-06-24, 22:38:31](https://news.ycombinator.com/item?id=40781838) - [Round Rects Are Everywhere](https://www.folklore.org/Round_Rects_Are_Everywhere.html)
 * [2024-06-24, 21:30:43](https://news.ycombinator.com/item?id=40781048) - [Windows 11 is now enabling OneDrive folder backup without asking permission](https://www.neowin.net/news/windows-11-is-now-automatically-enabling-onedrive-folder-backup-without-asking-permission/)
 * [2024-06-24, 21:20:31](https://news.ycombinator.com/item?id=40780940) - [Ask HN: Those of you who've left the SWE world, what did you transition into?](https://news.ycombinator.com/item?id=40780940)
 * [2024-06-24, 21:17:40](https://news.ycombinator.com/item?id=40780914) - [Android Secret Security Codes You Need to Know](https://www.makeuseof.com/android-security-codes-you-need-to-know/)
