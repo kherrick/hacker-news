@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-24](index.md)
 
+* [2024-06-24, 09:23:20](https://news.ycombinator.com/item?id=40773957) - [EPA releases report on Apple's hazardous waste violations in urban silicon fab](https://mastodon.social/@ashleygjovik/112668309100333232/?)
+* [2024-06-24, 09:10:56](https://news.ycombinator.com/item?id=40773883) - [Apple found in breach of EU competition rules](https://www.theguardian.com/technology/article/2024/jun/24/apple-breach-eu-competition-rules-digital-markets-act)
 * [2024-06-24, 09:01:32](https://news.ycombinator.com/item?id=40773843) - [Gren 0.4: New Foundations](https://gren-lang.org/news/240624_gren_04/)
 * [2024-06-24, 08:56:08](https://news.ycombinator.com/item?id=40773806) - [Commission opens additional DMA investigation against Apple](https://ec.europa.eu/commission/presscorner/detail/en/ip_24_3433)
 * [2024-06-24, 06:53:04](https://news.ycombinator.com/item?id=40773151) - [US prosecutors recommend Justice Department criminally charge Boeing](https://www.voanews.com/a/us-prosecutors-recommend-justice-department-criminally-charge-boeing-as-deadline-looms/7667194.html)
