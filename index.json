@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-06-24, 12:44:14",
-      "https://news.ycombinator.com/item?id=40775349"
-    ],
-    [
-      "Did Apple kill the MicroLED industry?",
-      "https://www.yolegroup.com/strategy-insights/did-apple-just-kill-the-microled-industry/"
-    ]
-  ],
-  [
-    [
       "2024-06-24, 12:38:06",
       "https://news.ycombinator.com/item?id=40775301"
     ],
@@ -27,26 +17,6 @@
     [
       "LockBit claims to exfiltrate 33TB of data from US Federal Reserve",
       "https://securityaffairs.com/164873/cyber-crime/lockbit-claims-hacked-us-federal-reserve.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-24, 12:31:01",
-      "https://news.ycombinator.com/item?id=40775252"
-    ],
-    [
-      "Microsoft shelves its underwater data center",
-      "https://www.tomshardware.com/desktops/servers/microsoft-shelves-its-underwater-data-center"
-    ]
-  ],
-  [
-    [
-      "2024-06-24, 12:29:54",
-      "https://news.ycombinator.com/item?id=40775234"
-    ],
-    [
-      "Bashbro – New software release (bashttpd rework)",
-      "https://github.com/victrixsoft/bashbro"
     ]
   ],
   [
@@ -71,16 +41,6 @@
   ],
   [
     [
-      "2024-06-24, 10:34:11",
-      "https://news.ycombinator.com/item?id=40774336"
-    ],
-    [
-      "Fire at South Korea lithium battery plant kills at least 16 people",
-      "https://www.nbcnews.com/news/world/fire-south-korea-lithium-battery-plant-kills-least-16-people-rcna158536"
-    ]
-  ],
-  [
-    [
       "2024-06-24, 10:25:11",
       "https://news.ycombinator.com/item?id=40774277"
     ],
@@ -97,16 +57,6 @@
     [
       "Convert an existing wired doorbell into a smart doorbell using ESPHome",
       "https://frenck.dev/diy-smart-doorbell-for-just-2-dollar/"
-    ]
-  ],
-  [
-    [
-      "2024-06-24, 09:23:20",
-      "https://news.ycombinator.com/item?id=40773957"
-    ],
-    [
-      "EPA releases report on Apple's hazardous waste violations in urban silicon fab",
-      "https://mastodon.social/@ashleygjovik/112668309100333232/?"
     ]
   ],
   [
@@ -131,22 +81,32 @@
   ],
   [
     [
-      "2024-06-24, 06:53:04",
-      "https://news.ycombinator.com/item?id=40773151"
-    ],
-    [
-      "US prosecutors recommend Justice Department criminally charge Boeing",
-      "https://www.voanews.com/a/us-prosecutors-recommend-justice-department-criminally-charge-boeing-as-deadline-looms/7667194.html"
-    ]
-  ],
-  [
-    [
       "2024-06-24, 06:50:00",
       "https://news.ycombinator.com/item?id=40773139"
     ],
     [
       "Cosmopolitan v3.5.0",
       "https://github.com/jart/cosmopolitan/releases/tag/3.5.0"
+    ]
+  ],
+  [
+    [
+      "2024-06-24, 00:43:10",
+      "https://news.ycombinator.com/item?id=40771839"
+    ],
+    [
+      "Neko: Portable framework for high-order spectral element flow simulations",
+      "https://github.com/ExtremeFLOW/neko"
+    ]
+  ],
+  [
+    [
+      "2024-06-23, 20:39:35",
+      "https://news.ycombinator.com/item?id=40770430"
+    ],
+    [
+      "Writing an IR from Scratch and survive to write a post",
+      "https://farena.in/compilers/programming/writing-an-ir-from-scratch/"
     ]
   ],
   [
@@ -211,12 +171,42 @@
   ],
   [
     [
+      "2024-06-23, 16:06:42",
+      "https://news.ycombinator.com/item?id=40768418"
+    ],
+    [
+      "B-Trees Require Fewer Comparisons Than Balanced Binary Search Trees",
+      "http://databasearchitects.blogspot.com/2024/06/b-trees-require-fewer-comparisons-than.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-23, 14:16:56",
+      "https://news.ycombinator.com/item?id=40767645"
+    ],
+    [
+      "Picolisp a Railroad Simulation",
+      "https://picolisp-explored.com/a-railroad-simulation-with-des"
+    ]
+  ],
+  [
+    [
       "2024-06-23, 13:49:30",
       "https://news.ycombinator.com/item?id=40767459"
     ],
     [
       "I am using AI to drop hats outside my window onto New Yorkers",
       "https://dropofahat.zone/"
+    ]
+  ],
+  [
+    [
+      "2024-06-23, 12:15:49",
+      "https://news.ycombinator.com/item?id=40766869"
+    ],
+    [
+      "\"We argue that mitochondria are the processor of the cell\" (2022)",
+      "https://www.cell.com/action/showPdf?pii=S1550-4131%2822%2900459-4"
     ]
   ],
   [
@@ -237,6 +227,16 @@
     [
       "Benjamin Thorpe: The Man Who Translated Almost All Old English Texts",
       "https://thijsporck.com/2016/04/08/benjamin-thorpe-the-man-who-translated-almost-all-old-english-texts/"
+    ]
+  ],
+  [
+    [
+      "2024-06-22, 11:33:39",
+      "https://news.ycombinator.com/item?id=40758229"
+    ],
+    [
+      "Show HN: Feedback on Sketch Colourisation",
+      "https://github.com/CHAITron/sketchdeco-code"
     ]
   ],
   [
