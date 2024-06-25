@@ -1,32 +1,12 @@
 [
   [
     [
-      "2024-06-25, 17:54:39",
-      "https://news.ycombinator.com/item?id=40791457"
+      "2024-06-25, 17:26:25",
+      "https://news.ycombinator.com/item?id=40791112"
     ],
     [
-      "Andrew Tanenbaum honoured for MINIX, the OS hiding in lots of computers",
-      "https://www.theregister.com/2024/06/25/tanenbaum_minix_award/"
-    ]
-  ],
-  [
-    [
-      "2024-06-25, 17:34:12",
-      "https://news.ycombinator.com/item?id=40791192"
-    ],
-    [
-      "Malicious Code Injection Found in CDN Polyfill Link Targeting Mobile Users",
-      "https://github.com/polyfillpolyfill/polyfill-service/issues/2873"
-    ]
-  ],
-  [
-    [
-      "2024-06-25, 17:23:17",
-      "https://news.ycombinator.com/item?id=40791078"
-    ],
-    [
-      "Paramount Erases Mtv.com Archives, Wipes Music, Culture History After 30+ Years",
-      "https://www.showbiz411.com/2024/06/25/paramount-shuts-down-mtv-website-wipes-history-after-20-plus-years"
+      "Show HN: FiddleCube – Generate Q&A to test your LLM",
+      "https://github.com/fiddlecube/fiddlecube-sdk"
     ]
   ],
   [
@@ -47,16 +27,6 @@
     [
       "Sohu – first specialized chip (ASIC) for transformer models",
       "https://twitter.com/Etched/status/1805625693113663834"
-    ]
-  ],
-  [
-    [
-      "2024-06-25, 16:42:08",
-      "https://news.ycombinator.com/item?id=40790640"
-    ],
-    [
-      "Engineer insists Post Office software did a 'good job'",
-      "https://www.thetimes.com/uk/society/article/post-office-scandal-horizon-fujitsu-high-court-9ht63zvp2"
     ]
   ],
   [
@@ -126,7 +96,7 @@
     ],
     [
       "Show HN: Triplit – Open-source syncing database that runs on server and client",
-      "https://news.ycombinator.com/item?id=40788648"
+      "https://github.com/aspen-cloud/triplit"
     ]
   ],
   [
@@ -191,6 +161,16 @@
   ],
   [
     [
+      "2024-06-24, 22:44:30",
+      "https://news.ycombinator.com/item?id=40781894"
+    ],
+    [
+      "Show HN: Qq: like jq, but can transcode between many formats",
+      "https://github.com/JFryy/qq"
+    ]
+  ],
+  [
+    [
       "2024-06-24, 22:38:31",
       "https://news.ycombinator.com/item?id=40781838"
     ],
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2024-06-24, 06:29:39",
+      "https://news.ycombinator.com/item?id=40773056"
+    ],
+    [
+      "The Triumph of Counting and Scripting",
+      "https://slate.com/life/2024/06/doctors-teachers-dissatisfaction-tracking-charting-jobs.html"
+    ]
+  ],
+  [
+    [
       "2024-06-24, 05:58:41",
       "https://news.ycombinator.com/item?id=40772955"
     ],
@@ -257,6 +247,16 @@
     [
       "A reckless introduction to Hindley-Milner type inference (2019)",
       "https://reasonableapproximation.net/2019/05/05/hindley-milner.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-23, 19:20:53",
+      "https://news.ycombinator.com/item?id=40769882"
+    ],
+    [
+      "Porting Python to a $3 smartwatch [video]",
+      "https://www.youtube.com/watch?v=sv58aPvIonw"
     ]
   ],
   [
