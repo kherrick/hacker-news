@@ -4,13 +4,18 @@
 
 ### [Archives](../../index.md) for [2024-06-24](index.md)
 
+* [2024-06-24, 23:59:05](https://news.ycombinator.com/item?id=40782601) - [Rheinmetall and Anduril join forces to develop C-sUAS system](https://www.anduril.com/article/rheinmetall-and-anduril-join-forces-to-develop-c-suas-system/)
+* [2024-06-24, 23:53:09](https://news.ycombinator.com/item?id=40782541) - [iDOS 3 Rejected by Apple](https://litchie.com/2024/04/new-hope)
 * [2024-06-24, 23:43:12](https://news.ycombinator.com/item?id=40782449) - [Julian Assange will plead guilty in deal with US and be freed from prison](https://apnews.com/article/assange-plea-deal-wikileaks-justice-department-d329ba4614dbfa77b5eb968d07fd9bd0)
+* [2024-06-24, 23:35:04](https://news.ycombinator.com/item?id=40782362) - [Tech CEOs are hot now, so workers are hiring $500-an-hour fashion consultants](https://sfstandard.com/2024/06/17/fashion-zuckerberg-style-techie-hoodie-allbirds/)
 * [2024-06-24, 23:10:07](https://news.ycombinator.com/item?id=40782130) - [Julian Assange has reached a plea deal with the U.S., allowing him to go free](https://www.nbcnews.com/politics/justice-department/julian-assange-reached-plea-deal-us-allowing-go-free-rcna158695)
+* [2024-06-24, 23:06:22](https://news.ycombinator.com/item?id=40782101) - [MTV news website goes dark, archives pulled offline](https://variety.com/2024/digital/news/mtv-news-website-archives-pulled-offline-1236047163/)
 * [2024-06-24, 22:38:31](https://news.ycombinator.com/item?id=40781838) - [Round Rects Are Everywhere](https://www.folklore.org/Round_Rects_Are_Everywhere.html)
 * [2024-06-24, 21:32:20](https://news.ycombinator.com/item?id=40781060) - [Fearing Losses, Banks Are Quietly Dumping Real Estate Loans](https://www.nytimes.com/2024/06/24/business/commercial-real-estate-loans.html)
 * [2024-06-24, 21:30:43](https://news.ycombinator.com/item?id=40781048) - [Windows 11 is now enabling OneDrive folder backup without asking permission](https://www.neowin.net/news/windows-11-is-now-automatically-enabling-onedrive-folder-backup-without-asking-permission/)
 * [2024-06-24, 21:20:31](https://news.ycombinator.com/item?id=40780940) - [Ask HN: Those of you who've left the SWE world, what did you transition into?](https://news.ycombinator.com/item?id=40780940)
 * [2024-06-24, 21:17:40](https://news.ycombinator.com/item?id=40780914) - [Android Secret Security Codes You Need to Know](https://www.makeuseof.com/android-security-codes-you-need-to-know/)
+* [2024-06-24, 21:17:02](https://news.ycombinator.com/item?id=40780908) - [The Sun Ra Arkestra's Maestro Hits One Hundred](https://www.newyorker.com/magazine/2024/07/01/the-sun-ra-arkestras-maestro-hits-one-hundred)
 * [2024-06-24, 21:16:35](https://news.ycombinator.com/item?id=40780904) - [Layoffs in tech sector reach nearly 100k year to date](https://seekingalpha.com/news/4118529-layoffs-in-tech-sector-reach-near-100000-year-to-date)
 * [2024-06-24, 21:00:35](https://news.ycombinator.com/item?id=40780712) - [Finley (YC W21) is hiring our first Sales Ops team member (SF, NY, Remote)](https://jobs.lever.co/FinleyTechnologies/ef9b46ab-6c97-4401-b7d1-8535c262f246)
 * [2024-06-24, 20:59:28](https://news.ycombinator.com/item?id=40780696) - [MIME, RSS, and Existential Torment](https://xeiaso.net/blog/2024/fixing-rss-mailcap/)

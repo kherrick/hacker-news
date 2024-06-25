@@ -59,6 +59,7 @@
 * [2024-06-23, 12:51:31](https://news.ycombinator.com/item?id=40767108) - [I found an 8 years old bug in Xorg](https://trace.yshui.dev/2024-06-xorg-bug.html)
 * [2024-06-23, 12:15:49](https://news.ycombinator.com/item?id=40766869) - [\"We argue that mitochondria are the processor of the cell\" (2022)](https://www.cell.com/action/showPdf?pii=S1550-4131%2822%2900459-4)
 * [2024-06-23, 12:14:40](https://news.ycombinator.com/item?id=40766856) - [The Blank Sheet Method: From Passive Reading to Active Learning](https://fs.blog/blank-sheet-method/)
+* [2024-06-23, 12:08:22](https://news.ycombinator.com/item?id=40766833) - [The Origin of Jupiter's Great Red Spot](https://arxiv.org/abs/2406.13222)
 * [2024-06-23, 12:01:45](https://news.ycombinator.com/item?id=40766791) - [Llama.ttf: A font which is also an LLM](https://fuglede.github.io/llama.ttf/)
 * [2024-06-23, 12:01:04](https://news.ycombinator.com/item?id=40766787) - [Deepnote (YC S19) is hiring engineers to build an AI data workspace](https://deepnote.com/join-us)
 * [2024-06-23, 11:56:11](https://news.ycombinator.com/item?id=40766757) - [The World Will Soon Witness \"One of the Rarest Space Events of Our Lives\"](https://www.iflscience.com/the-world-will-soon-witness-one-of-the-rarest-space-events-of-our-lives-74746)
