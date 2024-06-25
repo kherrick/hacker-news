@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-25, 16:31:23](https://news.ycombinator.com/item?id=40790519) - [Surprise, your data warehouse can RAG](https://www.rainforestqa.com/blog/your-data-warehouse-can-rag)
 * [2024-06-25, 16:03:38](https://news.ycombinator.com/item?id=40790214) - [And Now Xylitol](https://www.science.org/content/blog-post/and-now-xylitol)
 * [2024-06-25, 15:48:29](https://news.ycombinator.com/item?id=40790057) - [Chang'e 6 lunar sample return mission returns with samples from moon's far side](https://www.theguardian.com/world/article/2024/jun/25/chinas-change-6-lunar-probe-returns-world-first-samples-from-far-side-of-the-moon)
 * [2024-06-25, 15:36:09](https://news.ycombinator.com/item?id=40789919) - [Testing AMD's Giant MI300X](https://chipsandcheese.com/2024/06/25/testing-amds-giant-mi300x/)
@@ -7,7 +8,7 @@
 * [2024-06-25, 14:49:28](https://news.ycombinator.com/item?id=40789353) - [From Dotenv to Dotenvx: Next Generation Config Management](https://dotenvx.com/blog/2024/06/24/dotenvx-next-generation-config-management.html)
 * [2024-06-25, 14:36:29](https://news.ycombinator.com/item?id=40789191) - [Vintage Wooden Homes on Wheels: Photos of Mobile Living from Early 20th Century](https://rarehistoricalphotos.com/vintage-wooden-homes-on-wheels/)
 * [2024-06-25, 13:53:05](https://news.ycombinator.com/item?id=40788648) - [Show HN: Triplit – Open-source syncing database that runs on server and client](https://news.ycombinator.com/item?id=40788648)
-* [2024-06-25, 13:01:12](https://news.ycombinator.com/item?id=40788049) - [Why we must seek a widely-applicable Science of Systems.](https://www.hiranmay.xyz/blog/complex-systems)
+* [2024-06-25, 13:01:12](https://news.ycombinator.com/item?id=40788049) - [We must seek a widely-applicable science of systems](https://www.hiranmay.xyz/blog/complex-systems)
 * [2024-06-25, 11:44:17](https://news.ycombinator.com/item?id=40787276) - [How GCC and Clang handle statically known undefined behaviour](https://diekmann.uk/blog/2024-06-25-statically-known-undefined-behaviour.html)
 * [2024-06-25, 02:34:37](https://news.ycombinator.com/item?id=40783777) - [Researchers invent 100% biodegradable 'barley plastic'](https://phys.org/news/2024-06-biodegradable-barley-plastic.html)
 * [2024-06-25, 02:29:54](https://news.ycombinator.com/item?id=40783742) - [Wave activity on Titan strong enough to erode the coastlines of lakes and seas](https://phys.org/news/2024-06-titan-strong-erode-coastlines-lakes.html)
@@ -19,7 +20,6 @@
 * [2024-06-24, 22:44:30](https://news.ycombinator.com/item?id=40781894) - [Show HN: Qq: like jq, but can transcode between many formats](https://github.com/JFryy/qq)
 * [2024-06-24, 22:38:31](https://news.ycombinator.com/item?id=40781838) - [Round Rects Are Everywhere](https://www.folklore.org/Round_Rects_Are_Everywhere.html)
 * [2024-06-24, 21:17:02](https://news.ycombinator.com/item?id=40780908) - [The Sun Ra Arkestra's Maestro Hits One Hundred](https://www.newyorker.com/magazine/2024/07/01/the-sun-ra-arkestras-maestro-hits-one-hundred)
-* [2024-06-24, 21:00:35](https://news.ycombinator.com/item?id=40780712) - [Finley (YC W21) is hiring our first Sales Ops team member (SF, NY, Remote)](https://jobs.lever.co/FinleyTechnologies/ef9b46ab-6c97-4401-b7d1-8535c262f246)
 * [2024-06-24, 20:59:28](https://news.ycombinator.com/item?id=40780696) - [MIME, RSS, and Existential Torment](https://xeiaso.net/blog/2024/fixing-rss-mailcap/)
 * [2024-06-24, 19:35:52](https://news.ycombinator.com/item?id=40779785) - [The case for not sanitising fairy tales](https://www.plough.com/en/topics/culture/literature/the-case-for-not-sanitizing-fairy-tales)
 * [2024-06-24, 17:23:28](https://news.ycombinator.com/item?id=40778594) - [More Memory Safety for Let's Encrypt: Deploying ntpd-rs](https://letsencrypt.org/2024/06/24/ntpd-rs-deployment.html)

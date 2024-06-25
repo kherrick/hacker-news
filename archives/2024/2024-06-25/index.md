@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-25](index.md)
 
+* [2024-06-25, 16:31:23](https://news.ycombinator.com/item?id=40790519) - [Surprise, your data warehouse can RAG](https://www.rainforestqa.com/blog/your-data-warehouse-can-rag)
 * [2024-06-25, 16:03:38](https://news.ycombinator.com/item?id=40790214) - [And Now Xylitol](https://www.science.org/content/blog-post/and-now-xylitol)
 * [2024-06-25, 15:48:29](https://news.ycombinator.com/item?id=40790057) - [Chang'e 6 lunar sample return mission returns with samples from moon's far side](https://www.theguardian.com/world/article/2024/jun/25/chinas-change-6-lunar-probe-returns-world-first-samples-from-far-side-of-the-moon)
 * [2024-06-25, 15:36:09](https://news.ycombinator.com/item?id=40789919) - [Testing AMD's Giant MI300X](https://chipsandcheese.com/2024/06/25/testing-amds-giant-mi300x/)
