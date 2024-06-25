@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2024-06-25, 00:18:08",
-      "https://news.ycombinator.com/item?id=40782755"
-    ],
-    [
-      "Language models on the command line",
-      "https://simonwillison.net/2024/Jun/17/cli-language-models/"
-    ]
-  ],
-  [
-    [
       "2024-06-24, 23:10:07",
       "https://news.ycombinator.com/item?id=40782130"
     ],
@@ -297,6 +287,16 @@
     [
       "Remembering the LAN",
       "https://tailscale.com/blog/remembering-the-lan"
+    ]
+  ],
+  [
+    [
+      "2024-06-22, 11:35:13",
+      "https://news.ycombinator.com/item?id=40758241"
+    ],
+    [
+      "Tachyonfx: A library for creating shader-like effects in terminal UIs",
+      "https://github.com/junkdog/tachyonfx"
     ]
   ]
 ]
