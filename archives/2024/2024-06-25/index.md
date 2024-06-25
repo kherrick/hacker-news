@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-06-25](index.md)
 
+* [2024-06-25, 14:54:22](https://news.ycombinator.com/item?id=40789411) - [Waymo One is now open to everyone in San Francisco](https://waymo.com/blog/2024/06/waymo-one-is-now-open-to-everyone-in-san-francisco/)
 * [2024-06-25, 14:40:23](https://news.ycombinator.com/item?id=40789238) - [Drilling a Triangular Hole [video]](https://www.tiktok.com/@reason4math/video/7372387971884174638)
+* [2024-06-25, 14:36:29](https://news.ycombinator.com/item?id=40789191) - [Vintage Wooden Homes on Wheels: Photos of Mobile Living from Early 20th Century](https://rarehistoricalphotos.com/vintage-wooden-homes-on-wheels/)
 * [2024-06-25, 14:35:07](https://news.ycombinator.com/item?id=40789179) - [LHM to permanently close and sell DEC-10 at auction](https://www.geekwire.com/2024/seattles-living-computers-museum-logs-off-for-good-as-paul-allen-estate-will-auction-vintage-items/)
 * [2024-06-25, 13:46:01](https://news.ycombinator.com/item?id=40788578) - [Hard work wins in business (a.k.a. it ain't just about luck)](https://anandsanwal.me/2024/05/23/hard-work-wins-business/)
+* [2024-06-25, 13:24:18](https://news.ycombinator.com/item?id=40788323) - [Slack updates retention policy for free workspaces](https://slack.com/intl/en-gb/help/articles/29414264463635-Updates-to-message-and-file-history-on-free-workspaces?nojsmode=1)
 * [2024-06-25, 13:12:10](https://news.ycombinator.com/item?id=40788172) - [Sun Machines](https://www.economist.com/interactive/essay/2024/06/20/solar-power-is-going-to-be-huge)
 * [2024-06-25, 13:01:12](https://news.ycombinator.com/item?id=40788049) - [We must seek a widely-applicable Science of Systems](https://www.hiranmay.xyz/blog/complex-systems)
 * [2024-06-25, 12:40:14](https://news.ycombinator.com/item?id=40787842) - [Microsoft charged with EU antitrust violations for bundling Teams](https://www.theverge.com/2024/6/25/24185467/microsoft-teams-eu-bundling-antitrust-violations)
@@ -14,6 +17,7 @@
 * [2024-06-25, 12:30:13](https://news.ycombinator.com/item?id=40787733) - [Don Quixote's Fried Eggs: Purpose of a System Is What It Does](https://www.population.fyi/p/don-quixotes-fried-eggs-the-purpose)
 * [2024-06-25, 12:23:25](https://news.ycombinator.com/item?id=40787662) - [Private investigator sent to man's house for modifying legally purchased handbag [video]](https://www.youtube.com/watch?v=ZI037QiGRQI)
 * [2024-06-25, 12:12:10](https://news.ycombinator.com/item?id=40787533) - [EU Commission Issues Objections to Microsoft over Teams Tying Practices](https://ec.europa.eu/commission/presscorner/detail/en/ip_24_3446)
+* [2024-06-25, 12:11:48](https://news.ycombinator.com/item?id=40787531) - [Show HN: Singulatron – On-Premise AI Platform](https://github.com/singulatron/singulatron)
 * [2024-06-25, 11:52:50](https://news.ycombinator.com/item?id=40787370) - [ICC judges issue arrest warrants against Shoigu and Gerasimov](https://www.icc-cpi.int/news/situation-ukraine-icc-judges-issue-arrest-warrants-against-sergei-kuzhugetovich-shoigu-and)
 * [2024-06-25, 11:51:34](https://news.ycombinator.com/item?id=40787349) - [Researchers run high-performing LLM on the energy needed to power a lightbulb](https://news.ucsc.edu/2024/06/matmul-free-llm.html)
 * [2024-06-25, 11:44:17](https://news.ycombinator.com/item?id=40787276) - [GCC and Clang handle statically known undefined behaviour](https://diekmann.uk/blog/2024-06-25-statically-known-undefined-behaviour.html)
