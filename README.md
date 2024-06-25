@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-25, 19:27:24](https://news.ycombinator.com/item?id=40792569) - [OpenAI releases ChatGPT on your desktop for macOS](https://openai.com/chatgpt/mac/)
 * [2024-06-25, 18:27:30](https://news.ycombinator.com/item?id=40791829) - [Polyfill supply chain attack hits 100K+ sites](https://sansec.io/research/polyfill-supply-chain-attack)
 * [2024-06-25, 17:00:00](https://news.ycombinator.com/item?id=40790859) - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=40790859)
 * [2024-06-25, 15:48:29](https://news.ycombinator.com/item?id=40790057) - [Chang'e 6 lunar sample return mission returns with samples from moon's far side](https://www.theguardian.com/world/article/2024/jun/25/chinas-change-6-lunar-probe-returns-world-first-samples-from-far-side-of-the-moon)
@@ -27,7 +28,6 @@
 * [2024-06-24, 05:24:44](https://news.ycombinator.com/item?id=40772831) - [A reckless introduction to Hindley-Milner type inference (2019)](https://reasonableapproximation.net/2019/05/05/hindley-milner.html)
 * [2024-06-23, 09:26:56](https://news.ycombinator.com/item?id=40765999) - [Remembering the LAN (2020)](https://tailscale.com/blog/remembering-the-lan)
 * [2024-06-23, 05:26:54](https://news.ycombinator.com/item?id=40765014) - [Infinitone Microtonal Saxophone](https://xerocraft.org/news/298-maker-interview-the-infinitone-and-the-notes-between-the-notes)
-* [2024-06-23, 05:24:20](https://news.ycombinator.com/item?id=40765005) - [Why not parse `ls` and what to do instead](https://unix.stackexchange.com/questions/128985/why-not-parse-ls-and-what-to-do-instead)
 * [2024-06-21, 14:15:38](https://news.ycombinator.com/item?id=40749854) - [Everyday is a Birthday A Journey to a classic problem through Math and Rust](https://seniormars.com/posts/everyday-birthday/)
 * [2024-06-21, 13:00:51](https://news.ycombinator.com/item?id=40749157) - [Quantum chemistry helps characterize coordination complex of elusive Element 61](https://www.ornl.gov/news/quantum-chemistry-and-simulation-help-characterize-coordination-complex-elusive-element-61)
 
