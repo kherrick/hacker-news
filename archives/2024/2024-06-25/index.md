@@ -16,6 +16,7 @@
 * [2024-06-25, 14:40:23](https://news.ycombinator.com/item?id=40789238) - [Drilling a Triangular Hole [video]](https://www.tiktok.com/@reason4math/video/7372387971884174638)
 * [2024-06-25, 14:36:29](https://news.ycombinator.com/item?id=40789191) - [Vintage Wooden Homes on Wheels: Photos of Mobile Living from Early 20th Century](https://rarehistoricalphotos.com/vintage-wooden-homes-on-wheels/)
 * [2024-06-25, 14:35:07](https://news.ycombinator.com/item?id=40789179) - [LHM to permanently close and sell DEC-10 at auction](https://www.geekwire.com/2024/seattles-living-computers-museum-logs-off-for-good-as-paul-allen-estate-will-auction-vintage-items/)
+* [2024-06-25, 13:53:05](https://news.ycombinator.com/item?id=40788648) - [Show HN: Triplit – Open-source syncing database that runs on server and client](https://news.ycombinator.com/item?id=40788648)
 * [2024-06-25, 13:46:01](https://news.ycombinator.com/item?id=40788578) - [Hard work wins in business (a.k.a. it ain't just about luck)](https://anandsanwal.me/2024/05/23/hard-work-wins-business/)
 * [2024-06-25, 13:24:18](https://news.ycombinator.com/item?id=40788323) - [Slack updates retention policy for free workspaces](https://slack.com/intl/en-gb/help/articles/29414264463635-Updates-to-message-and-file-history-on-free-workspaces?nojsmode=1)
 * [2024-06-25, 13:12:10](https://news.ycombinator.com/item?id=40788172) - [Sun Machines](https://www.economist.com/interactive/essay/2024/06/20/solar-power-is-going-to-be-huge)
