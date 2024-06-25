@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-06-25](index.md)
 
+* [2024-06-25, 21:34:40](https://news.ycombinator.com/item?id=40793924) - [HyperCard Simulator](https://hcsimulator.com/)
 * [2024-06-25, 21:19:56](https://news.ycombinator.com/item?id=40793748) - [Study comparing mitochondria in males and females finds extreme differences](https://dornsife.usc.edu/news/stories/mitochondrial-sex-differences-suggest-treatment-strategies/)
 * [2024-06-25, 21:00:06](https://news.ycombinator.com/item?id=40793540) - [Supabase (YC S20) Is Hiring Postgres SREs](https://boards.greenhouse.io/supabase/jobs/5162509004)
 * [2024-06-25, 20:52:52](https://news.ycombinator.com/item?id=40793465) - [Ball: A ball that lives in your dock](https://github.com/nate-parrott/ball)
 * [2024-06-25, 20:51:10](https://news.ycombinator.com/item?id=40793438) - [Volkswagen Will Invest Up to $5B in Rivian](https://www.nytimes.com/2024/06/25/business/volkswagen-rivian-vw-investment.html)
+* [2024-06-25, 20:37:00](https://news.ycombinator.com/item?id=40793293) - [Ask HN: What brought back the joy of programming for you?](https://news.ycombinator.com/item?id=40793293)
 * [2024-06-25, 20:27:20](https://news.ycombinator.com/item?id=40793198) - [Ask HN: Are you leaving Cloudflare over the recent drama?](https://news.ycombinator.com/item?id=40793198)
 * [2024-06-25, 20:26:49](https://news.ycombinator.com/item?id=40793192) - [Rabbit R1s break after elevenlabs key revoked](https://twitter.com/xyz3va/status/1805689140639408277)
 * [2024-06-25, 20:26:16](https://news.ycombinator.com/item?id=40793185) - [Every GitHub repo stolen by GitCode, platform launched by China's CSDN](https://gitcode.com/)
