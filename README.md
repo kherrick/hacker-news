@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-25, 08:30:42](https://news.ycombinator.com/item?id=40785945) - [Locked out of 14 year old YouTube channel because tied to Hotmail.com email](https://news.ycombinator.com/item?id=40785945)
 * [2024-06-25, 05:23:55](https://news.ycombinator.com/item?id=40784778) - [NOFX to retire after final tour without ever having had a job](https://www.nytimes.com/2024/06/18/style/nofx-farewell-tour.html)
 * [2024-06-25, 02:34:37](https://news.ycombinator.com/item?id=40783777) - [Researchers invent 100% biodegradable 'barley plastic'](https://phys.org/news/2024-06-biodegradable-barley-plastic.html)
 * [2024-06-25, 02:29:54](https://news.ycombinator.com/item?id=40783742) - [Wave activity on Titan strong enough to erode the coastlines of lakes and seas](https://phys.org/news/2024-06-titan-strong-erode-coastlines-lakes.html)
@@ -29,6 +28,7 @@
 * [2024-06-23, 10:16:22](https://news.ycombinator.com/item?id=40766246) - [PostScript and Interpress: A Comparison (1985)](http://www.mostlycolor.ch/2010/07/postscript-and-interpress-comparison.html)
 * [2024-06-23, 06:56:48](https://news.ycombinator.com/item?id=40765294) - [What scripting languages come out of the box on Debian 12?](https://hiandrewquinn.github.io/til-site/posts/what-programming-languages-come-out-of-the-box-on-debian-12/)
 * [2024-06-23, 05:24:20](https://news.ycombinator.com/item?id=40765005) - [Why *not* parse `ls` (and what to do instead)](https://unix.stackexchange.com/questions/128985/why-not-parse-ls-and-what-to-do-instead)
+* [2024-06-23, 04:13:42](https://news.ycombinator.com/item?id=40764736) - [Hans Hollein: Everything Is Architecture](https://designmanifestos.org/hans-hollein-everything-is-architecture/)
 * [2024-06-22, 11:35:13](https://news.ycombinator.com/item?id=40758241) - [Tachyonfx: A library for creating shader-like effects in terminal UIs](https://github.com/junkdog/tachyonfx)
 
 ## [Archives](archives/index.md)
