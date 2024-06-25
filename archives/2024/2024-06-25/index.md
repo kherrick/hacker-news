@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-25](index.md)
 
+* [2024-06-25, 14:40:23](https://news.ycombinator.com/item?id=40789238) - [Drilling a Triangular Hole [video]](https://www.tiktok.com/@reason4math/video/7372387971884174638)
+* [2024-06-25, 14:35:07](https://news.ycombinator.com/item?id=40789179) - [LHM to permanently close and sell DEC-10 at auction](https://www.geekwire.com/2024/seattles-living-computers-museum-logs-off-for-good-as-paul-allen-estate-will-auction-vintage-items/)
 * [2024-06-25, 13:46:01](https://news.ycombinator.com/item?id=40788578) - [Hard work wins in business (a.k.a. it ain't just about luck)](https://anandsanwal.me/2024/05/23/hard-work-wins-business/)
 * [2024-06-25, 13:12:10](https://news.ycombinator.com/item?id=40788172) - [Sun Machines](https://www.economist.com/interactive/essay/2024/06/20/solar-power-is-going-to-be-huge)
 * [2024-06-25, 13:01:12](https://news.ycombinator.com/item?id=40788049) - [We must seek a widely-applicable Science of Systems](https://www.hiranmay.xyz/blog/complex-systems)
