@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-25](index.md)
 
+* [2024-06-25, 17:23:17](https://news.ycombinator.com/item?id=40791078) - [Paramount Erases Mtv.com Archives, Wipes Music, Culture History After 30+ Years](https://www.showbiz411.com/2024/06/25/paramount-shuts-down-mtv-website-wipes-history-after-20-plus-years)
 * [2024-06-25, 17:04:18](https://news.ycombinator.com/item?id=40790911) - [Anthropic Introduces Claude Projects](https://support.anthropic.com/en/articles/9519177-how-can-i-create-and-manage-projects)
 * [2024-06-25, 17:00:00](https://news.ycombinator.com/item?id=40790859) - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=40790859)
 * [2024-06-25, 16:58:09](https://news.ycombinator.com/item?id=40790842) - [Sohu – first specialized chip (ASIC) for transformer models](https://twitter.com/Etched/status/1805625693113663834)
