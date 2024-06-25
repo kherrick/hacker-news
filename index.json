@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-06-25, 17:26:25",
-      "https://news.ycombinator.com/item?id=40791112"
+      "2024-06-25, 18:27:30",
+      "https://news.ycombinator.com/item?id=40791829"
     ],
     [
-      "Show HN: FiddleCube – Generate Q&A to test your LLM",
-      "https://github.com/fiddlecube/fiddlecube-sdk"
+      "Polyfill supply chain attack hits 100K+ sites",
+      "https://sansec.io/research/polyfill-supply-chain-attack"
+    ]
+  ],
+  [
+    [
+      "2024-06-25, 18:10:31",
+      "https://news.ycombinator.com/item?id=40791624"
+    ],
+    [
+      "Waymo's autonomous ride-hailing service now available to all in San Francisco",
+      "https://www.reuters.com/business/autos-transportation/waymos-autonomous-ride-hailing-service-now-available-all-san-francisco-2024-06-25/"
     ]
   ],
   [
@@ -17,16 +27,6 @@
     [
       "Meticulous (YC S21) is hiring to eliminate E2E UI tests",
       "https://news.ycombinator.com/item?id=40790859"
-    ]
-  ],
-  [
-    [
-      "2024-06-25, 16:58:09",
-      "https://news.ycombinator.com/item?id=40790842"
-    ],
-    [
-      "Sohu – first specialized chip (ASIC) for transformer models",
-      "https://twitter.com/Etched/status/1805625693113663834"
     ]
   ],
   [
@@ -97,6 +97,26 @@
     [
       "Show HN: Triplit – Open-source syncing database that runs on server and client",
       "https://github.com/aspen-cloud/triplit"
+    ]
+  ],
+  [
+    [
+      "2024-06-25, 12:55:06",
+      "https://news.ycombinator.com/item?id=40787995"
+    ],
+    [
+      "Argos Panoptès – An open source monitoring and status board for websites",
+      "https://argos-monitoring.framasoft.org/"
+    ]
+  ],
+  [
+    [
+      "2024-06-25, 10:21:47",
+      "https://news.ycombinator.com/item?id=40786640"
+    ],
+    [
+      "Microsoft breached antitrust rules by bundling Teams and Office, EU says",
+      "https://apnews.com/article/microsoft-teams-eu-european-union-antitrust-26d11ada00f504d537d1b054dd6f6bbf"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2024-06-24, 06:29:39",
-      "https://news.ycombinator.com/item?id=40773056"
-    ],
-    [
-      "The Triumph of Counting and Scripting",
-      "https://slate.com/life/2024/06/doctors-teachers-dissatisfaction-tracking-charting-jobs.html"
-    ]
-  ],
-  [
-    [
       "2024-06-24, 05:58:41",
       "https://news.ycombinator.com/item?id=40772955"
     ],
@@ -247,16 +257,6 @@
     [
       "A reckless introduction to Hindley-Milner type inference (2019)",
       "https://reasonableapproximation.net/2019/05/05/hindley-milner.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-23, 19:20:53",
-      "https://news.ycombinator.com/item?id=40769882"
-    ],
-    [
-      "Porting Python to a $3 smartwatch [video]",
-      "https://www.youtube.com/watch?v=sv58aPvIonw"
     ]
   ],
   [
