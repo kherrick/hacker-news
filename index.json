@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-25, 11:51:34",
+      "https://news.ycombinator.com/item?id=40787349"
+    ],
+    [
+      "Researchers run high-performing LLM on the energy needed to power a lightbulb",
+      "https://news.ucsc.edu/2024/06/matmul-free-llm.html"
+    ]
+  ],
+  [
+    [
       "2024-06-25, 11:44:17",
       "https://news.ycombinator.com/item?id=40787276"
     ],
@@ -11,12 +21,22 @@
   ],
   [
     [
-      "2024-06-25, 11:23:31",
-      "https://news.ycombinator.com/item?id=40787083"
+      "2024-06-25, 11:42:11",
+      "https://news.ycombinator.com/item?id=40787255"
     ],
     [
-      "Israeli Supreme Court says ultra-Orthodox must serve in military",
-      "https://abcnews.go.com/International/wireStory/israeli-supreme-court-ultra-orthodox-serve-military-111394436"
+      "A Day Job Is So Much Easier Than Entrepreneurship",
+      "https://www.financialsamurai.com/a-day-job-is-so-much-easier-than-entrepreneurship/"
+    ]
+  ],
+  [
+    [
+      "2024-06-25, 11:39:13",
+      "https://news.ycombinator.com/item?id=40787222"
+    ],
+    [
+      "What's up Python? Django get background tasks, a new REPL, bye bye gunicorn",
+      "https://www.bitecode.dev/p/whats-up-python-django-background"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2024-06-25, 01:19:55",
-      "https://news.ycombinator.com/item?id=40783229"
-    ],
-    [
-      "From 0/10 to 8/10: Microsoft Puts Repair Front and Center",
-      "https://www.ifixit.com/News/96998/from-0-10-to-8-10-microsoft-puts-repair-front-and-center"
-    ]
-  ],
-  [
-    [
       "2024-06-25, 00:23:02",
       "https://news.ycombinator.com/item?id=40782791"
     ],
@@ -241,12 +251,12 @@
   ],
   [
     [
-      "2024-06-24, 10:50:06",
-      "https://news.ycombinator.com/item?id=40774464"
+      "2024-06-24, 07:26:12",
+      "https://news.ycombinator.com/item?id=40773331"
     ],
     [
-      "Slack wants to become the 'long-term memory' for organizations",
-      "https://www.computerworld.com/article/2152264/slack-wants-to-become-the-long-term-memory-for-organizations.html"
+      "Psion: The Last Computer",
+      "https://www.theregister.com/2007/06/26/psion_special/"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Resilient Sync for Local First",
       "https://holtwick.de/en/blog/localfirst-resilient-sync"
-    ]
-  ],
-  [
-    [
-      "2024-06-24, 04:17:51",
-      "https://news.ycombinator.com/item?id=40772633"
-    ],
-    [
-      "Synthesizer for Thought",
-      "https://thesephist.com/posts/synth/"
     ]
   ],
   [
