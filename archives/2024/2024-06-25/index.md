@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2024-06-25](index.md)
 
 * [2024-06-25, 02:20:36](https://news.ycombinator.com/item?id=40783664) - [Indonesian government datacenter locked down in $8M ransomware rumble](https://www.theregister.com/2024/06/24/indonesia_datacenter_ransomware/)
+* [2024-06-25, 02:10:40](https://news.ycombinator.com/item?id=40783598) - [SIMD-accelerated computer vision on a $2 microcontroller](https://shraiwi.github.io/read.html?md=blog/simd-fast-esp32s3.md)
 * [2024-06-25, 02:03:45](https://news.ycombinator.com/item?id=40783553) - [Personal light exposure patterns and incidence of type 2 diabetes](https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(24)00110-8/fulltext)
+* [2024-06-25, 01:55:22](https://news.ycombinator.com/item?id=40783485) - [Twonkie: A USB-PD sniffer/injector/sink based on Google's Twinkie open hardware](https://github.com/dojoe/Twonkie)
 * [2024-06-25, 01:19:55](https://news.ycombinator.com/item?id=40783229) - [From 0/10 to 8/10: Microsoft Puts Repair Front and Center](https://www.ifixit.com/News/96998/from-0-10-to-8-10-microsoft-puts-repair-front-and-center)
 * [2024-06-25, 01:17:05](https://news.ycombinator.com/item?id=40783210) - [Ask HN: YouTube shutdown my account with private channel of my kids memories](https://news.ycombinator.com/item?id=40783210)
 * [2024-06-25, 01:09:36](https://news.ycombinator.com/item?id=40783150) - [The Fed Has Avoided a Recession. But Some Have Been Left Behind](https://www.barrons.com/articles/federal-reserve-distribution-of-wealth-recession-21d8c48e)

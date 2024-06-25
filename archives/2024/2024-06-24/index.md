@@ -80,6 +80,7 @@
 * [2024-06-24, 06:50:00](https://news.ycombinator.com/item?id=40773139) - [Cosmopolitan v3.5.0](https://github.com/jart/cosmopolitan/releases/tag/3.5.0)
 * [2024-06-24, 06:49:23](https://news.ycombinator.com/item?id=40773136) - [Apple's Silicon Fab Next to Homes](https://www.ashleygjovik.com/3250scott.html)
 * [2024-06-24, 06:35:35](https://news.ycombinator.com/item?id=40773074) - [My employer was dumping toxic waste into the apartment windows from their fab](https://mastodon.social/@ashleygjovik/112668372321990128)
+* [2024-06-24, 06:29:39](https://news.ycombinator.com/item?id=40773056) - [The Triumph of Counting and Scripting](https://slate.com/life/2024/06/doctors-teachers-dissatisfaction-tracking-charting-jobs.html)
 * [2024-06-24, 04:17:51](https://news.ycombinator.com/item?id=40772633) - [Synthesizer for Thought](https://thesephist.com/posts/synth/)
 * [2024-06-24, 03:35:40](https://news.ycombinator.com/item?id=40772495) - [Weighing Up Galileo's Evidence](https://www.historytoday.com/archive/great-debates/weighing-galileos-evidence)
 * [2024-06-24, 03:01:27](https://news.ycombinator.com/item?id=40772378) - [Copy-on-Write Performance and Debugging](https://devblogs.microsoft.com/engineering-at-microsoft/copy-on-write-performance-and-debugging/)
