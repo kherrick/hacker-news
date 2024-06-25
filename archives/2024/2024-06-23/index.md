@@ -17,6 +17,7 @@
 * [2024-06-23, 20:35:36](https://news.ycombinator.com/item?id=40770409) - [How Cathode Ray Tubes Work. [video]](https://www.youtube.com/watch?v=3A-Td0i4_Kc)
 * [2024-06-23, 20:26:08](https://news.ycombinator.com/item?id=40770358) - [The Crazy Economics of the Most Coveted Handbag](https://www.wsj.com/style/fashion/hermes-birkin-bag-investment-031c215c)
 * [2024-06-23, 20:02:33](https://news.ycombinator.com/item?id=40770171) - [LINQPad – The .NET Programmer's Playground](https://www.linqpad.net/)
+* [2024-06-23, 19:58:08](https://news.ycombinator.com/item?id=40770153) - [Continuous Pitch Wind Instruments](https://glissonic.com/)
 * [2024-06-23, 19:54:46](https://news.ycombinator.com/item?id=40770130) - [Looking ahead to 30 years of FreeDOS](https://www.both.org/?p=3991)
 * [2024-06-23, 19:43:52](https://news.ycombinator.com/item?id=40770049) - [Renga 1.26 – An XMPP client for HaikuOS](https://pulkomandy.tk/projects/renga)
 * [2024-06-23, 19:36:56](https://news.ycombinator.com/item?id=40769994) - [Top Libraries to Accelerate LLM Building](https://www.blog.aiport.tech/p/top-9-libraries-to-accelerate-llm)
