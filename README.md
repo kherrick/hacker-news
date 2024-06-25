@@ -26,8 +26,8 @@
 * [2024-06-24, 10:50:06](https://news.ycombinator.com/item?id=40774464) - [Slack wants to become the 'long-term memory' for organizations](https://www.computerworld.com/article/2152264/slack-wants-to-become-the-long-term-memory-for-organizations.html)
 * [2024-06-24, 06:29:39](https://news.ycombinator.com/item?id=40773056) - [The Triumph of Counting and Scripting](https://slate.com/life/2024/06/doctors-teachers-dissatisfaction-tracking-charting-jobs.html)
 * [2024-06-24, 05:58:41](https://news.ycombinator.com/item?id=40772955) - [Resilient Sync for Local First](https://holtwick.de/en/blog/localfirst-resilient-sync)
+* [2024-06-24, 04:17:51](https://news.ycombinator.com/item?id=40772633) - [Synthesizer for Thought](https://thesephist.com/posts/synth/)
 * [2024-06-23, 19:20:53](https://news.ycombinator.com/item?id=40769882) - [Porting Python to a $3 smartwatch [video]](https://www.youtube.com/watch?v=sv58aPvIonw)
-* [2024-06-23, 12:08:22](https://news.ycombinator.com/item?id=40766833) - [The Origin of Jupiter's Great Red Spot](https://arxiv.org/abs/2406.13222)
 * [2024-06-23, 05:24:20](https://news.ycombinator.com/item?id=40765005) - [Why *not* parse `ls` (and what to do instead)](https://unix.stackexchange.com/questions/128985/why-not-parse-ls-and-what-to-do-instead)
 * [2024-06-22, 11:35:13](https://news.ycombinator.com/item?id=40758241) - [Tachyonfx: A library for creating shader-like effects in terminal UIs](https://github.com/junkdog/tachyonfx)
 
