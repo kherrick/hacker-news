@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-25](index.md)
 
+* [2024-06-25, 18:27:30](https://news.ycombinator.com/item?id=40791829) - [Polyfill supply chain attack hits 100K+ sites](https://sansec.io/research/polyfill-supply-chain-attack)
+* [2024-06-25, 18:10:31](https://news.ycombinator.com/item?id=40791624) - [Waymo's autonomous ride-hailing service now available to all in San Francisco](https://www.reuters.com/business/autos-transportation/waymos-autonomous-ride-hailing-service-now-available-all-san-francisco-2024-06-25/)
 * [2024-06-25, 17:54:39](https://news.ycombinator.com/item?id=40791457) - [Andrew Tanenbaum honoured for MINIX, the OS hiding in lots of computers](https://www.theregister.com/2024/06/25/tanenbaum_minix_award/)
 * [2024-06-25, 17:34:12](https://news.ycombinator.com/item?id=40791192) - [Malicious Code Injection Found in CDN Polyfill Link Targeting Mobile Users](https://github.com/polyfillpolyfill/polyfill-service/issues/2873)
 * [2024-06-25, 17:26:25](https://news.ycombinator.com/item?id=40791112) - [Show HN: FiddleCube – Generate Q&A to test your LLM](https://github.com/fiddlecube/fiddlecube-sdk)
@@ -36,6 +38,7 @@
 * [2024-06-25, 13:24:18](https://news.ycombinator.com/item?id=40788323) - [Slack updates retention policy for free workspaces](https://slack.com/intl/en-gb/help/articles/29414264463635-Updates-to-message-and-file-history-on-free-workspaces?nojsmode=1)
 * [2024-06-25, 13:12:10](https://news.ycombinator.com/item?id=40788172) - [Sun Machines](https://www.economist.com/interactive/essay/2024/06/20/solar-power-is-going-to-be-huge)
 * [2024-06-25, 13:01:12](https://news.ycombinator.com/item?id=40788049) - [We must seek a widely-applicable Science of Systems](https://www.hiranmay.xyz/blog/complex-systems)
+* [2024-06-25, 12:55:06](https://news.ycombinator.com/item?id=40787995) - [Argos Panoptès – An open source monitoring and status board for websites](https://argos-monitoring.framasoft.org/)
 * [2024-06-25, 12:40:14](https://news.ycombinator.com/item?id=40787842) - [Microsoft charged with EU antitrust violations for bundling Teams](https://www.theverge.com/2024/6/25/24185467/microsoft-teams-eu-bundling-antitrust-violations)
 * [2024-06-25, 12:37:03](https://news.ycombinator.com/item?id=40787805) - [Biangbiang Noodles](https://en.wikipedia.org/wiki/Biangbiang_noodles)
 * [2024-06-25, 12:30:13](https://news.ycombinator.com/item?id=40787733) - [Don Quixote's Fried Eggs: Purpose of a System Is What It Does](https://www.population.fyi/p/don-quixotes-fried-eggs-the-purpose)
@@ -52,6 +55,7 @@
 * [2024-06-25, 11:01:02](https://news.ycombinator.com/item?id=40786891) - [What everyone gets wrong about the 2015 Ashley Madison scandal](https://www.newscientist.com/article/mg26234952-100-what-everyone-gets-wrong-about-the-2015-ashley-madison-scandal/)
 * [2024-06-25, 10:31:34](https://news.ycombinator.com/item?id=40786703) - [Firefox 3rd Party Installer Campaign – Mozilla Community Portal](https://community.mozilla.org/en/campaigns/fx-3rd-party-installer/)
 * [2024-06-25, 10:22:13](https://news.ycombinator.com/item?id=40786644) - [Microsoft removes documentation for switching to a local account in Windows 11](https://arstechnica.com/gadgets/2024/06/microsoft-removes-documentation-for-switching-to-a-local-account-in-windows-11/)
+* [2024-06-25, 10:21:47](https://news.ycombinator.com/item?id=40786640) - [Microsoft breached antitrust rules by bundling Teams and Office, EU says](https://apnews.com/article/microsoft-teams-eu-european-union-antitrust-26d11ada00f504d537d1b054dd6f6bbf)
 * [2024-06-25, 10:05:00](https://news.ycombinator.com/item?id=40786539) - [Gompertz Function](https://en.wikipedia.org/wiki/Gompertz_function)
 * [2024-06-25, 09:52:21](https://news.ycombinator.com/item?id=40786463) - [Count Binface](https://en.wikipedia.org/wiki/Count_Binface)
 * [2024-06-25, 09:47:10](https://news.ycombinator.com/item?id=40786425) - [Local First, Forever](https://tonsky.me/blog/crdt-filesync/)
