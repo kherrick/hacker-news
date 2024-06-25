@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-25, 20:08:26](https://news.ycombinator.com/item?id=40792999) - [Tesla Cybertruck Accelerator Pedal Trim Recall](https://www.tesla.com/support/recall-cybertruck-accelerator-pedal-pad)
+* [2024-06-25, 20:51:10](https://news.ycombinator.com/item?id=40793438) - [Volkswagen Will Invest Up to $5B in Rivian](https://www.nytimes.com/2024/06/25/business/volkswagen-rivian-vw-investment.html)
 * [2024-06-25, 19:45:08](https://news.ycombinator.com/item?id=40792740) - [Fixing QuickLook (2023)](https://foon.uk/fixing-quicklook/)
 * [2024-06-25, 18:27:30](https://news.ycombinator.com/item?id=40791829) - [Polyfill supply chain attack hits 100K+ sites](https://sansec.io/research/polyfill-supply-chain-attack)
 * [2024-06-25, 17:00:00](https://news.ycombinator.com/item?id=40790859) - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=40790859)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-25](index.md)
 
+* [2024-06-25, 20:51:10](https://news.ycombinator.com/item?id=40793438) - [Volkswagen Will Invest Up to $5B in Rivian](https://www.nytimes.com/2024/06/25/business/volkswagen-rivian-vw-investment.html)
 * [2024-06-25, 20:27:20](https://news.ycombinator.com/item?id=40793198) - [Ask HN: Are you leaving Cloudflare over the recent drama?](https://news.ycombinator.com/item?id=40793198)
 * [2024-06-25, 20:26:16](https://news.ycombinator.com/item?id=40793185) - [Every GitHub repo stolen by GitCode, platform launched by China's CSDN](https://gitcode.com/)
 * [2024-06-25, 20:08:26](https://news.ycombinator.com/item?id=40792999) - [Tesla Cybertruck Accelerator Pedal Trim Recall](https://www.tesla.com/support/recall-cybertruck-accelerator-pedal-pad)
