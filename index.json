@@ -1,22 +1,32 @@
 [
   [
     [
+      "2024-06-25, 17:54:39",
+      "https://news.ycombinator.com/item?id=40791457"
+    ],
+    [
+      "Andrew Tanenbaum honoured for MINIX, the OS hiding in lots of computers",
+      "https://www.theregister.com/2024/06/25/tanenbaum_minix_award/"
+    ]
+  ],
+  [
+    [
+      "2024-06-25, 17:34:12",
+      "https://news.ycombinator.com/item?id=40791192"
+    ],
+    [
+      "Malicious Code Injection Found in CDN Polyfill Link Targeting Mobile Users",
+      "https://github.com/polyfillpolyfill/polyfill-service/issues/2873"
+    ]
+  ],
+  [
+    [
       "2024-06-25, 17:23:17",
       "https://news.ycombinator.com/item?id=40791078"
     ],
     [
       "Paramount Erases Mtv.com Archives, Wipes Music, Culture History After 30+ Years",
       "https://www.showbiz411.com/2024/06/25/paramount-shuts-down-mtv-website-wipes-history-after-20-plus-years"
-    ]
-  ],
-  [
-    [
-      "2024-06-25, 17:04:18",
-      "https://news.ycombinator.com/item?id=40790911"
-    ],
-    [
-      "Anthropic Introduces Claude Projects",
-      "https://support.anthropic.com/en/articles/9519177-how-can-i-create-and-manage-projects"
     ]
   ],
   [
@@ -71,11 +81,21 @@
   ],
   [
     [
+      "2024-06-25, 15:30:40",
+      "https://news.ycombinator.com/item?id=40789862"
+    ],
+    [
+      "Show HN: Glasskube – Open Source Kubernetes Package Manager, alternative to Helm",
+      "https://github.com/glasskube/glasskube"
+    ]
+  ],
+  [
+    [
       "2024-06-25, 15:14:08",
       "https://news.ycombinator.com/item?id=40789672"
     ],
     [
-      "Show HN: I built a large JavaScript powered flipdisc display. Here's a guide",
+      "Show HN: I built a JavaScript-powered flipdisc display",
       "https://flipdisc.io/"
     ]
   ],
@@ -107,16 +127,6 @@
     [
       "Show HN: Triplit – Open-source syncing database that runs on server and client",
       "https://news.ycombinator.com/item?id=40788648"
-    ]
-  ],
-  [
-    [
-      "2024-06-25, 13:01:12",
-      "https://news.ycombinator.com/item?id=40788049"
-    ],
-    [
-      "We must seek a widely-applicable science of systems",
-      "https://www.hiranmay.xyz/blog/complex-systems"
     ]
   ],
   [
@@ -181,16 +191,6 @@
   ],
   [
     [
-      "2024-06-24, 22:44:30",
-      "https://news.ycombinator.com/item?id=40781894"
-    ],
-    [
-      "Show HN: Qq: like jq, but can transcode between many formats",
-      "https://github.com/JFryy/qq"
-    ]
-  ],
-  [
-    [
       "2024-06-24, 22:38:31",
       "https://news.ycombinator.com/item?id=40781838"
     ],
@@ -231,12 +231,12 @@
   ],
   [
     [
-      "2024-06-24, 06:29:39",
-      "https://news.ycombinator.com/item?id=40773056"
+      "2024-06-24, 15:01:42",
+      "https://news.ycombinator.com/item?id=40776880"
     ],
     [
-      "The Triumph of Counting and Scripting",
-      "https://slate.com/life/2024/06/doctors-teachers-dissatisfaction-tracking-charting-jobs.html"
+      "I found a 1-click exploit in South Korea's biggest mobile chat app",
+      "https://stulle123.github.io/posts/kakaotalk-account-takeover/"
     ]
   ],
   [
@@ -261,16 +261,6 @@
   ],
   [
     [
-      "2024-06-23, 19:20:53",
-      "https://news.ycombinator.com/item?id=40769882"
-    ],
-    [
-      "Porting Python to a $3 smartwatch [video]",
-      "https://www.youtube.com/watch?v=sv58aPvIonw"
-    ]
-  ],
-  [
-    [
       "2024-06-23, 09:26:56",
       "https://news.ycombinator.com/item?id=40765999"
     ],
@@ -287,6 +277,16 @@
     [
       "Why not parse `ls` and what to do instead",
       "https://unix.stackexchange.com/questions/128985/why-not-parse-ls-and-what-to-do-instead"
+    ]
+  ],
+  [
+    [
+      "2024-06-21, 14:15:38",
+      "https://news.ycombinator.com/item?id=40749854"
+    ],
+    [
+      "Everyday is a Birthday A Journey to a classic problem through Math and Rust",
+      "https://seniormars.com/posts/everyday-birthday/"
     ]
   ],
   [
