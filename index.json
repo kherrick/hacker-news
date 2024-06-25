@@ -1,26 +1,6 @@
 [
   [
     [
-      "2024-06-25, 20:27:20",
-      "https://news.ycombinator.com/item?id=40793198"
-    ],
-    [
-      "Ask HN: Are you leaving Cloudflare over the recent drama?",
-      "https://news.ycombinator.com/item?id=40793198"
-    ]
-  ],
-  [
-    [
-      "2024-06-25, 20:26:16",
-      "https://news.ycombinator.com/item?id=40793185"
-    ],
-    [
-      "Every GitHub repo stolen by GitCode, platform launched by China's CSDN",
-      "https://gitcode.com/"
-    ]
-  ],
-  [
-    [
       "2024-06-25, 20:08:26",
       "https://news.ycombinator.com/item?id=40792999"
     ],
@@ -181,6 +161,16 @@
   ],
   [
     [
+      "2024-06-25, 01:55:22",
+      "https://news.ycombinator.com/item?id=40783485"
+    ],
+    [
+      "Twonkie: A USB-PD sniffer/injector/sink based on Google's Twinkie open hardware",
+      "https://github.com/dojoe/Twonkie"
+    ]
+  ],
+  [
+    [
       "2024-06-24, 23:10:07",
       "https://news.ycombinator.com/item?id=40782130"
     ],
@@ -197,6 +187,16 @@
     [
       "Spy, Accomplice, Ghostwriter",
       "https://insidestory.org.au/spy-accomplice-ghostwriter/"
+    ]
+  ],
+  [
+    [
+      "2024-06-24, 17:23:28",
+      "https://news.ycombinator.com/item?id=40778594"
+    ],
+    [
+      "More Memory Safety for Let's Encrypt: Deploying ntpd-rs",
+      "https://letsencrypt.org/2024/06/24/ntpd-rs-deployment.html"
     ]
   ],
   [
