@@ -8,6 +8,7 @@
 * [2024-06-25, 17:04:18](https://news.ycombinator.com/item?id=40790911) - [Anthropic Introduces Claude Projects](https://support.anthropic.com/en/articles/9519177-how-can-i-create-and-manage-projects)
 * [2024-06-25, 17:00:00](https://news.ycombinator.com/item?id=40790859) - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=40790859)
 * [2024-06-25, 16:58:09](https://news.ycombinator.com/item?id=40790842) - [Sohu – first specialized chip (ASIC) for transformer models](https://twitter.com/Etched/status/1805625693113663834)
+* [2024-06-25, 16:42:08](https://news.ycombinator.com/item?id=40790640) - [Engineer insists Post Office software did a 'good job'](https://www.thetimes.com/uk/society/article/post-office-scandal-horizon-fujitsu-high-court-9ht63zvp2)
 * [2024-06-25, 16:31:23](https://news.ycombinator.com/item?id=40790519) - [Surprise, your data warehouse can RAG](https://www.rainforestqa.com/blog/your-data-warehouse-can-rag)
 * [2024-06-25, 16:28:45](https://news.ycombinator.com/item?id=40790481) - [Surface Laptop review: Microsoft's best MacBook Air competitor yet](https://www.theverge.com/2024/6/25/24185462/microsoft-surface-laptop-7th-edition-review)
 * [2024-06-25, 16:22:45](https://news.ycombinator.com/item?id=40790414) - [Google no longer developing Material Web Components](https://github.com/material-components/material-web/discussions/5642)
