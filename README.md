@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-25, 20:08:26](https://news.ycombinator.com/item?id=40792999) - [Tesla Cybertruck Accelerator Pedal Trim Recall](https://www.tesla.com/support/recall-cybertruck-accelerator-pedal-pad)
 * [2024-06-25, 19:45:08](https://news.ycombinator.com/item?id=40792740) - [Fixing QuickLook (2023)](https://foon.uk/fixing-quicklook/)
 * [2024-06-25, 18:27:30](https://news.ycombinator.com/item?id=40791829) - [Polyfill supply chain attack hits 100K+ sites](https://sansec.io/research/polyfill-supply-chain-attack)
 * [2024-06-25, 17:00:00](https://news.ycombinator.com/item?id=40790859) - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=40790859)
@@ -16,7 +17,6 @@
 * [2024-06-25, 04:23:19](https://news.ycombinator.com/item?id=40784459) - [Stalin, Eisenstein, Walt Disney and Ivan the Terrible (1992)](https://www.cliomuse.com/stalin-disney-eisenstein--ivan-the-terrible.html)
 * [2024-06-25, 02:29:54](https://news.ycombinator.com/item?id=40783742) - [Wave activity on Titan strong enough to erode the coastlines of lakes and seas](https://phys.org/news/2024-06-titan-strong-erode-coastlines-lakes.html)
 * [2024-06-25, 02:10:40](https://news.ycombinator.com/item?id=40783598) - [SIMD-accelerated computer vision on a $2 microcontroller](https://shraiwi.github.io/read.html?md=blog/simd-fast-esp32s3.md)
-* [2024-06-25, 01:55:22](https://news.ycombinator.com/item?id=40783485) - [Twonkie: A USB-PD sniffer/injector/sink based on Google's Twinkie open hardware](https://github.com/dojoe/Twonkie)
 * [2024-06-24, 23:10:07](https://news.ycombinator.com/item?id=40782130) - [Julian Assange has reached a plea deal with the U.S., allowing him to go free](https://www.nbcnews.com/politics/justice-department/julian-assange-reached-plea-deal-us-allowing-go-free-rcna158695)
 * [2024-06-24, 22:13:46](https://news.ycombinator.com/item?id=40781573) - [Spy, Accomplice, Ghostwriter](https://insidestory.org.au/spy-accomplice-ghostwriter/)
 * [2024-06-24, 17:23:28](https://news.ycombinator.com/item?id=40778594) - [More Memory Safety for Let's Encrypt: Deploying ntpd-rs](https://letsencrypt.org/2024/06/24/ntpd-rs-deployment.html)
