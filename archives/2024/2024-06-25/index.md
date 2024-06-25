@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-25](index.md)
 
+* [2024-06-25, 04:19:50](https://news.ycombinator.com/item?id=40784438) - [Apple says no to PC emulators on iOS](https://www.theverge.com/2024/6/24/24185066/apple-pc-dos-emulators-ios-rejection)
 * [2024-06-25, 03:01:02](https://news.ycombinator.com/item?id=40783944) - [Significant energy source found under US-Mexico border](https://www.newsnationnow.com/us-news/infrastructure/geothermal-energy-source-us-mexico-border/)
+* [2024-06-25, 02:58:19](https://news.ycombinator.com/item?id=40783930) - [Baseball legend Reggie Jackson on playing baseball in the 1960s in the South](https://www.thenation.com/article/society/reggie-jackson-jim-crow-baseball/)
 * [2024-06-25, 02:40:08](https://news.ycombinator.com/item?id=40783811) - [Houthi Attacks in the Red Sea, Merchant Traffic Through Suez Canal Down >50%](https://news.usni.org/2024/06/20/houthi-attacks-causing-more-damage-in-the-red-sea-merchant-traffic-through-suez-canal-down-more-than-50)
 * [2024-06-25, 02:34:37](https://news.ycombinator.com/item?id=40783777) - [Researchers invent 100% biodegradable 'barley plastic'](https://phys.org/news/2024-06-biodegradable-barley-plastic.html)
 * [2024-06-25, 02:29:54](https://news.ycombinator.com/item?id=40783742) - [Wave activity on Titan strong enough to erode the coastlines of lakes and seas](https://phys.org/news/2024-06-titan-strong-erode-coastlines-lakes.html)
