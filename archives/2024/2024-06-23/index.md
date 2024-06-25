@@ -80,6 +80,7 @@
 * [2024-06-23, 07:31:08](https://news.ycombinator.com/item?id=40765438) - [Mozilla's Original Sin](https://mastodon.social/@jwz/112662062948208951)
 * [2024-06-23, 07:29:08](https://news.ycombinator.com/item?id=40765430) - [Shahed-136 kamikaze drone servomotor [video]](https://www.youtube.com/watch?v=_jKbRdsi8fA)
 * [2024-06-23, 07:00:29](https://news.ycombinator.com/item?id=40765308) - [Is Codeberg.org financially sustainable relying on member fees? Any precedents?](https://join.codeberg.org/)
+* [2024-06-23, 06:56:48](https://news.ycombinator.com/item?id=40765294) - [What scripting languages come out of the box on Debian 12?](https://hiandrewquinn.github.io/til-site/posts/what-programming-languages-come-out-of-the-box-on-debian-12/)
 * [2024-06-23, 06:38:15](https://news.ycombinator.com/item?id=40765222) - [Is America approaching peak tip?](https://www.economist.com/finance-and-economics/2024/06/20/is-america-approaching-peak-tip)
 * [2024-06-23, 06:26:22](https://news.ycombinator.com/item?id=40765183) - [I've Stopped Using Box Plots. Should You?](https://nightingaledvs.com/ive-stopped-using-box-plots-should-you/)
 * [2024-06-23, 06:22:05](https://news.ycombinator.com/item?id=40765171) - [Richard Stallman, su, and the 'wheel' group (2004)](https://www.meisterplanet.com/journal/2004/05/09/richard-stallman-su-and-the-wheel-group/)
