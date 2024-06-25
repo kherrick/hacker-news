@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-06-25, 10:05:00",
+      "https://news.ycombinator.com/item?id=40786539"
+    ],
+    [
+      "Gompertz Function",
+      "https://en.wikipedia.org/wiki/Gompertz_function"
+    ]
+  ],
+  [
+    [
       "2024-06-25, 09:52:21",
       "https://news.ycombinator.com/item?id=40786463"
     ],
@@ -287,16 +297,6 @@
     [
       "Remembering the LAN",
       "https://tailscale.com/blog/remembering-the-lan"
-    ]
-  ],
-  [
-    [
-      "2024-06-22, 11:35:13",
-      "https://news.ycombinator.com/item?id=40758241"
-    ],
-    [
-      "Tachyonfx: A library for creating shader-like effects in terminal UIs",
-      "https://github.com/junkdog/tachyonfx"
     ]
   ]
 ]
