@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-25, 22:45:32](https://news.ycombinator.com/item?id=40794564) - [Researchers upend AI status quo by eliminating matrix multiplication in LLMs](https://arstechnica.com/information-technology/2024/06/researchers-upend-ai-status-quo-by-eliminating-matrix-multiplication-in-llms/)
+* [2024-06-25, 23:20:56](https://news.ycombinator.com/item?id=40794812) - [JEP 401: Value Classes and Objects (Preview)](https://openjdk.org/jeps/401)
+* [2024-06-25, 23:15:02](https://news.ycombinator.com/item?id=40794786) - [A brief introduction to interval arithmetic](https://buttondown.email/hillelwayne/archive/a-brief-introduction-to-interval-arithmetic/)
 * [2024-06-25, 22:41:09](https://news.ycombinator.com/item?id=40794523) - [Atomic Operations Composition in Go](https://antonz.org/atomics-composition/)
 * [2024-06-25, 21:34:40](https://news.ycombinator.com/item?id=40793924) - [HyperCard Simulator](https://hcsimulator.com/)
 * [2024-06-25, 21:00:06](https://news.ycombinator.com/item?id=40793540) - [Supabase (YC S20) Is Hiring Postgres SREs](https://boards.greenhouse.io/supabase/jobs/5162509004)
@@ -29,7 +30,6 @@
 * [2024-06-23, 19:58:08](https://news.ycombinator.com/item?id=40770153) - [Continuous Pitch Wind Instruments](https://glissonic.com/)
 * [2024-06-23, 09:26:56](https://news.ycombinator.com/item?id=40765999) - [Remembering the LAN (2020)](https://tailscale.com/blog/remembering-the-lan)
 * [2024-06-23, 05:26:54](https://news.ycombinator.com/item?id=40765014) - [Infinitone Microtonal Saxophone](https://xerocraft.org/news/298-maker-interview-the-infinitone-and-the-notes-between-the-notes)
-* [2024-06-21, 13:00:51](https://news.ycombinator.com/item?id=40749157) - [Quantum chemistry helps characterize coordination complex of elusive Element 61](https://www.ornl.gov/news/quantum-chemistry-and-simulation-help-characterize-coordination-complex-elusive-element-61)
 
 ## [Archives](archives/index.md)
 
