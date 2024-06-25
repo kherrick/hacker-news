@@ -4,9 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-06-25](index.md)
 
+* [2024-06-25, 02:20:36](https://news.ycombinator.com/item?id=40783664) - [Indonesian government datacenter locked down in $8M ransomware rumble](https://www.theregister.com/2024/06/24/indonesia_datacenter_ransomware/)
+* [2024-06-25, 02:03:45](https://news.ycombinator.com/item?id=40783553) - [Personal light exposure patterns and incidence of type 2 diabetes](https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(24)00110-8/fulltext)
 * [2024-06-25, 01:19:55](https://news.ycombinator.com/item?id=40783229) - [From 0/10 to 8/10: Microsoft Puts Repair Front and Center](https://www.ifixit.com/News/96998/from-0-10-to-8-10-microsoft-puts-repair-front-and-center)
+* [2024-06-25, 01:17:05](https://news.ycombinator.com/item?id=40783210) - [Ask HN: YouTube shutdown my account with private channel of my kids memories](https://news.ycombinator.com/item?id=40783210)
+* [2024-06-25, 01:09:36](https://news.ycombinator.com/item?id=40783150) - [The Fed Has Avoided a Recession. But Some Have Been Left Behind](https://www.barrons.com/articles/federal-reserve-distribution-of-wealth-recession-21d8c48e)
 * [2024-06-25, 00:56:27](https://news.ycombinator.com/item?id=40783049) - [Visual guide to linear algebra for AI](https://www.trybackprop.com/blog/linalg101/part_1_vectors_matrices_operations)
 * [2024-06-25, 00:40:02](https://news.ycombinator.com/item?id=40782932) - [Hackers 'jailbreak' powerful AI models in global effort to highlight flaws](https://www.ft.com/content/14a2c98b-c8d5-4e5b-a7b0-30f0a05ec432)
+* [2024-06-25, 00:25:58](https://news.ycombinator.com/item?id=40782818) - [Desperately Seeking Squircles](https://www.figma.com/blog/desperately-seeking-squircles/)
 * [2024-06-25, 00:23:02](https://news.ycombinator.com/item?id=40782791) - [The First Hedge Fund](https://commoncog.com/c/cases/aw-jones-hedge-fund/)
 * [2024-06-25, 00:18:08](https://news.ycombinator.com/item?id=40782755) - [LLMs on the Command Line](https://simonwillison.net/2024/Jun/17/cli-language-models/)
 * [2024-06-25, 00:00:49](https://news.ycombinator.com/item?id=40782618) - [Law enforcement is spying on Americans' mail, records show](https://www.washingtonpost.com/technology/2024/06/24/post-office-mail-surveillance-law-enforcement/)
