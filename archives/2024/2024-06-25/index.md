@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-25](index.md)
 
+* [2024-06-25, 11:01:02](https://news.ycombinator.com/item?id=40786891) - [What everyone gets wrong about the 2015 Ashley Madison scandal](https://www.newscientist.com/article/mg26234952-100-what-everyone-gets-wrong-about-the-2015-ashley-madison-scandal/)
 * [2024-06-25, 10:22:13](https://news.ycombinator.com/item?id=40786644) - [Microsoft removes documentation for switching to a local account in Windows 11](https://arstechnica.com/gadgets/2024/06/microsoft-removes-documentation-for-switching-to-a-local-account-in-windows-11/)
 * [2024-06-25, 09:52:21](https://news.ycombinator.com/item?id=40786463) - [Count Binface](https://en.wikipedia.org/wiki/Count_Binface)
 * [2024-06-25, 09:47:10](https://news.ycombinator.com/item?id=40786425) - [Local First, Forever](https://tonsky.me/blog/crdt-filesync/)
