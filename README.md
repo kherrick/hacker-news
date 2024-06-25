@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-25, 17:23:17](https://news.ycombinator.com/item?id=40791078) - [Paramount Erases Mtv.com Archives, Wipes Music, Culture History After 30+ Years](https://www.showbiz411.com/2024/06/25/paramount-shuts-down-mtv-website-wipes-history-after-20-plus-years)
 * [2024-06-25, 17:04:18](https://news.ycombinator.com/item?id=40790911) - [Anthropic Introduces Claude Projects](https://support.anthropic.com/en/articles/9519177-how-can-i-create-and-manage-projects)
 * [2024-06-25, 17:00:00](https://news.ycombinator.com/item?id=40790859) - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=40790859)
 * [2024-06-25, 16:58:09](https://news.ycombinator.com/item?id=40790842) - [Sohu – first specialized chip (ASIC) for transformer models](https://twitter.com/Etched/status/1805625693113663834)
 * [2024-06-25, 16:42:08](https://news.ycombinator.com/item?id=40790640) - [Engineer insists Post Office software did a 'good job'](https://www.thetimes.com/uk/society/article/post-office-scandal-horizon-fujitsu-high-court-9ht63zvp2)
-* [2024-06-25, 16:22:45](https://news.ycombinator.com/item?id=40790414) - [Google no longer developing Material Web Components](https://github.com/material-components/material-web/discussions/5642)
 * [2024-06-25, 15:48:29](https://news.ycombinator.com/item?id=40790057) - [Chang'e 6 lunar sample return mission returns with samples from moon's far side](https://www.theguardian.com/world/article/2024/jun/25/chinas-change-6-lunar-probe-returns-world-first-samples-from-far-side-of-the-moon)
 * [2024-06-25, 15:36:09](https://news.ycombinator.com/item?id=40789919) - [Testing AMD's Giant MI300X](https://chipsandcheese.com/2024/06/25/testing-amds-giant-mi300x/)
 * [2024-06-25, 15:14:08](https://news.ycombinator.com/item?id=40789672) - [Show HN: I built a large JavaScript powered flipdisc display. Here's a guide](https://flipdisc.io/)
