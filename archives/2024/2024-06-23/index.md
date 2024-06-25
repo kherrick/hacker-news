@@ -66,6 +66,7 @@
 * [2024-06-23, 11:30:40](https://news.ycombinator.com/item?id=40766635) - [A Study Says Warp Drives Might Be Real–and We'll Find Them with Lasers](https://www.popularmechanics.com/space/deep-space/a61193854/warp-drive-gravitational-waves/)
 * [2024-06-23, 10:50:29](https://news.ycombinator.com/item?id=40766445) - [Character Tiling](http://uridiumauthor.blogspot.com/2024/06/character-tiling.html)
 * [2024-06-23, 10:40:17](https://news.ycombinator.com/item?id=40766391) - [My weekend project turned into a 3 years journey](https://blog.znote.io/2024/side-hustle-journey/)
+* [2024-06-23, 10:16:22](https://news.ycombinator.com/item?id=40766246) - [PostScript and Interpress: A Comparison (1985)](http://www.mostlycolor.ch/2010/07/postscript-and-interpress-comparison.html)
 * [2024-06-23, 10:15:30](https://news.ycombinator.com/item?id=40766242) - [Fresh water on Earth emerged 500M years earlier than previously thought](https://www.curtin.edu.au/news/media-release/fresh-findings-earliest-evidence-of-life-bringing-fresh-water-on-earth/)
 * [2024-06-23, 10:00:56](https://news.ycombinator.com/item?id=40766169) - [Germany's autobahn bridges falling apart](https://www.dw.com/en/germanys-autobahn-bridges-falling-apart/a-69439952)
 * [2024-06-23, 09:50:21](https://news.ycombinator.com/item?id=40766117) - [The First Animal Ever Found That Doesn't Need Oxygen to Survive](https://www.sciencealert.com/this-is-the-first-animal-ever-found-that-doesnt-need-oxygen-to-survive)
