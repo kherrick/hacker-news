@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-25](index.md)
 
 * [2024-06-25, 10:22:13](https://news.ycombinator.com/item?id=40786644) - [Microsoft removes documentation for switching to a local account in Windows 11](https://arstechnica.com/gadgets/2024/06/microsoft-removes-documentation-for-switching-to-a-local-account-in-windows-11/)
+* [2024-06-25, 09:52:21](https://news.ycombinator.com/item?id=40786463) - [Count Binface](https://en.wikipedia.org/wiki/Count_Binface)
 * [2024-06-25, 09:47:10](https://news.ycombinator.com/item?id=40786425) - [Local First, Forever](https://tonsky.me/blog/crdt-filesync/)
 * [2024-06-25, 09:17:08](https://news.ycombinator.com/item?id=40786237) - [Not all 'open source' AI models are open: here's a ranking](https://www.nature.com/articles/d41586-024-02012-5)
 * [2024-06-25, 08:48:01](https://news.ycombinator.com/item?id=40786057) - [EGAIR – European Guild for Artificial Intelligence Regulation](https://www.egair.eu/)
