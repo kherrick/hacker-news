@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-25, 13:01:12",
+      "https://news.ycombinator.com/item?id=40788049"
+    ],
+    [
+      "We must seek a widely-applicable Science of Systems",
+      "https://www.hiranmay.xyz/blog/complex-systems"
+    ]
+  ],
+  [
+    [
       "2024-06-25, 12:40:14",
       "https://news.ycombinator.com/item?id=40787842"
     ],
@@ -61,16 +71,6 @@
   ],
   [
     [
-      "2024-06-25, 11:42:11",
-      "https://news.ycombinator.com/item?id=40787255"
-    ],
-    [
-      "A Day Job Is So Much Easier Than Entrepreneurship",
-      "https://www.financialsamurai.com/a-day-job-is-so-much-easier-than-entrepreneurship/"
-    ]
-  ],
-  [
-    [
       "2024-06-25, 11:39:13",
       "https://news.ycombinator.com/item?id=40787222"
     ],
@@ -87,6 +87,16 @@
     [
       "What everyone gets wrong about the 2015 Ashley Madison scandal",
       "https://www.newscientist.com/article/mg26234952-100-what-everyone-gets-wrong-about-the-2015-ashley-madison-scandal/"
+    ]
+  ],
+  [
+    [
+      "2024-06-25, 10:31:34",
+      "https://news.ycombinator.com/item?id=40786703"
+    ],
+    [
+      "Firefox 3rd Party Installer Campaign – Mozilla Community Portal",
+      "https://community.mozilla.org/en/campaigns/fx-3rd-party-installer/"
     ]
   ],
   [
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2024-06-24, 21:00:35",
-      "https://news.ycombinator.com/item?id=40780712"
-    ],
-    [
-      "Finley (YC W21) is hiring our first Sales Ops team member (SF, NY, Remote)",
-      "https://jobs.lever.co/FinleyTechnologies/ef9b46ab-6c97-4401-b7d1-8535c262f246"
-    ]
-  ],
-  [
-    [
       "2024-06-24, 19:35:52",
       "https://news.ycombinator.com/item?id=40779785"
     ],
@@ -281,22 +281,22 @@
   ],
   [
     [
+      "2024-06-24, 05:24:44",
+      "https://news.ycombinator.com/item?id=40772831"
+    ],
+    [
+      "A reckless introduction to Hindley-Milner type inference (2019)",
+      "https://reasonableapproximation.net/2019/05/05/hindley-milner.html"
+    ]
+  ],
+  [
+    [
       "2024-06-23, 09:26:56",
       "https://news.ycombinator.com/item?id=40765999"
     ],
     [
       "Remembering the LAN (2020)",
       "https://tailscale.com/blog/remembering-the-lan"
-    ]
-  ],
-  [
-    [
-      "2024-06-23, 05:24:20",
-      "https://news.ycombinator.com/item?id=40765005"
-    ],
-    [
-      "Why not parse `ls` and what to do instead",
-      "https://unix.stackexchange.com/questions/128985/why-not-parse-ls-and-what-to-do-instead"
     ]
   ]
 ]
