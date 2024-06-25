@@ -6,6 +6,7 @@
 
 * [2024-06-25, 17:54:39](https://news.ycombinator.com/item?id=40791457) - [Andrew Tanenbaum honoured for MINIX, the OS hiding in lots of computers](https://www.theregister.com/2024/06/25/tanenbaum_minix_award/)
 * [2024-06-25, 17:34:12](https://news.ycombinator.com/item?id=40791192) - [Malicious Code Injection Found in CDN Polyfill Link Targeting Mobile Users](https://github.com/polyfillpolyfill/polyfill-service/issues/2873)
+* [2024-06-25, 17:26:25](https://news.ycombinator.com/item?id=40791112) - [Show HN: FiddleCube – Generate Q&A to test your LLM](https://github.com/fiddlecube/fiddlecube-sdk)
 * [2024-06-25, 17:23:17](https://news.ycombinator.com/item?id=40791078) - [Paramount Erases Mtv.com Archives, Wipes Music, Culture History After 30+ Years](https://www.showbiz411.com/2024/06/25/paramount-shuts-down-mtv-website-wipes-history-after-20-plus-years)
 * [2024-06-25, 17:04:18](https://news.ycombinator.com/item?id=40790911) - [Anthropic Introduces Claude Projects](https://support.anthropic.com/en/articles/9519177-how-can-i-create-and-manage-projects)
 * [2024-06-25, 17:00:00](https://news.ycombinator.com/item?id=40790859) - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=40790859)
@@ -30,6 +31,7 @@
 * [2024-06-25, 14:36:29](https://news.ycombinator.com/item?id=40789191) - [Vintage Wooden Homes on Wheels: Photos of Mobile Living from Early 20th Century](https://rarehistoricalphotos.com/vintage-wooden-homes-on-wheels/)
 * [2024-06-25, 14:35:07](https://news.ycombinator.com/item?id=40789179) - [LHM to permanently close and sell DEC-10 at auction](https://www.geekwire.com/2024/seattles-living-computers-museum-logs-off-for-good-as-paul-allen-estate-will-auction-vintage-items/)
 * [2024-06-25, 13:53:05](https://news.ycombinator.com/item?id=40788648) - [Show HN: Triplit – Open-source syncing database that runs on server and client](https://news.ycombinator.com/item?id=40788648)
+* [2024-06-25, 13:53:05](https://news.ycombinator.com/item?id=40788648) - [Show HN: Triplit – Open-source syncing database that runs on server and client](https://github.com/aspen-cloud/triplit)
 * [2024-06-25, 13:46:01](https://news.ycombinator.com/item?id=40788578) - [Hard work wins in business (a.k.a. it ain't just about luck)](https://anandsanwal.me/2024/05/23/hard-work-wins-business/)
 * [2024-06-25, 13:24:18](https://news.ycombinator.com/item?id=40788323) - [Slack updates retention policy for free workspaces](https://slack.com/intl/en-gb/help/articles/29414264463635-Updates-to-message-and-file-history-on-free-workspaces?nojsmode=1)
 * [2024-06-25, 13:12:10](https://news.ycombinator.com/item?id=40788172) - [Sun Machines](https://www.economist.com/interactive/essay/2024/06/20/solar-power-is-going-to-be-huge)
