@@ -12,6 +12,7 @@
 * [2024-06-25, 01:55:22](https://news.ycombinator.com/item?id=40783485) - [Twonkie: A USB-PD sniffer/injector/sink based on Google's Twinkie open hardware](https://github.com/dojoe/Twonkie)
 * [2024-06-25, 01:19:55](https://news.ycombinator.com/item?id=40783229) - [From 0/10 to 8/10: Microsoft Puts Repair Front and Center](https://www.ifixit.com/News/96998/from-0-10-to-8-10-microsoft-puts-repair-front-and-center)
 * [2024-06-25, 01:17:05](https://news.ycombinator.com/item?id=40783210) - [Ask HN: YouTube shutdown my account with private channel of my kids memories](https://news.ycombinator.com/item?id=40783210)
+* [2024-06-25, 01:10:01](https://news.ycombinator.com/item?id=40783158) - [Denver gave homeless people $1k/mth. Year later, nearly half had housing](https://www.businessinsider.com/denver-basic-income-reduces-homelessness-food-insecurity-housing-ubi-gbi-2024-6)
 * [2024-06-25, 01:09:36](https://news.ycombinator.com/item?id=40783150) - [The Fed Has Avoided a Recession. But Some Have Been Left Behind](https://www.barrons.com/articles/federal-reserve-distribution-of-wealth-recession-21d8c48e)
 * [2024-06-25, 00:56:27](https://news.ycombinator.com/item?id=40783049) - [Visual guide to linear algebra for AI](https://www.trybackprop.com/blog/linalg101/part_1_vectors_matrices_operations)
 * [2024-06-25, 00:40:02](https://news.ycombinator.com/item?id=40782932) - [Hackers 'jailbreak' powerful AI models in global effort to highlight flaws](https://www.ft.com/content/14a2c98b-c8d5-4e5b-a7b0-30f0a05ec432)
