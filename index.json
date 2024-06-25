@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-06-25, 12:37:03",
-      "https://news.ycombinator.com/item?id=40787805"
-    ],
-    [
-      "Biangbiang Noodles",
-      "https://en.wikipedia.org/wiki/Biangbiang_noodles"
-    ]
-  ],
-  [
-    [
       "2024-06-25, 12:30:13",
       "https://news.ycombinator.com/item?id=40787733"
     ],
@@ -77,16 +67,6 @@
     [
       "Not all 'open source' AI models are open: here's a ranking",
       "https://www.nature.com/articles/d41586-024-02012-5"
-    ]
-  ],
-  [
-    [
-      "2024-06-25, 05:23:55",
-      "https://news.ycombinator.com/item?id=40784778"
-    ],
-    [
-      "NOFX to retire after final tour without ever having had a job",
-      "https://www.nytimes.com/2024/06/18/style/nofx-farewell-tour.html"
     ]
   ],
   [
@@ -211,6 +191,16 @@
   ],
   [
     [
+      "2024-06-24, 19:35:29",
+      "https://news.ycombinator.com/item?id=40779780"
+    ],
+    [
+      "Indonesia’s Emergence",
+      "https://insidestory.org.au/brutal-birth/"
+    ]
+  ],
+  [
+    [
       "2024-06-24, 17:23:28",
       "https://news.ycombinator.com/item?id=40778594"
     ],
@@ -297,6 +287,16 @@
     [
       "Why not parse `ls` and what to do instead",
       "https://unix.stackexchange.com/questions/128985/why-not-parse-ls-and-what-to-do-instead"
+    ]
+  ],
+  [
+    [
+      "2024-06-22, 11:35:13",
+      "https://news.ycombinator.com/item?id=40758241"
+    ],
+    [
+      "Tachyonfx: A library for creating shader-like effects in terminal UIs",
+      "https://github.com/junkdog/tachyonfx"
     ]
   ]
 ]
