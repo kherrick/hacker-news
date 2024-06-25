@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-25, 11:44:17",
+      "https://news.ycombinator.com/item?id=40787276"
+    ],
+    [
+      "GCC and Clang handle statically known undefined behaviour",
+      "https://diekmann.uk/blog/2024-06-25-statically-known-undefined-behaviour.html"
+    ]
+  ],
+  [
+    [
       "2024-06-25, 11:23:31",
       "https://news.ycombinator.com/item?id=40787083"
     ],
@@ -37,16 +47,6 @@
     [
       "Microsoft removes documentation for switching to a local account in Windows 11",
       "https://arstechnica.com/gadgets/2024/06/microsoft-removes-documentation-for-switching-to-a-local-account-in-windows-11/"
-    ]
-  ],
-  [
-    [
-      "2024-06-25, 10:05:00",
-      "https://news.ycombinator.com/item?id=40786539"
-    ],
-    [
-      "Gompertz Function",
-      "https://en.wikipedia.org/wiki/Gompertz_function"
     ]
   ],
   [
@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2024-06-24, 21:00:35",
+      "https://news.ycombinator.com/item?id=40780712"
+    ],
+    [
+      "Finley (YC W21) is hiring our first Sales Ops team member (SF, NY, Remote)",
+      "https://jobs.lever.co/FinleyTechnologies/ef9b46ab-6c97-4401-b7d1-8535c262f246"
+    ]
+  ],
+  [
+    [
       "2024-06-24, 20:59:28",
       "https://news.ycombinator.com/item?id=40780696"
     ],
@@ -271,21 +281,11 @@
   ],
   [
     [
-      "2024-06-23, 19:20:53",
-      "https://news.ycombinator.com/item?id=40769882"
-    ],
-    [
-      "Porting Python to a $3 smartwatch [video]",
-      "https://www.youtube.com/watch?v=sv58aPvIonw"
-    ]
-  ],
-  [
-    [
       "2024-06-23, 09:26:56",
       "https://news.ycombinator.com/item?id=40765999"
     ],
     [
-      "Remembering the LAN",
+      "Remembering the LAN (2020)",
       "https://tailscale.com/blog/remembering-the-lan"
     ]
   ],
