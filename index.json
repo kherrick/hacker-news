@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-06-25, 21:19:56",
+      "https://news.ycombinator.com/item?id=40793748"
+    ],
+    [
+      "Study comparing mitochondria in males and females finds extreme differences",
+      "https://dornsife.usc.edu/news/stories/mitochondrial-sex-differences-suggest-treatment-strategies/"
+    ]
+  ],
+  [
+    [
       "2024-06-25, 21:00:06",
       "https://news.ycombinator.com/item?id=40793540"
     ],
     [
       "Supabase (YC S20) Is Hiring Postgres SREs",
       "https://boards.greenhouse.io/supabase/jobs/5162509004"
+    ]
+  ],
+  [
+    [
+      "2024-06-25, 20:52:52",
+      "https://news.ycombinator.com/item?id=40793465"
+    ],
+    [
+      "Ball: A ball that lives in your dock",
+      "https://github.com/nate-parrott/ball"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2024-06-25, 01:55:22",
-      "https://news.ycombinator.com/item?id=40783485"
-    ],
-    [
-      "Twonkie: A USB-PD sniffer/injector/sink based on Google's Twinkie open hardware",
-      "https://github.com/dojoe/Twonkie"
-    ]
-  ],
-  [
-    [
       "2024-06-24, 23:10:07",
       "https://news.ycombinator.com/item?id=40782130"
     ],
@@ -187,16 +197,6 @@
     [
       "Spy, Accomplice, Ghostwriter",
       "https://insidestory.org.au/spy-accomplice-ghostwriter/"
-    ]
-  ],
-  [
-    [
-      "2024-06-24, 17:23:28",
-      "https://news.ycombinator.com/item?id=40778594"
-    ],
-    [
-      "More Memory Safety for Let's Encrypt: Deploying ntpd-rs",
-      "https://letsencrypt.org/2024/06/24/ntpd-rs-deployment.html"
     ]
   ],
   [
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=40770409"
     ],
     [
-      "How Cathode Ray Tubes Work. [video]",
+      "How Cathode Ray Tubes Work [video]",
       "https://www.youtube.com/watch?v=3A-Td0i4_Kc"
     ]
   ],
