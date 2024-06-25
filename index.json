@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-06-25, 09:52:21",
-      "https://news.ycombinator.com/item?id=40786463"
-    ],
-    [
-      "Count Binface",
-      "https://en.wikipedia.org/wiki/Count_Binface"
-    ]
-  ],
-  [
-    [
       "2024-06-25, 09:47:10",
       "https://news.ycombinator.com/item?id=40786425"
     ],
@@ -87,16 +77,6 @@
     [
       "Wave activity on Titan strong enough to erode the coastlines of lakes and seas",
       "https://phys.org/news/2024-06-titan-strong-erode-coastlines-lakes.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-25, 02:20:36",
-      "https://news.ycombinator.com/item?id=40783664"
-    ],
-    [
-      "Indonesian government datacenter locked down in $8M ransomware rumble",
-      "https://www.theregister.com/2024/06/24/indonesia_datacenter_ransomware/"
     ]
   ],
   [
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2024-06-23, 09:26:56",
+      "https://news.ycombinator.com/item?id=40765999"
+    ],
+    [
+      "Remembering the LAN",
+      "https://tailscale.com/blog/remembering-the-lan"
+    ]
+  ],
+  [
+    [
       "2024-06-23, 05:24:20",
       "https://news.ycombinator.com/item?id=40765005"
     ],
     [
       "Why *not* parse `ls` (and what to do instead)",
       "https://unix.stackexchange.com/questions/128985/why-not-parse-ls-and-what-to-do-instead"
+    ]
+  ],
+  [
+    [
+      "2024-06-22, 11:35:13",
+      "https://news.ycombinator.com/item?id=40758241"
+    ],
+    [
+      "Tachyonfx: A library for creating shader-like effects in terminal UIs",
+      "https://github.com/junkdog/tachyonfx"
     ]
   ]
 ]
