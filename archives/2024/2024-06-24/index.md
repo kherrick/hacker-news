@@ -10,6 +10,7 @@
 * [2024-06-24, 23:35:04](https://news.ycombinator.com/item?id=40782362) - [Tech CEOs are hot now, so workers are hiring $500-an-hour fashion consultants](https://sfstandard.com/2024/06/17/fashion-zuckerberg-style-techie-hoodie-allbirds/)
 * [2024-06-24, 23:10:07](https://news.ycombinator.com/item?id=40782130) - [Julian Assange has reached a plea deal with the U.S., allowing him to go free](https://www.nbcnews.com/politics/justice-department/julian-assange-reached-plea-deal-us-allowing-go-free-rcna158695)
 * [2024-06-24, 23:06:22](https://news.ycombinator.com/item?id=40782101) - [MTV news website goes dark, archives pulled offline](https://variety.com/2024/digital/news/mtv-news-website-archives-pulled-offline-1236047163/)
+* [2024-06-24, 22:44:30](https://news.ycombinator.com/item?id=40781894) - [Show HN: Qq: like jq, but can transcode between many formats](https://github.com/JFryy/qq)
 * [2024-06-24, 22:38:31](https://news.ycombinator.com/item?id=40781838) - [Round Rects Are Everywhere](https://www.folklore.org/Round_Rects_Are_Everywhere.html)
 * [2024-06-24, 21:52:15](https://news.ycombinator.com/item?id=40781266) - [Why Nothing Can Grow on Mars](https://www.asimov.press/p/grow-mars)
 * [2024-06-24, 21:32:20](https://news.ycombinator.com/item?id=40781060) - [Fearing Losses, Banks Are Quietly Dumping Real Estate Loans](https://www.nytimes.com/2024/06/24/business/commercial-real-estate-loans.html)

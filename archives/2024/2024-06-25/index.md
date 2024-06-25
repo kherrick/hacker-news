@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-25](index.md)
 
 * [2024-06-25, 14:54:22](https://news.ycombinator.com/item?id=40789411) - [Waymo One is now open to everyone in San Francisco](https://waymo.com/blog/2024/06/waymo-one-is-now-open-to-everyone-in-san-francisco/)
+* [2024-06-25, 14:49:28](https://news.ycombinator.com/item?id=40789353) - [From Dotenv to Dotenvx: Next Generation Config Management](https://dotenvx.com/blog/2024/06/24/dotenvx-next-generation-config-management.html)
 * [2024-06-25, 14:40:23](https://news.ycombinator.com/item?id=40789238) - [Drilling a Triangular Hole [video]](https://www.tiktok.com/@reason4math/video/7372387971884174638)
 * [2024-06-25, 14:36:29](https://news.ycombinator.com/item?id=40789191) - [Vintage Wooden Homes on Wheels: Photos of Mobile Living from Early 20th Century](https://rarehistoricalphotos.com/vintage-wooden-homes-on-wheels/)
 * [2024-06-25, 14:35:07](https://news.ycombinator.com/item?id=40789179) - [LHM to permanently close and sell DEC-10 at auction](https://www.geekwire.com/2024/seattles-living-computers-museum-logs-off-for-good-as-paul-allen-estate-will-auction-vintage-items/)
