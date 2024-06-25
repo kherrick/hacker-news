@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-06-25, 20:26:49",
+      "https://news.ycombinator.com/item?id=40793192"
+    ],
+    [
+      "Rabbit R1s break after elevenlabs key revoked",
+      "https://twitter.com/xyz3va/status/1805689140639408277"
+    ]
+  ],
+  [
+    [
       "2024-06-25, 20:24:44",
       "https://news.ycombinator.com/item?id=40793174"
     ],
@@ -157,16 +167,6 @@
     [
       "SIMD-accelerated computer vision on a $2 microcontroller",
       "https://shraiwi.github.io/read.html?md=blog/simd-fast-esp32s3.md"
-    ]
-  ],
-  [
-    [
-      "2024-06-25, 01:55:22",
-      "https://news.ycombinator.com/item?id=40783485"
-    ],
-    [
-      "Twonkie: A USB-PD sniffer/injector/sink based on Google's Twinkie open hardware",
-      "https://github.com/dojoe/Twonkie"
     ]
   ],
   [
