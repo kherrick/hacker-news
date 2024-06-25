@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-06-25](index.md)
 
+* [2024-06-25, 10:22:13](https://news.ycombinator.com/item?id=40786644) - [Microsoft removes documentation for switching to a local account in Windows 11](https://arstechnica.com/gadgets/2024/06/microsoft-removes-documentation-for-switching-to-a-local-account-in-windows-11/)
 * [2024-06-25, 09:47:10](https://news.ycombinator.com/item?id=40786425) - [Local First, Forever](https://tonsky.me/blog/crdt-filesync/)
 * [2024-06-25, 09:17:08](https://news.ycombinator.com/item?id=40786237) - [Not all 'open source' AI models are open: here's a ranking](https://www.nature.com/articles/d41586-024-02012-5)
 * [2024-06-25, 08:48:01](https://news.ycombinator.com/item?id=40786057) - [EGAIR – European Guild for Artificial Intelligence Regulation](https://www.egair.eu/)
+* [2024-06-25, 08:40:29](https://news.ycombinator.com/item?id=40786004) - [Mozilla roll out first AI features in Firefox Nightly](https://blog.mozilla.org/en/products/firefox/firefox-news/ai-services-on-firefox/)
 * [2024-06-25, 08:30:42](https://news.ycombinator.com/item?id=40785945) - [Locked out of 14 year old YouTube channel because tied to Hotmail.com email](https://news.ycombinator.com/item?id=40785945)
 * [2024-06-25, 05:23:55](https://news.ycombinator.com/item?id=40784778) - [NOFX to retire after final tour without ever having had a job](https://www.nytimes.com/2024/06/18/style/nofx-farewell-tour.html)
 * [2024-06-25, 04:19:50](https://news.ycombinator.com/item?id=40784438) - [Apple says no to PC emulators on iOS](https://www.theverge.com/2024/6/24/24185066/apple-pc-dos-emulators-ios-rejection)
