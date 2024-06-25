@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-25, 22:45:32",
+      "https://news.ycombinator.com/item?id=40794564"
+    ],
+    [
+      "Researchers upend AI status quo by eliminating matrix multiplication in LLMs",
+      "https://arstechnica.com/information-technology/2024/06/researchers-upend-ai-status-quo-by-eliminating-matrix-multiplication-in-llms/"
+    ]
+  ],
+  [
+    [
+      "2024-06-25, 22:41:09",
+      "https://news.ycombinator.com/item?id=40794523"
+    ],
+    [
+      "Atomic Operations Composition in Go",
+      "https://antonz.org/atomics-composition/"
+    ]
+  ],
+  [
+    [
       "2024-06-25, 21:34:40",
       "https://news.ycombinator.com/item?id=40793924"
     ],
@@ -47,6 +67,16 @@
     [
       "Polyfill supply chain attack hits 100K+ sites",
       "https://sansec.io/research/polyfill-supply-chain-attack"
+    ]
+  ],
+  [
+    [
+      "2024-06-25, 17:26:25",
+      "https://news.ycombinator.com/item?id=40791112"
+    ],
+    [
+      "Show HN: FiddleCube – Generate Q&A to test your LLM",
+      "https://github.com/fiddlecube/fiddlecube-sdk"
     ]
   ],
   [
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2024-06-24, 23:10:07",
-      "https://news.ycombinator.com/item?id=40782130"
-    ],
-    [
-      "Julian Assange has reached a plea deal with the U.S., allowing him to go free",
-      "https://www.nbcnews.com/politics/justice-department/julian-assange-reached-plea-deal-us-allowing-go-free-rcna158695"
-    ]
-  ],
-  [
-    [
       "2024-06-24, 22:13:46",
       "https://news.ycombinator.com/item?id=40781573"
     ],
@@ -251,16 +271,6 @@
   ],
   [
     [
-      "2024-06-23, 20:35:36",
-      "https://news.ycombinator.com/item?id=40770409"
-    ],
-    [
-      "How Cathode Ray Tubes Work [video]",
-      "https://www.youtube.com/watch?v=3A-Td0i4_Kc"
-    ]
-  ],
-  [
-    [
       "2024-06-23, 09:26:56",
       "https://news.ycombinator.com/item?id=40765999"
     ],
@@ -277,16 +287,6 @@
     [
       "Infinitone Microtonal Saxophone",
       "https://xerocraft.org/news/298-maker-interview-the-infinitone-and-the-notes-between-the-notes"
-    ]
-  ],
-  [
-    [
-      "2024-06-21, 14:15:38",
-      "https://news.ycombinator.com/item?id=40749854"
-    ],
-    [
-      "Everyday is a Birthday A Journey to a classic problem through Math and Rust",
-      "https://seniormars.com/posts/everyday-birthday/"
     ]
   ],
   [
