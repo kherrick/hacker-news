@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-25, 10:22:13](https://news.ycombinator.com/item?id=40786644) - [Microsoft removes documentation for switching to a local account in Windows 11](https://arstechnica.com/gadgets/2024/06/microsoft-removes-documentation-for-switching-to-a-local-account-in-windows-11/)
-* [2024-06-25, 09:52:21](https://news.ycombinator.com/item?id=40786463) - [Count Binface](https://en.wikipedia.org/wiki/Count_Binface)
 * [2024-06-25, 09:47:10](https://news.ycombinator.com/item?id=40786425) - [Local First, Forever](https://tonsky.me/blog/crdt-filesync/)
 * [2024-06-25, 09:17:08](https://news.ycombinator.com/item?id=40786237) - [Not all 'open source' AI models are open: here's a ranking](https://www.nature.com/articles/d41586-024-02012-5)
 * [2024-06-25, 08:48:01](https://news.ycombinator.com/item?id=40786057) - [EGAIR – European Guild for Artificial Intelligence Regulation](https://www.egair.eu/)
@@ -9,7 +8,6 @@
 * [2024-06-25, 05:23:55](https://news.ycombinator.com/item?id=40784778) - [NOFX to retire after final tour without ever having had a job](https://www.nytimes.com/2024/06/18/style/nofx-farewell-tour.html)
 * [2024-06-25, 02:34:37](https://news.ycombinator.com/item?id=40783777) - [Researchers invent 100% biodegradable 'barley plastic'](https://phys.org/news/2024-06-biodegradable-barley-plastic.html)
 * [2024-06-25, 02:29:54](https://news.ycombinator.com/item?id=40783742) - [Wave activity on Titan strong enough to erode the coastlines of lakes and seas](https://phys.org/news/2024-06-titan-strong-erode-coastlines-lakes.html)
-* [2024-06-25, 02:20:36](https://news.ycombinator.com/item?id=40783664) - [Indonesian government datacenter locked down in $8M ransomware rumble](https://www.theregister.com/2024/06/24/indonesia_datacenter_ransomware/)
 * [2024-06-25, 02:10:40](https://news.ycombinator.com/item?id=40783598) - [SIMD-accelerated computer vision on a $2 microcontroller](https://shraiwi.github.io/read.html?md=blog/simd-fast-esp32s3.md)
 * [2024-06-25, 01:55:22](https://news.ycombinator.com/item?id=40783485) - [Twonkie: A USB-PD sniffer/injector/sink based on Google's Twinkie open hardware](https://github.com/dojoe/Twonkie)
 * [2024-06-25, 01:19:55](https://news.ycombinator.com/item?id=40783229) - [From 0/10 to 8/10: Microsoft Puts Repair Front and Center](https://www.ifixit.com/News/96998/from-0-10-to-8-10-microsoft-puts-repair-front-and-center)
@@ -29,7 +27,9 @@
 * [2024-06-24, 05:58:41](https://news.ycombinator.com/item?id=40772955) - [Resilient Sync for Local First](https://holtwick.de/en/blog/localfirst-resilient-sync)
 * [2024-06-24, 04:17:51](https://news.ycombinator.com/item?id=40772633) - [Synthesizer for Thought](https://thesephist.com/posts/synth/)
 * [2024-06-23, 19:20:53](https://news.ycombinator.com/item?id=40769882) - [Porting Python to a $3 smartwatch [video]](https://www.youtube.com/watch?v=sv58aPvIonw)
+* [2024-06-23, 09:26:56](https://news.ycombinator.com/item?id=40765999) - [Remembering the LAN](https://tailscale.com/blog/remembering-the-lan)
 * [2024-06-23, 05:24:20](https://news.ycombinator.com/item?id=40765005) - [Why *not* parse `ls` (and what to do instead)](https://unix.stackexchange.com/questions/128985/why-not-parse-ls-and-what-to-do-instead)
+* [2024-06-22, 11:35:13](https://news.ycombinator.com/item?id=40758241) - [Tachyonfx: A library for creating shader-like effects in terminal UIs](https://github.com/junkdog/tachyonfx)
 
 ## [Archives](archives/index.md)
 

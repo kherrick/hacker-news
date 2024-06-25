@@ -72,6 +72,7 @@
 * [2024-06-23, 09:50:21](https://news.ycombinator.com/item?id=40766117) - [The First Animal Ever Found That Doesn't Need Oxygen to Survive](https://www.sciencealert.com/this-is-the-first-animal-ever-found-that-doesnt-need-oxygen-to-survive)
 * [2024-06-23, 09:40:34](https://news.ycombinator.com/item?id=40766079) - [Never* Use Datagrams](https://quic.video/blog/never-use-datagrams/)
 * [2024-06-23, 09:38:44](https://news.ycombinator.com/item?id=40766071) - [BeyondCorp](https://research.google/pubs/beyondcorp-a-new-approach-to-enterprise-security/)
+* [2024-06-23, 09:26:56](https://news.ycombinator.com/item?id=40765999) - [Remembering the LAN](https://tailscale.com/blog/remembering-the-lan)
 * [2024-06-23, 09:14:45](https://news.ycombinator.com/item?id=40765938) - [Just open-sourced E25DX: a modern Hugo theme for tech documentations](https://github.com/dumindu/E25DX)
 * [2024-06-23, 09:02:48](https://news.ycombinator.com/item?id=40765872) - [Of Psion and Symbian](https://www.abortretry.fail/p/of-psion-and-symbian)
 * [2024-06-23, 08:53:01](https://news.ycombinator.com/item?id=40765808) - [Spotify and the big three labels collude to rip off artists](https://pluralistic.net/2024/06/21/off-the-menu/#universally-loathed)
