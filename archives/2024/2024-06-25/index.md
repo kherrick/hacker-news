@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-06-25](index.md)
 
+* [2024-06-25, 21:00:06](https://news.ycombinator.com/item?id=40793540) - [Supabase (YC S20) Is Hiring Postgres SREs](https://boards.greenhouse.io/supabase/jobs/5162509004)
 * [2024-06-25, 20:51:10](https://news.ycombinator.com/item?id=40793438) - [Volkswagen Will Invest Up to $5B in Rivian](https://www.nytimes.com/2024/06/25/business/volkswagen-rivian-vw-investment.html)
 * [2024-06-25, 20:27:20](https://news.ycombinator.com/item?id=40793198) - [Ask HN: Are you leaving Cloudflare over the recent drama?](https://news.ycombinator.com/item?id=40793198)
 * [2024-06-25, 20:26:16](https://news.ycombinator.com/item?id=40793185) - [Every GitHub repo stolen by GitCode, platform launched by China's CSDN](https://gitcode.com/)
+* [2024-06-25, 20:24:44](https://news.ycombinator.com/item?id=40793174) - [Volkswagen to invest up to $5B in Rivian](https://www.reuters.com/business/autos-transportation/volkswagen-invest-up-5-billion-rivian-part-tech-joint-venture-2024-06-25/)
 * [2024-06-25, 20:08:26](https://news.ycombinator.com/item?id=40792999) - [Tesla Cybertruck Accelerator Pedal Trim Recall](https://www.tesla.com/support/recall-cybertruck-accelerator-pedal-pad)
 * [2024-06-25, 19:45:08](https://news.ycombinator.com/item?id=40792740) - [Fixing QuickLook (2023)](https://foon.uk/fixing-quicklook/)
 * [2024-06-25, 19:27:24](https://news.ycombinator.com/item?id=40792569) - [OpenAI releases ChatGPT on your desktop for macOS](https://openai.com/chatgpt/mac/)
