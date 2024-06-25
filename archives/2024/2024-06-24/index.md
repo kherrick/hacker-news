@@ -86,6 +86,7 @@
 * [2024-06-24, 06:35:35](https://news.ycombinator.com/item?id=40773074) - [My employer was dumping toxic waste into the apartment windows from their fab](https://mastodon.social/@ashleygjovik/112668372321990128)
 * [2024-06-24, 06:29:39](https://news.ycombinator.com/item?id=40773056) - [The Triumph of Counting and Scripting](https://slate.com/life/2024/06/doctors-teachers-dissatisfaction-tracking-charting-jobs.html)
 * [2024-06-24, 05:58:41](https://news.ycombinator.com/item?id=40772955) - [Resilient Sync for Local First](https://holtwick.de/en/blog/localfirst-resilient-sync)
+* [2024-06-24, 05:24:44](https://news.ycombinator.com/item?id=40772831) - [A reckless introduction to Hindley-Milner type inference (2019)](https://reasonableapproximation.net/2019/05/05/hindley-milner.html)
 * [2024-06-24, 04:17:51](https://news.ycombinator.com/item?id=40772633) - [Synthesizer for Thought](https://thesephist.com/posts/synth/)
 * [2024-06-24, 03:35:40](https://news.ycombinator.com/item?id=40772495) - [Weighing Up Galileo's Evidence](https://www.historytoday.com/archive/great-debates/weighing-galileos-evidence)
 * [2024-06-24, 03:01:27](https://news.ycombinator.com/item?id=40772378) - [Copy-on-Write Performance and Debugging](https://devblogs.microsoft.com/engineering-at-microsoft/copy-on-write-performance-and-debugging/)
