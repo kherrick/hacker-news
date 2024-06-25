@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-25](index.md)
 
+* [2024-06-25, 23:03:32](https://news.ycombinator.com/item?id=40794697) - [Man flies to Florida to attack another player over online gaming dispute](https://apnews.com/article/online-gaming-attack-florida-1b7220a68fe4001bc7913acf07189875)
 * [2024-06-25, 22:45:32](https://news.ycombinator.com/item?id=40794564) - [Researchers upend AI status quo by eliminating matrix multiplication in LLMs](https://arstechnica.com/information-technology/2024/06/researchers-upend-ai-status-quo-by-eliminating-matrix-multiplication-in-llms/)
 * [2024-06-25, 22:41:09](https://news.ycombinator.com/item?id=40794523) - [Atomic Operations Composition in Go](https://antonz.org/atomics-composition/)
 * [2024-06-25, 21:44:43](https://news.ycombinator.com/item?id=40794022) - [Continuations by Example](https://matt.might.net/articles/programming-with-continuations--exceptions-backtracking-search-threads-generators-coroutines/)
