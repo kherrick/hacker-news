@@ -1,10 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-25, 15:14:08](https://news.ycombinator.com/item?id=40789672) - [Show HN: I built a large JavaScript powered flipdisc display. Here's a guide](https://flipdisc.io/http://localhost:4321/)
-* [2024-06-25, 14:59:20](https://news.ycombinator.com/item?id=40789466) - [TikTok shows different people different comment sections](https://twitter.com/julesterpak/status/1794558327050953133)
 * [2024-06-25, 14:54:22](https://news.ycombinator.com/item?id=40789411) - [Waymo One is now open to everyone in San Francisco](https://waymo.com/blog/2024/06/waymo-one-is-now-open-to-everyone-in-san-francisco/)
 * [2024-06-25, 14:49:28](https://news.ycombinator.com/item?id=40789353) - [From Dotenv to Dotenvx: Next Generation Config Management](https://dotenvx.com/blog/2024/06/24/dotenvx-next-generation-config-management.html)
-* [2024-06-25, 14:42:06](https://news.ycombinator.com/item?id=40789259) - [Tesla \"donated\" 12,000 Nvidia H100 to X](https://www.morningstar.com/news/marketwatch/20240604785/elon-musk-confirms-reallocating-thousands-of-nvidia-ai-chips-from-tesla)
 * [2024-06-25, 14:36:29](https://news.ycombinator.com/item?id=40789191) - [Vintage Wooden Homes on Wheels: Photos of Mobile Living from Early 20th Century](https://rarehistoricalphotos.com/vintage-wooden-homes-on-wheels/)
 * [2024-06-25, 13:01:12](https://news.ycombinator.com/item?id=40788049) - [Why we must seek a widely-applicable Science of Systems.](https://www.hiranmay.xyz/blog/complex-systems)
 * [2024-06-25, 11:44:17](https://news.ycombinator.com/item?id=40787276) - [How GCC and Clang handle statically known undefined behaviour](https://diekmann.uk/blog/2024-06-25-statically-known-undefined-behaviour.html)
@@ -17,6 +15,7 @@
 * [2024-06-25, 00:23:02](https://news.ycombinator.com/item?id=40782791) - [The First Hedge Fund](https://commoncog.com/c/cases/aw-jones-hedge-fund/)
 * [2024-06-24, 23:10:07](https://news.ycombinator.com/item?id=40782130) - [Julian Assange has reached a plea deal with the U.S., allowing him to go free](https://www.nbcnews.com/politics/justice-department/julian-assange-reached-plea-deal-us-allowing-go-free-rcna158695)
 * [2024-06-24, 23:06:22](https://news.ycombinator.com/item?id=40782101) - [MTV news website goes dark, archives pulled offline](https://variety.com/2024/digital/news/mtv-news-website-archives-pulled-offline-1236047163/)
+* [2024-06-24, 22:44:30](https://news.ycombinator.com/item?id=40781894) - [Show HN: Qq: like jq, but can transcode between many formats](https://github.com/JFryy/qq)
 * [2024-06-24, 22:38:31](https://news.ycombinator.com/item?id=40781838) - [Round Rects Are Everywhere](https://www.folklore.org/Round_Rects_Are_Everywhere.html)
 * [2024-06-24, 21:17:02](https://news.ycombinator.com/item?id=40780908) - [The Sun Ra Arkestra's Maestro Hits One Hundred](https://www.newyorker.com/magazine/2024/07/01/the-sun-ra-arkestras-maestro-hits-one-hundred)
 * [2024-06-24, 21:00:35](https://news.ycombinator.com/item?id=40780712) - [Finley (YC W21) is hiring our first Sales Ops team member (SF, NY, Remote)](https://jobs.lever.co/FinleyTechnologies/ef9b46ab-6c97-4401-b7d1-8535c262f246)
@@ -29,6 +28,7 @@
 * [2024-06-23, 19:20:53](https://news.ycombinator.com/item?id=40769882) - [Porting Python to a $3 smartwatch [video]](https://www.youtube.com/watch?v=sv58aPvIonw)
 * [2024-06-23, 09:26:56](https://news.ycombinator.com/item?id=40765999) - [Remembering the LAN (2020)](https://tailscale.com/blog/remembering-the-lan)
 * [2024-06-23, 05:24:20](https://news.ycombinator.com/item?id=40765005) - [Why not parse `ls` and what to do instead](https://unix.stackexchange.com/questions/128985/why-not-parse-ls-and-what-to-do-instead)
+* [2024-06-23, 04:13:42](https://news.ycombinator.com/item?id=40764736) - [Hans Hollein: Everything Is Architecture](https://designmanifestos.org/hans-hollein-everything-is-architecture/)
 * [2024-06-22, 11:35:13](https://news.ycombinator.com/item?id=40758241) - [Tachyonfx: A library for creating shader-like effects in terminal UIs](https://github.com/junkdog/tachyonfx)
 
 ## [Archives](archives/index.md)
