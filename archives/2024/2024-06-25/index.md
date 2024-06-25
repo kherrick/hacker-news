@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-25](index.md)
 
+* [2024-06-25, 11:44:17](https://news.ycombinator.com/item?id=40787276) - [GCC and Clang handle statically known undefined behaviour](https://diekmann.uk/blog/2024-06-25-statically-known-undefined-behaviour.html)
 * [2024-06-25, 11:23:31](https://news.ycombinator.com/item?id=40787083) - [Israeli Supreme Court says ultra-Orthodox must serve in military](https://abcnews.go.com/International/wireStory/israeli-supreme-court-ultra-orthodox-serve-military-111394436)
 * [2024-06-25, 11:22:08](https://news.ycombinator.com/item?id=40787072) - [AI discovers new rare-earth-free magnet at 200 times the speed of man](https://newatlas.com/materials/ai-rare-earth-free-magnet-discovery/)
 * [2024-06-25, 11:01:02](https://news.ycombinator.com/item?id=40786891) - [What everyone gets wrong about the 2015 Ashley Madison scandal](https://www.newscientist.com/article/mg26234952-100-what-everyone-gets-wrong-about-the-2015-ashley-madison-scandal/)
