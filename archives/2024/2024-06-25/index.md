@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-25](index.md)
 
+* [2024-06-25, 02:23:13](https://news.ycombinator.com/item?id=40783682) - [The Death of the Junior Developer](https://sourcegraph.com/blog/the-death-of-the-junior-developer)
 * [2024-06-25, 02:20:36](https://news.ycombinator.com/item?id=40783664) - [Indonesian government datacenter locked down in $8M ransomware rumble](https://www.theregister.com/2024/06/24/indonesia_datacenter_ransomware/)
 * [2024-06-25, 02:10:40](https://news.ycombinator.com/item?id=40783598) - [SIMD-accelerated computer vision on a $2 microcontroller](https://shraiwi.github.io/read.html?md=blog/simd-fast-esp32s3.md)
 * [2024-06-25, 02:03:45](https://news.ycombinator.com/item?id=40783553) - [Personal light exposure patterns and incidence of type 2 diabetes](https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(24)00110-8/fulltext)

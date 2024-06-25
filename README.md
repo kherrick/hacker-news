@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-25, 02:23:13](https://news.ycombinator.com/item?id=40783682) - [The Death of the Junior Developer](https://sourcegraph.com/blog/the-death-of-the-junior-developer)
 * [2024-06-25, 02:20:36](https://news.ycombinator.com/item?id=40783664) - [Indonesian government datacenter locked down in $8M ransomware rumble](https://www.theregister.com/2024/06/24/indonesia_datacenter_ransomware/)
 * [2024-06-25, 02:10:40](https://news.ycombinator.com/item?id=40783598) - [SIMD-accelerated computer vision on a $2 microcontroller](https://shraiwi.github.io/read.html?md=blog/simd-fast-esp32s3.md)
 * [2024-06-25, 02:03:45](https://news.ycombinator.com/item?id=40783553) - [Personal light exposure patterns and incidence of type 2 diabetes](https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(24)00110-8/fulltext)
 * [2024-06-25, 01:55:22](https://news.ycombinator.com/item?id=40783485) - [Twonkie: A USB-PD sniffer/injector/sink based on Google's Twinkie open hardware](https://github.com/dojoe/Twonkie)
 * [2024-06-25, 01:19:55](https://news.ycombinator.com/item?id=40783229) - [From 0/10 to 8/10: Microsoft Puts Repair Front and Center](https://www.ifixit.com/News/96998/from-0-10-to-8-10-microsoft-puts-repair-front-and-center)
 * [2024-06-25, 01:17:05](https://news.ycombinator.com/item?id=40783210) - [Ask HN: YouTube shutdown my account with private channel of my kids memories](https://news.ycombinator.com/item?id=40783210)
-* [2024-06-25, 00:56:27](https://news.ycombinator.com/item?id=40783049) - [Linear Algebra 101 for AI/ML](https://www.trybackprop.com/blog/linalg101/part_1_vectors_matrices_operations)
 * [2024-06-25, 00:40:02](https://news.ycombinator.com/item?id=40782932) - [Hackers 'jailbreak' powerful AI models in global effort to highlight flaws](https://www.ft.com/content/14a2c98b-c8d5-4e5b-a7b0-30f0a05ec432)
 * [2024-06-25, 00:25:58](https://news.ycombinator.com/item?id=40782818) - [Desperately Seeking Squircles](https://www.figma.com/blog/desperately-seeking-squircles/)
 * [2024-06-25, 00:23:02](https://news.ycombinator.com/item?id=40782791) - [The First Hedge Fund](https://commoncog.com/c/cases/aw-jones-hedge-fund/)
