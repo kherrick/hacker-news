@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-25, 13:12:10](https://news.ycombinator.com/item?id=40788172) - [Sun Machines](https://www.economist.com/interactive/essay/2024/06/20/solar-power-is-going-to-be-huge)
 * [2024-06-25, 13:01:12](https://news.ycombinator.com/item?id=40788049) - [We must seek a widely-applicable Science of Systems](https://www.hiranmay.xyz/blog/complex-systems)
 * [2024-06-25, 12:40:14](https://news.ycombinator.com/item?id=40787842) - [Microsoft charged with EU antitrust violations for bundling Teams](https://www.theverge.com/2024/6/25/24185467/microsoft-teams-eu-bundling-antitrust-violations)
 * [2024-06-25, 12:23:25](https://news.ycombinator.com/item?id=40787662) - [Private investigator sent to man's house for modifying legally purchased handbag [video]](https://www.youtube.com/watch?v=ZI037QiGRQI)
@@ -8,7 +9,6 @@
 * [2024-06-25, 11:51:34](https://news.ycombinator.com/item?id=40787349) - [Researchers run high-performing LLM on the energy needed to power a lightbulb](https://news.ucsc.edu/2024/06/matmul-free-llm.html)
 * [2024-06-25, 11:44:17](https://news.ycombinator.com/item?id=40787276) - [How GCC and Clang handle statically known undefined behaviour](https://diekmann.uk/blog/2024-06-25-statically-known-undefined-behaviour.html)
 * [2024-06-25, 11:39:13](https://news.ycombinator.com/item?id=40787222) - [What's up Python? Django get background tasks, a new REPL, bye bye gunicorn](https://www.bitecode.dev/p/whats-up-python-django-background)
-* [2024-06-25, 11:01:02](https://news.ycombinator.com/item?id=40786891) - [What everyone gets wrong about the 2015 Ashley Madison scandal](https://www.newscientist.com/article/mg26234952-100-what-everyone-gets-wrong-about-the-2015-ashley-madison-scandal/)
 * [2024-06-25, 10:31:34](https://news.ycombinator.com/item?id=40786703) - [Firefox 3rd Party Installer Campaign – Mozilla Community Portal](https://community.mozilla.org/en/campaigns/fx-3rd-party-installer/)
 * [2024-06-25, 10:22:13](https://news.ycombinator.com/item?id=40786644) - [Microsoft removes documentation for switching to a local account in Windows 11](https://arstechnica.com/gadgets/2024/06/microsoft-removes-documentation-for-switching-to-a-local-account-in-windows-11/)
 * [2024-06-25, 09:52:21](https://news.ycombinator.com/item?id=40786463) - [Count Binface](https://en.wikipedia.org/wiki/Count_Binface)
