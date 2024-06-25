@@ -84,6 +84,7 @@
 * [2024-06-20, 13:48:42](https://news.ycombinator.com/item?id=40738759) - [Eating cheese plays a role in healthy, happy aging – who are we to argue?](https://newatlas.com/health-wellbeing/cheese-happy-aging/)
 * [2024-06-20, 13:46:33](https://news.ycombinator.com/item?id=40738739) - [Show HN: Primeval Numbers](https://aravind.rs/numbers)
 * [2024-06-20, 13:25:52](https://news.ycombinator.com/item?id=40738534) - [Reconstructing Public Keys from Signatures](https://keymaterial.net/2024/06/15/reconstructing-public-keys-from-signatures/)
+* [2024-06-20, 13:02:55](https://news.ycombinator.com/item?id=40738297) - [Some Thoughts on AI Alignment: Using AI to Control AI](https://github.com/Dicklesworthstone/some_thoughts_on_ai_alignment)
 * [2024-06-20, 13:01:02](https://news.ycombinator.com/item?id=40738281) - [Canonical and Ubuntu Are Down](https://status.canonical.com)
 * [2024-06-20, 12:42:18](https://news.ycombinator.com/item?id=40738088) - [AdonisJS](https://adonisjs.com/)
 * [2024-06-20, 12:25:10](https://news.ycombinator.com/item?id=40737901) - [Show HN: Midday – Run your business smarter (open-source)](https://midday.ai)

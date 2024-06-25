@@ -1,16 +1,15 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-25, 16:28:45](https://news.ycombinator.com/item?id=40790481) - [Surface Laptop review: Microsoft's best MacBook Air competitor yet](https://www.theverge.com/2024/6/25/24185462/microsoft-surface-laptop-7th-edition-review)
-* [2024-06-25, 16:03:38](https://news.ycombinator.com/item?id=40790214) - [And Now Xylitol](https://www.science.org/content/blog-post/and-now-xylitol)
+* [2024-06-25, 17:00:00](https://news.ycombinator.com/item?id=40790859) - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=40790859)
+* [2024-06-25, 16:58:09](https://news.ycombinator.com/item?id=40790842) - [Sohu – first specialized chip (ASIC) for transformer models](https://twitter.com/Etched/status/1805625693113663834)
+* [2024-06-25, 16:22:45](https://news.ycombinator.com/item?id=40790414) - [Google no longer developing Material Web Components](https://github.com/material-components/material-web/discussions/5642)
 * [2024-06-25, 15:48:29](https://news.ycombinator.com/item?id=40790057) - [Chang'e 6 lunar sample return mission returns with samples from moon's far side](https://www.theguardian.com/world/article/2024/jun/25/chinas-change-6-lunar-probe-returns-world-first-samples-from-far-side-of-the-moon)
 * [2024-06-25, 15:36:09](https://news.ycombinator.com/item?id=40789919) - [Testing AMD's Giant MI300X](https://chipsandcheese.com/2024/06/25/testing-amds-giant-mi300x/)
 * [2024-06-25, 15:14:08](https://news.ycombinator.com/item?id=40789672) - [Show HN: I built a large JavaScript powered flipdisc display. Here's a guide](https://flipdisc.io/)
-* [2024-06-25, 15:02:43](https://news.ycombinator.com/item?id=40789513) - [New Research Finds Differences Between Male and Female Brains](https://www.psychologytoday.com/us/blog/sax-on-sex/202405/ai-finds-astonishing-malefemale-differences-in-human-brain)
 * [2024-06-25, 14:49:28](https://news.ycombinator.com/item?id=40789353) - [From Dotenv to Dotenvx: Next Generation Config Management](https://dotenvx.com/blog/2024/06/24/dotenvx-next-generation-config-management.html)
 * [2024-06-25, 14:36:29](https://news.ycombinator.com/item?id=40789191) - [Vintage Wooden Homes on Wheels: Photos of Mobile Living from Early 20th Century](https://rarehistoricalphotos.com/vintage-wooden-homes-on-wheels/)
 * [2024-06-25, 13:53:05](https://news.ycombinator.com/item?id=40788648) - [Show HN: Triplit – Open-source syncing database that runs on server and client](https://news.ycombinator.com/item?id=40788648)
 * [2024-06-25, 13:01:12](https://news.ycombinator.com/item?id=40788049) - [We must seek a widely-applicable science of systems](https://www.hiranmay.xyz/blog/complex-systems)
-* [2024-06-25, 11:44:17](https://news.ycombinator.com/item?id=40787276) - [How GCC and Clang handle statically known undefined behaviour](https://diekmann.uk/blog/2024-06-25-statically-known-undefined-behaviour.html)
 * [2024-06-25, 02:34:37](https://news.ycombinator.com/item?id=40783777) - [Researchers invent 100% biodegradable 'barley plastic'](https://phys.org/news/2024-06-biodegradable-barley-plastic.html)
 * [2024-06-25, 02:29:54](https://news.ycombinator.com/item?id=40783742) - [Wave activity on Titan strong enough to erode the coastlines of lakes and seas](https://phys.org/news/2024-06-titan-strong-erode-coastlines-lakes.html)
 * [2024-06-25, 02:10:40](https://news.ycombinator.com/item?id=40783598) - [SIMD-accelerated computer vision on a $2 microcontroller](https://shraiwi.github.io/read.html?md=blog/simd-fast-esp32s3.md)
@@ -30,6 +29,7 @@
 * [2024-06-23, 09:26:56](https://news.ycombinator.com/item?id=40765999) - [Remembering the LAN (2020)](https://tailscale.com/blog/remembering-the-lan)
 * [2024-06-23, 05:24:20](https://news.ycombinator.com/item?id=40765005) - [Why not parse `ls` and what to do instead](https://unix.stackexchange.com/questions/128985/why-not-parse-ls-and-what-to-do-instead)
 * [2024-06-21, 13:00:51](https://news.ycombinator.com/item?id=40749157) - [Quantum chemistry helps characterize coordination complex of elusive Element 61](https://www.ornl.gov/news/quantum-chemistry-and-simulation-help-characterize-coordination-complex-elusive-element-61)
+* [2024-06-20, 13:02:55](https://news.ycombinator.com/item?id=40738297) - [Some Thoughts on AI Alignment: Using AI to Control AI](https://github.com/Dicklesworthstone/some_thoughts_on_ai_alignment)
 
 ## [Archives](archives/index.md)
 
