@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-06-25, 14:59:20",
-      "https://news.ycombinator.com/item?id=40789466"
-    ],
-    [
-      "TikTok shows different people different comment sections",
-      "https://twitter.com/julesterpak/status/1794558327050953133"
-    ]
-  ],
-  [
-    [
       "2024-06-25, 14:54:22",
       "https://news.ycombinator.com/item?id=40789411"
     ],
@@ -37,16 +27,6 @@
     [
       "From Dotenv to Dotenvx: Next Generation Config Management",
       "https://dotenvx.com/blog/2024/06/24/dotenvx-next-generation-config-management.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-25, 14:42:06",
-      "https://news.ycombinator.com/item?id=40789259"
-    ],
-    [
-      "Tesla \"donated\" 12,000 Nvidia H100 to X",
-      "https://www.morningstar.com/news/marketwatch/20240604785/elon-musk-confirms-reallocating-thousands-of-nvidia-ai-chips-from-tesla"
     ]
   ],
   [
@@ -171,6 +151,16 @@
   ],
   [
     [
+      "2024-06-24, 22:44:30",
+      "https://news.ycombinator.com/item?id=40781894"
+    ],
+    [
+      "Show HN: Qq: like jq, but can transcode between many formats",
+      "https://github.com/JFryy/qq"
+    ]
+  ],
+  [
+    [
       "2024-06-24, 22:38:31",
       "https://news.ycombinator.com/item?id=40781838"
     ],
@@ -287,6 +277,16 @@
     [
       "Why not parse `ls` and what to do instead",
       "https://unix.stackexchange.com/questions/128985/why-not-parse-ls-and-what-to-do-instead"
+    ]
+  ],
+  [
+    [
+      "2024-06-23, 04:13:42",
+      "https://news.ycombinator.com/item?id=40764736"
+    ],
+    [
+      "Hans Hollein: Everything Is Architecture",
+      "https://designmanifestos.org/hans-hollein-everything-is-architecture/"
     ]
   ],
   [
