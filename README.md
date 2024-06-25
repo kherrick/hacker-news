@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-25, 05:23:55](https://news.ycombinator.com/item?id=40784778) - [NOFX to retire after final tour without ever having had a job](https://www.nytimes.com/2024/06/18/style/nofx-farewell-tour.html)
 * [2024-06-25, 02:34:37](https://news.ycombinator.com/item?id=40783777) - [Researchers invent 100% biodegradable 'barley plastic'](https://phys.org/news/2024-06-biodegradable-barley-plastic.html)
 * [2024-06-25, 02:29:54](https://news.ycombinator.com/item?id=40783742) - [Wave activity on Titan strong enough to erode the coastlines of lakes and seas](https://phys.org/news/2024-06-titan-strong-erode-coastlines-lakes.html)
 * [2024-06-25, 02:20:36](https://news.ycombinator.com/item?id=40783664) - [Indonesian government datacenter locked down in $8M ransomware rumble](https://www.theregister.com/2024/06/24/indonesia_datacenter_ransomware/)
@@ -25,7 +26,6 @@
 * [2024-06-24, 05:58:41](https://news.ycombinator.com/item?id=40772955) - [Resilient Sync for Local First](https://holtwick.de/en/blog/localfirst-resilient-sync)
 * [2024-06-24, 03:35:40](https://news.ycombinator.com/item?id=40772495) - [Weighing Up Galileo's Evidence](https://www.historytoday.com/archive/great-debates/weighing-galileos-evidence)
 * [2024-06-23, 19:20:53](https://news.ycombinator.com/item?id=40769882) - [Porting Python to a $3 smartwatch [video]](https://www.youtube.com/watch?v=sv58aPvIonw)
-* [2024-06-23, 17:24:33](https://news.ycombinator.com/item?id=40769006) - [First we shape our social graph, then it shapes us (2022)](https://www.henrikkarlsson.xyz/p/first-we-shape-our-social-graph-then)
 * [2024-06-23, 12:08:22](https://news.ycombinator.com/item?id=40766833) - [The Origin of Jupiter's Great Red Spot](https://arxiv.org/abs/2406.13222)
 * [2024-06-23, 06:56:48](https://news.ycombinator.com/item?id=40765294) - [What scripting languages come out of the box on Debian 12?](https://hiandrewquinn.github.io/til-site/posts/what-programming-languages-come-out-of-the-box-on-debian-12/)
 * [2024-06-23, 04:13:42](https://news.ycombinator.com/item?id=40764736) - [Hans Hollein: Everything Is Architecture](https://designmanifestos.org/hans-hollein-everything-is-architecture/)
