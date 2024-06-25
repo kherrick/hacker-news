@@ -8,6 +8,7 @@
 * [2024-06-25, 13:12:10](https://news.ycombinator.com/item?id=40788172) - [Sun Machines](https://www.economist.com/interactive/essay/2024/06/20/solar-power-is-going-to-be-huge)
 * [2024-06-25, 13:01:12](https://news.ycombinator.com/item?id=40788049) - [We must seek a widely-applicable Science of Systems](https://www.hiranmay.xyz/blog/complex-systems)
 * [2024-06-25, 12:40:14](https://news.ycombinator.com/item?id=40787842) - [Microsoft charged with EU antitrust violations for bundling Teams](https://www.theverge.com/2024/6/25/24185467/microsoft-teams-eu-bundling-antitrust-violations)
+* [2024-06-25, 12:37:03](https://news.ycombinator.com/item?id=40787805) - [Biangbiang Noodles](https://en.wikipedia.org/wiki/Biangbiang_noodles)
 * [2024-06-25, 12:30:13](https://news.ycombinator.com/item?id=40787733) - [Don Quixote's Fried Eggs: Purpose of a System Is What It Does](https://www.population.fyi/p/don-quixotes-fried-eggs-the-purpose)
 * [2024-06-25, 12:23:25](https://news.ycombinator.com/item?id=40787662) - [Private investigator sent to man's house for modifying legally purchased handbag [video]](https://www.youtube.com/watch?v=ZI037QiGRQI)
 * [2024-06-25, 12:12:10](https://news.ycombinator.com/item?id=40787533) - [EU Commission Issues Objections to Microsoft over Teams Tying Practices](https://ec.europa.eu/commission/presscorner/detail/en/ip_24_3446)
