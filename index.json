@@ -1,22 +1,32 @@
 [
   [
     [
-      "2024-06-25, 16:28:45",
-      "https://news.ycombinator.com/item?id=40790481"
+      "2024-06-25, 17:00:00",
+      "https://news.ycombinator.com/item?id=40790859"
     ],
     [
-      "Surface Laptop review: Microsoft's best MacBook Air competitor yet",
-      "https://www.theverge.com/2024/6/25/24185462/microsoft-surface-laptop-7th-edition-review"
+      "Meticulous (YC S21) is hiring to eliminate E2E UI tests",
+      "https://news.ycombinator.com/item?id=40790859"
     ]
   ],
   [
     [
-      "2024-06-25, 16:03:38",
-      "https://news.ycombinator.com/item?id=40790214"
+      "2024-06-25, 16:58:09",
+      "https://news.ycombinator.com/item?id=40790842"
     ],
     [
-      "And Now Xylitol",
-      "https://www.science.org/content/blog-post/and-now-xylitol"
+      "Sohu – first specialized chip (ASIC) for transformer models",
+      "https://twitter.com/Etched/status/1805625693113663834"
+    ]
+  ],
+  [
+    [
+      "2024-06-25, 16:22:45",
+      "https://news.ycombinator.com/item?id=40790414"
+    ],
+    [
+      "Google no longer developing Material Web Components",
+      "https://github.com/material-components/material-web/discussions/5642"
     ]
   ],
   [
@@ -47,16 +57,6 @@
     [
       "Show HN: I built a large JavaScript powered flipdisc display. Here's a guide",
       "https://flipdisc.io/"
-    ]
-  ],
-  [
-    [
-      "2024-06-25, 15:02:43",
-      "https://news.ycombinator.com/item?id=40789513"
-    ],
-    [
-      "New Research Finds Differences Between Male and Female Brains",
-      "https://www.psychologytoday.com/us/blog/sax-on-sex/202405/ai-finds-astonishing-malefemale-differences-in-human-brain"
     ]
   ],
   [
@@ -97,16 +97,6 @@
     [
       "We must seek a widely-applicable science of systems",
       "https://www.hiranmay.xyz/blog/complex-systems"
-    ]
-  ],
-  [
-    [
-      "2024-06-25, 11:44:17",
-      "https://news.ycombinator.com/item?id=40787276"
-    ],
-    [
-      "How GCC and Clang handle statically known undefined behaviour",
-      "https://diekmann.uk/blog/2024-06-25-statically-known-undefined-behaviour.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Quantum chemistry helps characterize coordination complex of elusive Element 61",
       "https://www.ornl.gov/news/quantum-chemistry-and-simulation-help-characterize-coordination-complex-elusive-element-61"
+    ]
+  ],
+  [
+    [
+      "2024-06-20, 13:02:55",
+      "https://news.ycombinator.com/item?id=40738297"
+    ],
+    [
+      "Some Thoughts on AI Alignment: Using AI to Control AI",
+      "https://github.com/Dicklesworthstone/some_thoughts_on_ai_alignment"
     ]
   ]
 ]
