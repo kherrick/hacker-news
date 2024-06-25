@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-25, 11:23:31",
+      "https://news.ycombinator.com/item?id=40787083"
+    ],
+    [
+      "Israeli Supreme Court says ultra-Orthodox must serve in military",
+      "https://abcnews.go.com/International/wireStory/israeli-supreme-court-ultra-orthodox-serve-military-111394436"
+    ]
+  ],
+  [
+    [
+      "2024-06-25, 11:22:08",
+      "https://news.ycombinator.com/item?id=40787072"
+    ],
+    [
+      "AI discovers new rare-earth-free magnet at 200 times the speed of man",
+      "https://newatlas.com/materials/ai-rare-earth-free-magnet-discovery/"
+    ]
+  ],
+  [
+    [
       "2024-06-25, 11:01:02",
       "https://news.ycombinator.com/item?id=40786891"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2024-06-24, 23:06:22",
-      "https://news.ycombinator.com/item?id=40782101"
-    ],
-    [
-      "MTV news website goes dark, archives pulled offline",
-      "https://variety.com/2024/digital/news/mtv-news-website-archives-pulled-offline-1236047163/"
-    ]
-  ],
-  [
-    [
       "2024-06-24, 22:38:31",
       "https://news.ycombinator.com/item?id=40781838"
     ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2024-06-24, 21:00:35",
-      "https://news.ycombinator.com/item?id=40780712"
-    ],
-    [
-      "Finley (YC W21) is hiring our first Sales Ops team member (SF, NY, Remote)",
-      "https://jobs.lever.co/FinleyTechnologies/ef9b46ab-6c97-4401-b7d1-8535c262f246"
-    ]
-  ],
-  [
-    [
       "2024-06-24, 20:59:28",
       "https://news.ycombinator.com/item?id=40780696"
     ],
@@ -217,16 +217,6 @@
     [
       "The case for not sanitising fairy tales",
       "https://www.plough.com/en/topics/culture/literature/the-case-for-not-sanitizing-fairy-tales"
-    ]
-  ],
-  [
-    [
-      "2024-06-24, 19:35:29",
-      "https://news.ycombinator.com/item?id=40779780"
-    ],
-    [
-      "Indonesia’s Emergence",
-      "https://insidestory.org.au/brutal-birth/"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Remembering the LAN",
       "https://tailscale.com/blog/remembering-the-lan"
+    ]
+  ],
+  [
+    [
+      "2024-06-23, 05:24:20",
+      "https://news.ycombinator.com/item?id=40765005"
+    ],
+    [
+      "Why not parse `ls` and what to do instead",
+      "https://unix.stackexchange.com/questions/128985/why-not-parse-ls-and-what-to-do-instead"
     ]
   ]
 ]
