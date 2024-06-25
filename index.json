@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-25, 16:03:38",
+      "https://news.ycombinator.com/item?id=40790214"
+    ],
+    [
+      "And Now Xylitol",
+      "https://www.science.org/content/blog-post/and-now-xylitol"
+    ]
+  ],
+  [
+    [
+      "2024-06-25, 15:48:29",
+      "https://news.ycombinator.com/item?id=40790057"
+    ],
+    [
+      "Chang'e 6 lunar sample return mission returns with samples from moon's far side",
+      "https://www.theguardian.com/world/article/2024/jun/25/chinas-change-6-lunar-probe-returns-world-first-samples-from-far-side-of-the-moon"
+    ]
+  ],
+  [
+    [
       "2024-06-25, 15:36:09",
       "https://news.ycombinator.com/item?id=40789919"
     ],
@@ -17,16 +37,6 @@
     [
       "Show HN: I built a large JavaScript powered flipdisc display. Here's a guide",
       "https://flipdisc.io/http://localhost:4321/"
-    ]
-  ],
-  [
-    [
-      "2024-06-25, 15:07:41",
-      "https://news.ycombinator.com/item?id=40789578"
-    ],
-    [
-      "Israeli documents show expansive government effort to shape US discourse",
-      "https://www.theguardian.com/world/article/2024/jun/24/israel-fund-us-university-protest-gaza-antisemitism"
     ]
   ],
   [
@@ -67,16 +77,6 @@
     [
       "How GCC and Clang handle statically known undefined behaviour",
       "https://diekmann.uk/blog/2024-06-25-statically-known-undefined-behaviour.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-25, 09:47:10",
-      "https://news.ycombinator.com/item?id=40786425"
-    ],
-    [
-      "Local First, Forever",
-      "https://tonsky.me/blog/crdt-filesync/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2024-06-22, 11:35:13",
-      "https://news.ycombinator.com/item?id=40758241"
+      "2024-06-21, 13:00:51",
+      "https://news.ycombinator.com/item?id=40749157"
     ],
     [
-      "Tachyonfx: A library for creating shader-like effects in terminal UIs",
-      "https://github.com/junkdog/tachyonfx"
+      "Quantum chemistry helps characterize coordination complex of elusive Element 61",
+      "https://www.ornl.gov/news/quantum-chemistry-and-simulation-help-characterize-coordination-complex-elusive-element-61"
     ]
   ]
 ]
