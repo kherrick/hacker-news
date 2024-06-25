@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-25, 21:00:06](https://news.ycombinator.com/item?id=40793540) - [Supabase (YC S20) Is Hiring Postgres SREs](https://boards.greenhouse.io/supabase/jobs/5162509004)
+* [2024-06-25, 20:26:49](https://news.ycombinator.com/item?id=40793192) - [Rabbit R1s break after elevenlabs key revoked](https://twitter.com/xyz3va/status/1805689140639408277)
 * [2024-06-25, 20:24:44](https://news.ycombinator.com/item?id=40793174) - [Volkswagen to invest up to $5B in Rivian](https://www.reuters.com/business/autos-transportation/volkswagen-invest-up-5-billion-rivian-part-tech-joint-venture-2024-06-25/)
 * [2024-06-25, 19:45:08](https://news.ycombinator.com/item?id=40792740) - [Fixing QuickLook (2023)](https://foon.uk/fixing-quicklook/)
 * [2024-06-25, 18:27:30](https://news.ycombinator.com/item?id=40791829) - [Polyfill supply chain attack hits 100K+ sites](https://sansec.io/research/polyfill-supply-chain-attack)
@@ -16,7 +17,6 @@
 * [2024-06-25, 04:23:19](https://news.ycombinator.com/item?id=40784459) - [Stalin, Eisenstein, Walt Disney and Ivan the Terrible (1992)](https://www.cliomuse.com/stalin-disney-eisenstein--ivan-the-terrible.html)
 * [2024-06-25, 02:29:54](https://news.ycombinator.com/item?id=40783742) - [Wave activity on Titan strong enough to erode the coastlines of lakes and seas](https://phys.org/news/2024-06-titan-strong-erode-coastlines-lakes.html)
 * [2024-06-25, 02:10:40](https://news.ycombinator.com/item?id=40783598) - [SIMD-accelerated computer vision on a $2 microcontroller](https://shraiwi.github.io/read.html?md=blog/simd-fast-esp32s3.md)
-* [2024-06-25, 01:55:22](https://news.ycombinator.com/item?id=40783485) - [Twonkie: A USB-PD sniffer/injector/sink based on Google's Twinkie open hardware](https://github.com/dojoe/Twonkie)
 * [2024-06-24, 23:10:07](https://news.ycombinator.com/item?id=40782130) - [Julian Assange has reached a plea deal with the U.S., allowing him to go free](https://www.nbcnews.com/politics/justice-department/julian-assange-reached-plea-deal-us-allowing-go-free-rcna158695)
 * [2024-06-24, 22:13:46](https://news.ycombinator.com/item?id=40781573) - [Spy, Accomplice, Ghostwriter](https://insidestory.org.au/spy-accomplice-ghostwriter/)
 * [2024-06-24, 17:23:28](https://news.ycombinator.com/item?id=40778594) - [More Memory Safety for Let's Encrypt: Deploying ntpd-rs](https://letsencrypt.org/2024/06/24/ntpd-rs-deployment.html)
