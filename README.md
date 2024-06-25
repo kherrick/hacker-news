@@ -20,7 +20,6 @@
 * [2024-06-24, 20:59:28](https://news.ycombinator.com/item?id=40780696) - [MIME, RSS, and Existential Torment](https://xeiaso.net/blog/2024/fixing-rss-mailcap/)
 * [2024-06-24, 19:35:52](https://news.ycombinator.com/item?id=40779785) - [The case for not sanitising fairy tales](https://www.plough.com/en/topics/culture/literature/the-case-for-not-sanitizing-fairy-tales)
 * [2024-06-24, 19:35:29](https://news.ycombinator.com/item?id=40779780) - [Indonesia’s Emergence](https://insidestory.org.au/brutal-birth/)
-* [2024-06-24, 19:20:39](https://news.ycombinator.com/item?id=40779658) - [Komorebi: Tiling Window Management for Windows](https://github.com/LGUG2Z/komorebi)
 * [2024-06-24, 17:23:28](https://news.ycombinator.com/item?id=40778594) - [More Memory Safety for Let's Encrypt: Deploying ntpd-rs](https://letsencrypt.org/2024/06/24/ntpd-rs-deployment.html)
 * [2024-06-24, 06:29:39](https://news.ycombinator.com/item?id=40773056) - [The Triumph of Counting and Scripting](https://slate.com/life/2024/06/doctors-teachers-dissatisfaction-tracking-charting-jobs.html)
 * [2024-06-24, 05:58:41](https://news.ycombinator.com/item?id=40772955) - [Resilient Sync for Local First](https://holtwick.de/en/blog/localfirst-resilient-sync)
@@ -29,6 +28,7 @@
 * [2024-06-23, 19:20:53](https://news.ycombinator.com/item?id=40769882) - [Porting Python to a $3 smartwatch [video]](https://www.youtube.com/watch?v=sv58aPvIonw)
 * [2024-06-23, 12:08:22](https://news.ycombinator.com/item?id=40766833) - [The Origin of Jupiter's Great Red Spot](https://arxiv.org/abs/2406.13222)
 * [2024-06-23, 06:56:48](https://news.ycombinator.com/item?id=40765294) - [What scripting languages come out of the box on Debian 12?](https://hiandrewquinn.github.io/til-site/posts/what-programming-languages-come-out-of-the-box-on-debian-12/)
+* [2024-06-23, 04:13:42](https://news.ycombinator.com/item?id=40764736) - [Hans Hollein: Everything Is Architecture](https://designmanifestos.org/hans-hollein-everything-is-architecture/)
 * [2024-06-22, 11:35:13](https://news.ycombinator.com/item?id=40758241) - [Tachyonfx: A library for creating shader-like effects in terminal UIs](https://github.com/junkdog/tachyonfx)
 
 ## [Archives](archives/index.md)
