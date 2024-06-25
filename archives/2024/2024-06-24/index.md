@@ -79,6 +79,7 @@
 * [2024-06-24, 08:56:08](https://news.ycombinator.com/item?id=40773806) - [Commission opens additional DMA investigation against Apple](https://ec.europa.eu/commission/presscorner/detail/en/ip_24_3433)
 * [2024-06-24, 08:45:20](https://news.ycombinator.com/item?id=40773749) - [CentOS Linux 7 will reach EOL on Sunday](https://www.redhat.com/en/topics/linux/centos-linux-eol)
 * [2024-06-24, 07:29:56](https://news.ycombinator.com/item?id=40773354) - [Windows File Explorer will be more powerful with version control and 7z](https://www.theverge.com/2024/5/21/24161785/microsoft-windows-file-explorer-version-control-7z-tar)
+* [2024-06-24, 07:26:12](https://news.ycombinator.com/item?id=40773331) - [Psion: The Last Computer](https://www.theregister.com/2007/06/26/psion_special/)
 * [2024-06-24, 06:53:04](https://news.ycombinator.com/item?id=40773151) - [US prosecutors recommend Justice Department criminally charge Boeing](https://www.voanews.com/a/us-prosecutors-recommend-justice-department-criminally-charge-boeing-as-deadline-looms/7667194.html)
 * [2024-06-24, 06:50:00](https://news.ycombinator.com/item?id=40773139) - [Cosmopolitan v3.5.0](https://github.com/jart/cosmopolitan/releases/tag/3.5.0)
 * [2024-06-24, 06:49:23](https://news.ycombinator.com/item?id=40773136) - [Apple's Silicon Fab Next to Homes](https://www.ashleygjovik.com/3250scott.html)
