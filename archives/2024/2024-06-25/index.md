@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-06-25](index.md)
 
+* [2024-06-25, 12:40:14](https://news.ycombinator.com/item?id=40787842) - [Microsoft charged with EU antitrust violations for bundling Teams](https://www.theverge.com/2024/6/25/24185467/microsoft-teams-eu-bundling-antitrust-violations)
+* [2024-06-25, 12:23:25](https://news.ycombinator.com/item?id=40787662) - [Private investigator sent to man's house for modifying legally purchased handbag [video]](https://www.youtube.com/watch?v=ZI037QiGRQI)
+* [2024-06-25, 12:12:10](https://news.ycombinator.com/item?id=40787533) - [EU Commission Issues Objections to Microsoft over Teams Tying Practices](https://ec.europa.eu/commission/presscorner/detail/en/ip_24_3446)
+* [2024-06-25, 11:52:50](https://news.ycombinator.com/item?id=40787370) - [ICC judges issue arrest warrants against Shoigu and Gerasimov](https://www.icc-cpi.int/news/situation-ukraine-icc-judges-issue-arrest-warrants-against-sergei-kuzhugetovich-shoigu-and)
 * [2024-06-25, 11:51:34](https://news.ycombinator.com/item?id=40787349) - [Researchers run high-performing LLM on the energy needed to power a lightbulb](https://news.ucsc.edu/2024/06/matmul-free-llm.html)
 * [2024-06-25, 11:44:17](https://news.ycombinator.com/item?id=40787276) - [GCC and Clang handle statically known undefined behaviour](https://diekmann.uk/blog/2024-06-25-statically-known-undefined-behaviour.html)
 * [2024-06-25, 11:42:11](https://news.ycombinator.com/item?id=40787255) - [A Day Job Is So Much Easier Than Entrepreneurship](https://www.financialsamurai.com/a-day-job-is-so-much-easier-than-entrepreneurship/)
