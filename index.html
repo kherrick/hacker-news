@@ -141,11 +141,11 @@
             <h4>
               <span>2024-06-25 @ 16:03:38</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">64</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40790214"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -163,11 +163,11 @@
             <h4>
               <span>2024-06-25 @ 15:48:29</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">35</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40790057"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 5</span></span
               >
             </h4>
           </section>
@@ -184,11 +184,11 @@
             <h4>
               <span>2024-06-25 @ 15:36:09</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">54</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40789919"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 22</span></span
               >
             </h4>
           </section>
@@ -204,11 +204,11 @@
             <h4>
               <span>2024-06-25 @ 15:14:08</span
               ><span class="points-container"
-                >Points: <span class="points">62</span></span
+                >Points: <span class="points">69</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40789672"
                   >Comments</a
-                ><span class="descendants">: 25</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -225,11 +225,11 @@
             <h4>
               <span>2024-06-25 @ 14:49:28</span
               ><span class="points-container"
-                >Points: <span class="points">75</span></span
+                >Points: <span class="points">82</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40789353"
                   >Comments</a
-                ><span class="descendants">: 42</span></span
+                ><span class="descendants">: 44</span></span
               >
             </h4>
           </section>
@@ -256,6 +256,110 @@
             </h4>
           </section>
         </section>
+        <section id="40788648">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=40788648"
+              >Show HN: Triplit – Open-source syncing database that runs on
+              server and client</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-06-25 @ 13:53:05</span
+              ><span class="points-container"
+                >Points: <span class="points">10</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40788648"
+                  >Comments</a
+                ><span class="descendants">: 4</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://www.triplit.dev">https://www.triplit.dev</a>).
+              Triplit is an open-source database (<a
+                href="https://github.com/aspen-cloud/triplit"
+                >https://github.com/aspen-cloud/triplit</a
+              >) that combines a server-side database, client-side cache, and a
+              sync engine into one cohesive product. You can try it out with a
+              new project by running:
+              <p></p>
+              <pre><code>  (npm|bun|yarn) create triplit-app
+</code></pre>
+              As a team, we’ve worked on several projects that aspired to the
+              user experience of Linear or Superhuman, where every interaction
+              feels instant like a native app while still having the
+              collaborative and syncing features we expect from the web.
+              Delivering this level of UX was incredibly challenging. In each
+              app we built, we had to implement a local caching strategy, keep
+              the cache up to date with optimistic writes, individually handle
+              retries and rollbacks from failures, and do a lot of codegen to
+              get Typescript to work properly. This was spread across multiple
+              libraries and infrastructure providers and required constant
+              maintenance.
+              <p>
+                We finally decided to build the system we always wanted. Triplit
+                enables your app to work offline and sync in real-time over
+                websockets with an enjoyable developer experience.
+              </p>
+              <p>
+                Triplit lets you (1) define your schema in Typescript and simply
+                push to the server without writing migration files; (2) write
+                queries that automatically update in real-time to both remote
+                changes from the server and optimistic local mutations on the
+                client—with complete Typescript types; (3) run the whole stack
+                locally without having to run a bunch of Docker containers.
+              </p>
+              <p>
+                One interesting challenge of building a system like this is
+                enabling partial replication and incremental query evaluation.
+                In order to make loading times as fast as possible, Triplit will
+                only fetch the minimal required data from the server to fulfill
+                a specific query and then send granular updates to that client.
+                This differs from other systems which either sync all of a
+                user’s data (too slow for web apps) or repeatedly fetch the
+                query to simulate a subscription (which bogs down your database
+                and network bandwidth).
+              </p>
+              <p>
+                If you’re familiar with the complexity of cache-invalidation and
+                syncing, you’ll know that Triplit is operating firmly in the
+                distributed systems space. We did a lot of research and settled
+                on a local first approach that uses a fairly simple CRDT
+                (conflict-free replicated data type) that allows each client to
+                work offline and guarantees that they will converge to a
+                consistent state when syncing. It works by treating each
+                attribute of an entity as a last writer wins register. Compared
+                to more complex strategies, this approach ends up being faster
+                and doesn’t require additional logic to handle conflicting edits
+                between concurrent writers. It’s similar to the strategy Figma
+                uses for their collaborative editor.
+              </p>
+              <p>
+                You can add Triplit to an existing project by installing the
+                client NPM package. You may self-host the Triplit Server or pay
+                us to manage an instance for you. One cool part is that whether
+                you choose to self-host or deploy on Triplit Cloud, you can
+                still use our Dashboard to configure your database or
+                interactively manage your data in the Triplit Console, a
+                spreadsheet-like GUI.
+              </p>
+              <p>
+                In the future, we plan to add APIs for authentication, file
+                uploads, and presence to create a Supabase/Firebase-like
+                experience.
+              </p>
+              <p>
+                You can get started by going to
+                <a href="https://triplit.dev">https://triplit.dev</a> or find us
+                on Github
+                <a href="https://github.com/aspen-cloud/triplit"
+                  >https://github.com/aspen-cloud/triplit</a
+                >. Thanks for checking us out and we are looking forward to your
+                feedback in the comments!
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="40788049">
           <h3>
             <a class="item" href="https://www.hiranmay.xyz/blog/complex-systems"
@@ -266,11 +370,11 @@
             <h4>
               <span>2024-06-25 @ 13:01:12</span
               ><span class="points-container"
-                >Points: <span class="points">66</span></span
+                >Points: <span class="points">70</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40788049"
                   >Comments</a
-                ><span class="descendants">: 43</span></span
+                ><span class="descendants">: 44</span></span
               >
             </h4>
           </section>
@@ -287,11 +391,11 @@
             <h4>
               <span>2024-06-25 @ 11:44:17</span
               ><span class="points-container"
-                >Points: <span class="points">100</span></span
+                >Points: <span class="points">101</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40787276"
                   >Comments</a
-                ><span class="descendants">: 107</span></span
+                ><span class="descendants">: 110</span></span
               >
             </h4>
           </section>
@@ -308,11 +412,11 @@
             <h4>
               <span>2024-06-25 @ 02:34:37</span
               ><span class="points-container"
-                >Points: <span class="points">174</span></span
+                >Points: <span class="points">176</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40783777"
                   >Comments</a
-                ><span class="descendants">: 129</span></span
+                ><span class="descendants">: 134</span></span
               >
             </h4>
           </section>
@@ -330,11 +434,11 @@
             <h4>
               <span>2024-06-25 @ 02:29:54</span
               ><span class="points-container"
-                >Points: <span class="points">116</span></span
+                >Points: <span class="points">119</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40783742"
                   >Comments</a
-                ><span class="descendants">: 30</span></span
+                ><span class="descendants">: 31</span></span
               >
             </h4>
           </section>
@@ -351,7 +455,7 @@
             <h4>
               <span>2024-06-25 @ 02:10:40</span
               ><span class="points-container"
-                >Points: <span class="points">240</span></span
+                >Points: <span class="points">242</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40783598"
                   >Comments</a
@@ -392,11 +496,11 @@
             <h4>
               <span>2024-06-25 @ 01:19:55</span
               ><span class="points-container"
-                >Points: <span class="points">200</span></span
+                >Points: <span class="points">201</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40783229"
                   >Comments</a
-                ><span class="descendants">: 119</span></span
+                ><span class="descendants">: 124</span></span
               >
             </h4>
           </section>
@@ -435,32 +539,11 @@
             <h4>
               <span>2024-06-24 @ 23:10:07</span
               ><span class="points-container"
-                >Points: <span class="points">2104</span></span
+                >Points: <span class="points">2120</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40782130"
                   >Comments</a
-                ><span class="descendants">: 1012</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="40782101">
-          <h3>
-            <a
-              class="item"
-              href="https://variety.com/2024/digital/news/mtv-news-website-archives-pulled-offline-1236047163/"
-              >MTV news website goes dark, archives pulled offline</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-06-24 @ 23:06:22</span
-              ><span class="points-container"
-                >Points: <span class="points">186</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40782101"
-                  >Comments</a
-                ><span class="descendants">: 127</span></span
+                ><span class="descendants">: 1029</span></span
               >
             </h4>
           </section>
@@ -475,7 +558,7 @@
             <h4>
               <span>2024-06-24 @ 22:44:30</span
               ><span class="points-container"
-                >Points: <span class="points">43</span></span
+                >Points: <span class="points">45</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40781894"
                   >Comments</a
@@ -503,11 +586,11 @@
             <h4>
               <span>2024-06-24 @ 22:38:31</span
               ><span class="points-container"
-                >Points: <span class="points">359</span></span
+                >Points: <span class="points">361</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40781838"
                   >Comments</a
-                ><span class="descendants">: 147</span></span
+                ><span class="descendants">: 148</span></span
               >
             </h4>
           </section>
@@ -524,7 +607,7 @@
             <h4>
               <span>2024-06-24 @ 21:17:02</span
               ><span class="points-container"
-                >Points: <span class="points">112</span></span
+                >Points: <span class="points">114</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40780908"
                   >Comments</a
@@ -588,7 +671,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40779785"
                   >Comments</a
-                ><span class="descendants">: 257</span></span
+                ><span class="descendants">: 258</span></span
               >
             </h4>
           </section>
@@ -605,7 +688,7 @@
             <h4>
               <span>2024-06-24 @ 17:23:28</span
               ><span class="points-container"
-                >Points: <span class="points">281</span></span
+                >Points: <span class="points">283</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40778594"
                   >Comments</a
@@ -647,7 +730,7 @@
             <h4>
               <span>2024-06-24 @ 05:58:41</span
               ><span class="points-container"
-                >Points: <span class="points">124</span></span
+                >Points: <span class="points">125</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40772955"
                   >Comments</a
@@ -669,11 +752,11 @@
             <h4>
               <span>2024-06-24 @ 05:24:44</span
               ><span class="points-container"
-                >Points: <span class="points">35</span></span
+                >Points: <span class="points">39</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40772831"
                   >Comments</a
-                ><span class="descendants">: 10</span></span
+                ><span class="descendants">: 11</span></span
               >
             </h4>
           </section>
@@ -709,7 +792,7 @@
             <h4>
               <span>2024-06-23 @ 09:26:56</span
               ><span class="points-container"
-                >Points: <span class="points">101</span></span
+                >Points: <span class="points">105</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40765999"
                   >Comments</a
@@ -730,11 +813,11 @@
             <h4>
               <span>2024-06-23 @ 05:24:20</span
               ><span class="points-container"
-                >Points: <span class="points">93</span></span
+                >Points: <span class="points">94</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40765005"
                   >Comments</a
-                ><span class="descendants">: 118</span></span
+                ><span class="descendants">: 120</span></span
               >
             </h4>
           </section>
@@ -752,7 +835,7 @@
             <h4>
               <span>2024-06-21 @ 13:00:51</span
               ><span class="points-container"
-                >Points: <span class="points">5</span></span
+                >Points: <span class="points">6</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40749157"
                   >Comments</a
