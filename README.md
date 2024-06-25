@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-25, 09:17:08](https://news.ycombinator.com/item?id=40786237) - [Not all 'open source' AI models are open: here's a ranking](https://www.nature.com/articles/d41586-024-02012-5)
 * [2024-06-25, 05:23:55](https://news.ycombinator.com/item?id=40784778) - [NOFX to retire after final tour without ever having had a job](https://www.nytimes.com/2024/06/18/style/nofx-farewell-tour.html)
 * [2024-06-25, 02:34:37](https://news.ycombinator.com/item?id=40783777) - [Researchers invent 100% biodegradable 'barley plastic'](https://phys.org/news/2024-06-biodegradable-barley-plastic.html)
 * [2024-06-25, 02:29:54](https://news.ycombinator.com/item?id=40783742) - [Wave activity on Titan strong enough to erode the coastlines of lakes and seas](https://phys.org/news/2024-06-titan-strong-erode-coastlines-lakes.html)
@@ -19,7 +20,6 @@
 * [2024-06-24, 20:59:28](https://news.ycombinator.com/item?id=40780696) - [MIME, RSS, and Existential Torment](https://xeiaso.net/blog/2024/fixing-rss-mailcap/)
 * [2024-06-24, 19:35:52](https://news.ycombinator.com/item?id=40779785) - [The case for not sanitising fairy tales](https://www.plough.com/en/topics/culture/literature/the-case-for-not-sanitizing-fairy-tales)
 * [2024-06-24, 19:35:29](https://news.ycombinator.com/item?id=40779780) - [Indonesia’s Emergence](https://insidestory.org.au/brutal-birth/)
-* [2024-06-24, 19:20:39](https://news.ycombinator.com/item?id=40779658) - [Komorebi: Tiling Window Management for Windows](https://github.com/LGUG2Z/komorebi)
 * [2024-06-24, 17:23:28](https://news.ycombinator.com/item?id=40778594) - [More Memory Safety for Let's Encrypt: Deploying ntpd-rs](https://letsencrypt.org/2024/06/24/ntpd-rs-deployment.html)
 * [2024-06-24, 06:29:39](https://news.ycombinator.com/item?id=40773056) - [The Triumph of Counting and Scripting](https://slate.com/life/2024/06/doctors-teachers-dissatisfaction-tracking-charting-jobs.html)
 * [2024-06-24, 05:58:41](https://news.ycombinator.com/item?id=40772955) - [Resilient Sync for Local First](https://holtwick.de/en/blog/localfirst-resilient-sync)
