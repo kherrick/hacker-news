@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-25](index.md)
 
+* [2024-06-25, 16:03:38](https://news.ycombinator.com/item?id=40790214) - [And Now Xylitol](https://www.science.org/content/blog-post/and-now-xylitol)
+* [2024-06-25, 15:48:29](https://news.ycombinator.com/item?id=40790057) - [Chang'e 6 lunar sample return mission returns with samples from moon's far side](https://www.theguardian.com/world/article/2024/jun/25/chinas-change-6-lunar-probe-returns-world-first-samples-from-far-side-of-the-moon)
 * [2024-06-25, 15:36:09](https://news.ycombinator.com/item?id=40789919) - [Testing AMD's Giant MI300X](https://chipsandcheese.com/2024/06/25/testing-amds-giant-mi300x/)
 * [2024-06-25, 15:14:08](https://news.ycombinator.com/item?id=40789672) - [Show HN: I built a large JavaScript powered flipdisc display. Here's a guide](https://flipdisc.io/http://localhost:4321/)
 * [2024-06-25, 15:07:41](https://news.ycombinator.com/item?id=40789578) - [Israeli documents show expansive government effort to shape US discourse](https://www.theguardian.com/world/article/2024/jun/24/israel-fund-us-university-protest-gaza-antisemitism)

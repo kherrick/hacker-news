@@ -71,6 +71,7 @@
 * [2024-06-21, 13:13:39](https://news.ycombinator.com/item?id=40749279) - [Show HN: Online OPML editor to manage subscription lists](https://github.com/imdj/opml-editor)
 * [2024-06-21, 13:13:20](https://news.ycombinator.com/item?id=40749275) - [Ask HN: What indoor CO2 monitor do you recommend?](https://news.ycombinator.com/item?id=40749275)
 * [2024-06-21, 13:05:21](https://news.ycombinator.com/item?id=40749211) - [It seems routine to see a bunch of browser User-Agents from the same IP](https://utcc.utoronto.ca/~cks/space/blog/web/MultipleUserAgentsSameIP)
+* [2024-06-21, 13:00:51](https://news.ycombinator.com/item?id=40749157) - [Quantum chemistry helps characterize coordination complex of elusive Element 61](https://www.ornl.gov/news/quantum-chemistry-and-simulation-help-characterize-coordination-complex-elusive-element-61)
 * [2024-06-21, 12:48:24](https://news.ycombinator.com/item?id=40749046) - [Wireless power transfer system achieves 270-kilowatt charge](https://www.ornl.gov/news/polyphase-wireless-power-transfer-system-achieves-270-kilowatt-charge-sets-another-world)
 * [2024-06-21, 12:32:37](https://news.ycombinator.com/item?id=40748931) - [The Migrants Spending $72,000 to Illegally Immigrate to the US](https://www.reuters.com/investigates/special-report/migration-usa-smuggling/)
 * [2024-06-21, 12:22:39](https://news.ycombinator.com/item?id=40748851) - [Advanced Text Features and PDF](https://nibblestew.blogspot.com/2024/06/advanced-text-features-and-pdf.html)
