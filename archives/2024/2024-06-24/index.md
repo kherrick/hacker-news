@@ -49,6 +49,7 @@
 * [2024-06-24, 15:27:49](https://news.ycombinator.com/item?id=40777202) - [Apple vented toxic waste from semiconductor fab into residential apartment](https://twitter.com/ashleygjovik/status/1805006150410162322)
 * [2024-06-24, 15:27:25](https://news.ycombinator.com/item?id=40777196) - [Counterscale and the New Self-Hosted](https://benv.ca/blog/posts/counterscale-and-the-new-self-hosted)
 * [2024-06-24, 15:09:22](https://news.ycombinator.com/item?id=40776951) - [Car dealerships revert to pens and paper after cyberattacks on software provider](https://apnews.com/article/car-dealerships-cyberattack-cdk-outage-3f7c81f6be0e212172b33cdc9f49feba)
+* [2024-06-24, 15:01:42](https://news.ycombinator.com/item?id=40776880) - [I found a 1-click exploit in South Korea's biggest mobile chat app](https://stulle123.github.io/posts/kakaotalk-account-takeover/)
 * [2024-06-24, 14:52:01](https://news.ycombinator.com/item?id=40776758) - [No computers. Keep books. Seattle library network outage nears a month](https://www.seattletimes.com/seattle-news/no-computers-keep-books-seattle-library-network-outage-nears-a-month/)
 * [2024-06-24, 14:16:52](https://news.ycombinator.com/item?id=40776340) - [Self and Self: Whys and Wherefores (2009) [video]](https://www.youtube.com/watch?v=3ka4KY7TMTU)
 * [2024-06-24, 14:15:59](https://news.ycombinator.com/item?id=40776329) - [Using machine learning to detect bot attacks that leverage residential proxies](https://blog.cloudflare.com/residential-proxy-bot-detection-using-machine-learning)

@@ -61,6 +61,7 @@
 * [2024-06-21, 14:44:59](https://news.ycombinator.com/item?id=40750171) - [Twitter and the Spread of Academic Knowledge](https://mattsclancy.substack.com/p/twitter-and-the-spread-of-academic)
 * [2024-06-21, 14:40:47](https://news.ycombinator.com/item?id=40750130) - [Brain health is rooted in state of mind, finds study](https://medicalxpress.com/news/2024-06-brain-health-rooted-state-mind.html)
 * [2024-06-21, 14:21:23](https://news.ycombinator.com/item?id=40749927) - [A study has been following 'gifted' kids for 45 years. Here's what we've learned](https://www.upworthy.com/a-study-has-been-following-gifted-kids-for-45-years-heres-what-weve-learned-rp5)
+* [2024-06-21, 14:15:38](https://news.ycombinator.com/item?id=40749854) - [Everyday is a Birthday A Journey to a classic problem through Math and Rust](https://seniormars.com/posts/everyday-birthday/)
 * [2024-06-21, 14:05:12](https://news.ycombinator.com/item?id=40749775) - [Claudette, a new friend that makes Claude 3.5 Sonnet even nicer](https://www.answer.ai/posts/2024-06-21-claudette.html)
 * [2024-06-21, 14:03:14](https://news.ycombinator.com/item?id=40749754) - [Why Innovation Heroes Are a Sign of a Dysfunctional Organization](https://steveblank.substack.com/p/why-innovation-heroes-are-a-sign)
 * [2024-06-21, 13:54:24](https://news.ycombinator.com/item?id=40749670) - [How does a computer/calculator compute logarithms?](https://zachartrand.github.io/SoME-3-Living/)
