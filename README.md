@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-25, 02:40:08](https://news.ycombinator.com/item?id=40783811) - [Houthi Attacks in the Red Sea, Merchant Traffic Through Suez Canal Down >50%](https://news.usni.org/2024/06/20/houthi-attacks-causing-more-damage-in-the-red-sea-merchant-traffic-through-suez-canal-down-more-than-50)
+* [2024-06-25, 02:34:37](https://news.ycombinator.com/item?id=40783777) - [Researchers invent 100% biodegradable 'barley plastic'](https://phys.org/news/2024-06-biodegradable-barley-plastic.html)
 * [2024-06-25, 02:20:36](https://news.ycombinator.com/item?id=40783664) - [Indonesian government datacenter locked down in $8M ransomware rumble](https://www.theregister.com/2024/06/24/indonesia_datacenter_ransomware/)
 * [2024-06-25, 02:10:40](https://news.ycombinator.com/item?id=40783598) - [SIMD-accelerated computer vision on a $2 microcontroller](https://shraiwi.github.io/read.html?md=blog/simd-fast-esp32s3.md)
 * [2024-06-25, 02:03:45](https://news.ycombinator.com/item?id=40783553) - [Personal light exposure patterns and incidence of type 2 diabetes](https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(24)00110-8/fulltext)
@@ -9,7 +11,6 @@
 * [2024-06-25, 00:23:02](https://news.ycombinator.com/item?id=40782791) - [The First Hedge Fund](https://commoncog.com/c/cases/aw-jones-hedge-fund/)
 * [2024-06-25, 00:18:08](https://news.ycombinator.com/item?id=40782755) - [LLMs on the Command Line](https://simonwillison.net/2024/Jun/17/cli-language-models/)
 * [2024-06-25, 00:00:49](https://news.ycombinator.com/item?id=40782618) - [Law enforcement is spying on Americans' mail, records show](https://www.washingtonpost.com/technology/2024/06/24/post-office-mail-surveillance-law-enforcement/)
-* [2024-06-24, 23:59:05](https://news.ycombinator.com/item?id=40782601) - [Rheinmetall and Anduril join forces to develop C-sUAS system](https://www.anduril.com/article/rheinmetall-and-anduril-join-forces-to-develop-c-suas-system/)
 * [2024-06-24, 23:10:07](https://news.ycombinator.com/item?id=40782130) - [Julian Assange has reached a plea deal with the U.S., allowing him to go free](https://www.nbcnews.com/politics/justice-department/julian-assange-reached-plea-deal-us-allowing-go-free-rcna158695)
 * [2024-06-24, 23:06:22](https://news.ycombinator.com/item?id=40782101) - [MTV news website goes dark, archives pulled offline](https://variety.com/2024/digital/news/mtv-news-website-archives-pulled-offline-1236047163/)
 * [2024-06-24, 22:38:31](https://news.ycombinator.com/item?id=40781838) - [Round Rects Are Everywhere](https://www.folklore.org/Round_Rects_Are_Everywhere.html)
@@ -24,7 +25,6 @@
 * [2024-06-24, 14:16:52](https://news.ycombinator.com/item?id=40776340) - [Self and Self: Whys and Wherefores (2009) [video]](https://www.youtube.com/watch?v=3ka4KY7TMTU)
 * [2024-06-24, 06:29:39](https://news.ycombinator.com/item?id=40773056) - [The Triumph of Counting and Scripting](https://slate.com/life/2024/06/doctors-teachers-dissatisfaction-tracking-charting-jobs.html)
 * [2024-06-24, 03:35:40](https://news.ycombinator.com/item?id=40772495) - [Weighing Up Galileo's Evidence](https://www.historytoday.com/archive/great-debates/weighing-galileos-evidence)
-* [2024-06-23, 23:59:18](https://news.ycombinator.com/item?id=40771635) - [One index, two publishers and the global research economy](https://www.tandfonline.com/doi/full/10.1080/03054985.2024.2348448)
 * [2024-06-23, 19:20:53](https://news.ycombinator.com/item?id=40769882) - [Porting Python to a $3 smartwatch [video]](https://www.youtube.com/watch?v=sv58aPvIonw)
 * [2024-06-23, 17:24:33](https://news.ycombinator.com/item?id=40769006) - [First we shape our social graph, then it shapes us (2022)](https://www.henrikkarlsson.xyz/p/first-we-shape-our-social-graph-then)
 * [2024-06-23, 12:08:22](https://news.ycombinator.com/item?id=40766833) - [The Origin of Jupiter's Great Red Spot](https://arxiv.org/abs/2406.13222)

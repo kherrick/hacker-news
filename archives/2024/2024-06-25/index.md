@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-06-25](index.md)
 
 * [2024-06-25, 03:01:02](https://news.ycombinator.com/item?id=40783944) - [Significant energy source found under US-Mexico border](https://www.newsnationnow.com/us-news/infrastructure/geothermal-energy-source-us-mexico-border/)
+* [2024-06-25, 02:40:08](https://news.ycombinator.com/item?id=40783811) - [Houthi Attacks in the Red Sea, Merchant Traffic Through Suez Canal Down >50%](https://news.usni.org/2024/06/20/houthi-attacks-causing-more-damage-in-the-red-sea-merchant-traffic-through-suez-canal-down-more-than-50)
+* [2024-06-25, 02:34:37](https://news.ycombinator.com/item?id=40783777) - [Researchers invent 100% biodegradable 'barley plastic'](https://phys.org/news/2024-06-biodegradable-barley-plastic.html)
 * [2024-06-25, 02:23:13](https://news.ycombinator.com/item?id=40783682) - [The Death of the Junior Developer](https://sourcegraph.com/blog/the-death-of-the-junior-developer)
 * [2024-06-25, 02:20:36](https://news.ycombinator.com/item?id=40783664) - [Indonesian government datacenter locked down in $8M ransomware rumble](https://www.theregister.com/2024/06/24/indonesia_datacenter_ransomware/)
 * [2024-06-25, 02:10:40](https://news.ycombinator.com/item?id=40783598) - [SIMD-accelerated computer vision on a $2 microcontroller](https://shraiwi.github.io/read.html?md=blog/simd-fast-esp32s3.md)
