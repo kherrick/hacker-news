@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-06-25, 09:52:21",
+      "https://news.ycombinator.com/item?id=40786463"
+    ],
+    [
+      "Count Binface",
+      "https://en.wikipedia.org/wiki/Count_Binface"
+    ]
+  ],
+  [
+    [
       "2024-06-25, 09:47:10",
       "https://news.ycombinator.com/item?id=40786425"
     ],
@@ -287,16 +297,6 @@
     [
       "Why *not* parse `ls` (and what to do instead)",
       "https://unix.stackexchange.com/questions/128985/why-not-parse-ls-and-what-to-do-instead"
-    ]
-  ],
-  [
-    [
-      "2024-06-22, 11:35:13",
-      "https://news.ycombinator.com/item?id=40758241"
-    ],
-    [
-      "Tachyonfx: A library for creating shader-like effects in terminal UIs",
-      "https://github.com/junkdog/tachyonfx"
     ]
   ]
 ]
