@@ -24,4 +24,5 @@
 * [2024-06-25, 00:25:58](https://news.ycombinator.com/item?id=40782818) - [Desperately Seeking Squircles](https://www.figma.com/blog/desperately-seeking-squircles/)
 * [2024-06-25, 00:23:02](https://news.ycombinator.com/item?id=40782791) - [The First Hedge Fund](https://commoncog.com/c/cases/aw-jones-hedge-fund/)
 * [2024-06-25, 00:18:08](https://news.ycombinator.com/item?id=40782755) - [LLMs on the Command Line](https://simonwillison.net/2024/Jun/17/cli-language-models/)
+* [2024-06-25, 00:06:21](https://news.ycombinator.com/item?id=40782657) - [To the Bored All Things Are Boring](https://comment.org/to-the-bored-all-things-are-boring/)
 * [2024-06-25, 00:00:49](https://news.ycombinator.com/item?id=40782618) - [Law enforcement is spying on Americans' mail, records show](https://www.washingtonpost.com/technology/2024/06/24/post-office-mail-surveillance-law-enforcement/)

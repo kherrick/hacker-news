@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-25, 02:40:08](https://news.ycombinator.com/item?id=40783811) - [Houthi attacks in the Red Sea, merchant traffic through Suez Canal down >50%](https://news.usni.org/2024/06/20/houthi-attacks-causing-more-damage-in-the-red-sea-merchant-traffic-through-suez-canal-down-more-than-50)
 * [2024-06-25, 02:34:37](https://news.ycombinator.com/item?id=40783777) - [Researchers invent 100% biodegradable 'barley plastic'](https://phys.org/news/2024-06-biodegradable-barley-plastic.html)
 * [2024-06-25, 02:29:54](https://news.ycombinator.com/item?id=40783742) - [Wave activity on Titan strong enough to erode the coastlines of lakes and seas](https://phys.org/news/2024-06-titan-strong-erode-coastlines-lakes.html)
 * [2024-06-25, 02:20:36](https://news.ycombinator.com/item?id=40783664) - [Indonesian government datacenter locked down in $8M ransomware rumble](https://www.theregister.com/2024/06/24/indonesia_datacenter_ransomware/)
@@ -10,6 +9,7 @@
 * [2024-06-25, 01:19:55](https://news.ycombinator.com/item?id=40783229) - [From 0/10 to 8/10: Microsoft Puts Repair Front and Center](https://www.ifixit.com/News/96998/from-0-10-to-8-10-microsoft-puts-repair-front-and-center)
 * [2024-06-25, 00:23:02](https://news.ycombinator.com/item?id=40782791) - [The First Hedge Fund](https://commoncog.com/c/cases/aw-jones-hedge-fund/)
 * [2024-06-25, 00:18:08](https://news.ycombinator.com/item?id=40782755) - [Language models on the command line](https://simonwillison.net/2024/Jun/17/cli-language-models/)
+* [2024-06-25, 00:06:21](https://news.ycombinator.com/item?id=40782657) - [To the Bored All Things Are Boring](https://comment.org/to-the-bored-all-things-are-boring/)
 * [2024-06-24, 23:53:09](https://news.ycombinator.com/item?id=40782541) - [iDOS 3 Rejected by Apple](https://litchie.com/2024/04/new-hope)
 * [2024-06-24, 23:10:07](https://news.ycombinator.com/item?id=40782130) - [Julian Assange has reached a plea deal with the U.S., allowing him to go free](https://www.nbcnews.com/politics/justice-department/julian-assange-reached-plea-deal-us-allowing-go-free-rcna158695)
 * [2024-06-24, 23:06:22](https://news.ycombinator.com/item?id=40782101) - [MTV news website goes dark, archives pulled offline](https://variety.com/2024/digital/news/mtv-news-website-archives-pulled-offline-1236047163/)
