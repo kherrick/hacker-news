@@ -1,6 +1,56 @@
 [
   [
     [
+      "2024-06-25, 01:19:55",
+      "https://news.ycombinator.com/item?id=40783229"
+    ],
+    [
+      "From 0/10 to 8/10: Microsoft Puts Repair Front and Center",
+      "https://www.ifixit.com/News/96998/from-0-10-to-8-10-microsoft-puts-repair-front-and-center"
+    ]
+  ],
+  [
+    [
+      "2024-06-25, 00:56:27",
+      "https://news.ycombinator.com/item?id=40783049"
+    ],
+    [
+      "Visual guide to linear algebra for AI",
+      "https://www.trybackprop.com/blog/linalg101/part_1_vectors_matrices_operations"
+    ]
+  ],
+  [
+    [
+      "2024-06-25, 00:40:02",
+      "https://news.ycombinator.com/item?id=40782932"
+    ],
+    [
+      "Hackers 'jailbreak' powerful AI models in global effort to highlight flaws",
+      "https://www.ft.com/content/14a2c98b-c8d5-4e5b-a7b0-30f0a05ec432"
+    ]
+  ],
+  [
+    [
+      "2024-06-25, 00:23:02",
+      "https://news.ycombinator.com/item?id=40782791"
+    ],
+    [
+      "The First Hedge Fund",
+      "https://commoncog.com/c/cases/aw-jones-hedge-fund/"
+    ]
+  ],
+  [
+    [
+      "2024-06-25, 00:18:08",
+      "https://news.ycombinator.com/item?id=40782755"
+    ],
+    [
+      "LLMs on the Command Line",
+      "https://simonwillison.net/2024/Jun/17/cli-language-models/"
+    ]
+  ],
+  [
+    [
       "2024-06-25, 00:00:49",
       "https://news.ycombinator.com/item?id=40782618"
     ],
@@ -27,26 +77,6 @@
     [
       "iDOS 3 Rejected by Apple",
       "https://litchie.com/2024/04/new-hope"
-    ]
-  ],
-  [
-    [
-      "2024-06-24, 23:43:12",
-      "https://news.ycombinator.com/item?id=40782449"
-    ],
-    [
-      "Julian Assange will plead guilty in deal with US and be freed from prison",
-      "https://apnews.com/article/assange-plea-deal-wikileaks-justice-department-d329ba4614dbfa77b5eb968d07fd9bd0"
-    ]
-  ],
-  [
-    [
-      "2024-06-24, 23:35:04",
-      "https://news.ycombinator.com/item?id=40782362"
-    ],
-    [
-      "Tech CEOs are hot now, so workers are hiring $500-an-hour fashion consultants",
-      "https://sfstandard.com/2024/06/17/fashion-zuckerberg-style-techie-hoodie-allbirds/"
     ]
   ],
   [
@@ -85,7 +115,7 @@
       "https://news.ycombinator.com/item?id=40781060"
     ],
     [
-      "Fearing Losses, Banks Are Quietly Dumping Real Estate Loans",
+      "Fearing losses, banks are quietly dumping real estate loans",
       "https://www.nytimes.com/2024/06/24/business/commercial-real-estate-loans.html"
     ]
   ],
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2024-06-24, 19:31:25",
-      "https://news.ycombinator.com/item?id=40779743"
-    ],
-    [
-      "Leaking URLs to the Clown",
-      "http://rachelbythebay.com/w/2024/06/24/feed/"
-    ]
-  ],
-  [
-    [
       "2024-06-24, 19:20:39",
       "https://news.ycombinator.com/item?id=40779658"
     ],
@@ -181,6 +201,16 @@
   ],
   [
     [
+      "2024-06-24, 14:16:52",
+      "https://news.ycombinator.com/item?id=40776340"
+    ],
+    [
+      "Self and Self: Whys and Wherefores (2009) [video]",
+      "https://www.youtube.com/watch?v=3ka4KY7TMTU"
+    ]
+  ],
+  [
+    [
       "2024-06-24, 10:25:11",
       "https://news.ycombinator.com/item?id=40774277"
     ],
@@ -207,16 +237,6 @@
     [
       "One index, two publishers and the global research economy",
       "https://www.tandfonline.com/doi/full/10.1080/03054985.2024.2348448"
-    ]
-  ],
-  [
-    [
-      "2024-06-23, 20:26:08",
-      "https://news.ycombinator.com/item?id=40770358"
-    ],
-    [
-      "The economics of the Birkin handbag",
-      "https://www.wsj.com/style/fashion/hermes-birkin-bag-investment-031c215c"
     ]
   ],
   [
@@ -277,26 +297,6 @@
     [
       "Tachyonfx: A library for creating shader-like effects in terminal UIs",
       "https://github.com/junkdog/tachyonfx"
-    ]
-  ],
-  [
-    [
-      "2024-06-22, 10:54:14",
-      "https://news.ycombinator.com/item?id=40757996"
-    ],
-    [
-      "Feral pigeons and the London Pigeon String Foot and Rescue group",
-      "https://www.bbc.com/future/article/20240620-why-do-people-persecute-city-pigeons"
-    ]
-  ],
-  [
-    [
-      "2024-06-21, 13:13:39",
-      "https://news.ycombinator.com/item?id=40749279"
-    ],
-    [
-      "Show HN: Online OPML editor to manage subscription lists",
-      "https://github.com/imdj/opml-editor"
     ]
   ]
 ]
