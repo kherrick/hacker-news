@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-06-25](index.md)
 
+* [2024-06-25, 15:14:08](https://news.ycombinator.com/item?id=40789672) - [Show HN: I built a large JavaScript powered flipdisc display. Here's a guide](https://flipdisc.io/http://localhost:4321/)
+* [2024-06-25, 14:59:20](https://news.ycombinator.com/item?id=40789466) - [TikTok shows different people different comment sections](https://twitter.com/julesterpak/status/1794558327050953133)
 * [2024-06-25, 14:54:22](https://news.ycombinator.com/item?id=40789411) - [Waymo One is now open to everyone in San Francisco](https://waymo.com/blog/2024/06/waymo-one-is-now-open-to-everyone-in-san-francisco/)
 * [2024-06-25, 14:49:28](https://news.ycombinator.com/item?id=40789353) - [From Dotenv to Dotenvx: Next Generation Config Management](https://dotenvx.com/blog/2024/06/24/dotenvx-next-generation-config-management.html)
+* [2024-06-25, 14:42:06](https://news.ycombinator.com/item?id=40789259) - [Tesla \"donated\" 12,000 Nvidia H100 to X](https://www.morningstar.com/news/marketwatch/20240604785/elon-musk-confirms-reallocating-thousands-of-nvidia-ai-chips-from-tesla)
 * [2024-06-25, 14:40:23](https://news.ycombinator.com/item?id=40789238) - [Drilling a Triangular Hole [video]](https://www.tiktok.com/@reason4math/video/7372387971884174638)
 * [2024-06-25, 14:36:29](https://news.ycombinator.com/item?id=40789191) - [Vintage Wooden Homes on Wheels: Photos of Mobile Living from Early 20th Century](https://rarehistoricalphotos.com/vintage-wooden-homes-on-wheels/)
 * [2024-06-25, 14:35:07](https://news.ycombinator.com/item?id=40789179) - [LHM to permanently close and sell DEC-10 at auction](https://www.geekwire.com/2024/seattles-living-computers-museum-logs-off-for-good-as-paul-allen-estate-will-auction-vintage-items/)
