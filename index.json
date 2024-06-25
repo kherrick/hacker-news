@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-06-25, 20:24:44",
-      "https://news.ycombinator.com/item?id=40793174"
-    ],
-    [
-      "Volkswagen to invest up to $5B in Rivian",
-      "https://www.reuters.com/business/autos-transportation/volkswagen-invest-up-5-billion-rivian-part-tech-joint-venture-2024-06-25/"
-    ]
-  ],
-  [
-    [
       "2024-06-25, 19:45:08",
       "https://news.ycombinator.com/item?id=40792740"
     ],
@@ -167,6 +157,16 @@
     [
       "SIMD-accelerated computer vision on a $2 microcontroller",
       "https://shraiwi.github.io/read.html?md=blog/simd-fast-esp32s3.md"
+    ]
+  ],
+  [
+    [
+      "2024-06-25, 01:55:22",
+      "https://news.ycombinator.com/item?id=40783485"
+    ],
+    [
+      "Twonkie: A USB-PD sniffer/injector/sink based on Google's Twinkie open hardware",
+      "https://github.com/dojoe/Twonkie"
     ]
   ],
   [
