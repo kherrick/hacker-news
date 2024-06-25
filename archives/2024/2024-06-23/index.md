@@ -87,6 +87,7 @@
 * [2024-06-23, 06:22:05](https://news.ycombinator.com/item?id=40765171) - [Richard Stallman, su, and the 'wheel' group (2004)](https://www.meisterplanet.com/journal/2004/05/09/richard-stallman-su-and-the-wheel-group/)
 * [2024-06-23, 05:56:43](https://news.ycombinator.com/item?id=40765094) - [Explained: The secret City of London which is not part of London](https://www.thevintagenews.com/2016/08/02/explained-the-secret-city-of-london-which-is-not-part-of-london/)
 * [2024-06-23, 05:26:54](https://news.ycombinator.com/item?id=40765014) - [Infinitone Microtonal Saxophone](https://xerocraft.org/news/298-maker-interview-the-infinitone-and-the-notes-between-the-notes)
+* [2024-06-23, 05:24:20](https://news.ycombinator.com/item?id=40765005) - [Why *not* parse `ls` (and what to do instead)](https://unix.stackexchange.com/questions/128985/why-not-parse-ls-and-what-to-do-instead)
 * [2024-06-23, 04:52:38](https://news.ycombinator.com/item?id=40764901) - [Native American Indian Star Charts](https://www.californiaindianeducation.org/science_lab/indian_stars.html)
 * [2024-06-23, 04:50:30](https://news.ycombinator.com/item?id=40764889) - [Truckstops on the Information Superhighway (2018)](https://www.americanacademy.de/truckstops-on-the-information-superhighway/)
 * [2024-06-23, 04:33:36](https://news.ycombinator.com/item?id=40764816) - [visionOS thermally throttles based on how much it hears the fans in the mics](https://twitter.com/ShinyQuagsire/status/1804688365905756564)

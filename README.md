@@ -28,7 +28,7 @@
 * [2024-06-23, 12:08:22](https://news.ycombinator.com/item?id=40766833) - [The Origin of Jupiter's Great Red Spot](https://arxiv.org/abs/2406.13222)
 * [2024-06-23, 10:16:22](https://news.ycombinator.com/item?id=40766246) - [PostScript and Interpress: A Comparison (1985)](http://www.mostlycolor.ch/2010/07/postscript-and-interpress-comparison.html)
 * [2024-06-23, 06:56:48](https://news.ycombinator.com/item?id=40765294) - [What scripting languages come out of the box on Debian 12?](https://hiandrewquinn.github.io/til-site/posts/what-programming-languages-come-out-of-the-box-on-debian-12/)
-* [2024-06-23, 04:13:42](https://news.ycombinator.com/item?id=40764736) - [Hans Hollein: Everything Is Architecture](https://designmanifestos.org/hans-hollein-everything-is-architecture/)
+* [2024-06-23, 05:24:20](https://news.ycombinator.com/item?id=40765005) - [Why *not* parse `ls` (and what to do instead)](https://unix.stackexchange.com/questions/128985/why-not-parse-ls-and-what-to-do-instead)
 * [2024-06-22, 11:35:13](https://news.ycombinator.com/item?id=40758241) - [Tachyonfx: A library for creating shader-like effects in terminal UIs](https://github.com/junkdog/tachyonfx)
 
 ## [Archives](archives/index.md)
