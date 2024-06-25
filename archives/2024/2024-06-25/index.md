@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-25](index.md)
 
+* [2024-06-25, 19:45:08](https://news.ycombinator.com/item?id=40792740) - [Fixing QuickLook (2023)](https://foon.uk/fixing-quicklook/)
 * [2024-06-25, 19:27:24](https://news.ycombinator.com/item?id=40792569) - [OpenAI releases ChatGPT on your desktop for macOS](https://openai.com/chatgpt/mac/)
 * [2024-06-25, 18:27:30](https://news.ycombinator.com/item?id=40791829) - [Polyfill supply chain attack hits 100K+ sites](https://sansec.io/research/polyfill-supply-chain-attack)
 * [2024-06-25, 18:10:31](https://news.ycombinator.com/item?id=40791624) - [Waymo's autonomous ride-hailing service now available to all in San Francisco](https://www.reuters.com/business/autos-transportation/waymos-autonomous-ride-hailing-service-now-available-all-san-francisco-2024-06-25/)

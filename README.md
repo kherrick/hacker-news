@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-25, 19:45:08](https://news.ycombinator.com/item?id=40792740) - [Fixing QuickLook (2023)](https://foon.uk/fixing-quicklook/)
 * [2024-06-25, 18:27:30](https://news.ycombinator.com/item?id=40791829) - [Polyfill supply chain attack hits 100K+ sites](https://sansec.io/research/polyfill-supply-chain-attack)
 * [2024-06-25, 17:00:00](https://news.ycombinator.com/item?id=40790859) - [Meticulous (YC S21) is hiring to eliminate E2E UI tests](https://news.ycombinator.com/item?id=40790859)
 * [2024-06-25, 15:48:29](https://news.ycombinator.com/item?id=40790057) - [Chang'e 6 lunar sample return mission returns with samples from moon's far side](https://www.theguardian.com/world/article/2024/jun/25/chinas-change-6-lunar-probe-returns-world-first-samples-from-far-side-of-the-moon)
@@ -7,7 +8,6 @@
 * [2024-06-25, 15:36:09](https://news.ycombinator.com/item?id=40789919) - [Testing AMD's Giant MI300X](https://chipsandcheese.com/2024/06/25/testing-amds-giant-mi300x/)
 * [2024-06-25, 15:30:40](https://news.ycombinator.com/item?id=40789862) - [Show HN: Glasskube – Open Source Kubernetes Package Manager, alternative to Helm](https://github.com/glasskube/glasskube)
 * [2024-06-25, 15:14:08](https://news.ycombinator.com/item?id=40789672) - [Show HN: I built a JavaScript-powered flipdisc display](https://flipdisc.io/)
-* [2024-06-25, 14:55:04](https://news.ycombinator.com/item?id=40789417) - [Anthropic: Collaborate with Claude on Projects](https://www.anthropic.com/news/projects)
 * [2024-06-25, 14:49:28](https://news.ycombinator.com/item?id=40789353) - [Show HN: From dotenv to dotenvx – better config management](https://dotenvx.com/blog/2024/06/24/dotenvx-next-generation-config-management.html)
 * [2024-06-25, 14:48:21](https://news.ycombinator.com/item?id=40789339) - [Show HN: The Tomb of Nefertari [QV 66] Guided Virtual Tour](https://mused.com/en/guided/923/the-tomb-of-nefertari-valley-of-the-queens)
 * [2024-06-25, 13:53:05](https://news.ycombinator.com/item?id=40788648) - [Show HN: Triplit – Open-source syncing database that runs on server and client](https://github.com/aspen-cloud/triplit)
