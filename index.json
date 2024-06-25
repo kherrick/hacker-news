@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-06-25, 00:00:49",
+      "https://news.ycombinator.com/item?id=40782618"
+    ],
+    [
+      "Law enforcement is spying on Americans' mail, records show",
+      "https://www.washingtonpost.com/technology/2024/06/24/post-office-mail-surveillance-law-enforcement/"
+    ]
+  ],
+  [
+    [
+      "2024-06-24, 23:59:05",
+      "https://news.ycombinator.com/item?id=40782601"
+    ],
+    [
+      "Rheinmetall and Anduril join forces to develop C-sUAS system",
+      "https://www.anduril.com/article/rheinmetall-and-anduril-join-forces-to-develop-c-suas-system/"
+    ]
+  ],
+  [
+    [
+      "2024-06-24, 23:53:09",
+      "https://news.ycombinator.com/item?id=40782541"
+    ],
+    [
+      "iDOS 3 Rejected by Apple",
+      "https://litchie.com/2024/04/new-hope"
+    ]
+  ],
+  [
+    [
       "2024-06-24, 23:43:12",
       "https://news.ycombinator.com/item?id=40782449"
     ],
@@ -11,12 +41,32 @@
   ],
   [
     [
+      "2024-06-24, 23:35:04",
+      "https://news.ycombinator.com/item?id=40782362"
+    ],
+    [
+      "Tech CEOs are hot now, so workers are hiring $500-an-hour fashion consultants",
+      "https://sfstandard.com/2024/06/17/fashion-zuckerberg-style-techie-hoodie-allbirds/"
+    ]
+  ],
+  [
+    [
       "2024-06-24, 23:10:07",
       "https://news.ycombinator.com/item?id=40782130"
     ],
     [
       "Julian Assange has reached a plea deal with the U.S., allowing him to go free",
       "https://www.nbcnews.com/politics/justice-department/julian-assange-reached-plea-deal-us-allowing-go-free-rcna158695"
+    ]
+  ],
+  [
+    [
+      "2024-06-24, 23:06:22",
+      "https://news.ycombinator.com/item?id=40782101"
+    ],
+    [
+      "MTV news website goes dark, archives pulled offline",
+      "https://variety.com/2024/digital/news/mtv-news-website-archives-pulled-offline-1236047163/"
     ]
   ],
   [
@@ -37,6 +87,16 @@
     [
       "Fearing Losses, Banks Are Quietly Dumping Real Estate Loans",
       "https://www.nytimes.com/2024/06/24/business/commercial-real-estate-loans.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-24, 21:17:02",
+      "https://news.ycombinator.com/item?id=40780908"
+    ],
+    [
+      "The Sun Ra Arkestra's Maestro Hits One Hundred",
+      "https://www.newyorker.com/magazine/2024/07/01/the-sun-ra-arkestras-maestro-hits-one-hundred"
     ]
   ],
   [
@@ -111,16 +171,6 @@
   ],
   [
     [
-      "2024-06-24, 19:19:06",
-      "https://news.ycombinator.com/item?id=40779643"
-    ],
-    [
-      "A journey into Kindle AI slop hell",
-      "https://maxread.substack.com/p/my-kindle-thinks-im-stupid-now"
-    ]
-  ],
-  [
-    [
       "2024-06-24, 17:23:28",
       "https://news.ycombinator.com/item?id=40778594"
     ],
@@ -141,32 +191,12 @@
   ],
   [
     [
-      "2024-06-24, 09:10:56",
-      "https://news.ycombinator.com/item?id=40773883"
-    ],
-    [
-      "Apple found in breach of EU competition rules",
-      "https://www.theguardian.com/technology/article/2024/jun/24/apple-breach-eu-competition-rules-digital-markets-act"
-    ]
-  ],
-  [
-    [
       "2024-06-24, 03:35:40",
       "https://news.ycombinator.com/item?id=40772495"
     ],
     [
       "Weighing Up Galileo's Evidence",
       "https://www.historytoday.com/archive/great-debates/weighing-galileos-evidence"
-    ]
-  ],
-  [
-    [
-      "2024-06-24, 03:01:27",
-      "https://news.ycombinator.com/item?id=40772378"
-    ],
-    [
-      "Copy-on-write performance and debugging",
-      "https://devblogs.microsoft.com/engineering-at-microsoft/copy-on-write-performance-and-debugging/"
     ]
   ],
   [
@@ -211,12 +241,12 @@
   ],
   [
     [
-      "2024-06-23, 14:16:56",
-      "https://news.ycombinator.com/item?id=40767645"
+      "2024-06-23, 12:08:22",
+      "https://news.ycombinator.com/item?id=40766833"
     ],
     [
-      "A railroad simulation using discrete event simulation",
-      "https://picolisp-explored.com/a-railroad-simulation-with-des"
+      "The Origin of Jupiter's Great Red Spot",
+      "https://arxiv.org/abs/2406.13222"
     ]
   ],
   [
@@ -261,42 +291,12 @@
   ],
   [
     [
-      "2024-06-22, 09:49:15",
-      "https://news.ycombinator.com/item?id=40757717"
-    ],
-    [
-      "Arm64EC – Build and port apps for native performance on Arm",
-      "https://learn.microsoft.com/en-us/windows/arm/arm64ec"
-    ]
-  ],
-  [
-    [
-      "2024-06-21, 20:28:31",
-      "https://news.ycombinator.com/item?id=40753468"
-    ],
-    [
-      "Uh-Oh: A story of SpaghettiOs and forgotten history",
-      "https://snackstack.net/2024/05/25/uh-oh-a-story-of-spaghettios-and-forgotten-history/"
-    ]
-  ],
-  [
-    [
       "2024-06-21, 13:13:39",
       "https://news.ycombinator.com/item?id=40749279"
     ],
     [
       "Show HN: Online OPML editor to manage subscription lists",
       "https://github.com/imdj/opml-editor"
-    ]
-  ],
-  [
-    [
-      "2024-06-20, 14:31:22",
-      "https://news.ycombinator.com/item?id=40739187"
-    ],
-    [
-      "React Lua",
-      "https://github.com/jsdotlua/react-lua"
     ]
   ]
 ]
