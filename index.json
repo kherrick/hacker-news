@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-06-25, 21:44:43",
-      "https://news.ycombinator.com/item?id=40794022"
-    ],
-    [
-      "Continuations by Example",
-      "https://matt.might.net/articles/programming-with-continuations--exceptions-backtracking-search-threads-generators-coroutines/"
-    ]
-  ],
-  [
-    [
       "2024-06-25, 21:34:40",
       "https://news.ycombinator.com/item?id=40793924"
     ],
@@ -31,32 +21,12 @@
   ],
   [
     [
-      "2024-06-25, 20:57:49",
-      "https://news.ycombinator.com/item?id=40793516"
-    ],
-    [
-      "AP launches a sister organization seeking grants to support local, state news",
-      "https://apnews.com/article/reporters-local-ap-foundations-c2c3fced7b46e7f0a6e0ebe6773fde4a"
-    ]
-  ],
-  [
-    [
       "2024-06-25, 20:52:52",
       "https://news.ycombinator.com/item?id=40793465"
     ],
     [
       "Ball: A ball that lives in your dock",
       "https://github.com/nate-parrott/ball"
-    ]
-  ],
-  [
-    [
-      "2024-06-25, 20:37:00",
-      "https://news.ycombinator.com/item?id=40793293"
-    ],
-    [
-      "Ask HN: What brought back the joy of programming for you?",
-      "https://news.ycombinator.com/item?id=40793293"
     ]
   ],
   [
@@ -141,6 +111,16 @@
   ],
   [
     [
+      "2024-06-25, 14:54:22",
+      "https://news.ycombinator.com/item?id=40789411"
+    ],
+    [
+      "Waymo One is now open to everyone in San Francisco",
+      "https://waymo.com/blog/2024/06/waymo-one-is-now-open-to-everyone-in-san-francisco/"
+    ]
+  ],
+  [
+    [
       "2024-06-25, 14:49:28",
       "https://news.ycombinator.com/item?id=40789353"
     ],
@@ -197,6 +177,16 @@
     [
       "Stalin, Eisenstein, Walt Disney and Ivan the Terrible (1992)",
       "https://www.cliomuse.com/stalin-disney-eisenstein--ivan-the-terrible.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-24, 23:10:07",
+      "https://news.ycombinator.com/item?id=40782130"
+    ],
+    [
+      "Julian Assange has reached a plea deal with the U.S., allowing him to go free",
+      "https://www.nbcnews.com/politics/justice-department/julian-assange-reached-plea-deal-us-allowing-go-free-rcna158695"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Infinitone Microtonal Saxophone",
       "https://xerocraft.org/news/298-maker-interview-the-infinitone-and-the-notes-between-the-notes"
+    ]
+  ],
+  [
+    [
+      "2024-06-21, 14:15:38",
+      "https://news.ycombinator.com/item?id=40749854"
+    ],
+    [
+      "Everyday is a Birthday A Journey to a classic problem through Math and Rust",
+      "https://seniormars.com/posts/everyday-birthday/"
     ]
   ],
   [
