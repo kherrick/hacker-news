@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-25, 15:36:09](https://news.ycombinator.com/item?id=40789919) - [Testing AMD's Giant MI300X](https://chipsandcheese.com/2024/06/25/testing-amds-giant-mi300x/)
 * [2024-06-25, 15:14:08](https://news.ycombinator.com/item?id=40789672) - [Show HN: I built a large JavaScript powered flipdisc display. Here's a guide](https://flipdisc.io/http://localhost:4321/)
-* [2024-06-25, 14:54:22](https://news.ycombinator.com/item?id=40789411) - [Waymo One is now open to everyone in San Francisco](https://waymo.com/blog/2024/06/waymo-one-is-now-open-to-everyone-in-san-francisco/)
+* [2024-06-25, 15:07:41](https://news.ycombinator.com/item?id=40789578) - [Israeli documents show expansive government effort to shape US discourse](https://www.theguardian.com/world/article/2024/jun/24/israel-fund-us-university-protest-gaza-antisemitism)
 * [2024-06-25, 14:49:28](https://news.ycombinator.com/item?id=40789353) - [From Dotenv to Dotenvx: Next Generation Config Management](https://dotenvx.com/blog/2024/06/24/dotenvx-next-generation-config-management.html)
 * [2024-06-25, 14:36:29](https://news.ycombinator.com/item?id=40789191) - [Vintage Wooden Homes on Wheels: Photos of Mobile Living from Early 20th Century](https://rarehistoricalphotos.com/vintage-wooden-homes-on-wheels/)
 * [2024-06-25, 13:01:12](https://news.ycombinator.com/item?id=40788049) - [Why we must seek a widely-applicable Science of Systems.](https://www.hiranmay.xyz/blog/complex-systems)
@@ -28,7 +29,6 @@
 * [2024-06-23, 19:20:53](https://news.ycombinator.com/item?id=40769882) - [Porting Python to a $3 smartwatch [video]](https://www.youtube.com/watch?v=sv58aPvIonw)
 * [2024-06-23, 09:26:56](https://news.ycombinator.com/item?id=40765999) - [Remembering the LAN (2020)](https://tailscale.com/blog/remembering-the-lan)
 * [2024-06-23, 05:24:20](https://news.ycombinator.com/item?id=40765005) - [Why not parse `ls` and what to do instead](https://unix.stackexchange.com/questions/128985/why-not-parse-ls-and-what-to-do-instead)
-* [2024-06-23, 04:13:42](https://news.ycombinator.com/item?id=40764736) - [Hans Hollein: Everything Is Architecture](https://designmanifestos.org/hans-hollein-everything-is-architecture/)
 * [2024-06-22, 11:35:13](https://news.ycombinator.com/item?id=40758241) - [Tachyonfx: A library for creating shader-like effects in terminal UIs](https://github.com/junkdog/tachyonfx)
 
 ## [Archives](archives/index.md)

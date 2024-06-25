@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-25](index.md)
 
+* [2024-06-25, 15:36:09](https://news.ycombinator.com/item?id=40789919) - [Testing AMD's Giant MI300X](https://chipsandcheese.com/2024/06/25/testing-amds-giant-mi300x/)
 * [2024-06-25, 15:14:08](https://news.ycombinator.com/item?id=40789672) - [Show HN: I built a large JavaScript powered flipdisc display. Here's a guide](https://flipdisc.io/http://localhost:4321/)
+* [2024-06-25, 15:07:41](https://news.ycombinator.com/item?id=40789578) - [Israeli documents show expansive government effort to shape US discourse](https://www.theguardian.com/world/article/2024/jun/24/israel-fund-us-university-protest-gaza-antisemitism)
 * [2024-06-25, 14:59:20](https://news.ycombinator.com/item?id=40789466) - [TikTok shows different people different comment sections](https://twitter.com/julesterpak/status/1794558327050953133)
 * [2024-06-25, 14:54:22](https://news.ycombinator.com/item?id=40789411) - [Waymo One is now open to everyone in San Francisco](https://waymo.com/blog/2024/06/waymo-one-is-now-open-to-everyone-in-san-francisco/)
 * [2024-06-25, 14:49:28](https://news.ycombinator.com/item?id=40789353) - [From Dotenv to Dotenvx: Next Generation Config Management](https://dotenvx.com/blog/2024/06/24/dotenvx-next-generation-config-management.html)
