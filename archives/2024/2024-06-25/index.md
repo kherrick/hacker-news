@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-25](index.md)
 
+* [2024-06-25, 08:30:42](https://news.ycombinator.com/item?id=40785945) - [Locked out of 14 year old YouTube channel because tied to Hotmail.com email](https://news.ycombinator.com/item?id=40785945)
 * [2024-06-25, 05:23:55](https://news.ycombinator.com/item?id=40784778) - [NOFX to retire after final tour without ever having had a job](https://www.nytimes.com/2024/06/18/style/nofx-farewell-tour.html)
 * [2024-06-25, 04:19:50](https://news.ycombinator.com/item?id=40784438) - [Apple says no to PC emulators on iOS](https://www.theverge.com/2024/6/24/24185066/apple-pc-dos-emulators-ios-rejection)
 * [2024-06-25, 03:01:02](https://news.ycombinator.com/item?id=40783944) - [Significant energy source found under US-Mexico border](https://www.newsnationnow.com/us-news/infrastructure/geothermal-energy-source-us-mexico-border/)

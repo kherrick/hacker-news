@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-25, 08:30:42](https://news.ycombinator.com/item?id=40785945) - [Locked out of 14 year old YouTube channel because tied to Hotmail.com email](https://news.ycombinator.com/item?id=40785945)
 * [2024-06-25, 05:23:55](https://news.ycombinator.com/item?id=40784778) - [NOFX to retire after final tour without ever having had a job](https://www.nytimes.com/2024/06/18/style/nofx-farewell-tour.html)
 * [2024-06-25, 02:34:37](https://news.ycombinator.com/item?id=40783777) - [Researchers invent 100% biodegradable 'barley plastic'](https://phys.org/news/2024-06-biodegradable-barley-plastic.html)
 * [2024-06-25, 02:29:54](https://news.ycombinator.com/item?id=40783742) - [Wave activity on Titan strong enough to erode the coastlines of lakes and seas](https://phys.org/news/2024-06-titan-strong-erode-coastlines-lakes.html)
 * [2024-06-25, 02:20:36](https://news.ycombinator.com/item?id=40783664) - [Indonesian government datacenter locked down in $8M ransomware rumble](https://www.theregister.com/2024/06/24/indonesia_datacenter_ransomware/)
 * [2024-06-25, 02:10:40](https://news.ycombinator.com/item?id=40783598) - [SIMD-accelerated computer vision on a $2 microcontroller](https://shraiwi.github.io/read.html?md=blog/simd-fast-esp32s3.md)
-* [2024-06-25, 02:03:45](https://news.ycombinator.com/item?id=40783553) - [Personal light exposure patterns and incidence of type 2 diabetes](https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(24)00110-8/fulltext)
 * [2024-06-25, 01:55:22](https://news.ycombinator.com/item?id=40783485) - [Twonkie: A USB-PD sniffer/injector/sink based on Google's Twinkie open hardware](https://github.com/dojoe/Twonkie)
 * [2024-06-25, 01:19:55](https://news.ycombinator.com/item?id=40783229) - [From 0/10 to 8/10: Microsoft Puts Repair Front and Center](https://www.ifixit.com/News/96998/from-0-10-to-8-10-microsoft-puts-repair-front-and-center)
 * [2024-06-25, 00:23:02](https://news.ycombinator.com/item?id=40782791) - [The First Hedge Fund](https://commoncog.com/c/cases/aw-jones-hedge-fund/)
