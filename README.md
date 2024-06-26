@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-26, 22:03:30](https://news.ycombinator.com/item?id=40805104) - [Wild Boar Has Five Times More PFAS Than Humans Allowed to Eat](https://www.forbes.com/sites/grrlscientist/2024/06/26/wild-boar-has-five-times-more-toxic-pfas-than-humans-allowed-to-eat/)
 * [2024-06-26, 21:35:11](https://news.ycombinator.com/item?id=40804856) - [SpaceX to deliver vehicle to deorbit International Space Station](https://www.nasa.gov/news-release/nasa-selects-international-space-station-us-deorbit-vehicle/)
 * [2024-06-26, 21:32:26](https://news.ycombinator.com/item?id=40804827) - [Breath of God: Tripping on Xenon Gas](https://tripsitter.substack.com/p/xenon)
 * [2024-06-26, 21:13:29](https://news.ycombinator.com/item?id=40804645) - [Coup Attempt in Bolivia](https://www.bloomberg.com/news/articles/2024-06-26/bolivia-presidential-palace-stormed-in-apparent-coup-attempt)
@@ -22,7 +23,6 @@
 * [2024-06-24, 00:58:30](https://news.ycombinator.com/item?id=40771906) - [The Alternate Reality Kit (1987) [video]](https://www.youtube.com/watch?v=w1HhPE0zV6g)
 * [2024-06-23, 18:50:08](https://news.ycombinator.com/item?id=40769636) - [How electronic ignition works and also how to make a spark plug play music](https://www.theautopian.com/this-is-how-electronic-ignition-works-and-also-how-to-make-a-spark-plug-play-music/)
 * [2024-06-23, 17:17:12](https://news.ycombinator.com/item?id=40768959) - [How automotive radar measures the velocity of objects](https://www.viksnewsletter.com/p/how-automotive-radar-measures-velocity)
-* [2024-06-23, 13:07:08](https://news.ycombinator.com/item?id=40767207) - [Group actions and hashing unordered multisets (2021)](https://www.jeremykun.com/2021/10/14/group-actions-and-hashing-unordered-multisets/)
 * [2024-06-23, 08:43:29](https://news.ycombinator.com/item?id=40765770) - [Liquid Layers](https://grantkot.com/ll/)
 * [2024-06-22, 22:45:53](https://news.ycombinator.com/item?id=40762912) - [Composite modding another Atari, because colors are hard](https://nicole.express/2024/have-you-hacked-atari-today.html)
 * [2024-06-21, 18:04:30](https://news.ycombinator.com/item?id=40752111) - [Exploring How Cache Memory Works](https://pikuma.com/blog/understanding-computer-cache)

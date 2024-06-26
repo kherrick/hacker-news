@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-26](index.md)
 
+* [2024-06-26, 22:03:30](https://news.ycombinator.com/item?id=40805104) - [Wild Boar Has Five Times More PFAS Than Humans Allowed to Eat](https://www.forbes.com/sites/grrlscientist/2024/06/26/wild-boar-has-five-times-more-toxic-pfas-than-humans-allowed-to-eat/)
 * [2024-06-26, 21:35:11](https://news.ycombinator.com/item?id=40804856) - [SpaceX to deliver vehicle to deorbit International Space Station](https://www.nasa.gov/news-release/nasa-selects-international-space-station-us-deorbit-vehicle/)
 * [2024-06-26, 21:32:26](https://news.ycombinator.com/item?id=40804827) - [Breath of God: Tripping on Xenon Gas](https://tripsitter.substack.com/p/xenon)
 * [2024-06-26, 21:13:29](https://news.ycombinator.com/item?id=40804645) - [Coup Attempt in Bolivia](https://www.bloomberg.com/news/articles/2024-06-26/bolivia-presidential-palace-stormed-in-apparent-coup-attempt)
