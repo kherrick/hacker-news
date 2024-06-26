@@ -7,6 +7,7 @@
 * [2024-06-21, 23:49:05](https://news.ycombinator.com/item?id=40755014) - [Redbox missed a multimillion-dollar payment it couldn't afford to miss](https://www.theverge.com/2024/6/21/24183454/redbox-universal-missed-payment-17-million)
 * [2024-06-21, 23:41:22](https://news.ycombinator.com/item?id=40754982) - [Spinning hard disks with dual read-write heads exist](https://www.seagate.com/innovation/multi-actuator-hard-drives/)
 * [2024-06-21, 23:40:14](https://news.ycombinator.com/item?id=40754976) - [Umbrella Cover Museum](https://en.wikipedia.org/wiki/Umbrella_Cover_Museum)
+* [2024-06-21, 22:54:22](https://news.ycombinator.com/item?id=40754681) - [Do not confuse a random variable with its distribution](https://bookdown.org/kevin_davisross/probsim-book/distribution.html)
 * [2024-06-21, 22:54:22](https://news.ycombinator.com/item?id=40754681) - [Do not confuse a random variable with its distribution](https://bookdown.org/kevin_davisross/probsim-book/distribution.html#exm:dd-same-distribution)
 * [2024-06-21, 22:46:29](https://news.ycombinator.com/item?id=40754624) - [Technical Marvels, Part 3: The Yupana](https://cacm.acm.org/blogcacm/technical-marvels-part-3-the-yupana/)
 * [2024-06-21, 22:25:36](https://news.ycombinator.com/item?id=40754501) - [The End-of-Line Story (2004)](https://www.rfc-editor.org/old/EOLstory.txt)
