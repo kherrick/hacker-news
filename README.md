@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-26, 21:35:11](https://news.ycombinator.com/item?id=40804856) - [SpaceX to deliver vehicle to deorbit International Space Station](https://www.nasa.gov/news-release/nasa-selects-international-space-station-us-deorbit-vehicle/)
 * [2024-06-26, 21:13:29](https://news.ycombinator.com/item?id=40804645) - [Coup Attempt in Bolivia](https://www.bloomberg.com/news/articles/2024-06-26/bolivia-presidential-palace-stormed-in-apparent-coup-attempt)
 * [2024-06-26, 21:12:31](https://news.ycombinator.com/item?id=40804635) - [How the STL Uses Explicit](https://quuxplusone.github.io/blog/2024/06/25/most-stl-ctors-arent-explicit-but-yours-still-should-be/)
 * [2024-06-26, 20:35:17](https://news.ycombinator.com/item?id=40804317) - [Cloudflare automatically fixes Polyfill.io for free sites](https://blog.cloudflare.com/automatically-replacing-polyfill-io-links-with-cloudflares-mirror-for-a-safer-internet)
@@ -19,7 +20,6 @@
 * [2024-06-24, 11:31:16](https://news.ycombinator.com/item?id=40774748) - [Tracing garbage collection for arenas](https://btmc.substack.com/p/tracing-garbage-collection-for-arenas)
 * [2024-06-24, 06:47:47](https://news.ycombinator.com/item?id=40773125) - [From RSS to My Kindle](https://olano.dev/blog/from-rss-to-my-kindle)
 * [2024-06-24, 00:58:30](https://news.ycombinator.com/item?id=40771906) - [The Alternate Reality Kit (1987) [video]](https://www.youtube.com/watch?v=w1HhPE0zV6g)
-* [2024-06-23, 22:21:29](https://news.ycombinator.com/item?id=40771104) - [The semiotics of barbed wire fence](https://languagelog.ldc.upenn.edu/nll/?p=64579)
 * [2024-06-23, 18:50:08](https://news.ycombinator.com/item?id=40769636) - [How electronic ignition works and also how to make a spark plug play music](https://www.theautopian.com/this-is-how-electronic-ignition-works-and-also-how-to-make-a-spark-plug-play-music/)
 * [2024-06-23, 17:17:12](https://news.ycombinator.com/item?id=40768959) - [How automotive radar measures the velocity of objects](https://www.viksnewsletter.com/p/how-automotive-radar-measures-velocity)
 * [2024-06-23, 13:07:08](https://news.ycombinator.com/item?id=40767207) - [Group actions and hashing unordered multisets (2021)](https://www.jeremykun.com/2021/10/14/group-actions-and-hashing-unordered-multisets/)
