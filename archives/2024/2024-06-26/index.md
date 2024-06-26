@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-26](index.md)
 
+* [2024-06-26, 19:13:27](https://news.ycombinator.com/item?id=40803448) - [NYC banned Airbnbs to make housing cheaper, but only made hotels more expensive](https://www.businessinsider.com/airbnb-numbers-shrink-hotel-prices-soar-ban-nyc-2024-6)
 * [2024-06-26, 18:05:30](https://news.ycombinator.com/item?id=40802686) - [The Living Computers Museum Isn't](http://oldvcr.blogspot.com/2024/06/the-living-computers-museum-finally-isnt.html)
 * [2024-06-26, 18:04:34](https://news.ycombinator.com/item?id=40802676) - [Figma Slides](https://www.figma.com/slides/)
 * [2024-06-26, 17:39:50](https://news.ycombinator.com/item?id=40802423) - [Figma AI: Empowering designers with intelligent tools](https://www.figma.com/blog/introducing-figma-ai/)
