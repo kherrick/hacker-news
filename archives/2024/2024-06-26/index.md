@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-06-26](index.md)
 
 * [2024-06-26, 17:36:34](https://news.ycombinator.com/item?id=40802393) - [uBlock Origin has blocklisted PolyfillIO in it's badware list](https://github.com/uBlockOrigin/uAssets/pull/24255)
+* [2024-06-26, 17:32:04](https://news.ycombinator.com/item?id=40802334) - [Anthropic: Expanding Access to Claude for Government](https://www.anthropic.com/news/expanding-access-to-claude-for-government)
+* [2024-06-26, 17:28:04](https://news.ycombinator.com/item?id=40802296) - [Millions of Taxpayers Call the IRS for Help. Two-Thirds Don't Reach Anyone](https://www.wsj.com/personal-finance/taxes/irs-customer-service-phone-call-data-fe7c0e65)
 * [2024-06-26, 17:00:17](https://news.ycombinator.com/item?id=40802054) - [Motion (YC W20) Is Hiring Our First DevOps Engineer](https://jobs.ashbyhq.com/motion/731e6994-c9b0-43ae-b7e4-28cbca03920f?utm_source=hn)
 * [2024-06-26, 16:52:06](https://news.ycombinator.com/item?id=40801971) - [Supreme Court strikes anti-corruption law that bars officials from taking gifts](https://www.latimes.com/world-nation/story/2024-06-26/supreme-court-anti-corruption-law)
 * [2024-06-26, 16:05:36](https://news.ycombinator.com/item?id=40801523) - [Rabbit failed to properly reset keys: emails can be sent from rabbit.tech domain](https://rabbitu.de/articles/security-disclosure-2)

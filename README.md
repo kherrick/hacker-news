@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-26, 17:36:34](https://news.ycombinator.com/item?id=40802393) - [uBlock Origin has blocklisted PolyfillIO in it's badware list](https://github.com/uBlockOrigin/uAssets/pull/24255)
+* [2024-06-26, 17:32:04](https://news.ycombinator.com/item?id=40802334) - [Anthropic: Expanding Access to Claude for Government](https://www.anthropic.com/news/expanding-access-to-claude-for-government)
+* [2024-06-26, 17:28:04](https://news.ycombinator.com/item?id=40802296) - [Millions of Taxpayers Call the IRS for Help. Two-Thirds Don't Reach Anyone](https://www.wsj.com/personal-finance/taxes/irs-customer-service-phone-call-data-fe7c0e65)
 * [2024-06-26, 17:00:17](https://news.ycombinator.com/item?id=40802054) - [Motion (YC W20) Is Hiring Our First DevOps Engineer](https://jobs.ashbyhq.com/motion/731e6994-c9b0-43ae-b7e4-28cbca03920f?utm_source=hn)
 * [2024-06-26, 16:05:36](https://news.ycombinator.com/item?id=40801523) - [Rabbit failed to properly reset keys: emails can be sent from rabbit.tech domain](https://rabbitu.de/articles/security-disclosure-2)
 * [2024-06-26, 16:02:57](https://news.ycombinator.com/item?id=40801494) - [Show HN: Find AI – Perplexity Meets LinkedIn](https://usefind.ai/)
-* [2024-06-26, 16:00:48](https://news.ycombinator.com/item?id=40801479) - [US Mac market share grew 22% in Q1, likely helped by new MacBook Air models](https://9to5mac.com/2024/06/26/us-mac-market-share-q1-2024/)
 * [2024-06-26, 16:00:15](https://news.ycombinator.com/item?id=40801475) - [Things you didn't know about GNU readline (2019)](https://twobithistory.org/2019/08/22/readline.html)
 * [2024-06-26, 15:02:38](https://news.ycombinator.com/item?id=40800869) - [One Million Checkboxes](https://onemillioncheckboxes.com/)
 * [2024-06-26, 13:27:14](https://news.ycombinator.com/item?id=40799791) - [Show HN: R2R V2 – A open source RAG engine with prod features](https://github.com/SciPhi-AI/R2R)
