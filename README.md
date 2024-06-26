@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-26, 22:33:59](https://news.ycombinator.com/item?id=40805351) - [Corcel – Use WordPress backend with Laravel or any PHP application](https://github.com/corcel/corcel)
 * [2024-06-26, 22:21:49](https://news.ycombinator.com/item?id=40805251) - [The brain makes a lot of waste. Now scientists think they know where it goes](https://www.npr.org/sections/shots-health-news/2024/06/26/g-s1-6177/brain-waste-removal-system-amyloid-alzheimer-toxins)
 * [2024-06-26, 22:03:30](https://news.ycombinator.com/item?id=40805104) - [Wild Boar Has Five Times More PFAS Than Humans Allowed to Eat](https://www.forbes.com/sites/grrlscientist/2024/06/26/wild-boar-has-five-times-more-toxic-pfas-than-humans-allowed-to-eat/)
 * [2024-06-26, 22:03:00](https://news.ycombinator.com/item?id=40805099) - [South Korean telecom company attacks torrent users with malware](https://www.tomshardware.com/tech-industry/cyber-security/south-korean-telecom-company-attacks-torrent-users-with-malware-over-600000-people-report-missing-files-strange-folders-and-disabled-pcs)
@@ -14,7 +15,6 @@
 * [2024-06-26, 15:02:38](https://news.ycombinator.com/item?id=40800869) - [One Million Checkboxes](https://onemillioncheckboxes.com/)
 * [2024-06-26, 13:27:14](https://news.ycombinator.com/item?id=40799791) - [Show HN: R2R V2 – A open source RAG engine with prod features](https://github.com/SciPhi-AI/R2R)
 * [2024-06-26, 12:15:46](https://news.ycombinator.com/item?id=40799090) - [Ghosts in the ROM (2012)](https://www.nycresistor.com/2012/08/21/ghosts-in-the-rom/)
-* [2024-06-26, 06:46:56](https://news.ycombinator.com/item?id=40797070) - [Why blue animals are so rare](https://www.popsci.com/environment/why-blue-animals-are-rare/)
 * [2024-06-25, 16:42:14](https://news.ycombinator.com/item?id=40790642) - [APL Demonstration (1975) [video]](https://www.youtube.com/watch?v=_DTpQ4Kk2wA)
 * [2024-06-25, 14:35:07](https://news.ycombinator.com/item?id=40789179) - [Living Computers Museum to permanently close, auction vintage items](https://www.geekwire.com/2024/seattles-living-computers-museum-logs-off-for-good-as-paul-allen-estate-will-auction-vintage-items/)
 * [2024-06-24, 11:42:03](https://news.ycombinator.com/item?id=40774833) - [GCC's new fortification level: The gains and costs](https://developers.redhat.com/articles/2022/09/17/gccs-new-fortification-level)
