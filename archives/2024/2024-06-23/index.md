@@ -105,6 +105,7 @@
 * [2024-06-23, 01:41:24](https://news.ycombinator.com/item?id=40763931) - [Words you can spell with a calculator](https://paperlined.org/apps/wikipedia/offsite_content/Calculator_spelling.txt)
 * [2024-06-23, 01:39:33](https://news.ycombinator.com/item?id=40763919) - [The manager's unbearable lack of endorphins](https://jamie.ideasasylum.com/2024/06/21/the-manager-s-unbearable-lack-of-endorphins)
 * [2024-06-23, 01:34:37](https://news.ycombinator.com/item?id=40763885) - [Asian groceries like H Mart and Patel Brothers are reshaping America](https://www.nytimes.com/2024/06/11/dining/asian-grocery-stores-america.html)
+* [2024-06-23, 01:16:44](https://news.ycombinator.com/item?id=40763782) - [Diffusion Limited Aggregation (1991)](http://www.paulbourke.net/fractals/dla/)
 * [2024-06-23, 01:12:01](https://news.ycombinator.com/item?id=40763757) - [Mozilla's Original Sin](https://www.jwz.org/blog/2024/06/mozillas-original-sin/)
 * [2024-06-23, 00:46:26](https://news.ycombinator.com/item?id=40763640) - [Ruby: A great language for shell scripts](https://lucasoshiro.github.io/posts-en/2024-06-17-ruby-shellscript/)
 * [2024-06-23, 00:30:50](https://news.ycombinator.com/item?id=40763540) - [ChatGPT is biased against resumes with credentials that imply a disability](https://www.washington.edu/news/2024/06/21/chatgpt-ai-bias-ableism-disability-resume-cv/)

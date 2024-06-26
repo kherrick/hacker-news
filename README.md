@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-26, 05:43:06](https://news.ycombinator.com/item?id=40796771) - [The many faces of undefined in JavaScript](https://mortoray.com/the-many-faces-of-undefined-in-javascript/)
 * [2024-06-26, 01:57:30](https://news.ycombinator.com/item?id=40795688) - [First Class Contexts – Rye Language](https://ryelang.org/meet_rye/specifics/context/)
 * [2024-06-26, 01:28:16](https://news.ycombinator.com/item?id=40795556) - [The rarest book in American literature: Poe's Tamerlane](https://lithub.com/in-search-of-the-rarest-book-in-american-literature-edgar-allan-poes-tamerlane/)
 * [2024-06-26, 01:00:57](https://news.ycombinator.com/item?id=40795404) - [Brazil's Supreme Court decriminalizes marijuana](https://www.bloomberg.com/news/articles/2024-06-25/brazil-supreme-court-decriminalizes-marijuana-for-personal-use)
@@ -10,9 +11,7 @@
 * [2024-06-25, 21:00:06](https://news.ycombinator.com/item?id=40793540) - [Supabase (YC S20) Is Hiring Postgres SREs](https://boards.greenhouse.io/supabase/jobs/5162509004)
 * [2024-06-25, 20:52:52](https://news.ycombinator.com/item?id=40793465) - [Ball: A ball that lives in your dock](https://github.com/nate-parrott/ball)
 * [2024-06-25, 19:45:08](https://news.ycombinator.com/item?id=40792740) - [Fixing QuickLook (2023)](https://foon.uk/fixing-quicklook/)
-* [2024-06-25, 18:27:30](https://news.ycombinator.com/item?id=40791829) - [Polyfill supply chain attack hits 100K+ sites](https://sansec.io/research/polyfill-supply-chain-attack)
 * [2024-06-25, 17:26:25](https://news.ycombinator.com/item?id=40791112) - [Show HN: FiddleCube – Generate Q&A to test your LLM](https://github.com/fiddlecube/fiddlecube-sdk)
-* [2024-06-25, 15:48:29](https://news.ycombinator.com/item?id=40790057) - [Chang'e 6 lunar sample return mission returns with samples from moon's far side](https://www.theguardian.com/world/article/2024/jun/25/chinas-change-6-lunar-probe-returns-world-first-samples-from-far-side-of-the-moon)
 * [2024-06-25, 15:44:38](https://news.ycombinator.com/item?id=40790008) - [Igneous Linearizer: semi-structured source code](https://domain-j.com/Igneous-Linearizer/uuid/9e30337c-b890-4fd9-a0bd-51a7aa6e65b0)
 * [2024-06-25, 15:30:40](https://news.ycombinator.com/item?id=40789862) - [Show HN: Glasskube – Open Source Kubernetes Package Manager, alternative to Helm](https://github.com/glasskube/glasskube)
 * [2024-06-25, 15:14:08](https://news.ycombinator.com/item?id=40789672) - [Show HN: I built a JavaScript-powered flipdisc display](https://flipdisc.io/)
@@ -28,6 +27,7 @@
 * [2024-06-24, 05:24:44](https://news.ycombinator.com/item?id=40772831) - [A reckless introduction to Hindley-Milner type inference (2019)](https://reasonableapproximation.net/2019/05/05/hindley-milner.html)
 * [2024-06-24, 00:58:30](https://news.ycombinator.com/item?id=40771906) - [The Alternate Reality Kit (1987) [video]](https://www.youtube.com/watch?v=w1HhPE0zV6g)
 * [2024-06-23, 20:49:08](https://news.ycombinator.com/item?id=40770484) - [Does a cave beneath Pembroke Castle hold key to fate of early Britons?](https://www.theguardian.com/science/article/2024/jun/22/does-a-cave-beneath-pembroke-castle-hold-key-to-fate-of-early-britons)
+* [2024-06-23, 01:16:44](https://news.ycombinator.com/item?id=40763782) - [Diffusion Limited Aggregation (1991)](http://www.paulbourke.net/fractals/dla/)
 * [2024-06-21, 23:06:55](https://news.ycombinator.com/item?id=40754764) - [Humans, and Hyenas, Sheltered in Cave-Like Lava Tubes Millennia Ago](https://www.wsj.com/science/archaeology/lava-tubes-saudi-arabia-history-d6fc9c31)
 * [2024-06-21, 22:54:22](https://news.ycombinator.com/item?id=40754681) - [Do not confuse a random variable with its distribution](https://bookdown.org/kevin_davisross/probsim-book/distribution.html)
 
