@@ -1,12 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-26, 20:35:17](https://news.ycombinator.com/item?id=40804317) - [Cloudflare automatically fixes Polyfill.io for free sites](https://blog.cloudflare.com/automatically-replacing-polyfill-io-links-with-cloudflares-mirror-for-a-safer-internet)
 * [2024-06-26, 20:12:31](https://news.ycombinator.com/item?id=40804122) - [The Forth Deck mini: a portable Forth computer with a discrete CPU](http://mynor.org/my4th_forthdeck.htm)
 * [2024-06-26, 19:41:14](https://news.ycombinator.com/item?id=40803783) - [Next gen 3D metal printing](https://fabric8labs.com)
 * [2024-06-26, 18:04:34](https://news.ycombinator.com/item?id=40802676) - [Figma Slides](https://www.figma.com/slides/)
 * [2024-06-26, 17:39:50](https://news.ycombinator.com/item?id=40802423) - [Figma AI](https://www.figma.com/blog/introducing-figma-ai/)
 * [2024-06-26, 17:00:17](https://news.ycombinator.com/item?id=40802054) - [Motion (YC W20) Is Hiring Our First DevOps Engineer](https://jobs.ashbyhq.com/motion/731e6994-c9b0-43ae-b7e4-28cbca03920f?utm_source=hn)
-* [2024-06-26, 16:52:06](https://news.ycombinator.com/item?id=40801971) - [Supreme Court strikes anti-corruption law that bars officials from taking gifts](https://www.latimes.com/world-nation/story/2024-06-26/supreme-court-anti-corruption-law)
-* [2024-06-26, 16:05:36](https://news.ycombinator.com/item?id=40801523) - [Rabbit failed to properly reset keys: emails can be sent from rabbit.tech domain](https://rabbitu.de/articles/security-disclosure-2)
 * [2024-06-26, 16:02:57](https://news.ycombinator.com/item?id=40801494) - [Show HN: Find AI – Perplexity Meets LinkedIn](https://usefind.ai/)
 * [2024-06-26, 16:00:15](https://news.ycombinator.com/item?id=40801475) - [Things you didn't know about GNU readline (2019)](https://twobithistory.org/2019/08/22/readline.html)
 * [2024-06-26, 15:02:38](https://news.ycombinator.com/item?id=40800869) - [One Million Checkboxes](https://onemillioncheckboxes.com/)
@@ -30,6 +29,7 @@
 * [2024-06-21, 14:21:14](https://news.ycombinator.com/item?id=40749924) - [Test firing of a 3D-printed rocket engine designed through computational model](https://leap71.com/2024/06/18/leap-71-hot-fires-3d-printed-liquid-fuel-rocket-engine-designed-through-noyron-computational-model/)
 * [2024-06-21, 13:27:51](https://news.ycombinator.com/item?id=40749401) - [The plan-execute pattern](https://mmapped.blog/posts/29-plan-execute)
 * [2024-06-21, 13:21:56](https://news.ycombinator.com/item?id=40749345) - [Documentation Driven Development (2022)](https://unicorn-utterances.com/posts/documentation-driven-development)
+* [2024-06-21, 05:29:11](https://news.ycombinator.com/item?id=40746459) - [Upgrading my Chumby 8 kernel part 11: SD/CF card reader](https://www.downtowndougbrown.com/2024/06/upgrading-my-chumby-8-kernel-part-11-sd-cf-card-reader/)
 
 ## [Archives](archives/index.md)
 

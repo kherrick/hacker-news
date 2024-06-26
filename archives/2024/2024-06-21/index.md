@@ -114,6 +114,7 @@
 * [2024-06-21, 06:20:25](https://news.ycombinator.com/item?id=40746721) - [SpaceX unveils backpack-sized 'Starlink Mini' internet antenna for $599](https://www.cnbc.com/2024/06/20/spacex-unveils-starlink-mini-satellite-internet-antenna-for-599.html)
 * [2024-06-21, 05:56:45](https://news.ycombinator.com/item?id=40746617) - [The exponential growth of solar power will change the world](https://www.economist.com/leaders/2024/06/20/the-exponential-growth-of-solar-power-will-change-the-world)
 * [2024-06-21, 05:42:26](https://news.ycombinator.com/item?id=40746524) - [US Bans Kaspersky Software](https://www.wired.com/story/us-bans-kaspersky-software/)
+* [2024-06-21, 05:29:11](https://news.ycombinator.com/item?id=40746459) - [Upgrading my Chumby 8 kernel part 11: SD/CF card reader](https://www.downtowndougbrown.com/2024/06/upgrading-my-chumby-8-kernel-part-11-sd-cf-card-reader/)
 * [2024-06-21, 05:02:25](https://news.ycombinator.com/item?id=40746310) - [MeshAnything – converts 3D representations into efficient 3D meshes](https://buaacyw.github.io/mesh-anything/)
 * [2024-06-21, 04:31:38](https://news.ycombinator.com/item?id=40746173) - [A Rant about Front-end Development](https://blog.frankmtaylor.com/2024/06/20/a-rant-about-front-end-development/)
 * [2024-06-21, 04:25:36](https://news.ycombinator.com/item?id=40746144) - [Using Stockfish to identify ideal squares](https://lichess.org/@/jk_182/blog/using-stockfish-to-identify-ideal-squares/x3U2g3NP)
