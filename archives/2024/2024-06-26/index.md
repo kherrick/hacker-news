@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-06-26](index.md)
 
+* [2024-06-26, 04:00:41](https://news.ycombinator.com/item?id=40796253) - [Does Weed Cause Strokes and Heart Attacks?](https://reason.com/video/2024/06/25/does-weed-cause-strokes-and-heart-attacks/)
 * [2024-06-26, 02:21:41](https://news.ycombinator.com/item?id=40795813) - [Maximizing Terraform modules for platform engineering](https://thenewstack.io/maximizing-terraform-modules-for-platform-engineering/)
+* [2024-06-26, 01:57:31](https://news.ycombinator.com/item?id=40795689) - [Show HN: Chrome extension that brings Claude Artifacts for ChatGPT](https://github.com/MichaelYuhe/Artifacts-for-ChatGPT)
+* [2024-06-26, 01:57:30](https://news.ycombinator.com/item?id=40795688) - [First Class Contexts – Rye Language](https://ryelang.org/meet_rye/specifics/context/)
 * [2024-06-26, 01:28:16](https://news.ycombinator.com/item?id=40795556) - [The rarest book in American literature: Poe's Tamerlane](https://lithub.com/in-search-of-the-rarest-book-in-american-literature-edgar-allan-poes-tamerlane/)
 * [2024-06-26, 01:20:27](https://news.ycombinator.com/item?id=40795525) - [Indications of superconductivities in blend of variant apatite and covellite](https://arxiv.org/abs/2406.17525)
+* [2024-06-26, 01:01:19](https://news.ycombinator.com/item?id=40795405) - [My spiciest take on tech hiring](https://www.haskellforall.com/2024/06/my-spiciest-take-on-tech-hiring.html)
 * [2024-06-26, 01:00:57](https://news.ycombinator.com/item?id=40795404) - [Brazil's Supreme Court Decriminalizes Marijuana](https://www.bloomberg.com/news/articles/2024-06-25/brazil-supreme-court-decriminalizes-marijuana-for-personal-use)
 * [2024-06-26, 00:53:57](https://news.ycombinator.com/item?id=40795368) - [Loneliness trajectories are associated with midlife conspiracist worldviews](https://www.nature.com/articles/s41467-024-47113-x)
 * [2024-06-26, 00:27:49](https://news.ycombinator.com/item?id=40795227) - [The Album Art of Phil Hartman(n)](https://www.conorherbert.com/music/the-album-art-of-phil-hartmann)
