@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-26, 05:43:06",
+      "https://news.ycombinator.com/item?id=40796771"
+    ],
+    [
+      "The many faces of undefined in JavaScript",
+      "https://mortoray.com/the-many-faces-of-undefined-in-javascript/"
+    ]
+  ],
+  [
+    [
       "2024-06-26, 01:57:30",
       "https://news.ycombinator.com/item?id=40795688"
     ],
@@ -101,32 +111,12 @@
   ],
   [
     [
-      "2024-06-25, 18:27:30",
-      "https://news.ycombinator.com/item?id=40791829"
-    ],
-    [
-      "Polyfill supply chain attack hits 100K+ sites",
-      "https://sansec.io/research/polyfill-supply-chain-attack"
-    ]
-  ],
-  [
-    [
       "2024-06-25, 17:26:25",
       "https://news.ycombinator.com/item?id=40791112"
     ],
     [
       "Show HN: FiddleCube – Generate Q&A to test your LLM",
       "https://github.com/fiddlecube/fiddlecube-sdk"
-    ]
-  ],
-  [
-    [
-      "2024-06-25, 15:48:29",
-      "https://news.ycombinator.com/item?id=40790057"
-    ],
-    [
-      "Chang'e 6 lunar sample return mission returns with samples from moon's far side",
-      "https://www.theguardian.com/world/article/2024/jun/25/chinas-change-6-lunar-probe-returns-world-first-samples-from-far-side-of-the-moon"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Does a cave beneath Pembroke Castle hold key to fate of early Britons?",
       "https://www.theguardian.com/science/article/2024/jun/22/does-a-cave-beneath-pembroke-castle-hold-key-to-fate-of-early-britons"
+    ]
+  ],
+  [
+    [
+      "2024-06-23, 01:16:44",
+      "https://news.ycombinator.com/item?id=40763782"
+    ],
+    [
+      "Diffusion Limited Aggregation (1991)",
+      "http://www.paulbourke.net/fractals/dla/"
     ]
   ],
   [
