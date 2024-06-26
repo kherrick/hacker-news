@@ -6,7 +6,6 @@
 * [2024-06-26, 06:19:06](https://news.ycombinator.com/item?id=40796950) - [Volkswagen invests up to $5B in Rivian](https://www.bloomberg.com/news/articles/2024-06-25/vw-invests-5-billion-in-ev-startup-rivian-to-form-joint-venture)
 * [2024-06-26, 06:17:49](https://news.ycombinator.com/item?id=40796946) - [Remote shell to a Raspberry Pi at 39,000 ft](https://www.jeffgeerling.com/blog/2024/remote-shell-raspberry-pi-39000-ft)
 * [2024-06-26, 04:45:20](https://news.ycombinator.com/item?id=40796459) - [Vigorous Exercise, Cognitive Decline, and High Blood Pressure](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.13887)
-* [2024-06-26, 01:57:30](https://news.ycombinator.com/item?id=40795688) - [First Class Contexts – Rye Language](https://ryelang.org/meet_rye/specifics/context/)
 * [2024-06-26, 01:28:16](https://news.ycombinator.com/item?id=40795556) - [The rarest book in American literature: Poe's Tamerlane](https://lithub.com/in-search-of-the-rarest-book-in-american-literature-edgar-allan-poes-tamerlane/)
 * [2024-06-26, 00:27:49](https://news.ycombinator.com/item?id=40795227) - [The album art of Phil Hartman(n) (2022)](https://www.conorherbert.com/music/the-album-art-of-phil-hartmann)
 * [2024-06-25, 23:15:02](https://news.ycombinator.com/item?id=40794786) - [A brief introduction to interval arithmetic](https://buttondown.email/hillelwayne/archive/a-brief-introduction-to-interval-arithmetic/)
@@ -29,6 +28,7 @@
 * [2024-06-23, 17:10:45](https://news.ycombinator.com/item?id=40768913) - [Elixir Gotchas](https://pragtob.wordpress.com/2024/05/01/10-elixir-gotchas/)
 * [2024-06-23, 01:16:44](https://news.ycombinator.com/item?id=40763782) - [Diffusion Limited Aggregation (1991)](http://www.paulbourke.net/fractals/dla/)
 * [2024-06-21, 23:06:55](https://news.ycombinator.com/item?id=40754764) - [Humans, and Hyenas, Sheltered in Cave-Like Lava Tubes Millennia Ago](https://www.wsj.com/science/archaeology/lava-tubes-saudi-arabia-history-d6fc9c31)
+* [2024-06-21, 19:18:40](https://news.ycombinator.com/item?id=40752728) - [What Happens When You Put a Database in the Browser?](https://motherduck.com/blog/olap-database-in-browser/)
 * [2024-06-21, 18:21:29](https://news.ycombinator.com/item?id=40752245) - [Simple ways to find exposed sensitive information](https://www.trickster.dev/post/simple-ways-to-find-exposed-sensitive-information/)
 
 ## [Archives](archives/index.md)

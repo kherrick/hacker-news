@@ -30,6 +30,7 @@
 * [2024-06-21, 19:34:01](https://news.ycombinator.com/item?id=40752856) - [Climate Zones](https://pudding.cool/2024/06/climate-zones/)
 * [2024-06-21, 19:29:13](https://news.ycombinator.com/item?id=40752811) - [GitHub – Karpathy/LLM101n: LLM101n: Let's Build a Storyteller](https://github.com/karpathy/LLM101n)
 * [2024-06-21, 19:23:02](https://news.ycombinator.com/item?id=40752761) - [Barcelona will eliminate ALL tourist apartments in 2028 following local backlash](https://www.theolivepress.es/spain-news/2024/06/21/breaking-barcelona-will-remove-all-tourist-apartments-in-2028-in-huge-win-for-anti-tourism-activists/)
+* [2024-06-21, 19:18:40](https://news.ycombinator.com/item?id=40752728) - [What Happens When You Put a Database in the Browser?](https://motherduck.com/blog/olap-database-in-browser/)
 * [2024-06-21, 19:17:41](https://news.ycombinator.com/item?id=40752721) - [TSMC experimenting with rectangular wafers vs. round for more chips per wafer](https://asia.nikkei.com/Business/Tech/Semiconductors/TSMC-explores-radical-new-chip-packaging-approach-to-feed-AI-boom)
 * [2024-06-21, 18:57:51](https://news.ycombinator.com/item?id=40752546) - [Migrating from Java 8 to Java 17: A Comprehensive Guide to New Features](https://igorstechnoclub.com/upgrading-to-java-17-a-comprehensive-guide-to-new-features/)
 * [2024-06-21, 18:55:36](https://news.ycombinator.com/item?id=40752518) - [Why SMBs Don't Deploy SSO](https://www.cisa.gov/news-events/news/why-smbs-dont-deploy-single-sign-sso)
