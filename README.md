@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-26, 06:33:20](https://news.ycombinator.com/item?id=40797011) - [Visa, Mastercard $30B swipe fee settlement rejected by US judge](https://www.reuters.com/legal/us-judge-rejects-visa-mastercard-30-bln-swipe-fee-settlement-2024-06-25/)
+* [2024-06-26, 06:19:06](https://news.ycombinator.com/item?id=40796950) - [Volkswagen invests up to $5B in Rivian](https://www.bloomberg.com/news/articles/2024-06-25/vw-invests-5-billion-in-ev-startup-rivian-to-form-joint-venture)
 * [2024-06-26, 06:17:49](https://news.ycombinator.com/item?id=40796946) - [Remote shell to a Raspberry Pi at 39,000 ft](https://www.jeffgeerling.com/blog/2024/remote-shell-raspberry-pi-39000-ft)
 * [2024-06-26, 05:43:06](https://news.ycombinator.com/item?id=40796771) - [The many faces of undefined in JavaScript](https://mortoray.com/the-many-faces-of-undefined-in-javascript/)
 * [2024-06-26, 04:45:20](https://news.ycombinator.com/item?id=40796459) - [Vigorous Exercise, Cognitive Decline, and High Blood Pressure](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.13887)
@@ -21,7 +22,6 @@
 * [2024-06-25, 13:53:05](https://news.ycombinator.com/item?id=40788648) - [Show HN: Triplit – Open-source syncing database that runs on server and client](https://github.com/aspen-cloud/triplit)
 * [2024-06-25, 10:21:47](https://news.ycombinator.com/item?id=40786640) - [Microsoft breached antitrust rules by bundling Teams and Office, EU says](https://apnews.com/article/microsoft-teams-eu-european-union-antitrust-26d11ada00f504d537d1b054dd6f6bbf)
 * [2024-06-25, 04:23:19](https://news.ycombinator.com/item?id=40784459) - [Stalin, Eisenstein, Walt Disney and Ivan the Terrible (1992)](https://www.cliomuse.com/stalin-disney-eisenstein--ivan-the-terrible.html)
-* [2024-06-24, 22:13:46](https://news.ycombinator.com/item?id=40781573) - [Spy, accomplice, ghostwriter](https://insidestory.org.au/spy-accomplice-ghostwriter/)
 * [2024-06-24, 16:47:34](https://news.ycombinator.com/item?id=40778241) - [Diagraming sentences in the 19th century](https://publicdomainreview.org/collection/diagramming-sentences-in-the-19th-century/)
 * [2024-06-24, 15:01:42](https://news.ycombinator.com/item?id=40776880) - [I found a 1-click exploit in South Korea's biggest mobile chat app](https://stulle123.github.io/posts/kakaotalk-account-takeover/)
 * [2024-06-24, 05:24:44](https://news.ycombinator.com/item?id=40772831) - [A reckless introduction to Hindley-Milner type inference (2019)](https://reasonableapproximation.net/2019/05/05/hindley-milner.html)
