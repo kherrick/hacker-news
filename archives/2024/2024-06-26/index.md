@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-26](index.md)
 
+* [2024-06-26, 08:22:51](https://news.ycombinator.com/item?id=40797598) - [Banach–Tarski Paradox](https://en.wikipedia.org/wiki/Banach%E2%80%93Tarski_paradox)
 * [2024-06-26, 07:14:48](https://news.ycombinator.com/item?id=40797217) - [FICO and the Credit Bureau Cartel](https://www.thebignewsletter.com/p/inside-fico-and-the-credit-bureau)
+* [2024-06-26, 06:56:58](https://news.ycombinator.com/item?id=40797130) - [Google dropping continuous scroll in search results](https://searchengineland.com/google-dropping-continuous-scroll-in-search-results-443529)
 * [2024-06-26, 06:33:20](https://news.ycombinator.com/item?id=40797011) - [Visa, Mastercard $30B swipe fee settlement rejected by US judge](https://www.reuters.com/legal/us-judge-rejects-visa-mastercard-30-bln-swipe-fee-settlement-2024-06-25/)
 * [2024-06-26, 06:19:06](https://news.ycombinator.com/item?id=40796950) - [Volkswagen invests up to $5B in Rivian](https://www.bloomberg.com/news/articles/2024-06-25/vw-invests-5-billion-in-ev-startup-rivian-to-form-joint-venture)
 * [2024-06-26, 06:17:49](https://news.ycombinator.com/item?id=40796946) - [Remote shell to a Raspberry Pi at 39,000 ft](https://www.jeffgeerling.com/blog/2024/remote-shell-raspberry-pi-39000-ft)
