@@ -15,7 +15,6 @@
 * [2024-06-25, 21:00:06](https://news.ycombinator.com/item?id=40793540) - [Supabase (YC S20) Is Hiring Postgres SREs](https://boards.greenhouse.io/supabase/jobs/5162509004)
 * [2024-06-25, 20:52:52](https://news.ycombinator.com/item?id=40793465) - [Ball: A ball that lives in your dock](https://github.com/nate-parrott/ball)
 * [2024-06-25, 19:45:08](https://news.ycombinator.com/item?id=40792740) - [Fixing QuickLook (2023)](https://foon.uk/fixing-quicklook/)
-* [2024-06-25, 17:26:25](https://news.ycombinator.com/item?id=40791112) - [Show HN: FiddleCube – Generate Q&A to test your LLM](https://github.com/fiddlecube/fiddlecube-sdk)
 * [2024-06-25, 15:30:40](https://news.ycombinator.com/item?id=40789862) - [Show HN: Glasskube – Open Source Kubernetes Package Manager, alternative to Helm](https://github.com/glasskube/glasskube)
 * [2024-06-25, 15:14:08](https://news.ycombinator.com/item?id=40789672) - [Show HN: I built a JavaScript-powered flipdisc display](https://flipdisc.io/)
 * [2024-06-25, 14:49:28](https://news.ycombinator.com/item?id=40789353) - [Show HN: From dotenv to dotenvx – better config management](https://dotenvx.com/blog/2024/06/24/dotenvx-next-generation-config-management.html)
@@ -30,6 +29,7 @@
 * [2024-06-23, 01:16:44](https://news.ycombinator.com/item?id=40763782) - [Diffusion Limited Aggregation (1991)](http://www.paulbourke.net/fractals/dla/)
 * [2024-06-21, 19:18:40](https://news.ycombinator.com/item?id=40752728) - [What Happens When You Put a Database in the Browser?](https://motherduck.com/blog/olap-database-in-browser/)
 * [2024-06-21, 18:21:29](https://news.ycombinator.com/item?id=40752245) - [Simple ways to find exposed sensitive information](https://www.trickster.dev/post/simple-ways-to-find-exposed-sensitive-information/)
+* [2024-06-21, 08:57:16](https://news.ycombinator.com/item?id=40747578) - [Nickel Modules](https://www.tweag.io/blog/2024-06-20-nickel-modules/)
 
 ## [Archives](archives/index.md)
 
