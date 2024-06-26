@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-26, 07:14:48](https://news.ycombinator.com/item?id=40797217) - [FICO and the Credit Bureau Cartel](https://www.thebignewsletter.com/p/inside-fico-and-the-credit-bureau)
 * [2024-06-26, 06:33:20](https://news.ycombinator.com/item?id=40797011) - [Visa, Mastercard $30B swipe fee settlement rejected by US judge](https://www.reuters.com/legal/us-judge-rejects-visa-mastercard-30-bln-swipe-fee-settlement-2024-06-25/)
 * [2024-06-26, 06:19:06](https://news.ycombinator.com/item?id=40796950) - [Volkswagen invests up to $5B in Rivian](https://www.bloomberg.com/news/articles/2024-06-25/vw-invests-5-billion-in-ev-startup-rivian-to-form-joint-venture)
 * [2024-06-26, 06:17:49](https://news.ycombinator.com/item?id=40796946) - [Remote shell to a Raspberry Pi at 39,000 ft](https://www.jeffgeerling.com/blog/2024/remote-shell-raspberry-pi-39000-ft)
@@ -18,6 +17,7 @@
 * [2024-06-25, 15:14:08](https://news.ycombinator.com/item?id=40789672) - [Show HN: I built a JavaScript-powered flipdisc display](https://flipdisc.io/)
 * [2024-06-25, 14:54:22](https://news.ycombinator.com/item?id=40789411) - [Waymo One is now open to everyone in San Francisco](https://waymo.com/blog/2024/06/waymo-one-is-now-open-to-everyone-in-san-francisco/)
 * [2024-06-25, 14:49:28](https://news.ycombinator.com/item?id=40789353) - [Show HN: From dotenv to dotenvx – better config management](https://dotenvx.com/blog/2024/06/24/dotenvx-next-generation-config-management.html)
+* [2024-06-25, 14:48:21](https://news.ycombinator.com/item?id=40789339) - [Show HN: The Tomb of Nefertari [QV 66] Guided Virtual Tour](https://mused.com/en/guided/923/the-tomb-of-nefertari-valley-of-the-queens)
 * [2024-06-25, 13:53:05](https://news.ycombinator.com/item?id=40788648) - [Show HN: Triplit – Open-source syncing database that runs on server and client](https://github.com/aspen-cloud/triplit)
 * [2024-06-25, 10:21:47](https://news.ycombinator.com/item?id=40786640) - [Microsoft breached antitrust rules by bundling Teams and Office, EU says](https://apnews.com/article/microsoft-teams-eu-european-union-antitrust-26d11ada00f504d537d1b054dd6f6bbf)
 * [2024-06-25, 04:23:19](https://news.ycombinator.com/item?id=40784459) - [Stalin, Eisenstein, Walt Disney and Ivan the Terrible (1992)](https://www.cliomuse.com/stalin-disney-eisenstein--ivan-the-terrible.html)
