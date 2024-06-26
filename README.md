@@ -4,7 +4,7 @@
 * [2024-06-26, 12:01:14](https://news.ycombinator.com/item?id=40798960) - [Juniper (YC W21) is hiring sr engineers to fix financial infra in recurring care](https://jobs.lever.co/juniperplatform/4295e9c0-57a2-45a5-b120-75b065b2a492)
 * [2024-06-26, 11:46:43](https://news.ycombinator.com/item?id=40798843) - [One Year Since Germany's Nuclear Exit: Renewables Expand, Fossil Fuels Reduced](https://www.ise.fraunhofer.de/en/press-media/press-releases/2024/status-quo-one-year-since-germanys-nuclear-exit-renewable-capacity-expands-electricity-from-fossil-fuels-significantly-reduced.html)
 * [2024-06-26, 07:14:48](https://news.ycombinator.com/item?id=40797217) - [FICO and the Credit Bureau Cartel](https://www.thebignewsletter.com/p/inside-fico-and-the-credit-bureau)
-* [2024-06-26, 05:00:04](https://news.ycombinator.com/item?id=40796538) - [A better way to teach online](https://nabda.app)
+* [2024-06-26, 01:57:30](https://news.ycombinator.com/item?id=40795688) - [First Class Contexts – Rye Language](https://ryelang.org/meet_rye/specifics/context/)
 * [2024-06-26, 01:28:16](https://news.ycombinator.com/item?id=40795556) - [The rarest book in American literature: Poe's Tamerlane](https://lithub.com/in-search-of-the-rarest-book-in-american-literature-edgar-allan-poes-tamerlane/)
 * [2024-06-26, 00:27:49](https://news.ycombinator.com/item?id=40795227) - [The album art of Phil Hartmann (2022)](https://www.conorherbert.com/music/the-album-art-of-phil-hartmann)
 * [2024-06-25, 23:15:02](https://news.ycombinator.com/item?id=40794786) - [A brief introduction to interval arithmetic](https://buttondown.email/hillelwayne/archive/a-brief-introduction-to-interval-arithmetic/)
