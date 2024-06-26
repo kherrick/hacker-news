@@ -17,6 +17,7 @@
 * [2024-06-25, 17:26:25](https://news.ycombinator.com/item?id=40791112) - [Show HN: FiddleCube – Generate Q&A to test your LLM](https://github.com/fiddlecube/fiddlecube-sdk)
 * [2024-06-25, 15:30:40](https://news.ycombinator.com/item?id=40789862) - [Show HN: Glasskube – Open Source Kubernetes Package Manager, alternative to Helm](https://github.com/glasskube/glasskube)
 * [2024-06-25, 15:14:08](https://news.ycombinator.com/item?id=40789672) - [Show HN: I built a JavaScript-powered flipdisc display](https://flipdisc.io/)
+* [2024-06-25, 14:54:22](https://news.ycombinator.com/item?id=40789411) - [Waymo One is now open to everyone in San Francisco](https://waymo.com/blog/2024/06/waymo-one-is-now-open-to-everyone-in-san-francisco/)
 * [2024-06-25, 14:49:28](https://news.ycombinator.com/item?id=40789353) - [Show HN: From dotenv to dotenvx – better config management](https://dotenvx.com/blog/2024/06/24/dotenvx-next-generation-config-management.html)
 * [2024-06-25, 13:53:05](https://news.ycombinator.com/item?id=40788648) - [Show HN: Triplit – Open-source syncing database that runs on server and client](https://github.com/aspen-cloud/triplit)
 * [2024-06-25, 10:21:47](https://news.ycombinator.com/item?id=40786640) - [Microsoft breached antitrust rules by bundling Teams and Office, EU says](https://apnews.com/article/microsoft-teams-eu-european-union-antitrust-26d11ada00f504d537d1b054dd6f6bbf)
@@ -29,7 +30,6 @@
 * [2024-06-23, 17:10:45](https://news.ycombinator.com/item?id=40768913) - [Elixir Gotchas](https://pragtob.wordpress.com/2024/05/01/10-elixir-gotchas/)
 * [2024-06-23, 01:16:44](https://news.ycombinator.com/item?id=40763782) - [Diffusion Limited Aggregation (1991)](http://www.paulbourke.net/fractals/dla/)
 * [2024-06-21, 23:06:55](https://news.ycombinator.com/item?id=40754764) - [Humans, and Hyenas, Sheltered in Cave-Like Lava Tubes Millennia Ago](https://www.wsj.com/science/archaeology/lava-tubes-saudi-arabia-history-d6fc9c31)
-* [2024-06-21, 09:29:45](https://news.ycombinator.com/item?id=40747790) - [The Internet in Greece](https://greekanalyst.substack.com/p/the-internet-in-greece)
 
 ## [Archives](archives/index.md)
 
