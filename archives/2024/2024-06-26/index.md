@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-26](index.md)
 
+* [2024-06-26, 14:30:38](https://news.ycombinator.com/item?id=40800548) - [Podman Desktop 1.11: Light mode and new Kubernetes features](https://podman-desktop.io/blog/podman-desktop-release-1.11)
 * [2024-06-26, 14:28:14](https://news.ycombinator.com/item?id=40800524) - [Resource burden of electric vehicles set to triple by 2050](https://www.theregister.com/2024/06/26/resource_burden_ev/)
 * [2024-06-26, 13:27:14](https://news.ycombinator.com/item?id=40799791) - [Show HN: R2R V2 – A open source RAG engine with prod features](https://github.com/SciPhi-AI/R2R)
 * [2024-06-26, 13:22:46](https://news.ycombinator.com/item?id=40799747) - [Video: Linux sucks 2024 (Bryan Lunduke) [video]](https://www.youtube.com/watch?v=58mLZyShQjQ)

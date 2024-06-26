@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-26, 14:30:38](https://news.ycombinator.com/item?id=40800548) - [Podman Desktop 1.11: Light mode and new Kubernetes features](https://podman-desktop.io/blog/podman-desktop-release-1.11)
 * [2024-06-26, 14:28:14](https://news.ycombinator.com/item?id=40800524) - [Resource burden of electric vehicles set to triple by 2050](https://www.theregister.com/2024/06/26/resource_burden_ev/)
 * [2024-06-26, 13:27:14](https://news.ycombinator.com/item?id=40799791) - [Show HN: R2R V2 – A open source RAG engine with prod features](https://github.com/SciPhi-AI/R2R)
 * [2024-06-26, 12:33:50](https://news.ycombinator.com/item?id=40799262) - [Show HN: Rubbrband – A hosted ComfyUI alternative for image generation](https://news.ycombinator.com/item?id=40799262)
@@ -18,7 +19,6 @@
 * [2024-06-25, 14:49:28](https://news.ycombinator.com/item?id=40789353) - [Show HN: From dotenv to dotenvx – better config management](https://dotenvx.com/blog/2024/06/24/dotenvx-next-generation-config-management.html)
 * [2024-06-25, 13:53:05](https://news.ycombinator.com/item?id=40788648) - [Show HN: Triplit – Open-source syncing database that runs on server and client](https://github.com/aspen-cloud/triplit)
 * [2024-06-25, 10:21:47](https://news.ycombinator.com/item?id=40786640) - [Microsoft breached antitrust rules by bundling Teams and Office, EU says](https://apnews.com/article/microsoft-teams-eu-european-union-antitrust-26d11ada00f504d537d1b054dd6f6bbf)
-* [2024-06-25, 04:23:19](https://news.ycombinator.com/item?id=40784459) - [Stalin, Eisenstein, Walt Disney and Ivan the Terrible (1992)](https://www.cliomuse.com/stalin-disney-eisenstein--ivan-the-terrible.html)
 * [2024-06-24, 16:47:34](https://news.ycombinator.com/item?id=40778241) - [Diagraming sentences in the 19th century](https://publicdomainreview.org/collection/diagramming-sentences-in-the-19th-century/)
 * [2024-06-24, 15:01:42](https://news.ycombinator.com/item?id=40776880) - [I found a 1-click exploit in South Korea's biggest mobile chat app](https://stulle123.github.io/posts/kakaotalk-account-takeover/)
 * [2024-06-24, 05:24:44](https://news.ycombinator.com/item?id=40772831) - [A reckless introduction to Hindley-Milner type inference (2019)](https://reasonableapproximation.net/2019/05/05/hindley-milner.html)
