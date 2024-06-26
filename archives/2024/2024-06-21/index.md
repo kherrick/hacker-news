@@ -36,6 +36,7 @@
 * [2024-06-21, 18:48:21](https://news.ycombinator.com/item?id=40752444) - [What good are whizzy new drugs if the world can't afford them?](https://www.economist.com/by-invitation/2024/06/14/what-good-are-whizzy-new-drugs-if-the-world-cant-afford-them)
 * [2024-06-21, 18:33:17](https://news.ycombinator.com/item?id=40752320) - [We now have even more evidence against the \"ecocide\" theory of Easter Island](https://arstechnica.com/science/2024/06/we-now-have-even-more-evidence-against-the-ecocide-theory-of-easter-island/)
 * [2024-06-21, 18:31:11](https://news.ycombinator.com/item?id=40752306) - [Q*: Improving Multi-Step Reasoning for LLMs with Deliberative Planning](https://arxiv.org/abs/2406.14283)
+* [2024-06-21, 18:21:29](https://news.ycombinator.com/item?id=40752245) - [Simple ways to find exposed sensitive information](https://www.trickster.dev/post/simple-ways-to-find-exposed-sensitive-information/)
 * [2024-06-21, 18:00:57](https://news.ycombinator.com/item?id=40752076) - [Huawei unveils its own programming language the \"Cangjie\"](https://gsmchina.com/huawei-unveils-its-own-programming-language-the-cangjie-8687/)
 * [2024-06-21, 17:39:54](https://news.ycombinator.com/item?id=40751885) - [Ollama Release v0.1.45. Support DeepSeek-Coder-V2](https://github.com/ollama/ollama/releases/tag/v0.1.45)
 * [2024-06-21, 17:33:28](https://news.ycombinator.com/item?id=40751813) - [A runaway plane took off by itself and spent 3 hours flying unpiloted in 1955](https://navyhistory.au/aster-shootdown-over-sydney-in-1955/)
