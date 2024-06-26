@@ -129,6 +129,127 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="40799791">
+          <h3>
+            <a class="item" href="https://github.com/SciPhi-AI/R2R"
+              >Show HN: R2R V2 – A open source RAG engine with prod features</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-06-26 @ 13:27:14</span
+              ><span class="points-container"
+                >Points: <span class="points">9</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40799791"
+                  >Comments</a
+                ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://github.com/SciPhi-AI/R2R"
+                >https://github.com/SciPhi-AI/R2R</a
+              >], an open source RAG answer engine that is built on top of
+              Postgres+Neo4j. The best way to get started is with the docs -
+              <a href="https://r2r-docs.sciphi.ai/introduction"
+                >https://r2r-docs.sciphi.ai/introduction</a
+              >.
+              <p>
+                This is a major update from our V1 which we have spent the last
+                3 months intensely building after getting a ton of great
+                feedback from our first Show HN (<a
+                  href="https://news.ycombinator.com/item?id=39510874"
+                  >https://news.ycombinator.com/item?id=39510874</a
+                >). We changed our focus to building a RAG engine instead of a
+                framework, because this is what developers asked for the most.
+                We built features for multimodal data ingestion, hybrid search
+                with reranking, advanced RAG techniques (e.g. HyDE), automatic
+                knowledge graph construction alongside the original goal of an
+                observable RAG system built on top of a RESTful API that we
+                shared back in February.
+              </p>
+              <p>
+                What's the problem? Developers are struggling to build accurate,
+                reliable RAG solutions. Popular tools like Langchain are complex
+                and overly abstracted and lack crucial production features such
+                as user/document management, observability, and a REST API.
+                There was a big thread about this a few days ago:
+                <i>Why we no longer use LangChain for building our AI agents</i>
+                (<a href="https://news.ycombinator.com/item?id=40739982"
+                  >https://news.ycombinator.com/item?id=40739982</a
+                >)
+              </p>
+              <p>
+                We experienced these challenges firsthand while building a
+                large-scale semantic search engine, having users report numerous
+                hallucinations and inaccuracies. This highlighted that
+                search+RAG is a difficult problem. We're convinced that these
+                missing features, and more, are essential to effectively monitor
+                and improve such systems over time.
+              </p>
+              <p>
+                Teams have been using R2R to develop custom AI agents with their
+                own data, with applications ranging from B2B lead generation to
+                research assistants. Best of all, the developer experience is
+                much improved. For example, we have recently seen multiple teams
+                use R2R to deploy a user-facing RAG engine for their application
+                within a day. By day 2 some of these same teams were using their
+                generated logs to tune the system with advanced features like
+                hybrid search and HyDE.
+              </p>
+              <p>
+                Here are a few examples of how R2R can outperform classic RAG
+                with semantic search only:
+              </p>
+              <p>
+                1. “What were the UK's top exports in 2023?". R2R with hybrid
+                search can identify documents mentioning "UK exports" and
+                "2023", whereas semantic search finds related concepts like
+                trade balance and economic reports.
+              </p>
+              <p>
+                2. "List all YC founders that worked at Google and now have an
+                AI startup." Our knowledge graph feature allows R2R to
+                understand relationships between employees and projects,
+                answering a query that would be challenging for simple vector
+                search.
+              </p>
+              <p>
+                The built in observability and customizability of R2R helps you
+                to tune and improve your system long after launching. Our plan
+                is to keep the API ~fixed while we iterate on the internal
+                system logic, making it easier for developers to trust R2R for
+                production from day 1.
+              </p>
+              <p>
+                We are currently working on the following: (1) Improve semantic
+                chunking through third party providers or our own custom LLMs;
+                (2) Training a custom model for knowledge graph triples
+                extraction that will allow KG construction to be 10x more
+                efficient. (This is in private beta, please reach out if
+                interested!); (3) Ability to handle permissions at a more
+                granular level than just a single user; (4) LLM-powered online
+                evaluation of system performance + enhanced analytics and
+                metrics.
+              </p>
+              <p>
+                Getting started is easy. R2R is a lightweight repository that
+                you can install locally with `pip install r2r`, or run with
+                Docker. Check out our quickstart guide:
+                <a href="https://r2r-docs.sciphi.ai/quickstart"
+                  >https://r2r-docs.sciphi.ai/quickstart</a
+                >. Lastly, if it interests you, we are also working on a cloud
+                solution at <a href="https://sciphi.ai">https://sciphi.ai</a>.
+              </p>
+              <p>
+                Thanks a lot for taking the time to read! The feedback from the
+                first ShowHN was invaluable and gave us our direction for the
+                last three months, so we'd love to hear any more comments you
+                have!
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="40799262">
           <h3>
             <a class="item" href="https://news.ycombinator.com/item?id=40799262"
@@ -140,11 +261,11 @@
             <h4>
               <span>2024-06-26 @ 12:33:50</span
               ><span class="points-container"
-                >Points: <span class="points">11</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40799262"
                   >Comments</a
-                ><span class="descendants">: 5</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
             <div class="text">
@@ -206,11 +327,11 @@
             <h4>
               <span>2024-06-26 @ 12:15:46</span
               ><span class="points-container"
-                >Points: <span class="points">56</span></span
+                >Points: <span class="points">58</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40799090"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 7</span></span
               >
             </h4>
           </section>
@@ -245,11 +366,11 @@
             <h4>
               <span>2024-06-26 @ 09:55:32</span
               ><span class="points-container"
-                >Points: <span class="points">26</span></span
+                >Points: <span class="points">30</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40798224"
                   >Comments</a
-                ><span class="descendants">: 6</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -264,11 +385,11 @@
             <h4>
               <span>2024-06-26 @ 09:16:04</span
               ><span class="points-container"
-                >Points: <span class="points">5</span></span
+                >Points: <span class="points">7</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40798008"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
             <div class="text">
@@ -309,27 +430,6 @@
             </div>
           </section>
         </section>
-        <section id="40797217">
-          <h3>
-            <a
-              class="item"
-              href="https://www.thebignewsletter.com/p/inside-fico-and-the-credit-bureau"
-              >FICO and the Credit Bureau Cartel</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-06-26 @ 07:14:48</span
-              ><span class="points-container"
-                >Points: <span class="points">99</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40797217"
-                  >Comments</a
-                ><span class="descendants">: 81</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="40795556">
           <h3>
             <a
@@ -363,7 +463,7 @@
             <h4>
               <span>2024-06-26 @ 00:27:49</span
               ><span class="points-container"
-                >Points: <span class="points">129</span></span
+                >Points: <span class="points">132</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40795227"
                   >Comments</a
@@ -403,11 +503,11 @@
             <h4>
               <span>2024-06-25 @ 21:34:40</span
               ><span class="points-container"
-                >Points: <span class="points">246</span></span
+                >Points: <span class="points">248</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40793924"
                   >Comments</a
-                ><span class="descendants">: 80</span></span
+                ><span class="descendants">: 83</span></span
               >
             </h4>
           </section>
@@ -422,11 +522,11 @@
             <h4>
               <span>2024-06-25 @ 20:52:52</span
               ><span class="points-container"
-                >Points: <span class="points">884</span></span
+                >Points: <span class="points">892</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40793465"
                   >Comments</a
-                ><span class="descendants">: 241</span></span
+                ><span class="descendants">: 245</span></span
               >
             </h4>
           </section>
@@ -523,7 +623,7 @@
             <h4>
               <span>2024-06-25 @ 15:30:40</span
               ><span class="points-container"
-                >Points: <span class="points">242</span></span
+                >Points: <span class="points">243</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40789862"
                   >Comments</a
@@ -637,11 +737,11 @@
             <h4>
               <span>2024-06-25 @ 15:14:08</span
               ><span class="points-container"
-                >Points: <span class="points">406</span></span
+                >Points: <span class="points">409</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40789672"
                   >Comments</a
-                ><span class="descendants">: 111</span></span
+                ><span class="descendants">: 112</span></span
               >
             </h4>
           </section>
@@ -662,7 +762,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40789353"
                   >Comments</a
-                ><span class="descendants">: 188</span></span
+                ><span class="descendants">: 189</span></span
               >
             </h4>
           </section>
@@ -788,7 +888,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40786640"
                   >Comments</a
-                ><span class="descendants">: 713</span></span
+                ><span class="descendants">: 721</span></span
               >
             </h4>
           </section>
@@ -826,7 +926,7 @@
             <h4>
               <span>2024-06-24 @ 16:47:34</span
               ><span class="points-container"
-                >Points: <span class="points">64</span></span
+                >Points: <span class="points">65</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40778241"
                   >Comments</a
@@ -848,7 +948,7 @@
             <h4>
               <span>2024-06-24 @ 15:01:42</span
               ><span class="points-container"
-                >Points: <span class="points">314</span></span
+                >Points: <span class="points">316</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40776880"
                   >Comments</a
@@ -870,7 +970,7 @@
             <h4>
               <span>2024-06-24 @ 05:24:44</span
               ><span class="points-container"
-                >Points: <span class="points">129</span></span
+                >Points: <span class="points">131</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40772831"
                   >Comments</a
@@ -932,7 +1032,7 @@
             <h4>
               <span>2024-06-23 @ 13:07:08</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">20</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40767207"
                   >Comments</a
@@ -951,7 +1051,7 @@
             <h4>
               <span>2024-06-23 @ 01:16:44</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40763782"
                   >Comments</a
@@ -972,7 +1072,7 @@
             <h4>
               <span>2024-06-21 @ 19:18:40</span
               ><span class="points-container"
-                >Points: <span class="points">85</span></span
+                >Points: <span class="points">87</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40752728"
                   >Comments</a
@@ -993,11 +1093,11 @@
             <h4>
               <span>2024-06-21 @ 18:21:29</span
               ><span class="points-container"
-                >Points: <span class="points">88</span></span
+                >Points: <span class="points">91</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40752245"
                   >Comments</a
-                ><span class="descendants">: 9</span></span
+                ><span class="descendants">: 10</span></span
               >
             </h4>
           </section>
@@ -1015,11 +1115,11 @@
             <h4>
               <span>2024-06-21 @ 14:21:14</span
               ><span class="points-container"
-                >Points: <span class="points">9</span></span
+                >Points: <span class="points">19</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40749924"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -1036,7 +1136,7 @@
             <h4>
               <span>2024-06-21 @ 08:57:16</span
               ><span class="points-container"
-                >Points: <span class="points">39</span></span
+                >Points: <span class="points">40</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40747578"
                   >Comments</a
