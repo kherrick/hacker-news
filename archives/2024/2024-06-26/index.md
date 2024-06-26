@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-26](index.md)
 
+* [2024-06-26, 09:11:13](https://news.ycombinator.com/item?id=40797969) - [Matthew Garrett: \"Quick Assange frequent misconceptions thread\"](https://nondeterministic.computer/@mjg59/112679109895486477)
 * [2024-06-26, 08:22:51](https://news.ycombinator.com/item?id=40797598) - [Banach–Tarski Paradox](https://en.wikipedia.org/wiki/Banach%E2%80%93Tarski_paradox)
 * [2024-06-26, 07:14:48](https://news.ycombinator.com/item?id=40797217) - [FICO and the Credit Bureau Cartel](https://www.thebignewsletter.com/p/inside-fico-and-the-credit-bureau)
 * [2024-06-26, 06:56:58](https://news.ycombinator.com/item?id=40797130) - [Google dropping continuous scroll in search results](https://searchengineland.com/google-dropping-continuous-scroll-in-search-results-443529)
