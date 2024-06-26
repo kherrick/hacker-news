@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-26, 14:48:52",
+      "https://news.ycombinator.com/item?id=40800734"
+    ],
+    [
+      "If you're using Polyfill.io code on your site – remove it immediately",
+      "https://www.theregister.com/2024/06/25/polyfillio_china_crisis/"
+    ]
+  ],
+  [
+    [
+      "2024-06-26, 14:40:31",
+      "https://news.ycombinator.com/item?id=40800658"
+    ],
+    [
+      "PostgreSQL Statistics, Indexes, and Pareto Data Distributions",
+      "https://making.close.com/posts/dialer-growth-statistics-indexes"
+    ]
+  ],
+  [
+    [
       "2024-06-26, 14:30:38",
       "https://news.ycombinator.com/item?id=40800548"
     ],
@@ -17,6 +37,16 @@
     [
       "Resource burden of electric vehicles set to triple by 2050",
       "https://www.theregister.com/2024/06/26/resource_burden_ev/"
+    ]
+  ],
+  [
+    [
+      "2024-06-26, 13:58:10",
+      "https://news.ycombinator.com/item?id=40800139"
+    ],
+    [
+      "The law should treat personal data like human organs – not for sale",
+      "https://www.theglobeandmail.com/business/commentary/article-the-law-should-treat-personal-data-like-human-organs-not-for-sale/"
     ]
   ],
   [
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2024-06-25, 17:26:25",
-      "https://news.ycombinator.com/item?id=40791112"
-    ],
-    [
-      "Show HN: FiddleCube – Generate Q&A to test your LLM",
-      "https://github.com/fiddlecube/fiddlecube-sdk"
-    ]
-  ],
-  [
-    [
       "2024-06-25, 15:30:40",
       "https://news.ycombinator.com/item?id=40789862"
     ],
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2024-06-24, 16:47:34",
-      "https://news.ycombinator.com/item?id=40778241"
-    ],
-    [
-      "Diagraming sentences in the 19th century",
-      "https://publicdomainreview.org/collection/diagramming-sentences-in-the-19th-century/"
-    ]
-  ],
-  [
-    [
       "2024-06-24, 15:01:42",
       "https://news.ycombinator.com/item?id=40776880"
     ],
     [
       "I found a 1-click exploit in South Korea's biggest mobile chat app",
       "https://stulle123.github.io/posts/kakaotalk-account-takeover/"
-    ]
-  ],
-  [
-    [
-      "2024-06-24, 05:24:44",
-      "https://news.ycombinator.com/item?id=40772831"
-    ],
-    [
-      "A reckless introduction to Hindley-Milner type inference (2019)",
-      "https://reasonableapproximation.net/2019/05/05/hindley-milner.html"
     ]
   ],
   [
