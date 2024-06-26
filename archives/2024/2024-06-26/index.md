@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-06-26](index.md)
 
+* [2024-06-26, 14:48:52](https://news.ycombinator.com/item?id=40800734) - [If you're using Polyfill.io code on your site – remove it immediately](https://www.theregister.com/2024/06/25/polyfillio_china_crisis/)
+* [2024-06-26, 14:40:31](https://news.ycombinator.com/item?id=40800658) - [PostgreSQL Statistics, Indexes, and Pareto Data Distributions](https://making.close.com/posts/dialer-growth-statistics-indexes)
 * [2024-06-26, 14:30:38](https://news.ycombinator.com/item?id=40800548) - [Podman Desktop 1.11: Light mode and new Kubernetes features](https://podman-desktop.io/blog/podman-desktop-release-1.11)
 * [2024-06-26, 14:28:14](https://news.ycombinator.com/item?id=40800524) - [Resource burden of electric vehicles set to triple by 2050](https://www.theregister.com/2024/06/26/resource_burden_ev/)
+* [2024-06-26, 13:58:10](https://news.ycombinator.com/item?id=40800139) - [The law should treat personal data like human organs – not for sale](https://www.theglobeandmail.com/business/commentary/article-the-law-should-treat-personal-data-like-human-organs-not-for-sale/)
 * [2024-06-26, 13:27:14](https://news.ycombinator.com/item?id=40799791) - [Show HN: R2R V2 – A open source RAG engine with prod features](https://github.com/SciPhi-AI/R2R)
 * [2024-06-26, 13:22:46](https://news.ycombinator.com/item?id=40799747) - [Video: Linux sucks 2024 (Bryan Lunduke) [video]](https://www.youtube.com/watch?v=58mLZyShQjQ)
 * [2024-06-26, 13:17:57](https://news.ycombinator.com/item?id=40799699) - [Should people who quit get unemployment benefits, too?](https://www.vox.com/future-perfect/356461/unemployment-benefits-insurance-quitting-capitalism-economy)
