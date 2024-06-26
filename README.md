@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-26, 18:05:30](https://news.ycombinator.com/item?id=40802686) - [The Living Computers Museum Isn't](http://oldvcr.blogspot.com/2024/06/the-living-computers-museum-finally-isnt.html)
+* [2024-06-26, 18:04:34](https://news.ycombinator.com/item?id=40802676) - [Figma Slides](https://www.figma.com/slides/)
 * [2024-06-26, 17:39:50](https://news.ycombinator.com/item?id=40802423) - [Figma AI: Empowering designers with intelligent tools](https://www.figma.com/blog/introducing-figma-ai/)
 * [2024-06-26, 17:32:04](https://news.ycombinator.com/item?id=40802334) - [Anthropic: Expanding Access to Claude for Government](https://www.anthropic.com/news/expanding-access-to-claude-for-government)
 * [2024-06-26, 17:28:04](https://news.ycombinator.com/item?id=40802296) - [Millions of Taxpayers Call the IRS for Help. Two-Thirds Don't Reach Anyone](https://www.wsj.com/personal-finance/taxes/irs-customer-service-phone-call-data-fe7c0e65)
@@ -13,9 +15,7 @@
 * [2024-06-26, 13:27:14](https://news.ycombinator.com/item?id=40799791) - [Show HN: R2R V2 – A open source RAG engine with prod features](https://github.com/SciPhi-AI/R2R)
 * [2024-06-26, 12:33:50](https://news.ycombinator.com/item?id=40799262) - [Show HN: Rubbrband – A hosted ComfyUI alternative for image generation](https://news.ycombinator.com/item?id=40799262)
 * [2024-06-26, 12:15:46](https://news.ycombinator.com/item?id=40799090) - [Ghosts in the ROM (2012)](https://www.nycresistor.com/2012/08/21/ghosts-in-the-rom/)
-* [2024-06-26, 00:27:49](https://news.ycombinator.com/item?id=40795227) - [The album art of Phil Hartmann (2022)](https://www.conorherbert.com/music/the-album-art-of-phil-hartmann)
 * [2024-06-25, 16:42:14](https://news.ycombinator.com/item?id=40790642) - [APL Demonstration (1975) [video]](https://www.youtube.com/watch?v=_DTpQ4Kk2wA)
-* [2024-06-25, 14:48:21](https://news.ycombinator.com/item?id=40789339) - [Show HN: The Tomb of Nefertari [QV 66] Guided Virtual Tour](https://mused.com/en/guided/923/the-tomb-of-nefertari-valley-of-the-queens)
 * [2024-06-24, 11:31:16](https://news.ycombinator.com/item?id=40774748) - [Tracing garbage collection for arenas](https://btmc.substack.com/p/tracing-garbage-collection-for-arenas)
 * [2024-06-24, 06:47:47](https://news.ycombinator.com/item?id=40773125) - [From RSS to My Kindle](https://olano.dev/blog/from-rss-to-my-kindle)
 * [2024-06-23, 22:21:29](https://news.ycombinator.com/item?id=40771104) - [The semiotics of barbed wire fence](https://languagelog.ldc.upenn.edu/nll/?p=64579)
@@ -25,11 +25,11 @@
 * [2024-06-23, 13:07:08](https://news.ycombinator.com/item?id=40767207) - [Group actions and hashing unordered multisets (2021)](https://www.jeremykun.com/2021/10/14/group-actions-and-hashing-unordered-multisets/)
 * [2024-06-23, 08:43:29](https://news.ycombinator.com/item?id=40765770) - [Liquid Layers](https://grantkot.com/ll/)
 * [2024-06-22, 22:45:53](https://news.ycombinator.com/item?id=40762912) - [Composite modding another Atari, because colors are hard](https://nicole.express/2024/have-you-hacked-atari-today.html)
-* [2024-06-21, 23:17:47](https://news.ycombinator.com/item?id=40754840) - [Show HN: Pdfscale](https://github.com/tavinus/pdfScale)
 * [2024-06-21, 18:04:30](https://news.ycombinator.com/item?id=40752111) - [Exploring How Cache Memory Works](https://pikuma.com/blog/understanding-computer-cache)
 * [2024-06-21, 14:21:14](https://news.ycombinator.com/item?id=40749924) - [Test firing of a 3D-printed rocket engine designed through computational model](https://leap71.com/2024/06/18/leap-71-hot-fires-3d-printed-liquid-fuel-rocket-engine-designed-through-noyron-computational-model/)
 * [2024-06-21, 13:27:51](https://news.ycombinator.com/item?id=40749401) - [The plan-execute pattern](https://mmapped.blog/posts/29-plan-execute)
 * [2024-06-21, 13:21:56](https://news.ycombinator.com/item?id=40749345) - [Documentation Driven Development (2022)](https://unicorn-utterances.com/posts/documentation-driven-development)
+* [2024-06-21, 09:00:04](https://news.ycombinator.com/item?id=40747597) - [Run the strongest open-source LLM model: Llama3 70B with just a single 4GB GPU](https://ai.gopubby.com/run-the-strongest-open-source-llm-model-llama3-70b-with-just-a-single-4gb-gpu-7e0ea2ad8ba2)
 
 ## [Archives](archives/index.md)
 

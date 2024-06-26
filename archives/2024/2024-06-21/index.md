@@ -99,6 +99,7 @@
 * [2024-06-21, 09:45:08](https://news.ycombinator.com/item?id=40747869) - [Starlink Mini brings space internet to backpackers](https://www.theverge.com/2024/6/21/24182970/starlink-mini-usb-power-specs-price)
 * [2024-06-21, 09:40:40](https://news.ycombinator.com/item?id=40747845) - [Show HN: Lady Deirdre 2 – Rust Framework for Compilers and LSP Servers](https://github.com/Eliah-Lakhin/lady-deirdre)
 * [2024-06-21, 09:29:45](https://news.ycombinator.com/item?id=40747790) - [The Internet in Greece](https://greekanalyst.substack.com/p/the-internet-in-greece)
+* [2024-06-21, 09:00:04](https://news.ycombinator.com/item?id=40747597) - [Run the strongest open-source LLM model: Llama3 70B with just a single 4GB GPU](https://ai.gopubby.com/run-the-strongest-open-source-llm-model-llama3-70b-with-just-a-single-4gb-gpu-7e0ea2ad8ba2)
 * [2024-06-21, 08:59:21](https://news.ycombinator.com/item?id=40747588) - [EVs Are Selling Well for Everyone Except Tesla](https://jalopnik.com/evs-are-selling-well-for-everyone-except-tesla-1851550953)
 * [2024-06-21, 08:57:16](https://news.ycombinator.com/item?id=40747578) - [Nickel Modules](https://www.tweag.io/blog/2024-06-20-nickel-modules/)
 * [2024-06-21, 08:40:25](https://news.ycombinator.com/item?id=40747476) - [Show HN: A collection of front end Learning Resources](https://github.com/requestly/awesome-frontend-resources)

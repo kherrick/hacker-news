@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-26](index.md)
 
+* [2024-06-26, 18:05:30](https://news.ycombinator.com/item?id=40802686) - [The Living Computers Museum Isn't](http://oldvcr.blogspot.com/2024/06/the-living-computers-museum-finally-isnt.html)
+* [2024-06-26, 18:04:34](https://news.ycombinator.com/item?id=40802676) - [Figma Slides](https://www.figma.com/slides/)
 * [2024-06-26, 17:39:50](https://news.ycombinator.com/item?id=40802423) - [Figma AI: Empowering designers with intelligent tools](https://www.figma.com/blog/introducing-figma-ai/)
 * [2024-06-26, 17:36:34](https://news.ycombinator.com/item?id=40802393) - [uBlock Origin has blocklisted PolyfillIO in it's badware list](https://github.com/uBlockOrigin/uAssets/pull/24255)
 * [2024-06-26, 17:32:04](https://news.ycombinator.com/item?id=40802334) - [Anthropic: Expanding Access to Claude for Government](https://www.anthropic.com/news/expanding-access-to-claude-for-government)
