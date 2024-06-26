@@ -151,16 +151,6 @@
   ],
   [
     [
-      "2024-06-25, 17:26:25",
-      "https://news.ycombinator.com/item?id=40791112"
-    ],
-    [
-      "Show HN: FiddleCube – Generate Q&A to test your LLM",
-      "https://github.com/fiddlecube/fiddlecube-sdk"
-    ]
-  ],
-  [
-    [
       "2024-06-25, 15:30:40",
       "https://news.ycombinator.com/item?id=40789862"
     ],
@@ -297,6 +287,16 @@
     [
       "Simple ways to find exposed sensitive information",
       "https://www.trickster.dev/post/simple-ways-to-find-exposed-sensitive-information/"
+    ]
+  ],
+  [
+    [
+      "2024-06-21, 08:57:16",
+      "https://news.ycombinator.com/item?id=40747578"
+    ],
+    [
+      "Nickel Modules",
+      "https://www.tweag.io/blog/2024-06-20-nickel-modules/"
     ]
   ]
 ]
