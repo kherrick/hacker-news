@@ -7,6 +7,7 @@
 * [2024-06-23, 23:59:18](https://news.ycombinator.com/item?id=40771635) - [One index, two publishers and the global research economy](https://www.tandfonline.com/doi/full/10.1080/03054985.2024.2348448)
 * [2024-06-23, 23:58:02](https://news.ycombinator.com/item?id=40771627) - [Why do we still teach people to calculate?](https://freakonomics.com/podcast/why-do-we-still-teach-people-to-calculate/)
 * [2024-06-23, 23:32:17](https://news.ycombinator.com/item?id=40771514) - [How to Do The Jhanas](https://nadia.xyz/jhanas)
+* [2024-06-23, 22:21:29](https://news.ycombinator.com/item?id=40771104) - [The semiotics of barbed wire fence](https://languagelog.ldc.upenn.edu/nll/?p=64579)
 * [2024-06-23, 22:19:34](https://news.ycombinator.com/item?id=40771084) - [MagNEO Project: Replace Rare Earth Elements for Permanent Magnets W 3D Printing](https://3dprint.com/310374/magneo-project-to-replace-rare-earth-elements-for-permanent-magnets-via-3d-printing/)
 * [2024-06-23, 22:08:38](https://news.ycombinator.com/item?id=40771017) - [The unbearable sorrow of Apple Weather](https://leancrew.com/all-this/2024/06/the-unbearable-sorrow-of-apple-weather/)
 * [2024-06-23, 21:15:01](https://news.ycombinator.com/item?id=40770624) - [The pivot to AI: Pay no attention to the man behind the curtain](https://amycastor.com/2023/09/12/pivot-to-ai-pay-no-attention-to-the-man-behind-the-curtain/)
