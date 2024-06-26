@@ -15,6 +15,7 @@
 * [2024-06-25, 21:00:06](https://news.ycombinator.com/item?id=40793540) - [Supabase (YC S20) Is Hiring Postgres SREs](https://boards.greenhouse.io/supabase/jobs/5162509004)
 * [2024-06-25, 20:57:49](https://news.ycombinator.com/item?id=40793516) - [AP launches a sister organization seeking grants to support local, state news](https://apnews.com/article/reporters-local-ap-foundations-c2c3fced7b46e7f0a6e0ebe6773fde4a)
 * [2024-06-25, 20:52:52](https://news.ycombinator.com/item?id=40793465) - [Ball: A ball that lives in your dock](https://github.com/nate-parrott/ball)
+* [2024-06-25, 20:51:34](https://news.ycombinator.com/item?id=40793447) - [The Singularity Is Nearer](https://www.penguinrandomhouse.com/books/535433/the-singularity-is-nearer-by-ray-kurzweil/)
 * [2024-06-25, 20:51:10](https://news.ycombinator.com/item?id=40793438) - [Volkswagen Will Invest Up to $5B in Rivian](https://www.nytimes.com/2024/06/25/business/volkswagen-rivian-vw-investment.html)
 * [2024-06-25, 20:37:00](https://news.ycombinator.com/item?id=40793293) - [Ask HN: What brought back the joy of programming for you?](https://news.ycombinator.com/item?id=40793293)
 * [2024-06-25, 20:27:20](https://news.ycombinator.com/item?id=40793198) - [Ask HN: Are you leaving Cloudflare over the recent drama?](https://news.ycombinator.com/item?id=40793198)
