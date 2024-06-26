@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-26](index.md)
 
 * [2024-06-26, 12:29:17](https://news.ycombinator.com/item?id=40799213) - [Paul Allen's Computer Museum to Be Auctioned](https://hackaday.com/2024/06/25/paul-allens-living-computers-museum-and-labs-to-be-auctioned/)
+* [2024-06-26, 12:15:46](https://news.ycombinator.com/item?id=40799090) - [Ghosts in the (Macintosh) ROM](https://www.nycresistor.com/2012/08/21/ghosts-in-the-rom/)
 * [2024-06-26, 12:10:05](https://news.ycombinator.com/item?id=40799038) - [Half of Workers Around the World Are Struggling with Burnout](https://www.bcg.com/press/11june2024-half-of-workers-around-the-world-struggling-with-burnout)
 * [2024-06-26, 12:01:14](https://news.ycombinator.com/item?id=40798960) - [Juniper (YC W21) is hiring sr engineers to fix financial infra in recurring care](https://jobs.lever.co/juniperplatform/4295e9c0-57a2-45a5-b120-75b065b2a492)
 * [2024-06-26, 10:44:52](https://news.ycombinator.com/item?id=40798473) - [Indonesia is trying to block LGBTQIA content from the internet](https://restofworld.org/2024/indonesia-broadcasting-law-lgbtqia/)
