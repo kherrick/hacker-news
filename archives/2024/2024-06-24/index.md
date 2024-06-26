@@ -84,6 +84,7 @@
 * [2024-06-24, 09:01:32](https://news.ycombinator.com/item?id=40773843) - [Gren 0.4: New Foundations](https://gren-lang.org/news/240624_gren_04/)
 * [2024-06-24, 08:56:08](https://news.ycombinator.com/item?id=40773806) - [Commission opens additional DMA investigation against Apple](https://ec.europa.eu/commission/presscorner/detail/en/ip_24_3433)
 * [2024-06-24, 08:45:20](https://news.ycombinator.com/item?id=40773749) - [CentOS Linux 7 will reach EOL on Sunday](https://www.redhat.com/en/topics/linux/centos-linux-eol)
+* [2024-06-24, 08:32:09](https://news.ycombinator.com/item?id=40773671) - [Structured logs are the way to start](https://shippingbytes.com/2024/06/24/structured-logs-are-the-way-to-start/)
 * [2024-06-24, 07:29:56](https://news.ycombinator.com/item?id=40773354) - [Windows File Explorer will be more powerful with version control and 7z](https://www.theverge.com/2024/5/21/24161785/microsoft-windows-file-explorer-version-control-7z-tar)
 * [2024-06-24, 07:26:12](https://news.ycombinator.com/item?id=40773331) - [Psion: The Last Computer](https://www.theregister.com/2007/06/26/psion_special/)
 * [2024-06-24, 06:53:04](https://news.ycombinator.com/item?id=40773151) - [US prosecutors recommend Justice Department criminally charge Boeing](https://www.voanews.com/a/us-prosecutors-recommend-justice-department-criminally-charge-boeing-as-deadline-looms/7667194.html)
