@@ -8,6 +8,7 @@
 * [2024-06-22, 23:14:59](https://news.ycombinator.com/item?id=40763117) - [SSH as a Sudo Replacement](https://whynothugo.nl/journal/2024/06/13/ssh-as-a-sudo-replacement/)
 * [2024-06-22, 22:36:34](https://news.ycombinator.com/item?id=40762840) - [Costco Broke into a Surprising New Market: Modular Housing](https://www.strongtowns.org/journal/2024/6/21/how-costco-broke-into-a-surprising-new-market-modular-housing)
 * [2024-06-22, 22:21:45](https://news.ycombinator.com/item?id=40762739) - [Daily Automated Testing for Milk-V Duo S RISC-V SBC (IKEA Tretakt, Apache NuttX)](https://lupyuen.codeberg.page/articles/sg2000a.html)
+* [2024-06-22, 21:44:21](https://news.ycombinator.com/item?id=40762474) - [Dance, Revolution](https://www.thedriftmag.com/dance-revolution/)
 * [2024-06-22, 21:38:18](https://news.ycombinator.com/item?id=40762433) - [Show HN: Simple script to cripple personalized targeting from Facebook](https://gist.github.com/HyperCrowd/edc9b461ec23cf2454ea4d1e910fd1c6)
 * [2024-06-22, 21:20:32](https://news.ycombinator.com/item?id=40762319) - [Waymo the Leapfrog](https://loeber.substack.com/p/20-waymo-the-leapfrog)
 * [2024-06-22, 21:01:00](https://news.ycombinator.com/item?id=40762177) - [Charge Robotics (YC S21) is hiring SWEs to build solar construction robots](https://www.workatastartup.com/jobs/51266)
