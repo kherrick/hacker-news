@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-26](index.md)
 
 * [2024-06-26, 21:35:11](https://news.ycombinator.com/item?id=40804856) - [SpaceX to deliver vehicle to deorbit International Space Station](https://www.nasa.gov/news-release/nasa-selects-international-space-station-us-deorbit-vehicle/)
+* [2024-06-26, 21:32:26](https://news.ycombinator.com/item?id=40804827) - [Breath of God: Tripping on Xenon Gas](https://tripsitter.substack.com/p/xenon)
 * [2024-06-26, 21:13:29](https://news.ycombinator.com/item?id=40804645) - [Coup Attempt in Bolivia](https://www.bloomberg.com/news/articles/2024-06-26/bolivia-presidential-palace-stormed-in-apparent-coup-attempt)
 * [2024-06-26, 21:12:31](https://news.ycombinator.com/item?id=40804635) - [How the STL Uses Explicit](https://quuxplusone.github.io/blog/2024/06/25/most-stl-ctors-arent-explicit-but-yours-still-should-be/)
 * [2024-06-26, 20:35:17](https://news.ycombinator.com/item?id=40804317) - [Cloudflare automatically fixes Polyfill.io for free sites](https://blog.cloudflare.com/automatically-replacing-polyfill-io-links-with-cloudflares-mirror-for-a-safer-internet)
