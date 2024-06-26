@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-26](index.md)
 
+* [2024-06-26, 20:12:31](https://news.ycombinator.com/item?id=40804122) - [The Forth Deck mini: a portable Forth computer with a discrete CPU](http://mynor.org/my4th_forthdeck.htm)
+* [2024-06-26, 19:41:14](https://news.ycombinator.com/item?id=40803783) - [Next gen 3D metal printing](https://fabric8labs.com)
 * [2024-06-26, 19:13:27](https://news.ycombinator.com/item?id=40803448) - [NYC banned Airbnbs to make housing cheaper, but only made hotels more expensive](https://www.businessinsider.com/airbnb-numbers-shrink-hotel-prices-soar-ban-nyc-2024-6)
 * [2024-06-26, 18:05:30](https://news.ycombinator.com/item?id=40802686) - [The Living Computers Museum Isn't](http://oldvcr.blogspot.com/2024/06/the-living-computers-museum-finally-isnt.html)
 * [2024-06-26, 18:04:34](https://news.ycombinator.com/item?id=40802676) - [Figma Slides](https://www.figma.com/slides/)

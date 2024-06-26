@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-26, 20:12:31](https://news.ycombinator.com/item?id=40804122) - [The Forth Deck mini: a portable Forth computer with a discrete CPU](http://mynor.org/my4th_forthdeck.htm)
+* [2024-06-26, 19:41:14](https://news.ycombinator.com/item?id=40803783) - [Next gen 3D metal printing](https://fabric8labs.com)
 * [2024-06-26, 18:04:34](https://news.ycombinator.com/item?id=40802676) - [Figma Slides](https://www.figma.com/slides/)
 * [2024-06-26, 17:39:50](https://news.ycombinator.com/item?id=40802423) - [Figma AI](https://www.figma.com/blog/introducing-figma-ai/)
 * [2024-06-26, 17:00:17](https://news.ycombinator.com/item?id=40802054) - [Motion (YC W20) Is Hiring Our First DevOps Engineer](https://jobs.ashbyhq.com/motion/731e6994-c9b0-43ae-b7e4-28cbca03920f?utm_source=hn)
@@ -24,12 +26,10 @@
 * [2024-06-23, 13:07:08](https://news.ycombinator.com/item?id=40767207) - [Group actions and hashing unordered multisets (2021)](https://www.jeremykun.com/2021/10/14/group-actions-and-hashing-unordered-multisets/)
 * [2024-06-23, 08:43:29](https://news.ycombinator.com/item?id=40765770) - [Liquid Layers](https://grantkot.com/ll/)
 * [2024-06-22, 22:45:53](https://news.ycombinator.com/item?id=40762912) - [Composite modding another Atari, because colors are hard](https://nicole.express/2024/have-you-hacked-atari-today.html)
-* [2024-06-21, 23:17:47](https://news.ycombinator.com/item?id=40754840) - [Show HN: Pdfscale](https://github.com/tavinus/pdfScale)
 * [2024-06-21, 18:04:30](https://news.ycombinator.com/item?id=40752111) - [Exploring How Cache Memory Works](https://pikuma.com/blog/understanding-computer-cache)
 * [2024-06-21, 14:21:14](https://news.ycombinator.com/item?id=40749924) - [Test firing of a 3D-printed rocket engine designed through computational model](https://leap71.com/2024/06/18/leap-71-hot-fires-3d-printed-liquid-fuel-rocket-engine-designed-through-noyron-computational-model/)
 * [2024-06-21, 13:27:51](https://news.ycombinator.com/item?id=40749401) - [The plan-execute pattern](https://mmapped.blog/posts/29-plan-execute)
 * [2024-06-21, 13:21:56](https://news.ycombinator.com/item?id=40749345) - [Documentation Driven Development (2022)](https://unicorn-utterances.com/posts/documentation-driven-development)
-* [2024-06-21, 08:57:16](https://news.ycombinator.com/item?id=40747578) - [Nickel Modules](https://www.tweag.io/blog/2024-06-20-nickel-modules/)
 
 ## [Archives](archives/index.md)
 
