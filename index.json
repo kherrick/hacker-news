@@ -15,18 +15,8 @@
       "https://news.ycombinator.com/item?id=40800548"
     ],
     [
-      "Podman Desktop 1.11: Light mode and new Kubernetes features",
+      "Podman Desktop 1.11: Light mode, Kubernetes features, macOS improvements",
       "https://podman-desktop.io/blog/podman-desktop-release-1.11"
-    ]
-  ],
-  [
-    [
-      "2024-06-26, 13:58:10",
-      "https://news.ycombinator.com/item?id=40800139"
-    ],
-    [
-      "The law should treat personal data like human organs – not for sale",
-      "https://www.theglobeandmail.com/business/commentary/article-the-law-should-treat-personal-data-like-human-organs-not-for-sale/"
     ]
   ],
   [
@@ -131,12 +121,12 @@
   ],
   [
     [
-      "2024-06-25, 19:45:08",
-      "https://news.ycombinator.com/item?id=40792740"
+      "2024-06-25, 16:42:14",
+      "https://news.ycombinator.com/item?id=40790642"
     ],
     [
-      "Fixing QuickLook (2023)",
-      "https://foon.uk/fixing-quicklook/"
+      "APL Demonstration (1975) [video]",
+      "https://www.youtube.com/watch?v=_DTpQ4Kk2wA"
     ]
   ],
   [
@@ -147,16 +137,6 @@
     [
       "Show HN: I built a JavaScript-powered flipdisc display",
       "https://flipdisc.io/"
-    ]
-  ],
-  [
-    [
-      "2024-06-24, 15:01:42",
-      "https://news.ycombinator.com/item?id=40776880"
-    ],
-    [
-      "I found a 1-click exploit in South Korea's biggest mobile chat app",
-      "https://stulle123.github.io/posts/kakaotalk-account-takeover/"
     ]
   ],
   [
@@ -225,18 +205,18 @@
       "https://news.ycombinator.com/item?id=40767207"
     ],
     [
-      "Group Actions and Hashing Unordered Multisets",
+      "Group actions and hashing unordered multisets (2021)",
       "https://www.jeremykun.com/2021/10/14/group-actions-and-hashing-unordered-multisets/"
     ]
   ],
   [
     [
-      "2024-06-23, 01:16:44",
-      "https://news.ycombinator.com/item?id=40763782"
+      "2024-06-22, 22:45:53",
+      "https://news.ycombinator.com/item?id=40762912"
     ],
     [
-      "Diffusion Limited Aggregation (1991)",
-      "http://www.paulbourke.net/fractals/dla/"
+      "Composite modding another Atari, because colors are hard",
+      "https://nicole.express/2024/have-you-hacked-atari-today.html"
     ]
   ],
   [
@@ -261,12 +241,12 @@
   ],
   [
     [
-      "2024-06-21, 18:21:29",
-      "https://news.ycombinator.com/item?id=40752245"
+      "2024-06-21, 22:46:29",
+      "https://news.ycombinator.com/item?id=40754624"
     ],
     [
-      "Simple ways to find exposed sensitive information",
-      "https://www.trickster.dev/post/simple-ways-to-find-exposed-sensitive-information/"
+      "Yupana: The Fibonacci number grid-based calculator of the Incas (2019)",
+      "https://www.mathematicsmagazine.com/Articles/Yupana.php"
     ]
   ],
   [
@@ -285,8 +265,28 @@
       "https://news.ycombinator.com/item?id=40749924"
     ],
     [
-      "Test firing of a 3D-printed rocket engine designed through Computational Model",
+      "Test firing of a 3D-printed rocket engine designed through computational model",
       "https://leap71.com/2024/06/18/leap-71-hot-fires-3d-printed-liquid-fuel-rocket-engine-designed-through-noyron-computational-model/"
+    ]
+  ],
+  [
+    [
+      "2024-06-21, 13:27:51",
+      "https://news.ycombinator.com/item?id=40749401"
+    ],
+    [
+      "The plan-execute pattern",
+      "https://mmapped.blog/posts/29-plan-execute"
+    ]
+  ],
+  [
+    [
+      "2024-06-21, 13:21:56",
+      "https://news.ycombinator.com/item?id=40749345"
+    ],
+    [
+      "Documentation Driven Development (2022)",
+      "https://unicorn-utterances.com/posts/documentation-driven-development"
     ]
   ],
   [
