@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-26](index.md)
 
+* [2024-06-26, 21:13:29](https://news.ycombinator.com/item?id=40804645) - [Coup Attempt in Bolivia](https://www.bloomberg.com/news/articles/2024-06-26/bolivia-presidential-palace-stormed-in-apparent-coup-attempt)
+* [2024-06-26, 21:12:31](https://news.ycombinator.com/item?id=40804635) - [How the STL Uses Explicit](https://quuxplusone.github.io/blog/2024/06/25/most-stl-ctors-arent-explicit-but-yours-still-should-be/)
 * [2024-06-26, 20:35:17](https://news.ycombinator.com/item?id=40804317) - [Cloudflare automatically fixes Polyfill.io for free sites](https://blog.cloudflare.com/automatically-replacing-polyfill-io-links-with-cloudflares-mirror-for-a-safer-internet)
 * [2024-06-26, 20:14:18](https://news.ycombinator.com/item?id=40804145) - [AI can beat real university students in exams, study suggests](https://www.bbc.co.uk/news/articles/cqqqln0eg65o)
 * [2024-06-26, 20:12:31](https://news.ycombinator.com/item?id=40804122) - [The Forth Deck mini: a portable Forth computer with a discrete CPU](http://mynor.org/my4th_forthdeck.htm)

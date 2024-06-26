@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-26, 21:13:29](https://news.ycombinator.com/item?id=40804645) - [Coup Attempt in Bolivia](https://www.bloomberg.com/news/articles/2024-06-26/bolivia-presidential-palace-stormed-in-apparent-coup-attempt)
+* [2024-06-26, 21:12:31](https://news.ycombinator.com/item?id=40804635) - [How the STL Uses Explicit](https://quuxplusone.github.io/blog/2024/06/25/most-stl-ctors-arent-explicit-but-yours-still-should-be/)
 * [2024-06-26, 20:35:17](https://news.ycombinator.com/item?id=40804317) - [Cloudflare automatically fixes Polyfill.io for free sites](https://blog.cloudflare.com/automatically-replacing-polyfill-io-links-with-cloudflares-mirror-for-a-safer-internet)
 * [2024-06-26, 20:12:31](https://news.ycombinator.com/item?id=40804122) - [The Forth Deck mini: a portable Forth computer with a discrete CPU](http://mynor.org/my4th_forthdeck.htm)
 * [2024-06-26, 19:41:14](https://news.ycombinator.com/item?id=40803783) - [Next gen 3D metal printing](https://fabric8labs.com)
@@ -12,7 +14,6 @@
 * [2024-06-26, 12:15:46](https://news.ycombinator.com/item?id=40799090) - [Ghosts in the ROM (2012)](https://www.nycresistor.com/2012/08/21/ghosts-in-the-rom/)
 * [2024-06-26, 06:46:56](https://news.ycombinator.com/item?id=40797070) - [Why blue animals are so rare](https://www.popsci.com/environment/why-blue-animals-are-rare/)
 * [2024-06-25, 16:42:14](https://news.ycombinator.com/item?id=40790642) - [APL Demonstration (1975) [video]](https://www.youtube.com/watch?v=_DTpQ4Kk2wA)
-* [2024-06-25, 14:48:21](https://news.ycombinator.com/item?id=40789339) - [Show HN: The Tomb of Nefertari [QV 66] Guided Virtual Tour](https://mused.com/en/guided/923/the-tomb-of-nefertari-valley-of-the-queens)
 * [2024-06-25, 14:35:07](https://news.ycombinator.com/item?id=40789179) - [Living Computers Museum to permanently close, auction vintage items](https://www.geekwire.com/2024/seattles-living-computers-museum-logs-off-for-good-as-paul-allen-estate-will-auction-vintage-items/)
 * [2024-06-24, 11:42:03](https://news.ycombinator.com/item?id=40774833) - [GCC's new fortification level: The gains and costs](https://developers.redhat.com/articles/2022/09/17/gccs-new-fortification-level)
 * [2024-06-24, 11:31:16](https://news.ycombinator.com/item?id=40774748) - [Tracing garbage collection for arenas](https://btmc.substack.com/p/tracing-garbage-collection-for-arenas)
@@ -21,7 +22,6 @@
 * [2024-06-23, 22:21:29](https://news.ycombinator.com/item?id=40771104) - [The semiotics of barbed wire fence](https://languagelog.ldc.upenn.edu/nll/?p=64579)
 * [2024-06-23, 18:50:08](https://news.ycombinator.com/item?id=40769636) - [How electronic ignition works and also how to make a spark plug play music](https://www.theautopian.com/this-is-how-electronic-ignition-works-and-also-how-to-make-a-spark-plug-play-music/)
 * [2024-06-23, 17:17:12](https://news.ycombinator.com/item?id=40768959) - [How automotive radar measures the velocity of objects](https://www.viksnewsletter.com/p/how-automotive-radar-measures-velocity)
-* [2024-06-23, 15:39:20](https://news.ycombinator.com/item?id=40768237) - [Three ways to think about Go channels](https://www.dolthub.com/blog/2024-06-21-channel-three-ways/)
 * [2024-06-23, 13:07:08](https://news.ycombinator.com/item?id=40767207) - [Group actions and hashing unordered multisets (2021)](https://www.jeremykun.com/2021/10/14/group-actions-and-hashing-unordered-multisets/)
 * [2024-06-23, 08:43:29](https://news.ycombinator.com/item?id=40765770) - [Liquid Layers](https://grantkot.com/ll/)
 * [2024-06-22, 22:45:53](https://news.ycombinator.com/item?id=40762912) - [Composite modding another Atari, because colors are hard](https://nicole.express/2024/have-you-hacked-atari-today.html)
