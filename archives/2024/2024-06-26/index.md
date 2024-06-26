@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-06-26](index.md)
 
+* [2024-06-26, 12:29:17](https://news.ycombinator.com/item?id=40799213) - [Paul Allen's Computer Museum to Be Auctioned](https://hackaday.com/2024/06/25/paul-allens-living-computers-museum-and-labs-to-be-auctioned/)
 * [2024-06-26, 12:10:05](https://news.ycombinator.com/item?id=40799038) - [Half of Workers Around the World Are Struggling with Burnout](https://www.bcg.com/press/11june2024-half-of-workers-around-the-world-struggling-with-burnout)
 * [2024-06-26, 12:01:14](https://news.ycombinator.com/item?id=40798960) - [Juniper (YC W21) is hiring sr engineers to fix financial infra in recurring care](https://jobs.lever.co/juniperplatform/4295e9c0-57a2-45a5-b120-75b065b2a492)
+* [2024-06-26, 10:44:52](https://news.ycombinator.com/item?id=40798473) - [Indonesia is trying to block LGBTQIA content from the internet](https://restofworld.org/2024/indonesia-broadcasting-law-lgbtqia/)
 * [2024-06-26, 09:11:13](https://news.ycombinator.com/item?id=40797969) - [Matthew Garrett: \"Quick Assange frequent misconceptions thread\"](https://nondeterministic.computer/@mjg59/112679109895486477)
 * [2024-06-26, 08:56:18](https://news.ycombinator.com/item?id=40797858) - [Ask HN: How to pivot to a Machine Learning engineer?](https://news.ycombinator.com/item?id=40797858)
 * [2024-06-26, 08:41:10](https://news.ycombinator.com/item?id=40797755) - [Towards a More Inclusive and Sustainable Society](https://www.naps.edu.au/blog/towards-a-more-inclusive-and-sustainable-society)

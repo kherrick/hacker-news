@@ -60,6 +60,7 @@
 * [2024-06-23, 13:54:22](https://news.ycombinator.com/item?id=40767487) - [A Person of Compute](https://geohot.github.io//blog/jekyll/update/2023/04/26/a-person-of-compute.html)
 * [2024-06-23, 13:49:30](https://news.ycombinator.com/item?id=40767459) - [Show HN: I am using AI to drop hats outside my window onto New Yorkers](https://dropofahat.zone/)
 * [2024-06-23, 13:22:23](https://news.ycombinator.com/item?id=40767299) - [Asynchronous Consensus Without Trusted Setup or Public-Key Cryptography](https://eprint.iacr.org/2024/677)
+* [2024-06-23, 13:07:08](https://news.ycombinator.com/item?id=40767207) - [Group Actions and Hashing Unordered Multisets](https://www.jeremykun.com/2021/10/14/group-actions-and-hashing-unordered-multisets/)
 * [2024-06-23, 12:51:31](https://news.ycombinator.com/item?id=40767108) - [I found an 8 years old bug in Xorg](https://trace.yshui.dev/2024-06-xorg-bug.html)
 * [2024-06-23, 12:15:49](https://news.ycombinator.com/item?id=40766869) - [\"We argue that mitochondria are the processor of the cell\" (2022)](https://www.cell.com/action/showPdf?pii=S1550-4131%2822%2900459-4)
 * [2024-06-23, 12:14:40](https://news.ycombinator.com/item?id=40766856) - [The Blank Sheet Method: From Passive Reading to Active Learning](https://fs.blog/blank-sheet-method/)
