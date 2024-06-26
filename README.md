@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-26, 20:35:17](https://news.ycombinator.com/item?id=40804317) - [Cloudflare automatically fixes Polyfill.io for free sites](https://blog.cloudflare.com/automatically-replacing-polyfill-io-links-with-cloudflares-mirror-for-a-safer-internet)
+* [2024-06-26, 20:14:18](https://news.ycombinator.com/item?id=40804145) - [AI can beat real university students in exams, study suggests](https://www.bbc.co.uk/news/articles/cqqqln0eg65o)
 * [2024-06-26, 20:12:31](https://news.ycombinator.com/item?id=40804122) - [The Forth Deck mini: a portable Forth computer with a discrete CPU](http://mynor.org/my4th_forthdeck.htm)
 * [2024-06-26, 19:41:14](https://news.ycombinator.com/item?id=40803783) - [Next gen 3D metal printing](https://fabric8labs.com)
 * [2024-06-26, 18:04:34](https://news.ycombinator.com/item?id=40802676) - [Figma Slides](https://www.figma.com/slides/)
 * [2024-06-26, 17:39:50](https://news.ycombinator.com/item?id=40802423) - [Figma AI](https://www.figma.com/blog/introducing-figma-ai/)
 * [2024-06-26, 17:00:17](https://news.ycombinator.com/item?id=40802054) - [Motion (YC W20) Is Hiring Our First DevOps Engineer](https://jobs.ashbyhq.com/motion/731e6994-c9b0-43ae-b7e4-28cbca03920f?utm_source=hn)
-* [2024-06-26, 16:02:57](https://news.ycombinator.com/item?id=40801494) - [Show HN: Find AI – Perplexity Meets LinkedIn](https://usefind.ai/)
 * [2024-06-26, 16:00:15](https://news.ycombinator.com/item?id=40801475) - [Things you didn't know about GNU readline (2019)](https://twobithistory.org/2019/08/22/readline.html)
 * [2024-06-26, 15:02:38](https://news.ycombinator.com/item?id=40800869) - [One Million Checkboxes](https://onemillioncheckboxes.com/)
 * [2024-06-26, 13:27:14](https://news.ycombinator.com/item?id=40799791) - [Show HN: R2R V2 – A open source RAG engine with prod features](https://github.com/SciPhi-AI/R2R)
