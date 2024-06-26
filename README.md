@@ -28,8 +28,8 @@
 * [2024-06-24, 05:24:44](https://news.ycombinator.com/item?id=40772831) - [A reckless introduction to Hindley-Milner type inference (2019)](https://reasonableapproximation.net/2019/05/05/hindley-milner.html)
 * [2024-06-24, 00:58:30](https://news.ycombinator.com/item?id=40771906) - [The Alternate Reality Kit (1987) [video]](https://www.youtube.com/watch?v=w1HhPE0zV6g)
 * [2024-06-23, 20:49:08](https://news.ycombinator.com/item?id=40770484) - [Does a cave beneath Pembroke Castle hold key to fate of early Britons?](https://www.theguardian.com/science/article/2024/jun/22/does-a-cave-beneath-pembroke-castle-hold-key-to-fate-of-early-britons)
+* [2024-06-21, 23:06:55](https://news.ycombinator.com/item?id=40754764) - [Humans, and Hyenas, Sheltered in Cave-Like Lava Tubes Millennia Ago](https://www.wsj.com/science/archaeology/lava-tubes-saudi-arabia-history-d6fc9c31)
 * [2024-06-21, 22:54:22](https://news.ycombinator.com/item?id=40754681) - [Do not confuse a random variable with its distribution](https://bookdown.org/kevin_davisross/probsim-book/distribution.html)
-* [2024-06-21, 15:48:59](https://news.ycombinator.com/item?id=40750782) - [Multiple Regions, Single Pane of Glass](https://www.warpstream.com/blog/multiple-regions-single-pane-of-glass)
 
 ## [Archives](archives/index.md)
 
