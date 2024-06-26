@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-26, 17:39:50](https://news.ycombinator.com/item?id=40802423) - [Figma AI: Empowering designers with intelligent tools](https://www.figma.com/blog/introducing-figma-ai/)
 * [2024-06-26, 17:32:04](https://news.ycombinator.com/item?id=40802334) - [Anthropic: Expanding Access to Claude for Government](https://www.anthropic.com/news/expanding-access-to-claude-for-government)
 * [2024-06-26, 17:28:04](https://news.ycombinator.com/item?id=40802296) - [Millions of Taxpayers Call the IRS for Help. Two-Thirds Don't Reach Anyone](https://www.wsj.com/personal-finance/taxes/irs-customer-service-phone-call-data-fe7c0e65)
+* [2024-06-26, 17:01:33](https://news.ycombinator.com/item?id=40802066) - [I Add 3-25 Seconds of Latency to Every Page I Visit (2020)](https://howonlee.github.io/2020/02/12/I-20Add-2020-20Seconds-20of-20Latency-20to-20Every-20Website-20I-20Visit.html)
 * [2024-06-26, 17:00:17](https://news.ycombinator.com/item?id=40802054) - [Motion (YC W20) Is Hiring Our First DevOps Engineer](https://jobs.ashbyhq.com/motion/731e6994-c9b0-43ae-b7e4-28cbca03920f?utm_source=hn)
 * [2024-06-26, 16:05:36](https://news.ycombinator.com/item?id=40801523) - [Rabbit failed to properly reset keys: emails can be sent from rabbit.tech domain](https://rabbitu.de/articles/security-disclosure-2)
 * [2024-06-26, 16:02:57](https://news.ycombinator.com/item?id=40801494) - [Show HN: Find AI – Perplexity Meets LinkedIn](https://usefind.ai/)
@@ -24,12 +26,10 @@
 * [2024-06-23, 08:43:29](https://news.ycombinator.com/item?id=40765770) - [Liquid Layers](https://grantkot.com/ll/)
 * [2024-06-22, 22:45:53](https://news.ycombinator.com/item?id=40762912) - [Composite modding another Atari, because colors are hard](https://nicole.express/2024/have-you-hacked-atari-today.html)
 * [2024-06-21, 23:17:47](https://news.ycombinator.com/item?id=40754840) - [Show HN: Pdfscale](https://github.com/tavinus/pdfScale)
-* [2024-06-21, 22:46:29](https://news.ycombinator.com/item?id=40754624) - [Yupana: The Fibonacci number grid-based calculator of the Incas (2019)](https://www.mathematicsmagazine.com/Articles/Yupana.php)
 * [2024-06-21, 18:04:30](https://news.ycombinator.com/item?id=40752111) - [Exploring How Cache Memory Works](https://pikuma.com/blog/understanding-computer-cache)
 * [2024-06-21, 14:21:14](https://news.ycombinator.com/item?id=40749924) - [Test firing of a 3D-printed rocket engine designed through computational model](https://leap71.com/2024/06/18/leap-71-hot-fires-3d-printed-liquid-fuel-rocket-engine-designed-through-noyron-computational-model/)
 * [2024-06-21, 13:27:51](https://news.ycombinator.com/item?id=40749401) - [The plan-execute pattern](https://mmapped.blog/posts/29-plan-execute)
 * [2024-06-21, 13:21:56](https://news.ycombinator.com/item?id=40749345) - [Documentation Driven Development (2022)](https://unicorn-utterances.com/posts/documentation-driven-development)
-* [2024-06-21, 08:57:16](https://news.ycombinator.com/item?id=40747578) - [Nickel Modules](https://www.tweag.io/blog/2024-06-20-nickel-modules/)
 
 ## [Archives](archives/index.md)
 
