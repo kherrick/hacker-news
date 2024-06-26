@@ -2,9 +2,9 @@
 
 * [2024-06-26, 01:57:30](https://news.ycombinator.com/item?id=40795688) - [First Class Contexts – Rye Language](https://ryelang.org/meet_rye/specifics/context/)
 * [2024-06-26, 01:28:16](https://news.ycombinator.com/item?id=40795556) - [The rarest book in American literature: Poe's Tamerlane](https://lithub.com/in-search-of-the-rarest-book-in-american-literature-edgar-allan-poes-tamerlane/)
-* [2024-06-26, 01:01:19](https://news.ycombinator.com/item?id=40795405) - [My spiciest take on tech hiring](https://www.haskellforall.com/2024/06/my-spiciest-take-on-tech-hiring.html)
 * [2024-06-26, 01:00:57](https://news.ycombinator.com/item?id=40795404) - [Brazil's Supreme Court decriminalizes marijuana](https://www.bloomberg.com/news/articles/2024-06-25/brazil-supreme-court-decriminalizes-marijuana-for-personal-use)
 * [2024-06-26, 00:27:49](https://news.ycombinator.com/item?id=40795227) - [The album art of Phil Hartman(n) (2022)](https://www.conorherbert.com/music/the-album-art-of-phil-hartmann)
+* [2024-06-26, 00:04:08](https://news.ycombinator.com/item?id=40795127) - [Show HN: SmokeScanner – Using cigarette price arbitrage to find free flights](https://www.smokescanner.com)
 * [2024-06-25, 23:15:02](https://news.ycombinator.com/item?id=40794786) - [A brief introduction to interval arithmetic](https://buttondown.email/hillelwayne/archive/a-brief-introduction-to-interval-arithmetic/)
 * [2024-06-25, 21:34:40](https://news.ycombinator.com/item?id=40793924) - [HyperCard Simulator](https://hcsimulator.com/)
 * [2024-06-25, 21:00:06](https://news.ycombinator.com/item?id=40793540) - [Supabase (YC S20) Is Hiring Postgres SREs](https://boards.greenhouse.io/supabase/jobs/5162509004)
