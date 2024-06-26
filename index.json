@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=40798960"
     ],
     [
-      "Juniper (YC W21) is hiring sr engineers to fix financial infra in recurring care",
+      "Juniper (YC W21) is hiring engineers to fix financial infra in recurring care",
       "https://jobs.lever.co/juniperplatform/4295e9c0-57a2-45a5-b120-75b065b2a492"
     ]
   ],
@@ -141,62 +141,12 @@
   ],
   [
     [
-      "2024-06-25, 18:27:30",
-      "https://news.ycombinator.com/item?id=40791829"
-    ],
-    [
-      "Polyfill supply chain attack hits 100K+ sites",
-      "https://sansec.io/research/polyfill-supply-chain-attack"
-    ]
-  ],
-  [
-    [
-      "2024-06-25, 15:30:40",
-      "https://news.ycombinator.com/item?id=40789862"
-    ],
-    [
-      "Show HN: Glasskube – Open Source Kubernetes Package Manager, alternative to Helm",
-      "https://github.com/glasskube/glasskube"
-    ]
-  ],
-  [
-    [
       "2024-06-25, 15:14:08",
       "https://news.ycombinator.com/item?id=40789672"
     ],
     [
       "Show HN: I built a JavaScript-powered flipdisc display",
       "https://flipdisc.io/"
-    ]
-  ],
-  [
-    [
-      "2024-06-25, 14:49:28",
-      "https://news.ycombinator.com/item?id=40789353"
-    ],
-    [
-      "Show HN: From dotenv to dotenvx – better config management",
-      "https://dotenvx.com/blog/2024/06/24/dotenvx-next-generation-config-management.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-25, 13:53:05",
-      "https://news.ycombinator.com/item?id=40788648"
-    ],
-    [
-      "Show HN: Triplit – Open-source syncing database that runs on server and client",
-      "https://github.com/aspen-cloud/triplit"
-    ]
-  ],
-  [
-    [
-      "2024-06-25, 10:21:47",
-      "https://news.ycombinator.com/item?id=40786640"
-    ],
-    [
-      "Microsoft breached antitrust rules by bundling Teams and Office, EU says",
-      "https://apnews.com/article/microsoft-teams-eu-european-union-antitrust-26d11ada00f504d537d1b054dd6f6bbf"
     ]
   ],
   [
@@ -211,12 +161,12 @@
   ],
   [
     [
-      "2024-06-24, 05:24:44",
-      "https://news.ycombinator.com/item?id=40772831"
+      "2024-06-24, 01:28:37",
+      "https://news.ycombinator.com/item?id=40772034"
     ],
     [
-      "A reckless introduction to Hindley-Milner type inference (2019)",
-      "https://reasonableapproximation.net/2019/05/05/hindley-milner.html"
+      "Compressing graphs and indexes with recursive graph bisection (2016)",
+      "https://arxiv.org/abs/1602.08820"
     ]
   ],
   [
@@ -231,12 +181,22 @@
   ],
   [
     [
-      "2024-06-23, 20:49:08",
-      "https://news.ycombinator.com/item?id=40770484"
+      "2024-06-23, 18:50:08",
+      "https://news.ycombinator.com/item?id=40769636"
     ],
     [
-      "Does a cave beneath Pembroke Castle hold key to fate of early Britons?",
-      "https://www.theguardian.com/science/article/2024/jun/22/does-a-cave-beneath-pembroke-castle-hold-key-to-fate-of-early-britons"
+      "How electronic ignition works and also how to make a spark plug play music",
+      "https://www.theautopian.com/this-is-how-electronic-ignition-works-and-also-how-to-make-a-spark-plug-play-music/"
+    ]
+  ],
+  [
+    [
+      "2024-06-23, 17:17:12",
+      "https://news.ycombinator.com/item?id=40768959"
+    ],
+    [
+      "How automotive radar measures the velocity of objects",
+      "https://www.viksnewsletter.com/p/how-automotive-radar-measures-velocity"
     ]
   ],
   [
@@ -247,6 +207,16 @@
     [
       "Stamp: A Mini-Language for Templates",
       "https://scroll.pub/blog/stamp.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-23, 15:39:20",
+      "https://news.ycombinator.com/item?id=40768237"
+    ],
+    [
+      "Three ways to think about Go channels",
+      "https://www.dolthub.com/blog/2024-06-21-channel-three-ways/"
     ]
   ],
   [
@@ -271,12 +241,42 @@
   ],
   [
     [
+      "2024-06-22, 21:44:21",
+      "https://news.ycombinator.com/item?id=40762474"
+    ],
+    [
+      "Dance, Revolution",
+      "https://www.thedriftmag.com/dance-revolution/"
+    ]
+  ],
+  [
+    [
+      "2024-06-21, 23:17:47",
+      "https://news.ycombinator.com/item?id=40754840"
+    ],
+    [
+      "Show HN: Pdfscale",
+      "https://github.com/tavinus/pdfScale"
+    ]
+  ],
+  [
+    [
       "2024-06-21, 18:21:29",
       "https://news.ycombinator.com/item?id=40752245"
     ],
     [
       "Simple ways to find exposed sensitive information",
       "https://www.trickster.dev/post/simple-ways-to-find-exposed-sensitive-information/"
+    ]
+  ],
+  [
+    [
+      "2024-06-21, 18:04:30",
+      "https://news.ycombinator.com/item?id=40752111"
+    ],
+    [
+      "Exploring How Cache Memory Works",
+      "https://pikuma.com/blog/understanding-computer-cache"
     ]
   ],
   [
