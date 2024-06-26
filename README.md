@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-26, 00:53:57](https://news.ycombinator.com/item?id=40795368) - [Loneliness trajectories are associated with midlife conspiracist worldviews](https://www.nature.com/articles/s41467-024-47113-x)
+* [2024-06-26, 00:27:49](https://news.ycombinator.com/item?id=40795227) - [The Album Art of Phil Hartman(n)](https://www.conorherbert.com/music/the-album-art-of-phil-hartmann)
 * [2024-06-25, 23:15:02](https://news.ycombinator.com/item?id=40794786) - [A brief introduction to interval arithmetic](https://buttondown.email/hillelwayne/archive/a-brief-introduction-to-interval-arithmetic/)
-* [2024-06-25, 22:41:09](https://news.ycombinator.com/item?id=40794523) - [Atomic Operations Composition in Go](https://antonz.org/atomics-composition/)
 * [2024-06-25, 21:34:40](https://news.ycombinator.com/item?id=40793924) - [HyperCard Simulator](https://hcsimulator.com/)
 * [2024-06-25, 21:00:06](https://news.ycombinator.com/item?id=40793540) - [Supabase (YC S20) Is Hiring Postgres SREs](https://boards.greenhouse.io/supabase/jobs/5162509004)
 * [2024-06-25, 20:52:52](https://news.ycombinator.com/item?id=40793465) - [Ball: A ball that lives in your dock](https://github.com/nate-parrott/ball)
@@ -26,10 +27,9 @@
 * [2024-06-24, 05:24:44](https://news.ycombinator.com/item?id=40772831) - [A reckless introduction to Hindley-Milner type inference (2019)](https://reasonableapproximation.net/2019/05/05/hindley-milner.html)
 * [2024-06-24, 00:58:30](https://news.ycombinator.com/item?id=40771906) - [The Alternate Reality Kit (1987) [video]](https://www.youtube.com/watch?v=w1HhPE0zV6g)
 * [2024-06-23, 20:49:08](https://news.ycombinator.com/item?id=40770484) - [Does a cave beneath Pembroke Castle hold key to fate of early Britons?](https://www.theguardian.com/science/article/2024/jun/22/does-a-cave-beneath-pembroke-castle-hold-key-to-fate-of-early-britons)
-* [2024-06-23, 19:58:08](https://news.ycombinator.com/item?id=40770153) - [Continuous Pitch Wind Instruments](https://glissonic.com/)
 * [2024-06-23, 09:26:56](https://news.ycombinator.com/item?id=40765999) - [Remembering the LAN (2020)](https://tailscale.com/blog/remembering-the-lan)
 * [2024-06-23, 05:26:54](https://news.ycombinator.com/item?id=40765014) - [Infinitone Microtonal Saxophone](https://xerocraft.org/news/298-maker-interview-the-infinitone-and-the-notes-between-the-notes)
-* [2024-06-21, 13:00:51](https://news.ycombinator.com/item?id=40749157) - [Quantum chemistry helps characterize coordination complex of elusive Element 61](https://www.ornl.gov/news/quantum-chemistry-and-simulation-help-characterize-coordination-complex-elusive-element-61)
+* [2024-06-21, 22:54:22](https://news.ycombinator.com/item?id=40754681) - [Do not confuse a random variable with its distribution](https://bookdown.org/kevin_davisross/probsim-book/distribution.html#exm:dd-same-distribution)
 
 ## [Archives](archives/index.md)
 
