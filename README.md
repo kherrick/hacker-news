@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-26, 19:13:27](https://news.ycombinator.com/item?id=40803448) - [NYC banned Airbnbs to make housing cheaper, but only made hotels more expensive](https://www.businessinsider.com/airbnb-numbers-shrink-hotel-prices-soar-ban-nyc-2024-6)
 * [2024-06-26, 18:04:34](https://news.ycombinator.com/item?id=40802676) - [Figma Slides](https://www.figma.com/slides/)
 * [2024-06-26, 17:39:50](https://news.ycombinator.com/item?id=40802423) - [Figma AI](https://www.figma.com/blog/introducing-figma-ai/)
 * [2024-06-26, 17:28:04](https://news.ycombinator.com/item?id=40802296) - [Millions of Taxpayers Call the IRS for Help. Two-Thirds Don't Reach Anyone](https://www.wsj.com/personal-finance/taxes/irs-customer-service-phone-call-data-fe7c0e65)
@@ -11,6 +10,7 @@
 * [2024-06-26, 16:00:15](https://news.ycombinator.com/item?id=40801475) - [Things you didn't know about GNU readline (2019)](https://twobithistory.org/2019/08/22/readline.html)
 * [2024-06-26, 15:02:38](https://news.ycombinator.com/item?id=40800869) - [One Million Checkboxes](https://onemillioncheckboxes.com/)
 * [2024-06-26, 13:27:14](https://news.ycombinator.com/item?id=40799791) - [Show HN: R2R V2 – A open source RAG engine with prod features](https://github.com/SciPhi-AI/R2R)
+* [2024-06-26, 12:33:50](https://news.ycombinator.com/item?id=40799262) - [Show HN: Rubbrband – A hosted ComfyUI alternative for image generation](https://news.ycombinator.com/item?id=40799262)
 * [2024-06-26, 12:15:46](https://news.ycombinator.com/item?id=40799090) - [Ghosts in the ROM (2012)](https://www.nycresistor.com/2012/08/21/ghosts-in-the-rom/)
 * [2024-06-26, 06:46:56](https://news.ycombinator.com/item?id=40797070) - [Why blue animals are so rare](https://www.popsci.com/environment/why-blue-animals-are-rare/)
 * [2024-06-25, 16:42:14](https://news.ycombinator.com/item?id=40790642) - [APL Demonstration (1975) [video]](https://www.youtube.com/watch?v=_DTpQ4Kk2wA)
