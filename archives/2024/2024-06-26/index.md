@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-06-26](index.md)
 
+* [2024-06-26, 16:05:36](https://news.ycombinator.com/item?id=40801523) - [Rabbit failed to properly reset keys: emails can be sent from rabbit.tech domain](https://rabbitu.de/articles/security-disclosure-2)
 * [2024-06-26, 16:00:15](https://news.ycombinator.com/item?id=40801475) - [Things You Didn't Know About GNU Readline (2019)](https://twobithistory.org/2019/08/22/readline.html)
 * [2024-06-26, 15:52:28](https://news.ycombinator.com/item?id=40801401) - [SCOTUS Rules That US Government Can Continue Talking to Social Media Companies](https://www.wired.com/story/scotus-us-government-talk-social-media-companies/)
+* [2024-06-26, 15:02:38](https://news.ycombinator.com/item?id=40800869) - [One Million Checkboxes](https://onemillioncheckboxes.com/)
 * [2024-06-26, 14:48:52](https://news.ycombinator.com/item?id=40800734) - [If you're using Polyfill.io code on your site – remove it immediately](https://www.theregister.com/2024/06/25/polyfillio_china_crisis/)
 * [2024-06-26, 14:40:31](https://news.ycombinator.com/item?id=40800658) - [PostgreSQL Statistics, Indexes, and Pareto Data Distributions](https://making.close.com/posts/dialer-growth-statistics-indexes)
 * [2024-06-26, 14:30:38](https://news.ycombinator.com/item?id=40800548) - [Podman Desktop 1.11: Light mode and new Kubernetes features](https://podman-desktop.io/blog/podman-desktop-release-1.11)

@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-26, 16:05:36](https://news.ycombinator.com/item?id=40801523) - [Rabbit failed to properly reset keys: emails can be sent from rabbit.tech domain](https://rabbitu.de/articles/security-disclosure-2)
 * [2024-06-26, 16:00:15](https://news.ycombinator.com/item?id=40801475) - [Things You Didn't Know About GNU Readline (2019)](https://twobithistory.org/2019/08/22/readline.html)
-* [2024-06-26, 15:52:28](https://news.ycombinator.com/item?id=40801401) - [SCOTUS Rules That US Government Can Continue Talking to Social Media Companies](https://www.wired.com/story/scotus-us-government-talk-social-media-companies/)
+* [2024-06-26, 15:02:38](https://news.ycombinator.com/item?id=40800869) - [One Million Checkboxes](https://onemillioncheckboxes.com/)
 * [2024-06-26, 14:30:38](https://news.ycombinator.com/item?id=40800548) - [Podman Desktop 1.11: Light mode, Kubernetes features, macOS improvements](https://podman-desktop.io/blog/podman-desktop-release-1.11)
 * [2024-06-26, 13:27:14](https://news.ycombinator.com/item?id=40799791) - [Show HN: R2R V2 – A open source RAG engine with prod features](https://github.com/SciPhi-AI/R2R)
 * [2024-06-26, 12:33:50](https://news.ycombinator.com/item?id=40799262) - [Show HN: Rubbrband – A hosted ComfyUI alternative for image generation](https://news.ycombinator.com/item?id=40799262)
@@ -10,9 +11,9 @@
 * [2024-06-26, 09:55:32](https://news.ycombinator.com/item?id=40798224) - [The Point of the Banach Tarski Theorem (2015)](https://www.solipsys.co.uk/new/ThePointOfTheBanachTarskiTheorem.html)
 * [2024-06-26, 00:27:49](https://news.ycombinator.com/item?id=40795227) - [The album art of Phil Hartmann (2022)](https://www.conorherbert.com/music/the-album-art-of-phil-hartmann)
 * [2024-06-25, 23:15:02](https://news.ycombinator.com/item?id=40794786) - [A brief introduction to interval arithmetic](https://buttondown.email/hillelwayne/archive/a-brief-introduction-to-interval-arithmetic/)
-* [2024-06-25, 20:52:52](https://news.ycombinator.com/item?id=40793465) - [Ball: A ball that lives in your dock](https://github.com/nate-parrott/ball)
 * [2024-06-25, 16:42:14](https://news.ycombinator.com/item?id=40790642) - [APL Demonstration (1975) [video]](https://www.youtube.com/watch?v=_DTpQ4Kk2wA)
 * [2024-06-25, 15:14:08](https://news.ycombinator.com/item?id=40789672) - [Show HN: I built a JavaScript-powered flipdisc display](https://flipdisc.io/)
+* [2024-06-25, 14:48:21](https://news.ycombinator.com/item?id=40789339) - [Show HN: The Tomb of Nefertari [QV 66] Guided Virtual Tour](https://mused.com/en/guided/923/the-tomb-of-nefertari-valley-of-the-queens)
 * [2024-06-24, 11:31:16](https://news.ycombinator.com/item?id=40774748) - [Tracing garbage collection for arenas](https://btmc.substack.com/p/tracing-garbage-collection-for-arenas)
 * [2024-06-23, 22:21:29](https://news.ycombinator.com/item?id=40771104) - [The semiotics of barbed wire fence](https://languagelog.ldc.upenn.edu/nll/?p=64579)
 * [2024-06-23, 18:50:08](https://news.ycombinator.com/item?id=40769636) - [How electronic ignition works and also how to make a spark plug play music](https://www.theautopian.com/this-is-how-electronic-ignition-works-and-also-how-to-make-a-spark-plug-play-music/)
@@ -28,7 +29,6 @@
 * [2024-06-21, 14:21:14](https://news.ycombinator.com/item?id=40749924) - [Test firing of a 3D-printed rocket engine designed through computational model](https://leap71.com/2024/06/18/leap-71-hot-fires-3d-printed-liquid-fuel-rocket-engine-designed-through-noyron-computational-model/)
 * [2024-06-21, 13:27:51](https://news.ycombinator.com/item?id=40749401) - [The plan-execute pattern](https://mmapped.blog/posts/29-plan-execute)
 * [2024-06-21, 13:21:56](https://news.ycombinator.com/item?id=40749345) - [Documentation Driven Development (2022)](https://unicorn-utterances.com/posts/documentation-driven-development)
-* [2024-06-21, 11:42:02](https://news.ycombinator.com/item?id=40748520) - [Yacv (Yet Another Compiler Visualizer): LL and LR Parser Animations](https://github.com/ashutoshbsathe/yacv)
 * [2024-06-21, 08:57:16](https://news.ycombinator.com/item?id=40747578) - [Nickel Modules](https://www.tweag.io/blog/2024-06-20-nickel-modules/)
 
 ## [Archives](archives/index.md)
