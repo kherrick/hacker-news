@@ -42,6 +42,7 @@
 * [2024-06-23, 17:38:13](https://news.ycombinator.com/item?id=40769112) - [I'm Switching from Laravel to Rails](https://old.reddit.com/r/rails/comments/1dkcegr/im_switching_from_laravel_to_rails/)
 * [2024-06-23, 17:24:33](https://news.ycombinator.com/item?id=40769006) - [First we shape our social graph, then it shapes us (2022)](https://www.henrikkarlsson.xyz/p/first-we-shape-our-social-graph-then)
 * [2024-06-23, 17:22:52](https://news.ycombinator.com/item?id=40769001) - [The tiny chip that powers Montreal subway tickets](http://www.righto.com/2024/06/montreal-mifare-ultralight-nfc.html)
+* [2024-06-23, 17:10:45](https://news.ycombinator.com/item?id=40768913) - [Elixir Gotchas](https://pragtob.wordpress.com/2024/05/01/10-elixir-gotchas/)
 * [2024-06-23, 17:00:06](https://news.ycombinator.com/item?id=40768838) - [EasyPost (YC S13) Is Hiring](https://www.easypost.com/careers)
 * [2024-06-23, 16:49:49](https://news.ycombinator.com/item?id=40768760) - [Audit finds NYPD spent thousands of police hours on unconfirmed gunshot alerts](https://comptroller.nyc.gov/newsroom/nypds-shotspotter-gunshot-detection-system-overwhelmingly-sends-officers-to-locations-where-no-confirmed-shooting-occurred-new-audit-uncovers/)
 * [2024-06-23, 16:35:57](https://news.ycombinator.com/item?id=40768666) - [US Forest Service proposes protections for old-growth trees, without logging ban](https://www.opb.org/article/2024/06/22/us-forest-service-old-growth-tree-protections-proposal/)
