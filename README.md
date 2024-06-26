@@ -25,10 +25,10 @@
 * [2024-06-24, 16:47:34](https://news.ycombinator.com/item?id=40778241) - [Diagraming sentences in the 19th century](https://publicdomainreview.org/collection/diagramming-sentences-in-the-19th-century/)
 * [2024-06-24, 15:01:42](https://news.ycombinator.com/item?id=40776880) - [I found a 1-click exploit in South Korea's biggest mobile chat app](https://stulle123.github.io/posts/kakaotalk-account-takeover/)
 * [2024-06-24, 05:24:44](https://news.ycombinator.com/item?id=40772831) - [A reckless introduction to Hindley-Milner type inference (2019)](https://reasonableapproximation.net/2019/05/05/hindley-milner.html)
-* [2024-06-24, 00:58:30](https://news.ycombinator.com/item?id=40771906) - [The Alternate Reality Kit (1987) [video]](https://www.youtube.com/watch?v=w1HhPE0zV6g)
 * [2024-06-23, 20:49:08](https://news.ycombinator.com/item?id=40770484) - [Does a cave beneath Pembroke Castle hold key to fate of early Britons?](https://www.theguardian.com/science/article/2024/jun/22/does-a-cave-beneath-pembroke-castle-hold-key-to-fate-of-early-britons)
 * [2024-06-23, 17:10:45](https://news.ycombinator.com/item?id=40768913) - [Elixir Gotchas](https://pragtob.wordpress.com/2024/05/01/10-elixir-gotchas/)
 * [2024-06-23, 01:16:44](https://news.ycombinator.com/item?id=40763782) - [Diffusion Limited Aggregation (1991)](http://www.paulbourke.net/fractals/dla/)
+* [2024-06-21, 23:06:55](https://news.ycombinator.com/item?id=40754764) - [Humans, and Hyenas, Sheltered in Cave-Like Lava Tubes Millennia Ago](https://www.wsj.com/science/archaeology/lava-tubes-saudi-arabia-history-d6fc9c31)
 * [2024-06-21, 18:21:29](https://news.ycombinator.com/item?id=40752245) - [Simple ways to find exposed sensitive information](https://www.trickster.dev/post/simple-ways-to-find-exposed-sensitive-information/)
 
 ## [Archives](archives/index.md)
