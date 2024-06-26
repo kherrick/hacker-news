@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-26, 02:21:41](https://news.ycombinator.com/item?id=40795813) - [Maximizing Terraform modules for platform engineering](https://thenewstack.io/maximizing-terraform-modules-for-platform-engineering/)
+* [2024-06-26, 01:28:16](https://news.ycombinator.com/item?id=40795556) - [The rarest book in American literature: Poe's Tamerlane](https://lithub.com/in-search-of-the-rarest-book-in-american-literature-edgar-allan-poes-tamerlane/)
 * [2024-06-26, 01:20:27](https://news.ycombinator.com/item?id=40795525) - [Indications of superconductivities in blend of variant apatite and covellite](https://arxiv.org/abs/2406.17525)
-* [2024-06-26, 01:00:57](https://news.ycombinator.com/item?id=40795404) - [Brazil's Supreme Court Decriminalizes Marijuana](https://www.bloomberg.com/news/articles/2024-06-25/brazil-supreme-court-decriminalizes-marijuana-for-personal-use)
+* [2024-06-26, 01:00:57](https://news.ycombinator.com/item?id=40795404) - [Brazil's Supreme Court decriminalizes marijuana](https://www.bloomberg.com/news/articles/2024-06-25/brazil-supreme-court-decriminalizes-marijuana-for-personal-use)
 * [2024-06-26, 00:27:49](https://news.ycombinator.com/item?id=40795227) - [The album art of Phil Hartman(n) (2022)](https://www.conorherbert.com/music/the-album-art-of-phil-hartmann)
-* [2024-06-25, 23:56:49](https://news.ycombinator.com/item?id=40795075) - [Ubuntu 24.10 Now Defaults to Wayland on Nvidia](https://www.phoronix.com/news/Ubuntu-24.10-GDM-Wayland-NVIDIA)
 * [2024-06-25, 23:15:02](https://news.ycombinator.com/item?id=40794786) - [A brief introduction to interval arithmetic](https://buttondown.email/hillelwayne/archive/a-brief-introduction-to-interval-arithmetic/)
 * [2024-06-25, 21:34:40](https://news.ycombinator.com/item?id=40793924) - [HyperCard Simulator](https://hcsimulator.com/)
 * [2024-06-25, 21:00:06](https://news.ycombinator.com/item?id=40793540) - [Supabase (YC S20) Is Hiring Postgres SREs](https://boards.greenhouse.io/supabase/jobs/5162509004)
@@ -27,9 +27,9 @@
 * [2024-06-24, 05:24:44](https://news.ycombinator.com/item?id=40772831) - [A reckless introduction to Hindley-Milner type inference (2019)](https://reasonableapproximation.net/2019/05/05/hindley-milner.html)
 * [2024-06-24, 00:58:30](https://news.ycombinator.com/item?id=40771906) - [The Alternate Reality Kit (1987) [video]](https://www.youtube.com/watch?v=w1HhPE0zV6g)
 * [2024-06-23, 20:49:08](https://news.ycombinator.com/item?id=40770484) - [Does a cave beneath Pembroke Castle hold key to fate of early Britons?](https://www.theguardian.com/science/article/2024/jun/22/does-a-cave-beneath-pembroke-castle-hold-key-to-fate-of-early-britons)
-* [2024-06-23, 09:26:56](https://news.ycombinator.com/item?id=40765999) - [Remembering the LAN (2020)](https://tailscale.com/blog/remembering-the-lan)
 * [2024-06-23, 05:26:54](https://news.ycombinator.com/item?id=40765014) - [Infinitone Microtonal Saxophone](https://xerocraft.org/news/298-maker-interview-the-infinitone-and-the-notes-between-the-notes)
 * [2024-06-21, 22:54:22](https://news.ycombinator.com/item?id=40754681) - [Do not confuse a random variable with its distribution](https://bookdown.org/kevin_davisross/probsim-book/distribution.html)
+* [2024-06-21, 15:48:59](https://news.ycombinator.com/item?id=40750782) - [Multiple Regions, Single Pane of Glass](https://www.warpstream.com/blog/multiple-regions-single-pane-of-glass)
 
 ## [Archives](archives/index.md)
 

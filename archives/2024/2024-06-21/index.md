@@ -51,6 +51,7 @@
 * [2024-06-21, 16:24:09](https://news.ycombinator.com/item?id=40751108) - [Self-driving Waymos secure final clearance for expansion beyond S.F](https://www.sfchronicle.com/bayarea/article/self-driving-cars-waymo-sf-19523750.php)
 * [2024-06-21, 16:16:31](https://news.ycombinator.com/item?id=40751020) - [Testing Generative AI for Circuit Board Design](https://blog.jitx.com/jitx-corporate-blog/testing-generative-ai-for-circuit-board-design)
 * [2024-06-21, 15:59:57](https://news.ycombinator.com/item?id=40750888) - [McDonald's AI Drive-Thru debacle is a warning to us all](https://www.creativebloq.com/design/branding/mcdonalds-ai-drive-thru-debacle-is-a-warning-to-us-all)
+* [2024-06-21, 15:48:59](https://news.ycombinator.com/item?id=40750782) - [Multiple Regions, Single Pane of Glass](https://www.warpstream.com/blog/multiple-regions-single-pane-of-glass)
 * [2024-06-21, 15:35:29](https://news.ycombinator.com/item?id=40750674) - [54 Humans in One 8-meter Gravitics Module](https://www.gravitics.com/news/54-humans-in-gravitics-modules)
 * [2024-06-21, 15:16:16](https://news.ycombinator.com/item?id=40750506) - [Why does current flow the opposite way from the electrons?](https://mathstodon.xyz/@johncarlosbaez/112653640999819867)
 * [2024-06-21, 15:08:02](https://news.ycombinator.com/item?id=40750423) - [Ask HN: Midlife crisis, which direction to go with?](https://news.ycombinator.com/item?id=40750423)
