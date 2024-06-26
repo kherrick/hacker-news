@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-06-26, 14:48:52",
-      "https://news.ycombinator.com/item?id=40800734"
-    ],
-    [
-      "If you're using Polyfill.io code on your site – remove it immediately",
-      "https://www.theregister.com/2024/06/25/polyfillio_china_crisis/"
-    ]
-  ],
-  [
-    [
       "2024-06-26, 14:40:31",
       "https://news.ycombinator.com/item?id=40800658"
     ],
@@ -27,16 +17,6 @@
     [
       "Podman Desktop 1.11: Light mode and new Kubernetes features",
       "https://podman-desktop.io/blog/podman-desktop-release-1.11"
-    ]
-  ],
-  [
-    [
-      "2024-06-26, 14:28:14",
-      "https://news.ycombinator.com/item?id=40800524"
-    ],
-    [
-      "Resource burden of electric vehicles set to triple by 2050",
-      "https://www.theregister.com/2024/06/26/resource_burden_ev/"
     ]
   ],
   [
@@ -161,6 +141,16 @@
   ],
   [
     [
+      "2024-06-25, 18:27:30",
+      "https://news.ycombinator.com/item?id=40791829"
+    ],
+    [
+      "Polyfill supply chain attack hits 100K+ sites",
+      "https://sansec.io/research/polyfill-supply-chain-attack"
+    ]
+  ],
+  [
+    [
       "2024-06-25, 15:30:40",
       "https://news.ycombinator.com/item?id=40789862"
     ],
@@ -221,6 +211,26 @@
   ],
   [
     [
+      "2024-06-24, 05:24:44",
+      "https://news.ycombinator.com/item?id=40772831"
+    ],
+    [
+      "A reckless introduction to Hindley-Milner type inference (2019)",
+      "https://reasonableapproximation.net/2019/05/05/hindley-milner.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-23, 22:21:29",
+      "https://news.ycombinator.com/item?id=40771104"
+    ],
+    [
+      "The semiotics of barbed wire fence",
+      "https://languagelog.ldc.upenn.edu/nll/?p=64579"
+    ]
+  ],
+  [
+    [
       "2024-06-23, 20:49:08",
       "https://news.ycombinator.com/item?id=40770484"
     ],
@@ -257,16 +267,6 @@
     [
       "Diffusion Limited Aggregation (1991)",
       "http://www.paulbourke.net/fractals/dla/"
-    ]
-  ],
-  [
-    [
-      "2024-06-21, 19:18:40",
-      "https://news.ycombinator.com/item?id=40752728"
-    ],
-    [
-      "What Happens When You Put a Database in the Browser?",
-      "https://motherduck.com/blog/olap-database-in-browser/"
     ]
   ],
   [
