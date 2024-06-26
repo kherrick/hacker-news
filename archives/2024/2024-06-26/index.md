@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-26](index.md)
 
+* [2024-06-26, 22:21:49](https://news.ycombinator.com/item?id=40805251) - [The brain makes a lot of waste. Now scientists think they know where it goes](https://www.npr.org/sections/shots-health-news/2024/06/26/g-s1-6177/brain-waste-removal-system-amyloid-alzheimer-toxins)
 * [2024-06-26, 22:03:30](https://news.ycombinator.com/item?id=40805104) - [Wild Boar Has Five Times More PFAS Than Humans Allowed to Eat](https://www.forbes.com/sites/grrlscientist/2024/06/26/wild-boar-has-five-times-more-toxic-pfas-than-humans-allowed-to-eat/)
+* [2024-06-26, 22:03:00](https://news.ycombinator.com/item?id=40805099) - [South Korean telecom company attacks torrent users with malware](https://www.tomshardware.com/tech-industry/cyber-security/south-korean-telecom-company-attacks-torrent-users-with-malware-over-600000-people-report-missing-files-strange-folders-and-disabled-pcs)
 * [2024-06-26, 21:35:11](https://news.ycombinator.com/item?id=40804856) - [SpaceX to deliver vehicle to deorbit International Space Station](https://www.nasa.gov/news-release/nasa-selects-international-space-station-us-deorbit-vehicle/)
 * [2024-06-26, 21:32:26](https://news.ycombinator.com/item?id=40804827) - [Breath of God: Tripping on Xenon Gas](https://tripsitter.substack.com/p/xenon)
 * [2024-06-26, 21:13:29](https://news.ycombinator.com/item?id=40804645) - [Coup Attempt in Bolivia](https://www.bloomberg.com/news/articles/2024-06-26/bolivia-presidential-palace-stormed-in-apparent-coup-attempt)
