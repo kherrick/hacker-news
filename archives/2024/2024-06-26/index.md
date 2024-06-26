@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-26](index.md)
 
+* [2024-06-26, 06:17:49](https://news.ycombinator.com/item?id=40796946) - [Remote shell to a Raspberry Pi at 39,000 ft](https://www.jeffgeerling.com/blog/2024/remote-shell-raspberry-pi-39000-ft)
 * [2024-06-26, 05:43:06](https://news.ycombinator.com/item?id=40796771) - [The many faces of undefined in JavaScript](https://mortoray.com/the-many-faces-of-undefined-in-javascript/)
 * [2024-06-26, 04:00:41](https://news.ycombinator.com/item?id=40796253) - [Does Weed Cause Strokes and Heart Attacks?](https://reason.com/video/2024/06/25/does-weed-cause-strokes-and-heart-attacks/)
 * [2024-06-26, 02:21:41](https://news.ycombinator.com/item?id=40795813) - [Maximizing Terraform modules for platform engineering](https://thenewstack.io/maximizing-terraform-modules-for-platform-engineering/)
