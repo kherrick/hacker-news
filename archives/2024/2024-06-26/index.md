@@ -15,6 +15,7 @@
 * [2024-06-26, 11:46:43](https://news.ycombinator.com/item?id=40798843) - [One Year Since Germany's Nuclear Exit: Renewables Expand, Fossil Fuels Reduced](http://ise.fraunhofer.de/en/press-media/press-releases/2024/status-quo-one-year-since-germanys-nuclear-exit-renewable-capacity-expands-electricity-from-fossil-fuels-significantly-reduced.ht)
 * [2024-06-26, 10:44:52](https://news.ycombinator.com/item?id=40798473) - [Indonesia is trying to block LGBTQIA content from the internet](https://restofworld.org/2024/indonesia-broadcasting-law-lgbtqia/)
 * [2024-06-26, 09:55:32](https://news.ycombinator.com/item?id=40798224) - [The Point of the Banach Tarski Theorem](https://www.solipsys.co.uk/new/ThePointOfTheBanachTarskiTheorem.html?xf26hn)
+* [2024-06-26, 09:16:04](https://news.ycombinator.com/item?id=40798008) - [Show HN: Scene-AI powered all-in-one web design workspace](https://www.scene.io/)
 * [2024-06-26, 09:11:13](https://news.ycombinator.com/item?id=40797969) - [Matthew Garrett: \"Quick Assange frequent misconceptions thread\"](https://nondeterministic.computer/@mjg59/112679109895486477)
 * [2024-06-26, 08:56:18](https://news.ycombinator.com/item?id=40797858) - [Ask HN: How to pivot to a Machine Learning engineer?](https://news.ycombinator.com/item?id=40797858)
 * [2024-06-26, 08:41:10](https://news.ycombinator.com/item?id=40797755) - [Towards a More Inclusive and Sustainable Society](https://www.naps.edu.au/blog/towards-a-more-inclusive-and-sustainable-society)
