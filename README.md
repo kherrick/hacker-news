@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-26, 13:27:14](https://news.ycombinator.com/item?id=40799791) - [Show HN: R2R V2 – A open source RAG engine with prod features](https://github.com/SciPhi-AI/R2R)
 * [2024-06-26, 12:33:50](https://news.ycombinator.com/item?id=40799262) - [Show HN: Rubbrband – A hosted ComfyUI alternative for image generation](https://news.ycombinator.com/item?id=40799262)
 * [2024-06-26, 12:15:46](https://news.ycombinator.com/item?id=40799090) - [Ghosts in the ROM (2012)](https://www.nycresistor.com/2012/08/21/ghosts-in-the-rom/)
 * [2024-06-26, 12:01:14](https://news.ycombinator.com/item?id=40798960) - [Juniper (YC W21) is hiring sr engineers to fix financial infra in recurring care](https://jobs.lever.co/juniperplatform/4295e9c0-57a2-45a5-b120-75b065b2a492)
 * [2024-06-26, 09:55:32](https://news.ycombinator.com/item?id=40798224) - [The Point of the Banach Tarski Theorem](https://www.solipsys.co.uk/new/ThePointOfTheBanachTarskiTheorem.html?xf26hn)
 * [2024-06-26, 09:16:04](https://news.ycombinator.com/item?id=40798008) - [Show HN: Scene-AI powered all-in-one web design workspace](https://www.scene.io/)
-* [2024-06-26, 07:14:48](https://news.ycombinator.com/item?id=40797217) - [FICO and the Credit Bureau Cartel](https://www.thebignewsletter.com/p/inside-fico-and-the-credit-bureau)
 * [2024-06-26, 01:28:16](https://news.ycombinator.com/item?id=40795556) - [The rarest book in American literature: Poe's Tamerlane](https://lithub.com/in-search-of-the-rarest-book-in-american-literature-edgar-allan-poes-tamerlane/)
 * [2024-06-26, 00:27:49](https://news.ycombinator.com/item?id=40795227) - [The album art of Phil Hartmann (2022)](https://www.conorherbert.com/music/the-album-art-of-phil-hartmann)
 * [2024-06-25, 23:15:02](https://news.ycombinator.com/item?id=40794786) - [A brief introduction to interval arithmetic](https://buttondown.email/hillelwayne/archive/a-brief-introduction-to-interval-arithmetic/)

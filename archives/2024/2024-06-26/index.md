@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-26](index.md)
 
+* [2024-06-26, 13:27:14](https://news.ycombinator.com/item?id=40799791) - [Show HN: R2R V2 – A open source RAG engine with prod features](https://github.com/SciPhi-AI/R2R)
 * [2024-06-26, 13:22:46](https://news.ycombinator.com/item?id=40799747) - [Video: Linux sucks 2024 (Bryan Lunduke) [video]](https://www.youtube.com/watch?v=58mLZyShQjQ)
 * [2024-06-26, 13:17:57](https://news.ycombinator.com/item?id=40799699) - [Should people who quit get unemployment benefits, too?](https://www.vox.com/future-perfect/356461/unemployment-benefits-insurance-quitting-capitalism-economy)
 * [2024-06-26, 12:33:50](https://news.ycombinator.com/item?id=40799262) - [Show HN: Rubbrband – A hosted ComfyUI alternative for image generation](https://news.ycombinator.com/item?id=40799262)
