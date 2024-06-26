@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-06-26, 14:30:38",
-      "https://news.ycombinator.com/item?id=40800548"
-    ],
-    [
-      "Podman Desktop 1.11: Light mode, Kubernetes features, macOS improvements",
-      "https://podman-desktop.io/blog/podman-desktop-release-1.11"
-    ]
-  ],
-  [
-    [
       "2024-06-26, 13:27:14",
       "https://news.ycombinator.com/item?id=40799791"
     ],
@@ -107,6 +97,16 @@
     [
       "A brief introduction to interval arithmetic",
       "https://buttondown.email/hillelwayne/archive/a-brief-introduction-to-interval-arithmetic/"
+    ]
+  ],
+  [
+    [
+      "2024-06-25, 20:52:52",
+      "https://news.ycombinator.com/item?id=40793465"
+    ],
+    [
+      "Ball: A ball that lives in your dock",
+      "https://github.com/nate-parrott/ball"
     ]
   ],
   [
