@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-26, 02:21:41](https://news.ycombinator.com/item?id=40795813) - [Maximizing Terraform modules for platform engineering](https://thenewstack.io/maximizing-terraform-modules-for-platform-engineering/)
 * [2024-06-26, 01:28:16](https://news.ycombinator.com/item?id=40795556) - [The rarest book in American literature: Poe's Tamerlane](https://lithub.com/in-search-of-the-rarest-book-in-american-literature-edgar-allan-poes-tamerlane/)
 * [2024-06-26, 01:20:27](https://news.ycombinator.com/item?id=40795525) - [Indications of superconductivities in blend of variant apatite and covellite](https://arxiv.org/abs/2406.17525)
 * [2024-06-26, 01:00:57](https://news.ycombinator.com/item?id=40795404) - [Brazil's Supreme Court decriminalizes marijuana](https://www.bloomberg.com/news/articles/2024-06-25/brazil-supreme-court-decriminalizes-marijuana-for-personal-use)
@@ -16,6 +15,7 @@
 * [2024-06-25, 15:44:38](https://news.ycombinator.com/item?id=40790008) - [Igneous Linearizer: semi-structured source code](https://domain-j.com/Igneous-Linearizer/uuid/9e30337c-b890-4fd9-a0bd-51a7aa6e65b0)
 * [2024-06-25, 15:30:40](https://news.ycombinator.com/item?id=40789862) - [Show HN: Glasskube – Open Source Kubernetes Package Manager, alternative to Helm](https://github.com/glasskube/glasskube)
 * [2024-06-25, 15:14:08](https://news.ycombinator.com/item?id=40789672) - [Show HN: I built a JavaScript-powered flipdisc display](https://flipdisc.io/)
+* [2024-06-25, 14:54:22](https://news.ycombinator.com/item?id=40789411) - [Waymo One is now open to everyone in San Francisco](https://waymo.com/blog/2024/06/waymo-one-is-now-open-to-everyone-in-san-francisco/)
 * [2024-06-25, 14:49:28](https://news.ycombinator.com/item?id=40789353) - [Show HN: From dotenv to dotenvx – better config management](https://dotenvx.com/blog/2024/06/24/dotenvx-next-generation-config-management.html)
 * [2024-06-25, 14:48:21](https://news.ycombinator.com/item?id=40789339) - [Show HN: The Tomb of Nefertari [QV 66] Guided Virtual Tour](https://mused.com/en/guided/923/the-tomb-of-nefertari-valley-of-the-queens)
 * [2024-06-25, 13:53:05](https://news.ycombinator.com/item?id=40788648) - [Show HN: Triplit – Open-source syncing database that runs on server and client](https://github.com/aspen-cloud/triplit)
