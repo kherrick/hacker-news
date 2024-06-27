@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-27, 11:17:46](https://news.ycombinator.com/item?id=40809276) - [310-mile automated cargo conveyor will replace 25,000 trucks in Japan](https://newatlas.com/transport/cargo-conveyor-auto-logistics/)
-* [2024-06-27, 11:07:22](https://news.ycombinator.com/item?id=40809212) - [SpaceX building NASA craft to destroy the International Space Station](https://www.cnbc.com/2024/06/26/spacex-wins-nasa-contract-for-iss-reentry-destruction.html)
 * [2024-06-27, 10:38:51](https://news.ycombinator.com/item?id=40809069) - [The Fuggerei – the world’s first public housing (2022)](https://www.karlsnotes.com/fuggerei-the-worlds-first-public-housing/)
 * [2024-06-27, 10:29:06](https://news.ycombinator.com/item?id=40809033) - [How to think about creating a dataset for LLM fine-tuning evaluation](https://mlops.systems/posts/2024-06-25-evaluation-finetuning-manual-dataset.html)
 * [2024-06-27, 10:20:40](https://news.ycombinator.com/item?id=40808999) - [Open-Sora does pretty good video generation on consumer GPUs](https://backprop.co/environments/open-sora)
@@ -15,6 +14,7 @@
 * [2024-06-26, 22:33:59](https://news.ycombinator.com/item?id=40805351) - [Corcel – Use WordPress backend with Laravel or any PHP application](https://github.com/corcel/corcel)
 * [2024-06-26, 22:03:00](https://news.ycombinator.com/item?id=40805099) - [South Korean telecom company attacks torrent users with malware](https://www.tomshardware.com/tech-industry/cyber-security/south-korean-telecom-company-attacks-torrent-users-with-malware-over-600000-people-report-missing-files-strange-folders-and-disabled-pcs)
 * [2024-06-26, 21:51:03](https://news.ycombinator.com/item?id=40805010) - [Show HN: Voice bots with 500ms response times](https://fastvoiceagent.cerebrium.ai/)
+* [2024-06-26, 21:32:26](https://news.ycombinator.com/item?id=40804827) - [Tripping on Xenon Gas](https://tripsitter.substack.com/p/xenon)
 * [2024-06-26, 21:16:41](https://news.ycombinator.com/item?id=40804675) - [WordStar – A Writer's Word Processor (1990)](https://sfwriter.com/wordstar.htm)
 * [2024-06-26, 21:12:31](https://news.ycombinator.com/item?id=40804635) - [How the STL Uses Explicit](https://quuxplusone.github.io/blog/2024/06/25/most-stl-ctors-arent-explicit-but-yours-still-should-be/)
 * [2024-06-26, 20:54:08](https://news.ycombinator.com/item?id=40804489) - [Federal whistleblowers are entitled to damages of missed future pay, court rules](https://www.govexec.com/pay-benefits/2024/06/federal-whistleblowers-are-entitled-damages-missed-future-pay-court-rules/397638/)
