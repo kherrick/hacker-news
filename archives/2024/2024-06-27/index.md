@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-27](index.md)
 
+* [2024-06-27, 19:38:21](https://news.ycombinator.com/item?id=40814236) - [Cloudflare adds option to block AI scrapers and crawlers](https://front-end.social/@chriscoyier/112688532313287480)
 * [2024-06-27, 19:18:10](https://news.ycombinator.com/item?id=40814011) - [Valve.computer](https://www.valve.computer/)
 * [2024-06-27, 19:05:27](https://news.ycombinator.com/item?id=40813877) - [Slack to destroy >90d history of free communities](https://slimsag.com/2024/slack-to-destroy-history-of-free-communities/)
 * [2024-06-27, 18:25:59](https://news.ycombinator.com/item?id=40813479) - [Using short lived Postgres servers for testing](https://kaveland.no/posts/2024-05-27-shortlived-postgres-servers/)
@@ -77,3 +78,4 @@
 * [2024-06-27, 00:39:14](https://news.ycombinator.com/item?id=40806151) - [AI Revolutionized Protein Science, but Didn't End It](https://www.quantamagazine.org/how-ai-revolutionized-protein-science-but-didnt-end-it-20240626/)
 * [2024-06-27, 00:29:41](https://news.ycombinator.com/item?id=40806090) - [Netflix wants managers to ask whether they would rehire their employees](https://fortune.com/2024/06/25/netflix-managers-keeper-test-rehire-or-fire-staff/)
 * [2024-06-27, 00:24:04](https://news.ycombinator.com/item?id=40806063) - [Show HN: Standard Webhooks – simplifying 3rd party API's](https://www.syncd.dev/use-cases)
+* [2024-06-27, 00:05:05](https://news.ycombinator.com/item?id=40805949) - [ID verification service for TikTok, Uber, X exposed driver licenses](https://www.404media.co/id-verification-service-for-tiktok-uber-x-exposed-driver-licenses-au10tix/)
