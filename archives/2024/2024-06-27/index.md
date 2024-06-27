@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-27](index.md)
 
+* [2024-06-27, 18:15:16](https://news.ycombinator.com/item?id=40813384) - [Astronauts take shelter in Starliner, other spacecraft after satellite breakup](https://www.space.com/iss-astronauts-shelter-return-spacecraft-satellite-breakup)
+* [2024-06-27, 17:51:34](https://news.ycombinator.com/item?id=40813129) - [If my mother-in-law can use Ubuntu Linux, anyone can (2012)](https://www.zdnet.com/article/if-my-mother-in-law-can-use-ubuntu-linux-anyone-can/)
 * [2024-06-27, 17:46:21](https://news.ycombinator.com/item?id=40813077) - [Misconceptions About Loops in C](https://dl.acm.org/doi/10.1145/3652588.3663324)
 * [2024-06-27, 17:46:19](https://news.ycombinator.com/item?id=40813076) - [The strategy behind one of the most successful labs in the world](https://www.nature.com/articles/d41586-024-02085-2)
 * [2024-06-27, 17:09:37](https://news.ycombinator.com/item?id=40812695) - [Linux community mourns loss of WiFi driver expert Larry Finger](https://www.developer-tech.com/news/2024/jun/24/linux-community-mourns-loss-wifi-driver-expert/)
@@ -16,6 +18,7 @@
 * [2024-06-27, 16:19:58](https://news.ycombinator.com/item?id=40812210) - [Tell HN: Stripe increases Billing pricing by 40%](https://news.ycombinator.com/item?id=40812210)
 * [2024-06-27, 16:13:47](https://news.ycombinator.com/item?id=40812118) - [Identity Verification Used by X, TikTok, and Uber Exposed Driver's Licenses](https://gizmodo.com/identity-verification-firm-used-by-x-tiktok-and-uber-1851562934)
 * [2024-06-27, 15:51:49](https://news.ycombinator.com/item?id=40811814) - [AI-generated Al Michaels to provide daily recaps during 2024 Summer Olympics](https://arstechnica.com/information-technology/2024/06/ai-generated-al-michaels-to-provide-daily-recaps-during-2024-summer-olympics/)
+* [2024-06-27, 15:49:17](https://news.ycombinator.com/item?id=40811785) - [The Secret, Magical Life of Lithium](https://www.noemamag.com/the-secret-magical-life-of-lithium/)
 * [2024-06-27, 15:40:23](https://news.ycombinator.com/item?id=40811675) - [Review: Moaan InkPalm Plus is weird, cheap, small, and my kind of e-reader](https://sixcolors.com/post/2024/06/review-moaan-inkpalm-plus-is-weird-cheap-small-and-my-kind-of-e-reader/)
 * [2024-06-27, 15:30:46](https://news.ycombinator.com/item?id=40811624) - [Ask HN: Have coders made stuff complicated on purpose?](https://news.ycombinator.com/item?id=40811624)
 * [2024-06-27, 15:16:24](https://news.ycombinator.com/item?id=40811474) - [Microsoft blamed for million-plus patient record theft at US hospital giant](https://www.theregister.com/2024/06/26/geisinger_nuance_microsoft_worker/)
