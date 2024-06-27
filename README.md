@@ -2,7 +2,6 @@
 
 * [2024-06-27, 07:07:08](https://news.ycombinator.com/item?id=40808110) - [Flow Charts with CSS Anchor Positioning](https://coryrylan.com/blog/flow-charts-with-css-anchor-positioning)
 * [2024-06-27, 06:33:44](https://news.ycombinator.com/item?id=40807923) - [Eplot: A new package for making charts in Emacs](https://lars.ingebrigtsen.no/2024/06/26/a-new-package-for-making-charts-in-emacs-eplot/)
-* [2024-06-27, 03:55:02](https://news.ycombinator.com/item?id=40807032) - [25 years of video clips gone as Paramount axes Comedy Central wesbite](https://latenighter.com/news/paramount-axes-comedy-central-website-show-clips-library/)
 * [2024-06-27, 01:44:17](https://news.ycombinator.com/item?id=40806477) - [Princeton engineers create new oyster-inspired cement 17X more crack-resistant](https://engineering.princeton.edu/news/2024/06/11/seashells-cement-nature-inspires-tougher-building-material)
 * [2024-06-27, 01:16:52](https://news.ycombinator.com/item?id=40806356) - [DoorDash and Pizza Arbitrage (2020)](https://www.readmargins.com/p/doordash-and-pizza-arbitrage)
 * [2024-06-27, 00:39:14](https://news.ycombinator.com/item?id=40806151) - [AI Revolutionized Protein Science, but Didn't End It](https://www.quantamagazine.org/how-ai-revolutionized-protein-science-but-didnt-end-it-20240626/)
@@ -23,6 +22,7 @@
 * [2024-06-26, 08:42:16](https://news.ycombinator.com/item?id=40797763) - [Winpopup (2001)](https://susam.net/winpopup.html)
 * [2024-06-26, 07:36:32](https://news.ycombinator.com/item?id=40797320) - [Portcullis](https://medievalbritain.com/type/medieval-life/architecture/parts-of-a-medieval-castle-the-portcullis/)
 * [2024-06-26, 07:16:14](https://news.ycombinator.com/item?id=40797223) - [A new method of recording and searching information (1953)](https://fermatslibrary.com/s/a-new-method-of-recording-and-searching-information)
+* [2024-06-26, 05:43:05](https://news.ycombinator.com/item?id=40796770) - [Tough and Ductile Architected Nacre-Like Cementitious Composites](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.202313516)
 * [2024-06-25, 14:35:07](https://news.ycombinator.com/item?id=40789179) - [Living Computers Museum to permanently close, auction vintage items](https://www.geekwire.com/2024/seattles-living-computers-museum-logs-off-for-good-as-paul-allen-estate-will-auction-vintage-items/)
 * [2024-06-24, 22:13:46](https://news.ycombinator.com/item?id=40781573) - [Spy, accomplice, ghostwriter](https://insidestory.org.au/spy-accomplice-ghostwriter/)
 * [2024-06-24, 11:42:03](https://news.ycombinator.com/item?id=40774833) - [GCC's new fortification level: The gains and costs](https://developers.redhat.com/articles/2022/09/17/gccs-new-fortification-level)
