@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-27, 19:18:10](https://news.ycombinator.com/item?id=40814011) - [Valve.computer](https://www.valve.computer/)
+* [2024-06-27, 19:18:10](https://news.ycombinator.com/item?id=40814011) - [A modern 8 bit design, built using 1950s thermionic valves](https://www.valve.computer/)
 * [2024-06-27, 18:25:59](https://news.ycombinator.com/item?id=40813479) - [Using short lived Postgres servers for testing](https://kaveland.no/posts/2024-05-27-shortlived-postgres-servers/)
 * [2024-06-27, 18:22:44](https://news.ycombinator.com/item?id=40813450) - [How to (consistently) get 4.8* App Ratings](https://jacobbartlett.substack.com/p/how-to-consistently-get-48-app-ratings-3be)
 * [2024-06-27, 18:15:16](https://news.ycombinator.com/item?id=40813384) - [Astronauts take shelter in Starliner, other spacecraft after satellite breakup](https://www.space.com/iss-astronauts-shelter-return-spacecraft-satellite-breakup)
@@ -17,6 +17,7 @@
 * [2024-06-27, 14:35:34](https://news.ycombinator.com/item?id=40810986) - [Launch HN: Hatchet (YC W24) – Open-source task queue, now with a cloud version](https://news.ycombinator.com/item?id=40810986)
 * [2024-06-27, 14:32:35](https://news.ycombinator.com/item?id=40810949) - [Open Sourcing Kinopio](https://pketh.org/open-sourcing-kinopio.html)
 * [2024-06-27, 14:18:46](https://news.ycombinator.com/item?id=40810802) - [Gemma 2: Improving Open Language Models at a Practical Size [pdf]](https://storage.googleapis.com/deepmind-media/gemma/gemma-2-report.pdf)
+* [2024-06-27, 14:16:26](https://news.ycombinator.com/item?id=40810776) - [Not everything is behavioral science](https://behavioralscientist.org/is-everything-bs/)
 * [2024-06-27, 10:29:06](https://news.ycombinator.com/item?id=40809033) - [How to think about creating a dataset for LLM fine-tuning evaluation](https://mlops.systems/posts/2024-06-25-evaluation-finetuning-manual-dataset.html)
 * [2024-06-27, 10:06:18](https://news.ycombinator.com/item?id=40808933) - [Lessons I Wish I Had Been Taught (1996) [pdf]](https://www.ams.org/notices/199701/comm-rota.pdf)
 * [2024-06-27, 09:34:09](https://news.ycombinator.com/item?id=40808820) - [Google Sheets ported its calculation worker from JavaScript to WasmGC](https://web.dev/case-studies/google-sheets-wasmgc)
@@ -25,7 +26,6 @@
 * [2024-06-27, 03:17:09](https://news.ycombinator.com/item?id=40806858) - [Show HN: Gosax – A high-performance SAX XML parser for Go](https://github.com/orisano/gosax)
 * [2024-06-26, 20:31:37](https://news.ycombinator.com/item?id=40804294) - [Show HN: A Modern Palletization App](https://github.com/VladM7/Stack-Solver)
 * [2024-06-26, 20:12:31](https://news.ycombinator.com/item?id=40804122) - [The Forth Deck mini: a portable Forth computer with a discrete CPU](http://mynor.org/my4th_forthdeck.htm)
-* [2024-06-26, 19:41:14](https://news.ycombinator.com/item?id=40803783) - [Next gen 3D metal printing](https://fabric8labs.com)
 * [2024-06-26, 12:03:33](https://news.ycombinator.com/item?id=40798983) - [Pulsed Laser Deposition at Wafer Level Is a Game Changer](https://www.eetimes.com/pulsed-laser-deposition-at-wafer-level-is-a-game-changer/)
 * [2024-06-26, 11:59:13](https://news.ycombinator.com/item?id=40798939) - [Spudguns: Potato Cannon Guide](http://www.spudguns.org/)
 * [2024-06-26, 11:43:56](https://news.ycombinator.com/item?id=40798828) - [Flame Graphs: Making the opaque obvious (2017)](https://tech.popdata.org/Flame-Graphs-Performance-Tuning-Made-Easy/)
