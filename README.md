@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-27, 02:14:36](https://news.ycombinator.com/item?id=40806592) - [It's Time for Progressives to Recommit to Academic Freedom](https://www.thenation.com/article/archive/progressives-academic-freedom-gaza-harvard-law-review/)
 * [2024-06-27, 01:05:28](https://news.ycombinator.com/item?id=40806302) - [Molecular Interactions and the Behaviors of Biological Macromolecules](https://williams.chemistry.gatech.edu/structure/molecular_interactions/mol_int.html)
 * [2024-06-27, 00:39:14](https://news.ycombinator.com/item?id=40806151) - [AI Revolutionized Protein Science, but Didn't End It](https://www.quantamagazine.org/how-ai-revolutionized-protein-science-but-didnt-end-it-20240626/)
 * [2024-06-27, 00:29:41](https://news.ycombinator.com/item?id=40806090) - [Netflix wants managers to ask whether they would rehire their employees](https://fortune.com/2024/06/25/netflix-managers-keeper-test-rehire-or-fire-staff/)
@@ -25,7 +26,6 @@
 * [2024-06-24, 11:31:16](https://news.ycombinator.com/item?id=40774748) - [Tracing garbage collection for arenas](https://btmc.substack.com/p/tracing-garbage-collection-for-arenas)
 * [2024-06-24, 08:32:09](https://news.ycombinator.com/item?id=40773671) - [Structured logs are the way to start](https://shippingbytes.com/2024/06/24/structured-logs-are-the-way-to-start/)
 * [2024-06-24, 06:47:47](https://news.ycombinator.com/item?id=40773125) - [From RSS to My Kindle](https://olano.dev/blog/from-rss-to-my-kindle)
-* [2024-06-24, 01:28:37](https://news.ycombinator.com/item?id=40772034) - [Compressing graphs and indexes with recursive graph bisection (2016)](https://arxiv.org/abs/1602.08820)
 * [2024-06-24, 00:58:30](https://news.ycombinator.com/item?id=40771906) - [The Alternate Reality Kit (1987) [video]](https://www.youtube.com/watch?v=w1HhPE0zV6g)
 * [2024-06-23, 17:17:12](https://news.ycombinator.com/item?id=40768959) - [How automotive radar measures the velocity of objects](https://www.viksnewsletter.com/p/how-automotive-radar-measures-velocity)
 * [2024-06-23, 15:26:04](https://news.ycombinator.com/item?id=40768124) - [Nano DIP: the smallest complete Arduino board 33 x 10mm](https://avdweb.nl/arduino/attiny3217/nano-dip)
