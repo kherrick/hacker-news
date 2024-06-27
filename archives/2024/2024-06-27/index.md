@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-27](index.md)
 
+* [2024-06-27, 06:33:44](https://news.ycombinator.com/item?id=40807923) - [A New Package for Making Charts in Emacs: Eplot](https://lars.ingebrigtsen.no/2024/06/26/a-new-package-for-making-charts-in-emacs-eplot/)
+* [2024-06-27, 06:32:00](https://news.ycombinator.com/item?id=40807911) - [NBC to use AI version of announcer Al Michaels' voice for Olympics recaps](https://www.cnn.com/2024/06/26/tech/al-michaels-ai-olympics/index.html)
 * [2024-06-27, 05:28:00](https://news.ycombinator.com/item?id=40807540) - [Common Interface Mistakes in Go](https://medium.com/@andreiboar/7-common-interface-mistakes-in-go-1d3f8e58be60)
 * [2024-06-27, 04:17:52](https://news.ycombinator.com/item?id=40807154) - [How to Run Adobe Photoshop 2024 on Wine (Linux)](https://forum.mattkc.com/viewtopic.php?t=336)
 * [2024-06-27, 04:02:32](https://news.ycombinator.com/item?id=40807072) - [Chase will soon share their customers' credit card information with startup Paze](https://www.chase.com/digital/digital-payments/paze-faqs)
