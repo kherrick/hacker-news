@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-06-27](index.md)
 
 * [2024-06-27, 14:18:46](https://news.ycombinator.com/item?id=40810802) - [Gemma 2: Improving Open Language Models at a Practical Size [pdf]](https://storage.googleapis.com/deepmind-media/gemma/gemma-2-report.pdf)
+* [2024-06-27, 14:15:43](https://news.ycombinator.com/item?id=40810769) - [It's Now Cheaper to Lease a Tesla Model 3 Than a Toyota Camry](https://insideevs.com/news/724571/tesla-model-3-lease-cheaper-toyota-camry/)
+* [2024-06-27, 14:15:23](https://news.ycombinator.com/item?id=40810767) - [Supreme Court blocks Purdue Pharma opioid settlement](https://www.nbcnews.com/politics/supreme-court/supreme-court-blocks-purdue-pharma-opioid-settlement-rcna139066)
 * [2024-06-27, 12:59:10](https://news.ycombinator.com/item?id=40809997) - [At 50 Years Old, Is SQL Becoming a Niche Skill?](https://zwischenzugs.com/2024/06/27/at-50-years-old-is-sql-becoming-a-niche-skill/)
 * [2024-06-27, 12:49:10](https://news.ycombinator.com/item?id=40809926) - [CATL electric plane to support 2000 km (1200 miles) flight](https://www.chinadaily.com.cn/a/202406/25/WS667a5675a31095c51c50ab4d.html)
 * [2024-06-27, 12:49:09](https://news.ycombinator.com/item?id=40809924) - [Language is primarily a tool for communication rather than thought](https://www.nature.com/articles/s41586-024-07522-w)
