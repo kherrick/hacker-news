@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-27](index.md)
 
+* [2024-06-27, 05:28:00](https://news.ycombinator.com/item?id=40807540) - [Common Interface Mistakes in Go](https://medium.com/@andreiboar/7-common-interface-mistakes-in-go-1d3f8e58be60)
 * [2024-06-27, 04:17:52](https://news.ycombinator.com/item?id=40807154) - [How to Run Adobe Photoshop 2024 on Wine (Linux)](https://forum.mattkc.com/viewtopic.php?t=336)
 * [2024-06-27, 04:02:32](https://news.ycombinator.com/item?id=40807072) - [Chase will soon share their customers' credit card information with startup Paze](https://www.chase.com/digital/digital-payments/paze-faqs)
 * [2024-06-27, 03:55:02](https://news.ycombinator.com/item?id=40807032) - [25 years of video clips gone as Paramount axes Comedy Central wesbite](https://latenighter.com/news/paramount-axes-comedy-central-website-show-clips-library/)
