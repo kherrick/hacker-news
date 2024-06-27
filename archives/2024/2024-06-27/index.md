@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-06-27](index.md)
 
+* [2024-06-27, 18:25:59](https://news.ycombinator.com/item?id=40813479) - [Using short lived Postgres servers for testing](https://kaveland.no/posts/2024-05-27-shortlived-postgres-servers/)
 * [2024-06-27, 18:15:16](https://news.ycombinator.com/item?id=40813384) - [Astronauts take shelter in Starliner, other spacecraft after satellite breakup](https://www.space.com/iss-astronauts-shelter-return-spacecraft-satellite-breakup)
+* [2024-06-27, 18:13:51](https://news.ycombinator.com/item?id=40813369) - [SCOTUS Rejects Sacklers Immunity](https://arstechnica.com/science/2024/06/opioid-settlement-toppled-as-scotus-rejects-sacklers-immunity-in-5-4-ruling/)
+* [2024-06-27, 18:07:52](https://news.ycombinator.com/item?id=40813311) - [Ask HN: What's Wrong with IRC?](https://news.ycombinator.com/item?id=40813311)
 * [2024-06-27, 17:51:34](https://news.ycombinator.com/item?id=40813129) - [If my mother-in-law can use Ubuntu Linux, anyone can (2012)](https://www.zdnet.com/article/if-my-mother-in-law-can-use-ubuntu-linux-anyone-can/)
 * [2024-06-27, 17:46:21](https://news.ycombinator.com/item?id=40813077) - [Misconceptions About Loops in C](https://dl.acm.org/doi/10.1145/3652588.3663324)
 * [2024-06-27, 17:46:19](https://news.ycombinator.com/item?id=40813076) - [The strategy behind one of the most successful labs in the world](https://www.nature.com/articles/d41586-024-02085-2)

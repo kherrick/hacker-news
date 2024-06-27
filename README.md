@@ -1,9 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-27, 18:25:59](https://news.ycombinator.com/item?id=40813479) - [Using short lived Postgres servers for testing](https://kaveland.no/posts/2024-05-27-shortlived-postgres-servers/)
 * [2024-06-27, 18:15:16](https://news.ycombinator.com/item?id=40813384) - [Astronauts take shelter in Starliner, other spacecraft after satellite breakup](https://www.space.com/iss-astronauts-shelter-return-spacecraft-satellite-breakup)
+* [2024-06-27, 18:13:51](https://news.ycombinator.com/item?id=40813369) - [SCOTUS Rejects Sacklers Immunity](https://arstechnica.com/science/2024/06/opioid-settlement-toppled-as-scotus-rejects-sacklers-immunity-in-5-4-ruling/)
+* [2024-06-27, 18:07:52](https://news.ycombinator.com/item?id=40813311) - [Ask HN: What's Wrong with IRC?](https://news.ycombinator.com/item?id=40813311)
 * [2024-06-27, 17:51:34](https://news.ycombinator.com/item?id=40813129) - [If my mother-in-law can use Ubuntu Linux, anyone can (2012)](https://www.zdnet.com/article/if-my-mother-in-law-can-use-ubuntu-linux-anyone-can/)
 * [2024-06-27, 17:46:21](https://news.ycombinator.com/item?id=40813077) - [Misconceptions About Loops in C](https://dl.acm.org/doi/10.1145/3652588.3663324)
-* [2024-06-27, 17:09:37](https://news.ycombinator.com/item?id=40812695) - [Larry Finger made Linux wireless work and brought others along to learn](https://arstechnica.com/gadgets/2024/06/larry-finger-linux-wireless-hero-was-a-persistent-patient-coder-and-mentor/)
+* [2024-06-27, 17:09:37](https://news.ycombinator.com/item?id=40812695) - [Remembering Larry Finger, who made Linux wireless work](https://arstechnica.com/gadgets/2024/06/larry-finger-linux-wireless-hero-was-a-persistent-patient-coder-and-mentor/)
 * [2024-06-27, 17:02:09](https://news.ycombinator.com/item?id=40812622) - [CriticGPT: Finding GPT-4's mistakes with GPT-4](https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4/)
 * [2024-06-27, 17:00:05](https://news.ycombinator.com/item?id=40812597) - [Hellometer (YC S20) Is Hiring](https://www.ycombinator.com/companies/hellometer/jobs/cgic6Bs-onboarding-operations-customer-success-and-project-management-specialist)
 * [2024-06-27, 16:13:47](https://news.ycombinator.com/item?id=40812118) - [Identity Verification Used by X, TikTok, and Uber Exposed Driver's Licenses](https://gizmodo.com/identity-verification-firm-used-by-x-tiktok-and-uber-1851562934)
@@ -25,11 +28,8 @@
 * [2024-06-26, 19:41:14](https://news.ycombinator.com/item?id=40803783) - [Next gen 3D metal printing](https://fabric8labs.com)
 * [2024-06-26, 11:59:13](https://news.ycombinator.com/item?id=40798939) - [Spudguns: Potato Cannon Guide](http://www.spudguns.org/)
 * [2024-06-26, 11:43:56](https://news.ycombinator.com/item?id=40798828) - [Flame Graphs: Making the opaque obvious (2017)](https://tech.popdata.org/Flame-Graphs-Performance-Tuning-Made-Easy/)
-* [2024-06-26, 11:30:04](https://news.ycombinator.com/item?id=40798740) - [gRPC: The Bad Parts](https://kmcd.dev/posts/grpc-the-bad-parts/)
 * [2024-06-26, 05:28:09](https://news.ycombinator.com/item?id=40796697) - [Show HN: Dorkly: Open Source Feature Flags](https://github.com/dorklyorg/dorkly/wiki)
 * [2024-06-26, 04:42:22](https://news.ycombinator.com/item?id=40796447) - [Making AI better at math tutoring](https://blog.khanacademy.org/why-were-deeply-invested-in-making-ai-better-at-math-tutoring-and-what-weve-been-up-to-lately/)
-* [2024-06-24, 05:39:30](https://news.ycombinator.com/item?id=40772882) - [Determine mesh rotations to minimise overhangs for 3D printing](https://github.com/dpohanlon/mesh-tumbler)
-* [2024-06-23, 14:21:49](https://news.ycombinator.com/item?id=40767676) - [Microbenchmarking return address branch prediction (2018)](https://blog.stuffedcow.net/2018/04/ras-microbenchmarks/)
 
 ## [Archives](archives/index.md)
 
