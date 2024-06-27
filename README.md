@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-27, 20:27:01](https://news.ycombinator.com/item?id=40814728) - [FCC rule would make carriers unlock all phones after 60 days](https://techcrunch.com/2024/06/27/fcc-rule-would-make-carriers-unlock-all-phones-after-60-days/)
 * [2024-06-27, 19:18:10](https://news.ycombinator.com/item?id=40814011) - [A modern 8 bit design, built using 1950s thermionic valves](https://www.valve.computer/)
 * [2024-06-27, 18:25:59](https://news.ycombinator.com/item?id=40813479) - [Using short lived Postgres servers for testing](https://kaveland.no/posts/2024-05-27-shortlived-postgres-servers/)
 * [2024-06-27, 18:15:16](https://news.ycombinator.com/item?id=40813384) - [Astronauts take shelter in Starliner, other spacecraft after satellite breakup](https://www.space.com/iss-astronauts-shelter-return-spacecraft-satellite-breakup)
@@ -28,7 +29,6 @@
 * [2024-06-26, 12:03:33](https://news.ycombinator.com/item?id=40798983) - [Pulsed Laser Deposition at Wafer Level Is a Game Changer](https://www.eetimes.com/pulsed-laser-deposition-at-wafer-level-is-a-game-changer/)
 * [2024-06-26, 11:59:13](https://news.ycombinator.com/item?id=40798939) - [Spudguns: Potato Cannon Guide](http://www.spudguns.org/)
 * [2024-06-26, 11:30:04](https://news.ycombinator.com/item?id=40798740) - [gRPC: The Bad Parts](https://kmcd.dev/posts/grpc-the-bad-parts/)
-* [2024-06-26, 09:18:37](https://news.ycombinator.com/item?id=40798026) - [Ask HN: Should I stay at my default dead startup or go and do something else?](https://news.ycombinator.com/item?id=40798026)
 * [2024-06-26, 05:28:09](https://news.ycombinator.com/item?id=40796697) - [Show HN: Dorkly – Open source feature flags](https://github.com/dorklyorg/dorkly/wiki)
 
 ## [Archives](archives/index.md)
