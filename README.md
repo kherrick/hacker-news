@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-27, 06:33:44](https://news.ycombinator.com/item?id=40807923) - [A New Package for Making Charts in Emacs: Eplot](https://lars.ingebrigtsen.no/2024/06/26/a-new-package-for-making-charts-in-emacs-eplot/)
+* [2024-06-27, 06:33:44](https://news.ycombinator.com/item?id=40807923) - [Eplot: A new package for making charts in Emacs](https://lars.ingebrigtsen.no/2024/06/26/a-new-package-for-making-charts-in-emacs-eplot/)
 * [2024-06-27, 04:17:52](https://news.ycombinator.com/item?id=40807154) - [How to Run Adobe Photoshop 2024 on Wine (Linux)](https://forum.mattkc.com/viewtopic.php?t=336)
 * [2024-06-27, 03:55:02](https://news.ycombinator.com/item?id=40807032) - [25 years of video clips gone as Paramount axes Comedy Central wesbite](https://latenighter.com/news/paramount-axes-comedy-central-website-show-clips-library/)
-* [2024-06-27, 03:33:52](https://news.ycombinator.com/item?id=40806930) - [6 months ago, I left the bullshit industrial complex](https://www.joanwestenberg.com/6-months-ago,-i-left-the-bullshit-industrial-complex)
 * [2024-06-27, 02:42:10](https://news.ycombinator.com/item?id=40806698) - [Claude 3.5 Sonnet](https://thezvi.substack.com/p/on-claude-35-sonnet)
 * [2024-06-27, 01:16:52](https://news.ycombinator.com/item?id=40806356) - [DoorDash and Pizza Arbitrage](https://www.readmargins.com/p/doordash-and-pizza-arbitrage)
 * [2024-06-27, 00:39:14](https://news.ycombinator.com/item?id=40806151) - [AI Revolutionized Protein Science, but Didn't End It](https://www.quantamagazine.org/how-ai-revolutionized-protein-science-but-didnt-end-it-20240626/)
@@ -11,6 +10,7 @@
 * [2024-06-26, 22:21:29](https://news.ycombinator.com/item?id=40805248) - [Confidentiality in the Face of Pervasive Surveillance](https://datatracker.ietf.org/doc/html/rfc7624)
 * [2024-06-26, 22:03:00](https://news.ycombinator.com/item?id=40805099) - [South Korean telecom company attacks torrent users with malware](https://www.tomshardware.com/tech-industry/cyber-security/south-korean-telecom-company-attacks-torrent-users-with-malware-over-600000-people-report-missing-files-strange-folders-and-disabled-pcs)
 * [2024-06-26, 21:51:03](https://news.ycombinator.com/item?id=40805010) - [Show HN: Voice bots with 500ms response times](https://fastvoiceagent.cerebrium.ai/)
+* [2024-06-26, 21:32:26](https://news.ycombinator.com/item?id=40804827) - [Tripping on Xenon Gas](https://tripsitter.substack.com/p/xenon)
 * [2024-06-26, 21:16:41](https://news.ycombinator.com/item?id=40804675) - [WordStar – A Writer's Word Processor (1990)](https://sfwriter.com/wordstar.htm)
 * [2024-06-26, 21:12:31](https://news.ycombinator.com/item?id=40804635) - [How the STL Uses Explicit](https://quuxplusone.github.io/blog/2024/06/25/most-stl-ctors-arent-explicit-but-yours-still-should-be/)
 * [2024-06-26, 20:54:08](https://news.ycombinator.com/item?id=40804489) - [Federal whistleblowers are entitled to damages of missed future pay, court rules](https://www.govexec.com/pay-benefits/2024/06/federal-whistleblowers-are-entitled-damages-missed-future-pay-court-rules/397638/)
