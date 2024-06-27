@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-27](index.md)
 
+* [2024-06-27, 19:05:27](https://news.ycombinator.com/item?id=40813877) - [Slack to destroy >90d history of free communities](https://slimsag.com/2024/slack-to-destroy-history-of-free-communities/)
 * [2024-06-27, 18:25:59](https://news.ycombinator.com/item?id=40813479) - [Using short lived Postgres servers for testing](https://kaveland.no/posts/2024-05-27-shortlived-postgres-servers/)
 * [2024-06-27, 18:15:16](https://news.ycombinator.com/item?id=40813384) - [Astronauts take shelter in Starliner, other spacecraft after satellite breakup](https://www.space.com/iss-astronauts-shelter-return-spacecraft-satellite-breakup)
 * [2024-06-27, 18:13:51](https://news.ycombinator.com/item?id=40813369) - [SCOTUS Rejects Sacklers Immunity](https://arstechnica.com/science/2024/06/opioid-settlement-toppled-as-scotus-rejects-sacklers-immunity-in-5-4-ruling/)

@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-27, 19:05:27](https://news.ycombinator.com/item?id=40813877) - [Slack to destroy >90d history of free communities](https://slimsag.com/2024/slack-to-destroy-history-of-free-communities/)
 * [2024-06-27, 18:25:59](https://news.ycombinator.com/item?id=40813479) - [Using short lived Postgres servers for testing](https://kaveland.no/posts/2024-05-27-shortlived-postgres-servers/)
 * [2024-06-27, 18:15:16](https://news.ycombinator.com/item?id=40813384) - [Astronauts take shelter in Starliner, other spacecraft after satellite breakup](https://www.space.com/iss-astronauts-shelter-return-spacecraft-satellite-breakup)
-* [2024-06-27, 18:13:51](https://news.ycombinator.com/item?id=40813369) - [SCOTUS Rejects Sacklers Immunity](https://arstechnica.com/science/2024/06/opioid-settlement-toppled-as-scotus-rejects-sacklers-immunity-in-5-4-ruling/)
+* [2024-06-27, 18:13:51](https://news.ycombinator.com/item?id=40813369) - [SCOTUS rejects Sacklers’ immunity, blowing up opioid settlement](https://arstechnica.com/science/2024/06/opioid-settlement-toppled-as-scotus-rejects-sacklers-immunity-in-5-4-ruling/)
 * [2024-06-27, 18:07:52](https://news.ycombinator.com/item?id=40813311) - [Ask HN: What's Wrong with IRC?](https://news.ycombinator.com/item?id=40813311)
 * [2024-06-27, 17:51:34](https://news.ycombinator.com/item?id=40813129) - [If my mother-in-law can use Ubuntu Linux, anyone can (2012)](https://www.zdnet.com/article/if-my-mother-in-law-can-use-ubuntu-linux-anyone-can/)
 * [2024-06-27, 17:46:21](https://news.ycombinator.com/item?id=40813077) - [Misconceptions about loops in C](https://dl.acm.org/doi/10.1145/3652588.3663324)
@@ -29,7 +30,6 @@
 * [2024-06-26, 11:59:13](https://news.ycombinator.com/item?id=40798939) - [Spudguns: Potato Cannon Guide](http://www.spudguns.org/)
 * [2024-06-26, 11:43:56](https://news.ycombinator.com/item?id=40798828) - [Flame Graphs: Making the opaque obvious (2017)](https://tech.popdata.org/Flame-Graphs-Performance-Tuning-Made-Easy/)
 * [2024-06-26, 05:28:09](https://news.ycombinator.com/item?id=40796697) - [Show HN: Dorkly – Open source feature flags](https://github.com/dorklyorg/dorkly/wiki)
-* [2024-06-26, 04:42:22](https://news.ycombinator.com/item?id=40796447) - [Making AI better at math tutoring](https://blog.khanacademy.org/why-were-deeply-invested-in-making-ai-better-at-math-tutoring-and-what-weve-been-up-to-lately/)
 
 ## [Archives](archives/index.md)
 
