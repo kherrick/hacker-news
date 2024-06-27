@@ -129,6 +129,129 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="40810986">
+          <h3>
+            <a class="item" href="https://news.ycombinator.com/item?id=40810986"
+              >Launch HN: Hatchet (YC W24) – Open-source task queue, now with a
+              cloud version</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-06-27 @ 14:35:34</span
+              ><span class="points-container"
+                >Points: <span class="points">16</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40810986"
+                  >Comments</a
+                ><span class="descendants">: 5</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://hatchet.run">https://hatchet.run</a>). We’re
+              building a modern task queue as an alternative to tools like
+              Celery for Python and BullMQ for Node. Our open-source repo is at
+              <a href="https://github.com/hatchet-dev/hatchet"
+                >https://github.com/hatchet-dev/hatchet</a
+              >
+              and is 100% MIT licensed.
+              <p>
+                When we did a Show HN a few months ago (<a
+                  href="https://news.ycombinator.com/item?id=39643136"
+                  >https://news.ycombinator.com/item?id=39643136</a
+                >), our cloud version was invite-only and we were focused on our
+                open-source offering.
+              </p>
+              <p>
+                Today we’re launching our self-serve cloud so that anyone can
+                get started creating tasks on our platform - you can get started
+                at
+                <a href="https://cloud.onhatchet.run"
+                  >https://cloud.onhatchet.run</a
+                >, or you can use these credentials to access a demo (should be
+                prefilled):
+              </p>
+              <p></p>
+              <pre><code>  URL: https://demo.hatchet-tools.com 
+  Email: hacker@news.ycombinator.com
+  Password: HatchetDemo123!
+</code></pre>
+              People are currently using Hatchet for a bunch of use-cases:
+              orchestrating RAG pipelines, queueing up user notifications,
+              building agentic LLM workflows, or scheduling image generation
+              tasks on GPUs.
+              <p>
+                We built this out of frustration with existing tools and a
+                conviction that PostgreSQL is the right choice for a task queue.
+                Beyond the fact that many developers are already using Postgres
+                in their stack, which makes it easier to self-host Hatchet, it’s
+                also easier to model higher-order concepts in Postgres, like
+                chains of tasks (which we call workflows). In our system, the
+                acknowledgement of the task, the task result, and the updates to
+                higher-order models are done as part of the same Postgres
+                transaction, which significantly reduces the risk of data
+                loss/race conditions when compared with other task queues (which
+                usually pass acknowledgements through a broker, storing the task
+                results elsewhere, and only then figuring out the next task in
+                the chain).
+              </p>
+              <p>
+                We also became increasingly frustrated with tools like Celery
+                and the challenges it introduces when using a modern Python
+                stack (&gt; 3.5). We wrote up a list of these frustrations here:
+                <a href="https://docs.hatchet.run/blog/problems-with-celery"
+                  >https://docs.hatchet.run/blog/problems-with-celery</a
+                >.
+              </p>
+              <p>
+                Since our Show HN, we’ve (partially or completely) addressed the
+                most common pieces of feedback from the post, which we’ll
+                outline here:
+              </p>
+              <p>
+                1. The most common ask was built-in support for fanout workflows
+                — one task which triggers an arbitrary number of child tasks to
+                run in parallel. We previously only had support for DAG
+                executions. We generalized this concept and launched child
+                workflows (<a
+                  href="https://docs.hatchet.run/home/features/child-workflows"
+                  >https://docs.hatchet.run/home/features/child-workflows</a
+                >). This is the first step towards a developer-friendly model of
+                durable execution.
+              </p>
+              <p>
+                2. Support for HTTP-based triggers — we’ve built out support for
+                webhook workers (<a
+                  href="https://docs.hatchet.run/home/features/webhooks"
+                  >https://docs.hatchet.run/home/features/webhooks</a
+                >), which allow you to trigger any workflow over an HTTP
+                webhook. This is particularly useful for apps on Vercel, who are
+                dealing with timeout limits of 60s, 300s, or 900s (depending on
+                your tier).
+              </p>
+              <p>
+                3. Our RabbitMQ dependency — while we haven’t gotten rid of this
+                completely, we’ve recently launched hatchet-lite (<a
+                  href="https://docs.hatchet.run/self-hosting/hatchet-lite"
+                  >https://docs.hatchet.run/self-hosting/hatchet-lite</a
+                >), which allows you to run the various Hatchet components in a
+                single Docker image that bundles RabbitMQ along with a migration
+                process, admin CLI, our REST API, and our gRPC engine. Hopefully
+                the lite was a giveaway, but this is meant for local development
+                and low-volume processing, on the order of hundreds per minute.
+              </p>
+              <p>
+                We’ve also launched more features, like support for global rate
+                limiting, steps which only run on workflow failure, and custom
+                event streaming.
+              </p>
+              <p>
+                We’ll be here the whole day for questions and feedback, and look
+                forward to hearing your thoughts!
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="40810802">
           <h3>
             <a
@@ -142,32 +265,11 @@
             <h4>
               <span>2024-06-27 @ 14:18:46</span
               ><span class="points-container"
-                >Points: <span class="points">46</span></span
+                >Points: <span class="points">52</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40810802"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="40810769">
-          <h3>
-            <a
-              class="item"
-              href="https://insideevs.com/news/724571/tesla-model-3-lease-cheaper-toyota-camry/"
-              >It's Now Cheaper to Lease a Tesla Model 3 Than a Toyota Camry</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-06-27 @ 14:15:43</span
-              ><span class="points-container"
-                >Points: <span class="points">33</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40810769"
-                  >Comments</a
-                ><span class="descendants">: 66</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
           </section>
@@ -184,35 +286,42 @@
             <h4>
               <span>2024-06-27 @ 14:15:23</span
               ><span class="points-container"
-                >Points: <span class="points">80</span></span
+                >Points: <span class="points">92</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40810767"
                   >Comments</a
-                ><span class="descendants">: 58</span></span
+                ><span class="descendants">: 71</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="40810084">
+        <section id="40810406">
           <h3>
-            <a
-              class="item"
-              href="https://katzbanks.com/news/kbk-spirit-787-bulkheads/"
-              >New Whistleblower Files FAA and OSHA Complaints Against Boeing
-              and Spirit</a
+            <a class="item" href="https://news.ycombinator.com/item?id=40810406"
+              >Ask HN: Arch Users – What is your long-term system maintenance
+              routine?</a
             >
           </h3>
           <section>
             <h4>
-              <span>2024-06-27 @ 13:08:05</span
+              <span>2024-06-27 @ 13:41:35</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">10</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40810084"
+                ><a href="https://news.ycombinator.com/item?id=40810406"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
+            <div class="text">
+              <p>
+                I'm curious about your long-term system maintenance routines.
+                What steps do you take to ensure your system stays stable and
+                up-to-date, and how long have you managed to keep your system
+                running smoothly without needing to reinstall?
+              </p>
+              <p>Thanks for your insights!</p>
+            </div>
           </section>
         </section>
         <section id="40809069">
@@ -227,11 +336,11 @@
             <h4>
               <span>2024-06-27 @ 10:38:51</span
               ><span class="points-container"
-                >Points: <span class="points">44</span></span
+                >Points: <span class="points">45</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40809069"
                   >Comments</a
-                ><span class="descendants">: 13</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -270,7 +379,7 @@
             <h4>
               <span>2024-06-27 @ 10:06:18</span
               ><span class="points-container"
-                >Points: <span class="points">129</span></span
+                >Points: <span class="points">135</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40808933"
                   >Comments</a
@@ -292,11 +401,11 @@
             <h4>
               <span>2024-06-27 @ 09:34:09</span
               ><span class="points-container"
-                >Points: <span class="points">177</span></span
+                >Points: <span class="points">183</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40808820"
                   >Comments</a
-                ><span class="descendants">: 75</span></span
+                ><span class="descendants">: 78</span></span
               >
             </h4>
           </section>
@@ -313,7 +422,7 @@
             <h4>
               <span>2024-06-27 @ 07:07:08</span
               ><span class="points-container"
-                >Points: <span class="points">106</span></span
+                >Points: <span class="points">107</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40808110"
                   >Comments</a
@@ -334,13 +443,52 @@
             <h4>
               <span>2024-06-27 @ 06:33:44</span
               ><span class="points-container"
-                >Points: <span class="points">184</span></span
+                >Points: <span class="points">188</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40807923"
                   >Comments</a
                 ><span class="descendants">: 26</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="40806858">
+          <h3>
+            <a class="item" href="https://github.com/orisano/gosax"
+              >Show HN: Gosax – A high-performance SAX XML parser for Go</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-06-27 @ 03:17:09</span
+              ><span class="points-container"
+                >Points: <span class="points">6</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40806858"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <a href="https://github.com/orisano/gosax"
+                >https://github.com/orisano/gosax</a
+              >
+              Key features:
+              <p>
+                - Read-only SAX parsing - Highly efficient parsing using
+                techniques inspired by quick-xml and pkg/json - SWAR (SIMD
+                Within A Register) optimizations for fast text processing
+              </p>
+              <p>
+                gosax is particularly useful for processing large XML files or
+                streams without loading the entire document into memory. It's
+                well-suited for data feeds, large configuration files, or any
+                scenario where XML parsing speed is crucial. I'd appreciate any
+                feedback, especially from those working with large-scale XML
+                processing in Go. What are your current pain points with XML
+                parsing? How could gosax potentially help your projects?
+              </p>
+            </div>
           </section>
         </section>
         <section id="40806356">
@@ -355,11 +503,11 @@
             <h4>
               <span>2024-06-27 @ 01:16:52</span
               ><span class="points-container"
-                >Points: <span class="points">129</span></span
+                >Points: <span class="points">131</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40806356"
                   >Comments</a
-                ><span class="descendants">: 47</span></span
+                ><span class="descendants">: 48</span></span
               >
             </h4>
           </section>
@@ -397,11 +545,11 @@
             <h4>
               <span>2024-06-26 @ 22:03:00</span
               ><span class="points-container"
-                >Points: <span class="points">366</span></span
+                >Points: <span class="points">371</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40805099"
                   >Comments</a
-                ><span class="descendants">: 121</span></span
+                ><span class="descendants">: 122</span></span
               >
             </h4>
           </section>
@@ -416,11 +564,11 @@
             <h4>
               <span>2024-06-26 @ 21:51:03</span
               ><span class="points-container"
-                >Points: <span class="points">202</span></span
+                >Points: <span class="points">203</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40805010"
                   >Comments</a
-                ><span class="descendants">: 65</span></span
+                ><span class="descendants">: 67</span></span
               >
             </h4>
             <div class="text">
@@ -489,11 +637,11 @@
             <h4>
               <span>2024-06-26 @ 21:32:26</span
               ><span class="points-container"
-                >Points: <span class="points">90</span></span
+                >Points: <span class="points">92</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40804827"
                   >Comments</a
-                ><span class="descendants">: 118</span></span
+                ><span class="descendants">: 120</span></span
               >
             </h4>
           </section>
@@ -517,25 +665,42 @@
             </h4>
           </section>
         </section>
-        <section id="40804635">
+        <section id="40804294">
           <h3>
-            <a
-              class="item"
-              href="https://quuxplusone.github.io/blog/2024/06/25/most-stl-ctors-arent-explicit-but-yours-still-should-be/"
-              >How the STL Uses Explicit</a
+            <a class="item" href="https://github.com/VladM7/Stack-Solver"
+              >Show HN: A Modern Palletization App</a
             >
           </h3>
           <section>
             <h4>
-              <span>2024-06-26 @ 21:12:31</span
+              <span>2024-06-26 @ 20:31:37</span
               ><span class="points-container"
-                >Points: <span class="points">59</span></span
+                >Points: <span class="points">13</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40804635"
+                ><a href="https://news.ycombinator.com/item?id=40804294"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 0</span></span
               >
             </h4>
+            <div class="text">
+              <p>
+                So what I had in mind when making Stack Solver was an app with a
+                modern interface that has the most essential features. It is
+                also well integrated with Microsoft Excel and renders a 3D
+                customizable drawing.
+              </p>
+              <p>
+                Stack Solver is programmed in C# using the WPF framework to
+                ensure it is fast and light. The interface is built using WPF
+                UI, a library that allows it to keep up with modern trends
+                (specifically the Fluent design).
+              </p>
+              <p>
+                It is a work in progress with tons of new features planned and
+                it is my first "serious" project so I would appreciate any
+                feedback :)
+              </p>
+            </div>
           </section>
         </section>
         <section id="40804122">
@@ -568,11 +733,11 @@
             <h4>
               <span>2024-06-26 @ 19:41:14</span
               ><span class="points-container"
-                >Points: <span class="points">211</span></span
+                >Points: <span class="points">213</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40803783"
                   >Comments</a
-                ><span class="descendants">: 98</span></span
+                ><span class="descendants">: 99</span></span
               >
             </h4>
           </section>
@@ -587,11 +752,11 @@
             <h4>
               <span>2024-06-26 @ 18:04:34</span
               ><span class="points-container"
-                >Points: <span class="points">440</span></span
+                >Points: <span class="points">442</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40802676"
                   >Comments</a
-                ><span class="descendants">: 161</span></span
+                ><span class="descendants">: 162</span></span
               >
             </h4>
           </section>
@@ -679,11 +844,11 @@
             <h4>
               <span>2024-06-26 @ 15:02:38</span
               ><span class="points-container"
-                >Points: <span class="points">873</span></span
+                >Points: <span class="points">875</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40800869"
                   >Comments</a
-                ><span class="descendants">: 286</span></span
+                ><span class="descendants">: 287</span></span
               >
             </h4>
           </section>
@@ -700,33 +865,32 @@
             <h4>
               <span>2024-06-26 @ 04:42:22</span
               ><span class="points-container"
-                >Points: <span class="points">53</span></span
+                >Points: <span class="points">56</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40796447"
                   >Comments</a
-                ><span class="descendants">: 58</span></span
+                ><span class="descendants">: 61</span></span
               >
             </h4>
           </section>
         </section>
-        <section id="40789179">
+        <section id="40774921">
           <h3>
             <a
               class="item"
-              href="https://www.geekwire.com/2024/seattles-living-computers-museum-logs-off-for-good-as-paul-allen-estate-will-auction-vintage-items/"
-              >Living Computers Museum to permanently close, auction vintage
-              items</a
+              href="https://www.gsa.gov/about-us/newsroom/news-releases/us-general-services-administration-announces-all-cabinet-agencies-are-now-using-logingov-09292023"
+              >All Cabinet agencies are now using Login.gov (2023)</a
             >
           </h3>
           <section>
             <h4>
-              <span>2024-06-25 @ 14:35:07</span
+              <span>2024-06-24 @ 11:52:41</span
               ><span class="points-container"
-                >Points: <span class="points">383</span></span
+                >Points: <span class="points">4</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40789179"
+                ><a href="https://news.ycombinator.com/item?id=40774921"
                   >Comments</a
-                ><span class="descendants">: 205</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -743,11 +907,11 @@
             <h4>
               <span>2024-06-24 @ 11:42:03</span
               ><span class="points-container"
-                >Points: <span class="points">172</span></span
+                >Points: <span class="points">173</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40774833"
                   >Comments</a
-                ><span class="descendants">: 70</span></span
+                ><span class="descendants">: 72</span></span
               >
             </h4>
           </section>
@@ -771,25 +935,6 @@
             </h4>
           </section>
         </section>
-        <section id="40768124">
-          <h3>
-            <a class="item" href="https://avdweb.nl/arduino/attiny3217/nano-dip"
-              >Nano DIP: the smallest complete Arduino board 33 x 10mm</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-06-23 @ 15:26:04</span
-              ><span class="points-container"
-                >Points: <span class="points">104</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40768124"
-                  >Comments</a
-                ><span class="descendants">: 37</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="40767676">
           <h3>
             <a
@@ -806,7 +951,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40767676"
                   >Comments</a
-                ><span class="descendants">: 1</span></span
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -840,7 +985,7 @@
             <h4>
               <span>2024-06-23 @ 08:43:29</span
               ><span class="points-container"
-                >Points: <span class="points">483</span></span
+                >Points: <span class="points">484</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40765770"
                   >Comments</a
