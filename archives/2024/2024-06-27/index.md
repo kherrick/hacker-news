@@ -5,8 +5,10 @@
 ### [Archives](../../index.md) for [2024-06-27](index.md)
 
 * [2024-06-27, 20:27:01](https://news.ycombinator.com/item?id=40814728) - [FCC rule would make carriers unlock all phones after 60 days](https://techcrunch.com/2024/06/27/fcc-rule-would-make-carriers-unlock-all-phones-after-60-days/)
+* [2024-06-27, 20:21:01](https://news.ycombinator.com/item?id=40814652) - [Issues with 1.1.1.1 public resolver in multiple locations](https://www.cloudflarestatus.com/incidents/4qndvvfbh4w5)
 * [2024-06-27, 19:38:21](https://news.ycombinator.com/item?id=40814236) - [Cloudflare adds option to block AI scrapers and crawlers](https://front-end.social/@chriscoyier/112688532313287480)
 * [2024-06-27, 19:18:10](https://news.ycombinator.com/item?id=40814011) - [Valve.computer](https://www.valve.computer/)
+* [2024-06-27, 19:11:23](https://news.ycombinator.com/item?id=40813943) - [Zulip: Open Source Organized Team Chat](https://zulip.com/)
 * [2024-06-27, 19:05:27](https://news.ycombinator.com/item?id=40813877) - [Slack to destroy >90d history of free communities](https://slimsag.com/2024/slack-to-destroy-history-of-free-communities/)
 * [2024-06-27, 18:25:59](https://news.ycombinator.com/item?id=40813479) - [Using short lived Postgres servers for testing](https://kaveland.no/posts/2024-05-27-shortlived-postgres-servers/)
 * [2024-06-27, 18:22:44](https://news.ycombinator.com/item?id=40813450) - [How to (consistently) get 4.8* App Ratings](https://jacobbartlett.substack.com/p/how-to-consistently-get-48-app-ratings-3be)
