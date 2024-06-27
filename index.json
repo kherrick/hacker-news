@@ -1,12 +1,72 @@
 [
   [
     [
+      "2024-06-27, 10:38:51",
+      "https://news.ycombinator.com/item?id=40809069"
+    ],
+    [
+      "The Fuggerei – the world’s first public housing (2022)",
+      "https://www.karlsnotes.com/fuggerei-the-worlds-first-public-housing/"
+    ]
+  ],
+  [
+    [
+      "2024-06-27, 10:29:06",
+      "https://news.ycombinator.com/item?id=40809033"
+    ],
+    [
+      "How to think about creating a dataset for LLM fine-tuning evaluation",
+      "https://mlops.systems/posts/2024-06-25-evaluation-finetuning-manual-dataset.html"
+    ]
+  ],
+  [
+    [
       "2024-06-27, 10:20:40",
       "https://news.ycombinator.com/item?id=40808999"
     ],
     [
       "Open-Sora does pretty good video generation on consumer GPUs",
       "https://backprop.co/environments/open-sora"
+    ]
+  ],
+  [
+    [
+      "2024-06-27, 10:13:43",
+      "https://news.ycombinator.com/item?id=40808969"
+    ],
+    [
+      "Dashboard and UIs for Node-Red",
+      "https://dashboard.flowfuse.com/"
+    ]
+  ],
+  [
+    [
+      "2024-06-27, 10:06:18",
+      "https://news.ycombinator.com/item?id=40808933"
+    ],
+    [
+      "Ten Lessons I Wish I Had Been Taught [pdf]",
+      "https://www.ams.org/notices/199701/comm-rota.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-06-27, 09:55:33",
+      "https://news.ycombinator.com/item?id=40808891"
+    ],
+    [
+      "Show HN: Lambda – The first-ever open-source privacy based social media app",
+      "https://news.ycombinator.com/item?id=40808891"
+    ]
+  ],
+  [
+    [
+      "2024-06-27, 09:31:56",
+      "https://news.ycombinator.com/item?id=40808808"
+    ],
+    [
+      "Post Office lawyers held secret meeting with judge to stop disclosure",
+      "https://www.lawgazette.co.uk/news/post-office-lawyers-held-secret-meeting-with-judge-to-stop-disclosure/5119593.article"
     ]
   ],
   [
@@ -51,16 +111,6 @@
   ],
   [
     [
-      "2024-06-27, 00:39:14",
-      "https://news.ycombinator.com/item?id=40806151"
-    ],
-    [
-      "AI Revolutionized Protein Science, but Didn't End It",
-      "https://www.quantamagazine.org/how-ai-revolutionized-protein-science-but-didnt-end-it-20240626/"
-    ]
-  ],
-  [
-    [
       "2024-06-26, 22:33:59",
       "https://news.ycombinator.com/item?id=40805351"
     ],
@@ -91,32 +141,12 @@
   ],
   [
     [
-      "2024-06-26, 21:32:26",
-      "https://news.ycombinator.com/item?id=40804827"
-    ],
-    [
-      "Tripping on Xenon Gas",
-      "https://tripsitter.substack.com/p/xenon"
-    ]
-  ],
-  [
-    [
       "2024-06-26, 21:16:41",
       "https://news.ycombinator.com/item?id=40804675"
     ],
     [
       "WordStar – A Writer's Word Processor (1990)",
       "https://sfwriter.com/wordstar.htm"
-    ]
-  ],
-  [
-    [
-      "2024-06-26, 21:12:31",
-      "https://news.ycombinator.com/item?id=40804635"
-    ],
-    [
-      "How the STL Uses Explicit",
-      "https://quuxplusone.github.io/blog/2024/06/25/most-stl-ctors-arent-explicit-but-yours-still-should-be/"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2024-06-26, 17:00:17",
-      "https://news.ycombinator.com/item?id=40802054"
-    ],
-    [
-      "Motion (YC W20) Is Hiring Our First DevOps Engineer",
-      "https://jobs.ashbyhq.com/motion/731e6994-c9b0-43ae-b7e4-28cbca03920f?utm_source=hn"
-    ]
-  ],
-  [
-    [
       "2024-06-26, 15:02:38",
       "https://news.ycombinator.com/item?id=40800869"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2024-06-26, 12:15:46",
-      "https://news.ycombinator.com/item?id=40799090"
-    ],
-    [
-      "Ghosts in the ROM (2012)",
-      "https://www.nycresistor.com/2012/08/21/ghosts-in-the-rom/"
-    ]
-  ],
-  [
-    [
       "2024-06-26, 08:42:16",
       "https://news.ycombinator.com/item?id=40797763"
     ],
@@ -221,32 +231,12 @@
   ],
   [
     [
-      "2024-06-26, 07:36:32",
-      "https://news.ycombinator.com/item?id=40797320"
-    ],
-    [
-      "Portcullis",
-      "https://medievalbritain.com/type/medieval-life/architecture/parts-of-a-medieval-castle-the-portcullis/"
-    ]
-  ],
-  [
-    [
       "2024-06-26, 05:43:05",
       "https://news.ycombinator.com/item?id=40796770"
     ],
     [
       "Tough and Ductile Architected Nacre-Like Cementitious Composites",
       "https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.202313516"
-    ]
-  ],
-  [
-    [
-      "2024-06-25, 14:35:07",
-      "https://news.ycombinator.com/item?id=40789179"
-    ],
-    [
-      "Living Computers Museum to permanently close, auction vintage items",
-      "https://www.geekwire.com/2024/seattles-living-computers-museum-logs-off-for-good-as-paul-allen-estate-will-auction-vintage-items/"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Determine mesh rotations to minimise overhangs for 3D printing",
       "https://github.com/dpohanlon/mesh-tumbler"
+    ]
+  ],
+  [
+    [
+      "2024-06-23, 18:53:23",
+      "https://news.ycombinator.com/item?id=40769663"
+    ],
+    [
+      "Socks, Lies, and Accessibility",
+      "https://janmaarten.com/gaad-2023/"
     ]
   ],
   [
