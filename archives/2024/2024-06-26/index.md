@@ -61,6 +61,7 @@
 * [2024-06-26, 09:16:04](https://news.ycombinator.com/item?id=40798008) - [Show HN: Scene-AI powered all-in-one web design workspace](https://www.scene.io/)
 * [2024-06-26, 09:11:13](https://news.ycombinator.com/item?id=40797969) - [Matthew Garrett: \"Quick Assange frequent misconceptions thread\"](https://nondeterministic.computer/@mjg59/112679109895486477)
 * [2024-06-26, 08:56:18](https://news.ycombinator.com/item?id=40797858) - [Ask HN: How to pivot to a Machine Learning engineer?](https://news.ycombinator.com/item?id=40797858)
+* [2024-06-26, 08:42:16](https://news.ycombinator.com/item?id=40797763) - [Winpopup (2001)](https://susam.net/winpopup.html)
 * [2024-06-26, 08:41:10](https://news.ycombinator.com/item?id=40797755) - [Towards a More Inclusive and Sustainable Society](https://www.naps.edu.au/blog/towards-a-more-inclusive-and-sustainable-society)
 * [2024-06-26, 08:22:51](https://news.ycombinator.com/item?id=40797598) - [Banach–Tarski Paradox](https://en.wikipedia.org/wiki/Banach%E2%80%93Tarski_paradox)
 * [2024-06-26, 07:48:37](https://news.ycombinator.com/item?id=40797376) - [American Singapore(s): Competent city governance hiding in plain sight](https://www.population.fyi/p/american-singapores-effective-city)

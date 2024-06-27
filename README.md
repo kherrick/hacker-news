@@ -2,7 +2,6 @@
 
 * [2024-06-27, 07:07:08](https://news.ycombinator.com/item?id=40808110) - [Flow Charts with CSS Anchor Positioning](https://coryrylan.com/blog/flow-charts-with-css-anchor-positioning)
 * [2024-06-27, 06:33:44](https://news.ycombinator.com/item?id=40807923) - [Eplot: A new package for making charts in Emacs](https://lars.ingebrigtsen.no/2024/06/26/a-new-package-for-making-charts-in-emacs-eplot/)
-* [2024-06-27, 06:12:53](https://news.ycombinator.com/item?id=40807788) - [Claude Sonnet 3.5 – The New Benchmark in Conversational AI](https://www.bodt.io/blogs/claude-3.5-sonnet)
 * [2024-06-27, 03:55:02](https://news.ycombinator.com/item?id=40807032) - [25 years of video clips gone as Paramount axes Comedy Central wesbite](https://latenighter.com/news/paramount-axes-comedy-central-website-show-clips-library/)
 * [2024-06-27, 01:44:17](https://news.ycombinator.com/item?id=40806477) - [Princeton engineers create new oyster-inspired cement 17X more crack-resistant](https://engineering.princeton.edu/news/2024/06/11/seashells-cement-nature-inspires-tougher-building-material)
 * [2024-06-27, 01:16:52](https://news.ycombinator.com/item?id=40806356) - [DoorDash and Pizza Arbitrage (2020)](https://www.readmargins.com/p/doordash-and-pizza-arbitrage)
@@ -21,6 +20,7 @@
 * [2024-06-26, 15:02:38](https://news.ycombinator.com/item?id=40800869) - [One Million Checkboxes](https://onemillioncheckboxes.com/)
 * [2024-06-26, 13:27:14](https://news.ycombinator.com/item?id=40799791) - [Show HN: R2R V2 – A open source RAG engine with prod features](https://github.com/SciPhi-AI/R2R)
 * [2024-06-26, 12:15:46](https://news.ycombinator.com/item?id=40799090) - [Ghosts in the ROM (2012)](https://www.nycresistor.com/2012/08/21/ghosts-in-the-rom/)
+* [2024-06-26, 08:42:16](https://news.ycombinator.com/item?id=40797763) - [Winpopup (2001)](https://susam.net/winpopup.html)
 * [2024-06-26, 07:36:32](https://news.ycombinator.com/item?id=40797320) - [Portcullis](https://medievalbritain.com/type/medieval-life/architecture/parts-of-a-medieval-castle-the-portcullis/)
 * [2024-06-26, 07:16:14](https://news.ycombinator.com/item?id=40797223) - [A new method of recording and searching information (1953)](https://fermatslibrary.com/s/a-new-method-of-recording-and-searching-information)
 * [2024-06-25, 14:35:07](https://news.ycombinator.com/item?id=40789179) - [Living Computers Museum to permanently close, auction vintage items](https://www.geekwire.com/2024/seattles-living-computers-museum-logs-off-for-good-as-paul-allen-estate-will-auction-vintage-items/)
