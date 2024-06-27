@@ -6,7 +6,9 @@
 
 * [2024-06-26, 23:20:11](https://news.ycombinator.com/item?id=40805658) - [Took part in Apache ceremonies. schools expelled them for satanic activities](https://www.theguardian.com/us-news/ng-interactive/2024/jun/24/apache-students-school-reservation)
 * [2024-06-26, 22:33:59](https://news.ycombinator.com/item?id=40805351) - [Corcel – Use WordPress backend with Laravel or any PHP application](https://github.com/corcel/corcel)
+* [2024-06-26, 22:33:56](https://news.ycombinator.com/item?id=40805350) - [Mozilla.ai did what? When silliness goes dangerous](https://tante.cc/2024/06/26/mozilla-ai-did-what-when-silliness-goes-dangerous/)
 * [2024-06-26, 22:21:49](https://news.ycombinator.com/item?id=40805251) - [The brain makes a lot of waste. Now scientists think they know where it goes](https://www.npr.org/sections/shots-health-news/2024/06/26/g-s1-6177/brain-waste-removal-system-amyloid-alzheimer-toxins)
+* [2024-06-26, 22:21:29](https://news.ycombinator.com/item?id=40805248) - [Confidentiality in the Face of Pervasive Surveillance](https://datatracker.ietf.org/doc/html/rfc7624)
 * [2024-06-26, 22:03:30](https://news.ycombinator.com/item?id=40805104) - [Wild Boar Has Five Times More PFAS Than Humans Allowed to Eat](https://www.forbes.com/sites/grrlscientist/2024/06/26/wild-boar-has-five-times-more-toxic-pfas-than-humans-allowed-to-eat/)
 * [2024-06-26, 22:03:00](https://news.ycombinator.com/item?id=40805099) - [South Korean telecom company attacks torrent users with malware](https://www.tomshardware.com/tech-industry/cyber-security/south-korean-telecom-company-attacks-torrent-users-with-malware-over-600000-people-report-missing-files-strange-folders-and-disabled-pcs)
 * [2024-06-26, 21:35:11](https://news.ycombinator.com/item?id=40804856) - [SpaceX to deliver vehicle to deorbit International Space Station](https://www.nasa.gov/news-release/nasa-selects-international-space-station-us-deorbit-vehicle/)
