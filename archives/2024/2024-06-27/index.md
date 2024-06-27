@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-27](index.md)
 
+* [2024-06-27, 02:42:10](https://news.ycombinator.com/item?id=40806698) - [Claude 3.5 Sonnet](https://thezvi.substack.com/p/on-claude-35-sonnet)
 * [2024-06-27, 02:14:36](https://news.ycombinator.com/item?id=40806592) - [It's Time for Progressives to Recommit to Academic Freedom](https://www.thenation.com/article/archive/progressives-academic-freedom-gaza-harvard-law-review/)
 * [2024-06-27, 01:05:28](https://news.ycombinator.com/item?id=40806302) - [Molecular Interactions and the Behaviors of Biological Macromolecules](https://williams.chemistry.gatech.edu/structure/molecular_interactions/mol_int.html)
 * [2024-06-27, 00:39:14](https://news.ycombinator.com/item?id=40806151) - [AI Revolutionized Protein Science, but Didn't End It](https://www.quantamagazine.org/how-ai-revolutionized-protein-science-but-didnt-end-it-20240626/)

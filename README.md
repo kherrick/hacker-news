@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-27, 02:42:10](https://news.ycombinator.com/item?id=40806698) - [Claude 3.5 Sonnet](https://thezvi.substack.com/p/on-claude-35-sonnet)
 * [2024-06-27, 01:05:28](https://news.ycombinator.com/item?id=40806302) - [Molecular Interactions and the Behaviors of Biological Macromolecules](https://williams.chemistry.gatech.edu/structure/molecular_interactions/mol_int.html)
 * [2024-06-27, 00:39:14](https://news.ycombinator.com/item?id=40806151) - [AI Revolutionized Protein Science, but Didn't End It](https://www.quantamagazine.org/how-ai-revolutionized-protein-science-but-didnt-end-it-20240626/)
 * [2024-06-27, 00:24:04](https://news.ycombinator.com/item?id=40806063) - [Show HN: Standard Webhooks – simplifying 3rd party API's](https://www.syncd.dev/use-cases)
@@ -19,9 +20,8 @@
 * [2024-06-26, 15:02:38](https://news.ycombinator.com/item?id=40800869) - [One Million Checkboxes](https://onemillioncheckboxes.com/)
 * [2024-06-26, 13:27:14](https://news.ycombinator.com/item?id=40799791) - [Show HN: R2R V2 – A open source RAG engine with prod features](https://github.com/SciPhi-AI/R2R)
 * [2024-06-26, 12:15:46](https://news.ycombinator.com/item?id=40799090) - [Ghosts in the ROM (2012)](https://www.nycresistor.com/2012/08/21/ghosts-in-the-rom/)
-* [2024-06-25, 16:42:14](https://news.ycombinator.com/item?id=40790642) - [APL Demonstration (1975) [video]](https://www.youtube.com/watch?v=_DTpQ4Kk2wA)
 * [2024-06-25, 14:35:07](https://news.ycombinator.com/item?id=40789179) - [Living Computers Museum to permanently close, auction vintage items](https://www.geekwire.com/2024/seattles-living-computers-museum-logs-off-for-good-as-paul-allen-estate-will-auction-vintage-items/)
-* [2024-06-25, 02:50:11](https://news.ycombinator.com/item?id=40783871) - [Pad jumps to avoid Intel erratum (2019)](https://github.com/golang/go/issues/35881)
+* [2024-06-24, 22:13:46](https://news.ycombinator.com/item?id=40781573) - [Spy, accomplice, ghostwriter](https://insidestory.org.au/spy-accomplice-ghostwriter/)
 * [2024-06-24, 11:42:03](https://news.ycombinator.com/item?id=40774833) - [GCC's new fortification level: The gains and costs](https://developers.redhat.com/articles/2022/09/17/gccs-new-fortification-level)
 * [2024-06-24, 11:31:16](https://news.ycombinator.com/item?id=40774748) - [Tracing garbage collection for arenas](https://btmc.substack.com/p/tracing-garbage-collection-for-arenas)
 * [2024-06-24, 08:32:09](https://news.ycombinator.com/item?id=40773671) - [Structured logs are the way to start](https://shippingbytes.com/2024/06/24/structured-logs-are-the-way-to-start/)
