@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-27](index.md)
 
 * [2024-06-27, 15:51:49](https://news.ycombinator.com/item?id=40811814) - [AI-generated Al Michaels to provide daily recaps during 2024 Summer Olympics](https://arstechnica.com/information-technology/2024/06/ai-generated-al-michaels-to-provide-daily-recaps-during-2024-summer-olympics/)
+* [2024-06-27, 15:40:23](https://news.ycombinator.com/item?id=40811675) - [Review: Moaan InkPalm Plus is weird, cheap, small, and my kind of e-reader](https://sixcolors.com/post/2024/06/review-moaan-inkpalm-plus-is-weird-cheap-small-and-my-kind-of-e-reader/)
 * [2024-06-27, 15:30:46](https://news.ycombinator.com/item?id=40811624) - [Ask HN: Have coders made stuff complicated on purpose?](https://news.ycombinator.com/item?id=40811624)
 * [2024-06-27, 15:16:24](https://news.ycombinator.com/item?id=40811474) - [Microsoft blamed for million-plus patient record theft at US hospital giant](https://www.theregister.com/2024/06/26/geisinger_nuance_microsoft_worker/)
 * [2024-06-27, 14:35:34](https://news.ycombinator.com/item?id=40810986) - [Launch HN: Hatchet (YC W24) – Open-source task queue, now with a cloud version](https://news.ycombinator.com/item?id=40810986)
