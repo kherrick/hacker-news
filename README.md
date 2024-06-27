@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-27, 21:30:31](https://news.ycombinator.com/item?id=40815345) - [US sanctions Boeing for sharing information about 737 MAX 9 investigation](https://apnews.com/article/boeing-ntsb-alaska-airlines-737-max-89e5655184516b4c54a9378414fe4cea)
 * [2024-06-27, 21:09:54](https://news.ycombinator.com/item?id=40815139) - [200 people charged in $2.7B health care fraud crackdown](https://apnews.com/article/justice-department-health-care-fraud-garland-24948b951896d0f265c29ba3fcacf858)
 * [2024-06-27, 21:09:11](https://news.ycombinator.com/item?id=40815130) - [Python grapples with Apple App Store rejections](https://lwn.net/SubscriberLink/979671/4fb7c1827536d1ae/)
 * [2024-06-27, 21:05:51](https://news.ycombinator.com/item?id=40815097) - [Maker of RStudio launches new R and Python IDE](https://www.infoworld.com/article/3715702/maker-of-rstudio-launches-new-r-and-python-ide.html)
@@ -26,7 +27,6 @@
 * [2024-06-27, 00:05:05](https://news.ycombinator.com/item?id=40805949) - [ID verification service for TikTok, Uber, X exposed driver licenses](https://www.404media.co/id-verification-service-for-tiktok-uber-x-exposed-driver-licenses-au10tix/)
 * [2024-06-26, 12:03:33](https://news.ycombinator.com/item?id=40798983) - [Pulsed laser deposition at wafer level is a game changer](https://www.eetimes.com/pulsed-laser-deposition-at-wafer-level-is-a-game-changer/)
 * [2024-06-26, 11:59:13](https://news.ycombinator.com/item?id=40798939) - [Spudguns: Potato Cannon Guide](http://www.spudguns.org/)
-* [2024-06-26, 11:30:04](https://news.ycombinator.com/item?id=40798740) - [gRPC: The Bad Parts](https://kmcd.dev/posts/grpc-the-bad-parts/)
 * [2024-06-26, 08:45:44](https://news.ycombinator.com/item?id=40797790) - [FDA warns top U.S. bakery not to claim foods contain allergens when they don't](https://www.npr.org/2024/06/26/g-s1-6238/fda-warns-bakery-foods-allergens)
 * [2024-06-26, 05:28:09](https://news.ycombinator.com/item?id=40796697) - [Show HN: Dorkly – Open source feature flags](https://github.com/dorklyorg/dorkly/wiki)
 * [2024-06-25, 15:44:38](https://news.ycombinator.com/item?id=40790008) - [Igneous Linearizer: semi-structured source code](https://domain-j.com/Igneous-Linearizer/uuid/9e30337c-b890-4fd9-a0bd-51a7aa6e65b0)

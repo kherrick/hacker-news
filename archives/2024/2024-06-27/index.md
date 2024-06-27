@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-27](index.md)
 
+* [2024-06-27, 21:30:31](https://news.ycombinator.com/item?id=40815345) - [US sanctions Boeing for sharing information about 737 MAX 9 investigation](https://apnews.com/article/boeing-ntsb-alaska-airlines-737-max-89e5655184516b4c54a9378414fe4cea)
 * [2024-06-27, 21:09:54](https://news.ycombinator.com/item?id=40815139) - [200 people charged in $2.7B health care fraud crackdown](https://apnews.com/article/justice-department-health-care-fraud-garland-24948b951896d0f265c29ba3fcacf858)
 * [2024-06-27, 21:09:11](https://news.ycombinator.com/item?id=40815130) - [Python grapples with Apple App Store rejections](https://lwn.net/SubscriberLink/979671/4fb7c1827536d1ae/)
 * [2024-06-27, 21:05:51](https://news.ycombinator.com/item?id=40815097) - [Maker of RStudio launches new R and Python IDE](https://www.infoworld.com/article/3715702/maker-of-rstudio-launches-new-r-and-python-ide.html)
