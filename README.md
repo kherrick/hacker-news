@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-27, 02:14:36](https://news.ycombinator.com/item?id=40806592) - [It's Time for Progressives to Recommit to Academic Freedom](https://www.thenation.com/article/archive/progressives-academic-freedom-gaza-harvard-law-review/)
 * [2024-06-27, 01:05:28](https://news.ycombinator.com/item?id=40806302) - [Molecular Interactions and the Behaviors of Biological Macromolecules](https://williams.chemistry.gatech.edu/structure/molecular_interactions/mol_int.html)
 * [2024-06-27, 00:39:14](https://news.ycombinator.com/item?id=40806151) - [AI Revolutionized Protein Science, but Didn't End It](https://www.quantamagazine.org/how-ai-revolutionized-protein-science-but-didnt-end-it-20240626/)
 * [2024-06-27, 00:24:04](https://news.ycombinator.com/item?id=40806063) - [Show HN: Standard Webhooks – simplifying 3rd party API's](https://www.syncd.dev/use-cases)
@@ -11,6 +10,7 @@
 * [2024-06-26, 22:03:00](https://news.ycombinator.com/item?id=40805099) - [South Korean telecom company attacks torrent users with malware](https://www.tomshardware.com/tech-industry/cyber-security/south-korean-telecom-company-attacks-torrent-users-with-malware-over-600000-people-report-missing-files-strange-folders-and-disabled-pcs)
 * [2024-06-26, 21:16:41](https://news.ycombinator.com/item?id=40804675) - [WordStar – A Writer's Word Processor (1990)](https://sfwriter.com/wordstar.htm)
 * [2024-06-26, 21:12:31](https://news.ycombinator.com/item?id=40804635) - [How the STL Uses Explicit](https://quuxplusone.github.io/blog/2024/06/25/most-stl-ctors-arent-explicit-but-yours-still-should-be/)
+* [2024-06-26, 20:54:08](https://news.ycombinator.com/item?id=40804489) - [Federal whistleblowers are entitled to damages of missed future pay, court rules](https://www.govexec.com/pay-benefits/2024/06/federal-whistleblowers-are-entitled-damages-missed-future-pay-court-rules/397638/)
 * [2024-06-26, 20:12:31](https://news.ycombinator.com/item?id=40804122) - [The Forth Deck mini: a portable Forth computer with a discrete CPU](http://mynor.org/my4th_forthdeck.htm)
 * [2024-06-26, 19:41:14](https://news.ycombinator.com/item?id=40803783) - [Next gen 3D metal printing](https://fabric8labs.com)
 * [2024-06-26, 18:04:34](https://news.ycombinator.com/item?id=40802676) - [Figma Slides](https://www.figma.com/slides/)
