@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-06-27](index.md)
 
+* [2024-06-27, 04:02:32](https://news.ycombinator.com/item?id=40807072) - [Chase will soon share their customers' credit card information with startup Paze](https://www.chase.com/digital/digital-payments/paze-faqs)
+* [2024-06-27, 03:55:02](https://news.ycombinator.com/item?id=40807032) - [25 years of video clips gone as Paramount axes Comedy Central wesbite](https://latenighter.com/news/paramount-axes-comedy-central-website-show-clips-library/)
 * [2024-06-27, 03:46:47](https://news.ycombinator.com/item?id=40806980) - [SpaceX Tender Offer Said to Value Company at Record $210B](https://www.bloomberg.com/news/articles/2024-06-27/spacex-tender-offer-said-to-value-company-at-record-210-billion)
+* [2024-06-27, 03:33:52](https://news.ycombinator.com/item?id=40806930) - [6 months ago, I left the bullshit industrial complex](https://www.joanwestenberg.com/6-months-ago,-i-left-the-bullshit-industrial-complex)
 * [2024-06-27, 02:42:10](https://news.ycombinator.com/item?id=40806698) - [Claude 3.5 Sonnet](https://thezvi.substack.com/p/on-claude-35-sonnet)
 * [2024-06-27, 02:14:36](https://news.ycombinator.com/item?id=40806592) - [It's Time for Progressives to Recommit to Academic Freedom](https://www.thenation.com/article/archive/progressives-academic-freedom-gaza-harvard-law-review/)
 * [2024-06-27, 01:16:52](https://news.ycombinator.com/item?id=40806356) - [DoorDash and Pizza Arbitrage](https://www.readmargins.com/p/doordash-and-pizza-arbitrage)
