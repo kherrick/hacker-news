@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-27, 11:23:05](https://news.ycombinator.com/item?id=40809301) - [Why it takes NYC nearly 10 years to install 500 feet of pipes – Gothamist](https://gothamist.com/news/why-it-takes-nyc-nearly-10-years-to-install-500-feet-of-pipes)
+* [2024-06-27, 12:24:31](https://news.ycombinator.com/item?id=40809714) - [The No Asshole Rule](https://en.wikipedia.org/wiki/The_No_Asshole_Rule)
 * [2024-06-27, 10:38:51](https://news.ycombinator.com/item?id=40809069) - [The Fuggerei – the world’s first public housing (2022)](https://www.karlsnotes.com/fuggerei-the-worlds-first-public-housing/)
 * [2024-06-27, 10:29:06](https://news.ycombinator.com/item?id=40809033) - [How to think about creating a dataset for LLM fine-tuning evaluation](https://mlops.systems/posts/2024-06-25-evaluation-finetuning-manual-dataset.html)
 * [2024-06-27, 10:13:43](https://news.ycombinator.com/item?id=40808969) - [Dashboard and UIs for Node-Red](https://dashboard.flowfuse.com/)
@@ -9,6 +9,7 @@
 * [2024-06-27, 09:31:56](https://news.ycombinator.com/item?id=40808808) - [Post Office lawyers held secret meeting with judge to stop disclosure](https://www.lawgazette.co.uk/news/post-office-lawyers-held-secret-meeting-with-judge-to-stop-disclosure/5119593.article)
 * [2024-06-27, 07:07:08](https://news.ycombinator.com/item?id=40808110) - [Flow Charts with CSS Anchor Positioning](https://coryrylan.com/blog/flow-charts-with-css-anchor-positioning)
 * [2024-06-27, 06:33:44](https://news.ycombinator.com/item?id=40807923) - [Eplot: A new package for making charts in Emacs](https://lars.ingebrigtsen.no/2024/06/26/a-new-package-for-making-charts-in-emacs-eplot/)
+* [2024-06-27, 03:22:50](https://news.ycombinator.com/item?id=40806875) - [My .gitconfig File Dissected](https://kiranrao.ca/2024/06/21/git-config.html)
 * [2024-06-27, 01:16:52](https://news.ycombinator.com/item?id=40806356) - [DoorDash and Pizza Arbitrage (2020)](https://www.readmargins.com/p/doordash-and-pizza-arbitrage)
 * [2024-06-26, 22:33:59](https://news.ycombinator.com/item?id=40805351) - [Corcel – Use WordPress backend with Laravel or any PHP application](https://github.com/corcel/corcel)
 * [2024-06-26, 22:03:00](https://news.ycombinator.com/item?id=40805099) - [South Korean telecom company attacks torrent users with malware](https://www.tomshardware.com/tech-industry/cyber-security/south-korean-telecom-company-attacks-torrent-users-with-malware-over-600000-people-report-missing-files-strange-folders-and-disabled-pcs)
@@ -24,7 +25,6 @@
 * [2024-06-26, 05:43:05](https://news.ycombinator.com/item?id=40796770) - [Tough and Ductile Architected Nacre-Like Cementitious Composites](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.202313516)
 * [2024-06-26, 04:42:22](https://news.ycombinator.com/item?id=40796447) - [Why We're Deeply Invested in Making AI Better at Math Tutoring](https://blog.khanacademy.org/why-were-deeply-invested-in-making-ai-better-at-math-tutoring-and-what-weve-been-up-to-lately/)
 * [2024-06-24, 11:42:03](https://news.ycombinator.com/item?id=40774833) - [GCC's new fortification level: The gains and costs](https://developers.redhat.com/articles/2022/09/17/gccs-new-fortification-level)
-* [2024-06-24, 06:47:47](https://news.ycombinator.com/item?id=40773125) - [From RSS to My Kindle](https://olano.dev/blog/from-rss-to-my-kindle)
 * [2024-06-24, 05:39:30](https://news.ycombinator.com/item?id=40772882) - [Determine mesh rotations to minimise overhangs for 3D printing](https://github.com/dpohanlon/mesh-tumbler)
 * [2024-06-23, 18:53:23](https://news.ycombinator.com/item?id=40769663) - [Socks, Lies, and Accessibility](https://janmaarten.com/gaad-2023/)
 * [2024-06-23, 15:26:04](https://news.ycombinator.com/item?id=40768124) - [Nano DIP: the smallest complete Arduino board 33 x 10mm](https://avdweb.nl/arduino/attiny3217/nano-dip)
