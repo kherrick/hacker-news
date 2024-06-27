@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-06-27, 12:24:31",
-      "https://news.ycombinator.com/item?id=40809714"
+      "2024-06-27, 14:18:46",
+      "https://news.ycombinator.com/item?id=40810802"
     ],
     [
-      "The No Asshole Rule",
-      "https://en.wikipedia.org/wiki/The_No_Asshole_Rule"
+      "Gemma 2: Improving Open Language Models at a Practical Size [pdf]",
+      "https://storage.googleapis.com/deepmind-media/gemma/gemma-2-report.pdf"
     ]
   ],
   [
@@ -27,16 +27,6 @@
     [
       "How to think about creating a dataset for LLM fine-tuning evaluation",
       "https://mlops.systems/posts/2024-06-25-evaluation-finetuning-manual-dataset.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-27, 10:13:43",
-      "https://news.ycombinator.com/item?id=40808969"
-    ],
-    [
-      "Dashboard and UIs for Node-Red",
-      "https://dashboard.flowfuse.com/"
     ]
   ],
   [
@@ -91,12 +81,12 @@
   ],
   [
     [
-      "2024-06-27, 03:22:50",
-      "https://news.ycombinator.com/item?id=40806875"
+      "2024-06-27, 01:44:17",
+      "https://news.ycombinator.com/item?id=40806477"
     ],
     [
-      "My .gitconfig File Dissected",
-      "https://kiranrao.ca/2024/06/21/git-config.html"
+      "Princeton engineers create new oyster-inspired cement 17X more crack-resistant",
+      "https://engineering.princeton.edu/news/2024/06/11/seashells-cement-nature-inspires-tougher-building-material"
     ]
   ],
   [
@@ -221,22 +211,22 @@
   ],
   [
     [
-      "2024-06-26, 05:43:05",
-      "https://news.ycombinator.com/item?id=40796770"
-    ],
-    [
-      "Tough and Ductile Architected Nacre-Like Cementitious Composites",
-      "https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.202313516"
-    ]
-  ],
-  [
-    [
       "2024-06-26, 04:42:22",
       "https://news.ycombinator.com/item?id=40796447"
     ],
     [
       "Why We're Deeply Invested in Making AI Better at Math Tutoring",
       "https://blog.khanacademy.org/why-were-deeply-invested-in-making-ai-better-at-math-tutoring-and-what-weve-been-up-to-lately/"
+    ]
+  ],
+  [
+    [
+      "2024-06-25, 14:35:07",
+      "https://news.ycombinator.com/item?id=40789179"
+    ],
+    [
+      "Living Computers Museum to permanently close, auction vintage items",
+      "https://www.geekwire.com/2024/seattles-living-computers-museum-logs-off-for-good-as-paul-allen-estate-will-auction-vintage-items/"
     ]
   ],
   [
@@ -261,12 +251,12 @@
   ],
   [
     [
-      "2024-06-23, 18:53:23",
-      "https://news.ycombinator.com/item?id=40769663"
+      "2024-06-23, 17:17:12",
+      "https://news.ycombinator.com/item?id=40768959"
     ],
     [
-      "Socks, Lies, and Accessibility",
-      "https://janmaarten.com/gaad-2023/"
+      "How automotive radar measures the velocity of objects",
+      "https://www.viksnewsletter.com/p/how-automotive-radar-measures-velocity"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "Microbenchmarking Return Address Branch Prediction (2018)",
       "https://blog.stuffedcow.net/2018/04/ras-microbenchmarks/"
+    ]
+  ],
+  [
+    [
+      "2024-06-23, 10:50:29",
+      "https://news.ycombinator.com/item?id=40766445"
+    ],
+    [
+      "Character Tiling",
+      "http://uridiumauthor.blogspot.com/2024/06/character-tiling.html"
     ]
   ],
   [
