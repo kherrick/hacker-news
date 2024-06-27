@@ -59,6 +59,7 @@
 * [2024-06-23, 15:33:57](https://news.ycombinator.com/item?id=40768188) - [Citizens to End SuperPACs](https://www.citizenstoendsuperpacs.org)
 * [2024-06-23, 15:28:03](https://news.ycombinator.com/item?id=40768140) - [Batteries as a Military Enabler](https://warontherocks.com/2024/06/batteries-as-a-military-enabler/)
 * [2024-06-23, 15:26:04](https://news.ycombinator.com/item?id=40768124) - [Nano DIP: the smallest complete Arduino board 33 x 10mm](https://avdweb.nl/arduino/attiny3217/nano-dip)
+* [2024-06-23, 14:21:49](https://news.ycombinator.com/item?id=40767676) - [Microbenchmarking Return Address Branch Prediction (2018)](https://blog.stuffedcow.net/2018/04/ras-microbenchmarks/)
 * [2024-06-23, 14:17:44](https://news.ycombinator.com/item?id=40767650) - [Traffic engineers build roads inviting crashes on outdated research, faulty data](https://theconversation.com/traffic-engineers-build-roads-that-invite-crashes-because-they-rely-on-outdated-research-and-faulty-data-223710)
 * [2024-06-23, 14:16:56](https://news.ycombinator.com/item?id=40767645) - [Picolisp a Railroad Simulation](https://picolisp-explored.com/a-railroad-simulation-with-des)
 * [2024-06-23, 14:14:46](https://news.ycombinator.com/item?id=40767627) - [California AI bill becomes a lightning rod–for safety advocates and devs alike](https://thebulletin.org/2024/06/california-ai-bill-becomes-a-lightning-rod-for-safety-advocates-and-developers-alike/#post-heading)
