@@ -63,6 +63,7 @@
 * [2024-06-26, 08:41:10](https://news.ycombinator.com/item?id=40797755) - [Towards a More Inclusive and Sustainable Society](https://www.naps.edu.au/blog/towards-a-more-inclusive-and-sustainable-society)
 * [2024-06-26, 08:22:51](https://news.ycombinator.com/item?id=40797598) - [Banach–Tarski Paradox](https://en.wikipedia.org/wiki/Banach%E2%80%93Tarski_paradox)
 * [2024-06-26, 07:48:37](https://news.ycombinator.com/item?id=40797376) - [American Singapore(s): Competent city governance hiding in plain sight](https://www.population.fyi/p/american-singapores-effective-city)
+* [2024-06-26, 07:36:32](https://news.ycombinator.com/item?id=40797320) - [Portcullis](https://medievalbritain.com/type/medieval-life/architecture/parts-of-a-medieval-castle-the-portcullis/)
 * [2024-06-26, 07:24:26](https://news.ycombinator.com/item?id=40797275) - [Show HN: a Rust lib to trigger actions based on your screen activity (with LLMs)](https://github.com/louis030195/screen-pipe)
 * [2024-06-26, 07:14:48](https://news.ycombinator.com/item?id=40797217) - [FICO and the Credit Bureau Cartel](https://www.thebignewsletter.com/p/inside-fico-and-the-credit-bureau)
 * [2024-06-26, 06:56:58](https://news.ycombinator.com/item?id=40797130) - [Google dropping continuous scroll in search results](https://searchengineland.com/google-dropping-continuous-scroll-in-search-results-443529)
