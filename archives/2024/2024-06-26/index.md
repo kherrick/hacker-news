@@ -11,6 +11,7 @@
 * [2024-06-26, 22:21:29](https://news.ycombinator.com/item?id=40805248) - [Confidentiality in the Face of Pervasive Surveillance](https://datatracker.ietf.org/doc/html/rfc7624)
 * [2024-06-26, 22:03:30](https://news.ycombinator.com/item?id=40805104) - [Wild Boar Has Five Times More PFAS Than Humans Allowed to Eat](https://www.forbes.com/sites/grrlscientist/2024/06/26/wild-boar-has-five-times-more-toxic-pfas-than-humans-allowed-to-eat/)
 * [2024-06-26, 22:03:00](https://news.ycombinator.com/item?id=40805099) - [South Korean telecom company attacks torrent users with malware](https://www.tomshardware.com/tech-industry/cyber-security/south-korean-telecom-company-attacks-torrent-users-with-malware-over-600000-people-report-missing-files-strange-folders-and-disabled-pcs)
+* [2024-06-26, 21:51:03](https://news.ycombinator.com/item?id=40805010) - [Show HN: Voice bots with 500ms response times](https://fastvoiceagent.cerebrium.ai/)
 * [2024-06-26, 21:35:11](https://news.ycombinator.com/item?id=40804856) - [SpaceX to deliver vehicle to deorbit International Space Station](https://www.nasa.gov/news-release/nasa-selects-international-space-station-us-deorbit-vehicle/)
 * [2024-06-26, 21:32:26](https://news.ycombinator.com/item?id=40804827) - [Breath of God: Tripping on Xenon Gas](https://tripsitter.substack.com/p/xenon)
 * [2024-06-26, 21:16:41](https://news.ycombinator.com/item?id=40804675) - [WordStar – A Writer's Word Processor (1990)](https://sfwriter.com/wordstar.htm)
