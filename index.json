@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-06-27, 18:25:59",
+      "https://news.ycombinator.com/item?id=40813479"
+    ],
+    [
+      "Using short lived Postgres servers for testing",
+      "https://kaveland.no/posts/2024-05-27-shortlived-postgres-servers/"
+    ]
+  ],
+  [
+    [
       "2024-06-27, 18:15:16",
       "https://news.ycombinator.com/item?id=40813384"
     ],
     [
       "Astronauts take shelter in Starliner, other spacecraft after satellite breakup",
       "https://www.space.com/iss-astronauts-shelter-return-spacecraft-satellite-breakup"
+    ]
+  ],
+  [
+    [
+      "2024-06-27, 18:13:51",
+      "https://news.ycombinator.com/item?id=40813369"
+    ],
+    [
+      "SCOTUS Rejects Sacklers Immunity",
+      "https://arstechnica.com/science/2024/06/opioid-settlement-toppled-as-scotus-rejects-sacklers-immunity-in-5-4-ruling/"
+    ]
+  ],
+  [
+    [
+      "2024-06-27, 18:07:52",
+      "https://news.ycombinator.com/item?id=40813311"
+    ],
+    [
+      "Ask HN: What's Wrong with IRC?",
+      "https://news.ycombinator.com/item?id=40813311"
     ]
   ],
   [
@@ -35,7 +65,7 @@
       "https://news.ycombinator.com/item?id=40812695"
     ],
     [
-      "Larry Finger made Linux wireless work and brought others along to learn",
+      "Remembering Larry Finger, who made Linux wireless work",
       "https://arstechnica.com/gadgets/2024/06/larry-finger-linux-wireless-hero-was-a-persistent-patient-coder-and-mentor/"
     ]
   ],
@@ -251,16 +281,6 @@
   ],
   [
     [
-      "2024-06-26, 11:30:04",
-      "https://news.ycombinator.com/item?id=40798740"
-    ],
-    [
-      "gRPC: The Bad Parts",
-      "https://kmcd.dev/posts/grpc-the-bad-parts/"
-    ]
-  ],
-  [
-    [
       "2024-06-26, 05:28:09",
       "https://news.ycombinator.com/item?id=40796697"
     ],
@@ -277,26 +297,6 @@
     [
       "Making AI better at math tutoring",
       "https://blog.khanacademy.org/why-were-deeply-invested-in-making-ai-better-at-math-tutoring-and-what-weve-been-up-to-lately/"
-    ]
-  ],
-  [
-    [
-      "2024-06-24, 05:39:30",
-      "https://news.ycombinator.com/item?id=40772882"
-    ],
-    [
-      "Determine mesh rotations to minimise overhangs for 3D printing",
-      "https://github.com/dpohanlon/mesh-tumbler"
-    ]
-  ],
-  [
-    [
-      "2024-06-23, 14:21:49",
-      "https://news.ycombinator.com/item?id=40767676"
-    ],
-    [
-      "Microbenchmarking return address branch prediction (2018)",
-      "https://blog.stuffedcow.net/2018/04/ras-microbenchmarks/"
     ]
   ]
 ]
