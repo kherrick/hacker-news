@@ -4,7 +4,6 @@
 * [2024-06-27, 19:18:10](https://news.ycombinator.com/item?id=40814011) - [A modern 8 bit design, built using 1950s thermionic valves](https://www.valve.computer/)
 * [2024-06-27, 18:25:59](https://news.ycombinator.com/item?id=40813479) - [Using short lived Postgres servers for testing](https://kaveland.no/posts/2024-05-27-shortlived-postgres-servers/)
 * [2024-06-27, 18:15:16](https://news.ycombinator.com/item?id=40813384) - [Astronauts take shelter in Starliner, other spacecraft after satellite breakup](https://www.space.com/iss-astronauts-shelter-return-spacecraft-satellite-breakup)
-* [2024-06-27, 18:14:22](https://news.ycombinator.com/item?id=40813375) - [Symbian Source Code: Final Repositories from the Defunct Symbian Foundation](https://github.com/SymbianSource)
 * [2024-06-27, 18:13:51](https://news.ycombinator.com/item?id=40813369) - [Supreme Court blocks controversial Purdue Pharma opioid settlement](https://www.washingtonpost.com/politics/2024/06/27/purdue-pharma-supreme-court-opioid-bankruptcy/)
 * [2024-06-27, 17:46:21](https://news.ycombinator.com/item?id=40813077) - [Misconceptions about loops in C](https://dl.acm.org/doi/10.1145/3652588.3663324)
 * [2024-06-27, 17:46:19](https://news.ycombinator.com/item?id=40813076) - [The strategy behind Cambridge’s Laboratory of Molecular Biology](https://www.nature.com/articles/d41586-024-02085-2)
@@ -29,6 +28,7 @@
 * [2024-06-26, 12:03:33](https://news.ycombinator.com/item?id=40798983) - [Pulsed Laser Deposition at Wafer Level Is a Game Changer](https://www.eetimes.com/pulsed-laser-deposition-at-wafer-level-is-a-game-changer/)
 * [2024-06-26, 11:59:13](https://news.ycombinator.com/item?id=40798939) - [Spudguns: Potato Cannon Guide](http://www.spudguns.org/)
 * [2024-06-26, 11:30:04](https://news.ycombinator.com/item?id=40798740) - [gRPC: The Bad Parts](https://kmcd.dev/posts/grpc-the-bad-parts/)
+* [2024-06-26, 08:45:44](https://news.ycombinator.com/item?id=40797790) - [FDA warns top U.S. bakery not to claim foods contain allergens when they don't](https://www.npr.org/2024/06/26/g-s1-6238/fda-warns-bakery-foods-allergens)
 * [2024-06-26, 05:28:09](https://news.ycombinator.com/item?id=40796697) - [Show HN: Dorkly – Open source feature flags](https://github.com/dorklyorg/dorkly/wiki)
 
 ## [Archives](archives/index.md)
