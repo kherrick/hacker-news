@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-27, 17:46:21](https://news.ycombinator.com/item?id=40813077) - [Misconceptions About Loops in C](https://dl.acm.org/doi/10.1145/3652588.3663324)
+* [2024-06-27, 17:46:19](https://news.ycombinator.com/item?id=40813076) - [The strategy behind one of the most successful labs in the world](https://www.nature.com/articles/d41586-024-02085-2)
 * [2024-06-27, 17:09:37](https://news.ycombinator.com/item?id=40812695) - [Larry Finger made Linux wireless work and brought others along to learn](https://arstechnica.com/gadgets/2024/06/larry-finger-linux-wireless-hero-was-a-persistent-patient-coder-and-mentor/)
 * [2024-06-27, 17:02:09](https://news.ycombinator.com/item?id=40812622) - [CriticGPT: Finding GPT-4's mistakes with GPT-4](https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4/)
-* [2024-06-27, 17:00:51](https://news.ycombinator.com/item?id=40812608) - [Italian Revenue Agency demands 1B from Google for tax evasion](https://www.firstonline.info/en/the-revenue-agency-is-targeting-Google-for-alleged-1-billion-tax-evasion/)
 * [2024-06-27, 17:00:05](https://news.ycombinator.com/item?id=40812597) - [Hellometer (YC S20) Is Hiring](https://www.ycombinator.com/companies/hellometer/jobs/cgic6Bs-onboarding-operations-customer-success-and-project-management-specialist)
-* [2024-06-27, 16:54:05](https://news.ycombinator.com/item?id=40812537) - [The ketogenic diet improves healthspan and memory in aging mice](https://medicalxpress.com/news/2024-06-ketogenic-diet-healthspan-memory-aging.html)
 * [2024-06-27, 16:13:47](https://news.ycombinator.com/item?id=40812118) - [Identity Verification Used by X, TikTok, and Uber Exposed Driver's Licenses](https://gizmodo.com/identity-verification-firm-used-by-x-tiktok-and-uber-1851562934)
 * [2024-06-27, 15:40:23](https://news.ycombinator.com/item?id=40811675) - [Review: Moaan InkPalm Plus is weird, cheap, small, and my kind of e-reader](https://sixcolors.com/post/2024/06/review-moaan-inkpalm-plus-is-weird-cheap-small-and-my-kind-of-e-reader/)
 * [2024-06-27, 14:57:13](https://news.ycombinator.com/item?id=40811225) - [Aromatic compounds: A ring made up solely of metal atoms](https://www.uni-heidelberg.de/en/newsroom/aromatic-compounds-a-ring-made-up-solely-of-metal-atoms)
@@ -18,6 +18,7 @@
 * [2024-06-27, 06:33:44](https://news.ycombinator.com/item?id=40807923) - [Eplot: A new package for making charts in Emacs](https://lars.ingebrigtsen.no/2024/06/26/a-new-package-for-making-charts-in-emacs-eplot/)
 * [2024-06-27, 03:17:09](https://news.ycombinator.com/item?id=40806858) - [Show HN: Gosax – A high-performance SAX XML parser for Go](https://github.com/orisano/gosax)
 * [2024-06-27, 01:16:52](https://news.ycombinator.com/item?id=40806356) - [DoorDash and Pizza Arbitrage (2020)](https://www.readmargins.com/p/doordash-and-pizza-arbitrage)
+* [2024-06-26, 21:51:03](https://news.ycombinator.com/item?id=40805010) - [Show HN: Voice bots with 500ms response times](https://fastvoiceagent.cerebrium.ai/)
 * [2024-06-26, 21:16:41](https://news.ycombinator.com/item?id=40804675) - [WordStar – A Writer's Word Processor (1990)](https://sfwriter.com/wordstar.htm)
 * [2024-06-26, 20:31:37](https://news.ycombinator.com/item?id=40804294) - [Show HN: A Modern Palletization App](https://github.com/VladM7/Stack-Solver)
 * [2024-06-26, 20:12:31](https://news.ycombinator.com/item?id=40804122) - [The Forth Deck mini: a portable Forth computer with a discrete CPU](http://mynor.org/my4th_forthdeck.htm)
@@ -29,7 +30,6 @@
 * [2024-06-26, 04:42:22](https://news.ycombinator.com/item?id=40796447) - [Making AI better at math tutoring](https://blog.khanacademy.org/why-were-deeply-invested-in-making-ai-better-at-math-tutoring-and-what-weve-been-up-to-lately/)
 * [2024-06-24, 05:39:30](https://news.ycombinator.com/item?id=40772882) - [Determine mesh rotations to minimise overhangs for 3D printing](https://github.com/dpohanlon/mesh-tumbler)
 * [2024-06-23, 14:21:49](https://news.ycombinator.com/item?id=40767676) - [Microbenchmarking return address branch prediction (2018)](https://blog.stuffedcow.net/2018/04/ras-microbenchmarks/)
-* [2024-06-23, 10:50:29](https://news.ycombinator.com/item?id=40766445) - [Character Tiling](http://uridiumauthor.blogspot.com/2024/06/character-tiling.html)
 
 ## [Archives](archives/index.md)
 
