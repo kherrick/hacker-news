@@ -4,7 +4,7 @@
 * [2024-06-27, 06:33:44](https://news.ycombinator.com/item?id=40807923) - [Eplot: A new package for making charts in Emacs](https://lars.ingebrigtsen.no/2024/06/26/a-new-package-for-making-charts-in-emacs-eplot/)
 * [2024-06-27, 06:12:53](https://news.ycombinator.com/item?id=40807788) - [Claude Sonnet 3.5 – The New Benchmark in Conversational AI](https://www.bodt.io/blogs/claude-3.5-sonnet)
 * [2024-06-27, 03:55:02](https://news.ycombinator.com/item?id=40807032) - [25 years of video clips gone as Paramount axes Comedy Central wesbite](https://latenighter.com/news/paramount-axes-comedy-central-website-show-clips-library/)
-* [2024-06-27, 02:42:10](https://news.ycombinator.com/item?id=40806698) - [Claude 3.5 Sonnet](https://thezvi.substack.com/p/on-claude-35-sonnet)
+* [2024-06-27, 01:44:17](https://news.ycombinator.com/item?id=40806477) - [Princeton engineers create new oyster-inspired cement 17X more crack-resistant](https://engineering.princeton.edu/news/2024/06/11/seashells-cement-nature-inspires-tougher-building-material)
 * [2024-06-27, 01:16:52](https://news.ycombinator.com/item?id=40806356) - [DoorDash and Pizza Arbitrage (2020)](https://www.readmargins.com/p/doordash-and-pizza-arbitrage)
 * [2024-06-27, 00:39:14](https://news.ycombinator.com/item?id=40806151) - [AI Revolutionized Protein Science, but Didn't End It](https://www.quantamagazine.org/how-ai-revolutionized-protein-science-but-didnt-end-it-20240626/)
 * [2024-06-26, 22:33:59](https://news.ycombinator.com/item?id=40805351) - [Corcel – Use WordPress backend with Laravel or any PHP application](https://github.com/corcel/corcel)
