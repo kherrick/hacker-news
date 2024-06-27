@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-27](index.md)
 
+* [2024-06-27, 10:20:40](https://news.ycombinator.com/item?id=40808999) - [Open-Sora does pretty good video generation on consumer GPUs](https://backprop.co/environments/open-sora)
 * [2024-06-27, 07:07:08](https://news.ycombinator.com/item?id=40808110) - [Flow Charts with CSS Anchor Positioning](https://coryrylan.com/blog/flow-charts-with-css-anchor-positioning)
 * [2024-06-27, 06:33:44](https://news.ycombinator.com/item?id=40807923) - [A New Package for Making Charts in Emacs: Eplot](https://lars.ingebrigtsen.no/2024/06/26/a-new-package-for-making-charts-in-emacs-eplot/)
 * [2024-06-27, 06:32:00](https://news.ycombinator.com/item?id=40807911) - [NBC to use AI version of announcer Al Michaels' voice for Olympics recaps](https://www.cnn.com/2024/06/26/tech/al-michaels-ai-olympics/index.html)

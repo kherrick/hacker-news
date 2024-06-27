@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-27, 10:20:40](https://news.ycombinator.com/item?id=40808999) - [Open-Sora does pretty good video generation on consumer GPUs](https://backprop.co/environments/open-sora)
 * [2024-06-27, 07:07:08](https://news.ycombinator.com/item?id=40808110) - [Flow Charts with CSS Anchor Positioning](https://coryrylan.com/blog/flow-charts-with-css-anchor-positioning)
 * [2024-06-27, 06:33:44](https://news.ycombinator.com/item?id=40807923) - [Eplot: A new package for making charts in Emacs](https://lars.ingebrigtsen.no/2024/06/26/a-new-package-for-making-charts-in-emacs-eplot/)
 * [2024-06-27, 01:44:17](https://news.ycombinator.com/item?id=40806477) - [Princeton engineers create new oyster-inspired cement 17X more crack-resistant](https://engineering.princeton.edu/news/2024/06/11/seashells-cement-nature-inspires-tougher-building-material)
@@ -24,7 +25,6 @@
 * [2024-06-26, 07:36:32](https://news.ycombinator.com/item?id=40797320) - [Portcullis](https://medievalbritain.com/type/medieval-life/architecture/parts-of-a-medieval-castle-the-portcullis/)
 * [2024-06-26, 05:43:05](https://news.ycombinator.com/item?id=40796770) - [Tough and Ductile Architected Nacre-Like Cementitious Composites](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.202313516)
 * [2024-06-25, 14:35:07](https://news.ycombinator.com/item?id=40789179) - [Living Computers Museum to permanently close, auction vintage items](https://www.geekwire.com/2024/seattles-living-computers-museum-logs-off-for-good-as-paul-allen-estate-will-auction-vintage-items/)
-* [2024-06-24, 22:13:46](https://news.ycombinator.com/item?id=40781573) - [Spy, accomplice, ghostwriter](https://insidestory.org.au/spy-accomplice-ghostwriter/)
 * [2024-06-24, 11:42:03](https://news.ycombinator.com/item?id=40774833) - [GCC's new fortification level: The gains and costs](https://developers.redhat.com/articles/2022/09/17/gccs-new-fortification-level)
 * [2024-06-24, 06:47:47](https://news.ycombinator.com/item?id=40773125) - [From RSS to My Kindle](https://olano.dev/blog/from-rss-to-my-kindle)
 * [2024-06-24, 05:39:30](https://news.ycombinator.com/item?id=40772882) - [Determine mesh rotations to minimise overhangs for 3D printing](https://github.com/dpohanlon/mesh-tumbler)
