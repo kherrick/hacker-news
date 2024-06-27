@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-27](index.md)
 
+* [2024-06-27, 12:49:10](https://news.ycombinator.com/item?id=40809926) - [CATL electric plane to support 2000 km (1200 miles) flight](https://www.chinadaily.com.cn/a/202406/25/WS667a5675a31095c51c50ab4d.html)
+* [2024-06-27, 12:49:09](https://news.ycombinator.com/item?id=40809924) - [Language is primarily a tool for communication rather than thought](https://www.nature.com/articles/s41586-024-07522-w)
+* [2024-06-27, 12:46:07](https://news.ycombinator.com/item?id=40809889) - [The Growing Threat of Malware Concealed Behind Cloud Services](https://www.fortinet.com/blog/threat-research/growing-threat-of-malware-concealed-behind-cloud-services)
 * [2024-06-27, 12:13:11](https://news.ycombinator.com/item?id=40809641) - [Hypercar Maker Rimac Reveals the Fully Autonomous Verne Robotaxi](https://www.caranddriver.com/news/a61423917/rimac-autonomous-verne-robotaxi/)
 * [2024-06-27, 11:47:54](https://news.ycombinator.com/item?id=40809457) - [Hawaii home mistakenly built on Bay Area woman's land to be torn down](https://www.sfgate.com/hawaii/article/hawaii-home-built-on-wrong-lot-to-be-torn-down-19541255.php)
 * [2024-06-27, 11:23:05](https://news.ycombinator.com/item?id=40809301) - [Why it takes NYC nearly 10 years to install 500 feet of pipes – Gothamist](https://gothamist.com/news/why-it-takes-nyc-nearly-10-years-to-install-500-feet-of-pipes)
