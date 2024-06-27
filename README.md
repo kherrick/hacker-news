@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-27, 15:16:24](https://news.ycombinator.com/item?id=40811474) - [Microsoft blamed for million-plus patient record theft at US hospital giant](https://www.theregister.com/2024/06/26/geisinger_nuance_microsoft_worker/)
+* [2024-06-27, 15:30:46](https://news.ycombinator.com/item?id=40811624) - [Ask HN: Have coders made stuff complicated on purpose?](https://news.ycombinator.com/item?id=40811624)
 * [2024-06-27, 14:35:34](https://news.ycombinator.com/item?id=40810986) - [Launch HN: Hatchet (YC W24) – Open-source task queue, now with a cloud version](https://news.ycombinator.com/item?id=40810986)
 * [2024-06-27, 14:32:35](https://news.ycombinator.com/item?id=40810949) - [Open Sourcing Kinopio](https://pketh.org/open-sourcing-kinopio.html)
 * [2024-06-27, 14:18:46](https://news.ycombinator.com/item?id=40810802) - [Gemma 2: Improving Open Language Models at a Practical Size [pdf]](https://storage.googleapis.com/deepmind-media/gemma/gemma-2-report.pdf)
@@ -16,6 +16,7 @@
 * [2024-06-27, 01:16:52](https://news.ycombinator.com/item?id=40806356) - [DoorDash and Pizza Arbitrage (2020)](https://www.readmargins.com/p/doordash-and-pizza-arbitrage)
 * [2024-06-26, 22:33:59](https://news.ycombinator.com/item?id=40805351) - [Corcel – Use WordPress backend with Laravel or any PHP application](https://github.com/corcel/corcel)
 * [2024-06-26, 22:03:00](https://news.ycombinator.com/item?id=40805099) - [South Korean telecom company attacks torrent users with malware](https://www.tomshardware.com/tech-industry/cyber-security/south-korean-telecom-company-attacks-torrent-users-with-malware-over-600000-people-report-missing-files-strange-folders-and-disabled-pcs)
+* [2024-06-26, 21:51:03](https://news.ycombinator.com/item?id=40805010) - [Show HN: Voice bots with 500ms response times](https://fastvoiceagent.cerebrium.ai/)
 * [2024-06-26, 21:32:26](https://news.ycombinator.com/item?id=40804827) - [Tripping on Xenon Gas (2023)](https://tripsitter.substack.com/p/xenon)
 * [2024-06-26, 21:16:41](https://news.ycombinator.com/item?id=40804675) - [WordStar – A Writer's Word Processor (1990)](https://sfwriter.com/wordstar.htm)
 * [2024-06-26, 20:31:37](https://news.ycombinator.com/item?id=40804294) - [Show HN: A Modern Palletization App](https://github.com/VladM7/Stack-Solver)
@@ -29,7 +30,6 @@
 * [2024-06-24, 05:39:30](https://news.ycombinator.com/item?id=40772882) - [Determine mesh rotations to minimise overhangs for 3D printing](https://github.com/dpohanlon/mesh-tumbler)
 * [2024-06-23, 14:21:49](https://news.ycombinator.com/item?id=40767676) - [Microbenchmarking return address branch prediction (2018)](https://blog.stuffedcow.net/2018/04/ras-microbenchmarks/)
 * [2024-06-23, 10:50:29](https://news.ycombinator.com/item?id=40766445) - [Character Tiling](http://uridiumauthor.blogspot.com/2024/06/character-tiling.html)
-* [2024-06-23, 08:43:29](https://news.ycombinator.com/item?id=40765770) - [Liquid Layers](https://grantkot.com/ll/)
 
 ## [Archives](archives/index.md)
 

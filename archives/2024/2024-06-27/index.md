@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-27](index.md)
 
+* [2024-06-27, 15:30:46](https://news.ycombinator.com/item?id=40811624) - [Ask HN: Have coders made stuff complicated on purpose?](https://news.ycombinator.com/item?id=40811624)
 * [2024-06-27, 15:16:24](https://news.ycombinator.com/item?id=40811474) - [Microsoft blamed for million-plus patient record theft at US hospital giant](https://www.theregister.com/2024/06/26/geisinger_nuance_microsoft_worker/)
 * [2024-06-27, 14:35:34](https://news.ycombinator.com/item?id=40810986) - [Launch HN: Hatchet (YC W24) – Open-source task queue, now with a cloud version](https://news.ycombinator.com/item?id=40810986)
 * [2024-06-27, 14:32:35](https://news.ycombinator.com/item?id=40810949) - [Open Sourcing Kinopio](https://pketh.org/open-sourcing-kinopio.html)
