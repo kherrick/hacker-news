@@ -2,7 +2,9 @@
 
 * [2024-06-27, 21:09:54](https://news.ycombinator.com/item?id=40815139) - [200 people charged in $2.7B health care fraud crackdown](https://apnews.com/article/justice-department-health-care-fraud-garland-24948b951896d0f265c29ba3fcacf858)
 * [2024-06-27, 21:09:11](https://news.ycombinator.com/item?id=40815130) - [Python grapples with Apple App Store rejections](https://lwn.net/SubscriberLink/979671/4fb7c1827536d1ae/)
+* [2024-06-27, 21:02:45](https://news.ycombinator.com/item?id=40815074) - [TeamViewer Security Breach](https://www.teamviewer.com/en/resources/trust-center/statement/)
 * [2024-06-27, 21:00:24](https://news.ycombinator.com/item?id=40815046) - [Tesorio (YC S15) Is Hiring a Senior GenAI/LLM Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
+* [2024-06-27, 20:39:38](https://news.ycombinator.com/item?id=40814832) - [Boeing rejects claims NASA crew 'stranded' by spacecraft](https://www.ft.com/content/0a2ab3bc-03cc-499c-82f8-50cfe1a52103)
 * [2024-06-27, 20:16:58](https://news.ycombinator.com/item?id=40814612) - [A dev's thoughts on developer productivity (2022)](https://sourcegraph.com/blog/developer-productivity-thoughts)
 * [2024-06-27, 19:18:10](https://news.ycombinator.com/item?id=40814011) - [A modern 8 bit design, built using 1950s thermionic valves](https://www.valve.computer/)
 * [2024-06-27, 18:15:16](https://news.ycombinator.com/item?id=40813384) - [Astronauts take shelter in Starliner, other spacecraft after satellite breakup](https://www.space.com/iss-astronauts-shelter-return-spacecraft-satellite-breakup)
@@ -24,8 +26,6 @@
 * [2024-06-27, 06:33:44](https://news.ycombinator.com/item?id=40807923) - [Eplot: A new package for making charts in Emacs](https://lars.ingebrigtsen.no/2024/06/26/a-new-package-for-making-charts-in-emacs-eplot/)
 * [2024-06-27, 03:17:09](https://news.ycombinator.com/item?id=40806858) - [Show HN: Gosax – A high-performance SAX XML parser for Go](https://github.com/orisano/gosax)
 * [2024-06-27, 00:05:05](https://news.ycombinator.com/item?id=40805949) - [ID verification service for TikTok, Uber, X exposed driver licenses](https://www.404media.co/id-verification-service-for-tiktok-uber-x-exposed-driver-licenses-au10tix/)
-* [2024-06-26, 20:31:37](https://news.ycombinator.com/item?id=40804294) - [Show HN: A Modern Palletization App](https://github.com/VladM7/Stack-Solver)
-* [2024-06-26, 20:12:31](https://news.ycombinator.com/item?id=40804122) - [The Forth Deck mini: a portable Forth computer with a discrete CPU](http://mynor.org/my4th_forthdeck.htm)
 * [2024-06-26, 12:03:33](https://news.ycombinator.com/item?id=40798983) - [Pulsed Laser Deposition at Wafer Level Is a Game Changer](https://www.eetimes.com/pulsed-laser-deposition-at-wafer-level-is-a-game-changer/)
 * [2024-06-26, 11:59:13](https://news.ycombinator.com/item?id=40798939) - [Spudguns: Potato Cannon Guide](http://www.spudguns.org/)
 * [2024-06-26, 11:30:04](https://news.ycombinator.com/item?id=40798740) - [gRPC: The Bad Parts](https://kmcd.dev/posts/grpc-the-bad-parts/)
