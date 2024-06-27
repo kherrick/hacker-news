@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-27, 02:42:10](https://news.ycombinator.com/item?id=40806698) - [Claude 3.5 Sonnet](https://thezvi.substack.com/p/on-claude-35-sonnet)
+* [2024-06-27, 01:16:52](https://news.ycombinator.com/item?id=40806356) - [DoorDash and Pizza Arbitrage](https://www.readmargins.com/p/doordash-and-pizza-arbitrage)
 * [2024-06-27, 01:05:28](https://news.ycombinator.com/item?id=40806302) - [Molecular Interactions and the Behaviors of Biological Macromolecules](https://williams.chemistry.gatech.edu/structure/molecular_interactions/mol_int.html)
 * [2024-06-27, 00:39:14](https://news.ycombinator.com/item?id=40806151) - [AI Revolutionized Protein Science, but Didn't End It](https://www.quantamagazine.org/how-ai-revolutionized-protein-science-but-didnt-end-it-20240626/)
-* [2024-06-27, 00:24:04](https://news.ycombinator.com/item?id=40806063) - [Show HN: Standard Webhooks – simplifying 3rd party API's](https://www.syncd.dev/use-cases)
 * [2024-06-26, 22:33:59](https://news.ycombinator.com/item?id=40805351) - [Corcel – Use WordPress backend with Laravel or any PHP application](https://github.com/corcel/corcel)
 * [2024-06-26, 22:33:56](https://news.ycombinator.com/item?id=40805350) - [Mozilla.ai did what? When silliness goes dangerous](https://tante.cc/2024/06/26/mozilla-ai-did-what-when-silliness-goes-dangerous/)
 * [2024-06-26, 22:21:49](https://news.ycombinator.com/item?id=40805251) - [The brain makes a lot of waste. Now scientists think they know where it goes](https://www.npr.org/sections/shots-health-news/2024/06/26/g-s1-6177/brain-waste-removal-system-amyloid-alzheimer-toxins)
