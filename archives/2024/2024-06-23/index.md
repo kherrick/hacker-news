@@ -27,6 +27,7 @@
 * [2024-06-23, 19:20:25](https://news.ycombinator.com/item?id=40769880) - [Traffic noise hurts children's brains](https://www.bbc.com/future/article/20240621-how-traffic-noise-pollution-harms-childrens-health-and-development)
 * [2024-06-23, 19:19:01](https://news.ycombinator.com/item?id=40769867) - [Deriving Dependently-Typed OOP from First Principles](https://arxiv.org/abs/2403.06707)
 * [2024-06-23, 19:06:12](https://news.ycombinator.com/item?id=40769759) - [The Y Combinator Codex](https://phoe.github.io/codex.html)
+* [2024-06-23, 18:53:23](https://news.ycombinator.com/item?id=40769663) - [Socks, Lies, and Accessibility](https://janmaarten.com/gaad-2023/)
 * [2024-06-23, 18:50:08](https://news.ycombinator.com/item?id=40769636) - [How electronic ignition works and also how to make a spark plug play music](https://www.theautopian.com/this-is-how-electronic-ignition-works-and-also-how-to-make-a-spark-plug-play-music/)
 * [2024-06-23, 18:45:59](https://news.ycombinator.com/item?id=40769607) - [Some fundraisers pay >90% of the funds to themselves](https://www.propublica.org/article/political-nonprofits-fundraising-ftc-irs-527s-pacs)
 * [2024-06-23, 18:38:36](https://news.ycombinator.com/item?id=40769541) - [Ask HN: What's the oldest file on your computer?](https://news.ycombinator.com/item?id=40769541)

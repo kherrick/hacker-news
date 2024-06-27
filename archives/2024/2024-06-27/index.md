@@ -4,7 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-06-27](index.md)
 
+* [2024-06-27, 10:38:51](https://news.ycombinator.com/item?id=40809069) - [The Fuggerei – the world’s first public housing (2022)](https://www.karlsnotes.com/fuggerei-the-worlds-first-public-housing/)
+* [2024-06-27, 10:29:06](https://news.ycombinator.com/item?id=40809033) - [How to think about creating a dataset for LLM fine-tuning evaluation](https://mlops.systems/posts/2024-06-25-evaluation-finetuning-manual-dataset.html)
 * [2024-06-27, 10:20:40](https://news.ycombinator.com/item?id=40808999) - [Open-Sora does pretty good video generation on consumer GPUs](https://backprop.co/environments/open-sora)
+* [2024-06-27, 10:13:43](https://news.ycombinator.com/item?id=40808969) - [Dashboard and UIs for Node-Red](https://dashboard.flowfuse.com/)
+* [2024-06-27, 10:06:18](https://news.ycombinator.com/item?id=40808933) - [Ten Lessons I Wish I Had Been Taught [pdf]](https://www.ams.org/notices/199701/comm-rota.pdf)
+* [2024-06-27, 09:55:33](https://news.ycombinator.com/item?id=40808891) - [Show HN: Lambda – The first-ever open-source privacy based social media app](https://news.ycombinator.com/item?id=40808891)
+* [2024-06-27, 09:31:56](https://news.ycombinator.com/item?id=40808808) - [Post Office lawyers held secret meeting with judge to stop disclosure](https://www.lawgazette.co.uk/news/post-office-lawyers-held-secret-meeting-with-judge-to-stop-disclosure/5119593.article)
 * [2024-06-27, 07:07:08](https://news.ycombinator.com/item?id=40808110) - [Flow Charts with CSS Anchor Positioning](https://coryrylan.com/blog/flow-charts-with-css-anchor-positioning)
 * [2024-06-27, 06:33:44](https://news.ycombinator.com/item?id=40807923) - [A New Package for Making Charts in Emacs: Eplot](https://lars.ingebrigtsen.no/2024/06/26/a-new-package-for-making-charts-in-emacs-eplot/)
 * [2024-06-27, 06:32:00](https://news.ycombinator.com/item?id=40807911) - [NBC to use AI version of announcer Al Michaels' voice for Olympics recaps](https://www.cnn.com/2024/06/26/tech/al-michaels-ai-olympics/index.html)
