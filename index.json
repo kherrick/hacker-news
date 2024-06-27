@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-27, 05:28:00",
+      "https://news.ycombinator.com/item?id=40807540"
+    ],
+    [
+      "Common Interface Mistakes in Go",
+      "https://medium.com/@andreiboar/7-common-interface-mistakes-in-go-1d3f8e58be60"
+    ]
+  ],
+  [
+    [
       "2024-06-27, 04:17:52",
       "https://news.ycombinator.com/item?id=40807154"
     ],
@@ -101,16 +111,6 @@
   ],
   [
     [
-      "2024-06-26, 21:51:03",
-      "https://news.ycombinator.com/item?id=40805010"
-    ],
-    [
-      "Show HN: Voice bots with 500ms response times",
-      "https://fastvoiceagent.cerebrium.ai/"
-    ]
-  ],
-  [
-    [
       "2024-06-26, 21:16:41",
       "https://news.ycombinator.com/item?id=40804675"
     ],
@@ -177,6 +177,16 @@
     [
       "Show HN: I built an indie, browser-based MMORPG",
       "https://alpha.reconquer.online"
+    ]
+  ],
+  [
+    [
+      "2024-06-26, 17:00:17",
+      "https://news.ycombinator.com/item?id=40802054"
+    ],
+    [
+      "Motion (YC W20) Is Hiring Our First DevOps Engineer",
+      "https://jobs.ashbyhq.com/motion/731e6994-c9b0-43ae-b7e4-28cbca03920f?utm_source=hn"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "GCC's new fortification level: The gains and costs",
       "https://developers.redhat.com/articles/2022/09/17/gccs-new-fortification-level"
-    ]
-  ],
-  [
-    [
-      "2024-06-24, 11:31:16",
-      "https://news.ycombinator.com/item?id=40774748"
-    ],
-    [
-      "Tracing garbage collection for arenas",
-      "https://btmc.substack.com/p/tracing-garbage-collection-for-arenas"
     ]
   ],
   [
