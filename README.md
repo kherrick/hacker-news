@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-27, 04:17:52](https://news.ycombinator.com/item?id=40807154) - [How to Run Adobe Photoshop 2024 on Wine (Linux)](https://forum.mattkc.com/viewtopic.php?t=336)
 * [2024-06-27, 03:55:02](https://news.ycombinator.com/item?id=40807032) - [25 years of video clips gone as Paramount axes Comedy Central wesbite](https://latenighter.com/news/paramount-axes-comedy-central-website-show-clips-library/)
 * [2024-06-27, 03:33:52](https://news.ycombinator.com/item?id=40806930) - [6 months ago, I left the bullshit industrial complex](https://www.joanwestenberg.com/6-months-ago,-i-left-the-bullshit-industrial-complex)
 * [2024-06-27, 02:42:10](https://news.ycombinator.com/item?id=40806698) - [Claude 3.5 Sonnet](https://thezvi.substack.com/p/on-claude-35-sonnet)
@@ -27,7 +28,6 @@
 * [2024-06-24, 11:42:03](https://news.ycombinator.com/item?id=40774833) - [GCC's new fortification level: The gains and costs](https://developers.redhat.com/articles/2022/09/17/gccs-new-fortification-level)
 * [2024-06-24, 11:31:16](https://news.ycombinator.com/item?id=40774748) - [Tracing garbage collection for arenas](https://btmc.substack.com/p/tracing-garbage-collection-for-arenas)
 * [2024-06-24, 06:47:47](https://news.ycombinator.com/item?id=40773125) - [From RSS to My Kindle](https://olano.dev/blog/from-rss-to-my-kindle)
-* [2024-06-23, 17:17:12](https://news.ycombinator.com/item?id=40768959) - [How automotive radar measures the velocity of objects](https://www.viksnewsletter.com/p/how-automotive-radar-measures-velocity)
 * [2024-06-23, 15:26:04](https://news.ycombinator.com/item?id=40768124) - [Nano DIP: the smallest complete Arduino board 33 x 10mm](https://avdweb.nl/arduino/attiny3217/nano-dip)
 * [2024-06-23, 08:43:29](https://news.ycombinator.com/item?id=40765770) - [Liquid Layers](https://grantkot.com/ll/)
 
