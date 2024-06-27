@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-06-27, 12:13:11",
+      "https://news.ycombinator.com/item?id=40809641"
+    ],
+    [
+      "Hypercar Maker Rimac Reveals the Fully Autonomous Verne Robotaxi",
+      "https://www.caranddriver.com/news/a61423917/rimac-autonomous-verne-robotaxi/"
+    ]
+  ],
+  [
+    [
+      "2024-06-27, 11:47:54",
+      "https://news.ycombinator.com/item?id=40809457"
+    ],
+    [
+      "Hawaii home mistakenly built on Bay Area woman's land to be torn down",
+      "https://www.sfgate.com/hawaii/article/hawaii-home-built-on-wrong-lot-to-be-torn-down-19541255.php"
+    ]
+  ],
+  [
+    [
+      "2024-06-27, 11:23:05",
+      "https://news.ycombinator.com/item?id=40809301"
+    ],
+    [
+      "Why it takes NYC nearly 10 years to install 500 feet of pipes – Gothamist",
+      "https://gothamist.com/news/why-it-takes-nyc-nearly-10-years-to-install-500-feet-of-pipes"
+    ]
+  ],
+  [
+    [
       "2024-06-27, 11:17:46",
       "https://news.ycombinator.com/item?id=40809276"
     ],
@@ -41,6 +71,16 @@
   ],
   [
     [
+      "2024-06-27, 10:16:50",
+      "https://news.ycombinator.com/item?id=40808979"
+    ],
+    [
+      "The C Standard charter was updated, now with security principles as well",
+      "https://www.open-std.org/jtc1/sc22/wg14/www/docs/n3280.htm"
+    ]
+  ],
+  [
+    [
       "2024-06-27, 10:13:43",
       "https://news.ycombinator.com/item?id=40808969"
     ],
@@ -57,6 +97,16 @@
     [
       "Ten Lessons I Wish I Had Been Taught [pdf]",
       "https://www.ams.org/notices/199701/comm-rota.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-06-27, 09:34:09",
+      "https://news.ycombinator.com/item?id=40808820"
+    ],
+    [
+      "Why Google Sheets ported its calculation worker from JavaScript to WasmGC",
+      "https://web.dev/case-studies/google-sheets-wasmgc"
     ]
   ],
   [
@@ -91,16 +141,6 @@
   ],
   [
     [
-      "2024-06-27, 01:44:17",
-      "https://news.ycombinator.com/item?id=40806477"
-    ],
-    [
-      "Princeton engineers create new oyster-inspired cement 17X more crack-resistant",
-      "https://engineering.princeton.edu/news/2024/06/11/seashells-cement-nature-inspires-tougher-building-material"
-    ]
-  ],
-  [
-    [
       "2024-06-27, 01:16:52",
       "https://news.ycombinator.com/item?id=40806356"
     ],
@@ -121,16 +161,6 @@
   ],
   [
     [
-      "2024-06-26, 22:03:00",
-      "https://news.ycombinator.com/item?id=40805099"
-    ],
-    [
-      "South Korean telecom company attacks torrent users with malware",
-      "https://www.tomshardware.com/tech-industry/cyber-security/south-korean-telecom-company-attacks-torrent-users-with-malware-over-600000-people-report-missing-files-strange-folders-and-disabled-pcs"
-    ]
-  ],
-  [
-    [
       "2024-06-26, 21:51:03",
       "https://news.ycombinator.com/item?id=40805010"
     ],
@@ -141,32 +171,12 @@
   ],
   [
     [
-      "2024-06-26, 21:32:26",
-      "https://news.ycombinator.com/item?id=40804827"
-    ],
-    [
-      "Tripping on Xenon Gas",
-      "https://tripsitter.substack.com/p/xenon"
-    ]
-  ],
-  [
-    [
       "2024-06-26, 21:16:41",
       "https://news.ycombinator.com/item?id=40804675"
     ],
     [
       "WordStar – A Writer's Word Processor (1990)",
       "https://sfwriter.com/wordstar.htm"
-    ]
-  ],
-  [
-    [
-      "2024-06-26, 21:12:31",
-      "https://news.ycombinator.com/item?id=40804635"
-    ],
-    [
-      "How the STL Uses Explicit",
-      "https://quuxplusone.github.io/blog/2024/06/25/most-stl-ctors-arent-explicit-but-yours-still-should-be/"
     ]
   ],
   [
@@ -261,16 +271,6 @@
   ],
   [
     [
-      "2024-06-24, 06:47:47",
-      "https://news.ycombinator.com/item?id=40773125"
-    ],
-    [
-      "From RSS to My Kindle",
-      "https://olano.dev/blog/from-rss-to-my-kindle"
-    ]
-  ],
-  [
-    [
       "2024-06-24, 05:39:30",
       "https://news.ycombinator.com/item?id=40772882"
     ],
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2024-06-23, 15:26:04",
-      "https://news.ycombinator.com/item?id=40768124"
+      "2024-06-23, 14:21:49",
+      "https://news.ycombinator.com/item?id=40767676"
     ],
     [
-      "Nano DIP: the smallest complete Arduino board 33 x 10mm",
-      "https://avdweb.nl/arduino/attiny3217/nano-dip"
+      "Microbenchmarking Return Address Branch Prediction (2018)",
+      "https://blog.stuffedcow.net/2018/04/ras-microbenchmarks/"
     ]
   ]
 ]
