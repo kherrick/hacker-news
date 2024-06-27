@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-06-27, 19:38:21",
-      "https://news.ycombinator.com/item?id=40814236"
-    ],
-    [
-      "Cloudflare adds option to block AI scrapers and crawlers",
-      "https://front-end.social/@chriscoyier/112688532313287480"
-    ]
-  ],
-  [
-    [
       "2024-06-27, 19:18:10",
       "https://news.ycombinator.com/item?id=40814011"
     ],
@@ -37,6 +27,16 @@
     [
       "Astronauts take shelter in Starliner, other spacecraft after satellite breakup",
       "https://www.space.com/iss-astronauts-shelter-return-spacecraft-satellite-breakup"
+    ]
+  ],
+  [
+    [
+      "2024-06-27, 18:14:22",
+      "https://news.ycombinator.com/item?id=40813375"
+    ],
+    [
+      "Symbian Source Code: Final Repositories from the Defunct Symbian Foundation",
+      "https://github.com/SymbianSource"
     ]
   ],
   [
@@ -125,7 +125,7 @@
       "https://news.ycombinator.com/item?id=40811675"
     ],
     [
-      "Review: Moaan InkPalm Plus is weird, cheap, small, and my kind of e-reader",
+      "Moaan InkPalm Plus is weird, cheap, small, and my kind of e-reader",
       "https://sixcolors.com/post/2024/06/review-moaan-inkpalm-plus-is-weird-cheap-small-and-my-kind-of-e-reader/"
     ]
   ],
@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2024-06-27, 10:29:06",
+      "https://news.ycombinator.com/item?id=40809033"
+    ],
+    [
+      "How to think about creating a dataset for LLM fine-tuning evaluation",
+      "https://mlops.systems/posts/2024-06-25-evaluation-finetuning-manual-dataset.html"
+    ]
+  ],
+  [
+    [
       "2024-06-27, 10:06:18",
       "https://news.ycombinator.com/item?id=40808933"
     ],
@@ -227,16 +237,6 @@
     [
       "Show HN: Gosax – A high-performance SAX XML parser for Go",
       "https://github.com/orisano/gosax"
-    ]
-  ],
-  [
-    [
-      "2024-06-27, 00:05:05",
-      "https://news.ycombinator.com/item?id=40805949"
-    ],
-    [
-      "ID verification service for TikTok, Uber, X exposed driver licenses",
-      "https://www.404media.co/id-verification-service-for-tiktok-uber-x-exposed-driver-licenses-au10tix/"
     ]
   ],
   [
