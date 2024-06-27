@@ -10,6 +10,7 @@
 * [2024-06-27, 18:25:59](https://news.ycombinator.com/item?id=40813479) - [Using short lived Postgres servers for testing](https://kaveland.no/posts/2024-05-27-shortlived-postgres-servers/)
 * [2024-06-27, 18:22:44](https://news.ycombinator.com/item?id=40813450) - [How to (consistently) get 4.8* App Ratings](https://jacobbartlett.substack.com/p/how-to-consistently-get-48-app-ratings-3be)
 * [2024-06-27, 18:15:16](https://news.ycombinator.com/item?id=40813384) - [Astronauts take shelter in Starliner, other spacecraft after satellite breakup](https://www.space.com/iss-astronauts-shelter-return-spacecraft-satellite-breakup)
+* [2024-06-27, 18:14:22](https://news.ycombinator.com/item?id=40813375) - [Symbian Source Code: Final Repositories from the Defunct Symbian Foundation](https://github.com/SymbianSource)
 * [2024-06-27, 18:13:51](https://news.ycombinator.com/item?id=40813369) - [Supreme Court blocks controversial Purdue Pharma opioid settlement](https://www.washingtonpost.com/politics/2024/06/27/purdue-pharma-supreme-court-opioid-bankruptcy/)
 * [2024-06-27, 18:13:51](https://news.ycombinator.com/item?id=40813369) - [SCOTUS Rejects Sacklers Immunity](https://arstechnica.com/science/2024/06/opioid-settlement-toppled-as-scotus-rejects-sacklers-immunity-in-5-4-ruling/)
 * [2024-06-27, 18:07:52](https://news.ycombinator.com/item?id=40813311) - [Ask HN: What's Wrong with IRC?](https://news.ycombinator.com/item?id=40813311)
