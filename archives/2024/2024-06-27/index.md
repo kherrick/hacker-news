@@ -6,6 +6,7 @@
 
 * [2024-06-27, 21:09:54](https://news.ycombinator.com/item?id=40815139) - [200 people charged in $2.7B health care fraud crackdown](https://apnews.com/article/justice-department-health-care-fraud-garland-24948b951896d0f265c29ba3fcacf858)
 * [2024-06-27, 21:09:11](https://news.ycombinator.com/item?id=40815130) - [Python grapples with Apple App Store rejections](https://lwn.net/SubscriberLink/979671/4fb7c1827536d1ae/)
+* [2024-06-27, 21:05:51](https://news.ycombinator.com/item?id=40815097) - [Maker of RStudio launches new R and Python IDE](https://www.infoworld.com/article/3715702/maker-of-rstudio-launches-new-r-and-python-ide.html)
 * [2024-06-27, 21:02:45](https://news.ycombinator.com/item?id=40815074) - [TeamViewer Security Breach](https://www.teamviewer.com/en/resources/trust-center/statement/)
 * [2024-06-27, 21:00:24](https://news.ycombinator.com/item?id=40815046) - [Tesorio (YC S15) Is Hiring a Senior GenAI/LLM Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
 * [2024-06-27, 20:39:38](https://news.ycombinator.com/item?id=40814832) - [Boeing rejects claims NASA crew 'stranded' by spacecraft](https://www.ft.com/content/0a2ab3bc-03cc-499c-82f8-50cfe1a52103)
