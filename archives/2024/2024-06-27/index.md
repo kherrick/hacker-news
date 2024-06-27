@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-27](index.md)
 
+* [2024-06-27, 21:09:54](https://news.ycombinator.com/item?id=40815139) - [200 people charged in $2.7B health care fraud crackdown](https://apnews.com/article/justice-department-health-care-fraud-garland-24948b951896d0f265c29ba3fcacf858)
+* [2024-06-27, 21:09:11](https://news.ycombinator.com/item?id=40815130) - [Python grapples with Apple App Store rejections](https://lwn.net/SubscriberLink/979671/4fb7c1827536d1ae/)
 * [2024-06-27, 21:00:24](https://news.ycombinator.com/item?id=40815046) - [Tesorio (YC S15) Is Hiring a Senior GenAI/LLM Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
 * [2024-06-27, 20:27:01](https://news.ycombinator.com/item?id=40814728) - [FCC rule would make carriers unlock all phones after 60 days](https://techcrunch.com/2024/06/27/fcc-rule-would-make-carriers-unlock-all-phones-after-60-days/)
 * [2024-06-27, 20:21:01](https://news.ycombinator.com/item?id=40814652) - [Issues with 1.1.1.1 public resolver in multiple locations](https://www.cloudflarestatus.com/incidents/4qndvvfbh4w5)
