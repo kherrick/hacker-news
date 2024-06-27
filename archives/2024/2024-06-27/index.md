@@ -15,6 +15,7 @@
 * [2024-06-27, 15:40:23](https://news.ycombinator.com/item?id=40811675) - [Review: Moaan InkPalm Plus is weird, cheap, small, and my kind of e-reader](https://sixcolors.com/post/2024/06/review-moaan-inkpalm-plus-is-weird-cheap-small-and-my-kind-of-e-reader/)
 * [2024-06-27, 15:30:46](https://news.ycombinator.com/item?id=40811624) - [Ask HN: Have coders made stuff complicated on purpose?](https://news.ycombinator.com/item?id=40811624)
 * [2024-06-27, 15:16:24](https://news.ycombinator.com/item?id=40811474) - [Microsoft blamed for million-plus patient record theft at US hospital giant](https://www.theregister.com/2024/06/26/geisinger_nuance_microsoft_worker/)
+* [2024-06-27, 14:57:13](https://news.ycombinator.com/item?id=40811225) - [Aromatic compounds: A ring made up solely of metal atoms](https://www.uni-heidelberg.de/en/newsroom/aromatic-compounds-a-ring-made-up-solely-of-metal-atoms)
 * [2024-06-27, 14:35:34](https://news.ycombinator.com/item?id=40810986) - [Launch HN: Hatchet (YC W24) – Open-source task queue, now with a cloud version](https://news.ycombinator.com/item?id=40810986)
 * [2024-06-27, 14:32:35](https://news.ycombinator.com/item?id=40810949) - [Open Sourcing Kinopio](https://pketh.org/open-sourcing-kinopio.html)
 * [2024-06-27, 14:18:46](https://news.ycombinator.com/item?id=40810802) - [Gemma 2: Improving Open Language Models at a Practical Size [pdf]](https://storage.googleapis.com/deepmind-media/gemma/gemma-2-report.pdf)
