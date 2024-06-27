@@ -78,6 +78,7 @@
 * [2024-06-26, 05:43:05](https://news.ycombinator.com/item?id=40796770) - [Tough and Ductile Architected Nacre-Like Cementitious Composites](https://onlinelibrary.wiley.com/doi/full/10.1002/adfm.202313516)
 * [2024-06-26, 05:00:04](https://news.ycombinator.com/item?id=40796538) - [A better way to teach online](https://nabda.app)
 * [2024-06-26, 04:45:20](https://news.ycombinator.com/item?id=40796459) - [Vigorous Exercise, Cognitive Decline, and High Blood Pressure](https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.13887)
+* [2024-06-26, 04:42:22](https://news.ycombinator.com/item?id=40796447) - [Why We're Deeply Invested in Making AI Better at Math Tutoring](https://blog.khanacademy.org/why-were-deeply-invested-in-making-ai-better-at-math-tutoring-and-what-weve-been-up-to-lately/)
 * [2024-06-26, 04:00:41](https://news.ycombinator.com/item?id=40796253) - [Does Weed Cause Strokes and Heart Attacks?](https://reason.com/video/2024/06/25/does-weed-cause-strokes-and-heart-attacks/)
 * [2024-06-26, 02:21:41](https://news.ycombinator.com/item?id=40795813) - [Maximizing Terraform modules for platform engineering](https://thenewstack.io/maximizing-terraform-modules-for-platform-engineering/)
 * [2024-06-26, 01:57:31](https://news.ycombinator.com/item?id=40795689) - [Show HN: Chrome extension that brings Claude Artifacts for ChatGPT](https://github.com/MichaelYuhe/Artifacts-for-ChatGPT)
