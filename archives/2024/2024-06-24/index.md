@@ -27,6 +27,7 @@
 * [2024-06-24, 20:09:20](https://news.ycombinator.com/item?id=40780128) - [A working entropy encoder with output below the Shannon limit](https://github.com/Peter-Ebert/Valli-Encoding)
 * [2024-06-24, 20:05:09](https://news.ycombinator.com/item?id=40780075) - [Lawyers' Committee Opposes New Draft of American Privacy Rights Act](https://www.lawyerscommittee.org/lawyers-committee-opposes-new-draft-of-american-privacy-rights-act-urges-representatives-to-vote-no/)
 * [2024-06-24, 20:01:18](https://news.ycombinator.com/item?id=40780036) - [Y Combinator, AI startups oppose California AI safety bill](https://www.theregister.com/2024/06/24/ai_startups_california_bill/)
+* [2024-06-24, 19:37:02](https://news.ycombinator.com/item?id=40779791) - [Boiling lead and black art: a history of mathematical typography (2017)](http://www.practicallyefficient.com/2017/10/13/from-boiling-lead-and-black-art.html)
 * [2024-06-24, 19:36:20](https://news.ycombinator.com/item?id=40779788) - [The Company Men](https://im1776.com/2024/06/19/the-company-men/)
 * [2024-06-24, 19:35:52](https://news.ycombinator.com/item?id=40779785) - [The case for not sanitising fairy tales](https://www.plough.com/en/topics/culture/literature/the-case-for-not-sanitizing-fairy-tales)
 * [2024-06-24, 19:35:29](https://news.ycombinator.com/item?id=40779780) - [Indonesia’s Emergence](https://insidestory.org.au/brutal-birth/)
