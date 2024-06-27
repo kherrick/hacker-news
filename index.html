@@ -139,7 +139,7 @@
             <h4>
               <span>2024-06-27 @ 04:17:52</span
               ><span class="points-container"
-                >Points: <span class="points">23</span></span
+                >Points: <span class="points">29</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40807154"
                   >Comments</a
@@ -161,11 +161,11 @@
             <h4>
               <span>2024-06-27 @ 03:55:02</span
               ><span class="points-container"
-                >Points: <span class="points">158</span></span
+                >Points: <span class="points">172</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40807032"
                   >Comments</a
-                ><span class="descendants">: 84</span></span
+                ><span class="descendants">: 94</span></span
               >
             </h4>
           </section>
@@ -182,11 +182,11 @@
             <h4>
               <span>2024-06-27 @ 03:33:52</span
               ><span class="points-container"
-                >Points: <span class="points">78</span></span
+                >Points: <span class="points">84</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40806930"
                   >Comments</a
-                ><span class="descendants">: 37</span></span
+                ><span class="descendants">: 44</span></span
               >
             </h4>
           </section>
@@ -203,11 +203,11 @@
             <h4>
               <span>2024-06-27 @ 02:42:10</span
               ><span class="points-container"
-                >Points: <span class="points">164</span></span
+                >Points: <span class="points">174</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40806698"
                   >Comments</a
-                ><span class="descendants">: 108</span></span
+                ><span class="descendants">: 112</span></span
               >
             </h4>
           </section>
@@ -246,7 +246,7 @@
             <h4>
               <span>2024-06-27 @ 00:39:14</span
               ><span class="points-container"
-                >Points: <span class="points">44</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40806151"
                   >Comments</a
@@ -266,7 +266,7 @@
             <h4>
               <span>2024-06-26 @ 22:33:59</span
               ><span class="points-container"
-                >Points: <span class="points">86</span></span
+                >Points: <span class="points">89</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40805351"
                   >Comments</a
@@ -288,11 +288,11 @@
             <h4>
               <span>2024-06-26 @ 22:21:49</span
               ><span class="points-container"
-                >Points: <span class="points">173</span></span
+                >Points: <span class="points">174</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40805251"
                   >Comments</a
-                ><span class="descendants">: 89</span></span
+                ><span class="descendants">: 92</span></span
               >
             </h4>
           </section>
@@ -329,13 +329,86 @@
             <h4>
               <span>2024-06-26 @ 22:03:00</span
               ><span class="points-container"
-                >Points: <span class="points">206</span></span
+                >Points: <span class="points">211</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40805099"
                   >Comments</a
                 ><span class="descendants">: 77</span></span
               >
             </h4>
+          </section>
+        </section>
+        <section id="40805010">
+          <h3>
+            <a class="item" href="https://fastvoiceagent.cerebrium.ai/"
+              >Show HN: Voice bots with 500ms response times</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-06-26 @ 21:51:03</span
+              ><span class="points-container"
+                >Points: <span class="points">35</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40805010"
+                  >Comments</a
+                ><span class="descendants">: 11</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I'm convinced that voice is going to be a bigger and bigger part
+                of how we all interact with generative AI. But one thing that's
+                hard, today, is building voice bots that respond as quickly as
+                humans do in conversation. A 500ms voice-to-voice response time
+                is just <i>barely</i> possible with today's AI models.
+              </p>
+              <p>
+                You can get down to 500ms if you: host transcription, LLM
+                inference, and voice generation all together in one place; are
+                careful about how you route and pipeline all the data; and the
+                gods of both wifi and vram caching smile on you.
+              </p>
+              <p>
+                Here's a demo of a 500ms-capable voice bot, plus a container you
+                can deploy to run it yourself on an A10/A100/H100 if you want
+                to:
+              </p>
+              <p>
+                <a href="https://fastvoiceagent.cerebrium.ai/"
+                  >https://fastvoiceagent.cerebrium.ai/</a
+                >
+              </p>
+              <p>
+                We've been collecting lots of metrics. Here are typical numbers
+                (in milliseconds) for all the easily measurable parts of the
+                voice-to-voice response cycle.
+              </p>
+              <p></p>
+              <pre><code>  macOS mic input                 40
+  opus encoding                   30
+  network stack and transit       10
+  packet handling                  2
+  jitter buffer                   40
+  opus decoding                   30
+  transcription and endpointing  200
+  llm ttfb                       100
+  sentence aggregation          100
+  tts ttfb                        80
+  opus encoding                   30
+  packet handling                  2
+  network stack and transit       10
+  jitter buffer                   40
+  opus decoding                   30
+  macOS speaker output           15
+  ----------------------------------
+  total ms                       759
+</code></pre>
+              Everything in AI is changing all the time. LLMs with native audio
+              input and output capabilities will likely make it easier to build
+              fast-responding voice bots soon. But for the moment, I think this
+              is the fastest possible approach/tech stack.
+            </div>
           </section>
         </section>
         <section id="40804675">
@@ -348,7 +421,7 @@
             <h4>
               <span>2024-06-26 @ 21:16:41</span
               ><span class="points-container"
-                >Points: <span class="points">55</span></span
+                >Points: <span class="points">56</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40804675"
                   >Comments</a
@@ -391,11 +464,11 @@
             <h4>
               <span>2024-06-26 @ 20:54:08</span
               ><span class="points-container"
-                >Points: <span class="points">52</span></span
+                >Points: <span class="points">57</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40804489"
                   >Comments</a
-                ><span class="descendants">: 4</span></span
+                ><span class="descendants">: 3</span></span
               >
             </h4>
           </section>
@@ -430,11 +503,11 @@
             <h4>
               <span>2024-06-26 @ 19:41:14</span
               ><span class="points-container"
-                >Points: <span class="points">142</span></span
+                >Points: <span class="points">144</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40803783"
                   >Comments</a
-                ><span class="descendants">: 73</span></span
+                ><span class="descendants">: 75</span></span
               >
             </h4>
           </section>
@@ -449,11 +522,11 @@
             <h4>
               <span>2024-06-26 @ 18:04:34</span
               ><span class="points-container"
-                >Points: <span class="points">300</span></span
+                >Points: <span class="points">303</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40802676"
                   >Comments</a
-                ><span class="descendants">: 110</span></span
+                ><span class="descendants">: 112</span></span
               >
             </h4>
           </section>
@@ -468,7 +541,7 @@
             <h4>
               <span>2024-06-26 @ 17:53:22</span
               ><span class="points-container"
-                >Points: <span class="points">109</span></span
+                >Points: <span class="points">110</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40802557"
                   >Comments</a
@@ -531,23 +604,6 @@
             </div>
           </section>
         </section>
-        <section id="40802054">
-          <h3>
-            <a
-              class="item"
-              href="https://jobs.ashbyhq.com/motion/731e6994-c9b0-43ae-b7e4-28cbca03920f?utm_source=hn"
-              >Motion (YC W20) Is Hiring Our First DevOps Engineer</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-06-26 @ 17:00:17</span
-              ><span class="points-container"
-                >Points: <span class="points">1</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="40800869">
           <h3>
             <a class="item" href="https://onemillioncheckboxes.com/"
@@ -558,7 +614,7 @@
             <h4>
               <span>2024-06-26 @ 15:02:38</span
               ><span class="points-container"
-                >Points: <span class="points">713</span></span
+                >Points: <span class="points">717</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40800869"
                   >Comments</a
@@ -706,7 +762,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40799090"
                   >Comments</a
-                ><span class="descendants">: 22</span></span
+                ><span class="descendants">: 23</span></span
               >
             </h4>
           </section>
@@ -723,7 +779,7 @@
             <h4>
               <span>2024-06-26 @ 07:36:32</span
               ><span class="points-container"
-                >Points: <span class="points">4</span></span
+                >Points: <span class="points">5</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40797320"
                   >Comments</a
@@ -745,7 +801,7 @@
             <h4>
               <span>2024-06-25 @ 14:35:07</span
               ><span class="points-container"
-                >Points: <span class="points">312</span></span
+                >Points: <span class="points">313</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40789179"
                   >Comments</a
@@ -809,7 +865,7 @@
             <h4>
               <span>2024-06-24 @ 11:42:03</span
               ><span class="points-container"
-                >Points: <span class="points">126</span></span
+                >Points: <span class="points">127</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40774833"
                   >Comments</a
@@ -830,7 +886,7 @@
             <h4>
               <span>2024-06-24 @ 11:31:16</span
               ><span class="points-container"
-                >Points: <span class="points">73</span></span
+                >Points: <span class="points">74</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40774748"
                   >Comments</a
@@ -849,7 +905,7 @@
             <h4>
               <span>2024-06-24 @ 06:47:47</span
               ><span class="points-container"
-                >Points: <span class="points">113</span></span
+                >Points: <span class="points">114</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40773125"
                   >Comments</a
@@ -885,7 +941,7 @@
             <h4>
               <span>2024-06-23 @ 08:43:29</span
               ><span class="points-container"
-                >Points: <span class="points">335</span></span
+                >Points: <span class="points">336</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40765770"
                   >Comments</a
