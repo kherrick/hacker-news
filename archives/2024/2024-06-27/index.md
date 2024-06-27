@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-06-27](index.md)
 
+* [2024-06-27, 14:35:34](https://news.ycombinator.com/item?id=40810986) - [Launch HN: Hatchet (YC W24) – Open-source task queue, now with a cloud version](https://news.ycombinator.com/item?id=40810986)
 * [2024-06-27, 14:18:46](https://news.ycombinator.com/item?id=40810802) - [Gemma 2: Improving Open Language Models at a Practical Size [pdf]](https://storage.googleapis.com/deepmind-media/gemma/gemma-2-report.pdf)
 * [2024-06-27, 14:15:43](https://news.ycombinator.com/item?id=40810769) - [It's Now Cheaper to Lease a Tesla Model 3 Than a Toyota Camry](https://insideevs.com/news/724571/tesla-model-3-lease-cheaper-toyota-camry/)
 * [2024-06-27, 14:15:23](https://news.ycombinator.com/item?id=40810767) - [Supreme Court blocks Purdue Pharma opioid settlement](https://www.nbcnews.com/politics/supreme-court/supreme-court-blocks-purdue-pharma-opioid-settlement-rcna139066)
+* [2024-06-27, 13:41:35](https://news.ycombinator.com/item?id=40810406) - [Ask HN: Arch Users – What is your long-term system maintenance routine?](https://news.ycombinator.com/item?id=40810406)
 * [2024-06-27, 13:08:05](https://news.ycombinator.com/item?id=40810084) - [New Whistleblower Files FAA and OSHA Complaints Against Boeing and Spirit](https://katzbanks.com/news/kbk-spirit-787-bulkheads/)
 * [2024-06-27, 12:59:10](https://news.ycombinator.com/item?id=40809997) - [At 50 Years Old, Is SQL Becoming a Niche Skill?](https://zwischenzugs.com/2024/06/27/at-50-years-old-is-sql-becoming-a-niche-skill/)
 * [2024-06-27, 12:49:10](https://news.ycombinator.com/item?id=40809926) - [CATL electric plane to support 2000 km (1200 miles) flight](https://www.chinadaily.com.cn/a/202406/25/WS667a5675a31095c51c50ab4d.html)
@@ -38,6 +40,7 @@
 * [2024-06-27, 03:46:47](https://news.ycombinator.com/item?id=40806980) - [SpaceX Tender Offer Said to Value Company at Record $210B](https://www.bloomberg.com/news/articles/2024-06-27/spacex-tender-offer-said-to-value-company-at-record-210-billion)
 * [2024-06-27, 03:33:52](https://news.ycombinator.com/item?id=40806930) - [6 months ago, I left the bullshit industrial complex](https://www.joanwestenberg.com/6-months-ago,-i-left-the-bullshit-industrial-complex)
 * [2024-06-27, 03:22:50](https://news.ycombinator.com/item?id=40806875) - [My .gitconfig File Dissected](https://kiranrao.ca/2024/06/21/git-config.html)
+* [2024-06-27, 03:17:09](https://news.ycombinator.com/item?id=40806858) - [Show HN: Gosax – A high-performance SAX XML parser for Go](https://github.com/orisano/gosax)
 * [2024-06-27, 02:42:10](https://news.ycombinator.com/item?id=40806698) - [Claude 3.5 Sonnet](https://thezvi.substack.com/p/on-claude-35-sonnet)
 * [2024-06-27, 02:14:36](https://news.ycombinator.com/item?id=40806592) - [It's Time for Progressives to Recommit to Academic Freedom](https://www.thenation.com/article/archive/progressives-academic-freedom-gaza-harvard-law-review/)
 * [2024-06-27, 01:44:17](https://news.ycombinator.com/item?id=40806477) - [Princeton engineers create new oyster-inspired cement 17X more crack-resistant](https://engineering.princeton.edu/news/2024/06/11/seashells-cement-nature-inspires-tougher-building-material)

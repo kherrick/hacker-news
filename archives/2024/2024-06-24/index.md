@@ -70,6 +70,7 @@
 * [2024-06-24, 12:17:01](https://news.ycombinator.com/item?id=40775127) - [Show HN: I Built a Tool to Break Free from YouTube's Addictive Algorithm](https://watchlist.so)
 * [2024-06-24, 12:16:27](https://news.ycombinator.com/item?id=40775123) - [Colorado has a first-in-the-nation law for AI – but what will it do?](https://www.cpr.org/2024/06/17/colorado-artificial-intelligence-law-implementation-ramifications/)
 * [2024-06-24, 12:00:13](https://news.ycombinator.com/item?id=40774980) - [UpCodes (YC S17) is hiring remote engineers across the Americas](https://up.codes/careers?utm_source=HN)
+* [2024-06-24, 11:52:41](https://news.ycombinator.com/item?id=40774921) - [All Cabinet agencies are now using Login.gov (2023)](https://www.gsa.gov/about-us/newsroom/news-releases/us-general-services-administration-announces-all-cabinet-agencies-are-now-using-logingov-09292023)
 * [2024-06-24, 11:42:03](https://news.ycombinator.com/item?id=40774833) - [GCC's new fortification level: The gains and costs](https://developers.redhat.com/articles/2022/09/17/gccs-new-fortification-level)
 * [2024-06-24, 11:31:16](https://news.ycombinator.com/item?id=40774748) - [Tracing garbage collection for arenas](https://btmc.substack.com/p/tracing-garbage-collection-for-arenas)
 * [2024-06-24, 11:05:18](https://news.ycombinator.com/item?id=40774563) - [Homegrown Rendering with Rust](https://medium.com/embarkstudios/homegrown-rendering-with-rust-1e39068e56a7)

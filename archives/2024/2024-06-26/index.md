@@ -19,6 +19,7 @@
 * [2024-06-26, 21:12:31](https://news.ycombinator.com/item?id=40804635) - [How the STL Uses Explicit](https://quuxplusone.github.io/blog/2024/06/25/most-stl-ctors-arent-explicit-but-yours-still-should-be/)
 * [2024-06-26, 20:54:08](https://news.ycombinator.com/item?id=40804489) - [Federal whistleblowers are entitled to damages of missed future pay, court rules](https://www.govexec.com/pay-benefits/2024/06/federal-whistleblowers-are-entitled-damages-missed-future-pay-court-rules/397638/)
 * [2024-06-26, 20:35:17](https://news.ycombinator.com/item?id=40804317) - [Cloudflare automatically fixes Polyfill.io for free sites](https://blog.cloudflare.com/automatically-replacing-polyfill-io-links-with-cloudflares-mirror-for-a-safer-internet)
+* [2024-06-26, 20:31:37](https://news.ycombinator.com/item?id=40804294) - [Show HN: A Modern Palletization App](https://github.com/VladM7/Stack-Solver)
 * [2024-06-26, 20:14:18](https://news.ycombinator.com/item?id=40804145) - [AI can beat real university students in exams, study suggests](https://www.bbc.co.uk/news/articles/cqqqln0eg65o)
 * [2024-06-26, 20:12:31](https://news.ycombinator.com/item?id=40804122) - [The Forth Deck mini: a portable Forth computer with a discrete CPU](http://mynor.org/my4th_forthdeck.htm)
 * [2024-06-26, 19:41:14](https://news.ycombinator.com/item?id=40803783) - [Next gen 3D metal printing](https://fabric8labs.com)
