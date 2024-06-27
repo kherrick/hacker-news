@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-06-27](index.md)
 
+* [2024-06-27, 15:16:24](https://news.ycombinator.com/item?id=40811474) - [Microsoft blamed for million-plus patient record theft at US hospital giant](https://www.theregister.com/2024/06/26/geisinger_nuance_microsoft_worker/)
 * [2024-06-27, 14:35:34](https://news.ycombinator.com/item?id=40810986) - [Launch HN: Hatchet (YC W24) – Open-source task queue, now with a cloud version](https://news.ycombinator.com/item?id=40810986)
+* [2024-06-27, 14:32:35](https://news.ycombinator.com/item?id=40810949) - [Open Sourcing Kinopio](https://pketh.org/open-sourcing-kinopio.html)
 * [2024-06-27, 14:18:46](https://news.ycombinator.com/item?id=40810802) - [Gemma 2: Improving Open Language Models at a Practical Size [pdf]](https://storage.googleapis.com/deepmind-media/gemma/gemma-2-report.pdf)
+* [2024-06-27, 14:16:26](https://news.ycombinator.com/item?id=40810776) - [Is Everything BS?](https://behavioralscientist.org/is-everything-bs/)
 * [2024-06-27, 14:15:43](https://news.ycombinator.com/item?id=40810769) - [It's Now Cheaper to Lease a Tesla Model 3 Than a Toyota Camry](https://insideevs.com/news/724571/tesla-model-3-lease-cheaper-toyota-camry/)
 * [2024-06-27, 14:15:23](https://news.ycombinator.com/item?id=40810767) - [Supreme Court blocks Purdue Pharma opioid settlement](https://www.nbcnews.com/politics/supreme-court/supreme-court-blocks-purdue-pharma-opioid-settlement-rcna139066)
 * [2024-06-27, 13:41:35](https://news.ycombinator.com/item?id=40810406) - [Ask HN: Arch Users – What is your long-term system maintenance routine?](https://news.ycombinator.com/item?id=40810406)
