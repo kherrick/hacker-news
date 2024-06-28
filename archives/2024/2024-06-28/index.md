@@ -8,6 +8,7 @@
 * [2024-06-28, 12:12:16](https://news.ycombinator.com/item?id=40819849) - [Microsoft forgot to renew their Office CDN certificate](https://old.reddit.com/r/sysadmin/comments/1dqf332/microsoft_ssl_cert_expired/)
 * [2024-06-28, 12:04:56](https://news.ycombinator.com/item?id=40819784) - [Is Clear Air Turbulence becoming more common?](https://www.flightradar24.com/blog/is-cat-more-common/)
 * [2024-06-28, 12:00:14](https://news.ycombinator.com/item?id=40819757) - [Substack Is Hiring Systems Engineers to Build a New Economic Engine for Culture](https://grnh.se/4f362fed5us)
+* [2024-06-28, 11:43:22](https://news.ycombinator.com/item?id=40819662) - [The Hyundai Inster is a cool, small EV – so of course it's not coming to the US](https://www.theverge.com/2024/6/27/24187409/hyundai-inster-small-ev-compact-price-specs-us)
 * [2024-06-28, 11:37:42](https://news.ycombinator.com/item?id=40819628) - [Perplexity's Grand Theft AI](https://www.theverge.com/2024/6/27/24187405/perplexity-ai-twitter-lie-plagiarism)
 * [2024-06-28, 11:35:34](https://news.ycombinator.com/item?id=40819617) - [A Novel way to curb poaching, injecting radioisotopes into 20 live rhinoceros](https://www.wits.ac.za/news/latest-news/general-news/2024/2024-06/a-novel-way-to-save-rhinos-.html)
 * [2024-06-28, 11:20:09](https://news.ycombinator.com/item?id=40819517) - [Japan's Mini Kei-Truck Sales Surge in US Despite Safety Concerns](https://www.bloomberg.com/news/articles/2024-06-27/japan-s-mini-kei-truck-sales-surge-in-us-despite-safety-concerns)
