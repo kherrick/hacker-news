@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-28](index.md)
 
+* [2024-06-28, 12:04:56](https://news.ycombinator.com/item?id=40819784) - [Is Clear Air Turbulence becoming more common?](https://www.flightradar24.com/blog/is-cat-more-common/)
 * [2024-06-28, 12:00:14](https://news.ycombinator.com/item?id=40819757) - [Substack Is Hiring Systems Engineers to Build a New Economic Engine for Culture](https://grnh.se/4f362fed5us)
 * [2024-06-28, 11:37:42](https://news.ycombinator.com/item?id=40819628) - [Perplexity's Grand Theft AI](https://www.theverge.com/2024/6/27/24187405/perplexity-ai-twitter-lie-plagiarism)
 * [2024-06-28, 11:35:34](https://news.ycombinator.com/item?id=40819617) - [A Novel way to curb poaching, injecting radioisotopes into 20 live rhinoceros](https://www.wits.ac.za/news/latest-news/general-news/2024/2024-06/a-novel-way-to-save-rhinos-.html)
@@ -17,6 +18,7 @@
 * [2024-06-28, 09:12:56](https://news.ycombinator.com/item?id=40818943) - [Orbital Mechanics and Astrodynamics](https://orbital-mechanics.space/intro.html)
 * [2024-06-28, 08:40:44](https://news.ycombinator.com/item?id=40818809) - [Ask HN: What is the best code base you ever worked on?](https://news.ycombinator.com/item?id=40818809)
 * [2024-06-28, 07:09:17](https://news.ycombinator.com/item?id=40818422) - [Frame.work laptop now available in Denmark, Finland, and Sweden](https://community.frame.work/t/now-available-in-denmark-finland-and-sweden/53690)
+* [2024-06-28, 06:30:32](https://news.ycombinator.com/item?id=40818268) - [Hype Cycle for Enterprise Architecture](https://einarwh.github.io/hypecycle.html)
 * [2024-06-28, 05:20:36](https://news.ycombinator.com/item?id=40817970) - [Supercomputer-on-a-chip goes live: single PCIe card packs more than 6k cores](https://www.techradar.com/pro/supercomputer-on-a-chip-goes-live-single-pcie-card-packs-more-than-6000-risc-v-cores-with-the-ability-to-scale-to-more-than-360000-cores-but-startup-still-remains-elusive-on-pricing)
 * [2024-06-28, 04:54:53](https://news.ycombinator.com/item?id=40817852) - [Software galaxies](https://anvaka.github.io/pm/)
 * [2024-06-28, 03:30:08](https://news.ycombinator.com/item?id=40817430) - [Investigating SSMEC's (State Micro) 486s with the UCA](https://x86.fr/investigating-ssmecs-state-micro-486s-with-the-uca/)
