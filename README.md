@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-28, 09:31:12](https://news.ycombinator.com/item?id=40819025) - [WA man set up fake free WiFi at Australian airports and on flights,police allege](https://www.theguardian.com/technology/article/2024/jun/28/wa-man-fake-free-wifi-airports-data-theft-ntwnfb)
 * [2024-06-28, 09:23:55](https://news.ycombinator.com/item?id=40818987) - [Parkinson's Link to Gut Bacteria Suggests Unexpected, Simple Treatment](https://www.sciencealert.com/parkinsons-link-to-gut-bacteria-suggests-unexpected-simple-treatment)
 * [2024-06-28, 08:40:44](https://news.ycombinator.com/item?id=40818809) - [Ask HN: What is the best code base you ever worked on?](https://news.ycombinator.com/item?id=40818809)
 * [2024-06-28, 07:09:17](https://news.ycombinator.com/item?id=40818422) - [Frame.work laptop now available in Denmark, Finland, and Sweden](https://community.frame.work/t/now-available-in-denmark-finland-and-sweden/53690)
@@ -29,7 +30,6 @@
 * [2024-06-26, 08:45:44](https://news.ycombinator.com/item?id=40797790) - [FDA warns top U.S. bakery not to claim foods contain allergens when they don't](https://www.npr.org/2024/06/26/g-s1-6238/fda-warns-bakery-foods-allergens)
 * [2024-06-26, 06:26:44](https://news.ycombinator.com/item?id=40796980) - [Navigating Starlink's FCC Paper Trail](https://blog.apnic.net/2024/06/26/navigating-starlinks-fcc-paper-trail/)
 * [2024-06-26, 05:28:09](https://news.ycombinator.com/item?id=40796697) - [Show HN: Dorkly – Open source feature flags](https://github.com/dorklyorg/dorkly/wiki)
-* [2024-06-25, 15:44:38](https://news.ycombinator.com/item?id=40790008) - [Igneous Linearizer: semi-structured source code](https://domain-j.com/Igneous-Linearizer/uuid/9e30337c-b890-4fd9-a0bd-51a7aa6e65b0)
 
 ## [Archives](archives/index.md)
 
