@@ -33,6 +33,7 @@
 * [2024-06-27, 17:46:21](https://news.ycombinator.com/item?id=40813077) - [Misconceptions About Loops in C](https://dl.acm.org/doi/10.1145/3652588.3663324)
 * [2024-06-27, 17:46:19](https://news.ycombinator.com/item?id=40813076) - [The strategy behind one of the most successful labs in the world](https://www.nature.com/articles/d41586-024-02085-2)
 * [2024-06-27, 17:27:18](https://news.ycombinator.com/item?id=40812879) - [Redis Alternative at Apache Software Foundation Now Supports RediSearch and SQL](https://kvrocks.apache.org/blog/kqir-query-engine/)
+* [2024-06-27, 17:23:55](https://news.ycombinator.com/item?id=40812846) - [The loneliness of the low-ranking tennis player](https://www.theguardian.com/sport/article/2024/jun/27/the-loneliness-of-the-low-ranking-tennis-player)
 * [2024-06-27, 17:09:37](https://news.ycombinator.com/item?id=40812695) - [Linux community mourns loss of WiFi driver expert Larry Finger](https://www.developer-tech.com/news/2024/jun/24/linux-community-mourns-loss-wifi-driver-expert/)
 * [2024-06-27, 17:09:37](https://news.ycombinator.com/item?id=40812695) - [Larry Finger made Linux wireless work and brought others along to learn](https://arstechnica.com/gadgets/2024/06/larry-finger-linux-wireless-hero-was-a-persistent-patient-coder-and-mentor/)
 * [2024-06-27, 17:02:09](https://news.ycombinator.com/item?id=40812622) - [CriticGPT: Finding GPT-4's mistakes with GPT-4](https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4/)
