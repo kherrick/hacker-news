@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-28, 02:36:40",
+      "https://news.ycombinator.com/item?id=40817227"
+    ],
+    [
+      "Space Ghost: Coast to Coast and the Birth of the Weird (2016)",
+      "https://www.vulture.com/2016/10/space-ghost-coast-to-coast-and-the-birth-of-the-weird.html"
+    ]
+  ],
+  [
+    [
       "2024-06-28, 02:30:18",
       "https://news.ycombinator.com/item?id=40817199"
     ],
@@ -21,12 +31,32 @@
   ],
   [
     [
-      "2024-06-28, 01:59:01",
-      "https://news.ycombinator.com/item?id=40817068"
+      "2024-06-28, 02:01:46",
+      "https://news.ycombinator.com/item?id=40817079"
     ],
     [
-      "Surprise the Latest 'Comprehensive' US Privacy Bill Is Doomed",
-      "https://www.wired.com/story/apra-privacy-bill-doomed/"
+      "The Death of NYC Congestion Pricing",
+      "https://www.apricitas.io/p/the-death-of-nyc-congestion-pricing"
+    ]
+  ],
+  [
+    [
+      "2024-06-28, 00:27:32",
+      "https://news.ycombinator.com/item?id=40816649"
+    ],
+    [
+      "Geely releases new LFP battery with fast charging and energy density of 192Wh/kg",
+      "https://cnevpost.com/2024/06/27/geely-releases-aegis-short-blade-battery/"
+    ]
+  ],
+  [
+    [
+      "2024-06-27, 23:08:40",
+      "https://news.ycombinator.com/item?id=40816158"
+    ],
+    [
+      "Infrastructure set-up & open-source scripts to train a 70B model from bare metal",
+      "https://imbue.com/research/70b-infrastructure/"
     ]
   ],
   [
@@ -37,16 +67,6 @@
     [
       "200 people charged in $2.7B health care fraud crackdown",
       "https://apnews.com/article/justice-department-health-care-fraud-garland-24948b951896d0f265c29ba3fcacf858"
-    ]
-  ],
-  [
-    [
-      "2024-06-27, 21:09:11",
-      "https://news.ycombinator.com/item?id=40815130"
-    ],
-    [
-      "Python grapples with Apple App Store rejections",
-      "https://lwn.net/SubscriberLink/979671/4fb7c1827536d1ae/"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2024-06-27, 10:29:06",
-      "https://news.ycombinator.com/item?id=40809033"
-    ],
-    [
-      "How to think about creating a dataset for LLM fine-tuning evaluation",
-      "https://mlops.systems/posts/2024-06-25-evaluation-finetuning-manual-dataset.html"
-    ]
-  ],
-  [
-    [
       "2024-06-27, 10:06:18",
       "https://news.ycombinator.com/item?id=40808933"
     ],
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2024-06-26, 20:31:37",
-      "https://news.ycombinator.com/item?id=40804294"
-    ],
-    [
-      "Show HN: A Modern Palletization App",
-      "https://github.com/VladM7/Stack-Solver"
-    ]
-  ],
-  [
-    [
       "2024-06-26, 11:59:13",
       "https://news.ycombinator.com/item?id=40798939"
     ],
@@ -251,12 +251,12 @@
   ],
   [
     [
-      "2024-06-26, 11:30:04",
-      "https://news.ycombinator.com/item?id=40798740"
+      "2024-06-26, 10:43:45",
+      "https://news.ycombinator.com/item?id=40798469"
     ],
     [
-      "gRPC: The Bad Parts",
-      "https://kmcd.dev/posts/grpc-the-bad-parts/"
+      "Git-cliff – Generate changelog from the Git history",
+      "https://git-cliff.org/"
     ]
   ],
   [
