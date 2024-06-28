@@ -2,7 +2,6 @@
 
 * [2024-06-28, 02:30:18](https://news.ycombinator.com/item?id=40817199) - [Aeon: OpenSUSE for Lazy Developers](https://lwn.net/Articles/977987/)
 * [2024-06-28, 02:14:05](https://news.ycombinator.com/item?id=40817139) - [Hardware FPGA DPS-8M Mainframe and FNP Project](https://dps8m.gitlab.io/blog/posts/20240622_FPGA/)
-* [2024-06-28, 02:01:46](https://news.ycombinator.com/item?id=40817079) - [The Death of NYC Congestion Pricing](https://www.apricitas.io/p/the-death-of-nyc-congestion-pricing)
 * [2024-06-28, 01:59:01](https://news.ycombinator.com/item?id=40817068) - [Surprise the Latest 'Comprehensive' US Privacy Bill Is Doomed](https://www.wired.com/story/apra-privacy-bill-doomed/)
 * [2024-06-27, 21:09:54](https://news.ycombinator.com/item?id=40815139) - [200 people charged in $2.7B health care fraud crackdown](https://apnews.com/article/justice-department-health-care-fraud-garland-24948b951896d0f265c29ba3fcacf858)
 * [2024-06-27, 21:09:11](https://news.ycombinator.com/item?id=40815130) - [Python grapples with Apple App Store rejections](https://lwn.net/SubscriberLink/979671/4fb7c1827536d1ae/)
@@ -24,6 +23,7 @@
 * [2024-06-27, 10:29:06](https://news.ycombinator.com/item?id=40809033) - [How to think about creating a dataset for LLM fine-tuning evaluation](https://mlops.systems/posts/2024-06-25-evaluation-finetuning-manual-dataset.html)
 * [2024-06-27, 10:06:18](https://news.ycombinator.com/item?id=40808933) - [Lessons I Wish I Had Been Taught (1996) [pdf]](https://www.ams.org/notices/199701/comm-rota.pdf)
 * [2024-06-27, 00:05:05](https://news.ycombinator.com/item?id=40805949) - [ID verification service for TikTok, Uber, X exposed driver licenses](https://www.404media.co/id-verification-service-for-tiktok-uber-x-exposed-driver-licenses-au10tix/)
+* [2024-06-26, 20:31:37](https://news.ycombinator.com/item?id=40804294) - [Show HN: A Modern Palletization App](https://github.com/VladM7/Stack-Solver)
 * [2024-06-26, 11:59:13](https://news.ycombinator.com/item?id=40798939) - [Spudguns: Potato Cannon Guide](http://www.spudguns.org/)
 * [2024-06-26, 11:30:04](https://news.ycombinator.com/item?id=40798740) - [gRPC: The Bad Parts](https://kmcd.dev/posts/grpc-the-bad-parts/)
 * [2024-06-26, 08:45:44](https://news.ycombinator.com/item?id=40797790) - [FDA warns top U.S. bakery not to claim foods contain allergens when they don't](https://www.npr.org/2024/06/26/g-s1-6238/fda-warns-bakery-foods-allergens)
