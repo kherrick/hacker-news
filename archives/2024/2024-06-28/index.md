@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-28](index.md)
 
+* [2024-06-28, 14:36:13](https://news.ycombinator.com/item?id=40821007) - [Supreme Court overrules Chevron deference [pdf]](https://www.supremecourt.gov/opinions/23pdf/22-451_7m58.pdf)
+* [2024-06-28, 14:31:12](https://news.ycombinator.com/item?id=40820949) - [Supreme Court guts agency power in seismic Chevron ruling](https://www.axios.com/2024/06/28/supreme-court-chevron-doctrine-ruling)
 * [2024-06-28, 14:12:13](https://news.ycombinator.com/item?id=40820777) - [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/index.html)
 * [2024-06-28, 13:39:46](https://news.ycombinator.com/item?id=40820521) - [Former IT employee accessed data of over 1M US patients](https://www.bleepingcomputer.com/news/security/former-it-employee-accessed-data-of-over-1-million-us-patients/)
 * [2024-06-28, 13:21:24](https://news.ycombinator.com/item?id=40820372) - [Entrust certificates will not be trusted in Chrome 127+](https://groups.google.com/a/ccadb.org/g/public/c/29CRLOPM6OM/m/-tvW5l-lAAAJ)
