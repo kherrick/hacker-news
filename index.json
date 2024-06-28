@@ -1,22 +1,22 @@
 [
   [
     [
+      "2024-06-28, 12:04:56",
+      "https://news.ycombinator.com/item?id=40819784"
+    ],
+    [
+      "Is Clear Air Turbulence becoming more common?",
+      "https://www.flightradar24.com/blog/is-cat-more-common/"
+    ]
+  ],
+  [
+    [
       "2024-06-28, 12:00:14",
       "https://news.ycombinator.com/item?id=40819757"
     ],
     [
       "Substack Is Hiring Systems Engineers to Build a New Economic Engine for Culture",
       "https://grnh.se/4f362fed5us"
-    ]
-  ],
-  [
-    [
-      "2024-06-28, 11:37:42",
-      "https://news.ycombinator.com/item?id=40819628"
-    ],
-    [
-      "Perplexity's Grand Theft AI",
-      "https://www.theverge.com/2024/6/27/24187405/perplexity-ai-twitter-lie-plagiarism"
     ]
   ],
   [
@@ -31,72 +31,12 @@
   ],
   [
     [
-      "2024-06-28, 11:20:09",
-      "https://news.ycombinator.com/item?id=40819517"
-    ],
-    [
-      "Japan's Mini Kei-Truck Sales Surge in US Despite Safety Concerns",
-      "https://www.bloomberg.com/news/articles/2024-06-27/japan-s-mini-kei-truck-sales-surge-in-us-despite-safety-concerns"
-    ]
-  ],
-  [
-    [
       "2024-06-28, 11:05:40",
       "https://news.ycombinator.com/item?id=40819440"
     ],
     [
       "Understanding React Compiler",
       "https://tonyalicea.dev/blog/understanding-react-compiler/"
-    ]
-  ],
-  [
-    [
-      "2024-06-28, 11:04:00",
-      "https://news.ycombinator.com/item?id=40819437"
-    ],
-    [
-      "Make Something With Your Hands (Even if It’s Hideous)",
-      "https://www.nytimes.com/2024/06/28/well/mind/hand-crafts-creation-art.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-28, 10:17:19",
-      "https://news.ycombinator.com/item?id=40819226"
-    ],
-    [
-      "Conway's Game of Life, in checkboxes for some reason",
-      "https://huth.me/checkbox-life/"
-    ]
-  ],
-  [
-    [
-      "2024-06-28, 10:05:21",
-      "https://news.ycombinator.com/item?id=40819184"
-    ],
-    [
-      "Two million checkboxes (written in Elixir)",
-      "https://twomillioncheckboxes.com"
-    ]
-  ],
-  [
-    [
-      "2024-06-28, 09:31:12",
-      "https://news.ycombinator.com/item?id=40819025"
-    ],
-    [
-      "WA man set up fake free WiFi at Australian airports and on flights,police allege",
-      "https://www.theguardian.com/technology/article/2024/jun/28/wa-man-fake-free-wifi-airports-data-theft-ntwnfb"
-    ]
-  ],
-  [
-    [
-      "2024-06-28, 09:23:55",
-      "https://news.ycombinator.com/item?id=40818987"
-    ],
-    [
-      "Parkinson's Link to Gut Bacteria Suggests Unexpected, Simple Treatment",
-      "https://www.sciencealert.com/parkinsons-link-to-gut-bacteria-suggests-unexpected-simple-treatment"
     ]
   ],
   [
@@ -111,12 +51,12 @@
   ],
   [
     [
-      "2024-06-28, 07:09:17",
-      "https://news.ycombinator.com/item?id=40818422"
+      "2024-06-28, 06:30:32",
+      "https://news.ycombinator.com/item?id=40818268"
     ],
     [
-      "Frame.work laptop now available in Denmark, Finland, and Sweden",
-      "https://community.frame.work/t/now-available-in-denmark-finland-and-sweden/53690"
+      "Hype Cycle for Enterprise Architecture",
+      "https://einarwh.github.io/hypecycle.html"
     ]
   ],
   [
@@ -161,6 +101,16 @@
   ],
   [
     [
+      "2024-06-28, 02:01:46",
+      "https://news.ycombinator.com/item?id=40817079"
+    ],
+    [
+      "The Death of NYC Congestion Pricing",
+      "https://www.apricitas.io/p/the-death-of-nyc-congestion-pricing"
+    ]
+  ],
+  [
+    [
       "2024-06-27, 23:08:40",
       "https://news.ycombinator.com/item?id=40816158"
     ],
@@ -171,12 +121,42 @@
   ],
   [
     [
+      "2024-06-27, 21:09:54",
+      "https://news.ycombinator.com/item?id=40815139"
+    ],
+    [
+      "200 people charged in $2.7B health care fraud crackdown",
+      "https://apnews.com/article/justice-department-health-care-fraud-garland-24948b951896d0f265c29ba3fcacf858"
+    ]
+  ],
+  [
+    [
+      "2024-06-27, 21:05:51",
+      "https://news.ycombinator.com/item?id=40815097"
+    ],
+    [
+      "Maker of RStudio launches new R and Python IDE",
+      "https://www.infoworld.com/article/3715702/maker-of-rstudio-launches-new-r-and-python-ide.html"
+    ]
+  ],
+  [
+    [
       "2024-06-27, 19:18:10",
       "https://news.ycombinator.com/item?id=40814011"
     ],
     [
       "A modern 8 bit design, built using 1950s thermionic valves",
       "https://www.valve.computer/"
+    ]
+  ],
+  [
+    [
+      "2024-06-27, 18:13:51",
+      "https://news.ycombinator.com/item?id=40813369"
+    ],
+    [
+      "Supreme Court blocks controversial Purdue Pharma opioid settlement",
+      "https://www.washingtonpost.com/politics/2024/06/27/purdue-pharma-supreme-court-opioid-bankruptcy/"
     ]
   ],
   [
@@ -217,6 +197,16 @@
     [
       "Launch HN: Hatchet (YC W24) – Open-source task queue, now with a cloud version",
       "https://news.ycombinator.com/item?id=40810986"
+    ]
+  ],
+  [
+    [
+      "2024-06-27, 14:32:35",
+      "https://news.ycombinator.com/item?id=40810949"
+    ],
+    [
+      "Open Sourcing Kinopio",
+      "https://pketh.org/open-sourcing-kinopio.html"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Moving objects precisely with sound",
       "https://actu.epfl.ch/news/moving-objects-precisely-with-sound-2/"
+    ]
+  ],
+  [
+    [
+      "2024-06-26, 08:45:44",
+      "https://news.ycombinator.com/item?id=40797790"
+    ],
+    [
+      "FDA warns top U.S. bakery not to claim foods contain allergens when they don't",
+      "https://www.npr.org/2024/06/26/g-s1-6238/fda-warns-bakery-foods-allergens"
     ]
   ],
   [
