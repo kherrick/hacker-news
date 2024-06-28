@@ -4,14 +4,17 @@
 
 ### [Archives](../../index.md) for [2024-06-28](index.md)
 
+* [2024-06-28, 21:30:58](https://news.ycombinator.com/item?id=40825494) - [Bipartisan consensus in favor of renewable power is ending](https://arstechnica.com/science/2024/06/support-for-renewable-power-is-plunging-among-republicans/)
 * [2024-06-28, 21:22:42](https://news.ycombinator.com/item?id=40825429) - [Windows: Insecure by Design](https://www.theregister.com/2024/06/28/windows_insecure_by_design/)
 * [2024-06-28, 21:16:44](https://news.ycombinator.com/item?id=40825384) - [Woman Tries to Deposit $3K at Bank of America ATM. It Backfires](https://www.dailydot.com/news/bank-of-america-deposit-3000-dollars/)
+* [2024-06-28, 20:49:23](https://news.ycombinator.com/item?id=40825146) - [Open Source 'Eclipse Theia IDE' Exits Beta to Challenge Visual Studio Code](https://visualstudiomagazine.com/Articles/2024/06/27/eclipse-theia-ide.aspx)
 * [2024-06-28, 20:39:07](https://news.ycombinator.com/item?id=40825033) - [The true story – as best I can remember – of the origin of Mosaic and Netscape](https://pmarca.substack.com/p/the-true-story-as-best-i-can-remember)
 * [2024-06-28, 19:32:46](https://news.ycombinator.com/item?id=40824324) - [Microsoft a national security threat says ex-White House cyber policy director](https://forums.theregister.com/forum/all/2024/04/21/microsoft_national_security_risk/)
 * [2024-06-28, 19:23:43](https://news.ycombinator.com/item?id=40824209) - [Pompeii Fixed Potholes with Molten Iron](https://www.smithsonianmag.com/smart-news/pompeii-fixed-potholes-molten-iron-180972203/)
 * [2024-06-28, 19:21:41](https://news.ycombinator.com/item?id=40824191) - [US removes Gaza aid pier due to weather and may not put it back, officials say](https://apnews.com/article/gaza-pier-humanitarian-aid-f3e21c072630c0d9cb9498d3a0e27a55)
 * [2024-06-28, 18:54:20](https://news.ycombinator.com/item?id=40823850) - [US Supreme Court allows cities to ban homeless camps](https://www.bbc.com/news/articles/cj774nxrpy7o)
 * [2024-06-28, 18:52:15](https://news.ycombinator.com/item?id=40823817) - [LLMs now write lots of science. Good](https://www.economist.com/leaders/2024/06/27/llms-now-write-lots-of-science-good)
+* [2024-06-28, 18:42:47](https://news.ycombinator.com/item?id=40823710) - [FullBashGuide](https://mywiki.wooledge.org/FullBashGuide)
 * [2024-06-28, 18:39:32](https://news.ycombinator.com/item?id=40823670) - [The NSA Wants Carte Blanche for Warrantless Surveillance](https://www.thenation.com/article/world/nsa-warrantless-surveillance/)
 * [2024-06-28, 18:36:32](https://news.ycombinator.com/item?id=40823632) - [Show HN: Six Degrees of Reform UK – Mapping the UK's Entrepreneurial Far Right](https://adu.autonomy.work/posts/2024_06_28_reform/)
 * [2024-06-28, 17:32:15](https://news.ycombinator.com/item?id=40822887) - [Google begs court for relief from Epic Games' Play Store demands](https://www.theregister.com/2024/06/26/google_begs_court_for_relief/)
