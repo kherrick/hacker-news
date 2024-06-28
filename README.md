@@ -1,11 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-28, 21:30:58](https://news.ycombinator.com/item?id=40825494) - [Bipartisan consensus in favor of renewable power is ending](https://arstechnica.com/science/2024/06/support-for-renewable-power-is-plunging-among-republicans/)
 * [2024-06-28, 21:22:42](https://news.ycombinator.com/item?id=40825429) - [Windows: Insecure by Design](https://www.theregister.com/2024/06/28/windows_insecure_by_design/)
 * [2024-06-28, 20:49:23](https://news.ycombinator.com/item?id=40825146) - [Open Source 'Eclipse Theia IDE' Exits Beta to Challenge Visual Studio Code](https://visualstudiomagazine.com/Articles/2024/06/27/eclipse-theia-ide.aspx)
 * [2024-06-28, 20:39:07](https://news.ycombinator.com/item?id=40825033) - [The true story – as best I can remember – of the origin of Mosaic and Netscape](https://pmarca.substack.com/p/the-true-story-as-best-i-can-remember)
 * [2024-06-28, 19:23:43](https://news.ycombinator.com/item?id=40824209) - [Pompeii fixed potholes with molten iron (2019)](https://www.smithsonianmag.com/smart-news/pompeii-fixed-potholes-molten-iron-180972203/)
-* [2024-06-28, 18:42:47](https://news.ycombinator.com/item?id=40823710) - [FullBashGuide](https://mywiki.wooledge.org/FullBashGuide)
 * [2024-06-28, 17:01:48](https://news.ycombinator.com/item?id=40822591) - [Our Underground Future (2012)](https://www.bostonglobe.com/ideas/2012/06/23/underground-space/PvxyWFdXXYhPPlQVVU0a8K/story.html)
 * [2024-06-28, 16:56:08](https://news.ycombinator.com/item?id=40822522) - [What Happened to People Magazine?](https://annehelen.substack.com/p/what-happened-to-people-magazine)
 * [2024-06-28, 16:54:55](https://news.ycombinator.com/item?id=40822512) - [Llama-agents: an async-first framework for building production ready agents](https://github.com/run-llama/llama-agents)
@@ -26,8 +24,10 @@
 * [2024-06-28, 02:30:18](https://news.ycombinator.com/item?id=40817199) - [Aeon: OpenSUSE for Lazy Developers](https://lwn.net/Articles/977987/)
 * [2024-06-27, 17:36:36](https://news.ycombinator.com/item?id=40812976) - [The Bleak Genius of Michel Foucault](https://www.compactmag.com/article/the-bleak-genius-of-michel-foucault/)
 * [2024-06-27, 17:23:55](https://news.ycombinator.com/item?id=40812846) - [The loneliness of the low-ranking tennis player](https://www.theguardian.com/sport/article/2024/jun/27/the-loneliness-of-the-low-ranking-tennis-player)
+* [2024-06-27, 17:22:51](https://news.ycombinator.com/item?id=40812833) - [Entrust Certificate Distrust](https://security.googleblog.com/2024/06/sustaining-digital-certificate-security.html)
 * [2024-06-27, 16:36:08](https://news.ycombinator.com/item?id=40812359) - [The greatest social media site is Craigslist](https://slate.com/technology/2024/06/craigslist-craig-newmark-best-social-media-site-facebook-tiktok-instagram.html)
 * [2024-06-26, 21:44:45](https://news.ycombinator.com/item?id=40804946) - [Out of sight, 'dark fungi' run the world from the shadows](https://www.scientificamerican.com/article/mysterious-dark-fungi-are-lurking-everywhere/)
+* [2024-06-26, 20:31:37](https://news.ycombinator.com/item?id=40804294) - [Show HN: A Modern Palletization App](https://github.com/VladM7/Stack-Solver)
 * [2024-06-26, 20:05:42](https://news.ycombinator.com/item?id=40804069) - [ELIZA Reinterpreted: The world's first chatbot was not intended as a chatbot](https://arxiv.org/abs/2406.17650)
 * [2024-06-25, 11:28:01](https://news.ycombinator.com/item?id=40787124) - [It's getting harder to die](https://www.plough.com/en/topics/life/aging/its-getting-harder-to-die)
 
