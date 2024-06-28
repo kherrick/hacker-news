@@ -1,12 +1,42 @@
 [
   [
     [
-      "2024-06-27, 21:30:31",
-      "https://news.ycombinator.com/item?id=40815345"
+      "2024-06-28, 01:10:59",
+      "https://news.ycombinator.com/item?id=40816874"
     ],
     [
-      "US sanctions Boeing for sharing information about 737 MAX 9 investigation",
-      "https://apnews.com/article/boeing-ntsb-alaska-airlines-737-max-89e5655184516b4c54a9378414fe4cea"
+      "Satisfaction with Democracy Has Declined in Recent Years in High-Income Nations",
+      "https://www.pewresearch.org/short-reads/2024/06/18/satisfaction-with-democracy-has-declined-in-recent-years-in-high-income-nations/"
+    ]
+  ],
+  [
+    [
+      "2024-06-28, 01:00:54",
+      "https://news.ycombinator.com/item?id=40816823"
+    ],
+    [
+      "Why I Resigned From The Anthropic Board",
+      "https://lukemuehlhauser.com/why-i-resigned-from-the-anthropic-board/"
+    ]
+  ],
+  [
+    [
+      "2024-06-28, 00:50:35",
+      "https://news.ycombinator.com/item?id=40816755"
+    ],
+    [
+      "Gwern comments on Ilya Sutskever depature from OpenAI, among other topics",
+      "https://old.reddit.com/r/mlscaling/comments/1djoqjh/ilya_sutskever_launches_safe_superintelligence_a/l9uogp9/"
+    ]
+  ],
+  [
+    [
+      "2024-06-27, 22:31:17",
+      "https://news.ycombinator.com/item?id=40815896"
+    ],
+    [
+      "Create HTML/ZIP/PNG Polyglot Files in JavaScript",
+      "https://github.com/gildas-lormeau/Polyglot-HTML-ZIP-PNG"
     ]
   ],
   [
@@ -41,42 +71,12 @@
   ],
   [
     [
-      "2024-06-27, 21:02:45",
-      "https://news.ycombinator.com/item?id=40815074"
-    ],
-    [
-      "TeamViewer Security Breach",
-      "https://www.teamviewer.com/en/resources/trust-center/statement/"
-    ]
-  ],
-  [
-    [
       "2024-06-27, 21:00:24",
       "https://news.ycombinator.com/item?id=40815046"
     ],
     [
       "Tesorio (YC S15) Is Hiring a Senior GenAI/LLM Engineer (100% Remote)",
       "https://www.tesorio.com/careers#job-openings"
-    ]
-  ],
-  [
-    [
-      "2024-06-27, 20:16:58",
-      "https://news.ycombinator.com/item?id=40814612"
-    ],
-    [
-      "A dev's thoughts on developer productivity (2022)",
-      "https://sourcegraph.com/blog/developer-productivity-thoughts"
-    ]
-  ],
-  [
-    [
-      "2024-06-27, 20:09:12",
-      "https://news.ycombinator.com/item?id=40814536"
-    ],
-    [
-      "Large Language Models are not a search engine",
-      "https://cyberneticforests.substack.com/p/a-hallucinogenic-compendium"
     ]
   ],
   [
@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2024-06-27, 14:16:26",
-      "https://news.ycombinator.com/item?id=40810776"
-    ],
-    [
-      "Not everything is behavioral science",
-      "https://behavioralscientist.org/is-everything-bs/"
-    ]
-  ],
-  [
-    [
       "2024-06-27, 10:06:18",
       "https://news.ycombinator.com/item?id=40808933"
     ],
@@ -297,6 +287,16 @@
     [
       "Igneous Linearizer: semi-structured source code",
       "https://domain-j.com/Igneous-Linearizer/uuid/9e30337c-b890-4fd9-a0bd-51a7aa6e65b0"
+    ]
+  ],
+  [
+    [
+      "2024-06-23, 18:50:08",
+      "https://news.ycombinator.com/item?id=40769636"
+    ],
+    [
+      "How electronic ignition works and also how to make a spark plug play music",
+      "https://www.theautopian.com/this-is-how-electronic-ignition-works-and-also-how-to-make-a-spark-plug-play-music/"
     ]
   ]
 ]
