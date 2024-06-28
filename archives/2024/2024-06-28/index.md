@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-28](index.md)
 
+* [2024-06-28, 08:40:44](https://news.ycombinator.com/item?id=40818809) - [Ask HN: What is the best code base you ever worked on?](https://news.ycombinator.com/item?id=40818809)
 * [2024-06-28, 07:09:17](https://news.ycombinator.com/item?id=40818422) - [Frame.work laptop now available in Denmark, Finland, and Sweden](https://community.frame.work/t/now-available-in-denmark-finland-and-sweden/53690)
 * [2024-06-28, 05:20:36](https://news.ycombinator.com/item?id=40817970) - [Supercomputer-on-a-chip goes live: single PCIe card packs more than 6k cores](https://www.techradar.com/pro/supercomputer-on-a-chip-goes-live-single-pcie-card-packs-more-than-6000-risc-v-cores-with-the-ability-to-scale-to-more-than-360000-cores-but-startup-still-remains-elusive-on-pricing)
 * [2024-06-28, 04:54:53](https://news.ycombinator.com/item?id=40817852) - [Software galaxies](https://anvaka.github.io/pm/)
