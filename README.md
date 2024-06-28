@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-28, 14:37:19](https://news.ycombinator.com/item?id=40821016) - [Zuckerberg disses closed-source AI competitors as trying to 'create God'](https://techcrunch.com/2024/06/27/zuckerberg-disses-closed-source-ai-competitors-as-trying-to-create-god/)
-* [2024-06-28, 14:36:13](https://news.ycombinator.com/item?id=40821007) - [Supreme Court overrules Chevron deference [pdf]](https://www.supremecourt.gov/opinions/23pdf/22-451_7m58.pdf)
 * [2024-06-28, 14:31:12](https://news.ycombinator.com/item?id=40820949) - [Supreme Court guts agency power in seismic Chevron ruling](https://www.axios.com/2024/06/28/supreme-court-chevron-doctrine-ruling)
 * [2024-06-28, 13:35:12](https://news.ycombinator.com/item?id=40820494) - [ChatGPT is hallucinating fake links to its news partners' biggest investigations](https://www.niemanlab.org/2024/06/chatgpt-is-hallucinating-fake-links-to-its-news-partners-biggest-investigations/)
+* [2024-06-28, 13:14:36](https://news.ycombinator.com/item?id=40820311) - [Apple II graphics: More than you wanted to know](https://nicole.express/2024/phasing-in-and-out-of-existence.html)
 * [2024-06-28, 12:41:22](https://news.ycombinator.com/item?id=40820063) - [New ways to catch gravitational waves](https://www.nature.com/articles/d41586-024-02003-6)
 * [2024-06-28, 12:04:56](https://news.ycombinator.com/item?id=40819784) - [Is Clear Air Turbulence becoming more common?](https://www.flightradar24.com/blog/is-cat-more-common/)
 * [2024-06-28, 12:00:14](https://news.ycombinator.com/item?id=40819757) - [Substack Is Hiring Systems Engineers to Build a New Economic Engine for Culture](https://grnh.se/4f362fed5us)
