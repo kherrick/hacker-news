@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-06-28, 17:03:06",
-      "https://news.ycombinator.com/item?id=40822611"
+      "2024-06-28, 17:29:33",
+      "https://news.ycombinator.com/item?id=40822852"
     ],
     [
-      "SEC vs. Consensys",
-      "https://www.docdroid.com/YS1DSF5/sec-v-consensys-pdf"
+      "Notes on implementing dark mode",
+      "https://brandur.org/fragments/dark-mode-notes"
+    ]
+  ],
+  [
+    [
+      "2024-06-28, 17:10:47",
+      "https://news.ycombinator.com/item?id=40822687"
+    ],
+    [
+      "Elixir Anti-Patterns",
+      "https://hexdocs.pm/elixir/main/code-anti-patterns.html"
     ]
   ],
   [
@@ -17,16 +27,6 @@
     [
       "Our Underground Future (2012)",
       "https://www.bostonglobe.com/ideas/2012/06/23/underground-space/PvxyWFdXXYhPPlQVVU0a8K/story.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-28, 17:00:34",
-      "https://news.ycombinator.com/item?id=40822579"
-    ],
-    [
-      "Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring",
-      "https://skio.com/careers/"
     ]
   ],
   [
@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2024-06-28, 16:54:55",
+      "https://news.ycombinator.com/item?id=40822512"
+    ],
+    [
+      "Llama-agents: an async-first framework for building production ready agents",
+      "https://github.com/run-llama/llama-agents"
+    ]
+  ],
+  [
+    [
       "2024-06-28, 16:54:49",
       "https://news.ycombinator.com/item?id=40822511"
     ],
@@ -71,16 +81,6 @@
   ],
   [
     [
-      "2024-06-28, 16:41:57",
-      "https://news.ycombinator.com/item?id=40822383"
-    ],
-    [
-      "Google cuts ties with Entrust in Chrome over trust issues",
-      "https://www.theregister.com/2024/06/28/google_axes_entrust_over_six/"
-    ]
-  ],
-  [
-    [
       "2024-06-28, 16:36:06",
       "https://news.ycombinator.com/item?id=40822320"
     ],
@@ -91,52 +91,12 @@
   ],
   [
     [
-      "2024-06-28, 16:30:20",
-      "https://news.ycombinator.com/item?id=40822270"
-    ],
-    [
-      "Notes on Implementing Dark Mode",
-      "https://brandur.org/fragments/dark-mode-notes"
-    ]
-  ],
-  [
-    [
-      "2024-06-28, 16:21:02",
-      "https://news.ycombinator.com/item?id=40822186"
-    ],
-    [
-      "Milk-V Reveals Technical Specs of Milk-V Jupiter RISC-V Mini-ITX PC",
-      "https://linuxgizmos.com/milk-v-reveals-technical-specs-of-milk-v-jupiter-risc-v-mini-itx-pc/"
-    ]
-  ],
-  [
-    [
-      "2024-06-28, 16:01:43",
-      "https://news.ycombinator.com/item?id=40821994"
-    ],
-    [
-      "Microsoft informs customers that Russian hackers spied on emails",
-      "https://www.reuters.com/technology/cybersecurity/microsoft-tells-clients-russian-hackers-viewed-emails-bloomberg-news-reports-2024-06-27/"
-    ]
-  ],
-  [
-    [
       "2024-06-28, 15:36:04",
       "https://news.ycombinator.com/item?id=40821734"
     ],
     [
       "Mourning Daniel Bristot de Oliveira",
       "https://lwn.net/Articles/979912/"
-    ]
-  ],
-  [
-    [
-      "2024-06-28, 14:36:13",
-      "https://news.ycombinator.com/item?id=40821007"
-    ],
-    [
-      "Supreme Court overrules Chevron deference [pdf]",
-      "https://www.supremecourt.gov/opinions/23pdf/22-451_7m58.pdf"
     ]
   ],
   [
@@ -191,6 +151,16 @@
   ],
   [
     [
+      "2024-06-28, 12:00:14",
+      "https://news.ycombinator.com/item?id=40819757"
+    ],
+    [
+      "Substack (YC W18) is hiring systems engineers",
+      "https://grnh.se/4f362fed5us"
+    ]
+  ],
+  [
+    [
       "2024-06-28, 11:35:34",
       "https://news.ycombinator.com/item?id=40819617"
     ],
@@ -211,6 +181,36 @@
   ],
   [
     [
+      "2024-06-28, 11:05:40",
+      "https://news.ycombinator.com/item?id=40819440"
+    ],
+    [
+      "Understanding React Compiler",
+      "https://tonyalicea.dev/blog/understanding-react-compiler/"
+    ]
+  ],
+  [
+    [
+      "2024-06-28, 09:31:12",
+      "https://news.ycombinator.com/item?id=40819025"
+    ],
+    [
+      "WA man set up fake free WiFi at airports and on flights, police allege",
+      "https://www.theguardian.com/technology/article/2024/jun/28/wa-man-fake-free-wifi-airports-data-theft-ntwnfb"
+    ]
+  ],
+  [
+    [
+      "2024-06-28, 08:40:44",
+      "https://news.ycombinator.com/item?id=40818809"
+    ],
+    [
+      "Ask HN: What is the best code base you ever worked on?",
+      "https://news.ycombinator.com/item?id=40818809"
+    ]
+  ],
+  [
+    [
       "2024-06-28, 04:54:53",
       "https://news.ycombinator.com/item?id=40817852"
     ],
@@ -221,12 +221,12 @@
   ],
   [
     [
-      "2024-06-27, 23:08:40",
-      "https://news.ycombinator.com/item?id=40816158"
+      "2024-06-28, 02:30:18",
+      "https://news.ycombinator.com/item?id=40817199"
     ],
     [
-      "Infrastructure setup and open-source scripts to train 70B model from bare metal",
-      "https://imbue.com/research/70b-infrastructure/"
+      "Aeon: OpenSUSE for Lazy Developers",
+      "https://lwn.net/Articles/977987/"
     ]
   ],
   [
@@ -237,6 +237,16 @@
     [
       "The loneliness of the low-ranking tennis player",
       "https://www.theguardian.com/sport/article/2024/jun/27/the-loneliness-of-the-low-ranking-tennis-player"
+    ]
+  ],
+  [
+    [
+      "2024-06-27, 17:22:51",
+      "https://news.ycombinator.com/item?id=40812833"
+    ],
+    [
+      "Entrust Certificate Distrust",
+      "https://security.googleblog.com/2024/06/sustaining-digital-certificate-security.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Git-cliff – Generate changelog from the Git history",
       "https://git-cliff.org/"
-    ]
-  ],
-  [
-    [
-      "2024-06-26, 09:18:27",
-      "https://news.ycombinator.com/item?id=40798025"
-    ],
-    [
-      "Moving objects precisely with sound",
-      "https://actu.epfl.ch/news/moving-objects-precisely-with-sound-2/"
     ]
   ]
 ]
