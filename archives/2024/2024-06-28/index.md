@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-28](index.md)
 
+* [2024-06-28, 17:32:15](https://news.ycombinator.com/item?id=40822887) - [Google begs court for relief from Epic Games' Play Store demands](https://www.theregister.com/2024/06/26/google_begs_court_for_relief/)
 * [2024-06-28, 17:29:33](https://news.ycombinator.com/item?id=40822852) - [Notes on implementing dark mode](https://brandur.org/fragments/dark-mode-notes)
 * [2024-06-28, 17:10:47](https://news.ycombinator.com/item?id=40822687) - [Elixir Anti-Patterns](https://hexdocs.pm/elixir/main/code-anti-patterns.html)
 * [2024-06-28, 17:03:06](https://news.ycombinator.com/item?id=40822611) - [SEC vs. Consensys](https://www.docdroid.com/YS1DSF5/sec-v-consensys-pdf)
