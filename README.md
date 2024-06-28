@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-28, 10:17:19](https://news.ycombinator.com/item?id=40819226) - [Conway's Game of Life, in checkboxes for some reason](https://huth.me/checkbox-life/)
 * [2024-06-28, 09:31:12](https://news.ycombinator.com/item?id=40819025) - [WA man set up fake free WiFi at Australian airports and on flights,police allege](https://www.theguardian.com/technology/article/2024/jun/28/wa-man-fake-free-wifi-airports-data-theft-ntwnfb)
 * [2024-06-28, 09:23:55](https://news.ycombinator.com/item?id=40818987) - [Parkinson's Link to Gut Bacteria Suggests Unexpected, Simple Treatment](https://www.sciencealert.com/parkinsons-link-to-gut-bacteria-suggests-unexpected-simple-treatment)
-* [2024-06-28, 08:40:44](https://news.ycombinator.com/item?id=40818809) - [Ask HN: What is the best code base you ever worked on?](https://news.ycombinator.com/item?id=40818809)
+* [2024-06-28, 09:12:56](https://news.ycombinator.com/item?id=40818943) - [Orbital Mechanics and Astrodynamics](https://orbital-mechanics.space/intro.html)
 * [2024-06-28, 07:09:17](https://news.ycombinator.com/item?id=40818422) - [Frame.work laptop now available in Denmark, Finland, and Sweden](https://community.frame.work/t/now-available-in-denmark-finland-and-sweden/53690)
 * [2024-06-28, 04:54:53](https://news.ycombinator.com/item?id=40817852) - [Software galaxies](https://anvaka.github.io/pm/)
 * [2024-06-28, 03:30:08](https://news.ycombinator.com/item?id=40817430) - [Investigating SSMEC's (State Micro) 486s with the UCA](https://x86.fr/investigating-ssmecs-state-micro-486s-with-the-uca/)
@@ -15,7 +16,6 @@
 * [2024-06-27, 21:00:24](https://news.ycombinator.com/item?id=40815046) - [Tesorio (YC S15) Is Hiring a Senior GenAI/LLM Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
 * [2024-06-27, 19:59:18](https://news.ycombinator.com/item?id=40814444) - [My First Kubernetes: k3s 'cluster' on 3 Orange Pi Zero 3's](https://raymii.org/s/tutorials/My_First_Kubernetes_k3s_cluster_on_3_Orange_Pi_Zero_3s_including_k8s_dashboard_hello-node_and_failover.html)
 * [2024-06-27, 19:18:10](https://news.ycombinator.com/item?id=40814011) - [A modern 8 bit design, built using 1950s thermionic valves](https://www.valve.computer/)
-* [2024-06-27, 18:13:51](https://news.ycombinator.com/item?id=40813369) - [Supreme Court blocks controversial Purdue Pharma opioid settlement](https://www.washingtonpost.com/politics/2024/06/27/purdue-pharma-supreme-court-opioid-bankruptcy/)
 * [2024-06-27, 17:09:37](https://news.ycombinator.com/item?id=40812695) - [Remembering Larry Finger, who made Linux wireless work](https://arstechnica.com/gadgets/2024/06/larry-finger-linux-wireless-hero-was-a-persistent-patient-coder-and-mentor/)
 * [2024-06-27, 15:49:17](https://news.ycombinator.com/item?id=40811785) - [The Life Of Lithium](https://www.noemamag.com/the-secret-magical-life-of-lithium/)
 * [2024-06-27, 15:40:23](https://news.ycombinator.com/item?id=40811675) - [Moaan InkPalm Plus is weird, cheap, small, and my kind of e-reader](https://sixcolors.com/post/2024/06/review-moaan-inkpalm-plus-is-weird-cheap-small-and-my-kind-of-e-reader/)

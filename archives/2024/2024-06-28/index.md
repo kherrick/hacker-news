@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-06-28](index.md)
 
+* [2024-06-28, 10:17:19](https://news.ycombinator.com/item?id=40819226) - [Conway's Game of Life, in checkboxes for some reason](https://huth.me/checkbox-life/)
 * [2024-06-28, 09:31:12](https://news.ycombinator.com/item?id=40819025) - [WA man set up fake free WiFi at Australian airports and on flights,police allege](https://www.theguardian.com/technology/article/2024/jun/28/wa-man-fake-free-wifi-airports-data-theft-ntwnfb)
 * [2024-06-28, 09:23:55](https://news.ycombinator.com/item?id=40818987) - [Parkinson's Link to Gut Bacteria Suggests Unexpected, Simple Treatment](https://www.sciencealert.com/parkinsons-link-to-gut-bacteria-suggests-unexpected-simple-treatment)
+* [2024-06-28, 09:12:56](https://news.ycombinator.com/item?id=40818943) - [Orbital Mechanics and Astrodynamics](https://orbital-mechanics.space/intro.html)
 * [2024-06-28, 08:40:44](https://news.ycombinator.com/item?id=40818809) - [Ask HN: What is the best code base you ever worked on?](https://news.ycombinator.com/item?id=40818809)
 * [2024-06-28, 07:09:17](https://news.ycombinator.com/item?id=40818422) - [Frame.work laptop now available in Denmark, Finland, and Sweden](https://community.frame.work/t/now-available-in-denmark-finland-and-sweden/53690)
 * [2024-06-28, 05:20:36](https://news.ycombinator.com/item?id=40817970) - [Supercomputer-on-a-chip goes live: single PCIe card packs more than 6k cores](https://www.techradar.com/pro/supercomputer-on-a-chip-goes-live-single-pcie-card-packs-more-than-6000-risc-v-cores-with-the-ability-to-scale-to-more-than-360000-cores-but-startup-still-remains-elusive-on-pricing)
