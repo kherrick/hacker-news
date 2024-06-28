@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-28](index.md)
 
+* [2024-06-28, 19:21:41](https://news.ycombinator.com/item?id=40824191) - [US removes Gaza aid pier due to weather and may not put it back, officials say](https://apnews.com/article/gaza-pier-humanitarian-aid-f3e21c072630c0d9cb9498d3a0e27a55)
 * [2024-06-28, 18:54:20](https://news.ycombinator.com/item?id=40823850) - [US Supreme Court allows cities to ban homeless camps](https://www.bbc.com/news/articles/cj774nxrpy7o)
+* [2024-06-28, 18:52:15](https://news.ycombinator.com/item?id=40823817) - [LLMs now write lots of science. Good](https://www.economist.com/leaders/2024/06/27/llms-now-write-lots-of-science-good)
 * [2024-06-28, 18:39:32](https://news.ycombinator.com/item?id=40823670) - [The NSA Wants Carte Blanche for Warrantless Surveillance](https://www.thenation.com/article/world/nsa-warrantless-surveillance/)
 * [2024-06-28, 18:36:32](https://news.ycombinator.com/item?id=40823632) - [Show HN: Six Degrees of Reform UK – Mapping the UK's Entrepreneurial Far Right](https://adu.autonomy.work/posts/2024_06_28_reform/)
 * [2024-06-28, 17:32:15](https://news.ycombinator.com/item?id=40822887) - [Google begs court for relief from Epic Games' Play Store demands](https://www.theregister.com/2024/06/26/google_begs_court_for_relief/)
