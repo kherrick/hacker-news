@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-28, 13:39:46](https://news.ycombinator.com/item?id=40820521) - [Former IT employee accessed data of over 1M US patients](https://www.bleepingcomputer.com/news/security/former-it-employee-accessed-data-of-over-1-million-us-patients/)
+* [2024-06-28, 14:12:13](https://news.ycombinator.com/item?id=40820777) - [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/index.html)
+* [2024-06-28, 13:21:24](https://news.ycombinator.com/item?id=40820372) - [Entrust certificates will not be trusted in Chrome 127+](https://groups.google.com/a/ccadb.org/g/public/c/29CRLOPM6OM/m/-tvW5l-lAAAJ)
 * [2024-06-28, 12:41:22](https://news.ycombinator.com/item?id=40820063) - [New ways to catch gravitational waves](https://www.nature.com/articles/d41586-024-02003-6)
 * [2024-06-28, 12:04:56](https://news.ycombinator.com/item?id=40819784) - [Is Clear Air Turbulence becoming more common?](https://www.flightradar24.com/blog/is-cat-more-common/)
 * [2024-06-28, 12:00:14](https://news.ycombinator.com/item?id=40819757) - [Substack Is Hiring Systems Engineers to Build a New Economic Engine for Culture](https://grnh.se/4f362fed5us)
@@ -13,7 +14,6 @@
 * [2024-06-28, 02:14:05](https://news.ycombinator.com/item?id=40817139) - [Hardware FPGA DPS-8M Mainframe and FNP Project](https://dps8m.gitlab.io/blog/posts/20240622_FPGA/)
 * [2024-06-28, 02:01:46](https://news.ycombinator.com/item?id=40817079) - [The Death of NYC Congestion Pricing](https://www.apricitas.io/p/the-death-of-nyc-congestion-pricing)
 * [2024-06-27, 23:08:40](https://news.ycombinator.com/item?id=40816158) - [Infrastructure set-up & open-source scripts to train a 70B model from bare metal](https://imbue.com/research/70b-infrastructure/)
-* [2024-06-27, 21:09:54](https://news.ycombinator.com/item?id=40815139) - [200 people charged in $2.7B health care fraud crackdown](https://apnews.com/article/justice-department-health-care-fraud-garland-24948b951896d0f265c29ba3fcacf858)
 * [2024-06-27, 19:18:10](https://news.ycombinator.com/item?id=40814011) - [A modern 8 bit design, built using 1950s thermionic valves](https://www.valve.computer/)
 * [2024-06-27, 18:13:51](https://news.ycombinator.com/item?id=40813369) - [Supreme Court blocks controversial Purdue Pharma opioid settlement](https://www.washingtonpost.com/politics/2024/06/27/purdue-pharma-supreme-court-opioid-bankruptcy/)
 * [2024-06-27, 17:27:18](https://news.ycombinator.com/item?id=40812879) - [Redis Alternative at Apache Software Foundation Now Supports RediSearch and SQL](https://kvrocks.apache.org/blog/kqir-query-engine/)

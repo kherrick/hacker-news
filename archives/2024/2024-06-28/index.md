@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-28](index.md)
 
+* [2024-06-28, 14:12:13](https://news.ycombinator.com/item?id=40820777) - [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/index.html)
 * [2024-06-28, 13:39:46](https://news.ycombinator.com/item?id=40820521) - [Former IT employee accessed data of over 1M US patients](https://www.bleepingcomputer.com/news/security/former-it-employee-accessed-data-of-over-1-million-us-patients/)
+* [2024-06-28, 13:21:24](https://news.ycombinator.com/item?id=40820372) - [Entrust certificates will not be trusted in Chrome 127+](https://groups.google.com/a/ccadb.org/g/public/c/29CRLOPM6OM/m/-tvW5l-lAAAJ)
 * [2024-06-28, 12:41:22](https://news.ycombinator.com/item?id=40820063) - [Five new ways to catch gravitational waves – and the secrets they'll reveal](https://www.nature.com/articles/d41586-024-02003-6)
 * [2024-06-28, 12:12:16](https://news.ycombinator.com/item?id=40819849) - [Microsoft forgot to renew their Office CDN certificate](https://old.reddit.com/r/sysadmin/comments/1dqf332/microsoft_ssl_cert_expired/)
 * [2024-06-28, 12:04:56](https://news.ycombinator.com/item?id=40819784) - [Is Clear Air Turbulence becoming more common?](https://www.flightradar24.com/blog/is-cat-more-common/)
