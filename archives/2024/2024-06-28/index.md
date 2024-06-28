@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-28](index.md)
 
 * [2024-06-28, 10:17:19](https://news.ycombinator.com/item?id=40819226) - [Conway's Game of Life, in checkboxes for some reason](https://huth.me/checkbox-life/)
+* [2024-06-28, 10:05:21](https://news.ycombinator.com/item?id=40819184) - [Two million checkboxes (written in Elixir)](https://twomillioncheckboxes.com)
 * [2024-06-28, 09:31:12](https://news.ycombinator.com/item?id=40819025) - [WA man set up fake free WiFi at Australian airports and on flights,police allege](https://www.theguardian.com/technology/article/2024/jun/28/wa-man-fake-free-wifi-airports-data-theft-ntwnfb)
 * [2024-06-28, 09:23:55](https://news.ycombinator.com/item?id=40818987) - [Parkinson's Link to Gut Bacteria Suggests Unexpected, Simple Treatment](https://www.sciencealert.com/parkinsons-link-to-gut-bacteria-suggests-unexpected-simple-treatment)
 * [2024-06-28, 09:12:56](https://news.ycombinator.com/item?id=40818943) - [Orbital Mechanics and Astrodynamics](https://orbital-mechanics.space/intro.html)
