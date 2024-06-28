@@ -62,6 +62,7 @@
 * [2024-06-26, 11:43:56](https://news.ycombinator.com/item?id=40798828) - [Flame Graphs: Making the opaque obvious (2017)](https://tech.popdata.org/Flame-Graphs-Performance-Tuning-Made-Easy/)
 * [2024-06-26, 11:30:04](https://news.ycombinator.com/item?id=40798740) - [gRPC: The Bad Parts](https://kmcd.dev/posts/grpc-the-bad-parts/)
 * [2024-06-26, 10:44:52](https://news.ycombinator.com/item?id=40798473) - [Indonesia is trying to block LGBTQIA content from the internet](https://restofworld.org/2024/indonesia-broadcasting-law-lgbtqia/)
+* [2024-06-26, 10:43:45](https://news.ycombinator.com/item?id=40798469) - [Git-cliff – Generate changelog from the Git history](https://git-cliff.org/)
 * [2024-06-26, 09:55:32](https://news.ycombinator.com/item?id=40798224) - [The Point of the Banach Tarski Theorem](https://www.solipsys.co.uk/new/ThePointOfTheBanachTarskiTheorem.html?xf26hn)
 * [2024-06-26, 09:55:32](https://news.ycombinator.com/item?id=40798224) - [The Point of the Banach Tarski Theorem (2015)](https://www.solipsys.co.uk/new/ThePointOfTheBanachTarskiTheorem.html)
 * [2024-06-26, 09:18:37](https://news.ycombinator.com/item?id=40798026) - [Ask HN: Should I stay at my default dead startup or go and do something else?](https://news.ycombinator.com/item?id=40798026)

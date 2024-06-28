@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-28](index.md)
 
+* [2024-06-28, 02:36:40](https://news.ycombinator.com/item?id=40817227) - [Space Ghost: Coast to Coast and the Birth of the Weird (2016)](https://www.vulture.com/2016/10/space-ghost-coast-to-coast-and-the-birth-of-the-weird.html)
 * [2024-06-28, 02:30:18](https://news.ycombinator.com/item?id=40817199) - [Aeon: OpenSUSE for Lazy Developers](https://lwn.net/Articles/977987/)
 * [2024-06-28, 02:14:05](https://news.ycombinator.com/item?id=40817139) - [Hardware FPGA DPS-8M Mainframe and FNP Project](https://dps8m.gitlab.io/blog/posts/20240622_FPGA/)
 * [2024-06-28, 02:01:46](https://news.ycombinator.com/item?id=40817079) - [The Death of NYC Congestion Pricing](https://www.apricitas.io/p/the-death-of-nyc-congestion-pricing)
@@ -13,3 +14,4 @@
 * [2024-06-28, 01:00:54](https://news.ycombinator.com/item?id=40816823) - [Why I Resigned From The Anthropic Board](https://lukemuehlhauser.com/why-i-resigned-from-the-anthropic-board/)
 * [2024-06-28, 00:56:28](https://news.ycombinator.com/item?id=40816795) - [Everything I Knew About Stretching Was Wrong](https://tylertringas.com/mobility/)
 * [2024-06-28, 00:50:35](https://news.ycombinator.com/item?id=40816755) - [Gwern comments on Ilya Sutskever depature from OpenAI, among other topics](https://old.reddit.com/r/mlscaling/comments/1djoqjh/ilya_sutskever_launches_safe_superintelligence_a/l9uogp9/)
+* [2024-06-28, 00:27:32](https://news.ycombinator.com/item?id=40816649) - [Geely releases new LFP battery with fast charging and energy density of 192Wh/kg](https://cnevpost.com/2024/06/27/geely-releases-aegis-short-blade-battery/)
