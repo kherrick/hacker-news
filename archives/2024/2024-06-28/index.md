@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-06-28](index.md)
 
+* [2024-06-28, 17:29:33](https://news.ycombinator.com/item?id=40822852) - [Notes on implementing dark mode](https://brandur.org/fragments/dark-mode-notes)
+* [2024-06-28, 17:10:47](https://news.ycombinator.com/item?id=40822687) - [Elixir Anti-Patterns](https://hexdocs.pm/elixir/main/code-anti-patterns.html)
 * [2024-06-28, 17:03:06](https://news.ycombinator.com/item?id=40822611) - [SEC vs. Consensys](https://www.docdroid.com/YS1DSF5/sec-v-consensys-pdf)
 * [2024-06-28, 17:01:48](https://news.ycombinator.com/item?id=40822591) - [Our Underground Future (2012)](https://www.bostonglobe.com/ideas/2012/06/23/underground-space/PvxyWFdXXYhPPlQVVU0a8K/story.html)
 * [2024-06-28, 17:00:34](https://news.ycombinator.com/item?id=40822579) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2024-06-28, 17:00:16](https://news.ycombinator.com/item?id=40822577) - [Real Chaos, Today – Randomised controlled trials in economics](https://someunpleasant.substack.com/p/real-chaos-today)
 * [2024-06-28, 16:58:35](https://news.ycombinator.com/item?id=40822555) - [I tried to finish a dead man's novel](https://thewalrus.ca/i-tried-to-finish-a-dead-mans-novel/)
+* [2024-06-28, 16:54:55](https://news.ycombinator.com/item?id=40822512) - [Llama-agents: an async-first framework for building production ready agents](https://github.com/run-llama/llama-agents)
 * [2024-06-28, 16:54:49](https://news.ycombinator.com/item?id=40822511) - [The Origins of Yiddish (2014)](https://www.tabletmag.com/sections/arts-letters/articles/yiddishland)
 * [2024-06-28, 16:45:34](https://news.ycombinator.com/item?id=40822426) - [Discovered June 16th, large asteroid to pass between Earth and moon on Saturday](https://www.cbc.ca/news/science/asteroid-2024mk-1.7247336)
 * [2024-06-28, 16:41:57](https://news.ycombinator.com/item?id=40822383) - [Google cuts ties with Entrust in Chrome over trust issues](https://www.theregister.com/2024/06/28/google_axes_entrust_over_six/)
