@@ -1,13 +1,13 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-27, 21:30:31](https://news.ycombinator.com/item?id=40815345) - [US sanctions Boeing for sharing information about 737 MAX 9 investigation](https://apnews.com/article/boeing-ntsb-alaska-airlines-737-max-89e5655184516b4c54a9378414fe4cea)
+* [2024-06-28, 01:10:59](https://news.ycombinator.com/item?id=40816874) - [Satisfaction with Democracy Has Declined in Recent Years in High-Income Nations](https://www.pewresearch.org/short-reads/2024/06/18/satisfaction-with-democracy-has-declined-in-recent-years-in-high-income-nations/)
+* [2024-06-28, 01:00:54](https://news.ycombinator.com/item?id=40816823) - [Why I Resigned From The Anthropic Board](https://lukemuehlhauser.com/why-i-resigned-from-the-anthropic-board/)
+* [2024-06-28, 00:50:35](https://news.ycombinator.com/item?id=40816755) - [Gwern comments on Ilya Sutskever depature from OpenAI, among other topics](https://old.reddit.com/r/mlscaling/comments/1djoqjh/ilya_sutskever_launches_safe_superintelligence_a/l9uogp9/)
+* [2024-06-27, 22:31:17](https://news.ycombinator.com/item?id=40815896) - [Create HTML/ZIP/PNG Polyglot Files in JavaScript](https://github.com/gildas-lormeau/Polyglot-HTML-ZIP-PNG)
 * [2024-06-27, 21:09:54](https://news.ycombinator.com/item?id=40815139) - [200 people charged in $2.7B health care fraud crackdown](https://apnews.com/article/justice-department-health-care-fraud-garland-24948b951896d0f265c29ba3fcacf858)
 * [2024-06-27, 21:09:11](https://news.ycombinator.com/item?id=40815130) - [Python grapples with Apple App Store rejections](https://lwn.net/SubscriberLink/979671/4fb7c1827536d1ae/)
 * [2024-06-27, 21:05:51](https://news.ycombinator.com/item?id=40815097) - [Maker of RStudio launches new R and Python IDE](https://www.infoworld.com/article/3715702/maker-of-rstudio-launches-new-r-and-python-ide.html)
-* [2024-06-27, 21:02:45](https://news.ycombinator.com/item?id=40815074) - [TeamViewer Security Breach](https://www.teamviewer.com/en/resources/trust-center/statement/)
 * [2024-06-27, 21:00:24](https://news.ycombinator.com/item?id=40815046) - [Tesorio (YC S15) Is Hiring a Senior GenAI/LLM Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
-* [2024-06-27, 20:16:58](https://news.ycombinator.com/item?id=40814612) - [A dev's thoughts on developer productivity (2022)](https://sourcegraph.com/blog/developer-productivity-thoughts)
-* [2024-06-27, 20:09:12](https://news.ycombinator.com/item?id=40814536) - [Large Language Models are not a search engine](https://cyberneticforests.substack.com/p/a-hallucinogenic-compendium)
 * [2024-06-27, 19:18:10](https://news.ycombinator.com/item?id=40814011) - [A modern 8 bit design, built using 1950s thermionic valves](https://www.valve.computer/)
 * [2024-06-27, 18:13:51](https://news.ycombinator.com/item?id=40813369) - [Supreme Court blocks controversial Purdue Pharma opioid settlement](https://www.washingtonpost.com/politics/2024/06/27/purdue-pharma-supreme-court-opioid-bankruptcy/)
 * [2024-06-27, 17:46:21](https://news.ycombinator.com/item?id=40813077) - [Misconceptions about loops in C](https://dl.acm.org/doi/10.1145/3652588.3663324)
@@ -19,7 +19,6 @@
 * [2024-06-27, 14:35:34](https://news.ycombinator.com/item?id=40810986) - [Launch HN: Hatchet (YC W24) – Open-source task queue, now with a cloud version](https://news.ycombinator.com/item?id=40810986)
 * [2024-06-27, 14:32:35](https://news.ycombinator.com/item?id=40810949) - [Open Sourcing Kinopio](https://pketh.org/open-sourcing-kinopio.html)
 * [2024-06-27, 14:18:46](https://news.ycombinator.com/item?id=40810802) - [Gemma 2: Improving Open Language Models at a Practical Size [pdf]](https://storage.googleapis.com/deepmind-media/gemma/gemma-2-report.pdf)
-* [2024-06-27, 14:16:26](https://news.ycombinator.com/item?id=40810776) - [Not everything is behavioral science](https://behavioralscientist.org/is-everything-bs/)
 * [2024-06-27, 10:06:18](https://news.ycombinator.com/item?id=40808933) - [Lessons I Wish I Had Been Taught (1996) [pdf]](https://www.ams.org/notices/199701/comm-rota.pdf)
 * [2024-06-27, 09:34:09](https://news.ycombinator.com/item?id=40808820) - [Google Sheets ported its calculation worker from JavaScript to WasmGC](https://web.dev/case-studies/google-sheets-wasmgc)
 * [2024-06-27, 07:07:08](https://news.ycombinator.com/item?id=40808110) - [Flow Charts with CSS Anchor Positioning](https://coryrylan.com/blog/flow-charts-with-css-anchor-positioning)
@@ -30,6 +29,7 @@
 * [2024-06-26, 08:45:44](https://news.ycombinator.com/item?id=40797790) - [FDA warns top U.S. bakery not to claim foods contain allergens when they don't](https://www.npr.org/2024/06/26/g-s1-6238/fda-warns-bakery-foods-allergens)
 * [2024-06-26, 05:28:09](https://news.ycombinator.com/item?id=40796697) - [Show HN: Dorkly – Open source feature flags](https://github.com/dorklyorg/dorkly/wiki)
 * [2024-06-25, 15:44:38](https://news.ycombinator.com/item?id=40790008) - [Igneous Linearizer: semi-structured source code](https://domain-j.com/Igneous-Linearizer/uuid/9e30337c-b890-4fd9-a0bd-51a7aa6e65b0)
+* [2024-06-23, 18:50:08](https://news.ycombinator.com/item?id=40769636) - [How electronic ignition works and also how to make a spark plug play music](https://www.theautopian.com/this-is-how-electronic-ignition-works-and-also-how-to-make-a-spark-plug-play-music/)
 
 ## [Archives](archives/index.md)
 
