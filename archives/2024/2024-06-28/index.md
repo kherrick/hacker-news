@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-28](index.md)
 
+* [2024-06-28, 18:54:20](https://news.ycombinator.com/item?id=40823850) - [US Supreme Court allows cities to ban homeless camps](https://www.bbc.com/news/articles/cj774nxrpy7o)
+* [2024-06-28, 18:39:32](https://news.ycombinator.com/item?id=40823670) - [The NSA Wants Carte Blanche for Warrantless Surveillance](https://www.thenation.com/article/world/nsa-warrantless-surveillance/)
+* [2024-06-28, 18:36:32](https://news.ycombinator.com/item?id=40823632) - [Show HN: Six Degrees of Reform UK – Mapping the UK's Entrepreneurial Far Right](https://adu.autonomy.work/posts/2024_06_28_reform/)
 * [2024-06-28, 17:32:15](https://news.ycombinator.com/item?id=40822887) - [Google begs court for relief from Epic Games' Play Store demands](https://www.theregister.com/2024/06/26/google_begs_court_for_relief/)
 * [2024-06-28, 17:29:33](https://news.ycombinator.com/item?id=40822852) - [Notes on implementing dark mode](https://brandur.org/fragments/dark-mode-notes)
 * [2024-06-28, 17:10:47](https://news.ycombinator.com/item?id=40822687) - [Elixir Anti-Patterns](https://hexdocs.pm/elixir/main/code-anti-patterns.html)
