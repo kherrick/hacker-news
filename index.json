@@ -1,46 +1,6 @@
 [
   [
     [
-      "2024-06-28, 01:10:59",
-      "https://news.ycombinator.com/item?id=40816874"
-    ],
-    [
-      "Satisfaction with Democracy Has Declined in Recent Years in High-Income Nations",
-      "https://www.pewresearch.org/short-reads/2024/06/18/satisfaction-with-democracy-has-declined-in-recent-years-in-high-income-nations/"
-    ]
-  ],
-  [
-    [
-      "2024-06-28, 01:00:54",
-      "https://news.ycombinator.com/item?id=40816823"
-    ],
-    [
-      "Why I Resigned From The Anthropic Board",
-      "https://lukemuehlhauser.com/why-i-resigned-from-the-anthropic-board/"
-    ]
-  ],
-  [
-    [
-      "2024-06-28, 00:50:35",
-      "https://news.ycombinator.com/item?id=40816755"
-    ],
-    [
-      "Gwern comments on Ilya Sutskever depature from OpenAI, among other topics",
-      "https://old.reddit.com/r/mlscaling/comments/1djoqjh/ilya_sutskever_launches_safe_superintelligence_a/l9uogp9/"
-    ]
-  ],
-  [
-    [
-      "2024-06-27, 22:31:17",
-      "https://news.ycombinator.com/item?id=40815896"
-    ],
-    [
-      "Create HTML/ZIP/PNG Polyglot Files in JavaScript",
-      "https://github.com/gildas-lormeau/Polyglot-HTML-ZIP-PNG"
-    ]
-  ],
-  [
-    [
       "2024-06-27, 21:09:54",
       "https://news.ycombinator.com/item?id=40815139"
     ],
@@ -81,12 +41,32 @@
   ],
   [
     [
+      "2024-06-27, 20:16:58",
+      "https://news.ycombinator.com/item?id=40814612"
+    ],
+    [
+      "A dev's thoughts on developer productivity (2022)",
+      "https://sourcegraph.com/blog/developer-productivity-thoughts"
+    ]
+  ],
+  [
+    [
       "2024-06-27, 19:18:10",
       "https://news.ycombinator.com/item?id=40814011"
     ],
     [
       "A modern 8 bit design, built using 1950s thermionic valves",
       "https://www.valve.computer/"
+    ]
+  ],
+  [
+    [
+      "2024-06-27, 18:15:16",
+      "https://news.ycombinator.com/item?id=40813384"
+    ],
+    [
+      "Astronauts take shelter in Starliner, other spacecraft after satellite breakup",
+      "https://www.space.com/iss-astronauts-shelter-return-spacecraft-satellite-breakup"
     ]
   ],
   [
@@ -161,6 +141,16 @@
   ],
   [
     [
+      "2024-06-27, 14:57:13",
+      "https://news.ycombinator.com/item?id=40811225"
+    ],
+    [
+      "Aromatic compounds: A ring made up solely of metal atoms",
+      "https://www.uni-heidelberg.de/en/newsroom/aromatic-compounds-a-ring-made-up-solely-of-metal-atoms"
+    ]
+  ],
+  [
+    [
       "2024-06-27, 14:35:34",
       "https://news.ycombinator.com/item?id=40810986"
     ],
@@ -191,6 +181,16 @@
   ],
   [
     [
+      "2024-06-27, 14:16:26",
+      "https://news.ycombinator.com/item?id=40810776"
+    ],
+    [
+      "Not everything is behavioral science",
+      "https://behavioralscientist.org/is-everything-bs/"
+    ]
+  ],
+  [
+    [
       "2024-06-27, 10:06:18",
       "https://news.ycombinator.com/item?id=40808933"
     ],
@@ -211,22 +211,22 @@
   ],
   [
     [
-      "2024-06-27, 07:07:08",
-      "https://news.ycombinator.com/item?id=40808110"
-    ],
-    [
-      "Flow Charts with CSS Anchor Positioning",
-      "https://coryrylan.com/blog/flow-charts-with-css-anchor-positioning"
-    ]
-  ],
-  [
-    [
       "2024-06-27, 00:05:05",
       "https://news.ycombinator.com/item?id=40805949"
     ],
     [
       "ID verification service for TikTok, Uber, X exposed driver licenses",
       "https://www.404media.co/id-verification-service-for-tiktok-uber-x-exposed-driver-licenses-au10tix/"
+    ]
+  ],
+  [
+    [
+      "2024-06-26, 20:31:37",
+      "https://news.ycombinator.com/item?id=40804294"
+    ],
+    [
+      "Show HN: A Modern Palletization App",
+      "https://github.com/VladM7/Stack-Solver"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2024-06-23, 18:50:08",
-      "https://news.ycombinator.com/item?id=40769636"
+      "2024-06-23, 17:37:56",
+      "https://news.ycombinator.com/item?id=40769109"
     ],
     [
-      "How electronic ignition works and also how to make a spark plug play music",
-      "https://www.theautopian.com/this-is-how-electronic-ignition-works-and-also-how-to-make-a-spark-plug-play-music/"
+      "Visual Z80 Remix",
+      "https://floooh.github.io/visualz80remix/"
     ]
   ]
 ]
