@@ -1,5 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-28, 11:20:09](https://news.ycombinator.com/item?id=40819517) - [Japan's Mini Kei-Truck Sales Surge in US Despite Safety Concerns](https://www.bloomberg.com/news/articles/2024-06-27/japan-s-mini-kei-truck-sales-surge-in-us-despite-safety-concerns)
+* [2024-06-28, 11:05:40](https://news.ycombinator.com/item?id=40819440) - [Understanding React Compiler](https://tonyalicea.dev/blog/understanding-react-compiler/)
+* [2024-06-28, 11:04:00](https://news.ycombinator.com/item?id=40819437) - [Make Something With Your Hands (Even if It’s Hideous)](https://www.nytimes.com/2024/06/28/well/mind/hand-crafts-creation-art.html)
 * [2024-06-28, 10:17:19](https://news.ycombinator.com/item?id=40819226) - [Conway's Game of Life, in checkboxes for some reason](https://huth.me/checkbox-life/)
 * [2024-06-28, 10:05:21](https://news.ycombinator.com/item?id=40819184) - [Two million checkboxes (written in Elixir)](https://twomillioncheckboxes.com)
 * [2024-06-28, 09:31:12](https://news.ycombinator.com/item?id=40819025) - [WA man set up fake free WiFi at Australian airports and on flights,police allege](https://www.theguardian.com/technology/article/2024/jun/28/wa-man-fake-free-wifi-airports-data-theft-ntwnfb)
@@ -12,9 +15,6 @@
 * [2024-06-28, 02:14:05](https://news.ycombinator.com/item?id=40817139) - [Hardware FPGA DPS-8M Mainframe and FNP Project](https://dps8m.gitlab.io/blog/posts/20240622_FPGA/)
 * [2024-06-28, 02:01:46](https://news.ycombinator.com/item?id=40817079) - [The Death of NYC Congestion Pricing](https://www.apricitas.io/p/the-death-of-nyc-congestion-pricing)
 * [2024-06-27, 23:08:40](https://news.ycombinator.com/item?id=40816158) - [Infrastructure set-up & open-source scripts to train a 70B model from bare metal](https://imbue.com/research/70b-infrastructure/)
-* [2024-06-27, 21:09:54](https://news.ycombinator.com/item?id=40815139) - [200 people charged in $2.7B health care fraud crackdown](https://apnews.com/article/justice-department-health-care-fraud-garland-24948b951896d0f265c29ba3fcacf858)
-* [2024-06-27, 21:05:51](https://news.ycombinator.com/item?id=40815097) - [Maker of RStudio launches new R and Python IDE](https://www.infoworld.com/article/3715702/maker-of-rstudio-launches-new-r-and-python-ide.html)
-* [2024-06-27, 21:00:24](https://news.ycombinator.com/item?id=40815046) - [Tesorio (YC S15) Is Hiring a Senior GenAI/LLM Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
 * [2024-06-27, 19:59:18](https://news.ycombinator.com/item?id=40814444) - [My First Kubernetes: k3s 'cluster' on 3 Orange Pi Zero 3's](https://raymii.org/s/tutorials/My_First_Kubernetes_k3s_cluster_on_3_Orange_Pi_Zero_3s_including_k8s_dashboard_hello-node_and_failover.html)
 * [2024-06-27, 19:18:10](https://news.ycombinator.com/item?id=40814011) - [A modern 8 bit design, built using 1950s thermionic valves](https://www.valve.computer/)
 * [2024-06-27, 17:09:37](https://news.ycombinator.com/item?id=40812695) - [Remembering Larry Finger, who made Linux wireless work](https://arstechnica.com/gadgets/2024/06/larry-finger-linux-wireless-hero-was-a-persistent-patient-coder-and-mentor/)
