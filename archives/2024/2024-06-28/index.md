@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-06-28](index.md)
 
+* [2024-06-28, 17:00:34](https://news.ycombinator.com/item?id=40822579) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
+* [2024-06-28, 16:41:57](https://news.ycombinator.com/item?id=40822383) - [Google cuts ties with Entrust in Chrome over trust issues](https://www.theregister.com/2024/06/28/google_axes_entrust_over_six/)
 * [2024-06-28, 16:21:02](https://news.ycombinator.com/item?id=40822186) - [Milk-V Reveals Technical Specs of Milk-V Jupiter RISC-V Mini-ITX PC](https://linuxgizmos.com/milk-v-reveals-technical-specs-of-milk-v-jupiter-risc-v-mini-itx-pc/)
 * [2024-06-28, 16:01:43](https://news.ycombinator.com/item?id=40821994) - [Microsoft informs customers that Russian hackers spied on emails](https://www.reuters.com/technology/cybersecurity/microsoft-tells-clients-russian-hackers-viewed-emails-bloomberg-news-reports-2024-06-27/)
 * [2024-06-28, 15:42:24](https://news.ycombinator.com/item?id=40821790) - [New Covid Shots Recommended for Americans 6 Months and Older This Fall](https://www.nytimes.com/2024/06/27/health/covid-vaccines-seniors-children.html)
+* [2024-06-28, 15:36:04](https://news.ycombinator.com/item?id=40821734) - [Mourning Daniel Bristot de Oliveira](https://lwn.net/Articles/979912/)
 * [2024-06-28, 15:19:34](https://news.ycombinator.com/item?id=40821525) - [Ryanair Boeing 737 MAX plunges 2,000ft in 17 seconds](https://www.standard.co.uk/news/london/ryanair-boeing-flight-plunge-stansted-airport-landing-investigation-b1167274.html)
 * [2024-06-28, 14:37:19](https://news.ycombinator.com/item?id=40821016) - [Zuckerberg disses closed-source AI competitors as trying to 'create God'](https://techcrunch.com/2024/06/27/zuckerberg-disses-closed-source-ai-competitors-as-trying-to-create-god/)
 * [2024-06-28, 14:36:13](https://news.ycombinator.com/item?id=40821007) - [Supreme Court overrules Chevron deference [pdf]](https://www.supremecourt.gov/opinions/23pdf/22-451_7m58.pdf)
