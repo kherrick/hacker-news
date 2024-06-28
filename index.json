@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2024-06-28, 12:46:50",
-      "https://news.ycombinator.com/item?id=40820098"
-    ],
-    [
-      "What actual purpose do accent characters in ISO-8859-1 and Windows 1252 serve?",
-      "https://retrocomputing.stackexchange.com/questions/30261/what-actual-purpose-do-accent-characters-in-iso-8859-1-and-windows-1252-serve"
-    ]
-  ],
-  [
-    [
       "2024-06-28, 12:41:22",
       "https://news.ycombinator.com/item?id=40820063"
     ],
@@ -297,6 +287,16 @@
     [
       "Will we ever get fusion power?",
       "https://www.construction-physics.com/p/will-we-ever-get-fusion-power"
+    ]
+  ],
+  [
+    [
+      "2024-06-26, 10:43:45",
+      "https://news.ycombinator.com/item?id=40798469"
+    ],
+    [
+      "Git-cliff – Generate changelog from the Git history",
+      "https://git-cliff.org/"
     ]
   ]
 ]
