@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-28](index.md)
 
+* [2024-06-28, 02:30:18](https://news.ycombinator.com/item?id=40817199) - [Aeon: OpenSUSE for Lazy Developers](https://lwn.net/Articles/977987/)
 * [2024-06-28, 02:14:05](https://news.ycombinator.com/item?id=40817139) - [Hardware FPGA DPS-8M Mainframe and FNP Project](https://dps8m.gitlab.io/blog/posts/20240622_FPGA/)
 * [2024-06-28, 02:01:46](https://news.ycombinator.com/item?id=40817079) - [The Death of NYC Congestion Pricing](https://www.apricitas.io/p/the-death-of-nyc-congestion-pricing)
 * [2024-06-28, 01:59:01](https://news.ycombinator.com/item?id=40817068) - [Surprise the Latest 'Comprehensive' US Privacy Bill Is Doomed](https://www.wired.com/story/apra-privacy-bill-doomed/)
