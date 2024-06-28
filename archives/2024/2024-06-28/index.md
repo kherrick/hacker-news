@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-28](index.md)
 
+* [2024-06-28, 22:59:05](https://news.ycombinator.com/item?id=40826236) - [A Eulogy for DevOps](https://matduggan.com/a-eulogy-for-devops/)
 * [2024-06-28, 22:05:29](https://news.ycombinator.com/item?id=40825774) - [you should probably have a kid](https://benexdict.io/p/you-should-probably-have-a-kid)
 * [2024-06-28, 21:52:28](https://news.ycombinator.com/item?id=40825660) - [Paramount Wipes South Park, Daily Show Clips, and More from Websites](https://www.gamespot.com/articles/paramount-wipes-south-park-daily-show-clips-and-more-from-websites/1100-6524578/)
 * [2024-06-28, 21:41:24](https://news.ycombinator.com/item?id=40825570) - [Migrating from Java 8 to Java 17 II: Notable API Changes Since Java 8](https://igorstechnoclub.com/notable-api-changes-in-java-from-version-8-to-17/)
