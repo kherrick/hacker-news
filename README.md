@@ -1,10 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-28, 17:32:15](https://news.ycombinator.com/item?id=40822887) - [Google begs court for relief from Epic Games' Play Store demands](https://www.theregister.com/2024/06/26/google_begs_court_for_relief/)
 * [2024-06-28, 17:10:47](https://news.ycombinator.com/item?id=40822687) - [Elixir Anti-Patterns](https://hexdocs.pm/elixir/main/code-anti-patterns.html)
 * [2024-06-28, 17:01:48](https://news.ycombinator.com/item?id=40822591) - [Our Underground Future (2012)](https://www.bostonglobe.com/ideas/2012/06/23/underground-space/PvxyWFdXXYhPPlQVVU0a8K/story.html)
 * [2024-06-28, 17:00:16](https://news.ycombinator.com/item?id=40822577) - [Real Chaos, Today – Randomised controlled trials in economics](https://someunpleasant.substack.com/p/real-chaos-today)
-* [2024-06-28, 16:58:35](https://news.ycombinator.com/item?id=40822555) - [I tried to finish a dead man's novel](https://thewalrus.ca/i-tried-to-finish-a-dead-mans-novel/)
 * [2024-06-28, 16:56:08](https://news.ycombinator.com/item?id=40822522) - [What Happened to People Magazine?](https://annehelen.substack.com/p/what-happened-to-people-magazine)
 * [2024-06-28, 16:54:55](https://news.ycombinator.com/item?id=40822512) - [Llama-agents: an async-first framework for building production ready agents](https://github.com/run-llama/llama-agents)
 * [2024-06-28, 16:54:49](https://news.ycombinator.com/item?id=40822511) - [The Origins of Yiddish (2014)](https://www.tabletmag.com/sections/arts-letters/articles/yiddishland)
@@ -25,9 +23,11 @@
 * [2024-06-28, 04:54:53](https://news.ycombinator.com/item?id=40817852) - [Software galaxies](https://anvaka.github.io/pm/)
 * [2024-06-28, 03:50:00](https://news.ycombinator.com/item?id=40817524) - [Einstein and his peers were 'irrationally resistant' to black holes](https://www.bbc.com/future/article/20240619-why-albert-einstein-rejected-black-holes-singularities-illustrated-story)
 * [2024-06-28, 02:30:18](https://news.ycombinator.com/item?id=40817199) - [Aeon: OpenSUSE for Lazy Developers](https://lwn.net/Articles/977987/)
+* [2024-06-27, 17:36:36](https://news.ycombinator.com/item?id=40812976) - [The Bleak Genius of Michel Foucault](https://www.compactmag.com/article/the-bleak-genius-of-michel-foucault/)
+* [2024-06-27, 17:23:55](https://news.ycombinator.com/item?id=40812846) - [The loneliness of the low-ranking tennis player](https://www.theguardian.com/sport/article/2024/jun/27/the-loneliness-of-the-low-ranking-tennis-player)
 * [2024-06-27, 17:22:51](https://news.ycombinator.com/item?id=40812833) - [Entrust Certificate Distrust](https://security.googleblog.com/2024/06/sustaining-digital-certificate-security.html)
+* [2024-06-27, 16:36:08](https://news.ycombinator.com/item?id=40812359) - [The greatest social media site is Craigslist](https://slate.com/technology/2024/06/craigslist-craig-newmark-best-social-media-site-facebook-tiktok-instagram.html)
 * [2024-06-26, 21:44:45](https://news.ycombinator.com/item?id=40804946) - [Out of sight, 'dark fungi' run the world from the shadows](https://www.scientificamerican.com/article/mysterious-dark-fungi-are-lurking-everywhere/)
-* [2024-06-26, 20:05:42](https://news.ycombinator.com/item?id=40804069) - [ELIZA Reinterpreted: The world's first chatbot was not intended as a chatbot](https://arxiv.org/abs/2406.17650)
 * [2024-06-26, 17:44:49](https://news.ycombinator.com/item?id=40802484) - [Taking a closer look at AI's supposed energy apocalypse](https://arstechnica.com/ai/2024/06/is-generative-ai-really-going-to-wreak-havoc-on-the-power-grid/)
 * [2024-06-25, 14:32:15](https://news.ycombinator.com/item?id=40789143) - [The art of saying no without saying no](https://yamamoto-ls.com/en/archives/post-566)
 
