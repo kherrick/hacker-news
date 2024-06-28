@@ -2,7 +2,6 @@
 
 * [2024-06-28, 16:21:02](https://news.ycombinator.com/item?id=40822186) - [Milk-V Reveals Technical Specs of Milk-V Jupiter RISC-V Mini-ITX PC](https://linuxgizmos.com/milk-v-reveals-technical-specs-of-milk-v-jupiter-risc-v-mini-itx-pc/)
 * [2024-06-28, 16:01:43](https://news.ycombinator.com/item?id=40821994) - [Microsoft informs customers that Russian hackers spied on emails](https://www.reuters.com/technology/cybersecurity/microsoft-tells-clients-russian-hackers-viewed-emails-bloomberg-news-reports-2024-06-27/)
-* [2024-06-28, 15:42:24](https://news.ycombinator.com/item?id=40821790) - [New Covid Shots Recommended for Americans 6 Months and Older This Fall](https://www.nytimes.com/2024/06/27/health/covid-vaccines-seniors-children.html)
 * [2024-06-28, 13:14:36](https://news.ycombinator.com/item?id=40820311) - [Apple II graphics: More than you wanted to know](https://nicole.express/2024/phasing-in-and-out-of-existence.html)
 * [2024-06-28, 12:41:22](https://news.ycombinator.com/item?id=40820063) - [New ways to catch gravitational waves](https://www.nature.com/articles/d41586-024-02003-6)
 * [2024-06-28, 12:04:56](https://news.ycombinator.com/item?id=40819784) - [Is Clear Air Turbulence becoming more common?](https://www.flightradar24.com/blog/is-cat-more-common/)
@@ -23,6 +22,7 @@
 * [2024-06-27, 14:35:34](https://news.ycombinator.com/item?id=40810986) - [Launch HN: Hatchet (YC W24) – Open-source task queue, now with a cloud version](https://news.ycombinator.com/item?id=40810986)
 * [2024-06-27, 14:32:35](https://news.ycombinator.com/item?id=40810949) - [Open Sourcing Kinopio](https://pketh.org/open-sourcing-kinopio.html)
 * [2024-06-27, 14:18:46](https://news.ycombinator.com/item?id=40810802) - [Gemma 2: Improving Open Language Models at a Practical Size [pdf]](https://storage.googleapis.com/deepmind-media/gemma/gemma-2-report.pdf)
+* [2024-06-27, 14:16:26](https://news.ycombinator.com/item?id=40810776) - [Not everything is behavioral science](https://behavioralscientist.org/is-everything-bs/)
 * [2024-06-27, 00:05:05](https://news.ycombinator.com/item?id=40805949) - [ID verification service for TikTok, Uber, X exposed driver licenses](https://www.404media.co/id-verification-service-for-tiktok-uber-x-exposed-driver-licenses-au10tix/)
 * [2024-06-26, 11:59:13](https://news.ycombinator.com/item?id=40798939) - [Spudguns: Potato Cannon Guide](http://www.spudguns.org/)
 * [2024-06-26, 11:43:56](https://news.ycombinator.com/item?id=40798828) - [Flame Graphs: Making the opaque obvious (2017)](https://tech.popdata.org/Flame-Graphs-Performance-Tuning-Made-Easy/)
