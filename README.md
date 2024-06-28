@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-28, 12:41:22](https://news.ycombinator.com/item?id=40820063) - [Five new ways to catch gravitational waves – and the secrets they'll reveal](https://www.nature.com/articles/d41586-024-02003-6)
+* [2024-06-28, 13:39:46](https://news.ycombinator.com/item?id=40820521) - [Former IT employee accessed data of over 1M US patients](https://www.bleepingcomputer.com/news/security/former-it-employee-accessed-data-of-over-1-million-us-patients/)
+* [2024-06-28, 12:41:22](https://news.ycombinator.com/item?id=40820063) - [New ways to catch gravitational waves](https://www.nature.com/articles/d41586-024-02003-6)
 * [2024-06-28, 12:04:56](https://news.ycombinator.com/item?id=40819784) - [Is Clear Air Turbulence becoming more common?](https://www.flightradar24.com/blog/is-cat-more-common/)
 * [2024-06-28, 12:00:14](https://news.ycombinator.com/item?id=40819757) - [Substack Is Hiring Systems Engineers to Build a New Economic Engine for Culture](https://grnh.se/4f362fed5us)
 * [2024-06-28, 11:35:34](https://news.ycombinator.com/item?id=40819617) - [A Novel way to curb poaching, injecting radioisotopes into 20 live rhinoceros](https://www.wits.ac.za/news/latest-news/general-news/2024/2024-06/a-novel-way-to-save-rhinos-.html)
@@ -27,7 +28,6 @@
 * [2024-06-26, 11:43:56](https://news.ycombinator.com/item?id=40798828) - [Flame Graphs: Making the opaque obvious (2017)](https://tech.popdata.org/Flame-Graphs-Performance-Tuning-Made-Easy/)
 * [2024-06-26, 10:43:45](https://news.ycombinator.com/item?id=40798469) - [Git-cliff – Generate changelog from the Git history](https://git-cliff.org/)
 * [2024-06-26, 09:18:27](https://news.ycombinator.com/item?id=40798025) - [Moving objects precisely with sound](https://actu.epfl.ch/news/moving-objects-precisely-with-sound-2/)
-* [2024-06-26, 08:45:44](https://news.ycombinator.com/item?id=40797790) - [FDA warns top U.S. bakery not to claim foods contain allergens when they don't](https://www.npr.org/2024/06/26/g-s1-6238/fda-warns-bakery-foods-allergens)
 * [2024-06-26, 06:26:44](https://news.ycombinator.com/item?id=40796980) - [Navigating Starlink's FCC Paper Trail](https://blog.apnic.net/2024/06/26/navigating-starlinks-fcc-paper-trail/)
 * [2024-06-26, 05:28:09](https://news.ycombinator.com/item?id=40796697) - [Show HN: Dorkly – Open source feature flags](https://github.com/dorklyorg/dorkly/wiki)
 
