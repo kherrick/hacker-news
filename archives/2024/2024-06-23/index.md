@@ -43,6 +43,7 @@
 * [2024-06-23, 17:48:22](https://news.ycombinator.com/item?id=40769186) - [How to Design an ISA](https://cacm.acm.org/practice/how-to-design-an-isa/)
 * [2024-06-23, 17:42:02](https://news.ycombinator.com/item?id=40769145) - [Optimizing the Roc parser/compiler with data-oriented design](https://tweedegolf.nl/en/blog/88/data-oriented-design)
 * [2024-06-23, 17:38:13](https://news.ycombinator.com/item?id=40769112) - [I'm Switching from Laravel to Rails](https://old.reddit.com/r/rails/comments/1dkcegr/im_switching_from_laravel_to_rails/)
+* [2024-06-23, 17:37:56](https://news.ycombinator.com/item?id=40769109) - [Visual Z80 Remix](https://floooh.github.io/visualz80remix/)
 * [2024-06-23, 17:24:33](https://news.ycombinator.com/item?id=40769006) - [First we shape our social graph, then it shapes us (2022)](https://www.henrikkarlsson.xyz/p/first-we-shape-our-social-graph-then)
 * [2024-06-23, 17:22:52](https://news.ycombinator.com/item?id=40769001) - [The tiny chip that powers Montreal subway tickets](http://www.righto.com/2024/06/montreal-mifare-ultralight-nfc.html)
 * [2024-06-23, 17:17:12](https://news.ycombinator.com/item?id=40768959) - [How automotive radar measures the velocity of objects](https://www.viksnewsletter.com/p/how-automotive-radar-measures-velocity)
