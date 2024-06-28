@@ -28,6 +28,7 @@
 * [2024-06-28, 09:31:12](https://news.ycombinator.com/item?id=40819025) - [WA man set up fake free WiFi at Australian airports and on flights,police allege](https://www.theguardian.com/technology/article/2024/jun/28/wa-man-fake-free-wifi-airports-data-theft-ntwnfb)
 * [2024-06-28, 09:23:55](https://news.ycombinator.com/item?id=40818987) - [Parkinson's Link to Gut Bacteria Suggests Unexpected, Simple Treatment](https://www.sciencealert.com/parkinsons-link-to-gut-bacteria-suggests-unexpected-simple-treatment)
 * [2024-06-28, 09:12:56](https://news.ycombinator.com/item?id=40818943) - [Orbital Mechanics and Astrodynamics](https://orbital-mechanics.space/intro.html)
+* [2024-06-28, 08:59:37](https://news.ycombinator.com/item?id=40818879) - [The Simplest Way to Control Nvidia GPU Fan Speed in Linux](https://github.com/RoversX/nvidia_fan_control_linux)
 * [2024-06-28, 08:40:44](https://news.ycombinator.com/item?id=40818809) - [Ask HN: What is the best code base you ever worked on?](https://news.ycombinator.com/item?id=40818809)
 * [2024-06-28, 07:09:17](https://news.ycombinator.com/item?id=40818422) - [Frame.work laptop now available in Denmark, Finland, and Sweden](https://community.frame.work/t/now-available-in-denmark-finland-and-sweden/53690)
 * [2024-06-28, 06:30:32](https://news.ycombinator.com/item?id=40818268) - [Hype Cycle for Enterprise Architecture](https://einarwh.github.io/hypecycle.html)
