@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-28, 15:19:34](https://news.ycombinator.com/item?id=40821525) - [Ryanair Boeing 737 MAX plunges 2,000ft in 17 seconds](https://www.standard.co.uk/news/london/ryanair-boeing-flight-plunge-stansted-airport-landing-investigation-b1167274.html)
 * [2024-06-28, 13:35:12](https://news.ycombinator.com/item?id=40820494) - [ChatGPT is hallucinating fake links to its news partners' biggest investigations](https://www.niemanlab.org/2024/06/chatgpt-is-hallucinating-fake-links-to-its-news-partners-biggest-investigations/)
 * [2024-06-28, 13:14:36](https://news.ycombinator.com/item?id=40820311) - [Apple II graphics: More than you wanted to know](https://nicole.express/2024/phasing-in-and-out-of-existence.html)
 * [2024-06-28, 12:41:22](https://news.ycombinator.com/item?id=40820063) - [New ways to catch gravitational waves](https://www.nature.com/articles/d41586-024-02003-6)
@@ -16,7 +17,6 @@
 * [2024-06-28, 02:01:46](https://news.ycombinator.com/item?id=40817079) - [The Death of NYC Congestion Pricing](https://www.apricitas.io/p/the-death-of-nyc-congestion-pricing)
 * [2024-06-27, 23:08:40](https://news.ycombinator.com/item?id=40816158) - [Infrastructure setup and open-source scripts to train 70B model from bare metal](https://imbue.com/research/70b-infrastructure/)
 * [2024-06-27, 19:18:10](https://news.ycombinator.com/item?id=40814011) - [A modern 8 bit design, built using 1950s thermionic valves](https://www.valve.computer/)
-* [2024-06-27, 18:13:51](https://news.ycombinator.com/item?id=40813369) - [Supreme Court blocks controversial Purdue Pharma opioid settlement](https://www.washingtonpost.com/politics/2024/06/27/purdue-pharma-supreme-court-opioid-bankruptcy/)
 * [2024-06-27, 17:09:37](https://news.ycombinator.com/item?id=40812695) - [Remembering Larry Finger, who made Linux wireless work](https://arstechnica.com/gadgets/2024/06/larry-finger-linux-wireless-hero-was-a-persistent-patient-coder-and-mentor/)
 * [2024-06-27, 15:49:17](https://news.ycombinator.com/item?id=40811785) - [The Life Of Lithium](https://www.noemamag.com/the-secret-magical-life-of-lithium/)
 * [2024-06-27, 15:40:23](https://news.ycombinator.com/item?id=40811675) - [Moaan InkPalm Plus is weird, cheap, small, and my kind of e-reader](https://sixcolors.com/post/2024/06/review-moaan-inkpalm-plus-is-weird-cheap-small-and-my-kind-of-e-reader/)

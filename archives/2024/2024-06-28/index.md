@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-28](index.md)
 
+* [2024-06-28, 15:19:34](https://news.ycombinator.com/item?id=40821525) - [Ryanair Boeing 737 MAX plunges 2,000ft in 17 seconds](https://www.standard.co.uk/news/london/ryanair-boeing-flight-plunge-stansted-airport-landing-investigation-b1167274.html)
 * [2024-06-28, 14:37:19](https://news.ycombinator.com/item?id=40821016) - [Zuckerberg disses closed-source AI competitors as trying to 'create God'](https://techcrunch.com/2024/06/27/zuckerberg-disses-closed-source-ai-competitors-as-trying-to-create-god/)
 * [2024-06-28, 14:36:13](https://news.ycombinator.com/item?id=40821007) - [Supreme Court overrules Chevron deference [pdf]](https://www.supremecourt.gov/opinions/23pdf/22-451_7m58.pdf)
 * [2024-06-28, 14:31:12](https://news.ycombinator.com/item?id=40820949) - [Supreme Court guts agency power in seismic Chevron ruling](https://www.axios.com/2024/06/28/supreme-court-chevron-doctrine-ruling)
