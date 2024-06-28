@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-28, 19:21:41](https://news.ycombinator.com/item?id=40824191) - [US removes Gaza aid pier due to weather and may not put it back, officials say](https://apnews.com/article/gaza-pier-humanitarian-aid-f3e21c072630c0d9cb9498d3a0e27a55)
-* [2024-06-28, 18:52:15](https://news.ycombinator.com/item?id=40823817) - [LLMs now write lots of science. Good](https://www.economist.com/leaders/2024/06/27/llms-now-write-lots-of-science-good)
+* [2024-06-28, 19:32:46](https://news.ycombinator.com/item?id=40824324) - [Microsoft a national security threat says ex-White House cyber policy director](https://forums.theregister.com/forum/all/2024/04/21/microsoft_national_security_risk/)
 * [2024-06-28, 18:36:32](https://news.ycombinator.com/item?id=40823632) - [Show HN: Six Degrees of Reform UK – Mapping the UK's Entrepreneurial Far Right](https://adu.autonomy.work/posts/2024_06_28_reform/)
-* [2024-06-28, 17:10:47](https://news.ycombinator.com/item?id=40822687) - [Elixir Anti-Patterns](https://hexdocs.pm/elixir/main/code-anti-patterns.html)
+* [2024-06-28, 17:01:48](https://news.ycombinator.com/item?id=40822591) - [Our Underground Future (2012)](https://www.bostonglobe.com/ideas/2012/06/23/underground-space/PvxyWFdXXYhPPlQVVU0a8K/story.html)
 * [2024-06-28, 17:00:16](https://news.ycombinator.com/item?id=40822577) - [Real Chaos, Today – Randomised controlled trials in economics](https://someunpleasant.substack.com/p/real-chaos-today)
 * [2024-06-28, 16:56:08](https://news.ycombinator.com/item?id=40822522) - [What Happened to People Magazine?](https://annehelen.substack.com/p/what-happened-to-people-magazine)
 * [2024-06-28, 16:54:55](https://news.ycombinator.com/item?id=40822512) - [Llama-agents: an async-first framework for building production ready agents](https://github.com/run-llama/llama-agents)
@@ -20,7 +19,6 @@
 * [2024-06-28, 12:00:14](https://news.ycombinator.com/item?id=40819757) - [Substack (YC W18) is hiring systems engineers](https://grnh.se/4f362fed5us)
 * [2024-06-28, 11:35:34](https://news.ycombinator.com/item?id=40819617) - [The Rhisotope Project: Insertion of radioisotopes into live rhinoceros](https://www.wits.ac.za/news/latest-news/general-news/2024/2024-06/a-novel-way-to-save-rhinos-.html)
 * [2024-06-28, 11:12:15](https://news.ycombinator.com/item?id=40819479) - [Meta LLM Compiler: neural optimizer and disassembler](https://twitter.com/AIatMeta/status/1806361623831171318/photo/1)
-* [2024-06-28, 09:31:12](https://news.ycombinator.com/item?id=40819025) - [WA man set up fake free WiFi at airports and on flights, police allege](https://www.theguardian.com/technology/article/2024/jun/28/wa-man-fake-free-wifi-airports-data-theft-ntwnfb)
 * [2024-06-28, 08:40:44](https://news.ycombinator.com/item?id=40818809) - [Ask HN: What is the best code base you ever worked on?](https://news.ycombinator.com/item?id=40818809)
 * [2024-06-28, 04:54:53](https://news.ycombinator.com/item?id=40817852) - [Software galaxies](https://anvaka.github.io/pm/)
 * [2024-06-28, 03:50:00](https://news.ycombinator.com/item?id=40817524) - [Einstein and his peers were 'irrationally resistant' to black holes](https://www.bbc.com/future/article/20240619-why-albert-einstein-rejected-black-holes-singularities-illustrated-story)
@@ -30,6 +28,8 @@
 * [2024-06-27, 17:22:51](https://news.ycombinator.com/item?id=40812833) - [Entrust Certificate Distrust](https://security.googleblog.com/2024/06/sustaining-digital-certificate-security.html)
 * [2024-06-27, 16:36:08](https://news.ycombinator.com/item?id=40812359) - [The greatest social media site is Craigslist](https://slate.com/technology/2024/06/craigslist-craig-newmark-best-social-media-site-facebook-tiktok-instagram.html)
 * [2024-06-26, 21:44:45](https://news.ycombinator.com/item?id=40804946) - [Out of sight, 'dark fungi' run the world from the shadows](https://www.scientificamerican.com/article/mysterious-dark-fungi-are-lurking-everywhere/)
+* [2024-06-26, 20:31:37](https://news.ycombinator.com/item?id=40804294) - [Show HN: A Modern Palletization App](https://github.com/VladM7/Stack-Solver)
+* [2024-06-26, 20:05:42](https://news.ycombinator.com/item?id=40804069) - [ELIZA Reinterpreted: The world's first chatbot was not intended as a chatbot](https://arxiv.org/abs/2406.17650)
 
 ## [Archives](archives/index.md)
 
