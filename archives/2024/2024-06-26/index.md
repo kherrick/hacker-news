@@ -79,6 +79,7 @@
 * [2024-06-26, 06:56:58](https://news.ycombinator.com/item?id=40797130) - [Google dropping continuous scroll in search results](https://searchengineland.com/google-dropping-continuous-scroll-in-search-results-443529)
 * [2024-06-26, 06:46:56](https://news.ycombinator.com/item?id=40797070) - [Why blue animals are so rare](https://www.popsci.com/environment/why-blue-animals-are-rare/)
 * [2024-06-26, 06:33:20](https://news.ycombinator.com/item?id=40797011) - [Visa, Mastercard $30B swipe fee settlement rejected by US judge](https://www.reuters.com/legal/us-judge-rejects-visa-mastercard-30-bln-swipe-fee-settlement-2024-06-25/)
+* [2024-06-26, 06:26:44](https://news.ycombinator.com/item?id=40796980) - [Navigating Starlink's FCC Paper Trail](https://blog.apnic.net/2024/06/26/navigating-starlinks-fcc-paper-trail/)
 * [2024-06-26, 06:19:06](https://news.ycombinator.com/item?id=40796950) - [Volkswagen invests up to $5B in Rivian](https://www.bloomberg.com/news/articles/2024-06-25/vw-invests-5-billion-in-ev-startup-rivian-to-form-joint-venture)
 * [2024-06-26, 06:17:49](https://news.ycombinator.com/item?id=40796946) - [Remote shell to a Raspberry Pi at 39,000 ft](https://www.jeffgeerling.com/blog/2024/remote-shell-raspberry-pi-39000-ft)
 * [2024-06-26, 05:43:06](https://news.ycombinator.com/item?id=40796771) - [The many faces of undefined in JavaScript](https://mortoray.com/the-many-faces-of-undefined-in-javascript/)
