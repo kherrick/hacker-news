@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-06-28, 12:00:14",
+      "https://news.ycombinator.com/item?id=40819757"
+    ],
+    [
+      "Substack Is Hiring Systems Engineers to Build a New Economic Engine for Culture",
+      "https://grnh.se/4f362fed5us"
+    ]
+  ],
+  [
+    [
+      "2024-06-28, 11:37:42",
+      "https://news.ycombinator.com/item?id=40819628"
+    ],
+    [
+      "Perplexity's Grand Theft AI",
+      "https://www.theverge.com/2024/6/27/24187405/perplexity-ai-twitter-lie-plagiarism"
+    ]
+  ],
+  [
+    [
+      "2024-06-28, 11:35:34",
+      "https://news.ycombinator.com/item?id=40819617"
+    ],
+    [
+      "A Novel way to curb poaching, injecting radioisotopes into 20 live rhinoceros",
+      "https://www.wits.ac.za/news/latest-news/general-news/2024/2024-06/a-novel-way-to-save-rhinos-.html"
+    ]
+  ],
+  [
+    [
       "2024-06-28, 11:20:09",
       "https://news.ycombinator.com/item?id=40819517"
     ],
@@ -131,32 +161,12 @@
   ],
   [
     [
-      "2024-06-28, 02:01:46",
-      "https://news.ycombinator.com/item?id=40817079"
-    ],
-    [
-      "The Death of NYC Congestion Pricing",
-      "https://www.apricitas.io/p/the-death-of-nyc-congestion-pricing"
-    ]
-  ],
-  [
-    [
       "2024-06-27, 23:08:40",
       "https://news.ycombinator.com/item?id=40816158"
     ],
     [
       "Infrastructure set-up & open-source scripts to train a 70B model from bare metal",
       "https://imbue.com/research/70b-infrastructure/"
-    ]
-  ],
-  [
-    [
-      "2024-06-27, 19:59:18",
-      "https://news.ycombinator.com/item?id=40814444"
-    ],
-    [
-      "My First Kubernetes: k3s 'cluster' on 3 Orange Pi Zero 3's",
-      "https://raymii.org/s/tutorials/My_First_Kubernetes_k3s_cluster_on_3_Orange_Pi_Zero_3s_including_k8s_dashboard_hello-node_and_failover.html"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Launch HN: Hatchet (YC W24) – Open-source task queue, now with a cloud version",
       "https://news.ycombinator.com/item?id=40810986"
-    ]
-  ],
-  [
-    [
-      "2024-06-27, 14:32:35",
-      "https://news.ycombinator.com/item?id=40810949"
-    ],
-    [
-      "Open Sourcing Kinopio",
-      "https://pketh.org/open-sourcing-kinopio.html"
     ]
   ],
   [
