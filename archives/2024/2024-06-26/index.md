@@ -66,6 +66,7 @@
 * [2024-06-26, 09:55:32](https://news.ycombinator.com/item?id=40798224) - [The Point of the Banach Tarski Theorem](https://www.solipsys.co.uk/new/ThePointOfTheBanachTarskiTheorem.html?xf26hn)
 * [2024-06-26, 09:55:32](https://news.ycombinator.com/item?id=40798224) - [The Point of the Banach Tarski Theorem (2015)](https://www.solipsys.co.uk/new/ThePointOfTheBanachTarskiTheorem.html)
 * [2024-06-26, 09:18:37](https://news.ycombinator.com/item?id=40798026) - [Ask HN: Should I stay at my default dead startup or go and do something else?](https://news.ycombinator.com/item?id=40798026)
+* [2024-06-26, 09:18:27](https://news.ycombinator.com/item?id=40798025) - [Moving objects precisely with sound](https://actu.epfl.ch/news/moving-objects-precisely-with-sound-2/)
 * [2024-06-26, 09:16:04](https://news.ycombinator.com/item?id=40798008) - [Show HN: Scene-AI powered all-in-one web design workspace](https://www.scene.io/)
 * [2024-06-26, 09:11:13](https://news.ycombinator.com/item?id=40797969) - [Matthew Garrett: \"Quick Assange frequent misconceptions thread\"](https://nondeterministic.computer/@mjg59/112679109895486477)
 * [2024-06-26, 08:56:18](https://news.ycombinator.com/item?id=40797858) - [Ask HN: How to pivot to a Machine Learning engineer?](https://news.ycombinator.com/item?id=40797858)
