@@ -23,13 +23,13 @@
 * [2024-06-28, 00:54:39](https://news.ycombinator.com/item?id=40816785) - [Australia's giant lizards help save sheep from being eaten alive](https://phys.org/news/2024-06-australia-giant-lizards-sheep-eaten.html)
 * [2024-06-27, 17:36:36](https://news.ycombinator.com/item?id=40812976) - [The Bleak Genius of Michel Foucault](https://www.compactmag.com/article/the-bleak-genius-of-michel-foucault/)
 * [2024-06-27, 17:23:55](https://news.ycombinator.com/item?id=40812846) - [The loneliness of the low-ranking tennis player](https://www.theguardian.com/sport/article/2024/jun/27/the-loneliness-of-the-low-ranking-tennis-player)
-* [2024-06-27, 17:22:51](https://news.ycombinator.com/item?id=40812833) - [Entrust Certificate Distrust](https://security.googleblog.com/2024/06/sustaining-digital-certificate-security.html)
 * [2024-06-27, 16:36:08](https://news.ycombinator.com/item?id=40812359) - [The greatest social media site is Craigslist](https://slate.com/technology/2024/06/craigslist-craig-newmark-best-social-media-site-facebook-tiktok-instagram.html)
 * [2024-06-26, 21:44:45](https://news.ycombinator.com/item?id=40804946) - [Out of sight, 'dark fungi' run the world from the shadows](https://www.scientificamerican.com/article/mysterious-dark-fungi-are-lurking-everywhere/)
 * [2024-06-26, 20:31:37](https://news.ycombinator.com/item?id=40804294) - [Show HN: A Modern Palletization App](https://github.com/VladM7/Stack-Solver)
 * [2024-06-26, 20:05:42](https://news.ycombinator.com/item?id=40804069) - [ELIZA Reinterpreted: The world's first chatbot was not intended as a chatbot](https://arxiv.org/abs/2406.17650)
 * [2024-06-26, 12:06:35](https://news.ycombinator.com/item?id=40799006) - [Will we ever get fusion power?](https://www.construction-physics.com/p/will-we-ever-get-fusion-power)
 * [2024-06-26, 10:43:45](https://news.ycombinator.com/item?id=40798469) - [Git-cliff – Generate changelog from the Git history](https://git-cliff.org/)
+* [2024-06-25, 11:28:01](https://news.ycombinator.com/item?id=40787124) - [It's Getting Harder to Die](https://www.plough.com/en/topics/life/aging/its-getting-harder-to-die)
 
 ## [Archives](archives/index.md)
 
