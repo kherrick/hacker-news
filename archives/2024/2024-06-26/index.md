@@ -50,6 +50,7 @@
 * [2024-06-26, 13:22:46](https://news.ycombinator.com/item?id=40799747) - [Video: Linux sucks 2024 (Bryan Lunduke) [video]](https://www.youtube.com/watch?v=58mLZyShQjQ)
 * [2024-06-26, 13:17:57](https://news.ycombinator.com/item?id=40799699) - [Should people who quit get unemployment benefits, too?](https://www.vox.com/future-perfect/356461/unemployment-benefits-insurance-quitting-capitalism-economy)
 * [2024-06-26, 12:33:50](https://news.ycombinator.com/item?id=40799262) - [Show HN: Rubbrband – A hosted ComfyUI alternative for image generation](https://news.ycombinator.com/item?id=40799262)
+* [2024-06-26, 12:29:46](https://news.ycombinator.com/item?id=40799217) - [Trailer (As Opposite to HTTP Header)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Trailer)
 * [2024-06-26, 12:29:17](https://news.ycombinator.com/item?id=40799213) - [Paul Allen's Computer Museum to Be Auctioned](https://hackaday.com/2024/06/25/paul-allens-living-computers-museum-and-labs-to-be-auctioned/)
 * [2024-06-26, 12:15:46](https://news.ycombinator.com/item?id=40799090) - [Ghosts in the (Macintosh) ROM](https://www.nycresistor.com/2012/08/21/ghosts-in-the-rom/)
 * [2024-06-26, 12:10:05](https://news.ycombinator.com/item?id=40799038) - [Half of Workers Around the World Are Struggling with Burnout](https://www.bcg.com/press/11june2024-half-of-workers-around-the-world-struggling-with-burnout)

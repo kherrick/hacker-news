@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-28](index.md)
 
 * [2024-06-28, 02:14:05](https://news.ycombinator.com/item?id=40817139) - [Hardware FPGA DPS-8M Mainframe and FNP Project](https://dps8m.gitlab.io/blog/posts/20240622_FPGA/)
+* [2024-06-28, 02:01:46](https://news.ycombinator.com/item?id=40817079) - [The Death of NYC Congestion Pricing](https://www.apricitas.io/p/the-death-of-nyc-congestion-pricing)
 * [2024-06-28, 01:59:01](https://news.ycombinator.com/item?id=40817068) - [Surprise the Latest 'Comprehensive' US Privacy Bill Is Doomed](https://www.wired.com/story/apra-privacy-bill-doomed/)
 * [2024-06-28, 01:58:36](https://news.ycombinator.com/item?id=40817066) - [El Niño forecasts extended to 18 months with physics-based model](https://phys.org/news/2024-06-el-nio-months-physics-based.html)
 * [2024-06-28, 01:10:59](https://news.ycombinator.com/item?id=40816874) - [Satisfaction with Democracy Has Declined in Recent Years in High-Income Nations](https://www.pewresearch.org/short-reads/2024/06/18/satisfaction-with-democracy-has-declined-in-recent-years-in-high-income-nations/)
