@@ -1,12 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-28, 13:58:04](https://news.ycombinator.com/item?id=40820656) - [TeamViewer confirms Russian spies hacked its corporate network](https://stackdiary.com/teamviewer-says-that-there-has-been-a-security-incident/)
 * [2024-06-28, 13:35:12](https://news.ycombinator.com/item?id=40820494) - [ChatGPT is hallucinating fake links to its news partners' biggest investigations](https://www.niemanlab.org/2024/06/chatgpt-is-hallucinating-fake-links-to-its-news-partners-biggest-investigations/)
 * [2024-06-28, 13:14:36](https://news.ycombinator.com/item?id=40820311) - [Apple II graphics: More than you wanted to know](https://nicole.express/2024/phasing-in-and-out-of-existence.html)
 * [2024-06-28, 12:41:22](https://news.ycombinator.com/item?id=40820063) - [New ways to catch gravitational waves](https://www.nature.com/articles/d41586-024-02003-6)
 * [2024-06-28, 12:04:56](https://news.ycombinator.com/item?id=40819784) - [Is Clear Air Turbulence becoming more common?](https://www.flightradar24.com/blog/is-cat-more-common/)
 * [2024-06-28, 12:00:14](https://news.ycombinator.com/item?id=40819757) - [Substack Is Hiring Systems Engineers to Build a New Economic Engine for Culture](https://grnh.se/4f362fed5us)
-* [2024-06-28, 11:35:34](https://news.ycombinator.com/item?id=40819617) - [A Novel way to curb poaching, injecting radioisotopes into 20 live rhinoceros](https://www.wits.ac.za/news/latest-news/general-news/2024/2024-06/a-novel-way-to-save-rhinos-.html)
+* [2024-06-28, 11:35:34](https://news.ycombinator.com/item?id=40819617) - [The Rhisotope Project: Insertion of radioisotopes into live rhinoceros](https://www.wits.ac.za/news/latest-news/general-news/2024/2024-06/a-novel-way-to-save-rhinos-.html)
 * [2024-06-28, 11:05:40](https://news.ycombinator.com/item?id=40819440) - [Understanding React Compiler](https://tonyalicea.dev/blog/understanding-react-compiler/)
 * [2024-06-28, 04:54:53](https://news.ycombinator.com/item?id=40817852) - [Software galaxies](https://anvaka.github.io/pm/)
 * [2024-06-28, 04:13:49](https://news.ycombinator.com/item?id=40817644) - [Pulsar – A Community-Led Hyper-Hackable Text Editor](https://pulsar-edit.dev/)
@@ -28,6 +27,7 @@
 * [2024-06-26, 11:43:56](https://news.ycombinator.com/item?id=40798828) - [Flame Graphs: Making the opaque obvious (2017)](https://tech.popdata.org/Flame-Graphs-Performance-Tuning-Made-Easy/)
 * [2024-06-26, 10:43:45](https://news.ycombinator.com/item?id=40798469) - [Git-cliff – Generate changelog from the Git history](https://git-cliff.org/)
 * [2024-06-26, 09:18:27](https://news.ycombinator.com/item?id=40798025) - [Moving objects precisely with sound](https://actu.epfl.ch/news/moving-objects-precisely-with-sound-2/)
+* [2024-06-26, 08:45:44](https://news.ycombinator.com/item?id=40797790) - [FDA warns top U.S. bakery not to claim foods contain allergens when they don't](https://www.npr.org/2024/06/26/g-s1-6238/fda-warns-bakery-foods-allergens)
 * [2024-06-26, 06:26:44](https://news.ycombinator.com/item?id=40796980) - [Navigating Starlink's FCC Paper Trail](https://blog.apnic.net/2024/06/26/navigating-starlinks-fcc-paper-trail/)
 * [2024-06-26, 05:28:09](https://news.ycombinator.com/item?id=40796697) - [Show HN: Dorkly – Open source feature flags](https://github.com/dorklyorg/dorkly/wiki)
 
