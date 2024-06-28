@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-28](index.md)
 
 * [2024-06-28, 19:32:46](https://news.ycombinator.com/item?id=40824324) - [Microsoft a national security threat says ex-White House cyber policy director](https://forums.theregister.com/forum/all/2024/04/21/microsoft_national_security_risk/)
+* [2024-06-28, 19:23:43](https://news.ycombinator.com/item?id=40824209) - [Pompeii Fixed Potholes with Molten Iron](https://www.smithsonianmag.com/smart-news/pompeii-fixed-potholes-molten-iron-180972203/)
 * [2024-06-28, 19:21:41](https://news.ycombinator.com/item?id=40824191) - [US removes Gaza aid pier due to weather and may not put it back, officials say](https://apnews.com/article/gaza-pier-humanitarian-aid-f3e21c072630c0d9cb9498d3a0e27a55)
 * [2024-06-28, 18:54:20](https://news.ycombinator.com/item?id=40823850) - [US Supreme Court allows cities to ban homeless camps](https://www.bbc.com/news/articles/cj774nxrpy7o)
 * [2024-06-28, 18:52:15](https://news.ycombinator.com/item?id=40823817) - [LLMs now write lots of science. Good](https://www.economist.com/leaders/2024/06/27/llms-now-write-lots-of-science-good)
