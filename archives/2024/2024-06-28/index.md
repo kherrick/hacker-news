@@ -23,6 +23,7 @@
 * [2024-06-28, 06:30:32](https://news.ycombinator.com/item?id=40818268) - [Hype Cycle for Enterprise Architecture](https://einarwh.github.io/hypecycle.html)
 * [2024-06-28, 05:20:36](https://news.ycombinator.com/item?id=40817970) - [Supercomputer-on-a-chip goes live: single PCIe card packs more than 6k cores](https://www.techradar.com/pro/supercomputer-on-a-chip-goes-live-single-pcie-card-packs-more-than-6000-risc-v-cores-with-the-ability-to-scale-to-more-than-360000-cores-but-startup-still-remains-elusive-on-pricing)
 * [2024-06-28, 04:54:53](https://news.ycombinator.com/item?id=40817852) - [Software galaxies](https://anvaka.github.io/pm/)
+* [2024-06-28, 04:13:49](https://news.ycombinator.com/item?id=40817644) - [Pulsar – A Community-Led Hyper-Hackable Text Editor](https://pulsar-edit.dev/)
 * [2024-06-28, 03:30:08](https://news.ycombinator.com/item?id=40817430) - [Investigating SSMEC's (State Micro) 486s with the UCA](https://x86.fr/investigating-ssmecs-state-micro-486s-with-the-uca/)
 * [2024-06-28, 02:36:40](https://news.ycombinator.com/item?id=40817227) - [Space Ghost: Coast to Coast and the Birth of the Weird (2016)](https://www.vulture.com/2016/10/space-ghost-coast-to-coast-and-the-birth-of-the-weird.html)
 * [2024-06-28, 02:30:18](https://news.ycombinator.com/item?id=40817199) - [Aeon: OpenSUSE for Lazy Developers](https://lwn.net/Articles/977987/)
