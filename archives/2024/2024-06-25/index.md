@@ -80,6 +80,7 @@
 * [2024-06-25, 11:44:17](https://news.ycombinator.com/item?id=40787276) - [GCC and Clang handle statically known undefined behaviour](https://diekmann.uk/blog/2024-06-25-statically-known-undefined-behaviour.html)
 * [2024-06-25, 11:42:11](https://news.ycombinator.com/item?id=40787255) - [A Day Job Is So Much Easier Than Entrepreneurship](https://www.financialsamurai.com/a-day-job-is-so-much-easier-than-entrepreneurship/)
 * [2024-06-25, 11:39:13](https://news.ycombinator.com/item?id=40787222) - [What's up Python? Django get background tasks, a new REPL, bye bye gunicorn](https://www.bitecode.dev/p/whats-up-python-django-background)
+* [2024-06-25, 11:34:19](https://news.ycombinator.com/item?id=40787176) - [The Magic of Participatory Randomness](https://cryptography.dog/blog/rng-day-2024/)
 * [2024-06-25, 11:28:01](https://news.ycombinator.com/item?id=40787124) - [It's Getting Harder to Die](https://www.plough.com/en/topics/life/aging/its-getting-harder-to-die)
 * [2024-06-25, 11:23:31](https://news.ycombinator.com/item?id=40787083) - [Israeli Supreme Court says ultra-Orthodox must serve in military](https://abcnews.go.com/International/wireStory/israeli-supreme-court-ultra-orthodox-serve-military-111394436)
 * [2024-06-25, 11:22:08](https://news.ycombinator.com/item?id=40787072) - [AI discovers new rare-earth-free magnet at 200 times the speed of man](https://newatlas.com/materials/ai-rare-earth-free-magnet-discovery/)
