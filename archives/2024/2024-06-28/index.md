@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-28](index.md)
 
+* [2024-06-28, 21:22:42](https://news.ycombinator.com/item?id=40825429) - [Windows: Insecure by Design](https://www.theregister.com/2024/06/28/windows_insecure_by_design/)
+* [2024-06-28, 21:16:44](https://news.ycombinator.com/item?id=40825384) - [Woman Tries to Deposit $3K at Bank of America ATM. It Backfires](https://www.dailydot.com/news/bank-of-america-deposit-3000-dollars/)
+* [2024-06-28, 20:39:07](https://news.ycombinator.com/item?id=40825033) - [The true story – as best I can remember – of the origin of Mosaic and Netscape](https://pmarca.substack.com/p/the-true-story-as-best-i-can-remember)
 * [2024-06-28, 19:32:46](https://news.ycombinator.com/item?id=40824324) - [Microsoft a national security threat says ex-White House cyber policy director](https://forums.theregister.com/forum/all/2024/04/21/microsoft_national_security_risk/)
 * [2024-06-28, 19:23:43](https://news.ycombinator.com/item?id=40824209) - [Pompeii Fixed Potholes with Molten Iron](https://www.smithsonianmag.com/smart-news/pompeii-fixed-potholes-molten-iron-180972203/)
 * [2024-06-28, 19:21:41](https://news.ycombinator.com/item?id=40824191) - [US removes Gaza aid pier due to weather and may not put it back, officials say](https://apnews.com/article/gaza-pier-humanitarian-aid-f3e21c072630c0d9cb9498d3a0e27a55)
