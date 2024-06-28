@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-28, 21:52:28](https://news.ycombinator.com/item?id=40825660) - [Paramount Wipes South Park, Daily Show Clips, and More from Websites](https://www.gamespot.com/articles/paramount-wipes-south-park-daily-show-clips-and-more-from-websites/1100-6524578/)
+* [2024-06-28, 21:41:24](https://news.ycombinator.com/item?id=40825570) - [Migrating from Java 8 to Java 17 II: Notable API Changes Since Java 8](https://igorstechnoclub.com/notable-api-changes-in-java-from-version-8-to-17/)
 * [2024-06-28, 21:29:52](https://news.ycombinator.com/item?id=40825483) - [T-Mobile users enraged as \"Un-carrier\" breaks promise to never raise prices](https://arstechnica.com/tech-policy/2024/06/t-mobile-users-enraged-as-un-carrier-breaks-promise-to-never-raise-prices/)
 * [2024-06-28, 20:51:56](https://news.ycombinator.com/item?id=40825169) - [Show HN: Focal, a Pomodoro App](https://aabiji.github.io/focal/)
 * [2024-06-28, 20:49:23](https://news.ycombinator.com/item?id=40825146) - [Open source 'Eclipse Theia IDE' exits beta to challenge Visual Studio Code](https://visualstudiomagazine.com/Articles/2024/06/27/eclipse-theia-ide.aspx)
 * [2024-06-28, 20:39:07](https://news.ycombinator.com/item?id=40825033) - [The story, as best I can remember, of the origin of Mosaic and Netscape [video]](https://pmarca.substack.com/p/the-true-story-as-best-i-can-remember)
 * [2024-06-28, 19:23:43](https://news.ycombinator.com/item?id=40824209) - [Pompeii fixed potholes with molten iron (2019)](https://www.smithsonianmag.com/smart-news/pompeii-fixed-potholes-molten-iron-180972203/)
-* [2024-06-28, 16:56:08](https://news.ycombinator.com/item?id=40822522) - [What Happened to People Magazine?](https://annehelen.substack.com/p/what-happened-to-people-magazine)
 * [2024-06-28, 16:54:55](https://news.ycombinator.com/item?id=40822512) - [Llama-agents: an async-first framework for building production ready agents](https://github.com/run-llama/llama-agents)
 * [2024-06-28, 16:54:49](https://news.ycombinator.com/item?id=40822511) - [The Origins of Yiddish (2014)](https://www.tabletmag.com/sections/arts-letters/articles/yiddishland)
 * [2024-06-28, 16:45:34](https://news.ycombinator.com/item?id=40822426) - [Discovered June 16th, large asteroid to pass between Earth and moon on Saturday](https://www.cbc.ca/news/science/asteroid-2024mk-1.7247336)
@@ -27,8 +27,8 @@
 * [2024-06-27, 17:22:51](https://news.ycombinator.com/item?id=40812833) - [Entrust Certificate Distrust](https://security.googleblog.com/2024/06/sustaining-digital-certificate-security.html)
 * [2024-06-27, 16:36:08](https://news.ycombinator.com/item?id=40812359) - [The greatest social media site is Craigslist](https://slate.com/technology/2024/06/craigslist-craig-newmark-best-social-media-site-facebook-tiktok-instagram.html)
 * [2024-06-26, 21:44:45](https://news.ycombinator.com/item?id=40804946) - [Out of sight, 'dark fungi' run the world from the shadows](https://www.scientificamerican.com/article/mysterious-dark-fungi-are-lurking-everywhere/)
+* [2024-06-26, 20:31:37](https://news.ycombinator.com/item?id=40804294) - [Show HN: A Modern Palletization App](https://github.com/VladM7/Stack-Solver)
 * [2024-06-26, 20:05:42](https://news.ycombinator.com/item?id=40804069) - [ELIZA Reinterpreted: The world's first chatbot was not intended as a chatbot](https://arxiv.org/abs/2406.17650)
-* [2024-06-25, 11:28:01](https://news.ycombinator.com/item?id=40787124) - [It's getting harder to die](https://www.plough.com/en/topics/life/aging/its-getting-harder-to-die)
 * [2024-06-25, 08:41:31](https://news.ycombinator.com/item?id=40786007) - [Everything You Should Know about the Legendary Valjoux 7750 Chronograph Movement](https://monochrome-watches.com/valjoux-7750-chronograph-history-50-years-technical-explanation-evolution-clones-in-depth-review/)
 
 ## [Archives](archives/index.md)
