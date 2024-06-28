@@ -11,7 +11,6 @@
 * [2024-06-28, 15:36:04](https://news.ycombinator.com/item?id=40821734) - [Mourning Daniel Bristot de Oliveira](https://lwn.net/Articles/979912/)
 * [2024-06-28, 14:31:12](https://news.ycombinator.com/item?id=40820949) - [Supreme Court overturns 40-year-old \"Chevron deference\" doctrine](https://www.axios.com/2024/06/28/supreme-court-chevron-doctrine-ruling)
 * [2024-06-28, 13:14:36](https://news.ycombinator.com/item?id=40820311) - [Apple II graphics: More than you wanted to know](https://nicole.express/2024/phasing-in-and-out-of-existence.html)
-* [2024-06-28, 12:46:50](https://news.ycombinator.com/item?id=40820098) - [What actual purpose do accent characters in ISO-8859-1 and Windows 1252 serve?](https://retrocomputing.stackexchange.com/questions/30261/what-actual-purpose-do-accent-characters-in-iso-8859-1-and-windows-1252-serve)
 * [2024-06-28, 12:41:22](https://news.ycombinator.com/item?id=40820063) - [New ways to catch gravitational waves](https://www.nature.com/articles/d41586-024-02003-6)
 * [2024-06-28, 12:22:54](https://news.ycombinator.com/item?id=40819920) - [Quaternion Differentiation (2012)](https://fgiesen.wordpress.com/2012/08/24/quaternion-differentiation/)
 * [2024-06-28, 12:04:56](https://news.ycombinator.com/item?id=40819784) - [Is Clear Air Turbulence becoming more common?](https://www.flightradar24.com/blog/is-cat-more-common/)
@@ -30,6 +29,7 @@
 * [2024-06-26, 20:31:37](https://news.ycombinator.com/item?id=40804294) - [Show HN: A Modern Palletization App](https://github.com/VladM7/Stack-Solver)
 * [2024-06-26, 20:05:42](https://news.ycombinator.com/item?id=40804069) - [ELIZA Reinterpreted: The world's first chatbot was not intended as a chatbot](https://arxiv.org/abs/2406.17650)
 * [2024-06-26, 12:06:35](https://news.ycombinator.com/item?id=40799006) - [Will we ever get fusion power?](https://www.construction-physics.com/p/will-we-ever-get-fusion-power)
+* [2024-06-26, 10:43:45](https://news.ycombinator.com/item?id=40798469) - [Git-cliff – Generate changelog from the Git history](https://git-cliff.org/)
 
 ## [Archives](archives/index.md)
 
