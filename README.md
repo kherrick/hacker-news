@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-28, 12:12:16](https://news.ycombinator.com/item?id=40819849) - [Microsoft forgot to renew their Office CDN certificate](https://old.reddit.com/r/sysadmin/comments/1dqf332/microsoft_ssl_cert_expired/)
 * [2024-06-28, 12:04:56](https://news.ycombinator.com/item?id=40819784) - [Is Clear Air Turbulence becoming more common?](https://www.flightradar24.com/blog/is-cat-more-common/)
 * [2024-06-28, 12:00:14](https://news.ycombinator.com/item?id=40819757) - [Substack Is Hiring Systems Engineers to Build a New Economic Engine for Culture](https://grnh.se/4f362fed5us)
 * [2024-06-28, 11:35:34](https://news.ycombinator.com/item?id=40819617) - [A Novel way to curb poaching, injecting radioisotopes into 20 live rhinoceros](https://www.wits.ac.za/news/latest-news/general-news/2024/2024-06/a-novel-way-to-save-rhinos-.html)
@@ -15,7 +16,6 @@
 * [2024-06-27, 21:09:54](https://news.ycombinator.com/item?id=40815139) - [200 people charged in $2.7B health care fraud crackdown](https://apnews.com/article/justice-department-health-care-fraud-garland-24948b951896d0f265c29ba3fcacf858)
 * [2024-06-27, 21:05:51](https://news.ycombinator.com/item?id=40815097) - [Maker of RStudio launches new R and Python IDE](https://www.infoworld.com/article/3715702/maker-of-rstudio-launches-new-r-and-python-ide.html)
 * [2024-06-27, 19:18:10](https://news.ycombinator.com/item?id=40814011) - [A modern 8 bit design, built using 1950s thermionic valves](https://www.valve.computer/)
-* [2024-06-27, 18:13:51](https://news.ycombinator.com/item?id=40813369) - [Supreme Court blocks controversial Purdue Pharma opioid settlement](https://www.washingtonpost.com/politics/2024/06/27/purdue-pharma-supreme-court-opioid-bankruptcy/)
 * [2024-06-27, 17:09:37](https://news.ycombinator.com/item?id=40812695) - [Remembering Larry Finger, who made Linux wireless work](https://arstechnica.com/gadgets/2024/06/larry-finger-linux-wireless-hero-was-a-persistent-patient-coder-and-mentor/)
 * [2024-06-27, 15:49:17](https://news.ycombinator.com/item?id=40811785) - [The Life Of Lithium](https://www.noemamag.com/the-secret-magical-life-of-lithium/)
 * [2024-06-27, 15:40:23](https://news.ycombinator.com/item?id=40811675) - [Moaan InkPalm Plus is weird, cheap, small, and my kind of e-reader](https://sixcolors.com/post/2024/06/review-moaan-inkpalm-plus-is-weird-cheap-small-and-my-kind-of-e-reader/)
