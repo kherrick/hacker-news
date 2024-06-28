@@ -7,6 +7,7 @@
 * [2024-06-28, 22:05:29](https://news.ycombinator.com/item?id=40825774) - [you should probably have a kid](https://benexdict.io/p/you-should-probably-have-a-kid)
 * [2024-06-28, 21:52:28](https://news.ycombinator.com/item?id=40825660) - [Paramount Wipes South Park, Daily Show Clips, and More from Websites](https://www.gamespot.com/articles/paramount-wipes-south-park-daily-show-clips-and-more-from-websites/1100-6524578/)
 * [2024-06-28, 21:30:58](https://news.ycombinator.com/item?id=40825494) - [Bipartisan consensus in favor of renewable power is ending](https://arstechnica.com/science/2024/06/support-for-renewable-power-is-plunging-among-republicans/)
+* [2024-06-28, 21:29:52](https://news.ycombinator.com/item?id=40825483) - [T-Mobile users enraged as \"Un-carrier\" breaks promise to never raise prices](https://arstechnica.com/tech-policy/2024/06/t-mobile-users-enraged-as-un-carrier-breaks-promise-to-never-raise-prices/)
 * [2024-06-28, 21:22:42](https://news.ycombinator.com/item?id=40825429) - [Windows: Insecure by Design](https://www.theregister.com/2024/06/28/windows_insecure_by_design/)
 * [2024-06-28, 21:16:44](https://news.ycombinator.com/item?id=40825384) - [Woman Tries to Deposit $3K at Bank of America ATM. It Backfires](https://www.dailydot.com/news/bank-of-america-deposit-3000-dollars/)
 * [2024-06-28, 20:51:56](https://news.ycombinator.com/item?id=40825169) - [Show HN: Focal, a Pomodoro App](https://aabiji.github.io/focal/)

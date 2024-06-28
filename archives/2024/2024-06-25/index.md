@@ -93,6 +93,7 @@
 * [2024-06-25, 09:47:10](https://news.ycombinator.com/item?id=40786425) - [Local First, Forever](https://tonsky.me/blog/crdt-filesync/)
 * [2024-06-25, 09:17:08](https://news.ycombinator.com/item?id=40786237) - [Not all 'open source' AI models are open: here's a ranking](https://www.nature.com/articles/d41586-024-02012-5)
 * [2024-06-25, 08:48:01](https://news.ycombinator.com/item?id=40786057) - [EGAIR – European Guild for Artificial Intelligence Regulation](https://www.egair.eu/)
+* [2024-06-25, 08:41:31](https://news.ycombinator.com/item?id=40786007) - [Everything You Should Know about the Legendary Valjoux 7750 Chronograph Movement](https://monochrome-watches.com/valjoux-7750-chronograph-history-50-years-technical-explanation-evolution-clones-in-depth-review/)
 * [2024-06-25, 08:40:29](https://news.ycombinator.com/item?id=40786004) - [Mozilla roll out first AI features in Firefox Nightly](https://blog.mozilla.org/en/products/firefox/firefox-news/ai-services-on-firefox/)
 * [2024-06-25, 08:30:42](https://news.ycombinator.com/item?id=40785945) - [Locked out of 14 year old YouTube channel because tied to Hotmail.com email](https://news.ycombinator.com/item?id=40785945)
 * [2024-06-25, 05:23:55](https://news.ycombinator.com/item?id=40784778) - [NOFX to retire after final tour without ever having had a job](https://www.nytimes.com/2024/06/18/style/nofx-farewell-tour.html)
