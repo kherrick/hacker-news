@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-29, 07:00:30](https://news.ycombinator.com/item?id=40828408) - [Raycast (YC W20) Is Hiring a Senior Product Designer (UTC ± 3 Hours)](https://www.raycast.com/jobs/senior-product-designer)
 * [2024-06-29, 06:07:50](https://news.ycombinator.com/item?id=40828203) - [How to waste bandwidth, battery power, and annoy sysadmins](https://rachelbythebay.com/w/2024/06/28/fxios/)
 * [2024-06-29, 05:56:02](https://news.ycombinator.com/item?id=40828180) - [Show HN: Safe Routes. real time turbulence data, ML predictions with an iPad](https://skypath.io)
 * [2024-06-29, 03:19:42](https://news.ycombinator.com/item?id=40827650) - [The 'pay phone bandit' who baffled the FBI in the '80s](https://www.mentalfloss.com/posts/pay-phone-bandit-baffled-fbi)
@@ -15,7 +16,6 @@
 * [2024-06-28, 12:41:22](https://news.ycombinator.com/item?id=40820063) - [New ways to catch gravitational waves](https://www.nature.com/articles/d41586-024-02003-6)
 * [2024-06-28, 12:22:54](https://news.ycombinator.com/item?id=40819920) - [Quaternion Differentiation (2012)](https://fgiesen.wordpress.com/2012/08/24/quaternion-differentiation/)
 * [2024-06-28, 12:04:56](https://news.ycombinator.com/item?id=40819784) - [Is Clear Air Turbulence becoming more common?](https://www.flightradar24.com/blog/is-cat-more-common/)
-* [2024-06-28, 11:35:34](https://news.ycombinator.com/item?id=40819617) - [The Rhisotope Project: Insertion of radioisotopes into live rhinoceros](https://www.wits.ac.za/news/latest-news/general-news/2024/2024-06/a-novel-way-to-save-rhinos-.html)
 * [2024-06-28, 11:12:15](https://news.ycombinator.com/item?id=40819479) - [Meta LLM Compiler: neural optimizer and disassembler](https://twitter.com/AIatMeta/status/1806361623831171318/photo/1)
 * [2024-06-28, 08:47:56](https://news.ycombinator.com/item?id=40818835) - [Show HN: Thermion, an open source 3D rendering toolkit for Flutter and/or Dart](https://thermion.dev)
 * [2024-06-28, 08:40:44](https://news.ycombinator.com/item?id=40818809) - [Ask HN: What is the best code base you ever worked on?](https://news.ycombinator.com/item?id=40818809)
