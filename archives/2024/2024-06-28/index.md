@@ -71,6 +71,7 @@
 * [2024-06-28, 11:12:15](https://news.ycombinator.com/item?id=40819479) - [Meta LLM Compiler: neural optimizer and disassembler](https://twitter.com/AIatMeta/status/1806361623831171318/photo/1)
 * [2024-06-28, 11:05:40](https://news.ycombinator.com/item?id=40819440) - [Understanding React Compiler](https://tonyalicea.dev/blog/understanding-react-compiler/)
 * [2024-06-28, 11:04:00](https://news.ycombinator.com/item?id=40819437) - [Make Something With Your Hands (Even if It’s Hideous)](https://www.nytimes.com/2024/06/28/well/mind/hand-crafts-creation-art.html)
+* [2024-06-28, 10:52:56](https://news.ycombinator.com/item?id=40819404) - [The Dream of an Alpine Waterway](https://blog.nationalmuseum.ch/en/2024/06/the-dream-of-an-alpine-waterway/)
 * [2024-06-28, 10:17:19](https://news.ycombinator.com/item?id=40819226) - [Conway's Game of Life, in checkboxes for some reason](https://huth.me/checkbox-life/)
 * [2024-06-28, 10:05:21](https://news.ycombinator.com/item?id=40819184) - [Two million checkboxes (written in Elixir)](https://twomillioncheckboxes.com)
 * [2024-06-28, 09:31:12](https://news.ycombinator.com/item?id=40819025) - [WA man set up fake free WiFi at Australian airports and on flights,police allege](https://www.theguardian.com/technology/article/2024/jun/28/wa-man-fake-free-wifi-airports-data-theft-ntwnfb)
