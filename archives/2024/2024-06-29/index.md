@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-29](index.md)
 
+* [2024-06-29, 12:05:58](https://news.ycombinator.com/item?id=40829797) - [NASA and Boeing deny Starliner crew is stranded: We're not in rush to come home](https://techcrunch.com/2024/06/28/nasa-and-boeing-deny-starliner-crew-is-stranded-were-not-in-any-rush-to-come-home/)
 * [2024-06-29, 12:02:06](https://news.ycombinator.com/item?id=40829780) - [Nango (YC W23) Is Hiring a Senior Product Engineer (100% Remote, EST Timezone)](https://www.nango.dev/jobs)
 * [2024-06-29, 11:44:04](https://news.ycombinator.com/item?id=40829653) - [Panama Papers: Court acquits all 28 charged with money laundering](https://www.bbc.com/news/articles/cjer3llen42o)
 * [2024-06-29, 11:38:01](https://news.ycombinator.com/item?id=40829607) - [A Bunch of Programming Advice I'd Give to Myself 15 Years Ago](https://mbuffett.com/posts/programming-advice-younger-self/)
