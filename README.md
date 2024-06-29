@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-29, 14:19:19](https://news.ycombinator.com/item?id=40830804) - [R1 jailbreakers find security flaw in Rabbit's code](https://www.theverge.com/2024/6/26/24186614/rabbit-r1-security-flaw-api-key-codebase)
-* [2024-06-29, 14:12:49](https://news.ycombinator.com/item?id=40830748) - [Warren Buffett donates record $5.3B Berkshire shares to charity](https://www.reuters.com/business/warren-buffett-donate-up-53-bln-berkshire-shares-2024-06-28/)
 * [2024-06-29, 12:35:51](https://news.ycombinator.com/item?id=40830005) - [Bytecode Breakdown: Unraveling Factorio's Lua Security Flaws](https://memorycorruption.net/posts/rce-lua-factorio/)
 * [2024-06-29, 12:02:06](https://news.ycombinator.com/item?id=40829780) - [Nango (YC W23) Is Hiring a Senior Product Engineer (100% Remote, EST Timezone)](https://www.nango.dev/jobs)
 * [2024-06-29, 11:38:01](https://news.ycombinator.com/item?id=40829607) - [A Bunch of Programming Advice I'd Give to Myself 15 Years Ago](https://mbuffett.com/posts/programming-advice-younger-self/)
@@ -19,6 +18,7 @@
 * [2024-06-28, 20:39:07](https://news.ycombinator.com/item?id=40825033) - [The story, as best I can remember, of the origin of Mosaic and Netscape [video]](https://pmarca.substack.com/p/the-true-story-as-best-i-can-remember)
 * [2024-06-28, 17:01:48](https://news.ycombinator.com/item?id=40822591) - [Our Underground Future (2012)](https://www.bostonglobe.com/ideas/2012/06/23/underground-space/PvxyWFdXXYhPPlQVVU0a8K/story.html)
 * [2024-06-28, 16:53:04](https://news.ycombinator.com/item?id=40822498) - [Bébé Bibliophile](https://www.ymeskhout.com/p/bebe-bibliophile)
+* [2024-06-28, 12:22:54](https://news.ycombinator.com/item?id=40819920) - [Quaternion Differentiation (2012)](https://fgiesen.wordpress.com/2012/08/24/quaternion-differentiation/)
 * [2024-06-28, 11:12:15](https://news.ycombinator.com/item?id=40819479) - [Meta LLM Compiler: neural optimizer and disassembler](https://twitter.com/AIatMeta/status/1806361623831171318/photo/1)
 * [2024-06-28, 04:54:53](https://news.ycombinator.com/item?id=40817852) - [Software galaxies](https://anvaka.github.io/pm/)
 * [2024-06-28, 03:08:47](https://news.ycombinator.com/item?id=40817343) - [Klára Dán von Neumann](https://en.wikipedia.org/wiki/Kl%C3%A1ra_D%C3%A1n_von_Neumann)
