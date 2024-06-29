@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-29](index.md)
 
+* [2024-06-29, 10:52:04](https://news.ycombinator.com/item?id=40829312) - [How I overcame my addiction to sugar](https://josem.co/how-i-overcame-my-addiction-to-sugar/)
 * [2024-06-29, 10:05:12](https://news.ycombinator.com/item?id=40829097) - [Framework Laptop 16, six months later](https://www.theverge.com/24185827/framework-laptop-16-six-months-later-review)
 * [2024-06-29, 09:48:19](https://news.ycombinator.com/item?id=40829030) - [Ticketmaster has begun warning customers about data breach](https://stackdiary.com/ticketmaster-has-begun-warning-customers-about-data-breach/)
 * [2024-06-29, 09:32:57](https://news.ycombinator.com/item?id=40828971) - [Diversity Was Supposed to Make Us Rich. Not So Much](https://www.wsj.com/finance/investing/diversity-was-supposed-to-make-us-rich-not-so-much-39da6a23)
