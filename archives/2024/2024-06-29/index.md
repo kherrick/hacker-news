@@ -6,6 +6,7 @@
 
 * [2024-06-29, 18:49:00](https://news.ycombinator.com/item?id=40832627) - [Poseidon malware menaces Mac users via GoogleAds](https://www.scmagazine.com/news/poseidon-malware-menaces-mac-users-via-googleads)
 * [2024-06-29, 18:34:02](https://news.ycombinator.com/item?id=40832542) - [Russian death camp: Three stories of Ukrainian prisoners](https://texty.org.ua/articles/112816/russian-death-camp-three-stories-ukrainian-prisoners/)
+* [2024-06-29, 17:40:11](https://news.ycombinator.com/item?id=40832223) - [AirPods fast connect security vulnerability](https://blogs.gnome.org/jdressler/2024/06/26/do-a-firmware-update-for-your-airpods-now/)
 * [2024-06-29, 17:39:16](https://news.ycombinator.com/item?id=40832214) - [Picasso Museum in Paris Puts Thousands of His Works in New Online Archive](https://www.smithsonianmag.com/smart-news/thousands-of-pablo-picassos-works-are-now-online-180984597/)
 * [2024-06-29, 17:07:38](https://news.ycombinator.com/item?id=40831991) - [Goldman Sachs Python toolkit for quantitative finance](https://github.com/goldmansachs/gs-quant)
 * [2024-06-29, 16:56:51](https://news.ycombinator.com/item?id=40831904) - [Show HN: Pickcode – Free online code editor for kids](https://pickcode.io)
