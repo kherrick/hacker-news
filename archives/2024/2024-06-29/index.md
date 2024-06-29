@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-29](index.md)
 
 * [2024-06-29, 20:42:02](https://news.ycombinator.com/item?id=40833225) - [USB HID deevice class definition [pdf]](https://www.usb.org/sites/default/files/hid1_11.pdf)
+* [2024-06-29, 20:26:46](https://news.ycombinator.com/item?id=40833149) - [Ask HN: How to find a new job when I'm not good at networking?](https://news.ycombinator.com/item?id=40833149)
 * [2024-06-29, 20:14:10](https://news.ycombinator.com/item?id=40833068) - [The Antitrust Trial of the United States vs. Google, LLC](https://www.usvgoogleads.com/)
 * [2024-06-29, 19:01:09](https://news.ycombinator.com/item?id=40832681) - [Small Businesses in Crisis as Rising Numbers Unable to Pay Rent](https://www.newsweek.com/small-businesses-crisis-rising-numbers-unable-pay-rent-1895480)
 * [2024-06-29, 18:53:04](https://news.ycombinator.com/item?id=40832644) - [Enhancing New York Times Web Performance with React 18](https://open.nytimes.com/enhancing-the-new-york-times-web-performance-with-react-18-d6f91a7c5af8)

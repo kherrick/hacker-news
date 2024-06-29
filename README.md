@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-29, 20:42:02](https://news.ycombinator.com/item?id=40833225) - [USB HID deevice class definition [pdf]](https://www.usb.org/sites/default/files/hid1_11.pdf)
+* [2024-06-29, 20:26:46](https://news.ycombinator.com/item?id=40833149) - [Ask HN: How to find a new job when I'm not good at networking?](https://news.ycombinator.com/item?id=40833149)
 * [2024-06-29, 19:01:09](https://news.ycombinator.com/item?id=40832681) - [Small Businesses in Crisis as Rising Numbers Unable to Pay Rent](https://www.newsweek.com/small-businesses-crisis-rising-numbers-unable-pay-rent-1895480)
 * [2024-06-29, 17:55:22](https://news.ycombinator.com/item?id=40832330) - [Open-LLM performances are plateauing](https://huggingface.co/spaces/open-llm-leaderboard/blog)
 * [2024-06-29, 17:40:11](https://news.ycombinator.com/item?id=40832223) - [AirPods fast connect security vulnerability](https://blogs.gnome.org/jdressler/2024/06/26/do-a-firmware-update-for-your-airpods-now/)
@@ -28,7 +29,6 @@
 * [2024-06-28, 05:51:58](https://news.ycombinator.com/item?id=40818101) - [James Joyce was a complicated man](https://www.thefitzwilliam.com/p/james-joyce-was-a-complicated-man)
 * [2024-06-28, 03:08:47](https://news.ycombinator.com/item?id=40817343) - [Klára Dán von Neumann](https://en.wikipedia.org/wiki/Kl%C3%A1ra_D%C3%A1n_von_Neumann)
 * [2024-06-25, 18:08:17](https://news.ycombinator.com/item?id=40791596) - [Texture Enhancement for Video Super-Resolution](https://github.com/DachunKai/EvTexture)
-* [2024-06-25, 11:28:01](https://news.ycombinator.com/item?id=40787124) - [It's getting harder to die](https://www.plough.com/en/topics/life/aging/its-getting-harder-to-die)
 * [2024-06-25, 10:43:59](https://news.ycombinator.com/item?id=40786786) - [Producing fuels from 1,500 degrees of solar heat](https://www.thechemicalengineer.com/news/producing-fuels-from-1-500-degrees-of-solar-heat-world-s-first-plant-opens-in-germany/)
 
 ## [Archives](archives/index.md)
