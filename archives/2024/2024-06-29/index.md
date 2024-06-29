@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-29](index.md)
 
+* [2024-06-29, 09:48:19](https://news.ycombinator.com/item?id=40829030) - [Ticketmaster has begun warning customers about data breach](https://stackdiary.com/ticketmaster-has-begun-warning-customers-about-data-breach/)
+* [2024-06-29, 08:00:56](https://news.ycombinator.com/item?id=40828610) - [It's not just you, Next.js is getting harder to use](https://www.propelauth.com/post/nextjs-challenges)
 * [2024-06-29, 07:52:43](https://news.ycombinator.com/item?id=40828587) - [I'm Terrified of Old People](https://guzey.com/old-people/)
 * [2024-06-29, 07:09:45](https://news.ycombinator.com/item?id=40828441) - [All web \"content\" is freeware](https://rubenerd.com/all-web-content-is-freeware/)
 * [2024-06-29, 07:09:16](https://news.ycombinator.com/item?id=40828438) - [Microsoft CEO of AI Your online content is 'freeware' fodder for training models](https://www.theregister.com/2024/06/28/microsoft_ceo_ai/)
