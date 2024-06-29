@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-29, 12:35:51](https://news.ycombinator.com/item?id=40830005) - [Bytecode Breakdown: Unraveling Factorio's Lua Security Flaws](https://memorycorruption.net/posts/rce-lua-factorio/)
 * [2024-06-29, 12:02:06](https://news.ycombinator.com/item?id=40829780) - [Nango (YC W23) Is Hiring a Senior Product Engineer (100% Remote, EST Timezone)](https://www.nango.dev/jobs)
 * [2024-06-29, 12:01:55](https://news.ycombinator.com/item?id=40829777) - ['Skeleton Key' attack unlocks the worst of AI, says Microsoft](https://www.theregister.com/2024/06/28/microsoft_skeleton_key_ai_attack/)
 * [2024-06-29, 11:53:37](https://news.ycombinator.com/item?id=40829720) - [OctoPrint's anonymous usage stats were manipulated](https://octoprint.org/blog/2024/06/28/stats-manipulation/)
@@ -13,7 +14,6 @@
 * [2024-06-29, 03:15:02](https://news.ycombinator.com/item?id=40827628) - [Do I Regret Being 'Just' a Software Engineer?](https://www.jacky.wtf/essays/2024/regrets-with-tech/)
 * [2024-06-29, 00:01:24](https://news.ycombinator.com/item?id=40826683) - [The XAES-256-GCM extended-nonce AEAD](https://words.filippo.io/dispatches/xaes-256-gcm/)
 * [2024-06-28, 22:43:05](https://news.ycombinator.com/item?id=40826111) - [Category theory using string diagrams (2014)](https://arxiv.org/abs/1401.7220)
-* [2024-06-28, 20:49:23](https://news.ycombinator.com/item?id=40825146) - [Open source 'Eclipse Theia IDE' exits beta to challenge Visual Studio Code](https://visualstudiomagazine.com/Articles/2024/06/27/eclipse-theia-ide.aspx)
 * [2024-06-28, 20:39:07](https://news.ycombinator.com/item?id=40825033) - [The story, as best I can remember, of the origin of Mosaic and Netscape [video]](https://pmarca.substack.com/p/the-true-story-as-best-i-can-remember)
 * [2024-06-28, 17:01:48](https://news.ycombinator.com/item?id=40822591) - [Our Underground Future (2012)](https://www.bostonglobe.com/ideas/2012/06/23/underground-space/PvxyWFdXXYhPPlQVVU0a8K/story.html)
 * [2024-06-28, 16:53:04](https://news.ycombinator.com/item?id=40822498) - [Bébé Bibliophile](https://www.ymeskhout.com/p/bebe-bibliophile)

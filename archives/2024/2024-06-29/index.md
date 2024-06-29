@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-29](index.md)
 
 * [2024-06-29, 12:56:05](https://news.ycombinator.com/item?id=40830126) - [We Just Witnessed the Biggest Supreme Court Power Grab Since 1803](https://www.thenation.com/article/society/chevron-deference-supreme-court-power-grab/)
+* [2024-06-29, 12:35:51](https://news.ycombinator.com/item?id=40830005) - [Bytecode Breakdown: Unraveling Factorio's Lua Security Flaws](https://memorycorruption.net/posts/rce-lua-factorio/)
 * [2024-06-29, 12:05:58](https://news.ycombinator.com/item?id=40829797) - [NASA and Boeing deny Starliner crew is stranded: We're not in rush to come home](https://techcrunch.com/2024/06/28/nasa-and-boeing-deny-starliner-crew-is-stranded-were-not-in-any-rush-to-come-home/)
 * [2024-06-29, 12:02:06](https://news.ycombinator.com/item?id=40829780) - [Nango (YC W23) Is Hiring a Senior Product Engineer (100% Remote, EST Timezone)](https://www.nango.dev/jobs)
 * [2024-06-29, 12:01:55](https://news.ycombinator.com/item?id=40829777) - ['Skeleton Key' attack unlocks the worst of AI, says Microsoft](https://www.theregister.com/2024/06/28/microsoft_skeleton_key_ai_attack/)
