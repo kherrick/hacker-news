@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-29, 11:22:11](https://news.ycombinator.com/item?id=40829513) - [Technology is about to accelerate. Because Chevron deference is over](https://twitter.com/balajis/status/1806773841395675218)
 * [2024-06-29, 11:03:43](https://news.ycombinator.com/item?id=40829401) - [A violent gang's ruthless crypto-stealing home invasion spree](https://www.wired.com/story/crypto-home-invasion-crime-ring/)
 * [2024-06-29, 10:52:04](https://news.ycombinator.com/item?id=40829312) - [How I overcame my addiction to sugar](https://josem.co/how-i-overcame-my-addiction-to-sugar/)
+* [2024-06-29, 10:05:12](https://news.ycombinator.com/item?id=40829097) - [Framework Laptop 16, six months later](https://www.theverge.com/24185827/framework-laptop-16-six-months-later-review)
 * [2024-06-29, 09:48:19](https://news.ycombinator.com/item?id=40829030) - [Ticketmaster has begun warning customers about data breach](https://stackdiary.com/ticketmaster-has-begun-warning-customers-about-data-breach/)
 * [2024-06-29, 08:00:56](https://news.ycombinator.com/item?id=40828610) - [It's not just you, Next.js is getting harder to use](https://www.propelauth.com/post/nextjs-challenges)
 * [2024-06-29, 07:25:49](https://news.ycombinator.com/item?id=40828493) - [A Hex Editor for Reverse Engineers](https://github.com/WerWolv/ImHex)
