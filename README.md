@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-29, 06:07:50](https://news.ycombinator.com/item?id=40828203) - [How to waste bandwidth, battery power, and annoy sysadmins](https://rachelbythebay.com/w/2024/06/28/fxios/)
 * [2024-06-29, 05:56:02](https://news.ycombinator.com/item?id=40828180) - [Show HN: Safe Routes. real time turbulence data, ML predictions with an iPad](https://skypath.io)
 * [2024-06-29, 03:19:42](https://news.ycombinator.com/item?id=40827650) - [The 'pay phone bandit' who baffled the FBI in the '80s](https://www.mentalfloss.com/posts/pay-phone-bandit-baffled-fbi)
 * [2024-06-29, 03:05:09](https://news.ycombinator.com/item?id=40827586) - [OpenLoco: Modern, open source version of the classic transport simulation game](https://openloco.io/)
 * [2024-06-29, 00:01:24](https://news.ycombinator.com/item?id=40826683) - [The XAES-256-GCM extended-nonce AEAD](https://words.filippo.io/dispatches/xaes-256-gcm/)
-* [2024-06-28, 22:59:05](https://news.ycombinator.com/item?id=40826236) - [A Eulogy for DevOps](https://matduggan.com/a-eulogy-for-devops/)
 * [2024-06-28, 22:43:05](https://news.ycombinator.com/item?id=40826111) - [Category theory using string diagrams (2014)](https://arxiv.org/abs/1401.7220)
 * [2024-06-28, 20:49:23](https://news.ycombinator.com/item?id=40825146) - [Open source 'Eclipse Theia IDE' exits beta to challenge Visual Studio Code](https://visualstudiomagazine.com/Articles/2024/06/27/eclipse-theia-ide.aspx)
 * [2024-06-28, 20:39:07](https://news.ycombinator.com/item?id=40825033) - [The story, as best I can remember, of the origin of Mosaic and Netscape [video]](https://pmarca.substack.com/p/the-true-story-as-best-i-can-remember)
