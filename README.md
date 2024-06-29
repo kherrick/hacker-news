@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-29, 07:52:43](https://news.ycombinator.com/item?id=40828587) - [I'm Terrified of Old People](https://guzey.com/old-people/)
+* [2024-06-29, 07:09:45](https://news.ycombinator.com/item?id=40828441) - [All web \"content\" is freeware](https://rubenerd.com/all-web-content-is-freeware/)
 * [2024-06-29, 07:09:16](https://news.ycombinator.com/item?id=40828438) - [Microsoft CEO of AI Your online content is 'freeware' fodder for training models](https://www.theregister.com/2024/06/28/microsoft_ceo_ai/)
 * [2024-06-29, 07:00:30](https://news.ycombinator.com/item?id=40828408) - [Raycast (YC W20) Is Hiring a Senior Product Designer (UTC ± 3 Hours)](https://www.raycast.com/jobs/senior-product-designer)
 * [2024-06-29, 06:58:09](https://news.ycombinator.com/item?id=40828394) - [AMD MI300x GPUs with GEMM tuning improves throughput and latency by up to 7.2x](https://www.nscale.com/blog/nscale-benchmarks-amd-mi300x-gpus-with-gemm-tuning-improves-throughput-and-latency-by-up-to-7-2x)
@@ -10,7 +11,6 @@
 * [2024-06-29, 03:05:09](https://news.ycombinator.com/item?id=40827586) - [OpenLoco: Modern, open source version of the classic transport simulation game](https://openloco.io/)
 * [2024-06-29, 00:01:24](https://news.ycombinator.com/item?id=40826683) - [The XAES-256-GCM extended-nonce AEAD](https://words.filippo.io/dispatches/xaes-256-gcm/)
 * [2024-06-28, 22:43:05](https://news.ycombinator.com/item?id=40826111) - [Category theory using string diagrams (2014)](https://arxiv.org/abs/1401.7220)
-* [2024-06-28, 20:49:23](https://news.ycombinator.com/item?id=40825146) - [Open source 'Eclipse Theia IDE' exits beta to challenge Visual Studio Code](https://visualstudiomagazine.com/Articles/2024/06/27/eclipse-theia-ide.aspx)
 * [2024-06-28, 20:39:07](https://news.ycombinator.com/item?id=40825033) - [The story, as best I can remember, of the origin of Mosaic and Netscape [video]](https://pmarca.substack.com/p/the-true-story-as-best-i-can-remember)
 * [2024-06-28, 16:57:20](https://news.ycombinator.com/item?id=40822535) - [Serpentine](https://www.asymptotejournal.com/blog/2024/06/24/serpentine/)
 * [2024-06-28, 16:56:08](https://news.ycombinator.com/item?id=40822522) - [What Happened to People Magazine?](https://annehelen.substack.com/p/what-happened-to-people-magazine)
