@@ -21,12 +21,32 @@
   ],
   [
     [
+      "2024-06-29, 00:24:30",
+      "https://news.ycombinator.com/item?id=40826817"
+    ],
+    [
+      "Hacking Amazon's Eero 6 (part 1)",
+      "https://markuta.com/eero-6-hacking-part-1/"
+    ]
+  ],
+  [
+    [
       "2024-06-29, 00:01:24",
       "https://news.ycombinator.com/item?id=40826683"
     ],
     [
       "The XAES-256-GCM extended-nonce AEAD",
       "https://words.filippo.io/dispatches/xaes-256-gcm/"
+    ]
+  ],
+  [
+    [
+      "2024-06-28, 22:43:05",
+      "https://news.ycombinator.com/item?id=40826111"
+    ],
+    [
+      "Category Theory Using String Diagrams (2014)",
+      "https://arxiv.org/abs/1401.7220"
     ]
   ],
   [
@@ -67,16 +87,6 @@
     [
       "Pompeii fixed potholes with molten iron (2019)",
       "https://www.smithsonianmag.com/smart-news/pompeii-fixed-potholes-molten-iron-180972203/"
-    ]
-  ],
-  [
-    [
-      "2024-06-28, 16:54:55",
-      "https://news.ycombinator.com/item?id=40822512"
-    ],
-    [
-      "Llama-agents: an async-first framework for building production ready agents",
-      "https://github.com/run-llama/llama-agents"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Will we ever get fusion power?",
       "https://www.construction-physics.com/p/will-we-ever-get-fusion-power"
-    ]
-  ],
-  [
-    [
-      "2024-06-26, 10:43:45",
-      "https://news.ycombinator.com/item?id=40798469"
-    ],
-    [
-      "Git-cliff – Generate changelog from the Git history",
-      "https://git-cliff.org/"
     ]
   ],
   [
