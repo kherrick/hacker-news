@@ -25,6 +25,7 @@
 * [2024-06-25, 20:24:44](https://news.ycombinator.com/item?id=40793174) - [Volkswagen to invest up to $5B in Rivian](https://www.reuters.com/business/autos-transportation/volkswagen-invest-up-5-billion-rivian-part-tech-joint-venture-2024-06-25/)
 * [2024-06-25, 20:08:26](https://news.ycombinator.com/item?id=40792999) - [Tesla Cybertruck Accelerator Pedal Trim Recall](https://www.tesla.com/support/recall-cybertruck-accelerator-pedal-pad)
 * [2024-06-25, 19:45:08](https://news.ycombinator.com/item?id=40792740) - [Fixing QuickLook (2023)](https://foon.uk/fixing-quicklook/)
+* [2024-06-25, 19:29:32](https://news.ycombinator.com/item?id=40792592) - [Haskell Certification Program](https://certification.haskell.foundation/)
 * [2024-06-25, 19:27:24](https://news.ycombinator.com/item?id=40792569) - [OpenAI releases ChatGPT on your desktop for macOS](https://openai.com/chatgpt/mac/)
 * [2024-06-25, 19:26:30](https://news.ycombinator.com/item?id=40792554) - [Supershoes are reshaping distance running](https://www.technologyreview.com/2024/06/25/1093520/supershoes-running-kenya-carbon-plate-shoes/)
 * [2024-06-25, 18:27:30](https://news.ycombinator.com/item?id=40791829) - [Polyfill supply chain attack hits 100K+ sites](https://sansec.io/research/polyfill-supply-chain-attack)
