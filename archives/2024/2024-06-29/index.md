@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-06-29](index.md)
 
+* [2024-06-29, 14:47:04](https://news.ycombinator.com/item?id=40830996) - [Show HN: Protect your links with a password](https://www.protectmylink.xyz/)
 * [2024-06-29, 14:19:19](https://news.ycombinator.com/item?id=40830804) - [R1 jailbreakers find security flaw in Rabbit's code](https://www.theverge.com/2024/6/26/24186614/rabbit-r1-security-flaw-api-key-codebase)
 * [2024-06-29, 14:12:49](https://news.ycombinator.com/item?id=40830748) - [Warren Buffett donates record $5.3B Berkshire shares to charity](https://www.reuters.com/business/warren-buffett-donate-up-53-bln-berkshire-shares-2024-06-28/)
+* [2024-06-29, 13:26:46](https://news.ycombinator.com/item?id=40830332) - [The Economics of Writing Technical Books](https://architectelevator.com/strategy/book-author-economics/)
 * [2024-06-29, 12:56:05](https://news.ycombinator.com/item?id=40830126) - [We Just Witnessed the Biggest Supreme Court Power Grab Since 1803](https://www.thenation.com/article/society/chevron-deference-supreme-court-power-grab/)
 * [2024-06-29, 12:35:51](https://news.ycombinator.com/item?id=40830005) - [Bytecode Breakdown: Unraveling Factorio's Lua Security Flaws](https://memorycorruption.net/posts/rce-lua-factorio/)
 * [2024-06-29, 12:05:58](https://news.ycombinator.com/item?id=40829797) - [NASA and Boeing deny Starliner crew is stranded: We're not in rush to come home](https://techcrunch.com/2024/06/28/nasa-and-boeing-deny-starliner-crew-is-stranded-were-not-in-any-rush-to-come-home/)
