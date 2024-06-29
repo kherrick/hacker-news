@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-29, 09:48:19](https://news.ycombinator.com/item?id=40829030) - [Ticketmaster has begun warning customers about data breach](https://stackdiary.com/ticketmaster-has-begun-warning-customers-about-data-breach/)
+* [2024-06-29, 09:32:57](https://news.ycombinator.com/item?id=40828971) - [Diversity Was Supposed to Make Us Rich. Not So Much](https://www.wsj.com/finance/investing/diversity-was-supposed-to-make-us-rich-not-so-much-39da6a23)
 * [2024-06-29, 08:00:56](https://news.ycombinator.com/item?id=40828610) - [It's not just you, Next.js is getting harder to use](https://www.propelauth.com/post/nextjs-challenges)
 * [2024-06-29, 07:09:45](https://news.ycombinator.com/item?id=40828441) - [All web \"content\" is freeware](https://rubenerd.com/all-web-content-is-freeware/)
 * [2024-06-29, 07:09:16](https://news.ycombinator.com/item?id=40828438) - [Microsoft CEO of AI Your online content is 'freeware' fodder for training models](https://www.theregister.com/2024/06/28/microsoft_ceo_ai/)
@@ -9,7 +10,6 @@
 * [2024-06-29, 06:07:50](https://news.ycombinator.com/item?id=40828203) - [How to waste bandwidth, battery power, and annoy sysadmins](https://rachelbythebay.com/w/2024/06/28/fxios/)
 * [2024-06-29, 05:56:02](https://news.ycombinator.com/item?id=40828180) - [Show HN: Safe Routes. real time turbulence data, ML predictions with an iPad](https://skypath.io)
 * [2024-06-29, 05:55:43](https://news.ycombinator.com/item?id=40828179) - [The Limited Value of Multivitamin Supplements](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2820375)
-* [2024-06-29, 05:30:43](https://news.ycombinator.com/item?id=40828091) - [Mooncake: A KVCache-Centric Disaggregated Architecture for LLM Serving](https://github.com/kvcache-ai/Mooncake)
 * [2024-06-29, 04:55:57](https://news.ycombinator.com/item?id=40827970) - [Artificial Needles to Real Haystacks: Improving Retrieval Capabilities in LLMs](https://arxiv.org/abs/2406.19292)
 * [2024-06-29, 03:19:42](https://news.ycombinator.com/item?id=40827650) - [The 'pay phone bandit' who baffled the FBI in the '80s](https://www.mentalfloss.com/posts/pay-phone-bandit-baffled-fbi)
 * [2024-06-29, 00:01:24](https://news.ycombinator.com/item?id=40826683) - [The XAES-256-GCM extended-nonce AEAD](https://words.filippo.io/dispatches/xaes-256-gcm/)
