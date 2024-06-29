@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-29, 07:52:43](https://news.ycombinator.com/item?id=40828587) - [I'm Terrified of Old People](https://guzey.com/old-people/)
+* [2024-06-29, 07:09:16](https://news.ycombinator.com/item?id=40828438) - [Microsoft CEO of AI Your online content is 'freeware' fodder for training models](https://www.theregister.com/2024/06/28/microsoft_ceo_ai/)
 * [2024-06-29, 07:00:30](https://news.ycombinator.com/item?id=40828408) - [Raycast (YC W20) Is Hiring a Senior Product Designer (UTC ± 3 Hours)](https://www.raycast.com/jobs/senior-product-designer)
+* [2024-06-29, 06:58:09](https://news.ycombinator.com/item?id=40828394) - [AMD MI300x GPUs with GEMM tuning improves throughput and latency by up to 7.2x](https://www.nscale.com/blog/nscale-benchmarks-amd-mi300x-gpus-with-gemm-tuning-improves-throughput-and-latency-by-up-to-7-2x)
 * [2024-06-29, 06:07:50](https://news.ycombinator.com/item?id=40828203) - [How to waste bandwidth, battery power, and annoy sysadmins](https://rachelbythebay.com/w/2024/06/28/fxios/)
 * [2024-06-29, 05:56:02](https://news.ycombinator.com/item?id=40828180) - [Show HN: Safe Routes. real time turbulence data, ML predictions with an iPad](https://skypath.io)
 * [2024-06-29, 03:19:42](https://news.ycombinator.com/item?id=40827650) - [The 'pay phone bandit' who baffled the FBI in the '80s](https://www.mentalfloss.com/posts/pay-phone-bandit-baffled-fbi)
@@ -17,7 +19,6 @@
 * [2024-06-28, 12:22:54](https://news.ycombinator.com/item?id=40819920) - [Quaternion Differentiation (2012)](https://fgiesen.wordpress.com/2012/08/24/quaternion-differentiation/)
 * [2024-06-28, 12:04:56](https://news.ycombinator.com/item?id=40819784) - [Is Clear Air Turbulence becoming more common?](https://www.flightradar24.com/blog/is-cat-more-common/)
 * [2024-06-28, 11:12:15](https://news.ycombinator.com/item?id=40819479) - [Meta LLM Compiler: neural optimizer and disassembler](https://twitter.com/AIatMeta/status/1806361623831171318/photo/1)
-* [2024-06-28, 08:47:56](https://news.ycombinator.com/item?id=40818835) - [Show HN: Thermion, an open source 3D rendering toolkit for Flutter and/or Dart](https://thermion.dev)
 * [2024-06-28, 08:40:44](https://news.ycombinator.com/item?id=40818809) - [Ask HN: What is the best code base you ever worked on?](https://news.ycombinator.com/item?id=40818809)
 * [2024-06-28, 04:54:53](https://news.ycombinator.com/item?id=40817852) - [Software galaxies](https://anvaka.github.io/pm/)
 * [2024-06-28, 03:08:47](https://news.ycombinator.com/item?id=40817343) - [Klára Dán von Neumann](https://en.wikipedia.org/wiki/Kl%C3%A1ra_D%C3%A1n_von_Neumann)
@@ -27,7 +28,6 @@
 * [2024-06-26, 20:05:42](https://news.ycombinator.com/item?id=40804069) - [ELIZA Reinterpreted: The world's first chatbot was not intended as a chatbot](https://arxiv.org/abs/2406.17650)
 * [2024-06-26, 12:06:35](https://news.ycombinator.com/item?id=40799006) - [Will we ever get fusion power?](https://www.construction-physics.com/p/will-we-ever-get-fusion-power)
 * [2024-06-25, 14:09:51](https://news.ycombinator.com/item?id=40788869) - [How to generate realistic people in Stable Diffusion](https://stable-diffusion-art.com/realistic-people/)
-* [2024-06-25, 11:28:01](https://news.ycombinator.com/item?id=40787124) - [It's getting harder to die](https://www.plough.com/en/topics/life/aging/its-getting-harder-to-die)
 * [2024-06-25, 10:43:59](https://news.ycombinator.com/item?id=40786786) - [Producing fuels from 1,500 degrees of solar heat](https://www.thechemicalengineer.com/news/producing-fuels-from-1-500-degrees-of-solar-heat-world-s-first-plant-opens-in-germany/)
 * [2024-06-25, 08:41:31](https://news.ycombinator.com/item?id=40786007) - [The Valjoux 7750 chronograph movement](https://monochrome-watches.com/valjoux-7750-chronograph-history-50-years-technical-explanation-evolution-clones-in-depth-review/)
 
