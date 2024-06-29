@@ -82,6 +82,7 @@
 * [2024-06-28, 04:13:49](https://news.ycombinator.com/item?id=40817644) - [Pulsar – A Community-Led Hyper-Hackable Text Editor](https://pulsar-edit.dev/)
 * [2024-06-28, 03:50:00](https://news.ycombinator.com/item?id=40817524) - [Einstein and his peers were 'irrationally resistant' to black holes](https://www.bbc.com/future/article/20240619-why-albert-einstein-rejected-black-holes-singularities-illustrated-story)
 * [2024-06-28, 03:30:08](https://news.ycombinator.com/item?id=40817430) - [Investigating SSMEC's (State Micro) 486s with the UCA](https://x86.fr/investigating-ssmecs-state-micro-486s-with-the-uca/)
+* [2024-06-28, 03:08:47](https://news.ycombinator.com/item?id=40817343) - [Klára Dán Von Neumann](https://en.wikipedia.org/wiki/Kl%C3%A1ra_D%C3%A1n_von_Neumann)
 * [2024-06-28, 02:36:40](https://news.ycombinator.com/item?id=40817227) - [Space Ghost: Coast to Coast and the Birth of the Weird (2016)](https://www.vulture.com/2016/10/space-ghost-coast-to-coast-and-the-birth-of-the-weird.html)
 * [2024-06-28, 02:30:18](https://news.ycombinator.com/item?id=40817199) - [Aeon: OpenSUSE for Lazy Developers](https://lwn.net/Articles/977987/)
 * [2024-06-28, 02:14:05](https://news.ycombinator.com/item?id=40817139) - [Hardware FPGA DPS-8M Mainframe and FNP Project](https://dps8m.gitlab.io/blog/posts/20240622_FPGA/)
