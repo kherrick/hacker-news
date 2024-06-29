@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-29](index.md)
 
 * [2024-06-29, 16:27:01](https://news.ycombinator.com/item?id=40831666) - [Work Hard](https://terrytao.wordpress.com/career-advice/work-hard/)
+* [2024-06-29, 16:22:03](https://news.ycombinator.com/item?id=40831638) - [Anatomy of a Cryptocurrency Scam Operation](https://practicalsecurity.substack.com/p/anatomy-of-a-cryptocurrency-scam)
 * [2024-06-29, 16:18:48](https://news.ycombinator.com/item?id=40831609) - [Widely reported study implying divorce more likely when wives fall ill gets axed](https://retractionwatch.com/2015/07/21/to-our-horror-widely-reported-study-suggesting-divorce-is-more-likely-when-wives-fall-ill-gets-axed/)
 * [2024-06-29, 16:09:46](https://news.ycombinator.com/item?id=40831560) - [For the record: You just ordered me to cause a expensive outage](https://www.theregister.com/2024/06/28/on_call/)
 * [2024-06-29, 15:59:12](https://news.ycombinator.com/item?id=40831489) - [FUTO Keyboard](https://keyboard.futo.org/)
