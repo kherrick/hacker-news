@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-06-29](index.md)
 
 * [2024-06-29, 17:39:16](https://news.ycombinator.com/item?id=40832214) - [Picasso Museum in Paris Puts Thousands of His Works in New Online Archive](https://www.smithsonianmag.com/smart-news/thousands-of-pablo-picassos-works-are-now-online-180984597/)
+* [2024-06-29, 17:07:38](https://news.ycombinator.com/item?id=40831991) - [Goldman Sachs Python toolkit for quantitative finance](https://github.com/goldmansachs/gs-quant)
+* [2024-06-29, 16:56:51](https://news.ycombinator.com/item?id=40831904) - [Show HN: Pickcode – Free online code editor for kids](https://pickcode.io)
 * [2024-06-29, 16:27:01](https://news.ycombinator.com/item?id=40831666) - [Work Hard](https://terrytao.wordpress.com/career-advice/work-hard/)
 * [2024-06-29, 16:22:03](https://news.ycombinator.com/item?id=40831638) - [Anatomy of a Cryptocurrency Scam Operation](https://practicalsecurity.substack.com/p/anatomy-of-a-cryptocurrency-scam)
 * [2024-06-29, 16:18:48](https://news.ycombinator.com/item?id=40831609) - [Widely reported study implying divorce more likely when wives fall ill gets axed](https://retractionwatch.com/2015/07/21/to-our-horror-widely-reported-study-suggesting-divorce-is-more-likely-when-wives-fall-ill-gets-axed/)
