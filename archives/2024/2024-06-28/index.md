@@ -81,6 +81,7 @@
 * [2024-06-28, 07:44:43](https://news.ycombinator.com/item?id=40818573) - [That Editor](https://github.com/bisqwit/that_editor)
 * [2024-06-28, 07:09:17](https://news.ycombinator.com/item?id=40818422) - [Frame.work laptop now available in Denmark, Finland, and Sweden](https://community.frame.work/t/now-available-in-denmark-finland-and-sweden/53690)
 * [2024-06-28, 06:30:32](https://news.ycombinator.com/item?id=40818268) - [Hype Cycle for Enterprise Architecture](https://einarwh.github.io/hypecycle.html)
+* [2024-06-28, 05:51:58](https://news.ycombinator.com/item?id=40818101) - [James Joyce Was a Complicated Man](https://www.thefitzwilliam.com/p/james-joyce-was-a-complicated-man)
 * [2024-06-28, 05:20:36](https://news.ycombinator.com/item?id=40817970) - [Supercomputer-on-a-chip goes live: single PCIe card packs more than 6k cores](https://www.techradar.com/pro/supercomputer-on-a-chip-goes-live-single-pcie-card-packs-more-than-6000-risc-v-cores-with-the-ability-to-scale-to-more-than-360000-cores-but-startup-still-remains-elusive-on-pricing)
 * [2024-06-28, 04:54:53](https://news.ycombinator.com/item?id=40817852) - [Software galaxies](https://anvaka.github.io/pm/)
 * [2024-06-28, 04:13:49](https://news.ycombinator.com/item?id=40817644) - [Pulsar – A Community-Led Hyper-Hackable Text Editor](https://pulsar-edit.dev/)

@@ -13,6 +13,7 @@
 * [2024-06-29, 15:54:51](https://news.ycombinator.com/item?id=40831457) - [Tiny bright objects discovered at dawn of universe baffle scientists](https://phys.org/news/2024-06-tiny-bright-dawn-universe-baffle.html)
 * [2024-06-29, 15:19:53](https://news.ycombinator.com/item?id=40831200) - [The Smart Principles: Designing Interfaces That LLMs Understand](https://medium.com/@zhihao.zhou.bupt/the-smart-principles-designing-interfaces-that-llms-understand-aca00630c8c9)
 * [2024-06-29, 14:47:04](https://news.ycombinator.com/item?id=40830996) - [Show HN: Protect your links with a password](https://www.protectmylink.xyz/)
+* [2024-06-29, 14:34:46](https://news.ycombinator.com/item?id=40830919) - [Bitcoin windfall for Mt. Gox creditors after 10 year wait, 10,000% price spike](https://www.cnbc.com/2024/06/29/bitcoin-windfall-comes-for-mt-gox-creditors-after-10000percent-price-spike.html)
 * [2024-06-29, 14:21:20](https://news.ycombinator.com/item?id=40830812) - [The State of World Fisheries and Aquaculture](https://openknowledge.fao.org/server/api/core/bitstreams/a4151f1e-3130-4504-a7d7-4b066de59030/content)
 * [2024-06-29, 14:19:19](https://news.ycombinator.com/item?id=40830804) - [R1 jailbreakers find security flaw in Rabbit's code](https://www.theverge.com/2024/6/26/24186614/rabbit-r1-security-flaw-api-key-codebase)
 * [2024-06-29, 14:13:09](https://news.ycombinator.com/item?id=40830752) - [Controlling Warpage in Advanced Packages](https://semiengineering.com/controlling-warpage-in-advanced-packages/)
