@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-29, 22:03:18](https://news.ycombinator.com/item?id=40833610) - [NuExtract: A LLM for Structured Extraction](https://huggingface.co/numind/NuExtract)
 * [2024-06-29, 21:01:11](https://news.ycombinator.com/item?id=40833327) - [The Operational Wargame Series: The best game not in stores now (2021)](https://nodicenoglory.com/2021/06/23/the-operational-wargame-series-the-best-game-not-in-stores-now/)
 * [2024-06-29, 19:46:20](https://news.ycombinator.com/item?id=40832930) - [Overleaf: An open-source online real-time collaborative LaTeX editor](https://github.com/overleaf/overleaf)
+* [2024-06-29, 18:54:01](https://news.ycombinator.com/item?id=40832648) - [A New Atlantis](https://model-thinking.com/p/a-new-atlantis)
 * [2024-06-29, 17:40:11](https://news.ycombinator.com/item?id=40832223) - [AirPods fast connect security vulnerability](https://blogs.gnome.org/jdressler/2024/06/26/do-a-firmware-update-for-your-airpods-now/)
 * [2024-06-29, 17:39:16](https://news.ycombinator.com/item?id=40832214) - [Thousands of Pablo Picasso’s works in a new online archive](https://www.smithsonianmag.com/smart-news/thousands-of-pablo-picassos-works-are-now-online-180984597/)
 * [2024-06-29, 17:27:58](https://news.ycombinator.com/item?id=40832146) - [Show HN: I am building an open-source Confluence and Notion alternative](https://github.com/docmost/docmost)
