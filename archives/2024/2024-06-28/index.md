@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-28](index.md)
 
 * [2024-06-28, 22:59:05](https://news.ycombinator.com/item?id=40826236) - [A Eulogy for DevOps](https://matduggan.com/a-eulogy-for-devops/)
+* [2024-06-28, 22:35:03](https://news.ycombinator.com/item?id=40826038) - [What is a CIDR trie and how can it help you?](https://d34dl0ck.me/rust-bites-cidr-trie/index.html)
 * [2024-06-28, 22:05:29](https://news.ycombinator.com/item?id=40825774) - [you should probably have a kid](https://benexdict.io/p/you-should-probably-have-a-kid)
 * [2024-06-28, 21:52:28](https://news.ycombinator.com/item?id=40825660) - [Paramount Wipes South Park, Daily Show Clips, and More from Websites](https://www.gamespot.com/articles/paramount-wipes-south-park-daily-show-clips-and-more-from-websites/1100-6524578/)
 * [2024-06-28, 21:41:24](https://news.ycombinator.com/item?id=40825570) - [Migrating from Java 8 to Java 17 II: Notable API Changes Since Java 8](https://igorstechnoclub.com/notable-api-changes-in-java-from-version-8-to-17/)
@@ -71,6 +72,7 @@
 * [2024-06-28, 09:23:55](https://news.ycombinator.com/item?id=40818987) - [Parkinson's Link to Gut Bacteria Suggests Unexpected, Simple Treatment](https://www.sciencealert.com/parkinsons-link-to-gut-bacteria-suggests-unexpected-simple-treatment)
 * [2024-06-28, 09:12:56](https://news.ycombinator.com/item?id=40818943) - [Orbital Mechanics and Astrodynamics](https://orbital-mechanics.space/intro.html)
 * [2024-06-28, 08:59:37](https://news.ycombinator.com/item?id=40818879) - [The Simplest Way to Control Nvidia GPU Fan Speed in Linux](https://github.com/RoversX/nvidia_fan_control_linux)
+* [2024-06-28, 08:47:56](https://news.ycombinator.com/item?id=40818835) - [Show HN: Thermion, an open source 3D rendering toolkit for Flutter and/or Dart](https://thermion.dev)
 * [2024-06-28, 08:40:44](https://news.ycombinator.com/item?id=40818809) - [Ask HN: What is the best code base you ever worked on?](https://news.ycombinator.com/item?id=40818809)
 * [2024-06-28, 07:09:17](https://news.ycombinator.com/item?id=40818422) - [Frame.work laptop now available in Denmark, Finland, and Sweden](https://community.frame.work/t/now-available-in-denmark-finland-and-sweden/53690)
 * [2024-06-28, 06:30:32](https://news.ycombinator.com/item?id=40818268) - [Hype Cycle for Enterprise Architecture](https://einarwh.github.io/hypecycle.html)
