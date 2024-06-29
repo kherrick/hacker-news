@@ -44,6 +44,7 @@
 * [2024-06-25, 16:31:23](https://news.ycombinator.com/item?id=40790519) - [Surprise, your data warehouse can RAG](https://www.rainforestqa.com/blog/your-data-warehouse-can-rag)
 * [2024-06-25, 16:28:45](https://news.ycombinator.com/item?id=40790481) - [Surface Laptop review: Microsoft's best MacBook Air competitor yet](https://www.theverge.com/2024/6/25/24185462/microsoft-surface-laptop-7th-edition-review)
 * [2024-06-25, 16:22:45](https://news.ycombinator.com/item?id=40790414) - [Google no longer developing Material Web Components](https://github.com/material-components/material-web/discussions/5642)
+* [2024-06-25, 16:15:29](https://news.ycombinator.com/item?id=40790347) - [Ask HN: How Does Alexa Avoid Interrupting Itself When Saying Its Own Name?](https://news.ycombinator.com/item?id=40790347)
 * [2024-06-25, 16:03:38](https://news.ycombinator.com/item?id=40790214) - [And Now Xylitol](https://www.science.org/content/blog-post/and-now-xylitol)
 * [2024-06-25, 15:48:29](https://news.ycombinator.com/item?id=40790057) - [Chang'e 6 lunar sample return mission returns with samples from moon's far side](https://www.theguardian.com/world/article/2024/jun/25/chinas-change-6-lunar-probe-returns-world-first-samples-from-far-side-of-the-moon)
 * [2024-06-25, 15:44:38](https://news.ycombinator.com/item?id=40790008) - [Igneous Linearizer: semi-structured source code](https://domain-j.com/Igneous-Linearizer/uuid/9e30337c-b890-4fd9-a0bd-51a7aa6e65b0)
