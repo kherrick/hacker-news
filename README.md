@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-29, 03:19:42](https://news.ycombinator.com/item?id=40827650) - [The 'Pay Phone Bandit' Who Baffled the FBI in the '80s](https://www.mentalfloss.com/posts/pay-phone-bandit-baffled-fbi)
+* [2024-06-29, 03:05:09](https://news.ycombinator.com/item?id=40827586) - [OpenLoco: Modern, open source version of the classic transport simulation game](https://openloco.io/)
 * [2024-06-29, 00:24:30](https://news.ycombinator.com/item?id=40826817) - [Hacking Amazon's Eero 6 (part 1)](https://markuta.com/eero-6-hacking-part-1/)
 * [2024-06-29, 00:01:24](https://news.ycombinator.com/item?id=40826683) - [The XAES-256-GCM extended-nonce AEAD](https://words.filippo.io/dispatches/xaes-256-gcm/)
 * [2024-06-28, 22:59:05](https://news.ycombinator.com/item?id=40826236) - [A Eulogy for DevOps](https://matduggan.com/a-eulogy-for-devops/)
@@ -10,7 +11,6 @@
 * [2024-06-28, 19:23:43](https://news.ycombinator.com/item?id=40824209) - [Pompeii fixed potholes with molten iron (2019)](https://www.smithsonianmag.com/smart-news/pompeii-fixed-potholes-molten-iron-180972203/)
 * [2024-06-28, 16:56:08](https://news.ycombinator.com/item?id=40822522) - [What Happened to People Magazine?](https://annehelen.substack.com/p/what-happened-to-people-magazine)
 * [2024-06-28, 14:31:12](https://news.ycombinator.com/item?id=40820949) - [Supreme Court overturns 40-year-old \"Chevron deference\" doctrine](https://www.axios.com/2024/06/28/supreme-court-chevron-doctrine-ruling)
-* [2024-06-28, 13:14:36](https://news.ycombinator.com/item?id=40820311) - [Apple II graphics: More than you wanted to know](https://nicole.express/2024/phasing-in-and-out-of-existence.html)
 * [2024-06-28, 12:41:22](https://news.ycombinator.com/item?id=40820063) - [New ways to catch gravitational waves](https://www.nature.com/articles/d41586-024-02003-6)
 * [2024-06-28, 12:22:54](https://news.ycombinator.com/item?id=40819920) - [Quaternion Differentiation (2012)](https://fgiesen.wordpress.com/2012/08/24/quaternion-differentiation/)
 * [2024-06-28, 12:04:56](https://news.ycombinator.com/item?id=40819784) - [Is Clear Air Turbulence becoming more common?](https://www.flightradar24.com/blog/is-cat-more-common/)

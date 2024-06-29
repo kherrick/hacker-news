@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-29](index.md)
 
 * [2024-06-29, 03:19:42](https://news.ycombinator.com/item?id=40827650) - [The 'Pay Phone Bandit' Who Baffled the FBI in the '80s](https://www.mentalfloss.com/posts/pay-phone-bandit-baffled-fbi)
+* [2024-06-29, 03:05:09](https://news.ycombinator.com/item?id=40827586) - [OpenLoco: Modern, open source version of the classic transport simulation game](https://openloco.io/)
 * [2024-06-29, 01:58:44](https://news.ycombinator.com/item?id=40827315) - [Bacteria found to produce proteins that act like antifreeze](https://phys.org/news/2024-06-bacteria-proteins-antifreeze-marine-worms.html)
 * [2024-06-29, 01:17:03](https://news.ycombinator.com/item?id=40827108) - [Microsoft pauses Windows 11 update as it's sending some PCs into infinite reboot](https://www.techradar.com/computing/windows/microsoft-pauses-windows-11-update-as-its-sending-some-pcs-into-an-infinite-reboot-hell)
 * [2024-06-29, 00:54:22](https://news.ycombinator.com/item?id=40826989) - [DevOps: The Funeral](https://logical.li/blog/devops/)
