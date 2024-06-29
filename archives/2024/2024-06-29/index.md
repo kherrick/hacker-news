@@ -20,6 +20,7 @@
 * [2024-06-29, 17:55:22](https://news.ycombinator.com/item?id=40832330) - [Open-LLM performances are plateauing](https://huggingface.co/spaces/open-llm-leaderboard/blog)
 * [2024-06-29, 17:40:11](https://news.ycombinator.com/item?id=40832223) - [AirPods fast connect security vulnerability](https://blogs.gnome.org/jdressler/2024/06/26/do-a-firmware-update-for-your-airpods-now/)
 * [2024-06-29, 17:39:16](https://news.ycombinator.com/item?id=40832214) - [Picasso Museum in Paris Puts Thousands of His Works in New Online Archive](https://www.smithsonianmag.com/smart-news/thousands-of-pablo-picassos-works-are-now-online-180984597/)
+* [2024-06-29, 17:27:58](https://news.ycombinator.com/item?id=40832146) - [Show HN: I am building an open-source Confluence and Notion alternative](https://github.com/docmost/docmost)
 * [2024-06-29, 17:07:38](https://news.ycombinator.com/item?id=40831991) - [Goldman Sachs Python toolkit for quantitative finance](https://github.com/goldmansachs/gs-quant)
 * [2024-06-29, 16:56:51](https://news.ycombinator.com/item?id=40831904) - [Show HN: Pickcode – Free online code editor for kids](https://pickcode.io)
 * [2024-06-29, 16:27:01](https://news.ycombinator.com/item?id=40831666) - [Work Hard](https://terrytao.wordpress.com/career-advice/work-hard/)
