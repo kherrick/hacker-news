@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-29](index.md)
 
+* [2024-06-29, 23:20:01](https://news.ycombinator.com/item?id=40833975) - [Lego made bricks out of meteorite dust and they're on display at select stores](https://www.engadget.com/lego-made-bricks-out-of-meteorite-dust-and-theyre-on-display-at-select-stores-161440194.html)
 * [2024-06-29, 22:03:18](https://news.ycombinator.com/item?id=40833610) - [NuExtract: A LLM for Structured Extraction](https://huggingface.co/numind/NuExtract)
 * [2024-06-29, 21:50:38](https://news.ycombinator.com/item?id=40833558) - ['It's completely invasive': New app lets you spy on SF bars](https://sfstandard.com/2024/06/29/2night-live-stream-bars-privacy-concerns/)
 * [2024-06-29, 21:28:31](https://news.ycombinator.com/item?id=40833441) - [All-AI Ad from Toys 'R' Us Inspires Debate over the Future of Marketing](https://www.wsj.com/articles/all-ai-ad-from-toys-r-us-inspires-debate-over-the-future-of-marketing-fbecc05b)
