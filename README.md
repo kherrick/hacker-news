@@ -2,10 +2,8 @@
 
 * [2024-06-29, 16:22:03](https://news.ycombinator.com/item?id=40831638) - [Anatomy of a Cryptocurrency Scam Operation](https://practicalsecurity.substack.com/p/anatomy-of-a-cryptocurrency-scam)
 * [2024-06-29, 16:18:48](https://news.ycombinator.com/item?id=40831609) - [Study implying divorce more likely when wives fall ill gets axed (2015)](https://retractionwatch.com/2015/07/21/to-our-horror-widely-reported-study-suggesting-divorce-is-more-likely-when-wives-fall-ill-gets-axed/)
-* [2024-06-29, 16:08:32](https://news.ycombinator.com/item?id=40831549) - [Will we die from minor scratches in the future? Q&A antibiotic resistance expert](https://theconversation.com/will-we-really-die-from-minor-scratches-in-the-future-qanda-with-antibiotic-resistance-expert-232118)
 * [2024-06-29, 15:59:12](https://news.ycombinator.com/item?id=40831489) - [FUTO Keyboard](https://keyboard.futo.org/)
 * [2024-06-29, 15:54:51](https://news.ycombinator.com/item?id=40831457) - [Tiny bright objects discovered at dawn of universe baffle scientists](https://phys.org/news/2024-06-tiny-bright-dawn-universe-baffle.html)
-* [2024-06-29, 15:19:53](https://news.ycombinator.com/item?id=40831200) - [The Smart Principles: Designing Interfaces That LLMs Understand](https://medium.com/@zhihao.zhou.bupt/the-smart-principles-designing-interfaces-that-llms-understand-aca00630c8c9)
 * [2024-06-29, 14:47:04](https://news.ycombinator.com/item?id=40830996) - [Show HN: Protect your links with a password](https://www.protectmylink.xyz/)
 * [2024-06-29, 14:34:46](https://news.ycombinator.com/item?id=40830919) - [Bitcoin windfall for Mt. Gox creditors after 10 year wait, 10,000% price spike](https://www.cnbc.com/2024/06/29/bitcoin-windfall-comes-for-mt-gox-creditors-after-10000percent-price-spike.html)
 * [2024-06-29, 14:13:09](https://news.ycombinator.com/item?id=40830752) - [Controlling Warpage in Advanced Packages](https://semiengineering.com/controlling-warpage-in-advanced-packages/)
@@ -25,9 +23,11 @@
 * [2024-06-28, 11:12:15](https://news.ycombinator.com/item?id=40819479) - [Meta LLM Compiler: neural optimizer and disassembler](https://twitter.com/AIatMeta/status/1806361623831171318/photo/1)
 * [2024-06-28, 07:44:43](https://news.ycombinator.com/item?id=40818573) - [That Editor](https://github.com/bisqwit/that_editor)
 * [2024-06-28, 05:51:58](https://news.ycombinator.com/item?id=40818101) - [James Joyce Was a Complicated Man](https://www.thefitzwilliam.com/p/james-joyce-was-a-complicated-man)
+* [2024-06-28, 04:54:53](https://news.ycombinator.com/item?id=40817852) - [Software galaxies](https://anvaka.github.io/pm/)
 * [2024-06-28, 03:08:47](https://news.ycombinator.com/item?id=40817343) - [Klára Dán von Neumann](https://en.wikipedia.org/wiki/Kl%C3%A1ra_D%C3%A1n_von_Neumann)
 * [2024-06-27, 17:22:51](https://news.ycombinator.com/item?id=40812833) - [Entrust Certificate Distrust](https://security.googleblog.com/2024/06/sustaining-digital-certificate-security.html)
 * [2024-06-25, 18:08:17](https://news.ycombinator.com/item?id=40791596) - [Texture Enhancement for Video Super-Resolution](https://github.com/DachunKai/EvTexture)
+* [2024-06-25, 11:28:01](https://news.ycombinator.com/item?id=40787124) - [It's getting harder to die](https://www.plough.com/en/topics/life/aging/its-getting-harder-to-die)
 * [2024-06-25, 10:43:59](https://news.ycombinator.com/item?id=40786786) - [Producing fuels from 1,500 degrees of solar heat](https://www.thechemicalengineer.com/news/producing-fuels-from-1-500-degrees-of-solar-heat-world-s-first-plant-opens-in-germany/)
 * [2024-06-25, 08:41:31](https://news.ycombinator.com/item?id=40786007) - [The Valjoux 7750 chronograph movement](https://monochrome-watches.com/valjoux-7750-chronograph-history-50-years-technical-explanation-evolution-clones-in-depth-review/)
 
