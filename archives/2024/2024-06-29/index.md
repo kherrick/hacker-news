@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-29](index.md)
 
+* [2024-06-29, 17:39:16](https://news.ycombinator.com/item?id=40832214) - [Picasso Museum in Paris Puts Thousands of His Works in New Online Archive](https://www.smithsonianmag.com/smart-news/thousands-of-pablo-picassos-works-are-now-online-180984597/)
 * [2024-06-29, 16:27:01](https://news.ycombinator.com/item?id=40831666) - [Work Hard](https://terrytao.wordpress.com/career-advice/work-hard/)
 * [2024-06-29, 16:22:03](https://news.ycombinator.com/item?id=40831638) - [Anatomy of a Cryptocurrency Scam Operation](https://practicalsecurity.substack.com/p/anatomy-of-a-cryptocurrency-scam)
 * [2024-06-29, 16:18:48](https://news.ycombinator.com/item?id=40831609) - [Widely reported study implying divorce more likely when wives fall ill gets axed](https://retractionwatch.com/2015/07/21/to-our-horror-widely-reported-study-suggesting-divorce-is-more-likely-when-wives-fall-ill-gets-axed/)
@@ -29,6 +30,7 @@
 * [2024-06-29, 11:38:01](https://news.ycombinator.com/item?id=40829607) - [A Bunch of Programming Advice I'd Give to Myself 15 Years Ago](https://mbuffett.com/posts/programming-advice-younger-self/)
 * [2024-06-29, 11:22:11](https://news.ycombinator.com/item?id=40829513) - [Technology is about to accelerate. Because Chevron deference is over](https://twitter.com/balajis/status/1806773841395675218)
 * [2024-06-29, 11:20:18](https://news.ycombinator.com/item?id=40829499) - [Chris Titus Tech's Windows Utility – Install Programs, Tweaks, Fixes and Updates](https://github.com/ChrisTitusTech/winutil)
+* [2024-06-29, 11:12:42](https://news.ycombinator.com/item?id=40829459) - [Researchers at ETH Zurich develop the fastest possible flow algorithm](https://ethz.ch/en/news-and-events/eth-news/news/2024/06/researchers-at-eth-zurich-develop-the-fastest-possible-flow-algorithm.html)
 * [2024-06-29, 11:03:43](https://news.ycombinator.com/item?id=40829401) - [A violent gang's ruthless crypto-stealing home invasion spree](https://www.wired.com/story/crypto-home-invasion-crime-ring/)
 * [2024-06-29, 10:58:08](https://news.ycombinator.com/item?id=40829357) - [Developer experience: What is it and why should you care? (2023)](https://github.blog/2023-06-08-developer-experience-what-is-it-and-why-should-you-care/)
 * [2024-06-29, 10:52:04](https://news.ycombinator.com/item?id=40829312) - [How I overcame my addiction to sugar](https://josem.co/how-i-overcame-my-addiction-to-sugar/)
