@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-29, 18:34:02](https://news.ycombinator.com/item?id=40832542) - [Russian death camp: Three stories of Ukrainian prisoners](https://texty.org.ua/articles/112816/russian-death-camp-three-stories-ukrainian-prisoners/)
 * [2024-06-29, 17:39:16](https://news.ycombinator.com/item?id=40832214) - [Thousands of Pablo Picasso’s works in a new online archive](https://www.smithsonianmag.com/smart-news/thousands-of-pablo-picassos-works-are-now-online-180984597/)
 * [2024-06-29, 17:07:38](https://news.ycombinator.com/item?id=40831991) - [Python toolkit for quantitative finance](https://github.com/goldmansachs/gs-quant)
-* [2024-06-29, 16:56:51](https://news.ycombinator.com/item?id=40831904) - [Show HN: Pickcode – Free online code editor for kids](https://pickcode.io)
 * [2024-06-29, 16:22:03](https://news.ycombinator.com/item?id=40831638) - [Anatomy of a Cryptocurrency Scam Operation](https://practicalsecurity.substack.com/p/anatomy-of-a-cryptocurrency-scam)
 * [2024-06-29, 15:54:51](https://news.ycombinator.com/item?id=40831457) - [Tiny bright objects discovered at dawn of universe baffle scientists](https://phys.org/news/2024-06-tiny-bright-dawn-universe-baffle.html)
 * [2024-06-29, 14:34:46](https://news.ycombinator.com/item?id=40830919) - [Bitcoin windfall for Mt. Gox creditors after 10 year wait, 10,000% price spike](https://www.cnbc.com/2024/06/29/bitcoin-windfall-comes-for-mt-gox-creditors-after-10000percent-price-spike.html)
