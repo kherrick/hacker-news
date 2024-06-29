@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-29](index.md)
 
+* [2024-06-29, 20:14:10](https://news.ycombinator.com/item?id=40833068) - [The Antitrust Trial of the United States vs. Google, LLC](https://www.usvgoogleads.com/)
 * [2024-06-29, 18:53:04](https://news.ycombinator.com/item?id=40832644) - [Enhancing New York Times Web Performance with React 18](https://open.nytimes.com/enhancing-the-new-york-times-web-performance-with-react-18-d6f91a7c5af8)
 * [2024-06-29, 18:49:00](https://news.ycombinator.com/item?id=40832627) - [Poseidon malware menaces Mac users via GoogleAds](https://www.scmagazine.com/news/poseidon-malware-menaces-mac-users-via-googleads)
 * [2024-06-29, 18:34:02](https://news.ycombinator.com/item?id=40832542) - [Russian death camp: Three stories of Ukrainian prisoners](https://texty.org.ua/articles/112816/russian-death-camp-three-stories-ukrainian-prisoners/)
