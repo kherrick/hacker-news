@@ -65,6 +65,7 @@
 * [2024-06-28, 11:52:36](https://news.ycombinator.com/item?id=40819712) - [The Dinner Party That Served Up 50k-Year-Old Bison Stew (2018)](https://www.atlasobscura.com/articles/ancient-bison-stew-blue-babe-alaska)
 * [2024-06-28, 11:43:22](https://news.ycombinator.com/item?id=40819662) - [The Hyundai Inster is a cool, small EV – so of course it's not coming to the US](https://www.theverge.com/2024/6/27/24187409/hyundai-inster-small-ev-compact-price-specs-us)
 * [2024-06-28, 11:37:42](https://news.ycombinator.com/item?id=40819628) - [Perplexity's Grand Theft AI](https://www.theverge.com/2024/6/27/24187405/perplexity-ai-twitter-lie-plagiarism)
+* [2024-06-28, 11:36:31](https://news.ycombinator.com/item?id=40819623) - [Show HN: Conway's Game of Life, but as a div full of Braille characters](https://px.neocities.org/life#)
 * [2024-06-28, 11:35:34](https://news.ycombinator.com/item?id=40819617) - [A Novel way to curb poaching, injecting radioisotopes into 20 live rhinoceros](https://www.wits.ac.za/news/latest-news/general-news/2024/2024-06/a-novel-way-to-save-rhinos-.html)
 * [2024-06-28, 11:23:49](https://news.ycombinator.com/item?id=40819534) - [Stars Reach – new social sandbox MMO by Raph Koster announced](https://starsreach.com/)
 * [2024-06-28, 11:20:09](https://news.ycombinator.com/item?id=40819517) - [Japan's Mini Kei-Truck Sales Surge in US Despite Safety Concerns](https://www.bloomberg.com/news/articles/2024-06-27/japan-s-mini-kei-truck-sales-surge-in-us-despite-safety-concerns)
