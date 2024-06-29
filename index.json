@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-29, 12:35:51",
+      "https://news.ycombinator.com/item?id=40830005"
+    ],
+    [
+      "Bytecode Breakdown: Unraveling Factorio's Lua Security Flaws",
+      "https://memorycorruption.net/posts/rce-lua-factorio/"
+    ]
+  ],
+  [
+    [
       "2024-06-29, 12:02:06",
       "https://news.ycombinator.com/item?id=40829780"
     ],
@@ -127,16 +137,6 @@
     [
       "Category theory using string diagrams (2014)",
       "https://arxiv.org/abs/1401.7220"
-    ]
-  ],
-  [
-    [
-      "2024-06-28, 20:49:23",
-      "https://news.ycombinator.com/item?id=40825146"
-    ],
-    [
-      "Open source 'Eclipse Theia IDE' exits beta to challenge Visual Studio Code",
-      "https://visualstudiomagazine.com/Articles/2024/06/27/eclipse-theia-ide.aspx"
     ]
   ],
   [
