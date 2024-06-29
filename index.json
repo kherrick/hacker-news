@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-06-29, 12:05:58",
-      "https://news.ycombinator.com/item?id=40829797"
+      "2024-06-29, 12:56:05",
+      "https://news.ycombinator.com/item?id=40830126"
     ],
     [
-      "NASA and Boeing deny Starliner crew is stranded: We're not in rush to come home",
-      "https://techcrunch.com/2024/06/28/nasa-and-boeing-deny-starliner-crew-is-stranded-were-not-in-any-rush-to-come-home/"
+      "We Just Witnessed the Biggest Supreme Court Power Grab Since 1803",
+      "https://www.thenation.com/article/society/chevron-deference-supreme-court-power-grab/"
     ]
   ],
   [
@@ -21,32 +21,12 @@
   ],
   [
     [
-      "2024-06-29, 11:44:04",
-      "https://news.ycombinator.com/item?id=40829653"
-    ],
-    [
-      "Panama Papers: Court acquits all 28 charged with money laundering",
-      "https://www.bbc.com/news/articles/cjer3llen42o"
-    ]
-  ],
-  [
-    [
       "2024-06-29, 11:38:01",
       "https://news.ycombinator.com/item?id=40829607"
     ],
     [
       "A Bunch of Programming Advice I'd Give to Myself 15 Years Ago",
       "https://mbuffett.com/posts/programming-advice-younger-self/"
-    ]
-  ],
-  [
-    [
-      "2024-06-29, 11:20:18",
-      "https://news.ycombinator.com/item?id=40829499"
-    ],
-    [
-      "Chris Titus Tech's Windows Utility – Install Programs, Tweaks, Fixes and Updates",
-      "https://github.com/ChrisTitusTech/winutil"
     ]
   ],
   [
@@ -111,16 +91,6 @@
   ],
   [
     [
-      "2024-06-29, 07:09:45",
-      "https://news.ycombinator.com/item?id=40828441"
-    ],
-    [
-      "All web \"content\" is freeware",
-      "https://rubenerd.com/all-web-content-is-freeware/"
-    ]
-  ],
-  [
-    [
       "2024-06-29, 06:58:09",
       "https://news.ycombinator.com/item?id=40828394"
     ],
@@ -157,6 +127,16 @@
     [
       "Artificial Needles to Real Haystacks: Improving Retrieval Capabilities in LLMs",
       "https://arxiv.org/abs/2406.19292"
+    ]
+  ],
+  [
+    [
+      "2024-06-29, 03:19:42",
+      "https://news.ycombinator.com/item?id=40827650"
+    ],
+    [
+      "The 'pay phone bandit' who baffled the FBI in the '80s",
+      "https://www.mentalfloss.com/posts/pay-phone-bandit-baffled-fbi"
     ]
   ],
   [
@@ -211,6 +191,16 @@
   ],
   [
     [
+      "2024-06-28, 12:04:56",
+      "https://news.ycombinator.com/item?id=40819784"
+    ],
+    [
+      "Is Clear Air Turbulence becoming more common?",
+      "https://www.flightradar24.com/blog/is-cat-more-common/"
+    ]
+  ],
+  [
+    [
       "2024-06-28, 11:23:49",
       "https://news.ycombinator.com/item?id=40819534"
     ],
@@ -221,12 +211,12 @@
   ],
   [
     [
-      "2024-06-28, 11:04:00",
-      "https://news.ycombinator.com/item?id=40819437"
+      "2024-06-28, 11:12:15",
+      "https://news.ycombinator.com/item?id=40819479"
     ],
     [
-      "Make Something With Your Hands (Even if It’s Hideous)",
-      "https://www.nytimes.com/2024/06/28/well/mind/hand-crafts-creation-art.html"
+      "Meta LLM Compiler: neural optimizer and disassembler",
+      "https://twitter.com/AIatMeta/status/1806361623831171318/photo/1"
     ]
   ],
   [
@@ -251,22 +241,32 @@
   ],
   [
     [
+      "2024-06-27, 17:22:51",
+      "https://news.ycombinator.com/item?id=40812833"
+    ],
+    [
+      "Entrust Certificate Distrust",
+      "https://security.googleblog.com/2024/06/sustaining-digital-certificate-security.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-26, 21:44:45",
+      "https://news.ycombinator.com/item?id=40804946"
+    ],
+    [
+      "Out of sight, 'dark fungi' run the world from the shadows",
+      "https://www.scientificamerican.com/article/mysterious-dark-fungi-are-lurking-everywhere/"
+    ]
+  ],
+  [
+    [
       "2024-06-25, 18:08:17",
       "https://news.ycombinator.com/item?id=40791596"
     ],
     [
       "Texture Enhancement for Video Super-Resolution",
       "https://github.com/DachunKai/EvTexture"
-    ]
-  ],
-  [
-    [
-      "2024-06-25, 14:09:51",
-      "https://news.ycombinator.com/item?id=40788869"
-    ],
-    [
-      "How to generate realistic people in Stable Diffusion",
-      "https://stable-diffusion-art.com/realistic-people/"
     ]
   ],
   [
