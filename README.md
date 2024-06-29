@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-29, 05:56:02](https://news.ycombinator.com/item?id=40828180) - [Show HN: Safe Routes. real time turbulence data, ML predictions with an iPad](https://skypath.io)
 * [2024-06-29, 03:19:42](https://news.ycombinator.com/item?id=40827650) - [The 'Pay Phone Bandit' Who Baffled the FBI in the '80s](https://www.mentalfloss.com/posts/pay-phone-bandit-baffled-fbi)
 * [2024-06-29, 03:05:09](https://news.ycombinator.com/item?id=40827586) - [OpenLoco: Modern, open source version of the classic transport simulation game](https://openloco.io/)
 * [2024-06-29, 00:01:24](https://news.ycombinator.com/item?id=40826683) - [The XAES-256-GCM extended-nonce AEAD](https://words.filippo.io/dispatches/xaes-256-gcm/)
@@ -26,7 +27,6 @@
 * [2024-06-26, 21:44:45](https://news.ycombinator.com/item?id=40804946) - [Out of sight, 'dark fungi' run the world from the shadows](https://www.scientificamerican.com/article/mysterious-dark-fungi-are-lurking-everywhere/)
 * [2024-06-26, 20:05:42](https://news.ycombinator.com/item?id=40804069) - [ELIZA Reinterpreted: The world's first chatbot was not intended as a chatbot](https://arxiv.org/abs/2406.17650)
 * [2024-06-26, 12:06:35](https://news.ycombinator.com/item?id=40799006) - [Will we ever get fusion power?](https://www.construction-physics.com/p/will-we-ever-get-fusion-power)
-* [2024-06-26, 06:26:44](https://news.ycombinator.com/item?id=40796980) - [Navigating Starlink's FCC Paper Trail](https://blog.apnic.net/2024/06/26/navigating-starlinks-fcc-paper-trail/)
 * [2024-06-25, 11:34:19](https://news.ycombinator.com/item?id=40787176) - [The magic of participatory randomness](https://cryptography.dog/blog/rng-day-2024/)
 * [2024-06-25, 10:43:59](https://news.ycombinator.com/item?id=40786786) - [Producing fuels from 1,500 degrees of solar heat](https://www.thechemicalengineer.com/news/producing-fuels-from-1-500-degrees-of-solar-heat-world-s-first-plant-opens-in-germany/)
 * [2024-06-25, 08:41:31](https://news.ycombinator.com/item?id=40786007) - [The Valjoux 7750 chronograph movement](https://monochrome-watches.com/valjoux-7750-chronograph-history-50-years-technical-explanation-evolution-clones-in-depth-review/)

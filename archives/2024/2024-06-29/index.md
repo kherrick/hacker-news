@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-29](index.md)
 
+* [2024-06-29, 05:56:02](https://news.ycombinator.com/item?id=40828180) - [Show HN: Safe Routes. real time turbulence data, ML predictions with an iPad](https://skypath.io)
 * [2024-06-29, 03:19:42](https://news.ycombinator.com/item?id=40827650) - [The 'Pay Phone Bandit' Who Baffled the FBI in the '80s](https://www.mentalfloss.com/posts/pay-phone-bandit-baffled-fbi)
 * [2024-06-29, 03:05:09](https://news.ycombinator.com/item?id=40827586) - [OpenLoco: Modern, open source version of the classic transport simulation game](https://openloco.io/)
 * [2024-06-29, 01:58:44](https://news.ycombinator.com/item?id=40827315) - [Bacteria found to produce proteins that act like antifreeze](https://phys.org/news/2024-06-bacteria-proteins-antifreeze-marine-worms.html)
