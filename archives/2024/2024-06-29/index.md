@@ -11,6 +11,8 @@
 * [2024-06-29, 06:58:09](https://news.ycombinator.com/item?id=40828394) - [AMD MI300x GPUs with GEMM tuning improves throughput and latency by up to 7.2x](https://www.nscale.com/blog/nscale-benchmarks-amd-mi300x-gpus-with-gemm-tuning-improves-throughput-and-latency-by-up-to-7-2x)
 * [2024-06-29, 06:07:50](https://news.ycombinator.com/item?id=40828203) - [How to waste bandwidth, battery power, and annoy sysadmins](https://rachelbythebay.com/w/2024/06/28/fxios/)
 * [2024-06-29, 05:56:02](https://news.ycombinator.com/item?id=40828180) - [Show HN: Safe Routes. real time turbulence data, ML predictions with an iPad](https://skypath.io)
+* [2024-06-29, 05:55:43](https://news.ycombinator.com/item?id=40828179) - [The Limited Value of Multivitamin Supplements](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2820375)
+* [2024-06-29, 05:30:43](https://news.ycombinator.com/item?id=40828091) - [Mooncake: A KVCache-Centric Disaggregated Architecture for LLM Serving](https://github.com/kvcache-ai/Mooncake)
 * [2024-06-29, 03:19:42](https://news.ycombinator.com/item?id=40827650) - [The 'Pay Phone Bandit' Who Baffled the FBI in the '80s](https://www.mentalfloss.com/posts/pay-phone-bandit-baffled-fbi)
 * [2024-06-29, 03:05:09](https://news.ycombinator.com/item?id=40827586) - [OpenLoco: Modern, open source version of the classic transport simulation game](https://openloco.io/)
 * [2024-06-29, 01:58:44](https://news.ycombinator.com/item?id=40827315) - [Bacteria found to produce proteins that act like antifreeze](https://phys.org/news/2024-06-bacteria-proteins-antifreeze-marine-worms.html)
