@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-06-29, 14:12:49",
-      "https://news.ycombinator.com/item?id=40830748"
+      "2024-06-29, 14:47:04",
+      "https://news.ycombinator.com/item?id=40830996"
     ],
     [
-      "Warren Buffett donates record $5.3B Berkshire shares to charity",
-      "https://www.reuters.com/business/warren-buffett-donate-up-53-bln-berkshire-shares-2024-06-28/"
+      "Show HN: Protect your links with a password",
+      "https://www.protectmylink.xyz/"
+    ]
+  ],
+  [
+    [
+      "2024-06-29, 13:26:46",
+      "https://news.ycombinator.com/item?id=40830332"
+    ],
+    [
+      "The Economics of Writing Technical Books",
+      "https://architectelevator.com/strategy/book-author-economics/"
     ]
   ],
   [
@@ -91,6 +101,16 @@
   ],
   [
     [
+      "2024-06-29, 05:30:43",
+      "https://news.ycombinator.com/item?id=40828091"
+    ],
+    [
+      "Mooncake: A KVCache-Centric Disaggregated Architecture for LLM Serving",
+      "https://github.com/kvcache-ai/Mooncake"
+    ]
+  ],
+  [
+    [
       "2024-06-29, 04:55:57",
       "https://news.ycombinator.com/item?id=40827970"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2024-06-28, 20:49:23",
-      "https://news.ycombinator.com/item?id=40825146"
-    ],
-    [
-      "Open source 'Eclipse Theia IDE' exits beta to challenge Visual Studio Code",
-      "https://visualstudiomagazine.com/Articles/2024/06/27/eclipse-theia-ide.aspx"
-    ]
-  ],
-  [
-    [
       "2024-06-28, 20:39:07",
       "https://news.ycombinator.com/item?id=40825033"
     ],
@@ -197,16 +207,6 @@
     [
       "Meta LLM Compiler: neural optimizer and disassembler",
       "https://twitter.com/AIatMeta/status/1806361623831171318/photo/1"
-    ]
-  ],
-  [
-    [
-      "2024-06-28, 08:40:44",
-      "https://news.ycombinator.com/item?id=40818809"
-    ],
-    [
-      "Ask HN: What is the best code base you ever worked on?",
-      "https://news.ycombinator.com/item?id=40818809"
     ]
   ],
   [
