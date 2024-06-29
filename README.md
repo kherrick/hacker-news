@@ -1,11 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-29, 21:50:38](https://news.ycombinator.com/item?id=40833558) - ['It's completely invasive': New app lets you spy on SF bars](https://sfstandard.com/2024/06/29/2night-live-stream-bars-privacy-concerns/)
-* [2024-06-29, 21:28:31](https://news.ycombinator.com/item?id=40833441) - [All-AI Ad from Toys 'R' Us Inspires Debate over the Future of Marketing](https://www.wsj.com/articles/all-ai-ad-from-toys-r-us-inspires-debate-over-the-future-of-marketing-fbecc05b)
+* [2024-06-29, 22:03:18](https://news.ycombinator.com/item?id=40833610) - [NuExtract: A LLM for Structured Extraction](https://huggingface.co/numind/NuExtract)
 * [2024-06-29, 21:01:11](https://news.ycombinator.com/item?id=40833327) - [The Operational Wargame Series: The best game not in stores now (2021)](https://nodicenoglory.com/2021/06/23/the-operational-wargame-series-the-best-game-not-in-stores-now/)
-* [2024-06-29, 21:00:13](https://news.ycombinator.com/item?id=40833323) - [Microsofts AI boss thinks its perfectly OK to steal content if its on open web](https://www.theverge.com/2024/6/28/24188391/microsoft-ai-suleyman-social-contract-freeware)
 * [2024-06-29, 19:46:20](https://news.ycombinator.com/item?id=40832930) - [Overleaf: An open-source online real-time collaborative LaTeX editor](https://github.com/overleaf/overleaf)
-* [2024-06-29, 17:55:22](https://news.ycombinator.com/item?id=40832330) - [Open-LLM performances are plateauing](https://huggingface.co/spaces/open-llm-leaderboard/blog)
 * [2024-06-29, 17:40:11](https://news.ycombinator.com/item?id=40832223) - [AirPods fast connect security vulnerability](https://blogs.gnome.org/jdressler/2024/06/26/do-a-firmware-update-for-your-airpods-now/)
 * [2024-06-29, 17:39:16](https://news.ycombinator.com/item?id=40832214) - [Thousands of Pablo Picasso’s works in a new online archive](https://www.smithsonianmag.com/smart-news/thousands-of-pablo-picassos-works-are-now-online-180984597/)
 * [2024-06-29, 17:27:58](https://news.ycombinator.com/item?id=40832146) - [Show HN: I am building an open-source Confluence and Notion alternative](https://github.com/docmost/docmost)
@@ -21,6 +18,7 @@
 * [2024-06-29, 07:25:49](https://news.ycombinator.com/item?id=40828493) - [Imhex: A hex editor for reverse engineers](https://github.com/WerWolv/ImHex)
 * [2024-06-29, 06:13:51](https://news.ycombinator.com/item?id=40828223) - [The Flexipede Revisited](https://www.chilton-computing.org.uk/acl/htmls/flexipede/flexipede.htm)
 * [2024-06-29, 05:56:02](https://news.ycombinator.com/item?id=40828180) - [Show HN: Safe Routes. real time turbulence data, ML predictions with an iPad](https://skypath.io)
+* [2024-06-29, 04:55:57](https://news.ycombinator.com/item?id=40827970) - [Artificial Needles to Real Haystacks: Improving Retrieval Capabilities in LLMs](https://arxiv.org/abs/2406.19292)
 * [2024-06-29, 00:01:24](https://news.ycombinator.com/item?id=40826683) - [The XAES-256-GCM extended-nonce AEAD](https://words.filippo.io/dispatches/xaes-256-gcm/)
 * [2024-06-28, 20:39:07](https://news.ycombinator.com/item?id=40825033) - [The story, as best I can remember, of the origin of Mosaic and Netscape [video]](https://pmarca.substack.com/p/the-true-story-as-best-i-can-remember)
 * [2024-06-28, 11:52:36](https://news.ycombinator.com/item?id=40819712) - [The Dinner Party That Served Up 50k-Year-Old Bison Stew (2018)](https://www.atlasobscura.com/articles/ancient-bison-stew-blue-babe-alaska)
@@ -29,7 +27,9 @@
 * [2024-06-28, 07:44:43](https://news.ycombinator.com/item?id=40818573) - [That Editor](https://github.com/bisqwit/that_editor)
 * [2024-06-28, 07:05:53](https://news.ycombinator.com/item?id=40818401) - [Mapping the Red Planet with the Power of Open Science](https://www.jpl.nasa.gov/news/mapping-the-red-planet-with-the-power-of-open-science)
 * [2024-06-28, 05:51:58](https://news.ycombinator.com/item?id=40818101) - [James Joyce was a complicated man](https://www.thefitzwilliam.com/p/james-joyce-was-a-complicated-man)
+* [2024-06-28, 03:08:47](https://news.ycombinator.com/item?id=40817343) - [Klára Dán von Neumann](https://en.wikipedia.org/wiki/Kl%C3%A1ra_D%C3%A1n_von_Neumann)
 * [2024-06-25, 18:08:17](https://news.ycombinator.com/item?id=40791596) - [Texture Enhancement for Video Super-Resolution](https://github.com/DachunKai/EvTexture)
+* [2024-06-25, 10:43:59](https://news.ycombinator.com/item?id=40786786) - [Producing fuels from 1,500 degrees of solar heat](https://www.thechemicalengineer.com/news/producing-fuels-from-1-500-degrees-of-solar-heat-world-s-first-plant-opens-in-germany/)
 
 ## [Archives](archives/index.md)
 
