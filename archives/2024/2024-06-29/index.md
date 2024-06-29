@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-29](index.md)
 
 * [2024-06-29, 21:50:38](https://news.ycombinator.com/item?id=40833558) - ['It's completely invasive': New app lets you spy on SF bars](https://sfstandard.com/2024/06/29/2night-live-stream-bars-privacy-concerns/)
+* [2024-06-29, 21:28:31](https://news.ycombinator.com/item?id=40833441) - [All-AI Ad from Toys 'R' Us Inspires Debate over the Future of Marketing](https://www.wsj.com/articles/all-ai-ad-from-toys-r-us-inspires-debate-over-the-future-of-marketing-fbecc05b)
 * [2024-06-29, 21:26:27](https://news.ycombinator.com/item?id=40833432) - [Amazon is reviewing whether Perplexity AI improperly scraped online content](https://apnews.com/article/amazon-perplexity-online-content-scraping-investigation-eb1d6bc1caf3dfe0c97db6f4fc691bc9)
 * [2024-06-29, 21:14:18](https://news.ycombinator.com/item?id=40833385) - [How divorce is boosting gender equality in Sweden – new study](https://theconversation.com/how-divorce-is-boosting-gender-equality-in-sweden-new-study-233474)
 * [2024-06-29, 21:01:11](https://news.ycombinator.com/item?id=40833327) - [The Operational Wargame Series: The best game not in stores now](https://nodicenoglory.com/2021/06/23/the-operational-wargame-series-the-best-game-not-in-stores-now/)

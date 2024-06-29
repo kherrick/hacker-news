@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-29, 21:50:38](https://news.ycombinator.com/item?id=40833558) - ['It's completely invasive': New app lets you spy on SF bars](https://sfstandard.com/2024/06/29/2night-live-stream-bars-privacy-concerns/)
+* [2024-06-29, 21:28:31](https://news.ycombinator.com/item?id=40833441) - [All-AI Ad from Toys 'R' Us Inspires Debate over the Future of Marketing](https://www.wsj.com/articles/all-ai-ad-from-toys-r-us-inspires-debate-over-the-future-of-marketing-fbecc05b)
 * [2024-06-29, 21:01:11](https://news.ycombinator.com/item?id=40833327) - [The Operational Wargame Series: The best game not in stores now (2021)](https://nodicenoglory.com/2021/06/23/the-operational-wargame-series-the-best-game-not-in-stores-now/)
 * [2024-06-29, 21:00:13](https://news.ycombinator.com/item?id=40833323) - [Microsofts AI boss thinks its perfectly OK to steal content if its on open web](https://www.theverge.com/2024/6/28/24188391/microsoft-ai-suleyman-social-contract-freeware)
 * [2024-06-29, 19:46:20](https://news.ycombinator.com/item?id=40832930) - [Overleaf: An open-source online real-time collaborative LaTeX editor](https://github.com/overleaf/overleaf)
@@ -20,7 +21,6 @@
 * [2024-06-29, 07:25:49](https://news.ycombinator.com/item?id=40828493) - [Imhex: A hex editor for reverse engineers](https://github.com/WerWolv/ImHex)
 * [2024-06-29, 06:13:51](https://news.ycombinator.com/item?id=40828223) - [The Flexipede Revisited](https://www.chilton-computing.org.uk/acl/htmls/flexipede/flexipede.htm)
 * [2024-06-29, 05:56:02](https://news.ycombinator.com/item?id=40828180) - [Show HN: Safe Routes. real time turbulence data, ML predictions with an iPad](https://skypath.io)
-* [2024-06-29, 04:55:57](https://news.ycombinator.com/item?id=40827970) - [Artificial Needles to Real Haystacks: Improving Retrieval Capabilities in LLMs](https://arxiv.org/abs/2406.19292)
 * [2024-06-29, 00:01:24](https://news.ycombinator.com/item?id=40826683) - [The XAES-256-GCM extended-nonce AEAD](https://words.filippo.io/dispatches/xaes-256-gcm/)
 * [2024-06-28, 20:39:07](https://news.ycombinator.com/item?id=40825033) - [The story, as best I can remember, of the origin of Mosaic and Netscape [video]](https://pmarca.substack.com/p/the-true-story-as-best-i-can-remember)
 * [2024-06-28, 11:52:36](https://news.ycombinator.com/item?id=40819712) - [The Dinner Party That Served Up 50k-Year-Old Bison Stew (2018)](https://www.atlasobscura.com/articles/ancient-bison-stew-blue-babe-alaska)
