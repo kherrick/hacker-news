@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-29](index.md)
 
+* [2024-06-29, 21:50:38](https://news.ycombinator.com/item?id=40833558) - ['It's completely invasive': New app lets you spy on SF bars](https://sfstandard.com/2024/06/29/2night-live-stream-bars-privacy-concerns/)
+* [2024-06-29, 21:14:18](https://news.ycombinator.com/item?id=40833385) - [How divorce is boosting gender equality in Sweden – new study](https://theconversation.com/how-divorce-is-boosting-gender-equality-in-sweden-new-study-233474)
+* [2024-06-29, 21:00:13](https://news.ycombinator.com/item?id=40833323) - [Microsofts AI boss thinks its perfectly OK to steal content if its on open web](https://www.theverge.com/2024/6/28/24188391/microsoft-ai-suleyman-social-contract-freeware)
 * [2024-06-29, 20:42:02](https://news.ycombinator.com/item?id=40833225) - [USB HID deevice class definition [pdf]](https://www.usb.org/sites/default/files/hid1_11.pdf)
 * [2024-06-29, 20:26:46](https://news.ycombinator.com/item?id=40833149) - [Ask HN: How to find a new job when I'm not good at networking?](https://news.ycombinator.com/item?id=40833149)
 * [2024-06-29, 20:14:10](https://news.ycombinator.com/item?id=40833068) - [The Antitrust Trial of the United States vs. Google, LLC](https://www.usvgoogleads.com/)
