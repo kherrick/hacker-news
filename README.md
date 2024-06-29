@@ -28,8 +28,8 @@
 * [2024-06-28, 07:05:53](https://news.ycombinator.com/item?id=40818401) - [Mapping the Red Planet with the Power of Open Science](https://www.jpl.nasa.gov/news/mapping-the-red-planet-with-the-power-of-open-science)
 * [2024-06-28, 05:51:58](https://news.ycombinator.com/item?id=40818101) - [James Joyce was a complicated man](https://www.thefitzwilliam.com/p/james-joyce-was-a-complicated-man)
 * [2024-06-28, 03:08:47](https://news.ycombinator.com/item?id=40817343) - [Klára Dán von Neumann](https://en.wikipedia.org/wiki/Kl%C3%A1ra_D%C3%A1n_von_Neumann)
+* [2024-06-25, 21:23:39](https://news.ycombinator.com/item?id=40793786) - [Ask HN: Why did GeoCities have that crazy design aesthetic?](https://news.ycombinator.com/item?id=40793786)
 * [2024-06-25, 18:08:17](https://news.ycombinator.com/item?id=40791596) - [Texture Enhancement for Video Super-Resolution](https://github.com/DachunKai/EvTexture)
-* [2024-06-25, 10:43:59](https://news.ycombinator.com/item?id=40786786) - [Producing fuels from 1,500 degrees of solar heat](https://www.thechemicalengineer.com/news/producing-fuels-from-1-500-degrees-of-solar-heat-world-s-first-plant-opens-in-germany/)
 
 ## [Archives](archives/index.md)
 

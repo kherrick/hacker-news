@@ -12,6 +12,7 @@
 * [2024-06-25, 22:41:09](https://news.ycombinator.com/item?id=40794523) - [Atomic Operations Composition in Go](https://antonz.org/atomics-composition/)
 * [2024-06-25, 21:44:43](https://news.ycombinator.com/item?id=40794022) - [Continuations by Example](https://matt.might.net/articles/programming-with-continuations--exceptions-backtracking-search-threads-generators-coroutines/)
 * [2024-06-25, 21:34:40](https://news.ycombinator.com/item?id=40793924) - [HyperCard Simulator](https://hcsimulator.com/)
+* [2024-06-25, 21:23:39](https://news.ycombinator.com/item?id=40793786) - [Ask HN: Why did GeoCities have that crazy design aesthetic?](https://news.ycombinator.com/item?id=40793786)
 * [2024-06-25, 21:19:56](https://news.ycombinator.com/item?id=40793748) - [Study comparing mitochondria in males and females finds extreme differences](https://dornsife.usc.edu/news/stories/mitochondrial-sex-differences-suggest-treatment-strategies/)
 * [2024-06-25, 21:00:06](https://news.ycombinator.com/item?id=40793540) - [Supabase (YC S20) Is Hiring Postgres SREs](https://boards.greenhouse.io/supabase/jobs/5162509004)
 * [2024-06-25, 20:57:49](https://news.ycombinator.com/item?id=40793516) - [AP launches a sister organization seeking grants to support local, state news](https://apnews.com/article/reporters-local-ap-foundations-c2c3fced7b46e7f0a6e0ebe6773fde4a)
