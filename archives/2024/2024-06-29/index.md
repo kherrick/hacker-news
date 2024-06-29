@@ -8,6 +8,7 @@
 * [2024-06-29, 16:22:03](https://news.ycombinator.com/item?id=40831638) - [Anatomy of a Cryptocurrency Scam Operation](https://practicalsecurity.substack.com/p/anatomy-of-a-cryptocurrency-scam)
 * [2024-06-29, 16:18:48](https://news.ycombinator.com/item?id=40831609) - [Widely reported study implying divorce more likely when wives fall ill gets axed](https://retractionwatch.com/2015/07/21/to-our-horror-widely-reported-study-suggesting-divorce-is-more-likely-when-wives-fall-ill-gets-axed/)
 * [2024-06-29, 16:09:46](https://news.ycombinator.com/item?id=40831560) - [For the record: You just ordered me to cause a expensive outage](https://www.theregister.com/2024/06/28/on_call/)
+* [2024-06-29, 16:08:32](https://news.ycombinator.com/item?id=40831549) - [Will we die from minor scratches in the future? Q&A antibiotic resistance expert](https://theconversation.com/will-we-really-die-from-minor-scratches-in-the-future-qanda-with-antibiotic-resistance-expert-232118)
 * [2024-06-29, 15:59:12](https://news.ycombinator.com/item?id=40831489) - [FUTO Keyboard](https://keyboard.futo.org/)
 * [2024-06-29, 15:54:51](https://news.ycombinator.com/item?id=40831457) - [Tiny bright objects discovered at dawn of universe baffle scientists](https://phys.org/news/2024-06-tiny-bright-dawn-universe-baffle.html)
 * [2024-06-29, 15:19:53](https://news.ycombinator.com/item?id=40831200) - [The Smart Principles: Designing Interfaces That LLMs Understand](https://medium.com/@zhihao.zhou.bupt/the-smart-principles-designing-interfaces-that-llms-understand-aca00630c8c9)
