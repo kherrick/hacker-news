@@ -61,6 +61,7 @@
 * [2024-06-25, 14:36:29](https://news.ycombinator.com/item?id=40789191) - [Vintage Wooden Homes on Wheels: Photos of Mobile Living from Early 20th Century](https://rarehistoricalphotos.com/vintage-wooden-homes-on-wheels/)
 * [2024-06-25, 14:35:07](https://news.ycombinator.com/item?id=40789179) - [LHM to permanently close and sell DEC-10 at auction](https://www.geekwire.com/2024/seattles-living-computers-museum-logs-off-for-good-as-paul-allen-estate-will-auction-vintage-items/)
 * [2024-06-25, 14:32:15](https://news.ycombinator.com/item?id=40789143) - [The art of saying no without saying no](https://yamamoto-ls.com/en/archives/post-566)
+* [2024-06-25, 14:09:51](https://news.ycombinator.com/item?id=40788869) - [How to generate realistic people in Stable Diffusion](https://stable-diffusion-art.com/realistic-people/)
 * [2024-06-25, 13:53:05](https://news.ycombinator.com/item?id=40788648) - [Show HN: Triplit – Open-source syncing database that runs on server and client](https://news.ycombinator.com/item?id=40788648)
 * [2024-06-25, 13:53:05](https://news.ycombinator.com/item?id=40788648) - [Show HN: Triplit – Open-source syncing database that runs on server and client](https://github.com/aspen-cloud/triplit)
 * [2024-06-25, 13:46:01](https://news.ycombinator.com/item?id=40788578) - [Hard work wins in business (a.k.a. it ain't just about luck)](https://anandsanwal.me/2024/05/23/hard-work-wins-business/)

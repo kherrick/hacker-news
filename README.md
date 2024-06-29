@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-29, 07:52:43](https://news.ycombinator.com/item?id=40828587) - [I'm Terrified of Old People](https://guzey.com/old-people/)
 * [2024-06-29, 07:00:30](https://news.ycombinator.com/item?id=40828408) - [Raycast (YC W20) Is Hiring a Senior Product Designer (UTC ± 3 Hours)](https://www.raycast.com/jobs/senior-product-designer)
 * [2024-06-29, 06:07:50](https://news.ycombinator.com/item?id=40828203) - [How to waste bandwidth, battery power, and annoy sysadmins](https://rachelbythebay.com/w/2024/06/28/fxios/)
 * [2024-06-29, 05:56:02](https://news.ycombinator.com/item?id=40828180) - [Show HN: Safe Routes. real time turbulence data, ML predictions with an iPad](https://skypath.io)
@@ -12,7 +13,6 @@
 * [2024-06-28, 17:00:16](https://news.ycombinator.com/item?id=40822577) - [Real Chaos, Today – Randomised controlled trials in economics](https://someunpleasant.substack.com/p/real-chaos-today)
 * [2024-06-28, 16:57:20](https://news.ycombinator.com/item?id=40822535) - [Serpentine](https://www.asymptotejournal.com/blog/2024/06/24/serpentine/)
 * [2024-06-28, 16:56:08](https://news.ycombinator.com/item?id=40822522) - [What Happened to People Magazine?](https://annehelen.substack.com/p/what-happened-to-people-magazine)
-* [2024-06-28, 14:31:12](https://news.ycombinator.com/item?id=40820949) - [Supreme Court overturns 40-year-old \"Chevron deference\" doctrine](https://www.axios.com/2024/06/28/supreme-court-chevron-doctrine-ruling)
 * [2024-06-28, 12:41:22](https://news.ycombinator.com/item?id=40820063) - [New ways to catch gravitational waves](https://www.nature.com/articles/d41586-024-02003-6)
 * [2024-06-28, 12:22:54](https://news.ycombinator.com/item?id=40819920) - [Quaternion Differentiation (2012)](https://fgiesen.wordpress.com/2012/08/24/quaternion-differentiation/)
 * [2024-06-28, 12:04:56](https://news.ycombinator.com/item?id=40819784) - [Is Clear Air Turbulence becoming more common?](https://www.flightradar24.com/blog/is-cat-more-common/)
@@ -25,9 +25,9 @@
 * [2024-06-27, 17:22:51](https://news.ycombinator.com/item?id=40812833) - [Entrust Certificate Distrust](https://security.googleblog.com/2024/06/sustaining-digital-certificate-security.html)
 * [2024-06-26, 21:44:45](https://news.ycombinator.com/item?id=40804946) - [Out of sight, 'dark fungi' run the world from the shadows](https://www.scientificamerican.com/article/mysterious-dark-fungi-are-lurking-everywhere/)
 * [2024-06-26, 20:05:42](https://news.ycombinator.com/item?id=40804069) - [ELIZA Reinterpreted: The world's first chatbot was not intended as a chatbot](https://arxiv.org/abs/2406.17650)
-* [2024-06-26, 17:44:49](https://news.ycombinator.com/item?id=40802484) - [Taking a closer look at AI's supposed energy apocalypse](https://arstechnica.com/ai/2024/06/is-generative-ai-really-going-to-wreak-havoc-on-the-power-grid/)
 * [2024-06-26, 12:06:35](https://news.ycombinator.com/item?id=40799006) - [Will we ever get fusion power?](https://www.construction-physics.com/p/will-we-ever-get-fusion-power)
-* [2024-06-25, 11:34:19](https://news.ycombinator.com/item?id=40787176) - [The magic of participatory randomness](https://cryptography.dog/blog/rng-day-2024/)
+* [2024-06-25, 14:09:51](https://news.ycombinator.com/item?id=40788869) - [How to generate realistic people in Stable Diffusion](https://stable-diffusion-art.com/realistic-people/)
+* [2024-06-25, 11:28:01](https://news.ycombinator.com/item?id=40787124) - [It's getting harder to die](https://www.plough.com/en/topics/life/aging/its-getting-harder-to-die)
 * [2024-06-25, 10:43:59](https://news.ycombinator.com/item?id=40786786) - [Producing fuels from 1,500 degrees of solar heat](https://www.thechemicalengineer.com/news/producing-fuels-from-1-500-degrees-of-solar-heat-world-s-first-plant-opens-in-germany/)
 * [2024-06-25, 08:41:31](https://news.ycombinator.com/item?id=40786007) - [The Valjoux 7750 chronograph movement](https://monochrome-watches.com/valjoux-7750-chronograph-history-50-years-technical-explanation-evolution-clones-in-depth-review/)
 

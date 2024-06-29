@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-29](index.md)
 
+* [2024-06-29, 07:52:43](https://news.ycombinator.com/item?id=40828587) - [I'm Terrified of Old People](https://guzey.com/old-people/)
 * [2024-06-29, 07:00:30](https://news.ycombinator.com/item?id=40828408) - [Raycast (YC W20) Is Hiring a Senior Product Designer (UTC ± 3 Hours)](https://www.raycast.com/jobs/senior-product-designer)
 * [2024-06-29, 06:07:50](https://news.ycombinator.com/item?id=40828203) - [How to waste bandwidth, battery power, and annoy sysadmins](https://rachelbythebay.com/w/2024/06/28/fxios/)
 * [2024-06-29, 05:56:02](https://news.ycombinator.com/item?id=40828180) - [Show HN: Safe Routes. real time turbulence data, ML predictions with an iPad](https://skypath.io)
