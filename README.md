@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-29, 11:03:43](https://news.ycombinator.com/item?id=40829401) - [A violent gang's ruthless crypto-stealing home invasion spree](https://www.wired.com/story/crypto-home-invasion-crime-ring/)
 * [2024-06-29, 10:52:04](https://news.ycombinator.com/item?id=40829312) - [How I overcame my addiction to sugar](https://josem.co/how-i-overcame-my-addiction-to-sugar/)
 * [2024-06-29, 10:05:12](https://news.ycombinator.com/item?id=40829097) - [Framework Laptop 16, six months later](https://www.theverge.com/24185827/framework-laptop-16-six-months-later-review)
 * [2024-06-29, 09:48:19](https://news.ycombinator.com/item?id=40829030) - [Ticketmaster has begun warning customers about data breach](https://stackdiary.com/ticketmaster-has-begun-warning-customers-about-data-breach/)
@@ -28,7 +29,6 @@
 * [2024-06-26, 21:44:45](https://news.ycombinator.com/item?id=40804946) - [Out of sight, 'dark fungi' run the world from the shadows](https://www.scientificamerican.com/article/mysterious-dark-fungi-are-lurking-everywhere/)
 * [2024-06-25, 18:08:17](https://news.ycombinator.com/item?id=40791596) - [Texture Enhancement for Video Super-Resolution](https://github.com/DachunKai/EvTexture)
 * [2024-06-25, 14:09:51](https://news.ycombinator.com/item?id=40788869) - [How to generate realistic people in Stable Diffusion](https://stable-diffusion-art.com/realistic-people/)
-* [2024-06-25, 10:43:59](https://news.ycombinator.com/item?id=40786786) - [Producing fuels from 1,500 degrees of solar heat](https://www.thechemicalengineer.com/news/producing-fuels-from-1-500-degrees-of-solar-heat-world-s-first-plant-opens-in-germany/)
 * [2024-06-25, 08:41:31](https://news.ycombinator.com/item?id=40786007) - [The Valjoux 7750 chronograph movement](https://monochrome-watches.com/valjoux-7750-chronograph-history-50-years-technical-explanation-evolution-clones-in-depth-review/)
 
 ## [Archives](archives/index.md)
