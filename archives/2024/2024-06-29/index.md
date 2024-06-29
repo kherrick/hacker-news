@@ -4,9 +4,16 @@
 
 ### [Archives](../../index.md) for [2024-06-29](index.md)
 
+* [2024-06-29, 16:27:01](https://news.ycombinator.com/item?id=40831666) - [Work Hard](https://terrytao.wordpress.com/career-advice/work-hard/)
+* [2024-06-29, 16:18:48](https://news.ycombinator.com/item?id=40831609) - [Widely reported study implying divorce more likely when wives fall ill gets axed](https://retractionwatch.com/2015/07/21/to-our-horror-widely-reported-study-suggesting-divorce-is-more-likely-when-wives-fall-ill-gets-axed/)
 * [2024-06-29, 16:09:46](https://news.ycombinator.com/item?id=40831560) - [For the record: You just ordered me to cause a expensive outage](https://www.theregister.com/2024/06/28/on_call/)
+* [2024-06-29, 15:59:12](https://news.ycombinator.com/item?id=40831489) - [FUTO Keyboard](https://keyboard.futo.org/)
+* [2024-06-29, 15:54:51](https://news.ycombinator.com/item?id=40831457) - [Tiny bright objects discovered at dawn of universe baffle scientists](https://phys.org/news/2024-06-tiny-bright-dawn-universe-baffle.html)
+* [2024-06-29, 15:19:53](https://news.ycombinator.com/item?id=40831200) - [The Smart Principles: Designing Interfaces That LLMs Understand](https://medium.com/@zhihao.zhou.bupt/the-smart-principles-designing-interfaces-that-llms-understand-aca00630c8c9)
 * [2024-06-29, 14:47:04](https://news.ycombinator.com/item?id=40830996) - [Show HN: Protect your links with a password](https://www.protectmylink.xyz/)
+* [2024-06-29, 14:21:20](https://news.ycombinator.com/item?id=40830812) - [The State of World Fisheries and Aquaculture](https://openknowledge.fao.org/server/api/core/bitstreams/a4151f1e-3130-4504-a7d7-4b066de59030/content)
 * [2024-06-29, 14:19:19](https://news.ycombinator.com/item?id=40830804) - [R1 jailbreakers find security flaw in Rabbit's code](https://www.theverge.com/2024/6/26/24186614/rabbit-r1-security-flaw-api-key-codebase)
+* [2024-06-29, 14:13:09](https://news.ycombinator.com/item?id=40830752) - [Controlling Warpage in Advanced Packages](https://semiengineering.com/controlling-warpage-in-advanced-packages/)
 * [2024-06-29, 14:12:49](https://news.ycombinator.com/item?id=40830748) - [Warren Buffett donates record $5.3B Berkshire shares to charity](https://www.reuters.com/business/warren-buffett-donate-up-53-bln-berkshire-shares-2024-06-28/)
 * [2024-06-29, 13:26:46](https://news.ycombinator.com/item?id=40830332) - [The Economics of Writing Technical Books](https://architectelevator.com/strategy/book-author-economics/)
 * [2024-06-29, 12:56:05](https://news.ycombinator.com/item?id=40830126) - [We Just Witnessed the Biggest Supreme Court Power Grab Since 1803](https://www.thenation.com/article/society/chevron-deference-supreme-court-power-grab/)
