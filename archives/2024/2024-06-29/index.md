@@ -9,6 +9,7 @@
 * [2024-06-29, 11:44:04](https://news.ycombinator.com/item?id=40829653) - [Panama Papers: Court acquits all 28 charged with money laundering](https://www.bbc.com/news/articles/cjer3llen42o)
 * [2024-06-29, 11:38:01](https://news.ycombinator.com/item?id=40829607) - [A Bunch of Programming Advice I'd Give to Myself 15 Years Ago](https://mbuffett.com/posts/programming-advice-younger-self/)
 * [2024-06-29, 11:22:11](https://news.ycombinator.com/item?id=40829513) - [Technology is about to accelerate. Because Chevron deference is over](https://twitter.com/balajis/status/1806773841395675218)
+* [2024-06-29, 11:20:18](https://news.ycombinator.com/item?id=40829499) - [Chris Titus Tech's Windows Utility – Install Programs, Tweaks, Fixes and Updates](https://github.com/ChrisTitusTech/winutil)
 * [2024-06-29, 11:03:43](https://news.ycombinator.com/item?id=40829401) - [A violent gang's ruthless crypto-stealing home invasion spree](https://www.wired.com/story/crypto-home-invasion-crime-ring/)
 * [2024-06-29, 10:52:04](https://news.ycombinator.com/item?id=40829312) - [How I overcame my addiction to sugar](https://josem.co/how-i-overcame-my-addiction-to-sugar/)
 * [2024-06-29, 10:05:12](https://news.ycombinator.com/item?id=40829097) - [Framework Laptop 16, six months later](https://www.theverge.com/24185827/framework-laptop-16-six-months-later-review)
