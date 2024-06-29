@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-06-29, 20:14:10",
-      "https://news.ycombinator.com/item?id=40833068"
-    ],
-    [
-      "The Antitrust Trial of the United States vs. Google, LLC",
-      "https://www.usvgoogleads.com/"
-    ]
-  ],
-  [
-    [
       "2024-06-29, 19:01:09",
       "https://news.ycombinator.com/item?id=40832681"
     ],
@@ -21,12 +11,12 @@
   ],
   [
     [
-      "2024-06-29, 18:53:04",
-      "https://news.ycombinator.com/item?id=40832644"
+      "2024-06-29, 17:55:22",
+      "https://news.ycombinator.com/item?id=40832330"
     ],
     [
-      "Enhancing New York Times Web Performance with React 18",
-      "https://open.nytimes.com/enhancing-the-new-york-times-web-performance-with-react-18-d6f91a7c5af8"
+      "Open-LLM performances are plateauing",
+      "https://huggingface.co/spaces/open-llm-leaderboard/blog"
     ]
   ],
   [
@@ -161,16 +151,6 @@
   ],
   [
     [
-      "2024-06-29, 06:55:13",
-      "https://news.ycombinator.com/item?id=40828379"
-    ],
-    [
-      "Ask HN: Best books/courses to learn Java core+advanced?",
-      "https://news.ycombinator.com/item?id=40828379"
-    ]
-  ],
-  [
-    [
       "2024-06-29, 06:13:51",
       "https://news.ycombinator.com/item?id=40828223"
     ],
@@ -221,22 +201,22 @@
   ],
   [
     [
-      "2024-06-28, 16:58:35",
-      "https://news.ycombinator.com/item?id=40822555"
-    ],
-    [
-      "I tried to finish a dead man's novel",
-      "https://thewalrus.ca/i-tried-to-finish-a-dead-mans-novel/"
-    ]
-  ],
-  [
-    [
       "2024-06-28, 11:52:36",
       "https://news.ycombinator.com/item?id=40819712"
     ],
     [
       "The Dinner Party That Served Up 50k-Year-Old Bison Stew (2018)",
       "https://www.atlasobscura.com/articles/ancient-bison-stew-blue-babe-alaska"
+    ]
+  ],
+  [
+    [
+      "2024-06-28, 11:12:15",
+      "https://news.ycombinator.com/item?id=40819479"
+    ],
+    [
+      "Meta LLM Compiler: neural optimizer and disassembler",
+      "https://twitter.com/AIatMeta/status/1806361623831171318/photo/1"
     ]
   ],
   [
@@ -281,12 +261,32 @@
   ],
   [
     [
+      "2024-06-27, 17:22:51",
+      "https://news.ycombinator.com/item?id=40812833"
+    ],
+    [
+      "Entrust Certificate Distrust",
+      "https://security.googleblog.com/2024/06/sustaining-digital-certificate-security.html"
+    ]
+  ],
+  [
+    [
       "2024-06-25, 18:08:17",
       "https://news.ycombinator.com/item?id=40791596"
     ],
     [
       "Texture Enhancement for Video Super-Resolution",
       "https://github.com/DachunKai/EvTexture"
+    ]
+  ],
+  [
+    [
+      "2024-06-25, 11:28:01",
+      "https://news.ycombinator.com/item?id=40787124"
+    ],
+    [
+      "It's getting harder to die",
+      "https://www.plough.com/en/topics/life/aging/its-getting-harder-to-die"
     ]
   ],
   [
