@@ -33,6 +33,7 @@
 * [2024-06-28, 17:00:34](https://news.ycombinator.com/item?id=40822579) - [Skio (YC S20) – Subscriptions for Shopify, ReCharge Migrations Is Hiring](https://skio.com/careers/)
 * [2024-06-28, 17:00:16](https://news.ycombinator.com/item?id=40822577) - [Real Chaos, Today – Randomised controlled trials in economics](https://someunpleasant.substack.com/p/real-chaos-today)
 * [2024-06-28, 16:58:35](https://news.ycombinator.com/item?id=40822555) - [I tried to finish a dead man's novel](https://thewalrus.ca/i-tried-to-finish-a-dead-mans-novel/)
+* [2024-06-28, 16:57:20](https://news.ycombinator.com/item?id=40822535) - [Serpentine](https://www.asymptotejournal.com/blog/2024/06/24/serpentine/)
 * [2024-06-28, 16:56:08](https://news.ycombinator.com/item?id=40822522) - [What Happened to People Magazine?](https://annehelen.substack.com/p/what-happened-to-people-magazine)
 * [2024-06-28, 16:54:55](https://news.ycombinator.com/item?id=40822512) - [Llama-agents: an async-first framework for building production ready agents](https://github.com/run-llama/llama-agents)
 * [2024-06-28, 16:54:49](https://news.ycombinator.com/item?id=40822511) - [The Origins of Yiddish (2014)](https://www.tabletmag.com/sections/arts-letters/articles/yiddishland)
