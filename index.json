@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-06-28, 22:59:05",
-      "https://news.ycombinator.com/item?id=40826236"
+      "2024-06-29, 01:17:03",
+      "https://news.ycombinator.com/item?id=40827108"
     ],
     [
-      "A Eulogy for DevOps",
-      "https://matduggan.com/a-eulogy-for-devops/"
+      "Microsoft pauses Windows 11 update as it's sending some PCs into infinite reboot",
+      "https://www.techradar.com/computing/windows/microsoft-pauses-windows-11-update-as-its-sending-some-pcs-into-an-infinite-reboot-hell"
+    ]
+  ],
+  [
+    [
+      "2024-06-29, 00:01:24",
+      "https://news.ycombinator.com/item?id=40826683"
+    ],
+    [
+      "The XAES-256-GCM extended-nonce AEAD",
+      "https://words.filippo.io/dispatches/xaes-256-gcm/"
     ]
   ],
   [
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=40826038"
     ],
     [
-      "What is a CIDR trie and how can it help you?",
+      "The CIDR trie data structure",
       "https://d34dl0ck.me/rust-bites-cidr-trie/index.html"
     ]
   ],
@@ -71,16 +81,6 @@
   ],
   [
     [
-      "2024-06-28, 16:54:49",
-      "https://news.ycombinator.com/item?id=40822511"
-    ],
-    [
-      "The Origins of Yiddish (2014)",
-      "https://www.tabletmag.com/sections/arts-letters/articles/yiddishland"
-    ]
-  ],
-  [
-    [
       "2024-06-28, 16:45:34",
       "https://news.ycombinator.com/item?id=40822426"
     ],
@@ -107,16 +107,6 @@
     [
       "Apple II graphics: More than you wanted to know",
       "https://nicole.express/2024/phasing-in-and-out-of-existence.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-28, 12:46:50",
-      "https://news.ycombinator.com/item?id=40820098"
-    ],
-    [
-      "What actual purpose do accent characters in ISO-8859-1 and Windows 1252 serve?",
-      "https://retrocomputing.stackexchange.com/questions/30261/what-actual-purpose-do-accent-characters-in-iso-8859-1-and-windows-1252-serve"
     ]
   ],
   [
@@ -151,12 +141,12 @@
   ],
   [
     [
-      "2024-06-28, 12:00:14",
-      "https://news.ycombinator.com/item?id=40819757"
+      "2024-06-28, 11:35:34",
+      "https://news.ycombinator.com/item?id=40819617"
     ],
     [
-      "Substack (YC W18) is hiring systems engineers",
-      "https://grnh.se/4f362fed5us"
+      "The Rhisotope Project: Insertion of radioisotopes into live rhinoceros",
+      "https://www.wits.ac.za/news/latest-news/general-news/2024/2024-06/a-novel-way-to-save-rhinos-.html"
     ]
   ],
   [
@@ -285,8 +275,18 @@
       "https://news.ycombinator.com/item?id=40787176"
     ],
     [
-      "The Magic of Participatory Randomness",
+      "The magic of participatory randomness",
       "https://cryptography.dog/blog/rng-day-2024/"
+    ]
+  ],
+  [
+    [
+      "2024-06-25, 10:43:59",
+      "https://news.ycombinator.com/item?id=40786786"
+    ],
+    [
+      "Producing fuels from 1,500 degrees of solar heat",
+      "https://www.thechemicalengineer.com/news/producing-fuels-from-1-500-degrees-of-solar-heat-world-s-first-plant-opens-in-germany/"
     ]
   ],
   [
@@ -295,7 +295,7 @@
       "https://news.ycombinator.com/item?id=40786007"
     ],
     [
-      "Everything You Should Know about the Legendary Valjoux 7750 Chronograph Movement",
+      "The Valjoux 7750 chronograph movement",
       "https://monochrome-watches.com/valjoux-7750-chronograph-history-50-years-technical-explanation-evolution-clones-in-depth-review/"
     ]
   ]
