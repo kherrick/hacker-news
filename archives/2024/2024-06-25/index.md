@@ -29,6 +29,7 @@
 * [2024-06-25, 19:26:30](https://news.ycombinator.com/item?id=40792554) - [Supershoes are reshaping distance running](https://www.technologyreview.com/2024/06/25/1093520/supershoes-running-kenya-carbon-plate-shoes/)
 * [2024-06-25, 18:27:30](https://news.ycombinator.com/item?id=40791829) - [Polyfill supply chain attack hits 100K+ sites](https://sansec.io/research/polyfill-supply-chain-attack)
 * [2024-06-25, 18:10:31](https://news.ycombinator.com/item?id=40791624) - [Waymo's autonomous ride-hailing service now available to all in San Francisco](https://www.reuters.com/business/autos-transportation/waymos-autonomous-ride-hailing-service-now-available-all-san-francisco-2024-06-25/)
+* [2024-06-25, 18:08:17](https://news.ycombinator.com/item?id=40791596) - [Texture Enhancement for Video Super-Resolution](https://github.com/DachunKai/EvTexture)
 * [2024-06-25, 17:54:39](https://news.ycombinator.com/item?id=40791457) - [Andrew Tanenbaum honoured for MINIX, the OS hiding in lots of computers](https://www.theregister.com/2024/06/25/tanenbaum_minix_award/)
 * [2024-06-25, 17:34:12](https://news.ycombinator.com/item?id=40791192) - [Malicious Code Injection Found in CDN Polyfill Link Targeting Mobile Users](https://github.com/polyfillpolyfill/polyfill-service/issues/2873)
 * [2024-06-25, 17:26:25](https://news.ycombinator.com/item?id=40791112) - [Show HN: FiddleCube – Generate Q&A to test your LLM](https://github.com/fiddlecube/fiddlecube-sdk)
