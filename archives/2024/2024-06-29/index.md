@@ -8,6 +8,7 @@
 * [2024-06-29, 09:32:57](https://news.ycombinator.com/item?id=40828971) - [Diversity Was Supposed to Make Us Rich. Not So Much](https://www.wsj.com/finance/investing/diversity-was-supposed-to-make-us-rich-not-so-much-39da6a23)
 * [2024-06-29, 08:00:56](https://news.ycombinator.com/item?id=40828610) - [It's not just you, Next.js is getting harder to use](https://www.propelauth.com/post/nextjs-challenges)
 * [2024-06-29, 07:52:43](https://news.ycombinator.com/item?id=40828587) - [I'm Terrified of Old People](https://guzey.com/old-people/)
+* [2024-06-29, 07:25:49](https://news.ycombinator.com/item?id=40828493) - [A Hex Editor for Reverse Engineers](https://github.com/WerWolv/ImHex)
 * [2024-06-29, 07:09:45](https://news.ycombinator.com/item?id=40828441) - [All web \"content\" is freeware](https://rubenerd.com/all-web-content-is-freeware/)
 * [2024-06-29, 07:09:16](https://news.ycombinator.com/item?id=40828438) - [Microsoft CEO of AI Your online content is 'freeware' fodder for training models](https://www.theregister.com/2024/06/28/microsoft_ceo_ai/)
 * [2024-06-29, 07:00:30](https://news.ycombinator.com/item?id=40828408) - [Raycast (YC W20) Is Hiring a Senior Product Designer (UTC ± 3 Hours)](https://www.raycast.com/jobs/senior-product-designer)
