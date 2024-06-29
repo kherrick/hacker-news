@@ -37,6 +37,7 @@
 * [2024-06-28, 16:56:08](https://news.ycombinator.com/item?id=40822522) - [What Happened to People Magazine?](https://annehelen.substack.com/p/what-happened-to-people-magazine)
 * [2024-06-28, 16:54:55](https://news.ycombinator.com/item?id=40822512) - [Llama-agents: an async-first framework for building production ready agents](https://github.com/run-llama/llama-agents)
 * [2024-06-28, 16:54:49](https://news.ycombinator.com/item?id=40822511) - [The Origins of Yiddish (2014)](https://www.tabletmag.com/sections/arts-letters/articles/yiddishland)
+* [2024-06-28, 16:53:04](https://news.ycombinator.com/item?id=40822498) - [Bébé Bibliophile](https://www.ymeskhout.com/p/bebe-bibliophile)
 * [2024-06-28, 16:45:34](https://news.ycombinator.com/item?id=40822426) - [Discovered June 16th, large asteroid to pass between Earth and moon on Saturday](https://www.cbc.ca/news/science/asteroid-2024mk-1.7247336)
 * [2024-06-28, 16:41:57](https://news.ycombinator.com/item?id=40822383) - [Google cuts ties with Entrust in Chrome over trust issues](https://www.theregister.com/2024/06/28/google_axes_entrust_over_six/)
 * [2024-06-28, 16:36:06](https://news.ycombinator.com/item?id=40822320) - [The History of \"The Rule of Thirds\"](https://www.neomodern.com/rot)
