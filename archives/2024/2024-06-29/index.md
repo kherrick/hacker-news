@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-29](index.md)
 
+* [2024-06-29, 16:09:46](https://news.ycombinator.com/item?id=40831560) - [For the record: You just ordered me to cause a expensive outage](https://www.theregister.com/2024/06/28/on_call/)
 * [2024-06-29, 14:47:04](https://news.ycombinator.com/item?id=40830996) - [Show HN: Protect your links with a password](https://www.protectmylink.xyz/)
 * [2024-06-29, 14:19:19](https://news.ycombinator.com/item?id=40830804) - [R1 jailbreakers find security flaw in Rabbit's code](https://www.theverge.com/2024/6/26/24186614/rabbit-r1-security-flaw-api-key-codebase)
 * [2024-06-29, 14:12:49](https://news.ycombinator.com/item?id=40830748) - [Warren Buffett donates record $5.3B Berkshire shares to charity](https://www.reuters.com/business/warren-buffett-donate-up-53-bln-berkshire-shares-2024-06-28/)
