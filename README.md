@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-29, 01:58:44](https://news.ycombinator.com/item?id=40827315) - [Bacteria found to produce proteins that act like antifreeze](https://phys.org/news/2024-06-bacteria-proteins-antifreeze-marine-worms.html)
 * [2024-06-29, 01:17:03](https://news.ycombinator.com/item?id=40827108) - [Microsoft pauses Windows 11 update as it's sending some PCs into infinite reboot](https://www.techradar.com/computing/windows/microsoft-pauses-windows-11-update-as-its-sending-some-pcs-into-an-infinite-reboot-hell)
 * [2024-06-29, 00:01:24](https://news.ycombinator.com/item?id=40826683) - [The XAES-256-GCM extended-nonce AEAD](https://words.filippo.io/dispatches/xaes-256-gcm/)
-* [2024-06-28, 22:35:03](https://news.ycombinator.com/item?id=40826038) - [The CIDR trie data structure](https://d34dl0ck.me/rust-bites-cidr-trie/index.html)
 * [2024-06-28, 20:51:56](https://news.ycombinator.com/item?id=40825169) - [Show HN: Focal, a Pomodoro App](https://aabiji.github.io/focal/)
 * [2024-06-28, 20:49:23](https://news.ycombinator.com/item?id=40825146) - [Open source 'Eclipse Theia IDE' exits beta to challenge Visual Studio Code](https://visualstudiomagazine.com/Articles/2024/06/27/eclipse-theia-ide.aspx)
 * [2024-06-28, 20:39:07](https://news.ycombinator.com/item?id=40825033) - [The story, as best I can remember, of the origin of Mosaic and Netscape [video]](https://pmarca.substack.com/p/the-true-story-as-best-i-can-remember)
