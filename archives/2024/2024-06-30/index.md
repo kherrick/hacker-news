@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-30](index.md)
 
 * [2024-06-30, 17:23:04](https://news.ycombinator.com/item?id=40838515) - [Canada 'sleepwalking' into cashless society, consumer advocates warn](https://www.cbc.ca/news/canada/ottawa/canada-sleepwalking-into-cashless-society-consumer-advocates-warn-1.7248846)
+* [2024-06-30, 17:07:03](https://news.ycombinator.com/item?id=40838388) - [Hoping for a Miracle to Save the Ogallala Aquifer? Prepare for the New Dust Bowl](https://kansasreflector.com/2024/06/30/hoping-for-a-miracle-to-save-the-ogallala-aquifer-prepare-for-the-new-dust-bowl/)
 * [2024-06-30, 17:00:22](https://news.ycombinator.com/item?id=40838330) - [Microsoft 1998 = Apple 2024](https://ianbetteridge.com/2024/06/27/microsoft-1998-apple-2024/)
 * [2024-06-30, 17:00:14](https://news.ycombinator.com/item?id=40838327) - [Bitmovin (YC S15) Is Hiring Video Solution Architects in the US](https://bitmovin.com/careers/senior-solutions-engineer-us-7504149002)
 * [2024-06-30, 16:54:39](https://news.ycombinator.com/item?id=40838290) - [A live ranking of airlines by how much luggage they are losing](https://luggagelosers.com/)
