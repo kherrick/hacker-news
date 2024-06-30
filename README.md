@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-30, 07:02:26](https://news.ycombinator.com/item?id=40835588) - [MIT robotics pioneer Rodney Brooks thinks people are vastly overestimating AI](https://techcrunch.com/2024/06/29/mit-robotics-pioneer-rodney-brooks-thinks-people-are-vastly-overestimating-generative-ai/)
 * [2024-06-30, 05:07:53](https://news.ycombinator.com/item?id=40835274) - [Weekend projects: getting silly with C](https://lcamtuf.substack.com/p/weekend-projects-getting-silly-with)
 * [2024-06-30, 04:55:34](https://news.ycombinator.com/item?id=40835231) - [Financial services shun AI over job and regulatory fears](https://www.ft.com/content/0675e4d9-62a1-4d6c-9098-a8cb0d1e32ed)
 * [2024-06-30, 04:19:06](https://news.ycombinator.com/item?id=40835117) - [OpenDNS Suspends Service in France Due to Canal+ Piracy Blocking Order](https://torrentfreak.com/opendns-suspends-service-in-france-due-to-canal-piracy-blocking-order-240629/)
@@ -28,7 +29,6 @@
 * [2024-06-28, 11:36:31](https://news.ycombinator.com/item?id=40819623) - [Show HN: Conway's Game of Life, but as a div full of Braille characters](https://px.neocities.org/life#)
 * [2024-06-28, 10:52:56](https://news.ycombinator.com/item?id=40819404) - [The Dream of an Alpine Waterway](https://blog.nationalmuseum.ch/en/2024/06/the-dream-of-an-alpine-waterway/)
 * [2024-06-28, 07:44:43](https://news.ycombinator.com/item?id=40818573) - [That Editor](https://github.com/bisqwit/that_editor)
-* [2024-06-28, 07:05:53](https://news.ycombinator.com/item?id=40818401) - [Mapping the Red Planet with the Power of Open Science](https://www.jpl.nasa.gov/news/mapping-the-red-planet-with-the-power-of-open-science)
 * [2024-06-25, 18:08:17](https://news.ycombinator.com/item?id=40791596) - [Texture Enhancement for Video Super-Resolution](https://github.com/DachunKai/EvTexture)
 
 ## [Archives](archives/index.md)
