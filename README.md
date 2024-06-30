@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-30, 21:58:27](https://news.ycombinator.com/item?id=40840721) - [Andrej Karpathy on X: \"100% Software 2.0 computer.Just a single neural net](https://twitter.com/karpathy/status/1807497426816946333)
+* [2024-06-30, 22:05:14](https://news.ycombinator.com/item?id=40840762) - [The Lives of Others (2006 film)](https://en.wikipedia.org/wiki/The_Lives_of_Others)
 * [2024-06-30, 21:55:04](https://news.ycombinator.com/item?id=40840699) - [Google Arts and Culture site I didn't know existed](https://artsandculture.google.com/)
 * [2024-06-30, 21:48:07](https://news.ycombinator.com/item?id=40840656) - [California approves final high-speed rail link connecting San Francisco to LA](https://www.sfchronicle.com/bayarea/article/california-high-speed-rail-19542125.php)
 * [2024-06-30, 21:08:43](https://news.ycombinator.com/item?id=40840396) - [Convolutions, Fast Fourier Transform and Polynomials](https://www.alvarorevuelta.com/posts/fft-polynomials)
