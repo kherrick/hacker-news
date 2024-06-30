@@ -19,6 +19,7 @@
 * [2024-06-27, 20:16:58](https://news.ycombinator.com/item?id=40814612) - [A dev's thoughts on developer productivity (2022)](https://sourcegraph.com/blog/developer-productivity-thoughts)
 * [2024-06-27, 20:09:12](https://news.ycombinator.com/item?id=40814536) - [Large Language Models are not a search engine](https://cyberneticforests.substack.com/p/a-hallucinogenic-compendium)
 * [2024-06-27, 19:59:18](https://news.ycombinator.com/item?id=40814444) - [My First Kubernetes: k3s 'cluster' on 3 Orange Pi Zero 3's](https://raymii.org/s/tutorials/My_First_Kubernetes_k3s_cluster_on_3_Orange_Pi_Zero_3s_including_k8s_dashboard_hello-node_and_failover.html)
+* [2024-06-27, 19:49:18](https://news.ycombinator.com/item?id=40814333) - [Buried Ancient Egyptian Port Reveals Hidden Connections () Distant Civilizations](https://www.smithsonianmag.com/history/hidden-ancient-egyptian-port-reveals-180984485/)
 * [2024-06-27, 19:38:21](https://news.ycombinator.com/item?id=40814236) - [Cloudflare adds option to block AI scrapers and crawlers](https://front-end.social/@chriscoyier/112688532313287480)
 * [2024-06-27, 19:18:10](https://news.ycombinator.com/item?id=40814011) - [Valve.computer](https://www.valve.computer/)
 * [2024-06-27, 19:11:23](https://news.ycombinator.com/item?id=40813943) - [Zulip: Open Source Organized Team Chat](https://zulip.com/)
