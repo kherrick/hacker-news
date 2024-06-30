@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-30, 09:58:22](https://news.ycombinator.com/item?id=40836183) - [An Analog Network of Resistors Promises Machine Learning Without a Processor](https://www.hackster.io/news/an-analog-network-of-resistors-promises-machine-learning-without-a-processor-researchers-say-d9cb0655b7a0)
+* [2024-06-30, 09:41:57](https://news.ycombinator.com/item?id=40836114) - [Duff's Device and Coroutines (2008)](https://research.swtch.com/duff)
 * [2024-06-30, 05:07:53](https://news.ycombinator.com/item?id=40835274) - [Weekend projects: getting silly with C](https://lcamtuf.substack.com/p/weekend-projects-getting-silly-with)
 * [2024-06-30, 00:44:06](https://news.ycombinator.com/item?id=40834349) - [Inside a $1 radar motion sensor](https://10maurycy10.github.io/projects/motion_sensor_hacking/)
 * [2024-06-30, 00:41:31](https://news.ycombinator.com/item?id=40834345) - [How Coffee Helped the Union Caffeinate Its Way to Victory in the Civil War](https://www.smithsonianmag.com/history/how-coffee-helped-the-union-caffeinate-their-way-victory-civil-war-180984502/)
@@ -27,7 +28,6 @@
 * [2024-06-28, 10:52:56](https://news.ycombinator.com/item?id=40819404) - [The Dream of an Alpine Waterway](https://blog.nationalmuseum.ch/en/2024/06/the-dream-of-an-alpine-waterway/)
 * [2024-06-28, 07:44:43](https://news.ycombinator.com/item?id=40818573) - [That Editor](https://github.com/bisqwit/that_editor)
 * [2024-06-28, 07:05:53](https://news.ycombinator.com/item?id=40818401) - [Mapping the Red Planet with the Power of Open Science](https://www.jpl.nasa.gov/news/mapping-the-red-planet-with-the-power-of-open-science)
-* [2024-06-28, 05:51:58](https://news.ycombinator.com/item?id=40818101) - [James Joyce was a complicated man](https://www.thefitzwilliam.com/p/james-joyce-was-a-complicated-man)
 * [2024-06-27, 19:49:18](https://news.ycombinator.com/item?id=40814333) - [Buried Ancient Egyptian Port Reveals Hidden Connections () Distant Civilizations](https://www.smithsonianmag.com/history/hidden-ancient-egyptian-port-reveals-180984485/)
 * [2024-06-25, 18:08:17](https://news.ycombinator.com/item?id=40791596) - [Texture Enhancement for Video Super-Resolution](https://github.com/DachunKai/EvTexture)
 

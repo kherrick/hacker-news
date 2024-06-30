@@ -6,6 +6,7 @@
 
 * [2024-06-30, 09:58:22](https://news.ycombinator.com/item?id=40836183) - [An Analog Network of Resistors Promises Machine Learning Without a Processor](https://www.hackster.io/news/an-analog-network-of-resistors-promises-machine-learning-without-a-processor-researchers-say-d9cb0655b7a0)
 * [2024-06-30, 09:42:15](https://news.ycombinator.com/item?id=40836115) - [Chomsky–Schützenberger Enumeration Theorem](https://en.wikipedia.org/wiki/Chomsky%E2%80%93Sch%C3%BCtzenberger_enumeration_theorem)
+* [2024-06-30, 09:41:57](https://news.ycombinator.com/item?id=40836114) - [Duff's Device and Coroutines (2008)](https://research.swtch.com/duff)
 * [2024-06-30, 09:22:27](https://news.ycombinator.com/item?id=40836049) - [Show HN: Let Grumpy AI Roast Your Startup Idea](https://maker-list.com/ideas/new)
 * [2024-06-30, 09:03:02](https://news.ycombinator.com/item?id=40835975) - [Anti-aging molecule successfully restores multiple markers of youth](https://newatlas.com/biology/tac-anti-aging-molecule/)
 * [2024-06-30, 08:10:58](https://news.ycombinator.com/item?id=40835793) - [Figma defaults to train AI models on personal data](https://help.figma.com/hc/en-us/articles/17725942479127-Control-AI-features-and-content-training-settings)
