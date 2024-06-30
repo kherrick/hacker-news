@@ -4,6 +4,7 @@
 * [2024-06-30, 01:56:41](https://news.ycombinator.com/item?id=40834600) - [Chrome is adding `window.ai` – a Gemini Nano AI model right inside the browser](https://twitter.com/rauchg/status/1806385778064564622)
 * [2024-06-30, 00:44:06](https://news.ycombinator.com/item?id=40834349) - [Inside a $1 radar motion sensor](https://10maurycy10.github.io/projects/motion_sensor_hacking/)
 * [2024-06-29, 23:34:39](https://news.ycombinator.com/item?id=40834061) - [Redbox Owner Chicken Soup for the Soul Files for Chapter 11](https://deadline.com/2024/06/redbox-chicken-soup-for-the-soul-entertainment-files-chapter-11-bankruptcy-1235997730/)
+* [2024-06-29, 22:36:27](https://news.ycombinator.com/item?id=40833743) - [My philosophy of exceptions: they're always ambiguous (2021)](https://adamhooper.medium.com/my-philosophy-of-exceptions-theyre-always-ambiguous-9b419d2ccbef)
 * [2024-06-29, 22:14:02](https://news.ycombinator.com/item?id=40833645) - [Trilobites killed by volcanic ash](https://www.bristol.ac.uk/news/2024/june/prehistoric-pompeii.html)
 * [2024-06-29, 21:01:34](https://news.ycombinator.com/item?id=40833334) - [CVE-2021-4440: A Linux CNA Case Study](https://grsecurity.net/cve-2021-4440_linux_cna_case_study)
 * [2024-06-29, 21:01:11](https://news.ycombinator.com/item?id=40833327) - [The Operational Wargame Series: The best game not in stores now (2021)](https://nodicenoglory.com/2021/06/23/the-operational-wargame-series-the-best-game-not-in-stores-now/)
@@ -28,7 +29,6 @@
 * [2024-06-28, 07:44:43](https://news.ycombinator.com/item?id=40818573) - [That Editor](https://github.com/bisqwit/that_editor)
 * [2024-06-28, 07:05:53](https://news.ycombinator.com/item?id=40818401) - [Mapping the Red Planet with the Power of Open Science](https://www.jpl.nasa.gov/news/mapping-the-red-planet-with-the-power-of-open-science)
 * [2024-06-28, 05:51:58](https://news.ycombinator.com/item?id=40818101) - [James Joyce was a complicated man](https://www.thefitzwilliam.com/p/james-joyce-was-a-complicated-man)
-* [2024-06-28, 03:08:47](https://news.ycombinator.com/item?id=40817343) - [Klára Dán von Neumann](https://en.wikipedia.org/wiki/Kl%C3%A1ra_D%C3%A1n_von_Neumann)
 * [2024-06-25, 18:08:17](https://news.ycombinator.com/item?id=40791596) - [Texture Enhancement for Video Super-Resolution](https://github.com/DachunKai/EvTexture)
 
 ## [Archives](archives/index.md)
