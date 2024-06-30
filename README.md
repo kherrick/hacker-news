@@ -21,7 +21,6 @@
 * [2024-06-29, 11:38:01](https://news.ycombinator.com/item?id=40829607) - [A bunch of programming advice I'd give to myself 15 years ago](https://mbuffett.com/posts/programming-advice-younger-self/)
 * [2024-06-29, 11:12:42](https://news.ycombinator.com/item?id=40829459) - [Researchers at ETH Zurich develop the fastest possible flow algorithm](https://ethz.ch/en/news-and-events/eth-news/news/2024/06/researchers-at-eth-zurich-develop-the-fastest-possible-flow-algorithm.html)
 * [2024-06-29, 07:25:49](https://news.ycombinator.com/item?id=40828493) - [Imhex: A hex editor for reverse engineers](https://github.com/WerWolv/ImHex)
-* [2024-06-29, 07:04:41](https://news.ycombinator.com/item?id=40828424) - [Open source is neither a community nor a democracy](https://world.hey.com/dhh/open-source-is-neither-a-community-nor-a-democracy-606abdab)
 * [2024-06-29, 06:13:51](https://news.ycombinator.com/item?id=40828223) - [The Flexipede Revisited](https://www.chilton-computing.org.uk/acl/htmls/flexipede/flexipede.htm)
 * [2024-06-29, 05:23:30](https://news.ycombinator.com/item?id=40828068) - [Neo Geo Architecture: A practical analysis](https://www.copetti.org/writings/consoles/neogeo/)
 * [2024-06-29, 05:05:20](https://news.ycombinator.com/item?id=40827999) - [Alphatab.net](https://alphatab.net/)
@@ -30,6 +29,7 @@
 * [2024-06-28, 10:52:56](https://news.ycombinator.com/item?id=40819404) - [The Dream of an Alpine Waterway](https://blog.nationalmuseum.ch/en/2024/06/the-dream-of-an-alpine-waterway/)
 * [2024-06-28, 07:44:43](https://news.ycombinator.com/item?id=40818573) - [That Editor](https://github.com/bisqwit/that_editor)
 * [2024-06-28, 07:05:53](https://news.ycombinator.com/item?id=40818401) - [Mapping the Red Planet with the Power of Open Science](https://www.jpl.nasa.gov/news/mapping-the-red-planet-with-the-power-of-open-science)
+* [2024-06-25, 18:08:17](https://news.ycombinator.com/item?id=40791596) - [Texture Enhancement for Video Super-Resolution](https://github.com/DachunKai/EvTexture)
 
 ## [Archives](archives/index.md)
 
