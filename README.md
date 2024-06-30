@@ -21,7 +21,7 @@
 * [2024-06-29, 11:38:01](https://news.ycombinator.com/item?id=40829607) - [A bunch of programming advice I'd give to myself 15 years ago](https://mbuffett.com/posts/programming-advice-younger-self/)
 * [2024-06-29, 11:12:42](https://news.ycombinator.com/item?id=40829459) - [Researchers at ETH Zurich develop the fastest possible flow algorithm](https://ethz.ch/en/news-and-events/eth-news/news/2024/06/researchers-at-eth-zurich-develop-the-fastest-possible-flow-algorithm.html)
 * [2024-06-29, 07:25:49](https://news.ycombinator.com/item?id=40828493) - [Imhex: A hex editor for reverse engineers](https://github.com/WerWolv/ImHex)
-* [2024-06-29, 07:04:41](https://news.ycombinator.com/item?id=40828424) - [Open source is neither a community nor a democracy](https://world.hey.com/dhh/open-source-is-neither-a-community-nor-a-democracy-606abdab)
+* [2024-06-29, 07:25:44](https://news.ycombinator.com/item?id=40828492) - [Yellow Pig's BBC Computer Pages](http://www.cowsarenotpurple.co.uk/bbccomputer/index.html)
 * [2024-06-29, 05:23:30](https://news.ycombinator.com/item?id=40828068) - [Neo Geo Architecture: A practical analysis](https://www.copetti.org/writings/consoles/neogeo/)
 * [2024-06-29, 05:05:20](https://news.ycombinator.com/item?id=40827999) - [Alphatab.net](https://alphatab.net/)
 * [2024-06-29, 00:01:24](https://news.ycombinator.com/item?id=40826683) - [The XAES-256-GCM extended-nonce AEAD](https://words.filippo.io/dispatches/xaes-256-gcm/)
