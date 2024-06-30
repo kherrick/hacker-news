@@ -66,6 +66,7 @@
 * [2024-06-26, 11:45:57](https://news.ycombinator.com/item?id=40798837) - [A terminal-based Bluetooth manager for Linux](https://darkhz.github.io/bluetuith/index.html)
 * [2024-06-26, 11:43:56](https://news.ycombinator.com/item?id=40798828) - [Flame Graphs: Making the opaque obvious (2017)](https://tech.popdata.org/Flame-Graphs-Performance-Tuning-Made-Easy/)
 * [2024-06-26, 11:30:04](https://news.ycombinator.com/item?id=40798740) - [gRPC: The Bad Parts](https://kmcd.dev/posts/grpc-the-bad-parts/)
+* [2024-06-26, 11:25:11](https://news.ycombinator.com/item?id=40798723) - [My (Neo)Vim workflow](https://seniormars.com/posts/neovim-workflow/)
 * [2024-06-26, 10:44:52](https://news.ycombinator.com/item?id=40798473) - [Indonesia is trying to block LGBTQIA content from the internet](https://restofworld.org/2024/indonesia-broadcasting-law-lgbtqia/)
 * [2024-06-26, 10:43:45](https://news.ycombinator.com/item?id=40798469) - [Git-cliff – Generate changelog from the Git history](https://git-cliff.org/)
 * [2024-06-26, 09:55:32](https://news.ycombinator.com/item?id=40798224) - [The Point of the Banach Tarski Theorem](https://www.solipsys.co.uk/new/ThePointOfTheBanachTarskiTheorem.html?xf26hn)

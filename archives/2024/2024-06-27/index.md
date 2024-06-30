@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-27](index.md)
 
+* [2024-06-27, 23:35:10](https://news.ycombinator.com/item?id=40816349) - [Debugging hardware is hard](https://blog.supermechanical.com/2024/06/27/debugging-hardware-is-hard/)
 * [2024-06-27, 23:08:40](https://news.ycombinator.com/item?id=40816158) - [Infrastructure set-up & open-source scripts to train a 70B model from bare metal](https://imbue.com/research/70b-infrastructure/)
 * [2024-06-27, 22:31:17](https://news.ycombinator.com/item?id=40815896) - [Create HTML/ZIP/PNG Polyglot Files in JavaScript](https://github.com/gildas-lormeau/Polyglot-HTML-ZIP-PNG)
 * [2024-06-27, 21:32:12](https://news.ycombinator.com/item?id=40815355) - [Andrée's Arctic Balloon Expedition](https://en.wikipedia.org/wiki/Andr%C3%A9e%27s_Arctic_balloon_expedition)
