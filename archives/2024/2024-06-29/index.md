@@ -83,6 +83,7 @@
 * [2024-06-29, 07:00:30](https://news.ycombinator.com/item?id=40828408) - [Raycast (YC W20) Is Hiring a Senior Product Designer (UTC ± 3 Hours)](https://www.raycast.com/jobs/senior-product-designer)
 * [2024-06-29, 06:58:09](https://news.ycombinator.com/item?id=40828394) - [AMD MI300x GPUs with GEMM tuning improves throughput and latency by up to 7.2x](https://www.nscale.com/blog/nscale-benchmarks-amd-mi300x-gpus-with-gemm-tuning-improves-throughput-and-latency-by-up-to-7-2x)
 * [2024-06-29, 06:55:13](https://news.ycombinator.com/item?id=40828379) - [Ask HN: Best books/courses to learn Java core+advanced?](https://news.ycombinator.com/item?id=40828379)
+* [2024-06-29, 06:26:10](https://news.ycombinator.com/item?id=40828256) - [How to get away with fraud (2018)](https://www.theguardian.com/news/2018/jun/28/how-to-get-away-with-financial-fraud)
 * [2024-06-29, 06:13:51](https://news.ycombinator.com/item?id=40828223) - [The Flexipede Revisited](https://www.chilton-computing.org.uk/acl/htmls/flexipede/flexipede.htm)
 * [2024-06-29, 06:07:50](https://news.ycombinator.com/item?id=40828203) - [How to waste bandwidth, battery power, and annoy sysadmins](https://rachelbythebay.com/w/2024/06/28/fxios/)
 * [2024-06-29, 05:56:02](https://news.ycombinator.com/item?id=40828180) - [Show HN: Safe Routes. real time turbulence data, ML predictions with an iPad](https://skypath.io)
