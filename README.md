@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-30, 19:24:48](https://news.ycombinator.com/item?id=40839484) - [Microsoft Alerts More Customers to Email Theft in Expanding](https://www.securityweek.com/microsoft-alerts-more-customers-to-email-theft-in-expanding-midnight-blizzard-hack/)
 * [2024-06-30, 19:17:42](https://news.ycombinator.com/item?id=40839418) - [Postzegelcode](https://en.wikipedia.org/wiki/Postzegelcode)
 * [2024-06-30, 19:15:38](https://news.ycombinator.com/item?id=40839398) - [Why monotonous repetition is unsatisfying](https://patterns.architexturez.net/doc/az-cf-172605)
 * [2024-06-30, 18:58:58](https://news.ycombinator.com/item?id=40839262) - [Combine multiple RSS feeds into a single feed, as a service](https://github.com/chase-seibert/rsscombine)
@@ -20,6 +19,7 @@
 * [2024-06-29, 23:27:02](https://news.ycombinator.com/item?id=40834012) - [Swiss Broadcasting Corporation to pull plug on FM radio](https://www.swissinfo.ch/eng/life-aging/swiss-broadcasting-corporation-to-pull-plug-on-fm-radio/81956760)
 * [2024-06-29, 23:17:53](https://news.ycombinator.com/item?id=40833960) - [Adding a USB port to the ThinkPad X1 Nano (the hard way)](https://jcs.org/2024/05/29/x1usb)
 * [2024-06-29, 17:03:53](https://news.ycombinator.com/item?id=40831964) - [The super effectiveness of Pokémon embeddings using only raw JSON and images](https://minimaxir.com/2024/06/pokemon-embeddings/)
+* [2024-06-29, 16:56:51](https://news.ycombinator.com/item?id=40831904) - [Show HN: Pickcode – Free online code editor for kids](https://pickcode.io)
 * [2024-06-29, 13:34:55](https://news.ycombinator.com/item?id=40830395) - [Text for Proofing Fonts (2020)](https://www.typography.com/blog/text-for-proofing-fonts)
 * [2024-06-29, 11:18:37](https://news.ycombinator.com/item?id=40829494) - [LosslessCut: The Swiss army knife of lossless video/audio editing](https://github.com/mifi/lossless-cut)
 * [2024-06-29, 08:42:02](https://news.ycombinator.com/item?id=40828754) - [Semantics and scheduling for machine knitting compilers (2023)](https://textiles-lab.github.io/publications/2023-knitout-semantics/)
