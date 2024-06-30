@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-30, 09:22:27](https://news.ycombinator.com/item?id=40836049) - [Show HN: Let Grumpy AI Roast Your Startup Idea](https://maker-list.com/ideas/new)
 * [2024-06-30, 09:03:02](https://news.ycombinator.com/item?id=40835975) - [Anti-aging molecule successfully restores multiple markers of youth](https://newatlas.com/biology/tac-anti-aging-molecule/)
 * [2024-06-30, 08:10:58](https://news.ycombinator.com/item?id=40835793) - [Figma defaults to train AI models on personal data](https://help.figma.com/hc/en-us/articles/17725942479127-Control-AI-features-and-content-training-settings)
 * [2024-06-30, 08:09:53](https://news.ycombinator.com/item?id=40835789) - [POSIX 2004 Changes](https://sortix.org/blog/posix-2024/)
@@ -13,7 +14,6 @@
 * [2024-06-29, 22:14:02](https://news.ycombinator.com/item?id=40833645) - [Trilobites killed by volcanic ash](https://www.bristol.ac.uk/news/2024/june/prehistoric-pompeii.html)
 * [2024-06-29, 21:01:34](https://news.ycombinator.com/item?id=40833334) - [CVE-2021-4440: A Linux CNA Case Study](https://grsecurity.net/cve-2021-4440_linux_cna_case_study)
 * [2024-06-29, 21:01:11](https://news.ycombinator.com/item?id=40833327) - [The Operational Wargame Series: The best game not in stores now (2021)](https://nodicenoglory.com/2021/06/23/the-operational-wargame-series-the-best-game-not-in-stores-now/)
-* [2024-06-29, 19:46:20](https://news.ycombinator.com/item?id=40832930) - [Overleaf: An open-source online real-time collaborative LaTeX editor](https://github.com/overleaf/overleaf)
 * [2024-06-29, 17:27:58](https://news.ycombinator.com/item?id=40832146) - [Show HN: I am building an open-source Confluence and Notion alternative](https://github.com/docmost/docmost)
 * [2024-06-29, 17:07:38](https://news.ycombinator.com/item?id=40831991) - [Python toolkit for quantitative finance](https://github.com/goldmansachs/gs-quant)
 * [2024-06-29, 13:26:46](https://news.ycombinator.com/item?id=40830332) - [The economics of writing technical books](https://architectelevator.com/strategy/book-author-economics/)

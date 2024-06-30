@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-30](index.md)
 
+* [2024-06-30, 09:22:27](https://news.ycombinator.com/item?id=40836049) - [Show HN: Let Grumpy AI Roast Your Startup Idea](https://maker-list.com/ideas/new)
 * [2024-06-30, 09:03:02](https://news.ycombinator.com/item?id=40835975) - [Anti-aging molecule successfully restores multiple markers of youth](https://newatlas.com/biology/tac-anti-aging-molecule/)
 * [2024-06-30, 08:10:58](https://news.ycombinator.com/item?id=40835793) - [Figma defaults to train AI models on personal data](https://help.figma.com/hc/en-us/articles/17725942479127-Control-AI-features-and-content-training-settings)
 * [2024-06-30, 08:09:53](https://news.ycombinator.com/item?id=40835789) - [POSIX 2004 Changes](https://sortix.org/blog/posix-2024/)
