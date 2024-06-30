@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-06-30, 07:20:52",
-      "https://news.ycombinator.com/item?id=40835641"
-    ],
-    [
-      "Volkswagen Willing to Pay $1B Just to Look at Rivian's Software",
-      "https://www.autoevolution.com/news/volkswagen-so-desperate-it-s-willing-to-pay-1-billion-just-to-look-at-rivian-s-software-235988.html"
-    ]
-  ],
-  [
-    [
       "2024-06-30, 05:07:53",
       "https://news.ycombinator.com/item?id=40835274"
     ],
@@ -51,32 +41,12 @@
   ],
   [
     [
-      "2024-06-29, 23:34:39",
-      "https://news.ycombinator.com/item?id=40834061"
-    ],
-    [
-      "Redbox Owner Chicken Soup for the Soul Files for Chapter 11",
-      "https://deadline.com/2024/06/redbox-chicken-soup-for-the-soul-entertainment-files-chapter-11-bankruptcy-1235997730/"
-    ]
-  ],
-  [
-    [
       "2024-06-29, 23:34:15",
       "https://news.ycombinator.com/item?id=40834059"
     ],
     [
       "We Launched the Largest Real-Time Global CO2 Map",
       "https://www.airgradient.com/blog/airgradient-global-co2-map/"
-    ]
-  ],
-  [
-    [
-      "2024-06-29, 22:36:27",
-      "https://news.ycombinator.com/item?id=40833743"
-    ],
-    [
-      "My philosophy of exceptions: they're always ambiguous (2021)",
-      "https://adamhooper.medium.com/my-philosophy-of-exceptions-theyre-always-ambiguous-9b419d2ccbef"
     ]
   ],
   [
@@ -157,6 +127,16 @@
     [
       "Python toolkit for quantitative finance",
       "https://github.com/goldmansachs/gs-quant"
+    ]
+  ],
+  [
+    [
+      "2024-06-29, 15:59:12",
+      "https://news.ycombinator.com/item?id=40831489"
+    ],
+    [
+      "FUTO Keyboard",
+      "https://keyboard.futo.org/"
     ]
   ],
   [
@@ -291,12 +271,32 @@
   ],
   [
     [
+      "2024-06-28, 03:08:47",
+      "https://news.ycombinator.com/item?id=40817343"
+    ],
+    [
+      "Klára Dán von Neumann",
+      "https://en.wikipedia.org/wiki/Kl%C3%A1ra_D%C3%A1n_von_Neumann"
+    ]
+  ],
+  [
+    [
       "2024-06-27, 19:49:18",
       "https://news.ycombinator.com/item?id=40814333"
     ],
     [
       "Buried Ancient Egyptian Port Reveals Hidden Connections () Distant Civilizations",
       "https://www.smithsonianmag.com/history/hidden-ancient-egyptian-port-reveals-180984485/"
+    ]
+  ],
+  [
+    [
+      "2024-06-25, 18:08:17",
+      "https://news.ycombinator.com/item?id=40791596"
+    ],
+    [
+      "Texture Enhancement for Video Super-Resolution",
+      "https://github.com/DachunKai/EvTexture"
     ]
   ]
 ]
