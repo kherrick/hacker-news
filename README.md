@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-30, 13:31:12](https://news.ycombinator.com/item?id=40837081) - [Goldman Sachs says the return on investment for AI might be disappointing](https://www.businessinsider.com/ai-return-investment-disappointing-goldman-sachs-report-2024-6)
 * [2024-06-30, 11:52:02](https://news.ycombinator.com/item?id=40836685) - [How the 1904 Marathon Became One of the Weirdest Olympic Events of All Time](https://www.smithsonianmag.com/history/how-the-1904-marathon-became-one-of-the-weirdest-olympic-events-of-all-time-14910747/)
 * [2024-06-30, 09:58:22](https://news.ycombinator.com/item?id=40836183) - [An Analog Network of Resistors Promises Machine Learning Without a Processor](https://www.hackster.io/news/an-analog-network-of-resistors-promises-machine-learning-without-a-processor-researchers-say-d9cb0655b7a0)
 * [2024-06-30, 05:07:53](https://news.ycombinator.com/item?id=40835274) - [Weekend projects: getting silly with C](https://lcamtuf.substack.com/p/weekend-projects-getting-silly-with)
@@ -12,7 +13,6 @@
 * [2024-06-29, 17:39:16](https://news.ycombinator.com/item?id=40832214) - [Thousands of Pablo Picasso’s works in a new online archive](https://www.smithsonianmag.com/smart-news/thousands-of-pablo-picassos-works-are-now-online-180984597/)
 * [2024-06-29, 17:27:58](https://news.ycombinator.com/item?id=40832146) - [Show HN: I am building an open-source Confluence and Notion alternative](https://github.com/docmost/docmost)
 * [2024-06-29, 17:07:38](https://news.ycombinator.com/item?id=40831991) - [Python toolkit for quantitative finance](https://github.com/goldmansachs/gs-quant)
-* [2024-06-29, 15:59:12](https://news.ycombinator.com/item?id=40831489) - [FUTO Keyboard](https://keyboard.futo.org/)
 * [2024-06-29, 13:26:46](https://news.ycombinator.com/item?id=40830332) - [The economics of writing technical books](https://architectelevator.com/strategy/book-author-economics/)
 * [2024-06-29, 12:35:51](https://news.ycombinator.com/item?id=40830005) - [Bytecode Breakdown: Unraveling Factorio's Lua Security Flaws](https://memorycorruption.net/posts/rce-lua-factorio/)
 * [2024-06-29, 11:38:01](https://news.ycombinator.com/item?id=40829607) - [A bunch of programming advice I'd give to myself 15 years ago](https://mbuffett.com/posts/programming-advice-younger-self/)
