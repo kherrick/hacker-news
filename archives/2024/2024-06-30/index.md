@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-30](index.md)
 
+* [2024-06-30, 19:24:48](https://news.ycombinator.com/item?id=40839484) - [Microsoft Alerts More Customers to Email Theft in Expanding](https://www.securityweek.com/microsoft-alerts-more-customers-to-email-theft-in-expanding-midnight-blizzard-hack/)
 * [2024-06-30, 19:17:42](https://news.ycombinator.com/item?id=40839418) - [Postzegelcode](https://en.wikipedia.org/wiki/Postzegelcode)
 * [2024-06-30, 19:15:38](https://news.ycombinator.com/item?id=40839398) - [Why Monotonous Repetition Is Unsatisfying](https://patterns.architexturez.net/doc/az-cf-172605)
 * [2024-06-30, 19:14:46](https://news.ycombinator.com/item?id=40839388) - [Will sending `kill -11` to Java process raises a NullPointerException?](https://stackoverflow.com/questions/77485058/will-sending-kill-11-to-java-process-raises-a-nullpointerexception)
