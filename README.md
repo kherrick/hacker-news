@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-30, 09:42:15](https://news.ycombinator.com/item?id=40836115) - [Chomsky–Schützenberger Enumeration Theorem](https://en.wikipedia.org/wiki/Chomsky%E2%80%93Sch%C3%BCtzenberger_enumeration_theorem)
 * [2024-06-30, 05:07:53](https://news.ycombinator.com/item?id=40835274) - [Weekend projects: getting silly with C](https://lcamtuf.substack.com/p/weekend-projects-getting-silly-with)
 * [2024-06-30, 00:44:06](https://news.ycombinator.com/item?id=40834349) - [Inside a $1 radar motion sensor](https://10maurycy10.github.io/projects/motion_sensor_hacking/)
 * [2024-06-30, 00:41:31](https://news.ycombinator.com/item?id=40834345) - [How Coffee Helped the Union Caffeinate Its Way to Victory in the Civil War](https://www.smithsonianmag.com/history/how-coffee-helped-the-union-caffeinate-their-way-victory-civil-war-180984502/)
@@ -19,6 +18,7 @@
 * [2024-06-29, 11:12:42](https://news.ycombinator.com/item?id=40829459) - [Researchers at ETH Zurich develop the fastest possible flow algorithm](https://ethz.ch/en/news-and-events/eth-news/news/2024/06/researchers-at-eth-zurich-develop-the-fastest-possible-flow-algorithm.html)
 * [2024-06-29, 08:16:40](https://news.ycombinator.com/item?id=40828647) - [Edelman's Steps Toward a Conscious Artifact (2021)](https://arxiv.org/abs/2105.10461)
 * [2024-06-29, 07:25:49](https://news.ycombinator.com/item?id=40828493) - [Imhex: A hex editor for reverse engineers](https://github.com/WerWolv/ImHex)
+* [2024-06-29, 06:13:51](https://news.ycombinator.com/item?id=40828223) - [The Flexipede Revisited](https://www.chilton-computing.org.uk/acl/htmls/flexipede/flexipede.htm)
 * [2024-06-29, 05:23:30](https://news.ycombinator.com/item?id=40828068) - [Neo Geo Architecture: A practical analysis](https://www.copetti.org/writings/consoles/neogeo/)
 * [2024-06-29, 05:05:20](https://news.ycombinator.com/item?id=40827999) - [Alphatab.net](https://alphatab.net/)
 * [2024-06-29, 04:55:57](https://news.ycombinator.com/item?id=40827970) - [Artificial Needles to Real Haystacks: Improving Retrieval Capabilities in LLMs](https://arxiv.org/abs/2406.19292)
