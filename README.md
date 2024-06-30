@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-30, 15:15:17](https://news.ycombinator.com/item?id=40837644) - [Twenty-Fifth Amendment to the United States Constitution](https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution)
 * [2024-06-30, 15:00:42](https://news.ycombinator.com/item?id=40837524) - [Power station's last coal delivery arrives by rail](https://www.bbc.co.uk/news/articles/ckkg0wl7dkro)
 * [2024-06-30, 14:08:30](https://news.ycombinator.com/item?id=40837240) - [Self-healing 'living skin' can make robots more humanlike](https://www.livescience.com/technology/robotics/self-healing-living-skin-can-make-robots-more-humanlike-and-it-looks-just-as-creepy-as-youd-expect)
 * [2024-06-30, 12:23:27](https://news.ycombinator.com/item?id=40836773) - [Ask HN: Any tool to generate AI images with exact same uploaded product images?](https://news.ycombinator.com/item?id=40836773)
@@ -11,7 +12,6 @@
 * [2024-06-29, 22:14:02](https://news.ycombinator.com/item?id=40833645) - [Trilobites killed by volcanic ash](https://www.bristol.ac.uk/news/2024/june/prehistoric-pompeii.html)
 * [2024-06-29, 21:01:11](https://news.ycombinator.com/item?id=40833327) - [The Operational Wargame Series: The best game not in stores now (2021)](https://nodicenoglory.com/2021/06/23/the-operational-wargame-series-the-best-game-not-in-stores-now/)
 * [2024-06-29, 19:46:20](https://news.ycombinator.com/item?id=40832930) - [Overleaf: An open-source online real-time collaborative LaTeX editor](https://github.com/overleaf/overleaf)
-* [2024-06-29, 17:40:11](https://news.ycombinator.com/item?id=40832223) - [AirPods fast connect security vulnerability](https://blogs.gnome.org/jdressler/2024/06/26/do-a-firmware-update-for-your-airpods-now/)
 * [2024-06-29, 17:27:58](https://news.ycombinator.com/item?id=40832146) - [Show HN: I am building an open-source Confluence and Notion alternative](https://github.com/docmost/docmost)
 * [2024-06-29, 17:07:38](https://news.ycombinator.com/item?id=40831991) - [Python toolkit for quantitative finance](https://github.com/goldmansachs/gs-quant)
 * [2024-06-29, 13:34:55](https://news.ycombinator.com/item?id=40830395) - [Text for Proofing Fonts (2020)](https://www.typography.com/blog/text-for-proofing-fonts)

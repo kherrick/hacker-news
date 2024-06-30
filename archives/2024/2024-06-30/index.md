@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-30](index.md)
 
+* [2024-06-30, 15:15:17](https://news.ycombinator.com/item?id=40837644) - [Twenty-Fifth Amendment to the United States Constitution](https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution)
 * [2024-06-30, 15:00:42](https://news.ycombinator.com/item?id=40837524) - [Power station's last coal delivery arrives by rail](https://www.bbc.co.uk/news/articles/ckkg0wl7dkro)
 * [2024-06-30, 14:08:30](https://news.ycombinator.com/item?id=40837240) - [Self-healing 'living skin' can make robots more humanlike](https://www.livescience.com/technology/robotics/self-healing-living-skin-can-make-robots-more-humanlike-and-it-looks-just-as-creepy-as-youd-expect)
 * [2024-06-30, 13:31:12](https://news.ycombinator.com/item?id=40837081) - [Goldman Sachs says the return on investment for AI might be disappointing](https://www.businessinsider.com/ai-return-investment-disappointing-goldman-sachs-report-2024-6)
