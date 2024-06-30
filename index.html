@@ -129,6 +129,75 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
+        <section id="40837610">
+          <h3>
+            <a class="item" href="https://github.com/poundifdef/SmoothMQ"
+              >Show HN: Drop-In SQS Replacement Based on SQLite</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-06-30 @ 15:11:08</span
+              ><span class="points-container"
+                >Points: <span class="points">64</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40837610"
+                  >Comments</a
+                ><span class="descendants">: 10</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                I wrote this because I wanted a queue with all the bells and
+                whistles - searching, scheduling into the future, observability,
+                and rate limiting - all the things that many modern task queue
+                systems have.
+              </p>
+              <p>
+                But I didn't want to rewrite my app, which was already using
+                SQS. And I was frustrated that many of the best solutions out
+                there (BullMQ, Oban, Sidekiq) were language-specific.
+              </p>
+              <p>
+                So I made an SQS-compatible replacement. All you have to do is
+                replace the endpoint using AWS' native library in your language
+                of choice.
+              </p>
+              <p>
+                For example, the queue works with Celery - you just change the
+                connection string. From there, you can see all of your messages
+                and their status, which is hard today in the SQS console (and
+                flower doesn't support SQS.)
+              </p>
+              <p>
+                It is written to be pluggable. The queue implementation uses
+                SQLite, but I've been experimenting with RocksDB as a backend
+                and you could even write one that uses Postgres. Similarly, you
+                could implement multiple protocols (AMQP, PubSub, etc) on top of
+                the underlying queue. I started with SQS because it is simple
+                and I use it a lot.
+              </p>
+              <p>
+                It is written to be as easy to deploy as possible - a single go
+                binary. I'm working on adding distributed and autoscale
+                functionality as the next layer.
+              </p>
+              <p>
+                Today I have search, observability (via prometheus), unlimited
+                message sizes, and the ability to schedule messages arbitrarily
+                in the future.
+              </p>
+              <p>
+                In terms of monetization, the goal is to just have a hosted
+                queue system. I believe this can be cheaper than SQS without
+                sacrificing performance. Just as Backblaze and Minio have had
+                success competing in the S3 space, I wanted to take a crack at
+                queues.
+              </p>
+              <p>I'd love your feedback!</p>
+            </div>
+          </section>
+        </section>
         <section id="40837524">
           <h3>
             <a
@@ -141,11 +210,32 @@
             <h4>
               <span>2024-06-30 @ 15:00:42</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">14</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40837524"
                   >Comments</a
-                ><span class="descendants">: 8</span></span
+                ><span class="descendants">: 11</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="40837357">
+          <h3>
+            <a
+              class="item"
+              href="https://commons.wikimedia.org/wiki/U.S._state_welcome_signs"
+              >50 Welcome Signs for 50 States</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-06-30 @ 14:32:02</span
+              ><span class="points-container"
+                >Points: <span class="points">7</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40837357"
+                  >Comments</a
+                ><span class="descendants">: 12</span></span
               >
             </h4>
           </section>
@@ -162,39 +252,13 @@
             <h4>
               <span>2024-06-30 @ 14:08:30</span
               ><span class="points-container"
-                >Points: <span class="points">12</span></span
+                >Points: <span class="points">15</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40837240"
-                  >Comments</a
-                ><span class="descendants">: 13</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="40836773">
-          <h3>
-            <a class="item" href="https://news.ycombinator.com/item?id=40836773"
-              >Ask HN: Any tool to generate AI images with exact same uploaded
-              product images?</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-06-30 @ 12:23:27</span
-              ><span class="points-container"
-                >Points: <span class="points">19</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40836773"
                   >Comments</a
                 ><span class="descendants">: 19</span></span
               >
             </h4>
-            <div class="text">
-              Is there any paid or free tool which we can use to generate AI
-              images with the product images that we upload. For example lets
-              say we have a cap and I want to generate a human image wearing
-              that same cap?
-            </div>
           </section>
         </section>
         <section id="40836685">
@@ -210,11 +274,11 @@
             <h4>
               <span>2024-06-30 @ 11:52:02</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">49</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40836685"
                   >Comments</a
-                ><span class="descendants">: 11</span></span
+                ><span class="descendants">: 14</span></span
               >
             </h4>
           </section>
@@ -232,11 +296,11 @@
             <h4>
               <span>2024-06-30 @ 09:58:22</span
               ><span class="points-container"
-                >Points: <span class="points">62</span></span
+                >Points: <span class="points">64</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40836183"
                   >Comments</a
-                ><span class="descendants">: 24</span></span
+                ><span class="descendants">: 28</span></span
               >
             </h4>
           </section>
@@ -253,11 +317,11 @@
             <h4>
               <span>2024-06-30 @ 05:07:53</span
               ><span class="points-container"
-                >Points: <span class="points">156</span></span
+                >Points: <span class="points">166</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40835274"
                   >Comments</a
-                ><span class="descendants">: 58</span></span
+                ><span class="descendants">: 60</span></span
               >
             </h4>
           </section>
@@ -274,11 +338,11 @@
             <h4>
               <span>2024-06-30 @ 00:44:06</span
               ><span class="points-container"
-                >Points: <span class="points">485</span></span
+                >Points: <span class="points">491</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40834349"
                   >Comments</a
-                ><span class="descendants">: 68</span></span
+                ><span class="descendants">: 71</span></span
               >
             </h4>
           </section>
@@ -296,11 +360,11 @@
             <h4>
               <span>2024-06-30 @ 00:41:31</span
               ><span class="points-container"
-                >Points: <span class="points">67</span></span
+                >Points: <span class="points">72</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40834345"
                   >Comments</a
-                ><span class="descendants">: 57</span></span
+                ><span class="descendants">: 62</span></span
               >
             </h4>
           </section>
@@ -317,7 +381,7 @@
             <h4>
               <span>2024-06-29 @ 22:14:02</span
               ><span class="points-container"
-                >Points: <span class="points">117</span></span
+                >Points: <span class="points">121</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40833645"
                   >Comments</a
@@ -339,11 +403,11 @@
             <h4>
               <span>2024-06-29 @ 21:01:11</span
               ><span class="points-container"
-                >Points: <span class="points">101</span></span
+                >Points: <span class="points">103</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40833327"
                   >Comments</a
-                ><span class="descendants">: 53</span></span
+                ><span class="descendants">: 55</span></span
               >
             </h4>
           </section>
@@ -359,32 +423,11 @@
             <h4>
               <span>2024-06-29 @ 19:46:20</span
               ><span class="points-container"
-                >Points: <span class="points">222</span></span
+                >Points: <span class="points">223</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40832930"
                   >Comments</a
                 ><span class="descendants">: 105</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="40832223">
-          <h3>
-            <a
-              class="item"
-              href="https://blogs.gnome.org/jdressler/2024/06/26/do-a-firmware-update-for-your-airpods-now/"
-              >AirPods fast connect security vulnerability</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-06-29 @ 17:40:11</span
-              ><span class="points-container"
-                >Points: <span class="points">277</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40832223"
-                  >Comments</a
-                ><span class="descendants">: 70</span></span
               >
             </h4>
           </section>
@@ -400,11 +443,11 @@
             <h4>
               <span>2024-06-29 @ 17:27:58</span
               ><span class="points-container"
-                >Points: <span class="points">447</span></span
+                >Points: <span class="points">453</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40832146"
                   >Comments</a
-                ><span class="descendants">: 175</span></span
+                ><span class="descendants">: 181</span></span
               >
             </h4>
             <div class="text">
@@ -460,11 +503,11 @@
             <h4>
               <span>2024-06-29 @ 17:07:38</span
               ><span class="points-container"
-                >Points: <span class="points">259</span></span
+                >Points: <span class="points">262</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40831991"
                   >Comments</a
-                ><span class="descendants">: 52</span></span
+                ><span class="descendants">: 53</span></span
               >
             </h4>
           </section>
@@ -481,11 +524,11 @@
             <h4>
               <span>2024-06-29 @ 13:34:55</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40830395"
                   >Comments</a
-                ><span class="descendants">: 0</span></span
+                ><span class="descendants">: 1</span></span
               >
             </h4>
           </section>
@@ -502,11 +545,11 @@
             <h4>
               <span>2024-06-29 @ 13:26:46</span
               ><span class="points-container"
-                >Points: <span class="points">257</span></span
+                >Points: <span class="points">259</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40830332"
                   >Comments</a
-                ><span class="descendants">: 83</span></span
+                ><span class="descendants">: 85</span></span
               >
             </h4>
           </section>
@@ -523,7 +566,7 @@
             <h4>
               <span>2024-06-29 @ 12:35:51</span
               ><span class="points-container"
-                >Points: <span class="points">434</span></span
+                >Points: <span class="points">437</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40830005"
                   >Comments</a
@@ -544,11 +587,11 @@
             <h4>
               <span>2024-06-29 @ 11:38:01</span
               ><span class="points-container"
-                >Points: <span class="points">480</span></span
+                >Points: <span class="points">484</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40829607"
                   >Comments</a
-                ><span class="descendants">: 285</span></span
+                ><span class="descendants">: 286</span></span
               >
             </h4>
           </section>
@@ -566,7 +609,7 @@
             <h4>
               <span>2024-06-29 @ 11:12:42</span
               ><span class="points-container"
-                >Points: <span class="points">285</span></span
+                >Points: <span class="points">289</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40829459"
                   >Comments</a
@@ -585,7 +628,7 @@
             <h4>
               <span>2024-06-29 @ 08:16:40</span
               ><span class="points-container"
-                >Points: <span class="points">33</span></span
+                >Points: <span class="points">34</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40828647"
                   >Comments</a
@@ -604,7 +647,7 @@
             <h4>
               <span>2024-06-29 @ 07:25:49</span
               ><span class="points-container"
-                >Points: <span class="points">566</span></span
+                >Points: <span class="points">570</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40828493"
                   >Comments</a
@@ -623,11 +666,11 @@
             <h4>
               <span>2024-06-29 @ 07:05:14</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">47</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40828426"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -648,7 +691,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40828068"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 27</span></span
               >
             </h4>
           </section>
@@ -659,7 +702,7 @@
             <h4>
               <span>2024-06-29 @ 05:05:20</span
               ><span class="points-container"
-                >Points: <span class="points">49</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40827999"
                   >Comments</a
@@ -679,7 +722,7 @@
             <h4>
               <span>2024-06-29 @ 04:55:57</span
               ><span class="points-container"
-                >Points: <span class="points">92</span></span
+                >Points: <span class="points">93</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40827970"
                   >Comments</a
@@ -699,7 +742,7 @@
             <h4>
               <span>2024-06-28 @ 11:36:31</span
               ><span class="points-container"
-                >Points: <span class="points">92</span></span
+                >Points: <span class="points">93</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40819623"
                   >Comments</a
@@ -725,11 +768,11 @@
             <h4>
               <span>2024-06-28 @ 10:52:56</span
               ><span class="points-container"
-                >Points: <span class="points">72</span></span
+                >Points: <span class="points">73</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40819404"
                   >Comments</a
-                ><span class="descendants">: 31</span></span
+                ><span class="descendants">: 34</span></span
               >
             </h4>
           </section>
@@ -744,7 +787,7 @@
             <h4>
               <span>2024-06-28 @ 07:44:43</span
               ><span class="points-container"
-                >Points: <span class="points">190</span></span
+                >Points: <span class="points">195</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40818573"
                   >Comments</a
@@ -765,7 +808,7 @@
             <h4>
               <span>2024-06-28 @ 07:05:53</span
               ><span class="points-container"
-                >Points: <span class="points">50</span></span
+                >Points: <span class="points">51</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40818401"
                   >Comments</a
@@ -787,11 +830,11 @@
             <h4>
               <span>2024-06-27 @ 19:49:18</span
               ><span class="points-container"
-                >Points: <span class="points">113</span></span
+                >Points: <span class="points">118</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40814333"
                   >Comments</a
-                ><span class="descendants">: 26</span></span
+                ><span class="descendants">: 30</span></span
               >
             </h4>
           </section>
