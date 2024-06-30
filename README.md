@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-30, 17:23:04](https://news.ycombinator.com/item?id=40838515) - [Canada 'sleepwalking' into cashless society, consumer advocates warn](https://www.cbc.ca/news/canada/ottawa/canada-sleepwalking-into-cashless-society-consumer-advocates-warn-1.7248846)
 * [2024-06-30, 17:00:22](https://news.ycombinator.com/item?id=40838330) - [Microsoft 1998 = Apple 2024](https://ianbetteridge.com/2024/06/27/microsoft-1998-apple-2024/)
 * [2024-06-30, 17:00:14](https://news.ycombinator.com/item?id=40838327) - [Bitmovin (YC S15) is hiring video solution architects in the US](https://bitmovin.com/careers/senior-solutions-engineer-us-7504149002)
 * [2024-06-30, 16:54:39](https://news.ycombinator.com/item?id=40838290) - [A live ranking of airlines by how much luggage they are losing](https://luggagelosers.com/)
 * [2024-06-30, 16:38:08](https://news.ycombinator.com/item?id=40838167) - [How to Get Root Access to Your Sleep Number Bed](https://dillan.org/articles/how-to-get-root-access-to-your-sleep-number-bed)
 * [2024-06-30, 15:11:08](https://news.ycombinator.com/item?id=40837610) - [Show HN: Drop-In SQS Replacement Based on SQLite](https://github.com/poundifdef/SmoothMQ)
-* [2024-06-30, 15:00:42](https://news.ycombinator.com/item?id=40837524) - [Power station's last coal delivery arrives by rail](https://www.bbc.co.uk/news/articles/ckkg0wl7dkro)
 * [2024-06-30, 14:43:54](https://news.ycombinator.com/item?id=40837420) - [Below MI – IBM I for Hackers](https://silentsignal.github.io/BelowMI/)
 * [2024-06-30, 14:42:03](https://news.ycombinator.com/item?id=40837411) - [The weirdest QNX bug I've encountered (2021)](https://mental-reverb.com/blog.php?id=29)
 * [2024-06-30, 14:34:17](https://news.ycombinator.com/item?id=40837365) - [I Started a Bike Bus (2023)](https://www.wired.com/story/how-to-start-a-bike-bus/)
