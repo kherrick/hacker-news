@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-30, 13:03:52](https://news.ycombinator.com/item?id=40836934) - [Appeals court seems lost on how Internet Archive harms publishers](https://arstechnica.com/tech-policy/2024/06/appeals-court-seems-lost-on-how-internet-archive-harms-publishers/)
-* [2024-06-30, 11:41:24](https://news.ycombinator.com/item?id=40836648) - [Immune response study explains why some people don't get Covid-19](https://news.ycombinator.com/item?id=40836648)
 * [2024-06-30, 09:58:22](https://news.ycombinator.com/item?id=40836183) - [An Analog Network of Resistors Promises Machine Learning Without a Processor](https://www.hackster.io/news/an-analog-network-of-resistors-promises-machine-learning-without-a-processor-researchers-say-d9cb0655b7a0)
 * [2024-06-30, 05:07:53](https://news.ycombinator.com/item?id=40835274) - [Weekend projects: getting silly with C](https://lcamtuf.substack.com/p/weekend-projects-getting-silly-with)
 * [2024-06-30, 00:44:06](https://news.ycombinator.com/item?id=40834349) - [Inside a $1 radar motion sensor](https://10maurycy10.github.io/projects/motion_sensor_hacking/)
@@ -22,6 +21,7 @@
 * [2024-06-29, 07:25:49](https://news.ycombinator.com/item?id=40828493) - [Imhex: A hex editor for reverse engineers](https://github.com/WerWolv/ImHex)
 * [2024-06-29, 07:05:14](https://news.ycombinator.com/item?id=40828426) - [U++ – Cross-Platform App Development Framework](https://www.ultimatepp.org/index.html)
 * [2024-06-29, 05:23:30](https://news.ycombinator.com/item?id=40828068) - [Neo Geo Architecture: A practical analysis](https://www.copetti.org/writings/consoles/neogeo/)
+* [2024-06-29, 05:05:20](https://news.ycombinator.com/item?id=40827999) - [Alphatab.net](https://alphatab.net/)
 * [2024-06-29, 04:55:57](https://news.ycombinator.com/item?id=40827970) - [Artificial Needles to Real Haystacks: Improving Retrieval Capabilities in LLMs](https://arxiv.org/abs/2406.19292)
 * [2024-06-28, 11:52:36](https://news.ycombinator.com/item?id=40819712) - [The Dinner Party That Served Up 50k-Year-Old Bison Stew (2018)](https://www.atlasobscura.com/articles/ancient-bison-stew-blue-babe-alaska)
 * [2024-06-28, 11:36:31](https://news.ycombinator.com/item?id=40819623) - [Show HN: Conway's Game of Life, but as a div full of Braille characters](https://px.neocities.org/life#)
