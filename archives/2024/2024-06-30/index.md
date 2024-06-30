@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-06-30](index.md)
 
+* [2024-06-30, 17:00:22](https://news.ycombinator.com/item?id=40838330) - [Microsoft 1998 = Apple 2024](https://ianbetteridge.com/2024/06/27/microsoft-1998-apple-2024/)
 * [2024-06-30, 17:00:14](https://news.ycombinator.com/item?id=40838327) - [Bitmovin (YC S15) Is Hiring Video Solution Architects in the US](https://bitmovin.com/careers/senior-solutions-engineer-us-7504149002)
+* [2024-06-30, 16:54:39](https://news.ycombinator.com/item?id=40838290) - [A live ranking of airlines by how much luggage they are losing](https://luggagelosers.com/)
+* [2024-06-30, 16:38:08](https://news.ycombinator.com/item?id=40838167) - [How to Get Root Access to Your Sleep Number Bed](https://dillan.org/articles/how-to-get-root-access-to-your-sleep-number-bed)
 * [2024-06-30, 15:37:01](https://news.ycombinator.com/item?id=40837791) - [Dev rejects CVE severity, makes his GitHub repo read-only](https://www.bleepingcomputer.com/news/security/dev-rejects-cve-severity-makes-his-github-repo-read-only/)
 * [2024-06-30, 15:35:08](https://news.ycombinator.com/item?id=40837777) - [Re: Supreme Court's Loper decision: offer some thought someone who has litigated](https://twitter.com/BrendanCarrFCC/status/1807206127987208470)
 * [2024-06-30, 15:15:17](https://news.ycombinator.com/item?id=40837644) - [Twenty-Fifth Amendment to the United States Constitution](https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution)
