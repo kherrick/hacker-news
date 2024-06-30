@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-30, 05:07:53](https://news.ycombinator.com/item?id=40835274) - [Weekend projects: getting silly with C](https://lcamtuf.substack.com/p/weekend-projects-getting-silly-with)
 * [2024-06-30, 04:55:34](https://news.ycombinator.com/item?id=40835231) - [Financial services shun AI over job and regulatory fears](https://www.ft.com/content/0675e4d9-62a1-4d6c-9098-a8cb0d1e32ed)
 * [2024-06-30, 04:19:06](https://news.ycombinator.com/item?id=40835117) - [OpenDNS Suspends Service in France Due to Canal+ Piracy Blocking Order](https://torrentfreak.com/opendns-suspends-service-in-france-due-to-canal-piracy-blocking-order-240629/)
 * [2024-06-30, 01:56:41](https://news.ycombinator.com/item?id=40834600) - [Chrome is adding `window.ai` – a Gemini Nano AI model right inside the browser](https://twitter.com/rauchg/status/1806385778064564622)
@@ -15,7 +16,6 @@
 * [2024-06-29, 17:39:16](https://news.ycombinator.com/item?id=40832214) - [Thousands of Pablo Picasso’s works in a new online archive](https://www.smithsonianmag.com/smart-news/thousands-of-pablo-picassos-works-are-now-online-180984597/)
 * [2024-06-29, 17:27:58](https://news.ycombinator.com/item?id=40832146) - [Show HN: I am building an open-source Confluence and Notion alternative](https://github.com/docmost/docmost)
 * [2024-06-29, 17:07:38](https://news.ycombinator.com/item?id=40831991) - [Python toolkit for quantitative finance](https://github.com/goldmansachs/gs-quant)
-* [2024-06-29, 15:59:12](https://news.ycombinator.com/item?id=40831489) - [FUTO Keyboard](https://keyboard.futo.org/)
 * [2024-06-29, 13:26:46](https://news.ycombinator.com/item?id=40830332) - [The economics of writing technical books](https://architectelevator.com/strategy/book-author-economics/)
 * [2024-06-29, 12:35:51](https://news.ycombinator.com/item?id=40830005) - [Bytecode Breakdown: Unraveling Factorio's Lua Security Flaws](https://memorycorruption.net/posts/rce-lua-factorio/)
 * [2024-06-29, 11:38:01](https://news.ycombinator.com/item?id=40829607) - [A bunch of programming advice I'd give to myself 15 years ago](https://mbuffett.com/posts/programming-advice-younger-self/)
