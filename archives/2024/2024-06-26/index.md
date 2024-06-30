@@ -38,6 +38,7 @@
 * [2024-06-26, 17:00:17](https://news.ycombinator.com/item?id=40802054) - [Motion (YC W20) Is Hiring Our First DevOps Engineer](https://jobs.ashbyhq.com/motion/731e6994-c9b0-43ae-b7e4-28cbca03920f?utm_source=hn)
 * [2024-06-26, 16:52:06](https://news.ycombinator.com/item?id=40801971) - [Supreme Court strikes anti-corruption law that bars officials from taking gifts](https://www.latimes.com/world-nation/story/2024-06-26/supreme-court-anti-corruption-law)
 * [2024-06-26, 16:26:29](https://news.ycombinator.com/item?id=40801712) - [Crypto-failure Terraform Labs to cough up $4.5B, liquidate self](https://www.theregister.com/2024/06/17/terraform_labs_payment_closure/)
+* [2024-06-26, 16:26:25](https://news.ycombinator.com/item?id=40801710) - [Y292B Bug](https://dpolakovic.space/blogs/y292b)
 * [2024-06-26, 16:05:36](https://news.ycombinator.com/item?id=40801523) - [Rabbit failed to properly reset keys: emails can be sent from rabbit.tech domain](https://rabbitu.de/articles/security-disclosure-2)
 * [2024-06-26, 16:02:57](https://news.ycombinator.com/item?id=40801494) - [Show HN: Find AI – Perplexity Meets LinkedIn](https://usefind.ai/)
 * [2024-06-26, 16:00:48](https://news.ycombinator.com/item?id=40801479) - [US Mac market share grew 22% in Q1, likely helped by new MacBook Air models](https://9to5mac.com/2024/06/26/us-mac-market-share-q1-2024/)

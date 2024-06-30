@@ -6,7 +6,9 @@
 
 * [2024-06-29, 23:34:39](https://news.ycombinator.com/item?id=40834061) - [Redbox Owner Chicken Soup for the Soul Files for Chapter 11](https://deadline.com/2024/06/redbox-chicken-soup-for-the-soul-entertainment-files-chapter-11-bankruptcy-1235997730/)
 * [2024-06-29, 23:34:15](https://news.ycombinator.com/item?id=40834059) - [We Launched the Largest Real-Time Global CO2 Map](https://www.airgradient.com/blog/airgradient-global-co2-map/)
+* [2024-06-29, 23:27:02](https://news.ycombinator.com/item?id=40834012) - [Swiss Broadcasting Corporation to pull plug on FM radio](https://www.swissinfo.ch/eng/life-aging/swiss-broadcasting-corporation-to-pull-plug-on-fm-radio/81956760)
 * [2024-06-29, 23:20:01](https://news.ycombinator.com/item?id=40833975) - [Lego made bricks out of meteorite dust and they're on display at select stores](https://www.engadget.com/lego-made-bricks-out-of-meteorite-dust-and-theyre-on-display-at-select-stores-161440194.html)
+* [2024-06-29, 23:17:53](https://news.ycombinator.com/item?id=40833960) - [Adding a USB port to the ThinkPad X1 Nano (the hard way)](https://jcs.org/2024/05/29/x1usb)
 * [2024-06-29, 22:36:27](https://news.ycombinator.com/item?id=40833743) - [My philosophy of exceptions: they're always ambiguous (2021)](https://adamhooper.medium.com/my-philosophy-of-exceptions-theyre-always-ambiguous-9b419d2ccbef)
 * [2024-06-29, 22:14:02](https://news.ycombinator.com/item?id=40833645) - [Trilobites killed by volcanic ash reveal features never seen before](https://www.bristol.ac.uk/news/2024/june/prehistoric-pompeii.html)
 * [2024-06-29, 22:03:18](https://news.ycombinator.com/item?id=40833610) - [NuExtract: A LLM for Structured Extraction](https://huggingface.co/numind/NuExtract)
@@ -59,6 +61,7 @@
 * [2024-06-29, 11:38:01](https://news.ycombinator.com/item?id=40829607) - [A Bunch of Programming Advice I'd Give to Myself 15 Years Ago](https://mbuffett.com/posts/programming-advice-younger-self/)
 * [2024-06-29, 11:22:11](https://news.ycombinator.com/item?id=40829513) - [Technology is about to accelerate. Because Chevron deference is over](https://twitter.com/balajis/status/1806773841395675218)
 * [2024-06-29, 11:20:18](https://news.ycombinator.com/item?id=40829499) - [Chris Titus Tech's Windows Utility – Install Programs, Tweaks, Fixes and Updates](https://github.com/ChrisTitusTech/winutil)
+* [2024-06-29, 11:18:37](https://news.ycombinator.com/item?id=40829494) - [LosslessCut: The Swiss army knife of lossless video/audio editing](https://github.com/mifi/lossless-cut)
 * [2024-06-29, 11:12:42](https://news.ycombinator.com/item?id=40829459) - [Researchers at ETH Zurich develop the fastest possible flow algorithm](https://ethz.ch/en/news-and-events/eth-news/news/2024/06/researchers-at-eth-zurich-develop-the-fastest-possible-flow-algorithm.html)
 * [2024-06-29, 11:03:43](https://news.ycombinator.com/item?id=40829401) - [A violent gang's ruthless crypto-stealing home invasion spree](https://www.wired.com/story/crypto-home-invasion-crime-ring/)
 * [2024-06-29, 10:58:08](https://news.ycombinator.com/item?id=40829357) - [Developer experience: What is it and why should you care? (2023)](https://github.blog/2023-06-08-developer-experience-what-is-it-and-why-should-you-care/)
