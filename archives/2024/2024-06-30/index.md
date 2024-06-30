@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-30](index.md)
 
 * [2024-06-30, 19:17:42](https://news.ycombinator.com/item?id=40839418) - [Postzegelcode](https://en.wikipedia.org/wiki/Postzegelcode)
+* [2024-06-30, 19:15:38](https://news.ycombinator.com/item?id=40839398) - [Why Monotonous Repetition Is Unsatisfying](https://patterns.architexturez.net/doc/az-cf-172605)
 * [2024-06-30, 19:14:46](https://news.ycombinator.com/item?id=40839388) - [Will sending `kill -11` to Java process raises a NullPointerException?](https://stackoverflow.com/questions/77485058/will-sending-kill-11-to-java-process-raises-a-nullpointerexception)
 * [2024-06-30, 19:00:59](https://news.ycombinator.com/item?id=40839278) - [The EU regulates that by 2027, all phones be equipped with replaceable batteries](https://twitter.com/mingchikuo/status/1807432542934732953)
 * [2024-06-30, 18:58:58](https://news.ycombinator.com/item?id=40839262) - [Combine multiple RSS feeds into a single feed, as a service](https://github.com/chase-seibert/rsscombine)

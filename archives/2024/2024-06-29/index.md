@@ -70,6 +70,7 @@
 * [2024-06-29, 10:05:12](https://news.ycombinator.com/item?id=40829097) - [Framework Laptop 16, six months later](https://www.theverge.com/24185827/framework-laptop-16-six-months-later-review)
 * [2024-06-29, 09:48:19](https://news.ycombinator.com/item?id=40829030) - [Ticketmaster has begun warning customers about data breach](https://stackdiary.com/ticketmaster-has-begun-warning-customers-about-data-breach/)
 * [2024-06-29, 09:32:57](https://news.ycombinator.com/item?id=40828971) - [Diversity Was Supposed to Make Us Rich. Not So Much](https://www.wsj.com/finance/investing/diversity-was-supposed-to-make-us-rich-not-so-much-39da6a23)
+* [2024-06-29, 08:42:02](https://news.ycombinator.com/item?id=40828754) - [Semantics and scheduling for machine knitting compilers (2023)](https://textiles-lab.github.io/publications/2023-knitout-semantics/)
 * [2024-06-29, 08:16:40](https://news.ycombinator.com/item?id=40828647) - [Edelman's Steps Toward a Conscious Artifact (2021)](https://arxiv.org/abs/2105.10461)
 * [2024-06-29, 08:00:56](https://news.ycombinator.com/item?id=40828610) - [It's not just you, Next.js is getting harder to use](https://www.propelauth.com/post/nextjs-challenges)
 * [2024-06-29, 07:52:43](https://news.ycombinator.com/item?id=40828587) - [I'm Terrified of Old People](https://guzey.com/old-people/)
