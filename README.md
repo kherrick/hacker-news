@@ -4,6 +4,7 @@
 * [2024-06-30, 18:58:58](https://news.ycombinator.com/item?id=40839262) - [Combine multiple RSS feeds into a single feed, as a service](https://github.com/chase-seibert/rsscombine)
 * [2024-06-30, 18:53:18](https://news.ycombinator.com/item?id=40839208) - [Writing GUI apps for Windows is painful](https://tulach.cc/writing-gui-apps-for-windows-is-painful/)
 * [2024-06-30, 18:24:34](https://news.ycombinator.com/item?id=40838945) - [A simplified Python simulation of diffusion](https://www.thepythoncodingstack.com/p/python-diffusion-simulation-demo-turtle)
+* [2024-06-30, 18:14:18](https://news.ycombinator.com/item?id=40838859) - [NASA and SpaceX misjudged the risks from reentering space junk](https://arstechnica.com/space/2024/06/maybe-its-time-to-reassess-the-risk-of-space-junk-falling-to-earth/)
 * [2024-06-30, 17:23:04](https://news.ycombinator.com/item?id=40838515) - [Canada 'sleepwalking' into cashless society, consumer advocates warn](https://www.cbc.ca/news/canada/ottawa/canada-sleepwalking-into-cashless-society-consumer-advocates-warn-1.7248846)
 * [2024-06-30, 17:07:03](https://news.ycombinator.com/item?id=40838388) - [Hoping for a Miracle to Save the Ogallala Aquifer? Prepare for the New Dust Bowl](https://kansasreflector.com/2024/06/30/hoping-for-a-miracle-to-save-the-ogallala-aquifer-prepare-for-the-new-dust-bowl/)
 * [2024-06-30, 17:00:14](https://news.ycombinator.com/item?id=40838327) - [Bitmovin (YC S15) is hiring video solution architects in the US](https://bitmovin.com/careers/senior-solutions-engineer-us-7504149002)
@@ -27,7 +28,6 @@
 * [2024-06-28, 13:21:05](https://news.ycombinator.com/item?id=40820369) - [Our great database migration](https://shepherdinsurance.com/blog/the-great-database-migration)
 * [2024-06-28, 12:36:00](https://news.ycombinator.com/item?id=40820022) - [Computational Life: How self-replicating programs emerge from simple interaction](https://arxiv.org/abs/2406.19108)
 * [2024-06-28, 11:05:57](https://news.ycombinator.com/item?id=40819441) - [Exploring Randomness in JavaScript](https://www.bennadel.com/blog/4669-exploring-randomness-in-javascript.htm)
-* [2024-06-27, 23:35:10](https://news.ycombinator.com/item?id=40816349) - [Debugging hardware is hard](https://blog.supermechanical.com/2024/06/27/debugging-hardware-is-hard/)
 * [2024-06-27, 19:49:18](https://news.ycombinator.com/item?id=40814333) - [A buried ancient Egyptian port reveals connections between distant civilizations](https://www.smithsonianmag.com/history/hidden-ancient-egyptian-port-reveals-180984485/)
 * [2024-06-26, 11:25:11](https://news.ycombinator.com/item?id=40798723) - [My (Neo)Vim workflow](https://seniormars.com/posts/neovim-workflow/)
 
