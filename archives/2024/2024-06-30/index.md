@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-30](index.md)
 
+* [2024-06-30, 09:03:02](https://news.ycombinator.com/item?id=40835975) - [Anti-aging molecule successfully restores multiple markers of youth](https://newatlas.com/biology/tac-anti-aging-molecule/)
 * [2024-06-30, 08:10:58](https://news.ycombinator.com/item?id=40835793) - [Figma defaults to train AI models on personal data](https://help.figma.com/hc/en-us/articles/17725942479127-Control-AI-features-and-content-training-settings)
 * [2024-06-30, 08:09:53](https://news.ycombinator.com/item?id=40835789) - [POSIX 2004 Changes](https://sortix.org/blog/posix-2024/)
 * [2024-06-30, 07:02:26](https://news.ycombinator.com/item?id=40835588) - [MIT robotics pioneer Rodney Brooks thinks people are vastly overestimating AI](https://techcrunch.com/2024/06/29/mit-robotics-pioneer-rodney-brooks-thinks-people-are-vastly-overestimating-generative-ai/)
