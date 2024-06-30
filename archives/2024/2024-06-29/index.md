@@ -6,6 +6,7 @@
 
 * [2024-06-29, 23:34:39](https://news.ycombinator.com/item?id=40834061) - [Redbox Owner Chicken Soup for the Soul Files for Chapter 11](https://deadline.com/2024/06/redbox-chicken-soup-for-the-soul-entertainment-files-chapter-11-bankruptcy-1235997730/)
 * [2024-06-29, 23:20:01](https://news.ycombinator.com/item?id=40833975) - [Lego made bricks out of meteorite dust and they're on display at select stores](https://www.engadget.com/lego-made-bricks-out-of-meteorite-dust-and-theyre-on-display-at-select-stores-161440194.html)
+* [2024-06-29, 22:36:27](https://news.ycombinator.com/item?id=40833743) - [My philosophy of exceptions: they're always ambiguous (2021)](https://adamhooper.medium.com/my-philosophy-of-exceptions-theyre-always-ambiguous-9b419d2ccbef)
 * [2024-06-29, 22:14:02](https://news.ycombinator.com/item?id=40833645) - [Trilobites killed by volcanic ash reveal features never seen before](https://www.bristol.ac.uk/news/2024/june/prehistoric-pompeii.html)
 * [2024-06-29, 22:03:18](https://news.ycombinator.com/item?id=40833610) - [NuExtract: A LLM for Structured Extraction](https://huggingface.co/numind/NuExtract)
 * [2024-06-29, 21:50:38](https://news.ycombinator.com/item?id=40833558) - ['It's completely invasive': New app lets you spy on SF bars](https://sfstandard.com/2024/06/29/2night-live-stream-bars-privacy-concerns/)
