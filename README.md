@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-30, 19:17:42](https://news.ycombinator.com/item?id=40839418) - [Postzegelcode](https://en.wikipedia.org/wiki/Postzegelcode)
+* [2024-06-30, 19:14:46](https://news.ycombinator.com/item?id=40839388) - [Will sending `kill -11` to Java process raises a NullPointerException?](https://stackoverflow.com/questions/77485058/will-sending-kill-11-to-java-process-raises-a-nullpointerexception)
 * [2024-06-30, 19:00:59](https://news.ycombinator.com/item?id=40839278) - [The EU regulates that by 2027, all phones be equipped with replaceable batteries](https://twitter.com/mingchikuo/status/1807432542934732953)
 * [2024-06-30, 18:58:58](https://news.ycombinator.com/item?id=40839262) - [Combine multiple RSS feeds into a single feed, as a service](https://github.com/chase-seibert/rsscombine)
 * [2024-06-30, 18:53:18](https://news.ycombinator.com/item?id=40839208) - [Writing GUI apps for Windows is painful](https://tulach.cc/writing-gui-apps-for-windows-is-painful/)
 * [2024-06-30, 18:24:34](https://news.ycombinator.com/item?id=40838945) - [A simplified Python simulation of diffusion](https://www.thepythoncodingstack.com/p/python-diffusion-simulation-demo-turtle)
 * [2024-06-30, 17:23:04](https://news.ycombinator.com/item?id=40838515) - [Canada 'sleepwalking' into cashless society, consumer advocates warn](https://www.cbc.ca/news/canada/ottawa/canada-sleepwalking-into-cashless-society-consumer-advocates-warn-1.7248846)
-* [2024-06-30, 17:07:03](https://news.ycombinator.com/item?id=40838388) - [Hoping for a Miracle to Save the Ogallala Aquifer? Prepare for the New Dust Bowl](https://kansasreflector.com/2024/06/30/hoping-for-a-miracle-to-save-the-ogallala-aquifer-prepare-for-the-new-dust-bowl/)
 * [2024-06-30, 17:00:14](https://news.ycombinator.com/item?id=40838327) - [Bitmovin (YC S15) is hiring video solution architects in the US](https://bitmovin.com/careers/senior-solutions-engineer-us-7504149002)
 * [2024-06-30, 15:11:08](https://news.ycombinator.com/item?id=40837610) - [Show HN: Drop-In SQS Replacement Based on SQLite](https://github.com/poundifdef/SmoothMQ)
 * [2024-06-30, 15:00:42](https://news.ycombinator.com/item?id=40837524) - [Power station's last coal delivery arrives by rail](https://www.bbc.co.uk/news/articles/ckkg0wl7dkro)
@@ -28,7 +29,6 @@
 * [2024-06-28, 11:05:57](https://news.ycombinator.com/item?id=40819441) - [Exploring Randomness in JavaScript](https://www.bennadel.com/blog/4669-exploring-randomness-in-javascript.htm)
 * [2024-06-27, 23:35:10](https://news.ycombinator.com/item?id=40816349) - [Debugging hardware is hard](https://blog.supermechanical.com/2024/06/27/debugging-hardware-is-hard/)
 * [2024-06-27, 19:49:18](https://news.ycombinator.com/item?id=40814333) - [A buried ancient Egyptian port reveals connections between distant civilizations](https://www.smithsonianmag.com/history/hidden-ancient-egyptian-port-reveals-180984485/)
-* [2024-06-26, 16:26:25](https://news.ycombinator.com/item?id=40801710) - [Y292B Bug](https://dpolakovic.space/blogs/y292b)
 * [2024-06-26, 11:25:11](https://news.ycombinator.com/item?id=40798723) - [My (Neo)Vim workflow](https://seniormars.com/posts/neovim-workflow/)
 
 ## [Archives](archives/index.md)
