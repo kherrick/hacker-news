@@ -14,6 +14,7 @@
 * [2024-06-30, 18:27:22](https://news.ycombinator.com/item?id=40838973) - [Ladybird browser update (June 2024) [video]](https://www.youtube.com/watch?v=cbw0KrMGHvc)
 * [2024-06-30, 18:24:34](https://news.ycombinator.com/item?id=40838945) - [A simplified Python simulation of diffusion](https://www.thepythoncodingstack.com/p/python-diffusion-simulation-demo-turtle)
 * [2024-06-30, 18:14:18](https://news.ycombinator.com/item?id=40838859) - [NASA and SpaceX misjudged the risks from reentering space junk](https://arstechnica.com/space/2024/06/maybe-its-time-to-reassess-the-risk-of-space-junk-falling-to-earth/)
+* [2024-06-30, 17:42:02](https://news.ycombinator.com/item?id=40838635) - [The Byte Order Fiasco](https://justine.lol/endian.html)
 * [2024-06-30, 17:23:04](https://news.ycombinator.com/item?id=40838515) - [Canada 'sleepwalking' into cashless society, consumer advocates warn](https://www.cbc.ca/news/canada/ottawa/canada-sleepwalking-into-cashless-society-consumer-advocates-warn-1.7248846)
 * [2024-06-30, 17:07:03](https://news.ycombinator.com/item?id=40838388) - [Hoping for a Miracle to Save the Ogallala Aquifer? Prepare for the New Dust Bowl](https://kansasreflector.com/2024/06/30/hoping-for-a-miracle-to-save-the-ogallala-aquifer-prepare-for-the-new-dust-bowl/)
 * [2024-06-30, 17:00:22](https://news.ycombinator.com/item?id=40838330) - [Microsoft 1998 = Apple 2024](https://ianbetteridge.com/2024/06/27/microsoft-1998-apple-2024/)
