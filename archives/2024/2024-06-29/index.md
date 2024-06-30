@@ -84,6 +84,7 @@
 * [2024-06-29, 05:30:43](https://news.ycombinator.com/item?id=40828091) - [Mooncake: A KVCache-Centric Disaggregated Architecture for LLM Serving](https://github.com/kvcache-ai/Mooncake)
 * [2024-06-29, 05:24:21](https://news.ycombinator.com/item?id=40828074) - [Show HN: Tool to Maintain Your Network](https://www.ntwrk.site)
 * [2024-06-29, 05:23:30](https://news.ycombinator.com/item?id=40828068) - [Neo Geo Architecture: A practical analysis](https://www.copetti.org/writings/consoles/neogeo/)
+* [2024-06-29, 05:21:46](https://news.ycombinator.com/item?id=40828058) - [ECMAScript 2024: What's New?](https://2ality.com/2024/06/ecmascript-2024.html)
 * [2024-06-29, 05:05:20](https://news.ycombinator.com/item?id=40827999) - [Alphatab.net](https://alphatab.net/)
 * [2024-06-29, 04:55:57](https://news.ycombinator.com/item?id=40827970) - [Artificial Needles to Real Haystacks: Improving Retrieval Capabilities in LLMs](https://arxiv.org/abs/2406.19292)
 * [2024-06-29, 03:19:42](https://news.ycombinator.com/item?id=40827650) - [The 'Pay Phone Bandit' Who Baffled the FBI in the '80s](https://www.mentalfloss.com/posts/pay-phone-bandit-baffled-fbi)
