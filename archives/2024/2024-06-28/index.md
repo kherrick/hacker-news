@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-28](index.md)
 
+* [2024-06-28, 23:04:15](https://news.ycombinator.com/item?id=40826259) - [Hack Your Way to Scientific Glory (2016)](https://projects.fivethirtyeight.com/p-hacking/)
 * [2024-06-28, 22:59:05](https://news.ycombinator.com/item?id=40826236) - [A Eulogy for DevOps](https://matduggan.com/a-eulogy-for-devops/)
 * [2024-06-28, 22:43:05](https://news.ycombinator.com/item?id=40826111) - [Category Theory Using String Diagrams (2014)](https://arxiv.org/abs/1401.7220)
 * [2024-06-28, 22:35:03](https://news.ycombinator.com/item?id=40826038) - [What is a CIDR trie and how can it help you?](https://d34dl0ck.me/rust-bites-cidr-trie/index.html)
@@ -34,6 +35,7 @@
 * [2024-06-28, 17:00:16](https://news.ycombinator.com/item?id=40822577) - [Real Chaos, Today – Randomised controlled trials in economics](https://someunpleasant.substack.com/p/real-chaos-today)
 * [2024-06-28, 16:58:35](https://news.ycombinator.com/item?id=40822555) - [I tried to finish a dead man's novel](https://thewalrus.ca/i-tried-to-finish-a-dead-mans-novel/)
 * [2024-06-28, 16:57:20](https://news.ycombinator.com/item?id=40822535) - [Serpentine](https://www.asymptotejournal.com/blog/2024/06/24/serpentine/)
+* [2024-06-28, 16:57:13](https://news.ycombinator.com/item?id=40822532) - [Butterflies flew 2,600 miles across the Atlantic without stopping](https://www.smithsonianmag.com/smart-news/these-stunning-butterflies-flew-2600-miles-across-the-atlantic-ocean-without-stopping-180984602/)
 * [2024-06-28, 16:56:08](https://news.ycombinator.com/item?id=40822522) - [What Happened to People Magazine?](https://annehelen.substack.com/p/what-happened-to-people-magazine)
 * [2024-06-28, 16:54:55](https://news.ycombinator.com/item?id=40822512) - [Llama-agents: an async-first framework for building production ready agents](https://github.com/run-llama/llama-agents)
 * [2024-06-28, 16:54:49](https://news.ycombinator.com/item?id=40822511) - [The Origins of Yiddish (2014)](https://www.tabletmag.com/sections/arts-letters/articles/yiddishland)
@@ -60,6 +62,7 @@
 * [2024-06-28, 12:53:15](https://news.ycombinator.com/item?id=40820145) - [I would have shit in that alley, too](https://www.lesswrong.com/posts/sCWe5RRvSHQMccd2Q/i-would-have-shit-in-that-alley-too)
 * [2024-06-28, 12:46:50](https://news.ycombinator.com/item?id=40820098) - [What actual purpose do accent characters in ISO-8859-1 and Windows 1252 serve?](https://retrocomputing.stackexchange.com/questions/30261/what-actual-purpose-do-accent-characters-in-iso-8859-1-and-windows-1252-serve)
 * [2024-06-28, 12:41:22](https://news.ycombinator.com/item?id=40820063) - [Five new ways to catch gravitational waves – and the secrets they'll reveal](https://www.nature.com/articles/d41586-024-02003-6)
+* [2024-06-28, 12:36:00](https://news.ycombinator.com/item?id=40820022) - [Computational Life: How self-replicating programs emerge from simple interaction](https://arxiv.org/abs/2406.19108)
 * [2024-06-28, 12:22:54](https://news.ycombinator.com/item?id=40819920) - [Quaternion Differentiation (2012)](https://fgiesen.wordpress.com/2012/08/24/quaternion-differentiation/)
 * [2024-06-28, 12:12:16](https://news.ycombinator.com/item?id=40819849) - [Microsoft forgot to renew their Office CDN certificate](https://old.reddit.com/r/sysadmin/comments/1dqf332/microsoft_ssl_cert_expired/)
 * [2024-06-28, 12:04:56](https://news.ycombinator.com/item?id=40819784) - [Is Clear Air Turbulence becoming more common?](https://www.flightradar24.com/blog/is-cat-more-common/)
