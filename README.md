@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-06-30, 07:02:26](https://news.ycombinator.com/item?id=40835588) - [MIT robotics pioneer Rodney Brooks thinks people are vastly overestimating AI](https://techcrunch.com/2024/06/29/mit-robotics-pioneer-rodney-brooks-thinks-people-are-vastly-overestimating-generative-ai/)
+* [2024-06-30, 06:29:24](https://news.ycombinator.com/item?id=40835482) - [Figma will use your content to train its AI](https://stackdiary.com/figma-will-use-your-content-to-train-its-ai/)
 * [2024-06-30, 06:28:45](https://news.ycombinator.com/item?id=40835479) - [Capcom and GOG to release the original Resident Evil trilogy](https://www.gog.com/en/news/capcom_and_gog_join_forces_to_release_the_original_resident_evil_trilogy)
 * [2024-06-30, 05:07:53](https://news.ycombinator.com/item?id=40835274) - [Weekend projects: getting silly with C](https://lcamtuf.substack.com/p/weekend-projects-getting-silly-with)
 * [2024-06-30, 04:55:34](https://news.ycombinator.com/item?id=40835231) - [Financial services shun AI over job and regulatory fears](https://www.ft.com/content/0675e4d9-62a1-4d6c-9098-a8cb0d1e32ed)
@@ -13,7 +14,6 @@
 * [2024-06-29, 21:01:34](https://news.ycombinator.com/item?id=40833334) - [CVE-2021-4440: A Linux CNA Case Study](https://grsecurity.net/cve-2021-4440_linux_cna_case_study)
 * [2024-06-29, 21:01:11](https://news.ycombinator.com/item?id=40833327) - [The Operational Wargame Series: The best game not in stores now (2021)](https://nodicenoglory.com/2021/06/23/the-operational-wargame-series-the-best-game-not-in-stores-now/)
 * [2024-06-29, 19:46:20](https://news.ycombinator.com/item?id=40832930) - [Overleaf: An open-source online real-time collaborative LaTeX editor](https://github.com/overleaf/overleaf)
-* [2024-06-29, 17:40:11](https://news.ycombinator.com/item?id=40832223) - [AirPods fast connect security vulnerability](https://blogs.gnome.org/jdressler/2024/06/26/do-a-firmware-update-for-your-airpods-now/)
 * [2024-06-29, 17:27:58](https://news.ycombinator.com/item?id=40832146) - [Show HN: I am building an open-source Confluence and Notion alternative](https://github.com/docmost/docmost)
 * [2024-06-29, 17:07:38](https://news.ycombinator.com/item?id=40831991) - [Python toolkit for quantitative finance](https://github.com/goldmansachs/gs-quant)
 * [2024-06-29, 13:26:46](https://news.ycombinator.com/item?id=40830332) - [The economics of writing technical books](https://architectelevator.com/strategy/book-author-economics/)
