@@ -70,6 +70,7 @@
 * [2024-06-29, 07:17:18](https://news.ycombinator.com/item?id=40828459) - [Indonesia's national data centre suffers ransomware attack](https://www.itnews.asia/news/indonesias-national-data-centre-suffers-ransomware-attack-609146)
 * [2024-06-29, 07:09:45](https://news.ycombinator.com/item?id=40828441) - [All web \"content\" is freeware](https://rubenerd.com/all-web-content-is-freeware/)
 * [2024-06-29, 07:09:16](https://news.ycombinator.com/item?id=40828438) - [Microsoft CEO of AI Your online content is 'freeware' fodder for training models](https://www.theregister.com/2024/06/28/microsoft_ceo_ai/)
+* [2024-06-29, 07:04:41](https://news.ycombinator.com/item?id=40828424) - [Open source is neither a community nor a democracy](https://world.hey.com/dhh/open-source-is-neither-a-community-nor-a-democracy-606abdab)
 * [2024-06-29, 07:00:30](https://news.ycombinator.com/item?id=40828408) - [Raycast (YC W20) Is Hiring a Senior Product Designer (UTC ± 3 Hours)](https://www.raycast.com/jobs/senior-product-designer)
 * [2024-06-29, 06:58:09](https://news.ycombinator.com/item?id=40828394) - [AMD MI300x GPUs with GEMM tuning improves throughput and latency by up to 7.2x](https://www.nscale.com/blog/nscale-benchmarks-amd-mi300x-gpus-with-gemm-tuning-improves-throughput-and-latency-by-up-to-7-2x)
 * [2024-06-29, 06:55:13](https://news.ycombinator.com/item?id=40828379) - [Ask HN: Best books/courses to learn Java core+advanced?](https://news.ycombinator.com/item?id=40828379)
