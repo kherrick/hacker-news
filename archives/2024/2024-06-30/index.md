@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-06-30](index.md)
 
+* [2024-06-30, 15:37:01](https://news.ycombinator.com/item?id=40837791) - [Dev rejects CVE severity, makes his GitHub repo read-only](https://www.bleepingcomputer.com/news/security/dev-rejects-cve-severity-makes-his-github-repo-read-only/)
+* [2024-06-30, 15:35:08](https://news.ycombinator.com/item?id=40837777) - [Re: Supreme Court's Loper decision: offer some thought someone who has litigated](https://twitter.com/BrendanCarrFCC/status/1807206127987208470)
 * [2024-06-30, 15:15:17](https://news.ycombinator.com/item?id=40837644) - [Twenty-Fifth Amendment to the United States Constitution](https://en.wikipedia.org/wiki/Twenty-fifth_Amendment_to_the_United_States_Constitution)
+* [2024-06-30, 15:13:25](https://news.ycombinator.com/item?id=40837626) - [Are rainy days ahead for cloud computing?](https://www.bbc.com/news/articles/cd114lllyp6o)
 * [2024-06-30, 15:11:08](https://news.ycombinator.com/item?id=40837610) - [Show HN: Drop-In SQS Replacement Based on SQLite](https://github.com/poundifdef/SmoothMQ)
 * [2024-06-30, 15:00:42](https://news.ycombinator.com/item?id=40837524) - [Power station's last coal delivery arrives by rail](https://www.bbc.co.uk/news/articles/ckkg0wl7dkro)
+* [2024-06-30, 14:42:03](https://news.ycombinator.com/item?id=40837411) - [The weirdest QNX bug I've ever encountered](https://mental-reverb.com/blog.php?id=29)
 * [2024-06-30, 14:32:02](https://news.ycombinator.com/item?id=40837357) - [50 Welcome Signs for 50 States](https://commons.wikimedia.org/wiki/U.S._state_welcome_signs)
 * [2024-06-30, 14:08:30](https://news.ycombinator.com/item?id=40837240) - [Self-healing 'living skin' can make robots more humanlike](https://www.livescience.com/technology/robotics/self-healing-living-skin-can-make-robots-more-humanlike-and-it-looks-just-as-creepy-as-youd-expect)
 * [2024-06-30, 13:31:12](https://news.ycombinator.com/item?id=40837081) - [Goldman Sachs says the return on investment for AI might be disappointing](https://www.businessinsider.com/ai-return-investment-disappointing-goldman-sachs-report-2024-6)
