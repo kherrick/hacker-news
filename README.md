@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-30, 04:56:02](https://news.ycombinator.com/item?id=40835233) - [NASA rover discovers mysterious Mars boulder unlike any others](https://mashable.com/article/nasa-mars-rover-boulder-discovery)
 * [2024-06-30, 01:56:41](https://news.ycombinator.com/item?id=40834600) - [Chrome is adding `window.ai` – a Gemini Nano AI model right inside the browser](https://twitter.com/rauchg/status/1806385778064564622)
 * [2024-06-30, 00:44:06](https://news.ycombinator.com/item?id=40834349) - [Inside a $1 radar motion sensor](https://10maurycy10.github.io/projects/motion_sensor_hacking/)
 * [2024-06-29, 23:34:39](https://news.ycombinator.com/item?id=40834061) - [Redbox Owner Chicken Soup for the Soul Files for Chapter 11](https://deadline.com/2024/06/redbox-chicken-soup-for-the-soul-entertainment-files-chapter-11-bankruptcy-1235997730/)
@@ -19,10 +20,9 @@
 * [2024-06-29, 07:25:49](https://news.ycombinator.com/item?id=40828493) - [Imhex: A hex editor for reverse engineers](https://github.com/WerWolv/ImHex)
 * [2024-06-29, 07:04:41](https://news.ycombinator.com/item?id=40828424) - [Open source is neither a community nor a democracy](https://world.hey.com/dhh/open-source-is-neither-a-community-nor-a-democracy-606abdab)
 * [2024-06-29, 06:13:51](https://news.ycombinator.com/item?id=40828223) - [The Flexipede Revisited](https://www.chilton-computing.org.uk/acl/htmls/flexipede/flexipede.htm)
+* [2024-06-29, 05:23:30](https://news.ycombinator.com/item?id=40828068) - [Neo Geo Architecture: A practical analysis](https://www.copetti.org/writings/consoles/neogeo/)
 * [2024-06-29, 00:01:24](https://news.ycombinator.com/item?id=40826683) - [The XAES-256-GCM extended-nonce AEAD](https://words.filippo.io/dispatches/xaes-256-gcm/)
 * [2024-06-28, 20:39:07](https://news.ycombinator.com/item?id=40825033) - [The story, as best I can remember, of the origin of Mosaic and Netscape [video]](https://pmarca.substack.com/p/the-true-story-as-best-i-can-remember)
-* [2024-06-28, 11:52:36](https://news.ycombinator.com/item?id=40819712) - [The Dinner Party That Served Up 50k-Year-Old Bison Stew (2018)](https://www.atlasobscura.com/articles/ancient-bison-stew-blue-babe-alaska)
-* [2024-06-28, 11:51:53](https://news.ycombinator.com/item?id=40819708) - [Canonical's 'distroless' Linux images are a game-changer for enterprises](https://www.zdnet.com/article/canonicals-distroless-linux-images-are-a-game-changer-for-enterprises/)
 * [2024-06-28, 11:36:31](https://news.ycombinator.com/item?id=40819623) - [Show HN: Conway's Game of Life, but as a div full of Braille characters](https://px.neocities.org/life#)
 * [2024-06-28, 10:52:56](https://news.ycombinator.com/item?id=40819404) - [The Dream of an Alpine Waterway](https://blog.nationalmuseum.ch/en/2024/06/the-dream-of-an-alpine-waterway/)
 * [2024-06-28, 07:44:43](https://news.ycombinator.com/item?id=40818573) - [That Editor](https://github.com/bisqwit/that_editor)

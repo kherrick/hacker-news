@@ -80,6 +80,7 @@
 * [2024-06-29, 05:55:43](https://news.ycombinator.com/item?id=40828179) - [The Limited Value of Multivitamin Supplements](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2820375)
 * [2024-06-29, 05:30:43](https://news.ycombinator.com/item?id=40828091) - [Mooncake: A KVCache-Centric Disaggregated Architecture for LLM Serving](https://github.com/kvcache-ai/Mooncake)
 * [2024-06-29, 05:24:21](https://news.ycombinator.com/item?id=40828074) - [Show HN: Tool to Maintain Your Network](https://www.ntwrk.site)
+* [2024-06-29, 05:23:30](https://news.ycombinator.com/item?id=40828068) - [Neo Geo Architecture: A practical analysis](https://www.copetti.org/writings/consoles/neogeo/)
 * [2024-06-29, 04:55:57](https://news.ycombinator.com/item?id=40827970) - [Artificial Needles to Real Haystacks: Improving Retrieval Capabilities in LLMs](https://arxiv.org/abs/2406.19292)
 * [2024-06-29, 03:19:42](https://news.ycombinator.com/item?id=40827650) - [The 'Pay Phone Bandit' Who Baffled the FBI in the '80s](https://www.mentalfloss.com/posts/pay-phone-bandit-baffled-fbi)
 * [2024-06-29, 03:15:02](https://news.ycombinator.com/item?id=40827628) - [Do I Regret Being 'Just' a Software Engineer?](https://www.jacky.wtf/essays/2024/regrets-with-tech/)
