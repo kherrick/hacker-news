@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-06-30](index.md)
 
+* [2024-06-30, 19:00:59](https://news.ycombinator.com/item?id=40839278) - [The EU regulates that by 2027, all phones be equipped with replaceable batteries](https://twitter.com/mingchikuo/status/1807432542934732953)
+* [2024-06-30, 18:58:58](https://news.ycombinator.com/item?id=40839262) - [Combine multiple RSS feeds into a single feed, as a service](https://github.com/chase-seibert/rsscombine)
+* [2024-06-30, 18:53:18](https://news.ycombinator.com/item?id=40839208) - [Writing GUI apps for Windows is painful](https://tulach.cc/writing-gui-apps-for-windows-is-painful/)
 * [2024-06-30, 18:40:50](https://news.ycombinator.com/item?id=40839106) - [The tech entrepreneur behind a pro-Israel hate network](https://www.theguardian.com/world/article/2024/jun/29/daniel-linden-shirion-collective-pro-israel-palestine-hate)
 * [2024-06-30, 18:27:22](https://news.ycombinator.com/item?id=40838973) - [Ladybird browser update (June 2024) [video]](https://www.youtube.com/watch?v=cbw0KrMGHvc)
+* [2024-06-30, 18:24:34](https://news.ycombinator.com/item?id=40838945) - [A simplified Python simulation of diffusion](https://www.thepythoncodingstack.com/p/python-diffusion-simulation-demo-turtle)
 * [2024-06-30, 17:23:04](https://news.ycombinator.com/item?id=40838515) - [Canada 'sleepwalking' into cashless society, consumer advocates warn](https://www.cbc.ca/news/canada/ottawa/canada-sleepwalking-into-cashless-society-consumer-advocates-warn-1.7248846)
 * [2024-06-30, 17:07:03](https://news.ycombinator.com/item?id=40838388) - [Hoping for a Miracle to Save the Ogallala Aquifer? Prepare for the New Dust Bowl](https://kansasreflector.com/2024/06/30/hoping-for-a-miracle-to-save-the-ogallala-aquifer-prepare-for-the-new-dust-bowl/)
 * [2024-06-30, 17:00:22](https://news.ycombinator.com/item?id=40838330) - [Microsoft 1998 = Apple 2024](https://ianbetteridge.com/2024/06/27/microsoft-1998-apple-2024/)
