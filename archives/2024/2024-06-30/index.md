@@ -8,6 +8,7 @@
 * [2024-06-30, 09:03:02](https://news.ycombinator.com/item?id=40835975) - [Anti-aging molecule successfully restores multiple markers of youth](https://newatlas.com/biology/tac-anti-aging-molecule/)
 * [2024-06-30, 08:10:58](https://news.ycombinator.com/item?id=40835793) - [Figma defaults to train AI models on personal data](https://help.figma.com/hc/en-us/articles/17725942479127-Control-AI-features-and-content-training-settings)
 * [2024-06-30, 08:09:53](https://news.ycombinator.com/item?id=40835789) - [POSIX 2004 Changes](https://sortix.org/blog/posix-2024/)
+* [2024-06-30, 07:20:52](https://news.ycombinator.com/item?id=40835641) - [Volkswagen Willing to Pay $1B Just to Look at Rivian's Software](https://www.autoevolution.com/news/volkswagen-so-desperate-it-s-willing-to-pay-1-billion-just-to-look-at-rivian-s-software-235988.html)
 * [2024-06-30, 07:02:26](https://news.ycombinator.com/item?id=40835588) - [MIT robotics pioneer Rodney Brooks thinks people are vastly overestimating AI](https://techcrunch.com/2024/06/29/mit-robotics-pioneer-rodney-brooks-thinks-people-are-vastly-overestimating-generative-ai/)
 * [2024-06-30, 06:52:55](https://news.ycombinator.com/item?id=40835550) - [Introducing the Theia IDE](https://eclipsesource.com/blogs/2024/06/27/introducing-the-theia-ide/)
 * [2024-06-30, 06:29:24](https://news.ycombinator.com/item?id=40835482) - [Figma will use your content to train its AI](https://stackdiary.com/figma-will-use-your-content-to-train-its-ai/)
