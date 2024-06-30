@@ -76,6 +76,7 @@
 * [2024-06-28, 11:23:49](https://news.ycombinator.com/item?id=40819534) - [Stars Reach – new social sandbox MMO by Raph Koster announced](https://starsreach.com/)
 * [2024-06-28, 11:20:09](https://news.ycombinator.com/item?id=40819517) - [Japan's Mini Kei-Truck Sales Surge in US Despite Safety Concerns](https://www.bloomberg.com/news/articles/2024-06-27/japan-s-mini-kei-truck-sales-surge-in-us-despite-safety-concerns)
 * [2024-06-28, 11:12:15](https://news.ycombinator.com/item?id=40819479) - [Meta LLM Compiler: neural optimizer and disassembler](https://twitter.com/AIatMeta/status/1806361623831171318/photo/1)
+* [2024-06-28, 11:05:57](https://news.ycombinator.com/item?id=40819441) - [Exploring Randomness in JavaScript](https://www.bennadel.com/blog/4669-exploring-randomness-in-javascript.htm)
 * [2024-06-28, 11:05:40](https://news.ycombinator.com/item?id=40819440) - [Understanding React Compiler](https://tonyalicea.dev/blog/understanding-react-compiler/)
 * [2024-06-28, 11:04:00](https://news.ycombinator.com/item?id=40819437) - [Make Something With Your Hands (Even if It’s Hideous)](https://www.nytimes.com/2024/06/28/well/mind/hand-crafts-creation-art.html)
 * [2024-06-28, 10:52:56](https://news.ycombinator.com/item?id=40819404) - [The Dream of an Alpine Waterway](https://blog.nationalmuseum.ch/en/2024/06/the-dream-of-an-alpine-waterway/)
