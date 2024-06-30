@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-06-30, 22:05:14](https://news.ycombinator.com/item?id=40840762) - [The Lives of Others (2006 film)](https://en.wikipedia.org/wiki/The_Lives_of_Others)
 * [2024-06-30, 21:55:04](https://news.ycombinator.com/item?id=40840699) - [Google Arts and Culture site I didn't know existed](https://artsandculture.google.com/)
 * [2024-06-30, 21:08:43](https://news.ycombinator.com/item?id=40840396) - [Convolutions, Fast Fourier Transform and polynomials (2022)](https://www.alvarorevuelta.com/posts/fft-polynomials)
 * [2024-06-30, 19:58:46](https://news.ycombinator.com/item?id=40839830) - [A Large-Scale Structured Database of a Century of Historical News](https://arxiv.org/abs/2406.09490)
@@ -9,6 +8,7 @@
 * [2024-06-30, 18:58:58](https://news.ycombinator.com/item?id=40839262) - [Combine multiple RSS feeds into a single feed, as a service](https://github.com/chase-seibert/rsscombine)
 * [2024-06-30, 18:24:34](https://news.ycombinator.com/item?id=40838945) - [A simplified Python simulation of diffusion](https://www.thepythoncodingstack.com/p/python-diffusion-simulation-demo-turtle)
 * [2024-06-30, 17:42:02](https://news.ycombinator.com/item?id=40838635) - [The Byte Order Fiasco (2021)](https://justine.lol/endian.html)
+* [2024-06-30, 17:07:03](https://news.ycombinator.com/item?id=40838388) - [The depletion of the Ogallala Aquifer in Western Kansas](https://kansasreflector.com/2024/06/30/hoping-for-a-miracle-to-save-the-ogallala-aquifer-prepare-for-the-new-dust-bowl/)
 * [2024-06-30, 17:00:14](https://news.ycombinator.com/item?id=40838327) - [Bitmovin (YC S15) is hiring video solution architects in the US](https://bitmovin.com/careers/senior-solutions-engineer-us-7504149002)
 * [2024-06-30, 15:11:08](https://news.ycombinator.com/item?id=40837610) - [Show HN: Drop-in SQS replacement based on SQLite](https://github.com/poundifdef/SmoothMQ)
 * [2024-06-30, 14:43:54](https://news.ycombinator.com/item?id=40837420) - [Below MI – IBM i for hackers](https://silentsignal.github.io/BelowMI/)
