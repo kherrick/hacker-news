@@ -46,6 +46,7 @@
 * [2024-06-29, 14:19:19](https://news.ycombinator.com/item?id=40830804) - [R1 jailbreakers find security flaw in Rabbit's code](https://www.theverge.com/2024/6/26/24186614/rabbit-r1-security-flaw-api-key-codebase)
 * [2024-06-29, 14:13:09](https://news.ycombinator.com/item?id=40830752) - [Controlling Warpage in Advanced Packages](https://semiengineering.com/controlling-warpage-in-advanced-packages/)
 * [2024-06-29, 14:12:49](https://news.ycombinator.com/item?id=40830748) - [Warren Buffett donates record $5.3B Berkshire shares to charity](https://www.reuters.com/business/warren-buffett-donate-up-53-bln-berkshire-shares-2024-06-28/)
+* [2024-06-29, 13:34:55](https://news.ycombinator.com/item?id=40830395) - [Text for Proofing Fonts (2020)](https://www.typography.com/blog/text-for-proofing-fonts)
 * [2024-06-29, 13:26:46](https://news.ycombinator.com/item?id=40830332) - [The Economics of Writing Technical Books](https://architectelevator.com/strategy/book-author-economics/)
 * [2024-06-29, 12:56:05](https://news.ycombinator.com/item?id=40830126) - [We Just Witnessed the Biggest Supreme Court Power Grab Since 1803](https://www.thenation.com/article/society/chevron-deference-supreme-court-power-grab/)
 * [2024-06-29, 12:35:51](https://news.ycombinator.com/item?id=40830005) - [Bytecode Breakdown: Unraveling Factorio's Lua Security Flaws](https://memorycorruption.net/posts/rce-lua-factorio/)

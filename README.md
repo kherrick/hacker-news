@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-30, 15:00:42](https://news.ycombinator.com/item?id=40837524) - [Power station's last coal delivery arrives by rail](https://www.bbc.co.uk/news/articles/ckkg0wl7dkro)
 * [2024-06-30, 14:08:30](https://news.ycombinator.com/item?id=40837240) - [Self-healing 'living skin' can make robots more humanlike](https://www.livescience.com/technology/robotics/self-healing-living-skin-can-make-robots-more-humanlike-and-it-looks-just-as-creepy-as-youd-expect)
-* [2024-06-30, 13:31:12](https://news.ycombinator.com/item?id=40837081) - [Goldman Sachs says the return on investment for AI might be disappointing](https://www.businessinsider.com/ai-return-investment-disappointing-goldman-sachs-report-2024-6)
 * [2024-06-30, 12:23:27](https://news.ycombinator.com/item?id=40836773) - [Ask HN: Any tool to generate AI images with exact same uploaded product images?](https://news.ycombinator.com/item?id=40836773)
 * [2024-06-30, 11:52:02](https://news.ycombinator.com/item?id=40836685) - [How the 1904 Marathon Became One of the Weirdest Olympic Events of All Time](https://www.smithsonianmag.com/history/how-the-1904-marathon-became-one-of-the-weirdest-olympic-events-of-all-time-14910747/)
 * [2024-06-30, 09:58:22](https://news.ycombinator.com/item?id=40836183) - [An Analog Network of Resistors Promises Machine Learning Without a Processor](https://www.hackster.io/news/an-analog-network-of-resistors-promises-machine-learning-without-a-processor-researchers-say-d9cb0655b7a0)
@@ -14,6 +14,7 @@
 * [2024-06-29, 17:40:11](https://news.ycombinator.com/item?id=40832223) - [AirPods fast connect security vulnerability](https://blogs.gnome.org/jdressler/2024/06/26/do-a-firmware-update-for-your-airpods-now/)
 * [2024-06-29, 17:27:58](https://news.ycombinator.com/item?id=40832146) - [Show HN: I am building an open-source Confluence and Notion alternative](https://github.com/docmost/docmost)
 * [2024-06-29, 17:07:38](https://news.ycombinator.com/item?id=40831991) - [Python toolkit for quantitative finance](https://github.com/goldmansachs/gs-quant)
+* [2024-06-29, 13:34:55](https://news.ycombinator.com/item?id=40830395) - [Text for Proofing Fonts (2020)](https://www.typography.com/blog/text-for-proofing-fonts)
 * [2024-06-29, 13:26:46](https://news.ycombinator.com/item?id=40830332) - [The economics of writing technical books](https://architectelevator.com/strategy/book-author-economics/)
 * [2024-06-29, 12:35:51](https://news.ycombinator.com/item?id=40830005) - [Bytecode Breakdown: Unraveling Factorio's Lua Security Flaws](https://memorycorruption.net/posts/rce-lua-factorio/)
 * [2024-06-29, 11:38:01](https://news.ycombinator.com/item?id=40829607) - [A bunch of programming advice I'd give to myself 15 years ago](https://mbuffett.com/posts/programming-advice-younger-self/)
@@ -29,7 +30,6 @@
 * [2024-06-28, 07:44:43](https://news.ycombinator.com/item?id=40818573) - [That Editor](https://github.com/bisqwit/that_editor)
 * [2024-06-28, 07:05:53](https://news.ycombinator.com/item?id=40818401) - [Mapping the Red Planet with the Power of Open Science](https://www.jpl.nasa.gov/news/mapping-the-red-planet-with-the-power-of-open-science)
 * [2024-06-27, 19:49:18](https://news.ycombinator.com/item?id=40814333) - [Buried Ancient Egyptian Port Reveals Hidden Connections () Distant Civilizations](https://www.smithsonianmag.com/history/hidden-ancient-egyptian-port-reveals-180984485/)
-* [2024-06-25, 18:08:17](https://news.ycombinator.com/item?id=40791596) - [Texture Enhancement for Video Super-Resolution](https://github.com/DachunKai/EvTexture)
 
 ## [Archives](archives/index.md)
 
