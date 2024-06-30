@@ -13,6 +13,7 @@
 * [2024-06-30, 14:42:03](https://news.ycombinator.com/item?id=40837411) - [The weirdest QNX bug I've ever encountered](https://mental-reverb.com/blog.php?id=29)
 * [2024-06-30, 14:32:02](https://news.ycombinator.com/item?id=40837357) - [50 Welcome Signs for 50 States](https://commons.wikimedia.org/wiki/U.S._state_welcome_signs)
 * [2024-06-30, 14:08:30](https://news.ycombinator.com/item?id=40837240) - [Self-healing 'living skin' can make robots more humanlike](https://www.livescience.com/technology/robotics/self-healing-living-skin-can-make-robots-more-humanlike-and-it-looks-just-as-creepy-as-youd-expect)
+* [2024-06-30, 14:05:56](https://news.ycombinator.com/item?id=40837228) - [Tianlong-3 catastrophic failure on launch](https://twitter.com/AJ_FI/status/1807339807640518690)
 * [2024-06-30, 13:31:12](https://news.ycombinator.com/item?id=40837081) - [Goldman Sachs says the return on investment for AI might be disappointing](https://www.businessinsider.com/ai-return-investment-disappointing-goldman-sachs-report-2024-6)
 * [2024-06-30, 13:03:52](https://news.ycombinator.com/item?id=40836934) - [Appeals court seems lost on how Internet Archive harms publishers](https://arstechnica.com/tech-policy/2024/06/appeals-court-seems-lost-on-how-internet-archive-harms-publishers/)
 * [2024-06-30, 12:23:27](https://news.ycombinator.com/item?id=40836773) - [Ask HN: Any tool to generate AI images with exact same uploaded product images?](https://news.ycombinator.com/item?id=40836773)
