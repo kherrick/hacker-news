@@ -58,6 +58,7 @@
 * [2024-06-30, 04:19:06](https://news.ycombinator.com/item?id=40835117) - [OpenDNS Suspends Service in France Due to Canal+ Piracy Blocking Order](https://torrentfreak.com/opendns-suspends-service-in-france-due-to-canal-piracy-blocking-order-240629/)
 * [2024-06-30, 01:56:41](https://news.ycombinator.com/item?id=40834600) - [Chrome is adding `window.ai` – a Gemini Nano AI model right inside the browser](https://twitter.com/rauchg/status/1806385778064564622)
 * [2024-06-30, 01:22:40](https://news.ycombinator.com/item?id=40834504) - [Chr – terminal editor inspired by Turbo Pascal editor from 1997](https://github.com/istoph/editor)
+* [2024-06-30, 01:07:13](https://news.ycombinator.com/item?id=40834440) - [The good, the bad, and the weird (2018)](https://blog.trailofbits.com/2018/10/26/the-good-the-bad-and-the-weird/)
 * [2024-06-30, 00:44:06](https://news.ycombinator.com/item?id=40834349) - [Inside a $1 radar motion sensor](https://10maurycy10.github.io/projects/motion_sensor_hacking/)
 * [2024-06-30, 00:41:31](https://news.ycombinator.com/item?id=40834345) - [How Coffee Helped the Union Caffeinate Its Way to Victory in the Civil War](https://www.smithsonianmag.com/history/how-coffee-helped-the-union-caffeinate-their-way-victory-civil-war-180984502/)
 * [2024-06-30, 00:31:02](https://news.ycombinator.com/item?id=40834305) - [Patagonia gave its staff 3 days to decide to relocate or quit](https://www.businessinsider.com/patagonia-cx-staff-told-to-relocate-or-leave-california-2024-6)
