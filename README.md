@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-30, 21:08:43](https://news.ycombinator.com/item?id=40840396) - [Convolutions, Fast Fourier Transform and Polynomials](https://www.alvarorevuelta.com/posts/fft-polynomials)
 * [2024-06-30, 19:17:42](https://news.ycombinator.com/item?id=40839418) - [Postzegelcode](https://en.wikipedia.org/wiki/Postzegelcode)
 * [2024-06-30, 19:15:38](https://news.ycombinator.com/item?id=40839398) - [Why monotonous repetition is unsatisfying](https://patterns.architexturez.net/doc/az-cf-172605)
 * [2024-06-30, 18:58:58](https://news.ycombinator.com/item?id=40839262) - [Combine multiple RSS feeds into a single feed, as a service](https://github.com/chase-seibert/rsscombine)
@@ -14,7 +15,6 @@
 * [2024-06-30, 07:02:26](https://news.ycombinator.com/item?id=40835588) - [Rodney Brooks on limitations of generative AI](https://techcrunch.com/2024/06/29/mit-robotics-pioneer-rodney-brooks-thinks-people-are-vastly-overestimating-generative-ai/)
 * [2024-06-30, 05:07:53](https://news.ycombinator.com/item?id=40835274) - [Weekend projects: getting silly with C](https://lcamtuf.substack.com/p/weekend-projects-getting-silly-with)
 * [2024-06-30, 01:07:13](https://news.ycombinator.com/item?id=40834440) - [The good, the bad, and the weird (2018)](https://blog.trailofbits.com/2018/10/26/the-good-the-bad-and-the-weird/)
-* [2024-06-30, 00:44:06](https://news.ycombinator.com/item?id=40834349) - [Inside a $1 radar motion sensor](https://10maurycy10.github.io/projects/motion_sensor_hacking/)
 * [2024-06-30, 00:41:31](https://news.ycombinator.com/item?id=40834345) - [Coffee helped the Union in the Civil War](https://www.smithsonianmag.com/history/how-coffee-helped-the-union-caffeinate-their-way-victory-civil-war-180984502/)
 * [2024-06-29, 23:27:02](https://news.ycombinator.com/item?id=40834012) - [Swiss Broadcasting Corporation to pull plug on FM radio](https://www.swissinfo.ch/eng/life-aging/swiss-broadcasting-corporation-to-pull-plug-on-fm-radio/81956760)
 * [2024-06-29, 23:17:53](https://news.ycombinator.com/item?id=40833960) - [Adding a USB port to the ThinkPad X1 Nano (the hard way)](https://jcs.org/2024/05/29/x1usb)
