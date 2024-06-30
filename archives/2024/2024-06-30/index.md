@@ -6,5 +6,6 @@
 
 * [2024-06-30, 01:56:41](https://news.ycombinator.com/item?id=40834600) - [Chrome is adding `window.ai` – a Gemini Nano AI model right inside the browser](https://twitter.com/rauchg/status/1806385778064564622)
 * [2024-06-30, 01:22:40](https://news.ycombinator.com/item?id=40834504) - [Chr – terminal editor inspired by Turbo Pascal editor from 1997](https://github.com/istoph/editor)
+* [2024-06-30, 00:44:06](https://news.ycombinator.com/item?id=40834349) - [Inside a $1 radar motion sensor](https://10maurycy10.github.io/projects/motion_sensor_hacking/)
 * [2024-06-30, 00:31:02](https://news.ycombinator.com/item?id=40834305) - [Patagonia gave its staff 3 days to decide to relocate or quit](https://www.businessinsider.com/patagonia-cx-staff-told-to-relocate-or-leave-california-2024-6)
 * [2024-06-30, 00:27:29](https://news.ycombinator.com/item?id=40834289) - [Why Cloudflare Is a Threat to the Internet Privacy](https://news.ycombinator.com/item?id=40834289)
