@@ -4,12 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-06-29](index.md)
 
+* [2024-06-29, 23:34:39](https://news.ycombinator.com/item?id=40834061) - [Redbox Owner Chicken Soup for the Soul Files for Chapter 11](https://deadline.com/2024/06/redbox-chicken-soup-for-the-soul-entertainment-files-chapter-11-bankruptcy-1235997730/)
 * [2024-06-29, 23:20:01](https://news.ycombinator.com/item?id=40833975) - [Lego made bricks out of meteorite dust and they're on display at select stores](https://www.engadget.com/lego-made-bricks-out-of-meteorite-dust-and-theyre-on-display-at-select-stores-161440194.html)
+* [2024-06-29, 22:14:02](https://news.ycombinator.com/item?id=40833645) - [Trilobites killed by volcanic ash reveal features never seen before](https://www.bristol.ac.uk/news/2024/june/prehistoric-pompeii.html)
 * [2024-06-29, 22:03:18](https://news.ycombinator.com/item?id=40833610) - [NuExtract: A LLM for Structured Extraction](https://huggingface.co/numind/NuExtract)
 * [2024-06-29, 21:50:38](https://news.ycombinator.com/item?id=40833558) - ['It's completely invasive': New app lets you spy on SF bars](https://sfstandard.com/2024/06/29/2night-live-stream-bars-privacy-concerns/)
 * [2024-06-29, 21:28:31](https://news.ycombinator.com/item?id=40833441) - [All-AI Ad from Toys 'R' Us Inspires Debate over the Future of Marketing](https://www.wsj.com/articles/all-ai-ad-from-toys-r-us-inspires-debate-over-the-future-of-marketing-fbecc05b)
 * [2024-06-29, 21:26:27](https://news.ycombinator.com/item?id=40833432) - [Amazon is reviewing whether Perplexity AI improperly scraped online content](https://apnews.com/article/amazon-perplexity-online-content-scraping-investigation-eb1d6bc1caf3dfe0c97db6f4fc691bc9)
 * [2024-06-29, 21:14:18](https://news.ycombinator.com/item?id=40833385) - [How divorce is boosting gender equality in Sweden – new study](https://theconversation.com/how-divorce-is-boosting-gender-equality-in-sweden-new-study-233474)
+* [2024-06-29, 21:01:34](https://news.ycombinator.com/item?id=40833334) - [CVE-2021-4440: A Linux CNA Case Study](https://grsecurity.net/cve-2021-4440_linux_cna_case_study)
 * [2024-06-29, 21:01:11](https://news.ycombinator.com/item?id=40833327) - [The Operational Wargame Series: The best game not in stores now](https://nodicenoglory.com/2021/06/23/the-operational-wargame-series-the-best-game-not-in-stores-now/)
 * [2024-06-29, 21:00:13](https://news.ycombinator.com/item?id=40833323) - [Microsofts AI boss thinks its perfectly OK to steal content if its on open web](https://www.theverge.com/2024/6/28/24188391/microsoft-ai-suleyman-social-contract-freeware)
 * [2024-06-29, 20:42:02](https://news.ycombinator.com/item?id=40833225) - [USB HID deevice class definition [pdf]](https://www.usb.org/sites/default/files/hid1_11.pdf)
@@ -74,6 +77,7 @@
 * [2024-06-29, 05:56:02](https://news.ycombinator.com/item?id=40828180) - [Show HN: Safe Routes. real time turbulence data, ML predictions with an iPad](https://skypath.io)
 * [2024-06-29, 05:55:43](https://news.ycombinator.com/item?id=40828179) - [The Limited Value of Multivitamin Supplements](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2820375)
 * [2024-06-29, 05:30:43](https://news.ycombinator.com/item?id=40828091) - [Mooncake: A KVCache-Centric Disaggregated Architecture for LLM Serving](https://github.com/kvcache-ai/Mooncake)
+* [2024-06-29, 05:24:21](https://news.ycombinator.com/item?id=40828074) - [Show HN: Tool to Maintain Your Network](https://www.ntwrk.site)
 * [2024-06-29, 04:55:57](https://news.ycombinator.com/item?id=40827970) - [Artificial Needles to Real Haystacks: Improving Retrieval Capabilities in LLMs](https://arxiv.org/abs/2406.19292)
 * [2024-06-29, 03:19:42](https://news.ycombinator.com/item?id=40827650) - [The 'Pay Phone Bandit' Who Baffled the FBI in the '80s](https://www.mentalfloss.com/posts/pay-phone-bandit-baffled-fbi)
 * [2024-06-29, 03:15:02](https://news.ycombinator.com/item?id=40827628) - [Do I Regret Being 'Just' a Software Engineer?](https://www.jacky.wtf/essays/2024/regrets-with-tech/)
