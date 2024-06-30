@@ -2,6 +2,7 @@
 
 * [2024-06-30, 22:50:03](https://news.ycombinator.com/item?id=40841057) - [Slack AI](https://slack.com/features/ai?nojsmode=1)
 * [2024-06-30, 22:05:14](https://news.ycombinator.com/item?id=40840762) - [The Lives of Others (2006 film)](https://en.wikipedia.org/wiki/The_Lives_of_Others)
+* [2024-06-30, 22:03:06](https://news.ycombinator.com/item?id=40840751) - [WhatsApp Android beta reveals Llama 3 405B option](https://wabetainfo.com/whatsapp-beta-for-android-2-24-14-7-whats-new/)
 * [2024-06-30, 21:55:04](https://news.ycombinator.com/item?id=40840699) - [Google Arts and Culture site I didn't know existed](https://artsandculture.google.com/)
 * [2024-06-30, 21:08:43](https://news.ycombinator.com/item?id=40840396) - [Convolutions, Fast Fourier Transform and polynomials (2022)](https://www.alvarorevuelta.com/posts/fft-polynomials)
 * [2024-06-30, 19:58:46](https://news.ycombinator.com/item?id=40839830) - [A Large-Scale Structured Database of a Century of Historical News](https://arxiv.org/abs/2406.09490)
@@ -25,7 +26,6 @@
 * [2024-06-29, 11:18:37](https://news.ycombinator.com/item?id=40829494) - [LosslessCut: The Swiss army knife of lossless video/audio editing](https://github.com/mifi/lossless-cut)
 * [2024-06-29, 10:11:02](https://news.ycombinator.com/item?id=40829127) - [To Be Real: On Emily Nussbaum's \"Cue the Sun \"](https://lareviewofbooks.org/article/to-be-real-on-emily-nussbaums-cue-the-sun/)
 * [2024-06-29, 08:42:02](https://news.ycombinator.com/item?id=40828754) - [Semantics and scheduling for machine knitting compilers (2023)](https://textiles-lab.github.io/publications/2023-knitout-semantics/)
-* [2024-06-28, 23:04:15](https://news.ycombinator.com/item?id=40826259) - [Hack Your Way to Scientific Glory (2016)](https://projects.fivethirtyeight.com/p-hacking/)
 * [2024-06-28, 16:57:13](https://news.ycombinator.com/item?id=40822532) - [Butterflies flew 2,600 miles across the Atlantic without stopping](https://www.smithsonianmag.com/smart-news/these-stunning-butterflies-flew-2600-miles-across-the-atlantic-ocean-without-stopping-180984602/)
 * [2024-06-28, 13:21:05](https://news.ycombinator.com/item?id=40820369) - [Our great database migration](https://shepherdinsurance.com/blog/the-great-database-migration)
 * [2024-06-28, 12:36:00](https://news.ycombinator.com/item?id=40820022) - [Computational Life: How self-replicating programs emerge from simple interaction](https://arxiv.org/abs/2406.19108)

@@ -6,6 +6,7 @@
 
 * [2024-06-30, 22:50:03](https://news.ycombinator.com/item?id=40841057) - [Slack AI](https://slack.com/features/ai?nojsmode=1)
 * [2024-06-30, 22:05:14](https://news.ycombinator.com/item?id=40840762) - [The Lives of Others (2006 film)](https://en.wikipedia.org/wiki/The_Lives_of_Others)
+* [2024-06-30, 22:03:06](https://news.ycombinator.com/item?id=40840751) - [WhatsApp Android beta reveals Llama 3 405B option](https://wabetainfo.com/whatsapp-beta-for-android-2-24-14-7-whats-new/)
 * [2024-06-30, 21:58:27](https://news.ycombinator.com/item?id=40840721) - [Andrej Karpathy on X: \"100% Software 2.0 computer.Just a single neural net](https://twitter.com/karpathy/status/1807497426816946333)
 * [2024-06-30, 21:55:04](https://news.ycombinator.com/item?id=40840699) - [Google Arts and Culture site I didn't know existed](https://artsandculture.google.com/)
 * [2024-06-30, 21:48:07](https://news.ycombinator.com/item?id=40840656) - [California approves final high-speed rail link connecting San Francisco to LA](https://www.sfchronicle.com/bayarea/article/california-high-speed-rail-19542125.php)
