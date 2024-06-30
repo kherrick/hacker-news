@@ -1,10 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-06-30, 21:58:27](https://news.ycombinator.com/item?id=40840721) - [Andrej Karpathy on X: \"100% Software 2.0 computer.Just a single neural net](https://twitter.com/karpathy/status/1807497426816946333)
+* [2024-06-30, 21:55:04](https://news.ycombinator.com/item?id=40840699) - [Google Arts and Culture site I didn't know existed](https://artsandculture.google.com/)
+* [2024-06-30, 21:48:07](https://news.ycombinator.com/item?id=40840656) - [California approves final high-speed rail link connecting San Francisco to LA](https://www.sfchronicle.com/bayarea/article/california-high-speed-rail-19542125.php)
 * [2024-06-30, 21:08:43](https://news.ycombinator.com/item?id=40840396) - [Convolutions, Fast Fourier Transform and Polynomials](https://www.alvarorevuelta.com/posts/fft-polynomials)
 * [2024-06-30, 19:17:42](https://news.ycombinator.com/item?id=40839418) - [Postzegelcode](https://en.wikipedia.org/wiki/Postzegelcode)
 * [2024-06-30, 19:15:38](https://news.ycombinator.com/item?id=40839398) - [Why monotonous repetition is unsatisfying](https://patterns.architexturez.net/doc/az-cf-172605)
 * [2024-06-30, 18:58:58](https://news.ycombinator.com/item?id=40839262) - [Combine multiple RSS feeds into a single feed, as a service](https://github.com/chase-seibert/rsscombine)
-* [2024-06-30, 18:53:18](https://news.ycombinator.com/item?id=40839208) - [Writing GUI apps for Windows is painful](https://tulach.cc/writing-gui-apps-for-windows-is-painful/)
 * [2024-06-30, 18:24:34](https://news.ycombinator.com/item?id=40838945) - [A simplified Python simulation of diffusion](https://www.thepythoncodingstack.com/p/python-diffusion-simulation-demo-turtle)
 * [2024-06-30, 17:42:02](https://news.ycombinator.com/item?id=40838635) - [The Byte Order Fiasco (2021)](https://justine.lol/endian.html)
 * [2024-06-30, 17:07:03](https://news.ycombinator.com/item?id=40838388) - [The depletion of the Ogallala Aquifer in Western Kansas](https://kansasreflector.com/2024/06/30/hoping-for-a-miracle-to-save-the-ogallala-aquifer-prepare-for-the-new-dust-bowl/)
@@ -23,13 +25,11 @@
 * [2024-06-29, 12:20:00](https://news.ycombinator.com/item?id=40829900) - [How Video Works](https://howvideo.works/#processing)
 * [2024-06-29, 11:18:37](https://news.ycombinator.com/item?id=40829494) - [LosslessCut: The Swiss army knife of lossless video/audio editing](https://github.com/mifi/lossless-cut)
 * [2024-06-29, 08:42:02](https://news.ycombinator.com/item?id=40828754) - [Semantics and scheduling for machine knitting compilers (2023)](https://textiles-lab.github.io/publications/2023-knitout-semantics/)
-* [2024-06-29, 06:26:10](https://news.ycombinator.com/item?id=40828256) - [How to get away with fraud (2018)](https://www.theguardian.com/news/2018/jun/28/how-to-get-away-with-financial-fraud)
 * [2024-06-28, 23:04:15](https://news.ycombinator.com/item?id=40826259) - [Hack Your Way to Scientific Glory (2016)](https://projects.fivethirtyeight.com/p-hacking/)
 * [2024-06-28, 16:57:13](https://news.ycombinator.com/item?id=40822532) - [Butterflies flew 2,600 miles across the Atlantic without stopping](https://www.smithsonianmag.com/smart-news/these-stunning-butterflies-flew-2600-miles-across-the-atlantic-ocean-without-stopping-180984602/)
 * [2024-06-28, 13:21:05](https://news.ycombinator.com/item?id=40820369) - [Our great database migration](https://shepherdinsurance.com/blog/the-great-database-migration)
 * [2024-06-28, 12:36:00](https://news.ycombinator.com/item?id=40820022) - [Computational Life: How self-replicating programs emerge from simple interaction](https://arxiv.org/abs/2406.19108)
 * [2024-06-27, 19:49:18](https://news.ycombinator.com/item?id=40814333) - [A buried ancient Egyptian port reveals connections between distant civilizations](https://www.smithsonianmag.com/history/hidden-ancient-egyptian-port-reveals-180984485/)
-* [2024-06-26, 11:25:11](https://news.ycombinator.com/item?id=40798723) - [My (Neo)Vim workflow](https://seniormars.com/posts/neovim-workflow/)
 
 ## [Archives](archives/index.md)
 
