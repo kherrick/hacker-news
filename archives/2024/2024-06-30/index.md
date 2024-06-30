@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-30](index.md)
 
+* [2024-06-30, 13:03:52](https://news.ycombinator.com/item?id=40836934) - [Appeals court seems lost on how Internet Archive harms publishers](https://arstechnica.com/tech-policy/2024/06/appeals-court-seems-lost-on-how-internet-archive-harms-publishers/)
 * [2024-06-30, 11:41:24](https://news.ycombinator.com/item?id=40836648) - [Immune response study explains why some people don't get Covid-19](https://news.ycombinator.com/item?id=40836648)
 * [2024-06-30, 09:58:22](https://news.ycombinator.com/item?id=40836183) - [An Analog Network of Resistors Promises Machine Learning Without a Processor](https://www.hackster.io/news/an-analog-network-of-resistors-promises-machine-learning-without-a-processor-researchers-say-d9cb0655b7a0)
 * [2024-06-30, 09:42:15](https://news.ycombinator.com/item?id=40836115) - [Chomsky–Schützenberger Enumeration Theorem](https://en.wikipedia.org/wiki/Chomsky%E2%80%93Sch%C3%BCtzenberger_enumeration_theorem)
