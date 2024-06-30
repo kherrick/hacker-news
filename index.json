@@ -1,12 +1,52 @@
 [
   [
     [
-      "2024-06-29, 23:20:01",
-      "https://news.ycombinator.com/item?id=40833975"
+      "2024-06-30, 01:22:40",
+      "https://news.ycombinator.com/item?id=40834504"
     ],
     [
-      "Lego made bricks out of meteorite dust and they're on display at select stores",
-      "https://www.engadget.com/lego-made-bricks-out-of-meteorite-dust-and-theyre-on-display-at-select-stores-161440194.html"
+      "Chr – terminal editor inspired by Turbo Pascal editor from 1997",
+      "https://github.com/istoph/editor"
+    ]
+  ],
+  [
+    [
+      "2024-06-30, 00:31:02",
+      "https://news.ycombinator.com/item?id=40834305"
+    ],
+    [
+      "Patagonia gave its staff 3 days to decide to relocate or quit",
+      "https://www.businessinsider.com/patagonia-cx-staff-told-to-relocate-or-leave-california-2024-6"
+    ]
+  ],
+  [
+    [
+      "2024-06-29, 23:34:39",
+      "https://news.ycombinator.com/item?id=40834061"
+    ],
+    [
+      "Redbox Owner Chicken Soup for the Soul Files for Chapter 11",
+      "https://deadline.com/2024/06/redbox-chicken-soup-for-the-soul-entertainment-files-chapter-11-bankruptcy-1235997730/"
+    ]
+  ],
+  [
+    [
+      "2024-06-29, 22:14:02",
+      "https://news.ycombinator.com/item?id=40833645"
+    ],
+    [
+      "Trilobites killed by volcanic ash reveal features never seen before",
+      "https://www.bristol.ac.uk/news/2024/june/prehistoric-pompeii.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-29, 21:01:34",
+      "https://news.ycombinator.com/item?id=40833334"
+    ],
+    [
+      "CVE-2021-4440: A Linux CNA Case Study",
+      "https://grsecurity.net/cve-2021-4440_linux_cna_case_study"
     ]
   ],
   [
@@ -81,26 +121,6 @@
   ],
   [
     [
-      "2024-06-29, 15:59:12",
-      "https://news.ycombinator.com/item?id=40831489"
-    ],
-    [
-      "FUTO Keyboard",
-      "https://keyboard.futo.org/"
-    ]
-  ],
-  [
-    [
-      "2024-06-29, 15:54:51",
-      "https://news.ycombinator.com/item?id=40831457"
-    ],
-    [
-      "Tiny bright objects discovered at dawn of universe baffle scientists",
-      "https://phys.org/news/2024-06-tiny-bright-dawn-universe-baffle.html"
-    ]
-  ],
-  [
-    [
       "2024-06-29, 13:26:46",
       "https://news.ycombinator.com/item?id=40830332"
     ],
@@ -131,22 +151,22 @@
   ],
   [
     [
+      "2024-06-29, 11:38:01",
+      "https://news.ycombinator.com/item?id=40829607"
+    ],
+    [
+      "A bunch of programming advice I'd give to myself 15 years ago",
+      "https://mbuffett.com/posts/programming-advice-younger-self/"
+    ]
+  ],
+  [
+    [
       "2024-06-29, 11:12:42",
       "https://news.ycombinator.com/item?id=40829459"
     ],
     [
       "Researchers at ETH Zurich develop the fastest possible flow algorithm",
       "https://ethz.ch/en/news-and-events/eth-news/news/2024/06/researchers-at-eth-zurich-develop-the-fastest-possible-flow-algorithm.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-29, 10:11:02",
-      "https://news.ycombinator.com/item?id=40829127"
-    ],
-    [
-      "To Be Real: On Emily Nussbaum's \"Cue the Sun \"",
-      "https://lareviewofbooks.org/article/to-be-real-on-emily-nussbaums-cue-the-sun/"
     ]
   ],
   [
@@ -171,22 +191,12 @@
   ],
   [
     [
-      "2024-06-29, 05:56:02",
-      "https://news.ycombinator.com/item?id=40828180"
+      "2024-06-29, 05:24:21",
+      "https://news.ycombinator.com/item?id=40828074"
     ],
     [
-      "Show HN: Safe Routes. real time turbulence data, ML predictions with an iPad",
-      "https://skypath.io"
-    ]
-  ],
-  [
-    [
-      "2024-06-29, 04:55:57",
-      "https://news.ycombinator.com/item?id=40827970"
-    ],
-    [
-      "Artificial Needles to Real Haystacks: Improving Retrieval Capabilities in LLMs",
-      "https://arxiv.org/abs/2406.19292"
+      "Show HN: Tool to Maintain Your Network",
+      "https://www.ntwrk.site"
     ]
   ],
   [
@@ -241,6 +251,16 @@
   ],
   [
     [
+      "2024-06-28, 10:47:25",
+      "https://news.ycombinator.com/item?id=40819373"
+    ],
+    [
+      "Meta Large Language Model Compiler",
+      "https://ai.meta.com/research/publications/meta-large-language-model-compiler-foundation-models-of-compiler-optimization/"
+    ]
+  ],
+  [
+    [
       "2024-06-28, 07:44:43",
       "https://news.ycombinator.com/item?id=40818573"
     ],
@@ -267,26 +287,6 @@
     [
       "James Joyce was a complicated man",
       "https://www.thefitzwilliam.com/p/james-joyce-was-a-complicated-man"
-    ]
-  ],
-  [
-    [
-      "2024-06-28, 03:08:47",
-      "https://news.ycombinator.com/item?id=40817343"
-    ],
-    [
-      "Klára Dán von Neumann",
-      "https://en.wikipedia.org/wiki/Kl%C3%A1ra_D%C3%A1n_von_Neumann"
-    ]
-  ],
-  [
-    [
-      "2024-06-25, 21:23:39",
-      "https://news.ycombinator.com/item?id=40793786"
-    ],
-    [
-      "Ask HN: Why did GeoCities have that crazy design aesthetic?",
-      "https://news.ycombinator.com/item?id=40793786"
     ]
   ],
   [
