@@ -56,6 +56,7 @@
 * [2024-06-28, 13:35:12](https://news.ycombinator.com/item?id=40820494) - [ChatGPT is hallucinating fake links to its news partners' biggest investigations](https://www.niemanlab.org/2024/06/chatgpt-is-hallucinating-fake-links-to-its-news-partners-biggest-investigations/)
 * [2024-06-28, 13:21:24](https://news.ycombinator.com/item?id=40820372) - [Entrust certificates will not be trusted in Chrome 127+](https://groups.google.com/a/ccadb.org/g/public/c/29CRLOPM6OM/m/-tvW5l-lAAAJ)
 * [2024-06-28, 13:14:36](https://news.ycombinator.com/item?id=40820311) - [Apple II graphics: More than you wanted to know](https://nicole.express/2024/phasing-in-and-out-of-existence.html)
+* [2024-06-28, 12:53:15](https://news.ycombinator.com/item?id=40820145) - [I would have shit in that alley, too](https://www.lesswrong.com/posts/sCWe5RRvSHQMccd2Q/i-would-have-shit-in-that-alley-too)
 * [2024-06-28, 12:46:50](https://news.ycombinator.com/item?id=40820098) - [What actual purpose do accent characters in ISO-8859-1 and Windows 1252 serve?](https://retrocomputing.stackexchange.com/questions/30261/what-actual-purpose-do-accent-characters-in-iso-8859-1-and-windows-1252-serve)
 * [2024-06-28, 12:41:22](https://news.ycombinator.com/item?id=40820063) - [Five new ways to catch gravitational waves – and the secrets they'll reveal](https://www.nature.com/articles/d41586-024-02003-6)
 * [2024-06-28, 12:22:54](https://news.ycombinator.com/item?id=40819920) - [Quaternion Differentiation (2012)](https://fgiesen.wordpress.com/2012/08/24/quaternion-differentiation/)

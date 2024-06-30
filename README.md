@@ -23,7 +23,7 @@
 * [2024-06-29, 05:23:30](https://news.ycombinator.com/item?id=40828068) - [Neo Geo Architecture: A practical analysis](https://www.copetti.org/writings/consoles/neogeo/)
 * [2024-06-29, 05:05:20](https://news.ycombinator.com/item?id=40827999) - [Alphatab.net](https://alphatab.net/)
 * [2024-06-29, 04:55:57](https://news.ycombinator.com/item?id=40827970) - [Artificial Needles to Real Haystacks: Improving Retrieval Capabilities in LLMs](https://arxiv.org/abs/2406.19292)
-* [2024-06-28, 11:52:36](https://news.ycombinator.com/item?id=40819712) - [The Dinner Party That Served Up 50k-Year-Old Bison Stew (2018)](https://www.atlasobscura.com/articles/ancient-bison-stew-blue-babe-alaska)
+* [2024-06-28, 12:53:15](https://news.ycombinator.com/item?id=40820145) - [I would have shit in that alley, too](https://www.lesswrong.com/posts/sCWe5RRvSHQMccd2Q/i-would-have-shit-in-that-alley-too)
 * [2024-06-28, 11:36:31](https://news.ycombinator.com/item?id=40819623) - [Show HN: Conway's Game of Life, but as a div full of Braille characters](https://px.neocities.org/life#)
 * [2024-06-28, 10:52:56](https://news.ycombinator.com/item?id=40819404) - [The Dream of an Alpine Waterway](https://blog.nationalmuseum.ch/en/2024/06/the-dream-of-an-alpine-waterway/)
 * [2024-06-28, 07:44:43](https://news.ycombinator.com/item?id=40818573) - [That Editor](https://github.com/bisqwit/that_editor)
