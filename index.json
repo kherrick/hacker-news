@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-01, 12:26:15",
+      "https://news.ycombinator.com/item?id=40845097"
+    ],
+    [
+      "3D Printable PC/NAS Cases",
+      "https://www.youtube.com/@makerunit"
+    ]
+  ],
+  [
+    [
+      "2024-07-01, 12:11:22",
+      "https://news.ycombinator.com/item?id=40844982"
+    ],
+    [
+      "OhMyForm discontinued, how can open source projects be sustainable?",
+      "https://old.reddit.com/r/opensource/comments/1dsrdx9/ohmyform_discontinued_how_can_open_source/"
+    ]
+  ],
+  [
+    [
       "2024-07-01, 12:01:02",
       "https://news.ycombinator.com/item?id=40844917"
     ],
@@ -21,12 +41,22 @@
   ],
   [
     [
-      "2024-07-01, 11:52:02",
-      "https://news.ycombinator.com/item?id=40844864"
+      "2024-07-01, 11:44:33",
+      "https://news.ycombinator.com/item?id=40844825"
     ],
     [
-      "Leonardo da Vinci: 'Poor is the pupil who does not surpass his master.'",
-      "https://www.socratic-method.com/quote-meanings-and-interpretations/leonardo-da-vinci-poor-is-the-pupil-who-does-not-surpass-his-master"
+      "A write-ahead log is not a universal part of durability",
+      "https://notes.eatonphil.com/2024-07-01-a-write-ahead-log-is-not-a-universal-part-of-durability.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-01, 11:40:22",
+      "https://news.ycombinator.com/item?id=40844790"
+    ],
+    [
+      "Neuromancer was released 40 years ago today",
+      "https://en.wikipedia.org/wiki/Neuromancer"
     ]
   ],
   [
@@ -41,52 +71,12 @@
   ],
   [
     [
-      "2024-07-01, 11:30:36",
-      "https://news.ycombinator.com/item?id=40844727"
-    ],
-    [
-      "Product Hunt Upvotes Are Worthless: Real Customers Aren't There",
-      "https://news.ycombinator.com/item?id=40844727"
-    ]
-  ],
-  [
-    [
-      "2024-07-01, 10:59:11",
-      "https://news.ycombinator.com/item?id=40844536"
-    ],
-    [
-      "Watching \"Grizzly Man\" with a Bear Biologist",
-      "https://www.backpacker.com/survival/watching-grizzly-man-with-bear-biologist-wesley-larson/"
-    ]
-  ],
-  [
-    [
-      "2024-07-01, 10:51:50",
-      "https://news.ycombinator.com/item?id=40844492"
-    ],
-    [
-      "Uncomfortable truth: How close is \"positivity culture\" to delusion and denial?",
-      "https://jakeseliger.com/2024/06/24/uncomfortable-truth-how-close-is-positivity-culture-to-delusion-and-denial/"
-    ]
-  ],
-  [
-    [
       "2024-07-01, 10:41:42",
       "https://news.ycombinator.com/item?id=40844447"
     ],
     [
       "Diagonalism, the Cosmic Right and the Conspiracy Smoothie",
       "https://bellacaledonia.org.uk/2024/06/26/diagonalism-the-cosmic-right-and-the-conspiracy-smoothie/"
-    ]
-  ],
-  [
-    [
-      "2024-07-01, 10:37:29",
-      "https://news.ycombinator.com/item?id=40844436"
-    ],
-    [
-      "Show HN: Find Visa Sponsorsip and Relocation Support Jobs",
-      "https://www.relocateforwork.com/"
     ]
   ],
   [
@@ -117,16 +107,6 @@
     [
       "OpenSSH Race condition resulting in potential remote code execution",
       "https://www.openssh.com/txt/release-9.8"
-    ]
-  ],
-  [
-    [
-      "2024-07-01, 09:15:43",
-      "https://news.ycombinator.com/item?id=40843966"
-    ],
-    [
-      "Webneko – a desktop screenmate ported to web",
-      "https://webneko.net/"
     ]
   ],
   [
@@ -271,6 +251,16 @@
   ],
   [
     [
+      "2024-06-30, 19:58:46",
+      "https://news.ycombinator.com/item?id=40839830"
+    ],
+    [
+      "Newswire: A large-scale structured database of a century of historical news",
+      "https://arxiv.org/abs/2406.09490"
+    ]
+  ],
+  [
+    [
       "2024-06-30, 16:38:08",
       "https://news.ycombinator.com/item?id=40838167"
     ],
@@ -281,12 +271,22 @@
   ],
   [
     [
-      "2024-06-30, 00:52:29",
-      "https://news.ycombinator.com/item?id=40834377"
+      "2024-06-30, 14:42:03",
+      "https://news.ycombinator.com/item?id=40837411"
     ],
     [
-      "Pumped-storage hydroelectricity",
-      "https://en.wikipedia.org/wiki/Pumped-storage_hydroelectricity"
+      "The weirdest QNX bug I've encountered (2021)",
+      "https://mental-reverb.com/blog.php?id=29"
+    ]
+  ],
+  [
+    [
+      "2024-06-30, 04:54:17",
+      "https://news.ycombinator.com/item?id=40835223"
+    ],
+    [
+      "The physics of airplane flight",
+      "https://10maurycy10.github.io/misc/the_physics_of_flight/"
     ]
   ],
   [
