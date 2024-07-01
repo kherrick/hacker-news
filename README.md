@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-01, 13:37:58](https://news.ycombinator.com/item?id=40845760) - [Building A YC Interview Bot That Produces Question we got on our Interview](https://blog.lytix.co/posts/yc-interviewer-bot)
 * [2024-07-01, 12:47:38](https://news.ycombinator.com/item?id=40845304) - [My Python code is a neural network](https://blog.gabornyeki.com/2024-07-my-python-code-is-a-neural-network/)
 * [2024-07-01, 12:01:02](https://news.ycombinator.com/item?id=40844917) - [Optery (YC W22) Is Hiring Back End Engineers (Python and Django) & Sales (Remote)](https://www.ycombinator.com/companies/optery/jobs)
 * [2024-07-01, 11:44:33](https://news.ycombinator.com/item?id=40844825) - [A write-ahead log is not a universal part of durability](https://notes.eatonphil.com/2024-07-01-a-write-ahead-log-is-not-a-universal-part-of-durability.html)
@@ -16,7 +17,6 @@
 * [2024-07-01, 02:57:57](https://news.ycombinator.com/item?id=40842173) - [Integrated assembler improvements in LLVM 19](https://maskray.me/blog/2024-06-30-integrated-assembler-improvements-in-llvm-19)
 * [2024-07-01, 02:03:37](https://news.ycombinator.com/item?id=40841980) - [Pipes: A spiritual successor to Yahoo Pipes](https://www.pipes.digital/docs)
 * [2024-07-01, 00:15:19](https://news.ycombinator.com/item?id=40841502) - [A Model of a Mind](https://tylerneylon.com/a/mind_model/mind_model.html)
-* [2024-06-30, 23:40:07](https://news.ycombinator.com/item?id=40841355) - [Matters Computational [pdf]](http://www.jjj.de/fxt/#fxtbook)
 * [2024-06-30, 21:20:45](https://news.ycombinator.com/item?id=40840488) - [Chaos Engineering in Front End Development: Enhancing Application Resilience](https://omid.dev/2024/07/01/chaos-engineering-in-frontend-development/)
 * [2024-06-30, 21:08:43](https://news.ycombinator.com/item?id=40840396) - [Convolutions, Fast Fourier Transform and polynomials (2022)](https://www.alvarorevuelta.com/posts/fft-polynomials)
 * [2024-06-30, 20:58:32](https://news.ycombinator.com/item?id=40840315) - [Unification in Elixir](https://www.ericpfahl.com/from-pattern-matching-to-unification/)
