@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-01, 22:30:31",
+      "https://news.ycombinator.com/item?id=40851530"
+    ],
+    [
+      "We are at our most creative just before we fall asleep, scientists say",
+      "https://www.weforum.org/agenda/2022/01/creativity-hotspot-just-before-sleep/"
+    ]
+  ],
+  [
+    [
       "2024-07-01, 22:05:28",
       "https://news.ycombinator.com/item?id=40851296"
     ],
@@ -177,16 +187,6 @@
     [
       "RegreSSHion: RCE in OpenSSH's server, on glibc-based Linux systems",
       "https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt"
-    ]
-  ],
-  [
-    [
-      "2024-07-01, 02:03:37",
-      "https://news.ycombinator.com/item?id=40841980"
-    ],
-    [
-      "Pipes: A spiritual successor to Yahoo Pipes",
-      "https://www.pipes.digital/docs"
     ]
   ],
   [
