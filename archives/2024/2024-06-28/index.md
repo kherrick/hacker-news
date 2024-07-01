@@ -112,3 +112,4 @@
 * [2024-06-28, 00:54:39](https://news.ycombinator.com/item?id=40816785) - [Australia's giant lizards help save sheep from being eaten alive](https://phys.org/news/2024-06-australia-giant-lizards-sheep-eaten.html)
 * [2024-06-28, 00:50:35](https://news.ycombinator.com/item?id=40816755) - [Gwern comments on Ilya Sutskever depature from OpenAI, among other topics](https://old.reddit.com/r/mlscaling/comments/1djoqjh/ilya_sutskever_launches_safe_superintelligence_a/l9uogp9/)
 * [2024-06-28, 00:27:32](https://news.ycombinator.com/item?id=40816649) - [Geely releases new LFP battery with fast charging and energy density of 192Wh/kg](https://cnevpost.com/2024/06/27/geely-releases-aegis-short-blade-battery/)
+* [2024-06-28, 00:25:20](https://news.ycombinator.com/item?id=40816631) - [Surprising Phosphate Finding in NASA's Osiris-Rex Asteroid Sample](https://www.nasa.gov/missions/osiris-rex/surprising-phosphate-finding-in-nasas-osiris-rex-asteroid-sample/)

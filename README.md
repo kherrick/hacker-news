@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-01, 06:01:39](https://news.ycombinator.com/item?id=40842968) - [How Google migrated billions of lines of code from Perforce to Piper](https://graphite.dev/blog/google-perforce-to-piper-migration)
+* [2024-07-01, 05:39:57](https://news.ycombinator.com/item?id=40842867) - [Programmers Should Never Trust Anyone, Not Even Themselves](https://carbon-steel.github.io/jekyll/update/2024/06/19/abstractions.html)
 * [2024-07-01, 05:28:38](https://news.ycombinator.com/item?id=40842794) - [Boeing Agrees to Buy Spirit AeroSystems, a Longtime Supplier](https://www.nytimes.com/2024/07/01/business/boeing-spirit-aerosystems-acquisition.html)
 * [2024-07-01, 03:26:09](https://news.ycombinator.com/item?id=40842275) - [Four lines of code it was four lines of code](https://boston.conman.org/2024/06/30.1)
 * [2024-07-01, 02:57:57](https://news.ycombinator.com/item?id=40842173) - [Integrated assembler improvements in LLVM 19](https://maskray.me/blog/2024-06-30-integrated-assembler-improvements-in-llvm-19)
@@ -20,16 +21,15 @@
 * [2024-06-30, 15:11:08](https://news.ycombinator.com/item?id=40837610) - [Show HN: Drop-in SQS replacement based on SQLite](https://github.com/poundifdef/SmoothMQ)
 * [2024-06-30, 14:43:54](https://news.ycombinator.com/item?id=40837420) - [Below MI – IBM i for hackers](https://silentsignal.github.io/BelowMI/)
 * [2024-06-30, 14:42:03](https://news.ycombinator.com/item?id=40837411) - [The weirdest QNX bug I've encountered (2021)](https://mental-reverb.com/blog.php?id=29)
-* [2024-06-30, 07:02:26](https://news.ycombinator.com/item?id=40835588) - [Rodney Brooks on limitations of generative AI](https://techcrunch.com/2024/06/29/mit-robotics-pioneer-rodney-brooks-thinks-people-are-vastly-overestimating-generative-ai/)
 * [2024-06-30, 04:54:17](https://news.ycombinator.com/item?id=40835223) - [The physics of airplane flight](https://10maurycy10.github.io/misc/the_physics_of_flight/)
 * [2024-06-30, 04:39:11](https://news.ycombinator.com/item?id=40835181) - [Art and Artifice](https://harpers.org/archive/2024/07/art-and-artifice-donna-tartt/)
 * [2024-06-29, 23:27:02](https://news.ycombinator.com/item?id=40834012) - [Swiss Broadcasting Corporation to pull plug on FM radio](https://www.swissinfo.ch/eng/life-aging/swiss-broadcasting-corporation-to-pull-plug-on-fm-radio/81956760)
-* [2024-06-29, 23:17:53](https://news.ycombinator.com/item?id=40833960) - [Adding a USB port to the ThinkPad X1 Nano (the hard way)](https://jcs.org/2024/05/29/x1usb)
 * [2024-06-29, 17:03:53](https://news.ycombinator.com/item?id=40831964) - [The super effectiveness of Pokémon embeddings using only raw JSON and images](https://minimaxir.com/2024/06/pokemon-embeddings/)
 * [2024-06-29, 11:18:37](https://news.ycombinator.com/item?id=40829494) - [LosslessCut: The Swiss army knife of lossless video/audio editing](https://github.com/mifi/lossless-cut)
 * [2024-06-29, 08:42:02](https://news.ycombinator.com/item?id=40828754) - [Semantics and scheduling for machine knitting compilers (2023)](https://textiles-lab.github.io/publications/2023-knitout-semantics/)
 * [2024-06-28, 16:57:13](https://news.ycombinator.com/item?id=40822532) - [Butterflies flew 2,600 miles across the Atlantic without stopping](https://www.smithsonianmag.com/smart-news/these-stunning-butterflies-flew-2600-miles-across-the-atlantic-ocean-without-stopping-180984602/)
 * [2024-06-28, 12:36:00](https://news.ycombinator.com/item?id=40820022) - [Computational Life: How self-replicating programs emerge from simple interaction](https://arxiv.org/abs/2406.19108)
+* [2024-06-28, 00:25:20](https://news.ycombinator.com/item?id=40816631) - [Surprising Phosphate Finding in NASA's Osiris-Rex Asteroid Sample](https://www.nasa.gov/missions/osiris-rex/surprising-phosphate-finding-in-nasas-osiris-rex-asteroid-sample/)
 
 ## [Archives](archives/index.md)
 
