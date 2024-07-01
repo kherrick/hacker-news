@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-01, 09:39:05](https://news.ycombinator.com/item?id=40844095) - [What makes a good tree? We used AI to ask birds](https://theconversation.com/what-makes-a-good-tree-we-used-ai-to-ask-birds-233281)
+* [2024-07-01, 09:32:56](https://news.ycombinator.com/item?id=40844056) - [Show HN: Image editing with just audio instructions](https://github.com/ShaShekhar/aaiela)
 * [2024-07-01, 09:28:40](https://news.ycombinator.com/item?id=40844035) - [OpenSSH Race condition resulting in potential remote code execution](https://www.openssh.com/txt/release-9.8)
 * [2024-07-01, 09:15:43](https://news.ycombinator.com/item?id=40843966) - [Webneko – a desktop screenmate ported to web](https://webneko.net/)
 * [2024-07-01, 08:57:26](https://news.ycombinator.com/item?id=40843867) - [Show HN: I created an After Effects alternative](https://pikimov.com/)
@@ -22,7 +23,6 @@
 * [2024-06-30, 20:58:32](https://news.ycombinator.com/item?id=40840315) - [Unification in Elixir](https://www.ericpfahl.com/from-pattern-matching-to-unification/)
 * [2024-06-30, 19:58:46](https://news.ycombinator.com/item?id=40839830) - [Newswire: A large-scale structured database of a century of historical news](https://arxiv.org/abs/2406.09490)
 * [2024-06-30, 18:53:18](https://news.ycombinator.com/item?id=40839208) - [Writing GUI apps for Windows is painful](https://tulach.cc/writing-gui-apps-for-windows-is-painful/)
-* [2024-06-30, 18:24:34](https://news.ycombinator.com/item?id=40838945) - [A simplified Python simulation of diffusion](https://www.thepythoncodingstack.com/p/python-diffusion-simulation-demo-turtle)
 * [2024-06-30, 16:38:08](https://news.ycombinator.com/item?id=40838167) - [How to get root access to your Sleep Number bed](https://dillan.org/articles/how-to-get-root-access-to-your-sleep-number-bed)
 * [2024-06-30, 15:11:08](https://news.ycombinator.com/item?id=40837610) - [Show HN: Drop-in SQS replacement based on SQLite](https://github.com/poundifdef/SmoothMQ)
 * [2024-06-30, 14:42:03](https://news.ycombinator.com/item?id=40837411) - [The weirdest QNX bug I've encountered (2021)](https://mental-reverb.com/blog.php?id=29)

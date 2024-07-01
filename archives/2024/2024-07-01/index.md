@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-01](index.md)
 
 * [2024-07-01, 09:39:05](https://news.ycombinator.com/item?id=40844095) - [What makes a good tree? We used AI to ask birds](https://theconversation.com/what-makes-a-good-tree-we-used-ai-to-ask-birds-233281)
+* [2024-07-01, 09:32:56](https://news.ycombinator.com/item?id=40844056) - [Show HN: Image editing with just audio instructions](https://github.com/ShaShekhar/aaiela)
 * [2024-07-01, 09:28:40](https://news.ycombinator.com/item?id=40844035) - [OpenSSH Race condition resulting in potential remote code execution](https://www.openssh.com/txt/release-9.8)
 * [2024-07-01, 09:15:43](https://news.ycombinator.com/item?id=40843966) - [Webneko – a desktop screenmate ported to web](https://webneko.net/)
 * [2024-07-01, 08:57:26](https://news.ycombinator.com/item?id=40843867) - [Show HN: I created an After Effects alternative](https://pikimov.com/)
