@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-01, 04:49:40](https://news.ycombinator.com/item?id=40842603) - [Let's Stop Asking \"Why Do You Want to Work for Us?\" In Interviews](https://nelson.cloud/lets-stop-asking-why-do-you-want-to-work-for-us-in-interviews/)
 * [2024-07-01, 03:26:09](https://news.ycombinator.com/item?id=40842275) - [Four lines of code it was four lines of code](https://boston.conman.org/2024/06/30.1)
+* [2024-07-01, 02:57:57](https://news.ycombinator.com/item?id=40842173) - [Integrated assembler improvements in LLVM 19](https://maskray.me/blog/2024-06-30-integrated-assembler-improvements-in-llvm-19)
 * [2024-07-01, 02:03:37](https://news.ycombinator.com/item?id=40841980) - [Pipes: A spiritual successor to Yahoo Pipes](https://www.pipes.digital/docs)
 * [2024-07-01, 00:47:45](https://news.ycombinator.com/item?id=40841649) - [Userland rootkits are lame (2022)](https://grugq.substack.com/p/userland-rootkits-are-lame)
 * [2024-07-01, 00:15:19](https://news.ycombinator.com/item?id=40841502) - [A Model of a Mind](https://tylerneylon.com/a/mind_model/mind_model.html)
@@ -23,8 +25,6 @@
 * [2024-06-29, 23:27:02](https://news.ycombinator.com/item?id=40834012) - [Swiss Broadcasting Corporation to pull plug on FM radio](https://www.swissinfo.ch/eng/life-aging/swiss-broadcasting-corporation-to-pull-plug-on-fm-radio/81956760)
 * [2024-06-29, 23:17:53](https://news.ycombinator.com/item?id=40833960) - [Adding a USB port to the ThinkPad X1 Nano (the hard way)](https://jcs.org/2024/05/29/x1usb)
 * [2024-06-29, 17:03:53](https://news.ycombinator.com/item?id=40831964) - [The super effectiveness of Pokémon embeddings using only raw JSON and images](https://minimaxir.com/2024/06/pokemon-embeddings/)
-* [2024-06-29, 16:56:51](https://news.ycombinator.com/item?id=40831904) - [Show HN: Pickcode – Free online code editor for kids](https://pickcode.io)
-* [2024-06-29, 13:34:55](https://news.ycombinator.com/item?id=40830395) - [Text for Proofing Fonts (2020)](https://www.typography.com/blog/text-for-proofing-fonts)
 * [2024-06-29, 11:18:37](https://news.ycombinator.com/item?id=40829494) - [LosslessCut: The Swiss army knife of lossless video/audio editing](https://github.com/mifi/lossless-cut)
 * [2024-06-29, 08:42:02](https://news.ycombinator.com/item?id=40828754) - [Semantics and scheduling for machine knitting compilers (2023)](https://textiles-lab.github.io/publications/2023-knitout-semantics/)
 * [2024-06-28, 16:57:13](https://news.ycombinator.com/item?id=40822532) - [Butterflies flew 2,600 miles across the Atlantic without stopping](https://www.smithsonianmag.com/smart-news/these-stunning-butterflies-flew-2600-miles-across-the-atlantic-ocean-without-stopping-180984602/)

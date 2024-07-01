@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-01](index.md)
 
+* [2024-07-01, 04:49:40](https://news.ycombinator.com/item?id=40842603) - [Let's Stop Asking \"Why Do You Want to Work for Us?\" In Interviews](https://nelson.cloud/lets-stop-asking-why-do-you-want-to-work-for-us-in-interviews/)
 * [2024-07-01, 03:26:09](https://news.ycombinator.com/item?id=40842275) - [Four lines of code it was four lines of code](https://boston.conman.org/2024/06/30.1)
+* [2024-07-01, 02:57:57](https://news.ycombinator.com/item?id=40842173) - [Integrated assembler improvements in LLVM 19](https://maskray.me/blog/2024-06-30-integrated-assembler-improvements-in-llvm-19)
 * [2024-07-01, 02:29:28](https://news.ycombinator.com/item?id=40842082) - [Richat Structure](https://earthobservatory.nasa.gov/images/92071/richat-structure)
 * [2024-07-01, 02:28:04](https://news.ycombinator.com/item?id=40842079) - [Report shows that AAA games for iPhone and iPad aren't a hit with users](https://9to5mac.com/2024/06/28/aaa-games-iphone-ipad-arent-a-hit/)
 * [2024-07-01, 02:03:37](https://news.ycombinator.com/item?id=40841980) - [Pipes: A spiritual successor to Yahoo Pipes](https://www.pipes.digital/docs)
