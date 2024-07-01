@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-07-01, 04:49:40",
-      "https://news.ycombinator.com/item?id=40842603"
+      "2024-07-01, 05:28:38",
+      "https://news.ycombinator.com/item?id=40842794"
     ],
     [
-      "Let's Stop Asking \"Why Do You Want to Work for Us?\" In Interviews",
-      "https://nelson.cloud/lets-stop-asking-why-do-you-want-to-work-for-us-in-interviews/"
+      "Boeing Agrees to Buy Spirit AeroSystems, a Longtime Supplier",
+      "https://www.nytimes.com/2024/07/01/business/boeing-spirit-aerosystems-acquisition.html"
     ]
   ],
   [
@@ -87,6 +87,16 @@
     [
       "Convolutions, Fast Fourier Transform and polynomials (2022)",
       "https://www.alvarorevuelta.com/posts/fft-polynomials"
+    ]
+  ],
+  [
+    [
+      "2024-06-30, 20:58:32",
+      "https://news.ycombinator.com/item?id=40840315"
+    ],
+    [
+      "Unification in Elixir",
+      "https://www.ericpfahl.com/from-pattern-matching-to-unification/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Computational Life: How self-replicating programs emerge from simple interaction",
       "https://arxiv.org/abs/2406.19108"
-    ]
-  ],
-  [
-    [
-      "2024-06-27, 23:35:10",
-      "https://news.ycombinator.com/item?id=40816349"
-    ],
-    [
-      "Debugging hardware is hard",
-      "https://blog.supermechanical.com/2024/06/27/debugging-hardware-is-hard/"
     ]
   ]
 ]
