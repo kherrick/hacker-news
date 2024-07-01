@@ -11,11 +11,21 @@
   ],
   [
     [
+      "2024-07-01, 00:15:19",
+      "https://news.ycombinator.com/item?id=40841502"
+    ],
+    [
+      "A Model of a Mind",
+      "https://tylerneylon.com/a/mind_model/mind_model.html"
+    ]
+  ],
+  [
+    [
       "2024-06-30, 23:50:10",
       "https://news.ycombinator.com/item?id=40841414"
     ],
     [
-      "Nyquest NY8A051H – Or getting 60 microcontrollers for $1 (die shot)",
+      "Nyquest NY8A051H – 1.5 cent microcontroller: weekend die-shot",
       "https://zeptobars.com/en/read/Nyquest-Technology-NY8A051H-8051-smallest-microcontroller"
     ]
   ],
@@ -41,12 +51,32 @@
   ],
   [
     [
+      "2024-06-30, 21:20:45",
+      "https://news.ycombinator.com/item?id=40840488"
+    ],
+    [
+      "Chaos Engineering in Front End Development: Enhancing Application Resilience",
+      "https://omid.dev/2024/07/01/chaos-engineering-in-frontend-development/"
+    ]
+  ],
+  [
+    [
       "2024-06-30, 21:08:43",
       "https://news.ycombinator.com/item?id=40840396"
     ],
     [
       "Convolutions, Fast Fourier Transform and polynomials (2022)",
       "https://www.alvarorevuelta.com/posts/fft-polynomials"
+    ]
+  ],
+  [
+    [
+      "2024-06-30, 20:03:05",
+      "https://news.ycombinator.com/item?id=40839877"
+    ],
+    [
+      "Extreme Measures Needed to Scale Chips",
+      "https://spectrum.ieee.org/chip-scaling"
     ]
   ],
   [
@@ -161,16 +191,6 @@
   ],
   [
     [
-      "2024-06-30, 00:41:31",
-      "https://news.ycombinator.com/item?id=40834345"
-    ],
-    [
-      "Coffee helped the Union in the Civil War",
-      "https://www.smithsonianmag.com/history/how-coffee-helped-the-union-caffeinate-their-way-victory-civil-war-180984502/"
-    ]
-  ],
-  [
-    [
       "2024-06-29, 23:27:02",
       "https://news.ycombinator.com/item?id=40834012"
     ],
@@ -235,7 +255,7 @@
       "https://news.ycombinator.com/item?id=40829127"
     ],
     [
-      "To Be Real: On Emily Nussbaum's \"Cue the Sun \"",
+      "To Be Real: On Emily Nussbaum’s “Cue the Sun”",
       "https://lareviewofbooks.org/article/to-be-real-on-emily-nussbaums-cue-the-sun/"
     ]
   ],
@@ -251,32 +271,12 @@
   ],
   [
     [
-      "2024-06-28, 23:04:15",
-      "https://news.ycombinator.com/item?id=40826259"
-    ],
-    [
-      "Hack Your Way to Scientific Glory (2016)",
-      "https://projects.fivethirtyeight.com/p-hacking/"
-    ]
-  ],
-  [
-    [
       "2024-06-28, 16:57:13",
       "https://news.ycombinator.com/item?id=40822532"
     ],
     [
       "Butterflies flew 2,600 miles across the Atlantic without stopping",
       "https://www.smithsonianmag.com/smart-news/these-stunning-butterflies-flew-2600-miles-across-the-atlantic-ocean-without-stopping-180984602/"
-    ]
-  ],
-  [
-    [
-      "2024-06-28, 13:21:05",
-      "https://news.ycombinator.com/item?id=40820369"
-    ],
-    [
-      "Our great database migration",
-      "https://shepherdinsurance.com/blog/the-great-database-migration"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2024-06-26, 16:26:25",
-      "https://news.ycombinator.com/item?id=40801710"
+      "2024-06-27, 23:35:10",
+      "https://news.ycombinator.com/item?id=40816349"
     ],
     [
-      "Y292B Bug",
-      "https://dpolakovic.space/blogs/y292b"
+      "Debugging hardware is hard",
+      "https://blog.supermechanical.com/2024/06/27/debugging-hardware-is-hard/"
     ]
   ]
 ]
