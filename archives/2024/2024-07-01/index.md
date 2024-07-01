@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-01](index.md)
 
+* [2024-07-01, 06:01:39](https://news.ycombinator.com/item?id=40842968) - [How Google migrated billions of lines of code from Perforce to Piper](https://graphite.dev/blog/google-perforce-to-piper-migration)
 * [2024-07-01, 05:28:38](https://news.ycombinator.com/item?id=40842794) - [Boeing Agrees to Buy Spirit AeroSystems, a Longtime Supplier](https://www.nytimes.com/2024/07/01/business/boeing-spirit-aerosystems-acquisition.html)
 * [2024-07-01, 04:49:40](https://news.ycombinator.com/item?id=40842603) - [Let's Stop Asking \"Why Do You Want to Work for Us?\" In Interviews](https://nelson.cloud/lets-stop-asking-why-do-you-want-to-work-for-us-in-interviews/)
 * [2024-07-01, 03:26:09](https://news.ycombinator.com/item?id=40842275) - [Four lines of code it was four lines of code](https://boston.conman.org/2024/06/30.1)
