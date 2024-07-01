@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-07-01, 13:37:58",
-      "https://news.ycombinator.com/item?id=40845760"
-    ],
-    [
-      "Building A YC Interview Bot That Produces Question we got on our Interview",
-      "https://blog.lytix.co/posts/yc-interviewer-bot"
-    ]
-  ],
-  [
-    [
       "2024-07-01, 12:47:38",
       "https://news.ycombinator.com/item?id=40845304"
     ],
@@ -37,6 +27,26 @@
     [
       "A write-ahead log is not a universal part of durability",
       "https://notes.eatonphil.com/2024-07-01-a-write-ahead-log-is-not-a-universal-part-of-durability.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-01, 11:23:08",
+      "https://news.ycombinator.com/item?id=40844684"
+    ],
+    [
+      "An arc welder in the datacenter: what could possibly go wrong?",
+      "https://www.theregister.com/2024/07/01/who_me/"
+    ]
+  ],
+  [
+    [
+      "2024-07-01, 10:54:09",
+      "https://news.ycombinator.com/item?id=40844503"
+    ],
+    [
+      "Scientists find desert moss 'that can survive on Mars'",
+      "https://www.theguardian.com/science/article/2024/jun/30/scientists-find-desert-moss-that-can-survive-on-mars"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "A Model of a Mind",
       "https://tylerneylon.com/a/mind_model/mind_model.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-30, 21:20:45",
-      "https://news.ycombinator.com/item?id=40840488"
-    ],
-    [
-      "Chaos Engineering in Front End Development: Enhancing Application Resilience",
-      "https://omid.dev/2024/07/01/chaos-engineering-in-frontend-development/"
     ]
   ],
   [
