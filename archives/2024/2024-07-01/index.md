@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-07-01](index.md)
 
+* [2024-07-01, 12:26:15](https://news.ycombinator.com/item?id=40845097) - [3D Printable PC/NAS Cases](https://www.youtube.com/@makerunit)
+* [2024-07-01, 12:11:22](https://news.ycombinator.com/item?id=40844982) - [OhMyForm discontinued, how can open source projects be sustainable?](https://old.reddit.com/r/opensource/comments/1dsrdx9/ohmyform_discontinued_how_can_open_source/)
 * [2024-07-01, 12:01:02](https://news.ycombinator.com/item?id=40844917) - [Optery (YC W22) Is Hiring Back End Engineers (Python and Django) & Sales (Remote)](https://www.ycombinator.com/companies/optery/jobs)
 * [2024-07-01, 11:52:25](https://news.ycombinator.com/item?id=40844868) - [Pakistani court sentences man to death for social media post](https://apnews.com/article/pakistan-blasphemy-christian-death-sentence-mob-9fbaf36d5c78659d58a414f7f048ce8a)
 * [2024-07-01, 11:52:02](https://news.ycombinator.com/item?id=40844864) - [Leonardo da Vinci: 'Poor is the pupil who does not surpass his master.'](https://www.socratic-method.com/quote-meanings-and-interpretations/leonardo-da-vinci-poor-is-the-pupil-who-does-not-surpass-his-master)
+* [2024-07-01, 11:44:33](https://news.ycombinator.com/item?id=40844825) - [A write-ahead log is not a universal part of durability](https://notes.eatonphil.com/2024-07-01-a-write-ahead-log-is-not-a-universal-part-of-durability.html)
+* [2024-07-01, 11:40:22](https://news.ycombinator.com/item?id=40844790) - [Neuromancer was released 40 years ago today](https://en.wikipedia.org/wiki/Neuromancer)
 * [2024-07-01, 11:33:53](https://news.ycombinator.com/item?id=40844748) - [Over 100K+ Sites Hit by Polyfill.io Supply Chain Attack](https://www.infoq.com/news/2024/06/polyfill-supply-chain-attack/)
 * [2024-07-01, 11:31:55](https://news.ycombinator.com/item?id=40844741) - [Beware of Squarespace: Our Business Lost $10k Due to Their Incompetence](https://news.ycombinator.com/item?id=40844741)
 * [2024-07-01, 11:30:36](https://news.ycombinator.com/item?id=40844727) - [Product Hunt Upvotes Are Worthless: Real Customers Aren't There](https://news.ycombinator.com/item?id=40844727)
