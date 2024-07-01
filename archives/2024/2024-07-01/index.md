@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-01](index.md)
 
+* [2024-07-01, 22:30:31](https://news.ycombinator.com/item?id=40851530) - [We are at our most creative just before we fall asleep, scientists say](https://www.weforum.org/agenda/2022/01/creativity-hotspot-just-before-sleep/)
 * [2024-07-01, 22:05:28](https://news.ycombinator.com/item?id=40851296) - [Company offers unofficial security patches for Windows 10 until 2030](https://www.tomshardware.com/software/windows/company-offers-unofficial-security-patches-for-windows-10-until-2030)
 * [2024-07-01, 21:49:39](https://news.ycombinator.com/item?id=40851130) - [A Proof of Proof by Infinite Descent](http://relatedwork.blogspot.com/2024/07/a-proof-of-proof-by-infinite-descent.html)
 * [2024-07-01, 21:31:31](https://news.ycombinator.com/item?id=40850947) - [Run Chromium on Vercel without external services](https://chromium-on-vercel.vercel.app)
