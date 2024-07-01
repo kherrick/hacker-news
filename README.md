@@ -2,6 +2,7 @@
 
 * [2024-07-01, 15:01:49](https://news.ycombinator.com/item?id=40846428) - [Ask HN: Who is hiring? (July 2024)](https://news.ycombinator.com/item?id=40846428)
 * [2024-07-01, 14:04:53](https://news.ycombinator.com/item?id=40845951) - [Welcome to Ladybird](https://ladybird.org/)
+* [2024-07-01, 13:48:53](https://news.ycombinator.com/item?id=40845842) - [Facebook and Instagram's 'pay or consent' ad model violates the DMA, says the EU](https://www.theverge.com/2024/7/1/24189796/eu-meta-dma-violation-pay-consent-ads-model)
 * [2024-07-01, 12:47:38](https://news.ycombinator.com/item?id=40845304) - [My Python code is a neural network](https://blog.gabornyeki.com/2024-07-my-python-code-is-a-neural-network/)
 * [2024-07-01, 12:01:02](https://news.ycombinator.com/item?id=40844917) - [Optery (YC W22) Is Hiring Back End Engineers (Python and Django) & Sales (Remote)](https://www.ycombinator.com/companies/optery/jobs)
 * [2024-07-01, 11:44:33](https://news.ycombinator.com/item?id=40844825) - [A write-ahead log is not a universal part of durability](https://notes.eatonphil.com/2024-07-01-a-write-ahead-log-is-not-a-universal-part-of-durability.html)
@@ -25,7 +26,6 @@
 * [2024-06-30, 18:24:34](https://news.ycombinator.com/item?id=40838945) - [A simplified Python simulation of diffusion](https://www.thepythoncodingstack.com/p/python-diffusion-simulation-demo-turtle)
 * [2024-06-30, 16:38:08](https://news.ycombinator.com/item?id=40838167) - [How to get root access to your Sleep Number bed](https://dillan.org/articles/how-to-get-root-access-to-your-sleep-number-bed)
 * [2024-06-30, 15:11:08](https://news.ycombinator.com/item?id=40837610) - [Show HN: Drop-in SQS replacement based on SQLite](https://github.com/poundifdef/SmoothMQ)
-* [2024-06-30, 14:43:54](https://news.ycombinator.com/item?id=40837420) - [Below MI – IBM i for hackers](https://silentsignal.github.io/BelowMI/)
 * [2024-06-30, 04:54:17](https://news.ycombinator.com/item?id=40835223) - [The physics of airplane flight](https://10maurycy10.github.io/misc/the_physics_of_flight/)
 * [2024-06-30, 04:39:11](https://news.ycombinator.com/item?id=40835181) - [Art and Artifice](https://harpers.org/archive/2024/07/art-and-artifice-donna-tartt/)
 * [2024-06-29, 23:27:02](https://news.ycombinator.com/item?id=40834012) - [Swiss Broadcasting Corporation to pull plug on FM radio](https://www.swissinfo.ch/eng/life-aging/swiss-broadcasting-corporation-to-pull-plug-on-fm-radio/81956760)
