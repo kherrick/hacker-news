@@ -6,6 +6,7 @@
 
 * [2024-07-01, 17:15:11](https://news.ycombinator.com/item?id=40847909) - [Delivering Signals for Fun and Profit (2001)](https://lcamtuf.coredump.cx/signals.txt)
 * [2024-07-01, 16:56:32](https://news.ycombinator.com/item?id=40847699) - [Show HN: Doggo – A powerful, human-friendly DNS client for the command line](https://doggo.mrkaran.dev/docs/)
+* [2024-07-01, 16:29:53](https://news.ycombinator.com/item?id=40847392) - [Using SIMD for Parallel Processing in Rust](https://nrempel.com/using-simd-for-parallel-processing-in-rust/)
 * [2024-07-01, 16:28:27](https://news.ycombinator.com/item?id=40847376) - [HTML-ivating your Django web app with Htmx, AlpineJS, and streaming HTML](https://www.youtube.com/watch?v=kYV8K71pY64)
 * [2024-07-01, 16:11:23](https://news.ycombinator.com/item?id=40847204) - [The Windows Console gets support for Sixel images](https://github.com/microsoft/terminal/pull/17421)
 * [2024-07-01, 16:10:28](https://news.ycombinator.com/item?id=40847190) - [Eating meat with lower carbon footprint often means killing more animals](https://ourworldindata.org/what-are-the-trade-offs-between-animal-welfare-and-the-environmental-impact-of-meat)
@@ -15,6 +16,7 @@
 * [2024-07-01, 15:36:58](https://news.ycombinator.com/item?id=40846834) - [Show HN: Programming Is Easier Than Most People Think](https://easylang.online/apps/tut_learn.html?v=2407)
 * [2024-07-01, 15:01:49](https://news.ycombinator.com/item?id=40846428) - [Ask HN: Who is hiring? (July 2024)](https://news.ycombinator.com/item?id=40846428)
 * [2024-07-01, 15:01:47](https://news.ycombinator.com/item?id=40846426) - [Ask HN: Who wants to be hired? (July 2024)](https://news.ycombinator.com/item?id=40846426)
+* [2024-07-01, 14:38:36](https://news.ycombinator.com/item?id=40846242) - [Show HN: Edna, note taking app for developers](https://edna.arslexis.io/)
 * [2024-07-01, 14:34:18](https://news.ycombinator.com/item?id=40846205) - [\"Computers Are Useless\" and Other Sayings](https://billwadge.com/2024/06/29/computers-are-useless-and-other-sayings/)
 * [2024-07-01, 14:04:53](https://news.ycombinator.com/item?id=40845951) - [Welcome to Ladybird](https://ladybird.org/)
 * [2024-07-01, 14:04:12](https://news.ycombinator.com/item?id=40845945) - [Quantum is unimportant to post-quantum](https://blog.trailofbits.com/2024/07/01/quantum-is-unimportant-to-post-quantum/)
