@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-07-01](index.md)
 
+* [2024-07-01, 08:40:54](https://news.ycombinator.com/item?id=40843778) - [RegreSSHion: RCE in OpenSSH's server, on glibc-based Linux systems](https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt)
+* [2024-07-01, 08:31:58](https://news.ycombinator.com/item?id=40843720) - [Cities Need More Trees](https://herman.bearblog.dev/cities-need-more-trees/)
 * [2024-07-01, 06:53:33](https://news.ycombinator.com/item?id=40843239) - [Multivitamin does not improve longevity](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2820369)
+* [2024-07-01, 06:44:30](https://news.ycombinator.com/item?id=40843202) - [Falsehoods Software Developers Believe About Event-Driven Systems](https://dimtion.fr/blog/falsehoods-event-driven/)
 * [2024-07-01, 06:09:55](https://news.ycombinator.com/item?id=40843019) - [Can a law make social media less 'addictive'?](https://www.bbc.com/future/article/20240626-can-a-law-make-social-media-less-addictive)
 * [2024-07-01, 06:01:39](https://news.ycombinator.com/item?id=40842968) - [How Google migrated billions of lines of code from Perforce to Piper](https://graphite.dev/blog/google-perforce-to-piper-migration)
 * [2024-07-01, 05:52:10](https://news.ycombinator.com/item?id=40842917) - [Show HN: BerqWP – Automatically Optimize Core Web Vitals for WordPress](https://berqwp.com/)
