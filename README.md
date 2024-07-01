@@ -17,6 +17,7 @@
 * [2024-06-30, 21:08:43](https://news.ycombinator.com/item?id=40840396) - [Convolutions, Fast Fourier Transform and polynomials (2022)](https://www.alvarorevuelta.com/posts/fft-polynomials)
 * [2024-06-30, 20:58:32](https://news.ycombinator.com/item?id=40840315) - [Unification in Elixir](https://www.ericpfahl.com/from-pattern-matching-to-unification/)
 * [2024-06-30, 19:58:46](https://news.ycombinator.com/item?id=40839830) - [Newswire: A large-scale structured database of a century of historical news](https://arxiv.org/abs/2406.09490)
+* [2024-06-30, 19:17:42](https://news.ycombinator.com/item?id=40839418) - [Postzegelcode](https://en.wikipedia.org/wiki/Postzegelcode)
 * [2024-06-30, 18:53:18](https://news.ycombinator.com/item?id=40839208) - [Writing GUI apps for Windows is painful](https://tulach.cc/writing-gui-apps-for-windows-is-painful/)
 * [2024-06-30, 18:24:34](https://news.ycombinator.com/item?id=40838945) - [A simplified Python simulation of diffusion](https://www.thepythoncodingstack.com/p/python-diffusion-simulation-demo-turtle)
 * [2024-06-30, 17:00:14](https://news.ycombinator.com/item?id=40838327) - [Bitmovin (YC S15) is hiring video solution architects in the US](https://bitmovin.com/careers/senior-solutions-engineer-us-7504149002)
@@ -27,7 +28,6 @@
 * [2024-06-30, 04:39:11](https://news.ycombinator.com/item?id=40835181) - [Art and Artifice](https://harpers.org/archive/2024/07/art-and-artifice-donna-tartt/)
 * [2024-06-29, 17:03:53](https://news.ycombinator.com/item?id=40831964) - [The super effectiveness of Pokémon embeddings using only raw JSON and images](https://minimaxir.com/2024/06/pokemon-embeddings/)
 * [2024-06-29, 11:18:37](https://news.ycombinator.com/item?id=40829494) - [LosslessCut: The Swiss army knife of lossless video/audio editing](https://github.com/mifi/lossless-cut)
-* [2024-06-29, 08:42:02](https://news.ycombinator.com/item?id=40828754) - [Semantics and scheduling for machine knitting compilers (2023)](https://textiles-lab.github.io/publications/2023-knitout-semantics/)
 * [2024-06-28, 16:57:13](https://news.ycombinator.com/item?id=40822532) - [Butterflies flew 2,600 miles across the Atlantic without stopping](https://www.smithsonianmag.com/smart-news/these-stunning-butterflies-flew-2600-miles-across-the-atlantic-ocean-without-stopping-180984602/)
 * [2024-06-28, 00:25:20](https://news.ycombinator.com/item?id=40816631) - [Surprising Phosphate Finding in NASA's Osiris-Rex Asteroid Sample](https://www.nasa.gov/missions/osiris-rex/surprising-phosphate-finding-in-nasas-osiris-rex-asteroid-sample/)
 
