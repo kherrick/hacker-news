@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2024-07-01, 08:20:09",
-      "https://news.ycombinator.com/item?id=40843653"
-    ],
-    [
-      "Sieve: Cache eviction can be simple, effective, and scalable",
-      "https://www.usenix.org/publications/loginonline/sieve-cache-eviction-can-be-simple-effective-and-scalable"
-    ]
-  ],
-  [
-    [
       "2024-07-01, 05:47:05",
       "https://news.ycombinator.com/item?id=40842898"
     ],
@@ -287,6 +277,16 @@
     [
       "Swiss Broadcasting Corporation to pull plug on FM radio",
       "https://www.swissinfo.ch/eng/life-aging/swiss-broadcasting-corporation-to-pull-plug-on-fm-radio/81956760"
+    ]
+  ],
+  [
+    [
+      "2024-06-29, 11:18:37",
+      "https://news.ycombinator.com/item?id=40829494"
+    ],
+    [
+      "LosslessCut: The Swiss army knife of lossless video/audio editing",
+      "https://github.com/mifi/lossless-cut"
     ]
   ],
   [
