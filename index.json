@@ -1,22 +1,12 @@
 [
   [
     [
-      "2024-07-01, 12:26:15",
-      "https://news.ycombinator.com/item?id=40845097"
+      "2024-07-01, 12:47:38",
+      "https://news.ycombinator.com/item?id=40845304"
     ],
     [
-      "3D Printable PC/NAS Cases",
-      "https://www.youtube.com/@makerunit"
-    ]
-  ],
-  [
-    [
-      "2024-07-01, 12:11:22",
-      "https://news.ycombinator.com/item?id=40844982"
-    ],
-    [
-      "OhMyForm discontinued, how can open source projects be sustainable?",
-      "https://old.reddit.com/r/opensource/comments/1dsrdx9/ohmyform_discontinued_how_can_open_source/"
+      "My Python code is a neural network",
+      "https://blog.gabornyeki.com/2024-07-my-python-code-is-a-neural-network/"
     ]
   ],
   [
@@ -31,42 +21,12 @@
   ],
   [
     [
-      "2024-07-01, 11:52:25",
-      "https://news.ycombinator.com/item?id=40844868"
-    ],
-    [
-      "Pakistani court sentences man to death for social media post",
-      "https://apnews.com/article/pakistan-blasphemy-christian-death-sentence-mob-9fbaf36d5c78659d58a414f7f048ce8a"
-    ]
-  ],
-  [
-    [
       "2024-07-01, 11:44:33",
       "https://news.ycombinator.com/item?id=40844825"
     ],
     [
       "A write-ahead log is not a universal part of durability",
       "https://notes.eatonphil.com/2024-07-01-a-write-ahead-log-is-not-a-universal-part-of-durability.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-01, 11:40:22",
-      "https://news.ycombinator.com/item?id=40844790"
-    ],
-    [
-      "Neuromancer was released 40 years ago today",
-      "https://en.wikipedia.org/wiki/Neuromancer"
-    ]
-  ],
-  [
-    [
-      "2024-07-01, 11:33:53",
-      "https://news.ycombinator.com/item?id=40844748"
-    ],
-    [
-      "Over 100K+ Sites Hit by Polyfill.io Supply Chain Attack",
-      "https://www.infoq.com/news/2024/06/polyfill-supply-chain-attack/"
     ]
   ],
   [
@@ -81,12 +41,12 @@
   ],
   [
     [
-      "2024-07-01, 10:29:26",
-      "https://news.ycombinator.com/item?id=40844386"
+      "2024-07-01, 09:39:05",
+      "https://news.ycombinator.com/item?id=40844095"
     ],
     [
-      "DOJ readying criminal charges against Boeing for deadly 737 MAX crashes",
-      "https://www.politico.com/news/2024/06/30/doj-criminal-charges-boeing-00165992"
+      "What makes a good tree? We used AI to ask birds",
+      "https://theconversation.com/what-makes-a-good-tree-we-used-ai-to-ask-birds-233281"
     ]
   ],
   [
@@ -141,22 +101,22 @@
   ],
   [
     [
-      "2024-07-01, 08:31:58",
-      "https://news.ycombinator.com/item?id=40843720"
-    ],
-    [
-      "Cities Need More Trees",
-      "https://herman.bearblog.dev/cities-need-more-trees/"
-    ]
-  ],
-  [
-    [
       "2024-07-01, 08:25:15",
       "https://news.ycombinator.com/item?id=40843683"
     ],
     [
       "Show HN: An open-source alternative to Bitly",
       "https://github.com/ccbikai/Sink"
+    ]
+  ],
+  [
+    [
+      "2024-07-01, 08:20:09",
+      "https://news.ycombinator.com/item?id=40843653"
+    ],
+    [
+      "Sieve: Cache eviction can be simple, effective, and scalable",
+      "https://www.usenix.org/publications/loginonline/sieve-cache-eviction-can-be-simple-effective-and-scalable"
     ]
   ],
   [
@@ -261,6 +221,26 @@
   ],
   [
     [
+      "2024-06-30, 18:53:18",
+      "https://news.ycombinator.com/item?id=40839208"
+    ],
+    [
+      "Writing GUI apps for Windows is painful",
+      "https://tulach.cc/writing-gui-apps-for-windows-is-painful/"
+    ]
+  ],
+  [
+    [
+      "2024-06-30, 18:24:34",
+      "https://news.ycombinator.com/item?id=40838945"
+    ],
+    [
+      "A simplified Python simulation of diffusion",
+      "https://www.thepythoncodingstack.com/p/python-diffusion-simulation-demo-turtle"
+    ]
+  ],
+  [
+    [
       "2024-06-30, 16:38:08",
       "https://news.ycombinator.com/item?id=40838167"
     ],
@@ -271,12 +251,12 @@
   ],
   [
     [
-      "2024-06-30, 14:42:03",
-      "https://news.ycombinator.com/item?id=40837411"
+      "2024-06-30, 15:11:08",
+      "https://news.ycombinator.com/item?id=40837610"
     ],
     [
-      "The weirdest QNX bug I've encountered (2021)",
-      "https://mental-reverb.com/blog.php?id=29"
+      "Show HN: Drop-in SQS replacement based on SQLite",
+      "https://github.com/poundifdef/SmoothMQ"
     ]
   ],
   [
@@ -287,6 +267,26 @@
     [
       "The physics of airplane flight",
       "https://10maurycy10.github.io/misc/the_physics_of_flight/"
+    ]
+  ],
+  [
+    [
+      "2024-06-29, 23:27:02",
+      "https://news.ycombinator.com/item?id=40834012"
+    ],
+    [
+      "Swiss Broadcasting Corporation to pull plug on FM radio",
+      "https://www.swissinfo.ch/eng/life-aging/swiss-broadcasting-corporation-to-pull-plug-on-fm-radio/81956760"
+    ]
+  ],
+  [
+    [
+      "2024-06-28, 12:36:00",
+      "https://news.ycombinator.com/item?id=40820022"
+    ],
+    [
+      "Computational Life: How self-replicating programs emerge from simple interaction",
+      "https://arxiv.org/abs/2406.19108"
     ]
   ],
   [
