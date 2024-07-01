@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-01](index.md)
 
+* [2024-07-01, 12:47:38](https://news.ycombinator.com/item?id=40845304) - [My Python code is a neural network](https://blog.gabornyeki.com/2024-07-my-python-code-is-a-neural-network/)
 * [2024-07-01, 12:26:15](https://news.ycombinator.com/item?id=40845097) - [3D Printable PC/NAS Cases](https://www.youtube.com/@makerunit)
 * [2024-07-01, 12:11:22](https://news.ycombinator.com/item?id=40844982) - [OhMyForm discontinued, how can open source projects be sustainable?](https://old.reddit.com/r/opensource/comments/1dsrdx9/ohmyform_discontinued_how_can_open_source/)
 * [2024-07-01, 12:01:02](https://news.ycombinator.com/item?id=40844917) - [Optery (YC W22) Is Hiring Back End Engineers (Python and Django) & Sales (Remote)](https://www.ycombinator.com/companies/optery/jobs)
@@ -29,6 +30,7 @@
 * [2024-07-01, 08:36:00](https://news.ycombinator.com/item?id=40843749) - [An Open Letter to the United Nations](https://open-internet-governance.org/letter)
 * [2024-07-01, 08:31:58](https://news.ycombinator.com/item?id=40843720) - [Cities Need More Trees](https://herman.bearblog.dev/cities-need-more-trees/)
 * [2024-07-01, 08:25:15](https://news.ycombinator.com/item?id=40843683) - [Show HN: An open-source alternative to Bitly](https://github.com/ccbikai/Sink)
+* [2024-07-01, 08:20:09](https://news.ycombinator.com/item?id=40843653) - [Sieve: Cache eviction can be simple, effective, and scalable](https://www.usenix.org/publications/loginonline/sieve-cache-eviction-can-be-simple-effective-and-scalable)
 * [2024-07-01, 06:53:33](https://news.ycombinator.com/item?id=40843239) - [Multivitamin does not improve longevity](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2820369)
 * [2024-07-01, 06:44:30](https://news.ycombinator.com/item?id=40843202) - [Falsehoods Software Developers Believe About Event-Driven Systems](https://dimtion.fr/blog/falsehoods-event-driven/)
 * [2024-07-01, 06:09:55](https://news.ycombinator.com/item?id=40843019) - [Can a law make social media less 'addictive'?](https://www.bbc.com/future/article/20240626-can-a-law-make-social-media-less-addictive)
