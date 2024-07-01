@@ -1,12 +1,32 @@
 [
   [
     [
-      "2024-07-01, 16:10:28",
-      "https://news.ycombinator.com/item?id=40847190"
+      "2024-07-01, 16:56:32",
+      "https://news.ycombinator.com/item?id=40847699"
     ],
     [
-      "Eating meat with lower carbon footprint often means killing more animals",
-      "https://ourworldindata.org/what-are-the-trade-offs-between-animal-welfare-and-the-environmental-impact-of-meat"
+      "Show HN: Doggo – A powerful, human-friendly DNS client for the command line",
+      "https://doggo.mrkaran.dev/docs/"
+    ]
+  ],
+  [
+    [
+      "2024-07-01, 16:28:27",
+      "https://news.ycombinator.com/item?id=40847376"
+    ],
+    [
+      "HTML-ivating your Django web app with Htmx, AlpineJS, and streaming HTML",
+      "https://www.youtube.com/watch?v=kYV8K71pY64"
+    ]
+  ],
+  [
+    [
+      "2024-07-01, 16:11:23",
+      "https://news.ycombinator.com/item?id=40847204"
+    ],
+    [
+      "The Windows Console gets support for Sixel images",
+      "https://github.com/microsoft/terminal/pull/17421"
     ]
   ],
   [
@@ -17,6 +37,16 @@
     [
       "What goes around comes around and around [pdf]",
       "https://db.cs.cmu.edu/papers/2024/whatgoesaround-sigmodrec2024.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-07-01, 15:36:58",
+      "https://news.ycombinator.com/item?id=40846834"
+    ],
+    [
+      "Show HN: Programming Is Easier Than Most People Think",
+      "https://easylang.online/apps/tut_learn.html?v=2407"
     ]
   ],
   [
@@ -87,16 +117,6 @@
     [
       "A write-ahead log is not a universal part of durability",
       "https://notes.eatonphil.com/2024-07-01-a-write-ahead-log-is-not-a-universal-part-of-durability.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-01, 10:54:09",
-      "https://news.ycombinator.com/item?id=40844503"
-    ],
-    [
-      "Scientists find desert moss 'that can survive on Mars'",
-      "https://www.theguardian.com/science/article/2024/jun/30/scientists-find-desert-moss-that-can-survive-on-mars"
     ]
   ],
   [
@@ -231,32 +251,12 @@
   ],
   [
     [
-      "2024-06-30, 18:24:34",
-      "https://news.ycombinator.com/item?id=40838945"
-    ],
-    [
-      "A simplified Python simulation of diffusion",
-      "https://www.thepythoncodingstack.com/p/python-diffusion-simulation-demo-turtle"
-    ]
-  ],
-  [
-    [
       "2024-06-30, 16:38:08",
       "https://news.ycombinator.com/item?id=40838167"
     ],
     [
       "How to get root access to your Sleep Number bed",
       "https://dillan.org/articles/how-to-get-root-access-to-your-sleep-number-bed"
-    ]
-  ],
-  [
-    [
-      "2024-06-30, 15:11:08",
-      "https://news.ycombinator.com/item?id=40837610"
-    ],
-    [
-      "Show HN: Drop-in SQS replacement based on SQLite",
-      "https://github.com/poundifdef/SmoothMQ"
     ]
   ],
   [
