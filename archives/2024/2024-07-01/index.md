@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-01](index.md)
 
+* [2024-07-01, 10:29:26](https://news.ycombinator.com/item?id=40844386) - [DOJ readying criminal charges against Boeing for deadly 737 MAX crashes](https://www.politico.com/news/2024/06/30/doj-criminal-charges-boeing-00165992)
 * [2024-07-01, 09:39:05](https://news.ycombinator.com/item?id=40844095) - [What makes a good tree? We used AI to ask birds](https://theconversation.com/what-makes-a-good-tree-we-used-ai-to-ask-birds-233281)
 * [2024-07-01, 09:32:56](https://news.ycombinator.com/item?id=40844056) - [Show HN: Image editing with just audio instructions](https://github.com/ShaShekhar/aaiela)
 * [2024-07-01, 09:28:40](https://news.ycombinator.com/item?id=40844035) - [OpenSSH Race condition resulting in potential remote code execution](https://www.openssh.com/txt/release-9.8)

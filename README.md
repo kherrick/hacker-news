@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-01, 10:29:26](https://news.ycombinator.com/item?id=40844386) - [DOJ readying criminal charges against Boeing for deadly 737 MAX crashes](https://www.politico.com/news/2024/06/30/doj-criminal-charges-boeing-00165992)
 * [2024-07-01, 09:39:05](https://news.ycombinator.com/item?id=40844095) - [What makes a good tree? We used AI to ask birds](https://theconversation.com/what-makes-a-good-tree-we-used-ai-to-ask-birds-233281)
 * [2024-07-01, 09:32:56](https://news.ycombinator.com/item?id=40844056) - [Show HN: Image editing with just audio instructions](https://github.com/ShaShekhar/aaiela)
 * [2024-07-01, 09:28:40](https://news.ycombinator.com/item?id=40844035) - [OpenSSH Race condition resulting in potential remote code execution](https://www.openssh.com/txt/release-9.8)
@@ -16,7 +17,6 @@
 * [2024-07-01, 03:26:09](https://news.ycombinator.com/item?id=40842275) - [Four lines of code it was four lines of code](https://boston.conman.org/2024/06/30.1)
 * [2024-07-01, 02:57:57](https://news.ycombinator.com/item?id=40842173) - [Integrated assembler improvements in LLVM 19](https://maskray.me/blog/2024-06-30-integrated-assembler-improvements-in-llvm-19)
 * [2024-07-01, 02:03:37](https://news.ycombinator.com/item?id=40841980) - [Pipes: A spiritual successor to Yahoo Pipes](https://www.pipes.digital/docs)
-* [2024-07-01, 00:47:45](https://news.ycombinator.com/item?id=40841649) - [Userland rootkits are lame (2022)](https://grugq.substack.com/p/userland-rootkits-are-lame)
 * [2024-07-01, 00:15:19](https://news.ycombinator.com/item?id=40841502) - [A Model of a Mind](https://tylerneylon.com/a/mind_model/mind_model.html)
 * [2024-06-30, 21:20:45](https://news.ycombinator.com/item?id=40840488) - [Chaos Engineering in Front End Development: Enhancing Application Resilience](https://omid.dev/2024/07/01/chaos-engineering-in-frontend-development/)
 * [2024-06-30, 21:08:43](https://news.ycombinator.com/item?id=40840396) - [Convolutions, Fast Fourier Transform and polynomials (2022)](https://www.alvarorevuelta.com/posts/fft-polynomials)
