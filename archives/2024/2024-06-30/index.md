@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-30](index.md)
 
+* [2024-06-30, 23:55:20](https://news.ycombinator.com/item?id=40841434) - [US to Criminally Charge Boeing, Seek Guilty Plea, Sources Say](https://www.reuters.com./legal/us-pushes-boeing-plead-guilty-connection-with-fatal-crashes-sources-say-2024-06-30/)
 * [2024-06-30, 23:50:10](https://news.ycombinator.com/item?id=40841414) - [Nyquest NY8A051H – Or getting 60 microcontrollers for $1 (die shot)](https://zeptobars.com/en/read/Nyquest-Technology-NY8A051H-8051-smallest-microcontroller)
 * [2024-06-30, 23:40:07](https://news.ycombinator.com/item?id=40841355) - [Matters Computational [pdf]](http://www.jjj.de/fxt/#fxtbook)
 * [2024-06-30, 22:50:03](https://news.ycombinator.com/item?id=40841057) - [Slack AI](https://slack.com/features/ai?nojsmode=1)
