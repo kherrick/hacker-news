@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-01](index.md)
 
+* [2024-07-01, 19:48:20](https://news.ycombinator.com/item?id=40849840) - [When Rand Made Magic in Santa Monica](https://asteriskmag.com/issues/06/when-rand-made-magic-in-santa-monica)
 * [2024-07-01, 19:30:36](https://news.ycombinator.com/item?id=40849627) - [An open letter to the United Nations](https://open-internet-governance.org/letter)
 * [2024-07-01, 19:24:05](https://news.ycombinator.com/item?id=40849545) - [Climate change to shift tropical rains northward, suggests computer modeling](https://smartwatermagazine.com/news/university-california-riverside/climate-change-shift-tropical-rains-northward-suggests-computer)
 * [2024-07-01, 18:46:07](https://news.ycombinator.com/item?id=40848998) - [Ask HN: what are examples of successful \"open-source alternatives\"?](https://news.ycombinator.com/item?id=40848998)

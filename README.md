@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-01, 19:30:36](https://news.ycombinator.com/item?id=40849627) - [An open letter to the United Nations](https://open-internet-governance.org/letter)
-* [2024-07-01, 19:24:05](https://news.ycombinator.com/item?id=40849545) - [Climate change to shift tropical rains northward, suggests computer modeling](https://smartwatermagazine.com/news/university-california-riverside/climate-change-shift-tropical-rains-northward-suggests-computer)
+* [2024-07-01, 19:48:20](https://news.ycombinator.com/item?id=40849840) - [When Rand Made Magic in Santa Monica](https://asteriskmag.com/issues/06/when-rand-made-magic-in-santa-monica)
 * [2024-07-01, 18:29:13](https://news.ycombinator.com/item?id=40848797) - [Pharma firms stash profits in Europe's tax havens](https://www.investigate-europe.eu/posts/deadly-prices-pharma-firms-stash-profits-in-europes-tax-havens-as-patients-struggle-with-drug-prices)
 * [2024-07-01, 18:26:13](https://news.ycombinator.com/item?id=40848757) - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4381552006)
 * [2024-07-01, 17:19:52](https://news.ycombinator.com/item?id=40847963) - [Supreme Court rules ex-presidents have immunity for official acts](https://apnews.com/article/supreme-court-trump-capitol-riot-immunity-2dc0d1c2368d404adc0054151490f542)
@@ -21,6 +20,7 @@
 * [2024-07-01, 08:40:54](https://news.ycombinator.com/item?id=40843778) - [RegreSSHion: RCE in OpenSSH's server, on glibc-based Linux systems](https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt)
 * [2024-07-01, 05:47:05](https://news.ycombinator.com/item?id=40842898) - [Quaternions in Signal and Image Processing](https://ieeexplore.ieee.org/document/10243497)
 * [2024-07-01, 03:26:09](https://news.ycombinator.com/item?id=40842275) - [Four lines of code it was four lines of code](https://boston.conman.org/2024/06/30.1)
+* [2024-07-01, 02:57:57](https://news.ycombinator.com/item?id=40842173) - [Integrated assembler improvements in LLVM 19](https://maskray.me/blog/2024-06-30-integrated-assembler-improvements-in-llvm-19)
 * [2024-07-01, 02:03:37](https://news.ycombinator.com/item?id=40841980) - [Pipes: A spiritual successor to Yahoo Pipes](https://www.pipes.digital/docs)
 * [2024-06-30, 21:08:43](https://news.ycombinator.com/item?id=40840396) - [Convolutions, Fast Fourier Transform and polynomials (2022)](https://www.alvarorevuelta.com/posts/fft-polynomials)
 * [2024-06-30, 20:58:32](https://news.ycombinator.com/item?id=40840315) - [Unification in Elixir](https://www.ericpfahl.com/from-pattern-matching-to-unification/)
