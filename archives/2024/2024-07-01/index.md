@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-01](index.md)
 
+* [2024-07-01, 18:46:07](https://news.ycombinator.com/item?id=40848998) - [Ask HN: what are examples of successful \"open-source alternatives\"?](https://news.ycombinator.com/item?id=40848998)
+* [2024-07-01, 18:29:13](https://news.ycombinator.com/item?id=40848797) - [Pharma firms stash profits in Europe's tax havens](https://www.investigate-europe.eu/posts/deadly-prices-pharma-firms-stash-profits-in-europes-tax-havens-as-patients-struggle-with-drug-prices)
 * [2024-07-01, 18:26:13](https://news.ycombinator.com/item?id=40848757) - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4381552006)
 * [2024-07-01, 17:55:21](https://news.ycombinator.com/item?id=40848355) - [Digital public archaeology: Excavating data from digs done decades ago](https://phys.org/news/2024-06-digital-archaeology-excavating-decades-today.html)
 * [2024-07-01, 17:54:24](https://news.ycombinator.com/item?id=40848340) - [A Survey of General-Purpose Polyhedral Compilers](https://dl.acm.org/doi/abs/10.1145/3674735)
@@ -16,6 +18,7 @@
 * [2024-07-01, 16:28:27](https://news.ycombinator.com/item?id=40847376) - [HTML-ivating your Django web app with Htmx, AlpineJS, and streaming HTML](https://www.youtube.com/watch?v=kYV8K71pY64)
 * [2024-07-01, 16:11:23](https://news.ycombinator.com/item?id=40847204) - [The Windows Console gets support for Sixel images](https://github.com/microsoft/terminal/pull/17421)
 * [2024-07-01, 16:10:28](https://news.ycombinator.com/item?id=40847190) - [Eating meat with lower carbon footprint often means killing more animals](https://ourworldindata.org/what-are-the-trade-offs-between-animal-welfare-and-the-environmental-impact-of-meat)
+* [2024-07-01, 16:00:56](https://news.ycombinator.com/item?id=40847085) - [Working Title (Insurance)](https://www.bitsaboutmoney.com/archive/working-title-insurance/)
 * [2024-07-01, 16:00:15](https://news.ycombinator.com/item?id=40847076) - [US Supreme Court throws out rulings on state laws regulating social media](https://www.reuters.com/legal/us-supreme-court-set-decide-fate-texas-florida-social-media-laws-2024-07-01/)
 * [2024-07-01, 15:41:41](https://news.ycombinator.com/item?id=40846883) - [What Goes Around Comes Around and Around (On Databases) [pdf]](https://db.cs.cmu.edu/papers/2024/whatgoesaround-sigmodrec2024.pdf)
 * [2024-07-01, 15:38:08](https://news.ycombinator.com/item?id=40846845) - [Graham Essays: Full Collection of PG Essays in ePub, PDF and Markdowng](https://github.com/ofou/graham-essays)
