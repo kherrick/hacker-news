@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-01](index.md)
 
+* [2024-07-01, 18:26:13](https://news.ycombinator.com/item?id=40848757) - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4381552006)
 * [2024-07-01, 17:33:17](https://news.ycombinator.com/item?id=40848108) - [Fisker Went Bankrupt. What Do Its EV Owners Do Next?](https://www.wired.com/story/fisker-went-bankrupt-what-do-its-ev-owners-do-next/)
 * [2024-07-01, 17:24:42](https://news.ycombinator.com/item?id=40848016) - [John Deere Laying Off 600 Workers in Flagship Dubuque Factory for Mexico](https://www.entrepreneur.com/business-news/john-deere-laying-off-600-workers-eyes-mexico-production/476433)
 * [2024-07-01, 17:19:52](https://news.ycombinator.com/item?id=40847963) - [Supreme Court rules ex-presidents have immunity for official acts](https://apnews.com/article/supreme-court-trump-capitol-riot-immunity-2dc0d1c2368d404adc0054151490f542)

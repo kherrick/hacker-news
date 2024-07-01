@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-01, 18:26:13](https://news.ycombinator.com/item?id=40848757) - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4381552006)
 * [2024-07-01, 17:33:17](https://news.ycombinator.com/item?id=40848108) - [Fisker Went Bankrupt. What Do Its EV Owners Do Next?](https://www.wired.com/story/fisker-went-bankrupt-what-do-its-ev-owners-do-next/)
 * [2024-07-01, 17:24:42](https://news.ycombinator.com/item?id=40848016) - [John Deere Laying Off 600 Workers in Flagship Dubuque Factory for Mexico](https://www.entrepreneur.com/business-news/john-deere-laying-off-600-workers-eyes-mexico-production/476433)
 * [2024-07-01, 17:19:52](https://news.ycombinator.com/item?id=40847963) - [Supreme Court rules ex-presidents have immunity for official acts](https://apnews.com/article/supreme-court-trump-capitol-riot-immunity-2dc0d1c2368d404adc0054151490f542)
@@ -12,7 +13,6 @@
 * [2024-07-01, 14:38:36](https://news.ycombinator.com/item?id=40846242) - [Show HN: Edna, note taking app for developers](https://edna.arslexis.io/)
 * [2024-07-01, 14:04:12](https://news.ycombinator.com/item?id=40845945) - [Quantum is unimportant to post-quantum](https://blog.trailofbits.com/2024/07/01/quantum-is-unimportant-to-post-quantum/)
 * [2024-07-01, 12:47:38](https://news.ycombinator.com/item?id=40845304) - [My Python code is a neural network](https://blog.gabornyeki.com/2024-07-my-python-code-is-a-neural-network/)
-* [2024-07-01, 12:01:02](https://news.ycombinator.com/item?id=40844917) - [Optery (YC W22) Is Hiring Back End Engineers (Python and Django) & Sales (Remote)](https://www.ycombinator.com/companies/optery/jobs)
 * [2024-07-01, 11:44:33](https://news.ycombinator.com/item?id=40844825) - [A write-ahead log is not a universal part of durability](https://notes.eatonphil.com/2024-07-01-a-write-ahead-log-is-not-a-universal-part-of-durability.html)
 * [2024-07-01, 09:32:56](https://news.ycombinator.com/item?id=40844056) - [Show HN: AI assisted image editing with audio instructions](https://github.com/ShaShekhar/aaiela)
 * [2024-07-01, 08:57:26](https://news.ycombinator.com/item?id=40843867) - [Show HN: I created an After Effects alternative](https://pikimov.com/)
