@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-01, 20:30:50](https://news.ycombinator.com/item?id=40850313) - [Venezuela is first Andean country to lose all of its glaciers](https://www.nbcnews.com/news/latino/-great-sadness-venezuela-first-andean-country-lose-glaciers-rcna153784)
 * [2024-07-01, 20:22:04](https://news.ycombinator.com/item?id=40850231) - [Journal retracts all 23 articles in special issue](https://retractionwatch.com/2024/07/01/we-authors-paid-a-heavy-price-journal-retracts-all-23-articles-in-special-issue/)
 * [2024-07-01, 19:48:20](https://news.ycombinator.com/item?id=40849840) - [When Rand Made Magic in Santa Monica](https://asteriskmag.com/issues/06/when-rand-made-magic-in-santa-monica)
 * [2024-07-01, 19:10:52](https://news.ycombinator.com/item?id=40849363) - [A Git story: Not so fun this time](https://blog.brachiosoft.com/en/posts/git/)
@@ -24,7 +25,6 @@
 * [2024-07-01, 02:03:37](https://news.ycombinator.com/item?id=40841980) - [Pipes: A spiritual successor to Yahoo Pipes](https://www.pipes.digital/docs)
 * [2024-06-30, 21:08:43](https://news.ycombinator.com/item?id=40840396) - [Convolutions, Fast Fourier Transform and polynomials (2022)](https://www.alvarorevuelta.com/posts/fft-polynomials)
 * [2024-06-30, 20:58:32](https://news.ycombinator.com/item?id=40840315) - [Unification in Elixir](https://www.ericpfahl.com/from-pattern-matching-to-unification/)
-* [2024-06-30, 19:58:46](https://news.ycombinator.com/item?id=40839830) - [Newswire: A large-scale structured database of a century of historical news](https://arxiv.org/abs/2406.09490)
 * [2024-06-30, 11:17:13](https://news.ycombinator.com/item?id=40836559) - [The Cutest Monopoly](https://thehustle.co/originals/the-worlds-cutest-monopoly)
 * [2024-06-28, 00:25:20](https://news.ycombinator.com/item?id=40816631) - [Surprising Phosphate Finding in NASA's Osiris-Rex Asteroid Sample](https://www.nasa.gov/missions/osiris-rex/surprising-phosphate-finding-in-nasas-osiris-rex-asteroid-sample/)
 * [2024-06-27, 22:56:54](https://news.ycombinator.com/item?id=40816076) - [The Leopold and Loeb case, a century Later](https://www.smithsonianmag.com/history/the-crime-of-the-century-a-century-later-180984586/)
