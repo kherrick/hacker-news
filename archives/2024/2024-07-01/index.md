@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-01](index.md)
 
 * [2024-07-01, 18:26:13](https://news.ycombinator.com/item?id=40848757) - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4381552006)
+* [2024-07-01, 17:55:21](https://news.ycombinator.com/item?id=40848355) - [Digital public archaeology: Excavating data from digs done decades ago](https://phys.org/news/2024-06-digital-archaeology-excavating-decades-today.html)
 * [2024-07-01, 17:54:24](https://news.ycombinator.com/item?id=40848340) - [A Survey of General-Purpose Polyhedral Compilers](https://dl.acm.org/doi/abs/10.1145/3674735)
 * [2024-07-01, 17:33:17](https://news.ycombinator.com/item?id=40848108) - [Fisker Went Bankrupt. What Do Its EV Owners Do Next?](https://www.wired.com/story/fisker-went-bankrupt-what-do-its-ev-owners-do-next/)
 * [2024-07-01, 17:24:42](https://news.ycombinator.com/item?id=40848016) - [John Deere Laying Off 600 Workers in Flagship Dubuque Factory for Mexico](https://www.entrepreneur.com/business-news/john-deere-laying-off-600-workers-eyes-mexico-production/476433)

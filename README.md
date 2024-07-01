@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-01, 18:26:13](https://news.ycombinator.com/item?id=40848757) - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4381552006)
+* [2024-07-01, 17:55:21](https://news.ycombinator.com/item?id=40848355) - [Digital public archaeology: Excavating data from digs done decades ago](https://phys.org/news/2024-06-digital-archaeology-excavating-decades-today.html)
 * [2024-07-01, 17:54:24](https://news.ycombinator.com/item?id=40848340) - [A Survey of General-Purpose Polyhedral Compilers](https://dl.acm.org/doi/abs/10.1145/3674735)
-* [2024-07-01, 17:33:17](https://news.ycombinator.com/item?id=40848108) - [Fisker Went Bankrupt. What Do Its EV Owners Do Next?](https://www.wired.com/story/fisker-went-bankrupt-what-do-its-ev-owners-do-next/)
-* [2024-07-01, 17:24:42](https://news.ycombinator.com/item?id=40848016) - [John Deere Laying Off 600 Workers in Flagship Dubuque Factory for Mexico](https://www.entrepreneur.com/business-news/john-deere-laying-off-600-workers-eyes-mexico-production/476433)
 * [2024-07-01, 17:19:52](https://news.ycombinator.com/item?id=40847963) - [Supreme Court rules ex-presidents have immunity for official acts](https://apnews.com/article/supreme-court-trump-capitol-riot-immunity-2dc0d1c2368d404adc0054151490f542)
 * [2024-07-01, 16:56:32](https://news.ycombinator.com/item?id=40847699) - [Show HN: Doggo – A powerful, human-friendly DNS client for the command line](https://doggo.mrkaran.dev/docs/)
 * [2024-07-01, 16:29:53](https://news.ycombinator.com/item?id=40847392) - [Using SIMD for Parallel Processing in Rust](https://nrempel.com/using-simd-for-parallel-processing-in-rust/)
@@ -25,6 +24,7 @@
 * [2024-06-30, 21:08:43](https://news.ycombinator.com/item?id=40840396) - [Convolutions, Fast Fourier Transform and polynomials (2022)](https://www.alvarorevuelta.com/posts/fft-polynomials)
 * [2024-06-30, 20:58:32](https://news.ycombinator.com/item?id=40840315) - [Unification in Elixir](https://www.ericpfahl.com/from-pattern-matching-to-unification/)
 * [2024-06-30, 19:58:46](https://news.ycombinator.com/item?id=40839830) - [Newswire: A large-scale structured database of a century of historical news](https://arxiv.org/abs/2406.09490)
+* [2024-06-30, 18:53:18](https://news.ycombinator.com/item?id=40839208) - [Writing GUI apps for Windows is painful](https://tulach.cc/writing-gui-apps-for-windows-is-painful/)
 * [2024-06-30, 16:38:08](https://news.ycombinator.com/item?id=40838167) - [How to get root access to your Sleep Number bed](https://dillan.org/articles/how-to-get-root-access-to-your-sleep-number-bed)
 * [2024-06-30, 04:54:17](https://news.ycombinator.com/item?id=40835223) - [The physics of airplane flight](https://10maurycy10.github.io/misc/the_physics_of_flight/)
 * [2024-06-28, 00:25:20](https://news.ycombinator.com/item?id=40816631) - [Surprising Phosphate Finding in NASA's Osiris-Rex Asteroid Sample](https://www.nasa.gov/missions/osiris-rex/surprising-phosphate-finding-in-nasas-osiris-rex-asteroid-sample/)
