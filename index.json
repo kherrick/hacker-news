@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-07-01, 08:40:54",
+      "https://news.ycombinator.com/item?id=40843778"
+    ],
+    [
+      "RegreSSHion: RCE in OpenSSH's server, on glibc-based Linux systems",
+      "https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt"
+    ]
+  ],
+  [
+    [
+      "2024-07-01, 08:31:58",
+      "https://news.ycombinator.com/item?id=40843720"
+    ],
+    [
+      "Cities Need More Trees",
+      "https://herman.bearblog.dev/cities-need-more-trees/"
+    ]
+  ],
+  [
+    [
+      "2024-07-01, 06:44:30",
+      "https://news.ycombinator.com/item?id=40843202"
+    ],
+    [
+      "Falsehoods Software Developers Believe About Event-Driven Systems",
+      "https://dimtion.fr/blog/falsehoods-event-driven/"
+    ]
+  ],
+  [
+    [
       "2024-07-01, 06:09:55",
       "https://news.ycombinator.com/item?id=40843019"
     ],
@@ -47,16 +77,6 @@
     [
       "Programmers Should Never Trust Anyone, Not Even Themselves",
       "https://carbon-steel.github.io/jekyll/update/2024/06/19/abstractions.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-01, 05:28:38",
-      "https://news.ycombinator.com/item?id=40842794"
-    ],
-    [
-      "Boeing Agrees to Buy Spirit AeroSystems, a Longtime Supplier",
-      "https://www.nytimes.com/2024/07/01/business/boeing-spirit-aerosystems-acquisition.html"
     ]
   ],
   [
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2024-06-29, 17:03:53",
-      "https://news.ycombinator.com/item?id=40831964"
+      "2024-06-28, 12:36:00",
+      "https://news.ycombinator.com/item?id=40820022"
     ],
     [
-      "The super effectiveness of Pokémon embeddings using only raw JSON and images",
-      "https://minimaxir.com/2024/06/pokemon-embeddings/"
-    ]
-  ],
-  [
-    [
-      "2024-06-29, 11:18:37",
-      "https://news.ycombinator.com/item?id=40829494"
-    ],
-    [
-      "LosslessCut: The Swiss army knife of lossless video/audio editing",
-      "https://github.com/mifi/lossless-cut"
-    ]
-  ],
-  [
-    [
-      "2024-06-28, 16:57:13",
-      "https://news.ycombinator.com/item?id=40822532"
-    ],
-    [
-      "Butterflies flew 2,600 miles across the Atlantic without stopping",
-      "https://www.smithsonianmag.com/smart-news/these-stunning-butterflies-flew-2600-miles-across-the-atlantic-ocean-without-stopping-180984602/"
+      "Computational Life: How self-replicating programs emerge from simple interaction",
+      "https://arxiv.org/abs/2406.19108"
     ]
   ],
   [
