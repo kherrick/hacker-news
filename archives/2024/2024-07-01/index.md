@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-01](index.md)
 
+* [2024-07-01, 08:53:04](https://news.ycombinator.com/item?id=40843848) - [My finetuned models beat OpenAI's GPT-4](https://mlops.systems/posts/2024-07-01-full-finetuned-model-evaluation.html)
 * [2024-07-01, 08:40:54](https://news.ycombinator.com/item?id=40843778) - [RegreSSHion: RCE in OpenSSH's server, on glibc-based Linux systems](https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt)
 * [2024-07-01, 08:36:00](https://news.ycombinator.com/item?id=40843749) - [An Open Letter to the United Nations](https://open-internet-governance.org/letter)
 * [2024-07-01, 08:31:58](https://news.ycombinator.com/item?id=40843720) - [Cities Need More Trees](https://herman.bearblog.dev/cities-need-more-trees/)
