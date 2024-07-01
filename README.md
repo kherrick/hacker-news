@@ -26,9 +26,9 @@
 * [2024-06-30, 08:38:24](https://news.ycombinator.com/item?id=40835889) - [An unexpected journey into Microsoft Defender's signature World](https://retooling.io/blog/an-unexpected-journey-into-microsoft-defenders-signature-world)
 * [2024-06-28, 03:43:33](https://news.ycombinator.com/item?id=40817487) - [CPS in Hoot](https://wingolog.org/archives/2024/05/27/cps-in-hoot)
 * [2024-06-27, 21:04:33](https://news.ycombinator.com/item?id=40815086) - [Rounding Percentages](https://tavianator.com/2024/percent.html)
-* [2024-06-27, 17:36:28](https://news.ycombinator.com/item?id=40812974) - [Show HN: Perlin noise Wang tile generator](https://github.com/Gollum999/perlin-wang)
 * [2024-06-27, 13:47:31](https://news.ycombinator.com/item?id=40810488) - [Optimizing JavaScript for Fun and for Profit](https://romgrk.com/posts/optimizing-javascript)
 * [2024-06-26, 19:32:37](https://news.ycombinator.com/item?id=40803685) - [The Mind Is a Metaphor: About the Database](http://metaphors.lib.virginia.edu/about)
+* [2024-06-25, 23:29:48](https://news.ycombinator.com/item?id=40794879) - [\"One of the most original expositions\": The Vienna Poster Exhibition in 1888](https://www.austrianposters.at/2021/10/16/one-of-the-most-original-expositions-the-vienna-poster-exhibition-in-1888/)
 * [2024-06-25, 23:23:59](https://news.ycombinator.com/item?id=40794832) - [A Quantum Leap in Factoring](https://cacm.acm.org/news/a-quantum-leap-in-factoring/)
 
 ## [Archives](archives/index.md)
