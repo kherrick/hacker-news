@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-01](index.md)
 
+* [2024-07-01, 11:31:55](https://news.ycombinator.com/item?id=40844741) - [Beware of Squarespace: Our Business Lost $10k Due to Their Incompetence](https://news.ycombinator.com/item?id=40844741)
 * [2024-07-01, 10:51:50](https://news.ycombinator.com/item?id=40844492) - [Uncomfortable truth: How close is \"positivity culture\" to delusion and denial?](https://jakeseliger.com/2024/06/24/uncomfortable-truth-how-close-is-positivity-culture-to-delusion-and-denial/)
 * [2024-07-01, 10:37:29](https://news.ycombinator.com/item?id=40844436) - [Show HN: Find Visa Sponsorsip and Relocation Support Jobs](https://www.relocateforwork.com/)
 * [2024-07-01, 10:29:26](https://news.ycombinator.com/item?id=40844386) - [DOJ readying criminal charges against Boeing for deadly 737 MAX crashes](https://www.politico.com/news/2024/06/30/doj-criminal-charges-boeing-00165992)
