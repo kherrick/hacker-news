@@ -4,14 +4,18 @@
 
 ### [Archives](../../index.md) for [2024-07-01](index.md)
 
+* [2024-07-01, 16:10:28](https://news.ycombinator.com/item?id=40847190) - [Eating meat with lower carbon footprint often means killing more animals](https://ourworldindata.org/what-are-the-trade-offs-between-animal-welfare-and-the-environmental-impact-of-meat)
 * [2024-07-01, 16:00:15](https://news.ycombinator.com/item?id=40847076) - [US Supreme Court throws out rulings on state laws regulating social media](https://www.reuters.com/legal/us-supreme-court-set-decide-fate-texas-florida-social-media-laws-2024-07-01/)
+* [2024-07-01, 15:41:41](https://news.ycombinator.com/item?id=40846883) - [What Goes Around Comes Around and Around (On Databases) [pdf]](https://db.cs.cmu.edu/papers/2024/whatgoesaround-sigmodrec2024.pdf)
 * [2024-07-01, 15:38:08](https://news.ycombinator.com/item?id=40846845) - [Graham Essays: Full Collection of PG Essays in ePub, PDF and Markdowng](https://github.com/ofou/graham-essays)
 * [2024-07-01, 15:01:49](https://news.ycombinator.com/item?id=40846428) - [Ask HN: Who is hiring? (July 2024)](https://news.ycombinator.com/item?id=40846428)
+* [2024-07-01, 15:01:47](https://news.ycombinator.com/item?id=40846426) - [Ask HN: Who wants to be hired? (July 2024)](https://news.ycombinator.com/item?id=40846426)
 * [2024-07-01, 14:04:53](https://news.ycombinator.com/item?id=40845951) - [Welcome to Ladybird](https://ladybird.org/)
 * [2024-07-01, 14:04:12](https://news.ycombinator.com/item?id=40845945) - [Quantum is unimportant to post-quantum](https://blog.trailofbits.com/2024/07/01/quantum-is-unimportant-to-post-quantum/)
 * [2024-07-01, 13:48:53](https://news.ycombinator.com/item?id=40845842) - [Facebook and Instagram's 'pay or consent' ad model violates the DMA, says the EU](https://www.theverge.com/2024/7/1/24189796/eu-meta-dma-violation-pay-consent-ads-model)
 * [2024-07-01, 13:37:58](https://news.ycombinator.com/item?id=40845760) - [Building A YC Interview Bot That Produces Question we got on our Interview](https://blog.lytix.co/posts/yc-interviewer-bot)
 * [2024-07-01, 13:13:35](https://news.ycombinator.com/item?id=40845559) - [17 Years, $700M Wasted: The Collapse of New York's Traffic Moonshot](https://www.wsj.com/us-news/new-york-congestion-pricing-collapse-traffic-7687ccaf)
+* [2024-07-01, 13:12:03](https://news.ycombinator.com/item?id=40845542) - [Writing HTML by hand is easier than debugging your static site generator](https://logicgrimoire.wordpress.com/2024/07/01/writing-html-by-hand-is-easier-than-debugging-your-static-site-generator/)
 * [2024-07-01, 12:47:38](https://news.ycombinator.com/item?id=40845304) - [My Python code is a neural network](https://blog.gabornyeki.com/2024-07-my-python-code-is-a-neural-network/)
 * [2024-07-01, 12:26:15](https://news.ycombinator.com/item?id=40845097) - [3D Printable PC/NAS Cases](https://www.youtube.com/@makerunit)
 * [2024-07-01, 12:11:22](https://news.ycombinator.com/item?id=40844982) - [OhMyForm discontinued, how can open source projects be sustainable?](https://old.reddit.com/r/opensource/comments/1dsrdx9/ohmyform_discontinued_how_can_open_source/)
