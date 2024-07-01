@@ -68,6 +68,7 @@
 * [2024-06-30, 06:29:24](https://news.ycombinator.com/item?id=40835482) - [Figma will use your content to train its AI](https://stackdiary.com/figma-will-use-your-content-to-train-its-ai/)
 * [2024-06-30, 06:28:45](https://news.ycombinator.com/item?id=40835479) - [Capcom and GOG to release the original Resident Evil trilogy](https://www.gog.com/en/news/capcom_and_gog_join_forces_to_release_the_original_resident_evil_trilogy)
 * [2024-06-30, 05:07:53](https://news.ycombinator.com/item?id=40835274) - [Weekend projects: getting silly with C](https://lcamtuf.substack.com/p/weekend-projects-getting-silly-with)
+* [2024-06-30, 05:04:40](https://news.ycombinator.com/item?id=40835262) - [What happened to my /edu page, and why it came back](https://rachelbythebay.com/w/2024/06/29/edu/)
 * [2024-06-30, 04:56:02](https://news.ycombinator.com/item?id=40835233) - [NASA rover discovers mysterious Mars boulder unlike any others](https://mashable.com/article/nasa-mars-rover-boulder-discovery)
 * [2024-06-30, 04:55:34](https://news.ycombinator.com/item?id=40835231) - [Financial services shun AI over job and regulatory fears](https://www.ft.com/content/0675e4d9-62a1-4d6c-9098-a8cb0d1e32ed)
 * [2024-06-30, 04:54:17](https://news.ycombinator.com/item?id=40835223) - [The physics of airplane flight](https://10maurycy10.github.io/misc/the_physics_of_flight/)
