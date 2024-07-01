@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-01, 16:10:28](https://news.ycombinator.com/item?id=40847190) - [Eating meat with lower carbon footprint often means killing more animals](https://ourworldindata.org/what-are-the-trade-offs-between-animal-welfare-and-the-environmental-impact-of-meat)
-* [2024-07-01, 16:00:15](https://news.ycombinator.com/item?id=40847076) - [US Supreme Court throws out rulings on state laws regulating social media](https://www.reuters.com/legal/us-supreme-court-set-decide-fate-texas-florida-social-media-laws-2024-07-01/)
-* [2024-07-01, 15:41:41](https://news.ycombinator.com/item?id=40846883) - [What Goes Around Comes Around and Around (On Databases) [pdf]](https://db.cs.cmu.edu/papers/2024/whatgoesaround-sigmodrec2024.pdf)
+* [2024-07-01, 15:41:41](https://news.ycombinator.com/item?id=40846883) - [What goes around comes around and around [pdf]](https://db.cs.cmu.edu/papers/2024/whatgoesaround-sigmodrec2024.pdf)
 * [2024-07-01, 15:01:49](https://news.ycombinator.com/item?id=40846428) - [Ask HN: Who is hiring? (July 2024)](https://news.ycombinator.com/item?id=40846428)
 * [2024-07-01, 15:01:47](https://news.ycombinator.com/item?id=40846426) - [Ask HN: Who wants to be hired? (July 2024)](https://news.ycombinator.com/item?id=40846426)
+* [2024-07-01, 14:34:18](https://news.ycombinator.com/item?id=40846205) - [\"Computers Are Useless\" and Other Sayings](https://billwadge.com/2024/06/29/computers-are-useless-and-other-sayings/)
 * [2024-07-01, 14:04:12](https://news.ycombinator.com/item?id=40845945) - [Quantum is unimportant to post-quantum](https://blog.trailofbits.com/2024/07/01/quantum-is-unimportant-to-post-quantum/)
 * [2024-07-01, 13:12:03](https://news.ycombinator.com/item?id=40845542) - [Writing HTML by hand is easier than debugging your static site generator](https://logicgrimoire.wordpress.com/2024/07/01/writing-html-by-hand-is-easier-than-debugging-your-static-site-generator/)
 * [2024-07-01, 12:47:38](https://news.ycombinator.com/item?id=40845304) - [My Python code is a neural network](https://blog.gabornyeki.com/2024-07-my-python-code-is-a-neural-network/)
@@ -20,7 +20,6 @@
 * [2024-07-01, 03:26:09](https://news.ycombinator.com/item?id=40842275) - [Four lines of code it was four lines of code](https://boston.conman.org/2024/06/30.1)
 * [2024-07-01, 02:57:57](https://news.ycombinator.com/item?id=40842173) - [Integrated assembler improvements in LLVM 19](https://maskray.me/blog/2024-06-30-integrated-assembler-improvements-in-llvm-19)
 * [2024-07-01, 02:03:37](https://news.ycombinator.com/item?id=40841980) - [Pipes: A spiritual successor to Yahoo Pipes](https://www.pipes.digital/docs)
-* [2024-07-01, 00:15:19](https://news.ycombinator.com/item?id=40841502) - [A Model of a Mind](https://tylerneylon.com/a/mind_model/mind_model.html)
 * [2024-06-30, 21:08:43](https://news.ycombinator.com/item?id=40840396) - [Convolutions, Fast Fourier Transform and polynomials (2022)](https://www.alvarorevuelta.com/posts/fft-polynomials)
 * [2024-06-30, 20:58:32](https://news.ycombinator.com/item?id=40840315) - [Unification in Elixir](https://www.ericpfahl.com/from-pattern-matching-to-unification/)
 * [2024-06-30, 19:58:46](https://news.ycombinator.com/item?id=40839830) - [Newswire: A large-scale structured database of a century of historical news](https://arxiv.org/abs/2406.09490)
@@ -30,6 +29,7 @@
 * [2024-06-30, 04:54:17](https://news.ycombinator.com/item?id=40835223) - [The physics of airplane flight](https://10maurycy10.github.io/misc/the_physics_of_flight/)
 * [2024-06-30, 04:39:11](https://news.ycombinator.com/item?id=40835181) - [Art and Artifice](https://harpers.org/archive/2024/07/art-and-artifice-donna-tartt/)
 * [2024-06-28, 00:25:20](https://news.ycombinator.com/item?id=40816631) - [Surprising Phosphate Finding in NASA's Osiris-Rex Asteroid Sample](https://www.nasa.gov/missions/osiris-rex/surprising-phosphate-finding-in-nasas-osiris-rex-asteroid-sample/)
+* [2024-06-27, 22:56:54](https://news.ycombinator.com/item?id=40816076) - [The Leopold and Loeb case, a century Later](https://www.smithsonianmag.com/history/the-crime-of-the-century-a-century-later-180984586/)
 
 ## [Archives](archives/index.md)
 

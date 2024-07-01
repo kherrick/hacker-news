@@ -10,6 +10,7 @@
 * [2024-07-01, 15:38:08](https://news.ycombinator.com/item?id=40846845) - [Graham Essays: Full Collection of PG Essays in ePub, PDF and Markdowng](https://github.com/ofou/graham-essays)
 * [2024-07-01, 15:01:49](https://news.ycombinator.com/item?id=40846428) - [Ask HN: Who is hiring? (July 2024)](https://news.ycombinator.com/item?id=40846428)
 * [2024-07-01, 15:01:47](https://news.ycombinator.com/item?id=40846426) - [Ask HN: Who wants to be hired? (July 2024)](https://news.ycombinator.com/item?id=40846426)
+* [2024-07-01, 14:34:18](https://news.ycombinator.com/item?id=40846205) - [\"Computers Are Useless\" and Other Sayings](https://billwadge.com/2024/06/29/computers-are-useless-and-other-sayings/)
 * [2024-07-01, 14:04:53](https://news.ycombinator.com/item?id=40845951) - [Welcome to Ladybird](https://ladybird.org/)
 * [2024-07-01, 14:04:12](https://news.ycombinator.com/item?id=40845945) - [Quantum is unimportant to post-quantum](https://blog.trailofbits.com/2024/07/01/quantum-is-unimportant-to-post-quantum/)
 * [2024-07-01, 13:48:53](https://news.ycombinator.com/item?id=40845842) - [Facebook and Instagram's 'pay or consent' ad model violates the DMA, says the EU](https://www.theverge.com/2024/7/1/24189796/eu-meta-dma-violation-pay-consent-ads-model)
