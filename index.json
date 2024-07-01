@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-07-01, 17:54:24",
+      "https://news.ycombinator.com/item?id=40848340"
+    ],
+    [
+      "A Survey of General-Purpose Polyhedral Compilers",
+      "https://dl.acm.org/doi/abs/10.1145/3674735"
+    ]
+  ],
+  [
+    [
       "2024-07-01, 17:33:17",
       "https://news.ycombinator.com/item?id=40848108"
     ],
@@ -67,16 +77,6 @@
     [
       "What goes around comes around and around [pdf]",
       "https://db.cs.cmu.edu/papers/2024/whatgoesaround-sigmodrec2024.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-07-01, 15:36:58",
-      "https://news.ycombinator.com/item?id=40846834"
-    ],
-    [
-      "Show HN: Programming Is Easier Than Most People Think",
-      "https://easylang.online/apps/tut_learn.html?v=2407"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2024-06-26, 12:34:07",
-      "https://news.ycombinator.com/item?id=40799265"
+      "2024-06-27, 21:04:33",
+      "https://news.ycombinator.com/item?id=40815086"
     ],
     [
-      "Can You Make It Bigger? – A Journey in Building Collapsable Arcade Cabinets",
-      "https://www.leighhack.org/blog/2024/arcade_cabinet/"
+      "Rounding Percentages",
+      "https://tavianator.com/2024/percent.html"
     ]
   ]
 ]
