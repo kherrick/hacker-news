@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-01](index.md)
 
+* [2024-07-01, 23:26:05](https://news.ycombinator.com/item?id=40851919) - [Getting the World Record in Hatetris (2022)](https://hallofdreams.org/posts/hatetris/)
+* [2024-07-01, 23:23:13](https://news.ycombinator.com/item?id=40851895) - [Code Reviews Do Find Bugs](https://two-wrongs.com/code-reviews-do-find-bugs.html)
 * [2024-07-01, 22:45:39](https://news.ycombinator.com/item?id=40851638) - [Improving Your Zig Language Server Experience](https://kristoff.it/blog/improving-your-zls-experience/)
 * [2024-07-01, 22:44:17](https://news.ycombinator.com/item?id=40851630) - [syntaqx/cookie: Cookies, but with structs, for happiness](https://github.com/syntaqx/cookie)
 * [2024-07-01, 22:30:31](https://news.ycombinator.com/item?id=40851530) - [We are at our most creative just before we fall asleep, scientists say](https://www.weforum.org/agenda/2022/01/creativity-hotspot-just-before-sleep/)
@@ -97,4 +99,5 @@
 * [2024-07-01, 01:30:11](https://news.ycombinator.com/item?id=40841838) - [Microsoft lays hands on login data: Beware of the new Outlook](https://www.heise.de/en/news/Microsoft-lays-hands-on-login-data-Beware-of-the-new-Outlook-9608798.html)
 * [2024-07-01, 00:48:21](https://news.ycombinator.com/item?id=40841651) - [DOJ to offer Boeing \"sweetheart\" plea deal in pursuit of criminal charges](https://www.cnn.com/2024/06/30/business/boeing-plea-deal/index.html)
 * [2024-07-01, 00:47:45](https://news.ycombinator.com/item?id=40841649) - [Userland Rootkits Are Lame](https://grugq.substack.com/p/userland-rootkits-are-lame)
+* [2024-07-01, 00:24:27](https://news.ycombinator.com/item?id=40841542) - [Conway's Game of Life for curved surfaces (2012)](https://0fps.net/2012/11/19/conways-game-of-life-for-curved-surfaces-part-1/)
 * [2024-07-01, 00:15:19](https://news.ycombinator.com/item?id=40841502) - [A Model of a Mind](https://tylerneylon.com/a/mind_model/mind_model.html)
