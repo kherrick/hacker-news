@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-01](index.md)
 
+* [2024-07-01, 02:29:28](https://news.ycombinator.com/item?id=40842082) - [Richat Structure](https://earthobservatory.nasa.gov/images/92071/richat-structure)
 * [2024-07-01, 02:28:04](https://news.ycombinator.com/item?id=40842079) - [Report shows that AAA games for iPhone and iPad aren't a hit with users](https://9to5mac.com/2024/06/28/aaa-games-iphone-ipad-arent-a-hit/)
 * [2024-07-01, 02:03:37](https://news.ycombinator.com/item?id=40841980) - [Pipes: A spiritual successor to Yahoo Pipes](https://www.pipes.digital/docs)
 * [2024-07-01, 01:30:11](https://news.ycombinator.com/item?id=40841838) - [Microsoft lays hands on login data: Beware of the new Outlook](https://www.heise.de/en/news/Microsoft-lays-hands-on-login-data-Beware-of-the-new-Outlook-9608798.html)
