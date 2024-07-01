@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-07-01](index.md)
 
+* [2024-07-01, 16:00:15](https://news.ycombinator.com/item?id=40847076) - [US Supreme Court throws out rulings on state laws regulating social media](https://www.reuters.com/legal/us-supreme-court-set-decide-fate-texas-florida-social-media-laws-2024-07-01/)
 * [2024-07-01, 15:38:08](https://news.ycombinator.com/item?id=40846845) - [Graham Essays: Full Collection of PG Essays in ePub, PDF and Markdowng](https://github.com/ofou/graham-essays)
 * [2024-07-01, 15:01:49](https://news.ycombinator.com/item?id=40846428) - [Ask HN: Who is hiring? (July 2024)](https://news.ycombinator.com/item?id=40846428)
 * [2024-07-01, 14:04:53](https://news.ycombinator.com/item?id=40845951) - [Welcome to Ladybird](https://ladybird.org/)
+* [2024-07-01, 14:04:12](https://news.ycombinator.com/item?id=40845945) - [Quantum is unimportant to post-quantum](https://blog.trailofbits.com/2024/07/01/quantum-is-unimportant-to-post-quantum/)
 * [2024-07-01, 13:48:53](https://news.ycombinator.com/item?id=40845842) - [Facebook and Instagram's 'pay or consent' ad model violates the DMA, says the EU](https://www.theverge.com/2024/7/1/24189796/eu-meta-dma-violation-pay-consent-ads-model)
 * [2024-07-01, 13:37:58](https://news.ycombinator.com/item?id=40845760) - [Building A YC Interview Bot That Produces Question we got on our Interview](https://blog.lytix.co/posts/yc-interviewer-bot)
 * [2024-07-01, 13:13:35](https://news.ycombinator.com/item?id=40845559) - [17 Years, $700M Wasted: The Collapse of New York's Traffic Moonshot](https://www.wsj.com/us-news/new-york-congestion-pricing-collapse-traffic-7687ccaf)
