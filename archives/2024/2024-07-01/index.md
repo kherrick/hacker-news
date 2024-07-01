@@ -11,6 +11,7 @@
 * [2024-07-01, 21:55:02](https://news.ycombinator.com/item?id=40851187) - [Show HN: WhoDB – Streamlined, Lightweight Database Management with a Sleek UI/UX](https://github.com/clidey/whodb)
 * [2024-07-01, 21:49:39](https://news.ycombinator.com/item?id=40851130) - [A Proof of Proof by Infinite Descent](http://relatedwork.blogspot.com/2024/07/a-proof-of-proof-by-infinite-descent.html)
 * [2024-07-01, 21:31:31](https://news.ycombinator.com/item?id=40850947) - [Run Chromium on Vercel without external services](https://chromium-on-vercel.vercel.app)
+* [2024-07-01, 21:29:52](https://news.ycombinator.com/item?id=40850923) - [Japan Wants To Build A 311-Mile Cargo Conveyor Belt due a lack of truck drivers](https://www.carscoops.com/2024/07/japan-wants-to-build-a-311-mile-cargo-conveyor-belt-because-its-running-out-of-delivery-drivers/)
 * [2024-07-01, 20:57:06](https://news.ycombinator.com/item?id=40850588) - [Big Tech's playbook for swallowing the AI industry](https://www.theverge.com/2024/7/1/24190060/amazon-adept-ai-acquisition-playbook-microsoft-inflection)
 * [2024-07-01, 20:30:50](https://news.ycombinator.com/item?id=40850313) - [Venezuela is first Andean country to lose all of its glaciers](https://www.nbcnews.com/news/latino/-great-sadness-venezuela-first-andean-country-lose-glaciers-rcna153784)
 * [2024-07-01, 20:22:04](https://news.ycombinator.com/item?id=40850231) - [Journal retracts all 23 articles in special issue](https://retractionwatch.com/2024/07/01/we-authors-paid-a-heavy-price-journal-retracts-all-23-articles-in-special-issue/)

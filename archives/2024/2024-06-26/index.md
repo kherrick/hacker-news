@@ -110,5 +110,6 @@
 * [2024-06-26, 01:01:19](https://news.ycombinator.com/item?id=40795405) - [My spiciest take on tech hiring](https://www.haskellforall.com/2024/06/my-spiciest-take-on-tech-hiring.html)
 * [2024-06-26, 01:00:57](https://news.ycombinator.com/item?id=40795404) - [Brazil's Supreme Court Decriminalizes Marijuana](https://www.bloomberg.com/news/articles/2024-06-25/brazil-supreme-court-decriminalizes-marijuana-for-personal-use)
 * [2024-06-26, 00:53:57](https://news.ycombinator.com/item?id=40795368) - [Loneliness trajectories are associated with midlife conspiracist worldviews](https://www.nature.com/articles/s41467-024-47113-x)
+* [2024-06-26, 00:36:43](https://news.ycombinator.com/item?id=40795267) - [AI Love Island – multi agent text based dating simulation](https://www.sabrina.dev/p/ai-love-island-multiagent-dating-simulation-v1)
 * [2024-06-26, 00:27:49](https://news.ycombinator.com/item?id=40795227) - [The Album Art of Phil Hartman(n)](https://www.conorherbert.com/music/the-album-art-of-phil-hartmann)
 * [2024-06-26, 00:04:08](https://news.ycombinator.com/item?id=40795127) - [Show HN: SmokeScanner – Using cigarette price arbitrage to find free flights](https://www.smokescanner.com)
