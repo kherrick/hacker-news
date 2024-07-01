@@ -55,6 +55,7 @@
 * [2024-06-30, 11:52:02](https://news.ycombinator.com/item?id=40836685) - [How the 1904 Marathon Became One of the Weirdest Olympic Events of All Time](https://www.smithsonianmag.com/history/how-the-1904-marathon-became-one-of-the-weirdest-olympic-events-of-all-time-14910747/)
 * [2024-06-30, 11:41:24](https://news.ycombinator.com/item?id=40836648) - [Immune response study explains why some people don't get Covid-19](https://news.ycombinator.com/item?id=40836648)
 * [2024-06-30, 11:19:26](https://news.ycombinator.com/item?id=40836564) - [Open-Source Perplexity – Omniplex](https://github.com/Omniplex-ai/omniplex)
+* [2024-06-30, 11:17:13](https://news.ycombinator.com/item?id=40836559) - [The Cutest Monopoly](https://thehustle.co/originals/the-worlds-cutest-monopoly)
 * [2024-06-30, 09:58:22](https://news.ycombinator.com/item?id=40836183) - [An Analog Network of Resistors Promises Machine Learning Without a Processor](https://www.hackster.io/news/an-analog-network-of-resistors-promises-machine-learning-without-a-processor-researchers-say-d9cb0655b7a0)
 * [2024-06-30, 09:42:15](https://news.ycombinator.com/item?id=40836115) - [Chomsky–Schützenberger Enumeration Theorem](https://en.wikipedia.org/wiki/Chomsky%E2%80%93Sch%C3%BCtzenberger_enumeration_theorem)
 * [2024-06-30, 09:41:57](https://news.ycombinator.com/item?id=40836114) - [Duff's Device and Coroutines (2008)](https://research.swtch.com/duff)
