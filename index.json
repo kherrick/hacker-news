@@ -11,6 +11,26 @@
   ],
   [
     [
+      "2024-07-01, 02:03:37",
+      "https://news.ycombinator.com/item?id=40841980"
+    ],
+    [
+      "Pipes: A spiritual successor to Yahoo Pipes",
+      "https://www.pipes.digital/docs"
+    ]
+  ],
+  [
+    [
+      "2024-07-01, 01:30:11",
+      "https://news.ycombinator.com/item?id=40841838"
+    ],
+    [
+      "Microsoft lays hands on login data: Beware of the new Outlook",
+      "https://www.heise.de/en/news/Microsoft-lays-hands-on-login-data-Beware-of-the-new-Outlook-9608798.html"
+    ]
+  ],
+  [
+    [
       "2024-07-01, 00:48:21",
       "https://news.ycombinator.com/item?id=40841651"
     ],
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=40841649"
     ],
     [
-      "Userland Rootkits Are Lame",
+      "Userland rootkits are lame (2022)",
       "https://grugq.substack.com/p/userland-rootkits-are-lame"
     ]
   ],
@@ -61,16 +81,6 @@
   ],
   [
     [
-      "2024-06-30, 21:55:04",
-      "https://news.ycombinator.com/item?id=40840699"
-    ],
-    [
-      "Google Arts and Culture site I didn't know existed",
-      "https://artsandculture.google.com/"
-    ]
-  ],
-  [
-    [
       "2024-06-30, 21:20:45",
       "https://news.ycombinator.com/item?id=40840488"
     ],
@@ -91,21 +101,11 @@
   ],
   [
     [
-      "2024-06-30, 20:03:05",
-      "https://news.ycombinator.com/item?id=40839877"
-    ],
-    [
-      "Extreme Measures Needed to Scale Chips",
-      "https://spectrum.ieee.org/chip-scaling"
-    ]
-  ],
-  [
-    [
       "2024-06-30, 19:58:46",
       "https://news.ycombinator.com/item?id=40839830"
     ],
     [
-      "A Large-Scale Structured Database of a Century of Historical News",
+      "Newswire: A large-scale structured database of a century of historical news",
       "https://arxiv.org/abs/2406.09490"
     ]
   ],
@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2024-06-30, 18:53:18",
+      "https://news.ycombinator.com/item?id=40839208"
+    ],
+    [
+      "Writing GUI apps for Windows is painful",
+      "https://tulach.cc/writing-gui-apps-for-windows-is-painful/"
+    ]
+  ],
+  [
+    [
       "2024-06-30, 18:24:34",
       "https://news.ycombinator.com/item?id=40838945"
     ],
@@ -131,12 +141,32 @@
   ],
   [
     [
+      "2024-06-30, 17:42:02",
+      "https://news.ycombinator.com/item?id=40838635"
+    ],
+    [
+      "The Byte Order Fiasco (2021)",
+      "https://justine.lol/endian.html"
+    ]
+  ],
+  [
+    [
       "2024-06-30, 17:00:14",
       "https://news.ycombinator.com/item?id=40838327"
     ],
     [
       "Bitmovin (YC S15) is hiring video solution architects in the US",
       "https://bitmovin.com/careers/senior-solutions-engineer-us-7504149002"
+    ]
+  ],
+  [
+    [
+      "2024-06-30, 16:38:08",
+      "https://news.ycombinator.com/item?id=40838167"
+    ],
+    [
+      "How to get root access to your Sleep Number bed",
+      "https://dillan.org/articles/how-to-get-root-access-to-your-sleep-number-bed"
     ]
   ],
   [
@@ -191,26 +221,6 @@
   ],
   [
     [
-      "2024-06-30, 01:07:13",
-      "https://news.ycombinator.com/item?id=40834440"
-    ],
-    [
-      "The good, the bad, and the weird (2018)",
-      "https://blog.trailofbits.com/2018/10/26/the-good-the-bad-and-the-weird/"
-    ]
-  ],
-  [
-    [
-      "2024-06-29, 23:27:02",
-      "https://news.ycombinator.com/item?id=40834012"
-    ],
-    [
-      "Swiss Broadcasting Corporation to pull plug on FM radio",
-      "https://www.swissinfo.ch/eng/life-aging/swiss-broadcasting-corporation-to-pull-plug-on-fm-radio/81956760"
-    ]
-  ],
-  [
-    [
       "2024-06-29, 23:17:53",
       "https://news.ycombinator.com/item?id=40833960"
     ],
@@ -227,26 +237,6 @@
     [
       "The super effectiveness of Pokémon embeddings using only raw JSON and images",
       "https://minimaxir.com/2024/06/pokemon-embeddings/"
-    ]
-  ],
-  [
-    [
-      "2024-06-29, 16:56:51",
-      "https://news.ycombinator.com/item?id=40831904"
-    ],
-    [
-      "Show HN: Pickcode – Free online code editor for kids",
-      "https://pickcode.io"
-    ]
-  ],
-  [
-    [
-      "2024-06-29, 13:34:55",
-      "https://news.ycombinator.com/item?id=40830395"
-    ],
-    [
-      "Text for Proofing Fonts (2020)",
-      "https://www.typography.com/blog/text-for-proofing-fonts"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Butterflies flew 2,600 miles across the Atlantic without stopping",
       "https://www.smithsonianmag.com/smart-news/these-stunning-butterflies-flew-2600-miles-across-the-atlantic-ocean-without-stopping-180984602/"
+    ]
+  ],
+  [
+    [
+      "2024-06-28, 13:21:05",
+      "https://news.ycombinator.com/item?id=40820369"
+    ],
+    [
+      "Our great database migration",
+      "https://shepherdinsurance.com/blog/the-great-database-migration"
     ]
   ],
   [
