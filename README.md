@@ -9,7 +9,6 @@
 * [2024-07-01, 08:57:26](https://news.ycombinator.com/item?id=40843867) - [Show HN: I created an After Effects alternative](https://pikimov.com/)
 * [2024-07-01, 08:53:04](https://news.ycombinator.com/item?id=40843848) - [My finetuned models beat OpenAI's GPT-4](https://mlops.systems/posts/2024-07-01-full-finetuned-model-evaluation.html)
 * [2024-07-01, 08:40:54](https://news.ycombinator.com/item?id=40843778) - [RegreSSHion: RCE in OpenSSH's server, on glibc-based Linux systems](https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt)
-* [2024-07-01, 08:20:09](https://news.ycombinator.com/item?id=40843653) - [Sieve: Cache eviction can be simple, effective, and scalable](https://www.usenix.org/publications/loginonline/sieve-cache-eviction-can-be-simple-effective-and-scalable)
 * [2024-07-01, 05:47:05](https://news.ycombinator.com/item?id=40842898) - [Quaternions in Signal and Image Processing](https://ieeexplore.ieee.org/document/10243497)
 * [2024-07-01, 05:39:57](https://news.ycombinator.com/item?id=40842867) - [Programmers Should Never Trust Anyone, Not Even Themselves](https://carbon-steel.github.io/jekyll/update/2024/06/19/abstractions.html)
 * [2024-07-01, 05:24:23](https://news.ycombinator.com/item?id=40842762) - [A Better Merge Workflow with Jujutsu](https://ofcr.se/jujutsu-merge-workflow)
@@ -29,6 +28,7 @@
 * [2024-06-30, 04:54:17](https://news.ycombinator.com/item?id=40835223) - [The physics of airplane flight](https://10maurycy10.github.io/misc/the_physics_of_flight/)
 * [2024-06-30, 04:39:11](https://news.ycombinator.com/item?id=40835181) - [Art and Artifice](https://harpers.org/archive/2024/07/art-and-artifice-donna-tartt/)
 * [2024-06-29, 23:27:02](https://news.ycombinator.com/item?id=40834012) - [Swiss Broadcasting Corporation to pull plug on FM radio](https://www.swissinfo.ch/eng/life-aging/swiss-broadcasting-corporation-to-pull-plug-on-fm-radio/81956760)
+* [2024-06-29, 11:18:37](https://news.ycombinator.com/item?id=40829494) - [LosslessCut: The Swiss army knife of lossless video/audio editing](https://github.com/mifi/lossless-cut)
 * [2024-06-28, 00:25:20](https://news.ycombinator.com/item?id=40816631) - [Surprising Phosphate Finding in NASA's Osiris-Rex Asteroid Sample](https://www.nasa.gov/missions/osiris-rex/surprising-phosphate-finding-in-nasas-osiris-rex-asteroid-sample/)
 
 ## [Archives](archives/index.md)
