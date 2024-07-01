@@ -1,12 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-01, 09:39:05](https://news.ycombinator.com/item?id=40844095) - [What makes a good tree? We used AI to ask birds](https://theconversation.com/what-makes-a-good-tree-we-used-ai-to-ask-birds-233281)
 * [2024-07-01, 09:15:43](https://news.ycombinator.com/item?id=40843966) - [Webneko – a desktop screenmate ported to web](https://webneko.net/)
 * [2024-07-01, 08:57:26](https://news.ycombinator.com/item?id=40843867) - [Show HN: I created an After Effects alternative](https://pikimov.com/)
 * [2024-07-01, 08:53:04](https://news.ycombinator.com/item?id=40843848) - [My finetuned models beat OpenAI's GPT-4](https://mlops.systems/posts/2024-07-01-full-finetuned-model-evaluation.html)
 * [2024-07-01, 08:40:54](https://news.ycombinator.com/item?id=40843778) - [RegreSSHion: RCE in OpenSSH's server, on glibc-based Linux systems](https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt)
 * [2024-07-01, 08:31:58](https://news.ycombinator.com/item?id=40843720) - [Cities Need More Trees](https://herman.bearblog.dev/cities-need-more-trees/)
 * [2024-07-01, 08:25:15](https://news.ycombinator.com/item?id=40843683) - [Show HN: An open-source alternative to Bitly](https://github.com/ccbikai/Sink)
-* [2024-07-01, 06:09:55](https://news.ycombinator.com/item?id=40843019) - [Can a law make social media less 'addictive'?](https://www.bbc.com/future/article/20240626-can-a-law-make-social-media-less-addictive)
 * [2024-07-01, 06:01:39](https://news.ycombinator.com/item?id=40842968) - [How Google migrated billions of lines of code from Perforce to Piper](https://graphite.dev/blog/google-perforce-to-piper-migration)
 * [2024-07-01, 05:52:10](https://news.ycombinator.com/item?id=40842917) - [Show HN: BerqWP – Automatically Optimize Core Web Vitals for WordPress](https://berqwp.com/)
 * [2024-07-01, 05:47:05](https://news.ycombinator.com/item?id=40842898) - [Quaternions in Signal and Image Processing](https://ieeexplore.ieee.org/document/10243497)
