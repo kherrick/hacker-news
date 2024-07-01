@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-07-01](index.md)
 
+* [2024-07-01, 20:22:04](https://news.ycombinator.com/item?id=40850231) - [Journal retracts all 23 articles in special issue](https://retractionwatch.com/2024/07/01/we-authors-paid-a-heavy-price-journal-retracts-all-23-articles-in-special-issue/)
 * [2024-07-01, 19:48:20](https://news.ycombinator.com/item?id=40849840) - [When Rand Made Magic in Santa Monica](https://asteriskmag.com/issues/06/when-rand-made-magic-in-santa-monica)
 * [2024-07-01, 19:30:36](https://news.ycombinator.com/item?id=40849627) - [An open letter to the United Nations](https://open-internet-governance.org/letter)
 * [2024-07-01, 19:24:05](https://news.ycombinator.com/item?id=40849545) - [Climate change to shift tropical rains northward, suggests computer modeling](https://smartwatermagazine.com/news/university-california-riverside/climate-change-shift-tropical-rains-northward-suggests-computer)
+* [2024-07-01, 19:10:52](https://news.ycombinator.com/item?id=40849363) - [A Git story: Not so fun this time](https://blog.brachiosoft.com/en/posts/git/)
 * [2024-07-01, 18:46:07](https://news.ycombinator.com/item?id=40848998) - [Ask HN: what are examples of successful \"open-source alternatives\"?](https://news.ycombinator.com/item?id=40848998)
 * [2024-07-01, 18:29:13](https://news.ycombinator.com/item?id=40848797) - [Pharma firms stash profits in Europe's tax havens](https://www.investigate-europe.eu/posts/deadly-prices-pharma-firms-stash-profits-in-europes-tax-havens-as-patients-struggle-with-drug-prices)
 * [2024-07-01, 18:26:13](https://news.ycombinator.com/item?id=40848757) - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4381552006)
