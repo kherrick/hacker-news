@@ -28,7 +28,7 @@
 * [2024-06-27, 21:04:33](https://news.ycombinator.com/item?id=40815086) - [Rounding Percentages](https://tavianator.com/2024/percent.html)
 * [2024-06-27, 17:36:28](https://news.ycombinator.com/item?id=40812974) - [Show HN: Perlin noise Wang tile generator](https://github.com/Gollum999/perlin-wang)
 * [2024-06-27, 13:47:31](https://news.ycombinator.com/item?id=40810488) - [Optimizing JavaScript for Fun and for Profit](https://romgrk.com/posts/optimizing-javascript)
-* [2024-06-26, 02:52:11](https://news.ycombinator.com/item?id=40795967) - [Story of USSR's First Surfer](https://www.theinertia.com/surf/this-is-the-story-of-the-first-russian-surfer/)
+* [2024-06-26, 19:32:37](https://news.ycombinator.com/item?id=40803685) - [The Mind Is a Metaphor: About the Database](http://metaphors.lib.virginia.edu/about)
 * [2024-06-25, 23:23:59](https://news.ycombinator.com/item?id=40794832) - [A Quantum Leap in Factoring](https://cacm.acm.org/news/a-quantum-leap-in-factoring/)
 
 ## [Archives](archives/index.md)
