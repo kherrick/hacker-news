@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2024-07-01](index.md)
 
 * [2024-07-01, 08:40:54](https://news.ycombinator.com/item?id=40843778) - [RegreSSHion: RCE in OpenSSH's server, on glibc-based Linux systems](https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt)
+* [2024-07-01, 08:36:00](https://news.ycombinator.com/item?id=40843749) - [An Open Letter to the United Nations](https://open-internet-governance.org/letter)
 * [2024-07-01, 08:31:58](https://news.ycombinator.com/item?id=40843720) - [Cities Need More Trees](https://herman.bearblog.dev/cities-need-more-trees/)
+* [2024-07-01, 08:25:15](https://news.ycombinator.com/item?id=40843683) - [Show HN: An open-source alternative to Bitly](https://github.com/ccbikai/Sink)
 * [2024-07-01, 06:53:33](https://news.ycombinator.com/item?id=40843239) - [Multivitamin does not improve longevity](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2820369)
 * [2024-07-01, 06:44:30](https://news.ycombinator.com/item?id=40843202) - [Falsehoods Software Developers Believe About Event-Driven Systems](https://dimtion.fr/blog/falsehoods-event-driven/)
 * [2024-07-01, 06:09:55](https://news.ycombinator.com/item?id=40843019) - [Can a law make social media less 'addictive'?](https://www.bbc.com/future/article/20240626-can-a-law-make-social-media-less-addictive)
