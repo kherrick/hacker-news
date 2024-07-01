@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-07-01](index.md)
 
+* [2024-07-01, 16:56:32](https://news.ycombinator.com/item?id=40847699) - [Show HN: Doggo – A powerful, human-friendly DNS client for the command line](https://doggo.mrkaran.dev/docs/)
+* [2024-07-01, 16:28:27](https://news.ycombinator.com/item?id=40847376) - [HTML-ivating your Django web app with Htmx, AlpineJS, and streaming HTML](https://www.youtube.com/watch?v=kYV8K71pY64)
+* [2024-07-01, 16:11:23](https://news.ycombinator.com/item?id=40847204) - [The Windows Console gets support for Sixel images](https://github.com/microsoft/terminal/pull/17421)
 * [2024-07-01, 16:10:28](https://news.ycombinator.com/item?id=40847190) - [Eating meat with lower carbon footprint often means killing more animals](https://ourworldindata.org/what-are-the-trade-offs-between-animal-welfare-and-the-environmental-impact-of-meat)
 * [2024-07-01, 16:00:15](https://news.ycombinator.com/item?id=40847076) - [US Supreme Court throws out rulings on state laws regulating social media](https://www.reuters.com/legal/us-supreme-court-set-decide-fate-texas-florida-social-media-laws-2024-07-01/)
 * [2024-07-01, 15:41:41](https://news.ycombinator.com/item?id=40846883) - [What Goes Around Comes Around and Around (On Databases) [pdf]](https://db.cs.cmu.edu/papers/2024/whatgoesaround-sigmodrec2024.pdf)
 * [2024-07-01, 15:38:08](https://news.ycombinator.com/item?id=40846845) - [Graham Essays: Full Collection of PG Essays in ePub, PDF and Markdowng](https://github.com/ofou/graham-essays)
+* [2024-07-01, 15:36:58](https://news.ycombinator.com/item?id=40846834) - [Show HN: Programming Is Easier Than Most People Think](https://easylang.online/apps/tut_learn.html?v=2407)
 * [2024-07-01, 15:01:49](https://news.ycombinator.com/item?id=40846428) - [Ask HN: Who is hiring? (July 2024)](https://news.ycombinator.com/item?id=40846428)
 * [2024-07-01, 15:01:47](https://news.ycombinator.com/item?id=40846426) - [Ask HN: Who wants to be hired? (July 2024)](https://news.ycombinator.com/item?id=40846426)
 * [2024-07-01, 14:34:18](https://news.ycombinator.com/item?id=40846205) - [\"Computers Are Useless\" and Other Sayings](https://billwadge.com/2024/06/29/computers-are-useless-and-other-sayings/)
