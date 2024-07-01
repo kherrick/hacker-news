@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-01, 19:30:36](https://news.ycombinator.com/item?id=40849627) - [An open letter to the United Nations](https://open-internet-governance.org/letter)
+* [2024-07-01, 19:24:05](https://news.ycombinator.com/item?id=40849545) - [Climate change to shift tropical rains northward, suggests computer modeling](https://smartwatermagazine.com/news/university-california-riverside/climate-change-shift-tropical-rains-northward-suggests-computer)
 * [2024-07-01, 18:29:13](https://news.ycombinator.com/item?id=40848797) - [Pharma firms stash profits in Europe's tax havens](https://www.investigate-europe.eu/posts/deadly-prices-pharma-firms-stash-profits-in-europes-tax-havens-as-patients-struggle-with-drug-prices)
 * [2024-07-01, 18:26:13](https://news.ycombinator.com/item?id=40848757) - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4381552006)
 * [2024-07-01, 17:19:52](https://news.ycombinator.com/item?id=40847963) - [Supreme Court rules ex-presidents have immunity for official acts](https://apnews.com/article/supreme-court-trump-capitol-riot-immunity-2dc0d1c2368d404adc0054151490f542)
@@ -24,7 +25,6 @@
 * [2024-06-30, 21:08:43](https://news.ycombinator.com/item?id=40840396) - [Convolutions, Fast Fourier Transform and polynomials (2022)](https://www.alvarorevuelta.com/posts/fft-polynomials)
 * [2024-06-30, 20:58:32](https://news.ycombinator.com/item?id=40840315) - [Unification in Elixir](https://www.ericpfahl.com/from-pattern-matching-to-unification/)
 * [2024-06-30, 19:58:46](https://news.ycombinator.com/item?id=40839830) - [Newswire: A large-scale structured database of a century of historical news](https://arxiv.org/abs/2406.09490)
-* [2024-06-30, 16:38:08](https://news.ycombinator.com/item?id=40838167) - [How to get root access to your Sleep Number bed](https://dillan.org/articles/how-to-get-root-access-to-your-sleep-number-bed)
 * [2024-06-30, 04:54:17](https://news.ycombinator.com/item?id=40835223) - [The physics of airplane flight](https://10maurycy10.github.io/misc/the_physics_of_flight/)
 * [2024-06-28, 00:25:20](https://news.ycombinator.com/item?id=40816631) - [Surprising Phosphate Finding in NASA's Osiris-Rex Asteroid Sample](https://www.nasa.gov/missions/osiris-rex/surprising-phosphate-finding-in-nasas-osiris-rex-asteroid-sample/)
 * [2024-06-27, 22:56:54](https://news.ycombinator.com/item?id=40816076) - [The Leopold and Loeb case, a century Later](https://www.smithsonianmag.com/history/the-crime-of-the-century-a-century-later-180984586/)
