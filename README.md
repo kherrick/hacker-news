@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-01, 06:09:55](https://news.ycombinator.com/item?id=40843019) - [Can a law make social media less 'addictive'?](https://www.bbc.com/future/article/20240626-can-a-law-make-social-media-less-addictive)
 * [2024-07-01, 06:01:39](https://news.ycombinator.com/item?id=40842968) - [How Google migrated billions of lines of code from Perforce to Piper](https://graphite.dev/blog/google-perforce-to-piper-migration)
 * [2024-07-01, 05:39:57](https://news.ycombinator.com/item?id=40842867) - [Programmers Should Never Trust Anyone, Not Even Themselves](https://carbon-steel.github.io/jekyll/update/2024/06/19/abstractions.html)
 * [2024-07-01, 05:28:38](https://news.ycombinator.com/item?id=40842794) - [Boeing Agrees to Buy Spirit AeroSystems, a Longtime Supplier](https://www.nytimes.com/2024/07/01/business/boeing-spirit-aerosystems-acquisition.html)
@@ -23,7 +24,6 @@
 * [2024-06-30, 14:42:03](https://news.ycombinator.com/item?id=40837411) - [The weirdest QNX bug I've encountered (2021)](https://mental-reverb.com/blog.php?id=29)
 * [2024-06-30, 04:54:17](https://news.ycombinator.com/item?id=40835223) - [The physics of airplane flight](https://10maurycy10.github.io/misc/the_physics_of_flight/)
 * [2024-06-30, 04:39:11](https://news.ycombinator.com/item?id=40835181) - [Art and Artifice](https://harpers.org/archive/2024/07/art-and-artifice-donna-tartt/)
-* [2024-06-29, 23:27:02](https://news.ycombinator.com/item?id=40834012) - [Swiss Broadcasting Corporation to pull plug on FM radio](https://www.swissinfo.ch/eng/life-aging/swiss-broadcasting-corporation-to-pull-plug-on-fm-radio/81956760)
 * [2024-06-29, 17:03:53](https://news.ycombinator.com/item?id=40831964) - [The super effectiveness of Pokémon embeddings using only raw JSON and images](https://minimaxir.com/2024/06/pokemon-embeddings/)
 * [2024-06-29, 11:18:37](https://news.ycombinator.com/item?id=40829494) - [LosslessCut: The Swiss army knife of lossless video/audio editing](https://github.com/mifi/lossless-cut)
 * [2024-06-29, 08:42:02](https://news.ycombinator.com/item?id=40828754) - [Semantics and scheduling for machine knitting compilers (2023)](https://textiles-lab.github.io/publications/2023-knitout-semantics/)

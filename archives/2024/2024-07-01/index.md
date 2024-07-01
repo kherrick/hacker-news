@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-01](index.md)
 
+* [2024-07-01, 06:09:55](https://news.ycombinator.com/item?id=40843019) - [Can a law make social media less 'addictive'?](https://www.bbc.com/future/article/20240626-can-a-law-make-social-media-less-addictive)
 * [2024-07-01, 06:01:39](https://news.ycombinator.com/item?id=40842968) - [How Google migrated billions of lines of code from Perforce to Piper](https://graphite.dev/blog/google-perforce-to-piper-migration)
 * [2024-07-01, 05:39:57](https://news.ycombinator.com/item?id=40842867) - [Programmers Should Never Trust Anyone, Not Even Themselves](https://carbon-steel.github.io/jekyll/update/2024/06/19/abstractions.html)
 * [2024-07-01, 05:28:38](https://news.ycombinator.com/item?id=40842794) - [Boeing Agrees to Buy Spirit AeroSystems, a Longtime Supplier](https://www.nytimes.com/2024/07/01/business/boeing-spirit-aerosystems-acquisition.html)
