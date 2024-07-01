@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-01, 11:31:55",
+      "https://news.ycombinator.com/item?id=40844741"
+    ],
+    [
+      "Beware of Squarespace: Our Business Lost $10k Due to Their Incompetence",
+      "https://news.ycombinator.com/item?id=40844741"
+    ]
+  ],
+  [
+    [
       "2024-07-01, 10:51:50",
       "https://news.ycombinator.com/item?id=40844492"
     ],
@@ -201,16 +211,6 @@
   ],
   [
     [
-      "2024-06-30, 21:20:45",
-      "https://news.ycombinator.com/item?id=40840488"
-    ],
-    [
-      "Chaos Engineering in Front End Development: Enhancing Application Resilience",
-      "https://omid.dev/2024/07/01/chaos-engineering-in-frontend-development/"
-    ]
-  ],
-  [
-    [
       "2024-06-30, 21:08:43",
       "https://news.ycombinator.com/item?id=40840396"
     ],
@@ -241,22 +241,22 @@
   ],
   [
     [
-      "2024-06-30, 18:53:18",
-      "https://news.ycombinator.com/item?id=40839208"
-    ],
-    [
-      "Writing GUI apps for Windows is painful",
-      "https://tulach.cc/writing-gui-apps-for-windows-is-painful/"
-    ]
-  ],
-  [
-    [
       "2024-06-30, 16:38:08",
       "https://news.ycombinator.com/item?id=40838167"
     ],
     [
       "How to get root access to your Sleep Number bed",
       "https://dillan.org/articles/how-to-get-root-access-to-your-sleep-number-bed"
+    ]
+  ],
+  [
+    [
+      "2024-06-30, 15:11:08",
+      "https://news.ycombinator.com/item?id=40837610"
+    ],
+    [
+      "Show HN: Drop-in SQS replacement based on SQLite",
+      "https://github.com/poundifdef/SmoothMQ"
     ]
   ],
   [
