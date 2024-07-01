@@ -4,8 +4,15 @@
 
 ### [Archives](../../index.md) for [2024-07-01](index.md)
 
+* [2024-07-01, 12:01:02](https://news.ycombinator.com/item?id=40844917) - [Optery (YC W22) Is Hiring Back End Engineers (Python and Django) & Sales (Remote)](https://www.ycombinator.com/companies/optery/jobs)
+* [2024-07-01, 11:52:25](https://news.ycombinator.com/item?id=40844868) - [Pakistani court sentences man to death for social media post](https://apnews.com/article/pakistan-blasphemy-christian-death-sentence-mob-9fbaf36d5c78659d58a414f7f048ce8a)
+* [2024-07-01, 11:52:02](https://news.ycombinator.com/item?id=40844864) - [Leonardo da Vinci: 'Poor is the pupil who does not surpass his master.'](https://www.socratic-method.com/quote-meanings-and-interpretations/leonardo-da-vinci-poor-is-the-pupil-who-does-not-surpass-his-master)
+* [2024-07-01, 11:33:53](https://news.ycombinator.com/item?id=40844748) - [Over 100K+ Sites Hit by Polyfill.io Supply Chain Attack](https://www.infoq.com/news/2024/06/polyfill-supply-chain-attack/)
 * [2024-07-01, 11:31:55](https://news.ycombinator.com/item?id=40844741) - [Beware of Squarespace: Our Business Lost $10k Due to Their Incompetence](https://news.ycombinator.com/item?id=40844741)
+* [2024-07-01, 11:30:36](https://news.ycombinator.com/item?id=40844727) - [Product Hunt Upvotes Are Worthless: Real Customers Aren't There](https://news.ycombinator.com/item?id=40844727)
+* [2024-07-01, 10:59:11](https://news.ycombinator.com/item?id=40844536) - [Watching \"Grizzly Man\" with a Bear Biologist](https://www.backpacker.com/survival/watching-grizzly-man-with-bear-biologist-wesley-larson/)
 * [2024-07-01, 10:51:50](https://news.ycombinator.com/item?id=40844492) - [Uncomfortable truth: How close is \"positivity culture\" to delusion and denial?](https://jakeseliger.com/2024/06/24/uncomfortable-truth-how-close-is-positivity-culture-to-delusion-and-denial/)
+* [2024-07-01, 10:41:42](https://news.ycombinator.com/item?id=40844447) - [Diagonalism, the Cosmic Right and the Conspiracy Smoothie](https://bellacaledonia.org.uk/2024/06/26/diagonalism-the-cosmic-right-and-the-conspiracy-smoothie/)
 * [2024-07-01, 10:37:29](https://news.ycombinator.com/item?id=40844436) - [Show HN: Find Visa Sponsorsip and Relocation Support Jobs](https://www.relocateforwork.com/)
 * [2024-07-01, 10:29:26](https://news.ycombinator.com/item?id=40844386) - [DOJ readying criminal charges against Boeing for deadly 737 MAX crashes](https://www.politico.com/news/2024/06/30/doj-criminal-charges-boeing-00165992)
 * [2024-07-01, 09:39:05](https://news.ycombinator.com/item?id=40844095) - [What makes a good tree? We used AI to ask birds](https://theconversation.com/what-makes-a-good-tree-we-used-ai-to-ask-birds-233281)
