@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-07-01, 00:48:21",
+      "https://news.ycombinator.com/item?id=40841651"
+    ],
+    [
+      "DOJ to offer Boeing \"sweetheart\" plea deal in pursuit of criminal charges",
+      "https://www.cnn.com/2024/06/30/business/boeing-plea-deal/index.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-30, 23:50:10",
+      "https://news.ycombinator.com/item?id=40841414"
+    ],
+    [
+      "Nyquest NY8A051H – Or getting 60 microcontrollers for $1 (die shot)",
+      "https://zeptobars.com/en/read/Nyquest-Technology-NY8A051H-8051-smallest-microcontroller"
+    ]
+  ],
+  [
+    [
+      "2024-06-30, 23:40:07",
+      "https://news.ycombinator.com/item?id=40841355"
+    ],
+    [
+      "Matters Computational [pdf]",
+      "http://www.jjj.de/fxt/#fxtbook"
+    ]
+  ],
+  [
+    [
       "2024-06-30, 21:55:04",
       "https://news.ycombinator.com/item?id=40840699"
     ],
@@ -41,16 +71,6 @@
   ],
   [
     [
-      "2024-06-30, 19:15:38",
-      "https://news.ycombinator.com/item?id=40839398"
-    ],
-    [
-      "Why monotonous repetition is unsatisfying",
-      "https://patterns.architexturez.net/doc/az-cf-172605"
-    ]
-  ],
-  [
-    [
       "2024-06-30, 18:58:58",
       "https://news.ycombinator.com/item?id=40839262"
     ],
@@ -67,16 +87,6 @@
     [
       "A simplified Python simulation of diffusion",
       "https://www.thepythoncodingstack.com/p/python-diffusion-simulation-demo-turtle"
-    ]
-  ],
-  [
-    [
-      "2024-06-30, 17:42:02",
-      "https://news.ycombinator.com/item?id=40838635"
-    ],
-    [
-      "The Byte Order Fiasco (2021)",
-      "https://justine.lol/endian.html"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "Rodney Brooks on limitations of generative AI",
       "https://techcrunch.com/2024/06/29/mit-robotics-pioneer-rodney-brooks-thinks-people-are-vastly-overestimating-generative-ai/"
-    ]
-  ],
-  [
-    [
-      "2024-06-30, 05:07:53",
-      "https://news.ycombinator.com/item?id=40835274"
-    ],
-    [
-      "Weekend projects: getting silly with C",
-      "https://lcamtuf.substack.com/p/weekend-projects-getting-silly-with"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2024-06-27, 19:49:18",
-      "https://news.ycombinator.com/item?id=40814333"
+      "2024-06-26, 16:26:25",
+      "https://news.ycombinator.com/item?id=40801710"
     ],
     [
-      "A buried ancient Egyptian port reveals connections between distant civilizations",
-      "https://www.smithsonianmag.com/history/hidden-ancient-egyptian-port-reveals-180984485/"
+      "Y292B Bug",
+      "https://dpolakovic.space/blogs/y292b"
     ]
   ]
 ]
