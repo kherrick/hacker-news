@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-07-01, 20:57:06",
-      "https://news.ycombinator.com/item?id=40850588"
-    ],
-    [
-      "Big Tech's playbook for swallowing the AI industry",
-      "https://www.theverge.com/2024/7/1/24190060/amazon-adept-ai-acquisition-playbook-microsoft-inflection"
-    ]
-  ],
-  [
-    [
       "2024-07-01, 20:30:50",
       "https://news.ycombinator.com/item?id=40850313"
     ],
@@ -37,26 +27,6 @@
     [
       "When RAND made magic in Santa Monica",
       "https://asteriskmag.com/issues/06/when-rand-made-magic-in-santa-monica"
-    ]
-  ],
-  [
-    [
-      "2024-07-01, 19:10:52",
-      "https://news.ycombinator.com/item?id=40849363"
-    ],
-    [
-      "A Git story: Not so fun this time",
-      "https://blog.brachiosoft.com/en/posts/git/"
-    ]
-  ],
-  [
-    [
-      "2024-07-01, 18:29:13",
-      "https://news.ycombinator.com/item?id=40848797"
-    ],
-    [
-      "Pharma firms stash profits in Europe's tax havens",
-      "https://www.investigate-europe.eu/posts/deadly-prices-pharma-firms-stash-profits-in-europes-tax-havens-as-patients-struggle-with-drug-prices"
     ]
   ],
   [
@@ -181,16 +151,6 @@
   ],
   [
     [
-      "2024-07-01, 09:32:56",
-      "https://news.ycombinator.com/item?id=40844056"
-    ],
-    [
-      "Show HN: AI assisted image editing with audio instructions",
-      "https://github.com/ShaShekhar/aaiela"
-    ]
-  ],
-  [
-    [
       "2024-07-01, 08:57:26",
       "https://news.ycombinator.com/item?id=40843867"
     ],
@@ -221,16 +181,6 @@
   ],
   [
     [
-      "2024-07-01, 05:47:05",
-      "https://news.ycombinator.com/item?id=40842898"
-    ],
-    [
-      "Quaternions in Signal and Image Processing",
-      "https://ieeexplore.ieee.org/document/10243497"
-    ]
-  ],
-  [
-    [
       "2024-07-01, 02:03:37",
       "https://news.ycombinator.com/item?id=40841980"
     ],
@@ -241,12 +191,12 @@
   ],
   [
     [
-      "2024-06-30, 20:58:32",
-      "https://news.ycombinator.com/item?id=40840315"
+      "2024-06-30, 11:26:13",
+      "https://news.ycombinator.com/item?id=40836594"
     ],
     [
-      "Unification in Elixir",
-      "https://www.ericpfahl.com/from-pattern-matching-to-unification/"
+      "Reflection for C++26",
+      "https://isocpp.org/files/papers/P2996R4.html"
     ]
   ],
   [
@@ -261,12 +211,62 @@
   ],
   [
     [
+      "2024-06-30, 09:56:10",
+      "https://news.ycombinator.com/item?id=40836174"
+    ],
+    [
+      "Automating my gate door via a smart relay",
+      "https://arslan.io/2024/06/30/automating-my-gate-door-with-zigbee-relay/"
+    ]
+  ],
+  [
+    [
+      "2024-06-30, 08:38:24",
+      "https://news.ycombinator.com/item?id=40835889"
+    ],
+    [
+      "An unexpected journey into Microsoft Defender's signature World",
+      "https://retooling.io/blog/an-unexpected-journey-into-microsoft-defenders-signature-world"
+    ]
+  ],
+  [
+    [
+      "2024-06-28, 03:43:33",
+      "https://news.ycombinator.com/item?id=40817487"
+    ],
+    [
+      "CPS in Hoot",
+      "https://wingolog.org/archives/2024/05/27/cps-in-hoot"
+    ]
+  ],
+  [
+    [
       "2024-06-27, 21:04:33",
       "https://news.ycombinator.com/item?id=40815086"
     ],
     [
       "Rounding Percentages",
       "https://tavianator.com/2024/percent.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-27, 17:36:28",
+      "https://news.ycombinator.com/item?id=40812974"
+    ],
+    [
+      "Show HN: Perlin noise Wang tile generator",
+      "https://github.com/Gollum999/perlin-wang"
+    ]
+  ],
+  [
+    [
+      "2024-06-27, 13:47:31",
+      "https://news.ycombinator.com/item?id=40810488"
+    ],
+    [
+      "Optimizing JavaScript for Fun and for Profit",
+      "https://romgrk.com/posts/optimizing-javascript"
     ]
   ],
   [
