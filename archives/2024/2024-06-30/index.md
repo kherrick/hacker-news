@@ -15,6 +15,7 @@
 * [2024-06-30, 21:48:07](https://news.ycombinator.com/item?id=40840656) - [California approves final high-speed rail link connecting San Francisco to LA](https://www.sfchronicle.com/bayarea/article/california-high-speed-rail-19542125.php)
 * [2024-06-30, 21:20:45](https://news.ycombinator.com/item?id=40840488) - [Chaos Engineering in Front End Development: Enhancing Application Resilience](https://omid.dev/2024/07/01/chaos-engineering-in-frontend-development/)
 * [2024-06-30, 21:08:43](https://news.ycombinator.com/item?id=40840396) - [Convolutions, Fast Fourier Transform and Polynomials](https://www.alvarorevuelta.com/posts/fft-polynomials)
+* [2024-06-30, 20:58:32](https://news.ycombinator.com/item?id=40840315) - [Unification in Elixir](https://www.ericpfahl.com/from-pattern-matching-to-unification/)
 * [2024-06-30, 20:03:05](https://news.ycombinator.com/item?id=40839877) - [Extreme Measures Needed to Scale Chips](https://spectrum.ieee.org/chip-scaling)
 * [2024-06-30, 19:58:46](https://news.ycombinator.com/item?id=40839830) - [A Large-Scale Structured Database of a Century of Historical News](https://arxiv.org/abs/2406.09490)
 * [2024-06-30, 19:24:48](https://news.ycombinator.com/item?id=40839484) - [Microsoft Alerts More Customers to Email Theft in Expanding](https://www.securityweek.com/microsoft-alerts-more-customers-to-email-theft-in-expanding-midnight-blizzard-hack/)
