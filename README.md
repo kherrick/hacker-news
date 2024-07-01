@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-01, 17:15:11](https://news.ycombinator.com/item?id=40847909) - [Delivering Signals for Fun and Profit (2001)](https://lcamtuf.coredump.cx/signals.txt)
 * [2024-07-01, 16:56:32](https://news.ycombinator.com/item?id=40847699) - [Show HN: Doggo – A powerful, human-friendly DNS client for the command line](https://doggo.mrkaran.dev/docs/)
 * [2024-07-01, 16:28:27](https://news.ycombinator.com/item?id=40847376) - [HTML-ivating your Django web app with Htmx, AlpineJS, and streaming HTML](https://www.youtube.com/watch?v=kYV8K71pY64)
 * [2024-07-01, 16:11:23](https://news.ycombinator.com/item?id=40847204) - [The Windows Console gets support for Sixel images](https://github.com/microsoft/terminal/pull/17421)
@@ -10,6 +11,7 @@
 * [2024-07-01, 14:04:12](https://news.ycombinator.com/item?id=40845945) - [Quantum is unimportant to post-quantum](https://blog.trailofbits.com/2024/07/01/quantum-is-unimportant-to-post-quantum/)
 * [2024-07-01, 13:12:03](https://news.ycombinator.com/item?id=40845542) - [Writing HTML by hand is easier than debugging your static site generator](https://logicgrimoire.wordpress.com/2024/07/01/writing-html-by-hand-is-easier-than-debugging-your-static-site-generator/)
 * [2024-07-01, 12:47:38](https://news.ycombinator.com/item?id=40845304) - [My Python code is a neural network](https://blog.gabornyeki.com/2024-07-my-python-code-is-a-neural-network/)
+* [2024-07-01, 12:38:20](https://news.ycombinator.com/item?id=40845208) - [Cubernetes](https://justingarrison.com/blog/2022-07-06-cubernetes/)
 * [2024-07-01, 12:01:02](https://news.ycombinator.com/item?id=40844917) - [Optery (YC W22) Is Hiring Back End Engineers (Python and Django) & Sales (Remote)](https://www.ycombinator.com/companies/optery/jobs)
 * [2024-07-01, 11:44:33](https://news.ycombinator.com/item?id=40844825) - [A write-ahead log is not a universal part of durability](https://notes.eatonphil.com/2024-07-01-a-write-ahead-log-is-not-a-universal-part-of-durability.html)
 * [2024-07-01, 09:32:56](https://news.ycombinator.com/item?id=40844056) - [Show HN: AI assisted image editing with audio instructions](https://github.com/ShaShekhar/aaiela)
@@ -24,10 +26,8 @@
 * [2024-06-30, 21:08:43](https://news.ycombinator.com/item?id=40840396) - [Convolutions, Fast Fourier Transform and polynomials (2022)](https://www.alvarorevuelta.com/posts/fft-polynomials)
 * [2024-06-30, 20:58:32](https://news.ycombinator.com/item?id=40840315) - [Unification in Elixir](https://www.ericpfahl.com/from-pattern-matching-to-unification/)
 * [2024-06-30, 19:58:46](https://news.ycombinator.com/item?id=40839830) - [Newswire: A large-scale structured database of a century of historical news](https://arxiv.org/abs/2406.09490)
-* [2024-06-30, 18:53:18](https://news.ycombinator.com/item?id=40839208) - [Writing GUI apps for Windows is painful](https://tulach.cc/writing-gui-apps-for-windows-is-painful/)
 * [2024-06-30, 16:38:08](https://news.ycombinator.com/item?id=40838167) - [How to get root access to your Sleep Number bed](https://dillan.org/articles/how-to-get-root-access-to-your-sleep-number-bed)
 * [2024-06-30, 04:54:17](https://news.ycombinator.com/item?id=40835223) - [The physics of airplane flight](https://10maurycy10.github.io/misc/the_physics_of_flight/)
-* [2024-06-30, 04:39:11](https://news.ycombinator.com/item?id=40835181) - [Art and Artifice](https://harpers.org/archive/2024/07/art-and-artifice-donna-tartt/)
 * [2024-06-28, 00:25:20](https://news.ycombinator.com/item?id=40816631) - [Surprising Phosphate Finding in NASA's Osiris-Rex Asteroid Sample](https://www.nasa.gov/missions/osiris-rex/surprising-phosphate-finding-in-nasas-osiris-rex-asteroid-sample/)
 * [2024-06-27, 22:56:54](https://news.ycombinator.com/item?id=40816076) - [The Leopold and Loeb case, a century Later](https://www.smithsonianmag.com/history/the-crime-of-the-century-a-century-later-180984586/)
 

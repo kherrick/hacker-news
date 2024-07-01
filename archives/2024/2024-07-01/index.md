@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-01](index.md)
 
+* [2024-07-01, 17:15:11](https://news.ycombinator.com/item?id=40847909) - [Delivering Signals for Fun and Profit (2001)](https://lcamtuf.coredump.cx/signals.txt)
 * [2024-07-01, 16:56:32](https://news.ycombinator.com/item?id=40847699) - [Show HN: Doggo – A powerful, human-friendly DNS client for the command line](https://doggo.mrkaran.dev/docs/)
 * [2024-07-01, 16:28:27](https://news.ycombinator.com/item?id=40847376) - [HTML-ivating your Django web app with Htmx, AlpineJS, and streaming HTML](https://www.youtube.com/watch?v=kYV8K71pY64)
 * [2024-07-01, 16:11:23](https://news.ycombinator.com/item?id=40847204) - [The Windows Console gets support for Sixel images](https://github.com/microsoft/terminal/pull/17421)
@@ -22,6 +23,7 @@
 * [2024-07-01, 13:13:35](https://news.ycombinator.com/item?id=40845559) - [17 Years, $700M Wasted: The Collapse of New York's Traffic Moonshot](https://www.wsj.com/us-news/new-york-congestion-pricing-collapse-traffic-7687ccaf)
 * [2024-07-01, 13:12:03](https://news.ycombinator.com/item?id=40845542) - [Writing HTML by hand is easier than debugging your static site generator](https://logicgrimoire.wordpress.com/2024/07/01/writing-html-by-hand-is-easier-than-debugging-your-static-site-generator/)
 * [2024-07-01, 12:47:38](https://news.ycombinator.com/item?id=40845304) - [My Python code is a neural network](https://blog.gabornyeki.com/2024-07-my-python-code-is-a-neural-network/)
+* [2024-07-01, 12:38:20](https://news.ycombinator.com/item?id=40845208) - [Cubernetes](https://justingarrison.com/blog/2022-07-06-cubernetes/)
 * [2024-07-01, 12:26:15](https://news.ycombinator.com/item?id=40845097) - [3D Printable PC/NAS Cases](https://www.youtube.com/@makerunit)
 * [2024-07-01, 12:11:22](https://news.ycombinator.com/item?id=40844982) - [OhMyForm discontinued, how can open source projects be sustainable?](https://old.reddit.com/r/opensource/comments/1dsrdx9/ohmyform_discontinued_how_can_open_source/)
 * [2024-07-01, 12:01:02](https://news.ycombinator.com/item?id=40844917) - [Optery (YC W22) Is Hiring Back End Engineers (Python and Django) & Sales (Remote)](https://www.ycombinator.com/companies/optery/jobs)
