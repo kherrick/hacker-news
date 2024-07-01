@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-01](index.md)
 
+* [2024-07-01, 22:05:28](https://news.ycombinator.com/item?id=40851296) - [Company offers unofficial security patches for Windows 10 until 2030](https://www.tomshardware.com/software/windows/company-offers-unofficial-security-patches-for-windows-10-until-2030)
 * [2024-07-01, 21:49:39](https://news.ycombinator.com/item?id=40851130) - [A Proof of Proof by Infinite Descent](http://relatedwork.blogspot.com/2024/07/a-proof-of-proof-by-infinite-descent.html)
+* [2024-07-01, 21:31:31](https://news.ycombinator.com/item?id=40850947) - [Run Chromium on Vercel without external services](https://chromium-on-vercel.vercel.app)
 * [2024-07-01, 20:57:06](https://news.ycombinator.com/item?id=40850588) - [Big Tech's playbook for swallowing the AI industry](https://www.theverge.com/2024/7/1/24190060/amazon-adept-ai-acquisition-playbook-microsoft-inflection)
 * [2024-07-01, 20:30:50](https://news.ycombinator.com/item?id=40850313) - [Venezuela is first Andean country to lose all of its glaciers](https://www.nbcnews.com/news/latino/-great-sadness-venezuela-first-andean-country-lose-glaciers-rcna153784)
 * [2024-07-01, 20:22:04](https://news.ycombinator.com/item?id=40850231) - [Journal retracts all 23 articles in special issue](https://retractionwatch.com/2024/07/01/we-authors-paid-a-heavy-price-journal-retracts-all-23-articles-in-special-issue/)

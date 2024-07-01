@@ -1,12 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-01, 22:05:28](https://news.ycombinator.com/item?id=40851296) - [Company offers unofficial security patches for Windows 10 until 2030](https://www.tomshardware.com/software/windows/company-offers-unofficial-security-patches-for-windows-10-until-2030)
 * [2024-07-01, 21:49:39](https://news.ycombinator.com/item?id=40851130) - [A Proof of Proof by Infinite Descent](http://relatedwork.blogspot.com/2024/07/a-proof-of-proof-by-infinite-descent.html)
+* [2024-07-01, 21:31:31](https://news.ycombinator.com/item?id=40850947) - [Run Chromium on Vercel without external services](https://chromium-on-vercel.vercel.app)
 * [2024-07-01, 20:30:50](https://news.ycombinator.com/item?id=40850313) - [Venezuela is first Andean country to lose all of its glaciers](https://www.nbcnews.com/news/latino/-great-sadness-venezuela-first-andean-country-lose-glaciers-rcna153784)
-* [2024-07-01, 20:22:04](https://news.ycombinator.com/item?id=40850231) - [Journal retracts all 23 articles in special issue](https://retractionwatch.com/2024/07/01/we-authors-paid-a-heavy-price-journal-retracts-all-23-articles-in-special-issue/)
 * [2024-07-01, 19:48:20](https://news.ycombinator.com/item?id=40849840) - [When RAND made magic in Santa Monica](https://asteriskmag.com/issues/06/when-rand-made-magic-in-santa-monica)
-* [2024-07-01, 19:10:52](https://news.ycombinator.com/item?id=40849363) - [A Git story: Not so fun this time](https://blog.brachiosoft.com/en/posts/git/)
 * [2024-07-01, 18:26:13](https://news.ycombinator.com/item?id=40848757) - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4381552006)
-* [2024-07-01, 17:19:52](https://news.ycombinator.com/item?id=40847963) - [Supreme Court rules ex-presidents have immunity for official acts](https://apnews.com/article/supreme-court-trump-capitol-riot-immunity-2dc0d1c2368d404adc0054151490f542)
 * [2024-07-01, 16:56:32](https://news.ycombinator.com/item?id=40847699) - [Show HN: Doggo – A powerful, human-friendly DNS client for the command line](https://doggo.mrkaran.dev/docs/)
 * [2024-07-01, 16:29:53](https://news.ycombinator.com/item?id=40847392) - [Using SIMD for Parallel Processing in Rust](https://nrempel.com/using-simd-for-parallel-processing-in-rust/)
 * [2024-07-01, 16:00:56](https://news.ycombinator.com/item?id=40847085) - [Working Title (Insurance)](https://www.bitsaboutmoney.com/archive/working-title-insurance/)
@@ -29,7 +28,8 @@
 * [2024-06-27, 21:04:33](https://news.ycombinator.com/item?id=40815086) - [Rounding Percentages](https://tavianator.com/2024/percent.html)
 * [2024-06-27, 17:36:28](https://news.ycombinator.com/item?id=40812974) - [Show HN: Perlin noise Wang tile generator](https://github.com/Gollum999/perlin-wang)
 * [2024-06-27, 13:47:31](https://news.ycombinator.com/item?id=40810488) - [Optimizing JavaScript for Fun and for Profit](https://romgrk.com/posts/optimizing-javascript)
-* [2024-06-26, 19:32:37](https://news.ycombinator.com/item?id=40803685) - [The Mind Is a Metaphor: About the Database](http://metaphors.lib.virginia.edu/about)
+* [2024-06-26, 02:52:11](https://news.ycombinator.com/item?id=40795967) - [Story of USSR's First Surfer](https://www.theinertia.com/surf/this-is-the-story-of-the-first-russian-surfer/)
+* [2024-06-25, 23:23:59](https://news.ycombinator.com/item?id=40794832) - [A Quantum Leap in Factoring](https://cacm.acm.org/news/a-quantum-leap-in-factoring/)
 
 ## [Archives](archives/index.md)
 
