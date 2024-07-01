@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-25](index.md)
 
 * [2024-06-25, 23:56:49](https://news.ycombinator.com/item?id=40795075) - [Ubuntu 24.10 Now Defaults to Wayland on Nvidia](https://www.phoronix.com/news/Ubuntu-24.10-GDM-Wayland-NVIDIA)
+* [2024-06-25, 23:23:59](https://news.ycombinator.com/item?id=40794832) - [A Quantum Leap in Factoring](https://cacm.acm.org/news/a-quantum-leap-in-factoring/)
 * [2024-06-25, 23:20:56](https://news.ycombinator.com/item?id=40794812) - [JEP 401: Value Classes and Objects (Preview)](https://openjdk.org/jeps/401)
 * [2024-06-25, 23:15:02](https://news.ycombinator.com/item?id=40794786) - [A brief introduction to interval arithmetic](https://buttondown.email/hillelwayne/archive/a-brief-introduction-to-interval-arithmetic/)
 * [2024-06-25, 23:03:32](https://news.ycombinator.com/item?id=40794697) - [Man flies to Florida to attack another player over online gaming dispute](https://apnews.com/article/online-gaming-attack-florida-1b7220a68fe4001bc7913acf07189875)
