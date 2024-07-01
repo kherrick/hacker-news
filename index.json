@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-07-01, 16:29:53",
+      "https://news.ycombinator.com/item?id=40847392"
+    ],
+    [
+      "Using SIMD for Parallel Processing in Rust",
+      "https://nrempel.com/using-simd-for-parallel-processing-in-rust/"
+    ]
+  ],
+  [
+    [
       "2024-07-01, 16:28:27",
       "https://news.ycombinator.com/item?id=40847376"
     ],
@@ -81,6 +91,16 @@
   ],
   [
     [
+      "2024-07-01, 14:38:36",
+      "https://news.ycombinator.com/item?id=40846242"
+    ],
+    [
+      "Show HN: Edna, note taking app for developers",
+      "https://edna.arslexis.io/"
+    ]
+  ],
+  [
+    [
       "2024-07-01, 14:04:12",
       "https://news.ycombinator.com/item?id=40845945"
     ],
@@ -107,16 +127,6 @@
     [
       "My Python code is a neural network",
       "https://blog.gabornyeki.com/2024-07-my-python-code-is-a-neural-network/"
-    ]
-  ],
-  [
-    [
-      "2024-07-01, 12:38:20",
-      "https://news.ycombinator.com/item?id=40845208"
-    ],
-    [
-      "Cubernetes",
-      "https://justingarrison.com/blog/2022-07-06-cubernetes/"
     ]
   ],
   [
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2024-07-01, 05:39:57",
-      "https://news.ycombinator.com/item?id=40842867"
-    ],
-    [
-      "Programmers Should Never Trust Anyone, Not Even Themselves",
-      "https://carbon-steel.github.io/jekyll/update/2024/06/19/abstractions.html"
-    ]
-  ],
-  [
-    [
       "2024-07-01, 03:26:09",
       "https://news.ycombinator.com/item?id=40842275"
     ],
@@ -271,16 +271,6 @@
   ],
   [
     [
-      "2024-06-30, 04:54:17",
-      "https://news.ycombinator.com/item?id=40835223"
-    ],
-    [
-      "The physics of airplane flight",
-      "https://10maurycy10.github.io/misc/the_physics_of_flight/"
-    ]
-  ],
-  [
-    [
       "2024-06-28, 00:25:20",
       "https://news.ycombinator.com/item?id=40816631"
     ],
@@ -297,6 +287,16 @@
     [
       "The Leopold and Loeb case, a century Later",
       "https://www.smithsonianmag.com/history/the-crime-of-the-century-a-century-later-180984586/"
+    ]
+  ],
+  [
+    [
+      "2024-06-26, 12:34:07",
+      "https://news.ycombinator.com/item?id=40799265"
+    ],
+    [
+      "Can You Make It Bigger? – A Journey in Building Collapsable Arcade Cabinets",
+      "https://www.leighhack.org/blog/2024/arcade_cabinet/"
     ]
   ]
 ]
