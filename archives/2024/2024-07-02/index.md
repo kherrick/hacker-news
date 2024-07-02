@@ -6,6 +6,7 @@
 
 * [2024-07-02, 15:21:38](https://news.ycombinator.com/item?id=40857537) - [U.S. dollar climbs to new 38-year peak vs. yen](https://www.asahi.com/ajw/articles/15328532)
 * [2024-07-02, 15:12:12](https://news.ycombinator.com/item?id=40857432) - [Ask HN: What is your experience with Claude 3.5?](https://news.ycombinator.com/item?id=40857432)
+* [2024-07-02, 15:05:44](https://news.ycombinator.com/item?id=40857388) - [BusyBeaver(5) is now known to be 47,176,870](https://scottaaronson.blog/?p=8088)
 * [2024-07-02, 15:04:43](https://news.ycombinator.com/item?id=40857383) - [A WFH 'culture war' has broken out across Europe](https://fortune.com/europe/2024/07/02/uk-most-wfh-friendly-country-europe-culture-war-france-lags-behind/)
 * [2024-07-02, 15:03:25](https://news.ycombinator.com/item?id=40857369) - [Figma Disables AI App Design Tool After It Copied Apple's Weather App](https://www.404media.co/figma-disables-ai-app-design-tool-after-it-copied-apples-weather-app/)
 * [2024-07-02, 14:48:02](https://news.ycombinator.com/item?id=40857236) - [50 Years of Rubik's Cube](https://www.rubiks.com/history#timeline)
@@ -16,6 +17,7 @@
 * [2024-07-02, 14:27:31](https://news.ycombinator.com/item?id=40857041) - [With fifth busy beaver, researchers approach computation's limits](https://www.quantamagazine.org/amateur-mathematicians-find-fifth-busy-beaver-turing-machine-20240702/)
 * [2024-07-02, 14:23:56](https://news.ycombinator.com/item?id=40857009) - [Show HN: Adding Mistral Codestral and GPT-4o to Jupyter Notebooks](https://github.com/pretzelai/pretzelai/blob/main/README.md)
 * [2024-07-02, 14:22:22](https://news.ycombinator.com/item?id=40857001) - [Python packaging scenarios by the creators of ruff](https://github.com/astral-sh/packse)
+* [2024-07-02, 14:15:43](https://news.ycombinator.com/item?id=40856930) - [Tesla reports Q2 delivery and production figures, beating estimates](https://www.teslarati.com/tesla-tsla-reports-q2-delivery-and-production-figures-beating-estimates/)
 * [2024-07-02, 14:06:37](https://news.ycombinator.com/item?id=40856842) - [Ginkgo Bioworks 'A Hoax for the Ages,'](https://www.fiercebiotech.com/medtech/ginkgo-bioworks-suffers-short-attack-firm-calling-it-a-hoax-for-ages)
 * [2024-07-02, 13:47:07](https://news.ycombinator.com/item?id=40856616) - [Ant Design – the second most popular React UI framework](https://github.com/ant-design/ant-design)
 * [2024-07-02, 13:36:32](https://news.ycombinator.com/item?id=40856515) - [A.I. Begins Ushering in an Age of Killer Robots](https://www.nytimes.com/2024/07/02/technology/ukraine-war-ai-weapons.html)
