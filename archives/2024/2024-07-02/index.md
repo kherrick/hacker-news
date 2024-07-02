@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-02](index.md)
 
 * [2024-07-02, 17:11:16](https://news.ycombinator.com/item?id=40858583) - [Bruce Bastian, WordPerfect co-creator, has died](https://www.wsj.com/tech/bruce-bastian-wordperfect-lgbtq-activist-dies-at-76-6da293f4)
+* [2024-07-02, 17:11:16](https://news.ycombinator.com/item?id=40858583) - [Bruce Bastian, WordPerfect co-creator, has died](https://www.heraldextra.com/news/local/2024/jun/17/bruce-bastian-byu-alum-turned-tech-pioneer-and-equality-advocate-dies-at-76/)
 * [2024-07-02, 17:01:14](https://news.ycombinator.com/item?id=40858482) - [OmniAI (YC W24) Is Hiring a Founding Engineer in SF](https://www.workatastartup.com/jobs/67540)
 * [2024-07-02, 16:14:56](https://news.ycombinator.com/item?id=40858050) - [Google rejected me and now I'm building a search engine](https://daoudclarke.net/search%20engines/2024/07/02/google-rejected-me)
 * [2024-07-02, 15:26:32](https://news.ycombinator.com/item?id=40857584) - [Total Annihilation Graphics Engine (2012)](http://mavorsrants.blogspot.com/2012/04/total-annihilation-graphics-engine.html)
