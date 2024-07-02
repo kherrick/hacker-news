@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-02, 09:14:36](https://news.ycombinator.com/item?id=40854836) - [Welcome to Ladybird, a truly independent web browser](https://ladybird.org/index.html)
+* [2024-07-02, 08:45:22](https://news.ycombinator.com/item?id=40854721) - [Microsoft Updated Phi-3](https://twitter.com/reach_vb/status/1808056108319179012)
 * [2024-07-02, 08:26:48](https://news.ycombinator.com/item?id=40854623) - [DETRs Beat YOLOs on Real-Time Object Detection](https://zhao-yian.github.io/RTDETR/)
 * [2024-07-02, 07:26:08](https://news.ycombinator.com/item?id=40854319) - [Diff-pdf: tool to visually compare two PDFs](https://github.com/vslavik/diff-pdf)
 * [2024-07-02, 05:41:25](https://news.ycombinator.com/item?id=40853845) - [Mako – fast, production-grade web bundler based on Rust](https://makojs.dev/blog/mako-open-sourced)
@@ -8,7 +9,6 @@
 * [2024-07-02, 04:40:08](https://news.ycombinator.com/item?id=40853620) - [Did Turing prove the undecidability of the halting problem?](https://arxiv.org/abs/2407.00680)
 * [2024-07-01, 23:59:05](https://news.ycombinator.com/item?id=40852155) - [Spending too much time optimizing for loops](https://octavelarose.github.io/2024/05/29/to-do-inlining.html)
 * [2024-07-01, 23:26:05](https://news.ycombinator.com/item?id=40851919) - [Getting the World Record in Hatetris (2022)](https://hallofdreams.org/posts/hatetris/)
-* [2024-07-01, 23:23:13](https://news.ycombinator.com/item?id=40851895) - [Code reviews do find bugs](https://two-wrongs.com/code-reviews-do-find-bugs.html)
 * [2024-07-01, 21:49:39](https://news.ycombinator.com/item?id=40851130) - [A proof of proof by infinite descent](http://relatedwork.blogspot.com/2024/07/a-proof-of-proof-by-infinite-descent.html)
 * [2024-07-01, 19:48:20](https://news.ycombinator.com/item?id=40849840) - [When RAND made magic in Santa Monica](https://asteriskmag.com/issues/06/when-rand-made-magic-in-santa-monica)
 * [2024-07-01, 16:56:32](https://news.ycombinator.com/item?id=40847699) - [Show HN: Doggo – A powerful, human-friendly DNS client for the command line](https://doggo.mrkaran.dev/docs/)
