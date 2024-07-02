@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-07-02, 03:14:28",
-      "https://news.ycombinator.com/item?id=40853235"
+      "2024-07-02, 02:33:27",
+      "https://news.ycombinator.com/item?id=40853045"
     ],
     [
-      "Figma AI looks rather trained on existing apps",
-      "https://twitter.com/asallen/status/1807675146020454808"
+      "A tickbox doubled the US mortality rates",
+      "https://ourworldindata.org/rise-us-maternal-mortality-rates-measurement"
+    ]
+  ],
+  [
+    [
+      "2024-07-02, 01:37:25",
+      "https://news.ycombinator.com/item?id=40852751"
+    ],
+    [
+      "Google Predicts the Flu Again",
+      "https://arxiv.org/abs/2407.00085"
     ]
   ],
   [
@@ -47,16 +57,6 @@
     [
       "Code reviews do find bugs",
       "https://two-wrongs.com/code-reviews-do-find-bugs.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-01, 22:45:39",
-      "https://news.ycombinator.com/item?id=40851638"
-    ],
-    [
-      "Improving your Zig language server experience",
-      "https://kristoff.it/blog/improving-your-zls-experience/"
     ]
   ],
   [
