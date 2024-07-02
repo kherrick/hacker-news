@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-02, 18:52:32](https://news.ycombinator.com/item?id=40859429) - [Nuclear spectroscopy breakthrough could rewrite fundamental constants of nature](https://newsroom.ucla.edu/releases/nuclear-spectroscopy-breakthrough-could-rewrite-fundamental-constants-of-nature)
-* [2024-07-02, 18:24:57](https://news.ycombinator.com/item?id=40859188) - [New Idaho library rules, adults only, must show ID](https://old.reddit.com/r/Libraries/comments/1dt7e5d/new_sign_in_idaho_public_libraries_requiring_a_id/)
 * [2024-07-02, 17:11:16](https://news.ycombinator.com/item?id=40858583) - [Bruce Bastian, WordPerfect co-creator, has died](https://www.heraldextra.com/news/local/2024/jun/17/bruce-bastian-byu-alum-turned-tech-pioneer-and-equality-advocate-dies-at-76/)
 * [2024-07-02, 17:01:14](https://news.ycombinator.com/item?id=40858482) - [OmniAI (YC W24) Is Hiring a Founding Engineer in SF](https://www.workatastartup.com/jobs/67540)
 * [2024-07-02, 15:19:25](https://news.ycombinator.com/item?id=40857517) - [Meta 3D Gen](https://ai.meta.com/research/publications/meta-3d-gen/)
@@ -26,6 +25,7 @@
 * [2024-07-01, 14:38:36](https://news.ycombinator.com/item?id=40846242) - [Show HN: Edna, note taking app for developers](https://edna.arslexis.io/)
 * [2024-07-01, 08:57:26](https://news.ycombinator.com/item?id=40843867) - [Show HN: I created an After Effects alternative](https://pikimov.com/)
 * [2024-06-30, 21:37:28](https://news.ycombinator.com/item?id=40840586) - [The Mysterious, Deep-Dwelling Microbes That Sculpt Our Planet](https://www.nytimes.com/2024/06/24/magazine/earth-geomicrobiology-microbes.html)
+* [2024-06-30, 12:24:39](https://news.ycombinator.com/item?id=40836776) - [Show HN: ViperIDE – MicroPython IDE for web and mobile](https://github.com/vshymanskyy/ViperIDE)
 * [2024-06-30, 08:38:24](https://news.ycombinator.com/item?id=40835889) - [An unexpected journey into Microsoft Defender's signature World](https://retooling.io/blog/an-unexpected-journey-into-microsoft-defenders-signature-world)
 * [2024-06-30, 04:43:21](https://news.ycombinator.com/item?id=40835197) - [The Soviet Union's Monster Mi-6 Helicopter Airliner](https://www.twz.com/news-features/the-story-of-the-monster-mi-6-helicopter-airliner)
 * [2024-06-28, 17:48:30](https://news.ycombinator.com/item?id=40823060) - [Paper Trails](https://aeon.co/essays/how-archives-can-make-or-break-a-philosophers-reputation)
