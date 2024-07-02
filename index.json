@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-07-02, 03:24:05",
-      "https://news.ycombinator.com/item?id=40853280"
-    ],
-    [
-      "Atoll islands show no widespread physical destabilization from sea-level rise (2018)",
-      "https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/wcc.557?emc=edit_nn_20240627&nl=the-morning&te=1"
-    ]
-  ],
-  [
-    [
       "2024-07-02, 03:16:08",
       "https://news.ycombinator.com/item?id=40853243"
     ],
@@ -97,6 +87,16 @@
     [
       "Show HN: Doggo – A powerful, human-friendly DNS client for the command line",
       "https://doggo.mrkaran.dev/docs/"
+    ]
+  ],
+  [
+    [
+      "2024-07-01, 16:29:53",
+      "https://news.ycombinator.com/item?id=40847392"
+    ],
+    [
+      "Using SIMD for Parallel Processing in Rust",
+      "https://nrempel.com/using-simd-for-parallel-processing-in-rust/"
     ]
   ],
   [
