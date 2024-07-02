@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-02, 05:41:25",
+      "https://news.ycombinator.com/item?id=40853845"
+    ],
+    [
+      "Mako – fast, production-grade web bundler based on Rust",
+      "https://makojs.dev/blog/mako-open-sourced"
+    ]
+  ],
+  [
+    [
+      "2024-07-02, 05:20:23",
+      "https://news.ycombinator.com/item?id=40853770"
+    ],
+    [
+      "Booting Linux Off of Google Drive",
+      "https://ersei.net/en/blog/fuse-root"
+    ]
+  ],
+  [
+    [
       "2024-07-02, 02:59:54",
       "https://news.ycombinator.com/item?id=40853181"
     ],
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2024-07-01, 16:29:53",
-      "https://news.ycombinator.com/item?id=40847392"
-    ],
-    [
-      "Using SIMD for Parallel Processing in Rust",
-      "https://nrempel.com/using-simd-for-parallel-processing-in-rust/"
-    ]
-  ],
-  [
-    [
       "2024-07-01, 16:00:56",
       "https://news.ycombinator.com/item?id=40847085"
     ],
@@ -137,16 +147,6 @@
     [
       "Show HN: Edna, note taking app for developers",
       "https://edna.arslexis.io/"
-    ]
-  ],
-  [
-    [
-      "2024-07-01, 14:04:12",
-      "https://news.ycombinator.com/item?id=40845945"
-    ],
-    [
-      "Quantum is unimportant to post-quantum",
-      "https://blog.trailofbits.com/2024/07/01/quantum-is-unimportant-to-post-quantum/"
     ]
   ],
   [
