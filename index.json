@@ -1,26 +1,6 @@
 [
   [
     [
-      "2024-07-02, 14:06:37",
-      "https://news.ycombinator.com/item?id=40856842"
-    ],
-    [
-      "Ginkgo Bioworks 'A Hoax for the Ages,'",
-      "https://www.fiercebiotech.com/medtech/ginkgo-bioworks-suffers-short-attack-firm-calling-it-a-hoax-for-ages"
-    ]
-  ],
-  [
-    [
-      "2024-07-02, 13:13:02",
-      "https://news.ycombinator.com/item?id=40856316"
-    ],
-    [
-      "The case against morning yoga, daily routines, and endless meetings",
-      "https://andrewchen.substack.com/p/10x-work-versus-1x-work"
-    ]
-  ],
-  [
-    [
       "2024-07-02, 12:36:58",
       "https://news.ycombinator.com/item?id=40856030"
     ],
@@ -87,16 +67,6 @@
     [
       "Did Turing prove the undecidability of the halting problem?",
       "https://arxiv.org/abs/2407.00680"
-    ]
-  ],
-  [
-    [
-      "2024-07-02, 01:00:43",
-      "https://news.ycombinator.com/item?id=40852568"
-    ],
-    [
-      "Big Things in Small Packages: The Charm of Japan's Kei Truck",
-      "https://www.nippon.com/en/japan-topics/g24001/"
     ]
   ],
   [
@@ -271,12 +241,32 @@
   ],
   [
     [
+      "2024-06-30, 11:26:13",
+      "https://news.ycombinator.com/item?id=40836594"
+    ],
+    [
+      "Reflection for C++26",
+      "https://isocpp.org/files/papers/P2996R4.html"
+    ]
+  ],
+  [
+    [
       "2024-06-30, 08:38:24",
       "https://news.ycombinator.com/item?id=40835889"
     ],
     [
       "An unexpected journey into Microsoft Defender's signature World",
       "https://retooling.io/blog/an-unexpected-journey-into-microsoft-defenders-signature-world"
+    ]
+  ],
+  [
+    [
+      "2024-06-30, 04:43:21",
+      "https://news.ycombinator.com/item?id=40835197"
+    ],
+    [
+      "The Soviet Union's Monster Mi-6 Helicopter Airliner",
+      "https://www.twz.com/news-features/the-story-of-the-monster-mi-6-helicopter-airliner"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "Paper Trails",
       "https://aeon.co/essays/how-archives-can-make-or-break-a-philosophers-reputation"
+    ]
+  ],
+  [
+    [
+      "2024-06-28, 03:43:33",
+      "https://news.ycombinator.com/item?id=40817487"
+    ],
+    [
+      "CPS in Hoot",
+      "https://wingolog.org/archives/2024/05/27/cps-in-hoot"
     ]
   ]
 ]
