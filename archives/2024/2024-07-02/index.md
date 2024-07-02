@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-07-02](index.md)
 
+* [2024-07-02, 21:35:07](https://news.ycombinator.com/item?id=40860643) - [Ask HN: Should I use React for a personal portfolio?](https://news.ycombinator.com/item?id=40860643)
+* [2024-07-02, 21:18:19](https://news.ycombinator.com/item?id=40860516) - [Journal retracts all 23 articles in special issue](https://link.springer.com/journal/10479/volumes-and-issues/337-1/supplement)
+* [2024-07-02, 21:18:13](https://news.ycombinator.com/item?id=40860515) - [Explainability Is Not a Game](https://cacm.acm.org/research/explainability-is-not-a-game/)
 * [2024-07-02, 21:01:13](https://news.ycombinator.com/item?id=40860363) - [Apple Poised to Get OpenAI Board Observer Role as Part of AI Pact](https://www.bloomberg.com/news/articles/2024-07-02/apple-to-get-openai-board-observer-role-as-part-of-ai-agreement)
+* [2024-07-02, 21:00:58](https://news.ycombinator.com/item?id=40860360) - [Google emissions jump nearly 50% over five years as AI use surges](https://www.ft.com/content/383719aa-df38-4ae3-ab0e-6279a897915e)
 * [2024-07-02, 20:53:38](https://news.ycombinator.com/item?id=40860310) - [America's startup boom around remote work and technology is still going strong](https://www.npr.org/sections/planet-money/2024/07/02/g-s1-7139/economy-startup-boom-america-productivity)
 * [2024-07-02, 20:34:38](https://news.ycombinator.com/item?id=40860176) - [Figma pulls AI tool after criticism that it ripped off Apple's design](https://www.theverge.com/2024/7/2/24190823/figma-ai-tool-apple-weather-app-copy)
 * [2024-07-02, 20:12:56](https://news.ycombinator.com/item?id=40860039) - [Common Lisp Documentation](http://l1sp.org/html/)
