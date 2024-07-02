@@ -11,26 +11,6 @@
   ],
   [
     [
-      "2024-07-02, 11:12:07",
-      "https://news.ycombinator.com/item?id=40855461"
-    ],
-    [
-      "Figma AI is a rip-off engine",
-      "https://daringfireball.net/linked/2024/07/01/figma-ai-ripoff-engine"
-    ]
-  ],
-  [
-    [
-      "2024-07-02, 08:45:22",
-      "https://news.ycombinator.com/item?id=40854721"
-    ],
-    [
-      "Microsoft Updated Phi-3",
-      "https://twitter.com/reach_vb/status/1808056108319179012"
-    ]
-  ],
-  [
-    [
       "2024-07-02, 07:26:08",
       "https://news.ycombinator.com/item?id=40854319"
     ],
@@ -131,6 +111,26 @@
   ],
   [
     [
+      "2024-07-01, 16:00:56",
+      "https://news.ycombinator.com/item?id=40847085"
+    ],
+    [
+      "Working Title (Insurance)",
+      "https://www.bitsaboutmoney.com/archive/working-title-insurance/"
+    ]
+  ],
+  [
+    [
+      "2024-07-01, 15:41:41",
+      "https://news.ycombinator.com/item?id=40846883"
+    ],
+    [
+      "What goes around comes around and around [pdf]",
+      "https://db.cs.cmu.edu/papers/2024/whatgoesaround-sigmodrec2024.pdf"
+    ]
+  ],
+  [
+    [
       "2024-07-01, 15:01:49",
       "https://news.ycombinator.com/item?id=40846428"
     ],
@@ -177,6 +177,16 @@
     [
       "Show HN: I created an After Effects alternative",
       "https://pikimov.com/"
+    ]
+  ],
+  [
+    [
+      "2024-07-01, 08:40:54",
+      "https://news.ycombinator.com/item?id=40843778"
+    ],
+    [
+      "RegreSSHion: RCE in OpenSSH's server, on glibc-based Linux systems",
+      "https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt"
     ]
   ],
   [
@@ -281,22 +291,12 @@
   ],
   [
     [
-      "2024-06-27, 12:51:36",
-      "https://news.ycombinator.com/item?id=40809940"
+      "2024-06-28, 03:43:33",
+      "https://news.ycombinator.com/item?id=40817487"
     ],
     [
-      "Building a Pause Button for Biology",
-      "https://www.cradle.xyz/page/problem-statement"
-    ]
-  ],
-  [
-    [
-      "2024-06-27, 10:16:04",
-      "https://news.ycombinator.com/item?id=40808976"
-    ],
-    [
-      "Five new ways to catch gravitational waves – and the secrets they'll reveal",
-      "https://www.nature.com/articles/d41586-024-02003-6"
+      "CPS in Hoot",
+      "https://wingolog.org/archives/2024/05/27/cps-in-hoot"
     ]
   ]
 ]
