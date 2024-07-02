@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-02](index.md)
 
 * [2024-07-02, 22:42:00](https://news.ycombinator.com/item?id=40861148) - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+* [2024-07-02, 22:29:04](https://news.ycombinator.com/item?id=40861057) - [Brazil data regulator bans Meta from mining data to train AI models](https://apnews.com/article/brazil-tech-meta-privacy-data-93e00b2e0e26f7cc98795dd052aea8e1)
 * [2024-07-02, 22:10:30](https://news.ycombinator.com/item?id=40860902) - [$105B Electronics Giant Sony to Launch New Bitcoin Exchange](https://bitcoinmagazine.com/business/105-billion-electronics-giant-sony-to-launch-new-bitcoin-exchange)
 * [2024-07-02, 22:08:21](https://news.ycombinator.com/item?id=40860883) - [Tech doesn't make our lives easier. It makes them faster](https://www.asomo.co/p/tech-doesnt-make-our-lives-easier)
 * [2024-07-02, 22:02:19](https://news.ycombinator.com/item?id=40860840) - [Bruce Bastian, a Founder of WordPerfect, Is Dead at 76](https://www.nytimes.com/2024/07/02/business/bruce-bastian-dead.html)
