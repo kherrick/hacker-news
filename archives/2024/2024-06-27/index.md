@@ -77,6 +77,7 @@
 * [2024-06-27, 11:47:54](https://news.ycombinator.com/item?id=40809457) - [Hawaii home mistakenly built on Bay Area woman's land to be torn down](https://www.sfgate.com/hawaii/article/hawaii-home-built-on-wrong-lot-to-be-torn-down-19541255.php)
 * [2024-06-27, 11:23:05](https://news.ycombinator.com/item?id=40809301) - [Why it takes NYC nearly 10 years to install 500 feet of pipes – Gothamist](https://gothamist.com/news/why-it-takes-nyc-nearly-10-years-to-install-500-feet-of-pipes)
 * [2024-06-27, 11:17:46](https://news.ycombinator.com/item?id=40809276) - [310-mile automated cargo conveyor will replace 25,000 trucks in Japan](https://newatlas.com/transport/cargo-conveyor-auto-logistics/)
+* [2024-06-27, 11:08:39](https://news.ycombinator.com/item?id=40809221) - [Matt Klein on the cozy corners of the internet](https://blog.mozilla.org/en/internet-culture/matt-klein-the-tiny-awards/)
 * [2024-06-27, 11:07:22](https://news.ycombinator.com/item?id=40809212) - [SpaceX building NASA craft to destroy the International Space Station](https://www.cnbc.com/2024/06/26/spacex-wins-nasa-contract-for-iss-reentry-destruction.html)
 * [2024-06-27, 10:38:51](https://news.ycombinator.com/item?id=40809069) - [The Fuggerei – the world’s first public housing (2022)](https://www.karlsnotes.com/fuggerei-the-worlds-first-public-housing/)
 * [2024-06-27, 10:29:06](https://news.ycombinator.com/item?id=40809033) - [How to think about creating a dataset for LLM fine-tuning evaluation](https://mlops.systems/posts/2024-06-25-evaluation-finetuning-manual-dataset.html)
