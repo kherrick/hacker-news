@@ -69,6 +69,7 @@
 * [2024-06-30, 09:22:27](https://news.ycombinator.com/item?id=40836049) - [Show HN: Let Grumpy AI Roast Your Startup Idea](https://maker-list.com/ideas/new)
 * [2024-06-30, 09:03:02](https://news.ycombinator.com/item?id=40835975) - [Anti-aging molecule successfully restores multiple markers of youth](https://newatlas.com/biology/tac-anti-aging-molecule/)
 * [2024-06-30, 08:38:24](https://news.ycombinator.com/item?id=40835889) - [An unexpected journey into Microsoft Defender's signature World](https://retooling.io/blog/an-unexpected-journey-into-microsoft-defenders-signature-world)
+* [2024-06-30, 08:16:47](https://news.ycombinator.com/item?id=40835814) - [Why do India and China keep fighting over this desolate terrain?](https://www.nytimes.com/2024/06/27/magazine/india-china-border.html)
 * [2024-06-30, 08:10:58](https://news.ycombinator.com/item?id=40835793) - [Figma defaults to train AI models on personal data](https://help.figma.com/hc/en-us/articles/17725942479127-Control-AI-features-and-content-training-settings)
 * [2024-06-30, 08:09:53](https://news.ycombinator.com/item?id=40835789) - [POSIX 2004 Changes](https://sortix.org/blog/posix-2024/)
 * [2024-06-30, 07:20:52](https://news.ycombinator.com/item?id=40835641) - [Volkswagen Willing to Pay $1B Just to Look at Rivian's Software](https://www.autoevolution.com/news/volkswagen-so-desperate-it-s-willing-to-pay-1-billion-just-to-look-at-rivian-s-software-235988.html)
