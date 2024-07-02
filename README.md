@@ -14,11 +14,12 @@
 * [2024-07-01, 15:01:47](https://news.ycombinator.com/item?id=40846426) - [Ask HN: Who wants to be hired? (July 2024)](https://news.ycombinator.com/item?id=40846426)
 * [2024-07-01, 14:38:36](https://news.ycombinator.com/item?id=40846242) - [Show HN: Edna, note taking app for developers](https://edna.arslexis.io/)
 * [2024-07-01, 12:47:38](https://news.ycombinator.com/item?id=40845304) - [My Python code is a neural network](https://blog.gabornyeki.com/2024-07-my-python-code-is-a-neural-network/)
-* [2024-07-01, 12:01:02](https://news.ycombinator.com/item?id=40844917) - [Optery (YC W22) Is Hiring Back End Engineers (Python and Django) & Sales (Remote)](https://www.ycombinator.com/companies/optery/jobs)
 * [2024-07-01, 08:57:26](https://news.ycombinator.com/item?id=40843867) - [Show HN: I created an After Effects alternative](https://pikimov.com/)
+* [2024-07-01, 08:53:04](https://news.ycombinator.com/item?id=40843848) - [My finetuned models beat OpenAI's GPT-4](https://mlops.systems/posts/2024-07-01-full-finetuned-model-evaluation.html)
 * [2024-07-01, 08:40:54](https://news.ycombinator.com/item?id=40843778) - [RegreSSHion: RCE in OpenSSH's server, on glibc-based Linux systems](https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt)
 * [2024-07-01, 05:24:23](https://news.ycombinator.com/item?id=40842762) - [A better merge workflow with Jujutsu](https://ofcr.se/jujutsu-merge-workflow)
 * [2024-07-01, 00:24:27](https://news.ycombinator.com/item?id=40841542) - [Conway's Game of Life for curved surfaces (2012)](https://0fps.net/2012/11/19/conways-game-of-life-for-curved-surfaces-part-1/)
+* [2024-06-30, 21:16:55](https://news.ycombinator.com/item?id=40840453) - [Greco-Buddhist art](https://en.wikipedia.org/wiki/Greco-Buddhist_art)
 * [2024-06-30, 20:48:06](https://news.ycombinator.com/item?id=40840246) - [An Accident in Space (1972)](https://www.newyorker.com/magazine/1972/11/11/apollo-13-an-accident-in-space)
 * [2024-06-30, 20:45:09](https://news.ycombinator.com/item?id=40840231) - [Weavers and Concluders: Two communication styles (2021)](https://neuroclastic.com/weavers-and-concluders-two-communication-styles-no-one-knows-exist/)
 * [2024-06-30, 13:09:03](https://news.ycombinator.com/item?id=40836960) - [Pattern of brain damage is pervasive in Navy SEALs who died by suicide](https://www.nytimes.com/2024/06/30/us/navy-seals-brain-damage-suicide.html)
@@ -29,7 +30,6 @@
 * [2024-06-30, 08:38:24](https://news.ycombinator.com/item?id=40835889) - [An unexpected journey into Microsoft Defender's signature World](https://retooling.io/blog/an-unexpected-journey-into-microsoft-defenders-signature-world)
 * [2024-06-30, 00:52:29](https://news.ycombinator.com/item?id=40834377) - [Pumped-storage hydroelectricity](https://en.wikipedia.org/wiki/Pumped-storage_hydroelectricity)
 * [2024-06-28, 03:43:33](https://news.ycombinator.com/item?id=40817487) - [CPS in Hoot](https://wingolog.org/archives/2024/05/27/cps-in-hoot)
-* [2024-06-25, 23:23:59](https://news.ycombinator.com/item?id=40794832) - [A Quantum Leap in Factoring](https://cacm.acm.org/news/a-quantum-leap-in-factoring/)
 
 ## [Archives](archives/index.md)
 
