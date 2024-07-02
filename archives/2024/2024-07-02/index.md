@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-02](index.md)
 
+* [2024-07-02, 18:12:41](https://news.ycombinator.com/item?id=40859084) - [Former Kansas bank CEO admits to embezzling $47M for crypto scheme](https://www.cjonline.com/story/news/crime/2024/05/28/kansas-bank-ceo-embezzled-millions-in-crypto-scheme-that-killed-bank/73843999007/)
+* [2024-07-02, 18:08:04](https://news.ycombinator.com/item?id=40859048) - [How generative AI is trying to rip the screaming soul out of the Enlightenment](https://www.asomo.co/p/generative-ai-the-emptiness-machine)
 * [2024-07-02, 18:00:04](https://news.ycombinator.com/item?id=40858981) - [Why refrigerators and other kitchen appliances break so easily now](https://www.washingtonpost.com/home/2024/07/02/why-refrigerator-oven-dishwasher-break/)
 * [2024-07-02, 17:11:53](https://news.ycombinator.com/item?id=40858590) - [Google manipulating your search tabs too?](https://news.ycombinator.com/item?id=40858590)
 * [2024-07-02, 17:11:16](https://news.ycombinator.com/item?id=40858583) - [Bruce Bastian, WordPerfect co-creator, has died](https://www.wsj.com/tech/bruce-bastian-wordperfect-lgbtq-activist-dies-at-76-6da293f4)
