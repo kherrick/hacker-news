@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2024-07-01, 08:40:54",
-      "https://news.ycombinator.com/item?id=40843778"
-    ],
-    [
-      "RegreSSHion: RCE in OpenSSH's server, on glibc-based Linux systems",
-      "https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt"
-    ]
-  ],
-  [
-    [
       "2024-07-01, 05:24:23",
       "https://news.ycombinator.com/item?id=40842762"
     ],
@@ -297,6 +287,16 @@
     [
       "Matt Klein on the cozy corners of the internet",
       "https://blog.mozilla.org/en/internet-culture/matt-klein-the-tiny-awards/"
+    ]
+  ],
+  [
+    [
+      "2024-06-27, 10:16:04",
+      "https://news.ycombinator.com/item?id=40808976"
+    ],
+    [
+      "Five new ways to catch gravitational waves – and the secrets they'll reveal",
+      "https://www.nature.com/articles/d41586-024-02003-6"
     ]
   ]
 ]
