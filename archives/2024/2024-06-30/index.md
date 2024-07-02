@@ -17,6 +17,7 @@
 * [2024-06-30, 21:16:55](https://news.ycombinator.com/item?id=40840453) - [Greco-Buddhist art](https://en.wikipedia.org/wiki/Greco-Buddhist_art)
 * [2024-06-30, 21:08:43](https://news.ycombinator.com/item?id=40840396) - [Convolutions, Fast Fourier Transform and Polynomials](https://www.alvarorevuelta.com/posts/fft-polynomials)
 * [2024-06-30, 20:58:32](https://news.ycombinator.com/item?id=40840315) - [Unification in Elixir](https://www.ericpfahl.com/from-pattern-matching-to-unification/)
+* [2024-06-30, 20:48:06](https://news.ycombinator.com/item?id=40840246) - [An Accident in Space (1972)](https://www.newyorker.com/magazine/1972/11/11/apollo-13-an-accident-in-space)
 * [2024-06-30, 20:45:09](https://news.ycombinator.com/item?id=40840231) - [Weavers and Concluders: Two communication styles (2021)](https://neuroclastic.com/weavers-and-concluders-two-communication-styles-no-one-knows-exist/)
 * [2024-06-30, 20:03:05](https://news.ycombinator.com/item?id=40839877) - [Extreme Measures Needed to Scale Chips](https://spectrum.ieee.org/chip-scaling)
 * [2024-06-30, 19:58:46](https://news.ycombinator.com/item?id=40839830) - [A Large-Scale Structured Database of a Century of Historical News](https://arxiv.org/abs/2406.09490)
