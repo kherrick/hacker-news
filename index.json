@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-07-02, 15:19:25",
+      "https://news.ycombinator.com/item?id=40857517"
+    ],
+    [
+      "Meta 3D Gen",
+      "https://ai.meta.com/research/publications/meta-3d-gen/"
+    ]
+  ],
+  [
+    [
       "2024-07-02, 15:05:44",
       "https://news.ycombinator.com/item?id=40857388"
     ],
     [
       "BusyBeaver(5) is now known to be 47,176,870",
       "https://scottaaronson.blog/?p=8088"
+    ]
+  ],
+  [
+    [
+      "2024-07-02, 15:04:43",
+      "https://news.ycombinator.com/item?id=40857383"
+    ],
+    [
+      "A WFH 'culture war' has broken out across Europe",
+      "https://fortune.com/europe/2024/07/02/uk-most-wfh-friendly-country-europe-culture-war-france-lags-behind/"
+    ]
+  ],
+  [
+    [
+      "2024-07-02, 14:58:18",
+      "https://news.ycombinator.com/item?id=40857324"
+    ],
+    [
+      "Postgres has low connection limits and goes towards multi-threaded architecture",
+      "https://twitter.com/nikitabase/status/1808119872733487312"
     ]
   ],
   [
@@ -41,6 +71,16 @@
   ],
   [
     [
+      "2024-07-02, 14:31:51",
+      "https://news.ycombinator.com/item?id=40857074"
+    ],
+    [
+      "Nine-year-old chess prodigy to make history after being picked for England",
+      "https://www.theguardian.com/sport/article/2024/jul/02/nine-year-old-chess-prodigy-england-youngest"
+    ]
+  ],
+  [
+    [
       "2024-07-02, 14:27:31",
       "https://news.ycombinator.com/item?id=40857041"
     ],
@@ -57,16 +97,6 @@
     [
       "Show HN: Adding Mistral Codestral and GPT-4o to Jupyter Notebooks",
       "https://github.com/pretzelai/pretzelai/blob/main/README.md"
-    ]
-  ],
-  [
-    [
-      "2024-07-02, 14:15:43",
-      "https://news.ycombinator.com/item?id=40856930"
-    ],
-    [
-      "Tesla reports Q2 delivery and production figures, beating estimates",
-      "https://www.teslarati.com/tesla-tsla-reports-q2-delivery-and-production-figures-beating-estimates/"
     ]
   ],
   [
@@ -111,6 +141,16 @@
   ],
   [
     [
+      "2024-07-02, 08:25:32",
+      "https://news.ycombinator.com/item?id=40854617"
+    ],
+    [
+      "Dolphin Rolling Releases Announcement",
+      "https://dolphin-emu.org/blog/2024/07/02/dolphin-releases-announcement/"
+    ]
+  ],
+  [
+    [
       "2024-07-02, 07:26:08",
       "https://news.ycombinator.com/item?id=40854319"
     ],
@@ -137,16 +177,6 @@
     [
       "Booting Linux Off of Google Drive",
       "https://ersei.net/en/blog/fuse-root"
-    ]
-  ],
-  [
-    [
-      "2024-07-01, 23:59:05",
-      "https://news.ycombinator.com/item?id=40852155"
-    ],
-    [
-      "Spending too much time optimizing for loops",
-      "https://octavelarose.github.io/2024/05/29/to-do-inlining.html"
     ]
   ],
   [
@@ -237,36 +267,6 @@
     [
       "Show HN: Edna, note taking app for developers",
       "https://edna.arslexis.io/"
-    ]
-  ],
-  [
-    [
-      "2024-07-01, 08:57:26",
-      "https://news.ycombinator.com/item?id=40843867"
-    ],
-    [
-      "Show HN: I created an After Effects alternative",
-      "https://pikimov.com/"
-    ]
-  ],
-  [
-    [
-      "2024-07-01, 08:40:54",
-      "https://news.ycombinator.com/item?id=40843778"
-    ],
-    [
-      "RegreSSHion: RCE in OpenSSH's server, on glibc-based Linux systems",
-      "https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt"
-    ]
-  ],
-  [
-    [
-      "2024-06-30, 12:24:39",
-      "https://news.ycombinator.com/item?id=40836776"
-    ],
-    [
-      "Show HN: ViperIDE – MicroPython IDE for web and mobile",
-      "https://github.com/vshymanskyy/ViperIDE"
     ]
   ],
   [
