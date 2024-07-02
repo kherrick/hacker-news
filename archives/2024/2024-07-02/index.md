@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-02](index.md)
 
 * [2024-07-02, 21:01:13](https://news.ycombinator.com/item?id=40860363) - [Apple Poised to Get OpenAI Board Observer Role as Part of AI Pact](https://www.bloomberg.com/news/articles/2024-07-02/apple-to-get-openai-board-observer-role-as-part-of-ai-agreement)
+* [2024-07-02, 20:53:38](https://news.ycombinator.com/item?id=40860310) - [America's startup boom around remote work and technology is still going strong](https://www.npr.org/sections/planet-money/2024/07/02/g-s1-7139/economy-startup-boom-america-productivity)
 * [2024-07-02, 20:34:38](https://news.ycombinator.com/item?id=40860176) - [Figma pulls AI tool after criticism that it ripped off Apple's design](https://www.theverge.com/2024/7/2/24190823/figma-ai-tool-apple-weather-app-copy)
 * [2024-07-02, 20:12:56](https://news.ycombinator.com/item?id=40860039) - [Common Lisp Documentation](http://l1sp.org/html/)
 * [2024-07-02, 20:07:55](https://news.ycombinator.com/item?id=40859993) - [Google's carbon emissions surge nearly 50% due to AI energy demand](https://www.cnbc.com/2024/07/02/googles-carbon-emissions-surge-nearly-50percent-due-to-ai-energy-demand.html)
@@ -22,6 +23,7 @@
 * [2024-07-02, 17:11:16](https://news.ycombinator.com/item?id=40858583) - [Bruce Bastian, WordPerfect co-creator, has died](https://www.heraldextra.com/news/local/2024/jun/17/bruce-bastian-byu-alum-turned-tech-pioneer-and-equality-advocate-dies-at-76/)
 * [2024-07-02, 17:06:45](https://news.ycombinator.com/item?id=40858534) - [Writebook: Instantly publish your own books on the web for free](https://once.com/writebook)
 * [2024-07-02, 17:01:14](https://news.ycombinator.com/item?id=40858482) - [OmniAI (YC W24) Is Hiring a Founding Engineer in SF](https://www.workatastartup.com/jobs/67540)
+* [2024-07-02, 16:20:35](https://news.ycombinator.com/item?id=40858113) - [Solving a math problem with planner programming](https://buttondown.email/hillelwayne/archive/solving-a-math-problem-with-planner-programming/)
 * [2024-07-02, 16:14:56](https://news.ycombinator.com/item?id=40858050) - [Google rejected me and now I'm building a search engine](https://daoudclarke.net/search%20engines/2024/07/02/google-rejected-me)
 * [2024-07-02, 15:26:32](https://news.ycombinator.com/item?id=40857584) - [Total Annihilation Graphics Engine (2012)](http://mavorsrants.blogspot.com/2012/04/total-annihilation-graphics-engine.html)
 * [2024-07-02, 15:21:38](https://news.ycombinator.com/item?id=40857537) - [U.S. dollar climbs to new 38-year peak vs. yen](https://www.asahi.com/ajw/articles/15328532)
