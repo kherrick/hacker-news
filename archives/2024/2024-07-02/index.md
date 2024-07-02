@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-07-02](index.md)
 
+* [2024-07-02, 13:25:22](https://news.ycombinator.com/item?id=40856411) - [Plaintext is not a great format for (system) logs](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PlaintextNotGreatLogFormat)
+* [2024-07-02, 13:21:20](https://news.ycombinator.com/item?id=40856372) - [Car Crash Deaths Involving Cannabis on the Rise](https://www.bu.edu/sph/news/articles/2021/car-crash-deaths-involving-cannabis-on-the-rise/)
 * [2024-07-02, 13:15:15](https://news.ycombinator.com/item?id=40856329) - [Gen AI: too much spend, too little benefit?](https://www.goldmansachs.com/intelligence/pages/gen-ai-too-much-spend-too-little-benefit.html)
 * [2024-07-02, 13:13:02](https://news.ycombinator.com/item?id=40856316) - [The case against morning yoga, daily routines, and endless meetings](https://andrewchen.substack.com/p/10x-work-versus-1x-work)
+* [2024-07-02, 13:11:04](https://news.ycombinator.com/item?id=40856297) - [For the Love of God, Stop Using CPU Limits on Kubernetes](https://home.robusta.dev/blog/stop-using-cpu-limits)
 * [2024-07-02, 12:36:58](https://news.ycombinator.com/item?id=40856030) - [Why Is Chile So Long?](https://unchartedterritories.tomaspueyo.com/p/why-is-chile-so-long)
 * [2024-07-02, 12:00:54](https://news.ycombinator.com/item?id=40855785) - [Lago – Open-Source Usage Based Billing Is Hiring a Data Scientist (EU-Based)](https://www.ycombinator.com/companies/lago/jobs/O7dCOie-data-scientist)
 * [2024-07-02, 11:42:03](https://news.ycombinator.com/item?id=40855643) - [Some sanity for C and C++ development on Windows](https://nullprogram.com/blog/2021/12/30/)
