@@ -2,8 +2,6 @@
 
 * [2024-07-02, 05:41:25](https://news.ycombinator.com/item?id=40853845) - [Mako – fast, production-grade web bundler based on Rust](https://makojs.dev/blog/mako-open-sourced)
 * [2024-07-02, 05:20:23](https://news.ycombinator.com/item?id=40853770) - [Booting Linux Off of Google Drive](https://ersei.net/en/blog/fuse-root)
-* [2024-07-02, 02:59:54](https://news.ycombinator.com/item?id=40853181) - [Walmart first major retailer in North America to deploy hydrogen semi truck](https://electrek.co/2024/06/30/walmart-first-retailer-in-north-america-to-deploy-hydrogen-semi-truck/)
-* [2024-07-02, 01:05:42](https://news.ycombinator.com/item?id=40852599) - [Remote Unauthenticated Code Execution in OpenSSH Server](https://blog.qualys.com/vulnerabilities-threat-research/2024/07/01/regresshion-remote-unauthenticated-code-execution-vulnerability-in-openssh-server)
 * [2024-07-01, 23:59:05](https://news.ycombinator.com/item?id=40852155) - [Spending too much time optimizing for loops](https://octavelarose.github.io/2024/05/29/to-do-inlining.html)
 * [2024-07-01, 23:26:05](https://news.ycombinator.com/item?id=40851919) - [Getting the World Record in Hatetris (2022)](https://hallofdreams.org/posts/hatetris/)
 * [2024-07-01, 23:23:13](https://news.ycombinator.com/item?id=40851895) - [Code reviews do find bugs](https://two-wrongs.com/code-reviews-do-find-bugs.html)
@@ -17,6 +15,7 @@
 * [2024-07-01, 14:38:36](https://news.ycombinator.com/item?id=40846242) - [Show HN: Edna, note taking app for developers](https://edna.arslexis.io/)
 * [2024-07-01, 12:47:38](https://news.ycombinator.com/item?id=40845304) - [My Python code is a neural network](https://blog.gabornyeki.com/2024-07-my-python-code-is-a-neural-network/)
 * [2024-07-01, 12:01:02](https://news.ycombinator.com/item?id=40844917) - [Optery (YC W22) Is Hiring Back End Engineers (Python and Django) & Sales (Remote)](https://www.ycombinator.com/companies/optery/jobs)
+* [2024-07-01, 11:44:33](https://news.ycombinator.com/item?id=40844825) - [A write-ahead log is not a universal part of durability](https://notes.eatonphil.com/2024-07-01-a-write-ahead-log-is-not-a-universal-part-of-durability.html)
 * [2024-07-01, 08:57:26](https://news.ycombinator.com/item?id=40843867) - [Show HN: I created an After Effects alternative](https://pikimov.com/)
 * [2024-07-01, 08:40:54](https://news.ycombinator.com/item?id=40843778) - [RegreSSHion: RCE in OpenSSH's server, on glibc-based Linux systems](https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt)
 * [2024-07-01, 05:24:23](https://news.ycombinator.com/item?id=40842762) - [A better merge workflow with Jujutsu](https://ofcr.se/jujutsu-merge-workflow)
@@ -29,6 +28,7 @@
 * [2024-06-30, 11:17:13](https://news.ycombinator.com/item?id=40836559) - [The cutest monopoly: Koala Kare](https://thehustle.co/originals/the-worlds-cutest-monopoly)
 * [2024-06-30, 08:38:24](https://news.ycombinator.com/item?id=40835889) - [An unexpected journey into Microsoft Defender's signature World](https://retooling.io/blog/an-unexpected-journey-into-microsoft-defenders-signature-world)
 * [2024-06-30, 00:52:29](https://news.ycombinator.com/item?id=40834377) - [Pumped-storage hydroelectricity](https://en.wikipedia.org/wiki/Pumped-storage_hydroelectricity)
+* [2024-06-28, 17:48:30](https://news.ycombinator.com/item?id=40823060) - [Paper Trails](https://aeon.co/essays/how-archives-can-make-or-break-a-philosophers-reputation)
 * [2024-06-28, 03:43:33](https://news.ycombinator.com/item?id=40817487) - [CPS in Hoot](https://wingolog.org/archives/2024/05/27/cps-in-hoot)
 
 ## [Archives](archives/index.md)
