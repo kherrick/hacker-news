@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-02](index.md)
 
+* [2024-07-02, 20:07:55](https://news.ycombinator.com/item?id=40859993) - [Google's carbon emissions surge nearly 50% due to AI energy demand](https://www.cnbc.com/2024/07/02/googles-carbon-emissions-surge-nearly-50percent-due-to-ai-energy-demand.html)
 * [2024-07-02, 18:52:32](https://news.ycombinator.com/item?id=40859429) - [Nuclear spectroscopy breakthrough could rewrite fundamental constants of nature](https://newsroom.ucla.edu/releases/nuclear-spectroscopy-breakthrough-could-rewrite-fundamental-constants-of-nature)
 * [2024-07-02, 18:24:57](https://news.ycombinator.com/item?id=40859188) - [New Idaho library rules, adults only, must show ID](https://old.reddit.com/r/Libraries/comments/1dt7e5d/new_sign_in_idaho_public_libraries_requiring_a_id/)
 * [2024-07-02, 18:12:41](https://news.ycombinator.com/item?id=40859084) - [Former Kansas bank CEO admits to embezzling $47M for crypto scheme](https://www.cjonline.com/story/news/crime/2024/05/28/kansas-bank-ceo-embezzled-millions-in-crypto-scheme-that-killed-bank/73843999007/)
