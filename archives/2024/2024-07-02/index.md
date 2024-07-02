@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-02](index.md)
 
+* [2024-07-02, 13:15:15](https://news.ycombinator.com/item?id=40856329) - [Gen AI: too much spend, too little benefit?](https://www.goldmansachs.com/intelligence/pages/gen-ai-too-much-spend-too-little-benefit.html)
+* [2024-07-02, 13:13:02](https://news.ycombinator.com/item?id=40856316) - [The case against morning yoga, daily routines, and endless meetings](https://andrewchen.substack.com/p/10x-work-versus-1x-work)
+* [2024-07-02, 12:36:58](https://news.ycombinator.com/item?id=40856030) - [Why Is Chile So Long?](https://unchartedterritories.tomaspueyo.com/p/why-is-chile-so-long)
 * [2024-07-02, 12:00:54](https://news.ycombinator.com/item?id=40855785) - [Lago – Open-Source Usage Based Billing Is Hiring a Data Scientist (EU-Based)](https://www.ycombinator.com/companies/lago/jobs/O7dCOie-data-scientist)
 * [2024-07-02, 11:42:03](https://news.ycombinator.com/item?id=40855643) - [Some sanity for C and C++ development on Windows](https://nullprogram.com/blog/2021/12/30/)
 * [2024-07-02, 11:12:07](https://news.ycombinator.com/item?id=40855461) - [Figma AI is a rip-off engine](https://daringfireball.net/linked/2024/07/01/figma-ai-ripoff-engine)
