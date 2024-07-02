@@ -20,6 +20,7 @@
 * [2024-07-01, 20:30:50](https://news.ycombinator.com/item?id=40850313) - [Venezuela is first Andean country to lose all of its glaciers](https://www.nbcnews.com/news/latino/-great-sadness-venezuela-first-andean-country-lose-glaciers-rcna153784)
 * [2024-07-01, 20:22:04](https://news.ycombinator.com/item?id=40850231) - [Journal retracts all 23 articles in special issue](https://retractionwatch.com/2024/07/01/we-authors-paid-a-heavy-price-journal-retracts-all-23-articles-in-special-issue/)
 * [2024-07-01, 19:48:20](https://news.ycombinator.com/item?id=40849840) - [When Rand Made Magic in Santa Monica](https://asteriskmag.com/issues/06/when-rand-made-magic-in-santa-monica)
+* [2024-07-01, 19:40:43](https://news.ycombinator.com/item?id=40849748) - [Raku Dynamic Language Features You Didn't Know You Needed – Curtis Poe](https://www.youtube.com/watch?v=bYgX4aP0W3o)
 * [2024-07-01, 19:30:36](https://news.ycombinator.com/item?id=40849627) - [An open letter to the United Nations](https://open-internet-governance.org/letter)
 * [2024-07-01, 19:24:05](https://news.ycombinator.com/item?id=40849545) - [Climate change to shift tropical rains northward, suggests computer modeling](https://smartwatermagazine.com/news/university-california-riverside/climate-change-shift-tropical-rains-northward-suggests-computer)
 * [2024-07-01, 19:10:52](https://news.ycombinator.com/item?id=40849363) - [A Git story: Not so fun this time](https://blog.brachiosoft.com/en/posts/git/)
