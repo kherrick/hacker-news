@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-02](index.md)
 
+* [2024-07-02, 12:00:54](https://news.ycombinator.com/item?id=40855785) - [Lago – Open-Source Usage Based Billing Is Hiring a Data Scientist (EU-Based)](https://www.ycombinator.com/companies/lago/jobs/O7dCOie-data-scientist)
+* [2024-07-02, 11:12:07](https://news.ycombinator.com/item?id=40855461) - [Figma AI is a rip-off engine](https://daringfireball.net/linked/2024/07/01/figma-ai-ripoff-engine)
 * [2024-07-02, 10:14:33](https://news.ycombinator.com/item?id=40855122) - [Htmx does not play well with content security policy](https://www.sjoerdlangkemper.nl/2024/06/26/htmx-content-security-policy/)
 * [2024-07-02, 09:45:54](https://news.ycombinator.com/item?id=40854976) - [Tech went from free love to pay-per-click](https://www.theregister.com/2024/07/02/foss_ai_blockchain/)
 * [2024-07-02, 09:14:36](https://news.ycombinator.com/item?id=40854836) - [Welcome to Ladybird, a truly independent web browser](https://ladybird.org/index.html)

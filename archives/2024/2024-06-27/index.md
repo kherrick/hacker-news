@@ -69,6 +69,7 @@
 * [2024-06-27, 13:41:35](https://news.ycombinator.com/item?id=40810406) - [Ask HN: Arch Users – What is your long-term system maintenance routine?](https://news.ycombinator.com/item?id=40810406)
 * [2024-06-27, 13:08:05](https://news.ycombinator.com/item?id=40810084) - [New Whistleblower Files FAA and OSHA Complaints Against Boeing and Spirit](https://katzbanks.com/news/kbk-spirit-787-bulkheads/)
 * [2024-06-27, 12:59:10](https://news.ycombinator.com/item?id=40809997) - [At 50 Years Old, Is SQL Becoming a Niche Skill?](https://zwischenzugs.com/2024/06/27/at-50-years-old-is-sql-becoming-a-niche-skill/)
+* [2024-06-27, 12:51:36](https://news.ycombinator.com/item?id=40809940) - [Building a Pause Button for Biology](https://www.cradle.xyz/page/problem-statement)
 * [2024-06-27, 12:49:10](https://news.ycombinator.com/item?id=40809926) - [CATL electric plane to support 2000 km (1200 miles) flight](https://www.chinadaily.com.cn/a/202406/25/WS667a5675a31095c51c50ab4d.html)
 * [2024-06-27, 12:49:09](https://news.ycombinator.com/item?id=40809924) - [Language is primarily a tool for communication rather than thought](https://www.nature.com/articles/s41586-024-07522-w)
 * [2024-06-27, 12:46:07](https://news.ycombinator.com/item?id=40809889) - [The Growing Threat of Malware Concealed Behind Cloud Services](https://www.fortinet.com/blog/threat-research/growing-threat-of-malware-concealed-behind-cloud-services)
