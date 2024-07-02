@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-02, 10:14:33](https://news.ycombinator.com/item?id=40855122) - [Htmx does not play well with content security policy](https://www.sjoerdlangkemper.nl/2024/06/26/htmx-content-security-policy/)
 * [2024-07-02, 09:14:36](https://news.ycombinator.com/item?id=40854836) - [Welcome to Ladybird, a truly independent web browser](https://ladybird.org/index.html)
 * [2024-07-02, 08:45:22](https://news.ycombinator.com/item?id=40854721) - [Microsoft Updated Phi-3](https://twitter.com/reach_vb/status/1808056108319179012)
 * [2024-07-02, 08:26:48](https://news.ycombinator.com/item?id=40854623) - [DETRs Beat YOLOs on Real-Time Object Detection](https://zhao-yian.github.io/RTDETR/)
@@ -25,7 +26,6 @@
 * [2024-06-30, 13:09:03](https://news.ycombinator.com/item?id=40836960) - [Pattern of brain damage is pervasive in Navy SEALs who died by suicide](https://www.nytimes.com/2024/06/30/us/navy-seals-brain-damage-suicide.html)
 * [2024-06-30, 12:24:39](https://news.ycombinator.com/item?id=40836776) - [Show HN: ViperIDE – MicroPython IDE for web and mobile](https://github.com/vshymanskyy/ViperIDE)
 * [2024-06-30, 11:26:13](https://news.ycombinator.com/item?id=40836594) - [Reflection for C++26](https://isocpp.org/files/papers/P2996R4.html)
-* [2024-06-30, 11:17:13](https://news.ycombinator.com/item?id=40836559) - [The cutest monopoly: Koala Kare](https://thehustle.co/originals/the-worlds-cutest-monopoly)
 * [2024-06-30, 08:38:24](https://news.ycombinator.com/item?id=40835889) - [An unexpected journey into Microsoft Defender's signature World](https://retooling.io/blog/an-unexpected-journey-into-microsoft-defenders-signature-world)
 * [2024-06-30, 00:52:29](https://news.ycombinator.com/item?id=40834377) - [Pumped-storage hydroelectricity](https://en.wikipedia.org/wiki/Pumped-storage_hydroelectricity)
 * [2024-06-28, 17:48:30](https://news.ycombinator.com/item?id=40823060) - [Paper Trails](https://aeon.co/essays/how-archives-can-make-or-break-a-philosophers-reputation)
