@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-02, 21:01:13](https://news.ycombinator.com/item?id=40860363) - [Apple Poised to Get OpenAI Board Observer Role as Part of AI Pact](https://www.bloomberg.com/news/articles/2024-07-02/apple-to-get-openai-board-observer-role-as-part-of-ai-agreement)
+* [2024-07-02, 20:34:38](https://news.ycombinator.com/item?id=40860176) - [Figma pulls AI tool after criticism that it ripped off Apple's design](https://www.theverge.com/2024/7/2/24190823/figma-ai-tool-apple-weather-app-copy)
 * [2024-07-02, 20:12:56](https://news.ycombinator.com/item?id=40860039) - [Common Lisp Documentation](http://l1sp.org/html/)
 * [2024-07-02, 20:07:55](https://news.ycombinator.com/item?id=40859993) - [Google's carbon emissions surge nearly 50% due to AI energy demand](https://www.cnbc.com/2024/07/02/googles-carbon-emissions-surge-nearly-50percent-due-to-ai-energy-demand.html)
 * [2024-07-02, 19:50:13](https://news.ycombinator.com/item?id=40859876) - [An epigenetic editor to silence genes](https://www.science.org/doi/10.1126/science.adq3334)
@@ -12,7 +14,6 @@
 * [2024-07-02, 15:19:25](https://news.ycombinator.com/item?id=40857517) - [Meta 3D Gen](https://ai.meta.com/research/publications/meta-3d-gen/)
 * [2024-07-02, 14:41:19](https://news.ycombinator.com/item?id=40857174) - [GraphRAG is now on GitHub](https://www.microsoft.com/en-us/research/blog/graphrag-new-tool-for-complex-data-discovery-now-on-github/)
 * [2024-07-02, 14:36:26](https://news.ycombinator.com/item?id=40857120) - [8cc.vim: Pure Vim script C Compiler](https://github.com/rhysd/8cc.vim)
-* [2024-07-02, 14:33:50](https://news.ycombinator.com/item?id=40857092) - [The history of Alt+number sequences](https://devblogs.microsoft.com/oldnewthing/20240702-00/?p=109951)
 * [2024-07-02, 14:31:49](https://news.ycombinator.com/item?id=40857073) - [CVE-2024-29510 – Exploiting Ghostscript using format strings](https://codeanlabs.com/blog/research/cve-2024-29510-ghostscript-format-string-exploitation/)
 * [2024-07-02, 14:27:31](https://news.ycombinator.com/item?id=40857041) - [With fifth busy beaver, researchers approach computation's limits](https://www.quantamagazine.org/amateur-mathematicians-find-fifth-busy-beaver-turing-machine-20240702/)
 * [2024-07-02, 14:23:56](https://news.ycombinator.com/item?id=40857009) - [Show HN: Adding Mistral Codestral and GPT-4o to Jupyter Notebooks](https://github.com/pretzelai/pretzelai/blob/main/README.md)
@@ -28,7 +29,6 @@
 * [2024-07-01, 05:20:45](https://news.ycombinator.com/item?id=40842747) - [A Protopian Frontier [video]](https://www.youtube.com/watch?v=8kXdVyIriRk)
 * [2024-06-30, 21:37:28](https://news.ycombinator.com/item?id=40840586) - [The Mysterious, Deep-Dwelling Microbes That Sculpt Our Planet](https://www.nytimes.com/2024/06/24/magazine/earth-geomicrobiology-microbes.html)
 * [2024-06-30, 08:38:24](https://news.ycombinator.com/item?id=40835889) - [An unexpected journey into Microsoft Defender's signature World](https://retooling.io/blog/an-unexpected-journey-into-microsoft-defenders-signature-world)
-* [2024-06-28, 17:48:30](https://news.ycombinator.com/item?id=40823060) - [Paper Trails](https://aeon.co/essays/how-archives-can-make-or-break-a-philosophers-reputation)
 * [2024-06-27, 19:57:39](https://news.ycombinator.com/item?id=40814424) - [Lyttle Lytton Contest](https://adamcadre.ac/lyttle/2024.html)
 
 ## [Archives](archives/index.md)
