@@ -8,6 +8,7 @@
 * [2024-07-02, 15:12:12](https://news.ycombinator.com/item?id=40857432) - [Ask HN: What is your experience with Claude 3.5?](https://news.ycombinator.com/item?id=40857432)
 * [2024-07-02, 15:04:43](https://news.ycombinator.com/item?id=40857383) - [A WFH 'culture war' has broken out across Europe](https://fortune.com/europe/2024/07/02/uk-most-wfh-friendly-country-europe-culture-war-france-lags-behind/)
 * [2024-07-02, 15:03:25](https://news.ycombinator.com/item?id=40857369) - [Figma Disables AI App Design Tool After It Copied Apple's Weather App](https://www.404media.co/figma-disables-ai-app-design-tool-after-it-copied-apples-weather-app/)
+* [2024-07-02, 14:48:02](https://news.ycombinator.com/item?id=40857236) - [50 Years of Rubik's Cube](https://www.rubiks.com/history#timeline)
 * [2024-07-02, 14:43:44](https://news.ycombinator.com/item?id=40857197) - [CSS Surprise Manga Lines](https://alvaromontoro.com/blog/68054/css-manga-lines)
 * [2024-07-02, 14:42:40](https://news.ycombinator.com/item?id=40857188) - [Microsoft's WSL2 Transitions to Linux 6.6 LTS Kernel](https://www.phoronix.com/news/Microsoft-WSL2-Linux-6.6-Kernel)
 * [2024-07-02, 14:36:26](https://news.ycombinator.com/item?id=40857120) - [8cc.vim: Pure Vim script C Compiler](https://github.com/rhysd/8cc.vim)
