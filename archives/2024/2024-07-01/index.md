@@ -49,6 +49,7 @@
 * [2024-07-01, 14:34:18](https://news.ycombinator.com/item?id=40846205) - [\"Computers Are Useless\" and Other Sayings](https://billwadge.com/2024/06/29/computers-are-useless-and-other-sayings/)
 * [2024-07-01, 14:04:53](https://news.ycombinator.com/item?id=40845951) - [Welcome to Ladybird](https://ladybird.org/)
 * [2024-07-01, 14:04:12](https://news.ycombinator.com/item?id=40845945) - [Quantum is unimportant to post-quantum](https://blog.trailofbits.com/2024/07/01/quantum-is-unimportant-to-post-quantum/)
+* [2024-07-01, 14:03:12](https://news.ycombinator.com/item?id=40845940) - [Leaked Arrow Lake diagram show more PCIe lanes, no DDR4, 2 M.2 SSD ports to CPU](https://www.tomshardware.com/pc-components/cpus/leaked-intel-arrow-lake-chipset-diagram-show-more-pcie-lanes-no-support-for-ddr4-new-chipset-boasts-two-m2-ssd-ports-connected-directly-to-cpu)
 * [2024-07-01, 13:48:53](https://news.ycombinator.com/item?id=40845842) - [Facebook and Instagram's 'pay or consent' ad model violates the DMA, says the EU](https://www.theverge.com/2024/7/1/24189796/eu-meta-dma-violation-pay-consent-ads-model)
 * [2024-07-01, 13:37:58](https://news.ycombinator.com/item?id=40845760) - [Building A YC Interview Bot That Produces Question we got on our Interview](https://blog.lytix.co/posts/yc-interviewer-bot)
 * [2024-07-01, 13:13:35](https://news.ycombinator.com/item?id=40845559) - [17 Years, $700M Wasted: The Collapse of New York's Traffic Moonshot](https://www.wsj.com/us-news/new-york-congestion-pricing-collapse-traffic-7687ccaf)

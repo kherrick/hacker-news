@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-02](index.md)
 
+* [2024-07-02, 18:00:04](https://news.ycombinator.com/item?id=40858981) - [Why refrigerators and other kitchen appliances break so easily now](https://www.washingtonpost.com/home/2024/07/02/why-refrigerator-oven-dishwasher-break/)
 * [2024-07-02, 17:11:53](https://news.ycombinator.com/item?id=40858590) - [Google manipulating your search tabs too?](https://news.ycombinator.com/item?id=40858590)
 * [2024-07-02, 17:11:16](https://news.ycombinator.com/item?id=40858583) - [Bruce Bastian, WordPerfect co-creator, has died](https://www.wsj.com/tech/bruce-bastian-wordperfect-lgbtq-activist-dies-at-76-6da293f4)
 * [2024-07-02, 17:11:16](https://news.ycombinator.com/item?id=40858583) - [Bruce Bastian, WordPerfect co-creator, has died](https://www.heraldextra.com/news/local/2024/jun/17/bruce-bastian-byu-alum-turned-tech-pioneer-and-equality-advocate-dies-at-76/)
@@ -25,6 +26,7 @@
 * [2024-07-02, 14:36:26](https://news.ycombinator.com/item?id=40857120) - [8cc.vim: Pure Vim script C Compiler](https://github.com/rhysd/8cc.vim)
 * [2024-07-02, 14:33:50](https://news.ycombinator.com/item?id=40857092) - [The history of Alt+number sequences](https://devblogs.microsoft.com/oldnewthing/20240702-00/?p=109951)
 * [2024-07-02, 14:31:51](https://news.ycombinator.com/item?id=40857074) - [Nine-year-old chess prodigy to make history after being picked for England](https://www.theguardian.com/sport/article/2024/jul/02/nine-year-old-chess-prodigy-england-youngest)
+* [2024-07-02, 14:31:49](https://news.ycombinator.com/item?id=40857073) - [CVE-2024-29510 – Exploiting Ghostscript using format strings](https://codeanlabs.com/blog/research/cve-2024-29510-ghostscript-format-string-exploitation/)
 * [2024-07-02, 14:27:31](https://news.ycombinator.com/item?id=40857041) - [With fifth busy beaver, researchers approach computation's limits](https://www.quantamagazine.org/amateur-mathematicians-find-fifth-busy-beaver-turing-machine-20240702/)
 * [2024-07-02, 14:23:56](https://news.ycombinator.com/item?id=40857009) - [Show HN: Adding Mistral Codestral and GPT-4o to Jupyter Notebooks](https://github.com/pretzelai/pretzelai/blob/main/README.md)
 * [2024-07-02, 14:22:22](https://news.ycombinator.com/item?id=40857001) - [Python packaging scenarios by the creators of ruff](https://github.com/astral-sh/packse)
@@ -48,6 +50,7 @@
 * [2024-07-02, 09:54:19](https://news.ycombinator.com/item?id=40855028) - [Trying Kolmogorov-Arnold Networks in Practice](https://cprimozic.net/blog/trying-out-kans/)
 * [2024-07-02, 09:45:54](https://news.ycombinator.com/item?id=40854976) - [Tech went from free love to pay-per-click](https://www.theregister.com/2024/07/02/foss_ai_blockchain/)
 * [2024-07-02, 09:14:36](https://news.ycombinator.com/item?id=40854836) - [Welcome to Ladybird, a truly independent web browser](https://ladybird.org/index.html)
+* [2024-07-02, 08:48:04](https://news.ycombinator.com/item?id=40854733) - [Show HN: I Made an Open Source Platform for Structuring Any Unstructured Data](https://github.com/adithya-s-k/omniparse)
 * [2024-07-02, 08:45:22](https://news.ycombinator.com/item?id=40854721) - [Microsoft Updated Phi-3](https://twitter.com/reach_vb/status/1808056108319179012)
 * [2024-07-02, 08:26:48](https://news.ycombinator.com/item?id=40854623) - [DETRs Beat YOLOs on Real-Time Object Detection](https://zhao-yian.github.io/RTDETR/)
 * [2024-07-02, 08:25:32](https://news.ycombinator.com/item?id=40854617) - [Dolphin Rolling Releases Announcement](https://dolphin-emu.org/blog/2024/07/02/dolphin-releases-announcement/)
