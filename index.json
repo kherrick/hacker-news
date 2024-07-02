@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-07-01, 22:45:39",
-      "https://news.ycombinator.com/item?id=40851638"
-    ],
-    [
-      "Improving your Zig language server experience",
-      "https://kristoff.it/blog/improving-your-zls-experience/"
-    ]
-  ],
-  [
-    [
       "2024-07-01, 21:49:39",
       "https://news.ycombinator.com/item?id=40851130"
     ],
@@ -77,6 +67,16 @@
     [
       "Show HN: Doggo – A powerful, human-friendly DNS client for the command line",
       "https://doggo.mrkaran.dev/docs/"
+    ]
+  ],
+  [
+    [
+      "2024-07-01, 16:29:53",
+      "https://news.ycombinator.com/item?id=40847392"
+    ],
+    [
+      "Using SIMD for Parallel Processing in Rust",
+      "https://nrempel.com/using-simd-for-parallel-processing-in-rust/"
     ]
   ],
   [
