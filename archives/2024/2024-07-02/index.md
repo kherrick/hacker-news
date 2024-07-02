@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-07-02](index.md)
 
+* [2024-07-02, 15:21:38](https://news.ycombinator.com/item?id=40857537) - [U.S. dollar climbs to new 38-year peak vs. yen](https://www.asahi.com/ajw/articles/15328532)
+* [2024-07-02, 15:12:12](https://news.ycombinator.com/item?id=40857432) - [Ask HN: What is your experience with Claude 3.5?](https://news.ycombinator.com/item?id=40857432)
+* [2024-07-02, 15:04:43](https://news.ycombinator.com/item?id=40857383) - [A WFH 'culture war' has broken out across Europe](https://fortune.com/europe/2024/07/02/uk-most-wfh-friendly-country-europe-culture-war-france-lags-behind/)
+* [2024-07-02, 15:03:25](https://news.ycombinator.com/item?id=40857369) - [Figma Disables AI App Design Tool After It Copied Apple's Weather App](https://www.404media.co/figma-disables-ai-app-design-tool-after-it-copied-apples-weather-app/)
 * [2024-07-02, 14:43:44](https://news.ycombinator.com/item?id=40857197) - [CSS Surprise Manga Lines](https://alvaromontoro.com/blog/68054/css-manga-lines)
+* [2024-07-02, 14:42:40](https://news.ycombinator.com/item?id=40857188) - [Microsoft's WSL2 Transitions to Linux 6.6 LTS Kernel](https://www.phoronix.com/news/Microsoft-WSL2-Linux-6.6-Kernel)
 * [2024-07-02, 14:36:26](https://news.ycombinator.com/item?id=40857120) - [8cc.vim: Pure Vim script C Compiler](https://github.com/rhysd/8cc.vim)
 * [2024-07-02, 14:33:50](https://news.ycombinator.com/item?id=40857092) - [The history of Alt+number sequences](https://devblogs.microsoft.com/oldnewthing/20240702-00/?p=109951)
 * [2024-07-02, 14:27:31](https://news.ycombinator.com/item?id=40857041) - [With fifth busy beaver, researchers approach computation's limits](https://www.quantamagazine.org/amateur-mathematicians-find-fifth-busy-beaver-turing-machine-20240702/)
