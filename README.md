@@ -19,7 +19,6 @@
 * [2024-07-01, 14:38:36](https://news.ycombinator.com/item?id=40846242) - [Show HN: Edna, note taking app for developers](https://edna.arslexis.io/)
 * [2024-07-01, 12:47:38](https://news.ycombinator.com/item?id=40845304) - [My Python code is a neural network](https://blog.gabornyeki.com/2024-07-my-python-code-is-a-neural-network/)
 * [2024-07-01, 08:57:26](https://news.ycombinator.com/item?id=40843867) - [Show HN: I created an After Effects alternative](https://pikimov.com/)
-* [2024-07-01, 08:40:54](https://news.ycombinator.com/item?id=40843778) - [RegreSSHion: RCE in OpenSSH's server, on glibc-based Linux systems](https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt)
 * [2024-07-01, 05:24:23](https://news.ycombinator.com/item?id=40842762) - [A better merge workflow with Jujutsu](https://ofcr.se/jujutsu-merge-workflow)
 * [2024-07-01, 00:24:27](https://news.ycombinator.com/item?id=40841542) - [Conway's Game of Life for curved surfaces (2012)](https://0fps.net/2012/11/19/conways-game-of-life-for-curved-surfaces-part-1/)
 * [2024-06-30, 20:45:09](https://news.ycombinator.com/item?id=40840231) - [Weavers and Concluders: Two communication styles (2021)](https://neuroclastic.com/weavers-and-concluders-two-communication-styles-no-one-knows-exist/)
@@ -30,6 +29,7 @@
 * [2024-06-30, 00:52:29](https://news.ycombinator.com/item?id=40834377) - [Pumped-storage hydroelectricity](https://en.wikipedia.org/wiki/Pumped-storage_hydroelectricity)
 * [2024-06-28, 17:48:30](https://news.ycombinator.com/item?id=40823060) - [Paper Trails](https://aeon.co/essays/how-archives-can-make-or-break-a-philosophers-reputation)
 * [2024-06-27, 11:08:39](https://news.ycombinator.com/item?id=40809221) - [Matt Klein on the cozy corners of the internet](https://blog.mozilla.org/en/internet-culture/matt-klein-the-tiny-awards/)
+* [2024-06-27, 10:16:04](https://news.ycombinator.com/item?id=40808976) - [Five new ways to catch gravitational waves – and the secrets they'll reveal](https://www.nature.com/articles/d41586-024-02003-6)
 
 ## [Archives](archives/index.md)
 

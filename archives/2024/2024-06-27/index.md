@@ -83,6 +83,7 @@
 * [2024-06-27, 10:29:06](https://news.ycombinator.com/item?id=40809033) - [How to think about creating a dataset for LLM fine-tuning evaluation](https://mlops.systems/posts/2024-06-25-evaluation-finetuning-manual-dataset.html)
 * [2024-06-27, 10:20:40](https://news.ycombinator.com/item?id=40808999) - [Open-Sora does pretty good video generation on consumer GPUs](https://backprop.co/environments/open-sora)
 * [2024-06-27, 10:16:50](https://news.ycombinator.com/item?id=40808979) - [The C Standard charter was updated, now with security principles as well](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n3280.htm)
+* [2024-06-27, 10:16:04](https://news.ycombinator.com/item?id=40808976) - [Five new ways to catch gravitational waves – and the secrets they'll reveal](https://www.nature.com/articles/d41586-024-02003-6)
 * [2024-06-27, 10:13:43](https://news.ycombinator.com/item?id=40808969) - [Dashboard and UIs for Node-Red](https://dashboard.flowfuse.com/)
 * [2024-06-27, 10:06:18](https://news.ycombinator.com/item?id=40808933) - [Ten Lessons I Wish I Had Been Taught [pdf]](https://www.ams.org/notices/199701/comm-rota.pdf)
 * [2024-06-27, 09:55:33](https://news.ycombinator.com/item?id=40808891) - [Show HN: Lambda – The first-ever open-source privacy based social media app](https://news.ycombinator.com/item?id=40808891)
