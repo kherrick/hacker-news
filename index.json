@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-07-02, 13:25:22",
-      "https://news.ycombinator.com/item?id=40856411"
+      "2024-07-02, 14:06:37",
+      "https://news.ycombinator.com/item?id=40856842"
     ],
     [
-      "Plaintext is not a great format for (system) logs",
-      "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PlaintextNotGreatLogFormat"
+      "Ginkgo Bioworks 'A Hoax for the Ages,'",
+      "https://www.fiercebiotech.com/medtech/ginkgo-bioworks-suffers-short-attack-firm-calling-it-a-hoax-for-ages"
     ]
   ],
   [
@@ -87,6 +87,16 @@
     [
       "Did Turing prove the undecidability of the halting problem?",
       "https://arxiv.org/abs/2407.00680"
+    ]
+  ],
+  [
+    [
+      "2024-07-02, 01:00:43",
+      "https://news.ycombinator.com/item?id=40852568"
+    ],
+    [
+      "Big Things in Small Packages: The Charm of Japan's Kei Truck",
+      "https://www.nippon.com/en/japan-topics/g24001/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "Show HN: ViperIDE – MicroPython IDE for web and mobile",
       "https://github.com/vshymanskyy/ViperIDE"
-    ]
-  ],
-  [
-    [
-      "2024-06-30, 11:26:13",
-      "https://news.ycombinator.com/item?id=40836594"
-    ],
-    [
-      "Reflection for C++26",
-      "https://isocpp.org/files/papers/P2996R4.html"
     ]
   ],
   [
