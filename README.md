@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-02, 02:33:27](https://news.ycombinator.com/item?id=40853045) - [A tickbox doubled the US mortality rates](https://ourworldindata.org/rise-us-maternal-mortality-rates-measurement)
+* [2024-07-02, 03:14:28](https://news.ycombinator.com/item?id=40853235) - [Figma AI looks rather trained on existing apps](https://twitter.com/asallen/status/1807675146020454808)
 * [2024-07-02, 01:37:25](https://news.ycombinator.com/item?id=40852751) - [Google Predicts the Flu Again](https://arxiv.org/abs/2407.00085)
 * [2024-07-02, 01:05:42](https://news.ycombinator.com/item?id=40852599) - [Remote Unauthenticated Code Execution in OpenSSH Server](https://blog.qualys.com/vulnerabilities-threat-research/2024/07/01/regresshion-remote-unauthenticated-code-execution-vulnerability-in-openssh-server)
 * [2024-07-01, 23:59:05](https://news.ycombinator.com/item?id=40852155) - [Spending too much time optimizing for loops](https://octavelarose.github.io/2024/05/29/to-do-inlining.html)
