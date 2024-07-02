@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-01, 23:59:05",
+      "https://news.ycombinator.com/item?id=40852155"
+    ],
+    [
+      "Spending too much time optimizing for loops",
+      "https://octavelarose.github.io/2024/05/29/to-do-inlining.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-01, 23:48:22",
+      "https://news.ycombinator.com/item?id=40852084"
+    ],
+    [
+      "Switzerland mandates software source code disclosure for public sector",
+      "https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/new-open-source-law-switzerland"
+    ]
+  ],
+  [
+    [
       "2024-07-01, 23:26:05",
       "https://news.ycombinator.com/item?id=40851919"
     ],
@@ -15,7 +35,7 @@
       "https://news.ycombinator.com/item?id=40851895"
     ],
     [
-      "Code Reviews Do Find Bugs",
+      "Code reviews do find bugs",
       "https://two-wrongs.com/code-reviews-do-find-bugs.html"
     ]
   ],
@@ -25,18 +45,8 @@
       "https://news.ycombinator.com/item?id=40851638"
     ],
     [
-      "Improving Your Zig Language Server Experience",
+      "Improving your Zig language server experience",
       "https://kristoff.it/blog/improving-your-zls-experience/"
-    ]
-  ],
-  [
-    [
-      "2024-07-01, 22:44:17",
-      "https://news.ycombinator.com/item?id=40851630"
-    ],
-    [
-      "syntaqx/cookie: Cookies, but with structs, for happiness",
-      "https://github.com/syntaqx/cookie"
     ]
   ],
   [
@@ -51,32 +61,12 @@
   ],
   [
     [
-      "2024-07-01, 22:05:28",
-      "https://news.ycombinator.com/item?id=40851296"
-    ],
-    [
-      "Company offers unofficial security patches for Windows 10 until 2030",
-      "https://www.tomshardware.com/software/windows/company-offers-unofficial-security-patches-for-windows-10-until-2030"
-    ]
-  ],
-  [
-    [
       "2024-07-01, 21:49:39",
       "https://news.ycombinator.com/item?id=40851130"
     ],
     [
-      "A Proof of Proof by Infinite Descent",
+      "A proof of proof by infinite descent",
       "http://relatedwork.blogspot.com/2024/07/a-proof-of-proof-by-infinite-descent.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-01, 21:29:52",
-      "https://news.ycombinator.com/item?id=40850923"
-    ],
-    [
-      "Japan Wants To Build A 311-Mile Cargo Conveyor Belt due a lack of truck drivers",
-      "https://www.carscoops.com/2024/07/japan-wants-to-build-a-311-mile-cargo-conveyor-belt-because-its-running-out-of-delivery-drivers/"
     ]
   ],
   [
@@ -111,6 +101,16 @@
   ],
   [
     [
+      "2024-07-01, 16:00:56",
+      "https://news.ycombinator.com/item?id=40847085"
+    ],
+    [
+      "Working Title (Insurance)",
+      "https://www.bitsaboutmoney.com/archive/working-title-insurance/"
+    ]
+  ],
+  [
+    [
       "2024-07-01, 15:01:49",
       "https://news.ycombinator.com/item?id=40846428"
     ],
@@ -127,6 +127,16 @@
     [
       "Ask HN: Who wants to be hired? (July 2024)",
       "https://news.ycombinator.com/item?id=40846426"
+    ]
+  ],
+  [
+    [
+      "2024-07-01, 14:38:36",
+      "https://news.ycombinator.com/item?id=40846242"
+    ],
+    [
+      "Show HN: Edna, note taking app for developers",
+      "https://edna.arslexis.io/"
     ]
   ],
   [
@@ -171,22 +181,22 @@
   ],
   [
     [
+      "2024-07-01, 05:24:23",
+      "https://news.ycombinator.com/item?id=40842762"
+    ],
+    [
+      "A better merge workflow with Jujutsu",
+      "https://ofcr.se/jujutsu-merge-workflow"
+    ]
+  ],
+  [
+    [
       "2024-07-01, 00:24:27",
       "https://news.ycombinator.com/item?id=40841542"
     ],
     [
       "Conway's Game of Life for curved surfaces (2012)",
       "https://0fps.net/2012/11/19/conways-game-of-life-for-curved-surfaces-part-1/"
-    ]
-  ],
-  [
-    [
-      "2024-06-30, 21:16:55",
-      "https://news.ycombinator.com/item?id=40840453"
-    ],
-    [
-      "Greco-Buddhist art",
-      "https://en.wikipedia.org/wiki/Greco-Buddhist_art"
     ]
   ],
   [
@@ -261,32 +271,22 @@
   ],
   [
     [
+      "2024-06-30, 00:52:29",
+      "https://news.ycombinator.com/item?id=40834377"
+    ],
+    [
+      "Pumped-storage hydroelectricity",
+      "https://en.wikipedia.org/wiki/Pumped-storage_hydroelectricity"
+    ]
+  ],
+  [
+    [
       "2024-06-28, 03:43:33",
       "https://news.ycombinator.com/item?id=40817487"
     ],
     [
       "CPS in Hoot",
       "https://wingolog.org/archives/2024/05/27/cps-in-hoot"
-    ]
-  ],
-  [
-    [
-      "2024-06-26, 12:59:45",
-      "https://news.ycombinator.com/item?id=40799522"
-    ],
-    [
-      "The question of what's fair illuminates the question of what's hard",
-      "https://www.quantamagazine.org/the-question-of-whats-fair-illuminates-the-question-of-whats-hard-20240624/"
-    ]
-  ],
-  [
-    [
-      "2024-06-26, 00:36:43",
-      "https://news.ycombinator.com/item?id=40795267"
-    ],
-    [
-      "AI Love Island – multi agent text based dating simulation",
-      "https://www.sabrina.dev/p/ai-love-island-multiagent-dating-simulation-v1"
     ]
   ],
   [
