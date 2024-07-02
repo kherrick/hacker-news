@@ -6,6 +6,7 @@
 
 * [2024-07-02, 05:41:25](https://news.ycombinator.com/item?id=40853845) - [Mako – fast, production-grade web bundler based on Rust](https://makojs.dev/blog/mako-open-sourced)
 * [2024-07-02, 05:20:23](https://news.ycombinator.com/item?id=40853770) - [Booting Linux Off of Google Drive](https://ersei.net/en/blog/fuse-root)
+* [2024-07-02, 04:40:08](https://news.ycombinator.com/item?id=40853620) - [Did Turing prove the undecidability of the halting problem?](https://arxiv.org/abs/2407.00680)
 * [2024-07-02, 03:24:05](https://news.ycombinator.com/item?id=40853280) - [Atoll islands show no widespread physical destabilization from sea-level rise](https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/wcc.557?emc=edit_nn_20240627&nl=the-morning&te=1)
 * [2024-07-02, 03:16:08](https://news.ycombinator.com/item?id=40853243) - [Greece introduces 'growth-oriented' six-day working week](https://www.theguardian.com/world/article/2024/jul/01/greece-introduces-growth-oriented-six-day-working-week)
 * [2024-07-02, 03:14:28](https://news.ycombinator.com/item?id=40853235) - [Figma AI looks rather trained on existing apps](https://twitter.com/asallen/status/1807675146020454808)
