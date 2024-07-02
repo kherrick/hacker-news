@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-02](index.md)
 
+* [2024-07-02, 22:10:30](https://news.ycombinator.com/item?id=40860902) - [$105B Electronics Giant Sony to Launch New Bitcoin Exchange](https://bitcoinmagazine.com/business/105-billion-electronics-giant-sony-to-launch-new-bitcoin-exchange)
 * [2024-07-02, 22:02:19](https://news.ycombinator.com/item?id=40860840) - [Bruce Bastian, a Founder of WordPerfect, Is Dead at 76](https://www.nytimes.com/2024/07/02/business/bruce-bastian-dead.html)
 * [2024-07-02, 21:35:07](https://news.ycombinator.com/item?id=40860643) - [Ask HN: Should I use React for a personal portfolio?](https://news.ycombinator.com/item?id=40860643)
 * [2024-07-02, 21:25:55](https://news.ycombinator.com/item?id=40860580) - [Nvidia NVLink Switch Chips Change to the HGX B200](https://www.servethehome.com/ingrasys-shows-big-nvidia-nvlink-switch-chips-change-to-the-hgx-b200-b100/)
