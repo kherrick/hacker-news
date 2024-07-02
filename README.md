@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-02, 02:59:54](https://news.ycombinator.com/item?id=40853181) - [Walmart first major retailer in North America to deploy hydrogen semi truck](https://electrek.co/2024/06/30/walmart-first-retailer-in-north-america-to-deploy-hydrogen-semi-truck/)
 * [2024-07-02, 01:05:42](https://news.ycombinator.com/item?id=40852599) - [Remote Unauthenticated Code Execution in OpenSSH Server](https://blog.qualys.com/vulnerabilities-threat-research/2024/07/01/regresshion-remote-unauthenticated-code-execution-vulnerability-in-openssh-server)
 * [2024-07-01, 23:59:05](https://news.ycombinator.com/item?id=40852155) - [Spending too much time optimizing for loops](https://octavelarose.github.io/2024/05/29/to-do-inlining.html)
 * [2024-07-01, 23:26:05](https://news.ycombinator.com/item?id=40851919) - [Getting the World Record in Hatetris (2022)](https://hallofdreams.org/posts/hatetris/)
@@ -17,7 +18,6 @@
 * [2024-07-01, 12:47:38](https://news.ycombinator.com/item?id=40845304) - [My Python code is a neural network](https://blog.gabornyeki.com/2024-07-my-python-code-is-a-neural-network/)
 * [2024-07-01, 12:01:02](https://news.ycombinator.com/item?id=40844917) - [Optery (YC W22) Is Hiring Back End Engineers (Python and Django) & Sales (Remote)](https://www.ycombinator.com/companies/optery/jobs)
 * [2024-07-01, 08:57:26](https://news.ycombinator.com/item?id=40843867) - [Show HN: I created an After Effects alternative](https://pikimov.com/)
-* [2024-07-01, 08:53:04](https://news.ycombinator.com/item?id=40843848) - [My finetuned models beat OpenAI's GPT-4](https://mlops.systems/posts/2024-07-01-full-finetuned-model-evaluation.html)
 * [2024-07-01, 08:40:54](https://news.ycombinator.com/item?id=40843778) - [RegreSSHion: RCE in OpenSSH's server, on glibc-based Linux systems](https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt)
 * [2024-07-01, 05:24:23](https://news.ycombinator.com/item?id=40842762) - [A better merge workflow with Jujutsu](https://ofcr.se/jujutsu-merge-workflow)
 * [2024-07-01, 00:24:27](https://news.ycombinator.com/item?id=40841542) - [Conway's Game of Life for curved surfaces (2012)](https://0fps.net/2012/11/19/conways-game-of-life-for-curved-surfaces-part-1/)
