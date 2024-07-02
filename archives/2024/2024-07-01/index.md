@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-01](index.md)
 
+* [2024-07-01, 23:59:05](https://news.ycombinator.com/item?id=40852155) - [Spending too much time optimizing for loops](https://octavelarose.github.io/2024/05/29/to-do-inlining.html)
+* [2024-07-01, 23:48:22](https://news.ycombinator.com/item?id=40852084) - [Switzerland mandates software source code disclosure for public sector](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/new-open-source-law-switzerland)
 * [2024-07-01, 23:26:05](https://news.ycombinator.com/item?id=40851919) - [Getting the World Record in Hatetris (2022)](https://hallofdreams.org/posts/hatetris/)
 * [2024-07-01, 23:23:13](https://news.ycombinator.com/item?id=40851895) - [Code Reviews Do Find Bugs](https://two-wrongs.com/code-reviews-do-find-bugs.html)
 * [2024-07-01, 22:45:39](https://news.ycombinator.com/item?id=40851638) - [Improving Your Zig Language Server Experience](https://kristoff.it/blog/improving-your-zls-experience/)
