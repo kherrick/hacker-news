@@ -24,7 +24,7 @@
 * [2024-06-30, 20:45:09](https://news.ycombinator.com/item?id=40840231) - [Weavers and Concluders: Two communication styles (2021)](https://neuroclastic.com/weavers-and-concluders-two-communication-styles-no-one-knows-exist/)
 * [2024-06-30, 13:09:03](https://news.ycombinator.com/item?id=40836960) - [Pattern of brain damage is pervasive in Navy SEALs who died by suicide](https://www.nytimes.com/2024/06/30/us/navy-seals-brain-damage-suicide.html)
 * [2024-06-30, 12:24:39](https://news.ycombinator.com/item?id=40836776) - [Show HN: ViperIDE – MicroPython IDE for web and mobile](https://github.com/vshymanskyy/ViperIDE)
-* [2024-06-30, 11:26:13](https://news.ycombinator.com/item?id=40836594) - [Reflection for C++26](https://isocpp.org/files/papers/P2996R4.html)
+* [2024-06-30, 11:17:13](https://news.ycombinator.com/item?id=40836559) - [The cutest monopoly: Koala Kare](https://thehustle.co/originals/the-worlds-cutest-monopoly)
 * [2024-06-30, 08:38:24](https://news.ycombinator.com/item?id=40835889) - [An unexpected journey into Microsoft Defender's signature World](https://retooling.io/blog/an-unexpected-journey-into-microsoft-defenders-signature-world)
 * [2024-06-30, 04:43:21](https://news.ycombinator.com/item?id=40835197) - [The Soviet Union's Monster Mi-6 Helicopter Airliner](https://www.twz.com/news-features/the-story-of-the-monster-mi-6-helicopter-airliner)
 * [2024-06-30, 00:52:29](https://news.ycombinator.com/item?id=40834377) - [Pumped-storage hydroelectricity](https://en.wikipedia.org/wiki/Pumped-storage_hydroelectricity)
