@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-02](index.md)
 
 * [2024-07-02, 21:35:07](https://news.ycombinator.com/item?id=40860643) - [Ask HN: Should I use React for a personal portfolio?](https://news.ycombinator.com/item?id=40860643)
+* [2024-07-02, 21:25:55](https://news.ycombinator.com/item?id=40860580) - [Nvidia NVLink Switch Chips Change to the HGX B200](https://www.servethehome.com/ingrasys-shows-big-nvidia-nvlink-switch-chips-change-to-the-hgx-b200-b100/)
 * [2024-07-02, 21:18:19](https://news.ycombinator.com/item?id=40860516) - [Journal retracts all 23 articles in special issue](https://link.springer.com/journal/10479/volumes-and-issues/337-1/supplement)
 * [2024-07-02, 21:18:13](https://news.ycombinator.com/item?id=40860515) - [Explainability Is Not a Game](https://cacm.acm.org/research/explainability-is-not-a-game/)
 * [2024-07-02, 21:01:13](https://news.ycombinator.com/item?id=40860363) - [Apple Poised to Get OpenAI Board Observer Role as Part of AI Pact](https://www.bloomberg.com/news/articles/2024-07-02/apple-to-get-openai-board-observer-role-as-part-of-ai-agreement)
@@ -12,6 +13,7 @@
 * [2024-07-02, 20:53:38](https://news.ycombinator.com/item?id=40860310) - [America's startup boom around remote work and technology is still going strong](https://www.npr.org/sections/planet-money/2024/07/02/g-s1-7139/economy-startup-boom-america-productivity)
 * [2024-07-02, 20:34:38](https://news.ycombinator.com/item?id=40860176) - [Figma pulls AI tool after criticism that it ripped off Apple's design](https://www.theverge.com/2024/7/2/24190823/figma-ai-tool-apple-weather-app-copy)
 * [2024-07-02, 20:12:56](https://news.ycombinator.com/item?id=40860039) - [Common Lisp Documentation](http://l1sp.org/html/)
+* [2024-07-02, 20:11:43](https://news.ycombinator.com/item?id=40860022) - [Show HN: I made a search engine for Hacker News](https://hackernews.demo.vectara.com/)
 * [2024-07-02, 20:07:55](https://news.ycombinator.com/item?id=40859993) - [Google's carbon emissions surge nearly 50% due to AI energy demand](https://www.cnbc.com/2024/07/02/googles-carbon-emissions-surge-nearly-50percent-due-to-ai-energy-demand.html)
 * [2024-07-02, 20:00:01](https://news.ycombinator.com/item?id=40859937) - [Sonar is destroying my job and it's driving me to despair](https://community.sonarsource.com/t/sonar-is-destroying-my-job-and-its-driving-me-to-despair/92438)
 * [2024-07-02, 19:50:13](https://news.ycombinator.com/item?id=40859876) - [An epigenetic editor to silence genes](https://www.science.org/doi/10.1126/science.adq3334)
