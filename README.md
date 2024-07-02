@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-02, 03:14:28](https://news.ycombinator.com/item?id=40853235) - [Figma AI looks rather trained on existing apps](https://twitter.com/asallen/status/1807675146020454808)
+* [2024-07-02, 02:33:27](https://news.ycombinator.com/item?id=40853045) - [A tickbox doubled the US mortality rates](https://ourworldindata.org/rise-us-maternal-mortality-rates-measurement)
+* [2024-07-02, 01:37:25](https://news.ycombinator.com/item?id=40852751) - [Google Predicts the Flu Again](https://arxiv.org/abs/2407.00085)
 * [2024-07-02, 01:05:42](https://news.ycombinator.com/item?id=40852599) - [Remote Unauthenticated Code Execution in OpenSSH Server](https://blog.qualys.com/vulnerabilities-threat-research/2024/07/01/regresshion-remote-unauthenticated-code-execution-vulnerability-in-openssh-server)
 * [2024-07-01, 23:59:05](https://news.ycombinator.com/item?id=40852155) - [Spending too much time optimizing for loops](https://octavelarose.github.io/2024/05/29/to-do-inlining.html)
 * [2024-07-01, 23:26:05](https://news.ycombinator.com/item?id=40851919) - [Getting the World Record in Hatetris (2022)](https://hallofdreams.org/posts/hatetris/)
 * [2024-07-01, 23:23:13](https://news.ycombinator.com/item?id=40851895) - [Code reviews do find bugs](https://two-wrongs.com/code-reviews-do-find-bugs.html)
-* [2024-07-01, 22:45:39](https://news.ycombinator.com/item?id=40851638) - [Improving your Zig language server experience](https://kristoff.it/blog/improving-your-zls-experience/)
 * [2024-07-01, 21:49:39](https://news.ycombinator.com/item?id=40851130) - [A proof of proof by infinite descent](http://relatedwork.blogspot.com/2024/07/a-proof-of-proof-by-infinite-descent.html)
 * [2024-07-01, 19:48:20](https://news.ycombinator.com/item?id=40849840) - [When RAND made magic in Santa Monica](https://asteriskmag.com/issues/06/when-rand-made-magic-in-santa-monica)
 * [2024-07-01, 16:56:32](https://news.ycombinator.com/item?id=40847699) - [Show HN: Doggo – A powerful, human-friendly DNS client for the command line](https://doggo.mrkaran.dev/docs/)
