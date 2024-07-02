@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-07-02, 17:11:53",
-      "https://news.ycombinator.com/item?id=40858590"
+      "2024-07-02, 18:00:04",
+      "https://news.ycombinator.com/item?id=40858981"
     ],
     [
-      "Google manipulating your search tabs too?",
-      "https://news.ycombinator.com/item?id=40858590"
+      "Why refrigerators and other kitchen appliances break so easily now",
+      "https://www.washingtonpost.com/home/2024/07/02/why-refrigerator-oven-dishwasher-break/"
     ]
   ],
   [
@@ -21,32 +21,12 @@
   ],
   [
     [
-      "2024-07-02, 17:06:45",
-      "https://news.ycombinator.com/item?id=40858534"
-    ],
-    [
-      "Writebook: Instantly publish your own books on the web for free",
-      "https://once.com/writebook"
-    ]
-  ],
-  [
-    [
       "2024-07-02, 17:01:14",
       "https://news.ycombinator.com/item?id=40858482"
     ],
     [
       "OmniAI (YC W24) Is Hiring a Founding Engineer in SF",
       "https://www.workatastartup.com/jobs/67540"
-    ]
-  ],
-  [
-    [
-      "2024-07-02, 15:26:32",
-      "https://news.ycombinator.com/item?id=40857584"
-    ],
-    [
-      "Total Annihilation Graphics Engine (2012)",
-      "http://mavorsrants.blogspot.com/2012/04/total-annihilation-graphics-engine.html"
     ]
   ],
   [
@@ -91,6 +71,16 @@
   ],
   [
     [
+      "2024-07-02, 14:31:49",
+      "https://news.ycombinator.com/item?id=40857073"
+    ],
+    [
+      "CVE-2024-29510 – Exploiting Ghostscript using format strings",
+      "https://codeanlabs.com/blog/research/cve-2024-29510-ghostscript-format-string-exploitation/"
+    ]
+  ],
+  [
+    [
       "2024-07-02, 14:27:31",
       "https://news.ycombinator.com/item?id=40857041"
     ],
@@ -121,16 +111,6 @@
   ],
   [
     [
-      "2024-07-02, 13:47:07",
-      "https://news.ycombinator.com/item?id=40856616"
-    ],
-    [
-      "Ant Design – the second most popular React UI framework",
-      "https://github.com/ant-design/ant-design"
-    ]
-  ],
-  [
-    [
       "2024-07-02, 13:13:02",
       "https://news.ycombinator.com/item?id=40856316"
     ],
@@ -157,6 +137,16 @@
     [
       "Trying Kolmogorov-Arnold Networks in Practice",
       "https://cprimozic.net/blog/trying-out-kans/"
+    ]
+  ],
+  [
+    [
+      "2024-07-02, 08:48:04",
+      "https://news.ycombinator.com/item?id=40854733"
+    ],
+    [
+      "Show HN: I Made an Open Source Platform for Structuring Any Unstructured Data",
+      "https://github.com/adithya-s-k/omniparse"
     ]
   ],
   [
@@ -231,12 +221,12 @@
   ],
   [
     [
-      "2024-07-01, 16:56:32",
-      "https://news.ycombinator.com/item?id=40847699"
+      "2024-07-01, 16:00:56",
+      "https://news.ycombinator.com/item?id=40847085"
     ],
     [
-      "Show HN: Doggo – A powerful, human-friendly DNS client for the command line",
-      "https://doggo.mrkaran.dev/docs/"
+      "Working Title (Insurance)",
+      "https://www.bitsaboutmoney.com/archive/working-title-insurance/"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Show HN: Edna, note taking app for developers",
       "https://edna.arslexis.io/"
+    ]
+  ],
+  [
+    [
+      "2024-07-01, 14:03:12",
+      "https://news.ycombinator.com/item?id=40845940"
+    ],
+    [
+      "Leaked Arrow Lake diagram show more PCIe lanes, no DDR4, 2 M.2 SSD ports to CPU",
+      "https://www.tomshardware.com/pc-components/cpus/leaked-intel-arrow-lake-chipset-diagram-show-more-pcie-lanes-no-support-for-ddr4-new-chipset-boasts-two-m2-ssd-ports-connected-directly-to-cpu"
     ]
   ],
   [
