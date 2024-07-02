@@ -1,11 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-02, 22:42:00](https://news.ycombinator.com/item?id=40861148) - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+* [2024-07-02, 22:42:00](https://news.ycombinator.com/item?id=40861148) - [The Illustrated Transformer (2018)](https://jalammar.github.io/illustrated-transformer/)
 * [2024-07-02, 22:29:04](https://news.ycombinator.com/item?id=40861057) - [Brazil data regulator bans Meta from mining data to train AI models](https://apnews.com/article/brazil-tech-meta-privacy-data-93e00b2e0e26f7cc98795dd052aea8e1)
-* [2024-07-02, 22:10:30](https://news.ycombinator.com/item?id=40860902) - [$105B Electronics Giant Sony to Launch New Bitcoin Exchange](https://bitcoinmagazine.com/business/105-billion-electronics-giant-sony-to-launch-new-bitcoin-exchange)
-* [2024-07-02, 21:56:40](https://news.ycombinator.com/item?id=40860803) - [Python Modern Practices](https://www.stuartellis.name/articles/python-modern-practices/)
 * [2024-07-02, 21:35:07](https://news.ycombinator.com/item?id=40860643) - [Ask HN: Should I use React for a personal portfolio?](https://news.ycombinator.com/item?id=40860643)
 * [2024-07-02, 21:18:13](https://news.ycombinator.com/item?id=40860515) - [Explainability is not a game](https://cacm.acm.org/research/explainability-is-not-a-game/)
+* [2024-07-02, 21:14:16](https://news.ycombinator.com/item?id=40860478) - [Creatine improves physical function and body composition in older adults](https://pubmed.ncbi.nlm.nih.gov/38417175/)
 * [2024-07-02, 21:02:26](https://news.ycombinator.com/item?id=40860375) - [Australia out of natural gas, pays gas companies to export its reserves](https://www.smh.com.au/politics/federal/does-gas-rich-australia-really-need-to-start-importing-it-20240702-p5jqi4.html)
 * [2024-07-02, 21:01:13](https://news.ycombinator.com/item?id=40860363) - [Apple poised to get OpenAI board observer role as part of AI pact](https://www.bloomberg.com/news/articles/2024-07-02/apple-to-get-openai-board-observer-role-as-part-of-ai-agreement)
 * [2024-07-02, 20:11:43](https://news.ycombinator.com/item?id=40860022) - [Show HN: I made a search engine for Hacker News](https://hackernews.demo.vectara.com/)
@@ -28,6 +27,7 @@
 * [2024-07-02, 05:20:23](https://news.ycombinator.com/item?id=40853770) - [Booting Linux off of Google Drive](https://ersei.net/en/blog/fuse-root)
 * [2024-07-01, 23:26:05](https://news.ycombinator.com/item?id=40851919) - [Getting the World Record in Hatetris (2022)](https://hallofdreams.org/posts/hatetris/)
 * [2024-07-01, 17:55:21](https://news.ycombinator.com/item?id=40848355) - [Digital public archaeology: Excavating data from digs done decades ago](https://phys.org/news/2024-06-digital-archaeology-excavating-decades-today.html)
+* [2024-07-01, 12:37:53](https://news.ycombinator.com/item?id=40845205) - [What I've learned about Open Source community over 30 years](https://opensource.net/lessons-learned-open-source-30-years-freedos/)
 * [2024-06-30, 21:37:28](https://news.ycombinator.com/item?id=40840586) - [The Mysterious, Deep-Dwelling Microbes That Sculpt Our Planet](https://www.nytimes.com/2024/06/24/magazine/earth-geomicrobiology-microbes.html)
 * [2024-06-27, 19:57:39](https://news.ycombinator.com/item?id=40814424) - [Lyttle Lytton Contest](https://adamcadre.ac/lyttle/2024.html)
 

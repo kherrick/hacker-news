@@ -56,6 +56,7 @@
 * [2024-07-01, 13:12:03](https://news.ycombinator.com/item?id=40845542) - [Writing HTML by hand is easier than debugging your static site generator](https://logicgrimoire.wordpress.com/2024/07/01/writing-html-by-hand-is-easier-than-debugging-your-static-site-generator/)
 * [2024-07-01, 12:47:38](https://news.ycombinator.com/item?id=40845304) - [My Python code is a neural network](https://blog.gabornyeki.com/2024-07-my-python-code-is-a-neural-network/)
 * [2024-07-01, 12:38:20](https://news.ycombinator.com/item?id=40845208) - [Cubernetes](https://justingarrison.com/blog/2022-07-06-cubernetes/)
+* [2024-07-01, 12:37:53](https://news.ycombinator.com/item?id=40845205) - [What I've learned about Open Source community over 30 years](https://opensource.net/lessons-learned-open-source-30-years-freedos/)
 * [2024-07-01, 12:26:15](https://news.ycombinator.com/item?id=40845097) - [3D Printable PC/NAS Cases](https://www.youtube.com/@makerunit)
 * [2024-07-01, 12:11:22](https://news.ycombinator.com/item?id=40844982) - [OhMyForm discontinued, how can open source projects be sustainable?](https://old.reddit.com/r/opensource/comments/1dsrdx9/ohmyform_discontinued_how_can_open_source/)
 * [2024-07-01, 12:01:02](https://news.ycombinator.com/item?id=40844917) - [Optery (YC W22) Is Hiring Back End Engineers (Python and Django) & Sales (Remote)](https://www.ycombinator.com/companies/optery/jobs)
