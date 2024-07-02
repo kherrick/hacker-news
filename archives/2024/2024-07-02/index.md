@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-02](index.md)
 
+* [2024-07-02, 17:01:14](https://news.ycombinator.com/item?id=40858482) - [OmniAI (YC W24) Is Hiring a Founding Engineer in SF](https://www.workatastartup.com/jobs/67540)
 * [2024-07-02, 16:14:56](https://news.ycombinator.com/item?id=40858050) - [Google rejected me and now I'm building a search engine](https://daoudclarke.net/search%20engines/2024/07/02/google-rejected-me)
 * [2024-07-02, 15:21:38](https://news.ycombinator.com/item?id=40857537) - [U.S. dollar climbs to new 38-year peak vs. yen](https://www.asahi.com/ajw/articles/15328532)
 * [2024-07-02, 15:19:25](https://news.ycombinator.com/item?id=40857517) - [Meta 3D Gen](https://ai.meta.com/research/publications/meta-3d-gen/)
@@ -15,6 +16,7 @@
 * [2024-07-02, 14:48:02](https://news.ycombinator.com/item?id=40857236) - [50 Years of Rubik's Cube](https://www.rubiks.com/history#timeline)
 * [2024-07-02, 14:43:44](https://news.ycombinator.com/item?id=40857197) - [CSS Surprise Manga Lines](https://alvaromontoro.com/blog/68054/css-manga-lines)
 * [2024-07-02, 14:42:40](https://news.ycombinator.com/item?id=40857188) - [Microsoft's WSL2 Transitions to Linux 6.6 LTS Kernel](https://www.phoronix.com/news/Microsoft-WSL2-Linux-6.6-Kernel)
+* [2024-07-02, 14:41:19](https://news.ycombinator.com/item?id=40857174) - [GraphRAG (from Microsoft) is now open-source!](https://www.microsoft.com/en-us/research/blog/graphrag-new-tool-for-complex-data-discovery-now-on-github/)
 * [2024-07-02, 14:36:26](https://news.ycombinator.com/item?id=40857120) - [8cc.vim: Pure Vim script C Compiler](https://github.com/rhysd/8cc.vim)
 * [2024-07-02, 14:33:50](https://news.ycombinator.com/item?id=40857092) - [The history of Alt+number sequences](https://devblogs.microsoft.com/oldnewthing/20240702-00/?p=109951)
 * [2024-07-02, 14:31:51](https://news.ycombinator.com/item?id=40857074) - [Nine-year-old chess prodigy to make history after being picked for England](https://www.theguardian.com/sport/article/2024/jul/02/nine-year-old-chess-prodigy-england-youngest)
