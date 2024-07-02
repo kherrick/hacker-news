@@ -1,9 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-02, 22:10:30](https://news.ycombinator.com/item?id=40860902) - [$105B Electronics Giant Sony to Launch New Bitcoin Exchange](https://bitcoinmagazine.com/business/105-billion-electronics-giant-sony-to-launch-new-bitcoin-exchange)
-* [2024-07-02, 22:02:19](https://news.ycombinator.com/item?id=40860840) - [Bruce Bastian, a Founder of WordPerfect, Is Dead at 76](https://www.nytimes.com/2024/07/02/business/bruce-bastian-dead.html)
+* [2024-07-02, 22:08:21](https://news.ycombinator.com/item?id=40860883) - [Tech doesn't make our lives easier. It makes them faster](https://www.asomo.co/p/tech-doesnt-make-our-lives-easier)
+* [2024-07-02, 21:56:40](https://news.ycombinator.com/item?id=40860803) - [Python Modern Practices](https://www.stuartellis.name/articles/python-modern-practices/)
 * [2024-07-02, 21:35:07](https://news.ycombinator.com/item?id=40860643) - [Ask HN: Should I use React for a personal portfolio?](https://news.ycombinator.com/item?id=40860643)
 * [2024-07-02, 21:18:13](https://news.ycombinator.com/item?id=40860515) - [Explainability is not a game](https://cacm.acm.org/research/explainability-is-not-a-game/)
+* [2024-07-02, 21:14:16](https://news.ycombinator.com/item?id=40860478) - [Creatine improves physical function and body composition in older adults](https://pubmed.ncbi.nlm.nih.gov/38417175/)
 * [2024-07-02, 21:02:26](https://news.ycombinator.com/item?id=40860375) - [Australia out of natural gas, pays gas companies to export its reserves](https://www.smh.com.au/politics/federal/does-gas-rich-australia-really-need-to-start-importing-it-20240702-p5jqi4.html)
 * [2024-07-02, 21:01:13](https://news.ycombinator.com/item?id=40860363) - [Apple poised to get OpenAI board observer role as part of AI pact](https://www.bloomberg.com/news/articles/2024-07-02/apple-to-get-openai-board-observer-role-as-part-of-ai-agreement)
 * [2024-07-02, 20:11:43](https://news.ycombinator.com/item?id=40860022) - [Show HN: I made a search engine for Hacker News](https://hackernews.demo.vectara.com/)
@@ -14,7 +16,6 @@
 * [2024-07-02, 17:01:14](https://news.ycombinator.com/item?id=40858482) - [OmniAI (YC W24) Is Hiring a Founding Engineer in SF](https://www.workatastartup.com/jobs/67540)
 * [2024-07-02, 16:20:35](https://news.ycombinator.com/item?id=40858113) - [Solving a math problem with planner programming](https://buttondown.email/hillelwayne/archive/solving-a-math-problem-with-planner-programming/)
 * [2024-07-02, 15:19:25](https://news.ycombinator.com/item?id=40857517) - [Meta 3D Gen](https://ai.meta.com/research/publications/meta-3d-gen/)
-* [2024-07-02, 15:03:25](https://news.ycombinator.com/item?id=40857369) - [Figma disables AI app design tool after it copied Apple's weather app](https://www.404media.co/figma-disables-ai-app-design-tool-after-it-copied-apples-weather-app/)
 * [2024-07-02, 14:41:19](https://news.ycombinator.com/item?id=40857174) - [GraphRAG is now on GitHub](https://www.microsoft.com/en-us/research/blog/graphrag-new-tool-for-complex-data-discovery-now-on-github/)
 * [2024-07-02, 14:36:26](https://news.ycombinator.com/item?id=40857120) - [8cc.vim: Pure Vim script C Compiler](https://github.com/rhysd/8cc.vim)
 * [2024-07-02, 14:27:31](https://news.ycombinator.com/item?id=40857041) - [With fifth busy beaver, researchers approach computation's limits](https://www.quantamagazine.org/amateur-mathematicians-find-fifth-busy-beaver-turing-machine-20240702/)
@@ -27,7 +28,6 @@
 * [2024-07-02, 05:20:23](https://news.ycombinator.com/item?id=40853770) - [Booting Linux off of Google Drive](https://ersei.net/en/blog/fuse-root)
 * [2024-07-01, 23:26:05](https://news.ycombinator.com/item?id=40851919) - [Getting the World Record in Hatetris (2022)](https://hallofdreams.org/posts/hatetris/)
 * [2024-07-01, 17:55:21](https://news.ycombinator.com/item?id=40848355) - [Digital public archaeology: Excavating data from digs done decades ago](https://phys.org/news/2024-06-digital-archaeology-excavating-decades-today.html)
-* [2024-07-01, 15:50:22](https://news.ycombinator.com/item?id=40846966) - [Booting Linux Off of Google Drive](https://ersei.net/en/blog/fuse-root)
 * [2024-06-30, 21:37:28](https://news.ycombinator.com/item?id=40840586) - [The Mysterious, Deep-Dwelling Microbes That Sculpt Our Planet](https://www.nytimes.com/2024/06/24/magazine/earth-geomicrobiology-microbes.html)
 * [2024-06-27, 19:57:39](https://news.ycombinator.com/item?id=40814424) - [Lyttle Lytton Contest](https://adamcadre.ac/lyttle/2024.html)
 
