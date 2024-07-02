@@ -129,23 +129,149 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="40856515">
+        <section id="40857092">
           <h3>
             <a
               class="item"
-              href="https://www.nytimes.com/2024/07/02/technology/ukraine-war-ai-weapons.html"
-              >A.I. Begins Ushering in an Age of Killer Robots</a
+              href="https://devblogs.microsoft.com/oldnewthing/20240702-00/?p=109951"
+              >The history of Alt+number sequences</a
             >
           </h3>
           <section>
             <h4>
-              <span>2024-07-02 @ 13:36:32</span
+              <span>2024-07-02 @ 14:33:50</span
               ><span class="points-container"
-                >Points: <span class="points">10</span></span
+                >Points: <span class="points">16</span></span
               ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40856515"
+                ><a href="https://news.ycombinator.com/item?id=40857092"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="40857009">
+          <h3>
+            <a
+              class="item"
+              href="https://github.com/pretzelai/pretzelai/blob/main/README.md"
+              >Show HN: Adding Mistral Codestral and GPT-4o to Jupyter
+              Notebooks</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-07-02 @ 14:23:56</span
+              ><span class="points-container"
+                >Points: <span class="points">26</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40857009"
                   >Comments</a
                 ><span class="descendants">: 1</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                We’ve forked Jupyter Lab and added AI code generation features
+                that feel native and have all the context about your notebook.
+                You can see a demo video (2 min) here:
+              </p>
+              <p>
+                <a
+                  href="https://www.tella.tv/video/clxt7ei4v00rr09i5gt1laop6/view"
+                  >https://www.tella.tv/video/clxt7ei4v00rr09i5gt1laop6/view</a
+                >
+              </p>
+              <p>Try a hosted version here:</p>
+              <p><a href="https://pretzelai.app">https://pretzelai.app</a></p>
+              <p>
+                Jupyter is by far the most used Data Science tool. Despite its
+                popularity, it still lacks good code-generation extensions. The
+                flagship AI extension <i>jupyter-ai</i> lags far behind in
+                features and UX compared to modern AI code generation and
+                understanding tools (like
+                <a href="https://www.continue.dev">https://www.continue.dev</a>
+                and
+                <a href="https://www.cursor.com">https://www.cursor.com</a>).
+                Also, GitHub Copilot <i>still</i> isn’t supported in Jupyter,
+                more than 2 years after its launch. We’re solving this with
+                Pretzel.
+              </p>
+              <p>
+                Pretzel is a free and open-source fork of Jupyter. You can
+                install it locally with “pip install pretzelai” and launch it
+                with “pretzel lab”. We recommend creating a new python
+                environment if you already have jupyter lab installed. Our
+                GitHub README has more information:
+                <a href="https://github.com/pretzelai/pretzelai"
+                  >https://github.com/pretzelai/pretzelai</a
+                >
+              </p>
+              <p>For our first iteration, we’ve shipped 3 features:</p>
+              <p>
+                1. Inline Tab autocomplete: This works similar to GitHub
+                Copilot. You can choose between Mistral Codestral or GPT-4o in
+                the settings
+              </p>
+              <p>
+                2. Cell level code generation: Click Ask AI or press Cmd+K /
+                Ctrl+K to instruct AI to generate code in the active Jupyter
+                Cell. We provide relevant context from the current notebook to
+                the LLM with RAG. You can refer to existing variables in the
+                notebook using the @variable syntax (for dataframes, it will
+                pass the column names to the LLM)
+              </p>
+              <p>
+                3. Sidebar chat: Clicking the blue Pretzel Icon on the right
+                sidebar opens this chat (Ctrl+Cmd+B / Ctrl+Alt+B). This chat
+                always has context of your current cell or any selected text.
+                Here too, we use RAG to send any relevant context from the
+                current notebook to the LLM
+              </p>
+              <p>
+                All of these features work out-of-the-box via our “AI Server”
+                but you have the option of using your own OpenAI API Key. This
+                can be configured in the settings (Menu Bar &gt; Settings &gt;
+                Settings Editor &gt; Search for Pretzel). If you use your own
+                OpenAI API Key but don’t have a Mistral API key, be sure to
+                select OpenAI as the inline code completion model in the
+                settings.
+              </p>
+              <p>
+                These features are just a start. We're building a modern version
+                of Jupyter. Our roadmap includes frictionless, realtime
+                collaboration (think pair-programming, comments, version
+                history), full-fledged SQL support (both in code cells and as a
+                standalone SQL IDE), a visual analysis builder, a VSCode-like
+                coding experience powered by Monaco, and 1-click dashboard
+                creation and sharing straight from your notebooks.
+              </p>
+              <p>
+                We’d love for you to try Pretzel and send us any feedback, no
+                matter how minor (see my bio for contact info, or file a GitHub
+                issue here:
+                <a href="https://github.com/pretzelai/pretzelai/issues"
+                  >https://github.com/pretzelai/pretzelai/issues</a
+                >)
+              </p>
+            </div>
+          </section>
+        </section>
+        <section id="40857001">
+          <h3>
+            <a class="item" href="https://github.com/astral-sh/packse"
+              >Python packaging scenarios by the creators of ruff</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-07-02 @ 14:22:22</span
+              ><span class="points-container"
+                >Points: <span class="points">8</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40857001"
+                  >Comments</a
+                ><span class="descendants">: 2</span></span
               >
             </h4>
           </section>
@@ -162,11 +288,11 @@
             <h4>
               <span>2024-07-02 @ 12:36:58</span
               ><span class="points-container"
-                >Points: <span class="points">215</span></span
+                >Points: <span class="points">255</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40856030"
                   >Comments</a
-                ><span class="descendants">: 64</span></span
+                ><span class="descendants">: 80</span></span
               >
             </h4>
           </section>
@@ -199,11 +325,11 @@
             <h4>
               <span>2024-07-02 @ 09:54:19</span
               ><span class="points-container"
-                >Points: <span class="points">40</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40855028"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 4</span></span
               >
             </h4>
           </section>
@@ -218,11 +344,11 @@
             <h4>
               <span>2024-07-02 @ 07:26:08</span
               ><span class="points-container"
-                >Points: <span class="points">259</span></span
+                >Points: <span class="points">269</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40854319"
                   >Comments</a
-                ><span class="descendants">: 45</span></span
+                ><span class="descendants">: 47</span></span
               >
             </h4>
           </section>
@@ -237,11 +363,11 @@
             <h4>
               <span>2024-07-02 @ 05:41:25</span
               ><span class="points-container"
-                >Points: <span class="points">177</span></span
+                >Points: <span class="points">184</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40853845"
                   >Comments</a
-                ><span class="descendants">: 120</span></span
+                ><span class="descendants">: 124</span></span
               >
             </h4>
           </section>
@@ -256,11 +382,11 @@
             <h4>
               <span>2024-07-02 @ 05:20:23</span
               ><span class="points-container"
-                >Points: <span class="points">230</span></span
+                >Points: <span class="points">239</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40853770"
                   >Comments</a
-                ><span class="descendants">: 96</span></span
+                ><span class="descendants">: 97</span></span
               >
             </h4>
           </section>
@@ -275,11 +401,11 @@
             <h4>
               <span>2024-07-02 @ 04:40:08</span
               ><span class="points-container"
-                >Points: <span class="points">66</span></span
+                >Points: <span class="points">68</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40853620"
                   >Comments</a
-                ><span class="descendants">: 58</span></span
+                ><span class="descendants">: 60</span></span
               >
             </h4>
           </section>
@@ -296,7 +422,7 @@
             <h4>
               <span>2024-07-01 @ 23:59:05</span
               ><span class="points-container"
-                >Points: <span class="points">58</span></span
+                >Points: <span class="points">61</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40852155"
                   >Comments</a
@@ -319,7 +445,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40851919"
                   >Comments</a
-                ><span class="descendants">: 32</span></span
+                ><span class="descendants">: 33</span></span
               >
             </h4>
           </section>
@@ -336,7 +462,7 @@
             <h4>
               <span>2024-07-01 @ 21:49:39</span
               ><span class="points-container"
-                >Points: <span class="points">94</span></span
+                >Points: <span class="points">96</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40851130"
                   >Comments</a
@@ -357,11 +483,11 @@
             <h4>
               <span>2024-07-01 @ 19:48:20</span
               ><span class="points-container"
-                >Points: <span class="points">103</span></span
+                >Points: <span class="points">106</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40849840"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 36</span></span
               >
             </h4>
           </section>
@@ -379,11 +505,11 @@
             <h4>
               <span>2024-07-01 @ 17:55:21</span
               ><span class="points-container"
-                >Points: <span class="points">31</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40848355"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -399,11 +525,11 @@
             <h4>
               <span>2024-07-01 @ 16:56:32</span
               ><span class="points-container"
-                >Points: <span class="points">341</span></span
+                >Points: <span class="points">343</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40847699"
                   >Comments</a
-                ><span class="descendants">: 101</span></span
+                ><span class="descendants">: 102</span></span
               >
             </h4>
           </section>
@@ -420,11 +546,11 @@
             <h4>
               <span>2024-07-01 @ 16:00:56</span
               ><span class="points-container"
-                >Points: <span class="points">122</span></span
+                >Points: <span class="points">124</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40847085"
                   >Comments</a
-                ><span class="descendants">: 58</span></span
+                ><span class="descendants">: 62</span></span
               >
             </h4>
           </section>
@@ -439,11 +565,11 @@
             <h4>
               <span>2024-07-01 @ 15:01:49</span
               ><span class="points-container"
-                >Points: <span class="points">428</span></span
+                >Points: <span class="points">433</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40846428"
                   >Comments</a
-                ><span class="descendants">: 414</span></span
+                ><span class="descendants">: 420</span></span
               >
             </h4>
             <div class="text">
@@ -504,7 +630,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40846426"
                   >Comments</a
-                ><span class="descendants">: 385</span></span
+                ><span class="descendants">: 391</span></span
               >
             </h4>
             <div class="text">
@@ -535,7 +661,7 @@
             <h4>
               <span>2024-07-01 @ 14:38:36</span
               ><span class="points-container"
-                >Points: <span class="points">221</span></span
+                >Points: <span class="points">225</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40846242"
                   >Comments</a
@@ -666,7 +792,7 @@
             <h4>
               <span>2024-07-01 @ 08:57:26</span
               ><span class="points-container"
-                >Points: <span class="points">970</span></span
+                >Points: <span class="points">974</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40843867"
                   >Comments</a
@@ -687,28 +813,6 @@
             </div>
           </section>
         </section>
-        <section id="40843778">
-          <h3>
-            <a
-              class="item"
-              href="https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt"
-              >RegreSSHion: RCE in OpenSSH's server, on glibc-based Linux
-              systems</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-07-01 @ 08:40:54</span
-              ><span class="points-container"
-                >Points: <span class="points">771</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40843778"
-                  >Comments</a
-                ><span class="descendants">: 289</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="40841542">
           <h3>
             <a
@@ -721,11 +825,11 @@
             <h4>
               <span>2024-07-01 @ 00:24:27</span
               ><span class="points-container"
-                >Points: <span class="points">97</span></span
+                >Points: <span class="points">100</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40841542"
                   >Comments</a
-                ><span class="descendants">: 15</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -742,7 +846,7 @@
             <h4>
               <span>2024-06-30 @ 20:45:09</span
               ><span class="points-container"
-                >Points: <span class="points">110</span></span
+                >Points: <span class="points">113</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40840231"
                   >Comments</a
@@ -764,11 +868,11 @@
             <h4>
               <span>2024-06-30 @ 13:09:03</span
               ><span class="points-container"
-                >Points: <span class="points">553</span></span
+                >Points: <span class="points">558</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40836960"
                   >Comments</a
-                ><span class="descendants">: 440</span></span
+                ><span class="descendants">: 451</span></span
               >
             </h4>
           </section>
@@ -783,32 +887,11 @@
             <h4>
               <span>2024-06-30 @ 12:24:39</span
               ><span class="points-container"
-                >Points: <span class="points">91</span></span
+                >Points: <span class="points">93</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40836776"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="40836559">
-          <h3>
-            <a
-              class="item"
-              href="https://thehustle.co/originals/the-worlds-cutest-monopoly"
-              >The cutest monopoly: Koala Kare</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-06-30 @ 11:17:13</span
-              ><span class="points-container"
-                >Points: <span class="points">118</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40836559"
-                  >Comments</a
-                ><span class="descendants">: 100</span></span
+                ><span class="descendants">: 15</span></span
               >
             </h4>
           </section>
@@ -826,7 +909,7 @@
             <h4>
               <span>2024-06-30 @ 08:38:24</span
               ><span class="points-container"
-                >Points: <span class="points">137</span></span
+                >Points: <span class="points">138</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40835889"
                   >Comments</a
@@ -847,11 +930,11 @@
             <h4>
               <span>2024-06-30 @ 04:43:21</span
               ><span class="points-container"
-                >Points: <span class="points">18</span></span
+                >Points: <span class="points">24</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40835197"
                   >Comments</a
-                ><span class="descendants">: 3</span></span
+                ><span class="descendants">: 8</span></span
               >
             </h4>
           </section>
@@ -872,7 +955,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40834377"
                   >Comments</a
-                ><span class="descendants">: 104</span></span
+                ><span class="descendants">: 105</span></span
               >
             </h4>
           </section>
@@ -889,7 +972,7 @@
             <h4>
               <span>2024-06-28 @ 17:48:30</span
               ><span class="points-container"
-                >Points: <span class="points">53</span></span
+                >Points: <span class="points">56</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40823060"
                   >Comments</a
