@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-02](index.md)
 
 * [2024-07-02, 14:06:37](https://news.ycombinator.com/item?id=40856842) - [Ginkgo Bioworks 'A Hoax for the Ages,'](https://www.fiercebiotech.com/medtech/ginkgo-bioworks-suffers-short-attack-firm-calling-it-a-hoax-for-ages)
+* [2024-07-02, 13:36:32](https://news.ycombinator.com/item?id=40856515) - [A.I. Begins Ushering in an Age of Killer Robots](https://www.nytimes.com/2024/07/02/technology/ukraine-war-ai-weapons.html)
 * [2024-07-02, 13:25:22](https://news.ycombinator.com/item?id=40856411) - [Plaintext is not a great format for (system) logs](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PlaintextNotGreatLogFormat)
 * [2024-07-02, 13:21:20](https://news.ycombinator.com/item?id=40856372) - [Car Crash Deaths Involving Cannabis on the Rise](https://www.bu.edu/sph/news/articles/2021/car-crash-deaths-involving-cannabis-on-the-rise/)
 * [2024-07-02, 13:15:15](https://news.ycombinator.com/item?id=40856329) - [Gen AI: too much spend, too little benefit?](https://www.goldmansachs.com/intelligence/pages/gen-ai-too-much-spend-too-little-benefit.html)
