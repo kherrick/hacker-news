@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-02](index.md)
 
+* [2024-07-02, 17:11:53](https://news.ycombinator.com/item?id=40858590) - [Google manipulating your search tabs too?](https://news.ycombinator.com/item?id=40858590)
 * [2024-07-02, 17:11:16](https://news.ycombinator.com/item?id=40858583) - [Bruce Bastian, WordPerfect co-creator, has died](https://www.wsj.com/tech/bruce-bastian-wordperfect-lgbtq-activist-dies-at-76-6da293f4)
 * [2024-07-02, 17:11:16](https://news.ycombinator.com/item?id=40858583) - [Bruce Bastian, WordPerfect co-creator, has died](https://www.heraldextra.com/news/local/2024/jun/17/bruce-bastian-byu-alum-turned-tech-pioneer-and-equality-advocate-dies-at-76/)
 * [2024-07-02, 17:01:14](https://news.ycombinator.com/item?id=40858482) - [OmniAI (YC W24) Is Hiring a Founding Engineer in SF](https://www.workatastartup.com/jobs/67540)
@@ -28,6 +29,7 @@
 * [2024-07-02, 14:22:22](https://news.ycombinator.com/item?id=40857001) - [Python packaging scenarios by the creators of ruff](https://github.com/astral-sh/packse)
 * [2024-07-02, 14:15:43](https://news.ycombinator.com/item?id=40856930) - [Tesla reports Q2 delivery and production figures, beating estimates](https://www.teslarati.com/tesla-tsla-reports-q2-delivery-and-production-figures-beating-estimates/)
 * [2024-07-02, 14:06:37](https://news.ycombinator.com/item?id=40856842) - [Ginkgo Bioworks 'A Hoax for the Ages,'](https://www.fiercebiotech.com/medtech/ginkgo-bioworks-suffers-short-attack-firm-calling-it-a-hoax-for-ages)
+* [2024-07-02, 14:01:45](https://news.ycombinator.com/item?id=40856791) - [Ladybird Web Browser becomes a non-profit with $1M from GitHub Founder](https://www.youtube.com/watch?v=k9edTqPMX_k)
 * [2024-07-02, 13:47:07](https://news.ycombinator.com/item?id=40856616) - [Ant Design – the second most popular React UI framework](https://github.com/ant-design/ant-design)
 * [2024-07-02, 13:36:32](https://news.ycombinator.com/item?id=40856515) - [A.I. Begins Ushering in an Age of Killer Robots](https://www.nytimes.com/2024/07/02/technology/ukraine-war-ai-weapons.html)
 * [2024-07-02, 13:25:22](https://news.ycombinator.com/item?id=40856411) - [Plaintext is not a great format for (system) logs](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PlaintextNotGreatLogFormat)
