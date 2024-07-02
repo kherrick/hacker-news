@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-02, 23:10:31](https://news.ycombinator.com/item?id=40861327) - [What makes e natural? (2004)](https://www.komal.hu/cikkek/2004-ang/e.e.shtml)
 * [2024-07-02, 22:42:00](https://news.ycombinator.com/item?id=40861148) - [The Illustrated Transformer (2018)](https://jalammar.github.io/illustrated-transformer/)
 * [2024-07-02, 22:29:04](https://news.ycombinator.com/item?id=40861057) - [Brazil data regulator bans Meta from mining data to train AI models](https://apnews.com/article/brazil-tech-meta-privacy-data-93e00b2e0e26f7cc98795dd052aea8e1)
-* [2024-07-02, 21:35:07](https://news.ycombinator.com/item?id=40860643) - [Ask HN: Should I use React for a personal portfolio?](https://news.ycombinator.com/item?id=40860643)
 * [2024-07-02, 21:18:13](https://news.ycombinator.com/item?id=40860515) - [Explainability is not a game](https://cacm.acm.org/research/explainability-is-not-a-game/)
 * [2024-07-02, 21:14:16](https://news.ycombinator.com/item?id=40860478) - [Creatine improves physical function and body composition in older adults](https://pubmed.ncbi.nlm.nih.gov/38417175/)
 * [2024-07-02, 21:02:26](https://news.ycombinator.com/item?id=40860375) - [Australia out of natural gas, pays gas companies to export its reserves](https://www.smh.com.au/politics/federal/does-gas-rich-australia-really-need-to-start-importing-it-20240702-p5jqi4.html)

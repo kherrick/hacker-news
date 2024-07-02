@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-02](index.md)
 
+* [2024-07-02, 23:10:31](https://news.ycombinator.com/item?id=40861327) - [What makes e natural? (2004)](https://www.komal.hu/cikkek/2004-ang/e.e.shtml)
 * [2024-07-02, 22:42:00](https://news.ycombinator.com/item?id=40861148) - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 * [2024-07-02, 22:29:04](https://news.ycombinator.com/item?id=40861057) - [Brazil data regulator bans Meta from mining data to train AI models](https://apnews.com/article/brazil-tech-meta-privacy-data-93e00b2e0e26f7cc98795dd052aea8e1)
 * [2024-07-02, 22:10:30](https://news.ycombinator.com/item?id=40860902) - [$105B Electronics Giant Sony to Launch New Bitcoin Exchange](https://bitcoinmagazine.com/business/105-billion-electronics-giant-sony-to-launch-new-bitcoin-exchange)
