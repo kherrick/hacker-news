@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-02, 22:42:00](https://news.ycombinator.com/item?id=40861148) - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 * [2024-07-02, 22:10:30](https://news.ycombinator.com/item?id=40860902) - [$105B Electronics Giant Sony to Launch New Bitcoin Exchange](https://bitcoinmagazine.com/business/105-billion-electronics-giant-sony-to-launch-new-bitcoin-exchange)
 * [2024-07-02, 21:56:40](https://news.ycombinator.com/item?id=40860803) - [Python Modern Practices](https://www.stuartellis.name/articles/python-modern-practices/)
 * [2024-07-02, 21:35:07](https://news.ycombinator.com/item?id=40860643) - [Ask HN: Should I use React for a personal portfolio?](https://news.ycombinator.com/item?id=40860643)
@@ -28,7 +29,6 @@
 * [2024-07-01, 23:26:05](https://news.ycombinator.com/item?id=40851919) - [Getting the World Record in Hatetris (2022)](https://hallofdreams.org/posts/hatetris/)
 * [2024-07-01, 17:55:21](https://news.ycombinator.com/item?id=40848355) - [Digital public archaeology: Excavating data from digs done decades ago](https://phys.org/news/2024-06-digital-archaeology-excavating-decades-today.html)
 * [2024-06-30, 21:37:28](https://news.ycombinator.com/item?id=40840586) - [The Mysterious, Deep-Dwelling Microbes That Sculpt Our Planet](https://www.nytimes.com/2024/06/24/magazine/earth-geomicrobiology-microbes.html)
-* [2024-06-30, 08:38:24](https://news.ycombinator.com/item?id=40835889) - [An unexpected journey into Microsoft Defender's signature World](https://retooling.io/blog/an-unexpected-journey-into-microsoft-defenders-signature-world)
 * [2024-06-27, 19:57:39](https://news.ycombinator.com/item?id=40814424) - [Lyttle Lytton Contest](https://adamcadre.ac/lyttle/2024.html)
 
 ## [Archives](archives/index.md)
