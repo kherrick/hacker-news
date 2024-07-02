@@ -1,8 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-02, 12:00:54](https://news.ycombinator.com/item?id=40855785) - [Lago – Open-Source Usage Based Billing Is Hiring a Data Scientist (EU-Based)](https://www.ycombinator.com/companies/lago/jobs/O7dCOie-data-scientist)
-* [2024-07-02, 11:12:07](https://news.ycombinator.com/item?id=40855461) - [Figma AI is a rip-off engine](https://daringfireball.net/linked/2024/07/01/figma-ai-ripoff-engine)
-* [2024-07-02, 08:45:22](https://news.ycombinator.com/item?id=40854721) - [Microsoft Updated Phi-3](https://twitter.com/reach_vb/status/1808056108319179012)
 * [2024-07-02, 07:26:08](https://news.ycombinator.com/item?id=40854319) - [Diff-pdf: tool to visually compare two PDFs](https://github.com/vslavik/diff-pdf)
 * [2024-07-02, 05:41:25](https://news.ycombinator.com/item?id=40853845) - [Mako – fast, production-grade web bundler based on Rust](https://makojs.dev/blog/mako-open-sourced)
 * [2024-07-02, 05:20:23](https://news.ycombinator.com/item?id=40853770) - [Booting Linux Off of Google Drive](https://ersei.net/en/blog/fuse-root)
@@ -13,11 +11,14 @@
 * [2024-07-01, 19:48:20](https://news.ycombinator.com/item?id=40849840) - [When RAND made magic in Santa Monica](https://asteriskmag.com/issues/06/when-rand-made-magic-in-santa-monica)
 * [2024-07-01, 17:55:21](https://news.ycombinator.com/item?id=40848355) - [Digital public archaeology: Excavating data from digs done decades ago](https://phys.org/news/2024-06-digital-archaeology-excavating-decades-today.html)
 * [2024-07-01, 16:56:32](https://news.ycombinator.com/item?id=40847699) - [Show HN: Doggo – A powerful, human-friendly DNS client for the command line](https://doggo.mrkaran.dev/docs/)
+* [2024-07-01, 16:00:56](https://news.ycombinator.com/item?id=40847085) - [Working Title (Insurance)](https://www.bitsaboutmoney.com/archive/working-title-insurance/)
+* [2024-07-01, 15:41:41](https://news.ycombinator.com/item?id=40846883) - [What goes around comes around and around [pdf]](https://db.cs.cmu.edu/papers/2024/whatgoesaround-sigmodrec2024.pdf)
 * [2024-07-01, 15:01:49](https://news.ycombinator.com/item?id=40846428) - [Ask HN: Who is hiring? (July 2024)](https://news.ycombinator.com/item?id=40846428)
 * [2024-07-01, 15:01:47](https://news.ycombinator.com/item?id=40846426) - [Ask HN: Who wants to be hired? (July 2024)](https://news.ycombinator.com/item?id=40846426)
 * [2024-07-01, 14:38:36](https://news.ycombinator.com/item?id=40846242) - [Show HN: Edna, note taking app for developers](https://edna.arslexis.io/)
 * [2024-07-01, 12:47:38](https://news.ycombinator.com/item?id=40845304) - [My Python code is a neural network](https://blog.gabornyeki.com/2024-07-my-python-code-is-a-neural-network/)
 * [2024-07-01, 08:57:26](https://news.ycombinator.com/item?id=40843867) - [Show HN: I created an After Effects alternative](https://pikimov.com/)
+* [2024-07-01, 08:40:54](https://news.ycombinator.com/item?id=40843778) - [RegreSSHion: RCE in OpenSSH's server, on glibc-based Linux systems](https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt)
 * [2024-07-01, 05:24:23](https://news.ycombinator.com/item?id=40842762) - [A better merge workflow with Jujutsu](https://ofcr.se/jujutsu-merge-workflow)
 * [2024-07-01, 00:24:27](https://news.ycombinator.com/item?id=40841542) - [Conway's Game of Life for curved surfaces (2012)](https://0fps.net/2012/11/19/conways-game-of-life-for-curved-surfaces-part-1/)
 * [2024-06-30, 20:45:09](https://news.ycombinator.com/item?id=40840231) - [Weavers and Concluders: Two communication styles (2021)](https://neuroclastic.com/weavers-and-concluders-two-communication-styles-no-one-knows-exist/)
@@ -28,8 +29,7 @@
 * [2024-06-30, 08:38:24](https://news.ycombinator.com/item?id=40835889) - [An unexpected journey into Microsoft Defender's signature World](https://retooling.io/blog/an-unexpected-journey-into-microsoft-defenders-signature-world)
 * [2024-06-30, 00:52:29](https://news.ycombinator.com/item?id=40834377) - [Pumped-storage hydroelectricity](https://en.wikipedia.org/wiki/Pumped-storage_hydroelectricity)
 * [2024-06-28, 17:48:30](https://news.ycombinator.com/item?id=40823060) - [Paper Trails](https://aeon.co/essays/how-archives-can-make-or-break-a-philosophers-reputation)
-* [2024-06-27, 12:51:36](https://news.ycombinator.com/item?id=40809940) - [Building a Pause Button for Biology](https://www.cradle.xyz/page/problem-statement)
-* [2024-06-27, 10:16:04](https://news.ycombinator.com/item?id=40808976) - [Five new ways to catch gravitational waves – and the secrets they'll reveal](https://www.nature.com/articles/d41586-024-02003-6)
+* [2024-06-28, 03:43:33](https://news.ycombinator.com/item?id=40817487) - [CPS in Hoot](https://wingolog.org/archives/2024/05/27/cps-in-hoot)
 
 ## [Archives](archives/index.md)
 
