@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-02, 03:24:05](https://news.ycombinator.com/item?id=40853280) - [Atoll islands show no widespread physical destabilization from sea-level rise (2018)](https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/wcc.557?emc=edit_nn_20240627&nl=the-morning&te=1)
 * [2024-07-02, 03:16:08](https://news.ycombinator.com/item?id=40853243) - [Greece introduces 'growth-oriented' six-day working week](https://www.theguardian.com/world/article/2024/jul/01/greece-introduces-growth-oriented-six-day-working-week)
 * [2024-07-02, 01:05:42](https://news.ycombinator.com/item?id=40852599) - [Remote Unauthenticated Code Execution in OpenSSH Server](https://blog.qualys.com/vulnerabilities-threat-research/2024/07/01/regresshion-remote-unauthenticated-code-execution-vulnerability-in-openssh-server)
 * [2024-07-01, 23:59:05](https://news.ycombinator.com/item?id=40852155) - [Spending too much time optimizing for loops](https://octavelarose.github.io/2024/05/29/to-do-inlining.html)
@@ -10,6 +9,7 @@
 * [2024-07-01, 21:49:39](https://news.ycombinator.com/item?id=40851130) - [A proof of proof by infinite descent](http://relatedwork.blogspot.com/2024/07/a-proof-of-proof-by-infinite-descent.html)
 * [2024-07-01, 19:48:20](https://news.ycombinator.com/item?id=40849840) - [When RAND made magic in Santa Monica](https://asteriskmag.com/issues/06/when-rand-made-magic-in-santa-monica)
 * [2024-07-01, 16:56:32](https://news.ycombinator.com/item?id=40847699) - [Show HN: Doggo – A powerful, human-friendly DNS client for the command line](https://doggo.mrkaran.dev/docs/)
+* [2024-07-01, 16:29:53](https://news.ycombinator.com/item?id=40847392) - [Using SIMD for Parallel Processing in Rust](https://nrempel.com/using-simd-for-parallel-processing-in-rust/)
 * [2024-07-01, 16:00:56](https://news.ycombinator.com/item?id=40847085) - [Working Title (Insurance)](https://www.bitsaboutmoney.com/archive/working-title-insurance/)
 * [2024-07-01, 15:41:41](https://news.ycombinator.com/item?id=40846883) - [What goes around comes around and around [pdf]](https://db.cs.cmu.edu/papers/2024/whatgoesaround-sigmodrec2024.pdf)
 * [2024-07-01, 15:01:49](https://news.ycombinator.com/item?id=40846428) - [Ask HN: Who is hiring? (July 2024)](https://news.ycombinator.com/item?id=40846428)
