@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-02, 10:14:33](https://news.ycombinator.com/item?id=40855122) - [Htmx does not play well with content security policy](https://www.sjoerdlangkemper.nl/2024/06/26/htmx-content-security-policy/)
+* [2024-07-02, 09:45:54](https://news.ycombinator.com/item?id=40854976) - [Tech went from free love to pay-per-click](https://www.theregister.com/2024/07/02/foss_ai_blockchain/)
 * [2024-07-02, 09:14:36](https://news.ycombinator.com/item?id=40854836) - [Welcome to Ladybird, a truly independent web browser](https://ladybird.org/index.html)
 * [2024-07-02, 08:45:22](https://news.ycombinator.com/item?id=40854721) - [Microsoft Updated Phi-3](https://twitter.com/reach_vb/status/1808056108319179012)
 * [2024-07-02, 08:26:48](https://news.ycombinator.com/item?id=40854623) - [DETRs Beat YOLOs on Real-Time Object Detection](https://zhao-yian.github.io/RTDETR/)
@@ -13,7 +14,6 @@
 * [2024-07-01, 21:49:39](https://news.ycombinator.com/item?id=40851130) - [A proof of proof by infinite descent](http://relatedwork.blogspot.com/2024/07/a-proof-of-proof-by-infinite-descent.html)
 * [2024-07-01, 19:48:20](https://news.ycombinator.com/item?id=40849840) - [When RAND made magic in Santa Monica](https://asteriskmag.com/issues/06/when-rand-made-magic-in-santa-monica)
 * [2024-07-01, 16:56:32](https://news.ycombinator.com/item?id=40847699) - [Show HN: Doggo – A powerful, human-friendly DNS client for the command line](https://doggo.mrkaran.dev/docs/)
-* [2024-07-01, 16:00:56](https://news.ycombinator.com/item?id=40847085) - [Working Title (Insurance)](https://www.bitsaboutmoney.com/archive/working-title-insurance/)
 * [2024-07-01, 15:01:49](https://news.ycombinator.com/item?id=40846428) - [Ask HN: Who is hiring? (July 2024)](https://news.ycombinator.com/item?id=40846428)
 * [2024-07-01, 15:01:47](https://news.ycombinator.com/item?id=40846426) - [Ask HN: Who wants to be hired? (July 2024)](https://news.ycombinator.com/item?id=40846426)
 * [2024-07-01, 14:38:36](https://news.ycombinator.com/item?id=40846242) - [Show HN: Edna, note taking app for developers](https://edna.arslexis.io/)

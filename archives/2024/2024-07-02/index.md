@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-02](index.md)
 
 * [2024-07-02, 10:14:33](https://news.ycombinator.com/item?id=40855122) - [Htmx does not play well with content security policy](https://www.sjoerdlangkemper.nl/2024/06/26/htmx-content-security-policy/)
+* [2024-07-02, 09:45:54](https://news.ycombinator.com/item?id=40854976) - [Tech went from free love to pay-per-click](https://www.theregister.com/2024/07/02/foss_ai_blockchain/)
 * [2024-07-02, 09:14:36](https://news.ycombinator.com/item?id=40854836) - [Welcome to Ladybird, a truly independent web browser](https://ladybird.org/index.html)
 * [2024-07-02, 08:45:22](https://news.ycombinator.com/item?id=40854721) - [Microsoft Updated Phi-3](https://twitter.com/reach_vb/status/1808056108319179012)
 * [2024-07-02, 08:26:48](https://news.ycombinator.com/item?id=40854623) - [DETRs Beat YOLOs on Real-Time Object Detection](https://zhao-yian.github.io/RTDETR/)
