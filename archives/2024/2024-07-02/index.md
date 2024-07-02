@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-07-02](index.md)
 
+* [2024-07-02, 14:43:44](https://news.ycombinator.com/item?id=40857197) - [CSS Surprise Manga Lines](https://alvaromontoro.com/blog/68054/css-manga-lines)
+* [2024-07-02, 14:36:26](https://news.ycombinator.com/item?id=40857120) - [8cc.vim: Pure Vim script C Compiler](https://github.com/rhysd/8cc.vim)
 * [2024-07-02, 14:33:50](https://news.ycombinator.com/item?id=40857092) - [The history of Alt+number sequences](https://devblogs.microsoft.com/oldnewthing/20240702-00/?p=109951)
+* [2024-07-02, 14:27:31](https://news.ycombinator.com/item?id=40857041) - [With fifth busy beaver, researchers approach computation's limits](https://www.quantamagazine.org/amateur-mathematicians-find-fifth-busy-beaver-turing-machine-20240702/)
 * [2024-07-02, 14:23:56](https://news.ycombinator.com/item?id=40857009) - [Show HN: Adding Mistral Codestral and GPT-4o to Jupyter Notebooks](https://github.com/pretzelai/pretzelai/blob/main/README.md)
 * [2024-07-02, 14:22:22](https://news.ycombinator.com/item?id=40857001) - [Python packaging scenarios by the creators of ruff](https://github.com/astral-sh/packse)
 * [2024-07-02, 14:06:37](https://news.ycombinator.com/item?id=40856842) - [Ginkgo Bioworks 'A Hoax for the Ages,'](https://www.fiercebiotech.com/medtech/ginkgo-bioworks-suffers-short-attack-firm-calling-it-a-hoax-for-ages)
