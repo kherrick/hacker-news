@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-02, 20:12:56](https://news.ycombinator.com/item?id=40860039) - [Common Lisp Documentation](http://l1sp.org/html/)
 * [2024-07-02, 20:07:55](https://news.ycombinator.com/item?id=40859993) - [Google's carbon emissions surge nearly 50% due to AI energy demand](https://www.cnbc.com/2024/07/02/googles-carbon-emissions-surge-nearly-50percent-due-to-ai-energy-demand.html)
+* [2024-07-02, 19:50:13](https://news.ycombinator.com/item?id=40859876) - [An epigenetic editor to silence genes](https://www.science.org/doi/10.1126/science.adq3334)
 * [2024-07-02, 18:52:32](https://news.ycombinator.com/item?id=40859429) - [Nuclear spectroscopy breakthrough could rewrite fundamental constants of nature](https://newsroom.ucla.edu/releases/nuclear-spectroscopy-breakthrough-could-rewrite-fundamental-constants-of-nature)
 * [2024-07-02, 17:42:21](https://news.ycombinator.com/item?id=40858844) - [The Submarine (2005)](https://paulgraham.com/submarine.html)
 * [2024-07-02, 17:42:03](https://news.ycombinator.com/item?id=40858841) - [Any Game of Life pattern can be constructed from just 15 gliders](https://btm.qva.mybluehost.me/building-arbitrary-life-patterns-in-15-gliders/)
@@ -22,9 +24,7 @@
 * [2024-07-02, 05:41:25](https://news.ycombinator.com/item?id=40853845) - [Mako – fast, production-grade web bundler based on Rust](https://makojs.dev/blog/mako-open-sourced)
 * [2024-07-02, 05:20:23](https://news.ycombinator.com/item?id=40853770) - [Booting Linux Off of Google Drive](https://ersei.net/en/blog/fuse-root)
 * [2024-07-01, 23:26:05](https://news.ycombinator.com/item?id=40851919) - [Getting the World Record in Hatetris (2022)](https://hallofdreams.org/posts/hatetris/)
-* [2024-07-01, 21:49:39](https://news.ycombinator.com/item?id=40851130) - [A proof of proof by infinite descent](http://relatedwork.blogspot.com/2024/07/a-proof-of-proof-by-infinite-descent.html)
 * [2024-07-01, 17:55:21](https://news.ycombinator.com/item?id=40848355) - [Digital public archaeology: Excavating data from digs done decades ago](https://phys.org/news/2024-06-digital-archaeology-excavating-decades-today.html)
-* [2024-07-01, 14:38:36](https://news.ycombinator.com/item?id=40846242) - [Show HN: Edna, note taking app for developers](https://edna.arslexis.io/)
 * [2024-07-01, 05:20:45](https://news.ycombinator.com/item?id=40842747) - [A Protopian Frontier [video]](https://www.youtube.com/watch?v=8kXdVyIriRk)
 * [2024-06-30, 21:37:28](https://news.ycombinator.com/item?id=40840586) - [The Mysterious, Deep-Dwelling Microbes That Sculpt Our Planet](https://www.nytimes.com/2024/06/24/magazine/earth-geomicrobiology-microbes.html)
 * [2024-06-30, 08:38:24](https://news.ycombinator.com/item?id=40835889) - [An unexpected journey into Microsoft Defender's signature World](https://retooling.io/blog/an-unexpected-journey-into-microsoft-defenders-signature-world)
