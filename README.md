@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-02, 16:14:56](https://news.ycombinator.com/item?id=40858050) - [Google rejected me and now I'm building a search engine](https://daoudclarke.net/search%20engines/2024/07/02/google-rejected-me)
 * [2024-07-02, 15:19:25](https://news.ycombinator.com/item?id=40857517) - [Meta 3D Gen](https://ai.meta.com/research/publications/meta-3d-gen/)
 * [2024-07-02, 14:48:02](https://news.ycombinator.com/item?id=40857236) - [50 Years of Rubik's Cube](https://www.rubiks.com/history#timeline)
 * [2024-07-02, 14:36:26](https://news.ycombinator.com/item?id=40857120) - [8cc.vim: Pure Vim script C Compiler](https://github.com/rhysd/8cc.vim)
@@ -24,7 +25,6 @@
 * [2024-07-01, 15:01:47](https://news.ycombinator.com/item?id=40846426) - [Ask HN: Who wants to be hired? (July 2024)](https://news.ycombinator.com/item?id=40846426)
 * [2024-07-01, 14:38:36](https://news.ycombinator.com/item?id=40846242) - [Show HN: Edna, note taking app for developers](https://edna.arslexis.io/)
 * [2024-07-01, 08:57:26](https://news.ycombinator.com/item?id=40843867) - [Show HN: I created an After Effects alternative](https://pikimov.com/)
-* [2024-07-01, 08:40:54](https://news.ycombinator.com/item?id=40843778) - [RegreSSHion: RCE in OpenSSH's server, on glibc-based Linux systems](https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt)
 * [2024-06-30, 21:37:28](https://news.ycombinator.com/item?id=40840586) - [The Mysterious, Deep-Dwelling Microbes That Sculpt Our Planet](https://www.nytimes.com/2024/06/24/magazine/earth-geomicrobiology-microbes.html)
 * [2024-06-30, 12:24:39](https://news.ycombinator.com/item?id=40836776) - [Show HN: ViperIDE – MicroPython IDE for web and mobile](https://github.com/vshymanskyy/ViperIDE)
 * [2024-06-30, 08:38:24](https://news.ycombinator.com/item?id=40835889) - [An unexpected journey into Microsoft Defender's signature World](https://retooling.io/blog/an-unexpected-journey-into-microsoft-defenders-signature-world)

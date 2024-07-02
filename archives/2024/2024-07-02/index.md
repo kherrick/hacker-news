@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-02](index.md)
 
+* [2024-07-02, 16:14:56](https://news.ycombinator.com/item?id=40858050) - [Google rejected me and now I'm building a search engine](https://daoudclarke.net/search%20engines/2024/07/02/google-rejected-me)
 * [2024-07-02, 15:21:38](https://news.ycombinator.com/item?id=40857537) - [U.S. dollar climbs to new 38-year peak vs. yen](https://www.asahi.com/ajw/articles/15328532)
 * [2024-07-02, 15:19:25](https://news.ycombinator.com/item?id=40857517) - [Meta 3D Gen](https://ai.meta.com/research/publications/meta-3d-gen/)
 * [2024-07-02, 15:12:12](https://news.ycombinator.com/item?id=40857432) - [Ask HN: What is your experience with Claude 3.5?](https://news.ycombinator.com/item?id=40857432)
