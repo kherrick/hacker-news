@@ -1,22 +1,12 @@
 [
   [
     [
-      "2024-07-02, 03:14:28",
-      "https://news.ycombinator.com/item?id=40853235"
+      "2024-07-02, 02:59:54",
+      "https://news.ycombinator.com/item?id=40853181"
     ],
     [
-      "Figma AI looks rather trained on existing apps",
-      "https://twitter.com/asallen/status/1807675146020454808"
-    ]
-  ],
-  [
-    [
-      "2024-07-02, 01:37:25",
-      "https://news.ycombinator.com/item?id=40852751"
-    ],
-    [
-      "Google Predicts the Flu Again",
-      "https://arxiv.org/abs/2407.00085"
+      "Walmart first major retailer in North America to deploy hydrogen semi truck",
+      "https://electrek.co/2024/06/30/walmart-first-retailer-in-north-america-to-deploy-hydrogen-semi-truck/"
     ]
   ],
   [
@@ -61,6 +51,16 @@
   ],
   [
     [
+      "2024-07-01, 22:45:39",
+      "https://news.ycombinator.com/item?id=40851638"
+    ],
+    [
+      "Improving your Zig language server experience",
+      "https://kristoff.it/blog/improving-your-zls-experience/"
+    ]
+  ],
+  [
+    [
       "2024-07-01, 21:49:39",
       "https://news.ycombinator.com/item?id=40851130"
     ],
@@ -87,6 +87,16 @@
     [
       "Show HN: Doggo – A powerful, human-friendly DNS client for the command line",
       "https://doggo.mrkaran.dev/docs/"
+    ]
+  ],
+  [
+    [
+      "2024-07-01, 16:29:53",
+      "https://news.ycombinator.com/item?id=40847392"
+    ],
+    [
+      "Using SIMD for Parallel Processing in Rust",
+      "https://nrempel.com/using-simd-for-parallel-processing-in-rust/"
     ]
   ],
   [
@@ -257,16 +267,6 @@
     [
       "The cutest monopoly: Koala Kare",
       "https://thehustle.co/originals/the-worlds-cutest-monopoly"
-    ]
-  ],
-  [
-    [
-      "2024-06-30, 09:56:10",
-      "https://news.ycombinator.com/item?id=40836174"
-    ],
-    [
-      "Automating my gate door via a smart relay",
-      "https://arslan.io/2024/06/30/automating-my-gate-door-with-zigbee-relay/"
     ]
   ],
   [
