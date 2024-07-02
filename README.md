@@ -7,6 +7,8 @@
 * [2024-07-02, 20:00:01](https://news.ycombinator.com/item?id=40859937) - [Sonar is destroying my job and it's driving me to despair](https://community.sonarsource.com/t/sonar-is-destroying-my-job-and-its-driving-me-to-despair/92438)
 * [2024-07-02, 19:50:13](https://news.ycombinator.com/item?id=40859876) - [An epigenetic editor to silence genes](https://www.science.org/doi/10.1126/science.adq3334)
 * [2024-07-02, 18:52:32](https://news.ycombinator.com/item?id=40859429) - [Nuclear spectroscopy breakthrough could rewrite fundamental constants of nature](https://newsroom.ucla.edu/releases/nuclear-spectroscopy-breakthrough-could-rewrite-fundamental-constants-of-nature)
+* [2024-07-02, 17:42:21](https://news.ycombinator.com/item?id=40858844) - [The Submarine (2005)](https://paulgraham.com/submarine.html)
+* [2024-07-02, 17:34:53](https://news.ycombinator.com/item?id=40858789) - [Study finds hybrid work benefits companies and employees](https://news.stanford.edu/stories/2024/06/hybrid-work-is-a-win-win-win-for-companies-workers)
 * [2024-07-02, 17:20:08](https://news.ycombinator.com/item?id=40858670) - [Exploring biphasic programming: a new approach in language design](https://rybicki.io/blog/2024/06/30/biphasic-programming.html)
 * [2024-07-02, 17:11:16](https://news.ycombinator.com/item?id=40858583) - [Bruce Bastian, WordPerfect co-creator, has died](https://www.heraldextra.com/news/local/2024/jun/17/bruce-bastian-byu-alum-turned-tech-pioneer-and-equality-advocate-dies-at-76/)
 * [2024-07-02, 17:01:14](https://news.ycombinator.com/item?id=40858482) - [OmniAI (YC W24) Is Hiring a Founding Engineer in SF](https://www.workatastartup.com/jobs/67540)
@@ -27,8 +29,6 @@
 * [2024-07-01, 10:29:52](https://news.ycombinator.com/item?id=40844391) - [Extreme Measures Needed to Scale Chips](https://spectrum.ieee.org/chip-scaling)
 * [2024-07-01, 05:20:45](https://news.ycombinator.com/item?id=40842747) - [A Protopian Frontier [video]](https://www.youtube.com/watch?v=8kXdVyIriRk)
 * [2024-06-30, 21:37:28](https://news.ycombinator.com/item?id=40840586) - [The Mysterious, Deep-Dwelling Microbes That Sculpt Our Planet](https://www.nytimes.com/2024/06/24/magazine/earth-geomicrobiology-microbes.html)
-* [2024-06-30, 08:38:24](https://news.ycombinator.com/item?id=40835889) - [An unexpected journey into Microsoft Defender's signature World](https://retooling.io/blog/an-unexpected-journey-into-microsoft-defenders-signature-world)
-* [2024-06-28, 17:48:30](https://news.ycombinator.com/item?id=40823060) - [Paper Trails](https://aeon.co/essays/how-archives-can-make-or-break-a-philosophers-reputation)
 * [2024-06-27, 19:57:39](https://news.ycombinator.com/item?id=40814424) - [Lyttle Lytton Contest](https://adamcadre.ac/lyttle/2024.html)
 
 ## [Archives](archives/index.md)
