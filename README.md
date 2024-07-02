@@ -25,9 +25,9 @@
 * [2024-07-01, 14:38:36](https://news.ycombinator.com/item?id=40846242) - [Show HN: Edna, note taking app for developers](https://edna.arslexis.io/)
 * [2024-07-01, 08:57:26](https://news.ycombinator.com/item?id=40843867) - [Show HN: I created an After Effects alternative](https://pikimov.com/)
 * [2024-06-30, 21:37:28](https://news.ycombinator.com/item?id=40840586) - [The Mysterious, Deep-Dwelling Microbes That Sculpt Our Planet](https://www.nytimes.com/2024/06/24/magazine/earth-geomicrobiology-microbes.html)
-* [2024-06-30, 12:24:39](https://news.ycombinator.com/item?id=40836776) - [Show HN: ViperIDE – MicroPython IDE for web and mobile](https://github.com/vshymanskyy/ViperIDE)
 * [2024-06-30, 08:38:24](https://news.ycombinator.com/item?id=40835889) - [An unexpected journey into Microsoft Defender's signature World](https://retooling.io/blog/an-unexpected-journey-into-microsoft-defenders-signature-world)
 * [2024-06-30, 04:43:21](https://news.ycombinator.com/item?id=40835197) - [The Soviet Union's Monster Mi-6 Helicopter Airliner](https://www.twz.com/news-features/the-story-of-the-monster-mi-6-helicopter-airliner)
+* [2024-06-30, 03:59:16](https://news.ycombinator.com/item?id=40835051) - [Hayek, the Accidental Freudian](https://www.newyorker.com/culture/the-weekend-essay/hayek-the-accidental-freudian)
 * [2024-06-28, 17:48:30](https://news.ycombinator.com/item?id=40823060) - [Paper Trails](https://aeon.co/essays/how-archives-can-make-or-break-a-philosophers-reputation)
 * [2024-06-27, 19:57:39](https://news.ycombinator.com/item?id=40814424) - [Lyttle Lytton Contest](https://adamcadre.ac/lyttle/2024.html)
 

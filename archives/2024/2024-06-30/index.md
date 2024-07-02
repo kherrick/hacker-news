@@ -86,6 +86,7 @@
 * [2024-06-30, 04:43:21](https://news.ycombinator.com/item?id=40835197) - [The Soviet Union's Monster Mi-6 Helicopter Airliner](https://www.twz.com/news-features/the-story-of-the-monster-mi-6-helicopter-airliner)
 * [2024-06-30, 04:39:11](https://news.ycombinator.com/item?id=40835181) - [Art and Artifice](https://harpers.org/archive/2024/07/art-and-artifice-donna-tartt/)
 * [2024-06-30, 04:19:06](https://news.ycombinator.com/item?id=40835117) - [OpenDNS Suspends Service in France Due to Canal+ Piracy Blocking Order](https://torrentfreak.com/opendns-suspends-service-in-france-due-to-canal-piracy-blocking-order-240629/)
+* [2024-06-30, 03:59:16](https://news.ycombinator.com/item?id=40835051) - [Hayek, the Accidental Freudian](https://www.newyorker.com/culture/the-weekend-essay/hayek-the-accidental-freudian)
 * [2024-06-30, 01:56:41](https://news.ycombinator.com/item?id=40834600) - [Chrome is adding `window.ai` – a Gemini Nano AI model right inside the browser](https://twitter.com/rauchg/status/1806385778064564622)
 * [2024-06-30, 01:22:40](https://news.ycombinator.com/item?id=40834504) - [Chr – terminal editor inspired by Turbo Pascal editor from 1997](https://github.com/istoph/editor)
 * [2024-06-30, 01:07:13](https://news.ycombinator.com/item?id=40834440) - [The good, the bad, and the weird (2018)](https://blog.trailofbits.com/2018/10/26/the-good-the-bad-and-the-weird/)
