@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-02, 03:16:08](https://news.ycombinator.com/item?id=40853243) - [Greece introduces 'growth-oriented' six-day working week](https://www.theguardian.com/world/article/2024/jul/01/greece-introduces-growth-oriented-six-day-working-week)
+* [2024-07-02, 03:14:28](https://news.ycombinator.com/item?id=40853235) - [Figma AI looks rather trained on existing apps](https://twitter.com/asallen/status/1807675146020454808)
 * [2024-07-02, 01:05:42](https://news.ycombinator.com/item?id=40852599) - [Remote Unauthenticated Code Execution in OpenSSH Server](https://blog.qualys.com/vulnerabilities-threat-research/2024/07/01/regresshion-remote-unauthenticated-code-execution-vulnerability-in-openssh-server)
 * [2024-07-01, 23:59:05](https://news.ycombinator.com/item?id=40852155) - [Spending too much time optimizing for loops](https://octavelarose.github.io/2024/05/29/to-do-inlining.html)
 * [2024-07-01, 23:26:05](https://news.ycombinator.com/item?id=40851919) - [Getting the World Record in Hatetris (2022)](https://hallofdreams.org/posts/hatetris/)
@@ -9,7 +9,6 @@
 * [2024-07-01, 21:49:39](https://news.ycombinator.com/item?id=40851130) - [A proof of proof by infinite descent](http://relatedwork.blogspot.com/2024/07/a-proof-of-proof-by-infinite-descent.html)
 * [2024-07-01, 19:48:20](https://news.ycombinator.com/item?id=40849840) - [When RAND made magic in Santa Monica](https://asteriskmag.com/issues/06/when-rand-made-magic-in-santa-monica)
 * [2024-07-01, 16:56:32](https://news.ycombinator.com/item?id=40847699) - [Show HN: Doggo – A powerful, human-friendly DNS client for the command line](https://doggo.mrkaran.dev/docs/)
-* [2024-07-01, 16:29:53](https://news.ycombinator.com/item?id=40847392) - [Using SIMD for Parallel Processing in Rust](https://nrempel.com/using-simd-for-parallel-processing-in-rust/)
 * [2024-07-01, 16:00:56](https://news.ycombinator.com/item?id=40847085) - [Working Title (Insurance)](https://www.bitsaboutmoney.com/archive/working-title-insurance/)
 * [2024-07-01, 15:41:41](https://news.ycombinator.com/item?id=40846883) - [What goes around comes around and around [pdf]](https://db.cs.cmu.edu/papers/2024/whatgoesaround-sigmodrec2024.pdf)
 * [2024-07-01, 15:01:49](https://news.ycombinator.com/item?id=40846428) - [Ask HN: Who is hiring? (July 2024)](https://news.ycombinator.com/item?id=40846428)
@@ -17,6 +16,7 @@
 * [2024-07-01, 14:38:36](https://news.ycombinator.com/item?id=40846242) - [Show HN: Edna, note taking app for developers](https://edna.arslexis.io/)
 * [2024-07-01, 12:47:38](https://news.ycombinator.com/item?id=40845304) - [My Python code is a neural network](https://blog.gabornyeki.com/2024-07-my-python-code-is-a-neural-network/)
 * [2024-07-01, 08:57:26](https://news.ycombinator.com/item?id=40843867) - [Show HN: I created an After Effects alternative](https://pikimov.com/)
+* [2024-07-01, 08:53:04](https://news.ycombinator.com/item?id=40843848) - [My finetuned models beat OpenAI's GPT-4](https://mlops.systems/posts/2024-07-01-full-finetuned-model-evaluation.html)
 * [2024-07-01, 08:40:54](https://news.ycombinator.com/item?id=40843778) - [RegreSSHion: RCE in OpenSSH's server, on glibc-based Linux systems](https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt)
 * [2024-07-01, 05:24:23](https://news.ycombinator.com/item?id=40842762) - [A better merge workflow with Jujutsu](https://ofcr.se/jujutsu-merge-workflow)
 * [2024-07-01, 00:24:27](https://news.ycombinator.com/item?id=40841542) - [Conway's Game of Life for curved surfaces (2012)](https://0fps.net/2012/11/19/conways-game-of-life-for-curved-surfaces-part-1/)
