@@ -1,32 +1,12 @@
 [
   [
     [
-      "2024-07-02, 18:12:41",
-      "https://news.ycombinator.com/item?id=40859084"
-    ],
-    [
-      "Former Kansas bank CEO admits to embezzling $47M for crypto scheme",
-      "https://www.cjonline.com/story/news/crime/2024/05/28/kansas-bank-ceo-embezzled-millions-in-crypto-scheme-that-killed-bank/73843999007/"
-    ]
-  ],
-  [
-    [
       "2024-07-02, 18:08:04",
       "https://news.ycombinator.com/item?id=40859048"
     ],
     [
       "How generative AI is trying to rip the screaming soul out of the Enlightenment",
       "https://www.asomo.co/p/generative-ai-the-emptiness-machine"
-    ]
-  ],
-  [
-    [
-      "2024-07-02, 18:00:04",
-      "https://news.ycombinator.com/item?id=40858981"
-    ],
-    [
-      "Why refrigerators and other kitchen appliances break so easily now",
-      "https://www.washingtonpost.com/home/2024/07/02/why-refrigerator-oven-dishwasher-break/"
     ]
   ],
   [
@@ -65,7 +45,7 @@
       "https://news.ycombinator.com/item?id=40857174"
     ],
     [
-      "GraphRAG (from Microsoft) is now open-source!",
+      "GraphRAG is now on GitHub",
       "https://www.microsoft.com/en-us/research/blog/graphrag-new-tool-for-complex-data-discovery-now-on-github/"
     ]
   ],
@@ -231,6 +211,16 @@
   ],
   [
     [
+      "2024-07-01, 16:00:56",
+      "https://news.ycombinator.com/item?id=40847085"
+    ],
+    [
+      "Working Title (Insurance)",
+      "https://www.bitsaboutmoney.com/archive/working-title-insurance/"
+    ]
+  ],
+  [
+    [
       "2024-07-01, 14:38:36",
       "https://news.ycombinator.com/item?id=40846242"
     ],
@@ -241,12 +231,12 @@
   ],
   [
     [
-      "2024-07-01, 14:03:12",
-      "https://news.ycombinator.com/item?id=40845940"
+      "2024-07-01, 08:57:26",
+      "https://news.ycombinator.com/item?id=40843867"
     ],
     [
-      "Leaked Arrow Lake diagram show more PCIe lanes, no DDR4, 2 M.2 SSD ports to CPU",
-      "https://www.tomshardware.com/pc-components/cpus/leaked-intel-arrow-lake-chipset-diagram-show-more-pcie-lanes-no-support-for-ddr4-new-chipset-boasts-two-m2-ssd-ports-connected-directly-to-cpu"
+      "Show HN: I created an After Effects alternative",
+      "https://pikimov.com/"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "The Mysterious, Deep-Dwelling Microbes That Sculpt Our Planet",
       "https://www.nytimes.com/2024/06/24/magazine/earth-geomicrobiology-microbes.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-30, 12:24:39",
+      "https://news.ycombinator.com/item?id=40836776"
+    ],
+    [
+      "Show HN: ViperIDE – MicroPython IDE for web and mobile",
+      "https://github.com/vshymanskyy/ViperIDE"
     ]
   ],
   [
