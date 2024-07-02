@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-07-02, 16:14:56",
-      "https://news.ycombinator.com/item?id=40858050"
+      "2024-07-02, 17:01:14",
+      "https://news.ycombinator.com/item?id=40858482"
     ],
     [
-      "Google rejected me and now I'm building a search engine",
-      "https://daoudclarke.net/search%20engines/2024/07/02/google-rejected-me"
+      "OmniAI (YC W24) Is Hiring a Founding Engineer in SF",
+      "https://www.workatastartup.com/jobs/67540"
     ]
   ],
   [
@@ -21,12 +21,12 @@
   ],
   [
     [
-      "2024-07-02, 14:48:02",
-      "https://news.ycombinator.com/item?id=40857236"
+      "2024-07-02, 14:41:19",
+      "https://news.ycombinator.com/item?id=40857174"
     ],
     [
-      "50 Years of Rubik's Cube",
-      "https://www.rubiks.com/history#timeline"
+      "GraphRAG (from Microsoft) is now open-source!",
+      "https://www.microsoft.com/en-us/research/blog/graphrag-new-tool-for-complex-data-discovery-now-on-github/"
     ]
   ],
   [
@@ -87,16 +87,6 @@
     [
       "Why Is Chile So Long?",
       "https://unchartedterritories.tomaspueyo.com/p/why-is-chile-so-long"
-    ]
-  ],
-  [
-    [
-      "2024-07-02, 12:00:54",
-      "https://news.ycombinator.com/item?id=40855785"
-    ],
-    [
-      "Lago – Open-Source Usage Based Billing Is Hiring a Data Scientist (EU-Based)",
-      "https://www.ycombinator.com/companies/lago/jobs/O7dCOie-data-scientist"
     ]
   ],
   [
@@ -247,6 +237,16 @@
     [
       "Show HN: I created an After Effects alternative",
       "https://pikimov.com/"
+    ]
+  ],
+  [
+    [
+      "2024-07-01, 08:40:54",
+      "https://news.ycombinator.com/item?id=40843778"
+    ],
+    [
+      "RegreSSHion: RCE in OpenSSH's server, on glibc-based Linux systems",
+      "https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt"
     ]
   ],
   [
