@@ -1,8 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-03, 19:55:41](https://news.ycombinator.com/item?id=40869461) - [AI's $600B Question](https://www.sequoiacap.com/article/ais-600b-question/)
 * [2024-07-03, 19:51:43](https://news.ycombinator.com/item?id=40869421) - [Introducing Voice Isolator and Background Noise Remover](https://elevenlabs.io/voice-isolator)
-* [2024-07-03, 18:30:35](https://news.ycombinator.com/item?id=40868752) - [Shapeways files for bankruptcy](https://www.voxelmatters.com/shapeways-files-for-bankruptcy/)
 * [2024-07-03, 17:58:14](https://news.ycombinator.com/item?id=40868425) - [Luakit: A fast, extensible, and customizable web browser](https://luakit.github.io/)
 * [2024-07-03, 17:00:44](https://news.ycombinator.com/item?id=40867845) - [Spice (YC S19) Is Hiring](https://www.ycombinator.com/companies/spice/jobs/TijA35R-software-engineer)
 * [2024-07-03, 16:48:34](https://news.ycombinator.com/item?id=40867746) - [A practical introduction to constraint programming using CP-SAT and Python](https://pganalyze.com/blog/a-practical-introduction-to-constraint-programming-using-cp-sat)
@@ -30,6 +28,8 @@
 * [2024-06-30, 23:47:49](https://news.ycombinator.com/item?id=40841403) - [Advice to Young Mathematicians [video]](https://www.youtube.com/watch?v=B8RkQq-1_ZU)
 * [2024-06-30, 22:34:07](https://news.ycombinator.com/item?id=40840938) - [Goodwatch – A Ham Radio Wristwatch (2020)](https://kk4vcz.com/goodwatch/)
 * [2024-06-30, 21:45:08](https://news.ycombinator.com/item?id=40840635) - [What's in my location history?](https://zdimension.fr/whats-in-my-location-history/)
+* [2024-06-30, 21:40:05](https://news.ycombinator.com/item?id=40840599) - [Python programming for Nintendo 8 bits (2018)](https://github.com/gutomaia/pyNES)
+* [2024-06-30, 06:04:04](https://news.ycombinator.com/item?id=40835409) - [Botanist tells how nettles helped solve Soham murders](https://www.theguardian.com/uk-news/article/2024/jun/30/botanist-tells-how-nettles-helped-solve-soham-murders)
 
 ## [Archives](archives/index.md)
 
