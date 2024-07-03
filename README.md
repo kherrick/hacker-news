@@ -18,7 +18,6 @@
 * [2024-07-02, 20:11:43](https://news.ycombinator.com/item?id=40860022) - [Show HN: I made a search engine for Hacker News](https://hackernews.demo.vectara.com/)
 * [2024-07-02, 19:50:13](https://news.ycombinator.com/item?id=40859876) - [An epigenetic editor to silence genes](https://www.science.org/doi/10.1126/science.adq3334)
 * [2024-07-02, 17:20:08](https://news.ycombinator.com/item?id=40858670) - [Exploring biphasic programming: a new approach in language design](https://rybicki.io/blog/2024/06/30/biphasic-programming.html)
-* [2024-07-02, 17:11:16](https://news.ycombinator.com/item?id=40858583) - [Bruce Bastian, WordPerfect co-creator, has died](https://www.heraldextra.com/news/local/2024/jun/17/bruce-bastian-byu-alum-turned-tech-pioneer-and-equality-advocate-dies-at-76/)
 * [2024-07-02, 15:19:25](https://news.ycombinator.com/item?id=40857517) - [Meta 3D Gen](https://ai.meta.com/research/publications/meta-3d-gen/)
 * [2024-07-02, 14:36:26](https://news.ycombinator.com/item?id=40857120) - [8cc.vim: Pure Vim script C Compiler](https://github.com/rhysd/8cc.vim)
 * [2024-07-02, 14:27:31](https://news.ycombinator.com/item?id=40857041) - [With fifth busy beaver, researchers approach computation's limits](https://www.quantamagazine.org/amateur-mathematicians-find-fifth-busy-beaver-turing-machine-20240702/)
@@ -30,6 +29,7 @@
 * [2024-07-01, 10:59:11](https://news.ycombinator.com/item?id=40844536) - [Watching \"Grizzly Man\" with a Bear Biologist](https://www.backpacker.com/survival/watching-grizzly-man-with-bear-biologist-wesley-larson/)
 * [2024-07-01, 10:29:34](https://news.ycombinator.com/item?id=40844387) - [Examining the Nintendo Switch (Tegra X1) Video Engine](https://chipsandcheese.com/2024/06/28/examining-the-nintendo-switch-tegra-x1-video-engine/)
 * [2024-07-01, 02:29:28](https://news.ycombinator.com/item?id=40842082) - [Richat Structure](https://earthobservatory.nasa.gov/images/92071/richat-structure)
+* [2024-06-29, 17:38:01](https://news.ycombinator.com/item?id=40832206) - [Show HN: Faktor – The missing 2FA code autocomplete for Chrome](https://getfaktor.com/)
 
 ## [Archives](archives/index.md)
 
