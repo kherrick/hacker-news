@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2024-07-02, 20:42:09",
-      "https://news.ycombinator.com/item?id=40860227"
-    ],
-    [
-      "The Queen's Doll's House",
-      "https://clairelevans.substack.com/p/the-queens-dolls-house"
-    ]
-  ],
-  [
-    [
       "2024-07-02, 20:11:43",
       "https://news.ycombinator.com/item?id=40860022"
     ],
@@ -287,6 +277,16 @@
     [
       "Python programming for Nintendo 8 bits",
       "https://github.com/gutomaia/pyNES"
+    ]
+  ],
+  [
+    [
+      "2024-06-30, 18:29:03",
+      "https://news.ycombinator.com/item?id=40838992"
+    ],
+    [
+      "Benchmarking Perfect Hashing in C++",
+      "https://boost-ext.github.io/mph/perfect_hashing/"
     ]
   ],
   [
