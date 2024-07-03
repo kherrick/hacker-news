@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-03, 17:05:24",
+      "https://news.ycombinator.com/item?id=40867892"
+    ],
+    [
+      "Hurricane Beryl Tests Jamaica's $1.6B Disaster Safety Net",
+      "https://finance.yahoo.com/news/hurricane-beryl-tests-jamaica-1-151411849.html"
+    ]
+  ],
+  [
+    [
       "2024-07-03, 17:00:44",
       "https://news.ycombinator.com/item?id=40867845"
     ],
@@ -91,16 +101,6 @@
   ],
   [
     [
-      "2024-07-03, 14:35:13",
-      "https://news.ycombinator.com/item?id=40866311"
-    ],
-    [
-      "Ask HN: Has anyone successfully pivoted from web dev to AI/ML development?",
-      "https://news.ycombinator.com/item?id=40866311"
-    ]
-  ],
-  [
-    [
       "2024-07-03, 14:18:56",
       "https://news.ycombinator.com/item?id=40866155"
     ],
@@ -117,16 +117,6 @@
     [
       "Python with Braces",
       "https://github.com/mathialo/bython"
-    ]
-  ],
-  [
-    [
-      "2024-07-03, 13:01:29",
-      "https://news.ycombinator.com/item?id=40865559"
-    ],
-    [
-      "Hypr-dynamic-cursors: a plugin to make your hyprland cursor rotate",
-      "https://github.com/VirtCode/hypr-dynamic-cursors"
     ]
   ],
   [
@@ -221,22 +211,32 @@
   ],
   [
     [
+      "2024-07-01, 19:10:52",
+      "https://news.ycombinator.com/item?id=40849363"
+    ],
+    [
+      "A Git story: Not so fun this time",
+      "https://blog.brachiosoft.com/en/posts/git/"
+    ]
+  ],
+  [
+    [
+      "2024-07-01, 17:54:24",
+      "https://news.ycombinator.com/item?id=40848340"
+    ],
+    [
+      "A survey of general-purpose polyhedral compilers",
+      "https://dl.acm.org/doi/abs/10.1145/3674735"
+    ]
+  ],
+  [
+    [
       "2024-07-01, 15:27:25",
       "https://news.ycombinator.com/item?id=40846726"
     ],
     [
       "Architectural cross-section of Kowloon Walled City",
       "https://cohost.org/belarius/post/6677850-architectural-cross"
-    ]
-  ],
-  [
-    [
-      "2024-07-01, 15:08:51",
-      "https://news.ycombinator.com/item?id=40846524"
-    ],
-    [
-      "The first 10k games at bgammon.org, an open source online backgammon service",
-      "https://bgammon.org/blog/20240701-the-first-ten-thousand-games/"
     ]
   ],
   [
