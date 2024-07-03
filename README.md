@@ -20,6 +20,7 @@
 * [2024-07-02, 21:44:53](https://news.ycombinator.com/item?id=40860713) - [A British clergyman who predicted black holes in 1783](https://www.bbc.com/future/article/20240626-the-priest-who-predicted-black-holes-in-1783)
 * [2024-07-02, 21:01:13](https://news.ycombinator.com/item?id=40860364) - [Tour de France: How professional cycling teams eat and cook on the road](https://www.bbc.co.uk/sport/cycling/articles/cxxx568grlwo)
 * [2024-07-02, 18:48:28](https://news.ycombinator.com/item?id=40859393) - [Aboriginal ritual passed down over 12,000 years, cave find shows](https://phys.org/news/2024-07-aboriginal-ritual-years-cave.html)
+* [2024-07-02, 00:08:54](https://news.ycombinator.com/item?id=40852227) - [Exploring Quantum Mpemba Effects](https://physics.aps.org/articles/v17/105)
 * [2024-07-01, 23:39:07](https://news.ycombinator.com/item?id=40852004) - [Tracing the hidden hand of magnetism in the galaxy](https://www.quantamagazine.org/tracing-the-hidden-hand-of-magnetism-in-the-galaxy-20240701/)
 * [2024-07-01, 19:10:52](https://news.ycombinator.com/item?id=40849363) - [A Git story: Not so fun this time](https://blog.brachiosoft.com/en/posts/git/)
 * [2024-07-01, 17:54:24](https://news.ycombinator.com/item?id=40848340) - [A survey of general-purpose polyhedral compilers](https://dl.acm.org/doi/abs/10.1145/3674735)
@@ -29,7 +30,6 @@
 * [2024-06-30, 22:34:07](https://news.ycombinator.com/item?id=40840938) - [Goodwatch – A Ham Radio Wristwatch (2020)](https://kk4vcz.com/goodwatch/)
 * [2024-06-30, 21:45:08](https://news.ycombinator.com/item?id=40840635) - [What's in my location history?](https://zdimension.fr/whats-in-my-location-history/)
 * [2024-06-30, 21:40:05](https://news.ycombinator.com/item?id=40840599) - [Python programming for Nintendo 8 bits (2018)](https://github.com/gutomaia/pyNES)
-* [2024-06-30, 06:04:04](https://news.ycombinator.com/item?id=40835409) - [Botanist tells how nettles helped solve Soham murders](https://www.theguardian.com/uk-news/article/2024/jun/30/botanist-tells-how-nettles-helped-solve-soham-murders)
 
 ## [Archives](archives/index.md)
 

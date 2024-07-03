@@ -109,3 +109,4 @@
 * [2024-07-02, 01:37:25](https://news.ycombinator.com/item?id=40852751) - [Google Predicts the Flu Again](https://arxiv.org/abs/2407.00085)
 * [2024-07-02, 01:05:42](https://news.ycombinator.com/item?id=40852599) - [Remote Unauthenticated Code Execution in OpenSSH Server](https://blog.qualys.com/vulnerabilities-threat-research/2024/07/01/regresshion-remote-unauthenticated-code-execution-vulnerability-in-openssh-server)
 * [2024-07-02, 01:00:43](https://news.ycombinator.com/item?id=40852568) - [Big Things in Small Packages: The Charm of Japan's Kei Truck](https://www.nippon.com/en/japan-topics/g24001/)
+* [2024-07-02, 00:08:54](https://news.ycombinator.com/item?id=40852227) - [Exploring Quantum Mpemba Effects](https://physics.aps.org/articles/v17/105)
