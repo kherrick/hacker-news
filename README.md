@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-03, 17:59:59](https://news.ycombinator.com/item?id=40868448) - [AI Agents That Matter](https://www.aisnakeoil.com/p/new-paper-ai-agents-that-matter)
 * [2024-07-03, 17:00:44](https://news.ycombinator.com/item?id=40867845) - [Spice (YC S19) Is Hiring](https://www.ycombinator.com/companies/spice/jobs/TijA35R-software-engineer)
 * [2024-07-03, 16:48:34](https://news.ycombinator.com/item?id=40867746) - [A Practical Introduction to Constraint Programming Using CP-SAT and Python](https://pganalyze.com/blog/a-practical-introduction-to-constraint-programming-using-cp-sat)
 * [2024-07-03, 16:47:26](https://news.ycombinator.com/item?id=40867735) - [Multimodal Canvas: An experiment of Pictionary powered by Gemini 1.5 Flash](https://labs.google/multimodal-canvas)
-* [2024-07-03, 16:45:01](https://news.ycombinator.com/item?id=40867709) - [The Cheapest NAS](https://sigwait.org/~alex/blog/2024/07/01/the-cheapest-nas.html)
 * [2024-07-03, 16:03:10](https://news.ycombinator.com/item?id=40867273) - [The legacy of Liverpool's forgotten synchrocyclotron](https://physicsworld.com/a/the-legacy-of-liverpools-forgotten-synchrocyclotron/)
 * [2024-07-03, 15:25:01](https://news.ycombinator.com/item?id=40866883) - [A mathematical thought experiment for accepting the continuum hypothesis](https://jdh.hamkins.org/how-ch-could-have-been-fundamental/)
 * [2024-07-03, 14:47:18](https://news.ycombinator.com/item?id=40866442) - [Making a Linux-managed network switch](https://blog.brixit.nl/making-a-linux-managed-network-switch/)
