@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-03](index.md)
 
+* [2024-07-03, 22:33:45](https://news.ycombinator.com/item?id=40870642) - [Spain introduces \"Porn Passport\" to keep kids from watching porn](https://www.politico.eu/article/spain-builds-porn-passport-to-stop-kids-watching-smut/)
+* [2024-07-03, 22:17:32](https://news.ycombinator.com/item?id=40870515) - [Judge delays ban on noncompete agreements for employees](https://www.cnn.com/2024/07/03/business/noncompete-clause-federal-judge-ruling/index.html)
 * [2024-07-03, 22:01:26](https://news.ycombinator.com/item?id=40870403) - [NASA selects SpaceX to launch a gamma-ray telescope into an unusual orbit](https://arstechnica.com/space/2024/07/spacex-selected-to-launch-nasa-mission-probing-the-creation-of-matter/)
 * [2024-07-03, 21:56:22](https://news.ycombinator.com/item?id=40870366) - [Ladybird web browser funded by GitHub co-founder, promises 'no code' from rivals](https://devclass.com/2024/07/03/ladybird-web-browser-project-now-funded-by-github-co-founder-promises-no-code-from-other-browsers/)
 * [2024-07-03, 21:55:13](https://news.ycombinator.com/item?id=40870357) - [The Origins of DS_store (2006)](https://www.arno.org/on-the-origins-of-ds-store)
