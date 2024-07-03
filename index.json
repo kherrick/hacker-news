@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-03, 03:01:19",
+      "https://news.ycombinator.com/item?id=40862363"
+    ],
+    [
+      "GPUs can now use PCIe-attached memory or SSDs to boost VRAM capacity",
+      "https://www.tomshardware.com/pc-components/gpus/gpus-get-a-boost-from-pcie-attached-memory-that-boosts-capacity-and-delivers-double-digit-nanosecond-latency-ssds-can-also-be-used-to-expand-gpu-memory-capacity-via-panmnesias-cxl-ip"
+    ]
+  ],
+  [
+    [
       "2024-07-03, 02:58:22",
       "https://news.ycombinator.com/item?id=40862346"
     ],
@@ -117,16 +127,6 @@
     [
       "Show HN: I made a search engine for Hacker News",
       "https://hackernews.demo.vectara.com/"
-    ]
-  ],
-  [
-    [
-      "2024-07-02, 20:10:01",
-      "https://news.ycombinator.com/item?id=40860012"
-    ],
-    [
-      "Show HN: Mutahunter – LLMs to support mutating testing for all major languages",
-      "https://github.com/codeintegrity-ai/mutahunter"
     ]
   ],
   [
