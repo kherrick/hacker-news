@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-03](index.md)
 
+* [2024-07-03, 14:04:44](https://news.ycombinator.com/item?id=40866066) - [Average ransomware payment demands soars as criminals grow more confident](https://www.techradar.com/pro/security/average-ransomware-payment-demands-soars-as-criminals-grow-more-confident)
 * [2024-07-03, 13:10:31](https://news.ycombinator.com/item?id=40865627) - [Block AI bots, scrapers and crawlers with a single click](https://blog.cloudflare.com/declaring-your-aindependence-block-ai-bots-scrapers-and-crawlers-with-a-single-click)
 * [2024-07-03, 12:22:11](https://news.ycombinator.com/item?id=40865252) - [Jaw-Dropping SNES Mod Fixes One of the Console's Biggest Problems](https://www.timeextension.com/news/2024/07/jaw-dropping-snes-mod-fixes-one-of-the-consoles-biggest-problems)
 * [2024-07-03, 12:09:38](https://news.ycombinator.com/item?id=40865170) - [Your Company's Problem is Hiding in Plain Sight - High Work-In-Progress (WIP)](https://mdalmijn.com/p/your-companys-problem-is-hiding-in)
@@ -11,10 +12,12 @@
 * [2024-07-03, 10:55:13](https://news.ycombinator.com/item?id=40864728) - [Dolphin Emulator changes to a rolling release model](https://dolphin-emu.org/blog/2024/07/02/dolphin-releases-announcement/)
 * [2024-07-03, 10:37:52](https://news.ycombinator.com/item?id=40864657) - ['Almost whole island homeless' in Hurricane Beryl's wake](https://www.bbc.com/news/articles/c724x1rjlpno)
 * [2024-07-03, 10:21:45](https://news.ycombinator.com/item?id=40864563) - [Deutsche Bahn struggles to shake off 'travel hell' reputation](https://www.ft.com/content/f3af1c0c-311b-4f2f-9469-8756faed382a)
+* [2024-07-03, 10:18:00](https://news.ycombinator.com/item?id=40864541) - [Show HN: Jb / json.bash – Command-line tool (and bash library) that creates JSON](https://github.com/h4l/json.bash)
 * [2024-07-03, 10:09:05](https://news.ycombinator.com/item?id=40864489) - [Developing Inside a Container](https://code.visualstudio.com/docs/devcontainers/containers)
 * [2024-07-03, 07:01:05](https://news.ycombinator.com/item?id=40863470) - [Converge (YC S23) Is Hiring a Founding Account Executive](https://www.ycombinator.com/companies/converge/jobs/vpxyPWD-founding-account-executive)
 * [2024-07-03, 06:18:57](https://news.ycombinator.com/item?id=40863248) - [A Bugatti car, a first lady and the fake stories aimed at Americans](https://www.bbc.co.uk/news/articles/c72ver6172do)
 * [2024-07-03, 06:14:50](https://news.ycombinator.com/item?id=40863229) - [Google's greenhouse gas emissions jump 48% in five years](https://arstechnica.com/gadgets/2024/07/googles-greenhouse-gas-emissions-jump-48-in-five-years/)
+* [2024-07-03, 05:13:17](https://news.ycombinator.com/item?id=40862897) - [EV Motors Without Rare Earth Permanent Magnets](https://spectrum.ieee.org/ev-motor)
 * [2024-07-03, 05:05:35](https://news.ycombinator.com/item?id=40862865) - [I Received an AI Email](https://timharek.no/blog/i-received-an-ai-email)
 * [2024-07-03, 04:55:13](https://news.ycombinator.com/item?id=40862835) - [The Fourier Transform: What's Wrong with It?](https://blog.endaq.com/the-fourier-transform-whats-wrong-with-it)
 * [2024-07-03, 04:25:21](https://news.ycombinator.com/item?id=40862683) - [Reproducibility in Disguise: Bazel, Dependencies, and the Versioning Lie](https://fzakaria.com/2024/07/02/reproducibility-in-disguise.html)

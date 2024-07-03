@@ -8,6 +8,7 @@
 * [2024-06-30, 23:50:10](https://news.ycombinator.com/item?id=40841414) - [Nyquest NY8A051H – Or getting 60 microcontrollers for $1 (die shot)](https://zeptobars.com/en/read/Nyquest-Technology-NY8A051H-8051-smallest-microcontroller)
 * [2024-06-30, 23:40:07](https://news.ycombinator.com/item?id=40841355) - [Matters Computational [pdf]](http://www.jjj.de/fxt/#fxtbook)
 * [2024-06-30, 22:50:03](https://news.ycombinator.com/item?id=40841057) - [Slack AI](https://slack.com/features/ai?nojsmode=1)
+* [2024-06-30, 22:34:07](https://news.ycombinator.com/item?id=40840938) - [Goodwatch – A Ham Radio Wristwatch](https://kk4vcz.com/goodwatch/)
 * [2024-06-30, 22:05:14](https://news.ycombinator.com/item?id=40840762) - [The Lives of Others (2006 film)](https://en.wikipedia.org/wiki/The_Lives_of_Others)
 * [2024-06-30, 22:03:06](https://news.ycombinator.com/item?id=40840751) - [WhatsApp Android beta reveals Llama 3 405B option](https://wabetainfo.com/whatsapp-beta-for-android-2-24-14-7-whats-new/)
 * [2024-06-30, 21:58:27](https://news.ycombinator.com/item?id=40840721) - [Andrej Karpathy on X: \"100% Software 2.0 computer.Just a single neural net](https://twitter.com/karpathy/status/1807497426816946333)
