@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-03, 17:48:13](https://news.ycombinator.com/item?id=40868323) - [UK man imprisoned for 4 months after walking up to cops with 6\" Master Sword](https://www.pcgamer.com/games/uk-man-imprisoned-for-4-months-after-walking-up-to-cops-wielding-6-inch-master-sword/)
 * [2024-07-03, 17:00:44](https://news.ycombinator.com/item?id=40867845) - [Spice (YC S19) Is Hiring](https://www.ycombinator.com/companies/spice/jobs/TijA35R-software-engineer)
 * [2024-07-03, 16:48:34](https://news.ycombinator.com/item?id=40867746) - [A Practical Introduction to Constraint Programming Using CP-SAT and Python](https://pganalyze.com/blog/a-practical-introduction-to-constraint-programming-using-cp-sat)
 * [2024-07-03, 16:47:26](https://news.ycombinator.com/item?id=40867735) - [Multimodal Canvas: An experiment of Pictionary powered by Gemini 1.5 Flash](https://labs.google/multimodal-canvas)
@@ -20,6 +19,7 @@
 * [2024-07-02, 21:01:13](https://news.ycombinator.com/item?id=40860364) - [Tour de France: How professional cycling teams eat and cook on the road](https://www.bbc.co.uk/sport/cycling/articles/cxxx568grlwo)
 * [2024-07-02, 18:48:28](https://news.ycombinator.com/item?id=40859393) - [Aboriginal ritual passed down over 12,000 years, cave find shows](https://phys.org/news/2024-07-aboriginal-ritual-years-cave.html)
 * [2024-07-01, 23:39:07](https://news.ycombinator.com/item?id=40852004) - [Tracing the hidden hand of magnetism in the galaxy](https://www.quantamagazine.org/tracing-the-hidden-hand-of-magnetism-in-the-galaxy-20240701/)
+* [2024-07-01, 22:20:45](https://news.ycombinator.com/item?id=40851441) - [Poor Man's Kinesis Keyboard: The K'nexis Keyboard](https://jonaquino.blogspot.com/2005/05/poor-mans-kinesis-keyboard-knexis.html)
 * [2024-07-01, 19:10:52](https://news.ycombinator.com/item?id=40849363) - [A Git story: Not so fun this time](https://blog.brachiosoft.com/en/posts/git/)
 * [2024-07-01, 17:54:24](https://news.ycombinator.com/item?id=40848340) - [A survey of general-purpose polyhedral compilers](https://dl.acm.org/doi/abs/10.1145/3674735)
 * [2024-07-01, 15:27:25](https://news.ycombinator.com/item?id=40846726) - [Architectural cross-section of Kowloon Walled City](https://cohost.org/belarius/post/6677850-architectural-cross)
