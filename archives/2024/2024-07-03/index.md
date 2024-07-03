@@ -7,6 +7,7 @@
 * [2024-07-03, 20:59:20](https://news.ycombinator.com/item?id=40869940) - [Moshi: A voice AI that can display emotions](https://twitter.com/kyutai_labs/status/1808590638306197520)
 * [2024-07-03, 20:52:37](https://news.ycombinator.com/item?id=40869877) - [Show HN: Xcapture-BPF – like Linux top, but with Xray vision](https://0x.tools/)
 * [2024-07-03, 19:55:41](https://news.ycombinator.com/item?id=40869461) - [AI's $600B Question](https://www.sequoiacap.com/article/ais-600b-question/)
+* [2024-07-03, 19:55:04](https://news.ycombinator.com/item?id=40869458) - [Wcurl: a curl wrapper to download files](https://samueloph.dev/blog/announcing-wcurl-a-curl-wrapper-to-download-files/)
 * [2024-07-03, 19:51:43](https://news.ycombinator.com/item?id=40869421) - [Introducing Voice Isolator and Background Noise Remover](https://elevenlabs.io/voice-isolator)
 * [2024-07-03, 19:19:34](https://news.ycombinator.com/item?id=40869173) - [Creating My Own Linux-Based Smart TV](https://carltheperson.com/posts/earlgreytv/)
 * [2024-07-03, 18:30:35](https://news.ycombinator.com/item?id=40868752) - [Shapeways files for bankruptcy](https://www.voxelmatters.com/shapeways-files-for-bankruptcy/)
