@@ -1,26 +1,6 @@
 [
   [
     [
-      "2024-07-03, 03:01:19",
-      "https://news.ycombinator.com/item?id=40862363"
-    ],
-    [
-      "GPUs can now use PCIe-attached memory or SSDs to boost VRAM capacity",
-      "https://www.tomshardware.com/pc-components/gpus/gpus-get-a-boost-from-pcie-attached-memory-that-boosts-capacity-and-delivers-double-digit-nanosecond-latency-ssds-can-also-be-used-to-expand-gpu-memory-capacity-via-panmnesias-cxl-ip"
-    ]
-  ],
-  [
-    [
-      "2024-07-03, 02:58:22",
-      "https://news.ycombinator.com/item?id=40862346"
-    ],
-    [
-      "Google now pays $250k for KVM zero-day vulnerabilities",
-      "https://www.bleepingcomputer.com/news/security/google-now-pays-250-000-for-kvm-zero-day-vulnerabilities/"
-    ]
-  ],
-  [
-    [
       "2024-07-03, 01:55:44",
       "https://news.ycombinator.com/item?id=40862136"
     ],
@@ -47,16 +27,6 @@
     [
       "The Biggest Problem in Mathematics Is Finally a Step Closer to Being Solved",
       "https://www.scientificamerican.com/article/the-riemann-hypothesis-the-biggest-problem-in-mathematics-is-a-step-closer/"
-    ]
-  ],
-  [
-    [
-      "2024-07-03, 01:00:49",
-      "https://news.ycombinator.com/item?id=40861899"
-    ],
-    [
-      "MIT: Raising State Minimum Wages, Lowering Community College Enrollment",
-      "https://direct.mit.edu/rest/article-abstract/doi/10.1162/rest_a_01457/120871/Raising-State-Minimum-Wages-Lowering-Community?redirectedFrom=fulltext"
     ]
   ],
   [
@@ -131,22 +101,22 @@
   ],
   [
     [
+      "2024-07-02, 20:10:01",
+      "https://news.ycombinator.com/item?id=40860012"
+    ],
+    [
+      "Show HN: Mutahunter – LLMs to support mutating testing for all major languages",
+      "https://github.com/codeintegrity-ai/mutahunter"
+    ]
+  ],
+  [
+    [
       "2024-07-02, 19:50:13",
       "https://news.ycombinator.com/item?id=40859876"
     ],
     [
       "An epigenetic editor to silence genes",
       "https://www.science.org/doi/10.1126/science.adq3334"
-    ]
-  ],
-  [
-    [
-      "2024-07-02, 18:14:52",
-      "https://news.ycombinator.com/item?id=40859102"
-    ],
-    [
-      "Immich Progress Update [July 2024]",
-      "https://immich.app/blog/2024/update-july-2024/"
     ]
   ],
   [
@@ -187,6 +157,16 @@
     [
       "Meta 3D Gen",
       "https://ai.meta.com/research/publications/meta-3d-gen/"
+    ]
+  ],
+  [
+    [
+      "2024-07-02, 14:41:19",
+      "https://news.ycombinator.com/item?id=40857174"
+    ],
+    [
+      "GraphRAG is now on GitHub",
+      "https://www.microsoft.com/en-us/research/blog/graphrag-new-tool-for-complex-data-discovery-now-on-github/"
     ]
   ],
   [
@@ -271,6 +251,16 @@
   ],
   [
     [
+      "2024-07-01, 11:23:08",
+      "https://news.ycombinator.com/item?id=40844684"
+    ],
+    [
+      "An arc welder in the datacenter: what could possibly go wrong?",
+      "https://www.theregister.com/2024/07/01/who_me/"
+    ]
+  ],
+  [
+    [
       "2024-07-01, 10:29:34",
       "https://news.ycombinator.com/item?id=40844387"
     ],
@@ -287,6 +277,16 @@
     [
       "Richat Structure",
       "https://earthobservatory.nasa.gov/images/92071/richat-structure"
+    ]
+  ],
+  [
+    [
+      "2024-06-30, 21:37:28",
+      "https://news.ycombinator.com/item?id=40840586"
+    ],
+    [
+      "The Mysterious, Deep-Dwelling Microbes That Sculpt Our Planet",
+      "https://www.nytimes.com/2024/06/24/magazine/earth-geomicrobiology-microbes.html"
     ]
   ],
   [
