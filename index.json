@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-03, 17:00:44",
+      "https://news.ycombinator.com/item?id=40867845"
+    ],
+    [
+      "Spice (YC S19) Is Hiring",
+      "https://www.ycombinator.com/companies/spice/jobs/TijA35R-software-engineer"
+    ]
+  ],
+  [
+    [
+      "2024-07-03, 16:52:00",
+      "https://news.ycombinator.com/item?id=40867766"
+    ],
+    [
+      "A Hot Dog Isn't a Sandwich",
+      "https://www.prnewswire.com/news-releases/the-verdict-is-in-a-hot-dog-isnt-a-sandwich-302188554.html"
+    ]
+  ],
+  [
+    [
       "2024-07-03, 16:26:03",
       "https://news.ycombinator.com/item?id=40867508"
     ],
@@ -17,6 +37,16 @@
     [
       "The legacy of Liverpool's forgotten synchrocyclotron",
       "https://physicsworld.com/a/the-legacy-of-liverpools-forgotten-synchrocyclotron/"
+    ]
+  ],
+  [
+    [
+      "2024-07-03, 15:25:01",
+      "https://news.ycombinator.com/item?id=40866883"
+    ],
+    [
+      "A mathematical thought experiment for accepting the continuum hypothesis",
+      "https://jdh.hamkins.org/how-ch-could-have-been-fundamental/"
     ]
   ],
   [
@@ -51,6 +81,16 @@
   ],
   [
     [
+      "2024-07-03, 13:01:29",
+      "https://news.ycombinator.com/item?id=40865559"
+    ],
+    [
+      "Hypr-dynamic-cursors: a plugin to make your hyprland cursor rotate",
+      "https://github.com/VirtCode/hypr-dynamic-cursors"
+    ]
+  ],
+  [
+    [
       "2024-07-03, 11:25:29",
       "https://news.ycombinator.com/item?id=40864914"
     ],
@@ -77,16 +117,6 @@
     [
       "Man-Computer Symbiosis by J. C. R. Licklider (1960)",
       "https://groups.csail.mit.edu/medg/people/psz/Licklider.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-03, 07:01:05",
-      "https://news.ycombinator.com/item?id=40863470"
-    ],
-    [
-      "Converge (YC S23) Is Hiring a Founding Account Executive",
-      "https://www.ycombinator.com/companies/converge/jobs/vpxyPWD-founding-account-executive"
     ]
   ],
   [
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2024-07-02, 14:36:26",
-      "https://news.ycombinator.com/item?id=40857120"
-    ],
-    [
-      "8cc.vim: Pure Vim script C Compiler",
-      "https://github.com/rhysd/8cc.vim"
-    ]
-  ],
-  [
-    [
       "2024-07-02, 14:27:31",
       "https://news.ycombinator.com/item?id=40857041"
     ],
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2024-07-02, 07:26:08",
-      "https://news.ycombinator.com/item?id=40854319"
-    ],
-    [
-      "Diff-pdf: tool to visually compare two PDFs",
-      "https://github.com/vslavik/diff-pdf"
-    ]
-  ],
-  [
-    [
       "2024-07-01, 15:08:51",
       "https://news.ycombinator.com/item?id=40846524"
     ],
     [
       "The first 10k games at bgammon.org, an open source online backgammon service",
       "https://bgammon.org/blog/20240701-the-first-ten-thousand-games/"
-    ]
-  ],
-  [
-    [
-      "2024-07-01, 12:37:53",
-      "https://news.ycombinator.com/item?id=40845205"
-    ],
-    [
-      "What I've learned about open source community over 30 years",
-      "https://opensource.net/lessons-learned-open-source-30-years-freedos/"
     ]
   ],
   [
