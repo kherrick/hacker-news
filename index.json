@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-03, 12:22:11",
+      "https://news.ycombinator.com/item?id=40865252"
+    ],
+    [
+      "Jaw-Dropping SNES Mod Fixes One of the Console's Biggest Problems",
+      "https://www.timeextension.com/news/2024/07/jaw-dropping-snes-mod-fixes-one-of-the-consoles-biggest-problems"
+    ]
+  ],
+  [
+    [
       "2024-07-03, 10:55:13",
       "https://news.ycombinator.com/item?id=40864728"
     ],
@@ -11,52 +21,12 @@
   ],
   [
     [
-      "2024-07-03, 10:37:52",
-      "https://news.ycombinator.com/item?id=40864657"
-    ],
-    [
-      "'Almost whole island homeless' in Hurricane Beryl's wake",
-      "https://www.bbc.com/news/articles/c724x1rjlpno"
-    ]
-  ],
-  [
-    [
-      "2024-07-03, 10:09:05",
-      "https://news.ycombinator.com/item?id=40864489"
-    ],
-    [
-      "Developing Inside a Container",
-      "https://code.visualstudio.com/docs/devcontainers/containers"
-    ]
-  ],
-  [
-    [
       "2024-07-03, 07:01:05",
       "https://news.ycombinator.com/item?id=40863470"
     ],
     [
       "Converge (YC S23) Is Hiring a Founding Account Executive",
       "https://www.ycombinator.com/companies/converge/jobs/vpxyPWD-founding-account-executive"
-    ]
-  ],
-  [
-    [
-      "2024-07-03, 05:05:35",
-      "https://news.ycombinator.com/item?id=40862865"
-    ],
-    [
-      "I Received an AI Email",
-      "https://timharek.no/blog/i-received-an-ai-email"
-    ]
-  ],
-  [
-    [
-      "2024-07-03, 04:55:13",
-      "https://news.ycombinator.com/item?id=40862835"
-    ],
-    [
-      "The Fourier Transform: What's Wrong with It?",
-      "https://blog.endaq.com/the-fourier-transform-whats-wrong-with-it"
     ]
   ],
   [
@@ -141,22 +111,22 @@
   ],
   [
     [
+      "2024-07-02, 20:42:09",
+      "https://news.ycombinator.com/item?id=40860227"
+    ],
+    [
+      "The Queen's Doll's House",
+      "https://clairelevans.substack.com/p/the-queens-dolls-house"
+    ]
+  ],
+  [
+    [
       "2024-07-02, 20:11:43",
       "https://news.ycombinator.com/item?id=40860022"
     ],
     [
       "Show HN: I made a search engine for Hacker News",
       "https://hackernews.demo.vectara.com/"
-    ]
-  ],
-  [
-    [
-      "2024-07-02, 20:02:05",
-      "https://news.ycombinator.com/item?id=40859950"
-    ],
-    [
-      "Weather forecast accuracy across US cities based on Weather Service gridded data",
-      "https://www.washingtonpost.com/climate-environment/interactive/2024/how-accurate-is-the-weather-forecast/"
     ]
   ],
   [
@@ -181,12 +151,32 @@
   ],
   [
     [
+      "2024-07-02, 17:20:08",
+      "https://news.ycombinator.com/item?id=40858670"
+    ],
+    [
+      "Exploring biphasic programming: a new approach in language design",
+      "https://rybicki.io/blog/2024/06/30/biphasic-programming.html"
+    ]
+  ],
+  [
+    [
       "2024-07-02, 15:19:25",
       "https://news.ycombinator.com/item?id=40857517"
     ],
     [
       "Meta 3D Gen",
       "https://ai.meta.com/research/publications/meta-3d-gen/"
+    ]
+  ],
+  [
+    [
+      "2024-07-02, 14:36:26",
+      "https://news.ycombinator.com/item?id=40857120"
+    ],
+    [
+      "8cc.vim: Pure Vim script C Compiler",
+      "https://github.com/rhysd/8cc.vim"
     ]
   ],
   [
@@ -241,6 +231,16 @@
   ],
   [
     [
+      "2024-07-01, 12:37:53",
+      "https://news.ycombinator.com/item?id=40845205"
+    ],
+    [
+      "What I've learned about open source community over 30 years",
+      "https://opensource.net/lessons-learned-open-source-30-years-freedos/"
+    ]
+  ],
+  [
+    [
       "2024-07-01, 11:31:18",
       "https://news.ycombinator.com/item?id=40844737"
     ],
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2024-07-01, 02:29:28",
+      "https://news.ycombinator.com/item?id=40842082"
+    ],
+    [
+      "Richat Structure",
+      "https://earthobservatory.nasa.gov/images/92071/richat-structure"
+    ]
+  ],
+  [
+    [
       "2024-06-30, 21:40:05",
       "https://news.ycombinator.com/item?id=40840599"
     ],
@@ -287,16 +297,6 @@
     [
       "Show HN: Faktor – The missing 2FA code autocomplete for Chrome",
       "https://getfaktor.com/"
-    ]
-  ],
-  [
-    [
-      "2024-06-28, 03:24:58",
-      "https://news.ycombinator.com/item?id=40817409"
-    ],
-    [
-      "Hacking Amazon's Eero 6 (part 2)",
-      "https://markuta.com/eero-6-hacking-part-2/"
     ]
   ]
 ]
