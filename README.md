@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-03, 22:01:26](https://news.ycombinator.com/item?id=40870403) - [NASA selects SpaceX to launch a gamma-ray telescope into an unusual orbit](https://arstechnica.com/space/2024/07/spacex-selected-to-launch-nasa-mission-probing-the-creation-of-matter/)
 * [2024-07-03, 21:55:13](https://news.ycombinator.com/item?id=40870357) - [The Origins of DS_store (2006)](https://www.arno.org/on-the-origins-of-ds-store)
 * [2024-07-03, 21:44:47](https://news.ycombinator.com/item?id=40870280) - [The Joy of Reading Books You Don't Understand](https://reactormag.com/the-joy-of-reading-books-you-dont-entirely-understand/)
 * [2024-07-03, 21:25:27](https://news.ycombinator.com/item?id=40870144) - [Guide on optimizing Linux kernel with BOLT](https://github.com/llvm/llvm-project/blob/main/bolt/docs/OptimizingLinux.md)
@@ -25,6 +24,7 @@
 * [2024-07-02, 21:44:53](https://news.ycombinator.com/item?id=40860713) - [A British clergyman who predicted black holes in 1783](https://www.bbc.com/future/article/20240626-the-priest-who-predicted-black-holes-in-1783)
 * [2024-07-02, 21:01:13](https://news.ycombinator.com/item?id=40860364) - [Tour de France: How professional cycling teams eat and cook on the road](https://www.bbc.co.uk/sport/cycling/articles/cxxx568grlwo)
 * [2024-07-02, 00:08:54](https://news.ycombinator.com/item?id=40852227) - [Exploring Quantum Mpemba Effects](https://physics.aps.org/articles/v17/105)
+* [2024-07-01, 19:10:52](https://news.ycombinator.com/item?id=40849363) - [A Git story: Not so fun this time](https://blog.brachiosoft.com/en/posts/git/)
 * [2024-07-01, 15:27:25](https://news.ycombinator.com/item?id=40846726) - [Architectural cross-section of Kowloon Walled City](https://cohost.org/belarius/post/6677850-architectural-cross)
 * [2024-07-01, 13:14:31](https://news.ycombinator.com/item?id=40845567) - [Why Alaska Rivers Are Turning an Eerie Orange](https://www.atlasobscura.com/articles/why-alaska-rivers-are-turning-an-eerie-orange)
 * [2024-06-30, 23:47:49](https://news.ycombinator.com/item?id=40841403) - [Advice to Young Mathematicians [video]](https://www.youtube.com/watch?v=B8RkQq-1_ZU)
