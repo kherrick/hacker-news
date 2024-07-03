@@ -11,7 +11,6 @@
 * [2024-07-02, 22:42:00](https://news.ycombinator.com/item?id=40861148) - [The Illustrated Transformer (2018)](https://jalammar.github.io/illustrated-transformer/)
 * [2024-07-02, 22:01:01](https://news.ycombinator.com/item?id=40860831) - [All I want for Christmas is a negative leap second](https://qntm.org/leap)
 * [2024-07-02, 21:01:13](https://news.ycombinator.com/item?id=40860364) - [Fuelling the Tour de France: Secrets of the team kitchens](https://www.bbc.co.uk/sport/cycling/articles/cxxx568grlwo)
-* [2024-07-02, 20:42:09](https://news.ycombinator.com/item?id=40860227) - [The Queen's Doll's House](https://clairelevans.substack.com/p/the-queens-dolls-house)
 * [2024-07-02, 20:11:43](https://news.ycombinator.com/item?id=40860022) - [Show HN: I made a search engine for Hacker News](https://hackernews.demo.vectara.com/)
 * [2024-07-02, 19:50:13](https://news.ycombinator.com/item?id=40859876) - [An epigenetic editor to silence genes](https://www.science.org/doi/10.1126/science.adq3334)
 * [2024-07-02, 18:48:28](https://news.ycombinator.com/item?id=40859393) - [Aboriginal ritual passed down over 12,000 years, cave find shows](https://phys.org/news/2024-07-aboriginal-ritual-years-cave.html)
@@ -29,6 +28,7 @@
 * [2024-07-01, 10:29:34](https://news.ycombinator.com/item?id=40844387) - [Examining the Nintendo Switch (Tegra X1) Video Engine](https://chipsandcheese.com/2024/06/28/examining-the-nintendo-switch-tegra-x1-video-engine/)
 * [2024-07-01, 02:29:28](https://news.ycombinator.com/item?id=40842082) - [Richat Structure](https://earthobservatory.nasa.gov/images/92071/richat-structure)
 * [2024-06-30, 21:40:05](https://news.ycombinator.com/item?id=40840599) - [Python programming for Nintendo 8 bits](https://github.com/gutomaia/pyNES)
+* [2024-06-30, 18:29:03](https://news.ycombinator.com/item?id=40838992) - [Benchmarking Perfect Hashing in C++](https://boost-ext.github.io/mph/perfect_hashing/)
 * [2024-06-29, 17:38:01](https://news.ycombinator.com/item?id=40832206) - [Show HN: Faktor – The missing 2FA code autocomplete for Chrome](https://getfaktor.com/)
 
 ## [Archives](archives/index.md)
