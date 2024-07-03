@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-03](index.md)
 
+* [2024-07-03, 05:05:35](https://news.ycombinator.com/item?id=40862865) - [I Received an AI Email](https://timharek.no/blog/i-received-an-ai-email)
 * [2024-07-03, 04:25:21](https://news.ycombinator.com/item?id=40862683) - [Reproducibility in Disguise: Bazel, Dependencies, and the Versioning Lie](https://fzakaria.com/2024/07/02/reproducibility-in-disguise.html)
 * [2024-07-03, 03:24:17](https://news.ycombinator.com/item?id=40862475) - [Ask HN: What were interviews like before Leetcode?](https://news.ycombinator.com/item?id=40862475)
 * [2024-07-03, 03:01:19](https://news.ycombinator.com/item?id=40862363) - [GPUs can now use PCIe-attached memory or SSDs to boost VRAM capacity](https://www.tomshardware.com/pc-components/gpus/gpus-get-a-boost-from-pcie-attached-memory-that-boosts-capacity-and-delivers-double-digit-nanosecond-latency-ssds-can-also-be-used-to-expand-gpu-memory-capacity-via-panmnesias-cxl-ip)

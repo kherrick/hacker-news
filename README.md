@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-03, 05:05:35](https://news.ycombinator.com/item?id=40862865) - [I Received an AI Email](https://timharek.no/blog/i-received-an-ai-email)
 * [2024-07-03, 04:25:21](https://news.ycombinator.com/item?id=40862683) - [Reproducibility in Disguise](https://fzakaria.com/2024/07/02/reproducibility-in-disguise.html)
 * [2024-07-03, 03:24:17](https://news.ycombinator.com/item?id=40862475) - [Ask HN: What were interviews like before Leetcode?](https://news.ycombinator.com/item?id=40862475)
 * [2024-07-03, 02:46:23](https://news.ycombinator.com/item?id=40862306) - [Study reveals why AI models that analyze medical images can be biased](https://medicalxpress.com/news/2024-06-reveals-ai-medical-images-biased.html)
@@ -9,8 +10,8 @@
 * [2024-07-03, 01:00:06](https://news.ycombinator.com/item?id=40861894) - [Chinese AI stirs panic at European geoscience society](https://www.science.org/content/article/chinese-ai-stirs-panic-european-geoscience-society)
 * [2024-07-02, 23:10:31](https://news.ycombinator.com/item?id=40861327) - [What makes e natural? (2004)](https://www.komal.hu/cikkek/2004-ang/e.e.shtml)
 * [2024-07-02, 22:42:00](https://news.ycombinator.com/item?id=40861148) - [The Illustrated Transformer (2018)](https://jalammar.github.io/illustrated-transformer/)
+* [2024-07-02, 22:01:01](https://news.ycombinator.com/item?id=40860831) - [All I want for Christmas is a negative leap second](https://qntm.org/leap)
 * [2024-07-02, 20:42:09](https://news.ycombinator.com/item?id=40860227) - [The Queen's Doll's House](https://clairelevans.substack.com/p/the-queens-dolls-house)
-* [2024-07-02, 20:39:23](https://news.ycombinator.com/item?id=40860207) - [Blog.ethereum.org Mailing List Incident](https://blog.ethereum.org/2024/07/02/blog-incident)
 * [2024-07-02, 20:11:43](https://news.ycombinator.com/item?id=40860022) - [Show HN: I made a search engine for Hacker News](https://hackernews.demo.vectara.com/)
 * [2024-07-02, 20:10:01](https://news.ycombinator.com/item?id=40860012) - [Show HN: Mutahunter – LLMs to support mutating testing for all major languages](https://github.com/codeintegrity-ai/mutahunter)
 * [2024-07-02, 19:50:13](https://news.ycombinator.com/item?id=40859876) - [An epigenetic editor to silence genes](https://www.science.org/doi/10.1126/science.adq3334)
@@ -29,7 +30,6 @@
 * [2024-07-01, 10:29:34](https://news.ycombinator.com/item?id=40844387) - [Examining the Nintendo Switch (Tegra X1) Video Engine](https://chipsandcheese.com/2024/06/28/examining-the-nintendo-switch-tegra-x1-video-engine/)
 * [2024-07-01, 02:29:28](https://news.ycombinator.com/item?id=40842082) - [Richat Structure](https://earthobservatory.nasa.gov/images/92071/richat-structure)
 * [2024-06-28, 20:57:02](https://news.ycombinator.com/item?id=40825218) - [Was the Dingo Born to Be Wild?](https://www.nytimes.com/2024/06/27/science/pets-dogs-dingo.html)
-* [2024-06-27, 19:57:39](https://news.ycombinator.com/item?id=40814424) - [Lyttle Lytton Contest](https://adamcadre.ac/lyttle/2024.html)
 
 ## [Archives](archives/index.md)
 
