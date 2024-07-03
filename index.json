@@ -161,16 +161,6 @@
   ],
   [
     [
-      "2024-07-02, 16:20:35",
-      "https://news.ycombinator.com/item?id=40858113"
-    ],
-    [
-      "Solving a math problem with planner programming",
-      "https://buttondown.email/hillelwayne/archive/solving-a-math-problem-with-planner-programming/"
-    ]
-  ],
-  [
-    [
       "2024-07-02, 15:19:25",
       "https://news.ycombinator.com/item?id=40857517"
     ],
@@ -261,6 +251,16 @@
   ],
   [
     [
+      "2024-07-02, 05:41:25",
+      "https://news.ycombinator.com/item?id=40853845"
+    ],
+    [
+      "Mako – fast, production-grade web bundler based on Rust",
+      "https://makojs.dev/blog/mako-open-sourced"
+    ]
+  ],
+  [
+    [
       "2024-07-01, 12:37:53",
       "https://news.ycombinator.com/item?id=40845205"
     ],
@@ -285,7 +285,7 @@
       "https://news.ycombinator.com/item?id=40843785"
     ],
     [
-      "Behavior Inheritance in Rust",
+      "Behavior Inheritance in Rust (2021)",
       "https://abadcafe.wordpress.com/2021/01/08/behavior-inheritance-in-rust/"
     ]
   ],
