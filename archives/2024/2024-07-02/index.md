@@ -15,6 +15,7 @@
 * [2024-07-02, 22:02:19](https://news.ycombinator.com/item?id=40860840) - [Bruce Bastian, a Founder of WordPerfect, Is Dead at 76](https://www.nytimes.com/2024/07/02/business/bruce-bastian-dead.html)
 * [2024-07-02, 22:01:01](https://news.ycombinator.com/item?id=40860831) - [All I want for Christmas is a negative leap second](https://qntm.org/leap)
 * [2024-07-02, 21:56:40](https://news.ycombinator.com/item?id=40860803) - [Python Modern Practices](https://www.stuartellis.name/articles/python-modern-practices/)
+* [2024-07-02, 21:44:53](https://news.ycombinator.com/item?id=40860713) - [A British clergyman who predicted black holes in 1783](https://www.bbc.com/future/article/20240626-the-priest-who-predicted-black-holes-in-1783)
 * [2024-07-02, 21:35:07](https://news.ycombinator.com/item?id=40860643) - [Ask HN: Should I use React for a personal portfolio?](https://news.ycombinator.com/item?id=40860643)
 * [2024-07-02, 21:25:55](https://news.ycombinator.com/item?id=40860580) - [Nvidia NVLink Switch Chips Change to the HGX B200](https://www.servethehome.com/ingrasys-shows-big-nvidia-nvlink-switch-chips-change-to-the-hgx-b200-b100/)
 * [2024-07-02, 21:18:19](https://news.ycombinator.com/item?id=40860516) - [Journal retracts all 23 articles in special issue](https://link.springer.com/journal/10479/volumes-and-issues/337-1/supplement)
