@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-03](index.md)
 
+* [2024-07-03, 12:22:11](https://news.ycombinator.com/item?id=40865252) - [Jaw-Dropping SNES Mod Fixes One of the Console's Biggest Problems](https://www.timeextension.com/news/2024/07/jaw-dropping-snes-mod-fixes-one-of-the-consoles-biggest-problems)
 * [2024-07-03, 10:55:13](https://news.ycombinator.com/item?id=40864728) - [Dolphin Emulator changes to a rolling release model](https://dolphin-emu.org/blog/2024/07/02/dolphin-releases-announcement/)
 * [2024-07-03, 10:37:52](https://news.ycombinator.com/item?id=40864657) - ['Almost whole island homeless' in Hurricane Beryl's wake](https://www.bbc.com/news/articles/c724x1rjlpno)
 * [2024-07-03, 10:21:45](https://news.ycombinator.com/item?id=40864563) - [Deutsche Bahn struggles to shake off 'travel hell' reputation](https://www.ft.com/content/f3af1c0c-311b-4f2f-9469-8756faed382a)
