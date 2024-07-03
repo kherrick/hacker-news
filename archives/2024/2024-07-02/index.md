@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-02](index.md)
 
+* [2024-07-02, 23:43:10](https://news.ycombinator.com/item?id=40861520) - [Why Bridges Don't Sink](https://practical.engineering/blog/2024/7/2/why-bridges-dont-sink)
 * [2024-07-02, 23:29:00](https://news.ycombinator.com/item?id=40861448) - [The Rise of Packet Rate Attacks: When Core Routers Turn Evil](https://blog.ovhcloud.com/the-rise-of-packet-rate-attacks-when-core-routers-turn-evil/)
 * [2024-07-02, 23:10:31](https://news.ycombinator.com/item?id=40861327) - [What makes e natural? (2004)](https://www.komal.hu/cikkek/2004-ang/e.e.shtml)
 * [2024-07-02, 22:42:00](https://news.ycombinator.com/item?id=40861148) - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
