@@ -15,6 +15,7 @@
 * [2024-06-28, 21:29:52](https://news.ycombinator.com/item?id=40825483) - [T-Mobile users enraged as \"Un-carrier\" breaks promise to never raise prices](https://arstechnica.com/tech-policy/2024/06/t-mobile-users-enraged-as-un-carrier-breaks-promise-to-never-raise-prices/)
 * [2024-06-28, 21:22:42](https://news.ycombinator.com/item?id=40825429) - [Windows: Insecure by Design](https://www.theregister.com/2024/06/28/windows_insecure_by_design/)
 * [2024-06-28, 21:16:44](https://news.ycombinator.com/item?id=40825384) - [Woman Tries to Deposit $3K at Bank of America ATM. It Backfires](https://www.dailydot.com/news/bank-of-america-deposit-3000-dollars/)
+* [2024-06-28, 20:57:02](https://news.ycombinator.com/item?id=40825218) - [Was the Dingo Born to Be Wild?](https://www.nytimes.com/2024/06/27/science/pets-dogs-dingo.html)
 * [2024-06-28, 20:51:56](https://news.ycombinator.com/item?id=40825169) - [Show HN: Focal, a Pomodoro App](https://aabiji.github.io/focal/)
 * [2024-06-28, 20:49:23](https://news.ycombinator.com/item?id=40825146) - [Open Source 'Eclipse Theia IDE' Exits Beta to Challenge Visual Studio Code](https://visualstudiomagazine.com/Articles/2024/06/27/eclipse-theia-ide.aspx)
 * [2024-06-28, 20:39:07](https://news.ycombinator.com/item?id=40825033) - [The true story – as best I can remember – of the origin of Mosaic and Netscape](https://pmarca.substack.com/p/the-true-story-as-best-i-can-remember)
