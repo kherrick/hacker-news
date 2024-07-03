@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-03, 19:19:34](https://news.ycombinator.com/item?id=40869173) - [Creating My Own Linux-Based Smart TV](https://carltheperson.com/posts/earlgreytv/)
+* [2024-07-03, 17:58:14](https://news.ycombinator.com/item?id=40868425) - [Luakit: A fast, extensible, and customizable web browser](https://luakit.github.io/)
 * [2024-07-03, 17:39:10](https://news.ycombinator.com/item?id=40868224) - [Meta Sees ~5% Performance Gains to Optimizing the Linux Kernel with Bolt](https://www.phoronix.com/news/Linux-BOLT-5p-Performance)
 * [2024-07-03, 17:00:44](https://news.ycombinator.com/item?id=40867845) - [Spice (YC S19) Is Hiring](https://www.ycombinator.com/companies/spice/jobs/TijA35R-software-engineer)
 * [2024-07-03, 16:48:34](https://news.ycombinator.com/item?id=40867746) - [A practical introduction to constraint programming using CP-SAT and Python](https://pganalyze.com/blog/a-practical-introduction-to-constraint-programming-using-cp-sat)
