@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-03, 14:04:44](https://news.ycombinator.com/item?id=40866066) - [Average ransomware payment demands soars as criminals grow more confident](https://www.techradar.com/pro/security/average-ransomware-payment-demands-soars-as-criminals-grow-more-confident)
+* [2024-07-03, 14:18:43](https://news.ycombinator.com/item?id=40866153) - [What Counts as \"Strategic\"?](https://capitalgains.thediff.co/p/strategy)
 * [2024-07-03, 11:25:29](https://news.ycombinator.com/item?id=40864914) - [Proton launches its own version of Google Docs](https://www.engadget.com/proton-launches-its-own-version-of-google-docs-100044471.html)
 * [2024-07-03, 10:18:00](https://news.ycombinator.com/item?id=40864541) - [Show HN: Jb / json.bash – Command-line tool (and bash library) that creates JSON](https://github.com/h4l/json.bash)
 * [2024-07-03, 07:01:05](https://news.ycombinator.com/item?id=40863470) - [Converge (YC S23) Is Hiring a Founding Account Executive](https://www.ycombinator.com/companies/converge/jobs/vpxyPWD-founding-account-executive)
@@ -13,6 +13,7 @@
 * [2024-07-02, 22:42:00](https://news.ycombinator.com/item?id=40861148) - [The Illustrated Transformer (2018)](https://jalammar.github.io/illustrated-transformer/)
 * [2024-07-02, 22:01:01](https://news.ycombinator.com/item?id=40860831) - [All I want for Christmas is a negative leap second](https://qntm.org/leap)
 * [2024-07-02, 21:01:13](https://news.ycombinator.com/item?id=40860364) - [Fuelling the Tour de France: Secrets of the team kitchens](https://www.bbc.co.uk/sport/cycling/articles/cxxx568grlwo)
+* [2024-07-02, 20:42:09](https://news.ycombinator.com/item?id=40860227) - [The Queen's Doll's House](https://clairelevans.substack.com/p/the-queens-dolls-house)
 * [2024-07-02, 20:11:43](https://news.ycombinator.com/item?id=40860022) - [Show HN: I made a search engine for Hacker News](https://hackernews.demo.vectara.com/)
 * [2024-07-02, 19:50:13](https://news.ycombinator.com/item?id=40859876) - [An epigenetic editor to silence genes](https://www.science.org/doi/10.1126/science.adq3334)
 * [2024-07-02, 18:48:28](https://news.ycombinator.com/item?id=40859393) - [Aboriginal ritual passed down over 12,000 years, cave find shows](https://phys.org/news/2024-07-aboriginal-ritual-years-cave.html)
@@ -21,7 +22,6 @@
 * [2024-07-02, 14:36:26](https://news.ycombinator.com/item?id=40857120) - [8cc.vim: Pure Vim script C Compiler](https://github.com/rhysd/8cc.vim)
 * [2024-07-02, 14:27:31](https://news.ycombinator.com/item?id=40857041) - [With fifth busy beaver, researchers approach computation's limits](https://www.quantamagazine.org/amateur-mathematicians-find-fifth-busy-beaver-turing-machine-20240702/)
 * [2024-07-02, 14:23:56](https://news.ycombinator.com/item?id=40857009) - [Show HN: Adding Mistral Codestral and GPT-4o to Jupyter Notebooks](https://github.com/pretzelai/pretzelai/blob/main/README.md)
-* [2024-07-02, 12:36:58](https://news.ycombinator.com/item?id=40856030) - [Why is Chile so long?](https://unchartedterritories.tomaspueyo.com/p/why-is-chile-so-long)
 * [2024-07-01, 15:08:51](https://news.ycombinator.com/item?id=40846524) - [The first 10k games at bgammon.org, an open source online backgammon service](https://bgammon.org/blog/20240701-the-first-ten-thousand-games/)
 * [2024-07-01, 12:37:53](https://news.ycombinator.com/item?id=40845205) - [What I've learned about open source community over 30 years](https://opensource.net/lessons-learned-open-source-30-years-freedos/)
 * [2024-07-01, 10:59:11](https://news.ycombinator.com/item?id=40844536) - [Watching \"Grizzly Man\" with a Bear Biologist](https://www.backpacker.com/survival/watching-grizzly-man-with-bear-biologist-wesley-larson/)

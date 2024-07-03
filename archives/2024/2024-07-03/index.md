@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-03](index.md)
 
+* [2024-07-03, 14:18:43](https://news.ycombinator.com/item?id=40866153) - [What Counts as \"Strategic\"?](https://capitalgains.thediff.co/p/strategy)
 * [2024-07-03, 14:04:44](https://news.ycombinator.com/item?id=40866066) - [Average ransomware payment demands soars as criminals grow more confident](https://www.techradar.com/pro/security/average-ransomware-payment-demands-soars-as-criminals-grow-more-confident)
 * [2024-07-03, 13:10:31](https://news.ycombinator.com/item?id=40865627) - [Block AI bots, scrapers and crawlers with a single click](https://blog.cloudflare.com/declaring-your-aindependence-block-ai-bots-scrapers-and-crawlers-with-a-single-click)
 * [2024-07-03, 12:22:11](https://news.ycombinator.com/item?id=40865252) - [Jaw-Dropping SNES Mod Fixes One of the Console's Biggest Problems](https://www.timeextension.com/news/2024/07/jaw-dropping-snes-mod-fixes-one-of-the-consoles-biggest-problems)
