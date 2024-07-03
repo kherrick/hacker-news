@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-03, 15:09:16](https://news.ycombinator.com/item?id=40866703) - [Hurricane Beryl Isn't a Freak Storm–It's the Nightmare Meteorologists Predicted](https://www.wired.com/story/hurricane-beryl-category-5-storm-extreme-weather-summer-2024/)
 * [2024-07-03, 14:42:02](https://news.ycombinator.com/item?id=40866374) - [Do not taunt happy fun branch predictor (2023)](https://www.mattkeeter.com/blog/2023-01-25-branch/)
 * [2024-07-03, 14:35:13](https://news.ycombinator.com/item?id=40866311) - [Ask HN: Has anyone successfully pivoted from web dev to AI/ML development?](https://news.ycombinator.com/item?id=40866311)
 * [2024-07-03, 14:18:56](https://news.ycombinator.com/item?id=40866155) - [Living in a Lucid Dream](https://www.noemamag.com/living-in-a-lucid-dream/)
@@ -23,11 +22,12 @@
 * [2024-07-02, 14:27:31](https://news.ycombinator.com/item?id=40857041) - [With fifth busy beaver, researchers approach computation's limits](https://www.quantamagazine.org/amateur-mathematicians-find-fifth-busy-beaver-turing-machine-20240702/)
 * [2024-07-02, 14:23:56](https://news.ycombinator.com/item?id=40857009) - [Show HN: Adding Mistral Codestral and GPT-4o to Jupyter Notebooks](https://github.com/pretzelai/pretzelai/blob/main/README.md)
 * [2024-07-01, 15:08:51](https://news.ycombinator.com/item?id=40846524) - [The first 10k games at bgammon.org, an open source online backgammon service](https://bgammon.org/blog/20240701-the-first-ten-thousand-games/)
+* [2024-07-01, 12:37:53](https://news.ycombinator.com/item?id=40845205) - [What I've learned about open source community over 30 years](https://opensource.net/lessons-learned-open-source-30-years-freedos/)
 * [2024-07-01, 10:59:11](https://news.ycombinator.com/item?id=40844536) - [Watching \"Grizzly Man\" with a Bear Biologist](https://www.backpacker.com/survival/watching-grizzly-man-with-bear-biologist-wesley-larson/)
 * [2024-07-01, 10:29:34](https://news.ycombinator.com/item?id=40844387) - [Examining the Nintendo Switch (Tegra X1) Video Engine](https://chipsandcheese.com/2024/06/28/examining-the-nintendo-switch-tegra-x1-video-engine/)
-* [2024-07-01, 02:29:28](https://news.ycombinator.com/item?id=40842082) - [Richat Structure](https://earthobservatory.nasa.gov/images/92071/richat-structure)
-* [2024-06-30, 22:34:07](https://news.ycombinator.com/item?id=40840938) - [Goodwatch – A Ham Radio Wristwatch](https://kk4vcz.com/goodwatch/)
-* [2024-06-30, 21:40:05](https://news.ycombinator.com/item?id=40840599) - [Python programming for Nintendo 8 bits](https://github.com/gutomaia/pyNES)
+* [2024-07-01, 02:29:28](https://news.ycombinator.com/item?id=40842082) - [Richat Structure (2011)](https://earthobservatory.nasa.gov/images/92071/richat-structure)
+* [2024-06-30, 22:34:07](https://news.ycombinator.com/item?id=40840938) - [Goodwatch – A Ham Radio Wristwatch (2020)](https://kk4vcz.com/goodwatch/)
+* [2024-06-30, 21:40:05](https://news.ycombinator.com/item?id=40840599) - [Python programming for Nintendo 8 bits (2018)](https://github.com/gutomaia/pyNES)
 * [2024-06-30, 06:04:04](https://news.ycombinator.com/item?id=40835409) - [Botanist tells how nettles helped solve Soham murders](https://www.theguardian.com/uk-news/article/2024/jun/30/botanist-tells-how-nettles-helped-solve-soham-murders)
 * [2024-06-29, 17:38:01](https://news.ycombinator.com/item?id=40832206) - [Show HN: Faktor – The missing 2FA code autocomplete for Chrome](https://getfaktor.com/)
 
