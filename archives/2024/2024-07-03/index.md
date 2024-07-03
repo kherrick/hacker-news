@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-07-03](index.md)
 
+* [2024-07-03, 17:00:44](https://news.ycombinator.com/item?id=40867845) - [Spice (YC S19) Is Hiring](https://www.ycombinator.com/companies/spice/jobs/TijA35R-software-engineer)
+* [2024-07-03, 16:52:00](https://news.ycombinator.com/item?id=40867766) - [A Hot Dog Isn't a Sandwich](https://www.prnewswire.com/news-releases/the-verdict-is-in-a-hot-dog-isnt-a-sandwich-302188554.html)
 * [2024-07-03, 16:26:03](https://news.ycombinator.com/item?id=40867508) - [Alphabet Winds Down Mineral, Licenses Ag Technology to Berry Producer Driscoll's](https://www.bloomberg.com/news/articles/2024-07-03/alphabet-shutters-mineral-licenses-ag-tech-to-berry-producer-driscoll-s)
 * [2024-07-03, 16:03:10](https://news.ycombinator.com/item?id=40867273) - [The legacy of Liverpool's forgotten synchrocyclotron](https://physicsworld.com/a/the-legacy-of-liverpools-forgotten-synchrocyclotron/)
 * [2024-07-03, 15:45:27](https://news.ycombinator.com/item?id=40867100) - [Kyutai unveils today the first voice-enabled AI openly accessible to all [pdf]](https://kyutai.org/cp_moshi.pdf)
 * [2024-07-03, 15:40:13](https://news.ycombinator.com/item?id=40867044) - [Semi-secret US Air Force long-endurance spy drone breaks cover](https://newatlas.com/military/ultra-semi-secret-us-air-force-spy-drone/)
+* [2024-07-03, 15:25:01](https://news.ycombinator.com/item?id=40866883) - [A mathematical thought experiment for accepting the continuum hypothesis](https://jdh.hamkins.org/how-ch-could-have-been-fundamental/)
 * [2024-07-03, 15:22:56](https://news.ycombinator.com/item?id=40866868) - [Building AI-powered SWE tools: Essential technical considerations for founders](https://www.innovationendeavors.com/insights/building-ai-powered-software-engineering-tools-essential-technical-considerations-for-founders)
 * [2024-07-03, 15:09:16](https://news.ycombinator.com/item?id=40866703) - [Hurricane Beryl Isn't a Freak Storm–It's the Nightmare Meteorologists Predicted](https://www.wired.com/story/hurricane-beryl-category-5-storm-extreme-weather-summer-2024/)
 * [2024-07-03, 14:42:02](https://news.ycombinator.com/item?id=40866374) - [Do not taunt happy fun branch predictor](https://www.mattkeeter.com/blog/2023-01-25-branch/)
@@ -17,6 +20,7 @@
 * [2024-07-03, 14:07:35](https://news.ycombinator.com/item?id=40866090) - [Social media is a likely cause of confusion in modern mate selection](https://phys.org/news/2024-07-social-media-modern.html)
 * [2024-07-03, 14:04:44](https://news.ycombinator.com/item?id=40866066) - [Average ransomware payment demands soars as criminals grow more confident](https://www.techradar.com/pro/security/average-ransomware-payment-demands-soars-as-criminals-grow-more-confident)
 * [2024-07-03, 13:10:31](https://news.ycombinator.com/item?id=40865627) - [Block AI bots, scrapers and crawlers with a single click](https://blog.cloudflare.com/declaring-your-aindependence-block-ai-bots-scrapers-and-crawlers-with-a-single-click)
+* [2024-07-03, 13:01:29](https://news.ycombinator.com/item?id=40865559) - [Hypr-dynamic-cursors: a plugin to make your hyprland cursor rotate](https://github.com/VirtCode/hypr-dynamic-cursors)
 * [2024-07-03, 12:22:11](https://news.ycombinator.com/item?id=40865252) - [Jaw-Dropping SNES Mod Fixes One of the Console's Biggest Problems](https://www.timeextension.com/news/2024/07/jaw-dropping-snes-mod-fixes-one-of-the-consoles-biggest-problems)
 * [2024-07-03, 12:09:38](https://news.ycombinator.com/item?id=40865170) - [Your Company's Problem is Hiding in Plain Sight - High Work-In-Progress (WIP)](https://mdalmijn.com/p/your-companys-problem-is-hiding-in)
 * [2024-07-03, 11:25:29](https://news.ycombinator.com/item?id=40864914) - [Proton launches its own version of Google Docs](https://www.engadget.com/proton-launches-its-own-version-of-google-docs-100044471.html)
