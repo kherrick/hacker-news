@@ -82,6 +82,7 @@
 * [2024-07-01, 09:15:43](https://news.ycombinator.com/item?id=40843966) - [Webneko – a desktop screenmate ported to web](https://webneko.net/)
 * [2024-07-01, 08:57:26](https://news.ycombinator.com/item?id=40843867) - [Show HN: I created an After Effects alternative](https://pikimov.com/)
 * [2024-07-01, 08:53:04](https://news.ycombinator.com/item?id=40843848) - [My finetuned models beat OpenAI's GPT-4](https://mlops.systems/posts/2024-07-01-full-finetuned-model-evaluation.html)
+* [2024-07-01, 08:42:02](https://news.ycombinator.com/item?id=40843785) - [Behavior Inheritance in Rust](https://abadcafe.wordpress.com/2021/01/08/behavior-inheritance-in-rust/)
 * [2024-07-01, 08:40:54](https://news.ycombinator.com/item?id=40843778) - [RegreSSHion: RCE in OpenSSH's server, on glibc-based Linux systems](https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt)
 * [2024-07-01, 08:36:00](https://news.ycombinator.com/item?id=40843749) - [An Open Letter to the United Nations](https://open-internet-governance.org/letter)
 * [2024-07-01, 08:31:58](https://news.ycombinator.com/item?id=40843720) - [Cities Need More Trees](https://herman.bearblog.dev/cities-need-more-trees/)

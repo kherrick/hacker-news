@@ -26,6 +26,7 @@
 * [2024-07-02, 20:34:38](https://news.ycombinator.com/item?id=40860176) - [Figma pulls AI tool after criticism that it ripped off Apple's design](https://www.theverge.com/2024/7/2/24190823/figma-ai-tool-apple-weather-app-copy)
 * [2024-07-02, 20:12:56](https://news.ycombinator.com/item?id=40860039) - [Common Lisp Documentation](http://l1sp.org/html/)
 * [2024-07-02, 20:11:43](https://news.ycombinator.com/item?id=40860022) - [Show HN: I made a search engine for Hacker News](https://hackernews.demo.vectara.com/)
+* [2024-07-02, 20:10:01](https://news.ycombinator.com/item?id=40860012) - [Show HN: Mutahunter – LLMs to support mutating testing for all major languages](https://github.com/codeintegrity-ai/mutahunter)
 * [2024-07-02, 20:07:55](https://news.ycombinator.com/item?id=40859993) - [Google's carbon emissions surge nearly 50% due to AI energy demand](https://www.cnbc.com/2024/07/02/googles-carbon-emissions-surge-nearly-50percent-due-to-ai-energy-demand.html)
 * [2024-07-02, 20:00:01](https://news.ycombinator.com/item?id=40859937) - [Sonar is destroying my job and it's driving me to despair](https://community.sonarsource.com/t/sonar-is-destroying-my-job-and-its-driving-me-to-despair/92438)
 * [2024-07-02, 19:50:13](https://news.ycombinator.com/item?id=40859876) - [An epigenetic editor to silence genes](https://www.science.org/doi/10.1126/science.adq3334)
