@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-03, 22:43:50](https://news.ycombinator.com/item?id=40870735) - [What Spain used to censor Catalonia's 2017 independence referendum](https://censura1oct.github.io/en/2017/09/16/home_en.html)
 * [2024-07-03, 22:01:26](https://news.ycombinator.com/item?id=40870403) - [NASA selects SpaceX to launch a gamma-ray telescope into an unusual orbit](https://arstechnica.com/space/2024/07/spacex-selected-to-launch-nasa-mission-probing-the-creation-of-matter/)
 * [2024-07-03, 21:55:13](https://news.ycombinator.com/item?id=40870357) - [The Origins of DS_store (2006)](https://www.arno.org/on-the-origins-of-ds-store)
 * [2024-07-03, 21:44:47](https://news.ycombinator.com/item?id=40870280) - [The Joy of Reading Books You Don't Understand](https://reactormag.com/the-joy-of-reading-books-you-dont-entirely-understand/)
@@ -9,6 +8,7 @@
 * [2024-07-03, 20:33:07](https://news.ycombinator.com/item?id=40869706) - [Show HN: Open Sourcing Our No-Code WebXR Editor After 5 Years of Development](https://github.com/transferthought/transfer-thought)
 * [2024-07-03, 19:55:41](https://news.ycombinator.com/item?id=40869461) - [AI's $600B Question](https://www.sequoiacap.com/article/ais-600b-question/)
 * [2024-07-03, 19:55:04](https://news.ycombinator.com/item?id=40869458) - [Wcurl: a curl wrapper to download files](https://samueloph.dev/blog/announcing-wcurl-a-curl-wrapper-to-download-files/)
+* [2024-07-03, 19:53:54](https://news.ycombinator.com/item?id=40869446) - [Neutrons on Classically Inexplicable Paths](https://www.tuwien.at/en/tu-wien/news/news-articles/news/neutronen-auf-klassisch-unerklaerlichen-bahnen)
 * [2024-07-03, 19:51:43](https://news.ycombinator.com/item?id=40869421) - [Voice Isolator: Strip background noise for film, podcast, interview production](https://elevenlabs.io/voice-isolator)
 * [2024-07-03, 17:58:14](https://news.ycombinator.com/item?id=40868425) - [Luakit: A fast, extensible, and customizable web browser](https://luakit.github.io/)
 * [2024-07-03, 17:00:44](https://news.ycombinator.com/item?id=40867845) - [Spice (YC S19) Is Hiring](https://www.ycombinator.com/companies/spice/jobs/TijA35R-software-engineer)

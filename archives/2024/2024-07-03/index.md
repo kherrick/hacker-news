@@ -18,6 +18,7 @@
 * [2024-07-03, 20:33:07](https://news.ycombinator.com/item?id=40869706) - [Show HN: Open Sourcing Our No-Code WebXR Editor After 5 Years of Development](https://github.com/transferthought/transfer-thought)
 * [2024-07-03, 19:55:41](https://news.ycombinator.com/item?id=40869461) - [AI's $600B Question](https://www.sequoiacap.com/article/ais-600b-question/)
 * [2024-07-03, 19:55:04](https://news.ycombinator.com/item?id=40869458) - [Wcurl: a curl wrapper to download files](https://samueloph.dev/blog/announcing-wcurl-a-curl-wrapper-to-download-files/)
+* [2024-07-03, 19:53:54](https://news.ycombinator.com/item?id=40869446) - [Neutrons on Classically Inexplicable Paths](https://www.tuwien.at/en/tu-wien/news/news-articles/news/neutronen-auf-klassisch-unerklaerlichen-bahnen)
 * [2024-07-03, 19:51:43](https://news.ycombinator.com/item?id=40869421) - [Introducing Voice Isolator and Background Noise Remover](https://elevenlabs.io/voice-isolator)
 * [2024-07-03, 19:19:34](https://news.ycombinator.com/item?id=40869173) - [Creating My Own Linux-Based Smart TV](https://carltheperson.com/posts/earlgreytv/)
 * [2024-07-03, 18:30:35](https://news.ycombinator.com/item?id=40868752) - [Shapeways files for bankruptcy](https://www.voxelmatters.com/shapeways-files-for-bankruptcy/)
