@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-03](index.md)
 
+* [2024-07-03, 22:43:50](https://news.ycombinator.com/item?id=40870735) - [What Spain used to censor Catalonia's 2017 independence referendum](https://censura1oct.github.io/en/2017/09/16/home_en.html)
 * [2024-07-03, 22:33:45](https://news.ycombinator.com/item?id=40870642) - [Spain introduces \"Porn Passport\" to keep kids from watching porn](https://www.politico.eu/article/spain-builds-porn-passport-to-stop-kids-watching-smut/)
 * [2024-07-03, 22:17:32](https://news.ycombinator.com/item?id=40870515) - [Judge delays ban on noncompete agreements for employees](https://www.cnn.com/2024/07/03/business/noncompete-clause-federal-judge-ruling/index.html)
 * [2024-07-03, 22:01:26](https://news.ycombinator.com/item?id=40870403) - [NASA selects SpaceX to launch a gamma-ray telescope into an unusual orbit](https://arstechnica.com/space/2024/07/spacex-selected-to-launch-nasa-mission-probing-the-creation-of-matter/)
@@ -11,6 +12,7 @@
 * [2024-07-03, 21:55:13](https://news.ycombinator.com/item?id=40870357) - [The Origins of DS_store (2006)](https://www.arno.org/on-the-origins-of-ds-store)
 * [2024-07-03, 21:48:27](https://news.ycombinator.com/item?id=40870311) - [Commercial Chapter 11 Filings Increase 70% in First Half of 2024](https://www.abladvisor.com/news/38903/commercial-chapter-11-filings-increase-70-in-first-half-of-2024)
 * [2024-07-03, 21:44:47](https://news.ycombinator.com/item?id=40870280) - [The Joy of Reading Books You Don't Understand](https://reactormag.com/the-joy-of-reading-books-you-dont-entirely-understand/)
+* [2024-07-03, 21:25:27](https://news.ycombinator.com/item?id=40870144) - [Guide on optimizing Linux kernel with BOLT](https://github.com/llvm/llvm-project/blob/main/bolt/docs/OptimizingLinux.md)
 * [2024-07-03, 20:59:20](https://news.ycombinator.com/item?id=40869940) - [Moshi: A voice AI that can display emotions](https://twitter.com/kyutai_labs/status/1808590638306197520)
 * [2024-07-03, 20:52:37](https://news.ycombinator.com/item?id=40869877) - [Show HN: Xcapture-BPF – like Linux top, but with Xray vision](https://0x.tools/)
 * [2024-07-03, 20:33:07](https://news.ycombinator.com/item?id=40869706) - [Show HN: Open Sourcing Our No-Code WebXR Editor After 5 Years of Development](https://github.com/transferthought/transfer-thought)
