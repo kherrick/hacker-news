@@ -8,7 +8,6 @@
 * [2024-07-03, 16:48:34](https://news.ycombinator.com/item?id=40867746) - [A practical introduction to constraint programming using CP-SAT and Python](https://pganalyze.com/blog/a-practical-introduction-to-constraint-programming-using-cp-sat)
 * [2024-07-03, 16:47:26](https://news.ycombinator.com/item?id=40867735) - [Multimodal Canvas: An experiment of Pictionary powered by Gemini 1.5 Flash](https://labs.google/multimodal-canvas)
 * [2024-07-03, 16:45:01](https://news.ycombinator.com/item?id=40867709) - [The Cheapest NAS](https://sigwait.org/~alex/blog/2024/07/01/the-cheapest-nas.html)
-* [2024-07-03, 16:25:22](https://news.ycombinator.com/item?id=40867502) - [The impact of Orwell's \"Homage to Catalonia\" on Noam Chomsky's path to anarchism](https://thereader.mitpress.mit.edu/how-george-orwell-paved-noam-chomskys-path-to-anarchism/)
 * [2024-07-03, 16:03:10](https://news.ycombinator.com/item?id=40867273) - [The legacy of Liverpool's forgotten synchrocyclotron](https://physicsworld.com/a/the-legacy-of-liverpools-forgotten-synchrocyclotron/)
 * [2024-07-03, 15:25:01](https://news.ycombinator.com/item?id=40866883) - [A mathematical thought experiment for accepting the continuum hypothesis](https://jdh.hamkins.org/how-ch-could-have-been-fundamental/)
 * [2024-07-03, 14:47:18](https://news.ycombinator.com/item?id=40866442) - [Making a Linux-managed network switch](https://blog.brixit.nl/making-a-linux-managed-network-switch/)
@@ -30,6 +29,7 @@
 * [2024-06-30, 23:47:49](https://news.ycombinator.com/item?id=40841403) - [Advice to Young Mathematicians [video]](https://www.youtube.com/watch?v=B8RkQq-1_ZU)
 * [2024-06-30, 22:34:07](https://news.ycombinator.com/item?id=40840938) - [Goodwatch – A Ham Radio Wristwatch (2020)](https://kk4vcz.com/goodwatch/)
 * [2024-06-30, 21:45:08](https://news.ycombinator.com/item?id=40840635) - [What's in my location history?](https://zdimension.fr/whats-in-my-location-history/)
+* [2024-06-30, 21:40:05](https://news.ycombinator.com/item?id=40840599) - [Python programming for Nintendo 8 bits (2018)](https://github.com/gutomaia/pyNES)
 
 ## [Archives](archives/index.md)
 
