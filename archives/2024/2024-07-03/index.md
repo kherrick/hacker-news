@@ -7,6 +7,7 @@
 * [2024-07-03, 05:05:35](https://news.ycombinator.com/item?id=40862865) - [I Received an AI Email](https://timharek.no/blog/i-received-an-ai-email)
 * [2024-07-03, 04:25:21](https://news.ycombinator.com/item?id=40862683) - [Reproducibility in Disguise: Bazel, Dependencies, and the Versioning Lie](https://fzakaria.com/2024/07/02/reproducibility-in-disguise.html)
 * [2024-07-03, 03:24:17](https://news.ycombinator.com/item?id=40862475) - [Ask HN: What were interviews like before Leetcode?](https://news.ycombinator.com/item?id=40862475)
+* [2024-07-03, 03:15:58](https://news.ycombinator.com/item?id=40862436) - [Why AI Infrastructure Startups Are Insanely Hard to Build](https://nextword.substack.com/p/why-ai-infrastructure-startups-are)
 * [2024-07-03, 03:01:19](https://news.ycombinator.com/item?id=40862363) - [GPUs can now use PCIe-attached memory or SSDs to boost VRAM capacity](https://www.tomshardware.com/pc-components/gpus/gpus-get-a-boost-from-pcie-attached-memory-that-boosts-capacity-and-delivers-double-digit-nanosecond-latency-ssds-can-also-be-used-to-expand-gpu-memory-capacity-via-panmnesias-cxl-ip)
 * [2024-07-03, 02:58:22](https://news.ycombinator.com/item?id=40862346) - [Google now pays $250k for KVM zero-day vulnerabilities](https://www.bleepingcomputer.com/news/security/google-now-pays-250-000-for-kvm-zero-day-vulnerabilities/)
 * [2024-07-03, 02:53:40](https://news.ycombinator.com/item?id=40862328) - [Heavy resistance training at retirement age induces lasting beneficial effects](https://bmjopensem.bmj.com/content/10/2/e001899)

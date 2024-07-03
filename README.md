@@ -2,6 +2,7 @@
 
 * [2024-07-03, 05:05:35](https://news.ycombinator.com/item?id=40862865) - [I Received an AI Email](https://timharek.no/blog/i-received-an-ai-email)
 * [2024-07-03, 04:25:21](https://news.ycombinator.com/item?id=40862683) - [Reproducibility in Disguise](https://fzakaria.com/2024/07/02/reproducibility-in-disguise.html)
+* [2024-07-03, 03:15:58](https://news.ycombinator.com/item?id=40862436) - [Why AI Infrastructure Startups Are Insanely Hard to Build](https://nextword.substack.com/p/why-ai-infrastructure-startups-are)
 * [2024-07-03, 02:46:23](https://news.ycombinator.com/item?id=40862306) - [Study reveals why AI models that analyze medical images can be biased](https://medicalxpress.com/news/2024-06-reveals-ai-medical-images-biased.html)
 * [2024-07-03, 01:55:44](https://news.ycombinator.com/item?id=40862136) - [Dear Julia, Dear Yuri: A mathematical correspondence (2022)](https://celebratio.org/Robinson_JB/article/964/)
 * [2024-07-03, 01:52:54](https://news.ycombinator.com/item?id=40862113) - [Show HN: Improve LLM Performance by Maximizing Iterative Development](https://github.com/palico-ai/palico-ai)
@@ -10,7 +11,6 @@
 * [2024-07-02, 22:42:00](https://news.ycombinator.com/item?id=40861148) - [The Illustrated Transformer (2018)](https://jalammar.github.io/illustrated-transformer/)
 * [2024-07-02, 22:01:01](https://news.ycombinator.com/item?id=40860831) - [All I want for Christmas is a negative leap second](https://qntm.org/leap)
 * [2024-07-02, 20:42:09](https://news.ycombinator.com/item?id=40860227) - [The Queen's Doll's House](https://clairelevans.substack.com/p/the-queens-dolls-house)
-* [2024-07-02, 20:39:23](https://news.ycombinator.com/item?id=40860207) - [Blog.ethereum.org Mailing List Incident](https://blog.ethereum.org/2024/07/02/blog-incident)
 * [2024-07-02, 20:11:43](https://news.ycombinator.com/item?id=40860022) - [Show HN: I made a search engine for Hacker News](https://hackernews.demo.vectara.com/)
 * [2024-07-02, 20:10:01](https://news.ycombinator.com/item?id=40860012) - [Show HN: Mutahunter – LLMs to support mutating testing for all major languages](https://github.com/codeintegrity-ai/mutahunter)
 * [2024-07-02, 19:50:13](https://news.ycombinator.com/item?id=40859876) - [An epigenetic editor to silence genes](https://www.science.org/doi/10.1126/science.adq3334)
@@ -24,12 +24,12 @@
 * [2024-07-02, 14:01:45](https://news.ycombinator.com/item?id=40856791) - [Ladybird Web Browser becomes a non-profit with $1M from GitHub Founder](https://lunduke.locals.com/post/5812560/ladybird-web-browser-becomes-a-non-profit-with-1-million-from-github-founder)
 * [2024-07-02, 12:36:58](https://news.ycombinator.com/item?id=40856030) - [Why is Chile so long?](https://unchartedterritories.tomaspueyo.com/p/why-is-chile-so-long)
 * [2024-07-02, 07:26:08](https://news.ycombinator.com/item?id=40854319) - [Diff-pdf: tool to visually compare two PDFs](https://github.com/vslavik/diff-pdf)
+* [2024-07-01, 18:08:56](https://news.ycombinator.com/item?id=40848534) - [Ask HN: How do you organize and store your cables?](https://news.ycombinator.com/item?id=40848534)
 * [2024-07-01, 15:08:51](https://news.ycombinator.com/item?id=40846524) - [The first 10k games at bgammon.org, an open source online backgammon service](https://bgammon.org/blog/20240701-the-first-ten-thousand-games/)
 * [2024-07-01, 12:37:53](https://news.ycombinator.com/item?id=40845205) - [What I've learned about open source community over 30 years](https://opensource.net/lessons-learned-open-source-30-years-freedos/)
 * [2024-07-01, 10:29:34](https://news.ycombinator.com/item?id=40844387) - [Examining the Nintendo Switch (Tegra X1) Video Engine](https://chipsandcheese.com/2024/06/28/examining-the-nintendo-switch-tegra-x1-video-engine/)
 * [2024-07-01, 02:29:28](https://news.ycombinator.com/item?id=40842082) - [Richat Structure](https://earthobservatory.nasa.gov/images/92071/richat-structure)
 * [2024-06-28, 20:57:02](https://news.ycombinator.com/item?id=40825218) - [Was the Dingo Born to Be Wild?](https://www.nytimes.com/2024/06/27/science/pets-dogs-dingo.html)
-* [2024-06-27, 19:57:39](https://news.ycombinator.com/item?id=40814424) - [Lyttle Lytton Contest](https://adamcadre.ac/lyttle/2024.html)
 
 ## [Archives](archives/index.md)
 
