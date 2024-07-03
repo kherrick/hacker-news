@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-03, 01:55:44](https://news.ycombinator.com/item?id=40862136) - [Dear Julia, Dear Yuri](https://celebratio.org/Robinson_JB/article/964/)
 * [2024-07-03, 01:10:33](https://news.ycombinator.com/item?id=40861942) - [The Biggest Problem in Mathematics Is Finally a Step Closer to Being Solved](https://www.scientificamerican.com/article/the-riemann-hypothesis-the-biggest-problem-in-mathematics-is-a-step-closer/)
 * [2024-07-03, 01:00:49](https://news.ycombinator.com/item?id=40861899) - [MIT: Raising State Minimum Wages, Lowering Community College Enrollment](https://direct.mit.edu/rest/article-abstract/doi/10.1162/rest_a_01457/120871/Raising-State-Minimum-Wages-Lowering-Community?redirectedFrom=fulltext)
 * [2024-07-03, 01:00:06](https://news.ycombinator.com/item?id=40861894) - [Chinese AI stirs panic at European geoscience society](https://www.science.org/content/article/chinese-ai-stirs-panic-european-geoscience-society)
@@ -24,7 +25,6 @@
 * [2024-07-02, 12:36:58](https://news.ycombinator.com/item?id=40856030) - [Why is Chile so long?](https://unchartedterritories.tomaspueyo.com/p/why-is-chile-so-long)
 * [2024-07-02, 09:54:19](https://news.ycombinator.com/item?id=40855028) - [Trying Kolmogorov-Arnold Networks in Practice](https://cprimozic.net/blog/trying-out-kans/)
 * [2024-07-02, 07:26:08](https://news.ycombinator.com/item?id=40854319) - [Diff-pdf: tool to visually compare two PDFs](https://github.com/vslavik/diff-pdf)
-* [2024-07-02, 05:41:25](https://news.ycombinator.com/item?id=40853845) - [Mako – fast, production-grade web bundler based on Rust](https://makojs.dev/blog/mako-open-sourced)
 * [2024-07-01, 12:37:53](https://news.ycombinator.com/item?id=40845205) - [What I've learned about Open Source community over 30 years](https://opensource.net/lessons-learned-open-source-30-years-freedos/)
 * [2024-07-01, 11:23:08](https://news.ycombinator.com/item?id=40844684) - [An arc welder in the datacenter: what could possibly go wrong?](https://www.theregister.com/2024/07/01/who_me/)
 * [2024-07-01, 10:29:34](https://news.ycombinator.com/item?id=40844387) - [Examining the Nintendo Switch (Tegra X1) Video Engine](https://chipsandcheese.com/2024/06/28/examining-the-nintendo-switch-tegra-x1-video-engine/)
