@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-03](index.md)
 
+* [2024-07-03, 13:10:31](https://news.ycombinator.com/item?id=40865627) - [Block AI bots, scrapers and crawlers with a single click](https://blog.cloudflare.com/declaring-your-aindependence-block-ai-bots-scrapers-and-crawlers-with-a-single-click)
 * [2024-07-03, 12:22:11](https://news.ycombinator.com/item?id=40865252) - [Jaw-Dropping SNES Mod Fixes One of the Console's Biggest Problems](https://www.timeextension.com/news/2024/07/jaw-dropping-snes-mod-fixes-one-of-the-consoles-biggest-problems)
 * [2024-07-03, 11:25:29](https://news.ycombinator.com/item?id=40864914) - [Proton launches its own version of Google Docs](https://www.engadget.com/proton-launches-its-own-version-of-google-docs-100044471.html)
 * [2024-07-03, 10:55:13](https://news.ycombinator.com/item?id=40864728) - [Dolphin Emulator changes to a rolling release model](https://dolphin-emu.org/blog/2024/07/02/dolphin-releases-announcement/)
