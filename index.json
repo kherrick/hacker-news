@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-03, 10:09:05",
+      "https://news.ycombinator.com/item?id=40864489"
+    ],
+    [
+      "Developing Inside a Container",
+      "https://code.visualstudio.com/docs/devcontainers/containers"
+    ]
+  ],
+  [
+    [
       "2024-07-03, 07:01:05",
       "https://news.ycombinator.com/item?id=40863470"
     ],
@@ -47,26 +57,6 @@
     [
       "Why AI Infrastructure Startups Are Insanely Hard to Build",
       "https://nextword.substack.com/p/why-ai-infrastructure-startups-are"
-    ]
-  ],
-  [
-    [
-      "2024-07-03, 02:46:23",
-      "https://news.ycombinator.com/item?id=40862306"
-    ],
-    [
-      "Study reveals why AI models that analyze medical images can be biased",
-      "https://medicalxpress.com/news/2024-06-reveals-ai-medical-images-biased.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-03, 01:57:10",
-      "https://news.ycombinator.com/item?id=40862144"
-    ],
-    [
-      "Sublime Merge",
-      "https://www.sublimemerge.com"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Richat Structure",
       "https://earthobservatory.nasa.gov/images/92071/richat-structure"
+    ]
+  ],
+  [
+    [
+      "2024-06-30, 21:40:05",
+      "https://news.ycombinator.com/item?id=40840599"
+    ],
+    [
+      "Python programming for Nintendo 8 bits",
+      "https://github.com/gutomaia/pyNES"
     ]
   ],
   [
