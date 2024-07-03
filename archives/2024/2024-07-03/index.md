@@ -6,6 +6,8 @@
 
 * [2024-07-03, 03:01:19](https://news.ycombinator.com/item?id=40862363) - [GPUs can now use PCIe-attached memory or SSDs to boost VRAM capacity](https://www.tomshardware.com/pc-components/gpus/gpus-get-a-boost-from-pcie-attached-memory-that-boosts-capacity-and-delivers-double-digit-nanosecond-latency-ssds-can-also-be-used-to-expand-gpu-memory-capacity-via-panmnesias-cxl-ip)
 * [2024-07-03, 02:58:22](https://news.ycombinator.com/item?id=40862346) - [Google now pays $250k for KVM zero-day vulnerabilities](https://www.bleepingcomputer.com/news/security/google-now-pays-250-000-for-kvm-zero-day-vulnerabilities/)
+* [2024-07-03, 02:53:40](https://news.ycombinator.com/item?id=40862328) - [Heavy resistance training at retirement age induces lasting beneficial effects](https://bmjopensem.bmj.com/content/10/2/e001899)
+* [2024-07-03, 02:46:23](https://news.ycombinator.com/item?id=40862306) - [Study reveals why AI models that analyze medical images can be biased](https://medicalxpress.com/news/2024-06-reveals-ai-medical-images-biased.html)
 * [2024-07-03, 01:55:44](https://news.ycombinator.com/item?id=40862136) - [Dear Julia, Dear Yuri](https://celebratio.org/Robinson_JB/article/964/)
 * [2024-07-03, 01:52:54](https://news.ycombinator.com/item?id=40862113) - [Show HN: Improve LLM Performance by Maximizing Iterative Development](https://github.com/palico-ai/palico-ai)
 * [2024-07-03, 01:10:33](https://news.ycombinator.com/item?id=40861942) - [The Biggest Problem in Mathematics Is Finally a Step Closer to Being Solved](https://www.scientificamerican.com/article/the-riemann-hypothesis-the-biggest-problem-in-mathematics-is-a-step-closer/)

@@ -43,6 +43,7 @@
 * [2024-07-01, 15:41:41](https://news.ycombinator.com/item?id=40846883) - [What Goes Around Comes Around and Around (On Databases) [pdf]](https://db.cs.cmu.edu/papers/2024/whatgoesaround-sigmodrec2024.pdf)
 * [2024-07-01, 15:38:08](https://news.ycombinator.com/item?id=40846845) - [Graham Essays: Full Collection of PG Essays in ePub, PDF and Markdowng](https://github.com/ofou/graham-essays)
 * [2024-07-01, 15:36:58](https://news.ycombinator.com/item?id=40846834) - [Show HN: Programming Is Easier Than Most People Think](https://easylang.online/apps/tut_learn.html?v=2407)
+* [2024-07-01, 15:08:51](https://news.ycombinator.com/item?id=40846524) - [The first 10k games at bgammon.org, an open source online backgammon service](https://bgammon.org/blog/20240701-the-first-ten-thousand-games/)
 * [2024-07-01, 15:01:49](https://news.ycombinator.com/item?id=40846428) - [Ask HN: Who is hiring? (July 2024)](https://news.ycombinator.com/item?id=40846428)
 * [2024-07-01, 15:01:47](https://news.ycombinator.com/item?id=40846426) - [Ask HN: Who wants to be hired? (July 2024)](https://news.ycombinator.com/item?id=40846426)
 * [2024-07-01, 14:38:36](https://news.ycombinator.com/item?id=40846242) - [Show HN: Edna, note taking app for developers](https://edna.arslexis.io/)
