@@ -6,6 +6,7 @@
 
 * [2024-07-03, 15:09:16](https://news.ycombinator.com/item?id=40866703) - [Hurricane Beryl Isn't a Freak Storm–It's the Nightmare Meteorologists Predicted](https://www.wired.com/story/hurricane-beryl-category-5-storm-extreme-weather-summer-2024/)
 * [2024-07-03, 14:42:02](https://news.ycombinator.com/item?id=40866374) - [Do not taunt happy fun branch predictor](https://www.mattkeeter.com/blog/2023-01-25-branch/)
+* [2024-07-03, 14:35:13](https://news.ycombinator.com/item?id=40866311) - [Ask HN: Has anyone successfully pivoted from web dev to AI/ML development?](https://news.ycombinator.com/item?id=40866311)
 * [2024-07-03, 14:18:56](https://news.ycombinator.com/item?id=40866155) - [Living in a Lucid Dream](https://www.noemamag.com/living-in-a-lucid-dream/)
 * [2024-07-03, 14:18:43](https://news.ycombinator.com/item?id=40866153) - [What Counts as \"Strategic\"?](https://capitalgains.thediff.co/p/strategy)
 * [2024-07-03, 14:07:35](https://news.ycombinator.com/item?id=40866090) - [Social media is a likely cause of confusion in modern mate selection](https://phys.org/news/2024-07-social-media-modern.html)
@@ -19,6 +20,7 @@
 * [2024-07-03, 10:21:45](https://news.ycombinator.com/item?id=40864563) - [Deutsche Bahn struggles to shake off 'travel hell' reputation](https://www.ft.com/content/f3af1c0c-311b-4f2f-9469-8756faed382a)
 * [2024-07-03, 10:18:00](https://news.ycombinator.com/item?id=40864541) - [Show HN: Jb / json.bash – Command-line tool (and bash library) that creates JSON](https://github.com/h4l/json.bash)
 * [2024-07-03, 10:09:05](https://news.ycombinator.com/item?id=40864489) - [Developing Inside a Container](https://code.visualstudio.com/docs/devcontainers/containers)
+* [2024-07-03, 09:46:16](https://news.ycombinator.com/item?id=40864364) - [Ryzen 7 Mini-PC makes a power-efficient VM host](https://michael.stapelberg.ch/posts/2024-07-02-ryzen-7-mini-pc-low-power-proxmox-hypervisor/)
 * [2024-07-03, 09:26:14](https://news.ycombinator.com/item?id=40864249) - [Man-Computer Symbiosis by J. C. R. Licklider (1960)](https://groups.csail.mit.edu/medg/people/psz/Licklider.html)
 * [2024-07-03, 07:01:05](https://news.ycombinator.com/item?id=40863470) - [Converge (YC S23) Is Hiring a Founding Account Executive](https://www.ycombinator.com/companies/converge/jobs/vpxyPWD-founding-account-executive)
 * [2024-07-03, 06:18:57](https://news.ycombinator.com/item?id=40863248) - [A Bugatti car, a first lady and the fake stories aimed at Americans](https://www.bbc.co.uk/news/articles/c72ver6172do)

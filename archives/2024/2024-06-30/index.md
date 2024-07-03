@@ -81,6 +81,7 @@
 * [2024-06-30, 06:52:55](https://news.ycombinator.com/item?id=40835550) - [Introducing the Theia IDE](https://eclipsesource.com/blogs/2024/06/27/introducing-the-theia-ide/)
 * [2024-06-30, 06:29:24](https://news.ycombinator.com/item?id=40835482) - [Figma will use your content to train its AI](https://stackdiary.com/figma-will-use-your-content-to-train-its-ai/)
 * [2024-06-30, 06:28:45](https://news.ycombinator.com/item?id=40835479) - [Capcom and GOG to release the original Resident Evil trilogy](https://www.gog.com/en/news/capcom_and_gog_join_forces_to_release_the_original_resident_evil_trilogy)
+* [2024-06-30, 06:04:04](https://news.ycombinator.com/item?id=40835409) - [Botanist tells how nettles helped solve Soham murders](https://www.theguardian.com/uk-news/article/2024/jun/30/botanist-tells-how-nettles-helped-solve-soham-murders)
 * [2024-06-30, 05:07:53](https://news.ycombinator.com/item?id=40835274) - [Weekend projects: getting silly with C](https://lcamtuf.substack.com/p/weekend-projects-getting-silly-with)
 * [2024-06-30, 05:04:40](https://news.ycombinator.com/item?id=40835262) - [What happened to my /edu page, and why it came back](https://rachelbythebay.com/w/2024/06/29/edu/)
 * [2024-06-30, 04:56:02](https://news.ycombinator.com/item?id=40835233) - [NASA rover discovers mysterious Mars boulder unlike any others](https://mashable.com/article/nasa-mars-rover-boulder-discovery)
