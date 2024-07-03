@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-03](index.md)
 
+* [2024-07-03, 23:17:20](https://news.ycombinator.com/item?id=40870972) - [Wordsworth Donisthorpe, Blackmail, and the First Motion Pictures](https://publicdomainreview.org/essay/wordsworth-donisthorpe-blackmail-and-the-first-motion-pictures/)
 * [2024-07-03, 22:43:50](https://news.ycombinator.com/item?id=40870735) - [What Spain used to censor Catalonia's 2017 independence referendum](https://censura1oct.github.io/en/2017/09/16/home_en.html)
 * [2024-07-03, 22:33:45](https://news.ycombinator.com/item?id=40870642) - [Spain introduces \"Porn Passport\" to keep kids from watching porn](https://www.politico.eu/article/spain-builds-porn-passport-to-stop-kids-watching-smut/)
 * [2024-07-03, 22:17:32](https://news.ycombinator.com/item?id=40870515) - [Judge delays ban on noncompete agreements for employees](https://www.cnn.com/2024/07/03/business/noncompete-clause-federal-judge-ruling/index.html)
