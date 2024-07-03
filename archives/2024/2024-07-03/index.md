@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-07-03](index.md)
+
+* [2024-07-03, 00:47:56](https://news.ycombinator.com/item?id=40861822) - [HuggingFace releases support for tool-use and RAG models](https://github.com/huggingface/transformers/releases/tag/v4.42.0)

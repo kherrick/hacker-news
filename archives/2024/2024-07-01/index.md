@@ -74,6 +74,7 @@
 * [2024-07-01, 10:41:42](https://news.ycombinator.com/item?id=40844447) - [Diagonalism, the Cosmic Right and the Conspiracy Smoothie](https://bellacaledonia.org.uk/2024/06/26/diagonalism-the-cosmic-right-and-the-conspiracy-smoothie/)
 * [2024-07-01, 10:37:29](https://news.ycombinator.com/item?id=40844436) - [Show HN: Find Visa Sponsorsip and Relocation Support Jobs](https://www.relocateforwork.com/)
 * [2024-07-01, 10:29:52](https://news.ycombinator.com/item?id=40844391) - [Extreme Measures Needed to Scale Chips](https://spectrum.ieee.org/chip-scaling)
+* [2024-07-01, 10:29:34](https://news.ycombinator.com/item?id=40844387) - [Examining the Nintendo Switch (Tegra X1) Video Engine](https://chipsandcheese.com/2024/06/28/examining-the-nintendo-switch-tegra-x1-video-engine/)
 * [2024-07-01, 10:29:26](https://news.ycombinator.com/item?id=40844386) - [DOJ readying criminal charges against Boeing for deadly 737 MAX crashes](https://www.politico.com/news/2024/06/30/doj-criminal-charges-boeing-00165992)
 * [2024-07-01, 09:39:05](https://news.ycombinator.com/item?id=40844095) - [What makes a good tree? We used AI to ask birds](https://theconversation.com/what-makes-a-good-tree-we-used-ai-to-ask-birds-233281)
 * [2024-07-01, 09:32:56](https://news.ycombinator.com/item?id=40844056) - [Show HN: Image editing with just audio instructions](https://github.com/ShaShekhar/aaiela)

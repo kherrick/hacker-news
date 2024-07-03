@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-07-02](index.md)
 
+* [2024-07-02, 23:29:00](https://news.ycombinator.com/item?id=40861448) - [The Rise of Packet Rate Attacks: When Core Routers Turn Evil](https://blog.ovhcloud.com/the-rise-of-packet-rate-attacks-when-core-routers-turn-evil/)
 * [2024-07-02, 23:10:31](https://news.ycombinator.com/item?id=40861327) - [What makes e natural? (2004)](https://www.komal.hu/cikkek/2004-ang/e.e.shtml)
 * [2024-07-02, 22:42:00](https://news.ycombinator.com/item?id=40861148) - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
 * [2024-07-02, 22:29:04](https://news.ycombinator.com/item?id=40861057) - [Brazil data regulator bans Meta from mining data to train AI models](https://apnews.com/article/brazil-tech-meta-privacy-data-93e00b2e0e26f7cc98795dd052aea8e1)
 * [2024-07-02, 22:10:30](https://news.ycombinator.com/item?id=40860902) - [$105B Electronics Giant Sony to Launch New Bitcoin Exchange](https://bitcoinmagazine.com/business/105-billion-electronics-giant-sony-to-launch-new-bitcoin-exchange)
 * [2024-07-02, 22:08:21](https://news.ycombinator.com/item?id=40860883) - [Tech doesn't make our lives easier. It makes them faster](https://www.asomo.co/p/tech-doesnt-make-our-lives-easier)
 * [2024-07-02, 22:02:19](https://news.ycombinator.com/item?id=40860840) - [Bruce Bastian, a Founder of WordPerfect, Is Dead at 76](https://www.nytimes.com/2024/07/02/business/bruce-bastian-dead.html)
+* [2024-07-02, 22:01:01](https://news.ycombinator.com/item?id=40860831) - [All I want for Christmas is a negative leap second](https://qntm.org/leap)
 * [2024-07-02, 21:56:40](https://news.ycombinator.com/item?id=40860803) - [Python Modern Practices](https://www.stuartellis.name/articles/python-modern-practices/)
 * [2024-07-02, 21:35:07](https://news.ycombinator.com/item?id=40860643) - [Ask HN: Should I use React for a personal portfolio?](https://news.ycombinator.com/item?id=40860643)
 * [2024-07-02, 21:25:55](https://news.ycombinator.com/item?id=40860580) - [Nvidia NVLink Switch Chips Change to the HGX B200](https://www.servethehome.com/ingrasys-shows-big-nvidia-nvlink-switch-chips-change-to-the-hgx-b200-b100/)
@@ -20,6 +22,7 @@
 * [2024-07-02, 21:01:13](https://news.ycombinator.com/item?id=40860363) - [Apple Poised to Get OpenAI Board Observer Role as Part of AI Pact](https://www.bloomberg.com/news/articles/2024-07-02/apple-to-get-openai-board-observer-role-as-part-of-ai-agreement)
 * [2024-07-02, 21:00:58](https://news.ycombinator.com/item?id=40860360) - [Google emissions jump nearly 50% over five years as AI use surges](https://www.ft.com/content/383719aa-df38-4ae3-ab0e-6279a897915e)
 * [2024-07-02, 20:53:38](https://news.ycombinator.com/item?id=40860310) - [America's startup boom around remote work and technology is still going strong](https://www.npr.org/sections/planet-money/2024/07/02/g-s1-7139/economy-startup-boom-america-productivity)
+* [2024-07-02, 20:42:09](https://news.ycombinator.com/item?id=40860227) - [The Queen's Doll's House](https://clairelevans.substack.com/p/the-queens-dolls-house)
 * [2024-07-02, 20:34:38](https://news.ycombinator.com/item?id=40860176) - [Figma pulls AI tool after criticism that it ripped off Apple's design](https://www.theverge.com/2024/7/2/24190823/figma-ai-tool-apple-weather-app-copy)
 * [2024-07-02, 20:12:56](https://news.ycombinator.com/item?id=40860039) - [Common Lisp Documentation](http://l1sp.org/html/)
 * [2024-07-02, 20:11:43](https://news.ycombinator.com/item?id=40860022) - [Show HN: I made a search engine for Hacker News](https://hackernews.demo.vectara.com/)
