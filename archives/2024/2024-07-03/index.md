@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-03](index.md)
 
+* [2024-07-03, 17:48:13](https://news.ycombinator.com/item?id=40868323) - [UK man imprisoned for 4 months after walking up to cops with 6\" Master Sword](https://www.pcgamer.com/games/uk-man-imprisoned-for-4-months-after-walking-up-to-cops-wielding-6-inch-master-sword/)
 * [2024-07-03, 17:05:24](https://news.ycombinator.com/item?id=40867892) - [Hurricane Beryl Tests Jamaica's $1.6B Disaster Safety Net](https://finance.yahoo.com/news/hurricane-beryl-tests-jamaica-1-151411849.html)
 * [2024-07-03, 17:00:44](https://news.ycombinator.com/item?id=40867845) - [Spice (YC S19) Is Hiring](https://www.ycombinator.com/companies/spice/jobs/TijA35R-software-engineer)
 * [2024-07-03, 16:59:34](https://news.ycombinator.com/item?id=40867829) - [Save Freedom: We Must Stop the Destruction of the International Space Station](https://spacenews.com/save-freedom-we-must-stop-the-destruction-of-the-international-space-station/)
