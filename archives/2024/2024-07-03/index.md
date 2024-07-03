@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-07-03](index.md)
 
+* [2024-07-03, 16:26:03](https://news.ycombinator.com/item?id=40867508) - [Alphabet Winds Down Mineral, Licenses Ag Technology to Berry Producer Driscoll's](https://www.bloomberg.com/news/articles/2024-07-03/alphabet-shutters-mineral-licenses-ag-tech-to-berry-producer-driscoll-s)
 * [2024-07-03, 16:03:10](https://news.ycombinator.com/item?id=40867273) - [The legacy of Liverpool's forgotten synchrocyclotron](https://physicsworld.com/a/the-legacy-of-liverpools-forgotten-synchrocyclotron/)
+* [2024-07-03, 15:45:27](https://news.ycombinator.com/item?id=40867100) - [Kyutai unveils today the first voice-enabled AI openly accessible to all [pdf]](https://kyutai.org/cp_moshi.pdf)
+* [2024-07-03, 15:40:13](https://news.ycombinator.com/item?id=40867044) - [Semi-secret US Air Force long-endurance spy drone breaks cover](https://newatlas.com/military/ultra-semi-secret-us-air-force-spy-drone/)
 * [2024-07-03, 15:22:56](https://news.ycombinator.com/item?id=40866868) - [Building AI-powered SWE tools: Essential technical considerations for founders](https://www.innovationendeavors.com/insights/building-ai-powered-software-engineering-tools-essential-technical-considerations-for-founders)
 * [2024-07-03, 15:09:16](https://news.ycombinator.com/item?id=40866703) - [Hurricane Beryl Isn't a Freak Storm–It's the Nightmare Meteorologists Predicted](https://www.wired.com/story/hurricane-beryl-category-5-storm-extreme-weather-summer-2024/)
 * [2024-07-03, 14:42:02](https://news.ycombinator.com/item?id=40866374) - [Do not taunt happy fun branch predictor](https://www.mattkeeter.com/blog/2023-01-25-branch/)
