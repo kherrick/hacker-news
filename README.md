@@ -23,13 +23,13 @@
 * [2024-07-02, 14:23:56](https://news.ycombinator.com/item?id=40857009) - [Show HN: Adding Mistral Codestral and GPT-4o to Jupyter Notebooks](https://github.com/pretzelai/pretzelai/blob/main/README.md)
 * [2024-07-02, 14:01:45](https://news.ycombinator.com/item?id=40856791) - [Ladybird Web Browser becomes a non-profit with $1M from GitHub Founder](https://lunduke.locals.com/post/5812560/ladybird-web-browser-becomes-a-non-profit-with-1-million-from-github-founder)
 * [2024-07-02, 12:36:58](https://news.ycombinator.com/item?id=40856030) - [Why is Chile so long?](https://unchartedterritories.tomaspueyo.com/p/why-is-chile-so-long)
-* [2024-07-02, 07:26:08](https://news.ycombinator.com/item?id=40854319) - [Diff-pdf: tool to visually compare two PDFs](https://github.com/vslavik/diff-pdf)
 * [2024-07-01, 15:08:51](https://news.ycombinator.com/item?id=40846524) - [The first 10k games at bgammon.org, an open source online backgammon service](https://bgammon.org/blog/20240701-the-first-ten-thousand-games/)
 * [2024-07-01, 12:37:53](https://news.ycombinator.com/item?id=40845205) - [What I've learned about open source community over 30 years](https://opensource.net/lessons-learned-open-source-30-years-freedos/)
 * [2024-07-01, 10:59:11](https://news.ycombinator.com/item?id=40844536) - [Watching \"Grizzly Man\" with a Bear Biologist](https://www.backpacker.com/survival/watching-grizzly-man-with-bear-biologist-wesley-larson/)
 * [2024-07-01, 10:29:34](https://news.ycombinator.com/item?id=40844387) - [Examining the Nintendo Switch (Tegra X1) Video Engine](https://chipsandcheese.com/2024/06/28/examining-the-nintendo-switch-tegra-x1-video-engine/)
 * [2024-07-01, 02:29:28](https://news.ycombinator.com/item?id=40842082) - [Richat Structure](https://earthobservatory.nasa.gov/images/92071/richat-structure)
 * [2024-06-29, 17:38:01](https://news.ycombinator.com/item?id=40832206) - [Show HN: Faktor – The missing 2FA code autocomplete for Chrome](https://getfaktor.com/)
+* [2024-06-28, 03:24:58](https://news.ycombinator.com/item?id=40817409) - [Hacking Amazon's Eero 6 (part 2)](https://markuta.com/eero-6-hacking-part-2/)
 
 ## [Archives](archives/index.md)
 
