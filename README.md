@@ -2,6 +2,7 @@
 
 * [2024-07-03, 19:55:41](https://news.ycombinator.com/item?id=40869461) - [AI's $600B Question](https://www.sequoiacap.com/article/ais-600b-question/)
 * [2024-07-03, 19:51:43](https://news.ycombinator.com/item?id=40869421) - [Introducing Voice Isolator and Background Noise Remover](https://elevenlabs.io/voice-isolator)
+* [2024-07-03, 18:30:35](https://news.ycombinator.com/item?id=40868752) - [Shapeways files for bankruptcy](https://www.voxelmatters.com/shapeways-files-for-bankruptcy/)
 * [2024-07-03, 17:58:14](https://news.ycombinator.com/item?id=40868425) - [Luakit: A fast, extensible, and customizable web browser](https://luakit.github.io/)
 * [2024-07-03, 17:00:44](https://news.ycombinator.com/item?id=40867845) - [Spice (YC S19) Is Hiring](https://www.ycombinator.com/companies/spice/jobs/TijA35R-software-engineer)
 * [2024-07-03, 16:48:34](https://news.ycombinator.com/item?id=40867746) - [A practical introduction to constraint programming using CP-SAT and Python](https://pganalyze.com/blog/a-practical-introduction-to-constraint-programming-using-cp-sat)
@@ -14,7 +15,7 @@
 * [2024-07-03, 14:42:02](https://news.ycombinator.com/item?id=40866374) - [Do not taunt happy fun branch predictor (2023)](https://www.mattkeeter.com/blog/2023-01-25-branch/)
 * [2024-07-03, 14:18:56](https://news.ycombinator.com/item?id=40866155) - [Living in a Lucid Dream](https://www.noemamag.com/living-in-a-lucid-dream/)
 * [2024-07-03, 10:18:00](https://news.ycombinator.com/item?id=40864541) - [Show HN: Jb / json.bash – Command-line tool (and bash library) that creates JSON](https://github.com/h4l/json.bash)
-* [2024-07-03, 09:26:14](https://news.ycombinator.com/item?id=40864249) - [Man-Computer Symbiosis by J. C. R. Licklider (1960)](https://groups.csail.mit.edu/medg/people/psz/Licklider.html)
+* [2024-07-03, 09:26:14](https://news.ycombinator.com/item?id=40864249) - [Man-Computer Symbiosis (1960)](https://groups.csail.mit.edu/medg/people/psz/Licklider.html)
 * [2024-07-02, 23:43:10](https://news.ycombinator.com/item?id=40861520) - [Why Bridges Don't Sink](https://practical.engineering/blog/2024/7/2/why-bridges-dont-sink)
 * [2024-07-02, 22:32:42](https://news.ycombinator.com/item?id=40861079) - [Engine Sound Simulator](https://markeasting.github.io/engine/)
 * [2024-07-02, 21:44:53](https://news.ycombinator.com/item?id=40860713) - [A British clergyman who predicted black holes in 1783](https://www.bbc.com/future/article/20240626-the-priest-who-predicted-black-holes-in-1783)
@@ -29,7 +30,6 @@
 * [2024-06-30, 23:47:49](https://news.ycombinator.com/item?id=40841403) - [Advice to Young Mathematicians [video]](https://www.youtube.com/watch?v=B8RkQq-1_ZU)
 * [2024-06-30, 22:34:07](https://news.ycombinator.com/item?id=40840938) - [Goodwatch – A Ham Radio Wristwatch (2020)](https://kk4vcz.com/goodwatch/)
 * [2024-06-30, 21:45:08](https://news.ycombinator.com/item?id=40840635) - [What's in my location history?](https://zdimension.fr/whats-in-my-location-history/)
-* [2024-06-30, 21:40:05](https://news.ycombinator.com/item?id=40840599) - [Python programming for Nintendo 8 bits (2018)](https://github.com/gutomaia/pyNES)
 
 ## [Archives](archives/index.md)
 
