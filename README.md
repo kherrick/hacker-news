@@ -6,7 +6,6 @@
 * [2024-07-03, 01:52:54](https://news.ycombinator.com/item?id=40862113) - [Show HN: Improve LLM Performance by Maximizing Iterative Development](https://github.com/palico-ai/palico-ai)
 * [2024-07-03, 01:10:33](https://news.ycombinator.com/item?id=40861942) - [The Biggest Problem in Mathematics Is Finally a Step Closer to Being Solved](https://www.scientificamerican.com/article/the-riemann-hypothesis-the-biggest-problem-in-mathematics-is-a-step-closer/)
 * [2024-07-03, 01:00:06](https://news.ycombinator.com/item?id=40861894) - [Chinese AI stirs panic at European geoscience society](https://www.science.org/content/article/chinese-ai-stirs-panic-european-geoscience-society)
-* [2024-07-03, 00:47:56](https://news.ycombinator.com/item?id=40861822) - [HuggingFace releases support for tool-use and RAG models](https://github.com/huggingface/transformers/releases/tag/v4.42.0)
 * [2024-07-02, 23:10:31](https://news.ycombinator.com/item?id=40861327) - [What makes e natural? (2004)](https://www.komal.hu/cikkek/2004-ang/e.e.shtml)
 * [2024-07-02, 22:42:00](https://news.ycombinator.com/item?id=40861148) - [The Illustrated Transformer (2018)](https://jalammar.github.io/illustrated-transformer/)
 * [2024-07-02, 22:01:01](https://news.ycombinator.com/item?id=40860831) - [All I want for Christmas is a negative leap second](https://qntm.org/leap)
@@ -29,6 +28,7 @@
 * [2024-07-01, 12:37:53](https://news.ycombinator.com/item?id=40845205) - [What I've learned about open source community over 30 years](https://opensource.net/lessons-learned-open-source-30-years-freedos/)
 * [2024-07-01, 10:29:34](https://news.ycombinator.com/item?id=40844387) - [Examining the Nintendo Switch (Tegra X1) Video Engine](https://chipsandcheese.com/2024/06/28/examining-the-nintendo-switch-tegra-x1-video-engine/)
 * [2024-07-01, 02:29:28](https://news.ycombinator.com/item?id=40842082) - [Richat Structure](https://earthobservatory.nasa.gov/images/92071/richat-structure)
+* [2024-06-30, 21:37:28](https://news.ycombinator.com/item?id=40840586) - [The Mysterious, Deep-Dwelling Microbes That Sculpt Our Planet](https://www.nytimes.com/2024/06/24/magazine/earth-geomicrobiology-microbes.html)
 * [2024-06-27, 19:57:39](https://news.ycombinator.com/item?id=40814424) - [Lyttle Lytton Contest](https://adamcadre.ac/lyttle/2024.html)
 
 ## [Archives](archives/index.md)
