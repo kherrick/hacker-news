@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-03, 10:21:45](https://news.ycombinator.com/item?id=40864563) - [Deutsche Bahn struggles to shake off 'travel hell' reputation](https://www.ft.com/content/f3af1c0c-311b-4f2f-9469-8756faed382a)
 * [2024-07-03, 10:09:05](https://news.ycombinator.com/item?id=40864489) - [Developing Inside a Container](https://code.visualstudio.com/docs/devcontainers/containers)
 * [2024-07-03, 07:01:05](https://news.ycombinator.com/item?id=40863470) - [Converge (YC S23) Is Hiring a Founding Account Executive](https://www.ycombinator.com/companies/converge/jobs/vpxyPWD-founding-account-executive)
 * [2024-07-03, 05:05:35](https://news.ycombinator.com/item?id=40862865) - [I Received an AI Email](https://timharek.no/blog/i-received-an-ai-email)
@@ -17,7 +18,6 @@
 * [2024-07-02, 19:50:13](https://news.ycombinator.com/item?id=40859876) - [An epigenetic editor to silence genes](https://www.science.org/doi/10.1126/science.adq3334)
 * [2024-07-02, 17:20:08](https://news.ycombinator.com/item?id=40858670) - [Exploring biphasic programming: a new approach in language design](https://rybicki.io/blog/2024/06/30/biphasic-programming.html)
 * [2024-07-02, 15:19:25](https://news.ycombinator.com/item?id=40857517) - [Meta 3D Gen](https://ai.meta.com/research/publications/meta-3d-gen/)
-* [2024-07-02, 14:36:26](https://news.ycombinator.com/item?id=40857120) - [8cc.vim: Pure Vim script C Compiler](https://github.com/rhysd/8cc.vim)
 * [2024-07-02, 14:27:31](https://news.ycombinator.com/item?id=40857041) - [With fifth busy beaver, researchers approach computation's limits](https://www.quantamagazine.org/amateur-mathematicians-find-fifth-busy-beaver-turing-machine-20240702/)
 * [2024-07-02, 14:23:56](https://news.ycombinator.com/item?id=40857009) - [Show HN: Adding Mistral Codestral and GPT-4o to Jupyter Notebooks](https://github.com/pretzelai/pretzelai/blob/main/README.md)
 * [2024-07-02, 14:01:45](https://news.ycombinator.com/item?id=40856791) - [Ladybird Web Browser becomes a non-profit with $1M from GitHub Founder](https://lunduke.locals.com/post/5812560/ladybird-web-browser-becomes-a-non-profit-with-1-million-from-github-founder)
