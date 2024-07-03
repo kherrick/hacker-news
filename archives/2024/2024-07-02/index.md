@@ -32,6 +32,7 @@
 * [2024-07-02, 19:50:13](https://news.ycombinator.com/item?id=40859876) - [An epigenetic editor to silence genes](https://www.science.org/doi/10.1126/science.adq3334)
 * [2024-07-02, 18:52:32](https://news.ycombinator.com/item?id=40859429) - [Nuclear spectroscopy breakthrough could rewrite fundamental constants of nature](https://newsroom.ucla.edu/releases/nuclear-spectroscopy-breakthrough-could-rewrite-fundamental-constants-of-nature)
 * [2024-07-02, 18:24:57](https://news.ycombinator.com/item?id=40859188) - [New Idaho library rules, adults only, must show ID](https://old.reddit.com/r/Libraries/comments/1dt7e5d/new_sign_in_idaho_public_libraries_requiring_a_id/)
+* [2024-07-02, 18:14:52](https://news.ycombinator.com/item?id=40859102) - [Immich Progress Update [July 2024]](https://immich.app/blog/2024/update-july-2024/)
 * [2024-07-02, 18:12:41](https://news.ycombinator.com/item?id=40859084) - [Former Kansas bank CEO admits to embezzling $47M for crypto scheme](https://www.cjonline.com/story/news/crime/2024/05/28/kansas-bank-ceo-embezzled-millions-in-crypto-scheme-that-killed-bank/73843999007/)
 * [2024-07-02, 18:08:04](https://news.ycombinator.com/item?id=40859048) - [How generative AI is trying to rip the screaming soul out of the Enlightenment](https://www.asomo.co/p/generative-ai-the-emptiness-machine)
 * [2024-07-02, 18:00:04](https://news.ycombinator.com/item?id=40858981) - [Why refrigerators and other kitchen appliances break so easily now](https://www.washingtonpost.com/home/2024/07/02/why-refrigerator-oven-dishwasher-break/)
