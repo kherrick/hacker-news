@@ -6,6 +6,7 @@
 
 * [2024-06-30, 23:55:20](https://news.ycombinator.com/item?id=40841434) - [US to Criminally Charge Boeing, Seek Guilty Plea, Sources Say](https://www.reuters.com./legal/us-pushes-boeing-plead-guilty-connection-with-fatal-crashes-sources-say-2024-06-30/)
 * [2024-06-30, 23:50:10](https://news.ycombinator.com/item?id=40841414) - [Nyquest NY8A051H – Or getting 60 microcontrollers for $1 (die shot)](https://zeptobars.com/en/read/Nyquest-Technology-NY8A051H-8051-smallest-microcontroller)
+* [2024-06-30, 23:47:49](https://news.ycombinator.com/item?id=40841403) - [Advice to Young Mathematicians [video]](https://www.youtube.com/watch?v=B8RkQq-1_ZU)
 * [2024-06-30, 23:40:07](https://news.ycombinator.com/item?id=40841355) - [Matters Computational [pdf]](http://www.jjj.de/fxt/#fxtbook)
 * [2024-06-30, 22:50:03](https://news.ycombinator.com/item?id=40841057) - [Slack AI](https://slack.com/features/ai?nojsmode=1)
 * [2024-06-30, 22:34:07](https://news.ycombinator.com/item?id=40840938) - [Goodwatch – A Ham Radio Wristwatch](https://kk4vcz.com/goodwatch/)
@@ -14,6 +15,7 @@
 * [2024-06-30, 21:58:27](https://news.ycombinator.com/item?id=40840721) - [Andrej Karpathy on X: \"100% Software 2.0 computer.Just a single neural net](https://twitter.com/karpathy/status/1807497426816946333)
 * [2024-06-30, 21:55:04](https://news.ycombinator.com/item?id=40840699) - [Google Arts and Culture site I didn't know existed](https://artsandculture.google.com/)
 * [2024-06-30, 21:48:07](https://news.ycombinator.com/item?id=40840656) - [California approves final high-speed rail link connecting San Francisco to LA](https://www.sfchronicle.com/bayarea/article/california-high-speed-rail-19542125.php)
+* [2024-06-30, 21:45:08](https://news.ycombinator.com/item?id=40840635) - [What's in my location history?](https://zdimension.fr/whats-in-my-location-history/)
 * [2024-06-30, 21:40:05](https://news.ycombinator.com/item?id=40840599) - [Python programming for Nintendo 8 bits](https://github.com/gutomaia/pyNES)
 * [2024-06-30, 21:37:28](https://news.ycombinator.com/item?id=40840586) - [The Mysterious, Deep-Dwelling Microbes That Sculpt Our Planet](https://www.nytimes.com/2024/06/24/magazine/earth-geomicrobiology-microbes.html)
 * [2024-06-30, 21:20:45](https://news.ycombinator.com/item?id=40840488) - [Chaos Engineering in Front End Development: Enhancing Application Resilience](https://omid.dev/2024/07/01/chaos-engineering-in-frontend-development/)

@@ -6,6 +6,7 @@
 
 * [2024-07-01, 23:59:05](https://news.ycombinator.com/item?id=40852155) - [Spending too much time optimizing for loops](https://octavelarose.github.io/2024/05/29/to-do-inlining.html)
 * [2024-07-01, 23:48:22](https://news.ycombinator.com/item?id=40852084) - [Switzerland mandates software source code disclosure for public sector](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/news/new-open-source-law-switzerland)
+* [2024-07-01, 23:39:07](https://news.ycombinator.com/item?id=40852004) - [Tracing the hidden hand of magnetism in the galaxy](https://www.quantamagazine.org/tracing-the-hidden-hand-of-magnetism-in-the-galaxy-20240701/)
 * [2024-07-01, 23:26:05](https://news.ycombinator.com/item?id=40851919) - [Getting the World Record in Hatetris (2022)](https://hallofdreams.org/posts/hatetris/)
 * [2024-07-01, 23:23:13](https://news.ycombinator.com/item?id=40851895) - [Code Reviews Do Find Bugs](https://two-wrongs.com/code-reviews-do-find-bugs.html)
 * [2024-07-01, 22:45:39](https://news.ycombinator.com/item?id=40851638) - [Improving Your Zig Language Server Experience](https://kristoff.it/blog/improving-your-zls-experience/)
@@ -44,6 +45,7 @@
 * [2024-07-01, 15:41:41](https://news.ycombinator.com/item?id=40846883) - [What Goes Around Comes Around and Around (On Databases) [pdf]](https://db.cs.cmu.edu/papers/2024/whatgoesaround-sigmodrec2024.pdf)
 * [2024-07-01, 15:38:08](https://news.ycombinator.com/item?id=40846845) - [Graham Essays: Full Collection of PG Essays in ePub, PDF and Markdowng](https://github.com/ofou/graham-essays)
 * [2024-07-01, 15:36:58](https://news.ycombinator.com/item?id=40846834) - [Show HN: Programming Is Easier Than Most People Think](https://easylang.online/apps/tut_learn.html?v=2407)
+* [2024-07-01, 15:27:25](https://news.ycombinator.com/item?id=40846726) - [Architectural cross-section of Kowloon Walled City](https://cohost.org/belarius/post/6677850-architectural-cross)
 * [2024-07-01, 15:08:51](https://news.ycombinator.com/item?id=40846524) - [The first 10k games at bgammon.org, an open source online backgammon service](https://bgammon.org/blog/20240701-the-first-ten-thousand-games/)
 * [2024-07-01, 15:01:49](https://news.ycombinator.com/item?id=40846428) - [Ask HN: Who is hiring? (July 2024)](https://news.ycombinator.com/item?id=40846428)
 * [2024-07-01, 15:01:47](https://news.ycombinator.com/item?id=40846426) - [Ask HN: Who wants to be hired? (July 2024)](https://news.ycombinator.com/item?id=40846426)
@@ -65,6 +67,7 @@
 * [2024-07-01, 11:52:25](https://news.ycombinator.com/item?id=40844868) - [Pakistani court sentences man to death for social media post](https://apnews.com/article/pakistan-blasphemy-christian-death-sentence-mob-9fbaf36d5c78659d58a414f7f048ce8a)
 * [2024-07-01, 11:52:02](https://news.ycombinator.com/item?id=40844864) - [Leonardo da Vinci: 'Poor is the pupil who does not surpass his master.'](https://www.socratic-method.com/quote-meanings-and-interpretations/leonardo-da-vinci-poor-is-the-pupil-who-does-not-surpass-his-master)
 * [2024-07-01, 11:44:33](https://news.ycombinator.com/item?id=40844825) - [A write-ahead log is not a universal part of durability](https://notes.eatonphil.com/2024-07-01-a-write-ahead-log-is-not-a-universal-part-of-durability.html)
+* [2024-07-01, 11:44:31](https://news.ycombinator.com/item?id=40844824) - [A landscape of consciousness: Toward a taxonomy of explanations and implications](https://www.sciencedirect.com/science/article/pii/S0079610723001128)
 * [2024-07-01, 11:40:22](https://news.ycombinator.com/item?id=40844790) - [Neuromancer was released 40 years ago today](https://en.wikipedia.org/wiki/Neuromancer)
 * [2024-07-01, 11:33:53](https://news.ycombinator.com/item?id=40844748) - [Over 100K+ Sites Hit by Polyfill.io Supply Chain Attack](https://www.infoq.com/news/2024/06/polyfill-supply-chain-attack/)
 * [2024-07-01, 11:31:55](https://news.ycombinator.com/item?id=40844741) - [Beware of Squarespace: Our Business Lost $10k Due to Their Incompetence](https://news.ycombinator.com/item?id=40844741)
