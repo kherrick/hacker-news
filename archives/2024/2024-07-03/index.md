@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-07-03](index.md)
 
+* [2024-07-03, 22:01:26](https://news.ycombinator.com/item?id=40870403) - [NASA selects SpaceX to launch a gamma-ray telescope into an unusual orbit](https://arstechnica.com/space/2024/07/spacex-selected-to-launch-nasa-mission-probing-the-creation-of-matter/)
 * [2024-07-03, 21:56:22](https://news.ycombinator.com/item?id=40870366) - [Ladybird web browser funded by GitHub co-founder, promises 'no code' from rivals](https://devclass.com/2024/07/03/ladybird-web-browser-project-now-funded-by-github-co-founder-promises-no-code-from-other-browsers/)
+* [2024-07-03, 21:55:13](https://news.ycombinator.com/item?id=40870357) - [The Origins of DS_store (2006)](https://www.arno.org/on-the-origins-of-ds-store)
 * [2024-07-03, 21:48:27](https://news.ycombinator.com/item?id=40870311) - [Commercial Chapter 11 Filings Increase 70% in First Half of 2024](https://www.abladvisor.com/news/38903/commercial-chapter-11-filings-increase-70-in-first-half-of-2024)
+* [2024-07-03, 21:44:47](https://news.ycombinator.com/item?id=40870280) - [The Joy of Reading Books You Don't Understand](https://reactormag.com/the-joy-of-reading-books-you-dont-entirely-understand/)
 * [2024-07-03, 20:59:20](https://news.ycombinator.com/item?id=40869940) - [Moshi: A voice AI that can display emotions](https://twitter.com/kyutai_labs/status/1808590638306197520)
 * [2024-07-03, 20:52:37](https://news.ycombinator.com/item?id=40869877) - [Show HN: Xcapture-BPF – like Linux top, but with Xray vision](https://0x.tools/)
 * [2024-07-03, 20:33:07](https://news.ycombinator.com/item?id=40869706) - [Show HN: Open Sourcing Our No-Code WebXR Editor After 5 Years of Development](https://github.com/transferthought/transfer-thought)
