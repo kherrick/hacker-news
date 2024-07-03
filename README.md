@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-03, 19:19:34](https://news.ycombinator.com/item?id=40869173) - [Creating My Own Linux-Based Smart TV](https://carltheperson.com/posts/earlgreytv/)
 * [2024-07-03, 17:39:10](https://news.ycombinator.com/item?id=40868224) - [Meta Sees ~5% Performance Gains to Optimizing the Linux Kernel with Bolt](https://www.phoronix.com/news/Linux-BOLT-5p-Performance)
 * [2024-07-03, 17:00:44](https://news.ycombinator.com/item?id=40867845) - [Spice (YC S19) Is Hiring](https://www.ycombinator.com/companies/spice/jobs/TijA35R-software-engineer)
 * [2024-07-03, 16:48:34](https://news.ycombinator.com/item?id=40867746) - [A practical introduction to constraint programming using CP-SAT and Python](https://pganalyze.com/blog/a-practical-introduction-to-constraint-programming-using-cp-sat)
@@ -13,7 +14,6 @@
 * [2024-07-03, 14:18:56](https://news.ycombinator.com/item?id=40866155) - [Living in a Lucid Dream](https://www.noemamag.com/living-in-a-lucid-dream/)
 * [2024-07-03, 10:18:00](https://news.ycombinator.com/item?id=40864541) - [Show HN: Jb / json.bash – Command-line tool (and bash library) that creates JSON](https://github.com/h4l/json.bash)
 * [2024-07-03, 09:26:14](https://news.ycombinator.com/item?id=40864249) - [Man-Computer Symbiosis by J. C. R. Licklider (1960)](https://groups.csail.mit.edu/medg/people/psz/Licklider.html)
-* [2024-07-03, 01:55:44](https://news.ycombinator.com/item?id=40862136) - [Dear Julia, Dear Yuri: A mathematical correspondence (2022)](https://celebratio.org/Robinson_JB/article/964/)
 * [2024-07-02, 23:43:10](https://news.ycombinator.com/item?id=40861520) - [Why Bridges Don't Sink](https://practical.engineering/blog/2024/7/2/why-bridges-dont-sink)
 * [2024-07-02, 22:32:42](https://news.ycombinator.com/item?id=40861079) - [Engine Sound Simulator](https://markeasting.github.io/engine/)
 * [2024-07-02, 21:44:53](https://news.ycombinator.com/item?id=40860713) - [A British clergyman who predicted black holes in 1783](https://www.bbc.com/future/article/20240626-the-priest-who-predicted-black-holes-in-1783)
@@ -24,11 +24,11 @@
 * [2024-07-01, 17:54:24](https://news.ycombinator.com/item?id=40848340) - [A survey of general-purpose polyhedral compilers](https://dl.acm.org/doi/abs/10.1145/3674735)
 * [2024-07-01, 15:27:25](https://news.ycombinator.com/item?id=40846726) - [Architectural cross-section of Kowloon Walled City](https://cohost.org/belarius/post/6677850-architectural-cross)
 * [2024-07-01, 11:44:31](https://news.ycombinator.com/item?id=40844824) - [A landscape of consciousness: Toward a taxonomy of explanations and implications](https://www.sciencedirect.com/science/article/pii/S0079610723001128)
-* [2024-07-01, 10:59:11](https://news.ycombinator.com/item?id=40844536) - [Watching \"Grizzly Man\" with a bear biologist](https://www.backpacker.com/survival/watching-grizzly-man-with-bear-biologist-wesley-larson/)
 * [2024-06-30, 23:47:49](https://news.ycombinator.com/item?id=40841403) - [Advice to Young Mathematicians [video]](https://www.youtube.com/watch?v=B8RkQq-1_ZU)
 * [2024-06-30, 22:34:07](https://news.ycombinator.com/item?id=40840938) - [Goodwatch – A Ham Radio Wristwatch (2020)](https://kk4vcz.com/goodwatch/)
 * [2024-06-30, 21:45:08](https://news.ycombinator.com/item?id=40840635) - [What's in my location history?](https://zdimension.fr/whats-in-my-location-history/)
 * [2024-06-30, 21:40:05](https://news.ycombinator.com/item?id=40840599) - [Python programming for Nintendo 8 bits (2018)](https://github.com/gutomaia/pyNES)
+* [2024-06-30, 20:03:05](https://news.ycombinator.com/item?id=40839877) - [Extreme Measures Needed to Scale Chips](https://spectrum.ieee.org/chip-scaling)
 * [2024-06-30, 06:04:04](https://news.ycombinator.com/item?id=40835409) - [Botanist tells how nettles helped solve Soham murders](https://www.theguardian.com/uk-news/article/2024/jun/30/botanist-tells-how-nettles-helped-solve-soham-murders)
 
 ## [Archives](archives/index.md)

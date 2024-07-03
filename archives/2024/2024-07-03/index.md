@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-03](index.md)
 
+* [2024-07-03, 19:19:34](https://news.ycombinator.com/item?id=40869173) - [Creating My Own Linux-Based Smart TV](https://carltheperson.com/posts/earlgreytv/)
 * [2024-07-03, 17:59:59](https://news.ycombinator.com/item?id=40868448) - [AI Agents That Matter](https://www.aisnakeoil.com/p/new-paper-ai-agents-that-matter)
 * [2024-07-03, 17:48:13](https://news.ycombinator.com/item?id=40868323) - [UK man imprisoned for 4 months after walking up to cops with 6\" Master Sword](https://www.pcgamer.com/games/uk-man-imprisoned-for-4-months-after-walking-up-to-cops-wielding-6-inch-master-sword/)
 * [2024-07-03, 17:47:58](https://news.ycombinator.com/item?id=40868321) - [JRuby funding at Red Hat stopped – call for sponsors](https://blog.jruby.org/2024/07/independence-day)
