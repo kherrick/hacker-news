@@ -68,6 +68,7 @@
 * [2024-07-01, 11:40:22](https://news.ycombinator.com/item?id=40844790) - [Neuromancer was released 40 years ago today](https://en.wikipedia.org/wiki/Neuromancer)
 * [2024-07-01, 11:33:53](https://news.ycombinator.com/item?id=40844748) - [Over 100K+ Sites Hit by Polyfill.io Supply Chain Attack](https://www.infoq.com/news/2024/06/polyfill-supply-chain-attack/)
 * [2024-07-01, 11:31:55](https://news.ycombinator.com/item?id=40844741) - [Beware of Squarespace: Our Business Lost $10k Due to Their Incompetence](https://news.ycombinator.com/item?id=40844741)
+* [2024-07-01, 11:31:18](https://news.ycombinator.com/item?id=40844737) - [Getting Your DBA Teams Scripts into Git](https://www.sqlservercentral.com/articles/getting-your-dba-teams-scripts-into-git)
 * [2024-07-01, 11:30:36](https://news.ycombinator.com/item?id=40844727) - [Product Hunt Upvotes Are Worthless: Real Customers Aren't There](https://news.ycombinator.com/item?id=40844727)
 * [2024-07-01, 11:23:08](https://news.ycombinator.com/item?id=40844684) - [An arc welder in the datacenter: what could possibly go wrong?](https://www.theregister.com/2024/07/01/who_me/)
 * [2024-07-01, 10:59:11](https://news.ycombinator.com/item?id=40844536) - [Watching \"Grizzly Man\" with a Bear Biologist](https://www.backpacker.com/survival/watching-grizzly-man-with-bear-biologist-wesley-larson/)
