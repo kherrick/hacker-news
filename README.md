@@ -2,7 +2,6 @@
 
 * [2024-07-03, 05:05:35](https://news.ycombinator.com/item?id=40862865) - [I Received an AI Email](https://timharek.no/blog/i-received-an-ai-email)
 * [2024-07-03, 04:25:21](https://news.ycombinator.com/item?id=40862683) - [Reproducibility in Disguise](https://fzakaria.com/2024/07/02/reproducibility-in-disguise.html)
-* [2024-07-03, 03:24:17](https://news.ycombinator.com/item?id=40862475) - [Ask HN: What were interviews like before Leetcode?](https://news.ycombinator.com/item?id=40862475)
 * [2024-07-03, 02:46:23](https://news.ycombinator.com/item?id=40862306) - [Study reveals why AI models that analyze medical images can be biased](https://medicalxpress.com/news/2024-06-reveals-ai-medical-images-biased.html)
 * [2024-07-03, 01:55:44](https://news.ycombinator.com/item?id=40862136) - [Dear Julia, Dear Yuri: A mathematical correspondence (2022)](https://celebratio.org/Robinson_JB/article/964/)
 * [2024-07-03, 01:52:54](https://news.ycombinator.com/item?id=40862113) - [Show HN: Improve LLM Performance by Maximizing Iterative Development](https://github.com/palico-ai/palico-ai)
@@ -30,6 +29,7 @@
 * [2024-07-01, 10:29:34](https://news.ycombinator.com/item?id=40844387) - [Examining the Nintendo Switch (Tegra X1) Video Engine](https://chipsandcheese.com/2024/06/28/examining-the-nintendo-switch-tegra-x1-video-engine/)
 * [2024-07-01, 02:29:28](https://news.ycombinator.com/item?id=40842082) - [Richat Structure](https://earthobservatory.nasa.gov/images/92071/richat-structure)
 * [2024-06-28, 20:57:02](https://news.ycombinator.com/item?id=40825218) - [Was the Dingo Born to Be Wild?](https://www.nytimes.com/2024/06/27/science/pets-dogs-dingo.html)
+* [2024-06-27, 19:57:39](https://news.ycombinator.com/item?id=40814424) - [Lyttle Lytton Contest](https://adamcadre.ac/lyttle/2024.html)
 
 ## [Archives](archives/index.md)
 
