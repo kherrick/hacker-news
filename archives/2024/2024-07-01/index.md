@@ -111,6 +111,7 @@
 * [2024-07-01, 02:57:57](https://news.ycombinator.com/item?id=40842173) - [Integrated assembler improvements in LLVM 19](https://maskray.me/blog/2024-06-30-integrated-assembler-improvements-in-llvm-19)
 * [2024-07-01, 02:29:28](https://news.ycombinator.com/item?id=40842082) - [Richat Structure](https://earthobservatory.nasa.gov/images/92071/richat-structure)
 * [2024-07-01, 02:28:04](https://news.ycombinator.com/item?id=40842079) - [Report shows that AAA games for iPhone and iPad aren't a hit with users](https://9to5mac.com/2024/06/28/aaa-games-iphone-ipad-arent-a-hit/)
+* [2024-07-01, 02:20:12](https://news.ycombinator.com/item?id=40842047) - [Effective YouTube Kids: Quality Content in Small Doses](https://abparenting.substack.com/p/effective-youtube-kids)
 * [2024-07-01, 02:03:37](https://news.ycombinator.com/item?id=40841980) - [Pipes: A spiritual successor to Yahoo Pipes](https://www.pipes.digital/docs)
 * [2024-07-01, 01:30:11](https://news.ycombinator.com/item?id=40841838) - [Microsoft lays hands on login data: Beware of the new Outlook](https://www.heise.de/en/news/Microsoft-lays-hands-on-login-data-Beware-of-the-new-Outlook-9608798.html)
 * [2024-07-01, 00:48:21](https://news.ycombinator.com/item?id=40841651) - [DOJ to offer Boeing \"sweetheart\" plea deal in pursuit of criminal charges](https://www.cnn.com/2024/06/30/business/boeing-plea-deal/index.html)
