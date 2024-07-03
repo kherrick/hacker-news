@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-03](index.md)
 
+* [2024-07-03, 14:42:02](https://news.ycombinator.com/item?id=40866374) - [Do not taunt happy fun branch predictor](https://www.mattkeeter.com/blog/2023-01-25-branch/)
 * [2024-07-03, 14:18:56](https://news.ycombinator.com/item?id=40866155) - [Living in a Lucid Dream](https://www.noemamag.com/living-in-a-lucid-dream/)
 * [2024-07-03, 14:18:43](https://news.ycombinator.com/item?id=40866153) - [What Counts as \"Strategic\"?](https://capitalgains.thediff.co/p/strategy)
 * [2024-07-03, 14:07:35](https://news.ycombinator.com/item?id=40866090) - [Social media is a likely cause of confusion in modern mate selection](https://phys.org/news/2024-07-social-media-modern.html)

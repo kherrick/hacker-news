@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-03, 14:42:02](https://news.ycombinator.com/item?id=40866374) - [Do not taunt happy fun branch predictor](https://www.mattkeeter.com/blog/2023-01-25-branch/)
 * [2024-07-03, 14:18:56](https://news.ycombinator.com/item?id=40866155) - [Living in a Lucid Dream](https://www.noemamag.com/living-in-a-lucid-dream/)
 * [2024-07-03, 14:18:43](https://news.ycombinator.com/item?id=40866153) - [What Counts as \"Strategic\"?](https://capitalgains.thediff.co/p/strategy)
-* [2024-07-03, 14:07:35](https://news.ycombinator.com/item?id=40866090) - [Social media is a likely cause of confusion in modern mate selection](https://phys.org/news/2024-07-social-media-modern.html)
 * [2024-07-03, 11:25:29](https://news.ycombinator.com/item?id=40864914) - [Proton launches its own version of Google Docs](https://www.engadget.com/proton-launches-its-own-version-of-google-docs-100044471.html)
 * [2024-07-03, 10:18:00](https://news.ycombinator.com/item?id=40864541) - [Show HN: Jb / json.bash – Command-line tool (and bash library) that creates JSON](https://github.com/h4l/json.bash)
 * [2024-07-03, 07:01:05](https://news.ycombinator.com/item?id=40863470) - [Converge (YC S23) Is Hiring a Founding Account Executive](https://www.ycombinator.com/companies/converge/jobs/vpxyPWD-founding-account-executive)
