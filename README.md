@@ -1,12 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-03, 10:09:05](https://news.ycombinator.com/item?id=40864489) - [Developing Inside a Container](https://code.visualstudio.com/docs/devcontainers/containers)
 * [2024-07-03, 07:01:05](https://news.ycombinator.com/item?id=40863470) - [Converge (YC S23) Is Hiring a Founding Account Executive](https://www.ycombinator.com/companies/converge/jobs/vpxyPWD-founding-account-executive)
 * [2024-07-03, 05:05:35](https://news.ycombinator.com/item?id=40862865) - [I Received an AI Email](https://timharek.no/blog/i-received-an-ai-email)
 * [2024-07-03, 04:55:13](https://news.ycombinator.com/item?id=40862835) - [The Fourier Transform: What's Wrong with It?](https://blog.endaq.com/the-fourier-transform-whats-wrong-with-it)
 * [2024-07-03, 04:25:21](https://news.ycombinator.com/item?id=40862683) - [Reproducibility in Disguise](https://fzakaria.com/2024/07/02/reproducibility-in-disguise.html)
 * [2024-07-03, 03:15:58](https://news.ycombinator.com/item?id=40862436) - [Why AI Infrastructure Startups Are Insanely Hard to Build](https://nextword.substack.com/p/why-ai-infrastructure-startups-are)
-* [2024-07-03, 02:46:23](https://news.ycombinator.com/item?id=40862306) - [Study reveals why AI models that analyze medical images can be biased](https://medicalxpress.com/news/2024-06-reveals-ai-medical-images-biased.html)
-* [2024-07-03, 01:57:10](https://news.ycombinator.com/item?id=40862144) - [Sublime Merge](https://www.sublimemerge.com)
 * [2024-07-03, 01:55:44](https://news.ycombinator.com/item?id=40862136) - [Dear Julia, Dear Yuri: A mathematical correspondence (2022)](https://celebratio.org/Robinson_JB/article/964/)
 * [2024-07-03, 01:52:54](https://news.ycombinator.com/item?id=40862113) - [Show HN: Improve LLM Performance by Maximizing Iterative Development](https://github.com/palico-ai/palico-ai)
 * [2024-07-02, 23:43:10](https://news.ycombinator.com/item?id=40861520) - [Why Bridges Don't Sink](https://practical.engineering/blog/2024/7/2/why-bridges-dont-sink)
@@ -28,6 +27,7 @@
 * [2024-07-01, 10:59:11](https://news.ycombinator.com/item?id=40844536) - [Watching \"Grizzly Man\" with a Bear Biologist](https://www.backpacker.com/survival/watching-grizzly-man-with-bear-biologist-wesley-larson/)
 * [2024-07-01, 10:29:34](https://news.ycombinator.com/item?id=40844387) - [Examining the Nintendo Switch (Tegra X1) Video Engine](https://chipsandcheese.com/2024/06/28/examining-the-nintendo-switch-tegra-x1-video-engine/)
 * [2024-07-01, 02:29:28](https://news.ycombinator.com/item?id=40842082) - [Richat Structure](https://earthobservatory.nasa.gov/images/92071/richat-structure)
+* [2024-06-30, 21:40:05](https://news.ycombinator.com/item?id=40840599) - [Python programming for Nintendo 8 bits](https://github.com/gutomaia/pyNES)
 * [2024-06-29, 17:38:01](https://news.ycombinator.com/item?id=40832206) - [Show HN: Faktor – The missing 2FA code autocomplete for Chrome](https://getfaktor.com/)
 * [2024-06-28, 03:24:58](https://news.ycombinator.com/item?id=40817409) - [Hacking Amazon's Eero 6 (part 2)](https://markuta.com/eero-6-hacking-part-2/)
 

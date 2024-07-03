@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-03](index.md)
 
+* [2024-07-03, 10:09:05](https://news.ycombinator.com/item?id=40864489) - [Developing Inside a Container](https://code.visualstudio.com/docs/devcontainers/containers)
 * [2024-07-03, 07:01:05](https://news.ycombinator.com/item?id=40863470) - [Converge (YC S23) Is Hiring a Founding Account Executive](https://www.ycombinator.com/companies/converge/jobs/vpxyPWD-founding-account-executive)
 * [2024-07-03, 06:18:57](https://news.ycombinator.com/item?id=40863248) - [A Bugatti car, a first lady and the fake stories aimed at Americans](https://www.bbc.co.uk/news/articles/c72ver6172do)
 * [2024-07-03, 06:14:50](https://news.ycombinator.com/item?id=40863229) - [Google's greenhouse gas emissions jump 48% in five years](https://arstechnica.com/gadgets/2024/07/googles-greenhouse-gas-emissions-jump-48-in-five-years/)
