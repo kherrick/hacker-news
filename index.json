@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-07-04, 16:15:28",
-      "https://news.ycombinator.com/item?id=40876017"
-    ],
-    [
-      "Prusa is now manufacturing 3D printers in USA",
-      "https://blog.prusa3d.com/we-are-now-manufacturing-3d-printers-and-filaments-in-the-usa_99148/"
-    ]
-  ],
-  [
-    [
       "2024-07-04, 16:03:32",
       "https://news.ycombinator.com/item?id=40875924"
     ],
@@ -41,12 +31,12 @@
   ],
   [
     [
-      "2024-07-04, 16:02:20",
-      "https://news.ycombinator.com/item?id=40875913"
+      "2024-07-04, 16:02:39",
+      "https://news.ycombinator.com/item?id=40875914"
     ],
     [
-      "Singulatron: Have your own internal AI network",
-      "https://github.com/singulatron/singulatron"
+      "Air-Bus Hijacking: Silently Taking over Avionics Systems",
+      "https://dl.acm.org/doi/pdf/10.1145/3626205.3659144"
     ]
   ],
   [
@@ -67,16 +57,6 @@
     [
       "The sad state of property-based testing libraries",
       "https://stevana.github.io/the_sad_state_of_property-based_testing_libraries.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-04, 14:44:45",
-      "https://news.ycombinator.com/item?id=40875355"
-    ],
-    [
-      "The dance moves that make men attractive to women",
-      "https://www.economist.com/science-and-technology/2010/09/08/lord-of-the-dance"
     ]
   ],
   [
@@ -127,16 +107,6 @@
     [
       "Show HN: I made a split keyboard for large palms",
       "https://www.jogmekeebs.com"
-    ]
-  ],
-  [
-    [
-      "2024-07-04, 06:28:40",
-      "https://news.ycombinator.com/item?id=40872799"
-    ],
-    [
-      "\"Superintelligence\" 10 years later",
-      "https://www.humanityredefined.com/p/superintelligence10-years-later"
     ]
   ],
   [
@@ -241,12 +211,52 @@
   ],
   [
     [
+      "2024-07-03, 16:48:34",
+      "https://news.ycombinator.com/item?id=40867746"
+    ],
+    [
+      "A practical introduction to constraint programming using CP-SAT and Python",
+      "https://pganalyze.com/blog/a-practical-introduction-to-constraint-programming-using-cp-sat"
+    ]
+  ],
+  [
+    [
+      "2024-07-03, 16:45:01",
+      "https://news.ycombinator.com/item?id=40867709"
+    ],
+    [
+      "The Cheapest NAS",
+      "https://sigwait.org/~alex/blog/2024/07/01/the-cheapest-nas.html"
+    ]
+  ],
+  [
+    [
       "2024-07-03, 05:22:15",
       "https://news.ycombinator.com/item?id=40862941"
     ],
     [
       "A Type for Overload Set",
       "https://biowpn.github.io/bioweapon/2024/07/02/a-type-for-overload-set.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-02, 16:27:25",
+      "https://news.ycombinator.com/item?id=40858165"
+    ],
+    [
+      "The Sphere",
+      "https://mssv.net/2024/07/02/the-sphere/"
+    ]
+  ],
+  [
+    [
+      "2024-07-02, 13:51:37",
+      "https://news.ycombinator.com/item?id=40856677"
+    ],
+    [
+      "GPU profiling for WebGPU workloads on Windows with Chrome",
+      "https://frguthmann.github.io/posts/profiling_webgpu/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Shipt's algorithm squeezed gig workers, who fought back",
       "https://spectrum.ieee.org/shipt"
-    ]
-  ],
-  [
-    [
-      "2024-07-01, 06:40:56",
-      "https://news.ycombinator.com/item?id=40843185"
-    ],
-    [
-      "Breaking transatlantic sailing record by more than a day (2016)",
-      "https://www.yachtingworld.com/extraordinary-boats/faster-than-the-weather-how-comanche-took-more-than-a-day-off-the-transatlantic-record-99160"
     ]
   ]
 ]
