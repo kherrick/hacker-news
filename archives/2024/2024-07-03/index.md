@@ -74,6 +74,7 @@
 * [2024-07-03, 07:01:05](https://news.ycombinator.com/item?id=40863470) - [Converge (YC S23) Is Hiring a Founding Account Executive](https://www.ycombinator.com/companies/converge/jobs/vpxyPWD-founding-account-executive)
 * [2024-07-03, 06:18:57](https://news.ycombinator.com/item?id=40863248) - [A Bugatti car, a first lady and the fake stories aimed at Americans](https://www.bbc.co.uk/news/articles/c72ver6172do)
 * [2024-07-03, 06:14:50](https://news.ycombinator.com/item?id=40863229) - [Google's greenhouse gas emissions jump 48% in five years](https://arstechnica.com/gadgets/2024/07/googles-greenhouse-gas-emissions-jump-48-in-five-years/)
+* [2024-07-03, 05:22:15](https://news.ycombinator.com/item?id=40862941) - [A Type for Overload Set](https://biowpn.github.io/bioweapon/2024/07/02/a-type-for-overload-set.html)
 * [2024-07-03, 05:13:17](https://news.ycombinator.com/item?id=40862897) - [EV Motors Without Rare Earth Permanent Magnets](https://spectrum.ieee.org/ev-motor)
 * [2024-07-03, 05:05:35](https://news.ycombinator.com/item?id=40862865) - [I Received an AI Email](https://timharek.no/blog/i-received-an-ai-email)
 * [2024-07-03, 04:55:13](https://news.ycombinator.com/item?id=40862835) - [The Fourier Transform: What's Wrong with It?](https://blog.endaq.com/the-fourier-transform-whats-wrong-with-it)
