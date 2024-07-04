@@ -14,6 +14,7 @@
 * [2024-06-30, 22:03:06](https://news.ycombinator.com/item?id=40840751) - [WhatsApp Android beta reveals Llama 3 405B option](https://wabetainfo.com/whatsapp-beta-for-android-2-24-14-7-whats-new/)
 * [2024-06-30, 21:58:27](https://news.ycombinator.com/item?id=40840721) - [Andrej Karpathy on X: \"100% Software 2.0 computer.Just a single neural net](https://twitter.com/karpathy/status/1807497426816946333)
 * [2024-06-30, 21:55:04](https://news.ycombinator.com/item?id=40840699) - [Google Arts and Culture site I didn't know existed](https://artsandculture.google.com/)
+* [2024-06-30, 21:48:11](https://news.ycombinator.com/item?id=40840658) - [Books to Dive in into Fullstack Development](https://news.ycombinator.com/item?id=40840658)
 * [2024-06-30, 21:48:07](https://news.ycombinator.com/item?id=40840656) - [California approves final high-speed rail link connecting San Francisco to LA](https://www.sfchronicle.com/bayarea/article/california-high-speed-rail-19542125.php)
 * [2024-06-30, 21:45:08](https://news.ycombinator.com/item?id=40840635) - [What's in my location history?](https://zdimension.fr/whats-in-my-location-history/)
 * [2024-06-30, 21:40:05](https://news.ycombinator.com/item?id=40840599) - [Python programming for Nintendo 8 bits](https://github.com/gutomaia/pyNES)
