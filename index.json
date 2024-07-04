@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-07-04, 15:19:13",
-      "https://news.ycombinator.com/item?id=40875588"
-    ],
-    [
-      "To save spotted owls, US officials will kill hundreds of thousands of other owls",
-      "https://apnews.com/article/shooting-barred-owls-wildlife-service-9081f926f3ebd27ac3ddc2ceaf332ca2"
-    ]
-  ],
-  [
-    [
       "2024-07-04, 15:15:39",
       "https://news.ycombinator.com/item?id=40875559"
     ],
@@ -37,16 +27,6 @@
     [
       "Twilio Confirms Data Breach After Hackers Leak 33M Authy User Phone Numbers",
       "https://www.securityweek.com/twilio-confirms-data-breach-after-hackers-leak-33m-authy-user-phone-numbers/"
-    ]
-  ],
-  [
-    [
-      "2024-07-04, 12:00:57",
-      "https://news.ycombinator.com/item?id=40874189"
-    ],
-    [
-      "BuildZoom (better way to build custom homes) Is hiring a Growth Associate",
-      "https://jobs.lever.co/buildzoom"
     ]
   ],
   [
@@ -97,6 +77,16 @@
     [
       "Building a data compression utility in Haskell using Huffman codes",
       "https://lazamar.github.io/haskell-data-compression-with-huffman-codes/"
+    ]
+  ],
+  [
+    [
+      "2024-07-04, 03:50:35",
+      "https://news.ycombinator.com/item?id=40872182"
+    ],
+    [
+      "The saddest \"Just Ship It\" story ever (2020)",
+      "https://www.kitze.io/posts/saddest-just-ship-it-story-ever"
     ]
   ],
   [
@@ -197,6 +187,16 @@
     [
       "The Cheapest NAS",
       "https://sigwait.org/~alex/blog/2024/07/01/the-cheapest-nas.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-03, 14:47:18",
+      "https://news.ycombinator.com/item?id=40866442"
+    ],
+    [
+      "Making a Linux-managed network switch",
+      "https://blog.brixit.nl/making-a-linux-managed-network-switch/"
     ]
   ],
   [
