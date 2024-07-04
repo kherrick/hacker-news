@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-04, 03:30:24](https://news.ycombinator.com/item?id=40872102) - [Ask HN: Vision Pro owners, are you still using it?](https://news.ycombinator.com/item?id=40872102)
+* [2024-07-04, 03:05:36](https://news.ycombinator.com/item?id=40872020) - [Sans-IO: The secret to effective Rust for network services](https://www.firezone.dev/blog/sans-io)
 * [2024-07-03, 23:28:11](https://news.ycombinator.com/item?id=40871043) - [Introduction to Program Synthesis](https://people.csail.mit.edu/asolar/SynthesisCourse/Lecture1.htm)
 * [2024-07-03, 23:17:20](https://news.ycombinator.com/item?id=40870972) - [Wordsworth Donisthorpe, Blackmail, and the First Motion Pictures](https://publicdomainreview.org/essay/wordsworth-donisthorpe-blackmail-and-the-first-motion-pictures/)
 * [2024-07-03, 22:43:05](https://news.ycombinator.com/item?id=40870728) - [Diving into deep learning: Understanding Deep Learning book review [pdf]](https://github.com/udlbook/udlbook/blob/main/public/NMI_Review.pdf)
@@ -11,7 +12,6 @@
 * [2024-07-03, 20:33:07](https://news.ycombinator.com/item?id=40869706) - [Show HN: Open Sourcing Our No-Code WebXR Editor After 5 Years of Development](https://github.com/transferthought/transfer-thought)
 * [2024-07-03, 19:55:41](https://news.ycombinator.com/item?id=40869461) - [AI's $600B Question](https://www.sequoiacap.com/article/ais-600b-question/)
 * [2024-07-03, 19:55:04](https://news.ycombinator.com/item?id=40869458) - [Wcurl: a curl wrapper to download files](https://samueloph.dev/blog/announcing-wcurl-a-curl-wrapper-to-download-files/)
-* [2024-07-03, 19:53:54](https://news.ycombinator.com/item?id=40869446) - [Neutrons on Classically Inexplicable Paths](https://www.tuwien.at/en/tu-wien/news/news-articles/news/neutronen-auf-klassisch-unerklaerlichen-bahnen)
 * [2024-07-03, 17:58:14](https://news.ycombinator.com/item?id=40868425) - [Luakit: A fast, extensible, and customizable web browser](https://luakit.github.io/)
 * [2024-07-03, 17:00:44](https://news.ycombinator.com/item?id=40867845) - [Spice (YC S19) Is Hiring](https://www.ycombinator.com/companies/spice/jobs/TijA35R-software-engineer)
 * [2024-07-03, 16:48:34](https://news.ycombinator.com/item?id=40867746) - [A practical introduction to constraint programming using CP-SAT and Python](https://pganalyze.com/blog/a-practical-introduction-to-constraint-programming-using-cp-sat)
