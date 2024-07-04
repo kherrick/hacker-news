@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2024-07-04, 16:02:39",
+      "https://news.ycombinator.com/item?id=40875914"
+    ],
+    [
+      "Air-Bus Hijacking: Silently Taking over Avionics Systems",
+      "https://dl.acm.org/doi/pdf/10.1145/3626205.3659144"
+    ]
+  ],
+  [
+    [
       "2024-07-04, 15:34:08",
       "https://news.ycombinator.com/item?id=40875702"
     ],
@@ -157,16 +167,6 @@
     [
       "Building a data compression utility in Haskell using Huffman codes",
       "https://lazamar.github.io/haskell-data-compression-with-huffman-codes/"
-    ]
-  ],
-  [
-    [
-      "2024-07-04, 02:09:20",
-      "https://news.ycombinator.com/item?id=40871783"
-    ],
-    [
-      "Diffusion Forcing: Next-Token Prediction Meets Full-Sequence Diffusion",
-      "https://boyuan.space/diffusion-forcing/"
     ]
   ],
   [
