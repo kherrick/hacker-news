@@ -7,6 +7,7 @@
 * [2024-07-04, 16:03:32](https://news.ycombinator.com/item?id=40875924) - [Mechanical Computer Relies on Kirigami Cubes, Not Electronics](https://news.ncsu.edu/2024/06/kirigami-mechanical-computer/)
 * [2024-07-04, 15:48:34](https://news.ycombinator.com/item?id=40875814) - [Tell HN: BuildZoom posts jobs on HN, but no actual openings available](https://news.ycombinator.com/item?id=40875814)
 * [2024-07-04, 15:48:27](https://news.ycombinator.com/item?id=40875811) - [Wikipedians are hung up on the meaning of Madonna](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2024-07-04/Discussion_report)
+* [2024-07-04, 15:19:13](https://news.ycombinator.com/item?id=40875588) - [To save spotted owls, US officials will kill hundreds of thousands of other owls](https://apnews.com/article/shooting-barred-owls-wildlife-service-9081f926f3ebd27ac3ddc2ceaf332ca2)
 * [2024-07-04, 15:15:39](https://news.ycombinator.com/item?id=40875559) - [The sad state of property-based testing libraries](https://stevana.github.io/the_sad_state_of_property-based_testing_libraries.html)
 * [2024-07-04, 14:20:07](https://news.ycombinator.com/item?id=40875174) - [Kurzweil: We are going to expand intelligence a millionfold by 2045](https://www.theguardian.com/technology/article/2024/jun/29/ray-kurzweil-google-ai-the-singularity-is-nearer)
 * [2024-07-04, 13:41:53](https://news.ycombinator.com/item?id=40874888) - [Show HN: Rent Elderly People – Skip Lines and Get Senior Perks](https://rentelderlypeople.com/)
