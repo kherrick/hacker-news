@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-07-04, 05:04:09",
+      "https://news.ycombinator.com/item?id=40872438"
+    ],
+    [
+      "Finding near-duplicates with Jaccard similarity and MinHash",
+      "https://blog.nelhage.com/post/fuzzy-dedup/"
+    ]
+  ],
+  [
+    [
       "2024-07-04, 04:29:12",
       "https://news.ycombinator.com/item?id=40872332"
     ],
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2024-07-03, 19:55:41",
-      "https://news.ycombinator.com/item?id=40869461"
-    ],
-    [
-      "AI's $600B Question",
-      "https://www.sequoiacap.com/article/ais-600b-question/"
-    ]
-  ],
-  [
-    [
       "2024-07-03, 19:55:04",
       "https://news.ycombinator.com/item?id=40869458"
     ],
@@ -137,6 +137,16 @@
     [
       "Luakit: A fast, extensible, and customizable web browser",
       "https://luakit.github.io/"
+    ]
+  ],
+  [
+    [
+      "2024-07-03, 17:00:44",
+      "https://news.ycombinator.com/item?id=40867845"
+    ],
+    [
+      "Spice (YC S19) Is Hiring",
+      "https://www.ycombinator.com/companies/spice/jobs/TijA35R-software-engineer"
     ]
   ],
   [
@@ -247,16 +257,6 @@
     [
       "Show HN: Sonatino – small audio dev board based on ESP32-S3",
       "https://news.ycombinator.com/item?id=40850062"
-    ]
-  ],
-  [
-    [
-      "2024-07-01, 19:10:52",
-      "https://news.ycombinator.com/item?id=40849363"
-    ],
-    [
-      "A Git story: Not so fun this time",
-      "https://blog.brachiosoft.com/en/posts/git/"
     ]
   ],
   [
