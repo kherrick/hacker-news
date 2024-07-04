@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-04, 03:30:24](https://news.ycombinator.com/item?id=40872102) - [Ask HN: Vision Pro owners, are you still using it?](https://news.ycombinator.com/item?id=40872102)
 * [2024-07-04, 03:05:36](https://news.ycombinator.com/item?id=40872020) - [Sans-IO: The secret to effective Rust for network services](https://www.firezone.dev/blog/sans-io)
 * [2024-07-04, 02:09:20](https://news.ycombinator.com/item?id=40871783) - [Diffusion Forcing: Next-Token Prediction Meets Full-Sequence Diffusion](https://boyuan.space/diffusion-forcing/)
 * [2024-07-03, 23:28:11](https://news.ycombinator.com/item?id=40871043) - [Introduction to Program Synthesis](https://people.csail.mit.edu/asolar/SynthesisCourse/Lecture1.htm)
@@ -26,6 +25,7 @@
 * [2024-07-02, 05:38:31](https://news.ycombinator.com/item?id=40853834) - [The History of Machine Learning in Trackmania](https://hallofdreams.org/posts/trackmania-1/)
 * [2024-07-02, 04:50:40](https://news.ycombinator.com/item?id=40853665) - [Should this be a map or 500 maps?](https://escapethealgorithm.substack.com/p/should-this-be-a-map-or-500-maps)
 * [2024-07-01, 20:07:05](https://news.ycombinator.com/item?id=40850062) - [Show HN: Sonatino – small audio dev board based on ESP32-S3](https://news.ycombinator.com/item?id=40850062)
+* [2024-07-01, 19:10:52](https://news.ycombinator.com/item?id=40849363) - [A Git story: Not so fun this time](https://blog.brachiosoft.com/en/posts/git/)
 * [2024-07-01, 15:27:25](https://news.ycombinator.com/item?id=40846726) - [Architectural cross-section of Kowloon Walled City](https://cohost.org/belarius/post/6677850-architectural-cross)
 * [2024-06-30, 23:47:49](https://news.ycombinator.com/item?id=40841403) - [Advice to Young Mathematicians [video]](https://www.youtube.com/watch?v=B8RkQq-1_ZU)
 * [2024-06-30, 21:48:11](https://news.ycombinator.com/item?id=40840658) - [Books to Dive in into Fullstack Development](https://news.ycombinator.com/item?id=40840658)
