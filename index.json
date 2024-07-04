@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-04, 04:29:12",
+      "https://news.ycombinator.com/item?id=40872332"
+    ],
+    [
+      "Building a data compression utility in Haskell using Huffman codes",
+      "https://lazamar.github.io/haskell-data-compression-with-huffman-codes/"
+    ]
+  ],
+  [
+    [
       "2024-07-04, 03:50:35",
       "https://news.ycombinator.com/item?id=40872182"
     ],
@@ -191,16 +201,6 @@
   ],
   [
     [
-      "2024-07-03, 10:18:00",
-      "https://news.ycombinator.com/item?id=40864541"
-    ],
-    [
-      "Show HN: Jb / json.bash – Command-line tool (and bash library) that creates JSON",
-      "https://github.com/h4l/json.bash"
-    ]
-  ],
-  [
-    [
       "2024-07-03, 09:26:14",
       "https://news.ycombinator.com/item?id=40864249"
     ],
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2024-06-30, 23:47:49",
-      "https://news.ycombinator.com/item?id=40841403"
+      "2024-07-01, 13:21:33",
+      "https://news.ycombinator.com/item?id=40845628"
     ],
     [
-      "Advice to Young Mathematicians [video]",
-      "https://www.youtube.com/watch?v=B8RkQq-1_ZU"
+      "Shipt's Algorithm Squeezed Gig Workers. They Fought Back",
+      "https://spectrum.ieee.org/shipt"
     ]
   ],
   [
