@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-04](index.md)
 
+* [2024-07-04, 06:23:43](https://news.ycombinator.com/item?id=40872772) - [A Bugatti car, a first lady and the fake stories aimed at Americans](https://www.bbc.com/news/articles/c72ver6172do)
+* [2024-07-04, 06:02:55](https://news.ycombinator.com/item?id=40872672) - [Katharine Way, John Wheeler, and the Dawn of Nuclear Fission](https://www.amphilsoc.org/blog/katharine-way-john-wheeler-and-dawn-nuclear-fission)
 * [2024-07-04, 05:23:29](https://news.ycombinator.com/item?id=40872504) - [A short update on getting answers on the modern internet](https://wadetregaskis.com/a-short-update-on-getting-answers-on-the-modern-internet/)
 * [2024-07-04, 05:05:45](https://news.ycombinator.com/item?id=40872446) - [How Children Starve](https://www.reuters.com/graphics/ISRAEL-PALESTINIANS/GAZA-HUNGER/myvmakwxrvr/)
 * [2024-07-04, 04:29:12](https://news.ycombinator.com/item?id=40872332) - [Building a data compression utility in Haskell using Huffman codes](https://lazamar.github.io/haskell-data-compression-with-huffman-codes/)
