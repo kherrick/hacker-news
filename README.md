@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-04, 12:40:46](https://news.ycombinator.com/item?id=40874450) - [The hunt for the most efficient heat pump in the world](https://www.wired.com/story/heat-pump-maximum-efficiency/)
+* [2024-07-04, 12:26:39](https://news.ycombinator.com/item?id=40874341) - [Twilio Confirms Data Breach After Hackers Leak 33M Authy User Phone Numbers](https://www.securityweek.com/twilio-confirms-data-breach-after-hackers-leak-33m-authy-user-phone-numbers/)
 * [2024-07-04, 12:00:57](https://news.ycombinator.com/item?id=40874189) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-07-04, 11:26:32](https://news.ycombinator.com/item?id=40874013) - [Jeffrey Snover and the Making of PowerShell](https://corecursive.com/building-powershell-with-jeffrey-snover/)
 * [2024-07-04, 07:17:34](https://news.ycombinator.com/item?id=40873001) - [Fly.io initiates Region-specific Machines pricing](https://community.fly.io/t/fresh-produce-region-specific-machines-pricing/20690)
@@ -14,6 +14,7 @@
 * [2024-07-03, 21:52:55](https://news.ycombinator.com/item?id=40870345) - [Beating NumPy matrix multiplication in 150 lines of C](https://salykova.github.io/matmul-cpu)
 * [2024-07-03, 21:44:47](https://news.ycombinator.com/item?id=40870280) - [The Joy of Reading Books You Don't Understand](https://reactormag.com/the-joy-of-reading-books-you-dont-entirely-understand/)
 * [2024-07-03, 20:52:37](https://news.ycombinator.com/item?id=40869877) - [Show HN: Xcapture-BPF – like Linux top, but with Xray vision](https://0x.tools/)
+* [2024-07-03, 17:58:14](https://news.ycombinator.com/item?id=40868425) - [Luakit: A fast, extensible, and customizable web browser](https://luakit.github.io/)
 * [2024-07-03, 16:48:34](https://news.ycombinator.com/item?id=40867746) - [A practical introduction to constraint programming using CP-SAT and Python](https://pganalyze.com/blog/a-practical-introduction-to-constraint-programming-using-cp-sat)
 * [2024-07-03, 16:45:01](https://news.ycombinator.com/item?id=40867709) - [The Cheapest NAS](https://sigwait.org/~alex/blog/2024/07/01/the-cheapest-nas.html)
 * [2024-07-03, 14:47:18](https://news.ycombinator.com/item?id=40866442) - [Making a Linux-managed network switch](https://blog.brixit.nl/making-a-linux-managed-network-switch/)
@@ -21,7 +22,6 @@
 * [2024-07-03, 09:26:14](https://news.ycombinator.com/item?id=40864249) - [Man-Computer Symbiosis (1960)](https://groups.csail.mit.edu/medg/people/psz/Licklider.html)
 * [2024-07-02, 22:32:42](https://news.ycombinator.com/item?id=40861079) - [Engine Sound Simulator](https://markeasting.github.io/engine/)
 * [2024-07-02, 16:27:25](https://news.ycombinator.com/item?id=40858165) - [The Sphere](https://mssv.net/2024/07/02/the-sphere/)
-* [2024-07-02, 14:18:37](https://news.ycombinator.com/item?id=40856962) - [Found out that the government of Canada is using my project](https://news.ycombinator.com/item?id=40856962)
 * [2024-07-02, 13:51:37](https://news.ycombinator.com/item?id=40856677) - [GPU profiling for WebGPU workloads on Windows with Chrome](https://frguthmann.github.io/posts/profiling_webgpu/)
 * [2024-07-02, 05:38:31](https://news.ycombinator.com/item?id=40853834) - [The History of Machine Learning in Trackmania](https://hallofdreams.org/posts/trackmania-1/)
 * [2024-07-02, 04:50:40](https://news.ycombinator.com/item?id=40853665) - [Should this be a map or 500 maps?](https://escapethealgorithm.substack.com/p/should-this-be-a-map-or-500-maps)
