@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-04](index.md)
 
+* [2024-07-04, 12:00:57](https://news.ycombinator.com/item?id=40874189) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
+* [2024-07-04, 11:26:32](https://news.ycombinator.com/item?id=40874013) - [Jeffrey Snover and the Making of PowerShell](https://corecursive.com/building-powershell-with-jeffrey-snover/)
 * [2024-07-04, 11:02:39](https://news.ycombinator.com/item?id=40873912) - [React chaos in mid and large web apps: Any different experiences?](https://old.reddit.com/r/ExperiencedDevs/comments/1dh9rly/the_chaos_of_react_in_medium_to_large_web_apps)
 * [2024-07-04, 10:40:46](https://news.ycombinator.com/item?id=40873853) - [UI Design Tips Using Tailwind CSS for Developers](https://railsdesigner.com/design-tips-for-developers/)
 * [2024-07-04, 09:36:26](https://news.ycombinator.com/item?id=40873598) - [Kanban vs. Scrum: What's the Difference?](https://www.leiga.com/post/kanban-vs-scrum)
