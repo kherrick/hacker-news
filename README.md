@@ -1,7 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-04, 00:44:41](https://news.ycombinator.com/item?id=40871420) - [New Warp Drive Model Requires No 'Exotic Matter,' Scientists Say We Can Build](https://thedebrief.org/new-warp-drive-model-requires-no-exotic-matter-scientists-say-we-can-build-it/)
+* [2024-07-03, 23:46:18](https://news.ycombinator.com/item?id=40871143) - [Federal judge partially blocks U.S. ban on noncompetes](https://www.npr.org/2024/07/03/nx-s1-5020525/noncompete-ban-block-ftc-competition-ryan-texas)
+* [2024-07-03, 23:28:11](https://news.ycombinator.com/item?id=40871043) - [Introduction to Program Synthesis](https://people.csail.mit.edu/asolar/SynthesisCourse/Lecture1.htm)
 * [2024-07-03, 23:17:20](https://news.ycombinator.com/item?id=40870972) - [Wordsworth Donisthorpe, Blackmail, and the First Motion Pictures](https://publicdomainreview.org/essay/wordsworth-donisthorpe-blackmail-and-the-first-motion-pictures/)
-* [2024-07-03, 22:43:05](https://news.ycombinator.com/item?id=40870728) - [Diving into deep learning: Understanding Deep Learning book review [pdf]](https://github.com/udlbook/udlbook/blob/main/public/NMI_Review.pdf)
+* [2024-07-03, 22:31:02](https://news.ycombinator.com/item?id=40870616) - [USB and the Myth of 500 Milliamps](https://hackaday.com/2024/07/03/usb-and-the-myth-of-500-milliamps/)
 * [2024-07-03, 21:55:13](https://news.ycombinator.com/item?id=40870357) - [The Origins of DS_store (2006)](https://www.arno.org/on-the-origins-of-ds-store)
 * [2024-07-03, 21:52:55](https://news.ycombinator.com/item?id=40870345) - [Beating NumPy matrix multiplication in 150 lines of C](https://salykova.github.io/matmul-cpu)
 * [2024-07-03, 21:44:47](https://news.ycombinator.com/item?id=40870280) - [The Joy of Reading Books You Don't Understand](https://reactormag.com/the-joy-of-reading-books-you-dont-entirely-understand/)
@@ -22,14 +25,11 @@
 * [2024-07-03, 10:18:00](https://news.ycombinator.com/item?id=40864541) - [Show HN: Jb / json.bash – Command-line tool (and bash library) that creates JSON](https://github.com/h4l/json.bash)
 * [2024-07-03, 09:26:14](https://news.ycombinator.com/item?id=40864249) - [Man-Computer Symbiosis (1960)](https://groups.csail.mit.edu/medg/people/psz/Licklider.html)
 * [2024-07-02, 22:32:42](https://news.ycombinator.com/item?id=40861079) - [Engine Sound Simulator](https://markeasting.github.io/engine/)
-* [2024-07-02, 21:44:53](https://news.ycombinator.com/item?id=40860713) - [A British clergyman who predicted black holes in 1783](https://www.bbc.com/future/article/20240626-the-priest-who-predicted-black-holes-in-1783)
 * [2024-07-02, 05:38:31](https://news.ycombinator.com/item?id=40853834) - [The History of Machine Learning in Trackmania](https://hallofdreams.org/posts/trackmania-1/)
-* [2024-07-02, 00:08:54](https://news.ycombinator.com/item?id=40852227) - [Exploring Quantum Mpemba Effects](https://physics.aps.org/articles/v17/105)
-* [2024-07-01, 19:10:52](https://news.ycombinator.com/item?id=40849363) - [A Git story: Not so fun this time](https://blog.brachiosoft.com/en/posts/git/)
+* [2024-07-01, 20:07:05](https://news.ycombinator.com/item?id=40850062) - [Show HN: Sonatino – small audio dev board based on ESP32-S3](https://news.ycombinator.com/item?id=40850062)
 * [2024-07-01, 15:27:25](https://news.ycombinator.com/item?id=40846726) - [Architectural cross-section of Kowloon Walled City](https://cohost.org/belarius/post/6677850-architectural-cross)
 * [2024-07-01, 13:14:31](https://news.ycombinator.com/item?id=40845567) - [Why Alaska Rivers Are Turning an Eerie Orange](https://www.atlasobscura.com/articles/why-alaska-rivers-are-turning-an-eerie-orange)
 * [2024-06-30, 23:47:49](https://news.ycombinator.com/item?id=40841403) - [Advice to Young Mathematicians [video]](https://www.youtube.com/watch?v=B8RkQq-1_ZU)
-* [2024-06-30, 22:34:07](https://news.ycombinator.com/item?id=40840938) - [Goodwatch – A Ham Radio Wristwatch (2020)](https://kk4vcz.com/goodwatch/)
 
 ## [Archives](archives/index.md)
 

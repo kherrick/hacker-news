@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-07-03](index.md)
 
+* [2024-07-03, 23:46:18](https://news.ycombinator.com/item?id=40871143) - [Federal judge partially blocks U.S. ban on noncompetes](https://www.npr.org/2024/07/03/nx-s1-5020525/noncompete-ban-block-ftc-competition-ryan-texas)
+* [2024-07-03, 23:28:11](https://news.ycombinator.com/item?id=40871043) - [Introduction to Program Synthesis](https://people.csail.mit.edu/asolar/SynthesisCourse/Lecture1.htm)
 * [2024-07-03, 23:17:20](https://news.ycombinator.com/item?id=40870972) - [Wordsworth Donisthorpe, Blackmail, and the First Motion Pictures](https://publicdomainreview.org/essay/wordsworth-donisthorpe-blackmail-and-the-first-motion-pictures/)
 * [2024-07-03, 22:43:50](https://news.ycombinator.com/item?id=40870735) - [What Spain used to censor Catalonia's 2017 independence referendum](https://censura1oct.github.io/en/2017/09/16/home_en.html)
 * [2024-07-03, 22:43:05](https://news.ycombinator.com/item?id=40870728) - [Diving into deep learning: Understanding Deep Learning book review [pdf]](https://github.com/udlbook/udlbook/blob/main/public/NMI_Review.pdf)
 * [2024-07-03, 22:33:45](https://news.ycombinator.com/item?id=40870642) - [Spain introduces \"Porn Passport\" to keep kids from watching porn](https://www.politico.eu/article/spain-builds-porn-passport-to-stop-kids-watching-smut/)
+* [2024-07-03, 22:31:02](https://news.ycombinator.com/item?id=40870616) - [USB and the Myth of 500 Milliamps](https://hackaday.com/2024/07/03/usb-and-the-myth-of-500-milliamps/)
 * [2024-07-03, 22:17:32](https://news.ycombinator.com/item?id=40870515) - [Judge delays ban on noncompete agreements for employees](https://www.cnn.com/2024/07/03/business/noncompete-clause-federal-judge-ruling/index.html)
 * [2024-07-03, 22:01:26](https://news.ycombinator.com/item?id=40870403) - [NASA selects SpaceX to launch a gamma-ray telescope into an unusual orbit](https://arstechnica.com/space/2024/07/spacex-selected-to-launch-nasa-mission-probing-the-creation-of-matter/)
 * [2024-07-03, 21:56:22](https://news.ycombinator.com/item?id=40870366) - [Ladybird web browser funded by GitHub co-founder, promises 'no code' from rivals](https://devclass.com/2024/07/03/ladybird-web-browser-project-now-funded-by-github-co-founder-promises-no-code-from-other-browsers/)

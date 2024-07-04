@@ -1,0 +1,7 @@
+# [Hacker News](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-07-04](index.md)
+
+* [2024-07-04, 00:44:41](https://news.ycombinator.com/item?id=40871420) - [New Warp Drive Model Requires No 'Exotic Matter,' Scientists Say We Can Build](https://thedebrief.org/new-warp-drive-model-requires-no-exotic-matter-scientists-say-we-can-build-it/)
