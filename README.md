@@ -2,7 +2,6 @@
 
 * [2024-07-04, 04:29:12](https://news.ycombinator.com/item?id=40872332) - [Building a data compression utility in Haskell using Huffman codes](https://lazamar.github.io/haskell-data-compression-with-huffman-codes/)
 * [2024-07-04, 03:50:35](https://news.ycombinator.com/item?id=40872182) - [The saddest \"Just Ship It\" story ever (2020)](https://www.kitze.io/posts/saddest-just-ship-it-story-ever)
-* [2024-07-04, 03:30:24](https://news.ycombinator.com/item?id=40872102) - [Ask HN: Vision Pro owners, are you still using it?](https://news.ycombinator.com/item?id=40872102)
 * [2024-07-04, 03:05:36](https://news.ycombinator.com/item?id=40872020) - [Sans-IO: The secret to effective Rust for network services](https://www.firezone.dev/blog/sans-io)
 * [2024-07-04, 02:09:20](https://news.ycombinator.com/item?id=40871783) - [Diffusion Forcing: Next-Token Prediction Meets Full-Sequence Diffusion](https://boyuan.space/diffusion-forcing/)
 * [2024-07-03, 23:28:11](https://news.ycombinator.com/item?id=40871043) - [Introduction to Program Synthesis](https://people.csail.mit.edu/asolar/SynthesisCourse/Lecture1.htm)
@@ -28,6 +27,7 @@
 * [2024-07-01, 20:07:05](https://news.ycombinator.com/item?id=40850062) - [Show HN: Sonatino – small audio dev board based on ESP32-S3](https://news.ycombinator.com/item?id=40850062)
 * [2024-07-01, 15:27:25](https://news.ycombinator.com/item?id=40846726) - [Architectural cross-section of Kowloon Walled City](https://cohost.org/belarius/post/6677850-architectural-cross)
 * [2024-07-01, 13:21:33](https://news.ycombinator.com/item?id=40845628) - [Shipt's Algorithm Squeezed Gig Workers. They Fought Back](https://spectrum.ieee.org/shipt)
+* [2024-06-30, 23:47:49](https://news.ycombinator.com/item?id=40841403) - [Advice to Young Mathematicians [video]](https://www.youtube.com/watch?v=B8RkQq-1_ZU)
 * [2024-06-30, 21:48:11](https://news.ycombinator.com/item?id=40840658) - [Books to Dive in into Fullstack Development](https://news.ycombinator.com/item?id=40840658)
 * [2024-06-30, 08:09:47](https://news.ycombinator.com/item?id=40835787) - [Well-known paradox of R-squared is still buggin me](https://statmodeling.stat.columbia.edu/2024/06/17/this-well-known-paradox-of-r-squared-is-still-buggin-me-can-you-help-me-out/)
 
