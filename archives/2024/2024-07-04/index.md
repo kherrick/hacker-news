@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-04](index.md)
 
+* [2024-07-04, 14:20:07](https://news.ycombinator.com/item?id=40875174) - [Kurzweil: We are going to expand intelligence a millionfold by 2045](https://www.theguardian.com/technology/article/2024/jun/29/ray-kurzweil-google-ai-the-singularity-is-nearer)
 * [2024-07-04, 13:41:53](https://news.ycombinator.com/item?id=40874888) - [Show HN: Rent Elderly People – Skip Lines and Get Senior Perks](https://rentelderlypeople.com/)
 * [2024-07-04, 13:25:49](https://news.ycombinator.com/item?id=40874775) - [Journalism has become ground zero for the vocation crisis](https://theconversation.com/journalism-has-become-ground-zero-for-the-vocation-crisis-232963)
 * [2024-07-04, 12:40:46](https://news.ycombinator.com/item?id=40874450) - [The hunt for the most efficient heat pump in the world](https://www.wired.com/story/heat-pump-maximum-efficiency/)
