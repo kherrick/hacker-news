@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-07-04](index.md)
 
+* [2024-07-04, 13:25:49](https://news.ycombinator.com/item?id=40874775) - [Journalism has become ground zero for the vocation crisis](https://theconversation.com/journalism-has-become-ground-zero-for-the-vocation-crisis-232963)
 * [2024-07-04, 12:40:46](https://news.ycombinator.com/item?id=40874450) - [The hunt for the most efficient heat pump in the world](https://www.wired.com/story/heat-pump-maximum-efficiency/)
 * [2024-07-04, 12:26:39](https://news.ycombinator.com/item?id=40874341) - [Twilio Confirms Data Breach After Hackers Leak 33M Authy User Phone Numbers](https://www.securityweek.com/twilio-confirms-data-breach-after-hackers-leak-33m-authy-user-phone-numbers/)
+* [2024-07-04, 12:26:36](https://news.ycombinator.com/item?id=40874340) - [The UK's Brexit dream is dead](https://www.politico.eu/article/brexit-uk-british-voters-elections-2024-labour-party-keir-starmer-rishi-sunak-rachel-reeves-migration/)
 * [2024-07-04, 12:14:07](https://news.ycombinator.com/item?id=40874265) - [The Ultimate Database Platform](https://averagedatabase.com/)
 * [2024-07-04, 12:00:57](https://news.ycombinator.com/item?id=40874189) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-07-04, 11:26:32](https://news.ycombinator.com/item?id=40874013) - [Jeffrey Snover and the Making of PowerShell](https://corecursive.com/building-powershell-with-jeffrey-snover/)
