@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-04, 16:03:32](https://news.ycombinator.com/item?id=40875924) - [Mechanical Computer Relies on Kirigami Cubes, Not Electronics](https://news.ncsu.edu/2024/06/kirigami-mechanical-computer/)
-* [2024-07-04, 15:48:27](https://news.ycombinator.com/item?id=40875811) - [Wikipedians are hung up on the meaning of Madonna](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2024-07-04/Discussion_report)
 * [2024-07-04, 15:15:39](https://news.ycombinator.com/item?id=40875559) - [The sad state of property-based testing libraries](https://stevana.github.io/the_sad_state_of_property-based_testing_libraries.html)
 * [2024-07-04, 12:26:39](https://news.ycombinator.com/item?id=40874341) - [Twilio Confirms Data Breach After Hackers Leak 33M Authy User Phone Numbers](https://www.securityweek.com/twilio-confirms-data-breach-after-hackers-leak-33m-authy-user-phone-numbers/)
 * [2024-07-04, 12:00:57](https://news.ycombinator.com/item?id=40874189) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
@@ -26,6 +25,7 @@
 * [2024-07-02, 13:51:37](https://news.ycombinator.com/item?id=40856677) - [GPU profiling for WebGPU workloads on Windows with Chrome](https://frguthmann.github.io/posts/profiling_webgpu/)
 * [2024-07-02, 13:01:21](https://news.ycombinator.com/item?id=40856225) - [Island restoration to rebuild seabird populations and amplify coral reefs](https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14313)
 * [2024-07-02, 04:50:40](https://news.ycombinator.com/item?id=40853665) - [Should this be a map or 500 maps?](https://escapethealgorithm.substack.com/p/should-this-be-a-map-or-500-maps)
+* [2024-07-01, 15:34:36](https://news.ycombinator.com/item?id=40846815) - [Racket Plot Cookbook](https://github.com/Racket-Cookbooks/Plot-cookbook)
 * [2024-07-01, 15:27:25](https://news.ycombinator.com/item?id=40846726) - [Architectural cross-section of Kowloon Walled City](https://cohost.org/belarius/post/6677850-architectural-cross)
 * [2024-07-01, 13:21:33](https://news.ycombinator.com/item?id=40845628) - [Shipt's Algorithm Squeezed Gig Workers. They Fought Back](https://spectrum.ieee.org/shipt)
 * [2024-07-01, 06:40:56](https://news.ycombinator.com/item?id=40843185) - [Breaking transatlantic sailing record by more than a day (2016)](https://www.yachtingworld.com/extraordinary-boats/faster-than-the-weather-how-comanche-took-more-than-a-day-off-the-transatlantic-record-99160)
