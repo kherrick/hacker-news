@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-07-04](index.md)
 
+* [2024-07-04, 20:02:58](https://news.ycombinator.com/item?id=40877648) - [Japan introduces enormous humanoid robot to maintain train lines](https://www.theguardian.com/world/article/2024/jul/04/japan-train-robot-maintain-railway-lines)
 * [2024-07-04, 19:52:21](https://news.ycombinator.com/item?id=40877561) - [HE.net problem](https://mailman.nanog.org/pipermail/nanog/2024-July/225901.html)
 * [2024-07-04, 19:37:25](https://news.ycombinator.com/item?id=40877460) - [Th64: Tiny Hash Function in C](https://github.com/tidwall/th64)
+* [2024-07-04, 19:30:41](https://news.ycombinator.com/item?id=40877412) - [Tired of Bookmark Chaos? Try This New Tool](https://bookmarkshelf.com/)
 * [2024-07-04, 19:21:37](https://news.ycombinator.com/item?id=40877346) - [Thousands ofAmericans got caught in fintech and lost access to bank accounts](https://www.cnbc.com/2024/07/02/synapse-fintech-fdic-false-promise.html)
 * [2024-07-04, 19:20:25](https://news.ycombinator.com/item?id=40877337) - [Batteries: How cheap can they get?](https://aukehoekstra.substack.com/p/batteries-how-cheap-can-they-get)
 * [2024-07-04, 18:50:09](https://news.ycombinator.com/item?id=40877136) - [Insights from over 10,000 comments on \"Ask HN: Who Is Hiring\" using GPT-4o](https://tamerc.com/posts/ask-hn-who-is-hiring/)
