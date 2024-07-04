@@ -26,6 +26,7 @@
 * [2024-07-02, 21:01:13](https://news.ycombinator.com/item?id=40860363) - [Apple Poised to Get OpenAI Board Observer Role as Part of AI Pact](https://www.bloomberg.com/news/articles/2024-07-02/apple-to-get-openai-board-observer-role-as-part-of-ai-agreement)
 * [2024-07-02, 21:00:58](https://news.ycombinator.com/item?id=40860360) - [Google emissions jump nearly 50% over five years as AI use surges](https://www.ft.com/content/383719aa-df38-4ae3-ab0e-6279a897915e)
 * [2024-07-02, 20:53:38](https://news.ycombinator.com/item?id=40860310) - [America's startup boom around remote work and technology is still going strong](https://www.npr.org/sections/planet-money/2024/07/02/g-s1-7139/economy-startup-boom-america-productivity)
+* [2024-07-02, 20:49:14](https://news.ycombinator.com/item?id=40860278) - [Rapper BG ordered to have all future songs approved by US Government](https://www.theguardian.com/music/article/2024/jul/02/rapper-bg-government-song-approval)
 * [2024-07-02, 20:42:09](https://news.ycombinator.com/item?id=40860227) - [The Queen's Doll's House](https://clairelevans.substack.com/p/the-queens-dolls-house)
 * [2024-07-02, 20:39:23](https://news.ycombinator.com/item?id=40860207) - [Blog.ethereum.org Mailing List Incident](https://blog.ethereum.org/2024/07/02/blog-incident)
 * [2024-07-02, 20:34:38](https://news.ycombinator.com/item?id=40860176) - [Figma pulls AI tool after criticism that it ripped off Apple's design](https://www.theverge.com/2024/7/2/24190823/figma-ai-tool-apple-weather-app-copy)
