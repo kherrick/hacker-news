@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-04, 13:25:49](https://news.ycombinator.com/item?id=40874775) - [Journalism has become ground zero for the vocation crisis](https://theconversation.com/journalism-has-become-ground-zero-for-the-vocation-crisis-232963)
-* [2024-07-04, 12:26:36](https://news.ycombinator.com/item?id=40874340) - [The UK's Brexit dream is dead](https://www.politico.eu/article/brexit-uk-british-voters-elections-2024-labour-party-keir-starmer-rishi-sunak-rachel-reeves-migration/)
+* [2024-07-04, 13:41:53](https://news.ycombinator.com/item?id=40874888) - [Show HN: Rent Elderly People – Skip Lines and Get Senior Perks](https://rentelderlypeople.com/)
 * [2024-07-04, 12:00:57](https://news.ycombinator.com/item?id=40874189) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-07-04, 11:26:32](https://news.ycombinator.com/item?id=40874013) - [Jeffrey Snover and the Making of PowerShell](https://corecursive.com/building-powershell-with-jeffrey-snover/)
+* [2024-07-04, 11:02:39](https://news.ycombinator.com/item?id=40873912) - [React chaos in mid and large web apps: Any different experiences?](https://old.reddit.com/r/ExperiencedDevs/comments/1dh9rly/the_chaos_of_react_in_medium_to_large_web_apps)
 * [2024-07-04, 07:17:34](https://news.ycombinator.com/item?id=40873001) - [Fly.io initiates Region-specific Machines pricing](https://community.fly.io/t/fresh-produce-region-specific-machines-pricing/20690)
 * [2024-07-04, 07:11:29](https://news.ycombinator.com/item?id=40872978) - [Show HN: I made a split keyboard for large palms](https://www.jogmekeebs.com)
 * [2024-07-04, 05:04:09](https://news.ycombinator.com/item?id=40872438) - [Finding near-duplicates with Jaccard similarity and MinHash](https://blog.nelhage.com/post/fuzzy-dedup/)

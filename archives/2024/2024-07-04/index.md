@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-04](index.md)
 
+* [2024-07-04, 13:41:53](https://news.ycombinator.com/item?id=40874888) - [Show HN: Rent Elderly People – Skip Lines and Get Senior Perks](https://rentelderlypeople.com/)
 * [2024-07-04, 13:25:49](https://news.ycombinator.com/item?id=40874775) - [Journalism has become ground zero for the vocation crisis](https://theconversation.com/journalism-has-become-ground-zero-for-the-vocation-crisis-232963)
 * [2024-07-04, 12:40:46](https://news.ycombinator.com/item?id=40874450) - [The hunt for the most efficient heat pump in the world](https://www.wired.com/story/heat-pump-maximum-efficiency/)
 * [2024-07-04, 12:26:39](https://news.ycombinator.com/item?id=40874341) - [Twilio Confirms Data Breach After Hackers Leak 33M Authy User Phone Numbers](https://www.securityweek.com/twilio-confirms-data-breach-after-hackers-leak-33m-authy-user-phone-numbers/)
