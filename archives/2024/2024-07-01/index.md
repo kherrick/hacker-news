@@ -9,6 +9,7 @@
 * [2024-07-01, 23:39:07](https://news.ycombinator.com/item?id=40852004) - [Tracing the hidden hand of magnetism in the galaxy](https://www.quantamagazine.org/tracing-the-hidden-hand-of-magnetism-in-the-galaxy-20240701/)
 * [2024-07-01, 23:26:05](https://news.ycombinator.com/item?id=40851919) - [Getting the World Record in Hatetris (2022)](https://hallofdreams.org/posts/hatetris/)
 * [2024-07-01, 23:23:13](https://news.ycombinator.com/item?id=40851895) - [Code Reviews Do Find Bugs](https://two-wrongs.com/code-reviews-do-find-bugs.html)
+* [2024-07-01, 23:22:43](https://news.ycombinator.com/item?id=40851890) - [Stonehenge Archer](https://en.wikipedia.org/wiki/Stonehenge_Archer)
 * [2024-07-01, 22:45:39](https://news.ycombinator.com/item?id=40851638) - [Improving Your Zig Language Server Experience](https://kristoff.it/blog/improving-your-zls-experience/)
 * [2024-07-01, 22:44:17](https://news.ycombinator.com/item?id=40851630) - [syntaqx/cookie: Cookies, but with structs, for happiness](https://github.com/syntaqx/cookie)
 * [2024-07-01, 22:30:31](https://news.ycombinator.com/item?id=40851530) - [We are at our most creative just before we fall asleep, scientists say](https://www.weforum.org/agenda/2022/01/creativity-hotspot-just-before-sleep/)
