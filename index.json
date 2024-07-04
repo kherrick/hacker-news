@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-04, 19:52:21",
+      "https://news.ycombinator.com/item?id=40877561"
+    ],
+    [
+      "HE.net problem",
+      "https://mailman.nanog.org/pipermail/nanog/2024-July/225901.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-04, 19:37:25",
+      "https://news.ycombinator.com/item?id=40877460"
+    ],
+    [
+      "Th64: Tiny Hash Function in C",
+      "https://github.com/tidwall/th64"
+    ]
+  ],
+  [
+    [
       "2024-07-04, 19:20:25",
       "https://news.ycombinator.com/item?id=40877337"
     ],
@@ -17,6 +37,16 @@
     [
       "Insights from over 10,000 comments on \"Ask HN: Who Is Hiring\" using GPT-4o",
       "https://tamerc.com/posts/ask-hn-who-is-hiring/"
+    ]
+  ],
+  [
+    [
+      "2024-07-04, 18:42:05",
+      "https://news.ycombinator.com/item?id=40877092"
+    ],
+    [
+      "I made a tool to index websites on Google in less than 48 hours",
+      "https://indexblaze.com/"
     ]
   ],
   [
@@ -107,26 +137,6 @@
     [
       "Jeffrey Snover and the Making of PowerShell",
       "https://corecursive.com/building-powershell-with-jeffrey-snover/"
-    ]
-  ],
-  [
-    [
-      "2024-07-04, 07:17:34",
-      "https://news.ycombinator.com/item?id=40873001"
-    ],
-    [
-      "Region-specific Machines pricing",
-      "https://community.fly.io/t/fresh-produce-region-specific-machines-pricing/20690"
-    ]
-  ],
-  [
-    [
-      "2024-07-04, 07:11:29",
-      "https://news.ycombinator.com/item?id=40872978"
-    ],
-    [
-      "Show HN: I made a split keyboard for large palms",
-      "https://www.jogmekeebs.com"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Racket Plot Cookbook",
       "https://github.com/Racket-Cookbooks/Plot-cookbook"
-    ]
-  ],
-  [
-    [
-      "2024-07-01, 13:49:27",
-      "https://news.ycombinator.com/item?id=40845846"
-    ],
-    [
-      "Copy-my-writing: write content based on you personal writing styles",
-      "https://github.com/innovatorved/copy-my-writing"
     ]
   ],
   [
