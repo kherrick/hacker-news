@@ -63,6 +63,7 @@
 * [2024-07-03, 13:01:29](https://news.ycombinator.com/item?id=40865559) - [Hypr-dynamic-cursors: a plugin to make your hyprland cursor rotate](https://github.com/VirtCode/hypr-dynamic-cursors)
 * [2024-07-03, 12:22:11](https://news.ycombinator.com/item?id=40865252) - [Jaw-Dropping SNES Mod Fixes One of the Console's Biggest Problems](https://www.timeextension.com/news/2024/07/jaw-dropping-snes-mod-fixes-one-of-the-consoles-biggest-problems)
 * [2024-07-03, 12:09:38](https://news.ycombinator.com/item?id=40865170) - [Your Company's Problem is Hiding in Plain Sight - High Work-In-Progress (WIP)](https://mdalmijn.com/p/your-companys-problem-is-hiding-in)
+* [2024-07-03, 11:41:39](https://news.ycombinator.com/item?id=40865010) - [Show HN: I built a full-text search for your browsing history](https://chromewebstore.google.com/detail/browspilot/apghkhaaideikcakpngbbagpjihidpng)
 * [2024-07-03, 11:25:29](https://news.ycombinator.com/item?id=40864914) - [Proton launches its own version of Google Docs](https://www.engadget.com/proton-launches-its-own-version-of-google-docs-100044471.html)
 * [2024-07-03, 10:55:13](https://news.ycombinator.com/item?id=40864728) - [Dolphin Emulator changes to a rolling release model](https://dolphin-emu.org/blog/2024/07/02/dolphin-releases-announcement/)
 * [2024-07-03, 10:37:52](https://news.ycombinator.com/item?id=40864657) - ['Almost whole island homeless' in Hurricane Beryl's wake](https://www.bbc.com/news/articles/c724x1rjlpno)
