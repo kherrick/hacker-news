@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-04, 14:20:07](https://news.ycombinator.com/item?id=40875174) - [Kurzweil: We are going to expand intelligence a millionfold by 2045](https://www.theguardian.com/technology/article/2024/jun/29/ray-kurzweil-google-ai-the-singularity-is-nearer)
 * [2024-07-04, 12:00:57](https://news.ycombinator.com/item?id=40874189) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-07-04, 11:26:32](https://news.ycombinator.com/item?id=40874013) - [Jeffrey Snover and the Making of PowerShell](https://corecursive.com/building-powershell-with-jeffrey-snover/)
 * [2024-07-04, 07:11:29](https://news.ycombinator.com/item?id=40872978) - [Show HN: I made a split keyboard for large palms](https://www.jogmekeebs.com)
@@ -30,6 +29,7 @@
 * [2024-07-01, 13:21:33](https://news.ycombinator.com/item?id=40845628) - [Shipt's Algorithm Squeezed Gig Workers. They Fought Back](https://spectrum.ieee.org/shipt)
 * [2024-07-01, 06:40:56](https://news.ycombinator.com/item?id=40843185) - [Breaking transatlantic sailing record by more than a day (2016)](https://www.yachtingworld.com/extraordinary-boats/faster-than-the-weather-how-comanche-took-more-than-a-day-off-the-transatlantic-record-99160)
 * [2024-07-01, 01:03:20](https://news.ycombinator.com/item?id=40841698) - [Ask HN: Where to Sell Vintage Computers](https://news.ycombinator.com/item?id=40841698)
+* [2024-06-30, 23:47:49](https://news.ycombinator.com/item?id=40841403) - [Advice to Young Mathematicians [video]](https://www.youtube.com/watch?v=B8RkQq-1_ZU)
 
 ## [Archives](archives/index.md)
 
