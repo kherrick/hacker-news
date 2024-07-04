@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-04](index.md)
 
+* [2024-07-04, 12:40:46](https://news.ycombinator.com/item?id=40874450) - [The hunt for the most efficient heat pump in the world](https://www.wired.com/story/heat-pump-maximum-efficiency/)
 * [2024-07-04, 12:26:39](https://news.ycombinator.com/item?id=40874341) - [Twilio Confirms Data Breach After Hackers Leak 33M Authy User Phone Numbers](https://www.securityweek.com/twilio-confirms-data-breach-after-hackers-leak-33m-authy-user-phone-numbers/)
 * [2024-07-04, 12:14:07](https://news.ycombinator.com/item?id=40874265) - [The Ultimate Database Platform](https://averagedatabase.com/)
 * [2024-07-04, 12:00:57](https://news.ycombinator.com/item?id=40874189) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
