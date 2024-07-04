@@ -102,6 +102,7 @@
 * [2024-07-02, 05:41:25](https://news.ycombinator.com/item?id=40853845) - [Mako – fast, production-grade web bundler based on Rust](https://makojs.dev/blog/mako-open-sourced)
 * [2024-07-02, 05:38:31](https://news.ycombinator.com/item?id=40853834) - [The History of Machine Learning in Trackmania](https://hallofdreams.org/posts/trackmania-1/)
 * [2024-07-02, 05:20:23](https://news.ycombinator.com/item?id=40853770) - [Booting Linux Off of Google Drive](https://ersei.net/en/blog/fuse-root)
+* [2024-07-02, 04:50:40](https://news.ycombinator.com/item?id=40853665) - [Should this be a map or 500 maps?](https://escapethealgorithm.substack.com/p/should-this-be-a-map-or-500-maps)
 * [2024-07-02, 04:40:08](https://news.ycombinator.com/item?id=40853620) - [Did Turing prove the undecidability of the halting problem?](https://arxiv.org/abs/2407.00680)
 * [2024-07-02, 03:24:05](https://news.ycombinator.com/item?id=40853280) - [Atoll islands show no widespread physical destabilization from sea-level rise](https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/wcc.557?emc=edit_nn_20240627&nl=the-morning&te=1)
 * [2024-07-02, 03:16:08](https://news.ycombinator.com/item?id=40853243) - [Greece introduces 'growth-oriented' six-day working week](https://www.theguardian.com/world/article/2024/jul/01/greece-introduces-growth-oriented-six-day-working-week)
