@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-04, 20:02:58",
+      "https://news.ycombinator.com/item?id=40877648"
+    ],
+    [
+      "Japan introduces enormous humanoid robot to maintain train lines",
+      "https://www.theguardian.com/world/article/2024/jul/04/japan-train-robot-maintain-railway-lines"
+    ]
+  ],
+  [
+    [
       "2024-07-04, 19:52:21",
       "https://news.ycombinator.com/item?id=40877561"
     ],
@@ -21,6 +31,16 @@
   ],
   [
     [
+      "2024-07-04, 19:30:41",
+      "https://news.ycombinator.com/item?id=40877412"
+    ],
+    [
+      "Tired of Bookmark Chaos? Try This New Tool",
+      "https://bookmarkshelf.com/"
+    ]
+  ],
+  [
+    [
       "2024-07-04, 19:20:25",
       "https://news.ycombinator.com/item?id=40877337"
     ],
@@ -37,16 +57,6 @@
     [
       "Insights from over 10,000 comments on \"Ask HN: Who Is Hiring\" using GPT-4o",
       "https://tamerc.com/posts/ask-hn-who-is-hiring/"
-    ]
-  ],
-  [
-    [
-      "2024-07-04, 18:42:05",
-      "https://news.ycombinator.com/item?id=40877092"
-    ],
-    [
-      "I made a tool to index websites on Google in less than 48 hours",
-      "https://indexblaze.com/"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "Building a data compression utility in Haskell using Huffman codes",
       "https://lazamar.github.io/haskell-data-compression-with-huffman-codes/"
-    ]
-  ],
-  [
-    [
-      "2024-07-04, 03:05:36",
-      "https://news.ycombinator.com/item?id=40872020"
-    ],
-    [
-      "Sans-IO: The secret to effective Rust for network services",
-      "https://www.firezone.dev/blog/sans-io"
     ]
   ],
   [
