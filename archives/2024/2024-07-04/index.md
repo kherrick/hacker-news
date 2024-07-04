@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-04](index.md)
 
+* [2024-07-04, 21:05:42](https://news.ycombinator.com/item?id=40878040) - [Ask HN: What book bit, stung and shook you deeply?](https://news.ycombinator.com/item?id=40878040)
 * [2024-07-04, 21:00:29](https://news.ycombinator.com/item?id=40878007) - [Rollstack (YC W23) Is Hiring TypeScript Engineers in Europe. Growing 20% MoM](https://www.ycombinator.com/companies/rollstack-2/jobs/)
 * [2024-07-04, 20:57:52](https://news.ycombinator.com/item?id=40877992) - [NexDock turns your smartphone into a Laptop](https://nexdock.com/)
 * [2024-07-04, 20:35:15](https://news.ycombinator.com/item?id=40877830) - [Authy got hacked, and 33M user phone numbers were stolen](https://appleinsider.com/articles/24/07/04/authy-got-hacked-and-33-million-user-phone-numbers-were-stolen)
