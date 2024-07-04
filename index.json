@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-07-04, 17:23:32",
-      "https://news.ycombinator.com/item?id=40876553"
-    ],
-    [
-      "Geopolymer Cement in Pavement Applications for Sustainability and Performance",
-      "https://www.mdpi.com/2071-1050/16/13/5417"
-    ]
-  ],
-  [
-    [
       "2024-07-04, 16:53:59",
       "https://news.ycombinator.com/item?id=40876342"
     ],
@@ -31,12 +21,42 @@
   ],
   [
     [
+      "2024-07-04, 16:15:28",
+      "https://news.ycombinator.com/item?id=40876017"
+    ],
+    [
+      "Prusa is now manufacturing 3D printers in USA",
+      "https://blog.prusa3d.com/we-are-now-manufacturing-3d-printers-and-filaments-in-the-usa_99148/"
+    ]
+  ],
+  [
+    [
       "2024-07-04, 16:03:32",
       "https://news.ycombinator.com/item?id=40875924"
     ],
     [
-      "Mechanical Computer Relies on Kirigami Cubes, Not Electronics",
+      "Mechanical computer relies on kirigami cubes, not electronics",
       "https://news.ncsu.edu/2024/06/kirigami-mechanical-computer/"
+    ]
+  ],
+  [
+    [
+      "2024-07-04, 16:02:20",
+      "https://news.ycombinator.com/item?id=40875913"
+    ],
+    [
+      "Singulatron: Have your own internal AI network",
+      "https://github.com/singulatron/singulatron"
+    ]
+  ],
+  [
+    [
+      "2024-07-04, 15:34:08",
+      "https://news.ycombinator.com/item?id=40875702"
+    ],
+    [
+      "Ready Player Mode",
+      "https://lmno.lol/alvaro/ready-player-mode"
     ]
   ],
   [
@@ -47,6 +67,16 @@
     [
       "The sad state of property-based testing libraries",
       "https://stevana.github.io/the_sad_state_of_property-based_testing_libraries.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-04, 14:44:45",
+      "https://news.ycombinator.com/item?id=40875355"
+    ],
+    [
+      "The dance moves that make men attractive to women",
+      "https://www.economist.com/science-and-technology/2010/09/08/lord-of-the-dance"
     ]
   ],
   [
@@ -71,11 +101,21 @@
   ],
   [
     [
+      "2024-07-04, 09:36:26",
+      "https://news.ycombinator.com/item?id=40873598"
+    ],
+    [
+      "Kanban vs. Scrum: What's the difference?",
+      "https://www.leiga.com/post/kanban-vs-scrum"
+    ]
+  ],
+  [
+    [
       "2024-07-04, 07:17:34",
       "https://news.ycombinator.com/item?id=40873001"
     ],
     [
-      "Fly.io initiates Region-specific Machines pricing",
+      "Region-specific Machines pricing",
       "https://community.fly.io/t/fresh-produce-region-specific-machines-pricing/20690"
     ]
   ],
@@ -87,6 +127,16 @@
     [
       "Show HN: I made a split keyboard for large palms",
       "https://www.jogmekeebs.com"
+    ]
+  ],
+  [
+    [
+      "2024-07-04, 06:28:40",
+      "https://news.ycombinator.com/item?id=40872799"
+    ],
+    [
+      "\"Superintelligence\" 10 years later",
+      "https://www.humanityredefined.com/p/superintelligence10-years-later"
     ]
   ],
   [
@@ -155,7 +205,7 @@
       "https://news.ycombinator.com/item?id=40870301"
     ],
     [
-      "Oldest cave art found showing humans and pig",
+      "Oldest cave art found",
       "https://www.bbc.com/news/articles/c0vewjq4dxwo"
     ]
   ],
@@ -165,7 +215,7 @@
       "https://news.ycombinator.com/item?id=40870280"
     ],
     [
-      "The Joy of Reading Books You Don't Understand",
+      "The joy of reading books you don't understand",
       "https://reactormag.com/the-joy-of-reading-books-you-dont-entirely-understand/"
     ]
   ],
@@ -185,58 +235,18 @@
       "https://news.ycombinator.com/item?id=40868504"
     ],
     [
-      "Analyzing My Electricity Consumption",
+      "Analyzing my electricity consumption",
       "https://zdimension.fr/analyzing-my-electricity-consumption/"
     ]
   ],
   [
     [
-      "2024-07-03, 16:48:34",
-      "https://news.ycombinator.com/item?id=40867746"
+      "2024-07-03, 05:22:15",
+      "https://news.ycombinator.com/item?id=40862941"
     ],
     [
-      "A practical introduction to constraint programming using CP-SAT and Python",
-      "https://pganalyze.com/blog/a-practical-introduction-to-constraint-programming-using-cp-sat"
-    ]
-  ],
-  [
-    [
-      "2024-07-03, 16:45:01",
-      "https://news.ycombinator.com/item?id=40867709"
-    ],
-    [
-      "The Cheapest NAS",
-      "https://sigwait.org/~alex/blog/2024/07/01/the-cheapest-nas.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-02, 22:32:42",
-      "https://news.ycombinator.com/item?id=40861079"
-    ],
-    [
-      "Engine Sound Simulator",
-      "https://markeasting.github.io/engine/"
-    ]
-  ],
-  [
-    [
-      "2024-07-02, 16:27:25",
-      "https://news.ycombinator.com/item?id=40858165"
-    ],
-    [
-      "The Sphere",
-      "https://mssv.net/2024/07/02/the-sphere/"
-    ]
-  ],
-  [
-    [
-      "2024-07-02, 13:51:37",
-      "https://news.ycombinator.com/item?id=40856677"
-    ],
-    [
-      "GPU profiling for WebGPU workloads on Windows with Chrome",
-      "https://frguthmann.github.io/posts/profiling_webgpu/"
+      "A Type for Overload Set",
+      "https://biowpn.github.io/bioweapon/2024/07/02/a-type-for-overload-set.html"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Racket Plot Cookbook",
       "https://github.com/Racket-Cookbooks/Plot-cookbook"
-    ]
-  ],
-  [
-    [
-      "2024-07-01, 15:27:25",
-      "https://news.ycombinator.com/item?id=40846726"
-    ],
-    [
-      "Architectural cross-section of Kowloon Walled City",
-      "https://cohost.org/belarius/post/6677850-architectural-cross"
     ]
   ],
   [
