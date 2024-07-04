@@ -26,10 +26,10 @@
 * [2024-07-02, 16:27:25](https://news.ycombinator.com/item?id=40858165) - [The Sphere](https://mssv.net/2024/07/02/the-sphere/)
 * [2024-07-02, 05:38:31](https://news.ycombinator.com/item?id=40853834) - [The History of Machine Learning in Trackmania](https://hallofdreams.org/posts/trackmania-1/)
 * [2024-07-01, 20:07:05](https://news.ycombinator.com/item?id=40850062) - [Show HN: Sonatino – small audio dev board based on ESP32-S3](https://news.ycombinator.com/item?id=40850062)
-* [2024-07-01, 19:10:52](https://news.ycombinator.com/item?id=40849363) - [A Git story: Not so fun this time](https://blog.brachiosoft.com/en/posts/git/)
 * [2024-07-01, 15:27:25](https://news.ycombinator.com/item?id=40846726) - [Architectural cross-section of Kowloon Walled City](https://cohost.org/belarius/post/6677850-architectural-cross)
 * [2024-07-01, 13:14:31](https://news.ycombinator.com/item?id=40845567) - [Why Alaska Rivers Are Turning an Eerie Orange](https://www.atlasobscura.com/articles/why-alaska-rivers-are-turning-an-eerie-orange)
 * [2024-06-30, 23:47:49](https://news.ycombinator.com/item?id=40841403) - [Advice to Young Mathematicians [video]](https://www.youtube.com/watch?v=B8RkQq-1_ZU)
+* [2024-06-30, 08:09:47](https://news.ycombinator.com/item?id=40835787) - [Well-known paradox of R-squared is still buggin me](https://statmodeling.stat.columbia.edu/2024/06/17/this-well-known-paradox-of-r-squared-is-still-buggin-me-can-you-help-me-out/)
 
 ## [Archives](archives/index.md)
 
