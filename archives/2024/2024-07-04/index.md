@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-04](index.md)
 
+* [2024-07-04, 11:02:39](https://news.ycombinator.com/item?id=40873912) - [React chaos in mid and large web apps: Any different experiences?](https://old.reddit.com/r/ExperiencedDevs/comments/1dh9rly/the_chaos_of_react_in_medium_to_large_web_apps)
+* [2024-07-04, 10:40:46](https://news.ycombinator.com/item?id=40873853) - [UI Design Tips Using Tailwind CSS for Developers](https://railsdesigner.com/design-tips-for-developers/)
+* [2024-07-04, 09:36:26](https://news.ycombinator.com/item?id=40873598) - [Kanban vs. Scrum: What's the Difference?](https://www.leiga.com/post/kanban-vs-scrum)
 * [2024-07-04, 08:46:03](https://news.ycombinator.com/item?id=40873391) - [Cloudflare rolls out feature for blocking AI companies' web scrapers](https://siliconangle.com/2024/07/03/cloudflare-rolls-feature-blocking-ai-companies-web-scrapers/)
 * [2024-07-04, 07:17:34](https://news.ycombinator.com/item?id=40873001) - [Fly.io initiates Region-specific Machines pricing](https://community.fly.io/t/fresh-produce-region-specific-machines-pricing/20690)
 * [2024-07-04, 07:11:29](https://news.ycombinator.com/item?id=40872978) - [Show HN: I made a split keyboard for large palms](https://www.jogmekeebs.com)
