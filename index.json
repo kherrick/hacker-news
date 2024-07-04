@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=40878007"
     ],
     [
-      "Rollstack (YC W23) Is Hiring TypeScript Engineers in Europe. Growing 20% MoM",
+      "Rollstack (YC W23) Is Hiring TypeScript Engineers in Europe",
       "https://www.ycombinator.com/companies/rollstack-2/jobs/"
     ]
   ],
@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2024-07-04, 07:11:29",
+      "https://news.ycombinator.com/item?id=40872978"
+    ],
+    [
+      "Show HN: I made a split keyboard for large palms",
+      "https://www.jogmekeebs.com"
+    ]
+  ],
+  [
+    [
       "2024-07-04, 05:04:09",
       "https://news.ycombinator.com/item?id=40872438"
     ],
@@ -157,16 +167,6 @@
     [
       "Building a data compression utility in Haskell using Huffman codes",
       "https://lazamar.github.io/haskell-data-compression-with-huffman-codes/"
-    ]
-  ],
-  [
-    [
-      "2024-07-04, 03:05:36",
-      "https://news.ycombinator.com/item?id=40872020"
-    ],
-    [
-      "Sans-IO: The secret to effective Rust for network services",
-      "https://www.firezone.dev/blog/sans-io"
     ]
   ],
   [
