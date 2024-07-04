@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-04, 03:30:24](https://news.ycombinator.com/item?id=40872102) - [Ask HN: Vision Pro owners, are you still using it?](https://news.ycombinator.com/item?id=40872102)
 * [2024-07-03, 23:28:11](https://news.ycombinator.com/item?id=40871043) - [Introduction to Program Synthesis](https://people.csail.mit.edu/asolar/SynthesisCourse/Lecture1.htm)
 * [2024-07-03, 23:17:20](https://news.ycombinator.com/item?id=40870972) - [Wordsworth Donisthorpe, Blackmail, and the First Motion Pictures](https://publicdomainreview.org/essay/wordsworth-donisthorpe-blackmail-and-the-first-motion-pictures/)
 * [2024-07-03, 22:43:05](https://news.ycombinator.com/item?id=40870728) - [Diving into deep learning: Understanding Deep Learning book review [pdf]](https://github.com/udlbook/udlbook/blob/main/public/NMI_Review.pdf)
@@ -14,7 +15,6 @@
 * [2024-07-03, 17:58:14](https://news.ycombinator.com/item?id=40868425) - [Luakit: A fast, extensible, and customizable web browser](https://luakit.github.io/)
 * [2024-07-03, 17:00:44](https://news.ycombinator.com/item?id=40867845) - [Spice (YC S19) Is Hiring](https://www.ycombinator.com/companies/spice/jobs/TijA35R-software-engineer)
 * [2024-07-03, 16:48:34](https://news.ycombinator.com/item?id=40867746) - [A practical introduction to constraint programming using CP-SAT and Python](https://pganalyze.com/blog/a-practical-introduction-to-constraint-programming-using-cp-sat)
-* [2024-07-03, 16:47:26](https://news.ycombinator.com/item?id=40867735) - [Multimodal Canvas: An experiment of Pictionary powered by Gemini 1.5 Flash](https://labs.google/multimodal-canvas)
 * [2024-07-03, 16:45:01](https://news.ycombinator.com/item?id=40867709) - [The Cheapest NAS](https://sigwait.org/~alex/blog/2024/07/01/the-cheapest-nas.html)
 * [2024-07-03, 16:03:10](https://news.ycombinator.com/item?id=40867273) - [The legacy of Liverpool's forgotten synchrocyclotron](https://physicsworld.com/a/the-legacy-of-liverpools-forgotten-synchrocyclotron/)
 * [2024-07-03, 14:47:18](https://news.ycombinator.com/item?id=40866442) - [Making a Linux-managed network switch](https://blog.brixit.nl/making-a-linux-managed-network-switch/)
