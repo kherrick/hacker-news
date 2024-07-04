@@ -14,7 +14,6 @@
 * [2024-07-04, 15:34:08](https://news.ycombinator.com/item?id=40875702) - [Ready Player Mode](https://lmno.lol/alvaro/ready-player-mode)
 * [2024-07-04, 15:15:39](https://news.ycombinator.com/item?id=40875559) - [The sad state of property-based testing libraries](https://stevana.github.io/the_sad_state_of_property-based_testing_libraries.html)
 * [2024-07-04, 12:26:39](https://news.ycombinator.com/item?id=40874341) - [Twilio confirms data breach after hackers leak 33M Authy user phone numbers](https://www.securityweek.com/twilio-confirms-data-breach-after-hackers-leak-33m-authy-user-phone-numbers/)
-* [2024-07-04, 07:11:29](https://news.ycombinator.com/item?id=40872978) - [Show HN: I made a split keyboard for large palms](https://www.jogmekeebs.com)
 * [2024-07-04, 05:04:09](https://news.ycombinator.com/item?id=40872438) - [Finding near-duplicates with Jaccard similarity and MinHash](https://blog.nelhage.com/post/fuzzy-dedup/)
 * [2024-07-04, 04:29:12](https://news.ycombinator.com/item?id=40872332) - [Building a data compression utility in Haskell using Huffman codes](https://lazamar.github.io/haskell-data-compression-with-huffman-codes/)
 * [2024-07-04, 02:09:20](https://news.ycombinator.com/item?id=40871783) - [Diffusion Forcing: Next-Token Prediction Meets Full-Sequence Diffusion](https://boyuan.space/diffusion-forcing/)
@@ -28,6 +27,7 @@
 * [2024-07-02, 13:01:21](https://news.ycombinator.com/item?id=40856225) - [Island restoration to rebuild seabird populations and amplify coral reefs](https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14313)
 * [2024-07-02, 10:20:35](https://news.ycombinator.com/item?id=40855156) - [Should the Hawthorn Be Saved?](https://www.theatlantic.com/science/archive/2024/05/hawthorns-american-botany-species-conservation/678366/)
 * [2024-07-02, 04:50:40](https://news.ycombinator.com/item?id=40853665) - [Should this be a map or 500 maps?](https://escapethealgorithm.substack.com/p/should-this-be-a-map-or-500-maps)
+* [2024-07-01, 22:06:50](https://news.ycombinator.com/item?id=40851308) - [Exorcising Us of the Primer](https://andymatuschak.org/primer/)
 * [2024-07-01, 15:34:36](https://news.ycombinator.com/item?id=40846815) - [Racket Plot Cookbook](https://github.com/Racket-Cookbooks/Plot-cookbook)
 * [2024-07-01, 13:21:33](https://news.ycombinator.com/item?id=40845628) - [Shipt's algorithm squeezed gig workers, who fought back](https://spectrum.ieee.org/shipt)
 
