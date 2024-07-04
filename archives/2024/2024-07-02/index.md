@@ -78,6 +78,7 @@
 * [2024-07-02, 14:06:37](https://news.ycombinator.com/item?id=40856842) - [Ginkgo Bioworks 'A Hoax for the Ages,'](https://www.fiercebiotech.com/medtech/ginkgo-bioworks-suffers-short-attack-firm-calling-it-a-hoax-for-ages)
 * [2024-07-02, 14:01:45](https://news.ycombinator.com/item?id=40856791) - [Ladybird Web Browser becomes a non-profit with $1M from GitHub Founder](https://www.youtube.com/watch?v=k9edTqPMX_k)
 * [2024-07-02, 14:01:45](https://news.ycombinator.com/item?id=40856791) - [Ladybird Web Browser becomes a non-profit with $1M from GitHub Founder](https://lunduke.locals.com/post/5812560/ladybird-web-browser-becomes-a-non-profit-with-1-million-from-github-founder)
+* [2024-07-02, 13:51:37](https://news.ycombinator.com/item?id=40856677) - [GPU profiling for WebGPU workloads on Windows with Chrome](https://frguthmann.github.io/posts/profiling_webgpu/)
 * [2024-07-02, 13:47:07](https://news.ycombinator.com/item?id=40856616) - [Ant Design – the second most popular React UI framework](https://github.com/ant-design/ant-design)
 * [2024-07-02, 13:36:32](https://news.ycombinator.com/item?id=40856515) - [A.I. Begins Ushering in an Age of Killer Robots](https://www.nytimes.com/2024/07/02/technology/ukraine-war-ai-weapons.html)
 * [2024-07-02, 13:25:22](https://news.ycombinator.com/item?id=40856411) - [Plaintext is not a great format for (system) logs](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PlaintextNotGreatLogFormat)
