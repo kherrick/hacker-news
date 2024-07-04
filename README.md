@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-04, 12:26:39](https://news.ycombinator.com/item?id=40874341) - [Twilio Confirms Data Breach After Hackers Leak 33M Authy User Phone Numbers](https://www.securityweek.com/twilio-confirms-data-breach-after-hackers-leak-33m-authy-user-phone-numbers/)
 * [2024-07-04, 12:00:57](https://news.ycombinator.com/item?id=40874189) - [BuildZoom (better way to build custom homes) Is hiring a Growth Associate](https://jobs.lever.co/buildzoom)
 * [2024-07-04, 11:26:32](https://news.ycombinator.com/item?id=40874013) - [Jeffrey Snover and the Making of PowerShell](https://corecursive.com/building-powershell-with-jeffrey-snover/)
 * [2024-07-04, 07:11:29](https://news.ycombinator.com/item?id=40872978) - [Show HN: I made a split keyboard for large palms](https://www.jogmekeebs.com)
@@ -20,7 +21,6 @@
 * [2024-07-03, 14:42:02](https://news.ycombinator.com/item?id=40866374) - [Do not taunt happy fun branch predictor (2023)](https://www.mattkeeter.com/blog/2023-01-25-branch/)
 * [2024-07-03, 09:26:14](https://news.ycombinator.com/item?id=40864249) - [Man-Computer Symbiosis (1960)](https://groups.csail.mit.edu/medg/people/psz/Licklider.html)
 * [2024-07-02, 22:32:42](https://news.ycombinator.com/item?id=40861079) - [Engine Sound Simulator](https://markeasting.github.io/engine/)
-* [2024-07-02, 20:49:14](https://news.ycombinator.com/item?id=40860278) - [Rapper BG ordered to have all future songs approved by US Government](https://www.theguardian.com/music/article/2024/jul/02/rapper-bg-government-song-approval)
 * [2024-07-02, 16:27:25](https://news.ycombinator.com/item?id=40858165) - [The Sphere](https://mssv.net/2024/07/02/the-sphere/)
 * [2024-07-02, 13:51:37](https://news.ycombinator.com/item?id=40856677) - [GPU profiling for WebGPU workloads on Windows with Chrome](https://frguthmann.github.io/posts/profiling_webgpu/)
 * [2024-07-02, 05:38:31](https://news.ycombinator.com/item?id=40853834) - [The History of Machine Learning in Trackmania](https://hallofdreams.org/posts/trackmania-1/)
