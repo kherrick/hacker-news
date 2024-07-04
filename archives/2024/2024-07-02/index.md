@@ -74,6 +74,7 @@
 * [2024-07-02, 14:27:31](https://news.ycombinator.com/item?id=40857041) - [With fifth busy beaver, researchers approach computation's limits](https://www.quantamagazine.org/amateur-mathematicians-find-fifth-busy-beaver-turing-machine-20240702/)
 * [2024-07-02, 14:23:56](https://news.ycombinator.com/item?id=40857009) - [Show HN: Adding Mistral Codestral and GPT-4o to Jupyter Notebooks](https://github.com/pretzelai/pretzelai/blob/main/README.md)
 * [2024-07-02, 14:22:22](https://news.ycombinator.com/item?id=40857001) - [Python packaging scenarios by the creators of ruff](https://github.com/astral-sh/packse)
+* [2024-07-02, 14:18:37](https://news.ycombinator.com/item?id=40856962) - [Found out that the government of Canada is using my project](https://news.ycombinator.com/item?id=40856962)
 * [2024-07-02, 14:15:43](https://news.ycombinator.com/item?id=40856930) - [Tesla reports Q2 delivery and production figures, beating estimates](https://www.teslarati.com/tesla-tsla-reports-q2-delivery-and-production-figures-beating-estimates/)
 * [2024-07-02, 14:06:37](https://news.ycombinator.com/item?id=40856842) - [Ginkgo Bioworks 'A Hoax for the Ages,'](https://www.fiercebiotech.com/medtech/ginkgo-bioworks-suffers-short-attack-firm-calling-it-a-hoax-for-ages)
 * [2024-07-02, 14:01:45](https://news.ycombinator.com/item?id=40856791) - [Ladybird Web Browser becomes a non-profit with $1M from GitHub Founder](https://www.youtube.com/watch?v=k9edTqPMX_k)
