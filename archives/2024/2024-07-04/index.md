@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-04](index.md)
 
+* [2024-07-04, 20:05:06](https://news.ycombinator.com/item?id=40877660) - [Common Lisp Names All Sixteen Binary Logic Gates](https://www.cs.cmu.edu/Groups/AI/html/cltl/clm/node131.html#SECTION001670000000000000000)
 * [2024-07-04, 20:02:58](https://news.ycombinator.com/item?id=40877648) - [Japan introduces enormous humanoid robot to maintain train lines](https://www.theguardian.com/world/article/2024/jul/04/japan-train-robot-maintain-railway-lines)
 * [2024-07-04, 19:52:21](https://news.ycombinator.com/item?id=40877561) - [HE.net problem](https://mailman.nanog.org/pipermail/nanog/2024-July/225901.html)
 * [2024-07-04, 19:37:25](https://news.ycombinator.com/item?id=40877460) - [Th64: Tiny Hash Function in C](https://github.com/tidwall/th64)
