@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-04, 08:46:03](https://news.ycombinator.com/item?id=40873391) - [Cloudflare rolls out feature for blocking AI companies' web scrapers](https://siliconangle.com/2024/07/03/cloudflare-rolls-feature-blocking-ai-companies-web-scrapers/)
 * [2024-07-04, 07:11:29](https://news.ycombinator.com/item?id=40872978) - [Show HN: I made a split keyboard for large palms](https://www.jogmekeebs.com)
 * [2024-07-04, 06:28:40](https://news.ycombinator.com/item?id=40872799) - [Superintelligence–10 Years Later](https://www.humanityredefined.com/p/superintelligence10-years-later)
 * [2024-07-04, 06:02:55](https://news.ycombinator.com/item?id=40872672) - [Katharine Way, John Wheeler, and the Dawn of Nuclear Fission](https://www.amphilsoc.org/blog/katharine-way-john-wheeler-and-dawn-nuclear-fission)
@@ -29,6 +28,7 @@
 * [2024-07-01, 19:10:52](https://news.ycombinator.com/item?id=40849363) - [A Git story: Not so fun this time](https://blog.brachiosoft.com/en/posts/git/)
 * [2024-07-01, 15:27:25](https://news.ycombinator.com/item?id=40846726) - [Architectural cross-section of Kowloon Walled City](https://cohost.org/belarius/post/6677850-architectural-cross)
 * [2024-07-01, 13:21:33](https://news.ycombinator.com/item?id=40845628) - [Shipt's Algorithm Squeezed Gig Workers. They Fought Back](https://spectrum.ieee.org/shipt)
+* [2024-06-30, 23:47:49](https://news.ycombinator.com/item?id=40841403) - [Advice to Young Mathematicians [video]](https://www.youtube.com/watch?v=B8RkQq-1_ZU)
 * [2024-06-30, 08:09:47](https://news.ycombinator.com/item?id=40835787) - [Well-known paradox of R-squared is still buggin me](https://statmodeling.stat.columbia.edu/2024/06/17/this-well-known-paradox-of-r-squared-is-still-buggin-me-can-you-help-me-out/)
 
 ## [Archives](archives/index.md)
