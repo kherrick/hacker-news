@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-04, 19:21:37](https://news.ycombinator.com/item?id=40877346) - [Thousands ofAmericans got caught in fintech and lost access to bank accounts](https://www.cnbc.com/2024/07/02/synapse-fintech-fdic-false-promise.html)
 * [2024-07-04, 19:20:25](https://news.ycombinator.com/item?id=40877337) - [Batteries: How cheap can they get?](https://aukehoekstra.substack.com/p/batteries-how-cheap-can-they-get)
 * [2024-07-04, 18:50:09](https://news.ycombinator.com/item?id=40877136) - [Insights from over 10,000 comments on \"Ask HN: Who Is Hiring\" using GPT-4o](https://tamerc.com/posts/ask-hn-who-is-hiring/)
 * [2024-07-04, 18:33:51](https://news.ycombinator.com/item?id=40877042) - [Gravitational wave researchers cast new light on Antikythera mechanism mystery](https://www.gla.ac.uk/news/headline_1086643_en.html)
@@ -29,6 +28,7 @@
 * [2024-07-02, 04:50:40](https://news.ycombinator.com/item?id=40853665) - [Should this be a map or 500 maps?](https://escapethealgorithm.substack.com/p/should-this-be-a-map-or-500-maps)
 * [2024-07-01, 22:27:39](https://news.ycombinator.com/item?id=40851505) - [Hard drive, SSD puncher of physical media with 12 tons of pressure](https://www.tomshardware.com/pc-components/storage/hard-drive-ssd-puncher-puts-four-holes-through-your-drives-puncher-p30-destroys-physical-media-with-12-tons-of-pressure)
 * [2024-07-01, 15:34:36](https://news.ycombinator.com/item?id=40846815) - [Racket Plot Cookbook](https://github.com/Racket-Cookbooks/Plot-cookbook)
+* [2024-07-01, 13:49:27](https://news.ycombinator.com/item?id=40845846) - [Copy-my-writing: write content based on you personal writing styles](https://github.com/innovatorved/copy-my-writing)
 * [2024-07-01, 13:21:33](https://news.ycombinator.com/item?id=40845628) - [Shipt's algorithm squeezed gig workers, who fought back](https://spectrum.ieee.org/shipt)
 
 ## [Archives](archives/index.md)

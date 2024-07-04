@@ -60,6 +60,7 @@
 * [2024-07-01, 14:04:53](https://news.ycombinator.com/item?id=40845951) - [Welcome to Ladybird](https://ladybird.org/)
 * [2024-07-01, 14:04:12](https://news.ycombinator.com/item?id=40845945) - [Quantum is unimportant to post-quantum](https://blog.trailofbits.com/2024/07/01/quantum-is-unimportant-to-post-quantum/)
 * [2024-07-01, 14:03:12](https://news.ycombinator.com/item?id=40845940) - [Leaked Arrow Lake diagram show more PCIe lanes, no DDR4, 2 M.2 SSD ports to CPU](https://www.tomshardware.com/pc-components/cpus/leaked-intel-arrow-lake-chipset-diagram-show-more-pcie-lanes-no-support-for-ddr4-new-chipset-boasts-two-m2-ssd-ports-connected-directly-to-cpu)
+* [2024-07-01, 13:49:27](https://news.ycombinator.com/item?id=40845846) - [Copy-my-writing: write content based on you personal writing styles](https://github.com/innovatorved/copy-my-writing)
 * [2024-07-01, 13:48:53](https://news.ycombinator.com/item?id=40845842) - [Facebook and Instagram's 'pay or consent' ad model violates the DMA, says the EU](https://www.theverge.com/2024/7/1/24189796/eu-meta-dma-violation-pay-consent-ads-model)
 * [2024-07-01, 13:37:58](https://news.ycombinator.com/item?id=40845760) - [Building A YC Interview Bot That Produces Question we got on our Interview](https://blog.lytix.co/posts/yc-interviewer-bot)
 * [2024-07-01, 13:21:33](https://news.ycombinator.com/item?id=40845628) - [Shipt's Algorithm Squeezed Gig Workers. They Fought Back](https://spectrum.ieee.org/shipt)
