@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-04](index.md)
 
 * [2024-07-04, 08:46:03](https://news.ycombinator.com/item?id=40873391) - [Cloudflare rolls out feature for blocking AI companies' web scrapers](https://siliconangle.com/2024/07/03/cloudflare-rolls-feature-blocking-ai-companies-web-scrapers/)
+* [2024-07-04, 07:17:34](https://news.ycombinator.com/item?id=40873001) - [Fly.io initiates Region-specific Machines pricing](https://community.fly.io/t/fresh-produce-region-specific-machines-pricing/20690)
 * [2024-07-04, 07:11:29](https://news.ycombinator.com/item?id=40872978) - [Show HN: I made a split keyboard for large palms](https://www.jogmekeebs.com)
 * [2024-07-04, 06:28:40](https://news.ycombinator.com/item?id=40872799) - [Superintelligence–10 Years Later](https://www.humanityredefined.com/p/superintelligence10-years-later)
 * [2024-07-04, 06:23:43](https://news.ycombinator.com/item?id=40872772) - [A Bugatti car, a first lady and the fake stories aimed at Americans](https://www.bbc.com/news/articles/c72ver6172do)
