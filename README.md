@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-04, 22:22:32](https://news.ycombinator.com/item?id=40878538) - [Reverse Engineering the Verification QR Code on My Diploma](https://obrhubr.org/reverse-engineering-diploma)
+* [2024-07-04, 21:33:02](https://news.ycombinator.com/item?id=40878222) - [The Snapdragon X Elite's Adreno iGPU](https://chipsandcheese.com/2024/07/04/the-snapdragon-x-elites-adreno-igpu/)
 * [2024-07-04, 21:00:29](https://news.ycombinator.com/item?id=40878007) - [Rollstack (YC W23) Is Hiring TypeScript Engineers in Europe](https://www.ycombinator.com/companies/rollstack-2/jobs/)
 * [2024-07-04, 20:57:52](https://news.ycombinator.com/item?id=40877992) - [NexDock turns your smartphone into a laptop](https://nexdock.com/)
 * [2024-07-04, 20:02:58](https://news.ycombinator.com/item?id=40877648) - [Japan introduces enormous humanoid robot to maintain train lines](https://www.theguardian.com/world/article/2024/jul/04/japan-train-robot-maintain-railway-lines)
@@ -12,8 +14,6 @@
 * [2024-07-04, 15:34:08](https://news.ycombinator.com/item?id=40875702) - [Ready Player Mode](https://lmno.lol/alvaro/ready-player-mode)
 * [2024-07-04, 15:15:39](https://news.ycombinator.com/item?id=40875559) - [The sad state of property-based testing libraries](https://stevana.github.io/the_sad_state_of_property-based_testing_libraries.html)
 * [2024-07-04, 12:26:39](https://news.ycombinator.com/item?id=40874341) - [Twilio confirms data breach after hackers leak 33M Authy user phone numbers](https://www.securityweek.com/twilio-confirms-data-breach-after-hackers-leak-33m-authy-user-phone-numbers/)
-* [2024-07-04, 11:26:32](https://news.ycombinator.com/item?id=40874013) - [Jeffrey Snover and the Making of PowerShell](https://corecursive.com/building-powershell-with-jeffrey-snover/)
-* [2024-07-04, 07:17:34](https://news.ycombinator.com/item?id=40873001) - [Region-specific Machines pricing](https://community.fly.io/t/fresh-produce-region-specific-machines-pricing/20690)
 * [2024-07-04, 07:11:29](https://news.ycombinator.com/item?id=40872978) - [Show HN: I made a split keyboard for large palms](https://www.jogmekeebs.com)
 * [2024-07-04, 05:04:09](https://news.ycombinator.com/item?id=40872438) - [Finding near-duplicates with Jaccard similarity and MinHash](https://blog.nelhage.com/post/fuzzy-dedup/)
 * [2024-07-04, 04:29:12](https://news.ycombinator.com/item?id=40872332) - [Building a data compression utility in Haskell using Huffman codes](https://lazamar.github.io/haskell-data-compression-with-huffman-codes/)

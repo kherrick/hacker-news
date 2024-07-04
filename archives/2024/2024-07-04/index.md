@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-04](index.md)
 
+* [2024-07-04, 22:22:32](https://news.ycombinator.com/item?id=40878538) - [Reverse Engineering the Verification QR Code on My Diploma](https://obrhubr.org/reverse-engineering-diploma)
+* [2024-07-04, 21:33:02](https://news.ycombinator.com/item?id=40878222) - [The Snapdragon X Elite's Adreno iGPU](https://chipsandcheese.com/2024/07/04/the-snapdragon-x-elites-adreno-igpu/)
 * [2024-07-04, 21:05:42](https://news.ycombinator.com/item?id=40878040) - [Ask HN: What book bit, stung and shook you deeply?](https://news.ycombinator.com/item?id=40878040)
 * [2024-07-04, 21:00:29](https://news.ycombinator.com/item?id=40878007) - [Rollstack (YC W23) Is Hiring TypeScript Engineers in Europe. Growing 20% MoM](https://www.ycombinator.com/companies/rollstack-2/jobs/)
 * [2024-07-04, 20:57:52](https://news.ycombinator.com/item?id=40877992) - [NexDock turns your smartphone into a Laptop](https://nexdock.com/)
