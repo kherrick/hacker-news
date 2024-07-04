@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-04, 18:50:09](https://news.ycombinator.com/item?id=40877136) - [Insights from over 10,000 comments on \"Ask HN: Who Is Hiring\" using GPT-4o](https://tamerc.com/posts/ask-hn-who-is-hiring/)
+* [2024-07-04, 18:41:22](https://news.ycombinator.com/item?id=40877085) - [SoftBank stock hits first record high in 24yrs – Arm and AI helped it get there](https://www.cnbc.com/2024/07/04/softbank-shares-hit-record-high-after-24-years-on-arm-and-ai-boost.html)
 * [2024-07-04, 18:33:51](https://news.ycombinator.com/item?id=40877042) - [Gravitational wave researchers cast new light on Antikythera mechanism mystery](https://www.gla.ac.uk/news/headline_1086643_en.html)
 * [2024-07-04, 18:04:00](https://news.ycombinator.com/item?id=40876848) - [SCIM: Ncurses based, Vim-like spreadsheet](https://github.com/andmarti1424/sc-im)
-* [2024-07-04, 17:25:27](https://news.ycombinator.com/item?id=40876568) - [Ask HN: Who Wants a Penpal?](https://news.ycombinator.com/item?id=40876568)
 * [2024-07-04, 16:53:59](https://news.ycombinator.com/item?id=40876342) - [The Origin of Ambergris (2012)](https://press.uchicago.edu/books/excerpt/2012/kemp_floating.html)
 * [2024-07-04, 16:03:32](https://news.ycombinator.com/item?id=40875924) - [Mechanical computer relies on kirigami cubes, not electronics](https://news.ncsu.edu/2024/06/kirigami-mechanical-computer/)
 * [2024-07-04, 16:02:39](https://news.ycombinator.com/item?id=40875914) - [Air-Bus Hijacking: Silently Taking over Avionics Systems](https://dl.acm.org/doi/pdf/10.1145/3626205.3659144)
@@ -22,7 +23,6 @@
 * [2024-07-03, 21:44:47](https://news.ycombinator.com/item?id=40870280) - [The joy of reading books you don't understand](https://reactormag.com/the-joy-of-reading-books-you-dont-entirely-understand/)
 * [2024-07-03, 20:52:37](https://news.ycombinator.com/item?id=40869877) - [Show HN: Xcapture-BPF – like Linux top, but with Xray vision](https://0x.tools/)
 * [2024-07-03, 18:04:59](https://news.ycombinator.com/item?id=40868504) - [Analyzing my electricity consumption](https://zdimension.fr/analyzing-my-electricity-consumption/)
-* [2024-07-03, 16:45:01](https://news.ycombinator.com/item?id=40867709) - [The Cheapest NAS](https://sigwait.org/~alex/blog/2024/07/01/the-cheapest-nas.html)
 * [2024-07-03, 05:22:15](https://news.ycombinator.com/item?id=40862941) - [A Type for Overload Set](https://biowpn.github.io/bioweapon/2024/07/02/a-type-for-overload-set.html)
 * [2024-07-02, 13:51:37](https://news.ycombinator.com/item?id=40856677) - [GPU profiling for WebGPU workloads on Windows with Chrome](https://frguthmann.github.io/posts/profiling_webgpu/)
 * [2024-07-02, 13:01:21](https://news.ycombinator.com/item?id=40856225) - [Island restoration to rebuild seabird populations and amplify coral reefs](https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14313)
