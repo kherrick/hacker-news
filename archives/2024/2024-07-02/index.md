@@ -93,6 +93,7 @@
 * [2024-07-02, 12:00:54](https://news.ycombinator.com/item?id=40855785) - [Lago – Open-Source Usage Based Billing Is Hiring a Data Scientist (EU-Based)](https://www.ycombinator.com/companies/lago/jobs/O7dCOie-data-scientist)
 * [2024-07-02, 11:42:03](https://news.ycombinator.com/item?id=40855643) - [Some sanity for C and C++ development on Windows](https://nullprogram.com/blog/2021/12/30/)
 * [2024-07-02, 11:12:07](https://news.ycombinator.com/item?id=40855461) - [Figma AI is a rip-off engine](https://daringfireball.net/linked/2024/07/01/figma-ai-ripoff-engine)
+* [2024-07-02, 10:20:35](https://news.ycombinator.com/item?id=40855156) - [Should the Hawthorn Be Saved?](https://www.theatlantic.com/science/archive/2024/05/hawthorns-american-botany-species-conservation/678366/)
 * [2024-07-02, 10:14:33](https://news.ycombinator.com/item?id=40855122) - [Htmx does not play well with content security policy](https://www.sjoerdlangkemper.nl/2024/06/26/htmx-content-security-policy/)
 * [2024-07-02, 09:59:17](https://news.ycombinator.com/item?id=40855053) - [WhoDB: Lightweight next-gen database explorer](https://github.com/clidey/whodb)
 * [2024-07-02, 09:54:19](https://news.ycombinator.com/item?id=40855028) - [Trying Kolmogorov-Arnold Networks in Practice](https://cprimozic.net/blog/trying-out-kans/)

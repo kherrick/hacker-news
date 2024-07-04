@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-04, 20:05:06](https://news.ycombinator.com/item?id=40877660) - [Common Lisp Names All Sixteen Binary Logic Gates](https://www.cs.cmu.edu/Groups/AI/html/cltl/clm/node131.html#SECTION001670000000000000000)
-* [2024-07-04, 20:02:58](https://news.ycombinator.com/item?id=40877648) - [Japan introduces enormous humanoid robot to maintain train lines](https://www.theguardian.com/world/article/2024/jul/04/japan-train-robot-maintain-railway-lines)
+* [2024-07-04, 20:35:15](https://news.ycombinator.com/item?id=40877830) - [Authy got hacked, and 33M user phone numbers were stolen](https://appleinsider.com/articles/24/07/04/authy-got-hacked-and-33-million-user-phone-numbers-were-stolen)
 * [2024-07-04, 19:37:25](https://news.ycombinator.com/item?id=40877460) - [Th64: Tiny Hash Function in C](https://github.com/tidwall/th64)
 * [2024-07-04, 19:20:25](https://news.ycombinator.com/item?id=40877337) - [Batteries: How cheap can they get?](https://aukehoekstra.substack.com/p/batteries-how-cheap-can-they-get)
 * [2024-07-04, 18:50:09](https://news.ycombinator.com/item?id=40877136) - [Insights from over 10,000 comments on \"Ask HN: Who Is Hiring\" using GPT-4o](https://tamerc.com/posts/ask-hn-who-is-hiring/)
@@ -26,6 +25,7 @@
 * [2024-07-03, 18:04:59](https://news.ycombinator.com/item?id=40868504) - [Analyzing my electricity consumption](https://zdimension.fr/analyzing-my-electricity-consumption/)
 * [2024-07-03, 05:22:15](https://news.ycombinator.com/item?id=40862941) - [A Type for Overload Set](https://biowpn.github.io/bioweapon/2024/07/02/a-type-for-overload-set.html)
 * [2024-07-02, 13:01:21](https://news.ycombinator.com/item?id=40856225) - [Island restoration to rebuild seabird populations and amplify coral reefs](https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14313)
+* [2024-07-02, 10:20:35](https://news.ycombinator.com/item?id=40855156) - [Should the Hawthorn Be Saved?](https://www.theatlantic.com/science/archive/2024/05/hawthorns-american-botany-species-conservation/678366/)
 * [2024-07-02, 04:50:40](https://news.ycombinator.com/item?id=40853665) - [Should this be a map or 500 maps?](https://escapethealgorithm.substack.com/p/should-this-be-a-map-or-500-maps)
 * [2024-07-01, 22:27:39](https://news.ycombinator.com/item?id=40851505) - [Hard drive, SSD puncher of physical media with 12 tons of pressure](https://www.tomshardware.com/pc-components/storage/hard-drive-ssd-puncher-puts-four-holes-through-your-drives-puncher-p30-destroys-physical-media-with-12-tons-of-pressure)
 * [2024-07-01, 15:34:36](https://news.ycombinator.com/item?id=40846815) - [Racket Plot Cookbook](https://github.com/Racket-Cookbooks/Plot-cookbook)
