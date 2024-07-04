@@ -119,6 +119,7 @@
 * [2024-07-01, 02:20:12](https://news.ycombinator.com/item?id=40842047) - [Effective YouTube Kids: Quality Content in Small Doses](https://abparenting.substack.com/p/effective-youtube-kids)
 * [2024-07-01, 02:03:37](https://news.ycombinator.com/item?id=40841980) - [Pipes: A spiritual successor to Yahoo Pipes](https://www.pipes.digital/docs)
 * [2024-07-01, 01:30:11](https://news.ycombinator.com/item?id=40841838) - [Microsoft lays hands on login data: Beware of the new Outlook](https://www.heise.de/en/news/Microsoft-lays-hands-on-login-data-Beware-of-the-new-Outlook-9608798.html)
+* [2024-07-01, 01:03:20](https://news.ycombinator.com/item?id=40841698) - [Ask HN: Where to Sell Vintage Computers](https://news.ycombinator.com/item?id=40841698)
 * [2024-07-01, 00:48:21](https://news.ycombinator.com/item?id=40841651) - [DOJ to offer Boeing \"sweetheart\" plea deal in pursuit of criminal charges](https://www.cnn.com/2024/06/30/business/boeing-plea-deal/index.html)
 * [2024-07-01, 00:47:45](https://news.ycombinator.com/item?id=40841649) - [Userland Rootkits Are Lame](https://grugq.substack.com/p/userland-rootkits-are-lame)
 * [2024-07-01, 00:24:27](https://news.ycombinator.com/item?id=40841542) - [Conway's Game of Life for curved surfaces (2012)](https://0fps.net/2012/11/19/conways-game-of-life-for-curved-surfaces-part-1/)

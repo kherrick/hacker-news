@@ -13,7 +13,6 @@
 * [2024-07-03, 21:52:55](https://news.ycombinator.com/item?id=40870345) - [Beating NumPy matrix multiplication in 150 lines of C](https://salykova.github.io/matmul-cpu)
 * [2024-07-03, 21:44:47](https://news.ycombinator.com/item?id=40870280) - [The Joy of Reading Books You Don't Understand](https://reactormag.com/the-joy-of-reading-books-you-dont-entirely-understand/)
 * [2024-07-03, 20:52:37](https://news.ycombinator.com/item?id=40869877) - [Show HN: Xcapture-BPF – like Linux top, but with Xray vision](https://0x.tools/)
-* [2024-07-03, 17:58:14](https://news.ycombinator.com/item?id=40868425) - [Luakit: A fast, extensible, and customizable web browser](https://luakit.github.io/)
 * [2024-07-03, 16:48:34](https://news.ycombinator.com/item?id=40867746) - [A practical introduction to constraint programming using CP-SAT and Python](https://pganalyze.com/blog/a-practical-introduction-to-constraint-programming-using-cp-sat)
 * [2024-07-03, 16:45:01](https://news.ycombinator.com/item?id=40867709) - [The Cheapest NAS](https://sigwait.org/~alex/blog/2024/07/01/the-cheapest-nas.html)
 * [2024-07-03, 14:47:18](https://news.ycombinator.com/item?id=40866442) - [Making a Linux-managed network switch](https://blog.brixit.nl/making-a-linux-managed-network-switch/)
@@ -29,6 +28,7 @@
 * [2024-07-01, 19:10:52](https://news.ycombinator.com/item?id=40849363) - [A Git story: Not so fun this time](https://blog.brachiosoft.com/en/posts/git/)
 * [2024-07-01, 15:27:25](https://news.ycombinator.com/item?id=40846726) - [Architectural cross-section of Kowloon Walled City](https://cohost.org/belarius/post/6677850-architectural-cross)
 * [2024-07-01, 13:21:33](https://news.ycombinator.com/item?id=40845628) - [Shipt's Algorithm Squeezed Gig Workers. They Fought Back](https://spectrum.ieee.org/shipt)
+* [2024-07-01, 01:03:20](https://news.ycombinator.com/item?id=40841698) - [Ask HN: Where to Sell Vintage Computers](https://news.ycombinator.com/item?id=40841698)
 * [2024-06-30, 08:09:47](https://news.ycombinator.com/item?id=40835787) - [Well-known paradox of R-squared is still buggin me](https://statmodeling.stat.columbia.edu/2024/06/17/this-well-known-paradox-of-r-squared-is-still-buggin-me-can-you-help-me-out/)
 
 ## [Archives](archives/index.md)
