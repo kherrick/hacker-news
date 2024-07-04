@@ -13,6 +13,7 @@
 * [2024-07-01, 22:45:39](https://news.ycombinator.com/item?id=40851638) - [Improving Your Zig Language Server Experience](https://kristoff.it/blog/improving-your-zls-experience/)
 * [2024-07-01, 22:44:17](https://news.ycombinator.com/item?id=40851630) - [syntaqx/cookie: Cookies, but with structs, for happiness](https://github.com/syntaqx/cookie)
 * [2024-07-01, 22:30:31](https://news.ycombinator.com/item?id=40851530) - [We are at our most creative just before we fall asleep, scientists say](https://www.weforum.org/agenda/2022/01/creativity-hotspot-just-before-sleep/)
+* [2024-07-01, 22:27:39](https://news.ycombinator.com/item?id=40851505) - [Hard drive, SSD puncher of physical media with 12 tons of pressure](https://www.tomshardware.com/pc-components/storage/hard-drive-ssd-puncher-puts-four-holes-through-your-drives-puncher-p30-destroys-physical-media-with-12-tons-of-pressure)
 * [2024-07-01, 22:20:45](https://news.ycombinator.com/item?id=40851441) - [Poor Man's Kinesis Keyboard: The K'nexis Keyboard](https://jonaquino.blogspot.com/2005/05/poor-mans-kinesis-keyboard-knexis.html)
 * [2024-07-01, 22:05:28](https://news.ycombinator.com/item?id=40851296) - [Company offers unofficial security patches for Windows 10 until 2030](https://www.tomshardware.com/software/windows/company-offers-unofficial-security-patches-for-windows-10-until-2030)
 * [2024-07-01, 21:55:02](https://news.ycombinator.com/item?id=40851187) - [Show HN: WhoDB – Streamlined, Lightweight Database Management with a Sleek UI/UX](https://github.com/clidey/whodb)

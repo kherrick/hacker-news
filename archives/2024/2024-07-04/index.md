@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-04](index.md)
 
+* [2024-07-04, 18:33:51](https://news.ycombinator.com/item?id=40877042) - [Gravitational wave researchers cast new light on Antikythera mechanism mystery](https://www.gla.ac.uk/news/headline_1086643_en.html)
+* [2024-07-04, 18:04:00](https://news.ycombinator.com/item?id=40876848) - [SCIM: Ncurses based, Vim-like spreadsheet](https://github.com/andmarti1424/sc-im)
 * [2024-07-04, 17:25:27](https://news.ycombinator.com/item?id=40876568) - [Ask HN: Who Wants a Penpal?](https://news.ycombinator.com/item?id=40876568)
 * [2024-07-04, 17:23:32](https://news.ycombinator.com/item?id=40876553) - [Geopolymer Cement in Pavement Applications for Sustainability and Performance](https://www.mdpi.com/2071-1050/16/13/5417)
 * [2024-07-04, 16:53:59](https://news.ycombinator.com/item?id=40876342) - [The Origin of Ambergris (2012)](https://press.uchicago.edu/books/excerpt/2012/kemp_floating.html)
