@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-04](index.md)
 
+* [2024-07-04, 03:50:35](https://news.ycombinator.com/item?id=40872182) - [The saddest \"Just Ship It\" story ever (2020)](https://www.kitze.io/posts/saddest-just-ship-it-story-ever)
 * [2024-07-04, 03:30:24](https://news.ycombinator.com/item?id=40872102) - [Ask HN: Vision Pro owners, are you still using it?](https://news.ycombinator.com/item?id=40872102)
 * [2024-07-04, 03:05:36](https://news.ycombinator.com/item?id=40872020) - [Sans-IO: The secret to effective Rust for network services](https://www.firezone.dev/blog/sans-io)
 * [2024-07-04, 02:09:20](https://news.ycombinator.com/item?id=40871783) - [Diffusion Forcing: Next-Token Prediction Meets Full-Sequence Diffusion](https://boyuan.space/diffusion-forcing/)
