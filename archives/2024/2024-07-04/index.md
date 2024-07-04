@@ -8,6 +8,7 @@
 * [2024-07-04, 06:02:55](https://news.ycombinator.com/item?id=40872672) - [Katharine Way, John Wheeler, and the Dawn of Nuclear Fission](https://www.amphilsoc.org/blog/katharine-way-john-wheeler-and-dawn-nuclear-fission)
 * [2024-07-04, 05:23:29](https://news.ycombinator.com/item?id=40872504) - [A short update on getting answers on the modern internet](https://wadetregaskis.com/a-short-update-on-getting-answers-on-the-modern-internet/)
 * [2024-07-04, 05:05:45](https://news.ycombinator.com/item?id=40872446) - [How Children Starve](https://www.reuters.com/graphics/ISRAEL-PALESTINIANS/GAZA-HUNGER/myvmakwxrvr/)
+* [2024-07-04, 05:04:09](https://news.ycombinator.com/item?id=40872438) - [Finding near-duplicates with Jaccard similarity and MinHash](https://blog.nelhage.com/post/fuzzy-dedup/)
 * [2024-07-04, 04:29:12](https://news.ycombinator.com/item?id=40872332) - [Building a data compression utility in Haskell using Huffman codes](https://lazamar.github.io/haskell-data-compression-with-huffman-codes/)
 * [2024-07-04, 03:50:35](https://news.ycombinator.com/item?id=40872182) - [The saddest \"Just Ship It\" story ever (2020)](https://www.kitze.io/posts/saddest-just-ship-it-story-ever)
 * [2024-07-04, 03:30:24](https://news.ycombinator.com/item?id=40872102) - [Ask HN: Vision Pro owners, are you still using it?](https://news.ycombinator.com/item?id=40872102)
