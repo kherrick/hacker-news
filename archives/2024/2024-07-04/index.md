@@ -9,6 +9,7 @@
 * [2024-07-04, 16:53:59](https://news.ycombinator.com/item?id=40876342) - [The Origin of Ambergris (2012)](https://press.uchicago.edu/books/excerpt/2012/kemp_floating.html)
 * [2024-07-04, 16:15:28](https://news.ycombinator.com/item?id=40876017) - [Prusa is now manufacturing 3D printers in USA](https://blog.prusa3d.com/we-are-now-manufacturing-3d-printers-and-filaments-in-the-usa_99148/)
 * [2024-07-04, 16:03:32](https://news.ycombinator.com/item?id=40875924) - [Mechanical Computer Relies on Kirigami Cubes, Not Electronics](https://news.ncsu.edu/2024/06/kirigami-mechanical-computer/)
+* [2024-07-04, 16:02:39](https://news.ycombinator.com/item?id=40875914) - [Air-Bus Hijacking: Silently Taking over Avionics Systems](https://dl.acm.org/doi/pdf/10.1145/3626205.3659144)
 * [2024-07-04, 16:02:20](https://news.ycombinator.com/item?id=40875913) - [Singulatron: Have your own internal AI network](https://github.com/singulatron/singulatron)
 * [2024-07-04, 15:48:34](https://news.ycombinator.com/item?id=40875814) - [Tell HN: BuildZoom posts jobs on HN, but no actual openings available](https://news.ycombinator.com/item?id=40875814)
 * [2024-07-04, 15:48:27](https://news.ycombinator.com/item?id=40875811) - [Wikipedians are hung up on the meaning of Madonna](https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2024-07-04/Discussion_report)
