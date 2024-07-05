@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-05](index.md)
 
+* [2024-07-05, 18:08:15](https://news.ycombinator.com/item?id=40884806) - [UK election day 2024: traffic trends and attacks on political parties](https://blog.cloudflare.com/uk-election-day-2024-traffic-trends-and-attacks-on-political-parties)
 * [2024-07-05, 17:04:45](https://news.ycombinator.com/item?id=40884356) - [Let's Stop Counting Centuries](https://dynomight.net/centuries/)
 * [2024-07-05, 17:02:03](https://news.ycombinator.com/item?id=40884331) - [Synchronous Core, Asynchronous Shell](https://blog.sulami.xyz/posts/sync-core-async-shell/)
 * [2024-07-05, 17:00:39](https://news.ycombinator.com/item?id=40884321) - [Carma (YC W24) Hiring an 10x Founding Full-Stack Engineer (Top Base and %)](https://www.ycombinator.com/companies/carma/jobs/v6CTeFv-founding-full-stack-software-engineer-react-react-native-node-js-nestjs)

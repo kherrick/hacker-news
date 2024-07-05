@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-05, 18:08:15](https://news.ycombinator.com/item?id=40884806) - [UK election day 2024: traffic trends and attacks on political parties](https://blog.cloudflare.com/uk-election-day-2024-traffic-trends-and-attacks-on-political-parties)
 * [2024-07-05, 17:00:39](https://news.ycombinator.com/item?id=40884321) - [Carma (YC W24) Hiring an 10x Founding Full-Stack Engineer (Top Base and %)](https://www.ycombinator.com/companies/carma/jobs/v6CTeFv-founding-full-stack-software-engineer-react-react-native-node-js-nestjs)
 * [2024-07-05, 15:57:18](https://news.ycombinator.com/item?id=40883839) - [Ente Auth: open-source Authy alternative for 2FA](https://ente.io/auth/)
-* [2024-07-05, 15:31:02](https://news.ycombinator.com/item?id=40883607) - [Harvester pulls 1.5 gallons of drinking water from arid air per day](https://newatlas.com/technology/water-harvester-arid-air-mit/)
 * [2024-07-05, 15:23:57](https://news.ycombinator.com/item?id=40883546) - [Vertical-Align: All You Need to Know (CSS)](https://christopheraue.net/design/vertical-align)
 * [2024-07-05, 14:48:14](https://news.ycombinator.com/item?id=40883277) - [Put the DVD logo in the corner (2023)](https://eieio.games/game-diary/game-6-get-the-dvd-logo-into-the-corner/)
 * [2024-07-05, 14:11:40](https://news.ycombinator.com/item?id=40882898) - [Something happens to everyone](https://www.alexmolas.com/2024/07/05/something-happens-everyone.html)
