@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-05, 18:37:10](https://news.ycombinator.com/item?id=40884998) - [Five common English words we don't know the origins of–including 'boy' and 'dog'](https://phys.org/news/2024-07-common-english-words-dont-boy.html)
 * [2024-07-05, 18:08:15](https://news.ycombinator.com/item?id=40884806) - [UK election day 2024: traffic trends and attacks on political parties](https://blog.cloudflare.com/uk-election-day-2024-traffic-trends-and-attacks-on-political-parties)
 * [2024-07-05, 18:06:01](https://news.ycombinator.com/item?id=40884790) - [Mysterious export controls on quantum computers](https://www.newscientist.com/article/2436023-multiple-nations-enact-mysterious-export-controls-on-quantum-computers/)
 * [2024-07-05, 17:42:34](https://news.ycombinator.com/item?id=40884603) - [Fossil of Neanderthal child with Down's syndrome hints early humans' compassion](https://www.theguardian.com/science/article/2024/jun/26/fossil-of-neanderthal-child-with-downs-syndrome-hints-at-early-humans-compassion)
@@ -18,6 +17,7 @@
 * [2024-07-05, 02:02:10](https://news.ycombinator.com/item?id=40879376) - [The IBM Magnetic Tape Selectric Composer](https://blog.bruchez.name/posts/ibm-mt-sc-1/)
 * [2024-07-04, 23:42:34](https://news.ycombinator.com/item?id=40878901) - [Reverse engineering a smartwatch](https://medium.com/csg-govtech/reverse-engineering-a-smartwatch-a7cec52b29c8)
 * [2024-07-04, 23:42:21](https://news.ycombinator.com/item?id=40878895) - [Bone tissue reparation using coral and marine sponges](https://web.stanford.edu/group/mota/education/Physics%2087N%20Final%20Projects/Group%20Gamma/bone.htm)
+* [2024-07-04, 20:14:57](https://news.ycombinator.com/item?id=40877708) - [Show HN: Foorr – A minimal to-do app with social accountability](https://foorr.com/)
 * [2024-07-04, 20:06:05](https://news.ycombinator.com/item?id=40877668) - [Map of Pontypandy in Fireman Sam](https://two-wrongs.com/map-of-pontypandy-in-fireman-sam.html)
 * [2024-07-04, 17:32:20](https://news.ycombinator.com/item?id=40876614) - [Footfall patterns and stride parameters of Common hippopotamus on land](https://peerj.com/articles/17675/)
 * [2024-07-04, 17:20:18](https://news.ycombinator.com/item?id=40876528) - [Programmable Matter – 3D Catoms](https://www.programmable-matter.com/technology/3d-catoms)
