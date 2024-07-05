@@ -92,6 +92,7 @@
 * [2024-07-02, 13:13:02](https://news.ycombinator.com/item?id=40856316) - [The case against morning yoga, daily routines, and endless meetings](https://andrewchen.substack.com/p/10x-work-versus-1x-work)
 * [2024-07-02, 13:11:04](https://news.ycombinator.com/item?id=40856297) - [For the Love of God, Stop Using CPU Limits on Kubernetes](https://home.robusta.dev/blog/stop-using-cpu-limits)
 * [2024-07-02, 13:01:21](https://news.ycombinator.com/item?id=40856225) - [Island restoration to rebuild seabird populations and amplify coral reefs](https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14313)
+* [2024-07-02, 12:49:47](https://news.ycombinator.com/item?id=40856123) - [Fiwix: Unix-like kernel for the i386 architecture](https://github.com/mikaku/Fiwix)
 * [2024-07-02, 12:36:58](https://news.ycombinator.com/item?id=40856030) - [Why Is Chile So Long?](https://unchartedterritories.tomaspueyo.com/p/why-is-chile-so-long)
 * [2024-07-02, 12:34:55](https://news.ycombinator.com/item?id=40856014) - [New insights: Barbegal water mills](https://www.sciencedaily.com/releases/2024/07/240701131824.htm)
 * [2024-07-02, 12:00:54](https://news.ycombinator.com/item?id=40855785) - [Lago – Open-Source Usage Based Billing Is Hiring a Data Scientist (EU-Based)](https://www.ycombinator.com/companies/lago/jobs/O7dCOie-data-scientist)
