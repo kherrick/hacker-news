@@ -18,7 +18,7 @@
 * [2024-07-05, 11:27:10](https://news.ycombinator.com/item?id=40881836) - [Show HN: I’ve made a cheaper SEO research tool](https://withtelescope.com)
 * [2024-07-05, 08:42:27](https://news.ycombinator.com/item?id=40880932) - [I have no constructor, and I must initialize](https://consteval.ca/2024/07/03/initialization/)
 * [2024-07-05, 02:02:10](https://news.ycombinator.com/item?id=40879376) - [The IBM Magnetic Tape Selectric Composer](https://blog.bruchez.name/posts/ibm-mt-sc-1/)
-* [2024-07-04, 23:42:34](https://news.ycombinator.com/item?id=40878901) - [Reverse engineering a smartwatch](https://medium.com/csg-govtech/reverse-engineering-a-smartwatch-a7cec52b29c8)
+* [2024-07-04, 20:14:57](https://news.ycombinator.com/item?id=40877708) - [Show HN: Foorr – A minimal to-do app with social accountability](https://foorr.com/)
 * [2024-07-04, 20:06:05](https://news.ycombinator.com/item?id=40877668) - [Map of Pontypandy in Fireman Sam](https://two-wrongs.com/map-of-pontypandy-in-fireman-sam.html)
 * [2024-07-04, 17:20:18](https://news.ycombinator.com/item?id=40876528) - [Programmable Matter – 3D Catoms](https://www.programmable-matter.com/technology/3d-catoms)
 * [2024-07-02, 18:21:51](https://news.ycombinator.com/item?id=40859160) - [Five Things to Know About the Diamond Sutra, the Oldest Dated Printed Book](https://www.smithsonianmag.com/smart-news/Five-things-to-know-about-diamond-sutra-worlds-oldest-dated-printed-book-180959052/)
