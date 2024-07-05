@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-05, 17:02:03",
+      "https://news.ycombinator.com/item?id=40884331"
+    ],
+    [
+      "Synchronous Core, Asynchronous Shell",
+      "https://blog.sulami.xyz/posts/sync-core-async-shell/"
+    ]
+  ],
+  [
+    [
       "2024-07-05, 17:00:39",
       "https://news.ycombinator.com/item?id=40884321"
     ],
@@ -37,16 +47,6 @@
     [
       "The blood substitute? The U.S. military is betting $46M on it – Science – AAAS",
       "https://www.science.org/content/article/ultimate-blood-substitute-us-military-betting-46-million"
-    ]
-  ],
-  [
-    [
-      "2024-07-05, 12:23:09",
-      "https://news.ycombinator.com/item?id=40882077"
-    ],
-    [
-      "I was at AMD in the mid-late 2000s helping design CPU/APU/GPUs",
-      "https://twitter.com/mohapatrahemant/status/1809135345683841050"
     ]
   ],
   [
@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2024-07-03, 14:54:19",
+      "https://news.ycombinator.com/item?id=40866528"
+    ],
+    [
+      "Background of Linux's \"file-max\" and \"nr_open\" limits on file descriptors (2021)",
+      "https://utcc.utoronto.ca/~cks/space/blog/unix/TwoFileDescriptorLimits"
+    ]
+  ],
+  [
+    [
       "2024-07-02, 17:45:46",
       "https://news.ycombinator.com/item?id=40858878"
     ],
@@ -277,16 +287,6 @@
     [
       "Hydrothermal environment discovered deep beneath the ocean",
       "https://www.sciencealert.com/incredible-hydrothermal-environment-discovered-deep-beneath-the-ocean"
-    ]
-  ],
-  [
-    [
-      "2024-07-01, 13:21:33",
-      "https://news.ycombinator.com/item?id=40845628"
-    ],
-    [
-      "Shipt’s algorithm squeezed gig workers, who fought back",
-      "https://spectrum.ieee.org/shipt"
     ]
   ],
   [
