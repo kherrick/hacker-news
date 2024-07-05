@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-05, 06:46:24](https://news.ycombinator.com/item?id=40880322) - [Why Vivaldi won't follow the current AI trend?](https://vivaldi.com/blog/technology/vivaldi-wont-allow-a-machine-to-lie-to-you/)
 * [2024-07-05, 05:38:18](https://news.ycombinator.com/item?id=40880077) - [Sony Is Killing the Blu-ray, but Physical Media Isn't Dead Yet](https://www.kotaku.com.au/2024/07/sony-is-killing-the-blu-ray-but-physical-media-isnt-dead-yet/)
 * [2024-07-05, 04:48:03](https://news.ycombinator.com/item?id=40879899) - [\"Technical\" Skills](https://sashalaundy.com/writing/technical-skills/)
 * [2024-07-05, 03:24:45](https://news.ycombinator.com/item?id=40879620) - [General Electric HTRE-3 Nuclear Jet Engine](https://planehistoria.com/general-electric-htre-3-nuclear-jet-engine/)
@@ -14,7 +15,6 @@
 * [2024-07-04, 18:04:00](https://news.ycombinator.com/item?id=40876848) - [SCIM: Ncurses based, Vim-like spreadsheet](https://github.com/andmarti1424/sc-im)
 * [2024-07-04, 16:53:59](https://news.ycombinator.com/item?id=40876342) - [The Origin of Ambergris (2012)](https://press.uchicago.edu/books/excerpt/2012/kemp_floating.html)
 * [2024-07-04, 16:03:32](https://news.ycombinator.com/item?id=40875924) - [Mechanical computer relies on kirigami cubes, not electronics](https://news.ncsu.edu/2024/06/kirigami-mechanical-computer/)
-* [2024-07-04, 15:34:08](https://news.ycombinator.com/item?id=40875702) - [Ready Player Mode](https://lmno.lol/alvaro/ready-player-mode)
 * [2024-07-04, 15:15:39](https://news.ycombinator.com/item?id=40875559) - [The sad state of property-based testing libraries](https://stevana.github.io/the_sad_state_of_property-based_testing_libraries.html)
 * [2024-07-04, 12:26:39](https://news.ycombinator.com/item?id=40874341) - [Twilio confirms data breach after hackers leak 33M Authy user phone numbers](https://www.securityweek.com/twilio-confirms-data-breach-after-hackers-leak-33m-authy-user-phone-numbers/)
 * [2024-07-04, 05:04:09](https://news.ycombinator.com/item?id=40872438) - [Finding near-duplicates with Jaccard similarity and MinHash](https://blog.nelhage.com/post/fuzzy-dedup/)
