@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-05](index.md)
 
+* [2024-07-05, 18:38:15](https://news.ycombinator.com/item?id=40885003) - [RTO Mandates Are Killing the Euphoric Work-Life Balance Some Moms Found](https://www.bloomberg.com/news/features/2024-06-27/return-to-office-is-killing-work-life-balance-dream-for-moms)
 * [2024-07-05, 18:26:35](https://news.ycombinator.com/item?id=40884928) - [What is e to the Power of d/dx? – Shift Operator](https://www.youtube.com/watch?v=INTKzi0qXpY)
 * [2024-07-05, 18:21:40](https://news.ycombinator.com/item?id=40884884) - [Elsevier withdraws plagiarized paper after author calls journal out on LinkedIn](https://retractionwatch.com/2024/07/04/elsevier-withdraws-plagiarized-paper-after-original-author-calls-journal-out-on-linkedin/)
 * [2024-07-05, 18:13:36](https://news.ycombinator.com/item?id=40884835) - [Adderall Shortage Caused by DEA Quotas on Controlled Substances](https://www.additudemag.com/adderall-shortage-dea-stimulants-adhd-medication/)

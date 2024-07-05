@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-05, 18:26:35](https://news.ycombinator.com/item?id=40884928) - [What is e to the Power of d/dx? – Shift Operator](https://www.youtube.com/watch?v=INTKzi0qXpY)
+* [2024-07-05, 18:38:15](https://news.ycombinator.com/item?id=40885003) - [RTO Mandates Are Killing the Euphoric Work-Life Balance Some Moms Found](https://www.bloomberg.com/news/features/2024-06-27/return-to-office-is-killing-work-life-balance-dream-for-moms)
 * [2024-07-05, 18:21:40](https://news.ycombinator.com/item?id=40884884) - [Elsevier withdraws plagiarized paper after author calls journal out on LinkedIn](https://retractionwatch.com/2024/07/04/elsevier-withdraws-plagiarized-paper-after-original-author-calls-journal-out-on-linkedin/)
 * [2024-07-05, 18:08:15](https://news.ycombinator.com/item?id=40884806) - [UK election day 2024: traffic trends and attacks on political parties](https://blog.cloudflare.com/uk-election-day-2024-traffic-trends-and-attacks-on-political-parties)
 * [2024-07-05, 18:06:01](https://news.ycombinator.com/item?id=40884790) - [Mysterious export controls on quantum computers](https://www.newscientist.com/article/2436023-multiple-nations-enact-mysterious-export-controls-on-quantum-computers/)
