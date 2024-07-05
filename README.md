@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-05, 02:15:21](https://news.ycombinator.com/item?id=40879417) - [Multiple nations enact mysterious export controls on quantum computers](https://www.newscientist.com/article/2436023-multiple-nations-enact-mysterious-export-controls-on-quantum-computers/)
+* [2024-07-04, 23:42:21](https://news.ycombinator.com/item?id=40878895) - [Bone tissue reparation using coral and marine sponges](https://web.stanford.edu/group/mota/education/Physics%2087N%20Final%20Projects/Group%20Gamma/bone.htm)
 * [2024-07-04, 21:33:02](https://news.ycombinator.com/item?id=40878222) - [The Snapdragon X Elite's Adreno iGPU](https://chipsandcheese.com/2024/07/04/the-snapdragon-x-elites-adreno-igpu/)
 * [2024-07-04, 21:00:29](https://news.ycombinator.com/item?id=40878007) - [Rollstack (YC W23) Is Hiring TypeScript Engineers in Europe](https://www.ycombinator.com/companies/rollstack-2/jobs/)
 * [2024-07-04, 20:57:52](https://news.ycombinator.com/item?id=40877992) - [NexDock turns your smartphone into a laptop](https://nexdock.com/)
@@ -27,9 +29,7 @@
 * [2024-07-02, 10:20:35](https://news.ycombinator.com/item?id=40855156) - [Should the Hawthorn Be Saved?](https://www.theatlantic.com/science/archive/2024/05/hawthorns-american-botany-species-conservation/678366/)
 * [2024-07-02, 04:50:40](https://news.ycombinator.com/item?id=40853665) - [Should this be a map or 500 maps?](https://escapethealgorithm.substack.com/p/should-this-be-a-map-or-500-maps)
 * [2024-07-01, 22:06:50](https://news.ycombinator.com/item?id=40851308) - [Exorcising Us of the Primer](https://andymatuschak.org/primer/)
-* [2024-07-01, 15:34:36](https://news.ycombinator.com/item?id=40846815) - [Racket Plot Cookbook](https://github.com/Racket-Cookbooks/Plot-cookbook)
 * [2024-07-01, 13:21:33](https://news.ycombinator.com/item?id=40845628) - [Shipt's algorithm squeezed gig workers, who fought back](https://spectrum.ieee.org/shipt)
-* [2024-06-30, 19:14:46](https://news.ycombinator.com/item?id=40839388) - [Will sending `kill -11` to Java process raises a NullPointerException?](https://stackoverflow.com/questions/77485058/will-sending-kill-11-to-java-process-raises-a-nullpointerexception)
 
 ## [Archives](archives/index.md)
 
