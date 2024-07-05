@@ -44,6 +44,7 @@
 * [2024-07-02, 18:12:41](https://news.ycombinator.com/item?id=40859084) - [Former Kansas bank CEO admits to embezzling $47M for crypto scheme](https://www.cjonline.com/story/news/crime/2024/05/28/kansas-bank-ceo-embezzled-millions-in-crypto-scheme-that-killed-bank/73843999007/)
 * [2024-07-02, 18:08:04](https://news.ycombinator.com/item?id=40859048) - [How generative AI is trying to rip the screaming soul out of the Enlightenment](https://www.asomo.co/p/generative-ai-the-emptiness-machine)
 * [2024-07-02, 18:00:04](https://news.ycombinator.com/item?id=40858981) - [Why refrigerators and other kitchen appliances break so easily now](https://www.washingtonpost.com/home/2024/07/02/why-refrigerator-oven-dishwasher-break/)
+* [2024-07-02, 17:45:46](https://news.ycombinator.com/item?id=40858878) - [Unlocking a Gary TL-15 Round-Door Safe](https://www.locksmithledger.com/keys-tools/article/10229247/unlocking-a-gary-tl-15-round-door-safe)
 * [2024-07-02, 17:42:21](https://news.ycombinator.com/item?id=40858844) - [The Submarine (2005)](https://paulgraham.com/submarine.html)
 * [2024-07-02, 17:42:03](https://news.ycombinator.com/item?id=40858841) - [Any Game of Life pattern can be constructed from just 15 gliders](https://btm.qva.mybluehost.me/building-arbitrary-life-patterns-in-15-gliders/)
 * [2024-07-02, 17:34:53](https://news.ycombinator.com/item?id=40858789) - [Study finds hybrid work benefits companies and employees](https://news.stanford.edu/stories/2024/06/hybrid-work-is-a-win-win-win-for-companies-workers)
