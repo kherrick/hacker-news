@@ -59,6 +59,7 @@
 * [2024-07-02, 16:27:25](https://news.ycombinator.com/item?id=40858165) - [The Sphere](https://mssv.net/2024/07/02/the-sphere/)
 * [2024-07-02, 16:20:35](https://news.ycombinator.com/item?id=40858113) - [Solving a math problem with planner programming](https://buttondown.email/hillelwayne/archive/solving-a-math-problem-with-planner-programming/)
 * [2024-07-02, 16:14:56](https://news.ycombinator.com/item?id=40858050) - [Google rejected me and now I'm building a search engine](https://daoudclarke.net/search%20engines/2024/07/02/google-rejected-me)
+* [2024-07-02, 16:12:15](https://news.ycombinator.com/item?id=40858023) - [Ants can carry out life-saving amputations on injured nest mates, study shows](https://www.theguardian.com/science/article/2024/jul/02/ants-emergency-amputations-injured-nest-mates-study)
 * [2024-07-02, 15:29:01](https://news.ycombinator.com/item?id=40857612) - [Ryzen 7 Mini-PC makes a power-efficient VM host](https://michael.stapelberg.ch/posts/2024-07-02-ryzen-7-mini-pc-low-power-proxmox-hypervisor/)
 * [2024-07-02, 15:26:47](https://news.ycombinator.com/item?id=40857589) - [Show HN: SQL Explorer – Open-source reporting tool that Just Works](https://github.com/explorerhq/django-sql-explorer)
 * [2024-07-02, 15:26:32](https://news.ycombinator.com/item?id=40857584) - [Total Annihilation Graphics Engine (2012)](http://mavorsrants.blogspot.com/2012/04/total-annihilation-graphics-engine.html)

@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-05, 21:00:47](https://news.ycombinator.com/item?id=40885968) - [Emerge Tools (YC W21) Is Hiring a Product Engineer (iOS, Full-Stack)](https://www.emergetools.com/careers/jobs/product-engineer-ios-full-stack)
-* [2024-07-05, 21:00:08](https://news.ycombinator.com/item?id=40885961) - [What if everything is conscious?](https://www.vox.com/future-perfect/353430/what-if-absolutely-everything-is-conscious)
 * [2024-07-05, 20:56:26](https://news.ycombinator.com/item?id=40885925) - [7-Eleven Is Reinventing Its $17B Food Business to Be More Japanese [video]](https://www.youtube.com/watch?v=RATHbP1bAhI)
 * [2024-07-05, 20:28:47](https://news.ycombinator.com/item?id=40885710) - [DJI Announces an Electric Mountain Bike Drive System](https://www.dji.com/sg/newsroom/news/dji-launch-avinox-drive-system-en)
 * [2024-07-05, 20:09:06](https://news.ycombinator.com/item?id=40885571) - [Philip Morris International has funded Japanese academics](https://www.bath.ac.uk/announcements/philip-morris-international-has-secretly-funded-japanese-academics/)
@@ -26,6 +25,7 @@
 * [2024-07-02, 18:21:51](https://news.ycombinator.com/item?id=40859160) - [Five Things to Know About the Diamond Sutra, the Oldest Dated Printed Book](https://www.smithsonianmag.com/smart-news/Five-things-to-know-about-diamond-sutra-worlds-oldest-dated-printed-book-180959052/)
 * [2024-07-02, 18:21:10](https://news.ycombinator.com/item?id=40859152) - [Pwning a Brother labelmaker, for fun and interop](https://sdomi.pl/weblog/20-pwning-a-labelmaker/)
 * [2024-07-02, 17:45:46](https://news.ycombinator.com/item?id=40858878) - [Unlocking a Gary TL-15 Round-Door Safe (2009)](https://www.locksmithledger.com/keys-tools/article/10229247/unlocking-a-gary-tl-15-round-door-safe)
+* [2024-07-02, 16:12:15](https://news.ycombinator.com/item?id=40858023) - [Ants can carry out life-saving amputations on injured nest mates, study shows](https://www.theguardian.com/science/article/2024/jul/02/ants-emergency-amputations-injured-nest-mates-study)
 * [2024-07-02, 15:26:47](https://news.ycombinator.com/item?id=40857589) - [Show HN: SQL Explorer – Open-source reporting tool that Just Works](https://github.com/explorerhq/django-sql-explorer)
 * [2024-07-02, 12:49:47](https://news.ycombinator.com/item?id=40856123) - [Fiwix: Unix-like kernel for the i386 architecture](https://github.com/mikaku/Fiwix)
 * [2024-07-02, 01:32:51](https://news.ycombinator.com/item?id=40852733) - [Config 2024: In defense of an old pixel [video]](https://www.youtube.com/watch?v=SDI8ubVZi7w)
