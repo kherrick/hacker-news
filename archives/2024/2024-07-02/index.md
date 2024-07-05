@@ -92,6 +92,7 @@
 * [2024-07-02, 13:11:04](https://news.ycombinator.com/item?id=40856297) - [For the Love of God, Stop Using CPU Limits on Kubernetes](https://home.robusta.dev/blog/stop-using-cpu-limits)
 * [2024-07-02, 13:01:21](https://news.ycombinator.com/item?id=40856225) - [Island restoration to rebuild seabird populations and amplify coral reefs](https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14313)
 * [2024-07-02, 12:36:58](https://news.ycombinator.com/item?id=40856030) - [Why Is Chile So Long?](https://unchartedterritories.tomaspueyo.com/p/why-is-chile-so-long)
+* [2024-07-02, 12:34:55](https://news.ycombinator.com/item?id=40856014) - [New insights: Barbegal water mills](https://www.sciencedaily.com/releases/2024/07/240701131824.htm)
 * [2024-07-02, 12:00:54](https://news.ycombinator.com/item?id=40855785) - [Lago – Open-Source Usage Based Billing Is Hiring a Data Scientist (EU-Based)](https://www.ycombinator.com/companies/lago/jobs/O7dCOie-data-scientist)
 * [2024-07-02, 11:59:54](https://news.ycombinator.com/item?id=40855773) - [How random are TOTP codes?](https://shkspr.mobi/blog/2024/07/how-random-are-totp-codes/)
 * [2024-07-02, 11:42:03](https://news.ycombinator.com/item?id=40855643) - [Some sanity for C and C++ development on Windows](https://nullprogram.com/blog/2021/12/30/)

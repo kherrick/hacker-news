@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-05](index.md)
 
+* [2024-07-05, 12:13:27](https://news.ycombinator.com/item?id=40882019) - [Fresh wind blows from supernova recorded in 1181](https://www.u-tokyo.ac.jp/focus/en/press/z0508_00361.html)
+* [2024-07-05, 12:00:19](https://news.ycombinator.com/item?id=40881964) - [Confido (YC S21) Is Hiring](https://www.ycombinator.com/companies/confido/jobs/xyw5xRU-full-stack-engineer)
+* [2024-07-05, 11:27:10](https://news.ycombinator.com/item?id=40881836) - [Show HN: I've made Keyword Research tool that's 90% cheaper than anything](https://withtelescope.com)
 * [2024-07-05, 09:10:14](https://news.ycombinator.com/item?id=40881111) - [UK election live updates: Labour Party wins enough seats to form majority gov](https://apnews.com/live/uk-election-results-updates)
 * [2024-07-05, 08:52:04](https://news.ycombinator.com/item?id=40880987) - [Shapeways Files for Bankruptcy](https://hackaday.com/2024/07/04/shapeways-files-for-bankruptcy/)
 * [2024-07-05, 08:49:37](https://news.ycombinator.com/item?id=40880975) - [Google takes first major step: E2EE interoperability across all messaging apps](https://www.androidauthority.com/google-mls-e2ee-messages-3457483/)
