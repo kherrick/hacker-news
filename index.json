@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-05, 04:48:03",
+      "https://news.ycombinator.com/item?id=40879899"
+    ],
+    [
+      "\"Technical\" Skills",
+      "https://sashalaundy.com/writing/technical-skills/"
+    ]
+  ],
+  [
+    [
       "2024-07-05, 03:42:07",
       "https://news.ycombinator.com/item?id=40879675"
     ],
@@ -187,16 +197,6 @@
     [
       "Building a data compression utility in Haskell using Huffman codes",
       "https://lazamar.github.io/haskell-data-compression-with-huffman-codes/"
-    ]
-  ],
-  [
-    [
-      "2024-07-04, 02:09:20",
-      "https://news.ycombinator.com/item?id=40871783"
-    ],
-    [
-      "Diffusion Forcing: Next-Token Prediction Meets Full-Sequence Diffusion",
-      "https://boyuan.space/diffusion-forcing/"
     ]
   ],
   [
