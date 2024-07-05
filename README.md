@@ -2,6 +2,7 @@
 
 * [2024-07-05, 12:49:27](https://news.ycombinator.com/item?id=40882259) - [ChatGPT just (accidentally) shared all of its secret rules](https://www.techradar.com/computing/artificial-intelligence/chatgpt-just-accidentally-shared-all-of-its-secret-rules-heres-what-we-learned)
 * [2024-07-05, 12:47:09](https://news.ycombinator.com/item?id=40882243) - [Factorio: Space Age extension to release on October 21st 2024](https://factorio.com/blog/post/fff-418)
+* [2024-07-05, 12:41:40](https://news.ycombinator.com/item?id=40882212) - [Ask HN: Does having a betting/gambling company in your CV hurts your career?](https://news.ycombinator.com/item?id=40882212)
 * [2024-07-05, 12:33:18](https://news.ycombinator.com/item?id=40882149) - [Welsh government commits to making lying in politics illegal](https://www.theguardian.com/politics/article/2024/jul/02/welsh-government-commits-to-making-lying-in-politics)
 * [2024-07-05, 12:31:27](https://news.ycombinator.com/item?id=40882133) - [Programming in Unison](https://lwn.net/Articles/978955/)
 * [2024-07-05, 12:25:15](https://news.ycombinator.com/item?id=40882100) - [Bruce Bastian, a Founder of WordPerfect, Is Dead at 76](https://www.nytimes.com/2024/07/02/business/bruce-bastian-dead.html)
@@ -11,7 +12,6 @@
 * [2024-07-05, 12:00:19](https://news.ycombinator.com/item?id=40881964) - [Confido (YC S21) Is Hiring](https://www.ycombinator.com/companies/confido/jobs/xyw5xRU-full-stack-engineer)
 * [2024-07-05, 11:27:10](https://news.ycombinator.com/item?id=40881836) - [Show HN: I've made Keyword Research tool that's 90% cheaper than anything](https://withtelescope.com)
 * [2024-07-05, 08:42:27](https://news.ycombinator.com/item?id=40880932) - [I Have No Constructor, and I Must Initialize](https://consteval.ca/2024/07/03/initialization/)
-* [2024-07-05, 03:24:45](https://news.ycombinator.com/item?id=40879620) - [General Electric HTRE-3 Nuclear Jet Engine](https://planehistoria.com/general-electric-htre-3-nuclear-jet-engine/)
 * [2024-07-05, 02:59:25](https://news.ycombinator.com/item?id=40879541) - [Moving to a RTOS on the RP2040](https://blog.brixit.nl/moving-to-a-rtos-on-the-rp2040/)
 * [2024-07-04, 23:42:21](https://news.ycombinator.com/item?id=40878895) - [Bone tissue reparation using coral and marine sponges](https://web.stanford.edu/group/mota/education/Physics%2087N%20Final%20Projects/Group%20Gamma/bone.htm)
 * [2024-07-04, 21:33:02](https://news.ycombinator.com/item?id=40878222) - [The Snapdragon X Elite's Adreno iGPU](https://chipsandcheese.com/2024/07/04/the-snapdragon-x-elites-adreno-igpu/)
