@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-05](index.md)
 
+* [2024-07-05, 17:02:03](https://news.ycombinator.com/item?id=40884331) - [Synchronous Core, Asynchronous Shell](https://blog.sulami.xyz/posts/sync-core-async-shell/)
 * [2024-07-05, 17:00:39](https://news.ycombinator.com/item?id=40884321) - [Carma (YC W24) Hiring an 10x Founding Full-Stack Engineer (Top Base and %)](https://www.ycombinator.com/companies/carma/jobs/v6CTeFv-founding-full-stack-software-engineer-react-react-native-node-js-nestjs)
 * [2024-07-05, 16:27:50](https://news.ycombinator.com/item?id=40884055) - [Largest nuclear fusion reactor is finally completed](https://www.livescience.com/physics-mathematics/worlds-largest-nuclear-reactor-is-finally-completed-but-it-wont-run-for-another-15-years)
 * [2024-07-05, 15:38:24](https://news.ycombinator.com/item?id=40883667) - [Japan is bracing for rage against the vending machine](https://www.businessinsider.com/japan-loves-vending-machines-cash-new-banknotes-wont-work-upgrades-2024-7)

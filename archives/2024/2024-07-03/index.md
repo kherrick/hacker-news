@@ -51,6 +51,7 @@
 * [2024-07-03, 15:25:01](https://news.ycombinator.com/item?id=40866883) - [A mathematical thought experiment for accepting the continuum hypothesis](https://jdh.hamkins.org/how-ch-could-have-been-fundamental/)
 * [2024-07-03, 15:22:56](https://news.ycombinator.com/item?id=40866868) - [Building AI-powered SWE tools: Essential technical considerations for founders](https://www.innovationendeavors.com/insights/building-ai-powered-software-engineering-tools-essential-technical-considerations-for-founders)
 * [2024-07-03, 15:09:16](https://news.ycombinator.com/item?id=40866703) - [Hurricane Beryl Isn't a Freak Storm–It's the Nightmare Meteorologists Predicted](https://www.wired.com/story/hurricane-beryl-category-5-storm-extreme-weather-summer-2024/)
+* [2024-07-03, 14:54:19](https://news.ycombinator.com/item?id=40866528) - [Background of Linux's \"file-max\" and \"nr_open\" limits on file descriptors (2021)](https://utcc.utoronto.ca/~cks/space/blog/unix/TwoFileDescriptorLimits)
 * [2024-07-03, 14:47:18](https://news.ycombinator.com/item?id=40866442) - [Making a Linux-managed network switch](https://blog.brixit.nl/making-a-linux-managed-network-switch/)
 * [2024-07-03, 14:42:02](https://news.ycombinator.com/item?id=40866374) - [Do not taunt happy fun branch predictor](https://www.mattkeeter.com/blog/2023-01-25-branch/)
 * [2024-07-03, 14:35:13](https://news.ycombinator.com/item?id=40866311) - [Ask HN: Has anyone successfully pivoted from web dev to AI/ML development?](https://news.ycombinator.com/item?id=40866311)
