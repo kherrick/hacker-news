@@ -24,12 +24,12 @@
 * [2024-07-03, 21:44:47](https://news.ycombinator.com/item?id=40870280) - [The joy of reading books you don't understand](https://reactormag.com/the-joy-of-reading-books-you-dont-entirely-understand/)
 * [2024-07-03, 20:52:37](https://news.ycombinator.com/item?id=40869877) - [Show HN: Xcapture-BPF – like Linux top, but with Xray vision](https://0x.tools/)
 * [2024-07-03, 18:04:59](https://news.ycombinator.com/item?id=40868504) - [Analyzing my electricity consumption](https://zdimension.fr/analyzing-my-electricity-consumption/)
-* [2024-07-03, 11:41:39](https://news.ycombinator.com/item?id=40865010) - [Show HN: I built a full-text search for your browsing history](https://chromewebstore.google.com/detail/browspilot/apghkhaaideikcakpngbbagpjihidpng)
 * [2024-07-02, 13:01:21](https://news.ycombinator.com/item?id=40856225) - [Island restoration to rebuild seabird populations and amplify coral reefs](https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14313)
 * [2024-07-02, 10:20:35](https://news.ycombinator.com/item?id=40855156) - [Should the Hawthorn Be Saved?](https://www.theatlantic.com/science/archive/2024/05/hawthorns-american-botany-species-conservation/678366/)
 * [2024-07-02, 04:50:40](https://news.ycombinator.com/item?id=40853665) - [Should this be a map or 500 maps?](https://escapethealgorithm.substack.com/p/should-this-be-a-map-or-500-maps)
 * [2024-07-01, 22:06:50](https://news.ycombinator.com/item?id=40851308) - [Exorcising Us of the Primer](https://andymatuschak.org/primer/)
 * [2024-07-01, 13:21:33](https://news.ycombinator.com/item?id=40845628) - [Shipt's algorithm squeezed gig workers, who fought back](https://spectrum.ieee.org/shipt)
+* [2024-06-30, 18:35:50](https://news.ycombinator.com/item?id=40839055) - [Benjojo's Optical Media Survey](https://optical-media-survey.benjojo.co.uk/)
 
 ## [Archives](archives/index.md)
 
