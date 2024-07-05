@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-07-05](index.md)
 
+* [2024-07-05, 08:52:04](https://news.ycombinator.com/item?id=40880987) - [Shapeways Files for Bankruptcy](https://hackaday.com/2024/07/04/shapeways-files-for-bankruptcy/)
+* [2024-07-05, 08:04:42](https://news.ycombinator.com/item?id=40880703) - [The EU should be the heat-pump pioneer](https://www.economist.com/europe/2024/07/04/the-eu-should-be-the-worlds-heat-pump-pioneer)
+* [2024-07-05, 07:50:59](https://news.ycombinator.com/item?id=40880615) - [Amazon at 30: What next for 'The Everything Company'?](https://www.bbc.co.uk/news/articles/cqv5l6vnvqjo)
+* [2024-07-05, 07:43:20](https://news.ycombinator.com/item?id=40880582) - [Kien, the most-delayed video game in history, released after 22 years](https://www.theguardian.com/games/article/2024/jul/04/kein-the-most-delayed-video-game-in-history-released-after-22-years)
 * [2024-07-05, 07:14:59](https://news.ycombinator.com/item?id=40880442) - [Show HN: Perplexity (llama3 70B) Inline Bot on Telegram](https://www.telegrambots.ai/llama3-on-telegram)
 * [2024-07-05, 07:00:16](https://news.ycombinator.com/item?id=40880371) - [The Programmers' Identity Crisis: how do we use our powers for 'good'?](https://chelseatroy.com/2024/07/03/programmers-identity-crises-and-moral-panic/)
 * [2024-07-05, 06:46:24](https://news.ycombinator.com/item?id=40880322) - [Why Vivaldi won't follow the current AI trend?](https://vivaldi.com/blog/technology/vivaldi-wont-allow-a-machine-to-lie-to-you/)
