@@ -26,9 +26,9 @@
 * [2024-07-03, 20:52:37](https://news.ycombinator.com/item?id=40869877) - [Show HN: Xcapture-BPF – like Linux top, but with Xray vision](https://0x.tools/)
 * [2024-07-03, 18:04:59](https://news.ycombinator.com/item?id=40868504) - [Analyzing my electricity consumption](https://zdimension.fr/analyzing-my-electricity-consumption/)
 * [2024-07-02, 13:01:21](https://news.ycombinator.com/item?id=40856225) - [Island restoration to rebuild seabird populations and amplify coral reefs](https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14313)
-* [2024-07-02, 11:59:54](https://news.ycombinator.com/item?id=40855773) - [How random are TOTP codes?](https://shkspr.mobi/blog/2024/07/how-random-are-totp-codes/)
 * [2024-07-02, 04:50:40](https://news.ycombinator.com/item?id=40853665) - [Should this be a map or 500 maps?](https://escapethealgorithm.substack.com/p/should-this-be-a-map-or-500-maps)
 * [2024-07-01, 15:23:25](https://news.ycombinator.com/item?id=40846675) - [Hydrothermal Environment Discovered Deep Beneath the Ocean](https://www.sciencealert.com/incredible-hydrothermal-environment-discovered-deep-beneath-the-ocean)
+* [2024-07-01, 13:21:33](https://news.ycombinator.com/item?id=40845628) - [Shipt's algorithm squeezed gig workers, who fought back](https://spectrum.ieee.org/shipt)
 * [2024-07-01, 11:44:31](https://news.ycombinator.com/item?id=40844824) - [A landscape of consciousness: Toward a taxonomy of explanations and implications](https://www.sciencedirect.com/science/article/pii/S0079610723001128)
 
 ## [Archives](archives/index.md)
