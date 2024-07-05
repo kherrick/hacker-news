@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-05](index.md)
 
 * [2024-07-05, 14:01:45](https://news.ycombinator.com/item?id=40882807) - [The Future of AR Beyond the Vision Pro Is Already Brewing](https://www.cnet.com/tech/computing/the-future-of-ar-beyond-vision-pro-is-already-brewing/)
+* [2024-07-05, 14:01:19](https://news.ycombinator.com/item?id=40882804) - [Foust Forward: Who's afraid of the big bad Starship? – SpaceNews](https://spacenews.com/foust-forward-whos-afraid-of-the-big-bad-starship/)
 * [2024-07-05, 13:53:21](https://news.ycombinator.com/item?id=40882732) - [Rivian Amazon delivery vans catching on fire while charging: reports](https://autos.yahoo.com/electric-amazon-delivery-vans-keep-162000936.html)
 * [2024-07-05, 13:29:52](https://news.ycombinator.com/item?id=40882506) - [A new way to prevent HIV delivers dramatic results in trial](https://www.npr.org/sections/goats-and-soda/2024/07/03/g-s1-7988/hiv-prevention-drug-clinical-trial)
 * [2024-07-05, 13:24:38](https://news.ycombinator.com/item?id=40882472) - [Generative AI is a climate disaster](https://disconnect.blog/generative-ai-is-a-climate-disaster/)

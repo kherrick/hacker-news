@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-05, 14:01:45](https://news.ycombinator.com/item?id=40882807) - [The Future of AR Beyond the Vision Pro Is Already Brewing](https://www.cnet.com/tech/computing/the-future-of-ar-beyond-vision-pro-is-already-brewing/)
+* [2024-07-05, 14:01:19](https://news.ycombinator.com/item?id=40882804) - [Foust Forward: Who's afraid of the big bad Starship? – SpaceNews](https://spacenews.com/foust-forward-whos-afraid-of-the-big-bad-starship/)
 * [2024-07-05, 13:29:52](https://news.ycombinator.com/item?id=40882506) - [A new way to prevent HIV delivers dramatic results in trial](https://www.npr.org/sections/goats-and-soda/2024/07/03/g-s1-7988/hiv-prevention-drug-clinical-trial)
 * [2024-07-05, 13:21:32](https://news.ycombinator.com/item?id=40882452) - [Cloudflare 1.1.1.1 incident on June 27, 2024](https://blog.cloudflare.com/cloudflare-1111-incident-on-june-27-2024)
 * [2024-07-05, 12:23:09](https://news.ycombinator.com/item?id=40882077) - [I was at AMD in the mid-late 2000s helping design CPU/APU/GPUs](https://twitter.com/mohapatrahemant/status/1809135345683841050)
@@ -26,7 +27,6 @@
 * [2024-07-02, 15:26:47](https://news.ycombinator.com/item?id=40857589) - [Show HN: SQL Explorer – Open-source reporting tool that Just Works](https://github.com/explorerhq/django-sql-explorer)
 * [2024-07-02, 13:01:21](https://news.ycombinator.com/item?id=40856225) - [Island restoration to rebuild seabird populations and amplify coral reefs](https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14313)
 * [2024-07-02, 12:34:55](https://news.ycombinator.com/item?id=40856014) - [New insights: Barbegal water mills](https://www.sciencedaily.com/releases/2024/07/240701131824.htm)
-* [2024-07-02, 11:59:54](https://news.ycombinator.com/item?id=40855773) - [How random are TOTP codes?](https://shkspr.mobi/blog/2024/07/how-random-are-totp-codes/)
 * [2024-07-02, 04:50:40](https://news.ycombinator.com/item?id=40853665) - [Should this be a map or 500 maps?](https://escapethealgorithm.substack.com/p/should-this-be-a-map-or-500-maps)
 * [2024-07-01, 15:23:25](https://news.ycombinator.com/item?id=40846675) - [Hydrothermal Environment Discovered Deep Beneath the Ocean](https://www.sciencealert.com/incredible-hydrothermal-environment-discovered-deep-beneath-the-ocean)
 * [2024-07-01, 13:21:33](https://news.ycombinator.com/item?id=40845628) - [Shipt's algorithm squeezed gig workers, who fought back](https://spectrum.ieee.org/shipt)
