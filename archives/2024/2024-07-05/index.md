@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-07-05](index.md)
 
+* [2024-07-05, 21:00:47](https://news.ycombinator.com/item?id=40885968) - [Emerge Tools (YC W21) Is Hiring a Product Engineer (iOS, Full-Stack)](https://www.emergetools.com/careers/jobs/product-engineer-ios-full-stack)
+* [2024-07-05, 20:40:43](https://news.ycombinator.com/item?id=40885807) - [The Teton Pass collapsed in the most economically unequal county in the country](https://slate.com/business/2024/07/jackson-hole-teton-pass-collapse-inequality-housing.html)
 * [2024-07-05, 20:36:27](https://news.ycombinator.com/item?id=40885767) - [Are We Already in Recession?](https://www.profstonge.com/p/have-we-been-in-recession-for-years)
+* [2024-07-05, 20:17:51](https://news.ycombinator.com/item?id=40885632) - [Goldman on Generative AI: doesn't justify costs or solve complex problems [pdf]](https://web.archive.org/web/20240629140307/http://goldmansachs.com/intelligence/pages/gs-research/gen-ai-too-much-spend-too-little-benefit/report.pdf)
 * [2024-07-05, 20:09:06](https://news.ycombinator.com/item?id=40885571) - [Philip Morris International has funded Japanese academics](https://www.bath.ac.uk/announcements/philip-morris-international-has-secretly-funded-japanese-academics/)
 * [2024-07-05, 19:42:46](https://news.ycombinator.com/item?id=40885418) - [(10) Rounds of interviews. Never seen something like this before. This is nuts](https://twitter.com/catalinmpit/status/1808930090451153387)
 * [2024-07-05, 19:39:21](https://news.ycombinator.com/item?id=40885397) - [Research into homeopathy: data falsification, fabrication and manipulation](https://www.skeptic.org.uk/2024/07/research-into-homeopathy-data-falsification-fabrication-and-manipulation/)
