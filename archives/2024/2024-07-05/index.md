@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-07-05](index.md)
 
+* [2024-07-05, 21:35:55](https://news.ycombinator.com/item?id=40886242) - [Apple first rejected, then quickly approved, Epic's app store in Europe](https://www.ign.com/articles/epic-games-calls-out-apple-over-roadblocks-in-launching-game-store-in-europe-update)
 * [2024-07-05, 21:00:47](https://news.ycombinator.com/item?id=40885968) - [Emerge Tools (YC W21) Is Hiring a Product Engineer (iOS, Full-Stack)](https://www.emergetools.com/careers/jobs/product-engineer-ios-full-stack)
 * [2024-07-05, 21:00:08](https://news.ycombinator.com/item?id=40885961) - [What if everything is conscious?](https://www.vox.com/future-perfect/353430/what-if-absolutely-everything-is-conscious)
+* [2024-07-05, 20:56:26](https://news.ycombinator.com/item?id=40885925) - [7-Eleven Is Reinventing Its $17B Food Business to Be More Japanese [video]](https://www.youtube.com/watch?v=RATHbP1bAhI)
 * [2024-07-05, 20:40:43](https://news.ycombinator.com/item?id=40885807) - [The Teton Pass collapsed in the most economically unequal county in the country](https://slate.com/business/2024/07/jackson-hole-teton-pass-collapse-inequality-housing.html)
 * [2024-07-05, 20:36:27](https://news.ycombinator.com/item?id=40885767) - [Are We Already in Recession?](https://www.profstonge.com/p/have-we-been-in-recession-for-years)
 * [2024-07-05, 20:17:51](https://news.ycombinator.com/item?id=40885632) - [Goldman on Generative AI: doesn't justify costs or solve complex problems [pdf]](https://web.archive.org/web/20240629140307/http://goldmansachs.com/intelligence/pages/gs-research/gen-ai-too-much-spend-too-little-benefit/report.pdf)
