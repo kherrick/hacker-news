@@ -6,6 +6,7 @@
 
 * [2024-07-04, 23:42:21](https://news.ycombinator.com/item?id=40878895) - [Bone tissue reparation using coral and marine sponges](https://web.stanford.edu/group/mota/education/Physics%2087N%20Final%20Projects/Group%20Gamma/bone.htm)
 * [2024-07-04, 23:31:18](https://news.ycombinator.com/item?id=40878847) - [Dumbification of Our Smartphones](https://productidentity.co/p/the-dumbification-of-our-smart-screens#footnote-anchor-3-145928620)
+* [2024-07-04, 23:28:54](https://news.ycombinator.com/item?id=40878837) - [Even The Pentagon can't freeze Huawei out of its operations](https://fortune.com/asia/2024/07/03/pentagon-huawei-ban-national-defense-authorization-act/)
 * [2024-07-04, 22:22:32](https://news.ycombinator.com/item?id=40878538) - [Reverse Engineering the Verification QR Code on My Diploma](https://obrhubr.org/reverse-engineering-diploma)
 * [2024-07-04, 21:33:02](https://news.ycombinator.com/item?id=40878222) - [The Snapdragon X Elite's Adreno iGPU](https://chipsandcheese.com/2024/07/04/the-snapdragon-x-elites-adreno-igpu/)
 * [2024-07-04, 21:05:42](https://news.ycombinator.com/item?id=40878040) - [Ask HN: What book bit, stung and shook you deeply?](https://news.ycombinator.com/item?id=40878040)
