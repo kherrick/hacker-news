@@ -7,6 +7,7 @@
 * [2024-07-05, 09:10:14](https://news.ycombinator.com/item?id=40881111) - [UK election live updates: Labour Party wins enough seats to form majority gov](https://apnews.com/live/uk-election-results-updates)
 * [2024-07-05, 08:52:04](https://news.ycombinator.com/item?id=40880987) - [Shapeways Files for Bankruptcy](https://hackaday.com/2024/07/04/shapeways-files-for-bankruptcy/)
 * [2024-07-05, 08:49:37](https://news.ycombinator.com/item?id=40880975) - [Google takes first major step: E2EE interoperability across all messaging apps](https://www.androidauthority.com/google-mls-e2ee-messages-3457483/)
+* [2024-07-05, 08:28:44](https://news.ycombinator.com/item?id=40880860) - [The consumption of certain food emulsifiers may increase the risk of cancer](https://presse.inserm.fr/en/la-consommation-de-certains-additifs-alimentaires-emulsifiants-serait-associee-a-un-risque-accru-de-cancers/68077/)
 * [2024-07-05, 08:15:08](https://news.ycombinator.com/item?id=40880764) - [Mandatory speed limiters on EU cars from 2024](https://www.autotrader.co.uk/content/news/mandatory-speed-limiters-on-eu-cars-from-2024)
 * [2024-07-05, 08:04:42](https://news.ycombinator.com/item?id=40880703) - [The EU should be the heat-pump pioneer](https://www.economist.com/europe/2024/07/04/the-eu-should-be-the-worlds-heat-pump-pioneer)
 * [2024-07-05, 07:50:59](https://news.ycombinator.com/item?id=40880615) - [Amazon at 30: What next for 'The Everything Company'?](https://www.bbc.co.uk/news/articles/cqv5l6vnvqjo)
