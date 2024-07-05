@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-05](index.md)
 
+* [2024-07-05, 22:26:23](https://news.ycombinator.com/item?id=40886603) - [120k dead and counting A new estimate from Meduza and Mediazona](https://meduza.io/en/feature/2024/07/05/a-new-estimate-from-meduza-and-mediazona-shows-the-rate-of-russian-military-deaths-in-ukraine-is-only-growing)
+* [2024-07-05, 21:57:49](https://news.ycombinator.com/item?id=40886419) - [Tao Te Ching Translated by Ursula K. Le Guin](https://github.com/nrrb/tao-te-ching/blob/master/Ursula%20K%20Le%20Guin.md)
 * [2024-07-05, 21:35:55](https://news.ycombinator.com/item?id=40886242) - [Apple first rejected, then quickly approved, Epic's app store in Europe](https://www.ign.com/articles/epic-games-calls-out-apple-over-roadblocks-in-launching-game-store-in-europe-update)
 * [2024-07-05, 21:00:47](https://news.ycombinator.com/item?id=40885968) - [Emerge Tools (YC W21) Is Hiring a Product Engineer (iOS, Full-Stack)](https://www.emergetools.com/careers/jobs/product-engineer-ios-full-stack)
 * [2024-07-05, 21:00:08](https://news.ycombinator.com/item?id=40885961) - [What if everything is conscious?](https://www.vox.com/future-perfect/353430/what-if-absolutely-everything-is-conscious)
