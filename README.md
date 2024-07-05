@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-05, 20:36:27](https://news.ycombinator.com/item?id=40885767) - [Are We Already in Recession?](https://www.profstonge.com/p/have-we-been-in-recession-for-years)
 * [2024-07-05, 20:09:06](https://news.ycombinator.com/item?id=40885571) - [Philip Morris International has funded Japanese academics](https://www.bath.ac.uk/announcements/philip-morris-international-has-secretly-funded-japanese-academics/)
 * [2024-07-05, 19:39:21](https://news.ycombinator.com/item?id=40885397) - [Research into homeopathy: data falsification, fabrication and manipulation](https://www.skeptic.org.uk/2024/07/research-into-homeopathy-data-falsification-fabrication-and-manipulation/)
 * [2024-07-05, 19:01:13](https://news.ycombinator.com/item?id=40885155) - [YouTube's eraser tool removes copyrighted music without impacting other audio](https://techcrunch.com/2024/07/05/youtubes-updated-eraser-tool-removes-copyrighted-music-without-impacting-other-audio/)
@@ -17,6 +18,7 @@
 * [2024-07-05, 02:59:25](https://news.ycombinator.com/item?id=40879541) - [Moving to a RTOS on the RP2040](https://blog.brixit.nl/moving-to-a-rtos-on-the-rp2040/)
 * [2024-07-05, 02:02:10](https://news.ycombinator.com/item?id=40879376) - [The IBM Magnetic Tape Selectric Composer](https://blog.bruchez.name/posts/ibm-mt-sc-1/)
 * [2024-07-04, 23:42:34](https://news.ycombinator.com/item?id=40878901) - [Reverse engineering a smartwatch](https://medium.com/csg-govtech/reverse-engineering-a-smartwatch-a7cec52b29c8)
+* [2024-07-04, 20:14:57](https://news.ycombinator.com/item?id=40877708) - [Show HN: Foorr – A minimal to-do app with social accountability](https://foorr.com/)
 * [2024-07-04, 20:06:05](https://news.ycombinator.com/item?id=40877668) - [Map of Pontypandy in Fireman Sam](https://two-wrongs.com/map-of-pontypandy-in-fireman-sam.html)
 * [2024-07-04, 17:32:20](https://news.ycombinator.com/item?id=40876614) - [Footfall patterns and stride parameters of Common hippopotamus on land](https://peerj.com/articles/17675/)
 * [2024-07-04, 17:20:18](https://news.ycombinator.com/item?id=40876528) - [Programmable Matter – 3D Catoms](https://www.programmable-matter.com/technology/3d-catoms)
@@ -26,10 +28,8 @@
 * [2024-07-02, 17:45:46](https://news.ycombinator.com/item?id=40858878) - [Unlocking a Gary TL-15 Round-Door Safe (2009)](https://www.locksmithledger.com/keys-tools/article/10229247/unlocking-a-gary-tl-15-round-door-safe)
 * [2024-07-02, 15:26:47](https://news.ycombinator.com/item?id=40857589) - [Show HN: SQL Explorer – Open-source reporting tool that Just Works](https://github.com/explorerhq/django-sql-explorer)
 * [2024-07-02, 12:49:47](https://news.ycombinator.com/item?id=40856123) - [Fiwix: Unix-like kernel for the i386 architecture](https://github.com/mikaku/Fiwix)
-* [2024-07-02, 11:59:54](https://news.ycombinator.com/item?id=40855773) - [How random are TOTP codes?](https://shkspr.mobi/blog/2024/07/how-random-are-totp-codes/)
 * [2024-07-02, 00:25:22](https://news.ycombinator.com/item?id=40852335) - [Cutting Board Designer](https://www.cuttingboarddesigner.com/designer/id/7bf4dff3-9b10-8c86-9e4c-bc2722f7487f)
 * [2024-07-01, 19:06:30](https://news.ycombinator.com/item?id=40849306) - [The Past, Present, and Future of Lager Yeast](https://www.goodbeerhunting.com/blog/2024/6/18/the-past-present-and-future-of-lager-yeast)
-* [2024-07-01, 11:44:31](https://news.ycombinator.com/item?id=40844824) - [A landscape of consciousness: Toward a taxonomy of explanations and implications](https://www.sciencedirect.com/science/article/pii/S0079610723001128)
 
 ## [Archives](archives/index.md)
 
