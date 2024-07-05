@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-05, 02:37:38](https://news.ycombinator.com/item?id=40879492) - [Roku update turns on hated motion-smoothing feature, with no off switch](https://boingboing.net/2024/07/04/roku-update-turns-on-hated-motion-smoothing-feature-with-no-off-switch.html)
 * [2024-07-04, 23:42:21](https://news.ycombinator.com/item?id=40878895) - [Bone tissue reparation using coral and marine sponges](https://web.stanford.edu/group/mota/education/Physics%2087N%20Final%20Projects/Group%20Gamma/bone.htm)
-* [2024-07-04, 23:28:54](https://news.ycombinator.com/item?id=40878837) - [Even The Pentagon can't freeze Huawei out of its operations](https://fortune.com/asia/2024/07/03/pentagon-huawei-ban-national-defense-authorization-act/)
 * [2024-07-04, 21:33:02](https://news.ycombinator.com/item?id=40878222) - [The Snapdragon X Elite's Adreno iGPU](https://chipsandcheese.com/2024/07/04/the-snapdragon-x-elites-adreno-igpu/)
 * [2024-07-04, 21:00:29](https://news.ycombinator.com/item?id=40878007) - [Rollstack (YC W23) Is Hiring TypeScript Engineers in Europe](https://www.ycombinator.com/companies/rollstack-2/jobs/)
 * [2024-07-04, 20:57:52](https://news.ycombinator.com/item?id=40877992) - [NexDock turns your smartphone into a laptop](https://nexdock.com/)
