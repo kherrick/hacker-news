@@ -31,6 +31,7 @@
 * [2024-07-01, 19:30:36](https://news.ycombinator.com/item?id=40849627) - [An open letter to the United Nations](https://open-internet-governance.org/letter)
 * [2024-07-01, 19:24:05](https://news.ycombinator.com/item?id=40849545) - [Climate change to shift tropical rains northward, suggests computer modeling](https://smartwatermagazine.com/news/university-california-riverside/climate-change-shift-tropical-rains-northward-suggests-computer)
 * [2024-07-01, 19:10:52](https://news.ycombinator.com/item?id=40849363) - [A Git story: Not so fun this time](https://blog.brachiosoft.com/en/posts/git/)
+* [2024-07-01, 19:06:30](https://news.ycombinator.com/item?id=40849306) - [The Past, Present, and Future of Lager Yeast](https://www.goodbeerhunting.com/blog/2024/6/18/the-past-present-and-future-of-lager-yeast)
 * [2024-07-01, 18:46:07](https://news.ycombinator.com/item?id=40848998) - [Ask HN: what are examples of successful \"open-source alternatives\"?](https://news.ycombinator.com/item?id=40848998)
 * [2024-07-01, 18:29:13](https://news.ycombinator.com/item?id=40848797) - [Pharma firms stash profits in Europe's tax havens](https://www.investigate-europe.eu/posts/deadly-prices-pharma-firms-stash-profits-in-europes-tax-havens-as-patients-struggle-with-drug-prices)
 * [2024-07-01, 18:26:13](https://news.ycombinator.com/item?id=40848757) - [OneSignal (YC S11) Is Hiring an Engineering Manager](https://onesignal.com/careers/4381552006)
