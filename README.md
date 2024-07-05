@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-05, 02:37:38](https://news.ycombinator.com/item?id=40879492) - [Roku update turns on hated motion-smoothing feature, with no off switch](https://boingboing.net/2024/07/04/roku-update-turns-on-hated-motion-smoothing-feature-with-no-off-switch.html)
+* [2024-07-05, 02:04:58](https://news.ycombinator.com/item?id=40879381) - [Math Behind Transformers and LLMs](https://x-dev.pages.jsc.fz-juelich.de//2022/07/13/transformers-matmul.html)
 * [2024-07-04, 23:42:21](https://news.ycombinator.com/item?id=40878895) - [Bone tissue reparation using coral and marine sponges](https://web.stanford.edu/group/mota/education/Physics%2087N%20Final%20Projects/Group%20Gamma/bone.htm)
 * [2024-07-04, 21:33:02](https://news.ycombinator.com/item?id=40878222) - [The Snapdragon X Elite's Adreno iGPU](https://chipsandcheese.com/2024/07/04/the-snapdragon-x-elites-adreno-igpu/)
 * [2024-07-04, 21:00:29](https://news.ycombinator.com/item?id=40878007) - [Rollstack (YC W23) Is Hiring TypeScript Engineers in Europe](https://www.ycombinator.com/companies/rollstack-2/jobs/)
@@ -25,7 +26,6 @@
 * [2024-07-03, 20:52:37](https://news.ycombinator.com/item?id=40869877) - [Show HN: Xcapture-BPF – like Linux top, but with Xray vision](https://0x.tools/)
 * [2024-07-03, 18:04:59](https://news.ycombinator.com/item?id=40868504) - [Analyzing my electricity consumption](https://zdimension.fr/analyzing-my-electricity-consumption/)
 * [2024-07-02, 13:01:21](https://news.ycombinator.com/item?id=40856225) - [Island restoration to rebuild seabird populations and amplify coral reefs](https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14313)
-* [2024-07-02, 10:20:35](https://news.ycombinator.com/item?id=40855156) - [Should the Hawthorn Be Saved?](https://www.theatlantic.com/science/archive/2024/05/hawthorns-american-botany-species-conservation/678366/)
 * [2024-07-02, 04:50:40](https://news.ycombinator.com/item?id=40853665) - [Should this be a map or 500 maps?](https://escapethealgorithm.substack.com/p/should-this-be-a-map-or-500-maps)
 * [2024-07-01, 22:06:50](https://news.ycombinator.com/item?id=40851308) - [Exorcising Us of the Primer](https://andymatuschak.org/primer/)
 * [2024-07-01, 13:21:33](https://news.ycombinator.com/item?id=40845628) - [Shipt's algorithm squeezed gig workers, who fought back](https://spectrum.ieee.org/shipt)
