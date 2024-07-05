@@ -1,11 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-05, 17:00:39](https://news.ycombinator.com/item?id=40884321) - [Carma (YC W24) Hiring an 10x Founding Full-Stack Engineer (Top Base and %)](https://www.ycombinator.com/companies/carma/jobs/v6CTeFv-founding-full-stack-software-engineer-react-react-native-node-js-nestjs)
-* [2024-07-05, 16:27:50](https://news.ycombinator.com/item?id=40884055) - [Largest nuclear fusion reactor is finally completed](https://www.livescience.com/physics-mathematics/worlds-largest-nuclear-reactor-is-finally-completed-but-it-wont-run-for-another-15-years)
-* [2024-07-05, 15:38:24](https://news.ycombinator.com/item?id=40883667) - [Japan is bracing for rage against the vending machine](https://www.businessinsider.com/japan-loves-vending-machines-cash-new-banknotes-wont-work-upgrades-2024-7)
 * [2024-07-05, 15:31:02](https://news.ycombinator.com/item?id=40883607) - [Harvester pulls 1.5 gallons of drinking water from arid air per day](https://newatlas.com/technology/water-harvester-arid-air-mit/)
 * [2024-07-05, 14:48:14](https://news.ycombinator.com/item?id=40883277) - [Put the DVD logo in the corner (2023)](https://eieio.games/game-diary/game-6-get-the-dvd-logo-into-the-corner/)
 * [2024-07-05, 14:10:02](https://news.ycombinator.com/item?id=40882881) - [The blood substitute? The U.S. military is betting $46M on it – Science – AAAS](https://www.science.org/content/article/ultimate-blood-substitute-us-military-betting-46-million)
+* [2024-07-05, 12:23:09](https://news.ycombinator.com/item?id=40882077) - [I was at AMD in the mid-late 2000s helping design CPU/APU/GPUs](https://twitter.com/mohapatrahemant/status/1809135345683841050)
 * [2024-07-05, 12:13:27](https://news.ycombinator.com/item?id=40882019) - [Fresh wind blows from historical supernova](https://www.u-tokyo.ac.jp/focus/en/press/z0508_00361.html)
 * [2024-07-05, 11:27:10](https://news.ycombinator.com/item?id=40881836) - [Show HN: I’ve made a cheaper SEO research tool](https://withtelescope.com)
 * [2024-07-05, 08:42:27](https://news.ycombinator.com/item?id=40880932) - [I have no constructor, and I must initialize](https://consteval.ca/2024/07/03/initialization/)
@@ -29,6 +28,7 @@
 * [2024-07-02, 04:50:40](https://news.ycombinator.com/item?id=40853665) - [Should this be a map or 500 maps?](https://escapethealgorithm.substack.com/p/should-this-be-a-map-or-500-maps)
 * [2024-07-02, 00:25:22](https://news.ycombinator.com/item?id=40852335) - [Cutting Board Designer](https://www.cuttingboarddesigner.com/designer/id/7bf4dff3-9b10-8c86-9e4c-bc2722f7487f)
 * [2024-07-01, 15:23:25](https://news.ycombinator.com/item?id=40846675) - [Hydrothermal environment discovered deep beneath the ocean](https://www.sciencealert.com/incredible-hydrothermal-environment-discovered-deep-beneath-the-ocean)
+* [2024-07-01, 13:21:33](https://news.ycombinator.com/item?id=40845628) - [Shipt’s algorithm squeezed gig workers, who fought back](https://spectrum.ieee.org/shipt)
 * [2024-07-01, 11:44:31](https://news.ycombinator.com/item?id=40844824) - [A landscape of consciousness: Toward a taxonomy of explanations and implications](https://www.sciencedirect.com/science/article/pii/S0079610723001128)
 
 ## [Archives](archives/index.md)
