@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-05, 17:02:03](https://news.ycombinator.com/item?id=40884331) - [Synchronous Core, Asynchronous Shell](https://blog.sulami.xyz/posts/sync-core-async-shell/)
+* [2024-07-05, 17:04:45](https://news.ycombinator.com/item?id=40884356) - [Let's Stop Counting Centuries](https://dynomight.net/centuries/)
 * [2024-07-05, 17:00:39](https://news.ycombinator.com/item?id=40884321) - [Carma (YC W24) Hiring an 10x Founding Full-Stack Engineer (Top Base and %)](https://www.ycombinator.com/companies/carma/jobs/v6CTeFv-founding-full-stack-software-engineer-react-react-native-node-js-nestjs)
+* [2024-07-05, 15:57:18](https://news.ycombinator.com/item?id=40883839) - [Ente Auth: open-source Authy alternative for 2FA](https://ente.io/auth/)
 * [2024-07-05, 15:31:02](https://news.ycombinator.com/item?id=40883607) - [Harvester pulls 1.5 gallons of drinking water from arid air per day](https://newatlas.com/technology/water-harvester-arid-air-mit/)
 * [2024-07-05, 14:48:14](https://news.ycombinator.com/item?id=40883277) - [Put the DVD logo in the corner (2023)](https://eieio.games/game-diary/game-6-get-the-dvd-logo-into-the-corner/)
 * [2024-07-05, 14:10:02](https://news.ycombinator.com/item?id=40882881) - [The blood substitute? The U.S. military is betting $46M on it – Science – AAAS](https://www.science.org/content/article/ultimate-blood-substitute-us-military-betting-46-million)
@@ -16,7 +17,6 @@
 * [2024-07-04, 18:04:00](https://news.ycombinator.com/item?id=40876848) - [SCIM: Ncurses based, Vim-like spreadsheet](https://github.com/andmarti1424/sc-im)
 * [2024-07-04, 16:03:32](https://news.ycombinator.com/item?id=40875924) - [Mechanical computer relies on kirigami cubes, not electronics](https://news.ncsu.edu/2024/06/kirigami-mechanical-computer/)
 * [2024-07-04, 15:15:39](https://news.ycombinator.com/item?id=40875559) - [The sad state of property-based testing libraries](https://stevana.github.io/the_sad_state_of_property-based_testing_libraries.html)
-* [2024-07-04, 05:04:09](https://news.ycombinator.com/item?id=40872438) - [Finding near-duplicates with Jaccard similarity and MinHash](https://blog.nelhage.com/post/fuzzy-dedup/)
 * [2024-07-04, 04:29:12](https://news.ycombinator.com/item?id=40872332) - [Building a data compression utility in Haskell using Huffman codes](https://lazamar.github.io/haskell-data-compression-with-huffman-codes/)
 * [2024-07-03, 21:47:43](https://news.ycombinator.com/item?id=40870301) - [Oldest cave art found](https://www.bbc.com/news/articles/c0vewjq4dxwo)
 * [2024-07-03, 18:04:59](https://news.ycombinator.com/item?id=40868504) - [Analyzing my electricity consumption](https://zdimension.fr/analyzing-my-electricity-consumption/)
