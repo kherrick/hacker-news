@@ -2,7 +2,6 @@
 
 * [2024-07-05, 12:49:27](https://news.ycombinator.com/item?id=40882259) - [ChatGPT just (accidentally) shared all of its secret rules](https://www.techradar.com/computing/artificial-intelligence/chatgpt-just-accidentally-shared-all-of-its-secret-rules-heres-what-we-learned)
 * [2024-07-05, 12:47:09](https://news.ycombinator.com/item?id=40882243) - [Factorio: Space Age extension to release on October 21st 2024](https://factorio.com/blog/post/fff-418)
-* [2024-07-05, 12:41:40](https://news.ycombinator.com/item?id=40882212) - [Ask HN: Does having a betting/gambling company in your CV hurts your career?](https://news.ycombinator.com/item?id=40882212)
 * [2024-07-05, 12:33:18](https://news.ycombinator.com/item?id=40882149) - [Welsh government commits to making lying in politics illegal](https://www.theguardian.com/politics/article/2024/jul/02/welsh-government-commits-to-making-lying-in-politics)
 * [2024-07-05, 12:31:27](https://news.ycombinator.com/item?id=40882133) - [Programming in Unison](https://lwn.net/Articles/978955/)
 * [2024-07-05, 12:25:15](https://news.ycombinator.com/item?id=40882100) - [Bruce Bastian, a Founder of WordPerfect, Is Dead at 76](https://www.nytimes.com/2024/07/02/business/bruce-bastian-dead.html)
@@ -22,6 +21,7 @@
 * [2024-07-04, 04:29:12](https://news.ycombinator.com/item?id=40872332) - [Building a data compression utility in Haskell using Huffman codes](https://lazamar.github.io/haskell-data-compression-with-huffman-codes/)
 * [2024-07-03, 21:55:13](https://news.ycombinator.com/item?id=40870357) - [The Origins of DS_store (2006)](https://www.arno.org/on-the-origins-of-ds-store)
 * [2024-07-03, 21:47:43](https://news.ycombinator.com/item?id=40870301) - [Oldest cave art found](https://www.bbc.com/news/articles/c0vewjq4dxwo)
+* [2024-07-03, 21:44:47](https://news.ycombinator.com/item?id=40870280) - [The joy of reading books you don't understand](https://reactormag.com/the-joy-of-reading-books-you-dont-entirely-understand/)
 * [2024-07-03, 20:52:37](https://news.ycombinator.com/item?id=40869877) - [Show HN: Xcapture-BPF – like Linux top, but with Xray vision](https://0x.tools/)
 * [2024-07-03, 18:04:59](https://news.ycombinator.com/item?id=40868504) - [Analyzing my electricity consumption](https://zdimension.fr/analyzing-my-electricity-consumption/)
 * [2024-07-02, 17:45:46](https://news.ycombinator.com/item?id=40858878) - [Unlocking a Gary TL-15 Round-Door Safe](https://www.locksmithledger.com/keys-tools/article/10229247/unlocking-a-gary-tl-15-round-door-safe)
