@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-05, 05:38:18](https://news.ycombinator.com/item?id=40880077) - [Sony Is Killing the Blu-ray, but Physical Media Isn't Dead Yet](https://www.kotaku.com.au/2024/07/sony-is-killing-the-blu-ray-but-physical-media-isnt-dead-yet/)
 * [2024-07-05, 04:48:03](https://news.ycombinator.com/item?id=40879899) - [\"Technical\" Skills](https://sashalaundy.com/writing/technical-skills/)
 * [2024-07-05, 03:42:07](https://news.ycombinator.com/item?id=40879675) - [Why Michigan Still Uses a Ford Model T for Official Government Business](https://www.theautopian.com/heres-why-michigan-still-uses-a-ford-model-t-for-official-government-business/)
 * [2024-07-05, 03:37:45](https://news.ycombinator.com/item?id=40879667) - [Could the 'flying piano' help transform air cargo?](https://www.bbc.com/news/articles/c0kk4lxe702o)
@@ -9,7 +10,6 @@
 * [2024-07-04, 23:42:21](https://news.ycombinator.com/item?id=40878895) - [Bone tissue reparation using coral and marine sponges](https://web.stanford.edu/group/mota/education/Physics%2087N%20Final%20Projects/Group%20Gamma/bone.htm)
 * [2024-07-04, 21:33:02](https://news.ycombinator.com/item?id=40878222) - [The Snapdragon X Elite's Adreno iGPU](https://chipsandcheese.com/2024/07/04/the-snapdragon-x-elites-adreno-igpu/)
 * [2024-07-04, 21:00:29](https://news.ycombinator.com/item?id=40878007) - [Rollstack (YC W23) Is Hiring TypeScript Engineers in Europe](https://www.ycombinator.com/companies/rollstack-2/jobs/)
-* [2024-07-04, 20:57:52](https://news.ycombinator.com/item?id=40877992) - [NexDock turns your smartphone into a laptop](https://nexdock.com/)
 * [2024-07-04, 19:20:25](https://news.ycombinator.com/item?id=40877337) - [Batteries: How cheap can they get?](https://aukehoekstra.substack.com/p/batteries-how-cheap-can-they-get)
 * [2024-07-04, 18:50:09](https://news.ycombinator.com/item?id=40877136) - [Insights from over 10,000 comments on \"Ask HN: Who Is Hiring\" using GPT-4o](https://tamerc.com/posts/ask-hn-who-is-hiring/)
 * [2024-07-04, 18:04:00](https://news.ycombinator.com/item?id=40876848) - [SCIM: Ncurses based, Vim-like spreadsheet](https://github.com/andmarti1424/sc-im)
