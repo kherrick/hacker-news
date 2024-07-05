@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-05](index.md)
 
+* [2024-07-05, 07:14:59](https://news.ycombinator.com/item?id=40880442) - [Show HN: Perplexity (llama3 70B) Inline Bot on Telegram](https://www.telegrambots.ai/llama3-on-telegram)
+* [2024-07-05, 07:00:16](https://news.ycombinator.com/item?id=40880371) - [The Programmers' Identity Crisis: how do we use our powers for 'good'?](https://chelseatroy.com/2024/07/03/programmers-identity-crises-and-moral-panic/)
 * [2024-07-05, 06:46:24](https://news.ycombinator.com/item?id=40880322) - [Why Vivaldi won't follow the current AI trend?](https://vivaldi.com/blog/technology/vivaldi-wont-allow-a-machine-to-lie-to-you/)
 * [2024-07-05, 05:38:18](https://news.ycombinator.com/item?id=40880077) - [Sony Is Killing the Blu-ray, but Physical Media Isn't Dead Yet](https://www.kotaku.com.au/2024/07/sony-is-killing-the-blu-ray-but-physical-media-isnt-dead-yet/)
 * [2024-07-05, 04:48:03](https://news.ycombinator.com/item?id=40879899) - [\"Technical\" Skills](https://sashalaundy.com/writing/technical-skills/)
