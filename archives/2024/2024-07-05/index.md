@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-07-05](index.md)
 
+* [2024-07-05, 18:21:40](https://news.ycombinator.com/item?id=40884884) - [Elsevier withdraws plagiarized paper after author calls journal out on LinkedIn](https://retractionwatch.com/2024/07/04/elsevier-withdraws-plagiarized-paper-after-original-author-calls-journal-out-on-linkedin/)
 * [2024-07-05, 18:13:36](https://news.ycombinator.com/item?id=40884835) - [Adderall Shortage Caused by DEA Quotas on Controlled Substances](https://www.additudemag.com/adderall-shortage-dea-stimulants-adhd-medication/)
 * [2024-07-05, 18:08:15](https://news.ycombinator.com/item?id=40884806) - [UK election day 2024: traffic trends and attacks on political parties](https://blog.cloudflare.com/uk-election-day-2024-traffic-trends-and-attacks-on-political-parties)
 * [2024-07-05, 18:06:01](https://news.ycombinator.com/item?id=40884790) - [Mysterious export controls on quantum computers](https://www.newscientist.com/article/2436023-multiple-nations-enact-mysterious-export-controls-on-quantum-computers/)
+* [2024-07-05, 17:42:34](https://news.ycombinator.com/item?id=40884603) - [Fossil of Neanderthal child with Down's syndrome hints early humans' compassion](https://www.theguardian.com/science/article/2024/jun/26/fossil-of-neanderthal-child-with-downs-syndrome-hints-at-early-humans-compassion)
+* [2024-07-05, 17:30:53](https://news.ycombinator.com/item?id=40884523) - [Volcanoes Can Affect Climate](https://www.usgs.gov/programs/VHP/volcanoes-can-affect-climate)
 * [2024-07-05, 17:04:45](https://news.ycombinator.com/item?id=40884356) - [Let's Stop Counting Centuries](https://dynomight.net/centuries/)
 * [2024-07-05, 17:02:03](https://news.ycombinator.com/item?id=40884331) - [Synchronous Core, Asynchronous Shell](https://blog.sulami.xyz/posts/sync-core-async-shell/)
 * [2024-07-05, 17:00:39](https://news.ycombinator.com/item?id=40884321) - [Carma (YC W24) Hiring an 10x Founding Full-Stack Engineer (Top Base and %)](https://www.ycombinator.com/companies/carma/jobs/v6CTeFv-founding-full-stack-software-engineer-react-react-native-node-js-nestjs)
@@ -63,5 +66,6 @@
 * [2024-07-05, 02:37:38](https://news.ycombinator.com/item?id=40879492) - [Roku update turns on hated motion-smoothing feature, with no off switch](https://boingboing.net/2024/07/04/roku-update-turns-on-hated-motion-smoothing-feature-with-no-off-switch.html)
 * [2024-07-05, 02:15:21](https://news.ycombinator.com/item?id=40879417) - [Multiple nations enact mysterious export controls on quantum computers](https://www.newscientist.com/article/2436023-multiple-nations-enact-mysterious-export-controls-on-quantum-computers/)
 * [2024-07-05, 02:04:58](https://news.ycombinator.com/item?id=40879381) - [Math Behind Transformers and LLMs](https://x-dev.pages.jsc.fz-juelich.de//2022/07/13/transformers-matmul.html)
+* [2024-07-05, 02:02:10](https://news.ycombinator.com/item?id=40879376) - [The IBM Magnetic Tape Selectric Composer](https://blog.bruchez.name/posts/ibm-mt-sc-1/)
 * [2024-07-05, 01:47:55](https://news.ycombinator.com/item?id=40879337) - [Desalinating Water Is Becoming \"Absurdly Cheap\"](https://humanprogress.org/desalinating-water-is-becoming-absurdly-cheap/)
 * [2024-07-05, 00:47:47](https://news.ycombinator.com/item?id=40879133) - [Show HN: I made shopping clothes online easier](https://www.curate.fit/)

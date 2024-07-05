@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-04](index.md)
 
 * [2024-07-04, 23:44:00](https://news.ycombinator.com/item?id=40878909) - [Upgrading my Chumby 8 kernel part 12: UART woes](https://www.downtowndougbrown.com/2024/07/upgrading-my-chumby-8-kernel-part-12-uart-woes/)
+* [2024-07-04, 23:42:34](https://news.ycombinator.com/item?id=40878901) - [Reverse engineering a smartwatch](https://medium.com/csg-govtech/reverse-engineering-a-smartwatch-a7cec52b29c8)
 * [2024-07-04, 23:42:21](https://news.ycombinator.com/item?id=40878895) - [Bone tissue reparation using coral and marine sponges](https://web.stanford.edu/group/mota/education/Physics%2087N%20Final%20Projects/Group%20Gamma/bone.htm)
 * [2024-07-04, 23:31:18](https://news.ycombinator.com/item?id=40878847) - [Dumbification of Our Smartphones](https://productidentity.co/p/the-dumbification-of-our-smart-screens#footnote-anchor-3-145928620)
 * [2024-07-04, 23:28:54](https://news.ycombinator.com/item?id=40878837) - [Even The Pentagon can't freeze Huawei out of its operations](https://fortune.com/asia/2024/07/03/pentagon-huawei-ban-national-defense-authorization-act/)
@@ -28,8 +29,10 @@
 * [2024-07-04, 18:41:22](https://news.ycombinator.com/item?id=40877085) - [SoftBank stock hits first record high in 24yrs – Arm and AI helped it get there](https://www.cnbc.com/2024/07/04/softbank-shares-hit-record-high-after-24-years-on-arm-and-ai-boost.html)
 * [2024-07-04, 18:33:51](https://news.ycombinator.com/item?id=40877042) - [Gravitational wave researchers cast new light on Antikythera mechanism mystery](https://www.gla.ac.uk/news/headline_1086643_en.html)
 * [2024-07-04, 18:04:00](https://news.ycombinator.com/item?id=40876848) - [SCIM: Ncurses based, Vim-like spreadsheet](https://github.com/andmarti1424/sc-im)
+* [2024-07-04, 17:32:20](https://news.ycombinator.com/item?id=40876614) - [Footfall patterns and stride parameters of Common hippopotamus on land](https://peerj.com/articles/17675/)
 * [2024-07-04, 17:25:27](https://news.ycombinator.com/item?id=40876568) - [Ask HN: Who Wants a Penpal?](https://news.ycombinator.com/item?id=40876568)
 * [2024-07-04, 17:23:32](https://news.ycombinator.com/item?id=40876553) - [Geopolymer Cement in Pavement Applications for Sustainability and Performance](https://www.mdpi.com/2071-1050/16/13/5417)
+* [2024-07-04, 17:20:18](https://news.ycombinator.com/item?id=40876528) - [Programmable Matter – 3D Catoms](https://www.programmable-matter.com/technology/3d-catoms)
 * [2024-07-04, 16:53:59](https://news.ycombinator.com/item?id=40876342) - [The Origin of Ambergris (2012)](https://press.uchicago.edu/books/excerpt/2012/kemp_floating.html)
 * [2024-07-04, 16:15:28](https://news.ycombinator.com/item?id=40876017) - [Prusa is now manufacturing 3D printers in USA](https://blog.prusa3d.com/we-are-now-manufacturing-3d-printers-and-filaments-in-the-usa_99148/)
 * [2024-07-04, 16:03:32](https://news.ycombinator.com/item?id=40875924) - [Mechanical Computer Relies on Kirigami Cubes, Not Electronics](https://news.ncsu.edu/2024/06/kirigami-mechanical-computer/)
