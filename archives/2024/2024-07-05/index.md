@@ -25,4 +25,5 @@
 * [2024-07-05, 02:37:38](https://news.ycombinator.com/item?id=40879492) - [Roku update turns on hated motion-smoothing feature, with no off switch](https://boingboing.net/2024/07/04/roku-update-turns-on-hated-motion-smoothing-feature-with-no-off-switch.html)
 * [2024-07-05, 02:15:21](https://news.ycombinator.com/item?id=40879417) - [Multiple nations enact mysterious export controls on quantum computers](https://www.newscientist.com/article/2436023-multiple-nations-enact-mysterious-export-controls-on-quantum-computers/)
 * [2024-07-05, 02:04:58](https://news.ycombinator.com/item?id=40879381) - [Math Behind Transformers and LLMs](https://x-dev.pages.jsc.fz-juelich.de//2022/07/13/transformers-matmul.html)
+* [2024-07-05, 01:47:55](https://news.ycombinator.com/item?id=40879337) - [Desalinating Water Is Becoming \"Absurdly Cheap\"](https://humanprogress.org/desalinating-water-is-becoming-absurdly-cheap/)
 * [2024-07-05, 00:47:47](https://news.ycombinator.com/item?id=40879133) - [Show HN: I made shopping clothes online easier](https://www.curate.fit/)

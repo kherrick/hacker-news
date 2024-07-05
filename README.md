@@ -2,6 +2,7 @@
 
 * [2024-07-05, 03:24:45](https://news.ycombinator.com/item?id=40879620) - [General Electric HTRE-3 Nuclear Jet Engine](https://planehistoria.com/general-electric-htre-3-nuclear-jet-engine/)
 * [2024-07-05, 02:59:25](https://news.ycombinator.com/item?id=40879541) - [Moving to a RTOS on the RP2040](https://blog.brixit.nl/moving-to-a-rtos-on-the-rp2040/)
+* [2024-07-05, 01:47:55](https://news.ycombinator.com/item?id=40879337) - [Desalinating Water Is Becoming \"Absurdly Cheap\"](https://humanprogress.org/desalinating-water-is-becoming-absurdly-cheap/)
 * [2024-07-04, 23:42:21](https://news.ycombinator.com/item?id=40878895) - [Bone tissue reparation using coral and marine sponges](https://web.stanford.edu/group/mota/education/Physics%2087N%20Final%20Projects/Group%20Gamma/bone.htm)
 * [2024-07-04, 21:33:02](https://news.ycombinator.com/item?id=40878222) - [The Snapdragon X Elite's Adreno iGPU](https://chipsandcheese.com/2024/07/04/the-snapdragon-x-elites-adreno-igpu/)
 * [2024-07-04, 21:00:29](https://news.ycombinator.com/item?id=40878007) - [Rollstack (YC W23) Is Hiring TypeScript Engineers in Europe](https://www.ycombinator.com/companies/rollstack-2/jobs/)
@@ -16,7 +17,6 @@
 * [2024-07-04, 12:26:39](https://news.ycombinator.com/item?id=40874341) - [Twilio confirms data breach after hackers leak 33M Authy user phone numbers](https://www.securityweek.com/twilio-confirms-data-breach-after-hackers-leak-33m-authy-user-phone-numbers/)
 * [2024-07-04, 05:04:09](https://news.ycombinator.com/item?id=40872438) - [Finding near-duplicates with Jaccard similarity and MinHash](https://blog.nelhage.com/post/fuzzy-dedup/)
 * [2024-07-04, 04:29:12](https://news.ycombinator.com/item?id=40872332) - [Building a data compression utility in Haskell using Huffman codes](https://lazamar.github.io/haskell-data-compression-with-huffman-codes/)
-* [2024-07-04, 03:05:36](https://news.ycombinator.com/item?id=40872020) - [Sans-IO: The secret to effective Rust for network services](https://www.firezone.dev/blog/sans-io)
 * [2024-07-04, 02:09:20](https://news.ycombinator.com/item?id=40871783) - [Diffusion Forcing: Next-Token Prediction Meets Full-Sequence Diffusion](https://boyuan.space/diffusion-forcing/)
 * [2024-07-03, 21:55:13](https://news.ycombinator.com/item?id=40870357) - [The Origins of DS_store (2006)](https://www.arno.org/on-the-origins-of-ds-store)
 * [2024-07-03, 21:52:55](https://news.ycombinator.com/item?id=40870345) - [Beating NumPy matrix multiplication in 150 lines of C](https://salykova.github.io/matmul-cpu)
