@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-07-05, 17:02:03",
-      "https://news.ycombinator.com/item?id=40884331"
+      "2024-07-05, 17:04:45",
+      "https://news.ycombinator.com/item?id=40884356"
     ],
     [
-      "Synchronous Core, Asynchronous Shell",
-      "https://blog.sulami.xyz/posts/sync-core-async-shell/"
+      "Let's Stop Counting Centuries",
+      "https://dynomight.net/centuries/"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "Carma (YC W24) Hiring an 10x Founding Full-Stack Engineer (Top Base and %)",
       "https://www.ycombinator.com/companies/carma/jobs/v6CTeFv-founding-full-stack-software-engineer-react-react-native-node-js-nestjs"
+    ]
+  ],
+  [
+    [
+      "2024-07-05, 15:57:18",
+      "https://news.ycombinator.com/item?id=40883839"
+    ],
+    [
+      "Ente Auth: open-source Authy alternative for 2FA",
+      "https://ente.io/auth/"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "The sad state of property-based testing libraries",
       "https://stevana.github.io/the_sad_state_of_property-based_testing_libraries.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-04, 05:04:09",
-      "https://news.ycombinator.com/item?id=40872438"
-    ],
-    [
-      "Finding near-duplicates with Jaccard similarity and MinHash",
-      "https://blog.nelhage.com/post/fuzzy-dedup/"
     ]
   ],
   [
