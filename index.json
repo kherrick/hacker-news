@@ -31,21 +31,11 @@
   ],
   [
     [
-      "2024-07-05, 12:47:09",
-      "https://news.ycombinator.com/item?id=40882243"
-    ],
-    [
-      "Space Age release date",
-      "https://factorio.com/blog/post/fff-418"
-    ]
-  ],
-  [
-    [
       "2024-07-05, 12:23:09",
       "https://news.ycombinator.com/item?id=40882077"
     ],
     [
-      "So now that Nvidia has far outstripped the market cap of AMD and Intel, …",
+      "I was at AMD in the mid-late 2000s helping design CPU/APU/GPUs",
       "https://twitter.com/mohapatrahemant/status/1809135345683841050"
     ]
   ],
@@ -191,6 +181,16 @@
   ],
   [
     [
+      "2024-07-04, 02:09:20",
+      "https://news.ycombinator.com/item?id=40871783"
+    ],
+    [
+      "Diffusion Forcing: Next-Token Prediction Meets Full-Sequence Diffusion",
+      "https://boyuan.space/diffusion-forcing/"
+    ]
+  ],
+  [
+    [
       "2024-07-03, 21:55:13",
       "https://news.ycombinator.com/item?id=40870357"
     ],
@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2024-07-03, 20:52:37",
-      "https://news.ycombinator.com/item?id=40869877"
-    ],
-    [
-      "Show HN: Xcapture-BPF – like Linux top, but with Xray vision",
-      "https://0x.tools/"
-    ]
-  ],
-  [
-    [
       "2024-07-03, 18:04:59",
       "https://news.ycombinator.com/item?id=40868504"
     ],
@@ -237,16 +227,6 @@
     [
       "Unlocking a Gary TL-15 Round-Door Safe (2009)",
       "https://www.locksmithledger.com/keys-tools/article/10229247/unlocking-a-gary-tl-15-round-door-safe"
-    ]
-  ],
-  [
-    [
-      "2024-07-02, 15:29:01",
-      "https://news.ycombinator.com/item?id=40857612"
-    ],
-    [
-      "Ryzen 7 Mini-PC makes a power-efficient VM host",
-      "https://michael.stapelberg.ch/posts/2024-07-02-ryzen-7-mini-pc-low-power-proxmox-hypervisor/"
     ]
   ],
   [
@@ -281,6 +261,16 @@
   ],
   [
     [
+      "2024-07-02, 11:59:54",
+      "https://news.ycombinator.com/item?id=40855773"
+    ],
+    [
+      "How random are TOTP codes?",
+      "https://shkspr.mobi/blog/2024/07/how-random-are-totp-codes/"
+    ]
+  ],
+  [
+    [
       "2024-07-02, 04:50:40",
       "https://news.ycombinator.com/item?id=40853665"
     ],
@@ -297,6 +287,16 @@
     [
       "Hydrothermal Environment Discovered Deep Beneath the Ocean",
       "https://www.sciencealert.com/incredible-hydrothermal-environment-discovered-deep-beneath-the-ocean"
+    ]
+  ],
+  [
+    [
+      "2024-07-01, 13:21:33",
+      "https://news.ycombinator.com/item?id=40845628"
+    ],
+    [
+      "Shipt's algorithm squeezed gig workers, who fought back",
+      "https://spectrum.ieee.org/shipt"
     ]
   ]
 ]
