@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-04](index.md)
 
+* [2024-07-04, 23:44:00](https://news.ycombinator.com/item?id=40878909) - [Upgrading my Chumby 8 kernel part 12: UART woes](https://www.downtowndougbrown.com/2024/07/upgrading-my-chumby-8-kernel-part-12-uart-woes/)
 * [2024-07-04, 23:42:21](https://news.ycombinator.com/item?id=40878895) - [Bone tissue reparation using coral and marine sponges](https://web.stanford.edu/group/mota/education/Physics%2087N%20Final%20Projects/Group%20Gamma/bone.htm)
 * [2024-07-04, 23:31:18](https://news.ycombinator.com/item?id=40878847) - [Dumbification of Our Smartphones](https://productidentity.co/p/the-dumbification-of-our-smart-screens#footnote-anchor-3-145928620)
 * [2024-07-04, 23:28:54](https://news.ycombinator.com/item?id=40878837) - [Even The Pentagon can't freeze Huawei out of its operations](https://fortune.com/asia/2024/07/03/pentagon-huawei-ban-national-defense-authorization-act/)
