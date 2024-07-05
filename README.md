@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-04, 23:31:18](https://news.ycombinator.com/item?id=40878847) - [Dumbification of Our Smartphones](https://productidentity.co/p/the-dumbification-of-our-smart-screens#footnote-anchor-3-145928620)
 * [2024-07-04, 22:22:32](https://news.ycombinator.com/item?id=40878538) - [Reverse Engineering the Verification QR Code on My Diploma](https://obrhubr.org/reverse-engineering-diploma)
 * [2024-07-04, 21:33:02](https://news.ycombinator.com/item?id=40878222) - [The Snapdragon X Elite's Adreno iGPU](https://chipsandcheese.com/2024/07/04/the-snapdragon-x-elites-adreno-igpu/)
 * [2024-07-04, 21:00:29](https://news.ycombinator.com/item?id=40878007) - [Rollstack (YC W23) Is Hiring TypeScript Engineers in Europe](https://www.ycombinator.com/companies/rollstack-2/jobs/)
@@ -11,7 +12,6 @@
 * [2024-07-04, 18:04:00](https://news.ycombinator.com/item?id=40876848) - [SCIM: Ncurses based, Vim-like spreadsheet](https://github.com/andmarti1424/sc-im)
 * [2024-07-04, 16:53:59](https://news.ycombinator.com/item?id=40876342) - [The Origin of Ambergris (2012)](https://press.uchicago.edu/books/excerpt/2012/kemp_floating.html)
 * [2024-07-04, 16:03:32](https://news.ycombinator.com/item?id=40875924) - [Mechanical computer relies on kirigami cubes, not electronics](https://news.ncsu.edu/2024/06/kirigami-mechanical-computer/)
-* [2024-07-04, 16:02:39](https://news.ycombinator.com/item?id=40875914) - [Air-Bus Hijacking: Silently Taking over Avionics Systems](https://dl.acm.org/doi/pdf/10.1145/3626205.3659144)
 * [2024-07-04, 15:34:08](https://news.ycombinator.com/item?id=40875702) - [Ready Player Mode](https://lmno.lol/alvaro/ready-player-mode)
 * [2024-07-04, 15:15:39](https://news.ycombinator.com/item?id=40875559) - [The sad state of property-based testing libraries](https://stevana.github.io/the_sad_state_of_property-based_testing_libraries.html)
 * [2024-07-04, 12:26:39](https://news.ycombinator.com/item?id=40874341) - [Twilio confirms data breach after hackers leak 33M Authy user phone numbers](https://www.securityweek.com/twilio-confirms-data-breach-after-hackers-leak-33m-authy-user-phone-numbers/)

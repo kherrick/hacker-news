@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-04](index.md)
 
+* [2024-07-04, 23:31:18](https://news.ycombinator.com/item?id=40878847) - [Dumbification of Our Smartphones](https://productidentity.co/p/the-dumbification-of-our-smart-screens#footnote-anchor-3-145928620)
 * [2024-07-04, 22:22:32](https://news.ycombinator.com/item?id=40878538) - [Reverse Engineering the Verification QR Code on My Diploma](https://obrhubr.org/reverse-engineering-diploma)
 * [2024-07-04, 21:33:02](https://news.ycombinator.com/item?id=40878222) - [The Snapdragon X Elite's Adreno iGPU](https://chipsandcheese.com/2024/07/04/the-snapdragon-x-elites-adreno-igpu/)
 * [2024-07-04, 21:05:42](https://news.ycombinator.com/item?id=40878040) - [Ask HN: What book bit, stung and shook you deeply?](https://news.ycombinator.com/item?id=40878040)
