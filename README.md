@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-05, 03:42:07](https://news.ycombinator.com/item?id=40879675) - [Why Michigan Still Uses a Ford Model T for Official Government Business](https://www.theautopian.com/heres-why-michigan-still-uses-a-ford-model-t-for-official-government-business/)
 * [2024-07-05, 02:37:38](https://news.ycombinator.com/item?id=40879492) - [Roku update turns on hated motion-smoothing feature, with no off switch](https://boingboing.net/2024/07/04/roku-update-turns-on-hated-motion-smoothing-feature-with-no-off-switch.html)
 * [2024-07-05, 02:04:58](https://news.ycombinator.com/item?id=40879381) - [Math Behind Transformers and LLMs](https://x-dev.pages.jsc.fz-juelich.de//2022/07/13/transformers-matmul.html)
-* [2024-07-04, 23:44:00](https://news.ycombinator.com/item?id=40878909) - [Upgrading my Chumby 8 kernel part 12: UART woes](https://www.downtowndougbrown.com/2024/07/upgrading-my-chumby-8-kernel-part-12-uart-woes/)
 * [2024-07-04, 23:42:21](https://news.ycombinator.com/item?id=40878895) - [Bone tissue reparation using coral and marine sponges](https://web.stanford.edu/group/mota/education/Physics%2087N%20Final%20Projects/Group%20Gamma/bone.htm)
 * [2024-07-04, 21:33:02](https://news.ycombinator.com/item?id=40878222) - [The Snapdragon X Elite's Adreno iGPU](https://chipsandcheese.com/2024/07/04/the-snapdragon-x-elites-adreno-igpu/)
 * [2024-07-04, 21:00:29](https://news.ycombinator.com/item?id=40878007) - [Rollstack (YC W23) Is Hiring TypeScript Engineers in Europe](https://www.ycombinator.com/companies/rollstack-2/jobs/)
