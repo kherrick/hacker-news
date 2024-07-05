@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-05](index.md)
 
+* [2024-07-05, 12:49:27](https://news.ycombinator.com/item?id=40882259) - [ChatGPT just (accidentally) shared all of its secret rules](https://www.techradar.com/computing/artificial-intelligence/chatgpt-just-accidentally-shared-all-of-its-secret-rules-heres-what-we-learned)
+* [2024-07-05, 12:47:09](https://news.ycombinator.com/item?id=40882243) - [Factorio: Space Age extension to release on October 21st 2024](https://factorio.com/blog/post/fff-418)
+* [2024-07-05, 12:31:27](https://news.ycombinator.com/item?id=40882133) - [Programming in Unison](https://lwn.net/Articles/978955/)
 * [2024-07-05, 12:23:09](https://news.ycombinator.com/item?id=40882077) - [So now that Nvidia has far outstripped the market cap of AMD and Intel, …](https://twitter.com/mohapatrahemant/status/1809135345683841050)
 * [2024-07-05, 12:13:27](https://news.ycombinator.com/item?id=40882019) - [Fresh wind blows from supernova recorded in 1181](https://www.u-tokyo.ac.jp/focus/en/press/z0508_00361.html)
 * [2024-07-05, 12:00:19](https://news.ycombinator.com/item?id=40881964) - [Confido (YC S21) Is Hiring](https://www.ycombinator.com/companies/confido/jobs/xyw5xRU-full-stack-engineer)
