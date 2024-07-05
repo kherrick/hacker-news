@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-05, 15:05:08](https://news.ycombinator.com/item?id=40883408) - [Debian GNU/Hurd now can compile 71% of the packages from the Debian archive](https://www.gnu.org/software/hurd/news/2024-q2.html)
+* [2024-07-05, 15:31:02](https://news.ycombinator.com/item?id=40883607) - [Harvester pulls 1.5 gallons of drinking water from arid air per day](https://newatlas.com/technology/water-harvester-arid-air-mit/)
 * [2024-07-05, 14:48:14](https://news.ycombinator.com/item?id=40883277) - [Put the DVD logo in the corner (2023)](https://eieio.games/game-diary/game-6-get-the-dvd-logo-into-the-corner/)
 * [2024-07-05, 12:23:09](https://news.ycombinator.com/item?id=40882077) - [I was at AMD in the mid-late 2000s helping design CPU/APU/GPUs](https://twitter.com/mohapatrahemant/status/1809135345683841050)
 * [2024-07-05, 12:13:27](https://news.ycombinator.com/item?id=40882019) - [Fresh wind blows from historical supernova](https://www.u-tokyo.ac.jp/focus/en/press/z0508_00361.html)
