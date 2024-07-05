@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2024-07-04, 18:33:51",
-      "https://news.ycombinator.com/item?id=40877042"
-    ],
-    [
-      "Gravitational wave researchers cast new light on Antikythera mechanism mystery",
-      "https://www.gla.ac.uk/news/headline_1086643_en.html"
-    ]
-  ],
-  [
-    [
       "2024-07-04, 18:04:00",
       "https://news.ycombinator.com/item?id=40876848"
     ],
@@ -197,6 +187,16 @@
     [
       "Building a data compression utility in Haskell using Huffman codes",
       "https://lazamar.github.io/haskell-data-compression-with-huffman-codes/"
+    ]
+  ],
+  [
+    [
+      "2024-07-04, 02:09:20",
+      "https://news.ycombinator.com/item?id=40871783"
+    ],
+    [
+      "Diffusion Forcing: Next-Token Prediction Meets Full-Sequence Diffusion",
+      "https://boyuan.space/diffusion-forcing/"
     ]
   ],
   [
