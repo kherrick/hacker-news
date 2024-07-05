@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-05, 08:42:27",
+      "https://news.ycombinator.com/item?id=40880932"
+    ],
+    [
+      "I Have No Constructor, and I Must Initialize",
+      "https://consteval.ca/2024/07/03/initialization/"
+    ]
+  ],
+  [
+    [
       "2024-07-05, 03:24:45",
       "https://news.ycombinator.com/item?id=40879620"
     ],
@@ -17,16 +27,6 @@
     [
       "Moving to a RTOS on the RP2040",
       "https://blog.brixit.nl/moving-to-a-rtos-on-the-rp2040/"
-    ]
-  ],
-  [
-    [
-      "2024-07-05, 01:47:55",
-      "https://news.ycombinator.com/item?id=40879337"
-    ],
-    [
-      "Desalinating Water Is Becoming \"Absurdly Cheap\"",
-      "https://humanprogress.org/desalinating-water-is-becoming-absurdly-cheap/"
     ]
   ],
   [
@@ -57,16 +57,6 @@
     [
       "Rollstack (YC W23) Is Hiring TypeScript Engineers in Europe",
       "https://www.ycombinator.com/companies/rollstack-2/jobs/"
-    ]
-  ],
-  [
-    [
-      "2024-07-04, 19:20:25",
-      "https://news.ycombinator.com/item?id=40877337"
-    ],
-    [
-      "Batteries: How cheap can they get?",
-      "https://aukehoekstra.substack.com/p/batteries-how-cheap-can-they-get"
     ]
   ],
   [
@@ -257,6 +247,16 @@
     [
       "Island restoration to rebuild seabird populations and amplify coral reefs",
       "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14313"
+    ]
+  ],
+  [
+    [
+      "2024-07-02, 11:59:54",
+      "https://news.ycombinator.com/item?id=40855773"
+    ],
+    [
+      "How random are TOTP codes?",
+      "https://shkspr.mobi/blog/2024/07/how-random-are-totp-codes/"
     ]
   ],
   [
