@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-07-05, 13:21:32",
-      "https://news.ycombinator.com/item?id=40882452"
+      "2024-07-05, 15:05:08",
+      "https://news.ycombinator.com/item?id=40883408"
     ],
     [
-      "Cloudflare 1.1.1.1 incident on June 27, 2024",
-      "https://blog.cloudflare.com/cloudflare-1111-incident-on-june-27-2024"
+      "Debian GNU/Hurd now can compile 71% of the packages from the Debian archive",
+      "https://www.gnu.org/software/hurd/news/2024-q2.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-05, 12:41:40",
+      "https://news.ycombinator.com/item?id=40882212"
+    ],
+    [
+      "Ask HN: Does having a betting/gambling company in your CV hurts your career?",
+      "https://news.ycombinator.com/item?id=40882212"
     ]
   ],
   [
@@ -81,6 +91,16 @@
   ],
   [
     [
+      "2024-07-04, 23:10:10",
+      "https://news.ycombinator.com/item?id=40878765"
+    ],
+    [
+      "Ask HN: Is there any software you only made for your own use but nobody else?",
+      "https://news.ycombinator.com/item?id=40878765"
+    ]
+  ],
+  [
+    [
       "2024-07-04, 21:33:02",
       "https://news.ycombinator.com/item?id=40878222"
     ],
@@ -111,32 +131,12 @@
   ],
   [
     [
-      "2024-07-04, 16:53:59",
-      "https://news.ycombinator.com/item?id=40876342"
-    ],
-    [
-      "The Origin of Ambergris (2012)",
-      "https://press.uchicago.edu/books/excerpt/2012/kemp_floating.html"
-    ]
-  ],
-  [
-    [
       "2024-07-04, 16:03:32",
       "https://news.ycombinator.com/item?id=40875924"
     ],
     [
       "Mechanical computer relies on kirigami cubes, not electronics",
       "https://news.ncsu.edu/2024/06/kirigami-mechanical-computer/"
-    ]
-  ],
-  [
-    [
-      "2024-07-04, 15:34:08",
-      "https://news.ycombinator.com/item?id=40875702"
-    ],
-    [
-      "Ready Player Mode",
-      "https://lmno.lol/alvaro/ready-player-mode"
     ]
   ],
   [
@@ -177,16 +177,6 @@
     [
       "Building a data compression utility in Haskell using Huffman codes",
       "https://lazamar.github.io/haskell-data-compression-with-huffman-codes/"
-    ]
-  ],
-  [
-    [
-      "2024-07-04, 02:09:20",
-      "https://news.ycombinator.com/item?id=40871783"
-    ],
-    [
-      "Diffusion Forcing: Next-Token Prediction Meets Full-Sequence Diffusion",
-      "https://boyuan.space/diffusion-forcing/"
     ]
   ],
   [
@@ -285,7 +275,7 @@
       "https://news.ycombinator.com/item?id=40846675"
     ],
     [
-      "Hydrothermal Environment Discovered Deep Beneath the Ocean",
+      "Hydrothermal environment discovered deep beneath the ocean",
       "https://www.sciencealert.com/incredible-hydrothermal-environment-discovered-deep-beneath-the-ocean"
     ]
   ],
@@ -295,8 +285,18 @@
       "https://news.ycombinator.com/item?id=40845628"
     ],
     [
-      "Shipt's algorithm squeezed gig workers, who fought back",
+      "Shipt’s algorithm squeezed gig workers, who fought back",
       "https://spectrum.ieee.org/shipt"
+    ]
+  ],
+  [
+    [
+      "2024-07-01, 11:44:31",
+      "https://news.ycombinator.com/item?id=40844824"
+    ],
+    [
+      "A landscape of consciousness: Toward a taxonomy of explanations and implications",
+      "https://www.sciencedirect.com/science/article/pii/S0079610723001128"
     ]
   ]
 ]
