@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-07-05, 08:28:44",
-      "https://news.ycombinator.com/item?id=40880860"
-    ],
-    [
-      "The consumption of certain food emulsifiers may increase the risk of cancer",
-      "https://presse.inserm.fr/en/la-consommation-de-certains-additifs-alimentaires-emulsifiants-serait-associee-a-un-risque-accru-de-cancers/68077/"
-    ]
-  ],
-  [
-    [
       "2024-07-05, 03:24:45",
       "https://news.ycombinator.com/item?id=40879620"
     ],
@@ -167,6 +157,16 @@
     [
       "Building a data compression utility in Haskell using Huffman codes",
       "https://lazamar.github.io/haskell-data-compression-with-huffman-codes/"
+    ]
+  ],
+  [
+    [
+      "2024-07-04, 03:05:36",
+      "https://news.ycombinator.com/item?id=40872020"
+    ],
+    [
+      "Sans-IO: The secret to effective Rust for network services",
+      "https://www.firezone.dev/blog/sans-io"
     ]
   ],
   [
