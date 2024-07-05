@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-05](index.md)
 
+* [2024-07-05, 15:38:24](https://news.ycombinator.com/item?id=40883667) - [Japan is bracing for rage against the vending machine](https://www.businessinsider.com/japan-loves-vending-machines-cash-new-banknotes-wont-work-upgrades-2024-7)
 * [2024-07-05, 15:31:02](https://news.ycombinator.com/item?id=40883607) - [Harvester pulls 1.5 gallons of drinking water from arid air per day](https://newatlas.com/technology/water-harvester-arid-air-mit/)
 * [2024-07-05, 15:10:42](https://news.ycombinator.com/item?id=40883446) - [Cynicism Is Easy, Optimism takes work](https://kartikay.bearblog.dev/cynicism/)
 * [2024-07-05, 15:05:08](https://news.ycombinator.com/item?id=40883408) - [Debian GNU/Hurd now can compile 71% of the packages from the Debian archive](https://www.gnu.org/software/hurd/news/2024-q2.html)

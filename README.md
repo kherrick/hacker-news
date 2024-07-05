@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-05, 15:38:24](https://news.ycombinator.com/item?id=40883667) - [Japan is bracing for rage against the vending machine](https://www.businessinsider.com/japan-loves-vending-machines-cash-new-banknotes-wont-work-upgrades-2024-7)
 * [2024-07-05, 15:31:02](https://news.ycombinator.com/item?id=40883607) - [Harvester pulls 1.5 gallons of drinking water from arid air per day](https://newatlas.com/technology/water-harvester-arid-air-mit/)
 * [2024-07-05, 15:10:42](https://news.ycombinator.com/item?id=40883446) - [Cynicism Is Easy, Optimism takes work](https://kartikay.bearblog.dev/cynicism/)
 * [2024-07-05, 14:48:14](https://news.ycombinator.com/item?id=40883277) - [Put the DVD logo in the corner (2023)](https://eieio.games/game-diary/game-6-get-the-dvd-logo-into-the-corner/)
@@ -25,7 +26,6 @@
 * [2024-07-02, 13:01:21](https://news.ycombinator.com/item?id=40856225) - [Island restoration to rebuild seabird populations and amplify coral reefs](https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14313)
 * [2024-07-02, 12:49:47](https://news.ycombinator.com/item?id=40856123) - [Fiwix: Unix-like kernel for the i386 architecture](https://github.com/mikaku/Fiwix)
 * [2024-07-02, 12:34:55](https://news.ycombinator.com/item?id=40856014) - [New insights: Barbegal water mills](https://www.sciencedaily.com/releases/2024/07/240701131824.htm)
-* [2024-07-02, 11:59:54](https://news.ycombinator.com/item?id=40855773) - [How random are TOTP codes?](https://shkspr.mobi/blog/2024/07/how-random-are-totp-codes/)
 * [2024-07-02, 04:50:40](https://news.ycombinator.com/item?id=40853665) - [Should this be a map or 500 maps?](https://escapethealgorithm.substack.com/p/should-this-be-a-map-or-500-maps)
 * [2024-07-02, 00:25:22](https://news.ycombinator.com/item?id=40852335) - [Cutting Board Designer](https://www.cuttingboarddesigner.com/designer/id/7bf4dff3-9b10-8c86-9e4c-bc2722f7487f)
 * [2024-07-01, 15:23:25](https://news.ycombinator.com/item?id=40846675) - [Hydrothermal environment discovered deep beneath the ocean](https://www.sciencealert.com/incredible-hydrothermal-environment-discovered-deep-beneath-the-ocean)
