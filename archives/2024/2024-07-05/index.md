@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-07-05](index.md)
 
+* [2024-07-05, 20:09:06](https://news.ycombinator.com/item?id=40885571) - [Philip Morris International has funded Japanese academics](https://www.bath.ac.uk/announcements/philip-morris-international-has-secretly-funded-japanese-academics/)
+* [2024-07-05, 19:42:46](https://news.ycombinator.com/item?id=40885418) - [(10) Rounds of interviews. Never seen something like this before. This is nuts](https://twitter.com/catalinmpit/status/1808930090451153387)
+* [2024-07-05, 19:01:13](https://news.ycombinator.com/item?id=40885155) - [YouTube's eraser tool removes copyrighted music without impacting other audio](https://techcrunch.com/2024/07/05/youtubes-updated-eraser-tool-removes-copyrighted-music-without-impacting-other-audio/)
 * [2024-07-05, 18:38:15](https://news.ycombinator.com/item?id=40885003) - [RTO Mandates Are Killing the Euphoric Work-Life Balance Some Moms Found](https://www.bloomberg.com/news/features/2024-06-27/return-to-office-is-killing-work-life-balance-dream-for-moms)
 * [2024-07-05, 18:37:10](https://news.ycombinator.com/item?id=40884998) - [Five common English words we don't know the origins of–including 'boy' and 'dog'](https://phys.org/news/2024-07-common-english-words-dont-boy.html)
 * [2024-07-05, 18:26:35](https://news.ycombinator.com/item?id=40884928) - [What is e to the Power of d/dx? – Shift Operator](https://www.youtube.com/watch?v=INTKzi0qXpY)
 * [2024-07-05, 18:21:40](https://news.ycombinator.com/item?id=40884884) - [Elsevier withdraws plagiarized paper after author calls journal out on LinkedIn](https://retractionwatch.com/2024/07/04/elsevier-withdraws-plagiarized-paper-after-original-author-calls-journal-out-on-linkedin/)
+* [2024-07-05, 18:21:01](https://news.ycombinator.com/item?id=40884878) - [PostgreSQL and UUID as Primary Key](https://maciejwalkowiak.com/blog/postgres-uuid-primary-key/)
 * [2024-07-05, 18:13:36](https://news.ycombinator.com/item?id=40884835) - [Adderall Shortage Caused by DEA Quotas on Controlled Substances](https://www.additudemag.com/adderall-shortage-dea-stimulants-adhd-medication/)
 * [2024-07-05, 18:08:15](https://news.ycombinator.com/item?id=40884806) - [UK election day 2024: traffic trends and attacks on political parties](https://blog.cloudflare.com/uk-election-day-2024-traffic-trends-and-attacks-on-political-parties)
 * [2024-07-05, 18:06:01](https://news.ycombinator.com/item?id=40884790) - [Mysterious export controls on quantum computers](https://www.newscientist.com/article/2436023-multiple-nations-enact-mysterious-export-controls-on-quantum-computers/)
