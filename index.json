@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2024-07-05, 02:59:25",
+      "https://news.ycombinator.com/item?id=40879541"
+    ],
+    [
+      "Moving to a RTOS on the RP2040",
+      "https://blog.brixit.nl/moving-to-a-rtos-on-the-rp2040/"
+    ]
+  ],
+  [
+    [
       "2024-07-04, 23:42:21",
       "https://news.ycombinator.com/item?id=40878895"
     ],
@@ -187,16 +197,6 @@
     [
       "Building a data compression utility in Haskell using Huffman codes",
       "https://lazamar.github.io/haskell-data-compression-with-huffman-codes/"
-    ]
-  ],
-  [
-    [
-      "2024-07-04, 02:09:20",
-      "https://news.ycombinator.com/item?id=40871783"
-    ],
-    [
-      "Diffusion Forcing: Next-Token Prediction Meets Full-Sequence Diffusion",
-      "https://boyuan.space/diffusion-forcing/"
     ]
   ],
   [
