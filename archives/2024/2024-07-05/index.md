@@ -6,8 +6,11 @@
 
 * [2024-07-05, 12:49:27](https://news.ycombinator.com/item?id=40882259) - [ChatGPT just (accidentally) shared all of its secret rules](https://www.techradar.com/computing/artificial-intelligence/chatgpt-just-accidentally-shared-all-of-its-secret-rules-heres-what-we-learned)
 * [2024-07-05, 12:47:09](https://news.ycombinator.com/item?id=40882243) - [Factorio: Space Age extension to release on October 21st 2024](https://factorio.com/blog/post/fff-418)
+* [2024-07-05, 12:33:18](https://news.ycombinator.com/item?id=40882149) - [Welsh government commits to making lying in politics illegal](https://www.theguardian.com/politics/article/2024/jul/02/welsh-government-commits-to-making-lying-in-politics)
 * [2024-07-05, 12:31:27](https://news.ycombinator.com/item?id=40882133) - [Programming in Unison](https://lwn.net/Articles/978955/)
+* [2024-07-05, 12:25:15](https://news.ycombinator.com/item?id=40882100) - [Bruce Bastian, a Founder of WordPerfect, Is Dead at 76](https://www.nytimes.com/2024/07/02/business/bruce-bastian-dead.html)
 * [2024-07-05, 12:23:09](https://news.ycombinator.com/item?id=40882077) - [So now that Nvidia has far outstripped the market cap of AMD and Intel, …](https://twitter.com/mohapatrahemant/status/1809135345683841050)
+* [2024-07-05, 12:15:57](https://news.ycombinator.com/item?id=40882035) - [Russia Claims Decoding 'Complex' Atacms U.S. Missiles Haunting Their Military](https://www.eurasiantimes.com/russia-claims-breakthrough-with-atacms/)
 * [2024-07-05, 12:13:27](https://news.ycombinator.com/item?id=40882019) - [Fresh wind blows from supernova recorded in 1181](https://www.u-tokyo.ac.jp/focus/en/press/z0508_00361.html)
 * [2024-07-05, 12:00:19](https://news.ycombinator.com/item?id=40881964) - [Confido (YC S21) Is Hiring](https://www.ycombinator.com/companies/confido/jobs/xyw5xRU-full-stack-engineer)
 * [2024-07-05, 11:27:10](https://news.ycombinator.com/item?id=40881836) - [Show HN: I've made Keyword Research tool that's 90% cheaper than anything](https://withtelescope.com)
