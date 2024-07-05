@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-05](index.md)
 
+* [2024-07-05, 15:05:08](https://news.ycombinator.com/item?id=40883408) - [Debian GNU/Hurd now can compile 71% of the packages from the Debian archive](https://www.gnu.org/software/hurd/news/2024-q2.html)
 * [2024-07-05, 14:01:45](https://news.ycombinator.com/item?id=40882807) - [The Future of AR Beyond the Vision Pro Is Already Brewing](https://www.cnet.com/tech/computing/the-future-of-ar-beyond-vision-pro-is-already-brewing/)
 * [2024-07-05, 14:01:19](https://news.ycombinator.com/item?id=40882804) - [Foust Forward: Who's afraid of the big bad Starship? – SpaceNews](https://spacenews.com/foust-forward-whos-afraid-of-the-big-bad-starship/)
 * [2024-07-05, 13:53:21](https://news.ycombinator.com/item?id=40882732) - [Rivian Amazon delivery vans catching on fire while charging: reports](https://autos.yahoo.com/electric-amazon-delivery-vans-keep-162000936.html)
