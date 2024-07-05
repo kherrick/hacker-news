@@ -14,7 +14,6 @@
 * [2024-07-05, 15:23:57](https://news.ycombinator.com/item?id=40883546) - [Vertical-Align: All You Need to Know (CSS) (2014)](https://christopheraue.net/design/vertical-align)
 * [2024-07-05, 14:48:14](https://news.ycombinator.com/item?id=40883277) - [Put the DVD logo in the corner (2023)](https://eieio.games/game-diary/game-6-get-the-dvd-logo-into-the-corner/)
 * [2024-07-05, 14:10:02](https://news.ycombinator.com/item?id=40882881) - [Mimicking the cells that carry hemoglobin as a blood substitute](https://www.science.org/content/article/ultimate-blood-substitute-us-military-betting-46-million)
-* [2024-07-05, 13:38:11](https://news.ycombinator.com/item?id=40882583) - [The Software Crisis](https://wryl.tech/log/2024/the-software-crisis.html)
 * [2024-07-05, 08:42:27](https://news.ycombinator.com/item?id=40880932) - [I have no constructor, and I must initialize](https://consteval.ca/2024/07/03/initialization/)
 * [2024-07-05, 02:59:25](https://news.ycombinator.com/item?id=40879541) - [Moving to a RTOS on the RP2040](https://blog.brixit.nl/moving-to-a-rtos-on-the-rp2040/)
 * [2024-07-05, 02:02:10](https://news.ycombinator.com/item?id=40879376) - [The IBM Magnetic Tape Selectric Composer](https://blog.bruchez.name/posts/ibm-mt-sc-1/)
@@ -28,6 +27,7 @@
 * [2024-07-02, 17:45:46](https://news.ycombinator.com/item?id=40858878) - [Unlocking a Gary TL-15 Round-Door Safe (2009)](https://www.locksmithledger.com/keys-tools/article/10229247/unlocking-a-gary-tl-15-round-door-safe)
 * [2024-07-02, 15:26:47](https://news.ycombinator.com/item?id=40857589) - [Show HN: SQL Explorer – Open-source reporting tool that Just Works](https://github.com/explorerhq/django-sql-explorer)
 * [2024-07-02, 12:49:47](https://news.ycombinator.com/item?id=40856123) - [Fiwix: Unix-like kernel for the i386 architecture](https://github.com/mikaku/Fiwix)
+* [2024-07-02, 01:32:51](https://news.ycombinator.com/item?id=40852733) - [Config 2024: In defense of an old pixel [video]](https://www.youtube.com/watch?v=SDI8ubVZi7w)
 * [2024-07-02, 00:25:22](https://news.ycombinator.com/item?id=40852335) - [Cutting Board Designer](https://www.cuttingboarddesigner.com/designer/id/7bf4dff3-9b10-8c86-9e4c-bc2722f7487f)
 * [2024-07-01, 19:06:30](https://news.ycombinator.com/item?id=40849306) - [The Past, Present, and Future of Lager Yeast](https://www.goodbeerhunting.com/blog/2024/6/18/the-past-present-and-future-of-lager-yeast)
 
