@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-07-05, 12:49:27",
+      "https://news.ycombinator.com/item?id=40882259"
+    ],
+    [
+      "ChatGPT just (accidentally) shared all of its secret rules",
+      "https://www.techradar.com/computing/artificial-intelligence/chatgpt-just-accidentally-shared-all-of-its-secret-rules-heres-what-we-learned"
+    ]
+  ],
+  [
+    [
+      "2024-07-05, 12:47:09",
+      "https://news.ycombinator.com/item?id=40882243"
+    ],
+    [
+      "Factorio: Space Age extension to release on October 21st 2024",
+      "https://factorio.com/blog/post/fff-418"
+    ]
+  ],
+  [
+    [
+      "2024-07-05, 12:31:27",
+      "https://news.ycombinator.com/item?id=40882133"
+    ],
+    [
+      "Programming in Unison",
+      "https://lwn.net/Articles/978955/"
+    ]
+  ],
+  [
+    [
       "2024-07-05, 12:23:09",
       "https://news.ycombinator.com/item?id=40882077"
     ],
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2024-07-04, 16:53:59",
-      "https://news.ycombinator.com/item?id=40876342"
-    ],
-    [
-      "The Origin of Ambergris (2012)",
-      "https://press.uchicago.edu/books/excerpt/2012/kemp_floating.html"
-    ]
-  ],
-  [
-    [
       "2024-07-04, 16:03:32",
       "https://news.ycombinator.com/item?id=40875924"
     ],
@@ -157,16 +177,6 @@
     [
       "Building a data compression utility in Haskell using Huffman codes",
       "https://lazamar.github.io/haskell-data-compression-with-huffman-codes/"
-    ]
-  ],
-  [
-    [
-      "2024-07-04, 02:09:20",
-      "https://news.ycombinator.com/item?id=40871783"
-    ],
-    [
-      "Diffusion Forcing: Next-Token Prediction Meets Full-Sequence Diffusion",
-      "https://boyuan.space/diffusion-forcing/"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Hydrothermal Environment Discovered Deep Beneath the Ocean",
       "https://www.sciencealert.com/incredible-hydrothermal-environment-discovered-deep-beneath-the-ocean"
-    ]
-  ],
-  [
-    [
-      "2024-07-01, 13:21:33",
-      "https://news.ycombinator.com/item?id=40845628"
-    ],
-    [
-      "Shipt's algorithm squeezed gig workers, who fought back",
-      "https://spectrum.ieee.org/shipt"
     ]
   ]
 ]
