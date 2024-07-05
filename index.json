@@ -1,12 +1,52 @@
 [
   [
     [
-      "2024-07-05, 12:47:09",
-      "https://news.ycombinator.com/item?id=40882243"
+      "2024-07-05, 14:01:45",
+      "https://news.ycombinator.com/item?id=40882807"
     ],
     [
-      "Factorio: Space Age extension to release on October 21st 2024",
-      "https://factorio.com/blog/post/fff-418"
+      "The Future of AR Beyond the Vision Pro Is Already Brewing",
+      "https://www.cnet.com/tech/computing/the-future-of-ar-beyond-vision-pro-is-already-brewing/"
+    ]
+  ],
+  [
+    [
+      "2024-07-05, 13:53:21",
+      "https://news.ycombinator.com/item?id=40882732"
+    ],
+    [
+      "Rivian Amazon delivery vans catching on fire while charging: reports",
+      "https://autos.yahoo.com/electric-amazon-delivery-vans-keep-162000936.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-05, 13:29:52",
+      "https://news.ycombinator.com/item?id=40882506"
+    ],
+    [
+      "A new way to prevent HIV delivers dramatic results in trial",
+      "https://www.npr.org/sections/goats-and-soda/2024/07/03/g-s1-7988/hiv-prevention-drug-clinical-trial"
+    ]
+  ],
+  [
+    [
+      "2024-07-05, 13:24:38",
+      "https://news.ycombinator.com/item?id=40882472"
+    ],
+    [
+      "Generative AI is a climate disaster",
+      "https://disconnect.blog/generative-ai-is-a-climate-disaster/"
+    ]
+  ],
+  [
+    [
+      "2024-07-05, 13:21:32",
+      "https://news.ycombinator.com/item?id=40882452"
+    ],
+    [
+      "Cloudflare 1.1.1.1 incident on June 27, 2024",
+      "https://blog.cloudflare.com/cloudflare-1111-incident-on-june-27-2024"
     ]
   ],
   [
@@ -25,7 +65,7 @@
       "https://news.ycombinator.com/item?id=40882100"
     ],
     [
-      "Bruce Bastian, a Founder of WordPerfect, Is Dead at 76",
+      "Bruce bastian, a founder of WordPerfect has died",
       "https://www.nytimes.com/2024/07/02/business/bruce-bastian-dead.html"
     ]
   ],
@@ -45,7 +85,7 @@
       "https://news.ycombinator.com/item?id=40882035"
     ],
     [
-      "Russia Claims Decoding 'Complex' Atacms U.S. Missiles Haunting Their Military",
+      "Russia Claims Decoding ATACMS U.S. Missiles",
       "https://www.eurasiantimes.com/russia-claims-breakthrough-with-atacms/"
     ]
   ],
@@ -55,7 +95,7 @@
       "https://news.ycombinator.com/item?id=40882019"
     ],
     [
-      "Fresh wind blows from supernova recorded in 1181",
+      "Fresh wind blows from historical supernova",
       "https://www.u-tokyo.ac.jp/focus/en/press/z0508_00361.html"
     ]
   ],
@@ -85,7 +125,7 @@
       "https://news.ycombinator.com/item?id=40880932"
     ],
     [
-      "I Have No Constructor, and I Must Initialize",
+      "I have no constructor, and I must initialize",
       "https://consteval.ca/2024/07/03/initialization/"
     ]
   ],
@@ -111,12 +151,32 @@
   ],
   [
     [
+      "2024-07-04, 23:10:10",
+      "https://news.ycombinator.com/item?id=40878765"
+    ],
+    [
+      "Ask HN: Is there any software you only made for your own use but nobody else?",
+      "https://news.ycombinator.com/item?id=40878765"
+    ]
+  ],
+  [
+    [
       "2024-07-04, 21:33:02",
       "https://news.ycombinator.com/item?id=40878222"
     ],
     [
       "The Snapdragon X Elite's Adreno iGPU",
       "https://chipsandcheese.com/2024/07/04/the-snapdragon-x-elites-adreno-igpu/"
+    ]
+  ],
+  [
+    [
+      "2024-07-04, 20:06:05",
+      "https://news.ycombinator.com/item?id=40877668"
+    ],
+    [
+      "Map of Pontypandy in Fireman Sam",
+      "https://two-wrongs.com/map-of-pontypandy-in-fireman-sam.html"
     ]
   ],
   [
@@ -151,26 +211,6 @@
   ],
   [
     [
-      "2024-07-04, 12:26:39",
-      "https://news.ycombinator.com/item?id=40874341"
-    ],
-    [
-      "Twilio confirms data breach after hackers leak 33M Authy user phone numbers",
-      "https://www.securityweek.com/twilio-confirms-data-breach-after-hackers-leak-33m-authy-user-phone-numbers/"
-    ]
-  ],
-  [
-    [
-      "2024-07-04, 05:04:09",
-      "https://news.ycombinator.com/item?id=40872438"
-    ],
-    [
-      "Finding near-duplicates with Jaccard similarity and MinHash",
-      "https://blog.nelhage.com/post/fuzzy-dedup/"
-    ]
-  ],
-  [
-    [
       "2024-07-04, 04:29:12",
       "https://news.ycombinator.com/item?id=40872332"
     ],
@@ -191,32 +231,12 @@
   ],
   [
     [
-      "2024-07-03, 21:52:55",
-      "https://news.ycombinator.com/item?id=40870345"
-    ],
-    [
-      "Beating NumPy matrix multiplication in 150 lines of C",
-      "https://salykova.github.io/matmul-cpu"
-    ]
-  ],
-  [
-    [
       "2024-07-03, 21:47:43",
       "https://news.ycombinator.com/item?id=40870301"
     ],
     [
       "Oldest cave art found",
       "https://www.bbc.com/news/articles/c0vewjq4dxwo"
-    ]
-  ],
-  [
-    [
-      "2024-07-03, 21:44:47",
-      "https://news.ycombinator.com/item?id=40870280"
-    ],
-    [
-      "The joy of reading books you don't understand",
-      "https://reactormag.com/the-joy-of-reading-books-you-dont-entirely-understand/"
     ]
   ],
   [
@@ -245,7 +265,7 @@
       "https://news.ycombinator.com/item?id=40858878"
     ],
     [
-      "Unlocking a Gary TL-15 Round-Door Safe",
+      "Unlocking a Gary TL-15 Round-Door Safe (2009)",
       "https://www.locksmithledger.com/keys-tools/article/10229247/unlocking-a-gary-tl-15-round-door-safe"
     ]
   ],
@@ -261,32 +281,12 @@
   ],
   [
     [
-      "2024-07-02, 13:01:21",
-      "https://news.ycombinator.com/item?id=40856225"
-    ],
-    [
-      "Island restoration to rebuild seabird populations and amplify coral reefs",
-      "https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.14313"
-    ]
-  ],
-  [
-    [
       "2024-07-02, 12:34:55",
       "https://news.ycombinator.com/item?id=40856014"
     ],
     [
       "New insights: Barbegal water mills",
       "https://www.sciencedaily.com/releases/2024/07/240701131824.htm"
-    ]
-  ],
-  [
-    [
-      "2024-07-02, 04:50:40",
-      "https://news.ycombinator.com/item?id=40853665"
-    ],
-    [
-      "Should this be a map or 500 maps?",
-      "https://escapethealgorithm.substack.com/p/should-this-be-a-map-or-500-maps"
     ]
   ],
   [
