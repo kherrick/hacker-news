@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-05](index.md)
 
+* [2024-07-05, 18:26:35](https://news.ycombinator.com/item?id=40884928) - [What is e to the Power of d/dx? – Shift Operator](https://www.youtube.com/watch?v=INTKzi0qXpY)
 * [2024-07-05, 18:21:40](https://news.ycombinator.com/item?id=40884884) - [Elsevier withdraws plagiarized paper after author calls journal out on LinkedIn](https://retractionwatch.com/2024/07/04/elsevier-withdraws-plagiarized-paper-after-original-author-calls-journal-out-on-linkedin/)
 * [2024-07-05, 18:13:36](https://news.ycombinator.com/item?id=40884835) - [Adderall Shortage Caused by DEA Quotas on Controlled Substances](https://www.additudemag.com/adderall-shortage-dea-stimulants-adhd-medication/)
 * [2024-07-05, 18:08:15](https://news.ycombinator.com/item?id=40884806) - [UK election day 2024: traffic trends and attacks on political parties](https://blog.cloudflare.com/uk-election-day-2024-traffic-trends-and-attacks-on-political-parties)

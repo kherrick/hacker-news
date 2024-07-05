@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-05, 18:26:35](https://news.ycombinator.com/item?id=40884928) - [What is e to the Power of d/dx? – Shift Operator](https://www.youtube.com/watch?v=INTKzi0qXpY)
 * [2024-07-05, 18:21:40](https://news.ycombinator.com/item?id=40884884) - [Elsevier withdraws plagiarized paper after author calls journal out on LinkedIn](https://retractionwatch.com/2024/07/04/elsevier-withdraws-plagiarized-paper-after-original-author-calls-journal-out-on-linkedin/)
 * [2024-07-05, 18:08:15](https://news.ycombinator.com/item?id=40884806) - [UK election day 2024: traffic trends and attacks on political parties](https://blog.cloudflare.com/uk-election-day-2024-traffic-trends-and-attacks-on-political-parties)
 * [2024-07-05, 18:06:01](https://news.ycombinator.com/item?id=40884790) - [Mysterious export controls on quantum computers](https://www.newscientist.com/article/2436023-multiple-nations-enact-mysterious-export-controls-on-quantum-computers/)
@@ -12,7 +13,6 @@
 * [2024-07-05, 14:48:14](https://news.ycombinator.com/item?id=40883277) - [Put the DVD logo in the corner (2023)](https://eieio.games/game-diary/game-6-get-the-dvd-logo-into-the-corner/)
 * [2024-07-05, 14:10:02](https://news.ycombinator.com/item?id=40882881) - [Mimicking the cells that carry hemoglobin as a blood substitute](https://www.science.org/content/article/ultimate-blood-substitute-us-military-betting-46-million)
 * [2024-07-05, 13:38:11](https://news.ycombinator.com/item?id=40882583) - [The Software Crisis](https://wryl.tech/log/2024/the-software-crisis.html)
-* [2024-07-05, 12:13:27](https://news.ycombinator.com/item?id=40882019) - [Fresh wind blows from historical supernova](https://www.u-tokyo.ac.jp/focus/en/press/z0508_00361.html)
 * [2024-07-05, 08:42:27](https://news.ycombinator.com/item?id=40880932) - [I have no constructor, and I must initialize](https://consteval.ca/2024/07/03/initialization/)
 * [2024-07-05, 02:59:25](https://news.ycombinator.com/item?id=40879541) - [Moving to a RTOS on the RP2040](https://blog.brixit.nl/moving-to-a-rtos-on-the-rp2040/)
 * [2024-07-05, 02:02:10](https://news.ycombinator.com/item?id=40879376) - [The IBM Magnetic Tape Selectric Composer](https://blog.bruchez.name/posts/ibm-mt-sc-1/)
