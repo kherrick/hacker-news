@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-05](index.md)
 
+* [2024-07-05, 09:10:14](https://news.ycombinator.com/item?id=40881111) - [UK election live updates: Labour Party wins enough seats to form majority gov](https://apnews.com/live/uk-election-results-updates)
 * [2024-07-05, 08:52:04](https://news.ycombinator.com/item?id=40880987) - [Shapeways Files for Bankruptcy](https://hackaday.com/2024/07/04/shapeways-files-for-bankruptcy/)
+* [2024-07-05, 08:49:37](https://news.ycombinator.com/item?id=40880975) - [Google takes first major step: E2EE interoperability across all messaging apps](https://www.androidauthority.com/google-mls-e2ee-messages-3457483/)
 * [2024-07-05, 08:04:42](https://news.ycombinator.com/item?id=40880703) - [The EU should be the heat-pump pioneer](https://www.economist.com/europe/2024/07/04/the-eu-should-be-the-worlds-heat-pump-pioneer)
 * [2024-07-05, 07:50:59](https://news.ycombinator.com/item?id=40880615) - [Amazon at 30: What next for 'The Everything Company'?](https://www.bbc.co.uk/news/articles/cqv5l6vnvqjo)
 * [2024-07-05, 07:43:20](https://news.ycombinator.com/item?id=40880582) - [Kien, the most-delayed video game in history, released after 22 years](https://www.theguardian.com/games/article/2024/jul/04/kein-the-most-delayed-video-game-in-history-released-after-22-years)
