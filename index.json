@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-07-05, 01:47:55",
+      "https://news.ycombinator.com/item?id=40879337"
+    ],
+    [
+      "Desalinating Water Is Becoming \"Absurdly Cheap\"",
+      "https://humanprogress.org/desalinating-water-is-becoming-absurdly-cheap/"
+    ]
+  ],
+  [
+    [
       "2024-07-04, 23:42:21",
       "https://news.ycombinator.com/item?id=40878895"
     ],
@@ -157,16 +167,6 @@
     [
       "Building a data compression utility in Haskell using Huffman codes",
       "https://lazamar.github.io/haskell-data-compression-with-huffman-codes/"
-    ]
-  ],
-  [
-    [
-      "2024-07-04, 03:05:36",
-      "https://news.ycombinator.com/item?id=40872020"
-    ],
-    [
-      "Sans-IO: The secret to effective Rust for network services",
-      "https://www.firezone.dev/blog/sans-io"
     ]
   ],
   [
