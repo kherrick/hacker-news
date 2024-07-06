@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-06](index.md)
 
+* [2024-07-06, 08:07:00](https://news.ycombinator.com/item?id=40888924) - [I've eaten a meal replacement shake twice a day for two years (2019)](https://www.vox.com/the-goods/2019/11/11/20953750/soylent-huel-sustainable-meal-replacement-tried)
 * [2024-07-06, 07:33:56](https://news.ycombinator.com/item?id=40888783) - [Mineral winds down: 'We will no longer be an Alphabet company'](https://agfundernews.com/mineral-winds-down-we-will-no-longer-be-an-alphabet-company-but-our-technology-will-live-on)
 * [2024-07-06, 06:22:03](https://news.ycombinator.com/item?id=40888501) - [DevOps Isn't Dead, but It's Not in Great Health Either](https://thenewstack.io/devops-isnt-dead-but-its-not-in-great-health-either/)
 * [2024-07-06, 06:07:15](https://news.ycombinator.com/item?id=40888461) - [Apple okays Epic Games marketplace app in Europe](https://www.reuters.com/technology/epic-games-says-apple-stalling-launch-its-game-store-europe-2024-07-05/)

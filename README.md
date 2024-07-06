@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-06, 08:07:00](https://news.ycombinator.com/item?id=40888924) - [I've eaten a meal replacement shake twice a day for two years (2019)](https://www.vox.com/the-goods/2019/11/11/20953750/soylent-huel-sustainable-meal-replacement-tried)
 * [2024-07-06, 07:33:56](https://news.ycombinator.com/item?id=40888783) - [Mineral winds down: 'We will no longer be an Alphabet company'](https://agfundernews.com/mineral-winds-down-we-will-no-longer-be-an-alphabet-company-but-our-technology-will-live-on)
 * [2024-07-06, 06:22:03](https://news.ycombinator.com/item?id=40888501) - [DevOps Isn't Dead, but It's Not in Great Health Either](https://thenewstack.io/devops-isnt-dead-but-its-not-in-great-health-either/)
 * [2024-07-06, 06:07:15](https://news.ycombinator.com/item?id=40888461) - [Apple okays Epic Games marketplace app in Europe](https://www.reuters.com/technology/epic-games-says-apple-stalling-launch-its-game-store-europe-2024-07-05/)
@@ -27,9 +28,8 @@
 * [2024-07-02, 18:21:10](https://news.ycombinator.com/item?id=40859152) - [Pwning a Brother labelmaker, for fun and interop](https://sdomi.pl/weblog/20-pwning-a-labelmaker/)
 * [2024-07-02, 17:35:07](https://news.ycombinator.com/item?id=40858790) - [The asymmetry of nudges](https://lcamtuf.substack.com/p/the-asymmetry-of-nudges)
 * [2024-07-02, 16:12:15](https://news.ycombinator.com/item?id=40858023) - [Ants can carry out life-saving amputations on injured nest mates, study shows](https://www.theguardian.com/science/article/2024/jul/02/ants-emergency-amputations-injured-nest-mates-study)
-* [2024-07-02, 12:49:47](https://news.ycombinator.com/item?id=40856123) - [Fiwix: Unix-like kernel for the i386 architecture](https://github.com/mikaku/Fiwix)
+* [2024-07-02, 13:27:11](https://news.ycombinator.com/item?id=40856431) - [GPU-Friendly Stroke Expansion](https://arxiv.org/abs/2405.00127)
 * [2024-07-02, 08:01:59](https://news.ycombinator.com/item?id=40854497) - [What Happened to Perl 7? (2022)](https://blogs.perl.org/users/psc/2022/05/what-happened-to-perl-7.html)
-* [2024-07-02, 00:25:22](https://news.ycombinator.com/item?id=40852335) - [Cutting Board Designer](https://www.cuttingboarddesigner.com/designer/id/7bf4dff3-9b10-8c86-9e4c-bc2722f7487f)
 
 ## [Archives](archives/index.md)
 
