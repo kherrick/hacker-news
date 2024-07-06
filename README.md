@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-05, 23:34:12](https://news.ycombinator.com/item?id=40887014) - [Antidotes for Melancholy in Early Modern England](https://www.folger.edu/blogs/collation/better-than-a-pound-of-sorrow/)
 * [2024-07-05, 23:25:40](https://news.ycombinator.com/item?id=40886972) - [Rogers networks reliability and resiliency assessment after 2022-07-08 outage](https://crtc.gc.ca/eng/publications/reports/xona2024.htm)
 * [2024-07-05, 23:22:51](https://news.ycombinator.com/item?id=40886954) - [Firefox \"Copy\" has been inconsistent and broken for 8 months](https://bugzilla.mozilla.org/show_bug.cgi?id=1863246)
 * [2024-07-05, 22:41:49](https://news.ycombinator.com/item?id=40886689) - [War on citizens: How the junta's VPN ban is strangling communication in Myanmar](https://globalvoices.org/2024/06/28/war-on-citizens-how-the-juntas-vpn-ban-is-strangling-communication-in-myanmar/)
@@ -11,7 +12,6 @@
 * [2024-07-05, 17:30:53](https://news.ycombinator.com/item?id=40884523) - [Volcanoes can affect climate](https://www.usgs.gov/programs/VHP/volcanoes-can-affect-climate)
 * [2024-07-05, 17:04:45](https://news.ycombinator.com/item?id=40884356) - [Let's stop counting centuries](https://dynomight.net/centuries/)
 * [2024-07-05, 15:57:18](https://news.ycombinator.com/item?id=40883839) - [Ente Auth: open-source Authy alternative for 2FA](https://ente.io/auth/)
-* [2024-07-05, 15:23:57](https://news.ycombinator.com/item?id=40883546) - [Vertical-Align: All You Need to Know (CSS) (2014)](https://christopheraue.net/design/vertical-align)
 * [2024-07-05, 14:48:14](https://news.ycombinator.com/item?id=40883277) - [Put the DVD logo in the corner (2023)](https://eieio.games/game-diary/game-6-get-the-dvd-logo-into-the-corner/)
 * [2024-07-05, 14:10:02](https://news.ycombinator.com/item?id=40882881) - [Mimicking the cells that carry hemoglobin as a blood substitute](https://www.science.org/content/article/ultimate-blood-substitute-us-military-betting-46-million)
 * [2024-07-05, 13:38:11](https://news.ycombinator.com/item?id=40882583) - [The Software Crisis](https://wryl.tech/log/2024/the-software-crisis.html)
@@ -19,7 +19,6 @@
 * [2024-07-05, 08:42:27](https://news.ycombinator.com/item?id=40880932) - [I have no constructor, and I must initialize](https://consteval.ca/2024/07/03/initialization/)
 * [2024-07-05, 02:02:10](https://news.ycombinator.com/item?id=40879376) - [The IBM Magnetic Tape Selectric Composer](https://blog.bruchez.name/posts/ibm-mt-sc-1/)
 * [2024-07-04, 20:14:57](https://news.ycombinator.com/item?id=40877708) - [Show HN: Foorr – A minimal to-do app with social accountability](https://foorr.com/)
-* [2024-07-04, 20:06:05](https://news.ycombinator.com/item?id=40877668) - [Map of Pontypandy in Fireman Sam](https://two-wrongs.com/map-of-pontypandy-in-fireman-sam.html)
 * [2024-07-04, 17:20:18](https://news.ycombinator.com/item?id=40876528) - [Programmable Matter – 3D Catoms](https://www.programmable-matter.com/technology/3d-catoms)
 * [2024-07-02, 18:21:51](https://news.ycombinator.com/item?id=40859160) - [Five Things to Know About the Diamond Sutra, the Oldest Dated Printed Book](https://www.smithsonianmag.com/smart-news/Five-things-to-know-about-diamond-sutra-worlds-oldest-dated-printed-book-180959052/)
 * [2024-07-02, 18:21:10](https://news.ycombinator.com/item?id=40859152) - [Pwning a Brother labelmaker, for fun and interop](https://sdomi.pl/weblog/20-pwning-a-labelmaker/)
@@ -30,6 +29,7 @@
 * [2024-07-02, 01:32:51](https://news.ycombinator.com/item?id=40852733) - [Config 2024: In defense of an old pixel [video]](https://www.youtube.com/watch?v=SDI8ubVZi7w)
 * [2024-07-02, 00:25:22](https://news.ycombinator.com/item?id=40852335) - [Cutting Board Designer](https://www.cuttingboarddesigner.com/designer/id/7bf4dff3-9b10-8c86-9e4c-bc2722f7487f)
 * [2024-07-01, 19:06:30](https://news.ycombinator.com/item?id=40849306) - [The Past, Present, and Future of Lager Yeast](https://www.goodbeerhunting.com/blog/2024/6/18/the-past-present-and-future-of-lager-yeast)
+* [2024-07-01, 06:27:13](https://news.ycombinator.com/item?id=40843123) - [About Passkey – the password-free tech Apple is betting on](https://www.fastcompany.com/91146873/what-is-a-passkey-password-apple-ios-18-google-microsoft-bank)
 
 ## [Archives](archives/index.md)
 

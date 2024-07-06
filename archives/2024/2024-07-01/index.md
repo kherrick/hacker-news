@@ -109,6 +109,7 @@
 * [2024-07-01, 06:53:33](https://news.ycombinator.com/item?id=40843239) - [Multivitamin does not improve longevity](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2820369)
 * [2024-07-01, 06:44:30](https://news.ycombinator.com/item?id=40843202) - [Falsehoods Software Developers Believe About Event-Driven Systems](https://dimtion.fr/blog/falsehoods-event-driven/)
 * [2024-07-01, 06:40:56](https://news.ycombinator.com/item?id=40843185) - [Breaking transatlantic sailing record by more than a day (2016)](https://www.yachtingworld.com/extraordinary-boats/faster-than-the-weather-how-comanche-took-more-than-a-day-off-the-transatlantic-record-99160)
+* [2024-07-01, 06:27:13](https://news.ycombinator.com/item?id=40843123) - [About Passkey – the password-free tech Apple is betting on](https://www.fastcompany.com/91146873/what-is-a-passkey-password-apple-ios-18-google-microsoft-bank)
 * [2024-07-01, 06:09:55](https://news.ycombinator.com/item?id=40843019) - [Can a law make social media less 'addictive'?](https://www.bbc.com/future/article/20240626-can-a-law-make-social-media-less-addictive)
 * [2024-07-01, 06:01:39](https://news.ycombinator.com/item?id=40842968) - [How Google migrated billions of lines of code from Perforce to Piper](https://graphite.dev/blog/google-perforce-to-piper-migration)
 * [2024-07-01, 05:52:10](https://news.ycombinator.com/item?id=40842917) - [Show HN: BerqWP – Automatically Optimize Core Web Vitals for WordPress](https://berqwp.com/)
