@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-06, 18:09:28](https://news.ycombinator.com/item?id=40892063) - [The Supreme Court Doesn't Want You to Have Clean Water and Safe Air](https://www.wired.com/story/supreme-court-clean-water-safe-air-epa-chevron-koch-brothers/)
+* [2024-07-06, 18:38:43](https://news.ycombinator.com/item?id=40892259) - [Why privacy is important, and having \"nothing to hide\" is irrelevant (2016)](https://robindoherty.com/2016/01/06/nothing-to-hide.html)
 * [2024-07-06, 17:00:31](https://news.ycombinator.com/item?id=40891651) - [Patterns (YC S21), hiring to build a universal finance and accounting data model](https://patterns.app/)
 * [2024-07-06, 17:00:16](https://news.ycombinator.com/item?id=40891649) - [Eddy Cue: 'After 36 years at Apple, I'm still learning every day'](https://appleinsider.com/articles/24/07/06/eddy-cue-after-36-years-at-apple-im-still-learning-every-day)
 * [2024-07-06, 16:38:37](https://news.ycombinator.com/item?id=40891498) - [When the CIA turned writers into operatives](https://www.newyorker.com/culture/podcast-dept/when-the-cia-turned-writers-into-operatives)
@@ -19,9 +19,9 @@
 * [2024-07-04, 17:09:00](https://news.ycombinator.com/item?id=40876453) - [Advantages of incompetent management](https://yosefk.com/blog/advantages-of-incompetent-management.html)
 * [2024-07-04, 16:21:49](https://news.ycombinator.com/item?id=40876077) - [I read the dictionary to make a better game (2023)](https://taugames.ca/blog/dictionary.html)
 * [2024-07-04, 13:36:42](https://news.ycombinator.com/item?id=40874852) - [My Gold Prospecting and Mining Pages](http://mdpub.com/gold/index.html)
+* [2024-07-04, 12:08:16](https://news.ycombinator.com/item?id=40874230) - [High-altitude cave used by Tibetan Buddhists yields a Denisovan fossil](https://arstechnica.com/science/2024/07/high-altitude-cave-used-by-tibetan-buddhists-yields-a-denisovan-fossil/)
 * [2024-07-04, 11:08:24](https://news.ycombinator.com/item?id=40873934) - [Doodling with the Mac's command icon](https://alexwlchan.net/2024/command-icon/)
 * [2024-07-04, 09:09:13](https://news.ycombinator.com/item?id=40873471) - [The magic of small engineering teams](https://newsletter.posthog.com/p/the-magic-of-small-engineering-teams)
-* [2024-07-04, 06:14:44](https://news.ycombinator.com/item?id=40872725) - [2D DLA Experiments](https://jasonwebb.github.io/2d-diffusion-limited-aggregation-experiments/)
 * [2024-07-03, 22:42:04](https://news.ycombinator.com/item?id=40870716) - [Anna O.: The woman behind Freud's first case study](https://newrepublic.com/article/182270/anna-o-freud-woman-behind-first-case-study)
 * [2024-07-03, 17:42:02](https://news.ycombinator.com/item?id=40868257) - [The Caterpillar Spaceship (2005)](https://www.gabrielnivasch.org/fun/life/caterpillar)
 * [2024-07-03, 16:32:01](https://news.ycombinator.com/item?id=40867565) - [The Math of Card Shuffling](https://fredhohman.com/card-shuffling/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-06](index.md)
 
+* [2024-07-06, 18:38:43](https://news.ycombinator.com/item?id=40892259) - [Why privacy is important, and having \"nothing to hide\" is irrelevant (2016)](https://robindoherty.com/2016/01/06/nothing-to-hide.html)
 * [2024-07-06, 18:09:28](https://news.ycombinator.com/item?id=40892063) - [The Supreme Court Doesn't Want You to Have Clean Water and Safe Air](https://www.wired.com/story/supreme-court-clean-water-safe-air-epa-chevron-koch-brothers/)
 * [2024-07-06, 18:02:05](https://news.ycombinator.com/item?id=40892019) - [China Cracks Down on Extreme Nationalism and Hate-Speech After Suzhou Slaying](https://chinadigitaltimes.net/2024/07/chinese-social-media-platforms-launch-crackdown-on-extreme-nationalism-and-xenophobic-hate-speech-after-fatal-suzhou-stabbing/)
 * [2024-07-06, 17:21:49](https://news.ycombinator.com/item?id=40891771) - [Evaluating a Decade of Hacker News Predictions: An Open-Source Approach](https://eamag.me/2024/HackerNews-Prediction-Evaluator)
