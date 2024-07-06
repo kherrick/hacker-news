@@ -45,6 +45,7 @@
 * [2024-07-03, 16:48:34](https://news.ycombinator.com/item?id=40867746) - [A Practical Introduction to Constraint Programming Using CP-SAT and Python](https://pganalyze.com/blog/a-practical-introduction-to-constraint-programming-using-cp-sat)
 * [2024-07-03, 16:47:26](https://news.ycombinator.com/item?id=40867735) - [Multimodal Canvas: An experiment of Pictionary powered by Gemini 1.5 Flash](https://labs.google/multimodal-canvas)
 * [2024-07-03, 16:45:01](https://news.ycombinator.com/item?id=40867709) - [The Cheapest NAS](https://sigwait.org/~alex/blog/2024/07/01/the-cheapest-nas.html)
+* [2024-07-03, 16:32:01](https://news.ycombinator.com/item?id=40867565) - [The Math of Card Shuffling](https://fredhohman.com/card-shuffling/)
 * [2024-07-03, 16:26:03](https://news.ycombinator.com/item?id=40867508) - [Alphabet Winds Down Mineral, Licenses Ag Technology to Berry Producer Driscoll's](https://www.bloomberg.com/news/articles/2024-07-03/alphabet-shutters-mineral-licenses-ag-tech-to-berry-producer-driscoll-s)
 * [2024-07-03, 16:25:22](https://news.ycombinator.com/item?id=40867502) - [The impact of Orwell's \"Homage to Catalonia\" on Noam Chomsky's path to anarchism](https://thereader.mitpress.mit.edu/how-george-orwell-paved-noam-chomskys-path-to-anarchism/)
 * [2024-07-03, 16:03:10](https://news.ycombinator.com/item?id=40867273) - [The legacy of Liverpool's forgotten synchrocyclotron](https://physicsworld.com/a/the-legacy-of-liverpools-forgotten-synchrocyclotron/)
