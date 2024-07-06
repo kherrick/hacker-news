@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-06](index.md)
 
+* [2024-07-06, 02:56:56](https://news.ycombinator.com/item?id=40887874) - [Zephyr: Implementing a Device Driver for a Sensor](https://bootlin.com/blog/zephyr-implementing-a-device-driver-for-a-sensor/)
 * [2024-07-06, 01:13:40](https://news.ycombinator.com/item?id=40887480) - [HTML5 Differences from HTML4 (2014)](https://www.w3.org/TR/html5-diff/)
 * [2024-07-06, 00:47:52](https://news.ycombinator.com/item?id=40887359) - [Radio Garden](https://radio.garden/)
 * [2024-07-06, 00:21:42](https://news.ycombinator.com/item?id=40887237) - [Code a DOOM-like game engine from scratch in C [PART I]](https://www.youtube.com/watch?v=p7f9p9nDsmc)
