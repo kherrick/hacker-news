@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-06, 13:48:04](https://news.ycombinator.com/item?id=40890449) - [Do not factory reset your Pixel until at least 15 minutes after a system update](https://support.google.com/pixelphone/thread/283220215/issues-after-factory-resetting-pixel-6-devices?hl=en)
 * [2024-07-06, 12:53:22](https://news.ycombinator.com/item?id=40890151) - [Italian prosecutors found Dior paid $57 to produce bags retailing for $2,780](https://www.businessinsider.com/dior-italy-labor-investigation-contractors-lvmh-armani-luxury-bags-2024-7)
 * [2024-07-06, 12:29:18](https://news.ycombinator.com/item?id=40890035) - [Properly Testing Concurrent Data Structures](https://matklad.github.io/2024/07/05/properly-testing-concurrent-data-structures.html)
 * [2024-07-06, 12:00:12](https://news.ycombinator.com/item?id=40889886) - [Hadrius (YC W23) Is Hiring Founding Engineers in NYC](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
-* [2024-07-06, 07:33:56](https://news.ycombinator.com/item?id=40888783) - [Mineral winds down: 'We will no longer be an Alphabet company'](https://agfundernews.com/mineral-winds-down-we-will-no-longer-be-an-alphabet-company-but-our-technology-will-live-on)
 * [2024-07-06, 03:19:17](https://news.ycombinator.com/item?id=40887955) - [RadioSide turns your spare device into a radio](https://radioside.com)
 * [2024-07-06, 00:47:52](https://news.ycombinator.com/item?id=40887359) - [Radio Garden](https://radio.garden/)
 * [2024-07-06, 00:18:15](https://news.ycombinator.com/item?id=40887218) - [Constantine: modular, high-performance, zero-dependency cryptography stack](https://forum.nim-lang.org/t/11935)
