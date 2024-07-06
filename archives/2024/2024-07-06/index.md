@@ -16,6 +16,7 @@
 * [2024-07-06, 20:16:53](https://news.ycombinator.com/item?id=40892929) - [Investors Pour $27.1B into A.I. Startups, Defying a Downturn](https://www.nytimes.com/2024/07/03/technology/ai-startups-funding.html)
 * [2024-07-06, 20:04:50](https://news.ycombinator.com/item?id=40892848) - [Wireframes Are Cheap, Engineering Should Be Too](https://danielmangum.com/posts/wireframes-cheap-engineering-too/)
 * [2024-07-06, 19:59:48](https://news.ycombinator.com/item?id=40892812) - [Ask HN: Where are the good resources for learning audio processing?](https://news.ycombinator.com/item?id=40892812)
+* [2024-07-06, 19:59:32](https://news.ycombinator.com/item?id=40892811) - [The Antarctic Ice Core Chronology 2023](https://cp.copernicus.org/articles/19/2257/2023/)
 * [2024-07-06, 19:47:31](https://news.ycombinator.com/item?id=40892734) - [Chris Titus' Windows Debloat Tool](https://christitus.com/windows-tool/)
 * [2024-07-06, 19:29:50](https://news.ycombinator.com/item?id=40892619) - [Ask HN: Why Google shut down business.site website feature?](https://news.ycombinator.com/item?id=40892619)
 * [2024-07-06, 19:20:30](https://news.ycombinator.com/item?id=40892561) - [AI cheating is destroying higher education](https://thehill.com/opinion/education/4570563-ai-cheating-is-destroying-higher-education-heres-how-to-fight-it/)
