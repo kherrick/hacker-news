@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-06, 08:07:00](https://news.ycombinator.com/item?id=40888924) - [I've eaten a meal replacement shake twice a day for two years (2019)](https://www.vox.com/the-goods/2019/11/11/20953750/soylent-huel-sustainable-meal-replacement-tried)
 * [2024-07-06, 06:53:25](https://news.ycombinator.com/item?id=40888613) - [U.S. SEC Wins 'Shadow Insider Trading' Trial](https://www.akingump.com/en/insights/alerts/the-sec-wins-shadow-insider-trading-trial)
 * [2024-07-06, 06:22:03](https://news.ycombinator.com/item?id=40888501) - [DevOps Isn't Dead, but It's Not in Great Health Either](https://thenewstack.io/devops-isnt-dead-but-its-not-in-great-health-either/)
 * [2024-07-06, 06:07:15](https://news.ycombinator.com/item?id=40888461) - [Apple okays Epic Games marketplace app in Europe](https://www.reuters.com/technology/epic-games-says-apple-stalling-launch-its-game-store-europe-2024-07-05/)
@@ -20,6 +19,7 @@
 * [2024-07-05, 17:04:45](https://news.ycombinator.com/item?id=40884356) - [Let's stop counting centuries](https://dynomight.net/centuries/)
 * [2024-07-05, 15:57:18](https://news.ycombinator.com/item?id=40883839) - [Ente Auth: open-source Authy alternative for 2FA](https://ente.io/auth/)
 * [2024-07-05, 14:48:14](https://news.ycombinator.com/item?id=40883277) - [Put the DVD logo in the corner (2023)](https://eieio.games/game-diary/game-6-get-the-dvd-logo-into-the-corner/)
+* [2024-07-04, 06:02:55](https://news.ycombinator.com/item?id=40872672) - [Katharine Way, John Wheeler, and the Dawn of Nuclear Fission](https://www.amphilsoc.org/blog/katharine-way-john-wheeler-and-dawn-nuclear-fission)
 * [2024-07-03, 05:02:52](https://news.ycombinator.com/item?id=40862853) - [The Origin of the Species: NEC PC-8001 FDD Adapter](https://www.leadedsolder.com/2024/07/02/pc8001-pickup-disk-drive-interface.html)
 * [2024-07-02, 23:10:56](https://news.ycombinator.com/item?id=40861330) - [DIY RFID Business Card and Badge Holder with Victorinox Swiss Army Knife Tools](https://mcuoneclipse.com/2024/06/30/customizable-diy-rfid-business-card-and-badge-holder-with-victorinox-swiss-army-knife-tools/)
 * [2024-07-02, 20:25:29](https://news.ycombinator.com/item?id=40860116) - [Graph-Based Ceramics](https://www.alexreichert.com/blog/graph-based-ceramics)
