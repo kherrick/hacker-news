@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-06, 07:33:56](https://news.ycombinator.com/item?id=40888783) - [Mineral winds down: 'We will no longer be an Alphabet company'](https://agfundernews.com/mineral-winds-down-we-will-no-longer-be-an-alphabet-company-but-our-technology-will-live-on)
 * [2024-07-06, 06:22:03](https://news.ycombinator.com/item?id=40888501) - [DevOps Isn't Dead, but It's Not in Great Health Either](https://thenewstack.io/devops-isnt-dead-but-its-not-in-great-health-either/)
 * [2024-07-06, 06:07:15](https://news.ycombinator.com/item?id=40888461) - [Apple okays Epic Games marketplace app in Europe](https://www.reuters.com/technology/epic-games-says-apple-stalling-launch-its-game-store-europe-2024-07-05/)
 * [2024-07-06, 05:35:24](https://news.ycombinator.com/item?id=40888368) - [Private firms and open sources are giving spies a run for their money](https://www.economist.com/technology-quarterly/2024/07/01/private-firms-and-open-sources-are-giving-spies-a-run-for-their-money)
@@ -20,16 +21,15 @@
 * [2024-07-05, 17:04:45](https://news.ycombinator.com/item?id=40884356) - [Let's stop counting centuries](https://dynomight.net/centuries/)
 * [2024-07-05, 15:57:18](https://news.ycombinator.com/item?id=40883839) - [Ente Auth: open-source Authy alternative for 2FA](https://ente.io/auth/)
 * [2024-07-05, 14:48:14](https://news.ycombinator.com/item?id=40883277) - [Put the DVD logo in the corner (2023)](https://eieio.games/game-diary/game-6-get-the-dvd-logo-into-the-corner/)
-* [2024-07-05, 11:27:10](https://news.ycombinator.com/item?id=40881836) - [Show HN: I’ve made a cheaper SEO research tool](https://withtelescope.com)
 * [2024-07-03, 05:02:52](https://news.ycombinator.com/item?id=40862853) - [The Origin of the Species: NEC PC-8001 FDD Adapter](https://www.leadedsolder.com/2024/07/02/pc8001-pickup-disk-drive-interface.html)
 * [2024-07-02, 23:10:56](https://news.ycombinator.com/item?id=40861330) - [DIY RFID Business Card and Badge Holder with Victorinox Swiss Army Knife Tools](https://mcuoneclipse.com/2024/06/30/customizable-diy-rfid-business-card-and-badge-holder-with-victorinox-swiss-army-knife-tools/)
 * [2024-07-02, 18:21:51](https://news.ycombinator.com/item?id=40859160) - [The Diamond Sutra, the oldest dated printed book (2016)](https://www.smithsonianmag.com/smart-news/Five-things-to-know-about-diamond-sutra-worlds-oldest-dated-printed-book-180959052/)
 * [2024-07-02, 18:21:10](https://news.ycombinator.com/item?id=40859152) - [Pwning a Brother labelmaker, for fun and interop](https://sdomi.pl/weblog/20-pwning-a-labelmaker/)
 * [2024-07-02, 17:35:07](https://news.ycombinator.com/item?id=40858790) - [The asymmetry of nudges](https://lcamtuf.substack.com/p/the-asymmetry-of-nudges)
 * [2024-07-02, 16:12:15](https://news.ycombinator.com/item?id=40858023) - [Ants can carry out life-saving amputations on injured nest mates, study shows](https://www.theguardian.com/science/article/2024/jul/02/ants-emergency-amputations-injured-nest-mates-study)
-* [2024-07-02, 13:07:04](https://news.ycombinator.com/item?id=40856270) - [Forget about the gym Chicken-sizing will keep you fit](https://text.npr.org/g-s1-6784)
 * [2024-07-02, 12:49:47](https://news.ycombinator.com/item?id=40856123) - [Fiwix: Unix-like kernel for the i386 architecture](https://github.com/mikaku/Fiwix)
 * [2024-07-02, 08:01:59](https://news.ycombinator.com/item?id=40854497) - [What Happened to Perl 7? (2022)](https://blogs.perl.org/users/psc/2022/05/what-happened-to-perl-7.html)
+* [2024-07-02, 00:25:22](https://news.ycombinator.com/item?id=40852335) - [Cutting Board Designer](https://www.cuttingboarddesigner.com/designer/id/7bf4dff3-9b10-8c86-9e4c-bc2722f7487f)
 
 ## [Archives](archives/index.md)
 
