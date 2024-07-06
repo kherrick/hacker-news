@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-06](index.md)
 
+* [2024-07-06, 21:50:58](https://news.ycombinator.com/item?id=40893585) - [DOJ antitrust case could cost Google 50% of US mobile searches in the US](https://twitter.com/glenngabe/status/1809555896433012815)
 * [2024-07-06, 21:27:31](https://news.ycombinator.com/item?id=40893447) - [Microsoft Is Dead: The Cliffs Notes (2007)](https://paulgraham.com/cliffsnotes.html)
 * [2024-07-06, 21:26:47](https://news.ycombinator.com/item?id=40893446) - [The African workers driving the AI revolution, for about a dollar an hour](https://www.theguardian.com/technology/article/2024/jul/06/mercy-anita-african-workers-ai-artificial-intelligence-exploitation-feeding-machine)
 * [2024-07-06, 21:02:06](https://news.ycombinator.com/item?id=40893287) - [Charge Robotics (YC S21) is hiring full-stack devs to deploy solar robots](https://www.ycombinator.com/companies/charge-robotics/jobs/gbIFjoq-senior-software-engineer-full-stack)
