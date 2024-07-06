@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-06, 05:20:17](https://news.ycombinator.com/item?id=40888314) - [Curl native support for –aws-sigv4 (2023)](https://how.wtf/aws-sigv4-requests-with-curl.html)
 * [2024-07-06, 04:39:28](https://news.ycombinator.com/item?id=40888201) - [1Password and 2FA: Is it wrong to store passwords and one-time codes together? (2023)](https://blog.1password.com/1password-2fa-passwords-codes-together/)
 * [2024-07-06, 04:03:03](https://news.ycombinator.com/item?id=40888090) - [Here’s how you can build and train GPT-2 from scratch using PyTorch](https://differ.blog/p/here-s-how-you-can-build-and-train-gpt-2-from-scratch-using-pytorch-ace4ba)
 * [2024-07-06, 03:46:38](https://news.ycombinator.com/item?id=40888030) - [Unverified NPM Account Takeover Vulnerability for Sale on Dark Web Forum](https://socket.dev/blog/unverified-npm-account-takeover-vulnerability-for-sale-on-dark-web-forum)
@@ -28,8 +29,7 @@
 * [2024-07-02, 16:12:15](https://news.ycombinator.com/item?id=40858023) - [Ants can carry out life-saving amputations on injured nest mates, study shows](https://www.theguardian.com/science/article/2024/jul/02/ants-emergency-amputations-injured-nest-mates-study)
 * [2024-07-02, 12:49:47](https://news.ycombinator.com/item?id=40856123) - [Fiwix: Unix-like kernel for the i386 architecture](https://github.com/mikaku/Fiwix)
 * [2024-07-02, 08:01:59](https://news.ycombinator.com/item?id=40854497) - [What Happened to Perl 7? (2022)](https://blogs.perl.org/users/psc/2022/05/what-happened-to-perl-7.html)
-* [2024-07-02, 01:32:51](https://news.ycombinator.com/item?id=40852733) - [Config 2024: In defense of an old pixel [video]](https://www.youtube.com/watch?v=SDI8ubVZi7w)
-* [2024-07-02, 00:25:22](https://news.ycombinator.com/item?id=40852335) - [Cutting Board Designer](https://www.cuttingboarddesigner.com/designer/id/7bf4dff3-9b10-8c86-9e4c-bc2722f7487f)
+* [2024-07-01, 11:40:56](https://news.ycombinator.com/item?id=40844796) - [Shoplifters Love Lego](https://www.cnn.com/2024/06/29/business/lego-most-stolen-items/index.html)
 
 ## [Archives](archives/index.md)
 

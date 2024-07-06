@@ -80,6 +80,7 @@
 * [2024-07-01, 11:52:02](https://news.ycombinator.com/item?id=40844864) - [Leonardo da Vinci: 'Poor is the pupil who does not surpass his master.'](https://www.socratic-method.com/quote-meanings-and-interpretations/leonardo-da-vinci-poor-is-the-pupil-who-does-not-surpass-his-master)
 * [2024-07-01, 11:44:33](https://news.ycombinator.com/item?id=40844825) - [A write-ahead log is not a universal part of durability](https://notes.eatonphil.com/2024-07-01-a-write-ahead-log-is-not-a-universal-part-of-durability.html)
 * [2024-07-01, 11:44:31](https://news.ycombinator.com/item?id=40844824) - [A landscape of consciousness: Toward a taxonomy of explanations and implications](https://www.sciencedirect.com/science/article/pii/S0079610723001128)
+* [2024-07-01, 11:40:56](https://news.ycombinator.com/item?id=40844796) - [Shoplifters Love Lego](https://www.cnn.com/2024/06/29/business/lego-most-stolen-items/index.html)
 * [2024-07-01, 11:40:22](https://news.ycombinator.com/item?id=40844790) - [Neuromancer was released 40 years ago today](https://en.wikipedia.org/wiki/Neuromancer)
 * [2024-07-01, 11:33:53](https://news.ycombinator.com/item?id=40844748) - [Over 100K+ Sites Hit by Polyfill.io Supply Chain Attack](https://www.infoq.com/news/2024/06/polyfill-supply-chain-attack/)
 * [2024-07-01, 11:31:55](https://news.ycombinator.com/item?id=40844741) - [Beware of Squarespace: Our Business Lost $10k Due to Their Incompetence](https://news.ycombinator.com/item?id=40844741)
