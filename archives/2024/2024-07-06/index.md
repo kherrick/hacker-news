@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-06](index.md)
 
+* [2024-07-06, 19:20:30](https://news.ycombinator.com/item?id=40892561) - [AI cheating is destroying higher education](https://thehill.com/opinion/education/4570563-ai-cheating-is-destroying-higher-education-heres-how-to-fight-it/)
+* [2024-07-06, 18:58:50](https://news.ycombinator.com/item?id=40892412) - [New AI Training Technique Is Drastically Faster, Says Google](https://decrypt.co/238730/new-ai-training-technique-is-drastically-faster-says-google)
 * [2024-07-06, 18:52:41](https://news.ycombinator.com/item?id=40892365) - [Against the Burden of Knowledge](https://www.theseedsofscience.pub/p/against-the-burden-of-knowledge)
 * [2024-07-06, 18:47:10](https://news.ycombinator.com/item?id=40892312) - [Tokens are a big reason today's generative AI falls short](https://techcrunch.com/2024/07/06/tokens-are-a-big-reason-todays-generative-ai-falls-short/)
 * [2024-07-06, 18:38:43](https://news.ycombinator.com/item?id=40892259) - [Why privacy is important, and having \"nothing to hide\" is irrelevant (2016)](https://robindoherty.com/2016/01/06/nothing-to-hide.html)
