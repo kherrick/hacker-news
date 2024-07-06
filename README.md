@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-06, 04:39:28](https://news.ycombinator.com/item?id=40888201) - [1Password and 2FA: Is it wrong to store passwords and one-time codes together? (2023)](https://blog.1password.com/1password-2fa-passwords-codes-together/)
 * [2024-07-06, 04:03:03](https://news.ycombinator.com/item?id=40888090) - [Here’s how you can build and train GPT-2 from scratch using PyTorch](https://differ.blog/p/here-s-how-you-can-build-and-train-gpt-2-from-scratch-using-pytorch-ace4ba)
 * [2024-07-06, 03:46:38](https://news.ycombinator.com/item?id=40888030) - [Unverified NPM Account Takeover Vulnerability for Sale on Dark Web Forum](https://socket.dev/blog/unverified-npm-account-takeover-vulnerability-for-sale-on-dark-web-forum)
 * [2024-07-06, 03:19:17](https://news.ycombinator.com/item?id=40887955) - [RadioSide turns your spare device into a radio](https://radioside.com)
@@ -19,7 +20,6 @@
 * [2024-07-05, 14:48:14](https://news.ycombinator.com/item?id=40883277) - [Put the DVD logo in the corner (2023)](https://eieio.games/game-diary/game-6-get-the-dvd-logo-into-the-corner/)
 * [2024-07-05, 14:10:02](https://news.ycombinator.com/item?id=40882881) - [Mimicking the cells that carry hemoglobin as a blood substitute](https://www.science.org/content/article/ultimate-blood-substitute-us-military-betting-46-million)
 * [2024-07-05, 11:27:10](https://news.ycombinator.com/item?id=40881836) - [Show HN: I’ve made a cheaper SEO research tool](https://withtelescope.com)
-* [2024-07-04, 17:20:18](https://news.ycombinator.com/item?id=40876528) - [Programmable Matter – 3D Catoms](https://www.programmable-matter.com/technology/3d-catoms)
 * [2024-07-03, 05:02:52](https://news.ycombinator.com/item?id=40862853) - [The Origin of the Species: NEC PC-8001 FDD Adapter](https://www.leadedsolder.com/2024/07/02/pc8001-pickup-disk-drive-interface.html)
 * [2024-07-02, 23:10:56](https://news.ycombinator.com/item?id=40861330) - [DIY RFID Business Card and Badge Holder with Victorinox Swiss Army Knife Tools](https://mcuoneclipse.com/2024/06/30/customizable-diy-rfid-business-card-and-badge-holder-with-victorinox-swiss-army-knife-tools/)
 * [2024-07-02, 18:21:51](https://news.ycombinator.com/item?id=40859160) - [The Diamond Sutra, the oldest dated printed book (2016)](https://www.smithsonianmag.com/smart-news/Five-things-to-know-about-diamond-sutra-worlds-oldest-dated-printed-book-180959052/)
