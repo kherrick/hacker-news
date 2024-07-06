@@ -4,7 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-07-06](index.md)
 
+* [2024-07-06, 12:00:47](https://news.ycombinator.com/item?id=40889888) - [US created 111,000 fewer jobs in April and May than previously estimated](https://www.reuters.com/markets/us/us-employment-wage-growth-expected-moderate-june-2024-07-05/)
+* [2024-07-06, 12:00:12](https://news.ycombinator.com/item?id=40889886) - [Hadrius (YC W23) Is Hiring Founding Engineers in NYC](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
+* [2024-07-06, 11:18:00](https://news.ycombinator.com/item?id=40889705) - [Doctors Are Not Trained to Think Critically](https://www.madintheuk.com/2024/06/doctors-not-trained-to-think-critically/)
 * [2024-07-06, 10:14:41](https://news.ycombinator.com/item?id=40889428) - [Summary of Major Changes Between Python Versions](https://www.nicholashairs.com/posts/major-changes-between-python-versions/)
+* [2024-07-06, 09:38:48](https://news.ycombinator.com/item?id=40889280) - [Ask HN: Which programming podcasts do you listen to?](https://news.ycombinator.com/item?id=40889280)
 * [2024-07-06, 08:07:00](https://news.ycombinator.com/item?id=40888924) - [I've eaten a meal replacement shake twice a day for two years (2019)](https://www.vox.com/the-goods/2019/11/11/20953750/soylent-huel-sustainable-meal-replacement-tried)
 * [2024-07-06, 07:33:56](https://news.ycombinator.com/item?id=40888783) - [Mineral winds down: 'We will no longer be an Alphabet company'](https://agfundernews.com/mineral-winds-down-we-will-no-longer-be-an-alphabet-company-but-our-technology-will-live-on)
 * [2024-07-06, 06:53:25](https://news.ycombinator.com/item?id=40888613) - [U.S. SEC Wins 'Shadow Insider Trading' Trial](https://www.akingump.com/en/insights/alerts/the-sec-wins-shadow-insider-trading-trial)
