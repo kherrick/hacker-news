@@ -113,6 +113,7 @@
 * [2024-07-02, 08:45:22](https://news.ycombinator.com/item?id=40854721) - [Microsoft Updated Phi-3](https://twitter.com/reach_vb/status/1808056108319179012)
 * [2024-07-02, 08:26:48](https://news.ycombinator.com/item?id=40854623) - [DETRs Beat YOLOs on Real-Time Object Detection](https://zhao-yian.github.io/RTDETR/)
 * [2024-07-02, 08:25:32](https://news.ycombinator.com/item?id=40854617) - [Dolphin Rolling Releases Announcement](https://dolphin-emu.org/blog/2024/07/02/dolphin-releases-announcement/)
+* [2024-07-02, 08:01:59](https://news.ycombinator.com/item?id=40854497) - [What Happened to Perl 7?](https://blogs.perl.org/users/psc/2022/05/what-happened-to-perl-7.html)
 * [2024-07-02, 07:26:08](https://news.ycombinator.com/item?id=40854319) - [Diff-pdf: tool to visually compare two PDFs](https://github.com/vslavik/diff-pdf)
 * [2024-07-02, 05:41:25](https://news.ycombinator.com/item?id=40853845) - [Mako – fast, production-grade web bundler based on Rust](https://makojs.dev/blog/mako-open-sourced)
 * [2024-07-02, 05:38:31](https://news.ycombinator.com/item?id=40853834) - [The History of Machine Learning in Trackmania](https://hallofdreams.org/posts/trackmania-1/)
