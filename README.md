@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-06, 19:29:50](https://news.ycombinator.com/item?id=40892619) - [Ask HN: Why Google shut down business.site website feature?](https://news.ycombinator.com/item?id=40892619)
 * [2024-07-06, 18:58:50](https://news.ycombinator.com/item?id=40892412) - [New AI Training Technique Is Drastically Faster, Says Google](https://decrypt.co/238730/new-ai-training-technique-is-drastically-faster-says-google)
 * [2024-07-06, 18:52:41](https://news.ycombinator.com/item?id=40892365) - [Against the Burden of Knowledge](https://www.theseedsofscience.pub/p/against-the-burden-of-knowledge)
 * [2024-07-06, 18:47:10](https://news.ycombinator.com/item?id=40892312) - [Tokens are a big reason today's generative AI falls short](https://techcrunch.com/2024/07/06/tokens-are-a-big-reason-todays-generative-ai-falls-short/)
@@ -14,7 +15,6 @@
 * [2024-07-06, 15:07:30](https://news.ycombinator.com/item?id=40890847) - [Teaching general problem-solving skills is not a substitute for teaching math [pdf]](https://www.ams.org/notices/201010/rtx101001303p.pdf)
 * [2024-07-06, 12:29:18](https://news.ycombinator.com/item?id=40890035) - [Properly testing concurrent data structures](https://matklad.github.io/2024/07/05/properly-testing-concurrent-data-structures.html)
 * [2024-07-06, 04:00:39](https://news.ycombinator.com/item?id=40888085) - [Ford Dabney might have been the first jazz star](https://www.honest-broker.com/p/he-might-have-been-the-first-jazz)
-* [2024-07-06, 02:36:18](https://news.ycombinator.com/item?id=40887806) - [How to implement a hash table in C (2021)](https://benhoyt.com/writings/hash-table-in-c/)
 * [2024-07-04, 23:43:39](https://news.ycombinator.com/item?id=40878906) - [Gecko Tapes](https://web.stanford.edu/group/mota/education/Physics%2087N%20Final%20Projects/Group%20Gamma/gecko.htm)
 * [2024-07-04, 17:09:00](https://news.ycombinator.com/item?id=40876453) - [Advantages of incompetent management](https://yosefk.com/blog/advantages-of-incompetent-management.html)
 * [2024-07-04, 14:14:09](https://news.ycombinator.com/item?id=40875135) - [A rapid response system for elderly safety monitoring](https://ieeexplore.ieee.org/document/10547327)
