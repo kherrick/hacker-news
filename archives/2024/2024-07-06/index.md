@@ -4,10 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-07-06](index.md)
 
+* [2024-07-06, 18:02:05](https://news.ycombinator.com/item?id=40892019) - [China Cracks Down on Extreme Nationalism and Hate-Speech After Suzhou Slaying](https://chinadigitaltimes.net/2024/07/chinese-social-media-platforms-launch-crackdown-on-extreme-nationalism-and-xenophobic-hate-speech-after-fatal-suzhou-stabbing/)
 * [2024-07-06, 17:21:49](https://news.ycombinator.com/item?id=40891771) - [Evaluating a Decade of Hacker News Predictions: An Open-Source Approach](https://eamag.me/2024/HackerNews-Prediction-Evaluator)
 * [2024-07-06, 17:00:31](https://news.ycombinator.com/item?id=40891651) - [Patterns (YC S21), hiring to build a universal finance and accounting data model](https://patterns.app/)
+* [2024-07-06, 16:38:37](https://news.ycombinator.com/item?id=40891498) - [When the CIA turned writers into operatives](https://www.newyorker.com/culture/podcast-dept/when-the-cia-turned-writers-into-operatives)
 * [2024-07-06, 16:37:47](https://news.ycombinator.com/item?id=40891492) - [High-Tech salaries in Israel take nosedive in April](https://www.ynetnews.com/business/article/ryzhk1ddc)
+* [2024-07-06, 16:27:48](https://news.ycombinator.com/item?id=40891446) - [Kivy – a cross platform Python UI framework](https://kivy.org)
 * [2024-07-06, 16:16:26](https://news.ycombinator.com/item?id=40891367) - [Free and Open Source Software–and Other Market Failures](https://cacm.acm.org/practice/free-and-open-source-software-and-other-market-failures/)
+* [2024-07-06, 16:13:57](https://news.ycombinator.com/item?id=40891349) - [The Steel Man Technique: How to Argue Better and Be More Persuasive](https://constantrenewal.com/steel-man)
 * [2024-07-06, 16:01:25](https://news.ycombinator.com/item?id=40891252) - [First anode-free sodium solid-state battery](https://pme.uchicago.edu/news/uchicago-prof-shirley-mengs-laboratory-energy-storage-and-conversion-creates-worlds-first)
 * [2024-07-06, 15:07:30](https://news.ycombinator.com/item?id=40890847) - [Teaching General Problem-Solving Skills Is Not a Substitute for Teaching Math [pdf]](https://www.ams.org/notices/201010/rtx101001303p.pdf)
 * [2024-07-06, 14:31:26](https://news.ycombinator.com/item?id=40890668) - [The A.I. Bubble is Bursting with Ed Zitron [video]](https://www.youtube.com/watch?v=T8ByoAt5gCA)
