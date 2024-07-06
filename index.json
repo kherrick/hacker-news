@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-07-06, 02:36:18",
+      "https://news.ycombinator.com/item?id=40887806"
+    ],
+    [
+      "How to implement a hash table in C (2021)",
+      "https://benhoyt.com/writings/hash-table-in-c/"
+    ]
+  ],
+  [
+    [
       "2024-07-06, 01:13:40",
       "https://news.ycombinator.com/item?id=40887480"
     ],
@@ -231,16 +241,6 @@
   ],
   [
     [
-      "2024-07-02, 17:45:46",
-      "https://news.ycombinator.com/item?id=40858878"
-    ],
-    [
-      "Unlocking a Gary TL-15 Round-Door Safe (2009)",
-      "https://www.locksmithledger.com/keys-tools/article/10229247/unlocking-a-gary-tl-15-round-door-safe"
-    ]
-  ],
-  [
-    [
       "2024-07-02, 16:12:15",
       "https://news.ycombinator.com/item?id=40858023"
     ],
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=40854497"
     ],
     [
-      "What Happened to Perl 7?",
+      "What Happened to Perl 7? (2022)",
       "https://blogs.perl.org/users/psc/2022/05/what-happened-to-perl-7.html"
     ]
   ],
