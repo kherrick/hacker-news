@@ -51,32 +51,12 @@
   ],
   [
     [
-      "2024-07-06, 04:39:28",
-      "https://news.ycombinator.com/item?id=40888201"
-    ],
-    [
-      "1Password and 2FA: Is it wrong to store passwords and one-time codes together? (2023)",
-      "https://blog.1password.com/1password-2fa-passwords-codes-together/"
-    ]
-  ],
-  [
-    [
       "2024-07-06, 04:03:03",
       "https://news.ycombinator.com/item?id=40888090"
     ],
     [
       "Build and train GPT-2 from scratch using PyTorch",
       "https://differ.blog/p/here-s-how-you-can-build-and-train-gpt-2-from-scratch-using-pytorch-ace4ba"
-    ]
-  ],
-  [
-    [
-      "2024-07-06, 03:46:38",
-      "https://news.ycombinator.com/item?id=40888030"
-    ],
-    [
-      "Unverified NPM Account Takeover Vulnerability for Sale on Dark Web Forum",
-      "https://socket.dev/blog/unverified-npm-account-takeover-vulnerability-for-sale-on-dark-web-forum"
     ]
   ],
   [
@@ -241,6 +221,16 @@
   ],
   [
     [
+      "2024-07-02, 20:25:29",
+      "https://news.ycombinator.com/item?id=40860116"
+    ],
+    [
+      "Graph-Based Ceramics",
+      "https://www.alexreichert.com/blog/graph-based-ceramics"
+    ]
+  ],
+  [
+    [
       "2024-07-02, 18:21:51",
       "https://news.ycombinator.com/item?id=40859160"
     ],
@@ -287,6 +277,16 @@
     [
       "GPU-Friendly Stroke Expansion",
       "https://arxiv.org/abs/2405.00127"
+    ]
+  ],
+  [
+    [
+      "2024-07-02, 12:49:47",
+      "https://news.ycombinator.com/item?id=40856123"
+    ],
+    [
+      "Fiwix: Unix-like kernel for the i386 architecture",
+      "https://github.com/mikaku/Fiwix"
     ]
   ],
   [
