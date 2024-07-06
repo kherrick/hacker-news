@@ -33,6 +33,7 @@
 * [2024-07-05, 18:13:36](https://news.ycombinator.com/item?id=40884835) - [Adderall Shortage Caused by DEA Quotas on Controlled Substances](https://www.additudemag.com/adderall-shortage-dea-stimulants-adhd-medication/)
 * [2024-07-05, 18:08:15](https://news.ycombinator.com/item?id=40884806) - [UK election day 2024: traffic trends and attacks on political parties](https://blog.cloudflare.com/uk-election-day-2024-traffic-trends-and-attacks-on-political-parties)
 * [2024-07-05, 18:06:01](https://news.ycombinator.com/item?id=40884790) - [Mysterious export controls on quantum computers](https://www.newscientist.com/article/2436023-multiple-nations-enact-mysterious-export-controls-on-quantum-computers/)
+* [2024-07-05, 18:01:35](https://news.ycombinator.com/item?id=40884750) - [Ask HN: What is your favorite rolling Linux distro?](https://news.ycombinator.com/item?id=40884750)
 * [2024-07-05, 17:42:34](https://news.ycombinator.com/item?id=40884603) - [Fossil of Neanderthal child with Down's syndrome hints early humans' compassion](https://www.theguardian.com/science/article/2024/jun/26/fossil-of-neanderthal-child-with-downs-syndrome-hints-at-early-humans-compassion)
 * [2024-07-05, 17:30:53](https://news.ycombinator.com/item?id=40884523) - [Volcanoes Can Affect Climate](https://www.usgs.gov/programs/VHP/volcanoes-can-affect-climate)
 * [2024-07-05, 17:04:45](https://news.ycombinator.com/item?id=40884356) - [Let's Stop Counting Centuries](https://dynomight.net/centuries/)
