@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-06, 00:21:42](https://news.ycombinator.com/item?id=40887237) - [Code a DOOM-like game engine from scratch in C [PART I]](https://www.youtube.com/watch?v=p7f9p9nDsmc)
+* [2024-07-06, 00:18:15](https://news.ycombinator.com/item?id=40887218) - [Constantine: modular, high-performance, zero-dependency cryptography stack](https://forum.nim-lang.org/t/11935)
 * [2024-07-06, 00:04:18](https://news.ycombinator.com/item?id=40887168) - [Preserving a floppy disk with a logic analyzer and a serial cable](https://www.chzsoft.de/site/hardware/preserving-a-floppy-disk-with-a-logic-analyzer/)
 * [2024-07-05, 23:34:12](https://news.ycombinator.com/item?id=40887014) - [Antidotes for Melancholy in Early Modern England](https://www.folger.edu/blogs/collation/better-than-a-pound-of-sorrow/)
 * [2024-07-05, 22:41:49](https://news.ycombinator.com/item?id=40886689) - [War on citizens: How the junta's VPN ban is strangling communication in Myanmar](https://globalvoices.org/2024/06/28/war-on-citizens-how-the-juntas-vpn-ban-is-strangling-communication-in-myanmar/)
@@ -18,8 +18,8 @@
 * [2024-07-05, 11:27:10](https://news.ycombinator.com/item?id=40881836) - [Show HN: I’ve made a cheaper SEO research tool](https://withtelescope.com)
 * [2024-07-05, 08:42:27](https://news.ycombinator.com/item?id=40880932) - [I have no constructor, and I must initialize](https://consteval.ca/2024/07/03/initialization/)
 * [2024-07-05, 02:02:10](https://news.ycombinator.com/item?id=40879376) - [The IBM Magnetic Tape Selectric Composer](https://blog.bruchez.name/posts/ibm-mt-sc-1/)
-* [2024-07-04, 20:14:57](https://news.ycombinator.com/item?id=40877708) - [Show HN: Foorr – A minimal to-do app with social accountability](https://foorr.com/)
 * [2024-07-04, 17:20:18](https://news.ycombinator.com/item?id=40876528) - [Programmable Matter – 3D Catoms](https://www.programmable-matter.com/technology/3d-catoms)
+* [2024-07-03, 05:02:52](https://news.ycombinator.com/item?id=40862853) - [The Origin of the Species: NEC PC-8001 FDD Adapter](https://www.leadedsolder.com/2024/07/02/pc8001-pickup-disk-drive-interface.html)
 * [2024-07-02, 18:21:51](https://news.ycombinator.com/item?id=40859160) - [The Diamond Sutra, the oldest dated printed book (2016)](https://www.smithsonianmag.com/smart-news/Five-things-to-know-about-diamond-sutra-worlds-oldest-dated-printed-book-180959052/)
 * [2024-07-02, 18:21:10](https://news.ycombinator.com/item?id=40859152) - [Pwning a Brother labelmaker, for fun and interop](https://sdomi.pl/weblog/20-pwning-a-labelmaker/)
 * [2024-07-02, 17:45:46](https://news.ycombinator.com/item?id=40858878) - [Unlocking a Gary TL-15 Round-Door Safe (2009)](https://www.locksmithledger.com/keys-tools/article/10229247/unlocking-a-gary-tl-15-round-door-safe)
