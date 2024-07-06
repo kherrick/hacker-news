@@ -2,6 +2,8 @@
 
 * [2024-07-06, 12:29:18](https://news.ycombinator.com/item?id=40890035) - [Properly testing concurrent data structures](https://matklad.github.io/2024/07/05/properly-testing-concurrent-data-structures.html)
 * [2024-07-06, 12:00:12](https://news.ycombinator.com/item?id=40889886) - [Hadrius (YC W23) Is Hiring Founding Engineers in NYC](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
+* [2024-07-06, 11:57:29](https://news.ycombinator.com/item?id=40889871) - [With Nothing to Do](https://registerspill.thorstenball.com/p/with-nothing-to-do)
+* [2024-07-06, 11:21:45](https://news.ycombinator.com/item?id=40889723) - ['Money always wins': Inside Sydney's underground tree-killing industry](https://www.abc.net.au/news/2024-07-06/trees-killed-vandalism-crime-sydney-castle-cove-council/104041534)
 * [2024-07-06, 04:00:39](https://news.ycombinator.com/item?id=40888085) - [He might have been the first jazz star](https://www.honest-broker.com/p/he-might-have-been-the-first-jazz)
 * [2024-07-06, 03:19:17](https://news.ycombinator.com/item?id=40887955) - [RadioSide turns your spare device into a radio](https://radioside.com)
 * [2024-07-06, 00:47:52](https://news.ycombinator.com/item?id=40887359) - [Radio Garden](https://radio.garden/)
@@ -26,8 +28,6 @@
 * [2024-07-02, 16:12:15](https://news.ycombinator.com/item?id=40858023) - [Ants can carry out life-saving amputations on injured nest mates, study shows](https://www.theguardian.com/science/article/2024/jul/02/ants-emergency-amputations-injured-nest-mates-study)
 * [2024-07-02, 13:27:11](https://news.ycombinator.com/item?id=40856431) - [GPU-Friendly Stroke Expansion](https://arxiv.org/abs/2405.00127)
 * [2024-07-02, 12:49:47](https://news.ycombinator.com/item?id=40856123) - [Fiwix: Unix-like kernel for the i386 architecture](https://github.com/mikaku/Fiwix)
-* [2024-07-02, 12:28:31](https://news.ycombinator.com/item?id=40855962) - [Phosphor Icons](https://phosphoricons.com/)
-* [2024-07-02, 11:59:54](https://news.ycombinator.com/item?id=40855773) - [How random are TOTP codes?](https://shkspr.mobi/blog/2024/07/how-random-are-totp-codes/)
 * [2024-07-02, 08:01:59](https://news.ycombinator.com/item?id=40854497) - [What Happened to Perl 7? (2022)](https://blogs.perl.org/users/psc/2022/05/what-happened-to-perl-7.html)
 * [2024-07-02, 00:25:22](https://news.ycombinator.com/item?id=40852335) - [Cutting Board Designer](https://www.cuttingboarddesigner.com/designer/id/7bf4dff3-9b10-8c86-9e4c-bc2722f7487f)
 
