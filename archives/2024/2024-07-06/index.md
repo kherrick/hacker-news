@@ -17,6 +17,7 @@
 * [2024-07-06, 20:26:47](https://news.ycombinator.com/item?id=40892991) - [Microsoft Is Dead[2007]](https://paulgraham.com/microsoft.html)
 * [2024-07-06, 20:16:53](https://news.ycombinator.com/item?id=40892929) - [Investors Pour $27.1B into A.I. Startups, Defying a Downturn](https://www.nytimes.com/2024/07/03/technology/ai-startups-funding.html)
 * [2024-07-06, 20:04:50](https://news.ycombinator.com/item?id=40892848) - [Wireframes Are Cheap, Engineering Should Be Too](https://danielmangum.com/posts/wireframes-cheap-engineering-too/)
+* [2024-07-06, 20:03:55](https://news.ycombinator.com/item?id=40892841) - [Show HN: YTHunt, App for recommending/discovering interesting videos](https://www.ythunt.com/)
 * [2024-07-06, 19:59:48](https://news.ycombinator.com/item?id=40892812) - [Ask HN: Where are the good resources for learning audio processing?](https://news.ycombinator.com/item?id=40892812)
 * [2024-07-06, 19:59:32](https://news.ycombinator.com/item?id=40892811) - [The Antarctic Ice Core Chronology 2023](https://cp.copernicus.org/articles/19/2257/2023/)
 * [2024-07-06, 19:47:31](https://news.ycombinator.com/item?id=40892734) - [Chris Titus' Windows Debloat Tool](https://christitus.com/windows-tool/)
