@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-07-06, 12:29:18",
+      "https://news.ycombinator.com/item?id=40890035"
+    ],
+    [
+      "Properly Testing Concurrent Data Structures",
+      "https://matklad.github.io/2024/07/05/properly-testing-concurrent-data-structures.html"
+    ]
+  ],
+  [
+    [
       "2024-07-06, 12:00:12",
       "https://news.ycombinator.com/item?id=40889886"
     ],
     [
       "Hadrius (YC W23) Is Hiring Founding Engineers in NYC",
       "https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer"
+    ]
+  ],
+  [
+    [
+      "2024-07-06, 11:45:26",
+      "https://news.ycombinator.com/item?id=40889822"
+    ],
+    [
+      "Aya: A minimalist version control system with fewer than 6 commands",
+      "https://github.com/Mohamedjcali/aya"
+    ]
+  ],
+  [
+    [
+      "2024-07-06, 07:33:56",
+      "https://news.ycombinator.com/item?id=40888783"
+    ],
+    [
+      "Mineral winds down: 'We will no longer be an Alphabet company'",
+      "https://agfundernews.com/mineral-winds-down-we-will-no-longer-be-an-alphabet-company-but-our-technology-will-live-on"
     ]
   ],
   [
@@ -101,32 +131,12 @@
   ],
   [
     [
-      "2024-07-05, 14:10:02",
-      "https://news.ycombinator.com/item?id=40882881"
-    ],
-    [
-      "Mimicking the cells that carry hemoglobin as a blood substitute",
-      "https://www.science.org/content/article/ultimate-blood-substitute-us-military-betting-46-million"
-    ]
-  ],
-  [
-    [
       "2024-07-05, 13:38:11",
       "https://news.ycombinator.com/item?id=40882583"
     ],
     [
       "The Software Crisis",
       "https://wryl.tech/log/2024/the-software-crisis.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-05, 02:02:10",
-      "https://news.ycombinator.com/item?id=40879376"
-    ],
-    [
-      "The IBM Magnetic Tape Selectric Composer",
-      "https://blog.bruchez.name/posts/ibm-mt-sc-1/"
     ]
   ],
   [
@@ -261,12 +271,12 @@
   ],
   [
     [
-      "2024-07-02, 11:59:54",
-      "https://news.ycombinator.com/item?id=40855773"
+      "2024-07-02, 12:28:31",
+      "https://news.ycombinator.com/item?id=40855962"
     ],
     [
-      "How random are TOTP codes?",
-      "https://shkspr.mobi/blog/2024/07/how-random-are-totp-codes/"
+      "Phosphor Icons",
+      "https://phosphoricons.com/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "What Happened to Perl 7? (2022)",
       "https://blogs.perl.org/users/psc/2022/05/what-happened-to-perl-7.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-02, 01:32:51",
-      "https://news.ycombinator.com/item?id=40852733"
-    ],
-    [
-      "Config 2024: In defense of an old pixel [video]",
-      "https://www.youtube.com/watch?v=SDI8ubVZi7w"
     ]
   ],
   [
