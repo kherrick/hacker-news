@@ -103,6 +103,7 @@
 * [2024-07-02, 12:49:47](https://news.ycombinator.com/item?id=40856123) - [Fiwix: Unix-like kernel for the i386 architecture](https://github.com/mikaku/Fiwix)
 * [2024-07-02, 12:36:58](https://news.ycombinator.com/item?id=40856030) - [Why Is Chile So Long?](https://unchartedterritories.tomaspueyo.com/p/why-is-chile-so-long)
 * [2024-07-02, 12:34:55](https://news.ycombinator.com/item?id=40856014) - [New insights: Barbegal water mills](https://www.sciencedaily.com/releases/2024/07/240701131824.htm)
+* [2024-07-02, 12:28:31](https://news.ycombinator.com/item?id=40855962) - [Phosphor Icons](https://phosphoricons.com/)
 * [2024-07-02, 12:00:54](https://news.ycombinator.com/item?id=40855785) - [Lago – Open-Source Usage Based Billing Is Hiring a Data Scientist (EU-Based)](https://www.ycombinator.com/companies/lago/jobs/O7dCOie-data-scientist)
 * [2024-07-02, 11:59:54](https://news.ycombinator.com/item?id=40855773) - [How random are TOTP codes?](https://shkspr.mobi/blog/2024/07/how-random-are-totp-codes/)
 * [2024-07-02, 11:42:03](https://news.ycombinator.com/item?id=40855643) - [Some sanity for C and C++ development on Windows](https://nullprogram.com/blog/2021/12/30/)
