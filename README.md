@@ -2,8 +2,8 @@
 
 * [2024-07-06, 06:53:25](https://news.ycombinator.com/item?id=40888613) - [U.S. SEC Wins 'Shadow Insider Trading' Trial](https://www.akingump.com/en/insights/alerts/the-sec-wins-shadow-insider-trading-trial)
 * [2024-07-06, 06:22:03](https://news.ycombinator.com/item?id=40888501) - [DevOps Isn't Dead, but It's Not in Great Health Either](https://thenewstack.io/devops-isnt-dead-but-its-not-in-great-health-either/)
-* [2024-07-06, 06:07:15](https://news.ycombinator.com/item?id=40888461) - [Apple okays Epic Games marketplace app in Europe](https://www.reuters.com/technology/epic-games-says-apple-stalling-launch-its-game-store-europe-2024-07-05/)
 * [2024-07-06, 05:35:24](https://news.ycombinator.com/item?id=40888368) - [Private firms and open sources are giving spies a run for their money](https://www.economist.com/technology-quarterly/2024/07/01/private-firms-and-open-sources-are-giving-spies-a-run-for-their-money)
+* [2024-07-06, 04:39:28](https://news.ycombinator.com/item?id=40888201) - [1Password and 2FA: Is it wrong to store passwords and one-time codes together? (2023)](https://blog.1password.com/1password-2fa-passwords-codes-together/)
 * [2024-07-06, 04:03:03](https://news.ycombinator.com/item?id=40888090) - [Build and train GPT-2 from scratch using PyTorch](https://differ.blog/p/here-s-how-you-can-build-and-train-gpt-2-from-scratch-using-pytorch-ace4ba)
 * [2024-07-06, 03:19:17](https://news.ycombinator.com/item?id=40887955) - [RadioSide turns your spare device into a radio](https://radioside.com)
 * [2024-07-06, 02:36:18](https://news.ycombinator.com/item?id=40887806) - [How to implement a hash table in C (2021)](https://benhoyt.com/writings/hash-table-in-c/)
@@ -20,7 +20,6 @@
 * [2024-07-05, 15:57:18](https://news.ycombinator.com/item?id=40883839) - [Ente Auth: open-source Authy alternative for 2FA](https://ente.io/auth/)
 * [2024-07-05, 14:48:14](https://news.ycombinator.com/item?id=40883277) - [Put the DVD logo in the corner (2023)](https://eieio.games/game-diary/game-6-get-the-dvd-logo-into-the-corner/)
 * [2024-07-04, 06:02:55](https://news.ycombinator.com/item?id=40872672) - [Katharine Way, John Wheeler, and the Dawn of Nuclear Fission](https://www.amphilsoc.org/blog/katharine-way-john-wheeler-and-dawn-nuclear-fission)
-* [2024-07-03, 05:02:52](https://news.ycombinator.com/item?id=40862853) - [The Origin of the Species: NEC PC-8001 FDD Adapter](https://www.leadedsolder.com/2024/07/02/pc8001-pickup-disk-drive-interface.html)
 * [2024-07-02, 23:10:56](https://news.ycombinator.com/item?id=40861330) - [DIY RFID Business Card and Badge Holder with Victorinox Swiss Army Knife Tools](https://mcuoneclipse.com/2024/06/30/customizable-diy-rfid-business-card-and-badge-holder-with-victorinox-swiss-army-knife-tools/)
 * [2024-07-02, 20:25:29](https://news.ycombinator.com/item?id=40860116) - [Graph-Based Ceramics](https://www.alexreichert.com/blog/graph-based-ceramics)
 * [2024-07-02, 18:21:51](https://news.ycombinator.com/item?id=40859160) - [The Diamond Sutra, the oldest dated printed book (2016)](https://www.smithsonianmag.com/smart-news/Five-things-to-know-about-diamond-sutra-worlds-oldest-dated-printed-book-180959052/)
@@ -30,6 +29,7 @@
 * [2024-07-02, 13:27:11](https://news.ycombinator.com/item?id=40856431) - [GPU-Friendly Stroke Expansion](https://arxiv.org/abs/2405.00127)
 * [2024-07-02, 12:49:47](https://news.ycombinator.com/item?id=40856123) - [Fiwix: Unix-like kernel for the i386 architecture](https://github.com/mikaku/Fiwix)
 * [2024-07-02, 08:01:59](https://news.ycombinator.com/item?id=40854497) - [What Happened to Perl 7? (2022)](https://blogs.perl.org/users/psc/2022/05/what-happened-to-perl-7.html)
+* [2024-07-02, 00:25:22](https://news.ycombinator.com/item?id=40852335) - [Cutting Board Designer](https://www.cuttingboarddesigner.com/designer/id/7bf4dff3-9b10-8c86-9e4c-bc2722f7487f)
 
 ## [Archives](archives/index.md)
 
