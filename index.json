@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-07-06, 12:00:47",
-      "https://news.ycombinator.com/item?id=40889888"
-    ],
-    [
-      "US created 111,000 fewer jobs in April and May than previously estimated",
-      "https://www.reuters.com/markets/us/us-employment-wage-growth-expected-moderate-june-2024-07-05/"
-    ]
-  ],
-  [
-    [
       "2024-07-06, 12:00:12",
       "https://news.ycombinator.com/item?id=40889886"
     ],
@@ -21,72 +11,12 @@
   ],
   [
     [
-      "2024-07-06, 11:18:00",
-      "https://news.ycombinator.com/item?id=40889705"
-    ],
-    [
-      "Doctors Are Not Trained to Think Critically",
-      "https://www.madintheuk.com/2024/06/doctors-not-trained-to-think-critically/"
-    ]
-  ],
-  [
-    [
-      "2024-07-06, 09:38:48",
-      "https://news.ycombinator.com/item?id=40889280"
-    ],
-    [
-      "Ask HN: Which programming podcasts do you listen to?",
-      "https://news.ycombinator.com/item?id=40889280"
-    ]
-  ],
-  [
-    [
-      "2024-07-06, 06:53:25",
-      "https://news.ycombinator.com/item?id=40888613"
-    ],
-    [
-      "U.S. SEC Wins 'Shadow Insider Trading' Trial",
-      "https://www.akingump.com/en/insights/alerts/the-sec-wins-shadow-insider-trading-trial"
-    ]
-  ],
-  [
-    [
-      "2024-07-06, 04:03:03",
-      "https://news.ycombinator.com/item?id=40888090"
-    ],
-    [
-      "Build and train GPT-2 from scratch using PyTorch",
-      "https://differ.blog/p/here-s-how-you-can-build-and-train-gpt-2-from-scratch-using-pytorch-ace4ba"
-    ]
-  ],
-  [
-    [
       "2024-07-06, 03:19:17",
       "https://news.ycombinator.com/item?id=40887955"
     ],
     [
       "RadioSide turns your spare device into a radio",
       "https://radioside.com"
-    ]
-  ],
-  [
-    [
-      "2024-07-06, 02:36:18",
-      "https://news.ycombinator.com/item?id=40887806"
-    ],
-    [
-      "How to implement a hash table in C (2021)",
-      "https://benhoyt.com/writings/hash-table-in-c/"
-    ]
-  ],
-  [
-    [
-      "2024-07-06, 01:13:40",
-      "https://news.ycombinator.com/item?id=40887480"
-    ],
-    [
-      "HTML5 Differences from HTML4 (2014)",
-      "https://www.w3.org/TR/html5-diff/"
     ]
   ],
   [
@@ -131,26 +61,6 @@
   ],
   [
     [
-      "2024-07-05, 21:57:49",
-      "https://news.ycombinator.com/item?id=40886419"
-    ],
-    [
-      "Tao Te Ching translated by Ursula Le Guin (1997)",
-      "https://github.com/nrrb/tao-te-ching/blob/master/Ursula%20K%20Le%20Guin.md"
-    ]
-  ],
-  [
-    [
-      "2024-07-05, 19:13:06",
-      "https://news.ycombinator.com/item?id=40885238"
-    ],
-    [
-      "DuckDB Community Extensions",
-      "https://duckdb.org/2024/07/05/community-extensions.html"
-    ]
-  ],
-  [
-    [
       "2024-07-05, 18:21:01",
       "https://news.ycombinator.com/item?id=40884878"
     ],
@@ -187,6 +97,46 @@
     [
       "Put the DVD logo in the corner (2023)",
       "https://eieio.games/game-diary/game-6-get-the-dvd-logo-into-the-corner/"
+    ]
+  ],
+  [
+    [
+      "2024-07-05, 14:10:02",
+      "https://news.ycombinator.com/item?id=40882881"
+    ],
+    [
+      "Mimicking the cells that carry hemoglobin as a blood substitute",
+      "https://www.science.org/content/article/ultimate-blood-substitute-us-military-betting-46-million"
+    ]
+  ],
+  [
+    [
+      "2024-07-05, 13:38:11",
+      "https://news.ycombinator.com/item?id=40882583"
+    ],
+    [
+      "The Software Crisis",
+      "https://wryl.tech/log/2024/the-software-crisis.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-05, 02:02:10",
+      "https://news.ycombinator.com/item?id=40879376"
+    ],
+    [
+      "The IBM Magnetic Tape Selectric Composer",
+      "https://blog.bruchez.name/posts/ibm-mt-sc-1/"
+    ]
+  ],
+  [
+    [
+      "2024-07-04, 17:20:18",
+      "https://news.ycombinator.com/item?id=40876528"
+    ],
+    [
+      "Programmable Matter – 3D Catoms",
+      "https://www.programmable-matter.com/technology/3d-catoms"
     ]
   ],
   [
@@ -251,6 +201,16 @@
   ],
   [
     [
+      "2024-07-02, 17:45:46",
+      "https://news.ycombinator.com/item?id=40858878"
+    ],
+    [
+      "Unlocking a Gary TL-15 Round-Door Safe (2009)",
+      "https://www.locksmithledger.com/keys-tools/article/10229247/unlocking-a-gary-tl-15-round-door-safe"
+    ]
+  ],
+  [
+    [
       "2024-07-02, 17:35:07",
       "https://news.ycombinator.com/item?id=40858790"
     ],
@@ -291,12 +251,52 @@
   ],
   [
     [
+      "2024-07-02, 12:49:47",
+      "https://news.ycombinator.com/item?id=40856123"
+    ],
+    [
+      "Fiwix: Unix-like kernel for the i386 architecture",
+      "https://github.com/mikaku/Fiwix"
+    ]
+  ],
+  [
+    [
+      "2024-07-02, 11:59:54",
+      "https://news.ycombinator.com/item?id=40855773"
+    ],
+    [
+      "How random are TOTP codes?",
+      "https://shkspr.mobi/blog/2024/07/how-random-are-totp-codes/"
+    ]
+  ],
+  [
+    [
       "2024-07-02, 08:01:59",
       "https://news.ycombinator.com/item?id=40854497"
     ],
     [
       "What Happened to Perl 7? (2022)",
       "https://blogs.perl.org/users/psc/2022/05/what-happened-to-perl-7.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-02, 01:32:51",
+      "https://news.ycombinator.com/item?id=40852733"
+    ],
+    [
+      "Config 2024: In defense of an old pixel [video]",
+      "https://www.youtube.com/watch?v=SDI8ubVZi7w"
+    ]
+  ],
+  [
+    [
+      "2024-07-02, 00:25:22",
+      "https://news.ycombinator.com/item?id=40852335"
+    ],
+    [
+      "Cutting Board Designer",
+      "https://www.cuttingboarddesigner.com/designer/id/7bf4dff3-9b10-8c86-9e4c-bc2722f7487f"
     ]
   ]
 ]
