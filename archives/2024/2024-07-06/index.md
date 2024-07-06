@@ -4,13 +4,17 @@
 
 ### [Archives](../../index.md) for [2024-07-06](index.md)
 
+* [2024-07-06, 18:52:41](https://news.ycombinator.com/item?id=40892365) - [Against the Burden of Knowledge](https://www.theseedsofscience.pub/p/against-the-burden-of-knowledge)
+* [2024-07-06, 18:47:10](https://news.ycombinator.com/item?id=40892312) - [Tokens are a big reason today's generative AI falls short](https://techcrunch.com/2024/07/06/tokens-are-a-big-reason-todays-generative-ai-falls-short/)
 * [2024-07-06, 18:38:43](https://news.ycombinator.com/item?id=40892259) - [Why privacy is important, and having \"nothing to hide\" is irrelevant (2016)](https://robindoherty.com/2016/01/06/nothing-to-hide.html)
+* [2024-07-06, 18:20:42](https://news.ycombinator.com/item?id=40892138) - [Creative Chair](https://creativechair.org/)
 * [2024-07-06, 18:09:28](https://news.ycombinator.com/item?id=40892063) - [The Supreme Court Doesn't Want You to Have Clean Water and Safe Air](https://www.wired.com/story/supreme-court-clean-water-safe-air-epa-chevron-koch-brothers/)
 * [2024-07-06, 18:02:05](https://news.ycombinator.com/item?id=40892019) - [China Cracks Down on Extreme Nationalism and Hate-Speech After Suzhou Slaying](https://chinadigitaltimes.net/2024/07/chinese-social-media-platforms-launch-crackdown-on-extreme-nationalism-and-xenophobic-hate-speech-after-fatal-suzhou-stabbing/)
 * [2024-07-06, 17:47:34](https://news.ycombinator.com/item?id=40891932) - [Emergency rooms are not okay](https://yourlocalepidemiologist.substack.com/p/emergency-rooms-are-not-okay)
 * [2024-07-06, 17:21:49](https://news.ycombinator.com/item?id=40891771) - [Evaluating a Decade of Hacker News Predictions: An Open-Source Approach](https://eamag.me/2024/HackerNews-Prediction-Evaluator)
 * [2024-07-06, 17:00:31](https://news.ycombinator.com/item?id=40891651) - [Patterns (YC S21), hiring to build a universal finance and accounting data model](https://patterns.app/)
 * [2024-07-06, 17:00:16](https://news.ycombinator.com/item?id=40891649) - [Eddy Cue: 'After 36 years at Apple, I'm still learning every day'](https://appleinsider.com/articles/24/07/06/eddy-cue-after-36-years-at-apple-im-still-learning-every-day)
+* [2024-07-06, 16:59:17](https://news.ycombinator.com/item?id=40891643) - [Show HN: Bash Dungeon – An educational dungeon crawler in the shell](https://github.com/wolandark/bash-dungeon)
 * [2024-07-06, 16:40:59](https://news.ycombinator.com/item?id=40891507) - [Fabric is an open-source framework for augmenting humans using AI](https://github.com/danielmiessler/fabric)
 * [2024-07-06, 16:38:37](https://news.ycombinator.com/item?id=40891498) - [When the CIA turned writers into operatives](https://www.newyorker.com/culture/podcast-dept/when-the-cia-turned-writers-into-operatives)
 * [2024-07-06, 16:37:47](https://news.ycombinator.com/item?id=40891492) - [High-Tech salaries in Israel take nosedive in April](https://www.ynetnews.com/business/article/ryzhk1ddc)
