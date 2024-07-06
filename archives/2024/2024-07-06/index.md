@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-06](index.md)
 
+* [2024-07-06, 20:26:47](https://news.ycombinator.com/item?id=40892991) - [Microsoft Is Dead[2007]](https://paulgraham.com/microsoft.html)
+* [2024-07-06, 20:16:53](https://news.ycombinator.com/item?id=40892929) - [Investors Pour $27.1B into A.I. Startups, Defying a Downturn](https://www.nytimes.com/2024/07/03/technology/ai-startups-funding.html)
 * [2024-07-06, 19:29:50](https://news.ycombinator.com/item?id=40892619) - [Ask HN: Why Google shut down business.site website feature?](https://news.ycombinator.com/item?id=40892619)
 * [2024-07-06, 19:20:30](https://news.ycombinator.com/item?id=40892561) - [AI cheating is destroying higher education](https://thehill.com/opinion/education/4570563-ai-cheating-is-destroying-higher-education-heres-how-to-fight-it/)
 * [2024-07-06, 18:58:50](https://news.ycombinator.com/item?id=40892412) - [New AI Training Technique Is Drastically Faster, Says Google](https://decrypt.co/238730/new-ai-training-technique-is-drastically-faster-says-google)
