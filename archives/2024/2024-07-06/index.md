@@ -6,6 +6,7 @@
 
 * [2024-07-06, 14:31:26](https://news.ycombinator.com/item?id=40890668) - [The A.I. Bubble is Bursting with Ed Zitron [video]](https://www.youtube.com/watch?v=T8ByoAt5gCA)
 * [2024-07-06, 14:02:15](https://news.ycombinator.com/item?id=40890534) - [Anxious Generation – How Safetyism and Social Media Are Damaging the Kids](https://matija.eu/posts/anxious-generation-safetyism-social-media/)
+* [2024-07-06, 13:56:37](https://news.ycombinator.com/item?id=40890498) - [Fata Morgana](https://en.wikipedia.org/wiki/Fata_Morgana_(mirage))
 * [2024-07-06, 13:48:04](https://news.ycombinator.com/item?id=40890449) - [Do not factory reset your Pixel until at least 15 minutes after a system update](https://support.google.com/pixelphone/thread/283220215/issues-after-factory-resetting-pixel-6-devices?hl=en)
 * [2024-07-06, 12:53:22](https://news.ycombinator.com/item?id=40890151) - [Italian prosecutors found Dior paid $57 to produce bags retailing for $2,780](https://www.businessinsider.com/dior-italy-labor-investigation-contractors-lvmh-armani-luxury-bags-2024-7)
 * [2024-07-06, 12:29:18](https://news.ycombinator.com/item?id=40890035) - [Properly Testing Concurrent Data Structures](https://matklad.github.io/2024/07/05/properly-testing-concurrent-data-structures.html)

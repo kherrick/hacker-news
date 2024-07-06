@@ -31,6 +31,7 @@
 * [2024-07-02, 20:42:09](https://news.ycombinator.com/item?id=40860227) - [The Queen's Doll's House](https://clairelevans.substack.com/p/the-queens-dolls-house)
 * [2024-07-02, 20:39:23](https://news.ycombinator.com/item?id=40860207) - [Blog.ethereum.org Mailing List Incident](https://blog.ethereum.org/2024/07/02/blog-incident)
 * [2024-07-02, 20:34:38](https://news.ycombinator.com/item?id=40860176) - [Figma pulls AI tool after criticism that it ripped off Apple's design](https://www.theverge.com/2024/7/2/24190823/figma-ai-tool-apple-weather-app-copy)
+* [2024-07-02, 20:28:44](https://news.ycombinator.com/item?id=40860136) - [Babies Babble with Acquired Accents](https://www.rawstory.com/the-science-of-baby-babbling-and-why-it-can-take-on-accents/)
 * [2024-07-02, 20:25:29](https://news.ycombinator.com/item?id=40860116) - [Graph-Based Ceramics](https://www.alexreichert.com/blog/graph-based-ceramics)
 * [2024-07-02, 20:12:56](https://news.ycombinator.com/item?id=40860039) - [Common Lisp Documentation](http://l1sp.org/html/)
 * [2024-07-02, 20:11:43](https://news.ycombinator.com/item?id=40860022) - [Show HN: I made a search engine for Hacker News](https://hackernews.demo.vectara.com/)
