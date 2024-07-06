@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-06, 23:24:53](https://news.ycombinator.com/item?id=40894082) - [OpenAI was hacked year-old breach wasn't reported to the public](https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-was-hacked-revealing-internal-secrets-and-raising-national-security-concerns-year-old-breach-wasnt-reported-to-the-public)
+* [2024-07-06, 22:12:41](https://news.ycombinator.com/item?id=40893749) - [What causes migraines? Study of 'brain blackout' offers clues](https://www.nature.com/articles/d41586-024-02222-x)
 * [2024-07-06, 21:02:06](https://news.ycombinator.com/item?id=40893287) - [Charge Robotics (YC S21) is hiring full-stack devs to deploy solar robots](https://www.ycombinator.com/companies/charge-robotics/jobs/gbIFjoq-senior-software-engineer-full-stack)
-* [2024-07-06, 20:52:56](https://news.ycombinator.com/item?id=40893203) - [Montana Has More Cows Than People. Why Are Locals Eating Beef from Brazil?](https://www.nytimes.com/2024/06/13/business/montana-meat-old-salt-co-op.html)
 * [2024-07-06, 20:27:17](https://news.ycombinator.com/item?id=40892994) - [Speeding up the JavaScript ecosystem – Isolated Declarations](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-10/)
 * [2024-07-06, 19:59:48](https://news.ycombinator.com/item?id=40892812) - [Ask HN: Where are the good resources for learning audio processing?](https://news.ycombinator.com/item?id=40892812)
 * [2024-07-06, 19:59:32](https://news.ycombinator.com/item?id=40892811) - [The Antarctic Ice Core Chronology 2023](https://cp.copernicus.org/articles/19/2257/2023/)
@@ -29,7 +30,6 @@
 * [2024-07-03, 02:29:56](https://news.ycombinator.com/item?id=40862249) - [Writing GUI applications on the Raspberry Pi without a desktop environment (2019)](https://avikdas.com/2019/01/23/writing-gui-applications-on-raspberry-pi-without-x.html)
 * [2024-07-02, 20:28:44](https://news.ycombinator.com/item?id=40860136) - [Babies babble with acquired accents](https://www.rawstory.com/the-science-of-baby-babbling-and-why-it-can-take-on-accents/)
 * [2024-07-02, 19:47:00](https://news.ycombinator.com/item?id=40859854) - [Overexposed](https://www.historynewsnetwork.org/article/overexposed)
-* [2024-07-02, 13:27:11](https://news.ycombinator.com/item?id=40856431) - [GPU-Friendly Stroke Expansion](https://arxiv.org/abs/2405.00127)
 
 ## [Archives](archives/index.md)
 
