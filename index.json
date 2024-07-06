@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-07-06, 14:31:26",
-      "https://news.ycombinator.com/item?id=40890668"
-    ],
-    [
-      "The A.I. Bubble is Bursting with Ed Zitron [video]",
-      "https://www.youtube.com/watch?v=T8ByoAt5gCA"
-    ]
-  ],
-  [
-    [
       "2024-07-06, 14:02:15",
       "https://news.ycombinator.com/item?id=40890534"
     ],
@@ -37,6 +27,16 @@
     [
       "Properly testing concurrent data structures",
       "https://matklad.github.io/2024/07/05/properly-testing-concurrent-data-structures.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-06, 12:14:12",
+      "https://news.ycombinator.com/item?id=40889951"
+    ],
+    [
+      "Show HN: A JavaScript UI library for imperative JSX",
+      "https://www.npmjs.com/package/@matry/dom"
     ]
   ],
   [
@@ -127,6 +127,16 @@
     [
       "PostgreSQL and UUID as Primary Key",
       "https://maciejwalkowiak.com/blog/postgres-uuid-primary-key/"
+    ]
+  ],
+  [
+    [
+      "2024-07-05, 18:01:35",
+      "https://news.ycombinator.com/item?id=40884750"
+    ],
+    [
+      "Ask HN: What is your favorite rolling Linux distro?",
+      "https://news.ycombinator.com/item?id=40884750"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Pwning a Brother labelmaker, for fun and interop",
       "https://sdomi.pl/weblog/20-pwning-a-labelmaker/"
-    ]
-  ],
-  [
-    [
-      "2024-07-02, 17:45:46",
-      "https://news.ycombinator.com/item?id=40858878"
-    ],
-    [
-      "Unlocking a Gary TL-15 Round-Door Safe (2009)",
-      "https://www.locksmithledger.com/keys-tools/article/10229247/unlocking-a-gary-tl-15-round-door-safe"
     ]
   ],
   [
