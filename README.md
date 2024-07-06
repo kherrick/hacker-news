@@ -2,7 +2,6 @@
 
 * [2024-07-06, 21:26:47](https://news.ycombinator.com/item?id=40893446) - [The African workers driving the AI revolution, for about a dollar an hour](https://www.theguardian.com/technology/article/2024/jul/06/mercy-anita-african-workers-ai-artificial-intelligence-exploitation-feeding-machine)
 * [2024-07-06, 21:02:06](https://news.ycombinator.com/item?id=40893287) - [Charge Robotics (YC S21) is hiring full-stack devs to deploy solar robots](https://www.ycombinator.com/companies/charge-robotics/jobs/gbIFjoq-senior-software-engineer-full-stack)
-* [2024-07-06, 20:52:56](https://news.ycombinator.com/item?id=40893203) - [Montana Has More Cows Than People. Why Are Locals Eating Beef from Brazil?](https://www.nytimes.com/2024/06/13/business/montana-meat-old-salt-co-op.html)
 * [2024-07-06, 20:27:17](https://news.ycombinator.com/item?id=40892994) - [Speeding up the JavaScript ecosystem – Isolated Declarations](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-10/)
 * [2024-07-06, 19:59:48](https://news.ycombinator.com/item?id=40892812) - [Ask HN: Where are the good resources for learning audio processing?](https://news.ycombinator.com/item?id=40892812)
 * [2024-07-06, 18:58:50](https://news.ycombinator.com/item?id=40892412) - [New AI Training Technique Is Drastically Faster, Says Google](https://decrypt.co/238730/new-ai-training-technique-is-drastically-faster-says-google)
@@ -15,6 +14,7 @@
 * [2024-07-06, 16:01:25](https://news.ycombinator.com/item?id=40891252) - [First anode-free sodium solid-state battery](https://pme.uchicago.edu/news/uchicago-prof-shirley-mengs-laboratory-energy-storage-and-conversion-creates-worlds-first)
 * [2024-07-06, 15:07:30](https://news.ycombinator.com/item?id=40890847) - [Teaching general problem-solving skills is not a substitute for teaching math [pdf] (2010)](https://www.ams.org/notices/201010/rtx101001303p.pdf)
 * [2024-07-06, 12:29:18](https://news.ycombinator.com/item?id=40890035) - [Properly testing concurrent data structures](https://matklad.github.io/2024/07/05/properly-testing-concurrent-data-structures.html)
+* [2024-07-06, 07:44:32](https://news.ycombinator.com/item?id=40888826) - [Jqjq: Jq Implementation of Jq](https://github.com/wader/jqjq)
 * [2024-07-06, 04:00:39](https://news.ycombinator.com/item?id=40888085) - [Ford Dabney might have been the first jazz star](https://www.honest-broker.com/p/he-might-have-been-the-first-jazz)
 * [2024-07-05, 18:26:35](https://news.ycombinator.com/item?id=40884928) - [What is e to the Power of d/dx? – Shift Operator](https://www.youtube.com/watch?v=INTKzi0qXpY)
 * [2024-07-04, 23:43:39](https://news.ycombinator.com/item?id=40878906) - [Gecko Tapes](https://web.stanford.edu/group/mota/education/Physics%2087N%20Final%20Projects/Group%20Gamma/gecko.htm)
