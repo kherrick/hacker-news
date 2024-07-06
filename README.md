@@ -21,6 +21,7 @@
 * [2024-07-05, 08:42:27](https://news.ycombinator.com/item?id=40880932) - [I have no constructor, and I must initialize](https://consteval.ca/2024/07/03/initialization/)
 * [2024-07-04, 17:20:18](https://news.ycombinator.com/item?id=40876528) - [Programmable Matter – 3D Catoms](https://www.programmable-matter.com/technology/3d-catoms)
 * [2024-07-03, 05:02:52](https://news.ycombinator.com/item?id=40862853) - [The Origin of the Species: NEC PC-8001 FDD Adapter](https://www.leadedsolder.com/2024/07/02/pc8001-pickup-disk-drive-interface.html)
+* [2024-07-02, 23:10:56](https://news.ycombinator.com/item?id=40861330) - [DIY RFID Business Card and Badge Holder with Victorinox Swiss Army Knife Tools](https://mcuoneclipse.com/2024/06/30/customizable-diy-rfid-business-card-and-badge-holder-with-victorinox-swiss-army-knife-tools/)
 * [2024-07-02, 18:21:51](https://news.ycombinator.com/item?id=40859160) - [The Diamond Sutra, the oldest dated printed book (2016)](https://www.smithsonianmag.com/smart-news/Five-things-to-know-about-diamond-sutra-worlds-oldest-dated-printed-book-180959052/)
 * [2024-07-02, 18:21:10](https://news.ycombinator.com/item?id=40859152) - [Pwning a Brother labelmaker, for fun and interop](https://sdomi.pl/weblog/20-pwning-a-labelmaker/)
 * [2024-07-02, 17:45:46](https://news.ycombinator.com/item?id=40858878) - [Unlocking a Gary TL-15 Round-Door Safe (2009)](https://www.locksmithledger.com/keys-tools/article/10229247/unlocking-a-gary-tl-15-round-door-safe)
@@ -29,7 +30,6 @@
 * [2024-07-02, 01:32:51](https://news.ycombinator.com/item?id=40852733) - [Config 2024: In defense of an old pixel [video]](https://www.youtube.com/watch?v=SDI8ubVZi7w)
 * [2024-07-02, 00:25:22](https://news.ycombinator.com/item?id=40852335) - [Cutting Board Designer](https://www.cuttingboarddesigner.com/designer/id/7bf4dff3-9b10-8c86-9e4c-bc2722f7487f)
 * [2024-07-01, 19:06:30](https://news.ycombinator.com/item?id=40849306) - [The Past, Present, and Future of Lager Yeast](https://www.goodbeerhunting.com/blog/2024/6/18/the-past-present-and-future-of-lager-yeast)
-* [2024-07-01, 06:27:13](https://news.ycombinator.com/item?id=40843123) - [About Passkey – the password-free tech Apple is betting on](https://www.fastcompany.com/91146873/what-is-a-passkey-password-apple-ios-18-google-microsoft-bank)
 
 ## [Archives](archives/index.md)
 
