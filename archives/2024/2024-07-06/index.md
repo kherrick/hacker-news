@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-06](index.md)
 
+* [2024-07-06, 12:53:22](https://news.ycombinator.com/item?id=40890151) - [Italian prosecutors found Dior paid $57 to produce bags retailing for $2,780](https://www.businessinsider.com/dior-italy-labor-investigation-contractors-lvmh-armani-luxury-bags-2024-7)
 * [2024-07-06, 12:29:18](https://news.ycombinator.com/item?id=40890035) - [Properly Testing Concurrent Data Structures](https://matklad.github.io/2024/07/05/properly-testing-concurrent-data-structures.html)
 * [2024-07-06, 12:00:47](https://news.ycombinator.com/item?id=40889888) - [US created 111,000 fewer jobs in April and May than previously estimated](https://www.reuters.com/markets/us/us-employment-wage-growth-expected-moderate-june-2024-07-05/)
 * [2024-07-06, 12:00:12](https://news.ycombinator.com/item?id=40889886) - [Hadrius (YC W23) Is Hiring Founding Engineers in NYC](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
