@@ -56,6 +56,7 @@
 * [2024-07-03, 15:09:16](https://news.ycombinator.com/item?id=40866703) - [Hurricane Beryl Isn't a Freak Storm–It's the Nightmare Meteorologists Predicted](https://www.wired.com/story/hurricane-beryl-category-5-storm-extreme-weather-summer-2024/)
 * [2024-07-03, 14:54:19](https://news.ycombinator.com/item?id=40866528) - [Background of Linux's \"file-max\" and \"nr_open\" limits on file descriptors (2021)](https://utcc.utoronto.ca/~cks/space/blog/unix/TwoFileDescriptorLimits)
 * [2024-07-03, 14:47:18](https://news.ycombinator.com/item?id=40866442) - [Making a Linux-managed network switch](https://blog.brixit.nl/making-a-linux-managed-network-switch/)
+* [2024-07-03, 14:46:15](https://news.ycombinator.com/item?id=40866427) - [Can't stop your cat from scratching the furniture? Science has some tips](https://arstechnica.com/science/2024/07/cant-stop-your-cat-from-scratching-the-furniture-science-has-some-tips/)
 * [2024-07-03, 14:42:02](https://news.ycombinator.com/item?id=40866374) - [Do not taunt happy fun branch predictor](https://www.mattkeeter.com/blog/2023-01-25-branch/)
 * [2024-07-03, 14:35:13](https://news.ycombinator.com/item?id=40866311) - [Ask HN: Has anyone successfully pivoted from web dev to AI/ML development?](https://news.ycombinator.com/item?id=40866311)
 * [2024-07-03, 14:18:56](https://news.ycombinator.com/item?id=40866155) - [Living in a Lucid Dream](https://www.noemamag.com/living-in-a-lucid-dream/)
