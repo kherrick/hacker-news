@@ -4,9 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-07-06](index.md)
 
+* [2024-07-06, 21:02:06](https://news.ycombinator.com/item?id=40893287) - [Charge Robotics (YC S21) is hiring full-stack devs to deploy solar robots](https://www.ycombinator.com/companies/charge-robotics/jobs/gbIFjoq-senior-software-engineer-full-stack)
+* [2024-07-06, 20:52:56](https://news.ycombinator.com/item?id=40893203) - [Montana Has More Cows Than People. Why Are Locals Eating Beef from Brazil?](https://www.nytimes.com/2024/06/13/business/montana-meat-old-salt-co-op.html)
+* [2024-07-06, 20:40:03](https://news.ycombinator.com/item?id=40893074) - [Top GitHub repositories which everyone should look](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look)
 * [2024-07-06, 20:26:47](https://news.ycombinator.com/item?id=40892991) - [Microsoft Is Dead[2007]](https://paulgraham.com/microsoft.html)
 * [2024-07-06, 20:16:53](https://news.ycombinator.com/item?id=40892929) - [Investors Pour $27.1B into A.I. Startups, Defying a Downturn](https://www.nytimes.com/2024/07/03/technology/ai-startups-funding.html)
 * [2024-07-06, 20:04:50](https://news.ycombinator.com/item?id=40892848) - [Wireframes Are Cheap, Engineering Should Be Too](https://danielmangum.com/posts/wireframes-cheap-engineering-too/)
+* [2024-07-06, 19:59:48](https://news.ycombinator.com/item?id=40892812) - [Ask HN: Where are the good resources for learning audio processing?](https://news.ycombinator.com/item?id=40892812)
 * [2024-07-06, 19:47:31](https://news.ycombinator.com/item?id=40892734) - [Chris Titus' Windows Debloat Tool](https://christitus.com/windows-tool/)
 * [2024-07-06, 19:29:50](https://news.ycombinator.com/item?id=40892619) - [Ask HN: Why Google shut down business.site website feature?](https://news.ycombinator.com/item?id=40892619)
 * [2024-07-06, 19:20:30](https://news.ycombinator.com/item?id=40892561) - [AI cheating is destroying higher education](https://thehill.com/opinion/education/4570563-ai-cheating-is-destroying-higher-education-heres-how-to-fight-it/)
@@ -25,6 +29,7 @@
 * [2024-07-06, 16:59:17](https://news.ycombinator.com/item?id=40891643) - [Show HN: Bash Dungeon – An educational dungeon crawler in the shell](https://github.com/wolandark/bash-dungeon)
 * [2024-07-06, 16:40:59](https://news.ycombinator.com/item?id=40891507) - [Fabric is an open-source framework for augmenting humans using AI](https://github.com/danielmiessler/fabric)
 * [2024-07-06, 16:38:37](https://news.ycombinator.com/item?id=40891498) - [When the CIA turned writers into operatives](https://www.newyorker.com/culture/podcast-dept/when-the-cia-turned-writers-into-operatives)
+* [2024-07-06, 16:38:24](https://news.ycombinator.com/item?id=40891495) - [Leonard Rome's lab discovered an odd component of cells in the 1980s: Vaults](https://www.science.org/content/article/biologist-aims-solve-cell-s-biggest-mystery-could-it-help-cancer-patients-too)
 * [2024-07-06, 16:37:47](https://news.ycombinator.com/item?id=40891492) - [High-Tech salaries in Israel take nosedive in April](https://www.ynetnews.com/business/article/ryzhk1ddc)
 * [2024-07-06, 16:27:48](https://news.ycombinator.com/item?id=40891446) - [Kivy – a cross platform Python UI framework](https://kivy.org)
 * [2024-07-06, 16:16:26](https://news.ycombinator.com/item?id=40891367) - [Free and Open Source Software–and Other Market Failures](https://cacm.acm.org/practice/free-and-open-source-software-and-other-market-failures/)
