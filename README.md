@@ -28,8 +28,8 @@
 * [2024-07-02, 17:35:07](https://news.ycombinator.com/item?id=40858790) - [The asymmetry of nudges](https://lcamtuf.substack.com/p/the-asymmetry-of-nudges)
 * [2024-07-02, 16:12:15](https://news.ycombinator.com/item?id=40858023) - [Ants can carry out life-saving amputations on injured nest mates, study shows](https://www.theguardian.com/science/article/2024/jul/02/ants-emergency-amputations-injured-nest-mates-study)
 * [2024-07-02, 13:07:04](https://news.ycombinator.com/item?id=40856270) - [Forget about the gym Chicken-sizing will keep you fit](https://text.npr.org/g-s1-6784)
+* [2024-07-02, 12:49:47](https://news.ycombinator.com/item?id=40856123) - [Fiwix: Unix-like kernel for the i386 architecture](https://github.com/mikaku/Fiwix)
 * [2024-07-02, 08:01:59](https://news.ycombinator.com/item?id=40854497) - [What Happened to Perl 7? (2022)](https://blogs.perl.org/users/psc/2022/05/what-happened-to-perl-7.html)
-* [2024-07-01, 11:40:56](https://news.ycombinator.com/item?id=40844796) - [Shoplifters Love Lego](https://www.cnn.com/2024/06/29/business/lego-most-stolen-items/index.html)
 
 ## [Archives](archives/index.md)
 
