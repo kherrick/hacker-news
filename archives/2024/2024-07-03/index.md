@@ -77,6 +77,7 @@
 * [2024-07-03, 06:18:57](https://news.ycombinator.com/item?id=40863248) - [A Bugatti car, a first lady and the fake stories aimed at Americans](https://www.bbc.co.uk/news/articles/c72ver6172do)
 * [2024-07-03, 06:14:50](https://news.ycombinator.com/item?id=40863229) - [Google's greenhouse gas emissions jump 48% in five years](https://arstechnica.com/gadgets/2024/07/googles-greenhouse-gas-emissions-jump-48-in-five-years/)
 * [2024-07-03, 05:22:15](https://news.ycombinator.com/item?id=40862941) - [A Type for Overload Set](https://biowpn.github.io/bioweapon/2024/07/02/a-type-for-overload-set.html)
+* [2024-07-03, 05:22:06](https://news.ycombinator.com/item?id=40862940) - [Love, Death, and Computers](https://lmnt.me/blog/love-death-and-computers.html)
 * [2024-07-03, 05:13:17](https://news.ycombinator.com/item?id=40862897) - [EV Motors Without Rare Earth Permanent Magnets](https://spectrum.ieee.org/ev-motor)
 * [2024-07-03, 05:05:35](https://news.ycombinator.com/item?id=40862865) - [I Received an AI Email](https://timharek.no/blog/i-received-an-ai-email)
 * [2024-07-03, 05:02:52](https://news.ycombinator.com/item?id=40862853) - [The Origin of the Species: NEC PC-8001 FDD Adapter](https://www.leadedsolder.com/2024/07/02/pc8001-pickup-disk-drive-interface.html)
