@@ -22,6 +22,7 @@
 * [2024-07-06, 05:20:17](https://news.ycombinator.com/item?id=40888314) - [Curl native support for –aws-sigv4 (2023)](https://how.wtf/aws-sigv4-requests-with-curl.html)
 * [2024-07-06, 04:39:28](https://news.ycombinator.com/item?id=40888201) - [1Password and 2FA: Is it wrong to store passwords and one-time codes together? (2023)](https://blog.1password.com/1password-2fa-passwords-codes-together/)
 * [2024-07-06, 04:03:03](https://news.ycombinator.com/item?id=40888090) - [Here’s how you can build and train GPT-2 from scratch using PyTorch](https://differ.blog/p/here-s-how-you-can-build-and-train-gpt-2-from-scratch-using-pytorch-ace4ba)
+* [2024-07-06, 04:00:39](https://news.ycombinator.com/item?id=40888085) - [He Might Have Been the First Jazz Star](https://www.honest-broker.com/p/he-might-have-been-the-first-jazz)
 * [2024-07-06, 03:46:38](https://news.ycombinator.com/item?id=40888030) - [Unverified NPM Account Takeover Vulnerability for Sale on Dark Web Forum](https://socket.dev/blog/unverified-npm-account-takeover-vulnerability-for-sale-on-dark-web-forum)
 * [2024-07-06, 03:19:17](https://news.ycombinator.com/item?id=40887955) - [RadioSide turns your spare device into a radio](https://radioside.com)
 * [2024-07-06, 02:56:56](https://news.ycombinator.com/item?id=40887874) - [Zephyr: Implementing a Device Driver for a Sensor](https://bootlin.com/blog/zephyr-implementing-a-device-driver-for-a-sensor/)
