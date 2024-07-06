@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2024-07-06, 16:40:59",
+      "https://news.ycombinator.com/item?id=40891507"
+    ],
+    [
+      "Fabric is an open-source framework for augmenting humans using AI",
+      "https://github.com/danielmiessler/fabric"
+    ]
+  ],
+  [
+    [
       "2024-07-06, 16:38:37",
       "https://news.ycombinator.com/item?id=40891498"
     ],
@@ -147,16 +157,6 @@
     [
       "Properly testing concurrent data structures",
       "https://matklad.github.io/2024/07/05/properly-testing-concurrent-data-structures.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-06, 07:44:32",
-      "https://news.ycombinator.com/item?id=40888826"
-    ],
-    [
-      "Jqjq: Jq Implementation of Jq",
-      "https://github.com/wader/jqjq"
     ]
   ],
   [
