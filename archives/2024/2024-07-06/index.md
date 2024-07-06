@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-06](index.md)
 
+* [2024-07-06, 21:26:47](https://news.ycombinator.com/item?id=40893446) - [The African workers driving the AI revolution, for about a dollar an hour](https://www.theguardian.com/technology/article/2024/jul/06/mercy-anita-african-workers-ai-artificial-intelligence-exploitation-feeding-machine)
 * [2024-07-06, 21:02:06](https://news.ycombinator.com/item?id=40893287) - [Charge Robotics (YC S21) is hiring full-stack devs to deploy solar robots](https://www.ycombinator.com/companies/charge-robotics/jobs/gbIFjoq-senior-software-engineer-full-stack)
 * [2024-07-06, 20:52:56](https://news.ycombinator.com/item?id=40893203) - [Montana Has More Cows Than People. Why Are Locals Eating Beef from Brazil?](https://www.nytimes.com/2024/06/13/business/montana-meat-old-salt-co-op.html)
 * [2024-07-06, 20:40:03](https://news.ycombinator.com/item?id=40893074) - [Top GitHub repositories which everyone should look](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look)
@@ -54,6 +55,7 @@
 * [2024-07-06, 10:14:41](https://news.ycombinator.com/item?id=40889428) - [Summary of Major Changes Between Python Versions](https://www.nicholashairs.com/posts/major-changes-between-python-versions/)
 * [2024-07-06, 09:38:48](https://news.ycombinator.com/item?id=40889280) - [Ask HN: Which programming podcasts do you listen to?](https://news.ycombinator.com/item?id=40889280)
 * [2024-07-06, 08:07:00](https://news.ycombinator.com/item?id=40888924) - [I've eaten a meal replacement shake twice a day for two years (2019)](https://www.vox.com/the-goods/2019/11/11/20953750/soylent-huel-sustainable-meal-replacement-tried)
+* [2024-07-06, 07:44:32](https://news.ycombinator.com/item?id=40888826) - [Jqjq: Jq Implementation of Jq](https://github.com/wader/jqjq)
 * [2024-07-06, 07:33:56](https://news.ycombinator.com/item?id=40888783) - [Mineral winds down: 'We will no longer be an Alphabet company'](https://agfundernews.com/mineral-winds-down-we-will-no-longer-be-an-alphabet-company-but-our-technology-will-live-on)
 * [2024-07-06, 06:53:25](https://news.ycombinator.com/item?id=40888613) - [U.S. SEC Wins 'Shadow Insider Trading' Trial](https://www.akingump.com/en/insights/alerts/the-sec-wins-shadow-insider-trading-trial)
 * [2024-07-06, 06:22:03](https://news.ycombinator.com/item?id=40888501) - [DevOps Isn't Dead, but It's Not in Great Health Either](https://thenewstack.io/devops-isnt-dead-but-its-not-in-great-health-either/)
