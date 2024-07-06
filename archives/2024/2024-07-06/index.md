@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-06](index.md)
 
 * [2024-07-06, 06:22:03](https://news.ycombinator.com/item?id=40888501) - [DevOps Isn't Dead, but It's Not in Great Health Either](https://thenewstack.io/devops-isnt-dead-but-its-not-in-great-health-either/)
+* [2024-07-06, 06:07:15](https://news.ycombinator.com/item?id=40888461) - [Apple okays Epic Games marketplace app in Europe](https://www.reuters.com/technology/epic-games-says-apple-stalling-launch-its-game-store-europe-2024-07-05/)
 * [2024-07-06, 05:35:24](https://news.ycombinator.com/item?id=40888368) - [Private firms and open sources are giving spies a run for their money](https://www.economist.com/technology-quarterly/2024/07/01/private-firms-and-open-sources-are-giving-spies-a-run-for-their-money)
 * [2024-07-06, 05:20:17](https://news.ycombinator.com/item?id=40888314) - [Curl native support for –aws-sigv4 (2023)](https://how.wtf/aws-sigv4-requests-with-curl.html)
 * [2024-07-06, 04:39:28](https://news.ycombinator.com/item?id=40888201) - [1Password and 2FA: Is it wrong to store passwords and one-time codes together? (2023)](https://blog.1password.com/1password-2fa-passwords-codes-together/)

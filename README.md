@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-06, 06:22:03](https://news.ycombinator.com/item?id=40888501) - [DevOps Isn't Dead, but It's Not in Great Health Either](https://thenewstack.io/devops-isnt-dead-but-its-not-in-great-health-either/)
+* [2024-07-06, 06:07:15](https://news.ycombinator.com/item?id=40888461) - [Apple okays Epic Games marketplace app in Europe](https://www.reuters.com/technology/epic-games-says-apple-stalling-launch-its-game-store-europe-2024-07-05/)
 * [2024-07-06, 05:35:24](https://news.ycombinator.com/item?id=40888368) - [Private firms and open sources are giving spies a run for their money](https://www.economist.com/technology-quarterly/2024/07/01/private-firms-and-open-sources-are-giving-spies-a-run-for-their-money)
-* [2024-07-06, 05:20:17](https://news.ycombinator.com/item?id=40888314) - [Curl native support for –aws-sigv4 (2023)](https://how.wtf/aws-sigv4-requests-with-curl.html)
 * [2024-07-06, 04:39:28](https://news.ycombinator.com/item?id=40888201) - [1Password and 2FA: Is it wrong to store passwords and one-time codes together? (2023)](https://blog.1password.com/1password-2fa-passwords-codes-together/)
 * [2024-07-06, 04:03:03](https://news.ycombinator.com/item?id=40888090) - [Build and train GPT-2 from scratch using PyTorch](https://differ.blog/p/here-s-how-you-can-build-and-train-gpt-2-from-scratch-using-pytorch-ace4ba)
 * [2024-07-06, 03:46:38](https://news.ycombinator.com/item?id=40888030) - [Unverified NPM Account Takeover Vulnerability for Sale on Dark Web Forum](https://socket.dev/blog/unverified-npm-account-takeover-vulnerability-for-sale-on-dark-web-forum)
@@ -27,7 +27,7 @@
 * [2024-07-02, 18:21:10](https://news.ycombinator.com/item?id=40859152) - [Pwning a Brother labelmaker, for fun and interop](https://sdomi.pl/weblog/20-pwning-a-labelmaker/)
 * [2024-07-02, 17:35:07](https://news.ycombinator.com/item?id=40858790) - [The asymmetry of nudges](https://lcamtuf.substack.com/p/the-asymmetry-of-nudges)
 * [2024-07-02, 16:12:15](https://news.ycombinator.com/item?id=40858023) - [Ants can carry out life-saving amputations on injured nest mates, study shows](https://www.theguardian.com/science/article/2024/jul/02/ants-emergency-amputations-injured-nest-mates-study)
-* [2024-07-02, 12:49:47](https://news.ycombinator.com/item?id=40856123) - [Fiwix: Unix-like kernel for the i386 architecture](https://github.com/mikaku/Fiwix)
+* [2024-07-02, 13:07:04](https://news.ycombinator.com/item?id=40856270) - [Forget about the gym Chicken-sizing will keep you fit](https://text.npr.org/g-s1-6784)
 * [2024-07-02, 08:01:59](https://news.ycombinator.com/item?id=40854497) - [What Happened to Perl 7? (2022)](https://blogs.perl.org/users/psc/2022/05/what-happened-to-perl-7.html)
 * [2024-07-01, 11:40:56](https://news.ycombinator.com/item?id=40844796) - [Shoplifters Love Lego](https://www.cnn.com/2024/06/29/business/lego-most-stolen-items/index.html)
 
