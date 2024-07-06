@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-07-06](index.md)
 
+* [2024-07-06, 21:27:31](https://news.ycombinator.com/item?id=40893447) - [Microsoft Is Dead: The Cliffs Notes (2007)](https://paulgraham.com/cliffsnotes.html)
 * [2024-07-06, 21:26:47](https://news.ycombinator.com/item?id=40893446) - [The African workers driving the AI revolution, for about a dollar an hour](https://www.theguardian.com/technology/article/2024/jul/06/mercy-anita-african-workers-ai-artificial-intelligence-exploitation-feeding-machine)
 * [2024-07-06, 21:02:06](https://news.ycombinator.com/item?id=40893287) - [Charge Robotics (YC S21) is hiring full-stack devs to deploy solar robots](https://www.ycombinator.com/companies/charge-robotics/jobs/gbIFjoq-senior-software-engineer-full-stack)
 * [2024-07-06, 20:52:56](https://news.ycombinator.com/item?id=40893203) - [Montana Has More Cows Than People. Why Are Locals Eating Beef from Brazil?](https://www.nytimes.com/2024/06/13/business/montana-meat-old-salt-co-op.html)
+* [2024-07-06, 20:52:29](https://news.ycombinator.com/item?id=40893200) - [Flet – multi-platform apps in Python powered by Flutter](https://flet.dev/)
 * [2024-07-06, 20:40:03](https://news.ycombinator.com/item?id=40893074) - [Top GitHub repositories which everyone should look](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look)
+* [2024-07-06, 20:27:17](https://news.ycombinator.com/item?id=40892994) - [Speeding up the JavaScript ecosystem – Isolated Declarations](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-10/)
 * [2024-07-06, 20:26:47](https://news.ycombinator.com/item?id=40892991) - [Microsoft Is Dead[2007]](https://paulgraham.com/microsoft.html)
 * [2024-07-06, 20:16:53](https://news.ycombinator.com/item?id=40892929) - [Investors Pour $27.1B into A.I. Startups, Defying a Downturn](https://www.nytimes.com/2024/07/03/technology/ai-startups-funding.html)
 * [2024-07-06, 20:04:50](https://news.ycombinator.com/item?id=40892848) - [Wireframes Are Cheap, Engineering Should Be Too](https://danielmangum.com/posts/wireframes-cheap-engineering-too/)
