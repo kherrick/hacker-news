@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-06](index.md)
 
+* [2024-07-06, 16:01:25](https://news.ycombinator.com/item?id=40891252) - [First anode-free sodium solid-state battery](https://pme.uchicago.edu/news/uchicago-prof-shirley-mengs-laboratory-energy-storage-and-conversion-creates-worlds-first)
 * [2024-07-06, 15:07:30](https://news.ycombinator.com/item?id=40890847) - [Teaching General Problem-Solving Skills Is Not a Substitute for Teaching Math [pdf]](https://www.ams.org/notices/201010/rtx101001303p.pdf)
 * [2024-07-06, 14:31:26](https://news.ycombinator.com/item?id=40890668) - [The A.I. Bubble is Bursting with Ed Zitron [video]](https://www.youtube.com/watch?v=T8ByoAt5gCA)
 * [2024-07-06, 14:02:15](https://news.ycombinator.com/item?id=40890534) - [Anxious Generation – How Safetyism and Social Media Are Damaging the Kids](https://matija.eu/posts/anxious-generation-safetyism-social-media/)

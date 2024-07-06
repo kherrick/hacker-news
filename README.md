@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-06, 16:01:25](https://news.ycombinator.com/item?id=40891252) - [First anode-free sodium solid-state battery](https://pme.uchicago.edu/news/uchicago-prof-shirley-mengs-laboratory-energy-storage-and-conversion-creates-worlds-first)
 * [2024-07-06, 15:07:30](https://news.ycombinator.com/item?id=40890847) - [Teaching General Problem-Solving Skills Is Not a Substitute for Teaching Math [pdf]](https://www.ams.org/notices/201010/rtx101001303p.pdf)
 * [2024-07-06, 12:29:18](https://news.ycombinator.com/item?id=40890035) - [Properly testing concurrent data structures](https://matklad.github.io/2024/07/05/properly-testing-concurrent-data-structures.html)
 * [2024-07-06, 12:14:12](https://news.ycombinator.com/item?id=40889951) - [Show HN: A JavaScript UI library for imperative JSX](https://www.npmjs.com/package/@matry/dom)
@@ -10,7 +11,6 @@
 * [2024-07-06, 03:19:17](https://news.ycombinator.com/item?id=40887955) - [RadioSide turns your spare device into a radio](https://radioside.com)
 * [2024-07-06, 00:47:52](https://news.ycombinator.com/item?id=40887359) - [Radio Garden](https://radio.garden/)
 * [2024-07-06, 00:04:18](https://news.ycombinator.com/item?id=40887168) - [Preserving a floppy disk with a logic analyzer and a serial cable](https://www.chzsoft.de/site/hardware/preserving-a-floppy-disk-with-a-logic-analyzer/)
-* [2024-07-05, 23:34:12](https://news.ycombinator.com/item?id=40887014) - [Antidotes for Melancholy in Early Modern England](https://www.folger.edu/blogs/collation/better-than-a-pound-of-sorrow/)
 * [2024-07-05, 23:25:40](https://news.ycombinator.com/item?id=40886972) - [Rogers networks reliability and resiliency assessment after 2022-07-08 outage](https://crtc.gc.ca/eng/publications/reports/xona2024.htm)
 * [2024-07-05, 18:21:01](https://news.ycombinator.com/item?id=40884878) - [PostgreSQL and UUID as Primary Key](https://maciejwalkowiak.com/blog/postgres-uuid-primary-key/)
 * [2024-07-05, 17:04:45](https://news.ycombinator.com/item?id=40884356) - [Let's stop counting centuries](https://dynomight.net/centuries/)
