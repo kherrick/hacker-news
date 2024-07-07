@@ -8,7 +8,7 @@
 * [2024-07-07, 08:42:03](https://news.ycombinator.com/item?id=40896102) - [Malloc broke Serenity's JPGLoader, or: how to win the lottery (2021)](https://sin-ack.github.io/posts/jpg-loader-bork/)
 * [2024-07-07, 06:42:34](https://news.ycombinator.com/item?id=40895733) - [OpenRailRouting](https://github.com/geofabrik/OpenRailRouting)
 * [2024-07-07, 06:25:50](https://news.ycombinator.com/item?id=40895672) - [Show HN: BeaconDB – An Alternative to Mozilla Location Services](https://beacondb.net/)
-* [2024-07-07, 04:00:41](https://news.ycombinator.com/item?id=40895167) - [\"Out of Band\" network management is not trivial](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OutOfBandManagementNotTrivial)
+* [2024-07-07, 05:22:49](https://news.ycombinator.com/item?id=40895441) - [Why Italy Fell Out of Love with Cilantro](https://www.atlasobscura.com/articles/what-are-italian-herbs)
 * [2024-07-06, 23:09:05](https://news.ycombinator.com/item?id=40894027) - [The staggering science and art behind Wimbledon's legendary grass courts](https://abcnews.go.com/US/staggering-science-art-wimbledons-legendary-grass-courts/story?id=111433116)
 * [2024-07-06, 22:37:13](https://news.ycombinator.com/item?id=40893866) - [Show HN: A free minimalist daily habit tracker](https://rdht.vercel.app/)
 * [2024-07-06, 22:09:28](https://news.ycombinator.com/item?id=40893722) - [RISC-V Emulator for Sophgo SG2000 SoC (Pine64 Oz64 / Milk-V Duo S)](https://lupyuen.codeberg.page/articles/sg2000b.html)
