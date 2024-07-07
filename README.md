@@ -21,6 +21,7 @@
 * [2024-07-06, 04:00:39](https://news.ycombinator.com/item?id=40888085) - [Ford Dabney might have been the first jazz star](https://www.honest-broker.com/p/he-might-have-been-the-first-jazz)
 * [2024-07-05, 16:09:43](https://news.ycombinator.com/item?id=40883940) - [Starcraft (A History in Two Acts)](https://www.filfre.net/2024/07/starcraft-a-history-in-two-acts/)
 * [2024-07-04, 17:09:00](https://news.ycombinator.com/item?id=40876453) - [Advantages of incompetent management](https://yosefk.com/blog/advantages-of-incompetent-management.html)
+* [2024-07-04, 13:36:42](https://news.ycombinator.com/item?id=40874852) - [My Gold Prospecting and Mining Pages](http://mdpub.com/gold/index.html)
 * [2024-07-04, 12:08:16](https://news.ycombinator.com/item?id=40874230) - [High-altitude cave used by Tibetan Buddhists yields a Denisovan fossil](https://arstechnica.com/science/2024/07/high-altitude-cave-used-by-tibetan-buddhists-yields-a-denisovan-fossil/)
 * [2024-07-04, 09:09:13](https://news.ycombinator.com/item?id=40873471) - [The magic of small engineering teams](https://newsletter.posthog.com/p/the-magic-of-small-engineering-teams)
 * [2024-07-03, 16:32:01](https://news.ycombinator.com/item?id=40867565) - [The Math of Card Shuffling](https://fredhohman.com/card-shuffling/)
@@ -28,7 +29,6 @@
 * [2024-07-03, 03:16:58](https://news.ycombinator.com/item?id=40862444) - [A blast from the past: Disassembling DOS (2020)](http://www.softwarelitigationconsulting.com/wp-content/uploads/2020/08/schulman_blast_from_the_past_disassembling_dos.html)
 * [2024-07-03, 02:29:56](https://news.ycombinator.com/item?id=40862249) - [Writing GUI applications on the Raspberry Pi without a desktop environment (2019)](https://avikdas.com/2019/01/23/writing-gui-applications-on-raspberry-pi-without-x.html)
 * [2024-07-02, 19:47:00](https://news.ycombinator.com/item?id=40859854) - [Overexposed](https://www.historynewsnetwork.org/article/overexposed)
-* [2024-07-02, 19:39:24](https://news.ycombinator.com/item?id=40859813) - [How to prevent stagnation while building products alone](https://www.idiotlamborghini.com/articles/how_to_prevent_stagnation_while_building_products_alone)
 * [2024-07-02, 09:23:43](https://news.ycombinator.com/item?id=40854872) - [Shortest distance between two points is not always a straight line](https://metaquestions.me/2014/08/01/shortest-distance-between-two-points-is-not-always-a-straight-line/)
 
 ## [Archives](archives/index.md)
