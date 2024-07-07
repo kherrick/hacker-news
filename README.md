@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-07, 05:35:09](https://news.ycombinator.com/item?id=40895484) - [We built the extension that blocks ads, trackers and third-party cookies](https://ultrablock.org/about/)
 * [2024-07-07, 04:00:41](https://news.ycombinator.com/item?id=40895167) - [\"Out of Band\" network management is not trivial](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OutOfBandManagementNotTrivial)
 * [2024-07-06, 22:37:13](https://news.ycombinator.com/item?id=40893866) - [Show HN: A free minimalist daily habit tracker](https://rdht.vercel.app/)
 * [2024-07-06, 22:12:41](https://news.ycombinator.com/item?id=40893749) - [What causes migraines? Study of 'brain blackout' offers clues](https://www.nature.com/articles/d41586-024-02222-x)
@@ -11,6 +10,7 @@
 * [2024-07-06, 19:59:48](https://news.ycombinator.com/item?id=40892812) - [Ask HN: Where are the good resources for learning audio processing?](https://news.ycombinator.com/item?id=40892812)
 * [2024-07-06, 18:52:41](https://news.ycombinator.com/item?id=40892365) - [Against the burden of knowledge](https://www.theseedsofscience.pub/p/against-the-burden-of-knowledge)
 * [2024-07-06, 18:44:46](https://news.ycombinator.com/item?id=40892298) - [How to think in writing](https://www.henrikkarlsson.xyz/p/writing-to-think)
+* [2024-07-06, 18:26:58](https://news.ycombinator.com/item?id=40892183) - [Why haven't biologists cured cancer?](https://www.writingruxandrabio.com/p/why-havent-biologists-cured-cancer)
 * [2024-07-06, 16:59:17](https://news.ycombinator.com/item?id=40891643) - [Show HN: Bash Dungeon – An educational dungeon crawler in the shell](https://github.com/wolandark/bash-dungeon)
 * [2024-07-06, 16:40:59](https://news.ycombinator.com/item?id=40891507) - [Fabric is an open-source framework for augmenting humans using AI](https://github.com/danielmiessler/fabric)
 * [2024-07-06, 16:38:24](https://news.ycombinator.com/item?id=40891495) - [Leonard Rome's lab discovered an odd component of cells in the 1980s: Vaults](https://www.science.org/content/article/biologist-aims-solve-cell-s-biggest-mystery-could-it-help-cancer-patients-too)
@@ -25,10 +25,10 @@
 * [2024-07-04, 12:08:16](https://news.ycombinator.com/item?id=40874230) - [High-altitude cave used by Tibetan Buddhists yields a Denisovan fossil](https://arstechnica.com/science/2024/07/high-altitude-cave-used-by-tibetan-buddhists-yields-a-denisovan-fossil/)
 * [2024-07-04, 09:09:13](https://news.ycombinator.com/item?id=40873471) - [The magic of small engineering teams](https://newsletter.posthog.com/p/the-magic-of-small-engineering-teams)
 * [2024-07-03, 16:32:01](https://news.ycombinator.com/item?id=40867565) - [The Math of Card Shuffling](https://fredhohman.com/card-shuffling/)
-* [2024-07-03, 11:54:41](https://news.ycombinator.com/item?id=40865073) - [The Fake Oilman Who Conned People Out of Millions](https://www.newyorker.com/news/letter-from-the-south/the-fake-oilman)
 * [2024-07-03, 08:58:53](https://news.ycombinator.com/item?id=40864091) - [Optimizing Large-Scale OpenStreetMap Data with SQLite](https://jtarchie.com/posts/2024-07-02-optimizing-large-scale-openstreetmap-data-with-sqlite)
 * [2024-07-03, 03:16:58](https://news.ycombinator.com/item?id=40862444) - [A blast from the past: Disassembling DOS (2020)](http://www.softwarelitigationconsulting.com/wp-content/uploads/2020/08/schulman_blast_from_the_past_disassembling_dos.html)
 * [2024-07-02, 19:47:00](https://news.ycombinator.com/item?id=40859854) - [Overexposed](https://www.historynewsnetwork.org/article/overexposed)
+* [2024-07-02, 17:24:22](https://news.ycombinator.com/item?id=40858705) - [Rendering Markdown Views in Rails](https://rollen.io/blog/markdown-rails/)
 * [2024-07-02, 09:23:43](https://news.ycombinator.com/item?id=40854872) - [Shortest distance between two points is not always a straight line](https://metaquestions.me/2014/08/01/shortest-distance-between-two-points-is-not-always-a-straight-line/)
 
 ## [Archives](archives/index.md)

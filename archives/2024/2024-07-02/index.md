@@ -56,6 +56,7 @@
 * [2024-07-02, 17:42:03](https://news.ycombinator.com/item?id=40858841) - [Any Game of Life pattern can be constructed from just 15 gliders](https://btm.qva.mybluehost.me/building-arbitrary-life-patterns-in-15-gliders/)
 * [2024-07-02, 17:35:07](https://news.ycombinator.com/item?id=40858790) - [The asymmetry of nudges](https://lcamtuf.substack.com/p/the-asymmetry-of-nudges)
 * [2024-07-02, 17:34:53](https://news.ycombinator.com/item?id=40858789) - [Study finds hybrid work benefits companies and employees](https://news.stanford.edu/stories/2024/06/hybrid-work-is-a-win-win-win-for-companies-workers)
+* [2024-07-02, 17:24:22](https://news.ycombinator.com/item?id=40858705) - [Rendering Markdown Views in Rails](https://rollen.io/blog/markdown-rails/)
 * [2024-07-02, 17:20:08](https://news.ycombinator.com/item?id=40858670) - [Exploring biphasic programming: a new approach in language design](https://rybicki.io/blog/2024/06/30/biphasic-programming.html)
 * [2024-07-02, 17:11:53](https://news.ycombinator.com/item?id=40858590) - [Google manipulating your search tabs too?](https://news.ycombinator.com/item?id=40858590)
 * [2024-07-02, 17:11:16](https://news.ycombinator.com/item?id=40858583) - [Bruce Bastian, WordPerfect co-creator, has died](https://www.wsj.com/tech/bruce-bastian-wordperfect-lgbtq-activist-dies-at-76-6da293f4)
