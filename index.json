@@ -65,7 +65,7 @@
       "https://news.ycombinator.com/item?id=40896102"
     ],
     [
-      "Malloc broke Serenity's JPGLoader, or: how to win the lottery",
+      "Malloc broke Serenity's JPGLoader, or: how to win the lottery (2021)",
       "https://sin-ack.github.io/posts/jpg-loader-bork/"
     ]
   ],
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2024-07-04, 09:09:13",
-      "https://news.ycombinator.com/item?id=40873471"
-    ],
-    [
-      "The magic of small engineering teams",
-      "https://newsletter.posthog.com/p/the-magic-of-small-engineering-teams"
-    ]
-  ],
-  [
-    [
       "2024-07-03, 16:33:39",
       "https://news.ycombinator.com/item?id=40867585"
     ],
@@ -297,6 +287,16 @@
     [
       "A quick introduction to DirectX workgraphs",
       "https://interplayoflight.wordpress.com/2024/06/29/a-quick-introduction-to-workgraphs/"
+    ]
+  ],
+  [
+    [
+      "2024-07-02, 13:50:11",
+      "https://news.ycombinator.com/item?id=40856659"
+    ],
+    [
+      "A Practical Real-Time Model for Diffraction on Rough Surfaces",
+      "https://www.jcgt.org/published/0013/01/01/"
     ]
   ]
 ]
