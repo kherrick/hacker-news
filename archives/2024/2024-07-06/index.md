@@ -58,6 +58,7 @@
 * [2024-07-06, 14:02:15](https://news.ycombinator.com/item?id=40890534) - [Anxious Generation – How Safetyism and Social Media Are Damaging the Kids](https://matija.eu/posts/anxious-generation-safetyism-social-media/)
 * [2024-07-06, 13:56:37](https://news.ycombinator.com/item?id=40890498) - [Fata Morgana](https://en.wikipedia.org/wiki/Fata_Morgana_(mirage))
 * [2024-07-06, 13:48:04](https://news.ycombinator.com/item?id=40890449) - [Do not factory reset your Pixel until at least 15 minutes after a system update](https://support.google.com/pixelphone/thread/283220215/issues-after-factory-resetting-pixel-6-devices?hl=en)
+* [2024-07-06, 13:23:13](https://news.ycombinator.com/item?id=40890315) - [Amazon is bricking $2,350 Astro robots 10 months after release](https://arstechnica.com/gadgets/2024/07/amazon-is-bricking-2350-astro-robots-10-months-after-release/)
 * [2024-07-06, 12:53:22](https://news.ycombinator.com/item?id=40890151) - [Italian prosecutors found Dior paid $57 to produce bags retailing for $2,780](https://www.businessinsider.com/dior-italy-labor-investigation-contractors-lvmh-armani-luxury-bags-2024-7)
 * [2024-07-06, 12:29:18](https://news.ycombinator.com/item?id=40890035) - [Properly Testing Concurrent Data Structures](https://matklad.github.io/2024/07/05/properly-testing-concurrent-data-structures.html)
 * [2024-07-06, 12:14:12](https://news.ycombinator.com/item?id=40889951) - [Show HN: A JavaScript UI library for imperative JSX](https://www.npmjs.com/package/@matry/dom)
