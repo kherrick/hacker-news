@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-07, 17:00:26](https://news.ycombinator.com/item?id=40898831) - [Trellis (YC W24) is hiring engineer to build AI-powered ETL for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
+* [2024-07-07, 16:47:16](https://news.ycombinator.com/item?id=40898734) - [How David Sinkinson Bootstrapped AppArmor to a $40M Exit](https://builttosell.com/radio/episode-448/)
 * [2024-07-07, 16:38:08](https://news.ycombinator.com/item?id=40898693) - [ChatGPT is better at generating code for problems written before 2021](https://ieeexplore.ieee.org/document/10507163)
 * [2024-07-07, 16:28:34](https://news.ycombinator.com/item?id=40898654) - [Zuckerberg and Peter Thiel on Facebook, Millenials, and Predictions for 2030](https://www.techemails.com/p/mark-zuckerberg-peter-thiel-millennials)
 * [2024-07-07, 16:08:06](https://news.ycombinator.com/item?id=40898551) - [US intelligence community is embracing generative AI](https://www.nextgov.com/artificial-intelligence/2024/07/us-intelligence-community-embracing-generative-ai/397849/)
@@ -19,7 +20,6 @@
 * [2024-07-06, 19:31:49](https://news.ycombinator.com/item?id=40892636) - [Numeronymize](https://leancrew.com/all-this/2024/07/numeronymize/)
 * [2024-07-06, 18:52:41](https://news.ycombinator.com/item?id=40892365) - [Against the burden of knowledge](https://www.theseedsofscience.pub/p/against-the-burden-of-knowledge)
 * [2024-07-06, 18:44:46](https://news.ycombinator.com/item?id=40892298) - [How to think in writing](https://www.henrikkarlsson.xyz/p/writing-to-think)
-* [2024-07-06, 16:59:17](https://news.ycombinator.com/item?id=40891643) - [Show HN: Bash Dungeon – An educational dungeon crawler in the shell](https://github.com/wolandark/bash-dungeon)
 * [2024-07-05, 21:29:21](https://news.ycombinator.com/item?id=40886185) - [Microbiome composition varies based on sampling time, mouse study finds](https://www.statnews.com/2024/07/01/microbiome-composition-varies-based-on-sampling-time-mouse-study-finds/)
 * [2024-07-05, 16:09:43](https://news.ycombinator.com/item?id=40883940) - [Starcraft (A History in Two Acts)](https://www.filfre.net/2024/07/starcraft-a-history-in-two-acts/)
 * [2024-07-04, 18:02:50](https://news.ycombinator.com/item?id=40876840) - [LivePortrait: A fast, controllable portrait animation model](https://github.com/KwaiVGI/LivePortrait)
