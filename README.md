@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-07, 14:53:26](https://news.ycombinator.com/item?id=40898121) - [Talent Search versus Talent Development [pdf]](https://community.ams.org/journals/notices/201909/rnoti-p1471.pdf)
+* [2024-07-07, 14:35:46](https://news.ycombinator.com/item?id=40898018) - [Latest Ghostscript vulnerability haunts experts as the next big breach enabler](https://www.theregister.com/2024/07/05/ghostscript_vulnerability_severity/)
 * [2024-07-07, 13:22:12](https://news.ycombinator.com/item?id=40897518) - [Mongo but on Postgres and with strong consistency benefits](https://github.com/event-driven-io/Pongo)
 * [2024-07-07, 13:20:37](https://news.ycombinator.com/item?id=40897506) - [A reawakening of systems programming meetups](https://notes.eatonphil.com/2024-07-07-systems-meetups.html)
 * [2024-07-07, 12:37:55](https://news.ycombinator.com/item?id=40897205) - [YouTube embeds are bananas heavy and it’s fixable](https://frontendmasters.com/blog/youtube-embeds-are-bananas-heavy-and-its-fixable/)
@@ -21,7 +22,6 @@
 * [2024-07-05, 16:09:43](https://news.ycombinator.com/item?id=40883940) - [Starcraft (A History in Two Acts)](https://www.filfre.net/2024/07/starcraft-a-history-in-two-acts/)
 * [2024-07-04, 17:09:00](https://news.ycombinator.com/item?id=40876453) - [Advantages of incompetent management](https://yosefk.com/blog/advantages-of-incompetent-management.html)
 * [2024-07-04, 12:08:16](https://news.ycombinator.com/item?id=40874230) - [High-altitude cave used by Tibetan Buddhists yields a Denisovan fossil](https://arstechnica.com/science/2024/07/high-altitude-cave-used-by-tibetan-buddhists-yields-a-denisovan-fossil/)
-* [2024-07-04, 09:09:13](https://news.ycombinator.com/item?id=40873471) - [The magic of small engineering teams](https://newsletter.posthog.com/p/the-magic-of-small-engineering-teams)
 * [2024-07-03, 16:39:34](https://news.ycombinator.com/item?id=40867652) - [How the 18th-Century French Media Stoked a Werewolf Panic](https://www.openculture.com/2024/06/how-the-18th-century-french-media-stoked-a-werewolf-panic.html)
 * [2024-07-03, 16:33:39](https://news.ycombinator.com/item?id=40867585) - [Artificial LIfe ENvironment (ALIEN) is an artificial life simulation tool](https://alien-project.gitbook.io/docs)
 * [2024-07-03, 12:36:08](https://news.ycombinator.com/item?id=40865358) - [Powerful laser miniaturized from tabletop to microchip](https://www.nature.com/articles/d41586-024-01646-9)
