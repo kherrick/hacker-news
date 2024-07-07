@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-07, 21:38:52](https://news.ycombinator.com/item?id=40900648) - [I'm Funding Ladybird Because I Can't Fund Firefox](http://jackkelly.name/blog/archives/2024/07/06/im_funding_ladybird_because_i_cant_fund_firefox/)
+* [2024-07-07, 21:16:18](https://news.ycombinator.com/item?id=40900495) - [Construction of the 4th Chinese aircraft carrier has reportedly started](https://meta-defense.fr/en/2024/07/06/4-Chinese-aircraft-carriers-construction/)
 * [2024-07-07, 21:01:44](https://news.ycombinator.com/item?id=40900417) - [Continue (YC S23) Is Hiring a Full-Stack Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-full-stack-engineer)
 * [2024-07-07, 19:17:56](https://news.ycombinator.com/item?id=40899761) - [The internet is already over (2022)](https://samkriss.substack.com/p/the-internet-is-already-over)
 * [2024-07-07, 19:03:30](https://news.ycombinator.com/item?id=40899673) - [Show HN: Imageprompt.io – AI-powered and human-curated artworks, logos, photos](https://imageprompt.io/)
@@ -22,7 +23,6 @@
 * [2024-07-07, 11:37:25](https://news.ycombinator.com/item?id=40896873) - [Show HN: Execute JavaScript in a WebAssembly QuickJS sandbox](https://github.com/sebastianwessel/quickjs)
 * [2024-07-07, 06:25:50](https://news.ycombinator.com/item?id=40895672) - [Show HN: BeaconDB – An Alternative to Mozilla Location Services](https://beacondb.net/)
 * [2024-07-06, 19:31:49](https://news.ycombinator.com/item?id=40892636) - [Numeronymize](https://leancrew.com/all-this/2024/07/numeronymize/)
-* [2024-07-06, 18:44:46](https://news.ycombinator.com/item?id=40892298) - [How to think in writing](https://www.henrikkarlsson.xyz/p/writing-to-think)
 * [2024-07-06, 13:23:13](https://news.ycombinator.com/item?id=40890315) - [Amazon is bricking $2,350 Astro robots 10 months after release](https://arstechnica.com/gadgets/2024/07/amazon-is-bricking-2350-astro-robots-10-months-after-release/)
 * [2024-07-05, 15:13:10](https://news.ycombinator.com/item?id=40883466) - [A Louisiana gas plant sea wall shows challenges of flooding, energy demand](https://www.washingtonpost.com/climate-environment/interactive/2024/louisiana-sea-wall-gas-facility-flooding/)
 * [2024-07-04, 18:02:50](https://news.ycombinator.com/item?id=40876840) - [LivePortrait: A fast, controllable portrait animation model](https://github.com/KwaiVGI/LivePortrait)
