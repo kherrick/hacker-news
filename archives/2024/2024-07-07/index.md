@@ -10,6 +10,7 @@
 * [2024-07-07, 19:26:03](https://news.ycombinator.com/item?id=40899814) - [Apple M5 Chip's Dual-Use Design Will Power Future Macs and AI Servers](https://www.macrumors.com/2024/07/04/apple-m5-chips-advanced-packaging-tsmc/)
 * [2024-07-07, 19:21:51](https://news.ycombinator.com/item?id=40899778) - [ICANN's list of abandoned vanity TLDs, which now has about 134 entries](https://www.icann.org/resources/pages/gtld-registry-agreement-termination-2015-10-09-en)
 * [2024-07-07, 19:17:56](https://news.ycombinator.com/item?id=40899761) - [The internet is already over (2022)](https://samkriss.substack.com/p/the-internet-is-already-over)
+* [2024-07-07, 19:03:30](https://news.ycombinator.com/item?id=40899673) - [Show HN: Imageprompt.io – AI-powered and human-curated artworks, logos, photos](https://imageprompt.io/)
 * [2024-07-07, 19:02:44](https://news.ycombinator.com/item?id=40899662) - [Ask HN: Should I remove work experience from resume?](https://news.ycombinator.com/item?id=40899662)
 * [2024-07-07, 18:45:44](https://news.ycombinator.com/item?id=40899562) - [Doomsday Prepping: Reactionary Behavior or Inherited Instinct?](https://seattleanxiety.com/psychiatrist/2023/1/12/doomsday-prepping-reactionary-behavior-or-inherited-instinct)
 * [2024-07-07, 18:35:46](https://news.ycombinator.com/item?id=40899507) - [Sharedrop: Easy P2P file transfer powered by WebRTC – inspired by Apple AirDrop](https://github.com/szimek/sharedrop)
