@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-06](index.md)
 
 * [2024-07-06, 23:24:53](https://news.ycombinator.com/item?id=40894082) - [OpenAI was hacked year-old breach wasn't reported to the public](https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-was-hacked-revealing-internal-secrets-and-raising-national-security-concerns-year-old-breach-wasnt-reported-to-the-public)
+* [2024-07-06, 23:09:05](https://news.ycombinator.com/item?id=40894027) - [The staggering science and art behind Wimbledon's legendary grass courts](https://abcnews.go.com/US/staggering-science-art-wimbledons-legendary-grass-courts/story?id=111433116)
 * [2024-07-06, 22:37:13](https://news.ycombinator.com/item?id=40893866) - [Show HN: A free minimalist daily habit tracker](https://rdht.vercel.app/)
 * [2024-07-06, 22:12:41](https://news.ycombinator.com/item?id=40893749) - [What causes migraines? Study of 'brain blackout' offers clues](https://www.nature.com/articles/d41586-024-02222-x)
 * [2024-07-06, 22:09:28](https://news.ycombinator.com/item?id=40893722) - [RISC-V Emulator for Sophgo SG2000 SoC (Pine64 Oz64 / Milk-V Duo S)](https://lupyuen.codeberg.page/articles/sg2000b.html)
@@ -24,6 +25,7 @@
 * [2024-07-06, 19:59:48](https://news.ycombinator.com/item?id=40892812) - [Ask HN: Where are the good resources for learning audio processing?](https://news.ycombinator.com/item?id=40892812)
 * [2024-07-06, 19:59:32](https://news.ycombinator.com/item?id=40892811) - [The Antarctic Ice Core Chronology 2023](https://cp.copernicus.org/articles/19/2257/2023/)
 * [2024-07-06, 19:47:31](https://news.ycombinator.com/item?id=40892734) - [Chris Titus' Windows Debloat Tool](https://christitus.com/windows-tool/)
+* [2024-07-06, 19:31:49](https://news.ycombinator.com/item?id=40892636) - [Numeronymize](https://leancrew.com/all-this/2024/07/numeronymize/)
 * [2024-07-06, 19:29:50](https://news.ycombinator.com/item?id=40892619) - [Ask HN: Why Google shut down business.site website feature?](https://news.ycombinator.com/item?id=40892619)
 * [2024-07-06, 19:20:30](https://news.ycombinator.com/item?id=40892561) - [AI cheating is destroying higher education](https://thehill.com/opinion/education/4570563-ai-cheating-is-destroying-higher-education-heres-how-to-fight-it/)
 * [2024-07-06, 18:58:50](https://news.ycombinator.com/item?id=40892412) - [New AI Training Technique Is Drastically Faster, Says Google](https://decrypt.co/238730/new-ai-training-technique-is-drastically-faster-says-google)
