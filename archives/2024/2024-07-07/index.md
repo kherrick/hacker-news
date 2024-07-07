@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-07](index.md)
 
+* [2024-07-07, 21:01:44](https://news.ycombinator.com/item?id=40900417) - [Continue (YC S23) Is Hiring a Full-Stack Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-full-stack-engineer)
+* [2024-07-07, 20:16:02](https://news.ycombinator.com/item?id=40900146) - [From the Tensor to Stable Diffusion](https://github.com/jla524/fromthetensor)
+* [2024-07-07, 19:54:36](https://news.ycombinator.com/item?id=40900000) - [Gen AI: Too much spend, too little benefit [pdf]](https://www.goldmansachs.com/intelligence/pages/gs-research/gen-ai-too-much-spend-too-little-benefit/report.pdf)
 * [2024-07-07, 19:26:03](https://news.ycombinator.com/item?id=40899814) - [Apple M5 Chip's Dual-Use Design Will Power Future Macs and AI Servers](https://www.macrumors.com/2024/07/04/apple-m5-chips-advanced-packaging-tsmc/)
 * [2024-07-07, 19:21:51](https://news.ycombinator.com/item?id=40899778) - [ICANN's list of abandoned vanity TLDs, which now has about 134 entries](https://www.icann.org/resources/pages/gtld-registry-agreement-termination-2015-10-09-en)
 * [2024-07-07, 19:17:56](https://news.ycombinator.com/item?id=40899761) - [The internet is already over (2022)](https://samkriss.substack.com/p/the-internet-is-already-over)
@@ -22,6 +25,7 @@
 * [2024-07-07, 17:22:12](https://news.ycombinator.com/item?id=40898989) - [Using copper to convert CO₂ to methane](https://phys.org/news/2024-07-copper-methane-game-changer-mitigating.html)
 * [2024-07-07, 17:03:16](https://news.ycombinator.com/item?id=40898844) - [Synchronization Is Bad for Scale](https://wippler.dev/posts/synchronization-is-bad-for-scale)
 * [2024-07-07, 17:00:26](https://news.ycombinator.com/item?id=40898831) - [Trellis (YC W24) is hiring engineer to build AI-powered ETL for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
+* [2024-07-07, 16:56:26](https://news.ycombinator.com/item?id=40898793) - [Falsehoods Programmers Believe About Phone Numbers](https://github.com/google/libphonenumber/blob/master/FALSEHOODS.md)
 * [2024-07-07, 16:47:16](https://news.ycombinator.com/item?id=40898734) - [How David Sinkinson Bootstrapped AppArmor to a $40M Exit](https://builttosell.com/radio/episode-448/)
 * [2024-07-07, 16:38:08](https://news.ycombinator.com/item?id=40898693) - [ChatGPT is better at generating code for problems written before 2021](https://ieeexplore.ieee.org/document/10507163)
 * [2024-07-07, 16:28:34](https://news.ycombinator.com/item?id=40898654) - [Zuckerberg and Peter Thiel on Facebook, Millenials, and Predictions for 2030](https://www.techemails.com/p/mark-zuckerberg-peter-thiel-millennials)
