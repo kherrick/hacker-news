@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-07, 21:38:52](https://news.ycombinator.com/item?id=40900648) - [I'm Funding Ladybird Because I Can't Fund Firefox](http://jackkelly.name/blog/archives/2024/07/06/im_funding_ladybird_because_i_cant_fund_firefox/)
+* [2024-07-07, 21:38:52](https://news.ycombinator.com/item?id=40900648) - [I'm funding Ladybird because I can't fund Firefox](http://jackkelly.name/blog/archives/2024/07/06/im_funding_ladybird_because_i_cant_fund_firefox/)
 * [2024-07-07, 21:16:18](https://news.ycombinator.com/item?id=40900495) - [Construction of the 4th Chinese aircraft carrier has reportedly started](https://meta-defense.fr/en/2024/07/06/4-Chinese-aircraft-carriers-construction/)
 * [2024-07-07, 21:01:44](https://news.ycombinator.com/item?id=40900417) - [Continue (YC S23) Is Hiring a Full-Stack Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-full-stack-engineer)
 * [2024-07-07, 19:17:56](https://news.ycombinator.com/item?id=40899761) - [The internet is already over (2022)](https://samkriss.substack.com/p/the-internet-is-already-over)
@@ -13,7 +13,6 @@
 * [2024-07-07, 18:09:25](https://news.ycombinator.com/item?id=40899309) - [Reasoning in Large Language Models: A Geometric Perspective](https://arxiv.org/abs/2407.02678)
 * [2024-07-07, 18:04:38](https://news.ycombinator.com/item?id=40899281) - [Managing Oneself (2005)](https://hbr.org/2005/01/managing-oneself)
 * [2024-07-07, 17:59:31](https://news.ycombinator.com/item?id=40899242) - [Show HN: A modern Jupyter client for macOS](https://satyrn.app/)
-* [2024-07-07, 17:22:12](https://news.ycombinator.com/item?id=40898989) - [Using copper to convert CO₂ to methane](https://phys.org/news/2024-07-copper-methane-game-changer-mitigating.html)
 * [2024-07-07, 17:03:16](https://news.ycombinator.com/item?id=40898844) - [Synchronization Is Bad for Scale](https://wippler.dev/posts/synchronization-is-bad-for-scale)
 * [2024-07-07, 15:26:07](https://news.ycombinator.com/item?id=40898313) - [Show HN: I made an open source Mailchimp RSS-to-Email alternative](https://github.com/ElliotKillick/rss2newsletter)
 * [2024-07-07, 14:53:26](https://news.ycombinator.com/item?id=40898121) - [Talent Search versus Talent Development (2019) [pdf]](https://community.ams.org/journals/notices/201909/rnoti-p1471.pdf)
@@ -25,6 +24,7 @@
 * [2024-07-06, 19:31:49](https://news.ycombinator.com/item?id=40892636) - [Numeronymize](https://leancrew.com/all-this/2024/07/numeronymize/)
 * [2024-07-06, 13:23:13](https://news.ycombinator.com/item?id=40890315) - [Amazon is bricking $2,350 Astro robots 10 months after release](https://arstechnica.com/gadgets/2024/07/amazon-is-bricking-2350-astro-robots-10-months-after-release/)
 * [2024-07-05, 15:13:10](https://news.ycombinator.com/item?id=40883466) - [A Louisiana gas plant sea wall shows challenges of flooding, energy demand](https://www.washingtonpost.com/climate-environment/interactive/2024/louisiana-sea-wall-gas-facility-flooding/)
+* [2024-07-05, 06:41:50](https://news.ycombinator.com/item?id=40880302) - [Detect Migrating Birds with a Plastic Dish and a Cheap Microphone](https://spectrum.ieee.org/detect-migrating-birds-with-sound)
 * [2024-07-04, 18:02:50](https://news.ycombinator.com/item?id=40876840) - [LivePortrait: A fast, controllable portrait animation model](https://github.com/KwaiVGI/LivePortrait)
 * [2024-07-03, 23:17:20](https://news.ycombinator.com/item?id=40870972) - [Wordsworth Donisthorpe, Blackmail, and the First Motion Pictures](https://publicdomainreview.org/essay/wordsworth-donisthorpe-blackmail-and-the-first-motion-pictures/)
 * [2024-07-03, 16:39:34](https://news.ycombinator.com/item?id=40867652) - [The 18th-century French media stoked a werewolf panic](https://www.openculture.com/2024/06/how-the-18th-century-french-media-stoked-a-werewolf-panic.html)
