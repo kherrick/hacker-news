@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-07, 05:35:09](https://news.ycombinator.com/item?id=40895484) - [We built the extension that blocks ads, trackers and third-party cookies](https://ultrablock.org/about/)
 * [2024-07-07, 04:00:41](https://news.ycombinator.com/item?id=40895167) - [\"Out of Band\" network management is not trivial](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OutOfBandManagementNotTrivial)
 * [2024-07-06, 22:37:13](https://news.ycombinator.com/item?id=40893866) - [Show HN: A free minimalist daily habit tracker](https://rdht.vercel.app/)
 * [2024-07-06, 22:12:41](https://news.ycombinator.com/item?id=40893749) - [What causes migraines? Study of 'brain blackout' offers clues](https://www.nature.com/articles/d41586-024-02222-x)
@@ -17,7 +18,6 @@
 * [2024-07-06, 16:27:48](https://news.ycombinator.com/item?id=40891446) - [Kivy – a cross platform Python UI framework](https://kivy.org)
 * [2024-07-06, 16:01:25](https://news.ycombinator.com/item?id=40891252) - [First anode-free sodium solid-state battery](https://pme.uchicago.edu/news/uchicago-prof-shirley-mengs-laboratory-energy-storage-and-conversion-creates-worlds-first)
 * [2024-07-06, 15:07:30](https://news.ycombinator.com/item?id=40890847) - [Teaching general problem-solving skills is not a substitute for teaching math [pdf] (2010)](https://www.ams.org/notices/201010/rtx101001303p.pdf)
-* [2024-07-06, 12:29:18](https://news.ycombinator.com/item?id=40890035) - [Properly testing concurrent data structures](https://matklad.github.io/2024/07/05/properly-testing-concurrent-data-structures.html)
 * [2024-07-06, 04:00:39](https://news.ycombinator.com/item?id=40888085) - [Ford Dabney might have been the first jazz star](https://www.honest-broker.com/p/he-might-have-been-the-first-jazz)
 * [2024-07-05, 21:55:09](https://news.ycombinator.com/item?id=40886385) - [Gardeners can grow a genetically modified purple tomato made with snapdragon DNA](https://www.npr.org/sections/health-shots/2024/02/06/1228868005/purple-tomato-gmo-gardeners)
 * [2024-07-05, 16:09:43](https://news.ycombinator.com/item?id=40883940) - [Starcraft (A History in Two Acts)](https://www.filfre.net/2024/07/starcraft-a-history-in-two-acts/)
