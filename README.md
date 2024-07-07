@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-07, 06:36:38](https://news.ycombinator.com/item?id=40895715) - [Reddit's Robots.txt Changed](https://old.reddit.com/robots.txt)
 * [2024-07-07, 06:25:50](https://news.ycombinator.com/item?id=40895672) - [Show HN: BeaconDB – An Alternative to Mozilla Location Services](https://beacondb.net/)
 * [2024-07-07, 05:22:49](https://news.ycombinator.com/item?id=40895441) - [Why Italy Fell Out of Love with Cilantro](https://www.atlasobscura.com/articles/what-are-italian-herbs)
 * [2024-07-07, 04:00:41](https://news.ycombinator.com/item?id=40895167) - [\"Out of Band\" network management is not trivial](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OutOfBandManagementNotTrivial)
@@ -13,7 +14,6 @@
 * [2024-07-06, 18:52:41](https://news.ycombinator.com/item?id=40892365) - [Against the burden of knowledge](https://www.theseedsofscience.pub/p/against-the-burden-of-knowledge)
 * [2024-07-06, 18:44:46](https://news.ycombinator.com/item?id=40892298) - [How to think in writing](https://www.henrikkarlsson.xyz/p/writing-to-think)
 * [2024-07-06, 16:59:17](https://news.ycombinator.com/item?id=40891643) - [Show HN: Bash Dungeon – An educational dungeon crawler in the shell](https://github.com/wolandark/bash-dungeon)
-* [2024-07-06, 16:40:59](https://news.ycombinator.com/item?id=40891507) - [Fabric is an open-source framework for augmenting humans using AI](https://github.com/danielmiessler/fabric)
 * [2024-07-06, 16:38:24](https://news.ycombinator.com/item?id=40891495) - [Leonard Rome's lab discovered an odd component of cells in the 1980s: Vaults](https://www.science.org/content/article/biologist-aims-solve-cell-s-biggest-mystery-could-it-help-cancer-patients-too)
 * [2024-07-06, 16:27:48](https://news.ycombinator.com/item?id=40891446) - [Kivy – a cross platform Python UI framework](https://kivy.org)
 * [2024-07-06, 16:01:25](https://news.ycombinator.com/item?id=40891252) - [First anode-free sodium solid-state battery](https://pme.uchicago.edu/news/uchicago-prof-shirley-mengs-laboratory-energy-storage-and-conversion-creates-worlds-first)
