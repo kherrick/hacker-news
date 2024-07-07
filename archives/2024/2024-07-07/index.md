@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-07](index.md)
 
+* [2024-07-07, 08:25:28](https://news.ycombinator.com/item?id=40896041) - [Engines 101: The Basics of How Engines Work by Toyota [video]](https://www.youtube.com/watch?v=gqK3dCpwzxE)
 * [2024-07-07, 06:42:34](https://news.ycombinator.com/item?id=40895733) - [OpenRailRouting](https://github.com/geofabrik/OpenRailRouting)
 * [2024-07-07, 06:36:38](https://news.ycombinator.com/item?id=40895715) - [Reddit's Robots.txt Changed](https://old.reddit.com/robots.txt)
 * [2024-07-07, 06:25:50](https://news.ycombinator.com/item?id=40895672) - [Show HN: BeaconDB – An Alternative to Mozilla Location Services](https://beacondb.net/)
