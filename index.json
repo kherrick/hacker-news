@@ -1,6 +1,76 @@
 [
   [
     [
+      "2024-07-07, 19:26:03",
+      "https://news.ycombinator.com/item?id=40899814"
+    ],
+    [
+      "Apple M5 Chip's Dual-Use Design Will Power Future Macs and AI Servers",
+      "https://www.macrumors.com/2024/07/04/apple-m5-chips-advanced-packaging-tsmc/"
+    ]
+  ],
+  [
+    [
+      "2024-07-07, 19:21:51",
+      "https://news.ycombinator.com/item?id=40899778"
+    ],
+    [
+      "ICANN's list of abandoned vanity TLDs, which now has about 134 entries",
+      "https://www.icann.org/resources/pages/gtld-registry-agreement-termination-2015-10-09-en"
+    ]
+  ],
+  [
+    [
+      "2024-07-07, 19:17:56",
+      "https://news.ycombinator.com/item?id=40899761"
+    ],
+    [
+      "The internet is already over (2022)",
+      "https://samkriss.substack.com/p/the-internet-is-already-over"
+    ]
+  ],
+  [
+    [
+      "2024-07-07, 19:02:44",
+      "https://news.ycombinator.com/item?id=40899662"
+    ],
+    [
+      "Ask HN: Should I remove work experience from resume?",
+      "https://news.ycombinator.com/item?id=40899662"
+    ]
+  ],
+  [
+    [
+      "2024-07-07, 18:45:44",
+      "https://news.ycombinator.com/item?id=40899562"
+    ],
+    [
+      "Doomsday Prepping: Reactionary Behavior or Inherited Instinct?",
+      "https://seattleanxiety.com/psychiatrist/2023/1/12/doomsday-prepping-reactionary-behavior-or-inherited-instinct"
+    ]
+  ],
+  [
+    [
+      "2024-07-07, 18:35:46",
+      "https://news.ycombinator.com/item?id=40899507"
+    ],
+    [
+      "Sharedrop: Easy P2P file transfer powered by WebRTC – inspired by Apple AirDrop",
+      "https://github.com/szimek/sharedrop"
+    ]
+  ],
+  [
+    [
+      "2024-07-07, 18:32:57",
+      "https://news.ycombinator.com/item?id=40899487"
+    ],
+    [
+      "Modern-day spying: sometimes old technology is more secure",
+      "https://www.economist.com/technology-quarterly/2024/07/01/sometimes-the-old-ways-of-espionage-are-the-best"
+    ]
+  ],
+  [
+    [
       "2024-07-07, 18:32:48",
       "https://news.ycombinator.com/item?id=40899483"
     ],
@@ -27,6 +97,16 @@
     [
       "Standard cells: Looking at individual gates in the Pentium processor",
       "http://www.righto.com/2024/07/pentium-standard-cells.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-07, 18:16:51",
+      "https://news.ycombinator.com/item?id=40899371"
+    ],
+    [
+      "VDEv2: Virtual Distributed Ethernet",
+      "https://github.com/virtualsquare/vde-2"
     ]
   ],
   [
@@ -151,16 +231,6 @@
   ],
   [
     [
-      "2024-07-07, 08:42:03",
-      "https://news.ycombinator.com/item?id=40896102"
-    ],
-    [
-      "Malloc broke Serenity's JPGLoader, or: how to win the lottery (2021)",
-      "https://sin-ack.github.io/posts/jpg-loader-bork/"
-    ]
-  ],
-  [
-    [
       "2024-07-07, 06:25:50",
       "https://news.ycombinator.com/item?id=40895672"
     ],
@@ -171,32 +241,12 @@
   ],
   [
     [
-      "2024-07-07, 05:22:49",
-      "https://news.ycombinator.com/item?id=40895441"
-    ],
-    [
-      "Why Italy Fell Out of Love with Cilantro",
-      "https://www.atlasobscura.com/articles/what-are-italian-herbs"
-    ]
-  ],
-  [
-    [
       "2024-07-06, 19:31:49",
       "https://news.ycombinator.com/item?id=40892636"
     ],
     [
       "Numeronymize",
       "https://leancrew.com/all-this/2024/07/numeronymize/"
-    ]
-  ],
-  [
-    [
-      "2024-07-06, 18:44:46",
-      "https://news.ycombinator.com/item?id=40892298"
-    ],
-    [
-      "How to think in writing",
-      "https://www.henrikkarlsson.xyz/p/writing-to-think"
     ]
   ],
   [
@@ -217,16 +267,6 @@
     [
       "LivePortrait: A fast, controllable portrait animation model",
       "https://github.com/KwaiVGI/LivePortrait"
-    ]
-  ],
-  [
-    [
-      "2024-07-04, 17:09:00",
-      "https://news.ycombinator.com/item?id=40876453"
-    ],
-    [
-      "Advantages of incompetent management",
-      "https://yosefk.com/blog/advantages-of-incompetent-management.html"
     ]
   ],
   [
@@ -257,46 +297,6 @@
     [
       "Artificial LIfe ENvironment (ALIEN) is an artificial life simulation tool",
       "https://alien-project.gitbook.io/docs"
-    ]
-  ],
-  [
-    [
-      "2024-07-03, 08:58:53",
-      "https://news.ycombinator.com/item?id=40864091"
-    ],
-    [
-      "Optimizing Large-Scale OpenStreetMap Data with SQLite",
-      "https://jtarchie.com/posts/2024-07-02-optimizing-large-scale-openstreetmap-data-with-sqlite"
-    ]
-  ],
-  [
-    [
-      "2024-07-02, 19:49:08",
-      "https://news.ycombinator.com/item?id=40859865"
-    ],
-    [
-      "A quick introduction to DirectX workgraphs",
-      "https://interplayoflight.wordpress.com/2024/06/29/a-quick-introduction-to-workgraphs/"
-    ]
-  ],
-  [
-    [
-      "2024-07-02, 16:15:39",
-      "https://news.ycombinator.com/item?id=40858060"
-    ],
-    [
-      "RocketSim enhances and records Xcode Simulators",
-      "https://www.rocketsim.app/"
-    ]
-  ],
-  [
-    [
-      "2024-07-02, 13:50:11",
-      "https://news.ycombinator.com/item?id=40856659"
-    ],
-    [
-      "A Practical Real-Time Model for Diffraction on Rough Surfaces",
-      "https://www.jcgt.org/published/0013/01/01/"
     ]
   ]
 ]
