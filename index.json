@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-07-07, 18:21:11",
+      "https://news.ycombinator.com/item?id=40899411"
+    ],
+    [
+      "A brief history of liquid computers (2019)",
+      "https://royalsocietypublishing.org/doi/10.1098/rstb.2018.0372"
+    ]
+  ],
+  [
+    [
       "2024-07-07, 18:19:49",
       "https://news.ycombinator.com/item?id=40899393"
     ],
     [
       "Standard cells: Looking at individual gates in the Pentium processor",
       "http://www.righto.com/2024/07/pentium-standard-cells.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-07, 18:09:25",
+      "https://news.ycombinator.com/item?id=40899309"
+    ],
+    [
+      "Reasoning in Large Language Models: A Geometric Perspective",
+      "https://arxiv.org/abs/2407.02678"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2024-07-06, 22:09:28",
-      "https://news.ycombinator.com/item?id=40893722"
-    ],
-    [
-      "RISC-V Emulator for Sophgo SG2000 SoC (Pine64 Oz64 / Milk-V Duo S)",
-      "https://lupyuen.codeberg.page/articles/sg2000b.html"
-    ]
-  ],
-  [
-    [
       "2024-07-06, 19:31:49",
       "https://news.ycombinator.com/item?id=40892636"
     ],
@@ -187,16 +197,6 @@
     [
       "How to think in writing",
       "https://www.henrikkarlsson.xyz/p/writing-to-think"
-    ]
-  ],
-  [
-    [
-      "2024-07-06, 16:59:17",
-      "https://news.ycombinator.com/item?id=40891643"
-    ],
-    [
-      "Show HN: Bash Dungeon – An educational dungeon crawler in the shell",
-      "https://github.com/wolandark/bash-dungeon"
     ]
   ],
   [
