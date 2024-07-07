@@ -171,16 +171,6 @@
   ],
   [
     [
-      "2024-07-06, 12:29:18",
-      "https://news.ycombinator.com/item?id=40890035"
-    ],
-    [
-      "Properly testing concurrent data structures",
-      "https://matklad.github.io/2024/07/05/properly-testing-concurrent-data-structures.html"
-    ]
-  ],
-  [
-    [
       "2024-07-06, 04:00:39",
       "https://news.ycombinator.com/item?id=40888085"
     ],
@@ -297,6 +287,16 @@
     [
       "How to prevent stagnation while building products alone",
       "https://www.idiotlamborghini.com/articles/how_to_prevent_stagnation_while_building_products_alone"
+    ]
+  ],
+  [
+    [
+      "2024-07-02, 09:23:43",
+      "https://news.ycombinator.com/item?id=40854872"
+    ],
+    [
+      "Shortest distance between two points is not always a straight line",
+      "https://metaquestions.me/2014/08/01/shortest-distance-between-two-points-is-not-always-a-straight-line/"
     ]
   ]
 ]
