@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-07](index.md)
 
+* [2024-07-07, 09:43:50](https://news.ycombinator.com/item?id=40896334) - [End of the librarian? Council cuts and new tech push profession to the brink](https://www.theguardian.com/books/article/2024/jul/07/librarians-council-cuts-and-new-tech-public-libraries)
+* [2024-07-07, 09:06:09](https://news.ycombinator.com/item?id=40896212) - [\"AI\", students, and epistemic crisis](https://miniver.blogspot.com/2024/07/ai-students-and-epistemic-crisis.html)
 * [2024-07-07, 08:44:18](https://news.ycombinator.com/item?id=40896110) - [Scientists re-emerge after a year in Mars simulation project](https://www.dw.com/en/scientists-re-emerge-after-a-year-in-mars-simulation-project/a-69585838)
 * [2024-07-07, 08:42:03](https://news.ycombinator.com/item?id=40896102) - [Malloc broke Serenity's JPGLoader, or: how to win the lottery](https://sin-ack.github.io/posts/jpg-loader-bork/)
 * [2024-07-07, 08:25:28](https://news.ycombinator.com/item?id=40896041) - [Engines 101: The Basics of How Engines Work by Toyota [video]](https://www.youtube.com/watch?v=gqK3dCpwzxE)
