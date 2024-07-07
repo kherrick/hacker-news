@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-07, 04:00:41](https://news.ycombinator.com/item?id=40895167) - [\"Out of Band\" network management is not trivial](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OutOfBandManagementNotTrivial)
 * [2024-07-06, 22:37:13](https://news.ycombinator.com/item?id=40893866) - [Show HN: A free minimalist daily habit tracker](https://rdht.vercel.app/)
 * [2024-07-06, 22:12:41](https://news.ycombinator.com/item?id=40893749) - [What causes migraines? Study of 'brain blackout' offers clues](https://www.nature.com/articles/d41586-024-02222-x)
 * [2024-07-06, 22:09:28](https://news.ycombinator.com/item?id=40893722) - [RISC-V Emulator for Sophgo SG2000 SoC (Pine64 Oz64 / Milk-V Duo S)](https://lupyuen.codeberg.page/articles/sg2000b.html)
@@ -22,7 +23,6 @@
 * [2024-07-05, 21:55:09](https://news.ycombinator.com/item?id=40886385) - [Gardeners can grow a genetically modified purple tomato made with snapdragon DNA](https://www.npr.org/sections/health-shots/2024/02/06/1228868005/purple-tomato-gmo-gardeners)
 * [2024-07-05, 16:09:43](https://news.ycombinator.com/item?id=40883940) - [Starcraft (A History in Two Acts)](https://www.filfre.net/2024/07/starcraft-a-history-in-two-acts/)
 * [2024-07-04, 17:09:00](https://news.ycombinator.com/item?id=40876453) - [Advantages of incompetent management](https://yosefk.com/blog/advantages-of-incompetent-management.html)
-* [2024-07-04, 13:36:42](https://news.ycombinator.com/item?id=40874852) - [My Gold Prospecting and Mining Pages](http://mdpub.com/gold/index.html)
 * [2024-07-04, 12:08:16](https://news.ycombinator.com/item?id=40874230) - [High-altitude cave used by Tibetan Buddhists yields a Denisovan fossil](https://arstechnica.com/science/2024/07/high-altitude-cave-used-by-tibetan-buddhists-yields-a-denisovan-fossil/)
 * [2024-07-04, 09:09:13](https://news.ycombinator.com/item?id=40873471) - [The magic of small engineering teams](https://newsletter.posthog.com/p/the-magic-of-small-engineering-teams)
 * [2024-07-03, 16:32:01](https://news.ycombinator.com/item?id=40867565) - [The Math of Card Shuffling](https://fredhohman.com/card-shuffling/)
