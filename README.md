@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-07, 01:18:21](https://news.ycombinator.com/item?id=40894527) - [Portugal to reintroduce tax breaks for skilled foreigners](https://www.ft.com/content/4e7fac79-ea08-4a04-8a37-9d6db239b896)
 * [2024-07-06, 22:37:13](https://news.ycombinator.com/item?id=40893866) - [Show HN: A free minimalist daily habit tracker](https://rdht.vercel.app/)
 * [2024-07-06, 22:12:41](https://news.ycombinator.com/item?id=40893749) - [What causes migraines? Study of 'brain blackout' offers clues](https://www.nature.com/articles/d41586-024-02222-x)
 * [2024-07-06, 22:09:28](https://news.ycombinator.com/item?id=40893722) - [RISC-V Emulator for Sophgo SG2000 SoC (Pine64 Oz64 / Milk-V Duo S)](https://lupyuen.codeberg.page/articles/sg2000b.html)
@@ -20,6 +19,7 @@
 * [2024-07-06, 15:07:30](https://news.ycombinator.com/item?id=40890847) - [Teaching general problem-solving skills is not a substitute for teaching math [pdf] (2010)](https://www.ams.org/notices/201010/rtx101001303p.pdf)
 * [2024-07-06, 12:29:18](https://news.ycombinator.com/item?id=40890035) - [Properly testing concurrent data structures](https://matklad.github.io/2024/07/05/properly-testing-concurrent-data-structures.html)
 * [2024-07-06, 04:00:39](https://news.ycombinator.com/item?id=40888085) - [Ford Dabney might have been the first jazz star](https://www.honest-broker.com/p/he-might-have-been-the-first-jazz)
+* [2024-07-05, 21:55:09](https://news.ycombinator.com/item?id=40886385) - [Gardeners can grow a genetically modified purple tomato made with snapdragon DNA](https://www.npr.org/sections/health-shots/2024/02/06/1228868005/purple-tomato-gmo-gardeners)
 * [2024-07-05, 16:09:43](https://news.ycombinator.com/item?id=40883940) - [Starcraft (A History in Two Acts)](https://www.filfre.net/2024/07/starcraft-a-history-in-two-acts/)
 * [2024-07-04, 17:09:00](https://news.ycombinator.com/item?id=40876453) - [Advantages of incompetent management](https://yosefk.com/blog/advantages-of-incompetent-management.html)
 * [2024-07-04, 13:36:42](https://news.ycombinator.com/item?id=40874852) - [My Gold Prospecting and Mining Pages](http://mdpub.com/gold/index.html)
