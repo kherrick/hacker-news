@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-07-07](index.md)
 
+* [2024-07-07, 18:21:11](https://news.ycombinator.com/item?id=40899411) - [A brief history of liquid computers (2019)](https://royalsocietypublishing.org/doi/10.1098/rstb.2018.0372)
 * [2024-07-07, 18:19:49](https://news.ycombinator.com/item?id=40899393) - [Standard cells: Looking at individual gates in the Pentium processor](http://www.righto.com/2024/07/pentium-standard-cells.html)
 * [2024-07-07, 18:15:35](https://news.ycombinator.com/item?id=40899362) - [The Science of Sexual Arousal](https://www.apa.org/monitor/apr03/arousal)
+* [2024-07-07, 18:09:25](https://news.ycombinator.com/item?id=40899309) - [Reasoning in Large Language Models: A Geometric Perspective](https://arxiv.org/abs/2407.02678)
 * [2024-07-07, 17:22:12](https://news.ycombinator.com/item?id=40898989) - [Using copper to convert CO₂ to methane](https://phys.org/news/2024-07-copper-methane-game-changer-mitigating.html)
 * [2024-07-07, 17:03:16](https://news.ycombinator.com/item?id=40898844) - [Synchronization Is Bad for Scale](https://wippler.dev/posts/synchronization-is-bad-for-scale)
 * [2024-07-07, 17:00:26](https://news.ycombinator.com/item?id=40898831) - [Trellis (YC W24) is hiring engineer to build AI-powered ETL for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
