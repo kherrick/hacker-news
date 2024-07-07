@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-07, 17:22:12",
+      "https://news.ycombinator.com/item?id=40898989"
+    ],
+    [
+      "Using copper to convert CO₂ to methane",
+      "https://phys.org/news/2024-07-copper-methane-game-changer-mitigating.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-07, 17:03:16",
+      "https://news.ycombinator.com/item?id=40898844"
+    ],
+    [
+      "Synchronization Is Bad for Scale",
+      "https://wippler.dev/posts/synchronization-is-bad-for-scale"
+    ]
+  ],
+  [
+    [
       "2024-07-07, 17:00:26",
       "https://news.ycombinator.com/item?id=40898831"
     ],
@@ -31,22 +51,22 @@
   ],
   [
     [
-      "2024-07-07, 16:28:34",
-      "https://news.ycombinator.com/item?id=40898654"
-    ],
-    [
-      "Zuckerberg and Peter Thiel on Facebook, Millenials, and Predictions for 2030",
-      "https://www.techemails.com/p/mark-zuckerberg-peter-thiel-millennials"
-    ]
-  ],
-  [
-    [
       "2024-07-07, 16:08:06",
       "https://news.ycombinator.com/item?id=40898551"
     ],
     [
       "US intelligence community is embracing generative AI",
       "https://www.nextgov.com/artificial-intelligence/2024/07/us-intelligence-community-embracing-generative-ai/397849/"
+    ]
+  ],
+  [
+    [
+      "2024-07-07, 15:26:07",
+      "https://news.ycombinator.com/item?id=40898313"
+    ],
+    [
+      "Show HN: I made an open source Mailchimp RSS-to-Email alternative",
+      "https://github.com/ElliotKillick/rss2newsletter"
     ]
   ],
   [
@@ -101,32 +121,12 @@
   ],
   [
     [
-      "2024-07-07, 08:44:18",
-      "https://news.ycombinator.com/item?id=40896110"
-    ],
-    [
-      "Scientists re-emerge after a year in Mars simulation project",
-      "https://www.dw.com/en/scientists-re-emerge-after-a-year-in-mars-simulation-project/a-69585838"
-    ]
-  ],
-  [
-    [
       "2024-07-07, 08:42:03",
       "https://news.ycombinator.com/item?id=40896102"
     ],
     [
       "Malloc broke Serenity's JPGLoader, or: how to win the lottery (2021)",
       "https://sin-ack.github.io/posts/jpg-loader-bork/"
-    ]
-  ],
-  [
-    [
-      "2024-07-07, 06:42:34",
-      "https://news.ycombinator.com/item?id=40895733"
-    ],
-    [
-      "OpenRailRouting",
-      "https://github.com/geofabrik/OpenRailRouting"
     ]
   ],
   [
