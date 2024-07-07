@@ -4,9 +4,17 @@
 
 ### [Archives](../../index.md) for [2024-07-07](index.md)
 
+* [2024-07-07, 19:26:03](https://news.ycombinator.com/item?id=40899814) - [Apple M5 Chip's Dual-Use Design Will Power Future Macs and AI Servers](https://www.macrumors.com/2024/07/04/apple-m5-chips-advanced-packaging-tsmc/)
+* [2024-07-07, 19:21:51](https://news.ycombinator.com/item?id=40899778) - [ICANN's list of abandoned vanity TLDs, which now has about 134 entries](https://www.icann.org/resources/pages/gtld-registry-agreement-termination-2015-10-09-en)
+* [2024-07-07, 19:17:56](https://news.ycombinator.com/item?id=40899761) - [The internet is already over (2022)](https://samkriss.substack.com/p/the-internet-is-already-over)
+* [2024-07-07, 19:02:44](https://news.ycombinator.com/item?id=40899662) - [Ask HN: Should I remove work experience from resume?](https://news.ycombinator.com/item?id=40899662)
+* [2024-07-07, 18:45:44](https://news.ycombinator.com/item?id=40899562) - [Doomsday Prepping: Reactionary Behavior or Inherited Instinct?](https://seattleanxiety.com/psychiatrist/2023/1/12/doomsday-prepping-reactionary-behavior-or-inherited-instinct)
+* [2024-07-07, 18:35:46](https://news.ycombinator.com/item?id=40899507) - [Sharedrop: Easy P2P file transfer powered by WebRTC – inspired by Apple AirDrop](https://github.com/szimek/sharedrop)
+* [2024-07-07, 18:32:57](https://news.ycombinator.com/item?id=40899487) - [Modern-day spying: sometimes old technology is more secure](https://www.economist.com/technology-quarterly/2024/07/01/sometimes-the-old-ways-of-espionage-are-the-best)
 * [2024-07-07, 18:32:48](https://news.ycombinator.com/item?id=40899483) - [What the internet looked like in 1994](https://www.fastcompany.com/91140068/how-the-internet-went-mainstream-in-1994)
 * [2024-07-07, 18:21:11](https://news.ycombinator.com/item?id=40899411) - [A brief history of liquid computers (2019)](https://royalsocietypublishing.org/doi/10.1098/rstb.2018.0372)
 * [2024-07-07, 18:19:49](https://news.ycombinator.com/item?id=40899393) - [Standard cells: Looking at individual gates in the Pentium processor](http://www.righto.com/2024/07/pentium-standard-cells.html)
+* [2024-07-07, 18:16:51](https://news.ycombinator.com/item?id=40899371) - [VDEv2: Virtual Distributed Ethernet](https://github.com/virtualsquare/vde-2)
 * [2024-07-07, 18:15:35](https://news.ycombinator.com/item?id=40899362) - [The Science of Sexual Arousal](https://www.apa.org/monitor/apr03/arousal)
 * [2024-07-07, 18:09:25](https://news.ycombinator.com/item?id=40899309) - [Reasoning in Large Language Models: A Geometric Perspective](https://arxiv.org/abs/2407.02678)
 * [2024-07-07, 17:59:31](https://news.ycombinator.com/item?id=40899242) - [Show HN: A modern Jupyter client for macOS](https://satyrn.app/)
