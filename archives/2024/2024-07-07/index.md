@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-07](index.md)
 
+* [2024-07-07, 11:07:26](https://news.ycombinator.com/item?id=40896708) - [Germany set to overhaul subsidy regime for renewable energy](https://www.reuters.com/business/energy/germany-set-overhaul-subsidy-regime-renewable-energy-document-2024-07-05/)
 * [2024-07-07, 10:46:32](https://news.ycombinator.com/item?id=40896594) - [People are feeling stuck in their jobs](https://www.wsj.com/lifestyle/careers/job-market-slowing-employee-growth-change-wanted-c422f67d)
 * [2024-07-07, 10:31:40](https://news.ycombinator.com/item?id=40896510) - [Portugal brings back tax breaks for foreigners in bid to woo digital nomads](https://fortune.com/europe/2024/07/04/portugal-backtracks-hostility-digital-nomads-tax-breaks-skilled-foreigners-return/)
 * [2024-07-07, 09:56:30](https://news.ycombinator.com/item?id=40896387) - [Adventures in mapmaking: the search for grayscale tiles](https://newsletter.pnote.eu/p/mapmaking-search-for-grayscale-tiles)
@@ -14,6 +15,7 @@
 * [2024-07-07, 08:44:18](https://news.ycombinator.com/item?id=40896110) - [Scientists re-emerge after a year in Mars simulation project](https://www.dw.com/en/scientists-re-emerge-after-a-year-in-mars-simulation-project/a-69585838)
 * [2024-07-07, 08:42:03](https://news.ycombinator.com/item?id=40896102) - [Malloc broke Serenity's JPGLoader, or: how to win the lottery](https://sin-ack.github.io/posts/jpg-loader-bork/)
 * [2024-07-07, 08:25:28](https://news.ycombinator.com/item?id=40896041) - [Engines 101: The Basics of How Engines Work by Toyota [video]](https://www.youtube.com/watch?v=gqK3dCpwzxE)
+* [2024-07-07, 08:07:55](https://news.ycombinator.com/item?id=40895983) - [Modern Emacs TypeScript Web Config](https://www.ovistoica.com/blog/2024-7-05-modern-emacs-typescript-web-tsx-config)
 * [2024-07-07, 07:54:36](https://news.ycombinator.com/item?id=40895935) - [From the Transistor to the Web Browser, a rough outline for a 12 week course](https://github.com/geohot/fromthetransistor)
 * [2024-07-07, 07:46:22](https://news.ycombinator.com/item?id=40895907) - [Crystal Fragment turns everything you see into 8-bit Pixel Art](https://www.yankodesign.com/2024/07/04/this-crystal-fragment-turns-everything-you-see-into-8-bit-pixel-art-and-its-fascinating/)
 * [2024-07-07, 06:56:18](https://news.ycombinator.com/item?id=40895776) - [Is the 10k-Year-Old Yonaguni Monument a Man-Made Marvel or Nature's Art?](https://www.ancientoriginsunleashed.com/p/is-the-10000-year-old-yonaguni-monument)
