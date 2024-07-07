@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-07](index.md)
 
+* [2024-07-07, 17:00:26](https://news.ycombinator.com/item?id=40898831) - [Trellis (YC W24) is hiring engineer to build AI-powered ETL for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
 * [2024-07-07, 16:28:34](https://news.ycombinator.com/item?id=40898654) - [Zuckerberg and Peter Thiel on Facebook, Millenials, and Predictions for 2030](https://www.techemails.com/p/mark-zuckerberg-peter-thiel-millennials)
 * [2024-07-07, 16:08:06](https://news.ycombinator.com/item?id=40898551) - [US intelligence community is embracing generative AI](https://www.nextgov.com/artificial-intelligence/2024/07/us-intelligence-community-embracing-generative-ai/397849/)
 * [2024-07-07, 14:53:26](https://news.ycombinator.com/item?id=40898121) - [Talent Search versus Talent Development [pdf]](https://community.ams.org/journals/notices/201909/rnoti-p1471.pdf)

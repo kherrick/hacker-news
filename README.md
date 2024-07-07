@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-07, 17:00:26](https://news.ycombinator.com/item?id=40898831) - [Trellis (YC W24) is hiring engineer to build AI-powered ETL for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
 * [2024-07-07, 16:28:34](https://news.ycombinator.com/item?id=40898654) - [Zuckerberg and Peter Thiel on Facebook, Millenials, and Predictions for 2030](https://www.techemails.com/p/mark-zuckerberg-peter-thiel-millennials)
 * [2024-07-07, 16:08:06](https://news.ycombinator.com/item?id=40898551) - [US intelligence community is embracing generative AI](https://www.nextgov.com/artificial-intelligence/2024/07/us-intelligence-community-embracing-generative-ai/397849/)
 * [2024-07-07, 14:53:26](https://news.ycombinator.com/item?id=40898121) - [Talent Search versus Talent Development (2019) [pdf]](https://community.ams.org/journals/notices/201909/rnoti-p1471.pdf)
@@ -12,7 +13,6 @@
 * [2024-07-07, 06:42:34](https://news.ycombinator.com/item?id=40895733) - [OpenRailRouting](https://github.com/geofabrik/OpenRailRouting)
 * [2024-07-07, 06:25:50](https://news.ycombinator.com/item?id=40895672) - [Show HN: BeaconDB – An Alternative to Mozilla Location Services](https://beacondb.net/)
 * [2024-07-07, 05:22:49](https://news.ycombinator.com/item?id=40895441) - [Why Italy Fell Out of Love with Cilantro](https://www.atlasobscura.com/articles/what-are-italian-herbs)
-* [2024-07-06, 23:09:05](https://news.ycombinator.com/item?id=40894027) - [The staggering science and art behind Wimbledon's legendary grass courts](https://abcnews.go.com/US/staggering-science-art-wimbledons-legendary-grass-courts/story?id=111433116)
 * [2024-07-06, 22:37:13](https://news.ycombinator.com/item?id=40893866) - [Show HN: A free minimalist daily habit tracker](https://rdht.vercel.app/)
 * [2024-07-06, 22:09:28](https://news.ycombinator.com/item?id=40893722) - [RISC-V Emulator for Sophgo SG2000 SoC (Pine64 Oz64 / Milk-V Duo S)](https://lupyuen.codeberg.page/articles/sg2000b.html)
 * [2024-07-06, 19:31:49](https://news.ycombinator.com/item?id=40892636) - [Numeronymize](https://leancrew.com/all-this/2024/07/numeronymize/)
