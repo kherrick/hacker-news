@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-07-07, 19:02:44",
-      "https://news.ycombinator.com/item?id=40899662"
-    ],
-    [
-      "Ask HN: Should I remove work experience from resume?",
-      "https://news.ycombinator.com/item?id=40899662"
-    ]
-  ],
-  [
-    [
       "2024-07-07, 18:45:44",
       "https://news.ycombinator.com/item?id=40899562"
     ],
@@ -67,16 +57,6 @@
     [
       "Modern-day spying: sometimes old technology is more secure",
       "https://www.economist.com/technology-quarterly/2024/07/01/sometimes-the-old-ways-of-espionage-are-the-best"
-    ]
-  ],
-  [
-    [
-      "2024-07-07, 18:32:48",
-      "https://news.ycombinator.com/item?id=40899483"
-    ],
-    [
-      "What the internet looked like in 1994",
-      "https://www.fastcompany.com/91140068/how-the-internet-went-mainstream-in-1994"
     ]
   ],
   [
@@ -215,7 +195,7 @@
       "https://news.ycombinator.com/item?id=40897205"
     ],
     [
-      "YouTube embeds are bananas heavy and it’s fixable",
+      "YouTube embeds are heavy and it’s fixable",
       "https://frontendmasters.com/blog/youtube-embeds-are-bananas-heavy-and-its-fixable/"
     ]
   ],
@@ -297,6 +277,26 @@
     [
       "Artificial LIfe ENvironment (ALIEN) is an artificial life simulation tool",
       "https://alien-project.gitbook.io/docs"
+    ]
+  ],
+  [
+    [
+      "2024-07-03, 14:05:30",
+      "https://news.ycombinator.com/item?id=40866069"
+    ],
+    [
+      "Python with Braces",
+      "https://github.com/mathialo/bython"
+    ]
+  ],
+  [
+    [
+      "2024-07-03, 04:27:28",
+      "https://news.ycombinator.com/item?id=40862693"
+    ],
+    [
+      "Signature Programs",
+      "http://www.iwriteiam.nl/SigProg.html"
     ]
   ]
 ]
