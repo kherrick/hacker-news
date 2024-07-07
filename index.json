@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2024-07-06, 18:35:31",
-      "https://news.ycombinator.com/item?id=40892235"
-    ],
-    [
-      "Extraverted People Talk More Abstractly, Introverts Are More Concrete",
-      "https://www.bps.org.uk/research-digest/introverts-use-more-concrete-language-extraverts"
-    ]
-  ],
-  [
-    [
       "2024-07-06, 18:26:58",
       "https://news.ycombinator.com/item?id=40892183"
     ],
@@ -177,6 +167,16 @@
     [
       "Teaching general problem-solving skills is not a substitute for teaching math [pdf] (2010)",
       "https://www.ams.org/notices/201010/rtx101001303p.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-07-06, 12:29:18",
+      "https://news.ycombinator.com/item?id=40890035"
+    ],
+    [
+      "Properly testing concurrent data structures",
+      "https://matklad.github.io/2024/07/05/properly-testing-concurrent-data-structures.html"
     ]
   ],
   [
