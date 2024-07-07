@@ -31,6 +31,7 @@
 * [2024-07-04, 18:41:22](https://news.ycombinator.com/item?id=40877085) - [SoftBank stock hits first record high in 24yrs – Arm and AI helped it get there](https://www.cnbc.com/2024/07/04/softbank-shares-hit-record-high-after-24-years-on-arm-and-ai-boost.html)
 * [2024-07-04, 18:33:51](https://news.ycombinator.com/item?id=40877042) - [Gravitational wave researchers cast new light on Antikythera mechanism mystery](https://www.gla.ac.uk/news/headline_1086643_en.html)
 * [2024-07-04, 18:04:00](https://news.ycombinator.com/item?id=40876848) - [SCIM: Ncurses based, Vim-like spreadsheet](https://github.com/andmarti1424/sc-im)
+* [2024-07-04, 18:02:50](https://news.ycombinator.com/item?id=40876840) - [LivePortrait: A fast, controllable portrait animation model](https://github.com/KwaiVGI/LivePortrait)
 * [2024-07-04, 17:32:20](https://news.ycombinator.com/item?id=40876614) - [Footfall patterns and stride parameters of Common hippopotamus on land](https://peerj.com/articles/17675/)
 * [2024-07-04, 17:25:27](https://news.ycombinator.com/item?id=40876568) - [Ask HN: Who Wants a Penpal?](https://news.ycombinator.com/item?id=40876568)
 * [2024-07-04, 17:23:32](https://news.ycombinator.com/item?id=40876553) - [Geopolymer Cement in Pavement Applications for Sustainability and Performance](https://www.mdpi.com/2071-1050/16/13/5417)
