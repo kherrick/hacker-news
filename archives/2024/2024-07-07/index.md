@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-07](index.md)
 
+* [2024-07-07, 06:36:38](https://news.ycombinator.com/item?id=40895715) - [Reddit's Robots.txt Changed](https://old.reddit.com/robots.txt)
+* [2024-07-07, 06:25:50](https://news.ycombinator.com/item?id=40895672) - [Show HN: BeaconDB – An Alternative to Mozilla Location Services](https://beacondb.net/)
 * [2024-07-07, 05:35:09](https://news.ycombinator.com/item?id=40895484) - [We built the extension that blocks ads, trackers and third-party cookies](https://ultrablock.org/about/)
 * [2024-07-07, 04:00:41](https://news.ycombinator.com/item?id=40895167) - [\"Out of Band\" network management is not trivial](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OutOfBandManagementNotTrivial)
 * [2024-07-07, 02:48:50](https://news.ycombinator.com/item?id=40894917) - [The complete Code of Hammurabi (~1750 BC)](https://ehammurabi.org/#laws)
