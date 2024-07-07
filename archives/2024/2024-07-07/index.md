@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-07-07](index.md)
 
+* [2024-07-07, 17:22:12](https://news.ycombinator.com/item?id=40898989) - [Using copper to convert CO₂ to methane](https://phys.org/news/2024-07-copper-methane-game-changer-mitigating.html)
+* [2024-07-07, 17:03:16](https://news.ycombinator.com/item?id=40898844) - [Synchronization Is Bad for Scale](https://wippler.dev/posts/synchronization-is-bad-for-scale)
 * [2024-07-07, 17:00:26](https://news.ycombinator.com/item?id=40898831) - [Trellis (YC W24) is hiring engineer to build AI-powered ETL for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
 * [2024-07-07, 16:47:16](https://news.ycombinator.com/item?id=40898734) - [How David Sinkinson Bootstrapped AppArmor to a $40M Exit](https://builttosell.com/radio/episode-448/)
 * [2024-07-07, 16:38:08](https://news.ycombinator.com/item?id=40898693) - [ChatGPT is better at generating code for problems written before 2021](https://ieeexplore.ieee.org/document/10507163)
 * [2024-07-07, 16:28:34](https://news.ycombinator.com/item?id=40898654) - [Zuckerberg and Peter Thiel on Facebook, Millenials, and Predictions for 2030](https://www.techemails.com/p/mark-zuckerberg-peter-thiel-millennials)
 * [2024-07-07, 16:08:06](https://news.ycombinator.com/item?id=40898551) - [US intelligence community is embracing generative AI](https://www.nextgov.com/artificial-intelligence/2024/07/us-intelligence-community-embracing-generative-ai/397849/)
+* [2024-07-07, 15:26:07](https://news.ycombinator.com/item?id=40898313) - [Show HN: I made an open source Mailchimp RSS-to-Email alternative](https://github.com/ElliotKillick/rss2newsletter)
 * [2024-07-07, 14:53:26](https://news.ycombinator.com/item?id=40898121) - [Talent Search versus Talent Development [pdf]](https://community.ams.org/journals/notices/201909/rnoti-p1471.pdf)
 * [2024-07-07, 14:35:46](https://news.ycombinator.com/item?id=40898018) - [Latest Ghostscript vulnerability haunts experts as the next big breach enabler](https://www.theregister.com/2024/07/05/ghostscript_vulnerability_severity/)
 * [2024-07-07, 14:25:56](https://news.ycombinator.com/item?id=40897958) - [How Good Is ChatGPT at Coding, Really?](https://spectrum.ieee.org/chatgpt-for-coding)
