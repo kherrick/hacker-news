@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-07-07, 13:22:12",
+      "https://news.ycombinator.com/item?id=40897518"
+    ],
+    [
+      "Mongo but on Postgres and with strong consistency benefits",
+      "https://github.com/event-driven-io/Pongo"
+    ]
+  ],
+  [
+    [
       "2024-07-07, 13:20:37",
       "https://news.ycombinator.com/item?id=40897506"
     ],
@@ -257,16 +267,6 @@
     [
       "Optimizing Large-Scale OpenStreetMap Data with SQLite",
       "https://jtarchie.com/posts/2024-07-02-optimizing-large-scale-openstreetmap-data-with-sqlite"
-    ]
-  ],
-  [
-    [
-      "2024-07-03, 03:16:58",
-      "https://news.ycombinator.com/item?id=40862444"
-    ],
-    [
-      "A blast from the past: Disassembling DOS (2020)",
-      "http://www.softwarelitigationconsulting.com/wp-content/uploads/2020/08/schulman_blast_from_the_past_disassembling_dos.html"
     ]
   ],
   [
