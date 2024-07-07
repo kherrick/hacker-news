@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2024-07-06](index.md)
 
 * [2024-07-06, 23:24:53](https://news.ycombinator.com/item?id=40894082) - [OpenAI was hacked year-old breach wasn't reported to the public](https://www.tomshardware.com/tech-industry/artificial-intelligence/openai-was-hacked-revealing-internal-secrets-and-raising-national-security-concerns-year-old-breach-wasnt-reported-to-the-public)
+* [2024-07-06, 22:37:13](https://news.ycombinator.com/item?id=40893866) - [Show HN: A free minimalist daily habit tracker](https://rdht.vercel.app/)
 * [2024-07-06, 22:12:41](https://news.ycombinator.com/item?id=40893749) - [What causes migraines? Study of 'brain blackout' offers clues](https://www.nature.com/articles/d41586-024-02222-x)
+* [2024-07-06, 22:09:28](https://news.ycombinator.com/item?id=40893722) - [RISC-V Emulator for Sophgo SG2000 SoC (Pine64 Oz64 / Milk-V Duo S)](https://lupyuen.codeberg.page/articles/sg2000b.html)
 * [2024-07-06, 21:50:58](https://news.ycombinator.com/item?id=40893585) - [DOJ antitrust case could cost Google 50% of US mobile searches in the US](https://twitter.com/glenngabe/status/1809555896433012815)
 * [2024-07-06, 21:27:31](https://news.ycombinator.com/item?id=40893447) - [Microsoft Is Dead: The Cliffs Notes (2007)](https://paulgraham.com/cliffsnotes.html)
 * [2024-07-06, 21:26:47](https://news.ycombinator.com/item?id=40893446) - [The African workers driving the AI revolution, for about a dollar an hour](https://www.theguardian.com/technology/article/2024/jul/06/mercy-anita-african-workers-ai-artificial-intelligence-exploitation-feeding-machine)
