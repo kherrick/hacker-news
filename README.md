@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-07, 14:53:26](https://news.ycombinator.com/item?id=40898121) - [Talent Search versus Talent Development [pdf]](https://community.ams.org/journals/notices/201909/rnoti-p1471.pdf)
 * [2024-07-07, 13:22:12](https://news.ycombinator.com/item?id=40897518) - [Mongo but on Postgres and with strong consistency benefits](https://github.com/event-driven-io/Pongo)
 * [2024-07-07, 13:20:37](https://news.ycombinator.com/item?id=40897506) - [A reawakening of systems programming meetups](https://notes.eatonphil.com/2024-07-07-systems-meetups.html)
 * [2024-07-07, 12:37:55](https://news.ycombinator.com/item?id=40897205) - [YouTube embeds are bananas heavy and it’s fixable](https://frontendmasters.com/blog/youtube-embeds-are-bananas-heavy-and-its-fixable/)
@@ -8,7 +9,6 @@
 * [2024-07-07, 08:42:03](https://news.ycombinator.com/item?id=40896102) - [Malloc broke Serenity's JPGLoader, or: how to win the lottery (2021)](https://sin-ack.github.io/posts/jpg-loader-bork/)
 * [2024-07-07, 06:42:34](https://news.ycombinator.com/item?id=40895733) - [OpenRailRouting](https://github.com/geofabrik/OpenRailRouting)
 * [2024-07-07, 06:25:50](https://news.ycombinator.com/item?id=40895672) - [Show HN: BeaconDB – An Alternative to Mozilla Location Services](https://beacondb.net/)
-* [2024-07-07, 05:22:49](https://news.ycombinator.com/item?id=40895441) - [Why Italy Fell Out of Love with Cilantro](https://www.atlasobscura.com/articles/what-are-italian-herbs)
 * [2024-07-07, 04:00:41](https://news.ycombinator.com/item?id=40895167) - [\"Out of Band\" network management is not trivial](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OutOfBandManagementNotTrivial)
 * [2024-07-06, 23:09:05](https://news.ycombinator.com/item?id=40894027) - [The staggering science and art behind Wimbledon's legendary grass courts](https://abcnews.go.com/US/staggering-science-art-wimbledons-legendary-grass-courts/story?id=111433116)
 * [2024-07-06, 22:37:13](https://news.ycombinator.com/item?id=40893866) - [Show HN: A free minimalist daily habit tracker](https://rdht.vercel.app/)
