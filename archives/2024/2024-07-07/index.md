@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-07](index.md)
 
+* [2024-07-07, 16:28:34](https://news.ycombinator.com/item?id=40898654) - [Zuckerberg and Peter Thiel on Facebook, Millenials, and Predictions for 2030](https://www.techemails.com/p/mark-zuckerberg-peter-thiel-millennials)
+* [2024-07-07, 16:08:06](https://news.ycombinator.com/item?id=40898551) - [US intelligence community is embracing generative AI](https://www.nextgov.com/artificial-intelligence/2024/07/us-intelligence-community-embracing-generative-ai/397849/)
 * [2024-07-07, 14:53:26](https://news.ycombinator.com/item?id=40898121) - [Talent Search versus Talent Development [pdf]](https://community.ams.org/journals/notices/201909/rnoti-p1471.pdf)
 * [2024-07-07, 14:35:46](https://news.ycombinator.com/item?id=40898018) - [Latest Ghostscript vulnerability haunts experts as the next big breach enabler](https://www.theregister.com/2024/07/05/ghostscript_vulnerability_severity/)
 * [2024-07-07, 14:25:56](https://news.ycombinator.com/item?id=40897958) - [How Good Is ChatGPT at Coding, Really?](https://spectrum.ieee.org/chatgpt-for-coding)
