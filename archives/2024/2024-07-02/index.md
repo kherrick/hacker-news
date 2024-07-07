@@ -81,6 +81,7 @@
 * [2024-07-02, 14:43:44](https://news.ycombinator.com/item?id=40857197) - [CSS Surprise Manga Lines](https://alvaromontoro.com/blog/68054/css-manga-lines)
 * [2024-07-02, 14:42:40](https://news.ycombinator.com/item?id=40857188) - [Microsoft's WSL2 Transitions to Linux 6.6 LTS Kernel](https://www.phoronix.com/news/Microsoft-WSL2-Linux-6.6-Kernel)
 * [2024-07-02, 14:41:19](https://news.ycombinator.com/item?id=40857174) - [GraphRAG (from Microsoft) is now open-source!](https://www.microsoft.com/en-us/research/blog/graphrag-new-tool-for-complex-data-discovery-now-on-github/)
+* [2024-07-02, 14:38:26](https://news.ycombinator.com/item?id=40857142) - [GPUs can now use PCIe-attached memory or SSDs to boost VRAM capacity](https://www.tomshardware.com/pc-components/gpus/gpus-get-a-boost-from-pcie-attached-memory-that-boosts-capacity-and-delivers-double-digit-nanosecond-latency-ssds-can-also-be-used-to-expand-gpu-memory-capacity-via-panmnesias-cxl-ip)
 * [2024-07-02, 14:36:26](https://news.ycombinator.com/item?id=40857120) - [8cc.vim: Pure Vim script C Compiler](https://github.com/rhysd/8cc.vim)
 * [2024-07-02, 14:33:50](https://news.ycombinator.com/item?id=40857092) - [The history of Alt+number sequences](https://devblogs.microsoft.com/oldnewthing/20240702-00/?p=109951)
 * [2024-07-02, 14:31:51](https://news.ycombinator.com/item?id=40857074) - [Nine-year-old chess prodigy to make history after being picked for England](https://www.theguardian.com/sport/article/2024/jul/02/nine-year-old-chess-prodigy-england-youngest)
