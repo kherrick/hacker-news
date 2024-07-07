@@ -2,6 +2,7 @@
 
 * [2024-07-07, 14:25:56](https://news.ycombinator.com/item?id=40897958) - [How Good Is ChatGPT at Coding, Really?](https://spectrum.ieee.org/chatgpt-for-coding)
 * [2024-07-07, 14:10:47](https://news.ycombinator.com/item?id=40897872) - [Servant Leadership Theory](https://www.pon.harvard.edu/daily/leadership-skills-daily/servant-leadership-theory/)
+* [2024-07-07, 13:22:12](https://news.ycombinator.com/item?id=40897518) - [Mongo but on Postgres and with strong consistency benefits](https://github.com/event-driven-io/Pongo)
 * [2024-07-07, 13:20:37](https://news.ycombinator.com/item?id=40897506) - [A reawakening of systems programming meetups](https://notes.eatonphil.com/2024-07-07-systems-meetups.html)
 * [2024-07-07, 12:37:55](https://news.ycombinator.com/item?id=40897205) - [YouTube embeds are bananas heavy and it’s fixable](https://frontendmasters.com/blog/youtube-embeds-are-bananas-heavy-and-its-fixable/)
 * [2024-07-07, 11:37:25](https://news.ycombinator.com/item?id=40896873) - [Execute JavaScript in a WebAssembly QuickJS Sandbox](https://github.com/sebastianwessel/quickjs)
@@ -26,7 +27,6 @@
 * [2024-07-03, 16:39:34](https://news.ycombinator.com/item?id=40867652) - [How the 18th-Century French Media Stoked a Werewolf Panic](https://www.openculture.com/2024/06/how-the-18th-century-french-media-stoked-a-werewolf-panic.html)
 * [2024-07-03, 16:33:39](https://news.ycombinator.com/item?id=40867585) - [Artificial LIfe ENvironment (ALIEN) is an artificial life simulation tool](https://alien-project.gitbook.io/docs)
 * [2024-07-03, 08:58:53](https://news.ycombinator.com/item?id=40864091) - [Optimizing Large-Scale OpenStreetMap Data with SQLite](https://jtarchie.com/posts/2024-07-02-optimizing-large-scale-openstreetmap-data-with-sqlite)
-* [2024-07-03, 03:16:58](https://news.ycombinator.com/item?id=40862444) - [A blast from the past: Disassembling DOS (2020)](http://www.softwarelitigationconsulting.com/wp-content/uploads/2020/08/schulman_blast_from_the_past_disassembling_dos.html)
 * [2024-07-02, 19:49:08](https://news.ycombinator.com/item?id=40859865) - [A quick introduction to DirectX workgraphs](https://interplayoflight.wordpress.com/2024/06/29/a-quick-introduction-to-workgraphs/)
 * [2024-07-02, 16:15:39](https://news.ycombinator.com/item?id=40858060) - [RocketSim enhances and records Xcode Simulators](https://www.rocketsim.app/)
 * [2024-07-02, 13:50:11](https://news.ycombinator.com/item?id=40856659) - [A Practical Real-Time Model for Diffraction on Rough Surfaces](https://www.jcgt.org/published/0013/01/01/)

@@ -7,6 +7,7 @@
 * [2024-07-07, 14:25:56](https://news.ycombinator.com/item?id=40897958) - [How Good Is ChatGPT at Coding, Really?](https://spectrum.ieee.org/chatgpt-for-coding)
 * [2024-07-07, 14:10:47](https://news.ycombinator.com/item?id=40897872) - [Servant Leadership Theory](https://www.pon.harvard.edu/daily/leadership-skills-daily/servant-leadership-theory/)
 * [2024-07-07, 14:03:18](https://news.ycombinator.com/item?id=40897828) - [Wild new Wi-Fi routers turn your home network into a security radar](https://newatlas.com/around-the-home/gamgee-wifi-home-security-system/)
+* [2024-07-07, 13:22:12](https://news.ycombinator.com/item?id=40897518) - [Mongo but on Postgres and with strong consistency benefits](https://github.com/event-driven-io/Pongo)
 * [2024-07-07, 13:20:37](https://news.ycombinator.com/item?id=40897506) - [A reawakening of systems programming meetups](https://notes.eatonphil.com/2024-07-07-systems-meetups.html)
 * [2024-07-07, 13:16:50](https://news.ycombinator.com/item?id=40897471) - [The Metropolis Algorithm: Theory and Examples](https://www.fepress.org/metropolis/)
 * [2024-07-07, 12:48:45](https://news.ycombinator.com/item?id=40897265) - [German court allows patents for AI-generated inventions](https://www.surrey.ac.uk/news/german-court-allows-patents-ai-generated-inventions)
