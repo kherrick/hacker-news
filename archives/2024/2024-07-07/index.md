@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-07](index.md)
 
+* [2024-07-07, 18:19:49](https://news.ycombinator.com/item?id=40899393) - [Standard cells: Looking at individual gates in the Pentium processor](http://www.righto.com/2024/07/pentium-standard-cells.html)
 * [2024-07-07, 18:15:35](https://news.ycombinator.com/item?id=40899362) - [The Science of Sexual Arousal](https://www.apa.org/monitor/apr03/arousal)
 * [2024-07-07, 17:22:12](https://news.ycombinator.com/item?id=40898989) - [Using copper to convert CO₂ to methane](https://phys.org/news/2024-07-copper-methane-game-changer-mitigating.html)
 * [2024-07-07, 17:03:16](https://news.ycombinator.com/item?id=40898844) - [Synchronization Is Bad for Scale](https://wippler.dev/posts/synchronization-is-bad-for-scale)
