@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-07, 09:43:50](https://news.ycombinator.com/item?id=40896334) - [End of the librarian? Council cuts and new tech push profession to the brink](https://www.theguardian.com/books/article/2024/jul/07/librarians-council-cuts-and-new-tech-public-libraries)
-* [2024-07-07, 09:40:49](https://news.ycombinator.com/item?id=40896323) - [Another Climate Truth Bomb](https://shojiwax.com/2024/01/28/another-climate-truth-bomb/)
 * [2024-07-07, 09:06:09](https://news.ycombinator.com/item?id=40896212) - [\"AI\", students, and epistemic crisis](https://miniver.blogspot.com/2024/07/ai-students-and-epistemic-crisis.html)
 * [2024-07-07, 08:57:16](https://news.ycombinator.com/item?id=40896168) - [Microchip releases PIC64 radiation tolerant RISC-V CPUs for space applications](https://www.youtube.com/watch?v=oxUoMVSNPxw)
 * [2024-07-07, 08:44:18](https://news.ycombinator.com/item?id=40896110) - [Scientists re-emerge after a year in Mars simulation project](https://www.dw.com/en/scientists-re-emerge-after-a-year-in-mars-simulation-project/a-69585838)
@@ -20,6 +19,7 @@
 * [2024-07-06, 21:02:06](https://news.ycombinator.com/item?id=40893287) - [Charge Robotics (YC S21) is hiring full-stack devs to deploy solar robots](https://www.ycombinator.com/companies/charge-robotics/jobs/gbIFjoq-senior-software-engineer-full-stack)
 * [2024-07-06, 18:52:41](https://news.ycombinator.com/item?id=40892365) - [Against the burden of knowledge](https://www.theseedsofscience.pub/p/against-the-burden-of-knowledge)
 * [2024-07-06, 18:44:46](https://news.ycombinator.com/item?id=40892298) - [How to think in writing](https://www.henrikkarlsson.xyz/p/writing-to-think)
+* [2024-07-06, 18:35:31](https://news.ycombinator.com/item?id=40892235) - [Extraverted People Talk More Abstractly, Introverts Are More Concrete](https://www.bps.org.uk/research-digest/introverts-use-more-concrete-language-extraverts)
 * [2024-07-06, 16:59:17](https://news.ycombinator.com/item?id=40891643) - [Show HN: Bash Dungeon – An educational dungeon crawler in the shell](https://github.com/wolandark/bash-dungeon)
 * [2024-07-06, 16:27:48](https://news.ycombinator.com/item?id=40891446) - [Kivy – a cross platform Python UI framework](https://kivy.org)
 * [2024-07-05, 16:09:43](https://news.ycombinator.com/item?id=40883940) - [Starcraft (A History in Two Acts)](https://www.filfre.net/2024/07/starcraft-a-history-in-two-acts/)
