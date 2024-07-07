@@ -45,6 +45,7 @@
 * [2024-07-03, 16:48:34](https://news.ycombinator.com/item?id=40867746) - [A Practical Introduction to Constraint Programming Using CP-SAT and Python](https://pganalyze.com/blog/a-practical-introduction-to-constraint-programming-using-cp-sat)
 * [2024-07-03, 16:47:26](https://news.ycombinator.com/item?id=40867735) - [Multimodal Canvas: An experiment of Pictionary powered by Gemini 1.5 Flash](https://labs.google/multimodal-canvas)
 * [2024-07-03, 16:45:01](https://news.ycombinator.com/item?id=40867709) - [The Cheapest NAS](https://sigwait.org/~alex/blog/2024/07/01/the-cheapest-nas.html)
+* [2024-07-03, 16:39:34](https://news.ycombinator.com/item?id=40867652) - [How the 18th-Century French Media Stoked a Werewolf Panic](https://www.openculture.com/2024/06/how-the-18th-century-french-media-stoked-a-werewolf-panic.html)
 * [2024-07-03, 16:33:39](https://news.ycombinator.com/item?id=40867585) - [Artificial LIfe ENvironment (ALIEN) is an artificial life simulation tool](https://alien-project.gitbook.io/docs)
 * [2024-07-03, 16:32:01](https://news.ycombinator.com/item?id=40867565) - [The Math of Card Shuffling](https://fredhohman.com/card-shuffling/)
 * [2024-07-03, 16:26:03](https://news.ycombinator.com/item?id=40867508) - [Alphabet Winds Down Mineral, Licenses Ag Technology to Berry Producer Driscoll's](https://www.bloomberg.com/news/articles/2024-07-03/alphabet-shutters-mineral-licenses-ag-tech-to-berry-producer-driscoll-s)
