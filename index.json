@@ -11,26 +11,6 @@
   ],
   [
     [
-      "2024-07-07, 20:16:02",
-      "https://news.ycombinator.com/item?id=40900146"
-    ],
-    [
-      "From the Tensor to Stable Diffusion",
-      "https://github.com/jla524/fromthetensor"
-    ]
-  ],
-  [
-    [
-      "2024-07-07, 19:54:36",
-      "https://news.ycombinator.com/item?id=40900000"
-    ],
-    [
-      "Gen AI: Too much spend, too little benefit [pdf]",
-      "https://www.goldmansachs.com/intelligence/pages/gs-research/gen-ai-too-much-spend-too-little-benefit/report.pdf"
-    ]
-  ],
-  [
-    [
       "2024-07-07, 19:26:03",
       "https://news.ycombinator.com/item?id=40899814"
     ],
@@ -47,6 +27,16 @@
     [
       "The internet is already over (2022)",
       "https://samkriss.substack.com/p/the-internet-is-already-over"
+    ]
+  ],
+  [
+    [
+      "2024-07-07, 19:03:30",
+      "https://news.ycombinator.com/item?id=40899673"
+    ],
+    [
+      "Show HN: Imageprompt.io – AI-powered and human-curated artworks, logos, photos",
+      "https://imageprompt.io/"
     ]
   ],
   [
@@ -131,22 +121,22 @@
   ],
   [
     [
+      "2024-07-07, 17:22:12",
+      "https://news.ycombinator.com/item?id=40898989"
+    ],
+    [
+      "Using copper to convert CO₂ to methane",
+      "https://phys.org/news/2024-07-copper-methane-game-changer-mitigating.html"
+    ]
+  ],
+  [
+    [
       "2024-07-07, 17:03:16",
       "https://news.ycombinator.com/item?id=40898844"
     ],
     [
       "Synchronization Is Bad for Scale",
       "https://wippler.dev/posts/synchronization-is-bad-for-scale"
-    ]
-  ],
-  [
-    [
-      "2024-07-07, 16:56:26",
-      "https://news.ycombinator.com/item?id=40898793"
-    ],
-    [
-      "Falsehoods Programmers Believe About Phone Numbers",
-      "https://github.com/google/libphonenumber/blob/master/FALSEHOODS.md"
     ]
   ],
   [
@@ -231,6 +221,16 @@
   ],
   [
     [
+      "2024-07-06, 18:44:46",
+      "https://news.ycombinator.com/item?id=40892298"
+    ],
+    [
+      "How to think in writing",
+      "https://www.henrikkarlsson.xyz/p/writing-to-think"
+    ]
+  ],
+  [
+    [
       "2024-07-05, 15:13:10",
       "https://news.ycombinator.com/item?id=40883466"
     ],
@@ -247,6 +247,16 @@
     [
       "LivePortrait: A fast, controllable portrait animation model",
       "https://github.com/KwaiVGI/LivePortrait"
+    ]
+  ],
+  [
+    [
+      "2024-07-04, 17:09:00",
+      "https://news.ycombinator.com/item?id=40876453"
+    ],
+    [
+      "Advantages of incompetent management",
+      "https://yosefk.com/blog/advantages-of-incompetent-management.html"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Python with Braces",
       "https://github.com/mathialo/bython"
-    ]
-  ],
-  [
-    [
-      "2024-07-03, 04:27:28",
-      "https://news.ycombinator.com/item?id=40862693"
-    ],
-    [
-      "Signature Programs",
-      "http://www.iwriteiam.nl/SigProg.html"
     ]
   ]
 ]
