@@ -7,6 +7,7 @@
 * [2024-07-07, 12:48:45](https://news.ycombinator.com/item?id=40897265) - [German court allows patents for AI-generated inventions](https://www.surrey.ac.uk/news/german-court-allows-patents-ai-generated-inventions)
 * [2024-07-07, 12:37:55](https://news.ycombinator.com/item?id=40897205) - [YouTube Embeds Are Bananas Heavy and It's Fixable](https://frontendmasters.com/blog/youtube-embeds-are-bananas-heavy-and-its-fixable/)
 * [2024-07-07, 12:33:28](https://news.ycombinator.com/item?id=40897180) - [What happened to the artificial-intelligence revolution?](https://www.economist.com/finance-and-economics/2024/07/02/what-happened-to-the-artificial-intelligence-revolution)
+* [2024-07-07, 12:28:39](https://news.ycombinator.com/item?id=40897148) - [Target to stop accepting personal checks as form of payment](https://www.nbcchicago.com/news/local/target-to-stop-accepting-personal-checks-as-form-of-payment/3481773/)
 * [2024-07-07, 11:37:25](https://news.ycombinator.com/item?id=40896873) - [Execute JavaScript in a WebAssembly QuickJS Sandbox](https://github.com/sebastianwessel/quickjs)
 * [2024-07-07, 11:13:34](https://news.ycombinator.com/item?id=40896752) - [Troubleshooting my offline Zpool](https://www.ogselfhosting.com/index.php/2024/03/03/troubleshooting-my-offline-zpool/)
 * [2024-07-07, 11:07:26](https://news.ycombinator.com/item?id=40896708) - [Germany set to overhaul subsidy regime for renewable energy](https://www.reuters.com/business/energy/germany-set-overhaul-subsidy-regime-renewable-energy-document-2024-07-05/)
