@@ -40,6 +40,7 @@
 * [2024-07-02, 20:02:05](https://news.ycombinator.com/item?id=40859950) - [Weather forecast accuracy across US cities based on Weather Service gridded data](https://www.washingtonpost.com/climate-environment/interactive/2024/how-accurate-is-the-weather-forecast/)
 * [2024-07-02, 20:00:01](https://news.ycombinator.com/item?id=40859937) - [Sonar is destroying my job and it's driving me to despair](https://community.sonarsource.com/t/sonar-is-destroying-my-job-and-its-driving-me-to-despair/92438)
 * [2024-07-02, 19:50:13](https://news.ycombinator.com/item?id=40859876) - [An epigenetic editor to silence genes](https://www.science.org/doi/10.1126/science.adq3334)
+* [2024-07-02, 19:49:08](https://news.ycombinator.com/item?id=40859865) - [A quick introduction to DirectX workgraphs](https://interplayoflight.wordpress.com/2024/06/29/a-quick-introduction-to-workgraphs/)
 * [2024-07-02, 19:47:00](https://news.ycombinator.com/item?id=40859854) - [Overexposed](https://www.historynewsnetwork.org/article/overexposed)
 * [2024-07-02, 19:39:24](https://news.ycombinator.com/item?id=40859813) - [How to prevent stagnation while building products alone](https://www.idiotlamborghini.com/articles/how_to_prevent_stagnation_while_building_products_alone)
 * [2024-07-02, 18:52:32](https://news.ycombinator.com/item?id=40859429) - [Nuclear spectroscopy breakthrough could rewrite fundamental constants of nature](https://newsroom.ucla.edu/releases/nuclear-spectroscopy-breakthrough-could-rewrite-fundamental-constants-of-nature)
