@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-07, 12:37:55](https://news.ycombinator.com/item?id=40897205) - [YouTube Embeds Are Bananas Heavy and It's Fixable](https://frontendmasters.com/blog/youtube-embeds-are-bananas-heavy-and-its-fixable/)
+* [2024-07-07, 11:37:25](https://news.ycombinator.com/item?id=40896873) - [Execute JavaScript in a WebAssembly QuickJS Sandbox](https://github.com/sebastianwessel/quickjs)
 * [2024-07-07, 11:07:26](https://news.ycombinator.com/item?id=40896708) - [Germany set to overhaul subsidy regime for renewable energy](https://www.reuters.com/business/energy/germany-set-overhaul-subsidy-regime-renewable-energy-document-2024-07-05/)
-* [2024-07-07, 10:46:32](https://news.ycombinator.com/item?id=40896594) - [People are feeling stuck in their jobs](https://www.wsj.com/lifestyle/careers/job-market-slowing-employee-growth-change-wanted-c422f67d)
 * [2024-07-07, 10:31:40](https://news.ycombinator.com/item?id=40896510) - [Portugal brings back tax breaks for foreigners in bid to woo digital nomads](https://fortune.com/europe/2024/07/04/portugal-backtracks-hostility-digital-nomads-tax-breaks-skilled-foreigners-return/)
 * [2024-07-07, 09:56:30](https://news.ycombinator.com/item?id=40896387) - [Adventures in mapmaking: the search for grayscale tiles](https://newsletter.pnote.eu/p/mapmaking-search-for-grayscale-tiles)
 * [2024-07-07, 09:43:50](https://news.ycombinator.com/item?id=40896334) - [End of the librarian? Council cuts and new tech push profession to the brink](https://www.theguardian.com/books/article/2024/jul/07/librarians-council-cuts-and-new-tech-public-libraries)
@@ -27,7 +28,6 @@
 * [2024-07-04, 12:08:16](https://news.ycombinator.com/item?id=40874230) - [High-altitude cave used by Tibetan Buddhists yields a Denisovan fossil](https://arstechnica.com/science/2024/07/high-altitude-cave-used-by-tibetan-buddhists-yields-a-denisovan-fossil/)
 * [2024-07-03, 16:33:39](https://news.ycombinator.com/item?id=40867585) - [Artificial LIfe ENvironment (ALIEN) is an artificial life simulation tool](https://alien-project.gitbook.io/docs)
 * [2024-07-03, 08:58:53](https://news.ycombinator.com/item?id=40864091) - [Optimizing Large-Scale OpenStreetMap Data with SQLite](https://jtarchie.com/posts/2024-07-02-optimizing-large-scale-openstreetmap-data-with-sqlite)
-* [2024-07-03, 03:16:58](https://news.ycombinator.com/item?id=40862444) - [A blast from the past: Disassembling DOS (2020)](http://www.softwarelitigationconsulting.com/wp-content/uploads/2020/08/schulman_blast_from_the_past_disassembling_dos.html)
 * [2024-07-02, 19:49:08](https://news.ycombinator.com/item?id=40859865) - [A quick introduction to DirectX workgraphs](https://interplayoflight.wordpress.com/2024/06/29/a-quick-introduction-to-workgraphs/)
 * [2024-07-02, 13:50:11](https://news.ycombinator.com/item?id=40856659) - [A Practical Real-Time Model for Diffraction on Rough Surfaces](https://www.jcgt.org/published/0013/01/01/)
 
