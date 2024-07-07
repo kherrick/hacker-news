@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-07](index.md)
 
+* [2024-07-07, 10:31:40](https://news.ycombinator.com/item?id=40896510) - [Portugal brings back tax breaks for foreigners in bid to woo digital nomads](https://fortune.com/europe/2024/07/04/portugal-backtracks-hostility-digital-nomads-tax-breaks-skilled-foreigners-return/)
+* [2024-07-07, 09:56:30](https://news.ycombinator.com/item?id=40896387) - [Adventures in mapmaking: the search for grayscale tiles](https://newsletter.pnote.eu/p/mapmaking-search-for-grayscale-tiles)
 * [2024-07-07, 09:43:50](https://news.ycombinator.com/item?id=40896334) - [End of the librarian? Council cuts and new tech push profession to the brink](https://www.theguardian.com/books/article/2024/jul/07/librarians-council-cuts-and-new-tech-public-libraries)
 * [2024-07-07, 09:40:49](https://news.ycombinator.com/item?id=40896323) - [Another Climate Truth Bomb](https://shojiwax.com/2024/01/28/another-climate-truth-bomb/)
 * [2024-07-07, 09:06:09](https://news.ycombinator.com/item?id=40896212) - [\"AI\", students, and epistemic crisis](https://miniver.blogspot.com/2024/07/ai-students-and-epistemic-crisis.html)

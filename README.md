@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-07, 10:31:40](https://news.ycombinator.com/item?id=40896510) - [Portugal brings back tax breaks for foreigners in bid to woo digital nomads](https://fortune.com/europe/2024/07/04/portugal-backtracks-hostility-digital-nomads-tax-breaks-skilled-foreigners-return/)
+* [2024-07-07, 09:56:30](https://news.ycombinator.com/item?id=40896387) - [Adventures in mapmaking: the search for grayscale tiles](https://newsletter.pnote.eu/p/mapmaking-search-for-grayscale-tiles)
 * [2024-07-07, 09:43:50](https://news.ycombinator.com/item?id=40896334) - [End of the librarian? Council cuts and new tech push profession to the brink](https://www.theguardian.com/books/article/2024/jul/07/librarians-council-cuts-and-new-tech-public-libraries)
 * [2024-07-07, 09:06:09](https://news.ycombinator.com/item?id=40896212) - [\"AI\", students, and epistemic crisis](https://miniver.blogspot.com/2024/07/ai-students-and-epistemic-crisis.html)
 * [2024-07-07, 08:57:16](https://news.ycombinator.com/item?id=40896168) - [Microchip releases PIC64 radiation tolerant RISC-V CPUs for space applications](https://www.youtube.com/watch?v=oxUoMVSNPxw)
@@ -21,7 +23,6 @@
 * [2024-07-06, 18:44:46](https://news.ycombinator.com/item?id=40892298) - [How to think in writing](https://www.henrikkarlsson.xyz/p/writing-to-think)
 * [2024-07-06, 18:35:31](https://news.ycombinator.com/item?id=40892235) - [Extraverted People Talk More Abstractly, Introverts Are More Concrete](https://www.bps.org.uk/research-digest/introverts-use-more-concrete-language-extraverts)
 * [2024-07-06, 16:59:17](https://news.ycombinator.com/item?id=40891643) - [Show HN: Bash Dungeon – An educational dungeon crawler in the shell](https://github.com/wolandark/bash-dungeon)
-* [2024-07-06, 16:27:48](https://news.ycombinator.com/item?id=40891446) - [Kivy – a cross platform Python UI framework](https://kivy.org)
 * [2024-07-05, 16:09:43](https://news.ycombinator.com/item?id=40883940) - [Starcraft (A History in Two Acts)](https://www.filfre.net/2024/07/starcraft-a-history-in-two-acts/)
 * [2024-07-04, 17:09:00](https://news.ycombinator.com/item?id=40876453) - [Advantages of incompetent management](https://yosefk.com/blog/advantages-of-incompetent-management.html)
 * [2024-07-04, 12:08:16](https://news.ycombinator.com/item?id=40874230) - [High-altitude cave used by Tibetan Buddhists yields a Denisovan fossil](https://arstechnica.com/science/2024/07/high-altitude-cave-used-by-tibetan-buddhists-yields-a-denisovan-fossil/)
@@ -29,7 +30,6 @@
 * [2024-07-03, 08:58:53](https://news.ycombinator.com/item?id=40864091) - [Optimizing Large-Scale OpenStreetMap Data with SQLite](https://jtarchie.com/posts/2024-07-02-optimizing-large-scale-openstreetmap-data-with-sqlite)
 * [2024-07-03, 03:16:58](https://news.ycombinator.com/item?id=40862444) - [A blast from the past: Disassembling DOS (2020)](http://www.softwarelitigationconsulting.com/wp-content/uploads/2020/08/schulman_blast_from_the_past_disassembling_dos.html)
 * [2024-07-02, 19:49:08](https://news.ycombinator.com/item?id=40859865) - [A quick introduction to DirectX workgraphs](https://interplayoflight.wordpress.com/2024/06/29/a-quick-introduction-to-workgraphs/)
-* [2024-07-02, 14:38:26](https://news.ycombinator.com/item?id=40857142) - [GPUs can now use PCIe-attached memory or SSDs to boost VRAM capacity](https://www.tomshardware.com/pc-components/gpus/gpus-get-a-boost-from-pcie-attached-memory-that-boosts-capacity-and-delivers-double-digit-nanosecond-latency-ssds-can-also-be-used-to-expand-gpu-memory-capacity-via-panmnesias-cxl-ip)
 
 ## [Archives](archives/index.md)
 
