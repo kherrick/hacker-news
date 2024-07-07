@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-07](index.md)
 
+* [2024-07-07, 18:32:48](https://news.ycombinator.com/item?id=40899483) - [What the internet looked like in 1994](https://www.fastcompany.com/91140068/how-the-internet-went-mainstream-in-1994)
 * [2024-07-07, 18:21:11](https://news.ycombinator.com/item?id=40899411) - [A brief history of liquid computers (2019)](https://royalsocietypublishing.org/doi/10.1098/rstb.2018.0372)
 * [2024-07-07, 18:19:49](https://news.ycombinator.com/item?id=40899393) - [Standard cells: Looking at individual gates in the Pentium processor](http://www.righto.com/2024/07/pentium-standard-cells.html)
 * [2024-07-07, 18:15:35](https://news.ycombinator.com/item?id=40899362) - [The Science of Sexual Arousal](https://www.apa.org/monitor/apr03/arousal)
