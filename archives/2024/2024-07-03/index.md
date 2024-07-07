@@ -68,6 +68,7 @@
 * [2024-07-03, 14:04:44](https://news.ycombinator.com/item?id=40866066) - [Average ransomware payment demands soars as criminals grow more confident](https://www.techradar.com/pro/security/average-ransomware-payment-demands-soars-as-criminals-grow-more-confident)
 * [2024-07-03, 13:10:31](https://news.ycombinator.com/item?id=40865627) - [Block AI bots, scrapers and crawlers with a single click](https://blog.cloudflare.com/declaring-your-aindependence-block-ai-bots-scrapers-and-crawlers-with-a-single-click)
 * [2024-07-03, 13:01:29](https://news.ycombinator.com/item?id=40865559) - [Hypr-dynamic-cursors: a plugin to make your hyprland cursor rotate](https://github.com/VirtCode/hypr-dynamic-cursors)
+* [2024-07-03, 12:36:08](https://news.ycombinator.com/item?id=40865358) - [Powerful laser miniaturized from tabletop to microchip](https://www.nature.com/articles/d41586-024-01646-9)
 * [2024-07-03, 12:22:11](https://news.ycombinator.com/item?id=40865252) - [Jaw-Dropping SNES Mod Fixes One of the Console's Biggest Problems](https://www.timeextension.com/news/2024/07/jaw-dropping-snes-mod-fixes-one-of-the-consoles-biggest-problems)
 * [2024-07-03, 12:09:38](https://news.ycombinator.com/item?id=40865170) - [Your Company's Problem is Hiding in Plain Sight - High Work-In-Progress (WIP)](https://mdalmijn.com/p/your-companys-problem-is-hiding-in)
 * [2024-07-03, 11:54:41](https://news.ycombinator.com/item?id=40865073) - [The Fake Oilman Who Conned People Out of Millions](https://www.newyorker.com/news/letter-from-the-south/the-fake-oilman)
