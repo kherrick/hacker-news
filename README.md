@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-07, 21:01:44](https://news.ycombinator.com/item?id=40900417) - [Continue (YC S23) Is Hiring a Full-Stack Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-full-stack-engineer)
-* [2024-07-07, 19:17:56](https://news.ycombinator.com/item?id=40899761) - [The internet is already over (2022)](https://samkriss.substack.com/p/the-internet-is-already-over)
 * [2024-07-07, 18:35:46](https://news.ycombinator.com/item?id=40899507) - [Sharedrop: Easy P2P file transfer powered by WebRTC – inspired by Apple AirDrop](https://github.com/szimek/sharedrop)
 * [2024-07-07, 18:32:57](https://news.ycombinator.com/item?id=40899487) - [Modern-day spying: sometimes old technology is more secure](https://www.economist.com/technology-quarterly/2024/07/01/sometimes-the-old-ways-of-espionage-are-the-best)
 * [2024-07-07, 18:21:11](https://news.ycombinator.com/item?id=40899411) - [A brief history of liquid computers (2019)](https://royalsocietypublishing.org/doi/10.1098/rstb.2018.0372)
@@ -30,6 +29,7 @@
 * [2024-07-03, 16:39:34](https://news.ycombinator.com/item?id=40867652) - [The 18th-century French media stoked a werewolf panic](https://www.openculture.com/2024/06/how-the-18th-century-french-media-stoked-a-werewolf-panic.html)
 * [2024-07-03, 16:33:39](https://news.ycombinator.com/item?id=40867585) - [Artificial LIfe ENvironment (ALIEN) is an artificial life simulation tool](https://alien-project.gitbook.io/docs)
 * [2024-07-03, 14:05:30](https://news.ycombinator.com/item?id=40866069) - [Python with Braces](https://github.com/mathialo/bython)
+* [2024-07-03, 13:13:31](https://news.ycombinator.com/item?id=40865654) - [Graph-Based Ceramics](https://www.alexreichert.com/blog/graph-based-ceramics)
 
 ## [Archives](archives/index.md)
 
