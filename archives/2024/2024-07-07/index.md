@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-07](index.md)
 
+* [2024-07-07, 14:25:56](https://news.ycombinator.com/item?id=40897958) - [How Good Is ChatGPT at Coding, Really?](https://spectrum.ieee.org/chatgpt-for-coding)
 * [2024-07-07, 14:10:47](https://news.ycombinator.com/item?id=40897872) - [Servant Leadership Theory](https://www.pon.harvard.edu/daily/leadership-skills-daily/servant-leadership-theory/)
 * [2024-07-07, 14:03:18](https://news.ycombinator.com/item?id=40897828) - [Wild new Wi-Fi routers turn your home network into a security radar](https://newatlas.com/around-the-home/gamgee-wifi-home-security-system/)
 * [2024-07-07, 13:20:37](https://news.ycombinator.com/item?id=40897506) - [A reawakening of systems programming meetups](https://notes.eatonphil.com/2024-07-07-systems-meetups.html)
