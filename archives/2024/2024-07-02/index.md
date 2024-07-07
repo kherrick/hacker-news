@@ -116,6 +116,7 @@
 * [2024-07-02, 09:59:17](https://news.ycombinator.com/item?id=40855053) - [WhoDB: Lightweight next-gen database explorer](https://github.com/clidey/whodb)
 * [2024-07-02, 09:54:19](https://news.ycombinator.com/item?id=40855028) - [Trying Kolmogorov-Arnold Networks in Practice](https://cprimozic.net/blog/trying-out-kans/)
 * [2024-07-02, 09:45:54](https://news.ycombinator.com/item?id=40854976) - [Tech went from free love to pay-per-click](https://www.theregister.com/2024/07/02/foss_ai_blockchain/)
+* [2024-07-02, 09:23:43](https://news.ycombinator.com/item?id=40854872) - [Shortest distance between two points is not always a straight line](https://metaquestions.me/2014/08/01/shortest-distance-between-two-points-is-not-always-a-straight-line/)
 * [2024-07-02, 09:14:36](https://news.ycombinator.com/item?id=40854836) - [Welcome to Ladybird, a truly independent web browser](https://ladybird.org/index.html)
 * [2024-07-02, 08:48:04](https://news.ycombinator.com/item?id=40854733) - [Show HN: I Made an Open Source Platform for Structuring Any Unstructured Data](https://github.com/adithya-s-k/omniparse)
 * [2024-07-02, 08:45:22](https://news.ycombinator.com/item?id=40854721) - [Microsoft Updated Phi-3](https://twitter.com/reach_vb/status/1808056108319179012)

@@ -17,7 +17,6 @@
 * [2024-07-06, 16:27:48](https://news.ycombinator.com/item?id=40891446) - [Kivy – a cross platform Python UI framework](https://kivy.org)
 * [2024-07-06, 16:01:25](https://news.ycombinator.com/item?id=40891252) - [First anode-free sodium solid-state battery](https://pme.uchicago.edu/news/uchicago-prof-shirley-mengs-laboratory-energy-storage-and-conversion-creates-worlds-first)
 * [2024-07-06, 15:07:30](https://news.ycombinator.com/item?id=40890847) - [Teaching general problem-solving skills is not a substitute for teaching math [pdf] (2010)](https://www.ams.org/notices/201010/rtx101001303p.pdf)
-* [2024-07-06, 12:29:18](https://news.ycombinator.com/item?id=40890035) - [Properly testing concurrent data structures](https://matklad.github.io/2024/07/05/properly-testing-concurrent-data-structures.html)
 * [2024-07-06, 04:00:39](https://news.ycombinator.com/item?id=40888085) - [Ford Dabney might have been the first jazz star](https://www.honest-broker.com/p/he-might-have-been-the-first-jazz)
 * [2024-07-05, 21:55:09](https://news.ycombinator.com/item?id=40886385) - [Gardeners can grow a genetically modified purple tomato made with snapdragon DNA](https://www.npr.org/sections/health-shots/2024/02/06/1228868005/purple-tomato-gmo-gardeners)
 * [2024-07-05, 16:09:43](https://news.ycombinator.com/item?id=40883940) - [Starcraft (A History in Two Acts)](https://www.filfre.net/2024/07/starcraft-a-history-in-two-acts/)
@@ -30,6 +29,7 @@
 * [2024-07-03, 02:29:56](https://news.ycombinator.com/item?id=40862249) - [Writing GUI applications on the Raspberry Pi without a desktop environment (2019)](https://avikdas.com/2019/01/23/writing-gui-applications-on-raspberry-pi-without-x.html)
 * [2024-07-02, 19:47:00](https://news.ycombinator.com/item?id=40859854) - [Overexposed](https://www.historynewsnetwork.org/article/overexposed)
 * [2024-07-02, 19:39:24](https://news.ycombinator.com/item?id=40859813) - [How to prevent stagnation while building products alone](https://www.idiotlamborghini.com/articles/how_to_prevent_stagnation_while_building_products_alone)
+* [2024-07-02, 09:23:43](https://news.ycombinator.com/item?id=40854872) - [Shortest distance between two points is not always a straight line](https://metaquestions.me/2014/08/01/shortest-distance-between-two-points-is-not-always-a-straight-line/)
 
 ## [Archives](archives/index.md)
 
