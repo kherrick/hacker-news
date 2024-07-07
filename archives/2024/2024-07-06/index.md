@@ -31,6 +31,7 @@
 * [2024-07-06, 18:47:10](https://news.ycombinator.com/item?id=40892312) - [Tokens are a big reason today's generative AI falls short](https://techcrunch.com/2024/07/06/tokens-are-a-big-reason-todays-generative-ai-falls-short/)
 * [2024-07-06, 18:44:46](https://news.ycombinator.com/item?id=40892298) - [How to Think in Writing](https://www.henrikkarlsson.xyz/p/writing-to-think)
 * [2024-07-06, 18:38:43](https://news.ycombinator.com/item?id=40892259) - [Why privacy is important, and having \"nothing to hide\" is irrelevant (2016)](https://robindoherty.com/2016/01/06/nothing-to-hide.html)
+* [2024-07-06, 18:35:31](https://news.ycombinator.com/item?id=40892235) - [Extraverted People Talk More Abstractly, Introverts Are More Concrete](https://www.bps.org.uk/research-digest/introverts-use-more-concrete-language-extraverts)
 * [2024-07-06, 18:26:58](https://news.ycombinator.com/item?id=40892183) - [Why haven't biologists cured cancer?](https://www.writingruxandrabio.com/p/why-havent-biologists-cured-cancer)
 * [2024-07-06, 18:20:42](https://news.ycombinator.com/item?id=40892138) - [Creative Chair](https://creativechair.org/)
 * [2024-07-06, 18:09:28](https://news.ycombinator.com/item?id=40892063) - [The Supreme Court Doesn't Want You to Have Clean Water and Safe Air](https://www.wired.com/story/supreme-court-clean-water-safe-air-epa-chevron-koch-brothers/)
