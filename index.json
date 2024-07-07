@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-07, 10:31:40",
+      "https://news.ycombinator.com/item?id=40896510"
+    ],
+    [
+      "Portugal brings back tax breaks for foreigners in bid to woo digital nomads",
+      "https://fortune.com/europe/2024/07/04/portugal-backtracks-hostility-digital-nomads-tax-breaks-skilled-foreigners-return/"
+    ]
+  ],
+  [
+    [
+      "2024-07-07, 09:56:30",
+      "https://news.ycombinator.com/item?id=40896387"
+    ],
+    [
+      "Adventures in mapmaking: the search for grayscale tiles",
+      "https://newsletter.pnote.eu/p/mapmaking-search-for-grayscale-tiles"
+    ]
+  ],
+  [
+    [
       "2024-07-07, 09:43:50",
       "https://news.ycombinator.com/item?id=40896334"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2024-07-06, 16:27:48",
-      "https://news.ycombinator.com/item?id=40891446"
-    ],
-    [
-      "Kivy – a cross platform Python UI framework",
-      "https://kivy.org"
-    ]
-  ],
-  [
-    [
       "2024-07-05, 16:09:43",
       "https://news.ycombinator.com/item?id=40883940"
     ],
@@ -287,16 +297,6 @@
     [
       "A quick introduction to DirectX workgraphs",
       "https://interplayoflight.wordpress.com/2024/06/29/a-quick-introduction-to-workgraphs/"
-    ]
-  ],
-  [
-    [
-      "2024-07-02, 14:38:26",
-      "https://news.ycombinator.com/item?id=40857142"
-    ],
-    [
-      "GPUs can now use PCIe-attached memory or SSDs to boost VRAM capacity",
-      "https://www.tomshardware.com/pc-components/gpus/gpus-get-a-boost-from-pcie-attached-memory-that-boosts-capacity-and-delivers-double-digit-nanosecond-latency-ssds-can-also-be-used-to-expand-gpu-memory-capacity-via-panmnesias-cxl-ip"
     ]
   ]
 ]
