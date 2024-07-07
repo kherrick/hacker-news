@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-07-07, 12:48:45",
-      "https://news.ycombinator.com/item?id=40897265"
-    ],
-    [
-      "German court allows patents for AI-generated inventions",
-      "https://www.surrey.ac.uk/news/german-court-allows-patents-ai-generated-inventions"
-    ]
-  ],
-  [
-    [
       "2024-07-07, 12:37:55",
       "https://news.ycombinator.com/item?id=40897205"
     ],
@@ -21,12 +11,12 @@
   ],
   [
     [
-      "2024-07-07, 12:33:28",
-      "https://news.ycombinator.com/item?id=40897180"
+      "2024-07-07, 12:28:39",
+      "https://news.ycombinator.com/item?id=40897148"
     ],
     [
-      "What happened to the artificial-intelligence revolution?",
-      "https://www.economist.com/finance-and-economics/2024/07/02/what-happened-to-the-artificial-intelligence-revolution"
+      "Target to stop accepting personal checks as form of payment",
+      "https://www.nbcchicago.com/news/local/target-to-stop-accepting-personal-checks-as-form-of-payment/3481773/"
     ]
   ],
   [
@@ -37,16 +27,6 @@
     [
       "Execute JavaScript in a WebAssembly QuickJS Sandbox",
       "https://github.com/sebastianwessel/quickjs"
-    ]
-  ],
-  [
-    [
-      "2024-07-07, 11:13:34",
-      "https://news.ycombinator.com/item?id=40896752"
-    ],
-    [
-      "Troubleshooting my offline Zpool",
-      "https://www.ogselfhosting.com/index.php/2024/03/03/troubleshooting-my-offline-zpool/"
     ]
   ],
   [
@@ -97,26 +77,6 @@
     [
       "Malloc broke Serenity's JPGLoader, or: how to win the lottery (2021)",
       "https://sin-ack.github.io/posts/jpg-loader-bork/"
-    ]
-  ],
-  [
-    [
-      "2024-07-07, 08:25:28",
-      "https://news.ycombinator.com/item?id=40896041"
-    ],
-    [
-      "The Basics of How Engines Work (2021) [video]",
-      "https://www.youtube.com/watch?v=gqK3dCpwzxE"
-    ]
-  ],
-  [
-    [
-      "2024-07-07, 08:07:55",
-      "https://news.ycombinator.com/item?id=40895983"
-    ],
-    [
-      "Modern Emacs TypeScript Web Config",
-      "https://www.ovistoica.com/blog/2024-7-05-modern-emacs-typescript-web-tsx-config"
     ]
   ],
   [
@@ -241,12 +201,42 @@
   ],
   [
     [
+      "2024-07-05, 16:09:43",
+      "https://news.ycombinator.com/item?id=40883940"
+    ],
+    [
+      "Starcraft (A History in Two Acts)",
+      "https://www.filfre.net/2024/07/starcraft-a-history-in-two-acts/"
+    ]
+  ],
+  [
+    [
       "2024-07-04, 17:09:00",
       "https://news.ycombinator.com/item?id=40876453"
     ],
     [
       "Advantages of incompetent management",
       "https://yosefk.com/blog/advantages-of-incompetent-management.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-04, 12:08:16",
+      "https://news.ycombinator.com/item?id=40874230"
+    ],
+    [
+      "High-altitude cave used by Tibetan Buddhists yields a Denisovan fossil",
+      "https://arstechnica.com/science/2024/07/high-altitude-cave-used-by-tibetan-buddhists-yields-a-denisovan-fossil/"
+    ]
+  ],
+  [
+    [
+      "2024-07-04, 09:09:13",
+      "https://news.ycombinator.com/item?id=40873471"
+    ],
+    [
+      "The magic of small engineering teams",
+      "https://newsletter.posthog.com/p/the-magic-of-small-engineering-teams"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "Optimizing Large-Scale OpenStreetMap Data with SQLite",
       "https://jtarchie.com/posts/2024-07-02-optimizing-large-scale-openstreetmap-data-with-sqlite"
+    ]
+  ],
+  [
+    [
+      "2024-07-03, 03:16:58",
+      "https://news.ycombinator.com/item?id=40862444"
+    ],
+    [
+      "A blast from the past: Disassembling DOS (2020)",
+      "http://www.softwarelitigationconsulting.com/wp-content/uploads/2020/08/schulman_blast_from_the_past_disassembling_dos.html"
     ]
   ],
   [
