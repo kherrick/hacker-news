@@ -4,7 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-07-07](index.md)
 
+* [2024-07-07, 08:44:18](https://news.ycombinator.com/item?id=40896110) - [Scientists re-emerge after a year in Mars simulation project](https://www.dw.com/en/scientists-re-emerge-after-a-year-in-mars-simulation-project/a-69585838)
+* [2024-07-07, 08:42:03](https://news.ycombinator.com/item?id=40896102) - [Malloc broke Serenity's JPGLoader, or: how to win the lottery](https://sin-ack.github.io/posts/jpg-loader-bork/)
 * [2024-07-07, 08:25:28](https://news.ycombinator.com/item?id=40896041) - [Engines 101: The Basics of How Engines Work by Toyota [video]](https://www.youtube.com/watch?v=gqK3dCpwzxE)
+* [2024-07-07, 07:54:36](https://news.ycombinator.com/item?id=40895935) - [From the Transistor to the Web Browser, a rough outline for a 12 week course](https://github.com/geohot/fromthetransistor)
+* [2024-07-07, 07:46:22](https://news.ycombinator.com/item?id=40895907) - [Crystal Fragment turns everything you see into 8-bit Pixel Art](https://www.yankodesign.com/2024/07/04/this-crystal-fragment-turns-everything-you-see-into-8-bit-pixel-art-and-its-fascinating/)
+* [2024-07-07, 06:56:18](https://news.ycombinator.com/item?id=40895776) - [Is the 10k-Year-Old Yonaguni Monument a Man-Made Marvel or Nature's Art?](https://www.ancientoriginsunleashed.com/p/is-the-10000-year-old-yonaguni-monument)
 * [2024-07-07, 06:42:34](https://news.ycombinator.com/item?id=40895733) - [OpenRailRouting](https://github.com/geofabrik/OpenRailRouting)
 * [2024-07-07, 06:36:38](https://news.ycombinator.com/item?id=40895715) - [Reddit's Robots.txt Changed](https://old.reddit.com/robots.txt)
 * [2024-07-07, 06:25:50](https://news.ycombinator.com/item?id=40895672) - [Show HN: BeaconDB – An Alternative to Mozilla Location Services](https://beacondb.net/)
