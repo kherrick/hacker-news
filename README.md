@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-08, 20:38:24](https://news.ycombinator.com/item?id=40909418) - [The Lancet: Counting the Dead in Gaza](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)01169-3/fulltext)
+* [2024-07-08, 20:08:03](https://news.ycombinator.com/item?id=40909076) - [DB Browser for SQLite (Windows, macOS, and Most Versions of Linux)](https://sqlitebrowser.org/)
 * [2024-07-08, 19:52:31](https://news.ycombinator.com/item?id=40908878) - [Anna's Archive Faces Millions in Damages and a Permanent Injunction](https://torrentfreak.com/annas-archive-faces-millions-in-damages-and-a-permanent-injunction-240708/)
 * [2024-07-08, 19:50:18](https://news.ycombinator.com/item?id=40908855) - [Integrating Email Aliases with Bitwarden](https://bitwarden.com/blog/how-to-use-the-bitwarden-forwarded-email-alias-generator/)
 * [2024-07-08, 19:19:01](https://news.ycombinator.com/item?id=40908521) - [Z-Library Admins \"Escape House Arrest\" After Judge Approves U.S. Extradition](https://torrentfreak.com/z-library-admins-escape-house-arrest-after-judge-approves-u-s-extradition-240708/)
@@ -20,7 +22,6 @@
 * [2024-07-08, 14:21:05](https://news.ycombinator.com/item?id=40905686) - [Show HN: A fast OSS voice assistant](https://swift-ai.vercel.app/)
 * [2024-07-08, 13:34:58](https://news.ycombinator.com/item?id=40905295) - [Show HN: I am building an open-source incident management platform](https://github.com/incidentalhq/incidental)
 * [2024-07-08, 12:36:10](https://news.ycombinator.com/item?id=40904862) - [Show HN: Open-sourced Webflow for your own app](https://github.com/onlook-dev/studio)
-* [2024-07-08, 12:09:21](https://news.ycombinator.com/item?id=40904654) - [Birds in Space II: Quails in the Cosmos (2011)](https://finchwench.wordpress.com/2011/09/06/cosmoquails/)
 * [2024-07-08, 12:00:34](https://news.ycombinator.com/item?id=40904587) - [UpCodes (YC S17) is hiring remote SWEs, PMs to help make buildings cheap](https://up.codes/careers?utm_source=HN)
 * [2024-07-08, 09:15:47](https://news.ycombinator.com/item?id=40903870) - [Xpra: Persistent Remote Applications for X11](https://github.com/Xpra-org/xpra)
 * [2024-07-08, 05:04:58](https://news.ycombinator.com/item?id=40902740) - [Do Skis Get Blunt?](https://brooker.co.za/misc-blog/2024/01/23/skis.html)
@@ -28,7 +29,6 @@
 * [2024-07-06, 01:24:07](https://news.ycombinator.com/item?id=40887521) - [Record 4 Camera Angles at Once Using Only iPhones and iPads](https://www.pcmag.com/news/hands-on-apple-final-cut-camera-final-cut-pro-2-multicam)
 * [2024-07-06, 01:22:25](https://news.ycombinator.com/item?id=40887516) - [Modifying the OG Xbox to have 256M of RAM [video]](https://www.youtube.com/watch?v=1idSEhUT4PM)
 * [2024-07-05, 12:16:12](https://news.ycombinator.com/item?id=40882038) - [How I turned seemingly 'failed' experiments into a successful PhD](https://www.science.org/content/article/how-i-turned-seemingly-failed-experiments-into-a-successful-phd)
-* [2024-07-04, 10:10:45](https://news.ycombinator.com/item?id=40873726) - [Do grayscale images take less space?](https://lu.sagebl.eu/notes/can-i-save-space-with-grayscale-jpegs/)
 * [2024-07-03, 22:46:28](https://news.ycombinator.com/item?id=40870756) - [Ernest Hemingway's brother established a floating republic in the Caribbean](https://www.smithsonianmag.com/history/why-ernest-hemingways-younger-brother-established-a-floating-republic-in-the-caribbean-180984635/)
 
 ## [Archives](archives/index.md)
