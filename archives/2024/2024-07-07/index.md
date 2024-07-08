@@ -39,6 +39,7 @@
 * [2024-07-07, 15:26:07](https://news.ycombinator.com/item?id=40898313) - [Show HN: I made an open source Mailchimp RSS-to-Email alternative](https://github.com/ElliotKillick/rss2newsletter)
 * [2024-07-07, 14:53:26](https://news.ycombinator.com/item?id=40898121) - [Talent Search versus Talent Development [pdf]](https://community.ams.org/journals/notices/201909/rnoti-p1471.pdf)
 * [2024-07-07, 14:35:46](https://news.ycombinator.com/item?id=40898018) - [Latest Ghostscript vulnerability haunts experts as the next big breach enabler](https://www.theregister.com/2024/07/05/ghostscript_vulnerability_severity/)
+* [2024-07-07, 14:26:29](https://news.ycombinator.com/item?id=40897962) - [Show HN: Hi.Events – Open-Source Event Management and Ticketing Platform](https://github.com/HiEventsDev/Hi.Events)
 * [2024-07-07, 14:25:56](https://news.ycombinator.com/item?id=40897958) - [How Good Is ChatGPT at Coding, Really?](https://spectrum.ieee.org/chatgpt-for-coding)
 * [2024-07-07, 14:10:47](https://news.ycombinator.com/item?id=40897872) - [Servant Leadership Theory](https://www.pon.harvard.edu/daily/leadership-skills-daily/servant-leadership-theory/)
 * [2024-07-07, 14:03:18](https://news.ycombinator.com/item?id=40897828) - [Wild new Wi-Fi routers turn your home network into a security radar](https://newatlas.com/around-the-home/gamgee-wifi-home-security-system/)
