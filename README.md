@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-08, 14:23:17](https://news.ycombinator.com/item?id=40905706) - [For the first time in more than 150 years, Alberta's electricity is coal free](https://www.theglobeandmail.com/canada/alberta/article-for-the-first-time-in-more-than-150-years-albertas-electricity-is-coal/)
 * [2024-07-08, 12:36:10](https://news.ycombinator.com/item?id=40904862) - [Show HN: Open-sourced Webflow for your own app](https://github.com/onlook-dev/studio)
 * [2024-07-08, 12:09:21](https://news.ycombinator.com/item?id=40904654) - [Birds in Space II: Quails in the Cosmos (2011)](https://finchwench.wordpress.com/2011/09/06/cosmoquails/)
 * [2024-07-08, 12:00:34](https://news.ycombinator.com/item?id=40904587) - [UpCodes (YC S17) is hiring remote SWEs, PMs to help make buildings cheap](https://up.codes/careers?utm_source=HN)
@@ -11,7 +12,6 @@
 * [2024-07-08, 01:52:54](https://news.ycombinator.com/item?id=40902012) - [Show HN: Simulating 20M Particles in JavaScript](https://dgerrells.com/blog/how-fast-is-javascript-simulating-20-000-000-particles)
 * [2024-07-08, 00:27:58](https://news.ycombinator.com/item?id=40901623) - [A Mini Monitor for a Pi](https://noamzeise.com/2024/07/05/mini-monitor.html)
 * [2024-07-07, 19:58:22](https://news.ycombinator.com/item?id=40900029) - [Unit is a general purpose visual programming system](https://unit.software/)
-* [2024-07-07, 18:32:57](https://news.ycombinator.com/item?id=40899487) - [Modern-day spying: sometimes old technology is more secure](https://www.economist.com/technology-quarterly/2024/07/01/sometimes-the-old-ways-of-espionage-are-the-best)
 * [2024-07-07, 18:19:49](https://news.ycombinator.com/item?id=40899393) - [Standard cells: Looking at individual gates in the Pentium processor](http://www.righto.com/2024/07/pentium-standard-cells.html)
 * [2024-07-07, 18:16:51](https://news.ycombinator.com/item?id=40899371) - [VDEv2: Virtual Distributed Ethernet](https://github.com/virtualsquare/vde-2)
 * [2024-07-07, 18:09:25](https://news.ycombinator.com/item?id=40899309) - [Reasoning in Large Language Models: A Geometric Perspective](https://arxiv.org/abs/2407.02678)

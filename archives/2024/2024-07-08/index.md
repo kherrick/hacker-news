@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-08](index.md)
 
+* [2024-07-08, 14:23:17](https://news.ycombinator.com/item?id=40905706) - [For the first time in more than 150 years, Alberta's electricity is coal free](https://www.theglobeandmail.com/canada/alberta/article-for-the-first-time-in-more-than-150-years-albertas-electricity-is-coal/)
 * [2024-07-08, 12:36:10](https://news.ycombinator.com/item?id=40904862) - [Show HN: Open-sourced Webflow for your own app](https://github.com/onlook-dev/studio)
 * [2024-07-08, 12:09:21](https://news.ycombinator.com/item?id=40904654) - [Birds in Space II: Quails in the Cosmos](https://finchwench.wordpress.com/2011/09/06/cosmoquails/)
 * [2024-07-08, 12:00:34](https://news.ycombinator.com/item?id=40904587) - [UpCodes (YC S17) is hiring remote SWEs, PMs to help make buildings cheap](https://up.codes/careers?utm_source=HN)
