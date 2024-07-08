@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-08, 07:59:40](https://news.ycombinator.com/item?id=40903465) - [Data Structures Cheat Sheet](https://memgraph.com/blog/data-structures-cheat-sheet)
 * [2024-07-08, 06:25:49](https://news.ycombinator.com/item?id=40903024) - [QuickJS, the Next Generation: a mighty JavaScript engine](https://github.com/quickjs-ng/quickjs)
 * [2024-07-08, 05:26:09](https://news.ycombinator.com/item?id=40902826) - [Zed Editor automatically downloads binaries and NPM packages without consent](https://old.reddit.com/r/programming/comments/1dxmroj/zed_editor_automatically_downloads_binaries_and/)
 * [2024-07-08, 05:06:34](https://news.ycombinator.com/item?id=40902749) - [Boeing to plead guilty to criminal fraud charge stemming from 737 MAX crashes](https://www.cnbc.com/2024/07/08/boeing-to-plead-guilty-to-criminal-fraud-charge-stemming-from-737-max-crashes.html)
@@ -9,7 +10,6 @@
 * [2024-07-08, 00:27:58](https://news.ycombinator.com/item?id=40901623) - [A Mini Monitor for a Pi](https://noamzeise.com/2024/07/05/mini-monitor.html)
 * [2024-07-07, 21:01:44](https://news.ycombinator.com/item?id=40900417) - [Continue (YC S23) Is Hiring a Full-Stack Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-full-stack-engineer)
 * [2024-07-07, 19:58:22](https://news.ycombinator.com/item?id=40900029) - [Unit is a general purpose visual programming system](https://unit.software/)
-* [2024-07-07, 19:17:56](https://news.ycombinator.com/item?id=40899761) - [The internet is already over (2022)](https://samkriss.substack.com/p/the-internet-is-already-over)
 * [2024-07-07, 18:19:49](https://news.ycombinator.com/item?id=40899393) - [Standard cells: Looking at individual gates in the Pentium processor](http://www.righto.com/2024/07/pentium-standard-cells.html)
 * [2024-07-07, 18:16:51](https://news.ycombinator.com/item?id=40899371) - [VDEv2: Virtual Distributed Ethernet](https://github.com/virtualsquare/vde-2)
 * [2024-07-07, 18:09:25](https://news.ycombinator.com/item?id=40899309) - [Reasoning in Large Language Models: A Geometric Perspective](https://arxiv.org/abs/2407.02678)
@@ -21,7 +21,7 @@
 * [2024-07-07, 13:20:37](https://news.ycombinator.com/item?id=40897506) - [A reawakening of systems programming meetups](https://notes.eatonphil.com/2024-07-07-systems-meetups.html)
 * [2024-07-07, 11:37:25](https://news.ycombinator.com/item?id=40896873) - [Show HN: Execute JavaScript in a WebAssembly QuickJS sandbox](https://github.com/sebastianwessel/quickjs)
 * [2024-07-07, 06:25:50](https://news.ycombinator.com/item?id=40895672) - [Show HN: BeaconDB – An Alternative to Mozilla Location Services](https://beacondb.net/)
-* [2024-07-06, 19:31:49](https://news.ycombinator.com/item?id=40892636) - [Numeronymize](https://leancrew.com/all-this/2024/07/numeronymize/)
+* [2024-07-06, 14:23:16](https://news.ycombinator.com/item?id=40890633) - [Crystal Fragment Turns Everything You See into 8-Bit Pixel Art](https://www.yankodesign.com/2024/07/04/this-crystal-fragment-turns-everything-you-see-into-8-bit-pixel-art-and-its-fascinating/)
 * [2024-07-05, 18:49:24](https://news.ycombinator.com/item?id=40885082) - [Show HN: Nitrogen Blue Launching from the Forest](https://nitrogenblue.com)
 * [2024-07-05, 07:38:09](https://news.ycombinator.com/item?id=40880551) - [Tiny robots with a big impact: microrobots for single-cell handling](https://www.advancedsciencenews.com/tiny-robots-with-a-big-impact-scientists-develop-microrobots-for-single-cell-handling/)
 * [2024-07-05, 06:41:50](https://news.ycombinator.com/item?id=40880302) - [Detect Migrating Birds with a Plastic Dish and a Cheap Microphone](https://spectrum.ieee.org/detect-migrating-birds-with-sound)

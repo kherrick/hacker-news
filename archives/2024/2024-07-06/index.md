@@ -56,6 +56,7 @@
 * [2024-07-06, 15:50:33](https://news.ycombinator.com/item?id=40891162) - [A Dramatic Reading: I Will Fucking Piledrive You If You Mention AI Again](https://mccue.dev/pages/7-5-24-a-reading-i-will-fucking-piledrive-you-if-you-mention-ai-again)
 * [2024-07-06, 15:07:30](https://news.ycombinator.com/item?id=40890847) - [Teaching General Problem-Solving Skills Is Not a Substitute for Teaching Math [pdf]](https://www.ams.org/notices/201010/rtx101001303p.pdf)
 * [2024-07-06, 14:31:26](https://news.ycombinator.com/item?id=40890668) - [The A.I. Bubble is Bursting with Ed Zitron [video]](https://www.youtube.com/watch?v=T8ByoAt5gCA)
+* [2024-07-06, 14:23:16](https://news.ycombinator.com/item?id=40890633) - [Crystal Fragment Turns Everything You See into 8-Bit Pixel Art](https://www.yankodesign.com/2024/07/04/this-crystal-fragment-turns-everything-you-see-into-8-bit-pixel-art-and-its-fascinating/)
 * [2024-07-06, 14:02:15](https://news.ycombinator.com/item?id=40890534) - [Anxious Generation – How Safetyism and Social Media Are Damaging the Kids](https://matija.eu/posts/anxious-generation-safetyism-social-media/)
 * [2024-07-06, 13:56:37](https://news.ycombinator.com/item?id=40890498) - [Fata Morgana](https://en.wikipedia.org/wiki/Fata_Morgana_(mirage))
 * [2024-07-06, 13:48:04](https://news.ycombinator.com/item?id=40890449) - [Do not factory reset your Pixel until at least 15 minutes after a system update](https://support.google.com/pixelphone/thread/283220215/issues-after-factory-resetting-pixel-6-devices?hl=en)
