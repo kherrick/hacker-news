@@ -53,6 +53,7 @@
 * [2024-07-03, 16:25:22](https://news.ycombinator.com/item?id=40867502) - [The impact of Orwell's \"Homage to Catalonia\" on Noam Chomsky's path to anarchism](https://thereader.mitpress.mit.edu/how-george-orwell-paved-noam-chomskys-path-to-anarchism/)
 * [2024-07-03, 16:03:10](https://news.ycombinator.com/item?id=40867273) - [The legacy of Liverpool's forgotten synchrocyclotron](https://physicsworld.com/a/the-legacy-of-liverpools-forgotten-synchrocyclotron/)
 * [2024-07-03, 15:45:27](https://news.ycombinator.com/item?id=40867100) - [Kyutai unveils today the first voice-enabled AI openly accessible to all [pdf]](https://kyutai.org/cp_moshi.pdf)
+* [2024-07-03, 15:45:01](https://news.ycombinator.com/item?id=40867097) - [Don't Use Booleans](https://www.luu.io/posts/dont-use-booleans)
 * [2024-07-03, 15:40:13](https://news.ycombinator.com/item?id=40867044) - [Semi-secret US Air Force long-endurance spy drone breaks cover](https://newatlas.com/military/ultra-semi-secret-us-air-force-spy-drone/)
 * [2024-07-03, 15:25:01](https://news.ycombinator.com/item?id=40866883) - [A mathematical thought experiment for accepting the continuum hypothesis](https://jdh.hamkins.org/how-ch-could-have-been-fundamental/)
 * [2024-07-03, 15:22:56](https://news.ycombinator.com/item?id=40866868) - [Building AI-powered SWE tools: Essential technical considerations for founders](https://www.innovationendeavors.com/insights/building-ai-powered-software-engineering-tools-essential-technical-considerations-for-founders)
