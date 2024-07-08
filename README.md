@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-08, 17:05:08](https://news.ycombinator.com/item?id=40907155) - [The Right Kind of Stubborn](https://paulgraham.com/persistence.html)
 * [2024-07-08, 15:45:40](https://news.ycombinator.com/item?id=40906401) - [1JPM: A Maven/Gradle alternative in a single Java file](https://github.com/Osiris-Team/1JPM)
 * [2024-07-08, 15:14:06](https://news.ycombinator.com/item?id=40906148) - [Reverse Engineering Ticketmaster's Rotating Barcodes](https://conduition.io/coding/ticketmaster/)
 * [2024-07-08, 15:09:43](https://news.ycombinator.com/item?id=40906112) - [Understanding Software Dynamics [book review]](https://www.usenix.org/publications/loginonline/understanding-software-dynamics)
@@ -13,7 +14,6 @@
 * [2024-07-08, 12:09:21](https://news.ycombinator.com/item?id=40904654) - [Birds in Space II: Quails in the Cosmos (2011)](https://finchwench.wordpress.com/2011/09/06/cosmoquails/)
 * [2024-07-08, 12:00:34](https://news.ycombinator.com/item?id=40904587) - [UpCodes (YC S17) is hiring remote SWEs, PMs to help make buildings cheap](https://up.codes/careers?utm_source=HN)
 * [2024-07-08, 09:15:47](https://news.ycombinator.com/item?id=40903870) - [Xpra: Persistent Remote Applications for X11](https://github.com/Xpra-org/xpra)
-* [2024-07-08, 08:42:03](https://news.ycombinator.com/item?id=40903690) - [Ode to a world-saving idea: attribution error and cognitive empathy (2021)](https://nonzero.substack.com/p/ode-to-a-world-saving-idea-f4b)
 * [2024-07-08, 05:06:34](https://news.ycombinator.com/item?id=40902749) - [Boeing to plead guilty to criminal fraud charge stemming from 737 MAX crashes](https://www.cnbc.com/2024/07/08/boeing-to-plead-guilty-to-criminal-fraud-charge-stemming-from-737-max-crashes.html)
 * [2024-07-08, 05:04:58](https://news.ycombinator.com/item?id=40902740) - [Do Skis Get Blunt?](https://brooker.co.za/misc-blog/2024/01/23/skis.html)
 * [2024-07-08, 01:52:54](https://news.ycombinator.com/item?id=40902012) - [Show HN: Simulating 20M Particles in JavaScript](https://dgerrells.com/blog/how-fast-is-javascript-simulating-20-000-000-particles)
