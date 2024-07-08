@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-08](index.md)
 
+* [2024-07-08, 12:09:21](https://news.ycombinator.com/item?id=40904654) - [Birds in Space II: Quails in the Cosmos](https://finchwench.wordpress.com/2011/09/06/cosmoquails/)
 * [2024-07-08, 12:00:34](https://news.ycombinator.com/item?id=40904587) - [UpCodes (YC S17) is hiring remote SWEs, PMs to help make buildings cheap](https://up.codes/careers?utm_source=HN)
 * [2024-07-08, 11:51:00](https://news.ycombinator.com/item?id=40904533) - [Google claims new AI training tech is 13x faster, 10x more power efficient](https://www.tomshardware.com/tech-industry/artificial-intelligence/google-claims-new-ai-training-tech-is-13-times-faster-and-10-times-more-power-efficient-deepminds-new-jest-optimizes-training-data-for-massive-gains)
 * [2024-07-08, 11:26:27](https://news.ycombinator.com/item?id=40904416) - [Db2 is a story worth telling, even if IBM won't](https://www.theregister.com/2024/07/04/db2_a_story_worth_telling/)
