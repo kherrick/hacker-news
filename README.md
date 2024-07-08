@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-08, 19:52:31](https://news.ycombinator.com/item?id=40908878) - [Anna's Archive Faces Millions in Damages and a Permanent Injunction](https://torrentfreak.com/annas-archive-faces-millions-in-damages-and-a-permanent-injunction-240708/)
 * [2024-07-08, 19:50:18](https://news.ycombinator.com/item?id=40908855) - [Integrating Email Aliases with Bitwarden](https://bitwarden.com/blog/how-to-use-the-bitwarden-forwarded-email-alias-generator/)
 * [2024-07-08, 19:19:01](https://news.ycombinator.com/item?id=40908521) - [Z-Library Admins \"Escape House Arrest\" After Judge Approves U.S. Extradition](https://torrentfreak.com/z-library-admins-escape-house-arrest-after-judge-approves-u-s-extradition-240708/)
-* [2024-07-08, 19:14:53](https://news.ycombinator.com/item?id=40908470) - [Global trade woes mount as shipping costs rise](https://www.dw.com/en/global-trade-woes-mount-as-shipping-costs-rise/a-69586965)
 * [2024-07-08, 19:12:22](https://news.ycombinator.com/item?id=40908444) - [Dear Roku, you ruined my TV](https://www.theverge.com/24188282/roku-tv-update-motion-smoothing-turn-off)
-* [2024-07-08, 19:01:25](https://news.ycombinator.com/item?id=40908310) - [Google Maps tests new pop-up ads that give you an unnecessary detour](https://www.androidauthority.com/google-maps-pop-up-ad-3458170/)
+* [2024-07-08, 18:58:56](https://news.ycombinator.com/item?id=40908273) - [C++ patterns for low-latency applications including high-frequency trading](https://arxiv.org/abs/2309.04259)
 * [2024-07-08, 18:51:10](https://news.ycombinator.com/item?id=40908187) - [Affinity's Adobe-rivaling creative suite is now free for six months](https://www.theverge.com/2024/7/8/24194281/affinity-creative-suite-six-month-free-trial-deal-announcement)
 * [2024-07-08, 18:50:29](https://news.ycombinator.com/item?id=40908178) - [Show HN: WAL Implementation in Golang](https://github.com/stym06/rebuf)
 * [2024-07-08, 18:27:16](https://news.ycombinator.com/item?id=40907933) - [No more boot loader: Please use the kernel instead](https://pretalx.com/devconf-cz-2024/talk/W3AVCT/)
