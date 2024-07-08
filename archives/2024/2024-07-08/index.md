@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-07-08](index.md)
 
+* [2024-07-08, 20:56:58](https://news.ycombinator.com/item?id=40909607) - [Twenty Five Years of Warehouse-Scale Computing](https://www.computer.org/csdl/magazine/mi/5555/01/10551740/1XyKBf0Y6uA)
 * [2024-07-08, 20:52:01](https://news.ycombinator.com/item?id=40909554) - [How we tamed Node.js event loop lag: a deepdive](https://trigger.dev/blog/event-loop-lag)
 * [2024-07-08, 20:38:24](https://news.ycombinator.com/item?id=40909418) - [The Lancet: Counting the Dead in Gaza](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)01169-3/fulltext)
 * [2024-07-08, 20:35:48](https://news.ycombinator.com/item?id=40909390) - [Negative Temperature](https://en.wikipedia.org/wiki/Negative_temperature)
+* [2024-07-08, 20:29:08](https://news.ycombinator.com/item?id=40909327) - [Making My Own Wedding Rings](https://geoff.greer.fm/2024/07/07/making-my-own-wedding-rings/)
 * [2024-07-08, 20:08:03](https://news.ycombinator.com/item?id=40909076) - [DB Browser for SQLite (Windows, macOS, and Most Versions of Linux)](https://sqlitebrowser.org/)
 * [2024-07-08, 19:52:31](https://news.ycombinator.com/item?id=40908878) - [Anna's Archive Faces Millions in Damages and a Permanent Injunction](https://torrentfreak.com/annas-archive-faces-millions-in-damages-and-a-permanent-injunction-240708/)
 * [2024-07-08, 19:50:18](https://news.ycombinator.com/item?id=40908855) - [Integrating Email Aliases with Bitwarden](https://bitwarden.com/blog/how-to-use-the-bitwarden-forwarded-email-alias-generator/)
