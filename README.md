@@ -21,7 +21,6 @@
 * [2024-07-07, 06:25:50](https://news.ycombinator.com/item?id=40895672) - [Show HN: BeaconDB – An Alternative to Mozilla Location Services](https://beacondb.net/)
 * [2024-07-06, 19:31:49](https://news.ycombinator.com/item?id=40892636) - [Numeronymize](https://leancrew.com/all-this/2024/07/numeronymize/)
 * [2024-07-06, 14:23:16](https://news.ycombinator.com/item?id=40890633) - [Crystal Fragment Turns Everything You See into 8-Bit Pixel Art](https://www.yankodesign.com/2024/07/04/this-crystal-fragment-turns-everything-you-see-into-8-bit-pixel-art-and-its-fascinating/)
-* [2024-07-05, 18:49:24](https://news.ycombinator.com/item?id=40885082) - [Show HN: Nitrogen Blue Launching from the Forest](https://nitrogenblue.com)
 * [2024-07-05, 18:25:29](https://news.ycombinator.com/item?id=40884917) - [Refined Input, Degraded Output: The Counterintuitive World of Compiler Behavior](https://dl.acm.org/doi/10.1145/3656404)
 * [2024-07-05, 07:38:09](https://news.ycombinator.com/item?id=40880551) - [Tiny robots with a big impact: microrobots for single-cell handling](https://www.advancedsciencenews.com/tiny-robots-with-a-big-impact-scientists-develop-microrobots-for-single-cell-handling/)
 * [2024-07-05, 06:41:50](https://news.ycombinator.com/item?id=40880302) - [Detect Migrating Birds with a Plastic Dish and a Cheap Microphone](https://spectrum.ieee.org/detect-migrating-birds-with-sound)
@@ -30,6 +29,7 @@
 * [2024-07-03, 16:33:39](https://news.ycombinator.com/item?id=40867585) - [Artificial LIfe ENvironment (ALIEN) is an artificial life simulation tool](https://alien-project.gitbook.io/docs)
 * [2024-07-03, 15:25:01](https://news.ycombinator.com/item?id=40866883) - [How the continuum hypothesis could have been a fundamental axiom](https://jdh.hamkins.org/how-ch-could-have-been-fundamental/)
 * [2024-07-03, 14:05:30](https://news.ycombinator.com/item?id=40866069) - [Python with Braces](https://github.com/mathialo/bython)
+* [2024-07-03, 08:57:23](https://news.ycombinator.com/item?id=40864085) - [Leonhard Euler's Letters to a German Princess](https://mathshistory.st-andrews.ac.uk/Extras/Euler_letters/)
 
 ## [Archives](archives/index.md)
 

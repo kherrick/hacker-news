@@ -84,6 +84,7 @@
 * [2024-07-03, 09:46:16](https://news.ycombinator.com/item?id=40864364) - [Ryzen 7 Mini-PC makes a power-efficient VM host](https://michael.stapelberg.ch/posts/2024-07-02-ryzen-7-mini-pc-low-power-proxmox-hypervisor/)
 * [2024-07-03, 09:26:14](https://news.ycombinator.com/item?id=40864249) - [Man-Computer Symbiosis by J. C. R. Licklider (1960)](https://groups.csail.mit.edu/medg/people/psz/Licklider.html)
 * [2024-07-03, 08:58:53](https://news.ycombinator.com/item?id=40864091) - [Optimizing Large-Scale OpenStreetMap Data with SQLite](https://jtarchie.com/posts/2024-07-02-optimizing-large-scale-openstreetmap-data-with-sqlite)
+* [2024-07-03, 08:57:23](https://news.ycombinator.com/item?id=40864085) - [Leonhard Euler's Letters to a German Princess](https://mathshistory.st-andrews.ac.uk/Extras/Euler_letters/)
 * [2024-07-03, 07:01:05](https://news.ycombinator.com/item?id=40863470) - [Converge (YC S23) Is Hiring a Founding Account Executive](https://www.ycombinator.com/companies/converge/jobs/vpxyPWD-founding-account-executive)
 * [2024-07-03, 06:18:57](https://news.ycombinator.com/item?id=40863248) - [A Bugatti car, a first lady and the fake stories aimed at Americans](https://www.bbc.co.uk/news/articles/c72ver6172do)
 * [2024-07-03, 06:14:50](https://news.ycombinator.com/item?id=40863229) - [Google's greenhouse gas emissions jump 48% in five years](https://arstechnica.com/gadgets/2024/07/googles-greenhouse-gas-emissions-jump-48-in-five-years/)
