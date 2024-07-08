@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2024-07-07, 16:25:31",
+      "https://news.ycombinator.com/item?id=40898640"
+    ],
+    [
+      "TUI for Managing WiFi on Linux",
+      "https://github.com/pythops/impala"
+    ]
+  ],
+  [
+    [
       "2024-07-07, 15:26:07",
       "https://news.ycombinator.com/item?id=40898313"
     ],
@@ -221,16 +231,6 @@
   ],
   [
     [
-      "2024-07-06, 13:23:13",
-      "https://news.ycombinator.com/item?id=40890315"
-    ],
-    [
-      "Amazon is bricking $2,350 Astro robots 10 months after release",
-      "https://arstechnica.com/gadgets/2024/07/amazon-is-bricking-2350-astro-robots-10-months-after-release/"
-    ]
-  ],
-  [
-    [
       "2024-07-05, 07:38:09",
       "https://news.ycombinator.com/item?id=40880551"
     ],
@@ -271,6 +271,16 @@
   ],
   [
     [
+      "2024-07-03, 22:41:40",
+      "https://news.ycombinator.com/item?id=40870712"
+    ],
+    [
+      "High Availability, Zone-Aware Load Balancing",
+      "https://buoyant.io/blog/topology-aware-routing-introducing-high-availability-zone-aware-load-balancing"
+    ]
+  ],
+  [
+    [
       "2024-07-03, 16:33:39",
       "https://news.ycombinator.com/item?id=40867585"
     ],
@@ -287,16 +297,6 @@
     [
       "Python with Braces",
       "https://github.com/mathialo/bython"
-    ]
-  ],
-  [
-    [
-      "2024-07-02, 16:15:39",
-      "https://news.ycombinator.com/item?id=40858060"
-    ],
-    [
-      "RocketSim enhances and records Xcode Simulators",
-      "https://www.rocketsim.app/"
     ]
   ]
 ]
