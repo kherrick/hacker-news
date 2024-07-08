@@ -12,6 +12,7 @@
 * [2024-07-08, 19:19:01](https://news.ycombinator.com/item?id=40908521) - [Z-Library admins \"escape house arrest\" after judge approves U.S. extradition](https://torrentfreak.com/z-library-admins-escape-house-arrest-after-judge-approves-u-s-extradition-240708/)
 * [2024-07-08, 18:58:56](https://news.ycombinator.com/item?id=40908273) - [C++ patterns for low-latency applications including high-frequency trading](https://arxiv.org/abs/2309.04259)
 * [2024-07-08, 18:51:10](https://news.ycombinator.com/item?id=40908187) - [Affinity's Adobe-rivaling creative suite is now free for six months](https://www.theverge.com/2024/7/8/24194281/affinity-creative-suite-six-month-free-trial-deal-announcement)
+* [2024-07-08, 18:50:29](https://news.ycombinator.com/item?id=40908178) - [Show HN: WAL Implementation in Golang](https://github.com/stym06/rebuf)
 * [2024-07-08, 18:27:16](https://news.ycombinator.com/item?id=40907933) - [No more boot loader: Please use the kernel instead](https://pretalx.com/devconf-cz-2024/talk/W3AVCT/)
 * [2024-07-08, 17:52:23](https://news.ycombinator.com/item?id=40907581) - [Entering text in the terminal is complicated](https://jvns.ca/blog/2024/07/08/readline/)
 * [2024-07-08, 17:46:37](https://news.ycombinator.com/item?id=40907528) - [Show HN: I coded my own JSON translation tool to easily localize my side project](https://www.quicklang.app/en)
@@ -29,7 +30,6 @@
 * [2024-07-06, 01:22:25](https://news.ycombinator.com/item?id=40887516) - [Modifying the OG Xbox to have 256M of RAM [video]](https://www.youtube.com/watch?v=1idSEhUT4PM)
 * [2024-07-05, 12:16:12](https://news.ycombinator.com/item?id=40882038) - [How I turned seemingly 'failed' experiments into a successful PhD](https://www.science.org/content/article/how-i-turned-seemingly-failed-experiments-into-a-successful-phd)
 * [2024-07-03, 22:46:28](https://news.ycombinator.com/item?id=40870756) - [Ernest Hemingway's brother established a floating republic in the Caribbean](https://www.smithsonianmag.com/history/why-ernest-hemingways-younger-brother-established-a-floating-republic-in-the-caribbean-180984635/)
-* [2024-07-03, 15:45:01](https://news.ycombinator.com/item?id=40867097) - [Don't Use Booleans](https://www.luu.io/posts/dont-use-booleans)
 
 ## [Archives](archives/index.md)
 
