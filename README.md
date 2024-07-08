@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-08, 19:01:25](https://news.ycombinator.com/item?id=40908310) - [Google Maps tests new pop-up ads that give you an unnecessary detour](https://www.androidauthority.com/google-maps-pop-up-ad-3458170/)
 * [2024-07-08, 18:51:10](https://news.ycombinator.com/item?id=40908187) - [Affinity's Adobe-rivaling creative suite is now free for six months](https://www.theverge.com/2024/7/8/24194281/affinity-creative-suite-six-month-free-trial-deal-announcement)
 * [2024-07-08, 18:50:29](https://news.ycombinator.com/item?id=40908178) - [Show HN: WAL Implementation in Golang](https://github.com/stym06/rebuf)
 * [2024-07-08, 18:27:16](https://news.ycombinator.com/item?id=40907933) - [No more boot loader: Please use the kernel instead](https://pretalx.com/devconf-cz-2024/talk/W3AVCT/)
@@ -9,7 +10,6 @@
 * [2024-07-08, 15:45:40](https://news.ycombinator.com/item?id=40906401) - [1JPM: A Maven/Gradle alternative in a single Java file](https://github.com/Osiris-Team/1JPM)
 * [2024-07-08, 15:14:06](https://news.ycombinator.com/item?id=40906148) - [Reverse Engineering Ticketmaster's Rotating Barcodes](https://conduition.io/coding/ticketmaster/)
 * [2024-07-08, 15:09:43](https://news.ycombinator.com/item?id=40906112) - [Understanding Software Dynamics [book review]](https://www.usenix.org/publications/loginonline/understanding-software-dynamics)
-* [2024-07-08, 14:44:20](https://news.ycombinator.com/item?id=40905891) - [Python Has Too Many Package Managers](https://dublog.net/blog/so-many-python-package-managers/)
 * [2024-07-08, 14:39:35](https://news.ycombinator.com/item?id=40905849) - [Geomys, a blueprint for a sustainable open-source maintenance firm](https://words.filippo.io/dispatches/geomys/)
 * [2024-07-08, 14:24:24](https://news.ycombinator.com/item?id=40905719) - [Bashbro – Make Any Comp a Web-Based File Server](https://github.com/victrixsoft/bashbro)
 * [2024-07-08, 14:21:05](https://news.ycombinator.com/item?id=40905686) - [Show HN: A fast OSS voice assistant](https://swift-ai.vercel.app/)
