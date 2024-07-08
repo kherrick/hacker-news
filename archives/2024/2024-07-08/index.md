@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-08](index.md)
 
+* [2024-07-08, 09:46:00](https://news.ycombinator.com/item?id=40904006) - [LibreOfficeKit API in action: new API to access LibreOffice functionalities](https://dev.blog.documentfoundation.org/2024/06/27/libreofficekit-api-in-action/)
+* [2024-07-08, 09:15:47](https://news.ycombinator.com/item?id=40903870) - [Xpra: Persistent Remote Applications for X11](https://github.com/Xpra-org/xpra)
 * [2024-07-08, 07:59:40](https://news.ycombinator.com/item?id=40903465) - [Data Structures Cheat Sheet](https://memgraph.com/blog/data-structures-cheat-sheet)
 * [2024-07-08, 07:59:02](https://news.ycombinator.com/item?id=40903461) - [Sipeed/NanoKVM: NanoKVM: Affordable, Multifunctional, Nano RISC-V IP-KVM](https://github.com/sipeed/NanoKVM)
 * [2024-07-08, 06:25:49](https://news.ycombinator.com/item?id=40903024) - [QuickJS, the Next Generation: a mighty JavaScript engine](https://github.com/quickjs-ng/quickjs)
