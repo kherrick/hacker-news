@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-08, 19:50:18](https://news.ycombinator.com/item?id=40908855) - [Integrating Email Aliases with Bitwarden](https://bitwarden.com/blog/how-to-use-the-bitwarden-forwarded-email-alias-generator/)
 * [2024-07-08, 19:19:01](https://news.ycombinator.com/item?id=40908521) - [Z-Library Admins \"Escape House Arrest\" After Judge Approves U.S. Extradition](https://torrentfreak.com/z-library-admins-escape-house-arrest-after-judge-approves-u-s-extradition-240708/)
 * [2024-07-08, 19:14:53](https://news.ycombinator.com/item?id=40908470) - [Global trade woes mount as shipping costs rise](https://www.dw.com/en/global-trade-woes-mount-as-shipping-costs-rise/a-69586965)
 * [2024-07-08, 19:12:22](https://news.ycombinator.com/item?id=40908444) - [Dear Roku, you ruined my TV](https://www.theverge.com/24188282/roku-tv-update-motion-smoothing-turn-off)
@@ -9,6 +10,7 @@
 * [2024-07-08, 18:27:16](https://news.ycombinator.com/item?id=40907933) - [No more boot loader: Please use the kernel instead](https://pretalx.com/devconf-cz-2024/talk/W3AVCT/)
 * [2024-07-08, 17:52:23](https://news.ycombinator.com/item?id=40907581) - [Entering text in the terminal is complicated](https://jvns.ca/blog/2024/07/08/readline/)
 * [2024-07-08, 17:46:37](https://news.ycombinator.com/item?id=40907528) - [Show HN: I coded my own JSON translation tool to easily localize my side project](https://www.quicklang.app/en)
+* [2024-07-08, 17:16:47](https://news.ycombinator.com/item?id=40907269) - [Dumb website only lets one user in at a time](https://imherefor.me/)
 * [2024-07-08, 17:05:08](https://news.ycombinator.com/item?id=40907155) - [The Right Kind of Stubborn](https://paulgraham.com/persistence.html)
 * [2024-07-08, 15:45:40](https://news.ycombinator.com/item?id=40906401) - [1JPM: A Maven/Gradle alternative in a single Java file](https://github.com/Osiris-Team/1JPM)
 * [2024-07-08, 15:14:06](https://news.ycombinator.com/item?id=40906148) - [Reverse Engineering Ticketmaster's Rotating Barcodes](https://conduition.io/coding/ticketmaster/)
@@ -16,7 +18,6 @@
 * [2024-07-08, 14:39:35](https://news.ycombinator.com/item?id=40905849) - [Geomys, a blueprint for a sustainable open-source maintenance firm](https://words.filippo.io/dispatches/geomys/)
 * [2024-07-08, 14:24:24](https://news.ycombinator.com/item?id=40905719) - [Bashbro – Make Any Comp a Web-Based File Server](https://github.com/victrixsoft/bashbro)
 * [2024-07-08, 14:21:05](https://news.ycombinator.com/item?id=40905686) - [Show HN: A fast OSS voice assistant](https://swift-ai.vercel.app/)
-* [2024-07-08, 14:14:48](https://news.ycombinator.com/item?id=40905634) - [The anti-growth state of mind on the Åland islands](https://lingon.land/anti-growth-state-of-mind-aland)
 * [2024-07-08, 13:34:58](https://news.ycombinator.com/item?id=40905295) - [Show HN: I am building an open-source incident management platform](https://github.com/incidentalhq/incidental)
 * [2024-07-08, 12:36:10](https://news.ycombinator.com/item?id=40904862) - [Show HN: Open-sourced Webflow for your own app](https://github.com/onlook-dev/studio)
 * [2024-07-08, 12:09:21](https://news.ycombinator.com/item?id=40904654) - [Birds in Space II: Quails in the Cosmos (2011)](https://finchwench.wordpress.com/2011/09/06/cosmoquails/)
@@ -29,7 +30,6 @@
 * [2024-07-06, 01:22:25](https://news.ycombinator.com/item?id=40887516) - [Modifying the OG Xbox to have 256M of RAM [video]](https://www.youtube.com/watch?v=1idSEhUT4PM)
 * [2024-07-05, 12:16:12](https://news.ycombinator.com/item?id=40882038) - [How I turned seemingly 'failed' experiments into a successful PhD](https://www.science.org/content/article/how-i-turned-seemingly-failed-experiments-into-a-successful-phd)
 * [2024-07-04, 10:10:45](https://news.ycombinator.com/item?id=40873726) - [Do grayscale images take less space?](https://lu.sagebl.eu/notes/can-i-save-space-with-grayscale-jpegs/)
-* [2024-07-03, 08:57:23](https://news.ycombinator.com/item?id=40864085) - [Leonhard Euler's Letters to a German Princess](https://mathshistory.st-andrews.ac.uk/Extras/Euler_letters/)
 
 ## [Archives](archives/index.md)
 
