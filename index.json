@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-08, 11:26:27",
+      "https://news.ycombinator.com/item?id=40904416"
+    ],
+    [
+      "Db2 is a story worth telling, even if IBM won't",
+      "https://www.theregister.com/2024/07/04/db2_a_story_worth_telling/"
+    ]
+  ],
+  [
+    [
+      "2024-07-08, 11:08:12",
+      "https://news.ycombinator.com/item?id=40904328"
+    ],
+    [
+      "Dark mode is not as good for your eyes as you believe",
+      "https://www.wired.com/story/dark-mode-chrome-android-ios-science/"
+    ]
+  ],
+  [
+    [
       "2024-07-08, 09:46:00",
       "https://news.ycombinator.com/item?id=40904006"
     ],
@@ -21,11 +41,21 @@
   ],
   [
     [
+      "2024-07-08, 08:42:03",
+      "https://news.ycombinator.com/item?id=40903690"
+    ],
+    [
+      "Ode to a world-saving idea: attribution error and cognitive empathy",
+      "https://nonzero.substack.com/p/ode-to-a-world-saving-idea-f4b"
+    ]
+  ],
+  [
+    [
       "2024-07-08, 07:59:02",
       "https://news.ycombinator.com/item?id=40903461"
     ],
     [
-      "Sipeed/NanoKVM: NanoKVM: Affordable, Multifunctional, Nano RISC-V IP-KVM",
+      "NanoKVM: Affordable, Multifunctional, Nano RISC-V IP-KVM",
       "https://github.com/sipeed/NanoKVM"
     ]
   ],
@@ -37,6 +67,16 @@
     [
       "Zed Editor automatically downloads binaries and NPM packages without consent",
       "https://old.reddit.com/r/programming/comments/1dxmroj/zed_editor_automatically_downloads_binaries_and/"
+    ]
+  ],
+  [
+    [
+      "2024-07-08, 05:06:34",
+      "https://news.ycombinator.com/item?id=40902749"
+    ],
+    [
+      "Boeing to plead guilty to criminal fraud charge stemming from 737 MAX crashes",
+      "https://www.cnbc.com/2024/07/08/boeing-to-plead-guilty-to-criminal-fraud-charge-stemming-from-737-max-crashes.html"
     ]
   ],
   [
@@ -101,16 +141,6 @@
   ],
   [
     [
-      "2024-07-07, 18:16:51",
-      "https://news.ycombinator.com/item?id=40899371"
-    ],
-    [
-      "VDEv2: Virtual Distributed Ethernet",
-      "https://github.com/virtualsquare/vde-2"
-    ]
-  ],
-  [
-    [
       "2024-07-07, 18:09:25",
       "https://news.ycombinator.com/item?id=40899309"
     ],
@@ -147,26 +177,6 @@
     [
       "TUI for Managing WiFi on Linux",
       "https://github.com/pythops/impala"
-    ]
-  ],
-  [
-    [
-      "2024-07-07, 15:26:07",
-      "https://news.ycombinator.com/item?id=40898313"
-    ],
-    [
-      "Show HN: I made an open source Mailchimp RSS-to-Email alternative",
-      "https://github.com/ElliotKillick/rss2newsletter"
-    ]
-  ],
-  [
-    [
-      "2024-07-07, 13:22:12",
-      "https://news.ycombinator.com/item?id=40897518"
-    ],
-    [
-      "Mongo but on Postgres and with strong consistency benefits",
-      "https://github.com/event-driven-io/Pongo"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "How the continuum hypothesis could have been a fundamental axiom",
       "https://jdh.hamkins.org/how-ch-could-have-been-fundamental/"
-    ]
-  ],
-  [
-    [
-      "2024-07-03, 14:05:30",
-      "https://news.ycombinator.com/item?id=40866069"
-    ],
-    [
-      "Python with Braces",
-      "https://github.com/mathialo/bython"
     ]
   ],
   [
