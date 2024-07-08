@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-08, 15:14:06",
+      "https://news.ycombinator.com/item?id=40906148"
+    ],
+    [
+      "Reverse Engineering Ticketmaster's Rotating Barcodes",
+      "https://conduition.io/coding/ticketmaster/"
+    ]
+  ],
+  [
+    [
+      "2024-07-08, 15:13:40",
+      "https://news.ycombinator.com/item?id=40906141"
+    ],
+    [
+      "\"Bullshit Jobs\" Is a Terrible, Curiosity-Killing Concept",
+      "https://www.thediff.co/archive/bullshit-jobs-is-a-terrible-curiosity-killing-concept/"
+    ]
+  ],
+  [
+    [
       "2024-07-08, 14:24:24",
       "https://news.ycombinator.com/item?id=40905719"
     ],
@@ -17,6 +37,16 @@
     [
       "For the first time in more than 150 years, Alberta's electricity is coal free",
       "https://www.theglobeandmail.com/canada/alberta/article-for-the-first-time-in-more-than-150-years-albertas-electricity-is-coal/"
+    ]
+  ],
+  [
+    [
+      "2024-07-08, 13:34:58",
+      "https://news.ycombinator.com/item?id=40905295"
+    ],
+    [
+      "Show HN: I am building an open-source incident management platform",
+      "https://github.com/incidentalhq/incidental"
     ]
   ],
   [
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2024-07-07, 18:16:51",
-      "https://news.ycombinator.com/item?id=40899371"
-    ],
-    [
-      "VDEv2: Virtual Distributed Ethernet",
-      "https://github.com/virtualsquare/vde-2"
-    ]
-  ],
-  [
-    [
       "2024-07-07, 18:09:25",
       "https://news.ycombinator.com/item?id=40899309"
     ],
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2024-07-07, 15:26:07",
-      "https://news.ycombinator.com/item?id=40898313"
-    ],
-    [
-      "Show HN: I made an open source Mailchimp RSS-to-Email alternative",
-      "https://github.com/ElliotKillick/rss2newsletter"
-    ]
-  ],
-  [
-    [
       "2024-07-07, 13:20:37",
       "https://news.ycombinator.com/item?id=40897506"
     ],
     [
       "A reawakening of systems programming meetups",
       "https://notes.eatonphil.com/2024-07-07-systems-meetups.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-07, 11:37:25",
-      "https://news.ycombinator.com/item?id=40896873"
-    ],
-    [
-      "Show HN: Execute JavaScript in a WebAssembly QuickJS sandbox",
-      "https://github.com/sebastianwessel/quickjs"
     ]
   ],
   [
