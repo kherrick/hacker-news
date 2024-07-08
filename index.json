@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-08, 15:45:40",
+      "https://news.ycombinator.com/item?id=40906401"
+    ],
+    [
+      "1JPM: A Maven/Gradle alternative in a single Java file",
+      "https://github.com/Osiris-Team/1JPM"
+    ]
+  ],
+  [
+    [
       "2024-07-08, 15:14:06",
       "https://news.ycombinator.com/item?id=40906148"
     ],
@@ -11,12 +21,22 @@
   ],
   [
     [
-      "2024-07-08, 15:13:40",
-      "https://news.ycombinator.com/item?id=40906141"
+      "2024-07-08, 14:45:24",
+      "https://news.ycombinator.com/item?id=40905899"
     ],
     [
-      "\"Bullshit Jobs\" Is a Terrible, Curiosity-Killing Concept",
-      "https://www.thediff.co/archive/bullshit-jobs-is-a-terrible-curiosity-killing-concept/"
+      "Build your own React (2019)",
+      "https://pomb.us/build-your-own-react/"
+    ]
+  ],
+  [
+    [
+      "2024-07-08, 14:39:35",
+      "https://news.ycombinator.com/item?id=40905849"
+    ],
+    [
+      "Geomys, a blueprint for a sustainable open-source maintenance firm",
+      "https://words.filippo.io/dispatches/geomys/"
     ]
   ],
   [
@@ -37,6 +57,16 @@
     [
       "For the first time in more than 150 years, Alberta's electricity is coal free",
       "https://www.theglobeandmail.com/canada/alberta/article-for-the-first-time-in-more-than-150-years-albertas-electricity-is-coal/"
+    ]
+  ],
+  [
+    [
+      "2024-07-08, 14:21:05",
+      "https://news.ycombinator.com/item?id=40905686"
+    ],
+    [
+      "Show HN: A fast OSS voice assistant",
+      "https://swift-ai.vercel.app/"
     ]
   ],
   [
@@ -77,16 +107,6 @@
     [
       "UpCodes (YC S17) is hiring remote SWEs, PMs to help make buildings cheap",
       "https://up.codes/careers?utm_source=HN"
-    ]
-  ],
-  [
-    [
-      "2024-07-08, 11:24:05",
-      "https://news.ycombinator.com/item?id=40904407"
-    ],
-    [
-      "Three Algorithms in a Room",
-      "https://prospect.org/economy/2024-06-05-three-algorithms-in-a-room/"
     ]
   ],
   [
@@ -181,32 +201,12 @@
   ],
   [
     [
-      "2024-07-07, 18:04:38",
-      "https://news.ycombinator.com/item?id=40899281"
-    ],
-    [
-      "Managing Oneself (2005)",
-      "https://hbr.org/2005/01/managing-oneself"
-    ]
-  ],
-  [
-    [
       "2024-07-07, 17:59:31",
       "https://news.ycombinator.com/item?id=40899242"
     ],
     [
       "Show HN: A modern Jupyter client for macOS",
       "https://satyrn.app/"
-    ]
-  ],
-  [
-    [
-      "2024-07-07, 16:25:31",
-      "https://news.ycombinator.com/item?id=40898640"
-    ],
-    [
-      "TUI for Managing WiFi on Linux",
-      "https://github.com/pythops/impala"
     ]
   ],
   [
