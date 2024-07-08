@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-08, 01:52:54](https://news.ycombinator.com/item?id=40902012) - [Show HN: Simulating 20M Particles in JavaScript](https://dgerrells.com/blog/how-fast-is-javascript-simulating-20-000-000-particles)
+* [2024-07-08, 01:22:00](https://news.ycombinator.com/item?id=40901890) - [Ecuador court rules pollution violates rights of a river running through capital](https://www.theguardian.com/world/article/2024/jul/07/ecuador-court-river-pollution-violates-rights)
 * [2024-07-07, 21:01:44](https://news.ycombinator.com/item?id=40900417) - [Continue (YC S23) Is Hiring a Full-Stack Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-full-stack-engineer)
 * [2024-07-07, 19:58:22](https://news.ycombinator.com/item?id=40900029) - [Unit is a general purpose visual programming system](https://unit.software/)
 * [2024-07-07, 19:21:51](https://news.ycombinator.com/item?id=40899778) - [ICANN's list of abandoned vanity TLDs](https://www.icann.org/resources/pages/gtld-registry-agreement-termination-2015-10-09-en)
@@ -18,7 +20,6 @@
 * [2024-07-07, 12:37:55](https://news.ycombinator.com/item?id=40897205) - [YouTube embeds are heavy and it’s fixable](https://frontendmasters.com/blog/youtube-embeds-are-bananas-heavy-and-its-fixable/)
 * [2024-07-07, 11:37:25](https://news.ycombinator.com/item?id=40896873) - [Show HN: Execute JavaScript in a WebAssembly QuickJS sandbox](https://github.com/sebastianwessel/quickjs)
 * [2024-07-07, 06:25:50](https://news.ycombinator.com/item?id=40895672) - [Show HN: BeaconDB – An Alternative to Mozilla Location Services](https://beacondb.net/)
-* [2024-07-07, 05:22:49](https://news.ycombinator.com/item?id=40895441) - [Why Italy Fell Out of Love with Cilantro](https://www.atlasobscura.com/articles/what-are-italian-herbs)
 * [2024-07-06, 19:31:49](https://news.ycombinator.com/item?id=40892636) - [Numeronymize](https://leancrew.com/all-this/2024/07/numeronymize/)
 * [2024-07-06, 17:01:50](https://news.ycombinator.com/item?id=40891659) - [Interactive Bolide Data Visualizer](https://bolides.seti.org/)
 * [2024-07-06, 13:23:13](https://news.ycombinator.com/item?id=40890315) - [Amazon is bricking $2,350 Astro robots 10 months after release](https://arstechnica.com/gadgets/2024/07/amazon-is-bricking-2350-astro-robots-10-months-after-release/)
@@ -28,7 +29,6 @@
 * [2024-07-03, 23:17:20](https://news.ycombinator.com/item?id=40870972) - [Wordsworth Donisthorpe, Blackmail, and the First Motion Pictures](https://publicdomainreview.org/essay/wordsworth-donisthorpe-blackmail-and-the-first-motion-pictures/)
 * [2024-07-03, 16:33:39](https://news.ycombinator.com/item?id=40867585) - [Artificial LIfe ENvironment (ALIEN) is an artificial life simulation tool](https://alien-project.gitbook.io/docs)
 * [2024-07-03, 14:05:30](https://news.ycombinator.com/item?id=40866069) - [Python with Braces](https://github.com/mathialo/bython)
-* [2024-07-03, 13:13:31](https://news.ycombinator.com/item?id=40865654) - [Graph-Based Ceramics](https://www.alexreichert.com/blog/graph-based-ceramics)
 * [2024-07-02, 13:50:11](https://news.ycombinator.com/item?id=40856659) - [A Practical Real-Time Model for Diffraction on Rough Surfaces](https://www.jcgt.org/published/0013/01/01/)
 
 ## [Archives](archives/index.md)
