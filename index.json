@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2024-07-08, 18:50:29",
+      "https://news.ycombinator.com/item?id=40908178"
+    ],
+    [
+      "Show HN: WAL Implementation in Golang",
+      "https://github.com/stym06/rebuf"
+    ]
+  ],
+  [
+    [
       "2024-07-08, 18:27:16",
       "https://news.ycombinator.com/item?id=40907933"
     ],
@@ -287,16 +297,6 @@
     [
       "Ernest Hemingway's brother established a floating republic in the Caribbean",
       "https://www.smithsonianmag.com/history/why-ernest-hemingways-younger-brother-established-a-floating-republic-in-the-caribbean-180984635/"
-    ]
-  ],
-  [
-    [
-      "2024-07-03, 15:45:01",
-      "https://news.ycombinator.com/item?id=40867097"
-    ],
-    [
-      "Don't Use Booleans",
-      "https://www.luu.io/posts/dont-use-booleans"
     ]
   ]
 ]
