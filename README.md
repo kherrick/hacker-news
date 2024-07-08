@@ -2,6 +2,7 @@
 
 * [2024-07-08, 15:45:40](https://news.ycombinator.com/item?id=40906401) - [1JPM: A Maven/Gradle alternative in a single Java file](https://github.com/Osiris-Team/1JPM)
 * [2024-07-08, 15:14:06](https://news.ycombinator.com/item?id=40906148) - [Reverse Engineering Ticketmaster's Rotating Barcodes](https://conduition.io/coding/ticketmaster/)
+* [2024-07-08, 15:09:43](https://news.ycombinator.com/item?id=40906112) - [Understanding Software Dynamics [book review]](https://www.usenix.org/publications/loginonline/understanding-software-dynamics)
 * [2024-07-08, 14:45:24](https://news.ycombinator.com/item?id=40905899) - [Build your own React (2019)](https://pomb.us/build-your-own-react/)
 * [2024-07-08, 14:39:35](https://news.ycombinator.com/item?id=40905849) - [Geomys, a blueprint for a sustainable open-source maintenance firm](https://words.filippo.io/dispatches/geomys/)
 * [2024-07-08, 14:24:24](https://news.ycombinator.com/item?id=40905719) - [Bashbro – Make Any Comp a Web-Based File Server](https://github.com/victrixsoft/bashbro)
@@ -17,7 +18,6 @@
 * [2024-07-08, 05:04:58](https://news.ycombinator.com/item?id=40902740) - [Do Skis Get Blunt?](https://brooker.co.za/misc-blog/2024/01/23/skis.html)
 * [2024-07-08, 01:52:54](https://news.ycombinator.com/item?id=40902012) - [Show HN: Simulating 20M Particles in JavaScript](https://dgerrells.com/blog/how-fast-is-javascript-simulating-20-000-000-particles)
 * [2024-07-08, 00:27:58](https://news.ycombinator.com/item?id=40901623) - [A Mini Monitor for a Pi](https://noamzeise.com/2024/07/05/mini-monitor.html)
-* [2024-07-07, 19:58:22](https://news.ycombinator.com/item?id=40900029) - [Unit is a general purpose visual programming system](https://unit.software/)
 * [2024-07-07, 18:19:49](https://news.ycombinator.com/item?id=40899393) - [Standard cells: Looking at individual gates in the Pentium processor](http://www.righto.com/2024/07/pentium-standard-cells.html)
 * [2024-07-07, 18:09:25](https://news.ycombinator.com/item?id=40899309) - [Reasoning in Large Language Models: A Geometric Perspective](https://arxiv.org/abs/2407.02678)
 * [2024-07-07, 17:59:31](https://news.ycombinator.com/item?id=40899242) - [Show HN: A modern Jupyter client for macOS](https://satyrn.app/)
