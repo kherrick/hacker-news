@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-08, 20:52:01",
+      "https://news.ycombinator.com/item?id=40909554"
+    ],
+    [
+      "How we tamed Node.js event loop lag: a deepdive",
+      "https://trigger.dev/blog/event-loop-lag"
+    ]
+  ],
+  [
+    [
+      "2024-07-08, 20:35:48",
+      "https://news.ycombinator.com/item?id=40909390"
+    ],
+    [
+      "Negative Temperature",
+      "https://en.wikipedia.org/wiki/Negative_temperature"
+    ]
+  ],
+  [
+    [
       "2024-07-08, 20:08:03",
       "https://news.ycombinator.com/item?id=40909076"
     ],
@@ -25,7 +45,7 @@
       "https://news.ycombinator.com/item?id=40908855"
     ],
     [
-      "Integrating Email Aliases with Bitwarden",
+      "How to use the Bitwarden forwarded email alias generator",
       "https://bitwarden.com/blog/how-to-use-the-bitwarden-forwarded-email-alias-generator/"
     ]
   ],
@@ -35,7 +55,7 @@
       "https://news.ycombinator.com/item?id=40908521"
     ],
     [
-      "Z-Library Admins \"Escape House Arrest\" After Judge Approves U.S. Extradition",
+      "Z-Library admins \"escape house arrest\" after judge approves U.S. extradition",
       "https://torrentfreak.com/z-library-admins-escape-house-arrest-after-judge-approves-u-s-extradition-240708/"
     ]
   ],
@@ -145,7 +165,7 @@
       "https://news.ycombinator.com/item?id=40906148"
     ],
     [
-      "Reverse Engineering Ticketmaster's Rotating Barcodes",
+      "Reverse engineering Ticketmaster's rotating barcodes",
       "https://conduition.io/coding/ticketmaster/"
     ]
   ],
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2024-07-08, 00:27:58",
-      "https://news.ycombinator.com/item?id=40901623"
-    ],
-    [
-      "A Mini Monitor for a Pi",
-      "https://noamzeise.com/2024/07/05/mini-monitor.html"
-    ]
-  ],
-  [
-    [
       "2024-07-06, 01:24:07",
       "https://news.ycombinator.com/item?id=40887521"
     ],
@@ -277,16 +287,6 @@
     [
       "How I turned seemingly 'failed' experiments into a successful PhD",
       "https://www.science.org/content/article/how-i-turned-seemingly-failed-experiments-into-a-successful-phd"
-    ]
-  ],
-  [
-    [
-      "2024-07-04, 10:10:45",
-      "https://news.ycombinator.com/item?id=40873726"
-    ],
-    [
-      "Do grayscale images take less space?",
-      "https://lu.sagebl.eu/notes/can-i-save-space-with-grayscale-jpegs/"
     ]
   ],
   [
