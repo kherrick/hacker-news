@@ -27,6 +27,7 @@
 * [2024-07-08, 14:24:24](https://news.ycombinator.com/item?id=40905719) - [Bashbro – Make Any Comp a Web-Based File Server](https://github.com/victrixsoft/bashbro)
 * [2024-07-08, 14:23:17](https://news.ycombinator.com/item?id=40905706) - [For the first time in more than 150 years, Alberta's electricity is coal free](https://www.theglobeandmail.com/canada/alberta/article-for-the-first-time-in-more-than-150-years-albertas-electricity-is-coal/)
 * [2024-07-08, 14:21:05](https://news.ycombinator.com/item?id=40905686) - [Show HN: A fast OSS voice assistant](https://swift-ai.vercel.app/)
+* [2024-07-08, 14:14:48](https://news.ycombinator.com/item?id=40905634) - [The anti-growth state of mind on the Åland islands](https://lingon.land/anti-growth-state-of-mind-aland)
 * [2024-07-08, 13:34:58](https://news.ycombinator.com/item?id=40905295) - [Show HN: I am building an open-source incident management platform](https://github.com/incidentalhq/incidental)
 * [2024-07-08, 12:36:10](https://news.ycombinator.com/item?id=40904862) - [Show HN: Open-sourced Webflow for your own app](https://github.com/onlook-dev/studio)
 * [2024-07-08, 12:09:21](https://news.ycombinator.com/item?id=40904654) - [Birds in Space II: Quails in the Cosmos](https://finchwench.wordpress.com/2011/09/06/cosmoquails/)

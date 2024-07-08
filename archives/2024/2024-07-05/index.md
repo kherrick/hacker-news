@@ -74,6 +74,7 @@
 * [2024-07-05, 12:31:27](https://news.ycombinator.com/item?id=40882133) - [Programming in Unison](https://lwn.net/Articles/978955/)
 * [2024-07-05, 12:25:15](https://news.ycombinator.com/item?id=40882100) - [Bruce Bastian, a Founder of WordPerfect, Is Dead at 76](https://www.nytimes.com/2024/07/02/business/bruce-bastian-dead.html)
 * [2024-07-05, 12:23:09](https://news.ycombinator.com/item?id=40882077) - [So now that Nvidia has far outstripped the market cap of AMD and Intel, …](https://twitter.com/mohapatrahemant/status/1809135345683841050)
+* [2024-07-05, 12:16:12](https://news.ycombinator.com/item?id=40882038) - [How I turned seemingly 'failed' experiments into a successful PhD](https://www.science.org/content/article/how-i-turned-seemingly-failed-experiments-into-a-successful-phd)
 * [2024-07-05, 12:15:57](https://news.ycombinator.com/item?id=40882035) - [Russia Claims Decoding 'Complex' Atacms U.S. Missiles Haunting Their Military](https://www.eurasiantimes.com/russia-claims-breakthrough-with-atacms/)
 * [2024-07-05, 12:13:27](https://news.ycombinator.com/item?id=40882019) - [Fresh wind blows from supernova recorded in 1181](https://www.u-tokyo.ac.jp/focus/en/press/z0508_00361.html)
 * [2024-07-05, 12:00:19](https://news.ycombinator.com/item?id=40881964) - [Confido (YC S21) Is Hiring](https://www.ycombinator.com/companies/confido/jobs/xyw5xRU-full-stack-engineer)
