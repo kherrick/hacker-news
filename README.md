@@ -26,10 +26,10 @@
 * [2024-07-06, 01:22:25](https://news.ycombinator.com/item?id=40887516) - [Modifying the OG Xbox to have 256M of RAM [video]](https://www.youtube.com/watch?v=1idSEhUT4PM)
 * [2024-07-05, 18:37:10](https://news.ycombinator.com/item?id=40884998) - [Five common English words we don't know the origins of–including 'boy' and 'dog'](https://phys.org/news/2024-07-common-english-words-dont-boy.html)
 * [2024-07-05, 18:25:29](https://news.ycombinator.com/item?id=40884917) - [Refined Input, Degraded Output: The Counterintuitive World of Compiler Behavior](https://dl.acm.org/doi/10.1145/3656404)
+* [2024-07-05, 07:38:09](https://news.ycombinator.com/item?id=40880551) - [Tiny robots with a big impact: microrobots for single-cell handling](https://www.advancedsciencenews.com/tiny-robots-with-a-big-impact-scientists-develop-microrobots-for-single-cell-handling/)
 * [2024-07-05, 06:41:50](https://news.ycombinator.com/item?id=40880302) - [Detect Migrating Birds with a Plastic Dish and a Cheap Microphone](https://spectrum.ieee.org/detect-migrating-birds-with-sound)
 * [2024-07-04, 10:10:45](https://news.ycombinator.com/item?id=40873726) - [Do grayscale images take less space?](https://lu.sagebl.eu/notes/can-i-save-space-with-grayscale-jpegs/)
 * [2024-07-03, 08:57:23](https://news.ycombinator.com/item?id=40864085) - [Leonhard Euler's Letters to a German Princess](https://mathshistory.st-andrews.ac.uk/Extras/Euler_letters/)
-* [2024-07-03, 04:38:13](https://news.ycombinator.com/item?id=40862749) - [Ask HN: Programmable Lasers?](https://news.ycombinator.com/item?id=40862749)
 
 ## [Archives](archives/index.md)
 
