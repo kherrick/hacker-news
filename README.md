@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-08, 21:51:12](https://news.ycombinator.com/item?id=40910130) - [SF's AI boom can't stop real estate slide, as office vacancies reach new record](https://www.cnbc.com/2024/07/08/san-franciscos-real-estate-slide-continues-as-office-vacancies-peak.html)
+* [2024-07-08, 23:12:08](https://news.ycombinator.com/item?id=40910776) - [Some Florida cities are living off red light cameras](https://www.wlrn.org/wlrn-investigations/2024-07-05/red-light-cameras-miami-florida)
 * [2024-07-08, 21:50:54](https://news.ycombinator.com/item?id=40910122) - [Glest – The free real-time strategy game](https://glest.org/en/index.php)
 * [2024-07-08, 21:40:48](https://news.ycombinator.com/item?id=40910024) - [Show HN: The easiest way to create web UIs for ROS robots](https://transitiverobotics.com/caps/transitive-robotics/ros-tool/)
 * [2024-07-08, 20:56:58](https://news.ycombinator.com/item?id=40909607) - [Twenty Five Years of Warehouse-Scale Computing](https://www.computer.org/csdl/magazine/mi/5555/01/10551740/1XyKBf0Y6uA)
@@ -9,7 +9,6 @@
 * [2024-07-08, 20:08:03](https://news.ycombinator.com/item?id=40909076) - [DB Browser for SQLite (Windows, macOS, and Most Versions of Linux)](https://sqlitebrowser.org/)
 * [2024-07-08, 20:02:56](https://news.ycombinator.com/item?id=40909006) - [Plausible Analytics: GDPR Compliance w/o Cookie Consent Banner](https://plausible.io/)
 * [2024-07-08, 19:52:31](https://news.ycombinator.com/item?id=40908878) - [Anna's Archive Faces Millions in Damages and a Permanent Injunction](https://torrentfreak.com/annas-archive-faces-millions-in-damages-and-a-permanent-injunction-240708/)
-* [2024-07-08, 19:19:01](https://news.ycombinator.com/item?id=40908521) - [Z-Library admins \"escape house arrest\" after judge approves U.S. extradition](https://torrentfreak.com/z-library-admins-escape-house-arrest-after-judge-approves-u-s-extradition-240708/)
 * [2024-07-08, 18:58:56](https://news.ycombinator.com/item?id=40908273) - [C++ patterns for low-latency applications including high-frequency trading](https://arxiv.org/abs/2309.04259)
 * [2024-07-08, 18:51:10](https://news.ycombinator.com/item?id=40908187) - [Affinity's Adobe-rivaling creative suite is now free for six months](https://www.theverge.com/2024/7/8/24194281/affinity-creative-suite-six-month-free-trial-deal-announcement)
 * [2024-07-08, 18:50:29](https://news.ycombinator.com/item?id=40908178) - [Show HN: WAL Implementation in Golang](https://github.com/stym06/rebuf)
@@ -25,6 +24,7 @@
 * [2024-07-08, 12:36:10](https://news.ycombinator.com/item?id=40904862) - [Show HN: Open-sourced Webflow for your own app](https://github.com/onlook-dev/studio)
 * [2024-07-08, 12:00:34](https://news.ycombinator.com/item?id=40904587) - [UpCodes (YC S17) is hiring remote SWEs, PMs to help make buildings cheap](https://up.codes/careers?utm_source=HN)
 * [2024-07-08, 09:15:47](https://news.ycombinator.com/item?id=40903870) - [Xpra: Persistent Remote Applications for X11](https://github.com/Xpra-org/xpra)
+* [2024-07-06, 17:28:51](https://news.ycombinator.com/item?id=40891819) - [How I've Learned to Live with a Nonexistent Working Memory](https://medium.com/the-ascent/how-ive-learned-to-live-with-a-nonexistent-working-memory-5db259e7d390)
 * [2024-07-06, 05:27:28](https://news.ycombinator.com/item?id=40888342) - [Replicating D3 Charts with Swift Charts](https://github.com/raheelahmad/Swift-D3-Charts)
 * [2024-07-06, 01:24:07](https://news.ycombinator.com/item?id=40887521) - [Record 4 Camera Angles at Once Using Only iPhones and iPads](https://www.pcmag.com/news/hands-on-apple-final-cut-camera-final-cut-pro-2-multicam)
 * [2024-07-06, 01:22:25](https://news.ycombinator.com/item?id=40887516) - [Modifying the OG Xbox to have 256M of RAM [video]](https://www.youtube.com/watch?v=1idSEhUT4PM)
