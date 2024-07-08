@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-08](index.md)
 
+* [2024-07-08, 19:19:01](https://news.ycombinator.com/item?id=40908521) - [Z-Library Admins \"Escape House Arrest\" After Judge Approves U.S. Extradition](https://torrentfreak.com/z-library-admins-escape-house-arrest-after-judge-approves-u-s-extradition-240708/)
+* [2024-07-08, 19:14:53](https://news.ycombinator.com/item?id=40908470) - [Global trade woes mount as shipping costs rise](https://www.dw.com/en/global-trade-woes-mount-as-shipping-costs-rise/a-69586965)
+* [2024-07-08, 19:12:22](https://news.ycombinator.com/item?id=40908444) - [Dear Roku, you ruined my TV](https://www.theverge.com/24188282/roku-tv-update-motion-smoothing-turn-off)
 * [2024-07-08, 19:01:25](https://news.ycombinator.com/item?id=40908310) - [Google Maps tests new pop-up ads that give you an unnecessary detour](https://www.androidauthority.com/google-maps-pop-up-ad-3458170/)
 * [2024-07-08, 18:51:10](https://news.ycombinator.com/item?id=40908187) - [Affinity's Adobe-rivaling creative suite is now free for six months](https://www.theverge.com/2024/7/8/24194281/affinity-creative-suite-six-month-free-trial-deal-announcement)
 * [2024-07-08, 18:50:29](https://news.ycombinator.com/item?id=40908178) - [Show HN: WAL Implementation in Golang](https://github.com/stym06/rebuf)
