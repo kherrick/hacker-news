@@ -2,7 +2,6 @@
 
 * [2024-07-08, 20:56:58](https://news.ycombinator.com/item?id=40909607) - [Twenty Five Years of Warehouse-Scale Computing](https://www.computer.org/csdl/magazine/mi/5555/01/10551740/1XyKBf0Y6uA)
 * [2024-07-08, 20:52:01](https://news.ycombinator.com/item?id=40909554) - [How we tamed Node.js event loop lag: a deepdive](https://trigger.dev/blog/event-loop-lag)
-* [2024-07-08, 20:35:48](https://news.ycombinator.com/item?id=40909390) - [Negative Temperature](https://en.wikipedia.org/wiki/Negative_temperature)
 * [2024-07-08, 20:29:08](https://news.ycombinator.com/item?id=40909327) - [Making My Own Wedding Rings](https://geoff.greer.fm/2024/07/07/making-my-own-wedding-rings/)
 * [2024-07-08, 20:08:03](https://news.ycombinator.com/item?id=40909076) - [DB Browser for SQLite (Windows, macOS, and Most Versions of Linux)](https://sqlitebrowser.org/)
 * [2024-07-08, 20:02:56](https://news.ycombinator.com/item?id=40909006) - [Plausible Analytics: GDPR Compliance w/o Cookie Consent Banner](https://plausible.io/)
@@ -28,6 +27,7 @@
 * [2024-07-08, 09:15:47](https://news.ycombinator.com/item?id=40903870) - [Xpra: Persistent Remote Applications for X11](https://github.com/Xpra-org/xpra)
 * [2024-07-06, 05:27:28](https://news.ycombinator.com/item?id=40888342) - [Replicating D3 Charts with Swift Charts](https://github.com/raheelahmad/Swift-D3-Charts)
 * [2024-07-06, 01:24:07](https://news.ycombinator.com/item?id=40887521) - [Record 4 Camera Angles at Once Using Only iPhones and iPads](https://www.pcmag.com/news/hands-on-apple-final-cut-camera-final-cut-pro-2-multicam)
+* [2024-07-06, 01:22:25](https://news.ycombinator.com/item?id=40887516) - [Modifying the OG Xbox to have 256M of RAM [video]](https://www.youtube.com/watch?v=1idSEhUT4PM)
 * [2024-07-05, 12:16:12](https://news.ycombinator.com/item?id=40882038) - [How I turned seemingly 'failed' experiments into a successful PhD](https://www.science.org/content/article/how-i-turned-seemingly-failed-experiments-into-a-successful-phd)
 * [2024-07-03, 22:46:28](https://news.ycombinator.com/item?id=40870756) - [Ernest Hemingway's brother established a floating republic in the Caribbean](https://www.smithsonianmag.com/history/why-ernest-hemingways-younger-brother-established-a-floating-republic-in-the-caribbean-180984635/)
 
