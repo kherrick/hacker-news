@@ -88,6 +88,7 @@
 * [2024-07-06, 03:19:17](https://news.ycombinator.com/item?id=40887955) - [RadioSide turns your spare device into a radio](https://radioside.com)
 * [2024-07-06, 02:56:56](https://news.ycombinator.com/item?id=40887874) - [Zephyr: Implementing a Device Driver for a Sensor](https://bootlin.com/blog/zephyr-implementing-a-device-driver-for-a-sensor/)
 * [2024-07-06, 02:36:18](https://news.ycombinator.com/item?id=40887806) - [How to implement a hash table in C (2021)](https://benhoyt.com/writings/hash-table-in-c/)
+* [2024-07-06, 01:24:07](https://news.ycombinator.com/item?id=40887521) - [Record 4 Camera Angles at Once Using Only iPhones and iPads](https://www.pcmag.com/news/hands-on-apple-final-cut-camera-final-cut-pro-2-multicam)
 * [2024-07-06, 01:22:25](https://news.ycombinator.com/item?id=40887516) - [Modifying the OG Xbox to have 256M of RAM [video]](https://www.youtube.com/watch?v=1idSEhUT4PM)
 * [2024-07-06, 01:13:40](https://news.ycombinator.com/item?id=40887480) - [HTML5 Differences from HTML4 (2014)](https://www.w3.org/TR/html5-diff/)
 * [2024-07-06, 00:47:52](https://news.ycombinator.com/item?id=40887359) - [Radio Garden](https://radio.garden/)
