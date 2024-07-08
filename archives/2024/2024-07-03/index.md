@@ -11,6 +11,7 @@
 * [2024-07-03, 22:43:50](https://news.ycombinator.com/item?id=40870735) - [What Spain used to censor Catalonia's 2017 independence referendum](https://censura1oct.github.io/en/2017/09/16/home_en.html)
 * [2024-07-03, 22:43:05](https://news.ycombinator.com/item?id=40870728) - [Diving into deep learning: Understanding Deep Learning book review [pdf]](https://github.com/udlbook/udlbook/blob/main/public/NMI_Review.pdf)
 * [2024-07-03, 22:42:04](https://news.ycombinator.com/item?id=40870716) - [A Woman Behind Freud's First Case Study](https://newrepublic.com/article/182270/anna-o-freud-woman-behind-first-case-study)
+* [2024-07-03, 22:41:40](https://news.ycombinator.com/item?id=40870712) - [High Availability, Zone-Aware Load Balancing](https://buoyant.io/blog/topology-aware-routing-introducing-high-availability-zone-aware-load-balancing)
 * [2024-07-03, 22:33:45](https://news.ycombinator.com/item?id=40870642) - [Spain introduces \"Porn Passport\" to keep kids from watching porn](https://www.politico.eu/article/spain-builds-porn-passport-to-stop-kids-watching-smut/)
 * [2024-07-03, 22:31:02](https://news.ycombinator.com/item?id=40870616) - [USB and the Myth of 500 Milliamps](https://hackaday.com/2024/07/03/usb-and-the-myth-of-500-milliamps/)
 * [2024-07-03, 22:17:32](https://news.ycombinator.com/item?id=40870515) - [Judge delays ban on noncompete agreements for employees](https://www.cnn.com/2024/07/03/business/noncompete-clause-federal-judge-ruling/index.html)

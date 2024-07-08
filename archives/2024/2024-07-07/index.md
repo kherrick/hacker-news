@@ -34,6 +34,7 @@
 * [2024-07-07, 16:47:16](https://news.ycombinator.com/item?id=40898734) - [How David Sinkinson Bootstrapped AppArmor to a $40M Exit](https://builttosell.com/radio/episode-448/)
 * [2024-07-07, 16:38:08](https://news.ycombinator.com/item?id=40898693) - [ChatGPT is better at generating code for problems written before 2021](https://ieeexplore.ieee.org/document/10507163)
 * [2024-07-07, 16:28:34](https://news.ycombinator.com/item?id=40898654) - [Zuckerberg and Peter Thiel on Facebook, Millenials, and Predictions for 2030](https://www.techemails.com/p/mark-zuckerberg-peter-thiel-millennials)
+* [2024-07-07, 16:25:31](https://news.ycombinator.com/item?id=40898640) - [TUI for Managing WiFi on Linux](https://github.com/pythops/impala)
 * [2024-07-07, 16:08:06](https://news.ycombinator.com/item?id=40898551) - [US intelligence community is embracing generative AI](https://www.nextgov.com/artificial-intelligence/2024/07/us-intelligence-community-embracing-generative-ai/397849/)
 * [2024-07-07, 15:26:07](https://news.ycombinator.com/item?id=40898313) - [Show HN: I made an open source Mailchimp RSS-to-Email alternative](https://github.com/ElliotKillick/rss2newsletter)
 * [2024-07-07, 14:53:26](https://news.ycombinator.com/item?id=40898121) - [Talent Search versus Talent Development [pdf]](https://community.ams.org/journals/notices/201909/rnoti-p1471.pdf)
