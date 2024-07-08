@@ -1,22 +1,32 @@
 [
   [
     [
+      "2024-07-08, 12:00:34",
+      "https://news.ycombinator.com/item?id=40904587"
+    ],
+    [
+      "UpCodes (YC S17) is hiring remote SWEs, PMs to help make buildings cheap",
+      "https://up.codes/careers?utm_source=HN"
+    ]
+  ],
+  [
+    [
+      "2024-07-08, 11:51:00",
+      "https://news.ycombinator.com/item?id=40904533"
+    ],
+    [
+      "Google claims new AI training tech is 13x faster, 10x more power efficient",
+      "https://www.tomshardware.com/tech-industry/artificial-intelligence/google-claims-new-ai-training-tech-is-13-times-faster-and-10-times-more-power-efficient-deepminds-new-jest-optimizes-training-data-for-massive-gains"
+    ]
+  ],
+  [
+    [
       "2024-07-08, 11:26:27",
       "https://news.ycombinator.com/item?id=40904416"
     ],
     [
       "Db2 is a story worth telling, even if IBM won't",
       "https://www.theregister.com/2024/07/04/db2_a_story_worth_telling/"
-    ]
-  ],
-  [
-    [
-      "2024-07-08, 11:08:12",
-      "https://news.ycombinator.com/item?id=40904328"
-    ],
-    [
-      "Dark mode is not as good for your eyes as you believe",
-      "https://www.wired.com/story/dark-mode-chrome-android-ios-science/"
     ]
   ],
   [
@@ -47,26 +57,6 @@
     [
       "Ode to a world-saving idea: attribution error and cognitive empathy",
       "https://nonzero.substack.com/p/ode-to-a-world-saving-idea-f4b"
-    ]
-  ],
-  [
-    [
-      "2024-07-08, 07:59:02",
-      "https://news.ycombinator.com/item?id=40903461"
-    ],
-    [
-      "NanoKVM: Affordable, Multifunctional, Nano RISC-V IP-KVM",
-      "https://github.com/sipeed/NanoKVM"
-    ]
-  ],
-  [
-    [
-      "2024-07-08, 05:26:09",
-      "https://news.ycombinator.com/item?id=40902826"
-    ],
-    [
-      "Zed Editor automatically downloads binaries and NPM packages without consent",
-      "https://old.reddit.com/r/programming/comments/1dxmroj/zed_editor_automatically_downloads_binaries_and/"
     ]
   ],
   [
@@ -111,12 +101,12 @@
   ],
   [
     [
-      "2024-07-07, 21:01:44",
-      "https://news.ycombinator.com/item?id=40900417"
+      "2024-07-07, 21:52:26",
+      "https://news.ycombinator.com/item?id=40900744"
     ],
     [
-      "Continue (YC S23) Is Hiring a Full-Stack Engineer in San Francisco",
-      "https://www.ycombinator.com/companies/continue/jobs/smcxRnM-full-stack-engineer"
+      "The Yellowstone supervolcano destroyed an ecosystem but saved it for us",
+      "https://arstechnica.com/science/2024/07/the-pompeii-of-paleontology-preserves-a-time-when-rhinos-roamed-nebraska/"
     ]
   ],
   [
@@ -191,6 +181,26 @@
   ],
   [
     [
+      "2024-07-07, 15:26:07",
+      "https://news.ycombinator.com/item?id=40898313"
+    ],
+    [
+      "Show HN: I made an open source Mailchimp RSS-to-Email alternative",
+      "https://github.com/ElliotKillick/rss2newsletter"
+    ]
+  ],
+  [
+    [
+      "2024-07-07, 13:22:12",
+      "https://news.ycombinator.com/item?id=40897518"
+    ],
+    [
+      "Mongo but on Postgres and with strong consistency benefits",
+      "https://github.com/event-driven-io/Pongo"
+    ]
+  ],
+  [
+    [
       "2024-07-07, 13:20:37",
       "https://news.ycombinator.com/item?id=40897506"
     ],
@@ -257,16 +267,6 @@
     [
       "Detect Migrating Birds with a Plastic Dish and a Cheap Microphone",
       "https://spectrum.ieee.org/detect-migrating-birds-with-sound"
-    ]
-  ],
-  [
-    [
-      "2024-07-05, 04:45:14",
-      "https://news.ycombinator.com/item?id=40879895"
-    ],
-    [
-      "Alexander Abian",
-      "https://en.wikipedia.org/wiki/Alexander_Abian"
     ]
   ],
   [
