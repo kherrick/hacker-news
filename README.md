@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-08, 18:51:10](https://news.ycombinator.com/item?id=40908187) - [Affinity's Adobe-rivaling creative suite is now free for six months](https://www.theverge.com/2024/7/8/24194281/affinity-creative-suite-six-month-free-trial-deal-announcement)
+* [2024-07-08, 18:50:29](https://news.ycombinator.com/item?id=40908178) - [Show HN: WAL Implementation in Golang](https://github.com/stym06/rebuf)
 * [2024-07-08, 18:27:16](https://news.ycombinator.com/item?id=40907933) - [No more boot loader: Please use the kernel instead](https://pretalx.com/devconf-cz-2024/talk/W3AVCT/)
-* [2024-07-08, 17:54:07](https://news.ycombinator.com/item?id=40907600) - [Mass tourism protesters squirt water at Barcelona tourists](https://www.bbc.com/news/videos/c0dm9w2ey7po)
 * [2024-07-08, 17:52:23](https://news.ycombinator.com/item?id=40907581) - [Entering text in the terminal is complicated](https://jvns.ca/blog/2024/07/08/readline/)
 * [2024-07-08, 17:46:37](https://news.ycombinator.com/item?id=40907528) - [Show HN: I coded my own JSON translation tool to easily localize my side project](https://www.quicklang.app/en)
 * [2024-07-08, 17:05:08](https://news.ycombinator.com/item?id=40907155) - [The Right Kind of Stubborn](https://paulgraham.com/persistence.html)
@@ -21,7 +22,6 @@
 * [2024-07-08, 05:04:58](https://news.ycombinator.com/item?id=40902740) - [Do Skis Get Blunt?](https://brooker.co.za/misc-blog/2024/01/23/skis.html)
 * [2024-07-08, 01:52:54](https://news.ycombinator.com/item?id=40902012) - [Show HN: Simulating 20M Particles in JavaScript](https://dgerrells.com/blog/how-fast-is-javascript-simulating-20-000-000-particles)
 * [2024-07-08, 00:27:58](https://news.ycombinator.com/item?id=40901623) - [A Mini Monitor for a Pi](https://noamzeise.com/2024/07/05/mini-monitor.html)
-* [2024-07-07, 18:09:25](https://news.ycombinator.com/item?id=40899309) - [Reasoning in Large Language Models: A Geometric Perspective](https://arxiv.org/abs/2407.02678)
 * [2024-07-07, 17:59:31](https://news.ycombinator.com/item?id=40899242) - [Show HN: A modern Jupyter client for macOS](https://satyrn.app/)
 * [2024-07-07, 13:20:37](https://news.ycombinator.com/item?id=40897506) - [A reawakening of systems programming meetups](https://notes.eatonphil.com/2024-07-07-systems-meetups.html)
 * [2024-07-06, 01:24:07](https://news.ycombinator.com/item?id=40887521) - [Record 4 Camera Angles at Once Using Only iPhones and iPads](https://www.pcmag.com/news/hands-on-apple-final-cut-camera-final-cut-pro-2-multicam)

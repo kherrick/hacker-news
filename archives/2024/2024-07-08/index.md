@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-08](index.md)
 
+* [2024-07-08, 18:51:10](https://news.ycombinator.com/item?id=40908187) - [Affinity's Adobe-rivaling creative suite is now free for six months](https://www.theverge.com/2024/7/8/24194281/affinity-creative-suite-six-month-free-trial-deal-announcement)
+* [2024-07-08, 18:50:29](https://news.ycombinator.com/item?id=40908178) - [Show HN: WAL Implementation in Golang](https://github.com/stym06/rebuf)
 * [2024-07-08, 18:27:16](https://news.ycombinator.com/item?id=40907933) - [No more boot loader: Please use the kernel instead](https://pretalx.com/devconf-cz-2024/talk/W3AVCT/)
 * [2024-07-08, 18:24:02](https://news.ycombinator.com/item?id=40907899) - [The EU Goes Too Far](https://stratechery.com/2024/the-e-u-goes-too-far/)
 * [2024-07-08, 18:01:38](https://news.ycombinator.com/item?id=40907661) - [Never ask a candidate to rate themselves out of 10](https://think-twice.me/?p=70)
