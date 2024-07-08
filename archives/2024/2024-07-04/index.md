@@ -66,6 +66,7 @@
 * [2024-07-04, 11:08:24](https://news.ycombinator.com/item?id=40873934) - [Doodling with the Mac's command icon](https://alexwlchan.net/2024/command-icon/)
 * [2024-07-04, 11:02:39](https://news.ycombinator.com/item?id=40873912) - [React chaos in mid and large web apps: Any different experiences?](https://old.reddit.com/r/ExperiencedDevs/comments/1dh9rly/the_chaos_of_react_in_medium_to_large_web_apps)
 * [2024-07-04, 10:40:46](https://news.ycombinator.com/item?id=40873853) - [UI Design Tips Using Tailwind CSS for Developers](https://railsdesigner.com/design-tips-for-developers/)
+* [2024-07-04, 10:10:45](https://news.ycombinator.com/item?id=40873726) - [Do grayscale images take less space?](https://lu.sagebl.eu/notes/can-i-save-space-with-grayscale-jpegs/)
 * [2024-07-04, 09:36:26](https://news.ycombinator.com/item?id=40873598) - [Kanban vs. Scrum: What's the Difference?](https://www.leiga.com/post/kanban-vs-scrum)
 * [2024-07-04, 09:09:13](https://news.ycombinator.com/item?id=40873471) - [The magic of small engineering teams](https://newsletter.posthog.com/p/the-magic-of-small-engineering-teams)
 * [2024-07-04, 08:46:03](https://news.ycombinator.com/item?id=40873391) - [Cloudflare rolls out feature for blocking AI companies' web scrapers](https://siliconangle.com/2024/07/03/cloudflare-rolls-feature-blocking-ai-companies-web-scrapers/)

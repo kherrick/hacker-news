@@ -27,7 +27,7 @@
 * [2024-07-05, 07:38:09](https://news.ycombinator.com/item?id=40880551) - [Tiny robots with a big impact: microrobots for single-cell handling](https://www.advancedsciencenews.com/tiny-robots-with-a-big-impact-scientists-develop-microrobots-for-single-cell-handling/)
 * [2024-07-05, 06:41:50](https://news.ycombinator.com/item?id=40880302) - [Detect Migrating Birds with a Plastic Dish and a Cheap Microphone](https://spectrum.ieee.org/detect-migrating-birds-with-sound)
 * [2024-07-04, 18:02:50](https://news.ycombinator.com/item?id=40876840) - [LivePortrait: A fast, controllable portrait animation model](https://github.com/KwaiVGI/LivePortrait)
-* [2024-07-03, 14:05:30](https://news.ycombinator.com/item?id=40866069) - [Python with Braces](https://github.com/mathialo/bython)
+* [2024-07-04, 10:10:45](https://news.ycombinator.com/item?id=40873726) - [Do grayscale images take less space?](https://lu.sagebl.eu/notes/can-i-save-space-with-grayscale-jpegs/)
 * [2024-07-03, 08:57:23](https://news.ycombinator.com/item?id=40864085) - [Leonhard Euler's Letters to a German Princess](https://mathshistory.st-andrews.ac.uk/Extras/Euler_letters/)
 * [2024-07-03, 04:38:13](https://news.ycombinator.com/item?id=40862749) - [Ask HN: Programmable Lasers?](https://news.ycombinator.com/item?id=40862749)
 
