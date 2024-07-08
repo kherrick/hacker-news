@@ -3,7 +3,6 @@
 * [2024-07-08, 01:52:54](https://news.ycombinator.com/item?id=40902012) - [Show HN: Simulating 20M Particles in JavaScript](https://dgerrells.com/blog/how-fast-is-javascript-simulating-20-000-000-particles)
 * [2024-07-07, 21:01:44](https://news.ycombinator.com/item?id=40900417) - [Continue (YC S23) Is Hiring a Full-Stack Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-full-stack-engineer)
 * [2024-07-07, 19:58:22](https://news.ycombinator.com/item?id=40900029) - [Unit is a general purpose visual programming system](https://unit.software/)
-* [2024-07-07, 19:21:51](https://news.ycombinator.com/item?id=40899778) - [ICANN's list of abandoned vanity TLDs](https://www.icann.org/resources/pages/gtld-registry-agreement-termination-2015-10-09-en)
 * [2024-07-07, 19:17:56](https://news.ycombinator.com/item?id=40899761) - [The internet is already over (2022)](https://samkriss.substack.com/p/the-internet-is-already-over)
 * [2024-07-07, 18:32:57](https://news.ycombinator.com/item?id=40899487) - [Modern-day spying: sometimes old technology is more secure](https://www.economist.com/technology-quarterly/2024/07/01/sometimes-the-old-ways-of-espionage-are-the-best)
 * [2024-07-07, 18:21:11](https://news.ycombinator.com/item?id=40899411) - [A brief history of liquid computers (2019)](https://royalsocietypublishing.org/doi/10.1098/rstb.2018.0372)
@@ -30,6 +29,7 @@
 * [2024-07-03, 23:17:20](https://news.ycombinator.com/item?id=40870972) - [Wordsworth Donisthorpe, Blackmail, and the First Motion Pictures](https://publicdomainreview.org/essay/wordsworth-donisthorpe-blackmail-and-the-first-motion-pictures/)
 * [2024-07-03, 16:33:39](https://news.ycombinator.com/item?id=40867585) - [Artificial LIfe ENvironment (ALIEN) is an artificial life simulation tool](https://alien-project.gitbook.io/docs)
 * [2024-07-03, 14:05:30](https://news.ycombinator.com/item?id=40866069) - [Python with Braces](https://github.com/mathialo/bython)
+* [2024-07-02, 16:15:39](https://news.ycombinator.com/item?id=40858060) - [RocketSim enhances and records Xcode Simulators](https://www.rocketsim.app/)
 
 ## [Archives](archives/index.md)
 
