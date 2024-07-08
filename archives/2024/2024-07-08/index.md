@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-07-08](index.md)
 
+* [2024-07-08, 11:26:27](https://news.ycombinator.com/item?id=40904416) - [Db2 is a story worth telling, even if IBM won't](https://www.theregister.com/2024/07/04/db2_a_story_worth_telling/)
+* [2024-07-08, 11:08:12](https://news.ycombinator.com/item?id=40904328) - [Dark mode is not as good for your eyes as you believe](https://www.wired.com/story/dark-mode-chrome-android-ios-science/)
 * [2024-07-08, 10:45:16](https://news.ycombinator.com/item?id=40904232) - [Modern racism rests on scientific theories from the 19th century Essays](https://aeon.co/essays/modern-racism-rests-on-scientific-theories-from-the-19th-century)
 * [2024-07-08, 09:46:00](https://news.ycombinator.com/item?id=40904006) - [LibreOfficeKit API in action: new API to access LibreOffice functionalities](https://dev.blog.documentfoundation.org/2024/06/27/libreofficekit-api-in-action/)
 * [2024-07-08, 09:15:47](https://news.ycombinator.com/item?id=40903870) - [Xpra: Persistent Remote Applications for X11](https://github.com/Xpra-org/xpra)
+* [2024-07-08, 08:42:03](https://news.ycombinator.com/item?id=40903690) - [Ode to a world-saving idea: attribution error and cognitive empathy](https://nonzero.substack.com/p/ode-to-a-world-saving-idea-f4b)
 * [2024-07-08, 07:59:40](https://news.ycombinator.com/item?id=40903465) - [Data Structures Cheat Sheet](https://memgraph.com/blog/data-structures-cheat-sheet)
 * [2024-07-08, 07:59:02](https://news.ycombinator.com/item?id=40903461) - [Sipeed/NanoKVM: NanoKVM: Affordable, Multifunctional, Nano RISC-V IP-KVM](https://github.com/sipeed/NanoKVM)
 * [2024-07-08, 06:25:49](https://news.ycombinator.com/item?id=40903024) - [QuickJS, the Next Generation: a mighty JavaScript engine](https://github.com/quickjs-ng/quickjs)
