@@ -28,6 +28,7 @@
 * [2024-07-05, 19:39:21](https://news.ycombinator.com/item?id=40885397) - [Research into homeopathy: data falsification, fabrication and manipulation](https://www.skeptic.org.uk/2024/07/research-into-homeopathy-data-falsification-fabrication-and-manipulation/)
 * [2024-07-05, 19:13:06](https://news.ycombinator.com/item?id=40885238) - [DuckDB Community Extensions](https://duckdb.org/2024/07/05/community-extensions.html)
 * [2024-07-05, 19:01:13](https://news.ycombinator.com/item?id=40885155) - [YouTube's eraser tool removes copyrighted music without impacting other audio](https://techcrunch.com/2024/07/05/youtubes-updated-eraser-tool-removes-copyrighted-music-without-impacting-other-audio/)
+* [2024-07-05, 18:49:24](https://news.ycombinator.com/item?id=40885082) - [Show HN: Nitrogen Blue Launching from the Forest](https://nitrogenblue.com)
 * [2024-07-05, 18:38:15](https://news.ycombinator.com/item?id=40885003) - [RTO Mandates Are Killing the Euphoric Work-Life Balance Some Moms Found](https://www.bloomberg.com/news/features/2024-06-27/return-to-office-is-killing-work-life-balance-dream-for-moms)
 * [2024-07-05, 18:37:10](https://news.ycombinator.com/item?id=40884998) - [Five common English words we don't know the origins of–including 'boy' and 'dog'](https://phys.org/news/2024-07-common-english-words-dont-boy.html)
 * [2024-07-05, 18:26:35](https://news.ycombinator.com/item?id=40884928) - [What is e to the Power of d/dx? – Shift Operator](https://www.youtube.com/watch?v=INTKzi0qXpY)
