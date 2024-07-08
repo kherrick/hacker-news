@@ -10,6 +10,7 @@
 * [2024-07-08, 15:13:40](https://news.ycombinator.com/item?id=40906141) - [\"Bullshit Jobs\" Is a Terrible, Curiosity-Killing Concept](https://www.thediff.co/archive/bullshit-jobs-is-a-terrible-curiosity-killing-concept/)
 * [2024-07-08, 15:09:43](https://news.ycombinator.com/item?id=40906112) - [Understanding Software Dynamics [book review]](https://www.usenix.org/publications/loginonline/understanding-software-dynamics)
 * [2024-07-08, 14:45:24](https://news.ycombinator.com/item?id=40905899) - [Build your own React (2019)](https://pomb.us/build-your-own-react/)
+* [2024-07-08, 14:44:20](https://news.ycombinator.com/item?id=40905891) - [Python Has Too Many Package Managers](https://dublog.net/blog/so-many-python-package-managers/)
 * [2024-07-08, 14:39:35](https://news.ycombinator.com/item?id=40905849) - [Geomys, a blueprint for a sustainable open-source maintenance firm](https://words.filippo.io/dispatches/geomys/)
 * [2024-07-08, 14:24:24](https://news.ycombinator.com/item?id=40905719) - [Bashbro – Make Any Comp a Web-Based File Server](https://github.com/victrixsoft/bashbro)
 * [2024-07-08, 14:23:17](https://news.ycombinator.com/item?id=40905706) - [For the first time in more than 150 years, Alberta's electricity is coal free](https://www.theglobeandmail.com/canada/alberta/article-for-the-first-time-in-more-than-150-years-albertas-electricity-is-coal/)
