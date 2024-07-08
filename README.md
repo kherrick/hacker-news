@@ -24,12 +24,12 @@
 * [2024-07-08, 12:00:34](https://news.ycombinator.com/item?id=40904587) - [UpCodes (YC S17) is hiring remote SWEs, PMs to help make buildings cheap](https://up.codes/careers?utm_source=HN)
 * [2024-07-08, 09:15:47](https://news.ycombinator.com/item?id=40903870) - [Xpra: Persistent Remote Applications for X11](https://github.com/Xpra-org/xpra)
 * [2024-07-08, 05:04:58](https://news.ycombinator.com/item?id=40902740) - [Do Skis Get Blunt?](https://brooker.co.za/misc-blog/2024/01/23/skis.html)
-* [2024-07-08, 01:52:54](https://news.ycombinator.com/item?id=40902012) - [Show HN: Simulating 20M Particles in JavaScript](https://dgerrells.com/blog/how-fast-is-javascript-simulating-20-000-000-particles)
 * [2024-07-08, 00:27:58](https://news.ycombinator.com/item?id=40901623) - [A Mini Monitor for a Pi](https://noamzeise.com/2024/07/05/mini-monitor.html)
 * [2024-07-06, 01:24:07](https://news.ycombinator.com/item?id=40887521) - [Record 4 Camera Angles at Once Using Only iPhones and iPads](https://www.pcmag.com/news/hands-on-apple-final-cut-camera-final-cut-pro-2-multicam)
 * [2024-07-06, 01:22:25](https://news.ycombinator.com/item?id=40887516) - [Modifying the OG Xbox to have 256M of RAM [video]](https://www.youtube.com/watch?v=1idSEhUT4PM)
 * [2024-07-05, 12:16:12](https://news.ycombinator.com/item?id=40882038) - [How I turned seemingly 'failed' experiments into a successful PhD](https://www.science.org/content/article/how-i-turned-seemingly-failed-experiments-into-a-successful-phd)
 * [2024-07-04, 10:10:45](https://news.ycombinator.com/item?id=40873726) - [Do grayscale images take less space?](https://lu.sagebl.eu/notes/can-i-save-space-with-grayscale-jpegs/)
+* [2024-07-03, 22:46:28](https://news.ycombinator.com/item?id=40870756) - [Ernest Hemingway's brother established a floating republic in the Caribbean](https://www.smithsonianmag.com/history/why-ernest-hemingways-younger-brother-established-a-floating-republic-in-the-caribbean-180984635/)
 
 ## [Archives](archives/index.md)
 
