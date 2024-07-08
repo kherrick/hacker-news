@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-08](index.md)
 
+* [2024-07-08, 10:45:16](https://news.ycombinator.com/item?id=40904232) - [Modern racism rests on scientific theories from the 19th century Essays](https://aeon.co/essays/modern-racism-rests-on-scientific-theories-from-the-19th-century)
 * [2024-07-08, 09:46:00](https://news.ycombinator.com/item?id=40904006) - [LibreOfficeKit API in action: new API to access LibreOffice functionalities](https://dev.blog.documentfoundation.org/2024/06/27/libreofficekit-api-in-action/)
 * [2024-07-08, 09:15:47](https://news.ycombinator.com/item?id=40903870) - [Xpra: Persistent Remote Applications for X11](https://github.com/Xpra-org/xpra)
 * [2024-07-08, 07:59:40](https://news.ycombinator.com/item?id=40903465) - [Data Structures Cheat Sheet](https://memgraph.com/blog/data-structures-cheat-sheet)

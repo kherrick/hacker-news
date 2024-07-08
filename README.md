@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-08, 10:45:16](https://news.ycombinator.com/item?id=40904232) - [Modern racism rests on scientific theories from the 19th century Essays](https://aeon.co/essays/modern-racism-rests-on-scientific-theories-from-the-19th-century)
 * [2024-07-08, 09:46:00](https://news.ycombinator.com/item?id=40904006) - [LibreOfficeKit API in action: new API to access LibreOffice functionalities](https://dev.blog.documentfoundation.org/2024/06/27/libreofficekit-api-in-action/)
 * [2024-07-08, 09:15:47](https://news.ycombinator.com/item?id=40903870) - [Xpra: Persistent Remote Applications for X11](https://github.com/Xpra-org/xpra)
 * [2024-07-08, 07:59:02](https://news.ycombinator.com/item?id=40903461) - [Sipeed/NanoKVM: NanoKVM: Affordable, Multifunctional, Nano RISC-V IP-KVM](https://github.com/sipeed/NanoKVM)
@@ -28,7 +29,6 @@
 * [2024-07-04, 18:02:50](https://news.ycombinator.com/item?id=40876840) - [LivePortrait: A fast, controllable portrait animation model](https://github.com/KwaiVGI/LivePortrait)
 * [2024-07-03, 16:33:39](https://news.ycombinator.com/item?id=40867585) - [Artificial LIfe ENvironment (ALIEN) is an artificial life simulation tool](https://alien-project.gitbook.io/docs)
 * [2024-07-03, 15:25:01](https://news.ycombinator.com/item?id=40866883) - [How the continuum hypothesis could have been a fundamental axiom](https://jdh.hamkins.org/how-ch-could-have-been-fundamental/)
-* [2024-07-03, 14:05:30](https://news.ycombinator.com/item?id=40866069) - [Python with Braces](https://github.com/mathialo/bython)
 * [2024-07-03, 08:57:23](https://news.ycombinator.com/item?id=40864085) - [Leonhard Euler's Letters to a German Princess](https://mathshistory.st-andrews.ac.uk/Extras/Euler_letters/)
 
 ## [Archives](archives/index.md)
