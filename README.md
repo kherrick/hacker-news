@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-08, 18:01:38](https://news.ycombinator.com/item?id=40907661) - [Never ask a candidate to rate themselves out of 10](https://think-twice.me/?p=70)
+* [2024-07-08, 18:24:02](https://news.ycombinator.com/item?id=40907899) - [The EU Goes Too Far](https://stratechery.com/2024/the-e-u-goes-too-far/)
 * [2024-07-08, 17:54:07](https://news.ycombinator.com/item?id=40907600) - [Mass tourism protesters squirt water at Barcelona tourists](https://www.bbc.com/news/videos/c0dm9w2ey7po)
 * [2024-07-08, 17:52:23](https://news.ycombinator.com/item?id=40907581) - [Entering text in the terminal is complicated](https://jvns.ca/blog/2024/07/08/readline/)
 * [2024-07-08, 17:46:37](https://news.ycombinator.com/item?id=40907528) - [Show HN: I coded my own JSON translation tool to easily localize my side project](https://www.quicklang.app/en)
@@ -23,9 +23,9 @@
 * [2024-07-08, 00:27:58](https://news.ycombinator.com/item?id=40901623) - [A Mini Monitor for a Pi](https://noamzeise.com/2024/07/05/mini-monitor.html)
 * [2024-07-07, 18:09:25](https://news.ycombinator.com/item?id=40899309) - [Reasoning in Large Language Models: A Geometric Perspective](https://arxiv.org/abs/2407.02678)
 * [2024-07-07, 17:59:31](https://news.ycombinator.com/item?id=40899242) - [Show HN: A modern Jupyter client for macOS](https://satyrn.app/)
+* [2024-07-07, 13:20:37](https://news.ycombinator.com/item?id=40897506) - [A reawakening of systems programming meetups](https://notes.eatonphil.com/2024-07-07-systems-meetups.html)
 * [2024-07-06, 01:24:07](https://news.ycombinator.com/item?id=40887521) - [Record 4 Camera Angles at Once Using Only iPhones and iPads](https://www.pcmag.com/news/hands-on-apple-final-cut-camera-final-cut-pro-2-multicam)
 * [2024-07-06, 01:22:25](https://news.ycombinator.com/item?id=40887516) - [Modifying the OG Xbox to have 256M of RAM [video]](https://www.youtube.com/watch?v=1idSEhUT4PM)
-* [2024-07-05, 18:37:10](https://news.ycombinator.com/item?id=40884998) - [Five common English words we don't know the origins of–including 'boy' and 'dog'](https://phys.org/news/2024-07-common-english-words-dont-boy.html)
 * [2024-07-05, 18:25:29](https://news.ycombinator.com/item?id=40884917) - [Refined Input, Degraded Output: The Counterintuitive World of Compiler Behavior](https://dl.acm.org/doi/10.1145/3656404)
 * [2024-07-05, 06:41:50](https://news.ycombinator.com/item?id=40880302) - [Detect Migrating Birds with a Plastic Dish and a Cheap Microphone](https://spectrum.ieee.org/detect-migrating-birds-with-sound)
 * [2024-07-04, 10:10:45](https://news.ycombinator.com/item?id=40873726) - [Do grayscale images take less space?](https://lu.sagebl.eu/notes/can-i-save-space-with-grayscale-jpegs/)

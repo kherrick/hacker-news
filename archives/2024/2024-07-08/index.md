@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-08](index.md)
 
+* [2024-07-08, 18:24:02](https://news.ycombinator.com/item?id=40907899) - [The EU Goes Too Far](https://stratechery.com/2024/the-e-u-goes-too-far/)
 * [2024-07-08, 18:01:38](https://news.ycombinator.com/item?id=40907661) - [Never ask a candidate to rate themselves out of 10](https://think-twice.me/?p=70)
 * [2024-07-08, 17:54:07](https://news.ycombinator.com/item?id=40907600) - [Mass tourism protesters squirt water at Barcelona tourists](https://www.bbc.com/news/videos/c0dm9w2ey7po)
 * [2024-07-08, 17:52:23](https://news.ycombinator.com/item?id=40907581) - [Entering text in the terminal is complicated](https://jvns.ca/blog/2024/07/08/readline/)
