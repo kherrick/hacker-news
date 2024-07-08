@@ -40,6 +40,7 @@
 * [2024-07-06, 18:02:05](https://news.ycombinator.com/item?id=40892019) - [China Cracks Down on Extreme Nationalism and Hate-Speech After Suzhou Slaying](https://chinadigitaltimes.net/2024/07/chinese-social-media-platforms-launch-crackdown-on-extreme-nationalism-and-xenophobic-hate-speech-after-fatal-suzhou-stabbing/)
 * [2024-07-06, 17:47:34](https://news.ycombinator.com/item?id=40891932) - [Emergency rooms are not okay](https://yourlocalepidemiologist.substack.com/p/emergency-rooms-are-not-okay)
 * [2024-07-06, 17:21:49](https://news.ycombinator.com/item?id=40891771) - [Evaluating a Decade of Hacker News Predictions: An Open-Source Approach](https://eamag.me/2024/HackerNews-Prediction-Evaluator)
+* [2024-07-06, 17:01:50](https://news.ycombinator.com/item?id=40891659) - [Interactive Bolide Data Visualizer](https://bolides.seti.org/)
 * [2024-07-06, 17:00:31](https://news.ycombinator.com/item?id=40891651) - [Patterns (YC S21), hiring to build a universal finance and accounting data model](https://patterns.app/)
 * [2024-07-06, 17:00:16](https://news.ycombinator.com/item?id=40891649) - [Eddy Cue: 'After 36 years at Apple, I'm still learning every day'](https://appleinsider.com/articles/24/07/06/eddy-cue-after-36-years-at-apple-im-still-learning-every-day)
 * [2024-07-06, 16:59:17](https://news.ycombinator.com/item?id=40891643) - [Show HN: Bash Dungeon – An educational dungeon crawler in the shell](https://github.com/wolandark/bash-dungeon)

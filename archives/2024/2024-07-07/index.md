@@ -9,6 +9,7 @@
 * [2024-07-07, 21:16:18](https://news.ycombinator.com/item?id=40900495) - [Construction of the 4th Chinese aircraft carrier has reportedly started](https://meta-defense.fr/en/2024/07/06/4-Chinese-aircraft-carriers-construction/)
 * [2024-07-07, 21:01:44](https://news.ycombinator.com/item?id=40900417) - [Continue (YC S23) Is Hiring a Full-Stack Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-full-stack-engineer)
 * [2024-07-07, 20:16:02](https://news.ycombinator.com/item?id=40900146) - [From the Tensor to Stable Diffusion](https://github.com/jla524/fromthetensor)
+* [2024-07-07, 19:58:22](https://news.ycombinator.com/item?id=40900029) - [Unit is a general purpose visual programming system](https://unit.software/)
 * [2024-07-07, 19:54:36](https://news.ycombinator.com/item?id=40900000) - [Gen AI: Too much spend, too little benefit [pdf]](https://www.goldmansachs.com/intelligence/pages/gs-research/gen-ai-too-much-spend-too-little-benefit/report.pdf)
 * [2024-07-07, 19:26:03](https://news.ycombinator.com/item?id=40899814) - [Apple M5 Chip's Dual-Use Design Will Power Future Macs and AI Servers](https://www.macrumors.com/2024/07/04/apple-m5-chips-advanced-packaging-tsmc/)
 * [2024-07-07, 19:21:51](https://news.ycombinator.com/item?id=40899778) - [ICANN's list of abandoned vanity TLDs, which now has about 134 entries](https://www.icann.org/resources/pages/gtld-registry-agreement-termination-2015-10-09-en)
