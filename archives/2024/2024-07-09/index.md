@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-09](index.md)
 
+* [2024-07-09, 20:05:21](https://news.ycombinator.com/item?id=40920497) - [How to Come Back Stronger from Organizational Trauma](https://sloanreview.mit.edu/article/how-to-come-back-stronger-from-organizational-trauma/)
+* [2024-07-09, 19:49:11](https://news.ycombinator.com/item?id=40920261) - [Arrow's Impossibility Theorem [video]](https://www.youtube.com/watch?v=AhVR7gFMKNg)
+* [2024-07-09, 19:48:39](https://news.ycombinator.com/item?id=40920256) - [Pulitzer winning reporter faces jail for protecting funding scandal sources](https://www.nbcnews.com/investigations/anna-wolfe-pulitzer-mississippi-welfare-scandal-phil-bryant-rcna159936)
 * [2024-07-09, 19:38:44](https://news.ycombinator.com/item?id=40920125) - [Let's Treat Docs Like Code](https://www.docslikecode.com/)
 * [2024-07-09, 19:23:42](https://news.ycombinator.com/item?id=40919903) - [Google One 'Dark web reports' coming to all Google Account holders in late July](https://9to5google.com/2024/07/09/google-one-dark-web-reports-all-google-accounts/)
 * [2024-07-09, 19:20:18](https://news.ycombinator.com/item?id=40919845) - [Boeing sold just three passenger jets in the past month](https://www.cnn.com/2024/07/09/business/boeing-sales/index.html)
@@ -14,6 +17,7 @@
 * [2024-07-09, 18:25:03](https://news.ycombinator.com/item?id=40919253) - [Judge dismisses DMCA copyright claim in GitHub Copilot suit](https://www.theregister.com/2024/07/08/github_copilot_dmca/)
 * [2024-07-09, 18:12:57](https://news.ycombinator.com/item?id=40919139) - [Spain sentences 15 schoolchildren over AI-generated naked images](https://www.theguardian.com/world/article/2024/jul/09/spain-sentences-15-school-children-over-ai-generated-naked-images)
 * [2024-07-09, 17:42:04](https://news.ycombinator.com/item?id=40918829) - [Don't use 7-segment displays [pdf]](https://harold.thimbleby.net/cv/files/seven-segment.pdf)
+* [2024-07-09, 17:39:07](https://news.ycombinator.com/item?id=40918794) - [Show HN: I built a WASM-console using WebAssembly and tinygo](https://github.com/rajatjindal/wasm-console)
 * [2024-07-09, 17:38:52](https://news.ycombinator.com/item?id=40918790) - [Unreal Engine 5 in WebGPU](https://twitter.com/AlexStLouis10/status/1810514325632659742)
 * [2024-07-09, 17:20:11](https://news.ycombinator.com/item?id=40918553) - [The Impact of the Kaspersky Ban](https://www.bitsight.com/blog/impact-kaspersky-ban)
 * [2024-07-09, 17:00:03](https://news.ycombinator.com/item?id=40918300) - [Meticulous (YC S21) is hiring to eliminate E2E tests](https://news.ycombinator.com/item?id=40918300)
