@@ -94,6 +94,7 @@
 * [2024-07-05, 06:46:24](https://news.ycombinator.com/item?id=40880322) - [Why Vivaldi won't follow the current AI trend?](https://vivaldi.com/blog/technology/vivaldi-wont-allow-a-machine-to-lie-to-you/)
 * [2024-07-05, 06:41:50](https://news.ycombinator.com/item?id=40880302) - [Detect Migrating Birds with a Plastic Dish and a Cheap Microphone](https://spectrum.ieee.org/detect-migrating-birds-with-sound)
 * [2024-07-05, 05:38:18](https://news.ycombinator.com/item?id=40880077) - [Sony Is Killing the Blu-ray, but Physical Media Isn't Dead Yet](https://www.kotaku.com.au/2024/07/sony-is-killing-the-blu-ray-but-physical-media-isnt-dead-yet/)
+* [2024-07-05, 04:53:55](https://news.ycombinator.com/item?id=40879924) - [Trackmania Nightmares](https://hallofdreams.org/posts/trackmania-2/)
 * [2024-07-05, 04:48:03](https://news.ycombinator.com/item?id=40879899) - [\"Technical\" Skills](https://sashalaundy.com/writing/technical-skills/)
 * [2024-07-05, 04:45:14](https://news.ycombinator.com/item?id=40879895) - [Alexander Abian](https://en.wikipedia.org/wiki/Alexander_Abian)
 * [2024-07-05, 03:43:18](https://news.ycombinator.com/item?id=40879679) - [Uncovering Every Lie in MKBHD's Softball Interview [video]](https://www.youtube.com/watch?v=Z0DF-MOkotA)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-08](index.md)
 
+* [2024-07-08, 23:29:46](https://news.ycombinator.com/item?id=40910913) - [Show HN: I built a IMDB for all kinds of micro-creators](https://fanzine.world/)
+* [2024-07-08, 23:14:10](https://news.ycombinator.com/item?id=40910792) - [Mouse Heaven or Mouse Hell?](https://www.sciencehistory.org/stories/magazine/mouse-heaven-or-mouse-hell/)
 * [2024-07-08, 23:12:08](https://news.ycombinator.com/item?id=40910776) - [Some Florida cities are living off red light cameras](https://www.wlrn.org/wlrn-investigations/2024-07-05/red-light-cameras-miami-florida)
 * [2024-07-08, 21:51:12](https://news.ycombinator.com/item?id=40910130) - [SF's AI boom can't stop real estate slide, as office vacancies reach new record](https://www.cnbc.com/2024/07/08/san-franciscos-real-estate-slide-continues-as-office-vacancies-peak.html)
 * [2024-07-08, 21:50:54](https://news.ycombinator.com/item?id=40910122) - [Glest – The free real-time strategy game](https://glest.org/en/index.php)
@@ -12,6 +14,7 @@
 * [2024-07-08, 20:52:01](https://news.ycombinator.com/item?id=40909554) - [How we tamed Node.js event loop lag: a deepdive](https://trigger.dev/blog/event-loop-lag)
 * [2024-07-08, 20:38:24](https://news.ycombinator.com/item?id=40909418) - [The Lancet: Counting the Dead in Gaza](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)01169-3/fulltext)
 * [2024-07-08, 20:35:48](https://news.ycombinator.com/item?id=40909390) - [Negative Temperature](https://en.wikipedia.org/wiki/Negative_temperature)
+* [2024-07-08, 20:29:40](https://news.ycombinator.com/item?id=40909334) - [The Deadlock Empire: An Interactive Guide to Locks](https://deadlockempire.github.io)
 * [2024-07-08, 20:29:08](https://news.ycombinator.com/item?id=40909327) - [Making My Own Wedding Rings](https://geoff.greer.fm/2024/07/07/making-my-own-wedding-rings/)
 * [2024-07-08, 20:08:03](https://news.ycombinator.com/item?id=40909076) - [DB Browser for SQLite (Windows, macOS, and Most Versions of Linux)](https://sqlitebrowser.org/)
 * [2024-07-08, 20:02:56](https://news.ycombinator.com/item?id=40909006) - [Plausible Analytics: GDPR Compliance w/o Cookie Consent Banner](https://plausible.io/)
