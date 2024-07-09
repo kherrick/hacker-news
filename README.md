@@ -1,11 +1,12 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-09, 15:33:29](https://news.ycombinator.com/item?id=40917312) - [Linksys Velop routers send Wi-Fi passwords in plaintext to US servers](https://stackdiary.com/linksys-velop-routers-send-wi-fi-passwords-in-plaintext-to-us-servers/)
+* [2024-07-09, 15:32:29](https://news.ycombinator.com/item?id=40917299) - [Another AI Company Wrote Us and Here's Our Response](https://warandpeas.com/2024/07/09/another-ai-company-wrote-us-and-heres-our-response/)
 * [2024-07-09, 15:22:51](https://news.ycombinator.com/item?id=40917173) - [Etsy loses its 'handmade' and 'vintage' labels as it takes on Temu and Amazon](https://www.theverge.com/2024/7/9/24190843/etsy-handmade-vintage-policy-change)
 * [2024-07-09, 15:21:56](https://news.ycombinator.com/item?id=40917158) - [AI Humane execs leave company to found AI fact-checking startup](https://techcrunch.com/2024/07/09/humane-execs-leave-company-to-found-ai-fact-checking-startup/)
+* [2024-07-09, 15:07:17](https://news.ycombinator.com/item?id=40916983) - [Google Is No Longer Claiming to Be Carbon Neutral](https://www.bloomberg.com/news/articles/2024-07-08/google-is-no-longer-claiming-to-be-carbon-neutral)
 * [2024-07-09, 14:51:25](https://news.ycombinator.com/item?id=40916820) - [CVE-2024-6409: OpenSSH: Possible remote code execution in privsep child](https://www.openwall.com/lists/oss-security/2024/07/08/2)
 * [2024-07-09, 14:20:21](https://news.ycombinator.com/item?id=40916486) - [Scientists create a cell that precludes malignant growth](https://phys.org/news/2024-07-scientists-cell-precludes-malignant-growth.html)
-* [2024-07-09, 14:19:56](https://news.ycombinator.com/item?id=40916481) - [Let's 'Double-Click' on the Latest Cringeworthy Corporate Buzzword](https://www.wsj.com/lifestyle/workplace/double-click-corporate-buzzword-cringe-421e8cce)
 * [2024-07-09, 14:01:20](https://news.ycombinator.com/item?id=40916260) - [Evolve Bank and Trust confirms LockBit stole 7.6M people's data](https://www.theregister.com/2024/07/09/evolve_lockbit_attack/)
 * [2024-07-09, 13:54:59](https://news.ycombinator.com/item?id=40916193) - [Scoped Propagators](https://www.orionreed.com/posts/scoped-propagators)
 * [2024-07-09, 12:01:37](https://news.ycombinator.com/item?id=40915082) - [PySkyWiFi: Free stupid wi-fi on long-haul flights](https://robertheaton.com/pyskywifi/)
@@ -29,7 +30,6 @@
 * [2024-07-06, 17:33:51](https://news.ycombinator.com/item?id=40891846) - [Inline previous result in Emacs Lisp](https://xenodium.com/inline-previous-result-and-why-you-should-edebug/)
 * [2024-07-06, 15:32:17](https://news.ycombinator.com/item?id=40891003) - [The Invention of Zero: How Ancient Mesopotamia Created the Concept of Nought](https://www.themarginalian.org/2017/02/02/zero-robert-kaplan/)
 * [2024-07-05, 12:16:12](https://news.ycombinator.com/item?id=40882038) - [How I turned seemingly 'failed' experiments into a successful PhD](https://www.science.org/content/article/how-i-turned-seemingly-failed-experiments-into-a-successful-phd)
-* [2024-07-04, 20:45:52](https://news.ycombinator.com/item?id=40877909) - [The War on Estonian Forests (2022)](https://daveon.design/the-war-on-estonian-forests.html)
 
 ## [Archives](archives/index.md)
 
