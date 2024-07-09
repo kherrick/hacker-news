@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-09](index.md)
 
+* [2024-07-09, 19:38:44](https://news.ycombinator.com/item?id=40920125) - [Let's Treat Docs Like Code](https://www.docslikecode.com/)
 * [2024-07-09, 19:23:42](https://news.ycombinator.com/item?id=40919903) - [Google One 'Dark web reports' coming to all Google Account holders in late July](https://9to5google.com/2024/07/09/google-one-dark-web-reports-all-google-accounts/)
 * [2024-07-09, 19:20:18](https://news.ycombinator.com/item?id=40919845) - [Boeing sold just three passenger jets in the past month](https://www.cnn.com/2024/07/09/business/boeing-sales/index.html)
 * [2024-07-09, 19:09:55](https://news.ycombinator.com/item?id=40919707) - [Master controller of aging and development uncovered](https://longevity.technology/news/master-controller-of-aging-and-development-uncovered/)
@@ -20,6 +21,7 @@
 * [2024-07-09, 16:56:37](https://news.ycombinator.com/item?id=40918267) - [Electric Vehicle Batteries Surprising New Source of 'Forever Chemical' Pollution](https://www.businessinsider.com/ev-batteries-pfas-forever-chemicals-scientists-say-2024-7)
 * [2024-07-09, 16:45:01](https://news.ycombinator.com/item?id=40918152) - [Ask HN: How Do Browsers Isolate Internal Audio from Microphone Input?](https://news.ycombinator.com/item?id=40918152)
 * [2024-07-09, 16:42:11](https://news.ycombinator.com/item?id=40918120) - [A Brand-New Electric Bus, No Charge](https://www.nytimes.com/2024/07/09/climate/electric-school-bus-wymore.html)
+* [2024-07-09, 16:37:12](https://news.ycombinator.com/item?id=40918070) - [Dotenvx: A better dotenv – from the creator of `dotenv`](https://github.com/dotenvx/dotenvx)
 * [2024-07-09, 16:35:11](https://news.ycombinator.com/item?id=40918052) - [Google Chrome has a special hidden API accesible only from *.google.com](https://twitter.com/lcasdev/status/1810696257137959018)
 * [2024-07-09, 16:34:51](https://news.ycombinator.com/item?id=40918047) - [Google advertisement for \"Wordle\" returns a spam fishing result](https://www.google.com/search?q=wordle&sca_esv=5bbe78ef35325a50&sca_upv=1&source=hp&ei=5mWNZsTRIY3LkPIPgeaW8Ak&iflsig=AL9hbdgAAAAAZo1z9i2jRGPPatGkQNfM9D22vwRLXn-f&ved=0ahUKEwjE3ISBsZqHAxWNJUQIHQGzBZ4Q4dUDCA8&uact=5&oq=wordle&gs_lp=Egdnd3Mtd2l6IgZ3b3JkbGUyCxAAGIAEGLEDGIMBMgsQABiABBixAxiDATILEAAYgAQYsQMYgwEyCBAAGIAEGLEDMgsQABiABBixAxiDATIIEAAYgAQYsQMyCBAAGIAEGLEDMggQABiABBixAzIIEAAYgAQYsQMyCxAAGIAEGLEDGIMBSNoIUABY6QdwAXgAkAEAmAFIoAGaA6oBATe4AQPIAQD4AQGYAgigAqsDwgIREC4YgAQYsQMY0QMYgwEYxwHCAg4QABiABBixAxiDARiKBcICDhAuGIAEGLEDGIMBGIoFwgIFEC4YgATCAgUQABiABMICDRAAGIAEGLEDGIMBGArCAgsQLhiABBixAxiDAZgDAJIHATigB5Ew&sclient=gws-wiz)
 * [2024-07-09, 15:55:13](https://news.ycombinator.com/item?id=40917568) - [Attention Is a Proof of Love](https://papanotes.com/attention-is-a-proof-of-love)
