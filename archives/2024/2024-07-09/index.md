@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-07-09](index.md)
 
+* [2024-07-09, 10:04:28](https://news.ycombinator.com/item?id=40914279) - [Ranking Fields by p-Value Suspiciousness](https://www.cremieux.xyz/p/ranking-fields-by-p-value-suspiciousness)
 * [2024-07-09, 10:00:04](https://news.ycombinator.com/item?id=40914244) - [FAA orders inspection of 2,600 Boeing 737s over oxygen mask issue](https://www.reuters.com/business/aerospace-defense/faa-orders-inspections-2600-boeing-737-airplanes-over-oxygen-mask-issue-2024-07-08/)
 * [2024-07-09, 09:20:50](https://news.ycombinator.com/item?id=40914029) - [HP discontinues online-only LaserJet printers in response to backlash](https://www.tomshardware.com/peripherals/printers/hp-discontinues-online-only-laserjet-printers-in-response-to-backlash)
 * [2024-07-09, 09:19:53](https://news.ycombinator.com/item?id=40914020) - [Surprising Gender Biases in GPT](https://osf.io/preprints/psyarxiv/mp27q)
 * [2024-07-09, 09:00:05](https://news.ycombinator.com/item?id=40913915) - [Microsoft's Xandr grants GDPR rights at a rate of 0%](https://noyb.eu/en/microsofts-xandr-grants-gdpr-rights-rate-0)
+* [2024-07-09, 08:47:49](https://news.ycombinator.com/item?id=40913835) - [A key part of America's economy has shifted into reverse](https://www.cnn.com/2024/07/07/economy/stocks-week-ahead-services-sector-slow-restaurants-stores/index.html)
 * [2024-07-09, 08:30:38](https://news.ycombinator.com/item?id=40913736) - [Show HN: Crawlee for Python – a web scraping and browser automation library](https://crawlee.dev/python/)
 * [2024-07-09, 07:49:37](https://news.ycombinator.com/item?id=40913542) - [Sexsomnia: What to Know About Sleep Sex](https://www.sleepfoundation.org/parasomnias/sexsomnia)
 * [2024-07-09, 07:28:20](https://news.ycombinator.com/item?id=40913430) - [The Psychology of Obstinacy (1943)](https://www.tandfonline.com/doi/pdf/10.1080/21674086.1943.11925528)
