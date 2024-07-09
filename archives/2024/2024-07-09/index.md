@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-09](index.md)
 
+* [2024-07-09, 14:51:25](https://news.ycombinator.com/item?id=40916820) - [CVE-2024-6409: OpenSSH: Possible remote code execution in privsep child](https://www.openwall.com/lists/oss-security/2024/07/08/2)
+* [2024-07-09, 14:44:10](https://news.ycombinator.com/item?id=40916733) - [Ransomware Gang Leaks Data Allegedly Stolen from Florida Department of Health](https://www.securityweek.com/ransomware-gang-leaks-data-allegedly-stolen-from-florida-department-of-health/)
 * [2024-07-09, 14:41:01](https://news.ycombinator.com/item?id=40916700) - [Wikipedia summoned by Delhi High Court over ANI defamation allegations](https://www.cnbctv18.com/india/wikipedia-summoned-by-delhi-high-court-over-ani-defamation-allegations-19440644.htm)
 * [2024-07-09, 14:39:33](https://news.ycombinator.com/item?id=40916677) - [Philips Hue bulbs are randomly turning brightness to 100%](https://appleinsider.com/articles/24/07/09/if-your-philips-hue-bulbs-are-randomly-cranking-up-to-100-on-their-own-youre-not-alone)
 * [2024-07-09, 14:33:41](https://news.ycombinator.com/item?id=40916618) - [FedEx's Secretive Police Force Is Helping Cops Build a Car Surveillance Network](https://www.forbes.com/sites/thomasbrewster/2024/06/19/fedex-police-help-cops-build-an-ai-car-surveillance-network/)
@@ -12,8 +14,11 @@
 * [2024-07-09, 14:26:57](https://news.ycombinator.com/item?id=40916547) - [Dyson to axe around 1k jobs in Britain](https://www.reuters.com/business/dyson-axe-around-1000-jobs-britain-2024-07-09/)
 * [2024-07-09, 14:21:58](https://news.ycombinator.com/item?id=40916498) - [Civil Rights Analyst Calls FedEx Surveillance Program 'Profoundly Disconcerting'](https://www.msn.com/en-us/money/news/is-fedex-spying-on-you-civil-rights-analyst-calls-ai-surveillance-program-profoundly-disconcerting/ar-BB1pdUBB)
 * [2024-07-09, 14:20:21](https://news.ycombinator.com/item?id=40916486) - [Scientists create a cell that precludes malignant growth](https://phys.org/news/2024-07-scientists-cell-precludes-malignant-growth.html)
+* [2024-07-09, 14:19:56](https://news.ycombinator.com/item?id=40916481) - [Let's 'Double-Click' on the Latest Cringeworthy Corporate Buzzword](https://www.wsj.com/lifestyle/workplace/double-click-corporate-buzzword-cringe-421e8cce)
+* [2024-07-09, 14:13:04](https://news.ycombinator.com/item?id=40916411) - [Microsoft's Weather app now shows more ads](https://www.ghacks.net/2024/07/01/microsofts-weather-app-now-displays-more-ads/)
 * [2024-07-09, 14:02:06](https://news.ycombinator.com/item?id=40916271) - [Middlemen have outsized influence on drug prices due to market consolidation,FTC](https://www.cnbc.com/2024/07/09/middlemen-have-outsized-influence-on-us-drug-prices-due-to-market-consolidation-ftc-says.html)
 * [2024-07-09, 14:01:54](https://news.ycombinator.com/item?id=40916268) - [Users rage Microsoft announces retirement of Office 365 connectors within Teams](https://www.theregister.com/2024/07/09/users_rage_as_microsoft_announces/)
+* [2024-07-09, 14:01:20](https://news.ycombinator.com/item?id=40916260) - [Evolve Bank and Trust confirms LockBit stole 7.6M people's data](https://www.theregister.com/2024/07/09/evolve_lockbit_attack/)
 * [2024-07-09, 13:59:52](https://news.ycombinator.com/item?id=40916247) - [Show HN: A Chrome extension that auto-blocks \"woke\" videos on YouTube Kids](https://chromewebstore.google.com/detail/woke-blocker/gbogkjhngbnejieekkbjclachoepfjeh)
 * [2024-07-09, 13:54:59](https://news.ycombinator.com/item?id=40916193) - [Scoped Propagators](https://www.orionreed.com/posts/scoped-propagators)
 * [2024-07-09, 13:46:06](https://news.ycombinator.com/item?id=40916089) - [Effective altruism is stumbling. Can \"moral ambition\" replace it?](https://bigthink.com/high-culture/effective-altruism-moral-ambition/)
