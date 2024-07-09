@@ -4,13 +4,18 @@
 
 ### [Archives](../../index.md) for [2024-07-09](index.md)
 
+* [2024-07-09, 21:40:44](https://news.ycombinator.com/item?id=40921511) - [Daylight eInk Computer](https://daylightcomputer.com)
 * [2024-07-09, 21:31:18](https://news.ycombinator.com/item?id=40921398) - [A small studio made a game based on Stanislaw Lem's novel](https://invinciblethegame.com/)
+* [2024-07-09, 21:24:29](https://news.ycombinator.com/item?id=40921335) - [Show HN: Save your cells for future aging therapies](https://ambrogia.bio)
 * [2024-07-09, 20:54:11](https://news.ycombinator.com/item?id=40920980) - [Metal Thieves Are Stripping America's Cities](https://www.nytimes.com/2024/07/09/us/copper-theft-heavy-metal.html)
+* [2024-07-09, 20:53:07](https://news.ycombinator.com/item?id=40920969) - [Ask HN: Why are 404 Media posts auto-killed?](https://news.ycombinator.com/item?id=40920969)
+* [2024-07-09, 20:36:53](https://news.ycombinator.com/item?id=40920812) - [Show HN → Parallel DOM: Upgrade your DOM to be multithreaded](https://www.pdom.dev/)
 * [2024-07-09, 20:33:25](https://news.ycombinator.com/item?id=40920776) - [IPAD-OS](http://www.ipadowners.org/ipad-os.htm)
 * [2024-07-09, 20:05:21](https://news.ycombinator.com/item?id=40920497) - [How to Come Back Stronger from Organizational Trauma](https://sloanreview.mit.edu/article/how-to-come-back-stronger-from-organizational-trauma/)
 * [2024-07-09, 19:49:11](https://news.ycombinator.com/item?id=40920261) - [Arrow's Impossibility Theorem [video]](https://www.youtube.com/watch?v=AhVR7gFMKNg)
 * [2024-07-09, 19:48:39](https://news.ycombinator.com/item?id=40920256) - [Pulitzer winning reporter faces jail for protecting funding scandal sources](https://www.nbcnews.com/investigations/anna-wolfe-pulitzer-mississippi-welfare-scandal-phil-bryant-rcna159936)
 * [2024-07-09, 19:38:44](https://news.ycombinator.com/item?id=40920125) - [Let's Treat Docs Like Code](https://www.docslikecode.com/)
+* [2024-07-09, 19:38:36](https://news.ycombinator.com/item?id=40920122) - [How CD Pregaps Gained Their Hidden Track Superpowers](https://tedium.co/2024/07/06/compact-disc-pregap-history/)
 * [2024-07-09, 19:23:42](https://news.ycombinator.com/item?id=40919903) - [Google One 'Dark web reports' coming to all Google Account holders in late July](https://9to5google.com/2024/07/09/google-one-dark-web-reports-all-google-accounts/)
 * [2024-07-09, 19:20:18](https://news.ycombinator.com/item?id=40919845) - [Boeing sold just three passenger jets in the past month](https://www.cnn.com/2024/07/09/business/boeing-sales/index.html)
 * [2024-07-09, 19:09:55](https://news.ycombinator.com/item?id=40919707) - [Master controller of aging and development uncovered](https://longevity.technology/news/master-controller-of-aging-and-development-uncovered/)
