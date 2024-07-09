@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-09, 21:24:42](https://news.ycombinator.com/item?id=40921336) - [Framework Laptop 13 Deep Dive: A laptop webcam with smartphone technology](https://frame.work/blog/framework-laptop-13-deep-dive---a-laptop-webcam-with-smartphone-technology)
-* [2024-07-09, 21:23:14](https://news.ycombinator.com/item?id=40921321) - [Family fight Samsung over fridge odour they say caused dizziness and memory loss](https://www.abc.net.au/news/2024-07-10/victorian-family-battles-samsung-over-fridge-odour/104071036)
 * [2024-07-09, 20:36:53](https://news.ycombinator.com/item?id=40920812) - [Show HN: Parallel DOM – Upgrade your DOM to be multithreaded](https://www.pdom.dev/)
 * [2024-07-09, 20:23:12](https://news.ycombinator.com/item?id=40920681) - [Show HN: Maelstrom – A Hermetic, Clustered Test Runner for Python and Rust](https://github.com/maelstrom-software/maelstrom)
 * [2024-07-09, 19:47:32](https://news.ycombinator.com/item?id=40920246) - [How to validate a market with development boards and SD cards](https://flyingcarcomputer.com/posts/how-to-validate-market-with-development-board/)
@@ -23,6 +22,7 @@
 * [2024-07-09, 06:01:47](https://news.ycombinator.com/item?id=40912920) - [Show HN: Tegon: Open-source alternative to Jira, Linear](https://github.com/tegonhq/tegon)
 * [2024-07-09, 05:07:07](https://news.ycombinator.com/item?id=40912684) - [The zombie misconception of theoretical computer science](https://scottaaronson.blog/?p=8106)
 * [2024-07-09, 00:54:13](https://news.ycombinator.com/item?id=40911500) - [Sljit: Platform independent low-level JIT compiler](https://github.com/zherczeg/sljit)
+* [2024-07-08, 14:45:49](https://news.ycombinator.com/item?id=40905904) - [Ask HN: Should I consolidate my blogs into one?](https://news.ycombinator.com/item?id=40905904)
 * [2024-07-07, 16:04:41](https://news.ycombinator.com/item?id=40898525) - [Tim Doucette, a blind astronomer who built the Deep Sky Eye Observatory](https://www.amiplus.ca/m/eCGPTwFA/deep-sky-eye?seriesId=Show%2FOur+Community)
 * [2024-07-07, 14:52:57](https://news.ycombinator.com/item?id=40898118) - [International Reply Coupon](https://en.wikipedia.org/wiki/International_reply_coupon)
 * [2024-07-06, 17:33:51](https://news.ycombinator.com/item?id=40891846) - [Inline previous result in Emacs Lisp](https://xenodium.com/inline-previous-result-and-why-you-should-edebug/)
