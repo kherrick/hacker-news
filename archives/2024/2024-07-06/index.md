@@ -56,6 +56,7 @@
 * [2024-07-06, 16:07:52](https://news.ycombinator.com/item?id=40891306) - [A Thousand Primers, Not Just One](https://mssv.net/2024/07/06/a-thousand-primers-not-just-one/)
 * [2024-07-06, 16:01:25](https://news.ycombinator.com/item?id=40891252) - [First anode-free sodium solid-state battery](https://pme.uchicago.edu/news/uchicago-prof-shirley-mengs-laboratory-energy-storage-and-conversion-creates-worlds-first)
 * [2024-07-06, 15:50:33](https://news.ycombinator.com/item?id=40891162) - [A Dramatic Reading: I Will Fucking Piledrive You If You Mention AI Again](https://mccue.dev/pages/7-5-24-a-reading-i-will-fucking-piledrive-you-if-you-mention-ai-again)
+* [2024-07-06, 15:32:17](https://news.ycombinator.com/item?id=40891003) - [The Invention of Zero: How Ancient Mesopotamia Created the Concept of Nought](https://www.themarginalian.org/2017/02/02/zero-robert-kaplan/)
 * [2024-07-06, 15:07:30](https://news.ycombinator.com/item?id=40890847) - [Teaching General Problem-Solving Skills Is Not a Substitute for Teaching Math [pdf]](https://www.ams.org/notices/201010/rtx101001303p.pdf)
 * [2024-07-06, 14:31:26](https://news.ycombinator.com/item?id=40890668) - [The A.I. Bubble is Bursting with Ed Zitron [video]](https://www.youtube.com/watch?v=T8ByoAt5gCA)
 * [2024-07-06, 14:23:16](https://news.ycombinator.com/item?id=40890633) - [Crystal Fragment Turns Everything You See into 8-Bit Pixel Art](https://www.yankodesign.com/2024/07/04/this-crystal-fragment-turns-everything-you-see-into-8-bit-pixel-art-and-its-fascinating/)
