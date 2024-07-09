@@ -4,7 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-07-09](index.md)
 
+* [2024-07-09, 14:41:01](https://news.ycombinator.com/item?id=40916700) - [Wikipedia summoned by Delhi High Court over ANI defamation allegations](https://www.cnbctv18.com/india/wikipedia-summoned-by-delhi-high-court-over-ani-defamation-allegations-19440644.htm)
+* [2024-07-09, 14:39:33](https://news.ycombinator.com/item?id=40916677) - [Philips Hue bulbs are randomly turning brightness to 100%](https://appleinsider.com/articles/24/07/09/if-your-philips-hue-bulbs-are-randomly-cranking-up-to-100-on-their-own-youre-not-alone)
+* [2024-07-09, 14:33:41](https://news.ycombinator.com/item?id=40916618) - [FedEx's Secretive Police Force Is Helping Cops Build a Car Surveillance Network](https://www.forbes.com/sites/thomasbrewster/2024/06/19/fedex-police-help-cops-build-an-ai-car-surveillance-network/)
+* [2024-07-09, 14:32:58](https://news.ycombinator.com/item?id=40916611) - [Turkish student arrested for using AI to cheat in university exam](https://www.reuters.com/technology/artificial-intelligence/turkish-student-arrested-using-ai-cheat-university-exam-2024-06-11/)
+* [2024-07-09, 14:28:09](https://news.ycombinator.com/item?id=40916556) - [Effective CSAM filters are impossible because what CSAM is depends on context](https://rys.io/en/173.html)
 * [2024-07-09, 14:26:57](https://news.ycombinator.com/item?id=40916547) - [Dyson to axe around 1k jobs in Britain](https://www.reuters.com/business/dyson-axe-around-1000-jobs-britain-2024-07-09/)
+* [2024-07-09, 14:21:58](https://news.ycombinator.com/item?id=40916498) - [Civil Rights Analyst Calls FedEx Surveillance Program 'Profoundly Disconcerting'](https://www.msn.com/en-us/money/news/is-fedex-spying-on-you-civil-rights-analyst-calls-ai-surveillance-program-profoundly-disconcerting/ar-BB1pdUBB)
 * [2024-07-09, 14:20:21](https://news.ycombinator.com/item?id=40916486) - [Scientists create a cell that precludes malignant growth](https://phys.org/news/2024-07-scientists-cell-precludes-malignant-growth.html)
 * [2024-07-09, 14:02:06](https://news.ycombinator.com/item?id=40916271) - [Middlemen have outsized influence on drug prices due to market consolidation,FTC](https://www.cnbc.com/2024/07/09/middlemen-have-outsized-influence-on-us-drug-prices-due-to-market-consolidation-ftc-says.html)
 * [2024-07-09, 14:01:54](https://news.ycombinator.com/item?id=40916268) - [Users rage Microsoft announces retirement of Office 365 connectors within Teams](https://www.theregister.com/2024/07/09/users_rage_as_microsoft_announces/)
@@ -12,6 +18,7 @@
 * [2024-07-09, 13:54:59](https://news.ycombinator.com/item?id=40916193) - [Scoped Propagators](https://www.orionreed.com/posts/scoped-propagators)
 * [2024-07-09, 13:46:06](https://news.ycombinator.com/item?id=40916089) - [Effective altruism is stumbling. Can \"moral ambition\" replace it?](https://bigthink.com/high-culture/effective-altruism-moral-ambition/)
 * [2024-07-09, 13:35:25](https://news.ycombinator.com/item?id=40915970) - [Gleam v1.3.0 – Auto-imports and tolerant expressions](https://gleam.run/news/auto-imports-and-tolerant-expressions/)
+* [2024-07-09, 13:27:24](https://news.ycombinator.com/item?id=40915878) - [What the Supreme Court's Nix on the Chevron doctrine means for food regulation](https://www.foodpolitics.com/2024/07/chevron/)
 * [2024-07-09, 13:22:54](https://news.ycombinator.com/item?id=40915827) - [First local extinction due to sea level rise identified in the US](https://phys.org/news/2024-07-local-extinction-due-sea.html)
 * [2024-07-09, 13:06:06](https://news.ycombinator.com/item?id=40915660) - [Ask HN: Why are there no good domain auctioning websites?](https://news.ycombinator.com/item?id=40915660)
 * [2024-07-09, 12:58:30](https://news.ycombinator.com/item?id=40915564) - [Airbnb's Hidden Camera Problem](https://www.cnn.com/2024/07/09/business/airbnb-hidden-camera-invs/index.html)
