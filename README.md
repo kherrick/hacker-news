@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-09, 10:36:36](https://news.ycombinator.com/item?id=40914487) - [US blocks British court from British territory](https://www.bbc.com/news/articles/cxe2v2mdg7vo)
+* [2024-07-09, 10:34:20](https://news.ycombinator.com/item?id=40914475) - [Dynamic Translation of Smalltalk to WebAssembly](https://thiscontext.com/2023/07/26/dynamic-translation-of-smalltalk-to-webassembly/)
 * [2024-07-09, 10:00:04](https://news.ycombinator.com/item?id=40914244) - [FAA orders inspection of 2,600 Boeing 737s over oxygen mask issue](https://www.reuters.com/business/aerospace-defense/faa-orders-inspections-2600-boeing-737-airplanes-over-oxygen-mask-issue-2024-07-08/)
 * [2024-07-09, 09:20:50](https://news.ycombinator.com/item?id=40914029) - [HP discontinues online-only LaserJet printers in response to backlash](https://www.tomshardware.com/peripherals/printers/hp-discontinues-online-only-laserjet-printers-in-response-to-backlash)
 * [2024-07-09, 09:00:05](https://news.ycombinator.com/item?id=40913915) - [Microsoft's Xandr grants GDPR rights at a rate of 0%](https://noyb.eu/en/microsofts-xandr-grants-gdpr-rights-rate-0)
@@ -24,10 +26,8 @@
 * [2024-07-07, 11:17:20](https://news.ycombinator.com/item?id=40896772) - [Guide to attending a space launch in person](https://countdowntoignition.com/guide-to-attending-launch)
 * [2024-07-06, 17:33:51](https://news.ycombinator.com/item?id=40891846) - [Inline previous result in Emacs Lisp](https://xenodium.com/inline-previous-result-and-why-you-should-edebug/)
 * [2024-07-06, 15:32:17](https://news.ycombinator.com/item?id=40891003) - [The Invention of Zero: How Ancient Mesopotamia Created the Concept of Nought](https://www.themarginalian.org/2017/02/02/zero-robert-kaplan/)
-* [2024-07-06, 05:27:28](https://news.ycombinator.com/item?id=40888342) - [Replicating D3 Charts with Swift Charts](https://github.com/raheelahmad/Swift-D3-Charts)
 * [2024-07-06, 05:08:08](https://news.ycombinator.com/item?id=40888282) - [The Nine Ways: On the Enneagram](https://www.theparisreview.org/blog/2024/07/05/the-nine-ways-on-the-enneagram/)
 * [2024-07-06, 03:33:42](https://news.ycombinator.com/item?id=40887987) - [Ointment containing DNA molecules can combat allergic contact dermatitis](https://medicalxpress.com/news/2024-07-ointment-dna-molecules-combat-allergic.html)
-* [2024-07-06, 01:24:07](https://news.ycombinator.com/item?id=40887521) - [Record 4 Camera Angles at Once Using Only iPhones and iPads](https://www.pcmag.com/news/hands-on-apple-final-cut-camera-final-cut-pro-2-multicam)
 * [2024-07-05, 12:16:12](https://news.ycombinator.com/item?id=40882038) - [How I turned seemingly 'failed' experiments into a successful PhD](https://www.science.org/content/article/how-i-turned-seemingly-failed-experiments-into-a-successful-phd)
 * [2024-07-05, 04:53:55](https://news.ycombinator.com/item?id=40879924) - [Trackmania Nightmares](https://hallofdreams.org/posts/trackmania-2/)
 

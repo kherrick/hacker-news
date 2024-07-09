@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-09](index.md)
 
+* [2024-07-09, 10:36:36](https://news.ycombinator.com/item?id=40914487) - [US blocks British court from British territory](https://www.bbc.com/news/articles/cxe2v2mdg7vo)
+* [2024-07-09, 10:34:20](https://news.ycombinator.com/item?id=40914475) - [Dynamic Translation of Smalltalk to WebAssembly](https://thiscontext.com/2023/07/26/dynamic-translation-of-smalltalk-to-webassembly/)
 * [2024-07-09, 10:04:28](https://news.ycombinator.com/item?id=40914279) - [Ranking Fields by p-Value Suspiciousness](https://www.cremieux.xyz/p/ranking-fields-by-p-value-suspiciousness)
 * [2024-07-09, 10:00:04](https://news.ycombinator.com/item?id=40914244) - [FAA orders inspection of 2,600 Boeing 737s over oxygen mask issue](https://www.reuters.com/business/aerospace-defense/faa-orders-inspections-2600-boeing-737-airplanes-over-oxygen-mask-issue-2024-07-08/)
 * [2024-07-09, 09:20:50](https://news.ycombinator.com/item?id=40914029) - [HP discontinues online-only LaserJet printers in response to backlash](https://www.tomshardware.com/peripherals/printers/hp-discontinues-online-only-laserjet-printers-in-response-to-backlash)
