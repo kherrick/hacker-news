@@ -59,6 +59,7 @@
 * [2024-07-08, 10:45:16](https://news.ycombinator.com/item?id=40904232) - [Modern racism rests on scientific theories from the 19th century Essays](https://aeon.co/essays/modern-racism-rests-on-scientific-theories-from-the-19th-century)
 * [2024-07-08, 10:29:03](https://news.ycombinator.com/item?id=40904173) - [Micro-agent: make an AI write code until it passes an unit test](https://github.com/BuilderIO/micro-agent)
 * [2024-07-08, 09:46:00](https://news.ycombinator.com/item?id=40904006) - [LibreOfficeKit API in action: new API to access LibreOffice functionalities](https://dev.blog.documentfoundation.org/2024/06/27/libreofficekit-api-in-action/)
+* [2024-07-08, 09:41:52](https://news.ycombinator.com/item?id=40903987) - [Invisible Landscapes](https://orionmagazine.org/article/interstitium-scientific-discovery-anatomy/)
 * [2024-07-08, 09:15:47](https://news.ycombinator.com/item?id=40903870) - [Xpra: Persistent Remote Applications for X11](https://github.com/Xpra-org/xpra)
 * [2024-07-08, 08:42:03](https://news.ycombinator.com/item?id=40903690) - [Ode to a world-saving idea: attribution error and cognitive empathy](https://nonzero.substack.com/p/ode-to-a-world-saving-idea-f4b)
 * [2024-07-08, 07:59:40](https://news.ycombinator.com/item?id=40903465) - [Data Structures Cheat Sheet](https://memgraph.com/blog/data-structures-cheat-sheet)
