@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-07-09, 06:42:34",
+      "https://news.ycombinator.com/item?id=40913138"
+    ],
+    [
+      "The Race to Seal Helium HDDs",
+      "https://blog.westerndigital.com/race-to-seal-helium/"
+    ]
+  ],
+  [
+    [
       "2024-07-09, 06:01:47",
       "https://news.ycombinator.com/item?id=40912920"
     ],
@@ -25,7 +35,7 @@
       "https://news.ycombinator.com/item?id=40912684"
     ],
     [
-      "The Zombie Misconception of Theoretical Computer Science",
+      "The zombie misconception of theoretical computer science",
       "https://scottaaronson.blog/?p=8106"
     ]
   ],
@@ -35,7 +45,7 @@
       "https://news.ycombinator.com/item?id=40912650"
     ],
     [
-      "Nearly 2M metric tons of wild fish used to feed Norwegian farmed salmon",
+      "Nearly 2M metric tons of wild fish used to feed Norwegian farmed salmon annually",
       "https://www.seafoodsource.com/news/aquaculture/report-nearly-2-million-metric-tons-of-wild-fish-used-to-feed-norwegian-farmed-salmon-annually"
     ]
   ],
@@ -121,6 +131,16 @@
   ],
   [
     [
+      "2024-07-08, 20:29:08",
+      "https://news.ycombinator.com/item?id=40909327"
+    ],
+    [
+      "Making my own wedding rings",
+      "https://geoff.greer.fm/2024/07/07/making-my-own-wedding-rings/"
+    ]
+  ],
+  [
+    [
       "2024-07-08, 20:08:03",
       "https://news.ycombinator.com/item?id=40909076"
     ],
@@ -161,32 +181,12 @@
   ],
   [
     [
-      "2024-07-08, 17:52:23",
-      "https://news.ycombinator.com/item?id=40907581"
-    ],
-    [
-      "Entering text in the terminal is complicated",
-      "https://jvns.ca/blog/2024/07/08/readline/"
-    ]
-  ],
-  [
-    [
       "2024-07-08, 17:05:08",
       "https://news.ycombinator.com/item?id=40907155"
     ],
     [
       "The Right Kind of Stubborn",
       "https://paulgraham.com/persistence.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-08, 15:45:40",
-      "https://news.ycombinator.com/item?id=40906401"
-    ],
-    [
-      "1JPM: A Maven/Gradle alternative in a single Java file",
-      "https://github.com/Osiris-Team/1JPM"
     ]
   ],
   [
@@ -211,12 +211,12 @@
   ],
   [
     [
-      "2024-07-08, 14:24:24",
-      "https://news.ycombinator.com/item?id=40905719"
+      "2024-07-07, 13:12:28",
+      "https://news.ycombinator.com/item?id=40897435"
     ],
     [
-      "Bashbro – Make Any Comp a Web-Based File Server",
-      "https://github.com/victrixsoft/bashbro"
+      "Where Did RFID Come From? [video]",
+      "https://www.youtube.com/watch?v=Kk_ehFreeYw"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2024-07-05, 04:53:55",
-      "https://news.ycombinator.com/item?id=40879924"
+      "2024-07-03, 15:45:01",
+      "https://news.ycombinator.com/item?id=40867097"
     ],
     [
-      "Trackmania Nightmares",
-      "https://hallofdreams.org/posts/trackmania-2/"
+      "Don't use booleans (2019)",
+      "https://www.luu.io/posts/dont-use-booleans"
     ]
   ]
 ]
