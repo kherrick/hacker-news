@@ -22,6 +22,7 @@
 * [2024-07-09, 19:38:36](https://news.ycombinator.com/item?id=40920122) - [How CD Pregaps Gained Their Hidden Track Superpowers](https://tedium.co/2024/07/06/compact-disc-pregap-history/)
 * [2024-07-09, 19:23:42](https://news.ycombinator.com/item?id=40919903) - [Google One 'Dark web reports' coming to all Google Account holders in late July](https://9to5google.com/2024/07/09/google-one-dark-web-reports-all-google-accounts/)
 * [2024-07-09, 19:20:18](https://news.ycombinator.com/item?id=40919845) - [Boeing sold just three passenger jets in the past month](https://www.cnn.com/2024/07/09/business/boeing-sales/index.html)
+* [2024-07-09, 19:14:18](https://news.ycombinator.com/item?id=40919762) - [Grokking the Sequent Calculus (Functional Pearl)](https://arxiv.org/abs/2406.14719)
 * [2024-07-09, 19:09:55](https://news.ycombinator.com/item?id=40919707) - [Master controller of aging and development uncovered](https://longevity.technology/news/master-controller-of-aging-and-development-uncovered/)
 * [2024-07-09, 19:03:55](https://news.ycombinator.com/item?id=40919640) - [Speed Limiters Now Mandatory in All New EU Cars](https://www.autoweek.com/news/a61532276/mandatory-speed-limiters-europe-cars/)
 * [2024-07-09, 18:57:52](https://news.ycombinator.com/item?id=40919571) - [Newpipe/yt-dlp stops working](https://github.com/TeamNewPipe/NewPipe/issues/11254)
