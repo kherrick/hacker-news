@@ -2,7 +2,6 @@
 
 * [2024-07-09, 05:07:07](https://news.ycombinator.com/item?id=40912684) - [The Zombie Misconception of Theoretical Computer Science](https://scottaaronson.blog/?p=8106)
 * [2024-07-09, 04:56:48](https://news.ycombinator.com/item?id=40912650) - [Nearly 2M metric tons of wild fish used to feed Norwegian farmed salmon](https://www.seafoodsource.com/news/aquaculture/report-nearly-2-million-metric-tons-of-wild-fish-used-to-feed-norwegian-farmed-salmon-annually)
-* [2024-07-09, 03:47:13](https://news.ycombinator.com/item?id=40912372) - [Socials explode after judge shuts down accounts of Aubreigh Wyatt's grieving mom](https://www.sunherald.com/news/local/counties/jackson-county/article289843849.html)
 * [2024-07-09, 03:15:24](https://news.ycombinator.com/item?id=40912222) - [Another Silicon Valley institution died spring of 2019: Halted/HSC](http://halted.com)
 * [2024-07-09, 02:04:45](https://news.ycombinator.com/item?id=40911869) - [State of Text Rendering 2024](https://behdad.org/text2024/)
 * [2024-07-09, 01:18:15](https://news.ycombinator.com/item?id=40911637) - [Rye: A Hassle-Free Python Experience](https://rye.astral.sh/)
@@ -15,6 +14,7 @@
 * [2024-07-08, 20:02:56](https://news.ycombinator.com/item?id=40909006) - [Plausible Analytics: GDPR Compliance w/o Cookie Consent Banner](https://plausible.io/)
 * [2024-07-08, 18:58:56](https://news.ycombinator.com/item?id=40908273) - [C++ patterns for low-latency applications including high-frequency trading](https://arxiv.org/abs/2309.04259)
 * [2024-07-08, 18:27:16](https://news.ycombinator.com/item?id=40907933) - [No more boot loader: Please use the kernel instead](https://pretalx.com/devconf-cz-2024/talk/W3AVCT/)
+* [2024-07-08, 17:52:23](https://news.ycombinator.com/item?id=40907581) - [Entering text in the terminal is complicated](https://jvns.ca/blog/2024/07/08/readline/)
 * [2024-07-08, 17:05:08](https://news.ycombinator.com/item?id=40907155) - [The Right Kind of Stubborn](https://paulgraham.com/persistence.html)
 * [2024-07-08, 15:45:40](https://news.ycombinator.com/item?id=40906401) - [1JPM: A Maven/Gradle alternative in a single Java file](https://github.com/Osiris-Team/1JPM)
 * [2024-07-08, 15:14:06](https://news.ycombinator.com/item?id=40906148) - [Reverse engineering Ticketmaster's rotating barcodes](https://conduition.io/coding/ticketmaster/)
