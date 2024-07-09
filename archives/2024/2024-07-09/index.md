@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-09](index.md)
 
+* [2024-07-09, 11:20:57](https://news.ycombinator.com/item?id=40914769) - [California to impose permanent water restrictions on cities and towns](https://ktla.com/news/california/california-to-impose-permanent-water-restrictions-on-cities-and-towns/)
+* [2024-07-09, 11:19:43](https://news.ycombinator.com/item?id=40914761) - [OneFileLinux: A 20MB Alpine metadistro that fits into the ESP](https://hub.zhovner.com/geek/one-file-linux/)
+* [2024-07-09, 11:12:15](https://news.ycombinator.com/item?id=40914706) - [Some landfill 'burps' contain airborne PFAS, study finds](https://phys.org/news/2024-06-landfill-burps-airborne-pfas.html)
 * [2024-07-09, 10:36:36](https://news.ycombinator.com/item?id=40914487) - [US blocks British court from British territory](https://www.bbc.com/news/articles/cxe2v2mdg7vo)
 * [2024-07-09, 10:34:20](https://news.ycombinator.com/item?id=40914475) - [Dynamic Translation of Smalltalk to WebAssembly](https://thiscontext.com/2023/07/26/dynamic-translation-of-smalltalk-to-webassembly/)
 * [2024-07-09, 10:04:28](https://news.ycombinator.com/item?id=40914279) - [Ranking Fields by p-Value Suspiciousness](https://www.cremieux.xyz/p/ranking-fields-by-p-value-suspiciousness)
