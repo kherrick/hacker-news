@@ -39,6 +39,7 @@
 * [2024-07-06, 18:09:28](https://news.ycombinator.com/item?id=40892063) - [The Supreme Court Doesn't Want You to Have Clean Water and Safe Air](https://www.wired.com/story/supreme-court-clean-water-safe-air-epa-chevron-koch-brothers/)
 * [2024-07-06, 18:02:05](https://news.ycombinator.com/item?id=40892019) - [China Cracks Down on Extreme Nationalism and Hate-Speech After Suzhou Slaying](https://chinadigitaltimes.net/2024/07/chinese-social-media-platforms-launch-crackdown-on-extreme-nationalism-and-xenophobic-hate-speech-after-fatal-suzhou-stabbing/)
 * [2024-07-06, 17:47:34](https://news.ycombinator.com/item?id=40891932) - [Emergency rooms are not okay](https://yourlocalepidemiologist.substack.com/p/emergency-rooms-are-not-okay)
+* [2024-07-06, 17:33:51](https://news.ycombinator.com/item?id=40891846) - [Inline previous result in Emacs Lisp](https://xenodium.com/inline-previous-result-and-why-you-should-edebug/)
 * [2024-07-06, 17:28:51](https://news.ycombinator.com/item?id=40891819) - [How I've Learned to Live with a Nonexistent Working Memory](https://medium.com/the-ascent/how-ive-learned-to-live-with-a-nonexistent-working-memory-5db259e7d390)
 * [2024-07-06, 17:21:49](https://news.ycombinator.com/item?id=40891771) - [Evaluating a Decade of Hacker News Predictions: An Open-Source Approach](https://eamag.me/2024/HackerNews-Prediction-Evaluator)
 * [2024-07-06, 17:01:50](https://news.ycombinator.com/item?id=40891659) - [Interactive Bolide Data Visualizer](https://bolides.seti.org/)
