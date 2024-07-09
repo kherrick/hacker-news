@@ -14,6 +14,7 @@
 * [2024-07-09, 20:53:07](https://news.ycombinator.com/item?id=40920969) - [Ask HN: Why are 404 Media posts auto-killed?](https://news.ycombinator.com/item?id=40920969)
 * [2024-07-09, 20:36:53](https://news.ycombinator.com/item?id=40920812) - [Show HN → Parallel DOM: Upgrade your DOM to be multithreaded](https://www.pdom.dev/)
 * [2024-07-09, 20:33:25](https://news.ycombinator.com/item?id=40920776) - [IPAD-OS](http://www.ipadowners.org/ipad-os.htm)
+* [2024-07-09, 20:23:12](https://news.ycombinator.com/item?id=40920681) - [Show HN: Maelstrom – A Hermetic, Clustered Test Runner for Python and Rust](https://github.com/maelstrom-software/maelstrom)
 * [2024-07-09, 20:05:21](https://news.ycombinator.com/item?id=40920497) - [How to Come Back Stronger from Organizational Trauma](https://sloanreview.mit.edu/article/how-to-come-back-stronger-from-organizational-trauma/)
 * [2024-07-09, 19:49:11](https://news.ycombinator.com/item?id=40920261) - [Arrow's Impossibility Theorem [video]](https://www.youtube.com/watch?v=AhVR7gFMKNg)
 * [2024-07-09, 19:48:39](https://news.ycombinator.com/item?id=40920256) - [Pulitzer winning reporter faces jail for protecting funding scandal sources](https://www.nbcnews.com/investigations/anna-wolfe-pulitzer-mississippi-welfare-scandal-phil-bryant-rcna159936)
