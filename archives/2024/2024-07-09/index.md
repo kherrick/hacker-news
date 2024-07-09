@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-09](index.md)
 
+* [2024-07-09, 09:00:05](https://news.ycombinator.com/item?id=40913915) - [Microsoft's Xandr grants GDPR rights at a rate of 0%](https://noyb.eu/en/microsofts-xandr-grants-gdpr-rights-rate-0)
+* [2024-07-09, 08:30:38](https://news.ycombinator.com/item?id=40913736) - [Show HN: Crawlee for Python – a web scraping and browser automation library](https://crawlee.dev/python/)
 * [2024-07-09, 06:56:49](https://news.ycombinator.com/item?id=40913211) - [The Neuroscience of Resistance to Change](https://www.sanaross.com/the-neuroscience-of-achieving-more/neuroscience-and-ld-overcoming-resistance-to-change)
 * [2024-07-09, 06:42:34](https://news.ycombinator.com/item?id=40913138) - [The Race to Seal Helium HDDs](https://blog.westerndigital.com/race-to-seal-helium/)
 * [2024-07-09, 06:01:47](https://news.ycombinator.com/item?id=40912920) - [Show HN: Tegon: Open-source alternative to Jira, Linear](https://github.com/tegonhq/tegon)
