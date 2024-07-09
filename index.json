@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-09, 10:00:04",
+      "https://news.ycombinator.com/item?id=40914244"
+    ],
+    [
+      "FAA orders inspection of 2,600 Boeing 737s over oxygen mask issue",
+      "https://www.reuters.com/business/aerospace-defense/faa-orders-inspections-2600-boeing-737-airplanes-over-oxygen-mask-issue-2024-07-08/"
+    ]
+  ],
+  [
+    [
       "2024-07-09, 09:20:50",
       "https://news.ycombinator.com/item?id=40914029"
     ],
@@ -37,6 +47,16 @@
     [
       "Show HN: Crawlee for Python – a web scraping and browser automation library",
       "https://crawlee.dev/python/"
+    ]
+  ],
+  [
+    [
+      "2024-07-09, 07:49:37",
+      "https://news.ycombinator.com/item?id=40913542"
+    ],
+    [
+      "Sexsomnia: What to Know About Sleep Sex",
+      "https://www.sleepfoundation.org/parasomnias/sexsomnia"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "Rye: A Hassle-Free Python Experience",
       "https://rye.astral.sh/"
-    ]
-  ],
-  [
-    [
-      "2024-07-09, 00:28:31",
-      "https://news.ycombinator.com/item?id=40911339"
-    ],
-    [
-      "LightRAG: The PyTorch Library for Large Language Model Applications",
-      "https://github.com/SylphAI-Inc/LightRAG"
     ]
   ],
   [
@@ -231,22 +241,22 @@
   ],
   [
     [
+      "2024-07-06, 17:33:51",
+      "https://news.ycombinator.com/item?id=40891846"
+    ],
+    [
+      "Inline previous result in Emacs Lisp",
+      "https://xenodium.com/inline-previous-result-and-why-you-should-edebug/"
+    ]
+  ],
+  [
+    [
       "2024-07-06, 15:32:17",
       "https://news.ycombinator.com/item?id=40891003"
     ],
     [
       "The Invention of Zero: How Ancient Mesopotamia Created the Concept of Nought",
       "https://www.themarginalian.org/2017/02/02/zero-robert-kaplan/"
-    ]
-  ],
-  [
-    [
-      "2024-07-06, 05:27:28",
-      "https://news.ycombinator.com/item?id=40888342"
-    ],
-    [
-      "Replicating D3 Charts with Swift Charts",
-      "https://github.com/raheelahmad/Swift-D3-Charts"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "Trackmania Nightmares",
       "https://hallofdreams.org/posts/trackmania-2/"
-    ]
-  ],
-  [
-    [
-      "2024-07-03, 15:45:01",
-      "https://news.ycombinator.com/item?id=40867097"
-    ],
-    [
-      "Don't use booleans (2019)",
-      "https://www.luu.io/posts/dont-use-booleans"
     ]
   ]
 ]
