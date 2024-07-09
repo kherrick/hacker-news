@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-09, 13:06:06](https://news.ycombinator.com/item?id=40915660) - [Ask HN: Why are there no good domain auctioning websites?](https://news.ycombinator.com/item?id=40915660)
-* [2024-07-09, 12:58:30](https://news.ycombinator.com/item?id=40915564) - [Airbnb's Hidden Camera Problem](https://www.cnn.com/2024/07/09/business/airbnb-hidden-camera-invs/index.html)
+* [2024-07-09, 13:46:06](https://news.ycombinator.com/item?id=40916089) - [Effective altruism is stumbling. Can \"moral ambition\" replace it?](https://bigthink.com/high-culture/effective-altruism-moral-ambition/)
+* [2024-07-09, 13:35:25](https://news.ycombinator.com/item?id=40915970) - [Gleam v1.3.0 – Auto-imports and tolerant expressions](https://gleam.run/news/auto-imports-and-tolerant-expressions/)
 * [2024-07-09, 12:09:44](https://news.ycombinator.com/item?id=40915141) - [Etsy: Company escaping 'race to the bottom', getting back to its artisan roots](https://www.cnbc.com/2024/07/09/etsy-escaping-race-to-the-bottom-and-getting-back-to-artisan-roots.html)
 * [2024-07-09, 12:01:37](https://news.ycombinator.com/item?id=40915082) - [PySkyWiFi: Free stupid wi-fi on long-haul flights](https://robertheaton.com/pyskywifi/)
 * [2024-07-09, 11:53:41](https://news.ycombinator.com/item?id=40915035) - [Houthi rebels are operating their own GuardZoo spyware](https://www.theregister.com/2024/07/09/houthi_rebels_malware/)

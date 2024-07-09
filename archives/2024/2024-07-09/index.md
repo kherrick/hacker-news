@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-09](index.md)
 
+* [2024-07-09, 13:46:06](https://news.ycombinator.com/item?id=40916089) - [Effective altruism is stumbling. Can \"moral ambition\" replace it?](https://bigthink.com/high-culture/effective-altruism-moral-ambition/)
+* [2024-07-09, 13:35:25](https://news.ycombinator.com/item?id=40915970) - [Gleam v1.3.0 – Auto-imports and tolerant expressions](https://gleam.run/news/auto-imports-and-tolerant-expressions/)
 * [2024-07-09, 13:22:54](https://news.ycombinator.com/item?id=40915827) - [First local extinction due to sea level rise identified in the US](https://phys.org/news/2024-07-local-extinction-due-sea.html)
 * [2024-07-09, 13:06:06](https://news.ycombinator.com/item?id=40915660) - [Ask HN: Why are there no good domain auctioning websites?](https://news.ycombinator.com/item?id=40915660)
 * [2024-07-09, 12:58:30](https://news.ycombinator.com/item?id=40915564) - [Airbnb's Hidden Camera Problem](https://www.cnn.com/2024/07/09/business/airbnb-hidden-camera-invs/index.html)
