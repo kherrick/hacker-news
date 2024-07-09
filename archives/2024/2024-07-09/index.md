@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-07-09](index.md)
 
+* [2024-07-09, 12:37:34](https://news.ycombinator.com/item?id=40915381) - [You Want to Fix Boeing? Prosecute Its Executives](https://www.thefp.com/p/fix-boeing-prosecute-executives-joe-nocera)
+* [2024-07-09, 12:15:45](https://news.ycombinator.com/item?id=40915192) - [Windows on ARM Is Here to Stay](https://spectrum.ieee.org/windows-on-arm)
+* [2024-07-09, 12:11:36](https://news.ycombinator.com/item?id=40915156) - [Retirement of Office 365 connectors within Microsoft Teams](https://devblogs.microsoft.com/microsoft365dev/retirement-of-office-365-connectors-within-microsoft-teams/)
+* [2024-07-09, 12:01:37](https://news.ycombinator.com/item?id=40915082) - [PySkyWiFi: Free stupid wi-fi on long-haul flights](https://robertheaton.com/pyskywifi/)
 * [2024-07-09, 11:20:57](https://news.ycombinator.com/item?id=40914769) - [California to impose permanent water restrictions on cities and towns](https://ktla.com/news/california/california-to-impose-permanent-water-restrictions-on-cities-and-towns/)
 * [2024-07-09, 11:19:43](https://news.ycombinator.com/item?id=40914761) - [OneFileLinux: A 20MB Alpine metadistro that fits into the ESP](https://hub.zhovner.com/geek/one-file-linux/)
 * [2024-07-09, 11:12:15](https://news.ycombinator.com/item?id=40914706) - [Some landfill 'burps' contain airborne PFAS, study finds](https://phys.org/news/2024-06-landfill-burps-airborne-pfas.html)
@@ -30,4 +34,5 @@
 * [2024-07-09, 02:04:45](https://news.ycombinator.com/item?id=40911869) - [State of Text Rendering 2024](https://behdad.org/text2024/)
 * [2024-07-09, 01:18:15](https://news.ycombinator.com/item?id=40911637) - [Rye: A Hassle-Free Python Experience](https://rye.astral.sh/)
 * [2024-07-09, 01:16:38](https://news.ycombinator.com/item?id=40911627) - [Keyboards Influenced by Touchscreens (2011)](https://eagain.net/blog/2011/04/30/keyboards.html)
+* [2024-07-09, 00:54:13](https://news.ycombinator.com/item?id=40911500) - [Sljit: Platform independent low-level JIT compiler](https://github.com/zherczeg/sljit)
 * [2024-07-09, 00:28:31](https://news.ycombinator.com/item?id=40911339) - [LightRAG: The PyTorch Library for Large Language Model Applications](https://github.com/SylphAI-Inc/LightRAG)
