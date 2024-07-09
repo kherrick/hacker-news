@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-09, 14:51:25](https://news.ycombinator.com/item?id=40916820) - [CVE-2024-6409: OpenSSH: Possible remote code execution in privsep child](https://www.openwall.com/lists/oss-security/2024/07/08/2)
-* [2024-07-09, 14:44:10](https://news.ycombinator.com/item?id=40916733) - [Ransomware Gang Leaks Data Allegedly Stolen from Florida Department of Health](https://www.securityweek.com/ransomware-gang-leaks-data-allegedly-stolen-from-florida-department-of-health/)
 * [2024-07-09, 14:20:21](https://news.ycombinator.com/item?id=40916486) - [Scientists create a cell that precludes malignant growth](https://phys.org/news/2024-07-scientists-cell-precludes-malignant-growth.html)
 * [2024-07-09, 14:19:56](https://news.ycombinator.com/item?id=40916481) - [Let's 'Double-Click' on the Latest Cringeworthy Corporate Buzzword](https://www.wsj.com/lifestyle/workplace/double-click-corporate-buzzword-cringe-421e8cce)
 * [2024-07-09, 14:13:04](https://news.ycombinator.com/item?id=40916411) - [Microsoft's Weather app now shows more ads](https://www.ghacks.net/2024/07/01/microsofts-weather-app-now-displays-more-ads/)
+* [2024-07-09, 14:02:10](https://news.ycombinator.com/item?id=40916272) - [Tesla parental controls keep teenage lead feet in check](https://www.theregister.com/2024/07/09/tesla_parental_controls/)
 * [2024-07-09, 14:01:20](https://news.ycombinator.com/item?id=40916260) - [Evolve Bank and Trust confirms LockBit stole 7.6M people's data](https://www.theregister.com/2024/07/09/evolve_lockbit_attack/)
 * [2024-07-09, 13:54:59](https://news.ycombinator.com/item?id=40916193) - [Scoped Propagators](https://www.orionreed.com/posts/scoped-propagators)
 * [2024-07-09, 12:01:37](https://news.ycombinator.com/item?id=40915082) - [PySkyWiFi: Free stupid wi-fi on long-haul flights](https://robertheaton.com/pyskywifi/)
