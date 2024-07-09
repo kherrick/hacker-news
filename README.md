@@ -2,7 +2,6 @@
 
 * [2024-07-09, 02:04:45](https://news.ycombinator.com/item?id=40911869) - [State of Text Rendering 2024](https://behdad.org/text2024/)
 * [2024-07-09, 01:18:15](https://news.ycombinator.com/item?id=40911637) - [Rye: A Hassle-Free Python Experience](https://rye.astral.sh/)
-* [2024-07-09, 01:16:38](https://news.ycombinator.com/item?id=40911627) - [Keyboards Influenced by Touchscreens (2011)](https://eagain.net/blog/2011/04/30/keyboards.html)
 * [2024-07-09, 00:28:31](https://news.ycombinator.com/item?id=40911339) - [LightRAG: The PyTorch Library for Large Language Model Applications](https://github.com/SylphAI-Inc/LightRAG)
 * [2024-07-08, 23:29:46](https://news.ycombinator.com/item?id=40910913) - [Show HN: I built a IMDB for all kinds of micro-creators](https://fanzine.world/)
 * [2024-07-08, 23:14:10](https://news.ycombinator.com/item?id=40910792) - [Mouse Heaven or Mouse Hell?](https://www.sciencehistory.org/stories/magazine/mouse-heaven-or-mouse-hell/)
@@ -26,6 +25,7 @@
 * [2024-07-06, 05:27:28](https://news.ycombinator.com/item?id=40888342) - [Replicating D3 Charts with Swift Charts](https://github.com/raheelahmad/Swift-D3-Charts)
 * [2024-07-06, 03:33:42](https://news.ycombinator.com/item?id=40887987) - [Ointment containing DNA molecules can combat allergic contact dermatitis](https://medicalxpress.com/news/2024-07-ointment-dna-molecules-combat-allergic.html)
 * [2024-07-06, 01:24:07](https://news.ycombinator.com/item?id=40887521) - [Record 4 Camera Angles at Once Using Only iPhones and iPads](https://www.pcmag.com/news/hands-on-apple-final-cut-camera-final-cut-pro-2-multicam)
+* [2024-07-06, 01:22:25](https://news.ycombinator.com/item?id=40887516) - [Modifying the OG Xbox to have 256M of RAM [video]](https://www.youtube.com/watch?v=1idSEhUT4PM)
 * [2024-07-05, 17:32:52](https://news.ycombinator.com/item?id=40884536) - [Everything you've been told about the 'Chickenpox bomber' is wrong](https://hushkit.net/2024/06/08/everything-youve-been-told-about-the-chickenbox-bomber-is-wrong-heres-why/)
 * [2024-07-05, 12:16:12](https://news.ycombinator.com/item?id=40882038) - [How I turned seemingly 'failed' experiments into a successful PhD](https://www.science.org/content/article/how-i-turned-seemingly-failed-experiments-into-a-successful-phd)
 * [2024-07-05, 04:53:55](https://news.ycombinator.com/item?id=40879924) - [Trackmania Nightmares](https://hallofdreams.org/posts/trackmania-2/)
