@@ -17,6 +17,7 @@
 * [2024-07-04, 21:05:42](https://news.ycombinator.com/item?id=40878040) - [Ask HN: What book bit, stung and shook you deeply?](https://news.ycombinator.com/item?id=40878040)
 * [2024-07-04, 21:00:29](https://news.ycombinator.com/item?id=40878007) - [Rollstack (YC W23) Is Hiring TypeScript Engineers in Europe. Growing 20% MoM](https://www.ycombinator.com/companies/rollstack-2/jobs/)
 * [2024-07-04, 20:57:52](https://news.ycombinator.com/item?id=40877992) - [NexDock turns your smartphone into a Laptop](https://nexdock.com/)
+* [2024-07-04, 20:45:52](https://news.ycombinator.com/item?id=40877909) - [The War on Estonian Forests (2022)](https://daveon.design/the-war-on-estonian-forests.html)
 * [2024-07-04, 20:35:15](https://news.ycombinator.com/item?id=40877830) - [Authy got hacked, and 33M user phone numbers were stolen](https://appleinsider.com/articles/24/07/04/authy-got-hacked-and-33-million-user-phone-numbers-were-stolen)
 * [2024-07-04, 20:14:57](https://news.ycombinator.com/item?id=40877708) - [Show HN: Foorr – A minimal to-do app with social accountability](https://foorr.com/)
 * [2024-07-04, 20:06:05](https://news.ycombinator.com/item?id=40877668) - [Map of Pontypandy in Fireman Sam](https://two-wrongs.com/map-of-pontypandy-in-fireman-sam.html)
