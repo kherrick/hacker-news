@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-09](index.md)
 
+* [2024-07-09, 21:31:18](https://news.ycombinator.com/item?id=40921398) - [A small studio made a game based on Stanislaw Lem's novel](https://invinciblethegame.com/)
 * [2024-07-09, 20:54:11](https://news.ycombinator.com/item?id=40920980) - [Metal Thieves Are Stripping America's Cities](https://www.nytimes.com/2024/07/09/us/copper-theft-heavy-metal.html)
 * [2024-07-09, 20:33:25](https://news.ycombinator.com/item?id=40920776) - [IPAD-OS](http://www.ipadowners.org/ipad-os.htm)
 * [2024-07-09, 20:05:21](https://news.ycombinator.com/item?id=40920497) - [How to Come Back Stronger from Organizational Trauma](https://sloanreview.mit.edu/article/how-to-come-back-stronger-from-organizational-trauma/)

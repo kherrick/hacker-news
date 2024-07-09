@@ -40,6 +40,7 @@
 * [2024-07-07, 16:04:41](https://news.ycombinator.com/item?id=40898525) - [Tim Doucette, a blind astronomer who built the Deep Sky Eye Observatory](https://www.amiplus.ca/m/eCGPTwFA/deep-sky-eye?seriesId=Show%2FOur+Community)
 * [2024-07-07, 15:26:07](https://news.ycombinator.com/item?id=40898313) - [Show HN: I made an open source Mailchimp RSS-to-Email alternative](https://github.com/ElliotKillick/rss2newsletter)
 * [2024-07-07, 14:53:26](https://news.ycombinator.com/item?id=40898121) - [Talent Search versus Talent Development [pdf]](https://community.ams.org/journals/notices/201909/rnoti-p1471.pdf)
+* [2024-07-07, 14:52:57](https://news.ycombinator.com/item?id=40898118) - [International Reply Coupon](https://en.wikipedia.org/wiki/International_reply_coupon)
 * [2024-07-07, 14:35:46](https://news.ycombinator.com/item?id=40898018) - [Latest Ghostscript vulnerability haunts experts as the next big breach enabler](https://www.theregister.com/2024/07/05/ghostscript_vulnerability_severity/)
 * [2024-07-07, 14:26:29](https://news.ycombinator.com/item?id=40897962) - [Show HN: Hi.Events – Open-Source Event Management and Ticketing Platform](https://github.com/HiEventsDev/Hi.Events)
 * [2024-07-07, 14:25:56](https://news.ycombinator.com/item?id=40897958) - [How Good Is ChatGPT at Coding, Really?](https://spectrum.ieee.org/chatgpt-for-coding)
