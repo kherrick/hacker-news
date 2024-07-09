@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-07-09, 12:11:36",
-      "https://news.ycombinator.com/item?id=40915156"
+      "2024-07-09, 12:18:47",
+      "https://news.ycombinator.com/item?id=40915206"
     ],
     [
-      "Retirement of Office 365 connectors within Microsoft Teams",
-      "https://devblogs.microsoft.com/microsoft365dev/retirement-of-office-365-connectors-within-microsoft-teams/"
+      "GenBook RK3588 – Modular open-source ARM laptop with DIY expansion capabilities",
+      "https://www.crowdsupply.com/shenzhen-tianmao-technology-co-ltd/genbook-rk3588"
     ]
   ],
   [
@@ -21,22 +21,22 @@
   ],
   [
     [
-      "2024-07-09, 11:39:21",
-      "https://news.ycombinator.com/item?id=40914911"
+      "2024-07-09, 11:53:41",
+      "https://news.ycombinator.com/item?id=40915035"
     ],
     [
-      "Chipotle staff are sick of TikTokers trying to catch them 'skimping'",
-      "https://www.theguardian.com/food/article/2024/jun/13/chipotle-workers-customers-filming"
+      "Houthi rebels are operating their own GuardZoo spyware",
+      "https://www.theregister.com/2024/07/09/houthi_rebels_malware/"
     ]
   ],
   [
     [
-      "2024-07-09, 11:12:15",
-      "https://news.ycombinator.com/item?id=40914706"
+      "2024-07-09, 11:47:33",
+      "https://news.ycombinator.com/item?id=40914993"
     ],
     [
-      "Some landfill 'burps' contain airborne PFAS, study finds",
-      "https://phys.org/news/2024-06-landfill-burps-airborne-pfas.html"
+      "Canada became a car theft capital of the world",
+      "https://www.bbc.com/news/articles/cy79dq2n093o"
     ]
   ],
   [
@@ -47,16 +47,6 @@
     [
       "Dynamic Translation of Smalltalk to WebAssembly",
       "https://thiscontext.com/2023/07/26/dynamic-translation-of-smalltalk-to-webassembly/"
-    ]
-  ],
-  [
-    [
-      "2024-07-09, 10:19:37",
-      "https://news.ycombinator.com/item?id=40914391"
-    ],
-    [
-      "Full AMD Ryzen PC in a Folding Mini Keyboard",
-      "https://www.tomshardware.com/desktops/mini-pcs/ryzen-mini-pc-gets-wedged-into-a-folding-keyboard-form-factor-battery-included-all-you-need-is-a-display"
     ]
   ],
   [
@@ -107,16 +97,6 @@
     [
       "The zombie misconception of theoretical computer science",
       "https://scottaaronson.blog/?p=8106"
-    ]
-  ],
-  [
-    [
-      "2024-07-09, 03:15:24",
-      "https://news.ycombinator.com/item?id=40912222"
-    ],
-    [
-      "Another Silicon Valley institution died spring of 2019: Halted/HSC",
-      "http://halted.com"
     ]
   ],
   [
@@ -221,6 +201,16 @@
   ],
   [
     [
+      "2024-07-08, 14:39:35",
+      "https://news.ycombinator.com/item?id=40905849"
+    ],
+    [
+      "Geomys, a blueprint for a sustainable open-source maintenance firm",
+      "https://words.filippo.io/dispatches/geomys/"
+    ]
+  ],
+  [
+    [
       "2024-07-07, 11:17:20",
       "https://news.ycombinator.com/item?id=40896772"
     ],
@@ -257,6 +247,16 @@
     [
       "The Invention of Zero: How Ancient Mesopotamia Created the Concept of Nought",
       "https://www.themarginalian.org/2017/02/02/zero-robert-kaplan/"
+    ]
+  ],
+  [
+    [
+      "2024-07-06, 12:14:12",
+      "https://news.ycombinator.com/item?id=40889951"
+    ],
+    [
+      "Show HN: A JavaScript UI library for imperative JSX",
+      "https://www.npmjs.com/package/@matry/dom"
     ]
   ],
   [
