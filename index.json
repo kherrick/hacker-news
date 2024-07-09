@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-09, 20:54:11",
+      "https://news.ycombinator.com/item?id=40920980"
+    ],
+    [
+      "Metal Thieves Are Stripping America's Cities",
+      "https://www.nytimes.com/2024/07/09/us/copper-theft-heavy-metal.html"
+    ]
+  ],
+  [
+    [
       "2024-07-09, 19:49:11",
       "https://news.ycombinator.com/item?id=40920261"
     ],
@@ -47,16 +57,6 @@
     [
       "Tokyo's oldest train line – in pictures",
       "https://www.theguardian.com/artanddesign/gallery/2024/jul/08/tokyos-oldest-train-line-jr-yamanote-in-pictures"
-    ]
-  ],
-  [
-    [
-      "2024-07-09, 18:41:18",
-      "https://news.ycombinator.com/item?id=40919413"
-    ],
-    [
-      "A collective list of free APIs",
-      "https://github.com/public-apis/public-apis"
     ]
   ],
   [
@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2024-07-09, 15:37:25",
+      "https://news.ycombinator.com/item?id=40917358"
+    ],
+    [
+      "Docs as code (2017)",
+      "https://www.writethedocs.org/guide/docs-as-code/"
+    ]
+  ],
+  [
+    [
       "2024-07-09, 15:33:29",
       "https://news.ycombinator.com/item?id=40917312"
     ],
@@ -131,32 +141,12 @@
   ],
   [
     [
-      "2024-07-09, 15:00:13",
-      "https://news.ycombinator.com/item?id=40916904"
-    ],
-    [
-      "Lots of People in Education Disagree with the Premise of Maximizing Learning",
-      "https://www.justinmath.com/maximizing-learning-vs-other-things/"
-    ]
-  ],
-  [
-    [
       "2024-07-09, 14:48:59",
       "https://news.ycombinator.com/item?id=40916786"
     ],
     [
       "turbopuffer: Fast Search on Object Storage",
       "https://turbopuffer.com/blog/turbopuffer"
-    ]
-  ],
-  [
-    [
-      "2024-07-09, 14:01:20",
-      "https://news.ycombinator.com/item?id=40916260"
-    ],
-    [
-      "Evolve Bank and Trust confirms LockBit stole 7.6M people's data",
-      "https://www.theregister.com/2024/07/09/evolve_lockbit_attack/"
     ]
   ],
   [
@@ -231,12 +221,22 @@
   ],
   [
     [
-      "2024-07-09, 06:42:34",
-      "https://news.ycombinator.com/item?id=40913138"
+      "2024-07-09, 06:01:47",
+      "https://news.ycombinator.com/item?id=40912920"
     ],
     [
-      "The Race to Seal Helium HDDs (2021)",
-      "https://blog.westerndigital.com/race-to-seal-helium/"
+      "Show HN: Tegon: Open-source alternative to Jira, Linear",
+      "https://github.com/tegonhq/tegon"
+    ]
+  ],
+  [
+    [
+      "2024-07-09, 05:07:07",
+      "https://news.ycombinator.com/item?id=40912684"
+    ],
+    [
+      "The zombie misconception of theoretical computer science",
+      "https://scottaaronson.blog/?p=8106"
     ]
   ],
   [
@@ -271,12 +271,12 @@
   ],
   [
     [
-      "2024-07-06, 17:33:51",
-      "https://news.ycombinator.com/item?id=40891846"
+      "2024-07-06, 15:32:17",
+      "https://news.ycombinator.com/item?id=40891003"
     ],
     [
-      "Inline previous result in Emacs Lisp",
-      "https://xenodium.com/inline-previous-result-and-why-you-should-edebug/"
+      "The Invention of Zero",
+      "https://www.themarginalian.org/2017/02/02/zero-robert-kaplan/"
     ]
   ],
   [
