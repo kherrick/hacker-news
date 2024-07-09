@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-09](index.md)
 
+* [2024-07-09, 14:20:21](https://news.ycombinator.com/item?id=40916486) - [Scientists create a cell that precludes malignant growth](https://phys.org/news/2024-07-scientists-cell-precludes-malignant-growth.html)
 * [2024-07-09, 14:02:06](https://news.ycombinator.com/item?id=40916271) - [Middlemen have outsized influence on drug prices due to market consolidation,FTC](https://www.cnbc.com/2024/07/09/middlemen-have-outsized-influence-on-us-drug-prices-due-to-market-consolidation-ftc-says.html)
 * [2024-07-09, 14:01:54](https://news.ycombinator.com/item?id=40916268) - [Users rage Microsoft announces retirement of Office 365 connectors within Teams](https://www.theregister.com/2024/07/09/users_rage_as_microsoft_announces/)
 * [2024-07-09, 13:59:52](https://news.ycombinator.com/item?id=40916247) - [Show HN: A Chrome extension that auto-blocks \"woke\" videos on YouTube Kids](https://chromewebstore.google.com/detail/woke-blocker/gbogkjhngbnejieekkbjclachoepfjeh)
@@ -13,6 +14,7 @@
 * [2024-07-09, 13:06:06](https://news.ycombinator.com/item?id=40915660) - [Ask HN: Why are there no good domain auctioning websites?](https://news.ycombinator.com/item?id=40915660)
 * [2024-07-09, 12:58:30](https://news.ycombinator.com/item?id=40915564) - [Airbnb's Hidden Camera Problem](https://www.cnn.com/2024/07/09/business/airbnb-hidden-camera-invs/index.html)
 * [2024-07-09, 12:37:34](https://news.ycombinator.com/item?id=40915381) - [You Want to Fix Boeing? Prosecute Its Executives](https://www.thefp.com/p/fix-boeing-prosecute-executives-joe-nocera)
+* [2024-07-09, 12:20:18](https://news.ycombinator.com/item?id=40915225) - [String Theory Unravels New Pi Formula: A Quantum Leap in Mathematics](https://scitechdaily.com/string-theory-unravels-new-pi-formula-a-quantum-leap-in-mathematics/)
 * [2024-07-09, 12:18:47](https://news.ycombinator.com/item?id=40915206) - [GenBook RK3588 – Modular open-source ARM laptop with DIY expansion capabilities](https://www.crowdsupply.com/shenzhen-tianmao-technology-co-ltd/genbook-rk3588)
 * [2024-07-09, 12:15:45](https://news.ycombinator.com/item?id=40915192) - [Windows on ARM Is Here to Stay](https://spectrum.ieee.org/windows-on-arm)
 * [2024-07-09, 12:11:36](https://news.ycombinator.com/item?id=40915156) - [Retirement of Office 365 connectors within Microsoft Teams](https://devblogs.microsoft.com/microsoft365dev/retirement-of-office-365-connectors-within-microsoft-teams/)
@@ -21,6 +23,7 @@
 * [2024-07-09, 11:53:41](https://news.ycombinator.com/item?id=40915035) - [Houthi rebels are operating their own GuardZoo spyware](https://www.theregister.com/2024/07/09/houthi_rebels_malware/)
 * [2024-07-09, 11:48:42](https://news.ycombinator.com/item?id=40915005) - [MobileLLM: Optimizing Sub-Billion Parameter Language Models for On-Device Use](https://github.com/facebookresearch/MobileLLM)
 * [2024-07-09, 11:47:33](https://news.ycombinator.com/item?id=40914993) - [Canada became a car theft capital of the world](https://www.bbc.com/news/articles/cy79dq2n093o)
+* [2024-07-09, 11:44:40](https://news.ycombinator.com/item?id=40914958) - [Circos – Circular Visualization](https://circos.ca/)
 * [2024-07-09, 11:39:21](https://news.ycombinator.com/item?id=40914911) - [Chipotle staff are sick of TikTokers trying to catch them 'skimping'](https://www.theguardian.com/food/article/2024/jun/13/chipotle-workers-customers-filming)
 * [2024-07-09, 11:20:57](https://news.ycombinator.com/item?id=40914769) - [California to impose permanent water restrictions on cities and towns](https://ktla.com/news/california/california-to-impose-permanent-water-restrictions-on-cities-and-towns/)
 * [2024-07-09, 11:19:43](https://news.ycombinator.com/item?id=40914761) - [OneFileLinux: A 20MB Alpine metadistro that fits into the ESP](https://hub.zhovner.com/geek/one-file-linux/)
