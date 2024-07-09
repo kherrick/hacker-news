@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-09, 02:04:45](https://news.ycombinator.com/item?id=40911869) - [State of Text Rendering 2024](https://behdad.org/text2024/)
 * [2024-07-09, 01:18:15](https://news.ycombinator.com/item?id=40911637) - [Rye: A Hassle-Free Python Experience](https://rye.astral.sh/)
 * [2024-07-09, 01:16:38](https://news.ycombinator.com/item?id=40911627) - [Keyboards Influenced by Touchscreens (2011)](https://eagain.net/blog/2011/04/30/keyboards.html)
 * [2024-07-09, 00:28:31](https://news.ycombinator.com/item?id=40911339) - [LightRAG: The PyTorch Library for Large Language Model Applications](https://github.com/SylphAI-Inc/LightRAG)
@@ -26,7 +27,6 @@
 * [2024-07-06, 17:28:51](https://news.ycombinator.com/item?id=40891819) - [How I've Learned to Live with a Nonexistent Working Memory](https://medium.com/the-ascent/how-ive-learned-to-live-with-a-nonexistent-working-memory-5db259e7d390)
 * [2024-07-06, 05:27:28](https://news.ycombinator.com/item?id=40888342) - [Replicating D3 Charts with Swift Charts](https://github.com/raheelahmad/Swift-D3-Charts)
 * [2024-07-06, 01:24:07](https://news.ycombinator.com/item?id=40887521) - [Record 4 Camera Angles at Once Using Only iPhones and iPads](https://www.pcmag.com/news/hands-on-apple-final-cut-camera-final-cut-pro-2-multicam)
-* [2024-07-06, 01:22:25](https://news.ycombinator.com/item?id=40887516) - [Modifying the OG Xbox to have 256M of RAM [video]](https://www.youtube.com/watch?v=1idSEhUT4PM)
 * [2024-07-05, 12:16:12](https://news.ycombinator.com/item?id=40882038) - [How I turned seemingly 'failed' experiments into a successful PhD](https://www.science.org/content/article/how-i-turned-seemingly-failed-experiments-into-a-successful-phd)
 * [2024-07-05, 04:53:55](https://news.ycombinator.com/item?id=40879924) - [Trackmania Nightmares](https://hallofdreams.org/posts/trackmania-2/)
 * [2024-07-03, 22:46:28](https://news.ycombinator.com/item?id=40870756) - [Ernest Hemingway's brother established a floating republic in the Caribbean](https://www.smithsonianmag.com/history/why-ernest-hemingways-younger-brother-established-a-floating-republic-in-the-caribbean-180984635/)
