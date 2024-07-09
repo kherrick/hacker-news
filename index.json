@@ -1,22 +1,32 @@
 [
   [
     [
-      "2024-07-08, 23:12:08",
-      "https://news.ycombinator.com/item?id=40910776"
+      "2024-07-09, 00:28:31",
+      "https://news.ycombinator.com/item?id=40911339"
     ],
     [
-      "Some Florida cities are living off red light cameras",
-      "https://www.wlrn.org/wlrn-investigations/2024-07-05/red-light-cameras-miami-florida"
+      "LightRAG: The PyTorch Library for Large Language Model Applications",
+      "https://github.com/SylphAI-Inc/LightRAG"
     ]
   ],
   [
     [
-      "2024-07-08, 21:50:54",
-      "https://news.ycombinator.com/item?id=40910122"
+      "2024-07-08, 23:29:46",
+      "https://news.ycombinator.com/item?id=40910913"
     ],
     [
-      "Glest – The free real-time strategy game",
-      "https://glest.org/en/index.php"
+      "Show HN: I built a IMDB for all kinds of micro-creators",
+      "https://fanzine.world/"
+    ]
+  ],
+  [
+    [
+      "2024-07-08, 23:14:10",
+      "https://news.ycombinator.com/item?id=40910792"
+    ],
+    [
+      "Mouse Heaven or Mouse Hell?",
+      "https://www.sciencehistory.org/stories/magazine/mouse-heaven-or-mouse-hell/"
     ]
   ],
   [
@@ -41,22 +51,12 @@
   ],
   [
     [
-      "2024-07-08, 20:52:01",
-      "https://news.ycombinator.com/item?id=40909554"
+      "2024-07-08, 20:29:40",
+      "https://news.ycombinator.com/item?id=40909334"
     ],
     [
-      "How we tamed Node.js event loop lag: a deepdive",
-      "https://trigger.dev/blog/event-loop-lag"
-    ]
-  ],
-  [
-    [
-      "2024-07-08, 20:29:08",
-      "https://news.ycombinator.com/item?id=40909327"
-    ],
-    [
-      "Making My Own Wedding Rings",
-      "https://geoff.greer.fm/2024/07/07/making-my-own-wedding-rings/"
+      "The Deadlock Empire: An Interactive Guide to Locks",
+      "https://deadlockempire.github.io"
     ]
   ],
   [
@@ -97,16 +97,6 @@
     [
       "C++ patterns for low-latency applications including high-frequency trading",
       "https://arxiv.org/abs/2309.04259"
-    ]
-  ],
-  [
-    [
-      "2024-07-08, 18:51:10",
-      "https://news.ycombinator.com/item?id=40908187"
-    ],
-    [
-      "Affinity's Adobe-rivaling creative suite is now free for six months",
-      "https://www.theverge.com/2024/7/8/24194281/affinity-creative-suite-six-month-free-trial-deal-announcement"
     ]
   ],
   [
@@ -287,6 +277,16 @@
     [
       "How I turned seemingly 'failed' experiments into a successful PhD",
       "https://www.science.org/content/article/how-i-turned-seemingly-failed-experiments-into-a-successful-phd"
+    ]
+  ],
+  [
+    [
+      "2024-07-05, 04:53:55",
+      "https://news.ycombinator.com/item?id=40879924"
+    ],
+    [
+      "Trackmania Nightmares",
+      "https://hallofdreams.org/posts/trackmania-2/"
     ]
   ],
   [
