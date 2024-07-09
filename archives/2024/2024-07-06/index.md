@@ -87,6 +87,7 @@
 * [2024-07-06, 04:03:03](https://news.ycombinator.com/item?id=40888090) - [Here’s how you can build and train GPT-2 from scratch using PyTorch](https://differ.blog/p/here-s-how-you-can-build-and-train-gpt-2-from-scratch-using-pytorch-ace4ba)
 * [2024-07-06, 04:00:39](https://news.ycombinator.com/item?id=40888085) - [He Might Have Been the First Jazz Star](https://www.honest-broker.com/p/he-might-have-been-the-first-jazz)
 * [2024-07-06, 03:46:38](https://news.ycombinator.com/item?id=40888030) - [Unverified NPM Account Takeover Vulnerability for Sale on Dark Web Forum](https://socket.dev/blog/unverified-npm-account-takeover-vulnerability-for-sale-on-dark-web-forum)
+* [2024-07-06, 03:33:42](https://news.ycombinator.com/item?id=40887987) - [Ointment containing DNA molecules can combat allergic contact dermatitis](https://medicalxpress.com/news/2024-07-ointment-dna-molecules-combat-allergic.html)
 * [2024-07-06, 03:19:17](https://news.ycombinator.com/item?id=40887955) - [RadioSide turns your spare device into a radio](https://radioside.com)
 * [2024-07-06, 02:56:56](https://news.ycombinator.com/item?id=40887874) - [Zephyr: Implementing a Device Driver for a Sensor](https://bootlin.com/blog/zephyr-implementing-a-device-driver-for-a-sensor/)
 * [2024-07-06, 02:36:18](https://news.ycombinator.com/item?id=40887806) - [How to implement a hash table in C (2021)](https://benhoyt.com/writings/hash-table-in-c/)

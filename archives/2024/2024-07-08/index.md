@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-08](index.md)
 
 * [2024-07-08, 23:29:46](https://news.ycombinator.com/item?id=40910913) - [Show HN: I built a IMDB for all kinds of micro-creators](https://fanzine.world/)
+* [2024-07-08, 23:15:18](https://news.ycombinator.com/item?id=40910799) - [The nasty neighbor effect in humans](https://www.science.org/doi/10.1126/sciadv.adm7968)
 * [2024-07-08, 23:14:10](https://news.ycombinator.com/item?id=40910792) - [Mouse Heaven or Mouse Hell?](https://www.sciencehistory.org/stories/magazine/mouse-heaven-or-mouse-hell/)
 * [2024-07-08, 23:12:08](https://news.ycombinator.com/item?id=40910776) - [Some Florida cities are living off red light cameras](https://www.wlrn.org/wlrn-investigations/2024-07-05/red-light-cameras-miami-florida)
 * [2024-07-08, 21:51:12](https://news.ycombinator.com/item?id=40910130) - [SF's AI boom can't stop real estate slide, as office vacancies reach new record](https://www.cnbc.com/2024/07/08/san-franciscos-real-estate-slide-continues-as-office-vacancies-peak.html)
