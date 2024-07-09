@@ -81,6 +81,7 @@
 * [2024-07-05, 12:00:19](https://news.ycombinator.com/item?id=40881964) - [Confido (YC S21) Is Hiring](https://www.ycombinator.com/companies/confido/jobs/xyw5xRU-full-stack-engineer)
 * [2024-07-05, 11:27:10](https://news.ycombinator.com/item?id=40881836) - [Show HN: I've made Keyword Research tool that's 90% cheaper than anything](https://withtelescope.com)
 * [2024-07-05, 09:10:14](https://news.ycombinator.com/item?id=40881111) - [UK election live updates: Labour Party wins enough seats to form majority gov](https://apnews.com/live/uk-election-results-updates)
+* [2024-07-05, 09:04:24](https://news.ycombinator.com/item?id=40881077) - [Deactivating an API, one step at a time](https://apichangelog.substack.com/p/deactivating-an-api-one-step-at-a)
 * [2024-07-05, 08:52:04](https://news.ycombinator.com/item?id=40880987) - [Shapeways Files for Bankruptcy](https://hackaday.com/2024/07/04/shapeways-files-for-bankruptcy/)
 * [2024-07-05, 08:49:37](https://news.ycombinator.com/item?id=40880975) - [Google takes first major step: E2EE interoperability across all messaging apps](https://www.androidauthority.com/google-mls-e2ee-messages-3457483/)
 * [2024-07-05, 08:42:27](https://news.ycombinator.com/item?id=40880932) - [I Have No Constructor, and I Must Initialize](https://consteval.ca/2024/07/03/initialization/)
