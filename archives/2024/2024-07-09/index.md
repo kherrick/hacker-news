@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-09](index.md)
 
+* [2024-07-09, 14:02:06](https://news.ycombinator.com/item?id=40916271) - [Middlemen have outsized influence on drug prices due to market consolidation,FTC](https://www.cnbc.com/2024/07/09/middlemen-have-outsized-influence-on-us-drug-prices-due-to-market-consolidation-ftc-says.html)
+* [2024-07-09, 14:01:54](https://news.ycombinator.com/item?id=40916268) - [Users rage Microsoft announces retirement of Office 365 connectors within Teams](https://www.theregister.com/2024/07/09/users_rage_as_microsoft_announces/)
+* [2024-07-09, 13:59:52](https://news.ycombinator.com/item?id=40916247) - [Show HN: A Chrome extension that auto-blocks \"woke\" videos on YouTube Kids](https://chromewebstore.google.com/detail/woke-blocker/gbogkjhngbnejieekkbjclachoepfjeh)
 * [2024-07-09, 13:46:06](https://news.ycombinator.com/item?id=40916089) - [Effective altruism is stumbling. Can \"moral ambition\" replace it?](https://bigthink.com/high-culture/effective-altruism-moral-ambition/)
 * [2024-07-09, 13:35:25](https://news.ycombinator.com/item?id=40915970) - [Gleam v1.3.0 – Auto-imports and tolerant expressions](https://gleam.run/news/auto-imports-and-tolerant-expressions/)
 * [2024-07-09, 13:22:54](https://news.ycombinator.com/item?id=40915827) - [First local extinction due to sea level rise identified in the US](https://phys.org/news/2024-07-local-extinction-due-sea.html)
