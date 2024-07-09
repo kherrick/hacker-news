@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-07-09](index.md)
 
+* [2024-07-09, 14:26:57](https://news.ycombinator.com/item?id=40916547) - [Dyson to axe around 1k jobs in Britain](https://www.reuters.com/business/dyson-axe-around-1000-jobs-britain-2024-07-09/)
 * [2024-07-09, 14:20:21](https://news.ycombinator.com/item?id=40916486) - [Scientists create a cell that precludes malignant growth](https://phys.org/news/2024-07-scientists-cell-precludes-malignant-growth.html)
 * [2024-07-09, 14:02:06](https://news.ycombinator.com/item?id=40916271) - [Middlemen have outsized influence on drug prices due to market consolidation,FTC](https://www.cnbc.com/2024/07/09/middlemen-have-outsized-influence-on-us-drug-prices-due-to-market-consolidation-ftc-says.html)
 * [2024-07-09, 14:01:54](https://news.ycombinator.com/item?id=40916268) - [Users rage Microsoft announces retirement of Office 365 connectors within Teams](https://www.theregister.com/2024/07/09/users_rage_as_microsoft_announces/)
 * [2024-07-09, 13:59:52](https://news.ycombinator.com/item?id=40916247) - [Show HN: A Chrome extension that auto-blocks \"woke\" videos on YouTube Kids](https://chromewebstore.google.com/detail/woke-blocker/gbogkjhngbnejieekkbjclachoepfjeh)
+* [2024-07-09, 13:54:59](https://news.ycombinator.com/item?id=40916193) - [Scoped Propagators](https://www.orionreed.com/posts/scoped-propagators)
 * [2024-07-09, 13:46:06](https://news.ycombinator.com/item?id=40916089) - [Effective altruism is stumbling. Can \"moral ambition\" replace it?](https://bigthink.com/high-culture/effective-altruism-moral-ambition/)
 * [2024-07-09, 13:35:25](https://news.ycombinator.com/item?id=40915970) - [Gleam v1.3.0 – Auto-imports and tolerant expressions](https://gleam.run/news/auto-imports-and-tolerant-expressions/)
 * [2024-07-09, 13:22:54](https://news.ycombinator.com/item?id=40915827) - [First local extinction due to sea level rise identified in the US](https://phys.org/news/2024-07-local-extinction-due-sea.html)
@@ -19,6 +21,7 @@
 * [2024-07-09, 12:15:45](https://news.ycombinator.com/item?id=40915192) - [Windows on ARM Is Here to Stay](https://spectrum.ieee.org/windows-on-arm)
 * [2024-07-09, 12:11:36](https://news.ycombinator.com/item?id=40915156) - [Retirement of Office 365 connectors within Microsoft Teams](https://devblogs.microsoft.com/microsoft365dev/retirement-of-office-365-connectors-within-microsoft-teams/)
 * [2024-07-09, 12:09:44](https://news.ycombinator.com/item?id=40915141) - [Etsy: Company escaping 'race to the bottom', getting back to its artisan roots](https://www.cnbc.com/2024/07/09/etsy-escaping-race-to-the-bottom-and-getting-back-to-artisan-roots.html)
+* [2024-07-09, 12:05:43](https://news.ycombinator.com/item?id=40915112) - [Radius/UDP. How legacy protocols need to keep up with modern cryptography](https://blog.cloudflare.com/radius-udp-vulnerable-md5-attack)
 * [2024-07-09, 12:01:37](https://news.ycombinator.com/item?id=40915082) - [PySkyWiFi: Free stupid wi-fi on long-haul flights](https://robertheaton.com/pyskywifi/)
 * [2024-07-09, 11:53:41](https://news.ycombinator.com/item?id=40915035) - [Houthi rebels are operating their own GuardZoo spyware](https://www.theregister.com/2024/07/09/houthi_rebels_malware/)
 * [2024-07-09, 11:48:42](https://news.ycombinator.com/item?id=40915005) - [MobileLLM: Optimizing Sub-Billion Parameter Language Models for On-Device Use](https://github.com/facebookresearch/MobileLLM)

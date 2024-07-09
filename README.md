@@ -1,8 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-09, 14:26:57](https://news.ycombinator.com/item?id=40916547) - [Dyson to axe around 1k jobs in Britain](https://www.reuters.com/business/dyson-axe-around-1000-jobs-britain-2024-07-09/)
 * [2024-07-09, 14:20:21](https://news.ycombinator.com/item?id=40916486) - [Scientists create a cell that precludes malignant growth](https://phys.org/news/2024-07-scientists-cell-precludes-malignant-growth.html)
-* [2024-07-09, 12:20:18](https://news.ycombinator.com/item?id=40915225) - [String Theory Unravels New Pi Formula: A Quantum Leap in Mathematics](https://scitechdaily.com/string-theory-unravels-new-pi-formula-a-quantum-leap-in-mathematics/)
+* [2024-07-09, 13:54:59](https://news.ycombinator.com/item?id=40916193) - [Scoped Propagators](https://www.orionreed.com/posts/scoped-propagators)
 * [2024-07-09, 12:09:44](https://news.ycombinator.com/item?id=40915141) - [Etsy: Company escaping 'race to the bottom', getting back to its artisan roots](https://www.cnbc.com/2024/07/09/etsy-escaping-race-to-the-bottom-and-getting-back-to-artisan-roots.html)
+* [2024-07-09, 12:05:43](https://news.ycombinator.com/item?id=40915112) - [Radius/UDP. How legacy protocols need to keep up with modern cryptography](https://blog.cloudflare.com/radius-udp-vulnerable-md5-attack)
 * [2024-07-09, 12:01:37](https://news.ycombinator.com/item?id=40915082) - [PySkyWiFi: Free stupid wi-fi on long-haul flights](https://robertheaton.com/pyskywifi/)
 * [2024-07-09, 11:48:42](https://news.ycombinator.com/item?id=40915005) - [MobileLLM: Optimizing Sub-Billion Parameter Language Models for On-Device Use](https://github.com/facebookresearch/MobileLLM)
 * [2024-07-09, 11:44:40](https://news.ycombinator.com/item?id=40914958) - [Circos – Circular Visualization](https://circos.ca/)
@@ -25,9 +27,7 @@
 * [2024-07-06, 17:33:51](https://news.ycombinator.com/item?id=40891846) - [Inline previous result in Emacs Lisp](https://xenodium.com/inline-previous-result-and-why-you-should-edebug/)
 * [2024-07-06, 15:32:17](https://news.ycombinator.com/item?id=40891003) - [The Invention of Zero: How Ancient Mesopotamia Created the Concept of Nought](https://www.themarginalian.org/2017/02/02/zero-robert-kaplan/)
 * [2024-07-06, 12:14:12](https://news.ycombinator.com/item?id=40889951) - [Show HN: A JavaScript UI library for imperative JSX](https://www.npmjs.com/package/@matry/dom)
-* [2024-07-06, 05:08:08](https://news.ycombinator.com/item?id=40888282) - [The Nine Ways: On the Enneagram](https://www.theparisreview.org/blog/2024/07/05/the-nine-ways-on-the-enneagram/)
 * [2024-07-06, 03:33:42](https://news.ycombinator.com/item?id=40887987) - [Ointment containing DNA molecules can combat allergic contact dermatitis](https://medicalxpress.com/news/2024-07-ointment-dna-molecules-combat-allergic.html)
-* [2024-07-06, 01:24:07](https://news.ycombinator.com/item?id=40887521) - [Record 4 Camera Angles at Once Using Only iPhones and iPads](https://www.pcmag.com/news/hands-on-apple-final-cut-camera-final-cut-pro-2-multicam)
 * [2024-07-05, 12:16:12](https://news.ycombinator.com/item?id=40882038) - [How I turned seemingly 'failed' experiments into a successful PhD](https://www.science.org/content/article/how-i-turned-seemingly-failed-experiments-into-a-successful-phd)
 * [2024-07-04, 20:45:52](https://news.ycombinator.com/item?id=40877909) - [The War on Estonian Forests (2022)](https://daveon.design/the-war-on-estonian-forests.html)
 
