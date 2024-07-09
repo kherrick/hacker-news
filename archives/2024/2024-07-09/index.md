@@ -4,4 +4,6 @@
 
 ### [Archives](../../index.md) for [2024-07-09](index.md)
 
+* [2024-07-09, 01:18:15](https://news.ycombinator.com/item?id=40911637) - [Rye: A Hassle-Free Python Experience](https://rye.astral.sh/)
+* [2024-07-09, 01:16:38](https://news.ycombinator.com/item?id=40911627) - [Keyboards Influenced by Touchscreens (2011)](https://eagain.net/blog/2011/04/30/keyboards.html)
 * [2024-07-09, 00:28:31](https://news.ycombinator.com/item?id=40911339) - [LightRAG: The PyTorch Library for Large Language Model Applications](https://github.com/SylphAI-Inc/LightRAG)

@@ -54,6 +54,7 @@
 * [2024-07-07, 11:37:25](https://news.ycombinator.com/item?id=40896873) - [Execute JavaScript in a WebAssembly QuickJS Sandbox](https://github.com/sebastianwessel/quickjs)
 * [2024-07-07, 11:35:13](https://news.ycombinator.com/item?id=40896858) - [A Few Notes on the Culture by Iain M Banks](https://theculture.adactio.com/)
 * [2024-07-07, 11:34:27](https://news.ycombinator.com/item?id=40896853) - [John von Neumann: The Man from the Future](https://henrikwarne.com/2024/07/07/john-von-neumann-the-man-from-the-future/)
+* [2024-07-07, 11:17:20](https://news.ycombinator.com/item?id=40896772) - [Guide to attending a space launch in person](https://countdowntoignition.com/guide-to-attending-launch)
 * [2024-07-07, 11:13:34](https://news.ycombinator.com/item?id=40896752) - [Troubleshooting my offline Zpool](https://www.ogselfhosting.com/index.php/2024/03/03/troubleshooting-my-offline-zpool/)
 * [2024-07-07, 11:07:26](https://news.ycombinator.com/item?id=40896708) - [Germany set to overhaul subsidy regime for renewable energy](https://www.reuters.com/business/energy/germany-set-overhaul-subsidy-regime-renewable-energy-document-2024-07-05/)
 * [2024-07-07, 10:46:32](https://news.ycombinator.com/item?id=40896594) - [People are feeling stuck in their jobs](https://www.wsj.com/lifestyle/careers/job-market-slowing-employee-growth-change-wanted-c422f67d)
