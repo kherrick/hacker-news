@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-09](index.md)
 
+* [2024-07-09, 16:35:11](https://news.ycombinator.com/item?id=40918052) - [Google Chrome has a special hidden API accesible only from *.google.com](https://twitter.com/lcasdev/status/1810696257137959018)
 * [2024-07-09, 15:55:13](https://news.ycombinator.com/item?id=40917568) - [Attention Is a Proof of Love](https://papanotes.com/attention-is-a-proof-of-love)
 * [2024-07-09, 15:37:25](https://news.ycombinator.com/item?id=40917358) - [Docs as Code](https://www.writethedocs.org/guide/docs-as-code/)
 * [2024-07-09, 15:33:29](https://news.ycombinator.com/item?id=40917312) - [Linksys Velop routers send Wi-Fi passwords in plaintext to US servers](https://stackdiary.com/linksys-velop-routers-send-wi-fi-passwords-in-plaintext-to-us-servers/)

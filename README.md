@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-09, 16:35:11](https://news.ycombinator.com/item?id=40918052) - [Google Chrome has a special hidden API accesible only from *.google.com](https://twitter.com/lcasdev/status/1810696257137959018)
 * [2024-07-09, 15:55:13](https://news.ycombinator.com/item?id=40917568) - [Attention Is a Proof of Love](https://papanotes.com/attention-is-a-proof-of-love)
 * [2024-07-09, 15:37:25](https://news.ycombinator.com/item?id=40917358) - [Docs as code (2017)](https://www.writethedocs.org/guide/docs-as-code/)
 * [2024-07-09, 15:33:29](https://news.ycombinator.com/item?id=40917312) - [Linksys Velop routers send Wi-Fi passwords in plaintext to US servers](https://stackdiary.com/linksys-velop-routers-send-wi-fi-passwords-in-plaintext-to-us-servers/)
@@ -29,7 +30,6 @@
 * [2024-07-06, 17:33:51](https://news.ycombinator.com/item?id=40891846) - [Inline previous result in Emacs Lisp](https://xenodium.com/inline-previous-result-and-why-you-should-edebug/)
 * [2024-07-06, 15:32:17](https://news.ycombinator.com/item?id=40891003) - [The Invention of Zero: How Ancient Mesopotamia Created the Concept of Nought](https://www.themarginalian.org/2017/02/02/zero-robert-kaplan/)
 * [2024-07-05, 09:04:24](https://news.ycombinator.com/item?id=40881077) - [Deactivating an API, one step at a time](https://apichangelog.substack.com/p/deactivating-an-api-one-step-at-a)
-* [2024-07-04, 20:45:52](https://news.ycombinator.com/item?id=40877909) - [The War on Estonian Forests (2022)](https://daveon.design/the-war-on-estonian-forests.html)
 
 ## [Archives](archives/index.md)
 
