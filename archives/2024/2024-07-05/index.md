@@ -40,6 +40,7 @@
 * [2024-07-05, 18:06:01](https://news.ycombinator.com/item?id=40884790) - [Mysterious export controls on quantum computers](https://www.newscientist.com/article/2436023-multiple-nations-enact-mysterious-export-controls-on-quantum-computers/)
 * [2024-07-05, 18:01:35](https://news.ycombinator.com/item?id=40884750) - [Ask HN: What is your favorite rolling Linux distro?](https://news.ycombinator.com/item?id=40884750)
 * [2024-07-05, 17:42:34](https://news.ycombinator.com/item?id=40884603) - [Fossil of Neanderthal child with Down's syndrome hints early humans' compassion](https://www.theguardian.com/science/article/2024/jun/26/fossil-of-neanderthal-child-with-downs-syndrome-hints-at-early-humans-compassion)
+* [2024-07-05, 17:32:52](https://news.ycombinator.com/item?id=40884536) - [Everything you've been told about the 'Chickenpox bomber' is wrong](https://hushkit.net/2024/06/08/everything-youve-been-told-about-the-chickenbox-bomber-is-wrong-heres-why/)
 * [2024-07-05, 17:30:53](https://news.ycombinator.com/item?id=40884523) - [Volcanoes Can Affect Climate](https://www.usgs.gov/programs/VHP/volcanoes-can-affect-climate)
 * [2024-07-05, 17:04:45](https://news.ycombinator.com/item?id=40884356) - [Let's Stop Counting Centuries](https://dynomight.net/centuries/)
 * [2024-07-05, 17:02:03](https://news.ycombinator.com/item?id=40884331) - [Synchronous Core, Asynchronous Shell](https://blog.sulami.xyz/posts/sync-core-async-shell/)

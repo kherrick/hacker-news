@@ -26,7 +26,7 @@
 * [2024-07-06, 05:27:28](https://news.ycombinator.com/item?id=40888342) - [Replicating D3 Charts with Swift Charts](https://github.com/raheelahmad/Swift-D3-Charts)
 * [2024-07-06, 03:33:42](https://news.ycombinator.com/item?id=40887987) - [Ointment containing DNA molecules can combat allergic contact dermatitis](https://medicalxpress.com/news/2024-07-ointment-dna-molecules-combat-allergic.html)
 * [2024-07-06, 01:24:07](https://news.ycombinator.com/item?id=40887521) - [Record 4 Camera Angles at Once Using Only iPhones and iPads](https://www.pcmag.com/news/hands-on-apple-final-cut-camera-final-cut-pro-2-multicam)
-* [2024-07-06, 01:22:25](https://news.ycombinator.com/item?id=40887516) - [Modifying the OG Xbox to have 256M of RAM [video]](https://www.youtube.com/watch?v=1idSEhUT4PM)
+* [2024-07-05, 17:32:52](https://news.ycombinator.com/item?id=40884536) - [Everything you've been told about the 'Chickenpox bomber' is wrong](https://hushkit.net/2024/06/08/everything-youve-been-told-about-the-chickenbox-bomber-is-wrong-heres-why/)
 * [2024-07-05, 12:16:12](https://news.ycombinator.com/item?id=40882038) - [How I turned seemingly 'failed' experiments into a successful PhD](https://www.science.org/content/article/how-i-turned-seemingly-failed-experiments-into-a-successful-phd)
 * [2024-07-05, 04:53:55](https://news.ycombinator.com/item?id=40879924) - [Trackmania Nightmares](https://hallofdreams.org/posts/trackmania-2/)
 * [2024-07-03, 22:46:28](https://news.ycombinator.com/item?id=40870756) - [Ernest Hemingway's brother established a floating republic in the Caribbean](https://www.smithsonianmag.com/history/why-ernest-hemingways-younger-brother-established-a-floating-republic-in-the-caribbean-180984635/)
