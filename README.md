@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-09, 06:56:49](https://news.ycombinator.com/item?id=40913211) - [The Neuroscience of Resistance to Change](https://www.sanaross.com/the-neuroscience-of-achieving-more/neuroscience-and-ld-overcoming-resistance-to-change)
+* [2024-07-09, 06:01:47](https://news.ycombinator.com/item?id=40912920) - [Show HN: Tegon: Open-source alternative to Jira, Linear](https://github.com/tegonhq/tegon)
 * [2024-07-09, 05:07:07](https://news.ycombinator.com/item?id=40912684) - [The Zombie Misconception of Theoretical Computer Science](https://scottaaronson.blog/?p=8106)
 * [2024-07-09, 04:56:48](https://news.ycombinator.com/item?id=40912650) - [Nearly 2M metric tons of wild fish used to feed Norwegian farmed salmon](https://www.seafoodsource.com/news/aquaculture/report-nearly-2-million-metric-tons-of-wild-fish-used-to-feed-norwegian-farmed-salmon-annually)
 * [2024-07-09, 03:15:24](https://news.ycombinator.com/item?id=40912222) - [Another Silicon Valley institution died spring of 2019: Halted/HSC](http://halted.com)
@@ -21,7 +22,6 @@
 * [2024-07-08, 15:14:06](https://news.ycombinator.com/item?id=40906148) - [Reverse engineering Ticketmaster's rotating barcodes](https://conduition.io/coding/ticketmaster/)
 * [2024-07-08, 14:39:35](https://news.ycombinator.com/item?id=40905849) - [Geomys, a blueprint for a sustainable open-source maintenance firm](https://words.filippo.io/dispatches/geomys/)
 * [2024-07-08, 14:24:24](https://news.ycombinator.com/item?id=40905719) - [Bashbro – Make Any Comp a Web-Based File Server](https://github.com/victrixsoft/bashbro)
-* [2024-07-08, 13:34:58](https://news.ycombinator.com/item?id=40905295) - [Show HN: I am building an open-source incident management platform](https://github.com/incidentalhq/incidental)
 * [2024-07-07, 11:17:20](https://news.ycombinator.com/item?id=40896772) - [Guide to attending a space launch in person](https://countdowntoignition.com/guide-to-attending-launch)
 * [2024-07-06, 15:32:17](https://news.ycombinator.com/item?id=40891003) - [The Invention of Zero: How Ancient Mesopotamia Created the Concept of Nought](https://www.themarginalian.org/2017/02/02/zero-robert-kaplan/)
 * [2024-07-06, 05:27:28](https://news.ycombinator.com/item?id=40888342) - [Replicating D3 Charts with Swift Charts](https://github.com/raheelahmad/Swift-D3-Charts)
