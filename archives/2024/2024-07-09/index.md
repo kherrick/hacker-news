@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-09](index.md)
 
 * [2024-07-09, 06:56:49](https://news.ycombinator.com/item?id=40913211) - [The Neuroscience of Resistance to Change](https://www.sanaross.com/the-neuroscience-of-achieving-more/neuroscience-and-ld-overcoming-resistance-to-change)
+* [2024-07-09, 06:42:34](https://news.ycombinator.com/item?id=40913138) - [The Race to Seal Helium HDDs](https://blog.westerndigital.com/race-to-seal-helium/)
 * [2024-07-09, 06:01:47](https://news.ycombinator.com/item?id=40912920) - [Show HN: Tegon: Open-source alternative to Jira, Linear](https://github.com/tegonhq/tegon)
 * [2024-07-09, 05:07:07](https://news.ycombinator.com/item?id=40912684) - [The Zombie Misconception of Theoretical Computer Science](https://scottaaronson.blog/?p=8106)
 * [2024-07-09, 04:56:48](https://news.ycombinator.com/item?id=40912650) - [Nearly 2M metric tons of wild fish used to feed Norwegian farmed salmon](https://www.seafoodsource.com/news/aquaculture/report-nearly-2-million-metric-tons-of-wild-fish-used-to-feed-norwegian-farmed-salmon-annually)

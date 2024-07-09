@@ -47,6 +47,7 @@
 * [2024-07-07, 13:22:12](https://news.ycombinator.com/item?id=40897518) - [Mongo but on Postgres and with strong consistency benefits](https://github.com/event-driven-io/Pongo)
 * [2024-07-07, 13:20:37](https://news.ycombinator.com/item?id=40897506) - [A reawakening of systems programming meetups](https://notes.eatonphil.com/2024-07-07-systems-meetups.html)
 * [2024-07-07, 13:16:50](https://news.ycombinator.com/item?id=40897471) - [The Metropolis Algorithm: Theory and Examples](https://www.fepress.org/metropolis/)
+* [2024-07-07, 13:12:28](https://news.ycombinator.com/item?id=40897435) - [Where Did RFID Come From? [video]](https://www.youtube.com/watch?v=Kk_ehFreeYw)
 * [2024-07-07, 12:48:45](https://news.ycombinator.com/item?id=40897265) - [German court allows patents for AI-generated inventions](https://www.surrey.ac.uk/news/german-court-allows-patents-ai-generated-inventions)
 * [2024-07-07, 12:37:55](https://news.ycombinator.com/item?id=40897205) - [YouTube Embeds Are Bananas Heavy and It's Fixable](https://frontendmasters.com/blog/youtube-embeds-are-bananas-heavy-and-its-fixable/)
 * [2024-07-07, 12:33:28](https://news.ycombinator.com/item?id=40897180) - [What happened to the artificial-intelligence revolution?](https://www.economist.com/finance-and-economics/2024/07/02/what-happened-to-the-artificial-intelligence-revolution)
