@@ -4,7 +4,6 @@
 * [2024-07-09, 06:42:34](https://news.ycombinator.com/item?id=40913138) - [The Race to Seal Helium HDDs](https://blog.westerndigital.com/race-to-seal-helium/)
 * [2024-07-09, 06:01:47](https://news.ycombinator.com/item?id=40912920) - [Show HN: Tegon: Open-source alternative to Jira, Linear](https://github.com/tegonhq/tegon)
 * [2024-07-09, 05:07:07](https://news.ycombinator.com/item?id=40912684) - [The zombie misconception of theoretical computer science](https://scottaaronson.blog/?p=8106)
-* [2024-07-09, 04:56:48](https://news.ycombinator.com/item?id=40912650) - [Nearly 2M metric tons of wild fish used to feed Norwegian farmed salmon annually](https://www.seafoodsource.com/news/aquaculture/report-nearly-2-million-metric-tons-of-wild-fish-used-to-feed-norwegian-farmed-salmon-annually)
 * [2024-07-09, 03:15:24](https://news.ycombinator.com/item?id=40912222) - [Another Silicon Valley institution died spring of 2019: Halted/HSC](http://halted.com)
 * [2024-07-09, 02:04:45](https://news.ycombinator.com/item?id=40911869) - [State of Text Rendering 2024](https://behdad.org/text2024/)
 * [2024-07-09, 01:18:15](https://news.ycombinator.com/item?id=40911637) - [Rye: A Hassle-Free Python Experience](https://rye.astral.sh/)
@@ -29,6 +28,7 @@
 * [2024-07-06, 03:33:42](https://news.ycombinator.com/item?id=40887987) - [Ointment containing DNA molecules can combat allergic contact dermatitis](https://medicalxpress.com/news/2024-07-ointment-dna-molecules-combat-allergic.html)
 * [2024-07-06, 01:24:07](https://news.ycombinator.com/item?id=40887521) - [Record 4 Camera Angles at Once Using Only iPhones and iPads](https://www.pcmag.com/news/hands-on-apple-final-cut-camera-final-cut-pro-2-multicam)
 * [2024-07-05, 12:16:12](https://news.ycombinator.com/item?id=40882038) - [How I turned seemingly 'failed' experiments into a successful PhD](https://www.science.org/content/article/how-i-turned-seemingly-failed-experiments-into-a-successful-phd)
+* [2024-07-05, 04:53:55](https://news.ycombinator.com/item?id=40879924) - [Trackmania Nightmares](https://hallofdreams.org/posts/trackmania-2/)
 * [2024-07-03, 15:45:01](https://news.ycombinator.com/item?id=40867097) - [Don't use booleans (2019)](https://www.luu.io/posts/dont-use-booleans)
 
 ## [Archives](archives/index.md)
