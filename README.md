@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-09, 17:42:04](https://news.ycombinator.com/item?id=40918829) - [Don't use 7-segment displays [pdf]](https://harold.thimbleby.net/cv/files/seven-segment.pdf)
 * [2024-07-09, 17:38:52](https://news.ycombinator.com/item?id=40918790) - [Unreal Engine 5 in WebGPU](https://twitter.com/AlexStLouis10/status/1810514325632659742)
 * [2024-07-09, 17:00:03](https://news.ycombinator.com/item?id=40918300) - [Meticulous (YC S21) is hiring to eliminate E2E tests](https://news.ycombinator.com/item?id=40918300)
 * [2024-07-09, 16:58:24](https://news.ycombinator.com/item?id=40918284) - [Ariane 6 first flight (Official broadcast)[video]](https://www.youtube.com/watch?v=B0oFpOJaIYc)
@@ -21,7 +22,6 @@
 * [2024-07-09, 00:54:13](https://news.ycombinator.com/item?id=40911500) - [Sljit: Platform independent low-level JIT compiler](https://github.com/zherczeg/sljit)
 * [2024-07-08, 20:29:40](https://news.ycombinator.com/item?id=40909334) - [The Deadlock Empire: An Interactive Guide to Locks](https://deadlockempire.github.io)
 * [2024-07-08, 20:29:08](https://news.ycombinator.com/item?id=40909327) - [Making my own wedding rings](https://geoff.greer.fm/2024/07/07/making-my-own-wedding-rings/)
-* [2024-07-08, 18:37:44](https://news.ycombinator.com/item?id=40908062) - [Paleolithic eyed needles and the evolution of dress](https://www.science.org/doi/10.1126/sciadv.adp2887)
 * [2024-07-08, 18:27:16](https://news.ycombinator.com/item?id=40907933) - [No more boot loader: Please use the kernel instead](https://pretalx.com/devconf-cz-2024/talk/W3AVCT/)
 * [2024-07-08, 15:14:06](https://news.ycombinator.com/item?id=40906148) - [Reverse engineering Ticketmaster's rotating barcodes](https://conduition.io/coding/ticketmaster/)
 * [2024-07-07, 16:04:41](https://news.ycombinator.com/item?id=40898525) - [Tim Doucette, a blind astronomer who built the Deep Sky Eye Observatory](https://www.amiplus.ca/m/eCGPTwFA/deep-sky-eye?seriesId=Show%2FOur+Community)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-09](index.md)
 
+* [2024-07-09, 17:42:04](https://news.ycombinator.com/item?id=40918829) - [Don't use 7-segment displays [pdf]](https://harold.thimbleby.net/cv/files/seven-segment.pdf)
 * [2024-07-09, 17:38:52](https://news.ycombinator.com/item?id=40918790) - [Unreal Engine 5 in WebGPU](https://twitter.com/AlexStLouis10/status/1810514325632659742)
 * [2024-07-09, 17:00:03](https://news.ycombinator.com/item?id=40918300) - [Meticulous (YC S21) is hiring to eliminate E2E tests](https://news.ycombinator.com/item?id=40918300)
 * [2024-07-09, 16:58:24](https://news.ycombinator.com/item?id=40918284) - [Ariane 6 first flight (Official broadcast)[video]](https://www.youtube.com/watch?v=B0oFpOJaIYc)
