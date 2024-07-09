@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-09, 21:24:42](https://news.ycombinator.com/item?id=40921336) - [Framework Laptop 13 Deep Dive: A laptop webcam with smartphone technology](https://frame.work/blog/framework-laptop-13-deep-dive---a-laptop-webcam-with-smartphone-technology)
 * [2024-07-09, 21:23:14](https://news.ycombinator.com/item?id=40921321) - [Family fight Samsung over fridge odour they say caused dizziness and memory loss](https://www.abc.net.au/news/2024-07-10/victorian-family-battles-samsung-over-fridge-odour/104071036)
 * [2024-07-09, 20:36:53](https://news.ycombinator.com/item?id=40920812) - [Show HN: Parallel DOM – Upgrade your DOM to be multithreaded](https://www.pdom.dev/)
 * [2024-07-09, 20:23:12](https://news.ycombinator.com/item?id=40920681) - [Show HN: Maelstrom – A Hermetic, Clustered Test Runner for Python and Rust](https://github.com/maelstrom-software/maelstrom)
@@ -11,7 +12,6 @@
 * [2024-07-09, 17:00:03](https://news.ycombinator.com/item?id=40918300) - [Meticulous (YC S21) is hiring to eliminate E2E tests](https://news.ycombinator.com/item?id=40918300)
 * [2024-07-09, 16:45:01](https://news.ycombinator.com/item?id=40918152) - [Ask HN: How do browsers isolate internal audio from microphone input?](https://news.ycombinator.com/item?id=40918152)
 * [2024-07-09, 15:37:25](https://news.ycombinator.com/item?id=40917358) - [Docs as code (2017)](https://www.writethedocs.org/guide/docs-as-code/)
-* [2024-07-09, 15:33:29](https://news.ycombinator.com/item?id=40917312) - [Linksys Velop routers send Wi-Fi passwords in plaintext to US servers](https://stackdiary.com/linksys-velop-routers-send-wi-fi-passwords-in-plaintext-to-us-servers/)
 * [2024-07-09, 14:48:59](https://news.ycombinator.com/item?id=40916786) - [Turbopuffer: Fast search on object storage](https://turbopuffer.com/blog/turbopuffer)
 * [2024-07-09, 13:54:59](https://news.ycombinator.com/item?id=40916193) - [Scoped Propagators](https://www.orionreed.com/posts/scoped-propagators)
 * [2024-07-09, 12:01:37](https://news.ycombinator.com/item?id=40915082) - [PySkyWiFi: Free stupid wi-fi on long-haul flights](https://robertheaton.com/pyskywifi/)

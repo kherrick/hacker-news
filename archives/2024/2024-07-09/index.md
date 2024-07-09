@@ -7,6 +7,7 @@
 * [2024-07-09, 21:40:44](https://news.ycombinator.com/item?id=40921511) - [Daylight eInk Computer](https://daylightcomputer.com)
 * [2024-07-09, 21:31:18](https://news.ycombinator.com/item?id=40921398) - [A small studio made a game based on Stanislaw Lem's novel](https://invinciblethegame.com/)
 * [2024-07-09, 21:26:18](https://news.ycombinator.com/item?id=40921343) - [Russia Leverages AI-enhanced \"Meliorator\" software for foreign malign influence](https://www.cyber.gc.ca/en/news-events/russian-state-sponsored-media-organization-leverages-ai-enhanced-meliorator-software-foreign-malign-influence-activity)
+* [2024-07-09, 21:24:42](https://news.ycombinator.com/item?id=40921336) - [Framework Laptop 13 Deep Dive: A laptop webcam with smartphone technology](https://frame.work/blog/framework-laptop-13-deep-dive---a-laptop-webcam-with-smartphone-technology)
 * [2024-07-09, 21:24:29](https://news.ycombinator.com/item?id=40921335) - [Show HN: Save your cells for future aging therapies](https://ambrogia.bio)
 * [2024-07-09, 21:23:14](https://news.ycombinator.com/item?id=40921321) - [Family fight Samsung over fridge odour they say caused dizziness and memory loss](https://www.abc.net.au/news/2024-07-10/victorian-family-battles-samsung-over-fridge-odour/104071036)
 * [2024-07-09, 21:20:51](https://news.ycombinator.com/item?id=40921290) - [Apple approves Epic Games Store app for iOS](https://arstechnica.com/gadgets/2024/07/report-apple-approves-epic-games-store-on-ios-in-europe/)
