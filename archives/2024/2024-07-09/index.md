@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-07-09](index.md)
 
+* [2024-07-09, 19:03:55](https://news.ycombinator.com/item?id=40919640) - [Speed Limiters Now Mandatory in All New EU Cars](https://www.autoweek.com/news/a61532276/mandatory-speed-limiters-europe-cars/)
+* [2024-07-09, 18:25:03](https://news.ycombinator.com/item?id=40919253) - [Judge dismisses DMCA copyright claim in GitHub Copilot suit](https://www.theregister.com/2024/07/08/github_copilot_dmca/)
 * [2024-07-09, 18:12:57](https://news.ycombinator.com/item?id=40919139) - [Spain sentences 15 schoolchildren over AI-generated naked images](https://www.theguardian.com/world/article/2024/jul/09/spain-sentences-15-school-children-over-ai-generated-naked-images)
 * [2024-07-09, 17:42:04](https://news.ycombinator.com/item?id=40918829) - [Don't use 7-segment displays [pdf]](https://harold.thimbleby.net/cv/files/seven-segment.pdf)
 * [2024-07-09, 17:38:52](https://news.ycombinator.com/item?id=40918790) - [Unreal Engine 5 in WebGPU](https://twitter.com/AlexStLouis10/status/1810514325632659742)
+* [2024-07-09, 17:20:11](https://news.ycombinator.com/item?id=40918553) - [The Impact of the Kaspersky Ban](https://www.bitsight.com/blog/impact-kaspersky-ban)
 * [2024-07-09, 17:00:03](https://news.ycombinator.com/item?id=40918300) - [Meticulous (YC S21) is hiring to eliminate E2E tests](https://news.ycombinator.com/item?id=40918300)
 * [2024-07-09, 16:58:24](https://news.ycombinator.com/item?id=40918284) - [Ariane 6 first flight (Official broadcast)[video]](https://www.youtube.com/watch?v=B0oFpOJaIYc)
 * [2024-07-09, 16:56:37](https://news.ycombinator.com/item?id=40918267) - [Electric Vehicle Batteries Surprising New Source of 'Forever Chemical' Pollution](https://www.businessinsider.com/ev-batteries-pfas-forever-chemicals-scientists-say-2024-7)

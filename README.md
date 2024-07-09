@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-09, 18:12:57](https://news.ycombinator.com/item?id=40919139) - [Spain sentences 15 schoolchildren over AI-generated naked images](https://www.theguardian.com/world/article/2024/jul/09/spain-sentences-15-school-children-over-ai-generated-naked-images)
+* [2024-07-09, 19:03:55](https://news.ycombinator.com/item?id=40919640) - [Speed Limiters Now Mandatory in All New EU Cars](https://www.autoweek.com/news/a61532276/mandatory-speed-limiters-europe-cars/)
+* [2024-07-09, 18:25:03](https://news.ycombinator.com/item?id=40919253) - [Judge dismisses DMCA copyright claim in GitHub Copilot suit](https://www.theregister.com/2024/07/08/github_copilot_dmca/)
 * [2024-07-09, 17:42:04](https://news.ycombinator.com/item?id=40918829) - [Don't use 7-segment displays [pdf]](https://harold.thimbleby.net/cv/files/seven-segment.pdf)
-* [2024-07-09, 17:38:52](https://news.ycombinator.com/item?id=40918790) - [Unreal Engine 5 in WebGPU](https://twitter.com/AlexStLouis10/status/1810514325632659742)
+* [2024-07-09, 17:20:11](https://news.ycombinator.com/item?id=40918553) - [The Impact of the Kaspersky Ban](https://www.bitsight.com/blog/impact-kaspersky-ban)
 * [2024-07-09, 17:00:03](https://news.ycombinator.com/item?id=40918300) - [Meticulous (YC S21) is hiring to eliminate E2E tests](https://news.ycombinator.com/item?id=40918300)
 * [2024-07-09, 16:58:24](https://news.ycombinator.com/item?id=40918284) - [Ariane 6 first flight (Official broadcast)[video]](https://www.youtube.com/watch?v=B0oFpOJaIYc)
 * [2024-07-09, 16:45:01](https://news.ycombinator.com/item?id=40918152) - [Ask HN: How Do Browsers Isolate Internal Audio from Microphone Input?](https://news.ycombinator.com/item?id=40918152)
@@ -27,7 +28,6 @@
 * [2024-07-07, 16:04:41](https://news.ycombinator.com/item?id=40898525) - [Tim Doucette, a blind astronomer who built the Deep Sky Eye Observatory](https://www.amiplus.ca/m/eCGPTwFA/deep-sky-eye?seriesId=Show%2FOur+Community)
 * [2024-07-07, 11:17:20](https://news.ycombinator.com/item?id=40896772) - [Guide to attending a space launch in person](https://countdowntoignition.com/guide-to-attending-launch)
 * [2024-07-07, 00:01:55](https://news.ycombinator.com/item?id=40894216) - [Read Hacker News on Kindle (2022)](https://ktool.io/hacker-news-to-kindle)
-* [2024-07-06, 20:30:05](https://news.ycombinator.com/item?id=40893009) - [Things[5] I Learned About Leadership from the Death and Rebirth of Microsoft](https://dareobasanjo.medium.com/5-things-i-learned-about-leadership-from-the-death-rebirth-of-microsoft-3eaf42567061)
 * [2024-07-06, 17:33:51](https://news.ycombinator.com/item?id=40891846) - [Inline previous result in Emacs Lisp](https://xenodium.com/inline-previous-result-and-why-you-should-edebug/)
 * [2024-07-05, 09:04:24](https://news.ycombinator.com/item?id=40881077) - [Deactivating an API, one step at a time](https://apichangelog.substack.com/p/deactivating-an-api-one-step-at-a)
 
