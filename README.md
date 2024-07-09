@@ -23,12 +23,12 @@
 * [2024-07-09, 08:30:38](https://news.ycombinator.com/item?id=40913736) - [Show HN: Crawlee for Python – a web scraping and browser automation library](https://crawlee.dev/python/)
 * [2024-07-09, 06:42:34](https://news.ycombinator.com/item?id=40913138) - [The Race to Seal Helium HDDs (2021)](https://blog.westerndigital.com/race-to-seal-helium/)
 * [2024-07-09, 00:54:13](https://news.ycombinator.com/item?id=40911500) - [Sljit: Platform independent low-level JIT compiler](https://github.com/zherczeg/sljit)
-* [2024-07-08, 20:29:08](https://news.ycombinator.com/item?id=40909327) - [Making my own wedding rings](https://geoff.greer.fm/2024/07/07/making-my-own-wedding-rings/)
 * [2024-07-08, 15:14:06](https://news.ycombinator.com/item?id=40906148) - [Reverse engineering Ticketmaster's rotating barcodes](https://conduition.io/coding/ticketmaster/)
 * [2024-07-08, 09:41:52](https://news.ycombinator.com/item?id=40903987) - [Invisible Landscapes](https://orionmagazine.org/article/interstitium-scientific-discovery-anatomy/)
 * [2024-07-07, 16:04:41](https://news.ycombinator.com/item?id=40898525) - [Tim Doucette, a blind astronomer who built the Deep Sky Eye Observatory](https://www.amiplus.ca/m/eCGPTwFA/deep-sky-eye?seriesId=Show%2FOur+Community)
 * [2024-07-07, 00:01:55](https://news.ycombinator.com/item?id=40894216) - [Read Hacker News on Kindle (2022)](https://ktool.io/hacker-news-to-kindle)
 * [2024-07-06, 17:33:51](https://news.ycombinator.com/item?id=40891846) - [Inline previous result in Emacs Lisp](https://xenodium.com/inline-previous-result-and-why-you-should-edebug/)
+* [2024-07-05, 16:09:51](https://news.ycombinator.com/item?id=40883942) - [Graph-Based Ceramics](https://www.alexreichert.com/blog/graph-based-ceramics)
 * [2024-07-05, 09:04:24](https://news.ycombinator.com/item?id=40881077) - [Deactivating an API, one step at a time](https://apichangelog.substack.com/p/deactivating-an-api-one-step-at-a)
 
 ## [Archives](archives/index.md)
