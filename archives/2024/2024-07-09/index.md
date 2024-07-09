@@ -8,6 +8,7 @@
 * [2024-07-09, 12:15:45](https://news.ycombinator.com/item?id=40915192) - [Windows on ARM Is Here to Stay](https://spectrum.ieee.org/windows-on-arm)
 * [2024-07-09, 12:11:36](https://news.ycombinator.com/item?id=40915156) - [Retirement of Office 365 connectors within Microsoft Teams](https://devblogs.microsoft.com/microsoft365dev/retirement-of-office-365-connectors-within-microsoft-teams/)
 * [2024-07-09, 12:01:37](https://news.ycombinator.com/item?id=40915082) - [PySkyWiFi: Free stupid wi-fi on long-haul flights](https://robertheaton.com/pyskywifi/)
+* [2024-07-09, 11:39:21](https://news.ycombinator.com/item?id=40914911) - [Chipotle staff are sick of TikTokers trying to catch them 'skimping'](https://www.theguardian.com/food/article/2024/jun/13/chipotle-workers-customers-filming)
 * [2024-07-09, 11:20:57](https://news.ycombinator.com/item?id=40914769) - [California to impose permanent water restrictions on cities and towns](https://ktla.com/news/california/california-to-impose-permanent-water-restrictions-on-cities-and-towns/)
 * [2024-07-09, 11:19:43](https://news.ycombinator.com/item?id=40914761) - [OneFileLinux: A 20MB Alpine metadistro that fits into the ESP](https://hub.zhovner.com/geek/one-file-linux/)
 * [2024-07-09, 11:12:15](https://news.ycombinator.com/item?id=40914706) - [Some landfill 'burps' contain airborne PFAS, study finds](https://phys.org/news/2024-06-landfill-burps-airborne-pfas.html)
