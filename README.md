@@ -2,8 +2,7 @@
 
 * [2024-07-09, 21:40:44](https://news.ycombinator.com/item?id=40921511) - [Daylight eInk Computer](https://daylightcomputer.com)
 * [2024-07-09, 21:31:18](https://news.ycombinator.com/item?id=40921398) - [A small studio made a game based on Stanislaw Lem's novel](https://invinciblethegame.com/)
-* [2024-07-09, 21:24:29](https://news.ycombinator.com/item?id=40921335) - [Show HN: Save your cells for future aging therapies](https://ambrogia.bio)
-* [2024-07-09, 20:53:07](https://news.ycombinator.com/item?id=40920969) - [Ask HN: Why are 404 Media posts auto-killed?](https://news.ycombinator.com/item?id=40920969)
+* [2024-07-09, 21:26:18](https://news.ycombinator.com/item?id=40921343) - [Russia Leverages AI-enhanced \"Meliorator\" software for foreign malign influence](https://www.cyber.gc.ca/en/news-events/russian-state-sponsored-media-organization-leverages-ai-enhanced-meliorator-software-foreign-malign-influence-activity)
 * [2024-07-09, 20:36:53](https://news.ycombinator.com/item?id=40920812) - [Show HN → Parallel DOM: Upgrade your DOM to be multithreaded](https://www.pdom.dev/)
 * [2024-07-09, 19:38:36](https://news.ycombinator.com/item?id=40920122) - [How CD Pregaps Gained Their Hidden Track Superpowers](https://tedium.co/2024/07/06/compact-disc-pregap-history/)
 * [2024-07-09, 18:51:28](https://news.ycombinator.com/item?id=40919505) - [Tokyo's oldest train line – in pictures](https://www.theguardian.com/artanddesign/gallery/2024/jul/08/tokyos-oldest-train-line-jr-yamanote-in-pictures)
@@ -27,6 +26,7 @@
 * [2024-07-09, 00:54:13](https://news.ycombinator.com/item?id=40911500) - [Sljit: Platform independent low-level JIT compiler](https://github.com/zherczeg/sljit)
 * [2024-07-07, 16:04:41](https://news.ycombinator.com/item?id=40898525) - [Tim Doucette, a blind astronomer who built the Deep Sky Eye Observatory](https://www.amiplus.ca/m/eCGPTwFA/deep-sky-eye?seriesId=Show%2FOur+Community)
 * [2024-07-07, 14:52:57](https://news.ycombinator.com/item?id=40898118) - [International Reply Coupon](https://en.wikipedia.org/wiki/International_reply_coupon)
+* [2024-07-06, 17:33:51](https://news.ycombinator.com/item?id=40891846) - [Inline previous result in Emacs Lisp](https://xenodium.com/inline-previous-result-and-why-you-should-edebug/)
 * [2024-07-06, 15:32:17](https://news.ycombinator.com/item?id=40891003) - [The Invention of Zero](https://www.themarginalian.org/2017/02/02/zero-robert-kaplan/)
 * [2024-07-05, 16:09:51](https://news.ycombinator.com/item?id=40883942) - [Graph-Based Ceramics](https://www.alexreichert.com/blog/graph-based-ceramics)
 * [2024-07-05, 09:04:24](https://news.ycombinator.com/item?id=40881077) - [Deactivating an API, one step at a time](https://apichangelog.substack.com/p/deactivating-an-api-one-step-at-a)
