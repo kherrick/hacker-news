@@ -2,11 +2,9 @@
 
 * [2024-07-09, 17:00:03](https://news.ycombinator.com/item?id=40918300) - [Meticulous (YC S21) is hiring to eliminate E2E tests](https://news.ycombinator.com/item?id=40918300)
 * [2024-07-09, 16:58:24](https://news.ycombinator.com/item?id=40918284) - [Ariane 6 first flight (Official broadcast)[video]](https://www.youtube.com/watch?v=B0oFpOJaIYc)
-* [2024-07-09, 16:56:37](https://news.ycombinator.com/item?id=40918267) - [Electric Vehicle Batteries Surprising New Source of 'Forever Chemical' Pollution](https://www.businessinsider.com/ev-batteries-pfas-forever-chemicals-scientists-say-2024-7)
 * [2024-07-09, 16:45:01](https://news.ycombinator.com/item?id=40918152) - [Ask HN: How Do Browsers Isolate Internal Audio from Microphone Input?](https://news.ycombinator.com/item?id=40918152)
 * [2024-07-09, 16:35:11](https://news.ycombinator.com/item?id=40918052) - [Google Chrome has a special hidden API accesible only from *.google.com](https://twitter.com/lcasdev/status/1810696257137959018)
 * [2024-07-09, 15:33:29](https://news.ycombinator.com/item?id=40917312) - [Linksys Velop routers send Wi-Fi passwords in plaintext to US servers](https://stackdiary.com/linksys-velop-routers-send-wi-fi-passwords-in-plaintext-to-us-servers/)
-* [2024-07-09, 15:21:56](https://news.ycombinator.com/item?id=40917158) - [Humane execs leave company to found AI fact-checking startup](https://techcrunch.com/2024/07/09/humane-execs-leave-company-to-found-ai-fact-checking-startup/)
 * [2024-07-09, 14:51:25](https://news.ycombinator.com/item?id=40916820) - [CVE-2024-6409: OpenSSH: Possible remote code execution in privsep child](https://www.openwall.com/lists/oss-security/2024/07/08/2)
 * [2024-07-09, 14:01:20](https://news.ycombinator.com/item?id=40916260) - [Evolve Bank and Trust confirms LockBit stole 7.6M people's data](https://www.theregister.com/2024/07/09/evolve_lockbit_attack/)
 * [2024-07-09, 13:54:59](https://news.ycombinator.com/item?id=40916193) - [Scoped Propagators](https://www.orionreed.com/posts/scoped-propagators)
@@ -22,6 +20,7 @@
 * [2024-07-09, 00:54:13](https://news.ycombinator.com/item?id=40911500) - [Sljit: Platform independent low-level JIT compiler](https://github.com/zherczeg/sljit)
 * [2024-07-08, 20:29:40](https://news.ycombinator.com/item?id=40909334) - [The Deadlock Empire: An Interactive Guide to Locks](https://deadlockempire.github.io)
 * [2024-07-08, 20:29:08](https://news.ycombinator.com/item?id=40909327) - [Making my own wedding rings](https://geoff.greer.fm/2024/07/07/making-my-own-wedding-rings/)
+* [2024-07-08, 18:37:44](https://news.ycombinator.com/item?id=40908062) - [Paleolithic eyed needles and the evolution of dress](https://www.science.org/doi/10.1126/sciadv.adp2887)
 * [2024-07-08, 18:27:16](https://news.ycombinator.com/item?id=40907933) - [No more boot loader: Please use the kernel instead](https://pretalx.com/devconf-cz-2024/talk/W3AVCT/)
 * [2024-07-08, 15:14:06](https://news.ycombinator.com/item?id=40906148) - [Reverse engineering Ticketmaster's rotating barcodes](https://conduition.io/coding/ticketmaster/)
 * [2024-07-07, 16:04:41](https://news.ycombinator.com/item?id=40898525) - [Tim Doucette, a blind astronomer who built the Deep Sky Eye Observatory](https://www.amiplus.ca/m/eCGPTwFA/deep-sky-eye?seriesId=Show%2FOur+Community)
@@ -30,6 +29,7 @@
 * [2024-07-06, 17:33:51](https://news.ycombinator.com/item?id=40891846) - [Inline previous result in Emacs Lisp](https://xenodium.com/inline-previous-result-and-why-you-should-edebug/)
 * [2024-07-06, 15:32:17](https://news.ycombinator.com/item?id=40891003) - [The Invention of Zero: How Ancient Mesopotamia Created the Concept of Nought](https://www.themarginalian.org/2017/02/02/zero-robert-kaplan/)
 * [2024-07-05, 09:04:24](https://news.ycombinator.com/item?id=40881077) - [Deactivating an API, one step at a time](https://apichangelog.substack.com/p/deactivating-an-api-one-step-at-a)
+* [2024-07-04, 20:45:52](https://news.ycombinator.com/item?id=40877909) - [The War on Estonian Forests (2022)](https://daveon.design/the-war-on-estonian-forests.html)
 
 ## [Archives](archives/index.md)
 
