@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-07-09, 20:54:11",
-      "https://news.ycombinator.com/item?id=40920980"
-    ],
-    [
-      "Metal Thieves Are Stripping America's Cities",
-      "https://www.nytimes.com/2024/07/09/us/copper-theft-heavy-metal.html"
-    ]
-  ],
-  [
-    [
       "2024-07-09, 19:49:11",
       "https://news.ycombinator.com/item?id=40920261"
     ],
@@ -21,31 +11,11 @@
   ],
   [
     [
-      "2024-07-09, 19:48:39",
-      "https://news.ycombinator.com/item?id=40920256"
-    ],
-    [
-      "Pulitzer winning reporter faces jail for protecting funding scandal sources",
-      "https://www.nbcnews.com/investigations/anna-wolfe-pulitzer-mississippi-welfare-scandal-phil-bryant-rcna159936"
-    ]
-  ],
-  [
-    [
-      "2024-07-09, 19:38:44",
-      "https://news.ycombinator.com/item?id=40920125"
-    ],
-    [
-      "Let's Treat Docs Like Code",
-      "https://www.docslikecode.com/"
-    ]
-  ],
-  [
-    [
       "2024-07-09, 19:09:55",
       "https://news.ycombinator.com/item?id=40919707"
     ],
     [
-      "Master controller of aging and development uncovered",
+      "New insights into transcription factors and chromatin remodeling",
       "https://longevity.technology/news/master-controller-of-aging-and-development-uncovered/"
     ]
   ],
@@ -91,6 +61,16 @@
   ],
   [
     [
+      "2024-07-09, 17:20:11",
+      "https://news.ycombinator.com/item?id=40918553"
+    ],
+    [
+      "The Impact of the Kaspersky Ban",
+      "https://www.bitsight.com/blog/impact-kaspersky-ban"
+    ]
+  ],
+  [
+    [
       "2024-07-09, 17:00:03",
       "https://news.ycombinator.com/item?id=40918300"
     ],
@@ -105,7 +85,7 @@
       "https://news.ycombinator.com/item?id=40918152"
     ],
     [
-      "Ask HN: How Do Browsers Isolate Internal Audio from Microphone Input?",
+      "Ask HN: How do browsers isolate internal audio from microphone input?",
       "https://news.ycombinator.com/item?id=40918152"
     ]
   ],
@@ -141,11 +121,21 @@
   ],
   [
     [
+      "2024-07-09, 15:00:13",
+      "https://news.ycombinator.com/item?id=40916904"
+    ],
+    [
+      "Lots of people in education disagree with the premise of maximizing learning",
+      "https://www.justinmath.com/maximizing-learning-vs-other-things/"
+    ]
+  ],
+  [
+    [
       "2024-07-09, 14:48:59",
       "https://news.ycombinator.com/item?id=40916786"
     ],
     [
-      "turbopuffer: Fast Search on Object Storage",
+      "Turbopuffer: Fast search on object storage",
       "https://turbopuffer.com/blog/turbopuffer"
     ]
   ],
@@ -255,7 +245,7 @@
       "https://news.ycombinator.com/item?id=40903987"
     ],
     [
-      "Invisible Landscapes",
+      "A \"new\" part of the human body, the interstitium",
       "https://orionmagazine.org/article/interstitium-scientific-discovery-anatomy/"
     ]
   ],
@@ -267,6 +257,16 @@
     [
       "Tim Doucette, a blind astronomer who built the Deep Sky Eye Observatory",
       "https://www.amiplus.ca/m/eCGPTwFA/deep-sky-eye?seriesId=Show%2FOur+Community"
+    ]
+  ],
+  [
+    [
+      "2024-07-06, 17:33:51",
+      "https://news.ycombinator.com/item?id=40891846"
+    ],
+    [
+      "Inline previous result in Emacs Lisp",
+      "https://xenodium.com/inline-previous-result-and-why-you-should-edebug/"
     ]
   ],
   [
