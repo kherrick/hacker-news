@@ -45,7 +45,7 @@
       "https://news.ycombinator.com/item?id=40920812"
     ],
     [
-      "Show HN → Parallel DOM: Upgrade your DOM to be multithreaded",
+      "Show HN: Parallel DOM – Upgrade your DOM to be multithreaded",
       "https://www.pdom.dev/"
     ]
   ],
@@ -137,16 +137,6 @@
     [
       "Docs as code (2017)",
       "https://www.writethedocs.org/guide/docs-as-code/"
-    ]
-  ],
-  [
-    [
-      "2024-07-09, 15:33:29",
-      "https://news.ycombinator.com/item?id=40917312"
-    ],
-    [
-      "Linksys Velop routers send Wi-Fi passwords in plaintext to US servers",
-      "https://stackdiary.com/linksys-velop-routers-send-wi-fi-passwords-in-plaintext-to-us-servers/"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "International Reply Coupon",
       "https://en.wikipedia.org/wiki/International_reply_coupon"
+    ]
+  ],
+  [
+    [
+      "2024-07-06, 17:33:51",
+      "https://news.ycombinator.com/item?id=40891846"
+    ],
+    [
+      "Inline previous result in Emacs Lisp",
+      "https://xenodium.com/inline-previous-result-and-why-you-should-edebug/"
     ]
   ],
   [
