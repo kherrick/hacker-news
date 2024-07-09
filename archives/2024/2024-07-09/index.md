@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-09](index.md)
 
+* [2024-07-09, 17:00:03](https://news.ycombinator.com/item?id=40918300) - [Meticulous (YC S21) is hiring to eliminate E2E tests](https://news.ycombinator.com/item?id=40918300)
 * [2024-07-09, 16:35:11](https://news.ycombinator.com/item?id=40918052) - [Google Chrome has a special hidden API accesible only from *.google.com](https://twitter.com/lcasdev/status/1810696257137959018)
+* [2024-07-09, 16:34:51](https://news.ycombinator.com/item?id=40918047) - [Google advertisement for \"Wordle\" returns a spam fishing result](https://www.google.com/search?q=wordle&sca_esv=5bbe78ef35325a50&sca_upv=1&source=hp&ei=5mWNZsTRIY3LkPIPgeaW8Ak&iflsig=AL9hbdgAAAAAZo1z9i2jRGPPatGkQNfM9D22vwRLXn-f&ved=0ahUKEwjE3ISBsZqHAxWNJUQIHQGzBZ4Q4dUDCA8&uact=5&oq=wordle&gs_lp=Egdnd3Mtd2l6IgZ3b3JkbGUyCxAAGIAEGLEDGIMBMgsQABiABBixAxiDATILEAAYgAQYsQMYgwEyCBAAGIAEGLEDMgsQABiABBixAxiDATIIEAAYgAQYsQMyCBAAGIAEGLEDMggQABiABBixAzIIEAAYgAQYsQMyCxAAGIAEGLEDGIMBSNoIUABY6QdwAXgAkAEAmAFIoAGaA6oBATe4AQPIAQD4AQGYAgigAqsDwgIREC4YgAQYsQMY0QMYgwEYxwHCAg4QABiABBixAxiDARiKBcICDhAuGIAEGLEDGIMBGIoFwgIFEC4YgATCAgUQABiABMICDRAAGIAEGLEDGIMBGArCAgsQLhiABBixAxiDAZgDAJIHATigB5Ew&sclient=gws-wiz)
 * [2024-07-09, 15:55:13](https://news.ycombinator.com/item?id=40917568) - [Attention Is a Proof of Love](https://papanotes.com/attention-is-a-proof-of-love)
 * [2024-07-09, 15:37:25](https://news.ycombinator.com/item?id=40917358) - [Docs as Code](https://www.writethedocs.org/guide/docs-as-code/)
 * [2024-07-09, 15:33:29](https://news.ycombinator.com/item?id=40917312) - [Linksys Velop routers send Wi-Fi passwords in plaintext to US servers](https://stackdiary.com/linksys-velop-routers-send-wi-fi-passwords-in-plaintext-to-us-servers/)
