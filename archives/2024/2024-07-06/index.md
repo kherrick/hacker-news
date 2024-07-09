@@ -17,6 +17,7 @@
 * [2024-07-06, 20:52:56](https://news.ycombinator.com/item?id=40893203) - [Montana Has More Cows Than People. Why Are Locals Eating Beef from Brazil?](https://www.nytimes.com/2024/06/13/business/montana-meat-old-salt-co-op.html)
 * [2024-07-06, 20:52:29](https://news.ycombinator.com/item?id=40893200) - [Flet – multi-platform apps in Python powered by Flutter](https://flet.dev/)
 * [2024-07-06, 20:40:03](https://news.ycombinator.com/item?id=40893074) - [Top GitHub repositories which everyone should look](https://github.com/sachin-source/top-github-repositories-which-everyone-should-look)
+* [2024-07-06, 20:30:05](https://news.ycombinator.com/item?id=40893009) - [Things[5] I Learned About Leadership from the Death and Rebirth of Microsoft](https://dareobasanjo.medium.com/5-things-i-learned-about-leadership-from-the-death-rebirth-of-microsoft-3eaf42567061)
 * [2024-07-06, 20:27:17](https://news.ycombinator.com/item?id=40892994) - [Speeding up the JavaScript ecosystem – Isolated Declarations](https://marvinh.dev/blog/speeding-up-javascript-ecosystem-part-10/)
 * [2024-07-06, 20:26:47](https://news.ycombinator.com/item?id=40892991) - [Microsoft Is Dead[2007]](https://paulgraham.com/microsoft.html)
 * [2024-07-06, 20:16:53](https://news.ycombinator.com/item?id=40892929) - [Investors Pour $27.1B into A.I. Startups, Defying a Downturn](https://www.nytimes.com/2024/07/03/technology/ai-startups-funding.html)
