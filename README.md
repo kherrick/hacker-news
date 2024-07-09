@@ -4,7 +4,6 @@
 * [2024-07-09, 19:23:42](https://news.ycombinator.com/item?id=40919903) - [Google One 'Dark web reports' coming to all Google Account holders in late July](https://9to5google.com/2024/07/09/google-one-dark-web-reports-all-google-accounts/)
 * [2024-07-09, 19:20:18](https://news.ycombinator.com/item?id=40919845) - [Boeing sold just three passenger jets in the past month](https://www.cnn.com/2024/07/09/business/boeing-sales/index.html)
 * [2024-07-09, 19:09:55](https://news.ycombinator.com/item?id=40919707) - [Master controller of aging and development uncovered](https://longevity.technology/news/master-controller-of-aging-and-development-uncovered/)
-* [2024-07-09, 19:03:55](https://news.ycombinator.com/item?id=40919640) - [Speed Limiters Now Mandatory in All New EU Cars](https://www.autoweek.com/news/a61532276/mandatory-speed-limiters-europe-cars/)
 * [2024-07-09, 18:57:52](https://news.ycombinator.com/item?id=40919571) - [Newpipe/yt-dlp stops working](https://github.com/TeamNewPipe/NewPipe/issues/11254)
 * [2024-07-09, 18:51:28](https://news.ycombinator.com/item?id=40919505) - [Tokyo's oldest train line – in pictures](https://www.theguardian.com/artanddesign/gallery/2024/jul/08/tokyos-oldest-train-line-jr-yamanote-in-pictures)
 * [2024-07-09, 18:25:03](https://news.ycombinator.com/item?id=40919253) - [Judge dismisses DMCA copyright claim in GitHub Copilot suit](https://www.theregister.com/2024/07/08/github_copilot_dmca/)
@@ -28,6 +27,7 @@
 * [2024-07-08, 20:29:08](https://news.ycombinator.com/item?id=40909327) - [Making my own wedding rings](https://geoff.greer.fm/2024/07/07/making-my-own-wedding-rings/)
 * [2024-07-08, 09:41:52](https://news.ycombinator.com/item?id=40903987) - [Invisible Landscapes](https://orionmagazine.org/article/interstitium-scientific-discovery-anatomy/)
 * [2024-07-07, 16:04:41](https://news.ycombinator.com/item?id=40898525) - [Tim Doucette, a blind astronomer who built the Deep Sky Eye Observatory](https://www.amiplus.ca/m/eCGPTwFA/deep-sky-eye?seriesId=Show%2FOur+Community)
+* [2024-07-07, 00:01:55](https://news.ycombinator.com/item?id=40894216) - [Read Hacker News on Kindle (2022)](https://ktool.io/hacker-news-to-kindle)
 * [2024-07-06, 17:33:51](https://news.ycombinator.com/item?id=40891846) - [Inline previous result in Emacs Lisp](https://xenodium.com/inline-previous-result-and-why-you-should-edebug/)
 * [2024-07-05, 09:04:24](https://news.ycombinator.com/item?id=40881077) - [Deactivating an API, one step at a time](https://apichangelog.substack.com/p/deactivating-an-api-one-step-at-a)
 
