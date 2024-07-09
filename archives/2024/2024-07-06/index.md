@@ -83,6 +83,7 @@
 * [2024-07-06, 05:35:24](https://news.ycombinator.com/item?id=40888368) - [Private firms and open sources are giving spies a run for their money](https://www.economist.com/technology-quarterly/2024/07/01/private-firms-and-open-sources-are-giving-spies-a-run-for-their-money)
 * [2024-07-06, 05:27:28](https://news.ycombinator.com/item?id=40888342) - [Replicating D3 Charts with Swift Charts](https://github.com/raheelahmad/Swift-D3-Charts)
 * [2024-07-06, 05:20:17](https://news.ycombinator.com/item?id=40888314) - [Curl native support for –aws-sigv4 (2023)](https://how.wtf/aws-sigv4-requests-with-curl.html)
+* [2024-07-06, 05:08:08](https://news.ycombinator.com/item?id=40888282) - [The Nine Ways: On the Enneagram](https://www.theparisreview.org/blog/2024/07/05/the-nine-ways-on-the-enneagram/)
 * [2024-07-06, 04:39:28](https://news.ycombinator.com/item?id=40888201) - [1Password and 2FA: Is it wrong to store passwords and one-time codes together? (2023)](https://blog.1password.com/1password-2fa-passwords-codes-together/)
 * [2024-07-06, 04:03:03](https://news.ycombinator.com/item?id=40888090) - [Here’s how you can build and train GPT-2 from scratch using PyTorch](https://differ.blog/p/here-s-how-you-can-build-and-train-gpt-2-from-scratch-using-pytorch-ace4ba)
 * [2024-07-06, 04:00:39](https://news.ycombinator.com/item?id=40888085) - [He Might Have Been the First Jazz Star](https://www.honest-broker.com/p/he-might-have-been-the-first-jazz)
