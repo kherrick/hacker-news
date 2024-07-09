@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-09, 15:37:25",
+      "https://news.ycombinator.com/item?id=40917358"
+    ],
+    [
+      "Docs as Code",
+      "https://www.writethedocs.org/guide/docs-as-code/"
+    ]
+  ],
+  [
+    [
       "2024-07-09, 15:33:29",
       "https://news.ycombinator.com/item?id=40917312"
     ],
@@ -15,7 +25,7 @@
       "https://news.ycombinator.com/item?id=40917299"
     ],
     [
-      "Another AI Company Wrote Us and Here's Our Response",
+      "Another AI company wrote us and here’s our response",
       "https://warandpeas.com/2024/07/09/another-ai-company-wrote-us-and-heres-our-response/"
     ]
   ],
@@ -41,12 +51,12 @@
   ],
   [
     [
-      "2024-07-09, 15:07:17",
-      "https://news.ycombinator.com/item?id=40916983"
+      "2024-07-09, 15:05:54",
+      "https://news.ycombinator.com/item?id=40916966"
     ],
     [
-      "Google Is No Longer Claiming to Be Carbon Neutral",
-      "https://www.bloomberg.com/news/articles/2024-07-08/google-is-no-longer-claiming-to-be-carbon-neutral"
+      "The coming eBPF revolution and why Kubernetes monitoring will never be the same",
+      "https://getanteon.com/blog/the-coming-ebpf-revolution-and-why-kubernetes-monitoring-will-never-be-the-same/"
     ]
   ],
   [
@@ -135,7 +145,7 @@
       "https://news.ycombinator.com/item?id=40913793"
     ],
     [
-      "Beyond bufferbloat: End-to-end congestion control cannot avoid latency spikes",
+      "End-to-end congestion control cannot avoid latency spikes (2022)",
       "https://blog.apnic.net/2022/01/26/beyond-bufferbloat-end-to-end-congestion-control-cannot-avoid-latency-spikes/"
     ]
   ],
@@ -151,12 +161,12 @@
   ],
   [
     [
-      "2024-07-09, 06:01:47",
-      "https://news.ycombinator.com/item?id=40912920"
+      "2024-07-09, 06:42:34",
+      "https://news.ycombinator.com/item?id=40913138"
     ],
     [
-      "Show HN: Tegon: Open-source alternative to Jira, Linear",
-      "https://github.com/tegonhq/tegon"
+      "The Race to Seal Helium HDDs (2021)",
+      "https://blog.westerndigital.com/race-to-seal-helium/"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Inline previous result in Emacs Lisp",
       "https://xenodium.com/inline-previous-result-and-why-you-should-edebug/"
-    ]
-  ],
-  [
-    [
-      "2024-07-06, 15:32:17",
-      "https://news.ycombinator.com/item?id=40891003"
-    ],
-    [
-      "The Invention of Zero: How Ancient Mesopotamia Created the Concept of Nought",
-      "https://www.themarginalian.org/2017/02/02/zero-robert-kaplan/"
     ]
   ],
   [
