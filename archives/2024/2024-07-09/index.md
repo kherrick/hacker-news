@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-09](index.md)
 
+* [2024-07-09, 15:33:29](https://news.ycombinator.com/item?id=40917312) - [Linksys Velop routers send Wi-Fi passwords in plaintext to US servers](https://stackdiary.com/linksys-velop-routers-send-wi-fi-passwords-in-plaintext-to-us-servers/)
+* [2024-07-09, 15:22:51](https://news.ycombinator.com/item?id=40917173) - [Etsy loses its 'handmade' and 'vintage' labels as it takes on Temu and Amazon](https://www.theverge.com/2024/7/9/24190843/etsy-handmade-vintage-policy-change)
+* [2024-07-09, 15:21:56](https://news.ycombinator.com/item?id=40917158) - [AI Humane execs leave company to found AI fact-checking startup](https://techcrunch.com/2024/07/09/humane-execs-leave-company-to-found-ai-fact-checking-startup/)
 * [2024-07-09, 14:51:25](https://news.ycombinator.com/item?id=40916820) - [CVE-2024-6409: OpenSSH: Possible remote code execution in privsep child](https://www.openwall.com/lists/oss-security/2024/07/08/2)
 * [2024-07-09, 14:44:10](https://news.ycombinator.com/item?id=40916733) - [Ransomware Gang Leaks Data Allegedly Stolen from Florida Department of Health](https://www.securityweek.com/ransomware-gang-leaks-data-allegedly-stolen-from-florida-department-of-health/)
 * [2024-07-09, 14:41:01](https://news.ycombinator.com/item?id=40916700) - [Wikipedia summoned by Delhi High Court over ANI defamation allegations](https://www.cnbctv18.com/india/wikipedia-summoned-by-delhi-high-court-over-ani-defamation-allegations-19440644.htm)
