@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-09, 13:22:54](https://news.ycombinator.com/item?id=40915827) - [First local extinction due to sea level rise identified in the US](https://phys.org/news/2024-07-local-extinction-due-sea.html)
 * [2024-07-09, 12:18:47](https://news.ycombinator.com/item?id=40915206) - [GenBook RK3588 – Modular open-source ARM laptop with DIY expansion capabilities](https://www.crowdsupply.com/shenzhen-tianmao-technology-co-ltd/genbook-rk3588)
 * [2024-07-09, 12:01:37](https://news.ycombinator.com/item?id=40915082) - [PySkyWiFi: Free stupid wi-fi on long-haul flights](https://robertheaton.com/pyskywifi/)
 * [2024-07-09, 11:53:41](https://news.ycombinator.com/item?id=40915035) - [Houthi rebels are operating their own GuardZoo spyware](https://www.theregister.com/2024/07/09/houthi_rebels_malware/)
@@ -20,7 +21,6 @@
 * [2024-07-08, 18:27:16](https://news.ycombinator.com/item?id=40907933) - [No more boot loader: Please use the kernel instead](https://pretalx.com/devconf-cz-2024/talk/W3AVCT/)
 * [2024-07-08, 17:05:08](https://news.ycombinator.com/item?id=40907155) - [The Right Kind of Stubborn](https://paulgraham.com/persistence.html)
 * [2024-07-08, 15:14:06](https://news.ycombinator.com/item?id=40906148) - [Reverse engineering Ticketmaster's rotating barcodes](https://conduition.io/coding/ticketmaster/)
-* [2024-07-08, 14:39:35](https://news.ycombinator.com/item?id=40905849) - [Geomys, a blueprint for a sustainable open-source maintenance firm](https://words.filippo.io/dispatches/geomys/)
 * [2024-07-07, 11:17:20](https://news.ycombinator.com/item?id=40896772) - [Guide to attending a space launch in person](https://countdowntoignition.com/guide-to-attending-launch)
 * [2024-07-06, 23:09:05](https://news.ycombinator.com/item?id=40894027) - [The staggering science and art behind Wimbledon's legendary grass courts](https://abcnews.go.com/US/staggering-science-art-wimbledons-legendary-grass-courts/story?id=111433116)
 * [2024-07-06, 17:33:51](https://news.ycombinator.com/item?id=40891846) - [Inline previous result in Emacs Lisp](https://xenodium.com/inline-previous-result-and-why-you-should-edebug/)

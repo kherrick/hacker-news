@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-09](index.md)
 
+* [2024-07-09, 13:22:54](https://news.ycombinator.com/item?id=40915827) - [First local extinction due to sea level rise identified in the US](https://phys.org/news/2024-07-local-extinction-due-sea.html)
 * [2024-07-09, 12:37:34](https://news.ycombinator.com/item?id=40915381) - [You Want to Fix Boeing? Prosecute Its Executives](https://www.thefp.com/p/fix-boeing-prosecute-executives-joe-nocera)
 * [2024-07-09, 12:18:47](https://news.ycombinator.com/item?id=40915206) - [GenBook RK3588 – Modular open-source ARM laptop with DIY expansion capabilities](https://www.crowdsupply.com/shenzhen-tianmao-technology-co-ltd/genbook-rk3588)
 * [2024-07-09, 12:15:45](https://news.ycombinator.com/item?id=40915192) - [Windows on ARM Is Here to Stay](https://spectrum.ieee.org/windows-on-arm)
