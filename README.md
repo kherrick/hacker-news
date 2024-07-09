@@ -1,12 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-09, 20:05:21](https://news.ycombinator.com/item?id=40920497) - [How to Come Back Stronger from Organizational Trauma](https://sloanreview.mit.edu/article/how-to-come-back-stronger-from-organizational-trauma/)
 * [2024-07-09, 19:49:11](https://news.ycombinator.com/item?id=40920261) - [Arrow's Impossibility Theorem [video]](https://www.youtube.com/watch?v=AhVR7gFMKNg)
 * [2024-07-09, 19:48:39](https://news.ycombinator.com/item?id=40920256) - [Pulitzer winning reporter faces jail for protecting funding scandal sources](https://www.nbcnews.com/investigations/anna-wolfe-pulitzer-mississippi-welfare-scandal-phil-bryant-rcna159936)
 * [2024-07-09, 19:38:44](https://news.ycombinator.com/item?id=40920125) - [Let's Treat Docs Like Code](https://www.docslikecode.com/)
 * [2024-07-09, 19:09:55](https://news.ycombinator.com/item?id=40919707) - [Master controller of aging and development uncovered](https://longevity.technology/news/master-controller-of-aging-and-development-uncovered/)
 * [2024-07-09, 18:51:28](https://news.ycombinator.com/item?id=40919505) - [Tokyo's oldest train line – in pictures](https://www.theguardian.com/artanddesign/gallery/2024/jul/08/tokyos-oldest-train-line-jr-yamanote-in-pictures)
-* [2024-07-09, 18:25:03](https://news.ycombinator.com/item?id=40919253) - [Judge dismisses DMCA copyright claim in GitHub Copilot suit](https://www.theregister.com/2024/07/08/github_copilot_dmca/)
+* [2024-07-09, 18:41:18](https://news.ycombinator.com/item?id=40919413) - [A collective list of free APIs](https://github.com/public-apis/public-apis)
 * [2024-07-09, 17:42:04](https://news.ycombinator.com/item?id=40918829) - [Don't use 7-segment displays [pdf]](https://harold.thimbleby.net/cv/files/seven-segment.pdf)
 * [2024-07-09, 17:39:07](https://news.ycombinator.com/item?id=40918794) - [Show HN: I built a WASM-console using WebAssembly and tinygo](https://github.com/rajatjindal/wasm-console)
 * [2024-07-09, 17:00:03](https://news.ycombinator.com/item?id=40918300) - [Meticulous (YC S21) is hiring to eliminate E2E tests](https://news.ycombinator.com/item?id=40918300)
@@ -28,6 +27,7 @@
 * [2024-07-08, 15:14:06](https://news.ycombinator.com/item?id=40906148) - [Reverse engineering Ticketmaster's rotating barcodes](https://conduition.io/coding/ticketmaster/)
 * [2024-07-08, 09:41:52](https://news.ycombinator.com/item?id=40903987) - [Invisible Landscapes](https://orionmagazine.org/article/interstitium-scientific-discovery-anatomy/)
 * [2024-07-07, 16:04:41](https://news.ycombinator.com/item?id=40898525) - [Tim Doucette, a blind astronomer who built the Deep Sky Eye Observatory](https://www.amiplus.ca/m/eCGPTwFA/deep-sky-eye?seriesId=Show%2FOur+Community)
+* [2024-07-07, 00:01:55](https://news.ycombinator.com/item?id=40894216) - [Read Hacker News on Kindle (2022)](https://ktool.io/hacker-news-to-kindle)
 * [2024-07-06, 17:33:51](https://news.ycombinator.com/item?id=40891846) - [Inline previous result in Emacs Lisp](https://xenodium.com/inline-previous-result-and-why-you-should-edebug/)
 * [2024-07-05, 09:04:24](https://news.ycombinator.com/item?id=40881077) - [Deactivating an API, one step at a time](https://apichangelog.substack.com/p/deactivating-an-api-one-step-at-a)
 

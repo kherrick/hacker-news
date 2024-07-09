@@ -14,6 +14,7 @@
 * [2024-07-09, 19:03:55](https://news.ycombinator.com/item?id=40919640) - [Speed Limiters Now Mandatory in All New EU Cars](https://www.autoweek.com/news/a61532276/mandatory-speed-limiters-europe-cars/)
 * [2024-07-09, 18:57:52](https://news.ycombinator.com/item?id=40919571) - [Newpipe/yt-dlp stops working](https://github.com/TeamNewPipe/NewPipe/issues/11254)
 * [2024-07-09, 18:51:28](https://news.ycombinator.com/item?id=40919505) - [Tokyo's oldest train line – in pictures](https://www.theguardian.com/artanddesign/gallery/2024/jul/08/tokyos-oldest-train-line-jr-yamanote-in-pictures)
+* [2024-07-09, 18:41:18](https://news.ycombinator.com/item?id=40919413) - [A collective list of free APIs](https://github.com/public-apis/public-apis)
 * [2024-07-09, 18:25:03](https://news.ycombinator.com/item?id=40919253) - [Judge dismisses DMCA copyright claim in GitHub Copilot suit](https://www.theregister.com/2024/07/08/github_copilot_dmca/)
 * [2024-07-09, 18:12:57](https://news.ycombinator.com/item?id=40919139) - [Spain sentences 15 schoolchildren over AI-generated naked images](https://www.theguardian.com/world/article/2024/jul/09/spain-sentences-15-school-children-over-ai-generated-naked-images)
 * [2024-07-09, 17:42:04](https://news.ycombinator.com/item?id=40918829) - [Don't use 7-segment displays [pdf]](https://harold.thimbleby.net/cv/files/seven-segment.pdf)
