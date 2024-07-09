@@ -77,6 +77,7 @@
 * [2024-07-06, 11:18:00](https://news.ycombinator.com/item?id=40889705) - [Doctors Are Not Trained to Think Critically](https://www.madintheuk.com/2024/06/doctors-not-trained-to-think-critically/)
 * [2024-07-06, 10:14:41](https://news.ycombinator.com/item?id=40889428) - [Summary of Major Changes Between Python Versions](https://www.nicholashairs.com/posts/major-changes-between-python-versions/)
 * [2024-07-06, 09:38:48](https://news.ycombinator.com/item?id=40889280) - [Ask HN: Which programming podcasts do you listen to?](https://news.ycombinator.com/item?id=40889280)
+* [2024-07-06, 09:35:33](https://news.ycombinator.com/item?id=40889272) - [Compile-time JSON deserialization in C++](https://medium.com/@abdulgh/compile-time-json-deserialization-in-c-1e3d41a73628)
 * [2024-07-06, 08:07:00](https://news.ycombinator.com/item?id=40888924) - [I've eaten a meal replacement shake twice a day for two years (2019)](https://www.vox.com/the-goods/2019/11/11/20953750/soylent-huel-sustainable-meal-replacement-tried)
 * [2024-07-06, 07:44:32](https://news.ycombinator.com/item?id=40888826) - [Jqjq: Jq Implementation of Jq](https://github.com/wader/jqjq)
 * [2024-07-06, 07:33:56](https://news.ycombinator.com/item?id=40888783) - [Mineral winds down: 'We will no longer be an Alphabet company'](https://agfundernews.com/mineral-winds-down-we-will-no-longer-be-an-alphabet-company-but-our-technology-will-live-on)
