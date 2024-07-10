@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-10](index.md)
 
+* [2024-07-10, 21:07:25](https://news.ycombinator.com/item?id=40931486) - [July 2024 changes to Stripe Billing](https://support.stripe.com/questions/july-2024-changes-to-stripe-billing)
+* [2024-07-10, 20:45:28](https://news.ycombinator.com/item?id=40931308) - [Walmart Selling MacBook Air with M1 Chip for $649 Starting Today](https://www.macrumors.com/2024/07/08/walmart-m1-macbook-air-for-649/)
+* [2024-07-10, 19:54:13](https://news.ycombinator.com/item?id=40930834) - [Ask HN: Why does no one seem to care that AI gives wrong answers?](https://news.ycombinator.com/item?id=40930834)
 * [2024-07-10, 19:52:07](https://news.ycombinator.com/item?id=40930809) - [The great silence: Just 4 in 10k galaxies may host intelligent aliens](https://www.space.com/plate-tectonics-intelligent-alien-life-rare)
 * [2024-07-10, 19:29:32](https://news.ycombinator.com/item?id=40930549) - [Big Ball of Mud](http://laputan.org/mud/)
 * [2024-07-10, 18:53:19](https://news.ycombinator.com/item?id=40930139) - [Google testing facial recognition technology for security near Seattle](https://www.cnbc.com/2024/06/26/google-testing-facial-recognition-technology-for-security-near-seattle.html)
@@ -41,6 +44,7 @@
 * [2024-07-10, 13:05:30](https://news.ycombinator.com/item?id=40926439) - [At the Mountains of Madness](https://antithesis.com/blog/madness/)
 * [2024-07-10, 13:01:57](https://news.ycombinator.com/item?id=40926411) - [Towards Idempotent Rebuilds?](https://blog.josefsson.org/2024/07/10/towards-idempotent-rebuilds/)
 * [2024-07-10, 12:35:14](https://news.ycombinator.com/item?id=40926211) - [Show HN: Posting v1 – The modern HTTP client that lives in your terminal](https://github.com/darrenburns/posting)
+* [2024-07-10, 12:17:34](https://news.ycombinator.com/item?id=40926063) - [Why We Build Simple Software](https://blog.pickcode.io/why-we-build-simple-software/)
 * [2024-07-10, 11:55:52](https://news.ycombinator.com/item?id=40925913) - [As extreme heat bakes the West, emergency helicopters struggle to fly](https://www.msn.com/en-us/news/other/as-extreme-heat-bakes-the-west-emergency-helicopters-struggle-to-fly/ar-BB1pJi1V)
 * [2024-07-10, 11:54:35](https://news.ycombinator.com/item?id=40925906) - [Show HN: I made a Note-Taking app for people who keep texting themselves](https://strflow.app)
 * [2024-07-10, 11:53:30](https://news.ycombinator.com/item?id=40925896) - [Leetcode but for ML](https://www.deep-ml.com/)
