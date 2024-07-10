@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-10](index.md)
 
+* [2024-07-10, 07:00:40](https://news.ycombinator.com/item?id=40924368) - [Photoroom (YC S20) Is Hiring Rust Developers in Paris (X-Platform, Wgpu, WASM)](https://jobs.lever.co/photoroom/fc379626-eb33-4eb6-839c-10e5d578e2ed?lever-origin=applied&lever-source%5B%5D=yc)
 * [2024-07-10, 05:13:30](https://news.ycombinator.com/item?id=40923905) - [RADIUS protocol susceptible to forgery attacks](https://www.blastradius.fail/)
 * [2024-07-10, 04:29:55](https://news.ycombinator.com/item?id=40923715) - [Website Themes with uBlock Origin](https://darekkay.com/blog/ublock-website-themes/)
 * [2024-07-10, 02:58:34](https://news.ycombinator.com/item?id=40923316) - [Ask HN: How to deal with vitrolic colleagues in workplace?](https://news.ycombinator.com/item?id=40923316)

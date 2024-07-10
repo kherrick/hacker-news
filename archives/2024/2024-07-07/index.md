@@ -82,6 +82,7 @@
 * [2024-07-07, 05:35:09](https://news.ycombinator.com/item?id=40895484) - [We built the extension that blocks ads, trackers and third-party cookies](https://ultrablock.org/about/)
 * [2024-07-07, 05:22:49](https://news.ycombinator.com/item?id=40895441) - [Why Italy Fell Out of Love with Cilantro](https://www.atlasobscura.com/articles/what-are-italian-herbs)
 * [2024-07-07, 04:00:41](https://news.ycombinator.com/item?id=40895167) - [\"Out of Band\" network management is not trivial](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OutOfBandManagementNotTrivial)
+* [2024-07-07, 03:16:37](https://news.ycombinator.com/item?id=40895026) - [Starfighter Scandal: Did Germany's Lockheed F-104](https://www.key.aero/article/did-germanys-lockheed-f-104-deserve-its-bad-name)
 * [2024-07-07, 02:48:50](https://news.ycombinator.com/item?id=40894917) - [The complete Code of Hammurabi (~1750 BC)](https://ehammurabi.org/#laws)
 * [2024-07-07, 01:18:21](https://news.ycombinator.com/item?id=40894527) - [Portugal to reintroduce tax breaks for skilled foreigners](https://www.ft.com/content/4e7fac79-ea08-4a04-8a37-9d6db239b896)
 * [2024-07-07, 00:36:09](https://news.ycombinator.com/item?id=40894371) - [Constitutional Right to Be a Pirate](https://www.thefp.com/p/constitutional-right-pirate-aj-jacobs)
