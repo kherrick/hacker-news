@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-10](index.md)
 
 * [2024-07-10, 11:53:30](https://news.ycombinator.com/item?id=40925896) - [Leetcode but for ML](https://www.deep-ml.com/)
+* [2024-07-10, 10:25:44](https://news.ycombinator.com/item?id=40925471) - [Girls in Tech closes its doors after 17 years](https://venturebeat.com/games/girls-in-tech-closes-its-doors-after-17-years/)
 * [2024-07-10, 09:48:54](https://news.ycombinator.com/item?id=40925266) - [Plausible Community Edition](https://plausible.io/blog/community-edition)
 * [2024-07-10, 09:08:13](https://news.ycombinator.com/item?id=40925052) - [Mastering Email Security: Deep Dive into SPF, DKIM, and DMARC](https://bastion.tech/blog/spf-dkim-dmarc-email-security-explained)
 * [2024-07-10, 09:02:16](https://news.ycombinator.com/item?id=40925025) - [SimSig: Railway Signalling Simulations](https://www.simsig.co.uk/)

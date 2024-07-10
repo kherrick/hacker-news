@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-10, 11:53:30](https://news.ycombinator.com/item?id=40925896) - [Leetcode but for ML](https://www.deep-ml.com/)
+* [2024-07-10, 11:53:30](https://news.ycombinator.com/item?id=40925896) - [Show HN: ML Code Exercises](https://www.deep-ml.com/)
+* [2024-07-10, 10:25:44](https://news.ycombinator.com/item?id=40925471) - [Girls in Tech closes its doors after 17 years](https://venturebeat.com/games/girls-in-tech-closes-its-doors-after-17-years/)
 * [2024-07-10, 09:48:54](https://news.ycombinator.com/item?id=40925266) - [Plausible Community Edition](https://plausible.io/blog/community-edition)
 * [2024-07-10, 09:08:13](https://news.ycombinator.com/item?id=40925052) - [Mastering Email Security: Deep Dive into SPF, DKIM, and DMARC](https://bastion.tech/blog/spf-dkim-dmarc-email-security-explained)
 * [2024-07-10, 09:02:16](https://news.ycombinator.com/item?id=40925025) - [SimSig: Railway Signalling Simulations](https://www.simsig.co.uk/)
@@ -20,7 +21,6 @@
 * [2024-07-09, 14:48:59](https://news.ycombinator.com/item?id=40916786) - [Turbopuffer: Fast search on object storage](https://turbopuffer.com/blog/turbopuffer)
 * [2024-07-09, 13:54:59](https://news.ycombinator.com/item?id=40916193) - [Scoped Propagators](https://www.orionreed.com/posts/scoped-propagators)
 * [2024-07-09, 12:01:37](https://news.ycombinator.com/item?id=40915082) - [PySkyWiFi: Free stupid wi-fi on long-haul flights](https://robertheaton.com/pyskywifi/)
-* [2024-07-09, 11:48:42](https://news.ycombinator.com/item?id=40915005) - [MobileLLM: Optimizing Sub-Billion Parameter Language Models for On-Device Use](https://github.com/facebookresearch/MobileLLM)
 * [2024-07-09, 11:44:40](https://news.ycombinator.com/item?id=40914958) - [Circos – Circular Visualization](https://circos.ca/)
 * [2024-07-09, 10:34:20](https://news.ycombinator.com/item?id=40914475) - [Dynamic translation of Smalltalk to WebAssembly](https://thiscontext.com/2023/07/26/dynamic-translation-of-smalltalk-to-webassembly/)
 * [2024-07-08, 15:21:01](https://news.ycombinator.com/item?id=40906210) - [Spot the Drowning Child (2015)](http://spotthedrowningchild.com/)
