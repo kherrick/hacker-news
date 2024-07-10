@@ -5,7 +5,7 @@
       "https://news.ycombinator.com/item?id=40931486"
     ],
     [
-      "July 2024 changes to Stripe Billing",
+      "Changes to Stripe Billing",
       "https://support.stripe.com/questions/july-2024-changes-to-stripe-billing"
     ]
   ],
@@ -17,16 +17,6 @@
     [
       "Walmart Selling MacBook Air with M1 Chip for $649 Starting Today",
       "https://www.macrumors.com/2024/07/08/walmart-m1-macbook-air-for-649/"
-    ]
-  ],
-  [
-    [
-      "2024-07-10, 20:08:42",
-      "https://news.ycombinator.com/item?id=40930988"
-    ],
-    [
-      "Machine Learning Systems with TinyML",
-      "https://harvard-edge.github.io/cs249r_book/"
     ]
   ],
   [
@@ -81,6 +71,16 @@
   ],
   [
     [
+      "2024-07-10, 16:11:50",
+      "https://news.ycombinator.com/item?id=40928450"
+    ],
+    [
+      "Co-Dfns v5.7.0",
+      "https://github.com/Co-dfns/Co-dfns/releases/tag/v5.7.0"
+    ]
+  ],
+  [
+    [
       "2024-07-10, 15:39:25",
       "https://news.ycombinator.com/item?id=40928145"
     ],
@@ -95,7 +95,7 @@
       "https://news.ycombinator.com/item?id=40927481"
     ],
     [
-      "Brian Kernighan Reflects on \"The Practice of Programming\" [video]",
+      "Brian Kernighan on \"The Practice of Programming\" [video]",
       "https://www.youtube.com/watch?v=_QQ7k5sn2-o"
     ]
   ],
@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2024-07-10, 11:54:35",
+      "https://news.ycombinator.com/item?id=40925906"
+    ],
+    [
+      "Show HN: I made a Note-Taking app for people who keep texting themselves",
+      "https://strflow.app"
+    ]
+  ],
+  [
+    [
       "2024-07-10, 10:26:14",
       "https://news.ycombinator.com/item?id=40925474"
     ],
@@ -251,22 +261,22 @@
   ],
   [
     [
+      "2024-07-09, 11:44:40",
+      "https://news.ycombinator.com/item?id=40914958"
+    ],
+    [
+      "Circos – Circular Visualization",
+      "https://circos.ca/"
+    ]
+  ],
+  [
+    [
       "2024-07-09, 03:24:22",
       "https://news.ycombinator.com/item?id=40912271"
     ],
     [
       "Real-time audio programming 101: time waits for nothing",
       "http://www.rossbencina.com/code/real-time-audio-programming-101-time-waits-for-nothing"
-    ]
-  ],
-  [
-    [
-      "2024-07-08, 01:37:31",
-      "https://news.ycombinator.com/item?id=40901947"
-    ],
-    [
-      "RISC-V AI Chips Will Be Everywhere (2022)",
-      "https://spectrum.ieee.org/risc-v-ai"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "The magic of small engineering teams",
       "https://newsletter.posthog.com/p/the-magic-of-small-engineering-teams"
-    ]
-  ],
-  [
-    [
-      "2024-07-05, 09:29:53",
-      "https://news.ycombinator.com/item?id=40881224"
-    ],
-    [
-      "Nintendo ends Wii U repairs",
-      "https://www.engadget.com/nintendo-ends-wii-u-repairs-190023430.html"
     ]
   ]
 ]
