@@ -2,6 +2,7 @@
 
 * [2024-07-10, 09:02:16](https://news.ycombinator.com/item?id=40925025) - [SimSig: Railway Signalling Simulations](https://www.simsig.co.uk/)
 * [2024-07-10, 08:42:12](https://news.ycombinator.com/item?id=40924915) - [Europe's new Ariane 6 rocket powers into space](https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Europe_s_new_Ariane_6_rocket_powers_into_space)
+* [2024-07-10, 07:23:47](https://news.ycombinator.com/item?id=40924472) - [Show HN: Tailwind Template Directory](https://tailkits.com/)
 * [2024-07-10, 07:00:40](https://news.ycombinator.com/item?id=40924368) - [Photoroom (YC S20) Is Hiring Rust Developers in Paris (X-Platform, Wgpu, WASM)](https://jobs.lever.co/photoroom/fc379626-eb33-4eb6-839c-10e5d578e2ed?lever-origin=applied&lever-source%5B%5D=yc)
 * [2024-07-10, 01:13:11](https://news.ycombinator.com/item?id=40922884) - [Automate Project Environments with Devbox and Direnv](https://www.jetify.com/blog/automated-dev-envs-with-devbox-and-direnv/)
 * [2024-07-10, 01:11:00](https://news.ycombinator.com/item?id=40922874) - [The Seal Failure in the SRB That Doomed Challenger (2021)](https://exrocketman.blogspot.com/2021/12/the-seal-failure-in-srb-that-doomed.html)
@@ -11,7 +12,6 @@
 * [2024-07-09, 20:23:12](https://news.ycombinator.com/item?id=40920681) - [Show HN: Maelstrom – A Hermetic, Clustered Test Runner for Python and Rust](https://github.com/maelstrom-software/maelstrom)
 * [2024-07-09, 19:47:32](https://news.ycombinator.com/item?id=40920246) - [How to validate a market with development boards and SD cards](https://flyingcarcomputer.com/posts/how-to-validate-market-with-development-board/)
 * [2024-07-09, 19:38:36](https://news.ycombinator.com/item?id=40920122) - [How CD pregaps gained their hidden track superpowers](https://tedium.co/2024/07/06/compact-disc-pregap-history/)
-* [2024-07-09, 18:28:49](https://news.ycombinator.com/item?id=40919288) - [The price of gold – how bad do you want it? (2016)](https://allaboutperformance.wordpress.com/2016/05/11/the-price-of-gold-how-bad-do-you-really-want-it/)
 * [2024-07-09, 18:25:03](https://news.ycombinator.com/item?id=40919253) - [Judge dismisses DMCA copyright claim in GitHub Copilot suit](https://www.theregister.com/2024/07/08/github_copilot_dmca/)
 * [2024-07-09, 16:45:01](https://news.ycombinator.com/item?id=40918152) - [Ask HN: How do browsers isolate internal audio from microphone input?](https://news.ycombinator.com/item?id=40918152)
 * [2024-07-09, 14:48:59](https://news.ycombinator.com/item?id=40916786) - [Turbopuffer: Fast search on object storage](https://turbopuffer.com/blog/turbopuffer)
