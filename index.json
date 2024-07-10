@@ -21,12 +21,12 @@
   ],
   [
     [
-      "2024-07-10, 10:25:44",
-      "https://news.ycombinator.com/item?id=40925471"
+      "2024-07-10, 10:26:14",
+      "https://news.ycombinator.com/item?id=40925474"
     ],
     [
-      "Girls in Tech closes its doors after 17 years",
-      "https://venturebeat.com/games/girls-in-tech-closes-its-doors-after-17-years/"
+      "Copying collectors with block-structured heaps are unreliable",
+      "https://wingolog.org/archives/2024/07/10/copying-collectors-with-block-structured-heaps-are-unreliable"
     ]
   ],
   [
@@ -51,32 +51,12 @@
   ],
   [
     [
-      "2024-07-10, 08:46:15",
-      "https://news.ycombinator.com/item?id=40924936"
-    ],
-    [
-      "I miss the old IndieHackers website, so I started an alternative",
-      "https://www.skool.com/indie-makers-5425/about"
-    ]
-  ],
-  [
-    [
       "2024-07-10, 08:42:12",
       "https://news.ycombinator.com/item?id=40924915"
     ],
     [
       "Europe's new Ariane 6 rocket powers into space",
       "https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Europe_s_new_Ariane_6_rocket_powers_into_space"
-    ]
-  ],
-  [
-    [
-      "2024-07-10, 07:23:47",
-      "https://news.ycombinator.com/item?id=40924472"
-    ],
-    [
-      "Show HN: Tailwind Template Directory",
-      "https://tailkits.com/"
     ]
   ],
   [
@@ -211,6 +191,16 @@
   ],
   [
     [
+      "2024-07-09, 11:48:42",
+      "https://news.ycombinator.com/item?id=40915005"
+    ],
+    [
+      "MobileLLM: Optimizing Sub-Billion Parameter Language Models for On-Device Use",
+      "https://github.com/facebookresearch/MobileLLM"
+    ]
+  ],
+  [
+    [
       "2024-07-09, 11:44:40",
       "https://news.ycombinator.com/item?id=40914958"
     ],
@@ -227,6 +217,16 @@
     [
       "Dynamic translation of Smalltalk to WebAssembly",
       "https://thiscontext.com/2023/07/26/dynamic-translation-of-smalltalk-to-webassembly/"
+    ]
+  ],
+  [
+    [
+      "2024-07-09, 00:54:13",
+      "https://news.ycombinator.com/item?id=40911500"
+    ],
+    [
+      "Sljit: Platform independent low-level JIT compiler",
+      "https://github.com/zherczeg/sljit"
     ]
   ],
   [
