@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-10](index.md)
 
+* [2024-07-10, 14:36:52](https://news.ycombinator.com/item?id=40927386) - [Autism linked to specific gut bugs, promising quick, accurate diagnosis](https://newatlas.com/health-wellbeing/autism-gut-microbiome/)
 * [2024-07-10, 14:34:35](https://news.ycombinator.com/item?id=40927364) - [Lacking official sources, Texans use Whataburger app to track power outages](https://twitter.com/bbqbryan/status/1810509150842974308)
+* [2024-07-10, 14:26:20](https://news.ycombinator.com/item?id=40927274) - [AI speech generator 'reaches human parity' – but it's too dangerous to release](https://www.livescience.com/technology/artificial-intelligence/ai-speech-generator-reaches-human-parity-but-its-too-dangerous-to-release-scientists-say)
 * [2024-07-10, 13:27:14](https://news.ycombinator.com/item?id=40926656) - [Intuit to Cut 10% of Employees in Latest Round of Tech Layoffs](https://www.bloomberg.com/news/articles/2024-07-10/intuit-to-cull-10-of-employees-in-latest-round-of-tech-layoffs)
 * [2024-07-10, 13:26:15](https://news.ycombinator.com/item?id=40926648) - [AMD to buy Finnish startup Silo AI for $665M in drive to compete with Nvidia](https://www.ft.com/content/7b8d2057-2687-45b3-bae4-1488a75ac5b2)
 * [2024-07-10, 13:13:51](https://news.ycombinator.com/item?id=40926515) - [Training of Physical Neural Networks](https://arxiv.org/abs/2406.03372)
