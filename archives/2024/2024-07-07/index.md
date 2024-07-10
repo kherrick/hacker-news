@@ -33,6 +33,7 @@
 * [2024-07-07, 17:00:26](https://news.ycombinator.com/item?id=40898831) - [Trellis (YC W24) is hiring engineer to build AI-powered ETL for unstructured data](https://www.ycombinator.com/companies/trellis/jobs/1ypWafM-founding-engineer-full-time-backend-ml-infra)
 * [2024-07-07, 16:56:26](https://news.ycombinator.com/item?id=40898793) - [Falsehoods Programmers Believe About Phone Numbers](https://github.com/google/libphonenumber/blob/master/FALSEHOODS.md)
 * [2024-07-07, 16:47:16](https://news.ycombinator.com/item?id=40898734) - [How David Sinkinson Bootstrapped AppArmor to a $40M Exit](https://builttosell.com/radio/episode-448/)
+* [2024-07-07, 16:44:04](https://news.ycombinator.com/item?id=40898715) - [Why Use Onion Layering?](https://garrettdbates.com/2024/07/07/why-use-onion-layering.html)
 * [2024-07-07, 16:38:08](https://news.ycombinator.com/item?id=40898693) - [ChatGPT is better at generating code for problems written before 2021](https://ieeexplore.ieee.org/document/10507163)
 * [2024-07-07, 16:28:34](https://news.ycombinator.com/item?id=40898654) - [Zuckerberg and Peter Thiel on Facebook, Millenials, and Predictions for 2030](https://www.techemails.com/p/mark-zuckerberg-peter-thiel-millennials)
 * [2024-07-07, 16:25:31](https://news.ycombinator.com/item?id=40898640) - [TUI for Managing WiFi on Linux](https://github.com/pythops/impala)
