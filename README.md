@@ -2,6 +2,7 @@
 
 * [2024-07-10, 02:09:02](https://news.ycombinator.com/item?id=40923124) - [A New Age of Materials Is Dawning, for Everything from Smartphones to Missiles](https://www.wsj.com/tech/composites-manufacturing-boeing-drones-arris-9t-orbital-a422de1b)
 * [2024-07-10, 01:29:48](https://news.ycombinator.com/item?id=40922929) - [CodeCrafters (YC S22) Is Hiring a Marketing Writer](https://www.ycombinator.com/companies/codecrafters/jobs/s2MPHPu-marketing-writer-technical)
+* [2024-07-10, 00:35:48](https://news.ycombinator.com/item?id=40922740) - [Awsviz.dev simplifying AWS IAM policies](https://www.awsviz.dev/)
 * [2024-07-10, 00:35:38](https://news.ycombinator.com/item?id=40922739) - [RouteLLM: A framework for serving and evaluating LLM routers](https://github.com/lm-sys/RouteLLM)
 * [2024-07-09, 21:00:00](https://news.ycombinator.com/item?id=40921038) - [Knowledge Graphs in RAG: Hype vs. Ragas Analysis](https://aiencoder.substack.com/p/graphrag-analysis-part-1-how-indexing)
 * [2024-07-09, 20:23:12](https://news.ycombinator.com/item?id=40920681) - [Show HN: Maelstrom – A Hermetic, Clustered Test Runner for Python and Rust](https://github.com/maelstrom-software/maelstrom)
@@ -23,7 +24,6 @@
 * [2024-07-09, 06:42:34](https://news.ycombinator.com/item?id=40913138) - [The Race to Seal Helium HDDs (2021)](https://blog.westerndigital.com/race-to-seal-helium/)
 * [2024-07-09, 06:01:47](https://news.ycombinator.com/item?id=40912920) - [Show HN: Tegon: Open-source alternative to Jira, Linear](https://github.com/tegonhq/tegon)
 * [2024-07-09, 00:54:13](https://news.ycombinator.com/item?id=40911500) - [Sljit: Platform independent low-level JIT compiler](https://github.com/zherczeg/sljit)
-* [2024-07-08, 18:27:16](https://news.ycombinator.com/item?id=40907933) - [No more boot loader: Please use the kernel instead](https://pretalx.com/devconf-cz-2024/talk/W3AVCT/)
 * [2024-07-08, 18:00:44](https://news.ycombinator.com/item?id=40907655) - [Ognosia (2022)](https://wordswithoutborders.org/read/article/2022-06/ognosia-olga-tokarczuk-jennifer-croft/)
 * [2024-07-08, 15:14:06](https://news.ycombinator.com/item?id=40906148) - [Reverse engineering Ticketmaster's rotating barcodes](https://conduition.io/coding/ticketmaster/)
 * [2024-07-07, 16:44:04](https://news.ycombinator.com/item?id=40898715) - [Why Use Onion Layering?](https://garrettdbates.com/2024/07/07/why-use-onion-layering.html)
