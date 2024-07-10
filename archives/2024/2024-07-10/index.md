@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-07-10](index.md)
 
+* [2024-07-10, 17:51:03](https://news.ycombinator.com/item?id=40929497) - [Ask HN: Do AI-generated images ruin technical posts for anyone else?](https://news.ycombinator.com/item?id=40929497)
+* [2024-07-10, 17:36:44](https://news.ycombinator.com/item?id=40929312) - [Tech giant Samsung workers to strike indefinitely](https://www.bbc.com/news/articles/c51yelv4e72o)
 * [2024-07-10, 17:17:05](https://news.ycombinator.com/item?id=40929104) - [Ed Stone, Top Scientist–and Salesman–For the Voyager Mission, Dies at 88](https://www.wsj.com/science/space-astronomy/ed-stone-scientist-voyager-mission-dies-at-88-44c65bc4)
+* [2024-07-10, 17:13:22](https://news.ycombinator.com/item?id=40929064) - [Scorecard: Assess Open Source Project Security](https://scorecard.dev/)
 * [2024-07-10, 17:01:32](https://news.ycombinator.com/item?id=40928948) - [Motion (YC W20) Is Hiring Senior Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2024-07-10, 16:56:02](https://news.ycombinator.com/item?id=40928893) - [Zed on Linux Is Here](https://zed.dev/linux)
 * [2024-07-10, 16:41:44](https://news.ycombinator.com/item?id=40928756) - [Researchers discover a new form of scientific fraud: 'sneaked references'](https://phys.org/news/2024-07-scientific-fraud-uncovering.html)
@@ -14,8 +17,10 @@
 * [2024-07-10, 16:14:24](https://news.ycombinator.com/item?id=40928469) - [TUAW Returns as a Gross, Zombie AI-Generated Garbage Site](https://sixcolors.com/link/2024/07/tuaw-returns-as-a-gross-zombie-ai-generated-garbage-site/)
 * [2024-07-10, 16:11:50](https://news.ycombinator.com/item?id=40928450) - [Co-Dfns v5.7.0](https://github.com/Co-dfns/Co-dfns/releases/tag/v5.7.0)
 * [2024-07-10, 15:56:23](https://news.ycombinator.com/item?id=40928290) - [Copenhagen rewards tourists for climate friendly actions](https://www.visitcopenhagen.com/copenpay)
+* [2024-07-10, 15:39:25](https://news.ycombinator.com/item?id=40928145) - [Dola Decoding by Contrasting Layers Improves Factuality in Large Language Models](https://arxiv.org/abs/2309.03883)
 * [2024-07-10, 15:38:55](https://news.ycombinator.com/item?id=40928139) - [Imagining spacetime as a visible grid [video]](https://aeon.co/videos/imagining-spacetime-as-a-visible-grid-is-an-extraordinary-journey-into-the-unseen)
 * [2024-07-10, 15:25:06](https://news.ycombinator.com/item?id=40927970) - [Reading my electric meter with RTLSDR](https://pdx.su/blog/2024-03-17-reading-my-electric-meter-with-rtlsdr/)
+* [2024-07-10, 14:45:19](https://news.ycombinator.com/item?id=40927481) - [Brian Kernighan Reflects on \"The Practice of Programming\" [video]](https://www.youtube.com/watch?v=_QQ7k5sn2-o)
 * [2024-07-10, 14:42:03](https://news.ycombinator.com/item?id=40927438) - [Weird things I learned while writing an x86 emulator](https://www.timdbg.com/posts/useless-x86-trivia/)
 * [2024-07-10, 14:36:52](https://news.ycombinator.com/item?id=40927386) - [Autism linked to specific gut bugs, promising quick, accurate diagnosis](https://newatlas.com/health-wellbeing/autism-gut-microbiome/)
 * [2024-07-10, 14:34:35](https://news.ycombinator.com/item?id=40927364) - [Lacking official sources, Texans use Whataburger app to track power outages](https://twitter.com/bbqbryan/status/1810509150842974308)
