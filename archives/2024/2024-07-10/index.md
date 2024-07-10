@@ -10,6 +10,7 @@
 * [2024-07-10, 13:27:14](https://news.ycombinator.com/item?id=40926656) - [Intuit to Cut 10% of Employees in Latest Round of Tech Layoffs](https://www.bloomberg.com/news/articles/2024-07-10/intuit-to-cull-10-of-employees-in-latest-round-of-tech-layoffs)
 * [2024-07-10, 13:26:15](https://news.ycombinator.com/item?id=40926648) - [AMD to buy Finnish startup Silo AI for $665M in drive to compete with Nvidia](https://www.ft.com/content/7b8d2057-2687-45b3-bae4-1488a75ac5b2)
 * [2024-07-10, 13:13:51](https://news.ycombinator.com/item?id=40926515) - [Training of Physical Neural Networks](https://arxiv.org/abs/2406.03372)
+* [2024-07-10, 13:05:30](https://news.ycombinator.com/item?id=40926439) - [At the Mountains of Madness](https://antithesis.com/blog/madness/)
 * [2024-07-10, 13:01:57](https://news.ycombinator.com/item?id=40926411) - [Towards Idempotent Rebuilds?](https://blog.josefsson.org/2024/07/10/towards-idempotent-rebuilds/)
 * [2024-07-10, 12:35:14](https://news.ycombinator.com/item?id=40926211) - [Show HN: Posting v1 – The modern HTTP client that lives in your terminal](https://github.com/darrenburns/posting)
 * [2024-07-10, 11:54:35](https://news.ycombinator.com/item?id=40925906) - [Show HN: I made a Note-Taking app for people who keep texting themselves](https://strflow.app)
