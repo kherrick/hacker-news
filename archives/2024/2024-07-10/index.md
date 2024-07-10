@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-10](index.md)
 
+* [2024-07-10, 23:23:15](https://news.ycombinator.com/item?id=40932447) - [Tesla's Share of U.S. Electric Car Market Falls Below 50%](https://www.nytimes.com/2024/07/09/business/tesla-electric-vehicles-market-share.html)
 * [2024-07-10, 23:19:01](https://news.ycombinator.com/item?id=40932420) - [Eliza chat with an OpenAI compatible API](https://elizallm.com)
 * [2024-07-10, 22:06:40](https://news.ycombinator.com/item?id=40931986) - [Redbox will shut down, corporate parent is being liquidated](https://www.lowpass.cc/p/redbox-shutting-down)
 * [2024-07-10, 21:51:51](https://news.ycombinator.com/item?id=40931893) - [Using VLC to watch an m3u8 playlist at a URL with custom Referrer and User Agent](https://gist.github.com/milesrichardson/4661c311199b98023701f6cecd3b89b0)
