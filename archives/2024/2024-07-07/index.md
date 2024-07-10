@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-07](index.md)
 
+* [2024-07-07, 23:01:47](https://news.ycombinator.com/item?id=40901224) - [Rebooting (something like) early Triplebyte](https://www.otherbranch.com/blog/rebooting-something-like-triplebyte)
 * [2024-07-07, 22:02:33](https://news.ycombinator.com/item?id=40900814) - [Cannabis legalisation hampered by most German of substances: red tape](https://www.theguardian.com/world/article/2024/jul/06/cannabis-legalisation-germany)
 * [2024-07-07, 21:52:26](https://news.ycombinator.com/item?id=40900744) - [The Yellowstone supervolcano destroyed an ecosystem but saved it for us](https://arstechnica.com/science/2024/07/the-pompeii-of-paleontology-preserves-a-time-when-rhinos-roamed-nebraska/)
 * [2024-07-07, 21:38:52](https://news.ycombinator.com/item?id=40900648) - [I'm Funding Ladybird Because I Can't Fund Firefox](http://jackkelly.name/blog/archives/2024/07/06/im_funding_ladybird_because_i_cant_fund_firefox/)
