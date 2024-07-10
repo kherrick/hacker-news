@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-10, 21:24:49](https://news.ycombinator.com/item?id=40931636) - [Scientists Discover a Cause of Lupus, Possible Way to Reverse It](https://news.feinberg.northwestern.edu/2024/07/10/scientists-discover-a-cause-of-lupus-and-a-possible-way-to-reverse-it/)
 * [2024-07-10, 21:07:25](https://news.ycombinator.com/item?id=40931486) - [Changes to Stripe Billing](https://support.stripe.com/questions/july-2024-changes-to-stripe-billing)
 * [2024-07-10, 19:29:32](https://news.ycombinator.com/item?id=40930549) - [Big Ball of Mud (1999)](http://laputan.org/mud/)
 * [2024-07-10, 17:17:05](https://news.ycombinator.com/item?id=40929104) - [Ed Stone, Top Scientist–and Salesman–For the Voyager Mission, Dies at 88](https://www.wsj.com/science/space-astronomy/ed-stone-scientist-voyager-mission-dies-at-88-44c65bc4)
@@ -16,7 +17,6 @@
 * [2024-07-10, 13:05:30](https://news.ycombinator.com/item?id=40926439) - [At the Mountains of Madness](https://antithesis.com/blog/madness/)
 * [2024-07-10, 13:01:57](https://news.ycombinator.com/item?id=40926411) - [Towards Idempotent Rebuilds?](https://blog.josefsson.org/2024/07/10/towards-idempotent-rebuilds/)
 * [2024-07-10, 12:35:14](https://news.ycombinator.com/item?id=40926211) - [Show HN: Posting v1 – The modern HTTP client that lives in your terminal](https://github.com/darrenburns/posting)
-* [2024-07-10, 12:17:34](https://news.ycombinator.com/item?id=40926063) - [Why We Build Simple Software](https://blog.pickcode.io/why-we-build-simple-software/)
 * [2024-07-10, 10:26:14](https://news.ycombinator.com/item?id=40925474) - [Copying collectors with block-structured heaps are unreliable](https://wingolog.org/archives/2024/07/10/copying-collectors-with-block-structured-heaps-are-unreliable)
 * [2024-07-10, 09:02:16](https://news.ycombinator.com/item?id=40925025) - [SimSig: Railway Signalling Simulations](https://www.simsig.co.uk/)
 * [2024-07-10, 01:11:00](https://news.ycombinator.com/item?id=40922874) - [The Seal Failure in the SRB That Doomed Challenger (2021)](https://exrocketman.blogspot.com/2021/12/the-seal-failure-in-srb-that-doomed.html)
