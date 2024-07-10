@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-10](index.md)
 
+* [2024-07-10, 15:25:06](https://news.ycombinator.com/item?id=40927970) - [Reading my electric meter with RTLSDR](https://pdx.su/blog/2024-03-17-reading-my-electric-meter-with-rtlsdr/)
 * [2024-07-10, 14:36:52](https://news.ycombinator.com/item?id=40927386) - [Autism linked to specific gut bugs, promising quick, accurate diagnosis](https://newatlas.com/health-wellbeing/autism-gut-microbiome/)
 * [2024-07-10, 14:34:35](https://news.ycombinator.com/item?id=40927364) - [Lacking official sources, Texans use Whataburger app to track power outages](https://twitter.com/bbqbryan/status/1810509150842974308)
 * [2024-07-10, 14:26:20](https://news.ycombinator.com/item?id=40927274) - [AI speech generator 'reaches human parity' – but it's too dangerous to release](https://www.livescience.com/technology/artificial-intelligence/ai-speech-generator-reaches-human-parity-but-its-too-dangerous-to-release-scientists-say)
