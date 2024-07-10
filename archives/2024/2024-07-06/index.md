@@ -52,6 +52,7 @@
 * [2024-07-06, 16:38:24](https://news.ycombinator.com/item?id=40891495) - [Leonard Rome's lab discovered an odd component of cells in the 1980s: Vaults](https://www.science.org/content/article/biologist-aims-solve-cell-s-biggest-mystery-could-it-help-cancer-patients-too)
 * [2024-07-06, 16:37:47](https://news.ycombinator.com/item?id=40891492) - [High-Tech salaries in Israel take nosedive in April](https://www.ynetnews.com/business/article/ryzhk1ddc)
 * [2024-07-06, 16:27:48](https://news.ycombinator.com/item?id=40891446) - [Kivy – a cross platform Python UI framework](https://kivy.org)
+* [2024-07-06, 16:19:41](https://news.ycombinator.com/item?id=40891391) - [Using the 5S Principle in Coding](https://santhoshsundar.medium.com/using-the-5s-principle-in-coding-6237a1614a02)
 * [2024-07-06, 16:16:47](https://news.ycombinator.com/item?id=40891372) - [Cold shipping might be the next industry that batteries disrupt](https://techcrunch.com/2024/06/28/cold-shipping-might-be-the-next-industry-that-batteries-disrupt/)
 * [2024-07-06, 16:16:26](https://news.ycombinator.com/item?id=40891367) - [Free and Open Source Software–and Other Market Failures](https://cacm.acm.org/practice/free-and-open-source-software-and-other-market-failures/)
 * [2024-07-06, 16:13:57](https://news.ycombinator.com/item?id=40891349) - [The Steel Man Technique: How to Argue Better and Be More Persuasive](https://constantrenewal.com/steel-man)
