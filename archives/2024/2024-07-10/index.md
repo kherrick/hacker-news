@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-10](index.md)
 
 * [2024-07-10, 18:13:09](https://news.ycombinator.com/item?id=40929721) - [Tell HN: Copilot For Business forcibly terminates Copilot Personal subscriptions](https://news.ycombinator.com/item?id=40929721)
+* [2024-07-10, 17:58:19](https://news.ycombinator.com/item?id=40929573) - [Known carcinogen is showing up in wildfire ash, researchers are worried (2023)](https://www.npr.org/2023/12/19/1220340295/carcinogen-wildfire-ash-chromium-6-hexavalent-lung-cancer)
 * [2024-07-10, 17:51:03](https://news.ycombinator.com/item?id=40929497) - [Ask HN: Do AI-generated images ruin technical posts for anyone else?](https://news.ycombinator.com/item?id=40929497)
 * [2024-07-10, 17:48:30](https://news.ycombinator.com/item?id=40929462) - [Europe's drinking water contaminated by 'forever chemical': NGOs](https://phys.org/news/2024-07-europe-contaminated-chemical-ngos.html)
 * [2024-07-10, 17:36:44](https://news.ycombinator.com/item?id=40929312) - [Tech giant Samsung workers to strike indefinitely](https://www.bbc.com/news/articles/c51yelv4e72o)
