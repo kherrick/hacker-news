@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-10, 16:19:06](https://news.ycombinator.com/item?id=40928519) - [Hip-Hop Band Cypress Hill to Perform with London Symphony Orchestra](https://www.cnn.com/2024/07/10/style/cypress-hill-london-symphony-orchestra-simpsons-intl-scli/index.html)
 * [2024-07-10, 16:14:24](https://news.ycombinator.com/item?id=40928469) - [TUAW Returns as a Gross, Zombie AI-Generated Garbage Site](https://sixcolors.com/link/2024/07/tuaw-returns-as-a-gross-zombie-ai-generated-garbage-site/)
 * [2024-07-10, 15:38:55](https://news.ycombinator.com/item?id=40928139) - [Imagining spacetime as a visible grid [video]](https://aeon.co/videos/imagining-spacetime-as-a-visible-grid-is-an-extraordinary-journey-into-the-unseen)
 * [2024-07-10, 14:42:03](https://news.ycombinator.com/item?id=40927438) - [Weird things I learned while writing an x86 emulator](https://www.timdbg.com/posts/useless-x86-trivia/)
@@ -26,7 +27,6 @@
 * [2024-07-09, 13:54:59](https://news.ycombinator.com/item?id=40916193) - [Scoped Propagators](https://www.orionreed.com/posts/scoped-propagators)
 * [2024-07-09, 11:44:40](https://news.ycombinator.com/item?id=40914958) - [Circos – Circular Visualization](https://circos.ca/)
 * [2024-07-07, 23:01:47](https://news.ycombinator.com/item?id=40901224) - [Rebooting (something like) early Triplebyte](https://www.otherbranch.com/blog/rebooting-something-like-triplebyte)
-* [2024-07-07, 16:44:04](https://news.ycombinator.com/item?id=40898715) - [Why Use Onion Layering?](https://garrettdbates.com/2024/07/07/why-use-onion-layering.html)
 * [2024-07-06, 16:19:41](https://news.ycombinator.com/item?id=40891391) - [Using the 5S Principle in Coding](https://santhoshsundar.medium.com/using-the-5s-principle-in-coding-6237a1614a02)
 * [2024-07-06, 09:35:33](https://news.ycombinator.com/item?id=40889272) - [Compile-time JSON deserialization in C++](https://medium.com/@abdulgh/compile-time-json-deserialization-in-c-1e3d41a73628)
 * [2024-07-05, 20:27:51](https://news.ycombinator.com/item?id=40885703) - [How I swapped my ivory tower for the world of science fiction](https://www.nature.com/articles/d41586-024-02211-0)
