@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-10](index.md)
 
+* [2024-07-10, 23:19:01](https://news.ycombinator.com/item?id=40932420) - [Eliza chat with an OpenAI compatible API](https://elizallm.com)
 * [2024-07-10, 22:06:40](https://news.ycombinator.com/item?id=40931986) - [Redbox will shut down, corporate parent is being liquidated](https://www.lowpass.cc/p/redbox-shutting-down)
 * [2024-07-10, 21:51:51](https://news.ycombinator.com/item?id=40931893) - [Using VLC to watch an m3u8 playlist at a URL with custom Referrer and User Agent](https://gist.github.com/milesrichardson/4661c311199b98023701f6cecd3b89b0)
 * [2024-07-10, 21:24:49](https://news.ycombinator.com/item?id=40931636) - [Scientists Discover a Cause of Lupus, Possible Way to Reverse It](https://news.feinberg.northwestern.edu/2024/07/10/scientists-discover-a-cause-of-lupus-and-a-possible-way-to-reverse-it/)
@@ -11,6 +12,7 @@
 * [2024-07-10, 21:07:25](https://news.ycombinator.com/item?id=40931486) - [July 2024 changes to Stripe Billing](https://support.stripe.com/questions/july-2024-changes-to-stripe-billing)
 * [2024-07-10, 20:45:28](https://news.ycombinator.com/item?id=40931308) - [Walmart Selling MacBook Air with M1 Chip for $649 Starting Today](https://www.macrumors.com/2024/07/08/walmart-m1-macbook-air-for-649/)
 * [2024-07-10, 20:08:42](https://news.ycombinator.com/item?id=40930988) - [Machine Learning Systems with TinyML](https://harvard-edge.github.io/cs249r_book/)
+* [2024-07-10, 20:08:06](https://news.ycombinator.com/item?id=40930983) - [The NYT Book Review Is Everything Book Criticism Shouldn't Be](https://www.currentaffairs.org/news/new-york-times-book-review)
 * [2024-07-10, 19:54:13](https://news.ycombinator.com/item?id=40930834) - [Ask HN: Why does no one seem to care that AI gives wrong answers?](https://news.ycombinator.com/item?id=40930834)
 * [2024-07-10, 19:52:07](https://news.ycombinator.com/item?id=40930809) - [The great silence: Just 4 in 10k galaxies may host intelligent aliens](https://www.space.com/plate-tectonics-intelligent-alien-life-rare)
 * [2024-07-10, 19:40:06](https://news.ycombinator.com/item?id=40930675) - [Low salary likely to cause exodus of European tech talent](https://www.tradearabia.com/news/REAL_423987.html)
