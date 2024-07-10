@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-10, 17:58:19](https://news.ycombinator.com/item?id=40929573) - [Known carcinogen is showing up in wildfire ash, researchers are worried (2023)](https://www.npr.org/2023/12/19/1220340295/carcinogen-wildfire-ash-chromium-6-hexavalent-lung-cancer)
+* [2024-07-10, 18:53:19](https://news.ycombinator.com/item?id=40930139) - [Google testing facial recognition technology for security near Seattle](https://www.cnbc.com/2024/06/26/google-testing-facial-recognition-technology-for-security-near-seattle.html)
 * [2024-07-10, 17:17:05](https://news.ycombinator.com/item?id=40929104) - [Ed Stone, Top Scientist–and Salesman–For the Voyager Mission, Dies at 88](https://www.wsj.com/science/space-astronomy/ed-stone-scientist-voyager-mission-dies-at-88-44c65bc4)
 * [2024-07-10, 17:01:32](https://news.ycombinator.com/item?id=40928948) - [Motion (YC W20) Is Hiring Senior Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2024-07-10, 16:56:02](https://news.ycombinator.com/item?id=40928893) - [Zed on Linux Is Here](https://zed.dev/linux)
