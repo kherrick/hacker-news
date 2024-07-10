@@ -70,6 +70,7 @@
 * [2024-07-08, 05:06:34](https://news.ycombinator.com/item?id=40902749) - [Boeing to plead guilty to criminal fraud charge stemming from 737 MAX crashes](https://www.cnbc.com/2024/07/08/boeing-to-plead-guilty-to-criminal-fraud-charge-stemming-from-737-max-crashes.html)
 * [2024-07-08, 05:04:58](https://news.ycombinator.com/item?id=40902740) - [Do Skis Get Blunt?](https://brooker.co.za/misc-blog/2024/01/23/skis.html)
 * [2024-07-08, 04:28:19](https://news.ycombinator.com/item?id=40902604) - ['It's like I drew a door and disappeared through it' (2021)](https://meduza.io/en/feature/2021/04/01/it-s-like-i-drew-a-door-and-disappeared-through-it)
+* [2024-07-08, 04:12:55](https://news.ycombinator.com/item?id=40902554) - [MicroPython Smartwatch](https://www.tolidano.com/micropython-smartwatch.html)
 * [2024-07-08, 01:52:54](https://news.ycombinator.com/item?id=40902012) - [Show HN: Simulating 20M Particles in JavaScript](https://dgerrells.com/blog/how-fast-is-javascript-simulating-20-000-000-particles)
 * [2024-07-08, 01:22:00](https://news.ycombinator.com/item?id=40901890) - [Ecuador court rules pollution violates rights of a river running through capital](https://www.theguardian.com/world/article/2024/jul/07/ecuador-court-river-pollution-violates-rights)
 * [2024-07-08, 00:27:58](https://news.ycombinator.com/item?id=40901623) - [A Mini Monitor for a Pi](https://noamzeise.com/2024/07/05/mini-monitor.html)

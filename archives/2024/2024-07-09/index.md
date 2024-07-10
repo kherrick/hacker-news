@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-09](index.md)
 
+* [2024-07-09, 23:59:06](https://news.ycombinator.com/item?id=40922548) - [Enhancing the New York Times Web Performance with React 18](https://open.nytimes.com/enhancing-the-new-york-times-web-performance-with-react-18-d6f91a7c5af8)
 * [2024-07-09, 21:40:44](https://news.ycombinator.com/item?id=40921511) - [Daylight eInk Computer](https://daylightcomputer.com)
 * [2024-07-09, 21:31:18](https://news.ycombinator.com/item?id=40921398) - [A small studio made a game based on Stanislaw Lem's novel](https://invinciblethegame.com/)
 * [2024-07-09, 21:26:18](https://news.ycombinator.com/item?id=40921343) - [Russia Leverages AI-enhanced \"Meliorator\" software for foreign malign influence](https://www.cyber.gc.ca/en/news-events/russian-state-sponsored-media-organization-leverages-ai-enhanced-meliorator-software-foreign-malign-influence-activity)
