@@ -1,13 +1,14 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-10, 18:13:09](https://news.ycombinator.com/item?id=40929721) - [Tell HN: Copilot For Business forcibly terminates Copilot Personal subscriptions](https://news.ycombinator.com/item?id=40929721)
 * [2024-07-10, 17:51:03](https://news.ycombinator.com/item?id=40929497) - [Ask HN: Do AI-generated images ruin technical posts for anyone else?](https://news.ycombinator.com/item?id=40929497)
+* [2024-07-10, 17:48:30](https://news.ycombinator.com/item?id=40929462) - [Europe's drinking water contaminated by 'forever chemical': NGOs](https://phys.org/news/2024-07-europe-contaminated-chemical-ngos.html)
 * [2024-07-10, 17:36:44](https://news.ycombinator.com/item?id=40929312) - [Tech giant Samsung workers to strike indefinitely](https://www.bbc.com/news/articles/c51yelv4e72o)
 * [2024-07-10, 17:17:05](https://news.ycombinator.com/item?id=40929104) - [Ed Stone, Top Scientist–and Salesman–For the Voyager Mission, Dies at 88](https://www.wsj.com/science/space-astronomy/ed-stone-scientist-voyager-mission-dies-at-88-44c65bc4)
 * [2024-07-10, 17:13:22](https://news.ycombinator.com/item?id=40929064) - [Scorecard: Assess Open Source Project Security](https://scorecard.dev/)
 * [2024-07-10, 17:01:32](https://news.ycombinator.com/item?id=40928948) - [Motion (YC W20) Is Hiring Senior Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2024-07-10, 16:56:02](https://news.ycombinator.com/item?id=40928893) - [Zed on Linux Is Here](https://zed.dev/linux)
 * [2024-07-10, 16:41:44](https://news.ycombinator.com/item?id=40928756) - [Researchers discover a new form of scientific fraud: 'sneaked references'](https://phys.org/news/2024-07-scientific-fraud-uncovering.html)
-* [2024-07-10, 16:17:27](https://news.ycombinator.com/item?id=40928503) - [The President Ordered Board to Probe Massive Russian Cyberattack. It Never Did](https://www.propublica.org/article/cyber-safety-board-never-investigated-solarwinds-breach-microsoft)
 * [2024-07-10, 16:11:50](https://news.ycombinator.com/item?id=40928450) - [Co-Dfns v5.7.0](https://github.com/Co-dfns/Co-dfns/releases/tag/v5.7.0)
 * [2024-07-10, 15:39:25](https://news.ycombinator.com/item?id=40928145) - [Dola Decoding by Contrasting Layers Improves Factuality in Large Language Models](https://arxiv.org/abs/2309.03883)
 * [2024-07-10, 14:45:19](https://news.ycombinator.com/item?id=40927481) - [Brian Kernighan Reflects on \"The Practice of Programming\" [video]](https://www.youtube.com/watch?v=_QQ7k5sn2-o)
@@ -25,11 +26,10 @@
 * [2024-07-10, 00:35:38](https://news.ycombinator.com/item?id=40922739) - [RouteLLM: A framework for serving and evaluating LLM routers](https://github.com/lm-sys/RouteLLM)
 * [2024-07-09, 22:34:39](https://news.ycombinator.com/item?id=40921989) - [Multi-agent chatbot murder mystery – AI Alibis (free, in-browser)](https://ai-murder-mystery.onrender.com/)
 * [2024-07-09, 19:38:36](https://news.ycombinator.com/item?id=40920122) - [How CD pregaps gained their hidden track superpowers](https://tedium.co/2024/07/06/compact-disc-pregap-history/)
-* [2024-07-09, 14:48:59](https://news.ycombinator.com/item?id=40916786) - [Turbopuffer: Fast search on object storage](https://turbopuffer.com/blog/turbopuffer)
 * [2024-07-09, 03:24:22](https://news.ycombinator.com/item?id=40912271) - [Real-time audio programming 101: time waits for nothing](http://www.rossbencina.com/code/real-time-audio-programming-101-time-waits-for-nothing)
-* [2024-07-07, 23:01:47](https://news.ycombinator.com/item?id=40901224) - [Rebooting (something like) early Triplebyte](https://www.otherbranch.com/blog/rebooting-something-like-triplebyte)
 * [2024-07-06, 16:19:41](https://news.ycombinator.com/item?id=40891391) - [Using the 5S Principle in Coding](https://santhoshsundar.medium.com/using-the-5s-principle-in-coding-6237a1614a02)
 * [2024-07-05, 20:27:51](https://news.ycombinator.com/item?id=40885703) - [How I swapped my ivory tower for the world of science fiction](https://www.nature.com/articles/d41586-024-02211-0)
+* [2024-07-05, 15:38:50](https://news.ycombinator.com/item?id=40883672) - [The magic of small engineering teams](https://newsletter.posthog.com/p/the-magic-of-small-engineering-teams)
 
 ## [Archives](archives/index.md)
 

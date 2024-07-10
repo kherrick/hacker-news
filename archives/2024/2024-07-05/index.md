@@ -51,6 +51,7 @@
 * [2024-07-05, 16:09:51](https://news.ycombinator.com/item?id=40883942) - [Graph-Based Ceramics](https://www.alexreichert.com/blog/graph-based-ceramics)
 * [2024-07-05, 16:09:43](https://news.ycombinator.com/item?id=40883940) - [Starcraft (A History in Two Acts)](https://www.filfre.net/2024/07/starcraft-a-history-in-two-acts/)
 * [2024-07-05, 15:57:18](https://news.ycombinator.com/item?id=40883839) - [Ente Auth: open-source Authy alternative for 2FA](https://ente.io/auth/)
+* [2024-07-05, 15:38:50](https://news.ycombinator.com/item?id=40883672) - [The magic of small engineering teams](https://newsletter.posthog.com/p/the-magic-of-small-engineering-teams)
 * [2024-07-05, 15:38:24](https://news.ycombinator.com/item?id=40883667) - [Japan is bracing for rage against the vending machine](https://www.businessinsider.com/japan-loves-vending-machines-cash-new-banknotes-wont-work-upgrades-2024-7)
 * [2024-07-05, 15:31:02](https://news.ycombinator.com/item?id=40883607) - [Harvester pulls 1.5 gallons of drinking water from arid air per day](https://newatlas.com/technology/water-harvester-arid-air-mit/)
 * [2024-07-05, 15:23:57](https://news.ycombinator.com/item?id=40883546) - [Vertical-Align: All You Need to Know (CSS)](https://christopheraue.net/design/vertical-align)
