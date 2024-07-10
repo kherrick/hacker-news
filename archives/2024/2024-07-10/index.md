@@ -6,6 +6,7 @@
 
 * [2024-07-10, 21:07:25](https://news.ycombinator.com/item?id=40931486) - [July 2024 changes to Stripe Billing](https://support.stripe.com/questions/july-2024-changes-to-stripe-billing)
 * [2024-07-10, 20:45:28](https://news.ycombinator.com/item?id=40931308) - [Walmart Selling MacBook Air with M1 Chip for $649 Starting Today](https://www.macrumors.com/2024/07/08/walmart-m1-macbook-air-for-649/)
+* [2024-07-10, 20:08:42](https://news.ycombinator.com/item?id=40930988) - [Machine Learning Systems with TinyML](https://harvard-edge.github.io/cs249r_book/)
 * [2024-07-10, 19:54:13](https://news.ycombinator.com/item?id=40930834) - [Ask HN: Why does no one seem to care that AI gives wrong answers?](https://news.ycombinator.com/item?id=40930834)
 * [2024-07-10, 19:52:07](https://news.ycombinator.com/item?id=40930809) - [The great silence: Just 4 in 10k galaxies may host intelligent aliens](https://www.space.com/plate-tectonics-intelligent-alien-life-rare)
 * [2024-07-10, 19:29:32](https://news.ycombinator.com/item?id=40930549) - [Big Ball of Mud](http://laputan.org/mud/)

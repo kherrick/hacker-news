@@ -2,14 +2,13 @@
 
 * [2024-07-10, 21:07:25](https://news.ycombinator.com/item?id=40931486) - [July 2024 changes to Stripe Billing](https://support.stripe.com/questions/july-2024-changes-to-stripe-billing)
 * [2024-07-10, 20:45:28](https://news.ycombinator.com/item?id=40931308) - [Walmart Selling MacBook Air with M1 Chip for $649 Starting Today](https://www.macrumors.com/2024/07/08/walmart-m1-macbook-air-for-649/)
-* [2024-07-10, 19:54:13](https://news.ycombinator.com/item?id=40930834) - [Ask HN: Why does no one seem to care that AI gives wrong answers?](https://news.ycombinator.com/item?id=40930834)
+* [2024-07-10, 20:08:42](https://news.ycombinator.com/item?id=40930988) - [Machine Learning Systems with TinyML](https://harvard-edge.github.io/cs249r_book/)
 * [2024-07-10, 19:29:32](https://news.ycombinator.com/item?id=40930549) - [Big Ball of Mud (1999)](http://laputan.org/mud/)
 * [2024-07-10, 17:17:05](https://news.ycombinator.com/item?id=40929104) - [Ed Stone, Top Scientist–and Salesman–For the Voyager Mission, Dies at 88](https://www.wsj.com/science/space-astronomy/ed-stone-scientist-voyager-mission-dies-at-88-44c65bc4)
 * [2024-07-10, 17:01:32](https://news.ycombinator.com/item?id=40928948) - [Motion (YC W20) Is Hiring Senior Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2024-07-10, 16:56:02](https://news.ycombinator.com/item?id=40928893) - [Zed on Linux Is Here](https://zed.dev/linux)
 * [2024-07-10, 16:41:44](https://news.ycombinator.com/item?id=40928756) - [Researchers discover a new form of scientific fraud: 'sneaked references'](https://phys.org/news/2024-07-scientific-fraud-uncovering.html)
 * [2024-07-10, 15:39:25](https://news.ycombinator.com/item?id=40928145) - [Dola Decoding by Contrasting Layers Improves Factuality in Large Language Models](https://arxiv.org/abs/2309.03883)
-* [2024-07-10, 14:47:31](https://news.ycombinator.com/item?id=40927517) - [Daily Usenet Feed Size Hits 300TB](https://www.newsdemon.com/usenet-newsgroup-feed-size)
 * [2024-07-10, 14:45:19](https://news.ycombinator.com/item?id=40927481) - [Brian Kernighan Reflects on \"The Practice of Programming\" [video]](https://www.youtube.com/watch?v=_QQ7k5sn2-o)
 * [2024-07-10, 14:42:03](https://news.ycombinator.com/item?id=40927438) - [Weird things I learned while writing an x86 emulator](https://www.timdbg.com/posts/useless-x86-trivia/)
 * [2024-07-10, 13:35:22](https://news.ycombinator.com/item?id=40926734) - [Vision language models are blind](https://vlmsareblind.github.io/)
@@ -30,6 +29,7 @@
 * [2024-07-08, 01:37:31](https://news.ycombinator.com/item?id=40901947) - [RISC-V AI Chips Will Be Everywhere (2022)](https://spectrum.ieee.org/risc-v-ai)
 * [2024-07-06, 16:19:41](https://news.ycombinator.com/item?id=40891391) - [Using the 5S Principle in Coding](https://santhoshsundar.medium.com/using-the-5s-principle-in-coding-6237a1614a02)
 * [2024-07-05, 15:38:50](https://news.ycombinator.com/item?id=40883672) - [The magic of small engineering teams](https://newsletter.posthog.com/p/the-magic-of-small-engineering-teams)
+* [2024-07-05, 09:29:53](https://news.ycombinator.com/item?id=40881224) - [Nintendo ends Wii U repairs](https://www.engadget.com/nintendo-ends-wii-u-repairs-190023430.html)
 
 ## [Archives](archives/index.md)
 
