@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-10, 08:42:12](https://news.ycombinator.com/item?id=40924915) - [Europe's new Ariane 6 rocket powers into space](https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Europe_s_new_Ariane_6_rocket_powers_into_space)
 * [2024-07-10, 07:00:40](https://news.ycombinator.com/item?id=40924368) - [Photoroom (YC S20) Is Hiring Rust Developers in Paris (X-Platform, Wgpu, WASM)](https://jobs.lever.co/photoroom/fc379626-eb33-4eb6-839c-10e5d578e2ed?lever-origin=applied&lever-source%5B%5D=yc)
 * [2024-07-10, 02:09:02](https://news.ycombinator.com/item?id=40923124) - [A New Age of Materials Is Dawning, for Everything from Smartphones to Missiles](https://www.wsj.com/tech/composites-manufacturing-boeing-drones-arris-9t-orbital-a422de1b)
 * [2024-07-10, 01:13:11](https://news.ycombinator.com/item?id=40922884) - [Automate Project Environments with Devbox and Direnv](https://www.jetify.com/blog/automated-dev-envs-with-devbox-and-direnv/)
@@ -9,7 +10,7 @@
 * [2024-07-09, 21:00:00](https://news.ycombinator.com/item?id=40921038) - [Knowledge Graphs in RAG: Hype vs. Ragas Analysis](https://aiencoder.substack.com/p/graphrag-analysis-part-1-how-indexing)
 * [2024-07-09, 20:23:12](https://news.ycombinator.com/item?id=40920681) - [Show HN: Maelstrom – A Hermetic, Clustered Test Runner for Python and Rust](https://github.com/maelstrom-software/maelstrom)
 * [2024-07-09, 19:47:32](https://news.ycombinator.com/item?id=40920246) - [How to validate a market with development boards and SD cards](https://flyingcarcomputer.com/posts/how-to-validate-market-with-development-board/)
-* [2024-07-09, 19:38:36](https://news.ycombinator.com/item?id=40920122) - [How CD Pregaps Gained Their Hidden Track Superpowers](https://tedium.co/2024/07/06/compact-disc-pregap-history/)
+* [2024-07-09, 19:38:36](https://news.ycombinator.com/item?id=40920122) - [How CD pregaps gained their hidden track superpowers](https://tedium.co/2024/07/06/compact-disc-pregap-history/)
 * [2024-07-09, 18:28:49](https://news.ycombinator.com/item?id=40919288) - [The price of gold – how bad do you want it? (2016)](https://allaboutperformance.wordpress.com/2016/05/11/the-price-of-gold-how-bad-do-you-really-want-it/)
 * [2024-07-09, 18:25:03](https://news.ycombinator.com/item?id=40919253) - [Judge dismisses DMCA copyright claim in GitHub Copilot suit](https://www.theregister.com/2024/07/08/github_copilot_dmca/)
 * [2024-07-09, 16:45:01](https://news.ycombinator.com/item?id=40918152) - [Ask HN: How do browsers isolate internal audio from microphone input?](https://news.ycombinator.com/item?id=40918152)
@@ -19,7 +20,6 @@
 * [2024-07-09, 11:48:42](https://news.ycombinator.com/item?id=40915005) - [MobileLLM: Optimizing Sub-Billion Parameter Language Models for On-Device Use](https://github.com/facebookresearch/MobileLLM)
 * [2024-07-09, 11:44:40](https://news.ycombinator.com/item?id=40914958) - [Circos – Circular Visualization](https://circos.ca/)
 * [2024-07-09, 10:34:20](https://news.ycombinator.com/item?id=40914475) - [Dynamic translation of Smalltalk to WebAssembly](https://thiscontext.com/2023/07/26/dynamic-translation-of-smalltalk-to-webassembly/)
-* [2024-07-09, 06:42:34](https://news.ycombinator.com/item?id=40913138) - [The Race to Seal Helium HDDs (2021)](https://blog.westerndigital.com/race-to-seal-helium/)
 * [2024-07-09, 00:54:13](https://news.ycombinator.com/item?id=40911500) - [Sljit: Platform independent low-level JIT compiler](https://github.com/zherczeg/sljit)
 * [2024-07-08, 18:00:44](https://news.ycombinator.com/item?id=40907655) - [Ognosia (2022)](https://wordswithoutborders.org/read/article/2022-06/ognosia-olga-tokarczuk-jennifer-croft/)
 * [2024-07-08, 15:21:01](https://news.ycombinator.com/item?id=40906210) - [Spot the Drowning Child (2015)](http://spotthedrowningchild.com/)
