@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-10](index.md)
 
+* [2024-07-10, 15:56:23](https://news.ycombinator.com/item?id=40928290) - [Copenhagen rewards tourists for climate friendly actions](https://www.visitcopenhagen.com/copenpay)
 * [2024-07-10, 15:25:06](https://news.ycombinator.com/item?id=40927970) - [Reading my electric meter with RTLSDR](https://pdx.su/blog/2024-03-17-reading-my-electric-meter-with-rtlsdr/)
 * [2024-07-10, 14:36:52](https://news.ycombinator.com/item?id=40927386) - [Autism linked to specific gut bugs, promising quick, accurate diagnosis](https://newatlas.com/health-wellbeing/autism-gut-microbiome/)
 * [2024-07-10, 14:34:35](https://news.ycombinator.com/item?id=40927364) - [Lacking official sources, Texans use Whataburger app to track power outages](https://twitter.com/bbqbryan/status/1810509150842974308)
@@ -14,6 +15,7 @@
 * [2024-07-10, 13:05:30](https://news.ycombinator.com/item?id=40926439) - [At the Mountains of Madness](https://antithesis.com/blog/madness/)
 * [2024-07-10, 13:01:57](https://news.ycombinator.com/item?id=40926411) - [Towards Idempotent Rebuilds?](https://blog.josefsson.org/2024/07/10/towards-idempotent-rebuilds/)
 * [2024-07-10, 12:35:14](https://news.ycombinator.com/item?id=40926211) - [Show HN: Posting v1 – The modern HTTP client that lives in your terminal](https://github.com/darrenburns/posting)
+* [2024-07-10, 11:55:52](https://news.ycombinator.com/item?id=40925913) - [As extreme heat bakes the West, emergency helicopters struggle to fly](https://www.msn.com/en-us/news/other/as-extreme-heat-bakes-the-west-emergency-helicopters-struggle-to-fly/ar-BB1pJi1V)
 * [2024-07-10, 11:54:35](https://news.ycombinator.com/item?id=40925906) - [Show HN: I made a Note-Taking app for people who keep texting themselves](https://strflow.app)
 * [2024-07-10, 11:53:30](https://news.ycombinator.com/item?id=40925896) - [Leetcode but for ML](https://www.deep-ml.com/)
 * [2024-07-10, 11:27:11](https://news.ycombinator.com/item?id=40925747) - [Ask HN: Has anyone been fired for ignoring in-office mandates?](https://news.ycombinator.com/item?id=40925747)
