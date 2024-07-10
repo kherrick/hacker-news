@@ -68,6 +68,7 @@
 * [2024-07-06, 13:23:13](https://news.ycombinator.com/item?id=40890315) - [Amazon is bricking $2,350 Astro robots 10 months after release](https://arstechnica.com/gadgets/2024/07/amazon-is-bricking-2350-astro-robots-10-months-after-release/)
 * [2024-07-06, 12:53:22](https://news.ycombinator.com/item?id=40890151) - [Italian prosecutors found Dior paid $57 to produce bags retailing for $2,780](https://www.businessinsider.com/dior-italy-labor-investigation-contractors-lvmh-armani-luxury-bags-2024-7)
 * [2024-07-06, 12:29:18](https://news.ycombinator.com/item?id=40890035) - [Properly Testing Concurrent Data Structures](https://matklad.github.io/2024/07/05/properly-testing-concurrent-data-structures.html)
+* [2024-07-06, 12:26:46](https://news.ycombinator.com/item?id=40890018) - [Google is (not) bringing Fuchsia OS to Android devices](https://www.androidauthority.com/microfuchsia-on-android-3457788/)
 * [2024-07-06, 12:14:12](https://news.ycombinator.com/item?id=40889951) - [Show HN: A JavaScript UI library for imperative JSX](https://www.npmjs.com/package/@matry/dom)
 * [2024-07-06, 12:00:47](https://news.ycombinator.com/item?id=40889888) - [US created 111,000 fewer jobs in April and May than previously estimated](https://www.reuters.com/markets/us/us-employment-wage-growth-expected-moderate-june-2024-07-05/)
 * [2024-07-06, 12:00:12](https://news.ycombinator.com/item?id=40889886) - [Hadrius (YC W23) Is Hiring Founding Engineers in NYC](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
