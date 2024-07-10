@@ -21,6 +21,7 @@
 * [2024-07-05, 20:40:43](https://news.ycombinator.com/item?id=40885807) - [The Teton Pass collapsed in the most economically unequal county in the country](https://slate.com/business/2024/07/jackson-hole-teton-pass-collapse-inequality-housing.html)
 * [2024-07-05, 20:36:27](https://news.ycombinator.com/item?id=40885767) - [Are We Already in Recession?](https://www.profstonge.com/p/have-we-been-in-recession-for-years)
 * [2024-07-05, 20:28:47](https://news.ycombinator.com/item?id=40885710) - [DJI Announces an Electric Mountain Bike Drive System](https://www.dji.com/sg/newsroom/news/dji-launch-avinox-drive-system-en)
+* [2024-07-05, 20:27:51](https://news.ycombinator.com/item?id=40885703) - [How I swapped my ivory tower for the world of science fiction](https://www.nature.com/articles/d41586-024-02211-0)
 * [2024-07-05, 20:17:51](https://news.ycombinator.com/item?id=40885632) - [Goldman on Generative AI: doesn't justify costs or solve complex problems [pdf]](https://web.archive.org/web/20240629140307/http://goldmansachs.com/intelligence/pages/gs-research/gen-ai-too-much-spend-too-little-benefit/report.pdf)
 * [2024-07-05, 20:09:06](https://news.ycombinator.com/item?id=40885571) - [Philip Morris International has funded Japanese academics](https://www.bath.ac.uk/announcements/philip-morris-international-has-secretly-funded-japanese-academics/)
 * [2024-07-05, 19:51:06](https://news.ycombinator.com/item?id=40885460) - [Visually navigate code as stars and galaxies](https://anvaka.github.io/pm/#/?_k=2i4b46)

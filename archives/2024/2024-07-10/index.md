@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-10](index.md)
 
+* [2024-07-10, 11:53:30](https://news.ycombinator.com/item?id=40925896) - [Leetcode but for ML](https://www.deep-ml.com/)
+* [2024-07-10, 09:48:54](https://news.ycombinator.com/item?id=40925266) - [Plausible Community Edition](https://plausible.io/blog/community-edition)
 * [2024-07-10, 09:08:13](https://news.ycombinator.com/item?id=40925052) - [Mastering Email Security: Deep Dive into SPF, DKIM, and DMARC](https://bastion.tech/blog/spf-dkim-dmarc-email-security-explained)
 * [2024-07-10, 09:02:16](https://news.ycombinator.com/item?id=40925025) - [SimSig: Railway Signalling Simulations](https://www.simsig.co.uk/)
 * [2024-07-10, 08:46:15](https://news.ycombinator.com/item?id=40924936) - [I miss the old IndieHackers website, so I started an alternative](https://www.skool.com/indie-makers-5425/about)
