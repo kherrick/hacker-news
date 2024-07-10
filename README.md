@@ -23,11 +23,11 @@
 * [2024-07-10, 01:11:00](https://news.ycombinator.com/item?id=40922874) - [The Seal Failure in the SRB That Doomed Challenger (2021)](https://exrocketman.blogspot.com/2021/12/the-seal-failure-in-srb-that-doomed.html)
 * [2024-07-10, 00:35:38](https://news.ycombinator.com/item?id=40922739) - [RouteLLM: A framework for serving and evaluating LLM routers](https://github.com/lm-sys/RouteLLM)
 * [2024-07-09, 22:34:39](https://news.ycombinator.com/item?id=40921989) - [Multi-agent chatbot murder mystery – AI Alibis (free, in-browser)](https://ai-murder-mystery.onrender.com/)
-* [2024-07-09, 21:00:00](https://news.ycombinator.com/item?id=40921038) - [Knowledge Graphs in RAG: Hype vs. Ragas Analysis](https://aiencoder.substack.com/p/graphrag-analysis-part-1-how-indexing)
 * [2024-07-09, 19:38:36](https://news.ycombinator.com/item?id=40920122) - [How CD pregaps gained their hidden track superpowers](https://tedium.co/2024/07/06/compact-disc-pregap-history/)
 * [2024-07-09, 14:48:59](https://news.ycombinator.com/item?id=40916786) - [Turbopuffer: Fast search on object storage](https://turbopuffer.com/blog/turbopuffer)
 * [2024-07-09, 11:44:40](https://news.ycombinator.com/item?id=40914958) - [Circos – Circular Visualization](https://circos.ca/)
 * [2024-07-09, 03:24:22](https://news.ycombinator.com/item?id=40912271) - [Real-time audio programming 101: time waits for nothing](http://www.rossbencina.com/code/real-time-audio-programming-101-time-waits-for-nothing)
+* [2024-07-08, 01:37:31](https://news.ycombinator.com/item?id=40901947) - [RISC-V AI Chips Will Be Everywhere (2022)](https://spectrum.ieee.org/risc-v-ai)
 * [2024-07-06, 16:19:41](https://news.ycombinator.com/item?id=40891391) - [Using the 5S Principle in Coding](https://santhoshsundar.medium.com/using-the-5s-principle-in-coding-6237a1614a02)
 * [2024-07-05, 15:38:50](https://news.ycombinator.com/item?id=40883672) - [The magic of small engineering teams](https://newsletter.posthog.com/p/the-magic-of-small-engineering-teams)
 
