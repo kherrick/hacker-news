@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-10, 09:08:13](https://news.ycombinator.com/item?id=40925052) - [Mastering Email Security: Deep Dive into SPF, DKIM, and DMARC](https://bastion.tech/blog/spf-dkim-dmarc-email-security-explained)
 * [2024-07-10, 09:02:16](https://news.ycombinator.com/item?id=40925025) - [SimSig: Railway Signalling Simulations](https://www.simsig.co.uk/)
 * [2024-07-10, 08:42:12](https://news.ycombinator.com/item?id=40924915) - [Europe's new Ariane 6 rocket powers into space](https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Europe_s_new_Ariane_6_rocket_powers_into_space)
 * [2024-07-10, 07:23:47](https://news.ycombinator.com/item?id=40924472) - [Show HN: Tailwind Template Directory](https://tailkits.com/)
@@ -27,7 +28,6 @@
 * [2024-07-07, 23:01:47](https://news.ycombinator.com/item?id=40901224) - [Rebooting (something like) early Triplebyte](https://www.otherbranch.com/blog/rebooting-something-like-triplebyte)
 * [2024-07-07, 16:44:04](https://news.ycombinator.com/item?id=40898715) - [Why Use Onion Layering?](https://garrettdbates.com/2024/07/07/why-use-onion-layering.html)
 * [2024-07-07, 16:04:41](https://news.ycombinator.com/item?id=40898525) - [Tim Doucette, a blind astronomer who built the Deep Sky Eye Observatory](https://www.amiplus.ca/m/eCGPTwFA/deep-sky-eye?seriesId=Show%2FOur+Community)
-* [2024-07-07, 03:16:37](https://news.ycombinator.com/item?id=40895026) - [Starfighter Scandal: Did Germany's Lockheed F-104](https://www.key.aero/article/did-germanys-lockheed-f-104-deserve-its-bad-name)
 * [2024-07-06, 09:35:33](https://news.ycombinator.com/item?id=40889272) - [Compile-time JSON deserialization in C++](https://medium.com/@abdulgh/compile-time-json-deserialization-in-c-1e3d41a73628)
 * [2024-07-05, 16:09:51](https://news.ycombinator.com/item?id=40883942) - [Graph-Based Ceramics](https://www.alexreichert.com/blog/graph-based-ceramics)
 
