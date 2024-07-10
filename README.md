@@ -1,8 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-10, 21:51:51](https://news.ycombinator.com/item?id=40931893) - [Using VLC to watch an m3u8 playlist at a URL with custom Referrer and User Agent](https://gist.github.com/milesrichardson/4661c311199b98023701f6cecd3b89b0)
 * [2024-07-10, 21:24:49](https://news.ycombinator.com/item?id=40931636) - [Scientists Discover a Cause of Lupus, Possible Way to Reverse It](https://news.feinberg.northwestern.edu/2024/07/10/scientists-discover-a-cause-of-lupus-and-a-possible-way-to-reverse-it/)
-* [2024-07-10, 21:07:25](https://news.ycombinator.com/item?id=40931486) - [Changes to Stripe Billing](https://support.stripe.com/questions/july-2024-changes-to-stripe-billing)
-* [2024-07-10, 19:40:06](https://news.ycombinator.com/item?id=40930675) - [Low salary likely to cause exodus of European tech talent](https://www.tradearabia.com/news/REAL_423987.html)
 * [2024-07-10, 19:29:32](https://news.ycombinator.com/item?id=40930549) - [Big Ball of Mud (1999)](http://laputan.org/mud/)
 * [2024-07-10, 17:17:05](https://news.ycombinator.com/item?id=40929104) - [Ed Stone, Top Scientist–and Salesman–For the Voyager Mission, Dies at 88](https://www.wsj.com/science/space-astronomy/ed-stone-scientist-voyager-mission-dies-at-88-44c65bc4)
 * [2024-07-10, 17:01:32](https://news.ycombinator.com/item?id=40928948) - [Motion (YC W20) Is Hiring Senior Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
@@ -27,6 +26,7 @@
 * [2024-07-09, 14:48:59](https://news.ycombinator.com/item?id=40916786) - [Turbopuffer: Fast search on object storage](https://turbopuffer.com/blog/turbopuffer)
 * [2024-07-09, 11:44:40](https://news.ycombinator.com/item?id=40914958) - [Circos – Circular Visualization](https://circos.ca/)
 * [2024-07-09, 03:24:22](https://news.ycombinator.com/item?id=40912271) - [Real-time audio programming 101: time waits for nothing](http://www.rossbencina.com/code/real-time-audio-programming-101-time-waits-for-nothing)
+* [2024-07-08, 17:20:57](https://news.ycombinator.com/item?id=40907303) - [The Transformation Priority Premise (2013)](https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html)
 * [2024-07-07, 23:01:47](https://news.ycombinator.com/item?id=40901224) - [Rebooting (something like) early Triplebyte](https://www.otherbranch.com/blog/rebooting-something-like-triplebyte)
 * [2024-07-06, 16:19:41](https://news.ycombinator.com/item?id=40891391) - [Using the 5S Principle in Coding](https://santhoshsundar.medium.com/using-the-5s-principle-in-coding-6237a1614a02)
 * [2024-07-05, 15:38:50](https://news.ycombinator.com/item?id=40883672) - [The magic of small engineering teams](https://newsletter.posthog.com/p/the-magic-of-small-engineering-teams)

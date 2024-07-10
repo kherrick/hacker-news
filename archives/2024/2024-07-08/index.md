@@ -36,6 +36,7 @@
 * [2024-07-08, 17:54:07](https://news.ycombinator.com/item?id=40907600) - [Mass tourism protesters squirt water at Barcelona tourists](https://www.bbc.com/news/videos/c0dm9w2ey7po)
 * [2024-07-08, 17:52:23](https://news.ycombinator.com/item?id=40907581) - [Entering text in the terminal is complicated](https://jvns.ca/blog/2024/07/08/readline/)
 * [2024-07-08, 17:46:37](https://news.ycombinator.com/item?id=40907528) - [Show HN: I coded my own JSON translation tool to easily localize my side project](https://www.quicklang.app/en)
+* [2024-07-08, 17:20:57](https://news.ycombinator.com/item?id=40907303) - [The Transformation Priority Premise (2013)](https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html)
 * [2024-07-08, 17:16:47](https://news.ycombinator.com/item?id=40907269) - [Dumb website only lets one user in at a time](https://imherefor.me/)
 * [2024-07-08, 17:05:08](https://news.ycombinator.com/item?id=40907155) - [The Right Kind of Stubborn](https://paulgraham.com/persistence.html)
 * [2024-07-08, 15:45:40](https://news.ycombinator.com/item?id=40906401) - [1JPM: A Maven/Gradle alternative in a single Java file](https://github.com/Osiris-Team/1JPM)

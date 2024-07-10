@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-10](index.md)
 
+* [2024-07-10, 21:51:51](https://news.ycombinator.com/item?id=40931893) - [Using VLC to watch an m3u8 playlist at a URL with custom Referrer and User Agent](https://gist.github.com/milesrichardson/4661c311199b98023701f6cecd3b89b0)
 * [2024-07-10, 21:24:49](https://news.ycombinator.com/item?id=40931636) - [Scientists Discover a Cause of Lupus, Possible Way to Reverse It](https://news.feinberg.northwestern.edu/2024/07/10/scientists-discover-a-cause-of-lupus-and-a-possible-way-to-reverse-it/)
 * [2024-07-10, 21:07:25](https://news.ycombinator.com/item?id=40931486) - [July 2024 changes to Stripe Billing](https://support.stripe.com/questions/july-2024-changes-to-stripe-billing)
 * [2024-07-10, 20:45:28](https://news.ycombinator.com/item?id=40931308) - [Walmart Selling MacBook Air with M1 Chip for $649 Starting Today](https://www.macrumors.com/2024/07/08/walmart-m1-macbook-air-for-649/)
