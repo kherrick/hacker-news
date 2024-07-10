@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-07-10](index.md)
 
+* [2024-07-10, 17:17:05](https://news.ycombinator.com/item?id=40929104) - [Ed Stone, Top Scientist–and Salesman–For the Voyager Mission, Dies at 88](https://www.wsj.com/science/space-astronomy/ed-stone-scientist-voyager-mission-dies-at-88-44c65bc4)
 * [2024-07-10, 17:01:32](https://news.ycombinator.com/item?id=40928948) - [Motion (YC W20) Is Hiring Senior Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2024-07-10, 16:56:02](https://news.ycombinator.com/item?id=40928893) - [Zed on Linux Is Here](https://zed.dev/linux)
+* [2024-07-10, 16:41:44](https://news.ycombinator.com/item?id=40928756) - [Researchers discover a new form of scientific fraud: 'sneaked references'](https://phys.org/news/2024-07-scientific-fraud-uncovering.html)
 * [2024-07-10, 16:38:23](https://news.ycombinator.com/item?id=40928728) - [Apple Users Are Keeping Their Devices for Longer as Upgrades Slow](https://www.macrumors.com/2024/07/10/apple-users-keeping-their-devices-for-longer/)
 * [2024-07-10, 16:19:06](https://news.ycombinator.com/item?id=40928519) - [Hip-Hop Band Cypress Hill to Perform with London Symphony Orchestra](https://www.cnn.com/2024/07/10/style/cypress-hill-london-symphony-orchestra-simpsons-intl-scli/index.html)
 * [2024-07-10, 16:17:27](https://news.ycombinator.com/item?id=40928503) - [The President Ordered Board to Probe Massive Russian Cyberattack. It Never Did](https://www.propublica.org/article/cyber-safety-board-never-investigated-solarwinds-breach-microsoft)
