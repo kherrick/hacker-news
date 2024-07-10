@@ -21,7 +21,7 @@
 * [2024-07-09, 11:44:40](https://news.ycombinator.com/item?id=40914958) - [Circos – Circular Visualization](https://circos.ca/)
 * [2024-07-09, 10:34:20](https://news.ycombinator.com/item?id=40914475) - [Dynamic translation of Smalltalk to WebAssembly](https://thiscontext.com/2023/07/26/dynamic-translation-of-smalltalk-to-webassembly/)
 * [2024-07-09, 00:54:13](https://news.ycombinator.com/item?id=40911500) - [Sljit: Platform independent low-level JIT compiler](https://github.com/zherczeg/sljit)
-* [2024-07-08, 18:00:44](https://news.ycombinator.com/item?id=40907655) - [Ognosia (2022)](https://wordswithoutborders.org/read/article/2022-06/ognosia-olga-tokarczuk-jennifer-croft/)
+* [2024-07-08, 17:16:47](https://news.ycombinator.com/item?id=40907269) - [Dumb website only lets one user in at a time](https://imherefor.me/)
 * [2024-07-08, 15:21:01](https://news.ycombinator.com/item?id=40906210) - [Spot the Drowning Child (2015)](http://spotthedrowningchild.com/)
 * [2024-07-08, 15:14:06](https://news.ycombinator.com/item?id=40906148) - [Reverse engineering Ticketmaster's rotating barcodes](https://conduition.io/coding/ticketmaster/)
 * [2024-07-07, 23:01:47](https://news.ycombinator.com/item?id=40901224) - [Rebooting (something like) early Triplebyte](https://www.otherbranch.com/blog/rebooting-something-like-triplebyte)
