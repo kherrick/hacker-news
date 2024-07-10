@@ -6,6 +6,7 @@
 
 * [2024-07-10, 17:01:32](https://news.ycombinator.com/item?id=40928948) - [Motion (YC W20) Is Hiring Senior Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2024-07-10, 16:56:02](https://news.ycombinator.com/item?id=40928893) - [Zed on Linux Is Here](https://zed.dev/linux)
+* [2024-07-10, 16:38:23](https://news.ycombinator.com/item?id=40928728) - [Apple Users Are Keeping Their Devices for Longer as Upgrades Slow](https://www.macrumors.com/2024/07/10/apple-users-keeping-their-devices-for-longer/)
 * [2024-07-10, 16:19:06](https://news.ycombinator.com/item?id=40928519) - [Hip-Hop Band Cypress Hill to Perform with London Symphony Orchestra](https://www.cnn.com/2024/07/10/style/cypress-hill-london-symphony-orchestra-simpsons-intl-scli/index.html)
 * [2024-07-10, 16:17:27](https://news.ycombinator.com/item?id=40928503) - [The President Ordered Board to Probe Massive Russian Cyberattack. It Never Did](https://www.propublica.org/article/cyber-safety-board-never-investigated-solarwinds-breach-microsoft)
 * [2024-07-10, 16:14:24](https://news.ycombinator.com/item?id=40928469) - [TUAW Returns as a Gross, Zombie AI-Generated Garbage Site](https://sixcolors.com/link/2024/07/tuaw-returns-as-a-gross-zombie-ai-generated-garbage-site/)

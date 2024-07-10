@@ -2,6 +2,7 @@
 
 * [2024-07-10, 17:01:32](https://news.ycombinator.com/item?id=40928948) - [Motion (YC W20) Is Hiring Senior Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2024-07-10, 16:56:02](https://news.ycombinator.com/item?id=40928893) - [Zed on Linux Is Here](https://zed.dev/linux)
+* [2024-07-10, 16:38:23](https://news.ycombinator.com/item?id=40928728) - [Apple Users Are Keeping Their Devices for Longer as Upgrades Slow](https://www.macrumors.com/2024/07/10/apple-users-keeping-their-devices-for-longer/)
 * [2024-07-10, 16:17:27](https://news.ycombinator.com/item?id=40928503) - [The President Ordered Board to Probe Massive Russian Cyberattack. It Never Did](https://www.propublica.org/article/cyber-safety-board-never-investigated-solarwinds-breach-microsoft)
 * [2024-07-10, 16:11:50](https://news.ycombinator.com/item?id=40928450) - [Co-Dfns v5.7.0](https://github.com/Co-dfns/Co-dfns/releases/tag/v5.7.0)
 * [2024-07-10, 14:42:03](https://news.ycombinator.com/item?id=40927438) - [Weird things I learned while writing an x86 emulator](https://www.timdbg.com/posts/useless-x86-trivia/)
@@ -21,7 +22,6 @@
 * [2024-07-10, 00:35:38](https://news.ycombinator.com/item?id=40922739) - [RouteLLM: A framework for serving and evaluating LLM routers](https://github.com/lm-sys/RouteLLM)
 * [2024-07-09, 22:34:39](https://news.ycombinator.com/item?id=40921989) - [Multi-agent chatbot murder mystery – AI Alibis (free, in-browser)](https://ai-murder-mystery.onrender.com/)
 * [2024-07-09, 21:00:00](https://news.ycombinator.com/item?id=40921038) - [Knowledge Graphs in RAG: Hype vs. Ragas Analysis](https://aiencoder.substack.com/p/graphrag-analysis-part-1-how-indexing)
-* [2024-07-09, 19:47:32](https://news.ycombinator.com/item?id=40920246) - [How to validate a market with development boards and SD cards](https://flyingcarcomputer.com/posts/how-to-validate-market-with-development-board/)
 * [2024-07-09, 19:38:36](https://news.ycombinator.com/item?id=40920122) - [How CD pregaps gained their hidden track superpowers](https://tedium.co/2024/07/06/compact-disc-pregap-history/)
 * [2024-07-09, 14:48:59](https://news.ycombinator.com/item?id=40916786) - [Turbopuffer: Fast search on object storage](https://turbopuffer.com/blog/turbopuffer)
 * [2024-07-09, 13:54:59](https://news.ycombinator.com/item?id=40916193) - [Scoped Propagators](https://www.orionreed.com/posts/scoped-propagators)
