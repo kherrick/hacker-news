@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-10, 11:53:30",
+      "https://news.ycombinator.com/item?id=40925896"
+    ],
+    [
+      "Leetcode but for ML",
+      "https://www.deep-ml.com/"
+    ]
+  ],
+  [
+    [
+      "2024-07-10, 09:48:54",
+      "https://news.ycombinator.com/item?id=40925266"
+    ],
+    [
+      "Plausible Community Edition",
+      "https://plausible.io/blog/community-edition"
+    ]
+  ],
+  [
+    [
       "2024-07-10, 09:08:13",
       "https://news.ycombinator.com/item?id=40925052"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2024-07-09, 16:45:01",
-      "https://news.ycombinator.com/item?id=40918152"
-    ],
-    [
-      "Ask HN: How do browsers isolate internal audio from microphone input?",
-      "https://news.ycombinator.com/item?id=40918152"
-    ]
-  ],
-  [
-    [
       "2024-07-09, 14:48:59",
       "https://news.ycombinator.com/item?id=40916786"
     ],
@@ -217,16 +227,6 @@
     [
       "Dynamic translation of Smalltalk to WebAssembly",
       "https://thiscontext.com/2023/07/26/dynamic-translation-of-smalltalk-to-webassembly/"
-    ]
-  ],
-  [
-    [
-      "2024-07-09, 00:54:13",
-      "https://news.ycombinator.com/item?id=40911500"
-    ],
-    [
-      "Sljit: Platform independent low-level JIT compiler",
-      "https://github.com/zherczeg/sljit"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2024-07-05, 16:09:51",
-      "https://news.ycombinator.com/item?id=40883942"
+      "2024-07-05, 20:27:51",
+      "https://news.ycombinator.com/item?id=40885703"
     ],
     [
-      "Graph-Based Ceramics",
-      "https://www.alexreichert.com/blog/graph-based-ceramics"
+      "How I swapped my ivory tower for the world of science fiction",
+      "https://www.nature.com/articles/d41586-024-02211-0"
     ]
   ]
 ]
