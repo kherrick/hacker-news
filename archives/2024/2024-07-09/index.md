@@ -12,6 +12,7 @@
 * [2024-07-09, 21:24:29](https://news.ycombinator.com/item?id=40921335) - [Show HN: Save your cells for future aging therapies](https://ambrogia.bio)
 * [2024-07-09, 21:23:14](https://news.ycombinator.com/item?id=40921321) - [Family fight Samsung over fridge odour they say caused dizziness and memory loss](https://www.abc.net.au/news/2024-07-10/victorian-family-battles-samsung-over-fridge-odour/104071036)
 * [2024-07-09, 21:20:51](https://news.ycombinator.com/item?id=40921290) - [Apple approves Epic Games Store app for iOS](https://arstechnica.com/gadgets/2024/07/report-apple-approves-epic-games-store-on-ios-in-europe/)
+* [2024-07-09, 21:00:00](https://news.ycombinator.com/item?id=40921038) - [Knowledge Graphs in RAG: Hype vs. Ragas Analysis](https://aiencoder.substack.com/p/graphrag-analysis-part-1-how-indexing)
 * [2024-07-09, 20:54:11](https://news.ycombinator.com/item?id=40920980) - [Metal Thieves Are Stripping America's Cities](https://www.nytimes.com/2024/07/09/us/copper-theft-heavy-metal.html)
 * [2024-07-09, 20:53:07](https://news.ycombinator.com/item?id=40920969) - [Ask HN: Why are 404 Media posts auto-killed?](https://news.ycombinator.com/item?id=40920969)
 * [2024-07-09, 20:36:53](https://news.ycombinator.com/item?id=40920812) - [Show HN → Parallel DOM: Upgrade your DOM to be multithreaded](https://www.pdom.dev/)
