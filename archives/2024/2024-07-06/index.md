@@ -78,6 +78,7 @@
 * [2024-07-06, 11:21:45](https://news.ycombinator.com/item?id=40889723) - ['Money always wins': Inside Sydney's underground tree-killing industry](https://www.abc.net.au/news/2024-07-06/trees-killed-vandalism-crime-sydney-castle-cove-council/104041534)
 * [2024-07-06, 11:18:00](https://news.ycombinator.com/item?id=40889705) - [Doctors Are Not Trained to Think Critically](https://www.madintheuk.com/2024/06/doctors-not-trained-to-think-critically/)
 * [2024-07-06, 10:14:41](https://news.ycombinator.com/item?id=40889428) - [Summary of Major Changes Between Python Versions](https://www.nicholashairs.com/posts/major-changes-between-python-versions/)
+* [2024-07-06, 09:42:04](https://news.ycombinator.com/item?id=40889292) - [BB(5) = 47,176,870](https://discuss.bbchallenge.org/t/july-2nd-2024-we-have-proved-bb-5-47-176-870/237)
 * [2024-07-06, 09:38:48](https://news.ycombinator.com/item?id=40889280) - [Ask HN: Which programming podcasts do you listen to?](https://news.ycombinator.com/item?id=40889280)
 * [2024-07-06, 09:35:33](https://news.ycombinator.com/item?id=40889272) - [Compile-time JSON deserialization in C++](https://medium.com/@abdulgh/compile-time-json-deserialization-in-c-1e3d41a73628)
 * [2024-07-06, 08:07:00](https://news.ycombinator.com/item?id=40888924) - [I've eaten a meal replacement shake twice a day for two years (2019)](https://www.vox.com/the-goods/2019/11/11/20953750/soylent-huel-sustainable-meal-replacement-tried)
