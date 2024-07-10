@@ -15,6 +15,7 @@
 * [2024-07-10, 13:26:15](https://news.ycombinator.com/item?id=40926648) - [AMD to buy Silo AI for $665M](https://www.ft.com/content/7b8d2057-2687-45b3-bae4-1488a75ac5b2)
 * [2024-07-10, 13:13:51](https://news.ycombinator.com/item?id=40926515) - [Training of Physical Neural Networks](https://arxiv.org/abs/2406.03372)
 * [2024-07-10, 13:05:30](https://news.ycombinator.com/item?id=40926439) - [At the Mountains of Madness](https://antithesis.com/blog/madness/)
+* [2024-07-10, 13:01:57](https://news.ycombinator.com/item?id=40926411) - [Towards Idempotent Rebuilds?](https://blog.josefsson.org/2024/07/10/towards-idempotent-rebuilds/)
 * [2024-07-10, 12:35:14](https://news.ycombinator.com/item?id=40926211) - [Show HN: Posting v1 – The modern HTTP client that lives in your terminal](https://github.com/darrenburns/posting)
 * [2024-07-10, 10:26:14](https://news.ycombinator.com/item?id=40925474) - [Copying collectors with block-structured heaps are unreliable](https://wingolog.org/archives/2024/07/10/copying-collectors-with-block-structured-heaps-are-unreliable)
 * [2024-07-10, 09:02:16](https://news.ycombinator.com/item?id=40925025) - [SimSig: Railway Signalling Simulations](https://www.simsig.co.uk/)
@@ -27,7 +28,6 @@
 * [2024-07-09, 11:44:40](https://news.ycombinator.com/item?id=40914958) - [Circos – Circular Visualization](https://circos.ca/)
 * [2024-07-09, 03:24:22](https://news.ycombinator.com/item?id=40912271) - [Real-time audio programming 101: time waits for nothing](http://www.rossbencina.com/code/real-time-audio-programming-101-time-waits-for-nothing)
 * [2024-07-08, 17:20:57](https://news.ycombinator.com/item?id=40907303) - [The Transformation Priority Premise (2013)](https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html)
-* [2024-07-07, 23:01:47](https://news.ycombinator.com/item?id=40901224) - [Rebooting (something like) early Triplebyte](https://www.otherbranch.com/blog/rebooting-something-like-triplebyte)
 * [2024-07-06, 16:19:41](https://news.ycombinator.com/item?id=40891391) - [Using the 5S Principle in Coding](https://santhoshsundar.medium.com/using-the-5s-principle-in-coding-6237a1614a02)
 * [2024-07-05, 15:38:50](https://news.ycombinator.com/item?id=40883672) - [The magic of small engineering teams](https://newsletter.posthog.com/p/the-magic-of-small-engineering-teams)
 
