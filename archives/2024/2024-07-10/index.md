@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-10](index.md)
 
+* [2024-07-10, 05:13:30](https://news.ycombinator.com/item?id=40923905) - [RADIUS protocol susceptible to forgery attacks](https://www.blastradius.fail/)
 * [2024-07-10, 02:58:34](https://news.ycombinator.com/item?id=40923316) - [Ask HN: How to deal with vitrolic colleagues in workplace?](https://news.ycombinator.com/item?id=40923316)
 * [2024-07-10, 02:21:30](https://news.ycombinator.com/item?id=40923188) - [Well, it's just an AWS Account ID](https://mail.cloudsecurity.club/p/well-just-aws-account-id)
 * [2024-07-10, 02:09:02](https://news.ycombinator.com/item?id=40923124) - [A New Age of Materials Is Dawning, for Everything from Smartphones to Missiles](https://www.wsj.com/tech/composites-manufacturing-boeing-drones-arris-9t-orbital-a422de1b)

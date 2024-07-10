@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-10, 05:13:30](https://news.ycombinator.com/item?id=40923905) - [RADIUS protocol susceptible to forgery attacks](https://www.blastradius.fail/)
 * [2024-07-10, 02:21:30](https://news.ycombinator.com/item?id=40923188) - [Well, it's just an AWS Account ID](https://mail.cloudsecurity.club/p/well-just-aws-account-id)
 * [2024-07-10, 02:09:02](https://news.ycombinator.com/item?id=40923124) - [A New Age of Materials Is Dawning, for Everything from Smartphones to Missiles](https://www.wsj.com/tech/composites-manufacturing-boeing-drones-arris-9t-orbital-a422de1b)
 * [2024-07-10, 01:29:48](https://news.ycombinator.com/item?id=40922929) - [CodeCrafters (YC S22) Is Hiring a Marketing Writer](https://www.ycombinator.com/companies/codecrafters/jobs/s2MPHPu-marketing-writer-technical)
@@ -21,7 +22,6 @@
 * [2024-07-09, 11:48:42](https://news.ycombinator.com/item?id=40915005) - [MobileLLM: Optimizing Sub-Billion Parameter Language Models for On-Device Use](https://github.com/facebookresearch/MobileLLM)
 * [2024-07-09, 11:44:40](https://news.ycombinator.com/item?id=40914958) - [Circos – Circular Visualization](https://circos.ca/)
 * [2024-07-09, 10:34:20](https://news.ycombinator.com/item?id=40914475) - [Dynamic translation of Smalltalk to WebAssembly](https://thiscontext.com/2023/07/26/dynamic-translation-of-smalltalk-to-webassembly/)
-* [2024-07-09, 06:42:34](https://news.ycombinator.com/item?id=40913138) - [The Race to Seal Helium HDDs (2021)](https://blog.westerndigital.com/race-to-seal-helium/)
 * [2024-07-09, 00:54:13](https://news.ycombinator.com/item?id=40911500) - [Sljit: Platform independent low-level JIT compiler](https://github.com/zherczeg/sljit)
 * [2024-07-08, 18:00:44](https://news.ycombinator.com/item?id=40907655) - [Ognosia (2022)](https://wordswithoutborders.org/read/article/2022-06/ognosia-olga-tokarczuk-jennifer-croft/)
 * [2024-07-08, 15:14:06](https://news.ycombinator.com/item?id=40906148) - [Reverse engineering Ticketmaster's rotating barcodes](https://conduition.io/coding/ticketmaster/)
