@@ -6,6 +6,8 @@
 
 * [2024-07-10, 18:53:19](https://news.ycombinator.com/item?id=40930139) - [Google testing facial recognition technology for security near Seattle](https://www.cnbc.com/2024/06/26/google-testing-facial-recognition-technology-for-security-near-seattle.html)
 * [2024-07-10, 18:13:09](https://news.ycombinator.com/item?id=40929721) - [Tell HN: Copilot For Business forcibly terminates Copilot Personal subscriptions](https://news.ycombinator.com/item?id=40929721)
+* [2024-07-10, 18:09:11](https://news.ycombinator.com/item?id=40929683) - [What Was Chevron Deference?](https://www.minimumcomp.com/p/maxmin-chevron-deference)
+* [2024-07-10, 18:08:25](https://news.ycombinator.com/item?id=40929679) - [Senators strike bipartisan deal for ban on stock trading by members of Congress](https://www.cnbc.com/2024/07/10/senators-strike-bipartisan-deal-for-a-ban-on-stock-trading-by-members-of-congress.html)
 * [2024-07-10, 17:58:19](https://news.ycombinator.com/item?id=40929573) - [Known carcinogen is showing up in wildfire ash, researchers are worried (2023)](https://www.npr.org/2023/12/19/1220340295/carcinogen-wildfire-ash-chromium-6-hexavalent-lung-cancer)
 * [2024-07-10, 17:51:03](https://news.ycombinator.com/item?id=40929497) - [Ask HN: Do AI-generated images ruin technical posts for anyone else?](https://news.ycombinator.com/item?id=40929497)
 * [2024-07-10, 17:48:30](https://news.ycombinator.com/item?id=40929462) - [Europe's drinking water contaminated by 'forever chemical': NGOs](https://phys.org/news/2024-07-europe-contaminated-chemical-ngos.html)
