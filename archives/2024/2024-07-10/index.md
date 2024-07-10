@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-10](index.md)
 
+* [2024-07-10, 09:02:16](https://news.ycombinator.com/item?id=40925025) - [SimSig: Railway Signalling Simulations](https://www.simsig.co.uk/)
 * [2024-07-10, 08:42:12](https://news.ycombinator.com/item?id=40924915) - [Europe's new Ariane 6 rocket powers into space](https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Europe_s_new_Ariane_6_rocket_powers_into_space)
 * [2024-07-10, 07:36:18](https://news.ycombinator.com/item?id=40924527) - [Children's daily sugar consumption halved just a year after tax, study finds](https://www.theguardian.com/society/article/2024/jul/09/childrens-daily-sugar-consumption-halves-just-a-year-after-tax-study-finds)
 * [2024-07-10, 07:00:40](https://news.ycombinator.com/item?id=40924368) - [Photoroom (YC S20) Is Hiring Rust Developers in Paris (X-Platform, Wgpu, WASM)](https://jobs.lever.co/photoroom/fc379626-eb33-4eb6-839c-10e5d578e2ed?lever-origin=applied&lever-source%5B%5D=yc)
