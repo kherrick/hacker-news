@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-10](index.md)
 
+* [2024-07-10, 19:52:07](https://news.ycombinator.com/item?id=40930809) - [The great silence: Just 4 in 10k galaxies may host intelligent aliens](https://www.space.com/plate-tectonics-intelligent-alien-life-rare)
 * [2024-07-10, 19:29:32](https://news.ycombinator.com/item?id=40930549) - [Big Ball of Mud](http://laputan.org/mud/)
 * [2024-07-10, 18:53:19](https://news.ycombinator.com/item?id=40930139) - [Google testing facial recognition technology for security near Seattle](https://www.cnbc.com/2024/06/26/google-testing-facial-recognition-technology-for-security-near-seattle.html)
 * [2024-07-10, 18:13:09](https://news.ycombinator.com/item?id=40929721) - [Tell HN: Copilot For Business forcibly terminates Copilot Personal subscriptions](https://news.ycombinator.com/item?id=40929721)
