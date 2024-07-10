@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-07-10](index.md)
 
+* [2024-07-10, 13:27:14](https://news.ycombinator.com/item?id=40926656) - [Intuit to Cut 10% of Employees in Latest Round of Tech Layoffs](https://www.bloomberg.com/news/articles/2024-07-10/intuit-to-cull-10-of-employees-in-latest-round-of-tech-layoffs)
+* [2024-07-10, 13:26:15](https://news.ycombinator.com/item?id=40926648) - [AMD to buy Finnish startup Silo AI for $665M in drive to compete with Nvidia](https://www.ft.com/content/7b8d2057-2687-45b3-bae4-1488a75ac5b2)
 * [2024-07-10, 11:54:35](https://news.ycombinator.com/item?id=40925906) - [Show HN: I made a Note-Taking app for people who keep texting themselves](https://strflow.app)
 * [2024-07-10, 11:53:30](https://news.ycombinator.com/item?id=40925896) - [Leetcode but for ML](https://www.deep-ml.com/)
+* [2024-07-10, 11:27:11](https://news.ycombinator.com/item?id=40925747) - [Ask HN: Has anyone been fired for ignoring in-office mandates?](https://news.ycombinator.com/item?id=40925747)
 * [2024-07-10, 10:26:14](https://news.ycombinator.com/item?id=40925474) - [Copying collectors with block-structured heaps are unreliable](https://wingolog.org/archives/2024/07/10/copying-collectors-with-block-structured-heaps-are-unreliable)
 * [2024-07-10, 10:25:44](https://news.ycombinator.com/item?id=40925471) - [Girls in Tech closes its doors after 17 years](https://venturebeat.com/games/girls-in-tech-closes-its-doors-after-17-years/)
 * [2024-07-10, 09:48:54](https://news.ycombinator.com/item?id=40925266) - [Plausible Community Edition](https://plausible.io/blog/community-edition)
