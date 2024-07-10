@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-07-10, 00:35:48",
+      "https://news.ycombinator.com/item?id=40922740"
+    ],
+    [
+      "Awsviz.dev simplifying AWS IAM policies",
+      "https://www.awsviz.dev/"
+    ]
+  ],
+  [
+    [
       "2024-07-10, 00:35:38",
       "https://news.ycombinator.com/item?id=40922739"
     ],
@@ -227,16 +237,6 @@
     [
       "Sljit: Platform independent low-level JIT compiler",
       "https://github.com/zherczeg/sljit"
-    ]
-  ],
-  [
-    [
-      "2024-07-08, 18:27:16",
-      "https://news.ycombinator.com/item?id=40907933"
-    ],
-    [
-      "No more boot loader: Please use the kernel instead",
-      "https://pretalx.com/devconf-cz-2024/talk/W3AVCT/"
     ]
   ],
   [
