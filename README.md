@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-10, 02:21:30](https://news.ycombinator.com/item?id=40923188) - [Well, it's just an AWS Account ID](https://mail.cloudsecurity.club/p/well-just-aws-account-id)
 * [2024-07-10, 02:09:02](https://news.ycombinator.com/item?id=40923124) - [A New Age of Materials Is Dawning, for Everything from Smartphones to Missiles](https://www.wsj.com/tech/composites-manufacturing-boeing-drones-arris-9t-orbital-a422de1b)
+* [2024-07-10, 02:03:32](https://news.ycombinator.com/item?id=40923088) - [From GPT-4 to AGI: Counting the OOMs](https://situational-awareness.ai/from-gpt-4-to-agi/#Compute)
 * [2024-07-10, 01:29:48](https://news.ycombinator.com/item?id=40922929) - [CodeCrafters (YC S22) Is Hiring a Marketing Writer](https://www.ycombinator.com/companies/codecrafters/jobs/s2MPHPu-marketing-writer-technical)
 * [2024-07-10, 00:35:48](https://news.ycombinator.com/item?id=40922740) - [Awsviz.dev simplifying AWS IAM policies](https://www.awsviz.dev/)
 * [2024-07-10, 00:35:38](https://news.ycombinator.com/item?id=40922739) - [RouteLLM: A framework for serving and evaluating LLM routers](https://github.com/lm-sys/RouteLLM)
@@ -12,9 +14,7 @@
 * [2024-07-09, 18:28:49](https://news.ycombinator.com/item?id=40919288) - [The price of gold – how bad do you want it?](https://allaboutperformance.wordpress.com/2016/05/11/the-price-of-gold-how-bad-do-you-really-want-it/)
 * [2024-07-09, 18:25:03](https://news.ycombinator.com/item?id=40919253) - [Judge dismisses DMCA copyright claim in GitHub Copilot suit](https://www.theregister.com/2024/07/08/github_copilot_dmca/)
 * [2024-07-09, 16:45:01](https://news.ycombinator.com/item?id=40918152) - [Ask HN: How do browsers isolate internal audio from microphone input?](https://news.ycombinator.com/item?id=40918152)
-* [2024-07-09, 16:35:11](https://news.ycombinator.com/item?id=40918052) - [Google Chrome has an API accesible only from *.google.com](https://twitter.com/lcasdev/status/1810696257137959018)
 * [2024-07-09, 15:37:25](https://news.ycombinator.com/item?id=40917358) - [Docs as code (2017)](https://www.writethedocs.org/guide/docs-as-code/)
-* [2024-07-09, 15:33:29](https://news.ycombinator.com/item?id=40917312) - [Linksys Velop routers send Wi-Fi passwords in plaintext to US servers](https://stackdiary.com/linksys-velop-routers-send-wi-fi-passwords-in-plaintext-to-us-servers/)
 * [2024-07-09, 14:48:59](https://news.ycombinator.com/item?id=40916786) - [Turbopuffer: Fast search on object storage](https://turbopuffer.com/blog/turbopuffer)
 * [2024-07-09, 13:54:59](https://news.ycombinator.com/item?id=40916193) - [Scoped Propagators](https://www.orionreed.com/posts/scoped-propagators)
 * [2024-07-09, 12:01:37](https://news.ycombinator.com/item?id=40915082) - [PySkyWiFi: Free stupid wi-fi on long-haul flights](https://robertheaton.com/pyskywifi/)
