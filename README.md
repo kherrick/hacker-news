@@ -6,7 +6,7 @@
 * [2024-07-10, 02:09:02](https://news.ycombinator.com/item?id=40923124) - [A New Age of Materials Is Dawning, for Everything from Smartphones to Missiles](https://www.wsj.com/tech/composites-manufacturing-boeing-drones-arris-9t-orbital-a422de1b)
 * [2024-07-10, 01:29:48](https://news.ycombinator.com/item?id=40922929) - [CodeCrafters (YC S22) Is Hiring a Marketing Writer](https://www.ycombinator.com/companies/codecrafters/jobs/s2MPHPu-marketing-writer-technical)
 * [2024-07-10, 01:13:11](https://news.ycombinator.com/item?id=40922884) - [Automate Project Environments with Devbox and Direnv](https://www.jetify.com/blog/automated-dev-envs-with-devbox-and-direnv/)
-* [2024-07-10, 01:11:00](https://news.ycombinator.com/item?id=40922874) - [The Seal Failure in the SRB That Doomed Challenger](https://exrocketman.blogspot.com/2021/12/the-seal-failure-in-srb-that-doomed.html)
+* [2024-07-10, 01:11:00](https://news.ycombinator.com/item?id=40922874) - [The Seal Failure in the SRB That Doomed Challenger (2021)](https://exrocketman.blogspot.com/2021/12/the-seal-failure-in-srb-that-doomed.html)
 * [2024-07-10, 00:35:48](https://news.ycombinator.com/item?id=40922740) - [Awsviz.dev simplifying AWS IAM policies](https://www.awsviz.dev/)
 * [2024-07-10, 00:35:38](https://news.ycombinator.com/item?id=40922739) - [RouteLLM: A framework for serving and evaluating LLM routers](https://github.com/lm-sys/RouteLLM)
 * [2024-07-09, 21:00:00](https://news.ycombinator.com/item?id=40921038) - [Knowledge Graphs in RAG: Hype vs. Ragas Analysis](https://aiencoder.substack.com/p/graphrag-analysis-part-1-how-indexing)
