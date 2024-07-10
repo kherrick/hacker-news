@@ -6,6 +6,7 @@
 
 * [2024-07-10, 09:08:13](https://news.ycombinator.com/item?id=40925052) - [Mastering Email Security: Deep Dive into SPF, DKIM, and DMARC](https://bastion.tech/blog/spf-dkim-dmarc-email-security-explained)
 * [2024-07-10, 09:02:16](https://news.ycombinator.com/item?id=40925025) - [SimSig: Railway Signalling Simulations](https://www.simsig.co.uk/)
+* [2024-07-10, 08:46:15](https://news.ycombinator.com/item?id=40924936) - [I miss the old IndieHackers website, so I started an alternative](https://www.skool.com/indie-makers-5425/about)
 * [2024-07-10, 08:42:12](https://news.ycombinator.com/item?id=40924915) - [Europe's new Ariane 6 rocket powers into space](https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Europe_s_new_Ariane_6_rocket_powers_into_space)
 * [2024-07-10, 07:36:18](https://news.ycombinator.com/item?id=40924527) - [Children's daily sugar consumption halved just a year after tax, study finds](https://www.theguardian.com/society/article/2024/jul/09/childrens-daily-sugar-consumption-halves-just-a-year-after-tax-study-finds)
 * [2024-07-10, 07:23:47](https://news.ycombinator.com/item?id=40924472) - [Show HN: Tailwind Template Directory](https://tailkits.com/)

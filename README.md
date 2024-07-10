@@ -2,6 +2,7 @@
 
 * [2024-07-10, 09:08:13](https://news.ycombinator.com/item?id=40925052) - [Mastering Email Security: Deep Dive into SPF, DKIM, and DMARC](https://bastion.tech/blog/spf-dkim-dmarc-email-security-explained)
 * [2024-07-10, 09:02:16](https://news.ycombinator.com/item?id=40925025) - [SimSig: Railway Signalling Simulations](https://www.simsig.co.uk/)
+* [2024-07-10, 08:46:15](https://news.ycombinator.com/item?id=40924936) - [I miss the old IndieHackers website, so I started an alternative](https://www.skool.com/indie-makers-5425/about)
 * [2024-07-10, 08:42:12](https://news.ycombinator.com/item?id=40924915) - [Europe's new Ariane 6 rocket powers into space](https://www.esa.int/Enabling_Support/Space_Transportation/Ariane/Europe_s_new_Ariane_6_rocket_powers_into_space)
 * [2024-07-10, 07:23:47](https://news.ycombinator.com/item?id=40924472) - [Show HN: Tailwind Template Directory](https://tailkits.com/)
 * [2024-07-10, 07:00:40](https://news.ycombinator.com/item?id=40924368) - [Photoroom (YC S20) Is Hiring Rust Developers in Paris (X-Platform, Wgpu, WASM)](https://jobs.lever.co/photoroom/fc379626-eb33-4eb6-839c-10e5d578e2ed?lever-origin=applied&lever-source%5B%5D=yc)
@@ -21,7 +22,6 @@
 * [2024-07-09, 11:48:42](https://news.ycombinator.com/item?id=40915005) - [MobileLLM: Optimizing Sub-Billion Parameter Language Models for On-Device Use](https://github.com/facebookresearch/MobileLLM)
 * [2024-07-09, 11:44:40](https://news.ycombinator.com/item?id=40914958) - [Circos – Circular Visualization](https://circos.ca/)
 * [2024-07-09, 10:34:20](https://news.ycombinator.com/item?id=40914475) - [Dynamic translation of Smalltalk to WebAssembly](https://thiscontext.com/2023/07/26/dynamic-translation-of-smalltalk-to-webassembly/)
-* [2024-07-09, 06:42:34](https://news.ycombinator.com/item?id=40913138) - [The Race to Seal Helium HDDs (2021)](https://blog.westerndigital.com/race-to-seal-helium/)
 * [2024-07-09, 00:54:13](https://news.ycombinator.com/item?id=40911500) - [Sljit: Platform independent low-level JIT compiler](https://github.com/zherczeg/sljit)
 * [2024-07-08, 15:21:01](https://news.ycombinator.com/item?id=40906210) - [Spot the Drowning Child (2015)](http://spotthedrowningchild.com/)
 * [2024-07-08, 15:14:06](https://news.ycombinator.com/item?id=40906148) - [Reverse engineering Ticketmaster's rotating barcodes](https://conduition.io/coding/ticketmaster/)
