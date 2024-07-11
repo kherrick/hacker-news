@@ -1,32 +1,12 @@
 [
   [
     [
-      "2024-07-11, 21:17:12",
-      "https://news.ycombinator.com/item?id=40940678"
-    ],
-    [
-      "A Hundred Years of Mocking Vegetarians",
-      "https://www.theatlantic.com/newsletters/archive/2024/07/america-has-never-really-known-what-to-make-of-vegetarians/678969/"
-    ]
-  ],
-  [
-    [
       "2024-07-11, 21:00:06",
       "https://news.ycombinator.com/item?id=40940565"
     ],
     [
       "Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager",
       "https://news.ycombinator.com/item?id=40940565"
-    ]
-  ],
-  [
-    [
-      "2024-07-11, 20:21:20",
-      "https://news.ycombinator.com/item?id=40940276"
-    ],
-    [
-      "Natural olive compound aids weight loss and regulates blood sugar",
-      "https://newatlas.com/health-wellbeing/olive-compound/"
     ]
   ],
   [
@@ -47,6 +27,16 @@
     [
       "CodeMirror: Extensible code editor component for the web",
       "https://codemirror.net"
+    ]
+  ],
+  [
+    [
+      "2024-07-11, 20:10:44",
+      "https://news.ycombinator.com/item?id=40940181"
+    ],
+    [
+      "Show HN: Mandala – Automatically save, query and version Python computations",
+      "https://github.com/amakelov/mandala"
     ]
   ],
   [
@@ -221,6 +211,16 @@
   ],
   [
     [
+      "2024-07-11, 08:06:38",
+      "https://news.ycombinator.com/item?id=40934582"
+    ],
+    [
+      "The Overengineered Resume with Zola, JSON Resume, Weasyprint, and Nix (2023)",
+      "https://ktema.org/articles/the-overengineered-resume/"
+    ]
+  ],
+  [
+    [
       "2024-07-11, 07:44:29",
       "https://news.ycombinator.com/item?id=40934495"
     ],
@@ -237,6 +237,16 @@
     [
       "Engineering principles for building financial systems",
       "https://substack.wasteman.codes/p/engineering-principles-and-best-practices"
+    ]
+  ],
+  [
+    [
+      "2024-07-10, 22:08:41",
+      "https://news.ycombinator.com/item?id=40932006"
+    ],
+    [
+      "An abundance of Katherines: The game theory of baby naming",
+      "https://arxiv.org/abs/2404.00732"
     ]
   ],
   [
@@ -267,16 +277,6 @@
     [
       "Children's mental models of recursive LOGO programs (1985)",
       "https://telearn.hal.science/hal-00190537/document"
-    ]
-  ],
-  [
-    [
-      "2024-07-07, 18:38:06",
-      "https://news.ycombinator.com/item?id=40899520"
-    ],
-    [
-      "Pyxel: A retro game engine for Python",
-      "https://github.com/kitao/pyxel"
     ]
   ],
   [
