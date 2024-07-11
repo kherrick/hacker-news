@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-11, 03:30:18](https://news.ycombinator.com/item?id=40933434) - [Brian Lunduke: \"macOS Sucks\" [video]](https://www.youtube.com/watch?v=3uGeHdNMgL8)
+* [2024-07-11, 02:20:40](https://news.ycombinator.com/item?id=40933215) - [VSCode won't start on several Mac OS versions, broken over a week](https://github.com/microsoft/vscode/issues/219901)
 * [2024-07-11, 01:21:41](https://news.ycombinator.com/item?id=40932996) - [Lix 2.90 \"Vanilla Ice Cream\"](https://lix.systems/blog/2024-07-10-lix-2.90-release/)
 * [2024-07-11, 01:09:13](https://news.ycombinator.com/item?id=40932948) - [Ask HN: Who's been hired through Hacker News?](https://news.ycombinator.com/item?id=40932948)
 * [2024-07-11, 01:00:25](https://news.ycombinator.com/item?id=40932914) - [Great Question (YC W21) is hiring senior Rails engineers in Australia](https://www.ycombinator.com/companies/great-question/jobs/WIk0wNz-product-engineer-rails-react-australia)
@@ -17,7 +19,6 @@
 * [2024-07-10, 13:26:15](https://news.ycombinator.com/item?id=40926648) - [AMD to buy Silo AI for $665M](https://www.ft.com/content/7b8d2057-2687-45b3-bae4-1488a75ac5b2)
 * [2024-07-10, 13:13:51](https://news.ycombinator.com/item?id=40926515) - [Training of Physical Neural Networks](https://arxiv.org/abs/2406.03372)
 * [2024-07-10, 13:05:30](https://news.ycombinator.com/item?id=40926439) - [At the Mountains of Madness](https://antithesis.com/blog/madness/)
-* [2024-07-10, 10:26:14](https://news.ycombinator.com/item?id=40925474) - [Copying collectors with block-structured heaps are unreliable](https://wingolog.org/archives/2024/07/10/copying-collectors-with-block-structured-heaps-are-unreliable)
 * [2024-07-10, 09:02:16](https://news.ycombinator.com/item?id=40925025) - [SimSig: Railway Signalling Simulations](https://www.simsig.co.uk/)
 * [2024-07-10, 00:35:38](https://news.ycombinator.com/item?id=40922739) - [RouteLLM: A framework for serving and evaluating LLM routers](https://github.com/lm-sys/RouteLLM)
 * [2024-07-09, 22:34:39](https://news.ycombinator.com/item?id=40921989) - [Multi-agent chatbot murder mystery](https://ai-murder-mystery.onrender.com/)
@@ -25,7 +26,6 @@
 * [2024-07-09, 03:24:22](https://news.ycombinator.com/item?id=40912271) - [Real-time audio programming 101: time waits for nothing](http://www.rossbencina.com/code/real-time-audio-programming-101-time-waits-for-nothing)
 * [2024-07-08, 17:41:25](https://news.ycombinator.com/item?id=40907481) - [You're Out of Here: A History of Umpire Ejections](https://sabr.org/journal/article/youre-out-of-here-a-history-of-umpire-ejections/)
 * [2024-07-08, 17:20:57](https://news.ycombinator.com/item?id=40907303) - [The Transformation Priority Premise (2013)](https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html)
-* [2024-07-08, 10:15:41](https://news.ycombinator.com/item?id=40904115) - [The Lazarus team is glad to announce the release of Lazarus 3.4](https://forum.lazarus.freepascal.org/index.php?topic=67439.0)
 * [2024-07-07, 23:57:01](https://news.ycombinator.com/item?id=40901490) - [Making Bubbles](https://justinsecurity.medium.com/making-bubbles-f764cc72b8a3)
 * [2024-07-07, 18:38:06](https://news.ycombinator.com/item?id=40899520) - [Pyxel: A retro game engine for Python](https://github.com/kitao/pyxel)
 * [2024-07-06, 16:19:41](https://news.ycombinator.com/item?id=40891391) - [Using the 5S Principle in Coding](https://santhoshsundar.medium.com/using-the-5s-principle-in-coding-6237a1614a02)
