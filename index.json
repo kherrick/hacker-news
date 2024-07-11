@@ -1,12 +1,42 @@
 [
   [
     [
+      "2024-07-11, 05:27:21",
+      "https://news.ycombinator.com/item?id=40933910"
+    ],
+    [
+      "Night owls have better brain function than morning people, study suggests",
+      "https://news.sky.com/story/night-owls-have-better-brain-function-than-morning-people-study-suggests-13176210"
+    ]
+  ],
+  [
+    [
+      "2024-07-11, 03:38:23",
+      "https://news.ycombinator.com/item?id=40933477"
+    ],
+    [
+      "Night owls' cognitive function 'superior' to early risers, study suggests",
+      "https://www.theguardian.com/science/article/2024/jul/11/night-owls-cognitive-function-superior-to-early-risers-study-suggests"
+    ]
+  ],
+  [
+    [
       "2024-07-11, 03:17:22",
       "https://news.ycombinator.com/item?id=40933374"
     ],
     [
       "I was an MIT educated neurosurgeon – now I'm alone in the mountains [video]",
       "https://www.youtube.com/watch?v=25LUF8GmbFU"
+    ]
+  ],
+  [
+    [
+      "2024-07-11, 02:21:30",
+      "https://news.ycombinator.com/item?id=40933216"
+    ],
+    [
+      "Change to FreeBSD release scheduling and support period",
+      "https://lists.freebsd.org/archives/freebsd-announce/2024-July/000143.html"
     ]
   ],
   [
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2024-07-10, 15:39:25",
-      "https://news.ycombinator.com/item?id=40928145"
-    ],
-    [
-      "Dola Decoding by Contrasting Layers Improves Factuality in Large Language Models",
-      "https://arxiv.org/abs/2309.03883"
-    ]
-  ],
-  [
-    [
       "2024-07-10, 14:45:19",
       "https://news.ycombinator.com/item?id=40927481"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2024-07-10, 10:26:14",
-      "https://news.ycombinator.com/item?id=40925474"
-    ],
-    [
-      "Copying collectors with block-structured heaps are unreliable",
-      "https://wingolog.org/archives/2024/07/10/copying-collectors-with-block-structured-heaps-are-unreliable"
-    ]
-  ],
-  [
-    [
       "2024-07-10, 09:02:16",
       "https://news.ycombinator.com/item?id=40925025"
     ],
@@ -221,32 +231,12 @@
   ],
   [
     [
-      "2024-07-09, 14:48:59",
-      "https://news.ycombinator.com/item?id=40916786"
-    ],
-    [
-      "Turbopuffer: Fast search on object storage",
-      "https://turbopuffer.com/blog/turbopuffer"
-    ]
-  ],
-  [
-    [
       "2024-07-09, 03:24:22",
       "https://news.ycombinator.com/item?id=40912271"
     ],
     [
       "Real-time audio programming 101: time waits for nothing",
       "http://www.rossbencina.com/code/real-time-audio-programming-101-time-waits-for-nothing"
-    ]
-  ],
-  [
-    [
-      "2024-07-08, 17:20:57",
-      "https://news.ycombinator.com/item?id=40907303"
-    ],
-    [
-      "The Transformation Priority Premise (2013)",
-      "https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "Pyxel: A retro game engine for Python",
       "https://github.com/kitao/pyxel"
+    ]
+  ],
+  [
+    [
+      "2024-07-07, 09:55:36",
+      "https://news.ycombinator.com/item?id=40896383"
+    ],
+    [
+      "Solving Concurrency Bugs Using Schedules and Imagination",
+      "https://ankush.dev/p/tip-concurrency-schedule"
     ]
   ],
   [
