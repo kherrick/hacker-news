@@ -34,6 +34,7 @@
 * [2024-07-11, 06:42:58](https://news.ycombinator.com/item?id=40934177) - [Xen Project in peril as colo provider housing test platform closes](https://www.theregister.com/2024/07/11/xen_project_colo_closes_warning/)
 * [2024-07-11, 06:22:50](https://news.ycombinator.com/item?id=40934097) - [First Contact with SQLite](https://brandur.org/atoms/gubk5w2)
 * [2024-07-11, 05:27:21](https://news.ycombinator.com/item?id=40933910) - [Night owls have better brain function than morning people, study suggests](https://news.sky.com/story/night-owls-have-better-brain-function-than-morning-people-study-suggests-13176210)
+* [2024-07-11, 04:49:10](https://news.ycombinator.com/item?id=40933756) - [The Future of Trash [pdf]](https://dsny.cityofnewyork.us/wp-content/uploads/reports/future-of-trash-april-2023.pdf)
 * [2024-07-11, 03:38:23](https://news.ycombinator.com/item?id=40933477) - [Night owls' cognitive function 'superior' to early risers, study suggests](https://www.theguardian.com/science/article/2024/jul/11/night-owls-cognitive-function-superior-to-early-risers-study-suggests)
 * [2024-07-11, 03:30:18](https://news.ycombinator.com/item?id=40933434) - [Brian Lunduke: \"macOS Sucks\" [video]](https://www.youtube.com/watch?v=3uGeHdNMgL8)
 * [2024-07-11, 03:17:22](https://news.ycombinator.com/item?id=40933374) - [I Was An MIT Educated Neurosurgeon Now I'm Unemployed and alone in the mountains](https://www.youtube.com/watch?v=25LUF8GmbFU)
