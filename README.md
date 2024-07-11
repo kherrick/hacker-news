@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-11, 08:25:55](https://news.ycombinator.com/item?id=40934670) - [Gemini can't be disabled on Google Docs](https://twitter.com/kevinbankston/status/1811075836558114968)
 * [2024-07-11, 08:06:38](https://news.ycombinator.com/item?id=40934582) - [The Overengineered Resume with Zola, JSON Resume, Weasyprint, and Nix](https://ktema.org/articles/the-overengineered-resume/)
 * [2024-07-11, 07:00:03](https://news.ycombinator.com/item?id=40934279) - [Supabase (YC S20) Is Hiring an Auth Engineer (Remote)](https://boards.greenhouse.io/supabase/jobs/5225004004)
 * [2024-07-11, 01:47:46](https://news.ycombinator.com/item?id=40933110) - [Engineering principles for building financial systems](https://substack.wasteman.codes/p/engineering-principles-and-best-practices)
@@ -23,7 +24,6 @@
 * [2024-07-09, 11:44:40](https://news.ycombinator.com/item?id=40914958) - [Circos – Circular Visualization](https://circos.ca/)
 * [2024-07-09, 03:24:22](https://news.ycombinator.com/item?id=40912271) - [Real-time audio programming 101: time waits for nothing](http://www.rossbencina.com/code/real-time-audio-programming-101-time-waits-for-nothing)
 * [2024-07-08, 04:48:10](https://news.ycombinator.com/item?id=40902688) - [Children's mental models of recursive LOGO programs (1985)](https://telearn.hal.science/hal-00190537/document)
-* [2024-07-07, 23:57:01](https://news.ycombinator.com/item?id=40901490) - [Making Bubbles](https://justinsecurity.medium.com/making-bubbles-f764cc72b8a3)
 * [2024-07-07, 18:38:06](https://news.ycombinator.com/item?id=40899520) - [Pyxel: A retro game engine for Python](https://github.com/kitao/pyxel)
 * [2024-07-07, 09:55:36](https://news.ycombinator.com/item?id=40896383) - [Solving Concurrency Bugs Using Schedules and Imagination](https://ankush.dev/p/tip-concurrency-schedule)
 * [2024-07-06, 16:19:41](https://news.ycombinator.com/item?id=40891391) - [Using the 5S Principle in Coding](https://santhoshsundar.medium.com/using-the-5s-principle-in-coding-6237a1614a02)

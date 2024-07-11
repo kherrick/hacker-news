@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-11](index.md)
 
+* [2024-07-11, 08:25:55](https://news.ycombinator.com/item?id=40934670) - [Gemini can't be disabled on Google Docs](https://twitter.com/kevinbankston/status/1811075836558114968)
 * [2024-07-11, 08:06:38](https://news.ycombinator.com/item?id=40934582) - [The Overengineered Resume with Zola, JSON Resume, Weasyprint, and Nix](https://ktema.org/articles/the-overengineered-resume/)
 * [2024-07-11, 07:00:03](https://news.ycombinator.com/item?id=40934279) - [Supabase (YC S20) Is Hiring an Auth Engineer (Remote)](https://boards.greenhouse.io/supabase/jobs/5225004004)
 * [2024-07-11, 06:42:58](https://news.ycombinator.com/item?id=40934177) - [Xen Project in peril as colo provider housing test platform closes](https://www.theregister.com/2024/07/11/xen_project_colo_closes_warning/)
