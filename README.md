@@ -28,8 +28,8 @@
 * [2024-07-09, 09:07:26](https://news.ycombinator.com/item?id=40913957) - [How the Curse of Lisp impacts your business (even if you don't use Lisp)](https://medium.com/@pc.peterso/how-the-curse-of-lisp-impacts-your-business-even-if-you-dont-use-lisp-33fa2097c6cc)
 * [2024-07-09, 03:24:22](https://news.ycombinator.com/item?id=40912271) - [Real-time audio programming 101: time waits for nothing](http://www.rossbencina.com/code/real-time-audio-programming-101-time-waits-for-nothing)
 * [2024-07-08, 04:48:10](https://news.ycombinator.com/item?id=40902688) - [Children's mental models of recursive LOGO programs (1985)](https://telearn.hal.science/hal-00190537/document)
+* [2024-07-07, 18:38:06](https://news.ycombinator.com/item?id=40899520) - [Pyxel: A retro game engine for Python](https://github.com/kitao/pyxel)
 * [2024-07-07, 09:33:55](https://news.ycombinator.com/item?id=40896306) - [The Planets Today](https://www.theplanetstoday.com/)
-* [2024-07-07, 01:24:30](https://news.ycombinator.com/item?id=40894553) - [The Next New Thing: architecture's gulf between the traditional and the modern](https://theamericanscholar.org/the-next-new-thing-2/)
 
 ## [Archives](archives/index.md)
 
