@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-11](index.md)
 
+* [2024-07-11, 19:05:13](https://news.ycombinator.com/item?id=40939561) - [Physicists: Tachyons can be reconciled with the special theory of relativity](https://phys.org/news/2024-07-physicists-tachyons-special-theory.html)
 * [2024-07-11, 18:02:11](https://news.ycombinator.com/item?id=40939080) - [Dynolog: Open-Source System Observability (2022)](https://developers.facebook.com/blog/post/2022/11/16/dynolog-open-source-system-observability/)
+* [2024-07-11, 17:36:12](https://news.ycombinator.com/item?id=40938851) - [How water controls the speed of muscle contraction](https://phys.org/news/2024-07-muscle-machine.html)
 * [2024-07-11, 17:31:48](https://news.ycombinator.com/item?id=40938810) - [Capturing Linux SSL/TLS plaintext without a CA certificate using eBPF](https://github.com/gojue/ecapture)
 * [2024-07-11, 17:27:58](https://news.ycombinator.com/item?id=40938783) - [Ask HN: Where do you keep your 401k investments?](https://news.ycombinator.com/item?id=40938783)
 * [2024-07-11, 17:25:23](https://news.ycombinator.com/item?id=40938749) - [Unveiling the Power of Conditional Statistics for Stock Analysis](https://patterns.id/news/conditional-statistics-inspector/)
@@ -16,6 +18,7 @@
 * [2024-07-11, 16:06:29](https://news.ycombinator.com/item?id=40938095) - [Future of Space Telescopes in the Era of Super Heavy Lift Launch](https://payloadspace.com/habitable-worlds-observatory-and-the-future-of-space-telescopes-in-the-era-of-heavy-lift-launch/)
 * [2024-07-11, 16:06:08](https://news.ycombinator.com/item?id=40938092) - [The Shining actress Shelley Duvall dies at 75](https://www.bbc.com/news/articles/cy77p22jr5lo)
 * [2024-07-11, 15:58:25](https://news.ycombinator.com/item?id=40938036) - [Google Play rejecting app update without substantive reason](https://github.com/syncthing/syncthing-android/issues/2064)
+* [2024-07-11, 15:52:14](https://news.ycombinator.com/item?id=40937973) - [How to Survive 3 Years in North Korea as a Foreigner](https://mydiplomaticlife.com/how-to-survive-3-years-in-north-korea-as-a-foreigner/)
 * [2024-07-11, 15:29:08](https://news.ycombinator.com/item?id=40937760) - [DuckDB Meets Postgres](https://blog.paradedb.com/pages/iceberg_lakehouse)
 * [2024-07-11, 14:18:32](https://news.ycombinator.com/item?id=40937093) - [The start of complex life on Earth pushed back by 750M years](https://cosmosmagazine.com/history/archaeology/complex-life-on-earth-older-than-thought/)
 * [2024-07-11, 14:11:38](https://news.ycombinator.com/item?id=40937036) - [When scientific citations go rogue: Uncovering 'sneaked references'](https://theconversation.com/when-scientific-citations-go-rogue-uncovering-sneaked-references-233858)
