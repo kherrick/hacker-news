@@ -14,6 +14,7 @@
 * [2024-07-11, 19:21:08](https://news.ycombinator.com/item?id=40939703) - [Charm creates a potent therapy candidate for fatal prion diseases](https://news.mit.edu/2024/charmed-collaboration-creates-therapy-candidate-fatal-prion-diseases-0627)
 * [2024-07-11, 19:12:20](https://news.ycombinator.com/item?id=40939627) - [Apple Vision Pro U.S. Sales Are All but Dead, Market Analysts Say](https://gizmodo.com/apple-vision-pro-u-s-sales-2000469302)
 * [2024-07-11, 19:05:13](https://news.ycombinator.com/item?id=40939561) - [Physicists: Tachyons can be reconciled with the special theory of relativity](https://phys.org/news/2024-07-physicists-tachyons-special-theory.html)
+* [2024-07-11, 18:15:27](https://news.ycombinator.com/item?id=40939184) - [The Great Lightbulb Conspiracy (2014)](https://spectrum.ieee.org/the-great-lightbulb-conspiracy)
 * [2024-07-11, 18:02:11](https://news.ycombinator.com/item?id=40939080) - [Dynolog: Open-Source System Observability (2022)](https://developers.facebook.com/blog/post/2022/11/16/dynolog-open-source-system-observability/)
 * [2024-07-11, 17:43:58](https://news.ycombinator.com/item?id=40938923) - [The economics of a Postgres free tier](https://xata.io/blog/postgres-free-tier)
 * [2024-07-11, 17:36:12](https://news.ycombinator.com/item?id=40938851) - [How water controls the speed of muscle contraction](https://phys.org/news/2024-07-muscle-machine.html)

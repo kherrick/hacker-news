@@ -7,6 +7,7 @@
 * [2024-07-11, 20:13:28](https://news.ycombinator.com/item?id=40940200) - [CodeMirror: Extensible code editor component for the web](https://codemirror.net)
 * [2024-07-11, 20:07:40](https://news.ycombinator.com/item?id=40940158) - [Ask HN: Trouble learning things I view as solutions looking for a problem](https://news.ycombinator.com/item?id=40940158)
 * [2024-07-11, 19:21:08](https://news.ycombinator.com/item?id=40939703) - [Charm creates a potent therapy candidate for fatal prion diseases](https://news.mit.edu/2024/charmed-collaboration-creates-therapy-candidate-fatal-prion-diseases-0627)
+* [2024-07-11, 18:15:27](https://news.ycombinator.com/item?id=40939184) - [The Great Lightbulb Conspiracy (2014)](https://spectrum.ieee.org/the-great-lightbulb-conspiracy)
 * [2024-07-11, 17:43:58](https://news.ycombinator.com/item?id=40938923) - [The economics of a Postgres free tier](https://xata.io/blog/postgres-free-tier)
 * [2024-07-11, 17:36:12](https://news.ycombinator.com/item?id=40938851) - [How water controls the speed of muscle contraction](https://phys.org/news/2024-07-muscle-machine.html)
 * [2024-07-11, 17:31:48](https://news.ycombinator.com/item?id=40938810) - [Capturing Linux SSL/TLS plaintext without a CA certificate using eBPF](https://github.com/gojue/ecapture)
@@ -27,7 +28,6 @@
 * [2024-07-10, 14:45:19](https://news.ycombinator.com/item?id=40927481) - [Brian Kernighan on “The Practice of Programming” [video]](https://www.youtube.com/watch?v=_QQ7k5sn2-o)
 * [2024-07-10, 14:42:03](https://news.ycombinator.com/item?id=40927438) - [Things I learned while writing an x86 emulator (2013)](https://www.timdbg.com/posts/useless-x86-trivia/)
 * [2024-07-09, 00:29:46](https://news.ycombinator.com/item?id=40911350) - [Claude 3.5 Sonnet Reproduces BIG-Bench Canary String](https://www.lesswrong.com/posts/QZM6pErzL7JwE3pkv/shortplav)
-* [2024-07-08, 04:48:10](https://news.ycombinator.com/item?id=40902688) - [Children's mental models of recursive LOGO programs (1985)](https://telearn.hal.science/hal-00190537/document)
 * [2024-07-07, 10:21:14](https://news.ycombinator.com/item?id=40896470) - [The Sumerian Game: The Most Important Video Game You've Never Heard Of (2021)](https://www.acriticalhit.com/sumerian-game-most-important-video-game-youve-never-heard/)
 * [2024-07-07, 09:33:55](https://news.ycombinator.com/item?id=40896306) - [The Planets Today](https://www.theplanetstoday.com/)
 
