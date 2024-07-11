@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-11](index.md)
 
 * [2024-07-11, 07:00:03](https://news.ycombinator.com/item?id=40934279) - [Supabase (YC S20) Is Hiring an Auth Engineer (Remote)](https://boards.greenhouse.io/supabase/jobs/5225004004)
+* [2024-07-11, 06:42:58](https://news.ycombinator.com/item?id=40934177) - [Xen Project in peril as colo provider housing test platform closes](https://www.theregister.com/2024/07/11/xen_project_colo_closes_warning/)
 * [2024-07-11, 05:27:21](https://news.ycombinator.com/item?id=40933910) - [Night owls have better brain function than morning people, study suggests](https://news.sky.com/story/night-owls-have-better-brain-function-than-morning-people-study-suggests-13176210)
 * [2024-07-11, 03:38:23](https://news.ycombinator.com/item?id=40933477) - [Night owls' cognitive function 'superior' to early risers, study suggests](https://www.theguardian.com/science/article/2024/jul/11/night-owls-cognitive-function-superior-to-early-risers-study-suggests)
 * [2024-07-11, 03:30:18](https://news.ycombinator.com/item?id=40933434) - [Brian Lunduke: \"macOS Sucks\" [video]](https://www.youtube.com/watch?v=3uGeHdNMgL8)

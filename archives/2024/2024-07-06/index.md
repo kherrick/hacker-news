@@ -56,6 +56,7 @@
 * [2024-07-06, 16:16:47](https://news.ycombinator.com/item?id=40891372) - [Cold shipping might be the next industry that batteries disrupt](https://techcrunch.com/2024/06/28/cold-shipping-might-be-the-next-industry-that-batteries-disrupt/)
 * [2024-07-06, 16:16:26](https://news.ycombinator.com/item?id=40891367) - [Free and Open Source Software–and Other Market Failures](https://cacm.acm.org/practice/free-and-open-source-software-and-other-market-failures/)
 * [2024-07-06, 16:13:57](https://news.ycombinator.com/item?id=40891349) - [The Steel Man Technique: How to Argue Better and Be More Persuasive](https://constantrenewal.com/steel-man)
+* [2024-07-06, 16:13:09](https://news.ycombinator.com/item?id=40891342) - [London, Paris, Seoul Show Commuting Power of Fast Regional Rail](https://www.bloomberg.com/news/features/2024-07-02/london-paris-seoul-show-commuting-power-of-fast-regional-rail)
 * [2024-07-06, 16:07:52](https://news.ycombinator.com/item?id=40891306) - [A Thousand Primers, Not Just One](https://mssv.net/2024/07/06/a-thousand-primers-not-just-one/)
 * [2024-07-06, 16:01:25](https://news.ycombinator.com/item?id=40891252) - [First anode-free sodium solid-state battery](https://pme.uchicago.edu/news/uchicago-prof-shirley-mengs-laboratory-energy-storage-and-conversion-creates-worlds-first)
 * [2024-07-06, 15:50:33](https://news.ycombinator.com/item?id=40891162) - [A Dramatic Reading: I Will Fucking Piledrive You If You Mention AI Again](https://mccue.dev/pages/7-5-24-a-reading-i-will-fucking-piledrive-you-if-you-mention-ai-again)
