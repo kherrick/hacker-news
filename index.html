@@ -129,27 +129,6 @@
       <h1><a href="https://kherrick.github.io/hacker-news/">Hacker News</a></h1>
       <section id="latest">
         <h2>Latest</h2>
-        <section id="40940678">
-          <h3>
-            <a
-              class="item"
-              href="https://www.theatlantic.com/newsletters/archive/2024/07/america-has-never-really-known-what-to-make-of-vegetarians/678969/"
-              >A Hundred Years of Mocking Vegetarians</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-07-11 @ 21:17:12</span
-              ><span class="points-container"
-                >Points: <span class="points">14</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40940678"
-                  >Comments</a
-                ><span class="descendants">: 13</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="40940565">
           <h3>
             <a class="item" href="https://news.ycombinator.com/item?id=40940565"
@@ -210,28 +189,6 @@
             </div>
           </section>
         </section>
-        <section id="40940276">
-          <h3>
-            <a
-              class="item"
-              href="https://newatlas.com/health-wellbeing/olive-compound/"
-              >Natural olive compound aids weight loss and regulates blood
-              sugar</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-07-11 @ 20:21:20</span
-              ><span class="points-container"
-                >Points: <span class="points">7</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40940276"
-                  >Comments</a
-                ><span class="descendants">: 6</span></span
-              >
-            </h4>
-          </section>
-        </section>
         <section id="40940225">
           <h3>
             <a class="item" href="https://webvm.io/"
@@ -243,11 +200,11 @@
             <h4>
               <span>2024-07-11 @ 20:16:21</span
               ><span class="points-container"
-                >Points: <span class="points">137</span></span
+                >Points: <span class="points">152</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40940225"
                   >Comments</a
-                ><span class="descendants">: 34</span></span
+                ><span class="descendants">: 36</span></span
               >
             </h4>
           </section>
@@ -271,6 +228,96 @@
             </h4>
           </section>
         </section>
+        <section id="40940181">
+          <h3>
+            <a class="item" href="https://github.com/amakelov/mandala"
+              >Show HN: Mandala – Automatically save, query and version Python
+              computations</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-07-11 @ 20:10:44</span
+              ><span class="points-container"
+                >Points: <span class="points">7</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40940181"
+                  >Comments</a
+                ><span class="descendants">: 0</span></span
+              >
+            </h4>
+            <div class="text">
+              <p>
+                Surprisingly, it turns out that this vision can pretty much be
+                achieved with two generic tools:
+              </p>
+              <p>
+                1. a memoization+versioning decorator, `@op`, which tracks
+                inputs, outputs, code and runtime dependencies (other functions
+                called, or global variables accessed) every time a function is
+                called. Essentially, this makes function calls replace logging:
+                if you want something saved, you write a function that returns
+                it. Using (a lot of) hashing, `@op` ensures that the same
+                version of the function is never executed twice on the same
+                inputs.
+              </p>
+              <p>
+                Importantly, the decorator encourages/enforces composition.
+                Before a call, `@op` functions wrap their inputs in special
+                objects, `Ref`s, and return `Ref`s in turn. Furthermore, data
+                structures can be made transparent to `@op`s, so that an `@op`
+                can be called on a list of outputs of other `@op`s, or on an
+                element of the output of another `@op`. This creates an
+                expressive "web" of `@op` calls over time.
+              </p>
+              <p>
+                2. a data structure, `ComputationFrame`, can automatically
+                organize any such web of `@op` calls into a high-level view, by
+                grouping calls with a similar role into "operations", and their
+                inputs/outputs into "variables". It can detect "imperative"
+                patterns - like feedback loops, branching/merging, and grouping
+                multiple results in a single object - and surface them in the
+                graph.
+              </p>
+              <p>
+                `ComputationFrame`s are a "synthesis" of computation graphs and
+                relational databases, and can be automatically "exported" as
+                dataframes, where columns are variables and operations in the
+                graph, and rows contain values and calls for (possibly partial)
+                executions of the graph. The upshot is that you can query the
+                relationships between any variables in a project in one line,
+                even in the presence of very heterogeneous patterns in the
+                graph.
+              </p>
+              <p>
+                I'm very excited about this project - which is still in an alpha
+                version being actively developed - and especially about the
+                `ComputationFrame` data structure. I'd love to hear the feedback
+                of the HN community.
+              </p>
+              <p>
+                Colab quickstart:
+                <a
+                  href="https://colab.research.google.com/github/amakelov/mandala/blob/master/docs_source/tutorials/01_hello.ipynb"
+                  >https://colab.research.google.com/github/amakelov/mandala/bl...</a
+                >
+              </p>
+              <p>
+                Blog post introducing `ComputationFrame`s (can be opened in
+                Colab too):
+                <a href="https://amakelov.github.io/mandala/blog/01_cf/"
+                  >https://amakelov.github.io/mandala/blog/01_cf/</a
+                >
+              </p>
+              <p>
+                Docs:
+                <a href="https://amakelov.github.io/mandala/"
+                  >https://amakelov.github.io/mandala/</a
+                >
+              </p>
+            </div>
+          </section>
+        </section>
         <section id="40940158">
           <h3>
             <a class="item" href="https://news.ycombinator.com/item?id=40940158"
@@ -282,7 +329,7 @@
             <h4>
               <span>2024-07-11 @ 20:07:40</span
               ><span class="points-container"
-                >Points: <span class="points">32</span></span
+                >Points: <span class="points">37</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40940158"
                   >Comments</a
@@ -348,7 +395,7 @@
             <h4>
               <span>2024-07-11 @ 19:21:08</span
               ><span class="points-container"
-                >Points: <span class="points">27</span></span
+                >Points: <span class="points">32</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40939703"
                   >Comments</a
@@ -369,11 +416,11 @@
             <h4>
               <span>2024-07-11 @ 18:15:27</span
               ><span class="points-container"
-                >Points: <span class="points">8</span></span
+                >Points: <span class="points">10</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40939184"
                   >Comments</a
-                ><span class="descendants">: 7</span></span
+                ><span class="descendants">: 9</span></span
               >
             </h4>
           </section>
@@ -388,11 +435,11 @@
             <h4>
               <span>2024-07-11 @ 17:43:58</span
               ><span class="points-container"
-                >Points: <span class="points">30</span></span
+                >Points: <span class="points">33</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40938923"
                   >Comments</a
-                ><span class="descendants">: 14</span></span
+                ><span class="descendants">: 16</span></span
               >
             </h4>
           </section>
@@ -429,7 +476,7 @@
             <h4>
               <span>2024-07-11 @ 17:31:48</span
               ><span class="points-container"
-                >Points: <span class="points">59</span></span
+                >Points: <span class="points">62</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40938810"
                   >Comments</a
@@ -449,7 +496,7 @@
             <h4>
               <span>2024-07-11 @ 17:06:06</span
               ><span class="points-container"
-                >Points: <span class="points">151</span></span
+                >Points: <span class="points">154</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40938577"
                   >Comments</a
@@ -470,11 +517,11 @@
             <h4>
               <span>2024-07-11 @ 16:41:34</span
               ><span class="points-container"
-                >Points: <span class="points">78</span></span
+                >Points: <span class="points">80</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40938388"
                   >Comments</a
-                ><span class="descendants">: 39</span></span
+                ><span class="descendants">: 41</span></span
               >
             </h4>
           </section>
@@ -489,7 +536,7 @@
             <h4>
               <span>2024-07-11 @ 16:35:31</span
               ><span class="points-container"
-                >Points: <span class="points">106</span></span
+                >Points: <span class="points">109</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40938325"
                   >Comments</a
@@ -510,7 +557,7 @@
             <h4>
               <span>2024-07-11 @ 16:06:08</span
               ><span class="points-container"
-                >Points: <span class="points">135</span></span
+                >Points: <span class="points">138</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40938092"
                   >Comments</a
@@ -531,11 +578,11 @@
             <h4>
               <span>2024-07-11 @ 15:52:14</span
               ><span class="points-container"
-                >Points: <span class="points">153</span></span
+                >Points: <span class="points">160</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40937973"
                   >Comments</a
-                ><span class="descendants">: 66</span></span
+                ><span class="descendants">: 71</span></span
               >
             </h4>
           </section>
@@ -552,7 +599,7 @@
             <h4>
               <span>2024-07-11 @ 15:29:08</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">46</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40937760"
                   >Comments</a
@@ -573,11 +620,11 @@
             <h4>
               <span>2024-07-11 @ 13:48:49</span
               ><span class="points-container"
-                >Points: <span class="points">123</span></span
+                >Points: <span class="points">126</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40936808"
                   >Comments</a
-                ><span class="descendants">: 88</span></span
+                ><span class="descendants">: 90</span></span
               >
             </h4>
           </section>
@@ -594,11 +641,11 @@
             <h4>
               <span>2024-07-11 @ 11:57:27</span
               ><span class="points-container"
-                >Points: <span class="points">184</span></span
+                >Points: <span class="points">187</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40935701"
                   >Comments</a
-                ><span class="descendants">: 142</span></span
+                ><span class="descendants">: 143</span></span
               >
             </h4>
           </section>
@@ -619,7 +666,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40935154"
                   >Comments</a
-                ><span class="descendants">: 113</span></span
+                ><span class="descendants">: 115</span></span
               >
             </h4>
           </section>
@@ -636,7 +683,7 @@
             <h4>
               <span>2024-07-11 @ 09:28:54</span
               ><span class="points-container"
-                >Points: <span class="points">442</span></span
+                >Points: <span class="points">444</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40934924"
                   >Comments</a
@@ -656,11 +703,33 @@
             <h4>
               <span>2024-07-11 @ 08:11:36</span
               ><span class="points-container"
-                >Points: <span class="points">102</span></span
+                >Points: <span class="points">103</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40934608"
                   >Comments</a
-                ><span class="descendants">: 48</span></span
+                ><span class="descendants">: 49</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="40934582">
+          <h3>
+            <a
+              class="item"
+              href="https://ktema.org/articles/the-overengineered-resume/"
+              >The Overengineered Resume with Zola, JSON Resume, Weasyprint, and
+              Nix (2023)</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-07-11 @ 08:06:38</span
+              ><span class="points-container"
+                >Points: <span class="points">145</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40934582"
+                  >Comments</a
+                ><span class="descendants">: 88</span></span
               >
             </h4>
           </section>
@@ -679,7 +748,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40934495"
                   >Comments</a
-                ><span class="descendants">: 252</span></span
+                ><span class="descendants">: 254</span></span
               >
             </h4>
           </section>
@@ -696,11 +765,30 @@
             <h4>
               <span>2024-07-11 @ 01:47:46</span
               ><span class="points-container"
-                >Points: <span class="points">317</span></span
+                >Points: <span class="points">319</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40933110"
                   >Comments</a
-                ><span class="descendants">: 76</span></span
+                ><span class="descendants">: 77</span></span
+              >
+            </h4>
+          </section>
+        </section>
+        <section id="40932006">
+          <h3>
+            <a class="item" href="https://arxiv.org/abs/2404.00732"
+              >An abundance of Katherines: The game theory of baby naming</a
+            >
+          </h3>
+          <section>
+            <h4>
+              <span>2024-07-10 @ 22:08:41</span
+              ><span class="points-container"
+                >Points: <span class="points">236</span></span
+              ><span class="descendants-container"
+                ><a href="https://news.ycombinator.com/item?id=40932006"
+                  >Comments</a
+                ><span class="descendants">: 132</span></span
               >
             </h4>
           </section>
@@ -722,7 +810,7 @@
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40931636"
                   >Comments</a
-                ><span class="descendants">: 162</span></span
+                ><span class="descendants">: 164</span></span
               >
             </h4>
           </section>
@@ -739,11 +827,11 @@
             <h4>
               <span>2024-07-10 @ 21:20:41</span
               ><span class="points-container"
-                >Points: <span class="points">103</span></span
+                >Points: <span class="points">106</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40931590"
                   >Comments</a
-                ><span class="descendants">: 55</span></span
+                ><span class="descendants">: 58</span></span
               >
             </h4>
           </section>
@@ -760,30 +848,11 @@
             <h4>
               <span>2024-07-08 @ 04:48:10</span
               ><span class="points-container"
-                >Points: <span class="points">82</span></span
+                >Points: <span class="points">83</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40902688"
                   >Comments</a
                 ><span class="descendants">: 16</span></span
-              >
-            </h4>
-          </section>
-        </section>
-        <section id="40899520">
-          <h3>
-            <a class="item" href="https://github.com/kitao/pyxel"
-              >Pyxel: A retro game engine for Python</a
-            >
-          </h3>
-          <section>
-            <h4>
-              <span>2024-07-07 @ 18:38:06</span
-              ><span class="points-container"
-                >Points: <span class="points">255</span></span
-              ><span class="descendants-container"
-                ><a href="https://news.ycombinator.com/item?id=40899520"
-                  >Comments</a
-                ><span class="descendants">: 37</span></span
               >
             </h4>
           </section>
@@ -801,7 +870,7 @@
             <h4>
               <span>2024-07-07 @ 10:21:14</span
               ><span class="points-container"
-                >Points: <span class="points">45</span></span
+                >Points: <span class="points">48</span></span
               ><span class="descendants-container"
                 ><a href="https://news.ycombinator.com/item?id=40896470"
                   >Comments</a
