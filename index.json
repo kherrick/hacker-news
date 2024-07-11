@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-07-11, 21:00:06",
+      "https://news.ycombinator.com/item?id=40940565"
+    ],
+    [
+      "Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager",
+      "https://news.ycombinator.com/item?id=40940565"
+    ]
+  ],
+  [
+    [
+      "2024-07-11, 20:59:12",
+      "https://news.ycombinator.com/item?id=40940555"
+    ],
+    [
+      "Ubuntu Security Updates Are a Confusing Mess",
+      "https://gld.mcphail.uk/posts/ubuntu-security-updates-are-a-confusing-mess/"
+    ]
+  ],
+  [
+    [
+      "2024-07-11, 20:43:11",
+      "https://news.ycombinator.com/item?id=40940456"
+    ],
+    [
+      "Helium reservoir with 'mind-boggling' concentrations may be even bigger",
+      "https://www.livescience.com/planet-earth/geology/massive-helium-reservoir-with-mind-boggling-concentrations-may-be-even-bigger-more-concentrated-than-we-thought"
+    ]
+  ],
+  [
+    [
       "2024-07-11, 20:16:21",
       "https://news.ycombinator.com/item?id=40940225"
     ],
@@ -31,22 +61,22 @@
   ],
   [
     [
-      "2024-07-11, 19:21:47",
-      "https://news.ycombinator.com/item?id=40939707"
+      "2024-07-11, 19:21:08",
+      "https://news.ycombinator.com/item?id=40939703"
     ],
     [
-      "Karpathy: Let's reproduce GPT-2 (1.6B): one 8XH100 node 24h $672 in llm.c",
-      "https://github.com/karpathy/llm.c/discussions/677"
+      "Charm creates a potent therapy candidate for fatal prion diseases",
+      "https://news.mit.edu/2024/charmed-collaboration-creates-therapy-candidate-fatal-prion-diseases-0627"
     ]
   ],
   [
     [
-      "2024-07-11, 18:02:11",
-      "https://news.ycombinator.com/item?id=40939080"
+      "2024-07-11, 17:43:58",
+      "https://news.ycombinator.com/item?id=40938923"
     ],
     [
-      "Dynolog: Open-Source System Observability (2022)",
-      "https://developers.facebook.com/blog/post/2022/11/16/dynolog-open-source-system-observability/"
+      "The economics of a Postgres free tier",
+      "https://xata.io/blog/postgres-free-tier"
     ]
   ],
   [
@@ -171,36 +201,6 @@
   ],
   [
     [
-      "2024-07-11, 08:06:38",
-      "https://news.ycombinator.com/item?id=40934582"
-    ],
-    [
-      "The Overengineered Resume with Zola, JSON Resume, Weasyprint, and Nix (2023)",
-      "https://ktema.org/articles/the-overengineered-resume/"
-    ]
-  ],
-  [
-    [
-      "2024-07-11, 07:44:29",
-      "https://news.ycombinator.com/item?id=40934495"
-    ],
-    [
-      "Second Factor SMS: Worse Than Its Reputation",
-      "https://www.ccc.de/en/updates/2024/2fa-sms"
-    ]
-  ],
-  [
-    [
-      "2024-07-11, 07:00:03",
-      "https://news.ycombinator.com/item?id=40934279"
-    ],
-    [
-      "Supabase (YC S20) Is Hiring an Auth Engineer (Remote)",
-      "https://boards.greenhouse.io/supabase/jobs/5225004004"
-    ]
-  ],
-  [
-    [
       "2024-07-11, 01:47:46",
       "https://news.ycombinator.com/item?id=40933110"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
+      "2024-07-09, 00:29:46",
+      "https://news.ycombinator.com/item?id=40911350"
+    ],
+    [
+      "Claude 3.5 Sonnet Reproduces BIG-Bench Canary String",
+      "https://www.lesswrong.com/posts/QZM6pErzL7JwE3pkv/shortplav"
+    ]
+  ],
+  [
+    [
       "2024-07-08, 04:48:10",
       "https://news.ycombinator.com/item?id=40902688"
     ],
     [
       "Children's mental models of recursive LOGO programs (1985)",
       "https://telearn.hal.science/hal-00190537/document"
-    ]
-  ],
-  [
-    [
-      "2024-07-07, 18:38:06",
-      "https://news.ycombinator.com/item?id=40899520"
-    ],
-    [
-      "Pyxel: A retro game engine for Python",
-      "https://github.com/kitao/pyxel"
     ]
   ],
   [
