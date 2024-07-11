@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-07-11](index.md)
 
+* [2024-07-11, 05:27:21](https://news.ycombinator.com/item?id=40933910) - [Night owls have better brain function than morning people, study suggests](https://news.sky.com/story/night-owls-have-better-brain-function-than-morning-people-study-suggests-13176210)
+* [2024-07-11, 03:38:23](https://news.ycombinator.com/item?id=40933477) - [Night owls' cognitive function 'superior' to early risers, study suggests](https://www.theguardian.com/science/article/2024/jul/11/night-owls-cognitive-function-superior-to-early-risers-study-suggests)
 * [2024-07-11, 03:30:18](https://news.ycombinator.com/item?id=40933434) - [Brian Lunduke: \"macOS Sucks\" [video]](https://www.youtube.com/watch?v=3uGeHdNMgL8)
 * [2024-07-11, 03:17:22](https://news.ycombinator.com/item?id=40933374) - [I Was An MIT Educated Neurosurgeon Now I'm Unemployed and alone in the mountains](https://www.youtube.com/watch?v=25LUF8GmbFU)
+* [2024-07-11, 02:21:30](https://news.ycombinator.com/item?id=40933216) - [Change to FreeBSD release scheduling and support period](https://lists.freebsd.org/archives/freebsd-announce/2024-July/000143.html)
 * [2024-07-11, 02:20:40](https://news.ycombinator.com/item?id=40933215) - [VSCode won't start on several Mac OS versions, broken over a week](https://github.com/microsoft/vscode/issues/219901)
 * [2024-07-11, 01:47:46](https://news.ycombinator.com/item?id=40933110) - [Engineering Principles for Building Financial Systems](https://substack.wasteman.codes/p/engineering-principles-and-best-practices)
 * [2024-07-11, 01:21:41](https://news.ycombinator.com/item?id=40932996) - [Lix 2.90 \"Vanilla Ice Cream\"](https://lix.systems/blog/2024-07-10-lix-2.90-release/)
