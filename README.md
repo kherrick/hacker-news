@@ -1,7 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-10, 23:23:15](https://news.ycombinator.com/item?id=40932447) - [Tesla's Share of U.S. Electric Car Market Falls Below 50%](https://www.nytimes.com/2024/07/09/business/tesla-electric-vehicles-market-share.html)
-* [2024-07-10, 23:19:01](https://news.ycombinator.com/item?id=40932420) - [Eliza chat with an OpenAI compatible API](https://elizallm.com)
 * [2024-07-10, 21:24:49](https://news.ycombinator.com/item?id=40931636) - [Scientists Discover a Cause of Lupus, Possible Way to Reverse It](https://news.feinberg.northwestern.edu/2024/07/10/scientists-discover-a-cause-of-lupus-and-a-possible-way-to-reverse-it/)
 * [2024-07-10, 21:15:20](https://news.ycombinator.com/item?id=40931540) - [Estimated Childhood Lead Exposure from Drinking Water in Chicago](https://jamanetwork.com/journals/jamapediatrics/fullarticle/2815850)
 * [2024-07-10, 20:08:06](https://news.ycombinator.com/item?id=40930983) - [The NYT Book Review Is Everything Book Criticism Shouldn't Be](https://www.currentaffairs.org/news/new-york-times-book-review)
@@ -10,6 +8,7 @@
 * [2024-07-10, 17:01:32](https://news.ycombinator.com/item?id=40928948) - [Motion (YC W20) Is Hiring Senior Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)
 * [2024-07-10, 16:56:02](https://news.ycombinator.com/item?id=40928893) - [Zed on Linux Is Here](https://zed.dev/linux)
 * [2024-07-10, 16:41:44](https://news.ycombinator.com/item?id=40928756) - [Researchers discover a new form of scientific fraud: 'sneaked references'](https://phys.org/news/2024-07-scientific-fraud-uncovering.html)
+* [2024-07-10, 16:11:50](https://news.ycombinator.com/item?id=40928450) - [Co-Dfns v5.7.0](https://github.com/Co-dfns/Co-dfns/releases/tag/v5.7.0)
 * [2024-07-10, 15:39:25](https://news.ycombinator.com/item?id=40928145) - [Dola Decoding by Contrasting Layers Improves Factuality in Large Language Models](https://arxiv.org/abs/2309.03883)
 * [2024-07-10, 14:45:19](https://news.ycombinator.com/item?id=40927481) - [Brian Kernighan on \"The Practice of Programming\" [video]](https://www.youtube.com/watch?v=_QQ7k5sn2-o)
 * [2024-07-10, 14:42:03](https://news.ycombinator.com/item?id=40927438) - [Weird things I learned while writing an x86 emulator](https://www.timdbg.com/posts/useless-x86-trivia/)
@@ -23,6 +22,7 @@
 * [2024-07-10, 01:11:00](https://news.ycombinator.com/item?id=40922874) - [The Seal Failure in the SRB That Doomed Challenger (2021)](https://exrocketman.blogspot.com/2021/12/the-seal-failure-in-srb-that-doomed.html)
 * [2024-07-10, 00:35:38](https://news.ycombinator.com/item?id=40922739) - [RouteLLM: A framework for serving and evaluating LLM routers](https://github.com/lm-sys/RouteLLM)
 * [2024-07-09, 22:34:39](https://news.ycombinator.com/item?id=40921989) - [Multi-agent chatbot murder mystery](https://ai-murder-mystery.onrender.com/)
+* [2024-07-09, 21:00:00](https://news.ycombinator.com/item?id=40921038) - [Knowledge Graphs in RAG: Hype vs. Ragas Analysis](https://aiencoder.substack.com/p/graphrag-analysis-part-1-how-indexing)
 * [2024-07-09, 19:38:36](https://news.ycombinator.com/item?id=40920122) - [How CD pregaps gained their hidden track superpowers](https://tedium.co/2024/07/06/compact-disc-pregap-history/)
 * [2024-07-09, 14:48:59](https://news.ycombinator.com/item?id=40916786) - [Turbopuffer: Fast search on object storage](https://turbopuffer.com/blog/turbopuffer)
 * [2024-07-09, 11:44:40](https://news.ycombinator.com/item?id=40914958) - [Circos – Circular Visualization](https://circos.ca/)
