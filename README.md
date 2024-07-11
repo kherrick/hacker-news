@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-11, 14:08:03](https://news.ycombinator.com/item?id=40936995) - [Starlink Mini is now available](https://www.starlink.com/us/roam)
+* [2024-07-11, 13:55:08](https://news.ycombinator.com/item?id=40936870) - [Internet Archive and Library and Archives Canada Launches Digitization Project](https://internetarchivecanada.org/2024/07/01/internet-archive-canada-launches-digitization-project-with-library-and-archives-canada/)
 * [2024-07-11, 11:57:27](https://news.ycombinator.com/item?id=40935701) - [Binance built a 100PB log service with Quickwit](https://quickwit.io/blog/quickwit-binance-story)
 * [2024-07-11, 11:44:08](https://news.ycombinator.com/item?id=40935600) - [Serious errors plague DNA tool that's a workhorse of biology](https://www.nature.com/articles/d41586-024-02280-1)
 * [2024-07-11, 10:17:08](https://news.ycombinator.com/item?id=40935154) - [Qualcomm's Oryon Core: A Long Time in the Making](https://chipsandcheese.com/2024/07/09/qualcomms-oryon-core-a-long-time-in-the-making/)
@@ -29,7 +30,6 @@
 * [2024-07-07, 09:55:36](https://news.ycombinator.com/item?id=40896383) - [Solving Concurrency Bugs Using Schedules and Imagination](https://ankush.dev/p/tip-concurrency-schedule)
 * [2024-07-07, 09:33:55](https://news.ycombinator.com/item?id=40896306) - [The Planets Today](https://www.theplanetstoday.com/)
 * [2024-07-06, 16:19:41](https://news.ycombinator.com/item?id=40891391) - [Using the 5S Principle in Coding](https://santhoshsundar.medium.com/using-the-5s-principle-in-coding-6237a1614a02)
-* [2024-07-06, 12:23:01](https://news.ycombinator.com/item?id=40890002) - [An analysis of module names inside top PyPI packages](https://joshcannon.me/2024/07/05/package-names.html)
 
 ## [Archives](archives/index.md)
 
