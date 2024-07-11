@@ -19,6 +19,7 @@
 * [2024-07-07, 19:03:30](https://news.ycombinator.com/item?id=40899673) - [Show HN: Imageprompt.io – AI-powered and human-curated artworks, logos, photos](https://imageprompt.io/)
 * [2024-07-07, 19:02:44](https://news.ycombinator.com/item?id=40899662) - [Ask HN: Should I remove work experience from resume?](https://news.ycombinator.com/item?id=40899662)
 * [2024-07-07, 18:45:44](https://news.ycombinator.com/item?id=40899562) - [Doomsday Prepping: Reactionary Behavior or Inherited Instinct?](https://seattleanxiety.com/psychiatrist/2023/1/12/doomsday-prepping-reactionary-behavior-or-inherited-instinct)
+* [2024-07-07, 18:38:06](https://news.ycombinator.com/item?id=40899520) - [Pyxel: A retro game engine for Python](https://github.com/kitao/pyxel)
 * [2024-07-07, 18:35:46](https://news.ycombinator.com/item?id=40899507) - [Sharedrop: Easy P2P file transfer powered by WebRTC – inspired by Apple AirDrop](https://github.com/szimek/sharedrop)
 * [2024-07-07, 18:32:57](https://news.ycombinator.com/item?id=40899487) - [Modern-day spying: sometimes old technology is more secure](https://www.economist.com/technology-quarterly/2024/07/01/sometimes-the-old-ways-of-espionage-are-the-best)
 * [2024-07-07, 18:32:48](https://news.ycombinator.com/item?id=40899483) - [What the internet looked like in 1994](https://www.fastcompany.com/91140068/how-the-internet-went-mainstream-in-1994)
