@@ -4,11 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-07-11](index.md)
 
+* [2024-07-11, 15:29:08](https://news.ycombinator.com/item?id=40937760) - [DuckDB Meets Postgres](https://blog.paradedb.com/pages/iceberg_lakehouse)
 * [2024-07-11, 14:18:32](https://news.ycombinator.com/item?id=40937093) - [The start of complex life on Earth pushed back by 750M years](https://cosmosmagazine.com/history/archaeology/complex-life-on-earth-older-than-thought/)
 * [2024-07-11, 14:11:38](https://news.ycombinator.com/item?id=40937036) - [When scientific citations go rogue: Uncovering 'sneaked references'](https://theconversation.com/when-scientific-citations-go-rogue-uncovering-sneaked-references-233858)
 * [2024-07-11, 14:08:03](https://news.ycombinator.com/item?id=40936995) - [Starlink Mini is now available](https://www.starlink.com/us/roam)
 * [2024-07-11, 13:55:08](https://news.ycombinator.com/item?id=40936870) - [Internet Archive and Library and Archives Canada Launches Digitization Project](https://internetarchivecanada.org/2024/07/01/internet-archive-canada-launches-digitization-project-with-library-and-archives-canada/)
+* [2024-07-11, 13:48:49](https://news.ycombinator.com/item?id=40936808) - [Iconography of the X Window System: The Boot Stipple](https://matttproud.com/blog/posts/x-window-system-boot-stipple.html)
 * [2024-07-11, 13:37:39](https://news.ycombinator.com/item?id=40936681) - [Say Goodbye to Redbox](https://www.engadget.com/say-goodbye-to-redbox-130044411.html)
+* [2024-07-11, 13:10:20](https://news.ycombinator.com/item?id=40936357) - [Why Doesn't Advice Work?](https://dynomight.net/advice/)
 * [2024-07-11, 12:31:04](https://news.ycombinator.com/item?id=40935971) - [Microsoft killed my online life after I called Gaza](https://www.bbc.com/news/articles/cger582weplo)
 * [2024-07-11, 12:23:33](https://news.ycombinator.com/item?id=40935901) - [Netanyahu mulled Europe stopover but will fly directly to US amid ICC fears](https://www.timesofisrael.com/liveblog_entry/pm-said-seeking-to-visit-czech-republic-hungary-on-way-to-address-us-congress-amid-concern-over-icc-arrest-warrant-request/)
 * [2024-07-11, 12:02:40](https://news.ycombinator.com/item?id=40935740) - [Ultra simplified \"MNIST\" in 60 lines of Python with NumPy](https://github.com/tonio-m/python_neural_network)
@@ -16,6 +19,7 @@
 * [2024-07-11, 11:55:41](https://news.ycombinator.com/item?id=40935688) - [China's clean energy pushes coal to record-low 53% share of power in May 2024](https://www.carbonbrief.org/analysis-chinas-clean-energy-pushes-coal-to-record-low-53-share-of-power-in-may-2024/)
 * [2024-07-11, 11:54:48](https://news.ycombinator.com/item?id=40935682) - [Lithium ion batteries a growing source of PFAS pollution, study finds](https://phys.org/news/2024-07-lithium-ion-batteries-source-pfas.html)
 * [2024-07-11, 11:44:08](https://news.ycombinator.com/item?id=40935600) - [Serious errors plague DNA tool that's a workhorse of biology](https://www.nature.com/articles/d41586-024-02280-1)
+* [2024-07-11, 11:42:02](https://news.ycombinator.com/item?id=40935584) - [Comparing open source BGP stacks](https://elegantnetwork.github.io/posts/comparing-open-source-bgp-stacks/)
 * [2024-07-11, 11:41:03](https://news.ycombinator.com/item?id=40935576) - [If AI chatbots are the future, I hate it](https://www.jeffgeerling.com/blog/2024/if-ai-chatbots-are-future-i-hate-it)
 * [2024-07-11, 11:16:27](https://news.ycombinator.com/item?id=40935443) - [Kids Who Get Smartphones Earlier Become Adults with Worse Mental Health (2023)](https://www.afterbabel.com/p/sapien-smartphone-report)
 * [2024-07-11, 11:05:37](https://news.ycombinator.com/item?id=40935381) - [Oncologists on simple, doable, everyday things they do to try to prevent cancer](https://www.theguardian.com/lifeandstyle/article/2024/jul/11/the-experts-oncologists-on-the-simple-doable-everyday-things-they-do-to-try-to-prevent-cancer)
