@@ -1,6 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-11, 12:23:33](https://news.ycombinator.com/item?id=40935901) - [Netanyahu mulled Europe stopover but will fly directly to US amid ICC fears](https://www.timesofisrael.com/liveblog_entry/pm-said-seeking-to-visit-czech-republic-hungary-on-way-to-address-us-congress-amid-concern-over-icc-arrest-warrant-request/)
+* [2024-07-11, 12:31:04](https://news.ycombinator.com/item?id=40935971) - [Microsoft killed my online life after I called Gaza](https://www.bbc.com/news/articles/cger582weplo)
+* [2024-07-11, 12:02:40](https://news.ycombinator.com/item?id=40935740) - [Ultra simplified \"MNIST\" in 60 lines of Python with NumPy](https://github.com/tonio-m/python_neural_network)
+* [2024-07-11, 11:57:27](https://news.ycombinator.com/item?id=40935701) - [Binance built a 100PB log service with Quickwit](https://quickwit.io/blog/quickwit-binance-story)
 * [2024-07-11, 11:41:03](https://news.ycombinator.com/item?id=40935576) - [If AI chatbots are the future, I hate it](https://www.jeffgeerling.com/blog/2024/if-ai-chatbots-are-future-i-hate-it)
 * [2024-07-11, 11:16:27](https://news.ycombinator.com/item?id=40935443) - [Kids Who Get Smartphones Earlier Become Adults with Worse Mental Health (2023)](https://www.afterbabel.com/p/sapien-smartphone-report)
 * [2024-07-11, 11:05:37](https://news.ycombinator.com/item?id=40935381) - [Oncologists on simple, doable, everyday things they do to try to prevent cancer](https://www.theguardian.com/lifeandstyle/article/2024/jul/11/the-experts-oncologists-on-the-simple-doable-everyday-things-they-do-to-try-to-prevent-cancer)
@@ -26,8 +28,6 @@
 * [2024-07-09, 09:07:26](https://news.ycombinator.com/item?id=40913957) - [How the Curse of Lisp impacts your business (even if you don't use Lisp)](https://medium.com/@pc.peterso/how-the-curse-of-lisp-impacts-your-business-even-if-you-dont-use-lisp-33fa2097c6cc)
 * [2024-07-09, 03:24:22](https://news.ycombinator.com/item?id=40912271) - [Real-time audio programming 101: time waits for nothing](http://www.rossbencina.com/code/real-time-audio-programming-101-time-waits-for-nothing)
 * [2024-07-08, 04:48:10](https://news.ycombinator.com/item?id=40902688) - [Children's mental models of recursive LOGO programs (1985)](https://telearn.hal.science/hal-00190537/document)
-* [2024-07-07, 18:38:06](https://news.ycombinator.com/item?id=40899520) - [Pyxel: A retro game engine for Python](https://github.com/kitao/pyxel)
-* [2024-07-07, 09:55:36](https://news.ycombinator.com/item?id=40896383) - [Solving Concurrency Bugs Using Schedules and Imagination](https://ankush.dev/p/tip-concurrency-schedule)
 * [2024-07-07, 09:33:55](https://news.ycombinator.com/item?id=40896306) - [The Planets Today](https://www.theplanetstoday.com/)
 * [2024-07-07, 01:24:30](https://news.ycombinator.com/item?id=40894553) - [The Next New Thing: architecture's gulf between the traditional and the modern](https://theamericanscholar.org/the-next-new-thing-2/)
 

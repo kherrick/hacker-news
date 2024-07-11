@@ -4,7 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-07-11](index.md)
 
+* [2024-07-11, 12:31:04](https://news.ycombinator.com/item?id=40935971) - [Microsoft killed my online life after I called Gaza](https://www.bbc.com/news/articles/cger582weplo)
 * [2024-07-11, 12:23:33](https://news.ycombinator.com/item?id=40935901) - [Netanyahu mulled Europe stopover but will fly directly to US amid ICC fears](https://www.timesofisrael.com/liveblog_entry/pm-said-seeking-to-visit-czech-republic-hungary-on-way-to-address-us-congress-amid-concern-over-icc-arrest-warrant-request/)
+* [2024-07-11, 12:02:40](https://news.ycombinator.com/item?id=40935740) - [Ultra simplified \"MNIST\" in 60 lines of Python with NumPy](https://github.com/tonio-m/python_neural_network)
+* [2024-07-11, 11:57:27](https://news.ycombinator.com/item?id=40935701) - [Binance built a 100PB log service with Quickwit](https://quickwit.io/blog/quickwit-binance-story)
 * [2024-07-11, 11:41:03](https://news.ycombinator.com/item?id=40935576) - [If AI chatbots are the future, I hate it](https://www.jeffgeerling.com/blog/2024/if-ai-chatbots-are-future-i-hate-it)
 * [2024-07-11, 11:16:27](https://news.ycombinator.com/item?id=40935443) - [Kids Who Get Smartphones Earlier Become Adults with Worse Mental Health (2023)](https://www.afterbabel.com/p/sapien-smartphone-report)
 * [2024-07-11, 11:05:37](https://news.ycombinator.com/item?id=40935381) - [Oncologists on simple, doable, everyday things they do to try to prevent cancer](https://www.theguardian.com/lifeandstyle/article/2024/jul/11/the-experts-oncologists-on-the-simple-doable-everyday-things-they-do-to-try-to-prevent-cancer)
