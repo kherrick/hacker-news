@@ -5,6 +5,9 @@
 ### [Archives](../../index.md) for [2024-07-11](index.md)
 
 * [2024-07-11, 18:02:11](https://news.ycombinator.com/item?id=40939080) - [Dynolog: Open-Source System Observability (2022)](https://developers.facebook.com/blog/post/2022/11/16/dynolog-open-source-system-observability/)
+* [2024-07-11, 17:31:48](https://news.ycombinator.com/item?id=40938810) - [Capturing Linux SSL/TLS plaintext without a CA certificate using eBPF](https://github.com/gojue/ecapture)
+* [2024-07-11, 17:27:58](https://news.ycombinator.com/item?id=40938783) - [Ask HN: Where do you keep your 401k investments?](https://news.ycombinator.com/item?id=40938783)
+* [2024-07-11, 17:25:23](https://news.ycombinator.com/item?id=40938749) - [Unveiling the Power of Conditional Statistics for Stock Analysis](https://patterns.id/news/conditional-statistics-inspector/)
 * [2024-07-11, 17:06:06](https://news.ycombinator.com/item?id=40938577) - [FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-Precision](https://www.together.ai/blog/flashattention-3)
 * [2024-07-11, 17:02:13](https://news.ycombinator.com/item?id=40938540) - [GenAI does not Think nor Understand](https://hkubota.wordpress.com/2024/07/12/genai-does-not-think-nor-understand/)
 * [2024-07-11, 16:41:34](https://news.ycombinator.com/item?id=40938388) - [\"Rulers of the Ancient World\" period correct measuring tools](https://www.burn-heart.com/rulers-of-the-ancient-world)
