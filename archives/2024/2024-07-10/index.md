@@ -30,6 +30,7 @@
 * [2024-07-10, 17:51:03](https://news.ycombinator.com/item?id=40929497) - [Ask HN: Do AI-generated images ruin technical posts for anyone else?](https://news.ycombinator.com/item?id=40929497)
 * [2024-07-10, 17:48:30](https://news.ycombinator.com/item?id=40929462) - [Europe's drinking water contaminated by 'forever chemical': NGOs](https://phys.org/news/2024-07-europe-contaminated-chemical-ngos.html)
 * [2024-07-10, 17:36:44](https://news.ycombinator.com/item?id=40929312) - [Tech giant Samsung workers to strike indefinitely](https://www.bbc.com/news/articles/c51yelv4e72o)
+* [2024-07-10, 17:17:05](https://news.ycombinator.com/item?id=40929104) - [Ed Stone, scientist and salesman for the Voyager mission, has died](https://www.cbc.ca/radio/quirks/ed-stone-head-of-the-voyager-mission-that-introduced-us-to-solar-system-s-outer-planets-has-died-1.7235038)
 * [2024-07-10, 17:17:05](https://news.ycombinator.com/item?id=40929104) - [Ed Stone, Top Scientist–and Salesman–For the Voyager Mission, Dies at 88](https://www.wsj.com/science/space-astronomy/ed-stone-scientist-voyager-mission-dies-at-88-44c65bc4)
 * [2024-07-10, 17:13:22](https://news.ycombinator.com/item?id=40929064) - [Scorecard: Assess Open Source Project Security](https://scorecard.dev/)
 * [2024-07-10, 17:01:32](https://news.ycombinator.com/item?id=40928948) - [Motion (YC W20) Is Hiring Senior Front End Engineers](https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn)

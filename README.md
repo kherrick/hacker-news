@@ -12,7 +12,7 @@
 * [2024-07-10, 21:24:49](https://news.ycombinator.com/item?id=40931636) - [Scientists discover a cause of lupus, possible way to reverse it](https://news.feinberg.northwestern.edu/2024/07/10/scientists-discover-a-cause-of-lupus-and-a-possible-way-to-reverse-it/)
 * [2024-07-10, 20:08:06](https://news.ycombinator.com/item?id=40930983) - [The NYT book review is everything book criticism shouldn't be](https://www.currentaffairs.org/news/new-york-times-book-review)
 * [2024-07-10, 19:29:32](https://news.ycombinator.com/item?id=40930549) - [Big Ball of Mud (1999)](http://laputan.org/mud/)
-* [2024-07-10, 17:17:05](https://news.ycombinator.com/item?id=40929104) - [Ed Stone, scientist and salesman for the Voyager mission, has died](https://www.wsj.com/science/space-astronomy/ed-stone-scientist-voyager-mission-dies-at-88-44c65bc4)
+* [2024-07-10, 17:17:05](https://news.ycombinator.com/item?id=40929104) - [Ed Stone, scientist and salesman for the Voyager mission, has died](https://www.cbc.ca/radio/quirks/ed-stone-head-of-the-voyager-mission-that-introduced-us-to-solar-system-s-outer-planets-has-died-1.7235038)
 * [2024-07-10, 16:56:02](https://news.ycombinator.com/item?id=40928893) - [Zed on Linux Is Here](https://zed.dev/linux)
 * [2024-07-10, 14:45:19](https://news.ycombinator.com/item?id=40927481) - [Brian Kernighan on “The Practice of Programming” [video]](https://www.youtube.com/watch?v=_QQ7k5sn2-o)
 * [2024-07-10, 14:42:03](https://news.ycombinator.com/item?id=40927438) - [Things I learned while writing an x86 emulator (2013)](https://www.timdbg.com/posts/useless-x86-trivia/)
