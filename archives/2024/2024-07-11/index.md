@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-07-11](index.md)
 
+* [2024-07-11, 21:36:03](https://news.ycombinator.com/item?id=40940817) - [The work of early Apple tech bloggers have had their names and work AI-zombified](https://www.theverge.com/2024/7/10/24195858/tuaw-unofficial-apple-tech-blog-ai-web-orange-khan)
+* [2024-07-11, 21:17:12](https://news.ycombinator.com/item?id=40940678) - [A Hundred Years of Mocking Vegetarians](https://www.theatlantic.com/newsletters/archive/2024/07/america-has-never-really-known-what-to-make-of-vegetarians/678969/)
 * [2024-07-11, 21:00:06](https://news.ycombinator.com/item?id=40940565) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=40940565)
 * [2024-07-11, 20:59:12](https://news.ycombinator.com/item?id=40940555) - [Ubuntu Security Updates Are a Confusing Mess](https://gld.mcphail.uk/posts/ubuntu-security-updates-are-a-confusing-mess/)
+* [2024-07-11, 20:55:25](https://news.ycombinator.com/item?id=40940531) - [The Kremlin is rewriting Wikipedia](https://www.economist.com/europe/2024/07/09/the-kremlin-is-rewriting-wikipedia)
 * [2024-07-11, 20:43:11](https://news.ycombinator.com/item?id=40940456) - [Helium reservoir with 'mind-boggling' concentrations may be even bigger](https://www.livescience.com/planet-earth/geology/massive-helium-reservoir-with-mind-boggling-concentrations-may-be-even-bigger-more-concentrated-than-we-thought)
 * [2024-07-11, 20:16:21](https://news.ycombinator.com/item?id=40940225) - [WebVM is a server-less virtual Linux environment running client-side](https://webvm.io/)
 * [2024-07-11, 20:13:28](https://news.ycombinator.com/item?id=40940200) - [CodeMirror: Extensible code editor component for the web](https://codemirror.net)
