@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-11, 16:29:31](https://news.ycombinator.com/item?id=40938269) - [Shelley Duvall, a versatile face of 1970s film, dies at 75](https://www.washingtonpost.com/obituaries/2024/07/11/shelley-duvall-dead/)
+* [2024-07-11, 16:41:34](https://news.ycombinator.com/item?id=40938388) - [\"Rulers of the Ancient World\" period correct measuring tools](https://www.burn-heart.com/rulers-of-the-ancient-world)
+* [2024-07-11, 16:06:08](https://news.ycombinator.com/item?id=40938092) - [The Shining actress Shelley Duvall dies at 75](https://www.bbc.com/news/articles/cy77p22jr5lo)
 * [2024-07-11, 13:48:49](https://news.ycombinator.com/item?id=40936808) - [Iconography of the X Window System: The Boot Stipple](https://matttproud.com/blog/posts/x-window-system-boot-stipple.html)
 * [2024-07-11, 12:47:13](https://news.ycombinator.com/item?id=40936126) - [Plane Barely Recovering from Spin in Mountains](https://www.avweb.com/aviation-news/hikers-film-plane-barely-recovering-from-spin-in-mountains/)
 * [2024-07-11, 11:57:27](https://news.ycombinator.com/item?id=40935701) - [Binance built a 100PB log service with Quickwit](https://quickwit.io/blog/quickwit-binance-story)
 * [2024-07-11, 11:44:08](https://news.ycombinator.com/item?id=40935600) - [Serious errors plague DNA tool that's a workhorse of biology](https://www.nature.com/articles/d41586-024-02280-1)
-* [2024-07-11, 11:12:07](https://news.ycombinator.com/item?id=40935416) - [SpiceNice – An Open Database of Culinary Spices](https://spicenice.pages.dev/spices/all/)
 * [2024-07-11, 10:17:08](https://news.ycombinator.com/item?id=40935154) - [Qualcomm's Oryon core: A long time in the making](https://chipsandcheese.com/2024/07/09/qualcomms-oryon-core-a-long-time-in-the-making/)
 * [2024-07-11, 09:28:54](https://news.ycombinator.com/item?id=40934924) - [The Typeset of Wall·E (2018)](https://typesetinthefuture.com/2018/12/04/walle/)
 * [2024-07-11, 08:11:36](https://news.ycombinator.com/item?id=40934608) - [A relativistic framework to establish coordinate time on the Moon and beyond](https://arxiv.org/abs/2402.11150)
