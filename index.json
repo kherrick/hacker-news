@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-07-11, 14:11:38",
-      "https://news.ycombinator.com/item?id=40937036"
+      "2024-07-11, 14:18:32",
+      "https://news.ycombinator.com/item?id=40937093"
     ],
     [
-      "When scientific citations go rogue: Uncovering 'sneaked references'",
-      "https://theconversation.com/when-scientific-citations-go-rogue-uncovering-sneaked-references-233858"
+      "The start of complex life on Earth pushed back by 750M years",
+      "https://cosmosmagazine.com/history/archaeology/complex-life-on-earth-older-than-thought/"
+    ]
+  ],
+  [
+    [
+      "2024-07-11, 14:08:03",
+      "https://news.ycombinator.com/item?id=40936995"
+    ],
+    [
+      "Starlink Mini is now available",
+      "https://www.starlink.com/us/roam"
     ]
   ],
   [
@@ -97,6 +107,16 @@
     [
       "Show HN: Dut, a fast Linux disk usage calculator",
       "https://codeberg.org/201984/dut"
+    ]
+  ],
+  [
+    [
+      "2024-07-10, 22:59:02",
+      "https://news.ycombinator.com/item?id=40932303"
+    ],
+    [
+      "Cryptocurrency mining harms human health as much as traditional mining – study",
+      "https://www.anthropocenemagazine.org/2019/11/the-increasing-toll-of-cryptocurrency-mining-on-climate-and-human-lives/"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2024-07-10, 00:35:38",
-      "https://news.ycombinator.com/item?id=40922739"
-    ],
-    [
-      "RouteLLM: A framework for serving and evaluating LLM routers",
-      "https://github.com/lm-sys/RouteLLM"
-    ]
-  ],
-  [
-    [
       "2024-07-09, 22:34:39",
       "https://news.ycombinator.com/item?id=40921989"
     ],
@@ -237,16 +247,6 @@
     [
       "Children's mental models of recursive LOGO programs (1985)",
       "https://telearn.hal.science/hal-00190537/document"
-    ]
-  ],
-  [
-    [
-      "2024-07-07, 20:55:43",
-      "https://news.ycombinator.com/item?id=40900388"
-    ],
-    [
-      "Did a broken random number generator in Cuba help expose an espionage network? (2020)",
-      "https://www.mattblaze.org/blog/neinnines/"
     ]
   ],
   [
@@ -291,12 +291,12 @@
   ],
   [
     [
-      "2024-07-06, 16:13:09",
-      "https://news.ycombinator.com/item?id=40891342"
+      "2024-07-06, 12:23:01",
+      "https://news.ycombinator.com/item?id=40890002"
     ],
     [
-      "London, Paris, Seoul Show Commuting Power of Fast Regional Rail",
-      "https://www.bloomberg.com/news/features/2024-07-02/london-paris-seoul-show-commuting-power-of-fast-regional-rail"
+      "An analysis of module names inside top PyPI packages",
+      "https://joshcannon.me/2024/07/05/package-names.html"
     ]
   ]
 ]
