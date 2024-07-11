@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-07-11](index.md)
 
+* [2024-07-11, 17:06:06](https://news.ycombinator.com/item?id=40938577) - [FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-Precision](https://www.together.ai/blog/flashattention-3)
 * [2024-07-11, 17:02:13](https://news.ycombinator.com/item?id=40938540) - [GenAI does not Think nor Understand](https://hkubota.wordpress.com/2024/07/12/genai-does-not-think-nor-understand/)
 * [2024-07-11, 16:41:34](https://news.ycombinator.com/item?id=40938388) - [\"Rulers of the Ancient World\" period correct measuring tools](https://www.burn-heart.com/rulers-of-the-ancient-world)
+* [2024-07-11, 16:35:31](https://news.ycombinator.com/item?id=40938325) - [Korvus: Single-Query RAG with Postgres](https://github.com/postgresml/korvus)
 * [2024-07-11, 16:29:31](https://news.ycombinator.com/item?id=40938269) - [Shelley Duvall, a versatile face of 1970s film, dies at 75](https://www.washingtonpost.com/obituaries/2024/07/11/shelley-duvall-dead/)
 * [2024-07-11, 16:06:29](https://news.ycombinator.com/item?id=40938095) - [Future of Space Telescopes in the Era of Super Heavy Lift Launch](https://payloadspace.com/habitable-worlds-observatory-and-the-future-of-space-telescopes-in-the-era-of-heavy-lift-launch/)
 * [2024-07-11, 16:06:08](https://news.ycombinator.com/item?id=40938092) - [The Shining actress Shelley Duvall dies at 75](https://www.bbc.com/news/articles/cy77p22jr5lo)
