@@ -12,6 +12,7 @@
 * [2024-07-11, 16:29:31](https://news.ycombinator.com/item?id=40938269) - [Shelley Duvall, a versatile face of 1970s film, dies at 75](https://www.washingtonpost.com/obituaries/2024/07/11/shelley-duvall-dead/)
 * [2024-07-11, 16:06:29](https://news.ycombinator.com/item?id=40938095) - [Future of Space Telescopes in the Era of Super Heavy Lift Launch](https://payloadspace.com/habitable-worlds-observatory-and-the-future-of-space-telescopes-in-the-era-of-heavy-lift-launch/)
 * [2024-07-11, 16:06:08](https://news.ycombinator.com/item?id=40938092) - [The Shining actress Shelley Duvall dies at 75](https://www.bbc.com/news/articles/cy77p22jr5lo)
+* [2024-07-11, 15:58:25](https://news.ycombinator.com/item?id=40938036) - [Google Play rejecting app update without substantive reason](https://github.com/syncthing/syncthing-android/issues/2064)
 * [2024-07-11, 15:29:08](https://news.ycombinator.com/item?id=40937760) - [DuckDB Meets Postgres](https://blog.paradedb.com/pages/iceberg_lakehouse)
 * [2024-07-11, 14:18:32](https://news.ycombinator.com/item?id=40937093) - [The start of complex life on Earth pushed back by 750M years](https://cosmosmagazine.com/history/archaeology/complex-life-on-earth-older-than-thought/)
 * [2024-07-11, 14:11:38](https://news.ycombinator.com/item?id=40937036) - [When scientific citations go rogue: Uncovering 'sneaked references'](https://theconversation.com/when-scientific-citations-go-rogue-uncovering-sneaked-references-233858)

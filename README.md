@@ -6,6 +6,7 @@
 * [2024-07-11, 16:35:31](https://news.ycombinator.com/item?id=40938325) - [Korvus: Single-Query RAG with Postgres](https://github.com/postgresml/korvus)
 * [2024-07-11, 16:06:29](https://news.ycombinator.com/item?id=40938095) - [Future of Space Telescopes in the Era of Super Heavy Lift Launch](https://payloadspace.com/habitable-worlds-observatory-and-the-future-of-space-telescopes-in-the-era-of-heavy-lift-launch/)
 * [2024-07-11, 16:06:08](https://news.ycombinator.com/item?id=40938092) - [The Shining actress Shelley Duvall dies at 75](https://www.bbc.com/news/articles/cy77p22jr5lo)
+* [2024-07-11, 15:58:25](https://news.ycombinator.com/item?id=40938036) - [Google Play rejecting app update without substantive reason](https://github.com/syncthing/syncthing-android/issues/2064)
 * [2024-07-11, 13:48:49](https://news.ycombinator.com/item?id=40936808) - [Iconography of the X Window System: The Boot Stipple](https://matttproud.com/blog/posts/x-window-system-boot-stipple.html)
 * [2024-07-11, 11:57:27](https://news.ycombinator.com/item?id=40935701) - [Binance built a 100PB log service with Quickwit](https://quickwit.io/blog/quickwit-binance-story)
 * [2024-07-11, 11:44:08](https://news.ycombinator.com/item?id=40935600) - [Serious errors plague DNA tool that's a workhorse of biology](https://www.nature.com/articles/d41586-024-02280-1)
@@ -27,7 +28,6 @@
 * [2024-07-09, 22:34:39](https://news.ycombinator.com/item?id=40921989) - [Multi-agent chatbot murder mystery](https://ai-murder-mystery.onrender.com/)
 * [2024-07-08, 04:48:10](https://news.ycombinator.com/item?id=40902688) - [Children's mental models of recursive LOGO programs (1985)](https://telearn.hal.science/hal-00190537/document)
 * [2024-07-07, 18:38:06](https://news.ycombinator.com/item?id=40899520) - [Pyxel: A retro game engine for Python](https://github.com/kitao/pyxel)
-* [2024-07-07, 12:16:11](https://news.ycombinator.com/item?id=40897075) - [Two amusement park giants just merged. Rollercoaster fans are nervous](https://www.cnn.com/2024/07/06/business/six-flags-cedar-fair-merger-rollercoaster/index.html)
 * [2024-07-07, 09:33:55](https://news.ycombinator.com/item?id=40896306) - [The Planets Today](https://www.theplanetstoday.com/)
 * [2024-07-05, 23:23:19](https://news.ycombinator.com/item?id=40886957) - [Paul Dirac: the purest soul in physics (1998)](https://physicsworld.com/a/paul-dirac-the-purest-soul-in-physics/)
 
