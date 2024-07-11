@@ -74,6 +74,7 @@
 * [2024-07-06, 12:14:12](https://news.ycombinator.com/item?id=40889951) - [Show HN: A JavaScript UI library for imperative JSX](https://www.npmjs.com/package/@matry/dom)
 * [2024-07-06, 12:00:47](https://news.ycombinator.com/item?id=40889888) - [US created 111,000 fewer jobs in April and May than previously estimated](https://www.reuters.com/markets/us/us-employment-wage-growth-expected-moderate-june-2024-07-05/)
 * [2024-07-06, 12:00:12](https://news.ycombinator.com/item?id=40889886) - [Hadrius (YC W23) Is Hiring Founding Engineers in NYC](https://www.ycombinator.com/companies/hadrius/jobs/1z3APsX-founding-engineer)
+* [2024-07-06, 11:59:30](https://news.ycombinator.com/item?id=40889882) - [The Curious Case of Fullers Library and Its Deceptive Link Requests](https://writerbeware.blog/2024/07/05/the-curious-case-of-fullers-library-and-its-deceptive-link-requests/)
 * [2024-07-06, 11:57:29](https://news.ycombinator.com/item?id=40889871) - [With Nothing to Do](https://registerspill.thorstenball.com/p/with-nothing-to-do)
 * [2024-07-06, 11:45:26](https://news.ycombinator.com/item?id=40889822) - [Aya: A minimalist version control system with fewer than 6 commands](https://github.com/Mohamedjcali/aya)
 * [2024-07-06, 11:21:45](https://news.ycombinator.com/item?id=40889723) - ['Money always wins': Inside Sydney's underground tree-killing industry](https://www.abc.net.au/news/2024-07-06/trees-killed-vandalism-crime-sydney-castle-cove-council/104041534)
