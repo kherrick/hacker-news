@@ -11,6 +11,7 @@
 * [2024-07-07, 21:38:52](https://news.ycombinator.com/item?id=40900648) - [I'm Funding Ladybird Because I Can't Fund Firefox](http://jackkelly.name/blog/archives/2024/07/06/im_funding_ladybird_because_i_cant_fund_firefox/)
 * [2024-07-07, 21:16:18](https://news.ycombinator.com/item?id=40900495) - [Construction of the 4th Chinese aircraft carrier has reportedly started](https://meta-defense.fr/en/2024/07/06/4-Chinese-aircraft-carriers-construction/)
 * [2024-07-07, 21:01:44](https://news.ycombinator.com/item?id=40900417) - [Continue (YC S23) Is Hiring a Full-Stack Engineer in San Francisco](https://www.ycombinator.com/companies/continue/jobs/smcxRnM-full-stack-engineer)
+* [2024-07-07, 20:55:43](https://news.ycombinator.com/item?id=40900388) - [Did a broken random number generator in Cuba help expose an espionage network? (2020)](https://www.mattblaze.org/blog/neinnines/)
 * [2024-07-07, 20:16:02](https://news.ycombinator.com/item?id=40900146) - [From the Tensor to Stable Diffusion](https://github.com/jla524/fromthetensor)
 * [2024-07-07, 19:58:22](https://news.ycombinator.com/item?id=40900029) - [Unit is a general purpose visual programming system](https://unit.software/)
 * [2024-07-07, 19:54:36](https://news.ycombinator.com/item?id=40900000) - [Gen AI: Too much spend, too little benefit [pdf]](https://www.goldmansachs.com/intelligence/pages/gs-research/gen-ai-too-much-spend-too-little-benefit/report.pdf)

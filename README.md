@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-11, 14:11:38](https://news.ycombinator.com/item?id=40937036) - [When scientific citations go rogue: Uncovering 'sneaked references'](https://theconversation.com/when-scientific-citations-go-rogue-uncovering-sneaked-references-233858)
 * [2024-07-11, 11:57:27](https://news.ycombinator.com/item?id=40935701) - [Binance built a 100PB log service with Quickwit](https://quickwit.io/blog/quickwit-binance-story)
 * [2024-07-11, 10:17:08](https://news.ycombinator.com/item?id=40935154) - [Qualcomm's Oryon Core: A Long Time in the Making](https://chipsandcheese.com/2024/07/09/qualcomms-oryon-core-a-long-time-in-the-making/)
 * [2024-07-11, 09:28:54](https://news.ycombinator.com/item?id=40934924) - [The Typeset of Wall·E (2018)](https://typesetinthefuture.com/2018/12/04/walle/)
@@ -12,7 +13,6 @@
 * [2024-07-10, 22:08:41](https://news.ycombinator.com/item?id=40932006) - [An Abundance of Katherines: The Game Theory of Baby Naming](https://arxiv.org/abs/2404.00732)
 * [2024-07-10, 21:24:49](https://news.ycombinator.com/item?id=40931636) - [Scientists discover a cause of lupus, possible way to reverse it](https://news.feinberg.northwestern.edu/2024/07/10/scientists-discover-a-cause-of-lupus-and-a-possible-way-to-reverse-it/)
 * [2024-07-10, 19:29:32](https://news.ycombinator.com/item?id=40930549) - [Big Ball of Mud (1999)](http://laputan.org/mud/)
-* [2024-07-10, 17:17:05](https://news.ycombinator.com/item?id=40929104) - [Ed Stone, scientist and salesman for the Voyager mission, has died](https://www.cbc.ca/radio/quirks/ed-stone-head-of-the-voyager-mission-that-introduced-us-to-solar-system-s-outer-planets-has-died-1.7235038)
 * [2024-07-10, 16:56:02](https://news.ycombinator.com/item?id=40928893) - [Zed on Linux Is Here](https://zed.dev/linux)
 * [2024-07-10, 14:45:19](https://news.ycombinator.com/item?id=40927481) - [Brian Kernighan on “The Practice of Programming” [video]](https://www.youtube.com/watch?v=_QQ7k5sn2-o)
 * [2024-07-10, 14:42:03](https://news.ycombinator.com/item?id=40927438) - [Things I learned while writing an x86 emulator (2013)](https://www.timdbg.com/posts/useless-x86-trivia/)
@@ -24,12 +24,12 @@
 * [2024-07-09, 22:34:39](https://news.ycombinator.com/item?id=40921989) - [Multi-agent chatbot murder mystery](https://ai-murder-mystery.onrender.com/)
 * [2024-07-09, 03:24:22](https://news.ycombinator.com/item?id=40912271) - [Real-time audio programming 101: time waits for nothing](http://www.rossbencina.com/code/real-time-audio-programming-101-time-waits-for-nothing)
 * [2024-07-08, 04:48:10](https://news.ycombinator.com/item?id=40902688) - [Children's mental models of recursive LOGO programs (1985)](https://telearn.hal.science/hal-00190537/document)
+* [2024-07-07, 20:55:43](https://news.ycombinator.com/item?id=40900388) - [Did a broken random number generator in Cuba help expose an espionage network? (2020)](https://www.mattblaze.org/blog/neinnines/)
 * [2024-07-07, 18:38:06](https://news.ycombinator.com/item?id=40899520) - [Pyxel: A retro game engine for Python](https://github.com/kitao/pyxel)
 * [2024-07-07, 09:55:36](https://news.ycombinator.com/item?id=40896383) - [Solving Concurrency Bugs Using Schedules and Imagination](https://ankush.dev/p/tip-concurrency-schedule)
 * [2024-07-07, 09:33:55](https://news.ycombinator.com/item?id=40896306) - [The Planets Today](https://www.theplanetstoday.com/)
 * [2024-07-06, 16:19:41](https://news.ycombinator.com/item?id=40891391) - [Using the 5S Principle in Coding](https://santhoshsundar.medium.com/using-the-5s-principle-in-coding-6237a1614a02)
 * [2024-07-06, 16:13:09](https://news.ycombinator.com/item?id=40891342) - [London, Paris, Seoul Show Commuting Power of Fast Regional Rail](https://www.bloomberg.com/news/features/2024-07-02/london-paris-seoul-show-commuting-power-of-fast-regional-rail)
-* [2024-07-06, 11:59:30](https://news.ycombinator.com/item?id=40889882) - [The Curious Case of Fullers Library and Its Deceptive Link Requests](https://writerbeware.blog/2024/07/05/the-curious-case-of-fullers-library-and-its-deceptive-link-requests/)
 
 ## [Archives](archives/index.md)
 
