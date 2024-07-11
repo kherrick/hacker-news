@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-11, 20:16:21](https://news.ycombinator.com/item?id=40940225) - [WebVM is a server-less virtual Linux environment running client-side](https://webvm.io/)
+* [2024-07-11, 20:07:40](https://news.ycombinator.com/item?id=40940158) - [Ask HN: Trouble learning things I view as solutions looking for a problem](https://news.ycombinator.com/item?id=40940158)
 * [2024-07-11, 19:21:47](https://news.ycombinator.com/item?id=40939707) - [Karpathy: Let's reproduce GPT-2 (1.6B): one 8XH100 node 24h $672 in llm.c](https://github.com/karpathy/llm.c/discussions/677)
-* [2024-07-11, 19:12:20](https://news.ycombinator.com/item?id=40939627) - [Apple Vision Pro U.S. Sales Are All but Dead, Market Analysts Say](https://gizmodo.com/apple-vision-pro-u-s-sales-2000469302)
 * [2024-07-11, 18:02:11](https://news.ycombinator.com/item?id=40939080) - [Dynolog: Open-Source System Observability (2022)](https://developers.facebook.com/blog/post/2022/11/16/dynolog-open-source-system-observability/)
 * [2024-07-11, 17:36:12](https://news.ycombinator.com/item?id=40938851) - [How water controls the speed of muscle contraction](https://phys.org/news/2024-07-muscle-machine.html)
 * [2024-07-11, 17:31:48](https://news.ycombinator.com/item?id=40938810) - [Capturing Linux SSL/TLS plaintext without a CA certificate using eBPF](https://github.com/gojue/ecapture)
@@ -12,7 +13,6 @@
 * [2024-07-11, 15:52:14](https://news.ycombinator.com/item?id=40937973) - [How to Survive 3 Years in North Korea as a Foreigner](https://mydiplomaticlife.com/how-to-survive-3-years-in-north-korea-as-a-foreigner/)
 * [2024-07-11, 13:48:49](https://news.ycombinator.com/item?id=40936808) - [Iconography of the X Window System: The Boot Stipple](https://matttproud.com/blog/posts/x-window-system-boot-stipple.html)
 * [2024-07-11, 11:57:27](https://news.ycombinator.com/item?id=40935701) - [Binance built a 100PB log service with Quickwit](https://quickwit.io/blog/quickwit-binance-story)
-* [2024-07-11, 11:44:08](https://news.ycombinator.com/item?id=40935600) - [Serious errors plague DNA tool that's a workhorse of biology](https://www.nature.com/articles/d41586-024-02280-1)
 * [2024-07-11, 10:17:08](https://news.ycombinator.com/item?id=40935154) - [Qualcomm's Oryon core: A long time in the making](https://chipsandcheese.com/2024/07/09/qualcomms-oryon-core-a-long-time-in-the-making/)
 * [2024-07-11, 09:28:54](https://news.ycombinator.com/item?id=40934924) - [The Typeset of Wall·E (2018)](https://typesetinthefuture.com/2018/12/04/walle/)
 * [2024-07-11, 08:11:36](https://news.ycombinator.com/item?id=40934608) - [A relativistic framework to establish coordinate time on the Moon and beyond](https://arxiv.org/abs/2402.11150)
