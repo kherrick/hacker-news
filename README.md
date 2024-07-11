@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-11, 19:21:47](https://news.ycombinator.com/item?id=40939707) - [Karpathy: Let's reproduce GPT-2 (1.6B): one 8XH100 node 24h $672 in llm.c](https://github.com/karpathy/llm.c/discussions/677)
+* [2024-07-11, 19:12:20](https://news.ycombinator.com/item?id=40939627) - [Apple Vision Pro U.S. Sales Are All but Dead, Market Analysts Say](https://gizmodo.com/apple-vision-pro-u-s-sales-2000469302)
 * [2024-07-11, 19:05:13](https://news.ycombinator.com/item?id=40939561) - [Physicists: Tachyons can be reconciled with the special theory of relativity](https://phys.org/news/2024-07-physicists-tachyons-special-theory.html)
 * [2024-07-11, 18:02:11](https://news.ycombinator.com/item?id=40939080) - [Dynolog: Open-Source System Observability (2022)](https://developers.facebook.com/blog/post/2022/11/16/dynolog-open-source-system-observability/)
 * [2024-07-11, 17:31:48](https://news.ycombinator.com/item?id=40938810) - [Capturing Linux SSL/TLS plaintext without a CA certificate using eBPF](https://github.com/gojue/ecapture)
@@ -28,7 +29,6 @@
 * [2024-07-10, 14:45:19](https://news.ycombinator.com/item?id=40927481) - [Brian Kernighan on “The Practice of Programming” [video]](https://www.youtube.com/watch?v=_QQ7k5sn2-o)
 * [2024-07-10, 14:42:03](https://news.ycombinator.com/item?id=40927438) - [Things I learned while writing an x86 emulator (2013)](https://www.timdbg.com/posts/useless-x86-trivia/)
 * [2024-07-08, 04:48:10](https://news.ycombinator.com/item?id=40902688) - [Children's mental models of recursive LOGO programs (1985)](https://telearn.hal.science/hal-00190537/document)
-* [2024-07-07, 18:38:06](https://news.ycombinator.com/item?id=40899520) - [Pyxel: A retro game engine for Python](https://github.com/kitao/pyxel)
 * [2024-07-07, 09:33:55](https://news.ycombinator.com/item?id=40896306) - [The Planets Today](https://www.theplanetstoday.com/)
 
 ## [Archives](archives/index.md)
