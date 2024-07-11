@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-07-11, 15:29:08",
+      "https://news.ycombinator.com/item?id=40937760"
+    ],
+    [
+      "DuckDB Meets Postgres",
+      "https://blog.paradedb.com/pages/iceberg_lakehouse"
+    ]
+  ],
+  [
+    [
+      "2024-07-11, 13:48:49",
+      "https://news.ycombinator.com/item?id=40936808"
+    ],
+    [
+      "Iconography of the X Window System: The Boot Stipple",
+      "https://matttproud.com/blog/posts/x-window-system-boot-stipple.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-11, 13:10:20",
+      "https://news.ycombinator.com/item?id=40936357"
+    ],
+    [
+      "Why Doesn't Advice Work?",
+      "https://dynomight.net/advice/"
+    ]
+  ],
+  [
+    [
       "2024-07-11, 11:57:27",
       "https://news.ycombinator.com/item?id=40935701"
     ],
@@ -17,6 +47,16 @@
     [
       "Serious errors plague DNA tool that's a workhorse of biology",
       "https://www.nature.com/articles/d41586-024-02280-1"
+    ]
+  ],
+  [
+    [
+      "2024-07-11, 11:42:02",
+      "https://news.ycombinator.com/item?id=40935584"
+    ],
+    [
+      "Comparing open source BGP stacks",
+      "https://elegantnetwork.github.io/posts/comparing-open-source-bgp-stacks/"
     ]
   ],
   [
@@ -81,32 +121,12 @@
   ],
   [
     [
-      "2024-07-11, 04:49:10",
-      "https://news.ycombinator.com/item?id=40933756"
-    ],
-    [
-      "The Future of Trash [pdf]",
-      "https://dsny.cityofnewyork.us/wp-content/uploads/reports/future-of-trash-april-2023.pdf"
-    ]
-  ],
-  [
-    [
       "2024-07-11, 01:47:46",
       "https://news.ycombinator.com/item?id=40933110"
     ],
     [
       "Engineering principles for building financial systems",
       "https://substack.wasteman.codes/p/engineering-principles-and-best-practices"
-    ]
-  ],
-  [
-    [
-      "2024-07-11, 01:09:13",
-      "https://news.ycombinator.com/item?id=40932948"
-    ],
-    [
-      "Ask HN: Who's been hired through Hacker News?",
-      "https://news.ycombinator.com/item?id=40932948"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2024-07-10, 13:26:15",
-      "https://news.ycombinator.com/item?id=40926648"
-    ],
-    [
-      "AMD to buy Silo AI for $665M",
-      "https://www.ft.com/content/7b8d2057-2687-45b3-bae4-1488a75ac5b2"
-    ]
-  ],
-  [
-    [
       "2024-07-10, 13:13:51",
       "https://news.ycombinator.com/item?id=40926515"
     ],
@@ -287,16 +297,6 @@
     [
       "The Planets Today",
       "https://www.theplanetstoday.com/"
-    ]
-  ],
-  [
-    [
-      "2024-07-06, 16:19:41",
-      "https://news.ycombinator.com/item?id=40891391"
-    ],
-    [
-      "Using the 5S Principle in Coding",
-      "https://santhoshsundar.medium.com/using-the-5s-principle-in-coding-6237a1614a02"
     ]
   ]
 ]
