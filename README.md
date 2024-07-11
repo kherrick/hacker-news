@@ -6,7 +6,7 @@
 * [2024-07-11, 20:16:21](https://news.ycombinator.com/item?id=40940225) - [WebVM is a server-less virtual Linux environment running client-side](https://webvm.io/)
 * [2024-07-11, 20:10:44](https://news.ycombinator.com/item?id=40940181) - [Show HN: Mandala – Automatically save, query and version Python computations](https://github.com/amakelov/mandala)
 * [2024-07-11, 20:07:40](https://news.ycombinator.com/item?id=40940158) - [Ask HN: Trouble learning things I view as solutions looking for a problem](https://news.ycombinator.com/item?id=40940158)
-* [2024-07-11, 19:21:08](https://news.ycombinator.com/item?id=40939703) - [Charm creates a potent therapy candidate for fatal prion diseases](https://news.mit.edu/2024/charmed-collaboration-creates-therapy-candidate-fatal-prion-diseases-0627)
+* [2024-07-11, 19:21:08](https://news.ycombinator.com/item?id=40939703) - [Gene-silencing tool shows promise as a future therapy against prion diseases](https://news.mit.edu/2024/charmed-collaboration-creates-therapy-candidate-fatal-prion-diseases-0627)
 * [2024-07-11, 18:15:27](https://news.ycombinator.com/item?id=40939184) - [The Great Lightbulb Conspiracy (2014)](https://spectrum.ieee.org/the-great-lightbulb-conspiracy)
 * [2024-07-11, 17:43:58](https://news.ycombinator.com/item?id=40938923) - [The economics of a Postgres free tier](https://xata.io/blog/postgres-free-tier)
 * [2024-07-11, 17:31:48](https://news.ycombinator.com/item?id=40938810) - [Capturing Linux SSL/TLS plaintext without a CA certificate using eBPF](https://github.com/gojue/ecapture)
