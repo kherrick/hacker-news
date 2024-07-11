@@ -1,12 +1,32 @@
 [
   [
     [
-      "2024-07-11, 12:23:33",
-      "https://news.ycombinator.com/item?id=40935901"
+      "2024-07-11, 12:31:04",
+      "https://news.ycombinator.com/item?id=40935971"
     ],
     [
-      "Netanyahu mulled Europe stopover but will fly directly to US amid ICC fears",
-      "https://www.timesofisrael.com/liveblog_entry/pm-said-seeking-to-visit-czech-republic-hungary-on-way-to-address-us-congress-amid-concern-over-icc-arrest-warrant-request/"
+      "Microsoft killed my online life after I called Gaza",
+      "https://www.bbc.com/news/articles/cger582weplo"
+    ]
+  ],
+  [
+    [
+      "2024-07-11, 12:02:40",
+      "https://news.ycombinator.com/item?id=40935740"
+    ],
+    [
+      "Ultra simplified \"MNIST\" in 60 lines of Python with NumPy",
+      "https://github.com/tonio-m/python_neural_network"
+    ]
+  ],
+  [
+    [
+      "2024-07-11, 11:57:27",
+      "https://news.ycombinator.com/item?id=40935701"
+    ],
+    [
+      "Binance built a 100PB log service with Quickwit",
+      "https://quickwit.io/blog/quickwit-binance-story"
     ]
   ],
   [
@@ -257,26 +277,6 @@
     [
       "Children's mental models of recursive LOGO programs (1985)",
       "https://telearn.hal.science/hal-00190537/document"
-    ]
-  ],
-  [
-    [
-      "2024-07-07, 18:38:06",
-      "https://news.ycombinator.com/item?id=40899520"
-    ],
-    [
-      "Pyxel: A retro game engine for Python",
-      "https://github.com/kitao/pyxel"
-    ]
-  ],
-  [
-    [
-      "2024-07-07, 09:55:36",
-      "https://news.ycombinator.com/item?id=40896383"
-    ],
-    [
-      "Solving Concurrency Bugs Using Schedules and Imagination",
-      "https://ankush.dev/p/tip-concurrency-schedule"
     ]
   ],
   [
