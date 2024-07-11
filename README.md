@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-11, 14:18:32](https://news.ycombinator.com/item?id=40937093) - [The start of complex life on Earth pushed back by 750M years](https://cosmosmagazine.com/history/archaeology/complex-life-on-earth-older-than-thought/)
 * [2024-07-11, 14:08:03](https://news.ycombinator.com/item?id=40936995) - [Starlink Mini is now available](https://www.starlink.com/us/roam)
 * [2024-07-11, 11:57:27](https://news.ycombinator.com/item?id=40935701) - [Binance built a 100PB log service with Quickwit](https://quickwit.io/blog/quickwit-binance-story)
+* [2024-07-11, 11:44:08](https://news.ycombinator.com/item?id=40935600) - [Serious errors plague DNA tool that's a workhorse of biology](https://www.nature.com/articles/d41586-024-02280-1)
 * [2024-07-11, 10:17:08](https://news.ycombinator.com/item?id=40935154) - [Qualcomm's Oryon Core: A Long Time in the Making](https://chipsandcheese.com/2024/07/09/qualcomms-oryon-core-a-long-time-in-the-making/)
 * [2024-07-11, 09:28:54](https://news.ycombinator.com/item?id=40934924) - [The Typeset of Wall·E (2018)](https://typesetinthefuture.com/2018/12/04/walle/)
 * [2024-07-11, 08:11:36](https://news.ycombinator.com/item?id=40934608) - [A Relativistic Framework to Establish Coordinate Time on the Moon and Beyond](https://arxiv.org/abs/2402.11150)
@@ -11,7 +11,7 @@
 * [2024-07-11, 07:00:03](https://news.ycombinator.com/item?id=40934279) - [Supabase (YC S20) Is Hiring an Auth Engineer (Remote)](https://boards.greenhouse.io/supabase/jobs/5225004004)
 * [2024-07-11, 01:47:46](https://news.ycombinator.com/item?id=40933110) - [Engineering principles for building financial systems](https://substack.wasteman.codes/p/engineering-principles-and-best-practices)
 * [2024-07-10, 23:29:56](https://news.ycombinator.com/item?id=40932492) - [Show HN: Dut, a fast Linux disk usage calculator](https://codeberg.org/201984/dut)
-* [2024-07-10, 22:59:02](https://news.ycombinator.com/item?id=40932303) - [Cryptocurrency mining harms human health as much as traditional mining – study](https://www.anthropocenemagazine.org/2019/11/the-increasing-toll-of-cryptocurrency-mining-on-climate-and-human-lives/)
+* [2024-07-10, 22:23:00](https://news.ycombinator.com/item?id=40932093) - [Model Rocket Nails Vertical Landing After Three-Year Effort](https://hackaday.com/2024/07/10/model-rocket-nails-vertical-landing-after-three-year-effort/)
 * [2024-07-10, 22:08:41](https://news.ycombinator.com/item?id=40932006) - [An Abundance of Katherines: The Game Theory of Baby Naming](https://arxiv.org/abs/2404.00732)
 * [2024-07-10, 21:24:49](https://news.ycombinator.com/item?id=40931636) - [Scientists discover a cause of lupus, possible way to reverse it](https://news.feinberg.northwestern.edu/2024/07/10/scientists-discover-a-cause-of-lupus-and-a-possible-way-to-reverse-it/)
 * [2024-07-10, 19:29:32](https://news.ycombinator.com/item?id=40930549) - [Big Ball of Mud (1999)](http://laputan.org/mud/)

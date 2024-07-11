@@ -14,6 +14,7 @@
 * [2024-07-11, 11:57:27](https://news.ycombinator.com/item?id=40935701) - [Binance built a 100PB log service with Quickwit](https://quickwit.io/blog/quickwit-binance-story)
 * [2024-07-11, 11:55:41](https://news.ycombinator.com/item?id=40935688) - [China's clean energy pushes coal to record-low 53% share of power in May 2024](https://www.carbonbrief.org/analysis-chinas-clean-energy-pushes-coal-to-record-low-53-share-of-power-in-may-2024/)
 * [2024-07-11, 11:54:48](https://news.ycombinator.com/item?id=40935682) - [Lithium ion batteries a growing source of PFAS pollution, study finds](https://phys.org/news/2024-07-lithium-ion-batteries-source-pfas.html)
+* [2024-07-11, 11:44:08](https://news.ycombinator.com/item?id=40935600) - [Serious errors plague DNA tool that's a workhorse of biology](https://www.nature.com/articles/d41586-024-02280-1)
 * [2024-07-11, 11:41:03](https://news.ycombinator.com/item?id=40935576) - [If AI chatbots are the future, I hate it](https://www.jeffgeerling.com/blog/2024/if-ai-chatbots-are-future-i-hate-it)
 * [2024-07-11, 11:16:27](https://news.ycombinator.com/item?id=40935443) - [Kids Who Get Smartphones Earlier Become Adults with Worse Mental Health (2023)](https://www.afterbabel.com/p/sapien-smartphone-report)
 * [2024-07-11, 11:05:37](https://news.ycombinator.com/item?id=40935381) - [Oncologists on simple, doable, everyday things they do to try to prevent cancer](https://www.theguardian.com/lifeandstyle/article/2024/jul/11/the-experts-oncologists-on-the-simple-doable-everyday-things-they-do-to-try-to-prevent-cancer)
