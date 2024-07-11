@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2024-07-09, 11:44:40",
-      "https://news.ycombinator.com/item?id=40914958"
-    ],
-    [
-      "Circos – Circular Visualization",
-      "https://circos.ca/"
-    ]
-  ],
-  [
-    [
       "2024-07-09, 03:24:22",
       "https://news.ycombinator.com/item?id=40912271"
     ],
@@ -297,6 +287,16 @@
     [
       "An analysis of module names inside top PyPI packages",
       "https://joshcannon.me/2024/07/05/package-names.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-06, 11:59:30",
+      "https://news.ycombinator.com/item?id=40889882"
+    ],
+    [
+      "The Curious Case of Fullers Library and Its Deceptive Link Requests",
+      "https://writerbeware.blog/2024/07/05/the-curious-case-of-fullers-library-and-its-deceptive-link-requests/"
     ]
   ]
 ]
