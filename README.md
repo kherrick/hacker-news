@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-11, 09:23:32](https://news.ycombinator.com/item?id=40934898) - [Majority of sites and apps use dark patterns in the marketing of subscriptions](https://icpen.org/news/1360)
+* [2024-07-11, 08:42:03](https://news.ycombinator.com/item?id=40934732) - [GitHub Copilot is not infringing your copyright](https://felixreda.eu/2021/07/github-copilot-is-not-infringing-your-copyright/)
 * [2024-07-11, 08:25:55](https://news.ycombinator.com/item?id=40934670) - [Gemini can't be disabled on Google Docs](https://twitter.com/kevinbankston/status/1811075836558114968)
 * [2024-07-11, 08:06:38](https://news.ycombinator.com/item?id=40934582) - [The Overengineered Resume with Zola, JSON Resume, Weasyprint, and Nix](https://ktema.org/articles/the-overengineered-resume/)
 * [2024-07-11, 07:00:03](https://news.ycombinator.com/item?id=40934279) - [Supabase (YC S20) Is Hiring an Auth Engineer (Remote)](https://boards.greenhouse.io/supabase/jobs/5225004004)
@@ -7,7 +9,6 @@
 * [2024-07-10, 23:29:56](https://news.ycombinator.com/item?id=40932492) - [Show HN: Dut, a fast Linux disk usage calculator](https://codeberg.org/201984/dut)
 * [2024-07-10, 22:08:41](https://news.ycombinator.com/item?id=40932006) - [An Abundance of Katherines: The Game Theory of Baby Naming](https://arxiv.org/abs/2404.00732)
 * [2024-07-10, 21:24:49](https://news.ycombinator.com/item?id=40931636) - [Scientists discover a cause of lupus, possible way to reverse it](https://news.feinberg.northwestern.edu/2024/07/10/scientists-discover-a-cause-of-lupus-and-a-possible-way-to-reverse-it/)
-* [2024-07-10, 20:08:06](https://news.ycombinator.com/item?id=40930983) - [The NYT book review is everything book criticism shouldn't be](https://www.currentaffairs.org/news/new-york-times-book-review)
 * [2024-07-10, 19:29:32](https://news.ycombinator.com/item?id=40930549) - [Big Ball of Mud (1999)](http://laputan.org/mud/)
 * [2024-07-10, 17:17:05](https://news.ycombinator.com/item?id=40929104) - [Ed Stone, scientist and salesman for the Voyager mission, has died](https://www.cbc.ca/radio/quirks/ed-stone-head-of-the-voyager-mission-that-introduced-us-to-solar-system-s-outer-planets-has-died-1.7235038)
 * [2024-07-10, 16:56:02](https://news.ycombinator.com/item?id=40928893) - [Zed on Linux Is Here](https://zed.dev/linux)
@@ -21,7 +22,6 @@
 * [2024-07-09, 22:34:39](https://news.ycombinator.com/item?id=40921989) - [Multi-agent chatbot murder mystery](https://ai-murder-mystery.onrender.com/)
 * [2024-07-09, 19:38:36](https://news.ycombinator.com/item?id=40920122) - [How CD pregaps gained their hidden track superpowers](https://tedium.co/2024/07/06/compact-disc-pregap-history/)
 * [2024-07-09, 14:48:59](https://news.ycombinator.com/item?id=40916786) - [Turbopuffer: Fast search on object storage](https://turbopuffer.com/blog/turbopuffer)
-* [2024-07-09, 11:44:40](https://news.ycombinator.com/item?id=40914958) - [Circos – Circular Visualization](https://circos.ca/)
 * [2024-07-09, 03:24:22](https://news.ycombinator.com/item?id=40912271) - [Real-time audio programming 101: time waits for nothing](http://www.rossbencina.com/code/real-time-audio-programming-101-time-waits-for-nothing)
 * [2024-07-08, 04:48:10](https://news.ycombinator.com/item?id=40902688) - [Children's mental models of recursive LOGO programs (1985)](https://telearn.hal.science/hal-00190537/document)
 * [2024-07-07, 18:38:06](https://news.ycombinator.com/item?id=40899520) - [Pyxel: A retro game engine for Python](https://github.com/kitao/pyxel)
