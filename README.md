@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-11, 22:18:35](https://news.ycombinator.com/item?id=40941115) - [Sonnet 3.5: Please write an asteroids game](https://claude.site/artifacts/a0d4590f-5a5e-40ac-8a27-1c4db47df938)
 * [2024-07-11, 21:00:06](https://news.ycombinator.com/item?id=40940565) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=40940565)
 * [2024-07-11, 20:16:21](https://news.ycombinator.com/item?id=40940225) - [WebVM is a server-less virtual Linux environment running client-side](https://webvm.io/)
 * [2024-07-11, 20:10:44](https://news.ycombinator.com/item?id=40940181) - [Show HN: Mandala – Automatically save, query and version Python computations](https://github.com/amakelov/mandala)
@@ -23,7 +24,6 @@
 * [2024-07-11, 08:06:38](https://news.ycombinator.com/item?id=40934582) - [The Overengineered Resume with Zola, JSON Resume, Weasyprint, and Nix (2023)](https://ktema.org/articles/the-overengineered-resume/)
 * [2024-07-11, 07:44:29](https://news.ycombinator.com/item?id=40934495) - [Second Factor SMS: Worse Than Its Reputation](https://www.ccc.de/en/updates/2024/2fa-sms)
 * [2024-07-11, 01:47:46](https://news.ycombinator.com/item?id=40933110) - [Engineering principles for building financial systems](https://substack.wasteman.codes/p/engineering-principles-and-best-practices)
-* [2024-07-10, 23:29:56](https://news.ycombinator.com/item?id=40932492) - [Show HN: Dut – a fast Linux disk usage calculator](https://codeberg.org/201984/dut)
 * [2024-07-10, 22:08:41](https://news.ycombinator.com/item?id=40932006) - [An abundance of Katherines: The game theory of baby naming](https://arxiv.org/abs/2404.00732)
 * [2024-07-10, 21:24:49](https://news.ycombinator.com/item?id=40931636) - [Scientists discover a cause of lupus, possible way to reverse it](https://news.feinberg.northwestern.edu/2024/07/10/scientists-discover-a-cause-of-lupus-and-a-possible-way-to-reverse-it/)
 * [2024-07-10, 21:20:41](https://news.ycombinator.com/item?id=40931590) - [Physicists have created the most fiendishly difficult maze](https://www.sciencealert.com/physicists-have-created-the-worlds-most-fiendishly-difficult-maze)

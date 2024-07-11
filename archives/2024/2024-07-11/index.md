@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-11](index.md)
 
+* [2024-07-11, 22:18:35](https://news.ycombinator.com/item?id=40941115) - [Sonnet 3.5: Please write an asteroids game](https://claude.site/artifacts/a0d4590f-5a5e-40ac-8a27-1c4db47df938)
 * [2024-07-11, 21:36:03](https://news.ycombinator.com/item?id=40940817) - [The work of early Apple tech bloggers have had their names and work AI-zombified](https://www.theverge.com/2024/7/10/24195858/tuaw-unofficial-apple-tech-blog-ai-web-orange-khan)
 * [2024-07-11, 21:17:12](https://news.ycombinator.com/item?id=40940678) - [A Hundred Years of Mocking Vegetarians](https://www.theatlantic.com/newsletters/archive/2024/07/america-has-never-really-known-what-to-make-of-vegetarians/678969/)
 * [2024-07-11, 21:00:06](https://news.ycombinator.com/item?id=40940565) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=40940565)
