@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-11](index.md)
 
+* [2024-07-11, 09:28:54](https://news.ycombinator.com/item?id=40934924) - [The Typeset of Wall·E](https://typesetinthefuture.com/2018/12/04/walle/)
 * [2024-07-11, 09:23:32](https://news.ycombinator.com/item?id=40934898) - [Majority of sites and apps use dark patterns in the marketing of subscriptions](https://icpen.org/news/1360)
 * [2024-07-11, 08:42:03](https://news.ycombinator.com/item?id=40934732) - [GitHub Copilot is not infringing your copyright](https://felixreda.eu/2021/07/github-copilot-is-not-infringing-your-copyright/)
 * [2024-07-11, 08:29:53](https://news.ycombinator.com/item?id=40934683) - [Show HN: I made the app to help users make their static facial photos move](https://liveportrait.org)
@@ -13,6 +14,7 @@
 * [2024-07-11, 07:44:29](https://news.ycombinator.com/item?id=40934495) - [Second Factor SMS: Worse Than Its Reputation](https://www.ccc.de/en/updates/2024/2fa-sms)
 * [2024-07-11, 07:00:03](https://news.ycombinator.com/item?id=40934279) - [Supabase (YC S20) Is Hiring an Auth Engineer (Remote)](https://boards.greenhouse.io/supabase/jobs/5225004004)
 * [2024-07-11, 06:42:58](https://news.ycombinator.com/item?id=40934177) - [Xen Project in peril as colo provider housing test platform closes](https://www.theregister.com/2024/07/11/xen_project_colo_closes_warning/)
+* [2024-07-11, 06:22:50](https://news.ycombinator.com/item?id=40934097) - [First Contact with SQLite](https://brandur.org/atoms/gubk5w2)
 * [2024-07-11, 05:27:21](https://news.ycombinator.com/item?id=40933910) - [Night owls have better brain function than morning people, study suggests](https://news.sky.com/story/night-owls-have-better-brain-function-than-morning-people-study-suggests-13176210)
 * [2024-07-11, 03:38:23](https://news.ycombinator.com/item?id=40933477) - [Night owls' cognitive function 'superior' to early risers, study suggests](https://www.theguardian.com/science/article/2024/jul/11/night-owls-cognitive-function-superior-to-early-risers-study-suggests)
 * [2024-07-11, 03:30:18](https://news.ycombinator.com/item?id=40933434) - [Brian Lunduke: \"macOS Sucks\" [video]](https://www.youtube.com/watch?v=3uGeHdNMgL8)
