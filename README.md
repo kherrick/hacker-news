@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-11, 15:29:08](https://news.ycombinator.com/item?id=40937760) - [DuckDB Meets Postgres](https://blog.paradedb.com/pages/iceberg_lakehouse)
 * [2024-07-11, 13:48:49](https://news.ycombinator.com/item?id=40936808) - [Iconography of the X Window System: The Boot Stipple](https://matttproud.com/blog/posts/x-window-system-boot-stipple.html)
 * [2024-07-11, 13:10:20](https://news.ycombinator.com/item?id=40936357) - [Why Doesn't Advice Work?](https://dynomight.net/advice/)
+* [2024-07-11, 12:47:13](https://news.ycombinator.com/item?id=40936126) - [Plane Barely Recovering from Spin in Mountains](https://www.avweb.com/aviation-news/hikers-film-plane-barely-recovering-from-spin-in-mountains/)
 * [2024-07-11, 11:57:27](https://news.ycombinator.com/item?id=40935701) - [Binance built a 100PB log service with Quickwit](https://quickwit.io/blog/quickwit-binance-story)
 * [2024-07-11, 11:44:08](https://news.ycombinator.com/item?id=40935600) - [Serious errors plague DNA tool that's a workhorse of biology](https://www.nature.com/articles/d41586-024-02280-1)
 * [2024-07-11, 11:42:02](https://news.ycombinator.com/item?id=40935584) - [Comparing open source BGP stacks](https://elegantnetwork.github.io/posts/comparing-open-source-bgp-stacks/)

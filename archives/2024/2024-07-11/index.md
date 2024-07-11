@@ -12,6 +12,7 @@
 * [2024-07-11, 13:48:49](https://news.ycombinator.com/item?id=40936808) - [Iconography of the X Window System: The Boot Stipple](https://matttproud.com/blog/posts/x-window-system-boot-stipple.html)
 * [2024-07-11, 13:37:39](https://news.ycombinator.com/item?id=40936681) - [Say Goodbye to Redbox](https://www.engadget.com/say-goodbye-to-redbox-130044411.html)
 * [2024-07-11, 13:10:20](https://news.ycombinator.com/item?id=40936357) - [Why Doesn't Advice Work?](https://dynomight.net/advice/)
+* [2024-07-11, 12:47:13](https://news.ycombinator.com/item?id=40936126) - [Plane Barely Recovering from Spin in Mountains](https://www.avweb.com/aviation-news/hikers-film-plane-barely-recovering-from-spin-in-mountains/)
 * [2024-07-11, 12:31:04](https://news.ycombinator.com/item?id=40935971) - [Microsoft killed my online life after I called Gaza](https://www.bbc.com/news/articles/cger582weplo)
 * [2024-07-11, 12:23:33](https://news.ycombinator.com/item?id=40935901) - [Netanyahu mulled Europe stopover but will fly directly to US amid ICC fears](https://www.timesofisrael.com/liveblog_entry/pm-said-seeking-to-visit-czech-republic-hungary-on-way-to-address-us-congress-amid-concern-over-icc-arrest-warrant-request/)
 * [2024-07-11, 12:02:40](https://news.ycombinator.com/item?id=40935740) - [Ultra simplified \"MNIST\" in 60 lines of Python with NumPy](https://github.com/tonio-m/python_neural_network)
