@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-11, 19:21:47",
+      "https://news.ycombinator.com/item?id=40939707"
+    ],
+    [
+      "Karpathy: Let's reproduce GPT-2 (1.6B): one 8XH100 node 24h $672 in llm.c",
+      "https://github.com/karpathy/llm.c/discussions/677"
+    ]
+  ],
+  [
+    [
       "2024-07-11, 19:05:13",
       "https://news.ycombinator.com/item?id=40939561"
     ],
@@ -17,16 +27,6 @@
     [
       "Dynolog: Open-Source System Observability (2022)",
       "https://developers.facebook.com/blog/post/2022/11/16/dynolog-open-source-system-observability/"
-    ]
-  ],
-  [
-    [
-      "2024-07-11, 17:36:12",
-      "https://news.ycombinator.com/item?id=40938851"
-    ],
-    [
-      "How water controls the speed of muscle contraction",
-      "https://phys.org/news/2024-07-muscle-machine.html"
     ]
   ],
   [
