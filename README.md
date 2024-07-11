@@ -1,7 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-11, 02:20:40](https://news.ycombinator.com/item?id=40933215) - [VSCode won't start on several Mac OS versions, broken over a week](https://github.com/microsoft/vscode/issues/219901)
-* [2024-07-11, 01:09:13](https://news.ycombinator.com/item?id=40932948) - [Ask HN: Who's been hired through Hacker News?](https://news.ycombinator.com/item?id=40932948)
 * [2024-07-11, 01:00:25](https://news.ycombinator.com/item?id=40932914) - [Great Question (YC W21) is hiring senior Rails engineers in Australia](https://www.ycombinator.com/companies/great-question/jobs/WIk0wNz-product-engineer-rails-react-australia)
 * [2024-07-10, 23:29:56](https://news.ycombinator.com/item?id=40932492) - [Show HN: Dut, a fast Linux disk usage calculator](https://codeberg.org/201984/dut)
 * [2024-07-10, 22:08:41](https://news.ycombinator.com/item?id=40932006) - [An Abundance of Katherines: The Game Theory of Baby Naming](https://arxiv.org/abs/2404.00732)
@@ -24,6 +22,8 @@
 * [2024-07-10, 00:35:38](https://news.ycombinator.com/item?id=40922739) - [RouteLLM: A framework for serving and evaluating LLM routers](https://github.com/lm-sys/RouteLLM)
 * [2024-07-09, 22:34:39](https://news.ycombinator.com/item?id=40921989) - [Multi-agent chatbot murder mystery](https://ai-murder-mystery.onrender.com/)
 * [2024-07-09, 19:38:36](https://news.ycombinator.com/item?id=40920122) - [How CD pregaps gained their hidden track superpowers](https://tedium.co/2024/07/06/compact-disc-pregap-history/)
+* [2024-07-09, 14:48:59](https://news.ycombinator.com/item?id=40916786) - [Turbopuffer: Fast search on object storage](https://turbopuffer.com/blog/turbopuffer)
+* [2024-07-09, 11:44:40](https://news.ycombinator.com/item?id=40914958) - [Circos – Circular Visualization](https://circos.ca/)
 * [2024-07-09, 03:24:22](https://news.ycombinator.com/item?id=40912271) - [Real-time audio programming 101: time waits for nothing](http://www.rossbencina.com/code/real-time-audio-programming-101-time-waits-for-nothing)
 * [2024-07-08, 17:20:57](https://news.ycombinator.com/item?id=40907303) - [The Transformation Priority Premise (2013)](https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html)
 * [2024-07-07, 23:57:01](https://news.ycombinator.com/item?id=40901490) - [Making Bubbles](https://justinsecurity.medium.com/making-bubbles-f764cc72b8a3)
