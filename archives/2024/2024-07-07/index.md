@@ -70,6 +70,7 @@
 * [2024-07-07, 09:55:36](https://news.ycombinator.com/item?id=40896383) - [Solving Concurrency Bugs Using Schedules and Imagination](https://ankush.dev/p/tip-concurrency-schedule)
 * [2024-07-07, 09:43:50](https://news.ycombinator.com/item?id=40896334) - [End of the librarian? Council cuts and new tech push profession to the brink](https://www.theguardian.com/books/article/2024/jul/07/librarians-council-cuts-and-new-tech-public-libraries)
 * [2024-07-07, 09:40:49](https://news.ycombinator.com/item?id=40896323) - [Another Climate Truth Bomb](https://shojiwax.com/2024/01/28/another-climate-truth-bomb/)
+* [2024-07-07, 09:33:55](https://news.ycombinator.com/item?id=40896306) - [The Planets Today](https://www.theplanetstoday.com/)
 * [2024-07-07, 09:06:09](https://news.ycombinator.com/item?id=40896212) - [\"AI\", students, and epistemic crisis](https://miniver.blogspot.com/2024/07/ai-students-and-epistemic-crisis.html)
 * [2024-07-07, 08:57:16](https://news.ycombinator.com/item?id=40896168) - [Microchip releases PIC64 radiation tolerant RISC-V CPUs for space applications](https://www.youtube.com/watch?v=oxUoMVSNPxw)
 * [2024-07-07, 08:44:18](https://news.ycombinator.com/item?id=40896110) - [Scientists re-emerge after a year in Mars simulation project](https://www.dw.com/en/scientists-re-emerge-after-a-year-in-mars-simulation-project/a-69585838)

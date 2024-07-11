@@ -3,6 +3,7 @@
 * [2024-07-11, 09:28:54](https://news.ycombinator.com/item?id=40934924) - [The Typeset of Wall·E](https://typesetinthefuture.com/2018/12/04/walle/)
 * [2024-07-11, 09:23:32](https://news.ycombinator.com/item?id=40934898) - [Majority of sites and apps use dark patterns in the marketing of subscriptions](https://icpen.org/news/1360)
 * [2024-07-11, 08:42:03](https://news.ycombinator.com/item?id=40934732) - [GitHub Copilot is not infringing your copyright](https://felixreda.eu/2021/07/github-copilot-is-not-infringing-your-copyright/)
+* [2024-07-11, 08:25:55](https://news.ycombinator.com/item?id=40934670) - [Gemini can't be disabled on Google Docs](https://twitter.com/kevinbankston/status/1811075836558114968)
 * [2024-07-11, 08:11:36](https://news.ycombinator.com/item?id=40934608) - [A Relativistic Framework to Establish Coordinate Time on the Moon and Beyond](https://arxiv.org/abs/2402.11150)
 * [2024-07-11, 08:06:38](https://news.ycombinator.com/item?id=40934582) - [The Overengineered Resume with Zola, JSON Resume, Weasyprint, and Nix](https://ktema.org/articles/the-overengineered-resume/)
 * [2024-07-11, 07:44:29](https://news.ycombinator.com/item?id=40934495) - [Second Factor SMS: Worse Than Its Reputation](https://www.ccc.de/en/updates/2024/2fa-sms)
@@ -27,9 +28,8 @@
 * [2024-07-08, 04:48:10](https://news.ycombinator.com/item?id=40902688) - [Children's mental models of recursive LOGO programs (1985)](https://telearn.hal.science/hal-00190537/document)
 * [2024-07-07, 18:38:06](https://news.ycombinator.com/item?id=40899520) - [Pyxel: A retro game engine for Python](https://github.com/kitao/pyxel)
 * [2024-07-07, 09:55:36](https://news.ycombinator.com/item?id=40896383) - [Solving Concurrency Bugs Using Schedules and Imagination](https://ankush.dev/p/tip-concurrency-schedule)
+* [2024-07-07, 09:33:55](https://news.ycombinator.com/item?id=40896306) - [The Planets Today](https://www.theplanetstoday.com/)
 * [2024-07-07, 01:24:30](https://news.ycombinator.com/item?id=40894553) - [The Next New Thing: architecture's gulf between the traditional and the modern](https://theamericanscholar.org/the-next-new-thing-2/)
-* [2024-07-06, 16:19:41](https://news.ycombinator.com/item?id=40891391) - [Using the 5S Principle in Coding](https://santhoshsundar.medium.com/using-the-5s-principle-in-coding-6237a1614a02)
-* [2024-07-06, 11:59:30](https://news.ycombinator.com/item?id=40889882) - [The Curious Case of Fullers Library and Its Deceptive Link Requests](https://writerbeware.blog/2024/07/05/the-curious-case-of-fullers-library-and-its-deceptive-link-requests/)
 
 ## [Archives](archives/index.md)
 
