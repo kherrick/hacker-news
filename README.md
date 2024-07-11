@@ -5,7 +5,6 @@
 * [2024-07-11, 18:02:11](https://news.ycombinator.com/item?id=40939080) - [Dynolog: Open-Source System Observability (2022)](https://developers.facebook.com/blog/post/2022/11/16/dynolog-open-source-system-observability/)
 * [2024-07-11, 17:36:12](https://news.ycombinator.com/item?id=40938851) - [How water controls the speed of muscle contraction](https://phys.org/news/2024-07-muscle-machine.html)
 * [2024-07-11, 17:31:48](https://news.ycombinator.com/item?id=40938810) - [Capturing Linux SSL/TLS plaintext without a CA certificate using eBPF](https://github.com/gojue/ecapture)
-* [2024-07-11, 17:27:58](https://news.ycombinator.com/item?id=40938783) - [Ask HN: Where do you keep your 401k investments?](https://news.ycombinator.com/item?id=40938783)
 * [2024-07-11, 17:06:06](https://news.ycombinator.com/item?id=40938577) - [FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-Precision](https://www.together.ai/blog/flashattention-3)
 * [2024-07-11, 16:41:34](https://news.ycombinator.com/item?id=40938388) - [Rulers of the Ancient World: period correct measuring tools](https://www.burn-heart.com/rulers-of-the-ancient-world)
 * [2024-07-11, 16:35:31](https://news.ycombinator.com/item?id=40938325) - [Korvus: Single-Query RAG with Postgres](https://github.com/postgresml/korvus)
@@ -28,6 +27,7 @@
 * [2024-07-10, 14:45:19](https://news.ycombinator.com/item?id=40927481) - [Brian Kernighan on “The Practice of Programming” [video]](https://www.youtube.com/watch?v=_QQ7k5sn2-o)
 * [2024-07-10, 14:42:03](https://news.ycombinator.com/item?id=40927438) - [Things I learned while writing an x86 emulator (2013)](https://www.timdbg.com/posts/useless-x86-trivia/)
 * [2024-07-08, 04:48:10](https://news.ycombinator.com/item?id=40902688) - [Children's mental models of recursive LOGO programs (1985)](https://telearn.hal.science/hal-00190537/document)
+* [2024-07-07, 18:38:06](https://news.ycombinator.com/item?id=40899520) - [Pyxel: A retro game engine for Python](https://github.com/kitao/pyxel)
 * [2024-07-07, 10:21:14](https://news.ycombinator.com/item?id=40896470) - [The Sumerian Game: The Most Important Video Game You've Never Heard Of (2021)](https://www.acriticalhit.com/sumerian-game-most-important-video-game-youve-never-heard/)
 * [2024-07-07, 09:33:55](https://news.ycombinator.com/item?id=40896306) - [The Planets Today](https://www.theplanetstoday.com/)
 
