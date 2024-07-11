@@ -22,12 +22,12 @@
 * [2024-07-11, 07:00:03](https://news.ycombinator.com/item?id=40934279) - [Supabase (YC S20) Is Hiring an Auth Engineer (Remote)](https://boards.greenhouse.io/supabase/jobs/5225004004)
 * [2024-07-11, 01:47:46](https://news.ycombinator.com/item?id=40933110) - [Engineering principles for building financial systems](https://substack.wasteman.codes/p/engineering-principles-and-best-practices)
 * [2024-07-10, 23:29:56](https://news.ycombinator.com/item?id=40932492) - [Show HN: Dut – a fast Linux disk usage calculator](https://codeberg.org/201984/dut)
-* [2024-07-10, 22:08:41](https://news.ycombinator.com/item?id=40932006) - [An abundance of Katherines: The game theory of baby naming](https://arxiv.org/abs/2404.00732)
 * [2024-07-10, 21:24:49](https://news.ycombinator.com/item?id=40931636) - [Scientists discover a cause of lupus, possible way to reverse it](https://news.feinberg.northwestern.edu/2024/07/10/scientists-discover-a-cause-of-lupus-and-a-possible-way-to-reverse-it/)
 * [2024-07-10, 21:20:41](https://news.ycombinator.com/item?id=40931590) - [Physicists have created the most fiendishly difficult maze](https://www.sciencealert.com/physicists-have-created-the-worlds-most-fiendishly-difficult-maze)
 * [2024-07-10, 14:45:19](https://news.ycombinator.com/item?id=40927481) - [Brian Kernighan on “The Practice of Programming” [video]](https://www.youtube.com/watch?v=_QQ7k5sn2-o)
 * [2024-07-10, 14:42:03](https://news.ycombinator.com/item?id=40927438) - [Things I learned while writing an x86 emulator (2013)](https://www.timdbg.com/posts/useless-x86-trivia/)
 * [2024-07-08, 04:48:10](https://news.ycombinator.com/item?id=40902688) - [Children's mental models of recursive LOGO programs (1985)](https://telearn.hal.science/hal-00190537/document)
+* [2024-07-07, 18:38:06](https://news.ycombinator.com/item?id=40899520) - [Pyxel: A retro game engine for Python](https://github.com/kitao/pyxel)
 * [2024-07-07, 10:21:14](https://news.ycombinator.com/item?id=40896470) - [The Sumerian Game: The Most Important Video Game You've Never Heard Of (2021)](https://www.acriticalhit.com/sumerian-game-most-important-video-game-youve-never-heard/)
 * [2024-07-07, 09:33:55](https://news.ycombinator.com/item?id=40896306) - [The Planets Today](https://www.theplanetstoday.com/)
 
