@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-07-11](index.md)
 
+* [2024-07-11, 13:37:39](https://news.ycombinator.com/item?id=40936681) - [Say Goodbye to Redbox](https://www.engadget.com/say-goodbye-to-redbox-130044411.html)
 * [2024-07-11, 12:31:04](https://news.ycombinator.com/item?id=40935971) - [Microsoft killed my online life after I called Gaza](https://www.bbc.com/news/articles/cger582weplo)
 * [2024-07-11, 12:23:33](https://news.ycombinator.com/item?id=40935901) - [Netanyahu mulled Europe stopover but will fly directly to US amid ICC fears](https://www.timesofisrael.com/liveblog_entry/pm-said-seeking-to-visit-czech-republic-hungary-on-way-to-address-us-congress-amid-concern-over-icc-arrest-warrant-request/)
 * [2024-07-11, 12:02:40](https://news.ycombinator.com/item?id=40935740) - [Ultra simplified \"MNIST\" in 60 lines of Python with NumPy](https://github.com/tonio-m/python_neural_network)
 * [2024-07-11, 11:57:27](https://news.ycombinator.com/item?id=40935701) - [Binance built a 100PB log service with Quickwit](https://quickwit.io/blog/quickwit-binance-story)
+* [2024-07-11, 11:55:41](https://news.ycombinator.com/item?id=40935688) - [China's clean energy pushes coal to record-low 53% share of power in May 2024](https://www.carbonbrief.org/analysis-chinas-clean-energy-pushes-coal-to-record-low-53-share-of-power-in-may-2024/)
 * [2024-07-11, 11:54:48](https://news.ycombinator.com/item?id=40935682) - [Lithium ion batteries a growing source of PFAS pollution, study finds](https://phys.org/news/2024-07-lithium-ion-batteries-source-pfas.html)
 * [2024-07-11, 11:41:03](https://news.ycombinator.com/item?id=40935576) - [If AI chatbots are the future, I hate it](https://www.jeffgeerling.com/blog/2024/if-ai-chatbots-are-future-i-hate-it)
 * [2024-07-11, 11:16:27](https://news.ycombinator.com/item?id=40935443) - [Kids Who Get Smartphones Earlier Become Adults with Worse Mental Health (2023)](https://www.afterbabel.com/p/sapien-smartphone-report)
