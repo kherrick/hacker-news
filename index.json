@@ -1,22 +1,32 @@
 [
   [
     [
+      "2024-07-11, 01:00:25",
+      "https://news.ycombinator.com/item?id=40932914"
+    ],
+    [
+      "Great Question (YC W21) is hiring senior Rails engineers in Australia",
+      "https://www.ycombinator.com/companies/great-question/jobs/WIk0wNz-product-engineer-rails-react-australia"
+    ]
+  ],
+  [
+    [
+      "2024-07-10, 23:29:56",
+      "https://news.ycombinator.com/item?id=40932492"
+    ],
+    [
+      "Show HN: Dut, a fast Linux disk usage calculator",
+      "https://codeberg.org/201984/dut"
+    ]
+  ],
+  [
+    [
       "2024-07-10, 21:24:49",
       "https://news.ycombinator.com/item?id=40931636"
     ],
     [
       "Scientists Discover a Cause of Lupus, Possible Way to Reverse It",
       "https://news.feinberg.northwestern.edu/2024/07/10/scientists-discover-a-cause-of-lupus-and-a-possible-way-to-reverse-it/"
-    ]
-  ],
-  [
-    [
-      "2024-07-10, 21:15:20",
-      "https://news.ycombinator.com/item?id=40931540"
-    ],
-    [
-      "Estimated Childhood Lead Exposure from Drinking Water in Chicago",
-      "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2815850"
     ]
   ],
   [
@@ -51,16 +61,6 @@
   ],
   [
     [
-      "2024-07-10, 17:01:32",
-      "https://news.ycombinator.com/item?id=40928948"
-    ],
-    [
-      "Motion (YC W20) Is Hiring Senior Front End Engineers",
-      "https://jobs.ashbyhq.com/motion/4f5f6a29-3af0-4d79-99a4-988ff7c5ba05?utm_source=hn"
-    ]
-  ],
-  [
-    [
       "2024-07-10, 16:56:02",
       "https://news.ycombinator.com/item?id=40928893"
     ],
@@ -77,16 +77,6 @@
     [
       "Researchers discover a new form of scientific fraud: 'sneaked references'",
       "https://phys.org/news/2024-07-scientific-fraud-uncovering.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-10, 16:11:50",
-      "https://news.ycombinator.com/item?id=40928450"
-    ],
-    [
-      "Co-Dfns v5.7.0",
-      "https://github.com/Co-dfns/Co-dfns/releases/tag/v5.7.0"
     ]
   ],
   [
@@ -277,6 +267,16 @@
     [
       "The Transformation Priority Premise (2013)",
       "https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-07, 18:38:06",
+      "https://news.ycombinator.com/item?id=40899520"
+    ],
+    [
+      "Pyxel: A retro game engine for Python",
+      "https://github.com/kitao/pyxel"
     ]
   ],
   [
