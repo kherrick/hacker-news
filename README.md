@@ -28,7 +28,7 @@
 * [2024-07-07, 18:38:06](https://news.ycombinator.com/item?id=40899520) - [Pyxel: A retro game engine for Python](https://github.com/kitao/pyxel)
 * [2024-07-07, 09:55:36](https://news.ycombinator.com/item?id=40896383) - [Solving Concurrency Bugs Using Schedules and Imagination](https://ankush.dev/p/tip-concurrency-schedule)
 * [2024-07-07, 01:24:30](https://news.ycombinator.com/item?id=40894553) - [The Next New Thing: architecture's gulf between the traditional and the modern](https://theamericanscholar.org/the-next-new-thing-2/)
-* [2024-07-06, 16:13:09](https://news.ycombinator.com/item?id=40891342) - [London, Paris, Seoul Show Commuting Power of Fast Regional Rail](https://www.bloomberg.com/news/features/2024-07-02/london-paris-seoul-show-commuting-power-of-fast-regional-rail)
+* [2024-07-06, 16:19:41](https://news.ycombinator.com/item?id=40891391) - [Using the 5S Principle in Coding](https://santhoshsundar.medium.com/using-the-5s-principle-in-coding-6237a1614a02)
 * [2024-07-06, 11:59:30](https://news.ycombinator.com/item?id=40889882) - [The Curious Case of Fullers Library and Its Deceptive Link Requests](https://writerbeware.blog/2024/07/05/the-curious-case-of-fullers-library-and-its-deceptive-link-requests/)
 
 ## [Archives](archives/index.md)
