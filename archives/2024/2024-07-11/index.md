@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-11](index.md)
 
+* [2024-07-11, 16:29:31](https://news.ycombinator.com/item?id=40938269) - [Shelley Duvall, a versatile face of 1970s film, dies at 75](https://www.washingtonpost.com/obituaries/2024/07/11/shelley-duvall-dead/)
 * [2024-07-11, 15:29:08](https://news.ycombinator.com/item?id=40937760) - [DuckDB Meets Postgres](https://blog.paradedb.com/pages/iceberg_lakehouse)
 * [2024-07-11, 14:18:32](https://news.ycombinator.com/item?id=40937093) - [The start of complex life on Earth pushed back by 750M years](https://cosmosmagazine.com/history/archaeology/complex-life-on-earth-older-than-thought/)
 * [2024-07-11, 14:11:38](https://news.ycombinator.com/item?id=40937036) - [When scientific citations go rogue: Uncovering 'sneaked references'](https://theconversation.com/when-scientific-citations-go-rogue-uncovering-sneaked-references-233858)
@@ -23,6 +24,7 @@
 * [2024-07-11, 11:42:02](https://news.ycombinator.com/item?id=40935584) - [Comparing open source BGP stacks](https://elegantnetwork.github.io/posts/comparing-open-source-bgp-stacks/)
 * [2024-07-11, 11:41:03](https://news.ycombinator.com/item?id=40935576) - [If AI chatbots are the future, I hate it](https://www.jeffgeerling.com/blog/2024/if-ai-chatbots-are-future-i-hate-it)
 * [2024-07-11, 11:16:27](https://news.ycombinator.com/item?id=40935443) - [Kids Who Get Smartphones Earlier Become Adults with Worse Mental Health (2023)](https://www.afterbabel.com/p/sapien-smartphone-report)
+* [2024-07-11, 11:12:07](https://news.ycombinator.com/item?id=40935416) - [SpiceNice – An Open Database of Culinary Spices](https://spicenice.pages.dev/spices/all/)
 * [2024-07-11, 11:05:37](https://news.ycombinator.com/item?id=40935381) - [Oncologists on simple, doable, everyday things they do to try to prevent cancer](https://www.theguardian.com/lifeandstyle/article/2024/jul/11/the-experts-oncologists-on-the-simple-doable-everyday-things-they-do-to-try-to-prevent-cancer)
 * [2024-07-11, 10:53:21](https://news.ycombinator.com/item?id=40935309) - [What is the next step after spyware called Windows 11?](https://news.ycombinator.com/item?id=40935309)
 * [2024-07-11, 10:48:19](https://news.ycombinator.com/item?id=40935295) - [Xiaomi's self-optimizing autonomous factory will make 10M+ phones a year](https://newatlas.com/robotics/xiaomi-dark-robotic-factory/)
