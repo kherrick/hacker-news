@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-11, 23:16:51](https://news.ycombinator.com/item?id=40941463) - [Why I'm Writing a Book on Cryptography (2020)](https://www.cryptologie.net/article/504/why-im-writing-a-book-on-cryptography/)
 * [2024-07-11, 22:10:10](https://news.ycombinator.com/item?id=40941056) - [Physics-Based Deep Learning Book](https://physicsbaseddeeplearning.org/intro.html)
 * [2024-07-11, 21:00:06](https://news.ycombinator.com/item?id=40940565) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=40940565)
-* [2024-07-11, 20:18:28](https://news.ycombinator.com/item?id=40940243) - [Nike Slashed Its Sustainability Team](https://www.propublica.org/article/nike-layoffs-sustainability-climate-change)
 * [2024-07-11, 20:16:21](https://news.ycombinator.com/item?id=40940225) - [WebVM is a server-less virtual Linux environment running client-side](https://webvm.io/)
 * [2024-07-11, 20:10:44](https://news.ycombinator.com/item?id=40940181) - [Show HN: Mandala – Automatically save, query and version Python computations](https://github.com/amakelov/mandala)
 * [2024-07-11, 20:07:40](https://news.ycombinator.com/item?id=40940158) - [Ask HN: Trouble learning things I view as solutions looking for a problem](https://news.ycombinator.com/item?id=40940158)
@@ -14,7 +14,7 @@
 * [2024-07-11, 16:41:34](https://news.ycombinator.com/item?id=40938388) - [Rulers of the Ancient World: period correct measuring tools](https://www.burn-heart.com/rulers-of-the-ancient-world)
 * [2024-07-11, 16:35:31](https://news.ycombinator.com/item?id=40938325) - [Korvus: Single-Query RAG with Postgres](https://github.com/postgresml/korvus)
 * [2024-07-11, 16:06:08](https://news.ycombinator.com/item?id=40938092) - [Shelley Duvall has died](https://www.bbc.com/news/articles/cy77p22jr5lo)
-* [2024-07-11, 15:52:14](https://news.ycombinator.com/item?id=40937973) - [Three years in North Korea as a foreigner (2021)](https://mydiplomaticlife.com/how-to-survive-3-years-in-north-korea-as-a-foreigner/)
+* [2024-07-11, 15:52:14](https://news.ycombinator.com/item?id=40937973) - [Surviving three years in North Korea as a foreigner (2021)](https://mydiplomaticlife.com/how-to-survive-3-years-in-north-korea-as-a-foreigner/)
 * [2024-07-11, 15:29:08](https://news.ycombinator.com/item?id=40937760) - [Putting DuckDB in Postgres to Query Iceberg](https://blog.paradedb.com/pages/iceberg_lakehouse)
 * [2024-07-11, 13:48:49](https://news.ycombinator.com/item?id=40936808) - [Iconography of the X Window System: The Boot Stipple](https://matttproud.com/blog/posts/x-window-system-boot-stipple.html)
 * [2024-07-11, 11:57:27](https://news.ycombinator.com/item?id=40935701) - [Binance built a 100PB log service with Quickwit](https://quickwit.io/blog/quickwit-binance-story)

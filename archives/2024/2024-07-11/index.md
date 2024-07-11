@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-11](index.md)
 
+* [2024-07-11, 23:16:51](https://news.ycombinator.com/item?id=40941463) - [Why I'm Writing a Book on Cryptography (2020)](https://www.cryptologie.net/article/504/why-im-writing-a-book-on-cryptography/)
 * [2024-07-11, 22:18:35](https://news.ycombinator.com/item?id=40941115) - [Sonnet 3.5: Please write an asteroids game](https://claude.site/artifacts/a0d4590f-5a5e-40ac-8a27-1c4db47df938)
 * [2024-07-11, 22:10:10](https://news.ycombinator.com/item?id=40941056) - [Physics-Based Deep Learning Book](https://physicsbaseddeeplearning.org/intro.html)
 * [2024-07-11, 21:36:03](https://news.ycombinator.com/item?id=40940817) - [The work of early Apple tech bloggers have had their names and work AI-zombified](https://www.theverge.com/2024/7/10/24195858/tuaw-unofficial-apple-tech-blog-ai-web-orange-khan)
