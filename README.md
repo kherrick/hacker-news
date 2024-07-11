@@ -29,7 +29,7 @@
 * [2024-07-07, 09:33:55](https://news.ycombinator.com/item?id=40896306) - [The Planets Today](https://www.theplanetstoday.com/)
 * [2024-07-06, 16:19:41](https://news.ycombinator.com/item?id=40891391) - [Using the 5S Principle in Coding](https://santhoshsundar.medium.com/using-the-5s-principle-in-coding-6237a1614a02)
 * [2024-07-06, 16:13:09](https://news.ycombinator.com/item?id=40891342) - [London, Paris, Seoul Show Commuting Power of Fast Regional Rail](https://www.bloomberg.com/news/features/2024-07-02/london-paris-seoul-show-commuting-power-of-fast-regional-rail)
-* [2024-07-06, 12:23:01](https://news.ycombinator.com/item?id=40890002) - [An analysis of module names inside top PyPI packages](https://joshcannon.me/2024/07/05/package-names.html)
+* [2024-07-06, 11:59:30](https://news.ycombinator.com/item?id=40889882) - [The Curious Case of Fullers Library and Its Deceptive Link Requests](https://writerbeware.blog/2024/07/05/the-curious-case-of-fullers-library-and-its-deceptive-link-requests/)
 
 ## [Archives](archives/index.md)
 
