@@ -63,6 +63,7 @@
 * [2024-07-08, 11:08:12](https://news.ycombinator.com/item?id=40904328) - [Dark mode is not as good for your eyes as you believe](https://www.wired.com/story/dark-mode-chrome-android-ios-science/)
 * [2024-07-08, 10:45:16](https://news.ycombinator.com/item?id=40904232) - [Modern racism rests on scientific theories from the 19th century Essays](https://aeon.co/essays/modern-racism-rests-on-scientific-theories-from-the-19th-century)
 * [2024-07-08, 10:29:03](https://news.ycombinator.com/item?id=40904173) - [Micro-agent: make an AI write code until it passes an unit test](https://github.com/BuilderIO/micro-agent)
+* [2024-07-08, 10:15:41](https://news.ycombinator.com/item?id=40904115) - [The Lazarus team is glad to announce the release of Lazarus 3.4](https://forum.lazarus.freepascal.org/index.php?topic=67439.0)
 * [2024-07-08, 09:46:00](https://news.ycombinator.com/item?id=40904006) - [LibreOfficeKit API in action: new API to access LibreOffice functionalities](https://dev.blog.documentfoundation.org/2024/06/27/libreofficekit-api-in-action/)
 * [2024-07-08, 09:41:52](https://news.ycombinator.com/item?id=40903987) - [Invisible Landscapes](https://orionmagazine.org/article/interstitium-scientific-discovery-anatomy/)
 * [2024-07-08, 09:15:47](https://news.ycombinator.com/item?id=40903870) - [Xpra: Persistent Remote Applications for X11](https://github.com/Xpra-org/xpra)
