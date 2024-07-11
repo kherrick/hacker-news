@@ -1,32 +1,12 @@
 [
   [
     [
-      "2024-07-11, 13:37:39",
-      "https://news.ycombinator.com/item?id=40936681"
-    ],
-    [
-      "Say Goodbye to Redbox",
-      "https://www.engadget.com/say-goodbye-to-redbox-130044411.html"
-    ]
-  ],
-  [
-    [
       "2024-07-11, 11:57:27",
       "https://news.ycombinator.com/item?id=40935701"
     ],
     [
       "Binance built a 100PB log service with Quickwit",
       "https://quickwit.io/blog/quickwit-binance-story"
-    ]
-  ],
-  [
-    [
-      "2024-07-11, 11:55:41",
-      "https://news.ycombinator.com/item?id=40935688"
-    ],
-    [
-      "China's clean energy pushes coal to record-low 53% share of power in May 2024",
-      "https://www.carbonbrief.org/analysis-chinas-clean-energy-pushes-coal-to-record-low-53-share-of-power-in-may-2024/"
     ]
   ],
   [
@@ -137,6 +117,16 @@
     [
       "Big Ball of Mud (1999)",
       "http://laputan.org/mud/"
+    ]
+  ],
+  [
+    [
+      "2024-07-10, 17:17:05",
+      "https://news.ycombinator.com/item?id=40929104"
+    ],
+    [
+      "Ed Stone, scientist and salesman for the Voyager mission, has died",
+      "https://www.cbc.ca/radio/quirks/ed-stone-head-of-the-voyager-mission-that-introduced-us-to-solar-system-s-outer-planets-has-died-1.7235038"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "London, Paris, Seoul Show Commuting Power of Fast Regional Rail",
       "https://www.bloomberg.com/news/features/2024-07-02/london-paris-seoul-show-commuting-power-of-fast-regional-rail"
+    ]
+  ],
+  [
+    [
+      "2024-07-06, 12:23:01",
+      "https://news.ycombinator.com/item?id=40890002"
+    ],
+    [
+      "An analysis of module names inside top PyPI packages",
+      "https://joshcannon.me/2024/07/05/package-names.html"
     ]
   ]
 ]
