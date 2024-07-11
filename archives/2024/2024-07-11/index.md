@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-11](index.md)
 
+* [2024-07-11, 17:02:13](https://news.ycombinator.com/item?id=40938540) - [GenAI does not Think nor Understand](https://hkubota.wordpress.com/2024/07/12/genai-does-not-think-nor-understand/)
 * [2024-07-11, 16:41:34](https://news.ycombinator.com/item?id=40938388) - [\"Rulers of the Ancient World\" period correct measuring tools](https://www.burn-heart.com/rulers-of-the-ancient-world)
 * [2024-07-11, 16:29:31](https://news.ycombinator.com/item?id=40938269) - [Shelley Duvall, a versatile face of 1970s film, dies at 75](https://www.washingtonpost.com/obituaries/2024/07/11/shelley-duvall-dead/)
 * [2024-07-11, 16:06:08](https://news.ycombinator.com/item?id=40938092) - [The Shining actress Shelley Duvall dies at 75](https://www.bbc.com/news/articles/cy77p22jr5lo)
