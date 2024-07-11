@@ -7,6 +7,7 @@
 * [2024-07-11, 03:30:18](https://news.ycombinator.com/item?id=40933434) - [Brian Lunduke: \"macOS Sucks\" [video]](https://www.youtube.com/watch?v=3uGeHdNMgL8)
 * [2024-07-11, 03:17:22](https://news.ycombinator.com/item?id=40933374) - [I Was An MIT Educated Neurosurgeon Now I'm Unemployed and alone in the mountains](https://www.youtube.com/watch?v=25LUF8GmbFU)
 * [2024-07-11, 02:20:40](https://news.ycombinator.com/item?id=40933215) - [VSCode won't start on several Mac OS versions, broken over a week](https://github.com/microsoft/vscode/issues/219901)
+* [2024-07-11, 01:47:46](https://news.ycombinator.com/item?id=40933110) - [Engineering Principles for Building Financial Systems](https://substack.wasteman.codes/p/engineering-principles-and-best-practices)
 * [2024-07-11, 01:21:41](https://news.ycombinator.com/item?id=40932996) - [Lix 2.90 \"Vanilla Ice Cream\"](https://lix.systems/blog/2024-07-10-lix-2.90-release/)
 * [2024-07-11, 01:09:13](https://news.ycombinator.com/item?id=40932948) - [Ask HN: Who's been hired through Hacker News?](https://news.ycombinator.com/item?id=40932948)
 * [2024-07-11, 01:00:25](https://news.ycombinator.com/item?id=40932914) - [Great Question (YC W21) is hiring senior Rails engineers in Australia](https://www.ycombinator.com/companies/great-question/jobs/WIk0wNz-product-engineer-rails-react-australia)
