@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-11, 17:02:13](https://news.ycombinator.com/item?id=40938540) - [GenAI does not Think nor Understand](https://hkubota.wordpress.com/2024/07/12/genai-does-not-think-nor-understand/)
-* [2024-07-11, 16:41:34](https://news.ycombinator.com/item?id=40938388) - [\"Rulers of the Ancient World\" period correct measuring tools](https://www.burn-heart.com/rulers-of-the-ancient-world)
+* [2024-07-11, 16:41:34](https://news.ycombinator.com/item?id=40938388) - [Rulers of the Ancient World: period correct measuring tools](https://www.burn-heart.com/rulers-of-the-ancient-world)
+* [2024-07-11, 16:06:29](https://news.ycombinator.com/item?id=40938095) - [Future of Space Telescopes in the Era of Super Heavy Lift Launch](https://payloadspace.com/habitable-worlds-observatory-and-the-future-of-space-telescopes-in-the-era-of-heavy-lift-launch/)
 * [2024-07-11, 16:06:08](https://news.ycombinator.com/item?id=40938092) - [The Shining actress Shelley Duvall dies at 75](https://www.bbc.com/news/articles/cy77p22jr5lo)
 * [2024-07-11, 13:48:49](https://news.ycombinator.com/item?id=40936808) - [Iconography of the X Window System: The Boot Stipple](https://matttproud.com/blog/posts/x-window-system-boot-stipple.html)
 * [2024-07-11, 11:57:27](https://news.ycombinator.com/item?id=40935701) - [Binance built a 100PB log service with Quickwit](https://quickwit.io/blog/quickwit-binance-story)
@@ -23,13 +23,13 @@
 * [2024-07-10, 14:42:03](https://news.ycombinator.com/item?id=40927438) - [Things I learned while writing an x86 emulator (2013)](https://www.timdbg.com/posts/useless-x86-trivia/)
 * [2024-07-10, 13:35:22](https://news.ycombinator.com/item?id=40926734) - [Vision language models are blind](https://vlmsareblind.github.io/)
 * [2024-07-10, 13:13:51](https://news.ycombinator.com/item?id=40926515) - [Training of Physical Neural Networks](https://arxiv.org/abs/2406.03372)
-* [2024-07-10, 09:02:16](https://news.ycombinator.com/item?id=40925025) - [SimSig: Railway Signalling Simulations](https://www.simsig.co.uk/)
 * [2024-07-09, 22:34:39](https://news.ycombinator.com/item?id=40921989) - [Multi-agent chatbot murder mystery](https://ai-murder-mystery.onrender.com/)
 * [2024-07-09, 03:24:22](https://news.ycombinator.com/item?id=40912271) - [Real-time audio programming 101: time waits for nothing (2011)](http://www.rossbencina.com/code/real-time-audio-programming-101-time-waits-for-nothing)
 * [2024-07-08, 04:48:10](https://news.ycombinator.com/item?id=40902688) - [Children's mental models of recursive LOGO programs (1985)](https://telearn.hal.science/hal-00190537/document)
 * [2024-07-07, 18:38:06](https://news.ycombinator.com/item?id=40899520) - [Pyxel: A retro game engine for Python](https://github.com/kitao/pyxel)
 * [2024-07-07, 09:55:36](https://news.ycombinator.com/item?id=40896383) - [Solving Concurrency Bugs Using Schedules and Imagination](https://ankush.dev/p/tip-concurrency-schedule)
 * [2024-07-07, 09:33:55](https://news.ycombinator.com/item?id=40896306) - [The Planets Today](https://www.theplanetstoday.com/)
+* [2024-07-05, 23:23:19](https://news.ycombinator.com/item?id=40886957) - [Paul Dirac: the purest soul in physics (1998)](https://physicsworld.com/a/paul-dirac-the-purest-soul-in-physics/)
 
 ## [Archives](archives/index.md)
 

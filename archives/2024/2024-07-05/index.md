@@ -6,6 +6,7 @@
 
 * [2024-07-05, 23:34:12](https://news.ycombinator.com/item?id=40887014) - [Antidotes for Melancholy in Early Modern England](https://www.folger.edu/blogs/collation/better-than-a-pound-of-sorrow/)
 * [2024-07-05, 23:25:40](https://news.ycombinator.com/item?id=40886972) - [Rogers networks reliability and resiliency assessment after 2022-07-08 outage](https://crtc.gc.ca/eng/publications/reports/xona2024.htm)
+* [2024-07-05, 23:23:19](https://news.ycombinator.com/item?id=40886957) - [Paul Dirac: the purest soul in physics (1998)](https://physicsworld.com/a/paul-dirac-the-purest-soul-in-physics/)
 * [2024-07-05, 23:22:51](https://news.ycombinator.com/item?id=40886954) - [Firefox \"Copy\" has been inconsistent and broken for 8 months](https://bugzilla.mozilla.org/show_bug.cgi?id=1863246)
 * [2024-07-05, 22:41:49](https://news.ycombinator.com/item?id=40886689) - [War on citizens: How the junta's VPN ban is strangling communication in Myanmar](https://globalvoices.org/2024/06/28/war-on-citizens-how-the-juntas-vpn-ban-is-strangling-communication-in-myanmar/)
 * [2024-07-05, 22:41:49](https://news.ycombinator.com/item?id=40886689) - [VPN ban is strangling communication in Myanmar](https://www.irrawaddy.com/in-person/interview/war-on-citizens-how-juntas-vpn-ban-is-strangling-communication-in-myanmar.html)
