@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-11](index.md)
 
+* [2024-07-11, 10:53:21](https://news.ycombinator.com/item?id=40935309) - [What is the next step after spyware called Windows 11?](https://news.ycombinator.com/item?id=40935309)
+* [2024-07-11, 10:48:19](https://news.ycombinator.com/item?id=40935295) - [Xiaomi's self-optimizing autonomous factory will make 10M+ phones a year](https://newatlas.com/robotics/xiaomi-dark-robotic-factory/)
+* [2024-07-11, 10:17:08](https://news.ycombinator.com/item?id=40935154) - [Qualcomm's Oryon Core: A Long Time in the Making](https://chipsandcheese.com/2024/07/09/qualcomms-oryon-core-a-long-time-in-the-making/)
 * [2024-07-11, 09:28:54](https://news.ycombinator.com/item?id=40934924) - [The Typeset of Wall·E](https://typesetinthefuture.com/2018/12/04/walle/)
 * [2024-07-11, 09:23:32](https://news.ycombinator.com/item?id=40934898) - [Majority of sites and apps use dark patterns in the marketing of subscriptions](https://icpen.org/news/1360)
 * [2024-07-11, 08:42:03](https://news.ycombinator.com/item?id=40934732) - [GitHub Copilot is not infringing your copyright](https://felixreda.eu/2021/07/github-copilot-is-not-infringing-your-copyright/)
