@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-12, 18:54:17](https://news.ycombinator.com/item?id=40948353) - [Beating the Compiler](https://www.mattkeeter.com/blog/2024-07-12-interpreter/)
+* [2024-07-12, 18:39:52](https://news.ycombinator.com/item?id=40948232) - [Discord vs. IRC Rough Notes](https://push.cx/discord-vs-irc-notes)
 * [2024-07-12, 18:35:08](https://news.ycombinator.com/item?id=40948202) - [What Could Explain the Gallium Anomaly?](https://www.quantamagazine.org/what-could-explain-the-gallium-anomaly-20240712/)
 * [2024-07-12, 18:21:17](https://news.ycombinator.com/item?id=40948083) - [Schaffer–Vega Diversity System](https://en.wikipedia.org/wiki/Schaffer%E2%80%93Vega_diversity_system)
 * [2024-07-12, 18:15:58](https://news.ycombinator.com/item?id=40948035) - [Hackers Steal Phone, SMS Records for Nearly All AT&T Customers](https://krebsonsecurity.com/2024/07/hackers-steal-phone-sms-records-for-nearly-all-att-customers/)
@@ -24,12 +26,10 @@
 * [2024-07-12, 06:54:19](https://news.ycombinator.com/item?id=40943253) - [GE Aerospace Successfully Develops and Tests New Hypersonic Dual-Mode Ramjet](https://www.geaerospace.com/news/press-releases/ge-aerospace-successfully-develops-and-tests-new-hypersonic-dual-mode-ramjet)
 * [2024-07-12, 04:26:23](https://news.ycombinator.com/item?id=40942732) - [Using S3 as a Container Registry](https://ochagavia.nl/blog/using-s3-as-a-container-registry/)
 * [2024-07-12, 02:18:11](https://news.ycombinator.com/item?id=40942270) - [JSBen.ch – Performance benchmarking playground for JavaScript](https://jsben.ch/)
-* [2024-07-11, 22:10:10](https://news.ycombinator.com/item?id=40941056) - [Physics-Based Deep Learning Book](https://physicsbaseddeeplearning.org/intro.html)
 * [2024-07-11, 20:17:58](https://news.ycombinator.com/item?id=40940241) - [Beating the L1 cache with value speculation (2021)](https://mazzo.li/posts/value-speculation.html)
 * [2024-07-11, 20:16:21](https://news.ycombinator.com/item?id=40940225) - [WebVM is a server-less virtual Linux environment running client-side](https://webvm.io/)
 * [2024-07-09, 11:02:22](https://news.ycombinator.com/item?id=40914635) - [So you want to rent an NVIDIA H100 cluster? 2024 Consumer Guide](https://www.photoroom.com/inside-photoroom/so-you-want-to-rent-an-nvidia-h100-cluster-2024-consumer-guide?slug=inside-photoroom/so-you-want-to-rent-an-nvidia-h100-cluster-2024-consumer-guide&_storyblok_published=511470179&)
 * [2024-07-08, 18:18:35](https://news.ycombinator.com/item?id=40907826) - [Recursive Program Synthesis using Paramorphisms [pdf]](https://theory.stanford.edu/~aiken/publications/papers/pldi24.pdf)
-* [2024-07-07, 15:37:46](https://news.ycombinator.com/item?id=40898383) - [Neuromorphic dendritic network with silent synapses for visual motion perception](https://www.nature.com/articles/s41928-024-01171-7)
 
 ## [Archives](archives/index.md)
 

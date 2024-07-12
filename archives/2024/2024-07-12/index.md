@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-12](index.md)
 
+* [2024-07-12, 18:54:17](https://news.ycombinator.com/item?id=40948353) - [Beating the Compiler](https://www.mattkeeter.com/blog/2024-07-12-interpreter/)
+* [2024-07-12, 18:39:52](https://news.ycombinator.com/item?id=40948232) - [Discord vs. IRC Rough Notes](https://push.cx/discord-vs-irc-notes)
 * [2024-07-12, 18:35:08](https://news.ycombinator.com/item?id=40948202) - [What Could Explain the Gallium Anomaly?](https://www.quantamagazine.org/what-could-explain-the-gallium-anomaly-20240712/)
 * [2024-07-12, 18:21:55](https://news.ycombinator.com/item?id=40948089) - [Women of Open Source](https://womenofopensource.org/)
 * [2024-07-12, 18:21:17](https://news.ycombinator.com/item?id=40948083) - [Schaffer–Vega Diversity System](https://en.wikipedia.org/wiki/Schaffer%E2%80%93Vega_diversity_system)
