@@ -8,6 +8,7 @@
 * [2024-07-12, 20:36:50](https://news.ycombinator.com/item?id=40949176) - [What is data sovereignty and why does it matter for your business?](https://proton.me/blog/data-sovereignty)
 * [2024-07-12, 20:19:21](https://news.ycombinator.com/item?id=40949034) - [\"GitHub\" Is Starting to Feel Like Legacy Software](https://www.mistys-internet.website/blog/blog/2024/07/12/github-is-starting-to-feel-like-legacy-software/)
 * [2024-07-12, 20:17:40](https://news.ycombinator.com/item?id=40949021) - [Responsive bar charts in HTML and CSS](https://9elements.com/blog/responsive-bar-charts-in-html-and-css/)
+* [2024-07-12, 20:12:29](https://news.ycombinator.com/item?id=40948971) - [Goldman Sachs: AI Is overhyped, expensive, and unreliable](https://www.404media.co/goldman-sachs-ai-is-overhyped-wildly-expensive-and-unreliable/)
 * [2024-07-12, 20:10:58](https://news.ycombinator.com/item?id=40948952) - [Cosmic Updates (Feat. Community)](https://blog.system76.com/post/cosmic-july-2024)
 * [2024-07-12, 20:10:11](https://news.ycombinator.com/item?id=40948942) - [Cosmic Desktop Close to Alpha Release, Adds Compositor Multi-Threading](https://www.phoronix.com/news/COSMIC-July-Updates)
 * [2024-07-12, 20:02:39](https://news.ycombinator.com/item?id=40948888) - [Rust Received the SIGPLAN Programming Languages Software Award 2024](https://www.sigplan.org/Awards/Software/)
