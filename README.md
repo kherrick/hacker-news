@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-12, 08:45:42](https://news.ycombinator.com/item?id=40943777) - [The Forth Methodology of Charles Moore](https://www.ultratechnology.com/method.htm)
-* [2024-07-12, 08:19:25](https://news.ycombinator.com/item?id=40943607) - [Open-Source No-Code Tools with the Most GitHub Stars](https://www.nocobase.com/en/blog/the-top-12-open-source-no-code-tools-with-the-most-github-stars)
 * [2024-07-12, 07:48:20](https://news.ycombinator.com/item?id=40943470) - [Some thoughts on the web. On web engines, content, and web rent (2023)](https://liberda.nl/weblog/javascript-was-a-mistake/)
 * [2024-07-12, 07:46:10](https://news.ycombinator.com/item?id=40943460) - [Arm Accuracy Super Resolution](https://community.arm.com/arm-community-blogs/b/graphics-gaming-and-vr-blog/posts/introducing-arm-accuracy-super-resolution)
 * [2024-07-12, 07:41:16](https://news.ycombinator.com/item?id=40943436) - [As an Employee, You Are Disposable (2023)](https://nelson.cloud/as-an-employee-you-are-disposable/)
@@ -26,6 +25,7 @@
 * [2024-07-11, 15:52:14](https://news.ycombinator.com/item?id=40937973) - [Three years in North Korea as a foreigner (2021)](https://mydiplomaticlife.com/how-to-survive-3-years-in-north-korea-as-a-foreigner/)
 * [2024-07-11, 13:48:49](https://news.ycombinator.com/item?id=40936808) - [Iconography of the X Window System: The Boot Stipple](https://matttproud.com/blog/posts/x-window-system-boot-stipple.html)
 * [2024-07-11, 09:28:54](https://news.ycombinator.com/item?id=40934924) - [The Typeset of Wall·E (2018)](https://typesetinthefuture.com/2018/12/04/walle/)
+* [2024-07-09, 09:26:08](https://news.ycombinator.com/item?id=40914052) - [Rapid extraction of europium from spent fluorescent lamps](https://ethz.ch/en/news-and-events/eth-news/news/2024/07/mining-rare-earth-metals-from-electronic-waste.html)
 * [2024-07-08, 23:06:17](https://news.ycombinator.com/item?id=40910731) - [Enums in Go](https://dizzy.zone/2024/01/26/Enums-in-Go/)
 * [2024-07-08, 20:09:08](https://news.ycombinator.com/item?id=40909094) - [Making Python Less Random](https://healeycodes.com/making-python-less-random)
 * [2024-07-08, 15:41:25](https://news.ycombinator.com/item?id=40906374) - [A revolution in archaeology is transforming our picture of past populations](https://aeon.co/essays/an-archeological-revolution-transforms-our-image-of-human-freedoms)
