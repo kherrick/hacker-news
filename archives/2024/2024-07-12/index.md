@@ -9,6 +9,7 @@
 * [2024-07-12, 18:35:08](https://news.ycombinator.com/item?id=40948202) - [What Could Explain the Gallium Anomaly?](https://www.quantamagazine.org/what-could-explain-the-gallium-anomaly-20240712/)
 * [2024-07-12, 18:21:55](https://news.ycombinator.com/item?id=40948089) - [Women of Open Source](https://womenofopensource.org/)
 * [2024-07-12, 18:21:17](https://news.ycombinator.com/item?id=40948083) - [Schaffer–Vega Diversity System](https://en.wikipedia.org/wiki/Schaffer%E2%80%93Vega_diversity_system)
+* [2024-07-12, 18:19:14](https://news.ycombinator.com/item?id=40948064) - [CISA broke into a US federal agency, and no one noticed for a full 5 months](https://www.theregister.com/2024/07/12/cisa_broke_into_fed_agency/)
 * [2024-07-12, 18:15:58](https://news.ycombinator.com/item?id=40948035) - [Hackers Steal Phone, SMS Records for Nearly All AT&T Customers](https://krebsonsecurity.com/2024/07/hackers-steal-phone-sms-records-for-nearly-all-att-customers/)
 * [2024-07-12, 18:14:18](https://news.ycombinator.com/item?id=40948022) - [Ask HN: Fellow neurodivergents, do you pair better with LLMs than neurotypicals?](https://news.ycombinator.com/item?id=40948022)
 * [2024-07-12, 18:13:03](https://news.ycombinator.com/item?id=40948005) - [Oops, we maxed out intelligence but minimized wisdom](https://www.theintrinsicperspective.com/p/oops-we-maxed-out-intelligence-but)
