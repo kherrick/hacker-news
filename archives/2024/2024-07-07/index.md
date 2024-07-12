@@ -43,6 +43,7 @@
 * [2024-07-07, 16:25:31](https://news.ycombinator.com/item?id=40898640) - [TUI for Managing WiFi on Linux](https://github.com/pythops/impala)
 * [2024-07-07, 16:08:06](https://news.ycombinator.com/item?id=40898551) - [US intelligence community is embracing generative AI](https://www.nextgov.com/artificial-intelligence/2024/07/us-intelligence-community-embracing-generative-ai/397849/)
 * [2024-07-07, 16:04:41](https://news.ycombinator.com/item?id=40898525) - [Tim Doucette, a blind astronomer who built the Deep Sky Eye Observatory](https://www.amiplus.ca/m/eCGPTwFA/deep-sky-eye?seriesId=Show%2FOur+Community)
+* [2024-07-07, 15:37:46](https://news.ycombinator.com/item?id=40898383) - [Neuromorphic dendritic network with silent synapses for visual motion perception](https://www.nature.com/articles/s41928-024-01171-7)
 * [2024-07-07, 15:26:07](https://news.ycombinator.com/item?id=40898313) - [Show HN: I made an open source Mailchimp RSS-to-Email alternative](https://github.com/ElliotKillick/rss2newsletter)
 * [2024-07-07, 14:53:26](https://news.ycombinator.com/item?id=40898121) - [Talent Search versus Talent Development [pdf]](https://community.ams.org/journals/notices/201909/rnoti-p1471.pdf)
 * [2024-07-07, 14:52:57](https://news.ycombinator.com/item?id=40898118) - [International Reply Coupon](https://en.wikipedia.org/wiki/International_reply_coupon)

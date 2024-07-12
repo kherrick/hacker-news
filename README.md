@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-12, 07:41:16](https://news.ycombinator.com/item?id=40943436) - [As an Employee, You Are Disposable (2023)](https://nelson.cloud/as-an-employee-you-are-disposable/)
 * [2024-07-12, 06:54:19](https://news.ycombinator.com/item?id=40943253) - [GE Aerospace Successfully Develops and Tests New Hypersonic Dual-Mode Ramjet](https://www.geaerospace.com/news/press-releases/ge-aerospace-successfully-develops-and-tests-new-hypersonic-dual-mode-ramjet)
 * [2024-07-12, 06:12:08](https://news.ycombinator.com/item?id=40943064) - [Color Wheels Are Wrong](https://longform.asmartbear.com/color-wheels/)
 * [2024-07-12, 04:42:29](https://news.ycombinator.com/item?id=40942769) - [A personal music streaming server that works](https://koel.dev)
@@ -8,11 +9,9 @@
 * [2024-07-12, 02:18:11](https://news.ycombinator.com/item?id=40942270) - [JavaScript Ben.ch (JavaScript Benchmarking Tools)](https://jsben.ch/)
 * [2024-07-12, 01:45:05](https://news.ycombinator.com/item?id=40942141) - [Floppy8 – A Tiny Computer, in a Floppy Drive (2023)](https://abe.today/blogs/main/floppy8-a-tiny-computer-in-a-floppy-drive)
 * [2024-07-12, 00:42:43](https://news.ycombinator.com/item?id=40941853) - [AuraFlow v0.1: a open source alternative to Stable Diffusion 3](https://blog.fal.ai/auraflow/)
-* [2024-07-11, 23:50:09](https://news.ycombinator.com/item?id=40941645) - [Third Places and Neighborhood Entrepreneurship: Evidence from Starbucks Cafés](https://www.nber.org/papers/w32604)
 * [2024-07-11, 23:40:36](https://news.ycombinator.com/item?id=40941588) - [AxRuntime (AxRT): Creating Applications Using Amiga APIs](https://www.axrt.org/)
 * [2024-07-11, 23:09:01](https://news.ycombinator.com/item?id=40941412) - [AWS Secrets Manager Agent](https://github.com/aws/aws-secretsmanager-agent)
 * [2024-07-11, 22:10:10](https://news.ycombinator.com/item?id=40941056) - [Physics-Based Deep Learning Book](https://physicsbaseddeeplearning.org/intro.html)
-* [2024-07-11, 21:31:07](https://news.ycombinator.com/item?id=40940784) - [Wlhc: Wayland Hot Corners](https://whynothugo.nl/journal/2024/07/11/introducing-wlhc-wayland-hot-corners/)
 * [2024-07-11, 21:00:06](https://news.ycombinator.com/item?id=40940565) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=40940565)
 * [2024-07-11, 20:16:21](https://news.ycombinator.com/item?id=40940225) - [WebVM is a server-less virtual Linux environment running client-side](https://webvm.io/)
 * [2024-07-11, 20:10:44](https://news.ycombinator.com/item?id=40940181) - [Show HN: Mandala – Automatically save, query and version Python computations](https://github.com/amakelov/mandala)
@@ -30,6 +29,7 @@
 * [2024-07-08, 23:06:17](https://news.ycombinator.com/item?id=40910731) - [Enums in Go](https://dizzy.zone/2024/01/26/Enums-in-Go/)
 * [2024-07-08, 20:09:08](https://news.ycombinator.com/item?id=40909094) - [Making Python Less Random](https://healeycodes.com/making-python-less-random)
 * [2024-07-08, 15:41:25](https://news.ycombinator.com/item?id=40906374) - [A revolution in archaeology is transforming our picture of past populations](https://aeon.co/essays/an-archeological-revolution-transforms-our-image-of-human-freedoms)
+* [2024-07-07, 15:37:46](https://news.ycombinator.com/item?id=40898383) - [Neuromorphic dendritic network with silent synapses for visual motion perception](https://www.nature.com/articles/s41928-024-01171-7)
 
 ## [Archives](archives/index.md)
 
