@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-07-12](index.md)
 
+* [2024-07-12, 15:46:52](https://news.ycombinator.com/item?id=40946644) - [Intel is selling defective 13-14th Gen CPUs](https://alderongames.com/intel-crashes)
 * [2024-07-12, 15:16:38](https://news.ycombinator.com/item?id=40946352) - [AI Integration Is Coming to Firefox](https://news.itsfoss.com/firefox-ai-integration/)
 * [2024-07-12, 15:06:16](https://news.ycombinator.com/item?id=40946264) - [Xkcd 2957: A Crossword Puzzle](https://xkcd.com/2957/)
+* [2024-07-12, 14:41:22](https://news.ycombinator.com/item?id=40946033) - [Tau: Open-source PaaS – A self-hosted Vercel / Netlify / Cloudflare alternative](https://github.com/taubyte/tau)
 * [2024-07-12, 14:22:25](https://news.ycombinator.com/item?id=40945846) - [WildGaussians: 3D Gaussian Splatting in the Wild](https://arxiv.org/abs/2407.08447)
 * [2024-07-12, 14:05:26](https://news.ycombinator.com/item?id=40945683) - [Reasoning skills of large language models are often overestimated](https://news.mit.edu/2024/reasoning-skills-large-language-models-often-overestimated-0711)
+* [2024-07-12, 14:04:21](https://news.ycombinator.com/item?id=40945671) - [Show HN: Smelt — an open source test runner for chip developers](https://silogy-io.github.io/smelt/)
 * [2024-07-12, 13:57:00](https://news.ycombinator.com/item?id=40945608) - [Thunderbird 128 \"Nebula\"](https://blog.thunderbird.net/2024/07/welcome-to-thunderbird-128-nebula/)
 * [2024-07-12, 13:50:00](https://news.ycombinator.com/item?id=40945562) - [SpaceX debris crashed onto Canadian farmland, highlighting a potential disaster](https://theconversation.com/spacex-space-junk-crashed-onto-saskatchewan-farmland-highlighting-a-potential-impending-disaster-233322)
 * [2024-07-12, 13:30:45](https://news.ycombinator.com/item?id=40945406) - [The Invisible Hand of Carbon Dioxide on Forest Productivity](https://eos.org/editor-highlights/the-invisible-hand-of-carbon-dioxide-on-forest-productivity)
