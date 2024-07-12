@@ -33,6 +33,7 @@
 * [2024-07-08, 18:37:44](https://news.ycombinator.com/item?id=40908062) - [Paleolithic eyed needles and the evolution of dress](https://www.science.org/doi/10.1126/sciadv.adp2887)
 * [2024-07-08, 18:27:16](https://news.ycombinator.com/item?id=40907933) - [No more boot loader: Please use the kernel instead](https://pretalx.com/devconf-cz-2024/talk/W3AVCT/)
 * [2024-07-08, 18:24:02](https://news.ycombinator.com/item?id=40907899) - [The EU Goes Too Far](https://stratechery.com/2024/the-e-u-goes-too-far/)
+* [2024-07-08, 18:18:35](https://news.ycombinator.com/item?id=40907826) - [Recursive Program Synthesis using Paramorphisms [pdf]](https://theory.stanford.edu/~aiken/publications/papers/pldi24.pdf)
 * [2024-07-08, 18:01:38](https://news.ycombinator.com/item?id=40907661) - [Never ask a candidate to rate themselves out of 10](https://think-twice.me/?p=70)
 * [2024-07-08, 18:00:44](https://news.ycombinator.com/item?id=40907655) - [Ognosia (2022)](https://wordswithoutborders.org/read/article/2022-06/ognosia-olga-tokarczuk-jennifer-croft/)
 * [2024-07-08, 17:54:07](https://news.ycombinator.com/item?id=40907600) - [Mass tourism protesters squirt water at Barcelona tourists](https://www.bbc.com/news/videos/c0dm9w2ey7po)

@@ -1,12 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-12, 17:27:45](https://news.ycombinator.com/item?id=40947588) - [Helium reservoir in MN is even more 'mind-boggling' than we thought](https://www.livescience.com/planet-earth/geology/massive-helium-reservoir-with-mind-boggling-concentrations-may-be-even-bigger-more-concentrated-than-we-thought)
+* [2024-07-12, 17:24:12](https://news.ycombinator.com/item?id=40947554) - [AT&T says hackers stole records of nearly all cellular customers calls and texts](https://www.nbcnews.com/news/us-news/t-says-hackers-stole-records-nearly-cell-customers-calls-texts-rcna161507)
+* [2024-07-12, 17:14:46](https://news.ycombinator.com/item?id=40947472) - [Finnish startup says it can speed up any CPU by 100x](https://www.msn.com/en-us/news/technology/one-of-the-wildest-claims-ever-heard-finnish-startup-says-it-can-speed-up-any-cpu-by-100x-using-a-tiny-piece-of-hardware-with-no-recoding-and-it-might-just-be-true/ar-BB1ouxAV)
 * [2024-07-12, 17:11:34](https://news.ycombinator.com/item?id=40947445) - [Blue checks on X deceiving users into engaging with harmful material, EU says](https://www.irishtimes.com/technology/big-tech/2024/07/12/blue-checks-on-elon-musks-x-are-deceptive-eu-says/)
-* [2024-07-12, 17:03:09](https://news.ycombinator.com/item?id=40947378) - [Gemini Pro refuses to acknowledge yt-dlp](https://twitter.com/adocomplete/status/1811802857022324904)
 * [2024-07-12, 17:00:54](https://news.ycombinator.com/item?id=40947357) - [Tesorio (YC S15) Is Hiring a Senior GenAI/LLM Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
-* [2024-07-12, 16:58:37](https://news.ycombinator.com/item?id=40947332) - [California Faces the Grape Apocalypse due to slump in wine sales](https://www.wine-searcher.com/m/2024/07/california-faces-the-grape-apocalypse)
 * [2024-07-12, 16:57:52](https://news.ycombinator.com/item?id=40947321) - [NASA astronauts from Boeing's Starliner may be stuck in space until August](https://www.theguardian.com/science/article/2024/jul/10/nasa-astronauts-boeing-starliner)
-* [2024-07-12, 16:41:40](https://news.ycombinator.com/item?id=40947163) - [AT&T says hacker stole data on 'nearly all' of its wireless customers](https://www.washingtonpost.com/business/2024/07/12/att-wireless-hacker-data-breach/)
-* [2024-07-12, 16:19:58](https://news.ycombinator.com/item?id=40946978) - [Exploring the Broadcast Channel API for cross-tab communication](https://developer.mozilla.org/en-US/blog/exploring-the-broadcast-channel-api-for-cross-tab-communication/)
 * [2024-07-12, 14:41:22](https://news.ycombinator.com/item?id=40946033) - [Tau: Open-source PaaS – A self-hosted Vercel / Netlify / Cloudflare alternative](https://github.com/taubyte/tau)
 * [2024-07-12, 14:22:25](https://news.ycombinator.com/item?id=40945846) - [WildGaussians: 3D Gaussian Splatting in the Wild](https://arxiv.org/abs/2407.08447)
 * [2024-07-12, 14:04:21](https://news.ycombinator.com/item?id=40945671) - [Show HN: Smelt — an open source test runner for chip developers](https://silogy-io.github.io/smelt/)
@@ -29,6 +28,7 @@
 * [2024-07-11, 19:21:08](https://news.ycombinator.com/item?id=40939703) - [Gene-silencing tool shows promise as a future therapy against prion diseases](https://news.mit.edu/2024/charmed-collaboration-creates-therapy-candidate-fatal-prion-diseases-0627)
 * [2024-07-09, 11:02:22](https://news.ycombinator.com/item?id=40914635) - [So you want to rent an NVIDIA H100 cluster? 2024 Consumer Guide](https://www.photoroom.com/inside-photoroom/so-you-want-to-rent-an-nvidia-h100-cluster-2024-consumer-guide?slug=inside-photoroom/so-you-want-to-rent-an-nvidia-h100-cluster-2024-consumer-guide&_storyblok_published=511470179&)
 * [2024-07-08, 20:09:08](https://news.ycombinator.com/item?id=40909094) - [Making Python Less Random](https://healeycodes.com/making-python-less-random)
+* [2024-07-08, 18:18:35](https://news.ycombinator.com/item?id=40907826) - [Recursive Program Synthesis using Paramorphisms [pdf]](https://theory.stanford.edu/~aiken/publications/papers/pldi24.pdf)
 * [2024-07-07, 15:37:46](https://news.ycombinator.com/item?id=40898383) - [Neuromorphic dendritic network with silent synapses for visual motion perception](https://www.nature.com/articles/s41928-024-01171-7)
 
 ## [Archives](archives/index.md)
