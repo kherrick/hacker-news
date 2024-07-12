@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-12, 11:28:16](https://news.ycombinator.com/item?id=40944561) - [SpaceX's unmatched streak of perfection with the Falcon 9 rocket is over](https://arstechnica.com/space/2024/07/the-unmatched-streak-of-perfection-with-spacexs-falcon-9-rocket-is-over/)
 * [2024-07-12, 10:39:52](https://news.ycombinator.com/item?id=40944320) - [Deno 1.45: Workspace and Monorepo Support](https://deno.com/blog/v1.45)
 * [2024-07-12, 09:06:15](https://news.ycombinator.com/item?id=40943904) - [Show HN: Daminik – An Open source digital asset manager](https://daminik.com)
 * [2024-07-12, 08:45:42](https://news.ycombinator.com/item?id=40943777) - [The Forth Methodology of Charles Moore](https://www.ultratechnology.com/method.htm)
@@ -12,7 +13,6 @@
 * [2024-07-12, 02:27:52](https://news.ycombinator.com/item?id=40942307) - [StreamVC: Real-Time Low-Latency Voice Conversion](https://research.google/pubs/streamvc-real-time-low-latency-voice-conversion/)
 * [2024-07-12, 02:18:11](https://news.ycombinator.com/item?id=40942270) - [JavaScript Ben.ch (JavaScript Benchmarking Tools)](https://jsben.ch/)
 * [2024-07-12, 01:45:05](https://news.ycombinator.com/item?id=40942141) - [Floppy8 – A Tiny Computer, in a Floppy Drive (2023)](https://abe.today/blogs/main/floppy8-a-tiny-computer-in-a-floppy-drive)
-* [2024-07-12, 00:42:43](https://news.ycombinator.com/item?id=40941853) - [AuraFlow v0.1: a open source alternative to Stable Diffusion 3](https://blog.fal.ai/auraflow/)
 * [2024-07-11, 23:40:36](https://news.ycombinator.com/item?id=40941588) - [AxRuntime (AxRT): Creating Applications Using Amiga APIs](https://www.axrt.org/)
 * [2024-07-11, 23:09:01](https://news.ycombinator.com/item?id=40941412) - [AWS Secrets Manager Agent](https://github.com/aws/aws-secretsmanager-agent)
 * [2024-07-11, 22:10:10](https://news.ycombinator.com/item?id=40941056) - [Physics-Based Deep Learning Book](https://physicsbaseddeeplearning.org/intro.html)
