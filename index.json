@@ -1,42 +1,22 @@
 [
   [
     [
+      "2024-07-12, 23:19:15",
+      "https://news.ycombinator.com/item?id=40950359"
+    ],
+    [
+      "Court Holds Federal Ban on Home-Distilling Exceeds Congress' Enumerated Powers [pdf]",
+      "https://storage.courtlistener.com/recap/gov.uscourts.txnd.384014/gov.uscourts.txnd.384014.49.0.pdf"
+    ]
+  ],
+  [
+    [
       "2024-07-12, 22:43:41",
       "https://news.ycombinator.com/item?id=40950130"
     ],
     [
       "Lead Animation Engineer – Gym Class (YC W22) Is Hiring",
       "https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-lead-animation-engineer"
-    ]
-  ],
-  [
-    [
-      "2024-07-12, 22:36:48",
-      "https://news.ycombinator.com/item?id=40950090"
-    ],
-    [
-      "Software Library: MS-DOS Games",
-      "https://archive.org/details/softwarelibrary_msdos_games"
-    ]
-  ],
-  [
-    [
-      "2024-07-12, 22:33:17",
-      "https://news.ycombinator.com/item?id=40950071"
-    ],
-    [
-      "Apple will allow developers access to its NFC technology, avoiding an EU fine",
-      "https://www.engadget.com/apple-will-allow-developers-access-to-its-nfc-technology-avoiding-an-eu-fine-123026127.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-12, 21:40:37",
-      "https://news.ycombinator.com/item?id=40949698"
-    ],
-    [
-      "OpenAI promised to make its AI safe. Employees say it 'failed' its first test",
-      "https://www.washingtonpost.com/technology/2024/07/12/openai-ai-safety-regulation-gpt4/"
     ]
   ],
   [
@@ -51,42 +31,22 @@
   ],
   [
     [
-      "2024-07-12, 20:12:29",
-      "https://news.ycombinator.com/item?id=40948971"
-    ],
-    [
-      "Goldman Sachs: AI Is overhyped, expensive, and unreliable",
-      "https://www.404media.co/goldman-sachs-ai-is-overhyped-wildly-expensive-and-unreliable/"
-    ]
-  ],
-  [
-    [
-      "2024-07-12, 20:10:58",
-      "https://news.ycombinator.com/item?id=40948952"
-    ],
-    [
-      "Cosmic Updates (Feat. Community)",
-      "https://blog.system76.com/post/cosmic-july-2024"
-    ]
-  ],
-  [
-    [
-      "2024-07-12, 20:10:11",
-      "https://news.ycombinator.com/item?id=40948942"
-    ],
-    [
-      "Cosmic Desktop Close to Alpha Release, Adds Compositor Multi-Threading",
-      "https://www.phoronix.com/news/COSMIC-July-Updates"
-    ]
-  ],
-  [
-    [
       "2024-07-12, 19:52:52",
       "https://news.ycombinator.com/item?id=40948806"
     ],
     [
       "Free-threaded CPython is ready to experiment with",
       "https://labs.quansight.org/blog/free-threaded-python-rollout"
+    ]
+  ],
+  [
+    [
+      "2024-07-12, 19:38:05",
+      "https://news.ycombinator.com/item?id=40948692"
+    ],
+    [
+      "Oystercatchers are waging war on NYC's beach drones",
+      "https://apnews.com/article/new-york-drones-shorebirds-beach-safety-c2cbfb6ca03f771082ff57a28701f915"
     ]
   ],
   [
@@ -141,12 +101,32 @@
   ],
   [
     [
+      "2024-07-12, 17:15:09",
+      "https://news.ycombinator.com/item?id=40947479"
+    ],
+    [
+      "52,000-year-old woolly mammoth chromosomes reconstructed from 'jerky-like' skin",
+      "https://www.abc.net.au/news/science/2024-07-12/woolly-mammoth-chromosomes-resconstructed-from-skin/104059130"
+    ]
+  ],
+  [
+    [
       "2024-07-12, 17:08:19",
       "https://news.ycombinator.com/item?id=40947415"
     ],
     [
       "Show HN: Dropbase AI – A Prompt-Based Python Web App Builder",
       "https://github.com/DropbaseHQ/dropbase"
+    ]
+  ],
+  [
+    [
+      "2024-07-12, 16:54:24",
+      "https://news.ycombinator.com/item?id=40947277"
+    ],
+    [
+      "lldap: Light LDAP Implementation",
+      "https://github.com/lldap/lldap"
     ]
   ],
   [
@@ -261,6 +241,16 @@
   ],
   [
     [
+      "2024-07-12, 07:46:10",
+      "https://news.ycombinator.com/item?id=40943460"
+    ],
+    [
+      "Arm Accuracy Super Resolution",
+      "https://community.arm.com/arm-community-blogs/b/graphics-gaming-and-vr-blog/posts/introducing-arm-accuracy-super-resolution"
+    ]
+  ],
+  [
+    [
       "2024-07-11, 20:17:58",
       "https://news.ycombinator.com/item?id=40940241"
     ],
@@ -297,6 +287,16 @@
     [
       "Recursive Program Synthesis using Paramorphisms [pdf]",
       "https://theory.stanford.edu/~aiken/publications/papers/pldi24.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-07-07, 22:48:26",
+      "https://news.ycombinator.com/item?id=40901138"
+    ],
+    [
+      "Final Fantasy 7: An Oral History (2017)",
+      "https://www.polygon.com/a/final-fantasy-7"
     ]
   ]
 ]
