@@ -17,6 +17,7 @@
 * [2024-07-08, 20:35:48](https://news.ycombinator.com/item?id=40909390) - [Negative Temperature](https://en.wikipedia.org/wiki/Negative_temperature)
 * [2024-07-08, 20:29:40](https://news.ycombinator.com/item?id=40909334) - [The Deadlock Empire: An Interactive Guide to Locks](https://deadlockempire.github.io)
 * [2024-07-08, 20:29:08](https://news.ycombinator.com/item?id=40909327) - [Making My Own Wedding Rings](https://geoff.greer.fm/2024/07/07/making-my-own-wedding-rings/)
+* [2024-07-08, 20:09:08](https://news.ycombinator.com/item?id=40909094) - [Making Python Less Random](https://healeycodes.com/making-python-less-random)
 * [2024-07-08, 20:08:03](https://news.ycombinator.com/item?id=40909076) - [DB Browser for SQLite (Windows, macOS, and Most Versions of Linux)](https://sqlitebrowser.org/)
 * [2024-07-08, 20:02:56](https://news.ycombinator.com/item?id=40909006) - [Plausible Analytics: GDPR Compliance w/o Cookie Consent Banner](https://plausible.io/)
 * [2024-07-08, 19:52:31](https://news.ycombinator.com/item?id=40908878) - [Anna's Archive Faces Millions in Damages and a Permanent Injunction](https://torrentfreak.com/annas-archive-faces-millions-in-damages-and-a-permanent-injunction-240708/)

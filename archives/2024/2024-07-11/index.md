@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-07-11](index.md)
 
+* [2024-07-11, 23:50:09](https://news.ycombinator.com/item?id=40941645) - [Third Places and Neighborhood Entrepreneurship: Evidence from Starbucks Cafés](https://www.nber.org/papers/w32604)
+* [2024-07-11, 23:39:47](https://news.ycombinator.com/item?id=40941583) - [First cell-free system in which genetic information and metabolism work together](https://phys.org/news/2024-07-team-cell-free-genetic-metabolism.html)
+* [2024-07-11, 23:23:36](https://news.ycombinator.com/item?id=40941508) - [Windows 95, 20 July 1992 build](https://betawiki.net/index.php?title=Windows_95_20_July_1992_build)
+* [2024-07-11, 23:18:15](https://news.ycombinator.com/item?id=40941475) - [Boosting Compiler Testing by Injecting Real-World Code](https://dl.acm.org/doi/10.1145/3656386)
 * [2024-07-11, 23:16:51](https://news.ycombinator.com/item?id=40941463) - [Why I'm Writing a Book on Cryptography (2020)](https://www.cryptologie.net/article/504/why-im-writing-a-book-on-cryptography/)
 * [2024-07-11, 22:18:35](https://news.ycombinator.com/item?id=40941115) - [Sonnet 3.5: Please write an asteroids game](https://claude.site/artifacts/a0d4590f-5a5e-40ac-8a27-1c4db47df938)
 * [2024-07-11, 22:10:10](https://news.ycombinator.com/item?id=40941056) - [Physics-Based Deep Learning Book](https://physicsbaseddeeplearning.org/intro.html)
