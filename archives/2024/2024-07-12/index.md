@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-07-12](index.md)
 
+* [2024-07-12, 17:36:04](https://news.ycombinator.com/item?id=40947657) - [AT&T: Hacker Stole Cell, Text Data on Nearly All Wireless Customers](https://www.wsj.com/business/telecom/at-t-says-hacker-stole-data-on-nearly-all-its-wireless-customers-32d6969d)
 * [2024-07-12, 17:27:45](https://news.ycombinator.com/item?id=40947588) - [Helium reservoir in MN is even more 'mind-boggling' than we thought](https://www.livescience.com/planet-earth/geology/massive-helium-reservoir-with-mind-boggling-concentrations-may-be-even-bigger-more-concentrated-than-we-thought)
 * [2024-07-12, 17:24:12](https://news.ycombinator.com/item?id=40947554) - [AT&T says hackers stole records of nearly all cellular customers calls and texts](https://www.nbcnews.com/news/us-news/t-says-hackers-stole-records-nearly-cell-customers-calls-texts-rcna161507)
+* [2024-07-12, 17:22:29](https://news.ycombinator.com/item?id=40947540) - [Ex-Meta scientists debut gigantic AI protein design model](https://www.nature.com/articles/d41586-024-02214-x)
 * [2024-07-12, 17:14:46](https://news.ycombinator.com/item?id=40947472) - [Finnish startup says it can speed up any CPU by 100x](https://www.msn.com/en-us/news/technology/one-of-the-wildest-claims-ever-heard-finnish-startup-says-it-can-speed-up-any-cpu-by-100x-using-a-tiny-piece-of-hardware-with-no-recoding-and-it-might-just-be-true/ar-BB1ouxAV)
 * [2024-07-12, 17:11:34](https://news.ycombinator.com/item?id=40947445) - [Blue checks on X deceiving users into engaging with harmful material, EU says](https://www.irishtimes.com/technology/big-tech/2024/07/12/blue-checks-on-elon-musks-x-are-deceptive-eu-says/)
 * [2024-07-12, 17:03:09](https://news.ycombinator.com/item?id=40947378) - [Gemini Pro refuses to acknowledge yt-dlp](https://twitter.com/adocomplete/status/1811802857022324904)
