@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-12, 13:30:45](https://news.ycombinator.com/item?id=40945406) - [The Invisible Hand of Carbon Dioxide on Forest Productivity](https://eos.org/editor-highlights/the-invisible-hand-of-carbon-dioxide-on-forest-productivity)
 * [2024-07-12, 12:51:58](https://news.ycombinator.com/item?id=40945076) - [Windows NT for Power Macintosh](https://github.com/Wack0/maciNTosh)
 * [2024-07-12, 12:19:27](https://news.ycombinator.com/item?id=40944840) - [Cradle: Empowering Foundation Agents Towards General Computer Control](https://baai-agents.github.io/Cradle/)
 * [2024-07-12, 12:00:34](https://news.ycombinator.com/item?id=40944728) - [Legion Health (YC S21) Is Hiring a Technical Product Marketing Lead](https://www.ycombinator.com/companies/legion-health/jobs/9JHdQqJ-technical-product-marketing-lead-legion-health-y-combinator-startup)
 * [2024-07-12, 11:17:54](https://news.ycombinator.com/item?id=40944505) - [AT&T says criminals stole phone records of 'nearly all' customers in data breach](https://techcrunch.com/2024/07/12/att-phone-records-stolen-data-breach/)
-* [2024-07-12, 09:36:29](https://news.ycombinator.com/item?id=40944049) - [You can deeplink to a specific PDF page](https://technicalwriting.dev/www/pdf.html)
 * [2024-07-12, 09:06:15](https://news.ycombinator.com/item?id=40943904) - [Show HN: Daminik – An Open source digital asset manager](https://daminik.com)
 * [2024-07-12, 08:45:42](https://news.ycombinator.com/item?id=40943777) - [The Forth Methodology of Charles Moore](https://www.ultratechnology.com/method.htm)
 * [2024-07-12, 07:46:10](https://news.ycombinator.com/item?id=40943460) - [Arm Accuracy Super Resolution](https://community.arm.com/arm-community-blogs/b/graphics-gaming-and-vr-blog/posts/introducing-arm-accuracy-super-resolution)
