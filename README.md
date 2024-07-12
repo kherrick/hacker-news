@@ -1,7 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-12, 14:05:26](https://news.ycombinator.com/item?id=40945683) - [Reasoning skills of large language models are often overestimated](https://news.mit.edu/2024/reasoning-skills-large-language-models-often-overestimated-0711)
 * [2024-07-12, 13:57:00](https://news.ycombinator.com/item?id=40945608) - [Thunderbird 128 \"Nebula\"](https://blog.thunderbird.net/2024/07/welcome-to-thunderbird-128-nebula/)
-* [2024-07-12, 13:30:45](https://news.ycombinator.com/item?id=40945406) - [The Invisible Hand of Carbon Dioxide on Forest Productivity](https://eos.org/editor-highlights/the-invisible-hand-of-carbon-dioxide-on-forest-productivity)
+* [2024-07-12, 13:50:00](https://news.ycombinator.com/item?id=40945562) - [SpaceX debris crashed onto Canadian farmland, highlighting a potential disaster](https://theconversation.com/spacex-space-junk-crashed-onto-saskatchewan-farmland-highlighting-a-potential-impending-disaster-233322)
 * [2024-07-12, 12:51:58](https://news.ycombinator.com/item?id=40945076) - [Windows NT for Power Macintosh](https://github.com/Wack0/maciNTosh)
 * [2024-07-12, 12:19:27](https://news.ycombinator.com/item?id=40944840) - [Cradle: Empowering Foundation Agents Towards General Computer Control](https://baai-agents.github.io/Cradle/)
 * [2024-07-12, 12:00:34](https://news.ycombinator.com/item?id=40944728) - [Legion Health (YC S21) Is Hiring a Technical Product Marketing Lead](https://www.ycombinator.com/companies/legion-health/jobs/9JHdQqJ-technical-product-marketing-lead-legion-health-y-combinator-startup)
@@ -14,7 +15,6 @@
 * [2024-07-12, 02:27:52](https://news.ycombinator.com/item?id=40942307) - [StreamVC: Real-Time Low-Latency Voice Conversion](https://research.google/pubs/streamvc-real-time-low-latency-voice-conversion/)
 * [2024-07-12, 02:18:11](https://news.ycombinator.com/item?id=40942270) - [JavaScript Ben.ch (JavaScript Benchmarking Tools)](https://jsben.ch/)
 * [2024-07-12, 01:45:05](https://news.ycombinator.com/item?id=40942141) - [Floppy8 – A Tiny Computer, in a Floppy Drive (2023)](https://abe.today/blogs/main/floppy8-a-tiny-computer-in-a-floppy-drive)
-* [2024-07-11, 23:40:36](https://news.ycombinator.com/item?id=40941588) - [AxRuntime (AxRT): Creating Applications Using Amiga APIs](https://www.axrt.org/)
 * [2024-07-11, 23:09:01](https://news.ycombinator.com/item?id=40941412) - [AWS Secrets Manager Agent](https://github.com/aws/aws-secretsmanager-agent)
 * [2024-07-11, 22:10:10](https://news.ycombinator.com/item?id=40941056) - [Physics-Based Deep Learning Book](https://physicsbaseddeeplearning.org/intro.html)
 * [2024-07-11, 20:17:58](https://news.ycombinator.com/item?id=40940241) - [Beating the L1 cache with value speculation (2021)](https://mazzo.li/posts/value-speculation.html)
