@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-07-12](index.md)
 
 * [2024-07-12, 09:33:20](https://news.ycombinator.com/item?id=40944035) - [Learning React: 5 Important Principles About Hooks You Have to Know](https://code.likeagirl.io/learning-react-5-important-principles-about-hooks-you-have-to-know-4967cd9d4eb4)
+* [2024-07-12, 08:45:42](https://news.ycombinator.com/item?id=40943777) - [The Forth Methodology of Charles Moore](https://www.ultratechnology.com/method.htm)
+* [2024-07-12, 08:19:25](https://news.ycombinator.com/item?id=40943607) - [Open-Source No-Code Tools with the Most GitHub Stars](https://www.nocobase.com/en/blog/the-top-12-open-source-no-code-tools-with-the-most-github-stars)
 * [2024-07-12, 07:48:20](https://news.ycombinator.com/item?id=40943470) - [Some thoughts on the web. On web engines, content, and web rent (2023)](https://liberda.nl/weblog/javascript-was-a-mistake/)
 * [2024-07-12, 07:46:10](https://news.ycombinator.com/item?id=40943460) - [Arm Accuracy Super Resolution](https://community.arm.com/arm-community-blogs/b/graphics-gaming-and-vr-blog/posts/introducing-arm-accuracy-super-resolution)
 * [2024-07-12, 07:41:16](https://news.ycombinator.com/item?id=40943436) - [As an Employee, You Are Disposable (2023)](https://nelson.cloud/as-an-employee-you-are-disposable/)
