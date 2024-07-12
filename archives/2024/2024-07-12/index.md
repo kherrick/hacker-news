@@ -6,6 +6,7 @@
 
 * [2024-07-12, 22:43:41](https://news.ycombinator.com/item?id=40950130) - [Lead Animation Engineer – Gym Class (YC W22) Is Hiring](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-lead-animation-engineer)
 * [2024-07-12, 22:36:48](https://news.ycombinator.com/item?id=40950090) - [Software Library: MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games)
+* [2024-07-12, 22:33:17](https://news.ycombinator.com/item?id=40950071) - [Apple will allow developers access to its NFC technology, avoiding an EU fine](https://www.engadget.com/apple-will-allow-developers-access-to-its-nfc-technology-avoiding-an-eu-fine-123026127.html)
 * [2024-07-12, 21:40:37](https://news.ycombinator.com/item?id=40949698) - [OpenAI promised to make its AI safe. Employees say it 'failed' its first test](https://www.washingtonpost.com/technology/2024/07/12/openai-ai-safety-regulation-gpt4/)
 * [2024-07-12, 20:48:47](https://news.ycombinator.com/item?id=40949286) - [VCs are now charging founders for meetings: $2500 for 30 minutes on a Zoom](https://sfstandard.com/2024/07/12/intro-cameo-techie-meeting-call/)
 * [2024-07-12, 20:36:50](https://news.ycombinator.com/item?id=40949176) - [What is data sovereignty and why does it matter for your business?](https://proton.me/blog/data-sovereignty)
