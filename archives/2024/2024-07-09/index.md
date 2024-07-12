@@ -93,6 +93,7 @@
 * [2024-07-09, 12:05:43](https://news.ycombinator.com/item?id=40915112) - [Radius/UDP. How legacy protocols need to keep up with modern cryptography](https://blog.cloudflare.com/radius-udp-vulnerable-md5-attack)
 * [2024-07-09, 12:01:37](https://news.ycombinator.com/item?id=40915082) - [PySkyWiFi: Free stupid wi-fi on long-haul flights](https://robertheaton.com/pyskywifi/)
 * [2024-07-09, 11:53:41](https://news.ycombinator.com/item?id=40915035) - [Houthi rebels are operating their own GuardZoo spyware](https://www.theregister.com/2024/07/09/houthi_rebels_malware/)
+* [2024-07-09, 11:49:51](https://news.ycombinator.com/item?id=40915012) - [We increased our video rendering speeds by 70x using the WebCodecs API](https://re.video/blog/faster-rendering)
 * [2024-07-09, 11:48:42](https://news.ycombinator.com/item?id=40915005) - [MobileLLM: Optimizing Sub-Billion Parameter Language Models for On-Device Use](https://github.com/facebookresearch/MobileLLM)
 * [2024-07-09, 11:47:33](https://news.ycombinator.com/item?id=40914993) - [Canada became a car theft capital of the world](https://www.bbc.com/news/articles/cy79dq2n093o)
 * [2024-07-09, 11:44:40](https://news.ycombinator.com/item?id=40914958) - [Circos – Circular Visualization](https://circos.ca/)
