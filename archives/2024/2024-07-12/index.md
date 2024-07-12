@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-07-12](index.md)
 
+* [2024-07-12, 20:48:47](https://news.ycombinator.com/item?id=40949286) - [VCs are now charging founders for meetings: $2500 for 30 minutes on a Zoom](https://sfstandard.com/2024/07/12/intro-cameo-techie-meeting-call/)
 * [2024-07-12, 20:36:50](https://news.ycombinator.com/item?id=40949176) - [What is data sovereignty and why does it matter for your business?](https://proton.me/blog/data-sovereignty)
 * [2024-07-12, 20:19:21](https://news.ycombinator.com/item?id=40949034) - [\"GitHub\" Is Starting to Feel Like Legacy Software](https://www.mistys-internet.website/blog/blog/2024/07/12/github-is-starting-to-feel-like-legacy-software/)
 * [2024-07-12, 20:17:40](https://news.ycombinator.com/item?id=40949021) - [Responsive bar charts in HTML and CSS](https://9elements.com/blog/responsive-bar-charts-in-html-and-css/)
+* [2024-07-12, 20:10:58](https://news.ycombinator.com/item?id=40948952) - [Cosmic Updates (Feat. Community)](https://blog.system76.com/post/cosmic-july-2024)
 * [2024-07-12, 20:10:11](https://news.ycombinator.com/item?id=40948942) - [Cosmic Desktop Close to Alpha Release, Adds Compositor Multi-Threading](https://www.phoronix.com/news/COSMIC-July-Updates)
 * [2024-07-12, 20:02:39](https://news.ycombinator.com/item?id=40948888) - [Rust Received the SIGPLAN Programming Languages Software Award 2024](https://www.sigplan.org/Awards/Software/)
 * [2024-07-12, 20:02:25](https://news.ycombinator.com/item?id=40948884) - [Antonin Scalia Stole Your Car](https://pluralistic.net/2024/06/28/dealer-management-software/#antonin-scalia-stole-your-car)
@@ -16,6 +18,7 @@
 * [2024-07-12, 19:38:05](https://news.ycombinator.com/item?id=40948692) - ['Annoyed' Seagulls Are Waging War on NYC's Beach Drones](https://gizmodo.com/very-annoyed-seagulls-are-waging-war-on-nycs-beach-drones-2000469990)
 * [2024-07-12, 19:36:28](https://news.ycombinator.com/item?id=40948680) - [We need superknowledge before superintelligence](https://exa.ai/blog/superknowledge)
 * [2024-07-12, 19:29:21](https://news.ycombinator.com/item?id=40948636) - [Follow the Crypto](https://www.followthecrypto.org/)
+* [2024-07-12, 19:19:31](https://news.ycombinator.com/item?id=40948566) - [Common Expression Language interpreter written in Rust](https://github.com/clarkmcc/cel-rust)
 * [2024-07-12, 18:54:17](https://news.ycombinator.com/item?id=40948353) - [Beating the Compiler](https://www.mattkeeter.com/blog/2024-07-12-interpreter/)
 * [2024-07-12, 18:41:33](https://news.ycombinator.com/item?id=40948245) - [Is Mesop and Web Components the cure to Front-end fatigue?](https://google.github.io/mesop/blog/2024/07/12/is-mesop--web-components-the-cure-to-front-end-fatigue/)
 * [2024-07-12, 18:39:52](https://news.ycombinator.com/item?id=40948232) - [Discord vs. IRC Rough Notes](https://push.cx/discord-vs-irc-notes)
@@ -57,6 +60,7 @@
 * [2024-07-12, 14:04:21](https://news.ycombinator.com/item?id=40945671) - [Show HN: Smelt — an open source test runner for chip developers](https://silogy-io.github.io/smelt/)
 * [2024-07-12, 13:57:00](https://news.ycombinator.com/item?id=40945608) - [Thunderbird 128 \"Nebula\"](https://blog.thunderbird.net/2024/07/welcome-to-thunderbird-128-nebula/)
 * [2024-07-12, 13:50:00](https://news.ycombinator.com/item?id=40945562) - [SpaceX debris crashed onto Canadian farmland, highlighting a potential disaster](https://theconversation.com/spacex-space-junk-crashed-onto-saskatchewan-farmland-highlighting-a-potential-impending-disaster-233322)
+* [2024-07-12, 13:45:33](https://news.ycombinator.com/item?id=40945532) - [Ask HN: How to grow concert visuals business?](https://news.ycombinator.com/item?id=40945532)
 * [2024-07-12, 13:30:45](https://news.ycombinator.com/item?id=40945406) - [The Invisible Hand of Carbon Dioxide on Forest Productivity](https://eos.org/editor-highlights/the-invisible-hand-of-carbon-dioxide-on-forest-productivity)
 * [2024-07-12, 13:24:24](https://news.ycombinator.com/item?id=40945355) - [Born into slavery, he rose to the top of France's art world](https://www.washingtonpost.com/entertainment/art/2024/07/12/guillaume-lethiere-exhibition-life/)
 * [2024-07-12, 13:17:36](https://news.ycombinator.com/item?id=40945285) - [The human x-ray scientists](https://thequackdoctor.substack.com/p/the-human-x-ray-scientists)
