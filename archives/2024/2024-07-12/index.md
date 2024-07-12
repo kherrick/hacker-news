@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-12](index.md)
 
 * [2024-07-12, 17:48:44](https://news.ycombinator.com/item?id=40947796) - [Constellation talking to Pennsylvania on Three Mile Island restart, sources say](https://www.reuters.com/business/energy/constellation-talking-pennsylvania-three-mile-island-restart-sources-say-2024-07-02/)
+* [2024-07-12, 17:41:28](https://news.ycombinator.com/item?id=40947710) - ['Dune'-Inspired Spacesuit Turns Astronauts' Urine into Drinkable Water](https://www.wsj.com/science/space-astronomy/dune-stillsuit-astronaut-spacesuit-d740bf3d)
 * [2024-07-12, 17:36:04](https://news.ycombinator.com/item?id=40947657) - [AT&T: Hacker Stole Cell, Text Data on Nearly All Wireless Customers](https://www.wsj.com/business/telecom/at-t-says-hacker-stole-data-on-nearly-all-its-wireless-customers-32d6969d)
 * [2024-07-12, 17:27:45](https://news.ycombinator.com/item?id=40947588) - [Helium reservoir in MN is even more 'mind-boggling' than we thought](https://www.livescience.com/planet-earth/geology/massive-helium-reservoir-with-mind-boggling-concentrations-may-be-even-bigger-more-concentrated-than-we-thought)
 * [2024-07-12, 17:24:12](https://news.ycombinator.com/item?id=40947554) - [AT&T says hackers stole records of nearly all cellular customers calls and texts](https://www.nbcnews.com/news/us-news/t-says-hackers-stole-records-nearly-cell-customers-calls-texts-rcna161507)
@@ -24,6 +25,7 @@
 * [2024-07-12, 15:16:38](https://news.ycombinator.com/item?id=40946352) - [AI Integration Is Coming to Firefox](https://news.itsfoss.com/firefox-ai-integration/)
 * [2024-07-12, 15:06:16](https://news.ycombinator.com/item?id=40946264) - [Xkcd 2957: A Crossword Puzzle](https://xkcd.com/2957/)
 * [2024-07-12, 14:41:22](https://news.ycombinator.com/item?id=40946033) - [Tau: Open-source PaaS – A self-hosted Vercel / Netlify / Cloudflare alternative](https://github.com/taubyte/tau)
+* [2024-07-12, 14:34:34](https://news.ycombinator.com/item?id=40945961) - [Perspective: High-performance data visualization and analytics in WebAssembly](https://github.com/finos/perspective)
 * [2024-07-12, 14:22:25](https://news.ycombinator.com/item?id=40945846) - [WildGaussians: 3D Gaussian Splatting in the Wild](https://arxiv.org/abs/2407.08447)
 * [2024-07-12, 14:05:26](https://news.ycombinator.com/item?id=40945683) - [Reasoning skills of large language models are often overestimated](https://news.mit.edu/2024/reasoning-skills-large-language-models-often-overestimated-0711)
 * [2024-07-12, 14:04:21](https://news.ycombinator.com/item?id=40945671) - [Show HN: Smelt — an open source test runner for chip developers](https://silogy-io.github.io/smelt/)
