@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-12, 15:16:38",
+      "https://news.ycombinator.com/item?id=40946352"
+    ],
+    [
+      "AI Integration Is Coming to Firefox",
+      "https://news.itsfoss.com/firefox-ai-integration/"
+    ]
+  ],
+  [
+    [
       "2024-07-12, 14:22:25",
       "https://news.ycombinator.com/item?id=40945846"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2024-07-12, 13:14:32",
-      "https://news.ycombinator.com/item?id=40945265"
+      "2024-07-12, 13:24:24",
+      "https://news.ycombinator.com/item?id=40945355"
     ],
     [
-      "The most ancient human genome yet has been sequenced – and it's a Denisovan's",
-      "https://www.science.org/content/article/most-ancient-human-genome-yet-has-been-sequenced-and-it-s-denisovan"
+      "Born into slavery, he rose to the top of France's art world",
+      "https://www.washingtonpost.com/entertainment/art/2024/07/12/guillaume-lethiere-exhibition-life/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Capturing Linux SSL/TLS plaintext without a CA certificate using eBPF",
       "https://github.com/gojue/ecapture"
-    ]
-  ],
-  [
-    [
-      "2024-07-11, 17:06:06",
-      "https://news.ycombinator.com/item?id=40938577"
-    ],
-    [
-      "FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-Precision",
-      "https://www.together.ai/blog/flashattention-3"
     ]
   ],
   [
