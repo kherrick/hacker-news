@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2024-07-11, 21:31:07",
-      "https://news.ycombinator.com/item?id=40940784"
-    ],
-    [
-      "Wlhc: Wayland Hot Corners",
-      "https://whynothugo.nl/journal/2024/07/11/introducing-wlhc-wayland-hot-corners/"
-    ]
-  ],
-  [
-    [
       "2024-07-11, 21:00:06",
       "https://news.ycombinator.com/item?id=40940565"
     ],
@@ -197,6 +187,16 @@
     [
       "Surviving three years in North Korea as a foreigner (2021)",
       "https://mydiplomaticlife.com/how-to-survive-3-years-in-north-korea-as-a-foreigner/"
+    ]
+  ],
+  [
+    [
+      "2024-07-11, 15:29:08",
+      "https://news.ycombinator.com/item?id=40937760"
+    ],
+    [
+      "Putting DuckDB in Postgres to Query Iceberg",
+      "https://blog.paradedb.com/pages/iceberg_lakehouse"
     ]
   ],
   [
