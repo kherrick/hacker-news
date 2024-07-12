@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-12, 02:17:21](https://news.ycombinator.com/item?id=40942266) - [I spent two years trying to make SD cards more nostalgic](https://www.youtube.com/watch?v=END_PVp3Eds)
 * [2024-07-11, 23:50:09](https://news.ycombinator.com/item?id=40941645) - [Third Places and Neighborhood Entrepreneurship: Evidence from Starbucks Cafés](https://www.nber.org/papers/w32604)
 * [2024-07-11, 23:39:47](https://news.ycombinator.com/item?id=40941583) - [First cell-free system in which genetic information and metabolism work together](https://phys.org/news/2024-07-team-cell-free-genetic-metabolism.html)
 * [2024-07-11, 23:18:15](https://news.ycombinator.com/item?id=40941475) - [Boosting Compiler Testing by Injecting Real-World Code](https://dl.acm.org/doi/10.1145/3656386)
@@ -27,9 +28,8 @@
 * [2024-07-10, 21:20:41](https://news.ycombinator.com/item?id=40931590) - [Physicists have created the most fiendishly difficult maze](https://www.sciencealert.com/physicists-have-created-the-worlds-most-fiendishly-difficult-maze)
 * [2024-07-09, 09:26:08](https://news.ycombinator.com/item?id=40914052) - [Rapid extraction of europium from spent fluorescent lamps](https://ethz.ch/en/news-and-events/eth-news/news/2024/07/mining-rare-earth-metals-from-electronic-waste.html)
 * [2024-07-08, 20:09:08](https://news.ycombinator.com/item?id=40909094) - [Making Python Less Random](https://healeycodes.com/making-python-less-random)
+* [2024-07-08, 15:41:25](https://news.ycombinator.com/item?id=40906374) - [A revolution in archaeology is transforming our picture of past populations](https://aeon.co/essays/an-archeological-revolution-transforms-our-image-of-human-freedoms)
 * [2024-07-08, 04:48:10](https://news.ycombinator.com/item?id=40902688) - [Children's mental models of recursive LOGO programs (1985)](https://telearn.hal.science/hal-00190537/document)
-* [2024-07-07, 10:21:14](https://news.ycombinator.com/item?id=40896470) - [The Sumerian Game: The Most Important Video Game You've Never Heard Of (2021)](https://www.acriticalhit.com/sumerian-game-most-important-video-game-youve-never-heard/)
-* [2024-07-07, 09:33:55](https://news.ycombinator.com/item?id=40896306) - [The Planets Today](https://www.theplanetstoday.com/)
 
 ## [Archives](archives/index.md)
 

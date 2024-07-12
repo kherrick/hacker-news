@@ -42,6 +42,7 @@
 * [2024-07-08, 17:16:47](https://news.ycombinator.com/item?id=40907269) - [Dumb website only lets one user in at a time](https://imherefor.me/)
 * [2024-07-08, 17:05:08](https://news.ycombinator.com/item?id=40907155) - [The Right Kind of Stubborn](https://paulgraham.com/persistence.html)
 * [2024-07-08, 15:45:40](https://news.ycombinator.com/item?id=40906401) - [1JPM: A Maven/Gradle alternative in a single Java file](https://github.com/Osiris-Team/1JPM)
+* [2024-07-08, 15:41:25](https://news.ycombinator.com/item?id=40906374) - [A revolution in archaeology is transforming our picture of past populations](https://aeon.co/essays/an-archeological-revolution-transforms-our-image-of-human-freedoms)
 * [2024-07-08, 15:21:01](https://news.ycombinator.com/item?id=40906210) - [Spot the Drowning Child (2015)](http://spotthedrowningchild.com/)
 * [2024-07-08, 15:14:06](https://news.ycombinator.com/item?id=40906148) - [Reverse Engineering Ticketmaster's Rotating Barcodes](https://conduition.io/coding/ticketmaster/)
 * [2024-07-08, 15:13:40](https://news.ycombinator.com/item?id=40906141) - [\"Bullshit Jobs\" Is a Terrible, Curiosity-Killing Concept](https://www.thediff.co/archive/bullshit-jobs-is-a-terrible-curiosity-killing-concept/)
