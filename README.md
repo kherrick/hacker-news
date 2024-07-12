@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-12, 04:42:29](https://news.ycombinator.com/item?id=40942769) - [A personal music streaming server that works](https://koel.dev)
+* [2024-07-12, 04:26:23](https://news.ycombinator.com/item?id=40942732) - [Using S3 as a Container Registry](https://ochagavia.nl/blog/using-s3-as-a-container-registry/)
 * [2024-07-12, 02:27:52](https://news.ycombinator.com/item?id=40942307) - [StreamVC: Real-Time Low-Latency Voice Conversion](https://research.google/pubs/streamvc-real-time-low-latency-voice-conversion/)
 * [2024-07-12, 02:18:11](https://news.ycombinator.com/item?id=40942270) - [JavaScript Ben.ch (JavaScript Benchmarking Tools)](https://jsben.ch/)
 * [2024-07-12, 02:14:43](https://news.ycombinator.com/item?id=40942253) - [Why I'm Done Making Desktop Applications (2009)](https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/)
@@ -24,10 +25,9 @@
 * [2024-07-11, 15:52:14](https://news.ycombinator.com/item?id=40937973) - [Surviving three years in North Korea as a foreigner (2021)](https://mydiplomaticlife.com/how-to-survive-3-years-in-north-korea-as-a-foreigner/)
 * [2024-07-11, 13:48:49](https://news.ycombinator.com/item?id=40936808) - [Iconography of the X Window System: The Boot Stipple](https://matttproud.com/blog/posts/x-window-system-boot-stipple.html)
 * [2024-07-11, 09:28:54](https://news.ycombinator.com/item?id=40934924) - [The Typeset of Wall·E (2018)](https://typesetinthefuture.com/2018/12/04/walle/)
-* [2024-07-11, 08:06:38](https://news.ycombinator.com/item?id=40934582) - [The Overengineered Resume with Zola, JSON Resume, Weasyprint, and Nix (2023)](https://ktema.org/articles/the-overengineered-resume/)
 * [2024-07-10, 21:24:49](https://news.ycombinator.com/item?id=40931636) - [Scientists discover a cause of lupus, possible way to reverse it](https://news.feinberg.northwestern.edu/2024/07/10/scientists-discover-a-cause-of-lupus-and-a-possible-way-to-reverse-it/)
-* [2024-07-10, 21:20:41](https://news.ycombinator.com/item?id=40931590) - [Physicists have created the most fiendishly difficult maze](https://www.sciencealert.com/physicists-have-created-the-worlds-most-fiendishly-difficult-maze)
 * [2024-07-09, 09:26:08](https://news.ycombinator.com/item?id=40914052) - [Rapid extraction of europium from spent fluorescent lamps](https://ethz.ch/en/news-and-events/eth-news/news/2024/07/mining-rare-earth-metals-from-electronic-waste.html)
+* [2024-07-08, 23:06:17](https://news.ycombinator.com/item?id=40910731) - [Enums in Go](https://dizzy.zone/2024/01/26/Enums-in-Go/)
 * [2024-07-08, 20:09:08](https://news.ycombinator.com/item?id=40909094) - [Making Python Less Random](https://healeycodes.com/making-python-less-random)
 * [2024-07-08, 15:41:25](https://news.ycombinator.com/item?id=40906374) - [A revolution in archaeology is transforming our picture of past populations](https://aeon.co/essays/an-archeological-revolution-transforms-our-image-of-human-freedoms)
 
