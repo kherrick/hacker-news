@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-12, 18:54:17",
+      "https://news.ycombinator.com/item?id=40948353"
+    ],
+    [
+      "Beating the Compiler",
+      "https://www.mattkeeter.com/blog/2024-07-12-interpreter/"
+    ]
+  ],
+  [
+    [
+      "2024-07-12, 18:39:52",
+      "https://news.ycombinator.com/item?id=40948232"
+    ],
+    [
+      "Discord vs. IRC Rough Notes",
+      "https://push.cx/discord-vs-irc-notes"
+    ]
+  ],
+  [
+    [
       "2024-07-12, 18:35:08",
       "https://news.ycombinator.com/item?id=40948202"
     ],
@@ -241,16 +261,6 @@
   ],
   [
     [
-      "2024-07-11, 22:10:10",
-      "https://news.ycombinator.com/item?id=40941056"
-    ],
-    [
-      "Physics-Based Deep Learning Book",
-      "https://physicsbaseddeeplearning.org/intro.html"
-    ]
-  ],
-  [
-    [
       "2024-07-11, 20:17:58",
       "https://news.ycombinator.com/item?id=40940241"
     ],
@@ -287,16 +297,6 @@
     [
       "Recursive Program Synthesis using Paramorphisms [pdf]",
       "https://theory.stanford.edu/~aiken/publications/papers/pldi24.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-07-07, 15:37:46",
-      "https://news.ycombinator.com/item?id=40898383"
-    ],
-    [
-      "Neuromorphic dendritic network with silent synapses for visual motion perception",
-      "https://www.nature.com/articles/s41928-024-01171-7"
     ]
   ]
 ]
