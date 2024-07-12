@@ -41,22 +41,22 @@
   ],
   [
     [
+      "2024-07-12, 18:19:14",
+      "https://news.ycombinator.com/item?id=40948064"
+    ],
+    [
+      "CISA broke into a US federal agency, and no one noticed for a full 5 months",
+      "https://www.theregister.com/2024/07/12/cisa_broke_into_fed_agency/"
+    ]
+  ],
+  [
+    [
       "2024-07-12, 18:15:58",
       "https://news.ycombinator.com/item?id=40948035"
     ],
     [
       "Hackers Steal Phone, SMS Records for Nearly All AT&T Customers",
       "https://krebsonsecurity.com/2024/07/hackers-steal-phone-sms-records-for-nearly-all-att-customers/"
-    ]
-  ],
-  [
-    [
-      "2024-07-12, 17:41:28",
-      "https://news.ycombinator.com/item?id=40947710"
-    ],
-    [
-      "'Dune'-Inspired Spacesuit Turns Astronauts' Urine into Drinkable Water",
-      "https://www.wsj.com/science/space-astronomy/dune-stillsuit-astronaut-spacesuit-d740bf3d"
     ]
   ],
   [
@@ -251,16 +251,6 @@
   ],
   [
     [
-      "2024-07-12, 02:18:11",
-      "https://news.ycombinator.com/item?id=40942270"
-    ],
-    [
-      "JSBen.ch – Performance benchmarking playground for JavaScript",
-      "https://jsben.ch/"
-    ]
-  ],
-  [
-    [
       "2024-07-11, 20:17:58",
       "https://news.ycombinator.com/item?id=40940241"
     ],
@@ -277,6 +267,16 @@
     [
       "WebVM is a server-less virtual Linux environment running client-side",
       "https://webvm.io/"
+    ]
+  ],
+  [
+    [
+      "2024-07-09, 18:26:51",
+      "https://news.ycombinator.com/item?id=40919273"
+    ],
+    [
+      "Choose your own adventure style Incident Response",
+      "https://www.cmdzero.io"
     ]
   ],
   [
