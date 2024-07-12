@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-12](index.md)
 
+* [2024-07-12, 06:12:08](https://news.ycombinator.com/item?id=40943064) - [Color Wheels Are Wrong](https://longform.asmartbear.com/color-wheels/)
 * [2024-07-12, 04:42:29](https://news.ycombinator.com/item?id=40942769) - [A personal music streaming server that works](https://koel.dev)
 * [2024-07-12, 04:26:23](https://news.ycombinator.com/item?id=40942732) - [Using S3 as a Container Registry](https://ochagavia.nl/blog/using-s3-as-a-container-registry/)
 * [2024-07-12, 03:31:36](https://news.ycombinator.com/item?id=40942543) - [Embedded Python: MicroPython Is Amazing](https://hackaday.com/2024/07/11/embedded-python-micropython-is-amazing/)

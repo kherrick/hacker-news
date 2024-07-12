@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-12, 06:12:08](https://news.ycombinator.com/item?id=40943064) - [Color Wheels Are Wrong](https://longform.asmartbear.com/color-wheels/)
 * [2024-07-12, 04:42:29](https://news.ycombinator.com/item?id=40942769) - [A personal music streaming server that works](https://koel.dev)
 * [2024-07-12, 04:26:23](https://news.ycombinator.com/item?id=40942732) - [Using S3 as a Container Registry](https://ochagavia.nl/blog/using-s3-as-a-container-registry/)
 * [2024-07-12, 02:27:52](https://news.ycombinator.com/item?id=40942307) - [StreamVC: Real-Time Low-Latency Voice Conversion](https://research.google/pubs/streamvc-real-time-low-latency-voice-conversion/)
@@ -21,7 +22,6 @@
 * [2024-07-11, 17:06:06](https://news.ycombinator.com/item?id=40938577) - [FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-Precision](https://www.together.ai/blog/flashattention-3)
 * [2024-07-11, 16:41:34](https://news.ycombinator.com/item?id=40938388) - [Rulers of the Ancient World: period correct measuring tools](https://www.burn-heart.com/rulers-of-the-ancient-world)
 * [2024-07-11, 16:35:31](https://news.ycombinator.com/item?id=40938325) - [Korvus: Single-Query RAG with Postgres](https://github.com/postgresml/korvus)
-* [2024-07-11, 16:06:08](https://news.ycombinator.com/item?id=40938092) - [Shelley Duvall has died](https://www.bbc.com/news/articles/cy77p22jr5lo)
 * [2024-07-11, 15:52:14](https://news.ycombinator.com/item?id=40937973) - [Surviving three years in North Korea as a foreigner (2021)](https://mydiplomaticlife.com/how-to-survive-3-years-in-north-korea-as-a-foreigner/)
 * [2024-07-11, 13:48:49](https://news.ycombinator.com/item?id=40936808) - [Iconography of the X Window System: The Boot Stipple](https://matttproud.com/blog/posts/x-window-system-boot-stipple.html)
 * [2024-07-11, 09:28:54](https://news.ycombinator.com/item?id=40934924) - [The Typeset of Wall·E (2018)](https://typesetinthefuture.com/2018/12/04/walle/)
