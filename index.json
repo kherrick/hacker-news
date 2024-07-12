@@ -1,22 +1,12 @@
 [
   [
     [
-      "2024-07-12, 17:48:44",
-      "https://news.ycombinator.com/item?id=40947796"
+      "2024-07-12, 17:41:28",
+      "https://news.ycombinator.com/item?id=40947710"
     ],
     [
-      "Constellation talking to Pennsylvania on Three Mile Island restart, sources say",
-      "https://www.reuters.com/business/energy/constellation-talking-pennsylvania-three-mile-island-restart-sources-say-2024-07-02/"
-    ]
-  ],
-  [
-    [
-      "2024-07-12, 17:36:04",
-      "https://news.ycombinator.com/item?id=40947657"
-    ],
-    [
-      "AT&T: Hacker Stole Cell, Text Data on Nearly All Wireless Customers",
-      "https://www.wsj.com/business/telecom/at-t-says-hacker-stole-data-on-nearly-all-its-wireless-customers-32d6969d"
+      "'Dune'-Inspired Spacesuit Turns Astronauts' Urine into Drinkable Water",
+      "https://www.wsj.com/science/space-astronomy/dune-stillsuit-astronaut-spacesuit-d740bf3d"
     ]
   ],
   [
@@ -51,22 +41,22 @@
   ],
   [
     [
-      "2024-07-12, 16:28:36",
-      "https://news.ycombinator.com/item?id=40947053"
-    ],
-    [
-      "Instrumenting Python GIL with eBPF",
-      "https://coroot.com/blog/instrumenting-python-gil-with-ebpf"
-    ]
-  ],
-  [
-    [
       "2024-07-12, 14:41:22",
       "https://news.ycombinator.com/item?id=40946033"
     ],
     [
       "Tau: Open-source PaaS – A self-hosted Vercel / Netlify / Cloudflare alternative",
       "https://github.com/taubyte/tau"
+    ]
+  ],
+  [
+    [
+      "2024-07-12, 14:34:34",
+      "https://news.ycombinator.com/item?id=40945961"
+    ],
+    [
+      "Perspective: High-performance data visualization and analytics in WebAssembly",
+      "https://github.com/finos/perspective"
     ]
   ],
   [
@@ -181,6 +171,16 @@
   ],
   [
     [
+      "2024-07-12, 02:27:52",
+      "https://news.ycombinator.com/item?id=40942307"
+    ],
+    [
+      "StreamVC: Real-Time Low-Latency Voice Conversion",
+      "https://research.google/pubs/streamvc-real-time-low-latency-voice-conversion/"
+    ]
+  ],
+  [
+    [
       "2024-07-12, 02:18:11",
       "https://news.ycombinator.com/item?id=40942270"
     ],
@@ -241,22 +241,22 @@
   ],
   [
     [
-      "2024-07-11, 20:10:44",
-      "https://news.ycombinator.com/item?id=40940181"
-    ],
-    [
-      "Show HN: Mandala – Automatically save, query and version Python computations",
-      "https://github.com/amakelov/mandala"
-    ]
-  ],
-  [
-    [
       "2024-07-11, 19:21:08",
       "https://news.ycombinator.com/item?id=40939703"
     ],
     [
       "Gene-silencing tool shows promise as a future therapy against prion diseases",
       "https://news.mit.edu/2024/charmed-collaboration-creates-therapy-candidate-fatal-prion-diseases-0627"
+    ]
+  ],
+  [
+    [
+      "2024-07-11, 09:28:54",
+      "https://news.ycombinator.com/item?id=40934924"
+    ],
+    [
+      "The Typeset of Wall·E (2018)",
+      "https://typesetinthefuture.com/2018/12/04/walle/"
     ]
   ],
   [
