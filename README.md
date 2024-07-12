@@ -2,6 +2,7 @@
 
 * [2024-07-12, 17:41:28](https://news.ycombinator.com/item?id=40947710) - ['Dune'-Inspired Spacesuit Turns Astronauts' Urine into Drinkable Water](https://www.wsj.com/science/space-astronomy/dune-stillsuit-astronaut-spacesuit-d740bf3d)
 * [2024-07-12, 17:22:29](https://news.ycombinator.com/item?id=40947540) - [Ex-Meta scientists debut gigantic AI protein design model](https://www.nature.com/articles/d41586-024-02214-x)
+* [2024-07-12, 17:15:09](https://news.ycombinator.com/item?id=40947479) - [52,000-year-old woolly mammoth chromosomes reconstructed from 'jerky-like' skin](https://www.abc.net.au/news/science/2024-07-12/woolly-mammoth-chromosomes-resconstructed-from-skin/104059130)
 * [2024-07-12, 17:03:07](https://news.ycombinator.com/item?id=40947377) - [Tour de France riders are inhaling carbon monoxide in 'super altitude' recipe](https://escapecollective.com/exclusive-tour-riders-are-inhaling-carbon-monoxide-in-super-altitude-recipe/)
 * [2024-07-12, 17:00:54](https://news.ycombinator.com/item?id=40947357) - [Tesorio (YC S15) Is Hiring a Senior GenAI/LLM Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
 * [2024-07-12, 14:41:22](https://news.ycombinator.com/item?id=40946033) - [Tau: Open-source PaaS – A self-hosted Vercel / Netlify / Cloudflare alternative](https://github.com/taubyte/tau)
@@ -20,14 +21,13 @@
 * [2024-07-12, 02:27:52](https://news.ycombinator.com/item?id=40942307) - [StreamVC: Real-Time Low-Latency Voice Conversion](https://research.google/pubs/streamvc-real-time-low-latency-voice-conversion/)
 * [2024-07-12, 02:18:11](https://news.ycombinator.com/item?id=40942270) - [JSBen.ch – Performance benchmarking playground for JavaScript](https://jsben.ch/)
 * [2024-07-12, 01:45:05](https://news.ycombinator.com/item?id=40942141) - [Floppy8 – A Tiny Computer, in a Floppy Drive (2023)](https://abe.today/blogs/main/floppy8-a-tiny-computer-in-a-floppy-drive)
-* [2024-07-11, 23:09:01](https://news.ycombinator.com/item?id=40941412) - [AWS Secrets Manager Agent](https://github.com/aws/aws-secretsmanager-agent)
+* [2024-07-12, 00:34:03](https://news.ycombinator.com/item?id=40941809) - [Leaked admin access token to Python, PyPI, and PSF GitHub repos](https://jfrog.com/blog/leaked-pypi-secret-token-revealed-in-binary-preventing-suppy-chain-attack/)
 * [2024-07-11, 22:10:10](https://news.ycombinator.com/item?id=40941056) - [Physics-Based Deep Learning Book](https://physicsbaseddeeplearning.org/intro.html)
 * [2024-07-11, 20:17:58](https://news.ycombinator.com/item?id=40940241) - [Beating the L1 cache with value speculation (2021)](https://mazzo.li/posts/value-speculation.html)
 * [2024-07-11, 20:16:21](https://news.ycombinator.com/item?id=40940225) - [WebVM is a server-less virtual Linux environment running client-side](https://webvm.io/)
 * [2024-07-11, 19:21:08](https://news.ycombinator.com/item?id=40939703) - [Gene-silencing tool shows promise as a future therapy against prion diseases](https://news.mit.edu/2024/charmed-collaboration-creates-therapy-candidate-fatal-prion-diseases-0627)
 * [2024-07-11, 09:28:54](https://news.ycombinator.com/item?id=40934924) - [The Typeset of Wall·E (2018)](https://typesetinthefuture.com/2018/12/04/walle/)
 * [2024-07-09, 11:02:22](https://news.ycombinator.com/item?id=40914635) - [So you want to rent an NVIDIA H100 cluster? 2024 Consumer Guide](https://www.photoroom.com/inside-photoroom/so-you-want-to-rent-an-nvidia-h100-cluster-2024-consumer-guide?slug=inside-photoroom/so-you-want-to-rent-an-nvidia-h100-cluster-2024-consumer-guide&_storyblok_published=511470179&)
-* [2024-07-08, 20:09:08](https://news.ycombinator.com/item?id=40909094) - [Making Python Less Random](https://healeycodes.com/making-python-less-random)
 * [2024-07-08, 18:18:35](https://news.ycombinator.com/item?id=40907826) - [Recursive Program Synthesis using Paramorphisms [pdf]](https://theory.stanford.edu/~aiken/publications/papers/pldi24.pdf)
 * [2024-07-07, 15:37:46](https://news.ycombinator.com/item?id=40898383) - [Neuromorphic dendritic network with silent synapses for visual motion perception](https://www.nature.com/articles/s41928-024-01171-7)
 
