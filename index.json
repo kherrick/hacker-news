@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-07-12, 12:24:07",
+      "https://news.ycombinator.com/item?id=40944869"
+    ],
+    [
+      "Introduction to Hardware Hacking with a Raspberry Pi",
+      "https://voidstarsec.com/blog/pifex-config"
+    ]
+  ],
+  [
+    [
+      "2024-07-12, 12:19:27",
+      "https://news.ycombinator.com/item?id=40944840"
+    ],
+    [
+      "Cradle: Empowering Foundation Agents Towards General Computer Control",
+      "https://baai-agents.github.io/Cradle/"
+    ]
+  ],
+  [
+    [
+      "2024-07-12, 12:19:26",
+      "https://news.ycombinator.com/item?id=40944839"
+    ],
+    [
+      "Nearly all AT&T cell customers' call and text records exposed",
+      "https://www.cnn.com/2024/07/12/business/att-customers-massive-breach/index.html"
+    ]
+  ],
+  [
+    [
       "2024-07-12, 12:00:34",
       "https://news.ycombinator.com/item?id=40944728"
     ],
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2024-07-12, 07:41:16",
-      "https://news.ycombinator.com/item?id=40943436"
-    ],
-    [
-      "As an Employee, You Are Disposable (2023)",
-      "https://nelson.cloud/as-an-employee-you-are-disposable/"
-    ]
-  ],
-  [
-    [
       "2024-07-12, 06:54:19",
       "https://news.ycombinator.com/item?id=40943253"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2024-07-11, 23:40:36",
-      "https://news.ycombinator.com/item?id=40941588"
-    ],
-    [
-      "AxRuntime (AxRT): Creating Applications Using Amiga APIs",
-      "https://www.axrt.org/"
-    ]
-  ],
-  [
-    [
       "2024-07-11, 23:09:01",
       "https://news.ycombinator.com/item?id=40941412"
     ],
@@ -187,6 +197,16 @@
     [
       "Physics-Based Deep Learning Book",
       "https://physicsbaseddeeplearning.org/intro.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-11, 20:17:58",
+      "https://news.ycombinator.com/item?id=40940241"
+    ],
+    [
+      "Beating the L1 cache with value speculation (2021)",
+      "https://mazzo.li/posts/value-speculation.html"
     ]
   ],
   [
@@ -221,16 +241,6 @@
   ],
   [
     [
-      "2024-07-11, 18:15:27",
-      "https://news.ycombinator.com/item?id=40939184"
-    ],
-    [
-      "The Great Lightbulb Conspiracy (2014)",
-      "https://spectrum.ieee.org/the-great-lightbulb-conspiracy"
-    ]
-  ],
-  [
-    [
       "2024-07-11, 17:06:06",
       "https://news.ycombinator.com/item?id=40938577"
     ],
@@ -261,22 +271,12 @@
   ],
   [
     [
-      "2024-07-11, 13:48:49",
-      "https://news.ycombinator.com/item?id=40936808"
+      "2024-07-09, 11:02:22",
+      "https://news.ycombinator.com/item?id=40914635"
     ],
     [
-      "Iconography of the X Window System: The Boot Stipple",
-      "https://matttproud.com/blog/posts/x-window-system-boot-stipple.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-09, 09:26:08",
-      "https://news.ycombinator.com/item?id=40914052"
-    ],
-    [
-      "Rapid extraction of europium from spent fluorescent lamps",
-      "https://ethz.ch/en/news-and-events/eth-news/news/2024/07/mining-rare-earth-metals-from-electronic-waste.html"
+      "So you want to rent an NVIDIA H100 cluster? 2024 Consumer Guide",
+      "https://www.photoroom.com/inside-photoroom/so-you-want-to-rent-an-nvidia-h100-cluster-2024-consumer-guide?slug=inside-photoroom/so-you-want-to-rent-an-nvidia-h100-cluster-2024-consumer-guide&_storyblok_published=511470179&"
     ]
   ],
   [
