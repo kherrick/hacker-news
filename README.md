@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-12, 03:31:36](https://news.ycombinator.com/item?id=40942543) - [Embedded Python: MicroPython Is Amazing](https://hackaday.com/2024/07/11/embedded-python-micropython-is-amazing/)
+* [2024-07-12, 04:42:29](https://news.ycombinator.com/item?id=40942769) - [A personal music streaming server that works](https://koel.dev)
 * [2024-07-12, 02:27:52](https://news.ycombinator.com/item?id=40942307) - [StreamVC: Real-Time Low-Latency Voice Conversion](https://research.google/pubs/streamvc-real-time-low-latency-voice-conversion/)
 * [2024-07-12, 02:18:11](https://news.ycombinator.com/item?id=40942270) - [JavaScript Ben.ch (JavaScript Benchmarking Tools)](https://jsben.ch/)
 * [2024-07-12, 02:14:43](https://news.ycombinator.com/item?id=40942253) - [Why I'm Done Making Desktop Applications (2009)](https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/)
@@ -11,6 +11,7 @@
 * [2024-07-11, 23:18:15](https://news.ycombinator.com/item?id=40941475) - [Boosting Compiler Testing by Injecting Real-World Code](https://dl.acm.org/doi/10.1145/3656386)
 * [2024-07-11, 23:09:01](https://news.ycombinator.com/item?id=40941412) - [AWS Secrets Manager Agent](https://github.com/aws/aws-secretsmanager-agent)
 * [2024-07-11, 22:10:10](https://news.ycombinator.com/item?id=40941056) - [Physics-Based Deep Learning Book](https://physicsbaseddeeplearning.org/intro.html)
+* [2024-07-11, 21:31:07](https://news.ycombinator.com/item?id=40940784) - [Wlhc: Wayland Hot Corners](https://whynothugo.nl/journal/2024/07/11/introducing-wlhc-wayland-hot-corners/)
 * [2024-07-11, 21:00:06](https://news.ycombinator.com/item?id=40940565) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=40940565)
 * [2024-07-11, 20:16:21](https://news.ycombinator.com/item?id=40940225) - [WebVM is a server-less virtual Linux environment running client-side](https://webvm.io/)
 * [2024-07-11, 20:10:44](https://news.ycombinator.com/item?id=40940181) - [Show HN: Mandala – Automatically save, query and version Python computations](https://github.com/amakelov/mandala)
@@ -28,7 +29,6 @@
 * [2024-07-10, 21:20:41](https://news.ycombinator.com/item?id=40931590) - [Physicists have created the most fiendishly difficult maze](https://www.sciencealert.com/physicists-have-created-the-worlds-most-fiendishly-difficult-maze)
 * [2024-07-09, 09:26:08](https://news.ycombinator.com/item?id=40914052) - [Rapid extraction of europium from spent fluorescent lamps](https://ethz.ch/en/news-and-events/eth-news/news/2024/07/mining-rare-earth-metals-from-electronic-waste.html)
 * [2024-07-08, 20:09:08](https://news.ycombinator.com/item?id=40909094) - [Making Python Less Random](https://healeycodes.com/making-python-less-random)
-* [2024-07-08, 17:11:52](https://news.ycombinator.com/item?id=40907208) - [Standups: Individual → Teammate](https://tidyfirst.substack.com/p/standups-individual-teammate)
 * [2024-07-08, 15:41:25](https://news.ycombinator.com/item?id=40906374) - [A revolution in archaeology is transforming our picture of past populations](https://aeon.co/essays/an-archeological-revolution-transforms-our-image-of-human-freedoms)
 
 ## [Archives](archives/index.md)

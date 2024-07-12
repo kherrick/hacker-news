@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-12](index.md)
 
+* [2024-07-12, 04:42:29](https://news.ycombinator.com/item?id=40942769) - [A personal music streaming server that works](https://koel.dev)
 * [2024-07-12, 03:31:36](https://news.ycombinator.com/item?id=40942543) - [Embedded Python: MicroPython Is Amazing](https://hackaday.com/2024/07/11/embedded-python-micropython-is-amazing/)
 * [2024-07-12, 02:27:52](https://news.ycombinator.com/item?id=40942307) - [StreamVC: Real-Time Low-Latency Voice Conversion](https://research.google/pubs/streamvc-real-time-low-latency-voice-conversion/)
 * [2024-07-12, 02:20:54](https://news.ycombinator.com/item?id=40942278) - [The Boycott Against Israel Is Spreading into New Corners of Society](https://www.wsj.com/world/middle-east/the-boycott-against-israel-is-spreading-into-new-corners-of-society-31295d69)
