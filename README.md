@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-12, 07:41:16](https://news.ycombinator.com/item?id=40943436) - [As an Employee, You Are Disposable (2023)](https://nelson.cloud/as-an-employee-you-are-disposable/)
+* [2024-07-12, 07:18:12](https://news.ycombinator.com/item?id=40943343) - [Ask HN: Freelancer's Dilemma – Client Won't Pay Despite Clear Agreement](https://news.ycombinator.com/item?id=40943343)
 * [2024-07-12, 06:54:19](https://news.ycombinator.com/item?id=40943253) - [GE Aerospace Successfully Develops and Tests New Hypersonic Dual-Mode Ramjet](https://www.geaerospace.com/news/press-releases/ge-aerospace-successfully-develops-and-tests-new-hypersonic-dual-mode-ramjet)
 * [2024-07-12, 06:12:08](https://news.ycombinator.com/item?id=40943064) - [Color Wheels Are Wrong](https://longform.asmartbear.com/color-wheels/)
 * [2024-07-12, 04:42:29](https://news.ycombinator.com/item?id=40942769) - [A personal music streaming server that works](https://koel.dev)
@@ -20,7 +21,6 @@
 * [2024-07-11, 17:43:58](https://news.ycombinator.com/item?id=40938923) - [The economics of a Postgres free tier](https://xata.io/blog/postgres-free-tier)
 * [2024-07-11, 17:31:48](https://news.ycombinator.com/item?id=40938810) - [Capturing Linux SSL/TLS plaintext without a CA certificate using eBPF](https://github.com/gojue/ecapture)
 * [2024-07-11, 17:06:06](https://news.ycombinator.com/item?id=40938577) - [FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-Precision](https://www.together.ai/blog/flashattention-3)
-* [2024-07-11, 16:41:34](https://news.ycombinator.com/item?id=40938388) - [Rulers of the Ancient World: period correct measuring tools](https://www.burn-heart.com/rulers-of-the-ancient-world)
 * [2024-07-11, 16:35:31](https://news.ycombinator.com/item?id=40938325) - [Korvus: Single-Query RAG with Postgres](https://github.com/postgresml/korvus)
 * [2024-07-11, 15:52:14](https://news.ycombinator.com/item?id=40937973) - [Three years in North Korea as a foreigner (2021)](https://mydiplomaticlife.com/how-to-survive-3-years-in-north-korea-as-a-foreigner/)
 * [2024-07-11, 13:48:49](https://news.ycombinator.com/item?id=40936808) - [Iconography of the X Window System: The Boot Stipple](https://matttproud.com/blog/posts/x-window-system-boot-stipple.html)

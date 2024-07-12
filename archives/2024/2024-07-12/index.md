@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-12](index.md)
 
 * [2024-07-12, 07:41:16](https://news.ycombinator.com/item?id=40943436) - [As an Employee, You Are Disposable (2023)](https://nelson.cloud/as-an-employee-you-are-disposable/)
+* [2024-07-12, 07:18:12](https://news.ycombinator.com/item?id=40943343) - [Ask HN: Freelancer's Dilemma – Client Won't Pay Despite Clear Agreement](https://news.ycombinator.com/item?id=40943343)
 * [2024-07-12, 06:54:19](https://news.ycombinator.com/item?id=40943253) - [GE Aerospace Successfully Develops and Tests New Hypersonic Dual-Mode Ramjet](https://www.geaerospace.com/news/press-releases/ge-aerospace-successfully-develops-and-tests-new-hypersonic-dual-mode-ramjet)
 * [2024-07-12, 06:12:08](https://news.ycombinator.com/item?id=40943064) - [Color Wheels Are Wrong](https://longform.asmartbear.com/color-wheels/)
 * [2024-07-12, 04:42:29](https://news.ycombinator.com/item?id=40942769) - [A personal music streaming server that works](https://koel.dev)
