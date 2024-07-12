@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-12, 17:11:34",
+      "https://news.ycombinator.com/item?id=40947445"
+    ],
+    [
+      "Blue checks on X deceiving users into engaging with harmful material, EU says",
+      "https://www.irishtimes.com/technology/big-tech/2024/07/12/blue-checks-on-elon-musks-x-are-deceptive-eu-says/"
+    ]
+  ],
+  [
+    [
+      "2024-07-12, 17:03:09",
+      "https://news.ycombinator.com/item?id=40947378"
+    ],
+    [
+      "Gemini Pro refuses to acknowledge yt-dlp",
+      "https://twitter.com/adocomplete/status/1811802857022324904"
+    ]
+  ],
+  [
+    [
       "2024-07-12, 17:00:54",
       "https://news.ycombinator.com/item?id=40947357"
     ],
@@ -11,12 +31,42 @@
   ],
   [
     [
-      "2024-07-12, 16:26:05",
-      "https://news.ycombinator.com/item?id=40947024"
+      "2024-07-12, 16:58:37",
+      "https://news.ycombinator.com/item?id=40947332"
     ],
     [
-      "Stack Overflow has stopped publishing data dumps to the Internet Archive",
-      "https://meta.stackexchange.com/questions/401324/announcing-a-change-to-the-data-dump-process"
+      "California Faces the Grape Apocalypse due to slump in wine sales",
+      "https://www.wine-searcher.com/m/2024/07/california-faces-the-grape-apocalypse"
+    ]
+  ],
+  [
+    [
+      "2024-07-12, 16:57:52",
+      "https://news.ycombinator.com/item?id=40947321"
+    ],
+    [
+      "NASA astronauts from Boeing's Starliner may be stuck in space until August",
+      "https://www.theguardian.com/science/article/2024/jul/10/nasa-astronauts-boeing-starliner"
+    ]
+  ],
+  [
+    [
+      "2024-07-12, 16:41:40",
+      "https://news.ycombinator.com/item?id=40947163"
+    ],
+    [
+      "AT&T says hacker stole data on 'nearly all' of its wireless customers",
+      "https://www.washingtonpost.com/business/2024/07/12/att-wireless-hacker-data-breach/"
+    ]
+  ],
+  [
+    [
+      "2024-07-12, 16:19:58",
+      "https://news.ycombinator.com/item?id=40946978"
+    ],
+    [
+      "Exploring the Broadcast Channel API for cross-tab communication",
+      "https://developer.mozilla.org/en-US/blog/exploring-the-broadcast-channel-api-for-cross-tab-communication/"
     ]
   ],
   [
@@ -141,16 +191,6 @@
   ],
   [
     [
-      "2024-07-12, 02:27:52",
-      "https://news.ycombinator.com/item?id=40942307"
-    ],
-    [
-      "StreamVC: Real-Time Low-Latency Voice Conversion",
-      "https://research.google/pubs/streamvc-real-time-low-latency-voice-conversion/"
-    ]
-  ],
-  [
-    [
       "2024-07-12, 02:18:11",
       "https://news.ycombinator.com/item?id=40942270"
     ],
@@ -167,16 +207,6 @@
     [
       "Floppy8 – A Tiny Computer, in a Floppy Drive (2023)",
       "https://abe.today/blogs/main/floppy8-a-tiny-computer-in-a-floppy-drive"
-    ]
-  ],
-  [
-    [
-      "2024-07-11, 23:40:36",
-      "https://news.ycombinator.com/item?id=40941588"
-    ],
-    [
-      "AxRuntime (AxRT): Creating Applications Using Amiga APIs",
-      "https://www.axrt.org/"
     ]
   ],
   [
@@ -237,36 +267,6 @@
     [
       "Gene-silencing tool shows promise as a future therapy against prion diseases",
       "https://news.mit.edu/2024/charmed-collaboration-creates-therapy-candidate-fatal-prion-diseases-0627"
-    ]
-  ],
-  [
-    [
-      "2024-07-11, 17:31:48",
-      "https://news.ycombinator.com/item?id=40938810"
-    ],
-    [
-      "Capturing Linux SSL/TLS plaintext without a CA certificate using eBPF",
-      "https://github.com/gojue/ecapture"
-    ]
-  ],
-  [
-    [
-      "2024-07-11, 17:06:06",
-      "https://news.ycombinator.com/item?id=40938577"
-    ],
-    [
-      "FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-Precision",
-      "https://www.together.ai/blog/flashattention-3"
-    ]
-  ],
-  [
-    [
-      "2024-07-11, 09:28:54",
-      "https://news.ycombinator.com/item?id=40934924"
-    ],
-    [
-      "The Typeset of Wall·E (2018)",
-      "https://typesetinthefuture.com/2018/12/04/walle/"
     ]
   ],
   [
