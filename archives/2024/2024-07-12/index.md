@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-12](index.md)
 
+* [2024-07-12, 18:21:55](https://news.ycombinator.com/item?id=40948089) - [Women of Open Source](https://womenofopensource.org/)
+* [2024-07-12, 18:14:18](https://news.ycombinator.com/item?id=40948022) - [Ask HN: Fellow neurodivergents, do you pair better with LLMs than neurotypicals?](https://news.ycombinator.com/item?id=40948022)
 * [2024-07-12, 17:48:44](https://news.ycombinator.com/item?id=40947796) - [Constellation talking to Pennsylvania on Three Mile Island restart, sources say](https://www.reuters.com/business/energy/constellation-talking-pennsylvania-three-mile-island-restart-sources-say-2024-07-02/)
 * [2024-07-12, 17:41:28](https://news.ycombinator.com/item?id=40947710) - ['Dune'-Inspired Spacesuit Turns Astronauts' Urine into Drinkable Water](https://www.wsj.com/science/space-astronomy/dune-stillsuit-astronaut-spacesuit-d740bf3d)
 * [2024-07-12, 17:36:04](https://news.ycombinator.com/item?id=40947657) - [AT&T: Hacker Stole Cell, Text Data on Nearly All Wireless Customers](https://www.wsj.com/business/telecom/at-t-says-hacker-stole-data-on-nearly-all-its-wireless-customers-32d6969d)

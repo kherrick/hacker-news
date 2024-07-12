@@ -1,9 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-12, 17:41:28](https://news.ycombinator.com/item?id=40947710) - ['Dune'-Inspired Spacesuit Turns Astronauts' Urine into Drinkable Water](https://www.wsj.com/science/space-astronomy/dune-stillsuit-astronaut-spacesuit-d740bf3d)
+* [2024-07-12, 18:21:55](https://news.ycombinator.com/item?id=40948089) - [Women of Open Source](https://womenofopensource.org/)
+* [2024-07-12, 18:14:18](https://news.ycombinator.com/item?id=40948022) - [Ask HN: Fellow neurodivergents, do you pair better with LLMs than neurotypicals?](https://news.ycombinator.com/item?id=40948022)
 * [2024-07-12, 17:22:29](https://news.ycombinator.com/item?id=40947540) - [Ex-Meta scientists debut gigantic AI protein design model](https://www.nature.com/articles/d41586-024-02214-x)
 * [2024-07-12, 17:15:09](https://news.ycombinator.com/item?id=40947479) - [52,000-year-old woolly mammoth chromosomes reconstructed from 'jerky-like' skin](https://www.abc.net.au/news/science/2024-07-12/woolly-mammoth-chromosomes-resconstructed-from-skin/104059130)
-* [2024-07-12, 17:03:07](https://news.ycombinator.com/item?id=40947377) - [Tour de France riders are inhaling carbon monoxide in 'super altitude' recipe](https://escapecollective.com/exclusive-tour-riders-are-inhaling-carbon-monoxide-in-super-altitude-recipe/)
 * [2024-07-12, 17:00:54](https://news.ycombinator.com/item?id=40947357) - [Tesorio (YC S15) Is Hiring a Senior GenAI/LLM Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
 * [2024-07-12, 14:41:22](https://news.ycombinator.com/item?id=40946033) - [Tau: Open-source PaaS – A self-hosted Vercel / Netlify / Cloudflare alternative](https://github.com/taubyte/tau)
 * [2024-07-12, 14:34:34](https://news.ycombinator.com/item?id=40945961) - [Perspective: High-performance data visualization and analytics in WebAssembly](https://github.com/finos/perspective)
