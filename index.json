@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-07-12, 02:27:52",
+      "https://news.ycombinator.com/item?id=40942307"
+    ],
+    [
+      "StreamVC: Real-Time Low-Latency Voice Conversion",
+      "https://research.google/pubs/streamvc-real-time-low-latency-voice-conversion/"
+    ]
+  ],
+  [
+    [
       "2024-07-12, 02:17:21",
       "https://news.ycombinator.com/item?id=40942266"
     ],
     [
       "I spent two years trying to make SD cards more nostalgic",
       "https://www.youtube.com/watch?v=END_PVp3Eds"
+    ]
+  ],
+  [
+    [
+      "2024-07-12, 01:45:05",
+      "https://news.ycombinator.com/item?id=40942141"
+    ],
+    [
+      "Floppy8 – A Tiny Computer, in a Floppy Drive",
+      "https://abe.today/blogs/main/floppy8-a-tiny-computer-in-a-floppy-drive"
     ]
   ],
   [
@@ -21,12 +41,12 @@
   ],
   [
     [
-      "2024-07-11, 23:39:47",
-      "https://news.ycombinator.com/item?id=40941583"
+      "2024-07-11, 23:40:36",
+      "https://news.ycombinator.com/item?id=40941588"
     ],
     [
-      "First cell-free system in which genetic information and metabolism work together",
-      "https://phys.org/news/2024-07-team-cell-free-genetic-metabolism.html"
+      "AxRuntime (AxRT): Creating Applications Using Amiga APIs",
+      "https://www.axrt.org/"
     ]
   ],
   [
@@ -47,6 +67,16 @@
     [
       "Why I'm Writing a Book on Cryptography (2020)",
       "https://www.cryptologie.net/article/504/why-im-writing-a-book-on-cryptography/"
+    ]
+  ],
+  [
+    [
+      "2024-07-11, 23:09:01",
+      "https://news.ycombinator.com/item?id=40941412"
+    ],
+    [
+      "AWS Secrets Manager Agent",
+      "https://github.com/aws/aws-secretsmanager-agent"
     ]
   ],
   [
@@ -181,32 +211,12 @@
   ],
   [
     [
-      "2024-07-11, 15:29:08",
-      "https://news.ycombinator.com/item?id=40937760"
-    ],
-    [
-      "Putting DuckDB in Postgres to Query Iceberg",
-      "https://blog.paradedb.com/pages/iceberg_lakehouse"
-    ]
-  ],
-  [
-    [
       "2024-07-11, 13:48:49",
       "https://news.ycombinator.com/item?id=40936808"
     ],
     [
       "Iconography of the X Window System: The Boot Stipple",
       "https://matttproud.com/blog/posts/x-window-system-boot-stipple.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-11, 11:57:27",
-      "https://news.ycombinator.com/item?id=40935701"
-    ],
-    [
-      "Binance built a 100PB log service with Quickwit",
-      "https://quickwit.io/blog/quickwit-binance-story"
     ]
   ],
   [
@@ -287,16 +297,6 @@
     [
       "A revolution in archaeology is transforming our picture of past populations",
       "https://aeon.co/essays/an-archeological-revolution-transforms-our-image-of-human-freedoms"
-    ]
-  ],
-  [
-    [
-      "2024-07-08, 04:48:10",
-      "https://news.ycombinator.com/item?id=40902688"
-    ],
-    [
-      "Children's mental models of recursive LOGO programs (1985)",
-      "https://telearn.hal.science/hal-00190537/document"
     ]
   ]
 ]
