@@ -11,6 +11,7 @@
 * [2024-07-12, 13:50:00](https://news.ycombinator.com/item?id=40945562) - [SpaceX debris crashed onto Canadian farmland, highlighting a potential disaster](https://theconversation.com/spacex-space-junk-crashed-onto-saskatchewan-farmland-highlighting-a-potential-impending-disaster-233322)
 * [2024-07-12, 13:30:45](https://news.ycombinator.com/item?id=40945406) - [The Invisible Hand of Carbon Dioxide on Forest Productivity](https://eos.org/editor-highlights/the-invisible-hand-of-carbon-dioxide-on-forest-productivity)
 * [2024-07-12, 13:24:24](https://news.ycombinator.com/item?id=40945355) - [Born into slavery, he rose to the top of France's art world](https://www.washingtonpost.com/entertainment/art/2024/07/12/guillaume-lethiere-exhibition-life/)
+* [2024-07-12, 13:17:36](https://news.ycombinator.com/item?id=40945285) - [The human x-ray scientists](https://thequackdoctor.substack.com/p/the-human-x-ray-scientists)
 * [2024-07-12, 13:14:32](https://news.ycombinator.com/item?id=40945265) - [The most ancient human genome yet has been sequenced – and it's a Denisovan's](https://www.science.org/content/article/most-ancient-human-genome-yet-has-been-sequenced-and-it-s-denisovan)
 * [2024-07-12, 12:51:58](https://news.ycombinator.com/item?id=40945076) - [Windows NT for Power Macintosh](https://github.com/Wack0/maciNTosh)
 * [2024-07-12, 12:31:16](https://news.ycombinator.com/item?id=40944925) - [Peer review is essential for science. Unfortunately, it's broken](https://arstechnica.com/science/2024/07/peer-review-is-essential-for-science-unfortunately-its-broken/)
