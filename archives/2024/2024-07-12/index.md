@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-12](index.md)
 
+* [2024-07-12, 23:19:15](https://news.ycombinator.com/item?id=40950359) - [Court Holds Federal Ban on Home-Distilling Exceeds Congress' Enumerated Powers [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.txnd.384014/gov.uscourts.txnd.384014.49.0.pdf)
 * [2024-07-12, 22:43:41](https://news.ycombinator.com/item?id=40950130) - [Lead Animation Engineer – Gym Class (YC W22) Is Hiring](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-lead-animation-engineer)
 * [2024-07-12, 22:36:48](https://news.ycombinator.com/item?id=40950090) - [Software Library: MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games)
 * [2024-07-12, 22:33:17](https://news.ycombinator.com/item?id=40950071) - [Apple will allow developers access to its NFC technology, avoiding an EU fine](https://www.engadget.com/apple-will-allow-developers-access-to-its-nfc-technology-avoiding-an-eu-fine-123026127.html)
@@ -49,6 +50,7 @@
 * [2024-07-12, 17:00:54](https://news.ycombinator.com/item?id=40947357) - [Tesorio (YC S15) Is Hiring a Senior GenAI/LLM Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
 * [2024-07-12, 16:58:37](https://news.ycombinator.com/item?id=40947332) - [California Faces the Grape Apocalypse due to slump in wine sales](https://www.wine-searcher.com/m/2024/07/california-faces-the-grape-apocalypse)
 * [2024-07-12, 16:57:52](https://news.ycombinator.com/item?id=40947321) - [NASA astronauts from Boeing's Starliner may be stuck in space until August](https://www.theguardian.com/science/article/2024/jul/10/nasa-astronauts-boeing-starliner)
+* [2024-07-12, 16:54:24](https://news.ycombinator.com/item?id=40947277) - [lldap: Light LDAP Implementation](https://github.com/lldap/lldap)
 * [2024-07-12, 16:50:30](https://news.ycombinator.com/item?id=40947238) - [Show HN: Open-source CLI coding framework using Claude](https://github.com/vysakh0/dravid)
 * [2024-07-12, 16:48:59](https://news.ycombinator.com/item?id=40947222) - [PC-BASIC, a cross-platform interpreter for GW-BASIC](http://robhagemans.github.io/pcbasic/)
 * [2024-07-12, 16:41:40](https://news.ycombinator.com/item?id=40947163) - [AT&T says hacker stole data on 'nearly all' of its wireless customers](https://www.washingtonpost.com/business/2024/07/12/att-wireless-hacker-data-breach/)
