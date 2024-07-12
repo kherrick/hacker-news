@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-12](index.md)
 
+* [2024-07-12, 12:24:07](https://news.ycombinator.com/item?id=40944869) - [Introduction to Hardware Hacking with a Raspberry Pi](https://voidstarsec.com/blog/pifex-config)
+* [2024-07-12, 12:19:27](https://news.ycombinator.com/item?id=40944840) - [Cradle: Empowering Foundation Agents Towards General Computer Control](https://baai-agents.github.io/Cradle/)
+* [2024-07-12, 12:19:26](https://news.ycombinator.com/item?id=40944839) - [Nearly all AT&T cell customers' call and text records exposed](https://www.cnn.com/2024/07/12/business/att-customers-massive-breach/index.html)
 * [2024-07-12, 12:00:34](https://news.ycombinator.com/item?id=40944728) - [Legion Health (YC S21) Is Hiring a Technical Product Marketing Lead](https://www.ycombinator.com/companies/legion-health/jobs/9JHdQqJ-technical-product-marketing-lead-legion-health-y-combinator-startup)
 * [2024-07-12, 11:57:20](https://news.ycombinator.com/item?id=40944712) - [We saved $5k a month with a single Grafana query](https://www.checklyhq.com/blog/300ms-from-every-pod-startup-with-a-single-grafana-query/)
 * [2024-07-12, 11:28:16](https://news.ycombinator.com/item?id=40944561) - [SpaceX's unmatched streak of perfection with the Falcon 9 rocket is over](https://arstechnica.com/space/2024/07/the-unmatched-streak-of-perfection-with-spacexs-falcon-9-rocket-is-over/)

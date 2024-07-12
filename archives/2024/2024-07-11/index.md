@@ -23,6 +23,7 @@
 * [2024-07-11, 20:43:11](https://news.ycombinator.com/item?id=40940456) - [Helium reservoir with 'mind-boggling' concentrations may be even bigger](https://www.livescience.com/planet-earth/geology/massive-helium-reservoir-with-mind-boggling-concentrations-may-be-even-bigger-more-concentrated-than-we-thought)
 * [2024-07-11, 20:21:20](https://news.ycombinator.com/item?id=40940276) - [Natural olive compound aids weight loss and regulates blood sugar](https://newatlas.com/health-wellbeing/olive-compound/)
 * [2024-07-11, 20:18:28](https://news.ycombinator.com/item?id=40940243) - [Nike Slashed Its Sustainability Team](https://www.propublica.org/article/nike-layoffs-sustainability-climate-change)
+* [2024-07-11, 20:17:58](https://news.ycombinator.com/item?id=40940241) - [Beating the L1 cache with value speculation (2021)](https://mazzo.li/posts/value-speculation.html)
 * [2024-07-11, 20:16:21](https://news.ycombinator.com/item?id=40940225) - [WebVM is a server-less virtual Linux environment running client-side](https://webvm.io/)
 * [2024-07-11, 20:13:28](https://news.ycombinator.com/item?id=40940200) - [CodeMirror: Extensible code editor component for the web](https://codemirror.net)
 * [2024-07-11, 20:10:44](https://news.ycombinator.com/item?id=40940181) - [Show HN: Mandala – Automatically save, query and version Python computations](https://github.com/amakelov/mandala)
