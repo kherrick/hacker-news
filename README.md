@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-12, 06:54:19](https://news.ycombinator.com/item?id=40943253) - [GE Aerospace Successfully Develops and Tests New Hypersonic Dual-Mode Ramjet](https://www.geaerospace.com/news/press-releases/ge-aerospace-successfully-develops-and-tests-new-hypersonic-dual-mode-ramjet)
 * [2024-07-12, 06:12:08](https://news.ycombinator.com/item?id=40943064) - [Color Wheels Are Wrong](https://longform.asmartbear.com/color-wheels/)
 * [2024-07-12, 04:42:29](https://news.ycombinator.com/item?id=40942769) - [A personal music streaming server that works](https://koel.dev)
 * [2024-07-12, 04:26:23](https://news.ycombinator.com/item?id=40942732) - [Using S3 as a Container Registry](https://ochagavia.nl/blog/using-s3-as-a-container-registry/)
@@ -25,7 +26,6 @@
 * [2024-07-11, 15:52:14](https://news.ycombinator.com/item?id=40937973) - [Three years in North Korea as a foreigner (2021)](https://mydiplomaticlife.com/how-to-survive-3-years-in-north-korea-as-a-foreigner/)
 * [2024-07-11, 13:48:49](https://news.ycombinator.com/item?id=40936808) - [Iconography of the X Window System: The Boot Stipple](https://matttproud.com/blog/posts/x-window-system-boot-stipple.html)
 * [2024-07-11, 09:28:54](https://news.ycombinator.com/item?id=40934924) - [The Typeset of Wall·E (2018)](https://typesetinthefuture.com/2018/12/04/walle/)
-* [2024-07-10, 21:24:49](https://news.ycombinator.com/item?id=40931636) - [Scientists discover a cause of lupus, possible way to reverse it](https://news.feinberg.northwestern.edu/2024/07/10/scientists-discover-a-cause-of-lupus-and-a-possible-way-to-reverse-it/)
 * [2024-07-09, 09:26:08](https://news.ycombinator.com/item?id=40914052) - [Rapid extraction of europium from spent fluorescent lamps](https://ethz.ch/en/news-and-events/eth-news/news/2024/07/mining-rare-earth-metals-from-electronic-waste.html)
 * [2024-07-08, 23:06:17](https://news.ycombinator.com/item?id=40910731) - [Enums in Go](https://dizzy.zone/2024/01/26/Enums-in-Go/)
 * [2024-07-08, 20:09:08](https://news.ycombinator.com/item?id=40909094) - [Making Python Less Random](https://healeycodes.com/making-python-less-random)
