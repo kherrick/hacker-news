@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-12, 03:31:36",
+      "https://news.ycombinator.com/item?id=40942543"
+    ],
+    [
+      "Embedded Python: MicroPython Is Amazing",
+      "https://hackaday.com/2024/07/11/embedded-python-micropython-is-amazing/"
+    ]
+  ],
+  [
+    [
       "2024-07-12, 02:27:52",
       "https://news.ycombinator.com/item?id=40942307"
     ],
@@ -17,6 +27,16 @@
     [
       "JavaScript Ben.ch (JavaScript Benchmarking Tools)",
       "https://jsben.ch/"
+    ]
+  ],
+  [
+    [
+      "2024-07-12, 02:14:43",
+      "https://news.ycombinator.com/item?id=40942253"
+    ],
+    [
+      "Why I'm Done Making Desktop Applications (2009)",
+      "https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2024-07-11, 15:29:08",
-      "https://news.ycombinator.com/item?id=40937760"
-    ],
-    [
-      "Putting DuckDB in Postgres to Query Iceberg",
-      "https://blog.paradedb.com/pages/iceberg_lakehouse"
-    ]
-  ],
-  [
-    [
       "2024-07-11, 13:48:49",
       "https://news.ycombinator.com/item?id=40936808"
     ],
@@ -287,16 +297,6 @@
     [
       "A revolution in archaeology is transforming our picture of past populations",
       "https://aeon.co/essays/an-archeological-revolution-transforms-our-image-of-human-freedoms"
-    ]
-  ],
-  [
-    [
-      "2024-07-08, 04:48:10",
-      "https://news.ycombinator.com/item?id=40902688"
-    ],
-    [
-      "Children's mental models of recursive LOGO programs (1985)",
-      "https://telearn.hal.science/hal-00190537/document"
     ]
   ]
 ]
