@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-12, 21:40:37",
+      "https://news.ycombinator.com/item?id=40949698"
+    ],
+    [
+      "OpenAI promised to make its AI safe. Employees say it 'failed' its first test",
+      "https://www.washingtonpost.com/technology/2024/07/12/openai-ai-safety-regulation-gpt4/"
+    ]
+  ],
+  [
+    [
       "2024-07-12, 20:17:40",
       "https://news.ycombinator.com/item?id=40949021"
     ],
@@ -247,16 +257,6 @@
     [
       "Arm Accuracy Super Resolution",
       "https://community.arm.com/arm-community-blogs/b/graphics-gaming-and-vr-blog/posts/introducing-arm-accuracy-super-resolution"
-    ]
-  ],
-  [
-    [
-      "2024-07-12, 04:26:23",
-      "https://news.ycombinator.com/item?id=40942732"
-    ],
-    [
-      "Using S3 as a Container Registry",
-      "https://ochagavia.nl/blog/using-s3-as-a-container-registry/"
     ]
   ],
   [
