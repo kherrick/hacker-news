@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-12](index.md)
 
+* [2024-07-12, 17:00:54](https://news.ycombinator.com/item?id=40947357) - [Tesorio (YC S15) Is Hiring a Senior GenAI/LLM Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
 * [2024-07-12, 16:26:05](https://news.ycombinator.com/item?id=40947024) - [Stack Overflow has stopped publishing data dumps to the Internet Archive](https://meta.stackexchange.com/questions/401324/announcing-a-change-to-the-data-dump-process)
 * [2024-07-12, 15:46:52](https://news.ycombinator.com/item?id=40946644) - [Intel is selling defective 13-14th Gen CPUs](https://alderongames.com/intel-crashes)
 * [2024-07-12, 15:16:38](https://news.ycombinator.com/item?id=40946352) - [AI Integration Is Coming to Firefox](https://news.itsfoss.com/firefox-ai-integration/)

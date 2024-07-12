@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-12, 17:00:54](https://news.ycombinator.com/item?id=40947357) - [Tesorio (YC S15) Is Hiring a Senior GenAI/LLM Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
 * [2024-07-12, 16:26:05](https://news.ycombinator.com/item?id=40947024) - [Stack Overflow has stopped publishing data dumps to the Internet Archive](https://meta.stackexchange.com/questions/401324/announcing-a-change-to-the-data-dump-process)
 * [2024-07-12, 14:41:22](https://news.ycombinator.com/item?id=40946033) - [Tau: Open-source PaaS – A self-hosted Vercel / Netlify / Cloudflare alternative](https://github.com/taubyte/tau)
 * [2024-07-12, 14:22:25](https://news.ycombinator.com/item?id=40945846) - [WildGaussians: 3D Gaussian Splatting in the Wild](https://arxiv.org/abs/2407.08447)
@@ -8,7 +9,6 @@
 * [2024-07-12, 13:17:36](https://news.ycombinator.com/item?id=40945285) - [The human x-ray scientists](https://thequackdoctor.substack.com/p/the-human-x-ray-scientists)
 * [2024-07-12, 12:51:58](https://news.ycombinator.com/item?id=40945076) - [Windows NT for Power Macintosh](https://github.com/Wack0/maciNTosh)
 * [2024-07-12, 12:19:27](https://news.ycombinator.com/item?id=40944840) - [Cradle: Empowering Foundation Agents Towards General Computer Control](https://baai-agents.github.io/Cradle/)
-* [2024-07-12, 12:00:34](https://news.ycombinator.com/item?id=40944728) - [Legion Health (YC S21) Is Hiring a Technical Product Marketing Lead](https://www.ycombinator.com/companies/legion-health/jobs/9JHdQqJ-technical-product-marketing-lead-legion-health-y-combinator-startup)
 * [2024-07-12, 09:06:15](https://news.ycombinator.com/item?id=40943904) - [Show HN: Daminik – An Open source digital asset manager](https://daminik.com)
 * [2024-07-12, 08:45:42](https://news.ycombinator.com/item?id=40943777) - [The Forth Methodology of Charles Moore (2001)](https://www.ultratechnology.com/method.htm)
 * [2024-07-12, 07:46:10](https://news.ycombinator.com/item?id=40943460) - [Arm Accuracy Super Resolution](https://community.arm.com/arm-community-blogs/b/graphics-gaming-and-vr-blog/posts/introducing-arm-accuracy-super-resolution)
@@ -25,11 +25,11 @@
 * [2024-07-11, 20:10:44](https://news.ycombinator.com/item?id=40940181) - [Show HN: Mandala – Automatically save, query and version Python computations](https://github.com/amakelov/mandala)
 * [2024-07-11, 19:21:08](https://news.ycombinator.com/item?id=40939703) - [Gene-silencing tool shows promise as a future therapy against prion diseases](https://news.mit.edu/2024/charmed-collaboration-creates-therapy-candidate-fatal-prion-diseases-0627)
 * [2024-07-11, 17:31:48](https://news.ycombinator.com/item?id=40938810) - [Capturing Linux SSL/TLS plaintext without a CA certificate using eBPF](https://github.com/gojue/ecapture)
+* [2024-07-11, 17:06:06](https://news.ycombinator.com/item?id=40938577) - [FlashAttention-3: Fast and Accurate Attention with Asynchrony and Low-Precision](https://www.together.ai/blog/flashattention-3)
 * [2024-07-11, 09:28:54](https://news.ycombinator.com/item?id=40934924) - [The Typeset of Wall·E (2018)](https://typesetinthefuture.com/2018/12/04/walle/)
 * [2024-07-09, 11:02:22](https://news.ycombinator.com/item?id=40914635) - [So you want to rent an NVIDIA H100 cluster? 2024 Consumer Guide](https://www.photoroom.com/inside-photoroom/so-you-want-to-rent-an-nvidia-h100-cluster-2024-consumer-guide?slug=inside-photoroom/so-you-want-to-rent-an-nvidia-h100-cluster-2024-consumer-guide&_storyblok_published=511470179&)
 * [2024-07-08, 20:09:08](https://news.ycombinator.com/item?id=40909094) - [Making Python Less Random](https://healeycodes.com/making-python-less-random)
 * [2024-07-07, 15:37:46](https://news.ycombinator.com/item?id=40898383) - [Neuromorphic dendritic network with silent synapses for visual motion perception](https://www.nature.com/articles/s41928-024-01171-7)
-* [2024-07-07, 14:03:18](https://news.ycombinator.com/item?id=40897828) - [Wild new Wi-Fi routers turn your home network into a security radar](https://newatlas.com/around-the-home/gamgee-wifi-home-security-system/)
 
 ## [Archives](archives/index.md)
 
