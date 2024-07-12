@@ -1,7 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-12, 02:20:54](https://news.ycombinator.com/item?id=40942278) - [The Boycott Against Israel Is Spreading into New Corners of Society](https://www.wsj.com/world/middle-east/the-boycott-against-israel-is-spreading-into-new-corners-of-society-31295d69)
-* [2024-07-12, 01:24:49](https://news.ycombinator.com/item?id=40942036) - [Ark Invest: Robotaxis 28 trillion by 2030 [video]](https://www.youtube.com/watch?v=Uw32aVFWEss)
 * [2024-07-11, 23:50:09](https://news.ycombinator.com/item?id=40941645) - [Third Places and Neighborhood Entrepreneurship: Evidence from Starbucks Cafés](https://www.nber.org/papers/w32604)
 * [2024-07-11, 23:39:47](https://news.ycombinator.com/item?id=40941583) - [First cell-free system in which genetic information and metabolism work together](https://phys.org/news/2024-07-team-cell-free-genetic-metabolism.html)
 * [2024-07-11, 23:18:15](https://news.ycombinator.com/item?id=40941475) - [Boosting Compiler Testing by Injecting Real-World Code](https://dl.acm.org/doi/10.1145/3656386)
@@ -21,6 +19,7 @@
 * [2024-07-11, 15:52:14](https://news.ycombinator.com/item?id=40937973) - [Surviving three years in North Korea as a foreigner (2021)](https://mydiplomaticlife.com/how-to-survive-3-years-in-north-korea-as-a-foreigner/)
 * [2024-07-11, 15:29:08](https://news.ycombinator.com/item?id=40937760) - [Putting DuckDB in Postgres to Query Iceberg](https://blog.paradedb.com/pages/iceberg_lakehouse)
 * [2024-07-11, 13:48:49](https://news.ycombinator.com/item?id=40936808) - [Iconography of the X Window System: The Boot Stipple](https://matttproud.com/blog/posts/x-window-system-boot-stipple.html)
+* [2024-07-11, 11:57:27](https://news.ycombinator.com/item?id=40935701) - [Binance built a 100PB log service with Quickwit](https://quickwit.io/blog/quickwit-binance-story)
 * [2024-07-11, 09:28:54](https://news.ycombinator.com/item?id=40934924) - [The Typeset of Wall·E (2018)](https://typesetinthefuture.com/2018/12/04/walle/)
 * [2024-07-11, 08:11:36](https://news.ycombinator.com/item?id=40934608) - [A relativistic framework to establish coordinate time on the Moon and beyond](https://arxiv.org/abs/2402.11150)
 * [2024-07-11, 08:06:38](https://news.ycombinator.com/item?id=40934582) - [The Overengineered Resume with Zola, JSON Resume, Weasyprint, and Nix (2023)](https://ktema.org/articles/the-overengineered-resume/)
@@ -30,6 +29,7 @@
 * [2024-07-08, 20:09:08](https://news.ycombinator.com/item?id=40909094) - [Making Python Less Random](https://healeycodes.com/making-python-less-random)
 * [2024-07-08, 04:48:10](https://news.ycombinator.com/item?id=40902688) - [Children's mental models of recursive LOGO programs (1985)](https://telearn.hal.science/hal-00190537/document)
 * [2024-07-07, 10:21:14](https://news.ycombinator.com/item?id=40896470) - [The Sumerian Game: The Most Important Video Game You've Never Heard Of (2021)](https://www.acriticalhit.com/sumerian-game-most-important-video-game-youve-never-heard/)
+* [2024-07-07, 09:33:55](https://news.ycombinator.com/item?id=40896306) - [The Planets Today](https://www.theplanetstoday.com/)
 
 ## [Archives](archives/index.md)
 
