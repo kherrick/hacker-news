@@ -1,42 +1,22 @@
 [
   [
     [
-      "2024-07-12, 17:27:45",
-      "https://news.ycombinator.com/item?id=40947588"
+      "2024-07-12, 17:36:04",
+      "https://news.ycombinator.com/item?id=40947657"
     ],
     [
-      "Helium reservoir in MN is even more 'mind-boggling' than we thought",
-      "https://www.livescience.com/planet-earth/geology/massive-helium-reservoir-with-mind-boggling-concentrations-may-be-even-bigger-more-concentrated-than-we-thought"
+      "AT&T: Hacker Stole Cell, Text Data on Nearly All Wireless Customers",
+      "https://www.wsj.com/business/telecom/at-t-says-hacker-stole-data-on-nearly-all-its-wireless-customers-32d6969d"
     ]
   ],
   [
     [
-      "2024-07-12, 17:24:12",
-      "https://news.ycombinator.com/item?id=40947554"
+      "2024-07-12, 17:22:29",
+      "https://news.ycombinator.com/item?id=40947540"
     ],
     [
-      "AT&T says hackers stole records of nearly all cellular customers calls and texts",
-      "https://www.nbcnews.com/news/us-news/t-says-hackers-stole-records-nearly-cell-customers-calls-texts-rcna161507"
-    ]
-  ],
-  [
-    [
-      "2024-07-12, 17:14:46",
-      "https://news.ycombinator.com/item?id=40947472"
-    ],
-    [
-      "Finnish startup says it can speed up any CPU by 100x",
-      "https://www.msn.com/en-us/news/technology/one-of-the-wildest-claims-ever-heard-finnish-startup-says-it-can-speed-up-any-cpu-by-100x-using-a-tiny-piece-of-hardware-with-no-recoding-and-it-might-just-be-true/ar-BB1ouxAV"
-    ]
-  ],
-  [
-    [
-      "2024-07-12, 17:11:34",
-      "https://news.ycombinator.com/item?id=40947445"
-    ],
-    [
-      "Blue checks on X deceiving users into engaging with harmful material, EU says",
-      "https://www.irishtimes.com/technology/big-tech/2024/07/12/blue-checks-on-elon-musks-x-are-deceptive-eu-says/"
+      "Ex-Meta scientists debut gigantic AI protein design model",
+      "https://www.nature.com/articles/d41586-024-02214-x"
     ]
   ],
   [
@@ -47,16 +27,6 @@
     [
       "Tesorio (YC S15) Is Hiring a Senior GenAI/LLM Engineer (100% Remote)",
       "https://www.tesorio.com/careers#job-openings"
-    ]
-  ],
-  [
-    [
-      "2024-07-12, 16:57:52",
-      "https://news.ycombinator.com/item?id=40947321"
-    ],
-    [
-      "NASA astronauts from Boeing's Starliner may be stuck in space until August",
-      "https://www.theguardian.com/science/article/2024/jul/10/nasa-astronauts-boeing-starliner"
     ]
   ],
   [
@@ -181,6 +151,16 @@
   ],
   [
     [
+      "2024-07-12, 02:27:52",
+      "https://news.ycombinator.com/item?id=40942307"
+    ],
+    [
+      "StreamVC: Real-Time Low-Latency Voice Conversion",
+      "https://research.google/pubs/streamvc-real-time-low-latency-voice-conversion/"
+    ]
+  ],
+  [
+    [
       "2024-07-12, 02:18:11",
       "https://news.ycombinator.com/item?id=40942270"
     ],
@@ -257,6 +237,26 @@
     [
       "Gene-silencing tool shows promise as a future therapy against prion diseases",
       "https://news.mit.edu/2024/charmed-collaboration-creates-therapy-candidate-fatal-prion-diseases-0627"
+    ]
+  ],
+  [
+    [
+      "2024-07-11, 17:31:48",
+      "https://news.ycombinator.com/item?id=40938810"
+    ],
+    [
+      "Capturing Linux SSL/TLS plaintext without a CA certificate using eBPF",
+      "https://github.com/gojue/ecapture"
+    ]
+  ],
+  [
+    [
+      "2024-07-11, 09:28:54",
+      "https://news.ycombinator.com/item?id=40934924"
+    ],
+    [
+      "The Typeset of Wall·E (2018)",
+      "https://typesetinthefuture.com/2018/12/04/walle/"
     ]
   ],
   [
