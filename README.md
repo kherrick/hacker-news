@@ -19,7 +19,7 @@
 * [2024-07-12, 14:34:34](https://news.ycombinator.com/item?id=40945961) - [Perspective: High-performance data visualization and analytics in WebAssembly](https://github.com/finos/perspective)
 * [2024-07-12, 14:22:25](https://news.ycombinator.com/item?id=40945846) - [WildGaussians: 3D Gaussian Splatting in the Wild](https://arxiv.org/abs/2407.08447)
 * [2024-07-12, 14:04:21](https://news.ycombinator.com/item?id=40945671) - [Show HN: Smelt — an open source test runner for chip developers](https://silogy-io.github.io/smelt/)
-* [2024-07-12, 13:45:33](https://news.ycombinator.com/item?id=40945532) - [Ask HN: How to grow concert visuals business?](https://news.ycombinator.com/item?id=40945532)
+* [2024-07-12, 13:45:33](https://news.ycombinator.com/item?id=40945532) - [Ask HN: How to grow a concert visuals business?](https://news.ycombinator.com/item?id=40945532)
 * [2024-07-12, 13:24:24](https://news.ycombinator.com/item?id=40945355) - [Born into slavery, he rose to the top of France's art world](https://www.washingtonpost.com/entertainment/art/2024/07/12/guillaume-lethiere-exhibition-life/)
 * [2024-07-12, 12:51:58](https://news.ycombinator.com/item?id=40945076) - [Windows NT for Power Macintosh](https://github.com/Wack0/maciNTosh)
 * [2024-07-12, 11:17:54](https://news.ycombinator.com/item?id=40944505) - [AT&T says criminals stole phone records of 'nearly all' customers in data breach](https://techcrunch.com/2024/07/12/att-phone-records-stolen-data-breach/)
