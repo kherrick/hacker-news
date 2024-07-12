@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-12, 17:48:44",
+      "https://news.ycombinator.com/item?id=40947796"
+    ],
+    [
+      "Constellation talking to Pennsylvania on Three Mile Island restart, sources say",
+      "https://www.reuters.com/business/energy/constellation-talking-pennsylvania-three-mile-island-restart-sources-say-2024-07-02/"
+    ]
+  ],
+  [
+    [
       "2024-07-12, 17:36:04",
       "https://news.ycombinator.com/item?id=40947657"
     ],
@@ -21,12 +31,32 @@
   ],
   [
     [
+      "2024-07-12, 17:03:07",
+      "https://news.ycombinator.com/item?id=40947377"
+    ],
+    [
+      "Tour de France riders are inhaling carbon monoxide in 'super altitude' recipe",
+      "https://escapecollective.com/exclusive-tour-riders-are-inhaling-carbon-monoxide-in-super-altitude-recipe/"
+    ]
+  ],
+  [
+    [
       "2024-07-12, 17:00:54",
       "https://news.ycombinator.com/item?id=40947357"
     ],
     [
       "Tesorio (YC S15) Is Hiring a Senior GenAI/LLM Engineer (100% Remote)",
       "https://www.tesorio.com/careers#job-openings"
+    ]
+  ],
+  [
+    [
+      "2024-07-12, 16:28:36",
+      "https://news.ycombinator.com/item?id=40947053"
+    ],
+    [
+      "Instrumenting Python GIL with eBPF",
+      "https://coroot.com/blog/instrumenting-python-gil-with-ebpf"
     ]
   ],
   [
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2024-07-12, 02:27:52",
-      "https://news.ycombinator.com/item?id=40942307"
-    ],
-    [
-      "StreamVC: Real-Time Low-Latency Voice Conversion",
-      "https://research.google/pubs/streamvc-real-time-low-latency-voice-conversion/"
-    ]
-  ],
-  [
-    [
       "2024-07-12, 02:18:11",
       "https://news.ycombinator.com/item?id=40942270"
     ],
@@ -237,26 +257,6 @@
     [
       "Gene-silencing tool shows promise as a future therapy against prion diseases",
       "https://news.mit.edu/2024/charmed-collaboration-creates-therapy-candidate-fatal-prion-diseases-0627"
-    ]
-  ],
-  [
-    [
-      "2024-07-11, 17:31:48",
-      "https://news.ycombinator.com/item?id=40938810"
-    ],
-    [
-      "Capturing Linux SSL/TLS plaintext without a CA certificate using eBPF",
-      "https://github.com/gojue/ecapture"
-    ]
-  ],
-  [
-    [
-      "2024-07-11, 09:28:54",
-      "https://news.ycombinator.com/item?id=40934924"
-    ],
-    [
-      "The Typeset of Wall·E (2018)",
-      "https://typesetinthefuture.com/2018/12/04/walle/"
     ]
   ],
   [
