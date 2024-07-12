@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-07-12, 15:06:16",
-      "https://news.ycombinator.com/item?id=40946264"
+      "2024-07-12, 15:46:52",
+      "https://news.ycombinator.com/item?id=40946644"
     ],
     [
-      "Xkcd 2957: A Crossword Puzzle",
-      "https://xkcd.com/2957/"
+      "Intel is selling defective 13-14th Gen CPUs",
+      "https://alderongames.com/intel-crashes"
+    ]
+  ],
+  [
+    [
+      "2024-07-12, 14:41:22",
+      "https://news.ycombinator.com/item?id=40946033"
+    ],
+    [
+      "Tau: Open-source PaaS – A self-hosted Vercel / Netlify / Cloudflare alternative",
+      "https://github.com/taubyte/tau"
     ]
   ],
   [
@@ -17,6 +27,16 @@
     [
       "WildGaussians: 3D Gaussian Splatting in the Wild",
       "https://arxiv.org/abs/2407.08447"
+    ]
+  ],
+  [
+    [
+      "2024-07-12, 14:04:21",
+      "https://news.ycombinator.com/item?id=40945671"
+    ],
+    [
+      "Show HN: Smelt — an open source test runner for chip developers",
+      "https://silogy-io.github.io/smelt/"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2024-07-11, 23:40:36",
-      "https://news.ycombinator.com/item?id=40941588"
-    ],
-    [
-      "AxRuntime (AxRT): Creating Applications Using Amiga APIs",
-      "https://www.axrt.org/"
-    ]
-  ],
-  [
-    [
       "2024-07-11, 23:09:01",
       "https://news.ycombinator.com/item?id=40941412"
     ],
@@ -247,16 +257,6 @@
     [
       "Capturing Linux SSL/TLS plaintext without a CA certificate using eBPF",
       "https://github.com/gojue/ecapture"
-    ]
-  ],
-  [
-    [
-      "2024-07-11, 09:28:54",
-      "https://news.ycombinator.com/item?id=40934924"
-    ],
-    [
-      "The Typeset of Wall·E (2018)",
-      "https://typesetinthefuture.com/2018/12/04/walle/"
     ]
   ],
   [
