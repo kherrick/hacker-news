@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-12](index.md)
 
+* [2024-07-12, 10:39:52](https://news.ycombinator.com/item?id=40944320) - [Deno 1.45: Workspace and Monorepo Support](https://deno.com/blog/v1.45)
 * [2024-07-12, 09:33:20](https://news.ycombinator.com/item?id=40944035) - [Learning React: 5 Important Principles About Hooks You Have to Know](https://code.likeagirl.io/learning-react-5-important-principles-about-hooks-you-have-to-know-4967cd9d4eb4)
 * [2024-07-12, 09:06:15](https://news.ycombinator.com/item?id=40943904) - [Show HN: Daminik – An Open source digital asset manager](https://daminik.com)
 * [2024-07-12, 08:45:42](https://news.ycombinator.com/item?id=40943777) - [The Forth Methodology of Charles Moore](https://www.ultratechnology.com/method.htm)
