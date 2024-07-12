@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-12](index.md)
 
+* [2024-07-12, 12:31:16](https://news.ycombinator.com/item?id=40944925) - [Peer review is essential for science. Unfortunately, it's broken](https://arstechnica.com/science/2024/07/peer-review-is-essential-for-science-unfortunately-its-broken/)
 * [2024-07-12, 12:24:07](https://news.ycombinator.com/item?id=40944869) - [Introduction to Hardware Hacking with a Raspberry Pi](https://voidstarsec.com/blog/pifex-config)
 * [2024-07-12, 12:19:27](https://news.ycombinator.com/item?id=40944840) - [Cradle: Empowering Foundation Agents Towards General Computer Control](https://baai-agents.github.io/Cradle/)
 * [2024-07-12, 12:19:26](https://news.ycombinator.com/item?id=40944839) - [Nearly all AT&T cell customers' call and text records exposed](https://www.cnn.com/2024/07/12/business/att-customers-massive-breach/index.html)
