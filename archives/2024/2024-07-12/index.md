@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-12](index.md)
 
 * [2024-07-12, 15:16:38](https://news.ycombinator.com/item?id=40946352) - [AI Integration Is Coming to Firefox](https://news.itsfoss.com/firefox-ai-integration/)
+* [2024-07-12, 15:06:16](https://news.ycombinator.com/item?id=40946264) - [Xkcd 2957: A Crossword Puzzle](https://xkcd.com/2957/)
 * [2024-07-12, 14:22:25](https://news.ycombinator.com/item?id=40945846) - [WildGaussians: 3D Gaussian Splatting in the Wild](https://arxiv.org/abs/2407.08447)
 * [2024-07-12, 14:05:26](https://news.ycombinator.com/item?id=40945683) - [Reasoning skills of large language models are often overestimated](https://news.mit.edu/2024/reasoning-skills-large-language-models-often-overestimated-0711)
 * [2024-07-12, 13:57:00](https://news.ycombinator.com/item?id=40945608) - [Thunderbird 128 \"Nebula\"](https://blog.thunderbird.net/2024/07/welcome-to-thunderbird-128-nebula/)

@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-12, 15:16:38](https://news.ycombinator.com/item?id=40946352) - [AI Integration Is Coming to Firefox](https://news.itsfoss.com/firefox-ai-integration/)
+* [2024-07-12, 15:06:16](https://news.ycombinator.com/item?id=40946264) - [Xkcd 2957: A Crossword Puzzle](https://xkcd.com/2957/)
 * [2024-07-12, 14:22:25](https://news.ycombinator.com/item?id=40945846) - [WildGaussians: 3D Gaussian Splatting in the Wild](https://arxiv.org/abs/2407.08447)
 * [2024-07-12, 13:24:24](https://news.ycombinator.com/item?id=40945355) - [Born into slavery, he rose to the top of France's art world](https://www.washingtonpost.com/entertainment/art/2024/07/12/guillaume-lethiere-exhibition-life/)
 * [2024-07-12, 13:17:36](https://news.ycombinator.com/item?id=40945285) - [The human x-ray scientists](https://thequackdoctor.substack.com/p/the-human-x-ray-scientists)
