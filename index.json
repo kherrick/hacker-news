@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2024-07-11, 23:18:15",
-      "https://news.ycombinator.com/item?id=40941475"
-    ],
-    [
-      "Boosting Compiler Testing by Injecting Real-World Code",
-      "https://dl.acm.org/doi/10.1145/3656386"
-    ]
-  ],
-  [
-    [
       "2024-07-11, 23:09:01",
       "https://news.ycombinator.com/item?id=40941412"
     ],
@@ -247,6 +237,16 @@
     [
       "The Typeset of Wall·E (2018)",
       "https://typesetinthefuture.com/2018/12/04/walle/"
+    ]
+  ],
+  [
+    [
+      "2024-07-11, 08:06:38",
+      "https://news.ycombinator.com/item?id=40934582"
+    ],
+    [
+      "The Overengineered Resume with Zola, JSON Resume, Weasyprint, and Nix (2023)",
+      "https://ktema.org/articles/the-overengineered-resume/"
     ]
   ],
   [
