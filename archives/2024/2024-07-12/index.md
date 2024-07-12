@@ -4,8 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-07-12](index.md)
 
+* [2024-07-12, 12:00:34](https://news.ycombinator.com/item?id=40944728) - [Legion Health (YC S21) Is Hiring a Technical Product Marketing Lead](https://www.ycombinator.com/companies/legion-health/jobs/9JHdQqJ-technical-product-marketing-lead-legion-health-y-combinator-startup)
+* [2024-07-12, 11:57:20](https://news.ycombinator.com/item?id=40944712) - [We saved $5k a month with a single Grafana query](https://www.checklyhq.com/blog/300ms-from-every-pod-startup-with-a-single-grafana-query/)
 * [2024-07-12, 11:28:16](https://news.ycombinator.com/item?id=40944561) - [SpaceX's unmatched streak of perfection with the Falcon 9 rocket is over](https://arstechnica.com/space/2024/07/the-unmatched-streak-of-perfection-with-spacexs-falcon-9-rocket-is-over/)
+* [2024-07-12, 11:17:54](https://news.ycombinator.com/item?id=40944505) - [AT&T says criminals stole phone records of 'nearly all' customers in data breach](https://techcrunch.com/2024/07/12/att-phone-records-stolen-data-breach/)
 * [2024-07-12, 10:39:52](https://news.ycombinator.com/item?id=40944320) - [Deno 1.45: Workspace and Monorepo Support](https://deno.com/blog/v1.45)
+* [2024-07-12, 09:36:29](https://news.ycombinator.com/item?id=40944049) - [You can deeplink to a specific PDF page](https://technicalwriting.dev/www/pdf.html)
 * [2024-07-12, 09:33:20](https://news.ycombinator.com/item?id=40944035) - [Learning React: 5 Important Principles About Hooks You Have to Know](https://code.likeagirl.io/learning-react-5-important-principles-about-hooks-you-have-to-know-4967cd9d4eb4)
 * [2024-07-12, 09:06:15](https://news.ycombinator.com/item?id=40943904) - [Show HN: Daminik – An Open source digital asset manager](https://daminik.com)
 * [2024-07-12, 08:45:42](https://news.ycombinator.com/item?id=40943777) - [The Forth Methodology of Charles Moore](https://www.ultratechnology.com/method.htm)
