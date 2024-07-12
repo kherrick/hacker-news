@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-07-12, 04:26:23",
+      "https://news.ycombinator.com/item?id=40942732"
+    ],
+    [
+      "Using S3 as a Container Registry",
+      "https://ochagavia.nl/blog/using-s3-as-a-container-registry/"
+    ]
+  ],
+  [
+    [
       "2024-07-12, 02:27:52",
       "https://news.ycombinator.com/item?id=40942307"
     ],
@@ -241,16 +251,6 @@
   ],
   [
     [
-      "2024-07-11, 08:06:38",
-      "https://news.ycombinator.com/item?id=40934582"
-    ],
-    [
-      "The Overengineered Resume with Zola, JSON Resume, Weasyprint, and Nix (2023)",
-      "https://ktema.org/articles/the-overengineered-resume/"
-    ]
-  ],
-  [
-    [
       "2024-07-10, 21:24:49",
       "https://news.ycombinator.com/item?id=40931636"
     ],
@@ -261,22 +261,22 @@
   ],
   [
     [
-      "2024-07-10, 21:20:41",
-      "https://news.ycombinator.com/item?id=40931590"
-    ],
-    [
-      "Physicists have created the most fiendishly difficult maze",
-      "https://www.sciencealert.com/physicists-have-created-the-worlds-most-fiendishly-difficult-maze"
-    ]
-  ],
-  [
-    [
       "2024-07-09, 09:26:08",
       "https://news.ycombinator.com/item?id=40914052"
     ],
     [
       "Rapid extraction of europium from spent fluorescent lamps",
       "https://ethz.ch/en/news-and-events/eth-news/news/2024/07/mining-rare-earth-metals-from-electronic-waste.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-08, 23:06:17",
+      "https://news.ycombinator.com/item?id=40910731"
+    ],
+    [
+      "Enums in Go",
+      "https://dizzy.zone/2024/01/26/Enums-in-Go/"
     ]
   ],
   [
