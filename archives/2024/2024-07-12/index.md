@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-12](index.md)
 
+* [2024-07-12, 07:46:10](https://news.ycombinator.com/item?id=40943460) - [Arm Accuracy Super Resolution](https://community.arm.com/arm-community-blogs/b/graphics-gaming-and-vr-blog/posts/introducing-arm-accuracy-super-resolution)
 * [2024-07-12, 07:41:16](https://news.ycombinator.com/item?id=40943436) - [As an Employee, You Are Disposable (2023)](https://nelson.cloud/as-an-employee-you-are-disposable/)
 * [2024-07-12, 07:18:12](https://news.ycombinator.com/item?id=40943343) - [Ask HN: Freelancer's Dilemma – Client Won't Pay Despite Clear Agreement](https://news.ycombinator.com/item?id=40943343)
 * [2024-07-12, 06:54:19](https://news.ycombinator.com/item?id=40943253) - [GE Aerospace Successfully Develops and Tests New Hypersonic Dual-Mode Ramjet](https://www.geaerospace.com/news/press-releases/ge-aerospace-successfully-develops-and-tests-new-hypersonic-dual-mode-ramjet)

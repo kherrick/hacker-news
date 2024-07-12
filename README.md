@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-12, 07:46:10](https://news.ycombinator.com/item?id=40943460) - [Arm Accuracy Super Resolution](https://community.arm.com/arm-community-blogs/b/graphics-gaming-and-vr-blog/posts/introducing-arm-accuracy-super-resolution)
 * [2024-07-12, 07:41:16](https://news.ycombinator.com/item?id=40943436) - [As an Employee, You Are Disposable (2023)](https://nelson.cloud/as-an-employee-you-are-disposable/)
 * [2024-07-12, 07:18:12](https://news.ycombinator.com/item?id=40943343) - [Ask HN: Freelancer's Dilemma – Client Won't Pay Despite Clear Agreement](https://news.ycombinator.com/item?id=40943343)
 * [2024-07-12, 06:54:19](https://news.ycombinator.com/item?id=40943253) - [GE Aerospace Successfully Develops and Tests New Hypersonic Dual-Mode Ramjet](https://www.geaerospace.com/news/press-releases/ge-aerospace-successfully-develops-and-tests-new-hypersonic-dual-mode-ramjet)
@@ -12,7 +13,6 @@
 * [2024-07-11, 23:40:36](https://news.ycombinator.com/item?id=40941588) - [AxRuntime (AxRT): Creating Applications Using Amiga APIs](https://www.axrt.org/)
 * [2024-07-11, 23:09:01](https://news.ycombinator.com/item?id=40941412) - [AWS Secrets Manager Agent](https://github.com/aws/aws-secretsmanager-agent)
 * [2024-07-11, 22:10:10](https://news.ycombinator.com/item?id=40941056) - [Physics-Based Deep Learning Book](https://physicsbaseddeeplearning.org/intro.html)
-* [2024-07-11, 21:31:07](https://news.ycombinator.com/item?id=40940784) - [Wlhc: Wayland Hot Corners](https://whynothugo.nl/journal/2024/07/11/introducing-wlhc-wayland-hot-corners/)
 * [2024-07-11, 21:00:06](https://news.ycombinator.com/item?id=40940565) - [Imbue (Formerly Generally Intelligent) (YC S17) Is Hiring an Engineering Manager](https://news.ycombinator.com/item?id=40940565)
 * [2024-07-11, 20:16:21](https://news.ycombinator.com/item?id=40940225) - [WebVM is a server-less virtual Linux environment running client-side](https://webvm.io/)
 * [2024-07-11, 20:10:44](https://news.ycombinator.com/item?id=40940181) - [Show HN: Mandala – Automatically save, query and version Python computations](https://github.com/amakelov/mandala)
