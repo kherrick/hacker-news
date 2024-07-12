@@ -39,6 +39,7 @@
 * [2024-07-08, 17:46:37](https://news.ycombinator.com/item?id=40907528) - [Show HN: I coded my own JSON translation tool to easily localize my side project](https://www.quicklang.app/en)
 * [2024-07-08, 17:41:25](https://news.ycombinator.com/item?id=40907481) - [You're Out of Here: A History of Umpire Ejections](https://sabr.org/journal/article/youre-out-of-here-a-history-of-umpire-ejections/)
 * [2024-07-08, 17:20:57](https://news.ycombinator.com/item?id=40907303) - [The Transformation Priority Premise (2013)](https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html)
+* [2024-07-08, 17:18:32](https://news.ycombinator.com/item?id=40907284) - [Notepad's spellcheck and autocorrect are rolling out to everybody after 41 years](https://arstechnica.com/gadgets/2024/07/notepads-spellcheck-and-autocorrect-are-rolling-out-to-everybody-after-41-years/)
 * [2024-07-08, 17:16:47](https://news.ycombinator.com/item?id=40907269) - [Dumb website only lets one user in at a time](https://imherefor.me/)
 * [2024-07-08, 17:05:08](https://news.ycombinator.com/item?id=40907155) - [The Right Kind of Stubborn](https://paulgraham.com/persistence.html)
 * [2024-07-08, 16:29:25](https://news.ycombinator.com/item?id=40906809) - [Cross-compile native GUI apps with uing](https://forum.nim-lang.org/t/11954)
