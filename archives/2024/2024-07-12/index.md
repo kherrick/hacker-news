@@ -6,6 +6,7 @@
 
 * [2024-07-12, 20:19:21](https://news.ycombinator.com/item?id=40949034) - [\"GitHub\" Is Starting to Feel Like Legacy Software](https://www.mistys-internet.website/blog/blog/2024/07/12/github-is-starting-to-feel-like-legacy-software/)
 * [2024-07-12, 20:02:39](https://news.ycombinator.com/item?id=40948888) - [Rust Received the SIGPLAN Programming Languages Software Award 2024](https://www.sigplan.org/Awards/Software/)
+* [2024-07-12, 20:02:25](https://news.ycombinator.com/item?id=40948884) - [Antonin Scalia Stole Your Car](https://pluralistic.net/2024/06/28/dealer-management-software/#antonin-scalia-stole-your-car)
 * [2024-07-12, 19:52:52](https://news.ycombinator.com/item?id=40948806) - [Free-threaded CPython is ready to experiment with](https://labs.quansight.org/blog/free-threaded-python-rollout)
 * [2024-07-12, 19:38:11](https://news.ycombinator.com/item?id=40948693) - [A.I. Has Become a Technology of Faith](https://www.theatlantic.com/technology/archive/2024/07/thrive-ai-health-huffington-altman-faith/678984/)
 * [2024-07-12, 19:38:05](https://news.ycombinator.com/item?id=40948692) - ['Annoyed' Seagulls Are Waging War on NYC's Beach Drones](https://gizmodo.com/very-annoyed-seagulls-are-waging-war-on-nycs-beach-drones-2000469990)
