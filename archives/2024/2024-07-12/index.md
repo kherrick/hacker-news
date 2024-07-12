@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-12](index.md)
 
+* [2024-07-12, 14:22:25](https://news.ycombinator.com/item?id=40945846) - [WildGaussians: 3D Gaussian Splatting in the Wild](https://arxiv.org/abs/2407.08447)
 * [2024-07-12, 14:05:26](https://news.ycombinator.com/item?id=40945683) - [Reasoning skills of large language models are often overestimated](https://news.mit.edu/2024/reasoning-skills-large-language-models-often-overestimated-0711)
 * [2024-07-12, 13:57:00](https://news.ycombinator.com/item?id=40945608) - [Thunderbird 128 \"Nebula\"](https://blog.thunderbird.net/2024/07/welcome-to-thunderbird-128-nebula/)
 * [2024-07-12, 13:50:00](https://news.ycombinator.com/item?id=40945562) - [SpaceX debris crashed onto Canadian farmland, highlighting a potential disaster](https://theconversation.com/spacex-space-junk-crashed-onto-saskatchewan-farmland-highlighting-a-potential-impending-disaster-233322)
