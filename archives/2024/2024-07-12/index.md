@@ -4,8 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-07-12](index.md)
 
+* [2024-07-12, 17:11:34](https://news.ycombinator.com/item?id=40947445) - [Blue checks on X deceiving users into engaging with harmful material, EU says](https://www.irishtimes.com/technology/big-tech/2024/07/12/blue-checks-on-elon-musks-x-are-deceptive-eu-says/)
+* [2024-07-12, 17:03:09](https://news.ycombinator.com/item?id=40947378) - [Gemini Pro refuses to acknowledge yt-dlp](https://twitter.com/adocomplete/status/1811802857022324904)
 * [2024-07-12, 17:00:54](https://news.ycombinator.com/item?id=40947357) - [Tesorio (YC S15) Is Hiring a Senior GenAI/LLM Engineer (100% Remote)](https://www.tesorio.com/careers#job-openings)
+* [2024-07-12, 16:58:37](https://news.ycombinator.com/item?id=40947332) - [California Faces the Grape Apocalypse due to slump in wine sales](https://www.wine-searcher.com/m/2024/07/california-faces-the-grape-apocalypse)
+* [2024-07-12, 16:57:52](https://news.ycombinator.com/item?id=40947321) - [NASA astronauts from Boeing's Starliner may be stuck in space until August](https://www.theguardian.com/science/article/2024/jul/10/nasa-astronauts-boeing-starliner)
+* [2024-07-12, 16:41:40](https://news.ycombinator.com/item?id=40947163) - [AT&T says hacker stole data on 'nearly all' of its wireless customers](https://www.washingtonpost.com/business/2024/07/12/att-wireless-hacker-data-breach/)
 * [2024-07-12, 16:26:05](https://news.ycombinator.com/item?id=40947024) - [Stack Overflow has stopped publishing data dumps to the Internet Archive](https://meta.stackexchange.com/questions/401324/announcing-a-change-to-the-data-dump-process)
+* [2024-07-12, 16:19:58](https://news.ycombinator.com/item?id=40946978) - [Exploring the Broadcast Channel API for cross-tab communication](https://developer.mozilla.org/en-US/blog/exploring-the-broadcast-channel-api-for-cross-tab-communication/)
 * [2024-07-12, 15:46:52](https://news.ycombinator.com/item?id=40946644) - [Intel is selling defective 13-14th Gen CPUs](https://alderongames.com/intel-crashes)
 * [2024-07-12, 15:16:38](https://news.ycombinator.com/item?id=40946352) - [AI Integration Is Coming to Firefox](https://news.itsfoss.com/firefox-ai-integration/)
 * [2024-07-12, 15:06:16](https://news.ycombinator.com/item?id=40946264) - [Xkcd 2957: A Crossword Puzzle](https://xkcd.com/2957/)
