@@ -15,7 +15,7 @@
       "https://news.ycombinator.com/item?id=40942141"
     ],
     [
-      "Floppy8 – A Tiny Computer, in a Floppy Drive",
+      "Floppy8 – A Tiny Computer, in a Floppy Drive (2023)",
       "https://abe.today/blogs/main/floppy8-a-tiny-computer-in-a-floppy-drive"
     ]
   ],
@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2024-07-11, 23:16:51",
-      "https://news.ycombinator.com/item?id=40941463"
-    ],
-    [
-      "Why I'm Writing a Book on Cryptography (2020)",
-      "https://www.cryptologie.net/article/504/why-im-writing-a-book-on-cryptography/"
-    ]
-  ],
-  [
-    [
       "2024-07-11, 23:09:01",
       "https://news.ycombinator.com/item?id=40941412"
     ],
@@ -87,6 +77,16 @@
     [
       "Physics-Based Deep Learning Book",
       "https://physicsbaseddeeplearning.org/intro.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-11, 21:31:07",
+      "https://news.ycombinator.com/item?id=40940784"
+    ],
+    [
+      "Wlhc: Wayland Hot Corners",
+      "https://whynothugo.nl/journal/2024/07/11/introducing-wlhc-wayland-hot-corners/"
     ]
   ],
   [
@@ -201,16 +201,6 @@
   ],
   [
     [
-      "2024-07-11, 15:29:08",
-      "https://news.ycombinator.com/item?id=40937760"
-    ],
-    [
-      "Putting DuckDB in Postgres to Query Iceberg",
-      "https://blog.paradedb.com/pages/iceberg_lakehouse"
-    ]
-  ],
-  [
-    [
       "2024-07-11, 13:48:49",
       "https://news.ycombinator.com/item?id=40936808"
     ],
@@ -277,6 +267,16 @@
     [
       "Making Python Less Random",
       "https://healeycodes.com/making-python-less-random"
+    ]
+  ],
+  [
+    [
+      "2024-07-08, 16:29:25",
+      "https://news.ycombinator.com/item?id=40906809"
+    ],
+    [
+      "Cross-compile native GUI apps with uing",
+      "https://forum.nim-lang.org/t/11954"
     ]
   ],
   [
