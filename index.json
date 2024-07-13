@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-13, 12:01:00",
+      "https://news.ycombinator.com/item?id=40953559"
+    ],
+    [
+      "Substack (YC W18) is hiring machine learning engineers",
+      "https://grnh.se/d034f1ba5us"
+    ]
+  ],
+  [
+    [
+      "2024-07-13, 11:54:12",
+      "https://news.ycombinator.com/item?id=40953536"
+    ],
+    [
+      "HAMURABI.BAS and Its Dystopian Lessons",
+      "https://www.jeffquast.com/post/hamurabi_bas/"
+    ]
+  ],
+  [
+    [
       "2024-07-13, 10:55:52",
       "https://news.ycombinator.com/item?id=40953268"
     ],
@@ -31,16 +51,6 @@
   ],
   [
     [
-      "2024-07-13, 08:30:34",
-      "https://news.ycombinator.com/item?id=40952650"
-    ],
-    [
-      "For the Colonel, It Was Finger-Lickin’ Bad (2016)",
-      "https://kottke.org/16/08/for-the-colonel-it-was-fingerlickin-bad"
-    ]
-  ],
-  [
-    [
       "2024-07-13, 07:44:09",
       "https://news.ycombinator.com/item?id=40952509"
     ],
@@ -57,6 +67,16 @@
     [
       "WebContainers: Dev environments. In your web app",
       "https://webcontainers.io/"
+    ]
+  ],
+  [
+    [
+      "2024-07-13, 06:12:35",
+      "https://news.ycombinator.com/item?id=40952182"
+    ],
+    [
+      "gpu.cpp: A lightweight library for portable low-level GPU computation",
+      "https://github.com/AnswerDotAI/gpu.cpp"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2024-07-13, 01:59:23",
-      "https://news.ycombinator.com/item?id=40951166"
-    ],
-    [
-      "Authelia and Lldap: Authentication, SSO, User Management... for Home Networks",
-      "https://helgeklein.com/blog/authelia-lldap-authentication-sso-user-management-password-reset-for-home-networks/"
-    ]
-  ],
-  [
-    [
       "2024-07-13, 00:05:23",
       "https://news.ycombinator.com/item?id=40950584"
     ],
@@ -151,32 +161,22 @@
   ],
   [
     [
-      "2024-07-12, 22:43:41",
-      "https://news.ycombinator.com/item?id=40950130"
-    ],
-    [
-      "Lead Animation Engineer – Gym Class (YC W22) Is Hiring",
-      "https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-lead-animation-engineer"
-    ]
-  ],
-  [
-    [
-      "2024-07-12, 20:42:25",
-      "https://news.ycombinator.com/item?id=40949229"
-    ],
-    [
-      "Things I know about Git commits",
-      "https://www.jvt.me/posts/2024/07/12/things-know-commits/"
-    ]
-  ],
-  [
-    [
       "2024-07-12, 19:52:52",
       "https://news.ycombinator.com/item?id=40948806"
     ],
     [
       "Free-threaded CPython is ready to experiment with",
       "https://labs.quansight.org/blog/free-threaded-python-rollout"
+    ]
+  ],
+  [
+    [
+      "2024-07-12, 19:19:31",
+      "https://news.ycombinator.com/item?id=40948566"
+    ],
+    [
+      "Common Expression Language interpreter written in Rust",
+      "https://github.com/clarkmcc/cel-rust"
     ]
   ],
   [
@@ -217,6 +217,16 @@
     [
       "AT&T says criminals stole phone records of 'nearly all' customers in data breach",
       "https://techcrunch.com/2024/07/12/att-phone-records-stolen-data-breach/"
+    ]
+  ],
+  [
+    [
+      "2024-07-11, 20:17:58",
+      "https://news.ycombinator.com/item?id=40940241"
+    ],
+    [
+      "Beating the L1 cache with value speculation (2021)",
+      "https://mazzo.li/posts/value-speculation.html"
     ]
   ],
   [
@@ -277,16 +287,6 @@
     [
       "Selfie-based authentication raises eyebrows among infosec experts",
       "https://www.theregister.com/2024/07/08/selfie_authentication_security/"
-    ]
-  ],
-  [
-    [
-      "2024-07-08, 17:14:38",
-      "https://news.ycombinator.com/item?id=40907230"
-    ],
-    [
-      "What's the deal with the blue \"robins\" in gacha games?",
-      "https://jgeekstudies.org/2024/07/08/whats-the-deal-with-the-blue-robins-in-gacha-games/"
     ]
   ],
   [
