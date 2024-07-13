@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-13, 00:05:23",
+      "https://news.ycombinator.com/item?id=40950584"
+    ],
+    [
+      "Use a Work Journal to Recover Focus Faster and Clarify Your Thoughts",
+      "https://fev.al/posts/work-journal/"
+    ]
+  ],
+  [
+    [
       "2024-07-12, 23:45:48",
       "https://news.ycombinator.com/item?id=40950497"
     ],
@@ -11,12 +21,12 @@
   ],
   [
     [
-      "2024-07-12, 23:19:15",
-      "https://news.ycombinator.com/item?id=40950359"
+      "2024-07-12, 23:00:25",
+      "https://news.ycombinator.com/item?id=40950235"
     ],
     [
-      "Court Holds Federal Ban on Home-Distilling Exceeds Congress' Enumerated Powers [pdf]",
-      "https://storage.courtlistener.com/recap/gov.uscourts.txnd.384014/gov.uscourts.txnd.384014.49.0.pdf"
+      "Crafting Interpreters",
+      "https://craftinginterpreters.com/"
     ]
   ],
   [
@@ -81,32 +91,12 @@
   ],
   [
     [
-      "2024-07-12, 18:19:14",
-      "https://news.ycombinator.com/item?id=40948064"
-    ],
-    [
-      "CISA broke into a US federal agency, and no one noticed for a full 5 months",
-      "https://www.theregister.com/2024/07/12/cisa_broke_into_fed_agency/"
-    ]
-  ],
-  [
-    [
       "2024-07-12, 17:22:29",
       "https://news.ycombinator.com/item?id=40947540"
     ],
     [
       "Ex-Meta scientists debut gigantic AI protein design model",
       "https://www.nature.com/articles/d41586-024-02214-x"
-    ]
-  ],
-  [
-    [
-      "2024-07-12, 17:15:09",
-      "https://news.ycombinator.com/item?id=40947479"
-    ],
-    [
-      "52,000-year-old woolly mammoth chromosomes reconstructed from 'jerky-like' skin",
-      "https://www.abc.net.au/news/science/2024-07-12/woolly-mammoth-chromosomes-resconstructed-from-skin/104059130"
     ]
   ],
   [
@@ -267,6 +257,16 @@
     [
       "How Carbon Monoxide Poisoning Is Treated",
       "https://www.verywellhealth.com/carbon-monoxide-poisoning-treatment-4161055"
+    ]
+  ],
+  [
+    [
+      "2024-07-09, 14:07:09",
+      "https://news.ycombinator.com/item?id=40916326"
+    ],
+    [
+      "Show HN: 30ms latency screen sharing in Rust",
+      "https://github.com/bitwhip/bitwhip"
     ]
   ],
   [
