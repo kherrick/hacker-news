@@ -71,6 +71,7 @@
 * [2024-07-10, 10:26:14](https://news.ycombinator.com/item?id=40925474) - [Copying collectors with block-structured heaps are unreliable](https://wingolog.org/archives/2024/07/10/copying-collectors-with-block-structured-heaps-are-unreliable)
 * [2024-07-10, 10:25:44](https://news.ycombinator.com/item?id=40925471) - [Girls in Tech closes its doors after 17 years](https://venturebeat.com/games/girls-in-tech-closes-its-doors-after-17-years/)
 * [2024-07-10, 09:48:54](https://news.ycombinator.com/item?id=40925266) - [Plausible Community Edition](https://plausible.io/blog/community-edition)
+* [2024-07-10, 09:38:45](https://news.ycombinator.com/item?id=40925212) - [Intel's lunar lake laptops won't let you upgrade your RAM. Here's why thats fine](https://www.pcworld.com/article/2373541/intels-lunar-lake-laptops-wont-let-you-upgrade-your-ram-heres-why-thats-fine.html)
 * [2024-07-10, 09:08:13](https://news.ycombinator.com/item?id=40925052) - [Mastering Email Security: Deep Dive into SPF, DKIM, and DMARC](https://bastion.tech/blog/spf-dkim-dmarc-email-security-explained)
 * [2024-07-10, 09:02:16](https://news.ycombinator.com/item?id=40925025) - [SimSig: Railway Signalling Simulations](https://www.simsig.co.uk/)
 * [2024-07-10, 08:46:15](https://news.ycombinator.com/item?id=40924936) - [I miss the old IndieHackers website, so I started an alternative](https://www.skool.com/indie-makers-5425/about)
