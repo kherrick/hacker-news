@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-13, 06:58:14",
+      "https://news.ycombinator.com/item?id=40952339"
+    ],
+    [
+      "Someone is wrong on the internet (AGI Doom edition)",
+      "http://addxorrol.blogspot.com/2024/07/someone-is-wrong-on-internet-agi-doom.html"
+    ]
+  ],
+  [
+    [
       "2024-07-13, 06:56:11",
       "https://news.ycombinator.com/item?id=40952330"
     ],
@@ -11,12 +21,22 @@
   ],
   [
     [
-      "2024-07-13, 06:22:22",
-      "https://news.ycombinator.com/item?id=40952215"
+      "2024-07-13, 06:31:05",
+      "https://news.ycombinator.com/item?id=40952248"
     ],
     [
-      "AI system achieves 96% accuracy in determining sex from dental X-rays",
-      "https://www.psypost.org/ai-system-achieves-96-accuracy-in-determining-sex-from-dental-x-rays/"
+      "WebContainers: Dev environments. In your web app",
+      "https://webcontainers.io/"
+    ]
+  ],
+  [
+    [
+      "2024-07-13, 05:51:52",
+      "https://news.ycombinator.com/item?id=40952086"
+    ],
+    [
+      "Nokia 6600 vs. Samsung S24 Ultra",
+      "https://cirrus.twiddles.com/blog/2024/03/06/nokia-6600-vs-samsung-s24-ultra/"
     ]
   ],
   [
@@ -181,26 +201,6 @@
   ],
   [
     [
-      "2024-07-12, 17:08:19",
-      "https://news.ycombinator.com/item?id=40947415"
-    ],
-    [
-      "Show HN: Dropbase AI – A Prompt-Based Python Web App Builder",
-      "https://github.com/DropbaseHQ/dropbase"
-    ]
-  ],
-  [
-    [
-      "2024-07-12, 16:54:24",
-      "https://news.ycombinator.com/item?id=40947277"
-    ],
-    [
-      "lldap: Light LDAP Implementation",
-      "https://github.com/lldap/lldap"
-    ]
-  ],
-  [
-    [
       "2024-07-12, 14:41:22",
       "https://news.ycombinator.com/item?id=40946033"
     ],
@@ -217,16 +217,6 @@
     [
       "AT&T says criminals stole phone records of 'nearly all' customers in data breach",
       "https://techcrunch.com/2024/07/12/att-phone-records-stolen-data-breach/"
-    ]
-  ],
-  [
-    [
-      "2024-07-11, 20:17:58",
-      "https://news.ycombinator.com/item?id=40940241"
-    ],
-    [
-      "Beating the L1 cache with value speculation (2021)",
-      "https://mazzo.li/posts/value-speculation.html"
     ]
   ],
   [
@@ -297,6 +287,16 @@
     [
       "So you want to rent an NVIDIA H100 cluster? 2024 Consumer Guide",
       "https://www.photoroom.com/inside-photoroom/so-you-want-to-rent-an-nvidia-h100-cluster-2024-consumer-guide?slug=inside-photoroom/so-you-want-to-rent-an-nvidia-h100-cluster-2024-consumer-guide&_storyblok_published=511470179&"
+    ]
+  ],
+  [
+    [
+      "2024-07-08, 17:14:38",
+      "https://news.ycombinator.com/item?id=40907230"
+    ],
+    [
+      "What's the deal with the blue \"robins\" in gacha games?",
+      "https://jgeekstudies.org/2024/07/08/whats-the-deal-with-the-blue-robins-in-gacha-games/"
     ]
   ]
 ]
