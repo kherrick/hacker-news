@@ -23,6 +23,7 @@
 * [2024-07-10, 19:52:07](https://news.ycombinator.com/item?id=40930809) - [The great silence: Just 4 in 10k galaxies may host intelligent aliens](https://www.space.com/plate-tectonics-intelligent-alien-life-rare)
 * [2024-07-10, 19:40:06](https://news.ycombinator.com/item?id=40930675) - [Low salary likely to cause exodus of European tech talent](https://www.tradearabia.com/news/REAL_423987.html)
 * [2024-07-10, 19:29:32](https://news.ycombinator.com/item?id=40930549) - [Big Ball of Mud](http://laputan.org/mud/)
+* [2024-07-10, 19:28:17](https://news.ycombinator.com/item?id=40930530) - [Vivian Maier, One of the Best Street Photographers of the 20th Century](https://www.smithsonianmag.com/history/meet-vivian-maier-reclusive-nanny-street-photographer-20th-century-180984665/)
 * [2024-07-10, 19:27:16](https://news.ycombinator.com/item?id=40930514) - [You never control the arc of your career](https://samestuffdifferentday.net/2024/07/10/career-arc/)
 * [2024-07-10, 19:11:20](https://news.ycombinator.com/item?id=40930319) - [Large Horse](http://large.horse/)
 * [2024-07-10, 18:53:19](https://news.ycombinator.com/item?id=40930139) - [Google testing facial recognition technology for security near Seattle](https://www.cnbc.com/2024/06/26/google-testing-facial-recognition-technology-for-security-near-seattle.html)
