@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-13, 09:52:57](https://news.ycombinator.com/item?id=40952952) - [Ask HN: How do you read and follow the discussions on big threads?](https://news.ycombinator.com/item?id=40952952)
+* [2024-07-13, 09:24:19](https://news.ycombinator.com/item?id=40952835) - [My curated list of indie blogs](https://www.andreagrandi.it/posts/my-curated-list-of-indie-blogs/)
 * [2024-07-13, 08:30:34](https://news.ycombinator.com/item?id=40952650) - [For the Colonel, It Was Finger-Lickin’ Bad (1976)](https://kottke.org/16/08/for-the-colonel-it-was-fingerlickin-bad)
 * [2024-07-13, 07:44:09](https://news.ycombinator.com/item?id=40952509) - [Show HN: I made a drag and drop CSS grid generator](https://cssgridgenerator.io/)
 * [2024-07-13, 06:58:14](https://news.ycombinator.com/item?id=40952339) - [Someone is wrong on the internet (AGI Doom edition)](http://addxorrol.blogspot.com/2024/07/someone-is-wrong-on-internet-agi-doom.html)
@@ -27,7 +28,6 @@
 * [2024-07-09, 15:44:35](https://news.ycombinator.com/item?id=40917439) - [Packing Equal Copies](https://erich-friedman.github.io/packing/)
 * [2024-07-09, 14:07:09](https://news.ycombinator.com/item?id=40916326) - [Show HN: 30ms latency screen sharing in Rust](https://github.com/bitwhip/bitwhip)
 * [2024-07-09, 13:22:32](https://news.ycombinator.com/item?id=40915821) - [Selfie-based authentication raises eyebrows among infosec experts](https://www.theregister.com/2024/07/08/selfie_authentication_security/)
-* [2024-07-09, 11:02:22](https://news.ycombinator.com/item?id=40914635) - [So you want to rent an NVIDIA H100 cluster? 2024 Consumer Guide](https://www.photoroom.com/inside-photoroom/so-you-want-to-rent-an-nvidia-h100-cluster-2024-consumer-guide?slug=inside-photoroom/so-you-want-to-rent-an-nvidia-h100-cluster-2024-consumer-guide&_storyblok_published=511470179&)
 * [2024-07-08, 17:14:38](https://news.ycombinator.com/item?id=40907230) - [What's the deal with the blue \"robins\" in gacha games?](https://jgeekstudies.org/2024/07/08/whats-the-deal-with-the-blue-robins-in-gacha-games/)
 * [2024-07-08, 16:08:25](https://news.ycombinator.com/item?id=40906612) - [Found: Records of Pompeii's Survivors](https://www.atlasobscura.com/articles/records-of-pompeii-survivors)
 
