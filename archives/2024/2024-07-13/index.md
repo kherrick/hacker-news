@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-13](index.md)
 
+* [2024-07-13, 18:23:21](https://news.ycombinator.com/item?id=40955823) - [Increasing Google and Alphabet VRP rewards up to $151,515](https://bughunters.google.com/blog/5400513950908416/increasing-google-alphabet-vrp-rewards-up-to-151-515)
+* [2024-07-13, 18:05:34](https://news.ycombinator.com/item?id=40955693) - [Disney's Internal Slack Breached? NullBulge Leaks 1.1 TiB of Data](https://hackread.com/disneys-internal-slack-breached-nullbulge-leak-data/)
+* [2024-07-13, 17:54:32](https://news.ycombinator.com/item?id=40955609) - [Overclocked mini PC powered by AMD may well be the fastest in its category](https://www.techradar.com/pro/overclocked-mini-pc-powered-by-amd-may-well-be-the-fastest-in-its-category-metaphyuni-genesis-cube-supports-up-to-80w-tdp-has-two-lan-ports-can-drive-four-4k-displays-and-has-an-oculink-connector)
 * [2024-07-13, 17:29:19](https://news.ycombinator.com/item?id=40955437) - [Ask HN: User communities that aren't Discord?](https://news.ycombinator.com/item?id=40955437)
 * [2024-07-13, 17:14:26](https://news.ycombinator.com/item?id=40955339) - [Mathematical Sculptures Made from Office Supplies](http://zacharyabel.com/sculpture/)
 * [2024-07-13, 17:00:02](https://news.ycombinator.com/item?id=40955226) - [Nango (YC W23) is hiring remotely for their open-source unified API](https://www.nango.dev/jobs)
