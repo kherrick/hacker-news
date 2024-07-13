@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-07-13, 05:23:28",
-      "https://news.ycombinator.com/item?id=40951979"
-    ],
-    [
-      "'[Swift] failed in my opinion' – Chris Lattner [video]",
-      "https://www.youtube.com/watch?v=ovYbgbrQ-v8"
-    ]
-  ],
-  [
-    [
       "2024-07-13, 04:58:33",
       "https://news.ycombinator.com/item?id=40951877"
     ],
@@ -207,6 +197,16 @@
     [
       "Tau: Open-source PaaS – A self-hosted Vercel / Netlify / Cloudflare alternative",
       "https://github.com/taubyte/tau"
+    ]
+  ],
+  [
+    [
+      "2024-07-12, 14:22:25",
+      "https://news.ycombinator.com/item?id=40945846"
+    ],
+    [
+      "WildGaussians: 3D Gaussian Splatting in the Wild",
+      "https://arxiv.org/abs/2407.08447"
     ]
   ],
   [
