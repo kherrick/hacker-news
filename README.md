@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-13, 15:01:23](https://news.ycombinator.com/item?id=40954500) - [Intel's woes with Core i9 CPUs crashing look worse than we thought](https://www.techradar.com/computing/cpu/intels-woes-with-core-i9-cpus-crashing-look-worse-than-we-thought-team-blue-really-needs-to-act-now-to-fix-this-mess)
 * [2024-07-13, 13:47:43](https://news.ycombinator.com/item?id=40954104) - [Disruptor-rs: better latency and throughput than crossbeam](https://github.com/nicholassm/disruptor-rs)
 * [2024-07-13, 12:01:37](https://news.ycombinator.com/item?id=40953563) - [STEMFIE, a 3D-printable construction set toy](https://www.stemfie.org/)
 * [2024-07-13, 12:01:00](https://news.ycombinator.com/item?id=40953559) - [Substack (YC W18) is hiring machine learning engineers](https://grnh.se/d034f1ba5us)
@@ -22,7 +23,6 @@
 * [2024-07-12, 16:54:24](https://news.ycombinator.com/item?id=40947277) - [lldap: Light LDAP Implementation](https://github.com/lldap/lldap)
 * [2024-07-12, 16:42:37](https://news.ycombinator.com/item?id=40947170) - [Summing ASCII encoded integers on Haswell at almost the speed of memcpy](http://blog.mattstuchlik.com/2024/07/12/summing-integers-fast.html)
 * [2024-07-12, 14:41:22](https://news.ycombinator.com/item?id=40946033) - [Tau: Open-source PaaS – A self-hosted Vercel / Netlify / Cloudflare alternative](https://github.com/taubyte/tau)
-* [2024-07-12, 14:22:25](https://news.ycombinator.com/item?id=40945846) - [WildGaussians: 3D Gaussian Splatting in the Wild](https://arxiv.org/abs/2407.08447)
 * [2024-07-12, 11:17:54](https://news.ycombinator.com/item?id=40944505) - [AT&T says criminals stole phone records of 'nearly all' customers in data breach](https://techcrunch.com/2024/07/12/att-phone-records-stolen-data-breach/)
 * [2024-07-11, 20:17:58](https://news.ycombinator.com/item?id=40940241) - [Beating the L1 cache with value speculation (2021)](https://mazzo.li/posts/value-speculation.html)
 * [2024-07-10, 11:30:37](https://news.ycombinator.com/item?id=40925767) - [3D Gaussian Ray Tracing: Fast Tracing of Particle Scenes](https://gaussiantracer.github.io/)

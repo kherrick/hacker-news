@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-13](index.md)
 
+* [2024-07-13, 15:01:23](https://news.ycombinator.com/item?id=40954500) - [Intel's woes with Core i9 CPUs crashing look worse than we thought](https://www.techradar.com/computing/cpu/intels-woes-with-core-i9-cpus-crashing-look-worse-than-we-thought-team-blue-really-needs-to-act-now-to-fix-this-mess)
 * [2024-07-13, 13:52:56](https://news.ycombinator.com/item?id=40954116) - ['The new normal': work from home is here to stay, US data shows](https://www.theguardian.com/money/article/2024/jul/12/working-from-home-data)
 * [2024-07-13, 13:47:43](https://news.ycombinator.com/item?id=40954104) - [Disruptor-rs: better latency and throughput than crossbeam](https://github.com/nicholassm/disruptor-rs)
 * [2024-07-13, 12:21:11](https://news.ycombinator.com/item?id=40953656) - [Canada Allocates $146.6M for New Censorship Commission](https://reclaimthenet.org/canada-allocates-146-6m-for-new-censorship-commission-to-enforce-online-harms-act)
