@@ -1,11 +1,11 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-13, 10:55:52](https://news.ycombinator.com/item?id=40953268) - [The Birth of Standard Error (2013)](https://www2.dmst.aueb.gr/dds/blog/20131211/index.html)
 * [2024-07-13, 09:52:57](https://news.ycombinator.com/item?id=40952952) - [Ask HN: How do you read and follow the discussions on big threads?](https://news.ycombinator.com/item?id=40952952)
 * [2024-07-13, 09:24:19](https://news.ycombinator.com/item?id=40952835) - [My curated list of indie blogs](https://www.andreagrandi.it/posts/my-curated-list-of-indie-blogs/)
 * [2024-07-13, 08:30:34](https://news.ycombinator.com/item?id=40952650) - [For the Colonel, It Was Finger-Lickin’ Bad (1976)](https://kottke.org/16/08/for-the-colonel-it-was-fingerlickin-bad)
 * [2024-07-13, 07:44:09](https://news.ycombinator.com/item?id=40952509) - [Show HN: I made a drag and drop CSS grid generator](https://cssgridgenerator.io/)
 * [2024-07-13, 06:31:05](https://news.ycombinator.com/item?id=40952248) - [WebContainers: Dev environments. In your web app](https://webcontainers.io/)
-* [2024-07-13, 05:51:52](https://news.ycombinator.com/item?id=40952086) - [Nokia 6600 vs. Samsung S24 Ultra](https://cirrus.twiddles.com/blog/2024/03/06/nokia-6600-vs-samsung-s24-ultra/)
 * [2024-07-13, 05:35:30](https://news.ycombinator.com/item?id=40952022) - [CO poultry workers test positive for bird flu after outbreak at egg facility](https://www.denver7.com/news/state-news/3-colorado-poultry-workers-identified-as-potential-bird-flu-cases-after-outbreak-at-commercial-egg-facility)
 * [2024-07-13, 04:58:33](https://news.ycombinator.com/item?id=40951877) - [Wireless Amiga Tank Mouse](https://lyonsden.net/wireless-tank-mouse/)
 * [2024-07-13, 04:37:02](https://news.ycombinator.com/item?id=40951800) - [Introduction to Calvin and Hobbes: Sunday Pages 1985-1995 (2001)](http://timhulsizer.com/cwords/cintro.html)

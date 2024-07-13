@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-13](index.md)
 
+* [2024-07-13, 10:55:52](https://news.ycombinator.com/item?id=40953268) - [The Birth of Standard Error (2013)](https://www2.dmst.aueb.gr/dds/blog/20131211/index.html)
 * [2024-07-13, 09:52:57](https://news.ycombinator.com/item?id=40952952) - [Ask HN: How do you read and follow the discussions on big threads?](https://news.ycombinator.com/item?id=40952952)
 * [2024-07-13, 09:24:19](https://news.ycombinator.com/item?id=40952835) - [My curated list of indie blogs](https://www.andreagrandi.it/posts/my-curated-list-of-indie-blogs/)
 * [2024-07-13, 08:30:34](https://news.ycombinator.com/item?id=40952650) - [For the Colonel, It Was Finger-Lickin' Bad](https://kottke.org/16/08/for-the-colonel-it-was-fingerlickin-bad)
