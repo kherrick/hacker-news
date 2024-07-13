@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-13, 13:47:43",
+      "https://news.ycombinator.com/item?id=40954104"
+    ],
+    [
+      "Disruptor-rs: better latency and throughput than crossbeam",
+      "https://github.com/nicholassm/disruptor-rs"
+    ]
+  ],
+  [
+    [
       "2024-07-13, 12:01:37",
       "https://news.ycombinator.com/item?id=40953563"
     ],
@@ -127,16 +137,6 @@
     [
       "Optimizing the Lichess Tablebase Server",
       "https://lichess.org/@/revoof/blog/optimizing-the-tablebase-server/MetV0ZQd"
-    ]
-  ],
-  [
-    [
-      "2024-07-12, 20:17:40",
-      "https://news.ycombinator.com/item?id=40949021"
-    ],
-    [
-      "Responsive bar charts in HTML and CSS",
-      "https://9elements.com/blog/responsive-bar-charts-in-html-and-css/"
     ]
   ],
   [
