@@ -1,7 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-13, 06:58:14](https://news.ycombinator.com/item?id=40952339) - [Someone is wrong on the internet (AGI Doom edition)](http://addxorrol.blogspot.com/2024/07/someone-is-wrong-on-internet-agi-doom.html)
 * [2024-07-13, 06:56:11](https://news.ycombinator.com/item?id=40952330) - [Ad-tech setting 'Privacy-Preserving Attribution' is opt-out in Firefox 128](https://gladtech.social/@cuchaz/112775302929069283)
-* [2024-07-13, 06:22:22](https://news.ycombinator.com/item?id=40952215) - [AI system achieves 96% accuracy in determining sex from dental X-rays](https://www.psypost.org/ai-system-achieves-96-accuracy-in-determining-sex-from-dental-x-rays/)
+* [2024-07-13, 06:31:05](https://news.ycombinator.com/item?id=40952248) - [WebContainers: Dev environments. In your web app](https://webcontainers.io/)
+* [2024-07-13, 05:51:52](https://news.ycombinator.com/item?id=40952086) - [Nokia 6600 vs. Samsung S24 Ultra](https://cirrus.twiddles.com/blog/2024/03/06/nokia-6600-vs-samsung-s24-ultra/)
 * [2024-07-13, 05:35:30](https://news.ycombinator.com/item?id=40952022) - [CO poultry workers test positive for bird flu after outbreak at egg facility](https://www.denver7.com/news/state-news/3-colorado-poultry-workers-identified-as-potential-bird-flu-cases-after-outbreak-at-commercial-egg-facility)
 * [2024-07-13, 04:58:33](https://news.ycombinator.com/item?id=40951877) - [Wireless Amiga Tank Mouse](https://lyonsden.net/wireless-tank-mouse/)
 * [2024-07-13, 04:37:02](https://news.ycombinator.com/item?id=40951800) - [From the book, \"Calvin and Hobbes – Sunday Pages 1985 – 1995\"](http://timhulsizer.com/cwords/cintro.html)
@@ -18,11 +20,8 @@
 * [2024-07-12, 19:19:31](https://news.ycombinator.com/item?id=40948566) - [Common Expression Language interpreter written in Rust](https://github.com/clarkmcc/cel-rust)
 * [2024-07-12, 18:54:17](https://news.ycombinator.com/item?id=40948353) - [Beating the Compiler](https://www.mattkeeter.com/blog/2024-07-12-interpreter/)
 * [2024-07-12, 18:35:08](https://news.ycombinator.com/item?id=40948202) - [What could explain the gallium anomaly?](https://www.quantamagazine.org/what-could-explain-the-gallium-anomaly-20240712/)
-* [2024-07-12, 17:08:19](https://news.ycombinator.com/item?id=40947415) - [Show HN: Dropbase AI – A Prompt-Based Python Web App Builder](https://github.com/DropbaseHQ/dropbase)
-* [2024-07-12, 16:54:24](https://news.ycombinator.com/item?id=40947277) - [lldap: Light LDAP Implementation](https://github.com/lldap/lldap)
 * [2024-07-12, 14:41:22](https://news.ycombinator.com/item?id=40946033) - [Tau: Open-source PaaS – A self-hosted Vercel / Netlify / Cloudflare alternative](https://github.com/taubyte/tau)
 * [2024-07-12, 11:17:54](https://news.ycombinator.com/item?id=40944505) - [AT&T says criminals stole phone records of 'nearly all' customers in data breach](https://techcrunch.com/2024/07/12/att-phone-records-stolen-data-breach/)
-* [2024-07-11, 20:17:58](https://news.ycombinator.com/item?id=40940241) - [Beating the L1 cache with value speculation (2021)](https://mazzo.li/posts/value-speculation.html)
 * [2024-07-10, 02:05:05](https://news.ycombinator.com/item?id=40923096) - [Crocotile3D low poly modelling tool](https://crocotile3d.com/)
 * [2024-07-09, 19:04:32](https://news.ycombinator.com/item?id=40919644) - [New Blast-RADIUS attack breaks 30-year-old protocol used in networks everywhere](https://arstechnica.com/security/2024/07/new-blast-radius-attack-breaks-30-year-old-protocol-used-in-networks-everywhere/)
 * [2024-07-09, 18:15:31](https://news.ycombinator.com/item?id=40919160) - [Show HN: Create Music with R](https://github.com/flujoo/gm)
@@ -30,6 +29,7 @@
 * [2024-07-09, 14:07:09](https://news.ycombinator.com/item?id=40916326) - [Show HN: 30ms latency screen sharing in Rust](https://github.com/bitwhip/bitwhip)
 * [2024-07-09, 13:22:32](https://news.ycombinator.com/item?id=40915821) - [Selfie-based authentication raises eyebrows among infosec experts](https://www.theregister.com/2024/07/08/selfie_authentication_security/)
 * [2024-07-09, 11:02:22](https://news.ycombinator.com/item?id=40914635) - [So you want to rent an NVIDIA H100 cluster? 2024 Consumer Guide](https://www.photoroom.com/inside-photoroom/so-you-want-to-rent-an-nvidia-h100-cluster-2024-consumer-guide?slug=inside-photoroom/so-you-want-to-rent-an-nvidia-h100-cluster-2024-consumer-guide&_storyblok_published=511470179&)
+* [2024-07-08, 17:14:38](https://news.ycombinator.com/item?id=40907230) - [What's the deal with the blue \"robins\" in gacha games?](https://jgeekstudies.org/2024/07/08/whats-the-deal-with-the-blue-robins-in-gacha-games/)
 
 ## [Archives](archives/index.md)
 
