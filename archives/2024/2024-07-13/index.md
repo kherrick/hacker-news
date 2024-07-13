@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-13](index.md)
 
+* [2024-07-13, 21:26:30](https://news.ycombinator.com/item?id=40957026) - [The NSA Is Defeated by a 1950s Tape Recorder. Can You Help Them?](https://hackaday.com/2024/07/13/the-nsa-is-defeated-by-a-1950s-tape-recorder-can-you-help-them/)
 * [2024-07-13, 20:33:43](https://news.ycombinator.com/item?id=40956663) - [Change Healthcare starts sending data breach notifications after cyberattack](https://www.healthcaredive.com/news/change-healthcare-cyberattack-data-breach-notifications-start/719514/)
 * [2024-07-13, 20:22:32](https://news.ycombinator.com/item?id=40956593) - [A Philosophy Professor's Final Class](https://www.newyorker.com/culture/annals-of-inquiry/a-philosophy-professors-final-class)
 * [2024-07-13, 19:46:45](https://news.ycombinator.com/item?id=40956372) - [OpenAI Researcher Says He Quit When He Realized the Upsetting Truth](https://futurism.com/openai-researcher-quit-realized-upsetting-truth)

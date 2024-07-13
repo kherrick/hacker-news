@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-13, 21:26:30](https://news.ycombinator.com/item?id=40957026) - [The NSA Is Defeated by a 1950s Tape Recorder. Can You Help Them?](https://hackaday.com/2024/07/13/the-nsa-is-defeated-by-a-1950s-tape-recorder-can-you-help-them/)
 * [2024-07-13, 20:22:32](https://news.ycombinator.com/item?id=40956593) - [A Philosophy Professor's Final Class (2023)](https://www.newyorker.com/culture/annals-of-inquiry/a-philosophy-professors-final-class)
 * [2024-07-13, 19:22:36](https://news.ycombinator.com/item?id=40956215) - [Firing Myself](https://backintyme.substack.com/p/firing-myself)
 * [2024-07-13, 19:00:56](https://news.ycombinator.com/item?id=40956087) - [Show HN: Resurrecting a dead Dune RTS game](https://wheybags.com/blog/emperor.html)
@@ -26,7 +27,6 @@
 * [2024-07-11, 14:42:03](https://news.ycombinator.com/item?id=40937325) - [Where is the most densely populated square kilometre in the UK? (2023)](http://www.statsmapsnpix.com/2023/02/where-is-most-densely-populated-square.html)
 * [2024-07-10, 11:30:37](https://news.ycombinator.com/item?id=40925767) - [3D Gaussian Ray Tracing: Fast Tracing of Particle Scenes](https://gaussiantracer.github.io/)
 * [2024-07-10, 02:05:05](https://news.ycombinator.com/item?id=40923096) - [Crocotile3D low poly modelling tool](https://crocotile3d.com/)
-* [2024-07-09, 14:45:46](https://news.ycombinator.com/item?id=40916748) - [Show HN: I made a simple Markdown blog creator](https://portfolo.app)
 * [2024-07-09, 14:07:09](https://news.ycombinator.com/item?id=40916326) - [Show HN: 30ms latency screen sharing in Rust](https://github.com/bitwhip/bitwhip)
 * [2024-07-08, 22:10:56](https://news.ycombinator.com/item?id=40910304) - [Roblox Open Sources Real-Time Voice Safety Model](https://research.roblox.com/)
 * [2024-07-08, 16:05:11](https://news.ycombinator.com/item?id=40906583) - [Universal Code Execution by Chaining Messages in Browser Extensions](https://spaceraccoon.dev/universal-code-execution-browser-extensions/)
