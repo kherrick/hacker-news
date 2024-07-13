@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-13, 09:52:57](https://news.ycombinator.com/item?id=40952952) - [Ask HN: How do you read and follow the discussions on big threads?](https://news.ycombinator.com/item?id=40952952)
-* [2024-07-13, 09:24:19](https://news.ycombinator.com/item?id=40952835) - [My curated list of indie blogs](https://www.andreagrandi.it/posts/my-curated-list-of-indie-blogs/)
 * [2024-07-13, 08:30:34](https://news.ycombinator.com/item?id=40952650) - [For the Colonel, It Was Finger-Lickin’ Bad (1976)](https://kottke.org/16/08/for-the-colonel-it-was-fingerlickin-bad)
 * [2024-07-13, 07:44:09](https://news.ycombinator.com/item?id=40952509) - [Show HN: I made a drag and drop CSS grid generator](https://cssgridgenerator.io/)
 * [2024-07-13, 06:31:05](https://news.ycombinator.com/item?id=40952248) - [WebContainers: Dev environments. In your web app](https://webcontainers.io/)
@@ -25,6 +24,7 @@
 * [2024-07-12, 11:17:54](https://news.ycombinator.com/item?id=40944505) - [AT&T says criminals stole phone records of 'nearly all' customers in data breach](https://techcrunch.com/2024/07/12/att-phone-records-stolen-data-breach/)
 * [2024-07-10, 11:30:37](https://news.ycombinator.com/item?id=40925767) - [3D Gaussian Ray Tracing: Fast Tracing of Particle Scenes](https://gaussiantracer.github.io/)
 * [2024-07-10, 02:05:05](https://news.ycombinator.com/item?id=40923096) - [Crocotile3D low poly modelling tool](https://crocotile3d.com/)
+* [2024-07-09, 18:15:31](https://news.ycombinator.com/item?id=40919160) - [Show HN: Create Music with R](https://github.com/flujoo/gm)
 * [2024-07-09, 15:44:35](https://news.ycombinator.com/item?id=40917439) - [Packing Equal Copies](https://erich-friedman.github.io/packing/)
 * [2024-07-09, 14:07:09](https://news.ycombinator.com/item?id=40916326) - [Show HN: 30ms latency screen sharing in Rust](https://github.com/bitwhip/bitwhip)
 * [2024-07-09, 13:22:32](https://news.ycombinator.com/item?id=40915821) - [Selfie-based authentication raises eyebrows among infosec experts](https://www.theregister.com/2024/07/08/selfie_authentication_security/)
