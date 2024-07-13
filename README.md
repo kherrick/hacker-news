@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-13, 12:21:11](https://news.ycombinator.com/item?id=40953656) - [Canada Allocates $146.6M for New Censorship Commission](https://reclaimthenet.org/canada-allocates-146-6m-for-new-censorship-commission-to-enforce-online-harms-act)
 * [2024-07-13, 12:01:00](https://news.ycombinator.com/item?id=40953559) - [Substack (YC W18) is hiring machine learning engineers](https://grnh.se/d034f1ba5us)
 * [2024-07-13, 10:55:52](https://news.ycombinator.com/item?id=40953268) - [The Birth of Standard Error (2013)](https://www2.dmst.aueb.gr/dds/blog/20131211/index.html)
 * [2024-07-13, 09:52:57](https://news.ycombinator.com/item?id=40952952) - [Ask HN: How do you read and follow the discussions on big threads?](https://news.ycombinator.com/item?id=40952952)
@@ -10,7 +9,6 @@
 * [2024-07-13, 06:12:35](https://news.ycombinator.com/item?id=40952182) - [gpu.cpp: A lightweight library for portable low-level GPU computation](https://github.com/AnswerDotAI/gpu.cpp)
 * [2024-07-13, 04:58:33](https://news.ycombinator.com/item?id=40951877) - [Wireless Amiga Tank Mouse](https://lyonsden.net/wireless-tank-mouse/)
 * [2024-07-13, 04:37:02](https://news.ycombinator.com/item?id=40951800) - [Introduction to Calvin and Hobbes: Sunday Pages 1985-1995 (2001)](http://timhulsizer.com/cwords/cintro.html)
-* [2024-07-13, 03:24:32](https://news.ycombinator.com/item?id=40951524) - [Exploring the Limits of Transfer Learning with a Unified Transformer (2019)](https://arxiv.org/abs/1910.10683)
 * [2024-07-13, 00:05:23](https://news.ycombinator.com/item?id=40950584) - [Use a work journal](https://fev.al/posts/work-journal/)
 * [2024-07-12, 23:00:25](https://news.ycombinator.com/item?id=40950235) - [Crafting Interpreters](https://craftinginterpreters.com/)
 * [2024-07-12, 22:14:07](https://news.ycombinator.com/item?id=40949943) - [Optimizing the Lichess Tablebase Server](https://lichess.org/@/revoof/blog/optimizing-the-tablebase-server/MetV0ZQd)
@@ -30,6 +28,8 @@
 * [2024-07-10, 02:05:05](https://news.ycombinator.com/item?id=40923096) - [Crocotile3D low poly modelling tool](https://crocotile3d.com/)
 * [2024-07-09, 18:15:31](https://news.ycombinator.com/item?id=40919160) - [Show HN: Create Music with R](https://github.com/flujoo/gm)
 * [2024-07-09, 14:07:09](https://news.ycombinator.com/item?id=40916326) - [Show HN: 30ms latency screen sharing in Rust](https://github.com/bitwhip/bitwhip)
+* [2024-07-08, 18:18:35](https://news.ycombinator.com/item?id=40907826) - [Recursive Program Synthesis using Paramorphisms [pdf]](https://theory.stanford.edu/~aiken/publications/papers/pldi24.pdf)
+* [2024-07-08, 16:05:11](https://news.ycombinator.com/item?id=40906583) - [Universal Code Execution by Chaining Messages in Browser Extensions](https://spaceraccoon.dev/universal-code-execution-browser-extensions/)
 
 ## [Archives](archives/index.md)
 
