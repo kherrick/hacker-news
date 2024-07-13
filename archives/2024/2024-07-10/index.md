@@ -65,6 +65,7 @@
 * [2024-07-10, 11:55:52](https://news.ycombinator.com/item?id=40925913) - [As extreme heat bakes the West, emergency helicopters struggle to fly](https://www.msn.com/en-us/news/other/as-extreme-heat-bakes-the-west-emergency-helicopters-struggle-to-fly/ar-BB1pJi1V)
 * [2024-07-10, 11:54:35](https://news.ycombinator.com/item?id=40925906) - [Show HN: I made a Note-Taking app for people who keep texting themselves](https://strflow.app)
 * [2024-07-10, 11:53:30](https://news.ycombinator.com/item?id=40925896) - [Leetcode but for ML](https://www.deep-ml.com/)
+* [2024-07-10, 11:30:37](https://news.ycombinator.com/item?id=40925767) - [3D Gaussian Ray Tracing: Fast Tracing of Particle Scenes](https://gaussiantracer.github.io/)
 * [2024-07-10, 11:27:11](https://news.ycombinator.com/item?id=40925747) - [Ask HN: Has anyone been fired for ignoring in-office mandates?](https://news.ycombinator.com/item?id=40925747)
 * [2024-07-10, 10:26:14](https://news.ycombinator.com/item?id=40925474) - [Copying collectors with block-structured heaps are unreliable](https://wingolog.org/archives/2024/07/10/copying-collectors-with-block-structured-heaps-are-unreliable)
 * [2024-07-10, 10:25:44](https://news.ycombinator.com/item?id=40925471) - [Girls in Tech closes its doors after 17 years](https://venturebeat.com/games/girls-in-tech-closes-its-doors-after-17-years/)
