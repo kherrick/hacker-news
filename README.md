@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-13, 19:32:58](https://news.ycombinator.com/item?id=40956284) - [There's not that much wealth in the world](https://www.noahpinion.blog/p/theres-not-that-much-wealth-in-the)
+* [2024-07-13, 20:33:43](https://news.ycombinator.com/item?id=40956663) - [Change Healthcare starts sending data breach notifications after cyberattack](https://www.healthcaredive.com/news/change-healthcare-cyberattack-data-breach-notifications-start/719514/)
+* [2024-07-13, 20:22:32](https://news.ycombinator.com/item?id=40956593) - [A Philosophy Professor's Final Class](https://www.newyorker.com/culture/annals-of-inquiry/a-philosophy-professors-final-class)
 * [2024-07-13, 19:22:36](https://news.ycombinator.com/item?id=40956215) - [Firing Myself](https://backintyme.substack.com/p/firing-myself)
 * [2024-07-13, 18:41:24](https://news.ycombinator.com/item?id=40955946) - [Dear AWS, please let me be a cloud engineer again](https://lucvandonkersgoed.com/2024/07/13/dear-aws-please-let-me-be-a-cloud-engineer-again/)
 * [2024-07-13, 18:23:21](https://news.ycombinator.com/item?id=40955823) - [Increasing Google and Alphabet VRP rewards up to $151,515](https://bughunters.google.com/blog/5400513950908416/increasing-google-alphabet-vrp-rewards-up-to-151-515)
@@ -13,7 +14,6 @@
 * [2024-07-13, 13:47:43](https://news.ycombinator.com/item?id=40954104) - [Disruptor-rs: better latency and throughput than crossbeam](https://github.com/nicholassm/disruptor-rs)
 * [2024-07-13, 12:01:37](https://news.ycombinator.com/item?id=40953563) - [STEMFIE, a 3D-printable construction set toy](https://www.stemfie.org/)
 * [2024-07-13, 10:55:52](https://news.ycombinator.com/item?id=40953268) - [The Birth of Standard Error (2013)](https://www2.dmst.aueb.gr/dds/blog/20131211/index.html)
-* [2024-07-13, 07:44:09](https://news.ycombinator.com/item?id=40952509) - [Show HN: I made a drag and drop CSS grid generator](https://cssgridgenerator.io/)
 * [2024-07-13, 06:12:35](https://news.ycombinator.com/item?id=40952182) - [gpu.cpp: A lightweight library for portable low-level GPU computation](https://github.com/AnswerDotAI/gpu.cpp)
 * [2024-07-13, 04:58:33](https://news.ycombinator.com/item?id=40951877) - [Wireless Amiga Tank Mouse](https://lyonsden.net/wireless-tank-mouse/)
 * [2024-07-13, 04:37:02](https://news.ycombinator.com/item?id=40951800) - [Introduction to Calvin and Hobbes: Sunday Pages 1985-1995 (2001)](http://timhulsizer.com/cwords/cintro.html)

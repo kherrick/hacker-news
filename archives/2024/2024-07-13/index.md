@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-13](index.md)
 
+* [2024-07-13, 20:33:43](https://news.ycombinator.com/item?id=40956663) - [Change Healthcare starts sending data breach notifications after cyberattack](https://www.healthcaredive.com/news/change-healthcare-cyberattack-data-breach-notifications-start/719514/)
+* [2024-07-13, 20:22:32](https://news.ycombinator.com/item?id=40956593) - [A Philosophy Professor's Final Class](https://www.newyorker.com/culture/annals-of-inquiry/a-philosophy-professors-final-class)
 * [2024-07-13, 19:46:45](https://news.ycombinator.com/item?id=40956372) - [OpenAI Researcher Says He Quit When He Realized the Upsetting Truth](https://futurism.com/openai-researcher-quit-realized-upsetting-truth)
 * [2024-07-13, 19:32:58](https://news.ycombinator.com/item?id=40956284) - [There's not that much wealth in the world](https://www.noahpinion.blog/p/theres-not-that-much-wealth-in-the)
 * [2024-07-13, 19:22:36](https://news.ycombinator.com/item?id=40956215) - [Firing Myself](https://backintyme.substack.com/p/firing-myself)
