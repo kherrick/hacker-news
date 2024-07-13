@@ -12,7 +12,6 @@
 * [2024-07-12, 20:42:25](https://news.ycombinator.com/item?id=40949229) - [Things I know about Git commits](https://www.jvt.me/posts/2024/07/12/things-know-commits/)
 * [2024-07-12, 20:17:40](https://news.ycombinator.com/item?id=40949021) - [Responsive bar charts in HTML and CSS](https://9elements.com/blog/responsive-bar-charts-in-html-and-css/)
 * [2024-07-12, 19:52:52](https://news.ycombinator.com/item?id=40948806) - [Free-threaded CPython is ready to experiment with](https://labs.quansight.org/blog/free-threaded-python-rollout)
-* [2024-07-12, 19:29:21](https://news.ycombinator.com/item?id=40948636) - [Follow the Crypto](https://www.followthecrypto.org/)
 * [2024-07-12, 19:19:31](https://news.ycombinator.com/item?id=40948566) - [Common Expression Language interpreter written in Rust](https://github.com/clarkmcc/cel-rust)
 * [2024-07-12, 18:54:17](https://news.ycombinator.com/item?id=40948353) - [Beating the Compiler](https://www.mattkeeter.com/blog/2024-07-12-interpreter/)
 * [2024-07-12, 18:35:08](https://news.ycombinator.com/item?id=40948202) - [What could explain the gallium anomaly?](https://www.quantamagazine.org/what-could-explain-the-gallium-anomaly-20240712/)
@@ -20,7 +19,7 @@
 * [2024-07-12, 16:54:24](https://news.ycombinator.com/item?id=40947277) - [lldap: Light LDAP Implementation](https://github.com/lldap/lldap)
 * [2024-07-12, 14:41:22](https://news.ycombinator.com/item?id=40946033) - [Tau: Open-source PaaS – A self-hosted Vercel / Netlify / Cloudflare alternative](https://github.com/taubyte/tau)
 * [2024-07-12, 14:22:25](https://news.ycombinator.com/item?id=40945846) - [WildGaussians: 3D Gaussian Splatting in the Wild](https://arxiv.org/abs/2407.08447)
-* [2024-07-12, 13:45:33](https://news.ycombinator.com/item?id=40945532) - [Ask HN: How to grow a concert visuals business?](https://news.ycombinator.com/item?id=40945532)
+* [2024-07-12, 12:51:58](https://news.ycombinator.com/item?id=40945076) - [Windows NT for Power Macintosh](https://github.com/Wack0/maciNTosh)
 * [2024-07-12, 11:17:54](https://news.ycombinator.com/item?id=40944505) - [AT&T says criminals stole phone records of 'nearly all' customers in data breach](https://techcrunch.com/2024/07/12/att-phone-records-stolen-data-breach/)
 * [2024-07-11, 20:17:58](https://news.ycombinator.com/item?id=40940241) - [Beating the L1 cache with value speculation (2021)](https://mazzo.li/posts/value-speculation.html)
 * [2024-07-11, 01:33:51](https://news.ycombinator.com/item?id=40933048) - [How Carbon Monoxide Poisoning Is Treated](https://www.verywellhealth.com/carbon-monoxide-poisoning-treatment-4161055)
@@ -30,6 +29,7 @@
 * [2024-07-09, 14:07:09](https://news.ycombinator.com/item?id=40916326) - [Show HN: 30ms latency screen sharing in Rust](https://github.com/bitwhip/bitwhip)
 * [2024-07-09, 13:22:32](https://news.ycombinator.com/item?id=40915821) - [Selfie-based authentication raises eyebrows among infosec experts](https://www.theregister.com/2024/07/08/selfie_authentication_security/)
 * [2024-07-09, 11:02:22](https://news.ycombinator.com/item?id=40914635) - [So you want to rent an NVIDIA H100 cluster? 2024 Consumer Guide](https://www.photoroom.com/inside-photoroom/so-you-want-to-rent-an-nvidia-h100-cluster-2024-consumer-guide?slug=inside-photoroom/so-you-want-to-rent-an-nvidia-h100-cluster-2024-consumer-guide&_storyblok_published=511470179&)
+* [2024-07-08, 18:18:35](https://news.ycombinator.com/item?id=40907826) - [Recursive Program Synthesis using Paramorphisms [pdf]](https://theory.stanford.edu/~aiken/publications/papers/pldi24.pdf)
 
 ## [Archives](archives/index.md)
 
