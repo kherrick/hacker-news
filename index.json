@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-13, 17:29:19",
+      "https://news.ycombinator.com/item?id=40955437"
+    ],
+    [
+      "Ask HN: User communities that aren't Discord?",
+      "https://news.ycombinator.com/item?id=40955437"
+    ]
+  ],
+  [
+    [
       "2024-07-13, 17:00:02",
       "https://news.ycombinator.com/item?id=40955226"
     ],
@@ -197,16 +207,6 @@
     [
       "Free-threaded CPython is ready to experiment with",
       "https://labs.quansight.org/blog/free-threaded-python-rollout"
-    ]
-  ],
-  [
-    [
-      "2024-07-12, 19:19:31",
-      "https://news.ycombinator.com/item?id=40948566"
-    ],
-    [
-      "Common Expression Language interpreter written in Rust",
-      "https://github.com/clarkmcc/cel-rust"
     ]
   ],
   [
