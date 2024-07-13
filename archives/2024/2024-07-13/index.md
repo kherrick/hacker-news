@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-13](index.md)
 
+* [2024-07-13, 12:01:00](https://news.ycombinator.com/item?id=40953559) - [Substack (YC W18) is hiring machine learning engineers](https://grnh.se/d034f1ba5us)
+* [2024-07-13, 11:54:12](https://news.ycombinator.com/item?id=40953536) - [HAMURABI.BAS and Its Dystopian Lessons](https://www.jeffquast.com/post/hamurabi_bas/)
 * [2024-07-13, 10:55:52](https://news.ycombinator.com/item?id=40953268) - [The Birth of Standard Error (2013)](https://www2.dmst.aueb.gr/dds/blog/20131211/index.html)
 * [2024-07-13, 09:52:57](https://news.ycombinator.com/item?id=40952952) - [Ask HN: How do you read and follow the discussions on big threads?](https://news.ycombinator.com/item?id=40952952)
 * [2024-07-13, 09:24:19](https://news.ycombinator.com/item?id=40952835) - [My curated list of indie blogs](https://www.andreagrandi.it/posts/my-curated-list-of-indie-blogs/)
@@ -13,6 +15,7 @@
 * [2024-07-13, 06:56:11](https://news.ycombinator.com/item?id=40952330) - [Ad-tech setting 'Privacy-Preserving Attribution' is opt-out in Firefox 128](https://gladtech.social/@cuchaz/112775302929069283)
 * [2024-07-13, 06:31:05](https://news.ycombinator.com/item?id=40952248) - [WebContainers: Dev environments. In your web app](https://webcontainers.io/)
 * [2024-07-13, 06:22:22](https://news.ycombinator.com/item?id=40952215) - [AI system achieves 96% accuracy in determining sex from dental X-rays](https://www.psypost.org/ai-system-achieves-96-accuracy-in-determining-sex-from-dental-x-rays/)
+* [2024-07-13, 06:12:35](https://news.ycombinator.com/item?id=40952182) - [gpu.cpp: A lightweight library for portable low-level GPU computation](https://github.com/AnswerDotAI/gpu.cpp)
 * [2024-07-13, 05:51:52](https://news.ycombinator.com/item?id=40952086) - [Nokia 6600 vs. Samsung S24 Ultra](https://cirrus.twiddles.com/blog/2024/03/06/nokia-6600-vs-samsung-s24-ultra/)
 * [2024-07-13, 05:35:30](https://news.ycombinator.com/item?id=40952022) - [CO poultry workers test positive for bird flu after outbreak at egg facility](https://www.denver7.com/news/state-news/3-colorado-poultry-workers-identified-as-potential-bird-flu-cases-after-outbreak-at-commercial-egg-facility)
 * [2024-07-13, 05:23:28](https://news.ycombinator.com/item?id=40951979) - ['[Swift] failed in my opinion' – Chris Lattner [video]](https://www.youtube.com/watch?v=ovYbgbrQ-v8)
