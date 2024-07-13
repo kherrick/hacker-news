@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-13](index.md)
 
 * [2024-07-13, 06:56:11](https://news.ycombinator.com/item?id=40952330) - [Ad-tech setting 'Privacy-Preserving Attribution' is opt-out in Firefox 128](https://gladtech.social/@cuchaz/112775302929069283)
+* [2024-07-13, 06:22:22](https://news.ycombinator.com/item?id=40952215) - [AI system achieves 96% accuracy in determining sex from dental X-rays](https://www.psypost.org/ai-system-achieves-96-accuracy-in-determining-sex-from-dental-x-rays/)
 * [2024-07-13, 05:35:30](https://news.ycombinator.com/item?id=40952022) - [CO poultry workers test positive for bird flu after outbreak at egg facility](https://www.denver7.com/news/state-news/3-colorado-poultry-workers-identified-as-potential-bird-flu-cases-after-outbreak-at-commercial-egg-facility)
 * [2024-07-13, 05:23:28](https://news.ycombinator.com/item?id=40951979) - ['[Swift] failed in my opinion' – Chris Lattner [video]](https://www.youtube.com/watch?v=ovYbgbrQ-v8)
 * [2024-07-13, 04:58:33](https://news.ycombinator.com/item?id=40951877) - [Wireless Amiga Tank Mouse](https://lyonsden.net/wireless-tank-mouse/)
