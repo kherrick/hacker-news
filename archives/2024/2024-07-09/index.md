@@ -65,6 +65,7 @@
 * [2024-07-09, 15:00:13](https://news.ycombinator.com/item?id=40916904) - [Lots of People in Education Disagree with the Premise of Maximizing Learning](https://www.justinmath.com/maximizing-learning-vs-other-things/)
 * [2024-07-09, 14:51:25](https://news.ycombinator.com/item?id=40916820) - [CVE-2024-6409: OpenSSH: Possible remote code execution in privsep child](https://www.openwall.com/lists/oss-security/2024/07/08/2)
 * [2024-07-09, 14:48:59](https://news.ycombinator.com/item?id=40916786) - [turbopuffer: Fast Search on Object Storage](https://turbopuffer.com/blog/turbopuffer)
+* [2024-07-09, 14:45:46](https://news.ycombinator.com/item?id=40916748) - [Show HN: I made a simple Markdown blog creator](https://portfolo.app)
 * [2024-07-09, 14:44:10](https://news.ycombinator.com/item?id=40916733) - [Ransomware Gang Leaks Data Allegedly Stolen from Florida Department of Health](https://www.securityweek.com/ransomware-gang-leaks-data-allegedly-stolen-from-florida-department-of-health/)
 * [2024-07-09, 14:41:01](https://news.ycombinator.com/item?id=40916700) - [Wikipedia summoned by Delhi High Court over ANI defamation allegations](https://www.cnbctv18.com/india/wikipedia-summoned-by-delhi-high-court-over-ani-defamation-allegations-19440644.htm)
 * [2024-07-09, 14:39:33](https://news.ycombinator.com/item?id=40916677) - [Philips Hue bulbs are randomly turning brightness to 100%](https://appleinsider.com/articles/24/07/09/if-your-philips-hue-bulbs-are-randomly-cranking-up-to-100-on-their-own-youre-not-alone)
