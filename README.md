@@ -1,10 +1,10 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-12, 23:45:48](https://news.ycombinator.com/item?id=40950497) - [Solving the Worst Problem in Programming Education: Windows](https://learncodethehardway.com/blog/29-solving-the-worst-problem-in-programming-education-windows/)
 * [2024-07-12, 23:19:15](https://news.ycombinator.com/item?id=40950359) - [Court Holds Federal Ban on Home-Distilling Exceeds Congress' Enumerated Powers [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.txnd.384014/gov.uscourts.txnd.384014.49.0.pdf)
 * [2024-07-12, 22:43:41](https://news.ycombinator.com/item?id=40950130) - [Lead Animation Engineer – Gym Class (YC W22) Is Hiring](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-lead-animation-engineer)
 * [2024-07-12, 20:17:40](https://news.ycombinator.com/item?id=40949021) - [Responsive bar charts in HTML and CSS](https://9elements.com/blog/responsive-bar-charts-in-html-and-css/)
 * [2024-07-12, 19:52:52](https://news.ycombinator.com/item?id=40948806) - [Free-threaded CPython is ready to experiment with](https://labs.quansight.org/blog/free-threaded-python-rollout)
-* [2024-07-12, 19:38:05](https://news.ycombinator.com/item?id=40948692) - [Oystercatchers are waging war on NYC's beach drones](https://apnews.com/article/new-york-drones-shorebirds-beach-safety-c2cbfb6ca03f771082ff57a28701f915)
 * [2024-07-12, 19:19:31](https://news.ycombinator.com/item?id=40948566) - [Common Expression Language interpreter written in Rust](https://github.com/clarkmcc/cel-rust)
 * [2024-07-12, 18:54:17](https://news.ycombinator.com/item?id=40948353) - [Beating the Compiler](https://www.mattkeeter.com/blog/2024-07-12-interpreter/)
 * [2024-07-12, 18:35:08](https://news.ycombinator.com/item?id=40948202) - [What could explain the gallium anomaly?](https://www.quantamagazine.org/what-could-explain-the-gallium-anomaly-20240712/)
