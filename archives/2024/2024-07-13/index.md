@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-13](index.md)
 
 * [2024-07-13, 13:52:56](https://news.ycombinator.com/item?id=40954116) - ['The new normal': work from home is here to stay, US data shows](https://www.theguardian.com/money/article/2024/jul/12/working-from-home-data)
+* [2024-07-13, 13:47:43](https://news.ycombinator.com/item?id=40954104) - [Disruptor-rs: better latency and throughput than crossbeam](https://github.com/nicholassm/disruptor-rs)
 * [2024-07-13, 12:21:11](https://news.ycombinator.com/item?id=40953656) - [Canada Allocates $146.6M for New Censorship Commission](https://reclaimthenet.org/canada-allocates-146-6m-for-new-censorship-commission-to-enforce-online-harms-act)
 * [2024-07-13, 12:01:37](https://news.ycombinator.com/item?id=40953563) - [STEMFIE, a 3D-printable construction set toy](https://www.stemfie.org/)
 * [2024-07-13, 12:01:00](https://news.ycombinator.com/item?id=40953559) - [Substack (YC W18) is hiring machine learning engineers](https://grnh.se/d034f1ba5us)
