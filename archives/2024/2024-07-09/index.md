@@ -38,6 +38,7 @@
 * [2024-07-09, 18:28:49](https://news.ycombinator.com/item?id=40919288) - [The price of gold – how bad do you want it?](https://allaboutperformance.wordpress.com/2016/05/11/the-price-of-gold-how-bad-do-you-really-want-it/)
 * [2024-07-09, 18:26:51](https://news.ycombinator.com/item?id=40919273) - [Choose your own adventure style Incident Response](https://www.cmdzero.io)
 * [2024-07-09, 18:25:03](https://news.ycombinator.com/item?id=40919253) - [Judge dismisses DMCA copyright claim in GitHub Copilot suit](https://www.theregister.com/2024/07/08/github_copilot_dmca/)
+* [2024-07-09, 18:15:31](https://news.ycombinator.com/item?id=40919160) - [Show HN: Create Music with R](https://github.com/flujoo/gm)
 * [2024-07-09, 18:12:57](https://news.ycombinator.com/item?id=40919139) - [Spain sentences 15 schoolchildren over AI-generated naked images](https://www.theguardian.com/world/article/2024/jul/09/spain-sentences-15-school-children-over-ai-generated-naked-images)
 * [2024-07-09, 17:42:04](https://news.ycombinator.com/item?id=40918829) - [Don't use 7-segment displays [pdf]](https://harold.thimbleby.net/cv/files/seven-segment.pdf)
 * [2024-07-09, 17:39:07](https://news.ycombinator.com/item?id=40918794) - [Show HN: I built a WASM-console using WebAssembly and tinygo](https://github.com/rajatjindal/wasm-console)
