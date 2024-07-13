@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-13, 12:01:37](https://news.ycombinator.com/item?id=40953563) - [STEMFIE, a 3D-printable construction set toy](https://www.stemfie.org/)
 * [2024-07-13, 12:01:00](https://news.ycombinator.com/item?id=40953559) - [Substack (YC W18) is hiring machine learning engineers](https://grnh.se/d034f1ba5us)
 * [2024-07-13, 10:55:52](https://news.ycombinator.com/item?id=40953268) - [The Birth of Standard Error (2013)](https://www2.dmst.aueb.gr/dds/blog/20131211/index.html)
 * [2024-07-13, 08:30:34](https://news.ycombinator.com/item?id=40952650) - [For the Colonel, It Was Finger-Lickin’ Bad (2016)](https://kottke.org/16/08/for-the-colonel-it-was-fingerlickin-bad)
@@ -22,7 +23,6 @@
 * [2024-07-12, 16:42:37](https://news.ycombinator.com/item?id=40947170) - [Summing ASCII encoded integers on Haswell at almost the speed of memcpy](http://blog.mattstuchlik.com/2024/07/12/summing-integers-fast.html)
 * [2024-07-12, 14:41:22](https://news.ycombinator.com/item?id=40946033) - [Tau: Open-source PaaS – A self-hosted Vercel / Netlify / Cloudflare alternative](https://github.com/taubyte/tau)
 * [2024-07-12, 14:22:25](https://news.ycombinator.com/item?id=40945846) - [WildGaussians: 3D Gaussian Splatting in the Wild](https://arxiv.org/abs/2407.08447)
-* [2024-07-12, 14:04:21](https://news.ycombinator.com/item?id=40945671) - [Show HN: Smelt — an open source test runner for chip developers](https://silogy-io.github.io/smelt/)
 * [2024-07-12, 11:17:54](https://news.ycombinator.com/item?id=40944505) - [AT&T says criminals stole phone records of 'nearly all' customers in data breach](https://techcrunch.com/2024/07/12/att-phone-records-stolen-data-breach/)
 * [2024-07-11, 20:17:58](https://news.ycombinator.com/item?id=40940241) - [Beating the L1 cache with value speculation (2021)](https://mazzo.li/posts/value-speculation.html)
 * [2024-07-10, 11:30:37](https://news.ycombinator.com/item?id=40925767) - [3D Gaussian Ray Tracing: Fast Tracing of Particle Scenes](https://gaussiantracer.github.io/)
