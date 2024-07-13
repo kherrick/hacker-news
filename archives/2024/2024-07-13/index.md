@@ -4,12 +4,16 @@
 
 ### [Archives](../../index.md) for [2024-07-13](index.md)
 
+* [2024-07-13, 21:49:41](https://news.ycombinator.com/item?id=40957159) - [The $43M Veterans Affairs simulation hospital where doctors pilot new tech](https://www.cnbc.com/2024/07/13/inside-simvet-a-43-million-veterans-affairs-simulation-hospital.html)
 * [2024-07-13, 21:26:30](https://news.ycombinator.com/item?id=40957026) - [The NSA Is Defeated by a 1950s Tape Recorder. Can You Help Them?](https://hackaday.com/2024/07/13/the-nsa-is-defeated-by-a-1950s-tape-recorder-can-you-help-them/)
+* [2024-07-13, 21:19:30](https://news.ycombinator.com/item?id=40956979) - [Jelly Star – The Smallest Android 13 Smartphone](https://www.unihertz.com/en-de/products/jelly-star)
 * [2024-07-13, 20:33:43](https://news.ycombinator.com/item?id=40956663) - [Change Healthcare starts sending data breach notifications after cyberattack](https://www.healthcaredive.com/news/change-healthcare-cyberattack-data-breach-notifications-start/719514/)
 * [2024-07-13, 20:22:32](https://news.ycombinator.com/item?id=40956593) - [A Philosophy Professor's Final Class](https://www.newyorker.com/culture/annals-of-inquiry/a-philosophy-professors-final-class)
+* [2024-07-13, 20:14:10](https://news.ycombinator.com/item?id=40956546) - [Talos: Secure, immutable, and minimal Linux OS for running Kubernetes](https://www.talos.dev)
 * [2024-07-13, 19:46:45](https://news.ycombinator.com/item?id=40956372) - [OpenAI Researcher Says He Quit When He Realized the Upsetting Truth](https://futurism.com/openai-researcher-quit-realized-upsetting-truth)
 * [2024-07-13, 19:32:58](https://news.ycombinator.com/item?id=40956284) - [There's not that much wealth in the world](https://www.noahpinion.blog/p/theres-not-that-much-wealth-in-the)
 * [2024-07-13, 19:22:36](https://news.ycombinator.com/item?id=40956215) - [Firing Myself](https://backintyme.substack.com/p/firing-myself)
+* [2024-07-13, 19:18:42](https://news.ycombinator.com/item?id=40956192) - [A Motherfucking Website](https://motherfuckingwebsite.com/)
 * [2024-07-13, 19:00:56](https://news.ycombinator.com/item?id=40956087) - [Show HN: Resurrecting a dead Dune RTS game](https://wheybags.com/blog/emperor.html)
 * [2024-07-13, 18:41:24](https://news.ycombinator.com/item?id=40955946) - [Dear AWS, please let me be a cloud engineer again](https://lucvandonkersgoed.com/2024/07/13/dear-aws-please-let-me-be-a-cloud-engineer-again/)
 * [2024-07-13, 18:23:21](https://news.ycombinator.com/item?id=40955823) - [Increasing Google and Alphabet VRP rewards up to $151,515](https://bughunters.google.com/blog/5400513950908416/increasing-google-alphabet-vrp-rewards-up-to-151-515)
