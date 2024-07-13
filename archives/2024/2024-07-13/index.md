@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-13](index.md)
 
+* [2024-07-13, 23:19:38](https://news.ycombinator.com/item?id=40957628) - [Ditto: Build Your Community on Nostr](https://soapbox.pub/blog/announcing-ditto/)
 * [2024-07-13, 22:22:44](https://news.ycombinator.com/item?id=40957346) - [The Threads Creator Paradox](https://www.augment.ink/the-threads-creator-paradox/)
 * [2024-07-13, 21:49:41](https://news.ycombinator.com/item?id=40957159) - [The $43M Veterans Affairs simulation hospital where doctors pilot new tech](https://www.cnbc.com/2024/07/13/inside-simvet-a-43-million-veterans-affairs-simulation-hospital.html)
 * [2024-07-13, 21:26:30](https://news.ycombinator.com/item?id=40957026) - [The NSA Is Defeated by a 1950s Tape Recorder. Can You Help Them?](https://hackaday.com/2024/07/13/the-nsa-is-defeated-by-a-1950s-tape-recorder-can-you-help-them/)
