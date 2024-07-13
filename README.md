@@ -1,9 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-13, 19:46:45](https://news.ycombinator.com/item?id=40956372) - [OpenAI Researcher Says He Quit When He Realized the Upsetting Truth](https://futurism.com/openai-researcher-quit-realized-upsetting-truth)
+* [2024-07-13, 19:32:58](https://news.ycombinator.com/item?id=40956284) - [There's not that much wealth in the world](https://www.noahpinion.blog/p/theres-not-that-much-wealth-in-the)
 * [2024-07-13, 18:23:21](https://news.ycombinator.com/item?id=40955823) - [Increasing Google and Alphabet VRP rewards up to $151,515](https://bughunters.google.com/blog/5400513950908416/increasing-google-alphabet-vrp-rewards-up-to-151-515)
 * [2024-07-13, 18:05:34](https://news.ycombinator.com/item?id=40955693) - [Disney's Internal Slack Breached? NullBulge Leaks 1.1 TiB of Data](https://hackread.com/disneys-internal-slack-breached-nullbulge-leak-data/)
-* [2024-07-13, 17:17:44](https://news.ycombinator.com/item?id=40955356) - [Safer roundabouts are replacing traffic signals](https://www.urbanismspeakeasy.com/p/86-of-americans-now-work-from-home)
 * [2024-07-13, 17:14:26](https://news.ycombinator.com/item?id=40955339) - [Mathematical Sculptures Made from Office Supplies](http://zacharyabel.com/sculpture/)
 * [2024-07-13, 17:00:02](https://news.ycombinator.com/item?id=40955226) - [Nango (YC W23) is hiring remotely for their open-source unified API](https://www.nango.dev/jobs)
 * [2024-07-13, 16:14:27](https://news.ycombinator.com/item?id=40954879) - [Give people something to link to so they can talk about your features and ideas](https://simonwillison.net/2024/Jul/13/give-people-something-to-link-to/)
@@ -24,6 +23,7 @@
 * [2024-07-12, 22:14:07](https://news.ycombinator.com/item?id=40949943) - [Optimizing the Lichess Tablebase Server](https://lichess.org/@/revoof/blog/optimizing-the-tablebase-server/MetV0ZQd)
 * [2024-07-12, 19:52:52](https://news.ycombinator.com/item?id=40948806) - [Free-threaded CPython is ready to experiment with](https://labs.quansight.org/blog/free-threaded-python-rollout)
 * [2024-07-12, 16:42:37](https://news.ycombinator.com/item?id=40947170) - [Summing ASCII encoded integers on Haswell at almost the speed of memcpy](http://blog.mattstuchlik.com/2024/07/12/summing-integers-fast.html)
+* [2024-07-12, 11:17:54](https://news.ycombinator.com/item?id=40944505) - [AT&T says criminals stole phone records of 'nearly all' customers in data breach](https://techcrunch.com/2024/07/12/att-phone-records-stolen-data-breach/)
 * [2024-07-11, 14:42:03](https://news.ycombinator.com/item?id=40937325) - [Where is the most densely populated square kilometre in the UK? (2023)](http://www.statsmapsnpix.com/2023/02/where-is-most-densely-populated-square.html)
 * [2024-07-10, 11:30:37](https://news.ycombinator.com/item?id=40925767) - [3D Gaussian Ray Tracing: Fast Tracing of Particle Scenes](https://gaussiantracer.github.io/)
 * [2024-07-10, 02:05:05](https://news.ycombinator.com/item?id=40923096) - [Crocotile3D low poly modelling tool](https://crocotile3d.com/)
