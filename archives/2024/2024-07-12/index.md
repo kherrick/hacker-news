@@ -12,6 +12,7 @@
 * [2024-07-12, 22:33:17](https://news.ycombinator.com/item?id=40950071) - [Apple will allow developers access to its NFC technology, avoiding an EU fine](https://www.engadget.com/apple-will-allow-developers-access-to-its-nfc-technology-avoiding-an-eu-fine-123026127.html)
 * [2024-07-12, 22:14:07](https://news.ycombinator.com/item?id=40949943) - [Optimizing the Lichess Tablebase Server](https://lichess.org/@/revoof/blog/optimizing-the-tablebase-server/MetV0ZQd)
 * [2024-07-12, 21:40:37](https://news.ycombinator.com/item?id=40949698) - [OpenAI promised to make its AI safe. Employees say it 'failed' its first test](https://www.washingtonpost.com/technology/2024/07/12/openai-ai-safety-regulation-gpt4/)
+* [2024-07-12, 21:35:00](https://news.ycombinator.com/item?id=40949660) - [German Navy still uses 8-inch floppy disks, working on emulating a replacement](https://arstechnica.com/gadgets/2024/07/german-navy-still-uses-8-inch-floppy-disks-working-on-emulating-a-replacement/)
 * [2024-07-12, 21:31:40](https://news.ycombinator.com/item?id=40949636) - [WTF Happened to Blogs](https://mpmisko.github.io/2024/wtf-happened-to-blogs/)
 * [2024-07-12, 20:48:47](https://news.ycombinator.com/item?id=40949286) - [VCs are now charging founders for meetings: $2500 for 30 minutes on a Zoom](https://sfstandard.com/2024/07/12/intro-cameo-techie-meeting-call/)
 * [2024-07-12, 20:42:25](https://news.ycombinator.com/item?id=40949229) - [Things I know about Git commits](https://www.jvt.me/posts/2024/07/12/things-know-commits/)
