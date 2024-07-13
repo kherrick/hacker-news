@@ -1,7 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-13, 16:01:31](https://news.ycombinator.com/item?id=40954800) - [Houston area frustrated as it enters 6th day without power, AC in punishing heat](https://www.cnn.com/2024/07/13/weather/beryl-houston-texas-power-outages-heat-saturday/index.html)
 * [2024-07-13, 15:13:48](https://news.ycombinator.com/item?id=40954573) - [Ask HN: Do dead YC companies sell their brands/IP?](https://news.ycombinator.com/item?id=40954573)
+* [2024-07-13, 15:08:22](https://news.ycombinator.com/item?id=40954535) - [\"Firefox added [ad tracking] and has already turned it on without asking you\"](https://mastodon.social/@mcc/112775362045378963)
 * [2024-07-13, 15:00:39](https://news.ycombinator.com/item?id=40954497) - [The Illustrated AlphaFold](https://elanapearl.github.io/blog/2024/the-illustrated-alphafold/)
 * [2024-07-13, 13:47:43](https://news.ycombinator.com/item?id=40954104) - [Disruptor-rs: better latency and throughput than crossbeam](https://github.com/nicholassm/disruptor-rs)
 * [2024-07-13, 12:01:37](https://news.ycombinator.com/item?id=40953563) - [STEMFIE, a 3D-printable construction set toy](https://www.stemfie.org/)
