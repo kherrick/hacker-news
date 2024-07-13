@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-13, 09:52:57](https://news.ycombinator.com/item?id=40952952) - [Ask HN: How do you read and follow the discussions on big threads?](https://news.ycombinator.com/item?id=40952952)
+* [2024-07-13, 09:24:19](https://news.ycombinator.com/item?id=40952835) - [My curated list of indie blogs](https://www.andreagrandi.it/posts/my-curated-list-of-indie-blogs/)
 * [2024-07-13, 08:30:34](https://news.ycombinator.com/item?id=40952650) - [For the Colonel, It Was Finger-Lickin’ Bad (1976)](https://kottke.org/16/08/for-the-colonel-it-was-fingerlickin-bad)
 * [2024-07-13, 07:44:09](https://news.ycombinator.com/item?id=40952509) - [Show HN: I made a drag and drop CSS grid generator](https://cssgridgenerator.io/)
 * [2024-07-13, 06:31:05](https://news.ycombinator.com/item?id=40952248) - [WebContainers: Dev environments. In your web app](https://webcontainers.io/)
@@ -17,7 +18,6 @@
 * [2024-07-12, 22:43:41](https://news.ycombinator.com/item?id=40950130) - [Lead Animation Engineer – Gym Class (YC W22) Is Hiring](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-lead-animation-engineer)
 * [2024-07-12, 20:42:25](https://news.ycombinator.com/item?id=40949229) - [Things I know about Git commits](https://www.jvt.me/posts/2024/07/12/things-know-commits/)
 * [2024-07-12, 19:52:52](https://news.ycombinator.com/item?id=40948806) - [Free-threaded CPython is ready to experiment with](https://labs.quansight.org/blog/free-threaded-python-rollout)
-* [2024-07-12, 19:19:31](https://news.ycombinator.com/item?id=40948566) - [Common Expression Language interpreter written in Rust](https://github.com/clarkmcc/cel-rust)
 * [2024-07-12, 18:54:17](https://news.ycombinator.com/item?id=40948353) - [Beating the Compiler](https://www.mattkeeter.com/blog/2024-07-12-interpreter/)
 * [2024-07-12, 18:35:08](https://news.ycombinator.com/item?id=40948202) - [What could explain the gallium anomaly?](https://www.quantamagazine.org/what-could-explain-the-gallium-anomaly-20240712/)
 * [2024-07-12, 14:41:22](https://news.ycombinator.com/item?id=40946033) - [Tau: Open-source PaaS – A self-hosted Vercel / Netlify / Cloudflare alternative](https://github.com/taubyte/tau)
