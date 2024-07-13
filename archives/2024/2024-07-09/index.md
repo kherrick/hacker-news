@@ -73,6 +73,7 @@
 * [2024-07-09, 14:20:21](https://news.ycombinator.com/item?id=40916486) - [Scientists create a cell that precludes malignant growth](https://phys.org/news/2024-07-scientists-cell-precludes-malignant-growth.html)
 * [2024-07-09, 14:19:56](https://news.ycombinator.com/item?id=40916481) - [Let's 'Double-Click' on the Latest Cringeworthy Corporate Buzzword](https://www.wsj.com/lifestyle/workplace/double-click-corporate-buzzword-cringe-421e8cce)
 * [2024-07-09, 14:13:04](https://news.ycombinator.com/item?id=40916411) - [Microsoft's Weather app now shows more ads](https://www.ghacks.net/2024/07/01/microsofts-weather-app-now-displays-more-ads/)
+* [2024-07-09, 14:07:09](https://news.ycombinator.com/item?id=40916326) - [Show HN: 30ms latency screen sharing in Rust](https://github.com/bitwhip/bitwhip)
 * [2024-07-09, 14:02:10](https://news.ycombinator.com/item?id=40916272) - [Tesla parental controls keep teenage lead feet in check](https://www.theregister.com/2024/07/09/tesla_parental_controls/)
 * [2024-07-09, 14:02:06](https://news.ycombinator.com/item?id=40916271) - [Middlemen have outsized influence on drug prices due to market consolidation,FTC](https://www.cnbc.com/2024/07/09/middlemen-have-outsized-influence-on-us-drug-prices-due-to-market-consolidation-ftc-says.html)
 * [2024-07-09, 14:01:54](https://news.ycombinator.com/item?id=40916268) - [Users rage Microsoft announces retirement of Office 365 connectors within Teams](https://www.theregister.com/2024/07/09/users_rage_as_microsoft_announces/)

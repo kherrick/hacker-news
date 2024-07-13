@@ -6,6 +6,7 @@
 
 * [2024-07-12, 23:45:48](https://news.ycombinator.com/item?id=40950497) - [Solving the Worst Problem in Programming Education: Windows](https://learncodethehardway.com/blog/29-solving-the-worst-problem-in-programming-education-windows/)
 * [2024-07-12, 23:19:15](https://news.ycombinator.com/item?id=40950359) - [Court Holds Federal Ban on Home-Distilling Exceeds Congress' Enumerated Powers [pdf]](https://storage.courtlistener.com/recap/gov.uscourts.txnd.384014/gov.uscourts.txnd.384014.49.0.pdf)
+* [2024-07-12, 23:00:25](https://news.ycombinator.com/item?id=40950235) - [Crafting Interpreters](https://craftinginterpreters.com/)
 * [2024-07-12, 22:43:41](https://news.ycombinator.com/item?id=40950130) - [Lead Animation Engineer – Gym Class (YC W22) Is Hiring](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-lead-animation-engineer)
 * [2024-07-12, 22:36:48](https://news.ycombinator.com/item?id=40950090) - [Software Library: MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games)
 * [2024-07-12, 22:33:17](https://news.ycombinator.com/item?id=40950071) - [Apple will allow developers access to its NFC technology, avoiding an EU fine](https://www.engadget.com/apple-will-allow-developers-access-to-its-nfc-technology-avoiding-an-eu-fine-123026127.html)
