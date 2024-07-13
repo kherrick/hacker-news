@@ -48,6 +48,7 @@
 * [2024-07-08, 17:11:52](https://news.ycombinator.com/item?id=40907208) - [Standups: Individual → Teammate](https://tidyfirst.substack.com/p/standups-individual-teammate)
 * [2024-07-08, 17:05:08](https://news.ycombinator.com/item?id=40907155) - [The Right Kind of Stubborn](https://paulgraham.com/persistence.html)
 * [2024-07-08, 16:29:25](https://news.ycombinator.com/item?id=40906809) - [Cross-compile native GUI apps with uing](https://forum.nim-lang.org/t/11954)
+* [2024-07-08, 16:08:25](https://news.ycombinator.com/item?id=40906612) - [Found: Records of Pompeii's Survivors](https://www.atlasobscura.com/articles/records-of-pompeii-survivors)
 * [2024-07-08, 15:45:40](https://news.ycombinator.com/item?id=40906401) - [1JPM: A Maven/Gradle alternative in a single Java file](https://github.com/Osiris-Team/1JPM)
 * [2024-07-08, 15:41:25](https://news.ycombinator.com/item?id=40906374) - [A revolution in archaeology is transforming our picture of past populations](https://aeon.co/essays/an-archeological-revolution-transforms-our-image-of-human-freedoms)
 * [2024-07-08, 15:21:01](https://news.ycombinator.com/item?id=40906210) - [Spot the Drowning Child (2015)](http://spotthedrowningchild.com/)
