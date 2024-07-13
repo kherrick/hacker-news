@@ -26,10 +26,10 @@
 * [2024-07-12, 09:06:15](https://news.ycombinator.com/item?id=40943904) - [Show HN: Daminik – An Open source digital asset manager](https://daminik.com)
 * [2024-07-11, 20:17:58](https://news.ycombinator.com/item?id=40940241) - [Beating the L1 cache with value speculation (2021)](https://mazzo.li/posts/value-speculation.html)
 * [2024-07-11, 01:33:51](https://news.ycombinator.com/item?id=40933048) - [How Carbon Monoxide Poisoning Is Treated](https://www.verywellhealth.com/carbon-monoxide-poisoning-treatment-4161055)
+* [2024-07-09, 19:04:32](https://news.ycombinator.com/item?id=40919644) - [New Blast-RADIUS attack breaks 30-year-old protocol used in networks everywhere](https://arstechnica.com/security/2024/07/new-blast-radius-attack-breaks-30-year-old-protocol-used-in-networks-everywhere/)
 * [2024-07-09, 14:07:09](https://news.ycombinator.com/item?id=40916326) - [Show HN: 30ms latency screen sharing in Rust](https://github.com/bitwhip/bitwhip)
 * [2024-07-09, 11:02:22](https://news.ycombinator.com/item?id=40914635) - [So you want to rent an NVIDIA H100 cluster? 2024 Consumer Guide](https://www.photoroom.com/inside-photoroom/so-you-want-to-rent-an-nvidia-h100-cluster-2024-consumer-guide?slug=inside-photoroom/so-you-want-to-rent-an-nvidia-h100-cluster-2024-consumer-guide&_storyblok_published=511470179&)
 * [2024-07-08, 18:18:35](https://news.ycombinator.com/item?id=40907826) - [Recursive Program Synthesis using Paramorphisms [pdf]](https://theory.stanford.edu/~aiken/publications/papers/pldi24.pdf)
-* [2024-07-07, 22:48:26](https://news.ycombinator.com/item?id=40901138) - [Final Fantasy 7: An Oral History (2017)](https://www.polygon.com/a/final-fantasy-7)
 
 ## [Archives](archives/index.md)
 

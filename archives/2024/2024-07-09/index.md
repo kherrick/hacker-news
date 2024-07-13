@@ -30,6 +30,7 @@
 * [2024-07-09, 19:20:18](https://news.ycombinator.com/item?id=40919845) - [Boeing sold just three passenger jets in the past month](https://www.cnn.com/2024/07/09/business/boeing-sales/index.html)
 * [2024-07-09, 19:14:18](https://news.ycombinator.com/item?id=40919762) - [Grokking the Sequent Calculus (Functional Pearl)](https://arxiv.org/abs/2406.14719)
 * [2024-07-09, 19:09:55](https://news.ycombinator.com/item?id=40919707) - [Master controller of aging and development uncovered](https://longevity.technology/news/master-controller-of-aging-and-development-uncovered/)
+* [2024-07-09, 19:04:32](https://news.ycombinator.com/item?id=40919644) - [New Blast-RADIUS attack breaks 30-year-old protocol used in networks everywhere](https://arstechnica.com/security/2024/07/new-blast-radius-attack-breaks-30-year-old-protocol-used-in-networks-everywhere/)
 * [2024-07-09, 19:03:55](https://news.ycombinator.com/item?id=40919640) - [Speed Limiters Now Mandatory in All New EU Cars](https://www.autoweek.com/news/a61532276/mandatory-speed-limiters-europe-cars/)
 * [2024-07-09, 18:57:52](https://news.ycombinator.com/item?id=40919571) - [Newpipe/yt-dlp stops working](https://github.com/TeamNewPipe/NewPipe/issues/11254)
 * [2024-07-09, 18:51:28](https://news.ycombinator.com/item?id=40919505) - [Tokyo's oldest train line – in pictures](https://www.theguardian.com/artanddesign/gallery/2024/jul/08/tokyos-oldest-train-line-jr-yamanote-in-pictures)
