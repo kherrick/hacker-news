@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-07-13, 12:21:11",
-      "https://news.ycombinator.com/item?id=40953656"
-    ],
-    [
-      "Canada Allocates $146.6M for New Censorship Commission",
-      "https://reclaimthenet.org/canada-allocates-146-6m-for-new-censorship-commission-to-enforce-online-harms-act"
-    ]
-  ],
-  [
-    [
       "2024-07-13, 12:01:00",
       "https://news.ycombinator.com/item?id=40953559"
     ],
@@ -97,16 +87,6 @@
     [
       "Introduction to Calvin and Hobbes: Sunday Pages 1985-1995 (2001)",
       "http://timhulsizer.com/cwords/cintro.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-13, 03:24:32",
-      "https://news.ycombinator.com/item?id=40951524"
-    ],
-    [
-      "Exploring the Limits of Transfer Learning with a Unified Transformer (2019)",
-      "https://arxiv.org/abs/1910.10683"
     ]
   ],
   [
@@ -297,6 +277,26 @@
     [
       "Show HN: 30ms latency screen sharing in Rust",
       "https://github.com/bitwhip/bitwhip"
+    ]
+  ],
+  [
+    [
+      "2024-07-08, 18:18:35",
+      "https://news.ycombinator.com/item?id=40907826"
+    ],
+    [
+      "Recursive Program Synthesis using Paramorphisms [pdf]",
+      "https://theory.stanford.edu/~aiken/publications/papers/pldi24.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-07-08, 16:05:11",
+      "https://news.ycombinator.com/item?id=40906583"
+    ],
+    [
+      "Universal Code Execution by Chaining Messages in Browser Extensions",
+      "https://spaceraccoon.dev/universal-code-execution-browser-extensions/"
     ]
   ]
 ]
