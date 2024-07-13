@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-13, 17:29:19](https://news.ycombinator.com/item?id=40955437) - [Ask HN: User communities that aren't Discord?](https://news.ycombinator.com/item?id=40955437)
 * [2024-07-13, 17:00:02](https://news.ycombinator.com/item?id=40955226) - [Nango (YC W23) is hiring remotely for their open-source unified API](https://www.nango.dev/jobs)
 * [2024-07-13, 16:01:31](https://news.ycombinator.com/item?id=40954800) - [Houston-area residents enter sixth day without power, air conditioning](https://www.cnn.com/2024/07/13/weather/beryl-houston-texas-power-outages-heat-saturday/index.html)
 * [2024-07-13, 15:13:48](https://news.ycombinator.com/item?id=40954573) - [Ask HN: Do dead YC companies sell their brands/IP?](https://news.ycombinator.com/item?id=40954573)
@@ -20,7 +21,6 @@
 * [2024-07-12, 23:00:25](https://news.ycombinator.com/item?id=40950235) - [Crafting Interpreters](https://craftinginterpreters.com/)
 * [2024-07-12, 22:14:07](https://news.ycombinator.com/item?id=40949943) - [Optimizing the Lichess Tablebase Server](https://lichess.org/@/revoof/blog/optimizing-the-tablebase-server/MetV0ZQd)
 * [2024-07-12, 19:52:52](https://news.ycombinator.com/item?id=40948806) - [Free-threaded CPython is ready to experiment with](https://labs.quansight.org/blog/free-threaded-python-rollout)
-* [2024-07-12, 19:19:31](https://news.ycombinator.com/item?id=40948566) - [Common Expression Language interpreter written in Rust](https://github.com/clarkmcc/cel-rust)
 * [2024-07-12, 18:35:08](https://news.ycombinator.com/item?id=40948202) - [What could explain the gallium anomaly?](https://www.quantamagazine.org/what-could-explain-the-gallium-anomaly-20240712/)
 * [2024-07-12, 16:42:37](https://news.ycombinator.com/item?id=40947170) - [Summing ASCII encoded integers on Haswell at almost the speed of memcpy](http://blog.mattstuchlik.com/2024/07/12/summing-integers-fast.html)
 * [2024-07-12, 11:17:54](https://news.ycombinator.com/item?id=40944505) - [AT&T says criminals stole phone records of 'nearly all' customers in data breach](https://techcrunch.com/2024/07/12/att-phone-records-stolen-data-breach/)
