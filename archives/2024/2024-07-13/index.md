@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-13](index.md)
 
+* [2024-07-13, 07:44:09](https://news.ycombinator.com/item?id=40952509) - [Show HN: I made a drag and drop CSS grid generator](https://cssgridgenerator.io/)
 * [2024-07-13, 06:58:14](https://news.ycombinator.com/item?id=40952339) - [Someone is wrong on the internet (AGI Doom edition)](http://addxorrol.blogspot.com/2024/07/someone-is-wrong-on-internet-agi-doom.html)
 * [2024-07-13, 06:56:11](https://news.ycombinator.com/item?id=40952330) - [Ad-tech setting 'Privacy-Preserving Attribution' is opt-out in Firefox 128](https://gladtech.social/@cuchaz/112775302929069283)
 * [2024-07-13, 06:31:05](https://news.ycombinator.com/item?id=40952248) - [WebContainers: Dev environments. In your web app](https://webcontainers.io/)
