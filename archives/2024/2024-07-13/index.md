@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-13](index.md)
 
+* [2024-07-13, 12:21:11](https://news.ycombinator.com/item?id=40953656) - [Canada Allocates $146.6M for New Censorship Commission](https://reclaimthenet.org/canada-allocates-146-6m-for-new-censorship-commission-to-enforce-online-harms-act)
 * [2024-07-13, 12:01:00](https://news.ycombinator.com/item?id=40953559) - [Substack (YC W18) is hiring machine learning engineers](https://grnh.se/d034f1ba5us)
 * [2024-07-13, 11:54:12](https://news.ycombinator.com/item?id=40953536) - [HAMURABI.BAS and Its Dystopian Lessons](https://www.jeffquast.com/post/hamurabi_bas/)
 * [2024-07-13, 10:55:52](https://news.ycombinator.com/item?id=40953268) - [The Birth of Standard Error (2013)](https://www2.dmst.aueb.gr/dds/blog/20131211/index.html)
