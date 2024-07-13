@@ -12,6 +12,7 @@
 * [2024-07-12, 22:33:17](https://news.ycombinator.com/item?id=40950071) - [Apple will allow developers access to its NFC technology, avoiding an EU fine](https://www.engadget.com/apple-will-allow-developers-access-to-its-nfc-technology-avoiding-an-eu-fine-123026127.html)
 * [2024-07-12, 21:40:37](https://news.ycombinator.com/item?id=40949698) - [OpenAI promised to make its AI safe. Employees say it 'failed' its first test](https://www.washingtonpost.com/technology/2024/07/12/openai-ai-safety-regulation-gpt4/)
 * [2024-07-12, 20:48:47](https://news.ycombinator.com/item?id=40949286) - [VCs are now charging founders for meetings: $2500 for 30 minutes on a Zoom](https://sfstandard.com/2024/07/12/intro-cameo-techie-meeting-call/)
+* [2024-07-12, 20:42:25](https://news.ycombinator.com/item?id=40949229) - [Things I know about Git commits](https://www.jvt.me/posts/2024/07/12/things-know-commits/)
 * [2024-07-12, 20:36:50](https://news.ycombinator.com/item?id=40949176) - [What is data sovereignty and why does it matter for your business?](https://proton.me/blog/data-sovereignty)
 * [2024-07-12, 20:19:21](https://news.ycombinator.com/item?id=40949034) - [\"GitHub\" Is Starting to Feel Like Legacy Software](https://www.mistys-internet.website/blog/blog/2024/07/12/github-is-starting-to-feel-like-legacy-software/)
 * [2024-07-12, 20:17:40](https://news.ycombinator.com/item?id=40949021) - [Responsive bar charts in HTML and CSS](https://9elements.com/blog/responsive-bar-charts-in-html-and-css/)
