@@ -19,7 +19,7 @@
 * [2024-07-12, 16:54:24](https://news.ycombinator.com/item?id=40947277) - [lldap: Light LDAP Implementation](https://github.com/lldap/lldap)
 * [2024-07-12, 14:41:22](https://news.ycombinator.com/item?id=40946033) - [Tau: Open-source PaaS – A self-hosted Vercel / Netlify / Cloudflare alternative](https://github.com/taubyte/tau)
 * [2024-07-12, 14:22:25](https://news.ycombinator.com/item?id=40945846) - [WildGaussians: 3D Gaussian Splatting in the Wild](https://arxiv.org/abs/2407.08447)
-* [2024-07-12, 12:51:58](https://news.ycombinator.com/item?id=40945076) - [Windows NT for Power Macintosh](https://github.com/Wack0/maciNTosh)
+* [2024-07-12, 13:45:33](https://news.ycombinator.com/item?id=40945532) - [Ask HN: How to grow a concert visuals business?](https://news.ycombinator.com/item?id=40945532)
 * [2024-07-12, 11:17:54](https://news.ycombinator.com/item?id=40944505) - [AT&T says criminals stole phone records of 'nearly all' customers in data breach](https://techcrunch.com/2024/07/12/att-phone-records-stolen-data-breach/)
 * [2024-07-11, 20:17:58](https://news.ycombinator.com/item?id=40940241) - [Beating the L1 cache with value speculation (2021)](https://mazzo.li/posts/value-speculation.html)
 * [2024-07-11, 01:33:51](https://news.ycombinator.com/item?id=40933048) - [How Carbon Monoxide Poisoning Is Treated](https://www.verywellhealth.com/carbon-monoxide-poisoning-treatment-4161055)
