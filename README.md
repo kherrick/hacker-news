@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-13, 04:37:02](https://news.ycombinator.com/item?id=40951800) - [From the book, \"Calvin and Hobbes – Sunday Pages 1985 – 1995\"](http://timhulsizer.com/cwords/cintro.html)
 * [2024-07-13, 03:54:40](https://news.ycombinator.com/item?id=40951647) - [Houston Is on a Path to an All-Out Power Crisis](https://www.theatlantic.com/science/archive/2024/07/houston-power-outage-beryl/678990/)
 * [2024-07-13, 03:47:29](https://news.ycombinator.com/item?id=40951614) - [Prepare for AI Hackers (2023)](https://www.harvardmagazine.com/2023/02/right-now-ai-hacking)
 * [2024-07-13, 02:44:54](https://news.ycombinator.com/item?id=40951368) - [Who Owns Your Wireless Service? Crooks Do. (2019)](https://krebsonsecurity.com/2019/08/who-owns-your-wireless-service-crooks-do/)
@@ -7,6 +8,7 @@
 * [2024-07-13, 00:05:23](https://news.ycombinator.com/item?id=40950584) - [Use a Work Journal to Recover Focus Faster and Clarify Your Thoughts](https://fev.al/posts/work-journal/)
 * [2024-07-12, 23:00:25](https://news.ycombinator.com/item?id=40950235) - [Crafting Interpreters](https://craftinginterpreters.com/)
 * [2024-07-12, 22:43:41](https://news.ycombinator.com/item?id=40950130) - [Lead Animation Engineer – Gym Class (YC W22) Is Hiring](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-lead-animation-engineer)
+* [2024-07-12, 21:31:40](https://news.ycombinator.com/item?id=40949636) - [WTF Happened to Blogs](https://mpmisko.github.io/2024/wtf-happened-to-blogs/)
 * [2024-07-12, 20:42:25](https://news.ycombinator.com/item?id=40949229) - [Things I know about Git commits](https://www.jvt.me/posts/2024/07/12/things-know-commits/)
 * [2024-07-12, 20:17:40](https://news.ycombinator.com/item?id=40949021) - [Responsive bar charts in HTML and CSS](https://9elements.com/blog/responsive-bar-charts-in-html-and-css/)
 * [2024-07-12, 19:52:52](https://news.ycombinator.com/item?id=40948806) - [Free-threaded CPython is ready to experiment with](https://labs.quansight.org/blog/free-threaded-python-rollout)
@@ -18,7 +20,6 @@
 * [2024-07-12, 16:54:24](https://news.ycombinator.com/item?id=40947277) - [lldap: Light LDAP Implementation](https://github.com/lldap/lldap)
 * [2024-07-12, 14:41:22](https://news.ycombinator.com/item?id=40946033) - [Tau: Open-source PaaS – A self-hosted Vercel / Netlify / Cloudflare alternative](https://github.com/taubyte/tau)
 * [2024-07-12, 14:22:25](https://news.ycombinator.com/item?id=40945846) - [WildGaussians: 3D Gaussian Splatting in the Wild](https://arxiv.org/abs/2407.08447)
-* [2024-07-12, 14:04:21](https://news.ycombinator.com/item?id=40945671) - [Show HN: Smelt — an open source test runner for chip developers](https://silogy-io.github.io/smelt/)
 * [2024-07-12, 13:45:33](https://news.ycombinator.com/item?id=40945532) - [Ask HN: How to grow a concert visuals business?](https://news.ycombinator.com/item?id=40945532)
 * [2024-07-12, 12:51:58](https://news.ycombinator.com/item?id=40945076) - [Windows NT for Power Macintosh](https://github.com/Wack0/maciNTosh)
 * [2024-07-12, 11:17:54](https://news.ycombinator.com/item?id=40944505) - [AT&T says criminals stole phone records of 'nearly all' customers in data breach](https://techcrunch.com/2024/07/12/att-phone-records-stolen-data-breach/)
@@ -29,7 +30,6 @@
 * [2024-07-09, 15:44:35](https://news.ycombinator.com/item?id=40917439) - [Packing Equal Copies](https://erich-friedman.github.io/packing/)
 * [2024-07-09, 14:07:09](https://news.ycombinator.com/item?id=40916326) - [Show HN: 30ms latency screen sharing in Rust](https://github.com/bitwhip/bitwhip)
 * [2024-07-09, 11:02:22](https://news.ycombinator.com/item?id=40914635) - [So you want to rent an NVIDIA H100 cluster? 2024 Consumer Guide](https://www.photoroom.com/inside-photoroom/so-you-want-to-rent-an-nvidia-h100-cluster-2024-consumer-guide?slug=inside-photoroom/so-you-want-to-rent-an-nvidia-h100-cluster-2024-consumer-guide&_storyblok_published=511470179&)
-* [2024-07-08, 18:18:35](https://news.ycombinator.com/item?id=40907826) - [Recursive Program Synthesis using Paramorphisms [pdf]](https://theory.stanford.edu/~aiken/publications/papers/pldi24.pdf)
 
 ## [Archives](archives/index.md)
 
