@@ -9,6 +9,7 @@
 * [2024-07-13, 04:37:02](https://news.ycombinator.com/item?id=40951800) - [From the book, \"Calvin and Hobbes – Sunday Pages 1985 – 1995\"](http://timhulsizer.com/cwords/cintro.html)
 * [2024-07-13, 03:54:40](https://news.ycombinator.com/item?id=40951647) - [Houston Is on a Path to an All-Out Power Crisis](https://www.theatlantic.com/science/archive/2024/07/houston-power-outage-beryl/678990/)
 * [2024-07-13, 03:47:29](https://news.ycombinator.com/item?id=40951614) - [Prepare for AI Hackers](https://www.harvardmagazine.com/2023/02/right-now-ai-hacking)
+* [2024-07-13, 03:24:32](https://news.ycombinator.com/item?id=40951524) - [Exploring the Limits of Transfer Learning with a Unified Transformer (2019)](https://arxiv.org/abs/1910.10683)
 * [2024-07-13, 02:44:54](https://news.ycombinator.com/item?id=40951368) - [Who Owns Your Wireless Service? Crooks Do. (2019)](https://krebsonsecurity.com/2019/08/who-owns-your-wireless-service-crooks-do/)
 * [2024-07-13, 02:36:06](https://news.ycombinator.com/item?id=40951324) - [Tell HN: your next idea should focus on aged care](https://news.ycombinator.com/item?id=40951324)
 * [2024-07-13, 01:59:23](https://news.ycombinator.com/item?id=40951166) - [Authelia and Lldap: Authentication, SSO, User Management... for Home Networks](https://helgeklein.com/blog/authelia-lldap-authentication-sso-user-management-password-reset-for-home-networks/)

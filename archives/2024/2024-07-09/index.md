@@ -86,6 +86,7 @@
 * [2024-07-09, 13:35:25](https://news.ycombinator.com/item?id=40915970) - [Gleam v1.3.0 – Auto-imports and tolerant expressions](https://gleam.run/news/auto-imports-and-tolerant-expressions/)
 * [2024-07-09, 13:27:24](https://news.ycombinator.com/item?id=40915878) - [What the Supreme Court's Nix on the Chevron doctrine means for food regulation](https://www.foodpolitics.com/2024/07/chevron/)
 * [2024-07-09, 13:22:54](https://news.ycombinator.com/item?id=40915827) - [First local extinction due to sea level rise identified in the US](https://phys.org/news/2024-07-local-extinction-due-sea.html)
+* [2024-07-09, 13:22:32](https://news.ycombinator.com/item?id=40915821) - [Selfie-based authentication raises eyebrows among infosec experts](https://www.theregister.com/2024/07/08/selfie_authentication_security/)
 * [2024-07-09, 13:06:06](https://news.ycombinator.com/item?id=40915660) - [Ask HN: Why are there no good domain auctioning websites?](https://news.ycombinator.com/item?id=40915660)
 * [2024-07-09, 12:58:30](https://news.ycombinator.com/item?id=40915564) - [Airbnb's Hidden Camera Problem](https://www.cnn.com/2024/07/09/business/airbnb-hidden-camera-invs/index.html)
 * [2024-07-09, 12:37:34](https://news.ycombinator.com/item?id=40915381) - [You Want to Fix Boeing? Prosecute Its Executives](https://www.thefp.com/p/fix-boeing-prosecute-executives-joe-nocera)

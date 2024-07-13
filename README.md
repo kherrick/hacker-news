@@ -2,14 +2,13 @@
 
 * [2024-07-13, 04:58:33](https://news.ycombinator.com/item?id=40951877) - [Wireless Amiga Tank Mouse](https://lyonsden.net/wireless-tank-mouse/)
 * [2024-07-13, 04:37:02](https://news.ycombinator.com/item?id=40951800) - [From the book, \"Calvin and Hobbes – Sunday Pages 1985 – 1995\"](http://timhulsizer.com/cwords/cintro.html)
-* [2024-07-13, 03:54:40](https://news.ycombinator.com/item?id=40951647) - [Houston Is on a Path to an All-Out Power Crisis](https://www.theatlantic.com/science/archive/2024/07/houston-power-outage-beryl/678990/)
 * [2024-07-13, 03:47:29](https://news.ycombinator.com/item?id=40951614) - [Prepare for AI Hackers (2023)](https://www.harvardmagazine.com/2023/02/right-now-ai-hacking)
+* [2024-07-13, 03:24:32](https://news.ycombinator.com/item?id=40951524) - [Exploring the Limits of Transfer Learning with a Unified Transformer (2019)](https://arxiv.org/abs/1910.10683)
 * [2024-07-13, 02:44:54](https://news.ycombinator.com/item?id=40951368) - [Who Owns Your Wireless Service? Crooks Do. (2019)](https://krebsonsecurity.com/2019/08/who-owns-your-wireless-service-crooks-do/)
 * [2024-07-13, 01:59:23](https://news.ycombinator.com/item?id=40951166) - [Authelia and Lldap: Authentication, SSO, User Management... for Home Networks](https://helgeklein.com/blog/authelia-lldap-authentication-sso-user-management-password-reset-for-home-networks/)
 * [2024-07-13, 00:05:23](https://news.ycombinator.com/item?id=40950584) - [Use a Work Journal to Recover Focus Faster and Clarify Your Thoughts](https://fev.al/posts/work-journal/)
 * [2024-07-12, 23:00:25](https://news.ycombinator.com/item?id=40950235) - [Crafting Interpreters](https://craftinginterpreters.com/)
 * [2024-07-12, 22:43:41](https://news.ycombinator.com/item?id=40950130) - [Lead Animation Engineer – Gym Class (YC W22) Is Hiring](https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/7UKmLED-lead-animation-engineer)
-* [2024-07-12, 21:31:40](https://news.ycombinator.com/item?id=40949636) - [WTF Happened to Blogs](https://mpmisko.github.io/2024/wtf-happened-to-blogs/)
 * [2024-07-12, 20:42:25](https://news.ycombinator.com/item?id=40949229) - [Things I know about Git commits](https://www.jvt.me/posts/2024/07/12/things-know-commits/)
 * [2024-07-12, 20:17:40](https://news.ycombinator.com/item?id=40949021) - [Responsive bar charts in HTML and CSS](https://9elements.com/blog/responsive-bar-charts-in-html-and-css/)
 * [2024-07-12, 19:52:52](https://news.ycombinator.com/item?id=40948806) - [Free-threaded CPython is ready to experiment with](https://labs.quansight.org/blog/free-threaded-python-rollout)
@@ -29,6 +28,7 @@
 * [2024-07-09, 19:04:32](https://news.ycombinator.com/item?id=40919644) - [New Blast-RADIUS attack breaks 30-year-old protocol used in networks everywhere](https://arstechnica.com/security/2024/07/new-blast-radius-attack-breaks-30-year-old-protocol-used-in-networks-everywhere/)
 * [2024-07-09, 15:44:35](https://news.ycombinator.com/item?id=40917439) - [Packing Equal Copies](https://erich-friedman.github.io/packing/)
 * [2024-07-09, 14:07:09](https://news.ycombinator.com/item?id=40916326) - [Show HN: 30ms latency screen sharing in Rust](https://github.com/bitwhip/bitwhip)
+* [2024-07-09, 13:22:32](https://news.ycombinator.com/item?id=40915821) - [Selfie-based authentication raises eyebrows among infosec experts](https://www.theregister.com/2024/07/08/selfie_authentication_security/)
 * [2024-07-09, 11:02:22](https://news.ycombinator.com/item?id=40914635) - [So you want to rent an NVIDIA H100 cluster? 2024 Consumer Guide](https://www.photoroom.com/inside-photoroom/so-you-want-to-rent-an-nvidia-h100-cluster-2024-consumer-guide?slug=inside-photoroom/so-you-want-to-rent-an-nvidia-h100-cluster-2024-consumer-guide&_storyblok_published=511470179&)
 
 ## [Archives](archives/index.md)
