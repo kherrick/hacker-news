@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-13, 04:58:33](https://news.ycombinator.com/item?id=40951877) - [Wireless Amiga Tank Mouse](https://lyonsden.net/wireless-tank-mouse/)
 * [2024-07-13, 04:37:02](https://news.ycombinator.com/item?id=40951800) - [From the book, \"Calvin and Hobbes – Sunday Pages 1985 – 1995\"](http://timhulsizer.com/cwords/cintro.html)
 * [2024-07-13, 03:54:40](https://news.ycombinator.com/item?id=40951647) - [Houston Is on a Path to an All-Out Power Crisis](https://www.theatlantic.com/science/archive/2024/07/houston-power-outage-beryl/678990/)
 * [2024-07-13, 03:47:29](https://news.ycombinator.com/item?id=40951614) - [Prepare for AI Hackers (2023)](https://www.harvardmagazine.com/2023/02/right-now-ai-hacking)
@@ -21,7 +22,6 @@
 * [2024-07-12, 14:41:22](https://news.ycombinator.com/item?id=40946033) - [Tau: Open-source PaaS – A self-hosted Vercel / Netlify / Cloudflare alternative](https://github.com/taubyte/tau)
 * [2024-07-12, 14:22:25](https://news.ycombinator.com/item?id=40945846) - [WildGaussians: 3D Gaussian Splatting in the Wild](https://arxiv.org/abs/2407.08447)
 * [2024-07-12, 13:45:33](https://news.ycombinator.com/item?id=40945532) - [Ask HN: How to grow a concert visuals business?](https://news.ycombinator.com/item?id=40945532)
-* [2024-07-12, 12:51:58](https://news.ycombinator.com/item?id=40945076) - [Windows NT for Power Macintosh](https://github.com/Wack0/maciNTosh)
 * [2024-07-12, 11:17:54](https://news.ycombinator.com/item?id=40944505) - [AT&T says criminals stole phone records of 'nearly all' customers in data breach](https://techcrunch.com/2024/07/12/att-phone-records-stolen-data-breach/)
 * [2024-07-11, 20:17:58](https://news.ycombinator.com/item?id=40940241) - [Beating the L1 cache with value speculation (2021)](https://mazzo.li/posts/value-speculation.html)
 * [2024-07-11, 01:33:51](https://news.ycombinator.com/item?id=40933048) - [How Carbon Monoxide Poisoning Is Treated](https://www.verywellhealth.com/carbon-monoxide-poisoning-treatment-4161055)
