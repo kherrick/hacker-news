@@ -2,7 +2,6 @@
 
 * [2024-07-13, 03:54:40](https://news.ycombinator.com/item?id=40951647) - [Houston Is on a Path to an All-Out Power Crisis](https://www.theatlantic.com/science/archive/2024/07/houston-power-outage-beryl/678990/)
 * [2024-07-13, 02:44:54](https://news.ycombinator.com/item?id=40951368) - [Who Owns Your Wireless Service? Crooks Do. (2019)](https://krebsonsecurity.com/2019/08/who-owns-your-wireless-service-crooks-do/)
-* [2024-07-13, 02:36:06](https://news.ycombinator.com/item?id=40951324) - [Tell HN: your next idea should focus on aged care](https://news.ycombinator.com/item?id=40951324)
 * [2024-07-13, 01:59:23](https://news.ycombinator.com/item?id=40951166) - [Authelia and Lldap: Authentication, SSO, User Management... for Home Networks](https://helgeklein.com/blog/authelia-lldap-authentication-sso-user-management-password-reset-for-home-networks/)
 * [2024-07-13, 00:05:23](https://news.ycombinator.com/item?id=40950584) - [Use a Work Journal to Recover Focus Faster and Clarify Your Thoughts](https://fev.al/posts/work-journal/)
 * [2024-07-12, 23:00:25](https://news.ycombinator.com/item?id=40950235) - [Crafting Interpreters](https://craftinginterpreters.com/)
@@ -23,6 +22,7 @@
 * [2024-07-12, 13:24:24](https://news.ycombinator.com/item?id=40945355) - [Born into slavery, he rose to the top of France's art world](https://www.washingtonpost.com/entertainment/art/2024/07/12/guillaume-lethiere-exhibition-life/)
 * [2024-07-12, 12:51:58](https://news.ycombinator.com/item?id=40945076) - [Windows NT for Power Macintosh](https://github.com/Wack0/maciNTosh)
 * [2024-07-12, 11:17:54](https://news.ycombinator.com/item?id=40944505) - [AT&T says criminals stole phone records of 'nearly all' customers in data breach](https://techcrunch.com/2024/07/12/att-phone-records-stolen-data-breach/)
+* [2024-07-12, 09:06:15](https://news.ycombinator.com/item?id=40943904) - [Show HN: Daminik – An Open source digital asset manager](https://daminik.com)
 * [2024-07-11, 20:17:58](https://news.ycombinator.com/item?id=40940241) - [Beating the L1 cache with value speculation (2021)](https://mazzo.li/posts/value-speculation.html)
 * [2024-07-11, 01:33:51](https://news.ycombinator.com/item?id=40933048) - [How Carbon Monoxide Poisoning Is Treated](https://www.verywellhealth.com/carbon-monoxide-poisoning-treatment-4161055)
 * [2024-07-09, 19:04:32](https://news.ycombinator.com/item?id=40919644) - [New Blast-RADIUS attack breaks 30-year-old protocol used in networks everywhere](https://arstechnica.com/security/2024/07/new-blast-radius-attack-breaks-30-year-old-protocol-used-in-networks-everywhere/)
