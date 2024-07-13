@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-13, 03:54:40",
+      "https://news.ycombinator.com/item?id=40951647"
+    ],
+    [
+      "Houston Is on a Path to an All-Out Power Crisis",
+      "https://www.theatlantic.com/science/archive/2024/07/houston-power-outage-beryl/678990/"
+    ]
+  ],
+  [
+    [
+      "2024-07-13, 02:44:54",
+      "https://news.ycombinator.com/item?id=40951368"
+    ],
+    [
+      "Who Owns Your Wireless Service? Crooks Do. (2019)",
+      "https://krebsonsecurity.com/2019/08/who-owns-your-wireless-service-crooks-do/"
+    ]
+  ],
+  [
+    [
       "2024-07-13, 02:36:06",
       "https://news.ycombinator.com/item?id=40951324"
     ],
@@ -141,26 +161,6 @@
   ],
   [
     [
-      "2024-07-12, 16:50:30",
-      "https://news.ycombinator.com/item?id=40947238"
-    ],
-    [
-      "Show HN: Open-source CLI coding framework using Claude",
-      "https://github.com/vysakh0/dravid"
-    ]
-  ],
-  [
-    [
-      "2024-07-12, 16:48:59",
-      "https://news.ycombinator.com/item?id=40947222"
-    ],
-    [
-      "PC-BASIC, a cross-platform interpreter for GW-BASIC",
-      "http://robhagemans.github.io/pcbasic/"
-    ]
-  ],
-  [
-    [
       "2024-07-12, 14:41:22",
       "https://news.ycombinator.com/item?id=40946033"
     ],
@@ -231,16 +231,6 @@
   ],
   [
     [
-      "2024-07-12, 09:06:15",
-      "https://news.ycombinator.com/item?id=40943904"
-    ],
-    [
-      "Show HN: Daminik – An Open source digital asset manager",
-      "https://daminik.com"
-    ]
-  ],
-  [
-    [
       "2024-07-11, 20:17:58",
       "https://news.ycombinator.com/item?id=40940241"
     ],
@@ -267,6 +257,16 @@
     [
       "New Blast-RADIUS attack breaks 30-year-old protocol used in networks everywhere",
       "https://arstechnica.com/security/2024/07/new-blast-radius-attack-breaks-30-year-old-protocol-used-in-networks-everywhere/"
+    ]
+  ],
+  [
+    [
+      "2024-07-09, 15:44:35",
+      "https://news.ycombinator.com/item?id=40917439"
+    ],
+    [
+      "Packing Equal Copies",
+      "https://erich-friedman.github.io/packing/"
     ]
   ],
   [
