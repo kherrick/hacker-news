@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-14](index.md)
 
 * [2024-07-14, 20:21:23](https://news.ycombinator.com/item?id=40962997) - [Vacuum Forming Keyboards – The Outcome](https://retrohax.net/vacuum-forming-keyboards-the-outcome/)
+* [2024-07-14, 20:16:45](https://news.ycombinator.com/item?id=40962965) - [Just Be Rich (2021)](https://keenen.xyz/just-be-rich/)
 * [2024-07-14, 20:14:29](https://news.ycombinator.com/item?id=40962942) - [California Grid Breezes Through Heatwave with Batteries](https://thinc.blog/2024/07/14/california-grid-breezes-through-heat-wave-due-to-renewables-batteries/)
 * [2024-07-14, 20:11:40](https://news.ycombinator.com/item?id=40962921) - [A prank cursor resulted in an employee being fired before they started (2020)](https://devblogs.microsoft.com/oldnewthing/20201110-00/?p=104434)
 * [2024-07-14, 19:55:38](https://news.ycombinator.com/item?id=40962829) - [A.I. Needs Copper. It Just Helped to Find Millions of Tons of It in Zambia.](https://www.nytimes.com/2024/07/11/climate/kobold-zambia-copper-ai-mining.html)
