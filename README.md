@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-14, 21:20:28](https://news.ycombinator.com/item?id=40963282) - [Grind – An epic first person shooter for Amiga 500 gets another playable tease](https://www.indieretronews.com/2024/07/grind-epic-first-person-shooter-for.html)
 * [2024-07-14, 21:19:39](https://news.ycombinator.com/item?id=40963278) - [Leaked payroll data show how much Valve pays staff and how few people it employs](https://www.theverge.com/2024/7/13/24197477/valve-employs-few-hundred-people-payroll-redacted)
 * [2024-07-14, 20:16:45](https://news.ycombinator.com/item?id=40962965) - [Just Be Rich (2021)](https://keenen.xyz/just-be-rich/)
 * [2024-07-14, 20:14:29](https://news.ycombinator.com/item?id=40962942) - [California Grid Breezes Through Heatwave with Batteries](https://thinc.blog/2024/07/14/california-grid-breezes-through-heat-wave-due-to-renewables-batteries/)
@@ -10,7 +11,6 @@
 * [2024-07-14, 19:05:21](https://news.ycombinator.com/item?id=40962626) - [AT&T Paid a Hacker $370k to Delete Stolen Phone Records](https://www.wired.com/story/atandt-paid-hacker-300000-to-delete-stolen-call-records/)
 * [2024-07-14, 18:49:55](https://news.ycombinator.com/item?id=40962572) - [Disqualified (1954)](https://www.gutenberg.org/cache/epub/30251/pg30251-images.html)
 * [2024-07-14, 17:42:02](https://news.ycombinator.com/item?id=40962231) - [Calculating position from raw GPS data (2017)](https://www.telesens.co/2017/07/17/calculating-position-from-raw-gps-data/)
-* [2024-07-14, 15:07:25](https://news.ycombinator.com/item?id=40961385) - [Show HN: I generated 70k audiobooks with OpenAI Text-to-Speech](https://listenly.io/gutenberg)
 * [2024-07-14, 14:56:14](https://news.ycombinator.com/item?id=40961316) - [On Building Systems That Will Fail (1991)](http://larch-www.lcs.mit.edu:8001/~corbato/turing91/)
 * [2024-07-14, 14:27:46](https://news.ycombinator.com/item?id=40961163) - [Fitting an elephant with four non-zero parameters](https://arxiv.org/abs/2407.07909)
 * [2024-07-14, 14:14:34](https://news.ycombinator.com/item?id=40961101) - [Show HN: I made a TUI for kafka (kaskade)](https://github.com/sauljabin/kaskade)
