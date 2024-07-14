@@ -1,7 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-14, 21:45:55](https://news.ycombinator.com/item?id=40963427) - [Working with stacked branches in Git is easier with –update-refs (2022)](https://andrewlock.net/working-with-stacked-branches-in-git-is-easier-with-update-refs/)
-* [2024-07-14, 21:19:39](https://news.ycombinator.com/item?id=40963278) - [Leaked payroll data show how much Valve pays staff and how few people it employs](https://www.theverge.com/2024/7/13/24197477/valve-employs-few-hundred-people-payroll-redacted)
 * [2024-07-14, 20:16:45](https://news.ycombinator.com/item?id=40962965) - [Just Be Rich (2021)](https://keenen.xyz/just-be-rich/)
 * [2024-07-14, 20:11:40](https://news.ycombinator.com/item?id=40962921) - [A prank cursor resulted in an employee being fired before they started (2020)](https://devblogs.microsoft.com/oldnewthing/20201110-00/?p=104434)
 * [2024-07-14, 19:55:38](https://news.ycombinator.com/item?id=40962829) - [A.I. Needs Copper. It Just Helped to Find Millions of Tons of It in Zambia.](https://www.nytimes.com/2024/07/11/climate/kobold-zambia-copper-ai-mining.html)
@@ -13,6 +12,7 @@
 * [2024-07-14, 14:56:14](https://news.ycombinator.com/item?id=40961316) - [On Building Systems That Will Fail (1991)](http://larch-www.lcs.mit.edu:8001/~corbato/turing91/)
 * [2024-07-14, 14:27:46](https://news.ycombinator.com/item?id=40961163) - [Fitting an elephant with four non-zero parameters](https://arxiv.org/abs/2407.07909)
 * [2024-07-14, 14:14:34](https://news.ycombinator.com/item?id=40961101) - [Show HN: I made a TUI for kafka (kaskade)](https://github.com/sauljabin/kaskade)
+* [2024-07-14, 13:37:45](https://news.ycombinator.com/item?id=40960886) - [CURLoRA: Stable LLM Fine-Tuning and Catastrophic Forgetting Mitigation](https://zenodo.org/records/12740116)
 * [2024-07-14, 12:20:30](https://news.ycombinator.com/item?id=40960508) - [Show HN: I built a Jeopardy game maker with buzzer support](https://buzzinga.io/)
 * [2024-07-14, 12:00:35](https://news.ycombinator.com/item?id=40960402) - [PermitFlow (YC W22) Is Hiring](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 * [2024-07-14, 10:45:36](https://news.ycombinator.com/item?id=40960128) - [Building the Bell System](https://www.construction-physics.com/p/building-the-bell-system)
