@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-14, 05:01:17](https://news.ycombinator.com/item?id=40958946) - [Firmware Update Hides a Device's Bluetooth Fingerprint](https://today.ucsd.edu/story/a-simple-firmware-update-completely-hides-a-devices-bluetooth-fingerprint)
 * [2024-07-14, 02:45:23](https://news.ycombinator.com/item?id=40958465) - [After initially rejecting it, Apple has approved the first PC emulator for iOS](https://www.theverge.com/2024/7/13/24198015/apple-utm-se-pc-os-emulator-for-ios)
 * [2024-07-14, 02:44:31](https://news.ycombinator.com/item?id=40958458) - [No reasonable expectation of privacy in one's Google location data](https://fourthamendment.com/?p=58338)
 * [2024-07-14, 02:37:43](https://news.ycombinator.com/item?id=40958436) - [Solving Path of Exile Item Crafting with Reinforcement Learning](https://dennybritz.com/posts/poe-crafting/)
@@ -15,7 +16,6 @@
 * [2024-07-13, 20:22:32](https://news.ycombinator.com/item?id=40956593) - [A Philosophy Professor's Final Class (2023)](https://www.newyorker.com/culture/annals-of-inquiry/a-philosophy-professors-final-class)
 * [2024-07-13, 20:14:10](https://news.ycombinator.com/item?id=40956546) - [Talos: Secure, immutable, and minimal Linux OS for running Kubernetes](https://www.talos.dev)
 * [2024-07-13, 19:00:56](https://news.ycombinator.com/item?id=40956087) - [Show HN: Resurrecting a dead Dune RTS game](https://wheybags.com/blog/emperor.html)
-* [2024-07-13, 18:05:34](https://news.ycombinator.com/item?id=40955693) - [Disney's Internal Slack Breached? NullBulge Leaks 1.1 TiB of Data](https://hackread.com/disneys-internal-slack-breached-nullbulge-leak-data/)
 * [2024-07-13, 17:00:02](https://news.ycombinator.com/item?id=40955226) - [Nango (YC W23) is hiring remotely for their open-source unified API](https://www.nango.dev/jobs)
 * [2024-07-13, 16:14:27](https://news.ycombinator.com/item?id=40954879) - [Give people something to link to](https://simonwillison.net/2024/Jul/13/give-people-something-to-link-to/)
 * [2024-07-13, 15:00:39](https://news.ycombinator.com/item?id=40954497) - [The Illustrated AlphaFold](https://elanapearl.github.io/blog/2024/the-illustrated-alphafold/)
