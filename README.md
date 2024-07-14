@@ -1,6 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-14, 15:12:53](https://news.ycombinator.com/item?id=40961414) - [Steve Teixeira sues Mozilla, alleging discrimination after cancer diagnosis](https://www.geekwire.com/2024/mozillas-product-chief-sues-the-firefox-maker-alleging-discrimination-after-cancer-diagnosis/)
+* [2024-07-14, 14:56:14](https://news.ycombinator.com/item?id=40961316) - [On Building Systems That Will Fail (1991)](http://larch-www.lcs.mit.edu:8001/~corbato/turing91/)
 * [2024-07-14, 14:27:46](https://news.ycombinator.com/item?id=40961163) - [Fitting an Elephant with Four Non-Zero Parameters](https://arxiv.org/abs/2407.07909)
 * [2024-07-14, 14:22:13](https://news.ycombinator.com/item?id=40961145) - [A bit more regarding UTM SE on the iPad](https://taoofmac.com/space/blog/2024/07/14/1430)
 * [2024-07-14, 12:20:30](https://news.ycombinator.com/item?id=40960508) - [Show HN: I built a Jeopardy game maker with buzzer support](https://buzzinga.io/)
