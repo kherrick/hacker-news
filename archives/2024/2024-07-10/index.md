@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-10](index.md)
 
+* [2024-07-10, 23:34:51](https://news.ycombinator.com/item?id=40932512) - [Archipelago: Multiworld Multi-Game Randomizer](https://archipelago.gg/)
 * [2024-07-10, 23:29:56](https://news.ycombinator.com/item?id=40932492) - [Show HN: Dut, a fast Linux disk usage calculator](https://codeberg.org/201984/dut)
 * [2024-07-10, 23:23:15](https://news.ycombinator.com/item?id=40932447) - [Tesla's Share of U.S. Electric Car Market Falls Below 50%](https://www.nytimes.com/2024/07/09/business/tesla-electric-vehicles-market-share.html)
 * [2024-07-10, 23:19:01](https://news.ycombinator.com/item?id=40932420) - [Eliza chat with an OpenAI compatible API](https://elizallm.com)
