@@ -4,10 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-07-14](index.md)
 
+* [2024-07-14, 20:21:23](https://news.ycombinator.com/item?id=40962997) - [Vacuum Forming Keyboards – The Outcome](https://retrohax.net/vacuum-forming-keyboards-the-outcome/)
+* [2024-07-14, 19:55:38](https://news.ycombinator.com/item?id=40962829) - [A.I. Needs Copper. It Just Helped to Find Millions of Tons of It in Zambia.](https://www.nytimes.com/2024/07/11/climate/kobold-zambia-copper-ai-mining.html)
 * [2024-07-14, 19:33:49](https://news.ycombinator.com/item?id=40962736) - [Complaints about crashing 13th,14th Gen Intel CPUs now have data to back them up](https://www.theverge.com/2024/7/14/24198299/intel-13th-14th-gen-i9-cpu-crashes-telemetry-alderon-games-warframe)
 * [2024-07-14, 19:22:15](https://news.ycombinator.com/item?id=40962698) - [Wrap Your Keyboard with a Vacuum Former](https://hackaday.com/2024/07/14/wrap-your-keyboard-with-a-vacuum-former/)
 * [2024-07-14, 19:21:49](https://news.ycombinator.com/item?id=40962695) - [Over 2,400 patients may have been exposed to HIV, hepatitis at Oregon hospitals](https://www.cbsnews.com/news/oregon-hospital-patients-exposed-infectious-disease-hiv-hepatitis/)
 * [2024-07-14, 19:16:29](https://news.ycombinator.com/item?id=40962675) - [How to Know When It's Time to Go](https://thecodist.com/how-to-know-when-its-time-to-go/)
+* [2024-07-14, 19:14:20](https://news.ycombinator.com/item?id=40962663) - [Book Review: The Family That Couldn't Sleep](https://www.astralcodexten.com/p/your-book-review-the-family-that)
 * [2024-07-14, 18:49:55](https://news.ycombinator.com/item?id=40962572) - [Disqualified (1954)](https://www.gutenberg.org/cache/epub/30251/pg30251-images.html)
 * [2024-07-14, 18:30:54](https://news.ycombinator.com/item?id=40962470) - [Claustrum neurons projecting to the anterior cingulate restrict engagement](https://www.nature.com/articles/s41467-024-48829-6)
 * [2024-07-14, 18:29:14](https://news.ycombinator.com/item?id=40962457) - [Study Finds Brain Area Regulating Attention and Wakefulness](https://www.haaretz.com/science-and-health/2024-07-14/ty-article/israeli-study-finds-brain-area-regulating-attention-and-wakefulness/00000190-ace2-d9f4-afd5-eeef185a0000)
