@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-07-14, 15:12:53",
+      "https://news.ycombinator.com/item?id=40961414"
+    ],
+    [
+      "Steve Teixeira sues Mozilla, alleging discrimination after cancer diagnosis",
+      "https://www.geekwire.com/2024/mozillas-product-chief-sues-the-firefox-maker-alleging-discrimination-after-cancer-diagnosis/"
+    ]
+  ],
+  [
+    [
+      "2024-07-14, 14:27:46",
+      "https://news.ycombinator.com/item?id=40961163"
+    ],
+    [
+      "Fitting an Elephant with Four Non-Zero Parameters",
+      "https://arxiv.org/abs/2407.07909"
+    ]
+  ],
+  [
+    [
+      "2024-07-14, 14:22:13",
+      "https://news.ycombinator.com/item?id=40961145"
+    ],
+    [
+      "A bit more regarding UTM SE on the iPad",
+      "https://taoofmac.com/space/blog/2024/07/14/1430"
+    ]
+  ],
+  [
+    [
       "2024-07-14, 12:20:30",
       "https://news.ycombinator.com/item?id=40960508"
     ],
@@ -71,32 +101,12 @@
   ],
   [
     [
-      "2024-07-14, 07:59:21",
-      "https://news.ycombinator.com/item?id=40959558"
-    ],
-    [
-      "Z80 CPU Microprocessor Instant Reference Card (1981) [pdf]",
-      "https://ballyalley.com/ml/z80_docs/Z80%20CPU%20Instant%20Reference%20Card%20(Color).pdf"
-    ]
-  ],
-  [
-    [
       "2024-07-14, 07:53:37",
       "https://news.ycombinator.com/item?id=40959526"
     ],
     [
       "Git-PR: patch requests over SSH",
       "https://pr.pico.sh/"
-    ]
-  ],
-  [
-    [
-      "2024-07-14, 07:26:17",
-      "https://news.ycombinator.com/item?id=40959412"
-    ],
-    [
-      "Compact Fenwick trees for dynamic ranking and selection (2019)",
-      "https://arxiv.org/abs/1904.12370"
     ]
   ],
   [
@@ -231,26 +241,6 @@
   ],
   [
     [
-      "2024-07-12, 23:00:25",
-      "https://news.ycombinator.com/item?id=40950235"
-    ],
-    [
-      "Crafting Interpreters",
-      "https://craftinginterpreters.com/"
-    ]
-  ],
-  [
-    [
-      "2024-07-12, 19:52:52",
-      "https://news.ycombinator.com/item?id=40948806"
-    ],
-    [
-      "Free-threaded CPython is ready to experiment with",
-      "https://labs.quansight.org/blog/free-threaded-python-rollout"
-    ]
-  ],
-  [
-    [
       "2024-07-12, 16:42:37",
       "https://news.ycombinator.com/item?id=40947170"
     ],
@@ -277,6 +267,16 @@
     [
       "Mazeppa: A modern supercompiler for call-by-value functional languages",
       "https://github.com/mazeppa-dev/mazeppa"
+    ]
+  ],
+  [
+    [
+      "2024-07-11, 14:34:20",
+      "https://news.ycombinator.com/item?id=40937260"
+    ],
+    [
+      "General Theory of Neural Networks",
+      "https://robleclerc.substack.com/p/general-theory-of-neural-networks"
     ]
   ],
   [
