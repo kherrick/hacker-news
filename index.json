@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-14, 05:47:15",
+      "https://news.ycombinator.com/item?id=40959114"
+    ],
+    [
+      "Show HN: Procedural Art –– 'Pulse'",
+      "https://soham-saha.github.io/ProceduralArt/Pulse/Pulse.html"
+    ]
+  ],
+  [
+    [
       "2024-07-14, 05:06:28",
       "https://news.ycombinator.com/item?id=40958959"
     ],
@@ -51,11 +61,21 @@
   ],
   [
     [
+      "2024-07-14, 02:07:37",
+      "https://news.ycombinator.com/item?id=40958340"
+    ],
+    [
+      "Pretty pictures, bootable floppy disks, and the first Canon Cat demo?",
+      "http://oldvcr.blogspot.com/2024/07/pretty-pictures-bootable-floppy-disks.html"
+    ]
+  ],
+  [
+    [
       "2024-07-14, 01:57:58",
       "https://news.ycombinator.com/item?id=40958305"
     ],
     [
-      "Nvidia Warp (a Python framework for writing high-performance code)",
+      "Nvidia Warp: Python framework for high-performance simulation and graphics code",
       "https://nvidia.github.io/warp/"
     ]
   ],
@@ -97,16 +117,6 @@
     [
       "What Does Nevada's $35B Fund Manager Do All Day? Nothing (2016)",
       "https://www.wsj.com/articles/what-does-nevadas-35-billion-fund-manager-do-all-day-nothing-1476887420"
-    ]
-  ],
-  [
-    [
-      "2024-07-13, 22:27:44",
-      "https://news.ycombinator.com/item?id=40957373"
-    ],
-    [
-      "YouTube lets you request removal of AI content that simulates your face or voice",
-      "https://techcrunch.com/2024/07/01/youtube-now-lets-you-request-removal-of-ai-generated-content-that-simulates-your-face-or-voice/"
     ]
   ],
   [
@@ -161,16 +171,6 @@
   ],
   [
     [
-      "2024-07-13, 17:00:02",
-      "https://news.ycombinator.com/item?id=40955226"
-    ],
-    [
-      "Nango (YC W23) is hiring remotely for their open-source unified API",
-      "https://www.nango.dev/jobs"
-    ]
-  ],
-  [
-    [
       "2024-07-13, 16:14:27",
       "https://news.ycombinator.com/item?id=40954879"
     ],
@@ -216,7 +216,7 @@
     ],
     [
       "Gpu.cpp: A lightweight library for portable low-level GPU computation",
-      "https://github.com/AnswerDotAI/gpu.cpp"
+      "https://www.answer.ai/posts/2024-07-11--gpu-cpp.html"
     ]
   ],
   [
@@ -265,7 +265,7 @@
       "https://news.ycombinator.com/item?id=40931934"
     ],
     [
-      "Don't try to sanitize input. Escape output. (2020)",
+      "Don’t try to sanitize input. Escape output (2020)",
       "https://benhoyt.com/writings/dont-sanitize-do-escape/"
     ]
   ],
