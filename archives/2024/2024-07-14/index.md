@@ -4,13 +4,16 @@
 
 ### [Archives](../../index.md) for [2024-07-14](index.md)
 
+* [2024-07-14, 17:25:03](https://news.ycombinator.com/item?id=40962143) - [US Courts to Decide If NFTs Are Securities as DraftKings Case Goes to Trial](https://decrypt.co/238316/draftkings-us-courts-nfts-securities)
 * [2024-07-14, 16:26:31](https://news.ycombinator.com/item?id=40961790) - [In many cases we need something less like AI and more like a basic algorithm](https://zacs.site/blog/you-need-an-algorithm.html)
+* [2024-07-14, 15:59:23](https://news.ycombinator.com/item?id=40961648) - [Scientists propose glacier geoengineering to avoid sea level rise](https://www.science.org/content/article/avoid-sea-level-rise-some-researchers-want-build-barriers-around-world-s-most)
 * [2024-07-14, 15:12:53](https://news.ycombinator.com/item?id=40961414) - [Steve Teixeira sues Mozilla, alleging discrimination after cancer diagnosis](https://www.geekwire.com/2024/mozillas-product-chief-sues-the-firefox-maker-alleging-discrimination-after-cancer-diagnosis/)
 * [2024-07-14, 15:04:39](https://news.ycombinator.com/item?id=40961373) - [AB 1637 requires all cities and counties to transition to a .gov domain](https://www.californiacitynews.org/2023/12/ab-1637-local-government-internet-websites-and-email-addresses.html)
 * [2024-07-14, 15:03:25](https://news.ycombinator.com/item?id=40961364) - [Templating in JavaScript, from Zero Dependencies on Up (2021)](https://blog.jim-nielsen.com/2021/javascript-templating/)
 * [2024-07-14, 14:56:14](https://news.ycombinator.com/item?id=40961316) - [On Building Systems That Will Fail (1991)](http://larch-www.lcs.mit.edu:8001/~corbato/turing91/)
 * [2024-07-14, 14:27:46](https://news.ycombinator.com/item?id=40961163) - [Fitting an Elephant with Four Non-Zero Parameters](https://arxiv.org/abs/2407.07909)
 * [2024-07-14, 14:22:13](https://news.ycombinator.com/item?id=40961145) - [A bit more regarding UTM SE on the iPad](https://taoofmac.com/space/blog/2024/07/14/1430)
+* [2024-07-14, 14:14:34](https://news.ycombinator.com/item?id=40961101) - [Show HN: I made a TUI for kafka (kaskade)](https://github.com/sauljabin/kaskade)
 * [2024-07-14, 13:37:45](https://news.ycombinator.com/item?id=40960886) - [CURLoRA: Stable LLM Fine-Tuning and Catastrophic Forgetting Mitigation](https://zenodo.org/records/12740116)
 * [2024-07-14, 12:29:35](https://news.ycombinator.com/item?id=40960553) - [The Economy of Spam (2022)](https://integrityinstitute.org/blog/the-hidden-economy-of-spam)
 * [2024-07-14, 12:24:25](https://news.ycombinator.com/item?id=40960531) - [\"Superhuman\" Go AIs still have trouble defending against these simple exploits](https://arstechnica.com/ai/2024/07/superhuman-go-ais-still-have-trouble-defending-against-these-simple-exploits/)
