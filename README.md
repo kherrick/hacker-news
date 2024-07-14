@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-14, 19:16:29](https://news.ycombinator.com/item?id=40962675) - [How to Know When It's Time to Go](https://thecodist.com/how-to-know-when-its-time-to-go/)
 * [2024-07-14, 18:49:55](https://news.ycombinator.com/item?id=40962572) - [Disqualified (1954)](https://www.gutenberg.org/cache/epub/30251/pg30251-images.html)
 * [2024-07-14, 17:44:59](https://news.ycombinator.com/item?id=40962239) - [HIV breakthrough: Trial shows drug provides 100% protection](https://www.universityworldnews.com/post.php?story=20240708145001437)
 * [2024-07-14, 17:42:02](https://news.ycombinator.com/item?id=40962231) - [Calculating position from raw GPS data (2017)](https://www.telesens.co/2017/07/17/calculating-position-from-raw-gps-data/)
@@ -22,13 +23,12 @@
 * [2024-07-14, 01:01:23](https://news.ycombinator.com/item?id=40958097) - [The Peculiar Phenomenon of Megacryometeors (2006)](https://www.damninteresting.com/the-peculiar-phenomenon-of-megacryometeors/)
 * [2024-07-14, 00:52:51](https://news.ycombinator.com/item?id=40958064) - [How do we make remote meetings not suck? (2018)](https://chelseatroy.com/2018/04/05/how-do-we-make-remote-meetings-not-suck/)
 * [2024-07-13, 23:24:53](https://news.ycombinator.com/item?id=40957656) - [Nevada’s public employee pension fund invests passively and beats peers (2016)](https://www.wsj.com/articles/what-does-nevadas-35-billion-fund-manager-do-all-day-nothing-1476887420)
-* [2024-07-13, 22:22:44](https://news.ycombinator.com/item?id=40957346) - [The Threads Creator Paradox](https://www.augment.ink/the-threads-creator-paradox/)
-* [2024-07-13, 22:11:58](https://news.ycombinator.com/item?id=40957286) - [Bio – Experimental Lisp dialect, written in Zig](https://github.com/cryptocode/bio)
 * [2024-07-13, 19:00:56](https://news.ycombinator.com/item?id=40956087) - [Show HN: Resurrecting a dead Dune RTS game](https://wheybags.com/blog/emperor.html)
 * [2024-07-13, 15:36:59](https://news.ycombinator.com/item?id=40954679) - [Musical Notation for Modular Synthesizers](https://www.perfectcircuit.com/signal/modular-synthesizer-notation)
 * [2024-07-13, 13:47:43](https://news.ycombinator.com/item?id=40954104) - [Disruptor-rs: better latency and throughput than crossbeam](https://github.com/nicholassm/disruptor-rs)
 * [2024-07-12, 09:04:11](https://news.ycombinator.com/item?id=40943891) - [Mazeppa: A modern supercompiler for call-by-value functional languages](https://github.com/mazeppa-dev/mazeppa)
 * [2024-07-11, 14:34:20](https://news.ycombinator.com/item?id=40937260) - [General Theory of Neural Networks](https://robleclerc.substack.com/p/general-theory-of-neural-networks)
+* [2024-07-10, 18:12:52](https://news.ycombinator.com/item?id=40929719) - [The electrifying rise and litigious fall of energy beer](https://snackstack.net/2024/07/10/the-electrifying-rise-and-litigious-fall-of-energy-beer/)
 * [2024-07-09, 10:13:53](https://news.ycombinator.com/item?id=40914350) - [Student uses black soldier flies to grow pea plants in simulated Martian soil](https://phys.org/news/2024-06-aerospace-student-black-soldier-flies.html)
 
 ## [Archives](archives/index.md)

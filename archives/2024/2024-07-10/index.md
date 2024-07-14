@@ -30,6 +30,7 @@
 * [2024-07-10, 19:11:20](https://news.ycombinator.com/item?id=40930319) - [Large Horse](http://large.horse/)
 * [2024-07-10, 18:53:19](https://news.ycombinator.com/item?id=40930139) - [Google testing facial recognition technology for security near Seattle](https://www.cnbc.com/2024/06/26/google-testing-facial-recognition-technology-for-security-near-seattle.html)
 * [2024-07-10, 18:13:09](https://news.ycombinator.com/item?id=40929721) - [Tell HN: Copilot For Business forcibly terminates Copilot Personal subscriptions](https://news.ycombinator.com/item?id=40929721)
+* [2024-07-10, 18:12:52](https://news.ycombinator.com/item?id=40929719) - [The electrifying rise and litigious fall of energy beer](https://snackstack.net/2024/07/10/the-electrifying-rise-and-litigious-fall-of-energy-beer/)
 * [2024-07-10, 18:09:11](https://news.ycombinator.com/item?id=40929683) - [What Was Chevron Deference?](https://www.minimumcomp.com/p/maxmin-chevron-deference)
 * [2024-07-10, 18:08:25](https://news.ycombinator.com/item?id=40929679) - [Senators strike bipartisan deal for ban on stock trading by members of Congress](https://www.cnbc.com/2024/07/10/senators-strike-bipartisan-deal-for-a-ban-on-stock-trading-by-members-of-congress.html)
 * [2024-07-10, 17:58:19](https://news.ycombinator.com/item?id=40929573) - [Known carcinogen is showing up in wildfire ash, researchers are worried (2023)](https://www.npr.org/2023/12/19/1220340295/carcinogen-wildfire-ash-chromium-6-hexavalent-lung-cancer)
