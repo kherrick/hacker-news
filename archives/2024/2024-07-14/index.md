@@ -6,6 +6,7 @@
 
 * [2024-07-14, 09:25:58](https://news.ycombinator.com/item?id=40959858) - [Wikimedia Gitlab Migration Status](https://www.mediawiki.org/wiki/GitLab/Migration_status)
 * [2024-07-14, 09:22:58](https://news.ycombinator.com/item?id=40959851) - [OpenAI whistleblowers ask SEC to investigate alleged restrictive NDAs](https://www.reuters.com/technology/openai-whistleblowers-ask-sec-investigate-restrictive-non-disclosure-agreements-2024-07-13/)
+* [2024-07-14, 09:02:15](https://news.ycombinator.com/item?id=40959787) - [Building and scaling Notion's data lake](https://www.notion.so/de-de/blog/building-and-scaling-notions-data-lake)
 * [2024-07-14, 08:46:40](https://news.ycombinator.com/item?id=40959742) - [Writing a BIOS bootloader for 64-bit mode from scratch](https://thasso.xyz/2024/07/13/setting-up-an-x86-cpu.html)
 * [2024-07-14, 07:59:21](https://news.ycombinator.com/item?id=40959558) - [Z80 CPU Microprocessor Instant Reference Card (1981) [pdf]](https://ballyalley.com/ml/z80_docs/Z80%20CPU%20Instant%20Reference%20Card%20(Color).pdf)
 * [2024-07-14, 07:53:37](https://news.ycombinator.com/item?id=40959526) - [Git-PR: patch requests over SSH](https://pr.pico.sh/)
