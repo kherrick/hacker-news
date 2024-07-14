@@ -1,5 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-14, 07:05:38](https://news.ycombinator.com/item?id=40959348) - [130M American Adults Have Low Literacy Skills](https://www.apmresearchlab.org/10x-adult-literacy)
+* [2024-07-14, 06:40:47](https://news.ycombinator.com/item?id=40959283) - [Wikipedia is rolling out dark mode support](https://www.mediawiki.org/wiki/Reading/Web/Accessibility_for_reading)
 * [2024-07-14, 05:47:15](https://news.ycombinator.com/item?id=40959114) - [Show HN: Procedural Art –– 'Pulse'](https://soham-saha.github.io/ProceduralArt/Pulse/Pulse.html)
 * [2024-07-14, 05:06:28](https://news.ycombinator.com/item?id=40958959) - [ULID: Like UUID but Sortable](https://github.com/ulid/spec)
 * [2024-07-14, 05:01:17](https://news.ycombinator.com/item?id=40958946) - [Firmware Update Hides a Device's Bluetooth Fingerprint](https://today.ucsd.edu/story/a-simple-firmware-update-completely-hides-a-devices-bluetooth-fingerprint)
@@ -22,13 +24,11 @@
 * [2024-07-13, 13:47:43](https://news.ycombinator.com/item?id=40954104) - [Disruptor-rs: better latency and throughput than crossbeam](https://github.com/nicholassm/disruptor-rs)
 * [2024-07-13, 12:01:37](https://news.ycombinator.com/item?id=40953563) - [STEMFIE, a 3D-printable construction set toy](https://www.stemfie.org/)
 * [2024-07-13, 06:12:35](https://news.ycombinator.com/item?id=40952182) - [Gpu.cpp: A lightweight library for portable low-level GPU computation](https://www.answer.ai/posts/2024-07-11--gpu-cpp.html)
-* [2024-07-13, 04:37:02](https://news.ycombinator.com/item?id=40951800) - [Introduction to Calvin and Hobbes: Sunday Pages 1985-1995 (2001)](http://timhulsizer.com/cwords/cintro.html)
-* [2024-07-13, 00:05:23](https://news.ycombinator.com/item?id=40950584) - [Use a work journal](https://fev.al/posts/work-journal/)
 * [2024-07-12, 23:00:25](https://news.ycombinator.com/item?id=40950235) - [Crafting Interpreters](https://craftinginterpreters.com/)
 * [2024-07-10, 23:34:51](https://news.ycombinator.com/item?id=40932512) - [Archipelago: Multiworld Multi-Game Randomizer](https://archipelago.gg/)
 * [2024-07-10, 21:58:18](https://news.ycombinator.com/item?id=40931934) - [Don’t try to sanitize input. Escape output (2020)](https://benhoyt.com/writings/dont-sanitize-do-escape/)
+* [2024-07-10, 14:58:33](https://news.ycombinator.com/item?id=40927644) - [How to organize large Rust codebases](https://kerkour.com/rust-how-to-organize-large-workspaces)
 * [2024-07-10, 02:05:05](https://news.ycombinator.com/item?id=40923096) - [Crocotile3D low poly modelling tool](https://crocotile3d.com/)
-* [2024-07-09, 14:07:09](https://news.ycombinator.com/item?id=40916326) - [Show HN: 30ms latency screen sharing in Rust](https://github.com/bitwhip/bitwhip)
 * [2024-07-09, 10:13:53](https://news.ycombinator.com/item?id=40914350) - [Student uses black soldier flies to grow pea plants in simulated Martian soil](https://phys.org/news/2024-06-aerospace-student-black-soldier-flies.html)
 
 ## [Archives](archives/index.md)
