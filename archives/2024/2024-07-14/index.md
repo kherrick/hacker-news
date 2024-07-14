@@ -4,13 +4,16 @@
 
 ### [Archives](../../index.md) for [2024-07-14](index.md)
 
+* [2024-07-14, 19:33:49](https://news.ycombinator.com/item?id=40962736) - [Complaints about crashing 13th,14th Gen Intel CPUs now have data to back them up](https://www.theverge.com/2024/7/14/24198299/intel-13th-14th-gen-i9-cpu-crashes-telemetry-alderon-games-warframe)
 * [2024-07-14, 19:22:15](https://news.ycombinator.com/item?id=40962698) - [Wrap Your Keyboard with a Vacuum Former](https://hackaday.com/2024/07/14/wrap-your-keyboard-with-a-vacuum-former/)
 * [2024-07-14, 19:21:49](https://news.ycombinator.com/item?id=40962695) - [Over 2,400 patients may have been exposed to HIV, hepatitis at Oregon hospitals](https://www.cbsnews.com/news/oregon-hospital-patients-exposed-infectious-disease-hiv-hepatitis/)
 * [2024-07-14, 19:16:29](https://news.ycombinator.com/item?id=40962675) - [How to Know When It's Time to Go](https://thecodist.com/how-to-know-when-its-time-to-go/)
 * [2024-07-14, 18:49:55](https://news.ycombinator.com/item?id=40962572) - [Disqualified (1954)](https://www.gutenberg.org/cache/epub/30251/pg30251-images.html)
+* [2024-07-14, 18:30:54](https://news.ycombinator.com/item?id=40962470) - [Claustrum neurons projecting to the anterior cingulate restrict engagement](https://www.nature.com/articles/s41467-024-48829-6)
 * [2024-07-14, 17:48:06](https://news.ycombinator.com/item?id=40962249) - [Google on the verge of acquiring cloud security company Wiz for $23B](https://techcrunch.com/2024/07/14/google-reportedly-in-talks-to-acquire-cloud-security-company-wiz-for-23b/)
 * [2024-07-14, 17:44:59](https://news.ycombinator.com/item?id=40962239) - [HIV breakthrough: Trial shows drug provides 100% protection](https://www.universityworldnews.com/post.php?story=20240708145001437)
 * [2024-07-14, 17:42:02](https://news.ycombinator.com/item?id=40962231) - [Calculating position from raw GPS data (2017)](https://www.telesens.co/2017/07/17/calculating-position-from-raw-gps-data/)
+* [2024-07-14, 17:34:26](https://news.ycombinator.com/item?id=40962195) - [Windows 98 Disk Defrag Simulator](https://defrag98.com/)
 * [2024-07-14, 17:25:03](https://news.ycombinator.com/item?id=40962143) - [US Courts to Decide If NFTs Are Securities as DraftKings Case Goes to Trial](https://decrypt.co/238316/draftkings-us-courts-nfts-securities)
 * [2024-07-14, 16:26:31](https://news.ycombinator.com/item?id=40961790) - [In many cases we need something less like AI and more like a basic algorithm](https://zacs.site/blog/you-need-an-algorithm.html)
 * [2024-07-14, 16:23:45](https://news.ycombinator.com/item?id=40961775) - [Linux 6.11 To Allow Tightening Of /proc/[PID]/mem Access For Better Security](https://www.phoronix.com/news/Linux-6.11-Tightens-Mem-Access)
