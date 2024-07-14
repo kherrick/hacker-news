@@ -15,7 +15,6 @@
 * [2024-07-13, 20:22:32](https://news.ycombinator.com/item?id=40956593) - [A Philosophy Professor's Final Class (2023)](https://www.newyorker.com/culture/annals-of-inquiry/a-philosophy-professors-final-class)
 * [2024-07-13, 20:14:10](https://news.ycombinator.com/item?id=40956546) - [Talos: Secure, immutable, and minimal Linux OS for running Kubernetes](https://www.talos.dev)
 * [2024-07-13, 19:00:56](https://news.ycombinator.com/item?id=40956087) - [Show HN: Resurrecting a dead Dune RTS game](https://wheybags.com/blog/emperor.html)
-* [2024-07-13, 18:05:34](https://news.ycombinator.com/item?id=40955693) - [Disney's Internal Slack Breached? NullBulge Leaks 1.1 TiB of Data](https://hackread.com/disneys-internal-slack-breached-nullbulge-leak-data/)
 * [2024-07-13, 17:00:02](https://news.ycombinator.com/item?id=40955226) - [Nango (YC W23) is hiring remotely for their open-source unified API](https://www.nango.dev/jobs)
 * [2024-07-13, 16:14:27](https://news.ycombinator.com/item?id=40954879) - [Give people something to link to](https://simonwillison.net/2024/Jul/13/give-people-something-to-link-to/)
 * [2024-07-13, 15:00:39](https://news.ycombinator.com/item?id=40954497) - [The Illustrated AlphaFold](https://elanapearl.github.io/blog/2024/the-illustrated-alphafold/)
@@ -29,6 +28,7 @@
 * [2024-07-11, 14:42:03](https://news.ycombinator.com/item?id=40937325) - [Where is the most densely populated square kilometre in the UK? (2023)](http://www.statsmapsnpix.com/2023/02/where-is-most-densely-populated-square.html)
 * [2024-07-10, 23:34:51](https://news.ycombinator.com/item?id=40932512) - [Archipelago: Multiworld Multi-Game Randomizer](https://archipelago.gg/)
 * [2024-07-10, 02:05:05](https://news.ycombinator.com/item?id=40923096) - [Crocotile3D low poly modelling tool](https://crocotile3d.com/)
+* [2024-07-09, 14:07:09](https://news.ycombinator.com/item?id=40916326) - [Show HN: 30ms latency screen sharing in Rust](https://github.com/bitwhip/bitwhip)
 * [2024-07-09, 10:13:53](https://news.ycombinator.com/item?id=40914350) - [Student uses black soldier flies to grow pea plants in simulated Martian soil](https://phys.org/news/2024-06-aerospace-student-black-soldier-flies.html)
 
 ## [Archives](archives/index.md)
