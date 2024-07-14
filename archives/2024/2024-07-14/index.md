@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-07-14](index.md)
 
+* [2024-07-14, 12:29:35](https://news.ycombinator.com/item?id=40960553) - [The Economy of Spam (2022)](https://integrityinstitute.org/blog/the-hidden-economy-of-spam)
 * [2024-07-14, 12:20:49](https://news.ycombinator.com/item?id=40960511) - [A beginner's guide to LLM quantization and testing](https://www.theregister.com/2024/07/14/quantization_llm_feature/)
 * [2024-07-14, 12:20:30](https://news.ycombinator.com/item?id=40960508) - [Show HN: I built a Jeopardy game maker with buzzer support](https://buzzinga.io/)
 * [2024-07-14, 12:00:35](https://news.ycombinator.com/item?id=40960402) - [PermitFlow (YC W22) Is Hiring](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
+* [2024-07-14, 10:45:36](https://news.ycombinator.com/item?id=40960128) - [Building the Bell System](https://www.construction-physics.com/p/building-the-bell-system)
 * [2024-07-14, 10:14:19](https://news.ycombinator.com/item?id=40959998) - [\"The New Essential Guide to Electronics in Shenzhen\": Review and Notes](https://type.cyhsu.xyz/2024/07/neges/)
 * [2024-07-14, 09:50:24](https://news.ycombinator.com/item?id=40959937) - [How annual pre-pay creates an infinite marketing budget](https://longform.asmartbear.com/annual-prepay/)
 * [2024-07-14, 09:25:58](https://news.ycombinator.com/item?id=40959858) - [Wikimedia Gitlab Migration Status](https://www.mediawiki.org/wiki/GitLab/Migration_status)
