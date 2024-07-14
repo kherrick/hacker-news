@@ -1,6 +1,7 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-14, 17:25:03](https://news.ycombinator.com/item?id=40962143) - [US Courts to Decide If NFTs Are Securities as DraftKings Case Goes to Trial](https://decrypt.co/238316/draftkings-us-courts-nfts-securities)
+* [2024-07-14, 17:48:06](https://news.ycombinator.com/item?id=40962249) - [Google on the verge of acquiring cloud security company Wiz for $23B](https://techcrunch.com/2024/07/14/google-reportedly-in-talks-to-acquire-cloud-security-company-wiz-for-23b/)
+* [2024-07-14, 16:23:45](https://news.ycombinator.com/item?id=40961775) - [Linux 6.11 To Allow Tightening Of /proc/[PID]/mem Access For Better Security](https://www.phoronix.com/news/Linux-6.11-Tightens-Mem-Access)
 * [2024-07-14, 15:59:23](https://news.ycombinator.com/item?id=40961648) - [Scientists propose glacier geoengineering to avoid sea level rise](https://www.science.org/content/article/avoid-sea-level-rise-some-researchers-want-build-barriers-around-world-s-most)
 * [2024-07-14, 14:56:14](https://news.ycombinator.com/item?id=40961316) - [On Building Systems That Will Fail (1991)](http://larch-www.lcs.mit.edu:8001/~corbato/turing91/)
 * [2024-07-14, 14:27:46](https://news.ycombinator.com/item?id=40961163) - [Fitting an elephant with four non-zero parameters](https://arxiv.org/abs/2407.07909)
@@ -22,7 +23,6 @@
 * [2024-07-13, 23:24:53](https://news.ycombinator.com/item?id=40957656) - [Nevada’s public employee pension fund invests passively and beats peers (2016)](https://www.wsj.com/articles/what-does-nevadas-35-billion-fund-manager-do-all-day-nothing-1476887420)
 * [2024-07-13, 22:22:44](https://news.ycombinator.com/item?id=40957346) - [The Threads Creator Paradox](https://www.augment.ink/the-threads-creator-paradox/)
 * [2024-07-13, 22:11:58](https://news.ycombinator.com/item?id=40957286) - [Bio – Experimental Lisp dialect, written in Zig](https://github.com/cryptocode/bio)
-* [2024-07-13, 20:22:32](https://news.ycombinator.com/item?id=40956593) - [A Philosophy Professor's Final Class (2023)](https://www.newyorker.com/culture/annals-of-inquiry/a-philosophy-professors-final-class)
 * [2024-07-13, 19:00:56](https://news.ycombinator.com/item?id=40956087) - [Show HN: Resurrecting a dead Dune RTS game](https://wheybags.com/blog/emperor.html)
 * [2024-07-13, 15:36:59](https://news.ycombinator.com/item?id=40954679) - [Musical Notation for Modular Synthesizers](https://www.perfectcircuit.com/signal/modular-synthesizer-notation)
 * [2024-07-13, 15:00:39](https://news.ycombinator.com/item?id=40954497) - [The Illustrated AlphaFold](https://elanapearl.github.io/blog/2024/the-illustrated-alphafold/)

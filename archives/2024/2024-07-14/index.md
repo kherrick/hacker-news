@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-07-14](index.md)
 
+* [2024-07-14, 17:48:06](https://news.ycombinator.com/item?id=40962249) - [Google on the verge of acquiring cloud security company Wiz for $23B](https://techcrunch.com/2024/07/14/google-reportedly-in-talks-to-acquire-cloud-security-company-wiz-for-23b/)
 * [2024-07-14, 17:25:03](https://news.ycombinator.com/item?id=40962143) - [US Courts to Decide If NFTs Are Securities as DraftKings Case Goes to Trial](https://decrypt.co/238316/draftkings-us-courts-nfts-securities)
 * [2024-07-14, 16:26:31](https://news.ycombinator.com/item?id=40961790) - [In many cases we need something less like AI and more like a basic algorithm](https://zacs.site/blog/you-need-an-algorithm.html)
+* [2024-07-14, 16:23:45](https://news.ycombinator.com/item?id=40961775) - [Linux 6.11 To Allow Tightening Of /proc/[PID]/mem Access For Better Security](https://www.phoronix.com/news/Linux-6.11-Tightens-Mem-Access)
 * [2024-07-14, 15:59:23](https://news.ycombinator.com/item?id=40961648) - [Scientists propose glacier geoengineering to avoid sea level rise](https://www.science.org/content/article/avoid-sea-level-rise-some-researchers-want-build-barriers-around-world-s-most)
 * [2024-07-14, 15:12:53](https://news.ycombinator.com/item?id=40961414) - [Steve Teixeira sues Mozilla, alleging discrimination after cancer diagnosis](https://www.geekwire.com/2024/mozillas-product-chief-sues-the-firefox-maker-alleging-discrimination-after-cancer-diagnosis/)
 * [2024-07-14, 15:04:39](https://news.ycombinator.com/item?id=40961373) - [AB 1637 requires all cities and counties to transition to a .gov domain](https://www.californiacitynews.org/2023/12/ab-1637-local-government-internet-websites-and-email-addresses.html)
