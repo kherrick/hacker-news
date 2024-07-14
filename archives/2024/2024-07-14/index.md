@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-07-14](index.md)
 
 * [2024-07-14, 09:25:58](https://news.ycombinator.com/item?id=40959858) - [Wikimedia Gitlab Migration Status](https://www.mediawiki.org/wiki/GitLab/Migration_status)
+* [2024-07-14, 09:22:58](https://news.ycombinator.com/item?id=40959851) - [OpenAI whistleblowers ask SEC to investigate alleged restrictive NDAs](https://www.reuters.com/technology/openai-whistleblowers-ask-sec-investigate-restrictive-non-disclosure-agreements-2024-07-13/)
+* [2024-07-14, 08:46:40](https://news.ycombinator.com/item?id=40959742) - [Writing a BIOS bootloader for 64-bit mode from scratch](https://thasso.xyz/2024/07/13/setting-up-an-x86-cpu.html)
 * [2024-07-14, 07:59:21](https://news.ycombinator.com/item?id=40959558) - [Z80 CPU Microprocessor Instant Reference Card (1981) [pdf]](https://ballyalley.com/ml/z80_docs/Z80%20CPU%20Instant%20Reference%20Card%20(Color).pdf)
 * [2024-07-14, 07:53:37](https://news.ycombinator.com/item?id=40959526) - [Git-PR: patch requests over SSH](https://pr.pico.sh/)
 * [2024-07-14, 07:35:40](https://news.ycombinator.com/item?id=40959442) - [The Experience of Deploying Next.js Apps on Cloudflare](https://davidgomes.com/the-experience-of-deploying-next-js-apps-on-cloudflare/)
@@ -15,6 +17,7 @@
 * [2024-07-14, 07:04:38](https://news.ycombinator.com/item?id=40959345) - [Photo appears to capture path of bullet used in assassination attempt](https://archive.is/2024.07.14-064613/https://www.nytimes.com/2024/07/14/us/politics/photo-path-trump-assassination.html)
 * [2024-07-14, 06:58:53](https://news.ycombinator.com/item?id=40959332) - [Go Range Iterators Demystified](https://www.dolthub.com/blog/2024-07-12-golang-range-iters-demystified/)
 * [2024-07-14, 06:40:47](https://news.ycombinator.com/item?id=40959283) - [Wikipedia is rolling out dark mode support](https://www.mediawiki.org/wiki/Reading/Web/Accessibility_for_reading)
+* [2024-07-14, 05:48:55](https://news.ycombinator.com/item?id=40959121) - [Six Dumbest Ideas in Computer Security](http://www.ranum.com/security/computer_security/editorials/dumb/)
 * [2024-07-14, 05:47:15](https://news.ycombinator.com/item?id=40959114) - [Show HN: Procedural Art –– 'Pulse'](https://soham-saha.github.io/ProceduralArt/Pulse/Pulse.html)
 * [2024-07-14, 05:06:28](https://news.ycombinator.com/item?id=40958959) - [ULID: Like UUID but Sortable](https://github.com/ulid/spec)
 * [2024-07-14, 05:01:17](https://news.ycombinator.com/item?id=40958946) - [Firmware Update Hides a Device's Bluetooth Fingerprint](https://today.ucsd.edu/story/a-simple-firmware-update-completely-hides-a-devices-bluetooth-fingerprint)

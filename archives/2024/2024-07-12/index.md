@@ -93,6 +93,7 @@
 * [2024-07-12, 09:36:29](https://news.ycombinator.com/item?id=40944049) - [You can deeplink to a specific PDF page](https://technicalwriting.dev/www/pdf.html)
 * [2024-07-12, 09:33:20](https://news.ycombinator.com/item?id=40944035) - [Learning React: 5 Important Principles About Hooks You Have to Know](https://code.likeagirl.io/learning-react-5-important-principles-about-hooks-you-have-to-know-4967cd9d4eb4)
 * [2024-07-12, 09:06:15](https://news.ycombinator.com/item?id=40943904) - [Show HN: Daminik – An Open source digital asset manager](https://daminik.com)
+* [2024-07-12, 09:04:11](https://news.ycombinator.com/item?id=40943891) - [Mazeppa: A modern supercompiler for call-by-value functional languages](https://github.com/mazeppa-dev/mazeppa)
 * [2024-07-12, 08:45:42](https://news.ycombinator.com/item?id=40943777) - [The Forth Methodology of Charles Moore](https://www.ultratechnology.com/method.htm)
 * [2024-07-12, 08:19:25](https://news.ycombinator.com/item?id=40943607) - [Open-Source No-Code Tools with the Most GitHub Stars](https://www.nocobase.com/en/blog/the-top-12-open-source-no-code-tools-with-the-most-github-stars)
 * [2024-07-12, 07:48:20](https://news.ycombinator.com/item?id=40943470) - [Some thoughts on the web. On web engines, content, and web rent (2023)](https://liberda.nl/weblog/javascript-was-a-mistake/)
