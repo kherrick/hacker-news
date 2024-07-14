@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-14](index.md)
 
+* [2024-07-14, 21:19:39](https://news.ycombinator.com/item?id=40963278) - [Leaked payroll data show how much Valve pays staff and how few people it employs](https://www.theverge.com/2024/7/13/24197477/valve-employs-few-hundred-people-payroll-redacted)
 * [2024-07-14, 20:21:23](https://news.ycombinator.com/item?id=40962997) - [Vacuum Forming Keyboards – The Outcome](https://retrohax.net/vacuum-forming-keyboards-the-outcome/)
 * [2024-07-14, 20:16:45](https://news.ycombinator.com/item?id=40962965) - [Just Be Rich (2021)](https://keenen.xyz/just-be-rich/)
 * [2024-07-14, 20:14:29](https://news.ycombinator.com/item?id=40962942) - [California Grid Breezes Through Heatwave with Batteries](https://thinc.blog/2024/07/14/california-grid-breezes-through-heat-wave-due-to-renewables-batteries/)
