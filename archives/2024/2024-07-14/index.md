@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-14](index.md)
 
+* [2024-07-14, 16:26:31](https://news.ycombinator.com/item?id=40961790) - [In many cases we need something less like AI and more like a basic algorithm](https://zacs.site/blog/you-need-an-algorithm.html)
 * [2024-07-14, 15:12:53](https://news.ycombinator.com/item?id=40961414) - [Steve Teixeira sues Mozilla, alleging discrimination after cancer diagnosis](https://www.geekwire.com/2024/mozillas-product-chief-sues-the-firefox-maker-alleging-discrimination-after-cancer-diagnosis/)
 * [2024-07-14, 15:04:39](https://news.ycombinator.com/item?id=40961373) - [AB 1637 requires all cities and counties to transition to a .gov domain](https://www.californiacitynews.org/2023/12/ab-1637-local-government-internet-websites-and-email-addresses.html)
 * [2024-07-14, 15:03:25](https://news.ycombinator.com/item?id=40961364) - [Templating in JavaScript, from Zero Dependencies on Up (2021)](https://blog.jim-nielsen.com/2021/javascript-templating/)
