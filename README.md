@@ -1,8 +1,9 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-14, 19:22:15](https://news.ycombinator.com/item?id=40962698) - [Wrap Your Keyboard with a Vacuum Former](https://hackaday.com/2024/07/14/wrap-your-keyboard-with-a-vacuum-former/)
+* [2024-07-14, 19:21:49](https://news.ycombinator.com/item?id=40962695) - [Over 2,400 patients may have been exposed to HIV, hepatitis at Oregon hospitals](https://www.cbsnews.com/news/oregon-hospital-patients-exposed-infectious-disease-hiv-hepatitis/)
 * [2024-07-14, 19:16:29](https://news.ycombinator.com/item?id=40962675) - [How to Know When It's Time to Go](https://thecodist.com/how-to-know-when-its-time-to-go/)
 * [2024-07-14, 18:49:55](https://news.ycombinator.com/item?id=40962572) - [Disqualified (1954)](https://www.gutenberg.org/cache/epub/30251/pg30251-images.html)
-* [2024-07-14, 17:44:59](https://news.ycombinator.com/item?id=40962239) - [HIV breakthrough: Trial shows drug provides 100% protection](https://www.universityworldnews.com/post.php?story=20240708145001437)
 * [2024-07-14, 17:42:02](https://news.ycombinator.com/item?id=40962231) - [Calculating position from raw GPS data (2017)](https://www.telesens.co/2017/07/17/calculating-position-from-raw-gps-data/)
 * [2024-07-14, 15:07:25](https://news.ycombinator.com/item?id=40961385) - [Show HN: I generated 70k audiobooks with OpenAI Text-to-Speech](https://listenly.io/gutenberg)
 * [2024-07-14, 14:56:14](https://news.ycombinator.com/item?id=40961316) - [On Building Systems That Will Fail (1991)](http://larch-www.lcs.mit.edu:8001/~corbato/turing91/)
@@ -19,7 +20,6 @@
 * [2024-07-14, 05:48:55](https://news.ycombinator.com/item?id=40959121) - [The six dumbest ideas in computer security (2005)](http://www.ranum.com/security/computer_security/editorials/dumb/)
 * [2024-07-14, 05:01:17](https://news.ycombinator.com/item?id=40958946) - [Firmware update hides a device’s Bluetooth fingerprint](https://today.ucsd.edu/story/a-simple-firmware-update-completely-hides-a-devices-bluetooth-fingerprint)
 * [2024-07-14, 04:52:44](https://news.ycombinator.com/item?id=40958922) - [Giving Life to Æthelstan](https://www.historytoday.com/archive/feature/giving-life-aethelstan)
-* [2024-07-14, 02:07:37](https://news.ycombinator.com/item?id=40958340) - [Pretty pictures, bootable floppy disks, and the first Canon Cat demo?](http://oldvcr.blogspot.com/2024/07/pretty-pictures-bootable-floppy-disks.html)
 * [2024-07-14, 01:01:23](https://news.ycombinator.com/item?id=40958097) - [The Peculiar Phenomenon of Megacryometeors (2006)](https://www.damninteresting.com/the-peculiar-phenomenon-of-megacryometeors/)
 * [2024-07-14, 00:52:51](https://news.ycombinator.com/item?id=40958064) - [How do we make remote meetings not suck? (2018)](https://chelseatroy.com/2018/04/05/how-do-we-make-remote-meetings-not-suck/)
 * [2024-07-13, 23:24:53](https://news.ycombinator.com/item?id=40957656) - [Nevada’s public employee pension fund invests passively and beats peers (2016)](https://www.wsj.com/articles/what-does-nevadas-35-billion-fund-manager-do-all-day-nothing-1476887420)

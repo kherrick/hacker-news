@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-14](index.md)
 
+* [2024-07-14, 19:22:15](https://news.ycombinator.com/item?id=40962698) - [Wrap Your Keyboard with a Vacuum Former](https://hackaday.com/2024/07/14/wrap-your-keyboard-with-a-vacuum-former/)
+* [2024-07-14, 19:21:49](https://news.ycombinator.com/item?id=40962695) - [Over 2,400 patients may have been exposed to HIV, hepatitis at Oregon hospitals](https://www.cbsnews.com/news/oregon-hospital-patients-exposed-infectious-disease-hiv-hepatitis/)
 * [2024-07-14, 19:16:29](https://news.ycombinator.com/item?id=40962675) - [How to Know When It's Time to Go](https://thecodist.com/how-to-know-when-its-time-to-go/)
 * [2024-07-14, 18:49:55](https://news.ycombinator.com/item?id=40962572) - [Disqualified (1954)](https://www.gutenberg.org/cache/epub/30251/pg30251-images.html)
 * [2024-07-14, 17:48:06](https://news.ycombinator.com/item?id=40962249) - [Google on the verge of acquiring cloud security company Wiz for $23B](https://techcrunch.com/2024/07/14/google-reportedly-in-talks-to-acquire-cloud-security-company-wiz-for-23b/)
