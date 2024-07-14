@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-14, 17:25:03",
+      "https://news.ycombinator.com/item?id=40962143"
+    ],
+    [
+      "US Courts to Decide If NFTs Are Securities as DraftKings Case Goes to Trial",
+      "https://decrypt.co/238316/draftkings-us-courts-nfts-securities"
+    ]
+  ],
+  [
+    [
+      "2024-07-14, 15:59:23",
+      "https://news.ycombinator.com/item?id=40961648"
+    ],
+    [
+      "Scientists propose glacier geoengineering to avoid sea level rise",
+      "https://www.science.org/content/article/avoid-sea-level-rise-some-researchers-want-build-barriers-around-world-s-most"
+    ]
+  ],
+  [
+    [
       "2024-07-14, 14:56:14",
       "https://news.ycombinator.com/item?id=40961316"
     ],
@@ -17,6 +37,16 @@
     [
       "Fitting an elephant with four non-zero parameters",
       "https://arxiv.org/abs/2407.07909"
+    ]
+  ],
+  [
+    [
+      "2024-07-14, 14:14:34",
+      "https://news.ycombinator.com/item?id=40961101"
+    ],
+    [
+      "Show HN: I made a TUI for kafka (kaskade)",
+      "https://github.com/sauljabin/kaskade"
     ]
   ],
   [
@@ -87,6 +117,16 @@
     [
       "Git-PR: patch requests over SSH",
       "https://pr.pico.sh/"
+    ]
+  ],
+  [
+    [
+      "2024-07-14, 07:26:17",
+      "https://news.ycombinator.com/item?id=40959412"
+    ],
+    [
+      "Compact Fenwick trees for dynamic ranking and selection (2019)",
+      "https://arxiv.org/abs/1904.12370"
     ]
   ],
   [
@@ -201,16 +241,6 @@
   ],
   [
     [
-      "2024-07-13, 16:20:43",
-      "https://news.ycombinator.com/item?id=40954921"
-    ],
-    [
-      "Exporting private keys in plang programming language",
-      "https://ingig.substack.com/p/exporting-private-keys-in-plang"
-    ]
-  ],
-  [
-    [
       "2024-07-13, 15:36:59",
       "https://news.ycombinator.com/item?id=40954679"
     ],
@@ -237,36 +267,6 @@
     [
       "Disruptor-rs: better latency and throughput than crossbeam",
       "https://github.com/nicholassm/disruptor-rs"
-    ]
-  ],
-  [
-    [
-      "2024-07-13, 10:55:52",
-      "https://news.ycombinator.com/item?id=40953268"
-    ],
-    [
-      "The Birth of Standard Error (2013)",
-      "https://www2.dmst.aueb.gr/dds/blog/20131211/index.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-12, 16:42:37",
-      "https://news.ycombinator.com/item?id=40947170"
-    ],
-    [
-      "Summing ASCII encoded integers on Haswell at almost the speed of memcpy",
-      "http://blog.mattstuchlik.com/2024/07/12/summing-integers-fast.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-12, 11:17:54",
-      "https://news.ycombinator.com/item?id=40944505"
-    ],
-    [
-      "AT&T says criminals stole phone records of 'nearly all' customers in data breach",
-      "https://techcrunch.com/2024/07/12/att-phone-records-stolen-data-breach/"
     ]
   ],
   [
