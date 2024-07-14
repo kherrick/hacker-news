@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2024-07-14](index.md)
 
 * [2024-07-14, 20:21:23](https://news.ycombinator.com/item?id=40962997) - [Vacuum Forming Keyboards – The Outcome](https://retrohax.net/vacuum-forming-keyboards-the-outcome/)
+* [2024-07-14, 20:14:29](https://news.ycombinator.com/item?id=40962942) - [California Grid Breezes Through Heatwave with Batteries](https://thinc.blog/2024/07/14/california-grid-breezes-through-heat-wave-due-to-renewables-batteries/)
+* [2024-07-14, 20:11:40](https://news.ycombinator.com/item?id=40962921) - [A prank cursor resulted in an employee being fired before they started (2020)](https://devblogs.microsoft.com/oldnewthing/20201110-00/?p=104434)
 * [2024-07-14, 19:55:38](https://news.ycombinator.com/item?id=40962829) - [A.I. Needs Copper. It Just Helped to Find Millions of Tons of It in Zambia.](https://www.nytimes.com/2024/07/11/climate/kobold-zambia-copper-ai-mining.html)
 * [2024-07-14, 19:33:49](https://news.ycombinator.com/item?id=40962736) - [Complaints about crashing 13th,14th Gen Intel CPUs now have data to back them up](https://www.theverge.com/2024/7/14/24198299/intel-13th-14th-gen-i9-cpu-crashes-telemetry-alderon-games-warframe)
 * [2024-07-14, 19:22:15](https://news.ycombinator.com/item?id=40962698) - [Wrap Your Keyboard with a Vacuum Former](https://hackaday.com/2024/07/14/wrap-your-keyboard-with-a-vacuum-former/)
