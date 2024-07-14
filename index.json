@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2024-07-14, 00:52:51",
-      "https://news.ycombinator.com/item?id=40958064"
-    ],
-    [
-      "How do we make remote meetings not suck? (2018)",
-      "https://chelseatroy.com/2018/04/05/how-do-we-make-remote-meetings-not-suck/"
-    ]
-  ],
-  [
-    [
       "2024-07-14, 00:42:25",
       "https://news.ycombinator.com/item?id=40958008"
     ],
@@ -227,6 +217,16 @@
     [
       "The Illustrated AlphaFold",
       "https://elanapearl.github.io/blog/2024/the-illustrated-alphafold/"
+    ]
+  ],
+  [
+    [
+      "2024-07-13, 13:47:43",
+      "https://news.ycombinator.com/item?id=40954104"
+    ],
+    [
+      "Disruptor-rs: better latency and throughput than crossbeam",
+      "https://github.com/nicholassm/disruptor-rs"
     ]
   ],
   [
