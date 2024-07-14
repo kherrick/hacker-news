@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-07-14, 12:29:35",
-      "https://news.ycombinator.com/item?id=40960553"
+      "2024-07-14, 12:24:25",
+      "https://news.ycombinator.com/item?id=40960531"
     ],
     [
-      "The Economy of Spam (2022)",
-      "https://integrityinstitute.org/blog/the-hidden-economy-of-spam"
+      "\"Superhuman\" Go AIs still have trouble defending against these simple exploits",
+      "https://arstechnica.com/ai/2024/07/superhuman-go-ais-still-have-trouble-defending-against-these-simple-exploits/"
     ]
   ],
   [
@@ -97,16 +97,6 @@
     [
       "Compact Fenwick trees for dynamic ranking and selection (2019)",
       "https://arxiv.org/abs/1904.12370"
-    ]
-  ],
-  [
-    [
-      "2024-07-14, 05:48:55",
-      "https://news.ycombinator.com/item?id=40959121"
-    ],
-    [
-      "The six dumbest ideas in computer security (2005)",
-      "http://www.ranum.com/security/computer_security/editorials/dumb/"
     ]
   ],
   [
@@ -241,6 +231,26 @@
   ],
   [
     [
+      "2024-07-12, 23:00:25",
+      "https://news.ycombinator.com/item?id=40950235"
+    ],
+    [
+      "Crafting Interpreters",
+      "https://craftinginterpreters.com/"
+    ]
+  ],
+  [
+    [
+      "2024-07-12, 19:52:52",
+      "https://news.ycombinator.com/item?id=40948806"
+    ],
+    [
+      "Free-threaded CPython is ready to experiment with",
+      "https://labs.quansight.org/blog/free-threaded-python-rollout"
+    ]
+  ],
+  [
+    [
       "2024-07-12, 16:42:37",
       "https://news.ycombinator.com/item?id=40947170"
     ],
@@ -267,16 +277,6 @@
     [
       "Mazeppa: A modern supercompiler for call-by-value functional languages",
       "https://github.com/mazeppa-dev/mazeppa"
-    ]
-  ],
-  [
-    [
-      "2024-07-11, 05:59:20",
-      "https://news.ycombinator.com/item?id=40934022"
-    ],
-    [
-      "Oxidize – Notes on moving Harfbuzz and Freetype tools and libraries to Rust",
-      "https://github.com/googlefonts/oxidize"
     ]
   ],
   [
