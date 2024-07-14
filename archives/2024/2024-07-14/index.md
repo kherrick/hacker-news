@@ -8,6 +8,7 @@
 * [2024-07-14, 12:24:25](https://news.ycombinator.com/item?id=40960531) - [\"Superhuman\" Go AIs still have trouble defending against these simple exploits](https://arstechnica.com/ai/2024/07/superhuman-go-ais-still-have-trouble-defending-against-these-simple-exploits/)
 * [2024-07-14, 12:20:49](https://news.ycombinator.com/item?id=40960511) - [A beginner's guide to LLM quantization and testing](https://www.theregister.com/2024/07/14/quantization_llm_feature/)
 * [2024-07-14, 12:20:30](https://news.ycombinator.com/item?id=40960508) - [Show HN: I built a Jeopardy game maker with buzzer support](https://buzzinga.io/)
+* [2024-07-14, 12:20:24](https://news.ycombinator.com/item?id=40960507) - [Show HN: Pour Decision – Alcohol Tracker and Mindful Drinking Companion](https://pourdecision.app/)
 * [2024-07-14, 12:00:35](https://news.ycombinator.com/item?id=40960402) - [PermitFlow (YC W22) Is Hiring](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
 * [2024-07-14, 11:28:07](https://news.ycombinator.com/item?id=40960282) - [Lennart Poettering: Fitting Everything Together](https://0pointer.net/blog/fitting-everything-together.html)
 * [2024-07-14, 10:45:36](https://news.ycombinator.com/item?id=40960128) - [Building the Bell System](https://www.construction-physics.com/p/building-the-bell-system)

@@ -1,8 +1,8 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
 * [2024-07-14, 12:20:30](https://news.ycombinator.com/item?id=40960508) - [Show HN: I built a Jeopardy game maker with buzzer support](https://buzzinga.io/)
+* [2024-07-14, 12:20:24](https://news.ycombinator.com/item?id=40960507) - [Show HN: Pour Decision – Alcohol Tracker and Mindful Drinking Companion](https://pourdecision.app/)
 * [2024-07-14, 12:00:35](https://news.ycombinator.com/item?id=40960402) - [PermitFlow (YC W22) Is Hiring](https://jobs.ashbyhq.com/permitflow?departmentId=d33195eb-8978-4439-abc6-5a8a072de808)
-* [2024-07-14, 11:28:07](https://news.ycombinator.com/item?id=40960282) - [Lennart Poettering: Fitting Everything Together](https://0pointer.net/blog/fitting-everything-together.html)
 * [2024-07-14, 10:45:36](https://news.ycombinator.com/item?id=40960128) - [Building the Bell System](https://www.construction-physics.com/p/building-the-bell-system)
 * [2024-07-14, 09:50:24](https://news.ycombinator.com/item?id=40959937) - [How annual pre-pay creates an infinite marketing budget](https://longform.asmartbear.com/annual-prepay/)
 * [2024-07-14, 09:02:15](https://news.ycombinator.com/item?id=40959787) - [Building and scaling Notion's data lake](https://www.notion.so/de-de/blog/building-and-scaling-notions-data-lake)
