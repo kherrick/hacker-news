@@ -53,6 +53,7 @@
 * [2024-07-13, 06:31:05](https://news.ycombinator.com/item?id=40952248) - [WebContainers: Dev environments. In your web app](https://webcontainers.io/)
 * [2024-07-13, 06:22:22](https://news.ycombinator.com/item?id=40952215) - [AI system achieves 96% accuracy in determining sex from dental X-rays](https://www.psypost.org/ai-system-achieves-96-accuracy-in-determining-sex-from-dental-x-rays/)
 * [2024-07-13, 06:12:35](https://news.ycombinator.com/item?id=40952182) - [gpu.cpp: A lightweight library for portable low-level GPU computation](https://github.com/AnswerDotAI/gpu.cpp)
+* [2024-07-13, 06:12:35](https://news.ycombinator.com/item?id=40952182) - [Gpu.cpp: A lightweight library for portable low-level GPU computation](https://www.answer.ai/posts/2024-07-11--gpu-cpp.html)
 * [2024-07-13, 05:51:52](https://news.ycombinator.com/item?id=40952086) - [Nokia 6600 vs. Samsung S24 Ultra](https://cirrus.twiddles.com/blog/2024/03/06/nokia-6600-vs-samsung-s24-ultra/)
 * [2024-07-13, 05:35:30](https://news.ycombinator.com/item?id=40952022) - [CO poultry workers test positive for bird flu after outbreak at egg facility](https://www.denver7.com/news/state-news/3-colorado-poultry-workers-identified-as-potential-bird-flu-cases-after-outbreak-at-commercial-egg-facility)
 * [2024-07-13, 05:23:28](https://news.ycombinator.com/item?id=40951979) - ['[Swift] failed in my opinion' – Chris Lattner [video]](https://www.youtube.com/watch?v=ovYbgbrQ-v8)
