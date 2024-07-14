@@ -1,5 +1,6 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
+* [2024-07-14, 21:45:55](https://news.ycombinator.com/item?id=40963427) - [Working with stacked branches in Git is easier with –update-refs](https://andrewlock.net/working-with-stacked-branches-in-git-is-easier-with-update-refs/)
 * [2024-07-14, 21:20:28](https://news.ycombinator.com/item?id=40963282) - [Grind – An epic first person shooter for Amiga 500 gets another playable tease](https://www.indieretronews.com/2024/07/grind-epic-first-person-shooter-for.html)
 * [2024-07-14, 21:19:39](https://news.ycombinator.com/item?id=40963278) - [Leaked payroll data show how much Valve pays staff and how few people it employs](https://www.theverge.com/2024/7/13/24197477/valve-employs-few-hundred-people-payroll-redacted)
 * [2024-07-14, 20:16:45](https://news.ycombinator.com/item?id=40962965) - [Just Be Rich (2021)](https://keenen.xyz/just-be-rich/)
@@ -29,7 +30,6 @@
 * [2024-07-12, 09:04:11](https://news.ycombinator.com/item?id=40943891) - [Mazeppa: A modern supercompiler for call-by-value functional languages](https://github.com/mazeppa-dev/mazeppa)
 * [2024-07-11, 14:34:20](https://news.ycombinator.com/item?id=40937260) - [General Theory of Neural Networks](https://robleclerc.substack.com/p/general-theory-of-neural-networks)
 * [2024-07-10, 18:12:52](https://news.ycombinator.com/item?id=40929719) - [The electrifying rise and litigious fall of energy beer](https://snackstack.net/2024/07/10/the-electrifying-rise-and-litigious-fall-of-energy-beer/)
-* [2024-07-09, 10:13:53](https://news.ycombinator.com/item?id=40914350) - [Student uses black soldier flies to grow pea plants in simulated Martian soil](https://phys.org/news/2024-06-aerospace-student-black-soldier-flies.html)
 
 ## [Archives](archives/index.md)
 
