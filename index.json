@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-07-14, 09:02:15",
+      "https://news.ycombinator.com/item?id=40959787"
+    ],
+    [
+      "Building and scaling Notion's data lake",
+      "https://www.notion.so/de-de/blog/building-and-scaling-notions-data-lake"
+    ]
+  ],
+  [
+    [
       "2024-07-14, 08:46:40",
       "https://news.ycombinator.com/item?id=40959742"
     ],
@@ -75,7 +85,7 @@
       "https://news.ycombinator.com/item?id=40959412"
     ],
     [
-      "Compact Fenwick trees for dynamic ranking and selection",
+      "Compact Fenwick trees for dynamic ranking and selection (2019)",
       "https://arxiv.org/abs/1904.12370"
     ]
   ],
@@ -95,7 +105,7 @@
       "https://news.ycombinator.com/item?id=40959332"
     ],
     [
-      "Go Range Iterators Demystified",
+      "Go range iterators demystified",
       "https://www.dolthub.com/blog/2024-07-12-golang-range-iters-demystified/"
     ]
   ],
@@ -105,7 +115,7 @@
       "https://news.ycombinator.com/item?id=40959121"
     ],
     [
-      "Six Dumbest Ideas in Computer Security",
+      "The six dumbest ideas in computer security (2005)",
       "http://www.ranum.com/security/computer_security/editorials/dumb/"
     ]
   ],
@@ -135,18 +145,8 @@
       "https://news.ycombinator.com/item?id=40958946"
     ],
     [
-      "Firmware update hides a device's Bluetooth fingerprint",
+      "Firmware update hides a device’s Bluetooth fingerprint",
       "https://today.ucsd.edu/story/a-simple-firmware-update-completely-hides-a-devices-bluetooth-fingerprint"
-    ]
-  ],
-  [
-    [
-      "2024-07-14, 04:52:44",
-      "https://news.ycombinator.com/item?id=40958922"
-    ],
-    [
-      "Giving Life to Æthelstan",
-      "https://www.historytoday.com/archive/feature/giving-life-aethelstan"
     ]
   ],
   [
@@ -275,7 +275,7 @@
       "https://news.ycombinator.com/item?id=40927997"
     ],
     [
-      "Time, Partitioning, and Synchronization",
+      "Time, partitioning, and synchronization",
       "https://www.alexahn.com/2024/07/time-partitioning-and-synchronization.html"
     ]
   ],
