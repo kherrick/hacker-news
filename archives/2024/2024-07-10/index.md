@@ -50,6 +50,7 @@
 * [2024-07-10, 15:56:23](https://news.ycombinator.com/item?id=40928290) - [Copenhagen rewards tourists for climate friendly actions](https://www.visitcopenhagen.com/copenpay)
 * [2024-07-10, 15:39:25](https://news.ycombinator.com/item?id=40928145) - [Dola Decoding by Contrasting Layers Improves Factuality in Large Language Models](https://arxiv.org/abs/2309.03883)
 * [2024-07-10, 15:38:55](https://news.ycombinator.com/item?id=40928139) - [Imagining spacetime as a visible grid [video]](https://aeon.co/videos/imagining-spacetime-as-a-visible-grid-is-an-extraordinary-journey-into-the-unseen)
+* [2024-07-10, 15:27:29](https://news.ycombinator.com/item?id=40927997) - [Time, Partitioning, and Synchronization](https://www.alexahn.com/2024/07/time-partitioning-and-synchronization.html)
 * [2024-07-10, 15:25:06](https://news.ycombinator.com/item?id=40927970) - [Reading my electric meter with RTLSDR](https://pdx.su/blog/2024-03-17-reading-my-electric-meter-with-rtlsdr/)
 * [2024-07-10, 14:58:33](https://news.ycombinator.com/item?id=40927644) - [How to organize large Rust codebases](https://kerkour.com/rust-how-to-organize-large-workspaces)
 * [2024-07-10, 14:47:31](https://news.ycombinator.com/item?id=40927517) - [Daily Usenet Feed Size Hits 300TB](https://www.newsdemon.com/usenet-newsgroup-feed-size)

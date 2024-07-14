@@ -4,8 +4,11 @@
 
 ### [Archives](../../index.md) for [2024-07-14](index.md)
 
+* [2024-07-14, 07:59:21](https://news.ycombinator.com/item?id=40959558) - [Z80 CPU Microprocessor Instant Reference Card (1981) [pdf]](https://ballyalley.com/ml/z80_docs/Z80%20CPU%20Instant%20Reference%20Card%20(Color).pdf)
 * [2024-07-14, 07:27:57](https://news.ycombinator.com/item?id=40959416) - [Ask HN: Why are PWA user install stats so hard to find?](https://news.ycombinator.com/item?id=40959416)
+* [2024-07-14, 07:09:03](https://news.ycombinator.com/item?id=40959359) - [Samsung declares different TBW for same SSD model on different markets](https://news.ycombinator.com/item?id=40959359)
 * [2024-07-14, 07:05:38](https://news.ycombinator.com/item?id=40959348) - [130M American Adults Have Low Literacy Skills](https://www.apmresearchlab.org/10x-adult-literacy)
+* [2024-07-14, 07:04:38](https://news.ycombinator.com/item?id=40959345) - [Photo appears to capture path of bullet used in assassination attempt](https://archive.is/2024.07.14-064613/https://www.nytimes.com/2024/07/14/us/politics/photo-path-trump-assassination.html)
 * [2024-07-14, 06:58:53](https://news.ycombinator.com/item?id=40959332) - [Go Range Iterators Demystified](https://www.dolthub.com/blog/2024-07-12-golang-range-iters-demystified/)
 * [2024-07-14, 06:40:47](https://news.ycombinator.com/item?id=40959283) - [Wikipedia is rolling out dark mode support](https://www.mediawiki.org/wiki/Reading/Web/Accessibility_for_reading)
 * [2024-07-14, 05:47:15](https://news.ycombinator.com/item?id=40959114) - [Show HN: Procedural Art –– 'Pulse'](https://soham-saha.github.io/ProceduralArt/Pulse/Pulse.html)
