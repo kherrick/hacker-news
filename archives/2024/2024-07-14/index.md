@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-14](index.md)
 
+* [2024-07-14, 22:20:16](https://news.ycombinator.com/item?id=40963622) - [Ash HN: What are some good resources on building a relational database?](https://news.ycombinator.com/item?id=40963622)
 * [2024-07-14, 21:45:55](https://news.ycombinator.com/item?id=40963427) - [Working with stacked branches in Git is easier with –update-refs](https://andrewlock.net/working-with-stacked-branches-in-git-is-easier-with-update-refs/)
 * [2024-07-14, 21:20:28](https://news.ycombinator.com/item?id=40963282) - [Grind – An epic first person shooter for Amiga 500 gets another playable tease](https://www.indieretronews.com/2024/07/grind-epic-first-person-shooter-for.html)
 * [2024-07-14, 21:19:39](https://news.ycombinator.com/item?id=40963278) - [Leaked payroll data show how much Valve pays staff and how few people it employs](https://www.theverge.com/2024/7/13/24197477/valve-employs-few-hundred-people-payroll-redacted)
@@ -12,6 +13,7 @@
 * [2024-07-14, 20:14:29](https://news.ycombinator.com/item?id=40962942) - [California Grid Breezes Through Heatwave with Batteries](https://thinc.blog/2024/07/14/california-grid-breezes-through-heat-wave-due-to-renewables-batteries/)
 * [2024-07-14, 20:11:40](https://news.ycombinator.com/item?id=40962921) - [A prank cursor resulted in an employee being fired before they started (2020)](https://devblogs.microsoft.com/oldnewthing/20201110-00/?p=104434)
 * [2024-07-14, 19:55:38](https://news.ycombinator.com/item?id=40962829) - [A.I. Needs Copper. It Just Helped to Find Millions of Tons of It in Zambia.](https://www.nytimes.com/2024/07/11/climate/kobold-zambia-copper-ai-mining.html)
+* [2024-07-14, 19:43:40](https://news.ycombinator.com/item?id=40962767) - [Fusion – a hobby OS implemented in Nim](https://github.com/khaledh/fusion)
 * [2024-07-14, 19:33:49](https://news.ycombinator.com/item?id=40962736) - [Complaints about crashing 13th,14th Gen Intel CPUs now have data to back them up](https://www.theverge.com/2024/7/14/24198299/intel-13th-14th-gen-i9-cpu-crashes-telemetry-alderon-games-warframe)
 * [2024-07-14, 19:22:15](https://news.ycombinator.com/item?id=40962698) - [Wrap Your Keyboard with a Vacuum Former](https://hackaday.com/2024/07/14/wrap-your-keyboard-with-a-vacuum-former/)
 * [2024-07-14, 19:21:49](https://news.ycombinator.com/item?id=40962695) - [Over 2,400 patients may have been exposed to HIV, hepatitis at Oregon hospitals](https://www.cbsnews.com/news/oregon-hospital-patients-exposed-infectious-disease-hiv-hepatitis/)
