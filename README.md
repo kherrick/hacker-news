@@ -1,6 +1,5 @@
 # [Hacker News](https://kherrick.github.io/hacker-news/)
 
-* [2024-07-14, 22:20:27](https://news.ycombinator.com/item?id=40963623) - [New large value estimates for Dirichlet polynomials](https://arxiv.org/abs/2405.20552)
 * [2024-07-14, 20:11:40](https://news.ycombinator.com/item?id=40962921) - [A prank cursor resulted in an employee being fired before they started (2020)](https://devblogs.microsoft.com/oldnewthing/20201110-00/?p=104434)
 * [2024-07-14, 19:55:38](https://news.ycombinator.com/item?id=40962829) - [A.I. Needs Copper. It Just Helped to Find Millions of Tons of It in Zambia.](https://www.nytimes.com/2024/07/11/climate/kobold-zambia-copper-ai-mining.html)
 * [2024-07-14, 19:43:40](https://news.ycombinator.com/item?id=40962767) - [Fusion – a hobby OS implemented in Nim](https://github.com/khaledh/fusion)
@@ -22,6 +21,7 @@
 * [2024-07-14, 07:53:37](https://news.ycombinator.com/item?id=40959526) - [Git-PR: patch requests over SSH](https://pr.pico.sh/)
 * [2024-07-14, 05:48:55](https://news.ycombinator.com/item?id=40959121) - [The six dumbest ideas in computer security (2005)](http://www.ranum.com/security/computer_security/editorials/dumb/)
 * [2024-07-14, 05:01:17](https://news.ycombinator.com/item?id=40958946) - [Firmware update hides a device’s Bluetooth fingerprint](https://today.ucsd.edu/story/a-simple-firmware-update-completely-hides-a-devices-bluetooth-fingerprint)
+* [2024-07-14, 04:52:44](https://news.ycombinator.com/item?id=40958922) - [Giving Life to Æthelstan](https://www.historytoday.com/archive/feature/giving-life-aethelstan)
 * [2024-07-13, 23:24:53](https://news.ycombinator.com/item?id=40957656) - [Nevada’s public employee pension fund invests passively and beats peers (2016)](https://www.wsj.com/articles/what-does-nevadas-35-billion-fund-manager-do-all-day-nothing-1476887420)
 * [2024-07-13, 19:00:56](https://news.ycombinator.com/item?id=40956087) - [Show HN: Resurrecting a dead Dune RTS game](https://wheybags.com/blog/emperor.html)
 * [2024-07-13, 15:36:59](https://news.ycombinator.com/item?id=40954679) - [Musical Notation for Modular Synthesizers](https://www.perfectcircuit.com/signal/modular-synthesizer-notation)
