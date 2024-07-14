@@ -14,6 +14,7 @@
 * [2024-07-14, 19:21:49](https://news.ycombinator.com/item?id=40962695) - [Over 2,400 patients may have been exposed to HIV, hepatitis at Oregon hospitals](https://www.cbsnews.com/news/oregon-hospital-patients-exposed-infectious-disease-hiv-hepatitis/)
 * [2024-07-14, 19:16:29](https://news.ycombinator.com/item?id=40962675) - [How to Know When It's Time to Go](https://thecodist.com/how-to-know-when-its-time-to-go/)
 * [2024-07-14, 19:14:20](https://news.ycombinator.com/item?id=40962663) - [Book Review: The Family That Couldn't Sleep](https://www.astralcodexten.com/p/your-book-review-the-family-that)
+* [2024-07-14, 19:05:21](https://news.ycombinator.com/item?id=40962626) - [AT&T Paid a Hacker $370k to Delete Stolen Phone Records](https://www.wired.com/story/atandt-paid-hacker-300000-to-delete-stolen-call-records/)
 * [2024-07-14, 18:49:55](https://news.ycombinator.com/item?id=40962572) - [Disqualified (1954)](https://www.gutenberg.org/cache/epub/30251/pg30251-images.html)
 * [2024-07-14, 18:30:54](https://news.ycombinator.com/item?id=40962470) - [Claustrum neurons projecting to the anterior cingulate restrict engagement](https://www.nature.com/articles/s41467-024-48829-6)
 * [2024-07-14, 18:29:14](https://news.ycombinator.com/item?id=40962457) - [Study Finds Brain Area Regulating Attention and Wakefulness](https://www.haaretz.com/science-and-health/2024-07-14/ty-article/israeli-study-finds-brain-area-regulating-attention-and-wakefulness/00000190-ace2-d9f4-afd5-eeef185a0000)
