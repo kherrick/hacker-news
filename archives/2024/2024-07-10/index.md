@@ -12,6 +12,7 @@
 * [2024-07-10, 22:23:00](https://news.ycombinator.com/item?id=40932093) - [Model Rocket Nails Vertical Landing After Three-Year Effort](https://hackaday.com/2024/07/10/model-rocket-nails-vertical-landing-after-three-year-effort/)
 * [2024-07-10, 22:08:41](https://news.ycombinator.com/item?id=40932006) - [An Abundance of Katherines: The Game Theory of Baby Naming](https://arxiv.org/abs/2404.00732)
 * [2024-07-10, 22:06:40](https://news.ycombinator.com/item?id=40931986) - [Redbox will shut down, corporate parent is being liquidated](https://www.lowpass.cc/p/redbox-shutting-down)
+* [2024-07-10, 21:58:18](https://news.ycombinator.com/item?id=40931934) - [Don't try to sanitize input. Escape output. (2020)](https://benhoyt.com/writings/dont-sanitize-do-escape/)
 * [2024-07-10, 21:51:51](https://news.ycombinator.com/item?id=40931893) - [Using VLC to watch an m3u8 playlist at a URL with custom Referrer and User Agent](https://gist.github.com/milesrichardson/4661c311199b98023701f6cecd3b89b0)
 * [2024-07-10, 21:24:49](https://news.ycombinator.com/item?id=40931636) - [Scientists Discover a Cause of Lupus, Possible Way to Reverse It](https://news.feinberg.northwestern.edu/2024/07/10/scientists-discover-a-cause-of-lupus-and-a-possible-way-to-reverse-it/)
 * [2024-07-10, 21:20:41](https://news.ycombinator.com/item?id=40931590) - [Physicists have created the most fiendishly difficult maze](https://www.sciencealert.com/physicists-have-created-the-worlds-most-fiendishly-difficult-maze)
