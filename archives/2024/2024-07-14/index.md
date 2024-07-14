@@ -10,6 +10,7 @@
 * [2024-07-14, 19:16:29](https://news.ycombinator.com/item?id=40962675) - [How to Know When It's Time to Go](https://thecodist.com/how-to-know-when-its-time-to-go/)
 * [2024-07-14, 18:49:55](https://news.ycombinator.com/item?id=40962572) - [Disqualified (1954)](https://www.gutenberg.org/cache/epub/30251/pg30251-images.html)
 * [2024-07-14, 18:30:54](https://news.ycombinator.com/item?id=40962470) - [Claustrum neurons projecting to the anterior cingulate restrict engagement](https://www.nature.com/articles/s41467-024-48829-6)
+* [2024-07-14, 18:29:14](https://news.ycombinator.com/item?id=40962457) - [Study Finds Brain Area Regulating Attention and Wakefulness](https://www.haaretz.com/science-and-health/2024-07-14/ty-article/israeli-study-finds-brain-area-regulating-attention-and-wakefulness/00000190-ace2-d9f4-afd5-eeef185a0000)
 * [2024-07-14, 17:48:06](https://news.ycombinator.com/item?id=40962249) - [Google on the verge of acquiring cloud security company Wiz for $23B](https://techcrunch.com/2024/07/14/google-reportedly-in-talks-to-acquire-cloud-security-company-wiz-for-23b/)
 * [2024-07-14, 17:44:59](https://news.ycombinator.com/item?id=40962239) - [HIV breakthrough: Trial shows drug provides 100% protection](https://www.universityworldnews.com/post.php?story=20240708145001437)
 * [2024-07-14, 17:42:02](https://news.ycombinator.com/item?id=40962231) - [Calculating position from raw GPS data (2017)](https://www.telesens.co/2017/07/17/calculating-position-from-raw-gps-data/)
