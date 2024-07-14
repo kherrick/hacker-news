@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-14](index.md)
 
 * [2024-07-14, 17:48:06](https://news.ycombinator.com/item?id=40962249) - [Google on the verge of acquiring cloud security company Wiz for $23B](https://techcrunch.com/2024/07/14/google-reportedly-in-talks-to-acquire-cloud-security-company-wiz-for-23b/)
+* [2024-07-14, 17:44:59](https://news.ycombinator.com/item?id=40962239) - [HIV breakthrough: Trial shows drug provides 100% protection](https://www.universityworldnews.com/post.php?story=20240708145001437)
 * [2024-07-14, 17:25:03](https://news.ycombinator.com/item?id=40962143) - [US Courts to Decide If NFTs Are Securities as DraftKings Case Goes to Trial](https://decrypt.co/238316/draftkings-us-courts-nfts-securities)
 * [2024-07-14, 16:26:31](https://news.ycombinator.com/item?id=40961790) - [In many cases we need something less like AI and more like a basic algorithm](https://zacs.site/blog/you-need-an-algorithm.html)
 * [2024-07-14, 16:23:45](https://news.ycombinator.com/item?id=40961775) - [Linux 6.11 To Allow Tightening Of /proc/[PID]/mem Access For Better Security](https://www.phoronix.com/news/Linux-6.11-Tightens-Mem-Access)
@@ -16,6 +17,7 @@
 * [2024-07-14, 14:27:46](https://news.ycombinator.com/item?id=40961163) - [Fitting an Elephant with Four Non-Zero Parameters](https://arxiv.org/abs/2407.07909)
 * [2024-07-14, 14:22:13](https://news.ycombinator.com/item?id=40961145) - [A bit more regarding UTM SE on the iPad](https://taoofmac.com/space/blog/2024/07/14/1430)
 * [2024-07-14, 14:14:34](https://news.ycombinator.com/item?id=40961101) - [Show HN: I made a TUI for kafka (kaskade)](https://github.com/sauljabin/kaskade)
+* [2024-07-14, 14:14:27](https://news.ycombinator.com/item?id=40961099) - [Arkenfox: Firefox privacy and anti-tracking user.js GUI view](https://arkenfox.github.io/gui/)
 * [2024-07-14, 13:37:45](https://news.ycombinator.com/item?id=40960886) - [CURLoRA: Stable LLM Fine-Tuning and Catastrophic Forgetting Mitigation](https://zenodo.org/records/12740116)
 * [2024-07-14, 12:29:35](https://news.ycombinator.com/item?id=40960553) - [The Economy of Spam (2022)](https://integrityinstitute.org/blog/the-hidden-economy-of-spam)
 * [2024-07-14, 12:24:25](https://news.ycombinator.com/item?id=40960531) - [\"Superhuman\" Go AIs still have trouble defending against these simple exploits](https://arstechnica.com/ai/2024/07/superhuman-go-ais-still-have-trouble-defending-against-these-simple-exploits/)
